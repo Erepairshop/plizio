@@ -31,7 +31,8 @@
             "de": "Frühstücken Sie eine Ensaimada in einer der Bäckereien in den Seitenstraßen.",
             "hu": "Reggelizzen egy ensaimadát a mellékutcák egyik pékségében.",
             "ro": "Savurați o ensaimada la una dintre brutăriile de pe străzile laterale.",
-            "en": "Enjoy an ensaimada breakfast at one of the bakeries in the side streets."
+            "en": "Enjoy an ensaimada breakfast at one of the bakeries in the side streets.",
+            "es": "Disfruta de una ensaimada en el desayuno en alguna de las pastelerías de las calles laterales."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Bewundern Sie die Mischung aus islamischer und gotischer Architektur.",
             "hu": "Csodálja meg az iszlám és a gótikus építészet keveredését.",
             "ro": "Admirați amestecul de arhitectură islamică și gotică.",
-            "en": "Admire the blend of Islamic and Gothic architecture."
+            "en": "Admire the blend of Islamic and Gothic architecture.",
+            "es": "Admira la mezcla de arquitectura islámica y gótica."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Achten Sie auf das Lichtspiel der riesigen Rosette am Vormittag.",
             "hu": "Figyelje meg a hatalmas rózsaablak fényjátékát délelőtt.",
             "ro": "Observați jocul de lumini al rozasei uriașe în timpul dimineții.",
-            "en": "Watch the light play from the massive rose window during the morning."
+            "en": "Watch the light play from the massive rose window during the morning.",
+            "es": "Observa cómo juega la luz en la enorme roseta durante la mañana."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Das Meisterwerk der bürgerlichen Gotik ist oft kostenlos zugänglich.",
             "hu": "A polgári gótika remekműve gyakran ingyenesen látogatható.",
             "ro": "Capodopera goticului civil este adesea deschisă gratuit.",
-            "en": "This masterpiece of civil Gothic is often free to enter."
+            "en": "This masterpiece of civil Gothic is often free to enter.",
+            "es": "Esta obra maestra del gótico civil suele ser gratuita para entrar."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Genießen Sie den Blick auf den Hafen von der Museumsterrasse.",
             "hu": "Élvezze a kikötőre nyíló kilátást a múzeum teraszáról.",
             "ro": "Bucurați-vă de vederea spre port de pe terasa muzeului.",
-            "en": "Enjoy the harbor view from the museum terrace."
+            "en": "Enjoy the harbor view from the museum terrace.",
+            "es": "Disfruta de la vista al puerto desde la terraza del museo."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Perfekt für einen Kaffee unter den Platanen zum Abschluss.",
             "hu": "Tökéletes hely egy kávéhoz a platánfák alatt a nap végén.",
             "ro": "Perfect pentru o cafea sub platani la finalul zilei.",
-            "en": "Perfect for a coffee under the plane trees at the end of the day."
+            "en": "Perfect for a coffee under the plane trees at the end of the day.",
+            "es": "Perfecto para tomar un café bajo las plataneras al final del día."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Ihr Tag beginnt im Herzen der Altstadt auf der Plaza Mayor. Ein kurzer Spaziergang führt Sie zum prachtvollen Almudaina-Palast und zur majestätischen Kathedrale La Seu, dem Wahrzeichen der Stadt. Nach der Besichtigung schlendern Sie zur Lonja, der alten Seehandelsbörse. Der Nachmittag gehört der modernen Kunst im Es Baluard, bevor Sie den Tag auf dem eleganten Passeig del Born ausklingen lassen.",
         "hu": "A nap az óváros szívében, a Plaza Mayoron indul. Rövid séta után elérjük az Almudaina-palotát és a fenséges La Seu katedrálist, a város jelképét. A látogatás után a Lonja gótikus csarnoka felé vesszük az irányt. Délután az Es Baluard modern művészeti gyűjteményét fedezzük fel, majd a napot az elegáns Passeig del Born platánjai alatt zárjuk.",
         "ro": "Ziua începe în inima orașului vechi, în Plaza Mayor. O scurtă plimbare vă duce la magnificul Palat Almudaina și la maiestuoasa Catedrală La Seu. După vizită, mergeți spre Lonja, vechea bursă maritimă. După-amiaza este dedicată artei moderne la Es Baluard, înainte de a încheia ziua pe eleganta promenadă Passeig del Born.",
-        "en": "Your day starts in the heart of the old town at Plaza Mayor. A short walk leads to the grand Almudaina Palace and the majestic La Seu Cathedral. After the visit, stroll to the Lonja, the old maritime trade exchange. The afternoon is dedicated to modern art at Es Baluard, before ending the day on the elegant Passeig del Born promenade."
+        "en": "Your day starts in the heart of the old town at Plaza Mayor. A short walk leads to the grand Almudaina Palace and the majestic La Seu Cathedral. After the visit, stroll to the Lonja, the old maritime trade exchange. The afternoon is dedicated to modern art at Es Baluard, before ending the day on the elegant Passeig del Born promenade.",
+        "es": "Tu día comienza en el corazón del casco antiguo, en la Plaza Mayor. A un corto paseo se encuentran el grandioso Palacio de la Almudaina y la majestuosa Catedral de La Seu. Tras la visita, pasea hasta la Lonja, la antigua bolsa del comercio marítimo. La tarde está dedicada al arte moderno en Es Baluard, antes de terminar el día en el elegante paseo del Born."
       },
       "gastro_picks": {
         "de": [
@@ -289,6 +296,12 @@
           "The Cathedral has limited visiting hours on Sundays.",
           "Book tickets for La Seu online in advance.",
           "Mind the siesta: many small shops close between 2 PM and 5 PM."
+        ],
+        "es": [
+          "Lleva calzado cómodo para las calles empedradas.",
+          "La Catedral tiene horario de visita limitado los domingos.",
+          "Reserva las entradas para La Seu en línea con antelación.",
+          "Ten en cuenta la siesta: muchas tiendas pequeñas cierran entre las 14:00 y las 17:00."
         ]
       }
     },
@@ -315,7 +328,8 @@
             "de": "Parken Sie im unterirdischen Parkhaus Parc de la Mar.",
             "hu": "Parkoljon a Parc de la Mar alatti mélygarázsban.",
             "ro": "Parcați în parcarea subterană Parc de la Mar.",
-            "en": "Park in the underground Parc de la Mar parking lot."
+            "en": "Park in the underground Parc de la Mar parking lot.",
+            "es": "Aparca en el parking subterráneo Parc de la Mar."
           }
         },
         {
@@ -333,7 +347,8 @@
             "de": "Kurzer Spaziergang vom Parkhaus zum Palast (Cluster 1).",
             "hu": "Rövid séta a parkolótól a palotáig (1. klaszter).",
             "ro": "Scurtă plimbare de la parcare la palat (Cluster 1).",
-            "en": "Short walk from the parking to the palace (Cluster 1)."
+            "en": "Short walk from the parking to the palace (Cluster 1).",
+            "es": "Corto paseo desde el parking hasta el palacio (Cluster 1)."
           }
         },
         {
@@ -351,7 +366,8 @@
             "de": "Genießen Sie den 360-Grad-Blick über die Bucht von Palma.",
             "hu": "Élvezze a 360 fokos panorámát a Palma-öbölre.",
             "ro": "Bucurați-vă de vederea la 360 de grade asupra golfului Palma.",
-            "en": "Enjoy the 360-degree view over the Bay of Palma."
+            "en": "Enjoy the 360-degree view over the Bay of Palma.",
+            "es": "Disfruta de la vista de 360 grados sobre la Bahía de Palma."
           }
         },
         {
@@ -369,7 +385,8 @@
             "de": "Eine kleinere, aber faszinierende Tropfsteinhöhle in der Nähe.",
             "hu": "Egy kisebb, de lenyűgöző cseppkőbarlang a közelben.",
             "ro": "O peșteră cu stalactite mai mică, dar fascinantă, în apropiere.",
-            "en": "A smaller but fascinating limestone cave nearby."
+            "en": "A smaller but fascinating limestone cave nearby.",
+            "es": "Una cueva de piedra caliza más pequeña pero fascinante en las cercanías."
           }
         },
         {
@@ -387,7 +404,8 @@
             "de": "Nutzen Sie das Parkhaus Paseo Mallorca.",
             "hu": "Használja a Paseo Mallorca parkolóházat.",
             "ro": "Folosiți parcarea Paseo Mallorca.",
-            "en": "Use the Paseo Mallorca parking garage."
+            "en": "Use the Paseo Mallorca parking garage.",
+            "es": "Utiliza el aparcamiento de Paseo Mallorca."
           }
         }
       ],
@@ -395,7 +413,8 @@
         "de": "Mit dem Auto erkunden Sie Palma in Clustern. Zuerst besichtigen Sie die Kathedrale und den Palast im Zentrum. Danach fahren Sie hinauf zum Schloss Bellver, der einzigartigen Rundfestung. Ein Abstecher führt Sie zu den Höhlen von Génova, bevor Sie zurückkehren, um den Born-Boulevard zu genießen.",
         "hu": "Autóval klaszterekben fedezzük fel Palmát. Először a központi katedrálist és palotát nézzük meg, majd felautózunk a Bellver-kastélyhoz, amely különleges kerek alaprajzáról híres. Ezután a génovai barlangok felé vesszük az irányt, majd visszatérünk a Born sugárúthoz.",
         "ro": "Cu mașina explorați Palma în clustere. Mai întâi vizitați catedrala și palatul din centru. Apoi conduceți până la Castelul Bellver, fortăreața circulară unică. O scurtă vizită vă duce la peșterile din Génova, înainte de a reveni pentru a vă bucura de bulevardul Born.",
-        "en": "By car, you explore Palma in clusters. First, visit the Cathedral and the Palace in the center. Then drive up to Bellver Castle, the unique circular fortress. A detour takes you to the Génova Caves before returning to enjoy the Born boulevard."
+        "en": "By car, you explore Palma in clusters. First, visit the Cathedral and the Palace in the center. Then drive up to Bellver Castle, the unique circular fortress. A detour takes you to the Génova Caves before returning to enjoy the Born boulevard.",
+        "es": "En coche, exploras Palma por clusters. Primero visita la Catedral y el Palacio en el centro. Luego sube hasta el Castillo de Bellver, la fortaleza circular única. Un desvío te lleva a las Cuevas de Génova antes de volver a disfrutar del paseo del Born."
       },
       "gastro_picks": {
         "de": [
@@ -515,6 +534,11 @@
           "Do not drive into the ACIRE zones (residential only) in the old town.",
           "Parking garage costs in the center are quite high.",
           "Free parking is available right at the entrance of Bellver Castle."
+        ],
+        "es": [
+          "No entres con el coche en las zonas ACIRE (solo residencial) del casco antiguo.",
+          "Los aparcamientos en el centro son bastante caros.",
+          "Hay aparcamiento gratuito justo en la entrada del Castillo de Bellver."
         ]
       }
     }

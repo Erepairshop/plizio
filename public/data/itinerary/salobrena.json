@@ -21,7 +21,8 @@
             "de": "Bóveda de la Plaza",
             "hu": "Plaza-boltozat",
             "ro": "Bolta Pieței",
-            "en": "Bóveda de la Plaza"
+            "en": "Bóveda de la Plaza",
+            "es": "Bóveda de la Plaza"
           },
           "coords": [
             -3.5862,
@@ -36,7 +37,8 @@
             "de": "Historischer Durchgang unter dem Rathausplatz.",
             "hu": "Történelmi átjáró a városháza tere alatt.",
             "ro": "Pasaj istoric sub piața primăriei.",
-            "en": "Historic passage under the town hall square."
+            "en": "Historic passage under the town hall square.",
+            "es": "Pasaje histórico bajo la plaza del ayuntamiento."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Viertel Albaycín",
             "hu": "Albaycín negyed",
             "ro": "Cartierul Albaycín",
-            "en": "Barrio del Albaycín"
+            "en": "Barrio del Albaycín",
+            "es": "Barrio del Albaycín"
           },
           "coords": [
             -3.5875,
@@ -59,7 +62,8 @@
             "de": "Weiße Gassen mit unzähligen Blumentöpfen.",
             "hu": "Fehér utcácskák számtalan virágcseréppel.",
             "ro": "Străzi albe cu nenumărate ghivece de flori.",
-            "en": "White narrow streets with countless flower pots."
+            "en": "White narrow streets with countless flower pots.",
+            "es": "Calles blancas y estrechas con macetas por doquier."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Burg von Salobreña",
             "hu": "Salobreñai vár",
             "ro": "Castelul din Salobreña",
-            "en": "Castillo de Salobreña"
+            "en": "Castillo de Salobreña",
+            "es": "Castillo de Salobreña"
           },
           "coords": [
             -3.5878,
@@ -82,7 +87,8 @@
             "de": "Bester Blick auf die Sierra Nevada und das Meer.",
             "hu": "Legjobb kilátás a Sierra Nevadára és a tengerre.",
             "ro": "Cea mai bună vedere spre Sierra Nevada și mare.",
-            "en": "Best view over the Sierra Nevada and the sea."
+            "en": "Best view over the Sierra Nevada and the sea.",
+            "es": "Mejor mirador sobre la Sierra Nevada y el mar."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kirche Nuestra Señora del Rosario",
             "hu": "Rózsafüzér Királynője templom",
             "ro": "Biserica Nuestra Señora del Rosario",
-            "en": "Iglesia de Nuestra Señora del Rosario"
+            "en": "Iglesia de Nuestra Señora del Rosario",
+            "es": "Iglesia de Nuestra Señora del Rosario"
           },
           "coords": [
             -3.5868,
@@ -105,7 +112,8 @@
             "de": "Mudejar-Stil Kirche, erbaut auf einer alten Moschee.",
             "hu": "Mudéjar stílusú templom, egy régi mecsetre épült.",
             "ro": "Biserică în stil mudejar, construită pe o fostă moschee.",
-            "en": "Mudejar-style church built on top of a former mosque."
+            "en": "Mudejar-style church built on top of a former mosque.",
+            "es": "Iglesia de estilo mudéjar construida sobre una antigua mezquita."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Paseo de las Flores",
             "hu": "Virágok sétánya",
             "ro": "Paseo de las Flores",
-            "en": "Paseo de las Flores"
+            "en": "Paseo de las Flores",
+            "es": "Paseo de las Flores"
           },
           "coords": [
             -3.5885,
@@ -128,7 +137,8 @@
             "de": "Ein schöner Gartenweg unterhalb der Burgmauern.",
             "hu": "Gyönyörű kerti ösvény a várfalak alatt.",
             "ro": "O potecă de grădină frumoasă sub zidurile castelului.",
-            "en": "A beautiful garden path below the castle walls."
+            "en": "A beautiful garden path below the castle walls.",
+            "es": "Un precioso sendero ajardinado bajo las murallas del castillo."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Peñón de Salobreña",
             "hu": "Salobreñai szikla",
             "ro": "Peñón de Salobreña",
-            "en": "El Peñón de Salobreña"
+            "en": "El Peñón de Salobreña",
+            "es": "El Peñón de Salobreña"
           },
           "coords": [
             -3.591,
@@ -151,7 +162,8 @@
             "de": "Felsen, der den Strand teilt, ideal für Fotos.",
             "hu": "A strandot kettéválasztó szikla, ideális fotózáshoz.",
             "ro": "Stâncă ce desparte plaja, ideală pentru fotografii.",
-            "en": "Rock dividing the beach, ideal for photos."
+            "en": "Rock dividing the beach, ideal for photos.",
+            "es": "Peñón que divide la playa, ideal para fotos."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Strand La Charca",
             "hu": "La Charca strand",
             "ro": "Plaja La Charca",
-            "en": "Playa de la Charca"
+            "en": "Playa de la Charca",
+            "es": "Playa de la Charca"
           },
           "coords": [
             -3.593,
@@ -174,7 +187,8 @@
             "de": "Breiter Sandstrand mit Blick auf den Burgfelsen.",
             "hu": "Széles homokos strand kilátással a várhegyre.",
             "ro": "Plajă largă cu nisip și vedere spre stânca castelului.",
-            "en": "Wide sandy beach with views of the castle rock."
+            "en": "Wide sandy beach with views of the castle rock.",
+            "es": "Amplia playa de arena con vistas al peñón del castillo."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Salobreña wirkt wie ein weißes Schiff auf einem grünen Felsen. Unser Spaziergang führt durch die steilen, blumengeschmückten Gassen des Albaycín hinauf zur maurischen Burg. Nach der Kultur in der Altstadt steigen wir hinab zum Wahrzeichen am Meer, dem Peñón, und genießen den Rest des Tages am entspannten Strand La Charca.",
         "hu": "Salobreña olyan, mint egy fehér hajó egy zöld sziklán. Sétánk az Albaycín meredek, virágos utcáin vezet fel a mór várig. Az óvárosi kultúra után leereszkedünk a tengerparti jelképhez, a Peñón-sziklához, és a nap hátralévő részét a La Charca strandon töltjük.",
         "ro": "Salobreña arată ca o navă albă pe o stâncă verde. Plimbarea noastră duce prin străzile abrupte și pline de flori ale Albaycín-ului până la castelul maur. După cultura din orașul vechi, coborâm la simbolul de la malul mării, Peñón, și ne bucurăm de restul zilei pe plaja La Charca.",
-        "en": "Salobreña looks like a white ship on a green rock. Our walk leads through the steep, flower-lined streets of Albaycín up to the Moorish castle. After soaking in the old town's culture, we descend to the sea landmark, El Peñón, and spend the rest of the day at the relaxed La Charca beach."
+        "en": "Salobreña looks like a white ship on a green rock. Our walk leads through the steep, flower-lined streets of Albaycín up to the Moorish castle. After soaking in the old town's culture, we descend to the sea landmark, El Peñón, and spend the rest of the day at the relaxed La Charca beach.",
+        "es": "Salobreña parece un barco blanco sobre una roca verde. Nuestra caminata atraviesa las empinadas calles floridas del Albaycín hasta el castillo moro. Tras empaparnos de la cultura del casco antiguo, descendemos hasta el hito costero, El Peñón, y pasamos el resto del día en la relajada playa de La Charca."
       },
       "gastro_picks": {
         "de": [
@@ -306,6 +321,12 @@
           "Park down by the beach and take the local bus up to the top.",
           "Some alleys are slippery, be careful in wet weather.",
           "The viewpoints offer clear views of the former sugar cane fields."
+        ],
+        "es": [
+          "Visita el castillo al final de la tarde para conseguir una luz suave.",
+          "Aparca junto a la playa y toma el autobús local hasta la parte alta.",
+          "Algunos callejones son resbaladizos; ten cuidado con el suelo mojado.",
+          "Los miradores ofrecen vistas nítidas de las antiguas zonas de cultivo de caña de azúcar."
         ]
       },
       "variants": {
@@ -314,7 +335,8 @@
             "de": "Salobreña wirkt wie ein weißes Schiff auf einem grünen Felsen. Unser Spaziergang führt durch die steilen, blumengeschmückten Gassen des Albaycín hinauf zur maurischen Burg. Nach der Kultur in der Altstadt steigen wir hinab zum Wahrzeichen am Meer, dem Peñón, und genießen den Rest des Tages am entspannten Strand La Charca.",
             "hu": "Salobreña olyan, mint egy fehér hajó egy zöld sziklán. Sétánk az Albaycín meredek, virágos utcáin vezet fel a mór várig. Az óvárosi kultúra után leereszkedünk a tengerparti jelképhez, a Peñón-sziklához, és a nap hátralévő részét a La Charca strandon töltjük.",
             "ro": "Salobreña arată ca o navă albă pe o stâncă verde. Plimbarea noastră duce prin străzile abrupte și pline de flori ale Albaycín-ului până la castelul maur. După cultura din orașul vechi, coborâm la simbolul de la malul mării, Peñón, și ne bucurăm de restul zilei pe plaja La Charca.",
-            "en": "Salobreña looks like a white ship on a green rock. Our walk leads through the steep, flower-lined streets of Albaycín up to the Moorish castle. After soaking in the old town's culture, we descend to the sea landmark, El Peñón, and spend the rest of the day at the relaxed La Charca beach."
+            "en": "Salobreña looks like a white ship on a green rock. Our walk leads through the steep, flower-lined streets of Albaycín up to the Moorish castle. After soaking in the old town's culture, we descend to the sea landmark, El Peñón, and spend the rest of the day at the relaxed La Charca beach.",
+            "es": "Salobreña parece un barco blanco sobre una roca verde. Nuestra caminata atraviesa las empinadas calles floridas del Albaycín hasta el castillo moro. Tras empaparnos de la cultura del casco antiguo, descendemos hasta el hito costero, El Peñón, y pasamos el resto del día en la relajada playa de La Charca."
           },
           "stops": [
             {
@@ -322,13 +344,15 @@
                 "de": "Bóveda de la Plaza",
                 "hu": "Plaza-boltozat",
                 "ro": "Bolta Pieței",
-                "en": "Bóveda de la Plaza"
+                "en": "Bóveda de la Plaza",
+                "es": "Bóveda de la Plaza"
               },
               "tip_5lang": {
                 "de": "Historischer Durchgang unter dem Rathausplatz.",
                 "hu": "Történelmi átjáró a városháza tere alatt.",
                 "ro": "Pasaj istoric sub piața primăriei.",
-                "en": "Historic passage under the town hall square."
+                "en": "Historic passage under the town hall square.",
+                "es": "Pasaje histórico bajo la plaza del ayuntamiento."
               }
             },
             {
@@ -336,13 +360,15 @@
                 "de": "Viertel Albaycín",
                 "hu": "Albaycín negyed",
                 "ro": "Cartierul Albaycín",
-                "en": "Barrio del Albaycín"
+                "en": "Barrio del Albaycín",
+                "es": "Barrio del Albaycín"
               },
               "tip_5lang": {
                 "de": "Weiße Gassen mit unzähligen Blumentöpfen.",
                 "hu": "Fehér utcácskák számtalan virágcseréppel.",
                 "ro": "Străzi albe cu nenumărate ghivece de flori.",
-                "en": "White narrow streets with countless flower pots."
+                "en": "White narrow streets with countless flower pots.",
+                "es": "Calles blancas y estrechas con macetas por doquier."
               }
             },
             {
@@ -350,13 +376,15 @@
                 "de": "Burg von Salobreña",
                 "hu": "Salobreñai vár",
                 "ro": "Castelul din Salobreña",
-                "en": "Castillo de Salobreña"
+                "en": "Castillo de Salobreña",
+                "es": "Castillo de Salobreña"
               },
               "tip_5lang": {
                 "de": "Bester Blick auf die Sierra Nevada und das Meer.",
                 "hu": "Legjobb kilátás a Sierra Nevadára és a tengerre.",
                 "ro": "Cea mai bună vedere spre Sierra Nevada și mare.",
-                "en": "Best view over the Sierra Nevada and the sea."
+                "en": "Best view over the Sierra Nevada and the sea.",
+                "es": "Mejor mirador sobre la Sierra Nevada y el mar."
               }
             },
             {
@@ -364,13 +392,15 @@
                 "de": "Kirche Nuestra Señora del Rosario",
                 "hu": "Rózsafüzér Királynője templom",
                 "ro": "Biserica Nuestra Señora del Rosario",
-                "en": "Iglesia de Nuestra Señora del Rosario"
+                "en": "Iglesia de Nuestra Señora del Rosario",
+                "es": "Iglesia de Nuestra Señora del Rosario"
               },
               "tip_5lang": {
                 "de": "Mudejar-Stil Kirche, erbaut auf einer alten Moschee.",
                 "hu": "Mudéjar stílusú templom, egy régi mecsetre épült.",
                 "ro": "Biserică în stil mudejar, construită pe o fostă moschee.",
-                "en": "Mudejar-style church built on top of a former mosque."
+                "en": "Mudejar-style church built on top of a former mosque.",
+                "es": "Iglesia de estilo mudéjar construida sobre una antigua mezquita."
               }
             },
             {
@@ -378,13 +408,15 @@
                 "de": "Paseo de las Flores",
                 "hu": "Virágok sétánya",
                 "ro": "Paseo de las Flores",
-                "en": "Paseo de las Flores"
+                "en": "Paseo de las Flores",
+                "es": "Paseo de las Flores"
               },
               "tip_5lang": {
                 "de": "Ein schöner Gartenweg unterhalb der Burgmauern.",
                 "hu": "Gyönyörű kerti ösvény a várfalak alatt.",
                 "ro": "O potecă de grădină frumoasă sub zidurile castelului.",
-                "en": "A beautiful garden path below the castle walls."
+                "en": "A beautiful garden path below the castle walls.",
+                "es": "Un precioso sendero ajardinado bajo las murallas del castillo."
               }
             },
             {
@@ -392,13 +424,15 @@
                 "de": "Peñón de Salobreña",
                 "hu": "Salobreñai szikla",
                 "ro": "Peñón de Salobreña",
-                "en": "El Peñón de Salobreña"
+                "en": "El Peñón de Salobreña",
+                "es": "El Peñón de Salobreña"
               },
               "tip_5lang": {
                 "de": "Felsen, der den Strand teilt, ideal für Fotos.",
                 "hu": "A strandot kettéválasztó szikla, ideális fotózáshoz.",
                 "ro": "Stâncă ce desparte plaja, ideală pentru fotografii.",
-                "en": "Rock dividing the beach, ideal for photos."
+                "en": "Rock dividing the beach, ideal for photos.",
+                "es": "Peñón que divide la playa, ideal para fotos."
               }
             },
             {
@@ -406,13 +440,15 @@
                 "de": "Strand La Charca",
                 "hu": "La Charca strand",
                 "ro": "Plaja La Charca",
-                "en": "Playa de la Charca"
+                "en": "Playa de la Charca",
+                "es": "Playa de la Charca"
               },
               "tip_5lang": {
                 "de": "Breiter Sandstrand mit Blick auf den Burgfelsen.",
                 "hu": "Széles homokos strand kilátással a várhegyre.",
                 "ro": "Plajă largă cu nisip și vedere spre stânca castelului.",
-                "en": "Wide sandy beach with views of the castle rock."
+                "en": "Wide sandy beach with views of the castle rock.",
+                "es": "Amplia playa de arena con vistas al peñón del castillo."
               }
             }
           ],
@@ -538,6 +574,12 @@
               "Park down by the beach and take the local bus up to the top.",
               "Some alleys are slippery, be careful in wet weather.",
               "The viewpoints offer clear views of the former sugar cane fields."
+            ],
+            "es": [
+              "Visita el castillo al final de la tarde para conseguir una luz suave.",
+              "Aparca junto a la playa y toma el autobús local hasta la parte alta.",
+              "Algunos callejones son resbaladizos; ten cuidado con el suelo mojado.",
+              "Los miradores ofrecen vistas nítidas de las antiguas zonas de cultivo de caña de azúcar."
             ]
           }
         },
@@ -546,7 +588,8 @@
             "de": "Der Morgen beginnt unter den schützenden Bögen der Altstadt, während sanfter Regen die weißen Gassen von Salobreña in ein mystisches Licht taucht.\n\nMittags erklimmen wir die Festung, deren alte Mauern Schutz bieten und einen dramatischen Blick auf das aufgewühlte Mittelmeer gewähren.\n\nAm Nachmittag schlendern wir zwischen Kirche und Paseo de las Flores, wo die Flora nach dem Regen besonders intensiv duftet.\n\nDer Abend klingt am Peñón aus, wo wir die Kraft der Natur beobachten, bevor wir uns in eine gemütliche Tapas-Bar flüchten.",
             "hu": "A reggel az óváros védelmező boltívei alatt indul, miközben a csendes eső misztikus fénybe vonja Salobreña fehérre meszelt utcáit.\n\nDélben megmásszuk a várat, melynek falai menedéket nyújtanak, és drámai kilátást biztosítanak a felkorbácsolt Földközi-tengerre.\n\nDélután a templom és a Paseo de las Flores környékén sétálunk, ahol a növények illata különösen intenzív az eső után.\n\nAz este a Peñón sziklájánál ér véget, megfigyelve a természet erejét, mielőtt egy hangulatos tapas bárba vonulnánk vissza.",
             "ro": "Dimineața începe sub arcadele protectoare ale centrului vechi, în timp ce o ploaie ușoară îmbracă străzile albe din Salobreña într-o lumină mistică.\n\nLa prânz urcăm la castel, ale cărui ziduri oferă adăpost și o vedere dramatică asupra Mediteranei agitate.\n\nDupă-amiaza ne plimbăm între biserică și Paseo de las Flores, unde parfumul florei este deosebit de intens după ploaie.\n\nSeara se încheie la Peñón, observând forța naturii înainte de a ne refugia într-un bar de tapas primitor.",
-            "en": "The morning begins under the protective arches of the old town, as gentle rain bathes the white streets of Salobreña in a mystical light.\n\nAt noon, we climb to the castle, where the ancient walls provide shelter and offer a dramatic view of the churning Mediterranean Sea.\n\nIn the afternoon, we stroll between the church and Paseo de las Flores, where the scent of the flora is particularly intense after the rain.\n\nThe evening ends at the Peñón, watching the power of nature before retreating into a cozy tapas bar for the night."
+            "en": "The morning begins under the protective arches of the old town, as gentle rain bathes the white streets of Salobreña in a mystical light.\n\nAt noon, we climb to the castle, where the ancient walls provide shelter and offer a dramatic view of the churning Mediterranean Sea.\n\nIn the afternoon, we stroll between the church and Paseo de las Flores, where the scent of the flora is particularly intense after the rain.\n\nThe evening ends at the Peñón, watching the power of nature before retreating into a cozy tapas bar for the night.",
+            "es": "La mañana comienza bajo las bóvedas protectoras del casco antiguo, mientras una lluvia suave baña las calles blancas de Salobreña con una luz mística.\n\nAl mediodía subimos al castillo, donde las antiguas murallas ofrecen refugio y una vista dramática del agitado mar Mediterráneo.\n\nPor la tarde paseamos entre la iglesia y el Paseo de las Flores, donde el aroma de la flora es especialmente intenso tras la lluvia.\n\nLa noche termina en el Peñón, contemplando la fuerza de la naturaleza antes de refugiarse en un acogedor bar de tapas para pasar la noche."
           },
           "stops": [
             {
@@ -555,7 +598,8 @@
                 "de": "Ein trockener Ort, um den ersten Schauer abzuwarten.",
                 "hu": "Száraz hely az első zápor kivárásához.",
                 "ro": "Un loc uscat pentru a aștepta trecerea primei averse.",
-                "en": "A dry spot to wait out the first shower."
+                "en": "A dry spot to wait out the first shower.",
+                "es": "Un lugar cubierto para esperar a que pase el primer chubasco."
               }
             },
             {
@@ -564,7 +608,8 @@
                 "de": "Vorsicht auf den glatten Steinen in den engen Gassen.",
                 "hu": "Vigyázat a csúszós kövekkel a szűk utcákban.",
                 "ro": "Atenție la pietrele alunecoase de pe străzile înguste.",
-                "en": "Be careful on the slippery stones in the narrow streets."
+                "en": "Be careful on the slippery stones in the narrow streets.",
+                "es": "Ten cuidado con las piedras resbaladizas en las calles estrechas."
               }
             },
             {
@@ -573,7 +618,8 @@
                 "de": "Die Innenräume bieten Schutz vor dem Wind und Regen.",
                 "hu": "A belső terek védelmet nyújtanak a szél és eső elől.",
                 "ro": "Spațiile interioare oferă protecție împotriva vântului și ploii.",
-                "en": "The interior spaces provide protection from wind and rain."
+                "en": "The interior spaces provide protection from wind and rain.",
+                "es": "Los espacios interiores brindan protección contra el viento y la lluvia."
               }
             },
             {
@@ -582,7 +628,8 @@
                 "de": "Ideal für eine spirituelle Pause im Trockenen.",
                 "hu": "Ideális egy lelki pihenőhöz a szárazban.",
                 "ro": "Ideal pentru o pauză spirituală la adăpost.",
-                "en": "Ideal for a spiritual break in the dry."
+                "en": "Ideal for a spiritual break in the dry.",
+                "es": "Ideal para una pausa espiritual en seco."
               }
             },
             {
@@ -591,7 +638,8 @@
                 "de": "Die Fliesen können bei Nässe extrem rutschig sein.",
                 "hu": "A járólapok nedvesen rendkívül csúszósak lehetnek.",
                 "ro": "Plăcile pot fi extrem de alunecoase când sunt ude.",
-                "en": "The tiles can be extremely slippery when wet."
+                "en": "The tiles can be extremely slippery when wet.",
+                "es": "Los azulejos pueden ser extremadamente resbaladizos cuando están mojados."
               }
             },
             {
@@ -600,7 +648,8 @@
                 "de": "Vorsicht vor Gischt und Windböen direkt am Meer.",
                 "hu": "Vigyázat a tajtékkal és a széllökésekkel a tengerparton.",
                 "ro": "Atenție la stropii de apă și rafalele de vânt de lângă mare.",
-                "en": "Watch out for sea spray and wind gusts right by the sea."
+                "en": "Watch out for sea spray and wind gusts right by the sea.",
+                "es": "Cuidado con la salpicadura y las rachas de viento junto al mar."
               }
             },
             {
@@ -609,7 +658,8 @@
                 "de": "Die Strandbars sind gute Zufluchtsorte bei Regen.",
                 "hu": "A strandbárok jó búvóhelyek eső esetén.",
                 "ro": "Barurile de pe plajă sunt locuri bune de refugiu în caz de ploaie.",
-                "en": "The beach bars are good shelters if it rains."
+                "en": "The beach bars are good shelters if it rains.",
+                "es": "Las chiringuitos son buenos refugios si llueve."
               }
             }
           ],
@@ -637,6 +687,12 @@
               "Seek shelter in the covered market hall during heavy rain.",
               "A sturdy umbrella is essential due to the sea breeze.",
               "Allow more time for the steep, wet sections of the path."
+            ],
+            "es": [
+              "Lleva calzado antideslizante para las calles empedradas.",
+              "Busca abrigo en la lonja cubierta durante lluvias intensas.",
+              "Un paraguas resistente es esencial por la brisa marina.",
+              "Permite más tiempo para los tramos empinados y mojados del camino."
             ]
           }
         },
@@ -645,7 +701,8 @@
             "de": "Ein frischer Wintermorgen in den steilen Gassen, wo die tiefstehende Sonne die weißen Fassaden hell erleuchtet.\n\nMittags genießen wir die milde Wärme auf den Zinnen der Burg, ohne die drückende Hitze des Sommers.\n\nDer Nachmittag führt uns durch den duftenden Paseo de las Flores hinunter zum Meer, während die Luft kristallklar ist.\n\nAm frühen Abend erleben wir einen spektakulären Sonnenuntergang am Peñón, bevor die kühle Brise uns in die Altstadt zurücktreibt.",
             "hu": "Friss téli reggel a meredek utcákon, ahol az alacsonyan járó nap fényesen világítja meg a fehér homlokzatokat.\n\nDélben a vár bástyáin élvezzük a lágy meleget, a nyári hőség szorongató érzése nélkül.\n\nA délután a Paseo de las Flores illatos kertjein át vezet le a tengerhez, a levegő pedig kristálytiszta.\n\nKora este látványos naplementét élünk át a Peñónnál, mielőtt a hűvös szellő visszaterelne minket az óvárosba.",
             "ro": "O dimineață răcoroasă de iarnă pe străzile abrupte, unde soarele blând luminează puternic fațadele albe.\n\nLa prânz ne bucurăm de căldura plăcută pe zidurile castelului, fără arșița sufocantă a verii.\n\nDupă-amiaza ne poartă prin grădinile parfumate de la Paseo de las Flores spre mare, în timp ce aerul este deosebit de clar.\n\nSeara devreme admirăm un apus spectaculos la Peñón, înainte ca briza rece să ne trimită înapoi în orașul vechi.",
-            "en": "A crisp winter morning in the steep streets, where the low sun brightly illuminates the white facades.\n\nAt noon, we enjoy the mild warmth on the castle ramparts, without the oppressive heat of the summer months.\n\nThe afternoon leads us through the fragrant Paseo de las Flores down to the sea, with the air being crystal clear.\n\nIn the early evening, we experience a spectacular sunset at the Peñón, before the cool breeze drives us back to the old town."
+            "en": "A crisp winter morning in the steep streets, where the low sun brightly illuminates the white facades.\n\nAt noon, we enjoy the mild warmth on the castle ramparts, without the oppressive heat of the summer months.\n\nThe afternoon leads us through the fragrant Paseo de las Flores down to the sea, with the air being crystal clear.\n\nIn the early evening, we experience a spectacular sunset at the Peñón, before the cool breeze drives us back to the old town.",
+            "es": "Una fresca mañana invernal en las calles empinadas, donde el sol bajo ilumina intensamente las fachadas blancas.\n\nAl mediodía disfrutamos del suave calor en las almenas del castillo, sin el agobio del calor veraniego.\n\nLa tarde nos lleva por el fragante Paseo de las Flores hasta el mar, con el aire cristalino.\n\nAl anochecer, vivimos una espectacular puesta de sol en el Peñón, antes de que la brisa fresca nos devuelva al casco antiguo."
           },
           "stops": [
             {
@@ -654,7 +711,8 @@
                 "de": "Hier zieht es weniger als auf den offenen Plätzen.",
                 "hu": "Itt kevésbé huzatos, mint a nyitott tereken.",
                 "ro": "Aici este mai puțin curent decât în piețele deschise.",
-                "en": "It's less draughty here than in the open squares."
+                "en": "It's less draughty here than in the open squares.",
+                "es": "Aquí hay menos corrientes que en las plazas abiertas."
               }
             },
             {
@@ -663,7 +721,8 @@
                 "de": "Gehen Sie auf der Sonnenseite, um warm zu bleiben.",
                 "hu": "Sétáljon a napos oldalon, hogy melegen maradjon.",
                 "ro": "Mergeți pe partea însorită pentru a vă menține căldura.",
-                "en": "Walk on the sunny side to stay warm."
+                "en": "Walk on the sunny side to stay warm.",
+                "es": "Camina por el lado soleado para mantenerte caliente."
               }
             },
             {
@@ -672,7 +731,8 @@
                 "de": "Der Wind auf den Türmen kann im Winter eisig sein.",
                 "hu": "A vártornyokban a szél télen jeges lehet.",
                 "ro": "Vântul din turnuri poate fi tăios pe timpul iernii.",
-                "en": "The wind on the towers can be icy in winter."
+                "en": "The wind on the towers can be icy in winter.",
+                "es": "El viento en las torres puede ser helado en invierno."
               }
             },
             {
@@ -681,7 +741,8 @@
                 "de": "Ein guter Ort, um sich kurz aufzuwärmen.",
                 "hu": "Jó hely egy rövid felmelegedéshez.",
                 "ro": "Un loc bun pentru a vă încălzi puțin.",
-                "en": "A good place to warm up briefly."
+                "en": "A good place to warm up briefly.",
+                "es": "Un buen lugar para entrar en calor brevemente."
               }
             },
             {
@@ -690,7 +751,8 @@
                 "de": "Die Wintersonne bringt die Blumenfarben toll zur Geltung.",
                 "hu": "A téli napfény remekül kiemeli a virágok színeit.",
                 "ro": "Soarele de iarnă scoate frumos în evidență culorile florilor.",
-                "en": "The winter sun brings out the flower colors beautifully."
+                "en": "The winter sun brings out the flower colors beautifully.",
+                "es": "El sol invernal realza los colores de las flores de forma preciosa."
               }
             },
             {
@@ -699,7 +761,8 @@
                 "de": "Perfekter Ort für den Sonnenuntergang, aber Jacke mitnehmen.",
                 "hu": "Tökéletes hely a naplementéhez, de vigyen kabátot.",
                 "ro": "Loc perfect pentru apus, dar luați o jachetă.",
-                "en": "Perfect spot for the sunset, but bring a jacket."
+                "en": "Perfect spot for the sunset, but bring a jacket.",
+                "es": "Lugar perfecto para el atardecer, pero lleva una chaqueta."
               }
             },
             {
@@ -708,7 +771,8 @@
                 "de": "Ideal für einen langen, ruhigen Strandspaziergang.",
                 "hu": "Ideális egy hosszú, nyugodt tengerparti sétához.",
                 "ro": "Ideal pentru o plimbare lungă și liniștită pe plajă.",
-                "en": "Ideal for a long, quiet beach walk."
+                "en": "Ideal for a long, quiet beach walk.",
+                "es": "Ideal para una larga y tranquila caminata por la playa."
               }
             }
           ],
@@ -736,6 +800,12 @@
               "Sunset occurs early, around 18:00.",
               "Layered clothing is ideal for the temperature changes.",
               "Museums often have shorter opening hours in winter."
+            ],
+            "es": [
+              "El sol es fuerte, pero el ambiente se enfría rápido a la sombra.",
+              "El atardecer ocurre pronto, alrededor de las 18:00.",
+              "La ropa por capas es ideal para los cambios de temperatura.",
+              "Los museos suelen tener horarios de apertura más cortos en invierno."
             ]
           }
         }
@@ -754,7 +824,8 @@
             "de": "Zuckerrohr-Ebene",
             "hu": "Cukornád-síkság",
             "ro": "Câmpia de trestie de zahăr",
-            "en": "Sugar Cane Plain"
+            "en": "Sugar Cane Plain",
+            "es": "Sugar Cane Plain"
           },
           "coords": [
             -3.575,
@@ -769,7 +840,8 @@
             "de": "Flache Wege durch die grünen Felder um Salobreña.",
             "hu": "Sík utak a Salobreña körüli zöld mezőkön.",
             "ro": "Drumuri plane prin câmpurile verzi din jurul orașului.",
-            "en": "Flat paths through the green fields around Salobreña."
+            "en": "Flat paths through the green fields around Salobreña.",
+            "es": "Caminos llanos entre los campos verdes alrededor de Salobreña."
           }
         }
       ],
@@ -777,7 +849,8 @@
         "de": "Eine entspannte Radtour führt durch die fruchtbare Ebene, die einst das Herz der Zuckerrohrindustrie war. Wir radeln zwischen den Feldern und entlang der Küste, um die verschiedenen Perspektiven auf den markanten Burgfelsen zu genießen.",
         "hu": "Egy pihentető kerékpártúra a termékeny síkságon, amely egykor a cukornádipar szíve volt. A mezők között és a part mentén tekerünk, élvezve a várhegy különböző perspektíváit.",
         "ro": "Un tur relaxant cu bicicleta prin câmpia fertilă, inima fostei industrii de zahăr. Pedalăm printre câmpuri și de-a lungul coastei pentru a admira castelul din diverse unghiuri.",
-        "en": "A relaxed bike ride through the fertile plain that was once the heart of the sugar cane industry. We cycle between the fields and along the coast to enjoy different perspectives of the prominent castle rock."
+        "en": "A relaxed bike ride through the fertile plain that was once the heart of the sugar cane industry. We cycle between the fields and along the coast to enjoy different perspectives of the prominent castle rock.",
+        "es": "Un relajado paseo en bicicleta por la fértil llanura que fue el corazón de la industria de la caña de azúcar. Pedaleamos entre los campos y por la costa para disfrutar de diferentes perspectivas del prominente peñón del castillo."
       },
       "gastro_picks": {
         "de": [
@@ -885,6 +958,12 @@
           "Avoid cycling during the midday heat in summer.",
           "Cycling in the old town is impossible due to the stairs.",
           "Lock your bike securely when visiting El Peñón."
+        ],
+        "es": [
+          "Los caminos de la llanura no están pavimentados pero son firmes.",
+          "Evita circular en bicicleta durante las horas de más calor del verano.",
+          "Es imposible circular en bicicleta por el casco antiguo debido a las escaleras.",
+          "Asegura bien tu bicicleta cuando visites El Peñón."
         ]
       },
       "variants": {
@@ -893,7 +972,8 @@
             "de": "Eine entspannte Radtour führt durch die fruchtbare Ebene, die einst das Herz der Zuckerrohrindustrie war. Wir radeln zwischen den Feldern und entlang der Küste, um die verschiedenen Perspektiven auf den markanten Burgfelsen zu genießen.",
             "hu": "Egy pihentető kerékpártúra a termékeny síkságon, amely egykor a cukornádipar szíve volt. A mezők között és a part mentén tekerünk, élvezve a várhegy különböző perspektíváit.",
             "ro": "Un tur relaxant cu bicicleta prin câmpia fertilă, inima fostei industrii de zahăr. Pedalăm printre câmpuri și de-a lungul coastei pentru a admira castelul din diverse unghiuri.",
-            "en": "A relaxed bike ride through the fertile plain that was once the heart of the sugar cane industry. We cycle between the fields and along the coast to enjoy different perspectives of the prominent castle rock."
+            "en": "A relaxed bike ride through the fertile plain that was once the heart of the sugar cane industry. We cycle between the fields and along the coast to enjoy different perspectives of the prominent castle rock.",
+            "es": "Paseo en bicicleta relajado por la fértil vega que fue el corazón de la industria de la caña de azúcar. Pedaleamos entre los campos y junto a la costa para disfrutar diferentes perspectivas del prominente peñón del castillo."
           },
           "stops": [
             {
@@ -901,13 +981,15 @@
                 "de": "Zuckerrohr-Ebene",
                 "hu": "Cukornád-síkság",
                 "ro": "Câmpia de trestie de zahăr",
-                "en": "Sugar Cane Plain"
+                "en": "Sugar Cane Plain",
+                "es": "Vega de la caña de azúcar"
               },
               "tip_5lang": {
                 "de": "Flache Wege durch die grünen Felder um Salobreña.",
                 "hu": "Sík utak a Salobreña körüli zöld mezőkön.",
                 "ro": "Drumuri plane prin câmpurile verzi din jurul orașului.",
-                "en": "Flat paths through the green fields around Salobreña."
+                "en": "Flat paths through the green fields around Salobreña.",
+                "es": "Caminos llanos entre los campos verdes alrededor de Salobreña."
               }
             }
           ],
@@ -1017,6 +1099,12 @@
               "Avoid cycling during the midday heat in summer.",
               "Cycling in the old town is impossible due to the stairs.",
               "Lock your bike securely when visiting El Peñón."
+            ],
+            "es": [
+              "Los caminos en la vega están sin asfaltar pero firmes.",
+              "Evita pedalear durante las horas de más calor al mediodía en verano.",
+              "Es imposible circular en bicicleta por el casco antiguo debido a las escaleras.",
+              "Asegura bien tu bicicleta cuando visites El Peñón."
             ]
           }
         },
@@ -1025,7 +1113,8 @@
             "de": "Ein grauer Morgen über den Zuckerrohrfeldern, während wir uns auf den nassen Pfaden den Weg bahnen.\n\nMittags suchen wir Schutz unter den Vordächern der landwirtschaftlichen Gebäude am Rande der Ebene.\n\nDer Nachmittag führt uns entlang der Küste, wo der Asphalt unter den Reifen glänzt und die Gischt uns erfrischt.\n\nAm Abend kehren wir mit schlammigen Rädern zurück, bereit für eine warme Dusche und ein kräftiges Abendessen.",
             "hu": "Szürke reggel a cukornádültetvények felett, miközben utat törünk magunknak a nedves ösvényeken.\n\nDélben a síkság szélén álló mezőgazdasági épületek ereszei alatt keresünk menedéket.\n\nA délután a part mentén vezet, ahol az aszfalt csillog a kerekek alatt, és a tenger permete frissít fel minket.\n\nEste sáros kerékpárokkal térünk vissza, készen egy meleg zuhanyra és egy tartalmas vacsorára.",
             "ro": "O dimineață gri peste câmpurile de trestie de zahăr, în timp ce ne croim drum pe potecile umede.\n\nLa prânz căutăm adăpost sub streșinile clădirilor agricole de la marginea câmpiei.\n\nDupă-amiaza ne poartă de-a lungul coastei, unde asfaltul strălucește sub roți și stropii mării ne răcoresc.\n\nSeara ne întoarcem cu bicicletele pline de noroi, gata pentru un duș cald și o cină copioasă.",
-            "en": "A gray morning over the sugar cane fields, as we make our way along the wet paths.\n\nAt noon, we seek shelter under the eaves of agricultural buildings at the edge of the plain.\n\nThe afternoon leads us along the coast, where the asphalt shines under our tires and the sea spray refreshes us.\n\nIn the evening, we return with muddy bikes, ready for a warm shower and a hearty dinner."
+            "en": "A gray morning over the sugar cane fields, as we make our way along the wet paths.\n\nAt noon, we seek shelter under the eaves of agricultural buildings at the edge of the plain.\n\nThe afternoon leads us along the coast, where the asphalt shines under our tires and the sea spray refreshes us.\n\nIn the evening, we return with muddy bikes, ready for a warm shower and a hearty dinner.",
+            "es": "Una mañana gris sobre los cañaverales, mientras avanzamos por los caminos encharcados.\n\nAl mediodía, buscamos refugio bajo los aleros de las construcciones agrícolas en el borde de la vega.\n\nLa tarde nos lleva por la costa, donde el asfalto brilla bajo nuestras ruedas y la bruma del mar nos refresca.\n\nAl anochecer volvemos con las bicicletas embarradas, listos para una ducha caliente y una cena contundente."
           },
           "stops": [
             {
@@ -1034,7 +1123,8 @@
                 "de": "Die Wege durch die Felder können sehr schlammig werden.",
                 "hu": "A mezőkön átvezető utak nagyon sárosak lehetnek.",
                 "ro": "Drumurile prin câmpuri pot deveni foarte noroioase.",
-                "en": "The paths through the fields can get very muddy."
+                "en": "The paths through the fields can get very muddy.",
+                "es": "Los caminos entre los campos pueden volverse muy embarrados."
               }
             }
           ],
@@ -1062,6 +1152,12 @@
               "Check your brakes before starting on wet roads.",
               "Wear bright clothing in case of poor visibility.",
               "The coastal road can be slippery when it rains."
+            ],
+            "es": [
+              "Evita los caminos sin asfaltar en la vega.",
+              "Revisa los frenos antes de empezar en carreteras mojadas.",
+              "Lleva ropa de colores llamativos en caso de visibilidad reducida.",
+              "La carretera costera puede resbalar cuando llueve."
             ]
           }
         },
@@ -1070,7 +1166,8 @@
             "de": "Ein klarer Wintermorgen bietet die perfekten Temperaturen für eine ausgiebige Radtour durch die Vega.\n\nMittags genießen wir die Sonne auf den weiten Feldern, ohne die Gefahr eines Sonnenbrands wie im Sommer.\n\nAm Nachmittag radeln wir entspannt an der Strandpromenade entlang, die wir fast für uns alleine haben.\n\nDer Abend bricht kühl an, also treten wir kräftig in die Pedale, um rechtzeitig vor Einbruch der Dunkelheit heimzukommen.",
             "hu": "A tiszta téli reggel tökéletes hőmérsékletet kínál egy kiadós kerékpártúrához a Vegán keresztül.\n\nDélben a napsütést élvezzük a tágas mezőkön, a nyári leégés veszélye nélkül.\n\nDélután lazán pedálozunk a tengerparti sétányon, amely szinte csak a miénk.\n\nAz este hűvösen köszönt be, így erősebben hajtunk, hogy még sötétedés előtt hazaérjünk.",
             "ro": "O dimineață senină de iarnă oferă temperaturile perfecte pentru o tură lungă cu bicicleta prin Vega.\n\nLa prânz ne bucurăm de soare pe câmpurile întinse, fără riscul de arsuri solare ca vara.\n\nDupă-amiaza pedalăm relaxați pe faleză, pe care o avem aproape doar pentru noi.\n\nSeara se lasă cu răcoare, așa că pedalăm cu spor pentru a ajunge acasă înainte de lăsarea întunericului.",
-            "en": "A clear winter morning offers the perfect temperatures for an extensive bike tour through the Vega.\n\nAt noon, we enjoy the sun in the vast fields, without the risk of sunburn like in summer.\n\nThe afternoon we cycle relaxed along the beach promenade, which we have almost to ourselves.\n\nThe evening sets in cool, so we pedal hard to get home in time before darkness falls."
+            "en": "A clear winter morning offers the perfect temperatures for an extensive bike tour through the Vega.\n\nAt noon, we enjoy the sun in the vast fields, without the risk of sunburn like in summer.\n\nThe afternoon we cycle relaxed along the beach promenade, which we have almost to ourselves.\n\nThe evening sets in cool, so we pedal hard to get home in time before darkness falls.",
+            "es": "Una clara mañana de invierno ofrece temperaturas perfectas para una extensa ruta en bici por la vega.\n\nAl mediodía disfrutamos del sol en los vastos campos, sin el riesgo de quemaduras como en verano.\n\nPor la tarde pedaleamos relajados por el paseo junto a la playa, que casi tenemos para nosotros.\n\nAl anochecer refresca, así que apretamos el ritmo para llegar a casa antes de que caiga la noche."
           },
           "stops": [
             {
@@ -1079,7 +1176,8 @@
                 "de": "Die milden Temperaturen sind ideal für weite Touren.",
                 "hu": "A lágy hőmérséklet ideális a hosszú túrákhoz.",
                 "ro": "Temperaturile blânde sunt ideale pentru ture lungi.",
-                "en": "The mild temperatures are ideal for long tours."
+                "en": "The mild temperatures are ideal for long tours.",
+                "es": "Las temperaturas suaves son ideales para largas rutas."
               }
             }
           ],
@@ -1107,6 +1205,12 @@
               "Take gloves for the descents.",
               "The afternoon light is ideal for photos.",
               "Be aware of the shorter daylight hours."
+            ],
+            "es": [
+              "La humedad suele ser alta por las mañanas.",
+              "Lleva guantes para los descensos.",
+              "La luz de la tarde es ideal para fotos.",
+              "Ten en cuenta las horas de luz más cortas."
             ]
           }
         }
@@ -1125,7 +1229,8 @@
             "de": "Burg von Salobreña",
             "hu": "Salobreñai vár",
             "ro": "Castelul din Salobreña",
-            "en": "Castillo de Salobreña"
+            "en": "Castillo de Salobreña",
+            "es": "Castillo de Salobreña"
           },
           "coords": [
             -3.5878,
@@ -1140,7 +1245,8 @@
             "de": "Kostenloses Parken am Fuß des Hügels (Radio Salobreña).",
             "hu": "Ingyenes parkolás a domb alján (Radio Salobreña környéke).",
             "ro": "Parcare gratuită la baza dealului.",
-            "en": "Free parking at the foot of the hill."
+            "en": "Free parking at the foot of the hill.",
+            "es": "Aparcamiento gratuito al pie del cerro."
           }
         }
       ],
@@ -1148,7 +1254,8 @@
         "de": "Mit dem Auto erreichen wir die Burg ohne den steilen Aufstieg und können danach bequem die Umgebung von Motril und die Strände der Costa Tropical erkunden. Ideal, um auch die weiter entfernten Buchten wie La Caleta zu besuchen.",
         "hu": "Autóval a meredek felmenet nélkül érjük el a várat, majd kényelmesen felfedezhetjük Motril környékét és a Costa Tropical strandjait. Ideális a távolabbi öblök, mint La Caleta felkereséséhez.",
         "ro": "Cu mașina ajungem la castel fără urcușul abrupt și putem explora împrejurimile orașului Motril și plajele de pe Costa Tropical. Ideal pentru a vizita golfuri mai îndepărtate precum La Caleta.",
-        "en": "By car, we reach the castle without the steep climb and can then easily explore the surroundings of Motril and the beaches of Costa Tropical. Ideal for visiting more distant coves like La Caleta."
+        "en": "By car, we reach the castle without the steep climb and can then easily explore the surroundings of Motril and the beaches of Costa Tropical. Ideal for visiting more distant coves like La Caleta.",
+        "es": "En coche se llega al castillo sin la subida pronunciada y después se puede explorar con facilidad los alrededores de Motril y las playas de la Costa Tropical. Ideal para visitar calas más alejadas como La Caleta."
       },
       "gastro_picks": {
         "de": [
@@ -1256,6 +1363,12 @@
           "There are large parking areas at the beach (some paid).",
           "The coastal road offers great photo opportunities.",
           "Visit the Sugar Museum in nearby Motril."
+        ],
+        "es": [
+          "No entres con el coche en las calles estrechas del Albayzín.",
+          "Hay amplias zonas de aparcamiento en la playa (algunas de pago).",
+          "La carretera costera ofrece excelentes oportunidades fotográficas.",
+          "Visita el Museo de la Caña en la cercana Motril."
         ]
       },
       "variants": {
@@ -1264,7 +1377,8 @@
             "de": "Mit dem Auto erreichen wir die Burg ohne den steilen Aufstieg und können danach bequem die Umgebung von Motril und die Strände der Costa Tropical erkunden. Ideal, um auch die weiter entfernten Buchten wie La Caleta zu besuchen.",
             "hu": "Autóval a meredek felmenet nélkül érjük el a várat, majd kényelmesen felfedezhetjük Motril környékét és a Costa Tropical strandjait. Ideális a távolabbi öblök, mint La Caleta felkereséséhez.",
             "ro": "Cu mașina ajungem la castel fără urcușul abrupt și putem explora împrejurimile orașului Motril și plajele de pe Costa Tropical. Ideal pentru a vizita golfuri mai îndepărtate precum La Caleta.",
-            "en": "By car, we reach the castle without the steep climb and can then easily explore the surroundings of Motril and the beaches of Costa Tropical. Ideal for visiting more distant coves like La Caleta."
+            "en": "By car, we reach the castle without the steep climb and can then easily explore the surroundings of Motril and the beaches of Costa Tropical. Ideal for visiting more distant coves like La Caleta.",
+            "es": "En coche se llega al castillo sin la subida pronunciada y después se puede explorar con facilidad los alrededores de Motril y las playas de la Costa Tropical. Ideal para visitar calas más alejadas como La Caleta."
           },
           "stops": [
             {
@@ -1272,13 +1386,15 @@
                 "de": "Burg von Salobreña",
                 "hu": "Salobreñai vár",
                 "ro": "Castelul din Salobreña",
-                "en": "Castillo de Salobreña"
+                "en": "Castillo de Salobreña",
+                "es": "Castillo de Salobreña"
               },
               "tip_5lang": {
                 "de": "Kostenloses Parken am Fuß des Hügels (Radio Salobreña).",
                 "hu": "Ingyenes parkolás a domb alján (Radio Salobreña környéke).",
                 "ro": "Parcare gratuită la baza dealului.",
-                "en": "Free parking at the foot of the hill."
+                "en": "Free parking at the foot of the hill.",
+                "es": "Aparcamiento gratuito al pie del cerro."
               }
             }
           ],
@@ -1388,6 +1504,12 @@
               "There are large parking areas at the beach (some paid).",
               "The coastal road offers great photo opportunities.",
               "Visit the Sugar Museum in nearby Motril."
+            ],
+            "es": [
+              "No entres con el coche en las calles estrechas del Albayzín.",
+              "Hay amplias zonas de aparcamiento en la playa (algunas de pago).",
+              "La carretera costera ofrece excelentes oportunidades fotográficas.",
+              "Visita el Museo de la Caña en la cercana Motril."
             ]
           }
         },
@@ -1396,7 +1518,8 @@
             "de": "Bequem im Auto sitzend beobachten wir, wie die Regentropfen über die Scheibe laufen, während wir den Burgberg hinauffahren.\n\nMittags parken wir direkt an der Festung und huschen schnell unter die schützenden Portale.\n\nAm Nachmittag machen wir eine Panoramafahrt entlang der Küstenstraße, sicher und trocken vor den Elementen geschützt.\n\nDer Abend endet in einem Restaurant am Hafen, wo wir den Wagen direkt vor der Tür abstellen können.",
             "hu": "Kényelmesen az autóban ülve nézzük, ahogy az esőcseppek végigfolynak a szélvédőn, miközben a várhegyre hajtunk fel.\n\nDélben közvetlenül a várnál parkolunk, és gyorsan a védelmező kapuk alá surranunk.\n\nDélután panorámaautózást teszünk a part menti úton, biztonságban és szárazon az elemektől védve.\n\nAz este egy kikötői étteremben ér véget, ahol közvetlenül az ajtó előtt tehetjük le a kocsit.",
             "ro": "Stând confortabil în mașină, privim cum picăturile de ploaie se scurg pe parbriz în timp ce urcăm dealul castelului.\n\nLa prânz parcăm chiar lângă fortăreață și ne strecurăm rapid sub porțile protectoare.\n\nDupă-amiaza facem o plimbare panoramică pe drumul de coastă, protejați și uscați de intemperii.\n\nSeara se încheie la un restaurant din port, unde putem lăsa mașina chiar în fața ușii.",
-            "en": "Sitting comfortably in the car, we watch the raindrops run down the windshield as we drive up the castle hill.\n\nAt noon, we park right at the fortress and quickly slip under the protective portals.\n\nIn the afternoon, we take a panoramic drive along the coastal road, safe and dry from the elements.\n\nThe evening ends at a restaurant by the harbor, where we can park the car right in front of the door."
+            "en": "Sitting comfortably in the car, we watch the raindrops run down the windshield as we drive up the castle hill.\n\nAt noon, we park right at the fortress and quickly slip under the protective portals.\n\nIn the afternoon, we take a panoramic drive along the coastal road, safe and dry from the elements.\n\nThe evening ends at a restaurant by the harbor, where we can park the car right in front of the door.",
+            "es": "Sentados cómodos en el coche, vemos las gotas correr por el parabrisas mientras subimos al cerro del castillo.\n\nAl mediodía aparcamos junto a la fortaleza y rápidamente nos cobijamos bajo los pórticos protectores.\n\nPor la tarde hacemos un recorrido panorámico por la carretera costera, seguros y secos frente a los elementos.\n\nLa noche termina en un restaurante del puerto, donde podemos aparcar justo delante de la puerta."
           },
           "stops": [
             {
@@ -1405,7 +1528,8 @@
                 "de": "Parken Sie nah am Eingang, um trocken zu bleiben.",
                 "hu": "Parkoljon közel a bejárathoz, hogy száraz maradjon.",
                 "ro": "Parcați aproape de intrare pentru a rămâne uscat.",
-                "en": "Park close to the entrance to stay dry."
+                "en": "Park close to the entrance to stay dry.",
+                "es": "Aparca cerca de la entrada para mantenerte seco."
               }
             }
           ],
@@ -1433,6 +1557,12 @@
               "Central parking garages often fill up quickly.",
               "Drive carefully on the winding mountain roads.",
               "Watch out for aquaplaning on the national road."
+            ],
+            "es": [
+              "La visibilidad puede reducirse considerablemente con fuertes lluvias.",
+              "Los aparcamientos centrales suelen llenarse pronto.",
+              "Conduce con cuidado en las carreteras montañosas sinuosas.",
+              "Cuidado con el aquaplaning en la nacional."
             ]
           }
         },
@@ -1441,7 +1571,8 @@
             "de": "Ein entspannter Start in den Wintertag, mit der Heizung auf angenehmer Temperatur, während wir die Umgebung erkunden.\n\nMittags nutzen wir die gute Parkplatzsituation, um ohne langes Suchen direkt zum Castillo zu gelangen.\n\nDer Nachmittag eignet sich hervorragend für eine Fahrt in die nahegelegenen Alpujarras, wo die Gipfel schneebedeckt sein können.\n\nAm Abend genießen wir den Komfort des Wagens für die Rückfahrt, wenn die Temperaturen draußen spürbar sinken.",
             "hu": "Lazán indul a téli nap, a fűtést kellemesre állítva fedezzük fel a környéket.\n\nDélben kihasználjuk a jó parkolási lehetőségeket, hogy keresgélés nélkül jussunk fel a Castillohoz.\n\nA délután kiválóan alkalmas egy autózásra a közeli Alpujarras felé, ahol a csúcsokat már hó fedheti.\n\nEste élvezzük az autó kényelmét a hazaúton, amikor a kinti hőmérséklet érezhetően csökkenni kezd.",
             "ro": "Un început relaxat de zi de iarnă, cu încălzirea setată la o temperatură plăcută în timp ce explorăm împrejurimile.\n\nLa prânz profităm de locurile de parcare libere pentru a ajunge direct la Castillo fără căutări lungi.\n\nDupă-amiaza este ideală pentru o plimbare spre satele din Alpujarras, unde culmile pot fi înzăpezite.\n\nSeara ne bucurăm de confortul mașinii pentru drumul de întoarcere, când temperaturile de afară scad simțitor.",
-            "en": "A relaxed start to the winter day, with the heater set to a pleasant temperature as we explore the surroundings.\n\nAt noon, we take advantage of the good parking situation to get directly to the Castillo without a long search.\n\nThe afternoon is excellent for a drive to the nearby Alpujarras, where the peaks may be snow-capped.\n\nIn the evening, we enjoy the comfort of the car for the return journey, as temperatures outside drop noticeably."
+            "en": "A relaxed start to the winter day, with the heater set to a pleasant temperature as we explore the surroundings.\n\nAt noon, we take advantage of the good parking situation to get directly to the Castillo without a long search.\n\nThe afternoon is excellent for a drive to the nearby Alpujarras, where the peaks may be snow-capped.\n\nIn the evening, we enjoy the comfort of the car for the return journey, as temperatures outside drop noticeably.",
+            "es": "Inicio relajado del día invernal, con la calefacción a temperatura agradable mientras exploramos los alrededores.\n\nAl mediodía aprovechamos la buena oferta de aparcamiento para acceder al Castillo sin pérdida de tiempo.\n\nLa tarde es excelente para un viaje hasta las Alpujarras cercanas, donde las cumbres pueden estar nevadas.\n\nPor la noche disfrutamos del confort del coche en el viaje de regreso, ya que las temperaturas exteriores bajan notablemente."
           },
           "stops": [
             {
@@ -1450,7 +1581,8 @@
                 "de": "Nutzen Sie die Heizung nach dem windigen Burgbesuch.",
                 "hu": "Használja a fűtést a szeles várlátogatás után.",
                 "ro": "Folosiți încălzirea după vizita vântoasă la castel.",
-                "en": "Use the heater after the windy castle visit."
+                "en": "Use the heater after the windy castle visit.",
+                "es": "Usa la calefacción después de la visita ventosa al castillo."
               }
             }
           ],
@@ -1478,6 +1610,12 @@
               "Finding a parking spot at the beach is much easier.",
               "Use the car for excursions into the hinterland.",
               "The heater provides comfort after your walk."
+            ],
+            "es": [
+              "Rascar el hielo rara vez es necesario en la costa.",
+              "Encontrar plaza junto a la playa es mucho más fácil.",
+              "Usa el coche para excursiones al interior.",
+              "La calefacción proporciona confort tras la caminata."
             ]
           }
         }
@@ -1496,7 +1634,8 @@
             "de": "Stadtbus Haltestelle (Zentrum)",
             "hu": "Városi buszmegálló (Központ)",
             "ro": "Stație autobuz (Centru)",
-            "en": "City Bus Stop (Center)"
+            "en": "City Bus Stop (Center)",
+            "es": "Parada de Autobús Urbano (Centro)"
           },
           "coords": [
             -3.5855,
@@ -1511,7 +1650,8 @@
             "de": "Der 'Bus Urbano' verbindet das Zentrum mit der Burg.",
             "hu": "A 'Bus Urbano' összeköti a központot a várral.",
             "ro": "'Bus Urbano' face legătura între centru și castel.",
-            "en": "The 'Bus Urbano' connects the center with the castle."
+            "en": "The 'Bus Urbano' connects the center with the castle.",
+            "es": "El 'Bus Urbano' conecta el centro con el castillo."
           }
         }
       ],
@@ -1519,7 +1659,8 @@
         "de": "Mit dem kleinen Stadtbus lässt sich der steile Burgberg ohne Mühe bezwingen. Wir pendeln zwischen der Altstadt und dem Strand, was besonders an heißen Tagen eine große Erleichterung ist.",
         "hu": "A kis városi busszal megerőltetés nélkül hódíthatjuk meg a várhegyet. Az óváros és a strand között ingázunk, ami különösen a forró napokon nagy könnyebbség.",
         "ro": "Cu micul autobuz urban puteți cuceri dealul castelului fără efort. Circulăm între orașul vechi și plajă, ceea ce este un mare ajutor în zilele toride.",
-        "en": "The small city bus allows you to conquer the steep castle hill without effort. We shuttle between the old town and the beach, which is a great relief, especially on hot days."
+        "en": "The small city bus allows you to conquer the steep castle hill without effort. We shuttle between the old town and the beach, which is a great relief, especially on hot days.",
+        "es": "El pequeño autobús urbano te permite salvar la pronunciada cuesta del castillo sin esfuerzo. Hacemos el recorrido entre el casco antiguo y la playa, un gran alivio especialmente en los días de calor."
       },
       "gastro_picks": {
         "de": [
@@ -1627,6 +1768,12 @@
           "Schedules are posted at the main stops.",
           "There is a circular route running every 30-60 minutes.",
           "Ask the driver for the 'Parada del Castillo' stop."
+        ],
+        "es": [
+          "El autobús es pequeño y puede llenarse en temporada alta.",
+          "Los horarios están publicados en las paradas principales.",
+          "Hay una ruta circular cada 30-60 minutos.",
+          "Pide al conductor la 'Parada del Castillo'."
         ]
       },
       "variants": {
@@ -1635,7 +1782,8 @@
             "de": "Mit dem kleinen Stadtbus lässt sich der steile Burgberg ohne Mühe bezwingen. Wir pendeln zwischen der Altstadt und dem Strand, was besonders an heißen Tagen eine große Erleichterung ist.",
             "hu": "A kis városi busszal megerőltetés nélkül hódíthatjuk meg a várhegyet. Az óváros és a strand között ingázunk, ami különösen a forró napokon nagy könnyebbség.",
             "ro": "Cu micul autobuz urban puteți cuceri dealul castelului fără efort. Circulăm între orașul vechi și plajă, ceea ce este un mare ajutor în zilele toride.",
-            "en": "The small city bus allows you to conquer the steep castle hill without effort. We shuttle between the old town and the beach, which is a great relief, especially on hot days."
+            "en": "The small city bus allows you to conquer the steep castle hill without effort. We shuttle between the old town and the beach, which is a great relief, especially on hot days.",
+            "es": "El pequeño autobús urbano te permite salvar la pronunciada cuesta del castillo sin esfuerzo. Hacemos el recorrido entre el casco antiguo y la playa, un gran alivio especialmente en los días de calor."
           },
           "stops": [
             {
@@ -1643,13 +1791,15 @@
                 "de": "Stadtbus Haltestelle (Zentrum)",
                 "hu": "Városi buszmegálló (Központ)",
                 "ro": "Stație autobuz (Centru)",
-                "en": "City Bus Stop (Center)"
+                "en": "City Bus Stop (Center)",
+                "es": "Parada de Autobús Urbano (Centro)"
               },
               "tip_5lang": {
                 "de": "Der 'Bus Urbano' verbindet das Zentrum mit der Burg.",
                 "hu": "A 'Bus Urbano' összeköti a központot a várral.",
                 "ro": "'Bus Urbano' face legătura între centru și castel.",
-                "en": "The 'Bus Urbano' connects the center with the castle."
+                "en": "The 'Bus Urbano' connects the center with the castle.",
+                "es": "El 'Bus Urbano' conecta el centro con el castillo."
               }
             }
           ],
@@ -1759,6 +1909,12 @@
               "Schedules are posted at the main stops.",
               "There is a circular route running every 30-60 minutes.",
               "Ask the driver for the 'Parada del Castillo' stop."
+            ],
+            "es": [
+              "El autobús es pequeño y puede llenarse en temporada alta.",
+              "Los horarios están publicados en las paradas principales.",
+              "Hay una ruta circular cada 30-60 minutos.",
+              "Pide al conductor la 'Parada del Castillo'."
             ]
           }
         },
@@ -1767,7 +1923,8 @@
             "de": "Wir starten den Tag im trockenen Bus, der uns mühelos durch die verregneten Straßen der Unterstadt bringt.\n\nMittags steigen wir nahe dem Zentrum aus und finden schnell Unterschlupf in den Cafés rund um die Haltestelle.\n\nAm Nachmittag nutzen wir die lokale Linie, um zum Peñón zu gelangen, ohne selbst durch den Wind laufen zu müssen.\n\nDer Abend bricht an und wir warten im beleuchteten Wartebereich auf den letzten Bus zurück zu unserer Unterkunft.",
             "hu": "A napot a száraz buszban kezdjük, amely gond nélkül visz át minket az alsóváros eső áztatta utcáin.\n\nDélben a központ közelében szállunk le, és gyorsan menedéket találunk a megálló körüli kávézókban.\n\nDélután a helyi járatot használjuk, hogy eljussunk a Peñónhoz, anélkül, hogy a szélben kellene gyalogolnunk.\n\nBeköszönt az este, és a kivilágított váróban várjuk az utolsó buszt, amely visszavisz a szállásunkra.",
             "ro": "Începem ziua în autobuzul uscat, care ne poartă fără efort prin străzile plouate ale orașului de jos.\n\nLa prânz coborâm aproape de centru și găsim rapid adăpost în cafenelele din jurul stației.\n\nDupă-amiaza folosim linia locală pentru a ajunge la Peñón, fără a fi nevoie să mergem pe jos prin vânt.\n\nSeara se lasă și așteptăm în zona luminată a stației ultimul autobuz care să ne ducă înapoi la cazare.",
-            "en": "We start the day in the dry bus, which effortlessly takes us through the rain-soaked streets of the lower town.\n\nAt noon, we get off near the center and quickly find shelter in the cafes around the bus stop.\n\nIn the afternoon, we use the local line to get to the Peñón without having to walk through the wind ourselves.\n\nThe evening sets in and we wait in the illuminated waiting area for the last bus back to our accommodation."
+            "en": "We start the day in the dry bus, which effortlessly takes us through the rain-soaked streets of the lower town.\n\nAt noon, we get off near the center and quickly find shelter in the cafes around the bus stop.\n\nIn the afternoon, we use the local line to get to the Peñón without having to walk through the wind ourselves.\n\nThe evening sets in and we wait in the illuminated waiting area for the last bus back to our accommodation.",
+            "es": "Empezamos el día en el autobús seco, que nos lleva sin esfuerzo por las calles empapadas del barrio bajo.\n\nAl mediodía bajamos cerca del centro y enseguida nos refugiamos en las cafeterías junto a la parada.\n\nPor la tarde usamos la línea local para llegar al Peñón sin tener que caminar contra el viento.\n\nAl anochecer esperamos en la zona iluminada la llegada del último autobús de regreso al alojamiento."
           },
           "stops": [
             {
@@ -1776,7 +1933,8 @@
                 "de": "Der Bus ist die beste Wahl, um nicht nass zu werden.",
                 "hu": "A busz a legjobb választás, hogy ne ázzon el.",
                 "ro": "Autobuzul este cea mai bună alegere pentru a nu vă uda.",
-                "en": "The bus is the best choice to avoid getting wet."
+                "en": "The bus is the best choice to avoid getting wet.",
+                "es": "El autobús es la mejor opción para evitar mojarse."
               }
             }
           ],
@@ -1804,6 +1962,12 @@
               "Have exact change ready for the driver.",
               "Most bus stops do not offer shelter from the weather.",
               "Use the official app for live departure times."
+            ],
+            "es": [
+              "Los autobuses suelen estar más llenos en invierno y en días de lluvia.",
+              "Lleva el importe exacto para el conductor.",
+              "La mayoría de paradas no ofrecen refugio contra el clima.",
+              "Usa la app oficial para horarios en tiempo real."
             ]
           }
         },
@@ -1812,7 +1976,8 @@
             "de": "Ein ruhiger Wintermorgen an der Haltestelle, während wir den Ausblick auf das tiefblaue Meer genießen.\n\nMittags bringt uns der Bus bequem hinauf in die Altstadt, was uns den mühsamen Aufstieg in der kühlen Luft erspart.\n\nDer Nachmittag vergeht wie im Flug, während wir zwischen den Sehenswürdigkeiten pendeln und die klare Sicht bewundern.\n\nAm Abend nutzen wir die beheizte Kabine des Busses für eine entspannte Fahrt entlang der Küste, bevor die Nacht hereinbricht.",
             "hu": "Csendes téli reggel a megállóban, miközben a mélykék tenger látványában gyönyörködünk.\n\nDélben a busz kényelmesen visz fel minket az óvárosba, megkímélve minket a hűvös levegőben való fárasztó hegymászástól.\n\nA délután repül az idővel, miközben a látnivalók között ingázunk és csodáljuk a tiszta kilátást.\n\nEste a busz fűtött utasterét használjuk egy pihentető utazáshoz a part mentén, mielőtt leszállna az éj.",
             "ro": "O dimineață liniștită de iarnă în stație, în timp ce admirăm vederea spre marea de un albastru intens.\n\nLa prânz, autobuzul ne duce confortabil sus în orașul vechi, scutindu-ne de urcușul obositor prin aerul răcoros.\n\nDupă-amiaza trece rapid în timp ce circulăm între obiective și admirăm vizibilitatea clară.\n\nSeara folosim interiorul încălzit al autobuzului pentru o călătorie relaxantă de-a lungul coastei înainte de lăsarea nopții.",
-            "en": "A quiet winter morning at the stop, as we enjoy the view of the deep blue sea.\n\nAt noon, the bus takes us comfortably up into the old town, saving us the strenuous climb in the cool air.\n\nThe afternoon flies by as we commute between the sights and admire the clear view.\n\nIn the evening, we use the heated cabin of the bus for a relaxed ride along the coast before night falls."
+            "en": "A quiet winter morning at the stop, as we enjoy the view of the deep blue sea.\n\nAt noon, the bus takes us comfortably up into the old town, saving us the strenuous climb in the cool air.\n\nThe afternoon flies by as we commute between the sights and admire the clear view.\n\nIn the evening, we use the heated cabin of the bus for a relaxed ride along the coast before night falls.",
+            "es": "Una tranquila mañana invernal en la parada, mientras disfrutamos de la vista del mar azul profundo.\n\nAl mediodía el autobús nos sube cómodamente al casco antiguo, ahorrándonos la subida fatigosa con el aire fresco.\n\nLa tarde pasa volando mientras nos desplazamos entre los lugares de interés y admiramos la vista clara.\n\nPor la noche usamos la cabina calefactada del autobús para un paseo relajado por la costa antes de que caiga la noche."
           },
           "stops": [
             {
@@ -1821,7 +1986,8 @@
                 "de": "Warten Sie lieber drinnen in einem Café auf den Bus.",
                 "hu": "Várja inkább bent a buszt egy kávézóban.",
                 "ro": "Mai bine așteptați autobuzul în interiorul unei cafenele.",
-                "en": "Better to wait for the bus inside a café."
+                "en": "Better to wait for the bus inside a café.",
+                "es": "Mejor esperar el autobús dentro de una cafetería."
               }
             }
           ],
@@ -1849,6 +2015,12 @@
               "Plan your return trip before sunset.",
               "The buses are well-heated and comfortable.",
               "Perfect for tackling the steep paths without exertion."
+            ],
+            "es": [
+              "La frecuencia de los buses a la playa se reduce en invierno.",
+              "Planifica el regreso antes del atardecer.",
+              "Los autobuses están bien calefactados y son cómodos.",
+              "Perfecto para afrontar los caminos empinados sin esfuerzo."
             ]
           }
         }
@@ -1865,19 +2037,22 @@
       "de": "Salobreña ist sehr spanisch gepraegt, im weiss getuenchten Altstadt-Casco werden Sie wenig Englisch hoeren. Spanischkenntnisse erleichtern den Tag, 'donde esta el castillo' oder 'la cuenta por favor' werden Sie oft brauchen.",
       "hu": "Salobreña nagyon spanyol hangulatú, a fehérre meszelt óvárosban alig hallasz angolt. Pár spanyol mondat sokat segít, a 'donde esta el castillo' és a 'la cuenta por favor' biztos nyerő.",
       "ro": "Salobreña e foarte spaniol, in centrul vechi alb nu prea auzi engleza. Cunostintele de spaniola te ajuta mult, vei folosi des 'donde esta el castillo' si 'la cuenta por favor'.",
-      "en": "Salobreña stays deeply Spanish, the whitewashed old town hears little English. A little Spanish goes a long way, you'll lean on 'donde esta el castillo' and 'la cuenta por favor' often."
+      "en": "Salobreña stays deeply Spanish, the whitewashed old town hears little English. A little Spanish goes a long way, you'll lean on 'donde esta el castillo' and 'la cuenta por favor' often.",
+      "es": "Salobreña conserva un marcado carácter español; el casco antiguo oye poco inglés. Un poco de español ayuda mucho: recurrirás a '¿dónde está el castillo?' y 'la cuenta, por favor' con frecuencia."
     },
     "best_time_to_visit": {
       "de": "Mai, Juni und September sind optimal, dann sind die Steinstraende leer und die Zuckerrohrfelder gruen. Juli und August bringen Hitze und ueberfuellte Strandbars, der Winter ist sonnig aber zum Schwimmen zu kuehl.",
       "hu": "Május, június és szeptember a legjobb, a kavicsos strandok üresek, a cukornádföldek zöldek. Júliusban és augusztusban hőség és tömött strandbárok, télen napos, de már hideg a tenger.",
       "ro": "Mai, iunie si septembrie sunt optime, plajele de pietris sunt goale iar campurile de trestie verzi. Iulie si august aduc canicula si chiringuitos pline, iarna e insorita dar marea e prea rece pentru inot.",
-      "en": "May, June and September are best, the pebble beaches stay empty and the sugarcane fields turn lush green. July and August bring heat and packed beach bars, winter is sunny but too cool for swimming."
+      "en": "May, June and September are best, the pebble beaches stay empty and the sugarcane fields turn lush green. July and August bring heat and packed beach bars, winter is sunny but too cool for swimming.",
+      "es": "Mayo, junio y septiembre son los mejores meses; las playas de guijarros quedan vacías y los cañaverales se ponen verdes. Julio y agosto traen calor y chiringuitos llenos; el invierno es soleado pero demasiado fresco para bañarse."
     },
     "neighborhood_warnings": {
       "de": "Salobreña ist ein ruhiges Bergdorf-Strandort und sehr sicher, die engen Altstadtgassen sind nachts gut beleuchtet. Achten Sie auf glatten Pflaster bei Regen und parken Sie unten am Strand, nicht im engen Casco.",
       "hu": "Salobreña csendes hegyifalu-strand és nagyon biztonságos, az óváros szűk utcái éjjel is jól megvilágítottak. A burkolat eső után csúszós lehet, és lent a strandnál parkolj, ne a szűk óvárosban.",
       "ro": "Salobreña e un sat de munte si plaja linistit, foarte sigur, ulitele inguste din centru sunt bine luminate noaptea. Atentie la pavajul alunecos cand ploua si parcheaza jos langa plaja, nu in centrul ingust.",
-      "en": "Salobreña is a quiet hilltop-and-beach village and very safe, the old town lanes are well lit at night. Watch slippery cobbles after rain and park down by the beach, not in the narrow casco."
+      "en": "Salobreña is a quiet hilltop-and-beach village and very safe, the old town lanes are well lit at night. Watch slippery cobbles after rain and park down by the beach, not in the narrow casco.",
+      "es": "Salobreña es un pueblo tranquilo de cerro y playa y muy seguro; las callejuelas del casco antiguo están bien iluminadas por la noche. Cuidado con los adoquines resbaladizos tras la lluvia y aparca junto a la playa, no en el estrecho casco antiguo."
     }
   }
 }

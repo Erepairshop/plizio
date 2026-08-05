@@ -21,7 +21,8 @@
             "de": "Ayuntamiento de Santoña",
             "hu": "Ayuntamiento de Santoña",
             "ro": "Ayuntamiento de Santoña",
-            "en": "Ayuntamiento de Santoña"
+            "en": "Ayuntamiento de Santoña",
+            "es": "Ayuntamiento de Santoña"
           },
           "coords": [
             -3.45615,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die elegante Fassade des Rathauses, bevor Sie den lokalen Markt besuchen, und kommen Sie früh, um den Menschenmassen zu entgehen.",
             "hu": "Csodálja meg a városháza elegáns homlokzatát, mielőtt felkeresné a helyi piacot, és érkezzen korán, hogy elkerülje a nyüzsgő tömeget.",
             "ro": "Admirați fațada elegantă a primăriei înainte de a vizita piața locală și asigurați-vă că ajungeți devreme pentru a evita aglomerația.",
-            "en": "Admire the elegant facade of the town hall before visiting the local market, making sure to arrive early to avoid the bustling crowds."
+            "en": "Admire the elegant facade of the town hall before visiting the local market, making sure to arrive early to avoid the bustling crowds.",
+            "es": "Admira la elegante fachada del ayuntamiento antes de visitar el mercado local; procura llegar temprano para evitar las multitudes."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Parque de Manzanedo",
             "hu": "Parque de Manzanedo",
             "ro": "Parque de Manzanedo",
-            "en": "Parque de Manzanedo"
+            "en": "Parque de Manzanedo",
+            "es": "Parque de Manzanedo"
           },
           "coords": [
             -3.455139,
@@ -59,7 +62,8 @@
             "de": "Machen Sie einen entspannten Spaziergang unter den alten Bäumen dieses schönen Parks und bringen Sie ein kleines Picknick für eine der Bänke mit.",
             "hu": "Tegyen egy pihentető sétát e gyönyörű park idős fái alatt, és hozzon magával egy kis pikniket, amelyet a sok árnyékos pad egyikén fogyaszthat el.",
             "ro": "Faceți o plimbare relaxantă pe sub copacii maturi din acest parc frumos și aduceți un mic picnic pentru a-l savura pe una dintre băncile umbrite.",
-            "en": "Take a relaxing stroll under the mature trees of this beautiful park, and bring a small picnic to enjoy on one of its many shaded benches."
+            "en": "Take a relaxing stroll under the mature trees of this beautiful park, and bring a small picnic to enjoy on one of its many shaded benches.",
+            "es": "Da un paseo relajante bajo los árboles maduros de este bonito parque y lleva un pequeño picnic para disfrutar en uno de sus bancos sombreados."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Monumento a Juan de la Cosa",
             "hu": "Monumento a Juan de la Cosa",
             "ro": "Monumento a Juan de la Cosa",
-            "en": "Monumento a Juan de la Cosa"
+            "en": "Monumento a Juan de la Cosa",
+            "es": "Monumento a Juan de la Cosa"
           },
           "coords": [
             -3.455415,
@@ -82,7 +87,8 @@
             "de": "Zollen Sie dem berühmten Kartographen Tribut, der die erste Weltkarte zeichnete, und betrachten Sie die feinen Details am Sockel des Denkmals.",
             "hu": "Tisztelegjen az első világtérképet rajzoló híres térképész előtt, és szánjon időt az emlékmű talapzatára vésett bonyolult részletek tanulmányozására.",
             "ro": "Aduceți un omagiu celebrului cartograf care a desenat prima hartă a lumii, făcându-vă timp să examinați detaliile complexe de pe baza monumentului.",
-            "en": "Pay tribute to the famous cartographer who drew the first world map, taking time to examine the intricate details engraved on the monument's base."
+            "en": "Pay tribute to the famous cartographer who drew the first world map, taking time to examine the intricate details engraved on the monument's base.",
+            "es": "Rinde homenaje al famoso cartógrafo que dibujó el primer mapa mundial, tomando tiempo para examinar los detalles grabados en la base del monumento."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Playa del Pasaje",
             "hu": "Playa del Pasaje",
             "ro": "Playa del Pasaje",
-            "en": "Playa del Pasaje"
+            "en": "Playa del Pasaje",
+            "es": "Playa del Pasaje"
           },
           "coords": [
             -3.456994,
@@ -105,7 +112,8 @@
             "de": "Spazieren Sie über den ruhigen Sand dieses Strandes an der Bucht und nehmen Sie eine leichte Jacke mit, da die Meeresbrise oft frisch sein kann.",
             "hu": "Sétáljon végig az öbölre néző strand békés homokján, és hozzon magával egy vékony kabátot, mivel a parti szellő délutánonként meglehetősen hűvös lehet.",
             "ro": "Plimbați-vă pe nisipul liniștit al acestei plaje cu vedere la golf, luând o jachetă ușoară deoarece briza poate fi destul de rece după-amiaza.",
-            "en": "Walk along the serene sands of this bay-facing beach, bringing a light jacket as the coastal breeze can sometimes feel quite crisp in the afternoon."
+            "en": "Walk along the serene sands of this bay-facing beach, bringing a light jacket as the coastal breeze can sometimes feel quite crisp in the afternoon.",
+            "es": "Pasea por las serenas arenas de esta playa orientada a la bahía; lleva una chaqueta ligera porque la brisa costera puede refrescar bastante por la tarde."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Fuerte de San Martín",
             "hu": "Fuerte de San Martín",
             "ro": "Fuerte de San Martín",
-            "en": "Fuerte de San Martín"
+            "en": "Fuerte de San Martín",
+            "es": "Fuerte de San Martín"
           },
           "coords": [
             -3.447176,
@@ -128,7 +137,8 @@
             "de": "Erkunden Sie diese imposante Küstenfestung aus dem 17. Jahrhundert und tragen Sie bequeme Schuhe, um sicher über die unebenen Steinwege zu gehen.",
             "hu": "Fedezze fel ezt az öblöt védő, 17. századi impozáns tengerparti erődöt, és viseljen kényelmes cipőt, hogy biztonságosan navigálhasson az egyenetlen utakon.",
             "ro": "Explorați această fortăreață de coastă impunătoare din secolul al XVII-lea și purtați pantofi confortabili pentru a naviga în siguranță pe aleile pietruite.",
-            "en": "Explore this imposing 17th-century coastal fortress that protected the bay, wearing comfortable shoes to navigate its uneven stone pathways safely."
+            "en": "Explore this imposing 17th-century coastal fortress that protected the bay, wearing comfortable shoes to navigate its uneven stone pathways safely.",
+            "es": "Explora esta imponente fortaleza costera del siglo XVII que protegía la bahía; usa calzado cómodo para recorrer sus irregulares caminos de piedra con seguridad."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Fuerte de San Carlos",
             "hu": "Fuerte de San Carlos",
             "ro": "Fuerte de San Carlos",
-            "en": "Fuerte de San Carlos"
+            "en": "Fuerte de San Carlos",
+            "es": "Fuerte de San Carlos"
           },
           "coords": [
             -3.439043,
@@ -151,7 +162,8 @@
             "de": "Entdecken Sie die Ruinen dieser historischen Festung am Wasser und bringen Sie Ihre Kamera für spektakuläre, freie Ausblicke auf das Meer mit.",
             "hu": "Fedezze fel e történelmi erődítmény romjait a vízpart közelében, és hozza magával fényképezőgépét, hogy megörökítse a tengerre nyíló lenyűgöző kilátást.",
             "ro": "Descoperiți ruinele acestei fortărețe istorice din apropierea apei și aduceți-vă aparatul foto pentru priveliști spectaculoase și neobstrucționate asupra mării.",
-            "en": "Discover the strategic ruins of this historic stronghold near the water's edge, bringing your camera for spectacular, unobstructed views of the sea."
+            "en": "Discover the strategic ruins of this historic stronghold near the water's edge, bringing your camera for spectacular, unobstructed views of the sea.",
+            "es": "Descubre las ruinas estratégicas de este histórico baluarte junto al mar; trae tu cámara para vistas espectaculares e ininterrumpidas del océano."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie den Morgen mit der Erkundung des historischen Zentrums von Santoña, einschließlich des eleganten Rathauses und des Parque de Manzanedo. Mittags ehren Sie das maritime Erbe am Denkmal von Juan de la Cosa, bevor Sie die Brise an der Playa del Pasaje genießen. Am Nachmittag wagen Sie sich zu den beeindruckenden Küstenfestungen und beginnen mit den Mauern des Fuerte de San Martín. Beenden Sie Ihre Tour am Fuerte de San Carlos und beobachten Sie die Sonnenuntergangsfarben auf dem Meer.",
         "hu": "Kezdje a reggelt Santoña történelmi központjának felfedezésével, megtekintve az elegáns városházát és a Parque de Manzanedo békés ösvényeit. Délben tisztelegjen a tengerészeti örökség előtt a Juan de la Cosa emlékműnél, majd élvezze a szellőt a Playa del Pasaje mentén. Délután merészkedjen el a lenyűgöző part menti erődítményekhez, kezdve a Fuerte de San Martín impozáns falaival. Zárja a sétát a Fuerte de San Carlosnál, figyelve a naplemente színeit a tenger hullámain.",
         "ro": "Începeți dimineața explorând inima istorică a Santoña, admirând primăria elegantă și aleile liniștite din Parque de Manzanedo. Până la prânz, onorați moștenirea maritimă la monumentul Juan de la Cosa, înainte de a vă bucura de briza mării pe Playa del Pasaje. După-amiaza, aventurați-vă la impresionantele fortificații de coastă, începând cu zidurile de la Fuerte de San Martín. Încheiați-vă turul la Fuerte de San Carlos, privind culorile apusului reflectate pe valuri.",
-        "en": "Start your morning exploring the historical heart of Santoña, taking in the elegant town hall and the peaceful pathways of Parque de Manzanedo. By midday, honor the town's seafaring legacy at the Juan de la Cosa monument before enjoying the calming breeze along Playa del Pasaje. In the afternoon, venture out to the impressive coastal fortifications, beginning with the imposing walls of Fuerte de San Martín. Conclude your walking tour at Fuerte de San Carlos, watching the sunset colors reflect off the ocean waves."
+        "en": "Start your morning exploring the historical heart of Santoña, taking in the elegant town hall and the peaceful pathways of Parque de Manzanedo. By midday, honor the town's seafaring legacy at the Juan de la Cosa monument before enjoying the calming breeze along Playa del Pasaje. In the afternoon, venture out to the impressive coastal fortifications, beginning with the imposing walls of Fuerte de San Martín. Conclude your walking tour at Fuerte de San Carlos, watching the sunset colors reflect off the ocean waves.",
+        "es": "Comienza la mañana explorando el corazón histórico de Santoña, contemplando el elegante ayuntamiento y los tranquilos senderos del Parque de Manzanedo. Al mediodía, honra la tradición marinera de la localidad en el monumento a Juan de la Cosa antes de disfrutar de la brisa en la Playa del Pasaje. Por la tarde, aventúrate a las impresionantes fortificaciones costeras, empezando por las paredes del Fuerte de San Martín. Concluye tu paseo en el Fuerte de San Carlos, contemplando los colores del atardecer reflejarse en las olas del mar."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Die eleganten Arkaden des Rathauses bieten Schutz vor dem morgendlichen Nieselregen, während der Duft des Meeres die Luft erfüllt. Mittags spazieren wir auf den feuchten Wegen des Parks und achten auf rutschige Steine und herabfallende Tropfen. Am Nachmittag treibt uns der Küstenwind zwischen die dicken Mauern der Festungen, wo der Blick auf die neblige Bucht mystisch wirkt. Am Abend beschließen beleuchtete Straßen das Abenteuer.",
             "hu": "A városháza elegáns árkádjai menedéket nyújtanak a reggeli zápor elől, miközben a kikötő illata betölti a teret. Délben a park nedves ösvényein sétálunk, ügyelve a csúszós kövekre és a fákról hulló vízcseppekre. Délután a tengerparti szél a történelmi erődök vastag falai közé űz minket, ahol a ködös öböl látványa misztikus hangulatot áraszt. Estére a kivilágított utcák és a tenger morajlása zárja a vizes kalandot.",
             "ro": "Arcadele elegante ale primăriei oferă adăpost de burnița dimineții, în timp ce mirosul mării umple aerul. La prânz, ne plimbăm pe potecile umede ale parcului, atenți la pietrele alunecoase și picăturile de pe copaci. După-amiaza, vântul de coastă ne împinge între zidurile groase ale forturilor istorice, unde vederea golfului cețos este mistică. Seara, străzile luminate și vuietul mării încheie aventura umedă.",
-            "en": "The town hall's elegant arcades offer shelter from the morning drizzle as the scent of the sea fills the air. At noon, we walk through the park's damp paths, watching for slippery stones and droplets falling from trees. In the afternoon, the coastal wind drives us between the thick walls of historic forts, where the misty bay view feels mystical. By evening, illuminated streets and the roar of the sea conclude our rainy adventure."
+            "en": "The town hall's elegant arcades offer shelter from the morning drizzle as the scent of the sea fills the air. At noon, we walk through the park's damp paths, watching for slippery stones and droplets falling from trees. In the afternoon, the coastal wind drives us between the thick walls of historic forts, where the misty bay view feels mystical. By evening, illuminated streets and the roar of the sea conclude our rainy adventure.",
+            "es": "Los soportales del ayuntamiento ofrecen refugio de la llovizna matinal mientras se respira el aroma del mar. Al mediodía recorremos los senderos húmedos del parque, atentos a piedras resbaladizas y gotas que caen de los árboles. Por la tarde el viento costero nos empuja entre los gruesos muros de los fuertes históricos, donde la vista de la bahía envuelta en niebla resulta mística. Al anochecer las calles iluminadas y el bramido del mar concluyen nuestra aventura lluviosa."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Ayuntamiento de Santoña",
                 "hu": "Ayuntamiento de Santoña",
                 "ro": "Ayuntamiento de Santoña",
-                "en": "Ayuntamiento de Santoña"
+                "en": "Ayuntamiento de Santoña",
+                "es": "Ayuntamiento de Santoña"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die neoklassizistische Fassade des Rathauses aus dem Schutz der Arkaden; die überdachten Gänge bieten perfekten Unterschlupf bei plötzlichen starken Regenschauern.",
                 "hu": "Csodálja meg a városháza neoklasszicista homlokzatát az árkádok védelméből; a fedett folyosók tökéletes menedéket nyújtanak a hirtelen érkező tengeri záporok idején.",
                 "ro": "Admirați fațada neoclasică a primăriei din siguranța arcadelor; aceste coridoare acoperite oferă un refugiu perfect în timpul averselor de ploaie de coastă bruște și puternice.",
-                "en": "Admire the neoclassical facade of the town hall from the safety of the arcades; these covered corridors provide perfect refuge during sudden and heavy coastal rain showers."
+                "en": "Admire the neoclassical facade of the town hall from the safety of the arcades; these covered corridors provide perfect refuge during sudden and heavy coastal rain showers.",
+                "es": "Admira la fachada neoclásica del ayuntamiento desde la seguridad de los soportales; estos corredores cubiertos son un refugio perfecto durante los chaparrones costeros repentinos y fuertes."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Parque de Manzanedo",
                 "hu": "Parque de Manzanedo",
                 "ro": "Parque de Manzanedo",
-                "en": "Parque de Manzanedo"
+                "en": "Parque de Manzanedo",
+                "es": "Parque de Manzanedo"
               },
               "tip_5lang": {
                 "de": "Spazieren Sie unter dem dichten Blätterdach der Bäume, das als natürlicher Schirm dient, aber achten Sie auf rutschige Wege und tragen Sie wasserfestes Schuhwerk gegen Schlamm.",
                 "hu": "Sétáljon a fák sűrű lombjai alatt, amelyek természetes ernyőként védenek, de ügyeljen a csúszós kerti ösvényekre és hordjon vízálló lábbelit a sár elkerülése érdekében.",
                 "ro": "Plimbați-vă sub baldachinul dens de copaci care acționează ca o umbrelă naturală, dar aveți grijă la potecile alunecoase și purtați încălțăminte impermeabilă pentru a evita noroiul.",
-                "en": "Walk under the dense canopy of trees that act as a natural umbrella, but watch out for slippery garden paths and be sure to wear waterproof footwear to avoid the deep mud."
+                "en": "Walk under the dense canopy of trees that act as a natural umbrella, but watch out for slippery garden paths and be sure to wear waterproof footwear to avoid the deep mud.",
+                "es": "Camina bajo el denso dosel de árboles que actúa como paraguas natural, pero ten cuidado con los caminos resbaladizos del jardín y lleva calzado impermeable para evitar el barro profundo."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Monumento a Juan de la Cosa",
                 "hu": "Monumento a Juan de la Cosa",
                 "ro": "Monumento a Juan de la Cosa",
-                "en": "Monumento a Juan de la Cosa"
+                "en": "Monumento a Juan de la Cosa",
+                "es": "Monumento a Juan de la Cosa"
               },
               "tip_5lang": {
                 "de": "Das Denkmal steht am Hafen, wo man die Gischt auch bei Regen spürt; machen Sie ein schnelles Foto und ziehen Sie sich in den überdachten Bereich des nahen Fischmarkts zurück.",
                 "hu": "A híres térképész emlékműve a kikötőnél áll, ahol az esőben is érezni a sós permetet; érdemes egy gyors fotót készíteni, majd behúzódni a közeli halpiac fedett részére.",
                 "ro": "Monumentul se află lângă port, unde puteți simți spray-ul sărat chiar și pe ploaie; faceți o fotografie rapidă, apoi retrageți-vă în zona acoperită a pieței de pește din apropiere.",
-                "en": "The famous cartographer's monument stands by the harbor, where you can feel the salt spray even in rain; take a quick photo then retreat to the covered area of the nearby fish market."
+                "en": "The famous cartographer's monument stands by the harbor, where you can feel the salt spray even in rain; take a quick photo then retreat to the covered area of the nearby fish market.",
+                "es": "El monumento al famoso cartógrafo está junto al puerto, donde se siente la bruma salina incluso con lluvia; haz una foto rápida y resguárdate en la zona cubierta del cercano mercado de pescado."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Playa del Pasaje",
                 "hu": "Playa del Pasaje",
                 "ro": "Playa del Pasaje",
-                "en": "Playa del Pasaje"
+                "en": "Playa del Pasaje",
+                "es": "Playa del Pasaje"
               },
               "tip_5lang": {
                 "de": "Der Blick auf den verregneten Strand ist dramatisch, aber an der Promenade kann Wind aufkommen, daher ist ein windfester Schirm für die Küste ein absolut notwendiges Accessoire.",
                 "hu": "Az esős tengerpart látványa drámai és megnyugtató, de a sétányon a szél felerősödhet, ezért egy masszív szélálló esernyő elengedhetetlen kellék a part menti nézelődéshez.",
                 "ro": "Vederea plajei ploioase este dramatică, dar vântul se poate intensifica pe promenadă, așa că o umbrelă rezistentă la vânt este un accesoriu absolut necesar pentru vizionarea coastei.",
-                "en": "The rainy beach view is dramatic and calming, but the wind can pick up on the promenade, so a sturdy windproof umbrella is an absolutely essential accessory for coastal viewing."
+                "en": "The rainy beach view is dramatic and calming, but the wind can pick up on the promenade, so a sturdy windproof umbrella is an absolutely essential accessory for coastal viewing.",
+                "es": "La vista de la playa bajo la lluvia es dramática y reconfortante, pero el viento puede arreciar en el paseo; un paraguas cortavientos resistente es imprescindible para contemplar la costa."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Fuerte de San Martín",
                 "hu": "Fuerte de San Martín",
                 "ro": "Fuerte de San Martín",
-                "en": "Fuerte de San Martín"
+                "en": "Fuerte de San Martín",
+                "es": "Fuerte de San Martín"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die robusten Steinmauern und Innenräume der Festung, die hervorragenden Schutz vor den Elementen bieten und einen herrlichen Blick auf die neblige Bucht ermöglichen.",
                 "hu": "Fedezze fel az erőd robusztus kőfalait és belső tereit, amelyek kiváló védelmet nyújtanak az elemek elől, miközben lenyűgöző kilátást kapunk a ködbe burkolózó öbölre.",
                 "ro": "Explorați zidurile robuste de piatră și spațiile interioare ale fortului, care oferă o protecție excelentă împotriva elementelor, oferind în același timp vederi uimitoare ale golfului cețos.",
-                "en": "Explore the fort's robust stone walls and interior spaces, which offer excellent protection from the elements while providing stunning views of the mist-shrouded bay."
+                "en": "Explore the fort's robust stone walls and interior spaces, which offer excellent protection from the elements while providing stunning views of the mist-shrouded bay.",
+                "es": "Explora los muros de piedra robustos del fuerte y sus espacios interiores, que ofrecen excelente protección frente a los elementos y vistas magníficas de la bahía envuelta en niebla."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Fuerte de San Carlos",
                 "hu": "Fuerte de San Carlos",
                 "ro": "Fuerte de San Carlos",
-                "en": "Fuerte de San Carlos"
+                "en": "Fuerte de San Carlos",
+                "es": "Fuerte de San Carlos"
               },
               "tip_5lang": {
                 "de": "Am Ende der Küstenstraße ist das massive Bauwerk der Festung ein sicherer Hafen; der Regen auf den Steinen verleiht dem Besuch eine einzigartige mittelalterliche Atmosphäre.",
                 "hu": "A part menti út végén az erőd masszív építménye biztos menedék; a sötétedő égbolt és az eső kopogása a köveken különleges középkori hangulatot kölcsönöz a látogatásnak.",
                 "ro": "La capătul drumului de coastă, structura masivă a fortului este un refugiu sigur; ploaia pe pietre conferă vizitei o atmosferă medievală unică și fascinantă.",
-                "en": "At the end of the coastal road, the fort's massive structure is a safe haven; the darkening sky and rain tapping on stones lend a unique medieval atmosphere to the visit."
+                "en": "At the end of the coastal road, the fort's massive structure is a safe haven; the darkening sky and rain tapping on stones lend a unique medieval atmosphere to the visit.",
+                "es": "Al final del camino costero, la estructura maciza del fuerte es un refugio seguro; el cielo oscurecido y la lluvia golpeando las piedras crean una atmósfera medieval única para la visita."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Im beißenden Morgenwind heißen die Steinmauern des Rathauses und die Wärme der Cafés den Reisenden willkommen. Mittags bieten die Stille des Parks und der klare Winterhimmel ein einzigartiges Wandererlebnis. Am Nachmittag malen die Lichter eines frühen Sonnenuntergangs die Landschaft, bevor um fünf die Dunkelheit hereinbricht. Der Abend wird durch einen kurzen Spaziergang im Hafenlicht abgerundet.",
             "hu": "A reggeli csípős szélben a városháza kőfalai és a közeli kávézók melege hívogatja az utazót Santoña szívében. Délben a kopár fák között a park csendje és a tiszta téli égbolt nyújt különleges élményt a sétához. Délután az erődök között a korai naplemente fényei festik meg a tájat, mielőtt ötkor leszáll az éj. Az estét a kikötő fényei és a fűtött belső terek teszik teljessé.",
             "ro": "În vântul tăios al dimineții, zidurile de piatră ale primăriei și căldura cafenelelor întâmpină călătorii în Santoña. La prânz, liniștea parcului printre copacii golași și cerul senin de iarnă oferă o experiență de plimbare unică. După-amiaza, luminile apusului timpuriu pictează peisajul între forturi înainte ca întunericul să cadă la ora cinci. Seara este completată de luminile portului.",
-            "en": "In the biting morning wind, the stone walls of the town hall and the warmth of nearby cafes welcome travelers to Santoña. At noon, the silence of the park among bare trees and the clear winter sky offer a unique walking experience. In the afternoon, the lights of an early sunset paint the landscape between forts before darkness falls at five. The evening is completed by a short walk in the harbor lights."
+            "en": "In the biting morning wind, the stone walls of the town hall and the warmth of nearby cafes welcome travelers to Santoña. At noon, the silence of the park among bare trees and the clear winter sky offer a unique walking experience. In the afternoon, the lights of an early sunset paint the landscape between forts before darkness falls at five. The evening is completed by a short walk in the harbor lights.",
+            "es": "Con el viento cortante de la mañana, los muros de piedra del ayuntamiento y el calor de las cafeterías cercanas dan la bienvenida a los viajeros en Santoña. Al mediodía, el silencio del parque entre árboles desnudos y el cielo invernal claro ofrecen una experiencia de paseo singular. Por la tarde las luces del atardecer temprano pintan el paisaje entre los fuertes antes de que caiga la noche a las cinco. La jornada termina con un breve paseo entre las luces del puerto."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Ayuntamiento de Santoña",
                 "hu": "Ayuntamiento de Santoña",
                 "ro": "Ayuntamiento de Santoña",
-                "en": "Ayuntamiento de Santoña"
+                "en": "Ayuntamiento de Santoña",
+                "es": "Ayuntamiento de Santoña"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie Ihre Tour am imposanten Rathausgebäude, wo Sie sich an einem kalten Morgen in den nahe gelegenen Cafés mit heißen Getränken auf den Winterwind vorbereiten können.",
                 "hu": "Kezdje a túrát a városháza impozáns épületénél, ahol a hideg reggelen a közeli kávézók forró italaival alapozhatja meg a napot a téli szélben.",
                 "ro": "Începeți turul la clădirea impunătoare a primăriei, unde vă puteți pregăti pentru vântul de iarnă cu băuturi calde de la cafenelele din apropiere în această dimineață rece.",
-                "en": "Start your tour at the imposing town hall building, where you can prepare for the winter wind with hot drinks from nearby cafes on a cold morning."
+                "en": "Start your tour at the imposing town hall building, where you can prepare for the winter wind with hot drinks from nearby cafes on a cold morning.",
+                "es": "Comienza tu ruta en el imponente edificio del ayuntamiento, donde puedes prepararte para el viento invernal con bebidas calientes de las cafeterías cercanas en una mañana fría."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Parque de Manzanedo",
                 "hu": "Parque de Manzanedo",
                 "ro": "Parque de Manzanedo",
-                "en": "Parque de Manzanedo"
+                "en": "Parque de Manzanedo",
+                "es": "Parque de Manzanedo"
               },
               "tip_5lang": {
                 "de": "Die winterliche Stille des Parks strahlt zwischen den kahlen Bäumen eine besondere Ruhe aus; bewegen Sie sich zügig, um Ihre Körpertemperatur zu halten, und tragen Sie Schichten.",
                 "hu": "A park téli csendje különleges nyugalmat áraszt a kopasz platánok között; mozogjon tempósan a testhőmérséklet megőrzése érdekében és viseljen réteges öltözetet.",
                 "ro": "Liniștea de iarnă a parcului emană o pace deosebită printre copacii golași; mișcați-vă rapid pentru a vă menține temperatura corpului și purtați haine stratificate.",
-                "en": "The winter silence of the park radiates a special peace among the bare trees; move briskly to maintain your body temperature and be sure to wear layered clothing."
+                "en": "The winter silence of the park radiates a special peace among the bare trees; move briskly to maintain your body temperature and be sure to wear layered clothing.",
+                "es": "El silencio invernal del parque irradia una paz especial entre los árboles desnudos; muévete a buen ritmo para mantener la temperatura corporal y lleva ropa de capas."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Monumento a Juan de la Cosa",
                 "hu": "Monumento a Juan de la Cosa",
                 "ro": "Monumento a Juan de la Cosa",
-                "en": "Monumento a Juan de la Cosa"
+                "en": "Monumento a Juan de la Cosa",
+                "es": "Monumento a Juan de la Cosa"
               },
               "tip_5lang": {
                 "de": "Am Denkmal am Meer sorgt der niedrige Stand der Wintersonne für hervorragendes Fotolicht, aber Vorsicht, durch den starken Wind fühlt es sich hier viel kälter an als im Zentrum.",
                 "hu": "A tengerparti emlékműnél a téli nap alacsony szöge kiváló fényeket ad a fotózáshoz, de vigyázzon, mert az erős szél miatt itt sokkal hidegebbnek érződik az idő.",
                 "ro": "La monumentul de la malul mării, unghiul scăzut al soarelui de iarnă oferă o lumină excelentă pentru fotografii, dar atenție, vântul puternic face să se simtă mult mai frig aici.",
-                "en": "At the seaside monument, the low angle of the winter sun provides excellent lighting for photos, but beware, the strong wind makes it feel much colder here than in the center."
+                "en": "At the seaside monument, the low angle of the winter sun provides excellent lighting for photos, but beware, the strong wind makes it feel much colder here than in the center.",
+                "es": "En el monumento junto al mar, el sol bajo de invierno proporciona excelente iluminación para fotos, pero ten cuidado: el fuerte viento hace que la sensación térmica sea mucho más fría que en el centro."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Playa del Pasaje",
                 "hu": "Playa del Pasaje",
                 "ro": "Playa del Pasaje",
-                "en": "Playa del Pasaje"
+                "en": "Playa del Pasaje",
+                "es": "Playa del Pasaje"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf den menschenleeren Strand; in der klaren Winterluft kann man weiter sehen, aber gegen die eisigen Brisen vom Meer ist ein Schal ein unverzichtbares Muss.",
                 "hu": "Élvezze a néptelen strand látványát a sétányon; a tiszta téli levegőben messzebbre ellátni, de a tenger felől érkező fagyos fuvallatok ellen egy sál elengedhetetlen.",
                 "ro": "Bucurați-vă de vederea plajei pustii; în aerul curat de iarnă puteți vedea mai departe, dar o eșarfă este absolut indispensabilă împotriva brizelor înghețate care vin dinspre mare.",
-                "en": "Enjoy the view of the deserted beach; in the clear winter air you can see further, but a scarf is an indispensable must against the icy breezes coming from the sea."
+                "en": "Enjoy the view of the deserted beach; in the clear winter air you can see further, but a scarf is an indispensable must against the icy breezes coming from the sea.",
+                "es": "Disfruta de la vista de la playa desierta; en el aire claro de invierno se ve más lejos, pero una bufanda es imprescindible contra las heladas brisas marinas."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Fuerte de San Martín",
                 "hu": "Fuerte de San Martín",
                 "ro": "Fuerte de San Martín",
-                "en": "Fuerte de San Martín"
+                "en": "Fuerte de San Martín",
+                "es": "Fuerte de San Martín"
               },
               "tip_5lang": {
                 "de": "In den windgeschützten Bereichen zwischen den Steinmauern der Festung können Sie die Wintersonne genießen; kommen Sie früh, um das ruhige Wasser der Bucht im Hellen zu sehen.",
                 "hu": "Az erőd kőfalai között a szélvédett részeken élvezheti a téli napsütést; érdemes korán érkezni, hogy még világosban lássa az öböl nyugodt vizét.",
                 "ro": "În zonele ferite de vânt dintre zidurile de piatră ale fortului, vă puteți bucura de soarele de iarnă; veniți devreme pentru a vedea apele calme ale golfului cât încă este lumină.",
-                "en": "In the wind-sheltered areas between the fort's stone walls, you can enjoy the winter sun; arrive early to see the calm waters of the bay while it is still light outside."
+                "en": "In the wind-sheltered areas between the fort's stone walls, you can enjoy the winter sun; arrive early to see the calm waters of the bay while it is still light outside.",
+                "es": "En las zonas protegidas del viento entre los muros de piedra del fuerte puedes disfrutar del sol invernal; llega temprano para ver las aguas calmas de la bahía mientras aún hay luz."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Fuerte de San Carlos",
                 "hu": "Fuerte de San Carlos",
                 "ro": "Fuerte de San Carlos",
-                "en": "Fuerte de San Carlos"
+                "en": "Fuerte de San Carlos",
+                "es": "Fuerte de San Carlos"
               },
               "tip_5lang": {
                 "de": "Seien Sie am Ende des Tages an den Klippen wegen der frühen Dunkelheit vorsichtig auf den Treppen; nehmen Sie eine Taschenlampe mit, da es um fünf Uhr fast vollständig dunkel ist.",
                 "hu": "A nap végén az erőd szikláinál a korai sötétedés miatt legyen óvatos a lépcsőkön; vigyen magával egy kis elemlámpát, mert ötkor már szinte teljesen besötétedik.",
                 "ro": "La sfârșitul zilei, fiți atenți pe scările de la stâncile fortului din cauza întunericului timpuriu; luați o lanternă, deoarece la ora cinci este deja aproape complet întuneric.",
-                "en": "At the end of the day, be careful on the stairs at the fort cliffs due to the early darkness; take a small flashlight with you as it is almost completely dark by five o'clock."
+                "en": "At the end of the day, be careful on the stairs at the fort cliffs due to the early darkness; take a small flashlight with you as it is almost completely dark by five o'clock.",
+                "es": "Al terminar el día, ten cuidado con las escaleras en los acantilados del fuerte por la pronta oscuridad; lleva una pequeña linterna, ya que casi se hace de noche a las cinco."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Mirador Sorbal",
             "hu": "Mirador Sorbal",
             "ro": "Mirador Sorbal",
-            "en": "Mirador Sorbal"
+            "en": "Mirador Sorbal",
+            "es": "Mirador Sorbal"
           },
           "coords": [
             -3.457845,
@@ -380,7 +420,8 @@
             "de": "Genießen Sie von diesem Aussichtspunkt einen herrlichen Panoramablick über die Sumpfgebiete, was ihn zu einem idealen Ort für frühe Fotos macht.",
             "hu": "Élvezze a környező mocsarakra nyíló csodálatos panorámát ebből a magasan fekvő kilátóból, amely ideális hely a kora reggeli fotózáshoz.",
             "ro": "Bucurați-vă de o vedere panoramică magnifică asupra mlaștinilor din acest punct de belvedere, acesta fiind un loc ideal pentru fotografia matinală.",
-            "en": "Enjoy a magnificent panoramic view over the surrounding marshlands from this elevated viewpoint, making it an ideal spot for early morning photography."
+            "en": "Enjoy a magnificent panoramic view over the surrounding marshlands from this elevated viewpoint, making it an ideal spot for early morning photography.",
+            "es": "Disfruta de una magnífica vista panorámica sobre los marismas circundantes desde este mirador elevado, ideal para fotos a primera hora."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Casa Palacio de los Marqueses de Chiloeches",
             "hu": "Casa Palacio de los Marqueses de Chiloeches",
             "ro": "Casa Palacio de los Marqueses de Chiloeches",
-            "en": "Casa Palacio de los Marqueses de Chiloeches"
+            "en": "Casa Palacio de los Marqueses de Chiloeches",
+            "es": "Casa Palacio de los Marqueses de Chiloeches"
           },
           "coords": [
             -3.457419,
@@ -403,7 +445,8 @@
             "de": "Betrachten Sie die klassische kantabrische Architektur dieses Palastes und achten Sie auf das beeindruckende Wappen, während Sie ihn umrunden.",
             "hu": "Figyelje meg a palota klasszikus kantábriai arisztokrata építészetét, és vegye észre a lenyűgöző címerét, miközben körbesétálja a csendes külsejét.",
             "ro": "Observați arhitectura aristocratică clasică din Cantabria a acestui palat și remarcați blazonul său impresionant în timp ce vă plimbați pe afară.",
-            "en": "Observe the classic Cantabrian aristocratic architecture of this palace, noting its impressive coat of arms while walking around its quiet exterior."
+            "en": "Observe the classic Cantabrian aristocratic architecture of this palace, noting its impressive coat of arms while walking around its quiet exterior.",
+            "es": "Observa la clásica arquitectura aristocrática cántabra de este palacio, fijándote en su impresionante escudo mientras rodeas su tranquilo exterior."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Centro de Visitantes del Parque Natural",
             "hu": "Centro de Visitantes del Parque Natural",
             "ro": "Centro de Visitantes del Parque Natural",
-            "en": "Centro de Visitantes del Parque Natural"
+            "en": "Centro de Visitantes del Parque Natural",
+            "es": "Centro de Visitantes del Parque Natural"
           },
           "coords": [
             -3.462852,
@@ -426,7 +470,8 @@
             "de": "Erfahren Sie in diesem Museum mehr über die reiche Artenvielfalt der Feuchtgebiete und holen Sie sich an der Rezeption eine kostenlose Karte.",
             "hu": "Ismerje meg a vizes élőhelyek gazdag biológiai sokféleségét ebben az interaktív múzeumban, és kérjen egy ingyenes térképet a recepción a továbbutazáshoz.",
             "ro": "Învățați despre biodiversitatea bogată a zonelor umede la acest muzeu interactiv și luați o hartă gratuită de la recepție pentru a vă ghida.",
-            "en": "Learn about the rich biodiversity of the wetlands at this interactive museum, and grab a free map from the reception to guide your onward journey."
+            "en": "Learn about the rich biodiversity of the wetlands at this interactive museum, and grab a free map from the reception to guide your onward journey.",
+            "es": "Conoce la rica biodiversidad de las marismas en este museo interactivo y recoge un mapa gratuito en recepción para guiar tu recorrido."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Pescadores",
             "hu": "Pescadores",
             "ro": "Pescadores",
-            "en": "Pescadores"
+            "en": "Pescadores",
+            "es": "Pescadores"
           },
           "coords": [
             -3.459527,
@@ -449,7 +495,8 @@
             "de": "Tauchen Sie ein in die maritime Atmosphäre des Fischerviertels, wo ein Halt in einer nahegelegenen Taverne für frische Sardellen ein Muss ist.",
             "hu": "Szívja magába a helyi halásznegyed hiteles tengeri hangulatát, ahol feltétlenül meg kell állnia egy közeli kocsmában, hogy megkóstolja a friss szardellát.",
             "ro": "Absorbiți atmosfera maritimă autentică a cartierului pescarilor, unde o oprire la o tavernă pentru hamsii proaspete este o necesitate absolută.",
-            "en": "Soak in the authentic maritime atmosphere of the local fishermen's quarter, where stopping at a nearby tavern for fresh anchovies is an absolute must."
+            "en": "Soak in the authentic maritime atmosphere of the local fishermen's quarter, where stopping at a nearby tavern for fresh anchovies is an absolute must.",
+            "es": "Sumérgete en la auténtica atmósfera marinera del barrio de pescadores; no dejes de entrar en una taberna cercana para probar boquerones frescos."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Fuerte de San Martín",
             "hu": "Fuerte de San Martín",
             "ro": "Fuerte de San Martín",
-            "en": "Fuerte de San Martín"
+            "en": "Fuerte de San Martín",
+            "es": "Fuerte de San Martín"
           },
           "coords": [
             -3.447176,
@@ -472,7 +520,8 @@
             "de": "Erkunden Sie diese imposante Küstenfestung aus dem 17. Jahrhundert und tragen Sie bequeme Schuhe, um sicher über die unebenen Steinwege zu gehen.",
             "hu": "Fedezze fel ezt az öblöt védő, 17. századi impozáns tengerparti erődöt, és viseljen kényelmes cipőt, hogy biztonságosan navigálhasson az egyenetlen utakon.",
             "ro": "Explorați această fortăreață de coastă impunătoare din secolul al XVII-lea și purtați pantofi confortabili pentru a naviga în siguranță pe aleile pietruite.",
-            "en": "Explore this imposing 17th-century coastal fortress that protected the bay, wearing comfortable shoes to navigate its uneven stone pathways safely."
+            "en": "Explore this imposing 17th-century coastal fortress that protected the bay, wearing comfortable shoes to navigate its uneven stone pathways safely.",
+            "es": "Explora esta imponente fortaleza costera del siglo XVII que protegía la bahía; lleva calzado cómodo para caminar por sus irregulares caminos de piedra."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Batería Baja de Galvanes",
             "hu": "Batería Baja de Galvanes",
             "ro": "Batería Baja de Galvanes",
-            "en": "Batería Baja de Galvanes"
+            "en": "Batería Baja de Galvanes",
+            "es": "Batería Baja de Galvanes"
           },
           "coords": [
             -3.444693,
@@ -495,7 +545,8 @@
             "de": "Spazieren Sie durch die historischen Geschützstellungen, die einst den Hafen verteidigten, und kommen Sie am späten Nachmittag für magisches Licht.",
             "hu": "Sétáljon végig a kikötőt egykor védő történelmi ágyúállásokon, és időzítse látogatását a késő délutánra, amikor a fényviszonyok egyszerűen varázslatosak.",
             "ro": "Plimbați-vă prin amplasamentele istorice de artilerie care apărau portul, planificându-vă vizita după-amiaza târziu când lumina este magică.",
-            "en": "Walk through the historic gun emplacements that once defended the port, timing your visit for the late afternoon when the lighting is simply magical."
+            "en": "Walk through the historic gun emplacements that once defended the port, timing your visit for the late afternoon when the lighting is simply magical.",
+            "es": "Recorre los históricos emplazamientos de artillería que defendían el puerto; programa la visita a última hora de la tarde cuando la luz es mágica."
           }
         },
         {
@@ -503,7 +554,8 @@
             "de": "Buciero",
             "hu": "Buciero",
             "ro": "Buciero",
-            "en": "Buciero"
+            "en": "Buciero",
+            "es": "Buciero"
           },
           "coords": [
             -3.441896,
@@ -518,7 +570,8 @@
             "de": "Wandern Sie auf diese raue Berglandschaft, um atemberaubende Küstenblicke zu genießen, und bringen Sie viel Wasser sowie feste Wanderschuhe mit.",
             "hu": "Túrázzon fel ezen a zord hegyvidéki tájon, hogy lélegzetelállító tengerparti kilátásban legyen része, és vigyen magával bőségesen vizet és erős túracipőt.",
             "ro": "Urcați pe acest peisaj montan accidentat pentru priveliști de coastă uluitoare, asigurându-vă că aduceți multă apă și purtați bocanci solizi.",
-            "en": "Trek up this rugged mountain landscape to experience breathtaking coastal vistas, ensuring you bring plenty of water and wear sturdy hiking boots."
+            "en": "Trek up this rugged mountain landscape to experience breathtaking coastal vistas, ensuring you bring plenty of water and wear sturdy hiking boots.",
+            "es": "Haz senderismo por este agreste paisaje montañoso para disfrutar de vistas costeras impresionantes; lleva abundante agua y botas de trekking resistentes."
           }
         }
       ],
@@ -526,7 +579,8 @@
         "de": "Beginnen Sie Ihren Radtag mit dem Panoramablick vom Mirador Sorbal, bevor Sie zur herrschaftlichen Casa Palacio de los Marqueses de Chiloeches fahren. Gegen Mittag erkunden Sie die ökologischen Wunder im Besucherzentrum und das traditionelle Fischerviertel. Die nachmittägliche Fahrt führt Sie an der Küste entlang, um die historischen Verteidigungsanlagen wie Fuerte de San Martín zu entdecken. Das Abenteuer endet wunderschön am Fuße des Berges Buciero mit dramatischen abendlichen Aussichten.",
         "hu": "Kezdje a kerékpáros napot a Mirador Sorbal panorámájával, majd tekerjen le a Casa Palacio de los Marqueses de Chiloeches megtekintéséhez. Dél körül merüljön el a vizes élőhelyek ökológiai csodáiban a látogatóközpontban, majd látogasson el a halásznegyedbe. A délutáni tekerés a festői tengerpart mentén halad, ahol felfedezheti a Fuerte de San Martín történelmi védműveit. A kaland gyönyörűen ér véget, ahogy a Buciero-hegy lábához érkezve drámai esti kilátásban gyönyörködhet.",
         "ro": "Începeți ziua de ciclism cu vederi panoramice de la Mirador Sorbal, înainte de a coborî pentru a admira Casa Palacio de los Marqueses de Chiloeches. În jurul prânzului, descoperiți minunile ecologice ale zonelor umede la centrul de vizitatori, urmat de o oprire în cartierul pescarilor. Plimbarea de după-amiază vă duce de-a lungul coastei pitorești pentru a explora Fuerte de San Martín. Aventura se încheie la baza Muntelui Buciero, bucurându-vă de perspective dramatice la lăsarea serii.",
-        "en": "Kick off your cycling day with panoramic views from Mirador Sorbal before riding down to admire the stately Casa Palacio de los Marqueses de Chiloeches. Around noon, dive into the ecological wonders of the local wetlands at the visitor center, followed by a cultural stop in the traditional fishermen's quarter. Afternoon riding takes you along the scenic coast to explore the historic defenses of Fuerte de San Martín and Batería Baja. Your adventure ends beautifully as you cycle toward the base of Mount Buciero for dramatic evening vistas."
+        "en": "Kick off your cycling day with panoramic views from Mirador Sorbal before riding down to admire the stately Casa Palacio de los Marqueses de Chiloeches. Around noon, dive into the ecological wonders of the local wetlands at the visitor center, followed by a cultural stop in the traditional fishermen's quarter. Afternoon riding takes you along the scenic coast to explore the historic defenses of Fuerte de San Martín and Batería Baja. Your adventure ends beautifully as you cycle toward the base of Mount Buciero for dramatic evening vistas.",
+        "es": "Comienza tu día en bici con vistas panorámicas desde el Mirador Sorbal antes de bajar para contemplar la señorial Casa Palacio de los Marqueses de Chiloeches. Al mediodía, sumérgete en las maravillas ecológicas de las marismas en el centro de visitantes, seguido de una parada cultural en el tradicional barrio de pescadores. Por la tarde, pedalea por la costa para explorar las defensas históricas del Fuerte de San Martín y la Batería Baja. Tu aventura termina al dirigirte hacia la base del monte Buciero para vistas vespertinas dramáticas."
       },
       "variants": {
         "rainy": {
@@ -534,7 +588,8 @@
             "de": "Die Fahrt zum Mirador Sorbal im Morgennebel ist eine Herausforderung, aber der Duft von frischem Regen entschädigt; achten Sie auf die Bodenhaftung auf nassem Asphalt. Mittags bieten Stadtpaläste und das Besucherzentrum überdachte Pausen. Am Nachmittag sind entlang des Hafens Schutzbleche unerlässlich. Am Abend erreichen wir vorsichtig die Klippen von Buciero im Zwielicht.",
             "hu": "A reggeli ködben a Mirador Sorbal felé tekerni kihívás, de a friss eső illata kárpótol; ügyeljen a gumiabroncsok tapadására a vizes aszfalton. Délben a városi paloták és a látogatóközpont nyújtanak fedett pihenőt. Délután a kikötő és az erődök mentén a sárvédő elengedhetetlen. Estére a csúszós utakon óvatosan haladva érjük el a Buciero szikláit a szürkületben.",
             "ro": "Mersul pe bicicletă spre Mirador Sorbal în ceața dimineții este o provocare, dar mirosul ploii proaspete compensează; atenție la aderența anvelopelor pe asfaltul umed. La prânz, palatele și centrul de vizitatori oferă odihnă acoperită. După-amiaza, de-a lungul portului și forturilor, apărătorile sunt esențiale. Seara, pedalând cu grijă, ajungem la stâncile Buciero.",
-            "en": "Cycling toward Mirador Sorbal in the morning mist is a challenge, but the scent of fresh rain compensates; watch your tire grip on wet asphalt. At noon, city palaces and the visitor center provide covered rest for cyclists. In the afternoon, along the harbor and forts, mudguards are essential against splashing water. By evening, cycling carefully, we reach Buciero's cliffs."
+            "en": "Cycling toward Mirador Sorbal in the morning mist is a challenge, but the scent of fresh rain compensates; watch your tire grip on wet asphalt. At noon, city palaces and the visitor center provide covered rest for cyclists. In the afternoon, along the harbor and forts, mudguards are essential against splashing water. By evening, cycling carefully, we reach Buciero's cliffs.",
+            "es": "Ir en bicicleta hacia el Mirador Sorbal con la niebla matinal es un reto, pero el olor a lluvia compensa; vigila la adherencia de las ruedas sobre el asfalto mojado. Al mediodía, palacios y el centro de visitantes ofrecen descanso cubierto para ciclistas. Por la tarde, junto al puerto y los fuertes, los guardabarros son imprescindibles contra las salpicaduras. Al anochecer, pedaleando con cuidado, llegamos a los acantilados de Buciero."
           },
           "stops": [
             {
@@ -542,13 +597,15 @@
                 "de": "Mirador Sorbal",
                 "hu": "Mirador Sorbal",
                 "ro": "Mirador Sorbal",
-                "en": "Mirador Sorbal"
+                "en": "Mirador Sorbal",
+                "es": "Mirador Sorbal"
               },
               "tip_5lang": {
                 "de": "Die Straße zum Aussichtspunkt kann bei Nässe rutschig sein; verringern Sie den Reifendruck für besseren Grip und genießen Sie den geheimnisvollen Blick auf die neblige Landschaft.",
                 "hu": "A kilátóhoz vezető út vizes aszfalton csúszós lehet, ezért csökkentse a guminyomást a jobb tapadásért, és élvezze a ködben úszó táj sejtelmes látványát.",
                 "ro": "Drumul spre punctul de belvedere poate fi alunecos pe carosabil umed; reduceți presiunea în anvelope pentru o aderență mai bună și bucurați-vă de vederea misterioasă a peisajului cețos.",
-                "en": "The road to the viewpoint can be slippery on wet asphalt; reduce your tire pressure for better grip and enjoy the mysterious view of the mist-shrouded landscape below."
+                "en": "The road to the viewpoint can be slippery on wet asphalt; reduce your tire pressure for better grip and enjoy the mysterious view of the mist-shrouded landscape below.",
+                "es": "La carretera al mirador puede estar resbaladiza con asfalto mojado; reduce la presión de las ruedas para mejor agarre y disfruta de la misteriosa vista del paisaje envuelto en niebla."
               }
             },
             {
@@ -556,13 +613,15 @@
                 "de": "Casa Palacio de los Marqueses de Chiloeches",
                 "hu": "Casa Palacio de los Marqueses de Chiloeches",
                 "ro": "Casa Palacio de los Marqueses de Chiloeches",
-                "en": "Casa Palacio de los Marqueses de Chiloeches"
+                "en": "Casa Palacio de los Marqueses de Chiloeches",
+                "es": "Casa Palacio de los Marqueses de Chiloeches"
               },
               "tip_5lang": {
                 "de": "Suchen Sie einen überdachten Platz für Ihr Fahrrad an den Palastmauern, während Sie die Fassade bewundern; biegen Sie auf dem nassen Kopfsteinpflaster im Zentrum besonders vorsichtig ab.",
                 "hu": "A palota falai mentén keressen fedett helyet a bringának, amíg megcsodálja a homlokzatot; a nedves macskaköveken különösen óvatosan kanyarodjon a városközpontban.",
                 "ro": "Căutați un loc acoperit pentru bicicletă lângă zidurile palatului în timp ce admirați fațada; virați cu mare atenție pe pietrele cubice umede din centrul orașului.",
-                "en": "Look for a covered spot for your bike by the palace walls while you admire the facade; turn especially carefully on the wet cobblestones in the city center."
+                "en": "Look for a covered spot for your bike by the palace walls while you admire the facade; turn especially carefully on the wet cobblestones in the city center.",
+                "es": "Busca un lugar cubierto para dejar la bici junto a los muros del palacio mientras admiras la fachada; gira con especial cuidado sobre los empedrados mojados del centro."
               }
             },
             {
@@ -570,13 +629,15 @@
                 "de": "Centro de Visitantes del Parque Natural",
                 "hu": "Centro de Visitantes del Parque Natural",
                 "ro": "Centro de Visitantes del Parque Natural",
-                "en": "Centro de Visitantes del Parque Natural"
+                "en": "Centro de Visitantes del Parque Natural",
+                "es": "Centro de Visitantes del Parque Natural"
               },
               "tip_5lang": {
                 "de": "Dieses Museum ist die beste Station für Radfahrer an einem Regentag, da man lange Zeit trocken im Inneren verbringen kann, während man etwas über die Tierwelt der Sümpfe erfährt.",
                 "hu": "Ez a múzeum a legjobb esőnapi állomás a kerékpárosoknak, mivel hosszú időt tölthetünk bent szárazon, amíg megismerjük a mocsárvilág élővilágát.",
                 "ro": "Acest muzeu este cea mai bună oprire pentru bicicliști într-o zi ploioasă, deoarece puteți petrece mult timp în interior, la uscat, în timp ce învățați despre fauna mlaștinilor.",
-                "en": "This museum is the best station for cyclists on a rainy day, as you can spend a long time dry inside while learning about the wildlife of the marshlands."
+                "en": "This museum is the best station for cyclists on a rainy day, as you can spend a long time dry inside while learning about the wildlife of the marshlands.",
+                "es": "Este museo es la mejor parada para ciclistas en un día lluvioso: puedes permanecer largo rato seco mientras aprendes sobre la fauna de las marismas."
               }
             },
             {
@@ -584,13 +645,15 @@
                 "de": "Pescadores",
                 "hu": "Pescadores",
                 "ro": "Pescadores",
-                "en": "Pescadores"
+                "en": "Pescadores",
+                "es": "Pescadores"
               },
               "tip_5lang": {
                 "de": "Das Fischerdenkmal ist auch im Regen würdevoll, aber wenn Sie unter den Dächern der nahen Hafengebäude warten, können Sie vermeiden, vor dem nächsten Abschnitt völlig durchnässt zu werden.",
                 "hu": "A halászok emlékműve esőben is méltóságteljes, de a közeli kikötői épületek ereszei alatt várakozva elkerülheti a teljes ázást a következő szakasz előtt.",
                 "ro": "Monumentul pescarilor este demn chiar și în ploaie, dar așteptând sub streșinile clădirilor din port puteți evita să fiți complet uzi înainte de următoarea etapă a traseului.",
-                "en": "The fishermen's monument is dignified even in the rain, but waiting under the eaves of nearby harbor buildings can help you avoid getting completely soaked before the next stretch."
+                "en": "The fishermen's monument is dignified even in the rain, but waiting under the eaves of nearby harbor buildings can help you avoid getting completely soaked before the next stretch.",
+                "es": "El monumento a los pescadores luce digno incluso bajo la lluvia, pero esperar bajo los aleros de los edificios del puerto te ayudará a no empaparte antes del siguiente tramo."
               }
             },
             {
@@ -598,13 +661,15 @@
                 "de": "Fuerte de San Martín",
                 "hu": "Fuerte de San Martín",
                 "ro": "Fuerte de San Martín",
-                "en": "Fuerte de San Martín"
+                "en": "Fuerte de San Martín",
+                "es": "Fuerte de San Martín"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf dem Anstieg zur Festung auf Wasserströme; unter dem massiven Eingang des Steingebäudes können Sie sicher ruhen und Ihre nasse Brille abwischen.",
                 "hu": "Az erődhöz vezető emelkedőn a vízátfolyásokra figyeljen; a kőépület masszív bejárata alatt biztonságban pihenhet meg és törölheti le a vizes szemüvegét.",
                 "ro": "Atenție la scurgerile de apă pe panta spre fort; sub intrarea masivă a clădirii de piatră vă puteți odihni în siguranță și vă puteți șterge ochelarii umezi.",
-                "en": "Watch out for water runoff on the incline to the fort; under the massive entrance of the stone building, you can rest safely and wipe your wet glasses."
+                "en": "Watch out for water runoff on the incline to the fort; under the massive entrance of the stone building, you can rest safely and wipe your wet glasses.",
+                "es": "Cuidado con el escurrimiento del agua en la subida al fuerte; bajo la imponente entrada de piedra puedes descansar y secar tus gafas."
               }
             },
             {
@@ -612,13 +677,15 @@
                 "de": "Batería Baja de Galvanes",
                 "hu": "Batería Baja de Galvanes",
                 "ro": "Batería Baja de Galvanes",
-                "en": "Batería Baja de Galvanes"
+                "en": "Batería Baja de Galvanes",
+                "es": "Batería Baja de Galvanes"
               },
               "tip_5lang": {
                 "de": "Bei den Küstenruinen kann der Seewind in Verbindung mit Regen kühl sein, daher ist das Tragen einer guten technischen Regenjacke entscheidend für den Komfort.",
                 "hu": "A part menti romoknál a tengeri szél esővel párosulva hűvös lehet, ezért egy jó technikai esőkabát viselése kritikus a komfortérzet megőrzéséhez.",
                 "ro": "La ruinele de pe coastă, vântul marin combinat cu ploaia poate fi răcoros, așa că purtarea unei jachete de ploaie tehnice bune este crucială pentru menținerea confortului.",
-                "en": "At the coastal ruins, the sea wind combined with rain can be chilly, so wearing a good technical rain jacket is critical for maintaining your comfort levels during the ride."
+                "en": "At the coastal ruins, the sea wind combined with rain can be chilly, so wearing a good technical rain jacket is critical for maintaining your comfort levels during the ride.",
+                "es": "En las ruinas costeras, el viento marino combinado con la lluvia puede ser frío; llevar una buena chaqueta técnica impermeable es esencial para mantener el confort."
               }
             },
             {
@@ -626,13 +693,15 @@
                 "de": "Buciero",
                 "hu": "Buciero",
                 "ro": "Buciero",
-                "en": "Buciero"
+                "en": "Buciero",
+                "es": "Buciero"
               },
               "tip_5lang": {
                 "de": "Am Ende der Tour können die unbefestigten Wege am Fuße des Berges Buciero extrem schlammig sein; bleiben Sie auf festem Untergrund und verwenden Sie starke Lichter.",
                 "hu": "A túra végén a Buciero-hegy lábánál a földes utak rendkívül sárosak lehetnek az esőtől; javasolt a szilárd burkolaton maradni és az erős lámpák használata a korai szürkületben.",
                 "ro": "La sfârșitul turului, drumurile de pământ de la poalele muntelui Buciero pot fi extrem de noroioase; rămâneți pe suprafețele solide și folosiți lumini puternice.",
-                "en": "At the end of the tour, the unpaved paths at the foot of Mount Buciero can be extremely muddy from rain; stay on solid surfaces and use strong lights in the early twilight."
+                "en": "At the end of the tour, the unpaved paths at the foot of Mount Buciero can be extremely muddy from rain; stay on solid surfaces and use strong lights in the early twilight.",
+                "es": "Al final de la ruta, los senderos sin asfaltar al pie del monte Buciero pueden volverse muy embarrados con la lluvia; mantente en superficies firmes y usa potentes luces al anochecer."
               }
             }
           ]
@@ -642,7 +711,8 @@
             "de": "Im kalten Morgenwind ist die Aussicht vom Mirador Sorbal kristallklar; Schichtkleidung ist nötig. Mittags können wir uns im Besucherzentrum aufwärmen. Am Nachmittag kann der niedrige Sonnenstand am Hafen blendend sein. Am Abend bricht die Dunkelheit früh ein, daher sind helle Lichter und reflektierende Kleidung in der Nähe von Buciero lebenswichtig.",
             "hu": "A hideg reggeli szélben a Mirador Sorbal kilátása kristálytiszta; réteges öltözet és szélálló kesztyű szükséges a tekeréshez. Délben a fűtött látogatóközpontban melegedhetünk fel. Délután a kikötőnél a téli nap alacsony szöge vakító lehet. Estére a sötétség korán leszáll, így a Buciero környékén a jól látható világítás életmentő.",
             "ro": "În vântul rece al dimineții, vederea de la Mirador Sorbal este cristalină; îmbrăcămintea stratificată este necesară. La prânz, ne putem încălzi la centrul de vizitatori. După-amiaza, soarele de iarnă poate fi orbitor de-a lungul portului. Seara, întunericul cade devreme, așa că luminile puternice sunt vitale lângă Buciero.",
-            "en": "In the cold morning wind, the view from Mirador Sorbal is crystal clear; layered clothing is necessary for cycling. At noon, we can warm up in the heated visitor center. In the afternoon, the low angle of the winter sun can be blinding along the harbor. By evening, darkness falls early, so bright lights are life-saving near Buciero."
+            "en": "In the cold morning wind, the view from Mirador Sorbal is crystal clear; layered clothing is necessary for cycling. At noon, we can warm up in the heated visitor center. In the afternoon, the low angle of the winter sun can be blinding along the harbor. By evening, darkness falls early, so bright lights are life-saving near Buciero.",
+            "es": "Con el viento frío de la mañana, la vista desde el Mirador Sorbal es cristalina; es necesario vestirse por capas para ciclismo. Al mediodía, podemos entrar en calor en el centro de visitantes climatizado. Por la tarde, el sol bajo del invierno puede cegarte en el puerto. Al anochecer, la oscuridad llega pronto, así que las luces potentes son imprescindibles cerca de Buciero."
           },
           "stops": [
             {
@@ -650,13 +720,15 @@
                 "de": "Mirador Sorbal",
                 "hu": "Mirador Sorbal",
                 "ro": "Mirador Sorbal",
-                "en": "Mirador Sorbal"
+                "en": "Mirador Sorbal",
+                "es": "Mirador Sorbal"
               },
               "tip_5lang": {
                 "de": "An einem klaren Wintermorgen ist die Fernsicht beeindruckend, aber bergab kann der Fahrtwind eiskalt sein, tragen Sie daher eine winddichte Maske und Handschuhe.",
                 "hu": "A tiszta téli reggelen a látótávolság lenyűgöző a Miradorról, de a lejtőn lefelé a menetszél fagyos lehet, ezért viseljen szélálló maszkot és kesztyűt a tekeréshez.",
                 "ro": "Într-o dimineață senină de iarnă, vizibilitatea este impresionantă, dar la coborâre vântul poate fi înghețat, așa că purtați o mască și mănuși rezistente la vânt.",
-                "en": "On a clear winter morning, the visibility is impressive from the Mirador, but on the descent, the wind chill can be freezing, so wear a windproof mask and gloves."
+                "en": "On a clear winter morning, the visibility is impressive from the Mirador, but on the descent, the wind chill can be freezing, so wear a windproof mask and gloves.",
+                "es": "En una clara mañana invernal, la visibilidad desde el mirador es impresionante, pero en el descenso la sensación térmica puede ser gélida; lleva braga o máscara cortaviento y guantes."
               }
             },
             {
@@ -664,13 +736,15 @@
                 "de": "Casa Palacio de los Marqueses de Chiloeches",
                 "hu": "Casa Palacio de los Marqueses de Chiloeches",
                 "ro": "Casa Palacio de los Marqueses de Chiloeches",
-                "en": "Casa Palacio de los Marqueses de Chiloeches"
+                "en": "Casa Palacio de los Marqueses de Chiloeches",
+                "es": "Casa Palacio de los Marqueses de Chiloeches"
               },
               "tip_5lang": {
                 "de": "Halten Sie kurz am historischen Palast an; im Wintersonnenschein strahlen die gelben Steine warmes Licht aus, aber in der Kälte können Ihre Muskeln schnell auskühlen.",
                 "hu": "Álljon meg egy pillanatra a történelmi palotánál; a téli napsütésben a sárga kövek meleg fényt árasztanak, de a hidegben az izmai gyorsan kihűlhetnek a tekerés közben.",
                 "ro": "Opriți-vă o clipă la palatul istoric; în lumina soarelui de iarnă, pietrele galbene emană o lumină caldă, dar în frig mușchii se pot răci rapid în timpul pauzei.",
-                "en": "Stop for a moment at the historic palace; in the winter sunshine, the yellow stones radiate a warm light, but in the cold, your muscles can quickly cool down during the break."
+                "en": "Stop for a moment at the historic palace; in the winter sunshine, the yellow stones radiate a warm light, but in the cold, your muscles can quickly cool down during the break.",
+                "es": "Detente un momento en el palacio histórico; bajo el sol invernal las piedras amarillas irradian calidez, pero con el frío tus músculos pueden enfriarse rápido durante la pausa."
               }
             },
             {
@@ -678,13 +752,15 @@
                 "de": "Centro de Visitantes del Parque Natural",
                 "hu": "Centro de Visitantes del Parque Natural",
                 "ro": "Centro de Visitantes del Parque Natural",
-                "en": "Centro de Visitantes del Parque Natural"
+                "en": "Centro de Visitantes del Parque Natural",
+                "es": "Centro de Visitantes del Parque Natural"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die beheizten Räume des Zentrums zum Aufwärmen; die Beobachtung des winterlichen Vogelzugs ist mit den Ferngläsern bequem von drinnen möglich.",
                 "hu": "Használja ki a központ fűtött tereit a pihenésre és melegedésre; a téli madárvonulás megfigyelése a távcsövekkel kényelmesen, fedett helyről is lehetséges.",
                 "ro": "Folosiți spațiile încălzite ale centrului pentru odihnă și încălzire; observarea migrației păsărilor de iarnă cu binoclul este posibilă confortabil din interior.",
-                "en": "Take advantage of the center's heated spaces for rest and warming up; observing winter bird migration with binoculars is comfortably possible from the indoor area."
+                "en": "Take advantage of the center's heated spaces for rest and warming up; observing winter bird migration with binoculars is comfortably possible from the indoor area.",
+                "es": "Aprovecha los espacios calefactados del centro para descansar y entrar en calor; observar la migración invernal de aves con prismáticos es cómodo desde el interior."
               }
             },
             {
@@ -692,13 +768,15 @@
                 "de": "Pescadores",
                 "hu": "Pescadores",
                 "ro": "Pescadores",
-                "en": "Pescadores"
+                "en": "Pescadores",
+                "es": "Pescadores"
               },
               "tip_5lang": {
                 "de": "Am Hafen kann der Winternebel und die salzige Luft beißend sein; ein heißes Getränk in einer nahen Kantine nach der Fahrt kann helfen, die Körpertemperatur zurückzugewinnen.",
                 "hu": "A kikötőnél a téli pára és a sós levegő maró lehet; a tekerés után egy forró ital a közeli kantinban sokat segíthet a testhőmérséklet visszanyerésében a hideg szélben.",
                 "ro": "În port, ceața de iarnă și aerul sărat pot fi tăioase; o băutură caldă la o cantină din apropiere după cursă poate ajuta la recuperarea temperaturii corpului.",
-                "en": "At the harbor, the winter mist and salty air can be biting; a hot drink at a nearby canteen after the ride can greatly help in regaining your body temperature."
+                "en": "At the harbor, the winter mist and salty air can be biting; a hot drink at a nearby canteen after the ride can greatly help in regaining your body temperature.",
+                "es": "En el puerto, la niebla invernal y el aire salino pueden ser cortantes; una bebida caliente en una cantina cercana ayuda mucho a recuperar la temperatura corporal."
               }
             },
             {
@@ -706,13 +784,15 @@
                 "de": "Fuerte de San Martín",
                 "hu": "Fuerte de San Martín",
                 "ro": "Fuerte de San Martín",
-                "en": "Fuerte de San Martín"
+                "en": "Fuerte de San Martín",
+                "es": "Fuerte de San Martín"
               },
               "tip_5lang": {
                 "de": "Zwischen den Festungsmauern werden die Schatten an Winternachmittagen schnell länger; verlassen Sie die felsigen Abschnitte vor Sonnenuntergang für eine sichere Fahrt.",
                 "hu": "Az erőd falai között a téli délutánon hamar megnyúlnak az árnyékok; tervezze úgy, hogy még a naplemente előtt elhagyja a sziklás részeket a biztonságos haladásért.",
                 "ro": "Între zidurile fortului, umbrele se lungesc rapid în după-amiezele de iarnă; planificați să părăsiți secțiunile stâncoase înainte de apus pentru o deplasare sigură.",
-                "en": "Between the fort walls, shadows quickly lengthen on winter afternoons; plan to leave the rocky sections before sunset for safe cycling back to the center."
+                "en": "Between the fort walls, shadows quickly lengthen on winter afternoons; plan to leave the rocky sections before sunset for safe cycling back to the center.",
+                "es": "Entre los muros del fuerte, las sombras se alargan rápido en las tardes de invierno; planifica salir de los tramos rocosos antes del ocaso para volver con seguridad."
               }
             },
             {
@@ -720,13 +800,15 @@
                 "de": "Batería Baja de Galvanes",
                 "hu": "Batería Baja de Galvanes",
                 "ro": "Batería Baja de Galvanes",
-                "en": "Batería Baja de Galvanes"
+                "en": "Batería Baja de Galvanes",
+                "es": "Batería Baja de Galvanes"
               },
               "tip_5lang": {
                 "de": "Bei der historischen Batterie bläst der kalte Wind ungehindert über das offene Gelände; Schichtkleidung beweist hier während der Radtour ihren Nutzen.",
                 "hu": "A történelmi ütegnél a nyílt terepen a hideg szél akadálytalanul fúj; a réteges öltözködés itt bizonyítja be hasznosságát a bringás túra során a fagypont közeli szélben.",
                 "ro": "La bateria istorică, vântul rece suflă nestingherit peste terenul deschis; îmbrăcămintea stratificată își dovedește utilitatea aici în timpul turului cu bicicleta.",
-                "en": "At the historic battery, the cold wind blows unchecked across the open terrain; layered clothing proves its worth here during the cycling tour in the biting wind."
+                "en": "At the historic battery, the cold wind blows unchecked across the open terrain; layered clothing proves its worth here during the cycling tour in the biting wind.",
+                "es": "En la batería histórica, el viento frío atraviesa el terreno abierto; la ropa por capas demuestra su utilidad durante la ruta ciclista con viento punzante."
               }
             },
             {
@@ -734,13 +816,15 @@
                 "de": "Buciero",
                 "hu": "Buciero",
                 "ro": "Buciero",
-                "en": "Buciero"
+                "en": "Buciero",
+                "es": "Buciero"
               },
               "tip_5lang": {
                 "de": "Der Sonnenuntergang beginnt bei den Buciero-Klippen bereits um fünf Uhr; prüfen Sie den Ladezustand der Batterien Ihrer Lampen, da diese sich in der Kälte schneller entladen.",
                 "hu": "A naplemente ötkor már beköszönt a Buciero-szikláknál; ellenőrizze az akkumulátorok töltöttségét a lámpákban, mert a hidegben gyorsabban merülnek az eszközök.",
                 "ro": "Apusul soarelui începe la stâncile Buciero deja la ora cinci; verificați nivelul de încărcare a bateriilor lămpilor, deoarece acestea se descarcă mai repede la frig.",
-                "en": "Sunset begins at the Buciero cliffs as early as five o'clock; check the charge level of your lamp batteries, as they discharge faster in the cold weather."
+                "en": "Sunset begins at the Buciero cliffs as early as five o'clock; check the charge level of your lamp batteries, as they discharge faster in the cold weather.",
+                "es": "El atardecer comienza en los acantilados de Buciero ya a las cinco; comprueba la carga de las pilas de tus luces, ya que descargan más rápido con el frío."
               }
             }
           ]
@@ -760,7 +844,8 @@
             "de": "Mirador del Gromo",
             "hu": "Mirador del Gromo",
             "ro": "Mirador del Gromo",
-            "en": "Mirador del Gromo"
+            "en": "Mirador del Gromo",
+            "es": "Mirador del Gromo"
           },
           "coords": [
             -3.475596,
@@ -775,7 +860,8 @@
             "de": "Halten Sie an diesem Aussichtspunkt für weite Blicke auf die Bucht und die Sümpfe, was ihn zu einem perfekten kurzen Stopp für frühe Fotos macht.",
             "hu": "Álljon meg ezen a festői kilátóhelyen, ahonnan elsöprő kilátás nyílik az öbölre és a mocsarakra, így tökéletes rövid megálló a nap indításához.",
             "ro": "Opriți-vă la acest punct de belvedere pitoresc pentru priveliști ample asupra golfului și mlaștinilor, fiind o oprire perfectă pentru a începe ziua.",
-            "en": "Stop at this scenic viewpoint for sweeping vistas of the bay and marshlands, making it a perfect quick stop to start your day with incredible photos."
+            "en": "Stop at this scenic viewpoint for sweeping vistas of the bay and marshlands, making it a perfect quick stop to start your day with incredible photos.",
+            "es": "Detente en este mirador panorámico para vistas amplias de la bahía y las marismas; es una parada perfecta para empezar el día con fotos increíbles."
           }
         },
         {
@@ -783,7 +869,8 @@
             "de": "Centro de Visitantes del Parque Natural",
             "hu": "Centro de Visitantes del Parque Natural",
             "ro": "Centro de Visitantes del Parque Natural",
-            "en": "Centro de Visitantes del Parque Natural"
+            "en": "Centro de Visitantes del Parque Natural",
+            "es": "Centro de Visitantes del Parque Natural"
           },
           "coords": [
             -3.462852,
@@ -798,7 +885,8 @@
             "de": "Erfahren Sie in diesem Museum mehr über die reiche Artenvielfalt der Feuchtgebiete und holen Sie sich an der Rezeption eine kostenlose Karte.",
             "hu": "Ismerje meg a vizes élőhelyek gazdag biológiai sokféleségét ebben az interaktív múzeumban, és kérjen egy ingyenes térképet a recepción a továbbutazáshoz.",
             "ro": "Învățați despre biodiversitatea bogată a zonelor umede la acest muzeu interactiv și luați o hartă gratuită de la recepție pentru a vă ghida.",
-            "en": "Learn about the rich biodiversity of the wetlands at this interactive museum, and grab a free map from the reception to guide your onward journey."
+            "en": "Learn about the rich biodiversity of the wetlands at this interactive museum, and grab a free map from the reception to guide your onward journey.",
+            "es": "Conoce la rica biodiversidad de las marismas en este museo interactivo y recoge un mapa gratuito en recepción para guiar tu recorrido."
           }
         },
         {
@@ -806,7 +894,8 @@
             "de": "Casa Palacio de los Marqueses de Chiloeches",
             "hu": "Casa Palacio de los Marqueses de Chiloeches",
             "ro": "Casa Palacio de los Marqueses de Chiloeches",
-            "en": "Casa Palacio de los Marqueses de Chiloeches"
+            "en": "Casa Palacio de los Marqueses de Chiloeches",
+            "es": "Casa Palacio de los Marqueses de Chiloeches"
           },
           "coords": [
             -3.457419,
@@ -821,7 +910,8 @@
             "de": "Betrachten Sie die klassische kantabrische Architektur dieses Palastes und achten Sie auf das beeindruckende Wappen, während Sie ihn umrunden.",
             "hu": "Figyelje meg a palota klasszikus kantábriai arisztokrata építészetét, és vegye észre a lenyűgöző címerét, miközben körbesétálja a csendes külsejét.",
             "ro": "Observați arhitectura aristocratică clasică din Cantabria a acestui palat și remarcați blazonul său impresionant în timp ce vă plimbați pe afară.",
-            "en": "Observe the classic Cantabrian aristocratic architecture of this palace, noting its impressive coat of arms while walking around its quiet exterior."
+            "en": "Observe the classic Cantabrian aristocratic architecture of this palace, noting its impressive coat of arms while walking around its quiet exterior.",
+            "es": "Observa la clásica arquitectura aristocrática cántabra de este palacio, fijándote en su impresionante escudo mientras rodeas su tranquilo exterior."
           }
         },
         {
@@ -829,7 +919,8 @@
             "de": "Parque de Manzanedo",
             "hu": "Parque de Manzanedo",
             "ro": "Parque de Manzanedo",
-            "en": "Parque de Manzanedo"
+            "en": "Parque de Manzanedo",
+            "es": "Parque de Manzanedo"
           },
           "coords": [
             -3.455139,
@@ -844,7 +935,8 @@
             "de": "Machen Sie einen entspannten Spaziergang unter den alten Bäumen dieses schönen Parks und bringen Sie ein kleines Picknick für eine der Bänke mit.",
             "hu": "Tegyen egy pihentető sétát e gyönyörű park idős fái alatt, és hozzon magával egy kis pikniket, amelyet a sok árnyékos pad egyikén fogyaszthat el.",
             "ro": "Faceți o plimbare relaxantă pe sub copacii maturi din acest parc frumos și aduceți un mic picnic pentru a-l savura pe una dintre băncile umbrite.",
-            "en": "Take a relaxing stroll under the mature trees of this beautiful park, and bring a small picnic to enjoy on one of its many shaded benches."
+            "en": "Take a relaxing stroll under the mature trees of this beautiful park, and bring a small picnic to enjoy on one of its many shaded benches.",
+            "es": "Da un relajante paseo bajo los árboles maduros de este hermoso parque y lleva un pequeño picnic para disfrutar en uno de sus bancos a la sombra."
           }
         },
         {
@@ -852,7 +944,8 @@
             "de": "Fuerte de San Martín",
             "hu": "Fuerte de San Martín",
             "ro": "Fuerte de San Martín",
-            "en": "Fuerte de San Martín"
+            "en": "Fuerte de San Martín",
+            "es": "Fuerte de San Martín"
           },
           "coords": [
             -3.447176,
@@ -867,7 +960,8 @@
             "de": "Erkunden Sie diese imposante Küstenfestung aus dem 17. Jahrhundert und tragen Sie bequeme Schuhe, um sicher über die unebenen Steinwege zu gehen.",
             "hu": "Fedezze fel ezt az öblöt védő, 17. századi impozáns tengerparti erődöt, és viseljen kényelmes cipőt, hogy biztonságosan navigálhasson az egyenetlen utakon.",
             "ro": "Explorați această fortăreață de coastă impunătoare din secolul al XVII-lea și purtați pantofi confortabili pentru a naviga în siguranță pe aleile pietruite.",
-            "en": "Explore this imposing 17th-century coastal fortress that protected the bay, wearing comfortable shoes to navigate its uneven stone pathways safely."
+            "en": "Explore this imposing 17th-century coastal fortress that protected the bay, wearing comfortable shoes to navigate its uneven stone pathways safely.",
+            "es": "Explora esta imponente fortaleza costera del siglo XVII que protegía la bahía; lleva calzado cómodo para caminar por sus irregulares caminos de piedra."
           }
         },
         {
@@ -875,7 +969,8 @@
             "de": "Fuerte de San Carlos",
             "hu": "Fuerte de San Carlos",
             "ro": "Fuerte de San Carlos",
-            "en": "Fuerte de San Carlos"
+            "en": "Fuerte de San Carlos",
+            "es": "Fuerte de San Carlos"
           },
           "coords": [
             -3.439043,
@@ -890,7 +985,8 @@
             "de": "Entdecken Sie die Ruinen dieser historischen Festung am Wasser und bringen Sie Ihre Kamera für spektakuläre, freie Ausblicke auf das Meer mit.",
             "hu": "Fedezze fel e történelmi erődítmény romjait a vízpart közelében, és hozza magával fényképezőgépét, hogy megörökítse a tengerre nyíló lenyűgöző kilátást.",
             "ro": "Descoperiți ruinele acestei fortărețe istorice din apropierea apei și aduceți-vă aparatul foto pentru priveliști spectaculoase și neobstrucționate asupra mării.",
-            "en": "Discover the strategic ruins of this historic stronghold near the water's edge, bringing your camera for spectacular, unobstructed views of the sea."
+            "en": "Discover the strategic ruins of this historic stronghold near the water's edge, bringing your camera for spectacular, unobstructed views of the sea.",
+            "es": "Descubre las ruinas estratégicas de este histórico bastión junto al mar; trae la cámara para vistas espectaculares y sin obstáculos del mar."
           }
         }
       ],
@@ -898,7 +994,8 @@
         "de": "Ihre Autotour beginnt hoch oben am Mirador del Gromo, wo Sie atemberaubende morgendliche Ausblicke auf die weitläufigen Sumpfgebiete einfangen. Mittags vertiefen Sie Ihr Wissen im Besucherzentrum des Naturparks, bevor Sie den aristokratischen Charme des Chiloeches-Palastes bewundern. Am Nachmittag genießen Sie eine friedliche Pause unter den Bäumen des Parque de Manzanedo. Der Tag endet unvergesslich mit der abendlichen Erkundung der majestätischen Ruinen von Fuerte de San Carlos am Meer.",
         "hu": "Autós túrája magasan a Mirador del Gromo kilátónál kezdődik, ahonnan lélegzetelállító reggeli kilátás nyílik a kiterjedt mocsarakra. Délben mélyítse el tudását a natúrpark látogatóközpontjában, majd csodálja meg a Chiloeches-palota arisztokratikus varázsát. Délután élvezze a békés pihenést a Parque de Manzanedo fái alatt, mielőtt a part menti erődök felé venné az irányt. A nap a tengerparti Fuerte de San Carlos fenséges romjainak felejthetetlen esti felfedezésével zárul.",
         "ro": "Turul dvs. cu mașina începe sus, la Mirador del Gromo, captând priveliști matinale uluitoare ale mlaștinilor întinse. La prânz, aprofundați-vă cunoștințele la centrul de vizitatori al parcului natural înainte de a admira farmecul aristocratic al Palatului Chiloeches. După-amiaza, bucurați-vă de un răgaz liniștit sub copacii din Parque de Manzanedo, înainte de a vă îndrepta spre forturile de coastă. Ziua se încheie explorând ruinele maiestuoase ale Fuerte de San Carlos la malul mării.",
-        "en": "Your driving tour starts high up at Mirador del Gromo, capturing breathtaking morning views of the sprawling marshlands and vibrant estuary. By midday, deepen your knowledge at the nature park's visitor center before a quick drive to admire the aristocratic charm of the Chiloeches Palace. In the afternoon, enjoy a peaceful respite under the trees of Parque de Manzanedo before heading towards the coastal forts. The day concludes with an unforgettable evening exploring the majestic ruins of Fuerte de San Carlos by the sea."
+        "en": "Your driving tour starts high up at Mirador del Gromo, capturing breathtaking morning views of the sprawling marshlands and vibrant estuary. By midday, deepen your knowledge at the nature park's visitor center before a quick drive to admire the aristocratic charm of the Chiloeches Palace. In the afternoon, enjoy a peaceful respite under the trees of Parque de Manzanedo before heading towards the coastal forts. The day concludes with an unforgettable evening exploring the majestic ruins of Fuerte de San Carlos by the sea.",
+        "es": "Tu ruta en coche comienza en lo alto del Mirador del Gromo, captando vistas matinales impresionantes de las extensas marismas y el estuario. Al mediodía, amplía tus conocimientos en el centro de visitantes del parque natural antes de un breve trayecto para admirar el encanto aristocrático del Palacio de Chiloeches. Por la tarde, disfruta de un tranquilo descanso bajo los árboles del Parque de Manzanedo antes de dirigirte a los fuertes costeros. El día concluye con una inolvidable visita vespertina a las majestuosas ruinas del Fuerte de San Carlos junto al mar."
       },
       "variants": {
         "rainy": {
@@ -906,7 +1003,8 @@
             "de": "Aus dem Auto betrachtet sind die Landschaften des Mirador del Gromo malerisch; bleiben Sie im Fahrzeug, wenn sich der Schauer verstärkt. Mittags bieten die Parkplätze des Besucherzentrums Komfort. Am Nachmittag sollten Sie auch auf kurzen Strecken die Scheibenwischer benutzen. Am Abend erfordern Dunkelheit und Pfützen auf dem Weg zum Fort San Carlos erhöhte Aufmerksamkeit.",
             "hu": "Az autóból nézve a Mirador del Gromo ködös tájai festőiek; maradjon a gépjárműben a kilátásért, ha felerősödik a zápor. Délben a látogatóközpont és a palota fedett parkolói nyújtanak kényelmet. Délután az erődök közötti szakaszokon is használja az ablaktörlőket a permet ellen. Estére a San Carlos erőd felé a sötét és a vízátfolyások fokozott figyelmet igényelnek.",
             "ro": "Privind din mașină, peisajele de la Mirador del Gromo sunt pitorești; rămâneți în vehicul dacă ploaia se intensifică. La prânz, parcarea acoperită a centrului de vizitatori oferă confort. După-amiaza, folosiți ștergătoarele chiar și pe distanțe scurte. Seara, întunericul și bălțile de pe drumul spre Fort San Carlos necesită o atenție sporită.",
-            "en": "Looking from the car, the misty landscapes of Mirador del Gromo are picturesque; stay in the vehicle if the shower intensifies. At noon, the covered parking and interiors of the visitor center provide comfort. In the afternoon, use wipers even on short stretches against sea spray. By evening, darkness and puddles on the road to Fort San Carlos require increased attention."
+            "en": "Looking from the car, the misty landscapes of Mirador del Gromo are picturesque; stay in the vehicle if the shower intensifies. At noon, the covered parking and interiors of the visitor center provide comfort. In the afternoon, use wipers even on short stretches against sea spray. By evening, darkness and puddles on the road to Fort San Carlos require increased attention.",
+            "es": "Visto desde el coche, los paisajes brumosos del Mirador del Gromo son pintorescos; quédate dentro si la lluvia aumenta. Al mediodía, el aparcamiento cubierto y los interiores del centro de visitantes ofrecen confort. Por la tarde, usa los limpiaparabrisas incluso en tramos cortos contra el salpicado. Al anochecer, la oscuridad y los charcos en la carretera hacia el Fuerte de San Carlos requieren mayor atención."
           },
           "stops": [
             {
@@ -914,13 +1012,15 @@
                 "de": "Mirador del Gromo",
                 "hu": "Mirador del Gromo",
                 "ro": "Mirador del Gromo",
-                "en": "Mirador del Gromo"
+                "en": "Mirador del Gromo",
+                "es": "Mirador del Gromo"
               },
               "tip_5lang": {
                 "de": "Bleiben Sie bei heftigen Schauern im Auto; mit Hilfe der Scheibenwischer hat man auch so einen tollen Panorama-Blick auf die Sumpflandschaft und die nebligen Lagunen.",
                 "hu": "A kilátónál maradjon az autóban a heves záporok idején; az ablaktörlők segítségével is remek panoráma nyílik a mocsárvilágra és a ködös lagúnákra.",
                 "ro": "Rămâneți în mașină în timpul averselor abundente; cu ajutorul ștergătoarelor, aveți totuși o vedere panoramică excelentă asupra mlaștinilor și lagunelor cețoase.",
-                "en": "Stay in the car during heavy showers at the viewpoint; with the help of wipers, you can still get a great panoramic view of the marshlands and the misty lagoons."
+                "en": "Stay in the car during heavy showers at the viewpoint; with the help of wipers, you can still get a great panoramic view of the marshlands and the misty lagoons.",
+                "es": "Permanece en el coche durante chaparrones fuertes en el mirador; con los limpiaparabrisas puedes seguir disfrutando de una gran vista panorámica de las marismas y las lagunas enmarañadas por la niebla."
               }
             },
             {
@@ -928,13 +1028,15 @@
                 "de": "Centro de Visitantes del Parque Natural",
                 "hu": "Centro de Visitantes del Parque Natural",
                 "ro": "Centro de Visitantes del Parque Natural",
-                "en": "Centro de Visitantes del Parque Natural"
+                "en": "Centro de Visitantes del Parque Natural",
+                "es": "Centro de Visitantes del Parque Natural"
               },
               "tip_5lang": {
                 "de": "Parken Sie direkt am Eingang, um nass werden zu vermeiden; die Innenausstellungen beschäftigen die Familie auch bei schlechtestem Wetter für Stunden.",
                 "hu": "Parkoljon közvetlenül a bejáratnál, hogy minimalizálja az ázást; a látogatóközpont belső kiállításai órákra lefoglalják a családot a legrosszabb időben is.",
                 "ro": "Parcați direct la intrare pentru a minimiza udarea; expozițiile interioare ale centrului de vizitatori vor ocupa familia timp de ore întregi, chiar și pe cea mai rea vreme.",
-                "en": "Park directly at the entrance to minimize getting wet; the visitor center's indoor exhibitions will keep the family busy for hours even in the worst weather."
+                "en": "Park directly at the entrance to minimize getting wet; the visitor center's indoor exhibitions will keep the family busy for hours even in the worst weather.",
+                "es": "Aparca directamente en la entrada para minimizar mojarte; las exposiciones interiores mantendrán a la familia entretenida durante horas, incluso en el peor tiempo."
               }
             },
             {
@@ -942,13 +1044,15 @@
                 "de": "Casa Palacio de los Marqueses de Chiloeches",
                 "hu": "Casa Palacio de los Marqueses de Chiloeches",
                 "ro": "Casa Palacio de los Marqueses de Chiloeches",
-                "en": "Casa Palacio de los Marqueses de Chiloeches"
+                "en": "Casa Palacio de los Marqueses de Chiloeches",
+                "es": "Casa Palacio de los Marqueses de Chiloeches"
               },
               "tip_5lang": {
                 "de": "Manövrieren Sie das Auto in den engen Gassen nach der Besichtigung vorsichtig auf dem nassen Asphalt und achten Sie auf Spritzwasser durch Fußgänger.",
                 "hu": "A palota megtekintése után a szűk utcákon az autóval óvatosan manőverezzen a vizes, csúszós aszfalton és a járókelők által keltett vízfelverődésekre figyelve.",
                 "ro": "După vizitarea palatului, manevrați mașina cu atenție pe străzile înguste cu asfalt umed și alunecos, fiind atenți la stropii de apă provocați de pietoni.",
-                "en": "After visiting the palace, maneuver the car carefully through the narrow streets on the wet, slippery asphalt, paying attention to splashing water from pedestrians."
+                "en": "After visiting the palace, maneuver the car carefully through the narrow streets on the wet, slippery asphalt, paying attention to splashing water from pedestrians.",
+                "es": "Tras visitar el palacio, maniobra el coche con cuidado por las estrechas calles sobre el asfalto húmedo, prestando atención a las salpicaduras de los peatones."
               }
             },
             {
@@ -956,13 +1060,15 @@
                 "de": "Parque de Manzanedo",
                 "hu": "Parque de Manzanedo",
                 "ro": "Parque de Manzanedo",
-                "en": "Parque de Manzanedo"
+                "en": "Parque de Manzanedo",
+                "es": "Parque de Manzanedo"
               },
               "tip_5lang": {
                 "de": "Sie können bequem neben dem Park halten; die jahrhundertealten Bäume sind aus der Wärme des Autos zu sehen, oder Sie können kurz mit einem Regenschirm aussteigen.",
                 "hu": "A park mellett kényelmesen leállhat; az autó melegéből is láthatók az évszázados fák, vagy egy gyors, esernyős séta erejéig kiszállhat a friss levegőre.",
                 "ro": "Puteți opri confortabil lângă parc; copacii seculari pot fi văzuți din căldura mașinii sau puteți coborî pentru o scurtă plimbare cu umbrela la aer curat.",
-                "en": "You can stop comfortably next to the park; the centuries-old trees can be seen from the warmth of the car, or you can step out for a quick walk with an umbrella."
+                "en": "You can stop comfortably next to the park; the centuries-old trees can be seen from the warmth of the car, or you can step out for a quick walk with an umbrella.",
+                "es": "Puedes detenerte con comodidad junto al parque; los árboles centenarios se ven desde el calor del coche, o puedes bajar para un breve paseo con paraguas."
               }
             },
             {
@@ -970,13 +1076,15 @@
                 "de": "Fuerte de San Martín",
                 "hu": "Fuerte de San Martín",
                 "ro": "Fuerte de San Martín",
-                "en": "Fuerte de San Martín"
+                "en": "Fuerte de San Martín",
+                "es": "Fuerte de San Martín"
               },
               "tip_5lang": {
                 "de": "Der Weg zur Festung ist auch bei Regen gut befahrbar; wenn man am Fuße der Mauern parkt, gelangt man fast trockenen Fußes in das geschützte Innere der Anlage.",
                 "hu": "Az erődhöz vezető út esőben is jól járható autóval; a falak tövében parkolva szinte száraz lábbal juthat be a történelmi erődítmény védett belsejébe.",
                 "ro": "Drumul spre fort este ușor accesibil cu mașina chiar și pe ploaie; parcând la baza zidurilor, puteți intra în interiorul protejat al fortificației aproape uscat.",
-                "en": "The road to the fort is easily accessible by car even in rain; by parking at the base of the walls, you can enter the protected interior of the fortification almost dry."
+                "en": "The road to the fort is easily accessible by car even in rain; by parking at the base of the walls, you can enter the protected interior of the fortification almost dry.",
+                "es": "La carretera al fuerte es fácilmente accesible en coche aun con lluvia; aparcando a los pies de los muros, puedes entrar al interior protegido casi seco."
               }
             },
             {
@@ -984,13 +1092,15 @@
                 "de": "Fuerte de San Carlos",
                 "hu": "Fuerte de San Carlos",
                 "ro": "Fuerte de San Carlos",
-                "en": "Fuerte de San Carlos"
+                "en": "Fuerte de San Carlos",
+                "es": "Fuerte de San Carlos"
               },
               "tip_5lang": {
                 "de": "Am Ende der Straße bietet die Festung einen monumentalen Anblick durch den Regenvorhang; bei dunklem Himmel helfen die Scheinwerfer beim Parken an der engen Stelle.",
                 "hu": "Az út végén a San Carlos erőd monumentális látványt nyújt az esőfüggönyön keresztül; a sötétedő égbolt alatt a fényszórók segítenek a parkolásnál a szűk helyen.",
                 "ro": "La capătul drumului, fortul oferă o vedere monumentală prin perdeaua de ploaie; sub cerul care se întunecă, farurile ajută la parcarea în locul îngust.",
-                "en": "At the end of the road, the fort offers a monumental sight through the curtain of rain; under the darkening sky, headlights will help with parking in the narrow spot."
+                "en": "At the end of the road, the fort offers a monumental sight through the curtain of rain; under the darkening sky, headlights will help with parking in the narrow spot.",
+                "es": "Al final del camino, el fuerte ofrece una visión monumental tras el cortinaje de lluvia; bajo el cielo encapotado, las luces del vehículo ayudan a aparcar en el espacio estrecho."
               }
             }
           ]
@@ -1000,7 +1110,8 @@
             "de": "In einem beheizten Auto können Sie am Wintermorgen das Panorama des Mirador del Gromo genießen. Mittags suchen Sie in den Ausstellungen des Besucherzentrums Schutz vor dem Frost. Am Nachmittag kehren Sie nach einer kurzen Runde im Park in die Wärme des Fahrzeugs zurück. Am Abend können Sie am Fort San Carlos den frühen Sonnenuntergang noch aus dem Fenster beobachten.",
             "hu": "A fűtött autóban élvezheti a Mirador del Gromo jeges panorámáját a téli reggelen. Délben a látogatóközpont kiállításai és a palota történelmi falai között keressen menedéket a fagy elől. Délután a park sétányain tett rövid kör után térjen vissza a gépjármű melegébe. Estére a San Carlos erőd szikláinál a korai naplemente fényeit még elcsípheti az ablakból.",
             "ro": "Într-o mașină încălzită, vă puteți bucura de panorama înghețată de la Mirador del Gromo. La prânz, căutați refugiu de îngheț printre exponatele centrului de vizitatori. După-amiaza, după o scurtă tură prin parcul golaș, întoarceți-vă la căldura vehiculului. Seara, ajungând la Fort San Carlos, mai puteți surprinde apusul timpuriu de la fereastră.",
-            "en": "In a heated car, you can enjoy the icy panorama of Mirador del Gromo on a winter morning. At noon, seek refuge from the frost among the exhibits of the visitor center and the historic walls of the palace. In the afternoon, after a short loop on the park's bare walkways, return to the warmth of the vehicle. By evening, you can still catch the sunset from the window."
+            "en": "In a heated car, you can enjoy the icy panorama of Mirador del Gromo on a winter morning. At noon, seek refuge from the frost among the exhibits of the visitor center and the historic walls of the palace. In the afternoon, after a short loop on the park's bare walkways, return to the warmth of the vehicle. By evening, you can still catch the sunset from the window.",
+            "es": "En un coche con calefacción puedes disfrutar del helado panorama del Mirador del Gromo en una mañana invernal. Al mediodía, refugiate del frío entre las exposiciones del centro de visitantes y los muros históricos del palacio. Por la tarde, tras un breve paseo por las sendas despejadas del parque, vuelve al calor del vehículo. Al anochecer, aún puedes contemplar la puesta de sol desde la ventana."
           },
           "stops": [
             {
@@ -1008,13 +1119,15 @@
                 "de": "Mirador del Gromo",
                 "hu": "Mirador del Gromo",
                 "ro": "Mirador del Gromo",
-                "en": "Mirador del Gromo"
+                "en": "Mirador del Gromo",
+                "es": "Mirador del Gromo"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Schönheit der Winterlandschaft aus dem beheizten Innenraum; der Blick auf die reifbedeckte Vegetation ist ein unvergessliches visuelles Erlebnis.",
                 "hu": "Élvezze a téli táj szépségét a fűtött utastérből; a fagyos reggelen a Miradorról nyíló kilátás a zúzmarás növényzetre felejthetetlen vizuális élményt nyújt.",
                 "ro": "Bucurați-vă de frumusețea peisajului de iarnă din interiorul încălzit; vederea de la Mirador asupra vegetației acoperite de brumă este o experiență vizuală de neuitat.",
-                "en": "Enjoy the beauty of the winter landscape from the heated interior; the view from the Mirador of the frost-covered vegetation is an unforgettable visual experience."
+                "en": "Enjoy the beauty of the winter landscape from the heated interior; the view from the Mirador of the frost-covered vegetation is an unforgettable visual experience.",
+                "es": "Disfruta de la belleza del paisaje invernal desde el interior calefactado; la vista del mirador sobre la vegetación cubierta de escarcha es una experiencia visual inolvidable."
               }
             },
             {
@@ -1022,13 +1135,15 @@
                 "de": "Centro de Visitantes del Parque Natural",
                 "hu": "Centro de Visitantes del Parque Natural",
                 "ro": "Centro de Visitantes del Parque Natural",
-                "en": "Centro de Visitantes del Parque Natural"
+                "en": "Centro de Visitantes del Parque Natural",
+                "es": "Centro de Visitantes del Parque Natural"
               },
               "tip_5lang": {
                 "de": "Im Besucherzentrum herrscht auch im Winter eine angenehme Temperatur; prüfen Sie das Frostschutzmittel Ihres Autos, falls die Temperatur unter Null Grad sinkt.",
                 "hu": "A látogatóközpontban a téli időszakban is kellemes hőmérséklet fogadja; az autó indítása előtt ellenőrizze a fagyállót, ha a hőmérséklet nulla fok alá süllyed.",
                 "ro": "În centrul de vizitatori veți fi întâmpinați de o temperatură plăcută chiar și iarna; verificați antigelul mașinii dacă temperatura scade sub zero grade.",
-                "en": "The visitor center welcomes you with a pleasant temperature even in winter; check your car's antifreeze if the temperature drops below zero degrees Celsius."
+                "en": "The visitor center welcomes you with a pleasant temperature even in winter; check your car's antifreeze if the temperature drops below zero degrees Celsius.",
+                "es": "El centro recibe con una temperatura agradable incluso en invierno; revisa el anticongelante del coche si la temperatura baja de cero grados Celsius."
               }
             },
             {
@@ -1036,13 +1151,15 @@
                 "de": "Casa Palacio de los Marqueses de Chiloeches",
                 "hu": "Casa Palacio de los Marqueses de Chiloeches",
                 "ro": "Casa Palacio de los Marqueses de Chiloeches",
-                "en": "Casa Palacio de los Marqueses de Chiloeches"
+                "en": "Casa Palacio de los Marqueses de Chiloeches",
+                "es": "Casa Palacio de los Marqueses de Chiloeches"
               },
               "tip_5lang": {
                 "de": "Im historischen Zentrum können vereiste Stellen in den Kurven gefährlich sein; fahren Sie langsam und genießen Sie die weihnachtliche Beleuchtung der Stadt.",
                 "hu": "A történelmi központban a palota környékén a jeges foltok veszélyesek lehetnek a kanyarokban; vezessen lassan és élvezze a város téli díszkivilágítását az utcákon.",
                 "ro": "În centrul istoric, peticele de gheață pot fi periculoase în curbe; conduceți încet și bucurați-vă de iluminatul festiv de iarnă al orașului din confortul mașinii.",
-                "en": "In the historic center, icy patches can be dangerous in corners; drive slowly and enjoy the city's winter festive lighting from the comfort of your vehicle."
+                "en": "In the historic center, icy patches can be dangerous in corners; drive slowly and enjoy the city's winter festive lighting from the comfort of your vehicle.",
+                "es": "En el casco histórico, las placas heladas pueden ser peligrosas en las esquinas; conduce despacio y disfruta del alumbrado festivo invernal desde la comodidad del vehículo."
               }
             },
             {
@@ -1050,13 +1167,15 @@
                 "de": "Parque de Manzanedo",
                 "hu": "Parque de Manzanedo",
                 "ro": "Parque de Manzanedo",
-                "en": "Parque de Manzanedo"
+                "en": "Parque de Manzanedo",
+                "es": "Parque de Manzanedo"
               },
               "tip_5lang": {
                 "de": "Die Ruhe des Ortes ist auch beim Vorbeifahren spürbar; in den nahe gelegenen Straßen ist es jetzt viel einfacher, einen Parkplatz zu finden als in der Hochsaison.",
                 "hu": "A téli park csupasz fái között az autóval elhaladva is érezhető a hely nyugalma; a közeli utcákban könnyebb parkolót találni ilyenkor, mint a főszezonban.",
                 "ro": "Liniștea locului poate fi simțită chiar și trecând cu mașina printre copacii golași ai parcului; este mult mai ușor să găsiți parcare în străzile din apropiere acum.",
-                "en": "The tranquility of the place can be felt even when driving past the bare trees of the winter park; it is much easier to find parking in nearby streets now than in peak season."
+                "en": "The tranquility of the place can be felt even when driving past the bare trees of the winter park; it is much easier to find parking in nearby streets now than in peak season.",
+                "es": "La tranquilidad del lugar se aprecia incluso al pasar en coche junto a los árboles desnudos del parque invernal; ahora es más fácil encontrar aparcamiento en las calles cercanas que en temporada alta."
               }
             },
             {
@@ -1064,13 +1183,15 @@
                 "de": "Fuerte de San Martín",
                 "hu": "Fuerte de San Martín",
                 "ro": "Fuerte de San Martín",
-                "en": "Fuerte de San Martín"
+                "en": "Fuerte de San Martín",
+                "es": "Fuerte de San Martín"
               },
               "tip_5lang": {
                 "de": "Nach dem Besuch der Festung können Sie sich im Auto schnell aufwärmen; durch die frühe Dunkelheit verschmelzen die Mauern von San Martín langsam mit der Nacht.",
                 "hu": "Az erőd látogatása után az autóban hamar felmelegedhet; a korai sötétedés miatt a San Martín fala lassan beleolvad a téli éjszaka sötétjébe a sziklák felett.",
                 "ro": "După vizitarea fortului, vă puteți încălzi rapid în mașină; din cauza întunericului timpuriu, zidurile San Martín se confundă treptat cu noaptea de iarnă.",
-                "en": "After visiting the fort, you can quickly warm up in the car; due to the early darkness, the walls of San Martín slowly blend into the winter night over the cliffs."
+                "en": "After visiting the fort, you can quickly warm up in the car; due to the early darkness, the walls of San Martín slowly blend into the winter night over the cliffs.",
+                "es": "Tras visitar el fuerte puedes entrar en calor rápidamente en el coche; por la pronta oscuridad, los muros de San Martín se difuminan lentamente en la noche invernal sobre los acantilados."
               }
             },
             {
@@ -1078,13 +1199,15 @@
                 "de": "Fuerte de San Carlos",
                 "hu": "Fuerte de San Carlos",
                 "ro": "Fuerte de San Carlos",
-                "en": "Fuerte de San Carlos"
+                "en": "Fuerte de San Carlos",
+                "es": "Fuerte de San Carlos"
               },
               "tip_5lang": {
                 "de": "An den Klippen kann der Wind zunehmen, so dass das Auto vor der Abfahrt sicheren Schutz bietet; um fünf Uhr können Sie bereits mit Scheinwerfern zurückfahren.",
                 "hu": "A túra végén az erőd szikláinál a szél felerősödhet, így az autó biztos menedéket nyújt a távozás előtt; ötkor már a fényszórókra hagyatkozva indulhat vissza.",
                 "ro": "La stâncile fortului vântul se poate intensifica, astfel încât mașina oferă un adăpost sigur înainte de plecare; la ora cinci puteți porni înapoi folosind farurile.",
-                "en": "At the fort cliffs, the wind can pick up, so the car provides safe shelter before departure; at five o'clock you can already head back relying on your headlights."
+                "en": "At the fort cliffs, the wind can pick up, so the car provides safe shelter before departure; at five o'clock you can already head back relying on your headlights.",
+                "es": "En los acantilados del fuerte el viento puede arreciar, así que el coche ofrece refugio seguro antes de partir; a las cinco ya puedes regresar con ayuda de los faros."
               }
             }
           ]

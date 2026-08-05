@@ -32,7 +32,8 @@
             "de": "Tragen Sie bequeme Schuhe für die mittelalterlichen Gassen.",
             "hu": "Kényelmes cipő ajánlott a középkori macskaköves utcákon.",
             "ro": "Purtați încălțăminte comodă pentru străduțele medievale.",
-            "en": "Wear comfortable shoes for the medieval cobblestone streets."
+            "en": "Wear comfortable shoes for the medieval cobblestone streets.",
+            "es": "Lleva calzado cómodo para las calles medievales de adoquines."
           }
         },
         {
@@ -51,7 +52,8 @@
             "de": "Das Herzstück der Altstadt, perfekt für einen Kaffee.",
             "hu": "Az óváros szíve, tökéletes hely egy kávéra.",
             "ro": "Inima orașului vechi, perfectă pentru o cafea.",
-            "en": "The heart of the old town, perfect for a coffee."
+            "en": "The heart of the old town, perfect for a coffee.",
+            "es": "El corazón del casco antiguo, perfecto para tomar un café."
           }
         },
         {
@@ -70,7 +72,8 @@
             "de": "Achten Sie auf die traditionelle aragonesische Architektur.",
             "hu": "Figyelje meg a hagyományos aragóniai építészetet.",
             "ro": "Observați arhitectura tradițională aragoneză.",
-            "en": "Notice the traditional Aragonese architecture."
+            "en": "Notice the traditional Aragonese architecture.",
+            "es": "Fíjate en la arquitectura aragonesa tradicional."
           }
         },
         {
@@ -89,7 +92,8 @@
             "de": "Die romanische Architektur ist beeindruckend erhalten.",
             "hu": "A román kori építészet lenyűgözően maradt fenn.",
             "ro": "Arhitectura romanică este impresionant de bine păstrată.",
-            "en": "The Romanesque architecture is impressively preserved."
+            "en": "The Romanesque architecture is impressively preserved.",
+            "es": "La arquitectura románica está impresionantemente conservada."
           }
         },
         {
@@ -108,7 +112,8 @@
             "de": "Der Portikus ist ein Meisterwerk der Steinmetzkunst.",
             "hu": "A főkapu a kőfaragóművészet igazi mesterműve.",
             "ro": "Porticul este o capodoperă a artei sculpturii în piatră.",
-            "en": "The portico is a masterpiece of stonemasonry."
+            "en": "The portico is a masterpiece of stonemasonry.",
+            "es": "El pórtico es una obra maestra de cantería."
           }
         },
         {
@@ -127,7 +132,8 @@
             "de": "Idealer Ort für ein Picknick am Nachmittag.",
             "hu": "Ideális helyszín egy délutáni piknikhez.",
             "ro": "Locul ideal pentru un picnic de după-amiază.",
-            "en": "Ideal spot for an afternoon picnic."
+            "en": "Ideal spot for an afternoon picnic.",
+            "es": "Lugar ideal para un picnic por la tarde."
           }
         }
       ],
@@ -135,7 +141,8 @@
         "de": "Ejea de los Caballeros, die Hauptstadt der Cinco Villas, bietet eine faszinierende Mischung aus Geschichte und Moderne. Der Tag beginnt in den verwinkelten Gassen des Barrio del Cinto und führt zu eindrucksvollen romanischen Kirchen. Nach der Besichtigung historischer Residenzen und steinerner Portale bietet der Parque Lineal del Gancho eine grüne Oase zur Entspannung.",
         "hu": "Ejea de los Caballeros, a Cinco Villas régió történelmi központja, izgalmas építészeti örökséggel bír. A séta a Barrio del Cinto ódon utcáin indul, majd robusztus román kori templomok felé halad. A gazdag múltú nemesi rezidenciák és kőfaragványok felfedezése után a Parque Lineal del Gancho zöld sétányain pihenhetünk meg.",
         "ro": "Ejea de los Caballeros, capitala regiunii Cinco Villas, oferă o moștenire arhitecturală deosebită. Plimbarea începe pe străduțele din Barrio del Cinto, ducând spre biserici romanice masive. După explorarea reședințelor istorice și a sculpturilor detaliate în piatră, Parque Lineal del Gancho oferă oaza verde perfectă pentru relaxare.",
-        "en": "Ejea de los Caballeros, the historical capital of the Cinco Villas region, boasts a rich architectural heritage. The walk begins in the ancient streets of Barrio del Cinto, leading to robust Romanesque churches. After exploring noble residences and intricate stone carvings, the Parque Lineal del Gancho provides a green haven for relaxation."
+        "en": "Ejea de los Caballeros, the historical capital of the Cinco Villas region, boasts a rich architectural heritage. The walk begins in the ancient streets of Barrio del Cinto, leading to robust Romanesque churches. After exploring noble residences and intricate stone carvings, the Parque Lineal del Gancho provides a green haven for relaxation.",
+        "es": "Ejea de los Caballeros, la histórica capital de la comarca de las Cinco Villas, posee un rico patrimonio arquitectónico. El paseo comienza en las antiguas calles del Barrio del Cinto, conduciendo a robustas iglesias románicas. Tras explorar casas nobles y elaboradas esculturas en piedra, el Parque Lineal del Gancho ofrece un oasis verde para relajarse."
       },
       "gastro_picks": {
         "de": [
@@ -295,6 +302,12 @@
           "The Barrio del Cinto features steep cobblestone streets, so comfy shoes are a must.",
           "Summers get very hot in the afternoon, plan your walks for the morning.",
           "The historical center is very compact and best explored on foot."
+        ],
+        "es": [
+          "Ejea tiene fuertes raíces agrícolas; no dejes de probar los productos locales.",
+          "El Barrio del Cinto tiene empinadas calles de adoquines, así que conviene calzado cómodo.",
+          "Los veranos son muy calurosos por la tarde; planifica los paseos por la mañana.",
+          "El centro histórico es muy compacto y se explora mejor a pie."
         ]
       },
       "variants": {
@@ -303,7 +316,8 @@
             "de": "Morgens erkunden wir mit dem Regenschirm die engen Gassen des Cinto-Viertels, wo die Steinmauern im Regen glänzen. Mittags finden wir Zuflucht in den majestätischen Kirchen San Salvador und Santa María, deren Stille und Trockenheit zum Verweilen einladen. Am Nachmittag schlendern wir kurz durch den Parque del Gancho, bevor wir uns in ein gemütliches Café an der Plaza de la Villa zurückziehen. Der Abend endet warm bei lokalen Tapas in der Altstadt.",
             "hu": "Reggel esernyővel indulunk a Cinto negyed szűk utcáin, ahol az esőben megcsillannak az ősi kövek. Délben menedéket lelünk a San Salvador és Santa María templomok vastag falai között, élvezve a száraz és csendes belsőt. Délután egy rövid sétát teszünk a Gancho parkban, majd egy hívogató kávézóban melegszünk fel a Plaza de la Villa közelében. Az estét a óváros egyik hangulatos tapas-bárjában zárjuk, távol a kinti nedvességtől.",
             "ro": "Dimineața explorăm cu umbrela străzile înguste din cartierul Cinto, unde zidurile de piatră strălucesc în ploaie. La prânz găsim refugiu în bisericile San Salvador și Santa María, a căror liniște și uscăciune invită la reflecție. După-amiaza facem o scurtă plimbare prin Parque del Gancho, înainte de a ne retrage într-o cafenea primitoare lângă Plaza de la Villa. Seara se încheie cu tapas locale într-un local cald din centrul vechi.",
-            "en": "In the morning, we explore the narrow streets of the Cinto district with umbrellas, where the stone walls glisten in the rain. At noon, we find refuge within the majestic San Salvador and Santa María churches, enjoying their dry and quiet interiors. In the afternoon, we take a short stroll through Gancho Park before retreating to a cozy cafe near Plaza de la Villa. The evening ends warmly with local tapas in the old town, away from the wet streets."
+            "en": "In the morning, we explore the narrow streets of the Cinto district with umbrellas, where the stone walls glisten in the rain. At noon, we find refuge within the majestic San Salvador and Santa María churches, enjoying their dry and quiet interiors. In the afternoon, we take a short stroll through Gancho Park before retreating to a cozy cafe near Plaza de la Villa. The evening ends warmly with local tapas in the old town, away from the wet streets.",
+            "es": "Por la mañana exploramos las estrechas calles del barrio del Cinto con paraguas, donde los muros de piedra brillan con la lluvia. Al mediodía buscamos refugio en las majestuosas iglesias de San Salvador y Santa María, disfrutando de su interior seco y silencioso. Por la tarde damos un breve paseo por el Parque del Gancho antes de refugiarnos en una cafetería acogedora junto a la Plaza de la Villa. La noche termina con tapas locales en el casco antiguo, lejos de las calles mojadas."
           },
           "stops": [
             {
@@ -312,7 +326,8 @@
                 "de": "Die schmalen Gassen bieten etwas Schutz vor Wind.",
                 "hu": "A szűk utcák némi védelmet nyújtanak a szél ellen.",
                 "ro": "Străzile înguste oferă oarecare protecție împotriva vântului.",
-                "en": "The narrow alleys provide some shelter from the wind."
+                "en": "The narrow alleys provide some shelter from the wind.",
+                "es": "Los callejones estrechos ofrecen algo de protección contra el viento."
               }
             },
             {
@@ -321,7 +336,8 @@
                 "de": "Suchen Sie Schutz unter den Arkaden der Plaza.",
                 "hu": "Keressen menedéket a tér árkádjai alatt.",
                 "ro": "Căutați adăpost sub arcadele pieței.",
-                "en": "Seek shelter under the arcades of the Plaza."
+                "en": "Seek shelter under the arcades of the Plaza.",
+                "es": "Busca refugio bajo los soportales de la plaza."
               }
             },
             {
@@ -330,7 +346,8 @@
                 "de": "Ein kurzer Sprint zum Eingang lohnt sich für die Geschichte.",
                 "hu": "Egy rövid futás a bejáratig megéri a történelmi látványért.",
                 "ro": "Un scurt sprint până la intrare merită pentru istorie.",
-                "en": "A short sprint to the entrance is worth it for the history."
+                "en": "A short sprint to the entrance is worth it for the history.",
+                "es": "Un sprint corto hasta la entrada merece la pena por la historia."
               }
             },
             {
@@ -339,7 +356,8 @@
                 "de": "Der perfekte Ort, um einen starken Schauer abzuwarten.",
                 "hu": "Tökéletes hely egy erős zápor kivárására.",
                 "ro": "Locul perfect pentru a aștepta trecerea unei averse puternice.",
-                "en": "The perfect place to wait out a heavy downpour."
+                "en": "The perfect place to wait out a heavy downpour.",
+                "es": "El lugar perfecto para esperar a que amaine un fuerte aguacero."
               }
             },
             {
@@ -348,7 +366,8 @@
                 "de": "Nutzen Sie die Innenbesichtigung für eine Regenpause.",
                 "hu": "Használja ki a belső látogatást egy esőszünetre.",
                 "ro": "Profitați de vizita interioară pentru o pauză de ploaie.",
-                "en": "Use the interior visit for a rain break."
+                "en": "Use the interior visit for a rain break.",
+                "es": "Aprovecha la visita interior como pausa frente a la lluvia."
               }
             },
             {
@@ -357,7 +376,8 @@
                 "de": "Vorsicht, die Wege am Wasser können rutschig sein.",
                 "hu": "Vigyázat, a vízparti utak csúszósak lehetnek.",
                 "ro": "Atenție, potecile de lângă apă pot fi alunecoase.",
-                "en": "Caution, the paths by the water can be slippery."
+                "en": "Caution, the paths by the water can be slippery.",
+                "es": "Precaución, los caminos junto al agua pueden estar resbaladizos."
               }
             }
           ],
@@ -389,6 +409,13 @@
               "Churches in Ejea are reliable dry retreats.",
               "A pocket umbrella is more practical in the wind than a large one.",
               "Enjoy churros in a cafeteria while it rains outside."
+            ],
+            "es": [
+              "Lleva calzado impermeable para las calles de adoquines.",
+              "Los soportales de la plaza son puntos ideales para esperar.",
+              "Las iglesias de Ejea son refugios secos fiables.",
+              "Un paraguas de bolsillo es más práctico con viento que uno grande.",
+              "Disfruta de churros en una cafetería mientras llueve fuera."
             ]
           }
         },
@@ -397,7 +424,8 @@
             "de": "Der Morgen im winterlichen Ejea beginnt frisch, wenn der Cierzo-Wind durch den Cinto weht. Wir wärmen uns in den dicken Mauern der Kirchen San Salvador und Santa María auf, wo die Wintersonne durch die Fenster bricht. Am frühen Nachmittag nutzen wir das helle Licht im Parque del Gancho, bevor es um 17:00 Uhr dämmert. Der Abend wird gemütlich bei einem Glas Wein aus der Region Cinco Villas verbracht, während draußen die Kälte klirrt.",
             "hu": "A téli reggel Ejeában frissen indul, ahogy a Cierzo szél átfúj a Cinto negyeden. A San Salvador és Santa María templomok vastag falai között melegszünk fel, ahol a téli nap átsüt az ablakokon. Kora délután kihasználjuk a világos órákat a Gancho parkban, mielőtt 17:00-kor leszáll az alkony. Az estét kellemesen töltjük egy pohár helyi Cinco Villas bor mellett, miközben odakint csípős a hideg.",
             "ro": "Dimineața de iarnă în Ejea începe proaspăt, în timp ce vântul Cierzo suflă prin Cinto. Ne încălzim între zidurile groase ale bisericilor San Salvador și Santa María, unde soarele de iarnă pătrunde prin ferestre. La începutul după-amiezii profităm de lumină în Parque del Gancho, înainte ca amurgul să cadă la ora 17:00. Seara este petrecută plăcut cu un pahar de vin local din Cinco Villas, în timp ce afară gerul strânge.",
-            "en": "A winter morning in Ejea starts briskly as the Cierzo wind blows through the Cinto district. We warm up within the thick walls of San Salvador and Santa María churches, where winter sunlight filters through the windows. In the early afternoon, we enjoy the bright hours in Gancho Park before dusk falls at 5:00 PM. The evening is spent cozily with a glass of local Cinco Villas wine while the cold bites outside."
+            "en": "A winter morning in Ejea starts briskly as the Cierzo wind blows through the Cinto district. We warm up within the thick walls of San Salvador and Santa María churches, where winter sunlight filters through the windows. In the early afternoon, we enjoy the bright hours in Gancho Park before dusk falls at 5:00 PM. The evening is spent cozily with a glass of local Cinco Villas wine while the cold bites outside.",
+            "es": "Una mañana invernal en Ejea comienza fría con el Cierzo atravesando el barrio del Cinto. Nos abrigamos dentro de los gruesos muros de San Salvador y Santa María, donde la luz invernal filtra por las ventanas. A primera hora de la tarde disfrutamos las horas claras en el Parque del Gancho antes de que anochezca a las 17:00. La noche se pasa acogidos con una copa de vino local de las Cinco Villas mientras el frío muerde afuera."
           },
           "stops": [
             {
@@ -406,7 +434,8 @@
                 "de": "Achten Sie auf den kalten Cierzo-Wind in den Gassen.",
                 "hu": "Vigyázzon a hideg Cierzo szélre a szűk utcákban.",
                 "ro": "Atenție la vântul rece Cierzo pe străduțe.",
-                "en": "Watch out for the cold Cierzo wind in the alleys."
+                "en": "Watch out for the cold Cierzo wind in the alleys.",
+                "es": "Cuidado con el frío viento del Cierzo en los callejones."
               }
             },
             {
@@ -415,7 +444,8 @@
                 "de": "Genießen Sie die Wintersonne auf den Bänken.",
                 "hu": "Élvezze a téli napsütést a padokon ülve.",
                 "ro": "Bucurați-vă de soarele de iarnă pe bănci.",
-                "en": "Enjoy the winter sun on the benches."
+                "en": "Enjoy the winter sun on the benches.",
+                "es": "Disfruta del sol invernal en los bancos."
               }
             },
             {
@@ -424,7 +454,8 @@
                 "de": "Das Gebäude schirmt den kalten Wind gut ab.",
                 "hu": "Az épület jól felfogja a hideg szelet.",
                 "ro": "Clădirea protejează bine de vântul rece.",
-                "en": "The building shields well from the cold wind."
+                "en": "The building shields well from the cold wind.",
+                "es": "El edificio protege bien del viento frío."
               }
             },
             {
@@ -433,7 +464,8 @@
                 "de": "Die massiven Mauern halten die Kälte draußen.",
                 "hu": "A masszív falak kint tartják a fagyos hideget.",
                 "ro": "Zidurile masive țin frigul afară.",
-                "en": "The massive walls keep the freezing cold out."
+                "en": "The massive walls keep the freezing cold out.",
+                "es": "Los muros macizos mantienen el frío helado fuera."
               }
             },
             {
@@ -442,7 +474,8 @@
                 "de": "Ein ruhiger Ort, um sich kurz aufzuwärmen.",
                 "hu": "Csendes hely egy rövid felmelegedéshez.",
                 "ro": "Un loc liniștit pentru o scurtă încălzire.",
-                "en": "A quiet place for a short warm-up."
+                "en": "A quiet place for a short warm-up.",
+                "es": "Un lugar tranquilo para entrar en calor brevemente."
               }
             },
             {
@@ -451,7 +484,8 @@
                 "de": "Beenden Sie den Spaziergang vor Sonnenuntergang (17:00).",
                 "hu": "Fejezze be a sétát naplemente (17:00) előtt.",
                 "ro": "Încheiați plimbarea înainte de apus (17:00).",
-                "en": "Finish your walk before sunset (5:00 PM)."
+                "en": "Finish your walk before sunset (5:00 PM).",
+                "es": "Termina tu paseo antes del atardecer (17:00)."
               }
             }
           ],
@@ -483,6 +517,13 @@
               "Drink a hot chocolate at Plaza de la Villa.",
               "Layered clothing is ideal for exploring Ejea.",
               "The churches provide shelter from the icy wind."
+            ],
+            "es": [
+              "El viento Cierzo puede ser muy penetrante; lleva una bufanda.",
+              "El sol se pone ya a las 17:00 en invierno.",
+              "Toma un chocolate caliente en la Plaza de la Villa.",
+              "La ropa por capas es ideal para explorar Ejea.",
+              "Las iglesias ofrecen refugio del viento helado."
             ]
           }
         }
@@ -512,7 +553,8 @@
             "de": "Starten Sie hier mit einem kurzen Rundblick.",
             "hu": "Kezdje a napot itt egy rövid körbetekintéssel.",
             "ro": "Începeți aici cu o scurtă privire de ansamblu.",
-            "en": "Start here with a quick overview of the square."
+            "en": "Start here with a quick overview of the square.",
+            "es": "Comienza aquí con una rápida visión general de la plaza."
           }
         },
         {
@@ -531,7 +573,8 @@
             "de": "Fahrrad sicher vor der Kirche abstellen.",
             "hu": "A templom előtt biztonságosan lezárhatja a biciklit.",
             "ro": "Legați bicicleta în siguranță în fața bisericii.",
-            "en": "Lock your bike safely in front of the church."
+            "en": "Lock your bike safely in front of the church.",
+            "es": "Asegura bien tu bici frente a la iglesia."
           }
         },
         {
@@ -550,7 +593,8 @@
             "de": "Schöne Radwege entlang der Grünflächen.",
             "hu": "Kiváló kerékpárutak futnak a zöldterületek mentén.",
             "ro": "Piste de biciclete frumoase de-a lungul zonelor verzi.",
-            "en": "Nice cycling paths along the green areas."
+            "en": "Nice cycling paths along the green areas.",
+            "es": "Bonitas vías cicables junto a las zonas verdes."
           }
         },
         {
@@ -569,7 +613,8 @@
             "de": "Die riesigen alten Traktoren sind faszinierend.",
             "hu": "A hatalmas régi traktorok lenyűgöző látványt nyújtanak.",
             "ro": "Vechile tractoare uriașe sunt fascinante.",
-            "en": "The giant vintage tractors are a fascinating sight."
+            "en": "The giant vintage tractors are a fascinating sight.",
+            "es": "Los tractores antiguos gigantes son una vista fascinante."
           }
         },
         {
@@ -588,7 +633,8 @@
             "de": "Eine angenehme Fahrt aus der Stadt hinaus.",
             "hu": "Kellemes tekerés a városból kifelé haladva.",
             "ro": "O plimbare plăcută cu bicicleta în afara orașului.",
-            "en": "A pleasant ride heading out of the town."
+            "en": "A pleasant ride heading out of the town.",
+            "es": "Un paseo agradable saliendo del pueblo."
           }
         }
       ],
@@ -596,7 +642,8 @@
         "de": "Mit dem Fahrrad lässt sich Ejea wunderbar erkunden. Nach den historischen Kirchen im Zentrum radeln wir entspannt in den Parque Lineal del Gancho. Von dort geht es weiter zum Museum Aquagraria, bevor ein kleiner Ausflug zur Ermita de la Virgen de la Oliva den Tag abschließt.",
         "hu": "Ejea kerékpárral kényelmesen bejárható. A központ történelmi templomai után kellemes tekerés vár a Parque Lineal del Gancho parkba. Innen az Aquagraria Múzeum felé vesszük az irányt, végül a város szélén álló Ermita de la Virgen de la Oliva kápolnához kerekezünk.",
         "ro": "Explorarea orașului Ejea cu bicicleta este ideală. După bisericile istorice, pedalăm spre Parque Lineal del Gancho. Urmează impresionantul muzeu Aquagraria, iar ziua se încheie cu o scurtă ieșire din oraș către Ermita de la Virgen de la Oliva.",
-        "en": "Exploring Ejea by bike is highly recommended. After visiting the historical churches, enjoy a relaxed ride through the Parque Lineal del Gancho. Next up is the vast Aquagraria Museum, concluding with a short trip outside town to the Ermita de la Virgen de la Oliva."
+        "en": "Exploring Ejea by bike is highly recommended. After visiting the historical churches, enjoy a relaxed ride through the Parque Lineal del Gancho. Next up is the vast Aquagraria Museum, concluding with a short trip outside town to the Ermita de la Virgen de la Oliva.",
+        "es": "Explorar Ejea en bicicleta es muy recomendable. Tras visitar las iglesias históricas, disfruta de un paseo relajado por el Parque Lineal del Gancho. Después, visita el amplio Museo Aquagraria y termina con un corto trayecto fuera del pueblo hasta la Ermita de la Virgen de la Oliva."
       },
       "gastro_picks": {
         "de": [
@@ -712,6 +759,10 @@
         "en": [
           "Distances are short, making it perfect for leisurely cycling.",
           "Bring enough water when riding out to the Ermita."
+        ],
+        "es": [
+          "Las distancias son cortas, perfecto para un ciclismo tranquilo.",
+          "Lleva suficiente agua para el tramo hasta la Ermita."
         ]
       },
       "variants": {
@@ -720,7 +771,8 @@
             "de": "Radfahren im Regen erfordert in Ejea Vorsicht auf dem nassen Pflaster der Plaza de la Villa. Wir flüchten schnell in die Kirche San Salvador für eine Kulturpause. Den Nachmittag verbringen wir ausgiebig im Museum Aquagraria, dem besten Ort, um trocken zu bleiben und Technik zu bestaunen. Die Fahrt zur Ermita ist kurz und nass, aber die Aussicht auf die stürmische Landschaft ist dramatisch. Abends trocknen wir bei Wein und Tapas in der Stadt.",
             "hu": "Az esőben való biciklizés Ejeában óvatosságot igényel a Plaza de la Villa vizes kövein. Gyorsan behúzódunk a San Salvador templomba egy kis kulturális szünetre. A délutánt az Aquagraria múzeumban töltjük, ami a legjobb hely, hogy szárazon maradjunk és technikai vívmányokat lássunk. Az út az Ermitához rövid és vizes, de a viharos táj látványa drámai. Este a városban száradunk ki bor és tapas mellett.",
             "ro": "Mersul pe bicicletă în ploaie necesită prudență în Ejea pe pavajul ud din Plaza de la Villa. Ne adăpostim rapid în biserica San Salvador pentru o pauză culturală. După-amiaza o petrecem la Muzeul Aquagraria, cel mai bun loc pentru a rămâne uscați și a admira tehnologia. Drumul spre Ermita este scurt și ud, dar vederea asupra peisajului furtunos este dramatică. Seara ne uscăm în oraș cu vin și tapas.",
-            "en": "Cycling in the rain requires caution in Ejea on the wet pavement of Plaza de la Villa. We quickly duck into San Salvador church for a cultural break. We spend the afternoon extensively at the Aquagraria Museum, the best place to stay dry and admire technology. The ride to the Ermita is short and wet, but the view of the stormy landscape is dramatic. In the evening, we dry off in town with wine and tapas."
+            "en": "Cycling in the rain requires caution in Ejea on the wet pavement of Plaza de la Villa. We quickly duck into San Salvador church for a cultural break. We spend the afternoon extensively at the Aquagraria Museum, the best place to stay dry and admire technology. The ride to the Ermita is short and wet, but the view of the stormy landscape is dramatic. In the evening, we dry off in town with wine and tapas.",
+            "es": "Circular bajo la lluvia requiere precaución en Ejea por el pavimento mojado de la Plaza de la Villa. Rápidamente nos refugiamos en la iglesia de San Salvador para una pausa cultural. Pasamos la tarde extensamente en el Museo Aquagraria, el mejor sitio para mantenerse seco y admirar la tecnología. El camino a la Ermita es corto y húmedo, pero la vista del paisaje tormentoso es espectacular. Por la noche, nos secamos en el pueblo con vino y tapas."
           },
           "stops": [
             {
@@ -729,7 +781,8 @@
                 "de": "Vorsicht beim Bremsen auf nassem Kopfsteinpflaster.",
                 "hu": "Vigyázzon a fékezéssel a vizes macskakövön.",
                 "ro": "Atenție la frânare pe pavajul ud.",
-                "en": "Be careful when braking on wet cobblestones."
+                "en": "Be careful when braking on wet cobblestones.",
+                "es": "Ten cuidado al frenar sobre adoquines mojados."
               }
             },
             {
@@ -738,7 +791,8 @@
                 "de": "Stellen Sie das Rad unter den Vorsprung am Eingang.",
                 "hu": "Állítsa a biciklit a bejárati előtető alá.",
                 "ro": "Parcați bicicleta sub streașina de la intrare.",
-                "en": "Park your bike under the overhang at the entrance."
+                "en": "Park your bike under the overhang at the entrance.",
+                "es": "Aparca la bici bajo el alero en la entrada."
               }
             },
             {
@@ -747,7 +801,8 @@
                 "de": "Halten Sie sich von den unbefestigten Uferwegen fern.",
                 "hu": "Maradjon távol a burkolatlan vízparti utaktól.",
                 "ro": "Evitați potecile neasfaltate de pe mal.",
-                "en": "Stay away from unpaved riverside paths."
+                "en": "Stay away from unpaved riverside paths.",
+                "es": "Evita los senderos ribereños sin pavimentar."
               }
             },
             {
@@ -756,7 +811,8 @@
                 "de": "Ideal, um die Ausrüstung während der Besichtigung zu trocknen.",
                 "hu": "Ideális a felszerelés szárítására a látogatás alatt.",
                 "ro": "Ideal pentru a usca echipamentul în timpul vizitei.",
-                "en": "Ideal for drying your gear during the visit."
+                "en": "Ideal for drying your gear during the visit.",
+                "es": "Ideal para secar tu equipo durante la visita."
               }
             },
             {
@@ -765,7 +821,8 @@
                 "de": "Der Anstieg kann bei Regen rutschig sein.",
                 "hu": "Az emelkedő esőben csúszós lehet.",
                 "ro": "Urcarea poate fi alunecoasă pe ploaie.",
-                "en": "The climb can be slippery in the rain."
+                "en": "The climb can be slippery in the rain.",
+                "es": "La subida puede estar resbaladiza con lluvia."
               }
             }
           ],
@@ -797,6 +854,13 @@
               "Avoid sharp turns on the slippery old town pavement.",
               "Waterproof gloves keep your fingers mobile for braking.",
               "Check your brake pads before descending from the Ermita."
+            ],
+            "es": [
+              "Los guardabarros son esenciales por los charcos en el parque.",
+              "Usa el Museo Aquagraria para la pausa de lluvia más larga.",
+              "Evita giros bruscos en el pavimento resbaladizo del casco antiguo.",
+              "Los guantes impermeables mantienen los dedos ágiles para frenar.",
+              "Revisa las pastillas de freno antes de descender desde la Ermita."
             ]
           }
         },
@@ -805,7 +869,8 @@
             "de": "Eine Wintertour mit dem Rad durch Ejea erfordert warme Kleidung gegen den Cierzo. Der Vormittag an der Plaza de la Villa ist sonnig, aber kalt. Wir finden Wärme in der Kirche San Salvador, bevor wir durch die kahle, aber friedliche Landschaft des Gancho-Parks radeln. Das Museum Aquagraria bietet zur Mittagszeit eine willkommene Aufheizphase. Der finale Anstieg zur Ermita belohnt uns mit klarer Winterluft und einem frühen Sonnenuntergang über den Pyrenäen.",
             "hu": "A téli biciklitúra Ejeában meleg ruházatot igényel a Cierzo ellen. A délelőtt a Plaza de la Villa-n napos, de hideg. Felmelegszünk a San Salvador templomban, mielőtt a Gancho park kopár, de békés táján tekernénk át. Az Aquagraria múzeum délidőben örömteli fűtött menedéket nyújt. Az utolsó emelkedő az Ermitához tiszta téli levegővel és a Pireneusok feletti korai naplementével jutalmaz.",
             "ro": "Un tur de iarnă cu bicicleta prin Ejea necesită haine groase împotriva vântului Cierzo. Dimineața în Plaza de la Villa este însorită, dar rece. Ne încălzim în biserica San Salvador înainte de a pedala prin peisajul golaș, dar liniștit al parcului Gancho. Muzeul Aquagraria oferă o fază de încălzire binevenită la prânz. Urcarea finală spre Ermita ne răsplătește cu aer curat de iarnă și un apus timpuriu peste Pirinei.",
-            "en": "A winter bike tour through Ejea requires warm clothing against the Cierzo wind. The morning at Plaza de la Villa is sunny but cold. We warm up in San Salvador church before cycling through the bare but peaceful landscape of Gancho Park. The Aquagraria Museum provides a welcome heating phase at midday. The final climb to the Ermita rewards us with crisp winter air and an early sunset over the Pyrenees."
+            "en": "A winter bike tour through Ejea requires warm clothing against the Cierzo wind. The morning at Plaza de la Villa is sunny but cold. We warm up in San Salvador church before cycling through the bare but peaceful landscape of Gancho Park. The Aquagraria Museum provides a welcome heating phase at midday. The final climb to the Ermita rewards us with crisp winter air and an early sunset over the Pyrenees.",
+            "es": "Un tour invernal en bici por Ejea requiere ropa abrigada contra el viento Cierzo. La mañana en la Plaza de la Villa es soleada pero fría. Nos entonamos en la iglesia de San Salvador antes de pedalear por el paisaje desnudo pero tranquilo del Parque del Gancho. El Museo Aquagraria ofrece una bienvenida fase de calefacción al mediodía. La última subida a la Ermita nos recompensa con aire invernal y un atardecer temprano sobre los Pirineos."
           },
           "stops": [
             {
@@ -814,7 +879,8 @@
                 "de": "Halten Sie sich durch Bewegung warm.",
                 "hu": "Tartsa magát melegen folyamatos mozgással.",
                 "ro": "Mențineți-vă cald prin mișcare continuă.",
-                "en": "Keep yourself warm by staying in motion."
+                "en": "Keep yourself warm by staying in motion.",
+                "es": "Mantente abrigado permaneciendo en movimiento."
               }
             },
             {
@@ -823,7 +889,8 @@
                 "de": "Ein guter Ort, um die Hände kurz aufzuwärmen.",
                 "hu": "Jó hely a kezek rövid felmelegítésére.",
                 "ro": "Un loc bun pentru a vă încălzi scurt mâinile.",
-                "en": "A good place to briefly warm up your hands."
+                "en": "A good place to briefly warm up your hands.",
+                "es": "Un buen lugar para calentar las manos brevemente."
               }
             },
             {
@@ -832,7 +899,8 @@
                 "de": "Achtung vor Reif auf den Holzbrücken.",
                 "hu": "Vigyázzon a dérre a fahidakon.",
                 "ro": "Atenție la chiciura de pe podurile de lemn.",
-                "en": "Watch out for frost on the wooden bridges."
+                "en": "Watch out for frost on the wooden bridges.",
+                "es": "Cuidado con la escarcha en los puentes de madera."
               }
             },
             {
@@ -841,7 +909,8 @@
                 "de": "Genießen Sie die beheizten Ausstellungsräume.",
                 "hu": "Élvezze a fűtött kiállítótermeket.",
                 "ro": "Bucurați-vă de sălile de expoziție încălzite.",
-                "en": "Enjoy the heated exhibition halls."
+                "en": "Enjoy the heated exhibition halls.",
+                "es": "Disfruta de las salas de exposiciones climatizadas."
               }
             },
             {
@@ -850,7 +919,8 @@
                 "de": "Vorsicht bei der Abfahrt in der kalten Abendluft.",
                 "hu": "Vigyázzon a leereszkedésnél a hideg esti levegőben.",
                 "ro": "Atenție la coborâre în aerul rece de seară.",
-                "en": "Be careful during the descent in the cold evening air."
+                "en": "Be careful during the descent in the cold evening air.",
+                "es": "Precaución en el descenso con el frío de la tarde."
               }
             }
           ],
@@ -883,6 +953,13 @@
               "Finish the tour before 5:00 PM due to darkness.",
               "A warm tea in a thermos helps against cooling down.",
               "Watch out for icy patches in the shaded Gancho Park."
+            ],
+            "es": [
+              "Buenos guantes son obligatorios con heladas y sensación térmica baja.",
+              "Revisa la presión de los neumáticos; suele bajar con el frío.",
+              "Termina el recorrido antes de las 17:00 por la oscuridad.",
+              "Un té caliente en un termo ayuda a no enfriarse.",
+              "Cuidado con placas de hielo en las zonas sombreadas del Parque del Gancho."
             ]
           }
         }
@@ -912,7 +989,8 @@
             "de": "Parken Sie hier in der Nähe für den ersten Rundgang.",
             "hu": "Parkoljon le a közelben az első sétához.",
             "ro": "Parcați în apropiere pentru prima plimbare.",
-            "en": "Park nearby for your first walking cluster."
+            "en": "Park nearby for your first walking cluster.",
+            "es": "Aparca cerca para tu primer tramo a pie."
           }
         },
         {
@@ -931,7 +1009,8 @@
             "de": "Nur wenige Schritte vom Platz entfernt.",
             "hu": "Csak néhány lépésre a főtértől.",
             "ro": "La doar câțiva pași de piața centrală.",
-            "en": "Just a short walk from the main square."
+            "en": "Just a short walk from the main square.",
+            "es": "A solo un corto paseo desde la plaza principal."
           }
         },
         {
@@ -950,7 +1029,8 @@
             "de": "Das historische Viertel erkundet man am besten zu Fuß.",
             "hu": "A történelmi negyed gyalog a leghangulatosabb.",
             "ro": "Cartierul istoric este cel mai bine explorat pe jos.",
-            "en": "The historic quarter is best explored on foot."
+            "en": "The historic quarter is best explored on foot.",
+            "es": "El barrio histórico se explora mejor a pie."
           }
         },
         {
@@ -969,7 +1049,8 @@
             "de": "Fahrt zum zweiten Cluster. Großzügige Parkplätze am Museum.",
             "hu": "Utazás a második klaszterbe. Bőséges parkoló a múzeumnál.",
             "ro": "Conduceți spre al doilea cluster. Parcare generoasă la muzeu.",
-            "en": "Drive to the second cluster. Generous parking at the museum."
+            "en": "Drive to the second cluster. Generous parking at the museum.",
+            "es": "Conduce hasta el segundo conjunto. Aparcamiento amplio en el museo."
           }
         },
         {
@@ -988,7 +1069,8 @@
             "de": "Lassen Sie das Auto stehen und laufen Sie in den Park.",
             "hu": "Hagyja az autót a múzeumnál, és sétáljon át a parkba.",
             "ro": "Lăsați mașina la muzeu și faceți o plimbare până în parc.",
-            "en": "Leave the car parked and stroll over to the park."
+            "en": "Leave the car parked and stroll over to the park.",
+            "es": "Deja el coche aparcado y pasea hasta el parque."
           }
         },
         {
@@ -1007,7 +1089,8 @@
             "de": "Kurze Autofahrt zum Abschluss des Tages.",
             "hu": "Rövid autóút a nap zárásaként a kápolnához.",
             "ro": "O scurtă călătorie cu mașina pentru încheierea zilei.",
-            "en": "A short drive to conclude your day trip."
+            "en": "A short drive to conclude your day trip.",
+            "es": "Un corto trayecto en coche para concluir la excursión del día."
           }
         }
       ],
@@ -1015,7 +1098,8 @@
         "de": "Die Kombination aus kurzen Autofahrten und Spaziergängen ist hier ideal. Nach dem Parken im Zentrum erkunden Sie die historische Plaza de la Villa und das Barrio del Cinto zu Fuß. Später fahren Sie zum Aquagraria-Museum, von wo aus sich ein Spaziergang im angrenzenden Park anbietet. Den Abschluss bildet die Ermita außerhalb.",
         "hu": "Az autós és gyalogos szakaszok kombinációja ideális Ejea felfedezéséhez. A központban parkolva sétálja be a történelmi Plaza de la Villa-t és a Barrio del Cinto-t. Ezután vezessen át az Aquagraria Múzeumhoz, ahonnan elsétálhat a szomszédos parkba. A napot az agglomerációban lévő Ermita kápolna zárja.",
         "ro": "Combinația de scurte călătorii cu mașina și plimbări este ideală aici. Parcați în centru pentru a explora Plaza de la Villa și Barrio del Cinto pe jos. Apoi conduceți spre Muzeul Aquagraria, urmat de o plimbare în parcul alăturat. Ziua se încheie cu o scurtă deplasare spre Ermita.",
-        "en": "Combining short drives with walking clusters is perfect for Ejea. Park in the center to explore the historic Plaza de la Villa and Barrio del Cinto on foot. Later, drive to the Aquagraria Museum, taking a stroll to the adjacent park afterwards. Conclude with a scenic drive to the Ermita."
+        "en": "Combining short drives with walking clusters is perfect for Ejea. Park in the center to explore the historic Plaza de la Villa and Barrio del Cinto on foot. Later, drive to the Aquagraria Museum, taking a stroll to the adjacent park afterwards. Conclude with a scenic drive to the Ermita.",
+        "es": "Combinar cortos trayectos en coche con tramos a pie es perfecto para Ejea. Aparca en el centro para explorar la histórica Plaza de la Villa y el Barrio del Cinto a pie. Luego conduce al Museo Aquagraria y pasea por el parque adyacente. Concluye con un trayecto panorámico hasta la Ermita."
       },
       "gastro_picks": {
         "de": [
@@ -1115,6 +1199,10 @@
         "en": [
           "Leave the car centrally parked and walk between the historical churches.",
           "The streets in the old Barrio are quite narrow for large vehicles."
+        ],
+        "es": [
+          "Deja el coche aparcado en el centro y camina entre las iglesias históricas.",
+          "Las calles del barrio antiguo son bastante estrechas para vehículos grandes."
         ]
       },
       "variants": {
@@ -1123,7 +1211,8 @@
             "de": "Mit dem Auto ist Ejea bei Regen am bequemsten zu erkunden. Wir parken nahe der Plaza de la Villa und besichtigen trocken die Kirche Santa María. Die Fahrt zum Cinto-Viertel bietet Ausblicke aus dem Fenster, bevor wir den Nachmittag im Museum Aquagraria verbringen. Der Parque del Gancho lässt sich vom Parkplatz aus bewundern. Die Fahrt zur Ermita ist sicher und trocken, mit einem weiten Blick über die regennassen Felder von Aragon.",
             "hu": "Autóval a legkényelmesebb Ejea felfedezése esőben. A Plaza de la Villa közelében parkolunk, és szárazon nézzük meg a Santa María templomot. A Cinto negyedbe menet az ablakból csodáljuk a várost, majd a délutánt az Aquagraria múzeumban töltjük. A Gancho parkot a parkolóból is megcsodálhatjuk. Az út az Ermitához biztonságos és száraz, remek kilátással Aragónia eső áztatta földjeire.",
             "ro": "Cu mașina, Ejea este cel mai confortabil de explorat pe ploaie. Parcăm aproape de Plaza de la Villa și vizităm biserica Santa María la adăpost. Drumul spre cartierul Cinto oferă vederi din fereastră, înainte de a petrece după-amiaza la Muzeul Aquagraria. Parque del Gancho poate fi admirat din parcare. Drumul spre Ermita este sigur și uscat, cu o vedere largă peste câmpurile udate de ploaie ale Aragonului.",
-            "en": "By car, Ejea is most comfortable to explore in the rain. We park near Plaza de la Villa and visit Santa María church while staying dry. The drive to the Cinto district offers views from the window before spending the afternoon at the Aquagraria Museum. Gancho Park can be admired from the parking lot. The drive to the Ermita is safe and dry, with a wide view over the rain-soaked fields of Aragon."
+            "en": "By car, Ejea is most comfortable to explore in the rain. We park near Plaza de la Villa and visit Santa María church while staying dry. The drive to the Cinto district offers views from the window before spending the afternoon at the Aquagraria Museum. Gancho Park can be admired from the parking lot. The drive to the Ermita is safe and dry, with a wide view over the rain-soaked fields of Aragon.",
+            "es": "En coche, Ejea se explora más cómodamente bajo la lluvia. Aparcamos cerca de la Plaza de la Villa y visitamos la iglesia de Santa María manteniéndonos secos. El trayecto hasta el barrio del Cinto ofrece vistas desde la ventana antes de pasar la tarde en el Museo Aquagraria. El Parque del Gancho puede contemplarse desde el aparcamiento. El camino a la Ermita es seguro y seco, con una amplia vista sobre los campos empapados de Aragón."
           },
           "stops": [
             {
@@ -1132,7 +1221,8 @@
                 "de": "Parken Sie auf dem nahen Parkplatz Paseo del Muro.",
                 "hu": "Parkoljon a közeli Paseo del Muro parkolóban.",
                 "ro": "Parcați în parcarea apropiată Paseo del Muro.",
-                "en": "Park in the nearby Paseo del Muro parking lot."
+                "en": "Park in the nearby Paseo del Muro parking lot.",
+                "es": "Aparca en el cercano parking de Paseo del Muro."
               }
             },
             {
@@ -1141,7 +1231,8 @@
                 "de": "Ein kurzer Weg vom Auto zum Kircheneingang.",
                 "hu": "Csak egy rövid séta az autótól a templomig.",
                 "ro": "O scurtă plimbare de la mașină la intrarea în biserică.",
-                "en": "A short walk from the car to the church entrance."
+                "en": "A short walk from the car to the church entrance.",
+                "es": "A poca distancia a pie desde el coche hasta la entrada de la iglesia."
               }
             },
             {
@@ -1150,7 +1241,8 @@
                 "de": "Einige Gassen sind sehr eng, parken Sie lieber am Rand.",
                 "hu": "Néhány utca nagyon szűk, parkoljon inkább a szélén.",
                 "ro": "Unele străzi sunt foarte înguste, parcați mai degrabă la margine.",
-                "en": "Some alleys are very narrow; better to park on the edge."
+                "en": "Some alleys are very narrow; better to park on the edge.",
+                "es": "Algunas callejuelas son muy estrechas; es mejor aparcar en el borde."
               }
             },
             {
@@ -1159,7 +1251,8 @@
                 "de": "Großer, befestigter Parkplatz direkt vor der Tür.",
                 "hu": "Nagy, aszfaltozott parkoló közvetlenül az ajtó előtt.",
                 "ro": "Parcare mare, asfaltată, direct în fața ușii.",
-                "en": "Large, paved parking lot right in front of the door."
+                "en": "Large, paved parking lot right in front of the door.",
+                "es": "Amplio aparcamiento pavimentado justo en la puerta."
               }
             },
             {
@@ -1168,7 +1261,8 @@
                 "de": "Vom Parkplatz aus hat man einen guten Blick auf den See.",
                 "hu": "A parkolóból jó kilátás nyílik a tóra.",
                 "ro": "Din parcare aveți o vedere bună asupra lacului.",
-                "en": "From the parking lot, you have a good view of the lake."
+                "en": "From the parking lot, you have a good view of the lake.",
+                "es": "Desde el aparcamiento tienes buena vista al lago."
               }
             },
             {
@@ -1177,7 +1271,8 @@
                 "de": "Die Straße nach oben ist auch bei Regen gut befahrbar.",
                 "hu": "A felfelé vezető út esőben is jól járható.",
                 "ro": "Drumul spre culme este bine practicabil și pe ploaie.",
-                "en": "The road up is easily accessible even in the rain."
+                "en": "The road up is easily accessible even in the rain.",
+                "es": "La carretera de subida es accesible incluso con lluvia."
               }
             }
           ],
@@ -1209,6 +1304,13 @@
               "Avoid driving into the narrowest Cinto alleys.",
               "Aquagraria is the ideal destination during persistent rain.",
               "The view from the Ermita is great even from inside the car."
+            ],
+            "es": [
+              "Utiliza los aparcamientos en el borde del casco antiguo.",
+              "Las ventanas se empañan rápido; usa la climatización.",
+              "Evita conducir por las callejuelas más estrechas de Cinto.",
+              "Aquagraria es el destino ideal durante la lluvia persistente.",
+              "La vista desde la Ermita es estupenda incluso desde el coche."
             ]
           }
         },
@@ -1217,7 +1319,8 @@
             "de": "Winterliches Ejea lässt sich warm im Auto genießen. Wir starten an der Plaza de la Villa, wo die tiefstehende Sonne die Fassaden beleuchtet. Die Fahrt durch den Cinto zeigt den Charme der leeren Winterstraßen. Mittags ist das Museum Aquagraria perfekt beheizt. Wir machen einen kurzen Stopp am Parque del Gancho, um den Frost auf dem See zu sehen. Der Tag endet an der Ermita mit einem spektakulären Sonnenuntergang in der klaren, kalten Luft.",
             "hu": "A téli Ejeát meleg autóban élvezhetjük. A Plaza de la Villa-n kezdünk, ahol az alacsony nap megvilágítja a homlokzatokat. A Cinto-n átautózva látszik az üres téli utcák bája. Délben az Aquagraria múzeum tökéletesen fűtött. Megállunk egy rövid időre a Gancho parknál, hogy lássuk a dérlepte tavat. A nap az Ermitánál ér véget látványos naplementével a tiszta, hideg levegőben.",
             "ro": "Ejea de iarnă poate fi savurată la căldură în mașină. Începem în Plaza de la Villa, unde soarele jos luminează fațadele. Drumul prin Cinto arată farmecul străzilor goale de iarnă. La prânz, Muzeul Aquagraria este încălzit perfect. Facem o scurtă oprire la Parque del Gancho pentru a vedea chiciura de pe lac. Ziua se încheie la Ermita cu un apus spectaculos în aerul curat și rece.",
-            "en": "Winter Ejea can be enjoyed warmly in the car. We start at Plaza de la Villa, where the low sun illuminates the facades. Driving through Cinto shows the charm of the empty winter streets. At noon, the Aquagraria Museum is perfectly heated. We make a short stop at Gancho Park to see the frost on the lake. The day ends at the Ermita with a spectacular sunset in the crisp, cold air."
+            "en": "Winter Ejea can be enjoyed warmly in the car. We start at Plaza de la Villa, where the low sun illuminates the facades. Driving through Cinto shows the charm of the empty winter streets. At noon, the Aquagraria Museum is perfectly heated. We make a short stop at Gancho Park to see the frost on the lake. The day ends at the Ermita with a spectacular sunset in the crisp, cold air.",
+            "es": "El invierno en Ejea puede disfrutarse con calor en el coche. Empezamos en la Plaza de la Villa, donde el sol bajo ilumina las fachadas. Conducir por Cinto muestra el encanto de las calles invernales vacías. Al mediodía, el Museo Aquagraria está perfectamente climatizado. Hacemos una breve parada en el Parque del Gancho para ver la escarcha en el lago. El día termina en la Ermita con un atardecer espectacular en el aire frío y seco."
           },
           "stops": [
             {
@@ -1226,7 +1329,8 @@
                 "de": "Parken Sie in der Sonne, um das Auto warm zu halten.",
                 "hu": "Parkoljon a napon, hogy melegen tartsa az autót.",
                 "ro": "Parcați la soare pentru a menține mașina caldă.",
-                "en": "Park in the sun to keep the car warm."
+                "en": "Park in the sun to keep the car warm.",
+                "es": "Aparca al sol para mantener el coche caliente."
               }
             },
             {
@@ -1235,7 +1339,8 @@
                 "de": "Heizung anlassen, bis man direkt vor der Tür ist.",
                 "hu": "Hagyja menni a fűtést, amíg közvetlenül az ajtóhoz nem ér.",
                 "ro": "Lăsați căldura pornită până ajungeți direct la ușă.",
-                "en": "Keep the heater on until you are right in front of the door."
+                "en": "Keep the heater on until you are right in front of the door.",
+                "es": "Mantén la calefacción hasta estar justo frente a la puerta."
               }
             },
             {
@@ -1244,7 +1349,8 @@
                 "de": "Genießen Sie den Blick auf die Altstadt aus dem warmen Wagen.",
                 "hu": "Élvezze az óvárosi kilátást a meleg autóból.",
                 "ro": "Bucurați-vă de vederea spre centrul vechi din mașina caldă.",
-                "en": "Enjoy the view of the old town from the warm car."
+                "en": "Enjoy the view of the old town from the warm car.",
+                "es": "Disfruta de la vista del casco antiguo desde el coche caliente."
               }
             },
             {
@@ -1253,7 +1359,8 @@
                 "de": "Parken Sie nah am Eingang, um der Kälte zu entgehen.",
                 "hu": "Parkoljon közel a bejárathoz, hogy elkerülje a hideget.",
                 "ro": "Parcați aproape de intrare pentru a evita frigul.",
-                "en": "Park close to the entrance to avoid the cold."
+                "en": "Park close to the entrance to avoid the cold.",
+                "es": "Aparca cerca de la entrada para evitar el frío."
               }
             },
             {
@@ -1262,7 +1369,8 @@
                 "de": "Ein kurzer, erfrischender Gang zum Seeufer lohnt sich.",
                 "hu": "Egy rövid, frissítő séta a tópartra megéri.",
                 "ro": "O scurtă plimbare revigorantă până la malul lacului merită.",
-                "en": "A short, refreshing walk to the lakeshore is worth it."
+                "en": "A short, refreshing walk to the lakeshore is worth it.",
+                "es": "Un paseo corto y refrescante hasta la orilla del lago merece la pena."
               }
             },
             {
@@ -1271,7 +1379,8 @@
                 "de": "Ideal für den Sonnenuntergang ohne im Cierzo zu frieren.",
                 "hu": "Ideális naplementéhez anélkül, hogy a Cierzo-ban fagyna.",
                 "ro": "Ideal pentru apus fără a îngheța în vântul Cierzo.",
-                "en": "Ideal for sunset without freezing in the Cierzo wind."
+                "en": "Ideal for sunset without freezing in the Cierzo wind.",
+                "es": "Ideal para ver el atardecer sin congelarse con el viento Cierzo."
               }
             }
           ],
@@ -1303,6 +1412,13 @@
               "Parking in the old town is more relaxed in winter.",
               "Use the seat heating for maximum comfort.",
               "Visit the Aquagraria Museum during the coldest midday hours."
+            ],
+            "es": [
+              "Revisa el anticongelante del sistema del limpiaparabrisas.",
+              "Atento a placas de hielo en los caminos secundarios hacia la Ermita.",
+              "Aparcar en el casco antiguo es más tranquilo en invierno.",
+              "Usa los asientos calefactados para mayor confort.",
+              "Visita el Museo Aquagraria en las horas centrales más frías del día."
             ]
           }
         }
@@ -1332,7 +1448,8 @@
             "de": "Beginnen Sie Ihren Stadtbummel direkt an der Bushaltestelle im Zentrum.",
             "hu": "Kezdje a városnézést egyenesen a központi buszmegállóból.",
             "ro": "Începeți plimbarea din stația de autobuz centrală.",
-            "en": "Start your walk straight from the central bus stop."
+            "en": "Start your walk straight from the central bus stop.",
+            "es": "Comienza tu paseo directamente desde la parada central de autobús."
           }
         },
         {
@@ -1351,7 +1468,8 @@
             "de": "Kurzer Spaziergang zu diesem architektonischen Highlight.",
             "hu": "Rövid séta ehhez az építészeti gyöngyszemhez.",
             "ro": "O scurtă plimbare până la această atracție arhitecturală.",
-            "en": "A short walk to this architectural highlight."
+            "en": "A short walk to this architectural highlight.",
+            "es": "A poca distancia a pie hasta este hito arquitectónico."
           }
         },
         {
@@ -1370,7 +1488,8 @@
             "de": "Das massive Äußere verbirgt ein wunderschönes Portal.",
             "hu": "A masszív külső egy csodálatos portálét rejt.",
             "ro": "Exteriorul masiv ascunde un portal superb.",
-            "en": "The massive exterior hides a beautiful portal."
+            "en": "The massive exterior hides a beautiful portal.",
+            "es": "El exterior macizo oculta un bello pórtico."
           }
         },
         {
@@ -1389,7 +1508,8 @@
             "de": "Nehmen Sie den lokalen Bus, um zum Museum zu gelangen.",
             "hu": "Szálljon fel a helyi buszra a múzeum felé.",
             "ro": "Luați autobuzul local pentru a ajunge la muzeu.",
-            "en": "Take the local bus to reach the agricultural museum."
+            "en": "Take the local bus to reach the agricultural museum.",
+            "es": "Toma el autobús local para llegar al museo agrícola."
           }
         },
         {
@@ -1408,7 +1528,8 @@
             "de": "Zu Fuß vom Museum in den Park schlendern.",
             "hu": "Sétáljon át a múzeumból ebbe a tágas parkba.",
             "ro": "Plimbați-vă de la muzeu până în parc.",
-            "en": "Stroll down from the museum into this spacious park."
+            "en": "Stroll down from the museum into this spacious park.",
+            "es": "Baja paseando desde el museo hasta este amplio parque."
           }
         }
       ],
@@ -1416,7 +1537,8 @@
         "de": "Auch mit öffentlichen Verkehrsmitteln lässt sich die Stadt im Cluster-Prinzip gut erleben. Man startet im alten Zentrum, das man bequem erläuft. Für die etwas längere Strecke zum Landwirtschaftsmuseum Aquagraria nutzt man den Stadtbus, wonach man den Nachmittag mit einem Spaziergang im angrenzenden Park ausklingen lässt.",
         "hu": "A tömegközlekedés és a sétálós klaszterek jól kombinálhatók Ejeában. A történelmi városmag gyalogosan fedezhető fel leginkább, míg az Aquagraria Múzeumhoz érdemes a helyi buszjáratot választani. A tartalmas nap végén egy rövid sétával jutunk át a közeli, zöldellő parkba.",
         "ro": "Transportul public combinat cu plimbări în zonele de interes funcționează de minune aici. Explorați centrul istoric pe jos, apoi luați autobuzul spre Muzeul Aquagraria. Mai târziu, vă puteți relaxa mergând pe jos până la parcul învecinat, perfect pentru finalul zilei.",
-        "en": "Public transit and walking clusters blend perfectly in Ejea. Explore the dense historic center entirely on foot before hopping on a local bus out to the vast Aquagraria Museum. Afterwards, a short walk brings you to the neighboring park, a great place to wind down."
+        "en": "Public transit and walking clusters blend perfectly in Ejea. Explore the dense historic center entirely on foot before hopping on a local bus out to the vast Aquagraria Museum. Afterwards, a short walk brings you to the neighboring park, a great place to wind down.",
+        "es": "El transporte público y los tramos a pie encajan perfectamente en Ejea. Recorre el denso centro histórico íntegramente a pie antes de tomar un autobús local hacia el amplio Museo Aquagraria. Después, un corto paseo te lleva al parque vecino, un buen lugar para relajarse."
       },
       "gastro_picks": {
         "de": [
@@ -1516,6 +1638,10 @@
         "en": [
           "Check bus schedules to the museum in advance, as midday service can be sparse.",
           "A day pass might not be worth it if you are only taking one transit ride."
+        ],
+        "es": [
+          "Consulta los horarios de autobús al museo con antelación, ya que el servicio al mediodía puede ser escaso.",
+          "Un abono diario puede no compensar si solo haces un viaje en transporte."
         ]
       },
       "variants": {
@@ -1524,7 +1650,8 @@
             "de": "Mit dem Bus durch Ejea zu fahren, hält uns bei Regen trocken. Wir starten im Cinto und nutzen den Bus für den Weg zum Haus der fünf Villen. Mittags flüchten wir in die Kirche San Salvador, bevor uns der Bus direkt zum Museum Aquagraria bringt – dem perfekten Regentagesziel. Der Parque del Gancho ist unser letzter Stopp, wo wir die Aussicht kurz genießen, bevor wir den nächsten Bus zurück ins warme Stadtzentrum nehmen.",
             "hu": "Busszal közlekedve Ejeában szárazon maradhatunk az esőben. A Cinto-nál kezdünk, és busszal megyünk az Öt Villa házához. Délben a San Salvador templomba menekülünk, majd a busz egyenesen az Aquagraria múzeumhoz visz – ez a tökéletes esős napi célpont. A Gancho park az utolsó állomásunk, ahol röviden élvezzük a kilátást, mielőtt a következő busszal visszatérnénk a meleg városközpontba.",
             "ro": "Mersul cu autobuzul prin Ejea ne menține uscați pe ploaie. Începem în Cinto și folosim autobuzul spre Casa celor cinci vile. La prânz ne adăpostim în biserica San Salvador, înainte ca autobuzul să ne ducă direct la Muzeul Aquagraria – destinația perfectă pentru o zi ploioasă. Parque del Gancho este ultima oprire, unde ne bucurăm scurt de vedere înainte de a lua următorul autobuz spre centrul cald.",
-            "en": "Taking the bus through Ejea keeps us dry during the rain. We start in Cinto and use the bus to reach the House of the Five Villas. At noon, we duck into San Salvador church before the bus takes us directly to the Aquagraria Museum – the perfect rainy day destination. Gancho Park is our final stop, where we briefly enjoy the view before taking the next bus back to the warm city center."
+            "en": "Taking the bus through Ejea keeps us dry during the rain. We start in Cinto and use the bus to reach the House of the Five Villas. At noon, we duck into San Salvador church before the bus takes us directly to the Aquagraria Museum – the perfect rainy day destination. Gancho Park is our final stop, where we briefly enjoy the view before taking the next bus back to the warm city center.",
+            "es": "Ir en autobús por Ejea nos mantiene secos bajo la lluvia. Empezamos en Cinto y usamos el bus para llegar a la Casa de las Cinco Villas. Al mediodía, nos refugiamos en la iglesia de San Salvador antes de que el autobús nos lleve directamente al Museo Aquagraria, el destino perfecto para un día lluvioso. El Parque del Gancho es nuestra última parada, donde disfrutamos brevemente de las vistas antes de tomar el siguiente bus de regreso al cálido centro de la ciudad."
           },
           "stops": [
             {
@@ -1533,7 +1660,8 @@
                 "de": "Warten Sie in einem Hauseingang auf den Bus.",
                 "hu": "Várjon a buszra egy kapualjban.",
                 "ro": "Așteptați autobuzul într-o intrare de clădire.",
-                "en": "Wait for the bus in a doorway."
+                "en": "Wait for the bus in a doorway.",
+                "es": "Espera el autobús en un portal."
               }
             },
             {
@@ -1542,7 +1670,8 @@
                 "de": "Die Bushaltestelle ist nur wenige Schritte entfernt.",
                 "hu": "A buszmegálló csak pár lépésre van.",
                 "ro": "Stația de autobuz este la doar câțiva pași.",
-                "en": "The bus stop is only a few steps away."
+                "en": "The bus stop is only a few steps away.",
+                "es": "La parada de autobús está a solo unos pasos."
               }
             },
             {
@@ -1551,7 +1680,8 @@
                 "de": "Nutzen Sie die Kirchenzeit, um den Busplan zu prüfen.",
                 "hu": "Használja a templomi időt a buszmenetrend ellenőrzésére.",
                 "ro": "Folosiți timpul în biserică pentru a verifica programul busului.",
-                "en": "Use the church time to check the bus schedule."
+                "en": "Use the church time to check the bus schedule.",
+                "es": "Aprovecha el tiempo en la iglesia para consultar el horario del bus."
               }
             },
             {
@@ -1560,7 +1690,8 @@
                 "de": "Direkte Busanbindung, fast kein Weg im Regen nötig.",
                 "hu": "Közvetlen buszkapcsolat, alig kell az esőben gyalogolni.",
                 "ro": "Conexiune directă, aproape că nu e nevoie de mers prin ploaie.",
-                "en": "Direct bus connection, almost no walking in the rain needed."
+                "en": "Direct bus connection, almost no walking in the rain needed.",
+                "es": "Conexión directa en autobús, casi sin caminar bajo la lluvia."
               }
             },
             {
@@ -1569,7 +1700,8 @@
                 "de": "Unterstände im Park bieten Schutz beim Warten.",
                 "hu": "A parki esőbeállók védelmet nyújtanak várakozás közben.",
                 "ro": "Adăposturile din parc oferă protecție la așteptare.",
-                "en": "Shelters in the park provide cover while waiting."
+                "en": "Shelters in the park provide cover while waiting.",
+                "es": "En el parque hay refugios donde resguardarse mientras se espera."
               }
             }
           ],
@@ -1601,6 +1733,13 @@
               "Have exact change ready for the ticket.",
               "A small umbrella fits well in your bag on the bus.",
               "The stops near Aquagraria are well-marked."
+            ],
+            "es": [
+              "Los autobuses en Ejea son una alternativa seca a caminar.",
+              "Consulta los horarios en línea para minimizar la espera bajo la lluvia.",
+              "Ten el importe exacto listo para el billete.",
+              "Un paraguas pequeño cabe bien en tu bolso en el autobús.",
+              "Las paradas cerca de Aquagraria están bien señalizadas."
             ]
           }
         },
@@ -1609,7 +1748,8 @@
             "de": "Im Winter nutzen wir den Bus in Ejea, um der Kälte des Cierzo zu entkommen. Der Morgen im Cinto ist belebend, und der Bus zum Haus der fünf Villen ist angenehm temperiert. Nach der Besichtigung von San Salvador wärmen wir uns auf der Fahrt zum Museum Aquagraria auf. Der Nachmittag im Park ist kurz und knackig, bevor wir uns auf den warmen Bus verlassen, der uns sicher zurück in die beleuchtete Stadt bringt.",
             "hu": "Télen az ejeai buszt használjuk, hogy elmeneküljünk a fagyos Cierzo elől. A reggel a Cintoban frissítő, az Öt Villához tartó busz pedig kellemesen meleg. San Salvador után felmelegedünk az Aquagraria múzeum felé menet. A délután a parkban rövid és csípős, de számíthatunk a meleg buszra, ami biztonságosan visszavisz minket a kivilágított városba.",
             "ro": "Iarna folosim autobuzul în Ejea pentru a scăpa de frigul vântului Cierzo. Dimineața în Cinto este revigorantă, iar autobuzul spre Casa celor cinci vile are o temperatură plăcută. După vizita la San Salvador ne încălzim pe drumul spre Muzeul Aquagraria. După-amiaza în parc este scurtă și tăioasă, înainte de a ne baza pe autobuzul cald care ne duce înapoi în orașul luminat.",
-            "en": "In winter, we use the bus in Ejea to escape the biting Cierzo wind. The morning in Cinto is invigorating, and the bus to the House of the Five Villas is pleasantly warm. After visiting San Salvador, we warm up on the way to the Aquagraria Museum. The afternoon in the park is short and crisp before we rely on the warm bus to take us safely back to the illuminated city."
+            "en": "In winter, we use the bus in Ejea to escape the biting Cierzo wind. The morning in Cinto is invigorating, and the bus to the House of the Five Villas is pleasantly warm. After visiting San Salvador, we warm up on the way to the Aquagraria Museum. The afternoon in the park is short and crisp before we rely on the warm bus to take us safely back to the illuminated city.",
+            "es": "En invierno usamos el autobús en Ejea para escapar del cortante viento del Cierzo. La mañana en Cinto es vigorizante y el autobús a la Casa de las Cinco Villas está agradablemente caliente. Tras visitar San Salvador, nos calentamos de camino al Museo Aquagraria. La tarde en el parque es corta y fresca antes de confiar en el cálido autobús que nos lleva de vuelta a la ciudad iluminada."
           },
           "stops": [
             {
@@ -1618,7 +1758,8 @@
                 "de": "Zügiges Gehen zur Haltestelle hält warm.",
                 "hu": "Gyors séta a megállóig segít melegen maradni.",
                 "ro": "Mersul vioi până la stație vă menține cald.",
-                "en": "Brisk walking to the stop keeps you warm."
+                "en": "Brisk walking to the stop keeps you warm.",
+                "es": "Caminar a paso vivo hasta la parada te mantiene caliente."
               }
             },
             {
@@ -1627,7 +1768,8 @@
                 "de": "Nutzen Sie die Wartehäuschen gegen den Wind.",
                 "hu": "Használja a buszvárókat a szél ellen.",
                 "ro": "Folosiți adăposturile din stații împotriva vântului.",
-                "en": "Use the bus shelters against the wind."
+                "en": "Use the bus shelters against the wind.",
+                "es": "Utiliza los refugios de las paradas contra el viento."
               }
             },
             {
@@ -1636,7 +1778,8 @@
                 "de": "Verlassen Sie die Kirche erst kurz vor Busabfahrt.",
                 "hu": "Csak röviddel a busz indulása előtt hagyja el a templomot.",
                 "ro": "Părăsiți biserica doar cu puțin timp înainte de plecarea busului.",
-                "en": "Leave the church only shortly before the bus departs."
+                "en": "Leave the church only shortly before the bus departs.",
+                "es": "Sal de la iglesia sólo poco antes de la salida del autobús."
               }
             },
             {
@@ -1645,7 +1788,8 @@
                 "de": "Ein gut beheizter Ort für die Mittagszeit.",
                 "hu": "Jól fűtött hely a déli órákra.",
                 "ro": "Un loc bine încălzit pentru orele amiezii.",
-                "en": "A well-heated place for the midday hours."
+                "en": "A well-heated place for the midday hours.",
+                "es": "Un lugar bien calefactado para las horas del mediodía."
               }
             },
             {
@@ -1654,7 +1798,8 @@
                 "de": "Letzter Bus zurück meist gegen 18:00 Uhr.",
                 "hu": "Az utolsó busz visszafelé általában 18:00 körül indul.",
                 "ro": "Ultimul autobuz înapoi este de obicei în jur de ora 18:00.",
-                "en": "The last bus back is usually around 6:00 PM."
+                "en": "The last bus back is usually around 6:00 PM.",
+                "es": "El último autobús de vuelta suele ser alrededor de las 18:00."
               }
             }
           ],
@@ -1686,6 +1831,13 @@
               "The Cierzo wind is felt most at the bus stops.",
               "Plan your return journey before 5:30 PM.",
               "Wear gloves but keep your ticket ready."
+            ],
+            "es": [
+              "Los autobuses están calentados de forma fiable en invierno.",
+              "Espera en tiendas cercanas a la parada si es posible.",
+              "El viento del Cierzo se nota más en las paradas de autobús.",
+              "Planifica tu regreso antes de las 17:30.",
+              "Lleva guantes pero mantiene el billete a mano."
             ]
           }
         }

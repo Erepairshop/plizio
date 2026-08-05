@@ -21,7 +21,8 @@
             "de": "Plaza de España",
             "hu": "Plaza de España",
             "ro": "Plaza de España",
-            "en": "Plaza de España"
+            "en": "Plaza de España",
+            "es": "Plaza de España"
           },
           "coords": [
             -5.924,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das Erwachen der Stadt.",
             "hu": "Kezdje itt a napot egy kávéval, és figyelje a város ébredését.",
             "ro": "Începeți-vă ziua aici cu o cafea, privind cum se trezește orașul.",
-            "en": "Start your day here with a coffee, watching the city wake up."
+            "en": "Start your day here with a coffee, watching the city wake up.",
+            "es": "Empieza el día aquí con un café, viendo despertar la ciudad."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Palacio de Camposagrado",
             "hu": "Camposagrado-palota",
             "ro": "Palatul Camposagrado",
-            "en": "Camposagrado Palace"
+            "en": "Camposagrado Palace",
+            "es": "Palacio de Camposagrado"
           },
           "coords": [
             -5.9245,
@@ -61,7 +64,8 @@
             "de": "Bewundern Sie die barocke Fassade, ein perfekter Fotospot.",
             "hu": "Csodálja meg a barokk homlokzatot, tökéletes fotóhelyszín.",
             "ro": "Admirați fațada barocă, un loc perfect pentru fotografii.",
-            "en": "Admire the baroque facade, a perfect photo spot."
+            "en": "Admire the baroque facade, a perfect photo spot.",
+            "es": "Admira la fachada barroca, un lugar perfecto para fotos."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Kirche San Nicolás de Bari",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica San Nicolás de Bari",
-            "en": "Church of San Nicolás de Bari"
+            "en": "Church of San Nicolás de Bari",
+            "es": "Iglesia de San Nicolás de Bari"
           },
           "coords": [
             -5.926,
@@ -85,7 +90,8 @@
             "de": "Suchen Sie die romanischen Ursprünge der Kirche aus dem 12. Jahrhundert.",
             "hu": "Keresse meg a 12. századi templom román stílusú eredetét.",
             "ro": "Căutați originile romanice ale bisericii din secolul al XII-lea.",
-            "en": "Look for the Romanesque origins of the church from the 12th century."
+            "en": "Look for the Romanesque origins of the church from the 12th century.",
+            "es": "Busca los orígenes románicos de la iglesia del siglo XII."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Calle Galiana",
             "hu": "Galiana utca",
             "ro": "Strada Galiana",
-            "en": "Galiana Street"
+            "en": "Galiana Street",
+            "es": "Calle Galiana"
           },
           "coords": [
             -5.927,
@@ -109,7 +116,8 @@
             "de": "Perfekt für einen Mittagsimbiss. Probieren Sie den lokalen Sidra in einer der Bars.",
             "hu": "Tökéletes egy ebéd előtti harapnivalóhoz. Kóstolja meg a helyi almabort az egyik bárban.",
             "ro": "Perfect pentru o gustare la prânz. Încercați cidrul local la unul dintre baruri.",
-            "en": "Perfect for a midday snack. Try the local sidra in one of the bars."
+            "en": "Perfect for a midday snack. Try the local sidra in one of the bars.",
+            "es": "Perfecto para un tentempié a mediodía. Prueba la sidra local en uno de los bares."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Museum der Stadtgeschichte von Avilés",
             "hu": "Avilés Várostörténeti Múzeum",
             "ro": "Muzeul de Istorie Urbană din Avilés",
-            "en": "Museum of Urban History of Avilés"
+            "en": "Museum of Urban History of Avilés",
+            "es": "Museo de la Historia Urbana de Avilés"
           },
           "coords": [
             -5.928,
@@ -133,7 +142,8 @@
             "de": "Interaktive Displays machen die reiche Geschichte der Stadt lebendig.",
             "hu": "Az interaktív kijelzők életre keltik a város gazdag történelmét.",
             "ro": "Ecranele interactive aduc la viață istoria bogată a orașului.",
-            "en": "Interactive displays bring the city's rich history to life."
+            "en": "Interactive displays bring the city's rich history to life.",
+            "es": "Las exposiciones interactivas hacen vivir la rica historia de la ciudad."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Ferrera Park",
             "hu": "Ferrera Park",
             "ro": "Parcul Ferrera",
-            "en": "Ferrera Park"
+            "en": "Ferrera Park",
+            "es": "Parque de Ferrera"
           },
           "coords": [
             -5.929,
@@ -157,7 +168,8 @@
             "de": "Ein schöner Ort, um nach dem Museumsbesuch zu entspannen. Finden Sie den französischen Garten.",
             "hu": "Egy gyönyörű hely a pihenésre a múzeum után. Keresse meg a francia kertet.",
             "ro": "Un loc frumos pentru a vă relaxa după muzeu. Găsiți grădina în stil francez.",
-            "en": "A beautiful spot to relax after the museum. Find the French-style garden."
+            "en": "A beautiful spot to relax after the museum. Find the French-style garden.",
+            "es": "Un lugar precioso para relajarse tras el museo. Busca el jardín de estilo francés."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Centro Niemeyer",
             "hu": "Niemeyer Központ",
             "ro": "Centrul Niemeyer",
-            "en": "Niemeyer Centre"
+            "en": "Niemeyer Centre",
+            "es": "Centro Niemeyer"
           },
           "coords": [
             -5.914,
@@ -181,7 +194,8 @@
             "de": "Der Spaziergang über die Mündung ist Teil des Erlebnisses. Der Kontrast zur Altstadt ist erstaunlich.",
             "hu": "A torkolaton átívelő séta része az élménynek. A kontraszt az óvárossal lenyűgöző.",
             "ro": "Plimbarea peste estuar face parte din experiență. Contrastul cu orașul vechi este uimitor.",
-            "en": "The walk across the estuary is part of the experience. The contrast with the old town is amazing."
+            "en": "The walk across the estuary is part of the experience. The contrast with the old town is amazing.",
+            "es": "El paseo por la ría forma parte de la experiencia. El contraste con el casco antiguo es asombroso."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Ihr morgendlicher Spaziergang führt Sie durch das Herz des historischen Avilés, beginnend am belebten Plaza de España. Sie werden barocke Paläste und alte Kirchen erkunden und die mittelalterliche Atmosphäre der Stadt aufsaugen. Am Mittag schlendern Sie durch die berühmte Calle Galiana mit ihren Arkaden, perfekt um die lokale Küche zu probieren. Am Nachmittag tauchen Sie im Museum in die Geschichte ein, bevor Sie im ruhigen Ferrera-Park entspannen. Der Tag endet mit einem Spaziergang zum hochmodernen Centro Niemeyer, einem Symbol für das neue Avilés, das einen starken Kontrast zur Altstadt bildet.",
         "hu": "A reggeli séta Avilés történelmi szívén vezet keresztül, a nyüzsgő Plaza de Españáról indulva. Felfedezi a barokk palotákat és ősi templomokat, magába szívva a város középkori hangulatát. Délben végigsétál a híres, árkádos Calle Galianán, amely tökéletes a helyi konyha megkóstolására. Délután elmerül a történelemben a múzeumban, mielőtt a békés Ferrera Parkban pihenne. A napot egy sétával zárja a ultramodern Niemeyer Központhoz, az új Avilés szimbólumához, amely éles kontrasztot alkot az óvárossal.",
         "ro": "Plimbarea de dimineață vă poartă prin inima istorică a orașului Avilés, pornind din animata Plaza de España. Veți explora palate baroce și biserici vechi, absorbind atmosfera medievală a orașului. La prânz, vă veți plimba pe celebra stradă Galiana, cu arcadele sale, perfectă pentru a gusta bucătăria locală. După-amiaza este dedicată scufundării în istorie la muzeu, înainte de a vă relaxa în liniștitul Parc Ferrera. Ziua se încheie cu o plimbare până la ultramodernul Centru Niemeyer, un simbol al noului Avilés, care contrastează puternic cu orașul vechi.",
-        "en": "Your morning walk takes you through the heart of historic Avilés, starting at the bustling Plaza de España. You'll explore baroque palaces and ancient churches, soaking up the city's medieval atmosphere. At midday, you'll stroll down the famous arcaded Calle Galiana, perfect for sampling local cuisine. The afternoon is for diving into history at the museum before relaxing in the peaceful Ferrera Park. The day concludes with a walk to the ultramodern Niemeyer Centre, a symbol of the new Avilés, contrasting sharply with the old town."
+        "en": "Your morning walk takes you through the heart of historic Avilés, starting at the bustling Plaza de España. You'll explore baroque palaces and ancient churches, soaking up the city's medieval atmosphere. At midday, you'll stroll down the famous arcaded Calle Galiana, perfect for sampling local cuisine. The afternoon is for diving into history at the museum before relaxing in the peaceful Ferrera Park. The day concludes with a walk to the ultramodern Niemeyer Centre, a symbol of the new Avilés, contrasting sharply with the old town.",
+        "es": "Tu paseo matutino te lleva por el corazón del histórico Avilés, empezando en la animada Plaza de España. Recorrerás palacios barrocos e iglesias antiguas, empapándote de la atmósfera medieval. A mediodía pasearás por la famosa y emblemática Calle Galiana, perfecta para probar la gastronomía local. La tarde es para sumergirte en la historia en el museo y después relajarte en el tranquilo Parque de Ferrera. El día concluye con una caminata hasta el ultramoderno Centro Niemeyer, símbolo del nuevo Avilés que contrasta fuertemente con el casco antiguo."
       },
       "gastro_picks": {
         "de": [
@@ -417,6 +432,12 @@
           "The sidrerías can get very busy at lunchtime, so be early.",
           "The walk to the Niemeyer Centre is most pleasant at low tide.",
           "Many shops observe a siesta, so plan your shopping for the morning or late afternoon."
+        ],
+        "es": [
+          "Lleva calzado cómodo, los empedrados del casco antiguo pueden ser irregulares.",
+          "Las sidrerías se llenan mucho a la hora de comer, ve temprano.",
+          "El paseo al Centro Niemeyer es más agradable con la marea baja.",
+          "Muchas tiendas hacen siesta; planifica las compras por la mañana o al final de la tarde."
         ]
       },
       "variants": {
@@ -425,7 +446,8 @@
             "de": "Avilés ist dank seiner weitläufigen Arkaden ideal für Regentage. Wir beginnen auf der Plaza de España und nutzen die Soportales der Galiana-Straße. Mittags bietet das Museum für Stadtgeschichte Schutz. Den Nachmittag verbringen wir im beeindruckenden Niemeyer-Zentrum, dessen moderne Architektur auch bei grauem Himmel glänzt. Den Abend lassen wir unter den schützenden Bögen der Altstadt ausklingen.",
             "hu": "Avilés az árkádok városa, így esőben is kiválóan járható. A Plaza de España után a Galiana utca fedett folyosói alatt sétálunk tovább. A délutánt a Várostörténeti Múzeumban és a futurisztikus Niemeyer Központ belső tereiben töltjük, ahol az eső kopogása csak fokozza a modern hangulatot. Az estét egy hangulatos, fedett teraszú tavernában zárjuk az óváros szívében.",
             "ro": "Avilés este ideal pentru zilele ploioase datorită arcadelor sale extinse. Începem în Plaza de España și folosim „soportales” de pe strada Galiana pentru a rămâne uscați. Prânzul și după-amiaza sunt dedicate Muzeului de Istorie și Centrului Niemeyer, unde designul modern oferă un refugiu perfect. Seara ne relaxăm sub arcadele vechi, savurând o cidră locală fără a ne uda.",
-            "en": "Avilés is perfect for rainy days thanks to its extensive arcades. We start at Plaza de España and navigate through the 'soportales' of Galiana Street. Noon is spent in the Museum of Urban History, followed by the futuristic Niemeyer Centre. The modern architecture looks striking against the rain, and the old town's covered walkways ensure a pleasant evening walk back to the center."
+            "en": "Avilés is perfect for rainy days thanks to its extensive arcades. We start at Plaza de España and navigate through the 'soportales' of Galiana Street. Noon is spent in the Museum of Urban History, followed by the futuristic Niemeyer Centre. The modern architecture looks striking against the rain, and the old town's covered walkways ensure a pleasant evening walk back to the center.",
+            "es": "Avilés es perfecto para días de lluvia gracias a sus extensos soportales. Empezamos en la Plaza de España y recorremos los soportales de la Calle Galiana. El mediodía se pasa en el Museo de la Historia Urbana, seguido por el futurista Centro Niemeyer. La arquitectura moderna destaca bajo la lluvia y las pasarelas cubiertas del casco antiguo aseguran un agradable paseo de vuelta al centro por la tarde."
           },
           "stops": [
             {
@@ -434,7 +456,8 @@
                 "de": "Suchen Sie Schutz unter den Arkaden des Rathauses.",
                 "hu": "Használja a városháza alatti árkádokat menedékként.",
                 "ro": "Adăpostiți-vă sub arcadele primăriei.",
-                "en": "Take cover under the City Hall arcades."
+                "en": "Take cover under the City Hall arcades.",
+                "es": "Refúgiate bajo los soportales del Ayuntamiento."
               }
             },
             {
@@ -443,7 +466,8 @@
                 "de": "Bewundern Sie die Barockfassade von der gegenüberliegenden Überdachung.",
                 "hu": "Csodálja meg a barokk homlokzatot a szemközti fedett részről.",
                 "ro": "Admirați fațada barocă de sub acoperișul de vizavi.",
-                "en": "Admire the Baroque facade from the covered area opposite."
+                "en": "Admire the Baroque facade from the covered area opposite.",
+                "es": "Admira la fachada barroca desde la zona cubierta frente a ella."
               }
             },
             {
@@ -452,7 +476,8 @@
                 "de": "Ein ruhiger, trockener Ort für eine kurze Besichtigung.",
                 "hu": "Csendes, száraz hely egy rövid látogatáshoz.",
                 "ro": "Un loc liniștit și uscat pentru o vizită scurtă.",
-                "en": "A quiet, dry spot for a short visit."
+                "en": "A quiet, dry spot for a short visit.",
+                "es": "Un lugar tranquilo y seco para una visita breve."
               }
             },
             {
@@ -461,7 +486,8 @@
                 "de": "Die beste Straße bei Regen; die Arkaden ziehen sich fast über die gesamte Länge.",
                 "hu": "A legjobb utca esőben; az árkádok szinte végigkísérik a sétát.",
                 "ro": "Cea mai bună stradă pe ploaie; arcadele acoperă aproape toată lungimea.",
-                "en": "The best street for rain; arcades run almost its entire length."
+                "en": "The best street for rain; arcades run almost its entire length.",
+                "es": "La mejor calle para la lluvia; los soportales la cubren casi en su totalidad."
               }
             },
             {
@@ -470,7 +496,8 @@
                 "de": "Nutzen Sie die Zeit für die interaktiven Ausstellungen im Trockenen.",
                 "hu": "Használja ki az időt az interaktív kiállításokra a szárazban.",
                 "ro": "Profită de timp pentru expozițiile interactive la adăpost.",
-                "en": "Take advantage of the time for interactive exhibits indoors."
+                "en": "Take advantage of the time for interactive exhibits indoors.",
+                "es": "Aprovecha el tiempo para las exposiciones interactivas bajo techo."
               }
             },
             {
@@ -479,7 +506,8 @@
                 "de": "Bleiben Sie auf den befestigten Wegen, um Schlamm zu vermeiden.",
                 "hu": "Maradjon a burkolt utakon, hogy elkerülje a sarat.",
                 "ro": "Rămâneți pe potecile pavate pentru a evita noroiul.",
-                "en": "Stay on the paved paths to avoid mud."
+                "en": "Stay on the paved paths to avoid mud.",
+                "es": "Mantente en los caminos pavimentados para evitar el barro."
               }
             },
             {
@@ -488,7 +516,8 @@
                 "de": "Besuchen Sie die Ausstellungen in der Kuppel oder den Turm.",
                 "hu": "Látogasson el a dómban lévő kiállításokra vagy a toronyba.",
                 "ro": "Vizitați expozițiile din cupolă sau turn.",
-                "en": "Visit the exhibitions in the dome or the tower."
+                "en": "Visit the exhibitions in the dome or the tower.",
+                "es": "Visita las exposiciones en la cúpula o en la torre."
               }
             }
           ],
@@ -520,6 +549,13 @@
               "The Niemeyer Centre offers large indoor exhibition spaces.",
               "Local cider houses (sidrerías) are especially cozy during a downpour.",
               "A small umbrella is usually enough as you spend much time under cover."
+            ],
+            "es": [
+              "Avilés tiene uno de los sistemas de soportales más largos de España, ideal para pasear.",
+              "Las calles Galiana y Rivero están casi totalmente cubiertas por arcos de piedra.",
+              "El Centro Niemeyer ofrece grandes espacios de exposición cubiertos.",
+              "Las sidrerías son especialmente acogedoras durante un chaparrón.",
+              "Un paraguas pequeño suele ser suficiente, pasarás mucho tiempo bajo cubierta."
             ]
           }
         },
@@ -528,7 +564,8 @@
             "de": "Der Winter in Avilés ist mild, aber oft windig vom Meer her. Ein morgendlicher Spaziergang durch die Altstadt belebt die Geister. Mittags wärmen wir uns in den Cafés der Galiana-Straße auf. Die Parkanlagen wirken im Winterlicht besonders weitläufig. Das Niemeyer-Zentrum bietet zum Sonnenuntergang, der hier früh eintritt, eine spektakuläre Kulisse vor dem dunklen Wasser der Ria.",
             "hu": "A tél Avilésben enyhe, de az óceán felől érkező szél hűvös lehet. A reggeli óvárosi séta után a Galiana utca kávézóiban melegszünk fel. A Ferrera park kopár fái között különleges fények játszanak napközben. Mivel korán sötétedik, a délutánt a Niemeyer Központnál töltjük, ahol az épületek kivilágítása lenyűgöző látványt nyújt a téli alkonyatban.",
             "ro": "Iarna în Avilés este blândă, dar adesea vântoasă dinspre mare. O plimbare de dimineață prin orașul vechi este revigorantă. La prânz, ne încălzim în cafenelele de pe strada Galiana. Parcurile au un farmec aparte în lumina rece de iarnă. Centrul Niemeyer oferă un apus spectaculos, reflectat în estuar, înainte ca seara să se instaleze devreme.",
-            "en": "Winter in Avilés is mild yet brisk due to the Atlantic breeze. A morning stroll through the historic center is refreshing, followed by a warm coffee on Galiana Street. The parks feel serene in the winter light. As the sun sets early, the Niemeyer Centre becomes the star, with its white silhouettes glowing against the twilight sky and the dark estuary waters."
+            "en": "Winter in Avilés is mild yet brisk due to the Atlantic breeze. A morning stroll through the historic center is refreshing, followed by a warm coffee on Galiana Street. The parks feel serene in the winter light. As the sun sets early, the Niemeyer Centre becomes the star, with its white silhouettes glowing against the twilight sky and the dark estuary waters.",
+            "es": "El invierno en Avilés es templado pero fresco por la brisa atlántica. Un paseo matutino por el centro histórico es vigorizante, seguido de un café caliente en la Calle Galiana. Los parques se sienten serenos con la luz invernal. Al ponerse el sol temprano, el Centro Niemeyer cobra protagonismo, con sus siluetas blancas iluminadas contra el cielo crepuscular y las oscuras aguas de la ría."
           },
           "stops": [
             {
@@ -537,7 +574,8 @@
                 "de": "Die Wintersonne beleuchtet die bunten Fassaden am Vormittag.",
                 "hu": "A téli napsütés délelőtt szépen megvilágítja a színes homlokzatokat.",
                 "ro": "Soarele de iarnă luminează frumos fațadele colorate dimineața.",
-                "en": "The winter sun lights up the colorful facades in the morning."
+                "en": "The winter sun lights up the colorful facades in the morning.",
+                "es": "El sol invernal ilumina las fachadas coloridas por la mañana."
               }
             },
             {
@@ -546,7 +584,8 @@
                 "de": "Kalte Steinmauern wirken im klaren Winterlicht sehr imposant.",
                 "hu": "A hideg kőfalak lenyűgözőek a tiszta téli fényben.",
                 "ro": "Zidurile reci de piatră par impunătoare în lumina clară de iarnă.",
-                "en": "Cold stone walls look imposing in the clear winter light."
+                "en": "Cold stone walls look imposing in the clear winter light.",
+                "es": "Los fríos muros de piedra se ven imponentes con la luz clara del invierno."
               }
             },
             {
@@ -555,7 +594,8 @@
                 "de": "Drinnen ist es oft kühler als draußen; behalten Sie die Jacke an.",
                 "hu": "Odabent gyakran hűvösebb van, mint kint; tartsa magán a kabátot.",
                 "ro": "În interior este adesea mai răcoare decât afară; păstrați haina pe dvs.",
-                "en": "It's often cooler inside than out; keep your coat on."
+                "en": "It's often cooler inside than out; keep your coat on.",
+                "es": "A menudo hace más frío dentro que fuera; mantén el abrigo puesto."
               }
             },
             {
@@ -564,7 +604,8 @@
                 "de": "Kehren Sie in eines der beheizten Cafés unter den Arkaden ein.",
                 "hu": "Térjen be egy fűtött kávézóba az árkádok alatt.",
                 "ro": "Opriți-vă la o cafenea încălzită sub arcade.",
-                "en": "Stop at one of the heated cafes under the arcades."
+                "en": "Stop at one of the heated cafes under the arcades.",
+                "es": "Para en una de las cafeterías calefactadas bajo los soportales."
               }
             },
             {
@@ -573,7 +614,8 @@
                 "de": "Ein warmer Zufluchtsort für eine ausführliche Besichtigung.",
                 "hu": "Meleg menedék egy alaposabb látogatáshoz.",
                 "ro": "Un refugiu cald pentru o vizită detaliată.",
-                "en": "A warm refuge for a detailed visit."
+                "en": "A warm refuge for a detailed visit.",
+                "es": "Un refugio cálido para una visita detallada."
               }
             },
             {
@@ -582,7 +624,8 @@
                 "de": "Genießen Sie die weite Sicht durch die laublosen Bäume.",
                 "hu": "Élvezze a kilátást a lomb nélküli fák között.",
                 "ro": "Bucurați-vă de vizibilitatea sporită prin copacii fără frunze.",
-                "en": "Enjoy the clear views through the leafless trees."
+                "en": "Enjoy the clear views through the leafless trees.",
+                "es": "Disfruta de las vistas despejadas entre los árboles sin hojas."
               }
             },
             {
@@ -591,7 +634,8 @@
                 "de": "Ziehen Sie sich warm an für den Wind an der Flussmündung.",
                 "hu": "Öltözzön rétegesen a torkolatnál fújó szél miatt.",
                 "ro": "Îmbrăcați-vă bine pentru vântul de la estuar.",
-                "en": "Dress warmly for the wind at the estuary."
+                "en": "Dress warmly for the wind at the estuary.",
+                "es": "Abrígate para el viento en la ría."
               }
             }
           ],
@@ -623,6 +667,13 @@
               "Look for cafes with 'calefacción' (heating) under the arcades for breaks.",
               "Ferrera Park is much quieter in winter and very peaceful for a walk.",
               "Layered clothing is key for moving between heated interiors and the sea breeze."
+            ],
+            "es": [
+              "Las temperaturas rara vez bajan de 5°C, pero la alta humedad añade sensación de frío.",
+              "El atardecer en diciembre es temprano, sobre las 17:45.",
+              "Busca cafeterías con 'calefacción' bajo los soportales para hacer pausas.",
+              "El Parque de Ferrera está mucho más tranquilo en invierno y es muy agradable para pasear.",
+              "Vestir en capas es clave para moverse entre interiores calentados y la brisa marina."
             ]
           }
         }
@@ -641,7 +692,8 @@
             "de": "Centro Niemeyer",
             "hu": "Niemeyer Központ",
             "ro": "Centrul Niemeyer",
-            "en": "Niemeyer Centre"
+            "en": "Niemeyer Centre",
+            "es": "Centro Niemeyer"
           },
           "coords": [
             -5.914,
@@ -657,7 +709,8 @@
             "de": "Beginnen Sie hier, um die Morgen-Sonne auf den weißen Kurven zu erleben.",
             "hu": "Kezdje itt, hogy elkapja a reggeli napfényt a fehér íveken.",
             "ro": "Începeți de aici pentru a prinde soarele de dimineață pe curbele albe.",
-            "en": "Start here to catch the morning sun on the white curves."
+            "en": "Start here to catch the morning sun on the white curves.",
+            "es": "Comienza aquí para captar el sol matutino sobre las curvas blancas."
           }
         },
         {
@@ -665,7 +718,8 @@
             "de": "Plaza de España",
             "hu": "Plaza de España",
             "ro": "Plaza de España",
-            "en": "Plaza de España"
+            "en": "Plaza de España",
+            "es": "Plaza de España"
           },
           "coords": [
             -5.924,
@@ -681,7 +735,8 @@
             "de": "Sperren Sie Ihr Fahrrad ab und genießen Sie einen Kaffee im Herzen der Altstadt.",
             "hu": "Zárja le a biciklit, és igyon meg egy kávét az óváros szívében.",
             "ro": "Încuiați-vă bicicleta și savurați o cafea în inima orașului vechi.",
-            "en": "Lock up your bike and have a coffee in the heart of the old town."
+            "en": "Lock up your bike and have a coffee in the heart of the old town.",
+            "es": "Aparca tu bici y toma un café en el corazón del casco antiguo."
           }
         },
         {
@@ -689,7 +744,8 @@
             "de": "Palacio de Camposagrado",
             "hu": "Camposagrado-palota",
             "ro": "Palatul Camposagrado",
-            "en": "Camposagrado Palace"
+            "en": "Camposagrado Palace",
+            "es": "Palacio de Camposagrado"
           },
           "coords": [
             -5.9245,
@@ -705,7 +761,8 @@
             "de": "Nur einen kurzen Spaziergang vom Platz entfernt, ein barockes Meisterwerk.",
             "hu": "Csak egy rövid séta a térről, egy barokk mestermű.",
             "ro": "La o scurtă plimbare de piață, o capodoperă barocă.",
-            "en": "Just a short walk from the square, a baroque masterpiece."
+            "en": "Just a short walk from the square, a baroque masterpiece.",
+            "es": "A poca distancia de la plaza, una obra maestra barroca."
           }
         },
         {
@@ -713,7 +770,8 @@
             "de": "Calle Galiana",
             "hu": "Galiana utca",
             "ro": "Strada Galiana",
-            "en": "Galiana Street"
+            "en": "Galiana Street",
+            "es": "Calle Galiana"
           },
           "coords": [
             -5.927,
@@ -729,7 +787,8 @@
             "de": "Parken Sie Ihr Rad und genießen Sie Tapas zum Mittagessen unter den Arkaden.",
             "hu": "Parkolja le a biciklit, és ebédeljen tapast az árkádok alatt.",
             "ro": "Parcați-vă bicicleta și bucurați-vă de tapas pentru prânz sub arcade.",
-            "en": "Park your bike and enjoy some tapas for lunch under the arcades."
+            "en": "Park your bike and enjoy some tapas for lunch under the arcades.",
+            "es": "Aparca la bici y disfruta de unas tapas para comer bajo los soportales."
           }
         },
         {
@@ -737,7 +796,8 @@
             "de": "Teatro Palacio Valdés",
             "hu": "Palacio Valdés Színház",
             "ro": "Teatrul Palacio Valdés",
-            "en": "Palacio Valdés Theatre"
+            "en": "Palacio Valdés Theatre",
+            "es": "Teatro Palacio Valdés"
           },
           "coords": [
             -5.923,
@@ -753,7 +813,8 @@
             "de": "Auch wenn Sie keine Vorstellung besuchen, ist die Architektur atemberaubend.",
             "hu": "Még ha nem is megy előadásra, az építészet lenyűgöző.",
             "ro": "Chiar dacă nu prindeți un spectacol, arhitectura este uimitoare.",
-            "en": "Even if you don't catch a show, the architecture is stunning."
+            "en": "Even if you don't catch a show, the architecture is stunning.",
+            "es": "Aunque no veas una función, la arquitectura es impresionante."
           }
         },
         {
@@ -761,7 +822,8 @@
             "de": "Museum der Stadtgeschichte von Avilés",
             "hu": "Avilés Várostörténeti Múzeum",
             "ro": "Muzeul de Istorie Urbană din Avilés",
-            "en": "Museum of Urban History of Avilés"
+            "en": "Museum of Urban History of Avilés",
+            "es": "Museo de la Historia Urbana de Avilés"
           },
           "coords": [
             -5.928,
@@ -777,7 +839,8 @@
             "de": "Ein großartiger Ort, um der Mittagssonne zu entfliehen und etwas zu lernen.",
             "hu": "Remek hely a déli nap elől való elmenekülésre és tanulásra.",
             "ro": "Un loc minunat pentru a scăpa de soarele de la amiază și pentru a învăța ceva nou.",
-            "en": "A great place to escape the midday sun and learn something."
+            "en": "A great place to escape the midday sun and learn something.",
+            "es": "Un buen lugar para escapar del sol de mediodía y aprender algo."
           }
         },
         {
@@ -785,7 +848,8 @@
             "de": "Ferrera Park",
             "hu": "Ferrera Park",
             "ro": "Parcul Ferrera",
-            "en": "Ferrera Park"
+            "en": "Ferrera Park",
+            "es": "Parque de Ferrera"
           },
           "coords": [
             -5.929,
@@ -801,7 +865,8 @@
             "de": "Beenden Sie Ihre Radtour mit einer entspannten Fahrt durch diesen wunderschönen Park.",
             "hu": "Zárja a kerékpártúrát egy pihentető tekeréssel ebben a gyönyörű parkban.",
             "ro": "Încheiați turul pe bicicletă cu o plimbare relaxantă prin acest parc frumos.",
-            "en": "End your bike tour with a relaxing ride through this beautiful park."
+            "en": "End your bike tour with a relaxing ride through this beautiful park.",
+            "es": "Termina tu ruta en bici con un paseo relajante por este hermoso parque."
           }
         }
       ],
@@ -809,7 +874,8 @@
         "de": "Ihre Fahrradtour beginnt kühn am Centro Niemeyer und fängt die morgendliche Architektur ein. Dann überqueren Sie die Mündung, um in die Geschichte einzutauchen, mit einer Kaffeepause am Plaza de España und einem Besuch des barocken Palacio de Camposagrado. Zu Mittag genießen Sie Tapas in der Calle Galiana, dem Herzen des gesellschaftlichen Lebens von Avilés. Am Nachmittag radeln Sie am eleganten Teatro Palacio Valdés vorbei zum Museum, bevor Sie den Tag mit einer ruhigen Fahrt durch den grünen Ferrera-Park ausklingen lassen.",
         "hu": "A kerékpártúra merészen indul a Niemeyer Központnál, megörökítve a reggeli építészetet. Ezután átkel a torkolaton, hogy elmerüljön a történelemben, egy kávészünettel a Plaza de Españán és egy látogatással a barokk Camposagrado-palotában. Ebédre tapasozhat a Calle Galianán, Avilés társadalmi életének szívében. Délután elteker az elegáns Palacio Valdés Színház mellett a múzeum felé, mielőtt egy csendes tekeréssel zárná a napot a zöldellő Ferrera Parkban.",
         "ro": "Turul pe bicicletă începe îndrăzneț la Centrul Niemeyer, surprinzând arhitectura de dimineață. Apoi traversați estuarul pentru a vă scufunda în istorie, cu o pauză de cafea în Plaza de España și o vizită la barocul Palat Camposagrado. La prânz, vă bucurați de tapas pe Calle Galiana, inima vieții sociale din Avilés. După-amiaza, pedalați pe lângă elegantul Teatru Palacio Valdés spre muzeu, înainte de a încheia ziua cu o plimbare liniștită prin Parcul Ferrera.",
-        "en": "Your bike tour starts boldly at the Niemeyer Centre, capturing the morning architecture. You'll then cross the estuary to dive into history, with a coffee stop at Plaza de España and a visit to the baroque Camposagrado Palace. For lunch, enjoy tapas on Calle Galiana, the heart of Avilés's social life. In the afternoon, you'll cycle past the elegant Palacio Valdés Theatre to the museum, before ending the day with a peaceful ride through the verdant Ferrera Park."
+        "en": "Your bike tour starts boldly at the Niemeyer Centre, capturing the morning architecture. You'll then cross the estuary to dive into history, with a coffee stop at Plaza de España and a visit to the baroque Camposagrado Palace. For lunch, enjoy tapas on Calle Galiana, the heart of Avilés's social life. In the afternoon, you'll cycle past the elegant Palacio Valdés Theatre to the museum, before ending the day with a peaceful ride through the verdant Ferrera Park.",
+        "es": "Tu ruta en bici comienza con fuerza en el Centro Niemeyer, captando la arquitectura matinal. Luego cruzarás la ría para sumergirte en la historia, con una parada para café en la Plaza de España y una visita al barroco Palacio de Camposagrado. Para comer, disfruta de tapas en la Calle Galiana, el corazón de la vida social de Avilés. Por la tarde, pedalearás frente al elegante Teatro Palacio Valdés hasta el museo, antes de terminar el día con un tranquilo paseo por el frondoso Parque de Ferrera."
       },
       "gastro_picks": {
         "de": [
@@ -1037,6 +1103,12 @@
           "Avilés is relatively flat, but some streets in the old town are steep.",
           "Use the bike lanes along the estuary for a safe and scenic ride.",
           "Wear a helmet and be careful on the cobblestones."
+        ],
+        "es": [
+          "Alquila una bici cerca de la estación de autobuses si no tienes una.",
+          "Avilés es relativamente llano, aunque algunas calles del casco antiguo son empinadas.",
+          "Usa los carriles bici junto a la ría para un recorrido seguro y con buenas vistas.",
+          "Lleva casco y ten cuidado con los adoquines."
         ]
       },
       "variants": {
@@ -1045,7 +1117,8 @@
             "de": "Radfahren im Regen von Avilés erfordert Vorsicht auf dem Kopfsteinpflaster. Wir starten am Niemeyer-Zentrum, das viel Platz bietet. Über die Brücke geht es in die Altstadt, wo wir die breiten Arkaden der Galiana-Straße als Boxenstopp nutzen. Das Museum und das Theater Palacio Valdés sind gute Ziele für Pausen im Trockenen. Der Ferrera-Park bietet asphaltierte Wege, die auch bei Nässe fahrbar sind.",
             "hu": "A biciklizés esőben Avilés macskaköves utcáin óvatosságot igényel. A Niemeyer Központ tágas teréről indulunk, majd a hídon át az óvárosba tekerünk. A Galiana utca árkádjai alatt rövid pihenőt tarthatunk. A Palacio Valdés Színház és a múzeum kiváló megállók a szárazon. A Ferrera park aszfaltozott útjai esőben is jól járhatóak két keréken.",
             "ro": "Ciclismul pe ploaie în Avilés necesită atenție pe piatra cubică. Pornim de la Centrul Niemeyer, care are spațiu amplu. Trecem podul spre orașul vechi, unde folosim arcadele de pe strada Galiana pentru scurte opriri. Teatrul Palacio Valdés și muzeul sunt puncte bune de refugiu. Parcul Ferrera oferă alei asfaltate care sunt circulabile și pe umiditate.",
-            "en": "Cycling in rainy Avilés requires care on the cobblestones. We start at the spacious Niemeyer Centre before crossing into the old town. Galiana Street's arcades offer a perfect dry pit-stop. The Palacio Valdés Theatre and the Museum are great indoor targets. Ferrera Park's paved paths remain rideable even in the wet, though leaves can be slippery."
+            "en": "Cycling in rainy Avilés requires care on the cobblestones. We start at the spacious Niemeyer Centre before crossing into the old town. Galiana Street's arcades offer a perfect dry pit-stop. The Palacio Valdés Theatre and the Museum are great indoor targets. Ferrera Park's paved paths remain rideable even in the wet, though leaves can be slippery.",
+            "es": "Ciclismo en un Avilés lluvioso exige precaución con los adoquines. Empezamos en el amplio Centro Niemeyer antes de cruzar al casco antiguo. Los soportales de la Calle Galiana ofrecen una parada perfecta y seca. El Teatro Palacio Valdés y el Museo son excelentes objetivos bajo techo. Los caminos pavimentados del Parque de Ferrera siguen siendo transitables incluso en húmedo, aunque las hojas pueden resbalar."
           },
           "stops": [
             {
@@ -1054,7 +1127,8 @@
                 "de": "Vorsicht auf den glatten weißen Flächen des Platzes.",
                 "hu": "Vigyázzon a tér sima, fehér felületein, ha vizesek.",
                 "ro": "Atenție pe suprafețele albe și lucioase ale pieței.",
-                "en": "Be careful on the smooth white surfaces of the square."
+                "en": "Be careful on the smooth white surfaces of the square.",
+                "es": "Ten cuidado en las superficies lisas y blancas de la plaza."
               }
             },
             {
@@ -1063,7 +1137,8 @@
                 "de": "Fahren Sie langsam; das Pflaster kann rutschig sein.",
                 "hu": "Hajtson lassan; a burkolat csúszós lehet.",
                 "ro": "Mergeți încet; pavajul poate fi alunecos.",
-                "en": "Ride slowly; the pavement can be slippery."
+                "en": "Ride slowly; the pavement can be slippery.",
+                "es": "Monta despacio; el pavimento puede estar resbaladizo."
               }
             },
             {
@@ -1072,7 +1147,8 @@
                 "de": "Stellen Sie Ihr Rad kurz unter einer Überdachung ab.",
                 "hu": "Parkolja le a biciklit rövid időre egy fedett rész alá.",
                 "ro": "Parcați bicicleta scurt sub un acoperiș.",
-                "en": "Park your bike briefly under a covered area."
+                "en": "Park your bike briefly under a covered area.",
+                "es": "Aparca la bici brevemente bajo una zona cubierta."
               }
             },
             {
@@ -1081,7 +1157,8 @@
                 "de": "Schieben Sie das Rad eventuell unter den Arkaden.",
                 "hu": "Esetleg tolja a biciklit az árkádok alatt.",
                 "ro": "Eventual împingeți bicicleta pe sub arcade.",
-                "en": "Consider pushing your bike under the arcades."
+                "en": "Consider pushing your bike under the arcades.",
+                "es": "Valora empujar la bici bajo los soportales."
               }
             },
             {
@@ -1090,7 +1167,8 @@
                 "de": "Ein schöner Anblick, auch unter einem Regencape.",
                 "hu": "Szép látvány esőköpenyben is.",
                 "ro": "O vedere frumoasă chiar și sub pelerina de ploaie.",
-                "en": "A beautiful sight even under a rain poncho."
+                "en": "A beautiful sight even under a rain poncho.",
+                "es": "Una vista preciosa incluso bajo un impermeable."
               }
             },
             {
@@ -1099,7 +1177,8 @@
                 "de": "Fahrradständer befinden sich oft in der Nähe des Eingangs.",
                 "hu": "Kerékpártárolók gyakran találhatók a bejárat közelében.",
                 "ro": "Suporturile de biciclete sunt adesea lângă intrare.",
-                "en": "Bike racks are often found near the entrance."
+                "en": "Bike racks are often found near the entrance.",
+                "es": "Los aparcabicis suelen estar cerca de la entrada."
               }
             },
             {
@@ -1108,7 +1187,8 @@
                 "de": "Meiden Sie die Rasenflächen bei starkem Regen.",
                 "hu": "Erős esőben kerülje a füves területeket.",
                 "ro": "Evitați zonele cu iarbă pe ploaie puternică.",
-                "en": "Avoid the grassy areas during heavy rain."
+                "en": "Avoid the grassy areas during heavy rain.",
+                "es": "Evita las zonas de césped durante lluvias intensas."
               }
             }
           ],
@@ -1140,6 +1220,13 @@
               "Check your brakes before starting out in damp Asturias.",
               "Use the arcades for checking maps or taking short breaks.",
               "Watch out for puddles that might hide deep potholes."
+            ],
+            "es": [
+              "Evita tapas metálicas y adoquines lisos cuando estén mojados.",
+              "Un chubasquero ofrece mejor protección que un paraguas al ir en bici.",
+              "Revisa tus frenos antes de salir en la Asturias húmeda.",
+              "Usa los soportales para consultar mapas o hacer pequeñas pausas.",
+              "Cuidado con los charcos que pueden ocultar baches profundos."
             ]
           }
         },
@@ -1148,7 +1235,8 @@
             "de": "Frische Seeluft und freie Wege machen Avilés im Winter zum Radvergnügen. Vom Niemeyer-Zentrum aus genießen wir die weite Sicht. Die Fahrt durch die Altstadt ist weniger belebt, was das Navigieren erleichtert. In der Galiana-Straße lohnt sich ein Halt für einen heißen Kakao. Das klare Licht im Ferrera-Park ist ideal für Fotos, bevor die frühe Dämmerung den Tag beendet.",
             "hu": "A friss tengeri levegő és az üres utak télen is élvezetessé teszik a bringázást Avilésben. A Niemeyer Központtól indulva tiszta kilátás fogad minket. Az óvároson áttekerni ilyenkor könnyebb a kisebb tömeg miatt. A Galiana utcában érdemes megállni egy forró csokira. A Ferrera park tiszta téli fényei tökéletesek a fotózáshoz, mielőtt a korai sötétedés véget vetne a napnak.",
             "ro": "Aerul curat de mare și drumurile libere fac din Avilés o plăcere pentru ciclism iarna. De la Centrul Niemeyer ne bucurăm de vizibilitate maximă. Traseul prin orașul vechi este mai liber, facilitând navigarea. Pe strada Galiana merită o oprire pentru o ciocolată caldă. Lumina clară din Parcul Ferrera este ideală pentru poze înainte de înserarea timpurie.",
-            "en": "Fresh sea air and clear paths make winter cycling in Avilés a delight. Starting from the Niemeyer Centre, we enjoy wide-open views. The old town is less crowded, making navigation easier. A stop on Galiana Street for hot cocoa is a must. The crisp winter light in Ferrera Park is perfect for photos before the early sunset ends the day's ride."
+            "en": "Fresh sea air and clear paths make winter cycling in Avilés a delight. Starting from the Niemeyer Centre, we enjoy wide-open views. The old town is less crowded, making navigation easier. A stop on Galiana Street for hot cocoa is a must. The crisp winter light in Ferrera Park is perfect for photos before the early sunset ends the day's ride.",
+            "es": "El aire marino fresco y los caminos despejados hacen del ciclismo invernal en Avilés un placer. Partiendo del Centro Niemeyer disfrutamos de amplias vistas. El casco antiguo está menos concurrido, lo que facilita la circulación. Una parada en la Calle Galiana para un chocolate caliente es imprescindible. La luz invernal en el Parque de Ferrera es ideal para fotos antes de que la puesta de sol temprana ponga fin al recorrido."
           },
           "stops": [
             {
@@ -1157,7 +1245,8 @@
                 "de": "Tragen Sie Handschuhe gegen den kalten Wind am Fluss.",
                 "hu": "Viseljen kesztyűt a folyóparti hideg szél ellen.",
                 "ro": "Purtați mănuși împotriva vântului rece de pe râu.",
-                "en": "Wear gloves against the cold wind by the river."
+                "en": "Wear gloves against the cold wind by the river.",
+                "es": "Lleva guantes contra el frío y el viento junto al río."
               }
             },
             {
@@ -1166,7 +1255,8 @@
                 "de": "Ein belebter Punkt, auch im Winter das Herz der Stadt.",
                 "hu": "Élénk pont, télen is a város szíve.",
                 "ro": "Un punct animat, inima orașului chiar și iarna.",
-                "en": "A lively spot, the heart of the city even in winter."
+                "en": "A lively spot, the heart of the city even in winter.",
+                "es": "Un lugar animado, corazón de la ciudad incluso en invierno."
               }
             },
             {
@@ -1175,7 +1265,8 @@
                 "de": "Kurzer Halt für ein Foto im weichen Winterlicht.",
                 "hu": "Rövid megálló egy fotóra a lágy téli fényben.",
                 "ro": "Oprire scurtă pentru o poză în lumina blândă de iarnă.",
-                "en": "Short stop for a photo in the soft winter light."
+                "en": "Short stop for a photo in the soft winter light.",
+                "es": "Parada corta para una foto con la suave luz invernal."
               }
             },
             {
@@ -1184,7 +1275,8 @@
                 "de": "Fahren Sie vorsichtig zwischen den Fußgängern unter den Arkaden.",
                 "hu": "Hajtson óvatosan a gyalogosok között az árkádok alatt.",
                 "ro": "Mergeți cu atenție printre pietonii de sub arcade.",
-                "en": "Ride carefully among pedestrians under the arcades."
+                "en": "Ride carefully among pedestrians under the arcades.",
+                "es": "Circula con cuidado entre peatones bajo los soportales."
               }
             },
             {
@@ -1193,7 +1285,8 @@
                 "de": "Die Fassade leuchtet schön in der Wintersonne.",
                 "hu": "A homlokzat szépen ragyog a téli napsütésben.",
                 "ro": "Fațada strălucește frumos în soarele de iarnă.",
-                "en": "The facade glows beautifully in the winter sun."
+                "en": "The facade glows beautifully in the winter sun.",
+                "es": "La fachada reluce hermosamente con el sol invernal."
               }
             },
             {
@@ -1202,7 +1295,8 @@
                 "de": "Nutzen Sie den Besuch zum Aufwärmen.",
                 "hu": "Használja ki a látogatást a felmelegedésre.",
                 "ro": "Folosiți vizita pentru a vă încălzi.",
-                "en": "Use the visit to warm up."
+                "en": "Use the visit to warm up.",
+                "es": "Aprovecha la visita para entrar en calor."
               }
             },
             {
@@ -1211,7 +1305,8 @@
                 "de": "Die Wege sind im Winter oft trockener als im Herbst.",
                 "hu": "Az utak télen gyakran szárazabbak, mint ősszel.",
                 "ro": "Aleile sunt adesea mai uscate iarna decât toamna.",
-                "en": "Paths are often drier in winter than in autumn."
+                "en": "Paths are often drier in winter than in autumn.",
+                "es": "Los caminos suelen estar más secos en invierno que en otoño."
               }
             }
           ],
@@ -1243,6 +1338,13 @@
               "Watch out for frost on park paths early in the morning.",
               "The city is flat, making cycling less strenuous in the cold.",
               "Ensure your lights are working for the early winter dusk."
+            ],
+            "es": [
+              "Guantes cálidos son esenciales para rodar junto a la ría.",
+              "La mejor luz para fotografía es entre las 11:00 y las 15:00.",
+              "Cuidado con las heladas en los caminos del parque a primera hora.",
+              "La ciudad es llana, lo que hace el ciclismo menos exigente en el frío.",
+              "Asegúrate de que tus luces funcionen para el temprano crepúsculo invernal."
             ]
           }
         }
@@ -1261,7 +1363,8 @@
             "de": "Parken in der Nähe des Centro Niemeyer",
             "hu": "Parkolás a Niemeyer Központ közelében",
             "ro": "Parcare lângă Centrul Niemeyer",
-            "en": "Parking near Niemeyer Centre"
+            "en": "Parking near Niemeyer Centre",
+            "es": "Aparcamiento cerca del Centro Niemeyer"
           },
           "coords": [
             -5.913,
@@ -1277,7 +1380,8 @@
             "de": "Starten Sie auf dieser Seite der Mündung. Es gibt normalerweise genügend Parkplätze.",
             "hu": "Kezdjen a torkolat ezen oldalán. Általában van elég parkolóhely.",
             "ro": "Începeți de pe această parte a estuarului. De obicei, există suficientă parcare.",
-            "en": "Start on this side of the estuary. There is usually ample parking."
+            "en": "Start on this side of the estuary. There is usually ample parking.",
+            "es": "Comienza en este lado de la ría. Normalmente hay aparcamiento de sobra."
           }
         },
         {
@@ -1285,7 +1389,8 @@
             "de": "Centro Niemeyer",
             "hu": "Niemeyer Központ",
             "ro": "Centrul Niemeyer",
-            "en": "Niemeyer Centre"
+            "en": "Niemeyer Centre",
+            "es": "Centro Niemeyer"
           },
           "coords": [
             -5.914,
@@ -1301,7 +1406,8 @@
             "de": "Erkunden Sie die futuristische Architektur und den Aussichtsturm.",
             "hu": "Fedezze fel a futurisztikus építészetet és a kilátótornyot.",
             "ro": "Explorați arhitectura futuristă și turnul de observație.",
-            "en": "Explore the futuristic architecture and the observation tower."
+            "en": "Explore the futuristic architecture and the observation tower.",
+            "es": "Explora la arquitectura futurista y la torre mirador."
           }
         },
         {
@@ -1309,7 +1415,8 @@
             "de": "Parkhaus im Zentrum",
             "hu": "Parkolóház a központban",
             "ro": "Parcare în centru",
-            "en": "City Centre Parking"
+            "en": "City Centre Parking",
+            "es": "Aparcamiento en el centro"
           },
           "coords": [
             -5.928,
@@ -1325,7 +1432,8 @@
             "de": "Parken Sie hier für den Rest des Tages und erkunden Sie die Altstadt zu Fuß.",
             "hu": "Parkoljon itt a nap hátralévő részére, és fedezze fel az óvárost gyalog.",
             "ro": "Parcați aici pentru restul zilei și explorați orașul vechi pe jos.",
-            "en": "Park here for the rest of the day and explore the old town on foot."
+            "en": "Park here for the rest of the day and explore the old town on foot.",
+            "es": "Estaciona aquí el resto del día y explora el casco antiguo a pie."
           }
         },
         {
@@ -1333,7 +1441,8 @@
             "de": "Plaza de España & Calle Galiana",
             "hu": "Plaza de España és Galiana utca",
             "ro": "Plaza de España și Strada Galiana",
-            "en": "Plaza de España & Galiana Street"
+            "en": "Plaza de España & Galiana Street",
+            "es": "Plaza de España y Calle Galiana"
           },
           "coords": [
             -5.925,
@@ -1349,7 +1458,8 @@
             "de": "Nehmen Sie sich Zeit für einen Spaziergang, einen Kaffee und ein Mittagessen in diesem belebten Viertel.",
             "hu": "Szánjon időt egy sétára, egy kávéra és egy ebédre ezen a nyüzsgő területen.",
             "ro": "Luați-vă timp pentru o plimbare, o cafea și prânzul în această zonă plină de viață.",
-            "en": "Take your time for a stroll, a coffee, and lunch in this bustling area."
+            "en": "Take your time for a stroll, a coffee, and lunch in this bustling area.",
+            "es": "Tómate tu tiempo para pasear, tomar un café y almorzar en esta animada zona."
           }
         },
         {
@@ -1357,7 +1467,8 @@
             "de": "Kirche San Nicolás & Palacio de Camposagrado",
             "hu": "Szent Miklós-templom és Camposagrado-palota",
             "ro": "Biserica San Nicolás și Palatul Camposagrado",
-            "en": "San Nicolás Church & Camposagrado Palace"
+            "en": "San Nicolás Church & Camposagrado Palace",
+            "es": "Iglesia de San Nicolás y Palacio de Camposagrado"
           },
           "coords": [
             -5.9255,
@@ -1373,7 +1484,8 @@
             "de": "Diese beiden historischen Juwelen liegen nahe beieinander.",
             "hu": "Ez a két történelmi gyöngyszem közel van egymáshoz.",
             "ro": "Aceste două bijuterii istorice sunt situate aproape una de cealaltă.",
-            "en": "These two historical gems are located close to each other."
+            "en": "These two historical gems are located close to each other.",
+            "es": "Estas dos joyas históricas están muy cerca la una de la otra."
           }
         },
         {
@@ -1381,7 +1493,8 @@
             "de": "Ferrera Park",
             "hu": "Ferrera Park",
             "ro": "Parcul Ferrera",
-            "en": "Ferrera Park"
+            "en": "Ferrera Park",
+            "es": "Parque Ferrera"
           },
           "coords": [
             -5.929,
@@ -1397,7 +1510,8 @@
             "de": "Ein entspannender Abschluss des Tages. Machen Sie einen Spaziergang zurück zum Parkhaus durch den Park.",
             "hu": "A nap pihentető lezárása. Sétáljon vissza a parkolóházhoz a parkon keresztül.",
             "ro": "Un final relaxant al zilei. Faceți o plimbare înapoi la parcare prin parc.",
-            "en": "A relaxing end to the day. Take a stroll back to the car park through the park."
+            "en": "A relaxing end to the day. Take a stroll back to the car park through the park.",
+            "es": "Un final relajante para el día. Vuelve al aparcamiento paseando por el parque."
           }
         }
       ],
@@ -1405,7 +1519,8 @@
         "de": "Ihr Tag beginnt mit dem Auto am futuristischen Centro Niemeyer, wo Sie bequem parken und das moderne Wahrzeichen von Avilés erkunden können. Am Vormittag fahren Sie ins Herz der Stadt, parken Ihr Auto für den Rest des Tages und tauchen in die Vergangenheit ein. Sie verbringen den Mittag damit, die Plaza de España und die Calle Galiana zu Fuß zu erkunden, wo Sie zu Mittag essen. Am Nachmittag spazieren Sie zu den historischen Stätten, bevor Sie im weitläufigen Ferrera-Park Entspannung finden, einem grünen Paradies mitten in der Stadt.",
         "hu": "A napja autóval indul a futurisztikus Niemeyer Központnál, ahol kényelmesen leparkolhat, hogy felfedezze Avilés modern jelképét. Délelőtt a város szívébe hajt, leteszi az autót a nap hátralévő részére, és elmerül a múltban. A délt gyalogosan fedezi fel a Plaza de Españát és a Calle Galianát, ahol megebédel. Délután átsétál a történelmi helyszínekre, mielőtt kikapcsolódna a terjedelmes Ferrera Parkban, egy zöld oázisban a város közepén.",
         "ro": "Ziua dvs. începe cu mașina la futuristul Centru Niemeyer, unde parcați convenabil pentru a explora reperul modern al orașului Avilés. Înainte de prânz, conduceți în inima orașului, lăsați mașina pentru restul zilei și vă scufundați în trecut. Vă petreceți prânzul explorând pe jos Plaza de España și Calle Galiana, unde luați masa. După-amiaza, vă plimbați spre siturile istorice înainte de a găsi relaxare în vastul Parc Ferrera, un paradis verde în mijlocul orașului.",
-        "en": "Your day by car begins at the futuristic Niemeyer Centre, where you park conveniently to explore Avilés's modern landmark. Mid-morning, you drive into the heart of the city, park your car for the day, and immerse yourself in the past. You'll spend midday exploring Plaza de España and Calle Galiana on foot, where you'll have lunch. In the afternoon, you stroll to the historic sites before finding relaxation in the expansive Ferrera Park, a green haven in the middle of the city."
+        "en": "Your day by car begins at the futuristic Niemeyer Centre, where you park conveniently to explore Avilés's modern landmark. Mid-morning, you drive into the heart of the city, park your car for the day, and immerse yourself in the past. You'll spend midday exploring Plaza de España and Calle Galiana on foot, where you'll have lunch. In the afternoon, you stroll to the historic sites before finding relaxation in the expansive Ferrera Park, a green haven in the middle of the city.",
+        "es": "Tu día en coche comienza en el futurista Centro Niemeyer, donde aparcas cómodamente para explorar este icono moderno de Avilés. A media mañana, te diriges al corazón de la ciudad, aparcas para todo el día y te sumerges en el pasado. Pasarás la mitad del día explorando la Plaza de España y la Calle Galiana a pie, donde comerás. Por la tarde, pasearás hasta los sitios históricos y acabarás relajándote en el amplio Parque Ferrera, un oasis verde en el centro."
       },
       "gastro_picks": {
         "de": [
@@ -1633,6 +1748,12 @@
           "Access to the old town can be restricted for non-residents, pay attention to the signs.",
           "Plan your route in advance to avoid one-way streets.",
           "A car gives you the flexibility to visit nearby beaches like Salinas or picturesque villages like Cudillero."
+        ],
+        "es": [
+          "Los aparcamientos están bien señalizados. Úsalos para evitar buscar sitio en la calle.",
+          "El acceso al casco antiguo puede estar restringido para no residentes; atiende a la señalización.",
+          "Planifica la ruta con antelación para evitar calles de sentido único.",
+          "Un coche te da flexibilidad para visitar playas cercanas como Salinas o pueblos pintorescos como Cudillero."
         ]
       },
       "variants": {
@@ -1641,7 +1762,8 @@
             "de": "Mit dem Auto ist Avilés bei Regen bequem zu erkunden. Wir parken am Niemeyer-Zentrum und genießen die Aussicht aus dem Trockenen. Danach geht es zum Parkplatz im Zentrum, von wo aus wir die überdachten Straßen der Altstadt erreichen. Die kurzen Wege zwischen den historischen Gebäuden minimieren den Kontakt mit dem Regen. Den Tag beenden wir entspannt, ohne nass zu werden.",
             "hu": "Autóval kényelmesen felfedezhető Avilés esőben is. A Niemeyer Központnál parkolunk, és a szárazból élvezzük a kilátást. Ezután a központi parkoló felé vesszük az irányt, ahonnan könnyen elérjük az óváros fedett utcáit. A történelmi épületek közötti rövid távolságoknak köszönhetően alig ér minket az eső. A napot nyugodtan, ázás nélkül zárhatjuk.",
             "ro": "Cu mașina, Avilés este ușor de explorat chiar și pe ploaie. Parcăm la Centrul Niemeyer și admirăm vederea la adăpost. Apoi ne îndreptăm spre parcarea centrală, de unde ajungem rapid pe străzile acoperite ale orașului vechi. Distanțele scurte între clădirile istorice minimizează expunerea la ploaie. Încheiem ziua relaxați, fără a ne uda.",
-            "en": "Exploring Avilés by car is convenient during rain. We park near the Niemeyer Centre to enjoy the views from a dry spot. Then, moving to the city center parking, we access the covered streets of the old town easily. Short walks between historic landmarks minimize rain exposure, allowing for a comfortable visit. The day ends smoothly without getting soaked."
+            "en": "Exploring Avilés by car is convenient during rain. We park near the Niemeyer Centre to enjoy the views from a dry spot. Then, moving to the city center parking, we access the covered streets of the old town easily. Short walks between historic landmarks minimize rain exposure, allowing for a comfortable visit. The day ends smoothly without getting soaked.",
+            "es": "Explorar Avilés en coche es cómodo cuando llueve. Aparcamos cerca del Centro Niemeyer para disfrutar de las vistas desde un lugar seco. Luego, moviéndonos al aparcamiento del centro, accedemos fácilmente a las calles cubiertas del casco antiguo. Los cortos paseos entre monumentos históricos minimizan la exposición a la lluvia, permitiendo una visita cómoda. El día termina sin acabar empapados."
           },
           "stops": [
             {
@@ -1650,7 +1772,8 @@
                 "de": "Ein kurzer Sprint zum Eingang des Zentrums reicht aus.",
                 "hu": "Egy rövid sprint a központ bejáratáig elég.",
                 "ro": "Un sprint scurt până la intrarea în centru este suficient.",
-                "en": "A short sprint to the center's entrance is enough."
+                "en": "A short sprint to the center's entrance is enough.",
+                "es": "Un pequeño sprint hasta la entrada del centro es suficiente."
               }
             },
             {
@@ -1659,7 +1782,8 @@
                 "de": "Genießen Sie den Blick auf die Stadt vom verglasten Turm.",
                 "hu": "Élvezze a városra nyíló kilátást az üvegezett toronyból.",
                 "ro": "Bucurați-vă de vederea spre oraș din turnul vitrat.",
-                "en": "Enjoy the city view from the glass-walled tower."
+                "en": "Enjoy the city view from the glass-walled tower.",
+                "es": "Disfruta de la vista de la ciudad desde la torre acristalada."
               }
             },
             {
@@ -1668,7 +1792,8 @@
                 "de": "Suchen Sie ein Parkhaus, um trocken auszusteigen.",
                 "hu": "Keressen mélygarázst, hogy szárazon szállhasson ki.",
                 "ro": "Căutați o parcare subterană pentru a ieși la adăpost.",
-                "en": "Look for an underground car park to stay dry when exiting."
+                "en": "Look for an underground car park to stay dry when exiting.",
+                "es": "Busca un aparcamiento subterráneo para mantenerte seco al salir."
               }
             },
             {
@@ -1677,7 +1802,8 @@
                 "de": "Der Zugang zu den Arkaden ist nur wenige Schritte entfernt.",
                 "hu": "Az árkádok bejárata csak néhány lépésre van.",
                 "ro": "Accesul la arcade este la doar câțiva pași.",
-                "en": "Access to the arcades is only a few steps away."
+                "en": "Access to the arcades is only a few steps away.",
+                "es": "El acceso a los soportales está a pocos pasos."
               }
             },
             {
@@ -1686,7 +1812,8 @@
                 "de": "Parken Sie so nah wie möglich an der Plaza de Carlos Lobo.",
                 "hu": "Parkoljon a lehető legközelebb a Plaza de Carlos Lobóhoz.",
                 "ro": "Parcați cât mai aproape de Plaza de Carlos Lobo.",
-                "en": "Park as close as possible to Plaza de Carlos Lobo."
+                "en": "Park as close as possible to Plaza de Carlos Lobo.",
+                "es": "Aparca lo más cerca posible de la Plaza de Carlos Lobo."
               }
             },
             {
@@ -1695,7 +1822,8 @@
                 "de": "Bei starkem Regen ist die Fahrt entlang des Parks schöner als der Gang hinein.",
                 "hu": "Erős esőben a park melletti autózás szebb, mint a séta odabent.",
                 "ro": "Pe ploaie torențială, drumul pe lângă parc este mai plăcut decât plimbarea în interior.",
-                "en": "During heavy rain, driving alongside the park is nicer than walking inside."
+                "en": "During heavy rain, driving alongside the park is nicer than walking inside.",
+                "es": "Durante lluvia intensa, conducir junto al parque es más agradable que pasear por dentro."
               }
             }
           ],
@@ -1727,6 +1855,13 @@
               "Most center attractions are within very short walking distance of each other.",
               "Watch out for one-way streets in the narrow old town area.",
               "Parking at the Niemeyer Centre is usually straightforward."
+            ],
+            "es": [
+              "Utiliza el aparcamiento subterráneo de la Plaza de España para acceso directo.",
+              "La visibilidad puede empeorar rápidamente con la lluvia asturiana intensa.",
+              "La mayoría de las atracciones del centro están a muy poca distancia a pie unas de otras.",
+              "Cuidado con las calles de sentido único en la estrecha zona del casco antiguo.",
+              "Aparcar en el Centro Niemeyer suele ser sencillo."
             ]
           }
         },
@@ -1735,7 +1870,8 @@
             "de": "Wintertage in Avilés lassen sich ideal mit dem Auto kombinieren. Morgens starten wir am hell erleuchteten Niemeyer-Zentrum. Die Fahrt durch die Stadt bietet schöne Ausblicke auf die winterliche Architektur. Im Zentrum nutzen wir die Parkhäuser, um schnell in die gemütlichen Cafés zu gelangen. Die Parkanlagen bieten am Nachmittag eine ruhige Atmosphäre, bevor wir die Stadtlichter bei der Rückfahrt genießen.",
             "hu": "A téli napok Avilésben ideálisan kombinálhatók autós felfedezéssel. Reggel a fényárban úszó Niemeyer Központnál kezdünk. A városon átvezető út szép kilátást nyújt a téli építészetre. A belvárosban mélygarázsokat használunk, hogy gyorsan elérjük a hangulatos kávézókat. A parkok délután csendesek, mielőtt a hazaúton gyönyörködnénk a városi fényekben.",
             "ro": "Zilele de iarnă în Avilés sunt ideale pentru explorarea cu mașina. Dimineața începem la Centrul Niemeyer bine luminat. Drumul prin oraș oferă perspective frumoase asupra arhitecturii de iarnă. În centru, folosim parcările acoperite pentru a ajunge rapid în cafenelele primitoare. Parcurile oferă o atmosferă liniștită după-amiaza, înainte de a admira luminile orașului la întoarcere.",
-            "en": "Winter days in Avilés are ideal for a car-based itinerary. We start at the brightly lit Niemeyer Centre in the morning. Driving through town offers lovely views of the winter architecture. In the center, we use car parks for quick access to cozy cafes. The parks provide a peaceful atmosphere in the afternoon before we enjoy the city lights on the drive back."
+            "en": "Winter days in Avilés are ideal for a car-based itinerary. We start at the brightly lit Niemeyer Centre in the morning. Driving through town offers lovely views of the winter architecture. In the center, we use car parks for quick access to cozy cafes. The parks provide a peaceful atmosphere in the afternoon before we enjoy the city lights on the drive back.",
+            "es": "Los días de invierno en Avilés son ideales para un itinerario en coche. Empezamos por la mañana en el luminoso Centro Niemeyer. Conducir por la ciudad ofrece bonitas vistas de la arquitectura invernal. En el centro, usamos aparcamientos para acceder rápidamente a cafeterías acogedoras. Los parques ofrecen un ambiente tranquilo por la tarde antes de disfrutar de las luces de la ciudad de regreso en el coche."
           },
           "stops": [
             {
@@ -1744,7 +1880,8 @@
                 "de": "Vermeiden Sie es, Wertgegenstände sichtbar im Auto zu lassen.",
                 "hu": "Ne hagyjon értéktárgyakat látható helyen az autóban.",
                 "ro": "Nu lăsați obiecte de valoare la vedere în mașină.",
-                "en": "Do not leave valuables visible in the car."
+                "en": "Do not leave valuables visible in the car.",
+                "es": "No dejes objetos de valor a la vista dentro del vehículo."
               }
             },
             {
@@ -1753,7 +1890,8 @@
                 "de": "Die weißen Gebäude wirken im Winter besonders strahlend.",
                 "hu": "A fehér épületek télen különösen ragyogóak.",
                 "ro": "Clădirile albe par deosebit de strălucitoare iarna.",
-                "en": "The white buildings look especially radiant in winter."
+                "en": "The white buildings look especially radiant in winter.",
+                "es": "Los edificios blancos lucen especialmente radiantes en invierno."
               }
             },
             {
@@ -1762,7 +1900,8 @@
                 "de": "Ein vorgewärmtes Auto ist nach dem Stadtspaziergang Gold wert.",
                 "hu": "Egy előmelegített autó aranyat ér a városi séta után.",
                 "ro": "O mașină preîncălzită este ideală după plimbarea prin oraș.",
-                "en": "A pre-warmed car is a blessing after a city walk."
+                "en": "A pre-warmed car is a blessing after a city walk.",
+                "es": "Un coche precalentado es una bendición después de un paseo por la ciudad."
               }
             },
             {
@@ -1771,7 +1910,8 @@
                 "de": "Genießen Sie die weihnachtliche Beleuchtung, falls vorhanden.",
                 "hu": "Élvezze a karácsonyi kivilágítást, ha szezonban van.",
                 "ro": "Bucurați-vă de iluminatul festiv, dacă este sezonul.",
-                "en": "Enjoy the festive lights if visiting during the season."
+                "en": "Enjoy the festive lights if visiting during the season.",
+                "es": "Disfruta de las luces festivas si visitas en temporada."
               }
             },
             {
@@ -1780,7 +1920,8 @@
                 "de": "Kurze Wege schützen vor dem kalten Seewind.",
                 "hu": "A rövid távolságok védenek a hideg tengeri széltől.",
                 "ro": "Distanțele scurte vă protejează de vântul rece de mare.",
-                "en": "Short distances protect you from the cold sea breeze."
+                "en": "Short distances protect you from the cold sea breeze.",
+                "es": "Las cortas distancias te protegen de la fría brisa marina."
               }
             },
             {
@@ -1789,7 +1930,8 @@
                 "de": "Parken Sie in der Nähe der Calle Cervantes für schnellen Zugang.",
                 "hu": "Parkoljon a Calle Cervantes közelében a gyors bejutáshoz.",
                 "ro": "Parcați lângă Calle Cervantes pentru acces rapid.",
-                "en": "Park near Calle Cervantes for quick access."
+                "en": "Park near Calle Cervantes for quick access.",
+                "es": "Aparca cerca de la Calle Cervantes para acceso rápido."
               }
             }
           ],
@@ -1821,6 +1963,13 @@
               "Use underground car parks to shield the car from frost.",
               "Dusk starts early, so double-check your vehicle's lighting.",
               "The Niemeyer Centre is often less crowded during the winter months."
+            ],
+            "es": [
+              "La calefacción del coche asegura descansos agradables entre paradas.",
+              "Las carreteras suelen estar húmedas en invierno; vigila la distancia de frenado.",
+              "Usa aparcamientos subterráneos para proteger el coche de la escarcha.",
+              "El anochecer llega pronto, así que revisa la iluminación del vehículo.",
+              "El Centro Niemeyer suele estar menos concurrido durante los meses de invierno."
             ]
           }
         }
@@ -1839,7 +1988,8 @@
             "de": "Bushaltestelle Plaza de la Merced",
             "hu": "Plaza de la Merced buszmegálló",
             "ro": "Stația de autobuz Plaza de la Merced",
-            "en": "Plaza de la Merced Bus Stop"
+            "en": "Plaza de la Merced Bus Stop",
+            "es": "Parada de autobús Plaza de la Merced"
           },
           "coords": [
             -5.922,
@@ -1855,7 +2005,8 @@
             "de": "Beginnen Sie hier, in der Nähe des Theaters und am Rande der Altstadt.",
             "hu": "Kezdje itt, a színház közelében és az óváros szélén.",
             "ro": "Începeți de aici, aproape de teatru și la marginea orașului vechi.",
-            "en": "Start here, near the theatre and on the edge of the old town."
+            "en": "Start here, near the theatre and on the edge of the old town.",
+            "es": "Comienza aquí, junto al teatro y en el borde del casco antiguo."
           }
         },
         {
@@ -1863,7 +2014,8 @@
             "de": "Teatro Palacio Valdés",
             "hu": "Palacio Valdés Színház",
             "ro": "Teatrul Palacio Valdés",
-            "en": "Palacio Valdés Theatre"
+            "en": "Palacio Valdés Theatre",
+            "es": "Teatro Palacio Valdés"
           },
           "coords": [
             -5.923,
@@ -1879,7 +2031,8 @@
             "de": "Bewundern Sie dieses neobarocke Juwel, bevor Sie ins Zentrum gehen.",
             "hu": "Csodálja meg ezt az újbarokk gyöngyszemet, mielőtt bemegy a központba.",
             "ro": "Admirați această bijuterie neobarocă înainte de a vă îndrepta spre centru.",
-            "en": "Admire this neo-baroque gem before heading into the center."
+            "en": "Admire this neo-baroque gem before heading into the center.",
+            "es": "Admira esta joya neobarroca antes de dirigirte al centro."
           }
         },
         {
@@ -1887,7 +2040,8 @@
             "de": "Plaza de España & Altstadt",
             "hu": "Plaza de España és óváros",
             "ro": "Plaza de España și Orașul Vechi",
-            "en": "Plaza de España & Old Town"
+            "en": "Plaza de España & Old Town",
+            "es": "Plaza de España y casco antiguo"
           },
           "coords": [
             -5.924,
@@ -1903,7 +2057,8 @@
             "de": "Verlieren Sie sich in den Straßen rund um den Hauptplatz. Mittagessen hier.",
             "hu": "Vesszen el a főteret körülvevő utcákban. Ebédeljen itt.",
             "ro": "Pierdeți-vă pe străzile din jurul pieței principale. Luați prânzul aici.",
-            "en": "Get lost in the streets surrounding the main square. Have lunch here."
+            "en": "Get lost in the streets surrounding the main square. Have lunch here.",
+            "es": "Piérdete por las calles que rodean la plaza principal. Almuerza aquí."
           }
         },
         {
@@ -1911,7 +2066,8 @@
             "de": "Bushaltestelle Avilés Estación",
             "hu": "Avilés Estación buszmegálló",
             "ro": "Stația de autobuz Avilés Estación",
-            "en": "Avilés Estación Bus Stop"
+            "en": "Avilés Estación Bus Stop",
+            "es": "Parada de autobús Avilés Estación"
           },
           "coords": [
             -5.92,
@@ -1927,7 +2083,8 @@
             "de": "Nehmen Sie von hier einen Bus in Richtung Niemeyer.",
             "hu": "Innen induljon busszal a Niemeyer felé.",
             "ro": "De aici, luați un autobuz spre Niemeyer.",
-            "en": "From here, catch a bus towards Niemeyer."
+            "en": "From here, catch a bus towards Niemeyer.",
+            "es": "Desde aquí toma un autobús hacia el Niemeyer."
           }
         },
         {
@@ -1935,7 +2092,8 @@
             "de": "Centro Niemeyer",
             "hu": "Niemeyer Központ",
             "ro": "Centrul Niemeyer",
-            "en": "Niemeyer Centre"
+            "en": "Niemeyer Centre",
+            "es": "Centro Niemeyer"
           },
           "coords": [
             -5.914,
@@ -1951,7 +2109,8 @@
             "de": "Verbringen Sie den Nachmittag damit, diesen Kulturkomplex zu erkunden.",
             "hu": "Töltse a délutánt ennek a kulturális komplexumnak a felfedezésével.",
             "ro": "Petreceți după-amiaza explorând acest complex cultural.",
-            "en": "Spend the afternoon exploring this cultural complex."
+            "en": "Spend the afternoon exploring this cultural complex.",
+            "es": "Pasa la tarde explorando este complejo cultural."
           }
         },
         {
@@ -1959,7 +2118,8 @@
             "de": "Ferrera Park",
             "hu": "Ferrera Park",
             "ro": "Parcul Ferrera",
-            "en": "Ferrera Park"
+            "en": "Ferrera Park",
+            "es": "Parque Ferrera"
           },
           "coords": [
             -5.929,
@@ -1975,7 +2135,8 @@
             "de": "Nehmen Sie einen Bus zurück ins Zentrum für einen entspannten Abschluss im Park.",
             "hu": "Menjen vissza busszal a központba egy pihentető befejezésért a parkban.",
             "ro": "Luați un autobuz înapoi în centru pentru un final relaxant în parc.",
-            "en": "Take a bus back towards the centre for a relaxing finish in the park."
+            "en": "Take a bus back towards the centre for a relaxing finish in the park.",
+            "es": "Toma un autobús de vuelta hacia el centro para terminar relajándote en el parque."
           }
         }
       ],
@@ -1983,7 +2144,8 @@
         "de": "Ihre Reise mit öffentlichen Verkehrsmitteln beginnt im Herzen der Altstadt, wo Sie nach einem kurzen Spaziergang vom Busbahnhof aus das Theater bewundern. Der Vormittag ist dem Labyrinth der mittelalterlichen Straßen rund um die Plaza de España gewidmet. Nach dem Mittagessen nehmen Sie einen Bus über die Mündung zum beeindruckenden Centro Niemeyer. Verbringen Sie den Nachmittag damit, seine einzigartige Architektur zu bewundern. Für Ihren letzten Halt bringt Sie ein weiterer Bus zurück zum grünen Ferrera-Park, ein perfekter Ort, um die Erlebnisse des Tages vor der Heimfahrt zu verarbeiten.",
         "hu": "A tömegközlekedési utazás az óváros szívében kezdődik, ahol a buszmegállótól egy rövid sétára megcsodálhatja a színházat. A délelőttöt a Plaza de España körüli középkori utcák labirintusában tölti. Ebéd után busszal átkel a torkolaton a lenyűgöző Niemeyer Központhoz. Töltse a délutánt az egyedi építészet csodálásával. Az utolsó megállóhoz egy másik busz visszaviszi a zöldellő Ferrera Parkba, amely tökéletes hely a nap élményeinek feldolgozására, mielőtt hazaindulna.",
         "ro": "Călătoria cu transportul public începe în inima orașului vechi, admirând teatrul după o scurtă plimbare de la stația de autobuz. Dimineața este dedicată labirintului de străzi medievale din jurul Plaza de España. După prânz, luați un autobuz peste estuar spre impresionantul Centru Niemeyer. Petreceți după-amiaza admirându-i arhitectura unică. Pentru ultima oprire, un alt autobuz vă duce înapoi la Parcul Ferrera, un loc perfect pentru a reflecta asupra zilei înainte de a vă întoarce acasă.",
-        "en": "Your journey by transit starts in the heart of the old town, admiring the theatre after a short walk from the bus stop. The morning is dedicated to the labyrinth of medieval streets around Plaza de España. After lunch, you'll take a bus across the estuary to the impressive Niemeyer Centre. Spend the afternoon admiring its unique architecture. For your final stop, another bus takes you back towards the verdant Ferrera Park, a perfect spot to reflect on the day's experiences before heading home."
+        "en": "Your journey by transit starts in the heart of the old town, admiring the theatre after a short walk from the bus stop. The morning is dedicated to the labyrinth of medieval streets around Plaza de España. After lunch, you'll take a bus across the estuary to the impressive Niemeyer Centre. Spend the afternoon admiring its unique architecture. For your final stop, another bus takes you back towards the verdant Ferrera Park, a perfect spot to reflect on the day's experiences before heading home.",
+        "es": "Tu recorrido en transporte público comienza en el corazón del casco antiguo, admirando el teatro tras una breve caminata desde la parada de autobús. La mañana se dedica al laberinto de calles medievales alrededor de la Plaza de España. Después de comer, tomarás un autobús a través de la ría hasta el impresionante Centro Niemeyer. Pasa la tarde admirando su arquitectura única. Para la última parada, otro autobús te lleva de vuelta al verde Parque Ferrera, un lugar perfecto para recordar la jornada antes de volver a casa."
       },
       "gastro_picks": {
         "de": [
@@ -2211,6 +2373,12 @@
           "Download the local bus app to see real-time schedules.",
           "Buses can be crowded during peak hours, plan accordingly.",
           "Check the last bus schedule, especially when you are at the Niemeyer Centre."
+        ],
+        "es": [
+          "Compra una tarjeta 'Bono-Bus' para tarifas reducidas.",
+          "Descarga la app local de autobuses para ver los horarios en tiempo real.",
+          "Los autobuses pueden ir llenos en horas punta; planifica con antelación.",
+          "Consulta el último horario de autobuses, especialmente si estás en el Centro Niemeyer."
         ]
       },
       "variants": {
@@ -2219,7 +2387,8 @@
             "de": "Öffentliche Verkehrsmittel sind in Avilés eine gute Wahl bei Regen. Wir starten an der Plaza de la Merced und nutzen den Bus, um zum Theater und zur Altstadt zu gelangen. Die Buswartehäuschen bieten Schutz. Ein kurzer Transfer bringt uns zum Busbahnhof, von wo aus wir das Niemeyer-Zentrum erreichen. Den Tag beenden wir mit einer Busfahrt zurück, während wir den Regen an den Fenstern beobachten.",
             "hu": "A tömegközlekedés jó választás Avilésben eső esetén. A Plaza de la Mercednél kezdünk, és busszal megyünk a színházhoz és az óvároshoz. A buszmegállók fedettek, így védettek vagyunk. Egy rövid átszállással elérjük az autóbusz-állomást, ahonnan a Niemeyer Központhoz jutunk. A napot egy kényelmes buszúttal zárjuk, miközben az ablakon kopogó esőt nézzük.",
             "ro": "Transportul public este o alegere bună în Avilés pe timp de ploaie. Începem la Plaza de la Merced și folosim autobuzul pentru a ajunge la teatru și în orașul vechi. Stațiile de autobuz oferă adăpost. Un scurt transfer ne duce la autogară, de unde ajungem la Centrul Niemeyer. Încheiem ziua cu o călătorie cu autobuzul, privind ploaia pe geam.",
-            "en": "Public transit is a solid choice for rainy Avilés. We start at Plaza de la Merced and take the bus to reach the theatre and old town. Bus shelters keep us dry while waiting. A quick transfer takes us to the bus station, providing access to the Niemeyer Centre. The day ends with a comfortable bus ride back, watching the rain from the window."
+            "en": "Public transit is a solid choice for rainy Avilés. We start at Plaza de la Merced and take the bus to reach the theatre and old town. Bus shelters keep us dry while waiting. A quick transfer takes us to the bus station, providing access to the Niemeyer Centre. The day ends with a comfortable bus ride back, watching the rain from the window.",
+            "es": "El transporte público es una buena opción para un Avilés lluvioso. Empezamos en la Plaza de la Merced y tomamos el autobús para llegar al teatro y al casco antiguo. Las marquesinas nos mantienen secos mientras esperamos. Una transferencia rápida nos lleva a la estación de autobuses, con acceso al Centro Niemeyer. El día termina con un cómodo viaje en autobús de regreso, observando la lluvia desde la ventana."
           },
           "stops": [
             {
@@ -2228,7 +2397,8 @@
                 "de": "Warten Sie unter dem Dach der Haltestelle.",
                 "hu": "Várjon a megálló fedett része alatt.",
                 "ro": "Așteptați sub acoperișul stației.",
-                "en": "Wait under the shelter of the bus stop."
+                "en": "Wait under the shelter of the bus stop.",
+                "es": "Espera bajo la marquesina de la parada."
               }
             },
             {
@@ -2237,7 +2407,8 @@
                 "de": "Vom Bus sind es nur wenige Schritte bis zum Eingang.",
                 "hu": "A busztól csak néhány lépés a bejárat.",
                 "ro": "Sunt doar câțiva pași de la autobuz până la intrare.",
-                "en": "It's just a few steps from the bus to the entrance."
+                "en": "It's just a few steps from the bus to the entrance.",
+                "es": "Hay solo unos pasos desde el autobús hasta la entrada."
               }
             },
             {
@@ -2246,7 +2417,8 @@
                 "de": "Nutzen Sie die nahen Arkaden sofort nach dem Aussteigen.",
                 "hu": "Használja a közeli árkádokat azonnal kiszállás után.",
                 "ro": "Folosiți arcadele din apropiere imediat după debarcare.",
-                "en": "Head for the nearby arcades immediately after getting off."
+                "en": "Head for the nearby arcades immediately after getting off.",
+                "es": "Dirígete de inmediato a los soportales cercanos al bajar."
               }
             },
             {
@@ -2255,7 +2427,8 @@
                 "de": "Die Station bietet einen großen überdachten Wartebereich.",
                 "hu": "Az állomás tágas, fedett váróteremmel rendelkezik.",
                 "ro": "Stația are o zonă de așteptare acoperită generoasă.",
-                "en": "The station has a large covered waiting area."
+                "en": "The station has a large covered waiting area.",
+                "es": "La estación tiene una amplia zona cubierta de espera."
               }
             },
             {
@@ -2264,7 +2437,8 @@
                 "de": "Vom Bahnhof führt ein Steg direkt zum Zentrum.",
                 "hu": "Az állomástól egy gyaloghíd vezet közvetlenül a központhoz.",
                 "ro": "De la gară, o pasarelă duce direct la centru.",
-                "en": "A footbridge leads directly from the station to the center."
+                "en": "A footbridge leads directly from the station to the center.",
+                "es": "Una pasarela conecta directamente la estación con el centro."
               }
             },
             {
@@ -2273,7 +2447,8 @@
                 "de": "Busse halten direkt an den Eingängen des Parks.",
                 "hu": "A buszok közvetlenül a park bejáratainál állnak meg.",
                 "ro": "Autobuzele opresc chiar la intrările parcului.",
-                "en": "Buses stop right at the entrances to the park."
+                "en": "Buses stop right at the entrances to the park.",
+                "es": "Los autobuses paran justo en las entradas del parque."
               }
             }
           ],
@@ -2305,6 +2480,13 @@
               "The 'Las Meanas' stop is a key transit hub in the city center.",
               "Avoid peak hours as buses tend to be more crowded when it rains.",
               "The walk from the station to the Niemeyer Centre is partially unsheltered."
+            ],
+            "es": [
+              "Usa la app 'Avilés Bus' para actualizaciones de horario en tiempo real.",
+              "Ten el billete o cambio pequeño preparado para agilizar el embarque.",
+              "La parada 'Las Meanas' es un nudo de transporte clave en el centro.",
+              "Evita las horas punta, ya que los autobuses se llenan más cuando llueve.",
+              "El paseo desde la estación hasta el Centro Niemeyer está parcialmente sin cobertura."
             ]
           }
         },
@@ -2313,7 +2495,8 @@
             "de": "Transit ist ideal, um im winterlichen Avilés warm zu bleiben. Wir starten an der Plaza de la Merced. Die beheizten Busse machen die Fahrten zwischen den Sehenswürdigkeiten sehr angenehm. Im Zentrum erkunden wir die Altstadt und wärmen uns in den Cafés auf. Ein Transfer bringt uns zum Niemeyer-Zentrum, wo wir die blaue Stunde genießen, bevor uns der Bus zurück in die Stadt bringt.",
             "hu": "A tömegközlekedés ideális, hogy melegen maradjunk a téli Avilésben. A Plaza de la Mercednél kezdünk. A fűtött buszok kényelmessé teszik a látnivalók közötti utazást. A belvárosban felfedezzük az óvárost, majd kávézókban melegszünk fel. Egy átszállással a Niemeyer Központhoz megyünk, ahol élvezzük a kék órát, mielőtt a busz visszavinne minket.",
             "ro": "Tranzitul este ideal pentru a rămâne la căldură în Avilés iarna. Începem la Plaza de la Merced. Autobuzele încălzite fac deplasările între atracții foarte plăcute. În centru explorăm orașul vechi și ne încălzim în cafenele. Un transfer ne duce la Centrul Niemeyer, unde ne bucurăm de ora albastră înainte ca autobuzul să ne aducă înapoi.",
-            "en": "Transit is a great way to stay warm while visiting Avilés in winter. We start at Plaza de la Merced. The heated buses make traveling between landmarks very comfortable. In the center, we explore the historic district and warm up in local cafes. A quick transfer gets us to the Niemeyer Centre to enjoy the twilight before taking the bus back to the city."
+            "en": "Transit is a great way to stay warm while visiting Avilés in winter. We start at Plaza de la Merced. The heated buses make traveling between landmarks very comfortable. In the center, we explore the historic district and warm up in local cafes. A quick transfer gets us to the Niemeyer Centre to enjoy the twilight before taking the bus back to the city.",
+            "es": "El tránsito es una excelente manera de mantenerse caliente mientras visitas Avilés en invierno. Empezamos en la Plaza de la Merced. Los autobuses calefactados hacen muy cómodo viajar entre los lugares de interés. En el centro, exploramos el distrito histórico y entramos a cafeterías para entrar en calor. Una transferencia rápida nos lleva al Centro Niemeyer para disfrutar del crepúsculo antes de tomar el autobús de regreso a la ciudad."
           },
           "stops": [
             {
@@ -2322,7 +2505,8 @@
                 "de": "Ein geschützter Ort zum Warten am Morgen.",
                 "hu": "Védett hely a reggeli várakozáshoz.",
                 "ro": "Un loc protejat pentru așteptare dimineața.",
-                "en": "A sheltered spot for waiting in the morning."
+                "en": "A sheltered spot for waiting in the morning.",
+                "es": "Un lugar resguardado para esperar por la mañana."
               }
             },
             {
@@ -2331,7 +2515,8 @@
                 "de": "Genießen Sie den Anblick der festlich beleuchteten Umgebung.",
                 "hu": "Élvezze az ünnepi kivilágítású környezet látványát.",
                 "ro": "Bucurați-vă de vederea împrejurimilor iluminate festiv.",
-                "en": "Enjoy the sight of the festively lit surroundings."
+                "en": "Enjoy the sight of the festively lit surroundings.",
+                "es": "Disfruta del espectáculo de las luces festivas alrededor."
               }
             },
             {
@@ -2340,7 +2525,8 @@
                 "de": "Das Herz der Stadt ist auch im Winter belebt.",
                 "hu": "A város szíve télen is élettel teli.",
                 "ro": "Inima orașului este plină de viață și iarna.",
-                "en": "The heart of the city is bustling even in winter."
+                "en": "The heart of the city is bustling even in winter.",
+                "es": "El corazón de la ciudad está animado incluso en invierno."
               }
             },
             {
@@ -2349,7 +2535,8 @@
                 "de": "Hier kreuzen sich viele Linien; ideal zum Umsteigen.",
                 "hu": "Itt sok vonal találkozik; ideális az átszálláshoz.",
                 "ro": "Multe linii se intersectează aici; ideal pentru transfer.",
-                "en": "Many lines intersect here; ideal for transfers."
+                "en": "Many lines intersect here; ideal for transfers.",
+                "es": "Muchas líneas confluyen aquí; ideal para hacer transbordos."
               }
             },
             {
@@ -2358,7 +2545,8 @@
                 "de": "Die Beleuchtung des Zentrums ist im Winter besonders schön.",
                 "hu": "A központ kivilágítása télen különösen szép.",
                 "ro": "Iluminatul centrului este deosebit de frumos iarna.",
-                "en": "The center's lighting is particularly beautiful in winter."
+                "en": "The center's lighting is particularly beautiful in winter.",
+                "es": "La iluminación del centro es especialmente bonita en invierno."
               }
             },
             {
@@ -2367,7 +2555,8 @@
                 "de": "Die Bushaltestellen bieten oft einen guten Blick auf den Park.",
                 "hu": "A buszmegállókból gyakran szép kilátás nyílik a parkra.",
                 "ro": "Stațiile de autobuz oferă adesea o vedere bună asupra parcului.",
-                "en": "Bus stops often provide a good view of the park."
+                "en": "Bus stops often provide a good view of the park.",
+                "es": "Las paradas de autobús suelen ofrecer buena vista al parque."
               }
             }
           ],
@@ -2399,6 +2588,13 @@
               "The bus station (Estación) is heated and has cafes available.",
               "Take lines that travel around the estuary for scenic winter views.",
               "Be mindful of the last bus connections after sunset."
+            ],
+            "es": [
+              "Los autobuses suelen ser una alternativa más cálida que caminar en invierno.",
+              "Consulta los horarios de invierno por posibles cambios menores o ajustes estacionales.",
+              "La estación de autobuses (Estación) está calefactada y cuenta con cafeterías.",
+              "Toma líneas que rodeen la ría para vistas invernales panorámicas.",
+              "Fíjate en las últimas conexiones de autobús tras el atardecer."
             ]
           }
         }

@@ -21,7 +21,8 @@
             "de": "Vegueta Markt",
             "hu": "Vegueta piac",
             "ro": "Piața Vegueta",
-            "en": "Vegueta Market"
+            "en": "Vegueta Market",
+            "es": "Mercado de Vegueta"
           },
           "coords": [
             -15.4142,
@@ -36,7 +37,8 @@
             "de": "Probieren Sie frischen Kaktusfeigensaft.",
             "hu": "Kóstolja meg a friss kaktuszfügelevet.",
             "ro": "Încercați sucul proaspăt de fructe de cactus.",
-            "en": "Try the fresh prickly pear juice."
+            "en": "Try the fresh prickly pear juice.",
+            "es": "Prueba el jugo fresco de tuna."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kathedrale von Santa Ana",
             "hu": "Santa Ana-székesegyház",
             "ro": "Catedrala Santa Ana",
-            "en": "Catedral de Santa Ana"
+            "en": "Catedral de Santa Ana",
+            "es": "Catedral de Santa Ana"
           },
           "coords": [
             -15.4151,
@@ -59,7 +62,8 @@
             "de": "Fahren Sie mit dem Lift auf den Turm für Panorama.",
             "hu": "Menjen fel lifttel a toronyba a kilátásért.",
             "ro": "Urcați cu liftul în turn pentru panoramă.",
-            "en": "Take the lift to the tower for the panorama."
+            "en": "Take the lift to the tower for the panorama.",
+            "es": "Sube en el ascensor hasta la torre para disfrutar del panorama."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Haus des Kolumbus",
             "hu": "Kolumbusz-ház",
             "ro": "Casa lui Columb",
-            "en": "Casa de Colón"
+            "en": "Casa de Colón",
+            "es": "Casa de Colón"
           },
           "coords": [
             -15.4144,
@@ -82,7 +87,8 @@
             "de": "Wunderschöne gotische Innenhöfe und Papageien.",
             "hu": "Gyönyörű gótikus belső udvarok és papagájok.",
             "ro": "Curți interioare gotice superbe și papagali.",
-            "en": "Beautiful Gothic courtyards and parrots."
+            "en": "Beautiful Gothic courtyards and parrots.",
+            "es": "Hermosos patios góticos y loros."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kanarisches Museum",
             "hu": "Kanári Múzeum",
             "ro": "Muzeul Canar",
-            "en": "Museo Canario"
+            "en": "Museo Canario",
+            "es": "Museo Canario"
           },
           "coords": [
             -15.4155,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie die Mumien der Ureinwohner.",
             "hu": "Fedezze fel az őslakos guancse múmiákat.",
             "ro": "Descoperiți mumiile băștinașilor guanches.",
-            "en": "Discover the aboriginal Guanche mummies."
+            "en": "Discover the aboriginal Guanche mummies.",
+            "es": "Descubre las momias aborígenes guanches."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Vegueta Gastro-Viertel",
             "hu": "Vegueta gasztro-negyed",
             "ro": "Cartierul Gastro Vegueta",
-            "en": "Vegueta Gastro District"
+            "en": "Vegueta Gastro District",
+            "es": "Distrito Gastronómico de Vegueta"
           },
           "coords": [
             -15.4148,
@@ -128,7 +137,8 @@
             "de": "Donnerstags ist Tapas-Abend in Vegueta.",
             "hu": "Csütörtökönként tapas-este van Veguetában.",
             "ro": "Joia este seara de tapas în Vegueta.",
-            "en": "Thursdays are tapas nights in Vegueta."
+            "en": "Thursdays are tapas nights in Vegueta.",
+            "es": "Los jueves son noches de tapas en Vegueta."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Calle Triana Einkaufsstraße",
             "hu": "Calle Triana bevásárlóutca",
             "ro": "Strada comercială Calle Triana",
-            "en": "Calle Triana Shopping"
+            "en": "Calle Triana Shopping",
+            "es": "Compras en la Calle Triana"
           },
           "coords": [
             -15.4165,
@@ -151,7 +162,8 @@
             "de": "Bewundern Sie die modernistischen Fassaden.",
             "hu": "Csodálja meg a modernista homlokzatokat.",
             "ro": "Admirați fațadele moderniste ale clădirilor.",
-            "en": "Admire the modernist building facades."
+            "en": "Admire the modernist building facades.",
+            "es": "Admira las fachadas modernistas."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Der Tag beginnt im Herzen des historischen Vegueta. Wir erkunden den farbenfrohen Markt und die majestätische Kathedrale.\n\nNachmittags tauchen wir in die Geschichte der Entdecker ein und besuchen das Haus, in dem Kolumbus wohnte.\n\nEin traditionelles Mittagessen in den Gassen von Vegueta stärkt uns für die archäologischen Schätze des Kanarischen Museums.\n\nZum Abschluss schlendern wir durch das Triana-Viertel, wo Geschichte auf moderne Einkaufskultur trifft.",
         "hu": "A napot a történelmi Vegueta szívében kezdjük, ahol a színes piac és a fenséges katedrális vár ránk.\n\nKésőbb a felfedezők nyomába eredünk a Kolumbusz-házban, ahol az admirális lakott útja során.\n\nEgy hangulatos ebéd után a Vegueta ódon utcáin, megismerjük az őslakosok történetét a Kanári Múzeumban.\n\nA délutánt a Calle Triana elegáns üzletei között zárjuk, gyönyörködve a neoklasszikus épületekben.",
         "ro": "Începem ziua în inima cartierului istoric Vegueta, explorând piața locală plină de culoare și catedrala maiestuoasă.\n\nMai târziu, pășim pe urmele marilor exploratori la Casa lui Columb, unde amiralul a locuit în timpul expedițiilor sale.\n\nDupă un prânz tradițional pe străduțele înguste, descoperim comorile arheologice din Muzeul Canar.\n\nÎncheiem plimbarea pe Calle Triana, zona comercială plină de viață, admirând fațadele istorice superbe.",
-        "en": "Start your day in the historic Vegueta heart, exploring the vibrant market and the grand Santa Ana Cathedral.\n\nFollow the path of explorers at the Columbus House, where the admiral stayed before crossing the Atlantic.\n\nEnjoy a traditional lunch in Vegueta's narrow alleys, followed by a visit to the archaeological Museo Canario.\n\nFinish with a leisurely walk through the Triana district, blending historic architecture with modern shopping vibes."
+        "en": "Start your day in the historic Vegueta heart, exploring the vibrant market and the grand Santa Ana Cathedral.\n\nFollow the path of explorers at the Columbus House, where the admiral stayed before crossing the Atlantic.\n\nEnjoy a traditional lunch in Vegueta's narrow alleys, followed by a visit to the archaeological Museo Canario.\n\nFinish with a leisurely walk through the Triana district, blending historic architecture with modern shopping vibes.",
+        "es": "Comienza tu día en el histórico corazón de Vegueta, explorando el vibrante mercado y la imponente Catedral de Santa Ana.\n\nSigue la ruta de los exploradores en la Casa de Colón, donde el almirante se alojó antes de cruzar el Atlántico.\n\nDisfruta de un almuerzo tradicional en las estrechas callejuelas de Vegueta, seguido de una visita al arqueológico Museo Canario.\n\nTermina con un paseo tranquilo por el barrio de Triana, que combina arquitectura histórica con un ambiente moderno de compras."
       },
       "gastro_picks": {
         "de": [
@@ -275,6 +288,10 @@
         "en": [
           "Wear comfortable shoes for the cobblestone streets of Vegueta.",
           "Cathedral access might be limited on Sundays during mass."
+        ],
+        "es": [
+          "Lleva calzado cómodo para las calles adoquinadas de Vegueta.",
+          "El acceso a la catedral puede estar limitado los domingos durante la misa."
         ]
       }
     },
@@ -291,7 +308,8 @@
             "de": "Vegueta Start",
             "hu": "Vegueta rajt",
             "ro": "Vegueta start",
-            "en": "Vegueta Start"
+            "en": "Vegueta Start",
+            "es": "Inicio en Vegueta"
           },
           "coords": [
             -15.415,
@@ -306,7 +324,8 @@
             "de": "Mieten Sie ein Fahrrad nahe der Kathedrale.",
             "hu": "Béreljen kerékpárt a katedrális közelében.",
             "ro": "Închiriați o bicicletă lângă catedrală.",
-            "en": "Rent a bike near the cathedral."
+            "en": "Rent a bike near the cathedral.",
+            "es": "Alquila una bici cerca de la catedral."
           }
         },
         {
@@ -314,7 +333,8 @@
             "de": "Küstenspazierweg",
             "hu": "Tengerparti sétány",
             "ro": "Promenada de coastă",
-            "en": "Coast Promenade"
+            "en": "Coast Promenade",
+            "es": "Paseo marítimo"
           },
           "coords": [
             -15.42,
@@ -329,7 +349,8 @@
             "de": "Genießen Sie den flachen Radweg am Meer entlang.",
             "hu": "Élvezze a sík kerékpárutat a tenger mentén.",
             "ro": "Bucurați-vă de pista plată de biciclete de-a lungul mării.",
-            "en": "Enjoy the flat bike path along the sea."
+            "en": "Enjoy the flat bike path along the sea.",
+            "es": "Disfruta del carril bici llano junto al mar."
           }
         },
         {
@@ -337,7 +358,8 @@
             "de": "Castillo de la Luz",
             "hu": "Fény vára",
             "ro": "Castelul Luminii",
-            "en": "Castillo de la Luz"
+            "en": "Castillo de la Luz",
+            "es": "Castillo de la Luz"
           },
           "coords": [
             -15.4261,
@@ -352,7 +374,8 @@
             "de": "Die älteste Festung der Insel.",
             "hu": "A sziget legrégebbi erődítménye.",
             "ro": "Cea mai veche fortăreață de pe insulă.",
-            "en": "The oldest fortress on the island."
+            "en": "The oldest fortress on the island.",
+            "es": "La fortaleza más antigua de la isla."
           }
         },
         {
@@ -360,7 +383,8 @@
             "de": "Las Canteras Strand",
             "hu": "Las Canteras strand",
             "ro": "Plaja Las Canteras",
-            "en": "Playa de Las Canteras"
+            "en": "Playa de Las Canteras",
+            "es": "Playa de Las Canteras"
           },
           "coords": [
             -15.435,
@@ -375,7 +399,8 @@
             "de": "Fahrräder müssen auf der Promenade geschoben werden.",
             "hu": "A sétányon a kerékpárt tolni kell.",
             "ro": "Bicicletele trebuie împinse pe promenadă.",
-            "en": "Bikes must be pushed on the promenade."
+            "en": "Bikes must be pushed on the promenade.",
+            "es": "Las bicicletas deben ir a pie por el paseo."
           }
         },
         {
@@ -383,7 +408,8 @@
             "de": "Alfredo Kraus Auditorio",
             "hu": "Alfredo Kraus Auditórium",
             "ro": "Auditoriul Alfredo Kraus",
-            "en": "Auditorio Alfredo Kraus"
+            "en": "Auditorio Alfredo Kraus",
+            "es": "Auditorio Alfredo Kraus"
           },
           "coords": [
             -15.4485,
@@ -398,7 +424,8 @@
             "de": "Ein modernes Wahrzeichen am Ende des Strandes.",
             "hu": "Modern jelkép a strand végén.",
             "ro": "Un simbol modern la capătul plajei.",
-            "en": "A modern landmark at the end of the beach."
+            "en": "A modern landmark at the end of the beach.",
+            "es": "Un emblema moderno al final de la playa."
           }
         }
       ],
@@ -406,7 +433,8 @@
         "de": "Diese Radtour verbindet die historische Altstadt mit der modernen Küste. Wir starten in Vegueta und radeln nordwärts am Ozean entlang.\n\nDer flache Küstenradweg führt uns vorbei am Hafen bis zur Festung Castillo de la Luz.\n\nNach der Kulturpause entspannen wir am berühmten Strand Las Canteras, bevor wir das markante Alfredo Kraus Auditorio erreichen.\n\nEin aktiver Tag mit viel Meeresbrise und den besten Ausblicken auf die Skyline der Stadt.",
         "hu": "Ez a kerékpártúra összeköti a történelmi óvárost a modern tengerparttal. Veguetából indulva észak felé tekerünk az óceán mentén.\n\nA sík parti út elvezet a kikötő mellett egészen a Fény váráig (Castillo de la Luz).\n\nA kulturális kitérő után a híres Las Canteras strandon pihenünk, majd elérjük a látványos Alfredo Kraus Auditóriumot.\n\nAktív nap tengeri szellővel és a város legszebb panorámáival.",
         "ro": "Acest tur cu bicicleta îmbină centrul istoric cu faleza modernă. Pornim din Vegueta și pedalăm spre nord, de-a lungul oceanului.\n\nPista plată de pe coastă ne poartă pe lângă port până la fortăreața Castillo de la Luz.\n\nDupă o pauză culturală, ne relaxăm pe faimoasa plajă Las Canteras, înainte de a ajunge la impresionantul Auditoriu Alfredo Kraus.\n\nO zi activă cu briză marină și cele mai bune perspective asupra orașului.",
-        "en": "This bike tour connects the historic old town with the modern coastline. Starting in Vegueta, we pedal north along the ocean.\n\nThe flat coastal path leads us past the harbor to the historic Castillo de la Luz fortress.\n\nAfter a cultural stop, we relax at the famous Las Canteras beach before reaching the striking Alfredo Kraus Auditorium.\n\nAn active day filled with sea breeze and the best skyline views of the city."
+        "en": "This bike tour connects the historic old town with the modern coastline. Starting in Vegueta, we pedal north along the ocean.\n\nThe flat coastal path leads us past the harbor to the historic Castillo de la Luz fortress.\n\nAfter a cultural stop, we relax at the famous Las Canteras beach before reaching the striking Alfredo Kraus Auditorium.\n\nAn active day filled with sea breeze and the best skyline views of the city.",
+        "es": "Este recorrido en bici conecta el casco histórico con la moderna costa. Comenzando en Vegueta, pedaleamos hacia el norte junto al océano.\n\nEl camino costero, llano, nos lleva pasado el puerto hasta la histórica fortaleza del Castillo de la Luz.\n\nTras una parada cultural, nos relajamos en la famosa playa de Las Canteras antes de llegar al llamativo Auditorio Alfredo Kraus.\n\nUn día activo lleno de brisa marina y las mejores vistas del skyline de la ciudad."
       },
       "gastro_picks": {
         "de": [
@@ -506,6 +534,10 @@
         "en": [
           "Use the city's Sitycleta bike-sharing system.",
           "Watch out for pedestrians on shared pathways."
+        ],
+        "es": [
+          "Usa el sistema público de bicicletas Sitycleta de la ciudad.",
+          "Ten cuidado con los peatones en los tramos compartidos."
         ]
       }
     },
@@ -522,7 +554,8 @@
             "de": "Kathedrale Santa Ana",
             "hu": "Santa Ana-székesegyház",
             "ro": "Catedrala Santa Ana",
-            "en": "Catedral de Santa Ana"
+            "en": "Catedral de Santa Ana",
+            "es": "Catedral de Santa Ana"
           },
           "coords": [
             -15.415,
@@ -537,7 +570,8 @@
             "de": "Parken Sie im Parkhaus Mercado de Vegueta.",
             "hu": "Parkoljon a Mercado de Vegueta mélygarázsában.",
             "ro": "Parcați în parcarea Mercado de Vegueta.",
-            "en": "Park in the Mercado de Vegueta parking garage."
+            "en": "Park in the Mercado de Vegueta parking garage.",
+            "es": "Estaciona en el parking del Mercado de Vegueta."
           }
         },
         {
@@ -545,7 +579,8 @@
             "de": "Haus des Kolumbus",
             "hu": "Kolumbusz-ház",
             "ro": "Casa lui Columb",
-            "en": "Casa de Colón"
+            "en": "Casa de Colón",
+            "es": "Casa de Colón"
           },
           "coords": [
             -15.414,
@@ -560,7 +595,8 @@
             "de": "Ein Muss für Geschichtsinteressierte.",
             "hu": "Történelemkedvelőknek kötelező látnivaló.",
             "ro": "O vizită obligatorie pentru pasionații de istorie.",
-            "en": "A must-visit for history enthusiasts."
+            "en": "A must-visit for history enthusiasts.",
+            "es": "Imprescindible para los amantes de la historia."
           }
         },
         {
@@ -568,7 +604,8 @@
             "de": "Botanischer Garten Viera y Clavijo",
             "hu": "Viera y Clavijo botanikus kert",
             "ro": "Grădina Botanică Viera y Clavijo",
-            "en": "Jardín Botánico Viera y Clavijo"
+            "en": "Jardín Botánico Viera y Clavijo",
+            "es": "Jardín Botánico Viera y Clavijo"
           },
           "coords": [
             -15.4625,
@@ -583,7 +620,8 @@
             "de": "Spaniens größter botanischer Garten, etwas außerhalb.",
             "hu": "Spanyolország legnagyobb botanikus kertje, a városon kívül.",
             "ro": "Cea mai mare grădină botanică din Spania, situată în afara orașului.",
-            "en": "Spain's largest botanical garden, located just outside the city."
+            "en": "Spain's largest botanical garden, located just outside the city.",
+            "es": "El mayor jardín botánico de España, ubicado a las afueras de la ciudad."
           }
         },
         {
@@ -591,7 +629,8 @@
             "de": "Castillo de la Luz",
             "hu": "Fény vára",
             "ro": "Castelul Luminii",
-            "en": "Castillo de la Luz"
+            "en": "Castillo de la Luz",
+            "es": "Castillo de la Luz"
           },
           "coords": [
             -15.426,
@@ -606,7 +645,8 @@
             "de": "Parkplätze sind in Hafennähe vorhanden.",
             "hu": "A kikötő közelében vannak parkolóhelyek.",
             "ro": "Locurile de parcare sunt disponibile lângă port.",
-            "en": "Parking spaces are available near the harbor."
+            "en": "Parking spaces are available near the harbor.",
+            "es": "Hay plazas de aparcamiento disponibles cerca del puerto."
           }
         },
         {
@@ -614,7 +654,8 @@
             "de": "Las Canteras Strand",
             "hu": "Las Canteras strand",
             "ro": "Plaja Las Canteras",
-            "en": "Playa de Las Canteras"
+            "en": "Playa de Las Canteras",
+            "es": "Playa de Las Canteras"
           },
           "coords": [
             -15.435,
@@ -629,7 +670,8 @@
             "de": "Ideal für ein spätes Bad im Meer.",
             "hu": "Ideális egy késő délutáni fürdőzéshez.",
             "ro": "Ideal pentru o baie târzie în mare.",
-            "en": "Ideal for a late afternoon swim."
+            "en": "Ideal for a late afternoon swim.",
+            "es": "Ideal para un baño a última hora de la tarde."
           }
         }
       ],
@@ -637,7 +679,8 @@
         "de": "Mit dem Auto erkunden wir sowohl das historische Zentrum als auch die verborgene Naturpracht Gran Canarias. Nach Vegueta führt uns die Fahrt zum beeindruckenden Botanischen Garten.\n\nIn den Terrassen des Gartens erleben wir die endemische Flora der Kanaren in ihrer vollen Pracht.\n\nAnschließend kehren wir zum Hafenviertel zurück, um die alte Festung Castillo de la Luz zu besichtigen.\n\nDer Tag endet entspannt an der Nordküste der Stadt, wo wir den Sonnenuntergang am Las Canteras Strand genießen.",
         "hu": "Autóval felfedezzük mind a történelmi központot, mind Gran Canaria rejtett természeti szépségeit. Vegueta után a látványos botanikus kertbe autózunk.\n\nA kert teraszain megcsodálhatjuk a Kanári-szigetek egyedülálló flóráját.\n\nEzután visszatérünk a kikötőnegyedbe, hogy megtekintsük a Castillo de la Luz erődítményt.\n\nA napot a város északi partján zárjuk, élvezve a naplementét a Las Canteras strandon.",
         "ro": "Cu mașina, explorăm atât centrul istoric, cât și splendorile naturale ascunse ale insulei. După Vegueta, drumul ne poartă spre impresionanta Grădină Botanică.\n\nPe terasele grădinii, admirăm flora endemică a Canarelor în toată splendoarea ei.\n\nUlterior, revenim în zona portului pentru a vizita vechea fortăreață Castillo de la Luz.\n\nZiua se încheie relaxat pe coasta de nord a orașului, savurând apusul pe plaja Las Canteras.",
-        "en": "By car, we explore both the historic center and the hidden natural gems of Gran Canaria. After Vegueta, we drive to the stunning Botanical Garden.\n\nOn the garden's terraces, experience the unique endemic flora of the Canaries.\n\nThen, return to the port district to visit the historic Castillo de la Luz fortress.\n\nEnd the day relaxed on the city's northern shore, enjoying the sunset at Las Canteras beach."
+        "en": "By car, we explore both the historic center and the hidden natural gems of Gran Canaria. After Vegueta, we drive to the stunning Botanical Garden.\n\nOn the garden's terraces, experience the unique endemic flora of the Canaries.\n\nThen, return to the port district to visit the historic Castillo de la Luz fortress.\n\nEnd the day relaxed on the city's northern shore, enjoying the sunset at Las Canteras beach.",
+        "es": "En coche exploramos tanto el centro histórico como los tesoros naturales ocultos de Gran Canaria. Tras Vegueta, conducimos hasta el impresionante Jardín Botánico.\n\nEn las terrazas del jardín, experimenta la flora endémica única de las Canarias.\n\nLuego, volvemos al distrito portuario para visitar la histórica fortaleza del Castillo de la Luz.\n\nTermina el día relajado en la costa norte de la ciudad, disfrutando del atardecer en la playa de Las Canteras."
       },
       "gastro_picks": {
         "de": [
@@ -737,6 +780,10 @@
         "en": [
           "Parking can be tricky, prioritize using parking garages.",
           "The Botanical Garden closes promptly at 18:00."
+        ],
+        "es": [
+          "Aparcar puede ser complicado; prioriza el uso de parkings.",
+          "El Jardín Botánico cierra puntualmente a las 18:00."
         ]
       }
     },
@@ -753,7 +800,8 @@
             "de": "Vegueta (Altstadt)",
             "hu": "Vegueta (Óváros)",
             "ro": "Vegueta (Centrul vechi)",
-            "en": "Vegueta (Old Town)"
+            "en": "Vegueta (Old Town)",
+            "es": "Vegueta (Casco Antiguo)"
           },
           "coords": [
             -15.415,
@@ -768,7 +816,8 @@
             "de": "Nehmen Sie den gelben Stadtbus bis Haltestelle Vegueta.",
             "hu": "Szálljon fel a sárga városi buszra Vegueta megállóig.",
             "ro": "Luați autobuzul galben până la stația Vegueta.",
-            "en": "Take the yellow city bus to the Vegueta stop."
+            "en": "Take the yellow city bus to the Vegueta stop.",
+            "es": "Toma el autobús amarillo urbano hasta la parada de Vegueta."
           }
         },
         {
@@ -776,7 +825,8 @@
             "de": "Mercado de Vegueta",
             "hu": "Vegueta piac",
             "ro": "Piața Vegueta",
-            "en": "Vegueta Market"
+            "en": "Vegueta Market",
+            "es": "Mercado de Vegueta"
           },
           "coords": [
             -15.414,
@@ -791,7 +841,8 @@
             "de": "Zu Fuß erreichbar von der Kathedrale.",
             "hu": "Gyalogosan elérhető a katedrálistól.",
             "ro": "Accesibil pe jos de la catedrală.",
-            "en": "Within walking distance from the cathedral."
+            "en": "Within walking distance from the cathedral.",
+            "es": "A poca distancia a pie desde la catedral."
           }
         },
         {
@@ -799,7 +850,8 @@
             "de": "Castillo de la Luz",
             "hu": "Fény vára",
             "ro": "Castelul Luminii",
-            "en": "Castillo de la Luz"
+            "en": "Castillo de la Luz",
+            "es": "Castillo de la Luz"
           },
           "coords": [
             -15.426,
@@ -814,7 +866,8 @@
             "de": "Buslinie 1 oder 12 verbinden Vegueta mit dem Hafen.",
             "hu": "Az 1-es vagy 12-es busz köti össze Veguetát a kikötővel.",
             "ro": "Linia 1 sau 12 leagă Vegueta de port.",
-            "en": "Bus lines 1 or 12 connect Vegueta to the harbor."
+            "en": "Bus lines 1 or 12 connect Vegueta to the harbor.",
+            "es": "Las líneas de autobús 1 o 12 conectan Vegueta con el puerto."
           }
         },
         {
@@ -822,7 +875,8 @@
             "de": "Las Canteras Strand",
             "hu": "Las Canteras strand",
             "ro": "Plaja Las Canteras",
-            "en": "Playa de Las Canteras"
+            "en": "Playa de Las Canteras",
+            "es": "Playa de Las Canteras"
           },
           "coords": [
             -15.435,
@@ -837,7 +891,8 @@
             "de": "Vom Castillo nur ein kurzer Spaziergang zum Strand.",
             "hu": "A vártól rövid séta a strand.",
             "ro": "O scurtă plimbare de la castel până la plajă.",
-            "en": "A short walk from the castle to the beach."
+            "en": "A short walk from the castle to the beach.",
+            "es": "A corta distancia a pie desde el castillo hasta la playa."
           }
         },
         {
@@ -845,7 +900,8 @@
             "de": "Alfredo Kraus Auditorio",
             "hu": "Alfredo Kraus Auditórium",
             "ro": "Auditoriul Alfredo Kraus",
-            "en": "Auditorio Alfredo Kraus"
+            "en": "Auditorio Alfredo Kraus",
+            "es": "Auditorio Alfredo Kraus"
           },
           "coords": [
             -15.448,
@@ -860,7 +916,8 @@
             "de": "Spazieren Sie die gesamte Promenade entlang.",
             "hu": "Sétáljon végig a teljes tengerparti sétányon.",
             "ro": "Plimbați-vă pe întreaga lungime a falezei.",
-            "en": "Walk along the entire length of the promenade."
+            "en": "Walk along the entire length of the promenade.",
+            "es": "Camina a lo largo de todo el paseo marítimo."
           }
         }
       ],
@@ -868,7 +925,8 @@
         "de": "Nutzen Sie das effiziente Bussystem von Las Palmas, um die Stadt stressfrei zu erleben. Wir starten in der kolonialen Altstadt Vegueta.\n\nNach dem Marktbesuch bringt uns die 'Guagua' (Bus) in den Norden zum historischen Hafenviertel.\n\nDort erkunden wir die Isleta und entspannen am goldenen Sand von Las Canteras.\n\nDen Tag lassen wir am architektonisch beeindruckenden Auditorio Alfredo Kraus ausklingen, wo Stadtleben auf Meereswellen trifft.",
         "hu": "Használja Las Palmas hatékony buszhálózatát a stresszmentes városnézéshez. A koloniális Vegueta negyedben kezdjük a napot.\n\nA piac után a 'Guagua' (helyi busz) északra visz minket a történelmi kikötőnegyedbe.\n\nOtt felfedezzük a várat, majd pihenünk a Las Canteras aranyló homokján.\n\nA napot az építészetileg lenyűgöző Alfredo Kraus Auditóriumnál zárjuk, ahol a városi élet találkozik az óceán hullámaival.",
         "ro": "Folosiți sistemul eficient de autobuze din Las Palmas pentru o vizită fără stres. Începem în cartierul colonial Vegueta.\n\nDupă piață, 'Guagua' (autobuzul local) ne duce spre nord, în zona portului istoric.\n\nAcolo explorăm fortăreața și ne relaxăm pe nisipul auriu al plajei Las Canteras.\n\nÎncheiem ziua la impresionantul Auditoriu Alfredo Kraus, unde viața urbană se întâlnește cu valurile oceanului.",
-        "en": "Use the efficient bus system of Las Palmas to experience the city stress-free. Start in the colonial Old Town of Vegueta.\n\nAfter the market visit, the 'Guagua' (bus) takes us north to the historic harbor district.\n\nThere, we explore the fortress and relax on the golden sands of Las Canteras.\n\nEnd the day at the architecturally stunning Alfredo Kraus Auditorium, where city life meets the ocean waves."
+        "en": "Use the efficient bus system of Las Palmas to experience the city stress-free. Start in the colonial Old Town of Vegueta.\n\nAfter the market visit, the 'Guagua' (bus) takes us north to the historic harbor district.\n\nThere, we explore the fortress and relax on the golden sands of Las Canteras.\n\nEnd the day at the architecturally stunning Alfredo Kraus Auditorium, where city life meets the ocean waves.",
+        "es": "Usa el eficiente sistema de autobuses de Las Palmas para disfrutar la ciudad sin estrés. Comienza en el Vegueta colonial.\n\nTras la visita al mercado, la 'Guagua' nos lleva al norte, al histórico distrito portuario.\n\nAllí exploramos la fortaleza y nos relajamos en las arenas doradas de Las Canteras.\n\nTermina el día en el arquitectónico Auditorio Alfredo Kraus, donde la vida urbana se encuentra con las olas del mar."
       },
       "gastro_picks": {
         "de": [
@@ -968,6 +1026,10 @@
         "en": [
           "Buy a 'Bono' card for cheaper fares.",
           "Yellow buses are for the city, blue ones for the whole island."
+        ],
+        "es": [
+          "Compra una tarjeta 'Bono' para tarifas más baratas.",
+          "Los autobuses amarillos son urbanos; los azules cubren toda la isla."
         ]
       }
     }

@@ -31,7 +31,8 @@
             "de": "Beobachten Sie das Einlaufen der Fähren.",
             "hu": "Nézze meg a kompok érkezését.",
             "ro": "Priviți feriboturile care intră în port.",
-            "en": "Watch the ferries coming into the harbor."
+            "en": "Watch the ferries coming into the harbor.",
+            "es": "Observa los ferris entrando al puerto."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Eine charmante Kirche im Zentrum.",
             "hu": "Bájos templom a központban.",
             "ro": "O biserică fermecătoare în centru.",
-            "en": "A charming church in the center."
+            "en": "A charming church in the center.",
+            "es": "Una encantadora iglesia en el centro."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Architektonisch interessantes Gebäude.",
             "hu": "Építészetileg érdekes épület.",
             "ro": "O clădire interesantă din punct de vedere arhitectural.",
-            "en": "Architecturally interesting building."
+            "en": "Architecturally interesting building.",
+            "es": "Edificio de interés arquitectónico."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Kristallklares Wasser und goldener Sand.",
             "hu": "Kristálytiszta víz és arany homok.",
             "ro": "Apă cristalină și nisip auriu.",
-            "en": "Crystal clear water and golden sand."
+            "en": "Crystal clear water and golden sand.",
+            "es": "Agua cristalina y arena dorada."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Viele Cafés für eine Nachmittagspause.",
             "hu": "Számos kávézó délutáni pihenéshez.",
             "ro": "Multe cafenele pentru o pauză de după-amiază.",
-            "en": "Many cafes for an afternoon break."
+            "en": "Many cafes for an afternoon break.",
+            "es": "Muchos cafés para una pausa vespertina."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Beobachten Sie den Sonnenuntergang.",
             "hu": "Nézze meg a naplementét.",
             "ro": "Priviți apusul.",
-            "en": "Watch the sunset here."
+            "en": "Watch the sunset here.",
+            "es": "Mira la puesta de sol aquí."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Genießen Sie das einstige Fischerdorf zu Fuß. Starten Sie am geschäftigen Hafen und besuchen Sie die Kirche del Carmen. Nach einem kulturellen Stopp verbringen Sie den Mittag am weitläufigen Strand Las Vistas. Ein Spaziergang über die Promenade führt Sie zurück zum Hauptstrand der Stadt für einen entspannten Abend.",
         "hu": "Élvezze gyalogosan az egykori halászfalut. Kezdjen a nyüzsgő kikötőben, majd látogassa meg a Carmen templomot. Egy kulturális megálló után töltse a délutánt a tágas Las Vistas strandon. A tengerparti sétányon visszatérhet a város fő strandjára egy pihentető estére.",
         "ro": "Bucurați-vă de fostul sat de pescari la pas. Începeți în portul aglomerat și vizitați biserica del Carmen. După o oprire culturală, petreceți amiaza pe plaja spațioasă Las Vistas. O plimbare pe faleză vă duce înapoi spre plaja principală a orașului pentru o seară relaxantă.",
-        "en": "Enjoy the former fishing village on foot. Start at the bustling harbor and visit the del Carmen church. After a cultural stop, spend midday at the expansive Las Vistas beach. A walk along the promenade leads you back to the city's main beach for a relaxed evening."
+        "en": "Enjoy the former fishing village on foot. Start at the bustling harbor and visit the del Carmen church. After a cultural stop, spend midday at the expansive Las Vistas beach. A walk along the promenade leads you back to the city's main beach for a relaxed evening.",
+        "es": "Disfruta del antiguo pueblo pesquero a pie. Empieza en el bullicioso puerto y visita la iglesia del Carmen. Tras una parada cultural, pasa el mediodía en la extensa playa de Las Vistas. Un paseo por el paseo marítimo te lleva de vuelta a la playa principal de la ciudad para una tarde relajada."
       },
       "gastro_picks": {
         "de": [
@@ -229,6 +236,10 @@
         "en": [
           "Las Vistas is more sheltered from wind than other beaches.",
           "Book whale watching tours at the harbor."
+        ],
+        "es": [
+          "Las Vistas está más resguardada del viento que otras playas.",
+          "Reserva excursiones de avistamiento de cetáceos en el puerto."
         ]
       },
       "variants": {
@@ -237,7 +248,8 @@
             "de": "Genießen Sie das einstige Fischerdorf zu Fuß. Starten Sie am geschäftigen Hafen und besuchen Sie die Kirche del Carmen. Nach einem kulturellen Stopp verbringen Sie den Mittag am weitläufigen Strand Las Vistas. Ein Spaziergang über die Promenade führt Sie zurück zum Hauptstrand der Stadt für einen entspannten Abend.",
             "hu": "Élvezze gyalogosan az egykori halászfalut. Kezdjen a nyüzsgő kikötőben, majd látogassa meg a Carmen templomot. Egy kulturális megálló után töltse a délutánt a tágas Las Vistas strandon. A tengerparti sétányon visszatérhet a város fő strandjára egy pihentető estére.",
             "ro": "Bucurați-vă de fostul sat de pescari la pas. Începeți în portul aglomerat și vizitați biserica del Carmen. După o oprire culturală, petreceți amiaza pe plaja spațioasă Las Vistas. O plimbare pe faleză vă duce înapoi spre plaja principală a orașului pentru o seară relaxantă.",
-            "en": "Enjoy the former fishing village on foot. Start at the bustling harbor and visit the del Carmen church. After a cultural stop, spend midday at the expansive Las Vistas beach. A walk along the promenade leads you back to the city's main beach for a relaxed evening."
+            "en": "Enjoy the former fishing village on foot. Start at the bustling harbor and visit the del Carmen church. After a cultural stop, spend midday at the expansive Las Vistas beach. A walk along the promenade leads you back to the city's main beach for a relaxed evening.",
+            "es": "Disfruta del antiguo pueblo pesquero a pie. Empieza en el bullicioso puerto y visita la iglesia del Carmen. Tras una parada cultural, pasa el mediodía en la extensa playa de Las Vistas. Un paseo por el paseo marítimo te lleva de vuelta a la playa principal de la ciudad para una tarde relajada."
           },
           "stops": [
             {
@@ -246,7 +258,8 @@
                 "de": "Beobachten Sie das Einlaufen der Fähren.",
                 "hu": "Nézze meg a kompok érkezését.",
                 "ro": "Priviți feriboturile care intră în port.",
-                "en": "Watch the ferries coming into the harbor."
+                "en": "Watch the ferries coming into the harbor.",
+                "es": "Observa los ferris entrando al puerto."
               }
             },
             {
@@ -255,7 +268,8 @@
                 "de": "Eine charmante Kirche im Zentrum.",
                 "hu": "Bájos templom a központban.",
                 "ro": "O biserică fermecătoare în centru.",
-                "en": "A charming church in the center."
+                "en": "A charming church in the center.",
+                "es": "Una encantadora iglesia en el centro."
               }
             },
             {
@@ -264,7 +278,8 @@
                 "de": "Architektonisch interessantes Gebäude.",
                 "hu": "Építészetileg érdekes épület.",
                 "ro": "O clădire interesantă din punct de vedere arhitectural.",
-                "en": "Architecturally interesting building."
+                "en": "Architecturally interesting building.",
+                "es": "Edificio de interés arquitectónico."
               }
             },
             {
@@ -273,7 +288,8 @@
                 "de": "Kristallklares Wasser und goldener Sand.",
                 "hu": "Kristálytiszta víz és arany homok.",
                 "ro": "Apă cristalină și nisip auriu.",
-                "en": "Crystal clear water and golden sand."
+                "en": "Crystal clear water and golden sand.",
+                "es": "Agua cristalina y arena dorada."
               }
             },
             {
@@ -282,7 +298,8 @@
                 "de": "Viele Cafés für eine Nachmittagspause.",
                 "hu": "Számos kávézó délutáni pihenéshez.",
                 "ro": "Multe cafenele pentru o pauză de după-amiază.",
-                "en": "Many cafes for an afternoon break."
+                "en": "Many cafes for an afternoon break.",
+                "es": "Muchos cafés para una pausa vespertina."
               }
             },
             {
@@ -291,7 +308,8 @@
                 "de": "Beobachten Sie den Sonnenuntergang.",
                 "hu": "Nézze meg a naplementét.",
                 "ro": "Priviți apusul.",
-                "en": "Watch the sunset here."
+                "en": "Watch the sunset here.",
+                "es": "Mira la puesta de sol aquí."
               }
             }
           ],
@@ -393,6 +411,10 @@
             "en": [
               "Las Vistas is more sheltered from wind than other beaches.",
               "Book whale watching tours at the harbor."
+            ],
+            "es": [
+              "Las Vistas está más resguardada del viento que otras playas.",
+              "Reserva excursiones de avistamiento de cetáceos en el puerto."
             ]
           }
         },
@@ -401,7 +423,8 @@
             "de": "Morgens am Hafen bieten die Cafés Schutz vor dem Regen. Mittags besuchen wir die Iglesia del Carmen für einen Moment der Stille im Trockenen. Nachmittags ist das Kulturzentrum der ideale Rückzugsort mit Ausstellungen. Den Abend lassen wir trotz Regen gemütlich an der Promenade unter Markisen ausklingen.",
             "hu": "Reggel a kikötő kávézói nyújtanak menedéket az eső elől. Délben az Iglesia del Carmen templom csendjében maradhatunk szárazon. Délután a Kulturális Központ kiállításai jelentenek tökéletes benti programot. Az estét az eső ellenére a tengerparti sétány fedett teraszain zárjuk, élvezve a viharos tenger látványát.",
             "ro": "Dimineața, cafenelele din port oferă adăpost împotriva ploii. La prânz, Iglesia del Carmen este locul ideal pentru un moment de liniște la uscat. După-amiaza, centrul cultural este refugiul perfect cu expozițiile sale. Seara se încheie plăcut pe faleză, sub copertinele teraselor, ascultând sunetul ploii pe mare.",
-            "en": "In the morning, harbor cafes provide shelter from the rain. At noon, the Iglesia del Carmen offers a dry and peaceful retreat. The afternoon is best spent exploring exhibitions at the Cultural Centre. End the evening comfortably under the awnings of the promenade, enjoying the atmosphere of the rainy coast."
+            "en": "In the morning, harbor cafes provide shelter from the rain. At noon, the Iglesia del Carmen offers a dry and peaceful retreat. The afternoon is best spent exploring exhibitions at the Cultural Centre. End the evening comfortably under the awnings of the promenade, enjoying the atmosphere of the rainy coast.",
+            "es": "Por la mañana, los cafés del puerto ofrecen refugio de la lluvia. Al mediodía, la Iglesia del Carmen es un refugio seco y tranquilo. La tarde es ideal para explorar exposiciones en el Centro Cultural. Termina la noche cómodamente bajo los toldos del paseo, disfrutando de la ambientación de la costa lluviosa."
           },
           "stops": [
             {
@@ -410,7 +433,8 @@
                 "de": "Nutzen Sie das überdachte Hafenterminal als Unterstand.",
                 "hu": "Használja a fedett kompkikötő terminálját várakozásra.",
                 "ro": "Folosiți terminalul acoperit al portului pentru adăpost.",
-                "en": "Use the covered ferry terminal building for shelter."
+                "en": "Use the covered ferry terminal building for shelter.",
+                "es": "Utiliza el edificio cubierto de la terminal de ferris como refugio."
               }
             },
             {
@@ -419,7 +443,8 @@
                 "de": "Ein ruhiger, trockener Ort während eines Regenschauers.",
                 "hu": "Csendes, száraz hely egy hirtelen zápor idején.",
                 "ro": "Un loc liniștit și uscat în timpul unei averse.",
-                "en": "A quiet, dry sanctuary during a sudden downpour."
+                "en": "A quiet, dry sanctuary during a sudden downpour.",
+                "es": "Un santuario tranquilo y seco durante un chaparrón repentino."
               }
             },
             {
@@ -428,7 +453,8 @@
                 "de": "Bestes Schlechtwetterprogramm mit Innenräumen und Cafeteria.",
                 "hu": "A legjobb esőnapos program beltéri terekkel és kávézóval.",
                 "ro": "Cea mai bună opțiune pentru vreme rea, cu spații interioare.",
-                "en": "Best bad-weather option with indoor spaces and a cafe."
+                "en": "Best bad-weather option with indoor spaces and a cafe.",
+                "es": "Mejor opción con espacios interiores y una cafetería."
               }
             },
             {
@@ -437,7 +463,8 @@
                 "de": "Die Restaurants hinter dem Strand sind perfekt bei Regen.",
                 "hu": "A strand mögötti éttermek tökéletesek esőben.",
                 "ro": "Restaurantele din spatele plajei sunt perfecte pe ploaie.",
-                "en": "The restaurants behind the beach are perfect for shelter."
+                "en": "The restaurants behind the beach are perfect for shelter.",
+                "es": "Los restaurantes tras la playa son perfectos como refugio."
               }
             },
             {
@@ -446,7 +473,8 @@
                 "de": "Vorsicht, die Fliesen können bei Nässe rutschig sein.",
                 "hu": "Vigyázat, a járólapok nedvesen csúszósak lehetnek.",
                 "ro": "Atenție, plăcile de pavaj pot fi alunecoase când sunt ude.",
-                "en": "Caution, the tiles can be slippery when wet."
+                "en": "Caution, the tiles can be slippery when wet.",
+                "es": "Precaución: las baldosas pueden volverse resbaladizas con la lluvia."
               }
             },
             {
@@ -455,7 +483,8 @@
                 "de": "Genießen Sie den Blick auf das Meer von einer Bar aus.",
                 "hu": "Élvezze a tenger látványát egy fedett bárból.",
                 "ro": "Bucurați-vă de vederea la mare de la un bar acoperit.",
-                "en": "Enjoy the ocean view from a covered beach bar."
+                "en": "Enjoy the ocean view from a covered beach bar.",
+                "es": "Disfruta de la vista al mar desde un chiringuito cubierto."
               }
             }
           ],
@@ -487,6 +516,13 @@
               "Use the time for souvenir shopping under the covered arcades.",
               "Avoid unprotected piers during periods of high wind.",
               "Umbrellas are often impractical due to gusty coastal winds."
+            ],
+            "es": [
+              "Lleva un chubasquero ligero, la temperatura se mantiene cálida.",
+              "Las baldosas lisas cerca del puerto se vuelven muy resbaladizas.",
+              "Aprovecha para comprar recuerdos bajo los arcos cubiertos.",
+              "Evita los muelles sin protección durante periodos de viento fuerte.",
+              "Los paraguas suelen ser poco prácticos por las rachas de viento costero."
             ]
           }
         },
@@ -495,7 +531,8 @@
             "de": "Der Wintermorgen am Hafen ist mild und perfekt für einen Spaziergang. Mittags wärmt die Sonne in der Altstadt bei der Kirche. Nachmittags bietet das Kulturzentrum angenehmen Schatten, bevor wir den frühen Sonnenuntergang an der Playa de Las Vistas erleben. Ein herrlicher Tag bei frühlingshaften Temperaturen.",
             "hu": "A téli reggel a kikötőben enyhe, tökéletes a sétához. Délben a nap kellemesen melegíti az óvárost a templom körül. Délután a Kulturális Központ hűvösebb falai közé húzódunk, majd korán élvezzük a naplementét a Playa de Las Vistas partján. Csodás nap tavaszi hőmérsékletben.",
             "ro": "Dimineața de iarnă în port este blândă, perfectă pentru plimbare. La prânz, soarele încălzește plăcut centrul vechi de lângă biserică. După-amiaza oferă răcoare la centrul cultural, înainte de a vedea apusul timpuriu la Playa de Las Vistas. O zi superbă cu temperaturi de primăvară.",
-            "en": "The winter morning at the harbor is mild and ideal for walking. At noon, the sun warms the old town area around the church. The afternoon is pleasant at the cultural center, followed by an early but stunning sunset at Playa de Las Vistas. A wonderful day with spring-like temperatures."
+            "en": "The winter morning at the harbor is mild and ideal for walking. At noon, the sun warms the old town area around the church. The afternoon is pleasant at the cultural center, followed by an early but stunning sunset at Playa de Las Vistas. A wonderful day with spring-like temperatures.",
+            "es": "La mañana de invierno en el puerto es templada e ideal para pasear. Al mediodía, el sol calienta el casco antiguo alrededor de la iglesia. La tarde es agradable en el centro cultural, seguida de una puesta de sol temprana pero espectacular en la playa de Las Vistas. Un día maravilloso con temperaturas primaverales."
           },
           "stops": [
             {
@@ -504,7 +541,8 @@
                 "de": "Beste Zeit für Walbeobachtungen ist im Winter.",
                 "hu": "A téli időszak a legjobb a bálnalesre.",
                 "ro": "Iarna este cea mai bună perioadă pentru observarea balenelor.",
-                "en": "Winter is the prime time for whale watching tours."
+                "en": "Winter is the prime time for whale watching tours.",
+                "es": "El invierno es la mejor época para las excursiones de avistamiento de cetáceos."
               }
             },
             {
@@ -513,7 +551,8 @@
                 "de": "Der Vorplatz ist mittags ein herrlicher Sonnenfang.",
                 "hu": "A templom előtti tér délben igazi napcsapda.",
                 "ro": "Piața din fața bisericii este ideală pentru soare la prânz.",
-                "en": "The square in front is a great sun trap at noon."
+                "en": "The square in front is a great sun trap at noon.",
+                "es": "La plaza delantera es un gran sumidero de sol al mediodía."
               }
             },
             {
@@ -522,7 +561,8 @@
                 "de": "Prüfen Sie das Programm für winterliche Kulturveranstaltungen.",
                 "hu": "Nézze meg a téli kulturális események naptárát.",
                 "ro": "Verificați calendarul pentru evenimente culturale de iarnă.",
-                "en": "Check the schedule for special winter cultural events."
+                "en": "Check the schedule for special winter cultural events.",
+                "es": "Consulta la programación por si hay eventos culturales especiales en invierno."
               }
             },
             {
@@ -531,7 +571,8 @@
                 "de": "Sonnenuntergang ist im Winter bereits gegen 18:15 Uhr.",
                 "hu": "A naplemente télen már 18:15 körül bekövetkezik.",
                 "ro": "Apusul are loc deja în jurul orei 18:15 iarna.",
-                "en": "Sunset occurs early in winter, around 6:15 PM."
+                "en": "Sunset occurs early in winter, around 6:15 PM.",
+                "es": "La puesta de sol ocurre temprano en invierno, alrededor de las 18:15."
               }
             },
             {
@@ -540,7 +581,8 @@
                 "de": "Abends wird es durch den Seewind spürbar kühler.",
                 "hu": "Este a tengeri szél miatt érezhetően hűvösebb lesz.",
                 "ro": "Seara se face considerabil mai răcoare din cauza brizei.",
-                "en": "It gets noticeably cooler in the evening due to sea breeze."
+                "en": "It gets noticeably cooler in the evening due to sea breeze.",
+                "es": "Por la noche se nota el descenso de temperatura por la brisa marina."
               }
             },
             {
@@ -549,7 +591,8 @@
                 "de": "Das Wasser ist mit ca. 19°C noch für Mutige geeignet.",
                 "hu": "A víz kb. 19 fokos, a bátrabbak még fürödhetnek.",
                 "ro": "Apa are aprox. 19°C, încă potrivită pentru cei curajoși.",
-                "en": "The water is about 19°C, still okay for a quick dip."
+                "en": "The water is about 19°C, still okay for a quick dip.",
+                "es": "El agua está alrededor de 19 °C, todavía apta para un chapuzón rápido."
               }
             }
           ],
@@ -581,6 +624,13 @@
               "UV radiation is still high in the Canaries during winter.",
               "Beaches are much less crowded and more relaxing than in summer.",
               "Schedule outdoor activities before the early sunset."
+            ],
+            "es": [
+              "Aprovecha el sol del mediodía; es muy agradable en invierno.",
+              "Después de las 17:30 necesitarás una chaqueta ligera o un jersey.",
+              "La radiación UV sigue siendo alta en Canarias durante el invierno.",
+              "Las playas están mucho menos concurridas y son más relajantes que en verano.",
+              "Programa actividades al aire libre antes del temprano ocaso."
             ]
           }
         }
@@ -609,7 +659,8 @@
             "de": "Ebene Strecke entlang der Küste.",
             "hu": "Sík terep a part mentén.",
             "ro": "Traseu plat de-a lungul coastei.",
-            "en": "Flat route along the coast."
+            "en": "Flat route along the coast.",
+            "es": "Ruta llana junto a la costa."
           }
         },
         {
@@ -627,7 +678,8 @@
             "de": "Anspruchsvolle Auffahrt mit toller Sicht.",
             "hu": "Kihívást jelentő emelkedő remek kilátással.",
             "ro": "Urcare solicitantă cu o vedere excelentă.",
-            "en": "Challenging climb with great views."
+            "en": "Challenging climb with great views.",
+            "es": "Subida exigente con vistas estupendas."
           }
         },
         {
@@ -645,7 +697,8 @@
             "de": "Gute Fahrradständer am westlichen Ende.",
             "hu": "Jó kerékpártárolók a nyugati végen.",
             "ro": "Suporturi bune pentru biciclete la capătul de vest.",
-            "en": "Good bike racks at the western end."
+            "en": "Good bike racks at the western end.",
+            "es": "Buenos aparcabicis en el extremo oeste."
           }
         },
         {
@@ -663,7 +716,8 @@
             "de": "Beobachten Sie das bunte Treiben.",
             "hu": "Figyelje a színes nyüzsgést.",
             "ro": "Observați agitația colorată.",
-            "en": "Watch the colorful hustle and bustle."
+            "en": "Watch the colorful hustle and bustle.",
+            "es": "Observa el colorido trajín."
           }
         },
         {
@@ -681,7 +735,8 @@
             "de": "Entspanntes Ende der Tour.",
             "hu": "A túra pihentető lezárása.",
             "ro": "Sfârșit relaxant al turului.",
-            "en": "Relaxing end to the tour."
+            "en": "Relaxing end to the tour.",
+            "es": "Final relajante para la ruta."
           }
         }
       ],
@@ -689,7 +744,8 @@
         "de": "Diese Tour verbindet Strandpromenaden mit einem Hauch Abenteuer. Radeln Sie den Paseo Marítimo entlang, bevor Sie den Aufstieg zum Guaza-Berg wagen. Belohnen Sie sich mit einem langen Badestopp am Las Vistas Strand. Den Nachmittag verbringen Sie entspannt am Hafen und beim Kulturzentrum.",
         "hu": "Ez a túra ötvözi a tengerparti sétányokat egy kis kalanddal. Tekerjen végig a Paseo Marítimo-n, mielőtt nekivágna a Guaza-hegy megmászásának. Jutalmazza meg magát egy hosszú fürdőzéssel a Las Vistas strandon. A délutánt töltse pihentetően a kikötőnél és a kulturális központnál.",
         "ro": "Acest tur îmbină falezele cu un strop de aventură. Pedalați pe Paseo Marítimo înainte de a urca pe muntele Guaza. Recompensați-vă cu o pauză lungă de înot pe plaja Las Vistas. Petreceți după-amiaza relaxat în port și la centrul cultural.",
-        "en": "This tour combines beach promenades with a touch of adventure. Cycle along Paseo Marítimo before tackling the climb to Guaza Mountain. Reward yourself with a long swim at Las Vistas Beach. Spend a relaxed afternoon by the harbor and the cultural center."
+        "en": "This tour combines beach promenades with a touch of adventure. Cycle along Paseo Marítimo before tackling the climb to Guaza Mountain. Reward yourself with a long swim at Las Vistas Beach. Spend a relaxed afternoon by the harbor and the cultural center.",
+        "es": "Este recorrido combina paseos marítimos con un toque de aventura. Pedalea por el Paseo Marítimo antes de afrontar la subida a Montaña de Guaza. Date un buen baño en Playa de Las Vistas. Pasa la tarde relajado junto al puerto y el centro cultural."
       },
       "gastro_picks": {
         "de": [
@@ -789,6 +845,10 @@
         "en": [
           "The path to Guaza Mountain is rocky.",
           "Avoid the midday sun during the climb."
+        ],
+        "es": [
+          "El sendero hacia Montaña de Guaza es pedregoso.",
+          "Evita el sol del mediodía durante la subida."
         ]
       },
       "variants": {
@@ -797,7 +857,8 @@
             "de": "Diese Tour verbindet Strandpromenaden mit einem Hauch Abenteuer. Radeln Sie den Paseo Marítimo entlang, bevor Sie den Aufstieg zum Guaza-Berg wagen. Belohnen Sie sich mit einem langen Badestopp am Las Vistas Strand. Den Nachmittag verbringen Sie entspannt am Hafen und beim Kulturzentrum.",
             "hu": "Ez a túra ötvözi a tengerparti sétányokat egy kis kalanddal. Tekerjen végig a Paseo Marítimo-n, mielőtt nekivágna a Guaza-hegy megmászásának. Jutalmazza meg magát egy hosszú fürdőzéssel a Las Vistas strandon. A délutánt töltse pihentetően a kikötőnél és a kulturális központnál.",
             "ro": "Acest tur îmbină falezele cu un strop de aventură. Pedalați pe Paseo Marítimo înainte de a urca pe muntele Guaza. Recompensați-vă cu o pauză lungă de înot pe plaja Las Vistas. Petreceți după-amiaza relaxat în port și la centrul cultural.",
-            "en": "This tour combines beach promenades with a touch of adventure. Cycle along Paseo Marítimo before tackling the climb to Guaza Mountain. Reward yourself with a long swim at Las Vistas Beach. Spend a relaxed afternoon by the harbor and the cultural center."
+            "en": "This tour combines beach promenades with a touch of adventure. Cycle along Paseo Marítimo before tackling the climb to Guaza Mountain. Reward yourself with a long swim at Las Vistas Beach. Spend a relaxed afternoon by the harbor and the cultural center.",
+            "es": "Este recorrido combina paseos marítimos con un toque de aventura. Pedalea por el Paseo Marítimo antes de afrontar la subida a Montaña de Guaza. Date un buen baño en Playa de Las Vistas. Pasa la tarde relajado junto al puerto y el centro cultural."
           },
           "stops": [
             {
@@ -806,7 +867,8 @@
                 "de": "Ebene Strecke entlang der Küste.",
                 "hu": "Sík terep a part mentén.",
                 "ro": "Traseu plat de-a lungul coastei.",
-                "en": "Flat route along the coast."
+                "en": "Flat route along the coast.",
+                "es": "Ruta llana junto a la costa."
               }
             },
             {
@@ -815,7 +877,8 @@
                 "de": "Anspruchsvolle Auffahrt mit toller Sicht.",
                 "hu": "Kihívást jelentő emelkedő remek kilátással.",
                 "ro": "Urcare solicitantă cu o vedere excelentă.",
-                "en": "Challenging climb with great views."
+                "en": "Challenging climb with great views.",
+                "es": "Subida exigente con vistas estupendas."
               }
             },
             {
@@ -824,7 +887,8 @@
                 "de": "Gute Fahrradständer am westlichen Ende.",
                 "hu": "Jó kerékpártárolók a nyugati végen.",
                 "ro": "Suporturi bune pentru biciclete la capătul de vest.",
-                "en": "Good bike racks at the western end."
+                "en": "Good bike racks at the western end.",
+                "es": "Buenos aparcabicis en el extremo oeste."
               }
             },
             {
@@ -833,7 +897,8 @@
                 "de": "Beobachten Sie das bunte Treiben.",
                 "hu": "Figyelje a színes nyüzsgést.",
                 "ro": "Observați agitația colorată.",
-                "en": "Watch the colorful hustle and bustle."
+                "en": "Watch the colorful hustle and bustle.",
+                "es": "Observa el colorido trajín."
               }
             },
             {
@@ -842,7 +907,8 @@
                 "de": "Entspanntes Ende der Tour.",
                 "hu": "A túra pihentető lezárása.",
                 "ro": "Sfârșit relaxant al turului.",
-                "en": "Relaxing end to the tour."
+                "en": "Relaxing end to the tour.",
+                "es": "Final relajante para la ruta."
               }
             }
           ],
@@ -944,6 +1010,10 @@
             "en": [
               "The path to Guaza Mountain is rocky.",
               "Avoid the midday sun during the climb."
+            ],
+            "es": [
+              "El sendero hacia Montaña de Guaza es pedregoso.",
+              "Evita el sol del mediodía durante la subida."
             ]
           }
         },
@@ -952,7 +1022,8 @@
             "de": "Wir starten vorsichtig auf der nassen Promenade. Mittags meiden wir den schlammigen Aufstieg zum Montaña de Guaza und bleiben auf Asphalt. Nachmittags suchen wir Schutz am Hafen, bevor wir den Tag im trockenen Kulturzentrum beenden. Eine sportliche Tour mit Fokus auf Sicherheit.",
             "hu": "Óvatosan indulunk a vizes sétányon. Délben elkerüljük a Montaña de Guaza sáros ösvényeit, és az aszfalton maradunk. Délután a kikötőben keresünk menedéket, majd a napot a száraz Kulturális Központban zárjuk. Sportos túra, ahol a biztonság az első.",
             "ro": "Pornim cu prudență pe faleza udă. La prânz evităm potecile noroioase de pe Montaña de Guaza și rămânem pe asfalt. După-amiaza căutăm adăpost în port, înainte de a încheia ziua la centrul cultural uscat. O tură sportivă axată pe siguranță.",
-            "en": "We start carefully on the wet promenade. At noon, we avoid the muddy trails of Montaña de Guaza and stick to paved roads. In the afternoon, we seek shelter at the harbor before ending the day at the dry Cultural Centre. A sporty ride with a focus on safety."
+            "en": "We start carefully on the wet promenade. At noon, we avoid the muddy trails of Montaña de Guaza and stick to paved roads. In the afternoon, we seek shelter at the harbor before ending the day at the dry Cultural Centre. A sporty ride with a focus on safety.",
+            "es": "Comenzamos con cuidado en el paseo húmedo. Al mediodía evitamos las pistas embarradas de Montaña de Guaza y nos ceñimos a carreteras pavimentadas. Por la tarde buscamos refugio en el puerto antes de terminar el día en el seco Centro Cultural. Ruta deportiva con enfoque en la seguridad."
           },
           "stops": [
             {
@@ -961,7 +1032,8 @@
                 "de": "Vermeiden Sie scharfe Bremsmanöver auf den nassen Fliesen.",
                 "hu": "Kerülje az erős fékezést a vizes járólapokon.",
                 "ro": "Evitați frânările bruște pe dalele umede.",
-                "en": "Avoid hard braking on the wet promenade tiles."
+                "en": "Avoid hard braking on the wet promenade tiles.",
+                "es": "Evita frenar bruscamente en losetas húmedas del paseo."
               }
             },
             {
@@ -970,7 +1042,8 @@
                 "de": "Die Schotterwege können bei Regen sehr rutschig sein.",
                 "hu": "A murvás utak esőben nagyon csúszóssá válhatnak.",
                 "ro": "Drumurile cu pietriș pot fi foarte alunecoase pe ploaie.",
-                "en": "Gravel paths can be very slippery during rain."
+                "en": "Gravel paths can be very slippery during rain.",
+                "es": "Los caminos de grava pueden ser muy resbaladizos con lluvia."
               }
             },
             {
@@ -979,7 +1052,8 @@
                 "de": "Stellen Sie Ihr Rad unter einem Vordach der Cafés ab.",
                 "hu": "Parkolja le a kerékpárt a kávézók előtetői alatt.",
                 "ro": "Parcați bicicleta sub copertinele cafenelelor.",
-                "en": "Park your bike under the cafe awnings for protection."
+                "en": "Park your bike under the cafe awnings for protection.",
+                "es": "Estaciona la bici bajo los toldos de los cafés para protegerla."
               }
             },
             {
@@ -988,7 +1062,8 @@
                 "de": "Nutzen Sie die Wartehallen als trockenen Rastplatz.",
                 "hu": "Használja a várótermeket száraz pihenőhelyként.",
                 "ro": "Folosiți sălile de așteptare ca loc de odihnă uscat.",
-                "en": "Use the waiting halls as a dry resting spot."
+                "en": "Use the waiting halls as a dry resting spot.",
+                "es": "Usa las salas de espera como zona seca para descansar."
               }
             },
             {
@@ -997,7 +1072,8 @@
                 "de": "Sichere Fahrradständer befinden sich direkt am Eingang.",
                 "hu": "Biztonságos kerékpártárolók vannak közvetlenül a bejáratnál.",
                 "ro": "Suporturile de biciclete sunt chiar lângă intrare.",
-                "en": "Secure bike racks are located right by the entrance."
+                "en": "Secure bike racks are located right by the entrance.",
+                "es": "Aparcabicis seguros están situados junto a la entrada."
               }
             }
           ],
@@ -1029,6 +1105,13 @@
               "Wear bright, waterproof clothing for better visibility.",
               "Coastal winds can make steering difficult during a storm.",
               "Shorten your route if the rain becomes too heavy."
+            ],
+            "es": [
+              "Revisa los frenos a fondo antes de rodar bajo la lluvia.",
+              "Evita los charcos, pueden ocultar baches profundos.",
+              "Lleva ropa impermeable y de colores llamativos para mejor visibilidad.",
+              "Los vientos costeros pueden dificultar el manejo durante una tormenta.",
+              "Acorta la ruta si la lluvia se vuelve intensa."
             ]
           }
         },
@@ -1037,7 +1120,8 @@
             "de": "Ein herrlicher Wintermorgen für eine Radtour an der Küste. Mittags ist der Aufstieg zum Montaña de Guaza bei milden Temperaturen viel angenehmer als im Sommer. Nachmittags genießen wir die Sonne an der Playa de Las Vistas, bevor wir zum Hafen und Kulturzentrum zurückkehren. Perfektes Sportwetter.",
             "hu": "Csodás téli reggel egy tengerparti kerékpározáshoz. Délben a Montaña de Guaza megmászása az enyhe időben sokkal kellemesebb, mint nyáron. Délután a Playa de Las Vistas partján élvezzük a napsütést, majd visszatérünk a kikötőbe. Tökéletes sportidő.",
             "ro": "O dimineață de iarnă superbă pentru o tură pe coastă. La prânz, urcarea pe Montaña de Guaza este mult mai plăcută datorită temperaturilor blânde. După-amiaza ne bucurăm de soare la Playa de Las Vistas, apoi revenim în port. Vreme perfectă pentru sport.",
-            "en": "A magnificent winter morning for a bike ride along the coast. At noon, the climb to Montaña de Guaza is much more pleasant in the mild air than in summer. In the afternoon, we enjoy the sun at Playa de Las Vistas before heading back via the harbor. Perfect sports weather."
+            "en": "A magnificent winter morning for a bike ride along the coast. At noon, the climb to Montaña de Guaza is much more pleasant in the mild air than in summer. In the afternoon, we enjoy the sun at Playa de Las Vistas before heading back via the harbor. Perfect sports weather.",
+            "es": "Una magnífica mañana de invierno para pedalear por la costa. Al mediodía la subida a Montaña de Guaza es mucho más agradable con el aire templado que en verano. Por la tarde disfrutamos del sol en Playa de Las Vistas antes de regresar por el puerto. Perfecto tiempo deportivo."
           },
           "stops": [
             {
@@ -1046,7 +1130,8 @@
                 "de": "Die kühle Morgenluft ist ideal für eine schnelle Fahrt.",
                 "hu": "A hűvös reggeli levegő ideális a gyors haladáshoz.",
                 "ro": "Aerul răcoros de dimineață este ideal pentru viteză.",
-                "en": "The cool morning air is ideal for a brisk ride."
+                "en": "The cool morning air is ideal for a brisk ride.",
+                "es": "El aire fresco de la mañana es ideal para un paseo enérgico."
               }
             },
             {
@@ -1055,7 +1140,8 @@
                 "de": "Wenig Schatten nötig, da die Wintersonne nicht brennt.",
                 "hu": "Kevés árnyék is elég, a téli nap nem éget annyira.",
                 "ro": "Nu e nevoie de multă umbră, soarele de iarnă nu arde.",
-                "en": "Less shade needed as the winter sun is not as harsh."
+                "en": "Less shade needed as the winter sun is not as harsh.",
+                "es": "Se necesita menos sombra porque el sol de invierno no es tan intenso."
               }
             },
             {
@@ -1064,7 +1150,8 @@
                 "de": "Mittagspause in der Sonne zum Aufwärmen nutzen.",
                 "hu": "Használja a déli napsütést a bemelegedésre.",
                 "ro": "Folosiți pauza de prânz la soare pentru încălzire.",
-                "en": "Use the midday sun during your break to warm up."
+                "en": "Use the midday sun during your break to warm up.",
+                "es": "Aprovecha el sol del mediodía durante tu descanso para entrar en calor."
               }
             },
             {
@@ -1073,7 +1160,8 @@
                 "de": "Im Winter herrscht hier reges Treiben der Ausflugsboote.",
                 "hu": "Télen is nagy itt a nyüzsgés a kirándulóhajók miatt.",
                 "ro": "Chiar și iarna e forfotă mare cu bărcile de excursie.",
-                "en": "The harbor remains busy with excursion boats in winter."
+                "en": "The harbor remains busy with excursion boats in winter.",
+                "es": "El puerto sigue activo con barcos de excursión en invierno."
               }
             },
             {
@@ -1082,7 +1170,8 @@
                 "de": "Abends wird es hier schlagartig kühler – Jacke bereithalten.",
                 "hu": "Este hirtelen hűvös lesz – legyen kéznél kabát.",
                 "ro": "Seara se răcește brusc – pregătiți o jachetă.",
-                "en": "It cools down quickly in the evening – have a jacket ready."
+                "en": "It cools down quickly in the evening – have a jacket ready.",
+                "es": "Refresca rápido por la tarde: lleva una chaqueta."
               }
             }
           ],
@@ -1114,6 +1203,13 @@
               "Avoid standing still for too long while sweaty.",
               "Drink plenty of water despite the cooler temperatures.",
               "The mountain trails are much less dusty in winter."
+            ],
+            "es": [
+              "Ir por capas es ideal para ciclismo en invierno.",
+              "Los días son más cortos, asegúrate de que las luces de la bici funcionen.",
+              "Evita quedarte parado mucho tiempo con sudor encima.",
+              "Bebe abundante agua a pesar de las temperaturas más frescas.",
+              "Los senderos de montaña están mucho menos polvorientos en invierno."
             ]
           }
         }
@@ -1142,7 +1238,8 @@
             "de": "Beeindruckende Architektur direkt an der Klippe.",
             "hu": "Lenyűgöző építészet közvetlenül a sziklánál.",
             "ro": "Arhitectură impresionantă chiar pe faleză.",
-            "en": "Impressive architecture right by the cliff."
+            "en": "Impressive architecture right by the cliff.",
+            "es": "Arquitectura impresionante junto al acantilado."
           }
         },
         {
@@ -1160,7 +1257,8 @@
             "de": "Großer Parkplatz 'Parking Las Vistas'.",
             "hu": "Nagy parkoló a 'Parking Las Vistas'-nál.",
             "ro": "Parcare mare la 'Parking Las Vistas'.",
-            "en": "Large parking at 'Parking Las Vistas'."
+            "en": "Large parking at 'Parking Las Vistas'.",
+            "es": "Gran aparcamiento en 'Parking Las Vistas'."
           }
         },
         {
@@ -1178,7 +1276,8 @@
             "de": "Idealer Ausgangspunkt für Bootstouren.",
             "hu": "Ideális kiindulópont hajókirándulásokhoz.",
             "ro": "Punct ideal de plecare pentru excursii cu barca.",
-            "en": "Ideal starting point for boat tours."
+            "en": "Ideal starting point for boat tours.",
+            "es": "Punto de partida ideal para excursiones en barco."
           }
         },
         {
@@ -1196,7 +1295,8 @@
             "de": "Oft gibt es hier interessante Plakate zu sehen.",
             "hu": "Gyakran látni itt érdekes plakátokat.",
             "ro": "Aici se pot vedea adesea afișe interesante.",
-            "en": "Interesting posters can often be seen here."
+            "en": "Interesting posters can often be seen here.",
+            "es": "A menudo se ven carteles interesantes aquí."
           }
         },
         {
@@ -1214,7 +1314,8 @@
             "de": "Parken Sie am Fuße und gehen Sie ein Stück.",
             "hu": "Parkoljon a lábánál és sétáljon egy kicsit.",
             "ro": "Parcați la bază și mergeți puțin pe jos.",
-            "en": "Park at the base and walk a bit."
+            "en": "Park at the base and walk a bit.",
+            "es": "Aparca en la base y camina un poco."
           }
         }
       ],
@@ -1222,7 +1323,8 @@
         "de": "Erkunden Sie die Umgebung von Los Cristianos bequem mit dem Auto. Bewundern Sie das ikonische Arona Gran Hotel und genießen Sie den Vormittag am Las Vistas Strand. Der Nachmittag bietet Kultur und Hafenflair, bevor Sie den Tag mit einem Blick vom Fuße des Guaza-Berges auf den Sonnenuntergang beenden.",
         "hu": "Fedezze fel Los Cristianos környékét kényelmesen autóval. Csodálja meg az ikonikus Arona Gran Hotel épületét, majd élvezze a délelőttöt a Las Vistas strandon. A délután kultúrát és kikötői hangulatot kínál, mielőtt a Guaza-hegy lábától nézné meg a naplementét.",
         "ro": "Explorați împrejurimile orașului Los Cristianos confortabil cu mașina. Admirați clădirea iconică Arona Gran Hotel și bucurați-vă de dimineață pe plaja Las Vistas. După-amiaza oferă cultură și atmosfera portului, înainte de a încheia ziua cu apusul văzut de la baza muntelui Guaza.",
-        "en": "Explore the surroundings of Los Cristianos comfortably by car. Admire the iconic Arona Gran Hotel building and enjoy the morning at Las Vistas Beach. The afternoon offers culture and harbor vibes before ending the day with a sunset view from the base of Guaza Mountain."
+        "en": "Explore the surroundings of Los Cristianos comfortably by car. Admire the iconic Arona Gran Hotel building and enjoy the morning at Las Vistas Beach. The afternoon offers culture and harbor vibes before ending the day with a sunset view from the base of Guaza Mountain.",
+        "es": "Explora los alrededores de Los Cristianos cómodamente en coche. Admira el emblemático edificio Arona Gran Hotel y disfruta la mañana en Playa de Las Vistas. La tarde ofrece ambiente cultural y del puerto antes de terminar el día con la puesta de sol desde la base de Montaña de Guaza."
       },
       "gastro_picks": {
         "de": [
@@ -1322,6 +1424,10 @@
         "en": [
           "Parking near the harbor is usually paid.",
           "The streets in Los Cristianos are often one-way."
+        ],
+        "es": [
+          "Aparcar cerca del puerto suele ser de pago.",
+          "Las calles de Los Cristianos son a menudo de sentido único."
         ]
       },
       "variants": {
@@ -1330,7 +1436,8 @@
             "de": "Erkunden Sie die Umgebung von Los Cristianos bequem mit dem Auto. Bewundern Sie das ikonische Arona Gran Hotel und genießen Sie den Vormittag am Las Vistas Strand. Der Nachmittag bietet Kultur und Hafenflair, bevor Sie den Tag mit einem Blick vom Fuße des Guaza-Berges auf den Sonnenuntergang beenden.",
             "hu": "Fedezze fel Los Cristianos környékét kényelmesen autóval. Csodálja meg az ikonikus Arona Gran Hotel épületét, majd élvezze a délelőttöt a Las Vistas strandon. A délután kultúrát és kikötői hangulatot kínál, mielőtt a Guaza-hegy lábától nézné meg a naplementét.",
             "ro": "Explorați împrejurimile orașului Los Cristianos confortabil cu mașina. Admirați clădirea iconică Arona Gran Hotel și bucurați-vă de dimineață pe plaja Las Vistas. După-amiaza oferă cultură și atmosfera portului, înainte de a încheia ziua cu apusul văzut de la baza muntelui Guaza.",
-            "en": "Explore the surroundings of Los Cristianos comfortably by car. Admire the iconic Arona Gran Hotel building and enjoy the morning at Las Vistas Beach. The afternoon offers culture and harbor vibes before ending the day with a sunset view from the base of Guaza Mountain."
+            "en": "Explore the surroundings of Los Cristianos comfortably by car. Admire the iconic Arona Gran Hotel building and enjoy the morning at Las Vistas Beach. The afternoon offers culture and harbor vibes before ending the day with a sunset view from the base of Guaza Mountain.",
+            "es": "Explora los alrededores de Los Cristianos cómodamente en coche. Admira el emblemático edificio Arona Gran Hotel y disfruta la mañana en Playa de Las Vistas. La tarde ofrece ambiente cultural y del puerto antes de terminar el día con la puesta de sol desde la base de Montaña de Guaza."
           },
           "stops": [
             {
@@ -1339,7 +1446,8 @@
                 "de": "Beeindruckende Architektur direkt an der Klippe.",
                 "hu": "Lenyűgöző építészet közvetlenül a sziklánál.",
                 "ro": "Arhitectură impresionantă chiar pe faleză.",
-                "en": "Impressive architecture right by the cliff."
+                "en": "Impressive architecture right by the cliff.",
+                "es": "Arquitectura impresionante junto al acantilado."
               }
             },
             {
@@ -1348,7 +1456,8 @@
                 "de": "Großer Parkplatz 'Parking Las Vistas'.",
                 "hu": "Nagy parkoló a 'Parking Las Vistas'-nál.",
                 "ro": "Parcare mare la 'Parking Las Vistas'.",
-                "en": "Large parking at 'Parking Las Vistas'."
+                "en": "Large parking at 'Parking Las Vistas'.",
+                "es": "Gran aparcamiento en 'Parking Las Vistas'."
               }
             },
             {
@@ -1357,7 +1466,8 @@
                 "de": "Idealer Ausgangspunkt für Bootstouren.",
                 "hu": "Ideális kiindulópont hajókirándulásokhoz.",
                 "ro": "Punct ideal de plecare pentru excursii cu barca.",
-                "en": "Ideal starting point for boat tours."
+                "en": "Ideal starting point for boat tours.",
+                "es": "Punto de partida ideal para excursiones en barco."
               }
             },
             {
@@ -1366,7 +1476,8 @@
                 "de": "Oft gibt es hier interessante Plakate zu sehen.",
                 "hu": "Gyakran látni itt érdekes plakátokat.",
                 "ro": "Aici se pot vedea adesea afișe interesante.",
-                "en": "Interesting posters can often be seen here."
+                "en": "Interesting posters can often be seen here.",
+                "es": "A menudo se ven carteles interesantes aquí."
               }
             },
             {
@@ -1375,7 +1486,8 @@
                 "de": "Parken Sie am Fuße und gehen Sie ein Stück.",
                 "hu": "Parkoljon a lábánál és sétáljon egy kicsit.",
                 "ro": "Parcați la bază și mergeți puțin pe jos.",
-                "en": "Park at the base and walk a bit."
+                "en": "Park at the base and walk a bit.",
+                "es": "Aparca en la base y camina un poco."
               }
             }
           ],
@@ -1477,6 +1589,10 @@
             "en": [
               "Parking near the harbor is usually paid.",
               "The streets in Los Cristianos are often one-way."
+            ],
+            "es": [
+              "Aparcar cerca del puerto suele ser de pago.",
+              "Las calles de Los Cristianos son a menudo de sentido único."
             ]
           }
         },
@@ -1485,7 +1601,8 @@
             "de": "Mit dem Auto erkunden wir Los Cristianos komfortabel und trocken. Wir parken nahe am Hotel Arona und genießen den Blick auf die Küste. Mittags machen wir einen Abstecher zum Hafen und nutzen die überdachten Bereiche. Nachmittags ist das Kulturzentrum der perfekte Ort, bevor wir eine Panoramafahrt am Montaña de Guaza machen.",
             "hu": "Autóval kényelmesen és szárazon fedezzük fel Los Cristianost. Az Arona Hotel közelében parkolunk, és élvezzük a part látványát. Délben teszünk egy kitérőt a kikötőhöz, kihasználva a fedett részeket. Délután a Kulturális Központ a tökéletes helyszín, mielőtt egy panorámás autózást tennénk a Guaza-hegynél.",
             "ro": "Explorăm Los Cristianos confortabil și la uscat cu mașina. Parcăm lângă hotelul Arona și admirăm coasta. La prânz facem o oprire în port, folosind zonele acoperite. După-amiaza, centrul cultural este locul perfect, înainte de o tură panoramică pe lângă Montaña de Guaza.",
-            "en": "Explore Los Cristianos comfortably and dry by car. Park near the Arona Hotel and enjoy the coastal views. At noon, take a trip to the harbor and utilize the covered areas. The afternoon is best spent at the Cultural Centre before a scenic drive near Montaña de Guaza."
+            "en": "Explore Los Cristianos comfortably and dry by car. Park near the Arona Hotel and enjoy the coastal views. At noon, take a trip to the harbor and utilize the covered areas. The afternoon is best spent at the Cultural Centre before a scenic drive near Montaña de Guaza.",
+            "es": "Explora Los Cristianos cómodamente y seco en coche. Aparca cerca del Hotel Arona y disfruta de las vistas costeras. Al mediodía ve al puerto y utiliza las zonas cubiertas. La tarde se disfruta mejor en el Centro Cultural antes de un trayecto panorámico cerca de Montaña de Guaza."
           },
           "stops": [
             {
@@ -1494,7 +1611,8 @@
                 "de": "Nutzen Sie das hoteleigene Parkhaus, um trocken auszusteigen.",
                 "hu": "Használja a hotel parkolóházát, hogy szárazon szálljon ki.",
                 "ro": "Folosiți parcarea hotelului pentru a coborî la uscat.",
-                "en": "Use the hotel parking garage to exit the car while dry."
+                "en": "Use the hotel parking garage to exit the car while dry.",
+                "es": "Usa el garaje del hotel para salir del coche a cubierto."
               }
             },
             {
@@ -1503,7 +1621,8 @@
                 "de": "Parken Sie im unterirdischen Parkhaus am San Telmo.",
                 "hu": "Parkoljon a San Telmo alatti mélygarázsban.",
                 "ro": "Parcați în parcarea subterană de la San Telmo.",
-                "en": "Park in the underground garage at San Telmo."
+                "en": "Park in the underground garage at San Telmo.",
+                "es": "Aparca en el garaje subterráneo de San Telmo."
               }
             },
             {
@@ -1512,7 +1631,8 @@
                 "de": "Vermeiden Sie das Parken in tiefliegenden Zonen bei Starkregen.",
                 "hu": "Heves esőben kerülje a mélyebben fekvő parkolóhelyeket.",
                 "ro": "Evitați parcarea în zone joase în caz de ploaie torențială.",
-                "en": "Avoid parking in low-lying areas during heavy rain."
+                "en": "Avoid parking in low-lying areas during heavy rain.",
+                "es": "Evita aparcar en zonas bajas durante lluvias fuertes."
               }
             },
             {
@@ -1521,7 +1641,8 @@
                 "de": "Es gibt begrenzte Parkplätze direkt vor dem Gebäude.",
                 "hu": "Közvetlenül az épület előtt korlátozott számú parkoló van.",
                 "ro": "Există locuri de parcare limitate chiar în fața clădirii.",
-                "en": "Limited parking is available right in front of the building."
+                "en": "Limited parking is available right in front of the building.",
+                "es": "Hay aparcamiento limitado justo delante del edificio."
               }
             },
             {
@@ -1530,7 +1651,8 @@
                 "de": "Befahren Sie nur befestigte Straßen bei Regen.",
                 "hu": "Esőben csak a szilárd burkolatú utakon közlekedjen.",
                 "ro": "Circulați doar pe drumuri asfaltate pe timp de ploaie.",
-                "en": "Stick to paved roads only during rainy weather."
+                "en": "Stick to paved roads only during rainy weather.",
+                "es": "Durante lluvia, circule solo por carreteras pavimentadas."
               }
             }
           ],
@@ -1562,6 +1684,13 @@
               "Parking garages are your best bet in the town center.",
               "Local streets can be surprisingly slippery when wet.",
               "Use the A/C to prevent the windshield from fogging up."
+            ],
+            "es": [
+              "Cuidado con el aquaplaning en la TF-1.",
+              "La niebla y la lluvia pueden reducir mucho la visibilidad.",
+              "Los parkings cubiertos son la mejor opción en el centro.",
+              "Las calles locales pueden ser sorprendentemente resbaladizas cuando están mojadas.",
+              "Usa el climatizador para evitar que se empañe el parabrisas."
             ]
           }
         },
@@ -1570,7 +1699,8 @@
             "de": "Ein entspannter Wintertag mit dem Auto an der Küste. Morgens genießen wir die Aussicht am Arona Gran Hotel. Mittags besuchen wir die Playa de Las Vistas, wo es im Winter leichter ist, einen Parkplatz zu finden. Den Nachmittag verbringen wir am Hafen und im Kulturzentrum, bevor wir zum Sonnenuntergang zum Montaña de Guaza fahren.",
             "hu": "Egy pihentető téli nap autóval a tengerparton. Reggel élvezzük a kilátást az Arona Gran Hotelnél. Délben ellátogatunk a Playa de Las Vistas-ra, ahol télen könnyebb parkolót találni. A délutánt a kikötőben és a Kulturális Központban töltjük, majd naplementére a Guaza-hegyhez autózunk.",
             "ro": "O zi relaxantă de iarnă cu mașina pe coastă. Dimineața admirăm priveliștea de la Arona Gran Hotel. La prânz vizităm Playa de Las Vistas, unde iarna e mai ușor de găsit parcare. După-amiaza o petrecem în port și la centrul cultural, apoi mergem la Guaza pentru apus.",
-            "en": "A relaxing winter day by car along the coast. In the morning, enjoy the views at Arona Gran Hotel. At noon, visit Playa de Las Vistas, where parking is easier to find in winter. Spend the afternoon at the harbor and Cultural Centre before driving to Montaña de Guaza for sunset."
+            "en": "A relaxing winter day by car along the coast. In the morning, enjoy the views at Arona Gran Hotel. At noon, visit Playa de Las Vistas, where parking is easier to find in winter. Spend the afternoon at the harbor and Cultural Centre before driving to Montaña de Guaza for sunset.",
+            "es": "Un relajante día invernal en coche por la costa. Por la mañana disfruta de las vistas en Arona Gran Hotel. Al mediodía visita Playa de Las Vistas, donde aparcar es más fácil en invierno. Pasa la tarde en el puerto y el Centro Cultural antes de conducir a Montaña de Guaza para la puesta de sol."
           },
           "stops": [
             {
@@ -1579,7 +1709,8 @@
                 "de": "Die Wintermorgensonne beleuchtet das Gebäude ideal.",
                 "hu": "A téli reggeli nap tökéletesen megvilágítja az épületet.",
                 "ro": "Soarele de iarnă luminează ideal clădirea dimineața.",
-                "en": "The winter morning sun illuminates the building perfectly."
+                "en": "The winter morning sun illuminates the building perfectly.",
+                "es": "El sol de la mañana de invierno ilumina el edificio a la perfección."
               }
             },
             {
@@ -1588,7 +1719,8 @@
                 "de": "Im Winter sind die Parkplätze an der Straße oft frei.",
                 "hu": "Télen az utcai parkolóhelyek gyakran szabadok.",
                 "ro": "Iarna, locurile de parcare de pe stradă sunt adesea libere.",
-                "en": "Street parking is much easier to find during winter."
+                "en": "Street parking is much easier to find during winter.",
+                "es": "Aparcar en la calle es mucho más fácil en invierno."
               }
             },
             {
@@ -1597,7 +1729,8 @@
                 "de": "Ideale Zeit für eine Fahrt entlang der Kaimauer.",
                 "hu": "Ideális idő egy autózásra a rakpart mentén.",
                 "ro": "Timp ideal pentru o plimbare cu mașina pe lângă chei.",
-                "en": "Great time for a slow drive along the pier area."
+                "en": "Great time for a slow drive along the pier area.",
+                "es": "Buen momento para un paseo tranquilo por el muelle."
               }
             },
             {
@@ -1606,7 +1739,8 @@
                 "de": "Suchen Sie Schattenparkplätze, falls es mittags warm wird.",
                 "hu": "Keressen árnyékos parkolót, ha délben melegszik az idő.",
                 "ro": "Căutați parcare la umbră dacă se încălzește la prânz.",
-                "en": "Look for shaded parking if it gets warm at noon."
+                "en": "Look for shaded parking if it gets warm at noon.",
+                "es": "Busca aparcamiento sombreado si hace calor al mediodía."
               }
             },
             {
@@ -1615,7 +1749,8 @@
                 "de": "Der Parkplatz oben bietet im Winter klare Fernsicht.",
                 "hu": "A fenti parkolóból télen tiszta a kilátás a távolba.",
                 "ro": "Parcarea de sus oferă o vizibilitate clară iarna.",
-                "en": "The upper parking area offers clear distant views in winter."
+                "en": "The upper parking area offers clear distant views in winter.",
+                "es": "La zona alta de aparcamiento ofrece vistas lejanas claras en invierno."
               }
             }
           ],
@@ -1647,6 +1782,13 @@
               "Check tire pressure before driving into the mountains.",
               "Take advantage of clear winter days for scenic drives.",
               "It can be quite windy when exiting the car near the coast at night."
+            ],
+            "es": [
+              "Encontrar plaza de aparcamiento es mucho más fácil en invierno.",
+              "El interior del coche se calienta mucho menos con el sol de invierno.",
+              "Revisa la presión de los neumáticos antes de subir a la montaña.",
+              "Aprovecha los días claros de invierno para rutas panorámicas.",
+              "Puede hacer bastante viento al bajar del coche junto a la costa por la noche."
             ]
           }
         }
@@ -1675,7 +1817,8 @@
             "de": "Viele Buslinien enden hier am Hafen.",
             "hu": "Számos buszjárat végállomása a kikötő.",
             "ro": "Multe linii de autobuz se opresc aici în port.",
-            "en": "Many bus lines end here at the harbor."
+            "en": "Many bus lines end here at the harbor.",
+            "es": "Muchas líneas de autobús terminan aquí, en el puerto."
           }
         },
         {
@@ -1693,7 +1836,8 @@
             "de": "Kurzer Fußweg von der Bushaltestelle.",
             "hu": "Rövid séta a buszmegállótól.",
             "ro": "Scurtă plimbare de la stația de autobuz.",
-            "en": "Short walk from the bus stop."
+            "en": "Short walk from the bus stop.",
+            "es": "A corta distancia a pie desde la parada de autobús."
           }
         },
         {
@@ -1711,7 +1855,8 @@
             "de": "Gut erreichbar mit den lokalen Linien.",
             "hu": "Helyi járatokkal könnyen elérhető.",
             "ro": "Ușor accesibil cu liniile locale.",
-            "en": "Easily accessible with local lines."
+            "en": "Easily accessible with local lines.",
+            "es": "Fácilmente accesible con líneas locales."
           }
         },
         {
@@ -1729,7 +1874,8 @@
             "de": "Haltestelle direkt vor dem Gebäude.",
             "hu": "Megálló közvetlenül az épület előtt.",
             "ro": "Stație chiar în fața clădirii.",
-            "en": "Bus stop right in front of the building."
+            "en": "Bus stop right in front of the building.",
+            "es": "Parada de autobús justo delante del edificio."
           }
         },
         {
@@ -1747,7 +1893,8 @@
             "de": "Perfekter Ort vor der Rückfahrt.",
             "hu": "Tökéletes hely a visszaindulás előtt.",
             "ro": "Locul perfect înainte de plecare.",
-            "en": "Perfect spot before heading back."
+            "en": "Perfect spot before heading back.",
+            "es": "Lugar perfecto antes de regresar."
           }
         }
       ],
@@ -1755,7 +1902,8 @@
         "de": "Nutzen Sie den Hauptbusbahnhof von Los Cristianos als Basis. Besuchen Sie den Hafen und die charmante Kirche im Zentrum. Verbringen Sie entspannte Stunden am Las Vistas Strand und entdecken Sie das Kulturzentrum, bevor Sie am Abend am Hauptstrand die Seele baumeln lassen.",
         "hu": "Használja bázisnak Los Cristianos fő buszpályaudvarát. Látogassa meg a kikötőt és a központ bájos templomát. Töltsön pihentető órákat a Las Vistas strandon, fedezze fel a kulturális központot, majd este lazítson a város fő strandján.",
         "ro": "Folosiți autogara principală din Los Cristianos ca bază. Vizitați portul și biserica fermecătoare din centru. Petreceți ore relaxante pe plaja Las Vistas, descoperiți centrul cultural, apoi seara relaxați-vă pe plaja principală.",
-        "en": "Use the main Los Cristianos bus station as your base. Visit the harbor and the charming church in the center. Spend relaxing hours at Las Vistas Beach, discover the cultural center, and unwind at the main beach in the evening."
+        "en": "Use the main Los Cristianos bus station as your base. Visit the harbor and the charming church in the center. Spend relaxing hours at Las Vistas Beach, discover the cultural center, and unwind at the main beach in the evening.",
+        "es": "Usa la estación principal de autobuses de Los Cristianos como base. Visita el puerto y la encantadora iglesia del centro. Pasa horas relajantes en Playa de Las Vistas, descubre el centro cultural y relájate en la playa principal por la tarde."
       },
       "gastro_picks": {
         "de": [
@@ -1855,6 +2003,10 @@
         "en": [
           "The green TITSA buses are very reliable.",
           "Use the 'Tuwa' app for schedules."
+        ],
+        "es": [
+          "Los autobuses verdes de TITSA son muy fiables.",
+          "Usa la app 'Tuwa' para los horarios."
         ]
       },
       "variants": {
@@ -1863,7 +2015,8 @@
             "de": "Nutzen Sie den Hauptbusbahnhof von Los Cristianos als Basis. Besuchen Sie den Hafen und die charmante Kirche im Zentrum. Verbringen Sie entspannte Stunden am Las Vistas Strand und entdecken Sie das Kulturzentrum, bevor Sie am Abend am Hauptstrand die Seele baumeln lassen.",
             "hu": "Használja bázisnak Los Cristianos fő buszpályaudvarát. Látogassa meg a kikötőt és a központ bájos templomát. Töltsön pihentető órákat a Las Vistas strandon, fedezze fel a kulturális központot, majd este lazítson a város fő strandján.",
             "ro": "Folosiți autogara principală din Los Cristianos ca bază. Vizitați portul și biserica fermecătoare din centru. Petreceți ore relaxante pe plaja Las Vistas, descoperiți centrul cultural, apoi seara relaxați-vă pe plaja principală.",
-            "en": "Use the main Los Cristianos bus station as your base. Visit the harbor and the charming church in the center. Spend relaxing hours at Las Vistas Beach, discover the cultural center, and unwind at the main beach in the evening."
+            "en": "Use the main Los Cristianos bus station as your base. Visit the harbor and the charming church in the center. Spend relaxing hours at Las Vistas Beach, discover the cultural center, and unwind at the main beach in the evening.",
+            "es": "Usa la estación principal de autobuses de Los Cristianos como base. Visita el puerto y la encantadora iglesia del centro. Pasa horas relajantes en la playa de Las Vistas, descubre el centro cultural y relájate en la playa principal por la tarde."
           },
           "stops": [
             {
@@ -1872,7 +2025,8 @@
                 "de": "Viele Buslinien enden hier am Hafen.",
                 "hu": "Számos buszjárat végállomása a kikötő.",
                 "ro": "Multe linii de autobuz se opresc aici în port.",
-                "en": "Many bus lines end here at the harbor."
+                "en": "Many bus lines end here at the harbor.",
+                "es": "Muchas líneas de autobús terminan aquí, en el puerto."
               }
             },
             {
@@ -1881,7 +2035,8 @@
                 "de": "Kurzer Fußweg von der Bushaltestelle.",
                 "hu": "Rövid séta a buszmegállótól.",
                 "ro": "Scurtă plimbare de la stația de autobuz.",
-                "en": "Short walk from the bus stop."
+                "en": "Short walk from the bus stop.",
+                "es": "A corta distancia a pie desde la parada de autobús."
               }
             },
             {
@@ -1890,7 +2045,8 @@
                 "de": "Gut erreichbar mit den lokalen Linien.",
                 "hu": "Helyi járatokkal könnyen elérhető.",
                 "ro": "Ușor accesibil cu liniile locale.",
-                "en": "Easily accessible with local lines."
+                "en": "Easily accessible with local lines.",
+                "es": "Fácilmente accesible con las líneas locales."
               }
             },
             {
@@ -1899,7 +2055,8 @@
                 "de": "Haltestelle direkt vor dem Gebäude.",
                 "hu": "Megálló közvetlenül az épület előtt.",
                 "ro": "Stație chiar în fața clădirii.",
-                "en": "Bus stop right in front of the building."
+                "en": "Bus stop right in front of the building.",
+                "es": "Parada de autobús justo frente al edificio."
               }
             },
             {
@@ -1908,7 +2065,8 @@
                 "de": "Perfekter Ort vor der Rückfahrt.",
                 "hu": "Tökéletes hely a visszaindulás előtt.",
                 "ro": "Locul perfect înainte de plecare.",
-                "en": "Perfect spot before heading back."
+                "en": "Perfect spot before heading back.",
+                "es": "Lugar perfecto antes de regresar."
               }
             }
           ],
@@ -2010,6 +2168,10 @@
             "en": [
               "The green TITSA buses are very reliable.",
               "Use the 'Tuwa' app for schedules."
+            ],
+            "es": [
+              "Los autobuses verdes de TITSA son muy fiables.",
+              "Usa la app 'Tuwa' para los horarios."
             ]
           }
         },
@@ -2018,7 +2180,8 @@
             "de": "Mit dem Bus navigieren wir bequem durch das regnerische Los Cristianos. Die Haltestellen am Hafen bieten Schutz. Mittags besuchen wir die Kirche im Zentrum, bevor wir zum Strand Las Vistas fahren, wo wir in Strandnähe einkehren. Den Nachmittag verbringen wir im trockenen Kulturzentrum und am Playa de Los Cristianos.",
             "hu": "Busszal kényelmesen közlekedünk az esős Los Cristianosban. A kikötői megállók fedettek. Délben meglátogatjuk a központi templomot, majd a Las Vistas strandhoz utazunk, ahol a közelben ebédelünk. A délutánt a száraz Kulturális Központban és a Playa de Los Cristianosnál töltjük.",
             "ro": "Navigăm confortabil cu autobuzul prin Los Cristianos pe ploaie. Stațiile din port oferă protecție. La prânz vizităm biserica din centru, apoi mergem la plaja Las Vistas pentru o masă aproape de mal. După-amiaza o petrecem la centrul cultural uscat și la plaja locală.",
-            "en": "Navigate rainy Los Cristianos easily by bus. Harbor bus stops offer good shelter. At noon, visit the central church, then take the bus to Las Vistas beach for a meal nearby. Spend the afternoon at the dry Cultural Centre and Playa de Los Cristianos."
+            "en": "Navigate rainy Los Cristianos easily by bus. Harbor bus stops offer good shelter. At noon, visit the central church, then take the bus to Las Vistas beach for a meal nearby. Spend the afternoon at the dry Cultural Centre and Playa de Los Cristianos.",
+            "es": "Navega el lluvioso Los Cristianos fácilmente en autobús. Las paradas del puerto ofrecen buena cobertura. Al mediodía, visita la iglesia central y luego toma el autobús a la playa de Las Vistas para comer cerca. Pasa la tarde en el Centro Cultural y en la playa de Los Cristianos."
           },
           "stops": [
             {
@@ -2027,7 +2190,8 @@
                 "de": "Die Bushaltestelle ist nur wenige Meter vom Terminal entfernt.",
                 "hu": "A buszmegálló csak pár méterre van a termináltól.",
                 "ro": "Stația de autobuz este la doar câțiva metri de terminal.",
-                "en": "The bus stop is just a few meters from the terminal."
+                "en": "The bus stop is just a few meters from the terminal.",
+                "es": "La parada de autobús está a solo unos metros de la terminal."
               }
             },
             {
@@ -2036,7 +2200,8 @@
                 "de": "Nutzen Sie den Bus 473 oder 477 für die Fahrt ins Zentrum.",
                 "hu": "Használja a 473-as vagy 477-es buszt a központba jutáshoz.",
                 "ro": "Folosiți autobuzul 473 sau 477 pentru a ajunge în centru.",
-                "en": "Use bus 473 or 477 to get to the town center."
+                "en": "Use bus 473 or 477 to get to the town center.",
+                "es": "Usa los autobuses 473 o 477 para llegar al centro del pueblo."
               }
             },
             {
@@ -2045,7 +2210,8 @@
                 "de": "Warten Sie unter den Vordächern der nahen Geschäfte.",
                 "hu": "Várakozzon a közeli üzletek előtetői alatt.",
                 "ro": "Așteptați sub copertinele magazinelor din apropiere.",
-                "en": "Wait under the awnings of nearby shops for the bus."
+                "en": "Wait under the awnings of nearby shops for the bus.",
+                "es": "Espera bajo los toldos de las tiendas cercanas para el autobús."
               }
             },
             {
@@ -2054,7 +2220,8 @@
                 "de": "Hinter dem Gebäude befindet sich ein großer Busbahnhof.",
                 "hu": "Az épület mögött egy nagy buszpályaudvar található.",
                 "ro": "În spatele clădirii se află o autogară mare.",
-                "en": "There is a major bus station located behind the building."
+                "en": "There is a major bus station located behind the building.",
+                "es": "Hay una gran estación de autobuses situada detrás del edificio."
               }
             },
             {
@@ -2063,7 +2230,8 @@
                 "de": "Die Haltestellen sind bei Regen oft überfüllt.",
                 "hu": "A buszmegállók esőben gyakran túlzsúfoltak.",
                 "ro": "Stațiile de autobuz sunt adesea aglomerate pe ploaie.",
-                "en": "Bus stops can get very crowded during rain."
+                "en": "Bus stops can get very crowded during rain.",
+                "es": "Las paradas de autobús pueden llenarse mucho durante la lluvia."
               }
             }
           ],
@@ -2095,6 +2263,13 @@
               "Keep some small change ready just in case card readers fail.",
               "Use the 'TITSA' app for real-time bus tracking.",
               "Buses provide a great vantage point while staying dry."
+            ],
+            "es": [
+              "Los billetes se pueden comprar al conductor o mediante la app.",
+              "Los autobuses suelen estar más concurridos en invierno y con lluvia.",
+              "Ten cambio pequeño a mano por si fallan los datáfonos.",
+              "Usa la app 'TITSA' para el seguimiento en tiempo real.",
+              "Los autobuses ofrecen una gran vista mientras te mantienen seco."
             ]
           }
         },
@@ -2103,7 +2278,8 @@
             "de": "Ein milder Wintertag mit den öffentlichen Verkehrsmitteln. Wir starten am Hafen und besuchen mittags die Iglesia del Carmen. Per Bus geht es zur Playa de Las Vistas, um die Mittagssonne zu genießen. Nachmittags besuchen wir das Kulturzentrum und lassen den Tag am Playa de Los Cristianos ausklingen. Entspanntes Reisen ohne Parkplatzsorgen.",
             "hu": "Enyhe téli nap tömegközlekedéssel. A kikötőben kezdünk, majd délben meglátogatjuk az Iglesia del Carmen templomot. Busszal megyünk a Playa de Las Vistas-ra, hogy élvezzük a déli napsütést. Délután a Kulturális Központba látogatunk, és a Playa de Los Cristianosnál zárunk. Pihentető utazás parkolási gondok nélkül.",
             "ro": "O zi blândă de iarnă cu transportul public. Începem în port și vizităm biserica la prânz. Mergem cu autobuzul la Playa de Las Vistas pentru soarele de la amiază. După-amiaza vizităm centrul cultural și încheiem la plajă. Călătorie relaxantă fără grija parcării.",
-            "en": "A mild winter day using public transport. Start at the harbor and visit Iglesia del Carmen at noon. Take the bus to Playa de Las Vistas to enjoy the midday sun. Spend the afternoon at the Cultural Centre and finish at Playa de Los Cristianos. Relaxed travel without parking stress."
+            "en": "A mild winter day using public transport. Start at the harbor and visit Iglesia del Carmen at noon. Take the bus to Playa de Las Vistas to enjoy the midday sun. Spend the afternoon at the Cultural Centre and finish at Playa de Los Cristianos. Relaxed travel without parking stress.",
+            "es": "Un día de invierno suave usando transporte público. Empieza en el puerto y visita la Iglesia del Carmen al mediodía. Toma el autobús a la playa de Las Vistas para disfrutar del sol del mediodía. Pasa la tarde en el Centro Cultural y termina en la playa de Los Cristianos. Viaje relajado sin estrés por el aparcamiento."
           },
           "stops": [
             {
@@ -2112,7 +2288,8 @@
                 "de": "Im Winter verkehren die Fähren nach La Gomera häufiger.",
                 "hu": "Télen a La Gomera-i kompok gyakrabban járnak.",
                 "ro": "Iarna, feriboturile spre La Gomera circulă frecvent.",
-                "en": "Ferries to La Gomera run frequently during the winter."
+                "en": "Ferries to La Gomera run frequently during the winter.",
+                "es": "Los ferris a La Gomera funcionan con frecuencia durante el invierno."
               }
             },
             {
@@ -2121,7 +2298,8 @@
                 "de": "Das Zentrum ist vom Busbahnhof gut zu Fuß erreichbar.",
                 "hu": "A központ a buszpályaudvartól gyalog is jól elérhető.",
                 "ro": "Centrul este ușor accesibil pe jos de la autogară.",
-                "en": "The center is easily accessible on foot from the bus station."
+                "en": "The center is easily accessible on foot from the bus station.",
+                "es": "El centro es fácilmente accesible a pie desde la estación de autobuses."
               }
             },
             {
@@ -2130,7 +2308,8 @@
                 "de": "Die Haltestelle 'San Telmo' ist der beste Ausstieg.",
                 "hu": "A 'San Telmo' megálló a legjobb a kiszállásra.",
                 "ro": "Stația 'San Telmo' este cea mai bună pentru debarcare.",
-                "en": "The 'San Telmo' stop is the best place to get off."
+                "en": "The 'San Telmo' stop is the best place to get off.",
+                "es": "La parada 'San Telmo' es el mejor lugar para bajar."
               }
             },
             {
@@ -2139,7 +2318,8 @@
                 "de": "Zentraler Knotenpunkt für fast alle Buslinien im Süden.",
                 "hu": "Központi csomópont szinte minden déli buszjáratnak.",
                 "ro": "Nod central pentru aproape toate liniile de autobuz din sud.",
-                "en": "Central hub for almost all bus lines in the south."
+                "en": "Central hub for almost all bus lines in the south.",
+                "es": "Nudo central para casi todas las líneas de autobús del sur."
               }
             },
             {
@@ -2148,7 +2328,8 @@
                 "de": "Die Busse fahren bis spät in die Nacht zurück.",
                 "hu": "A buszok késő éjszakáig közlekednek visszafelé.",
                 "ro": "Autobuzele circulă până târziu în noapte.",
-                "en": "Buses run until late at night for your return journey."
+                "en": "Buses run until late at night for your return journey.",
+                "es": "Los autobuses circulan hasta tarde por la noche para el regreso."
               }
             }
           ],
@@ -2180,6 +2361,13 @@
               "Buses are more punctual than you might expect on holiday.",
               "Enjoy the ride without the hassle of finding a parking spot.",
               "Main bus lines run every 15-30 minutes."
+            ],
+            "es": [
+              "Compra una tarjeta 'Ten+' para tarifas reducidas.",
+              "El aire acondicionado del autobús puede estar bastante frío incluso en invierno.",
+              "Los autobuses son más puntuales de lo que podrías esperar de vacaciones.",
+              "Disfruta del trayecto sin la molestia de buscar aparcamiento.",
+              "Las líneas principales pasan cada 15-30 minutos."
             ]
           }
         }
@@ -2193,19 +2381,22 @@
       "de": "Los Cristianos ist britisch-dominiert, Englisch ist die Hauptverkehrssprache. Deutsch in vielen Restaurants, Spanisch wird hauptsächlich vom Personal gesprochen. Sehr internationale Atmosphäre.",
       "hu": "Los Cristianos brit dominanciájú, az angol a fő nyelv. Sok étteremben német, spanyolt főleg a személyzet beszél. Nagyon nemzetközi hangulat.",
       "ro": "Los Cristianos e dominat de britanici, engleza e limba principală. Germana în multe restaurante, spaniola mai mult de la personal. Atmosferă foarte internațională.",
-      "en": "Los Cristianos is British-dominated, English is the main working language. German in many restaurants, Spanish mostly from staff. Very international vibe."
+      "en": "Los Cristianos is British-dominated, English is the main working language. German in many restaurants, Spanish mostly from staff. Very international vibe.",
+      "es": "Los Cristianos está dominado por británicos; el inglés es la lengua de trabajo principal. En muchos restaurantes se habla alemán; el personal usa principalmente español. Ambiente muy internacional."
     },
     "best_time_to_visit": {
       "de": "Ganzjähriges Reiseziel mit 18-28°C. Hauptsaison November-April (Wintersonne-Touristen), Juli-August Familien aus Spanien. Mai, Juni und September oft die ruhigste Zeit mit besten Preisen.",
       "hu": "Egész éves úti cél 18-28°C-kal. Főszezon november-április (téli napsütés), július-augusztus spanyol családok. Május, június, szeptember a legcsendesebb a legjobb árakkal.",
       "ro": "Destinație de tot anul cu 18-28°C. Sezon principal noiembrie-aprilie (turiști de soare de iarnă), iulie-august familii spaniole. Mai, iunie, septembrie cele mai liniștite cu prețuri bune.",
-      "en": "Year-round destination at 18-28°C. Peak season November-April (winter-sun crowd), July-August Spanish families. May, June, September often the quietest with best prices."
+      "en": "Year-round destination at 18-28°C. Peak season November-April (winter-sun crowd), July-August Spanish families. May, June, September often the quietest with best prices.",
+      "es": "Destino todo el año con 18-28°C. Temporada alta noviembre-abril (turismo de sol de invierno), julio-agosto familias españolas. Mayo, junio y septiembre suelen ser los más tranquilos y con mejores precios."
     },
     "neighborhood_warnings": {
       "de": "Allgemein sicher, aber Timeshare-Verkäufer in der Strandpromenade können aufdringlich sein, freundlich aber bestimmt 'no, gracias'. Taschendiebe an der Pier (Fähre nach La Gomera). Strandströmungen nicht unterschätzen.",
       "hu": "Általában biztonságos, de a sétányon timeshare-eladók tolakodóak lehetnek, határozott 'no, gracias'-szal kezeld. A La Gomerára induló komp kikötőjében zsebtolvajok. A strand sodrását ne becsüld le.",
       "ro": "În general sigur, dar vânzătorii de timeshare de pe promenadă pot fi insistenți, refuză ferm 'no, gracias'. Hoți la portul feribotului spre La Gomera. Nu subestima curenții de plajă.",
-      "en": "Generally safe, but timeshare touts on the promenade can be pushy - a firm 'no gracias' settles it. Pickpockets at the La Gomera ferry pier. Don't underestimate beach currents."
+      "en": "Generally safe, but timeshare touts on the promenade can be pushy - a firm 'no gracias' settles it. Pickpockets at the La Gomera ferry pier. Don't underestimate beach currents.",
+      "es": "Generalmente seguro, pero los vendedores de multipropiedad en el paseo pueden ser insistentes: un firme 'no gracias' lo soluciona. Carteristas en el muelle del ferry a La Gomera. No subestimes las corrientes en la playa."
     }
   }
 }

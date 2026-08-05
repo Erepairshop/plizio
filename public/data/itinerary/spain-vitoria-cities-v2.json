@@ -31,7 +31,8 @@
             "de": "Früh kommen: der Platz ist morgens am ruhigsten.",
             "hu": "Reggel a legnyugodtabb, és innen könnyű indulni.",
             "ro": "Vino devreme; dimineața e cea mai liniștită.",
-            "en": "Go early: the square is calmest in the morning."
+            "en": "Go early: the square is calmest in the morning.",
+            "es": "Ve temprano: la plaza está más tranquila por la mañana."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Achte auf die historischen Fassaden an der Nordseite.",
             "hu": "Nézd meg az északi oldalon a régi homlokzatokat.",
             "ro": "Privește fațadele istorice de pe latura nordică.",
-            "en": "Check the historic facades on the north side."
+            "en": "Check the historic facades on the north side.",
+            "es": "Fíjate en las fachadas históricas del lado norte."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Die Fassade wirkt klein, also langsam vorbeigehen.",
             "hu": "Kicsi homlokzat, érdemes lassan elsétálni mellette.",
             "ro": "Fațada e mică, mergi încet pe lângă ea.",
-            "en": "Small facade, so pass it slowly."
+            "en": "Small facade, so pass it slowly.",
+            "es": "Fachada pequeña, así que pásala despacio."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Der beste Blick liegt kurz vor oder nach der Führung.",
             "hu": "A legjobb nézőpont a vezetés előtt vagy után van.",
             "ro": "Cel mai bun unghi e înainte sau după tur.",
-            "en": "Best views come before or after the guided visit."
+            "en": "Best views come before or after the guided visit.",
+            "es": "Las mejores vistas llegan antes o después de la visita guiada."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Innen ist es moderner, aber trotzdem sehr ruhig.",
             "hu": "Belül modernebb, mégis nagyon nyugodt.",
             "ro": "Interiorul e mai modern, dar rămâne liniștit.",
-            "en": "The interior feels modern but still calm."
+            "en": "The interior feels modern but still calm.",
+            "es": "El interior se siente moderno pero aún tranquilo."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Nimm dir auch für Shop und Fassade Zeit.",
             "hu": "A shopra és a homlokzatra is hagyj időt.",
             "ro": "Lasă timp și pentru shop, și pentru fațadă.",
-            "en": "Leave time for the shop and the facade."
+            "en": "Leave time for the shop and the facade.",
+            "es": "Deja tiempo para la tienda y la fachada."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Die Kartensammlung ist klein, aber stark.",
             "hu": "A kártyagyűjtemény kicsi, de nagyon jó.",
             "ro": "Colecția de cărți e mică, dar foarte bună.",
-            "en": "The card collection is small but excellent."
+            "en": "The card collection is small but excellent.",
+            "es": "La colección de naipes es pequeña pero excelente."
           }
         },
         {
@@ -157,7 +164,8 @@
             "de": "Am besten am späten Nachmittag, wenn es stiller wird.",
             "hu": "A legjobb késő délután, amikor csendesebb.",
             "ro": "Cel mai bine după-amiaza târziu, când e mai liniște.",
-            "en": "Best in late afternoon, when it gets quieter."
+            "en": "Best in late afternoon, when it gets quieter.",
+            "es": "Mejor a última hora de la tarde, cuando se queda más tranquilo."
           }
         }
       ],
@@ -165,7 +173,8 @@
         "de": "Morgens startest du an der Plaza de la Virgen Blanca und läufst weiter zur Plaza del Machete und zum Palacio de Escoriaza-Esquivel. Mittags setzen Santa María, Catedral Nueva und Artium den kulturellen Kern. Am Nachmittag entschleunigen Museo Fournier und der Anillo Verde den Tag. Abends passt noch ein kurzer Pintxo-Stopp in der Altstadt.",
         "hu": "Reggel a Plaza de la Virgen Blancán indulj, majd jöhet a Plaza del Machete és az Escoriaza-Esquivel palota. Délben a Santa María, a Catedral Nueva és az Artium adja a nap magját. Délután a Museo Fournier és az Anillo Verde lassít le igazán. Estére egy pintxós kör zárja a várost.",
         "ro": "Dimineața începe în Plaza de la Virgen Blanca, apoi mergi spre Plaza del Machete și Palacio de Escoriaza-Esquivel. La prânz, Santa María, Catedral Nueva și Artium dau ritmul zilei. După-amiaza încetinești la Museo Fournier și pe Anillo Verde. Seara merge perfect cu pintxos în centrul vechi.",
-        "en": "Start in Plaza de la Virgen Blanca, continue to Plaza del Machete and Palacio de Escoriaza-Esquivel. By noon, Santa María, Catedral Nueva and Artium set the cultural core. In the afternoon, Museo Fournier and Anillo Verde slow the pace. Finish with pintxos in the old town."
+        "en": "Start in Plaza de la Virgen Blanca, continue to Plaza del Machete and Palacio de Escoriaza-Esquivel. By noon, Santa María, Catedral Nueva and Artium set the cultural core. In the afternoon, Museo Fournier and Anillo Verde slow the pace. Finish with pintxos in the old town.",
+        "es": "Empieza en la Plaza de la Virgen Blanca, continúa hasta la Plaza del Machete y el Palacio de Escoriaza-Esquivel. A mediodía, Santa María, la Catedral Nueva y el Artium conforman el núcleo cultural. Por la tarde, el Museo Fournier y el Anillo Verde ralentizan el ritmo. Termina con pintxos en el casco antiguo."
       },
       "gastro_picks": {
         "de": [
@@ -413,6 +422,12 @@
           "Start right at 09:10 so the squares stay calm.",
           "Keep Anillo Verde for late afternoon, when the light is softer.",
           "If you need to trim time, cut one museum stop and go green earlier."
+        ],
+        "es": [
+          "El casco antiguo es compacto, pero los adoquines recompensan llevar calzado adecuado.",
+          "Empieza a las 09:10 para que las plazas se mantengan tranquilas.",
+          "Deja el Anillo Verde para última hora de la tarde, cuando la luz es más suave.",
+          "Si necesitas recortar tiempo, elimina una visita a un museo y ve al parque antes."
         ]
       },
       "variants": {
@@ -421,7 +436,8 @@
             "de": "Beginnen Sie Ihren Morgen unter den Arkaden der Plaza de la Virgen Blanca, die idealen Schutz vor dem baskischen Regen bieten. In der Altstadt nutzen wir die engen Gassen der 'Almendra Medieval' als natürlichen Schirm, während wir zum Palacio de Escoriaza-Esquivel spazieren.\n\nMittags tauchen wir in die gotische Pracht der Kathedrale Santa María ein. Da die Besichtigung ohnehin im Inneren stattfindet, bleibt man trocken, während man die architektonischen Geheimnisse erkundet. Danach bietet die Catedral Nueva eine imposante, wetterfeste Zuflucht.\n\nAm Nachmittag widmen wir uns der zeitgenössischen Kunst im Artium und der weltweit einzigartigen Spielkartensammlung im Museo Fournier. Diese Museen sind perfekt, um den stärksten Schauern auszuweichen und tief in die Kultur einzutauchen.\n\nDer Abend endet im Anillo Verde. Im Park von Salburua bieten die hölzernen Vogelbeobachtungshütten einen trockenen Platz, um die Feuchtgebiete und Hirsche zu beobachten, während der Regen sanft auf das Wasser trommelt.",
             "hu": "A reggelt a Plaza de la Virgen Blanca árkádjai alatt kezdjük, amelyek kiváló menedéket nyújtanak a baszk eső elől. Az óvárosban az 'Almendra Medieval' szűk utcáit használjuk természetes ernyőként, miközben a Palacio de Escoriaza-Esquivel felé vesszük az irányt.\n\nDélben a Santa María-székesegyház gótikus falai közé húzódunk. A 'nyitott építkezés' túra teljesen fedett, így szárazon fedezhetjük fel az alapokat. Ezután az Új Székesegyház monumentális belső tere kínál újabb esőbiztos megállót.\n\nDélután a kortárs művészetnek szenteljük az időt az Artiumban, majd a világ egyik legjobb kártyamúzeumát nézzük meg. Ezek az intézmények tökéletesek a nagyobb záporok átvészelésére, miközben kulturálisan is feltöltődünk.\n\nAz estét az Anillo Verde zárja. Salburua parkjában a fából készült madárlesek száraz megfigyelőpontot biztosítanak, ahonnan az eső áztatta vizes élőhelyeket és a legelésző szarvasokat csodálhatjuk meg.",
             "ro": "Începeți dimineața sub arcadele din Plaza de la Virgen Blanca, care oferă un adăpost ideal împotriva ploii basce. În orașul vechi, folosim străzile înguste din 'Almendra Medieval' ca o umbrelă naturală în timp ce ne îndreptăm spre Palacio de Escoriaza-Esquivel.\n\nLa prânz, ne retragem în splendoarea gotică a Catedralei Santa María. Deoarece turul are loc în interior, rămâneți uscați în timp ce explorați secretele arhitecturale. Ulterior, Catedral Nueva oferă un refugiu impunător și ferit de intemperii.\n\nDupă-amiaza este dedicată artei contemporane la Artium și colecției unice de cărți de joc de la Muzeul Fournier. Aceste muzee sunt perfecte pentru a evita cele mai puternice averse și pentru a aprofunda cultura locală.\n\nSeara se încheie în Anillo Verde. În parcul Salburua, observatoarele de lemn pentru păsări oferă un loc uscat de unde puteți urmări zonele umede și cerbii, în timp ce ploaia cade ușor peste apă.",
-            "en": "Start your morning under the arcades of Plaza de la Virgen Blanca, which provide ideal shelter from the Basque rain. In the old town, we use the narrow streets of the 'Almendra Medieval' as a natural umbrella while walking towards the Palacio de Escoriaza-Esquivel.\n\nAt noon, we retreat into the Gothic splendor of Santa María Cathedral. Since the tour takes place indoors, you stay dry while exploring the architectural secrets. Afterwards, the Catedral Nueva offers an imposing, weatherproof refuge.\n\nIn the afternoon, we focus on contemporary art at Artium and the world-unique playing card collection at the Fournier Museum. These museums are perfect for dodging the heaviest showers while diving deep into culture.\n\nAfternoon turns to evening in the Anillo Verde. In Salburua Park, the wooden bird-watching hides provide a dry spot to observe the wetlands and deer while the rain drums softly on the water."
+            "en": "Start your morning under the arcades of Plaza de la Virgen Blanca, which provide ideal shelter from the Basque rain. In the old town, we use the narrow streets of the 'Almendra Medieval' as a natural umbrella while walking towards the Palacio de Escoriaza-Esquivel.\n\nAt noon, we retreat into the Gothic splendor of Santa María Cathedral. Since the tour takes place indoors, you stay dry while exploring the architectural secrets. Afterwards, the Catedral Nueva offers an imposing, weatherproof refuge.\n\nIn the afternoon, we focus on contemporary art at Artium and the world-unique playing card collection at the Fournier Museum. These museums are perfect for dodging the heaviest showers while diving deep into culture.\n\nAfternoon turns to evening in the Anillo Verde. In Salburua Park, the wooden bird-watching hides provide a dry spot to observe the wetlands and deer while the rain drums softly on the water.",
+            "es": "Empieza la mañana bajo los soportales de la Plaza de la Virgen Blanca, que ofrecen refugio ideal de la lluvia vasca. En el casco antiguo, usamos las estrechas calles de la 'Almendra Medieval' como un paraguas natural mientras caminamos hacia el Palacio de Escoriaza-Esquivel.\n\nAl mediodía, nos refugiamos en el esplendor gótico de la Catedral de Santa María. Como la visita es interior, te mantendrás seco mientras exploras los secretos arquitectónicos. Después, la Catedral Nueva ofrece un imponente refugio a prueba de lluvia.\n\nPor la tarde, nos centramos en arte contemporáneo en el Artium y en la única colección mundial de naipes en el Museo Fournier. Estos museos son perfectos para esquivar los chaparrones más fuertes mientras te sumerges en la cultura.\n\nLa tarde se convierte en noche en el Anillo Verde. En el Parque de Salburua, los observatorios de madera proporcionan un lugar seco para observar los humedales y los ciervos mientras la lluvia suena suavemente sobre el agua."
           },
           "stops": [
             {
@@ -430,7 +446,8 @@
                 "de": "Nutzen Sie die Bogengänge der umliegenden Häuser, um trocken zu bleiben.",
                 "hu": "Használja a környező házak árkádjait, hogy szárazon maradjon.",
                 "ro": "Folosiți arcadele caselor din jur pentru a rămâne uscați.",
-                "en": "Use the arcades of the surrounding houses to stay dry."
+                "en": "Use the arcades of the surrounding houses to stay dry.",
+                "es": "Usa los soportales de las casas colindantes para mantenerte seco."
               }
             },
             {
@@ -439,7 +456,8 @@
                 "de": "Die überdachten Bereiche des Palastes bieten Schutz vor plötzlichen Schauern.",
                 "hu": "A palota fedett részei védelmet nyújtanak a hirtelen záporok ellen.",
                 "ro": "Zonele acoperite ale palatului oferă protecție împotriva averselor bruște.",
-                "en": "The covered areas of the palace offer protection against sudden showers."
+                "en": "The covered areas of the palace offer protection against sudden showers.",
+                "es": "Las zonas cubiertas del palacio ofrecen protección contra los chaparrones repentinos."
               }
             },
             {
@@ -448,7 +466,8 @@
                 "de": "Der Innenhof ist ein großartiger Ort, um den Regen abzuwarten.",
                 "hu": "A belső udvar remek hely az eső kivárására.",
                 "ro": "Curtea interioară este un loc minunat pentru a aștepta oprirea ploii.",
-                "en": "The inner courtyard is a great place to wait out the rain."
+                "en": "The inner courtyard is a great place to wait out the rain.",
+                "es": "El patio interior es un gran lugar para esperar a que pase la lluvia."
               }
             },
             {
@@ -457,7 +476,8 @@
                 "de": "Die Führung ist komplett überdacht; perfekt für Regentage.",
                 "hu": "A vezetés teljesen fedett, tökéletes esős napokra.",
                 "ro": "Turul este complet acoperit; perfect pentru zilele ploioase.",
-                "en": "The tour is completely covered; perfect for rainy days."
+                "en": "The tour is completely covered; perfect for rainy days.",
+                "es": "La visita es completamente cubierta; perfecto para días lluviosos."
               }
             },
             {
@@ -466,7 +486,8 @@
                 "de": "Besuchen Sie das Diözesanmuseum im Inneren, um trocken zu bleiben.",
                 "hu": "Látogassa meg a benti egyházmegyei múzeumot, hogy szárazon maradjon.",
                 "ro": "Vizitați muzeul diecezan din interior pentru a rămâne uscați.",
-                "en": "Visit the diocesan museum inside to stay dry."
+                "en": "Visit the diocesan museum inside to stay dry.",
+                "es": "Visita el museo diocesano en su interior para mantenerte seco."
               }
             },
             {
@@ -475,7 +496,8 @@
                 "de": "Ein weitläufiges Museum, ideal für mehrere Stunden Schutz.",
                 "hu": "Tágas múzeum, ideális több órányi menedékhez.",
                 "ro": "Un muzeu spațios, ideal pentru câteva ore de adăpost.",
-                "en": "A spacious museum, ideal for several hours of shelter."
+                "en": "A spacious museum, ideal for several hours of shelter.",
+                "es": "Un museo espacioso, ideal para varias horas de refugio."
               }
             },
             {
@@ -484,7 +506,8 @@
                 "de": "Das Museum ist im Bendaña-Palast untergebracht, einem sicheren Ort vor Nässe.",
                 "hu": "A múzeum a Bendaña-palotában található, biztonságos hely a nedvesség elől.",
                 "ro": "Muzeul este găzduit în Palatul Bendaña, un loc sigur ferit de umezeală.",
-                "en": "The museum is housed in the Bendaña Palace, a safe place from the damp."
+                "en": "The museum is housed in the Bendaña Palace, a safe place from the damp.",
+                "es": "El museo se aloja en el Palacio Bendaña, un lugar seguro frente a la humedad."
               }
             },
             {
@@ -493,7 +516,8 @@
                 "de": "Gehen Sie direkt zum Salburua-Observatorium 'Ataria' für eine trockene Aussicht.",
                 "hu": "Menjen egyenesen a Salburua 'Ataria' központba a száraz kilátásért.",
                 "ro": "Mergeți direct la observatorul Salburua 'Ataria' pentru o priveliște uscată.",
-                "en": "Head straight to the Salburua 'Ataria' center for a dry view."
+                "en": "Head straight to the Salburua 'Ataria' center for a dry view.",
+                "es": "Ve directo al centro 'Ataria' de Salburua para una vista seca."
               }
             }
           ],
@@ -521,6 +545,12 @@
               "The stone paving in the old town can be slippery when wet; watch your step.",
               "Umbrellas are often impractical in wind; a raincoat is much better.",
               "The museums offer free cloakrooms for wet clothing."
+            ],
+            "es": [
+              "Vitoria tiene muchos pasajes cubiertos ('Arxupes'), aprovéchalos.",
+              "El pavimento de piedra del casco antiguo puede estar resbaladizo cuando está mojado; vigila el paso.",
+              "A menudo el paraguas es poco práctico con viento; un impermeable es mucho mejor.",
+              "Los museos ofrecen guardarropa gratuito para ropa mojada."
             ]
           }
         },
@@ -529,7 +559,8 @@
             "de": "Ein nebliger Wintermorgen an der Plaza de la Virgen Blanca hat seinen ganz eigenen Reiz. Die Kälte des Baskenlandes lässt sich am besten mit einem heißen Kaffee in den Bars der Calle Dato vertreiben, bevor man die historischen Fassaden erkundet.\n\nMittags suchen wir die Wärme der Kathedrale Santa María auf. Die dicken Mauern halten die Kälte draußen, und die geführte Tour ist eine faszinierende Reise durch die Zeit, die ganz im Trockenen stattfindet. Danach bietet die nahegelegene Catedral Nueva einen friedlichen, geschützten Raum.\n\nDer Nachmittag gehört der modernen Welt im Artium-Museum. Hier können Sie die Kälte vergessen, während Sie durch die beheizten Galerien schlendern. Ein kurzer Weg führt zum Fournier-Museum, wo die Welt der Spielkarten in einer gemütlichen Atmosphäre präsentiert wird.\n\nZum Abendessen locken die Pintxo-Bars in der Altstadt mit Wärme und lokalen Spezialitäten. Da die Sonne im Winter früh untergeht, ist das Anillo Verde in der Dämmerung besonders mystisch, aber denken Sie an warme Schichten für den Spaziergang durch den Frost.",
             "hu": "A ködös téli reggel a Plaza de la Virgen Blanca téren különleges hangulatú. A baszkföldi hideget leginkább egy forró kávéval űzhetjük el a Calle Dato bárjaiban, mielőtt felfedeznénk a történelmi homlokzatokat.\n\nDélben a Santa María-székesegyház melegébe vágyunk. A vastag falak kint tartják a fagyot, a vezetett túra pedig egy izgalmas időutazás, amely teljesen beltérben zajlik. Ezt követően az Új Székesegyház nyújt békés, védett teret.\n\nA délután az Artium múzeumban a modern világé. Itt elfelejtheti a hideget a fűtött galériákban sétálva. Egy rövid séta vezet a Fournier múzeumhoz, ahol a játékkártyák világa családias, meleg környezetben várja.\n\nEstére az óváros pintxo-bárjai melegséggel és helyi specialitásokkal csábítanak. Mivel télen korán nyugszik a nap, az Anillo Verde szürkületkor misztikus látvány, de ne felejtsen el rétegesen öltözni a fagyos sétához.",
             "ro": "O dimineață de iarnă cețoasă în Plaza de la Virgen Blanca are propriul farmec. Frigul din Țara Bascilor este cel mai bine alungat cu o cafea fierbinte în barurile de pe Calle Dato, înainte de a explora fațadele istorice.\n\nLa prânz, căutăm căldura Catedralei Santa María. Zidurile groase țin frigul afară, iar turul ghidat este o călătorie fascinantă prin timp, care are loc în întregime în interior. Ulterior, Catedral Nueva oferă un spațiu liniștit și protejat.\n\nDupă-amiaza aparține lumii moderne la muzeul Artium. Aici puteți uita de frig în timp ce vă plimbați prin galeriile încălzite. O scurtă plimbare duce la muzeul Fournier, unde lumea cărților de joc este prezentată într-o atmosferă primitoare.\n\nSeara, barurile de pintxos din orașul vechi vă atrag cu căldură și specialități locale. Deoarece soarele apune devreme iarna, Anillo Verde este deosebit de mistic la amurg, dar nu uitați straturile groase de haine pentru plimbarea prin ger.",
-            "en": "A misty winter morning at Plaza de la Virgen Blanca has its own unique charm. The Basque cold is best warded off with a hot coffee in the bars of Calle Dato before exploring the historical facades.\n\nAt noon, we seek the warmth of Santa María Cathedral. The thick walls keep the frost out, and the guided tour is a fascinating journey through time that takes place entirely indoors. Afterwards, the nearby Catedral Nueva offers a peaceful, sheltered space.\n\nIn the afternoon, the modern world at the Artium Museum beckons. Here you can forget the cold while strolling through the heated galleries. A short walk leads to the Fournier Museum, where the world of playing cards is presented in a cozy atmosphere.\n\nIn the evening, the pintxo bars in the old town entice with warmth and local specialties. Since the sun sets early in winter, the Anillo Verde is especially mystical at dusk, but remember warm layers for the walk through the frost."
+            "en": "A misty winter morning at Plaza de la Virgen Blanca has its own unique charm. The Basque cold is best warded off with a hot coffee in the bars of Calle Dato before exploring the historical facades.\n\nAt noon, we seek the warmth of Santa María Cathedral. The thick walls keep the frost out, and the guided tour is a fascinating journey through time that takes place entirely indoors. Afterwards, the nearby Catedral Nueva offers a peaceful, sheltered space.\n\nIn the afternoon, the modern world at the Artium Museum beckons. Here you can forget the cold while strolling through the heated galleries. A short walk leads to the Fournier Museum, where the world of playing cards is presented in a cozy atmosphere.\n\nIn the evening, the pintxo bars in the old town entice with warmth and local specialties. Since the sun sets early in winter, the Anillo Verde is especially mystical at dusk, but remember warm layers for the walk through the frost.",
+            "es": "Una mañana invernal con niebla en la Plaza de la Virgen Blanca tiene un encanto único. El frío vasco se combate mejor con un café caliente en los bares de la Calle Dato antes de explorar las fachadas históricas.\n\nAl mediodía, buscamos el calor de la Catedral de Santa María. Los muros gruesos mantienen el frío fuera, y la visita guiada es un viaje fascinante por el tiempo que se desarrolla íntegramente en interior. Después, la cercana Catedral Nueva ofrece un espacio tranquilo y resguardado.\n\nPor la tarde, el mundo moderno del Museo Artium llama la atención. Aquí puedes olvidar el frío mientras paseas por las salas climatizadas. Un corto paseo conduce al Museo Fournier, donde el mundo de los naipes se presenta en un ambiente acogedor.\n\nPor la noche, las barras de pintxos del casco antiguo invitan con calor y especialidades locales. Como el sol se pone temprano en invierno, el Anillo Verde es especialmente místico al atardecer; recuerda llevar capas abrigadas para el paseo entre la escarcha."
           },
           "stops": [
             {
@@ -538,7 +569,8 @@
                 "de": "Genießen Sie die weihnachtliche Beleuchtung am frühen Abend.",
                 "hu": "Élvezze a karácsonyi kivilágítást a kora esti órákban.",
                 "ro": "Bucurați-vă de iluminatul de Crăciun în primele ore ale serii.",
-                "en": "Enjoy the Christmas lights in the early evening."
+                "en": "Enjoy the Christmas lights in the early evening.",
+                "es": "Disfruta de las luces de Navidad a primera hora de la tarde."
               }
             },
             {
@@ -547,7 +579,8 @@
                 "de": "Trinken Sie einen heißen Wein in einer der gemütlichen Bars in der Nähe.",
                 "hu": "Igyon egy forró bort a közeli hangulatos bárok egyikében.",
                 "ro": "Beți un vin fiert într-unul dintre barurile primitoare din apropiere.",
-                "en": "Have a mulled wine in one of the cozy bars nearby."
+                "en": "Have a mulled wine in one of the cozy bars nearby.",
+                "es": "Toma un vino caliente en uno de los bares acogedores cercanos."
               }
             },
             {
@@ -556,7 +589,8 @@
                 "de": "Achten Sie auf die beeindruckende Renaissance-Fassade im Winterlicht.",
                 "hu": "Figyelje meg az impozáns reneszánsz homlokzatot a téli fényben.",
                 "ro": "Admirați fațada impresionantă de renaștere în lumina iernii.",
-                "en": "Observe the impressive Renaissance facade in the winter light."
+                "en": "Observe the impressive Renaissance facade in the winter light.",
+                "es": "Observa la impresionante fachada renacentista con la luz invernal."
               }
             },
             {
@@ -565,7 +599,8 @@
                 "de": "Die Innentemperatur ist stabil; eine ideale Flucht vor dem Wind.",
                 "hu": "A belső hőmérséklet stabil, ideális menekülés a szél elől.",
                 "ro": "Temperatura interioară este stabilă; o evadare ideală din calea vântului.",
-                "en": "The indoor temperature is stable; an ideal escape from the wind."
+                "en": "The indoor temperature is stable; an ideal escape from the wind.",
+                "es": "La temperatura interior es estable; una escapada ideal del viento."
               }
             },
             {
@@ -574,7 +609,8 @@
                 "de": "Der große Innenraum bietet Ruhe und Schutz vor dem Frost.",
                 "hu": "A hatalmas belső tér nyugalmat és védelmet nyújt a fagy ellen.",
                 "ro": "Interiorul vast oferă liniște și protecție împotriva gerului.",
-                "en": "The vast interior offers peace and protection from the frost."
+                "en": "The vast interior offers peace and protection from the frost.",
+                "es": "El vasto interior ofrece silencio y protección contra la escarcha."
               }
             },
             {
@@ -583,7 +619,8 @@
                 "de": "Perfekt beheizt; verbringen Sie hier den kältesten Teil des Tages.",
                 "hu": "Tökéletesen fűtött, töltse itt a nap leghidegebb részét.",
                 "ro": "Încălzit perfect; petreceți aici cea mai rece parte a zilei.",
-                "en": "Perfectly heated; spend the coldest part of the day here."
+                "en": "Perfectly heated; spend the coldest part of the day here.",
+                "es": "Perfectamente climatizado; pasa aquí la parte más fría del día."
               }
             },
             {
@@ -592,7 +629,8 @@
                 "de": "Kostenlose Schließfächer für schwere Wintermäntel sind vorhanden.",
                 "hu": "Ingyenes szekrények állnak rendelkezésre a nehéz télikabátoknak.",
                 "ro": "Sunt disponibile dulapuri gratuite pentru hainele groase de iarnă.",
-                "en": "Free lockers for heavy winter coats are available."
+                "en": "Free lockers for heavy winter coats are available.",
+                "es": "Hay taquillas gratuitas para abrigos de invierno pesados."
               }
             },
             {
@@ -601,7 +639,8 @@
                 "de": "Besuchen Sie die Ataria-Ausstellung, um die Natur im Warmen zu erleben.",
                 "hu": "Látogassa meg az Ataria kiállítást, hogy a melegből lássa a természetet.",
                 "ro": "Vizitați expoziția Ataria pentru a experimenta natura la căldură.",
-                "en": "Visit the Ataria exhibition to experience nature from the warmth."
+                "en": "Visit the Ataria exhibition to experience nature from the warmth.",
+                "es": "Visita la exposición Ataria para experimentar la naturaleza desde el calor interior."
               }
             }
           ],
@@ -629,6 +668,12 @@
               "The sun sets around 17:45; plan outdoor activities for earlier in the day.",
               "Try 'Goxua', a local dessert that provides a warm energy boost.",
               "Public buildings are well-heated, so dress in layers for comfort."
+            ],
+            "es": [
+              "Vitoria es una de las ciudades más frías de España; lleva capas térmicas.",
+              "El sol se pone sobre las 17:45; planifica las actividades al aire libre para antes de esa hora.",
+              "Prueba el 'Goxua', un postre local que aporta un aporte energético cálido.",
+              "Los edificios públicos están bien calefactados, así que viste por capas para mayor comodidad."
             ]
           }
         }
@@ -657,7 +702,8 @@
             "de": "Früh anrollen: dann ist der Platz am leersten.",
             "hu": "Korán érkezz: akkor a legszabadabb a tér.",
             "ro": "Ajungi devreme: atunci piața e cea mai liberă.",
-            "en": "Roll in early: the square is emptiest then."
+            "en": "Roll in early: the square is emptiest then.",
+            "es": "Entra temprano: la plaza está más vacía entonces."
           }
         },
         {
@@ -675,7 +721,8 @@
             "de": "Kurz anhalten und die Fassaden auf der Nordseite ansehen.",
             "hu": "Állj meg röviden, és nézd meg az északi homlokzatokat.",
             "ro": "Oprește puțin și uită-te la fațadele nordice.",
-            "en": "Pause briefly and check the north-side facades."
+            "en": "Pause briefly and check the north-side facades.",
+            "es": "Haz una breve pausa y mira las fachadas del lado norte."
           }
         },
         {
@@ -693,7 +740,8 @@
             "de": "Die kleine Fassade wirkt besser, wenn du langsam fährst.",
             "hu": "A kis homlokzat lassú haladásnál mutat a legjobban.",
             "ro": "Fațada mică arată mai bine dacă te miști încet.",
-            "en": "The small facade looks best when you slow down."
+            "en": "The small facade looks best when you slow down.",
+            "es": "La fachada pequeña luce mejor cuando reduces la marcha."
           }
         },
         {
@@ -711,7 +759,8 @@
             "de": "Parke das Rad in der Nähe und geh die letzten Meter zu Fuß.",
             "hu": "Tedd le a biciklit a közelben, az utolsó métereket gyalogedd.",
             "ro": "Lasă bicicleta aproape și mergi ultimii metri pe jos.",
-            "en": "Park nearby and walk the last few meters."
+            "en": "Park nearby and walk the last few meters.",
+            "es": "Aparca cerca y camina los últimos metros."
           }
         },
         {
@@ -729,7 +778,8 @@
             "de": "Der modernere Innenraum ist ein guter Kontrast zum Altstadtkern.",
             "hu": "A modernebb belső jó kontraszt az óvárossal.",
             "ro": "Interiorul mai modern contrastează bine cu centrul vechi.",
-            "en": "The more modern interior contrasts nicely with the old town."
+            "en": "The more modern interior contrasts nicely with the old town.",
+            "es": "El interior más moderno contrasta agradablemente con el casco antiguo."
           }
         },
         {
@@ -747,7 +797,8 @@
             "de": "Ein guter Ort für eine längere Pause ohne Umwege.",
             "hu": "Jó hely egy hosszabb megállóra, kerülő nélkül.",
             "ro": "Loc bun pentru o pauză mai lungă, fără ocol.",
-            "en": "A good place for a longer break without detours."
+            "en": "A good place for a longer break without detours.",
+            "es": "Un buen lugar para una pausa larga sin desviarse."
           }
         },
         {
@@ -765,7 +816,8 @@
             "de": "Klein genug für einen ruhigen Stopp, stark genug fürs Gedächtnis.",
             "hu": "Elég kicsi a nyugodt megállóhoz, elég erős az élményhez.",
             "ro": "Destul de mic pentru o pauză liniștită, destul de bun pentru memorat.",
-            "en": "Small enough for a calm stop, strong enough to remember."
+            "en": "Small enough for a calm stop, strong enough to remember.",
+            "es": "Suficientemente pequeño para una parada tranquila, lo bastante potente para quedar en la memoria."
           }
         },
         {
@@ -783,7 +835,8 @@
             "de": "Ideal zum Ausrollen, wenn du die Beine lockern willst.",
             "hu": "Ideális levezetés, ha lazítani akarod a lábad.",
             "ro": "Ideal pentru relaxare și un final mai ușor.",
-            "en": "Ideal for winding down and loosening the legs."
+            "en": "Ideal for winding down and loosening the legs.",
+            "es": "Ideal para relajarse y soltar las piernas."
           }
         }
       ],
@@ -791,7 +844,8 @@
         "de": "Am Morgen rollst du sanft durch die Plaza de la Virgen Blanca und die Plaza del Machete. Zur Mittagszeit verbinden Santa María, Catedral Nueva und Artium Geschichte mit Kultur. Am Nachmittag bringt dich das Rad rasch zum Museo Fournier und weiter in den Anillo Verde. Abends bleibt genug Zeit für Pintxos und einen entspannten Rückweg.",
         "hu": "Reggel finoman gördülj át a Plaza de la Virgen Blancán és a Plaza del Machetén. Délben a Santa María, a Catedral Nueva és az Artium köti össze a történelmet a kultúrával. Délután a bicikli gyorsan visz a Museo Fournierhez, majd az Anillo Verdébe. Estére marad idő pintxókra és egy nyugodt hazatérésre.",
         "ro": "Dimineața aluneci ușor prin Plaza de la Virgen Blanca și Plaza del Machete. La prânz, Santa María, Catedral Nueva și Artium leagă istoria de cultură. După-amiaza, bicicleta te duce repede la Museo Fournier și apoi în Anillo Verde. Seara rămâne timp pentru pintxos și întoarcere relaxată.",
-        "en": "In the morning you roll gently through Plaza de la Virgen Blanca and Plaza del Machete. By noon, Santa María, Catedral Nueva and Artium connect history with culture. In the afternoon the bike gets you quickly to Museo Fournier and then to Anillo Verde. Evening still leaves room for pintxos and an easy ride back."
+        "en": "In the morning you roll gently through Plaza de la Virgen Blanca and Plaza del Machete. By noon, Santa María, Catedral Nueva and Artium connect history with culture. In the afternoon the bike gets you quickly to Museo Fournier and then to Anillo Verde. Evening still leaves room for pintxos and an easy ride back.",
+        "es": "Por la mañana recorres suavemente la Plaza de la Virgen Blanca y la Plaza del Machete. Al mediodía, Santa María, la Catedral Nueva y el Artium conectan historia y cultura. Por la tarde la bici te lleva rápido al Museo Fournier y luego al Anillo Verde. La noche aún deja espacio para pintxos y un regreso fácil en bici."
       },
       "gastro_picks": {
         "de": [
@@ -1039,6 +1093,12 @@
           "The old-town cobbles are short, so park cleanly and roll on.",
           "Anillo Verde works best in a later slot when traffic is calmer.",
           "Bring a lock, because you'll stop more than once at museum visits."
+        ],
+        "es": [
+          "Vitoria es muy amigable para las bicicletas, pero circula despacio en el centro.",
+          "Los adoquines del casco viejo son cortos, así que aparca limpio y sigue rodando.",
+          "El Anillo Verde funciona mejor en un horario tardío cuando el tráfico está más tranquilo.",
+          "Lleva un candado, porque te detendrás más de una vez en las visitas a museos."
         ]
       },
       "variants": {
@@ -1047,7 +1107,8 @@
             "de": "Das Radfahren im Regen ist in Vitoria dank der exzellenten Radwege ('Bidegorris') sicher, erfordert aber Vorsicht. Starten Sie an der Plaza de la Virgen Blanca und nutzen Sie die grünen Wege, die oft durch Bäume geschützt sind, um zum Palacio de Escoriaza-Esquivel zu gelangen.\n\nIn der Mittagszeit lassen wir die Räder an den überdachten Ständern der Kathedralen stehen. Die Kathedrale Santa María bietet ein langes Indoor-Erlebnis, während der Regen draußen die Stadt reinigt. Ein kurzer Sprint bringt Sie zur Catedral Nueva.\n\nDer Nachmittag ist ideal, um die Museen zu erkunden. Das Artium verfügt über sichere Fahrradparkplätze in der Nähe. Von dort ist es nur ein kurzer, flacher Weg zum Fournier-Museum, wo Sie Ihr Rad kurzzeitig abstellen können, während Sie die Kartsammlung bewundern.\n\nDer Tag endet mit einer Fahrt durch den Anillo Verde. In Salburua können die Wege schlammig sein, aber die asphaltierten Abschnitte führen Sie sicher zu den Ataria-Beobachtungspunkten, wo Sie den Regen auf den Lagunen genießen können.",
             "hu": "Az esőben való biciklizés Vitoriában a kiváló kerékpárutaknak ('Bidegorris') köszönhetően biztonságos, de óvatosságot igényel. Kezdjen a Plaza de la Virgen Blancán, és használja a fákkal övezett utakat a Palacio de Escoriaza-Esquivel felé.\n\nDélidőben hagyja a bringát a katedrálisok fedett tárolóinál. A Santa María-székesegyház hosszú beltéri élményt nyújt, miközben kint az eső tisztítja a várost. Egy rövid sprinttel elérheti az Új Székesegyházat is.\n\nA délután ideális a múzeumok felfedezéséhez. Az Artium közelében biztonságos tárolók vannak. Innen csak egy rövid, sík szakasz a Fournier múzeum, ahol gyorsan lezárhatja a kerékpárt, amíg a kártyákat csodálja.\n\nA nap az Anillo Verde körúttal zárul. Salburuában az utak sárosak lehetnek, de az aszfaltozott részek biztonságosan elvezetnek az Ataria központig, ahol a fedél alól élvezheti a vizes élőhelyek látványát.",
             "ro": "Mersul pe bicicletă în ploaie este sigur în Vitoria datorită pistelor excelente ('Bidegorris'), dar necesită prudență. Începeți din Plaza de la Virgen Blanca și folosiți traseele verzi, adesea protejate de copaci, pentru a ajunge la Palacio de Escoriaza-Esquivel.\n\nLa prânz, lăsați bicicletele în suporturile acoperite de lângă catedrale. Catedrala Santa María oferă o experiență interioară lungă, în timp ce ploaia curăță orașul afară. Un sprint scurt vă duce la Catedral Nueva.\n\nDupă-amiaza este ideală pentru explorarea muzeelor. Artium are parcări sigure pentru biciclete în apropiere. De acolo, este un drum scurt și plat până la Muzeul Fournier, unde puteți parca temporar bicicleta în timp ce admirați colecția de cărți.\n\nZiua se încheie cu o plimbare prin Anillo Verde. În Salburua, potecile pot fi noroioase, dar secțiunile asfaltate vă conduc în siguranță la punctele de observare Ataria, unde puteți savura ploaia deasupra lagunelor.",
-            "en": "Cycling in the rain is safe in Vitoria thanks to excellent bike lanes ('Bidegorris'), but requires caution. Start at Plaza de la Virgen Blanca and use the green paths, often sheltered by trees, to reach the Palacio de Escoriaza-Esquivel.\n\nAt lunchtime, leave the bikes at the covered racks by the cathedrals. Santa María Cathedral offers a long indoor experience while the rain cleanses the city outside. A quick sprint takes you to the Catedral Nueva.\n\nIn the afternoon, head to the museums. Artium has secure bike parking nearby. From there, it's a short, flat ride to the Fournier Museum, where you can briefly park your bike while admiring the card collection.\n\nThe day ends with a ride through the Anillo Verde. In Salburua, trails can be muddy, but the paved sections lead you safely to the Ataria observation points, where you can enjoy the rain over the lagoons."
+            "en": "Cycling in the rain is safe in Vitoria thanks to excellent bike lanes ('Bidegorris'), but requires caution. Start at Plaza de la Virgen Blanca and use the green paths, often sheltered by trees, to reach the Palacio de Escoriaza-Esquivel.\n\nAt lunchtime, leave the bikes at the covered racks by the cathedrals. Santa María Cathedral offers a long indoor experience while the rain cleanses the city outside. A quick sprint takes you to the Catedral Nueva.\n\nIn the afternoon, head to the museums. Artium has secure bike parking nearby. From there, it's a short, flat ride to the Fournier Museum, where you can briefly park your bike while admiring the card collection.\n\nThe day ends with a ride through the Anillo Verde. In Salburua, trails can be muddy, but the paved sections lead you safely to the Ataria observation points, where you can enjoy the rain over the lagoons.",
+            "es": "Circular bajo la lluvia es seguro en Vitoria gracias a excelentes carriles bici ('Bidegorris'), pero requiere precaución. Empieza en la Plaza de la Virgen Blanca y usa los caminos verdes, a menudo protegidos por árboles, para llegar al Palacio de Escoriaza-Esquivel.\n\nA la hora de comer, deja las bicis en los aparcamientos cubiertos junto a las catedrales. La Catedral de Santa María ofrece una larga experiencia en interior mientras la lluvia limpia la ciudad fuera. Un breve sprint te lleva a la Catedral Nueva.\n\nPor la tarde, dirígete a los museos. El Artium tiene aparcamiento seguro para bicis cerca. Desde allí es un paseo corto y llano hasta el Museo Fournier, donde puedes aparcar brevemente la bicicleta mientras admiras la colección de naipes.\n\nEl día termina con un recorrido por el Anillo Verde. En Salburua, los senderos pueden estar embarrados, pero los tramos pavimentados te llevan con seguridad a los miradores de Ataria, donde puedes disfrutar de la lluvia sobre las lagunas."
           },
           "stops": [
             {
@@ -1056,7 +1117,8 @@
                 "de": "Vermeiden Sie das Bremsen auf den nassen Metallgittern im Boden.",
                 "hu": "Kerülje a fékezést a földön lévő nedves fémrácsokon.",
                 "ro": "Evitați frânarea pe grătarele metalice umede de pe sol.",
-                "en": "Avoid braking on the wet metal grates in the ground."
+                "en": "Avoid braking on the wet metal grates in the ground.",
+                "es": "Evita frenar sobre las rejillas metálicas mojadas en el suelo."
               }
             },
             {
@@ -1065,7 +1127,8 @@
                 "de": "Steigen Sie bei den steilen Kopfsteinpflaster-Abschnitten lieber ab.",
                 "hu": "A meredek macskaköves részeken inkább tolja a biciklit.",
                 "ro": "Mai bine coborâți de pe bicicletă pe secțiunile abrupte cu pavaj.",
-                "en": "Better dismount on the steep cobblestone sections."
+                "en": "Better dismount on the steep cobblestone sections.",
+                "es": "Mejor desmontar en los tramos empedrados inclinados."
               }
             },
             {
@@ -1074,7 +1137,8 @@
                 "de": "Überdachte Fahrradständer finden Sie in der Nähe der Stadtmauer.",
                 "hu": "Fedett biciklitárolókat a városfal közelében talál.",
                 "ro": "Găsiți suporturi acoperite pentru biciclete lângă zidul cetății.",
-                "en": "Covered bike racks can be found near the city wall."
+                "en": "Covered bike racks can be found near the city wall.",
+                "es": "Hay aparcabicis cubiertos cerca de la muralla de la ciudad."
               }
             },
             {
@@ -1083,7 +1147,8 @@
                 "de": "Nutzen Sie die Zeit im Trockenen, um Ihre Ausrüstung zu checken.",
                 "hu": "Használja ki a szárazon töltött időt a felszerelése ellenőrzésére.",
                 "ro": "Folosiți timpul petrecut la adăpost pentru a vă verifica echipamentul.",
-                "en": "Use the dry time to check your gear."
+                "en": "Use the dry time to check your gear.",
+                "es": "Aprovecha los ratos secos para revisar tu equipo."
               }
             },
             {
@@ -1092,7 +1157,8 @@
                 "de": "Ein kurzer, nasser Weg verbindet die beiden Kathedralen.",
                 "hu": "Rövid, vizes szakasz köti össze a két székesegyházat.",
                 "ro": "Un drum scurt și ud leagă cele două catedrale.",
-                "en": "A short, wet path connects the two cathedrals."
+                "en": "A short, wet path connects the two cathedrals.",
+                "es": "Un corto sendero húmedo conecta las dos catedrales."
               }
             },
             {
@@ -1101,7 +1167,8 @@
                 "de": "Die Fahrradständer sind hier oft windanfällig; gut abschließen.",
                 "hu": "A biciklitárolók itt gyakran szelesek, jól zárja le a gépet.",
                 "ro": "Suporturile de biciclete de aici sunt expuse la vânt; încuiați bine.",
-                "en": "The bike racks here are often exposed to wind; lock up well."
+                "en": "The bike racks here are often exposed to wind; lock up well.",
+                "es": "Los aparcabicis aquí suelen estar expuestos al viento; asegura bien la bici."
               }
             },
             {
@@ -1110,7 +1177,8 @@
                 "de": "In den engen Gassen der Altstadt langsam fahren; Fußgänger haben Vorrang.",
                 "hu": "Az óváros szűk utcáin hajtson lassan, a gyalogosoké az elsőbbség.",
                 "ro": "Mergeți încet pe străzile înguste ale orașului vechi; pietonii au prioritate.",
-                "en": "Ride slowly in the narrow streets of the old town; pedestrians have priority."
+                "en": "Ride slowly in the narrow streets of the old town; pedestrians have priority.",
+                "es": "Circula despacio por las calles estrechas del casco antiguo; los peatones tienen prioridad."
               }
             },
             {
@@ -1119,7 +1187,8 @@
                 "de": "Bleiben Sie auf den befestigten Wegen, um Schlammspritzer zu vermeiden.",
                 "hu": "Maradjon a burkolt utakon, hogy elkerülje a sárfelverődést.",
                 "ro": "Rămâneți pe traseele pavate pentru a evita stropirea cu noroi.",
-                "en": "Stay on the paved paths to avoid mud splatters."
+                "en": "Stay on the paved paths to avoid mud splatters.",
+                "es": "Mantente en los caminos pavimentados para evitar salpicaduras de barro."
               }
             }
           ],
@@ -1147,6 +1216,12 @@
               "Wear a high-visibility vest as visibility drops significantly in the rain.",
               "Avoid puddles; they might be deeper and hide potholes.",
               "A simple plastic bag over the saddle keeps it dry while you are parked."
+            ],
+            "es": [
+              "El sistema público de bicis de Vitoria (VGizizi) suele incluir guardabarros en sus bicicletas.",
+              "Lleva un chaleco reflectante porque la visibilidad cae mucho con la lluvia.",
+              "Evita los charcos; pueden ser más profundos y ocultar baches.",
+              "Una simple bolsa de plástico sobre el sillín lo mantiene seco mientras aparcas."
             ]
           }
         },
@@ -1155,7 +1230,8 @@
             "de": "Das Radfahren an einem frostigen Wintermorgen erfordert Handschuhe und Motivation. Die Plaza de la Virgen Blanca ist oft von Raureif bedeckt, was wunderschön aussieht, aber glatt sein kann. Rollen Sie gemütlich durch die mittelalterlichen Gassen zum Palacio de Escoriaza-Esquivel.\n\nUm die Mittagszeit parken wir die Räder und tauchen in die beheizte Geschichte der Kathedrale Santa María ein. Die Führung ist die perfekte Aufwärmpause. Danach bietet die Catedral Nueva eine monumentale Kulisse für ein schnelles Winterfoto, bevor es weitergeht.\n\nDer Nachmittag wird kulturell und warm. Das Artium bietet nicht nur Kunst, sondern auch eine willkommene Zuflucht vor dem beißenden Winterwind. Ein kurzer Trip zum Fournier-Museum vervollständigt das Indoor-Programm, bevor die Sonne zu sinken beginnt.\n\nZum Abschluss radeln wir in den Anillo Verde. In Salburua ist die Luft eisig, aber klar. Die tiefstehende Wintersonne spiegelt sich in den gefrorenen Teichen. Beenden Sie die Tour früh, da die Temperaturen nach Sonnenuntergang drastisch fallen.",
             "hu": "A bringázás egy fagyos téli reggelen kesztyűt és motivációt igényel. A Plaza de la Virgen Blancát gyakran zúzmara borítja, ami gyönyörű, de csúszós lehet. Guruljon kényelmesen a középkori utcákon a Palacio de Escoriaza-Esquivel felé.\n\nDél körül parkolja le a gépet, és merüljön el a Santa María-székesegyház fűtött történelmében. A vezetés tökéletes bemelegítő szünet. Ezután az Új Székesegyház monumentális hátteret ad egy gyors téli fotóhoz.\n\nA délután kulturális és meleg lesz. Az Artium nemcsak művészetet, hanem menedéket is kínál a metsző téli szél elől. Egy rövid út a Fournier múzeumba teljessé teszi a beltéri programot, mielőtt a nap lebukna.\n\nZárásként tekerjen az Anillo Verde felé. Salburuában a levegő jeges, de tiszta. Az alacsonyan járó téli nap megcsillan a befagyott tavakon. Fejezze be korán a túrát, mert napnyugta után a hőmérséklet drasztikusan esik.",
             "ro": "Mersul pe bicicletă într-o dimineață geroasă de iarnă necesită mănuși și motivație. Plaza de la Virgen Blanca este adesea acoperită de chiciură, ceea ce arată superb, dar poate fi alunecos. Mergeți agale prin străzile medievale spre Palacio de Escoriaza-Esquivel.\n\nÎn jurul prânzului, parcăm bicicletele și ne cufundăm în istoria încălzită a Catedralei Santa María. Turul ghidat este pauza perfectă de încălzire. Ulterior, Catedral Nueva oferă un cadru monumental pentru o fotografie rapidă de iarnă.\n\nDupă-amiaza devine culturală și caldă. Artium oferă nu doar artă, ci și un refugiu binevenit împotriva vântului tăios de iarnă. O scurtă vizită la Muzeul Fournier completează programul de interior înainte ca soarele să înceapă să apună.\n\nLa final, pedalăm spre Anillo Verde. În Salburua, aerul este înghețat, dar senin. Soarele jos de iarnă se reflectă în iazurile înghețate. Încheiați turul devreme, deoarece temperaturile scad drastic după apus.",
-            "en": "Cycling on a frosty winter morning requires gloves and motivation. Plaza de la Virgen Blanca is often covered in hoarfrost, which looks beautiful but can be slippery. Roll comfortably through the medieval streets to the Palacio de Escoriaza-Esquivel.\n\nAround noon, we park the bikes and dive into the heated history of Santa María Cathedral. The guided tour is the perfect warm-up break. Afterwards, the Catedral Nueva provides a monumental backdrop for a quick winter photo before moving on.\n\nIn the afternoon, things get cultural and warm. Artium offers not just art but also a welcome refuge from the biting winter wind. A short trip to the Fournier Museum completes the indoor program before the sun starts to set.\n\nThe tour ends with a ride into the Anillo Verde. In Salburua, the air is icy but clear. The low winter sun reflects off the frozen ponds. Finish the tour early, as temperatures drop drastically after sunset."
+            "en": "Cycling on a frosty winter morning requires gloves and motivation. Plaza de la Virgen Blanca is often covered in hoarfrost, which looks beautiful but can be slippery. Roll comfortably through the medieval streets to the Palacio de Escoriaza-Esquivel.\n\nAround noon, we park the bikes and dive into the heated history of Santa María Cathedral. The guided tour is the perfect warm-up break. Afterwards, the Catedral Nueva provides a monumental backdrop for a quick winter photo before moving on.\n\nIn the afternoon, things get cultural and warm. Artium offers not just art but also a welcome refuge from the biting winter wind. A short trip to the Fournier Museum completes the indoor program before the sun starts to set.\n\nThe tour ends with a ride into the Anillo Verde. In Salburua, the air is icy but clear. The low winter sun reflects off the frozen ponds. Finish the tour early, as temperatures drop drastically after sunset.",
+            "es": "Ciclar en una mañana invernal helada exige guantes y motivación. La Plaza de la Virgen Blanca suele estar cubierta de escarcha, que es preciosa pero resbaladiza. Rueda con comodidad por las calles medievales hasta el Palacio de Escoriaza-Esquivel.\n\nAl mediodía, aparcamos las bicicletas y nos refugiamos en la cálida historia de la Catedral de Santa María. La visita guiada es el descanso perfecto para entrar en calor. Después, la Catedral Nueva ofrece un telón de fondo monumental para una rápida foto invernal antes de continuar.\n\nPor la tarde, la agenda se vuelve cultural y cálida. El Artium ofrece no solo arte sino también un refugio del viento frío. Una breve visita al Museo Fournier completa el programa interior antes de que empiece a ponerse el sol.\n\nLa ruta termina con un paseo por el Anillo Verde. En Salburua el aire es helado pero claro. El sol bajo del invierno se refleja en las lagunas heladas. Finaliza la ruta pronto, ya que las temperaturas bajan drásticamente tras el ocaso."
           },
           "stops": [
             {
@@ -1164,7 +1240,8 @@
                 "de": "Prüfen Sie den Reifendruck; etwas weniger Druck hilft auf glattem Boden.",
                 "hu": "Ellenőrizze a guminyomást, a kicsit laposabb gumi jobban tapad a csúszós úton.",
                 "ro": "Verificați presiunea în anvelope; o presiune mai mică ajută pe sol alunecos.",
-                "en": "Check your tire pressure; slightly lower pressure helps on slippery ground."
+                "en": "Check your tire pressure; slightly lower pressure helps on slippery ground.",
+                "es": "Revisa la presión de los neumáticos; una presión ligeramente menor ayuda en suelo resbaladizo."
               }
             },
             {
@@ -1173,7 +1250,8 @@
                 "de": "Die Treppen können vereist sein, nutzen Sie die Rampen vorsichtig.",
                 "hu": "A lépcsők jegesek lehetnek, használja óvatosan a rámpákat.",
                 "ro": "Scările pot fi înghețate, folosiți rampele cu atenție.",
-                "en": "The stairs can be icy; use the ramps carefully."
+                "en": "The stairs can be icy; use the ramps carefully.",
+                "es": "Las escaleras pueden estar heladas; usa las rampas con cuidado."
               }
             },
             {
@@ -1182,7 +1260,8 @@
                 "de": "Lassen Sie das Rad im Windschatten des Palastes stehen.",
                 "hu": "Hagyja a biciklit a palota szélvédett oldalán.",
                 "ro": "Lăsați bicicleta la adăpost de vânt lângă palat.",
-                "en": "Leave the bike in the lee of the palace."
+                "en": "Leave the bike in the lee of the palace.",
+                "es": "Deja la bicicleta a sotavento del palacio."
               }
             },
             {
@@ -1191,7 +1270,8 @@
                 "de": "Genießen Sie die Wärme im Inneren für mindestens eine Stunde.",
                 "hu": "Élvezze a benti meleget legalább egy órán át.",
                 "ro": "Bucurați-vă de căldura din interior timp de cel puțin o oră.",
-                "en": "Enjoy the warmth inside for at least an hour."
+                "en": "Enjoy the warmth inside for at least an hour.",
+                "es": "Disfruta del calor interior al menos una hora."
               }
             },
             {
@@ -1200,7 +1280,8 @@
                 "de": "Die offenen Flächen hier sind im Winter oft sehr windig.",
                 "hu": "A nyitott terek itt télen gyakran nagyon szelesek.",
                 "ro": "Zonele deschise de aici sunt adesea foarte bătute de vânt iarna.",
-                "en": "The open spaces here are often very windy in winter."
+                "en": "The open spaces here are often very windy in winter.",
+                "es": "Los espacios abiertos aquí suelen ser muy ventosos en invierno."
               }
             },
             {
@@ -1209,7 +1290,8 @@
                 "de": "Nutzen Sie den beheizten Innenbereich zum Aufwärmen der Hände.",
                 "hu": "Használja a fűtött belső teret a kezei felmelegítésére.",
                 "ro": "Folosiți spațiul interior încălzit pentru a vă încălzi mâinile.",
-                "en": "Use the heated interior area to warm up your hands."
+                "en": "Use the heated interior area to warm up your hands.",
+                "es": "Utiliza el área interior climatizada para calentar las manos."
               }
             },
             {
@@ -1218,7 +1300,8 @@
                 "de": "Sichern Sie das Rad an einem gut beleuchteten Platz.",
                 "hu": "Rögzítse a biciklit jól kivilágított helyen.",
                 "ro": "Asigurați bicicleta într-un loc bine iluminat.",
-                "en": "Secure the bike in a well-lit spot."
+                "en": "Secure the bike in a well-lit spot.",
+                "es": "Asegura la bicicleta en un lugar bien iluminado."
               }
             },
             {
@@ -1227,7 +1310,8 @@
                 "de": "Achten Sie auf gefrorene Pfützen auf den Wegen.",
                 "hu": "Ügyeljen a befagyott tócsákra az utakon.",
                 "ro": "Atenție la bălțile înghețate de pe poteci.",
-                "en": "Watch out for frozen puddles on the paths."
+                "en": "Watch out for frozen puddles on the paths.",
+                "es": "Cuidado con los charcos helados en los caminos."
               }
             }
           ],
@@ -1255,6 +1339,12 @@
               "Keep your bike lights on at all times due to potential winter mist.",
               "Avoid sudden steering movements on slippery cobblestones.",
               "A hot tea in a thermos is your best companion for the ride."
+            ],
+            "es": [
+              "Lleva ropa cortaviento, especialmente para los descensos.",
+              "Mantén las luces de la bici encendidas por la posible niebla invernal.",
+              "Evita movimientos bruscos de dirección sobre adoquines resbaladizos.",
+              "Un té caliente en un termo es tu mejor compañero de la ruta."
             ]
           }
         }
@@ -1283,7 +1373,8 @@
             "de": "Hier parken nur kurz, dann direkt zu Fuß weiter.",
             "hu": "Itt csak röviden állj meg, aztán gyalog folytasd.",
             "ro": "Parchează doar scurt aici, apoi continuă pe jos.",
-            "en": "Park only briefly here, then continue on foot."
+            "en": "Park only briefly here, then continue on foot.",
+            "es": "Aparca solo brevemente aquí y continúa a pie."
           }
         },
         {
@@ -1301,7 +1392,8 @@
             "de": "Mit dem Auto nicht rangieren, einfach den Block zu Fuß machen.",
             "hu": "Autóval ne manőverezz, inkább gyalog járd be a blokkot.",
             "ro": "Nu manevra cu mașina; fă blocul pe jos.",
-            "en": "Don't maneuver by car; do this block on foot."
+            "en": "Don't maneuver by car; do this block on foot.",
+            "es": "No te muevas en coche; haz este tramo a pie."
           }
         },
         {
@@ -1319,7 +1411,8 @@
             "de": "Die Straße ist schmal, also lieber abstellen und gehen.",
             "hu": "Az utca szűk, jobb leparkolni és gyalog menni.",
             "ro": "Strada e îngustă, așa că oprește și mergi pe jos.",
-            "en": "The street is narrow, so park and walk."
+            "en": "The street is narrow, so park and walk.",
+            "es": "La calle es estrecha, así que aparca y camina."
           }
         },
         {
@@ -1337,7 +1430,8 @@
             "de": "Für die Altstadt ist einmal parken besser als mehrmals fahren.",
             "hu": "Az óvárosban jobb egyszer parkolni, mint sokszor autózni.",
             "ro": "În centrul vechi e mai bine să parchezi o dată decât să tot conduci.",
-            "en": "In the old town, one parking stop beats driving around."
+            "en": "In the old town, one parking stop beats driving around.",
+            "es": "En el casco antiguo, una parada para aparcar vence a dar vueltas en coche."
           }
         },
         {
@@ -1355,7 +1449,8 @@
             "de": "Hier lohnt sich der erste echte Auto-Hop zwischen Clustern.",
             "hu": "Itt jön az első igazi autós ugrás a klaszterek között.",
             "ro": "Aici merită primul hop adevărat cu mașina între clustere.",
-            "en": "This is the first real car hop between clusters."
+            "en": "This is the first real car hop between clusters.",
+            "es": "Este es el primer verdadero salto en coche entre conjuntos."
           }
         },
         {
@@ -1373,7 +1468,8 @@
             "de": "Zu Fuß ist der Sprung kurz, also das Auto stehen lassen.",
             "hu": "Gyalog rövid az ugrás, az autót hagyd állni.",
             "ro": "Pe jos e o distanță scurtă, lasă mașina.",
-            "en": "The hop is short on foot, so leave the car parked."
+            "en": "The hop is short on foot, so leave the car parked.",
+            "es": "El salto es corto a pie, así que deja el coche estacionado."
           }
         },
         {
@@ -1391,7 +1487,8 @@
             "de": "Der grüne Schluss funktioniert am besten mit einer einzigen Fahrt.",
             "hu": "A zöld lezárás akkor a legjobb, ha csak egyszer hajtasz oda.",
             "ro": "Finalul verde merge cel mai bine cu o singură deplasare.",
-            "en": "The green finish works best with one single drive."
+            "en": "The green finish works best with one single drive.",
+            "es": "La llegada por la zona verde funciona mejor con un único desplazamiento en coche."
           }
         }
       ],
@@ -1399,7 +1496,8 @@
         "de": "Am Morgen parkst du einmal nahe der Altstadt und gehst die kurzen Wege zu Fuß. Zur Mittagszeit bleibt der Kern aus Santa María, Catedral Nueva und Artium kompakt und stressfrei. Am Nachmittag springst du mit dem Auto nur zwischen den Clustern und sparst dir unnötige Schleifen. Abends ist der Anillo Verde der ruhige Abschluss vor dem Essen.",
         "hu": "Reggel egyszer parkolj az óváros közelében, és a rövid szakaszokat gyalog tedd meg. Délben a Santa María, a Catedral Nueva és az Artium magja kompakt és stresszmentes marad. Délután az autóval csak a klaszterek között ugorj, és ne csinálj fölös kanyarokat. Estére az Anillo Verde adja a nyugodt lezárást vacsora előtt.",
         "ro": "Dimineața parchezi o singură dată lângă centrul vechi și mergi pe jos pe traseele scurte. La prânz, nucleul cu Santa María, Catedral Nueva și Artium rămâne compact și fără stres. După-amiaza, folosești mașina doar între clustere și eviți ocolurile inutile. Seara, Anillo Verde e finalul liniștit înainte de cină.",
-        "en": "In the morning, park once near the old town and walk the short stretches. By noon, the Santa María, Catedral Nueva and Artium core stays compact and low-stress. In the afternoon, use the car only between clusters and skip unnecessary loops. Evening ends quietly at Anillo Verde before dinner."
+        "en": "In the morning, park once near the old town and walk the short stretches. By noon, the Santa María, Catedral Nueva and Artium core stays compact and low-stress. In the afternoon, use the car only between clusters and skip unnecessary loops. Evening ends quietly at Anillo Verde before dinner.",
+        "es": "Por la mañana, aparca cerca del casco antiguo y camina los tramos cortos. Al mediodía, Santa María, la Catedral Nueva y el Artium permanecen compactos y sin estrés. Por la tarde, usa el coche solo entre conjuntos y evita vueltas innecesarias. La tarde termina tranquila en el Anillo Verde antes de cenar."
       },
       "gastro_picks": {
         "de": [
@@ -1647,6 +1745,12 @@
           "The short walks between core stops are faster than constantly moving the car.",
           "For Anillo Verde, a later return works better when traffic is calmer.",
           "If you use a garage, pick one on the edge of the old town, not in the middle."
+        ],
+        "es": [
+          "Aparca una vez cerca del centro y evita conducir por los carriles estrechos del casco antiguo.",
+          "Las pequeñas caminatas entre paradas principales son más rápidas que mover el coche constantemente.",
+          "Para el Anillo Verde, volver más tarde funciona mejor cuando el tráfico está más tranquilo.",
+          "Si usas un garaje, elige uno en el borde del casco antiguo, no en el centro."
         ]
       },
       "variants": {
@@ -1655,7 +1759,8 @@
             "de": "An einem regnerischen Tag in Vitoria ist das Auto eine bequeme Basis. Parken Sie in der Tiefgarage am Plaza de la Virgen Blanca und genießen Sie den kurzen Weg zu den Sehenswürdigkeiten. Der Regen gibt der mittelalterlichen 'Almendra' einen glänzenden, historischen Look.\n\nMittags steuern wir das Auto in die Nähe der Kathedrale Santa María. Die Besichtigung der Fundamente ist völlig wetterunabhängig und bietet tiefe Einblicke in die Geschichte. Von dort ist es nur ein kurzer Sprung zurück ins trockene Fahrzeug.\n\nDer Nachmittag ist perfekt für Museumsbesuche geeignet. Das Artium und das Museo Fournier liegen zentral und sind gut erreichbar. Nutzen Sie die kurzen Fahrzeiten zwischen den Stopps, um nicht nass zu werden, während Sie von moderner Kunst zu antiken Spielkarten wechseln.\n\nDen Abend lassen wir im Anillo Verde ausklingen. In Salburua können Sie bis zum Informationszentrum Ataria fahren, das direkt an den Feuchtgebieten liegt. So können Sie die Natur beobachten, ohne lange Strecken im Regen laufen zu müssen.",
             "hu": "Egy esős napon Vitoriában az autó kényelmes bázis. Parkoljon a Plaza de la Virgen Blanca alatti mélygarázsban, és élvezze a látnivalók közelségét. Az eső csillogó, történelmi megjelenést kölcsönöz a középkori 'Almendra'-nak.\n\nDélben hajtson a Santa María-székesegyház közelébe. Az alapok megtekintése teljesen időjárásfüggetlen, és mély betekintést nyújt a múltba. Innen csak egy ugrás vissza a száraz autóba.\n\nA délután tökéletes a múzeumlátogatáshoz. Az Artium és a Fournier múzeum központi helyen van és jól megközelíthető. Használja ki a rövid menetidőket, hogy ne ázzon el, miközben a modern művészettől az antik játékkártyák felé tart.\n\nAz estét az Anillo Verdében zárjuk. Salburuában egészen az Ataria információs központig hajthat, amely közvetlenül a vizes élőhelyek mellett található. Így anélkül figyelheti meg a természetet, hogy sokat kellene gyalogolnia az esőben.",
             "ro": "Într-o zi ploioasă în Vitoria, mașina este o bază confortabilă. Parcați în parcarea subterană de la Plaza de la Virgen Blanca și bucurați-vă de distanța scurtă până la obiective. Ploaia conferă 'Almendra' medievale un aspect strălucitor și istoric.\n\nLa prânz, conduceți până aproape de Catedrala Santa María. Vizitarea fundațiilor este complet independentă de vreme și oferă perspective profunde asupra istoriei. De acolo, este doar un pas înapoi în vehiculul uscat.\n\nDupă-amiaza este perfectă pentru vizite la muzee. Artium și Muzeul Fournier sunt situate central și sunt ușor accesibile. Profitați de timpii scurți de condus între opriri pentru a nu vă uda, trecând de la arta modernă la cărțile de joc antice.\n\nÎncheiem seara în Anillo Verde. În Salburua puteți conduce până la centrul de informare Ataria, situat direct lângă zonele umede. Astfel, puteți observa natura fără a fi nevoie să mergeți pe jos distanțe lungi prin ploaie.",
-            "en": "On a rainy day in Vitoria, the car serves as a comfortable base. Park in the underground garage at Plaza de la Virgen Blanca and enjoy the short walk to the sights. The rain gives the medieval 'Almendra' a shiny, historic look.\n\nAt noon, drive close to Santa María Cathedral. The tour of the foundations is completely weather-independent and offers deep insights into history. From there, it's just a quick hop back into your dry vehicle.\n\nIn the afternoon, the museums are perfect. Artium and the Fournier Museum are centrally located and easily accessible. Use the short driving times between stops to stay dry while moving from modern art to antique playing cards.\n\nThe evening ends at Anillo Verde. In Salburua, you can drive right up to the Ataria information center, located directly by the wetlands. This allows you to observe nature without having to walk long distances in the rain."
+            "en": "On a rainy day in Vitoria, the car serves as a comfortable base. Park in the underground garage at Plaza de la Virgen Blanca and enjoy the short walk to the sights. The rain gives the medieval 'Almendra' a shiny, historic look.\n\nAt noon, drive close to Santa María Cathedral. The tour of the foundations is completely weather-independent and offers deep insights into history. From there, it's just a quick hop back into your dry vehicle.\n\nIn the afternoon, the museums are perfect. Artium and the Fournier Museum are centrally located and easily accessible. Use the short driving times between stops to stay dry while moving from modern art to antique playing cards.\n\nThe evening ends at Anillo Verde. In Salburua, you can drive right up to the Ataria information center, located directly by the wetlands. This allows you to observe nature without having to walk long distances in the rain.",
+            "es": "En un día lluvioso en Vitoria, el coche sirve de base cómoda. Aparca en el garaje subterráneo de la Plaza de la Virgen Blanca y disfruta de la corta caminata hasta los lugares de interés. La lluvia da a la 'Almendra' medieval un aspecto brillante e histórico.\n\nAl mediodía, acerca el coche a la Catedral de Santa María. La visita a los cimientos es totalmente independiente del tiempo y ofrece profundas miradas a la historia. Desde allí es solo un salto de vuelta a tu vehículo seco.\n\nPor la tarde, los museos son perfectos. El Artium y el Museo Fournier están en el centro y son de fácil acceso. Usa los cortos tiempos de conducción entre paradas para mantenerte seco al pasar del arte moderno a las naipes antiguos.\n\nLa tarde termina en el Anillo Verde. En Salburua puedes llegar en coche hasta el centro de interpretación Ataria, situado junto a los humedales. Esto permite observar la naturaleza sin tener que caminar largas distancias bajo la lluvia."
           },
           "stops": [
             {
@@ -1664,7 +1769,8 @@
                 "de": "Nutzen Sie das Parkhaus 'Virgen Blanca' für direkten Zugang.",
                 "hu": "Használja a 'Virgen Blanca' parkolóházat a közvetlen bejutáshoz.",
                 "ro": "Folosiți parcarea 'Virgen Blanca' pentru acces direct.",
-                "en": "Use the 'Virgen Blanca' parking garage for direct access."
+                "en": "Use the 'Virgen Blanca' parking garage for direct access.",
+                "es": "Usa el aparcamiento 'Virgen Blanca' para acceso directo."
               }
             },
             {
@@ -1673,7 +1779,8 @@
                 "de": "Parken Sie am Rande der Altstadt, da das Zentrum verkehrsberuhigt ist.",
                 "hu": "Parkoljon az óváros szélén, mert a központ forgalomcsillapított.",
                 "ro": "Parcați la marginea orașului vechi, deoarece centrul este zonă pietonală.",
-                "en": "Park at the edge of the old town, as the center is pedestrian-friendly."
+                "en": "Park at the edge of the old town, as the center is pedestrian-friendly.",
+                "es": "Aparca en el borde del casco antiguo, ya que el centro es peatonal."
               }
             },
             {
@@ -1682,7 +1789,8 @@
                 "de": "Die Zufahrt ist eingeschränkt; nutzen Sie nahegelegene Parkhäuser.",
                 "hu": "A behajtás korlátozott, használja a közeli parkolóházakat.",
                 "ro": "Accesul auto este restricționat; folosiți parcările din apropiere.",
-                "en": "Access is restricted; use nearby parking garages."
+                "en": "Access is restricted; use nearby parking garages.",
+                "es": "El acceso está restringido; usa garajes cercanos."
               }
             },
             {
@@ -1691,7 +1799,8 @@
                 "de": "Hinterlassen Sie Schirme und nasse Jacken im Kofferraum.",
                 "hu": "Hagyja az esernyőket és a vizes kabátokat a csomagtartóban.",
                 "ro": "Lăsați umbrelele și hainele ude în portbagaj.",
-                "en": "Leave umbrellas and wet coats in the trunk."
+                "en": "Leave umbrellas and wet coats in the trunk.",
+                "es": "Deja paraguas y abrigos mojados en el maletero."
               }
             },
             {
@@ -1700,7 +1809,8 @@
                 "de": "Es gibt eine eigene Tiefgarage direkt unter dem Museum.",
                 "hu": "Közvetlenül a múzeum alatt saját mélygarázs található.",
                 "ro": "Există o parcare subterană proprie chiar sub muzeu.",
-                "en": "There is a dedicated underground garage right beneath the museum."
+                "en": "There is a dedicated underground garage right beneath the museum.",
+                "es": "Hay un garaje subterráneo justo debajo del museo."
               }
             },
             {
@@ -1709,7 +1819,8 @@
                 "de": "Kurze Fahrwege halten Sie zwischen den Museen trocken.",
                 "hu": "A rövid menetidők szárazon tartják a múzeumok között.",
                 "ro": "Drumurile scurte vă mențin uscați între muzee.",
-                "en": "Short drives keep you dry between the museums."
+                "en": "Short drives keep you dry between the museums.",
+                "es": "Los desplazamientos cortos te mantienen seco entre museos."
               }
             },
             {
@@ -1718,7 +1829,8 @@
                 "de": "Parken Sie direkt am Ataria-Zentrum für minimalen Fußweg.",
                 "hu": "Parkoljon közvetlenül az Ataria központnál a minimális gyaloglásért.",
                 "ro": "Parcați direct la centrul Ataria pentru un drum minim pe jos.",
-                "en": "Park directly at the Ataria center for minimal walking."
+                "en": "Park directly at the Ataria center for minimal walking.",
+                "es": "Aparca directamente en el centro Ataria para caminar lo mínimo."
               }
             }
           ],
@@ -1746,6 +1858,12 @@
               "Parking garages in the center are plentiful and often affordable.",
               "Use intermittent wiper settings for the mist and drizzle.",
               "Allow extra time for finding a parking spot near Salburua."
+            ],
+            "es": [
+              "Evita conducir por las calles estrechas de la 'Almendra' del casco antiguo.",
+              "Los garajes del centro son abundantes y a menudo económicos.",
+              "Usa barridos intermitentes para la niebla y la llovizna.",
+              "Deja tiempo extra para encontrar aparcamiento cerca de Salburua."
             ]
           }
         },
@@ -1754,7 +1872,8 @@
             "de": "An einem kalten Wintermorgen ist die Sitzheizung Ihr bester Freund. Beginnen Sie an der Plaza de la Virgen Blanca; das Parkhaus sorgt dafür, dass Ihr Auto eisfrei bleibt, während Sie den historischen Kern besuchen.\n\nMittags bietet die Kathedrale Santa María eine faszinierende Flucht in die Wärme. Die geführte Tour ist so konzipiert, dass man die Kälte draußen vergisst. Danach ist die Catedral Nueva nur eine kurze Fahrt entfernt, wo Sie die monumentale Architektur bewundern können.\n\nDer Nachmittag gehört der Kunst im Artium-Museum. Dank der eigenen Tiefgarage gelangen Sie fast direkt vom Auto in die beheizten Ausstellungsräume. Ein kurzer Transfer bringt Sie zum Fournier-Museum, wo die Welt der Spielkarten in einer behaglichen Atmosphäre wartet.\n\nZum Abschluss fahren wir in den Anillo Verde. In der Dämmerung ist Salburua besonders ruhig. Genießen Sie die winterliche Landschaft vom warmen Ataria-Zentrum aus. Da es früh dunkel wird, ist die Rückfahrt in die beleuchtete Stadt ein glanzvoller Abschluss des Tages.",
             "hu": "Egy hideg téli reggelen az ülésfűtés a legjobb barátja. Kezdjen a Plaza de la Virgen Blancán; a parkolóház biztosítja, hogy autója jégmentes maradjon, amíg ön a történelmi központot járja.\n\nDélben a Santa María-székesegyház kínál lenyűgöző menekülést a melegbe. A vezetett túra során elfelejtheti a kinti hideget. Ezután az Új Székesegyház csak egy rövid autóút, ahol megcsodálhatja a monumentális építészetet.\n\nA délután a művészeté az Artium múzeumban. A saját mélygarázsnak köszönhetően szinte közvetlenül az autóból a fűtött kiállítóterekbe juthat. Rövid transzfer viszi a Fournier múzeumba, ahol barátságos környezetben várja a kártyák világa.\n\nZárásként az Anillo Verde felé vesszük az irányt. Szürkületkor Salburua különösen csendes. Élvezze a téli tájat a meleg Ataria központból. Mivel korán sötétedik, a visszaút a kivilágított városba ragyogó lezárása a napnak.",
             "ro": "Într-o dimineață rece de iarnă, încălzirea în scaune este cel mai bun prieten. Începeți la Plaza de la Virgen Blanca; parcarea subterană asigură că mașina rămâne fără gheață în timp ce vizitați nucleul istoric.\n\nLa prânz, Catedrala Santa María oferă o evadare fascinantă la căldură. Turul ghidat este conceput astfel încât să uitați de frigul de afară. Ulterior, Catedral Nueva este la doar o scurtă călătorie cu mașina, unde puteți admira arhitectura monumentală.\n\nDupă-amiaza aparține artei la muzeul Artium. Datorită parcării subterane proprii, ajungeți aproape direct din mașină în sălile de expoziție încălzite. Un transfer scurt vă duce la Muzeul Fournier, unde lumea cărților de joc așteaptă într-o atmosferă primitoare.\n\nLa final, conducem spre Anillo Verde. La amurg, Salburua este deosebit de liniștit. Bucurați-vă de peisajul hibernal din centrul cald Ataria. Deoarece se întunecă devreme, drumul de întoarcere în orașul iluminat este o încheiere strălucitoare a zilei.",
-            "en": "On a cold winter morning, heated seats are your best friend. Start at Plaza de la Virgen Blanca; the parking garage ensures your car stays frost-free while you visit the historic core.\n\nAt noon, Santa María Cathedral offers a fascinating escape into the warmth. The guided tour is designed to make you forget the chill outside. Afterwards, the Catedral Nueva is just a short drive away, where you can admire the monumental architecture.\n\nIn the afternoon, enjoy art at the Artium Museum. Thanks to its own underground parking, you can go almost directly from your car into the heated exhibition rooms. A quick transfer takes you to the Fournier Museum, where the world of playing cards awaits in a cozy atmosphere.\n\nThe day concludes with a drive to the Anillo Verde. At dusk, Salburua is especially peaceful. Enjoy the winter landscape from the warm Ataria center. Since it gets dark early, the drive back into the lit-up city is a brilliant end to the day."
+            "en": "On a cold winter morning, heated seats are your best friend. Start at Plaza de la Virgen Blanca; the parking garage ensures your car stays frost-free while you visit the historic core.\n\nAt noon, Santa María Cathedral offers a fascinating escape into the warmth. The guided tour is designed to make you forget the chill outside. Afterwards, the Catedral Nueva is just a short drive away, where you can admire the monumental architecture.\n\nIn the afternoon, enjoy art at the Artium Museum. Thanks to its own underground parking, you can go almost directly from your car into the heated exhibition rooms. A quick transfer takes you to the Fournier Museum, where the world of playing cards awaits in a cozy atmosphere.\n\nThe day concludes with a drive to the Anillo Verde. At dusk, Salburua is especially peaceful. Enjoy the winter landscape from the warm Ataria center. Since it gets dark early, the drive back into the lit-up city is a brilliant end to the day.",
+            "es": "En una fría mañana de invierno, los asientos calefactados son tu mejor aliado. Empieza en la Plaza de la Virgen Blanca; el garaje mantiene el coche libre de escarcha mientras visitas el núcleo histórico.\n\nAl mediodía, la Catedral de Santa María ofrece una fascinante escapada al calor. La visita guiada está pensada para hacerte olvidar el frío exterior. Después, la Catedral Nueva está a un corto trayecto en coche, donde puedes admirar su arquitectura monumental.\n\nPor la tarde, disfruta del arte en el Museo Artium. Gracias a su aparcamiento subterráneo, puedes entrar casi directamente desde tu coche a las salas climatizadas. Un traslado rápido te lleva al Museo Fournier, donde el mundo de las naipes te espera en un ambiente acogedor.\n\nEl día concluye con un viaje al Anillo Verde. Al anochecer, Salburua es especialmente apacible. Disfruta del paisaje invernal desde el cálido centro Ataria. Como oscurece pronto, el regreso a la ciudad iluminada es un brillante final del día."
           },
           "stops": [
             {
@@ -1763,7 +1882,8 @@
                 "de": "Nutzen Sie die beheizten Parkhäuser, um das Auto warm zu halten.",
                 "hu": "Használja a fűtött parkolóházakat, hogy az autó meleg maradjon.",
                 "ro": "Folosiți parcările subterane pentru a menține mașina caldă.",
-                "en": "Use underground parking garages to keep the car relatively warm."
+                "en": "Use underground parking garages to keep the car relatively warm.",
+                "es": "Usa garajes subterráneos para mantener el coche relativamente cálido."
               }
             },
             {
@@ -1772,7 +1892,8 @@
                 "de": "Vermeiden Sie das Parken auf steilen, potenziell glatten Straßen.",
                 "hu": "Kerülje a parkolást meredek, esetleg csúszós utcákban.",
                 "ro": "Evitați parcarea pe străzile abrupte și potențial alunecoase.",
-                "en": "Avoid parking on steep, potentially slippery streets."
+                "en": "Avoid parking on steep, potentially slippery streets.",
+                "es": "Evita aparcar en calles empinadas y potencialmente resbaladizas."
               }
             },
             {
@@ -1781,7 +1902,8 @@
                 "de": "Nutzen Sie die Zeit im Auto zwischen den Stopps zum Aufwärmen.",
                 "hu": "Használja az autóban töltött időt a megállók között a felmelegedésre.",
                 "ro": "Folosiți timpul în mașină între opriri pentru a vă încălzi.",
-                "en": "Use the time in the car between stops to warm up."
+                "en": "Use the time in the car between stops to warm up.",
+                "es": "Aprovecha el tiempo en el coche entre paradas para entrar en calor."
               }
             },
             {
@@ -1790,7 +1912,8 @@
                 "de": "Tragen Sie beim Aussteigen warme Kleidung gegen den Wind.",
                 "hu": "Kiszálláskor viseljen meleg ruhát a szél ellen.",
                 "ro": "Purtați haine groase împotriva vântului când coborâți din mașină.",
-                "en": "Wear warm clothes against the wind when getting out of the car."
+                "en": "Wear warm clothes against the wind when getting out of the car.",
+                "es": "Lleva ropa abrigada contra el viento al bajar del coche."
               }
             },
             {
@@ -1799,7 +1922,8 @@
                 "de": "Das Parkhaus ist direkt mit dem Aufzug erreichbar.",
                 "hu": "A parkolóház közvetlenül lifttel érhető el.",
                 "ro": "Parcarea este accesibilă direct cu liftul.",
-                "en": "The parking garage is directly accessible by elevator."
+                "en": "The parking garage is directly accessible by elevator.",
+                "es": "El garaje es accesible directamente por ascensor."
               }
             },
             {
@@ -1808,7 +1932,8 @@
                 "de": "Kurze Fahrten im Winterlicht zeigen die Stadt von ihrer schönsten Seite.",
                 "hu": "A rövid utak a téli fényben a város legszebb arcát mutatják.",
                 "ro": "Călătoriile scurte în lumina iernii arată orașul în cea mai bună formă.",
-                "en": "Short drives in the winter light show the city at its best."
+                "en": "Short drives in the winter light show the city at its best.",
+                "es": "Los cortos trayectos en la luz invernal muestran la ciudad en su mejor aspecto."
               }
             },
             {
@@ -1817,7 +1942,8 @@
                 "de": "Achten Sie bei der Rückfahrt auf Wildwechsel in der Dämmerung.",
                 "hu": "Hazafelé ügyeljen a vadállatokra a szürkületben.",
                 "ro": "Atenție la animalele sălbatice la amurg în timpul drumului de întoarcere.",
-                "en": "Watch out for wildlife at dusk during the return drive."
+                "en": "Watch out for wildlife at dusk during the return drive.",
+                "es": "Cuidado con la fauna al anochecer durante el regreso en coche."
               }
             }
           ],
@@ -1845,6 +1971,12 @@
               "Check the antifreeze levels in your windshield washer fluid.",
               "Center parking garages are often busy in winter; leave early.",
               "Vitoria's street lighting is excellent for driving in the dark."
+            ],
+            "es": [
+              "Ten siempre un rascador de hielo en el coche si aparcas al aire libre.",
+              "Revisa el nivel de anticongelante del líquido del limpiaparabrisas.",
+              "Los garajes céntricos suelen estar muy ocupados en invierno; sal temprano.",
+              "La iluminación vial de Vitoria es excelente para conducir de noche."
             ]
           }
         }
@@ -1873,7 +2005,8 @@
             "de": "Ein guter Startpunkt für den ganzen Innenstadtbogen.",
             "hu": "Jó kiindulópont az egész belvárosi körhöz.",
             "ro": "Punct bun de start pentru traseul din centru.",
-            "en": "A strong starting point for the whole inner-city loop."
+            "en": "A strong starting point for the whole inner-city loop.",
+            "es": "Un buen punto de partida para todo el circuito urbano interior."
           }
         },
         {
@@ -1891,7 +2024,8 @@
             "de": "Mit dem Bus brauchst du hier nicht hin und her zu fahren.",
             "hu": "Itt nem kell busszal ide-oda menni, csak sétálj.",
             "ro": "Aici nu are rost să tot schimbi transportul, mergi pe jos.",
-            "en": "No need to bounce around by bus here; just walk."
+            "en": "No need to bounce around by bus here; just walk.",
+            "es": "No hace falta ir de un lado a otro en autobús aquí; camina."
           }
         },
         {
@@ -1909,7 +2043,8 @@
             "de": "Die Fußwege sind kurz, also Transit nur für die Sprünge nutzen.",
             "hu": "A séták rövidek, a tömegközlekedés csak az ugrásokra kell.",
             "ro": "Distanțele pe jos sunt scurte, folosește transportul doar pentru salturi.",
-            "en": "The walks are short, so use transit only for the jumps."
+            "en": "The walks are short, so use transit only for the jumps.",
+            "es": "Las caminatas son cortas, así que usa el transporte solo para los saltos."
           }
         },
         {
@@ -1927,7 +2062,8 @@
             "de": "Die Altstadt bleibt zu Fuß am angenehmsten.",
             "hu": "Az óváros gyalog a legkényelmesebb.",
             "ro": "Centrul vechi e cel mai plăcut pe jos.",
-            "en": "The old town is most pleasant on foot."
+            "en": "The old town is most pleasant on foot.",
+            "es": "El casco antiguo es más agradable a pie."
           }
         },
         {
@@ -1945,7 +2081,8 @@
             "de": "Hier wechselst du sinnvoll vom Fußkern in den östlichen Bezirk.",
             "hu": "Itt váltasz okosan a gyalogos magról a keleti negyedre.",
             "ro": "Aici treci logic de la nucleul pe jos la districtul estic.",
-            "en": "This is the smart switch from the walkable core to the east side."
+            "en": "This is the smart switch from the walkable core to the east side.",
+            "es": "Este es el cambio inteligente del núcleo transitable al lado este."
           }
         },
         {
@@ -1963,7 +2100,8 @@
             "de": "Ein kurzer Fußabschnitt spart den zweiten Umstieg.",
             "hu": "Egy rövid séta megspórolja a második átszállást.",
             "ro": "O scurtă plimbare îți scutește a doua schimbare.",
-            "en": "A short walk saves you a second transfer."
+            "en": "A short walk saves you a second transfer.",
+            "es": "Una breve caminata te ahorra un segundo transbordo."
           }
         },
         {
@@ -1981,7 +2119,8 @@
             "de": "Den letzten Transit-Hüpfer für das Grün aufheben.",
             "hu": "A legutolsó átszállást tartsd meg a zöld részre.",
             "ro": "Păstrează ultimul hop de transport pentru zona verde.",
-            "en": "Save the last transit hop for the green section."
+            "en": "Save the last transit hop for the green section.",
+            "es": "Guarda el último salto en transporte para la sección verde."
           }
         }
       ],
@@ -1989,7 +2128,8 @@
         "de": "Am Morgen nutzt du den Transit nur für den Einstieg und gehst im Zentrum fast alles zu Fuß. Zur Mittagszeit verbinden Santa María, Catedral Nueva und Artium die wichtigsten Kulturpunkte ohne Umwege. Am Nachmittag nimmst du die Linie nur für den Wechsel zum Museo Fournier und weiter zum Anillo Verde. Abends bleibt der Rückweg entspannt, weil die Hauptstrecke schon erledigt ist.",
         "hu": "Reggel a tömegközlekedést csak az induláshoz használod, utána a központban szinte mindent gyalog intézel. Délben a Santa María, a Catedral Nueva és az Artium adja a fő kulturális tengelyt kerülők nélkül. Délután csak a Museo Fournierhez és az Anillo Verdéhez ugrasz át. Estére a visszaút nyugodt marad, mert a fő távot már letudtad.",
         "ro": "Dimineața folosești transportul doar pentru pornire, apoi în centru mergi aproape peste tot pe jos. La prânz, Santa María, Catedral Nueva și Artium formează axa culturală principală fără ocolișuri. După-amiaza schimbi doar pentru Museo Fournier și apoi pentru Anillo Verde. Seara drumul de întoarcere rămâne relaxat, fiindcă partea grea e deja făcută.",
-        "en": "In the morning, use transit only to get started and then walk almost everything in the center. By noon, Santa María, Catedral Nueva and Artium form the main cultural spine with no detours. In the afternoon, you switch only for Museo Fournier and then Anillo Verde. Evening stays easy because the main travel is already done."
+        "en": "In the morning, use transit only to get started and then walk almost everything in the center. By noon, Santa María, Catedral Nueva and Artium form the main cultural spine with no detours. In the afternoon, you switch only for Museo Fournier and then Anillo Verde. Evening stays easy because the main travel is already done.",
+        "es": "Por la mañana, usa el transporte solo para empezar y luego camina casi todo el centro. Al mediodía, Santa María, la Catedral Nueva y el Artium forman la columna cultural principal sin desvíos. Por la tarde, solo cambias para el Museo Fournier y luego el Anillo Verde. La noche sigue tranquila porque el mayor desplazamiento ya está hecho."
       },
       "gastro_picks": {
         "de": [
@@ -2237,6 +2377,12 @@
           "The main rule is: one ride, one cluster, then walk again.",
           "If you leave Anillo Verde for the end, the rest of the day stays relaxed.",
           "Check the return before 18:00 so you don't get caught in a sparse schedule."
+        ],
+        "es": [
+          "Usa el transporte para los saltos más largos y recorre el casco antiguo a pie.",
+          "La regla principal: un viaje, un conjunto, y luego vuelve a caminar.",
+          "Si dejas el Anillo Verde para el final, el resto del día se mantiene relajado.",
+          "Comprueba el regreso antes de las 18:00 para no quedarte atrapado con horarios escasos."
         ]
       },
       "variants": {
@@ -2245,7 +2391,8 @@
             "de": "Die moderne Straßenbahn von Vitoria ist an Regentagen ein Segen. Starten Sie an der Plaza de la Virgen Blanca; die Stationen sind oft überdacht. Lehnen Sie sich zurück, während die Bahn durch die glänzenden Straßen zum mittelalterlichen Viertel gleitet.\n\nMittags erreichen wir die Kathedrale Santa María bequem mit dem Bus oder der Tram. Die geführte Tour findet komplett im Trockenen statt und ist ein kulturelles Highlight. Danach bietet die Catedral Nueva einen imposanten und geschützten Rückzugsort vor dem baskischen Wetter.\n\nDer Nachmittag ist für die Museen reserviert. Die Tramhaltestelle liegt direkt vor dem Artium-Museum. So gelangen Sie fast ohne nass zu werden von der zeitgenössischen Kunst zum Museo Fournier, wo Sie die Geschichte der Spielkarten erkunden können.\n\nZum Abendessen fahren wir mit dem Bus in den Anillo Verde. Das Ataria-Informationszentrum in Salburua ist gut angebunden. Genießen Sie die Aussicht auf die Lagunen durch die großen Panoramafenster, während der Regen draußen für eine mystische Atmosphäre sorgt.",
             "hu": "Vitoria modern villamosa áldás az esős napokon. Kezdjen a Plaza de la Virgen Blancán; a megállók gyakran fedettek. Dőljön hátra, amíg a villamos a csillogó utcákon át a középkori negyed felé siklik.\n\nDélben a Santa María-székesegyházat kényelmesen elérheti busszal vagy villamossal. A vezetett túra teljesen szárazon zajlik, igazi kulturális élmény. Ezután az Új Székesegyház kínál monumentális és védett menedéket a baszk időjárás elől.\n\nA délután a múzeumoké. A villamosmegálló közvetlenül az Artium múzeum előtt van. Így szinte ázás nélkül juthat el a kortárs művészettől a Fournier múzeumig, ahol a játékkártyák történetét ismerheti meg.\n\nEstére busszal megyünk az Anillo Verde felé. A Salburuában található Ataria központ jól megközelíthető. Élvezze a lagunák látványát a nagy panorámaablakokon keresztül, miközben kint az eső misztikus hangulatot teremt.",
             "ro": "Tramvaiul modern din Vitoria este o binecuvântare în zilele ploioase. Începeți din Plaza de la Virgen Blanca; stațiile sunt adesea acoperite. Relaxați-vă în timp ce tramvaiul alunecă pe străzile strălucitoare spre cartierul medieval.\n\nLa prânz, ajungem la Catedrala Santa María confortabil cu autobuzul sau tramvaiul. Turul ghidat are loc în întregime la adăpost și este un punct culminant cultural. Ulterior, Catedral Nueva oferă un refugiu impunător și protejat de vremea bască.\n\nDupă-amiaza este rezervată muzeelor. Stația de tramvai este chiar în fața muzeului Artium. Astfel, ajungeți aproape fără să vă udați de la arta contemporană la Muzeul Fournier, unde puteți explora istoria cărților de joc.\n\nSeara, mergem cu autobuzul spre Anillo Verde. Centrul Ataria din Salburua este bine conectat. Bucurați-vă de priveliștea lagunelor prin ferestrele panoramice mari, în timp ce ploaia de afară creează o atmosferă mistică.",
-            "en": "Vitoria's modern tram is a blessing on rainy days. Start at Plaza de la Virgen Blanca; the stations are often sheltered. Sit back as the tram glides through the shiny streets towards the medieval district.\n\nAt noon, reach Santa María Cathedral easily by bus or tram. The guided tour is completely indoors and a cultural highlight. Afterwards, the Catedral Nueva offers an imposing and sheltered retreat from the Basque weather.\n\nIn the afternoon, head to the museums. The tram stop is right in front of the Artium Museum. This allows you to go from contemporary art to the Fournier Museum almost without getting wet, where you can explore the history of playing cards.\n\nFor the evening, take the bus to the Anillo Verde. The Ataria information center in Salburua is well-connected. Enjoy the view of the lagoons through the large panorama windows while the rain outside creates a mystical atmosphere."
+            "en": "Vitoria's modern tram is a blessing on rainy days. Start at Plaza de la Virgen Blanca; the stations are often sheltered. Sit back as the tram glides through the shiny streets towards the medieval district.\n\nAt noon, reach Santa María Cathedral easily by bus or tram. The guided tour is completely indoors and a cultural highlight. Afterwards, the Catedral Nueva offers an imposing and sheltered retreat from the Basque weather.\n\nIn the afternoon, head to the museums. The tram stop is right in front of the Artium Museum. This allows you to go from contemporary art to the Fournier Museum almost without getting wet, where you can explore the history of playing cards.\n\nFor the evening, take the bus to the Anillo Verde. The Ataria information center in Salburua is well-connected. Enjoy the view of the lagoons through the large panorama windows while the rain outside creates a mystical atmosphere.",
+            "es": "El moderno tranvía de Vitoria es una bendición en los días de lluvia. Empieza en la Plaza de la Virgen Blanca; las estaciones suelen estar cubiertas. Relájate mientras el tranvía desliza por las calles brillantes hacia el distrito medieval.\n\nAl mediodía, llega a la Catedral de Santa María fácilmente en autobús o tranvía. La visita guiada es totalmente interior y un punto culminante cultural. Después, la Catedral Nueva ofrece un refugio imponente y resguardado del tiempo vasco.\n\nPor la tarde, dirígete a los museos. La parada del tranvía está justo delante del Museo Artium. Esto te permite pasar del arte contemporáneo al Museo Fournier casi sin mojarte, donde puedes explorar la historia de las cartas.\n\nPara la tarde, toma el autobús hacia el Anillo Verde. El centro Ataria en Salburua está bien conectado. Disfruta de la vista de las lagunas a través de los grandes ventanales panorámicos mientras la lluvia fuera crea una atmósfera mística."
           },
           "stops": [
             {
@@ -2254,7 +2401,8 @@
                 "de": "Die Tramstation 'Angulema' ist nur einen kurzen, oft überdachten Fußweg entfernt.",
                 "hu": "Az 'Angulema' villamosmegálló csak egy rövid, gyakran fedett sétára van.",
                 "ro": "Stația de tramvai 'Angulema' este la o distanță scurtă, adesea acoperită.",
-                "en": "The 'Angulema' tram station is just a short, often sheltered walk away."
+                "en": "The 'Angulema' tram station is just a short, often sheltered walk away.",
+                "es": "La estación de tranvía 'Angulema' está a un corto y a menudo protegido paseo."
               }
             },
             {
@@ -2263,7 +2411,8 @@
                 "de": "Busse halten direkt am Rande der Altstadt.",
                 "hu": "A buszok közvetlenül az óváros szélén állnak meg.",
                 "ro": "Autobuzele opresc chiar la marginea orașului vechi.",
-                "en": "Buses stop right at the edge of the old town district."
+                "en": "Buses stop right at the edge of the old town district.",
+                "es": "Los autobuses paran justo en el borde del distrito del casco antiguo."
               }
             },
             {
@@ -2272,7 +2421,8 @@
                 "de": "Nutzen Sie die App 'Vitoria-Gasteiz Transit' für Echtzeit-Infos im Regen.",
                 "hu": "Használja a 'Vitoria-Gasteiz Transit' appot a valós idejű infókért az esőben.",
                 "ro": "Folosiți aplicația 'Vitoria-Gasteiz Transit' pentru informații în timp real.",
-                "en": "Use the 'Vitoria-Gasteiz Transit' app for real-time info in the rain."
+                "en": "Use the 'Vitoria-Gasteiz Transit' app for real-time info in the rain.",
+                "es": "Usa la app 'Vitoria-Gasteiz Transit' para info en tiempo real bajo la lluvia."
               }
             },
             {
@@ -2281,7 +2431,8 @@
                 "de": "Die Haltestellen in der Nähe bieten guten Schutz vor Wind.",
                 "hu": "A közeli megállók jó védelmet nyújtanak a szél ellen.",
                 "ro": "Stațiile din apropiere oferă o protecție bună împotriva vântului.",
-                "en": "Nearby stops offer good protection from the wind."
+                "en": "Nearby stops offer good protection from the wind.",
+                "es": "Las paradas cercanas ofrecen buena protección contra el viento."
               }
             },
             {
@@ -2290,7 +2441,8 @@
                 "de": "Die Tramhaltestelle ist ideal positioniert, um Regenpausen zu nutzen.",
                 "hu": "A villamosmegálló ideális helyen van az esőszünetek kihasználásához.",
                 "ro": "Stația de tramvai este poziționată ideal pentru a profita de pauzele dintre averse.",
-                "en": "The tram stop is ideally positioned to take advantage of breaks in the rain."
+                "en": "The tram stop is ideally positioned to take advantage of breaks in the rain.",
+                "es": "La parada de tranvía está idealmente situada para aprovechar las pausas en la lluvia."
               }
             },
             {
@@ -2299,7 +2451,8 @@
                 "de": "Die Buslinien L5 und L6 halten ganz in der Nähe.",
                 "hu": "Az L5-ös és L6-os buszjáratok a közelben állnak meg.",
                 "ro": "Liniile de autobuz L5 și L6 opresc foarte aproape.",
-                "en": "Bus lines L5 and L6 stop very close by."
+                "en": "Bus lines L5 and L6 stop very close by.",
+                "es": "Las líneas de autobús L5 y L6 paran muy cerca."
               }
             },
             {
@@ -2308,7 +2461,8 @@
                 "de": "Der Bus L3 bringt Sie direkt zum Eingang von Salburua.",
                 "hu": "Az L3-as busz közvetlenül a Salburua bejáratához viszi.",
                 "ro": "Autobuzul L3 vă duce direct la intrarea în Salburua.",
-                "en": "The L3 bus takes you directly to the entrance of Salburua."
+                "en": "The L3 bus takes you directly to the entrance of Salburua.",
+                "es": "La L3 te lleva directamente a la entrada de Salburua."
               }
             }
           ],
@@ -2336,6 +2490,12 @@
               "Trams are climate-controlled and offer free Wi-Fi.",
               "Keep your ticket dry, as the scanners can be sensitive to moisture.",
               "Digital displays at the stations show real-time arrival information."
+            ],
+            "es": [
+              "Compra una tarjeta BAT para transfers más baratos en toda la red.",
+              "Los tranvías están climatizados y ofrecen Wi‑Fi gratis.",
+              "Mantén el billete seco, los lectores pueden ser sensibles a la humedad.",
+              "Las pantallas digitales en las paradas muestran información de llegadas en tiempo real."
             ]
           }
         },
@@ -2344,7 +2504,8 @@
             "de": "Ein Wintermorgen in der Tram von Vitoria ist gemütlich und warm. Beginnen Sie an der Plaza de la Virgen Blanca; die beheizten Waggons bieten einen tollen Blick auf die oft neblige oder frostige Stadt. Es ist der perfekte Start, um den historischen Kern stressfrei zu erreichen.\n\nMittags bringt Sie der Nahverkehr zur Kathedrale Santa María. Die Führung im Inneren ist ein faszinierendes Erlebnis, bei dem Sie die Winterkälte komplett vergessen. Danach bietet die Catedral Nueva einen beeindruckenden, geschützten Raum für einen Moment der Stille.\n\nDer Nachmittag steht im Zeichen der Kultur. Die Tram bringt Sie direkt zum Artium-Museum, wo Sie in beheizten Räumen moderne Kunst genießen können. Ein kurzer Spaziergang oder eine kurze Busfahrt führt zum Fournier-Museum, wo die Welt der Spielkarten in einer behaglichen Atmosphäre präsentiert wird.\n\nDen Tag beenden wir mit einer Busfahrt in den Anillo Verde. In Salburua können Sie die winterliche Natur vom warmen Ataria-Zentrum aus beobachten. Die Rückfahrt in die festlich beleuchtete Innenstadt mit den öffentlichen Verkehrsmitteln ist ein stimmungsvoller Abschluss Ihres Wintertages.",
             "hu": "Egy téli reggel Vitoria villamosán kényelmes és meleg. Kezdjen a Plaza de la Virgen Blancán; a fűtött kocsikból remek kilátás nyílik a gyakran ködös vagy zúzmarás városra. Tökéletes kezdés a történelmi központ stresszmentes eléréséhez.\n\nDélben a tömegközlekedés elviszi a Santa María-székesegyházhoz. A benti vezetés során teljesen elfelejtheti a téli hideget. Ezután az Új Székesegyház kínál lenyűgöző, védett teret egy pillanatnyi csendhez.\n\nA délután a kultúráé. A villamos közvetlenül az Artium múzeumhoz viszi, ahol fűtött termekben élvezheti a modern művészetet. Rövid séta vagy buszozás után elérheti a Fournier múzeumot, ahol barátságos környezetben várja a kártyák világa.\n\nA napot busszal zárjuk az Anillo Verde felé. Salburuában a meleg Ataria központból figyelheti meg a téli természetet. A visszaút a hálózattal a kivilágított belvárosba hangulatos lezárása a téli napnak.",
             "ro": "O dimineață de iarnă în tramvaiul din Vitoria este confortabilă și caldă. Începeți din Plaza de la Virgen Blanca; vagoanele încălzite oferă o vedere excelentă asupra orașului adesea cețos sau geros. Este startul perfect pentru a ajunge fără stres în nucleul istoric.\n\nLa prânz, transportul local vă duce la Catedrala Santa María. Turul din interior este o experiență fascinantă în care uitați complet de frigul iernii. Ulterior, Catedral Nueva oferă un spațiu impresionant și protejat pentru un moment de liniște.\n\nDupă-amiaza este dedicată culturii. Tramvaiul vă duce direct la muzeul Artium, unde puteți savura arta modernă în săli încălzite. O scurtă plimbare sau o călătorie cu autobuzul vă duce la Muzeul Fournier, unde lumea cărților de joc este prezentată într-o atmosferă primitoare.\n\nÎncheiem ziua cu o călătorie cu autobuzul spre Anillo Verde. În Salburua puteți observa natura hibernală din centrul cald Ataria. Întoarcerea cu transportul public în centrul iluminat festiv este o încheiere plină de atmosferă a zilei de iarnă.",
-            "en": "A winter morning on a Vitoria tram is cozy and warm. Start at Plaza de la Virgen Blanca; the heated cars offer a great view of the often misty or frosty city. It's the perfect stress-free start to reaching the historic core.\n\nAt noon, public transit takes you to Santa María Cathedral. The indoor tour is a fascinating experience that makes you completely forget the winter chill. Afterwards, the Catedral Nueva offers an impressive, sheltered space for a moment of quiet.\n\nIn the afternoon, immerse yourself in culture. The tram takes you directly to the Artium Museum, where you can enjoy modern art in heated rooms. A short walk or bus ride leads to the Fournier Museum, where the world of playing cards is presented in a cozy atmosphere.\n\nThe day ends with a bus ride to the Anillo Verde. In Salburua, you can observe the winter nature from the warm Ataria center. Returning to the festively lit city center by public transport is an atmospheric conclusion to your winter day."
+            "en": "A winter morning on a Vitoria tram is cozy and warm. Start at Plaza de la Virgen Blanca; the heated cars offer a great view of the often misty or frosty city. It's the perfect stress-free start to reaching the historic core.\n\nAt noon, public transit takes you to Santa María Cathedral. The indoor tour is a fascinating experience that makes you completely forget the winter chill. Afterwards, the Catedral Nueva offers an impressive, sheltered space for a moment of quiet.\n\nIn the afternoon, immerse yourself in culture. The tram takes you directly to the Artium Museum, where you can enjoy modern art in heated rooms. A short walk or bus ride leads to the Fournier Museum, where the world of playing cards is presented in a cozy atmosphere.\n\nThe day ends with a bus ride to the Anillo Verde. In Salburua, you can observe the winter nature from the warm Ataria center. Returning to the festively lit city center by public transport is an atmospheric conclusion to your winter day.",
+            "es": "Una mañana de invierno en el tranvía de Vitoria es acogedora y cálida. Empieza en la Plaza de la Virgen Blanca; los vagones calefactados ofrecen una gran vista de la ciudad a menudo brumosa o helada. Es el inicio perfecto y sin estrés para llegar al núcleo histórico.\n\nAl mediodía, el transporte público te lleva a la Catedral de Santa María. La visita interior es una experiencia fascinante que te hace olvidar por completo el frío invernal. Después, la Catedral Nueva ofrece un espacio impresionante y protegido para un momento de calma.\n\nPor la tarde, sumérgete en la cultura. El tranvía te deja directamente en el Museo Artium, donde disfrutarás del arte moderno en salas climatizadas. Un corto paseo o autobús te lleva al Museo Fournier, donde el mundo de las cartas se presenta en un ambiente acogedor.\n\nEl día termina con un viaje en autobús al Anillo Verde. En Salburua puedes observar la naturaleza invernal desde el cálido centro Ataria. Volver al centro de la ciudad iluminado en transporte público es una conclusión atmosférica para tu jornada invernal."
           },
           "stops": [
             {
@@ -2353,7 +2514,8 @@
                 "de": "Nutzen Sie die Wartehäuschen, um sich vor dem Wind zu schützen.",
                 "hu": "Használja a várókat, hogy megvédje magát a széltől.",
                 "ro": "Folosiți adăposturile din stații pentru a vă proteja de vânt.",
-                "en": "Use the station shelters to protect yourself from the wind."
+                "en": "Use the station shelters to protect yourself from the wind.",
+                "es": "Usa los refugios de las estaciones para protegerte del viento."
               }
             },
             {
@@ -2362,7 +2524,8 @@
                 "de": "Die Busse fahren im Winter oft häufiger, um Wartezeiten im Freien zu minimieren.",
                 "hu": "A buszok télen gyakran sűrűbben járnak, hogy kevesebbet kelljen kint várni.",
                 "ro": "Autobuzele circulă adesea mai des iarna pentru a minimiza așteptarea afară.",
-                "en": "Buses often run more frequently in winter to minimize outdoor waiting times."
+                "en": "Buses often run more frequently in winter to minimize outdoor waiting times.",
+                "es": "Los autobuses suelen circular con más frecuencia en invierno para minimizar las esperas al aire libre."
               }
             },
             {
@@ -2371,7 +2534,8 @@
                 "de": "Die Heizung in den Bussen ist sehr effizient.",
                 "hu": "A buszok fűtése nagyon hatékony.",
                 "ro": "Încălzirea din autobuze este foarte eficientă.",
-                "en": "The heating in the buses is very efficient."
+                "en": "The heating in the buses is very efficient.",
+                "es": "La calefacción en los autobuses es muy eficiente."
               }
             },
             {
@@ -2380,7 +2544,8 @@
                 "de": "Planen Sie Ihre Ankunft so, dass Sie direkt zur Führung gehen können.",
                 "hu": "Tervezze úgy az érkezést, hogy rögtön mehessen a vezetésre.",
                 "ro": "Planificați sosirea astfel încât să puteți merge direct la tur.",
-                "en": "Plan your arrival so you can go straight to the guided tour."
+                "en": "Plan your arrival so you can go straight to the guided tour.",
+                "es": "Planifica tu llegada para ir directo a la visita guiada."
               }
             },
             {
@@ -2389,7 +2554,8 @@
                 "de": "Die Tramhaltestelle ist nur wenige Schritte vom Haupteingang entfernt.",
                 "hu": "A villamosmegálló csak pár lépésre van a főbejárattól.",
                 "ro": "Stația de tramvai este la doar câțiva pași de intrarea principală.",
-                "en": "The tram stop is just a few steps from the main entrance."
+                "en": "The tram stop is just a few steps from the main entrance.",
+                "es": "La parada del tranvía está a pocos pasos de la entrada principal."
               }
             },
             {
@@ -2398,7 +2564,8 @@
                 "de": "Ein kurzer Aufenthalt im Museum wärmt Sie für den restlichen Tag auf.",
                 "hu": "Egy rövid múzeumi látogatás felmelegíti a nap hátralévő részére.",
                 "ro": "O scurtă vizită la muzeu vă va încălzi pentru restul zilei.",
-                "en": "A short stay in the museum warms you up for the rest of the day."
+                "en": "A short stay in the museum warms you up for the rest of the day.",
+                "es": "Una corta estancia en el museo te calienta para el resto del día."
               }
             },
             {
@@ -2407,7 +2574,8 @@
                 "de": "Die Buslinie L3 ist im Winter die beste Verbindung nach Salburua.",
                 "hu": "A téli időszakban az L3-as busz a legjobb járat Salburuába.",
                 "ro": "Linia de autobuz L3 este cea mai bună conexiune spre Salburua iarna.",
-                "en": "Bus line L3 is the best connection to Salburua during the winter months."
+                "en": "Bus line L3 is the best connection to Salburua during the winter months.",
+                "es": "La línea de autobús L3 es la mejor conexión a Salburua durante los meses de invierno."
               }
             }
           ],
@@ -2435,6 +2603,12 @@
               "The BAT card can be recharged at any tram station.",
               "On cold days, the front seats in the tram are usually the warmest.",
               "The tram runs late into the night, ideal for your return journey."
+            ],
+            "es": [
+              "Usa los autobuses nocturnos 'Gautxori' si te quedas hasta tarde en los bares de pintxos.",
+              "La tarjeta BAT se puede recargar en cualquier estación de tranvía.",
+              "En los días fríos, los asientos delanteros del tranvía suelen ser los más cálidos.",
+              "El tranvía circula hasta altas horas de la noche, ideal para tu regreso."
             ]
           }
         }

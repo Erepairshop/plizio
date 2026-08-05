@@ -21,7 +21,8 @@
             "de": "Iglesia de Santa Úrsula",
             "hu": "Santa Úrsula templom",
             "ro": "Biserica Santa Úrsula",
-            "en": "Church of Santa Úrsula"
+            "en": "Church of Santa Úrsula",
+            "es": "Iglesia de Santa Úrsula"
           },
           "coords": [
             -16.7291,
@@ -36,7 +37,8 @@
             "de": "Besuchen Sie das Innere wegen der hölzernen Decke.",
             "hu": "Nézze meg a faragott famennyezetet belül.",
             "ro": "Admirați tavanul de lemn sculptat în interior.",
-            "en": "Check the carved wooden ceiling inside."
+            "en": "Check the carved wooden ceiling inside.",
+            "es": "Fíjate en el techo de madera tallada del interior."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Casa Fuerte de Adeje",
             "hu": "Adejei erődített ház",
             "ro": "Casa Fuerte de Adeje",
-            "en": "Casa Fuerte de Adeje"
+            "en": "Casa Fuerte de Adeje",
+            "es": "Casa Fuerte de Adeje"
           },
           "coords": [
             -16.7305,
@@ -59,7 +62,8 @@
             "de": "Die Ruinen erzählen von der Geschichte gegen Piraten.",
             "hu": "A romok a kalózok elleni védekezésről mesélnek.",
             "ro": "Ruinele spun povestea apărării împotriva piraților.",
-            "en": "The ruins tell the story of defense against pirates."
+            "en": "The ruins tell the story of defense against pirates.",
+            "es": "Las ruinas cuentan la historia de la defensa frente a los piratas."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Puerto Colón",
             "hu": "Puerto Colón kikötő",
             "ro": "Portul Puerto Colón",
-            "en": "Puerto Colón Marina"
+            "en": "Puerto Colón Marina",
+            "es": "Puerto Colón Marina"
           },
           "coords": [
             -16.7365,
@@ -82,7 +87,8 @@
             "de": "Ideal für eine Mittagspause am Jachthafen.",
             "hu": "Ideális hely egy ebédre a jachtkikötőnél.",
             "ro": "Loc perfect pentru prânz lângă portul de iahturi.",
-            "en": "Perfect spot for lunch by the yacht marina."
+            "en": "Perfect spot for lunch by the yacht marina.",
+            "es": "Lugar perfecto para almorzar junto a la marina de yates."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Playa de Fañabé",
             "hu": "Playa de Fañabé strand",
             "ro": "Plaja Fañabé",
-            "en": "Fañabé Beach"
+            "en": "Fañabé Beach",
+            "es": "Playa Fañabé"
           },
           "coords": [
             -16.7385,
@@ -105,7 +112,8 @@
             "de": "Spaziergang auf dem hellen, feinen Sand.",
             "hu": "Séta a világos, finom homokos parton.",
             "ro": "Plimbare pe nisipul fin și deschis la culoare.",
-            "en": "Stroll along the light, fine sandy shore."
+            "en": "Stroll along the light, fine sandy shore.",
+            "es": "Pasea por la orilla de arena clara y fina."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Playa del Duque",
             "hu": "Playa del Duque strand",
             "ro": "Plaja del Duque",
-            "en": "El Duque Beach"
+            "en": "El Duque Beach",
+            "es": "Playa El Duque"
           },
           "coords": [
             -16.7455,
@@ -128,7 +137,8 @@
             "de": "Der exklusivste Strand der Gegend.",
             "hu": "A környék legexkluzívabb strandja.",
             "ro": "Cea mai exclusivistă plajă din zonă.",
-            "en": "The most exclusive beach in the area."
+            "en": "The most exclusive beach in the area.",
+            "es": "La playa más exclusiva de la zona."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "La Caleta de Adeje",
             "hu": "La Caleta halászfalu",
             "ro": "La Caleta de Adeje",
-            "en": "La Caleta Fishing Village"
+            "en": "La Caleta Fishing Village",
+            "es": "Pueblo pesquero de La Caleta"
           },
           "coords": [
             -16.7545,
@@ -151,7 +162,8 @@
             "de": "Bester Ort für den Sonnenuntergang.",
             "hu": "A legjobb hely a naplemente megtekintéséhez.",
             "ro": "Cel mai bun loc pentru a vedea apusul.",
-            "en": "Best spot to watch the sunset."
+            "en": "Best spot to watch the sunset.",
+            "es": "El mejor lugar para ver la puesta de sol."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag im historischen Zentrum von Adeje bei der Santa Úrsula Kirche und dem befestigten Haus Casa Fuerte. Mittags spazieren Sie hinunter zur Küste zum Puerto Colón, wo Sie das maritime Flair genießen können. Den Nachmittag verbringen Sie entspannt an den Stränden von Fañabé und El Duque. Den Abend lassen Sie im charmanten Fischerdorf La Caleta bei einem Fischgericht ausklingen.",
         "hu": "Kezdje a napot Adeje történelmi központjában a Santa Úrsula templomnál és a Casa Fuerte romjainál. Délben sétáljon le a tengerpartra Puerto Colón kikötőjébe, ahol élvezheti a tengeri hangulatot. A délutánt töltse pihenéssel Fañabé és El Duque elegáns strandjain. Az estét zárja a bájos La Caleta halászfaluban, egy kiváló tengeri vacsora mellett.",
         "ro": "Începeți ziua în centrul istoric al orașului Adeje, la biserica Santa Úrsula și Casa Fuerte. La prânz, coborâți spre coastă în Puerto Colón pentru a vă bucura de atmosfera maritimă. Petreceți după-amiaza relaxându-vă pe plajele Fañabé și El Duque. Încheiați seara în fermecătorul sat de pescari La Caleta, savurând o cină cu pește proaspăt.",
-        "en": "Start your day in the historical center of Adeje at Santa Úrsula Church and Casa Fuerte ruins. At noon, walk down to the coast to Puerto Colón marina to enjoy the maritime vibes. Spend the afternoon relaxing on the elegant Fañabé and El Duque beaches. End your evening in the charming fishing village of La Caleta with a fresh seafood dinner."
+        "en": "Start your day in the historical center of Adeje at Santa Úrsula Church and Casa Fuerte ruins. At noon, walk down to the coast to Puerto Colón marina to enjoy the maritime vibes. Spend the afternoon relaxing on the elegant Fañabé and El Duque beaches. End your evening in the charming fishing village of La Caleta with a fresh seafood dinner.",
+        "es": "Comienza el día en el centro histórico de Adeje, en la iglesia de Santa Úrsula y las ruinas de la Casa Fuerte. A mediodía, baja a la costa hasta la marina de Puerto Colón para disfrutar del ambiente marítimo. Pasa la tarde relajándote en las elegantes playas de Fañabé y El Duque. Termina la noche en el encantador pueblo pesquero de La Caleta con una cena de mariscos frescos."
       },
       "gastro_picks": {
         "de": [
@@ -267,6 +280,12 @@
           "Sun protection is essential on the promenade.",
           "Book tables in La Caleta in advance.",
           "Use the coastal path for the best views."
+        ],
+        "es": [
+          "Lleva calzado cómodo para la caminata desde las colinas hasta la costa.",
+          "La protección solar es esencial en el paseo marítimo.",
+          "Reserva mesa en La Caleta con antelación.",
+          "Usa el sendero costero para las mejores vistas."
         ]
       },
       "variants": {
@@ -275,7 +294,8 @@
             "de": "Beginnen Sie Ihren Tag im historischen Zentrum von Adeje bei der Santa Úrsula Kirche und dem befestigten Haus Casa Fuerte. Mittags spazieren Sie hinunter zur Küste zum Puerto Colón, wo Sie das maritime Flair genießen können. Den Nachmittag verbringen Sie entspannt an den Stränden von Fañabé und El Duque. Den Abend lassen Sie im charmanten Fischerdorf La Caleta bei einem Fischgericht ausklingen.",
             "hu": "Kezdje a napot Adeje történelmi központjában a Santa Úrsula templomnál és a Casa Fuerte romjainál. Délben sétáljon le a tengerpartra Puerto Colón kikötőjébe, ahol élvezheti a tengeri hangulatot. A délutánt töltse pihenéssel Fañabé és El Duque elegáns strandjain. Az estét zárja a bájos La Caleta halászfaluban, egy kiváló tengeri vacsora mellett.",
             "ro": "Începeți ziua în centrul istoric al orașului Adeje, la biserica Santa Úrsula și Casa Fuerte. La prânz, coborâți spre coastă în Puerto Colón pentru a vă bucura de atmosfera maritimă. Petreceți după-amiaza relaxându-vă pe plajele Fañabé și El Duque. Încheiați seara în fermecătorul sat de pescari La Caleta, savurând o cină cu pește proaspăt.",
-            "en": "Start your day in the historical center of Adeje at Santa Úrsula Church and Casa Fuerte ruins. At noon, walk down to the coast to Puerto Colón marina to enjoy the maritime vibes. Spend the afternoon relaxing on the elegant Fañabé and El Duque beaches. End your evening in the charming fishing village of La Caleta with a fresh seafood dinner."
+            "en": "Start your day in the historical center of Adeje at Santa Úrsula Church and Casa Fuerte ruins. At noon, walk down to the coast to Puerto Colón marina to enjoy the maritime vibes. Spend the afternoon relaxing on the elegant Fañabé and El Duque beaches. End your evening in the charming fishing village of La Caleta with a fresh seafood dinner.",
+            "es": "Comienza el día en el centro histórico de Adeje, en la iglesia de Santa Úrsula y las ruinas de la Casa Fuerte. A mediodía, baja a la costa hasta la marina de Puerto Colón para disfrutar del ambiente marítimo. Pasa la tarde relajándote en las elegantes playas de Fañabé y El Duque. Termina la noche en el encantador pueblo pesquero de La Caleta con una cena de mariscos frescos."
           },
           "stops": [
             {
@@ -283,13 +303,15 @@
                 "de": "Iglesia de Santa Úrsula",
                 "hu": "Santa Úrsula templom",
                 "ro": "Biserica Santa Úrsula",
-                "en": "Church of Santa Úrsula"
+                "en": "Church of Santa Úrsula",
+                "es": "Iglesia de Santa Úrsula"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie das Innere wegen der hölzernen Decke.",
                 "hu": "Nézze meg a faragott famennyezetet belül.",
                 "ro": "Admirați tavanul de lemn sculptat în interior.",
-                "en": "Check the carved wooden ceiling inside."
+                "en": "Check the carved wooden ceiling inside.",
+                "es": "Fíjate en el artesonado tallado del interior."
               }
             },
             {
@@ -297,13 +319,15 @@
                 "de": "Casa Fuerte de Adeje",
                 "hu": "Adejei erődített ház",
                 "ro": "Casa Fuerte de Adeje",
-                "en": "Casa Fuerte de Adeje"
+                "en": "Casa Fuerte de Adeje",
+                "es": "Casa Fuerte de Adeje"
               },
               "tip_5lang": {
                 "de": "Die Ruinen erzählen von der Geschichte gegen Piraten.",
                 "hu": "A romok a kalózok elleni védekezésről mesélnek.",
                 "ro": "Ruinele spun povestea apărării împotriva piraților.",
-                "en": "The ruins tell the story of defense against pirates."
+                "en": "The ruins tell the story of defense against pirates.",
+                "es": "Las ruinas cuentan la historia de la defensa frente a los piratas."
               }
             },
             {
@@ -311,13 +335,15 @@
                 "de": "Puerto Colón",
                 "hu": "Puerto Colón kikötő",
                 "ro": "Portul Puerto Colón",
-                "en": "Puerto Colón Marina"
+                "en": "Puerto Colón Marina",
+                "es": "Marina de Puerto Colón"
               },
               "tip_5lang": {
                 "de": "Ideal für eine Mittagspause am Jachthafen.",
                 "hu": "Ideális hely egy ebédre a jachtkikötőnél.",
                 "ro": "Loc perfect pentru prânz lângă portul de iahturi.",
-                "en": "Perfect spot for lunch by the yacht marina."
+                "en": "Perfect spot for lunch by the yacht marina.",
+                "es": "Lugar perfecto para comer junto a los yates."
               }
             },
             {
@@ -325,13 +351,15 @@
                 "de": "Playa de Fañabé",
                 "hu": "Playa de Fañabé strand",
                 "ro": "Plaja Fañabé",
-                "en": "Fañabé Beach"
+                "en": "Fañabé Beach",
+                "es": "Playa Fañabé"
               },
               "tip_5lang": {
                 "de": "Spaziergang auf dem hellen, feinen Sand.",
                 "hu": "Séta a világos, finom homokos parton.",
                 "ro": "Plimbare pe nisipul fin și deschis la culoare.",
-                "en": "Stroll along the light, fine sandy shore."
+                "en": "Stroll along the light, fine sandy shore.",
+                "es": "Pasea por la orilla de arena clara y fina."
               }
             },
             {
@@ -339,13 +367,15 @@
                 "de": "Playa del Duque",
                 "hu": "Playa del Duque strand",
                 "ro": "Plaja del Duque",
-                "en": "El Duque Beach"
+                "en": "El Duque Beach",
+                "es": "Playa El Duque"
               },
               "tip_5lang": {
                 "de": "Der exklusivste Strand der Gegend.",
                 "hu": "A környék legexkluzívabb strandja.",
                 "ro": "Cea mai exclusivistă plajă din zonă.",
-                "en": "The most exclusive beach in the area."
+                "en": "The most exclusive beach in the area.",
+                "es": "La playa más exclusiva de la zona."
               }
             },
             {
@@ -353,13 +383,15 @@
                 "de": "La Caleta de Adeje",
                 "hu": "La Caleta halászfalu",
                 "ro": "La Caleta de Adeje",
-                "en": "La Caleta Fishing Village"
+                "en": "La Caleta Fishing Village",
+                "es": "Pueblo pesquero de La Caleta"
               },
               "tip_5lang": {
                 "de": "Bester Ort für den Sonnenuntergang.",
                 "hu": "A legjobb hely a naplemente megtekintéséhez.",
                 "ro": "Cel mai bun loc pentru a vedea apusul.",
-                "en": "Best spot to watch the sunset."
+                "en": "Best spot to watch the sunset.",
+                "es": "El mejor lugar para ver la puesta de sol."
               }
             }
           ],
@@ -469,6 +501,12 @@
               "Sun protection is essential on the promenade.",
               "Book tables in La Caleta in advance.",
               "Use the coastal path for the best views."
+            ],
+            "es": [
+              "Lleva calzado cómodo para la caminata desde las colinas hasta la costa.",
+              "La protección solar es esencial en el paseo marítimo.",
+              "Reserva mesa en La Caleta con antelación.",
+              "Usa el sendero costero para las mejores vistas."
             ]
           }
         },
@@ -477,7 +515,8 @@
             "de": "Der Morgen in Adeje beginnt geschützt in der Kirche Santa Úrsula. Mittags bietet die Casa Fuerte trockene Einblicke in die Geschichte. Nachmittags spazieren Sie unter den Markisen von Fañabé und Puerto Colón, wo die Cafés gemütliche Zuflucht bieten. Der Abend endet trocken in einer der erstklassigen Fischtavernen von La Caleta, während der Regen gegen die Scheiben peitscht.",
             "hu": "A reggel Adeje óvárosában indul, ahol a templom védelmet nyújt a zápor elől. Délben a Casa Fuerte romjai között keresünk fedezéket. Délután a Puerto Colón és Fañabé sétányainak fedett teraszain élvezhetjük a tenger illatát az esőben. Az este La Caleta haléttermeiben ér véget, ahol a friss fogások mellett hallgathatjuk az óceán morajlását.",
             "ro": "Dimineața începe în Adeje, unde biserica Santa Úrsula oferă un adăpost spiritual și uscat. La prânz, explorăm Casa Fuerte sub protecția zidurilor vechi. După-amiaza, faleza de la Fañabé oferă numeroase cafenele cu terase acoperite pentru a privi ploaia peste ocean. Seara se încheie confortabil în La Caleta, savurând pește proaspăt într-un cadru protejat.",
-            "en": "Morning starts in Adeje town, where the church provides a holy shelter from the warm rain. Midday at Casa Fuerte involves seeking refuge under historical walls. Afternoon at Fañabé is spent enjoying the sound of rain on the sand from a sheltered beach bar. Evening ends in La Caleta, where cozy fish taverns offer a perfect dry retreat to enjoy local cuisine."
+            "en": "Morning starts in Adeje town, where the church provides a holy shelter from the warm rain. Midday at Casa Fuerte involves seeking refuge under historical walls. Afternoon at Fañabé is spent enjoying the sound of rain on the sand from a sheltered beach bar. Evening ends in La Caleta, where cozy fish taverns offer a perfect dry retreat to enjoy local cuisine.",
+            "es": "La mañana empieza en el pueblo de Adeje, donde la iglesia ofrece refugio sagrado de la lluvia cálida. Al mediodía, en la Casa Fuerte busca cobijo bajo sus muros históricos. La tarde en Fañabé se disfruta con el sonido de la lluvia sobre la arena desde un chiringuito protegido. La noche termina en La Caleta, donde las tabernas de pescado son un refugio seco perfecto para degustar la cocina local."
           },
           "stops": [
             {
@@ -486,7 +525,8 @@
                 "de": "Idealer Ort, um einen kurzen Schauer unter der Mudejar-Decke abzuwarten.",
                 "hu": "Tökéletes hely egy rövid zápor átvészelésére a Mudejar mennyezet alatt.",
                 "ro": "Locul ideal pentru a aștepta trecerea unei ploi scurte sub tavanul mudejar.",
-                "en": "Ideal spot to wait out a brief shower under the Mudéjar ceiling."
+                "en": "Ideal spot to wait out a brief shower under the Mudéjar ceiling.",
+                "es": "Lugar ideal para esperar una breve lluvia bajo el artesonado mudéjar."
               }
             },
             {
@@ -495,7 +535,8 @@
                 "de": "Nutzen Sie die überdachten Ausstellungsbereiche der Festung.",
                 "hu": "Használja ki az erődítmény fedett kiállítótereit a nézelődéshez.",
                 "ro": "Profitați de zonele de expoziție acoperite ale fortăreței.",
-                "en": "Take advantage of the fortress's covered exhibition areas."
+                "en": "Take advantage of the fortress's covered exhibition areas.",
+                "es": "Aprovecha las áreas de exposiciones cubiertas de la fortaleza."
               }
             },
             {
@@ -504,7 +545,8 @@
                 "de": "Die Cafés in der ersten Etage bieten den besten trockenen Blick auf die Yachten.",
                 "hu": "Az emeleti kávézók nyújtják a legjobb száraz kilátást a jachtokra.",
                 "ro": "Cafenelele de la etaj oferă cea mai bună vedere uscată asupra iahturilor.",
-                "en": "The first-floor cafes offer the best dry view of the yachts."
+                "en": "The first-floor cafes offer the best dry view of the yachts.",
+                "es": "Las cafeterías de la planta alta ofrecen la mejor vista seca de los yates."
               }
             },
             {
@@ -513,7 +555,8 @@
                 "de": "Die Strandpromenade ist fast durchgehend mit Markisen überdacht.",
                 "hu": "A tengerparti sétány szinte végig napellenzőkkel fedett.",
                 "ro": "Promenada de pe plajă este aproape în întregime acoperită de copertine.",
-                "en": "The beach promenade is almost entirely covered by awnings."
+                "en": "The beach promenade is almost entirely covered by awnings.",
+                "es": "El paseo de la playa está casi completamente cubierto por toldos."
               }
             },
             {
@@ -522,7 +565,8 @@
                 "de": "Das nahegelegene Einkaufszentrum Plaza del Duque ist perfekt für Regenstunden.",
                 "hu": "A közeli Plaza del Duque bevásárlóközpont tökéletes az esős órákra.",
                 "ro": "Centrul comercial Plaza del Duque din apropiere este perfect pentru orele ploioase.",
-                "en": "The nearby Plaza del Duque shopping center is perfect for rainy hours."
+                "en": "The nearby Plaza del Duque shopping center is perfect for rainy hours.",
+                "es": "El cercano centro comercial Plaza del Duque es perfecto para las horas de lluvia."
               }
             },
             {
@@ -531,7 +575,8 @@
                 "de": "Wählen Sie ein Restaurant mit Glasfront, um den stürmischen Ozean zu beobachten.",
                 "hu": "Válasszon üvegfalas éttermet a viharos óceán megfigyeléséhez.",
                 "ro": "Alegeți un restaurant cu fațadă de sticlă pentru a observa oceanul agitat.",
-                "en": "Choose a restaurant with a glass front to watch the stormy ocean."
+                "en": "Choose a restaurant with a glass front to watch the stormy ocean.",
+                "es": "Elige un restaurante con fachada de cristal para contemplar el mar tormentoso."
               }
             }
           ],
@@ -563,6 +608,13 @@
               "A light raincoat is enough as temperatures stay warm even during rain.",
               "The Plaza del Duque mall is a great dry alternative for shopping and coffee.",
               "Sea conditions can change quickly; avoid the very edge of the piers."
+            ],
+            "es": [
+              "Cuidado al andar por Adeje; las losas de basalto se vuelven muy resbaladizas.",
+              "El polvo de calima mezclado con la lluvia crea una película fangosa en las superficies.",
+              "Una capa impermeable ligera basta, las temperaturas siguen siendo cálidas incluso con lluvia.",
+              "El centro comercial Plaza del Duque es una excelente alternativa seca para comprar y tomar un café.",
+              "Las condiciones del mar pueden cambiar rápido; evita el borde de los muelles."
             ]
           }
         },
@@ -571,7 +623,8 @@
             "de": "Ein Wintermorgen in den Bergen von Adeje ist angenehm frisch und klar. Mittags wärmt die sanfte Sonne den Spaziergang am Yachthafen Puerto Colón. Nachmittags ist die Lichtstimmung an den Stränden Fañabé und El Duque ideal für Fotos ohne die Sommerhitze. Der Abend endet bei einem frühen Sonnenuntergang in La Caleta, wo die Luft angenehm abkühlt.",
             "hu": "A téli reggel Adeje hegyi utcáin frissítő és tiszta. Délben a kikötőnél a lágy téli napsütés épp csak annyira melegít, hogy kényelmes legyen a séta. Délután Fañabé és El Duque partjai az év legszebb fényeit mutatják a korai alkonyatban. Az este La Caletában zárul, ahol a lemenő nap után már jól jön egy könnyű kardigán.",
             "ro": "O dimineață de iarnă în Adeje este plăcut de răcoroasă și senină. La prânz, soarele blând încălzește plimbarea prin portul Puerto Colón. După-amiaza, lumina aurie de pe plajele Fañabé și El Duque este perfectă pentru fotografii. Seara se încheie cu un apus spectaculos în La Caleta, înainte ca briza serii să devină răcoroasă.",
-            "en": "Winter mornings in Adeje are refreshingly cool and clear, perfect for exploring. Midday brings gentle sunshine to Puerto Colón, ideal for a seaside walk. Afternoon light at the beaches is soft and golden due to the lower sun position. Evening concludes in La Caleta with an early sunset that paints the Atlantic in vibrant orange and purple."
+            "en": "Winter mornings in Adeje are refreshingly cool and clear, perfect for exploring. Midday brings gentle sunshine to Puerto Colón, ideal for a seaside walk. Afternoon light at the beaches is soft and golden due to the lower sun position. Evening concludes in La Caleta with an early sunset that paints the Atlantic in vibrant orange and purple.",
+            "es": "Las mañanas de invierno en Adeje son refrescantemente frescas y claras, perfectas para explorar. Al mediodía hay un sol suave en Puerto Colón, ideal para pasear junto al mar. La luz de la tarde en las playas es cálida y dorada debido a la posición baja del sol. La noche concluye en La Caleta con una puesta de sol temprana que pinta el Atlántico de naranjas y morados vibrantes."
           },
           "stops": [
             {
@@ -580,7 +633,8 @@
                 "de": "Im Dezember können Sie hier oft kunstvolle Weihnachtskrippen bewundern.",
                 "hu": "Decemberben gyakran látható itt művészi kidolgozású betlehemi jászol.",
                 "ro": "În decembrie, puteți admira adesea scene de naștere foarte detaliate.",
-                "en": "In December, you can often admire artistic nativity scenes here."
+                "en": "In December, you can often admire artistic nativity scenes here.",
+                "es": "En diciembre a menudo se pueden admirar belenes artísticos aquí."
               }
             },
             {
@@ -589,7 +643,8 @@
                 "de": "Angenehme Temperaturen für eine Erkundung der historischen Ruinen ohne Hitze.",
                 "hu": "Kellemes hőmérséklet a történelmi romok felfedezéséhez a hőség nélkül.",
                 "ro": "Temperaturi plăcute pentru explorarea ruinelor istorice fără caniculă.",
-                "en": "Comfortable temperatures for exploring historical ruins without the heat."
+                "en": "Comfortable temperatures for exploring historical ruins without the heat.",
+                "es": "Temperaturas cómodas para explorar las ruinas históricas sin agobio."
               }
             },
             {
@@ -598,7 +653,8 @@
                 "de": "Beste Zeit für Walbeobachtungen, da viele Arten im Winter hier ziehen.",
                 "hu": "A legjobb időszak bálnalesre, sok faj vonul át télen a vizeken.",
                 "ro": "Cea mai bună perioadă pentru observarea balenelor, multe specii fiind prezente iarna.",
-                "en": "Best time for whale watching as many species migrate through in winter."
+                "en": "Best time for whale watching as many species migrate through in winter.",
+                "es": "Mejor época para avistar cetáceos, muchas especies migran aquí en invierno."
               }
             },
             {
@@ -607,7 +663,8 @@
                 "de": "Der Sand ist nicht so heiß wie im Sommer, perfekt für Barfuß-Spaziergänge.",
                 "hu": "A homok nem forró, mint nyáron, ideális a mezítlábas sétákhoz.",
                 "ro": "Nisipul nu este fierbinte ca vara, perfect pentru plimbări desculț.",
-                "en": "The sand isn't scorching like in summer, perfect for barefoot walks."
+                "en": "The sand isn't scorching like in summer, perfect for barefoot walks.",
+                "es": "La arena no está abrasadora como en verano, perfecta para caminar descalzo."
               }
             },
             {
@@ -616,7 +673,8 @@
                 "de": "Das Wasser hat ca. 19 Grad – für Mutige noch immer badetauglich.",
                 "hu": "A víz kb. 19 fokos – a bátrabbaknak még mindig alkalmas fürdésre.",
                 "ro": "Apa are aproximativ 19 grade – încă potrivită pentru înot pentru cei curajoși.",
-                "en": "The water is around 19 degrees – still swimmable for the brave."
+                "en": "The water is around 19 degrees – still swimmable for the brave.",
+                "es": "El agua ronda los 19 grados: aún se puede nadar si eres valiente."
               }
             },
             {
@@ -625,7 +683,8 @@
                 "de": "Erleben Sie den Sonnenuntergang gegen 18:15 Uhr direkt am Meer.",
                 "hu": "Élje át a naplementét 18:15 körül közvetlenül a tengerparton.",
                 "ro": "Experimentați apusul în jur de ora 18:15 chiar lângă mare.",
-                "en": "Experience the sunset around 6:15 PM right by the sea."
+                "en": "Experience the sunset around 6:15 PM right by the sea.",
+                "es": "Disfruta la puesta de sol sobre las 18:15 justo junto al mar."
               }
             }
           ],
@@ -657,6 +716,13 @@
               "A light sweater or jacket is essential once the sun goes down.",
               "UV radiation remains high in winter; apply sunscreen during your walk.",
               "Winter is peak season here; book your dinner table in La Caleta in advance."
+            ],
+            "es": [
+              "Las puestas de sol son tempranas, sobre las 18:15 en los meses de invierno.",
+              "El pueblo de Adeje suele ser 2-3 grados más fresco que el nivel de la playa.",
+              "Una rebeca ligera o chaqueta es imprescindible cuando se pone el sol.",
+              "La radiación UV sigue siendo alta en invierno; ponte crema solar durante la caminata.",
+              "El invierno es temporada alta aquí; reserva la mesa en La Caleta con antelación."
             ]
           }
         }
@@ -675,7 +741,8 @@
             "de": "Puerto Colón",
             "hu": "Puerto Colón",
             "ro": "Puerto Colón",
-            "en": "Puerto Colón"
+            "en": "Puerto Colón",
+            "es": "Puerto Colón"
           },
           "coords": [
             -16.7365,
@@ -690,7 +757,8 @@
             "de": "Starten Sie am Jachthafen.",
             "hu": "Induljon a jachtkikötőtől.",
             "ro": "Începeți de la portul de iahturi.",
-            "en": "Start at the yacht marina."
+            "en": "Start at the yacht marina.",
+            "es": "Empieza en la marina de yates."
           }
         },
         {
@@ -698,7 +766,8 @@
             "de": "Playa de Fañabé",
             "hu": "Fañabé strand",
             "ro": "Plaja Fañabé",
-            "en": "Fañabé Beach"
+            "en": "Fañabé Beach",
+            "es": "Playa Fañabé"
           },
           "coords": [
             -16.7385,
@@ -713,7 +782,8 @@
             "de": "Breite Wege entlang der Küste.",
             "hu": "Széles utak a part mentén.",
             "ro": "Alei late de-a lungul coastei.",
-            "en": "Wide paths along the coast."
+            "en": "Wide paths along the coast.",
+            "es": "Anchos paseos a lo largo de la costa."
           }
         },
         {
@@ -721,7 +791,8 @@
             "de": "Playa del Duque",
             "hu": "Del Duque strand",
             "ro": "Plaja del Duque",
-            "en": "El Duque Beach"
+            "en": "El Duque Beach",
+            "es": "Playa El Duque"
           },
           "coords": [
             -16.7455,
@@ -736,7 +807,8 @@
             "de": "Schattige Plätze unter Palmen.",
             "hu": "Árnyas helyek a pálmák alatt.",
             "ro": "Locuri umbrite sub palmieri.",
-            "en": "Shady spots under the palms."
+            "en": "Shady spots under the palms.",
+            "es": "Zonas de sombra bajo las palmeras."
           }
         },
         {
@@ -744,7 +816,8 @@
             "de": "La Caleta",
             "hu": "La Caleta",
             "ro": "La Caleta",
-            "en": "La Caleta"
+            "en": "La Caleta",
+            "es": "La Caleta"
           },
           "coords": [
             -16.7545,
@@ -759,7 +832,8 @@
             "de": "Mittagspause in einem Fischrestaurant.",
             "hu": "Ebédeljen egy halétteremben.",
             "ro": "Pauză de prânz la un restaurant de pește.",
-            "en": "Lunch break at a seafood restaurant."
+            "en": "Lunch break at a seafood restaurant.",
+            "es": "Pausa para comer en un restaurante de mariscos."
           }
         },
         {
@@ -767,7 +841,8 @@
             "de": "Siam Park",
             "hu": "Siam Park",
             "ro": "Siam Park",
-            "en": "Siam Park"
+            "en": "Siam Park",
+            "es": "Siam Park"
           },
           "coords": [
             -16.7265,
@@ -782,7 +857,8 @@
             "de": "Besuchen Sie den Parkeingang für Souvenirs.",
             "hu": "Látogasson el a park bejáratához szuvenírekért.",
             "ro": "Vizitați intrarea parcului pentru suveniruri.",
-            "en": "Visit the park entrance for souvenirs."
+            "en": "Visit the park entrance for souvenirs.",
+            "es": "Visita la entrada del parque para comprar souvenirs."
           }
         }
       ],
@@ -790,7 +866,8 @@
         "de": "Erkunden Sie die Küste von Costa Adeje bequem mit dem Fahrrad. Starten Sie in Puerto Colón und radeln Sie entlang der Strandpromenaden von Fañabé und El Duque. Die Tour führt Sie weiter in das malerische La Caleta für ein ausgiebiges Mittagessen. Auf dem Rückweg machen Sie einen Abstecher zum berühmten Siam Park, um die thailändisch inspirierte Architektur zu bewundern.",
         "hu": "Fedezze fel Costa Adeje partvonalát kényelmesen kerékpárral. Induljon Puerto Colónból, és tekerjen végig Fañabé és El Duque strandjainak sétányain. A túra továbbviszi a festői La Caleta faluba egy bőséges ebédre. Visszafelé ejtse útba a híres Siam Parkot, hogy megcsodálja a thai stílusú építészetet.",
         "ro": "Explorați coasta Costa Adeje confortabil cu bicicleta. Începeți în Puerto Colón și pedalați de-a lungul falezelor plajelor Fañabé și El Duque. Turul vă duce mai departe în pitorescul La Caleta pentru un prânz copios. La întoarcere, treceți pe lângă faimosul Siam Park pentru a admira arhitectura de inspirație thailandeză.",
-        "en": "Explore the coastline of Costa Adeje comfortably by bike. Start at Puerto Colón and cycle along the promenades of Fañabé and El Duque beaches. The tour continues to the picturesque La Caleta for a hearty lunch. On the way back, swing by the famous Siam Park to admire the Thai-inspired architecture."
+        "en": "Explore the coastline of Costa Adeje comfortably by bike. Start at Puerto Colón and cycle along the promenades of Fañabé and El Duque beaches. The tour continues to the picturesque La Caleta for a hearty lunch. On the way back, swing by the famous Siam Park to admire the Thai-inspired architecture.",
+        "es": "Explora la costa de Costa Adeje cómodamente en bicicleta. Comienza en Puerto Colón y pedalea por los paseos de las playas de Fañabé y El Duque. El recorrido continúa hasta la pintoresca La Caleta para un almuerzo contundente. De regreso, pasa por el famoso Siam Park para admirar su arquitectura de inspiración tailandesa."
       },
       "gastro_picks": {
         "de": [
@@ -898,6 +975,12 @@
           "Cycling is often restricted on sidewalks, use designated paths.",
           "Avoid the midday heat.",
           "A lock is indispensable for beach stops."
+        ],
+        "es": [
+          "Alquila una e-bike para las colinas alrededor de Adeje.",
+          "A menudo está prohibido ir en bicicleta por las aceras; usa los carriles señalizados.",
+          "Evita las horas centrales del día.",
+          "Un candado es indispensable para las paradas en la playa."
         ]
       },
       "variants": {
@@ -906,7 +989,8 @@
             "de": "Erkunden Sie die Küste von Costa Adeje bequem mit dem Fahrrad. Starten Sie in Puerto Colón und radeln Sie entlang der Strandpromenaden von Fañabé und El Duque. Die Tour führt Sie weiter in das malerische La Caleta für ein ausgiebiges Mittagessen. Auf dem Rückweg machen Sie einen Abstecher zum berühmten Siam Park, um die thailändisch inspirierte Architektur zu bewundern.",
             "hu": "Fedezze fel Costa Adeje partvonalát kényelmesen kerékpárral. Induljon Puerto Colónból, és tekerjen végig Fañabé és El Duque strandjainak sétányain. A túra továbbviszi a festői La Caleta faluba egy bőséges ebédre. Visszafelé ejtse útba a híres Siam Parkot, hogy megcsodálja a thai stílusú építészetet.",
             "ro": "Explorați coasta Costa Adeje confortabil cu bicicleta. Începeți în Puerto Colón și pedalați de-a lungul falezelor plajelor Fañabé și El Duque. Turul vă duce mai departe în pitorescul La Caleta pentru un prânz copios. La întoarcere, treceți pe lângă faimosul Siam Park pentru a admira arhitectura de inspirație thailandeză.",
-            "en": "Explore the coastline of Costa Adeje comfortably by bike. Start at Puerto Colón and cycle along the promenades of Fañabé and El Duque beaches. The tour continues to the picturesque La Caleta for a hearty lunch. On the way back, swing by the famous Siam Park to admire the Thai-inspired architecture."
+            "en": "Explore the coastline of Costa Adeje comfortably by bike. Start at Puerto Colón and cycle along the promenades of Fañabé and El Duque beaches. The tour continues to the picturesque La Caleta for a hearty lunch. On the way back, swing by the famous Siam Park to admire the Thai-inspired architecture.",
+            "es": "Explora la costa de Costa Adeje cómodamente en bicicleta. Comienza en Puerto Colón y pedalea por los paseos de las playas de Fañabé y El Duque. El recorrido continúa hasta la pintoresca La Caleta para un almuerzo contundente. De regreso, pasa por el famoso Siam Park para admirar su arquitectura de inspiración tailandesa."
           },
           "stops": [
             {
@@ -914,13 +998,15 @@
                 "de": "Puerto Colón",
                 "hu": "Puerto Colón",
                 "ro": "Puerto Colón",
-                "en": "Puerto Colón"
+                "en": "Puerto Colón",
+                "es": "Puerto Colón"
               },
               "tip_5lang": {
                 "de": "Starten Sie am Jachthafen.",
                 "hu": "Induljon a jachtkikötőtől.",
                 "ro": "Începeți de la portul de iahturi.",
-                "en": "Start at the yacht marina."
+                "en": "Start at the yacht marina.",
+                "es": "Empieza en la marina de yates."
               }
             },
             {
@@ -928,13 +1014,15 @@
                 "de": "Playa de Fañabé",
                 "hu": "Fañabé strand",
                 "ro": "Plaja Fañabé",
-                "en": "Fañabé Beach"
+                "en": "Fañabé Beach",
+                "es": "Playa Fañabé"
               },
               "tip_5lang": {
                 "de": "Breite Wege entlang der Küste.",
                 "hu": "Széles utak a part mentén.",
                 "ro": "Alei late de-a lungul coastei.",
-                "en": "Wide paths along the coast."
+                "en": "Wide paths along the coast.",
+                "es": "Anchos paseos a lo largo de la costa."
               }
             },
             {
@@ -942,13 +1030,15 @@
                 "de": "Playa del Duque",
                 "hu": "Del Duque strand",
                 "ro": "Plaja del Duque",
-                "en": "El Duque Beach"
+                "en": "El Duque Beach",
+                "es": "Playa El Duque"
               },
               "tip_5lang": {
                 "de": "Schattige Plätze unter Palmen.",
                 "hu": "Árnyas helyek a pálmák alatt.",
                 "ro": "Locuri umbrite sub palmieri.",
-                "en": "Shady spots under the palms."
+                "en": "Shady spots under the palms.",
+                "es": "Zonas de sombra bajo las palmeras."
               }
             },
             {
@@ -956,13 +1046,15 @@
                 "de": "La Caleta",
                 "hu": "La Caleta",
                 "ro": "La Caleta",
-                "en": "La Caleta"
+                "en": "La Caleta",
+                "es": "La Caleta"
               },
               "tip_5lang": {
                 "de": "Mittagspause in einem Fischrestaurant.",
                 "hu": "Ebédeljen egy halétteremben.",
                 "ro": "Pauză de prânz la un restaurant de pește.",
-                "en": "Lunch break at a seafood restaurant."
+                "en": "Lunch break at a seafood restaurant.",
+                "es": "Pausa para comer en un restaurante de mariscos."
               }
             },
             {
@@ -970,13 +1062,15 @@
                 "de": "Siam Park",
                 "hu": "Siam Park",
                 "ro": "Siam Park",
-                "en": "Siam Park"
+                "en": "Siam Park",
+                "es": "Siam Park"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie den Parkeingang für Souvenirs.",
                 "hu": "Látogasson el a park bejáratához szuvenírekért.",
                 "ro": "Vizitați intrarea parcului pentru suveniruri.",
-                "en": "Visit the park entrance for souvenirs."
+                "en": "Visit the park entrance for souvenirs.",
+                "es": "Visita la entrada del parque para comprar souvenirs."
               }
             }
           ],
@@ -1086,6 +1180,12 @@
               "Cycling is often restricted on sidewalks, use designated paths.",
               "Avoid the midday heat.",
               "A lock is indispensable for beach stops."
+            ],
+            "es": [
+              "Alquila una e-bike para las colinas alrededor de Adeje.",
+              "A menudo está prohibido ir en bicicleta por las aceras; usa los carriles señalizados.",
+              "Evita las horas centrales del día.",
+              "Un candado es indispensable para las paradas en la playa."
             ]
           }
         },
@@ -1094,7 +1194,8 @@
             "de": "Eine Regenfahrt entlang der Küste von Costa Adeje erfordert Vorsicht, bietet aber dramatische Ausblicke. Mittags finden Sie Schutz in den Cafés von Fañabé. Der Nachmittag führt nach El Duque und La Caleta auf nassen, aber leeren Wegen. Den Tag schließen Sie im Siam Park ab, wo das Wasser ohnehin Teil des Erlebnisses ist.",
             "hu": "Az esős kerékpározás Costa Adeje partjainál óvatosságot igényel, de látványos. Délben Fañabé kávézóiban pihenhetünk meg. Délután El Duque és La Caleta vizes, de néptelen útjain tekerünk. A napot a Siam Parkban zárjuk, ahol a víz amúgy is a kaland része, így az eső sem akadály.",
             "ro": "O plimbare cu bicicleta pe ploaie de-a lungul coastei necesită prudență, dar oferă peisaje dramatice. La prânz, găsiți adăpost în cafenelele din Fañabé. După-amiaza continuă spre El Duque și La Caleta pe piste ude, dar libere. Încheiați ziua la Siam Park, unde apa este oricum parte din experiență.",
-            "en": "A rainy bike ride along Costa Adeje requires caution but offers dramatic coastal views. Midday finds you resting in Fañabé’s sheltered cafes. Afternoon takes you to El Duque and La Caleta on wet but empty paths. Finish the day at Siam Park, where being wet is part of the fun regardless of the weather."
+            "en": "A rainy bike ride along Costa Adeje requires caution but offers dramatic coastal views. Midday finds you resting in Fañabé’s sheltered cafes. Afternoon takes you to El Duque and La Caleta on wet but empty paths. Finish the day at Siam Park, where being wet is part of the fun regardless of the weather.",
+            "es": "Una ruta en bicicleta bajo la lluvia por Costa Adeje requiere precaución pero ofrece vistas costeras dramáticas. A mediodía descansarás en los cafés resguardados de Fañabé. Por la tarde llegarás a El Duque y La Caleta por senderos húmedos pero vacíos. Termina el día en Siam Park, donde estar mojado forma parte de la diversión sin importar el tiempo."
           },
           "stops": [
             {
@@ -1103,7 +1204,8 @@
                 "de": "Vorsicht beim Absteigen auf den nassen Holzstegen des Hafens.",
                 "hu": "Vigyázat a kikötő nedves fapadlózatán a leszálláskor.",
                 "ro": "Atenție când coborâți de pe bicicletă pe podiumurile de lemn ude din port.",
-                "en": "Be careful when dismounting on the wet wooden boardwalks of the marina."
+                "en": "Be careful when dismounting on the wet wooden boardwalks of the marina.",
+                "es": "Ten cuidado al desmontar en los pasarelas de madera mojadas de la marina."
               }
             },
             {
@@ -1112,7 +1214,8 @@
                 "de": "Nutzen Sie den breiten, gepflasterten Radweg, meiden Sie Sandflächen.",
                 "hu": "Használja a széles, kövezett kerékpárutat, kerülje a homokos részeket.",
                 "ro": "Folosiți pista de biciclete lată și pavată, evitați zonele cu nisip.",
-                "en": "Use the wide, paved bike path and avoid sandy areas."
+                "en": "Use the wide, paved bike path and avoid sandy areas.",
+                "es": "Usa el ancho carril bici pavimentado y evita las zonas arenosas."
               }
             },
             {
@@ -1121,7 +1224,8 @@
                 "de": "Die Kurven hier können durch angespülten Sand bei Regen rutschig sein.",
                 "hu": "A kanyarok itt a felhordott homok miatt esőben csúszósak lehetnek.",
                 "ro": "Curbele de aici pot fi alunecoase din cauza nisipului adus de ploaie.",
-                "en": "The curves here can be slippery due to sand washed up by the rain."
+                "en": "The curves here can be slippery due to sand washed up by the rain.",
+                "es": "Las curvas pueden estar resbaladizas por la arena arrastrada por la lluvia."
               }
             },
             {
@@ -1130,7 +1234,8 @@
                 "de": "Stellen Sie Ihr Rad unter dem Vordach eines Restaurants sicher ab.",
                 "hu": "Parkolja le biztonságosan kerékpárját egy étterem előteteje alatt.",
                 "ro": "Parcați bicicleta în siguranță sub copertina unui restaurant.",
-                "en": "Park your bike securely under a restaurant's awning."
+                "en": "Park your bike securely under a restaurant's awning.",
+                "es": "Aparca la bici de forma segura bajo el toldo de un restaurante."
               }
             },
             {
@@ -1139,7 +1244,8 @@
                 "de": "Der Park bleibt bei Regen geöffnet; warme Duschen warten danach.",
                 "hu": "A park esőben is nyitva van; utána meleg zuhany várja.",
                 "ro": "Parcul rămâne deschis pe ploaie; dușurile calde vă așteaptă după.",
-                "en": "The park stays open during rain; warm showers await you afterwards."
+                "en": "The park stays open during rain; warm showers await you afterwards.",
+                "es": "El parque permanece abierto bajo la lluvia; después te esperan duchas calentitas."
               }
             }
           ],
@@ -1171,6 +1277,13 @@
               "Wear high-visibility clothing as visibility drops during rain showers.",
               "Rent a bike with mudguards to prevent water from splashing onto your back.",
               "If lightning occurs, stop the tour immediately and find solid shelter."
+            ],
+            "es": [
+              "Revisa los frenos; las llantas mojadas aumentan mucho la distancia de frenado.",
+              "Evita los charcos, pueden ocultar baches profundos o escombros.",
+              "Lleva ropa de alta visibilidad, la visibilidad baja con los chaparrones.",
+              "Alquila una bici con guardabarros para evitar que el agua te salpique la espalda.",
+              "Si hay tormenta eléctrica, detén la ruta de inmediato y busca refugio sólido."
             ]
           }
         },
@@ -1179,7 +1292,8 @@
             "de": "Winter ist die goldene Zeit für Radfahrer auf Teneriffa. Am Morgen genießen Sie die kühle Meeresbrise am Puerto Colón. Mittags ist das Radeln entlang Fañabé und El Duque ohne die drückende Sommerhitze ein Vergnügen. Nachmittags erreichen Sie La Caleta im weichen Winterlicht und beenden die Tour aktiv im Siam Park.",
             "hu": "A tél a kerékpárosok aranykora Teneriffán. Reggel élvezhetjük a hűvös tengeri szellőt Puerto Colónnál. Délben Fañabé és El Duque mentén tekerni igazi élvezet a fojtogató nyári hőség nélkül. Délután La Caletát puha téli fényekben érjük el, majd a napot aktívan zárjuk a Siam Parkban.",
             "ro": "Iarna este perioada de aur pentru bicicliști în Tenerife. Dimineața, bucurați-vă de briza răcoroasă la Puerto Colón. La prânz, pedalatul de-a lungul Fañabé și El Duque este o plăcere fără căldura sufocantă. După-amiaza ajungeți în La Caleta în lumina blândă a iernii și încheiați activ la Siam Park.",
-            "en": "Winter is the golden era for cyclists in Tenerife. Enjoy the cool morning breeze at Puerto Colón. Midday cycling along Fañabé and El Duque is a joy without the oppressive summer heat. Reach La Caleta in the soft afternoon winter light and finish your active tour at Siam Park."
+            "en": "Winter is the golden era for cyclists in Tenerife. Enjoy the cool morning breeze at Puerto Colón. Midday cycling along Fañabé and El Duque is a joy without the oppressive summer heat. Reach La Caleta in the soft afternoon winter light and finish your active tour at Siam Park.",
+            "es": "El invierno es la época dorada para ciclistas en Tenerife. Disfruta de la fresca brisa matinal en Puerto Colón. Al mediodía, pedalear por Fañabé y El Duque es un placer sin el agobio del calor veraniego. Llega a La Caleta con la suave luz vespertina invernal y termina la jornada activa en Siam Park."
           },
           "stops": [
             {
@@ -1188,7 +1302,8 @@
                 "de": "Perfekter Startpunkt für eine Tour bei milden 20 Grad am Morgen.",
                 "hu": "Tökéletes kiindulópont egy túrához a reggeli enyhe 20 fokban.",
                 "ro": "Punct de plecare perfect pentru un tur la 20 de grade dimineața.",
-                "en": "Perfect starting point for a tour in the mild 20-degree morning air."
+                "en": "Perfect starting point for a tour in the mild 20-degree morning air.",
+                "es": "Punto de partida perfecto para una ruta con la suave brisa matinal a 20 grados."
               }
             },
             {
@@ -1197,7 +1312,8 @@
                 "de": "Nutzen Sie die weniger überlaufenen Radwege für eine entspannte Fahrt.",
                 "hu": "Használja ki a kevésbé zsúfolt utakat egy pihentető tekeréshez.",
                 "ro": "Profitați de pistele mai puțin aglomerate pentru o plimbare relaxată.",
-                "en": "Take advantage of the less crowded bike paths for a relaxed ride."
+                "en": "Take advantage of the less crowded bike paths for a relaxed ride.",
+                "es": "Aprovecha los carriles menos concurridos para un paseo relajado."
               }
             },
             {
@@ -1206,7 +1322,8 @@
                 "de": "Stoppen Sie kurz, um das glitzernde Winterlicht auf dem Ozean zu sehen.",
                 "hu": "Álljon meg egy pillanatra, és nézze a csillogó téli fényeket az óceánon.",
                 "ro": "Opriți-vă puțin pentru a vedea lumina sclipitoare de iarnă pe ocean.",
-                "en": "Stop for a moment to see the sparkling winter light on the ocean."
+                "en": "Stop for a moment to see the sparkling winter light on the ocean.",
+                "es": "Detente un momento para ver la luz invernal brillando sobre el océano."
               }
             },
             {
@@ -1215,7 +1332,8 @@
                 "de": "Die Cafés hier sind im Winter ideale sonnige Pausenstopps.",
                 "hu": "Az itteni kávézók télen ideális napos pihenőhelyek.",
                 "ro": "Cafenelele de aici sunt locuri ideale de pauză la soare în timpul iernii.",
-                "en": "The cafes here are ideal sunny pit stops during the winter."
+                "en": "The cafes here are ideal sunny pit stops during the winter.",
+                "es": "Los cafés aquí son paradas soleadas ideales durante el invierno."
               }
             },
             {
@@ -1224,7 +1342,8 @@
                 "de": "Das Wasser ist auf 24 Grad beheizt – auch im Winter ein Genuss.",
                 "hu": "A víz 24 fokra van fűtve – télen is igazi élvezet.",
                 "ro": "Apa este încălzită la 24 de grade – o plăcere chiar și iarna.",
-                "en": "The water is heated to 24 degrees – a treat even in winter."
+                "en": "The water is heated to 24 degrees – a treat even in winter.",
+                "es": "El agua está calentada a 24 grados: un gusto incluso en invierno."
               }
             }
           ],
@@ -1256,6 +1375,13 @@
               "The sun is lower; good sunglasses are important to handle the glare.",
               "E-bikes are perfect for tackling the inclines up to Adeje town.",
               "Watch out for pedestrians on shared promenade sections."
+            ],
+            "es": [
+              "Las temperaturas son perfectas para rutas largas, pero mantente hidratado igualmente.",
+              "Las zonas a la sombra pueden sentirse frescas por la brisa marina.",
+              "El sol está más bajo; unas buenas gafas de sol son importantes para manejar el deslumbramiento.",
+              "Las e-bikes son perfectas para afrontar las cuestas hasta el casco de Adeje.",
+              "Cuidado con los peatones en tramos compartidos del paseo."
             ]
           }
         }
@@ -1274,7 +1400,8 @@
             "de": "Barranco del Infierno",
             "hu": "Pokol-szurdok",
             "ro": "Barranco del Infierno",
-            "en": "Hell's Ravine"
+            "en": "Hell's Ravine",
+            "es": "Barranco del Infierno"
           },
           "coords": [
             -16.7195,
@@ -1289,7 +1416,8 @@
             "de": "Reservieren Sie Wochen im Voraus online.",
             "hu": "Foglaljon online hetekkel előre.",
             "ro": "Rezervați online cu săptămâni înainte.",
-            "en": "Book online weeks in advance."
+            "en": "Book online weeks in advance.",
+            "es": "Reserva en línea con semanas de antelación."
           }
         },
         {
@@ -1297,7 +1425,8 @@
             "de": "Iglesia de Santa Úrsula",
             "hu": "Santa Úrsula templom",
             "ro": "Biserica Santa Úrsula",
-            "en": "Church of Santa Úrsula"
+            "en": "Church of Santa Úrsula",
+            "es": "Iglesia de Santa Úrsula"
           },
           "coords": [
             -16.7291,
@@ -1312,7 +1441,8 @@
             "de": "Parkplätze im Stadtzentrum suchen.",
             "hu": "Keressen parkolót a városközpontban.",
             "ro": "Căutați parcare în centrul orașului.",
-            "en": "Look for parking in the town center."
+            "en": "Look for parking in the town center.",
+            "es": "Busca aparcamiento en el centro del pueblo."
           }
         },
         {
@@ -1320,7 +1450,8 @@
             "de": "Casa Fuerte de Adeje",
             "hu": "Casa Fuerte",
             "ro": "Casa Fuerte",
-            "en": "Casa Fuerte"
+            "en": "Casa Fuerte",
+            "es": "Casa Fuerte"
           },
           "coords": [
             -16.7305,
@@ -1335,7 +1466,8 @@
             "de": "Direkt neben der Kirche gelegen.",
             "hu": "Közvetlenül a templom mellett található.",
             "ro": "Situat chiar lângă biserică.",
-            "en": "Located right next to the church."
+            "en": "Located right next to the church.",
+            "es": "Situada justo al lado de la iglesia."
           }
         },
         {
@@ -1343,7 +1475,8 @@
             "de": "La Caleta de Adeje",
             "hu": "La Caleta",
             "ro": "La Caleta",
-            "en": "La Caleta"
+            "en": "La Caleta",
+            "es": "La Caleta"
           },
           "coords": [
             -16.7545,
@@ -1358,7 +1491,8 @@
             "de": "Großer Parkplatz am Dorfeingang.",
             "hu": "Nagy parkoló a falu bejáratánál.",
             "ro": "Parcare mare la intrarea în sat.",
-            "en": "Large parking lot at the village entrance."
+            "en": "Large parking lot at the village entrance.",
+            "es": "Gran aparcamiento en la entrada del pueblo."
           }
         },
         {
@@ -1366,7 +1500,8 @@
             "de": "Siam Park",
             "hu": "Siam Park",
             "ro": "Siam Park",
-            "en": "Siam Park"
+            "en": "Siam Park",
+            "es": "Siam Park"
           },
           "coords": [
             -16.7265,
@@ -1381,7 +1516,8 @@
             "de": "Fotostopp bei den thailändischen Gebäuden.",
             "hu": "Fotómegálló a thai épületeknél.",
             "ro": "Oprire foto la clădirile thailandeze.",
-            "en": "Photo stop at the Thai buildings."
+            "en": "Photo stop at the Thai buildings.",
+            "es": "Parada para fotos junto a los edificios de estilo tailandés."
           }
         }
       ],
@@ -1389,7 +1525,8 @@
         "de": "Erleben Sie die Kontraste von Adeje mit dem Auto. Beginnen Sie mit einer Wanderung im Barranco del Infierno (Anmeldung erforderlich). Danach besuchen Sie das historische Erbe im alten Ortskern von Adeje. Mittags fahren Sie nach La Caleta für frische Meeresfrüchte. Den Nachmittag verbringen Sie flexibel an der Küste oder bewundern die Architektur des Siam Parks.",
         "hu": "Fedezze fel Adeje kontrasztjait autóval. Kezdje a napot egy túrával a Pokol-szurdokban (előzetes bejelentkezés kötelező). Ezután látogassa meg Adeje óvárosának történelmi örökségét. Délben autózzon el La Caletába egy friss tengeri ebédre. A délutánt töltse rugalmasan a parton, vagy csodálja meg a Siam Park építészetét.",
         "ro": "Experimentați contrastele din Adeje cu mașina. Începeți cu o drumeție în Barranco del Infierno (este necesară rezervare). Apoi, vizitați moștenirea istorică din centrul vechi al orașului Adeje. La prânz, conduceți spre La Caleta pentru fructe de mare proaspete. Petreceți după-amiaza flexibil pe coastă sau admirând arhitectura Siam Park.",
-        "en": "Experience the contrasts of Adeje by car. Start with a hike in Barranco del Infierno (booking required). Afterward, visit the historical heritage in Adeje's old town. At noon, drive to La Caleta for fresh seafood. Spend the afternoon flexibly on the coast or admiring the architecture of Siam Park."
+        "en": "Experience the contrasts of Adeje by car. Start with a hike in Barranco del Infierno (booking required). Afterward, visit the historical heritage in Adeje's old town. At noon, drive to La Caleta for fresh seafood. Spend the afternoon flexibly on the coast or admiring the architecture of Siam Park.",
+        "es": "Siente los contrastes de Adeje en coche. Comienza con una ruta por Barranco del Infierno (reserva obligatoria). Después, visita el patrimonio histórico del casco antiguo de Adeje. Al mediodía, conduce hasta La Caleta para probar marisco fresco. Pasa la tarde en la costa o admirando la arquitectura de Siam Park."
       },
       "gastro_picks": {
         "de": [
@@ -1497,6 +1634,12 @@
           "Watch out for one-way streets in old Adeje.",
           "Bring plenty of water for the hike.",
           "Gas stations are mostly located near the TF-1 highway."
+        ],
+        "es": [
+          "Aparcar puede ser difícil cerca de Playa del Duque.",
+          "Ten cuidado con las calles de un único sentido en el casco antiguo de Adeje.",
+          "Lleva abundante agua para la caminata.",
+          "Las gasolineras se concentran mayormente junto a la autopista TF-1."
         ]
       },
       "variants": {
@@ -1505,7 +1648,8 @@
             "de": "Erleben Sie die Kontraste von Adeje mit dem Auto. Beginnen Sie mit einer Wanderung im Barranco del Infierno (Anmeldung erforderlich). Danach besuchen Sie das historische Erbe im alten Ortskern von Adeje. Mittags fahren Sie nach La Caleta für frische Meeresfrüchte. Den Nachmittag verbringen Sie flexibel an der Küste oder bewundern die Architektur des Siam Parks.",
             "hu": "Fedezze fel Adeje kontrasztjait autóval. Kezdje a napot egy túrával a Pokol-szurdokban (előzetes bejelentkezés kötelező). Ezután látogassa meg Adeje óvárosának történelmi örökségét. Délben autózzon el La Caletába egy friss tengeri ebédre. A délutánt töltse rugalmasan a parton, vagy csodálja meg a Siam Park építészetét.",
             "ro": "Experimentați contrastele din Adeje cu mașina. Începeți cu o drumeție în Barranco del Infierno (este necesară rezervare). Apoi, vizitați moștenirea istorică din centrul vechi al orașului Adeje. La prânz, conduceți spre La Caleta pentru fructe de mare proaspete. Petreceți după-amiaza flexibil pe coastă sau admirând arhitectura Siam Park.",
-            "en": "Experience the contrasts of Adeje by car. Start with a hike in Barranco del Infierno (booking required). Afterward, visit the historical heritage in Adeje's old town. At noon, drive to La Caleta for fresh seafood. Spend the afternoon flexibly on the coast or admiring the architecture of Siam Park."
+            "en": "Experience the contrasts of Adeje by car. Start with a hike in Barranco del Infierno (booking required). Afterward, visit the historical heritage in Adeje's old town. At noon, drive to La Caleta for fresh seafood. Spend the afternoon flexibly on the coast or admiring the architecture of Siam Park.",
+            "es": "Siente los contrastes de Adeje en coche. Comienza con una ruta por Barranco del Infierno (reserva obligatoria). Después, visita el patrimonio histórico del casco antiguo de Adeje. Al mediodía, conduce hasta La Caleta para probar marisco fresco. Pasa la tarde en la costa o admirando la arquitectura de Siam Park."
           },
           "stops": [
             {
@@ -1513,13 +1657,15 @@
                 "de": "Barranco del Infierno",
                 "hu": "Pokol-szurdok",
                 "ro": "Barranco del Infierno",
-                "en": "Hell's Ravine"
+                "en": "Hell's Ravine",
+                "es": "Barranco del Infierno"
               },
               "tip_5lang": {
                 "de": "Reservieren Sie Wochen im Voraus online.",
                 "hu": "Foglaljon online hetekkel előre.",
                 "ro": "Rezervați online cu săptămâni înainte.",
-                "en": "Book online weeks in advance."
+                "en": "Book online weeks in advance.",
+                "es": "Reserva en línea con semanas de antelación."
               }
             },
             {
@@ -1527,13 +1673,15 @@
                 "de": "Iglesia de Santa Úrsula",
                 "hu": "Santa Úrsula templom",
                 "ro": "Biserica Santa Úrsula",
-                "en": "Church of Santa Úrsula"
+                "en": "Church of Santa Úrsula",
+                "es": "Iglesia de Santa Úrsula"
               },
               "tip_5lang": {
                 "de": "Parkplätze im Stadtzentrum suchen.",
                 "hu": "Keressen parkolót a városközpontban.",
                 "ro": "Căutați parcare în centrul orașului.",
-                "en": "Look for parking in the town center."
+                "en": "Look for parking in the town center.",
+                "es": "Busca aparcamiento en el centro del pueblo."
               }
             },
             {
@@ -1541,13 +1689,15 @@
                 "de": "Casa Fuerte de Adeje",
                 "hu": "Casa Fuerte",
                 "ro": "Casa Fuerte",
-                "en": "Casa Fuerte"
+                "en": "Casa Fuerte",
+                "es": "Casa Fuerte"
               },
               "tip_5lang": {
                 "de": "Direkt neben der Kirche gelegen.",
                 "hu": "Közvetlenül a templom mellett található.",
                 "ro": "Situat chiar lângă biserică.",
-                "en": "Located right next to the church."
+                "en": "Located right next to the church.",
+                "es": "Situada justo al lado de la iglesia."
               }
             },
             {
@@ -1555,13 +1705,15 @@
                 "de": "La Caleta de Adeje",
                 "hu": "La Caleta",
                 "ro": "La Caleta",
-                "en": "La Caleta"
+                "en": "La Caleta",
+                "es": "La Caleta"
               },
               "tip_5lang": {
                 "de": "Großer Parkplatz am Dorfeingang.",
                 "hu": "Nagy parkoló a falu bejáratánál.",
                 "ro": "Parcare mare la intrarea în sat.",
-                "en": "Large parking lot at the village entrance."
+                "en": "Large parking lot at the village entrance.",
+                "es": "Gran aparcamiento en la entrada del pueblo."
               }
             },
             {
@@ -1569,13 +1721,15 @@
                 "de": "Siam Park",
                 "hu": "Siam Park",
                 "ro": "Siam Park",
-                "en": "Siam Park"
+                "en": "Siam Park",
+                "es": "Siam Park"
               },
               "tip_5lang": {
                 "de": "Fotostopp bei den thailändischen Gebäuden.",
                 "hu": "Fotómegálló a thai épületeknél.",
                 "ro": "Oprire foto la clădirile thailandeze.",
-                "en": "Photo stop at the Thai buildings."
+                "en": "Photo stop at the Thai buildings.",
+                "es": "Parada para fotos junto a los edificios de estilo tailandés."
               }
             }
           ],
@@ -1685,6 +1839,12 @@
               "Watch out for one-way streets in old Adeje.",
               "Bring plenty of water for the hike.",
               "Gas stations are mostly located near the TF-1 highway."
+            ],
+            "es": [
+              "Aparcar puede ser difícil cerca de Playa del Duque.",
+              "Ten cuidado con las calles de un único sentido en el casco antiguo de Adeje.",
+              "Lleva abundante agua para la caminata.",
+              "Las gasolineras se concentran mayormente junto a la autopista TF-1."
             ]
           }
         },
@@ -1693,7 +1853,8 @@
             "de": "Ein Regentag ist ideal, um die Gegend mit dem Auto zu erkunden. Morgens ist der Barranco del Infierno mystisch, auch wenn das Wandern eingeschränkt sein kann. Mittags bieten Adeje-Stadt und die Casa Fuerte trockene Kultur. Nachmittags fahren Sie entspannt nach La Caleta und beenden den Tag bei den Indoor-Optionen oder beheizten Bereichen des Siam Parks.",
             "hu": "Az esős nap ideális a környék felfedezésére autóval. Reggel a Barranco del Infierno misztikus látványt nyújt. Délben Adeje városa és a Casa Fuerte száraz kulturális programot kínál. Délután kényelmesen autózunk La Caletába, majd a napot a Siam Park fedett vagy fűtött részein zárjuk.",
             "ro": "O zi ploioasă este ideală pentru a explora zona cu mașina. Dimineața, Barranco del Infierno pare mistic. La prânz, orașul Adeje și Casa Fuerte oferă cultură la adăpost. După-amiaza conduceți relaxat spre La Caleta și încheiați ziua în zonele acoperite ale Siam Park.",
-            "en": "A rainy day is perfect for exploring the area by car. Morning at Hell's Ravine is mystical, even if hiking is restricted. Midday, Adeje town and Casa Fuerte offer dry cultural stops. Afternoon, enjoy a scenic drive to La Caleta and finish with the heated attractions of Siam Park."
+            "en": "A rainy day is perfect for exploring the area by car. Morning at Hell's Ravine is mystical, even if hiking is restricted. Midday, Adeje town and Casa Fuerte offer dry cultural stops. Afternoon, enjoy a scenic drive to La Caleta and finish with the heated attractions of Siam Park.",
+            "es": "Un día lluvioso es perfecto para recorrer la zona en coche. La mañana en Barranco del Infierno es mística, aunque las rutas puedan estar restringidas. Al mediodía, el casco antiguo de Adeje y Casa Fuerte ofrecen paradas culturales bajo techo. Por la tarde, disfruta de un paseo panorámico hasta La Caleta y termina con las atracciones climatizadas de Siam Park."
           },
           "stops": [
             {
@@ -1702,7 +1863,8 @@
                 "de": "Achtung: Bei starkem Regen bleibt der Wanderweg wegen Steinschlaggefahr geschlossen.",
                 "hu": "Figyelem: Erős esőben az ösvény kőomlásveszély miatt zárva tarthat.",
                 "ro": "Atenție: În caz de ploaie abundentă, traseul rămâne închis din cauza căderilor de pietre.",
-                "en": "Warning: During heavy rain, the trail remains closed due to risk of rockfall."
+                "en": "Warning: During heavy rain, the trail remains closed due to risk of rockfall.",
+                "es": "Aviso: con lluvias intensas el sendero permanece cerrado por riesgo de desprendimientos."
               }
             },
             {
@@ -1711,7 +1873,8 @@
                 "de": "Parken Sie in der Tiefgarage unter dem Plaza de España, um trocken zu bleiben.",
                 "hu": "Parkoljon a Plaza de España alatti mélygarázsban, hogy száraz maradjon.",
                 "ro": "Parcați în garajul subteran de sub Plaza de España pentru a rămâne uscat.",
-                "en": "Park in the underground garage below Plaza de España to stay dry."
+                "en": "Park in the underground garage below Plaza de España to stay dry.",
+                "es": "Aparca en el parking subterráneo bajo la Plaza de España para mantenerte seco."
               }
             },
             {
@@ -1720,7 +1883,8 @@
                 "de": "Die historischen Mauern bieten auch bei Schauern guten Schutz.",
                 "hu": "A történelmi falak jó védelmet nyújtanak záporok idején is.",
                 "ro": "Zidurile istorice oferă o protecție bună chiar și în timpul averselor.",
-                "en": "The historical walls offer good protection even during showers."
+                "en": "The historical walls offer good protection even during showers.",
+                "es": "Las murallas históricas ofrecen buena protección incluso durante los chaparrones."
               }
             },
             {
@@ -1729,7 +1893,8 @@
                 "de": "Es gibt ausreichend Parkplätze direkt bei den geschützten Restaurants.",
                 "hu": "Közvetlenül a védett éttermek mellett bőséges parkolóhely áll rendelkezésre.",
                 "ro": "Există locuri de parcare suficiente chiar lângă restaurantele protejate.",
-                "en": "There is ample parking right next to the sheltered restaurants."
+                "en": "There is ample parking right next to the sheltered restaurants.",
+                "es": "Hay amplio aparcamiento junto a los restaurantes con cubrición."
               }
             },
             {
@@ -1738,7 +1903,8 @@
                 "de": "Nutzen Sie die Schließfächer, um Ihre trockene Kleidung sicher zu verwahren.",
                 "hu": "Használja az értékmegőrzőket, hogy száraz ruhái biztonságban legyenek.",
                 "ro": "Folosiți vestiarele pentru a vă păstra hainele uscate în siguranță.",
-                "en": "Use the lockers to keep your dry clothes safe while you enjoy the park."
+                "en": "Use the lockers to keep your dry clothes safe while you enjoy the park.",
+                "es": "Usa las taquillas para proteger tu ropa seca mientras disfrutas del parque."
               }
             }
           ],
@@ -1770,6 +1936,13 @@
               "Do not leave valuables visible in the car, even in rainy weather.",
               "Look for multi-story car parks instead of street parking to stay dry.",
               "Keep your headlights on as sea spray and rain reduce visibility."
+            ],
+            "es": [
+              "Ten cuidado en la TF-1; en fuertes aguaceros puede producirse aquaplaning.",
+              "Las carreteras interiores alrededor de Adeje pueden volverse resbaladizas con humedad.",
+              "No dejes objetos de valor a la vista en el coche, ni siquiera con lluvia.",
+              "Busca aparcamientos en altura en vez de dejar el coche en la calle para mantenerte seco.",
+              "Lleva las luces encendidas, el spray del mar y la lluvia reducen la visibilidad."
             ]
           }
         },
@@ -1778,7 +1951,8 @@
             "de": "Winter ist die ideale Zeit für eine Autotour durch Adeje. Morgens lockt der Barranco del Infierno mit milden Wandertemperaturen. Mittags erkunden Sie die Altstadt von Adeje und die Casa Fuerte bequem. Der Nachmittag gehört der malerischen Fahrt nach La Caleta und einem spritzigen Abschluss im Siam Park.",
             "hu": "A tél az ideális időszak egy autós túrához Adeje környékén. Reggel a Barranco del Infierno enyhe hőmérséklettel csábít túrázásra. Délben kényelmesen fedezhetjük fel Adeje óvárosát és a Casa Fuertét. A délután a festői La Caletáé, a napot pedig a Siam Parkban zárjuk.",
             "ro": "Iarna este momentul ideal pentru un tur auto prin Adeje. Dimineața, Barranco del Infierno vă atrage cu temperaturi blânde de drumeție. La prânz, explorați confortabil orașul vechi și Casa Fuerte. După-amiaza este dedicată drumului pitoresc spre La Caleta și unui final distractiv la Siam Park.",
-            "en": "Winter is the perfect time for a driving tour around Adeje. Morning at Hell's Ravine offers ideal hiking temperatures. Midday, explore Adeje old town and Casa Fuerte with ease. The afternoon features a scenic drive to La Caleta, followed by an energetic finish at Siam Park."
+            "en": "Winter is the perfect time for a driving tour around Adeje. Morning at Hell's Ravine offers ideal hiking temperatures. Midday, explore Adeje old town and Casa Fuerte with ease. The afternoon features a scenic drive to La Caleta, followed by an energetic finish at Siam Park.",
+            "es": "El invierno es perfecto para una ruta en coche por Adeje. La mañana en Barranco del Infierno ofrece temperaturas ideales para caminar. Al mediodía, explora el casco antiguo y Casa Fuerte con comodidad. La tarde incluye un paseo escénico hasta La Caleta y un final enérgico en Siam Park."
           },
           "stops": [
             {
@@ -1787,7 +1961,8 @@
                 "de": "Beste Wanderzeit des Jahres; die Flora ist im Winter besonders grün.",
                 "hu": "Az év legjobb túraidőszaka; a növényzet télen a legzöldebb.",
                 "ro": "Cea mai bună perioadă de drumeție; flora este deosebit de verde iarna.",
-                "en": "Best hiking time of the year; the flora is especially lush in winter."
+                "en": "Best hiking time of the year; the flora is especially lush in winter.",
+                "es": "Mejor época para senderismo del año; la flora está especialmente exuberante en invierno."
               }
             },
             {
@@ -1796,7 +1971,8 @@
                 "de": "Genießen Sie den Kaffee auf dem Platz nach der Besichtigung.",
                 "hu": "Élvezzen egy kávét a téren a templomlátogatás után.",
                 "ro": "Savurați o cafea în piață după vizitarea bisericii.",
-                "en": "Enjoy a coffee in the square after visiting the church."
+                "en": "Enjoy a coffee in the square after visiting the church.",
+                "es": "Toma un café en la plaza después de visitar la iglesia."
               }
             },
             {
@@ -1805,7 +1981,8 @@
                 "de": "Im Winter ist das Licht für Fotos der alten Mauern besonders weich.",
                 "hu": "Télen a fények különösen lágyak a régi falak fotózásához.",
                 "ro": "Iarna, lumina este deosebit de blândă pentru fotografierea zidurilor vechi.",
-                "en": "In winter, the light is particularly soft for photographing the old walls."
+                "en": "In winter, the light is particularly soft for photographing the old walls.",
+                "es": "En invierno, la luz es especialmente suave para fotografiar las murallas antiguas."
               }
             },
             {
@@ -1814,7 +1991,8 @@
                 "de": "Parken Sie am Ortseingang und genießen Sie den Spaziergang zum Meer.",
                 "hu": "Parkoljon a falu szélén, és élvezze a tengerhez vezető sétát.",
                 "ro": "Parcați la intrarea în sat și bucurați-vă de plimbarea spre mare.",
-                "en": "Park at the village entrance and enjoy the short walk to the sea."
+                "en": "Park at the village entrance and enjoy the short walk to the sea.",
+                "es": "Aparca en la entrada del pueblo y disfruta del corto paseo hasta el mar."
               }
             },
             {
@@ -1823,7 +2001,8 @@
                 "de": "Im Winter sind die Wartezeiten an den Rutschen oft deutlich kürzer.",
                 "hu": "Télen a csúszdáknál a várakozási idő gyakran lényegesen rövidebb.",
                 "ro": "Iarna, timpii de așteptare la tobogane sunt adesea mult mai scurți.",
-                "en": "In winter, waiting times for the slides are often significantly shorter."
+                "en": "In winter, waiting times for the slides are often significantly shorter.",
+                "es": "En invierno, los tiempos de espera en los toboganes suelen ser significativamente más cortos."
               }
             }
           ],
@@ -1855,6 +2034,13 @@
               "Drive along the coast road at sunset for spectacular ocean views.",
               "A rental car allows you to take trips to the higher regions of Mount Teide.",
               "Watch out for road cyclists, who are very numerous during the winter."
+            ],
+            "es": [
+              "Encontrar aparcamiento cerca de las playas es algo más fácil en temporada invernal.",
+              "Usa el aire acondicionado con moderación; el aire exterior suele ser ideal.",
+              "Conduce por la carretera costera al atardecer para vistas espectaculares del océano.",
+              "Un coche de alquiler te permite subir a las zonas altas del Teide.",
+              "Cuidado con los ciclistas en carretera, son muy numerosos en invierno."
             ]
           }
         }
@@ -1873,7 +2059,8 @@
             "de": "Siam Park",
             "hu": "Siam Park",
             "ro": "Siam Park",
-            "en": "Siam Park"
+            "en": "Siam Park",
+            "es": "Siam Park"
           },
           "coords": [
             -16.7265,
@@ -1888,7 +2075,8 @@
             "de": "Nutzen Sie den kostenlosen Siam Park Bus.",
             "hu": "Használja az ingyenes Siam Park buszjáratot.",
             "ro": "Folosiți autobuzul gratuit Siam Park.",
-            "en": "Use the free Siam Park shuttle bus."
+            "en": "Use the free Siam Park shuttle bus.",
+            "es": "Utiliza el autobús lanzadera gratuito de Siam Park."
           }
         },
         {
@@ -1896,7 +2084,8 @@
             "de": "Puerto Colón",
             "hu": "Puerto Colón",
             "ro": "Puerto Colón",
-            "en": "Puerto Colón"
+            "en": "Puerto Colón",
+            "es": "Puerto Colón"
           },
           "coords": [
             -16.7365,
@@ -1911,7 +2100,8 @@
             "de": "Zentraler Busknotenpunkt an der Küste.",
             "hu": "Központi buszmegálló a tengerparton.",
             "ro": "Nod central de transport pe coastă.",
-            "en": "Central bus hub on the coast."
+            "en": "Central bus hub on the coast.",
+            "es": "Nudo de comunicaciones central en la costa."
           }
         },
         {
@@ -1919,7 +2109,8 @@
             "de": "Playa de Fañabé",
             "hu": "Fañabé strand",
             "ro": "Plaja Fañabé",
-            "en": "Fañabé Beach"
+            "en": "Fañabé Beach",
+            "es": "Playa Fañabé"
           },
           "coords": [
             -16.7385,
@@ -1934,7 +2125,8 @@
             "de": "Die Haltestelle ist nur wenige Gehminuten entfernt.",
             "hu": "A megálló csak pár perc sétára van.",
             "ro": "Stația este la doar câteva minute de mers pe jos.",
-            "en": "The stop is just a few minutes walk away."
+            "en": "The stop is just a few minutes walk away.",
+            "es": "La parada está a solo unos minutos a pie."
           }
         },
         {
@@ -1942,7 +2134,8 @@
             "de": "Playa del Duque",
             "hu": "Del Duque strand",
             "ro": "Plaja del Duque",
-            "en": "El Duque Beach"
+            "en": "El Duque Beach",
+            "es": "Playa del Duque"
           },
           "coords": [
             -16.7455,
@@ -1957,7 +2150,8 @@
             "de": "Ankunft in der Nähe der Luxushotels.",
             "hu": "Érkezés a luxusszállodák közelébe.",
             "ro": "Sosire în apropierea hotelurilor de lux.",
-            "en": "Arrival near the luxury hotels."
+            "en": "Arrival near the luxury hotels.",
+            "es": "Llegada junto a los hoteles de lujo."
           }
         },
         {
@@ -1965,7 +2159,8 @@
             "de": "La Caleta",
             "hu": "La Caleta",
             "ro": "La Caleta",
-            "en": "La Caleta"
+            "en": "La Caleta",
+            "es": "La Caleta"
           },
           "coords": [
             -16.7545,
@@ -1980,7 +2175,8 @@
             "de": "Letzter Stopp für ein Abendessen.",
             "hu": "Utolsó megálló egy vacsorához.",
             "ro": "Ultima oprire pentru cină.",
-            "en": "Final stop for dinner."
+            "en": "Final stop for dinner.",
+            "es": "Parada final para cenar."
           }
         }
       ],
@@ -1988,7 +2184,8 @@
         "de": "Nutzen Sie das ausgezeichnete Bussystem (TITSA) von Costa Adeje. Beginnen Sie Ihren Tag im aufregenden Siam Park. Mittags fahren Sie mit dem Bus nach Puerto Colón und spazieren weiter zum Fañabé Strand. Am Nachmittag erreichen Sie Playa del Duque und beenden Ihre Tour im malerischen La Caleta. Die grünen Busse verbinden alle wichtigen Punkte effizient.",
         "hu": "Használja Costa Adeje kiváló buszhálózatát (TITSA). Kezdje a napot az izgalmas Siam Parkban. Délben busszal menjen Puerto Colónba, majd sétáljon át Fañabé strandjára. Délután látogasson el Playa del Duque-ra, és fejezze be a túrát a festői La Caletában. A zöld buszok hatékonyan összekötik a legfontosabb pontokat.",
         "ro": "Folosiți sistemul excelent de autobuze (TITSA) din Costa Adeje. Începeți ziua la palpitantul Siam Park. La prânz, luați autobuzul spre Puerto Colón și mergeți spre plaja Fañabé. După-amiaza, vizitați Playa del Duque și încheiați turul în pitorescul La Caleta. Autobuzele verzi conectează eficient toate punctele cheie.",
-        "en": "Use Costa Adeje's excellent bus system (TITSA). Start your day at the exciting Siam Park. At noon, take the bus to Puerto Colón and walk over to Fañabé Beach. In the afternoon, visit Playa del Duque and finish your tour in picturesque La Caleta. The green buses efficiently connect all major points."
+        "en": "Use Costa Adeje's excellent bus system (TITSA). Start your day at the exciting Siam Park. At noon, take the bus to Puerto Colón and walk over to Fañabé Beach. In the afternoon, visit Playa del Duque and finish your tour in picturesque La Caleta. The green buses efficiently connect all major points.",
+        "es": "Usa el excelente sistema de buses de Costa Adeje (TITSA). Empieza el día en el emocionante Siam Park. Al mediodía, toma el bus hasta Puerto Colón y camina hacia Playa Fañabé. Por la tarde, visita Playa del Duque y termina el recorrido en la pintoresca La Caleta. Los buses verdes conectan eficientemente todos los puntos principales."
       },
       "gastro_picks": {
         "de": [
@@ -2096,6 +2293,12 @@
           "Buses 473 and 471 cover the entire coastline.",
           "Check the schedules for returning from La Caleta.",
           "You must signal the driver with your hand at the stop."
+        ],
+        "es": [
+          "Compra una tarjeta Ten+ para tarifas más baratas.",
+          "Las líneas 473 y 471 cubren toda la costa.",
+          "Consulta los horarios para el regreso desde La Caleta.",
+          "Debes indicar al conductor con la mano en la parada."
         ]
       },
       "variants": {
@@ -2104,7 +2307,8 @@
             "de": "Nutzen Sie das ausgezeichnete Bussystem (TITSA) von Costa Adeje. Beginnen Sie Ihren Tag im aufregenden Siam Park. Mittags fahren Sie mit dem Bus nach Puerto Colón und spazieren weiter zum Fañabé Strand. Am Nachmittag erreichen Sie Playa del Duque und beenden Ihre Tour im malerischen La Caleta. Die grünen Busse verbinden alle wichtigen Punkte effizient.",
             "hu": "Használja Costa Adeje kiváló buszhálózatát (TITSA). Kezdje a napot az izgalmas Siam Parkban. Délben busszal menjen Puerto Colónba, majd sétáljon át Fañabé strandjára. Délután látogasson el Playa del Duque-ra, és fejezze be a túrát a festői La Caletában. A zöld buszok hatékonyan összekötik a legfontosabb pontokat.",
             "ro": "Folosiți sistemul excelent de autobuze (TITSA) din Costa Adeje. Începeți ziua la palpitantul Siam Park. La prânz, luați autobuzul spre Puerto Colón și mergeți spre plaja Fañabé. După-amiaza, vizitați Playa del Duque și încheiați turul în pitorescul La Caleta. Autobuzele verzi conectează eficient toate punctele cheie.",
-            "en": "Use Costa Adeje's excellent bus system (TITSA). Start your day at the exciting Siam Park. At noon, take the bus to Puerto Colón and walk over to Fañabé Beach. In the afternoon, visit Playa del Duque and finish your tour in picturesque La Caleta. The green buses efficiently connect all major points."
+            "en": "Use Costa Adeje's excellent bus system (TITSA). Start your day at the exciting Siam Park. At noon, take the bus to Puerto Colón and walk over to Fañabé Beach. In the afternoon, visit Playa del Duque and finish your tour in picturesque La Caleta. The green buses efficiently connect all major points.",
+            "es": "Usa el excelente sistema de autobuses de Costa Adeje (TITSA). Empieza el día en el emocionante Siam Park. A mediodía, toma el autobús hasta Puerto Colón y camina hasta la playa de Fañabé. Por la tarde, visita Playa del Duque y termina tu recorrido en la pintoresca La Caleta. Los autobuses verdes conectan eficientemente todos los puntos principales."
           },
           "stops": [
             {
@@ -2112,13 +2316,15 @@
                 "de": "Siam Park",
                 "hu": "Siam Park",
                 "ro": "Siam Park",
-                "en": "Siam Park"
+                "en": "Siam Park",
+                "es": "Siam Park"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den kostenlosen Siam Park Bus.",
                 "hu": "Használja az ingyenes Siam Park buszjáratot.",
                 "ro": "Folosiți autobuzul gratuit Siam Park.",
-                "en": "Use the free Siam Park shuttle bus."
+                "en": "Use the free Siam Park shuttle bus.",
+                "es": "Utiliza el servicio de lanzadera gratuito de Siam Park."
               }
             },
             {
@@ -2126,13 +2332,15 @@
                 "de": "Puerto Colón",
                 "hu": "Puerto Colón",
                 "ro": "Puerto Colón",
-                "en": "Puerto Colón"
+                "en": "Puerto Colón",
+                "es": "Puerto Colón"
               },
               "tip_5lang": {
                 "de": "Zentraler Busknotenpunkt an der Küste.",
                 "hu": "Központi buszmegálló a tengerparton.",
                 "ro": "Nod central de transport pe coastă.",
-                "en": "Central bus hub on the coast."
+                "en": "Central bus hub on the coast.",
+                "es": "Nudo central de autobuses en la costa."
               }
             },
             {
@@ -2140,13 +2348,15 @@
                 "de": "Playa de Fañabé",
                 "hu": "Fañabé strand",
                 "ro": "Plaja Fañabé",
-                "en": "Fañabé Beach"
+                "en": "Fañabé Beach",
+                "es": "Playa de Fañabé"
               },
               "tip_5lang": {
                 "de": "Die Haltestelle ist nur wenige Gehminuten entfernt.",
                 "hu": "A megálló csak pár perc sétára van.",
                 "ro": "Stația este la doar câteva minute de mers pe jos.",
-                "en": "The stop is just a few minutes walk away."
+                "en": "The stop is just a few minutes walk away.",
+                "es": "La parada está a solo unos minutos a pie."
               }
             },
             {
@@ -2154,13 +2364,15 @@
                 "de": "Playa del Duque",
                 "hu": "Del Duque strand",
                 "ro": "Plaja del Duque",
-                "en": "El Duque Beach"
+                "en": "El Duque Beach",
+                "es": "Playa del Duque"
               },
               "tip_5lang": {
                 "de": "Ankunft in der Nähe der Luxushotels.",
                 "hu": "Érkezés a luxusszállodák közelébe.",
                 "ro": "Sosire în apropierea hotelurilor de lux.",
-                "en": "Arrival near the luxury hotels."
+                "en": "Arrival near the luxury hotels.",
+                "es": "Llegada cerca de los hoteles de lujo."
               }
             },
             {
@@ -2168,13 +2380,15 @@
                 "de": "La Caleta",
                 "hu": "La Caleta",
                 "ro": "La Caleta",
-                "en": "La Caleta"
+                "en": "La Caleta",
+                "es": "La Caleta"
               },
               "tip_5lang": {
                 "de": "Letzter Stopp für ein Abendessen.",
                 "hu": "Utolsó megálló egy vacsorához.",
                 "ro": "Ultima oprire pentru cină.",
-                "en": "Final stop for dinner."
+                "en": "Final stop for dinner.",
+                "es": "Parada final para cenar."
               }
             }
           ],
@@ -2284,6 +2498,12 @@
               "Buses 473 and 471 cover the entire coastline.",
               "Check the schedules for returning from La Caleta.",
               "You must signal the driver with your hand at the stop."
+            ],
+            "es": [
+              "Compra una tarjeta Ten+ para tarifas más baratas.",
+              "Los autobuses 473 y 471 cubren toda la costa.",
+              "Consulta los horarios para volver desde La Caleta.",
+              "Debes indicar al conductor con la mano en la parada."
             ]
           }
         },
@@ -2292,7 +2512,8 @@
             "de": "Mit dem Titsa-Bus bleiben Sie auch an Regentagen mobil und trocken. Morgens geht es direkt zum Siam Park, wo die Wasserattraktionen warten. Mittags bringt Sie der Bus zum Puerto Colón. Nachmittags erkunden Sie Fañabé und El Duque, wobei die Haltestellen nahe an den Promenaden liegen. Der Tag endet bequem in La Caleta.",
             "hu": "A Titsa buszokkal esős időben is mozgékonyak és szárazak maradhatunk. Reggel irány a Siam Park, ahol a vízi élmények várnak. Délben a busz Puerto Colónhoz visz. Délután Fañabé és El Duque partjait fedezzük fel, a megállók közel vannak a sétányokhoz. A napot kényelmesen zárjuk La Caletában.",
             "ro": "Cu autobuzele Titsa rămâneți mobil și uscat chiar și în zilele ploioase. Dimineața mergeți direct la Siam Park. La prânz, autobuzul vă duce la Puerto Colón. După-amiaza explorați Fañabé și El Duque, stațiile fiind aproape de zonele acoperite. Ziua se încheie confortabil în La Caleta.",
-            "en": "Titsa buses keep you mobile and dry on rainy days. Start your morning at Siam Park. Midday, take the bus to Puerto Colón marina. Afternoon explore Fañabé and El Duque beaches, utilizing stops close to sheltered promenades. Finish your day conveniently in La Caleta before heading back."
+            "en": "Titsa buses keep you mobile and dry on rainy days. Start your morning at Siam Park. Midday, take the bus to Puerto Colón marina. Afternoon explore Fañabé and El Duque beaches, utilizing stops close to sheltered promenades. Finish your day conveniently in La Caleta before heading back.",
+            "es": "Los autobuses Titsa te mantienen móvil y seco en días de lluvia. Empieza la mañana en Siam Park. A mediodía, toma el autobús hasta la marina de Puerto Colón. Por la tarde explora las playas de Fañabé y El Duque, utilizando paradas cercanas a paseos cubiertos. Termina el día cómodamente en La Caleta antes de regresar."
           },
           "stops": [
             {
@@ -2301,7 +2522,8 @@
                 "de": "Der Busbahnhof Costa Adeje ist nur wenige Gehminuten vom Park entfernt.",
                 "hu": "A Costa Adeje buszpályaudvar csak pár perc sétára van a parktól.",
                 "ro": "Autogara Costa Adeje se află la doar câteva minute de mers pe jos de parc.",
-                "en": "The Costa Adeje bus station is just a few minutes' walk from the park."
+                "en": "The Costa Adeje bus station is just a few minutes' walk from the park.",
+                "es": "La estación de autobuses de Costa Adeje está a pocos minutos a pie del parque."
               }
             },
             {
@@ -2310,7 +2532,8 @@
                 "de": "Die Haltestellen verfügen meist über überdachte Wartebereiche.",
                 "hu": "A megállók többsége fedett váróval rendelkezik.",
                 "ro": "Majoritatea stațiilor au zone de așteptare acoperite.",
-                "en": "Most bus stops have covered waiting areas to keep you dry."
+                "en": "Most bus stops have covered waiting areas to keep you dry.",
+                "es": "La mayoría de las paradas tienen zonas de espera cubiertas para mantenerte seco."
               }
             },
             {
@@ -2319,7 +2542,8 @@
                 "de": "Nutzen Sie die Buslinien 467 oder 471 für kurze Hüpfer zwischen den Stränden.",
                 "hu": "Használja a 467-es vagy 471-es járatot a strandok közötti gyors közlekedéshez.",
                 "ro": "Folosiți liniile 467 sau 471 pentru deplasări scurte între plaje.",
-                "en": "Use bus lines 467 or 471 for quick hops between the different beaches."
+                "en": "Use bus lines 467 or 471 for quick hops between the different beaches.",
+                "es": "Usa las líneas 467 o 471 para desplazamientos rápidos entre las diferentes playas."
               }
             },
             {
@@ -2328,7 +2552,8 @@
                 "de": "Vom Busstopp sind es nur wenige Schritte ins trockene Plaza del Duque.",
                 "hu": "A buszmegállótól csak pár lépés a száraz Plaza del Duque pláza.",
                 "ro": "De la stația de autobuz sunt doar câțiva pași până la Plaza del Duque.",
-                "en": "It's only a few steps from the bus stop to the dry Plaza del Duque mall."
+                "en": "It's only a few steps from the bus stop to the dry Plaza del Duque mall.",
+                "es": "Está a solo unos pasos desde la parada de autobús hasta el centro comercial Plaza del Duque, seco y cubierto."
               }
             },
             {
@@ -2337,7 +2562,8 @@
                 "de": "Prüfen Sie den Fahrplan für die Rückfahrt, da Busse abends seltener fahren.",
                 "hu": "Ellenőrizze a visszautat, mert a buszok este ritkábban járnak.",
                 "ro": "Verificați orarul pentru întoarcere, autobuzele sunt mai rare seara.",
-                "en": "Check the return schedule, as buses run less frequently in the evening."
+                "en": "Check the return schedule, as buses run less frequently in the evening.",
+                "es": "Consulta el horario de regreso, ya que los autobuses circulan con menos frecuencia por la noche."
               }
             }
           ],
@@ -2369,6 +2595,13 @@
               "Hold on tight to the rails; braking can be sharp on wet roads.",
               "Keep your raincoat in your bag until you're ready to exit the bus.",
               "The green Titsa buses are very reliable, even in poor weather conditions."
+            ],
+            "es": [
+              "Descarga la app Ten+ para pagos móviles fáciles e información en tiempo real.",
+              "Los autobuses tienen aire acondicionado, lo que ayuda con la humedad en días de lluvia.",
+              "Suíjete bien a las barras; el frenado puede ser brusco en carreteras mojadas.",
+              "Mantén la chubasquero en la mochila hasta que estés listo para bajar del autobús.",
+              "Los autobuses verdes de Titsa son muy fiables, incluso en condiciones meteorológicas adversas."
             ]
           }
         },
@@ -2377,7 +2610,8 @@
             "de": "Nutzen Sie den exzellenten Nahverkehr für einen entspannten Wintertag. Morgens bringt Sie der Bus zum Siam Park für einen aktiven Start. Mittags fahren Sie gemütlich zum Puerto Colón. Nachmittags genießen Sie die kurzen Wege zwischen Fañabé und El Duque, bevor Sie den Abend im malerischen La Caleta ausklingen lassen.",
             "hu": "Használja ki a kiváló tömegközlekedést egy pihentető téli naphoz. Reggel a busz a Siam Parkba visz az aktív kezdéshez. Délben kényelmesen utazhatunk Puerto Colónhoz. Délután élvezzük a rövid utakat Fañabé és El Duque között, majd az estét a festői La Caletában zárjuk.",
             "ro": "Profitați de transportul public excelent pentru o zi de iarnă relaxată. Dimineața, autobuzul vă duce la Siam Park. La prânz, mergeți confortabil la Puerto Colón. După-amiaza bucurați-vă de distanțele scurte între Fañabé și El Duque, înainte de a încheia seara în La Caleta.",
-            "en": "Utilize the excellent public transit for a relaxed winter day. Start your morning at Siam Park for an energetic beginning. Midday, travel comfortably to Puerto Colón. Afternoon enjoy short hops between Fañabé and El Duque, ending your day in the picturesque La Caleta."
+            "en": "Utilize the excellent public transit for a relaxed winter day. Start your morning at Siam Park for an energetic beginning. Midday, travel comfortably to Puerto Colón. Afternoon enjoy short hops between Fañabé and El Duque, ending your day in the picturesque La Caleta.",
+            "es": "Utiliza el excelente transporte público para un día relajado en invierno. Empieza la mañana en Siam Park para un comienzo enérgico. A mediodía, viaja cómodamente hasta Puerto Colón. Por la tarde disfruta de cortos desplazamientos entre Fañabé y El Duque, terminando el día en la pintoresca La Caleta."
           },
           "stops": [
             {
@@ -2386,7 +2620,8 @@
                 "de": "Nutzen Sie die kostenlosen Shuttle-Busse des Parks von verschiedenen Stopps.",
                 "hu": "Használja a park ingyenes transzferbuszait a kijelölt megállókból.",
                 "ro": "Folosiți autobuzele gratuite de transfer ale parcului din diverse stații.",
-                "en": "Take advantage of the park's free shuttle buses from various designated stops."
+                "en": "Take advantage of the park's free shuttle buses from various designated stops.",
+                "es": "Aprovecha los autobuses lanzadera gratuitos del parque desde varios puntos designados."
               }
             },
             {
@@ -2395,7 +2630,8 @@
                 "de": "Die Linie 473 verbindet den Hafen schnell mit anderen Küstenorten.",
                 "hu": "A 473-as járat gyorsan összeköti a kikötőt más parti településekkel.",
                 "ro": "Linia 473 conectează rapid portul cu alte stațiuni de pe coastă.",
-                "en": "Line 473 connects the marina quickly with other coastal resorts."
+                "en": "Line 473 connects the marina quickly with other coastal resorts.",
+                "es": "La línea 473 conecta la marina rápidamente con otros complejos costeros."
               }
             },
             {
@@ -2404,7 +2640,8 @@
                 "de": "Im Winter sind die Busse oft weniger überfüllt als im Sommer.",
                 "hu": "Télen a buszok gyakran kevésbé zsúfoltak, mint nyáron.",
                 "ro": "Iarna, autobuzele sunt adesea mai puțin aglomerate decât vara.",
-                "en": "In winter, the buses are often less crowded than during the summer peak."
+                "en": "In winter, the buses are often less crowded than during the summer peak.",
+                "es": "En invierno, los autobuses suelen estar menos llenos que en la temporada alta de verano."
               }
             },
             {
@@ -2413,7 +2650,8 @@
                 "de": "Genießen Sie die Aussicht aus dem Busfenster auf der Fahrt entlang der Küste.",
                 "hu": "Élvezze a kilátást a busz ablakából a parti út mentén.",
                 "ro": "Bucurați-vă de priveliște de la fereastra autobuzului de-a lungul coastei.",
-                "en": "Enjoy the views from the bus window while traveling along the coast."
+                "en": "Enjoy the views from the bus window while traveling along the coast.",
+                "es": "Disfruta de las vistas por la ventana del autobús mientras viajas por la costa."
               }
             },
             {
@@ -2422,7 +2660,8 @@
                 "de": "Die letzte Haltestelle der Linie 467 bringt Sie direkt ins Zentrum.",
                 "hu": "A 467-es járat utolsó megállója közvetlenül a központba visz.",
                 "ro": "Ultima stație a liniei 467 vă lasă direct în centrul satului.",
-                "en": "The final stop of line 467 brings you directly into the village center."
+                "en": "The final stop of line 467 brings you directly into the village center.",
+                "es": "La última parada de la línea 467 te deja directamente en el centro del pueblo."
               }
             }
           ],
@@ -2454,6 +2693,13 @@
               "In winter, the air inside the bus is much fresher than in the summer heat.",
               "Enter through the front door and remember to greet the driver.",
               "Lines 471 and 473 are the main arteries for tourists in Costa Adeje."
+            ],
+            "es": [
+              "Las tarjetas Ten+ se pueden recargar en muchos quioscos y estaciones locales.",
+              "Los autobuses son puntuales; usa la integración con Google Maps para horarios en vivo.",
+              "En invierno, el aire dentro del autobús es mucho más fresco que en el calor del verano.",
+              "Entra por la puerta delantera y recuerda saludar al conductor.",
+              "Las líneas 471 y 473 son las arterias principales para turistas en Costa Adeje."
             ]
           }
         }
@@ -2469,19 +2715,22 @@
       "de": "Costa Adeje ist die luxuriösere Tenerife-Süd-Zone, Englisch, Deutsch und Russisch häufig. Spanisch im Hotel-Service. Sehr internationale Klientel, alle Sprachen werden in Top-Hotels bedient.",
       "hu": "Costa Adeje a luxusosabb Dél-Tenerife zóna, angol, német és orosz gyakori. Spanyol a szállodai szolgáltatásban. Nagyon nemzetközi vendégkör, a felső szállodák mindent kezelnek.",
       "ro": "Costa Adeje e zona luxoasă din sudul Tenerife, engleza, germana, rusa frecvente. Spaniola la serviciul hotelier. Clientelă foarte internațională, hotelurile mari acoperă toate limbile.",
-      "en": "Costa Adeje is the more upmarket south Tenerife strip, English, German and Russian are common. Spanish in hotel service. Very international clientele, top hotels cover every language."
+      "en": "Costa Adeje is the more upmarket south Tenerife strip, English, German and Russian are common. Spanish in hotel service. Very international clientele, top hotels cover every language.",
+      "es": "Costa Adeje es la franja más exclusiva del sur de Tenerife; inglés, alemán y ruso son habituales. En hoteles se usa español. Clientela muy internacional; los mejores hoteles cubren todos los idiomas."
     },
     "best_time_to_visit": {
       "de": "Ganzjährig 20-28°C. Hochsaison November-März (Europäer), Juli-August Spanier. Beste Preis-Leistung: Mai-Juni und Oktober. Siam Park und Strände immer voll, früh anstellen.",
       "hu": "Egész évben 20-28°C. Főszezon november-március (európaiak), július-augusztus spanyolok. Legjobb ár-érték: május-június és október. Siam Park és strandok mindig tele, korán érkezz.",
       "ro": "Tot anul 20-28°C. Sezon principal noiembrie-martie (europeni), iulie-august spanioli. Cel mai bun raport calitate-preț: mai-iunie și octombrie. Siam Park și plajele mereu pline, vino devreme.",
-      "en": "Year-round 20-28°C. Peak season November-March (Europeans), July-August Spanish. Best value: May-June and October. Siam Park and beaches always busy, arrive early."
+      "en": "Year-round 20-28°C. Peak season November-March (Europeans), July-August Spanish. Best value: May-June and October. Siam Park and beaches always busy, arrive early.",
+      "es": "Todo el año 20-28°C. Temporada alta noviembre-marzo (europeos), julio-agosto (españoles). Mejor relación calidad-precio: mayo-junio y octubre. Siam Park y playas siempre concurridos; llega temprano."
     },
     "neighborhood_warnings": {
       "de": "Sehr sicher, gut bewachte Hotel-Zone. Timeshare-Drücker an Plaza del Duque und Fañabé, höflich ablehnen. Vorsicht beim Wandern im Inland (Barranco del Infierno) wegen Hitze und Steinschlag.",
       "hu": "Nagyon biztonságos, jól őrzött szálloda-zóna. Plaza del Duque-n és Fañabé-n timeshare-tolakodók, udvariasan utasítsd vissza. Belföldi túrázásnál (Barranco del Infierno) hőség és kőomlás veszély.",
       "ro": "Foarte sigur, zonă hotelieră bine păzită. Vânzători de timeshare la Plaza del Duque și Fañabé, refuză politicos. Atenție la drumeții în interior (Barranco del Infierno) pentru căldură și pietre.",
-      "en": "Very safe, well-policed hotel zone. Timeshare touts at Plaza del Duque and Fañabé - just decline politely. Inland hikes (Barranco del Infierno) need care for heat and falling rocks."
+      "en": "Very safe, well-policed hotel zone. Timeshare touts at Plaza del Duque and Fañabé - just decline politely. Inland hikes (Barranco del Infierno) need care for heat and falling rocks.",
+      "es": "Muy seguro, zona hotelera bien vigilada. Vendedores de tiempo compartido en Plaza del Duque y Fañabé: rechaza cortésmente. Las rutas interiores (Barranco del Infierno) requieren precaución por calor y desprendimientos."
     }
   }
 }

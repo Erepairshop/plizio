@@ -21,7 +21,8 @@
             "de": "Plaza de España",
             "hu": "Plaza de España",
             "ro": "Plaza de España",
-            "en": "Plaza de España"
+            "en": "Plaza de España",
+            "es": "Plaza de España"
           },
           "coords": [
             0.3242,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie Ihren Tag mit einem Kaffee in einem der Cafés am Platz.",
             "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában!",
             "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
-            "en": "Start your day with a coffee at one of the square's cafes."
+            "en": "Start your day with a coffee at one of the square's cafes.",
+            "es": "Comienza el día con un café en una de las terrazas de la plaza."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Casa Consistorial",
             "hu": "Városháza",
             "ro": "Primăria (Casa Consistorial)",
-            "en": "Town Hall (Casa Consistorial)"
+            "en": "Town Hall (Casa Consistorial)",
+            "es": "Casa Consistorial"
           },
           "coords": [
             0.3238,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die aragonesische Renaissance-Architektur der Fassade.",
             "hu": "Csodálja meg a homlokzat aragóniai reneszánsz építészetét!",
             "ro": "Admirați arhitectura renascentistă aragoneză a fațadei.",
-            "en": "Admire the Aragonese Renaissance architecture of the facade."
+            "en": "Admire the Aragonese Renaissance architecture of the facade.",
+            "es": "Admira la fachada de arquitectura renacentista aragonesa."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kirche San Pedro Apóstol",
             "hu": "Szent Péter apostol templom",
             "ro": "Biserica San Pedro Apóstol",
-            "en": "Church of San Pedro Apóstol"
+            "en": "Church of San Pedro Apóstol",
+            "es": "Iglesia de San Pedro Apóstol"
           },
           "coords": [
             0.325,
@@ -82,7 +87,8 @@
             "de": "Beachten Sie den gotischen Stil und den beeindruckenden Glockenturm.",
             "hu": "Figyelje meg a gótikus stílust és a lenyűgöző harangtornyot.",
             "ro": "Observați stilul gotic și impresionantul turn clopotniță.",
-            "en": "Note the Gothic style and the impressive bell tower."
+            "en": "Note the Gothic style and the impressive bell tower.",
+            "es": "Fíjate en el estilo gótico y en la imponente torre del campanario."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kultur- und Jugendzentrum",
             "hu": "Kulturális és Ifjúsági Központ",
             "ro": "Centrul Cultural și de Tineret",
-            "en": "Cultural and Youth Center"
+            "en": "Cultural and Youth Center",
+            "es": "Centro Cultural y Juvenil"
           },
           "coords": [
             0.327,
@@ -105,7 +112,8 @@
             "de": "Prüfen Sie den Veranstaltungsplan für mögliche Ausstellungen oder Shows.",
             "hu": "Nézze meg a programfüzetet esetleges kiállításokért vagy előadásokért.",
             "ro": "Verificați programul pentru posibile expoziții sau spectacole.",
-            "en": "Check the schedule for any potential exhibitions or shows."
+            "en": "Check the schedule for any potential exhibitions or shows.",
+            "es": "Consulta la programación por si hay exposiciones o espectáculos."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Parque de la Sierra",
             "hu": "Sierra Park",
             "ro": "Parcul de la Sierra",
-            "en": "Parque de la Sierra"
+            "en": "Parque de la Sierra",
+            "es": "Parque de la Sierra"
           },
           "coords": [
             0.33,
@@ -128,7 +137,8 @@
             "de": "Ein idealer Ort für ein Picknick oder eine entspannte Pause im Schatten.",
             "hu": "Ideális hely egy piknikhez vagy egy pihentető szünethez az árnyékban.",
             "ro": "Un loc ideal pentru un picnic sau o pauză relaxantă la umbră.",
-            "en": "An ideal spot for a picnic or a relaxing break in the shade."
+            "en": "An ideal spot for a picnic or a relaxing break in the shade.",
+            "es": "Un lugar ideal para un picnic o una pausa relajante a la sombra."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Fuente del Pino",
             "hu": "Fenyő-kút",
             "ro": "Fântâna Pinului",
-            "en": "Pine Fountain (Fuente del Pino)"
+            "en": "Pine Fountain (Fuente del Pino)",
+            "es": "Fuente del Pino"
           },
           "coords": [
             0.3285,
@@ -151,7 +162,8 @@
             "de": "Ein schönes, kleines Denkmal, das sich gut für ein schnelles Foto eignet.",
             "hu": "Egy szép kis emlékmű, amely tökéletes egy gyors fotóhoz.",
             "ro": "Un monument mic și drăguț, perfect pentru o fotografie rapidă.",
-            "en": "A nice little monument, great for a quick photo."
+            "en": "A nice little monument, great for a quick photo.",
+            "es": "Un monumento pequeño y agradable, perfecto para una foto rápida."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Ihr Tag beginnt auf der belebten Plaza de España und führt Sie durch das historische Herz von Binéfar. Am Vormittag erkunden Sie die architektonischen Schätze der Stadt, wie die Kirche San Pedro. Nach dem Mittagessen tauchen Sie in die lokale Kultur ein, bevor Sie den Nachmittag im ruhigen Parque de la Sierra ausklingen lassen, einem perfekten Ort zum Entspannen.",
         "hu": "A nap a nyüzsgő Plaza de Españán kezdődik, és Binéfar történelmi szívén vezet keresztül. Délelőtt a város építészeti kincseit, például a San Pedro-templomot fedezi fel. Ebéd után elmerül a helyi kultúrában, majd a délutánt a csendes Parque de la Sierrában zárja, amely tökéletes hely a pihenésre.",
         "ro": "Ziua dvs. începe în animata Plaza de España, purtându-vă prin inima istorică a orașului Binéfar. Dimineața explorați comorile arhitecturale ale orașului, precum Biserica San Pedro. După prânz, vă scufundați în cultura locală, înainte de a încheia după-amiaza în liniștitul Parque de la Sierra, un loc perfect pentru relaxare.",
-        "en": "Your day begins in the bustling Plaza de España, taking you through the historical heart of Binéfar. In the morning, you'll explore the town's architectural treasures, like the Church of San Pedro. After lunch, you'll dive into local culture before ending the afternoon in the tranquil Parque de la Sierra, a perfect spot to unwind."
+        "en": "Your day begins in the bustling Plaza de España, taking you through the historical heart of Binéfar. In the morning, you'll explore the town's architectural treasures, like the Church of San Pedro. After lunch, you'll dive into local culture before ending the afternoon in the tranquil Parque de la Sierra, a perfect spot to unwind.",
+        "es": "Tu día comienza en la animada Plaza de España, recorriendo el corazón histórico de Binéfar. Por la mañana explorarás los tesoros arquitectónicos del pueblo, como la Iglesia de San Pedro. Tras el almuerzo, te sumergirás en la cultura local antes de terminar la tarde en el tranquilo Parque de la Sierra, un lugar perfecto para desconectar."
       },
       "gastro_picks": {
         "de": [
@@ -299,6 +312,11 @@
           "Wear comfortable shoes as you'll be walking for most of the day.",
           "Many shops close for siesta in the early afternoon.",
           "Bring a reusable water bottle, especially on warm days."
+        ],
+        "es": [
+          "Lleva calzado cómodo, ya que caminarás gran parte del día.",
+          "Muchas tiendas cierran por la siesta a primeras horas de la tarde.",
+          "Lleva una botella de agua reutilizable, sobre todo en los días cálidos."
         ]
       },
       "variants": {
@@ -307,7 +325,8 @@
             "de": "Morgens bieten die Arkaden der Plaza de España perfekten Schutz vor dem Regen. Mittags bewundern wir das trockene Innere der Kirche San Pedro Apóstol. Am Nachmittag nutzen wir das Kulturzentrum für Indoor-Aktivitäten. Abends genießen wir die Atmosphäre in einer gemütlichen Bar in der Nähe des Rathauses, während es draußen regnet.\n\nDer Spaziergang bleibt trotz des Wetters angenehm, da viele Wege im Zentrum überdacht sind. Die kurzen Distanzen zwischen den historischen Gebäuden minimieren die Zeit im Freien. Der Parque de la Sierra wirkt im Regen besonders mystisch und ruhig.",
             "hu": "Reggel a Plaza de España árkádjai alatt kezdünk, amelyek kiváló menedéket nyújtanak az eső elől. Délben a San Pedro Apóstol templom belső terét fedezzük fel, távol a víztől. Délután a Kulturális Központ fedett programjai kínálnak kikapcsolódást. Este egy barátságos helyi bárban melegszünk fel, nézve az eső áztatta utcákat.\n\nA városközpont kompakt mérete miatt esernyővel is kényelmesen bejárható az útvonal. Az épületek közötti rövid távolságok segítenek szárazon maradni. A Parque de la Sierra ilyenkor csendes, friss illatú és különleges hangulatot áraszt.",
             "ro": "Dimineața, arcadele din Plaza de España oferă un adăpost perfect împotriva ploii. La prânz, explorăm interiorul uscat al bisericii San Pedro Apóstol. După-amiaza este dedicată activităților de interior la Centrul Cultural. Seara se încheie într-un bar primitor de lângă primărie, ascultând ropotul ploii.\n\nTraseul rămâne accesibil datorită zonelor acoperite din centrul istoric. Distanțele scurte între obiective facilitează deplasarea chiar și cu umbrela. Parque de la Sierra are un farmec aparte pe timp de ploaie, fiind o oază de liniște deplină.",
-            "en": "Morning starts under the protective arcades of Plaza de España, ideal for dodging raindrops. At noon, we visit the dry and solemn interior of San Pedro Apóstol Church. Afternoon is spent enjoying the indoor facilities at the Cultural Center. Evening winds down in a cozy local bar near the town hall while watching the rain fall.\n\nThe walk is manageable as the historic center offers several covered passages. Short distances between stops mean minimal exposure to the elements. Parque de la Sierra takes on a fresh, misty atmosphere that is quite unique during a light rainfall."
+            "en": "Morning starts under the protective arcades of Plaza de España, ideal for dodging raindrops. At noon, we visit the dry and solemn interior of San Pedro Apóstol Church. Afternoon is spent enjoying the indoor facilities at the Cultural Center. Evening winds down in a cozy local bar near the town hall while watching the rain fall.\n\nThe walk is manageable as the historic center offers several covered passages. Short distances between stops mean minimal exposure to the elements. Parque de la Sierra takes on a fresh, misty atmosphere that is quite unique during a light rainfall.",
+            "es": "La mañana empieza bajo los soportales protegidos de la Plaza de España, ideales para esquivar la lluvia. Al mediodía visitamos el interior seco y solemne de la Iglesia de San Pedro Apóstol. La tarde se pasa disfrutando de las instalaciones interiores del Centro Cultural. La noche termina en un bar acogedor junto al ayuntamiento contemplando la lluvia.\n\nEl paseo es manejable porque el centro histórico ofrece varios pasos cubiertos. Las cortas distancias entre paradas suponen una mínima exposición a la intemperie. El Parque de la Sierra adquiere una atmósfera fresca y brumosa que resulta muy especial con una lluvia ligera."
           },
           "stops": [
             {
@@ -316,7 +335,8 @@
                 "de": "Nutzen Sie die Arkaden zum Unterstellen.",
                 "hu": "Használd az árkádokat eső elleni védelemként.",
                 "ro": "Folosiți arcadele pentru a rămâne la uscat.",
-                "en": "Use the arcades to stay dry while exploring."
+                "en": "Use the arcades to stay dry while exploring.",
+                "es": "Usa los soportales para mantenerte seco mientras exploras."
               }
             },
             {
@@ -325,7 +345,8 @@
                 "de": "Bewundern Sie die Fassade von den Arkaden aus.",
                 "hu": "Csodáld meg a homlokzatot az árkádok alól.",
                 "ro": "Admirați fațada de sub protecția arcadelor.",
-                "en": "Admire the facade from the sheltered walkway."
+                "en": "Admire the facade from the sheltered walkway.",
+                "es": "Admira la fachada desde el paseo cubierto."
               }
             },
             {
@@ -334,7 +355,8 @@
                 "de": "Idealer Ort für eine lange, trockene Pause.",
                 "hu": "Tökéletes hely egy hosszabb, száraz pihenőre.",
                 "ro": "Locul ideal pentru o pauză lungă și uscată.",
-                "en": "Perfect place for a long, dry break inside."
+                "en": "Perfect place for a long, dry break inside.",
+                "es": "Lugar perfecto para una larga pausa seca en el interior."
               }
             },
             {
@@ -343,7 +365,8 @@
                 "de": "Prüfen Sie aktuelle Ausstellungen im Innenraum.",
                 "hu": "Nézd meg a benti aktuális kiállításokat.",
                 "ro": "Verificați expozițiile curente la interior.",
-                "en": "Check out current indoor exhibitions."
+                "en": "Check out current indoor exhibitions.",
+                "es": "Consulta las exposiciones interiores actuales."
               }
             },
             {
@@ -352,7 +375,8 @@
                 "de": "Feste Schuhe sind bei nassem Boden nötig.",
                 "hu": "Zárt cipő ajánlott a nedves ösvények miatt.",
                 "ro": "Încălțămintea solidă e necesară pe poteci ude.",
-                "en": "Sturdy shoes are needed for wet paths."
+                "en": "Sturdy shoes are needed for wet paths.",
+                "es": "Se necesitan zapatos resistentes para los caminos húmedos."
               }
             },
             {
@@ -361,7 +385,8 @@
                 "de": "Kurzer Stopp, da der Bereich ungeschützt ist.",
                 "hu": "Gyors megálló, mert a terület nyitott.",
                 "ro": "Oprire scurtă, zona fiind neprotejată.",
-                "en": "Brief stop as the area is unsheltered."
+                "en": "Brief stop as the area is unsheltered.",
+                "es": "Parada breve ya que la zona está sin cobertura."
               }
             }
           ],
@@ -393,6 +418,13 @@
               "Cobblestone streets can be slippery when wet.",
               "Use cafe breaks to wait out heavier showers.",
               "The cultural center often hosts free indoor events."
+            ],
+            "es": [
+              "Lleva una chaqueta impermeable en vez de solo un paraguas.",
+              "Los soportales de la plaza principal son el mejor refugio.",
+              "Las calles empedradas pueden estar resbaladizas cuando están mojadas.",
+              "Aprovecha las pausas en cafés para esperar los chaparrones fuertes.",
+              "El centro cultural suele organizar eventos interiores gratuitos."
             ]
           }
         },
@@ -401,7 +433,8 @@
             "de": "Der Wintermorgen beginnt frisch auf der Plaza de España bei einem heißen Kaffee. Mittags wärmt uns die Sonne an der Südseite der Kirche San Pedro Apóstol. Am Nachmittag bietet das Kulturzentrum einen gemütlichen Rückzugsort. Der Tag endet früh mit dem Sonnenuntergang am Parque de la Sierra, bevor wir uns in ein Restaurant zurückziehen.\n\nDie klare Winterluft in Binéfar sorgt für weite Sichtverhältnisse. Trotz kühler Temperaturen laden die sonnigen Plätze zum Verweilen ein. Die historischen Gebäude wirken im harten Winterlicht besonders scharf konturiert.",
             "hu": "A téli reggel frissen indul a Plaza de España egyik kávézójában egy forró itallal. Délben a nap sugarait élvezzük a San Pedro Apóstol templom védett oldalán. Délután a Kulturális Központ kínál meleg menedéket. A nap korán zárul a Parque de la Sierra naplementéjével, mielőtt egy helyi étterembe vonulnánk.\n\nA tiszta téli levegő Binéfarban kiváló látási viszonyokat biztosít. A hűvös idő ellenére a napos terek hívogatóak egy rövid pihenőre. A történelmi épületek textúrája ilyenkor érvényesül a legjobban.",
             "ro": "Dimineața de iarnă începe cu un cafea fierbinte în Plaza de España. La prânz, profităm de soarele blând pe latura sudică a bisericii San Pedro Apóstol. După-amiaza, Centrul Cultural oferă un refugiu călduros. Ziua se încheie devreme cu apusul din Parque de la Sierra, înainte de a merge la restaurant.\n\nAerul curat de iarnă în Binéfar oferă o vizibilitate excelentă. În ciuda temperaturilor scăzute, piețele însorite sunt plăcute pentru scurte opriri. Clădirile istorice arată impresionant în lumina clară de iarnă.",
-            "en": "A crisp winter morning starts with hot coffee at Plaza de España. By noon, we soak up the sun on the south side of San Pedro Apóstol Church. Afternoon brings us to the warmth of the Cultural Center. The day ends early with a beautiful sunset at Parque de la Sierra before heading to a cozy restaurant.\n\nThe clear winter air in Binéfar provides great visibility of the surroundings. Despite the cold, sunny spots in the squares are inviting for a quick break. The historic architecture stands out sharply in the bright winter light."
+            "en": "A crisp winter morning starts with hot coffee at Plaza de España. By noon, we soak up the sun on the south side of San Pedro Apóstol Church. Afternoon brings us to the warmth of the Cultural Center. The day ends early with a beautiful sunset at Parque de la Sierra before heading to a cozy restaurant.\n\nThe clear winter air in Binéfar provides great visibility of the surroundings. Despite the cold, sunny spots in the squares are inviting for a quick break. The historic architecture stands out sharply in the bright winter light.",
+            "es": "Una fresca mañana de invierno comienza con un café caliente en la Plaza de España. Al mediodía disfrutamos del sol en el lado sur de la Iglesia de San Pedro Apóstol. La tarde nos lleva al calor del Centro Cultural. El día termina pronto con un hermoso atardecer en el Parque de la Sierra antes de cenar en un restaurante acogedor.\n\nEl aire claro en invierno en Binéfar ofrece una gran visibilidad del entorno. A pesar del frío, los puntos soleados en las plazas invitan a una pausa. La arquitectura histórica resalta con nitidez bajo la luz invernal."
           },
           "stops": [
             {
@@ -410,7 +443,8 @@
                 "de": "Suchen Sie Cafés mit sonnigen Außenplätzen.",
                 "hu": "Keress napos terasszal rendelkező kávézókat.",
                 "ro": "Căutați cafenele cu locuri însorite afară.",
-                "en": "Look for cafes with sunny outdoor seating."
+                "en": "Look for cafes with sunny outdoor seating.",
+                "es": "Busca cafeterías con terrazas soleadas."
               }
             },
             {
@@ -419,7 +453,8 @@
                 "de": "Kurzer Fotostopp, um nicht auszukühlen.",
                 "hu": "Gyors fotómegálló, hogy ne fázz meg.",
                 "ro": "Oprire rapidă pentru poze, să nu vă răciți.",
-                "en": "Quick photo stop to avoid getting too cold."
+                "en": "Quick photo stop to avoid getting too cold.",
+                "es": "Parada rápida para fotos y evitar el frío."
               }
             },
             {
@@ -428,7 +463,8 @@
                 "de": "Drinnen ist es oft kühler als in der Sonne.",
                 "hu": "Bent gyakran hűvösebb van, mint kint a napon.",
                 "ro": "Interiorul e adesea mai rece decât afară la soare.",
-                "en": "The interior is often colder than sunny spots outside."
+                "en": "The interior is often colder than sunny spots outside.",
+                "es": "El interior suele estar más frío que los puntos soleados exteriores."
               }
             },
             {
@@ -437,7 +473,8 @@
                 "de": "Perfekter Ort, um sich nachmittags aufzuwärmen.",
                 "hu": "Tökéletes hely a délutáni felmelegedéshez.",
                 "ro": "Locul perfect pentru a vă încălzi după-amiaza.",
-                "en": "Perfect place to warm up in the afternoon."
+                "en": "Perfect place to warm up in the afternoon.",
+                "es": "Lugar perfecto para entrar en calor por la tarde."
               }
             },
             {
@@ -446,7 +483,8 @@
                 "de": "Besuch vor 17:30 Uhr wegen des Sonnenuntergangs.",
                 "hu": "Látogasd meg 17:30 előtt a naplemente miatt.",
                 "ro": "Vizitați înainte de 17:30 pentru apus.",
-                "en": "Visit before 17:30 due to early sunset."
+                "en": "Visit before 17:30 due to early sunset.",
+                "es": "Visita antes de las 17:30 por la puesta de sol temprana."
               }
             },
             {
@@ -455,7 +493,8 @@
                 "de": "Im Schatten kann es hier sehr frostig sein.",
                 "hu": "Az árnyékban itt nagyon fagyos lehet az idő.",
                 "ro": "Poate fi foarte frig aici la umbră.",
-                "en": "It can be very frosty here in the shade."
+                "en": "It can be very frosty here in the shade.",
+                "es": "Puede helar mucho aquí en las zonas de sombra."
               }
             }
           ],
@@ -487,6 +526,13 @@
               "Many cafes offer outdoor heaters.",
               "The clear air is ideal for panoramic photos.",
               "Wear thick-soled shoes against the ground cold."
+            ],
+            "es": [
+              "Vístete en capas (sistema de cebolla).",
+              "El atardecer es sobre las 17:30 en invierno.",
+              "Muchas cafeterías ofrecen calefactores de exterior.",
+              "El aire claro es ideal para fotos panorámicas.",
+              "Lleva calzado con suela gruesa contra el frío del suelo."
             ]
           }
         }
@@ -505,7 +551,8 @@
             "de": "Plaza de España",
             "hu": "Plaza de España",
             "ro": "Plaza de España",
-            "en": "Plaza de España"
+            "en": "Plaza de España",
+            "es": "Plaza de España"
           },
           "coords": [
             0.3242,
@@ -520,7 +567,8 @@
             "de": "Perfekter Ausgangspunkt, um sich mit dem Fahrrad vertraut zu machen.",
             "hu": "Tökéletes kiindulópont a kerékpárral való ismerkedéshez.",
             "ro": "Punct de plecare perfect pentru a vă familiariza cu bicicleta.",
-            "en": "Perfect starting point to get acquainted with your bike."
+            "en": "Perfect starting point to get acquainted with your bike.",
+            "es": "Punto perfecto para familiarizarte con tu bicicleta."
           }
         },
         {
@@ -528,7 +576,8 @@
             "de": "Kirche San Pedro Apóstol",
             "hu": "Szent Péter apostol templom",
             "ro": "Biserica San Pedro Apóstol",
-            "en": "Church of San Pedro Apóstol"
+            "en": "Church of San Pedro Apóstol",
+            "es": "Iglesia de San Pedro Apóstol"
           },
           "coords": [
             0.325,
@@ -543,7 +592,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die Kirche betreten.",
             "hu": "Zárja le biztonságosan a kerékpárját, mielőtt belép a templomba.",
             "ro": "Asigurați-vă bicicleta înainte de a intra în biserică.",
-            "en": "Lock your bike securely before entering the church."
+            "en": "Lock your bike securely before entering the church.",
+            "es": "Asegura bien tu bici antes de entrar en la iglesia."
           }
         },
         {
@@ -551,7 +601,8 @@
             "de": "Parque de la Sierra",
             "hu": "Sierra Park",
             "ro": "Parcul de la Sierra",
-            "en": "Parque de la Sierra"
+            "en": "Parque de la Sierra",
+            "es": "Parque de la Sierra"
           },
           "coords": [
             0.33,
@@ -566,7 +617,8 @@
             "de": "Fahren Sie auf den Wegen und genießen Sie eine Pause im Grünen.",
             "hu": "Kerékpározzon az ösvényeken, és élvezzen egy szünetet a zöldben.",
             "ro": "Plimbați-vă cu bicicleta pe alei și bucurați-vă de o pauză în natură.",
-            "en": "Ride along the paths and enjoy a break amidst the greenery."
+            "en": "Ride along the paths and enjoy a break amidst the greenery.",
+            "es": "Pedalea por los senderos y disfruta de una pausa entre el verdor."
           }
         },
         {
@@ -574,7 +626,8 @@
             "de": "Ermita de San Quílez",
             "hu": "Szent Kvilez remetekápolna",
             "ro": "Schitul San Quílez",
-            "en": "Hermitage of San Quílez"
+            "en": "Hermitage of San Quílez",
+            "es": "Ermita de San Quílez"
           },
           "coords": [
             0.301,
@@ -589,7 +642,8 @@
             "de": "Die Fahrt bergauf lohnt sich für die atemberaubende Aussicht.",
             "hu": "Megéri feltekerni a dombra a lélegzetelállító kilátásért.",
             "ro": "Urcușul merită pentru priveliștea uluitoare.",
-            "en": "The uphill ride is worth it for the stunning views."
+            "en": "The uphill ride is worth it for the stunning views.",
+            "es": "La subida merece la pena por las vistas impresionantes."
           }
         },
         {
@@ -597,7 +651,8 @@
             "de": "Alte Eisenbahnstation",
             "hu": "Régi vasútállomás",
             "ro": "Vechea gară",
-            "en": "Old Railway Station"
+            "en": "Old Railway Station",
+            "es": "Antigua estación de tren"
           },
           "coords": [
             0.32,
@@ -612,7 +667,8 @@
             "de": "Ein interessanter Einblick in die industrielle Vergangenheit der Stadt.",
             "hu": "Érdekes betekintés a város ipari múltjába.",
             "ro": "O privire interesantă asupra trecutului industrial al orașului.",
-            "en": "An interesting glimpse into the town's industrial past."
+            "en": "An interesting glimpse into the town's industrial past.",
+            "es": "Una mirada interesante al pasado industrial del pueblo."
           }
         },
         {
@@ -620,7 +676,8 @@
             "de": "Centro Cultural y Juvenil",
             "hu": "Kulturális és Ifjúsági Központ",
             "ro": "Centrul Cultural și de Tineret",
-            "en": "Cultural and Youth Center"
+            "en": "Cultural and Youth Center",
+            "es": "Centro Cultural y Juvenil"
           },
           "coords": [
             0.327,
@@ -634,7 +691,8 @@
             "de": "Parken Sie Ihr Fahrrad und erkunden Sie die aktuellen Ausstellungen.",
             "hu": "Parkolja le a kerékpárt, és fedezze fel az aktuális kiállításokat.",
             "ro": "Parcați bicicleta și explorați expozițiile curente.",
-            "en": "Park your bike and explore the current exhibitions."
+            "en": "Park your bike and explore the current exhibitions.",
+            "es": "Aparca la bici y explora las exposiciones actuales."
           }
         }
       ],
@@ -642,7 +700,8 @@
         "de": "Mit dem Fahrrad erkunden Sie Binéfar flexibel und umweltfreundlich. Der Vormittag führt Sie vom Stadtzentrum zu den ruhigen Grünflächen des Parque de la Sierra. Der Höhepunkt ist die Fahrt zur Ermita de San Quílez, die Sie mit einer fantastischen Aussicht belohnt. Am Nachmittag entdecken Sie das industrielle Erbe der Stadt, bevor Sie Ihren Tag im Kulturzentrum ausklingen lassen.",
         "hu": "Kerékpárral rugalmasan és környezetbarát módon fedezheti fel Binéfart. A délelőtt a városközpontból a Parque de la Sierra csendes zöld területeire vezet. A csúcspont a túra az Ermita de San Quílez-hez, amely fantasztikus kilátással jutalmazza. Délután felfedezi a város ipari örökségét, mielőtt a napot a kulturális központban zárja.",
         "ro": "Cu bicicleta, explorați Binéfar în mod flexibil și ecologic. Dimineața vă duce din centrul orașului spre spațiile verzi liniștite din Parque de la Sierra. Punctul culminant este plimbarea la Ermita de San Quílez, care vă recompensează cu o priveliște fantastică. După-amiaza, descoperiți patrimoniul industrial al orașului înainte de a încheia ziua la centrul cultural.",
-        "en": "By bike, you'll explore Binéfar flexibly and eco-consciously. The morning takes you from the city center to the quiet green spaces of Parque de la Sierra. The highlight is the ride up to the Ermita de San Quílez, rewarding you with fantastic views. In the afternoon, you'll discover the city's industrial heritage before finishing your day at the cultural center."
+        "en": "By bike, you'll explore Binéfar flexibly and eco-consciously. The morning takes you from the city center to the quiet green spaces of Parque de la Sierra. The highlight is the ride up to the Ermita de San Quílez, rewarding you with fantastic views. In the afternoon, you'll discover the city's industrial heritage before finishing your day at the cultural center.",
+        "es": "En bici explorarás Binéfar con flexibilidad y de forma ecológica. Por la mañana irás del centro urbano a los tranquilos espacios verdes del Parque de la Sierra. El punto culminante es la subida a la Ermita de San Quílez, que recompensa con vistas fantásticas. Por la tarde descubrirás el patrimonio industrial antes de terminar el día en el centro cultural."
       },
       "gastro_picks": {
         "de": [
@@ -782,6 +841,11 @@
           "Check your tire pressure before setting off.",
           "A helmet is highly recommended.",
           "Binéfar is relatively flat, but the ride to the Ermita requires some effort."
+        ],
+        "es": [
+          "Revisa la presión de las ruedas antes de salir.",
+          "Se recomienda encarecidamente llevar casco.",
+          "Binéfar es relativamente llano, pero la subida a la ermita requiere esfuerzo."
         ]
       },
       "variants": {
@@ -790,7 +854,8 @@
             "de": "Wir starten vorsichtig an der Plaza de España auf nassen Reifen. Mittags suchen wir Schutz an der Kirche San Pedro Apóstol. Die Fahrt zum San Quílez erfordert am Nachmittag Konzentration auf rutschigen Wegen. Wir beenden die Tour früh am Kulturzentrum, um die Ausrüstung zu trocknen.\n\nRegenfahrten in dieser Region sind erfrischend, erfordern aber gute Bremsen. Der Aufstieg zur Einsiedelei bietet trotz Wolken eine dramatische Aussicht. Die Route führt meist über asphaltierte Straßen, was den Schlamm begrenzt.",
             "hu": "Óvatosan indulunk a Plaza de España vizes aszfaltján. Délben menedéket keresünk a San Pedro Apóstol templomnál. A délutáni tekerés a San Quílez-hegyre koncentrációt igényel a csúszós utak miatt. A túrát korán zárjuk a Kulturális Központnál, hogy megszárítsuk a felszerelést.\n\nAz esős tekerés frissítő, de jó fékekre van szükség. A remetelakhoz vezető emelkedő a felhők ellenére is drámai kilátást nyújt. Az útvonal nagy része aszfaltozott, így a sár nem okoz nagy gondot.",
             "ro": "Pornim cu atenție din Plaza de España pe anvelope ude. La prânz căutăm adăpost la biserica San Pedro Apóstol. Drumul spre San Quílez necesită concentrare după-amiaza pe poteci alunecoase. Încheiem tura devreme la Centrul Cultural pentru a ne usca echipamentul.\n\nCiclismul pe ploaie este revigorant, dar necesită frâne bune. Urcarea spre schit oferă o priveliște dramatică în ciuda norilor. Traseul este în mare parte asfaltat, ceea ce limitează noroiul.",
-            "en": "We start cautiously at Plaza de España on wet tires. By noon, we find shelter at San Pedro Apóstol Church. The afternoon ride to San Quílez requires focus on potentially slippery paths. We end the tour early at the Cultural Center to dry off our gear.\n\nRainy cycling here is refreshing but demands good braking habits. The climb to the hermitage offers dramatic views despite the cloud cover. Most of the route stays on paved roads, which helps avoid excessive mud."
+            "en": "We start cautiously at Plaza de España on wet tires. By noon, we find shelter at San Pedro Apóstol Church. The afternoon ride to San Quílez requires focus on potentially slippery paths. We end the tour early at the Cultural Center to dry off our gear.\n\nRainy cycling here is refreshing but demands good braking habits. The climb to the hermitage offers dramatic views despite the cloud cover. Most of the route stays on paved roads, which helps avoid excessive mud.",
+            "es": "Comenzamos con precaución en la Plaza de España con ruedas mojadas. Al mediodía encontramos refugio en la Iglesia de San Pedro Apóstol. La subida de la tarde a San Quílez exige concentración por los senderos resbaladizos. Terminamos la ruta temprano en el Centro Cultural para secar el equipo.\n\nEl ciclismo bajo lluvia aquí es refrescante pero exige buenos hábitos de frenado. La subida a la ermita ofrece vistas dramáticas a pesar de la nubosidad. La mayor parte de la ruta transcurre por carreteras pavimentadas, lo que ayuda a evitar barro excesivo."
           },
           "stops": [
             {
@@ -799,7 +864,8 @@
                 "de": "Vorsicht auf dem glatten Kopfsteinpflaster.",
                 "hu": "Vigyázz a csúszós macskakövön.",
                 "ro": "Atenție la pavajul de piatră alunecos.",
-                "en": "Be careful on the slippery cobblestones."
+                "en": "Be careful on the slippery cobblestones.",
+                "es": "Ten cuidado con los adoquines resbaladizos."
               }
             },
             {
@@ -808,7 +874,8 @@
                 "de": "Stellen Sie das Rad unter das Vordach.",
                 "hu": "Támaszd a biciklit az előtető alá.",
                 "ro": "Parcați bicicleta sub streașină.",
-                "en": "Park your bike under the overhang."
+                "en": "Park your bike under the overhang.",
+                "es": "Aparca la bici bajo el alero."
               }
             },
             {
@@ -817,7 +884,8 @@
                 "de": "Bremsen Sie frühzeitig auf den Kieswegen.",
                 "hu": "Fékezz időben a kavicsos utakon.",
                 "ro": "Frânați din timp pe aleile cu pietriș.",
-                "en": "Brake early on the gravel paths."
+                "en": "Brake early on the gravel paths.",
+                "es": "Frena con antelación en los tramos de grava."
               }
             },
             {
@@ -826,7 +894,8 @@
                 "de": "Achtung: Die Abfahrt ist bei Regen gefährlich.",
                 "hu": "Figyelem: az ereszkedés esőben veszélyes.",
                 "ro": "Atenție: coborârea este periculoasă pe ploaie.",
-                "en": "Warning: the descent is dangerous in the rain."
+                "en": "Warning: the descent is dangerous in the rain.",
+                "es": "Aviso: la bajada es peligrosa con lluvia."
               }
             },
             {
@@ -835,7 +904,8 @@
                 "de": "Kurzer Stopp unter dem Bahnsteigdach.",
                 "hu": "Rövid megálló a perontető alatt.",
                 "ro": "Oprire scurtă sub copertina peronului.",
-                "en": "Short stop under the platform roof."
+                "en": "Short stop under the platform roof.",
+                "es": "Parada corta bajo la cubierta del andén."
               }
             },
             {
@@ -844,7 +914,8 @@
                 "de": "Sicherer, trockener Ort zum Abschließen.",
                 "hu": "Biztonságos, száraz hely a lelakatoláshoz.",
                 "ro": "Loc sigur și uscat pentru parcare.",
-                "en": "Safe, dry place to lock your bike."
+                "en": "Safe, dry place to lock your bike.",
+                "es": "Lugar seguro y seco para asegurar la bici."
               }
             }
           ],
@@ -876,6 +947,13 @@
               "Wear a high-visibility rain jacket.",
               "Check your brake pads before starting.",
               "A plastic cover for the saddle is very helpful."
+            ],
+            "es": [
+              "Usa guardabarros para evitar salpicaduras de agua.",
+              "Evita giros bruscos sobre marcas viales mojadas.",
+              "Lleva una chaqueta de lluvia de alta visibilidad.",
+              "Revisa las pastillas de freno antes de empezar.",
+              "Una funda de plástico para el sillín es muy útil."
             ]
           }
         },
@@ -884,7 +962,8 @@
             "de": "Ein frostiger Start an der Plaza de España weckt die Lebensgeister. Mittags genießen wir die Wintersonne auf dem Weg zum Parque de la Sierra. Die Auffahrt zum San Quílez wärmt den Körper auf, während die Abfahrt am Nachmittag kalten Wind mit sich bringt. Wir beenden die Tour bei Dämmerung im warmen Kulturzentrum.\n\nDie Wintersonne in Aragon ist intensiv, aber der Wind kann schneidend sein. Die Wege sind trocken und bieten perfekten Grip für schmale Reifen. Die Aussicht von der Einsiedelei ist im Winter oft klarer als im Sommer.",
             "hu": "A fagyos reggeli indulás a Plaza de España-ról gyorsan felébreszt. Délben a téli napsütést élvezzük a Parque de la Sierra felé vezető úton. A San Quílez-emelkedő jól átmelegíti a testet, de a délutáni ereszkedés hideg szelet hoz. A túrát alkonyatkor a fűtött Kulturális Központban zárjuk.\n\nAz aragóniai téli nap erős, de a szél metsző lehet. Az utak szárazak, így kiváló tapadást biztosítanak. A remetelaktól nyíló kilátás télen gyakran tisztább, mint a nyári hőségben.",
             "ro": "Un start geros din Plaza de España vă va trezi imediat. La prânz ne bucurăm de soarele de iarnă în drum spre Parque de la Sierra. Urcarea spre San Quílez încălzește corpul, dar coborârea de după-amiază aduce un vânt rece. Încheiem tura la amurg la Centrul Cultural călduros.\n\nSoarele de iarnă în Aragon este intens, dar vântul poate fi tăios. Drumurile sunt uscate, oferind aderență perfectă. Vederea de la schit este adesea mai clară iarna decât vara.",
-            "en": "A frosty start at Plaza de España wakes you up instantly. At noon, we enjoy the winter sun on the way to Parque de la Sierra. The climb to San Quílez warms the body, but the afternoon descent brings a cold wind. We finish the tour at dusk in the warm Cultural Center.\n\nThe winter sun in Aragon is intense, but the wind can be biting. Roads are dry, offering perfect grip for cycling. The views from the hermitage are often clearer in winter than in the summer haze."
+            "en": "A frosty start at Plaza de España wakes you up instantly. At noon, we enjoy the winter sun on the way to Parque de la Sierra. The climb to San Quílez warms the body, but the afternoon descent brings a cold wind. We finish the tour at dusk in the warm Cultural Center.\n\nThe winter sun in Aragon is intense, but the wind can be biting. Roads are dry, offering perfect grip for cycling. The views from the hermitage are often clearer in winter than in the summer haze.",
+            "es": "Un inicio helado en la Plaza de España te despierta al instante. Al mediodía disfrutamos del sol invernal camino al Parque de la Sierra. La subida a San Quílez calienta el cuerpo, pero el descenso de la tarde trae un viento frío. Terminamos la ruta al anochecer en el cálido Centro Cultural.\n\nEl sol invernal en Aragón es intenso, pero el viento puede ser cortante. Las carreteras están secas y ofrecen buen agarre para pedalear. Las vistas desde la ermita suelen estar más claras en invierno que en la bruma veraniega."
           },
           "stops": [
             {
@@ -893,7 +972,8 @@
                 "de": "Starten Sie erst, wenn der Reif geschmolzen ist.",
                 "hu": "Csak akkor indulj, ha a dér már elolvadt.",
                 "ro": "Porniți doar după ce s-a topit bruma.",
-                "en": "Start only after the frost has melted."
+                "en": "Start only after the frost has melted.",
+                "es": "Comienza solo después de que haya pasado la helada."
               }
             },
             {
@@ -902,7 +982,8 @@
                 "de": "Kurze Pause in der Sonne vor dem Portal.",
                 "hu": "Rövid pihenő a napon a bejárat előtt.",
                 "ro": "Pauză scurtă la soare în fața portalului.",
-                "en": "Short break in the sun in front of the portal."
+                "en": "Short break in the sun in front of the portal.",
+                "es": "Pausa corta al sol frente al pórtico."
               }
             },
             {
@@ -911,7 +992,8 @@
                 "de": "Trinken Sie warmen Tee aus der Thermoskanne.",
                 "hu": "Igyál meleg teát a termoszból.",
                 "ro": "Beți ceai cald dintr-un termos.",
-                "en": "Drink warm tea from a thermos flask."
+                "en": "Drink warm tea from a thermos flask.",
+                "es": "Bebe té caliente de un termo."
               }
             },
             {
@@ -920,7 +1002,8 @@
                 "de": "Ziehen Sie für die Abfahrt eine Windjacke an.",
                 "hu": "Vegyél fel szélkabátot az ereszkedéshez.",
                 "ro": "Puneți o jachetă de vânt pentru coborâre.",
-                "en": "Put on a windbreaker for the descent."
+                "en": "Put on a windbreaker for the descent.",
+                "es": "Ponte un cortavientos para el descenso."
               }
             },
             {
@@ -929,7 +1012,8 @@
                 "de": "Historischer Ort, im Schatten sehr kühl.",
                 "hu": "Történelmi hely, az árnyékban nagyon hűvös.",
                 "ro": "Loc istoric, foarte răcoros la umbră.",
-                "en": "Historic site, very cool in the shade."
+                "en": "Historic site, very cool in the shade.",
+                "es": "Sitio histórico, muy fresco en la sombra."
               }
             },
             {
@@ -938,7 +1022,8 @@
                 "de": "Endstation mit Heizung und Toiletten.",
                 "hu": "Végállomás fűtéssel és mosdóval.",
                 "ro": "Punct final cu încălzire și toalete.",
-                "en": "Final stop with heating and restrooms."
+                "en": "Final stop with heating and restrooms.",
+                "es": "Parada final con calefacción y aseos."
               }
             }
           ],
@@ -970,6 +1055,13 @@
               "Take high-energy snacks with you.",
               "Plan to finish before 17:30.",
               "A neck gaiter protects your face from the wind."
+            ],
+            "es": [
+              "Lleva guantes y calcetines cortaviento.",
+              "Revisa la presión de las ruedas con más frecuencia en el frío.",
+              "Lleva alimentos energéticos contigo.",
+              "Planea terminar antes de las 17:30.",
+              "Una braga para el cuello protege la cara del viento."
             ]
           }
         }
@@ -988,7 +1080,8 @@
             "de": "Cluster A: Historisches Zentrum",
             "hu": "A klaszter: Történelmi központ",
             "ro": "Cluster A: Centrul Istoric",
-            "en": "Cluster A: Historic Center"
+            "en": "Cluster A: Historic Center",
+            "es": "Agrupación A: Casco histórico"
           },
           "coords": [
             0.324,
@@ -1004,7 +1097,8 @@
             "de": "Parken Sie in der Nähe der Plaza de España, um diesen Cluster zu Fuß zu erkunden.",
             "hu": "Parkoljon a Plaza de España közelében, hogy gyalog fedezze fel ezt a klasztert.",
             "ro": "Parcați lângă Plaza de España pentru a explora acest cluster pe jos.",
-            "en": "Park near Plaza de España to explore this cluster on foot."
+            "en": "Park near Plaza de España to explore this cluster on foot.",
+            "es": "Aparca cerca de la Plaza de España para recorrer este conjunto a pie."
           }
         },
         {
@@ -1012,7 +1106,8 @@
             "de": "Plaza de España",
             "hu": "Plaza de España",
             "ro": "Plaza de España",
-            "en": "Plaza de España"
+            "en": "Plaza de España",
+            "es": "Plaza de España"
           },
           "coords": [
             0.3242,
@@ -1028,7 +1123,8 @@
             "de": "Der lebendige Mittelpunkt des gesellschaftlichen Lebens der Stadt.",
             "hu": "A város társadalmi életének nyüzsgő központja.",
             "ro": "Centrul vibrant al vieții sociale a orașului.",
-            "en": "The vibrant hub of the town's social life."
+            "en": "The vibrant hub of the town's social life.",
+            "es": "El animado centro de la vida social del pueblo."
           }
         },
         {
@@ -1036,7 +1132,8 @@
             "de": "Kirche San Pedro Apóstol",
             "hu": "Szent Péter apostol templom",
             "ro": "Biserica San Pedro Apóstol",
-            "en": "Church of San Pedro Apóstol"
+            "en": "Church of San Pedro Apóstol",
+            "es": "Iglesia de San Pedro Apóstol"
           },
           "coords": [
             0.325,
@@ -1052,7 +1149,8 @@
             "de": "Ein kurzer Spaziergang vom Platz entfernt, bewundern Sie die gotische Architektur.",
             "hu": "Egy rövid séta a térről, csodálja meg a gótikus építészetet.",
             "ro": "La o scurtă plimbare de piață, admirați arhitectura gotică.",
-            "en": "A short walk from the square, admire the Gothic architecture."
+            "en": "A short walk from the square, admire the Gothic architecture.",
+            "es": "A un corto paseo desde la plaza, admire la arquitectura gótica."
           }
         },
         {
@@ -1060,7 +1158,8 @@
             "de": "Cluster B: Panorama & Natur",
             "hu": "B klaszter: Panoráma és természet",
             "ro": "Cluster B: Panoramă și Natură",
-            "en": "Cluster B: Panorama & Nature"
+            "en": "Cluster B: Panorama & Nature",
+            "es": "Agrupación B: Panorámica y naturaleza"
           },
           "coords": [
             0.301,
@@ -1076,7 +1175,8 @@
             "de": "Fahren Sie zur Ermita und parken Sie dort für eine spektakuläre Aussicht.",
             "hu": "Vezessen az Ermitához, és parkoljon le a látványos kilátásért.",
             "ro": "Conduceți la Ermita și parcați pentru priveliști spectaculoase.",
-            "en": "Drive up to the Ermita and park for spectacular views."
+            "en": "Drive up to the Ermita and park for spectacular views.",
+            "es": "Suba en coche hasta la ermita y aparque para disfrutar de vistas espectaculares."
           }
         },
         {
@@ -1084,7 +1184,8 @@
             "de": "Ermita de San Quílez",
             "hu": "Szent Kvilez remetekápolna",
             "ro": "Schitul San Quílez",
-            "en": "Hermitage of San Quílez"
+            "en": "Hermitage of San Quílez",
+            "es": "Ermita de San Quílez"
           },
           "coords": [
             0.3012,
@@ -1100,7 +1201,8 @@
             "de": "Genießen Sie die Stille und den Panoramablick über die Region.",
             "hu": "Élvezze a csendet és a panorámás kilátást a régióra.",
             "ro": "Bucurați-vă de liniște și de priveliștea panoramică asupra regiunii.",
-            "en": "Enjoy the silence and the panoramic view over the region."
+            "en": "Enjoy the silence and the panoramic view over the region.",
+            "es": "Disfrute del silencio y de la vista panorámica sobre la región."
           }
         },
         {
@@ -1108,7 +1210,8 @@
             "de": "Cluster C: Kultur & Freizeit",
             "hu": "C klaszter: Kultúra és szabadidő",
             "ro": "Cluster C: Cultură și Recreere",
-            "en": "Cluster C: Culture & Leisure"
+            "en": "Cluster C: Culture & Leisure",
+            "es": "Agrupación C: Cultura y ocio"
           },
           "coords": [
             0.33,
@@ -1124,7 +1227,8 @@
             "de": "Fahren Sie zum Parque de la Sierra und parken Sie für einen entspannten Nachmittag.",
             "hu": "Vezessen a Parque de la Sierrához, és parkoljon le egy pihentető délutánra.",
             "ro": "Conduceți la Parque de la Sierra și parcați pentru o după-amiază relaxantă.",
-            "en": "Drive to Parque de la Sierra and park for a relaxing afternoon."
+            "en": "Drive to Parque de la Sierra and park for a relaxing afternoon.",
+            "es": "Conduzca hasta el Parque de la Sierra y aparque para una tarde relajante."
           }
         },
         {
@@ -1132,7 +1236,8 @@
             "de": "Parque de la Sierra",
             "hu": "Sierra Park",
             "ro": "Parcul de la Sierra",
-            "en": "Parque de la Sierra"
+            "en": "Parque de la Sierra",
+            "es": "Parque de la Sierra"
           },
           "coords": [
             0.3302,
@@ -1148,7 +1253,8 @@
             "de": "Machen Sie einen Spaziergang und genießen Sie ein Mittagessen in einem nahegelegenen Restaurant.",
             "hu": "Sétáljon egyet, majd ebédeljen egy közeli étteremben.",
             "ro": "Faceți o plimbare și bucurați-vă de prânz la un restaurant din apropiere.",
-            "en": "Take a stroll and enjoy lunch at a nearby restaurant."
+            "en": "Take a stroll and enjoy lunch at a nearby restaurant.",
+            "es": "Dé un paseo y disfrute de un almuerzo en un restaurante cercano."
           }
         }
       ],
@@ -1156,7 +1262,8 @@
         "de": "Ihr Tag mit dem Auto ist in drei Cluster unterteilt. Am Morgen erkunden Sie das historische Zentrum zu Fuß, nachdem Sie Ihr Auto geparkt haben. Gegen Mittag fahren Sie zur Ermita de San Quílez, um die atemberaubende Aussicht zu genießen. Den Nachmittag verbringen Sie im und um den Parque de la Sierra, wo Sie entspannen und die Natur genießen, bevor Sie in die Stadt zurückkehren.",
         "hu": "Az autós nap három klaszterre oszlik. Reggel, a parkolás után, gyalog fedezi fel a történelmi központot. Dél körül az Ermita de San Quílezhez hajt, hogy élvezze a lélegzetelállító kilátást. A délutánt a Parque de la Sierra környékén tölti, ahol pihenhet és élvezheti a természetet, mielőtt visszatérne a városba.",
         "ro": "Ziua dvs. cu mașina este împărțită în trei clustere. Dimineața, după ce parcați, explorați centrul istoric pe jos. Spre prânz, conduceți la Ermita de San Quílez pentru a admira priveliștea uluitoare. După-amiaza o petreceți în și în jurul Parque de la Sierra, relaxându-vă și bucurându-vă de natură înainte de a vă întoarce în oraș.",
-        "en": "Your day by car is structured into three clusters. In the morning, after parking, you'll explore the historic center on foot. Around noon, you drive up to the Ermita de San Quílez to take in the breathtaking views. The afternoon is spent in and around Parque de la Sierra, relaxing and enjoying nature before heading back."
+        "en": "Your day by car is structured into three clusters. In the morning, after parking, you'll explore the historic center on foot. Around noon, you drive up to the Ermita de San Quílez to take in the breathtaking views. The afternoon is spent in and around Parque de la Sierra, relaxing and enjoying nature before heading back.",
+        "es": "Su día en coche está estructurado en tres agrupaciones. Por la mañana, tras aparcar, explorará el casco histórico a pie. Al mediodía, subirá en coche a la Ermita de San Quílez para contemplar las impresionantes vistas. La tarde se pasa en y alrededor del Parque de la Sierra, relajándose y disfrutando de la naturaleza antes de regresar."
       },
       "gastro_picks": {
         "de": [
@@ -1296,6 +1403,11 @@
           "Parking can be tricky in the town center; use designated car parks.",
           "Plan your drives between clusters outside of midday traffic.",
           "A GPS is helpful for finding the best routes between locations."
+        ],
+        "es": [
+          "Aparcar puede ser difícil en el centro; use los parkings señalizados.",
+          "Planifique sus desplazamientos entre agrupaciones fuera de la hora punta de mediodía.",
+          "Un GPS es útil para encontrar las mejores rutas entre los lugares."
         ]
       },
       "variants": {
@@ -1304,7 +1416,8 @@
             "de": "Wir beginnen die Tour trocken im historischen Zentrum. Mittags parken wir direkt an der Kirche San Pedro Apóstol. Die Fahrt zum San Quílez am Nachmittag bietet einen Panoramablick aus dem sicheren Fahrzeug. Den Tag beenden wir entspannt am Parque de la Sierra, bevor wir zum Abendessen fahren.\n\nDas Auto ist das ideale Transportmittel für einen regnerischen Tag in Binéfar. Die Parkmöglichkeiten in der Nähe der Hauptattraktionen sind gut. Auch bei schlechtem Wetter erreicht man so mühelos die höher gelegenen Aussichtspunkte.",
             "hu": "A túrát szárazon kezdjük a történelmi központban. Délben közvetlenül a San Pedro Apóstol templomnál parkolunk. A délutáni út a San Quílez-hegyre panorámás kilátást nyújt a biztonságos autóból. A napot a Parque de la Sierra közelében zárjuk, mielőtt vacsorázni indulnánk.\n\nAz autó ideális választás egy esős napra Binéfarban. A főbb látnivalók közelében jók a parkolási lehetőségek. Rossz időben is könnyedén elérhetjük a magasabban fekvő kilátópontokat.",
             "ro": "Începem turul la adăpost în centrul istoric. La prânz parcăm direct lângă biserica San Pedro Apóstol. Drumul spre San Quílez de după-amiază oferă o vedere panoramică din confortul mașinii. Încheiem ziua relaxați lângă Parque de la Sierra înainte de cină.\n\nMașina este mijlocul ideal pentru o zi ploioasă în Binéfar. Facilitățile de parcare sunt bune lângă atracțiile principale. Chiar și pe vreme rea, puteți ajunge fără efort la punctele de belvedere înalte.",
-            "en": "We start the tour dry in the historic center. At noon, we park directly near San Pedro Apóstol Church. The afternoon drive to San Quílez offers panoramic views from the safety of the vehicle. We end the day relaxed near Parque de la Sierra before heading to dinner.\n\nThe car is the ideal mode for a rainy day in Binéfar. Parking facilities are good near the main attractions. Even in bad weather, you can effortlessly reach the higher viewpoints."
+            "en": "We start the tour dry in the historic center. At noon, we park directly near San Pedro Apóstol Church. The afternoon drive to San Quílez offers panoramic views from the safety of the vehicle. We end the day relaxed near Parque de la Sierra before heading to dinner.\n\nThe car is the ideal mode for a rainy day in Binéfar. Parking facilities are good near the main attractions. Even in bad weather, you can effortlessly reach the higher viewpoints.",
+            "es": "Comenzamos el recorrido secos en el casco histórico. Al mediodía aparcamos directamente cerca de la Iglesia de San Pedro Apóstol. La conducción de la tarde hasta San Quílez ofrece vistas panorámicas desde la seguridad del vehículo. Terminamos el día relajados cerca del Parque de la Sierra antes de ir a cenar.\n\nEl coche es el modo ideal para un día lluvioso en Binéfar. Las instalaciones de aparcamiento son buenas cerca de los principales puntos de interés. Incluso con mal tiempo, se puede llegar sin esfuerzo a los miradores más altos."
           },
           "stops": [
             {
@@ -1313,7 +1426,8 @@
                 "de": "Nutzen Sie nahegelegene Parkhäuser.",
                 "hu": "Használd a közeli parkolóházakat.",
                 "ro": "Folosiți parcările acoperite din apropiere.",
-                "en": "Use nearby parking garages to stay dry."
+                "en": "Use nearby parking garages to stay dry.",
+                "es": "Use los parkings cercanos para mantenerse seco."
               }
             },
             {
@@ -1322,7 +1436,8 @@
                 "de": "Kurzer Weg vom Parkplatz zu den Arkaden.",
                 "hu": "Rövid séta a parkolótól az árkádokig.",
                 "ro": "Drum scurt de la parcare la arcade.",
-                "en": "Short walk from the parking lot to the arcades."
+                "en": "Short walk from the parking lot to the arcades.",
+                "es": "Paseo corto desde el aparcamiento hasta los pórticos."
               }
             },
             {
@@ -1331,7 +1446,8 @@
                 "de": "Parkplatzsuche direkt in der Nebenstraße.",
                 "hu": "Parkolóhely keresése közvetlenül a mellékutcában.",
                 "ro": "Căutați parcare direct pe strada laterală.",
-                "en": "Look for parking directly in the side street."
+                "en": "Look for parking directly in the side street.",
+                "es": "Busque aparcamiento directamente en la calle lateral."
               }
             },
             {
@@ -1340,7 +1456,8 @@
                 "de": "Genießen Sie die Aussicht durch das Fenster.",
                 "hu": "Élvezd a kilátást az autó ablakából.",
                 "ro": "Admirați priveliștea prin fereastra mașinii.",
-                "en": "Enjoy the view through the car window."
+                "en": "Enjoy the view through the car window.",
+                "es": "Disfrute de la vista desde la ventanilla del coche."
               }
             },
             {
@@ -1349,7 +1466,8 @@
                 "de": "Vorsicht auf der schmalen, nassen Straße.",
                 "hu": "Vigyázz a keskeny, vizes úton.",
                 "ro": "Atenție pe drumul îngust și ud.",
-                "en": "Be careful on the narrow, wet road up."
+                "en": "Be careful on the narrow, wet road up.",
+                "es": "Tenga cuidado en la carretera estrecha y mojada de subida."
               }
             },
             {
@@ -1358,7 +1476,8 @@
                 "de": "Parken Sie nah am Eingang des Zentrums.",
                 "hu": "Parkolj közel a központ bejáratához.",
                 "ro": "Parcați aproape de intrarea în centru.",
-                "en": "Park close to the center entrance."
+                "en": "Park close to the center entrance.",
+                "es": "Aparque cerca de la entrada al centro."
               }
             },
             {
@@ -1367,7 +1486,8 @@
                 "de": "Bleiben Sie im Auto, wenn es stark regnet.",
                 "hu": "Maradj az autóban, ha szakad az eső.",
                 "ro": "Rămâneți în mașină dacă plouă tare.",
-                "en": "Stay in the car if it rains heavily."
+                "en": "Stay in the car if it rains heavily.",
+                "es": "Permanezca en el coche si llueve intensamente."
               }
             }
           ],
@@ -1399,6 +1519,13 @@
               "Use the parking lots at Plaza de la Paz.",
               "Avoid parking under large pine trees.",
               "Do not leave valuables visible in the car."
+            ],
+            "es": [
+              "Compruebe el estado de los limpiaparabrisas.",
+              "Mantenga una distancia de seguridad en carreteras resbaladizas.",
+              "Utilice los aparcamientos de la Plaza de la Paz.",
+              "Evite aparcar bajo grandes pinos.",
+              "No deje objetos de valor a la vista en el coche."
             ]
           }
         },
@@ -1407,7 +1534,8 @@
             "de": "Ein sonniger Wintermorgen beginnt bequem mit der Fahrt ins Zentrum. Mittags besuchen wir die Kirche San Pedro Apóstol, während die Heizung im Auto für Komfort sorgt. Am Nachmittag führt uns die Route zur Einsiedelei San Quílez für klare Fernsichten. Wir beenden die Tour bei Sonnenuntergang am Parque de la Sierra.\n\nIm Winter sind die Straßen in Binéfar meist trocken und gut befahrbar. Die niedrigen Temperaturen machen das Auto zur angenehmen Basis für Entdeckungstouren. Der Parkplatzmangel im Zentrum ist im Winter oft weniger ausgeprägt als im Hochsommer.",
             "hu": "A napsütéses téli reggel kényelmesen indul a központba vezetéssel. Délben meglátogatjuk a San Pedro Apóstol templomot, miközben az autó fűtése kényelmet biztosít. Délután a San Quílez remetelakhoz hajtunk a tiszta kilátásért. A túrát naplementekor zárjuk a Parque de la Sierra-nál.\n\nTélen az utak Binéfarban általában szárazak és jól járhatóak. Az alacsony hőmérséklet miatt az autó kellemes bázis a felfedezéshez. A központi parkolók télen gyakran könnyebben elérhetőek, mint a nyári csúcsszezonban.",
             "ro": "O dimineață însorită de iarnă începe confortabil cu drumul spre centru. La prânz vizităm biserica San Pedro Apóstol, în timp ce căldura din mașină oferă confort. După-amiaza traseul ne duce la schitul San Quílez pentru vederi clare. Încheiem turul la apus în Parque de la Sierra.\n\nIarna drumurile din Binéfar sunt de obicei uscate și sigure. Temperaturile scăzute fac din mașină o bază plăcută pentru explorare. Lipsa locurilor de parcare în centru este mai puțin resimțită iarna decât vara.",
-            "en": "A sunny winter morning starts comfortably with a drive to the center. At noon, we visit San Pedro Apóstol Church while the car's heater ensures comfort. The afternoon route takes us to San Quílez Hermitage for clear long-distance views. We finish the tour at sunset at Parque de la Sierra.\n\nIn winter, the roads in Binéfar are usually dry and easy to drive. Low temperatures make the car a pleasant base for exploration. Parking shortages in the center are often less of an issue in winter than during the peak summer season."
+            "en": "A sunny winter morning starts comfortably with a drive to the center. At noon, we visit San Pedro Apóstol Church while the car's heater ensures comfort. The afternoon route takes us to San Quílez Hermitage for clear long-distance views. We finish the tour at sunset at Parque de la Sierra.\n\nIn winter, the roads in Binéfar are usually dry and easy to drive. Low temperatures make the car a pleasant base for exploration. Parking shortages in the center are often less of an issue in winter than during the peak summer season.",
+            "es": "Una mañana soleada de invierno comienza cómodamente con un paseo en coche al centro. Al mediodía visitamos la Iglesia de San Pedro Apóstol mientras la calefacción del coche garantiza confort. La ruta de la tarde nos lleva a la Ermita de San Quílez para vistas lejanas despejadas. Terminamos la visita al atardecer en el Parque de la Sierra.\n\nEn invierno, las carreteras en Binéfar suelen estar secas y son fáciles de conducir. Las bajas temperaturas hacen del coche una base agradable para la exploración. La escasez de aparcamiento en el centro suele ser menor en invierno que en la temporada alta de verano."
           },
           "stops": [
             {
@@ -1416,7 +1544,8 @@
                 "de": "Achten Sie morgens auf Reifglätte.",
                 "hu": "Figyelj reggel a zúzmarás, csúszós utakra.",
                 "ro": "Atenție dimineața la polei pe drum.",
-                "en": "Watch out for morning frost on the roads."
+                "en": "Watch out for morning frost on the roads.",
+                "es": "Tenga cuidado con las heladas matinales en las carreteras."
               }
             },
             {
@@ -1425,7 +1554,8 @@
                 "de": "Parken Sie in der Sonne, um das Auto zu wärmen.",
                 "hu": "Parkolj a napon, hogy melegedjen az autó.",
                 "ro": "Parcați la soare pentru a încălzi mașina.",
-                "en": "Park in the sun to keep the car warm."
+                "en": "Park in the sun to keep the car warm.",
+                "es": "Aparque al sol para mantener el coche caliente."
               }
             },
             {
@@ -1434,7 +1564,8 @@
                 "de": "Kurze Gehwege minimieren die Kälteexposition.",
                 "hu": "A rövid sétautak csökkentik a hidegérzetet.",
                 "ro": "Traseele scurte pe jos reduc expunerea la frig.",
-                "en": "Short walking distances minimize cold exposure."
+                "en": "Short walking distances minimize cold exposure.",
+                "es": "Las cortas distancias a pie reducen la exposición al frío."
               }
             },
             {
@@ -1443,7 +1574,8 @@
                 "de": "Idealer Fotostopp bei tiefstehender Sonne.",
                 "hu": "Ideális fotómegálló az alacsony napállásnál.",
                 "ro": "Oprire foto ideală când soarele e jos.",
-                "en": "Ideal photo stop with the low winter sun."
+                "en": "Ideal photo stop with the low winter sun.",
+                "es": "Parada fotográfica ideal con el sol bajo de invierno."
               }
             },
             {
@@ -1452,7 +1584,8 @@
                 "de": "Die Fernsicht auf die Pyrenäen ist oft klar.",
                 "hu": "A távoli kilátás a Pireneusokra gyakran tiszta.",
                 "ro": "Vederea spre Pirinei este adesea foarte clară.",
-                "en": "The view of the Pyrenees is often very clear."
+                "en": "The view of the Pyrenees is often very clear.",
+                "es": "La vista de los Pirineos suele estar muy clara."
               }
             },
             {
@@ -1461,7 +1594,8 @@
                 "de": "Nutzen Sie den Parkplatz direkt vor Ort.",
                 "hu": "Használd a közvetlen helyszíni parkolót.",
                 "ro": "Folosiți parcarea direct de la fața locului.",
-                "en": "Use the parking lot directly on-site."
+                "en": "Use the parking lot directly on-site.",
+                "es": "Use el aparcamiento situado en el lugar."
               }
             },
             {
@@ -1470,7 +1604,8 @@
                 "de": "Besuch vor Einbruch der Dunkelheit planen.",
                 "hu": "Tervezd a látogatást sötétedés előttre.",
                 "ro": "Planificați vizita înainte de lăsarea serii.",
-                "en": "Plan your visit before darkness falls."
+                "en": "Plan your visit before darkness falls.",
+                "es": "Planifique su visita antes de que anochezca."
               }
             }
           ],
@@ -1502,6 +1637,13 @@
               "Avoid sudden maneuvers in cold weather.",
               "The winter sun can be very blinding.",
               "Refuel in time before longer drives."
+            ],
+            "es": [
+              "Compruebe el anticongelante del sistema de refrigeración.",
+              "Lleve un rascador de hielo en el coche.",
+              "Evite maniobras bruscas con tiempo frío.",
+              "El sol de invierno puede deslumbrar mucho.",
+              "Reponga combustible a tiempo antes de trayectos largos."
             ]
           }
         }
@@ -1520,7 +1662,8 @@
             "de": "Cluster A: Plaza & Kirche",
             "hu": "A klaszter: Tér és templom",
             "ro": "Cluster A: Piață și Biserică",
-            "en": "Cluster A: Plaza & Church"
+            "en": "Cluster A: Plaza & Church",
+            "es": "Agrupación A: Plaza e iglesia"
           },
           "coords": [
             0.3242,
@@ -1536,7 +1679,8 @@
             "de": "Starten Sie am Hauptbusbahnhof oder einer Haltestelle nahe der Plaza de España.",
             "hu": "Induljon a fő buszpályaudvarról vagy egy, a Plaza de España közelében lévő megállóból.",
             "ro": "Începeți de la autogara principală sau de la o stație de lângă Plaza de España.",
-            "en": "Start at the main bus station or a stop near Plaza de España."
+            "en": "Start at the main bus station or a stop near Plaza de España.",
+            "es": "Comience en la estación de autobuses principal o en una parada cerca de la Plaza de España."
           }
         },
         {
@@ -1544,7 +1688,8 @@
             "de": "Plaza de España",
             "hu": "Plaza de España",
             "ro": "Plaza de España",
-            "en": "Plaza de España"
+            "en": "Plaza de España",
+            "es": "Plaza de España"
           },
           "coords": [
             0.3243,
@@ -1560,7 +1705,8 @@
             "de": "Genießen Sie die Atmosphäre, bevor Sie zum nächsten Halt spazieren.",
             "hu": "Élvezze a hangulatot, mielőtt a következő megállóhoz sétál.",
             "ro": "Bucurați-vă de atmosferă înainte de a merge la următoarea oprire.",
-            "en": "Soak in the atmosphere before walking to the next stop."
+            "en": "Soak in the atmosphere before walking to the next stop.",
+            "es": "Empápese del ambiente antes de caminar hasta la siguiente parada."
           }
         },
         {
@@ -1568,7 +1714,8 @@
             "de": "Casa Consistorial",
             "hu": "Városháza",
             "ro": "Primăria (Casa Consistorial)",
-            "en": "Town Hall (Casa Consistorial)"
+            "en": "Town Hall (Casa Consistorial)",
+            "es": "Ayuntamiento (Casa Consistorial)"
           },
           "coords": [
             0.3238,
@@ -1584,7 +1731,8 @@
             "de": "Ein kurzer Spaziergang vom Hauptplatz, um die Architektur zu bewundern.",
             "hu": "Egy rövid séta a főtérről az építészet megcsodálásához.",
             "ro": "O scurtă plimbare din piața principală pentru a admira arhitectura.",
-            "en": "A quick stroll from the main square to admire the architecture."
+            "en": "A quick stroll from the main square to admire the architecture.",
+            "es": "Un paseo rápido desde la plaza principal para admirar la arquitectura."
           }
         },
         {
@@ -1592,7 +1740,8 @@
             "de": "Cluster B: Kultur & Park",
             "hu": "B klaszter: Kultúra és park",
             "ro": "Cluster B: Cultură și Parc",
-            "en": "Cluster B: Culture & Park"
+            "en": "Cluster B: Culture & Park",
+            "es": "Agrupación B: Cultura y parque"
           },
           "coords": [
             0.327,
@@ -1608,7 +1757,8 @@
             "de": "Nehmen Sie einen Bus zum Kulturzentrum für den nächsten Teil Ihrer Tour.",
             "hu": "Vegyen egy buszt a Kulturális Központhoz a túra következő részéhez.",
             "ro": "Luați un autobuz spre Centrul Cultural pentru următoarea parte a turului.",
-            "en": "Take a bus to the Cultural Center for the next part of your tour."
+            "en": "Take a bus to the Cultural Center for the next part of your tour.",
+            "es": "Tome un autobús hasta el Centro Cultural para la siguiente parte de su recorrido."
           }
         },
         {
@@ -1616,7 +1766,8 @@
             "de": "Centro Cultural y Juvenil",
             "hu": "Kulturális és Ifjúsági Központ",
             "ro": "Centrul Cultural și de Tineret",
-            "en": "Cultural and Youth Center"
+            "en": "Cultural and Youth Center",
+            "es": "Centro Cultural y de Juventud"
           },
           "coords": [
             0.3272,
@@ -1632,7 +1783,8 @@
             "de": "Schauen Sie sich die lokalen Kunst- oder Geschichtsausstellungen an.",
             "hu": "Nézze meg a helyi művészeti vagy történelmi kiállításokat.",
             "ro": "Vizitați expozițiile de artă sau istorie locală.",
-            "en": "Check out the local art or history exhibits."
+            "en": "Check out the local art or history exhibits.",
+            "es": "Visite las exposiciones locales de arte o historia."
           }
         },
         {
@@ -1640,7 +1792,8 @@
             "de": "Parque de la Sierra",
             "hu": "Sierra Park",
             "ro": "Parcul de la Sierra",
-            "en": "Parque de la Sierra"
+            "en": "Parque de la Sierra",
+            "es": "Parque de la Sierra"
           },
           "coords": [
             0.33,
@@ -1656,7 +1809,8 @@
             "de": "Ein entspannender Spaziergang vom Kulturzentrum, ideal für eine Mittagspause.",
             "hu": "Egy pihentető séta a Kulturális Központtól, ideális egy ebédszünethez.",
             "ro": "O plimbare relaxantă de la Centrul Cultural, ideală pentru o pauză de prânz.",
-            "en": "A relaxing walk from the Cultural Center, perfect for a lunch break."
+            "en": "A relaxing walk from the Cultural Center, perfect for a lunch break.",
+            "es": "Un paseo relajante desde el Centro Cultural, perfecto para hacer una pausa para comer."
           }
         }
       ],
@@ -1664,7 +1818,8 @@
         "de": "Diese Tour nutzt öffentliche Verkehrsmittel, um verschiedene Teile von Binéfar zu verbinden. Am Vormittag erkunden Sie das historische Zentrum zu Fuß. Eine kurze Busfahrt bringt Sie dann zum Kulturviertel, wo Sie den Nachmittag mit Kunst und Entspannung im Park verbringen. Diese Route ist ideal, um die Stadt wie ein Einheimischer zu erleben und größere Distanzen bequem zu überwinden.",
         "hu": "Ez a túra a tömegközlekedést használja Binéfar különböző részeinek összekötésére. Délelőtt gyalogosan fedezi fel a történelmi központot. Egy rövid buszút elviszi a kulturális negyedbe, ahol a délutánt művészettel és a parkban való pihenéssel tölti. Ez az útvonal ideális ahhoz, hogy a várost helyiként élje át, és kényelmesen tegyen meg nagyobb távolságokat.",
         "ro": "Acest tur folosește transportul public pentru a conecta diferite părți ale orașului Binéfar. Dimineața explorați centrul istoric pe jos. O scurtă călătorie cu autobuzul vă duce apoi în cartierul cultural, unde petreceți după-amiaza cu artă și relaxare în parc. Acest traseu este ideal pentru a experimenta orașul ca un localnic și pentru a acoperi distanțe mai mari în mod confortabil.",
-        "en": "This tour uses public transport to connect different parts of Binéfar. In the morning, you'll explore the historic center on foot. A short bus ride then takes you to the cultural district, where you'll spend the afternoon enjoying art and relaxing in the park. This route is ideal for experiencing the city like a local and covering larger distances with ease."
+        "en": "This tour uses public transport to connect different parts of Binéfar. In the morning, you'll explore the historic center on foot. A short bus ride then takes you to the cultural district, where you'll spend the afternoon enjoying art and relaxing in the park. This route is ideal for experiencing the city like a local and covering larger distances with ease.",
+        "es": "Este recorrido usa transporte público para conectar diferentes zonas de Binéfar. Por la mañana explorará el casco histórico a pie. Un corto trayecto en autobús le lleva al distrito cultural, donde pasará la tarde disfrutando del arte y relajándose en el parque. Esta ruta es ideal para experimentar la ciudad como un local y cubrir distancias mayores con facilidad."
       },
       "gastro_picks": {
         "de": [
@@ -1804,6 +1959,11 @@
           "Buy a day pass if you plan on taking multiple bus trips.",
           "Check the bus schedule in advance, especially on weekends.",
           "Have small change ready for tickets."
+        ],
+        "es": [
+          "Compre un bono diario si piensa hacer varios viajes en autobús.",
+          "Consulte el horario de autobuses con antelación, especialmente los fines de semana.",
+          "Tenga cambio pequeño listo para los billetes."
         ]
       },
       "variants": {
@@ -1812,7 +1972,8 @@
             "de": "Wir nutzen die überdachten Haltestellen für den Start an der Plaza de España. Mittags bringt uns der Bus trocken zur Kirche San Pedro Apóstol. Den Nachmittag verbringen wir im geschützten Kulturzentrum. Abends fahren wir entspannt mit dem Nahverkehr zurück ins Hotel.\n\nDer öffentliche Nahverkehr in Binéfar ist eine gute Option, um Regengüsse zu vermeiden. Die Haltestellen befinden sich in strategischer Nähe zu den wichtigsten Sehenswürdigkeiten. So bleibt man mobil, ohne nass zu werden.",
             "hu": "A fedett megállókat használjuk a Plaza de España-ról indulva. Délben a busz szárazon visz minket a San Pedro Apóstol templomhoz. A délutánt a védett Kulturális Központban töltjük. Este kényelmesen, tömegközlekedéssel térünk vissza a szállásunkra.\n\nBinéfar tömegközlekedése jó opció a záporok elkerülésére. A megállók stratégiai helyen, a fő látnivalók közelében találhatók. Így mobilisak maradhatunk anélkül, hogy bőrig áznánk.",
             "ro": "Folosim stațiile acoperite pentru plecarea din Plaza de España. La prânz, autobuzul ne duce la adăpost spre biserica San Pedro Apóstol. După-amiaza o petrecem în Centrul Cultural protejat. Seara revenim relaxați cu transportul public la hotel.\n\nTransportul public în Binéfar este o opțiune bună pentru a evita ploile. Stațiile sunt amplasate strategic lângă principalele obiective turistice. Astfel rămâneți mobili fără a vă uda.",
-            "en": "We use covered stops for our start at Plaza de España. At noon, the bus takes us dry to San Pedro Apóstol Church. We spend the afternoon in the sheltered Cultural Center. In the evening, we comfortably return to our accommodation by public transport.\n\nPublic transport in Binéfar is a great option for avoiding showers. Stops are strategically located near major sights. This way you stay mobile without getting soaked."
+            "en": "We use covered stops for our start at Plaza de España. At noon, the bus takes us dry to San Pedro Apóstol Church. We spend the afternoon in the sheltered Cultural Center. In the evening, we comfortably return to our accommodation by public transport.\n\nPublic transport in Binéfar is a great option for avoiding showers. Stops are strategically located near major sights. This way you stay mobile without getting soaked.",
+            "es": "Comenzamos en paradas cubiertas en la Plaza de España. Al mediodía, el autobús nos lleva secos a la Iglesia de San Pedro Apóstol. Pasamos la tarde en el protegido Centro Cultural. Por la noche, regresamos cómodamente al alojamiento en transporte público.\n\nEl transporte público en Binéfar es una gran opción para evitar los chaparrones. Las paradas están estratégicamente ubicadas cerca de los principales sitios. Así se mantiene móvil sin empaparse."
           },
           "stops": [
             {
@@ -1821,7 +1982,8 @@
                 "de": "Warten Sie unter dem Wartehäuschen.",
                 "hu": "Várj a buszváró fedele alatt.",
                 "ro": "Așteptați sub copertina stației.",
-                "en": "Wait under the bus shelter."
+                "en": "Wait under the bus shelter.",
+                "es": "Espere bajo la marquesina del autobús."
               }
             },
             {
@@ -1830,7 +1992,8 @@
                 "de": "Kurze Sprint-Distanz zur Haltestelle.",
                 "hu": "Rövid futótávolság a megállóig.",
                 "ro": "Distanță scurtă de alergat până la stație.",
-                "en": "Short sprinting distance to the stop."
+                "en": "Short sprinting distance to the stop.",
+                "es": "Corta distancia corriendo hasta la parada."
               }
             },
             {
@@ -1839,7 +2002,8 @@
                 "de": "Nutzen Sie den Eingangsbereich als Schutz.",
                 "hu": "Használd a bejáratot eső elleni védelemre.",
                 "ro": "Folosiți zona de intrare pentru protecție.",
-                "en": "Use the entrance area for shelter."
+                "en": "Use the entrance area for shelter.",
+                "es": "Use la zona de entrada como refugio."
               }
             },
             {
@@ -1848,7 +2012,8 @@
                 "de": "Die Haltestelle ist fast direkt vor dem Park.",
                 "hu": "A megálló szinte közvetlenül a park előtt van.",
                 "ro": "Stația este aproape direct în fața parcului.",
-                "en": "The stop is almost directly in front of the park."
+                "en": "The stop is almost directly in front of the park.",
+                "es": "La parada está casi directamente frente al parque."
               }
             },
             {
@@ -1857,7 +2022,8 @@
                 "de": "Perfekter Ort für regnerische Nachmittage.",
                 "hu": "Tökéletes hely az esős délutánokra.",
                 "ro": "Loc perfect pentru după-amiezi ploioase.",
-                "en": "Perfect place for rainy afternoons."
+                "en": "Perfect place for rainy afternoons.",
+                "es": "Lugar perfecto para tardes lluviosas."
               }
             },
             {
@@ -1866,7 +2032,8 @@
                 "de": "Halten Sie den Schirm beim Aussteigen bereit.",
                 "hu": "Legyen kéznél az esernyő kiszálláskor.",
                 "ro": "Aveți umbrela pregătită la coborâre.",
-                "en": "Have your umbrella ready when getting off."
+                "en": "Have your umbrella ready when getting off.",
+                "es": "Tenga el paraguas listo al bajar."
               }
             }
           ],
@@ -1898,6 +2065,13 @@
               "A small folding umbrella is essential.",
               "Buses are often more crowded in the rain.",
               "Ask the driver for the next stop if unsure."
+            ],
+            "es": [
+              "Consulte el horario mediante la app durante la lluvia.",
+              "Evite esperar junto a charcos grandes.",
+              "Un paraguas plegable pequeño es imprescindible.",
+              "Los autobuses suelen estar más llenos cuando llueve.",
+              "Pregunte al conductor por la próxima parada si tiene dudas."
             ]
           }
         },
@@ -1906,7 +2080,8 @@
             "de": "Ein klarer Wintermorgen beginnt mit einer Busfahrt zur Plaza de España. Mittags erkunden wir die Kirche San Pedro Apóstol, bevor wir uns im geheizten Bus aufwärmen. Den Nachmittag verbringen wir im Kulturzentrum. Wir beenden die Tour früh, um den letzten Bus vor der Kälte zu nehmen.\n\nDer Nahverkehr bietet im Winter eine warme Alternative zum Laufen. Die Taktzeiten sind zuverlässig, auch bei niedrigen Temperaturen. Die Busse sind gut beheizt und bieten einen angenehmen Kontrast zur frischen Winterluft draußen.",
             "hu": "A tiszta téli reggel buszozással indul a Plaza de España-ra. Délben megnézzük a San Pedro Apóstol templomot, majd a fűtött buszon melegszünk fel. A délutánt a Kulturális Központban töltjük. A túrát korán zárjuk, hogy elérjük az utolsó buszt a hideg beállta előtt.\n\nA tömegközlekedés télen meleg alternatívát kínál a gyalogláshoz. A menetrend megbízható alacsony hőmérséklet mellett is. A buszok jól fűtöttek, kellemes kontrasztot nyújtva a kinti friss téli levegőhöz.",
             "ro": "O dimineață clară de iarnă începe cu o călătorie cu autobuzul spre Plaza de España. La prânz vizităm biserica San Pedro Apóstol, apoi ne încălzim în autobuzul încălzit. După-amiaza o petrecem la Centrul Cultural. Încheiem turul devreme pentru a prinde ultimul autobuz înainte de frig.\n\nTransportul public oferă o alternativă călduroasă mersului pe jos iarna. Orarele sunt sigure și la temperaturi scăzute. Autobuzele sunt bine încălzite, oferind un contrast plăcut cu aerul rece de afară.",
-            "en": "A clear winter morning starts with a bus ride to Plaza de España. At noon, we explore San Pedro Apóstol Church before warming up on the heated bus. We spend the afternoon at the Cultural Center. The tour ends early to catch the last bus before the cold sets in.\n\nPublic transit offers a warm alternative to walking in winter. Timetables are reliable even in low temperatures. Buses are well-heated, providing a pleasant contrast to the fresh winter air outside."
+            "en": "A clear winter morning starts with a bus ride to Plaza de España. At noon, we explore San Pedro Apóstol Church before warming up on the heated bus. We spend the afternoon at the Cultural Center. The tour ends early to catch the last bus before the cold sets in.\n\nPublic transit offers a warm alternative to walking in winter. Timetables are reliable even in low temperatures. Buses are well-heated, providing a pleasant contrast to the fresh winter air outside.",
+            "es": "Una clara mañana de invierno comienza con un viaje en autobús a la Plaza de España. Al mediodía exploramos la Iglesia de San Pedro Apóstol antes de calentarnos en el autobús con calefacción. Pasamos la tarde en el Centro Cultural. El recorrido termina temprano para coger el último autobús antes de que llegue el frío.\n\nEl transporte público ofrece una alternativa cálida a caminar en invierno. Los horarios son fiables incluso con bajas temperaturas. Los autobuses están bien calefactados, proporcionando un agradable contraste con el aire fresco exterior."
           },
           "stops": [
             {
@@ -1915,7 +2090,8 @@
                 "de": "Warten Sie drinnen, falls ein Café nah ist.",
                 "hu": "Várj bent, ha van közeli kávézó.",
                 "ro": "Așteptați înăuntru dacă e o cafenea aproape.",
-                "en": "Wait inside if there's a nearby cafe."
+                "en": "Wait inside if there's a nearby cafe.",
+                "es": "Espere dentro si hay una cafetería cercana."
               }
             },
             {
@@ -1924,7 +2100,8 @@
                 "de": "Nutzen Sie die Zeit für einen heißen Tee.",
                 "hu": "Használd ki az időt egy forró teára.",
                 "ro": "Folosiți timpul pentru un ceai fierbinte.",
-                "en": "Use the waiting time for a hot tea."
+                "en": "Use the waiting time for a hot tea.",
+                "es": "Aproveche la espera para tomar un té caliente."
               }
             },
             {
@@ -1933,7 +2110,8 @@
                 "de": "Haltestelle direkt im historischen Kern.",
                 "hu": "A megálló közvetlenül a történelmi magban van.",
                 "ro": "Stație aflată direct în nucleul istoric.",
-                "en": "The stop is directly in the historic core."
+                "en": "The stop is directly in the historic core.",
+                "es": "La parada está directamente en el núcleo histórico."
               }
             },
             {
@@ -1942,7 +2120,8 @@
                 "de": "Ziehen Sie sich im Bus kurz die Jacke aus.",
                 "hu": "Vedd le a kabátot a buszon egy rövid időre.",
                 "ro": "Scoateți jacheta scurt în autobuz.",
-                "en": "Take off your jacket briefly on the bus."
+                "en": "Take off your jacket briefly on the bus.",
+                "es": "Quítese la chaqueta brevemente en el autobús."
               }
             },
             {
@@ -1951,7 +2130,8 @@
                 "de": "Ideal zum Aufwärmen zwischen den Fahrten.",
                 "hu": "Ideális felmelegedni a járatok között.",
                 "ro": "Ideal pentru încălzire între călătorii.",
-                "en": "Ideal for warming up between rides."
+                "en": "Ideal for warming up between rides.",
+                "es": "Ideal para entrar en calor entre trayectos."
               }
             },
             {
@@ -1960,7 +2140,8 @@
                 "de": "Letzte Rückfahrt vor 18:00 Uhr prüfen.",
                 "hu": "Ellenőrizd az utolsó járatot 18:00 előtt.",
                 "ro": "Verificați ultima cursă înainte de 18:00.",
-                "en": "Check the last return trip before 18:00."
+                "en": "Check the last return trip before 18:00.",
+                "es": "Compruebe el último viaje de regreso antes de las 18:00."
               }
             }
           ],
@@ -1992,6 +2173,13 @@
               "Plan some buffer time for potential delays.",
               "Use the app for real-time information.",
               "Hot drinks make the waiting time feel shorter."
+            ],
+            "es": [
+              "Use guantes mientras espera en las paradas.",
+              "La calefacción en los autobuses suele ser muy fuerte.",
+              "Planifique algo de margen por posibles retrasos.",
+              "Use la app para información en tiempo real.",
+              "Las bebidas calientes hacen que la espera se sienta más corta."
             ]
           }
         }

@@ -21,7 +21,8 @@
             "de": "Kirche San Miguel",
             "hu": "San Miguel-templom",
             "ro": "Biserica San Miguel",
-            "en": "Church of San Miguel"
+            "en": "Church of San Miguel",
+            "es": "Iglesia de San Miguel"
           },
           "coords": [
             0.7955,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie den Christus von Mijaran.",
             "hu": "Csodálja meg a Mijaran-i Krisztust.",
             "ro": "Admirați Cristosul din Mijaran.",
-            "en": "Admire the Christ of Mijaran."
+            "en": "Admire the Christ of Mijaran.",
+            "es": "Admira el Cristo de Mijaran."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Altstadt von Vielha",
             "hu": "Vielha óvárosa",
             "ro": "Centrul vechi din Vielha",
-            "en": "Old Town of Vielha"
+            "en": "Old Town of Vielha",
+            "es": "Casco antiguo de Vielha"
           },
           "coords": [
             0.7962,
@@ -59,7 +62,8 @@
             "de": "Schmale Gassen mit Steinhäusern.",
             "hu": "Szűk utcák kőházakkal.",
             "ro": "Străzi înguste cu case de piatră.",
-            "en": "Narrow streets with stone houses."
+            "en": "Narrow streets with stone houses.",
+            "es": "Calles estrechas con casas de piedra."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Aran-Tal Museum",
             "hu": "Aran-völgyi Múzeum",
             "ro": "Muzeul Văii Aran",
-            "en": "Aran Valley Museum"
+            "en": "Aran Valley Museum",
+            "es": "Museo del Valle de Arán"
           },
           "coords": [
             0.7942,
@@ -82,7 +87,8 @@
             "de": "Lernen Sie die Geschichte der Aranesen.",
             "hu": "Ismerje meg az aráni nép történetét.",
             "ro": "Învățați istoria poporului aranez.",
-            "en": "Learn the history of the Aranese people."
+            "en": "Learn the history of the Aranese people.",
+            "es": "Conoce la historia del pueblo aranés."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Paseo de la Libertad",
             "hu": "Szabadság sétány",
             "ro": "Paseo de la Libertad",
-            "en": "Paseo de la Libertad"
+            "en": "Paseo de la Libertad",
+            "es": "Paseo de la Libertad"
           },
           "coords": [
             0.7945,
@@ -105,7 +112,8 @@
             "de": "Ideal zum Flanieren am Fluss Nere.",
             "hu": "Ideális sétához a Nere-folyó mentén.",
             "ro": "Ideal pentru promenadă de-a lungul râului Nere.",
-            "en": "Ideal for a stroll along the Nere river."
+            "en": "Ideal for a stroll along the Nere river.",
+            "es": "Ideal para pasear junto al río Nere."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Wollfabrik (Fabrica dera Lan)",
             "hu": "Gyapjúgyár",
             "ro": "Fabrica de lână",
-            "en": "Wool Factory"
+            "en": "Wool Factory",
+            "es": "Fábrica de Lana"
           },
           "coords": [
             0.7972,
@@ -128,7 +137,8 @@
             "de": "Alte Maschinen aus dem 19. Jahrhundert.",
             "hu": "Régi gépek a 19. századból.",
             "ro": "Mașinării vechi din secolul al XIX-lea.",
-            "en": "Old machinery from the 19th century."
+            "en": "Old machinery from the 19th century.",
+            "es": "Maquinaria antigua del siglo XIX."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Kulturzentrum Era Audiovisuau",
             "hu": "Era Audiovisuau kulturális központ",
             "ro": "Centrul cultural Era Audiovisuau",
-            "en": "Era Audiovisuau Cultural Centre"
+            "en": "Era Audiovisuau Cultural Centre",
+            "es": "Centro Audiovisual y Cultural Era"
           },
           "coords": [
             0.7935,
@@ -151,7 +162,8 @@
             "de": "Kino und Theater im aranesischen Stil.",
             "hu": "Mozi és színház aráni stílusban.",
             "ro": "Cinema și teatru în stil aranez.",
-            "en": "Cinema and theater in Aranese style."
+            "en": "Cinema and theater in Aranese style.",
+            "es": "Cine y teatro al estilo aranés."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Altstadt-Brunnen",
             "hu": "Óvárosi kút",
             "ro": "Fântâna din centrul vechi",
-            "en": "Old Town Fountain"
+            "en": "Old Town Fountain",
+            "es": "Fuente del casco antiguo"
           },
           "coords": [
             0.796,
@@ -174,7 +187,8 @@
             "de": "Letzter Schluck frisches Bergwasser.",
             "hu": "Egy utolsó korty friss hegyi víz.",
             "ro": "O ultimă gură de apă proaspătă de munte.",
-            "en": "A last sip of fresh mountain water."
+            "en": "A last sip of fresh mountain water.",
+            "es": "Un último sorbo de agua fresca de montaña."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag in der Kirche San Miguel mit ihrem berühmten romanischen Kruzifix. Schlendern Sie danach durch die malerischen Gassen der Altstadt bis zum Aran-Tal Museum. Nach einem Mittagessen mit lokalen Spezialitäten spazieren Sie entlang des Paseo de la Libertad am rauschenden Bergfluss. Am Nachmittag entdecken Sie die industrielle Geschichte in der Wollfabrik und beenden den Tag mit einem kulturellen Einblick im Era Audiovisuau.",
         "hu": "Kezdje a napot a San Miguel-templomban, híres román stílusú feszületével. Ezután sétáljon végig az óváros festői utcáin az Aran-völgyi Múzeumig. A helyi specialitásokból álló ebéd után a Szabadság sétányon, a zúgó hegyi folyó mentén pihenhet. Délután fedezze fel a gyapjúgyár ipari történetét, majd zárja a napot az Era Audiovisuau kulturális központban.",
         "ro": "Începeți ziua la biserica San Miguel, cu faimosul său crucifix romanic. Apoi, plimbați-vă pe străzile pitorești ale centrului vechi până la Muzeul Văii Aran. După un prânz cu specialități locale, plimbați-vă pe Paseo de la Libertad, pe malul râului de munte. După-amiaza, descoperiți istoria industrială la fabrica de lână și încheiați ziua cu o incursiune culturală la Era Audiovisuau.",
-        "en": "Start your day at San Miguel Church with its famous Romanesque crucifix. Then, stroll through the picturesque streets of the old town to the Aran Valley Museum. After a lunch of local specialties, walk along the Paseo de la Libertad by the rushing mountain river. In the afternoon, discover the industrial history at the wool factory and end the day with a cultural insight at Era Audiovisuau."
+        "en": "Start your day at San Miguel Church with its famous Romanesque crucifix. Then, stroll through the picturesque streets of the old town to the Aran Valley Museum. After a lunch of local specialties, walk along the Paseo de la Libertad by the rushing mountain river. In the afternoon, discover the industrial history at the wool factory and end the day with a cultural insight at Era Audiovisuau.",
+        "es": "Comienza el día en la iglesia de San Miguel con su famoso crucifijo románico. Luego, pasea por las pintorescas calles del casco antiguo hasta el Museo del Valle de Arán. Tras un almuerzo con especialidades locales, camina por el Paseo de la Libertad junto al caudaloso río de montaña. Por la tarde, descubre la historia industrial en la fábrica de lana y termina la jornada con una experiencia cultural en Era Audiovisuau."
       },
       "gastro_picks": {
         "de": [
@@ -290,6 +305,12 @@
           "The old town has many small tapas bars.",
           "Visit Vielha during the Monday market.",
           "Parking in the center is scarce in summer."
+        ],
+        "es": [
+          "El tiempo en el valle puede cambiar rápidamente.",
+          "El casco antiguo tiene muchos bares de tapas pequeños.",
+          "Visita Vielha durante el mercadillo del lunes.",
+          "Aparcar en el centro es escaso en verano."
         ]
       },
       "variants": {
@@ -298,7 +319,8 @@
             "de": "Beginnen Sie Ihren Tag in der Kirche San Miguel mit ihrem berühmten romanischen Kruzifix. Schlendern Sie danach durch die malerischen Gassen der Altstadt bis zum Aran-Tal Museum. Nach einem Mittagessen mit lokalen Spezialitäten spazieren Sie entlang des Paseo de la Libertad am rauschenden Bergfluss. Am Nachmittag entdecken Sie die industrielle Geschichte in der Wollfabrik und beenden den Tag mit einem kulturellen Einblick im Era Audiovisuau.",
             "hu": "Kezdje a napot a San Miguel-templomban, híres román stílusú feszületével. Ezután sétáljon végig az óváros festői utcáin az Aran-völgyi Múzeumig. A helyi specialitásokból álló ebéd után a Szabadság sétányon, a zúgó hegyi folyó mentén pihenhet. Délután fedezze fel a gyapjúgyár ipari történetét, majd zárja a napot az Era Audiovisuau kulturális központban.",
             "ro": "Începeți ziua la biserica San Miguel, cu faimosul său crucifix romanic. Apoi, plimbați-vă pe străzile pitorești ale centrului vechi până la Muzeul Văii Aran. După un prânz cu specialități locale, plimbați-vă pe Paseo de la Libertad, pe malul râului de munte. După-amiaza, descoperiți istoria industrială la fabrica de lână și încheiați ziua cu o incursiune culturală la Era Audiovisuau.",
-            "en": "Start your day at San Miguel Church with its famous Romanesque crucifix. Then, stroll through the picturesque streets of the old town to the Aran Valley Museum. After a lunch of local specialties, walk along the Paseo de la Libertad by the rushing mountain river. In the afternoon, discover the industrial history at the wool factory and end the day with a cultural insight at Era Audiovisuau."
+            "en": "Start your day at San Miguel Church with its famous Romanesque crucifix. Then, stroll through the picturesque streets of the old town to the Aran Valley Museum. After a lunch of local specialties, walk along the Paseo de la Libertad by the rushing mountain river. In the afternoon, discover the industrial history at the wool factory and end the day with a cultural insight at Era Audiovisuau.",
+            "es": "Comienza el día en la iglesia de San Miguel con su famoso crucifijo románico. Luego, pasea por las pintorescas calles del casco antiguo hasta el Museo del Valle de Arán. Tras un almuerzo con especialidades locales, camina por el Paseo de la Libertad junto al caudaloso río de montaña. Por la tarde, descubre la historia industrial en la fábrica de lana y termina la jornada con una experiencia cultural en Era Audiovisuau."
           },
           "stops": [
             {
@@ -306,13 +328,15 @@
                 "de": "Kirche San Miguel",
                 "hu": "San Miguel-templom",
                 "ro": "Biserica San Miguel",
-                "en": "Church of San Miguel"
+                "en": "Church of San Miguel",
+                "es": "Iglesia de San Miguel"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie den Christus von Mijaran.",
                 "hu": "Csodálja meg a Mijaran-i Krisztust.",
                 "ro": "Admirați Cristosul din Mijaran.",
-                "en": "Admire the Christ of Mijaran."
+                "en": "Admire the Christ of Mijaran.",
+                "es": "Admira el Cristo de Mijaran."
               }
             },
             {
@@ -320,13 +344,15 @@
                 "de": "Altstadt von Vielha",
                 "hu": "Vielha óvárosa",
                 "ro": "Centrul vechi din Vielha",
-                "en": "Old Town of Vielha"
+                "en": "Old Town of Vielha",
+                "es": "Casco antiguo de Vielha"
               },
               "tip_5lang": {
                 "de": "Schmale Gassen mit Steinhäusern.",
                 "hu": "Szűk utcák kőházakkal.",
                 "ro": "Străzi înguste cu case de piatră.",
-                "en": "Narrow streets with stone houses."
+                "en": "Narrow streets with stone houses.",
+                "es": "Calles estrechas con casas de piedra."
               }
             },
             {
@@ -334,13 +360,15 @@
                 "de": "Aran-Tal Museum",
                 "hu": "Aran-völgyi Múzeum",
                 "ro": "Muzeul Văii Aran",
-                "en": "Aran Valley Museum"
+                "en": "Aran Valley Museum",
+                "es": "Museo del Valle de Arán"
               },
               "tip_5lang": {
                 "de": "Lernen Sie die Geschichte der Aranesen.",
                 "hu": "Ismerje meg az aráni nép történetét.",
                 "ro": "Învățați istoria poporului aranez.",
-                "en": "Learn the history of the Aranese people."
+                "en": "Learn the history of the Aranese people.",
+                "es": "Conoce la historia del pueblo aranés."
               }
             },
             {
@@ -348,13 +376,15 @@
                 "de": "Paseo de la Libertad",
                 "hu": "Szabadság sétány",
                 "ro": "Paseo de la Libertad",
-                "en": "Paseo de la Libertad"
+                "en": "Paseo de la Libertad",
+                "es": "Paseo de la Libertad"
               },
               "tip_5lang": {
                 "de": "Ideal zum Flanieren am Fluss Nere.",
                 "hu": "Ideális sétához a Nere-folyó mentén.",
                 "ro": "Ideal pentru promenadă de-a lungul râului Nere.",
-                "en": "Ideal for a stroll along the Nere river."
+                "en": "Ideal for a stroll along the Nere river.",
+                "es": "Ideal para pasear junto al río Nere."
               }
             },
             {
@@ -362,13 +392,15 @@
                 "de": "Wollfabrik (Fabrica dera Lan)",
                 "hu": "Gyapjúgyár",
                 "ro": "Fabrica de lână",
-                "en": "Wool Factory"
+                "en": "Wool Factory",
+                "es": "Fábrica de Lana"
               },
               "tip_5lang": {
                 "de": "Alte Maschinen aus dem 19. Jahrhundert.",
                 "hu": "Régi gépek a 19. századból.",
                 "ro": "Mașinării vechi din secolul al XIX-lea.",
-                "en": "Old machinery from the 19th century."
+                "en": "Old machinery from the 19th century.",
+                "es": "Maquinaria antigua del siglo XIX."
               }
             },
             {
@@ -376,13 +408,15 @@
                 "de": "Kulturzentrum Era Audiovisuau",
                 "hu": "Era Audiovisuau kulturális központ",
                 "ro": "Centrul cultural Era Audiovisuau",
-                "en": "Era Audiovisuau Cultural Centre"
+                "en": "Era Audiovisuau Cultural Centre",
+                "es": "Centro Audiovisual y Cultural Era"
               },
               "tip_5lang": {
                 "de": "Kino und Theater im aranesischen Stil.",
                 "hu": "Mozi és színház aráni stílusban.",
                 "ro": "Cinema și teatru în stil aranez.",
-                "en": "Cinema and theater in Aranese style."
+                "en": "Cinema and theater in Aranese style.",
+                "es": "Cine y teatro al estilo aranés."
               }
             },
             {
@@ -390,13 +424,15 @@
                 "de": "Altstadt-Brunnen",
                 "hu": "Óvárosi kút",
                 "ro": "Fântâna din centrul vechi",
-                "en": "Old Town Fountain"
+                "en": "Old Town Fountain",
+                "es": "Fuente del casco antiguo"
               },
               "tip_5lang": {
                 "de": "Letzter Schluck frisches Bergwasser.",
                 "hu": "Egy utolsó korty friss hegyi víz.",
                 "ro": "O ultimă gură de apă proaspătă de munte.",
-                "en": "A last sip of fresh mountain water."
+                "en": "A last sip of fresh mountain water.",
+                "es": "Un último sorbo de agua fresca de montaña."
               }
             }
           ],
@@ -506,6 +542,12 @@
               "The old town has many small tapas bars.",
               "Visit Vielha during the Monday market.",
               "Parking in the center is scarce in summer."
+            ],
+            "es": [
+              "El tiempo en el valle puede cambiar rápidamente.",
+              "El casco antiguo tiene muchos bares de tapas pequeños.",
+              "Visita Vielha durante el mercadillo del lunes.",
+              "Aparcar en el centro es escaso en verano."
             ]
           }
         },
@@ -514,7 +556,8 @@
             "de": "Vormittags bietet die Kirche San Miguel trockenen Zufluchtsort. Mittags vertiefen Sie sich im Aran-Museum in die Geschichte, während der Regen gegen die Fenster trommelt. Nachmittags besuchen Sie die geschützte Wollfabrik und lassen den Tag gemütlich im Kulturzentrum ausklingen. Die engen Gassen der Altstadt bieten zwischen den Schauern charmante Fotomotive.",
             "hu": "A délelőttöt a San Miguel templom oltalmában kezdjük. Délben az Arani Múzeum kiállításai nyújtanak fedett programot, amíg kint esik. Délután a gyapjúgyár ipari örökségét fedezzük fel szárazon, az estét pedig a kulturális központban zárjuk. Az óváros szűk utcái némi védelmet nyújtanak a szél és az eső elől.",
             "ro": "Dimineața începe sub protecția bisericii San Miguel. La prânz, Muzeul Văii Aran oferă un refugiu cultural perfect împotriva ploii. După-amiaza vizităm Fabrica de Lână, un obiectiv industrial acoperit, iar seara ne relaxăm la centrul cultural. Străzile înguste ale centrului vechi oferă adăpost temporar între reprizele de ploaie.",
-            "en": "Start your morning inside the sturdy walls of San Miguel Church. At noon, the Aran Valley Museum provides a perfect indoor escape from the Pyrenean rain. Spend the afternoon exploring the wool factory's heritage undercover, and end the day with a dry seat at the cultural centre. The old town's stone alleys offer a moody, atmospheric walk even under an umbrella."
+            "en": "Start your morning inside the sturdy walls of San Miguel Church. At noon, the Aran Valley Museum provides a perfect indoor escape from the Pyrenean rain. Spend the afternoon exploring the wool factory's heritage undercover, and end the day with a dry seat at the cultural centre. The old town's stone alleys offer a moody, atmospheric walk even under an umbrella.",
+            "es": "Empieza la mañana dentro de las robustas paredes de la iglesia de San Miguel. Al mediodía, el Museo del Valle de Arán ofrece un perfecto refugio interior de la lluvia pirenaica. Pasa la tarde explorando la herencia de la fábrica de lana a cubierto y termina el día con un asiento seco en el centro cultural. Las callejuelas de piedra del casco antiguo ofrecen un paseo atmosférico incluso bajo paraguas."
           },
           "stops": [
             {
@@ -523,7 +566,8 @@
                 "de": "Bewundern Sie den Christus von Vielha im trockenen Kirchenschiff.",
                 "hu": "Csodálja meg a Vielhai Krisztust a száraz templomhajóban.",
                 "ro": "Admirați Cristosul din Vielha în nava uscată a bisericii.",
-                "en": "Admire the Christ of Vielha while staying dry inside the nave."
+                "en": "Admire the Christ of Vielha while staying dry inside the nave.",
+                "es": "Admira el Cristo de Vielha manteniéndote seco dentro de la nave."
               }
             },
             {
@@ -532,7 +576,8 @@
                 "de": "Nutzen Sie die Dachüberstände der alten Häuser als Regenschutz.",
                 "hu": "Használja a régi házak ereszeit eső elleni védelemként.",
                 "ro": "Folosiți streșinile caselor vechi ca protecție împotriva ploii.",
-                "en": "Use the overhanging eaves of old houses for rain protection."
+                "en": "Use the overhanging eaves of old houses for rain protection.",
+                "es": "Utiliza los aleros sobresalientes de las casas antiguas para protegerte de la lluvia."
               }
             },
             {
@@ -541,7 +586,8 @@
                 "de": "Idealer Ort, um den stärksten Regen im Warmen abzuwarten.",
                 "hu": "Ideális hely a legnagyobb eső melegben való megvárására.",
                 "ro": "Loc ideal pentru a aștepta trecerea ploii la căldură.",
-                "en": "Ideal spot to wait out the heaviest rain in the warmth."
+                "en": "Ideal spot to wait out the heaviest rain in the warmth.",
+                "es": "Lugar ideal para esperar lo más fuerte de la lluvia en el calor."
               }
             },
             {
@@ -550,7 +596,8 @@
                 "de": "Die Bäume bieten leichten Schutz, aber Vorsicht vor Pfützen.",
                 "hu": "A fák némi védelmet nyújtanak, de vigyázzon a tócsákkal.",
                 "ro": "Copacii oferă o protecție ușoară, dar atenție la bălți.",
-                "en": "Trees offer light cover, but watch out for large puddles."
+                "en": "Trees offer light cover, but watch out for large puddles.",
+                "es": "Los árboles ofrecen una cobertura ligera, pero cuidado con los charcos grandes."
               }
             },
             {
@@ -559,7 +606,8 @@
                 "de": "Ein komplett überdachtes Erlebnis der lokalen Industriegeschichte.",
                 "hu": "Teljesen fedett élmény a helyi ipartörténetről.",
                 "ro": "O experiență complet acoperită a istoriei industriale locale.",
-                "en": "A fully indoor experience of local industrial history."
+                "en": "A fully indoor experience of local industrial history.",
+                "es": "Una experiencia totalmente cubierta de la historia industrial local."
               }
             },
             {
@@ -568,7 +616,8 @@
                 "de": "Perfekter Abschluss für einen nassen Tag im trockenen Kinosaal.",
                 "hu": "Tökéletes zárás egy esős napra a száraz moziteremben.",
                 "ro": "Final perfect pentru o zi ploioasă în sala de cinema uscată.",
-                "en": "Perfect end to a wet day in the dry cinema hall."
+                "en": "Perfect end to a wet day in the dry cinema hall.",
+                "es": "Final perfecto para un día húmedo en la sala de cine seca."
               }
             },
             {
@@ -577,7 +626,8 @@
                 "de": "Nur ein kurzer Stopp; Wasser ist heute überall zu finden.",
                 "hu": "Csak egy rövid megálló; ma úgyis mindenhol víz van.",
                 "ro": "Doar o scurtă oprire; apa este oricum peste tot astăzi.",
-                "en": "Just a quick stop; water is everywhere today anyway."
+                "en": "Just a quick stop; water is everywhere today anyway.",
+                "es": "Solo una parada rápida; hoy el agua está por todas partes de todos modos."
               }
             }
           ],
@@ -605,6 +655,12 @@
               "Many old town cafes have covered entrances for a quick break.",
               "The museum might be closed on Mondays, check ahead.",
               "A sturdy umbrella is essential due to unpredictable mountain winds."
+            ],
+            "es": [
+              "Lleva botas de senderismo impermeables para las calles empedradas.",
+              "Muchas cafeterías del casco antiguo tienen entradas cubiertas para una pausa rápida.",
+              "El museo puede estar cerrado los lunes, comprueba con antelación.",
+              "Un paraguas resistente es esencial por los vientos montañosos impredecibles."
             ]
           }
         },
@@ -613,7 +669,8 @@
             "de": "Ein frostiger Morgen beginnt in der geheizten San Miguel Kirche. Die verschneite Altstadt wirkt wie aus einem Märchen, erfordert aber festen Tritt. Mittags wärmen Sie sich im Museum auf, bevor Sie die Wollfabrik besuchen. Da die Sonne früh hinter den Gipfeln verschwindet, bietet das Kulturzentrum am späten Nachmittag wohlige Wärme vor dem Abendessen.",
             "hu": "A fagyos reggel a fűtött San Miguel templomban indul. A havas óváros olyan, mint egy tündérmese, de vigyázzon a jeges kövekre. Délben a múzeumban melegedhet fel, majd a gyapjúgyárat látogatjuk meg. Mivel a nap korán eltűnik a csúcsok mögött, a kulturális központ nyújt menedéket a vacsora előtt.",
             "ro": "O dimineață geroasă începe în biserica încălzită San Miguel. Orașul vechi înzăpezit pare desprins din basme, dar atenție la gheață. La prânz vă încălziți în muzeu, apoi vizitați fabrica de lână. Deoarece soarele apune devreme după creste, centrul cultural oferă căldură înaintea cinei.",
-            "en": "A frosty morning starts in the heated San Miguel Church. The snow-covered old town looks like a fairytale, but watch your step on icy patches. Warm up at noon in the museum before visiting the historic wool factory. As the sun dips early behind the peaks, the cultural centre provides cozy refuge in the late afternoon chill."
+            "en": "A frosty morning starts in the heated San Miguel Church. The snow-covered old town looks like a fairytale, but watch your step on icy patches. Warm up at noon in the museum before visiting the historic wool factory. As the sun dips early behind the peaks, the cultural centre provides cozy refuge in the late afternoon chill.",
+            "es": "Una mañana helada comienza en la cálida iglesia de San Miguel. El casco antiguo cubierto de nieve parece un cuento, pero vigila el paso en placas de hielo. Calienta el cuerpo al mediodía en el museo antes de visitar la histórica fábrica de lana. Al ocultarse el sol temprano tras las cumbres, el centro cultural ofrece refugio acogedor en el frío de la tarde."
           },
           "stops": [
             {
@@ -622,7 +679,8 @@
                 "de": "Genießen Sie die Stille und die relative Wärme im Inneren.",
                 "hu": "Élvezze a csendet és a relatív meleget odabent.",
                 "ro": "Bucurați-vă de liniște și de căldura relativă din interior.",
-                "en": "Enjoy the silence and relative warmth inside."
+                "en": "Enjoy the silence and relative warmth inside.",
+                "es": "Disfruta del silencio y del calor relativo en el interior."
               }
             },
             {
@@ -631,7 +689,8 @@
                 "de": "Vorsicht vor vereisten Stellen auf dem Kopfsteinpflaster.",
                 "hu": "Vigyázzon a jeges foltokra a macskaköves burkolaton.",
                 "ro": "Atenție la porțiunile înghețate de pe pavaj.",
-                "en": "Watch out for icy patches on the cobblestone pavement."
+                "en": "Watch out for icy patches on the cobblestone pavement.",
+                "es": "Cuidado con las placas de hielo en el pavimento empedrado."
               }
             },
             {
@@ -640,7 +699,8 @@
                 "de": "Heizung vorhanden – ideal zum Aufwärmen der Füße.",
                 "hu": "Van fűtés – ideális a lábak átmelegítésére.",
                 "ro": "Există încălzire – ideal pentru a vă încălzi picioarele.",
-                "en": "Heating available – ideal for warming up your feet."
+                "en": "Heating available – ideal for warming up your feet.",
+                "es": "Hay calefacción disponible – ideal para calentar los pies."
               }
             },
             {
@@ -649,7 +709,8 @@
                 "de": "Wunderschön verschneit, aber oft sehr windig und kalt.",
                 "hu": "Gyönyörű havas táj, de gyakran szeles és hideg.",
                 "ro": "Peisaj superb înzăpezit, dar adesea vântos și frig.",
-                "en": "Beautifully snow-covered, but often very windy and cold."
+                "en": "Beautifully snow-covered, but often very windy and cold.",
+                "es": "Hermoso cubierto de nieve, pero a menudo muy ventoso y frío."
               }
             },
             {
@@ -658,7 +719,8 @@
                 "de": "Lernen Sie, wie Wolle früher vor der Kälte schützte.",
                 "hu": "Ismerje meg, hogyan védett régen a gyapjú a hideg ellen.",
                 "ro": "Aflați cum proteja lâna împotriva frigului în trecut.",
-                "en": "Learn how wool protected people from the cold in the past."
+                "en": "Learn how wool protected people from the cold in the past.",
+                "es": "Aprende cómo la lana protegía a la gente del frío en el pasado."
               }
             },
             {
@@ -667,7 +729,8 @@
                 "de": "Nach 17:00 Uhr ist es draußen dunkel und frostig – bleiben Sie hier.",
                 "hu": "17:00 után kint sötét és fagyos van – maradjon bent.",
                 "ro": "După ora 17:00 afară este întuneric și ger – rămâneți aici.",
-                "en": "After 17:00 it's dark and frosty outside – stay here."
+                "en": "After 17:00 it's dark and frosty outside – stay here.",
+                "es": "Después de las 17:00 ya es de noche y hace frío afuera – quédate aquí."
               }
             },
             {
@@ -676,7 +739,8 @@
                 "de": "Oft mit Eiszapfen geschmückt, ein tolles Fotomotiv.",
                 "hu": "Gyakran jégcsapok díszítik, remek fotótéma.",
                 "ro": "Adesea decorată cu țurțuri, un motiv foto excelent.",
-                "en": "Often decorated with icicles, a great photo opportunity."
+                "en": "Often decorated with icicles, a great photo opportunity.",
+                "es": "A menudo decorado con carámbanos, gran oportunidad fotográfica."
               }
             }
           ],
@@ -704,6 +768,12 @@
               "Wear thermal layers and insulated winter boots.",
               "Watch out for snow sliding off roofs in the narrow alleys.",
               "Try a thick local hot chocolate to warm up between stops."
+            ],
+            "es": [
+              "El sol desaparece tras las montañas alrededor de las 17:15.",
+              "Viste capas térmicas y botas de invierno aislantes.",
+              "Cuidado con la nieve que se desliza de los tejados en las callejuelas estrechas.",
+              "Prueba un espeso chocolate caliente local para entrar en calor entre paradas."
             ]
           }
         }
@@ -722,7 +792,8 @@
             "de": "Kirche San Miguel",
             "hu": "San Miguel-templom",
             "ro": "Biserica San Miguel",
-            "en": "Church of San Miguel"
+            "en": "Church of San Miguel",
+            "es": "Iglesia de San Miguel"
           },
           "coords": [
             0.7955,
@@ -737,7 +808,8 @@
             "de": "Startpunkt im Zentrum.",
             "hu": "Kiindulópont a központban.",
             "ro": "Punct de plecare în centru.",
-            "en": "Starting point in the center."
+            "en": "Starting point in the center.",
+            "es": "Punto de partida en el centro."
           }
         },
         {
@@ -745,7 +817,8 @@
             "de": "Bassa d'Oles",
             "hu": "Bassa d'Oles-tó",
             "ro": "Lacul Bassa d'Oles",
-            "en": "Bassa d'Oles Lake"
+            "en": "Bassa d'Oles Lake",
+            "es": "Estany de Bassa d'Oles"
           },
           "coords": [
             0.7452,
@@ -760,7 +833,8 @@
             "de": "Wunderschöner Bergsee über Vielha.",
             "hu": "Gyönyörű hegyi tó Vielha felett.",
             "ro": "Lac de munte superb deasupra localității Vielha.",
-            "en": "Beautiful mountain lake above Vielha."
+            "en": "Beautiful mountain lake above Vielha.",
+            "es": "Hermoso lago de montaña sobre Vielha."
           }
         },
         {
@@ -768,7 +842,8 @@
             "de": "Paseo de la Libertad",
             "hu": "Szabadság sétány",
             "ro": "Paseo de la Libertad",
-            "en": "Paseo de la Libertad"
+            "en": "Paseo de la Libertad",
+            "es": "Paseo de la Libertad"
           },
           "coords": [
             0.7945,
@@ -783,7 +858,8 @@
             "de": "Entspannung nach der Abfahrt.",
             "hu": "Pihenés a lejtő után.",
             "ro": "Relaxare după coborâre.",
-            "en": "Relaxation after the descent."
+            "en": "Relaxation after the descent.",
+            "es": "Relajación tras el descenso."
           }
         },
         {
@@ -791,7 +867,8 @@
             "de": "Altstadt von Vielha",
             "hu": "Vielha óvárosa",
             "ro": "Centrul vechi din Vielha",
-            "en": "Old Town of Vielha"
+            "en": "Old Town of Vielha",
+            "es": "Casco antiguo de Vielha"
           },
           "coords": [
             0.7962,
@@ -806,7 +883,8 @@
             "de": "Biken Sie vorsichtig durch die Gassen.",
             "hu": "Óvatosan tekerjen a szűk utcákon.",
             "ro": "Pedalați cu atenție pe străduțe.",
-            "en": "Cycle carefully through the alleys."
+            "en": "Cycle carefully through the alleys.",
+            "es": "Cicla con cuidado por los callejones."
           }
         },
         {
@@ -814,7 +892,8 @@
             "de": "Wollfabrik",
             "hu": "Gyapjúgyár",
             "ro": "Fabrica de lână",
-            "en": "Wool Factory"
+            "en": "Wool Factory",
+            "es": "Fábrica de Lana"
           },
           "coords": [
             0.7972,
@@ -829,7 +908,8 @@
             "de": "Interessante Technikgeschichte.",
             "hu": "Érdekes technikatörténet.",
             "ro": "Istorie tehnică interesantă.",
-            "en": "Interesting technical history."
+            "en": "Interesting technical history.",
+            "es": "Interesante historia técnica."
           }
         },
         {
@@ -837,7 +917,8 @@
             "de": "Flussbrücke über den Garonne",
             "hu": "Garonne-híd",
             "ro": "Podul peste Garonne",
-            "en": "Bridge over Garonne"
+            "en": "Bridge over Garonne",
+            "es": "Puente sobre el Garona"
           },
           "coords": [
             0.7985,
@@ -852,7 +933,8 @@
             "de": "Blick auf den jungen Garonne.",
             "hu": "Kilátás a fiatal Garonne-folyóra.",
             "ro": "Vedere asupra râului Garonne.",
-            "en": "View of the young Garonne river."
+            "en": "View of the young Garonne river.",
+            "es": "Vista del joven río Garona."
           }
         }
       ],
@@ -860,7 +942,8 @@
         "de": "Diese Radtour führt Sie aus dem Ort hinauf zum idyllischen Bassa d'Oles. Genießen Sie die sportliche Herausforderung und die Ruhe des Bergsees. Nach der Rückkehr nach Vielha erholen Sie sich am Paseo de la Libertad. Den Nachmittag verbringen Sie in der Altstadt und besuchen die historische Wollfabrik, bevor Sie die Tour an der Garonne-Brücke ausklingen lassen.",
         "hu": "Ez a kerékpártúra a városból felvezet az idilli Bassa d'Oles-tóhoz. Élvezze a sportos kihívást és a hegyi tó nyugalmát. Vielhába visszatérve a Szabadság sétányon pihenhet. A délutánt az óvárosban és a történelmi gyapjúgyárban tölti, majd a Garonne-hídnál fejezi be a túrát.",
         "ro": "Această tură cu bicicleta vă scoate din oraș și vă urcă la idilicul lac Bassa d'Oles. Bucurați-vă de provocarea sportivă și de liniștea lacului de munte. După revenirea în Vielha, relaxați-vă pe Paseo de la Libertad. După-amiaza o veți petrece în centrul vechi și vizitând fabrica de lână, înainte de a încheia tura la podul peste Garonne.",
-        "en": "This bike tour takes you out of town up to the idyllic Bassa d'Oles. Enjoy the sporting challenge and the tranquility of the mountain lake. After returning to Vielha, recover at the Paseo de la Libertad. Spend the afternoon in the old town and visit the historic wool factory before ending the tour at the Garonne bridge."
+        "en": "This bike tour takes you out of town up to the idyllic Bassa d'Oles. Enjoy the sporting challenge and the tranquility of the mountain lake. After returning to Vielha, recover at the Paseo de la Libertad. Spend the afternoon in the old town and visit the historic wool factory before ending the tour at the Garonne bridge.",
+        "es": "Esta ruta en bici te saca del pueblo hasta la idílica Bassa d'Oles. Disfruta del reto deportivo y de la tranquilidad del lago de montaña. Tras volver a Vielha, recupérate en el Paseo de la Libertad. Pasa la tarde en el casco antiguo y visita la histórica fábrica de lana antes de finalizar la ruta en el puente sobre el Garona."
       },
       "gastro_picks": {
         "de": [
@@ -968,6 +1051,12 @@
           "The climb to the lake requires good fitness.",
           "Cycle considerately on hiking paths.",
           "Always wear a helmet."
+        ],
+        "es": [
+          "Comprueba tus frenos antes del descenso.",
+          "La subida al lago requiere buena forma física.",
+          "Circula con consideración por los senderos de senderismo.",
+          "Lleva siempre casco."
         ]
       },
       "variants": {
@@ -976,7 +1065,8 @@
             "de": "Diese Radtour führt Sie aus dem Ort hinauf zum idyllischen Bassa d'Oles. Genießen Sie die sportliche Herausforderung und die Ruhe des Bergsees. Nach der Rückkehr nach Vielha erholen Sie sich am Paseo de la Libertad. Den Nachmittag verbringen Sie in der Altstadt und besuchen die historische Wollfabrik, bevor Sie die Tour an der Garonne-Brücke ausklingen lassen.",
             "hu": "Ez a kerékpártúra a városból felvezet az idilli Bassa d'Oles-tóhoz. Élvezze a sportos kihívást és a hegyi tó nyugalmát. Vielhába visszatérve a Szabadság sétányon pihenhet. A délutánt az óvárosban és a történelmi gyapjúgyárban tölti, majd a Garonne-hídnál fejezi be a túrát.",
             "ro": "Această tură cu bicicleta vă scoate din oraș și vă urcă la idilicul lac Bassa d'Oles. Bucurați-vă de provocarea sportivă și de liniștea lacului de munte. După revenirea în Vielha, relaxați-vă pe Paseo de la Libertad. După-amiaza o veți petrece în centrul vechi și vizitând fabrica de lână, înainte de a încheia tura la podul peste Garonne.",
-            "en": "This bike tour takes you out of town up to the idyllic Bassa d'Oles. Enjoy the sporting challenge and the tranquility of the mountain lake. After returning to Vielha, recover at the Paseo de la Libertad. Spend the afternoon in the old town and visit the historic wool factory before ending the tour at the Garonne bridge."
+            "en": "This bike tour takes you out of town up to the idyllic Bassa d'Oles. Enjoy the sporting challenge and the tranquility of the mountain lake. After returning to Vielha, recover at the Paseo de la Libertad. Spend the afternoon in the old town and visit the historic wool factory before ending the tour at the Garonne bridge.",
+            "es": "Esta ruta en bici te saca del pueblo hasta la idílica Bassa d'Oles. Disfruta del reto deportivo y de la tranquilidad del lago de montaña. Tras volver a Vielha, recupérate en el Paseo de la Libertad. Pasa la tarde en el casco antiguo y visita la histórica fábrica de lana antes de finalizar la ruta en el puente sobre el Garona."
           },
           "stops": [
             {
@@ -984,13 +1074,15 @@
                 "de": "Kirche San Miguel",
                 "hu": "San Miguel-templom",
                 "ro": "Biserica San Miguel",
-                "en": "Church of San Miguel"
+                "en": "Church of San Miguel",
+                "es": "Iglesia de San Miguel"
               },
               "tip_5lang": {
                 "de": "Startpunkt im Zentrum.",
                 "hu": "Kiindulópont a központban.",
                 "ro": "Punct de plecare în centru.",
-                "en": "Starting point in the center."
+                "en": "Starting point in the center.",
+                "es": "Punto de partida en el centro."
               }
             },
             {
@@ -998,13 +1090,15 @@
                 "de": "Bassa d'Oles",
                 "hu": "Bassa d'Oles-tó",
                 "ro": "Lacul Bassa d'Oles",
-                "en": "Bassa d'Oles Lake"
+                "en": "Bassa d'Oles Lake",
+                "es": "Lago Bassa d'Oles"
               },
               "tip_5lang": {
                 "de": "Wunderschöner Bergsee über Vielha.",
                 "hu": "Gyönyörű hegyi tó Vielha felett.",
                 "ro": "Lac de munte superb deasupra localității Vielha.",
-                "en": "Beautiful mountain lake above Vielha."
+                "en": "Beautiful mountain lake above Vielha.",
+                "es": "Hermoso lago de montaña sobre Vielha."
               }
             },
             {
@@ -1012,13 +1106,15 @@
                 "de": "Paseo de la Libertad",
                 "hu": "Szabadság sétány",
                 "ro": "Paseo de la Libertad",
-                "en": "Paseo de la Libertad"
+                "en": "Paseo de la Libertad",
+                "es": "Paseo de la Libertad"
               },
               "tip_5lang": {
                 "de": "Entspannung nach der Abfahrt.",
                 "hu": "Pihenés a lejtő után.",
                 "ro": "Relaxare după coborâre.",
-                "en": "Relaxation after the descent."
+                "en": "Relaxation after the descent.",
+                "es": "Relajación tras el descenso."
               }
             },
             {
@@ -1026,13 +1122,15 @@
                 "de": "Altstadt von Vielha",
                 "hu": "Vielha óvárosa",
                 "ro": "Centrul vechi din Vielha",
-                "en": "Old Town of Vielha"
+                "en": "Old Town of Vielha",
+                "es": "Casco antiguo de Vielha"
               },
               "tip_5lang": {
                 "de": "Biken Sie vorsichtig durch die Gassen.",
                 "hu": "Óvatosan tekerjen a szűk utcákon.",
                 "ro": "Pedalați cu atenție pe străduțe.",
-                "en": "Cycle carefully through the alleys."
+                "en": "Cycle carefully through the alleys.",
+                "es": "Cicla con cuidado por los callejones."
               }
             },
             {
@@ -1040,13 +1138,15 @@
                 "de": "Wollfabrik",
                 "hu": "Gyapjúgyár",
                 "ro": "Fabrica de lână",
-                "en": "Wool Factory"
+                "en": "Wool Factory",
+                "es": "Fábrica de Lana"
               },
               "tip_5lang": {
                 "de": "Interessante Technikgeschichte.",
                 "hu": "Érdekes technikatörténet.",
                 "ro": "Istorie tehnică interesantă.",
-                "en": "Interesting technical history."
+                "en": "Interesting technical history.",
+                "es": "Interesante historia técnica."
               }
             },
             {
@@ -1054,13 +1154,15 @@
                 "de": "Flussbrücke über den Garonne",
                 "hu": "Garonne-híd",
                 "ro": "Podul peste Garonne",
-                "en": "Bridge over Garonne"
+                "en": "Bridge over Garonne",
+                "es": "Puente sobre el Garona"
               },
               "tip_5lang": {
                 "de": "Blick auf den jungen Garonne.",
                 "hu": "Kilátás a fiatal Garonne-folyóra.",
                 "ro": "Vedere asupra râului Garonne.",
-                "en": "View of the young Garonne river."
+                "en": "View of the young Garonne river.",
+                "es": "Vista del joven río Garona."
               }
             }
           ],
@@ -1170,6 +1272,12 @@
               "The climb to the lake requires good fitness.",
               "Cycle considerately on hiking paths.",
               "Always wear a helmet."
+            ],
+            "es": [
+              "Comprueba tus frenos antes del descenso.",
+              "La subida al lago requiere buena forma física.",
+              "Circula con consideración por los senderos de senderismo.",
+              "Lleva siempre casco."
             ]
           }
         },
@@ -1178,7 +1286,8 @@
             "de": "Eine nasse Tour zum Bassa d'Oles-See erfordert Ausdauer und gute Ausrüstung. Der Nebel über dem Wasser ist mystisch, aber die Abfahrt nach Vielha kann rutschig sein. Nachmittags erkunden wir die Stadt im Regenponcho und finden Schutz in der Wollfabrik. Die Wege am Fluss Garonne sind bei Nässe mit Vorsicht zu befahren.",
             "hu": "Egy vizes túra a Bassa d'Oles tóhoz kitartást és jó felszerelést igényel. A köd a víz felett misztikus, de a Vielhába vezető lejtő csúszós lehet. Délután esőponchóban fedezzük fel a várost, menedéket találva a gyapjúgyárban. A Garonne-folyó menti utakon óvatosan közlekedjünk a sár miatt.",
             "ro": "O tură umedă spre lacul Bassa d'Oles necesită perseverență și echipament bun. Ceața de deasupra apei este mistică, dar coborârea spre Vielha poate fi alunecoasă. După-amiaza explorăm orașul în pelerină de ploaie, găsind adăpost în fabrica de lână. Potecile de-a lungul râului Garonne trebuie parcurse cu prudență.",
-            "en": "A wet ride to Bassa d'Oles lake requires stamina and proper gear. The mist over the water is mystical, but the descent to Vielha can be slippery. In the afternoon, explore the town in a rain poncho, finding shelter in the wool factory. The paths along the Garonne river should be navigated with caution due to mud."
+            "en": "A wet ride to Bassa d'Oles lake requires stamina and proper gear. The mist over the water is mystical, but the descent to Vielha can be slippery. In the afternoon, explore the town in a rain poncho, finding shelter in the wool factory. The paths along the Garonne river should be navigated with caution due to mud.",
+            "es": "Un paseo húmedo hasta el lago Bassa d'Oles exige resistencia y el equipo adecuado. La niebla sobre el agua es mística, pero el descenso a Vielha puede ser resbaladizo. Por la tarde, explora el pueblo con un chubasquero, buscando refugio en la fábrica de lana. Los caminos junto al río Garona deben recorrerse con precaución por el barro."
           },
           "stops": [
             {
@@ -1187,7 +1296,8 @@
                 "de": "Fahrradständer sind oft nass, sichern Sie Ihr Rad gut.",
                 "hu": "A biciklitárolók vizesek lehetnek, rögzítse jól a gépet.",
                 "ro": "Suporturile de biciclete sunt umede, asigurați bine bicicleta.",
-                "en": "Bike racks are often wet, secure your bike carefully."
+                "en": "Bike racks are often wet, secure your bike carefully.",
+                "es": "Los aparcamientos para bicicletas suelen estar mojados; asegura bien tu bici."
               }
             },
             {
@@ -1196,7 +1306,8 @@
                 "de": "Vorsicht vor tiefen Pfützen auf dem unbefestigten Rundweg.",
                 "hu": "Vigyázzon a mély tócsákra a burkolatlan körúton.",
                 "ro": "Atenție la bălțile adânci de pe traseul neasfaltat.",
-                "en": "Watch out for deep puddles on the unpaved circular trail."
+                "en": "Watch out for deep puddles on the unpaved circular trail.",
+                "es": "Cuidado con los charcos profundos en la senda circular sin pavimentar."
               }
             },
             {
@@ -1205,7 +1316,8 @@
                 "de": "Vermeiden Sie nasses Laub auf dem Weg, Sturzgefahr.",
                 "hu": "Kerülje a vizes leveleket az úton, esésveszély.",
                 "ro": "Evitați frunzele ude de pe drum, pericol de cădere.",
-                "en": "Avoid wet leaves on the path to prevent sliding."
+                "en": "Avoid wet leaves on the path to prevent sliding.",
+                "es": "Evita las hojas mojadas en el camino para prevenir deslizamientos."
               }
             },
             {
@@ -1214,7 +1326,8 @@
                 "de": "Steigen Sie in den engsten Gassen bei starkem Regen ab.",
                 "hu": "A legszűkebb utcákban erős esőben inkább tolja a bringát.",
                 "ro": "Coborâți de pe bicicletă în zonele înguste dacă plouă tare.",
-                "en": "Dismount in the narrowest alleys if the rain is heavy."
+                "en": "Dismount in the narrowest alleys if the rain is heavy.",
+                "es": "Bájate de la bici en los callejones más estrechos si la lluvia es intensa."
               }
             },
             {
@@ -1223,7 +1336,8 @@
                 "de": "Guter Ort für eine Pause, während das Rad draußen steht.",
                 "hu": "Jó hely egy pihenőre, amíg a bringa kint várakozik.",
                 "ro": "Loc bun pentru o pauză în timp ce bicicleta stă afară.",
-                "en": "Good place for a break while the bike waits outside."
+                "en": "Good place for a break while the bike waits outside.",
+                "es": "Buen lugar para descansar mientras la bici espera afuera."
               }
             },
             {
@@ -1232,7 +1346,8 @@
                 "de": "Metallplatten auf Brücken sind bei Nässe extrem rutschig.",
                 "hu": "A hidak fémlemezei esőben rendkívül csúszósak.",
                 "ro": "Plăcile metalice de pe poduri sunt extrem de alunecoase.",
-                "en": "Metal plates on bridges are extremely slippery when wet."
+                "en": "Metal plates on bridges are extremely slippery when wet.",
+                "es": "Las chapas metálicas en los puentes son extremadamente resbaladizas cuando están mojadas."
               }
             }
           ],
@@ -1260,6 +1375,12 @@
               "Check your brake pads before descending from the lake.",
               "Waterproof gloves will keep your fingers warm and agile.",
               "Mountain roads may have debris washed down by the rain."
+            ],
+            "es": [
+              "Usa guardabarros para protegerte del spray de la carretera.",
+              "Revisa las pastillas de freno antes de descender desde el lago.",
+              "Los guantes impermeables mantendrán tus dedos calientes y ágiles.",
+              "Las carreteras de montaña pueden tener escombros arrastrados por la lluvia."
             ]
           }
         },
@@ -1268,7 +1389,8 @@
             "de": "Biken im Winter rund um Vielha ist ein Abenteuer für Mutige. Der Weg zum Bassa d'Oles kann schneebedeckt sein, was Fatbikes oder Reifen mit gutem Profil erfordert. Die Kälte bei der Abfahrt ist beißend, daher ist warme Kleidung Pflicht. Nachmittags ist die Stadtbesichtigung entspannter, bevor die frühe Dunkelheit die Tour beendet.",
             "hu": "A téli bringázás Vielha környékén a bátrak kalandja. A Bassa d'Oles útja havas lehet, ami fatbike-ot vagy jó profilú gumit igényel. A lejtőn a hideg metsző, a réteges öltözet kötelező. Délután a városnézés nyugodtabb, mielőtt a korai sötétség véget vetne a túrának.",
             "ro": "Ciclismul de iarnă în jurul Vielha este o aventură pentru cei curajoși. Drumul spre Bassa d'Oles poate fi înzăpezit, necesitând fatbike sau cauciucuri cramponate. Frigul la coborâre este tăios, deci hainele groase sunt obligatorii. După-amiaza explorarea orașului este mai relaxată înainte de lăsarea serii.",
-            "en": "Winter biking around Vielha is an adventure for the brave. The road to Bassa d'Oles might be snow-covered, requiring fatbikes or high-traction tires. The wind chill during descents is biting, so thermal gear is mandatory. In the afternoon, town sightseeing is more relaxed before the early darkness ends the ride."
+            "en": "Winter biking around Vielha is an adventure for the brave. The road to Bassa d'Oles might be snow-covered, requiring fatbikes or high-traction tires. The wind chill during descents is biting, so thermal gear is mandatory. In the afternoon, town sightseeing is more relaxed before the early darkness ends the ride.",
+            "es": "El ciclismo invernal alrededor de Vielha es una aventura para valientes. La carretera a Bassa d'Oles puede estar cubierta de nieve, requiriendo fatbikes o neumáticos de alta tracción. La sensación térmica en los descensos es mordiente, por lo que la ropa térmica es obligatoria. Por la tarde, las visitas por el pueblo son más tranquilas antes de que la oscuridad temprana termine la jornada."
           },
           "stops": [
             {
@@ -1277,7 +1399,8 @@
                 "de": "Schließen Sie Ihr Rad nicht an Schneehaufen an.",
                 "hu": "Ne láncolja a biciklit hókupacokhoz.",
                 "ro": "Nu legați bicicleta de mormane de zăpadă.",
-                "en": "Don't lock your bike to snow piles."
+                "en": "Don't lock your bike to snow piles.",
+                "es": "No asegures la bici a montones de nieve."
               }
             },
             {
@@ -1286,7 +1409,8 @@
                 "de": "Der See ist oft gefroren; betreten der Eisfläche verboten.",
                 "hu": "A tó gyakran befagy; a jégre lépni tilos.",
                 "ro": "Lacul este adesea înghețat; accesul pe gheață este interzis.",
-                "en": "The lake is often frozen; walking on the ice is prohibited."
+                "en": "The lake is often frozen; walking on the ice is prohibited.",
+                "es": "El lago suele congelarse; está prohibido caminar sobre el hielo."
               }
             },
             {
@@ -1295,7 +1419,8 @@
                 "de": "Vorsicht vor gestreutem Salz, es greift die Kette an.",
                 "hu": "Vigyázzon a kiszórt sóval, károsítja a láncot.",
                 "ro": "Atenție la sarea de pe drum, afectează lanțul.",
-                "en": "Watch out for road salt, it can corrode your chain."
+                "en": "Watch out for road salt, it can corrode your chain.",
+                "es": "Cuidado con la sal de la carretera, puede corroer la cadena."
               }
             },
             {
@@ -1304,7 +1429,8 @@
                 "de": "Die Gassen werden oft als Erstes geräumt, aber Vorsicht Eis.",
                 "hu": "Az utcákat gyakran hamar letakarítják, de a jég maradhat.",
                 "ro": "Străzile sunt curățate rapid, dar gheața poate persista.",
-                "en": "Alleys are often cleared first, but black ice may remain."
+                "en": "Alleys are often cleared first, but black ice may remain.",
+                "es": "Los callejones suelen despejarse primero, pero puede quedar hielo negro."
               }
             },
             {
@@ -1313,7 +1439,8 @@
                 "de": "Stellen Sie Ihr Rad so ab, dass es keinem Schneepflug im Weg steht.",
                 "hu": "Úgy parkoljon, hogy ne zavarja a hókotrókat.",
                 "ro": "Parcați astfel încât să nu încurcați utilajele de deszăpezire.",
-                "en": "Park your bike so it doesn't obstruct snow plows."
+                "en": "Park your bike so it doesn't obstruct snow plows.",
+                "es": "Aparca la bici de forma que no obstaculice a las quitanieves."
               }
             },
             {
@@ -1322,7 +1449,8 @@
                 "de": "Toller Blick auf den dampfenden Fluss in der Kälte.",
                 "hu": "Remek kilátás a gőzölgő folyóra a hidegben.",
                 "ro": "Vedere superbă asupra râului care aburește în frig.",
-                "en": "Great view of the steaming river in the cold air."
+                "en": "Great view of the steaming river in the cold air.",
+                "es": "Excelente vista del río humeante en el aire frío."
               }
             }
           ],
@@ -1350,6 +1478,12 @@
               "E-bike batteries drain much faster in freezing temperatures.",
               "Keep your lights on; the valley is often shady and dark.",
               "Avoid sudden steering movements on snowy or icy surfaces."
+            ],
+            "es": [
+              "Circula con menor presión de neumáticos para mejorar la tracción en la nieve.",
+              "Las baterías de las e-bikes se descargan mucho más rápido a temperaturas bajo cero.",
+              "Mantén las luces encendidas; el valle suele ser sombrío y oscuro.",
+              "Evita movimientos bruscos del manillar sobre superficies nevadas o heladas."
             ]
           }
         }
@@ -1368,7 +1502,8 @@
             "de": "Artiga de Lin",
             "hu": "Artiga de Lin",
             "ro": "Artiga de Lin",
-            "en": "Artiga de Lin"
+            "en": "Artiga de Lin",
+            "es": "Artiga de Lin"
           },
           "coords": [
             0.6952,
@@ -1383,7 +1518,8 @@
             "de": "Besuchen Sie den Wasserfall Uelhs deth Joeu.",
             "hu": "Nézze meg az Uelhs deth Joeu vízesést.",
             "ro": "Vizitați cascada Uelhs deth Joeu.",
-            "en": "Visit the Uelhs deth Joeu waterfall."
+            "en": "Visit the Uelhs deth Joeu waterfall.",
+            "es": "Visita la cascada Uelhs deth Joeu."
           }
         },
         {
@@ -1391,7 +1527,8 @@
             "de": "Aran-Tal Museum",
             "hu": "Aran-völgyi Múzeum",
             "ro": "Muzeul Văii Aran",
-            "en": "Aran Valley Museum"
+            "en": "Aran Valley Museum",
+            "es": "Museo del Valle de Arán"
           },
           "coords": [
             0.7942,
@@ -1406,7 +1543,8 @@
             "de": "Zentraler Parkplatz in der Nähe.",
             "hu": "Központi parkoló a közelben.",
             "ro": "Parcare centrală în apropiere.",
-            "en": "Central parking nearby."
+            "en": "Central parking nearby.",
+            "es": "Aparcamiento central cercano."
           }
         },
         {
@@ -1414,7 +1552,8 @@
             "de": "Kirche San Miguel",
             "hu": "San Miguel-templom",
             "ro": "Biserica San Miguel",
-            "en": "Church of San Miguel"
+            "en": "Church of San Miguel",
+            "es": "Iglesia de San Miguel"
           },
           "coords": [
             0.7955,
@@ -1429,7 +1568,8 @@
             "de": "Kurzer Fußweg vom Parkplatz.",
             "hu": "Rövid séta a parkolótól.",
             "ro": "Scurtă plimbare de la parcare.",
-            "en": "Short walk from the parking."
+            "en": "Short walk from the parking.",
+            "es": "Corto paseo desde el aparcamiento."
           }
         },
         {
@@ -1437,7 +1577,8 @@
             "de": "Paseo de la Libertad",
             "hu": "Szabadság sétány",
             "ro": "Paseo de la Libertad",
-            "en": "Paseo de la Libertad"
+            "en": "Paseo de la Libertad",
+            "es": "Paseo de la Libertad"
           },
           "coords": [
             0.7945,
@@ -1452,7 +1593,8 @@
             "de": "Genießen Sie ein Eis am Fluss.",
             "hu": "Egyen egy fagyit a folyóparton.",
             "ro": "Savurați o înghețată la malul râului.",
-            "en": "Enjoy an ice cream by the river."
+            "en": "Enjoy an ice cream by the river.",
+            "es": "Disfruta de un helado junto al río."
           }
         },
         {
@@ -1460,7 +1602,8 @@
             "de": "Wollfabrik",
             "hu": "Gyapjúgyár",
             "ro": "Fabrica de lână",
-            "en": "Wool Factory"
+            "en": "Wool Factory",
+            "es": "Fábrica de Lana"
           },
           "coords": [
             0.7972,
@@ -1475,7 +1618,8 @@
             "de": "Einblick in das 19. Jahrhundert.",
             "hu": "Betekintés a 19. századba.",
             "ro": "Incursiune în secolul al XIX-lea.",
-            "en": "Insight into the 19th century."
+            "en": "Insight into the 19th century.",
+            "es": "Visión del siglo XIX."
           }
         },
         {
@@ -1483,7 +1627,8 @@
             "de": "Altstadt-Abendspaziergang",
             "hu": "Esti séta az óvárosban",
             "ro": "Plimbare de seară în centrul vechi",
-            "en": "Old Town Evening Walk"
+            "en": "Old Town Evening Walk",
+            "es": "Paseo nocturno por el casco antiguo"
           },
           "coords": [
             0.7962,
@@ -1498,7 +1643,8 @@
             "de": "Die Lichter der Stadt genießen.",
             "hu": "Élvezze a város fényeit.",
             "ro": "Bucurați-vă de luminile orașului.",
-            "en": "Enjoy the city lights."
+            "en": "Enjoy the city lights.",
+            "es": "Disfruta de las luces de la ciudad."
           }
         }
       ],
@@ -1506,7 +1652,8 @@
         "de": "Mit dem Auto erreichen Sie am Morgen die spektakuläre Hochebene Artiga de Lin mit ihren unterirdischen Flüssen und Wasserfällen. Mittags kehren Sie nach Vielha zurück, um das Museum und die bedeutende Kirche San Miguel zu besuchen. Nachmittags bleibt Zeit für die Wollfabrik und einen entspannten Spaziergang am Paseo de la Libertad. Den Tag beschließt ein kurzer Rundgang durch die beleuchtete Altstadt.",
         "hu": "Autóval reggel elérheti a látványos Artiga de Lin fennsíkot, földalatti folyóival és vízeséseivel. Délben térjen vissza Vielhába, hogy meglátogassa a múzeumot és a jelentős San Miguel-templomot. Délután jut idő a gyapjúgyárra és egy pihentető sétára a Szabadság sétányon. A napot az óváros kivilágított utcáin tett rövid séta zárja.",
         "ro": "Cu mașina puteți ajunge dimineața la spectaculoasa câmpie Artiga de Lin, cu râurile sale subterane și cascade. La prânz reveniți în Vielha pentru a vizita muzeul și importanta biserică San Miguel. După-amiaza aveți timp pentru fabrica de lână și o plimbare relaxantă pe Paseo de la Libertad. Ziua se încheie cu un scurt tur prin centrul vechi iluminat.",
-        "en": "By car, you can reach the spectacular Artiga de Lin plateau in the morning, with its underground rivers and waterfalls. At noon, return to Vielha to visit the museum and the significant San Miguel church. In the afternoon, there's time for the wool factory and a relaxed stroll on the Paseo de la Libertad. The day concludes with a short walk through the illuminated old town."
+        "en": "By car, you can reach the spectacular Artiga de Lin plateau in the morning, with its underground rivers and waterfalls. At noon, return to Vielha to visit the museum and the significant San Miguel church. In the afternoon, there's time for the wool factory and a relaxed stroll on the Paseo de la Libertad. The day concludes with a short walk through the illuminated old town.",
+        "es": "En coche puedes llegar por la mañana a la espectacular meseta de Artiga de Lin, con sus ríos subterráneos y cascadas. Al mediodía, vuelve a Vielha para visitar el museo y la destacada iglesia de San Miguel. Por la tarde hay tiempo para la fábrica de lana y un paseo relajado por el Paseo de la Libertad. El día concluye con un corto paseo por el casco antiguo iluminado."
       },
       "gastro_picks": {
         "de": [
@@ -1614,6 +1761,12 @@
           "Park on the outskirts in summer.",
           "Watch out for hikers on mountain roads.",
           "Refuel in the valley, there are fewer stations up high."
+        ],
+        "es": [
+          "La carretera a Artiga de Lin es estrecha.",
+          "Aparca en las afueras en verano.",
+          "Cuidado con los senderistas en las carreteras de montaña.",
+          "Rellena combustible en el valle; hay menos estaciones en altura."
         ]
       },
       "variants": {
@@ -1622,7 +1775,8 @@
             "de": "Mit dem Auto erreichen Sie am Morgen die spektakuläre Hochebene Artiga de Lin mit ihren unterirdischen Flüssen und Wasserfällen. Mittags kehren Sie nach Vielha zurück, um das Museum und die bedeutende Kirche San Miguel zu besuchen. Nachmittags bleibt Zeit für die Wollfabrik und einen entspannten Spaziergang am Paseo de la Libertad. Den Tag beschließt ein kurzer Rundgang durch die beleuchtete Altstadt.",
             "hu": "Autóval reggel elérheti a látványos Artiga de Lin fennsíkot, földalatti folyóival és vízeséseivel. Délben térjen vissza Vielhába, hogy meglátogassa a múzeumot és a jelentős San Miguel-templomot. Délután jut idő a gyapjúgyárra és egy pihentető sétára a Szabadság sétányon. A napot az óváros kivilágított utcáin tett rövid séta zárja.",
             "ro": "Cu mașina puteți ajunge dimineața la spectaculoasa câmpie Artiga de Lin, cu râurile sale subterane și cascade. La prânz reveniți în Vielha pentru a vizita muzeul și importanta biserică San Miguel. După-amiaza aveți timp pentru fabrica de lână și o plimbare relaxantă pe Paseo de la Libertad. Ziua se încheie cu un scurt tur prin centrul vechi iluminat.",
-            "en": "By car, you can reach the spectacular Artiga de Lin plateau in the morning, with its underground rivers and waterfalls. At noon, return to Vielha to visit the museum and the significant San Miguel church. In the afternoon, there's time for the wool factory and a relaxed stroll on the Paseo de la Libertad. The day concludes with a short walk through the illuminated old town."
+            "en": "By car, you can reach the spectacular Artiga de Lin plateau in the morning, with its underground rivers and waterfalls. At noon, return to Vielha to visit the museum and the significant San Miguel church. In the afternoon, there's time for the wool factory and a relaxed stroll on the Paseo de la Libertad. The day concludes with a short walk through the illuminated old town.",
+            "es": "En coche puedes llegar por la mañana a la espectacular meseta de Artiga de Lin, con sus ríos subterráneos y cascadas. Al mediodía, vuelve a Vielha para visitar el museo y la destacada iglesia de San Miguel. Por la tarde hay tiempo para la fábrica de lana y un paseo relajado por el Paseo de la Libertad. El día concluye con un corto paseo por el casco antiguo iluminado."
           },
           "stops": [
             {
@@ -1630,13 +1784,15 @@
                 "de": "Artiga de Lin",
                 "hu": "Artiga de Lin",
                 "ro": "Artiga de Lin",
-                "en": "Artiga de Lin"
+                "en": "Artiga de Lin",
+                "es": "Artiga de Lin"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie den Wasserfall Uelhs deth Joeu.",
                 "hu": "Nézze meg az Uelhs deth Joeu vízesést.",
                 "ro": "Vizitați cascada Uelhs deth Joeu.",
-                "en": "Visit the Uelhs deth Joeu waterfall."
+                "en": "Visit the Uelhs deth Joeu waterfall.",
+                "es": "Visita la cascada Uelhs deth Joeu."
               }
             },
             {
@@ -1644,13 +1800,15 @@
                 "de": "Aran-Tal Museum",
                 "hu": "Aran-völgyi Múzeum",
                 "ro": "Muzeul Văii Aran",
-                "en": "Aran Valley Museum"
+                "en": "Aran Valley Museum",
+                "es": "Museo del Valle de Arán"
               },
               "tip_5lang": {
                 "de": "Zentraler Parkplatz in der Nähe.",
                 "hu": "Központi parkoló a közelben.",
                 "ro": "Parcare centrală în apropiere.",
-                "en": "Central parking nearby."
+                "en": "Central parking nearby.",
+                "es": "Aparcamiento central cercano."
               }
             },
             {
@@ -1658,13 +1816,15 @@
                 "de": "Kirche San Miguel",
                 "hu": "San Miguel-templom",
                 "ro": "Biserica San Miguel",
-                "en": "Church of San Miguel"
+                "en": "Church of San Miguel",
+                "es": "Iglesia de San Miguel"
               },
               "tip_5lang": {
                 "de": "Kurzer Fußweg vom Parkplatz.",
                 "hu": "Rövid séta a parkolótól.",
                 "ro": "Scurtă plimbare de la parcare.",
-                "en": "Short walk from the parking."
+                "en": "Short walk from the parking.",
+                "es": "Corto paseo desde el aparcamiento."
               }
             },
             {
@@ -1672,13 +1832,15 @@
                 "de": "Paseo de la Libertad",
                 "hu": "Szabadság sétány",
                 "ro": "Paseo de la Libertad",
-                "en": "Paseo de la Libertad"
+                "en": "Paseo de la Libertad",
+                "es": "Paseo de la Libertad"
               },
               "tip_5lang": {
                 "de": "Genießen Sie ein Eis am Fluss.",
                 "hu": "Egyen egy fagyit a folyóparton.",
                 "ro": "Savurați o înghețată la malul râului.",
-                "en": "Enjoy an ice cream by the river."
+                "en": "Enjoy an ice cream by the river.",
+                "es": "Disfruta de un helado junto al río."
               }
             },
             {
@@ -1686,13 +1848,15 @@
                 "de": "Wollfabrik",
                 "hu": "Gyapjúgyár",
                 "ro": "Fabrica de lână",
-                "en": "Wool Factory"
+                "en": "Wool Factory",
+                "es": "Fábrica de Lana"
               },
               "tip_5lang": {
                 "de": "Einblick in das 19. Jahrhundert.",
                 "hu": "Betekintés a 19. századba.",
                 "ro": "Incursiune în secolul al XIX-lea.",
-                "en": "Insight into the 19th century."
+                "en": "Insight into the 19th century.",
+                "es": "Visión del siglo XIX."
               }
             },
             {
@@ -1700,13 +1864,15 @@
                 "de": "Altstadt-Abendspaziergang",
                 "hu": "Esti séta az óvárosban",
                 "ro": "Plimbare de seară în centrul vechi",
-                "en": "Old Town Evening Walk"
+                "en": "Old Town Evening Walk",
+                "es": "Paseo nocturno por el casco antiguo"
               },
               "tip_5lang": {
                 "de": "Die Lichter der Stadt genießen.",
                 "hu": "Élvezze a város fényeit.",
                 "ro": "Bucurați-vă de luminile orașului.",
-                "en": "Enjoy the city lights."
+                "en": "Enjoy the city lights.",
+                "es": "Disfruta de las luces de la ciudad."
               }
             }
           ],
@@ -1816,6 +1982,12 @@
               "Park on the outskirts in summer.",
               "Watch out for hikers on mountain roads.",
               "Refuel in the valley, there are fewer stations up high."
+            ],
+            "es": [
+              "La carretera a Artiga de Lin es estrecha.",
+              "Aparca en las afueras en verano.",
+              "Cuidado con los senderistas en las carreteras de montaña.",
+              "Rellena combustible en el valle; hay menos estaciones en altura."
             ]
           }
         },
@@ -1824,7 +1996,8 @@
             "de": "Die Fahrt zur Artiga de Lin ist bei Regen dramatisch, da die Wasserfälle besonders kraftvoll sind. Den Rest des Tages verbringen wir flexibel in Vielha, besuchen das Museum und die Wollfabrik, ohne nass zu werden. Das Auto dient als perfekter Rückzugsort zwischen den Sehenswürdigkeiten, während die Wolken tief im Tal hängen.",
             "hu": "Az Artiga de Lin felé vezető út esőben drámai, a vízesések ilyenkor a legerősebbek. A nap hátralévő részét rugalmasan töltjük Vielhában, múzeumot és gyapjúgyárat látogatva anélkül, hogy megáznánk. Az autó tökéletes menedék a látnivalók között, miközben a felhők alacsonyan szállnak a völgyben.",
             "ro": "Drumul spre Artiga de Lin este dramatic pe ploaie, cascadele fiind foarte puternice. Restul zilei îl petrecem flexibil în Vielha, vizitând muzeul și fabrica de lână fără a ne uda. Mașina servește ca refugiu perfect între obiective, în timp ce norii plutesc jos în vale.",
-            "en": "The drive to Artiga de Lin is dramatic in the rain, as the waterfalls are especially powerful. Spend the rest of the day flexibly in Vielha, visiting the museum and wool factory while staying dry. The car is your perfect mobile base between stops while low clouds cling to the mountain slopes."
+            "en": "The drive to Artiga de Lin is dramatic in the rain, as the waterfalls are especially powerful. Spend the rest of the day flexibly in Vielha, visiting the museum and wool factory while staying dry. The car is your perfect mobile base between stops while low clouds cling to the mountain slopes.",
+            "es": "La conducción a Artiga de Lin es espectacular bajo la lluvia, ya que las cascadas están especialmente potentes. Pasa el resto del día con flexibilidad en Vielha, visitando el museo y la fábrica de lana mientras te mantienes seco. El coche es tu base móvil perfecta entre paradas, mientras las nubes bajas se aferran a las laderas."
           },
           "stops": [
             {
@@ -1833,7 +2006,8 @@
                 "de": "Die Straße kann schmal und bei Regen rutschig sein.",
                 "hu": "Az út keskeny és esőben csúszós lehet.",
                 "ro": "Drumul poate fi îngust și alunecos pe ploaie.",
-                "en": "The road can be narrow and slippery during heavy rain."
+                "en": "The road can be narrow and slippery during heavy rain.",
+                "es": "La carretera puede ser estrecha y resbaladiza durante lluvias intensas."
               }
             },
             {
@@ -1842,7 +2016,8 @@
                 "de": "Parkplätze in der Nähe ermöglichen einen trockenen Zugang.",
                 "hu": "A közeli parkolók száraz bejutást tesznek lehetővé.",
                 "ro": "Parcările din apropiere permit accesul fără a vă uda.",
-                "en": "Nearby parking allows for quick, dry access to the entrance."
+                "en": "Nearby parking allows for quick, dry access to the entrance.",
+                "es": "Hay aparcamiento cercano para acceder rápidamente y sin mojarse a la entrada."
               }
             },
             {
@@ -1851,7 +2026,8 @@
                 "de": "Nutzen Sie das Parkhaus im Zentrum für kurze Wege.",
                 "hu": "Használja a központi parkolóházat a rövid sétához.",
                 "ro": "Folosiți parcarea supraetajată din centru pentru distanțe mici.",
-                "en": "Use the central parking garage to minimize walking in the rain."
+                "en": "Use the central parking garage to minimize walking in the rain.",
+                "es": "Usa el aparcamiento central para minimizar caminar bajo la lluvia."
               }
             },
             {
@@ -1860,7 +2036,8 @@
                 "de": "Ein kurzer Blick aus dem Auto reicht, wenn es zu stark regnet.",
                 "hu": "Egy rövid pillantás az autóból is elég, ha túl erősen esik.",
                 "ro": "O privire scurtă din mașină este suficientă dacă plouă tare.",
-                "en": "A quick look from the car is enough if the rain is too heavy."
+                "en": "A quick look from the car is enough if the rain is too heavy.",
+                "es": "Un vistazo rápido desde el coche basta si llueve demasiado fuerte."
               }
             },
             {
@@ -1869,7 +2046,8 @@
                 "de": "Parken Sie direkt davor, um den Regen zu umgehen.",
                 "hu": "Parkoljon közvetlenül előtte, hogy elkerülje az esőt.",
                 "ro": "Parcați chiar în față pentru a evita ploaia.",
-                "en": "Park directly in front to bypass the rain."
+                "en": "Park directly in front to bypass the rain.",
+                "es": "Aparca justo enfrente para evitar la lluvia."
               }
             },
             {
@@ -1878,7 +2056,8 @@
                 "de": "Genießen Sie die beleuchteten nassen Gassen vom Auto aus.",
                 "hu": "Csodálja meg a kivilágított vizes utcákat az autóból.",
                 "ro": "Admirați străzile ude și iluminate din mașină.",
-                "en": "Admire the illuminated wet streets from the comfort of your car."
+                "en": "Admire the illuminated wet streets from the comfort of your car.",
+                "es": "Admira las calles iluminadas y mojadas desde la comodidad del coche."
               }
             }
           ],
@@ -1906,6 +2085,12 @@
               "Parking garages in Vielha are tight; maneuver carefully.",
               "Do not leave any valuables visible inside the car.",
               "Visibility can be very limited due to fog in the valley."
+            ],
+            "es": [
+              "Cuidado con desprendimientos en las carreteras de montaña durante lluvias intensas.",
+              "Los parkings cubiertos en Vielha son estrechos; maniobra con cuidado.",
+              "No dejes objetos de valor a la vista dentro del coche.",
+              "La visibilidad puede verse muy limitada por la niebla en el valle."
             ]
           }
         },
@@ -1914,7 +2099,8 @@
             "de": "Die Fahrt zur Artiga de Lin kann im Winter durch Schnee gesperrt oder nur mit Ketten möglich sein. Die schneebedeckten Gipfel bieten ein grandioses Panorama. In Vielha nutzen wir das Auto, um bequem zwischen den beheizten Stationen wie dem Museum und der Wollfabrik zu pendeln, während draußen der Frost klirrt.",
             "hu": "Az Artiga de Lin útja télen lezárva lehet, vagy hólánc kellhet hozzá. A havas csúcsok grandiózus panorámát nyújtanak. Vielhában az autót használjuk, hogy kényelmesen közlekedjünk a fűtött állomások, mint a múzeum és a gyapjúgyár között, miközben kint röpködnek a mínuszok.",
             "ro": "Drumul spre Artiga de Lin poate fi închis iarna sau poate necesita lanțuri. Vârfurile înzăpezite oferă o panoramă grandioasă. În Vielha folosim mașina pentru a face naveta confortabil între punctele încălzite, precum muzeul și fabrica de lână, în timp ce afară e ger.",
-            "en": "The drive to Artiga de Lin might be closed or require snow chains in winter. The snow-capped peaks offer a magnificent panorama. In Vielha, use your car to comfortably hop between heated stops like the museum and wool factory while the frost bites outside."
+            "en": "The drive to Artiga de Lin might be closed or require snow chains in winter. The snow-capped peaks offer a magnificent panorama. In Vielha, use your car to comfortably hop between heated stops like the museum and wool factory while the frost bites outside.",
+            "es": "El acceso a Artiga de Lin puede cerrarse o requerir cadenas en invierno. Las cumbres nevadas ofrecen un panorama magnífico. En Vielha, usa el coche para desplazarte cómodamente entre paradas calefactadas como el museo y la fábrica de lana mientras afuera hiela."
           },
           "stops": [
             {
@@ -1923,7 +2109,8 @@
                 "de": "Winterreifen und Schneeketten sind hier oft gesetzlich Pflicht.",
                 "hu": "A téli gumi és a hólánc itt gyakran kötelező.",
                 "ro": "Anvelopele de iarnă și lanțurile sunt adesea obligatorii aici.",
-                "en": "Winter tires and snow chains are often legally required here."
+                "en": "Winter tires and snow chains are often legally required here.",
+                "es": "Aquí los neumáticos de invierno y las cadenas suelen ser obligatorios por ley."
               }
             },
             {
@@ -1932,7 +2119,8 @@
                 "de": "Heizen Sie das Auto vor, bevor Sie das Museum verlassen.",
                 "hu": "Melegítse elő az autót, mielőtt elhagyja a múzeumot.",
                 "ro": "Preîncălziți mașina înainte de a pleca de la muzeu.",
-                "en": "Pre-heat the car before leaving the museum."
+                "en": "Pre-heat the car before leaving the museum.",
+                "es": "Precalienta el coche antes de salir del museo."
               }
             },
             {
@@ -1941,7 +2129,8 @@
                 "de": "Parkplatzsuche kann bei Schneehaufen länger dauern.",
                 "hu": "A parkolóhely keresése a hókupacok miatt tovább tarthat.",
                 "ro": "Căutarea unui loc de parcare poate dura din cauza zăpezii.",
-                "en": "Finding a parking spot may take longer due to snow piles."
+                "en": "Finding a parking spot may take longer due to snow piles.",
+                "es": "Encontrar plaza puede tardar más debido a los montones de nieve."
               }
             },
             {
@@ -1950,7 +2139,8 @@
                 "de": "Genießen Sie den Blick auf die verschneiten Platanen.",
                 "hu": "Élvezze a kilátást a havas platánfákra.",
                 "ro": "Bucurați-vă de vederea platanilor înzăpeziți.",
-                "en": "Enjoy the view of the snow-laden plane trees from your window."
+                "en": "Enjoy the view of the snow-laden plane trees from your window.",
+                "es": "Disfruta de la vista de los plátanos cargados de nieve desde tu ventana."
               }
             },
             {
@@ -1959,7 +2149,8 @@
                 "de": "Achten Sie auf Eisplatten auf dem Parkplatz.",
                 "hu": "Vigyázzon a jégtáblákra a parkolóban.",
                 "ro": "Atenție la plăcile de gheață din parcare.",
-                "en": "Watch out for black ice patches in the parking area."
+                "en": "Watch out for black ice patches in the parking area.",
+                "es": "Cuidado con placas de hielo negro en la zona de aparcamiento."
               }
             },
             {
@@ -1968,7 +2159,8 @@
                 "de": "Die Abendbeleuchtung im Schnee ist vom Auto aus magisch.",
                 "hu": "Az esti kivilágítás a hóban az autóból varázslatos.",
                 "ro": "Iluminatul de seară în zăpadă este magic din mașină.",
-                "en": "The evening lights in the snow are magical from the car."
+                "en": "The evening lights in the snow are magical from the car.",
+                "es": "Las luces nocturnas sobre la nieve son mágicas desde el coche."
               }
             }
           ],
@@ -1996,6 +2188,12 @@
               "Keep de-icing spray and a snow scraper ready in the car.",
               "Avoid parking under steep roofs heavily loaded with snow.",
               "Mountain pass closures can occur; always have a backup plan."
+            ],
+            "es": [
+              "Consulta el estado de las carreteras a diario mediante las apps oficiales locales.",
+              "Lleva spray descongelante y un rascador de nieve en el coche.",
+              "Evita aparcar bajo tejados muy inclinados cargados de nieve.",
+              "Los cortes de puertos de montaña pueden ocurrir; ten siempre un plan alternativo."
             ]
           }
         }
@@ -2014,7 +2212,8 @@
             "de": "Busbahnhof Vielha",
             "hu": "Vielha buszpályaudvar",
             "ro": "Autogara Vielha",
-            "en": "Vielha Bus Station"
+            "en": "Vielha Bus Station",
+            "es": "Estación de autobuses de Vielha"
           },
           "coords": [
             0.7932,
@@ -2029,7 +2228,8 @@
             "de": "Ankunft mit ALSA-Bussen.",
             "hu": "Érkezés ALSA buszokkal.",
             "ro": "Sosire cu autobuzele ALSA.",
-            "en": "Arrival with ALSA buses."
+            "en": "Arrival with ALSA buses.",
+            "es": "Llegada con autobuses ALSA."
           }
         },
         {
@@ -2037,7 +2237,8 @@
             "de": "Kirche San Miguel",
             "hu": "San Miguel-templom",
             "ro": "Biserica San Miguel",
-            "en": "Church of San Miguel"
+            "en": "Church of San Miguel",
+            "es": "Iglesia de San Miguel"
           },
           "coords": [
             0.7955,
@@ -2052,7 +2253,8 @@
             "de": "Zentraler Orientierungspunkt.",
             "hu": "Központi tájékozódási pont.",
             "ro": "Punct central de orientare.",
-            "en": "Central orientation point."
+            "en": "Central orientation point.",
+            "es": "Punto central de orientación."
           }
         },
         {
@@ -2060,7 +2262,8 @@
             "de": "Aran-Tal Museum",
             "hu": "Aran-völgyi Múzeum",
             "ro": "Muzeul Văii Aran",
-            "en": "Aran Valley Museum"
+            "en": "Aran Valley Museum",
+            "es": "Museo del Valle de Arán"
           },
           "coords": [
             0.7942,
@@ -2075,7 +2278,8 @@
             "de": "Fußläufig gut erreichbar.",
             "hu": "Gyalogosan jól megközelíthető.",
             "ro": "Ușor accesibil pe jos.",
-            "en": "Easily accessible on foot."
+            "en": "Easily accessible on foot.",
+            "es": "Fácilmente accesible a pie."
           }
         },
         {
@@ -2083,7 +2287,8 @@
             "de": "Paseo de la Libertad",
             "hu": "Szabadság sétány",
             "ro": "Paseo de la Libertad",
-            "en": "Paseo de la Libertad"
+            "en": "Paseo de la Libertad",
+            "es": "Paseo de la Libertad"
           },
           "coords": [
             0.7945,
@@ -2098,7 +2303,8 @@
             "de": "Grüne Lunge im Zentrum.",
             "hu": "Zöld sziget a központban.",
             "ro": "Oază de verdeață în centru.",
-            "en": "Green oasis in the center."
+            "en": "Green oasis in the center.",
+            "es": "Oasis verde en el centro."
           }
         },
         {
@@ -2106,7 +2312,8 @@
             "de": "Altstadt von Vielha",
             "hu": "Vielha óvárosa",
             "ro": "Centrul vechi din Vielha",
-            "en": "Old Town of Vielha"
+            "en": "Old Town of Vielha",
+            "es": "Casco antiguo de Vielha"
           },
           "coords": [
             0.7962,
@@ -2121,7 +2328,8 @@
             "de": "Ideal für ein Abendgetränk.",
             "hu": "Ideális egy esti italhoz.",
             "ro": "Ideal pentru o băutură seara.",
-            "en": "Ideal for an evening drink."
+            "en": "Ideal for an evening drink.",
+            "es": "Ideal para una copa por la noche."
           }
         },
         {
@@ -2129,7 +2337,8 @@
             "de": "Kulturzentrum Era Audiovisuau",
             "hu": "Era Audiovisuau kulturális központ",
             "ro": "Centrul cultural Era Audiovisuau",
-            "en": "Era Audiovisuau Cultural Centre"
+            "en": "Era Audiovisuau Cultural Centre",
+            "es": "Centro Cultural Era Audiovisuau"
           },
           "coords": [
             0.7935,
@@ -2144,7 +2353,8 @@
             "de": "Nahe beim Busbahnhof.",
             "hu": "Közel a buszpályaudvarhoz.",
             "ro": "Aproape de autogară.",
-            "en": "Close to the bus station."
+            "en": "Close to the bus station.",
+            "es": "Cerca de la estación de autobuses."
           }
         }
       ],
@@ -2152,7 +2362,8 @@
         "de": "Nach der Ankunft am Busbahnhof starten Sie Ihre Stadterkundung in der Kirche San Miguel. Das Aran-Tal Museum bietet Ihnen danach tiefe Einblicke in die lokale Kultur. Mittags entspannen Sie am Paseo de la Libertad, bevor Sie den Nachmittag in den Gassen der Altstadt bei Tapas und Wein genießen. Ein Besuch im Era Audiovisuau bildet den kulturellen Abschluss, bevor der Bus Sie wieder abholt.",
         "hu": "A buszpályaudvarra való érkezés után kezdje a városnézést a San Miguel-templomban. Az Aran-völgyi Múzeum mély betekintést nyújt a helyi kultúrába. Délben a Szabadság sétányon pihenhet, majd a délutánt az óváros utcáin tölti tapas és bor társaságában. Az Era Audiovisuau megtekintése zárja a programot a busz indulása előtt.",
         "ro": "După sosirea la autogară, începeți explorarea orașului la biserica San Miguel. Muzeul Văii Aran vă oferă apoi o perspectivă profundă asupra culturii locale. La prânz relaxați-vă pe Paseo de la Libertad, înainte de a vă bucura de după-amiază pe străzile centrului vechi cu tapas și vin. O vizită la Era Audiovisuau încheie programul înainte de plecarea autobuzului.",
-        "en": "After arriving at the bus station, start your city tour at San Miguel Church. The Aran Valley Museum then offers deep insights into local culture. At noon, relax on the Paseo de la Libertad before enjoying the afternoon in the old town streets with tapas and wine. A visit to Era Audiovisuau concludes the program before the bus departs."
+        "en": "After arriving at the bus station, start your city tour at San Miguel Church. The Aran Valley Museum then offers deep insights into local culture. At noon, relax on the Paseo de la Libertad before enjoying the afternoon in the old town streets with tapas and wine. A visit to Era Audiovisuau concludes the program before the bus departs.",
+        "es": "Tras llegar a la estación de autobuses, comienza la visita en la iglesia de San Miguel. El Museo del Valle de Arán ofrece luego una profunda inmersión en la cultura local. Al mediodía, relájate en el Paseo de la Libertad antes de disfrutar la tarde en las calles del casco antiguo con tapas y vino. Una visita a Era Audiovisuau concluye el programa antes de la salida del autobús."
       },
       "gastro_picks": {
         "de": [
@@ -2260,6 +2471,12 @@
           "Schedules are posted at the bus station.",
           "Tickets can often be bought from the driver.",
           "The town is compact and easily walkable."
+        ],
+        "es": [
+          "Usa el 'Bus d'Aran' local para moverte por el valle.",
+          "Los horarios están publicados en la estación de autobuses.",
+          "Los billetes a menudo se pueden comprar al conductor.",
+          "El pueblo es compacto y fácilmente recorrible a pie."
         ]
       },
       "variants": {
@@ -2268,7 +2485,8 @@
             "de": "Nach der Ankunft am Busbahnhof starten Sie Ihre Stadterkundung in der Kirche San Miguel. Das Aran-Tal Museum bietet Ihnen danach tiefe Einblicke in die lokale Kultur. Mittags entspannen Sie am Paseo de la Libertad, bevor Sie den Nachmittag in den Gassen der Altstadt bei Tapas und Wein genießen. Ein Besuch im Era Audiovisuau bildet den kulturellen Abschluss, bevor der Bus Sie wieder abholt.",
             "hu": "A buszpályaudvarra való érkezés után kezdje a városnézést a San Miguel-templomban. Az Aran-völgyi Múzeum mély betekintést nyújt a helyi kultúrába. Délben a Szabadság sétányon pihenhet, majd a délutánt az óváros utcáin tölti tapas és bor társaságában. Az Era Audiovisuau megtekintése zárja a programot a busz indulása előtt.",
             "ro": "După sosirea la autogară, începeți explorarea orașului la biserica San Miguel. Muzeul Văii Aran vă oferă apoi o perspectivă profundă asupra culturii locale. La prânz relaxați-vă pe Paseo de la Libertad, înainte de a vă bucura de după-amiază pe străzile centrului vechi cu tapas și vin. O vizită la Era Audiovisuau încheie programul înainte de plecarea autobuzului.",
-            "en": "After arriving at the bus station, start your city tour at San Miguel Church. The Aran Valley Museum then offers deep insights into local culture. At noon, relax on the Paseo de la Libertad before enjoying the afternoon in the old town streets with tapas and wine. A visit to Era Audiovisuau concludes the program before the bus departs."
+            "en": "After arriving at the bus station, start your city tour at San Miguel Church. The Aran Valley Museum then offers deep insights into local culture. At noon, relax on the Paseo de la Libertad before enjoying the afternoon in the old town streets with tapas and wine. A visit to Era Audiovisuau concludes the program before the bus departs.",
+            "es": "Tras llegar a la estación de autobuses, comienza la visita en la iglesia de San Miguel. El Museo del Valle de Arán ofrece luego una profunda inmersión en la cultura local. Al mediodía, relájate en el Paseo de la Libertad antes de disfrutar la tarde en las calles del casco antiguo con tapas y vino. Una visita a Era Audiovisuau concluye el programa antes de la salida del autobús."
           },
           "stops": [
             {
@@ -2276,13 +2494,15 @@
                 "de": "Busbahnhof Vielha",
                 "hu": "Vielha buszpályaudvar",
                 "ro": "Autogara Vielha",
-                "en": "Vielha Bus Station"
+                "en": "Vielha Bus Station",
+                "es": "Estación de autobuses de Vielha"
               },
               "tip_5lang": {
                 "de": "Ankunft mit ALSA-Bussen.",
                 "hu": "Érkezés ALSA buszokkal.",
                 "ro": "Sosire cu autobuzele ALSA.",
-                "en": "Arrival with ALSA buses."
+                "en": "Arrival with ALSA buses.",
+                "es": "Llegada con autobuses ALSA."
               }
             },
             {
@@ -2290,13 +2510,15 @@
                 "de": "Kirche San Miguel",
                 "hu": "San Miguel-templom",
                 "ro": "Biserica San Miguel",
-                "en": "Church of San Miguel"
+                "en": "Church of San Miguel",
+                "es": "Iglesia de San Miguel"
               },
               "tip_5lang": {
                 "de": "Zentraler Orientierungspunkt.",
                 "hu": "Központi tájékozódási pont.",
                 "ro": "Punct central de orientare.",
-                "en": "Central orientation point."
+                "en": "Central orientation point.",
+                "es": "Punto central de orientación."
               }
             },
             {
@@ -2304,13 +2526,15 @@
                 "de": "Aran-Tal Museum",
                 "hu": "Aran-völgyi Múzeum",
                 "ro": "Muzeul Văii Aran",
-                "en": "Aran Valley Museum"
+                "en": "Aran Valley Museum",
+                "es": "Museo del Valle de Arán"
               },
               "tip_5lang": {
                 "de": "Fußläufig gut erreichbar.",
                 "hu": "Gyalogosan jól megközelíthető.",
                 "ro": "Ușor accesibil pe jos.",
-                "en": "Easily accessible on foot."
+                "en": "Easily accessible on foot.",
+                "es": "Fácilmente accesible a pie."
               }
             },
             {
@@ -2318,13 +2542,15 @@
                 "de": "Paseo de la Libertad",
                 "hu": "Szabadság sétány",
                 "ro": "Paseo de la Libertad",
-                "en": "Paseo de la Libertad"
+                "en": "Paseo de la Libertad",
+                "es": "Paseo de la Libertad"
               },
               "tip_5lang": {
                 "de": "Grüne Lunge im Zentrum.",
                 "hu": "Zöld sziget a központban.",
                 "ro": "Oază de verdeață în centru.",
-                "en": "Green oasis in the center."
+                "en": "Green oasis in the center.",
+                "es": "Oasis verde en el centro."
               }
             },
             {
@@ -2332,13 +2558,15 @@
                 "de": "Altstadt von Vielha",
                 "hu": "Vielha óvárosa",
                 "ro": "Centrul vechi din Vielha",
-                "en": "Old Town of Vielha"
+                "en": "Old Town of Vielha",
+                "es": "Casco antiguo de Vielha"
               },
               "tip_5lang": {
                 "de": "Ideal für ein Abendgetränk.",
                 "hu": "Ideális egy esti italhoz.",
                 "ro": "Ideal pentru o băutură seara.",
-                "en": "Ideal for an evening drink."
+                "en": "Ideal for an evening drink.",
+                "es": "Ideal para una copa por la noche."
               }
             },
             {
@@ -2346,13 +2574,15 @@
                 "de": "Kulturzentrum Era Audiovisuau",
                 "hu": "Era Audiovisuau kulturális központ",
                 "ro": "Centrul cultural Era Audiovisuau",
-                "en": "Era Audiovisuau Cultural Centre"
+                "en": "Era Audiovisuau Cultural Centre",
+                "es": "Centro Cultural Era Audiovisuau"
               },
               "tip_5lang": {
                 "de": "Nahe beim Busbahnhof.",
                 "hu": "Közel a buszpályaudvarhoz.",
                 "ro": "Aproape de autogară.",
-                "en": "Close to the bus station."
+                "en": "Close to the bus station.",
+                "es": "Cerca de la estación de autobuses."
               }
             }
           ],
@@ -2462,6 +2692,12 @@
               "Schedules are posted at the bus station.",
               "Tickets can often be bought from the driver.",
               "The town is compact and easily walkable."
+            ],
+            "es": [
+              "Usa el 'Bus d'Aran' local para moverte por el valle.",
+              "Los horarios están publicados en la estación de autobuses.",
+              "Los billetes a menudo se pueden comprar al conductor.",
+              "El pueblo es compacto y fácilmente recorrible a pie."
             ]
           }
         },
@@ -2470,7 +2706,8 @@
             "de": "Die Busstation Vielha ist der perfekte Startpunkt, um trocken ins Zentrum zu kommen. Zwischen den Haltestellen nutzen wir die kurzen Wege zur Kirche und zum Museum. Das Museum bietet stundenlangen Schutz vor dem Regen. Da die Busse regelmäßig verkehren, lässt sich der Tag auch bei schlechtem Wetter effizient und komfortabel gestalten.",
             "hu": "A vielhai buszpályaudvar tökéletes kezdőpont a száraz bejutáshoz a központba. A megállók között rövid sétával elérhető a templom és a múzeum. A múzeum órákig tartó védelmet nyújt az eső elől. Mivel a buszok rendszeresen járnak, a nap rossz időben is hatékonyan és kényelmesen alakítható.",
             "ro": "Autogara din Vielha este punctul perfect de plecare pentru a ajunge uscat în centru. Între stații, distanțele sunt mici spre biserică și muzeu. Muzeul oferă adăpost împotriva ploii timp de câteva ore. Deoarece autobuzele circulă regulat, ziua poate fi organizată eficient și confortabil.",
-            "en": "Vielha Bus Station is the perfect starting point to reach the center while staying dry. The short walks between stops lead directly to the church and museum. The museum offers hours of shelter from the downpour. With regular bus schedules, your day remains efficient and comfortable even in poor weather."
+            "en": "Vielha Bus Station is the perfect starting point to reach the center while staying dry. The short walks between stops lead directly to the church and museum. The museum offers hours of shelter from the downpour. With regular bus schedules, your day remains efficient and comfortable even in poor weather.",
+            "es": "La estación de autobuses de Vielha es el punto perfecto para llegar al centro y mantenerse seco. Los cortos paseos entre paradas llevan directamente a la iglesia y al museo. El museo ofrece horas de refugio frente al chaparrón. Con horarios regulares de autobús, tu día sigue siendo eficiente y cómodo incluso con mal tiempo."
           },
           "stops": [
             {
@@ -2479,7 +2716,8 @@
                 "de": "Warten Sie im überdachten Bereich auf Ihren Anschluss.",
                 "hu": "Várjon a fedett részben a csatlakozásra.",
                 "ro": "Așteptați în zona acoperită pentru legătură.",
-                "en": "Wait in the covered area for your connection."
+                "en": "Wait in the covered area for your connection.",
+                "es": "Espera en la zona cubierta para tu conexión."
               }
             },
             {
@@ -2488,7 +2726,8 @@
                 "de": "Die Haltestelle ist nur wenige Schritte vom Eingang entfernt.",
                 "hu": "A megálló csak néhány lépésre van a bejárattól.",
                 "ro": "Stația este la doar câțiva pași de intrare.",
-                "en": "The bus stop is just a few steps away from the entrance."
+                "en": "The bus stop is just a few steps away from the entrance.",
+                "es": "La parada de autobús está a pocos pasos de la entrada."
               }
             },
             {
@@ -2497,7 +2736,8 @@
                 "de": "Nutzen Sie den Bus, um das Laufen im Regen zu minimieren.",
                 "hu": "Használja a buszt, hogy minimálisra csökkentse az esőben gyaloglást.",
                 "ro": "Folosiți autobuzul pentru a minimiza mersul prin ploaie.",
-                "en": "Use the bus to minimize walking in the rain."
+                "en": "Use the bus to minimize walking in the rain.",
+                "es": "Usa el autobús para minimizar caminar bajo la lluvia."
               }
             },
             {
@@ -2506,7 +2746,8 @@
                 "de": "Stellen Sie sich bei Schauern unter die Bushaltestelle.",
                 "hu": "Zápor esetén húzódjon be a buszmegállóba.",
                 "ro": "Adăpostiți-vă în stația de autobuz în caz de aversă.",
-                "en": "Take cover in the bus shelter during heavy showers."
+                "en": "Take cover in the bus shelter during heavy showers.",
+                "es": "Refúgiate en la marquesina durante chaparrones intensos."
               }
             },
             {
@@ -2515,7 +2756,8 @@
                 "de": "Vom Bus aus hat man einen guten Blick auf das Treiben.",
                 "hu": "A buszról jól látható az óvárosi nyüzsgés.",
                 "ro": "Din autobuz aveți o vedere bună asupra forfotei.",
-                "en": "The bus window offers a great view of the town's activity."
+                "en": "The bus window offers a great view of the town's activity.",
+                "es": "La ventana del autobús ofrece una buena vista de la actividad del pueblo."
               }
             },
             {
@@ -2524,7 +2766,8 @@
                 "de": "Prüfen Sie die Abfahrtszeiten für den Rückweg im Trockenen.",
                 "hu": "Ellenőrizze az indulást a száraz hazajutáshoz.",
                 "ro": "Verificați orele de plecare pentru întoarcerea la uscat.",
-                "en": "Check the departure times for a dry return trip."
+                "en": "Check the departure times for a dry return trip.",
+                "es": "Consulta las horas de salida para un regreso seco."
               }
             }
           ],
@@ -2552,6 +2795,12 @@
               "Buses can be crowded during rain, allow extra travel time.",
               "Most bus stops have small shelters to keep you dry.",
               "Check for holiday schedules which may differ on rainy days."
+            ],
+            "es": [
+              "Compra billetes por adelantado o usa pago contactless si está disponible.",
+              "Los autobuses pueden llenarse cuando llueve; permite tiempo extra de viaje.",
+              "La mayoría de paradas tienen pequeñas marquesinas para mantenerte seco.",
+              "Comprueba los horarios de festivos, que pueden variar en días de lluvia."
             ]
           }
         },
@@ -2560,7 +2809,8 @@
             "de": "Im Winter sind die Busse in Vielha gut beheizt und bieten eine sichere Alternative zu glatten Straßen. Die Route verbindet die wichtigsten kulturellen Highlights wie die Kirche und das Museum. Da es früh dunkel wird, ist der Transfer zum Kulturzentrum am Nachmittag ideal. Genießen Sie die verschneite Landschaft gemütlich durch das Busfenster.",
             "hu": "Télen a vielhai buszok jól fűtöttek, és biztonságos alternatívát jelentenek a csúszós utakon. Az útvonal összeköti a legfontosabb kulturális pontokat. Mivel korán sötétedik, a délutáni transzfer a kulturális központba ideális. Élvezze a havas tájat kényelmesen a busz ablakából.",
             "ro": "Iarna, autobuzele din Vielha sunt bine încălzite și oferă o alternativă sigură la drumurile alunecoase. Traseul leagă principalele puncte culturale. Deoarece se întunecă devreme, transferul de după-amiază spre centrul cultural este ideal. Admirați peisajul înzăpezit de la geamul autobuzului.",
-            "en": "In winter, Vielha's buses are well-heated and offer a safe alternative to icy roads. The route connects all major cultural highlights like the church and museum. As darkness falls early, the afternoon transfer to the cultural centre is ideal. Enjoy the snowy mountain scenery comfortably through the bus window."
+            "en": "In winter, Vielha's buses are well-heated and offer a safe alternative to icy roads. The route connects all major cultural highlights like the church and museum. As darkness falls early, the afternoon transfer to the cultural centre is ideal. Enjoy the snowy mountain scenery comfortably through the bus window.",
+            "es": "En invierno, los autobuses de Vielha están bien calefactados y son una alternativa segura a carreteras heladas. La ruta conecta los principales puntos culturales como la iglesia y el museo. Al oscurecer pronto, el traslado de la tarde al centro cultural es ideal. Disfruta del paisaje nevado cómodamente desde la ventana del autobús."
           },
           "stops": [
             {
@@ -2569,7 +2819,8 @@
                 "de": "Der Warteraum ist meist beheizt – nutzen Sie ihn.",
                 "hu": "A váróterem általában fűtött – használja ki.",
                 "ro": "Sala de așteptare este de obicei încălzită – folosiți-o.",
-                "en": "The waiting room is usually heated – make use of it."
+                "en": "The waiting room is usually heated – make use of it.",
+                "es": "La sala de espera suele estar calefactada: aprovéchala."
               }
             },
             {
@@ -2578,7 +2829,8 @@
                 "de": "Vorsicht beim Aussteigen auf eventuelle Eisplatten.",
                 "hu": "Vigyázzon leszálláskor az esetleges jégfoltokra.",
                 "ro": "Atenție la coborâre la eventualele porțiuni cu gheață.",
-                "en": "Watch your step for ice when disembarking the bus."
+                "en": "Watch your step for ice when disembarking the bus.",
+                "es": "Cuidado con el hielo al bajar del autobús."
               }
             },
             {
@@ -2587,7 +2839,8 @@
                 "de": "Kurzer Fußweg vom Bus, halten Sie sich an den Geländern fest.",
                 "hu": "Rövid séta a busztól, kapaszkodjon a korlátokba.",
                 "ro": "Scurtă plimbare de la autobuz, folosiți balustradele.",
-                "en": "Short walk from the bus; use handrails if available."
+                "en": "Short walk from the bus; use handrails if available.",
+                "es": "Corta caminata desde el autobús; usa pasamanos si hay."
               }
             },
             {
@@ -2596,7 +2849,8 @@
                 "de": "Toller Blick auf den winterlichen Park im Vorbeifahren.",
                 "hu": "Remek kilátás a téli parkra elhaladás közben.",
                 "ro": "Vedere superbă asupra parcului hibernal din mers.",
-                "en": "Great view of the winter park as the bus passes by."
+                "en": "Great view of the winter park as the bus passes by.",
+                "es": "Buena vista del parque invernal al pasar en autobús."
               }
             },
             {
@@ -2605,7 +2859,8 @@
                 "de": "Die Haltestellen sind gut beleuchtet, ideal für den Winter.",
                 "hu": "A megállók jól kivilágítottak, ideálisak télre.",
                 "ro": "Stațiile sunt bine iluminate, ideale pentru iarnă.",
-                "en": "Bus stops are well-lit, making them ideal for winter evenings."
+                "en": "Bus stops are well-lit, making them ideal for winter evenings.",
+                "es": "Las paradas están bien iluminadas, ideales para noches invernales."
               }
             },
             {
@@ -2614,7 +2869,8 @@
                 "de": "Perfekt erreichbar, auch wenn die Gehwege glatt sind.",
                 "hu": "Tökéletesen elérhető akkor is, ha a járdák csúszósak.",
                 "ro": "Perfect accesibil, chiar dacă trotuarele sunt alunecoase.",
-                "en": "Easily accessible even when the sidewalks are slippery."
+                "en": "Easily accessible even when the sidewalks are slippery.",
+                "es": "Accesible incluso cuando las aceras están resbaladizas."
               }
             }
           ],
@@ -2642,6 +2898,12 @@
               "Wear high-traction footwear for the walk to the bus stop.",
               "Bus heating can be intense, so dress in removable layers.",
               "Fewer buses run in the evening; double-check the late schedule."
+            ],
+            "es": [
+              "Los autobuses pueden sufrir retrasos con fuertes nevadas.",
+              "Lleva calzado con buena tracción para la caminata hasta la parada.",
+              "La calefacción del autobús puede ser intensa, viste en capas removibles.",
+              "Hay menos autobuses por la noche; verifica el horario nocturno."
             ]
           }
         }
@@ -2656,19 +2918,22 @@
       "de": "Im Val d'Aran wird Aranesisch (eine okzitanische Sprache) als Amtssprache gesprochen, daneben Katalanisch, Spanisch und in Skigebieten viel Französisch und Englisch. Höflich ist ein 'plan plan' (vielen Dank auf Aranesisch). 'Tuca' bedeutet Gipfel, 'estanh' Bergsee.",
       "hu": "A Val d'Aran hivatalos nyelve az aranéz (okcitán nyelvjárás), de beszélnek katalánul, spanyolul, és a síterepeken bőven franciául és angolul is. Egy 'plan plan' (köszönöm aranézül) udvariasan hangzik. A 'tuca' csúcsot, az 'estanh' tengerszemet jelent.",
       "ro": "În Val d'Aran limba oficială este aranesa (un dialect occitan), pe lângă catalană, spaniolă și, în stațiunile de schi, mult franceză și engleză. Un 'plan plan' (mulțumesc în araneză) sună politicos. 'Tuca' = vârf, 'estanh' = lac de munte.",
-      "en": "Val d'Aran's official language is Aranese (an Occitan variety), alongside Catalan, Spanish and, in ski areas, plenty of French and English. A polite 'plan plan' means 'thank you' in Aranese. 'Tuca' is peak and 'estanh' is mountain lake."
+      "en": "Val d'Aran's official language is Aranese (an Occitan variety), alongside Catalan, Spanish and, in ski areas, plenty of French and English. A polite 'plan plan' means 'thank you' in Aranese. 'Tuca' is peak and 'estanh' is mountain lake.",
+      "es": "La lengua oficial del Val d'Aran es el aranés (variedad del occitano), junto al catalán, el español y, en zonas de esquí, abundante francés e inglés. Un educado 'plan plan' significa 'gracias' en aranés. 'Tuca' es pico y 'estanh' es lago de montaña."
     },
     "best_time_to_visit": {
       "de": "Dezember bis April für Baqueira-Beret-Skifahren, Juli bis September für Wandern und Bergseen. Mai und November sind 'Zwischensaison' und vieles geschlossen. Im August Vorbuchung dringend nötig, dann sind Hotels in Vielha schnell ausgebucht.",
       "hu": "Decembertől áprilisig Baqueira-Beretre, júliustól szeptemberig túrázni és tengerszemeket nézni. Május és november köztes szezon, sok minden zárva. Augusztusban előfoglalás kötelező, mert a vielhai szállodák gyorsan megtelnek.",
       "ro": "Decembrie-aprilie pentru schi la Baqueira-Beret, iulie-septembrie pentru drumeții și lacuri alpine. Mai și noiembrie sunt extrasezon, multe închise. În august rezervările sunt obligatorii, hotelurile din Vielha se umplu repede.",
-      "en": "December to April for Baqueira-Beret skiing, July to September for hiking and alpine lakes. May and November are shoulder seasons with many closures. Book well ahead for August, when Vielha's hotels sell out fast."
+      "en": "December to April for Baqueira-Beret skiing, July to September for hiking and alpine lakes. May and November are shoulder seasons with many closures. Book well ahead for August, when Vielha's hotels sell out fast.",
+      "es": "De diciembre a abril para esquí en Baqueira-Beret; de julio a septiembre para senderismo y lagos alpinos. Mayo y noviembre son temporada baja con muchos cierres. Reserva con antelación para agosto, cuando los hoteles de Vielha se agotan rápido."
     },
     "neighborhood_warnings": {
       "de": "Vielha selbst ist sehr sicher, die Hauptgefahren liegen am Berg: plötzliche Wetterwechsel, Lawinengefahr abseits der Pisten und der Vielha-Tunnel kann bei Schneeketten-Pflicht für Staus sorgen. Im Sommer auf rutschige Granitfelsen an Wasserfällen achten.",
       "hu": "Maga Vielha nagyon biztonságos, a veszély a hegyekben van: hirtelen időjárás-változás, pályán kívüli lavinaveszély, és a Vielha-alagútnál hólánc-kötelezettség idején torlódás. Nyáron a vízesések melletti csúszós gránitszikláknál legyél óvatos.",
       "ro": "Vielha în sine e foarte sigur, pericolele apar la munte: schimbări bruște de vreme, risc de avalanșe în afara pârtiilor, iar tunelul Vielha poate genera aglomerație când e nevoie de lanțuri. Vara, atenție la stâncile de granit alunecoase de la cascade.",
-      "en": "Vielha itself is very safe; the real risks are alpine: rapid weather changes, avalanche danger off-piste, and Vielha tunnel queues whenever chain rules kick in. In summer, watch for slippery granite slabs around waterfalls."
+      "en": "Vielha itself is very safe; the real risks are alpine: rapid weather changes, avalanche danger off-piste, and Vielha tunnel queues whenever chain rules kick in. In summer, watch for slippery granite slabs around waterfalls.",
+      "es": "Vielha en sí es muy segura; los riesgos reales son alpinos: cambios rápidos de tiempo, peligro de avalanchas fuera de pista y colas en el túnel de Vielha cuando se exigen cadenas. En verano, vigila las losas de granito resbaladizas alrededor de las cascadas."
     }
   }
 }

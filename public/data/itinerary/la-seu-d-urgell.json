@@ -21,7 +21,8 @@
             "de": "Calle Mayor",
             "hu": "Fő utca (Calle Mayor)",
             "ro": "Calle Mayor",
-            "en": "Calle Mayor"
+            "en": "Calle Mayor",
+            "es": "Calle Mayor"
           },
           "coords": [
             1.4612,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die mittelalterlichen Arkaden.",
             "hu": "Csodálja meg a középkori árkádokat.",
             "ro": "Admirați arcadele medievale.",
-            "en": "Admire the medieval arcades."
+            "en": "Admire the medieval arcades.",
+            "es": "Admire los soportales medievales."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kathedrale Santa Maria d'Urgell",
             "hu": "Santa Maria d'Urgell katedrális",
             "ro": "Catedrala Santa Maria d'Urgell",
-            "en": "Cathedral of Santa Maria d'Urgell"
+            "en": "Cathedral of Santa Maria d'Urgell",
+            "es": "Catedral de Santa María de Urgell"
           },
           "coords": [
             1.4618,
@@ -59,7 +62,8 @@
             "de": "Einzige vollständig romanische Kathedrale Kataloniens.",
             "hu": "Katalónia egyetlen épen maradt román stílusú katedrálisa.",
             "ro": "Singura catedrală complet romanică din Catalonia.",
-            "en": "The only fully Romanesque cathedral in Catalonia."
+            "en": "The only fully Romanesque cathedral in Catalonia.",
+            "es": "La única catedral plenamente románica en Cataluña."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kreuzgang der Kathedrale",
             "hu": "A katedrális kolostora",
             "ro": "Claustrul Catedralei",
-            "en": "Cloister of the Cathedral"
+            "en": "Cloister of the Cathedral",
+            "es": "Claustro de la Catedral"
           },
           "coords": [
             1.4615,
@@ -82,7 +87,8 @@
             "de": "Achten Sie auf die Kapitelle mit bizarren Figuren.",
             "hu": "Figyelje meg a különös figurákkal díszített oszlopfőket.",
             "ro": "Observați capitelurile cu figuri bizare.",
-            "en": "Look for the capitals decorated with bizarre figures."
+            "en": "Look for the capitals decorated with bizarre figures.",
+            "es": "Busque las capiteles decoradas con figuras extrañas."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Diözesanmuseum von Urgell",
             "hu": "Urgelli Egyházmegyei Múzeum",
             "ro": "Muzeul Diecezan din Urgell",
-            "en": "Diocesan Museum of Urgell"
+            "en": "Diocesan Museum of Urgell",
+            "es": "Museo Diocesano de Urgell"
           },
           "coords": [
             1.4621,
@@ -105,7 +112,8 @@
             "de": "Beherbergt den wertvollen Beatus-Kodex.",
             "hu": "Itt őrzik az értékes Beatus-kódexet.",
             "ro": "Găzduiește prețiosul codice Beatus.",
-            "en": "Home to the precious Beatus codex."
+            "en": "Home to the precious Beatus codex.",
+            "es": "Guarda el precioso códice de los Beatos."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Segre-Park (Parc del Segre)",
             "hu": "Segre Park",
             "ro": "Parcul Segre",
-            "en": "Segre Park"
+            "en": "Segre Park",
+            "es": "Parque del Segre"
           },
           "coords": [
             1.4655,
@@ -128,7 +137,8 @@
             "de": "Olympiastätte für Kanuslalom von 1992.",
             "hu": "Az 1992-es olimpia vadvízi kajak-kenu helyszíne.",
             "ro": "Locație olimpică pentru canoe slalom din 1992.",
-            "en": "Olympic venue for canoe slalom from 1992."
+            "en": "Olympic venue for canoe slalom from 1992.",
+            "es": "Sede olímpica de descenso de piragüismo en 1992."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Kirche San Miguel",
             "hu": "San Miguel templom",
             "ro": "Biserica San Miguel",
-            "en": "San Miguel Church"
+            "en": "San Miguel Church",
+            "es": "Iglesia de San Miguel"
           },
           "coords": [
             1.4625,
@@ -151,7 +162,8 @@
             "de": "Kleine romanische Kirche neben der Kathedrale.",
             "hu": "Apró román stílusú templom a katedrális mellett.",
             "ro": "Mică biserică romanică lângă catedrală.",
-            "en": "Small Romanesque church next to the cathedral."
+            "en": "Small Romanesque church next to the cathedral.",
+            "es": "Pequeña iglesia románica junto a la catedral."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag in den mittelalterlichen Gassen der Altstadt und bewundern Sie die Calle Mayor. Der Vormittag steht ganz im Zeichen der beeindruckenden Kathedrale und ihres Kreuzgangs.\n\nMittags genießen Sie lokale Spezialitäten in einem der Restaurants im Zentrum, bevor Sie das Diözesanmuseum mit seinen religiösen Schätzen besuchen.\n\nDer Nachmittag bietet sportliche Atmosphäre im Segre-Park, wo Sie am Fluss spazieren oder die olympischen Kanäle beobachten können.\n\nLassen Sie den Tag mit einem ruhigen Besuch der San Miguel Kirche und einem letzten Blick auf die Pyrenäen-Silhouette ausklingen.",
         "hu": "Kezdje a napot az óváros középkori utcáin, megcsodálva a Calle Mayort. A délelőtt a lenyűgöző katedrális és annak kolostora jegyében telik.\n\nEbédre kóstoljon helyi specialitásokat a központ egyik éttermében, majd látogasson el az Egyházmegyei Múzeumba, ahol vallási kincseket láthat.\n\nA délután sportos hangulatot kínál a Segre Parkban, ahol a folyó mentén sétálhat vagy az olimpiai csatornákat figyelheti.\n\nZárja a napot a San Miguel templom csendes meglátogatásával és egy utolsó pillantással a Pireneusok vonulataira.",
         "ro": "Începeți ziua pe străzile medievale ale centrului vechi, admirând Calle Mayor. Dimineața este dedicată impresionantei catedrale și claustrului său.\n\nLa prânz, savurați specialități locale într-unul dintre restaurantele din centru, înainte de a vizita Muzeul Diecezan cu comorile sale religioase.\n\nDupă-amiaza oferă o atmosferă sportivă în Parcul Segre, unde vă puteți plimba pe malul râului sau puteți observa canalele olimpice.\n\nÎncheiați ziua cu o vizită liniștită la biserica San Miguel și o ultimă privire asupra siluetei Pirineilor.",
-        "en": "Start your day in the medieval streets of the old town, admiring Calle Mayor. The morning is dedicated to the impressive cathedral and its cloister.\n\nAt lunch, enjoy local specialties in one of the central restaurants before visiting the Diocesan Museum and its religious treasures.\n\nIn the afternoon, enjoy a sporty atmosphere at Segre Park, where you can walk along the river or watch the Olympic channels.\n\nEnd the day with a quiet visit to San Miguel Church and a final look at the Pyrenees skyline."
+        "en": "Start your day in the medieval streets of the old town, admiring Calle Mayor. The morning is dedicated to the impressive cathedral and its cloister.\n\nAt lunch, enjoy local specialties in one of the central restaurants before visiting the Diocesan Museum and its religious treasures.\n\nIn the afternoon, enjoy a sporty atmosphere at Segre Park, where you can walk along the river or watch the Olympic channels.\n\nEnd the day with a quiet visit to San Miguel Church and a final look at the Pyrenees skyline.",
+        "es": "Comience el día en las calles medievales del casco antiguo, admirando la Calle Mayor. La mañana está dedicada a la impresionante catedral y su claustro.\n\nA mediodía, disfrute de las especialidades locales en uno de los restaurantes del centro antes de visitar el Museo Diocesano y sus tesoros religiosos.\n\nPor la tarde, disfrute del ambiente deportivo en el Parque del Segre, donde puede pasear junto al río o ver los canales olímpicos.\n\nTermine el día con una visita tranquila a la Iglesia de San Miguel y una última mirada al perfil de los Pirineos."
       },
       "gastro_picks": {
         "de": [
@@ -307,6 +320,13 @@
           "Combine the museum visit with the cathedral.",
           "The park is ideal for a break in the shade.",
           "On Saturdays, the market is particularly lively."
+        ],
+        "es": [
+          "Use calzado cómodo para las calles empedradas.",
+          "Visite la catedral temprano para evitar aglomeraciones.",
+          "Combine la visita al museo con la de la catedral.",
+          "El parque es ideal para un descanso a la sombra.",
+          "Los sábados el mercado está especialmente animado."
         ]
       },
       "variants": {
@@ -315,7 +335,8 @@
             "de": "Beginnen Sie Ihren Tag in den mittelalterlichen Gassen der Altstadt und bewundern Sie die Calle Mayor. Der Vormittag steht ganz im Zeichen der beeindruckenden Kathedrale und ihres Kreuzgangs.\n\nMittags genießen Sie lokale Spezialitäten in einem der Restaurants im Zentrum, bevor Sie das Diözesanmuseum mit seinen religiösen Schätzen besuchen.\n\nDer Nachmittag bietet sportliche Atmosphäre im Segre-Park, wo Sie am Fluss spazieren oder die olympischen Kanäle beobachten können.\n\nLassen Sie den Tag mit einem ruhigen Besuch der San Miguel Kirche und einem letzten Blick auf die Pyrenäen-Silhouette ausklingen.",
             "hu": "Kezdje a napot az óváros középkori utcáin, megcsodálva a Calle Mayort. A délelőtt a lenyűgöző katedrális és annak kolostora jegyében telik.\n\nEbédre kóstoljon helyi specialitásokat a központ egyik éttermében, majd látogasson el az Egyházmegyei Múzeumba, ahol vallási kincseket láthat.\n\nA délután sportos hangulatot kínál a Segre Parkban, ahol a folyó mentén sétálhat vagy az olimpiai csatornákat figyelheti.\n\nZárja a napot a San Miguel templom csendes meglátogatásával és egy utolsó pillantással a Pireneusok vonulataira.",
             "ro": "Începeți ziua pe străzile medievale ale centrului vechi, admirând Calle Mayor. Dimineața este dedicată impresionantei catedrale și claustrului său.\n\nLa prânz, savurați specialități locale într-unul dintre restaurantele din centru, înainte de a vizita Muzeul Diecezan cu comorile sale religioase.\n\nDupă-amiaza oferă o atmosferă sportivă în Parcul Segre, unde vă puteți plimba pe malul râului sau puteți observa canalele olimpice.\n\nÎncheiați ziua cu o vizită liniștită la biserica San Miguel și o ultimă privire asupra siluetei Pirineilor.",
-            "en": "Start your day in the medieval streets of the old town, admiring Calle Mayor. The morning is dedicated to the impressive cathedral and its cloister.\n\nAt lunch, enjoy local specialties in one of the central restaurants before visiting the Diocesan Museum and its religious treasures.\n\nIn the afternoon, enjoy a sporty atmosphere at Segre Park, where you can walk along the river or watch the Olympic channels.\n\nEnd the day with a quiet visit to San Miguel Church and a final look at the Pyrenees skyline."
+            "en": "Start your day in the medieval streets of the old town, admiring Calle Mayor. The morning is dedicated to the impressive cathedral and its cloister.\n\nAt lunch, enjoy local specialties in one of the central restaurants before visiting the Diocesan Museum and its religious treasures.\n\nIn the afternoon, enjoy a sporty atmosphere at Segre Park, where you can walk along the river or watch the Olympic channels.\n\nEnd the day with a quiet visit to San Miguel Church and a final look at the Pyrenees skyline.",
+            "es": "Comience el día en las calles medievales del casco antiguo, admirando la Calle Mayor. La mañana está dedicada a la impresionante catedral y su claustro.\n\nA mediodía, disfrute de las especialidades locales en uno de los restaurantes del centro antes de visitar el Museo Diocesano y sus tesoros religiosos.\n\nPor la tarde, disfrute del ambiente deportivo en el Parque del Segre, donde puede pasear junto al río o ver los canales olímpicos.\n\nTermine el día con una visita tranquila a la Iglesia de San Miguel y una última mirada al perfil de los Pirineos."
           },
           "stops": [
             {
@@ -323,13 +344,15 @@
                 "de": "Calle Mayor",
                 "hu": "Fő utca (Calle Mayor)",
                 "ro": "Calle Mayor",
-                "en": "Calle Mayor"
+                "en": "Calle Mayor",
+                "es": "Calle Mayor"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die mittelalterlichen Arkaden.",
                 "hu": "Csodálja meg a középkori árkádokat.",
                 "ro": "Admirați arcadele medievale.",
-                "en": "Admire the medieval arcades."
+                "en": "Admire the medieval arcades.",
+                "es": "Admire los soportales medievales."
               }
             },
             {
@@ -337,13 +360,15 @@
                 "de": "Kathedrale Santa Maria d'Urgell",
                 "hu": "Santa Maria d'Urgell katedrális",
                 "ro": "Catedrala Santa Maria d'Urgell",
-                "en": "Cathedral of Santa Maria d'Urgell"
+                "en": "Cathedral of Santa Maria d'Urgell",
+                "es": "Catedral de Santa María de Urgell"
               },
               "tip_5lang": {
                 "de": "Einzige vollständig romanische Kathedrale Kataloniens.",
                 "hu": "Katalónia egyetlen épen maradt román stílusú katedrálisa.",
                 "ro": "Singura catedrală complet romanică din Catalonia.",
-                "en": "The only fully Romanesque cathedral in Catalonia."
+                "en": "The only fully Romanesque cathedral in Catalonia.",
+                "es": "La única catedral plenamente románica en Cataluña."
               }
             },
             {
@@ -351,13 +376,15 @@
                 "de": "Kreuzgang der Kathedrale",
                 "hu": "A katedrális kolostora",
                 "ro": "Claustrul Catedralei",
-                "en": "Cloister of the Cathedral"
+                "en": "Cloister of the Cathedral",
+                "es": "Claustro de la Catedral"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf die Kapitelle mit bizarren Figuren.",
                 "hu": "Figyelje meg a különös figurákkal díszített oszlopfőket.",
                 "ro": "Observați capitelurile cu figuri bizare.",
-                "en": "Look for the capitals decorated with bizarre figures."
+                "en": "Look for the capitals decorated with bizarre figures.",
+                "es": "Busque las capiteles decoradas con figuras extrañas."
               }
             },
             {
@@ -365,13 +392,15 @@
                 "de": "Diözesanmuseum von Urgell",
                 "hu": "Urgelli Egyházmegyei Múzeum",
                 "ro": "Muzeul Diecezan din Urgell",
-                "en": "Diocesan Museum of Urgell"
+                "en": "Diocesan Museum of Urgell",
+                "es": "Museo Diocesano de Urgell"
               },
               "tip_5lang": {
                 "de": "Beherbergt den wertvollen Beatus-Kodex.",
                 "hu": "Itt őrzik az értékes Beatus-kódexet.",
                 "ro": "Găzduiește prețiosul codice Beatus.",
-                "en": "Home to the precious Beatus codex."
+                "en": "Home to the precious Beatus codex.",
+                "es": "Guarda el precioso códice de los Beatos."
               }
             },
             {
@@ -379,13 +408,15 @@
                 "de": "Segre-Park (Parc del Segre)",
                 "hu": "Segre Park",
                 "ro": "Parcul Segre",
-                "en": "Segre Park"
+                "en": "Segre Park",
+                "es": "Parque del Segre"
               },
               "tip_5lang": {
                 "de": "Olympiastätte für Kanuslalom von 1992.",
                 "hu": "Az 1992-es olimpia vadvízi kajak-kenu helyszíne.",
                 "ro": "Locație olimpică pentru canoe slalom din 1992.",
-                "en": "Olympic venue for canoe slalom from 1992."
+                "en": "Olympic venue for canoe slalom from 1992.",
+                "es": "Sede olímpica de descenso de piragüismo en 1992."
               }
             },
             {
@@ -393,13 +424,15 @@
                 "de": "Kirche San Miguel",
                 "hu": "San Miguel templom",
                 "ro": "Biserica San Miguel",
-                "en": "San Miguel Church"
+                "en": "San Miguel Church",
+                "es": "Iglesia de San Miguel"
               },
               "tip_5lang": {
                 "de": "Kleine romanische Kirche neben der Kathedrale.",
                 "hu": "Apró román stílusú templom a katedrális mellett.",
                 "ro": "Mică biserică romanică lângă catedrală.",
-                "en": "Small Romanesque church next to the cathedral."
+                "en": "Small Romanesque church next to the cathedral.",
+                "es": "Pequeña iglesia románica junto a la catedral."
               }
             }
           ],
@@ -549,6 +582,13 @@
               "Combine the museum visit with the cathedral.",
               "The park is ideal for a break in the shade.",
               "On Saturdays, the market is particularly lively."
+            ],
+            "es": [
+              "Use calzado cómodo para las calles empedradas.",
+              "Visite la catedral temprano para evitar aglomeraciones.",
+              "Combina la visita al museo con la catedral.",
+              "El parque es ideal para descansar a la sombra.",
+              "Los sábados el mercado está especialmente animado."
             ]
           }
         },
@@ -557,7 +597,8 @@
             "de": "Beginnen Sie Ihren Morgen unter den schützenden Arkaden der Calle Mayor, wo Sie trotz Regen gemütlich schlendern können. Mittags bietet die beeindruckende Kathedrale von Santa Maria einen trockenen und andächtigen Rückzugsort vor dem Wetter. Am Nachmittag vertiefen Sie sich im Diözesanmuseum in die Kunstschätze, während es draußen stürmt. Den Tag lassen Sie mit einem kurzen, erfrischenden Blick auf den Segre Park ausklingen, bevor Sie Schutz in der Kirche San Miguel suchen.",
             "hu": "Kezdje a reggelt a Calle Mayor védelmező árkádjai alatt, ahol az eső ellenére is kényelmesen sétálhat. Délben a Santa Maria székesegyház nyújt száraz és méltóságteljes menedéket az időjárás elől. Délután merüljön el az Egyházmegyei Múzeum kincsei között, miközben kint dobol az eső. A napot a Segre Park frissítő látványával zárja, majd keressen oltalmat a San Miguel templom falai között.",
             "ro": "Începeți dimineața sub arcadele protectoare ale străzii Calle Mayor, unde vă puteți plimba relaxat în ciuda ploii. La prânz, Catedrala Santa Maria oferă un refugiu uscat și spiritual în fața vremii nefavorabile. După-amiaza, explorați comorile Muzeului Diocezan în timp ce ploaia cade afară. Încheiați ziua cu o privire rapidă spre Parcul Segre, înainte de a găsi adăpost în biserica San Miguel.",
-            "en": "Start your morning under the protective arcades of Calle Mayor, where you can stroll comfortably despite the rain. At midday, the Santa Maria Cathedral provides a dry and solemn retreat from the elements. In the afternoon, immerse yourself in the treasures of the Diocesan Museum while the rain pours outside. End the day with a refreshing glimpse of Segre Park before seeking shelter in San Miguel Church."
+            "en": "Start your morning under the protective arcades of Calle Mayor, where you can stroll comfortably despite the rain. At midday, the Santa Maria Cathedral provides a dry and solemn retreat from the elements. In the afternoon, immerse yourself in the treasures of the Diocesan Museum while the rain pours outside. End the day with a refreshing glimpse of Segre Park before seeking shelter in San Miguel Church.",
+            "es": "Empieza la mañana bajo los pórticos protectores de la Calle Mayor, donde puedes pasear cómodamente pese a la lluvia. Al mediodía, la Catedral de Santa María ofrece un refugio seco y solemne contra los elementos. Por la tarde, sumérgete en los tesoros del Museo Diocesano mientras la lluvia cae fuera. Termina el día con una refrescante vista del Parque del Segre antes de buscar refugio en la iglesia de San Miguel."
           },
           "stops": [
             {
@@ -566,7 +607,8 @@
                 "de": "Nutzen Sie die Arkadengänge für einen trockenen Spaziergang.",
                 "hu": "Használja az árkádokat a száraz sétához.",
                 "ro": "Folosiți arcadele pentru o plimbare uscată.",
-                "en": "Use the arcades for a dry stroll through the street."
+                "en": "Use the arcades for a dry stroll through the street.",
+                "es": "Utiliza los pórticos para un paseo seco por la calle."
               }
             },
             {
@@ -575,7 +617,8 @@
                 "de": "Perfekter Ort, um einen starken Schauer abzuwarten.",
                 "hu": "Tökéletes hely egy nagyobb zápor kivárására.",
                 "ro": "Locul perfect pentru a aștepta trecerea unei averse.",
-                "en": "Perfect place to wait out a heavy downpour."
+                "en": "Perfect place to wait out a heavy downpour.",
+                "es": "Lugar perfecto para esperar una fuerte lluvia."
               }
             },
             {
@@ -584,7 +627,8 @@
                 "de": "Die überdachten Gänge des Kreuzgangs bleiben trocken.",
                 "hu": "A kolostor fedett folyosói szárazak maradnak.",
                 "ro": "Coridoarele acoperite ale claustrului rămân uscate.",
-                "en": "The covered walkways of the cloister stay dry."
+                "en": "The covered walkways of the cloister stay dry.",
+                "es": "Los pasillos cubiertos del claustro se mantienen secos."
               }
             },
             {
@@ -593,7 +637,8 @@
                 "de": "Ideales Indoor-Ziel für verregnete Nachmittage.",
                 "hu": "Ideális fedett célpont esős délutánokra.",
                 "ro": "Destinație interioară ideală pentru după-amiezi ploioase.",
-                "en": "Ideal indoor destination for rainy afternoons."
+                "en": "Ideal indoor destination for rainy afternoons.",
+                "es": "Destino interior ideal para tardes lluviosas."
               }
             },
             {
@@ -602,7 +647,8 @@
                 "de": "Vorsicht, die Wege am Kanal können rutschig sein.",
                 "hu": "Vigyázat, a csatorna menti utak csúszósak lehetnek.",
                 "ro": "Atenție, potecile de lângă canal pot fi alunecoase.",
-                "en": "Be careful, the paths by the canal can be slippery."
+                "en": "Be careful, the paths by the canal can be slippery.",
+                "es": "Ten cuidado, los caminos junto al canal pueden estar resbaladizos."
               }
             },
             {
@@ -611,7 +657,8 @@
                 "de": "Ein kleiner, gemütlicher Rückzugsort zum Aufwärmen.",
                 "hu": "Kicsi, meghitt menedék a felmelegedéshez.",
                 "ro": "Un refugiu mic și primitor pentru a vă încălzi.",
-                "en": "A small, cozy retreat to warm up and dry off."
+                "en": "A small, cozy retreat to warm up and dry off.",
+                "es": "Un pequeño y acogedor refugio para calentarse y secarse."
               }
             }
           ],
@@ -639,6 +686,12 @@
               "Calle Mayor provides an almost entirely covered route thanks to its arcades.",
               "Spend extra time in the Diocesan Museum if the rain doesn't let up.",
               "A compact umbrella is more practical in narrow streets during windy bursts."
+            ],
+            "es": [
+              "Lleva calzado antideslizante para los adoquines mojados del casco antiguo.",
+              "La Calle Mayor ofrece un recorrido casi totalmente cubierto gracias a sus pórticos.",
+              "Pasa más tiempo en el Museo Diocesano si la lluvia no amaina.",
+              "Un paraguas compacto es más práctico en calles estrechas con ráfagas de viento."
             ]
           }
         },
@@ -647,7 +700,8 @@
             "de": "Atmen Sie die klare, kalte Morgenluft in der Calle Mayor ein, während die Sonne langsam über die Dächer steigt. Mittags bietet die massive Kathedrale einen kühlen, aber windgeschützten Raum für Besinnung. Am Nachmittag wärmen Sie sich im Diözesanmuseum bei den wertvollen Exponaten auf. Wenn die Dämmerung früh einsetzt, bietet der Segre Park eine malerische Winterkulisse, bevor Sie den Tag in der Stille von San Miguel beenden.",
             "hu": "Szívja be a friss, hideg reggeli levegőt a Calle Mayoron, miközben a nap lassan a tetők fölé emelkedik. Délben a masszív székesegyház hűvös, de szélvédett helyet kínál az elmélyüléshez. Délután melegedjen fel az Egyházmegyei Múzeum értékes tárlatai között. A korai szürkületben a Segre Park festői téli látványt nyújt, mielőtt a napot a San Miguel templom csendjében zárná.",
             "ro": "Respirați aerul proaspăt și rece al dimineții pe Calle Mayor, în timp ce soarele răsare lent peste acoperișuri. La prânz, catedrala masivă oferă un spațiu răcoros, dar ferit de vânt pentru reflecție. După-amiaza, încălziți-vă printre exponatele valoroase ale Muzeului Diocezan. Când amurgul se lasă devreme, Parcul Segre oferă un decor hibernal pitoresc înainte de a încheia ziua în liniștea bisericii San Miguel.",
-            "en": "Breathe in the crisp, cold morning air on Calle Mayor as the sun slowly rises over the rooftops. At midday, the massive cathedral offers a cool but wind-sheltered space for reflection. In the afternoon, warm up among the valuable exhibits of the Diocesan Museum. As dusk falls early, Segre Park provides a picturesque winter backdrop before ending the day in the silence of San Miguel."
+            "en": "Breathe in the crisp, cold morning air on Calle Mayor as the sun slowly rises over the rooftops. At midday, the massive cathedral offers a cool but wind-sheltered space for reflection. In the afternoon, warm up among the valuable exhibits of the Diocesan Museum. As dusk falls early, Segre Park provides a picturesque winter backdrop before ending the day in the silence of San Miguel.",
+            "es": "Respira el aire frío y nítido de la mañana en la Calle Mayor mientras el sol se eleva lentamente sobre las tejados. Al mediodía, la imponente catedral ofrece un espacio fresco pero resguardado del viento para la reflexión. Por la tarde, cálmate entre las valiosas piezas del Museo Diocesano. Al caer el crepúsculo temprano, el Parque del Segre ofrece un pintoresco paisaje invernal antes de terminar el día en el silencio de San Miguel."
           },
           "stops": [
             {
@@ -656,7 +710,8 @@
                 "de": "Genießen Sie die Morgensonne, die in die Arkaden fällt.",
                 "hu": "Élvezze az árkádok közé besütő reggeli napsütést.",
                 "ro": "Bucurați-vă de soarele dimineții care pătrunde sub arcade.",
-                "en": "Enjoy the morning sun hitting the ancient arcades."
+                "en": "Enjoy the morning sun hitting the ancient arcades.",
+                "es": "Disfruta del sol matutino que incide sobre los antiguos pórticos."
               }
             },
             {
@@ -665,7 +720,8 @@
                 "de": "Ziehen Sie sich warm an, in der Kathedrale ist es kühl.",
                 "hu": "Öltözzön rétegesen, a katedrálisban hűvös van.",
                 "ro": "Îmbrăcați-vă bine, interiorul catedralei este răcoros.",
-                "en": "Dress warmly, as the cathedral interior remains chilly."
+                "en": "Dress warmly, as the cathedral interior remains chilly.",
+                "es": "Abrígate, el interior de la catedral se mantiene fresco."
               }
             },
             {
@@ -674,7 +730,8 @@
                 "de": "Das Lichtspiel im Winter ist hier besonders schön.",
                 "hu": "A téli fények játéka itt különösen szép.",
                 "ro": "Jocul de lumini hibernale este deosebit aici.",
-                "en": "The winter light play here is exceptionally beautiful."
+                "en": "The winter light play here is exceptionally beautiful.",
+                "es": "El juego de luces invernales aquí es excepcionalmente bello."
               }
             },
             {
@@ -683,7 +740,8 @@
                 "de": "Ein angenehm warmer Ort für eine ausgiebige Besichtigung.",
                 "hu": "Kellemesen meleg hely egy alapos látogatáshoz.",
                 "ro": "Un loc plăcut și cald pentru o vizită detaliată.",
-                "en": "A pleasantly warm place for an extensive visit."
+                "en": "A pleasantly warm place for an extensive visit.",
+                "es": "Un lugar agradablemente cálido para una visita extensa."
               }
             },
             {
@@ -692,7 +750,8 @@
                 "de": "Wunderschön bei Sonnenuntergang gegen 17:30 Uhr.",
                 "hu": "Gyönyörű naplementekor, 17:30 körül.",
                 "ro": "Superb la apus, în jurul orei 17:30.",
-                "en": "Beautiful at sunset, around 5:30 PM."
+                "en": "Beautiful at sunset, around 5:30 PM.",
+                "es": "Hermoso al atardecer, sobre las 17:30."
               }
             },
             {
@@ -701,7 +760,8 @@
                 "de": "Kleiner Raum, der sich durch Besucher schnell erwärmt.",
                 "hu": "Kis tér, amely a látogatóktól hamar bemelegszik.",
                 "ro": "Spațiu mic care se încălzește rapid de la vizitatori.",
-                "en": "Small space that warms up quickly with visitors."
+                "en": "Small space that warms up quickly with visitors.",
+                "es": "Espacio pequeño que se calienta rápido con la presencia de visitantes."
               }
             }
           ],
@@ -729,6 +789,12 @@
               "Cobblestones can be slippery with frost in the early morning.",
               "Use the midday hours for outdoor areas when it is warmest.",
               "Many cafes along Calle Mayor offer thick hot chocolate to warm up."
+            ],
+            "es": [
+              "El sol se pone ya a las 17:30 durante los meses de invierno.",
+              "Los adoquines pueden estar resbaladizos por la escarcha a primera hora.",
+              "Aprovecha las horas del mediodía para las zonas al aire libre cuando hace más calor.",
+              "Muchos cafés de la Calle Mayor ofrecen un espeso chocolate caliente para entrar en calor."
             ]
           }
         }
@@ -747,7 +813,8 @@
             "de": "Torre de Solsona",
             "hu": "Solsona torony",
             "ro": "Torre de Solsona",
-            "en": "Torre de Solsona"
+            "en": "Torre de Solsona",
+            "es": "Torre de Solsona"
           },
           "coords": [
             1.4512,
@@ -762,7 +829,8 @@
             "de": "Panoramablick über das Urgellet-Tal.",
             "hu": "Panorámás kilátás az Urgellet-völgyre.",
             "ro": "Vedere panoramică asupra văii Urgellet.",
-            "en": "Panoramic view over the Urgellet valley."
+            "en": "Panoramic view over the Urgellet valley.",
+            "es": "Vista panorámica sobre el valle del Urgellet."
           }
         },
         {
@@ -770,7 +838,8 @@
             "de": "Bischöfliches Seminar",
             "hu": "Püspöki Szeminárium",
             "ro": "Seminarul Episcopal",
-            "en": "Episcopal Seminary"
+            "en": "Episcopal Seminary",
+            "es": "Seminario Episcopal"
           },
           "coords": [
             1.4585,
@@ -785,7 +854,8 @@
             "de": "Monumentales Gebäude am Rande der Altstadt.",
             "hu": "Monumentális épület az óváros szélén.",
             "ro": "Clădire monumentală la marginea orașului vechi.",
-            "en": "Monumental building on the edge of the old town."
+            "en": "Monumental building on the edge of the old town.",
+            "es": "Edificio monumental en el borde del casco antiguo."
           }
         },
         {
@@ -793,7 +863,8 @@
             "de": "Kathedrale Santa Maria d'Urgell",
             "hu": "Santa Maria d'Urgell katedrális",
             "ro": "Catedrala Santa Maria d'Urgell",
-            "en": "Cathedral of Santa Maria d'Urgell"
+            "en": "Cathedral of Santa Maria d'Urgell",
+            "es": "Catedral de Santa María d'Urgell"
           },
           "coords": [
             1.4618,
@@ -808,7 +879,8 @@
             "de": "Stellen Sie Ihr Fahrrad am Plaza de los Olmos ab.",
             "hu": "Parkolja le a kerékpárt a Plaza de los Olmos-on.",
             "ro": "Parcați bicicleta în Plaza de los Olmos.",
-            "en": "Park your bike at Plaza de los Olmos."
+            "en": "Park your bike at Plaza de los Olmos.",
+            "es": "Aparca tu bicicleta en la Plaza de los Olmos."
           }
         },
         {
@@ -816,7 +888,8 @@
             "de": "Espai Ermengol",
             "hu": "Espai Ermengol",
             "ro": "Espai Ermengol",
-            "en": "Espai Ermengol"
+            "en": "Espai Ermengol",
+            "es": "Espai Ermengol"
           },
           "coords": [
             1.461,
@@ -831,7 +904,8 @@
             "de": "Erfahren Sie mehr über die Geschichte des Urgellet.",
             "hu": "Ismerje meg az Urgellet régió történelmét.",
             "ro": "Aflați mai multe despre istoria regiunii Urgellet.",
-            "en": "Learn more about the history of Urgellet."
+            "en": "Learn more about the history of Urgellet.",
+            "es": "Conoce más sobre la historia del Urgellet."
           }
         },
         {
@@ -839,7 +913,8 @@
             "de": "Segre-Park (Rundfahrt)",
             "hu": "Segre Park (körút)",
             "ro": "Parcul Segre (circuit)",
-            "en": "Segre Park (circuit)"
+            "en": "Segre Park (circuit)",
+            "es": "Parque del Segre (circuito)"
           },
           "coords": [
             1.4655,
@@ -854,7 +929,8 @@
             "de": "Flache Wege, ideal zum Radfahren.",
             "hu": "Lapos utak, ideális kerékpározáshoz.",
             "ro": "Alei plane, ideale pentru ciclism.",
-            "en": "Flat paths, ideal for cycling."
+            "en": "Flat paths, ideal for cycling.",
+            "es": "Caminos planos, ideales para el ciclismo."
           }
         },
         {
@@ -862,7 +938,8 @@
             "de": "Calle Mayor",
             "hu": "Fő utca",
             "ro": "Calle Mayor",
-            "en": "Calle Mayor"
+            "en": "Calle Mayor",
+            "es": "Calle Mayor"
           },
           "coords": [
             1.4612,
@@ -877,7 +954,8 @@
             "de": "Fahren Sie vorsichtig durch die Fußgängerzone.",
             "hu": "Óvatosan hajtson át a sétálóövezeten.",
             "ro": "Circulați cu atenție prin zona pietonală.",
-            "en": "Ride carefully through the pedestrian zone."
+            "en": "Ride carefully through the pedestrian zone.",
+            "es": "Circula con precaución por la zona peatonal."
           }
         }
       ],
@@ -885,7 +963,8 @@
         "de": "Starten Sie mit einem Anstieg zum Torre de Solsona für den besten Ausblick. Danach führt die Route bergab zum monumentalen Bischöflichen Seminar.\n\nDer Mittag gehört der Altstadt, wo Sie die Kathedrale besichtigen und im Espai Ermengol in die Stadtgeschichte eintauchen.\n\nNachmittags radeln Sie entspannt durch den Segre-Park, der perfekte Wege für Zweiräder bietet.\n\nBeenden Sie die Tour mit einer gemütlichen Fahrt durch die Calle Mayor, bevor Sie Ihr Rad zurückgeben.",
         "hu": "Kezdjen egy emelkedővel a Solsona toronyhoz a legjobb kilátásért. Ezután az út lefelé vezet a monumentális Püspöki Szemináriumhoz.\n\nA délidő az óvárosé, ahol meglátogatja a katedrálist, és az Espai Ermengolban elmerül a város történelmében.\n\nDélután tekerjen egyet a Segre Parkban, amely tökéletes utakat kínál a kétkerekűeknek.\n\nZárja a túrát egy kellemes gurulással a Calle Mayoron, mielőtt visszaadná a kerékpárt.",
         "ro": "Începeți cu o urcare la Torre de Solsona pentru cea mai bună vedere. Apoi, traseul coboară spre monumentalul Seminar Episcopal.\n\nPrânzul aparține orașului vechi, unde vizitați catedrala și vă scufundați în istoria orașului la Espai Ermengol.\n\nDupă-amiaza, pedalați relaxat prin Parcul Segre, care oferă alei perfecte pentru biciclete.\n\nÎncheiați turul cu o plimbare plăcută pe Calle Mayor înainte de a returna bicicleta.",
-        "en": "Start with a climb to Torre de Solsona for the best view. Then the route leads downhill to the monumental Episcopal Seminary.\n\nMidday belongs to the old town, where you visit the cathedral and dive into the city's history at Espai Ermengol.\n\nIn the afternoon, cycle relaxed through Segre Park, which offers perfect paths for two-wheelers.\n\nEnd the tour with a pleasant ride through Calle Mayor before returning your bike."
+        "en": "Start with a climb to Torre de Solsona for the best view. Then the route leads downhill to the monumental Episcopal Seminary.\n\nMidday belongs to the old town, where you visit the cathedral and dive into the city's history at Espai Ermengol.\n\nIn the afternoon, cycle relaxed through Segre Park, which offers perfect paths for two-wheelers.\n\nEnd the tour with a pleasant ride through Calle Mayor before returning your bike.",
+        "es": "Comienza con la subida a la Torre de Solsona para obtener la mejor vista. Después la ruta desciende hasta el monumental Seminario Episcopal.\n\nEl mediodía pertenece al casco antiguo, donde visitarás la catedral y te sumergirás en la historia de la ciudad en el Espai Ermengol.\n\nPor la tarde, pedalea con calma por el Parque del Segre, que ofrece senderos perfectos para dos ruedas.\n\nTermina el recorrido con un agradable paseo por la Calle Mayor antes de devolver la bicicleta."
       },
       "gastro_picks": {
         "de": [
@@ -997,6 +1076,13 @@
           "Watch out for pedestrians in the old town.",
           "Take enough water.",
           "Rent an e-bike for the hills."
+        ],
+        "es": [
+          "El camino hacia la torre es empinado pero gratificante.",
+          "Utiliza los carriles bici del Parque del Segre.",
+          "Vigila a los peatones en el casco antiguo.",
+          "Lleva suficiente agua.",
+          "Alquila una e-bike para las cuestas."
         ]
       },
       "variants": {
@@ -1005,7 +1091,8 @@
             "de": "Starten Sie mit einem Anstieg zum Torre de Solsona für den besten Ausblick. Danach führt die Route bergab zum monumentalen Bischöflichen Seminar.\n\nDer Mittag gehört der Altstadt, wo Sie die Kathedrale besichtigen und im Espai Ermengol in die Stadtgeschichte eintauchen.\n\nNachmittags radeln Sie entspannt durch den Segre-Park, der perfekte Wege für Zweiräder bietet.\n\nBeenden Sie die Tour mit einer gemütlichen Fahrt durch die Calle Mayor, bevor Sie Ihr Rad zurückgeben.",
             "hu": "Kezdjen egy emelkedővel a Solsona toronyhoz a legjobb kilátásért. Ezután az út lefelé vezet a monumentális Püspöki Szemináriumhoz.\n\nA délidő az óvárosé, ahol meglátogatja a katedrálist, és az Espai Ermengolban elmerül a város történelmében.\n\nDélután tekerjen egyet a Segre Parkban, amely tökéletes utakat kínál a kétkerekűeknek.\n\nZárja a túrát egy kellemes gurulással a Calle Mayoron, mielőtt visszaadná a kerékpárt.",
             "ro": "Începeți cu o urcare la Torre de Solsona pentru cea mai bună vedere. Apoi, traseul coboară spre monumentalul Seminar Episcopal.\n\nPrânzul aparține orașului vechi, unde vizitați catedrala și vă scufundați în istoria orașului la Espai Ermengol.\n\nDupă-amiaza, pedalați relaxat prin Parcul Segre, care oferă alei perfecte pentru biciclete.\n\nÎncheiați turul cu o plimbare plăcută pe Calle Mayor înainte de a returna bicicleta.",
-            "en": "Start with a climb to Torre de Solsona for the best view. Then the route leads downhill to the monumental Episcopal Seminary.\n\nMidday belongs to the old town, where you visit the cathedral and dive into the city's history at Espai Ermengol.\n\nIn the afternoon, cycle relaxed through Segre Park, which offers perfect paths for two-wheelers.\n\nEnd the tour with a pleasant ride through Calle Mayor before returning your bike."
+            "en": "Start with a climb to Torre de Solsona for the best view. Then the route leads downhill to the monumental Episcopal Seminary.\n\nMidday belongs to the old town, where you visit the cathedral and dive into the city's history at Espai Ermengol.\n\nIn the afternoon, cycle relaxed through Segre Park, which offers perfect paths for two-wheelers.\n\nEnd the tour with a pleasant ride through Calle Mayor before returning your bike.",
+            "es": "Comienza con la subida a la Torre de Solsona para obtener la mejor vista. Después la ruta desciende hasta el monumental Seminario Episcopal.\n\nEl mediodía pertenece al casco antiguo, donde visitarás la catedral y te sumergirás en la historia de la ciudad en el Espai Ermengol.\n\nPor la tarde, pedalea con calma por el Parque del Segre, que ofrece senderos perfectos para dos ruedas.\n\nTermina el recorrido con un agradable paseo por la Calle Mayor antes de devolver la bicicleta."
           },
           "stops": [
             {
@@ -1013,13 +1100,15 @@
                 "de": "Torre de Solsona",
                 "hu": "Solsona torony",
                 "ro": "Torre de Solsona",
-                "en": "Torre de Solsona"
+                "en": "Torre de Solsona",
+                "es": "Torre de Solsona"
               },
               "tip_5lang": {
                 "de": "Panoramablick über das Urgellet-Tal.",
                 "hu": "Panorámás kilátás az Urgellet-völgyre.",
                 "ro": "Vedere panoramică asupra văii Urgellet.",
-                "en": "Panoramic view over the Urgellet valley."
+                "en": "Panoramic view over the Urgellet valley.",
+                "es": "Vista panorámica sobre el valle del Urgellet."
               }
             },
             {
@@ -1027,13 +1116,15 @@
                 "de": "Bischöfliches Seminar",
                 "hu": "Püspöki Szeminárium",
                 "ro": "Seminarul Episcopal",
-                "en": "Episcopal Seminary"
+                "en": "Episcopal Seminary",
+                "es": "Seminario Episcopal"
               },
               "tip_5lang": {
                 "de": "Monumentales Gebäude am Rande der Altstadt.",
                 "hu": "Monumentális épület az óváros szélén.",
                 "ro": "Clădire monumentală la marginea orașului vechi.",
-                "en": "Monumental building on the edge of the old town."
+                "en": "Monumental building on the edge of the old town.",
+                "es": "Edificio monumental en el borde del casco antiguo."
               }
             },
             {
@@ -1041,13 +1132,15 @@
                 "de": "Kathedrale Santa Maria d'Urgell",
                 "hu": "Santa Maria d'Urgell katedrális",
                 "ro": "Catedrala Santa Maria d'Urgell",
-                "en": "Cathedral of Santa Maria d'Urgell"
+                "en": "Cathedral of Santa Maria d'Urgell",
+                "es": "Catedral de Santa María d'Urgell"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Fahrrad am Plaza de los Olmos ab.",
                 "hu": "Parkolja le a kerékpárt a Plaza de los Olmos-on.",
                 "ro": "Parcați bicicleta în Plaza de los Olmos.",
-                "en": "Park your bike at Plaza de los Olmos."
+                "en": "Park your bike at Plaza de los Olmos.",
+                "es": "Aparca tu bicicleta en la Plaza de los Olmos."
               }
             },
             {
@@ -1055,13 +1148,15 @@
                 "de": "Espai Ermengol",
                 "hu": "Espai Ermengol",
                 "ro": "Espai Ermengol",
-                "en": "Espai Ermengol"
+                "en": "Espai Ermengol",
+                "es": "Espai Ermengol"
               },
               "tip_5lang": {
                 "de": "Erfahren Sie mehr über die Geschichte des Urgellet.",
                 "hu": "Ismerje meg az Urgellet régió történelmét.",
                 "ro": "Aflați mai multe despre istoria regiunii Urgellet.",
-                "en": "Learn more about the history of Urgellet."
+                "en": "Learn more about the history of Urgellet.",
+                "es": "Conoce más sobre la historia del Urgellet."
               }
             },
             {
@@ -1069,13 +1164,15 @@
                 "de": "Segre-Park (Rundfahrt)",
                 "hu": "Segre Park (körút)",
                 "ro": "Parcul Segre (circuit)",
-                "en": "Segre Park (circuit)"
+                "en": "Segre Park (circuit)",
+                "es": "Parque del Segre (circuito)"
               },
               "tip_5lang": {
                 "de": "Flache Wege, ideal zum Radfahren.",
                 "hu": "Lapos utak, ideális kerékpározáshoz.",
                 "ro": "Alei plane, ideale pentru ciclism.",
-                "en": "Flat paths, ideal for cycling."
+                "en": "Flat paths, ideal for cycling.",
+                "es": "Caminos planos, ideales para el ciclismo."
               }
             },
             {
@@ -1083,13 +1180,15 @@
                 "de": "Calle Mayor",
                 "hu": "Fő utca",
                 "ro": "Calle Mayor",
-                "en": "Calle Mayor"
+                "en": "Calle Mayor",
+                "es": "Calle Mayor"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig durch die Fußgängerzone.",
                 "hu": "Óvatosan hajtson át a sétálóövezeten.",
                 "ro": "Circulați cu atenție prin zona pietonală.",
-                "en": "Ride carefully through the pedestrian zone."
+                "en": "Ride carefully through the pedestrian zone.",
+                "es": "Circula con precaución por la zona peatonal."
               }
             }
           ],
@@ -1203,6 +1302,13 @@
               "Watch out for pedestrians in the old town.",
               "Take enough water.",
               "Rent an e-bike for the hills."
+            ],
+            "es": [
+              "El camino hacia la torre es empinado pero gratificante.",
+              "Utiliza los carriles bici del Parque del Segre.",
+              "Vigila a los peatones en el casco antiguo.",
+              "Lleva suficiente agua.",
+              "Alquila una e-bike para las cuestas."
             ]
           }
         },
@@ -1211,7 +1317,8 @@
             "de": "Radeln Sie vorsichtig zur Torre de Solsona, wo der Ausblick auch bei Wolken dramatisch wirkt. Mittags suchen Sie Schutz beim Bischöflichen Seminar, bevor Sie die Kathedrale besuchen. Nachmittags bietet das Espai Ermengol eine trockene Pause mit viel Kultur. Trotz Pfützen bleibt der Segre Park ein Erlebnis, bevor Sie den Tag gemütlich in der Calle Mayor ausklingen lassen.",
             "hu": "Tekerjen óvatosan a Torre de Solsonához, ahol a kilátás felhős időben is drámai. Délben keressen menedéket a Püspöki Szemináriumnál, mielőtt meglátogatná a katedrálist. Délután az Espai Ermengol nyújt száraz pihenőt sok kultúrával. A tócsák ellenére a Segre Park élmény marad, mielőtt a napot a Calle Mayor árkádjai alatt zárná.",
             "ro": "Pedalați cu atenție spre Torre de Solsona, unde priveliștea este dramatică chiar și cu nori. La prânz, căutați adăpost la Seminarul Episcopal înainte de a vizita catedrala. După-amiaza, Espai Ermengol oferă o pauză uscată plină de cultură. În ciuda bălților, Parcul Segre rămâne o experiență plăcută înainte de finalul zilei pe Calle Mayor.",
-            "en": "Cycle carefully to Torre de Solsona, where the view remains dramatic even under clouds. At midday, seek shelter near the Episcopal Seminary before visiting the cathedral. In the afternoon, Espai Ermengol offers a dry break filled with culture. Despite puddles, Segre Park remains an experience before ending the day comfortably on Calle Mayor."
+            "en": "Cycle carefully to Torre de Solsona, where the view remains dramatic even under clouds. At midday, seek shelter near the Episcopal Seminary before visiting the cathedral. In the afternoon, Espai Ermengol offers a dry break filled with culture. Despite puddles, Segre Park remains an experience before ending the day comfortably on Calle Mayor.",
+            "es": "Pedalea con cuidado hasta la Torre de Solsona, donde la vista sigue siendo espectacular incluso bajo las nubes. Al mediodía, busca refugio cerca del Seminario Episcopal antes de visitar la catedral. Por la tarde, el Espai Ermengol ofrece un descanso seco repleto de cultura. A pesar de los charcos, el Parque del Segre sigue siendo una experiencia antes de terminar el día cómodamente en la Calle Mayor."
           },
           "stops": [
             {
@@ -1220,7 +1327,8 @@
                 "de": "Der Anstieg kann bei Nässe rutschig sein, Gang runterschalten.",
                 "hu": "Az emelkedő nedvesen csúszós lehet, váltson kisebb fokozatba.",
                 "ro": "Urcarea poate fi alunecoasă pe ploaie, schimbați viteza.",
-                "en": "The climb can be slippery when wet, use lower gears."
+                "en": "The climb can be slippery when wet, use lower gears.",
+                "es": "La subida puede estar resbaladiza cuando hay humedad, usa marchas bajas."
               }
             },
             {
@@ -1229,7 +1337,8 @@
                 "de": "Stellen Sie Ihr Rad unter den Vorsprung am Eingang ab.",
                 "hu": "Támassza le a biciklit a bejárat melletti párkány alá.",
                 "ro": "Parcați bicicleta sub streașina de la intrare.",
-                "en": "Park your bike under the overhang by the entrance."
+                "en": "Park your bike under the overhang by the entrance.",
+                "es": "Aparca la bici bajo el voladizo junto a la entrada."
               }
             },
             {
@@ -1238,7 +1347,8 @@
                 "de": "Sichere Fahrradständer befinden sich in der Nähe des Eingangs.",
                 "hu": "Biztonságos biciklitárolók találhatók a bejárat közelében.",
                 "ro": "Rafturi securizate pentru biciclete se află lângă intrare.",
-                "en": "Secure bike racks are located near the main entrance."
+                "en": "Secure bike racks are located near the main entrance.",
+                "es": "Hay anclajes seguros para bicicletas cerca de la entrada principal."
               }
             },
             {
@@ -1247,7 +1357,8 @@
                 "de": "Perfekter Ort, um die Kleidung kurz trocknen zu lassen.",
                 "hu": "Tökéletes hely a ruházat rövid szárítására.",
                 "ro": "Locul perfect pentru a vă usca puțin hainele.",
-                "en": "Perfect place to let your gear dry off for a bit."
+                "en": "Perfect place to let your gear dry off for a bit.",
+                "es": "Lugar perfecto para dejar secar un poco tu equipo."
               }
             },
             {
@@ -1256,7 +1367,8 @@
                 "de": "Vermeiden Sie schnelle Kurven auf nassem Asphalt.",
                 "hu": "Kerülje a gyors kanyarodást a nedves aszfalton.",
                 "ro": "Evitați virajele rapide pe asfaltul umed.",
-                "en": "Avoid sharp turns on the wet asphalt circuit."
+                "en": "Avoid sharp turns on the wet asphalt circuit.",
+                "es": "Evita giros bruscos en el circuito de asfalto mojado."
               }
             },
             {
@@ -1265,7 +1377,8 @@
                 "de": "In den Arkaden ist das Schieben des Rades sicherer.",
                 "hu": "Az árkádok alatt a bicikli tolása biztonságosabb.",
                 "ro": "Sub arcade este mai sigur să mergeți pe lângă bicicletă.",
-                "en": "Walking your bike under the arcades is safer in the wet."
+                "en": "Walking your bike under the arcades is safer in the wet.",
+                "es": "Caminar con la bici bajo los pórticos es más seguro con lluvia."
               }
             }
           ],
@@ -1293,6 +1406,12 @@
               "Braking distances on wet cobblestones are significantly longer.",
               "Waterproof panniers will keep your valuables dry during the ride.",
               "Espai Ermengol is a great spot for an extended indoor break."
+            ],
+            "es": [
+              "Equipa tu bici con guardabarros para protegerse de las salpicaduras.",
+              "Las distancias de frenado en adoquines mojados son significativamente mayores.",
+              "Alforjas impermeables mantendrán tus objetos de valor secos durante el viaje.",
+              "El Espai Ermengol es un buen lugar para una pausa interior prolongada."
             ]
           }
         },
@@ -1301,7 +1420,8 @@
             "de": "Starten Sie mit einer erfrischenden Fahrt zur Torre de Solsona und genießen Sie das Bergpanorama. Mittags führt der Weg am Bischöflichen Seminar vorbei zur Kathedrale. Am Nachmittag bietet das Espai Ermengol Wärme und interessante Stadtgeschichte. Der Segre Park zeigt sich im Winterlicht von seiner ruhigen Seite, bevor Sie zum Abschluss durch die belebte Calle Mayor radeln.",
             "hu": "Kezdje egy frissítő tekeréssel a Torre de Solsonához, és csodálja meg a hegyi panorámát. Délben az út a Püspöki Szeminárium mellett vezet a katedrálishoz. Délután az Espai Ermengol meleget és érdekes várostörténetet kínál. A Segre Park téli fényben a nyugodt arcát mutatja, mielőtt a nap végén a forgalmas Calle Mayoron tekerni.",
             "ro": "Începeți cu o plimbare revigorantă spre Torre de Solsona și admirați panorama montană. La prânz, drumul trece pe lângă Seminarul Episcopal spre catedrală. După-amiaza, Espai Ermengol oferă căldură și o istorie interesantă a orașului. Parcul Segre își arată latura liniștită în lumina iernii, înainte de a pedala pe Calle Mayor.",
-            "en": "Start with a refreshing ride to Torre de Solsona and admire the mountain panorama. At midday, the path leads past the Episcopal Seminary to the cathedral. In the afternoon, Espai Ermengol offers warmth and fascinating city history. Segre Park shows its quiet side in the winter light before you cycle through the busy Calle Mayor to finish."
+            "en": "Start with a refreshing ride to Torre de Solsona and admire the mountain panorama. At midday, the path leads past the Episcopal Seminary to the cathedral. In the afternoon, Espai Ermengol offers warmth and fascinating city history. Segre Park shows its quiet side in the winter light before you cycle through the busy Calle Mayor to finish.",
+            "es": "Comienza con un trayecto refrescante hasta la Torre de Solsona y admira el panorama montañoso. Al mediodía, el camino pasa junto al Seminario Episcopal hasta la catedral. Por la tarde, el Espai Ermengol ofrece calor y fascinante historia local. El Parque del Segre muestra su lado tranquilo con la luz invernal antes de que pedalees por la concurrida Calle Mayor para terminar."
           },
           "stops": [
             {
@@ -1310,7 +1430,8 @@
                 "de": "Vorsicht bei Raureif auf den schattigen Abschnitten.",
                 "hu": "Vigyázat a dérrel az árnyékos szakaszokon.",
                 "ro": "Atenție la chiciură pe porțiunile umbrite.",
-                "en": "Watch out for frost on the shaded sections of the path."
+                "en": "Watch out for frost on the shaded sections of the path.",
+                "es": "Vigila la escarcha en los tramos sombreados del sendero."
               }
             },
             {
@@ -1319,7 +1440,8 @@
                 "de": "Ein schöner Fotostopp im klaren Winterlicht.",
                 "hu": "Szép fotómegálló a tiszta téli fényben.",
                 "ro": "O oprire foto frumoasă în lumina clară de iarnă.",
-                "en": "A beautiful photo stop in the clear winter light."
+                "en": "A beautiful photo stop in the clear winter light.",
+                "es": "Una bonita parada fotográfica con la luz clara de invierno."
               }
             },
             {
@@ -1328,7 +1450,8 @@
                 "de": "Kurze Pause einlegen, um die Kälte abzuschütteln.",
                 "hu": "Tartson rövid szünetet a hideg lerázására.",
                 "ro": "Faceți o scurtă pauză pentru a scăpa de frig.",
-                "en": "Take a short break here to shake off the cold."
+                "en": "Take a short break here to shake off the cold.",
+                "es": "Haz una breve pausa aquí para quitarte el frío."
               }
             },
             {
@@ -1337,7 +1460,8 @@
                 "de": "Gut geheiztes Museum, perfekt zum Aufwärmen.",
                 "hu": "Jól fűtött múzeum, tökéletes a felmelegedéshez.",
                 "ro": "Muzeu bine încălzit, perfect pentru a vă dezmorți.",
-                "en": "Well-heated museum, perfect for warming up."
+                "en": "Well-heated museum, perfect for warming up.",
+                "es": "Museo bien climatizado, perfecto para entrar en calor."
               }
             },
             {
@@ -1346,7 +1470,8 @@
                 "de": "Fahren Sie zügig, um den Kreislauf in Schwung zu halten.",
                 "hu": "Tekerjen tempósan, hogy mozgásban tartsa a keringését.",
                 "ro": "Pedalați vioi pentru a vă menține circulația activă.",
-                "en": "Ride at a steady pace to keep your circulation going."
+                "en": "Ride at a steady pace to keep your circulation going.",
+                "es": "Pedalea a ritmo constante para mantener la circulación activa."
               }
             },
             {
@@ -1355,7 +1480,8 @@
                 "de": "Gegen Abend sind die Arkaden stimmungsvoll beleuchtet.",
                 "hu": "Este felé az árkádok hangulatosan meg vannak világítva.",
                 "ro": "Spre seară, arcadele sunt iluminate spectaculos.",
-                "en": "Towards evening, the arcades are atmospherically lit."
+                "en": "Towards evening, the arcades are atmospherically lit.",
+                "es": "Hacia la tarde, los pórticos se iluminan con mucho ambiente."
               }
             }
           ],
@@ -1383,6 +1509,12 @@
               "Watch out for black ice patches near the Segre river.",
               "Light conditions change rapidly after 4:30 PM.",
               "A thermos with hot tea is an ideal companion for the trip."
+            ],
+            "es": [
+              "Lleva guantes calientes, el viento puede congelar las manos rápidamente.",
+              "Cuidado con placas de hielo negro cerca del río Segre.",
+              "Las condiciones de luz cambian rápidamente después de las 16:30.",
+              "Un termo con té caliente es un compañero ideal para la ruta."
             ]
           }
         }
@@ -1401,7 +1533,8 @@
             "de": "Castell de Ciutat",
             "hu": "Castell de Ciutat",
             "ro": "Castell de Ciutat",
-            "en": "Castell de Ciutat"
+            "en": "Castell de Ciutat",
+            "es": "Castell de Ciutat"
           },
           "coords": [
             1.4425,
@@ -1416,7 +1549,8 @@
             "de": "Historische Festung, heute auch Luxushotel.",
             "hu": "Történelmi erőd, ma luxusszálloda is.",
             "ro": "Cetate istorică, astăzi și hotel de lux.",
-            "en": "Historical fortress, now also a luxury hotel."
+            "en": "Historical fortress, now also a luxury hotel.",
+            "es": "Fortaleza histórica, ahora también un hotel de lujo."
           }
         },
         {
@@ -1424,7 +1558,8 @@
             "de": "Altstadt Parken",
             "hu": "Óvárosi parkoló",
             "ro": "Parcare Centru Vechi",
-            "en": "Old Town Parking"
+            "en": "Old Town Parking",
+            "es": "Aparcamiento casco antiguo"
           },
           "coords": [
             1.4605,
@@ -1439,7 +1574,8 @@
             "de": "Nutzen Sie das Parkhaus am Eingang zur Altstadt.",
             "hu": "Használja az óváros bejáratánál lévő parkolóházat.",
             "ro": "Folosiți parcarea de la intrarea în centrul vechi.",
-            "en": "Use the parking garage at the old town entrance."
+            "en": "Use the parking garage at the old town entrance.",
+            "es": "Utiliza el aparcamiento subterráneo en la entrada del casco antiguo."
           }
         },
         {
@@ -1447,7 +1583,8 @@
             "de": "Kathedrale Santa Maria",
             "hu": "Santa Maria katedrális",
             "ro": "Catedrala Santa Maria",
-            "en": "Santa Maria Cathedral"
+            "en": "Santa Maria Cathedral",
+            "es": "Catedral de Santa María"
           },
           "coords": [
             1.4618,
@@ -1462,7 +1599,8 @@
             "de": "Zentrum der Pyrenäen-Romanik.",
             "hu": "A pireneusi román stílus központja.",
             "ro": "Centrul romanicului pirineic.",
-            "en": "Center of Pyrenean Romanesque."
+            "en": "Center of Pyrenean Romanesque.",
+            "es": "Centro del románico pirenaico."
           }
         },
         {
@@ -1470,7 +1608,8 @@
             "de": "Segre-Park Kanuzentrum",
             "hu": "Segre Park kajak központ",
             "ro": "Centrul de canoe Parcul Segre",
-            "en": "Segre Park Canoe Center"
+            "en": "Segre Park Canoe Center",
+            "es": "Centro de Piragüismo del Parc del Segre"
           },
           "coords": [
             1.4655,
@@ -1485,7 +1624,8 @@
             "de": "Großer Parkplatz direkt am Sportgelände.",
             "hu": "Nagy parkoló közvetlenül a sportpályánál.",
             "ro": "Parcare mare direct la complexul sportiv.",
-            "en": "Large parking lot directly at the sports complex."
+            "en": "Large parking lot directly at the sports complex.",
+            "es": "Amplio aparcamiento junto al complejo deportivo."
           }
         },
         {
@@ -1493,7 +1633,8 @@
             "de": "Anserall (Kirche Sant Serni)",
             "hu": "Anserall (Sant Serni templom)",
             "ro": "Anserall (Biserica Sant Serni)",
-            "en": "Anserall (Sant Serni Church)"
+            "en": "Anserall (Sant Serni Church)",
+            "es": "Anserall (iglesia de Sant Serni)"
           },
           "coords": [
             1.4535,
@@ -1508,7 +1649,8 @@
             "de": "Kurzer Abstecher zu den Resten des Klosters.",
             "hu": "Rövid kitérő a kolostor romjaihoz.",
             "ro": "Scurtă excursie la resturile mănăstirii.",
-            "en": "Short detour to the monastery remains."
+            "en": "Short detour to the monastery remains.",
+            "es": "Breve desvío hasta las ruinas del monasterio."
           }
         }
       ],
@@ -1516,7 +1658,8 @@
         "de": "Mit dem Auto erreichen Sie zuerst die Festung Castell de Ciutat, die über der Stadt thront. Danach parken Sie bequem am Rande der Altstadt.\n\nDer Mittag ist der prächtigen Kathedrale und einem Spaziergang durch die historischen Gassen gewidmet.\n\nAm Nachmittag fahren Sie zum Segre-Park, wo Sie die olympische Anlage besichtigen oder die Natur genießen können.\n\nZum Abschluss führt eine kurze Fahrt nach Anserall, um die romanischen Überreste von Sant Serni de Tavèrnoles zu entdecken.",
         "hu": "Autóval először a város felett trónoló Castell de Ciutat erődöt érheti el. Ezután kényelmesen parkolhat az óváros szélén.\n\nA délidőt a pompás katedrálisnak és a történelmi utcákban tett sétának szenteljük.\n\nDélután hajtson el a Segre Parkba, ahol megtekintheti az olimpiai létesítményt vagy élvezheti a természetet.\n\nBefejezésül egy rövid út vezet Anserallba, hogy felfedezze Sant Serni de Tavèrnoles román stílusú maradványait.",
         "ro": "Cu mașina, ajungeți mai întâi la fortăreața Castell de Ciutat, care domină orașul. Apoi parcați confortabil la marginea centrului vechi.\n\nPrânzul este dedicat splendidei catedrale și unei plimbări pe străzile istorice.\n\nDupă-amiaza, mergeți la Parcul Segre, unde puteți vizita complexul olimpic sau vă puteți bucura de natură.\n\nLa final, o scurtă călătorie vă duce la Anserall pentru a descoperi vestigiile romanice de la Sant Serni de Tavèrnoles.",
-        "en": "By car, you first reach the Castell de Ciutat fortress, which towers over the city. Then park conveniently on the edge of the old town.\n\nMidday is dedicated to the magnificent cathedral and a stroll through the historical streets.\n\nIn the afternoon, drive to Segre Park, where you can visit the Olympic facility or enjoy nature.\n\nTo finish, a short drive leads to Anserall to discover the Romanesque remains of Sant Serni de Tavèrnoles."
+        "en": "By car, you first reach the Castell de Ciutat fortress, which towers over the city. Then park conveniently on the edge of the old town.\n\nMidday is dedicated to the magnificent cathedral and a stroll through the historical streets.\n\nIn the afternoon, drive to Segre Park, where you can visit the Olympic facility or enjoy nature.\n\nTo finish, a short drive leads to Anserall to discover the Romanesque remains of Sant Serni de Tavèrnoles.",
+        "es": "En coche, primero se llega a la fortaleza del Castell de Ciutat, que domina la ciudad. Luego aparca cómodamente en el borde del casco antiguo.\n\nEl mediodía está dedicado a la magnífica catedral y a pasear por las calles históricas.\n\nPor la tarde, conduce hasta el Parc del Segre, donde puedes visitar las instalaciones olímpicas o disfrutar de la naturaleza.\n\nPara acabar, un corto trayecto lleva a Anserall para descubrir los restos románicos de Sant Serni de Tavèrnoles."
       },
       "gastro_picks": {
         "de": [
@@ -1628,6 +1771,13 @@
           "Watch out for one-way streets in the center.",
           "Visit the Cooperative for souvenirs.",
           "The road to Andorra is often prone to traffic jams."
+        ],
+        "es": [
+          "Aparcar en el casco antiguo es difícil; usa aparcamientos subterráneos.",
+          "El trayecto hasta Anserall dura solo 5 minutos.",
+          "Cuidado con las calles de sentido único en el centro.",
+          "Visita la Cooperativa para comprar recuerdos.",
+          "La carretera hacia Andorra suele tener atascos."
         ]
       },
       "variants": {
@@ -1636,7 +1786,8 @@
             "de": "Mit dem Auto erreichen Sie zuerst die Festung Castell de Ciutat, die über der Stadt thront. Danach parken Sie bequem am Rande der Altstadt.\n\nDer Mittag ist der prächtigen Kathedrale und einem Spaziergang durch die historischen Gassen gewidmet.\n\nAm Nachmittag fahren Sie zum Segre-Park, wo Sie die olympische Anlage besichtigen oder die Natur genießen können.\n\nZum Abschluss führt eine kurze Fahrt nach Anserall, um die romanischen Überreste von Sant Serni de Tavèrnoles zu entdecken.",
             "hu": "Autóval először a város felett trónoló Castell de Ciutat erődöt érheti el. Ezután kényelmesen parkolhat az óváros szélén.\n\nA délidőt a pompás katedrálisnak és a történelmi utcákban tett sétának szenteljük.\n\nDélután hajtson el a Segre Parkba, ahol megtekintheti az olimpiai létesítményt vagy élvezheti a természetet.\n\nBefejezésül egy rövid út vezet Anserallba, hogy felfedezze Sant Serni de Tavèrnoles román stílusú maradványait.",
             "ro": "Cu mașina, ajungeți mai întâi la fortăreața Castell de Ciutat, care domină orașul. Apoi parcați confortabil la marginea centrului vechi.\n\nPrânzul este dedicat splendidei catedrale și unei plimbări pe străzile istorice.\n\nDupă-amiaza, mergeți la Parcul Segre, unde puteți vizita complexul olimpic sau vă puteți bucura de natură.\n\nLa final, o scurtă călătorie vă duce la Anserall pentru a descoperi vestigiile romanice de la Sant Serni de Tavèrnoles.",
-            "en": "By car, you first reach the Castell de Ciutat fortress, which towers over the city. Then park conveniently on the edge of the old town.\n\nMidday is dedicated to the magnificent cathedral and a stroll through the historical streets.\n\nIn the afternoon, drive to Segre Park, where you can visit the Olympic facility or enjoy nature.\n\nTo finish, a short drive leads to Anserall to discover the Romanesque remains of Sant Serni de Tavèrnoles."
+            "en": "By car, you first reach the Castell de Ciutat fortress, which towers over the city. Then park conveniently on the edge of the old town.\n\nMidday is dedicated to the magnificent cathedral and a stroll through the historical streets.\n\nIn the afternoon, drive to Segre Park, where you can visit the Olympic facility or enjoy nature.\n\nTo finish, a short drive leads to Anserall to discover the Romanesque remains of Sant Serni de Tavèrnoles.",
+            "es": "En coche, primero se llega a la fortaleza del Castell de Ciutat, que domina la ciudad. Luego aparca cómodamente en el borde del casco antiguo.\n\nEl mediodía está dedicado a la magnífica catedral y a pasear por las calles históricas.\n\nPor la tarde, conduce hasta el Parc del Segre, donde puedes visitar las instalaciones olímpicas o disfrutar de la naturaleza.\n\nPara acabar, un corto trayecto lleva a Anserall para descubrir los restos románicos de Sant Serni de Tavèrnoles."
           },
           "stops": [
             {
@@ -1644,13 +1795,15 @@
                 "de": "Castell de Ciutat",
                 "hu": "Castell de Ciutat",
                 "ro": "Castell de Ciutat",
-                "en": "Castell de Ciutat"
+                "en": "Castell de Ciutat",
+                "es": "Castell de Ciutat"
               },
               "tip_5lang": {
                 "de": "Historische Festung, heute auch Luxushotel.",
                 "hu": "Történelmi erőd, ma luxusszálloda is.",
                 "ro": "Cetate istorică, astăzi și hotel de lux.",
-                "en": "Historical fortress, now also a luxury hotel."
+                "en": "Historical fortress, now also a luxury hotel.",
+                "es": "Fortaleza histórica, actualmente también un hotel de lujo."
               }
             },
             {
@@ -1658,13 +1811,15 @@
                 "de": "Altstadt Parken",
                 "hu": "Óvárosi parkoló",
                 "ro": "Parcare Centru Vechi",
-                "en": "Old Town Parking"
+                "en": "Old Town Parking",
+                "es": "Aparcamiento casco antiguo"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das Parkhaus am Eingang zur Altstadt.",
                 "hu": "Használja az óváros bejáratánál lévő parkolóházat.",
                 "ro": "Folosiți parcarea de la intrarea în centrul vechi.",
-                "en": "Use the parking garage at the old town entrance."
+                "en": "Use the parking garage at the old town entrance.",
+                "es": "Utiliza el aparcamiento subterráneo en la entrada del casco antiguo."
               }
             },
             {
@@ -1672,13 +1827,15 @@
                 "de": "Kathedrale Santa Maria",
                 "hu": "Santa Maria katedrális",
                 "ro": "Catedrala Santa Maria",
-                "en": "Santa Maria Cathedral"
+                "en": "Santa Maria Cathedral",
+                "es": "Catedral de Santa María"
               },
               "tip_5lang": {
                 "de": "Zentrum der Pyrenäen-Romanik.",
                 "hu": "A pireneusi román stílus központja.",
                 "ro": "Centrul romanicului pirineic.",
-                "en": "Center of Pyrenean Romanesque."
+                "en": "Center of Pyrenean Romanesque.",
+                "es": "Centro del románico pirenaico."
               }
             },
             {
@@ -1686,13 +1843,15 @@
                 "de": "Segre-Park Kanuzentrum",
                 "hu": "Segre Park kajak központ",
                 "ro": "Centrul de canoe Parcul Segre",
-                "en": "Segre Park Canoe Center"
+                "en": "Segre Park Canoe Center",
+                "es": "Centro de Piragüismo del Parc del Segre"
               },
               "tip_5lang": {
                 "de": "Großer Parkplatz direkt am Sportgelände.",
                 "hu": "Nagy parkoló közvetlenül a sportpályánál.",
                 "ro": "Parcare mare direct la complexul sportiv.",
-                "en": "Large parking lot directly at the sports complex."
+                "en": "Large parking lot directly at the sports complex.",
+                "es": "Amplio aparcamiento junto al complejo deportivo."
               }
             },
             {
@@ -1700,13 +1859,15 @@
                 "de": "Anserall (Kirche Sant Serni)",
                 "hu": "Anserall (Sant Serni templom)",
                 "ro": "Anserall (Biserica Sant Serni)",
-                "en": "Anserall (Sant Serni Church)"
+                "en": "Anserall (Sant Serni Church)",
+                "es": "Anserall (iglesia de Sant Serni)"
               },
               "tip_5lang": {
                 "de": "Kurzer Abstecher zu den Resten des Klosters.",
                 "hu": "Rövid kitérő a kolostor romjaihoz.",
                 "ro": "Scurtă excursie la resturile mănăstirii.",
-                "en": "Short detour to the monastery remains."
+                "en": "Short detour to the monastery remains.",
+                "es": "Breve desvío hasta las ruinas del monasterio."
               }
             }
           ],
@@ -1820,6 +1981,13 @@
               "Watch out for one-way streets in the center.",
               "Visit the Cooperative for souvenirs.",
               "The road to Andorra is often prone to traffic jams."
+            ],
+            "es": [
+              "Aparcar en el casco antiguo es difícil; usa aparcamientos subterráneos.",
+              "El trayecto hasta Anserall dura solo 5 minutos.",
+              "Cuidado con las calles de sentido único en el centro.",
+              "Visita la Cooperativa para comprar recuerdos.",
+              "La carretera hacia Andorra suele tener atascos."
             ]
           }
         },
@@ -1828,7 +1996,8 @@
             "de": "Fahren Sie morgens hinauf zum Castell de Ciutat und genießen Sie den Blick auf das verregnete Tal. Parken Sie mittags bequem in der Nähe der Altstadt für einen kurzen Weg zur Kathedrale. Nachmittags ist das Segre Park Kanuzentrum ein faszinierender Ort, um den Elementen zuzusehen. Der Tag endet mit einer kurzen Fahrt zur Sant Serni Kirche in Anserall.",
             "hu": "Reggel hajtson fel a Castell de Ciutat-hoz, és élvezze a kilátást az esős völgyre. Délben parkoljon kényelmesen az óváros közelében a katedrálishoz vezető rövid úthoz. Délután a Segre Park kajakközpontja lenyűgöző hely az elemek megfigyelésére. A nap egy rövid autózással zárul az anseralli Sant Serni templomhoz.",
             "ro": "Conduceți dimineața până la Castell de Ciutat pentru o vedere panoramică asupra văii ploioase. La prânz, parcați aproape de centrul vechi pentru un acces ușor la catedrală. După-amiaza, centrul de canoe din Parcul Segre este un loc fascinant pentru a urmări natura. Ziua se încheie cu o scurtă cursă spre biserica Sant Serni din Anserall.",
-            "en": "Drive up to Castell de Ciutat in the morning and enjoy the view of the rainy valley. At midday, park conveniently near the old town for a short walk to the cathedral. In the afternoon, the Segre Park Canoe Center is a fascinating spot to watch the elements. The day ends with a short drive to Sant Serni Church in Anserall."
+            "en": "Drive up to Castell de Ciutat in the morning and enjoy the view of the rainy valley. At midday, park conveniently near the old town for a short walk to the cathedral. In the afternoon, the Segre Park Canoe Center is a fascinating spot to watch the elements. The day ends with a short drive to Sant Serni Church in Anserall.",
+            "es": "Sube en coche al Castell de Ciutat por la mañana y disfruta de las vistas del valle lluvioso. Al mediodía, aparca cerca del casco antiguo para caminar hasta la catedral. Por la tarde, el Centro de Piragüismo del Parc del Segre es un lugar fascinante para ver los elementos. El día termina con un corto trayecto hasta la iglesia de Sant Serni en Anserall."
           },
           "stops": [
             {
@@ -1837,7 +2006,8 @@
                 "de": "Der Parkplatz ist direkt am Eingang, ideal bei Regen.",
                 "hu": "A parkoló közvetlenül a bejáratnál van, ideális esőben.",
                 "ro": "Parcarea este chiar la intrare, ideal pe timp de ploaie.",
-                "en": "The parking lot is right at the entrance, ideal for rain."
+                "en": "The parking lot is right at the entrance, ideal for rain.",
+                "es": "El aparcamiento está justo en la entrada, ideal con lluvia."
               }
             },
             {
@@ -1846,7 +2016,8 @@
                 "de": "Wählen Sie ein Parkhaus für einen komplett trockenen Ausstieg.",
                 "hu": "Válasszon parkolóházat a teljesen száraz kiszálláshoz.",
                 "ro": "Alegeți o parcare acoperită pentru a coborî la uscat.",
-                "en": "Choose a parking garage for a completely dry exit from the car."
+                "en": "Choose a parking garage for a completely dry exit from the car.",
+                "es": "Elige un aparcamiento subterráneo para salir completamente seco del coche."
               }
             },
             {
@@ -1855,7 +2026,8 @@
                 "de": "Nur wenige Gehminuten vom Parkplatz entfernt.",
                 "hu": "Csak néhány perc séta a parkolótól.",
                 "ro": "La doar câteva minute de mers pe jos de parcare.",
-                "en": "Only a few minutes' walk from the parking area."
+                "en": "Only a few minutes' walk from the parking area.",
+                "es": "A solo unos minutos a pie desde la zona de aparcamiento."
               }
             },
             {
@@ -1864,7 +2036,8 @@
                 "de": "Beobachten Sie die Sportler vom überdachten Zentrum aus.",
                 "hu": "Figyelje a sportolókat a fedett központból.",
                 "ro": "Urmăriți sportivii din interiorul centrului acoperit.",
-                "en": "Watch the athletes from the sheltered center building."
+                "en": "Watch the athletes from the sheltered center building.",
+                "es": "Observa a los atletas desde el edificio central cubierto."
               }
             },
             {
@@ -1873,7 +2046,8 @@
                 "de": "Die kurze Fahrt bietet gute Sicht auf den Fluss.",
                 "hu": "A rövid út jó kilátást nyújt a folyóra.",
                 "ro": "Drumul scurt oferă o vedere bună asupra râului.",
-                "en": "The short drive offers good views of the swollen river."
+                "en": "The short drive offers good views of the swollen river.",
+                "es": "El corto trayecto ofrece buenas vistas del río crecido."
               }
             }
           ],
@@ -1901,6 +2075,12 @@
               "Mountain roads may have debris during heavy rainstorms.",
               "Use parking lots located directly at the edge of the pedestrian zone.",
               "Visibility in the valley can be limited by fog."
+            ],
+            "es": [
+              "Revisa los limpiaparabrisas antes de entrar en la montaña.",
+              "Las carreteras de montaña pueden tener desprendimientos durante fuertes lluvias.",
+              "Usa los aparcamientos situados justo en el borde de la zona peatonal.",
+              "La visibilidad en el valle puede verse reducida por la niebla."
             ]
           }
         },
@@ -1909,7 +2089,8 @@
             "de": "Genießen Sie die winterliche Fahrt zum Castell de Ciutat mit Blick auf die schneebedeckten Gipfel. Mittags erreichen Sie die Altstadt und besuchen die geschichtsträchtige Kathedrale. Am Nachmittag bietet der Segre Park eine klare, frische Atmosphäre am Wasser. Zum Abschluss führt die Fahrt nach Anserall, wo die romanische Kirche Sant Serni in der Wintersonne leuchtet.",
             "hu": "Élvezze a téli autózást a Castell de Ciutat-hoz, kilátással a hófödte csúcsokra. Délben érje el az óvárost, és látogassa meg a történelmi katedrálist. Délután a Segre Park tiszta, friss hangulatot áraszt a vízparton. Végezetül az út Anserallba vezet, ahol a Sant Serni román stílusú templom ragyog a téli napsütésben.",
             "ro": "Bucurați-vă de drumul hibernal spre Castell de Ciutat cu vedere la vârfurile înzăpezite. La prânz, ajungeți în centrul vechi și vizitați catedrala istorică. După-amiaza, Parcul Segre oferă o atmosferă clară și proaspătă pe malul apei. La final, drumul duce la Anserall, unde biserica romanică Sant Serni strălucește în soarele iernii.",
-            "en": "Enjoy the winter drive to Castell de Ciutat with views of the snow-capped peaks. At midday, reach the old town and visit the historic cathedral. In the afternoon, Segre Park offers a clear, fresh atmosphere by the water. Finally, the drive leads to Anserall, where the Romanesque church of Sant Serni shines in the winter sun."
+            "en": "Enjoy the winter drive to Castell de Ciutat with views of the snow-capped peaks. At midday, reach the old town and visit the historic cathedral. In the afternoon, Segre Park offers a clear, fresh atmosphere by the water. Finally, the drive leads to Anserall, where the Romanesque church of Sant Serni shines in the winter sun.",
+            "es": "Disfruta del trayecto invernal hasta el Castell de Ciutat con vistas de cumbres nevadas. Al mediodía, llega al casco antiguo y visita la histórica catedral. Por la tarde, el Parc del Segre ofrece un ambiente claro y fresco junto al agua. Finalmente, el trayecto conduce a Anserall, donde la iglesia románica de Sant Serni brilla al sol invernal."
           },
           "stops": [
             {
@@ -1918,7 +2099,8 @@
                 "de": "Achten Sie auf vereiste Stellen auf dem Zufahrtsweg.",
                 "hu": "Ügyeljen a jeges foltokra a bekötőúton.",
                 "ro": "Atenție la porțiunile înghețate de pe drumul de acces.",
-                "en": "Watch out for icy patches on the access road."
+                "en": "Watch out for icy patches on the access road.",
+                "es": "Cuidado con placas de hielo en la carretera de acceso."
               }
             },
             {
@@ -1927,7 +2109,8 @@
                 "de": "Der Parkplatz ist meist gut geräumt.",
                 "hu": "A parkoló általában jól le van takarítva.",
                 "ro": "Parcarea este de obicei bine curățată de zăpadă.",
-                "en": "The parking lot is usually well-cleared of snow."
+                "en": "The parking lot is usually well-cleared of snow.",
+                "es": "El aparcamiento suele estar bien despejado de nieve."
               }
             },
             {
@@ -1936,7 +2119,8 @@
                 "de": "Im Winter sind weniger Touristen hier, genießen Sie die Ruhe.",
                 "hu": "Télen kevesebb a turista, élvezze a nyugalmat.",
                 "ro": "Iarna sunt mai puțini turiști, bucurați-vă de liniște.",
-                "en": "Fewer tourists in winter, enjoy the peaceful atmosphere."
+                "en": "Fewer tourists in winter, enjoy the peaceful atmosphere.",
+                "es": "Menos turistas en invierno; disfruta de la atmósfera tranquila."
               }
             },
             {
@@ -1945,7 +2129,8 @@
                 "de": "Ein schöner Ort für einen kurzen Spaziergang am Wasser.",
                 "hu": "Szép hely egy rövid sétához a vízparton.",
                 "ro": "Un loc frumos pentru o scurtă plimbare pe malul apei.",
-                "en": "A beautiful spot for a short walk by the water."
+                "en": "A beautiful spot for a short walk by the water.",
+                "es": "Un lugar precioso para un paseo corto junto al agua."
               }
             },
             {
@@ -1954,7 +2139,8 @@
                 "de": "Die Kirche ist in der Wintersonne ein tolles Fotomotiv.",
                 "hu": "A templom a téli napsütésben remek fotótéma.",
                 "ro": "Biserica este un subiect foto excelent în soarele iernii.",
-                "en": "The church is a great photo subject in the winter sun."
+                "en": "The church is a great photo subject in the winter sun.",
+                "es": "La iglesia es un gran motivo fotográfico con el sol invernal."
               }
             }
           ],
@@ -1982,6 +2168,12 @@
               "Carry snow chains if you plan to drive higher into the Pyrenees.",
               "Car heating provides pleasant breaks between outdoor stops.",
               "Watch out for wildlife crossing the roads at dusk."
+            ],
+            "es": [
+              "Los neumáticos de invierno son absolutamente necesarios en esta región montañosa.",
+              "Lleva cadenas si piensas subir más alto en los Pirineos.",
+              "La calefacción del coche ofrece descansos agradables entre las paradas al aire libre.",
+              "Cuidado con la fauna que cruza las carreteras al anochecer."
             ]
           }
         }
@@ -2000,7 +2192,8 @@
             "de": "Busbahnhof La Seu",
             "hu": "La Seu buszpályaudvar",
             "ro": "Autogara La Seu",
-            "en": "La Seu Bus Station"
+            "en": "La Seu Bus Station",
+            "es": "Estación de autobuses de La Seu"
           },
           "coords": [
             1.4608,
@@ -2015,7 +2208,8 @@
             "de": "Zentraler Ankunftspunkt für Busse aus Barcelona/Lleida.",
             "hu": "Központi érkezési pont a Barcelonából/Lleidából érkező buszoknak.",
             "ro": "Punct central de sosire pentru autobuzele din Barcelona/Lleida.",
-            "en": "Central arrival point for buses from Barcelona/Lleida."
+            "en": "Central arrival point for buses from Barcelona/Lleida.",
+            "es": "Punto de llegada central para autobuses desde Barcelona/Lleida."
           }
         },
         {
@@ -2023,7 +2217,8 @@
             "de": "Calle Mayor / Altstadt",
             "hu": "Calle Mayor / Óváros",
             "ro": "Calle Mayor / Centrul Vechi",
-            "en": "Calle Mayor / Old Town"
+            "en": "Calle Mayor / Old Town",
+            "es": "Calle Mayor / Casco antiguo"
           },
           "coords": [
             1.4612,
@@ -2038,7 +2233,8 @@
             "de": "Kurzer Fußweg vom Busbahnhof.",
             "hu": "Rövid séta a buszpályaudvartól.",
             "ro": "Scurtă plimbare de la autogară.",
-            "en": "Short walk from the bus station."
+            "en": "Short walk from the bus station.",
+            "es": "A poca distancia a pie desde la estación de autobuses."
           }
         },
         {
@@ -2046,7 +2242,8 @@
             "de": "Kathedrale Santa Maria",
             "hu": "Santa Maria katedrális",
             "ro": "Catedrala Santa Maria",
-            "en": "Santa Maria Cathedral"
+            "en": "Santa Maria Cathedral",
+            "es": "Catedral de Santa María"
           },
           "coords": [
             1.4618,
@@ -2061,7 +2258,8 @@
             "de": "Das Wahrzeichen der Stadt.",
             "hu": "A város jelképe.",
             "ro": "Simbolul orașului.",
-            "en": "The landmark of the city."
+            "en": "The landmark of the city.",
+            "es": "El icono de la ciudad."
           }
         },
         {
@@ -2069,7 +2267,8 @@
             "de": "Segre-Park",
             "hu": "Segre Park",
             "ro": "Parcul Segre",
-            "en": "Segre Park"
+            "en": "Segre Park",
+            "es": "Parc del Segre"
           },
           "coords": [
             1.4655,
@@ -2084,7 +2283,8 @@
             "de": "Zu Fuß oder mit dem Lokalbus erreichbar.",
             "hu": "Gyalog vagy helyi busszal elérhető.",
             "ro": "Accesibil pe jos sau cu autobuzul local.",
-            "en": "Accessible on foot or by local bus."
+            "en": "Accessible on foot or by local bus.",
+            "es": "Accesible a pie o en autobús local."
           }
         },
         {
@@ -2092,7 +2292,8 @@
             "de": "Espai Ermengol",
             "hu": "Espai Ermengol",
             "ro": "Espai Ermengol",
-            "en": "Espai Ermengol"
+            "en": "Espai Ermengol",
+            "es": "Espai Ermengol"
           },
           "coords": [
             1.461,
@@ -2107,7 +2308,8 @@
             "de": "Touristeninformation im selben Gebäude.",
             "hu": "Turista információ ugyanabban az épületben.",
             "ro": "Informații turistice în aceeași clădire.",
-            "en": "Tourist information in the same building."
+            "en": "Tourist information in the same building.",
+            "es": "Oficina de turismo en el mismo edificio."
           }
         }
       ],
@@ -2115,7 +2317,8 @@
         "de": "Nach der Ankunft am Busbahnhof erkunden Sie das Herz der Stadt zu Fuß. Die Calle Mayor führt Sie direkt zur imposanten Kathedrale.\n\nDer Mittag lädt zu einem entspannten Essen in der Altstadt ein, bevor Sie zum nahegelegenen Segre-Park spazieren.\n\nNachmittags genießen Sie die Atmosphäre im Park und kehren dann für einen Museumsbesuch in das historische Zentrum zurück.\n\nBeenden Sie Ihren Besuch im Espai Ermengol, bevor Sie Ihren Bus für die Weiterreise nehmen.",
         "hu": "A buszpályaudvarra érkezés után gyalog fedezze fel a város szívét. A Calle Mayor egyenesen az impozáns katedrálishoz vezet.\n\nA délidő egy pihentető ebédre hív az óvárosban, mielőtt elsétálna a közeli Segre Parkba.\n\nDélután élvezze a park hangulatát, majd térjen vissza a történelmi központba egy múzeumlátogatásra.\n\nZárja látogatását az Espai Ermengolban, mielőtt felszállna a továbbutazáshoz szükséges buszra.",
         "ro": "După sosirea la autogară, explorați inima orașului pe jos. Calle Mayor vă duce direct la catedrala impunătoare.\n\nPrânzul vă invită la o masă relaxată în centrul vechi, înainte de a merge pe jos la Parcul Segre din apropiere.\n\nDupă-amiaza, bucurați-vă de atmosfera din parc și apoi reveniți în centrul istoric pentru o vizită la muzeu.\n\nÎncheiați vizita la Espai Ermengol înainte de a lua autobuzul pentru continuarea călătoriei.",
-        "en": "After arriving at the bus station, explore the heart of the city on foot. Calle Mayor leads you straight to the imposing cathedral.\n\nMidday invites you to a relaxed meal in the old town before walking to the nearby Segre Park.\n\nIn the afternoon, enjoy the atmosphere in the park and then return to the historical center for a museum visit.\n\nEnd your visit at Espai Ermengol before taking your bus for further travel."
+        "en": "After arriving at the bus station, explore the heart of the city on foot. Calle Mayor leads you straight to the imposing cathedral.\n\nMidday invites you to a relaxed meal in the old town before walking to the nearby Segre Park.\n\nIn the afternoon, enjoy the atmosphere in the park and then return to the historical center for a museum visit.\n\nEnd your visit at Espai Ermengol before taking your bus for further travel.",
+        "es": "Tras llegar a la estación de autobuses, recorre el corazón de la ciudad a pie. La Calle Mayor te conduce directamente a la imponente catedral.\n\nAl mediodía, disfruta de una comida relajada en el casco antiguo antes de caminar al cercano Parc del Segre.\n\nPor la tarde, disfruta del ambiente del parque y luego vuelve al centro histórico para visitar un museo.\n\nTermina tu visita en el Espai Ermengol antes de tomar tu autobús para continuar el viaje."
       },
       "gastro_picks": {
         "de": [
@@ -2227,6 +2430,13 @@
           "La Seu is very easily explored on foot.",
           "Use the free Wi-Fi at the tourist info.",
           "Most sights are close to each other."
+        ],
+        "es": [
+          "La estación de autobuses está a solo 5 minutos del casco antiguo.",
+          "Consulta los horarios de ALSA con antelación.",
+          "La Seu se explora muy fácilmente a pie.",
+          "Usa el Wi‑Fi gratuito en la oficina de turismo.",
+          "La mayoría de los lugares de interés están cerca unos de otros."
         ]
       },
       "variants": {
@@ -2235,7 +2445,8 @@
             "de": "Nach der Ankunft am Busbahnhof erkunden Sie das Herz der Stadt zu Fuß. Die Calle Mayor führt Sie direkt zur imposanten Kathedrale.\n\nDer Mittag lädt zu einem entspannten Essen in der Altstadt ein, bevor Sie zum nahegelegenen Segre-Park spazieren.\n\nNachmittags genießen Sie die Atmosphäre im Park und kehren dann für einen Museumsbesuch in das historische Zentrum zurück.\n\nBeenden Sie Ihren Besuch im Espai Ermengol, bevor Sie Ihren Bus für die Weiterreise nehmen.",
             "hu": "A buszpályaudvarra érkezés után gyalog fedezze fel a város szívét. A Calle Mayor egyenesen az impozáns katedrálishoz vezet.\n\nA délidő egy pihentető ebédre hív az óvárosban, mielőtt elsétálna a közeli Segre Parkba.\n\nDélután élvezze a park hangulatát, majd térjen vissza a történelmi központba egy múzeumlátogatásra.\n\nZárja látogatását az Espai Ermengolban, mielőtt felszállna a továbbutazáshoz szükséges buszra.",
             "ro": "După sosirea la autogară, explorați inima orașului pe jos. Calle Mayor vă duce direct la catedrala impunătoare.\n\nPrânzul vă invită la o masă relaxată în centrul vechi, înainte de a merge pe jos la Parcul Segre din apropiere.\n\nDupă-amiaza, bucurați-vă de atmosfera din parc și apoi reveniți în centrul istoric pentru o vizită la muzeu.\n\nÎncheiați vizita la Espai Ermengol înainte de a lua autobuzul pentru continuarea călătoriei.",
-            "en": "After arriving at the bus station, explore the heart of the city on foot. Calle Mayor leads you straight to the imposing cathedral.\n\nMidday invites you to a relaxed meal in the old town before walking to the nearby Segre Park.\n\nIn the afternoon, enjoy the atmosphere in the park and then return to the historical center for a museum visit.\n\nEnd your visit at Espai Ermengol before taking your bus for further travel."
+            "en": "After arriving at the bus station, explore the heart of the city on foot. Calle Mayor leads you straight to the imposing cathedral.\n\nMidday invites you to a relaxed meal in the old town before walking to the nearby Segre Park.\n\nIn the afternoon, enjoy the atmosphere in the park and then return to the historical center for a museum visit.\n\nEnd your visit at Espai Ermengol before taking your bus for further travel.",
+            "es": "Tras llegar a la estación de autobuses, recorre el corazón de la ciudad a pie. La Calle Mayor te conduce directamente a la imponente catedral.\n\nAl mediodía, disfruta de una comida relajada en el casco antiguo antes de caminar al cercano Parc del Segre.\n\nPor la tarde, disfruta del ambiente del parque y luego vuelve al centro histórico para visitar un museo.\n\nTermina tu visita en el Espai Ermengol antes de tomar tu autobús para continuar el viaje."
           },
           "stops": [
             {
@@ -2243,13 +2454,15 @@
                 "de": "Busbahnhof La Seu",
                 "hu": "La Seu buszpályaudvar",
                 "ro": "Autogara La Seu",
-                "en": "La Seu Bus Station"
+                "en": "La Seu Bus Station",
+                "es": "Estación de autobuses de La Seu"
               },
               "tip_5lang": {
                 "de": "Zentraler Ankunftspunkt für Busse aus Barcelona/Lleida.",
                 "hu": "Központi érkezési pont a Barcelonából/Lleidából érkező buszoknak.",
                 "ro": "Punct central de sosire pentru autobuzele din Barcelona/Lleida.",
-                "en": "Central arrival point for buses from Barcelona/Lleida."
+                "en": "Central arrival point for buses from Barcelona/Lleida.",
+                "es": "Punto de llegada central para autobuses desde Barcelona/Lleida."
               }
             },
             {
@@ -2257,13 +2470,15 @@
                 "de": "Calle Mayor / Altstadt",
                 "hu": "Calle Mayor / Óváros",
                 "ro": "Calle Mayor / Centrul Vechi",
-                "en": "Calle Mayor / Old Town"
+                "en": "Calle Mayor / Old Town",
+                "es": "Calle Mayor / Casco antiguo"
               },
               "tip_5lang": {
                 "de": "Kurzer Fußweg vom Busbahnhof.",
                 "hu": "Rövid séta a buszpályaudvartól.",
                 "ro": "Scurtă plimbare de la autogară.",
-                "en": "Short walk from the bus station."
+                "en": "Short walk from the bus station.",
+                "es": "A poca distancia a pie desde la estación de autobuses."
               }
             },
             {
@@ -2271,13 +2486,15 @@
                 "de": "Kathedrale Santa Maria",
                 "hu": "Santa Maria katedrális",
                 "ro": "Catedrala Santa Maria",
-                "en": "Santa Maria Cathedral"
+                "en": "Santa Maria Cathedral",
+                "es": "Catedral de Santa María"
               },
               "tip_5lang": {
                 "de": "Das Wahrzeichen der Stadt.",
                 "hu": "A város jelképe.",
                 "ro": "Simbolul orașului.",
-                "en": "The landmark of the city."
+                "en": "The landmark of the city.",
+                "es": "El icono de la ciudad."
               }
             },
             {
@@ -2285,13 +2502,15 @@
                 "de": "Segre-Park",
                 "hu": "Segre Park",
                 "ro": "Parcul Segre",
-                "en": "Segre Park"
+                "en": "Segre Park",
+                "es": "Parc del Segre"
               },
               "tip_5lang": {
                 "de": "Zu Fuß oder mit dem Lokalbus erreichbar.",
                 "hu": "Gyalog vagy helyi busszal elérhető.",
                 "ro": "Accesibil pe jos sau cu autobuzul local.",
-                "en": "Accessible on foot or by local bus."
+                "en": "Accessible on foot or by local bus.",
+                "es": "Accesible a pie o en autobús local."
               }
             },
             {
@@ -2299,13 +2518,15 @@
                 "de": "Espai Ermengol",
                 "hu": "Espai Ermengol",
                 "ro": "Espai Ermengol",
-                "en": "Espai Ermengol"
+                "en": "Espai Ermengol",
+                "es": "Espai Ermengol"
               },
               "tip_5lang": {
                 "de": "Touristeninformation im selben Gebäude.",
                 "hu": "Turista információ ugyanabban az épületben.",
                 "ro": "Informații turistice în aceeași clădire.",
-                "en": "Tourist information in the same building."
+                "en": "Tourist information in the same building.",
+                "es": "Oficina de turismo en el mismo edificio."
               }
             }
           ],
@@ -2419,6 +2640,13 @@
               "La Seu is very easily explored on foot.",
               "Use the free Wi-Fi at the tourist info.",
               "Most sights are close to each other."
+            ],
+            "es": [
+              "La estación de autobuses está a solo 5 minutos del casco antiguo.",
+              "Consulta los horarios de ALSA con antelación.",
+              "La Seu se explora muy fácilmente a pie.",
+              "Usa el Wi‑Fi gratuito en la oficina de turismo.",
+              "La mayoría de los lugares de interés están cerca unos de otros."
             ]
           }
         },
@@ -2427,7 +2655,8 @@
             "de": "Kommen Sie trocken am Busbahnhof an und starten Sie Ihre Tour. Mittags erreichen Sie die Calle Mayor, wo die Arkaden perfekten Schutz bieten. Die Kathedrale ist nur einen kurzen Sprung durch den Regen entfernt. Nachmittags entspannen Sie im Segre Park, bevor Sie den Tag im interessanten Espai Ermengol abschließen.",
             "hu": "Érkezzen szárazon a buszpályaudvarra, és kezdje meg a túrát. Délben érje el a Calle Mayort, ahol az árkádok tökéletes védelmet nyújtanak. A katedrális csak egy rövid ugrás az esőben. Délután lazítson a Segre Parkban, mielőtt a napot az érdekes Espai Ermengolban zárná.",
             "ro": "Sosiți fără să vă udați la autogară și începeți turul. La prânz, ajungeți pe Calle Mayor, unde arcadele oferă protecție perfectă. Catedrala este la doar o scurtă fugă prin ploaie. După-amiaza, relaxați-vă în Parcul Segre înainte de a încheia ziua la Espai Ermengol.",
-            "en": "Arrive dry at the bus station and start your tour. At midday, reach Calle Mayor where the arcades offer perfect protection. The cathedral is just a short dash through the rain. In the afternoon, relax at Segre Park before finishing the day at the interesting Espai Ermengol."
+            "en": "Arrive dry at the bus station and start your tour. At midday, reach Calle Mayor where the arcades offer perfect protection. The cathedral is just a short dash through the rain. In the afternoon, relax at Segre Park before finishing the day at the interesting Espai Ermengol.",
+            "es": "Llega seco a la estación de autobuses y comienza tu recorrido. Al mediodía, llega a la Calle Mayor, donde los soportales ofrecen perfecta protección. La catedral está a un corto paseo bajo la lluvia. Por la tarde, relájate en el Parc del Segre antes de terminar el día en el interesante Espai Ermengol."
           },
           "stops": [
             {
@@ -2436,7 +2665,8 @@
                 "de": "Der Wartebereich ist überdacht und windgeschützt.",
                 "hu": "A váróterem fedett és szélvédett.",
                 "ro": "Zona de așteptare este acoperită și ferită de vânt.",
-                "en": "The waiting area is covered and sheltered from the wind."
+                "en": "The waiting area is covered and sheltered from the wind.",
+                "es": "La sala de espera está cubierta y resguardada del viento."
               }
             },
             {
@@ -2445,7 +2675,8 @@
                 "de": "Bushaltestelle direkt am Eingang zur Altstadt.",
                 "hu": "Buszmegálló közvetlenül az óváros bejáratánál.",
                 "ro": "Stație de autobuz chiar la intrarea în orașul vechi.",
-                "en": "Bus stop located right at the entrance to the old town."
+                "en": "Bus stop located right at the entrance to the old town.",
+                "es": "Parada de autobús ubicada justo a la entrada del casco antiguo."
               }
             },
             {
@@ -2454,7 +2685,8 @@
                 "de": "Nutzen Sie den Weg durch die Arkaden, um trocken zu bleiben.",
                 "hu": "Használja az árkádokon átvezető utat, hogy száraz maradjon.",
                 "ro": "Folosiți drumul prin arcade pentru a rămâne uscat.",
-                "en": "Use the route through the arcades to stay dry."
+                "en": "Use the route through the arcades to stay dry.",
+                "es": "Usa la ruta por los soportales para mantenerte seco."
               }
             },
             {
@@ -2463,7 +2695,8 @@
                 "de": "Bei Regen ist das Café im Park ein guter Rückzugsort.",
                 "hu": "Esőben a park kávézója jó menedék.",
                 "ro": "Pe ploaie, cafeneaua din parc este un refugiu bun.",
-                "en": "In the rain, the park cafe is a good place to take cover."
+                "en": "In the rain, the park cafe is a good place to take cover.",
+                "es": "Con lluvia, la cafetería del parque es un buen lugar para resguardarse."
               }
             },
             {
@@ -2472,7 +2705,8 @@
                 "de": "Gute Busverbindung zurück zum Bahnhof.",
                 "hu": "Jó buszkapcsolat vissza a pályaudvarra.",
                 "ro": "Conexiune bună de autobuz înapoi la autogară.",
-                "en": "Good bus connection back to the main station."
+                "en": "Good bus connection back to the main station.",
+                "es": "Buena conexión de autobús de regreso a la estación principal."
               }
             }
           ],
@@ -2500,6 +2734,12 @@
               "Keep your ticket ready to avoid waiting long in the rain.",
               "The bus station offers lockers for wet luggage.",
               "City buses are well-heated and keep you dry between stops."
+            ],
+            "es": [
+              "Los autobuses circulan puntualmente incluso con mal tiempo.",
+              "Ten el billete listo para evitar largas esperas bajo la lluvia.",
+              "La estación de autobuses ofrece taquillas para equipaje húmedo.",
+              "Los autobuses urbanos están bien calefactados y te mantienen seco entre paradas."
             ]
           }
         },
@@ -2508,7 +2748,8 @@
             "de": "Starten Sie Ihre Wintertour am gut beheizten Busbahnhof. Mittags führt der Weg zur Calle Mayor, wo Sie das geschäftige Treiben im Schutz der Arkaden erleben. Die Kathedrale beeindruckt durch ihre winterliche Stille. Am Nachmittag genießen Sie die frische Luft im Segre Park, bevor Sie sich im Espai Ermengol wieder aufwärmen.",
             "hu": "Kezdje téli túráját a jól fűtött buszpályaudvaron. Délben az út a Calle Mayorhoz vezet, ahol az árkádok védelmében tapasztalhatja meg a nyüzsgést. A katedrális téli csendjével nyűgöz le. Délután élvezze a friss levegőt a Segre Parkban, mielőtt az Espai Ermengolban újra felmelegedne.",
             "ro": "Începeți turul de iarnă la autogara bine încălzită. La prânz, drumul duce spre Calle Mayor, unde puteți experimenta agitația sub protecția arcadelor. Catedrala impresionează prin liniștea sa hibernală. După-amiaza, bucurați-vă de aerul curat în Parcul Segre înainte de a vă încălzi la Espai Ermengol.",
-            "en": "Start your winter tour at the well-heated bus station. At midday, the path leads to Calle Mayor, where you can experience the hustle and bustle sheltered by the arcades. The cathedral impresses with its winter silence. In the afternoon, enjoy the fresh air at Segre Park before warming up again at Espai Ermengol."
+            "en": "Start your winter tour at the well-heated bus station. At midday, the path leads to Calle Mayor, where you can experience the hustle and bustle sheltered by the arcades. The cathedral impresses with its winter silence. In the afternoon, enjoy the fresh air at Segre Park before warming up again at Espai Ermengol.",
+            "es": "Comienza tu ruta invernal en la estación de autobuses bien calefactada. Al mediodía, el camino conduce a la Calle Mayor, donde puedes disfrutar del bullicio protegido por los soportales. La catedral impresiona con su silencio invernal. Por la tarde, disfruta del aire fresco en el Parc del Segre antes de entrar en calor de nuevo en l'Espai Ermengol."
           },
           "stops": [
             {
@@ -2517,7 +2758,8 @@
                 "de": "Ein warmer Ort für den Start in den Tag.",
                 "hu": "Meleg hely a nap kezdéséhez.",
                 "ro": "Un loc cald pentru a începe ziua.",
-                "en": "A warm place to start your day."
+                "en": "A warm place to start your day.",
+                "es": "Un lugar cálido para empezar el día."
               }
             },
             {
@@ -2526,7 +2768,8 @@
                 "de": "Die Cafés hier sind im Winter besonders einladend.",
                 "hu": "Az itteni kávézók télen különösen vonzóak.",
                 "ro": "Cafenelele de aici sunt deosebit de primitoare iarna.",
-                "en": "The cafes here are especially inviting in winter."
+                "en": "The cafes here are especially inviting in winter.",
+                "es": "Las cafeterías aquí son especialmente acogedoras en invierno."
               }
             },
             {
@@ -2535,7 +2778,8 @@
                 "de": "Bewundern Sie die Architektur im klaren Winterlicht.",
                 "hu": "Csodálja meg az építészetet a tiszta téli fényben.",
                 "ro": "Admirați arhitectura în lumina clară de iarnă.",
-                "en": "Admire the architecture in the clear winter light."
+                "en": "Admire the architecture in the clear winter light.",
+                "es": "Admira la arquitectura con la luz clara del invierno."
               }
             },
             {
@@ -2544,7 +2788,8 @@
                 "de": "Ein zügiger Spaziergang hält Sie warm.",
                 "hu": "Egy tempós séta melegen tartja.",
                 "ro": "O plimbare vioaie vă va menține căldura.",
-                "en": "A brisk walk will keep you warm here."
+                "en": "A brisk walk will keep you warm here.",
+                "es": "Una caminata rápida te mantendrá caliente aquí."
               }
             },
             {
@@ -2553,7 +2798,8 @@
                 "de": "Nutzen Sie den Aufenthalt zum vollständigen Aufwärmen.",
                 "hu": "Használja ki a tartózkodást a teljes felmelegedéshez.",
                 "ro": "Folosiți vizita pentru a vă încălzi complet.",
-                "en": "Take advantage of the visit to fully warm up."
+                "en": "Take advantage of the visit to fully warm up.",
+                "es": "Aprovecha la visita para entrar en calor por completo."
               }
             }
           ],
@@ -2581,6 +2827,12 @@
               "Wear warm layers, as waiting at stops can be chilly.",
               "Buses are usually less crowded during the winter months.",
               "Use the local transit app for real-time delay information."
+            ],
+            "es": [
+              "Consulta el horario de invierno de los autobuses interurbanos.",
+              "Lleva capas de abrigo, ya que esperar en las paradas puede ser frío.",
+              "Los autobuses suelen ir menos llenos durante los meses de invierno.",
+              "Usa la app de transporte local para información en tiempo real sobre retrasos."
             ]
           }
         }
@@ -2596,19 +2848,22 @@
       "de": "Katalanisch ist die Alltagssprache, Spanisch wird selbstverständlich verstanden, und wegen der Nähe zu Andorra hört man oft Französisch. Englisch ist in Hotels und im Tourismusbüro solide. 'Catedral romànica', 'Parc del Segre' und 'Seu' (Bistum) sind nützliche Begriffe.",
       "hu": "A mindennapokban katalán a fő nyelv, a spanyolt mindenki érti, Andorra közelsége miatt sok franciát is hallani. Az angol jól megy a szállodákban és a tourist office-ban. Hasznos szavak: 'catedral romànica', 'Parc del Segre', 'Seu' (püspökség).",
       "ro": "Catalana e limba de zi cu zi, spaniola e înțeleasă oriunde, iar din cauza Andorrei se aude des și franceza. Engleza merge bine la hoteluri și la oficiul de turism. Cuvinte utile: 'catedral romànica', 'Parc del Segre', 'Seu' (episcopie).",
-      "en": "Catalan is the daily language; Spanish is universally understood, and French crops up thanks to nearby Andorra. English is reliable at hotels and the tourist office. Useful terms: 'catedral romànica', 'Parc del Segre' and 'Seu' (bishopric)."
+      "en": "Catalan is the daily language; Spanish is universally understood, and French crops up thanks to nearby Andorra. English is reliable at hotels and the tourist office. Useful terms: 'catedral romànica', 'Parc del Segre' and 'Seu' (bishopric).",
+      "es": "El catalán es la lengua cotidiana; el español se entiende en todas partes y el francés aparece por la cercanía con Andorra. El inglés es fiable en hoteles y en la oficina de turismo. Términos útiles: 'catedral romànica', 'Parc del Segre' y 'Seu' (sede episcopal)."
     },
     "best_time_to_visit": {
       "de": "Mai bis September für Wildwassersport im olympischen Parc del Segre, Juli und August sind Hochsaison. Im Winter ist La Seu Basislager für Andorras Skigebiete, doch in der Stadt selbst friert es regelmäßig. Oktober bringt goldene Pyrenäenwälder ohne Massen.",
       "hu": "Május-szeptember az olimpiai Parc del Segre vadvízi sportjaihoz, július-augusztus a főszezon. Télen La Seu az andorrai síterepek alaptábora, de magában a városban gyakori a fagy. Október aranyló pireneusi erdőket kínál tömeg nélkül.",
       "ro": "Mai-septembrie pentru sporturi pe ape vii în Parc del Segre olimpic, iulie-august sunt vârf de sezon. Iarna, La Seu e bază pentru stațiunile din Andorra, dar în oraș îngheață frecvent. Octombrie aduce păduri aurii fără aglomerație.",
-      "en": "May to September for whitewater sports at the Olympic Parc del Segre, with July-August as the busy peak. Winter turns La Seu into a base camp for Andorra's ski resorts, though the town itself freezes regularly. October offers golden Pyrenean forests without crowds."
+      "en": "May to September for whitewater sports at the Olympic Parc del Segre, with July-August as the busy peak. Winter turns La Seu into a base camp for Andorra's ski resorts, though the town itself freezes regularly. October offers golden Pyrenean forests without crowds.",
+      "es": "De mayo a septiembre para deportes de aguas bravas en el Olympic Parc del Segre, con julio y agosto como temporada alta. El invierno convierte La Seu en campamento base para las estaciones de esquí de Andorra, aunque el pueblo suele helarse. Octubre ofrece bosques pirenaicos dorados sin multitudes."
     },
     "neighborhood_warnings": {
       "de": "Kleine, ruhige Bischofsstadt mit sehr niedriger Kriminalität. Achten Sie auf die N-260 nach Andorra, die im Winter vereisen kann, und auf den Segre-Fluss bei Frühjahrshochwasser. Bei Konzertabenden im Sommer ist die Altstadt belebt, aber friedlich.",
       "hu": "Kicsi, csendes püspöki város, nagyon alacsony bűnözéssel. A téli jeges N-260-as (Andorra felé) és a tavaszi Segre-áradás az igazi veszély. Nyári koncertestéken zsúfolt, de békés az óváros.",
       "ro": "Oraș episcopal mic și liniștit, criminalitate foarte scăzută. Atenție la drumul N-260 spre Andorra, care îngheață iarna, și la râul Segre la viituri de primăvară. Vara, în nopțile cu concerte centrul vechi e animat, dar pașnic.",
-      "en": "Small, quiet cathedral town with very low crime. The real cautions are the N-260 to Andorra, prone to winter ice, and the Segre River during spring snowmelt. Summer concert nights liven the old quarter but stay peaceful."
+      "en": "Small, quiet cathedral town with very low crime. The real cautions are the N-260 to Andorra, prone to winter ice, and the Segre River during spring snowmelt. Summer concert nights liven the old quarter but stay peaceful.",
+      "es": "Pequeña y tranquila localidad catedralicia con muy poca delincuencia. Las precauciones reales son la N-260 hacia Andorra, propensa al hielo invernal, y el río Segre durante el deshielo primaveral. Las noches de conciertos de verano animan el casco antiguo pero se mantienen tranquilas."
     }
   }
 }

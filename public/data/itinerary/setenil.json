@@ -21,7 +21,8 @@
             "de": "Plaza de Andalucía",
             "hu": "Plaza de Andalucía",
             "ro": "Plaza de Andalucía",
-            "en": "Plaza de Andalucía"
+            "en": "Plaza de Andalucía",
+            "es": "Plaza de Andalucía"
           },
           "coords": [
             -5.1805,
@@ -36,7 +37,8 @@
             "de": "Ein guter Ausgangspunkt für den Stadtrundgang.",
             "hu": "Jó kiindulópont a városi sétához.",
             "ro": "Un bun punct de plecare pentru turul orașului.",
-            "en": "A good starting point for the city walk."
+            "en": "A good starting point for the city walk.",
+            "es": "Un buen punto de partida para el paseo por la ciudad."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Calle Cuevas del Sol",
             "hu": "Calle Cuevas del Sol",
             "ro": "Calle Cuevas del Sol",
-            "en": "Calle Cuevas del Sol"
+            "en": "Calle Cuevas del Sol",
+            "es": "Calle Cuevas del Sol"
           },
           "coords": [
             -5.1795,
@@ -59,7 +62,8 @@
             "de": "Die berühmtesten Häuser unter dem Felsen.",
             "hu": "A leghíresebb szikla alatti házak.",
             "ro": "Cele mai faimoase case de sub stâncă.",
-            "en": "The most famous houses under the rock."
+            "en": "The most famous houses under the rock.",
+            "es": "Las casas más famosas bajo la roca."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Calle Cuevas de la Sombra",
             "hu": "Calle Cuevas de la Sombra",
             "ro": "Calle Cuevas de la Sombra",
-            "en": "Calle Cuevas de la Sombra"
+            "en": "Calle Cuevas de la Sombra",
+            "es": "Calle Cuevas de la Sombra"
           },
           "coords": [
             -5.1788,
@@ -82,7 +87,8 @@
             "de": "Hier scheint die Sonne fast nie.",
             "hu": "Itt szinte sosem süt a nap.",
             "ro": "Aici soarele nu strălucește aproape niciodată.",
-            "en": "The sun almost never shines here."
+            "en": "The sun almost never shines here.",
+            "es": "Aquí casi nunca llega el sol."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Calle Herrería",
             "hu": "Calle Herrería",
             "ro": "Calle Herrería",
-            "en": "Calle Herrería"
+            "en": "Calle Herrería",
+            "es": "Calle Herrería"
           },
           "coords": [
             -5.1802,
@@ -105,7 +112,8 @@
             "de": "Eine der steilsten und engsten Gassen.",
             "hu": "Az egyik legmeredekebb és legszűkebb utca.",
             "ro": "Una dintre cele mai abrupte și înguste străduțe.",
-            "en": "One of the steepest and narrowest alleys."
+            "en": "One of the steepest and narrowest alleys.",
+            "es": "Una de las callejuelas más empinadas y estrechas."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Castillo de Setenil",
             "hu": "Setenili vár",
             "ro": "Castelul Setenil",
-            "en": "Setenil Castle"
+            "en": "Setenil Castle",
+            "es": "Castillo de Setenil"
           },
           "coords": [
             -5.1815,
@@ -128,7 +137,8 @@
             "de": "Besuchen Sie den Torre del Homenaje.",
             "hu": "Látogasd meg a Torre del Homenaje tornyot.",
             "ro": "Vizitați turnul Torre del Homenaje.",
-            "en": "Visit the Torre del Homenaje tower."
+            "en": "Visit the Torre del Homenaje tower.",
+            "es": "Visita la Torre del Homenaje."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Iglesia de la Encarnación",
             "hu": "Encarnación-templom",
             "ro": "Biserica Encarnación",
-            "en": "Church of the Incarnation"
+            "en": "Church of the Incarnation",
+            "es": "Iglesia de la Encarnación"
           },
           "coords": [
             -5.1818,
@@ -151,7 +162,8 @@
             "de": "Ein spätgotischer Bau auf dem Gipfel.",
             "hu": "Késő gótikus épület a dombtetőn.",
             "ro": "O clădire în stil gotic târziu pe vârful dealului.",
-            "en": "A late Gothic building on the hilltop."
+            "en": "A late Gothic building on the hilltop.",
+            "es": "Edificio gótico tardío en lo alto del cerro."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Ermita de San Benito",
             "hu": "Szent Benedek-remetetemplom",
             "ro": "Ermitul San Benito",
-            "en": "Hermitage of San Benito"
+            "en": "Hermitage of San Benito",
+            "es": "Ermita de San Benito"
           },
           "coords": [
             -5.1825,
@@ -174,7 +187,8 @@
             "de": "Ein einfacher, aber schöner religiöser Ort.",
             "hu": "Egyszerű, de szép vallási hely.",
             "ro": "Un loc religios simplu, dar frumos.",
-            "en": "A simple but beautiful religious site."
+            "en": "A simple but beautiful religious site.",
+            "es": "Un lugar religioso sencillo pero bonito."
           }
         },
         {
@@ -182,7 +196,8 @@
             "de": "Mirador del Carmen",
             "hu": "Carmen kilátó",
             "ro": "Mirador del Carmen",
-            "en": "Carmen Viewpoint"
+            "en": "Carmen Viewpoint",
+            "es": "Mirador del Carmen"
           },
           "coords": [
             -5.183,
@@ -197,7 +212,8 @@
             "de": "Bester Blick auf die Felsenhäuser.",
             "hu": "A legjobb kilátás a sziklaházakra.",
             "ro": "Cea mai bună vedere spre casele din stâncă.",
-            "en": "Best view of the rock houses."
+            "en": "Best view of the rock houses.",
+            "es": "Mejor vista de las casas en la roca."
           }
         }
       ],
@@ -205,7 +221,8 @@
         "de": "Setenil de las Bodegas ist weltweit einzigartig für seine Architektur, die direkt in den Fels gebaut wurde. Beginnen Sie auf der Plaza de Andalucía und tauchen Sie ein in die kühlen Gassen.\n\nMittags erleben Sie den Kontrast zwischen der Calle Cuevas del Sol, die im Licht badet, und der schattigen Calle Cuevas de la Sombra. Hier spüren Sie die Kraft der Natur über Ihren Köpfen.\n\nNachmittags steigen wir zur Burg und zur Kirche hinauf, um die historische Verteidigungsanlage der Stadt zu verstehen. Die Aussicht von oben ist atemberaubend.\n\nBeenden Sie Ihren Rundgang am Mirador del Carmen, während die Sonne langsam hinter den Felsen verschwindet und die Häuser in ein sanftes Licht taucht.",
         "hu": "Setenil de las Bodegas világszerte egyedülálló a közvetlenül a sziklába épített építészete miatt. Kezdd a Plaza de Andalucía téren, és merülj el a hűvös utcákban.\n\nDélben tapasztald meg a kontrasztot a fényárban úszó Calle Cuevas del Sol és az árnyékos Calle Cuevas de la Sombra között. Itt érezheted a természet erejét a fejed felett.\n\nDélután felmászunk a várhoz és a templomhoz, hogy megértsük a város történelmi védelmi rendszerét. A kilátás fentről lélegzetelállító.\n\nZárd a sétát a Carmen kilátónál, miközben a nap lassan eltűnik a sziklák mögött, és lágy fénybe öltözteti a házakat.",
         "ro": "Setenil de las Bodegas este unic în lume pentru arhitectura sa construită direct în stâncă. Începeți în Plaza de Andalucía și scufundați-vă în străzile răcoroase.\n\nLa prânz, experimentați contrastul dintre Calle Cuevas del Sol, scăldată în lumină, și umbroasa Calle Cuevas de la Sombra. Aici simțiți forța naturii deasupra capetelor voastre.\n\nDupă-amiaza urcăm spre castel și biserică pentru a înțelege sistemul defensiv istoric al orașului. Vederea de sus este uluitoare.\n\nÎncheiați turul la Mirador del Carmen, în timp ce soarele dispare încet după stânci, îmbrăcând casele într-o lumină blândă.",
-        "en": "Setenil de las Bodegas is unique worldwide for its architecture built directly into the rock. Start at Plaza de Andalucía and dive into the cool alleys.\n\nAt midday, experience the contrast between Calle Cuevas del Sol, bathed in light, and the shaded Calle Cuevas de la Sombra. Here you feel the power of nature above your heads.\n\nIn the afternoon, we climb up to the castle and the church to understand the city's historical defense system. The view from above is breathtaking.\n\nEnd your walk at the Mirador del Carmen as the sun slowly disappears behind the rocks, bathing the houses in a soft light."
+        "en": "Setenil de las Bodegas is unique worldwide for its architecture built directly into the rock. Start at Plaza de Andalucía and dive into the cool alleys.\n\nAt midday, experience the contrast between Calle Cuevas del Sol, bathed in light, and the shaded Calle Cuevas de la Sombra. Here you feel the power of nature above your heads.\n\nIn the afternoon, we climb up to the castle and the church to understand the city's historical defense system. The view from above is breathtaking.\n\nEnd your walk at the Mirador del Carmen as the sun slowly disappears behind the rocks, bathing the houses in a soft light.",
+        "es": "Setenil de las Bodegas es único en el mundo por su arquitectura integrada en la roca. Comienza en la Plaza de Andalucía y adéntrate en las frescas callejuelas.\n\nAl mediodía, vive el contraste entre la Calle Cuevas del Sol, bañada de luz, y la sombreada Calle Cuevas de la Sombra. Aquí se siente la fuerza de la naturaleza sobre tu cabeza.\n\nPor la tarde subimos al castillo y a la iglesia para comprender el sistema defensivo histórico de la ciudad. La vista desde arriba es impresionante.\n\nTermina el paseo en el Mirador del Carmen mientras el sol se oculta tras las rocas, bañando las casas con una luz suave."
       },
       "gastro_picks": {
         "de": [
@@ -349,6 +366,12 @@
           "The climate in the rock alleys is significantly cooler than above.",
           "Watch out for the overhanging rocks; they are stable but imposing.",
           "The climb to the castle is steep."
+        ],
+        "es": [
+          "Visita Setenil entre semana para evitar las multitudes turísticas.",
+          "El clima en las callejuelas rocosas es considerablemente más fresco que en lo alto.",
+          "Ten cuidado con las rocas salientes; son estables pero imponentes.",
+          "La subida al castillo es empinada."
         ]
       },
       "variants": {
@@ -357,7 +380,8 @@
             "de": "Setenil de las Bodegas ist weltweit einzigartig für seine Architektur, die direkt in den Fels gebaut wurde. Beginnen Sie auf der Plaza de Andalucía und tauchen Sie ein in die kühlen Gassen.\n\nMittags erleben Sie den Kontrast zwischen der Calle Cuevas del Sol, die im Licht badet, und der schattigen Calle Cuevas de la Sombra. Hier spüren Sie die Kraft der Natur über Ihren Köpfen.\n\nNachmittags steigen wir zur Burg und zur Kirche hinauf, um die historische Verteidigungsanlage der Stadt zu verstehen. Die Aussicht von oben ist atemberaubend.\n\nBeenden Sie Ihren Rundgang am Mirador del Carmen, während die Sonne langsam hinter den Felsen verschwindet und die Häuser in ein sanftes Licht taucht.",
             "hu": "Setenil de las Bodegas világszerte egyedülálló a közvetlenül a sziklába épített építészete miatt. Kezdd a Plaza de Andalucía téren, és merülj el a hűvös utcákban.\n\nDélben tapasztald meg a kontrasztot a fényárban úszó Calle Cuevas del Sol és az árnyékos Calle Cuevas de la Sombra között. Itt érezheted a természet erejét a fejed felett.\n\nDélután felmászunk a várhoz és a templomhoz, hogy megértsük a város történelmi védelmi rendszerét. A kilátás fentről lélegzetelállító.\n\nZárd a sétát a Carmen kilátónál, miközben a nap lassan eltűnik a sziklák mögött, és lágy fénybe öltözteti a házakat.",
             "ro": "Setenil de las Bodegas este unic în lume pentru arhitectura sa construită direct în stâncă. Începeți în Plaza de Andalucía și scufundați-vă în străzile răcoroase.\n\nLa prânz, experimentați contrastul dintre Calle Cuevas del Sol, scăldată în lumină, și umbroasa Calle Cuevas de la Sombra. Aici simțiți forța naturii deasupra capetelor voastre.\n\nDupă-amiaza urcăm spre castel și biserică pentru a înțelege sistemul defensiv istoric al orașului. Vederea de sus este uluitoare.\n\nÎncheiați turul la Mirador del Carmen, în timp ce soarele dispare încet după stânci, îmbrăcând casele într-o lumină blândă.",
-            "en": "Setenil de las Bodegas is unique worldwide for its architecture built directly into the rock. Start at Plaza de Andalucía and dive into the cool alleys.\n\nAt midday, experience the contrast between Calle Cuevas del Sol, bathed in light, and the shaded Calle Cuevas de la Sombra. Here you feel the power of nature above your heads.\n\nIn the afternoon, we climb up to the castle and the church to understand the city's historical defense system. The view from above is breathtaking.\n\nEnd your walk at the Mirador del Carmen as the sun slowly disappears behind the rocks, bathing the houses in a soft light."
+            "en": "Setenil de las Bodegas is unique worldwide for its architecture built directly into the rock. Start at Plaza de Andalucía and dive into the cool alleys.\n\nAt midday, experience the contrast between Calle Cuevas del Sol, bathed in light, and the shaded Calle Cuevas de la Sombra. Here you feel the power of nature above your heads.\n\nIn the afternoon, we climb up to the castle and the church to understand the city's historical defense system. The view from above is breathtaking.\n\nEnd your walk at the Mirador del Carmen as the sun slowly disappears behind the rocks, bathing the houses in a soft light.",
+            "es": "Setenil de las Bodegas es único en el mundo por su arquitectura integrada en la roca. Comienza en la Plaza de Andalucía y adéntrate en las frescas callejuelas.\n\nAl mediodía, vive el contraste entre la Calle Cuevas del Sol, bañada de luz, y la sombreada Calle Cuevas de la Sombra. Aquí se siente la fuerza de la naturaleza sobre tu cabeza.\n\nPor la tarde subimos al castillo y a la iglesia para comprender el sistema defensivo histórico de la ciudad. La vista desde arriba es impresionante.\n\nTermina el paseo en el Mirador del Carmen mientras el sol se oculta tras las rocas, bañando las casas con una luz suave."
           },
           "stops": [
             {
@@ -365,13 +389,15 @@
                 "de": "Plaza de Andalucía",
                 "hu": "Plaza de Andalucía",
                 "ro": "Plaza de Andalucía",
-                "en": "Plaza de Andalucía"
+                "en": "Plaza de Andalucía",
+                "es": "Plaza de Andalucía"
               },
               "tip_5lang": {
                 "de": "Ein guter Ausgangspunkt für den Stadtrundgang.",
                 "hu": "Jó kiindulópont a városi sétához.",
                 "ro": "Un bun punct de plecare pentru turul orașului.",
-                "en": "A good starting point for the city walk."
+                "en": "A good starting point for the city walk.",
+                "es": "Un buen punto de partida para el paseo por la ciudad."
               }
             },
             {
@@ -379,13 +405,15 @@
                 "de": "Calle Cuevas del Sol",
                 "hu": "Calle Cuevas del Sol",
                 "ro": "Calle Cuevas del Sol",
-                "en": "Calle Cuevas del Sol"
+                "en": "Calle Cuevas del Sol",
+                "es": "Calle Cuevas del Sol"
               },
               "tip_5lang": {
                 "de": "Die berühmtesten Häuser unter dem Felsen.",
                 "hu": "A leghíresebb szikla alatti házak.",
                 "ro": "Cele mai faimoase case de sub stâncă.",
-                "en": "The most famous houses under the rock."
+                "en": "The most famous houses under the rock.",
+                "es": "Las casas más famosas bajo la roca."
               }
             },
             {
@@ -393,13 +421,15 @@
                 "de": "Calle Cuevas de la Sombra",
                 "hu": "Calle Cuevas de la Sombra",
                 "ro": "Calle Cuevas de la Sombra",
-                "en": "Calle Cuevas de la Sombra"
+                "en": "Calle Cuevas de la Sombra",
+                "es": "Calle Cuevas de la Sombra"
               },
               "tip_5lang": {
                 "de": "Hier scheint die Sonne fast nie.",
                 "hu": "Itt szinte sosem süt a nap.",
                 "ro": "Aici soarele nu strălucește aproape niciodată.",
-                "en": "The sun almost never shines here."
+                "en": "The sun almost never shines here.",
+                "es": "Aquí casi nunca llega el sol."
               }
             },
             {
@@ -407,13 +437,15 @@
                 "de": "Calle Herrería",
                 "hu": "Calle Herrería",
                 "ro": "Calle Herrería",
-                "en": "Calle Herrería"
+                "en": "Calle Herrería",
+                "es": "Calle Herrería"
               },
               "tip_5lang": {
                 "de": "Eine der steilsten und engsten Gassen.",
                 "hu": "Az egyik legmeredekebb és legszűkebb utca.",
                 "ro": "Una dintre cele mai abrupte și înguste străduțe.",
-                "en": "One of the steepest and narrowest alleys."
+                "en": "One of the steepest and narrowest alleys.",
+                "es": "Una de las callejuelas más empinadas y estrechas."
               }
             },
             {
@@ -421,13 +453,15 @@
                 "de": "Castillo de Setenil",
                 "hu": "Setenili vár",
                 "ro": "Castelul Setenil",
-                "en": "Setenil Castle"
+                "en": "Setenil Castle",
+                "es": "Castillo de Setenil"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie den Torre del Homenaje.",
                 "hu": "Látogasd meg a Torre del Homenaje tornyot.",
                 "ro": "Vizitați turnul Torre del Homenaje.",
-                "en": "Visit the Torre del Homenaje tower."
+                "en": "Visit the Torre del Homenaje tower.",
+                "es": "Visita la Torre del Homenaje."
               }
             },
             {
@@ -435,13 +469,15 @@
                 "de": "Iglesia de la Encarnación",
                 "hu": "Encarnación-templom",
                 "ro": "Biserica Encarnación",
-                "en": "Church of the Incarnation"
+                "en": "Church of the Incarnation",
+                "es": "Iglesia de la Encarnación"
               },
               "tip_5lang": {
                 "de": "Ein spätgotischer Bau auf dem Gipfel.",
                 "hu": "Késő gótikus épület a dombtetőn.",
                 "ro": "O clădire în stil gotic târziu pe vârful dealului.",
-                "en": "A late Gothic building on the hilltop."
+                "en": "A late Gothic building on the hilltop.",
+                "es": "Edificio gótico tardío en lo alto del cerro."
               }
             },
             {
@@ -449,13 +485,15 @@
                 "de": "Ermita de San Benito",
                 "hu": "Szent Benedek-remetetemplom",
                 "ro": "Ermitul San Benito",
-                "en": "Hermitage of San Benito"
+                "en": "Hermitage of San Benito",
+                "es": "Ermita de San Benito"
               },
               "tip_5lang": {
                 "de": "Ein einfacher, aber schöner religiöser Ort.",
                 "hu": "Egyszerű, de szép vallási hely.",
                 "ro": "Un loc religios simplu, dar frumos.",
-                "en": "A simple but beautiful religious site."
+                "en": "A simple but beautiful religious site.",
+                "es": "Un lugar religioso sencillo pero bonito."
               }
             },
             {
@@ -463,13 +501,15 @@
                 "de": "Mirador del Carmen",
                 "hu": "Carmen kilátó",
                 "ro": "Mirador del Carmen",
-                "en": "Carmen Viewpoint"
+                "en": "Carmen Viewpoint",
+                "es": "Mirador del Carmen"
               },
               "tip_5lang": {
                 "de": "Bester Blick auf die Felsenhäuser.",
                 "hu": "A legjobb kilátás a sziklaházakra.",
                 "ro": "Cea mai bună vedere spre casele din stâncă.",
-                "en": "Best view of the rock houses."
+                "en": "Best view of the rock houses.",
+                "es": "Mejor vista de las casas en la roca."
               }
             }
           ],
@@ -615,6 +655,12 @@
               "The climate in the rock alleys is significantly cooler than above.",
               "Watch out for the overhanging rocks; they are stable but imposing.",
               "The climb to the castle is steep."
+            ],
+            "es": [
+              "Visita Setenil entre semana para evitar las multitudes turísticas.",
+              "El clima en las callejuelas rocosas es considerablemente más fresco que en lo alto.",
+              "Ten cuidado con las rocas salientes; son estables pero imponentes.",
+              "La subida al castillo es empinada."
             ]
           }
         },
@@ -623,7 +669,8 @@
             "de": "Beginnen Sie Ihren Tag auf der Plaza de Andalucía unter einem Regenschirm. Mittags bieten die massiven Felsüberhänge der Calle Cuevas del Sol den perfekten natürlichen Schutz vor dem Regen. Am Nachmittag erkunden Sie die Burg und die Kirche, wobei Sie auf dem nassen Kopfsteinpflaster vorsichtig sein sollten. Der Abend endet am Aussichtspunkt Carmen, wenn die nassen Felsen im Licht glänzen.",
             "hu": "Kezdje a napot az esernyős Plaza de Andalucíán. Délben a Calle Cuevas del Sol hatalmas sziklakiszögellései nyújtják a világ legegyedibb természetes esernyőjét a sétához. Délután látogasson el a várba és a templomba, de vigyázzon a csúszós macskaköveken. Az este a Carmen kilátónál zárul, ahol a vizes sziklák tükrözik vissza a város fényeit.",
             "ro": "Începeți ziua în Plaza de Andalucía cu o umbrelă. La prânz, surplombele masive de stâncă din Calle Cuevas del Sol oferă cea mai unică umbrelă naturală din lume. După-amiaza, explorați castelul și biserica, având grijă pe pavajul ud care poate fi alunecos. Seara se încheie la punctul de belvedere Carmen, unde stâncile umede strălucesc sub luminile orașului.",
-            "en": "Start your day at Plaza de Andalucía with an umbrella. At midday, the massive rock overhangs of Calle Cuevas del Sol offer the world's most unique natural umbrella for your walk. In the afternoon, explore the castle and church, taking care on the wet cobblestones. The evening ends at the Carmen Viewpoint as the wet rocks glisten under the town lights."
+            "en": "Start your day at Plaza de Andalucía with an umbrella. At midday, the massive rock overhangs of Calle Cuevas del Sol offer the world's most unique natural umbrella for your walk. In the afternoon, explore the castle and church, taking care on the wet cobblestones. The evening ends at the Carmen Viewpoint as the wet rocks glisten under the town lights.",
+            "es": "Comienza el día en la Plaza de Andalucía con un paraguas. Al mediodía, los enormes salientes rocosos de la Calle Cuevas del Sol ofrecen el paraguas natural más singular del mundo para tu paseo. Por la tarde explora el castillo y la iglesia, con cuidado en los adoquines mojados. La noche termina en el Mirador del Carmen mientras las rocas húmedas brillan bajo las luces del pueblo."
           },
           "stops": [
             {
@@ -632,7 +679,8 @@
                 "de": "Suchen Sie Schutz unter den Arkaden der Cafés.",
                 "hu": "Keressen menedéket a kávézók árkádjai alatt.",
                 "ro": "Căutați adăpost sub arcadele cafenelelor.",
-                "en": "Seek shelter under the café arcades."
+                "en": "Seek shelter under the café arcades.",
+                "es": "Busca refugio bajo las arcadas de las cafeterías."
               }
             },
             {
@@ -641,7 +689,8 @@
                 "de": "Der Felsen hält Sie hier fast völlig trocken.",
                 "hu": "A sziklafal itt szinte teljesen szárazon tart.",
                 "ro": "Stânca vă menține aproape complet uscat aici.",
-                "en": "The rock overhang keeps you almost completely dry here."
+                "en": "The rock overhang keeps you almost completely dry here.",
+                "es": "El saliente de roca te mantiene casi completamente seco aquí."
               }
             },
             {
@@ -650,7 +699,8 @@
                 "de": "Perfekter Tunnel bei starkem Regen.",
                 "hu": "Tökéletes alagút heves esőzés esetén.",
                 "ro": "Tunel perfect în caz de ploaie torențială.",
-                "en": "Perfect tunnel during heavy rain."
+                "en": "Perfect tunnel during heavy rain.",
+                "es": "Túnel perfecto durante lluvia intensa."
               }
             },
             {
@@ -659,7 +709,8 @@
                 "de": "Vorsicht, die engen Gassen können rutschig sein.",
                 "hu": "Vigyázat, a szűk utcák csúszósak lehetnek.",
                 "ro": "Atenție, străzile înguste pot fi alunecoase.",
-                "en": "Caution, the narrow streets can be slippery."
+                "en": "Caution, the narrow streets can be slippery.",
+                "es": "Precaución, las calles estrechas pueden estar resbaladizas."
               }
             },
             {
@@ -668,7 +719,8 @@
                 "de": "Der Turm bietet Schutz und eine tolle Aussicht.",
                 "hu": "A torony védelmet és nagyszerű kilátást nyújt.",
                 "ro": "Turnul oferă adăpost și o priveliște minunată.",
-                "en": "The tower provides shelter and a great view."
+                "en": "The tower provides shelter and a great view.",
+                "es": "La torre ofrece refugio y una gran vista."
               }
             },
             {
@@ -677,7 +729,8 @@
                 "de": "Ein ruhiger, trockener Ort zum Ausruhen.",
                 "hu": "Csendes, száraz hely a megpihenéshez.",
                 "ro": "Un loc liniștit și uscat pentru odihnă.",
-                "en": "A quiet, dry place to rest."
+                "en": "A quiet, dry place to rest.",
+                "es": "Un lugar tranquilo y seco para descansar."
               }
             },
             {
@@ -686,7 +739,8 @@
                 "de": "Kurzer Stopp, um dem Regen zu entkommen.",
                 "hu": "Rövid megálló az eső elől való meneküléshez.",
                 "ro": "Oprire scurtă pentru a scăpa de ploaie.",
-                "en": "Short stop to escape the rain."
+                "en": "Short stop to escape the rain.",
+                "es": "Parada corta para escapar de la lluvia."
               }
             },
             {
@@ -695,7 +749,8 @@
                 "de": "Bester Blick auf die glänzenden Felsdächer.",
                 "hu": "A legjobb kilátás a csillogó sziklatetőkre.",
                 "ro": "Cea mai bună vedere asupra acoperișurilor de stâncă.",
-                "en": "Best view of the glistening rock roofs."
+                "en": "Best view of the glistening rock roofs.",
+                "es": "Mejor vista de los tejados rocosos brillantes."
               }
             }
           ],
@@ -723,6 +778,12 @@
               "Be careful on the smooth cobblestones on sloped areas.",
               "Choose a cave restaurant for a dry lunch.",
               "Wear waterproof shoes for the steep alleys."
+            ],
+            "es": [
+              "Usa los techos naturales de roca como protección contra la lluvia.",
+              "Ten cuidado con los adoquines pulidos en zonas inclinadas.",
+              "Elija un restaurante cueva para un almuerzo ligero.",
+              "Use calzado impermeable para los callejones empinados."
             ]
           }
         },
@@ -731,7 +792,8 @@
             "de": "Erleben Sie einen klaren Wintermorgen auf der Plaza de Andalucía. Mittags ist die Calle Cuevas de la Sombra besonders kühl, daher empfiehlt sich ein Aufwärmstopp in der sonnigeren Cuevas del Sol. Am Nachmittag taucht die tiefe Wintersonne die Burg in dramatisches Licht. Genießen Sie den frühen Sonnenuntergang am Carmen Viewpoint, bevor Sie sich in ein gemütliches Höhlenrestaurant zurückziehen.",
             "hu": "Tapasztalja meg a tiszta téli reggelt a Plaza de Andalucíán. Délben a Calle Cuevas de la Sombra különösen hűvös, ezért érdemes megállni melegedni a naposabb Cuevas del Sol utcában. Délután az alacsony téli nap drámai fénybe vonja a várat. Élvezze a korai naplementét a Carmen kilátónál, mielőtt visszahúzódna egy barátságos barlangétterembe.",
             "ro": "Experimentați o dimineață senină de iarnă în Plaza de Andalucía. La prânz, Calle Cuevas de la Sombra este deosebit de răcoroasă, așa că se recomandă o oprire pentru încălzire în mai însorita Cuevas del Sol. După-amiaza, soarele jos de iarnă scaldă castelul într-o lumină dramatică. Bucurați-vă de apusul timpuriu la punctul Carmen înainte de a vă retrage într-un restaurant primitor.",
-            "en": "Experience a crisp winter morning at Plaza de Andalucía. At midday, Calle Cuevas de la Sombra is particularly chilly, so a warming stop in the sunnier Cuevas del Sol is recommended. In the afternoon, the low winter sun bathes the castle in dramatic light. Enjoy the early sunset at Carmen Viewpoint before retreating to a cozy cave restaurant."
+            "en": "Experience a crisp winter morning at Plaza de Andalucía. At midday, Calle Cuevas de la Sombra is particularly chilly, so a warming stop in the sunnier Cuevas del Sol is recommended. In the afternoon, the low winter sun bathes the castle in dramatic light. Enjoy the early sunset at Carmen Viewpoint before retreating to a cozy cave restaurant.",
+            "es": "Viva una fresca mañana de invierno en la Plaza de Andalucía. Al mediodía, la Calle Cuevas de la Sombra está particularmente fría, así que se recomienda hacer una parada para calentarse en las más soleadas Cuevas del Sol. Por la tarde, el bajo sol invernal baña el castillo con una luz dramática. Disfrute del atardecer temprano en el Mirador del Carmen antes de retirarse a un acogedor restaurante cueva."
           },
           "stops": [
             {
@@ -740,7 +802,8 @@
                 "de": "Genießen Sie die Morgensonne auf dem Platz.",
                 "hu": "Élvezze a reggeli napsütést a téren.",
                 "ro": "Bucurați-vă de soarele dimineții în piață.",
-                "en": "Enjoy the morning sun in the square."
+                "en": "Enjoy the morning sun in the square.",
+                "es": "Disfrute del sol de la mañana en la plaza."
               }
             },
             {
@@ -749,7 +812,8 @@
                 "de": "Die sonnigere Seite, ideal zum Aufwärmen.",
                 "hu": "A naposabb oldal, ideális melegedéshez.",
                 "ro": "Partea mai însorită, ideală pentru încălzire.",
-                "en": "The sunnier side, ideal for warming up."
+                "en": "The sunnier side, ideal for warming up.",
+                "es": "El lado más soleado, ideal para entrar en calor."
               }
             },
             {
@@ -758,7 +822,8 @@
                 "de": "Sehr kalt im Winter, da nie Sonne hinkommt.",
                 "hu": "Télen nagyon hideg, mert sosem éri nap.",
                 "ro": "Foarte frig iarna, deoarece soarele nu ajunge niciodată.",
-                "en": "Very cold in winter as sun never reaches here."
+                "en": "Very cold in winter as sun never reaches here.",
+                "es": "Muy frío en invierno, aquí nunca llega el sol."
               }
             },
             {
@@ -767,7 +832,8 @@
                 "de": "Kühle Gassen, ziehen Sie sich warm an.",
                 "hu": "Hűvös utcák, öltözzön fel melegen.",
                 "ro": "Străzi răcoroase, îmbrăcați-vă gros.",
-                "en": "Chilly alleys, dress warmly."
+                "en": "Chilly alleys, dress warmly.",
+                "es": "Callejones fríos, vístase abrigado."
               }
             },
             {
@@ -776,7 +842,8 @@
                 "de": "Windig oben, aber klare Fernsicht.",
                 "hu": "Fent szeles, de tiszta a távoli kilátás.",
                 "ro": "Vânt sus, dar vizibilitate clară la distanță.",
-                "en": "Windy at the top, but clear distant views."
+                "en": "Windy at the top, but clear distant views.",
+                "es": "Ventoso en la cima, pero con vistas claras a lo lejos."
               }
             },
             {
@@ -785,7 +852,8 @@
                 "de": "Innenraum bietet Schutz vor kaltem Wind.",
                 "hu": "A belső tér védelmet nyújt a hideg szél ellen.",
                 "ro": "Interiorul oferă protecție împotriva vântului rece.",
-                "en": "Interior provides shelter from cold wind."
+                "en": "Interior provides shelter from cold wind.",
+                "es": "El interior ofrece refugio del viento frío."
               }
             },
             {
@@ -794,7 +862,8 @@
                 "de": "Schöner Stopp im sanften Winternachmittag.",
                 "hu": "Szép megálló a lágy téli délutánon.",
                 "ro": "O oprire frumoasă în după-amiaza blândă de iarnă.",
-                "en": "Nice stop in the soft winter afternoon."
+                "en": "Nice stop in the soft winter afternoon.",
+                "es": "Buena parada en la suave tarde invernal."
               }
             },
             {
@@ -803,7 +872,8 @@
                 "de": "Sonnenuntergang ist hier im Winter gegen 18:00 Uhr.",
                 "hu": "A naplemente télen 18:00 körül van itt.",
                 "ro": "Apusul este aici în jur de ora 18:00 iarna.",
-                "en": "Sunset is around 18:00 here in winter."
+                "en": "Sunset is around 18:00 here in winter.",
+                "es": "El atardecer es sobre las 18:00 aquí en invierno."
               }
             }
           ],
@@ -831,6 +901,12 @@
               "The sun sets around 18:00 in winter.",
               "Cave restaurants hold heat well in winter.",
               "Plan sightseeing for the bright midday hours."
+            ],
+            "es": [
+              "El frío perdura entre las rocas, lleve capas.",
+              "El sol se pone alrededor de las 18:00 en invierno.",
+              "Los restaurantes cueva retienen bien el calor en invierno.",
+              "Planifique las visitas para las horas luminosas del mediodía."
             ]
           }
         }
@@ -849,7 +925,8 @@
             "de": "Calle Cuevas del Sol",
             "hu": "Calle Cuevas del Sol",
             "ro": "Calle Cuevas del Sol",
-            "en": "Calle Cuevas del Sol"
+            "en": "Calle Cuevas del Sol",
+            "es": "Calle Cuevas del Sol"
           },
           "coords": [
             -5.1795,
@@ -864,7 +941,8 @@
             "de": "Fahren Sie vorsichtig zwischen den Fußgängern.",
             "hu": "Vigyázz a gyalogosok között.",
             "ro": "Conduceți cu atenție printre pietoni.",
-            "en": "Ride carefully among the pedestrians."
+            "en": "Ride carefully among the pedestrians.",
+            "es": "Circule con precaución entre los peatones."
           }
         },
         {
@@ -872,7 +950,8 @@
             "de": "Calle Cuevas de la Sombra",
             "hu": "Calle Cuevas de la Sombra",
             "ro": "Calle Cuevas de la Sombra",
-            "en": "Calle Cuevas de la Sombra"
+            "en": "Calle Cuevas de la Sombra",
+            "es": "Calle Cuevas de la Sombra"
           },
           "coords": [
             -5.1788,
@@ -887,7 +966,8 @@
             "de": "Das Licht hier ist perfekt für Fotos.",
             "hu": "A fények itt tökéletesek a fotózáshoz.",
             "ro": "Lumina de aici este perfectă pentru poze.",
-            "en": "The light here is perfect for photos."
+            "en": "The light here is perfect for photos.",
+            "es": "La luz aquí es perfecta para fotos."
           }
         },
         {
@@ -895,7 +975,8 @@
             "de": "Mirador de San Sebastián",
             "hu": "Szent Sebestyén kilátó",
             "ro": "Mirador de San Sebastián",
-            "en": "San Sebastián Viewpoint"
+            "en": "San Sebastián Viewpoint",
+            "es": "Mirador de San Sebastián"
           },
           "coords": [
             -5.185,
@@ -910,7 +991,8 @@
             "de": "Ein schöner Anstieg aus dem Dorf heraus.",
             "hu": "Szép emelkedő kifelé a faluból.",
             "ro": "O urcare frumoasă la ieșirea din sat.",
-            "en": "A nice climb out of the village."
+            "en": "A nice climb out of the village.",
+            "es": "Una bonita subida fuera del pueblo."
           }
         },
         {
@@ -918,7 +1000,8 @@
             "de": "Plaza de Andalucía",
             "hu": "Plaza de Andalucía",
             "ro": "Plaza de Andalucía",
-            "en": "Plaza de Andalucía"
+            "en": "Plaza de Andalucía",
+            "es": "Plaza de Andalucía"
           },
           "coords": [
             -5.1805,
@@ -933,7 +1016,8 @@
             "de": "Zeit für eine Pause im Zentrum.",
             "hu": "Idő egy pihenőre a központban.",
             "ro": "Timp pentru o pauză în centru.",
-            "en": "Time for a break in the center."
+            "en": "Time for a break in the center.",
+            "es": "Momento para un descanso en el centro."
           }
         },
         {
@@ -941,7 +1025,8 @@
             "de": "Castillo de Setenil",
             "hu": "Setenili vár",
             "ro": "Castelul Setenil",
-            "en": "Setenil Castle"
+            "en": "Setenil Castle",
+            "es": "Castillo de Setenil"
           },
           "coords": [
             -5.1815,
@@ -956,7 +1041,8 @@
             "de": "Der letzte Aufstieg lohnt sich.",
             "hu": "Az utolsó emelkedő megéri.",
             "ro": "Ultima urcare merită efortul.",
-            "en": "The last climb is worth it."
+            "en": "The last climb is worth it.",
+            "es": "La última subida merece la pena."
           }
         }
       ],
@@ -964,7 +1050,8 @@
         "de": "Entdecken Sie Setenil mit dem Fahrrad und erkunden Sie auch die umliegenden Hügel für die besten Panoramablicke.\n\nNachdem wir die ikonischen Felsengassen passiert haben, fahren wir hinauf zum San Sebastián Aussichtspunkt, um das Dorf in seiner ganzen Pracht zu sehen.\n\nIn der Mittagszeit kehren wir zum Hauptplatz zurück, um die lokale Atmosphäre zu genießen.\n\nDie Tour endet mit dem Aufstieg zur Burg, der die Krönung dieses aktiven Tages darstellt.",
         "hu": "Fedezd fel Setenilt kerékpárral, és járd be a környező dombokat is a legjobb panorámáért.\n\nMiután áthaladtunk az ikonikus sziklás utcákon, feltekerünk a Szent Sebestyén kilátóhoz, hogy teljes pompájában lássuk a falut.\n\nEbédidőben visszatérünk a főtérre, hogy élvezzük a helyi hangulatot.\n\nA túra a várhoz való feljutással zárul, ami megkoronázza ezt az aktív napot.",
         "ro": "Descoperiți Setenil cu bicicleta și explorați, de asemenea, dealurile din jur pentru cele mai bune panorame.\n\nDupă ce trecem prin străzile iconice de sub stâncă, urcăm spre punctul de observație San Sebastián pentru a vedea satul în toată splendoarea sa.\n\nLa prânz ne întoarcem în piața principală pentru a ne bucura de atmosfera locală.\n\nTurul se încheie cu urcarea la castel, care reprezintă punctul culminant al acestei zile active.",
-        "en": "Discover Setenil by bike and also explore the surrounding hills for the best panoramic views.\n\nAfter passing through the iconic rock alleys, we ride up to the San Sebastián viewpoint to see the village in all its glory.\n\nAt lunchtime, we return to the main square to soak in the local atmosphere.\n\nThe tour ends with the climb to the castle, which is the crowning glory of this active day."
+        "en": "Discover Setenil by bike and also explore the surrounding hills for the best panoramic views.\n\nAfter passing through the iconic rock alleys, we ride up to the San Sebastián viewpoint to see the village in all its glory.\n\nAt lunchtime, we return to the main square to soak in the local atmosphere.\n\nThe tour ends with the climb to the castle, which is the crowning glory of this active day.",
+        "es": "Descubra Setenil en bicicleta y explore también las colinas circundantes para obtener las mejores vistas panorámicas.\n\nTras atravesar los icónicos callejones entre rocas, subimos al mirador de San Sebastián para ver el pueblo en todo su esplendor.\n\nA la hora del almuerzo volvemos a la plaza principal para empaparnos del ambiente local.\n\nLa ruta termina con la subida al castillo, que es la guinda del día activo."
       },
       "gastro_picks": {
         "de": [
@@ -1072,6 +1159,12 @@
           "The paths outside are hilly.",
           "Wear sunscreen.",
           "Check your brakes before descents."
+        ],
+        "es": [
+          "Los callejones entre rocas suelen ser muy estrechos, sea considerado con los peatones.",
+          "Los caminos exteriores son llenos de subidas y bajadas.",
+          "Use protector solar.",
+          "Revise sus frenos antes de los descensos."
         ]
       },
       "variants": {
@@ -1080,7 +1173,8 @@
             "de": "Entdecken Sie Setenil mit dem Fahrrad und erkunden Sie auch die umliegenden Hügel für die besten Panoramablicke.\n\nNachdem wir die ikonischen Felsengassen passiert haben, fahren wir hinauf zum San Sebastián Aussichtspunkt, um das Dorf in seiner ganzen Pracht zu sehen.\n\nIn der Mittagszeit kehren wir zum Hauptplatz zurück, um die lokale Atmosphäre zu genießen.\n\nDie Tour endet mit dem Aufstieg zur Burg, der die Krönung dieses aktiven Tages darstellt.",
             "hu": "Fedezd fel Setenilt kerékpárral, és járd be a környező dombokat is a legjobb panorámáért.\n\nMiután áthaladtunk az ikonikus sziklás utcákon, feltekerünk a Szent Sebestyén kilátóhoz, hogy teljes pompájában lássuk a falut.\n\nEbédidőben visszatérünk a főtérre, hogy élvezzük a helyi hangulatot.\n\nA túra a várhoz való feljutással zárul, ami megkoronázza ezt az aktív napot.",
             "ro": "Descoperiți Setenil cu bicicleta și explorați, de asemenea, dealurile din jur pentru cele mai bune panorame.\n\nDupă ce trecem prin străzile iconice de sub stâncă, urcăm spre punctul de observație San Sebastián pentru a vedea satul în toată splendoarea sa.\n\nLa prânz ne întoarcem în piața principală pentru a ne bucura de atmosfera locală.\n\nTurul se încheie cu urcarea la castel, care reprezintă punctul culminant al acestei zile active.",
-            "en": "Discover Setenil by bike and also explore the surrounding hills for the best panoramic views.\n\nAfter passing through the iconic rock alleys, we ride up to the San Sebastián viewpoint to see the village in all its glory.\n\nAt lunchtime, we return to the main square to soak in the local atmosphere.\n\nThe tour ends with the climb to the castle, which is the crowning glory of this active day."
+            "en": "Discover Setenil by bike and also explore the surrounding hills for the best panoramic views.\n\nAfter passing through the iconic rock alleys, we ride up to the San Sebastián viewpoint to see the village in all its glory.\n\nAt lunchtime, we return to the main square to soak in the local atmosphere.\n\nThe tour ends with the climb to the castle, which is the crowning glory of this active day.",
+            "es": "Descubra Setenil en bicicleta y explore también las colinas circundantes para obtener las mejores vistas panorámicas.\n\nTras atravesar los icónicos callejones entre rocas, subimos al mirador de San Sebastián para ver el pueblo en todo su esplendor.\n\nA la hora del almuerzo volvemos a la plaza principal para empaparnos del ambiente local.\n\nLa ruta termina con la subida al castillo, que es la guinda del día activo."
           },
           "stops": [
             {
@@ -1088,13 +1182,15 @@
                 "de": "Calle Cuevas del Sol",
                 "hu": "Calle Cuevas del Sol",
                 "ro": "Calle Cuevas del Sol",
-                "en": "Calle Cuevas del Sol"
+                "en": "Calle Cuevas del Sol",
+                "es": "Calle Cuevas del Sol"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig zwischen den Fußgängern.",
                 "hu": "Vigyázz a gyalogosok között.",
                 "ro": "Conduceți cu atenție printre pietoni.",
-                "en": "Ride carefully among the pedestrians."
+                "en": "Ride carefully among the pedestrians.",
+                "es": "Circule con precaución entre los peatones."
               }
             },
             {
@@ -1102,13 +1198,15 @@
                 "de": "Calle Cuevas de la Sombra",
                 "hu": "Calle Cuevas de la Sombra",
                 "ro": "Calle Cuevas de la Sombra",
-                "en": "Calle Cuevas de la Sombra"
+                "en": "Calle Cuevas de la Sombra",
+                "es": "Calle Cuevas de la Sombra"
               },
               "tip_5lang": {
                 "de": "Das Licht hier ist perfekt für Fotos.",
                 "hu": "A fények itt tökéletesek a fotózáshoz.",
                 "ro": "Lumina de aici este perfectă pentru poze.",
-                "en": "The light here is perfect for photos."
+                "en": "The light here is perfect for photos.",
+                "es": "La luz aquí es perfecta para fotos."
               }
             },
             {
@@ -1116,13 +1214,15 @@
                 "de": "Mirador de San Sebastián",
                 "hu": "Szent Sebestyén kilátó",
                 "ro": "Mirador de San Sebastián",
-                "en": "San Sebastián Viewpoint"
+                "en": "San Sebastián Viewpoint",
+                "es": "Mirador de San Sebastián"
               },
               "tip_5lang": {
                 "de": "Ein schöner Anstieg aus dem Dorf heraus.",
                 "hu": "Szép emelkedő kifelé a faluból.",
                 "ro": "O urcare frumoasă la ieșirea din sat.",
-                "en": "A nice climb out of the village."
+                "en": "A nice climb out of the village.",
+                "es": "Una bonita subida fuera del pueblo."
               }
             },
             {
@@ -1130,13 +1230,15 @@
                 "de": "Plaza de Andalucía",
                 "hu": "Plaza de Andalucía",
                 "ro": "Plaza de Andalucía",
-                "en": "Plaza de Andalucía"
+                "en": "Plaza de Andalucía",
+                "es": "Plaza de Andalucía"
               },
               "tip_5lang": {
                 "de": "Zeit für eine Pause im Zentrum.",
                 "hu": "Idő egy pihenőre a központban.",
                 "ro": "Timp pentru o pauză în centru.",
-                "en": "Time for a break in the center."
+                "en": "Time for a break in the center.",
+                "es": "Momento para un descanso en el centro."
               }
             },
             {
@@ -1144,13 +1246,15 @@
                 "de": "Castillo de Setenil",
                 "hu": "Setenili vár",
                 "ro": "Castelul Setenil",
-                "en": "Setenil Castle"
+                "en": "Setenil Castle",
+                "es": "Castillo de Setenil"
               },
               "tip_5lang": {
                 "de": "Der letzte Aufstieg lohnt sich.",
                 "hu": "Az utolsó emelkedő megéri.",
                 "ro": "Ultima urcare merită efortul.",
-                "en": "The last climb is worth it."
+                "en": "The last climb is worth it.",
+                "es": "La última subida merece la pena."
               }
             }
           ],
@@ -1260,6 +1364,12 @@
               "The paths outside are hilly.",
               "Wear sunscreen.",
               "Check your brakes before descents."
+            ],
+            "es": [
+              "Los callejones entre rocas suelen ser muy estrechos, sea considerado con los peatones.",
+              "Los caminos exteriores son llenos de subidas y bajadas.",
+              "Use protector solar.",
+              "Revise sus frenos antes de los descensos."
             ]
           }
         },
@@ -1268,7 +1378,8 @@
             "de": "Starten Sie Ihre Radtour vorsichtig in der Calle Cuevas del Sol, wo der Fels Schutz bietet. Mittags führt die Route durch die Cuevas de la Sombra, achten Sie auf rutschige Stellen. Am Nachmittag radeln Sie zum Aussichtspunkt San Sebastián, um das neblige Panorama zu bewundern. Beenden Sie den Tag sicher im Zentrum.",
             "hu": "Kezdje a biciklitúrát óvatosan a Calle Cuevas del Sol-nál, ahol a szikla védelmet nyújt. Délben az útvonal a Cuevas de la Sombra-n vezet át, figyeljen a csúszós részekre. Délután tekerjen fel a San Sebastián kilátóhoz a ködös panorámáért. Zárja a napot biztonságban a központban.",
             "ro": "Începeți turul cu bicicleta cu prudență pe Calle Cuevas del Sol, unde stânca oferă protecție. La prânz, traseul trece prin Cuevas de la Sombra, atenție la zonele alunecoase. După-amiaza, pedalați spre punctul de belvedere San Sebastián pentru panorama cețoasă. Încheiați ziua în siguranță în centru.",
-            "en": "Start your bike tour carefully at Calle Cuevas del Sol, where the rock provides protection. At midday, the route passes through Cuevas de la Sombra, watch for slippery spots. In the afternoon, cycle to the San Sebastián Viewpoint for the misty panorama. End the day safely in the center."
+            "en": "Start your bike tour carefully at Calle Cuevas del Sol, where the rock provides protection. At midday, the route passes through Cuevas de la Sombra, watch for slippery spots. In the afternoon, cycle to the San Sebastián Viewpoint for the misty panorama. End the day safely in the center.",
+            "es": "Comience su ruta en bicicleta con cuidado en la Calle Cuevas del Sol, donde la roca proporciona protección. Al mediodía la ruta pasa por Cuevas de la Sombra, vigile las zonas resbaladizas. Por la tarde, pedalee hasta el Mirador de San Sebastián para el panorama brumoso. Termine el día con seguridad en el centro."
           },
           "stops": [
             {
@@ -1277,7 +1388,8 @@
                 "de": "Bremsen Sie vorsichtig auf nassem Asphalt.",
                 "hu": "Fékezzen óvatosan a vizes aszfalton.",
                 "ro": "Frânați cu prudență pe asfaltul ud.",
-                "en": "Brake carefully on wet asphalt."
+                "en": "Brake carefully on wet asphalt.",
+                "es": "Frene con cuidado sobre asfalto mojado."
               }
             },
             {
@@ -1286,7 +1398,8 @@
                 "de": "Unter dem Felsen ist es trocken, aber dunkel.",
                 "hu": "A szikla alatt száraz, de sötét van.",
                 "ro": "E uscat sub stâncă, dar întuneric.",
-                "en": "It's dry under the rock, but dark."
+                "en": "It's dry under the rock, but dark.",
+                "es": "Bajo la roca está seco, pero oscuro."
               }
             },
             {
@@ -1295,7 +1408,8 @@
                 "de": "Der Anstieg kann bei Regen anstrengend sein.",
                 "hu": "Az emelkedő esőben fárasztó lehet.",
                 "ro": "Urcarea poate fi obositoare pe ploaie.",
-                "en": "The climb can be tiring in the rain."
+                "en": "The climb can be tiring in the rain.",
+                "es": "La subida puede ser agotadora bajo la lluvia."
               }
             },
             {
@@ -1304,7 +1418,8 @@
                 "de": "Stellen Sie Ihr Rad unter einem Vordach ab.",
                 "hu": "Parkolja a biciklit egy előtető alá.",
                 "ro": "Parcați bicicleta sub un acoperiș.",
-                "en": "Park your bike under an overhang."
+                "en": "Park your bike under an overhang.",
+                "es": "Estacione su bici bajo un saliente."
               }
             },
             {
@@ -1313,7 +1428,8 @@
                 "de": "Steiler Weg, schieben Sie das Rad bei Nässe.",
                 "hu": "Meredek út, vizes időben tolja a biciklit.",
                 "ro": "Drum abrupt, împingeți bicicleta pe ud.",
-                "en": "Steep road, push the bike if wet."
+                "en": "Steep road, push the bike if wet.",
+                "es": "Carretera empinada, empuje la bici si está húmeda."
               }
             }
           ],
@@ -1341,6 +1457,12 @@
               "Avoid fast turns on wet cobblestones.",
               "Check your brakes before steep descents.",
               "Use bike paths with good grip."
+            ],
+            "es": [
+              "Use ropa impermeable y casco.",
+              "Evite giros rápidos sobre adoquines mojados.",
+              "Revise sus frenos antes de descensos pronunciados.",
+              "Use vías ciclistas con buen agarre."
             ]
           }
         },
@@ -1349,7 +1471,8 @@
             "de": "Ein erfrischender Wintermorgen auf dem Rad beginnt in der Calle Cuevas del Sol. Mittags führt die Tour durch die schattige Cuevas de la Sombra, wo es empfindlich kalt sein kann. Der Nachmittag bietet eine klare Fahrt zum San Sebastián Viewpoint mit weitem Blick. Beenden Sie die Tour, bevor es um 18:00 Uhr dunkel wird.",
             "hu": "Egy frissítő téli reggel a biciklin a Calle Cuevas del Sol-nál kezdődik. Délben a túra az árnyékos Cuevas de la Sombra-n halad át, ahol metsző hideg lehet. A délután tiszta tekerést kínál a San Sebastián kilátóhoz, széles kilátással. Fejezze be a túrát, mielőtt 18:00-kor besötétedik.",
             "ro": "O dimineață de iarnă revigorantă pe bicicletă începe pe Calle Cuevas del Sol. La prânz, turul trece prin umbroasa Cuevas de la Sombra, unde poate fi foarte frig. După-amiaza oferă o plimbare senină spre punctul de belvedere San Sebastián cu vedere largă. Încheiați turul înainte de a se întuneca la ora 18:00.",
-            "en": "A refreshing winter morning on the bike starts at Calle Cuevas del Sol. At midday, the tour passes through the shady Cuevas de la Sombra, where it can be very cold. The afternoon offers a clear ride to San Sebastián Viewpoint with wide views. Finish the tour before it gets dark at 18:00."
+            "en": "A refreshing winter morning on the bike starts at Calle Cuevas del Sol. At midday, the tour passes through the shady Cuevas de la Sombra, where it can be very cold. The afternoon offers a clear ride to San Sebastián Viewpoint with wide views. Finish the tour before it gets dark at 18:00.",
+            "es": "Una refrescante mañana invernal en bici comienza en la Calle Cuevas del Sol. Al mediodía la ruta atraviesa las sombrías Cuevas de la Sombra, donde puede hacer mucho frío. La tarde ofrece un trayecto despejado hasta el Mirador de San Sebastián con amplias vistas. Termine la ruta antes de que anochezca a las 18:00."
           },
           "stops": [
             {
@@ -1358,7 +1481,8 @@
                 "de": "Die Sonne wärmt Sie hier am Vormittag.",
                 "hu": "A nap felmelegíti itt délelőtt.",
                 "ro": "Soarele vă încălzește aici dimineața.",
-                "en": "The sun warms you here in the morning."
+                "en": "The sun warms you here in the morning.",
+                "es": "El sol lo calienta aquí por la mañana."
               }
             },
             {
@@ -1367,7 +1491,8 @@
                 "de": "Handschuhe sind hier ein Muss.",
                 "hu": "A kesztyű itt kötelező.",
                 "ro": "Mănușile sunt obligatorii aici.",
-                "en": "Gloves are a must here."
+                "en": "Gloves are a must here.",
+                "es": "Los guantes son imprescindibles aquí."
               }
             },
             {
@@ -1376,7 +1501,8 @@
                 "de": "Klare Winterluft sorgt für beste Sicht.",
                 "hu": "A tiszta téli levegő a legjobb kilátást biztosítja.",
                 "ro": "Aerul curat de iarnă asigură cea mai bună vizibilitate.",
-                "en": "Clear winter air provides the best visibility."
+                "en": "Clear winter air provides the best visibility.",
+                "es": "El aire invernal limpio ofrece la mejor visibilidad."
               }
             },
             {
@@ -1385,7 +1511,8 @@
                 "de": "Ideal für eine warme Kaffeepause.",
                 "hu": "Ideális egy meleg kávészünethez.",
                 "ro": "Ideal pentru o pauză de cafea caldă.",
-                "en": "Ideal for a warm coffee break."
+                "en": "Ideal for a warm coffee break.",
+                "es": "Ideal para una pausa con un café caliente."
               }
             },
             {
@@ -1394,7 +1521,8 @@
                 "de": "Oben weht oft ein kalter Winterwind.",
                 "hu": "Fent gyakran fúj hideg téli szél.",
                 "ro": "Sus suflă adesea un vânt rece de iarnă.",
-                "en": "A cold winter wind often blows at the top."
+                "en": "A cold winter wind often blows at the top.",
+                "es": "Un viento frío de invierno suele soplar en la cima."
               }
             }
           ],
@@ -1422,6 +1550,12 @@
               "Plan the tour for the warmer midday hours.",
               "Watch out for shady areas with ground frost.",
               "Make sure your bike lights are working."
+            ],
+            "es": [
+              "Use ropa cortaviento y guantes cálidos.",
+              "Planifique la ruta para las horas más cálidas del mediodía.",
+              "Tenga cuidado con las zonas en sombra con escarcha en el suelo.",
+              "Asegúrese de que las luces de su bici funcionen."
             ]
           }
         }
@@ -1440,7 +1574,8 @@
             "de": "Calle Cuevas del Sol",
             "hu": "Calle Cuevas del Sol",
             "ro": "Calle Cuevas del Sol",
-            "en": "Calle Cuevas del Sol"
+            "en": "Calle Cuevas del Sol",
+            "es": "Calle Cuevas del Sol"
           },
           "coords": [
             -5.1795,
@@ -1455,7 +1590,8 @@
             "de": "Parken Sie am Ortseingang und laufen Sie hinein.",
             "hu": "Parkolj a falu szélén és sétálj be.",
             "ro": "Parcați la intrarea în localitate și mergeți pe jos.",
-            "en": "Park at the village entrance and walk in."
+            "en": "Park at the village entrance and walk in.",
+            "es": "Estacione en la entrada del pueblo y entre a pie."
           }
         },
         {
@@ -1463,7 +1599,8 @@
             "de": "Calle Cuevas de la Sombra",
             "hu": "Calle Cuevas de la Sombra",
             "ro": "Calle Cuevas de la Sombra",
-            "en": "Calle Cuevas de la Sombra"
+            "en": "Calle Cuevas de la Sombra",
+            "es": "Calle Cuevas de la Sombra"
           },
           "coords": [
             -5.1788,
@@ -1478,7 +1615,8 @@
             "de": "Einzigartige Felsendächer.",
             "hu": "Egyedülálló sziklatetők.",
             "ro": "Acoperișuri de stâncă unice.",
-            "en": "Unique rock roofs."
+            "en": "Unique rock roofs.",
+            "es": "Techos de roca únicos."
           }
         },
         {
@@ -1486,7 +1624,8 @@
             "de": "Plaza de Andalucía",
             "hu": "Plaza de Andalucía",
             "ro": "Plaza de Andalucía",
-            "en": "Plaza de Andalucía"
+            "en": "Plaza de Andalucía",
+            "es": "Plaza de Andalucía"
           },
           "coords": [
             -5.1805,
@@ -1501,7 +1640,8 @@
             "de": "Blick auf das Rathaus.",
             "hu": "Kilátás a városházára.",
             "ro": "Vedere spre primărie.",
-            "en": "View of the town hall."
+            "en": "View of the town hall.",
+            "es": "Vista del ayuntamiento."
           }
         },
         {
@@ -1509,7 +1649,8 @@
             "de": "Olvera (Nachbarort)",
             "hu": "Olvera (szomszédos falu)",
             "ro": "Olvera (sat vecin)",
-            "en": "Olvera (nearby village)"
+            "en": "Olvera (nearby village)",
+            "es": "Olvera (pueblo cercano)"
           },
           "coords": [
             -5.265,
@@ -1524,7 +1665,8 @@
             "de": "Besuchen Sie die beeindruckende Kirche und Burg.",
             "hu": "Látogasd meg a lenyűgöző templomot és várat.",
             "ro": "Vizitați biserica și castelul impresionante.",
-            "en": "Visit the impressive church and castle."
+            "en": "Visit the impressive church and castle.",
+            "es": "Visite la impresionante iglesia y el castillo."
           }
         },
         {
@@ -1532,7 +1674,8 @@
             "de": "Castillo de Setenil",
             "hu": "Setenili vár",
             "ro": "Castelul Setenil",
-            "en": "Setenil Castle"
+            "en": "Setenil Castle",
+            "es": "Castillo de Setenil"
           },
           "coords": [
             -5.1815,
@@ -1547,7 +1690,8 @@
             "de": "Geschichte pur auf dem Felsen.",
             "hu": "Tiszta történelem a sziklán.",
             "ro": "Istorie pură pe stâncă.",
-            "en": "Pure history on the rock."
+            "en": "Pure history on the rock.",
+            "es": "Pura historia sobre la roca."
           }
         },
         {
@@ -1555,7 +1699,8 @@
             "de": "Mirador del Carmen",
             "hu": "Carmen kilátó",
             "ro": "Mirador del Carmen",
-            "en": "Carmen Viewpoint"
+            "en": "Carmen Viewpoint",
+            "es": "Mirador del Carmen"
           },
           "coords": [
             -5.183,
@@ -1570,7 +1715,8 @@
             "de": "Perfekter Abschluss mit Aussicht.",
             "hu": "Tökéletes befejezés kilátással.",
             "ro": "Final perfect cu vedere panoramică.",
-            "en": "Perfect ending with a view."
+            "en": "Perfect ending with a view.",
+            "es": "Final perfecto con vistas."
           }
         }
       ],
@@ -1578,7 +1724,8 @@
         "de": "Mit dem Auto verbinden wir das Höhlendorf Setenil mit dem nahegelegenen Olvera für ein umfassendes Erlebnis der weißen Dörfer.\n\nMorgens konzentrieren wir uns auf die faszinierende Architektur von Setenil, bevor wir eine kurze Fahrt durch die andalusische Landschaft nach Olvera unternehmen.\n\nNach der Besichtigung von Olvera kehren wir zurück, um die Burg und den besten Aussichtspunkt von Setenil zu erleben.\n\nDiese Tour bietet eine perfekte Mischung aus spektakulärer Architektur und weiten Panoramen.",
         "hu": "Autóval összekötjük Setenil barlangfaluját a közeli Olverával, hogy teljes élményt kapjunk a fehér falvakból.\n\nReggel Setenil lenyűgöző építészetére koncentrálunk, majd egy rövid autózást teszünk az andalúz tájon át Olverába.\n\nOlvera meglátogatása után visszatérünk, hogy felfedezzük Setenil várát és legjobb kilátópontját.\n\nEz a túra a látványos építészet és a tágas panorámák tökéletes keverékét kínálja.",
         "ro": "Cu mașina conectăm satul-peșteră Setenil cu localitatea apropiată Olvera pentru o experiență completă a satelor albe.\n\nDimineața ne concentrăm pe arhitectura fascinantă din Setenil, înainte de a face o scurtă călătorie prin peisajul andaluz spre Olvera.\n\nDupă vizitarea orașului Olvera, ne întoarcem pentru a experimenta castelul și cel mai bun punct de observație din Setenil.\n\nAcest tur oferă un amestec perfect de arhitectură spectaculoasă și panorame vaste.",
-        "en": "By car, we combine the cave village of Setenil with nearby Olvera for a comprehensive experience of the white villages.\n\nIn the morning, we focus on the fascinating architecture of Setenil before taking a short drive through the Andalusian landscape to Olvera.\n\nAfter visiting Olvera, we return to experience the castle and the best viewpoint of Setenil.\n\nThis tour offers a perfect blend of spectacular architecture and wide panoramas."
+        "en": "By car, we combine the cave village of Setenil with nearby Olvera for a comprehensive experience of the white villages.\n\nIn the morning, we focus on the fascinating architecture of Setenil before taking a short drive through the Andalusian landscape to Olvera.\n\nAfter visiting Olvera, we return to experience the castle and the best viewpoint of Setenil.\n\nThis tour offers a perfect blend of spectacular architecture and wide panoramas.",
+        "es": "En coche combinamos el pueblo cueva de Setenil con la cercana Olvera para una experiencia completa de los pueblos blancos.\n\nPor la mañana nos centramos en la fascinante arquitectura de Setenil antes de realizar un corto trayecto por el paisaje andaluz hasta Olvera.\n\nTras visitar Olvera, volvemos para disfrutar del castillo y el mejor mirador de Setenil.\n\nEsta ruta ofrece una mezcla perfecta de arquitectura espectacular y amplios panoramas."
       },
       "gastro_picks": {
         "de": [
@@ -1686,6 +1833,12 @@
           "The road to Olvera offers fantastic photo opportunities.",
           "Make a reservation for lunch in Olvera.",
           "Take your time on the winding roads."
+        ],
+        "es": [
+          "Aparque en Setenil en el parking subterráneo Los Caños.",
+          "La carretera hacia Olvera ofrece fantásticas oportunidades fotográficas.",
+          "Reserve mesa para comer en Olvera.",
+          "Tómese su tiempo en las carreteras sinuosas."
         ]
       },
       "variants": {
@@ -1694,7 +1847,8 @@
             "de": "Mit dem Auto verbinden wir das Höhlendorf Setenil mit dem nahegelegenen Olvera für ein umfassendes Erlebnis der weißen Dörfer.\n\nMorgens konzentrieren wir uns auf die faszinierende Architektur von Setenil, bevor wir eine kurze Fahrt durch die andalusische Landschaft nach Olvera unternehmen.\n\nNach der Besichtigung von Olvera kehren wir zurück, um die Burg und den besten Aussichtspunkt von Setenil zu erleben.\n\nDiese Tour bietet eine perfekte Mischung aus spektakulärer Architektur und weiten Panoramen.",
             "hu": "Autóval összekötjük Setenil barlangfaluját a közeli Olverával, hogy teljes élményt kapjunk a fehér falvakból.\n\nReggel Setenil lenyűgöző építészetére koncentrálunk, majd egy rövid autózást teszünk az andalúz tájon át Olverába.\n\nOlvera meglátogatása után visszatérünk, hogy felfedezzük Setenil várát és legjobb kilátópontját.\n\nEz a túra a látványos építészet és a tágas panorámák tökéletes keverékét kínálja.",
             "ro": "Cu mașina conectăm satul-peșteră Setenil cu localitatea apropiată Olvera pentru o experiență completă a satelor albe.\n\nDimineața ne concentrăm pe arhitectura fascinantă din Setenil, înainte de a face o scurtă călătorie prin peisajul andaluz spre Olvera.\n\nDupă vizitarea orașului Olvera, ne întoarcem pentru a experimenta castelul și cel mai bun punct de observație din Setenil.\n\nAcest tur oferă un amestec perfect de arhitectură spectaculoasă și panorame vaste.",
-            "en": "By car, we combine the cave village of Setenil with nearby Olvera for a comprehensive experience of the white villages.\n\nIn the morning, we focus on the fascinating architecture of Setenil before taking a short drive through the Andalusian landscape to Olvera.\n\nAfter visiting Olvera, we return to experience the castle and the best viewpoint of Setenil.\n\nThis tour offers a perfect blend of spectacular architecture and wide panoramas."
+            "en": "By car, we combine the cave village of Setenil with nearby Olvera for a comprehensive experience of the white villages.\n\nIn the morning, we focus on the fascinating architecture of Setenil before taking a short drive through the Andalusian landscape to Olvera.\n\nAfter visiting Olvera, we return to experience the castle and the best viewpoint of Setenil.\n\nThis tour offers a perfect blend of spectacular architecture and wide panoramas.",
+            "es": "En coche combinamos el pueblo cueva de Setenil con la cercana Olvera para una experiencia completa de los pueblos blancos.\n\nPor la mañana nos centramos en la fascinante arquitectura de Setenil antes de realizar un corto trayecto por el paisaje andaluz hasta Olvera.\n\nTras visitar Olvera, volvemos para disfrutar del castillo y el mejor mirador de Setenil.\n\nEsta ruta ofrece una mezcla perfecta de arquitectura espectacular y amplios panoramas."
           },
           "stops": [
             {
@@ -1702,13 +1856,15 @@
                 "de": "Calle Cuevas del Sol",
                 "hu": "Calle Cuevas del Sol",
                 "ro": "Calle Cuevas del Sol",
-                "en": "Calle Cuevas del Sol"
+                "en": "Calle Cuevas del Sol",
+                "es": "Calle Cuevas del Sol"
               },
               "tip_5lang": {
                 "de": "Parken Sie am Ortseingang und laufen Sie hinein.",
                 "hu": "Parkolj a falu szélén és sétálj be.",
                 "ro": "Parcați la intrarea în localitate și mergeți pe jos.",
-                "en": "Park at the village entrance and walk in."
+                "en": "Park at the village entrance and walk in.",
+                "es": "Estacione en la entrada del pueblo y entre a pie."
               }
             },
             {
@@ -1716,13 +1872,15 @@
                 "de": "Calle Cuevas de la Sombra",
                 "hu": "Calle Cuevas de la Sombra",
                 "ro": "Calle Cuevas de la Sombra",
-                "en": "Calle Cuevas de la Sombra"
+                "en": "Calle Cuevas de la Sombra",
+                "es": "Calle Cuevas de la Sombra"
               },
               "tip_5lang": {
                 "de": "Einzigartige Felsendächer.",
                 "hu": "Egyedülálló sziklatetők.",
                 "ro": "Acoperișuri de stâncă unice.",
-                "en": "Unique rock roofs."
+                "en": "Unique rock roofs.",
+                "es": "Tejados de roca únicos."
               }
             },
             {
@@ -1730,13 +1888,15 @@
                 "de": "Plaza de Andalucía",
                 "hu": "Plaza de Andalucía",
                 "ro": "Plaza de Andalucía",
-                "en": "Plaza de Andalucía"
+                "en": "Plaza de Andalucía",
+                "es": "Plaza de Andalucía"
               },
               "tip_5lang": {
                 "de": "Blick auf das Rathaus.",
                 "hu": "Kilátás a városházára.",
                 "ro": "Vedere spre primărie.",
-                "en": "View of the town hall."
+                "en": "View of the town hall.",
+                "es": "Vista del ayuntamiento."
               }
             },
             {
@@ -1744,13 +1904,15 @@
                 "de": "Olvera (Nachbarort)",
                 "hu": "Olvera (szomszédos falu)",
                 "ro": "Olvera (sat vecin)",
-                "en": "Olvera (nearby village)"
+                "en": "Olvera (nearby village)",
+                "es": "Olvera (pueblo cercano)"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die beeindruckende Kirche und Burg.",
                 "hu": "Látogasd meg a lenyűgöző templomot és várat.",
                 "ro": "Vizitați biserica și castelul impresionante.",
-                "en": "Visit the impressive church and castle."
+                "en": "Visit the impressive church and castle.",
+                "es": "Visita la impresionante iglesia y el castillo."
               }
             },
             {
@@ -1758,13 +1920,15 @@
                 "de": "Castillo de Setenil",
                 "hu": "Setenili vár",
                 "ro": "Castelul Setenil",
-                "en": "Setenil Castle"
+                "en": "Setenil Castle",
+                "es": "Castillo de Setenil"
               },
               "tip_5lang": {
                 "de": "Geschichte pur auf dem Felsen.",
                 "hu": "Tiszta történelem a sziklán.",
                 "ro": "Istorie pură pe stâncă.",
-                "en": "Pure history on the rock."
+                "en": "Pure history on the rock.",
+                "es": "Historia pura sobre la roca."
               }
             },
             {
@@ -1772,13 +1936,15 @@
                 "de": "Mirador del Carmen",
                 "hu": "Carmen kilátó",
                 "ro": "Mirador del Carmen",
-                "en": "Carmen Viewpoint"
+                "en": "Carmen Viewpoint",
+                "es": "Mirador del Carmen"
               },
               "tip_5lang": {
                 "de": "Perfekter Abschluss mit Aussicht.",
                 "hu": "Tökéletes befejezés kilátással.",
                 "ro": "Final perfect cu vedere panoramică.",
-                "en": "Perfect ending with a view."
+                "en": "Perfect ending with a view.",
+                "es": "Final perfecto con vistas."
               }
             }
           ],
@@ -1888,6 +2054,12 @@
               "The road to Olvera offers fantastic photo opportunities.",
               "Make a reservation for lunch in Olvera.",
               "Take your time on the winding roads."
+            ],
+            "es": [
+              "Aparca en Setenil en el parking Los Caños.",
+              "La carretera a Olvera ofrece fantásticas oportunidades fotográficas.",
+              "Reserva para comer en Olvera.",
+              "Tómate tu tiempo en las carreteras sinuosas."
             ]
           }
         },
@@ -1896,7 +2068,8 @@
             "de": "Genießen Sie den Komfort Ihres Autos in der Calle Cuevas del Sol. Mittags fahren Sie durch die Cuevas de la Sombra, wo das Wasser dekorativ vom Felsen tropft. Der Nachmittag führt Sie zum malerischen Olvera. Beenden Sie den Tag zurück in Setenil an der Burg und bewundern Sie die dramatischen Wolken vom Carmen Viewpoint.",
             "hu": "Élvezze autója kényelmét a Calle Cuevas del Sol-nál. Délben hajtson át a Cuevas de la Sombra-n, ahol a víz látványosan csöpög a sziklákról. A délután a festői Olverába vezeti. A napot Setenil váránál zárja, és csodálja meg a drámai felhőket a Carmen kilátótól.",
             "ro": "Bucurați-vă de confortul mașinii pe Calle Cuevas del Sol. La prânz, conduceți prin Cuevas de la Sombra, unde apa picură decorativ de pe stâncă. După-amiaza vă conduce spre pitorescul Olvera. Încheiați ziua înapoi în Setenil la castel și admirați norii dramatici de la punctul Carmen.",
-            "en": "Enjoy the comfort of your car at Calle Cuevas del Sol. At midday, drive through Cuevas de la Sombra, where water drips decoratively from the rock. The afternoon leads you to picturesque Olvera. End the day back in Setenil at the castle and admire the dramatic clouds from Carmen Viewpoint."
+            "en": "Enjoy the comfort of your car at Calle Cuevas del Sol. At midday, drive through Cuevas de la Sombra, where water drips decoratively from the rock. The afternoon leads you to picturesque Olvera. End the day back in Setenil at the castle and admire the dramatic clouds from Carmen Viewpoint.",
+            "es": "Disfruta del confort de tu coche en Calle Cuevas del Sol. A mediodía, atraviesa Cuevas de la Sombra, donde el agua gotea decorativamente desde la roca. Por la tarde te diriges a la pintoresca Olvera. Termina el día de nuevo en Setenil en el castillo y admira las nubes dramáticas desde el Mirador del Carmen."
           },
           "stops": [
             {
@@ -1905,7 +2078,8 @@
                 "de": "Parken ist hier bei Regen schwierig.",
                 "hu": "A parkolás itt esőben nehéz.",
                 "ro": "Parcarea este dificilă aici pe ploaie.",
-                "en": "Parking is difficult here in the rain."
+                "en": "Parking is difficult here in the rain.",
+                "es": "Aparcar aquí es difícil con lluvia."
               }
             },
             {
@@ -1914,7 +2088,8 @@
                 "de": "Der Felsen schützt Ihr Auto wie ein Tunnel.",
                 "hu": "A szikla alagútként védi az autóját.",
                 "ro": "Stânca vă protejează mașina ca un tunel.",
-                "en": "The rock protects your car like a tunnel."
+                "en": "The rock protects your car like a tunnel.",
+                "es": "La roca protege tu coche como un túnel."
               }
             },
             {
@@ -1923,7 +2098,8 @@
                 "de": "Zentraler Platz, kurzes Aussteigen reicht.",
                 "hu": "Központi tér, egy rövid kiszállás is elég.",
                 "ro": "Piață centrală, o scurtă coborâre e suficientă.",
-                "en": "Central square, a quick hop out is enough."
+                "en": "Central square, a quick hop out is enough.",
+                "es": "Plaza central, basta con una parada rápida."
               }
             },
             {
@@ -1932,7 +2108,8 @@
                 "de": "Schöne Fahrt durch die regnerische Landschaft.",
                 "hu": "Szép autózás az esős tájon át.",
                 "ro": "Drum frumos prin peisajul ploios.",
-                "en": "Beautiful drive through the rainy landscape."
+                "en": "Beautiful drive through the rainy landscape.",
+                "es": "Hermoso trayecto por el paisaje lluvioso."
               }
             },
             {
@@ -1941,7 +2118,8 @@
                 "de": "Parken Sie unterhalb und laufen Sie kurz hoch.",
                 "hu": "Parkoljon lentebb, és sétáljon fel egy kicsit.",
                 "ro": "Parcați mai jos și urcați puțin pe jos.",
-                "en": "Park below and walk up briefly."
+                "en": "Park below and walk up briefly.",
+                "es": "Aparca abajo y sube caminando un breve tramo."
               }
             },
             {
@@ -1950,7 +2128,8 @@
                 "de": "Vom Auto aus gut zu erreichen.",
                 "hu": "Autóval könnyen megközelíthető.",
                 "ro": "Ușor de accesat cu mașina.",
-                "en": "Easy to reach from the car."
+                "en": "Easy to reach from the car.",
+                "es": "Fácil acceso desde el coche."
               }
             }
           ],
@@ -1978,6 +2157,12 @@
               "Use parking garages to get to the center dry.",
               "Visibility in the mountains can be limited in rain.",
               "Keep distance on slippery descents."
+            ],
+            "es": [
+              "Conduce con cuidado por las carreteras estrechas y mojadas.",
+              "Usa aparcamientos cubiertos para llegar al centro seco.",
+              "La visibilidad en la sierra puede ser limitada con lluvia.",
+              "Mantén distancia en descensos resbaladizos."
             ]
           }
         },
@@ -1986,7 +2171,8 @@
             "de": "Beginnen Sie Ihren Wintertrip bequem im Auto in der Calle Cuevas del Sol. Mittags erleben Sie die kühle Atmosphäre der Cuevas de la Sombra. Die Fahrt nach Olvera bietet atemberaubende Ausblicke auf schneebedeckte Gipfel in der Ferne. Der späte Nachmittag gehört der Burg von Setenil, bevor Sie den Sonnenuntergang am Carmen Viewpoint genießen.",
             "hu": "Kezdje téli kirándulását kényelmesen az autóban a Calle Cuevas del Sol-nál. Délben tapasztalja meg a Cuevas de la Sombra hűvös hangulatát. Az Olverába vezető út lélegzetelállító kilátást nyújt a távoli hófödte csúcsokra. A késő délután a setenili váré, mielőtt élvezné a naplementét a Carmen kilátónál.",
             "ro": "Începeți excursia de iarnă confortabil în mașină pe Calle Cuevas del Sol. La prânz experimentați atmosfera răcoroasă din Cuevas de la Sombra. Drumul spre Olvera oferă vederi uimitoare spre vârfurile înzăpezite din depărtare. După-amiaza târziu aparține castelului din Setenil înainte de a savura apusul la punctul Carmen.",
-            "en": "Start your winter trip comfortably in the car at Calle Cuevas del Sol. At midday, experience the cool atmosphere of Cuevas de la Sombra. The drive to Olvera offers breathtaking views of distant snow-capped peaks. Late afternoon belongs to Setenil Castle before enjoying the sunset at Carmen Viewpoint."
+            "en": "Start your winter trip comfortably in the car at Calle Cuevas del Sol. At midday, experience the cool atmosphere of Cuevas de la Sombra. The drive to Olvera offers breathtaking views of distant snow-capped peaks. Late afternoon belongs to Setenil Castle before enjoying the sunset at Carmen Viewpoint.",
+            "es": "Comienza tu viaje invernal cómodamente en el coche en Calle Cuevas del Sol. A mediodía, experimenta la atmósfera fresca de Cuevas de la Sombra. El trayecto a Olvera ofrece vistas impresionantes de picos lejanos cubiertos de nieve. La tarde pertenece al Castillo de Setenil antes de disfrutar la puesta de sol en el Mirador del Carmen."
           },
           "stops": [
             {
@@ -1995,7 +2181,8 @@
                 "de": "Genießen Sie die Aussicht aus dem warmen Auto.",
                 "hu": "Élvezze a kilátást a meleg autóból.",
                 "ro": "Bucurați-vă de priveliște din mașina caldă.",
-                "en": "Enjoy the view from the warm car."
+                "en": "Enjoy the view from the warm car.",
+                "es": "Disfruta la vista desde el coche caliente."
               }
             },
             {
@@ -2004,7 +2191,8 @@
                 "de": "Hier ist es im Winter frostig, bleiben Sie im Wagen.",
                 "hu": "Télen itt fagyos, maradjon az autóban.",
                 "ro": "E geros aici iarna, rămâneți în mașină.",
-                "en": "It's frosty here in winter, stay in the car."
+                "en": "It's frosty here in winter, stay in the car.",
+                "es": "Hace helada en invierno, permanece en el coche."
               }
             },
             {
@@ -2013,7 +2201,8 @@
                 "de": "Parken Sie nah am Platz für einen schnellen Kaffee.",
                 "hu": "Parkoljon közel a térhez egy gyors kávéra.",
                 "ro": "Parcați aproape de piață pentru o cafea rapidă.",
-                "en": "Park close to the square for a quick coffee."
+                "en": "Park close to the square for a quick coffee.",
+                "es": "Aparca cerca de la plaza para un café rápido."
               }
             },
             {
@@ -2022,7 +2211,8 @@
                 "de": "Klare Sicht auf der Bergstraße.",
                 "hu": "Tiszta kilátás a hegyi úton.",
                 "ro": "Vizibilitate clară pe drumul montan.",
-                "en": "Clear views on the mountain road."
+                "en": "Clear views on the mountain road.",
+                "es": "Vistas despejadas en la carretera de montaña."
               }
             },
             {
@@ -2031,7 +2221,8 @@
                 "de": "Kurzer Spaziergang zum Aussichtsturm.",
                 "hu": "Rövid séta a kilátótoronyhoz.",
                 "ro": "Scurtă plimbare până la turnul de belvedere.",
-                "en": "Short walk to the lookout tower."
+                "en": "Short walk to the lookout tower.",
+                "es": "Corta caminata hasta la torre mirador."
               }
             },
             {
@@ -2040,7 +2231,8 @@
                 "de": "Perfekter Ort für das letzte Winterlicht.",
                 "hu": "Tökéletes hely az utolsó téli fényekhez.",
                 "ro": "Locul perfect pentru ultima lumină de iarnă.",
-                "en": "Perfect spot for the last winter light."
+                "en": "Perfect spot for the last winter light.",
+                "es": "Lugar perfecto para la última luz invernal."
               }
             }
           ],
@@ -2068,6 +2260,12 @@
               "Mountain roads can be tricky in winter.",
               "Use seat heating for maximum coziness.",
               "Always have an ice scraper with you."
+            ],
+            "es": [
+              "Revisa la presión de los neumáticos con el frío.",
+              "Las carreteras de montaña pueden ser complicadas en invierno.",
+              "Usa el calefactor de los asientos para máxima comodidad.",
+              "Lleva siempre un rascador de hielo."
             ]
           }
         }
@@ -2086,7 +2284,8 @@
             "de": "Bushaltestelle Setenil",
             "hu": "Setenili buszmegálló",
             "ro": "Stația de autobuz Setenil",
-            "en": "Setenil Bus Stop"
+            "en": "Setenil Bus Stop",
+            "es": "Parada de autobús de Setenil"
           },
           "coords": [
             -5.181,
@@ -2101,7 +2300,8 @@
             "de": "Ankunftspunkt der Überlandbusse.",
             "hu": "A távolsági buszok érkezési pontja.",
             "ro": "Punctul de sosire al autobuzelor interurbane.",
-            "en": "Arrival point for intercity buses."
+            "en": "Arrival point for intercity buses.",
+            "es": "Punto de llegada de autobuses interurbanos."
           }
         },
         {
@@ -2109,7 +2309,8 @@
             "de": "Calle Cuevas del Sol",
             "hu": "Calle Cuevas del Sol",
             "ro": "Calle Cuevas del Sol",
-            "en": "Calle Cuevas del Sol"
+            "en": "Calle Cuevas del Sol",
+            "es": "Calle Cuevas del Sol"
           },
           "coords": [
             -5.1795,
@@ -2124,7 +2325,8 @@
             "de": "Zu Fuß erreichbar vom Haltepunkt.",
             "hu": "Gyalogosan elérhető a megállótól.",
             "ro": "Accesibil pe jos de la stație.",
-            "en": "Accessible on foot from the stop."
+            "en": "Accessible on foot from the stop.",
+            "es": "Accesible a pie desde la parada."
           }
         },
         {
@@ -2132,7 +2334,8 @@
             "de": "Plaza de Andalucía",
             "hu": "Plaza de Andalucía",
             "ro": "Plaza de Andalucía",
-            "en": "Plaza de Andalucía"
+            "en": "Plaza de Andalucía",
+            "es": "Plaza de Andalucía"
           },
           "coords": [
             -5.1805,
@@ -2147,7 +2350,8 @@
             "de": "Zentraler Treffpunkt.",
             "hu": "Központi találkozóhely.",
             "ro": "Punct central de întâlnire.",
-            "en": "Central meeting point."
+            "en": "Central meeting point.",
+            "es": "Punto de encuentro central."
           }
         },
         {
@@ -2155,7 +2359,8 @@
             "de": "Castillo de Setenil",
             "hu": "Setenili vár",
             "ro": "Castelul Setenil",
-            "en": "Setenil Castle"
+            "en": "Setenil Castle",
+            "es": "Castillo de Setenil"
           },
           "coords": [
             -5.1815,
@@ -2170,7 +2375,8 @@
             "de": "Blick über das ganze Dorf.",
             "hu": "Kilátás az egész falura.",
             "ro": "Vedere peste întreg satul.",
-            "en": "View over the entire village."
+            "en": "View over the entire village.",
+            "es": "Vista sobre todo el pueblo."
           }
         },
         {
@@ -2178,7 +2384,8 @@
             "de": "Mirador del Carmen",
             "hu": "Carmen kilátó",
             "ro": "Mirador del Carmen",
-            "en": "Carmen Viewpoint"
+            "en": "Carmen Viewpoint",
+            "es": "Mirador del Carmen"
           },
           "coords": [
             -5.183,
@@ -2193,7 +2400,8 @@
             "de": "Ein letzter Blick vor der Rückfahrt.",
             "hu": "Egy utolsó pillantás a visszautazás előtt.",
             "ro": "O ultimă privire înainte de întoarcere.",
-            "en": "A last look before the return journey."
+            "en": "A last look before the return journey.",
+            "es": "Una última mirada antes del viaje de regreso."
           }
         }
       ],
@@ -2201,7 +2409,8 @@
         "de": "Entdecken Sie Setenil mit öffentlichen Verkehrsmitteln. Die kompakte Größe des Dorfes macht es ideal für Fußgänger nach der Ankunft.\n\nMorgens erkunden wir die berühmten Felsengassen, die nur einen kurzen Spaziergang von der Bushaltestelle entfernt sind.\n\nIn der Mittagszeit genießen wir das Leben auf der Plaza de Andalucía, dem pulsierenden Herz des Dorfes.\n\nNachmittags beenden wir unseren Besuch mit einer Tour zur Burg und dem Mirador del Carmen, bevor der Bus uns wieder zurückbringt.",
         "hu": "Fedezd fel Setenilt tömegközlekedéssel. A falu kompakt mérete ideálissá teszi a gyalogos felfedezést az érkezés után.\n\nReggel a híres sziklás utcákat járjuk be, amelyek csak egy rövid sétára vannak a buszmegállótól.\n\nEbédidőben élvezzük az életet a Plaza de Andalucía téren, a falu lüktető szívében.\n\nDélután a vár és a Carmen kilátó meglátogatásával zárjuk a vizitünket, mielőtt a busz visszavisz minket.",
         "ro": "Descoperiți Setenil cu transportul public. Dimensiunea compactă a satului îl face ideal pentru pietoni după sosire.\n\nDimineața explorăm faimoasele străzi cu stânci, care sunt la doar o scurtă plimbare de stația de autobuz.\n\nLa prânz ne bucurăm de viața din Plaza de Andalucía, inima vibrantă a satului.\n\nDupă-amiaza ne încheiem vizita cu un tur la castel și la Mirador del Carmen, înainte ca autobuzul să ne ducă înapoi.",
-        "en": "Discover Setenil using public transport. The village's compact size makes it ideal for pedestrians after arrival.\n\nIn the morning, we explore the famous rock alleys, which are just a short walk from the bus stop.\n\nAt lunchtime, we enjoy life at Plaza de Andalucía, the vibrant heart of the village.\n\nIn the afternoon, we conclude our visit with a tour of the castle and the Mirador del Carmen before the bus takes us back."
+        "en": "Discover Setenil using public transport. The village's compact size makes it ideal for pedestrians after arrival.\n\nIn the morning, we explore the famous rock alleys, which are just a short walk from the bus stop.\n\nAt lunchtime, we enjoy life at Plaza de Andalucía, the vibrant heart of the village.\n\nIn the afternoon, we conclude our visit with a tour of the castle and the Mirador del Carmen before the bus takes us back.",
+        "es": "Descubre Setenil usando transporte público. El tamaño compacto del pueblo lo hace ideal para recorrerlo a pie tras la llegada.\n\nPor la mañana exploramos las famosas calles excavadas en la roca, que están a un corto paseo de la parada de autobús.\n\nA mediodía disfrutamos de la vida en la Plaza de Andalucía, el animado corazón del pueblo.\n\nPor la tarde concluimos la visita con un recorrido por el castillo y el Mirador del Carmen antes de que el autobús nos lleve de vuelta."
       },
       "gastro_picks": {
         "de": [
@@ -2309,6 +2518,12 @@
           "Buy return tickets in advance.",
           "The bus stop is located slightly below the center.",
           "Plan enough buffer time for the return trip."
+        ],
+        "es": [
+          "Hay autobuses regulares desde Ronda u Olvera.",
+          "Compra los billetes de vuelta con antelación.",
+          "La parada está situada algo por debajo del centro.",
+          "Planifica tiempo de margen suficiente para el regreso."
         ]
       },
       "variants": {
@@ -2317,7 +2532,8 @@
             "de": "Entdecken Sie Setenil mit öffentlichen Verkehrsmitteln. Die kompakte Größe des Dorfes macht es ideal für Fußgänger nach der Ankunft.\n\nMorgens erkunden wir die berühmten Felsengassen, die nur einen kurzen Spaziergang von der Bushaltestelle entfernt sind.\n\nIn der Mittagszeit genießen wir das Leben auf der Plaza de Andalucía, dem pulsierenden Herz des Dorfes.\n\nNachmittags beenden wir unseren Besuch mit einer Tour zur Burg und dem Mirador del Carmen, bevor der Bus uns wieder zurückbringt.",
             "hu": "Fedezd fel Setenilt tömegközlekedéssel. A falu kompakt mérete ideálissá teszi a gyalogos felfedezést az érkezés után.\n\nReggel a híres sziklás utcákat járjuk be, amelyek csak egy rövid sétára vannak a buszmegállótól.\n\nEbédidőben élvezzük az életet a Plaza de Andalucía téren, a falu lüktető szívében.\n\nDélután a vár és a Carmen kilátó meglátogatásával zárjuk a vizitünket, mielőtt a busz visszavisz minket.",
             "ro": "Descoperiți Setenil cu transportul public. Dimensiunea compactă a satului îl face ideal pentru pietoni după sosire.\n\nDimineața explorăm faimoasele străzi cu stânci, care sunt la doar o scurtă plimbare de stația de autobuz.\n\nLa prânz ne bucurăm de viața din Plaza de Andalucía, inima vibrantă a satului.\n\nDupă-amiaza ne încheiem vizita cu un tur la castel și la Mirador del Carmen, înainte ca autobuzul să ne ducă înapoi.",
-            "en": "Discover Setenil using public transport. The village's compact size makes it ideal for pedestrians after arrival.\n\nIn the morning, we explore the famous rock alleys, which are just a short walk from the bus stop.\n\nAt lunchtime, we enjoy life at Plaza de Andalucía, the vibrant heart of the village.\n\nIn the afternoon, we conclude our visit with a tour of the castle and the Mirador del Carmen before the bus takes us back."
+            "en": "Discover Setenil using public transport. The village's compact size makes it ideal for pedestrians after arrival.\n\nIn the morning, we explore the famous rock alleys, which are just a short walk from the bus stop.\n\nAt lunchtime, we enjoy life at Plaza de Andalucía, the vibrant heart of the village.\n\nIn the afternoon, we conclude our visit with a tour of the castle and the Mirador del Carmen before the bus takes us back.",
+            "es": "Descubre Setenil usando transporte público. El tamaño compacto del pueblo lo hace ideal para recorrerlo a pie tras la llegada.\n\nPor la mañana exploramos las famosas calles excavadas en la roca, que están a un corto paseo de la parada de autobús.\n\nA mediodía disfrutamos de la vida en la Plaza de Andalucía, el animado corazón del pueblo.\n\nPor la tarde concluimos la visita con un recorrido por el castillo y el Mirador del Carmen antes de que el autobús nos lleve de vuelta."
           },
           "stops": [
             {
@@ -2325,13 +2541,15 @@
                 "de": "Bushaltestelle Setenil",
                 "hu": "Setenili buszmegálló",
                 "ro": "Stația de autobuz Setenil",
-                "en": "Setenil Bus Stop"
+                "en": "Setenil Bus Stop",
+                "es": "Parada de autobús de Setenil"
               },
               "tip_5lang": {
                 "de": "Ankunftspunkt der Überlandbusse.",
                 "hu": "A távolsági buszok érkezési pontja.",
                 "ro": "Punctul de sosire al autobuzelor interurbane.",
-                "en": "Arrival point for intercity buses."
+                "en": "Arrival point for intercity buses.",
+                "es": "Punto de llegada de autobuses interurbanos."
               }
             },
             {
@@ -2339,13 +2557,15 @@
                 "de": "Calle Cuevas del Sol",
                 "hu": "Calle Cuevas del Sol",
                 "ro": "Calle Cuevas del Sol",
-                "en": "Calle Cuevas del Sol"
+                "en": "Calle Cuevas del Sol",
+                "es": "Calle Cuevas del Sol"
               },
               "tip_5lang": {
                 "de": "Zu Fuß erreichbar vom Haltepunkt.",
                 "hu": "Gyalogosan elérhető a megállótól.",
                 "ro": "Accesibil pe jos de la stație.",
-                "en": "Accessible on foot from the stop."
+                "en": "Accessible on foot from the stop.",
+                "es": "Accesible a pie desde la parada."
               }
             },
             {
@@ -2353,13 +2573,15 @@
                 "de": "Plaza de Andalucía",
                 "hu": "Plaza de Andalucía",
                 "ro": "Plaza de Andalucía",
-                "en": "Plaza de Andalucía"
+                "en": "Plaza de Andalucía",
+                "es": "Plaza de Andalucía"
               },
               "tip_5lang": {
                 "de": "Zentraler Treffpunkt.",
                 "hu": "Központi találkozóhely.",
                 "ro": "Punct central de întâlnire.",
-                "en": "Central meeting point."
+                "en": "Central meeting point.",
+                "es": "Punto de encuentro central."
               }
             },
             {
@@ -2367,13 +2589,15 @@
                 "de": "Castillo de Setenil",
                 "hu": "Setenili vár",
                 "ro": "Castelul Setenil",
-                "en": "Setenil Castle"
+                "en": "Setenil Castle",
+                "es": "Castillo de Setenil"
               },
               "tip_5lang": {
                 "de": "Blick über das ganze Dorf.",
                 "hu": "Kilátás az egész falura.",
                 "ro": "Vedere peste întreg satul.",
-                "en": "View over the entire village."
+                "en": "View over the entire village.",
+                "es": "Vista sobre todo el pueblo."
               }
             },
             {
@@ -2381,13 +2605,15 @@
                 "de": "Mirador del Carmen",
                 "hu": "Carmen kilátó",
                 "ro": "Mirador del Carmen",
-                "en": "Carmen Viewpoint"
+                "en": "Carmen Viewpoint",
+                "es": "Mirador del Carmen"
               },
               "tip_5lang": {
                 "de": "Ein letzter Blick vor der Rückfahrt.",
                 "hu": "Egy utolsó pillantás a visszautazás előtt.",
                 "ro": "O ultimă privire înainte de întoarcere.",
-                "en": "A last look before the return journey."
+                "en": "A last look before the return journey.",
+                "es": "Una última mirada antes del viaje de regreso."
               }
             }
           ],
@@ -2497,6 +2723,12 @@
               "Buy return tickets in advance.",
               "The bus stop is located slightly below the center.",
               "Plan enough buffer time for the return trip."
+            ],
+            "es": [
+              "Hay autobuses regulares desde Ronda u Olvera.",
+              "Compra los billetes de vuelta con antelación.",
+              "La parada está situada algo por debajo del centro.",
+              "Planifica tiempo de margen suficiente para el regreso."
             ]
           }
         },
@@ -2505,7 +2737,8 @@
             "de": "Starten Sie an der Bushaltestelle und suchen Sie sofort Schutz in der Calle Cuevas del Sol. Mittags bietet die Plaza de Andalucía gemütliche Cafés unter Arkaden. Am Nachmittag besuchen Sie die Burg und beenden den Tag am Carmen Viewpoint, bevor der Bus Sie trocken zurückbringt.",
             "hu": "Kezdje a buszmegállónál, és keressen azonnal menedéket a Calle Cuevas del Sol-nál. Délben a Plaza de Andalucía árkádos kávézói várják. Délután látogassa meg a várat, és zárja a napot a Carmen kilátónál, mielőtt a busz szárazon visszavinné.",
             "ro": "Începeți la stația de autobuz și căutați imediat adăpost pe Calle Cuevas del Sol. La prânz, Plaza de Andalucía oferă cafenele primitoare sub arcade. După-amiaza vizitați castelul și încheiați ziua la punctul Carmen înainte ca autobuzul să vă ducă înapoi uscat.",
-            "en": "Start at the bus stop and seek immediate shelter at Calle Cuevas del Sol. At midday, Plaza de Andalucía offers cozy cafés under arcades. In the afternoon, visit the castle and end the day at Carmen Viewpoint before the bus takes you back dry."
+            "en": "Start at the bus stop and seek immediate shelter at Calle Cuevas del Sol. At midday, Plaza de Andalucía offers cozy cafés under arcades. In the afternoon, visit the castle and end the day at Carmen Viewpoint before the bus takes you back dry.",
+            "es": "Empieza en la parada de autobús y busca refugio inmediato en Calle Cuevas del Sol. A mediodía, la Plaza de Andalucía ofrece cafeterías acogedoras bajo los pórticos. Por la tarde visita el castillo y termina el día en el Mirador del Carmen antes de que el autobús te lleve de vuelta seco."
           },
           "stops": [
             {
@@ -2514,7 +2747,8 @@
                 "de": "Überdachte Haltestelle vorhanden.",
                 "hu": "Fedett buszmegálló áll rendelkezésre.",
                 "ro": "Stație de autobuz acoperită disponibilă.",
-                "en": "Covered bus stop available."
+                "en": "Covered bus stop available.",
+                "es": "Parada de autobús con cubierta disponible."
               }
             },
             {
@@ -2523,7 +2757,8 @@
                 "de": "Wenige Minuten zu Fuß unter den Fels.",
                 "hu": "Pár perc séta a szikla alá.",
                 "ro": "Câteva minute de mers pe jos sub stâncă.",
-                "en": "A few minutes walk to get under the rock."
+                "en": "A few minutes walk to get under the rock.",
+                "es": "A pocos minutos a pie para ponerse bajo la roca."
               }
             },
             {
@@ -2532,7 +2767,8 @@
                 "de": "Zentrale Cafés sind ideale Regen-Stopps.",
                 "hu": "A központi kávézók ideális esőmegállók.",
                 "ro": "Cafenelele centrale sunt opriri ideale pe ploaie.",
-                "en": "Central cafés are ideal rain stops."
+                "en": "Central cafés are ideal rain stops.",
+                "es": "Las cafeterías centrales son paradas ideales con lluvia."
               }
             },
             {
@@ -2541,7 +2777,8 @@
                 "de": "Besuchen Sie das Museum im Inneren.",
                 "hu": "Látogassa meg a belső múzeumot.",
                 "ro": "Vizitați muzeul din interior.",
-                "en": "Visit the museum inside."
+                "en": "Visit the museum inside.",
+                "es": "Visita el museo del interior."
               }
             },
             {
@@ -2550,7 +2787,8 @@
                 "de": "Kurzer, steiler Weg, Vorsicht bei Nässe.",
                 "hu": "Rövid, meredek út, vizesen óvatosan.",
                 "ro": "Drum scurt și abrupt, atenție pe ud.",
-                "en": "Short, steep path, careful when wet."
+                "en": "Short, steep path, careful when wet.",
+                "es": "Sendero corto y empinado, cuidado cuando esté mojado."
               }
             }
           ],
@@ -2578,6 +2816,12 @@
               "Use the app for real-time info.",
               "Stops often provide good wind protection.",
               "Have small change ready for the ticket."
+            ],
+            "es": [
+              "Consulta el horario del autobús en mal tiempo.",
+              "Usa la app para información en tiempo real.",
+              "Las paradas suelen ofrecer buena protección contra el viento.",
+              "Ten cambio preparado para el billete."
             ]
           }
         },
@@ -2586,7 +2830,8 @@
             "de": "Ein klarer Wintermorgen beginnt an der Setenil Bushaltestelle. Gehen Sie zur sonnigen Calle Cuevas del Sol für einen ersten Kaffee. Mittags ist die Plaza de Andalucía der belebteste Ort. Der Nachmittag bietet beste Sicht von der Burg, bevor der frühe Sonnenuntergang am Carmen Viewpoint den Tag krönt.",
             "hu": "Egy tiszta téli reggel kezdődik a setenili buszmegállónál. Menjen a napos Calle Cuevas del Sol-hoz egy első kávéra. Délben a Plaza de Andalucía a legélettelibb hely. A délután remek kilátást kínál a várból, mielőtt a korai naplemente a Carmen kilátónál megkoronázná a napot.",
             "ro": "O dimineață senină de iarnă începe la stația de autobuz din Setenil. Mergeți pe însorita Calle Cuevas del Sol pentru o primă cafea. La prânz, Plaza de Andalucía este cel mai animat loc. După-amiaza oferă o vedere excelentă de la castel înainte ca apusul timpuriu la punctul Carmen să încoroneze ziua.",
-            "en": "A clear winter morning starts at the Setenil bus stop. Head to the sunny Calle Cuevas del Sol for a first coffee. At midday, Plaza de Andalucía is the liveliest spot. The afternoon offers great views from the castle before the early sunset at Carmen Viewpoint crowns the day."
+            "en": "A clear winter morning starts at the Setenil bus stop. Head to the sunny Calle Cuevas del Sol for a first coffee. At midday, Plaza de Andalucía is the liveliest spot. The afternoon offers great views from the castle before the early sunset at Carmen Viewpoint crowns the day.",
+            "es": "Una clara mañana invernal comienza en la parada de autobús de Setenil. Dirígete a la soleada Calle Cuevas del Sol para un primer café. A mediodía, la Plaza de Andalucía es el punto más animado. La tarde ofrece grandes vistas desde el castillo antes de que la temprana puesta de sol en el Mirador del Carmen corone el día."
           },
           "stops": [
             {
@@ -2595,7 +2840,8 @@
                 "de": "Kalt am Morgen, ziehen Sie sich warm an.",
                 "hu": "Reggel hideg van, öltözzön melegen.",
                 "ro": "Frig dimineața, îmbrăcați-vă gros.",
-                "en": "Cold in the morning, dress warmly."
+                "en": "Cold in the morning, dress warmly.",
+                "es": "Hace frío por la mañana, vístete abrigado."
               }
             },
             {
@@ -2604,7 +2850,8 @@
                 "de": "Bester Platz für die Vormittagssonne.",
                 "hu": "A legjobb hely a délelőtti napsütéshez.",
                 "ro": "Cel mai bun loc pentru soarele dimineții.",
-                "en": "Best spot for the morning sun."
+                "en": "Best spot for the morning sun.",
+                "es": "Mejor lugar para el sol de la mañana."
               }
             },
             {
@@ -2613,7 +2860,8 @@
                 "de": "Beheizte Außenbereiche in einigen Cafés.",
                 "hu": "Fűtött kültéri részek néhány kávézóban.",
                 "ro": "Zone exterioare încălzite la unele cafenele.",
-                "en": "Heated outdoor areas in some cafés."
+                "en": "Heated outdoor areas in some cafés.",
+                "es": "Algunas cafeterías cuentan con zonas exteriores calefactadas."
               }
             },
             {
@@ -2622,7 +2870,8 @@
                 "de": "Klare Sicht bis zu den Bergen.",
                 "hu": "Tiszta kilátás egészen a hegyekig.",
                 "ro": "Vizibilitate clară până la munți.",
-                "en": "Clear views all the way to the mountains."
+                "en": "Clear views all the way to the mountains.",
+                "es": "Vistas despejadas hasta las montañas."
               }
             },
             {
@@ -2631,7 +2880,8 @@
                 "de": "Sonnenuntergang gegen 18:00 Uhr.",
                 "hu": "Naplemente 18:00 körül.",
                 "ro": "Apus în jur de ora 18:00.",
-                "en": "Sunset around 18:00."
+                "en": "Sunset around 18:00.",
+                "es": "Puesta de sol sobre las 18:00."
               }
             }
           ],
@@ -2659,6 +2909,12 @@
               "Wait in a café near the stop.",
               "It cools down quickly in the evening, pack a hat.",
               "The ride offers great views of winter landscapes."
+            ],
+            "es": [
+              "En invierno los autobuses circulan según el horario normal.",
+              "Espera en una cafetería cerca de la parada.",
+              "Se enfría rápido por la noche, lleva gorro.",
+              "El trayecto ofrece excelentes vistas de los paisajes invernales."
             ]
           }
         }
@@ -2673,19 +2929,22 @@
       "de": "Setenil ist Tagestouristen-Ziel, einige Restaurants haben Englisch-Karten. 'Bajo las cuevas' (unter den Höhlen) ist die Hauptstraße. 'Chicharrones' (knusprige Schweinerippen) und lokaler Olivenöl unbedingt probieren.",
       "hu": "Setenil egynapos turisták célpontja, néhány étteremben van angol menü. A 'Calle Bajo las Cuevas' (a sziklák alatt) a főutca. A 'chicharrones' (ropogós sertésborda) és a helyi olívaolaj kötelező kóstolás.",
       "ro": "Setenil e destinație de o zi, unele restaurante au meniu în engleză. 'Bajo las cuevas' (sub stânci) e strada principală. 'Chicharrones' (costiță crocantă) și uleiul de măsline local sunt obligatorii.",
-      "en": "Setenil is a day-tripper spot, some restaurants have English menus. 'Bajo las cuevas' (below the rocks) is the main street. 'Chicharrones' (crispy pork) and local olive oil are musts."
+      "en": "Setenil is a day-tripper spot, some restaurants have English menus. 'Bajo las cuevas' (below the rocks) is the main street. 'Chicharrones' (crispy pork) and local olive oil are musts.",
+      "es": "Setenil es un destino para excursiones de un día; algunos restaurantes ofrecen menús en inglés. 'Bajo las cuevas' (debajo de las rocas) es la calle principal. Los chicharrones y el aceite de oliva local son imprescindibles."
     },
     "best_time_to_visit": {
       "de": "März bis Mai und Oktober für angenehmes Wandern und leere Gassen. Wochenenden Mittag bis 16 Uhr stark frequentiert von Tagesausflüglern – früh kommen oder spät bleiben.",
       "hu": "Március-május és október kellemes túrázáshoz és üres utcákhoz. Hétvégén dél és 16 között kirándulók tömege, korán érkezz vagy maradj későig.",
       "ro": "Martie-mai și octombrie pentru drumeții plăcute și străzi goale. În weekend, între prânz și ora 16, e plin de turiști de o zi – ajunge devreme sau rămâne târziu.",
-      "en": "March–May and October for pleasant walking and empty lanes. Weekends from noon to 4pm are packed with day-trippers – come early or stay late."
+      "en": "March–May and October for pleasant walking and empty lanes. Weekends from noon to 4pm are packed with day-trippers – come early or stay late.",
+      "es": "Marzo–mayo y octubre para pasear agradablemente con calles vacías. Los fines de semana de mediodía a las 16:00 están llenos de excursionistas: ven temprano o quédate hasta tarde."
     },
     "neighborhood_warnings": {
       "de": "Sehr sicher. Felsüberhänge wirken dramatisch, sind aber stabil. Bei Regen Gassen rutschig, festes Schuhwerk. Parkplätze rar, vor 11 Uhr ankommen oder am unteren Ortseingang parken.",
       "hu": "Nagyon biztonságos. A sziklaboltozatok látványosak, de stabilak. Eső után csúszós a kő, kemény talpú cipő ajánlott. Parkoló kevés, 11 előtt érkezz, vagy a lenti bejárónál állj le.",
       "ro": "Foarte sigur. Stâncile suspendate sunt impresionante dar stabile. Pe ploaie pietrele alunecă, încălțăminte solidă. Parcări puține, sosește înainte de ora 11 sau parchează la intrarea de jos.",
-      "en": "Very safe. The overhanging cliffs look dramatic but are stable. Cobbles get slippery after rain – wear grippy shoes. Parking is scarce – arrive before 11am or park at the lower entrance."
+      "en": "Very safe. The overhanging cliffs look dramatic but are stable. Cobbles get slippery after rain – wear grippy shoes. Parking is scarce – arrive before 11am or park at the lower entrance.",
+      "es": "Muy seguro. Los acantilados que sobresalen son dramáticos pero estables. Los adoquines se vuelven resbaladizos tras la lluvia: usa calzado con buena suela. El aparcamiento es escaso: llega antes de las 11:00 o aparca en la entrada baja."
     }
   }
 }

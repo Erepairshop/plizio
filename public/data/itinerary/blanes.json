@@ -21,7 +21,8 @@
             "de": "Gotischer Brunnen",
             "hu": "Gótikus kút",
             "ro": "Fântâna Gotică",
-            "en": "Gothic Fountain"
+            "en": "Gothic Fountain",
+            "es": "Fuente Gótica"
           },
           "coords": [
             2.7915,
@@ -36,7 +37,8 @@
             "de": "Einzigartiges Beispiel katalanischer Gotik.",
             "hu": "A katalán gótika ritka, épségben maradt példája.",
             "ro": "Un exemplu rar de arhitectură gotică civică.",
-            "en": "A rare 15th-century civic Gothic monument."
+            "en": "A rare 15th-century civic Gothic monument.",
+            "es": "Un raro monumento cívico gótico del siglo XV."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Santa Maria",
             "hu": "Szent Mária-templom",
             "ro": "Biserica Sfânta Maria",
-            "en": "Church of Santa Maria"
+            "en": "Church of Santa Maria",
+            "es": "Iglesia de Santa Maria"
           },
           "coords": [
             2.7922,
@@ -59,7 +62,8 @@
             "de": "Besuchen Sie das Innere nach dem Wiederaufbau.",
             "hu": "Csodáld meg a felújított belső teret.",
             "ro": "Admirați interiorul reconstruit după incendiu.",
-            "en": "Explore the interior rebuilt after the civil war."
+            "en": "Explore the interior rebuilt after the civil war.",
+            "es": "Explora el interior reconstruido tras la guerra civil."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Sa Palomera Felsen",
             "hu": "Sa Palomera szikla",
             "ro": "Stânca Sa Palomera",
-            "en": "Sa Palomera Rock"
+            "en": "Sa Palomera Rock",
+            "es": "Sa Palomera"
           },
           "coords": [
             2.7925,
@@ -82,7 +87,8 @@
             "de": "Der offizielle Beginn der Costa Brava.",
             "hu": "Itt kezdődik hivatalosan a Costa Brava.",
             "ro": "Simbolul începutului coastei Costa Brava.",
-            "en": "The symbolic start of the Costa Brava coast."
+            "en": "The symbolic start of the Costa Brava coast.",
+            "es": "La simbólica entrada de la Costa Brava."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Hafen von Blanes",
             "hu": "Blanesi kikötő",
             "ro": "Portul Blanes",
-            "en": "Port of Blanes"
+            "en": "Port of Blanes",
+            "es": "Puerto de Blanes"
           },
           "coords": [
             2.798,
@@ -105,7 +112,8 @@
             "de": "Beobachten Sie die tägliche Fischauktion.",
             "hu": "Nézd meg a délutáni halárverést.",
             "ro": "Urmăriți licitația zilnică de pește.",
-            "en": "Watch the traditional daily fish auction."
+            "en": "Watch the traditional daily fish auction.",
+            "es": "Observa la tradicional subasta diaria de pescado."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Botanischer Garten Marimurtra",
             "hu": "Marimurtra Botanikus Kert",
             "ro": "Grădina Botanică Marimurtra",
-            "en": "Marimurtra Botanical Garden"
+            "en": "Marimurtra Botanical Garden",
+            "es": "Jardín Botánico Marimurtra"
           },
           "coords": [
             2.8015,
@@ -128,7 +137,8 @@
             "de": "Bester Panoramablick auf die Küste.",
             "hu": "A legszebb panoráma az egész tengerparton.",
             "ro": "Cea mai frumoasă panoramă asupra coastei.",
-            "en": "Best panoramic views of the Mediterranean."
+            "en": "Best panoramic views of the Mediterranean.",
+            "es": "Mejores vistas panorámicas del Mediterráneo."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Burg Sant Joan",
             "hu": "Szent János vár",
             "ro": "Castelul Sant Joan",
-            "en": "Sant Joan Castle"
+            "en": "Sant Joan Castle",
+            "es": "Castell de Sant Joan"
           },
           "coords": [
             2.8045,
@@ -151,7 +162,8 @@
             "de": "Perfekt für den Sonnenuntergang.",
             "hu": "Tökéletes helyszín a naplemente nézéséhez.",
             "ro": "Locul ideal pentru a vedea apusul de soare.",
-            "en": "Ideal spot for watching the sunset."
+            "en": "Ideal spot for watching the sunset.",
+            "es": "Lugar ideal para ver el atardecer."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag im historischen Zentrum von Blanes mit der Bewunderung des gotischen Brunnens aus dem 15. Jahrhundert, gefolgt von einem Besuch der nahe gelegenen Kirche Santa Maria.\nAm späten Vormittag spazieren Sie zum markanten Sa Palomera Felsen, der die Bucht teilt und den symbolischen Beginn der wilden Costa Brava markiert.\nNach einem Mittagessen mit frischen Meeresfrüchten im Hafen steigen Sie zum Botanischen Garten Marimurtra hinauf, einer der spektakulärsten Gartenanlagen Europas direkt über den Klippen.\nBeenden Sie den Tag auf dem Gipfel des Sant Joan Hügels, wo die Burgruine den besten Rundumblick über die Stadt und das Meer bietet.",
         "hu": "Kezdje a napot Blanes történelmi központjában a 15. századi gótikus kút megcsodálásával, majd látogasson el a közeli Szent Mária-templomba.\nKéső délelőtt sétáljon el a jellegzetes Sa Palomera sziklához, amely kettéválasztja az öblöt és a Costa Brava hivatalos kapujának számít.\nA kikötőben elfogyasztott friss tengeri ebéd után kapaszkodjon fel a Marimurtra Botanikus Kertbe, amely Európa egyik legszebb sziklaparti növénykertje.\nZárja a napot a Szent János vár romjainál, ahonnan a legjobb kilátás nyílik a városra és a végtelen tengerre a naplementében.",
         "ro": "Începeți ziua în centrul istoric al orașului Blanes admirând fântâna gotică din secolul al XV-lea, urmată de o vizită la biserica Sfânta Maria din apropiere.\nSpre prânz, mergeți la emblematica stâncă Sa Palomera, care separă golful și marchează începutul simbolic al coastei Costa Brava.\nDupă un prânz cu fructe de mare proaspete în port, urcați la Grădina Botanică Marimurtra, una dintre cele mai spectaculoase grădini din Europa, situată pe stânci.\nÎncheiați ziua pe vârful dealului Sant Joan, unde ruinele castelului oferă cea mai bună panoramă asupra orașului și a mării la apus.",
-        "en": "Start your day in the historic center of Blanes by admiring the 15th-century Gothic fountain, followed by a visit to the nearby Church of Santa Maria.\nLate morning, walk to the iconic Sa Palomera rock, which divides the bay and marks the symbolic gateway to the wild Costa Brava.\nAfter a fresh seafood lunch at the harbor, climb up to the Marimurtra Botanical Garden, one of Europe's most stunning cliffside botanical displays.\nFinish your day at the Sant Joan Castle ruins, offering the absolute best panoramic views over the town and the sea during sunset."
+        "en": "Start your day in the historic center of Blanes by admiring the 15th-century Gothic fountain, followed by a visit to the nearby Church of Santa Maria.\nLate morning, walk to the iconic Sa Palomera rock, which divides the bay and marks the symbolic gateway to the wild Costa Brava.\nAfter a fresh seafood lunch at the harbor, climb up to the Marimurtra Botanical Garden, one of Europe's most stunning cliffside botanical displays.\nFinish your day at the Sant Joan Castle ruins, offering the absolute best panoramic views over the town and the sea during sunset.",
+        "es": "Comienza el día en el centro histórico de Blanes admirando la Fuente Gótica del siglo XV, seguida de una visita a la cercana Iglesia de Santa Maria.\nA media mañana, camina hasta la emblemática Sa Palomera, que divide la bahía y marca la puerta simbólica de la salvaje Costa Brava.\nTras un almuerzo de marisco fresco en el puerto, sube al Jardín Botánico Marimurtra, una de las más impresionantes exposiciones botánicas en acantilado de Europa.\nTermina el día en las ruinas del Castell de Sant Joan, que ofrecen las mejores vistas panorámicas sobre el pueblo y el mar al atardecer."
       },
       "gastro_picks": {
         "de": [
@@ -263,6 +276,11 @@
           "Wear comfortable shoes for the climb to the gardens.",
           "The fish auction at the port starts around 4 PM.",
           "Visit during the international fireworks contest in July."
+        ],
+        "es": [
+          "Lleva calzado cómodo para la subida al jardín.",
+          "La subasta de pescado en el puerto empieza alrededor de las 16:00.",
+          "Visita durante el concurso internacional de fuegos artificiales en julio."
         ]
       },
       "variants": {
@@ -271,7 +289,8 @@
             "de": "Beginnen Sie Ihren Tag im historischen Zentrum von Blanes mit der Bewunderung des gotischen Brunnens aus dem 15. Jahrhundert, gefolgt von einem Besuch der nahe gelegenen Kirche Santa Maria.\nAm späten Vormittag spazieren Sie zum markanten Sa Palomera Felsen, der die Bucht teilt und den symbolischen Beginn der wilden Costa Brava markiert.\nNach einem Mittagessen mit frischen Meeresfrüchten im Hafen steigen Sie zum Botanischen Garten Marimurtra hinauf, einer der spektakulärsten Gartenanlagen Europas direkt über den Klippen.\nBeenden Sie den Tag auf dem Gipfel des Sant Joan Hügels, wo die Burgruine den besten Rundumblick über die Stadt und das Meer bietet.",
             "hu": "Kezdje a napot Blanes történelmi központjában a 15. századi gótikus kút megcsodálásával, majd látogasson el a közeli Szent Mária-templomba.\nKéső délelőtt sétáljon el a jellegzetes Sa Palomera sziklához, amely kettéválasztja az öblöt és a Costa Brava hivatalos kapujának számít.\nA kikötőben elfogyasztott friss tengeri ebéd után kapaszkodjon fel a Marimurtra Botanikus Kertbe, amely Európa egyik legszebb sziklaparti növénykertje.\nZárja a napot a Szent János vár romjainál, ahonnan a legjobb kilátás nyílik a városra és a végtelen tengerre a naplementében.",
             "ro": "Începeți ziua în centrul istoric al orașului Blanes admirând fântâna gotică din secolul al XV-lea, urmată de o vizită la biserica Sfânta Maria din apropiere.\nSpre prânz, mergeți la emblematica stâncă Sa Palomera, care separă golful și marchează începutul simbolic al coastei Costa Brava.\nDupă un prânz cu fructe de mare proaspete în port, urcați la Grădina Botanică Marimurtra, una dintre cele mai spectaculoase grădini din Europa, situată pe stânci.\nÎncheiați ziua pe vârful dealului Sant Joan, unde ruinele castelului oferă cea mai bună panoramă asupra orașului și a mării la apus.",
-            "en": "Start your day in the historic center of Blanes by admiring the 15th-century Gothic fountain, followed by a visit to the nearby Church of Santa Maria.\nLate morning, walk to the iconic Sa Palomera rock, which divides the bay and marks the symbolic gateway to the wild Costa Brava.\nAfter a fresh seafood lunch at the harbor, climb up to the Marimurtra Botanical Garden, one of Europe's most stunning cliffside botanical displays.\nFinish your day at the Sant Joan Castle ruins, offering the absolute best panoramic views over the town and the sea during sunset."
+            "en": "Start your day in the historic center of Blanes by admiring the 15th-century Gothic fountain, followed by a visit to the nearby Church of Santa Maria.\nLate morning, walk to the iconic Sa Palomera rock, which divides the bay and marks the symbolic gateway to the wild Costa Brava.\nAfter a fresh seafood lunch at the harbor, climb up to the Marimurtra Botanical Garden, one of Europe's most stunning cliffside botanical displays.\nFinish your day at the Sant Joan Castle ruins, offering the absolute best panoramic views over the town and the sea during sunset.",
+            "es": "Comienza el día en el centro histórico de Blanes admirando la Fuente Gótica del siglo XV, seguida de una visita a la cercana Iglesia de Santa Maria.\nA media mañana, camina hasta la emblemática Sa Palomera, que divide la bahía y marca la puerta simbólica de la salvaje Costa Brava.\nTras un almuerzo de marisco fresco en el puerto, sube al Jardín Botánico Marimurtra, una de las más impresionantes exposiciones botánicas en acantilado de Europa.\nTermina el día en las ruinas del Castell de Sant Joan, que ofrecen las mejores vistas panorámicas sobre el pueblo y el mar al atardecer."
           },
           "stops": [
             {
@@ -279,13 +298,15 @@
                 "de": "Gotischer Brunnen",
                 "hu": "Gótikus kút",
                 "ro": "Fântâna Gotică",
-                "en": "Gothic Fountain"
+                "en": "Gothic Fountain",
+                "es": "Fuente Gótica"
               },
               "tip_5lang": {
                 "de": "Einzigartiges Beispiel katalanischer Gotik.",
                 "hu": "A katalán gótika ritka, épségben maradt példája.",
                 "ro": "Un exemplu rar de arhitectură gotică civică.",
-                "en": "A rare 15th-century civic Gothic monument."
+                "en": "A rare 15th-century civic Gothic monument.",
+                "es": "Un raro monumento cívico gótico del siglo XV."
               }
             },
             {
@@ -293,13 +314,15 @@
                 "de": "Kirche Santa Maria",
                 "hu": "Szent Mária-templom",
                 "ro": "Biserica Sfânta Maria",
-                "en": "Church of Santa Maria"
+                "en": "Church of Santa Maria",
+                "es": "Iglesia de Santa Maria"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie das Innere nach dem Wiederaufbau.",
                 "hu": "Csodáld meg a felújított belső teret.",
                 "ro": "Admirați interiorul reconstruit după incendiu.",
-                "en": "Explore the interior rebuilt after the civil war."
+                "en": "Explore the interior rebuilt after the civil war.",
+                "es": "Explora el interior reconstruido tras la guerra civil."
               }
             },
             {
@@ -307,13 +330,15 @@
                 "de": "Sa Palomera Felsen",
                 "hu": "Sa Palomera szikla",
                 "ro": "Stânca Sa Palomera",
-                "en": "Sa Palomera Rock"
+                "en": "Sa Palomera Rock",
+                "es": "Sa Palomera"
               },
               "tip_5lang": {
                 "de": "Der offizielle Beginn der Costa Brava.",
                 "hu": "Itt kezdődik hivatalosan a Costa Brava.",
                 "ro": "Simbolul începutului coastei Costa Brava.",
-                "en": "The symbolic start of the Costa Brava coast."
+                "en": "The symbolic start of the Costa Brava coast.",
+                "es": "La simbólica entrada de la Costa Brava."
               }
             },
             {
@@ -321,13 +346,15 @@
                 "de": "Hafen von Blanes",
                 "hu": "Blanesi kikötő",
                 "ro": "Portul Blanes",
-                "en": "Port of Blanes"
+                "en": "Port of Blanes",
+                "es": "Puerto de Blanes"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die tägliche Fischauktion.",
                 "hu": "Nézd meg a délutáni halárverést.",
                 "ro": "Urmăriți licitația zilnică de pește.",
-                "en": "Watch the traditional daily fish auction."
+                "en": "Watch the traditional daily fish auction.",
+                "es": "Observa la tradicional subasta diaria de pescado."
               }
             },
             {
@@ -335,13 +362,15 @@
                 "de": "Botanischer Garten Marimurtra",
                 "hu": "Marimurtra Botanikus Kert",
                 "ro": "Grădina Botanică Marimurtra",
-                "en": "Marimurtra Botanical Garden"
+                "en": "Marimurtra Botanical Garden",
+                "es": "Jardín Botánico Marimurtra"
               },
               "tip_5lang": {
                 "de": "Bester Panoramablick auf die Küste.",
                 "hu": "A legszebb panoráma az egész tengerparton.",
                 "ro": "Cea mai frumoasă panoramă asupra coastei.",
-                "en": "Best panoramic views of the Mediterranean."
+                "en": "Best panoramic views of the Mediterranean.",
+                "es": "Mejores vistas panorámicas del Mediterráneo."
               }
             },
             {
@@ -349,13 +378,15 @@
                 "de": "Burg Sant Joan",
                 "hu": "Szent János vár",
                 "ro": "Castelul Sant Joan",
-                "en": "Sant Joan Castle"
+                "en": "Sant Joan Castle",
+                "es": "Castell de Sant Joan"
               },
               "tip_5lang": {
                 "de": "Perfekt für den Sonnenuntergang.",
                 "hu": "Tökéletes helyszín a naplemente nézéséhez.",
                 "ro": "Locul ideal pentru a vedea apusul de soare.",
-                "en": "Ideal spot for watching the sunset."
+                "en": "Ideal spot for watching the sunset.",
+                "es": "Lugar ideal para ver la puesta de sol."
               }
             }
           ],
@@ -461,6 +492,11 @@
               "Wear comfortable shoes for the climb to the gardens.",
               "The fish auction at the port starts around 4 PM.",
               "Visit during the international fireworks contest in July."
+            ],
+            "es": [
+              "Lleva calzado cómodo para la subida a los jardines.",
+              "La subasta de pescado en el puerto empieza sobre las 16:00.",
+              "Visita durante el concurso internacional de fuegos artificiales en julio."
             ]
           }
         },
@@ -469,7 +505,8 @@
             "de": "Beginnen Sie den Morgen am gotischen Brunnen und suchen Sie dann Schutz in der Kirche Santa Maria.\nMittags bieten die überdachten Restaurants im Hafen Schutz vor Wind und Wetter.\nAm Nachmittag können Sie die Gewächshäuser und Pavillons des botanischen Gartens Marimurtra erkunden.\nAbends führt der Weg zur Burg Sant Joan, wobei Sie auf den rutschigen Pfaden vorsichtig sein sollten.",
             "hu": "Kezdje a reggelt a gótikus kútnál, majd húzódjon be a Santa Maria templom falai közé az eső elől.\nDélben a kikötő fedett éttermei és halpiaca nyújtanak menedéket a tengerparti szél és a csapadék elől.\nDélután a Marimurtra kert üvegházai és lugasai között kalandozhat, ahol a dús növényzet felfogja a cseppeket.\nEste a várromok felé vegye az irányt, de vigyázzon a csúszós ösvényeken; a panoráma viharban is drámai.",
             "ro": "Începeți dimineața la fântâna gotică, apoi adăpostiți-vă în biserica Santa Maria de ploaie.\nLa prânz, restaurantele acoperite din port oferă protecție împotriva vântului și a vremii nefavorabile.\nDupă-amiaza puteți explora serele și pavilioanele grădinii botanice Marimurtra.\nSeara, drumul duce la castelul Sant Joan, dar fiți atenți pe potecile alunecoase.",
-            "en": "Start your morning at the Gothic fountain, then seek shelter in the church of Santa Maria from the rain.\nAt noon, the covered restaurants in the port offer protection from the coastal wind and weather.\nIn the afternoon, explore the greenhouses and pavilions of the Marimurtra botanical garden.\nIn the evening, head to the Sant Joan castle ruins, but be careful on the slippery paths."
+            "en": "Start your morning at the Gothic fountain, then seek shelter in the church of Santa Maria from the rain.\nAt noon, the covered restaurants in the port offer protection from the coastal wind and weather.\nIn the afternoon, explore the greenhouses and pavilions of the Marimurtra botanical garden.\nIn the evening, head to the Sant Joan castle ruins, but be careful on the slippery paths.",
+            "es": "Empieza la mañana en la fuente gótica y luego resguárdate de la lluvia en la iglesia de Santa María.\nAl mediodía, los restaurantes cubiertos del puerto ofrecen protección contra el viento y el mal tiempo costero.\nPor la tarde, explora los invernaderos y pabellones del jardín botánico Marimurtra.\nPor la noche, dirígete a las ruinas del castillo de Sant Joan, pero ten cuidado con los senderos resbaladizos."
           },
           "stops": [
             {
@@ -478,7 +515,8 @@
                 "de": "Ein kurzer Stopp unter dem Schirm reicht hier aus.",
                 "hu": "Egy rövid megálló az esernyő alatt is elég itt.",
                 "ro": "O scurtă oprire sub umbrelă este suficientă aici.",
-                "en": "A quick stop under your umbrella is enough here."
+                "en": "A quick stop under your umbrella is enough here.",
+                "es": "Una parada rápida bajo el paraguas basta aquí."
               }
             },
             {
@@ -487,7 +525,8 @@
                 "de": "Der ideale Ort, um einen Regenschauer im Trockenen abzuwarten.",
                 "hu": "Ideális hely egy zápor szárazon való megvárásához.",
                 "ro": "Locul ideal pentru a aștepta o ploaie la adăpost.",
-                "en": "The ideal place to wait out a rain shower in the dry."
+                "en": "The ideal place to wait out a rain shower in the dry.",
+                "es": "El lugar ideal para esperar a que pase un chaparrón a cubierto."
               }
             },
             {
@@ -496,7 +535,8 @@
                 "de": "Vorsicht, die Felsen sind bei Nässe extrem rutschig.",
                 "hu": "Vigyázat, a sziklák nedvesen rendkívül csúszósak.",
                 "ro": "Atenție, stâncile sunt extrem de alunecoase când sunt ude.",
-                "en": "Caution, the rocks are extremely slippery when wet."
+                "en": "Caution, the rocks are extremely slippery when wet.",
+                "es": "Precaución, las rocas son extremadamente resbaladizas cuando están mojadas."
               }
             },
             {
@@ -505,7 +545,8 @@
                 "de": "Die Fischmarkthalle bietet guten Schutz vor dem Wind.",
                 "hu": "A halpiac csarnoka jó védelmet nyújt a szél ellen.",
                 "ro": "Hala pieței de pește oferă o protecție bună împotriva vântului.",
-                "en": "The fish market hall offers good protection from the wind."
+                "en": "The fish market hall offers good protection from the wind.",
+                "es": "El mercado de pescado ofrece buena protección contra el viento."
               }
             },
             {
@@ -514,7 +555,8 @@
                 "de": "Nutzen Sie die Pavillons für Pausen während der Schauer.",
                 "hu": "Használja a pavilonokat pihenésre a záporok alatt.",
                 "ro": "Folosiți pavilioanele pentru pauze în timpul averselor.",
-                "en": "Use the pavilions for breaks during showers."
+                "en": "Use the pavilions for breaks during showers.",
+                "es": "Usa los pabellones para descansar durante los aguaceros."
               }
             },
             {
@@ -523,7 +565,8 @@
                 "de": "Der Aufstieg ist steil und bei Regen etwas mühsam.",
                 "hu": "A felmenet meredek és esőben kissé fárasztó.",
                 "ro": "Urcarea este abruptă și puțin obositoare pe ploaie.",
-                "en": "The climb is steep and a bit tiring in the rain."
+                "en": "The climb is steep and a bit tiring in the rain.",
+                "es": "La subida es empinada y algo cansada con lluvia."
               }
             }
           ],
@@ -551,6 +594,12 @@
               "A sturdy umbrella is advisable due to the wind by the sea.",
               "Use the cafes at the port for longer rain breaks.",
               "The view from the viewpoints is dramatic even with clouds."
+            ],
+            "es": [
+              "Lleva zapatos impermeables para el paseo hasta el castillo.",
+              "Se aconseja un paraguas resistente por el viento junto al mar.",
+              "Utiliza las cafeterías del puerto para descansos más largos con lluvia.",
+              "La vista desde los miradores es espectacular incluso con nubes."
             ]
           }
         },
@@ -559,7 +608,8 @@
             "de": "Genießen Sie die klare Winterluft am Brunnen und in der stillen Kirche Santa Maria.\nMittags wärmt die tiefstehende Sonne die Terrassen im Hafen von Blanes.\nDer Nachmittag im Marimurtra-Garten zeigt winterharte Pflanzen und herrliche Ausblicke.\nBeenden Sie den Tag bei Sonnenuntergang auf der Burg, bevor es kühl wird.",
             "hu": "A friss téli reggelen a gótikus kút és a templom hűvös csendje fogadja.\nDélben a kikötő napsütötte padjain élvezheti a kellemes téli napsugarakat.\nA délutáni sétát a Marimurtra kertben tegye meg, ahol az örökzöldek adják a díszletet.\nA napot a várnál zárja, ahonnan a korai naplemente arany fénybe vonja a partot.",
             "ro": "Bucurați-vă de aerul limpede de iarnă la fântână și în biserica liniștită Santa Maria.\nLa prânz, soarele care stă jos încălzește terasele din portul Blanes.\nDupă-amiaza în grădina Marimurtra dezvăluie plante rezistente și vederi magnifice.\nÎncheiați ziua la apusul soarelui la castel, înainte să se facă frig.",
-            "en": "Enjoy the clear winter air at the fountain and in the quiet church of Santa Maria.\nAt noon, the low-lying sun warms the terraces in the port of Blanes.\nThe afternoon in the Marimurtra garden shows hardy plants and magnificent views.\nEnd the day at sunset at the castle before it gets chilly."
+            "en": "Enjoy the clear winter air at the fountain and in the quiet church of Santa Maria.\nAt noon, the low-lying sun warms the terraces in the port of Blanes.\nThe afternoon in the Marimurtra garden shows hardy plants and magnificent views.\nEnd the day at sunset at the castle before it gets chilly.",
+            "es": "Disfruta del aire puro invernal en la fuente y en la tranquila iglesia de Santa María.\nAl mediodía, el sol bajo calienta las terrazas del puerto de Blanes.\nLa tarde en el jardín Marimurtra muestra plantas resistentes y vistas magníficas.\nTermina el día al atardecer en el castillo antes de que haga frío."
           },
           "stops": [
             {
@@ -568,7 +618,8 @@
                 "de": "Das Morgenlicht steht im Winter besonders schön auf dem Brunnen.",
                 "hu": "A reggeli fény télen különösen szépen esik a kútra.",
                 "ro": "Lumina dimineții cade deosebit de frumos pe fântână iarna.",
-                "en": "The morning light hits the fountain beautifully in winter."
+                "en": "The morning light hits the fountain beautifully in winter.",
+                "es": "La luz de la mañana ilumina la fuente de forma preciosa en invierno."
               }
             },
             {
@@ -577,7 +628,8 @@
                 "de": "Ein ruhiger Ort, um der kühlen Brise kurz zu entfliehen.",
                 "hu": "Csendes hely, ahol rövid időre elmenekülhet a hűvös szél elől.",
                 "ro": "Un loc liniștit pentru a scăpa scurt de briza răcoroasă.",
-                "en": "A quiet place to briefly escape the cool breeze."
+                "en": "A quiet place to briefly escape the cool breeze.",
+                "es": "Un lugar tranquilo para escapar brevemente de la brisa fresca."
               }
             },
             {
@@ -586,7 +638,8 @@
                 "de": "Der Wind kann hier im Winter recht bissig sein.",
                 "hu": "A szél itt télen meglehetősen metsző lehet.",
                 "ro": "Vântul poate fi destul de mușcător aici iarna.",
-                "en": "The wind can be quite biting here in winter."
+                "en": "The wind can be quite biting here in winter.",
+                "es": "El viento puede ser bastante cortante aquí en invierno."
               }
             },
             {
@@ -595,7 +648,8 @@
                 "de": "Ideal für einen heißen Kaffee in der Wintersonne.",
                 "hu": "Ideális egy forró kávéhoz a téli napsütésben.",
                 "ro": "Ideal pentru o cafea fierbinte în soarele de iarnă.",
-                "en": "Ideal for a hot coffee in the winter sun."
+                "en": "Ideal for a hot coffee in the winter sun.",
+                "es": "Ideal para un café caliente al sol invernal."
               }
             },
             {
@@ -604,7 +658,8 @@
                 "de": "Die Winterblüte einiger Exoten ist absolut sehenswert.",
                 "hu": "Néhány egzotikus növény téli virágzása látványos.",
                 "ro": "Înflorirea de iarnă a unor plante exotice merită văzută.",
-                "en": "The winter flowering of some exotic plants is worth seeing."
+                "en": "The winter flowering of some exotic plants is worth seeing.",
+                "es": "La floración invernal de algunas plantas exóticas merece la pena."
               }
             },
             {
@@ -613,7 +668,8 @@
                 "de": "Beste Zeit für Fotos ist kurz vor 17:00 Uhr.",
                 "hu": "A legjobb idő a fotózáshoz délután 5 óra előtt van.",
                 "ro": "Cel mai bun moment pentru fotografii este înainte de ora 17:00.",
-                "en": "Best time for photos is just before 5:00 PM."
+                "en": "Best time for photos is just before 5:00 PM.",
+                "es": "El mejor momento para fotos es justo antes de las 17:00."
               }
             }
           ],
@@ -641,6 +697,12 @@
               "The sun sets already around 5:15 PM.",
               "Shaded spots can be very cool, stay in the sun.",
               "The distant view is usually much clearer in winter than in summer."
+            ],
+            "es": [
+              "Vestir a capas es esencial en invierno.",
+              "El sol se pone ya sobre las 17:15.",
+              "Los lugares sombreados pueden estar muy fríos, busca el sol.",
+              "La vista a lo lejos suele ser mucho más clara en invierno que en verano."
             ]
           }
         }
@@ -659,7 +721,8 @@
             "de": "Sa Palomera",
             "hu": "Sa Palomera",
             "ro": "Sa Palomera",
-            "en": "Sa Palomera"
+            "en": "Sa Palomera",
+            "es": "Sa Palomera"
           },
           "coords": [
             2.7925,
@@ -674,7 +737,8 @@
             "de": "Fahrradständer am Fuße des Felsens vorhanden.",
             "hu": "Kerékpártárolók a szikla lábánál.",
             "ro": "Rastele pentru biciclete la baza stâncii.",
-            "en": "Bike racks available at the base of the rock."
+            "en": "Bike racks available at the base of the rock.",
+            "es": "Aparcabicis disponibles en la base de la roca."
           }
         },
         {
@@ -682,7 +746,8 @@
             "de": "Hafen von Blanes",
             "hu": "Blanesi kikötő",
             "ro": "Portul Blanes",
-            "en": "Port of Blanes"
+            "en": "Port of Blanes",
+            "es": "Puerto de Blanes"
           },
           "coords": [
             2.798,
@@ -697,7 +762,8 @@
             "de": "Ebener Weg entlang der Strandpromenade.",
             "hu": "Sík terep a tengerparti sétány mentén.",
             "ro": "Traseu plat de-a lungul promenadei.",
-            "en": "Flat route along the seaside promenade."
+            "en": "Flat route along the seaside promenade.",
+            "es": "Ruta llana a lo largo del paseo marítimo."
           }
         },
         {
@@ -705,7 +771,8 @@
             "de": "Botanischer Garten Marimurtra",
             "hu": "Marimurtra Botanikus Kert",
             "ro": "Grădina Botanică Marimurtra",
-            "en": "Marimurtra Botanical Garden"
+            "en": "Marimurtra Botanical Garden",
+            "es": "Jardín Botánico Marimurtra"
           },
           "coords": [
             2.8015,
@@ -720,7 +787,8 @@
             "de": "Steiler Aufstieg, schieben Sie eventuell.",
             "hu": "Meredek emelkedő, szükség esetén tolja a biciklit.",
             "ro": "Urcare abruptă, s-ar putea să fie nevoie să împingeți.",
-            "en": "Steep climb, consider walking the bike here."
+            "en": "Steep climb, consider walking the bike here.",
+            "es": "Subida empinada; considera caminar con la bici aquí."
           }
         },
         {
@@ -728,7 +796,8 @@
             "de": "Strand Sant Francesc",
             "hu": "Sant Francesc strand",
             "ro": "Plaja Sant Francesc",
-            "en": "Sant Francesc Beach"
+            "en": "Sant Francesc Beach",
+            "es": "Platja de Sant Francesc"
           },
           "coords": [
             2.8095,
@@ -743,7 +812,8 @@
             "de": "Ruhige Bucht, ideal für eine Pause.",
             "hu": "Csendes öböl, ideális egy pihenőhöz.",
             "ro": "Golf liniștit, ideal pentru o pauză.",
-            "en": "Quiet cove, ideal for a swimming break."
+            "en": "Quiet cove, ideal for a swimming break.",
+            "es": "Calita tranquila, ideal para un baño."
           }
         },
         {
@@ -751,7 +821,8 @@
             "de": "Kakteengarten Pinya de Rosa",
             "hu": "Pinya de Rosa kaktuszkert",
             "ro": "Grădina Pinya de Rosa",
-            "en": "Pinya de Rosa Garden"
+            "en": "Pinya de Rosa Garden",
+            "es": "Jardín Pinya de Rosa"
           },
           "coords": [
             2.815,
@@ -766,7 +837,8 @@
             "de": "Riesige Kakteensammlung am Stadtrand.",
             "hu": "Hatalmas kaktuszgyűjtemény a város szélén.",
             "ro": "Colecție uriașă de cactuși la marginea orașului.",
-            "en": "Huge collection of cacti at the edge of town."
+            "en": "Huge collection of cacti at the edge of town.",
+            "es": "Enorme colección de cactus en las afueras del pueblo."
           }
         }
       ],
@@ -774,7 +846,8 @@
         "de": "Genießen Sie eine Radtour entlang der Küste von Blanes. Starten Sie an der Sa Palomera und fahren Sie gemütlich zum Hafen.\nDie Route wird anspruchsvoller, wenn Sie zum Marimurtra Garten aufsteigen, aber der Ausblick belohnt jede Mühe.\nVerbringen Sie den Nachmittag in der idyllischen Bucht Sant Francesc, bevor Sie zum Kakteengarten Pinya de Rosa weiterradeln.\nDies ist eine sportliche Art, die versteckten Naturschönheiten nördlich des Zentrums zu entdecken.",
         "hu": "Élvezze a kerékpározást Blanes partvonala mentén. Kezdjen a Sa Palomera sziklánál, majd tekerjen kényelmesen a kikötőbe.\nAz útvonal nehezebbé válik a Marimurtra kerthez vezető emelkedőn, de a látvány kárpótolja minden fáradságért.\nTöltse a délutánt az idilli Sant Francesc öbölben, mielőtt továbbtekerne a Pinya de Rosa kaktuszkerthez.\nEz egy sportos módja a központtól északra fekvő rejtett természeti szépségek felfedezésének.",
         "ro": "Bucurați-vă de o plimbare cu bicicleta de-a lungul coastei Blanes. Începeți de la Sa Palomera și mergeți lejer spre port.\nTraseul devine mai dificil pe măsură ce urcați spre grădina Marimurtra, dar priveliștea merită orice efort.\nPetreceți după-amiaza în golful idilic Sant Francesc, înainte de a pedala spre grădina de cactuși Pinya de Rosa.\nAceasta este o modalitate sportivă de a descoperi frumusețile naturale ascunse la nord de centru.",
-        "en": "Enjoy a cycling tour along the Blanes coastline. Start at Sa Palomera and pedal leisurely towards the port.\nThe route gets more challenging as you climb towards Marimurtra Garden, but the views reward every effort.\nSpend the afternoon at the idyllic Sant Francesc bay before cycling further to the Pinya de Rosa cactus garden.\nThis is a sporty way to discover the hidden natural gems north of the town center."
+        "en": "Enjoy a cycling tour along the Blanes coastline. Start at Sa Palomera and pedal leisurely towards the port.\nThe route gets more challenging as you climb towards Marimurtra Garden, but the views reward every effort.\nSpend the afternoon at the idyllic Sant Francesc bay before cycling further to the Pinya de Rosa cactus garden.\nThis is a sporty way to discover the hidden natural gems north of the town center.",
+        "es": "Disfruta de una ruta en bicicleta por la costa de Blanes. Empieza en Sa Palomera y pedalea con calma hacia el puerto.\nLa ruta se vuelve más exigente al subir hacia el Jardín Marimurtra, pero las vistas recompensan el esfuerzo.\nPasa la tarde en la idílica cala de Sant Francesc antes de continuar hasta el jardín de cactus Pinya de Rosa.\nEs una forma deportiva de descubrir las joyas naturales escondidas al norte del centro."
       },
       "gastro_picks": {
         "de": [
@@ -878,6 +951,11 @@
           "Check your brakes before descending from Marimurtra.",
           "Avoid the midday heat during summer.",
           "Use the designated bike lane along the promenade."
+        ],
+        "es": [
+          "Revisa los frenos antes de descender desde Marimurtra.",
+          "Evita el calor de mediodía en verano.",
+          "Usa el carril bici señalado a lo largo del paseo."
         ]
       },
       "variants": {
@@ -886,7 +964,8 @@
             "de": "Genießen Sie eine Radtour entlang der Küste von Blanes. Starten Sie an der Sa Palomera und fahren Sie gemütlich zum Hafen.\nDie Route wird anspruchsvoller, wenn Sie zum Marimurtra Garten aufsteigen, aber der Ausblick belohnt jede Mühe.\nVerbringen Sie den Nachmittag in der idyllischen Bucht Sant Francesc, bevor Sie zum Kakteengarten Pinya de Rosa weiterradeln.\nDies ist eine sportliche Art, die versteckten Naturschönheiten nördlich des Zentrums zu entdecken.",
             "hu": "Élvezze a kerékpározást Blanes partvonala mentén. Kezdjen a Sa Palomera sziklánál, majd tekerjen kényelmesen a kikötőbe.\nAz útvonal nehezebbé válik a Marimurtra kerthez vezető emelkedőn, de a látvány kárpótolja minden fáradságért.\nTöltse a délutánt az idilli Sant Francesc öbölben, mielőtt továbbtekerne a Pinya de Rosa kaktuszkerthez.\nEz egy sportos módja a központtól északra fekvő rejtett természeti szépségek felfedezésének.",
             "ro": "Bucurați-vă de o plimbare cu bicicleta de-a lungul coastei Blanes. Începeți de la Sa Palomera și mergeți lejer spre port.\nTraseul devine mai dificil pe măsură ce urcați spre grădina Marimurtra, dar priveliștea merită orice efort.\nPetreceți după-amiaza în golful idilic Sant Francesc, înainte de a pedala spre grădina de cactuși Pinya de Rosa.\nAceasta este o modalitate sportivă de a descoperi frumusețile naturale ascunse la nord de centru.",
-            "en": "Enjoy a cycling tour along the Blanes coastline. Start at Sa Palomera and pedal leisurely towards the port.\nThe route gets more challenging as you climb towards Marimurtra Garden, but the views reward every effort.\nSpend the afternoon at the idyllic Sant Francesc bay before cycling further to the Pinya de Rosa cactus garden.\nThis is a sporty way to discover the hidden natural gems north of the town center."
+            "en": "Enjoy a cycling tour along the Blanes coastline. Start at Sa Palomera and pedal leisurely towards the port.\nThe route gets more challenging as you climb towards Marimurtra Garden, but the views reward every effort.\nSpend the afternoon at the idyllic Sant Francesc bay before cycling further to the Pinya de Rosa cactus garden.\nThis is a sporty way to discover the hidden natural gems north of the town center.",
+            "es": "Disfruta de una ruta en bicicleta por la costa de Blanes. Empieza en Sa Palomera y pedalea con calma hacia el puerto.\nLa ruta se vuelve más exigente al subir hacia el Jardín Marimurtra, pero las vistas recompensan el esfuerzo.\nPasa la tarde en la idílica cala de Sant Francesc antes de continuar hasta el jardín de cactus Pinya de Rosa.\nEs una forma deportiva de descubrir las joyas naturales escondidas al norte del centro."
           },
           "stops": [
             {
@@ -894,13 +973,15 @@
                 "de": "Sa Palomera",
                 "hu": "Sa Palomera",
                 "ro": "Sa Palomera",
-                "en": "Sa Palomera"
+                "en": "Sa Palomera",
+                "es": "Sa Palomera"
               },
               "tip_5lang": {
                 "de": "Fahrradständer am Fuße des Felsens vorhanden.",
                 "hu": "Kerékpártárolók a szikla lábánál.",
                 "ro": "Rastele pentru biciclete la baza stâncii.",
-                "en": "Bike racks available at the base of the rock."
+                "en": "Bike racks available at the base of the rock.",
+                "es": "Aparcabicis disponibles en la base de la roca."
               }
             },
             {
@@ -908,13 +989,15 @@
                 "de": "Hafen von Blanes",
                 "hu": "Blanesi kikötő",
                 "ro": "Portul Blanes",
-                "en": "Port of Blanes"
+                "en": "Port of Blanes",
+                "es": "Puerto de Blanes"
               },
               "tip_5lang": {
                 "de": "Ebener Weg entlang der Strandpromenade.",
                 "hu": "Sík terep a tengerparti sétány mentén.",
                 "ro": "Traseu plat de-a lungul promenadei.",
-                "en": "Flat route along the seaside promenade."
+                "en": "Flat route along the seaside promenade.",
+                "es": "Ruta llana a lo largo del paseo marítimo."
               }
             },
             {
@@ -922,13 +1005,15 @@
                 "de": "Botanischer Garten Marimurtra",
                 "hu": "Marimurtra Botanikus Kert",
                 "ro": "Grădina Botanică Marimurtra",
-                "en": "Marimurtra Botanical Garden"
+                "en": "Marimurtra Botanical Garden",
+                "es": "Jardín Botánico Marimurtra"
               },
               "tip_5lang": {
                 "de": "Steiler Aufstieg, schieben Sie eventuell.",
                 "hu": "Meredek emelkedő, szükség esetén tolja a biciklit.",
                 "ro": "Urcare abruptă, s-ar putea să fie nevoie să împingeți.",
-                "en": "Steep climb, consider walking the bike here."
+                "en": "Steep climb, consider walking the bike here.",
+                "es": "Subida empinada; considera caminar con la bici aquí."
               }
             },
             {
@@ -936,13 +1021,15 @@
                 "de": "Strand Sant Francesc",
                 "hu": "Sant Francesc strand",
                 "ro": "Plaja Sant Francesc",
-                "en": "Sant Francesc Beach"
+                "en": "Sant Francesc Beach",
+                "es": "Platja de Sant Francesc"
               },
               "tip_5lang": {
                 "de": "Ruhige Bucht, ideal für eine Pause.",
                 "hu": "Csendes öböl, ideális egy pihenőhöz.",
                 "ro": "Golf liniștit, ideal pentru o pauză.",
-                "en": "Quiet cove, ideal for a swimming break."
+                "en": "Quiet cove, ideal for a swimming break.",
+                "es": "Calita tranquila, ideal para un baño."
               }
             },
             {
@@ -950,13 +1037,15 @@
                 "de": "Kakteengarten Pinya de Rosa",
                 "hu": "Pinya de Rosa kaktuszkert",
                 "ro": "Grădina Pinya de Rosa",
-                "en": "Pinya de Rosa Garden"
+                "en": "Pinya de Rosa Garden",
+                "es": "Jardín Pinya de Rosa"
               },
               "tip_5lang": {
                 "de": "Riesige Kakteensammlung am Stadtrand.",
                 "hu": "Hatalmas kaktuszgyűjtemény a város szélén.",
                 "ro": "Colecție uriașă de cactuși la marginea orașului.",
-                "en": "Huge collection of cacti at the edge of town."
+                "en": "Huge collection of cacti at the edge of town.",
+                "es": "Enorme colección de cactus en las afueras del pueblo."
               }
             }
           ],
@@ -1062,6 +1151,11 @@
               "Check your brakes before descending from Marimurtra.",
               "Avoid the midday heat during summer.",
               "Use the designated bike lane along the promenade."
+            ],
+            "es": [
+              "Revisa los frenos antes de descender desde Marimurtra.",
+              "Evita el calor de mediodía en verano.",
+              "Usa el carril bici señalado a lo largo del paseo."
             ]
           }
         },
@@ -1070,7 +1164,8 @@
             "de": "Radeln Sie vorsichtig zur Sa Palomera und genießen Sie die tosende Gischt.\nMittags bietet der Hafen gute Unterstellmöglichkeiten für Rad und Fahrer.\nVerbringen Sie den verregneten Nachmittag in den geschützten Teilen der Gärten.\nDie Fahrt zum Strand Sant Francesc ist bei Regen eine echte Erfrischung.",
             "hu": "Óvatosan kerekezzen a Sa Palomera felé, és élvezze a tajtékzó hullámokat.\nDélben a kikötő jó fedezéket nyújt a bringának és a bringásnak is.\nTöltse az esős délutánt a kertek védettebb részein.\nA Sant Francesc strand felé vezető út esőben igazi felfrissülés.",
             "ro": "Mergeți cu atenție spre Sa Palomera și bucurați-vă de valurile înspumate.\nLa prânz, portul oferă locuri bune de adăpost pentru bicicletă și biciclist.\nPetreceți după-amiaza ploioasă în părțile protejate ale grădinilor.\nDrumul spre plaja Sant Francesc este o adevărată răcorire pe ploaie.",
-            "en": "Cycle carefully to Sa Palomera and enjoy the roaring spray.\nAt noon, the port offers good shelter for both bike and rider.\nSpend the rainy afternoon in the protected parts of the gardens.\nThe ride to Sant Francesc beach is a real refreshment in the rain."
+            "en": "Cycle carefully to Sa Palomera and enjoy the roaring spray.\nAt noon, the port offers good shelter for both bike and rider.\nSpend the rainy afternoon in the protected parts of the gardens.\nThe ride to Sant Francesc beach is a real refreshment in the rain.",
+            "es": "Pedalea con cuidado hasta Sa Palomera y disfruta del bramido de las olas.\nAl mediodía, el puerto ofrece buen refugio para bici y ciclista.\nPasa la tarde lluviosa en las zonas protegidas de los jardines.\nEl trayecto a la playa de Sant Francesc es un verdadero alivio bajo la lluvia."
           },
           "stops": [
             {
@@ -1079,7 +1174,8 @@
                 "de": "Vorsicht auf dem Radweg, der Belag kann rutschig sein.",
                 "hu": "Vigyázzon a kerékpárúton, a burkolat csúszós lehet.",
                 "ro": "Atenție pe pista de biciclete, suprafața poate fi alunecoasă.",
-                "en": "Be careful on the bike path, the surface can be slippery."
+                "en": "Be careful on the bike path, the surface can be slippery.",
+                "es": "Ten cuidado en el carril bici; la superficie puede estar resbaladiza."
               }
             },
             {
@@ -1088,7 +1184,8 @@
                 "de": "Parken Sie Ihr Rad unter dem Dach der Fischhalle.",
                 "hu": "Parkolja le a biciklit a halcsarnok teteje alatt.",
                 "ro": "Parcați bicicleta sub acoperișul halei de pește.",
-                "en": "Park your bike under the roof of the fish hall."
+                "en": "Park your bike under the roof of the fish hall.",
+                "es": "Aparca la bici bajo la cubierta de la lonja de pescado."
               }
             },
             {
@@ -1097,7 +1194,8 @@
                 "de": "Stellen Sie das Rad am Eingang sicher und trocken ab.",
                 "hu": "Hagyja a biciklit biztonságos és száraz helyen a bejáratnál.",
                 "ro": "Lăsați bicicleta într-un loc sigur și uscat la intrare.",
-                "en": "Leave your bike in a safe and dry place at the entrance."
+                "en": "Leave your bike in a safe and dry place at the entrance.",
+                "es": "Deja la bici en un lugar seguro y seco en la entrada."
               }
             },
             {
@@ -1106,7 +1204,8 @@
                 "de": "Der Sand ist nass, bleiben Sie auf der befestigten Promenade.",
                 "hu": "A homok nedves, maradjon a kiépített sétányon.",
                 "ro": "Nisipul este umed, rămâneți pe promenada pavată.",
-                "en": "The sand is wet, stay on the paved promenade."
+                "en": "The sand is wet, stay on the paved promenade.",
+                "es": "La arena está mojada; quédate en el paseo pavimentado."
               }
             },
             {
@@ -1115,7 +1214,8 @@
                 "de": "Die Gewächshäuser sind perfekt, um dem Regen zu entkommen.",
                 "hu": "Az üvegházak tökéletesek az eső elöli menekülésre.",
                 "ro": "Serele sunt perfecte pentru a scăpa de ploaie.",
-                "en": "The greenhouses are perfect for escaping the rain."
+                "en": "The greenhouses are perfect for escaping the rain.",
+                "es": "Los invernaderos son perfectos para escapar de la lluvia."
               }
             }
           ],
@@ -1143,6 +1243,12 @@
               "A rain poncho is more practical than an umbrella when cycling.",
               "Avoid puddles as they can hide deep potholes.",
               "Mudguards on the bike prevent wet clothes from splashing water."
+            ],
+            "es": [
+              "Revisa los frenos; la distancia de frenado es mayor en mojado.",
+              "Un impermeable tipo poncho es más práctico que un paraguas al pedalear.",
+              "Evita los charcos porque pueden ocultar baches profundos.",
+              "Los guardabarros evitan que la ropa se salpique de agua."
             ]
           }
         },
@@ -1151,7 +1257,8 @@
             "de": "Frische Brise bei der Sa Palomera sorgt für einen wachen Start.\nRadreisen im Winter bedeutet leere Wege entlang des Hafens genießen.\nDer Besuch im Marimurtra-Garten ist im Winter besonders friedlich.\nDie Fahrt zum Strand Sant Francesc ist ideal, um die Wintersonne zu tanken.",
             "hu": "A friss szellő a Sa Palomeránál garantáltan felébreszti reggel.\nA téli bringázás üres utakat jelent a kikötő mentén.\nA Marimurtra kert látogatása télen különösen békés.\nA Sant Francesc strand felé vezető út ideális a téli napfény élvezetéhez.",
             "ro": "Briza proaspătă de la Sa Palomera asigură un început vioi.\nCiclismul iarna înseamnă să te bucuri de drumuri libere de-a lungul portului.\nVizita la grădina Marimurtra este deosebit de liniștită iarna.\nDrumul spre plaja Sant Francesc este ideal pentru a absorbi soarele de iarnă.",
-            "en": "Fresh breeze at Sa Palomera ensures a wakeful start.\nCycling in winter means enjoying empty paths along the port.\nThe visit to the Marimurtra garden is particularly peaceful in winter.\nThe ride to Sant Francesc beach is ideal for soaking up the winter sun."
+            "en": "Fresh breeze at Sa Palomera ensures a wakeful start.\nCycling in winter means enjoying empty paths along the port.\nThe visit to the Marimurtra garden is particularly peaceful in winter.\nThe ride to Sant Francesc beach is ideal for soaking up the winter sun.",
+            "es": "La brisa fresca en Sa Palomera despeja y activa.\nCiclar en invierno significa disfrutar de senderos vacíos junto al puerto.\nLa visita al jardín Marimurtra es particularmente tranquila en invierno.\nEl trayecto a la playa de Sant Francesc es ideal para absorber el sol invernal."
           },
           "stops": [
             {
@@ -1160,7 +1267,8 @@
                 "de": "Tragen Sie windfeste Kleidung für den Halt am Felsen.",
                 "hu": "Viseljen szélálló ruházatot a sziklánál való megálláshoz.",
                 "ro": "Purtați haine rezistente la vânt pentru oprirea la stâncă.",
-                "en": "Wear windproof clothing for the stop at the rock."
+                "en": "Wear windproof clothing for the stop at the rock.",
+                "es": "Lleva ropa cortaviento para la parada en la roca."
               }
             },
             {
@@ -1169,7 +1277,8 @@
                 "de": "Die Wintersonne auf der Hafenmauer ist herrlich warm.",
                 "hu": "A téli napsütés a kikötőfalon csodálatosan meleg.",
                 "ro": "Soarele de iarnă pe digul portului este minunat de cald.",
-                "en": "The winter sun on the harbor wall is wonderfully warm."
+                "en": "The winter sun on the harbor wall is wonderfully warm.",
+                "es": "El sol invernal en el muro del puerto es maravillosamente cálido."
               }
             },
             {
@@ -1178,7 +1287,8 @@
                 "de": "Das Licht für Fotos ist um die Mittagszeit am besten.",
                 "hu": "A fotózáshoz délidőben a legjobbak a fények.",
                 "ro": "Lumina pentru fotografii este cea mai bună la prânz.",
-                "en": "The light for photos is best around noon."
+                "en": "The light for photos is best around noon.",
+                "es": "La luz para fotos es mejor alrededor del mediodía."
               }
             },
             {
@@ -1187,7 +1297,8 @@
                 "de": "Der perfekte Ort für ein Picknick in der Mittagssonne.",
                 "hu": "Tökéletes hely egy piknikhez a déli napsütésben.",
                 "ro": "Locul perfect pentru un picnic în soarele de la prânz.",
-                "en": "The perfect place for a picnic in the midday sun."
+                "en": "The perfect place for a picnic in the midday sun.",
+                "es": "El lugar perfecto para un picnic al sol del mediodía."
               }
             },
             {
@@ -1196,7 +1307,8 @@
                 "de": "Beachten Sie die kürzeren Öffnungszeiten im Winter.",
                 "hu": "Ügyeljen a téli rövidebb nyitvatartási időre.",
                 "ro": "Aveți în vedere programul mai scurt iarna.",
-                "en": "Note the shorter opening hours in winter."
+                "en": "Note the shorter opening hours in winter.",
+                "es": "Ten en cuenta el horario reducido en invierno."
               }
             }
           ],
@@ -1224,6 +1336,12 @@
               "The air is often very dry, don't forget to stay hydrated.",
               "Make full use of daylight as it gets dark early.",
               "Bike lights are good even during the day with the low sun."
+            ],
+            "es": [
+              "Los guantes cálidos son imprescindibles para pedalear en invierno.",
+              "El aire suele ser muy seco; no olvides hidratarte.",
+              "Aprovecha la luz del día, ya que anochece pronto.",
+              "Las luces de la bici son útiles incluso de día con el sol bajo."
             ]
           }
         }
@@ -1242,7 +1360,8 @@
             "de": "Burg Sant Joan",
             "hu": "Szent János vár",
             "ro": "Castelul Sant Joan",
-            "en": "Sant Joan Castle"
+            "en": "Sant Joan Castle",
+            "es": "Castell de Sant Joan"
           },
           "coords": [
             2.8045,
@@ -1257,7 +1376,8 @@
             "de": "Kostenloser Parkplatz direkt unterhalb des Turms.",
             "hu": "Ingyenes parkoló közvetlenül a torony alatt.",
             "ro": "Parcare gratuită chiar sub turn.",
-            "en": "Free parking available directly below the tower."
+            "en": "Free parking available directly below the tower.",
+            "es": "Aparcamiento gratuito disponible justo debajo de la torre."
           }
         },
         {
@@ -1265,7 +1385,8 @@
             "de": "Botanischer Garten Marimurtra",
             "hu": "Marimurtra Botanikus Kert",
             "ro": "Grădina Botanică Marimurtra",
-            "en": "Marimurtra Botanical Garden"
+            "en": "Marimurtra Botanical Garden",
+            "es": "Jardín Botánico Marimurtra"
           },
           "coords": [
             2.8015,
@@ -1280,7 +1401,8 @@
             "de": "Parken ist vor dem Haupteingang oft schwierig.",
             "hu": "A parkolás a főbejáratnál gyakran nehézkes.",
             "ro": "Parcarea la intrarea principală este adesea dificilă.",
-            "en": "Parking near the main entrance can be limited."
+            "en": "Parking near the main entrance can be limited.",
+            "es": "El aparcamiento cerca de la entrada principal puede ser limitado."
           }
         },
         {
@@ -1288,7 +1410,8 @@
             "de": "Pinya de Rosa",
             "hu": "Pinya de Rosa",
             "ro": "Pinya de Rosa",
-            "en": "Pinya de Rosa"
+            "en": "Pinya de Rosa",
+            "es": "Pinya de Rosa"
           },
           "coords": [
             2.815,
@@ -1303,7 +1426,8 @@
             "de": "Gut erreichbar mit dem Auto, viel Schatten.",
             "hu": "Autóval jól megközelíthető, sok az árnyék.",
             "ro": "Ușor accesibil cu mașina, multă umbră.",
-            "en": "Easily accessible by car with plenty of shade."
+            "en": "Easily accessible by car with plenty of shade.",
+            "es": "Fácil acceso en coche con bastante sombra."
           }
         },
         {
@@ -1311,7 +1435,8 @@
             "de": "Strand Sant Francesc",
             "hu": "Sant Francesc strand",
             "ro": "Plaja Sant Francesc",
-            "en": "Platja de Sant Francesc"
+            "en": "Platja de Sant Francesc",
+            "es": "Platja de Sant Francesc"
           },
           "coords": [
             2.8095,
@@ -1326,7 +1451,8 @@
             "de": "Großer kostenpflichtiger Parkplatz in Strandnähe.",
             "hu": "Nagy fizetős parkoló a strand közelében.",
             "ro": "Parcare mare cu plată lângă plajă.",
-            "en": "Large paid parking area near the beach."
+            "en": "Large paid parking area near the beach.",
+            "es": "Amplio aparcamiento de pago junto a la playa."
           }
         },
         {
@@ -1334,7 +1460,8 @@
             "de": "Tossa de Mar (Blickpunkt)",
             "hu": "Tossa de Mar (kilátópont)",
             "ro": "Tossa de Mar (punct de belvedere)",
-            "en": "Tossa de Mar (Viewpoint)"
+            "en": "Tossa de Mar (Viewpoint)",
+            "es": "Tossa de Mar (mirador)"
           },
           "coords": [
             2.933,
@@ -1349,7 +1476,8 @@
             "de": "Kurzer Stopp auf der Panoramastraße GI-682.",
             "hu": "Rövid megálló a GI-682-es panorámaúton.",
             "ro": "Scurtă oprire pe drumul panoramic GI-682.",
-            "en": "Quick stop on the scenic GI-682 coastal road."
+            "en": "Quick stop on the scenic GI-682 coastal road.",
+            "es": "Parada rápida en la pintoresca carretera costera GI-682."
           }
         }
       ],
@@ -1357,7 +1485,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die höher gelegenen Sehenswürdigkeiten. Beginnen Sie mit der Burg Sant Joan für den Morgenblick.\nBesuchen Sie anschließend den Marimurtra Garten und den ruhigeren Kakteengarten Pinya de Rosa weiter nördlich.\nDen Nachmittag verbringen Sie am entspannten Strand von Sant Francesc, bevor Sie die wunderschöne Küstenstraße Richtung Tossa de Mar befahren.\nDiese Route spart Ihnen die steilen Anstiege zu Fuß und bietet maximale Flexibilität.",
         "hu": "Autóval kényelmesen elérheti a magasabban fekvő látnivalókat. Kezdjen a Szent János várnál a reggeli panorámáért.\nEzután látogasson el a Marimurtra kertbe és a csendesebb Pinya de Rosa kaktuszkertbe északabbra.\nA délutánt töltse a pihentető Sant Francesc strandon, majd hajtson végig a gyönyörű part menti úton Tossa de Mar felé.\nEz az útvonal megkíméli a meredek gyalogos emelkedőktől és maximális rugalmasságot biztosít.",
         "ro": "Cu mașina puteți ajunge confortabil la atracțiile situate la înălțime. Începeți cu castelul Sant Joan pentru vederea de dimineață.\nVizitați apoi grădina Marimurtra și grădina de cactuși Pinya de Rosa, mai la nord.\nPetreceți după-amiaza pe plaja relaxantă Sant Francesc, apoi conduceți pe drumul de coastă superb spre Tossa de Mar.\nAcest traseu vă scutește de urcările abrupte pe jos și oferă flexibilitate maximă.",
-        "en": "By car, you can easily reach the attractions located on higher ground. Start with Sant Joan Castle for the best morning light.\nFollow up with Marimurtra Garden and the quieter Pinya de Rosa cactus garden further north.\nSpend the afternoon at the relaxing Sant Francesc beach, then drive along the stunning coastal road towards Tossa de Mar.\nThis route saves you from steep climbs on foot and offers maximum flexibility."
+        "en": "By car, you can easily reach the attractions located on higher ground. Start with Sant Joan Castle for the best morning light.\nFollow up with Marimurtra Garden and the quieter Pinya de Rosa cactus garden further north.\nSpend the afternoon at the relaxing Sant Francesc beach, then drive along the stunning coastal road towards Tossa de Mar.\nThis route saves you from steep climbs on foot and offers maximum flexibility.",
+        "es": "En coche se llega fácilmente a los atractivos situados en altura. Empieza por el castillo de Sant Joan para la mejor luz de la mañana.\nContinúa con el jardín Marimurtra y el más tranquilo jardín de cactus Pinya de Rosa, más al norte.\nPasa la tarde en la relajante playa de Sant Francesc y luego conduce por la impresionante carretera costera hacia Tossa de Mar.\nEsta ruta te evita subidas empinadas a pie y ofrece máxima flexibilidad."
       },
       "gastro_picks": {
         "de": [
@@ -1461,6 +1590,11 @@
           "The coastal road to Tossa is very winding.",
           "Parking in the center is almost impossible in summer.",
           "Use parking garages instead of searching on the street."
+        ],
+        "es": [
+          "La carretera costera hacia Tossa es muy sinuosa.",
+          "Aparcar en el centro es casi imposible en verano.",
+          "Usa aparcamientos cubiertos en lugar de buscar en la calle."
         ]
       },
       "variants": {
@@ -1469,7 +1603,8 @@
             "de": "Mit dem Auto erreichen Sie bequem die höher gelegenen Sehenswürdigkeiten. Beginnen Sie mit der Burg Sant Joan für den Morgenblick.\nBesuchen Sie anschließend den Marimurtra Garten und den ruhigeren Kakteengarten Pinya de Rosa weiter nördlich.\nDen Nachmittag verbringen Sie am entspannten Strand von Sant Francesc, bevor Sie die wunderschöne Küstenstraße Richtung Tossa de Mar befahren.\nDiese Route spart Ihnen die steilen Anstiege zu Fuß und bietet maximale Flexibilität.",
             "hu": "Autóval kényelmesen elérheti a magasabban fekvő látnivalókat. Kezdjen a Szent János várnál a reggeli panorámáért.\nEzután látogasson el a Marimurtra kertbe és a csendesebb Pinya de Rosa kaktuszkertbe északabbra.\nA délutánt töltse a pihentető Sant Francesc strandon, majd hajtson végig a gyönyörű part menti úton Tossa de Mar felé.\nEz az útvonal megkíméli a meredek gyalogos emelkedőktől és maximális rugalmasságot biztosít.",
             "ro": "Cu mașina puteți ajunge confortabil la atracțiile situate la înălțime. Începeți cu castelul Sant Joan pentru vederea de dimineață.\nVizitați apoi grădina Marimurtra și grădina de cactuși Pinya de Rosa, mai la nord.\nPetreceți după-amiaza pe plaja relaxantă Sant Francesc, apoi conduceți pe drumul de coastă superb spre Tossa de Mar.\nAcest traseu vă scutește de urcările abrupte pe jos și oferă flexibilitate maximă.",
-            "en": "By car, you can easily reach the attractions located on higher ground. Start with Sant Joan Castle for the best morning light.\nFollow up with Marimurtra Garden and the quieter Pinya de Rosa cactus garden further north.\nSpend the afternoon at the relaxing Sant Francesc beach, then drive along the stunning coastal road towards Tossa de Mar.\nThis route saves you from steep climbs on foot and offers maximum flexibility."
+            "en": "By car, you can easily reach the attractions located on higher ground. Start with Sant Joan Castle for the best morning light.\nFollow up with Marimurtra Garden and the quieter Pinya de Rosa cactus garden further north.\nSpend the afternoon at the relaxing Sant Francesc beach, then drive along the stunning coastal road towards Tossa de Mar.\nThis route saves you from steep climbs on foot and offers maximum flexibility.",
+            "es": "En coche se llega fácilmente a los atractivos situados en altura. Empieza por el castillo de Sant Joan para la mejor luz de la mañana.\nContinúa con el jardín Marimurtra y el más tranquilo jardín de cactus Pinya de Rosa, más al norte.\nPasa la tarde en la relajante playa de Sant Francesc y luego conduce por la impresionante carretera costera hacia Tossa de Mar.\nEsta ruta te evita subidas empinadas a pie y ofrece máxima flexibilidad."
           },
           "stops": [
             {
@@ -1477,13 +1612,15 @@
                 "de": "Burg Sant Joan",
                 "hu": "Szent János vár",
                 "ro": "Castelul Sant Joan",
-                "en": "Sant Joan Castle"
+                "en": "Sant Joan Castle",
+                "es": "Castillo de Sant Joan"
               },
               "tip_5lang": {
                 "de": "Kostenloser Parkplatz direkt unterhalb des Turms.",
                 "hu": "Ingyenes parkoló közvetlenül a torony alatt.",
                 "ro": "Parcare gratuită chiar sub turn.",
-                "en": "Free parking available directly below the tower."
+                "en": "Free parking available directly below the tower.",
+                "es": "Aparcamiento gratuito disponible justo debajo de la torre."
               }
             },
             {
@@ -1491,13 +1628,15 @@
                 "de": "Botanischer Garten Marimurtra",
                 "hu": "Marimurtra Botanikus Kert",
                 "ro": "Grădina Botanică Marimurtra",
-                "en": "Marimurtra Botanical Garden"
+                "en": "Marimurtra Botanical Garden",
+                "es": "Jardín Botánico Marimurtra"
               },
               "tip_5lang": {
                 "de": "Parken ist vor dem Haupteingang oft schwierig.",
                 "hu": "A parkolás a főbejáratnál gyakran nehézkes.",
                 "ro": "Parcarea la intrarea principală este adesea dificilă.",
-                "en": "Parking near the main entrance can be limited."
+                "en": "Parking near the main entrance can be limited.",
+                "es": "El aparcamiento cerca de la entrada principal puede ser limitado."
               }
             },
             {
@@ -1505,13 +1644,15 @@
                 "de": "Pinya de Rosa",
                 "hu": "Pinya de Rosa",
                 "ro": "Pinya de Rosa",
-                "en": "Pinya de Rosa"
+                "en": "Pinya de Rosa",
+                "es": "Pinya de Rosa"
               },
               "tip_5lang": {
                 "de": "Gut erreichbar mit dem Auto, viel Schatten.",
                 "hu": "Autóval jól megközelíthető, sok az árnyék.",
                 "ro": "Ușor accesibil cu mașina, multă umbră.",
-                "en": "Easily accessible by car with plenty of shade."
+                "en": "Easily accessible by car with plenty of shade.",
+                "es": "Fácilmente accesible en coche, con mucha sombra."
               }
             },
             {
@@ -1519,13 +1660,15 @@
                 "de": "Strand Sant Francesc",
                 "hu": "Sant Francesc strand",
                 "ro": "Plaja Sant Francesc",
-                "en": "Platja de Sant Francesc"
+                "en": "Platja de Sant Francesc",
+                "es": "Platja de Sant Francesc"
               },
               "tip_5lang": {
                 "de": "Großer kostenpflichtiger Parkplatz in Strandnähe.",
                 "hu": "Nagy fizetős parkoló a strand közelében.",
                 "ro": "Parcare mare cu plată lângă plajă.",
-                "en": "Large paid parking area near the beach."
+                "en": "Large paid parking area near the beach.",
+                "es": "Amplio aparcamiento de pago junto a la playa."
               }
             },
             {
@@ -1533,13 +1676,15 @@
                 "de": "Tossa de Mar (Blickpunkt)",
                 "hu": "Tossa de Mar (kilátópont)",
                 "ro": "Tossa de Mar (punct de belvedere)",
-                "en": "Tossa de Mar (Viewpoint)"
+                "en": "Tossa de Mar (Viewpoint)",
+                "es": "Tossa de Mar (mirador)"
               },
               "tip_5lang": {
                 "de": "Kurzer Stopp auf der Panoramastraße GI-682.",
                 "hu": "Rövid megálló a GI-682-es panorámaúton.",
                 "ro": "Scurtă oprire pe drumul panoramic GI-682.",
-                "en": "Quick stop on the scenic GI-682 coastal road."
+                "en": "Quick stop on the scenic GI-682 coastal road.",
+                "es": "Parada rápida en la pintoresca carretera costera GI-682."
               }
             }
           ],
@@ -1645,6 +1790,11 @@
               "The coastal road to Tossa is very winding.",
               "Parking in the center is almost impossible in summer.",
               "Use parking garages instead of searching on the street."
+            ],
+            "es": [
+              "La carretera costera hacia Tossa es muy sinuosa.",
+              "Aparcar en el centro es casi imposible en verano.",
+              "Usa aparcamientos cubiertos en lugar de buscar en la calle."
             ]
           }
         },
@@ -1653,7 +1803,8 @@
             "de": "Fahren Sie sicher zur Burg Sant Joan und genießen Sie die Aussicht vom Auto aus.\nMittags bietet der Parkplatz am Marimurtra-Garten einen kurzen Weg zum Eingang.\nErkunden Sie die Pinya de Rosa und ihre überdachten Bereiche bei Regen.\nDer Abstecher nach Tossa de Mar ist auch bei grauem Himmel lohnenswert.",
             "hu": "Vezessen óvatosan a Szent János várhoz, a kilátás az autóból is szép.\nDélben a Marimurtra kert parkolója rövid utat biztosít a bejárathoz.\nFedezze fel a Pinya de Rosa kertet és annak fedett részeit az esőben.\nA Tossa de Mar-i kitérő szürke égbolt mellett is megéri.",
             "ro": "Conduceți în siguranță la castelul Sant Joan, vederea e frumoasă și din mașină.\nLa prânz, parcarea de la grădina Marimurtra oferă un drum scurt spre intrare.\nExplorați Pinya de Rosa și zonele sale acoperite pe ploaie.\nExcursia la Tossa de Mar merită chiar și cu cerul gri.",
-            "en": "Drive safely to Sant Joan castle and enjoy the view from the car.\nAt noon, the parking at Marimurtra garden provides a short walk to the entrance.\nExplore Pinya de Rosa and its covered areas in the rain.\nThe detour to Tossa de Mar is worth it even with grey skies."
+            "en": "Drive safely to Sant Joan castle and enjoy the view from the car.\nAt noon, the parking at Marimurtra garden provides a short walk to the entrance.\nExplore Pinya de Rosa and its covered areas in the rain.\nThe detour to Tossa de Mar is worth it even with grey skies.",
+            "es": "Conduce con cuidado hasta el castillo de Sant Joan y disfruta de las vistas desde el coche.\nAl mediodía, el aparcamiento del jardín Marimurtra deja a poca distancia de la entrada.\nExplora Pinya de Rosa y sus zonas cubiertas cuando llueva.\nEl desvío a Tossa de Mar merece la pena incluso con cielos grises."
           },
           "stops": [
             {
@@ -1662,7 +1813,8 @@
                 "de": "Parken Sie nah am Turm, um nicht nass zu werden.",
                 "hu": "Parkoljon a torony közelében, hogy ne ázzon el.",
                 "ro": "Parcați aproape de turn pentru a nu vă uda.",
-                "en": "Park close to the tower to avoid getting wet."
+                "en": "Park close to the tower to avoid getting wet.",
+                "es": "Aparca cerca de la torre para evitar mojarte."
               }
             },
             {
@@ -1671,7 +1823,8 @@
                 "de": "Der Weg vom Parkplatz zum Kassenhaus ist kurz.",
                 "hu": "A parkolótól a pénztárig vezető út rövid.",
                 "ro": "Drumul de la parcare la casierie este scurt.",
-                "en": "The walk from the parking to the ticket office is short."
+                "en": "The walk from the parking to the ticket office is short.",
+                "es": "La caminata desde el aparcamiento hasta la taquilla es corta."
               }
             },
             {
@@ -1680,7 +1833,8 @@
                 "de": "Nutzen Sie den überdachten Kakteen-Pavillon.",
                 "hu": "Használja a fedett kaktusz-pavilont.",
                 "ro": "Folosiți pavilionul acoperit cu cactuși.",
-                "en": "Utilize the covered cactus pavilion."
+                "en": "Utilize the covered cactus pavilion.",
+                "es": "Utiliza el pabellón cubierto de cactus."
               }
             },
             {
@@ -1689,7 +1843,8 @@
                 "de": "Beobachten Sie die Brandung sicher aus dem Fahrzeug.",
                 "hu": "Figyelje a hullámverést biztonságban a járműből.",
                 "ro": "Observați valurile în siguranță din vehicul.",
-                "en": "Watch the surf safely from inside the vehicle."
+                "en": "Watch the surf safely from inside the vehicle.",
+                "es": "Observa el oleaje de forma segura desde el interior del vehículo."
               }
             },
             {
@@ -1698,7 +1853,8 @@
                 "de": "Vorsicht bei der Fahrt auf der kurvigen Küstenstraße.",
                 "hu": "Vigyázzon a kanyargós part menti úton való vezetésnél.",
                 "ro": "Atenție la condusul pe drumul de coastă sinuos.",
-                "en": "Be careful driving on the winding coastal road."
+                "en": "Be careful driving on the winding coastal road.",
+                "es": "Ten cuidado al conducir por la sinuosa carretera costera."
               }
             }
           ],
@@ -1726,6 +1882,12 @@
               "Avoid heavy braking on the steep access roads.",
               "Check the condition of your wipers before departing.",
               "The GI-682 coastal road can be treacherous when wet."
+            ],
+            "es": [
+              "Enciende las luces de cruce con lluvia para mejorar la visibilidad.",
+              "Evita frenadas fuertes en los accesos empinados.",
+              "Revisa el estado de tus escobillas antes de salir.",
+              "La carretera costera GI-682 puede ser traicionera con humedad."
             ]
           }
         },
@@ -1734,7 +1896,8 @@
             "de": "Klare Sicht von der Burg Sant Joan am Morgen ist im Winter garantiert.\nMittags ist die Parkplatzsuche am Marimurtra-Garten deutlich entspannter.\nBesuchen Sie die Pinya de Rosa und genießen Sie die Ruhe der Nebensaison.\nDie Küstenstraße nach Tossa bietet im Winter spektakuläre Lichtverhältnisse.",
             "hu": "Télen reggel garantált a tiszta kilátás a Szent János várból.\nDélben a parkolóhely-keresés a Marimurtra kertnél sokkal nyugodtabb.\nLátogasson el a Pinya de Rosához és élvezze az előszezon nyugalmát.\nA Tossába vezető parti út télen látványos fényviszonyokat kínál.",
             "ro": "Vederea clară de la castelul Sant Joan dimineața este garantată iarna.\nLa prânz, căutarea unui loc de parcare la grădina Marimurtra este relaxată.\nVizitați Pinya de Rosa și bucurați-vă de liniștea din afara sezonului.\nDrumul de coastă spre Tossa oferă condiții de lumină spectaculoase iarna.",
-            "en": "Clear views from Sant Joan castle in the morning are guaranteed in winter.\nAt noon, finding parking at the Marimurtra garden is much more relaxed.\nVisit Pinya de Rosa and enjoy the tranquility of the off-season.\nThe coastal road to Tossa offers spectacular light conditions in winter."
+            "en": "Clear views from Sant Joan castle in the morning are guaranteed in winter.\nAt noon, finding parking at the Marimurtra garden is much more relaxed.\nVisit Pinya de Rosa and enjoy the tranquility of the off-season.\nThe coastal road to Tossa offers spectacular light conditions in winter.",
+            "es": "Las vistas despejadas desde el castillo de Sant Joan por la mañana están garantizadas en invierno.\nAl mediodía, encontrar aparcamiento en el jardín Marimurtra es mucho más relajado.\nVisita Pinya de Rosa y disfruta de la tranquilidad de la temporada baja.\nLa carretera hacia Tossa ofrece condiciones de luz espectaculares en invierno."
           },
           "stops": [
             {
@@ -1743,7 +1906,8 @@
                 "de": "Perfekt für das erste Foto des Tages in der Wintersonne.",
                 "hu": "Tökéletes a nap első fotójához a téli napsütésben.",
                 "ro": "Perfect pentru prima fotografie a zilei în soarele de iarnă.",
-                "en": "Perfect for the first photo of the day in the winter sun."
+                "en": "Perfect for the first photo of the day in the winter sun.",
+                "es": "Perfecto para la primera foto del día con el sol de invierno."
               }
             },
             {
@@ -1752,7 +1916,8 @@
                 "de": "Nutzen Sie die weniger besuchten Wege für tolle Ausblicke.",
                 "hu": "Használja a kevésbé látogatott utakat a remek kilátásért.",
                 "ro": "Folosiți potecile mai puțin frecventate pentru vederi grozave.",
-                "en": "Use the less visited paths for great views."
+                "en": "Use the less visited paths for great views.",
+                "es": "Usa los senderos menos concurridos para obtener buenas vistas."
               }
             },
             {
@@ -1761,7 +1926,8 @@
                 "de": "Ein schöner Ort, um die milde Wintersonne zu genießen.",
                 "hu": "Szép hely a közepesen meleg téli napsütés élvezetéhez.",
                 "ro": "Un loc frumos pentru a te bucura de soarele blând de iarnă.",
-                "en": "A nice place to enjoy the mild winter sun."
+                "en": "A nice place to enjoy the mild winter sun.",
+                "es": "Un buen lugar para disfrutar del suave sol invernal."
               }
             },
             {
@@ -1770,7 +1936,8 @@
                 "de": "Der Parkplatz direkt am Strand ist im Winter meist frei.",
                 "hu": "A közvetlen strand melletti parkoló télen többnyire szabad.",
                 "ro": "Parcarea direct de lângă plajă este de obicei liberă iarna.",
-                "en": "The parking right next to the beach is mostly free in winter."
+                "en": "The parking right next to the beach is mostly free in winter.",
+                "es": "El aparcamiento junto a la playa suele ser mayormente gratuito en invierno."
               }
             },
             {
@@ -1779,7 +1946,8 @@
                 "de": "Das Licht kurz vor Sonnenuntergang ist hier magisch.",
                 "hu": "A naplemente előtti fény itt egyszerűen varázslatos.",
                 "ro": "Lumina chiar înainte de apus este magică aici.",
-                "en": "The light just before sunset is magical here."
+                "en": "The light just before sunset is magical here.",
+                "es": "La luz justo antes del atardecer es mágica aquí."
               }
             }
           ],
@@ -1807,6 +1975,12 @@
               "Roads can be slippery in the shade early in the morning.",
               "Enjoy the traffic-free roads along the Costa Brava.",
               "Watch out for the low winter sun while driving."
+            ],
+            "es": [
+              "Comprueba el anticongelante del líquido del limpiaparabrisas.",
+              "Las carreteras pueden estar resbaladizas en las zonas de sombra a primera hora.",
+              "Disfruta de las carreteras sin tráfico a lo largo de la Costa Brava.",
+              "Cuidado con el sol bajo de invierno al conducir."
             ]
           }
         }
@@ -1825,7 +1999,8 @@
             "de": "Gotischer Brunnen",
             "hu": "Gótikus kút",
             "ro": "Fântâna Gotică",
-            "en": "Gothic Fountain"
+            "en": "Gothic Fountain",
+            "es": "Fuente Gótica"
           },
           "coords": [
             2.7915,
@@ -1840,7 +2015,8 @@
             "de": "Kurzer Fußweg vom Bahnhof oder Busbahnhof.",
             "hu": "Rövid séta a vasút- vagy buszállomástól.",
             "ro": "Scurtă plimbare de la gară sau autogară.",
-            "en": "Short walk from the train or bus station."
+            "en": "Short walk from the train or bus station.",
+            "es": "A poca distancia a pie de la estación de tren o autobús."
           }
         },
         {
@@ -1848,7 +2024,8 @@
             "de": "Sa Palomera",
             "hu": "Sa Palomera",
             "ro": "Sa Palomera",
-            "en": "Sa Palomera"
+            "en": "Sa Palomera",
+            "es": "Sa Palomera"
           },
           "coords": [
             2.7925,
@@ -1863,7 +2040,8 @@
             "de": "Zentraler Punkt, viele lokale Busse halten hier.",
             "hu": "Központi pont, számos helyi busz megáll itt.",
             "ro": "Punct central, multe autobuze locale opresc aici.",
-            "en": "Central point, many local buses stop nearby."
+            "en": "Central point, many local buses stop nearby.",
+            "es": "Punto central, muchas líneas de autobús paran cerca."
           }
         },
         {
@@ -1871,7 +2049,8 @@
             "de": "Botanischer Garten Marimurtra",
             "hu": "Marimurtra Botanikus Kert",
             "ro": "Grădina Botanică Marimurtra",
-            "en": "Marimurtra Botanical Garden"
+            "en": "Marimurtra Botanical Garden",
+            "es": "Jardín Botánico Marimurtra"
           },
           "coords": [
             2.8015,
@@ -1886,7 +2065,8 @@
             "de": "Nutzen Sie den speziellen Touristen-Minibus.",
             "hu": "Használd a speciális turista-minibuszt.",
             "ro": "Folosiți microbuzul turistic special.",
-            "en": "Use the special tourist minibus (Open Garden)."
+            "en": "Use the special tourist minibus (Open Garden).",
+            "es": "Usa el minibus turístico especial (Open Garden)."
           }
         },
         {
@@ -1894,7 +2074,8 @@
             "de": "Hafen von Blanes",
             "hu": "Blanesi kikötő",
             "ro": "Portul Blanes",
-            "en": "Port of Blanes"
+            "en": "Port of Blanes",
+            "es": "Puerto de Blanes"
           },
           "coords": [
             2.798,
@@ -1909,7 +2090,8 @@
             "de": "Bus L4 verbindet den Hafen mit dem Zentrum.",
             "hu": "Az L4-es busz köti össze a kikötőt a központtal.",
             "ro": "Autobuzul L4 leagă portul de centru.",
-            "en": "L4 bus connects the harbor with the center."
+            "en": "L4 bus connects the harbor with the center.",
+            "es": "La línea L4 conecta el puerto con el centro."
           }
         },
         {
@@ -1917,7 +2099,8 @@
             "de": "Kirche Santa Maria",
             "hu": "Szent Mária-templom",
             "ro": "Biserica Sfânta Maria",
-            "en": "Church of Santa Maria"
+            "en": "Church of Santa Maria",
+            "es": "Iglesia de Santa María"
           },
           "coords": [
             2.7922,
@@ -1932,7 +2115,8 @@
             "de": "Wieder im Zentrum, nah an den Buslinien.",
             "hu": "Vissza a központba, közel a buszvonalakhoz.",
             "ro": "Înapoi în centru, aproape de liniile de autobuz.",
-            "en": "Back in the center, close to bus lines."
+            "en": "Back in the center, close to bus lines.",
+            "es": "De vuelta en el centro, cerca de las líneas de autobús."
           }
         }
       ],
@@ -1940,7 +2124,8 @@
         "de": "Blanes lässt sich gut mit dem Bus erkunden. Starten Sie im Zentrum und nutzen Sie den 'Open Garden' Minibus zum Marimurtra Garten.\nDies erspart Ihnen den Fußmarsch den Hügel hinauf. Besuchen Sie danach den Hafen und die Sa Palomera.\nDer öffentliche Nahverkehr ist zuverlässig und verbindet die wichtigsten Punkte effizient.\nIdeal für Reisende, die mit dem Zug aus Barcelona ankommen.",
         "hu": "Blanes jól felfedezhető busszal is. Kezdjen a központban, és használja az 'Open Garden' minibuszt a Marimurtra kerthez.\nEz megkíméli a dombra való felgyaloglástól. Utána látogasson el a kikötőbe és a Sa Palomera sziklához.\nA tömegközlekedés megbízható és hatékonyan köti össze a főbb pontokat.\nIdeális a Barcelonából vonattal érkezők számára.",
         "ro": "Blanes poate fi explorat ușor cu autobuzul. Începeți în centru și folosiți microbuzul 'Open Garden' spre grădina Marimurtra.\nAcest lucru vă scutește de mersul pe jos în pantă. Vizitați apoi portul și Sa Palomera.\nTransportul public este de încredere și conectează eficient punctele principale.\nIdeal pentru călătorii care sosesc cu trenul din Barcelona.",
-        "en": "Blanes is easy to explore by bus. Start in the center and use the 'Open Garden' minibus to reach Marimurtra Garden.\nThis saves you the walk up the hill. Afterwards, visit the harbor and Sa Palomera.\nPublic transit is reliable and connects the main points efficiently.\nIdeal for travelers arriving by train from Barcelona."
+        "en": "Blanes is easy to explore by bus. Start in the center and use the 'Open Garden' minibus to reach Marimurtra Garden.\nThis saves you the walk up the hill. Afterwards, visit the harbor and Sa Palomera.\nPublic transit is reliable and connects the main points efficiently.\nIdeal for travelers arriving by train from Barcelona.",
+        "es": "Blanes es fácil de explorar en autobús. Empieza en el centro y usa el minibus 'Open Garden' para llegar al jardín Marimurtra.\nAsí evitas la subida. Después, visita el puerto y Sa Palomera.\nEl transporte público es fiable y conecta los puntos principales con eficiencia.\nIdeal para viajeros que llegan en tren desde Barcelona."
       },
       "gastro_picks": {
         "de": [
@@ -2044,6 +2229,11 @@
           "Buy a T-10 ticket for multiple journeys.",
           "The train station is a bit far out, use the shuttle bus.",
           "Check schedules carefully on Sundays and holidays."
+        ],
+        "es": [
+          "Compra un billete T-10 para varios viajes.",
+          "La estación de tren está algo apartada, utiliza el autobús lanzadera.",
+          "Consulta los horarios con cuidado los domingos y festivos."
         ]
       },
       "variants": {
@@ -2052,7 +2242,8 @@
             "de": "Blanes lässt sich gut mit dem Bus erkunden. Starten Sie im Zentrum und nutzen Sie den 'Open Garden' Minibus zum Marimurtra Garten.\nDies erspart Ihnen den Fußmarsch den Hügel hinauf. Besuchen Sie danach den Hafen und die Sa Palomera.\nDer öffentliche Nahverkehr ist zuverlässig und verbindet die wichtigsten Punkte effizient.\nIdeal für Reisende, die mit dem Zug aus Barcelona ankommen.",
             "hu": "Blanes jól felfedezhető busszal is. Kezdjen a központban, és használja az 'Open Garden' minibuszt a Marimurtra kerthez.\nEz megkíméli a dombra való felgyaloglástól. Utána látogasson el a kikötőbe és a Sa Palomera sziklához.\nA tömegközlekedés megbízható és hatékonyan köti össze a főbb pontokat.\nIdeális a Barcelonából vonattal érkezők számára.",
             "ro": "Blanes poate fi explorat ușor cu autobuzul. Începeți în centru și folosiți microbuzul 'Open Garden' spre grădina Marimurtra.\nAcest lucru vă scutește de mersul pe jos în pantă. Vizitați apoi portul și Sa Palomera.\nTransportul public este de încredere și conectează eficient punctele principale.\nIdeal pentru călătorii care sosesc cu trenul din Barcelona.",
-            "en": "Blanes is easy to explore by bus. Start in the center and use the 'Open Garden' minibus to reach Marimurtra Garden.\nThis saves you the walk up the hill. Afterwards, visit the harbor and Sa Palomera.\nPublic transit is reliable and connects the main points efficiently.\nIdeal for travelers arriving by train from Barcelona."
+            "en": "Blanes is easy to explore by bus. Start in the center and use the 'Open Garden' minibus to reach Marimurtra Garden.\nThis saves you the walk up the hill. Afterwards, visit the harbor and Sa Palomera.\nPublic transit is reliable and connects the main points efficiently.\nIdeal for travelers arriving by train from Barcelona.",
+            "es": "Blanes es fácil de explorar en autobús. Empieza en el centro y usa el minibus 'Open Garden' para llegar al jardín Marimurtra.\nAsí evitas la subida. Después, visita el puerto y Sa Palomera.\nEl transporte público es fiable y conecta los puntos principales con eficiencia.\nIdeal para viajeros que llegan en tren desde Barcelona."
           },
           "stops": [
             {
@@ -2060,13 +2251,15 @@
                 "de": "Gotischer Brunnen",
                 "hu": "Gótikus kút",
                 "ro": "Fântâna Gotică",
-                "en": "Gothic Fountain"
+                "en": "Gothic Fountain",
+                "es": "Fuente Gótica"
               },
               "tip_5lang": {
                 "de": "Kurzer Fußweg vom Bahnhof oder Busbahnhof.",
                 "hu": "Rövid séta a vasút- vagy buszállomástól.",
                 "ro": "Scurtă plimbare de la gară sau autogară.",
-                "en": "Short walk from the train or bus station."
+                "en": "Short walk from the train or bus station.",
+                "es": "A poca distancia a pie de la estación de tren o autobús."
               }
             },
             {
@@ -2074,13 +2267,15 @@
                 "de": "Sa Palomera",
                 "hu": "Sa Palomera",
                 "ro": "Sa Palomera",
-                "en": "Sa Palomera"
+                "en": "Sa Palomera",
+                "es": "Sa Palomera"
               },
               "tip_5lang": {
                 "de": "Zentraler Punkt, viele lokale Busse halten hier.",
                 "hu": "Központi pont, számos helyi busz megáll itt.",
                 "ro": "Punct central, multe autobuze locale opresc aici.",
-                "en": "Central point, many local buses stop nearby."
+                "en": "Central point, many local buses stop nearby.",
+                "es": "Punto central, muchas líneas de autobús paran cerca."
               }
             },
             {
@@ -2088,13 +2283,15 @@
                 "de": "Botanischer Garten Marimurtra",
                 "hu": "Marimurtra Botanikus Kert",
                 "ro": "Grădina Botanică Marimurtra",
-                "en": "Marimurtra Botanical Garden"
+                "en": "Marimurtra Botanical Garden",
+                "es": "Jardín Botánico Marimurtra"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den speziellen Touristen-Minibus.",
                 "hu": "Használd a speciális turista-minibuszt.",
                 "ro": "Folosiți microbuzul turistic special.",
-                "en": "Use the special tourist minibus (Open Garden)."
+                "en": "Use the special tourist minibus (Open Garden).",
+                "es": "Usa el minibus turístico especial (Open Garden)."
               }
             },
             {
@@ -2102,13 +2299,15 @@
                 "de": "Hafen von Blanes",
                 "hu": "Blanesi kikötő",
                 "ro": "Portul Blanes",
-                "en": "Port of Blanes"
+                "en": "Port of Blanes",
+                "es": "Puerto de Blanes"
               },
               "tip_5lang": {
                 "de": "Bus L4 verbindet den Hafen mit dem Zentrum.",
                 "hu": "Az L4-es busz köti össze a kikötőt a központtal.",
                 "ro": "Autobuzul L4 leagă portul de centru.",
-                "en": "L4 bus connects the harbor with the center."
+                "en": "L4 bus connects the harbor with the center.",
+                "es": "La línea L4 conecta el puerto con el centro."
               }
             },
             {
@@ -2116,13 +2315,15 @@
                 "de": "Kirche Santa Maria",
                 "hu": "Szent Mária-templom",
                 "ro": "Biserica Sfânta Maria",
-                "en": "Church of Santa Maria"
+                "en": "Church of Santa Maria",
+                "es": "Iglesia de Santa María"
               },
               "tip_5lang": {
                 "de": "Wieder im Zentrum, nah an den Buslinien.",
                 "hu": "Vissza a központba, közel a buszvonalakhoz.",
                 "ro": "Înapoi în centru, aproape de liniile de autobuz.",
-                "en": "Back in the center, close to bus lines."
+                "en": "Back in the center, close to bus lines.",
+                "es": "De vuelta en el centro, cerca de las líneas de autobús."
               }
             }
           ],
@@ -2228,6 +2429,11 @@
               "Buy a T-10 ticket for multiple journeys.",
               "The train station is a bit far out, use the shuttle bus.",
               "Check schedules carefully on Sundays and holidays."
+            ],
+            "es": [
+              "Compra un billete T-10 para varios viajes.",
+              "La estación de tren está algo apartada, utiliza el autobús lanzadera.",
+              "Consulta los horarios con cuidado los domingos y festivos."
             ]
           }
         },
@@ -2236,7 +2442,8 @@
             "de": "Nutzen Sie den Bus, um trocken zum gotischen Brunnen zu gelangen.\nDie Busfahrt zur Sa Palomera bietet Schutz vor den Regenschauern.\nDer botanische Garten Marimurtra ist per Shuttle auch bei Regen gut erreichbar.\nAbends bringt Sie der Bus sicher zurück zur Kirche Santa Maria.",
             "hu": "Használja a buszt, hogy szárazon jusson el a gótikus kúthoz.\nA buszos utazás a Sa Palomera felé védelmet nyújt a záporoktól.\nA Marimurtra kert busszal esőben is könnyen megközelíthető.\nEste a busz biztonságban visszaviszi a Santa Maria templomhoz.",
             "ro": "Folosiți autobuzul pentru a ajunge uscat la fântâna gotică.\nCălătoria cu autobuzul spre Sa Palomera oferă protecție împotriva averselor.\nGrădina Marimurtra este ușor accesibilă cu autobuzul chiar și pe ploaie.\nSeara, autobuzul vă duce în siguranță înapoi la biserica Santa Maria.",
-            "en": "Use the bus to get to the Gothic fountain while staying dry.\nThe bus trip to Sa Palomera offers protection from the rain showers.\nThe Marimurtra garden is easily accessible by shuttle even in the rain.\nIn the evening, the bus will take you safely back to Santa Maria church."
+            "en": "Use the bus to get to the Gothic fountain while staying dry.\nThe bus trip to Sa Palomera offers protection from the rain showers.\nThe Marimurtra garden is easily accessible by shuttle even in the rain.\nIn the evening, the bus will take you safely back to Santa Maria church.",
+            "es": "Usa el autobús para llegar a la Fuente Gótica y mantenerte seco.\nEl trayecto en autobús hasta Sa Palomera ofrece protección frente a los chubascos.\nEl jardín Marimurtra es accesible fácilmente en lanzadera incluso con lluvia.\nPor la noche, el bus te llevará de vuelta con seguridad a la iglesia de Santa María."
           },
           "stops": [
             {
@@ -2245,7 +2452,8 @@
                 "de": "Die Bushaltestelle befindet sich ganz in der Nähe.",
                 "hu": "A buszmegálló egészen közel található.",
                 "ro": "Stația de autobuz se află foarte aproape.",
-                "en": "The bus stop is located very close by."
+                "en": "The bus stop is located very close by.",
+                "es": "La parada de autobús está situada muy cerca."
               }
             },
             {
@@ -2254,7 +2462,8 @@
                 "de": "Warten Sie auf den Bus im Unterstand der Haltestelle.",
                 "hu": "Várja a buszt a megálló fedett részén.",
                 "ro": "Așteptați autobuzul în adăpostul stației.",
-                "en": "Wait for the bus in the shelter of the stop."
+                "en": "Wait for the bus in the shelter of the stop.",
+                "es": "Espera el autobús bajo el refugio de la parada."
               }
             },
             {
@@ -2263,7 +2472,8 @@
                 "de": "Der Shuttlebus hält direkt vor dem Eingangstor.",
                 "hu": "A transzferbusz közvetlenül a bejárat előtt áll meg.",
                 "ro": "Autobuzul de transfer oprește chiar în fața porții.",
-                "en": "The shuttle bus stops right in front of the entrance gate."
+                "en": "The shuttle bus stops right in front of the entrance gate.",
+                "es": "El autobús lanzadera para justo delante de la puerta de entrada."
               }
             },
             {
@@ -2272,7 +2482,8 @@
                 "de": "Nutzen Sie die Zeit im Bus, um die Kleidung zu trocknen.",
                 "hu": "Használja ki a buszon töltött időt a ruha szárítására.",
                 "ro": "Folosiți timpul din autobuz pentru a vă usca hainele.",
-                "en": "Use the time on the bus to dry off your clothes."
+                "en": "Use the time on the bus to dry off your clothes.",
+                "es": "Aprovecha el tiempo en el autobús para secar la ropa."
               }
             },
             {
@@ -2281,7 +2492,8 @@
                 "de": "Ein kurzer Sprint von der Haltestelle in die Kirche.",
                 "hu": "Rövid futás a megállótól a templomig.",
                 "ro": "Un sprint scurt de la stație până la biserică.",
-                "en": "A short sprint from the stop into the church."
+                "en": "A short sprint from the stop into the church.",
+                "es": "Un corto sprint desde la parada hasta la iglesia."
               }
             }
           ],
@@ -2309,6 +2521,12 @@
               "Keep change or a ticket ready at hand.",
               "Buses can be more crowded than usual in the rain.",
               "Stops often provide only limited protection from the wind."
+            ],
+            "es": [
+              "Comprueba cambios en los horarios por el tiempo.",
+              "Ten suelto o el billete preparado a mano.",
+              "Los autobuses pueden estar más llenos de lo habitual con lluvia.",
+              "Las paradas a menudo ofrecen protección limitada frente al viento."
             ]
           }
         },
@@ -2317,7 +2535,8 @@
             "de": "Starten Sie entspannt per Bus zum winterlichen gotischen Brunnen.\nDie Fahrt zur Sa Palomera zeigt die ruhige Seite von Blanes im Winter.\nDer Shuttle zum botanischen Garten ist auch in der Nebensaison ideal.\nBeenden Sie Ihre Tour an der stimmungsvoll beleuchteten Santa Maria Kirche.",
             "hu": "Induljon nyugodtan busszal a téli gótikus kúthoz.\nA Sa Palomera felé vezető út Blanes csendes téli arcát mutatja.\nA kertbe járó transzfer előszezonban is ideális választás.\nZárja túráját a hangulatosan kivilágított Santa Maria templomnál.",
             "ro": "Începeți relaxat cu autobuzul spre fântâna gotică de iarnă.\nCălătoria spre Sa Palomera arată partea liniștită a Blanesului iarna.\nTransferul către grădina botanică este ideal și în afara sezonului.\nÎncheiați turul la biserica Santa Maria, iluminată atmosferic.",
-            "en": "Start relaxed by bus to the wintry Gothic fountain.\nThe trip to Sa Palomera shows the quiet side of Blanes in winter.\nThe shuttle to the botanical garden is ideal even in the off-season.\nEnd your tour at the atmospherically lit Santa Maria church."
+            "en": "Start relaxed by bus to the wintry Gothic fountain.\nThe trip to Sa Palomera shows the quiet side of Blanes in winter.\nThe shuttle to the botanical garden is ideal even in the off-season.\nEnd your tour at the atmospherically lit Santa Maria church.",
+            "es": "Comienza relajado en autobús hacia la invernal Fuente Gótica.\nEl trayecto a Sa Palomera muestra el lado tranquilo de Blanes en invierno.\nLa lanzadera al jardín botánico es ideal incluso fuera de temporada.\nTermina tu recorrido en la atmosférica iglesia de Santa María iluminada."
           },
           "stops": [
             {
@@ -2326,7 +2545,8 @@
                 "de": "Der Bus ist im Winter oft weniger überfüllt.",
                 "hu": "A busz télen gyakran kevésbé zsúfolt.",
                 "ro": "Autobuzul este adesea mai puțin aglomerat iarna.",
-                "en": "The bus is often less crowded in winter."
+                "en": "The bus is often less crowded in winter.",
+                "es": "El autobús suele estar menos concurrido en invierno."
               }
             },
             {
@@ -2335,7 +2555,8 @@
                 "de": "Genießen Sie die Aussicht aus dem warmen Busfenster.",
                 "hu": "Élvezze a kilátást a busz meleg ablakából.",
                 "ro": "Bucurați-vă de vedere de la fereastra caldă a autobuzului.",
-                "en": "Enjoy the view from the warm bus window."
+                "en": "Enjoy the view from the warm bus window.",
+                "es": "Disfruta de la vista desde la ventana cálida del autobús."
               }
             },
             {
@@ -2344,7 +2565,8 @@
                 "de": "Prüfen Sie den Winterfahrplan des Shuttle-Busses.",
                 "hu": "Ellenőrizze a transzferbusz téli menetrendjét.",
                 "ro": "Verificați orarul de iarnă al autobuzului de transfer.",
-                "en": "Check the winter timetable of the shuttle bus."
+                "en": "Check the winter timetable of the shuttle bus.",
+                "es": "Consulta el horario de invierno de la lanzadera."
               }
             },
             {
@@ -2353,7 +2575,8 @@
                 "de": "Ein kurzer Fußweg zur nächsten Haltestelle wärmt auf.",
                 "hu": "Egy rövid séta a következő megállóig jól felmelegít.",
                 "ro": "O scurtă plimbare până la următoarea stație te încălzește.",
-                "en": "A short walk to the next stop warms you up."
+                "en": "A short walk to the next stop warms you up.",
+                "es": "Una corta caminata hasta la siguiente parada te calentará."
               }
             },
             {
@@ -2362,7 +2585,8 @@
                 "de": "Die Abendbeleuchtung ist im Winter besonders schön.",
                 "hu": "Az esti kivilágítás télen különösen szép.",
                 "ro": "Iluminatul de seară este deosebit de frumos iarna.",
-                "en": "The evening lighting is particularly beautiful in winter."
+                "en": "The evening lighting is particularly beautiful in winter.",
+                "es": "La iluminación nocturna es especialmente bonita en invierno."
               }
             }
           ],
@@ -2390,6 +2614,12 @@
               "The buses are pleasantly heated in winter.",
               "Use an app for real-time departure times.",
               "The last connection may be earlier in winter than in summer."
+            ],
+            "es": [
+              "Tenga en cuenta los intervalos menos frecuentes en el horario de invierno.",
+              "Los autobuses están agradablemente calefactados en invierno.",
+              "Use una app para ver las salidas en tiempo real.",
+              "La última conexión puede ser más pronta en invierno que en verano."
             ]
           }
         }
@@ -2407,19 +2637,22 @@
       "de": "Blanes ist das Tor zur Costa Brava und sprachlich gemischt: Katalanisch, Spanisch und im Sommer viel Französisch und Englisch. Der Bahnhof ist Endstation der Rodalies R1 aus Barcelona, daher hört man auch viel Spanisch von Tagestouristen.",
       "hu": "Blanes a Costa Brava kapuja, nyelvileg kevert: katalán, spanyol, nyáron francia és angol. A vasútállomás a Barcelonából induló R1 Rodalies végállomása, ezért sok napi turista miatt spanyol szót is sokat hallasz.",
       "ro": "Blanes este poarta Costa Bravei și e amestec lingvistic: catalană, spaniolă, vara mult franceză și engleză. Gara e capătul liniei R1 Rodalies din Barcelona, deci auzi multă spaniolă de la turiști de o zi.",
-      "en": "Blanes is the gateway to Costa Brava and linguistically mixed: Catalan, Spanish, and in summer plenty of French and English. The station is the terminus of Rodalies R1 from Barcelona, so day-trippers bring lots of Spanish too."
+      "en": "Blanes is the gateway to Costa Brava and linguistically mixed: Catalan, Spanish, and in summer plenty of French and English. The station is the terminus of Rodalies R1 from Barcelona, so day-trippers bring lots of Spanish too.",
+      "es": "Blanes es la puerta de entrada a la Costa Brava y lingüísticamente mixta: catalán, español y, en verano, mucho francés e inglés. La estación es el terminal de Rodalies R1 desde Barcelona, por lo que también vienen muchos excursionistas de día."
     },
     "best_time_to_visit": {
       "de": "Mai bis Juni und September sind ideal. Höhepunkt ist das Internationale Feuerwerksfestival Ende Juli, dann ist die Stadt extrem voll und Hotels müssen Monate vorher gebucht werden. Der Marimurtra-Botanikgarten ist im Frühling am schönsten.",
       "hu": "Május-június és szeptember a top. Csúcs a Nemzetközi Tűzijáték-fesztivál július végén, ekkor a város zsúfolt, szállást hónapokkal előre kell foglalni. A Marimurtra botanikus kert tavasszal a legszebb.",
       "ro": "Mai-iunie și septembrie sunt ideale. Punctul culminant e Festivalul Internațional de Artificii la sfârșit de iulie, când orașul e plin, iar cazarea trebuie rezervată cu luni înainte. Grădina Marimurtra e cel mai frumos primăvara.",
-      "en": "May-June and September are ideal. The highlight is the International Fireworks Festival in late July, when the town packs out and hotels need booking months ahead. Marimurtra botanical garden is loveliest in spring."
+      "en": "May-June and September are ideal. The highlight is the International Fireworks Festival in late July, when the town packs out and hotels need booking months ahead. Marimurtra botanical garden is loveliest in spring.",
+      "es": "Mayo-junio y septiembre son ideales. El punto culminante es el Festival Internacional de Fuegos Artificiales a finales de julio, cuando el pueblo se llena y los hoteles hay que reservar con meses de antelación. El jardín botánico Marimurtra está más bonito en primavera."
     },
     "neighborhood_warnings": {
       "de": "Blanes ist sicher. Beim Bahnhof und am Stadtstrand S'Abanell auf Taschendiebe achten, besonders an Tagen mit Feuerwerk. Die Klippe Sa Palomera ist abends rutschig und nicht gut beleuchtet.",
       "hu": "Blanes biztonságos. A vasútállomásnál és az S'Abanell városi strandon figyelj a zsebtolvajokra, főleg tűzijáték-napokon. A Sa Palomera szikla este csúszós és gyengén világított, óvatosan!",
       "ro": "Blanes este sigur. La gară și pe plaja S'Abanell, atenție la buzunare, mai ales în zilele cu artificii. Stânca Sa Palomera e alunecoasă seara și slab iluminată, fii prudent.",
-      "en": "Blanes is safe. Watch pickpockets near the station and at S'Abanell town beach, especially on fireworks nights. The Sa Palomera rock is slippery in the evening and poorly lit."
+      "en": "Blanes is safe. Watch pickpockets near the station and at S'Abanell town beach, especially on fireworks nights. The Sa Palomera rock is slippery in the evening and poorly lit.",
+      "es": "Blanes es seguro. Vigile a los carteristas cerca de la estación y en la playa urbana de S'Abanell, especialmente en las noches de fuegos artificiales. La roca de Sa Palomera está resbaladiza por la noche y tiene poca iluminación."
     }
   }
 }

@@ -21,7 +21,8 @@
             "de": "Pilar de los Alamos",
             "hu": "Pilar de los Alamos",
             "ro": "Pilar de los Alamos",
-            "en": "Pilar de los Alamos"
+            "en": "Pilar de los Alamos",
+            "es": "Pilar de los Álamos"
           },
           "coords": [
             -3.922413,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie diesen Renaissance-Brunnen, der einst als Hauptwasserquelle diente, und bringen Sie eine nachfüllbare Flasche mit, um während der Besichtigung hydriert zu bleiben.",
             "hu": "Csodálja meg ezt a reneszánsz kutat, amely egykor a város fő vízforrása volt, és hozzon magával egy újratölthető palackot, hogy hidratált maradjon a kőfaragások megfigyelése közben.",
             "ro": "Admirați această fântână renascentistă, odinioară principala sursă de apă a orașului, și aduceți o sticlă reutilizabilă pentru a vă menține hidratat observând detaliile sculptate.",
-            "en": "Admire this Renaissance fountain, which once served as the town's main water source, and bring a refillable bottle to stay hydrated while observing its intricate stonework."
+            "en": "Admire this Renaissance fountain, which once served as the town's main water source, and bring a refillable bottle to stay hydrated while observing its intricate stonework.",
+            "es": "Admira esta fuente renacentista, que fue la principal fuente de agua del pueblo; lleva una botella reutilizable para hidratarte mientras observas su intrincada talla en piedra."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Palacio de los Fernández de Moya",
             "hu": "Palacio de los Fernández de Moya",
             "ro": "Palacio de los Fernández de Moya",
-            "en": "Palacio de los Fernández de Moya"
+            "en": "Palacio de los Fernández de Moya",
+            "es": "Palacio de los Fernández de Moya"
           },
           "coords": [
             -3.922941,
@@ -59,7 +62,8 @@
             "de": "Erkunden Sie diesen historischen Palast mit seiner andalusischen Architektur, achten Sie auf sein Wappen und genießen Sie danach einen Kaffee an einem nahegelegenen Platz.",
             "hu": "Fedezze fel ezt a gyönyörű andalúz építészetű történelmi palotát, és figyelje meg a nemesi címerét, mielőtt meginna egy kávét egy közeli téren.",
             "ro": "Explorați acest palat istoric cu arhitectură andaluză, observând blazonul său nobiliar înainte de a savura o cafea într-o piață din apropiere.",
-            "en": "Explore this historic palace featuring beautiful Andalusian architecture, taking note of its noble coat of arms before enjoying a coffee at a nearby plaza."
+            "en": "Explore this historic palace featuring beautiful Andalusian architecture, taking note of its noble coat of arms before enjoying a coffee at a nearby plaza.",
+            "es": "Explora este palacio histórico con bella arquitectura andaluza; fíjate en el escudo nobiliario antes de disfrutar un café en la plaza cercana."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Iglesia de Consolación",
             "hu": "Iglesia de Consolación",
             "ro": "Iglesia de Consolación",
-            "en": "Iglesia de Consolación"
+            "en": "Iglesia de Consolación",
+            "es": "Iglesia de Consolación"
           },
           "coords": [
             -3.924373,
@@ -82,7 +87,8 @@
             "de": "Besuchen Sie diese große Kirche, die für ihr beeindruckendes Altarbild bekannt ist, und denken Sie daran, sich bescheiden zu kleiden und leise zu sein.",
             "hu": "Látogasson el ebbe a lenyűgöző oltárképéről ismert nagyszerű templomba, de ne feledjen szerényen öltözködni és halkan beszélni a misék idején.",
             "ro": "Vizitați această biserică grandioasă cunoscută pentru altarul său impresionant și atmosfera senină, amintindu-vă să vă îmbrăcați modest și să păstrați liniștea.",
-            "en": "Visit this grand church known for its impressive altarpiece and serene atmosphere, but remember to dress modestly and keep your voice down during service hours."
+            "en": "Visit this grand church known for its impressive altarpiece and serene atmosphere, but remember to dress modestly and keep your voice down during service hours.",
+            "es": "Visita esta magnífica iglesia conocida por su impresionante retablo y su ambiente sereno; recuerda vestir con modestia y mantener la voz baja durante las horas de culto."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Casa Pineda",
             "hu": "Casa Pineda",
             "ro": "Casa Pineda",
-            "en": "Casa Pineda"
+            "en": "Casa Pineda",
+            "es": "Casa Pineda"
           },
           "coords": [
             -3.927259,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie den Charme dieses traditionellen Herrenhauses, das einen Einblick in das aristokratische Leben bietet, und achten Sie auf die fein gearbeiteten Holzbalkone.",
             "hu": "Fedezze fel ennek a hagyományos kastélynak a varázsát, amely bepillantást enged az arisztokrata életbe, és figyelje meg az utcára néző finom kidolgozású faerkélyeket.",
             "ro": "Descoperiți farmecul acestei case impunătoare tradiționale care oferă o privire în viața aristocratică și căutați balcoanele din lemn fin lucrate care dau spre stradă.",
-            "en": "Discover the charm of this traditional stately home, which offers a glimpse into aristocratic life, and look out for the finely crafted wooden balconies facing the street."
+            "en": "Discover the charm of this traditional stately home, which offers a glimpse into aristocratic life, and look out for the finely crafted wooden balconies facing the street.",
+            "es": "Descubre el encanto de esta casa señorial tradicional, que ofrece una visión de la vida aristocrática; fíjate en los finos balcones de madera que dan a la calle."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Antiguo Convento de San Francisco",
             "hu": "Antiguo Convento de San Francisco",
             "ro": "Antiguo Convento de San Francisco",
-            "en": "Antiguo Convento de San Francisco"
+            "en": "Antiguo Convento de San Francisco",
+            "es": "Antiguo Convento de San Francisco"
           },
           "coords": [
             -3.929492,
@@ -128,7 +137,8 @@
             "de": "Gehen Sie durch die Ruinen dieses alten Klosters, das Geschichten der Religionsgeschichte erzählt, und tragen Sie feste Schuhe, um die unebenen Steinwege sicher zu begehen.",
             "hu": "Sétáljon végig ennek az ősi kolostornak a romjain, amely vallástörténeti meséket őriz, és viseljen masszív cipőt, hogy biztonságosan haladjon az egyenetlen kőutakon.",
             "ro": "Plimbați-vă prin ruinele acestui vechi mănăstiri care spune povești de istorie religioasă, purtând încălțăminte rezistentă pentru a naviga în siguranță pe cărările de piatră.",
-            "en": "Walk through the ruins of this ancient convent that tells stories of religious history, wearing sturdy shoes to navigate the somewhat uneven ancient stone paths safely."
+            "en": "Walk through the ruins of this ancient convent that tells stories of religious history, wearing sturdy shoes to navigate the somewhat uneven ancient stone paths safely.",
+            "es": "Recorre las ruinas de este antiguo convento que cuenta historias de la historia religiosa; usa calzado resistente para sortear con seguridad los algo irregulares caminos de piedra antiguos."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Fortaleza de la Mota",
             "hu": "Fortaleza de la Mota",
             "ro": "Fortaleza de la Mota",
-            "en": "Fortaleza de la Mota"
+            "en": "Fortaleza de la Mota",
+            "es": "Fortaleza de la Mota"
           },
           "coords": [
             -3.929884,
@@ -151,7 +162,8 @@
             "de": "Steigen Sie zu dieser prächtigen maurischen Festung mit Panoramablick auf die Olivenhaine hinauf und besuchen Sie sie am späten Nachmittag für das beste Licht.",
             "hu": "Másszon fel ehhez a csodálatos mór erődhöz, ahonnan panorámás kilátás nyílik az olajfaligetekre, és próbálja meg késő délután meglátogatni a lenyűgöző arany órai fényekért.",
             "ro": "Urcați la această magnifică fortăreață maură care oferă vederi panoramice ale plantațiilor de măslini și încercați să o vizitați după-amiaza târziu pentru lumina aurie.",
-            "en": "Climb up to this magnificent Moorish fortress offering panoramic views of the olive groves, and try to visit in the late afternoon to catch the stunning golden hour light."
+            "en": "Climb up to this magnificent Moorish fortress offering panoramic views of the olive groves, and try to visit in the late afternoon to catch the stunning golden hour light.",
+            "es": "Sube a esta magnífica fortaleza de origen moro que ofrece vistas panorámicas de los olivos; intenta visitarla al final de la tarde para capturar la luz dorada del atardecer."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Rundgang am monumentalen Pilar de los Alamos und genießen Sie das historische Ambiente der Stadt. Mittags geht es vorbei an prächtigen Palastfassaden zur friedlichen Iglesia de Consolación. Entdecken Sie am Nachmittag Adelshäuser und Klosterruinen in der Unterstadt. Der Tag gipfelt in einem triumphalen Aufstieg zur majestätischen Fortaleza de la Mota.",
         "hu": "Kezdje a gyalogos túrát a monumentális Pilar de los Alamosnál, és élvezze a város történelmi hangulatát. Délben haladjon el a Fernández de Moya nagyszerű palota homlokzatai mellett a békés Consolación templom felé. Délután fedezze fel az alsóváros nemesi házait és történelmi kolostorromjait. A nap a fenséges Fortaleza de la Mota diadalmas megmászásával csúcsosodik ki.",
         "ro": "Începeți turul pietonal la monumentala Pilar de los Alamos, bucurându-vă de ambianța istorică a orașului. La prânz veți trece pe lângă fațade de palate către pașnica Iglesia de Consolación. După-amiaza, descoperiți case nobiliare și ruine de mănăstiri în orașul de jos. Ziua culminează cu o ascensiune triumfală la maiestuoasa Fortaleza de la Mota, o experiență inegalabilă.",
-        "en": "Begin your walking tour at the monumental Pilar de los Alamos, soaking in the town's historical ambiance. Midday brings you past grand palatial facades like Fernández de Moya toward the peaceful Iglesia de Consolación. In the afternoon, discover noble homes and historic convent ruins in the lower town. The day culminates with a triumphant ascent to the majestic Fortaleza de la Mota."
+        "en": "Begin your walking tour at the monumental Pilar de los Alamos, soaking in the town's historical ambiance. Midday brings you past grand palatial facades like Fernández de Moya toward the peaceful Iglesia de Consolación. In the afternoon, discover noble homes and historic convent ruins in the lower town. The day culminates with a triumphant ascent to the majestic Fortaleza de la Mota.",
+        "es": "Comienza tu paseo a pie en el monumental Pilar de los Álamos, empapándote de la ambientación histórica del pueblo. Al mediodía pasarás ante grandiosas fachadas palaciegas como la de Fernández de Moya hasta la tranquila Iglesia de Consolación. Por la tarde descubre casas nobiliarias y ruinas de conventos en la parte baja del pueblo. El día culmina con el ascenso triunfal a la majestuosa Fortaleza de la Mota."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Der Morgen beginnt regnerisch am Pilar de los Alamos unter Schirmen. Mittags bieten Gassen und Kirchen trockene Pausen. Nachmittags geht es zur Festung, Vorsicht vor glatten Pflastersteinen. Der Abend endet an einem geschützten Ort, während der Regen die alten Mauern wäscht.",
             "hu": "A reggel esőben indul a Pilar de los Alamosnál, esernyők alatt. Délben a szűk utcák és templomok belső terei nyújtanak száraz pihenőt. Délután a vár felé tartunk, figyelve a csúszós macskakövekre. Az estét egy fedett helyen zárjuk, miközben az eső mossa az ódon várfalakat.",
             "ro": "Dimineața începe cu ploaie la Pilar de los Alamos, sub umbrele. La prânz, străzile și bisericile oferă pauze uscate. După-amiaza mergem spre fortăreață, atenți la pietrele alunecoase. Seara se încheie într-un loc adăpostit, în timp ce ploaia spală zidurile vechi.",
-            "en": "The morning starts in the rain at Pilar de los Alamos under umbrellas. At noon, narrow streets and church interiors offer dry breaks. In the afternoon, we head to the fortress, watching out for slippery cobblestones. We end the evening in a sheltered spot as rain washes the ancient walls."
+            "en": "The morning starts in the rain at Pilar de los Alamos under umbrellas. At noon, narrow streets and church interiors offer dry breaks. In the afternoon, we head to the fortress, watching out for slippery cobblestones. We end the evening in a sheltered spot as rain washes the ancient walls.",
+            "es": "La mañana empieza bajo la lluvia en el Pilar de los Álamos con paraguas. Al mediodía, las calles estrechas y el interior de las iglesias ofrecen resguardo seco. Por la tarde nos dirigimos a la fortaleza, cuidando los empedrados resbaladizos. Terminamos la noche en un lugar protegido mientras la lluvia limpia los muros antiguos."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Pilar de los Alamos",
                 "hu": "Pilar de los Alamos",
                 "ro": "Pilar de los Alamos",
-                "en": "Pilar de los Alamos"
+                "en": "Pilar de los Alamos",
+                "es": "Pilar de los Álamos"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie den Renaissance-Brunnen unter Ihrem Schirm; der Regen verleiht den Steinen einen besonderen Glanz. Tipp: Tragen Sie wasserfeste Schuhe für das Pflaster.",
                 "hu": "Csodálja meg a reneszánsz kutat az esernyő alól; az eső különleges csillogást ad a faragott köveknek. Tipp: Vigyen magával vízálló cipőt a macskakövekre.",
                 "ro": "Admirați fântâna renascentistă de sub umbrelă; ploaia adaugă o strălucire unică pietrelor sculptate. Sfat: Purtați pantofi impermeabili pentru pavaj.",
-                "en": "Admire the Renaissance fountain from under your umbrella; the rain adds a unique glint to the carved stones. Tip: Wear waterproof shoes for the cobblestones."
+                "en": "Admire the Renaissance fountain from under your umbrella; the rain adds a unique glint to the carved stones. Tip: Wear waterproof shoes for the cobblestones.",
+                "es": "Admira la fuente renacentista bajo tu paraguas; la lluvia añade un brillo especial a las piedras talladas. Consejo: Lleva calzado impermeable para los empedrados."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Palacio de los Fernández de Moya",
                 "hu": "Palacio de los Fernández de Moya",
                 "ro": "Palacio de los Fernández de Moya",
-                "en": "Palacio de los Fernández de Moya"
+                "en": "Palacio de los Fernández de Moya",
+                "es": "Palacio de los Fernández de Moya"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die prächtige Fassade und suchen Sie im Torbogen Schutz vor dem Regen. Tipp: Ein Taschenschirm ist in den engen Gassen praktischer als ein großer.",
                 "hu": "Tekintse meg a pompás homlokzatot, és keressen menedéket az eső elől a kapualjban. Tipp: A szűk utcákban az összecsukható esernyő praktikusabb a nagynál.",
                 "ro": "Priviți fațada magnifică și căutați adăpost de ploaie în arcada porții. Sfat: O umbrelă compactă este mai practică decât una mare pe străzile înguste.",
-                "en": "View the magnificent facade and seek shelter from the rain in the gateway arch. Tip: A compact umbrella is more practical than a large one in narrow streets."
+                "en": "View the magnificent facade and seek shelter from the rain in the gateway arch. Tip: A compact umbrella is more practical than a large one in narrow streets.",
+                "es": "Contempla la magnífica fachada y busca refugio de la lluvia en el arco de la portada. Consejo: Un paraguas compacto es más práctico que uno grande en calles estrechas."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Iglesia de Consolación",
                 "hu": "Iglesia de Consolación",
                 "ro": "Iglesia de Consolación",
-                "en": "Iglesia de Consolación"
+                "en": "Iglesia de Consolación",
+                "es": "Iglesia de Consolación"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Kirchenbesuch, um im Trockenen die barocken Details zu bestaunen. Tipp: Schütteln Sie Ihren Schirm draußen gut ab, um den Boden nicht rutschig zu machen.",
                 "hu": "Használja ki a templomlátogatást, hogy szárazon csodálja meg a barokk részleteket. Tipp: Rázza le jól az esernyőjét kint, hogy ne legyen csúszós a benti padló.",
                 "ro": "Profitați de vizita la biserică pentru a admira detaliile baroce la adăpost. Sfat: Scuturați bine umbrela afară pentru a nu face podeaua alunecoasă în interior.",
-                "en": "Take advantage of the church visit to admire the Baroque details in the dry. Tip: Shake your umbrella well outside so as not to make the floor slippery inside."
+                "en": "Take advantage of the church visit to admire the Baroque details in the dry. Tip: Shake your umbrella well outside so as not to make the floor slippery inside.",
+                "es": "Aprovecha la visita a la iglesia para admirar en seco los detalles barrocos. Consejo: Sacude bien el paraguas fuera para no mojar el suelo dentro."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Casa Pineda",
                 "hu": "Casa Pineda",
                 "ro": "Casa Pineda",
-                "en": "Casa Pineda"
+                "en": "Casa Pineda",
+                "es": "Casa Pineda"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Innenräume dieses Adelshauses, während es draußen regnet; die Atmosphäre ist sehr besinnlich. Tipp: Achten Sie auf die Stufen im Innenhof.",
                 "hu": "Látogassa meg a nemesi ház belső tereit, miközben kint esik; a hangulat ilyenkor különösen meghitt. Tipp: Ügyeljen a belső udvar lépcsőire az esőben.",
                 "ro": "Vizitați interioarele acestei case nobiliare în timp ce plouă afară; atmosfera este foarte liniștită. Sfat: Aveți grijă la treptele din curtea interioară.",
-                "en": "Visit the interiors of this noble house while it rains outside; the atmosphere is very contemplative. Tip: Watch out for the steps in the inner courtyard."
+                "en": "Visit the interiors of this noble house while it rains outside; the atmosphere is very contemplative. Tip: Watch out for the steps in the inner courtyard.",
+                "es": "Visita los interiores de esta casa noble mientras llueve afuera; la atmósfera es muy contemplativa. Consejo: Ten cuidado con los escalones en el patio interior."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Antiguo Convento de San Francisco",
                 "hu": "Antiguo Convento de San Francisco",
                 "ro": "Antiguo Convento de San Francisco",
-                "en": "Antiguo Convento de San Francisco"
+                "en": "Antiguo Convento de San Francisco",
+                "es": "Antiguo Convento de San Francisco"
               },
               "tip_5lang": {
                 "de": "Das ehemalige Kloster bietet weite, überdachte Hallen, ideal für einen verregneten Nachmittag. Tipp: Die Steinböden können bei Nässe sehr glatt sein.",
                 "hu": "Az egykori kolostor tágas, fedett csarnokai ideálisak egy esős délutánra. Tipp: A kőpadló nedvesen nagyon csúszós lehet, lépkedjen óvatosan.",
                 "ro": "Fosta mănăstire oferă săli acoperite spațioase, ideale pentru o după-amiază ploioasă. Sfat: Podelele de piatră pot fi foarte alunecoase când sunt ude.",
-                "en": "The former convent offers spacious, covered halls, ideal for a rainy afternoon. Tip: The stone floors can be very slippery when wet; walk carefully."
+                "en": "The former convent offers spacious, covered halls, ideal for a rainy afternoon. Tip: The stone floors can be very slippery when wet; walk carefully.",
+                "es": "El antiguo convento ofrece salas amplias y cubiertas, ideales para una tarde lluviosa. Consejo: Los suelos de piedra pueden ser muy resbaladizos cuando están mojados; camina con cuidado."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Fortaleza de la Mota",
                 "hu": "Fortaleza de la Mota",
                 "ro": "Fortaleza de la Mota",
-                "en": "Fortaleza de la Mota"
+                "en": "Fortaleza de la Mota",
+                "es": "Fortaleza de la Mota"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie das Innere der Abtei als Regenschutz; der Blick auf die Burg in den Wolken ist mystisch. Tipp: Nutzen Sie die Handläufe an den Hängen.",
                 "hu": "Fedezze fel az apátság belső tereit az eső elől menekülve; a kilátás a felhőkből kiemelkedő várra misztikus. Tipp: Használja a korlátokat a lejtőkön.",
                 "ro": "Explorați interioarele abației pentru a scăpa de ploaie; vederea cetății în nori este mistică. Sfat: Folosiți balustradele pe pantele pietroase.",
-                "en": "Explore the abbey interiors to escape the rain; the view of the fortress in the clouds is mystical. Tip: Use the handrails on the stony slopes for safety."
+                "en": "Explore the abbey interiors to escape the rain; the view of the fortress in the clouds is mystical. Tip: Use the handrails on the stony slopes for safety.",
+                "es": "Explora los interiores del recinto para escapar de la lluvia; la vista de la fortaleza entre nubes es mística. Consejo: Usa los pasamanos en las pendientes de piedra para mayor seguridad."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Wir beginnen den frischen Wintermorgen in Zwiebelschichten. Mittags wärmen wir uns drinnen auf, während die tiefe Sonne lange Schatten wirft. Nachmittags bewundern wir den frühen Sonnenuntergang von den Festungsmauern. Der Abend ist kühl, wir suchen früh die warmen Lichter auf.",
             "hu": "A friss téli reggelen réteges öltözetben indulunk útnak. Délben a belső terekben melegszünk fel, miközben az alacsony nap különleges árnyékokat vet. Délután a várfalakról csodáljuk a korai naplementét. Az este már hűvös, így korán behúzódunk a város meleg fényei közé.",
             "ro": "Începem dimineața rece de iarnă cu haine în straturi. La prânz ne încălzim în interior, în timp ce soarele jos lasă umbre lungi. După-amiaza admirăm apusul timpuriu de pe zidurile cetății. Seara este răcoroasă, așa că ne retragem devreme la luminile calde ale orașului.",
-            "en": "We start the fresh winter morning in layered clothes. At noon, we warm up in interiors while the low sun casts long shadows. In the afternoon, we admire the early sunset from the fortress walls. The evening is chilly, so we retreat early to the warm lights of the town."
+            "en": "We start the fresh winter morning in layered clothes. At noon, we warm up in interiors while the low sun casts long shadows. In the afternoon, we admire the early sunset from the fortress walls. The evening is chilly, so we retreat early to the warm lights of the town.",
+            "es": "Comenzamos la fresca mañana invernal con varias capas de ropa. Al mediodía nos calentamos en interiores mientras el sol bajo proyecta largas sombras. Por la tarde admiramos la puesta temprana desde las murallas de la fortaleza. La noche es fría, así que regresamos pronto a las cálidas luces del pueblo."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Pilar de los Alamos",
                 "hu": "Pilar de los Alamos",
                 "ro": "Pilar de los Alamos",
-                "en": "Pilar de los Alamos"
+                "en": "Pilar de los Alamos",
+                "es": "Pilar de los Álamos"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die klare Winterluft am Brunnen; der Stein wirkt im kalten Licht besonders scharf. Tipp: Ein warmer Schal schützt vor dem Bergwind.",
                 "hu": "Élvezze a friss téli levegőt a kútnál; a kövek a hideg fényben különösen élesnek tűnnek. Tipp: Egy meleg sál elengedhetetlen a hegyi szél ellen.",
                 "ro": "Bucurați-vă de aerul curat de iarnă la fântână; piatra pare deosebit de clară în lumina rece. Sfat: Un fular călduros vă protejează de vântul de munte.",
-                "en": "Enjoy the fresh winter air at the fountain; the stone looks particularly sharp in the cold light. Tip: A warm scarf is essential against the mountain wind."
+                "en": "Enjoy the fresh winter air at the fountain; the stone looks particularly sharp in the cold light. Tip: A warm scarf is essential against the mountain wind.",
+                "es": "Disfruta del aire fresco invernal en la fuente; la piedra se ve especialmente nítida con la luz fría. Consejo: Una bufanda cálida es esencial contra el viento de la sierra."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Palacio de los Fernández de Moya",
                 "hu": "Palacio de los Fernández de Moya",
                 "ro": "Palacio de los Fernández de Moya",
-                "en": "Palacio de los Fernández de Moya"
+                "en": "Palacio de los Fernández de Moya",
+                "es": "Palacio de los Fernández de Moya"
               },
               "tip_5lang": {
                 "de": "Die Wintersonne beleuchtet die Fassade direkt und bringt die Wappen zur Geltung. Tipp: Bleiben Sie in Bewegung, um in den schattigen Gassen warm zu bleiben.",
                 "hu": "A téli nap közvetlenül világítja meg a homlokzatot, kiemelve a nemesi címereket. Tipp: Maradjon mozgásban, hogy ne fázzon a szűk, árnyékos utcákban.",
                 "ro": "Soarele de iarnă luminează direct fațada, evidențiind blazoanele nobiliare. Sfat: Rămâneți în mișcare pentru a nu îngheța pe străzile înguste și umbrite.",
-                "en": "The winter sun illuminates the facade directly, highlighting the coats of arms. Tip: Keep moving to stay warm in the narrow, shaded streets."
+                "en": "The winter sun illuminates the facade directly, highlighting the coats of arms. Tip: Keep moving to stay warm in the narrow, shaded streets.",
+                "es": "El sol invernal ilumina directamente la fachada, realzando los escudos. Consejo: Mantente en movimiento para entrar en calor en las calles estrechas y sombreadas."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Iglesia de Consolación",
                 "hu": "Iglesia de Consolación",
                 "ro": "Iglesia de Consolación",
-                "en": "Iglesia de Consolación"
+                "en": "Iglesia de Consolación",
+                "es": "Iglesia de Consolación"
               },
               "tip_5lang": {
                 "de": "Die dicken Kirchenmauern bieten Schutz vor dem frostigen Wind draußen. Tipp: Behalten Sie den Mantel an, da es in der Kirche oft kühler ist als draußen.",
                 "hu": "A templom vastag falai védelmet nyújtanak a kinti fagyos szél ellen. Tipp: Tartsa magán a kabátját, mert a templom belseje gyakran hűvösebb a kinti levegőnél.",
                 "ro": "Zidurile groase ale bisericii oferă protecție împotriva vântului înghețat de afară. Sfat: Păstrați haina pe dvs., deoarece interiorul este adesea mai rece.",
-                "en": "The thick church walls provide protection against the frosty wind outside. Tip: Keep your coat on, as the church interior is often cooler than outside."
+                "en": "The thick church walls provide protection against the frosty wind outside. Tip: Keep your coat on, as the church interior is often cooler than outside.",
+                "es": "Los gruesos muros de la iglesia protegen del viento helado exterior. Consejo: Mantén el abrigo puesto, ya que el interior suele estar más fresco que el exterior."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Casa Pineda",
                 "hu": "Casa Pineda",
                 "ro": "Casa Pineda",
-                "en": "Casa Pineda"
+                "en": "Casa Pineda",
+                "es": "Casa Pineda"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie das herrschaftliche Haus und genießen Sie das Licht, das durch die Fenster fällt. Tipp: Besuchen Sie die Innenräume um die Mittagszeit.",
                 "hu": "Fedezze fel az úri házat, és élvezze az ablakokon át beszűrődő téli fényt. Tipp: A dél körüli órákban látogassa meg a belső tereket a legtöbb fényért.",
                 "ro": "Explorați casa boierească și bucurați-vă de lumina iernii care pătrunde prin ferestre. Sfat: Vizitați interioarele în jurul prânzului pentru maximum de lumină.",
-                "en": "Explore the stately home and enjoy the winter light filtering through the windows. Tip: Visit the interiors around midday for the best natural lighting."
+                "en": "Explore the stately home and enjoy the winter light filtering through the windows. Tip: Visit the interiors around midday for the best natural lighting.",
+                "es": "Recorre la casa señorial y disfruta de la luz invernal que se filtra por las ventanas. Consejo: Visita los interiores alrededor del mediodía para obtener la mejor luz natural."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Antiguo Convento de San Francisco",
                 "hu": "Antiguo Convento de San Francisco",
                 "ro": "Antiguo Convento de San Francisco",
-                "en": "Antiguo Convento de San Francisco"
+                "en": "Antiguo Convento de San Francisco",
+                "es": "Antiguo Convento de San Francisco"
               },
               "tip_5lang": {
                 "de": "Die Steinhallen sind im Winter beeindruckend, aber kalt; ideal für einen schnellen Rundgang. Tipp: Tragen Sie festes Schuhwerk gegen die Bodenkälte.",
                 "hu": "A kőcsarnokok télen lenyűgözőek, de hűvösek; ideálisak egy gyorsabb körúthoz. Tipp: Viseljen vastag talpú cipőt a padló felől áradó hideg ellen.",
                 "ro": "Sălile de piatră sunt impresionante iarna, dar reci; ideale pentru un tur rapid. Sfat: Purtați încălțăminte cu talpă groasă împotriva frigului de la podea.",
-                "en": "The stone halls are impressive in winter but chilly; ideal for a brisk tour. Tip: Wear thick-soled shoes to protect against the cold from the stone floor."
+                "en": "The stone halls are impressive in winter but chilly; ideal for a brisk tour. Tip: Wear thick-soled shoes to protect against the cold from the stone floor.",
+                "es": "Los salones de piedra impresionan en invierno, aunque son fríos; ideales para una visita ágil. Consejo: Lleva calzado con suela gruesa para protegerte del frío del suelo de piedra."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Fortaleza de la Mota",
                 "hu": "Fortaleza de la Mota",
                 "ro": "Fortaleza de la Mota",
-                "en": "Fortaleza de la Mota"
+                "en": "Fortaleza de la Mota",
+                "es": "Fortaleza de la Mota"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie den Sonnenuntergang gegen 17:00 Uhr von der Festung; die Farben sind im Winter magisch. Tipp: Nehmen Sie eine Thermoskanne mit.",
                 "hu": "Nézze meg a naplementét 17:00 körül a várból; a téli színek ilyenkor varázslatosak. Tipp: Vigyen magával egy termosz meleg teát a falakra.",
                 "ro": "Urmăriți apusul în jurul orei 17:00 din cetate; culorile iernii sunt magice. Sfat: Luați cu dvs. un termos cu ceai cald pe zidurile cetății.",
-                "en": "Watch the sunset around 17:00 from the fortress; winter colors are magical. Tip: Bring a thermos with a hot drink to enjoy on the walls."
+                "en": "Watch the sunset around 17:00 from the fortress; winter colors are magical. Tip: Bring a thermos with a hot drink to enjoy on the walls.",
+                "es": "Contempla la puesta sobre las 17:00 desde la fortaleza; los colores invernales son mágicos. Consejo: Lleva un termo con bebida caliente para disfrutar en las murallas."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Convento de Capuchinos",
             "hu": "Convento de Capuchinos",
             "ro": "Convento de Capuchinos",
-            "en": "Convento de Capuchinos"
+            "en": "Convento de Capuchinos",
+            "es": "Convento de los Capuchinos"
           },
           "coords": [
             -3.921449,
@@ -380,7 +420,8 @@
             "de": "Bewundern Sie die schlichte, aber schöne Fassade dieses ehemaligen Klosters und ruhen Sie sich einen Moment in den schattigen Bereichen der angrenzenden Gärten aus.",
             "hu": "Csodálja meg ennek az egykori kolostornak a szigorú, mégis gyönyörű homlokzatát, és pihenjen egy pillanatot a szomszédos kertek árnyékos részein.",
             "ro": "Admirați fațada austeră, dar frumoasă a acestei foste mănăstiri, care reflectă simplitatea franciscană, și odihniți-vă puțin în zonele umbrite ale grădinilor adiacente.",
-            "en": "Admire the austere yet beautiful facade of this former convent, which reflects Franciscan simplicity, and take a moment to rest in the shaded areas of the adjacent gardens."
+            "en": "Admire the austere yet beautiful facade of this former convent, which reflects Franciscan simplicity, and take a moment to rest in the shaded areas of the adjacent gardens.",
+            "es": "Admira la sobria pero hermosa fachada de este antiguo convento, que refleja la simplicidad franciscana, y tómate un momento para descansar en las zonas sombreadas de los jardines adyacentes."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Mirador de la Cruz del Rayo",
             "hu": "Mirador de la Cruz del Rayo",
             "ro": "Mirador de la Cruz del Rayo",
-            "en": "Mirador de la Cruz del Rayo"
+            "en": "Mirador de la Cruz del Rayo",
+            "es": "Mirador de la Cruz del Rayo"
           },
           "coords": [
             -3.915192,
@@ -403,7 +445,8 @@
             "de": "Genießen Sie von diesem hohen Aussichtspunkt den atemberaubenden Blick über die andalusischen Hügel und bringen Sie Ihre Kamera für unvergessliche Landschaftsfotos mit.",
             "hu": "Élvezze a lélegzetelállító kilátást az andalúz dombokra ebből a magaslati pontból, és feltétlenül hozzon magával fényképezőgépet felejthetetlen tájképek készítéséhez.",
             "ro": "Bucurați-vă de priveliștile uluitoare asupra dealurilor andaluze de la acest punct de belvedere și asigurați-vă că aduceți camera pentru fotografii de peisaj de neuitat.",
-            "en": "Take in the breathtaking sweeping views over the Andalusian hills from this high vantage point, and make sure to bring your camera for unforgettable landscape photography."
+            "en": "Take in the breathtaking sweeping views over the Andalusian hills from this high vantage point, and make sure to bring your camera for unforgettable landscape photography.",
+            "es": "Contempla las impresionantes vistas sobre las colinas andaluzas desde este alto mirador y no olvides traer tu cámara para fotografías de paisaje inolvidables."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Pilar de los Alamos",
             "hu": "Pilar de los Alamos",
             "ro": "Pilar de los Alamos",
-            "en": "Pilar de los Alamos"
+            "en": "Pilar de los Alamos",
+            "es": "Pilar de los Álamos"
           },
           "coords": [
             -3.922413,
@@ -426,7 +470,8 @@
             "de": "Bewundern Sie diesen Renaissance-Brunnen, der einst als Hauptwasserquelle diente, und bringen Sie eine nachfüllbare Flasche mit, um während der Besichtigung hydriert zu bleiben.",
             "hu": "Csodálja meg ezt a reneszánsz kutat, amely egykor a város fő vízforrása volt, és hozzon magával egy újratölthető palackot, hogy hidratált maradjon a kőfaragások megfigyelése közben.",
             "ro": "Admirați această fântână renascentistă, odinioară principala sursă de apă a orașului, și aduceți o sticlă reutilizabilă pentru a vă menține hidratat observând detaliile sculptate.",
-            "en": "Admire this Renaissance fountain, which once served as the town's main water source, and bring a refillable bottle to stay hydrated while observing its intricate stonework."
+            "en": "Admire this Renaissance fountain, which once served as the town's main water source, and bring a refillable bottle to stay hydrated while observing its intricate stonework.",
+            "es": "Admira esta fuente renacentista, que fue la principal fuente de agua del pueblo, y lleva una botella reutilizable para mantenerte hidratado mientras observas su intrincada piedra tallada."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Casas de Enfrente",
             "hu": "Casas de Enfrente",
             "ro": "Casas de Enfrente",
-            "en": "Casas de Enfrente"
+            "en": "Casas de Enfrente",
+            "es": "Casas de Enfrente"
           },
           "coords": [
             -3.924357,
@@ -449,7 +495,8 @@
             "de": "Schlendern Sie an diesen charakteristischen historischen Häusern vorbei, die die lokale Architektur perfekt zeigen, und achten Sie auf die schmiedeeisernen Details der Fenster.",
             "hu": "Sétáljon el ezek mellett a jellegzetes történelmi házak mellett, amelyek tökéletesen bemutatják a helyi építészetet, és szánjon időt az ablakok kovácsoltvas részleteinek megfigyelésére.",
             "ro": "Plimbați-vă pe lângă aceste case istorice caracteristice care prezintă perfect arhitectura vernaculară locală, făcându-vă timp să observați detaliile din fier forjat ale ferestrelor.",
-            "en": "Stroll past these characteristic historical houses that perfectly showcase local vernacular architecture, taking time to notice the wrought-iron details on their windows."
+            "en": "Stroll past these characteristic historical houses that perfectly showcase local vernacular architecture, taking time to notice the wrought-iron details on their windows.",
+            "es": "Pasea junto a estas casas históricas características que muestran a la perfección la arquitectura vernácula local, y fíjate en los detalles de hierro forjado en sus ventanas."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Palacete de la Hilandera",
             "hu": "Palacete de la Hilandera",
             "ro": "Palacete de la Hilandera",
-            "en": "Palacete de la Hilandera"
+            "en": "Palacete de la Hilandera",
+            "es": "Palacete de la Hilandera"
           },
           "coords": [
             -3.925305,
@@ -472,7 +520,8 @@
             "de": "Tauchen Sie in diesem gut erhaltenen Museum in die reiche Textilgeschichte ein und achten Sie auf die interaktiven Web-Displays, um das alte Handwerk besser zu verstehen.",
             "hu": "Merüljön el a gazdag helyi textiltörténelemben ebben a jól megőrzött múzeumkúriában, és keresse az interaktív szövési bemutatókat az ősi mesterség jobb megértéséhez.",
             "ro": "Pătrundeți în istoria bogată a textilelor locale în acest conac-muzeu bine conservat și căutați exponatele interactive de țesut pentru a înțelege mai bine meșteșugul antic.",
-            "en": "Delve into the rich local textile history inside this well-preserved museum mansion, and look for the interactive weaving displays to better understand the ancient craft."
+            "en": "Delve into the rich local textile history inside this well-preserved museum mansion, and look for the interactive weaving displays to better understand the ancient craft.",
+            "es": "Sumérgete en la rica historia textil local dentro de este palacete-museo bien conservado y busca las exposiciones interactivas sobre el tejido para comprender mejor el antiguo oficio."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Torre de la cárcel",
             "hu": "Torre de la cárcel",
             "ro": "Torre de la cárcel",
-            "en": "Torre de la cárcel"
+            "en": "Torre de la cárcel",
+            "es": "Torre de la Cárcel"
           },
           "coords": [
             -3.929252,
@@ -495,7 +545,8 @@
             "de": "Betrachten Sie die imposante Struktur dieses ehemaligen Gefängnisturms, der seit Jahrhunderten über die Stadt wacht, und lesen Sie die Informationstafeln, um mehr zu erfahren.",
             "hu": "Figyelje meg ennek az egykori börtöntoronynak az impozáns szerkezetét, amely évszázadok óta őrzi a várost, és olvassa el a táblákat a változatos felhasználásáról.",
             "ro": "Observați structura impunătoare a acestui fost turn-închisoare care a vegheat asupra orașului timp de secole și citiți plăcile informative pentru a afla despre utilizarile sale.",
-            "en": "Observe the imposing structure of this former prison tower that has watched over the city for centuries, and read the informational plaques to learn about its varied uses."
+            "en": "Observe the imposing structure of this former prison tower that has watched over the city for centuries, and read the informational plaques to learn about its varied uses.",
+            "es": "Observa la imponente estructura de esta antigua torre prisión que ha vigilado la ciudad durante siglos y lee las placas informativas para conocer sus diversos usos."
           }
         },
         {
@@ -503,7 +554,8 @@
             "de": "Fortaleza de la Mota",
             "hu": "Fortaleza de la Mota",
             "ro": "Fortaleza de la Mota",
-            "en": "Fortaleza de la Mota"
+            "en": "Fortaleza de la Mota",
+            "es": "Fortaleza de la Mota"
           },
           "coords": [
             -3.929884,
@@ -518,7 +570,8 @@
             "de": "Steigen Sie zu dieser prächtigen maurischen Festung mit Panoramablick auf die Olivenhaine hinauf und besuchen Sie sie am späten Nachmittag für das beste Licht.",
             "hu": "Másszon fel ehhez a csodálatos mór erődhöz, ahonnan panorámás kilátás nyílik az olajfaligetekre, és próbálja meg késő délután meglátogatni a lenyűgöző arany órai fényekért.",
             "ro": "Urcați la această magnifică fortăreață maură care oferă vederi panoramice ale plantațiilor de măslini și încercați să o vizitați după-amiaza târziu pentru lumina aurie.",
-            "en": "Climb up to this magnificent Moorish fortress offering panoramic views of the olive groves, and try to visit in the late afternoon to catch the stunning golden hour light."
+            "en": "Climb up to this magnificent Moorish fortress offering panoramic views of the olive groves, and try to visit in the late afternoon to catch the stunning golden hour light.",
+            "es": "Sube a esta magnífica fortaleza de origen musulmán que ofrece vistas panorámicas de los olivos; procura visitarla al final de la tarde para disfrutar de la espectacular luz de la hora dorada."
           }
         }
       ],
@@ -526,7 +579,8 @@
         "de": "Beginnen Sie Ihre Radtour am Convento de Capuchinos, bevor Sie zum spektakulären Mirador de la Cruz del Rayo radeln. Mittags erkunden Sie den charmanten historischen Kern und halten am Pilar de los Alamos. Tauchen Sie nach dem Mittagessen im Palacete in die Textilgeschichte ein. Die Abendfahrten enden über den alten Gefängnisturm bis zur gewaltigen Festung.",
         "hu": "Indítsa kerékpáros útját a békés Convento de Capuchinosnál, majd tekerjen fel a Mirador de la Cruz del Rayo kilátóhoz. Délben fedezze fel a bájos történelmi központot, megállva a Pilar de los Alamosnál. Ebéd után merüljön el a textiltörténelemben a Palacetében. Az esti túra a régi börtöntornyon keresztül a hatalmas erődhöz vezet, csodás kilátással.",
         "ro": "Începeți călătoria cu bicicleta la seninul Convento de Capuchinos înainte de a pedala până la spectaculosul Mirador de la Cruz del Rayo. La prânz explorați centrul istoric fermecător, cu opriri la Pilar de los Alamos. După prânz, pătrundeți în istoria textilelor la Palacete. Cursele de seară se încheie trecând prin vechiul turn al închisorii până la fortăreață.",
-        "en": "Kick off your cycling journey at the serene Convento de Capuchinos before pedaling up to the spectacular Mirador de la Cruz del Rayo. Midday involves exploring the town's charming historic core, stopping by the Pilar de los Alamos and unique local mansions. After lunch, delve into textile history at the Palacete. Evening rides conclude via the old prison tower up to the fortress."
+        "en": "Kick off your cycling journey at the serene Convento de Capuchinos before pedaling up to the spectacular Mirador de la Cruz del Rayo. Midday involves exploring the town's charming historic core, stopping by the Pilar de los Alamos and unique local mansions. After lunch, delve into textile history at the Palacete. Evening rides conclude via the old prison tower up to the fortress.",
+        "es": "Comienza tu ruta ciclista en el sereno Convento de los Capuchinos antes de pedalear hasta el espectacular Mirador de la Cruz del Rayo. Al mediodía explora el encantador casco histórico del pueblo, pasando por el Pilar de los Álamos y las singulares casas señoriales. Tras el almuerzo, profundiza en la historia textil en el Palacete. Las rutas vespertinas concluyen pasando por la antigua torre prisión hasta la fortaleza."
       },
       "variants": {
         "rainy": {
@@ -534,7 +588,8 @@
             "de": "Wir brechen vorsichtig im morgendlichen Regen auf. Mittags trocknen wir bei überdachten Museumsbesuchen. Nachmittags radeln wir zur Festung, Vorsicht beim Bremsen auf nasser Fahrbahn. Der Abend endet mit dem Sichern der Räder und einem heißen Getränk.",
             "hu": "A reggeli esőben óvatosan vágunk neki a távnak. Délben fedett múzeumi megállóknál száradunk meg. Délután a várhoz tekerünk fel, figyelve a féktávra a vizes aszfalton. Az este a kerékpárok biztonságos elhelyezésével és egy forró itallal ér véget.",
             "ro": "Plecăm cu grijă în ploaia de dimineață. La prânz ne uscăm la opriri în muzee acoperite. După-amiaza urcăm cu bicicleta la fortăreață, atenți la distanța de frânare pe asfaltul ud. Seara se încheie cu securizarea bicicletelor și o băutură caldă.",
-            "en": "We set off carefully in the morning rain. At noon, we dry off at covered museum stops. In the afternoon, we cycle up to the fortress, minding the braking distance on wet asphalt. The evening ends with securing the bikes and a hot drink."
+            "en": "We set off carefully in the morning rain. At noon, we dry off at covered museum stops. In the afternoon, we cycle up to the fortress, minding the braking distance on wet asphalt. The evening ends with securing the bikes and a hot drink.",
+            "es": "Partimos con cuidado bajo la lluvia matinal. Al mediodía nos secamos en paradas en museos cubiertos. Por la tarde subimos en bici hasta la fortaleza, cuidando la distancia de frenado sobre el asfalto mojado. La noche termina asegurando las bicicletas y con una bebida caliente."
           },
           "stops": [
             {
@@ -542,13 +597,15 @@
                 "de": "Convento de Capuchinos",
                 "hu": "Convento de Capuchinos",
                 "ro": "Convento de Capuchinos",
-                "en": "Convento de Capuchinos"
+                "en": "Convento de Capuchinos",
+                "es": "Convento de los Capuchinos"
               },
               "tip_5lang": {
                 "de": "Besichtigen Sie die Ausstellungen im Inneren, während der Regen draußen trommelt. Tipp: Prüfen Sie die Griffigkeit Ihrer Reifen auf den nassen Fliesen.",
                 "hu": "Tekintse meg a benti kiállításokat, miközben kint kopog az eső. Tipp: Ellenőrizze a gumik tapadását a vizes csempéken a bejáratnál.",
                 "ro": "Vizitați expozițiile din interior în timp ce ploaia bate afară. Sfat: Verificați aderența anvelopelor pe plăcile umede de la intrare.",
-                "en": "View the indoor exhibits while the rain drums outside. Tip: Check your tire grip on the wet tiles near the entrance area."
+                "en": "View the indoor exhibits while the rain drums outside. Tip: Check your tire grip on the wet tiles near the entrance area.",
+                "es": "Visita las exposiciones interiores mientras la lluvia golpea afuera. Consejo: comprueba el agarre de tus cubiertas en las losetas mojadas cerca de la entrada."
               }
             },
             {
@@ -556,13 +613,15 @@
                 "de": "Mirador de la Cruz del Rayo",
                 "hu": "Mirador de la Cruz del Rayo",
                 "ro": "Mirador de la Cruz del Rayo",
-                "en": "Mirador de la Cruz del Rayo"
+                "en": "Mirador de la Cruz del Rayo",
+                "es": "Mirador de la Cruz del Rayo"
               },
               "tip_5lang": {
                 "de": "Die Aussicht auf das neblige Tal ist bei Regen besonders stimmungsvoll. Tipp: Achten Sie bei der Abfahrt auf die Bremswirkung bei Nässe.",
                 "hu": "A ködös völgyre nyíló kilátás esőben különösen hangulatos. Tipp: A lejtőn lefelé ügyeljen a megnövekedett féktávolságra a vizes úton.",
                 "ro": "Vederea spre valea cețoasă este deosebit de sugestivă pe ploaie. Sfat: La coborâre, aveți grijă la distanța de frânare pe drumul ud.",
-                "en": "The view of the misty valley is particularly atmospheric in the rain. Tip: Watch your braking distance on the descent on wet roads."
+                "en": "The view of the misty valley is particularly atmospheric in the rain. Tip: Watch your braking distance on the descent on wet roads.",
+                "es": "La vista del valle envuelto en niebla resulta especialmente atmosférica con lluvia. Consejo: vigila la distancia de frenado en el descenso por carreteras mojadas."
               }
             },
             {
@@ -570,13 +629,15 @@
                 "de": "Pilar de los Alamos",
                 "hu": "Pilar de los Alamos",
                 "ro": "Pilar de los Alamos",
-                "en": "Pilar de los Alamos"
+                "en": "Pilar de los Alamos",
+                "es": "Pilar de los Álamos"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp am Renaissance-Brunnen; das Wasser fließt aus allen Röhren. Tipp: Eine Regenjacke mit Kapuze ist für Radfahrer hier unverzichtbar.",
                 "hu": "Rövid megálló a reneszánsz kútnál; a víz minden csatornából árad. Tipp: Egy kapucnis esőkabát elengedhetetlen a kerékpárosoknak ezen a szakaszon.",
                 "ro": "O scurtă oprire la fântâna renascentistă; apa curge din plin. Sfat: O pelerină de ploaie cu glugă este indispensabilă pentru bicicliști aici.",
-                "en": "A brief stop at the Renaissance fountain; the water flows from all spouts. Tip: A hooded rain jacket is indispensable for cyclists on this section."
+                "en": "A brief stop at the Renaissance fountain; the water flows from all spouts. Tip: A hooded rain jacket is indispensable for cyclists on this section.",
+                "es": "Breve parada en la fuente renacentista; el agua brota por todos los caños. Consejo: una chaqueta impermeable con capucha es imprescindible para los ciclistas en este tramo."
               }
             },
             {
@@ -584,13 +645,15 @@
                 "de": "Casas de Enfrente",
                 "hu": "Casas de Enfrente",
                 "ro": "Casas de Enfrente",
-                "en": "Casas de Enfrente"
+                "en": "Casas de Enfrente",
+                "es": "Casas de Enfrente"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur im Vorbeifahren unter dem Regenschutz. Tipp: Achten Sie auf Pfützen, die die Beschaffenheit des Straßenbelags verbergen.",
                 "hu": "Csodálja meg az építészetet elhaladva, az esővédő alatt. Tipp: Vigyázzon a tócsákkal, mert elrejthetik az útburkolat egyenetlenségeit.",
                 "ro": "Admirați arhitectura în trecere, sub protecția pelerinei. Sfat: Atenție la bălți, deoarece pot ascunde denivelările suprafeței drumului.",
-                "en": "Admire the architecture as you pass by under your rain gear. Tip: Watch out for puddles that might hide irregularities in the road surface."
+                "en": "Admire the architecture as you pass by under your rain gear. Tip: Watch out for puddles that might hide irregularities in the road surface.",
+                "es": "Admira la arquitectura mientras pasan bajo tu equipo de lluvia. Consejo: ten cuidado con los charcos que pueden ocultar irregularidades en la calzada."
               }
             },
             {
@@ -598,13 +661,15 @@
                 "de": "Palacete de la Hilandera",
                 "hu": "Palacete de la Hilandera",
                 "ro": "Palacete de la Hilandera",
-                "en": "Palacete de la Hilandera"
+                "en": "Palacete de la Hilandera",
+                "es": "Palacete de la Hilandera"
               },
               "tip_5lang": {
                 "de": "Dieses Museum ist der perfekte Ort, um sich aufzuwärmen und abzutrocknen. Tipp: Nutzen Sie den Abstellraum für nasse Helme und Jacken.",
                 "hu": "Ez a múzeum tökéletes hely a bemelegedésre és a megszáradásra. Tipp: Használja a tárolót a vizes sisakok és kabátok elhelyezésére a látogatás alatt.",
                 "ro": "Acest muzeu este locul perfect pentru a vă încălzi și usca. Sfat: Folosiți spațiul de depozitare pentru căștile și jachetele ude în timpul vizitei.",
-                "en": "This museum is the perfect place to warm up and dry off. Tip: Use the storage area for wet helmets and jackets during your visit."
+                "en": "This museum is the perfect place to warm up and dry off. Tip: Use the storage area for wet helmets and jackets during your visit.",
+                "es": "Este museo es el lugar perfecto para entrar en calor y secarse. Consejo: usa la zona de almacenamiento para cascos y chaquetas húmedas durante la visita."
               }
             },
             {
@@ -612,13 +677,15 @@
                 "de": "Torre de la cárcel",
                 "hu": "Torre de la cárcel",
                 "ro": "Torre de la cárcel",
-                "en": "Torre de la cárcel"
+                "en": "Torre de la cárcel",
+                "es": "Torre de la Cárcel"
               },
               "tip_5lang": {
                 "de": "Der Turm wirkt im Regen düster und imposant. Tipp: Prüfen Sie Ihre Ausrüstung, bevor Sie die letzte Etappe zur Festung antreten.",
                 "hu": "A torony esőben komornak és tekintélyt parancsolónak tűnik. Tipp: Ellenőrizze felszerelését, mielőtt megkezdi az utolsó szakaszt a várig.",
                 "ro": "Turnul pare sumbru și impunător pe ploaie. Sfat: Verificați-vă echipamentul înainte de a începe ultima etapă spre fortăreață.",
-                "en": "The tower looks gloomy and imposing in the rain. Tip: Check your gear before starting the final leg of the climb to the fortress."
+                "en": "The tower looks gloomy and imposing in the rain. Tip: Check your gear before starting the final leg of the climb to the fortress.",
+                "es": "La torre se muestra sombría e imponente bajo la lluvia. Consejo: comprueba tu equipo antes de afrontar el tramo final de subida a la fortaleza."
               }
             },
             {
@@ -626,13 +693,15 @@
                 "de": "Fortaleza de la Mota",
                 "hu": "Fortaleza de la Mota",
                 "ro": "Fortaleza de la Mota",
-                "en": "Fortaleza de la Mota"
+                "en": "Fortaleza de la Mota",
+                "es": "Fortaleza de la Mota"
               },
               "tip_5lang": {
                 "de": "Der Anstieg ist mühsam, aber die trockene Abtei entschädigt für alles. Tipp: Stellen Sie Ihr Rad an einem windgeschützten Ort ab.",
                 "hu": "A felfelé vezető út fárasztó esőben, de a száraz apátság kárpótol mindenért. Tipp: Kösse le kerékpárját egy szélvédett helyen.",
                 "ro": "Urcarea este obositoare pe ploaie, dar abația uscată compensează totul. Sfat: Parcați bicicleta într-un loc ferit de vânt.",
-                "en": "The climb is tiring in the rain, but the dry abbey compensates for everything. Tip: Park your bike in a spot sheltered from the wind."
+                "en": "The climb is tiring in the rain, but the dry abbey compensates for everything. Tip: Park your bike in a spot sheltered from the wind.",
+                "es": "La subida es fatigosa bajo la lluvia, pero la abadía seca compensa todo. Consejo: aparca la bicicleta en un lugar resguardado del viento."
               }
             }
           ]
@@ -642,7 +711,8 @@
             "de": "Wir beginnen die Fahrt im kühlen Winterwind mit Handschuhen. Mittags machen wir längere Pausen drinnen zum Aufwärmen. Nachmittags eilen wir zur Festung für das Panorama im Hellen. Wegen der frühen Dunkelheit sind wir abends schon im Zentrum.",
             "hu": "A hűvös téli szélben kezdjük a tekerést, kesztyűben. Délben hosszabb benti szüneteket tartunk a átmelegedéshez. Délután sietünk a várhoz, hogy még világosban lássuk a panorámát. Az este a korai sötétedés miatt már a város központjában talál minket.",
             "ro": "Începem plimbarea în vântul rece de iarnă, purtând mănuși. La prânz facem pauze mai lungi în interior pentru a ne încălzi. După-amiaza grăbim spre cetate pentru panoramă pe lumină. Din cauza întunericului timpuriu, seara ne găsește în centru.",
-            "en": "We start cycling in the cool winter wind, wearing gloves. At noon, we take longer indoor breaks to warm up. In the afternoon, we hurry to the fortress to see the panorama while it's light. Due to the early dark, the evening finds us in the city center."
+            "en": "We start cycling in the cool winter wind, wearing gloves. At noon, we take longer indoor breaks to warm up. In the afternoon, we hurry to the fortress to see the panorama while it's light. Due to the early dark, the evening finds us in the city center.",
+            "es": "Comenzamos a pedalear con el fresco viento invernal, llevando guantes. Al mediodía hacemos paradas interiores más largas para entrar en calor. Por la tarde nos apresuramos hacia la fortaleza para ver el panorama con luz. Debido a la pronta oscuridad, la noche nos encuentra en el centro del pueblo."
           },
           "stops": [
             {
@@ -650,13 +720,15 @@
                 "de": "Convento de Capuchinos",
                 "hu": "Convento de Capuchinos",
                 "ro": "Convento de Capuchinos",
-                "en": "Convento de Capuchinos"
+                "en": "Convento de Capuchinos",
+                "es": "Convento de los Capuchinos"
               },
               "tip_5lang": {
                 "de": "Starten Sie drinnen, um sich aufzuwärmen, bevor Sie in den kalten Wind gehen. Tipp: Tragen Sie winddichte Handschuhe für den ersten Teil der Fahrt.",
                 "hu": "Kezdjen bent a bemelegedéshez, mielőtt kimegy a hideg szélbe. Tipp: Viseljen szélálló kesztyűt az út első szakaszán a kezek védelmére.",
                 "ro": "Începeți în interior pentru a vă încălzi înainte de a ieși în vântul rece. Sfat: Purtați mănuși rezistente la vânt pentru prima parte a drumului.",
-                "en": "Start indoors to warm up before heading out into the cold wind. Tip: Wear windproof gloves for the first part of the ride to protect your hands."
+                "en": "Start indoors to warm up before heading out into the cold wind. Tip: Wear windproof gloves for the first part of the ride to protect your hands.",
+                "es": "Comienza en el interior para entrar en calor antes de salir al viento frío. Consejo: usa guantes cortavientos durante la primera parte del recorrido para proteger las manos."
               }
             },
             {
@@ -664,13 +736,15 @@
                 "de": "Mirador de la Cruz del Rayo",
                 "hu": "Mirador de la Cruz del Rayo",
                 "ro": "Mirador de la Cruz del Rayo",
-                "en": "Mirador de la Cruz del Rayo"
+                "en": "Mirador de la Cruz del Rayo",
+                "es": "Mirador de la Cruz del Rayo"
               },
               "tip_5lang": {
                 "de": "Die klare Winterluft ermöglicht weite Blicke bis zur Sierra Nevada. Tipp: Am Aussichtspunkt zieht es stark; halten Sie die Pause kurz, um nicht auszukühlen.",
                 "hu": "A tiszta téli levegőben ellátni egészen a Sierra Nevadáig. Tipp: A kilátónál erős a huzat; tartsa rövidre a pihenőt, hogy ne hűljön ki a teste.",
                 "ro": "Aerul curat de iarnă permite vederi până la Sierra Nevada. Sfat: La belvedere este curent puternic; faceți o pauză scurtă pentru a nu răci.",
-                "en": "The clear winter air allows for distant views as far as the Sierra Nevada. Tip: It’s very windy at the viewpoint; keep the break short to stay warm."
+                "en": "The clear winter air allows for distant views as far as the Sierra Nevada. Tip: It’s very windy at the viewpoint; keep the break short to stay warm.",
+                "es": "El aire claro de invierno permite ver hasta la Sierra Nevada. Consejo: hace mucho viento en el mirador; mantén la parada breve para no enfriarte."
               }
             },
             {
@@ -678,13 +752,15 @@
                 "de": "Pilar de los Alamos",
                 "hu": "Pilar de los Alamos",
                 "ro": "Pilar de los Alamos",
-                "en": "Pilar de los Alamos"
+                "en": "Pilar de los Alamos",
+                "es": "Pilar de los Álamos"
               },
               "tip_5lang": {
                 "de": "Das Wasser des Brunnens wirkt im Winter eiskalt und erfrischend. Tipp: Ein kurzer Halt reicht, um die Details zu bewundern, ohne die Beine steif werden zu lassen.",
                 "hu": "A kút vize télen jéghidegnek és frissítőnek tűnik. Tipp: Egy rövid megálló elég a részletek megcsodálásához, hogy ne merevedjenek el a lábai a hidegben.",
                 "ro": "Apa fântânii pare înghețată și revigorantă iarna. Sfat: O oprire scurtă este suficientă pentru detalii, fără ca picioarele să vă înțepenească de frig.",
-                "en": "The fountain water looks icy and refreshing in winter. Tip: A short stop is enough to admire the details without letting your legs get stiff from the cold."
+                "en": "The fountain water looks icy and refreshing in winter. Tip: A short stop is enough to admire the details without letting your legs get stiff from the cold.",
+                "es": "El agua de la fuente parece helada y refrescante en invierno. Consejo: una parada corta basta para admirar los detalles sin entumecer las piernas por el frío."
               }
             },
             {
@@ -692,13 +768,15 @@
                 "de": "Casas de Enfrente",
                 "hu": "Casas de Enfrente",
                 "ro": "Casas de Enfrente",
-                "en": "Casas de Enfrente"
+                "en": "Casas de Enfrente",
+                "es": "Casas de Enfrente"
               },
               "tip_5lang": {
                 "de": "Die tiefe Sonne betont die Schattenrisse der historischen Gebäude. Tipp: Treten Sie kräftig in die Pedale, um die Blutzirkulation in den Füßen anzuregen.",
                 "hu": "Az alacsonyan járó nap kiemeli a történelmi épületek kontúrjait. Tipp: Tekerjen intenzívebben ezen a szakaszon, hogy javítsa lábai vérkeringését.",
                 "ro": "Soarele jos scoate în evidență contururile clădirilor istorice. Sfat: Pedalați mai intens pe această porțiune pentru a stimula circulația în picioare.",
-                "en": "The low sun emphasizes the contours of the historic buildings. Tip: Pedal more vigorously on this section to keep the circulation in your feet going."
+                "en": "The low sun emphasizes the contours of the historic buildings. Tip: Pedal more vigorously on this section to keep the circulation in your feet going.",
+                "es": "El sol bajo realza los contornos de los edificios históricos. Consejo: pedalea con más fuerza en este tramo para mantener la circulación en los pies."
               }
             },
             {
@@ -706,13 +784,15 @@
                 "de": "Palacete de la Hilandera",
                 "hu": "Palacete de la Hilandera",
                 "ro": "Palacete de la Hilandera",
-                "en": "Palacete de la Hilandera"
+                "en": "Palacete de la Hilandera",
+                "es": "Palacete de la Hilandera"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort für eine längere Pause im warmen Museumsbereich. Tipp: Wärmen Sie sich gut auf, bevor Sie den letzten Anstieg zur Mota beginnen.",
                 "hu": "Ideális helyszín egy hosszabb pihenőhöz a meleg múzeumban. Tipp: Melegedjen fel alaposan, mielőtt megkezdi az utolsó emelkedőt a Mota felé.",
                 "ro": "Locul ideal pentru o pauză mai lungă în muzeul călduros. Sfat: Încălziți-vă bine înainte de a începe ultima urcare spre Mota.",
-                "en": "An ideal spot for a longer break in the warm museum area. Tip: Warm up thoroughly before starting the final ascent towards the fortress."
+                "en": "An ideal spot for a longer break in the warm museum area. Tip: Warm up thoroughly before starting the final ascent towards the fortress.",
+                "es": "Un lugar ideal para una parada larga en el cálido espacio del museo. Consejo: entra en calor bien antes de afrontar la ascensión final hacia la fortaleza."
               }
             },
             {
@@ -720,13 +800,15 @@
                 "de": "Torre de la cárcel",
                 "hu": "Torre de la cárcel",
                 "ro": "Torre de la cárcel",
-                "en": "Torre de la cárcel"
+                "en": "Torre de la cárcel",
+                "es": "Torre de la Cárcel"
               },
               "tip_5lang": {
                 "de": "Kurzer Fotostopp; die langen Schatten machen den Turm noch imposanter. Tipp: Stellen Sie sicher, dass Ihre Fahrradlichter für die baldige Dämmerung bereit sind.",
                 "hu": "Gyors fotómegálló; a hosszú árnyékok még impozánsabbá teszik a tornyot. Tipp: Ellenőrizze, hogy a lámpái készen állnak-e a korai szürkületre.",
                 "ro": "Oprire rapidă pentru poze; umbrele lungi fac turnul și mai impunător. Sfat: Asigurați-vă că luminile bicicletei sunt gata pentru amurgul timpuriu.",
-                "en": "Quick photo stop; the long shadows make the tower look even more imposing. Tip: Make sure your bike lights are ready for the early twilight."
+                "en": "Quick photo stop; the long shadows make the tower look even more imposing. Tip: Make sure your bike lights are ready for the early twilight.",
+                "es": "Parada rápida para fotos; las sombras alargadas hacen la torre aún más imponente. Consejo: asegúrate de que las luces de la bicicleta estén listas para el crepúsculo temprano."
               }
             },
             {
@@ -734,13 +816,15 @@
                 "de": "Fortaleza de la Mota",
                 "hu": "Fortaleza de la Mota",
                 "ro": "Fortaleza de la Mota",
-                "en": "Fortaleza de la Mota"
+                "en": "Fortaleza de la Mota",
+                "es": "Fortaleza de la Mota"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Panoramablick vor 17:00 Uhr; danach sinken die Temperaturen rapide. Tipp: Tragen Sie eine Mütze unter dem Helm für die Abfahrt.",
                 "hu": "Élvezze a panorámát 17:00 előtt; utána a hőmérséklet gyorsan csökken. Tipp: Viseljen vékony sapkát a sisak alatt a visszaúthoz.",
                 "ro": "Bucurați-vă de panoramă înainte de ora 17:00; apoi temperaturile scad rapid. Sfat: Purtați o căciulă subțire sub cască pentru drumul de întoarcere.",
-                "en": "Enjoy the panoramic view before 17:00; after that, temperatures drop rapidly. Tip: Wear a thin cap under your helmet for the descent."
+                "en": "Enjoy the panoramic view before 17:00; after that, temperatures drop rapidly. Tip: Wear a thin cap under your helmet for the descent.",
+                "es": "Disfruta de la vista panorámica antes de las 17:00; después de esa hora las temperaturas bajan rápidamente. Consejo: lleva un gorro fino bajo el casco para el descenso."
               }
             }
           ]
@@ -760,7 +844,8 @@
             "de": "Beeldhouwwerk rotsen",
             "hu": "Beeldhouwwerk rotsen",
             "ro": "Beeldhouwwerk rotsen",
-            "en": "Beeldhouwwerk rotsen"
+            "en": "Beeldhouwwerk rotsen",
+            "es": "Esculturas en roca"
           },
           "coords": [
             -3.923364,
@@ -775,7 +860,8 @@
             "de": "Erkunden Sie diese faszinierenden Felsenskulpturen, die Natur und Kunst verbinden, und tragen Sie bequeme Wanderschuhe, um das unebene Gelände leicht zu überqueren.",
             "hu": "Fedezze fel ezeket a lenyűgöző sziklaszobrokat, amelyek ötvözik a természetet és a művészetet a szabadban, és viseljen kényelmes cipőt az egyenetlen terep bejárásához.",
             "ro": "Explorați aceste sculpturi fascinante în stâncă ce îmbină natura și arta în aer liber și purtați încălțăminte confortabilă pentru a traversa ușor terenul accidentat din jur.",
-            "en": "Explore these fascinating rock sculptures blending nature and art in an outdoor setting, and wear comfortable walking shoes to traverse the uneven terrain around them easily."
+            "en": "Explore these fascinating rock sculptures blending nature and art in an outdoor setting, and wear comfortable walking shoes to traverse the uneven terrain around them easily.",
+            "es": "Explora estas fascinantes esculturas en roca que mezclan naturaleza y arte en un entorno al aire libre, y lleva calzado cómodo para caminar por el terreno irregular que las rodea."
           }
         },
         {
@@ -783,7 +869,8 @@
             "de": "Iglesia de Consolación",
             "hu": "Iglesia de Consolación",
             "ro": "Iglesia de Consolación",
-            "en": "Iglesia de Consolación"
+            "en": "Iglesia de Consolación",
+            "es": "Iglesia de la Consolación"
           },
           "coords": [
             -3.924373,
@@ -798,7 +885,8 @@
             "de": "Besuchen Sie diese große Kirche, die für ihr beeindruckendes Altarbild bekannt ist, und denken Sie daran, sich bescheiden zu kleiden und leise zu sein.",
             "hu": "Látogasson el ebbe a lenyűgöző oltárképéről ismert nagyszerű templomba, de ne feledjen szerényen öltözködni és halkan beszélni a misék idején.",
             "ro": "Vizitați această biserică grandioasă cunoscută pentru altarul său impresionant și atmosfera senină, amintindu-vă să vă îmbrăcați modest și să păstrați liniștea.",
-            "en": "Visit this grand church known for its impressive altarpiece and serene atmosphere, but remember to dress modestly and keep your voice down during service hours."
+            "en": "Visit this grand church known for its impressive altarpiece and serene atmosphere, but remember to dress modestly and keep your voice down during service hours.",
+            "es": "Visita esta imponente iglesia conocida por su magnífico retablo y su ambiente sereno; recuerda vestir de forma modesta y hablar en voz baja durante las horas de culto."
           }
         },
         {
@@ -806,7 +894,8 @@
             "de": "Museo de la Religiosidad Popular",
             "hu": "Museo de la Religiosidad Popular",
             "ro": "Museo de la Religiosidad Popular",
-            "en": "Museo de la Religiosidad Popular"
+            "en": "Museo de la Religiosidad Popular",
+            "es": "Museo de la Religiosidad Popular"
           },
           "coords": [
             -3.927422,
@@ -821,7 +910,8 @@
             "de": "Tauchen Sie durch umfangreiche Artefaktsammlungen in die tiefen religiösen Traditionen der Region ein und planen Sie mindestens eine Stunde für die detaillierten Exponate ein.",
             "hu": "Merüljön el a régió mély vallási hagyományaiban kiterjedt műtárgygyűjteményeken keresztül, és szánjon legalább egy órát a részletes kiállítások teljes értékelésére.",
             "ro": "Cufundați-vă în profunde tradiții religioase ale regiunii prin colecții extinse de artefacte și alocați cel puțin o oră pentru a aprecia pe deplin exponatele detaliate.",
-            "en": "Immerse yourself in the profound religious traditions of the region through extensive artifact collections, and allocate at least an hour to fully appreciate the detailed exhibits."
+            "en": "Immerse yourself in the profound religious traditions of the region through extensive artifact collections, and allocate at least an hour to fully appreciate the detailed exhibits.",
+            "es": "Sumérgete en las profundas tradiciones religiosas de la región a través de extensas colecciones de objetos y reserva al menos una hora para apreciar detalladamente las exposiciones."
           }
         },
         {
@@ -829,7 +919,8 @@
             "de": "Antiguo Convento de la Trinidad",
             "hu": "Antiguo Convento de la Trinidad",
             "ro": "Antiguo Convento de la Trinidad",
-            "en": "Antiguo Convento de la Trinidad"
+            "en": "Antiguo Convento de la Trinidad",
+            "es": "Antiguo Convento de la Trinidad"
           },
           "coords": [
             -3.928351,
@@ -844,7 +935,8 @@
             "de": "Bewundern Sie die klassische Anlage dieses historischen Klosterkomplexes mit einem schönen Kreuzgang und versuchen Sie, früh am Tag zu kommen, wenn es ruhig ist.",
             "hu": "Csodálja meg ennek a történelmi kolostorkomplexumnak a klasszikus elrendezését, amelynek gyönyörű kerengője van, és próbáljon meg korán érkezni, amikor az udvarok csendesek.",
             "ro": "Admirați aspectul clasic al acestui complex monahal istoric ce are o mănăstire frumoasă și încercați să vizitați dimineața devreme când curțile interioare sunt liniștite.",
-            "en": "Admire the classic layout of this historical convent complex which features a beautiful cloister, and try to visit early in the day when the courtyards are tranquil and quiet."
+            "en": "Admire the classic layout of this historical convent complex which features a beautiful cloister, and try to visit early in the day when the courtyards are tranquil and quiet.",
+            "es": "Admira la distribución clásica de este conjunto conventual histórico que cuenta con un hermoso claustro; procura visitarlo temprano, cuando los patios están tranquilos."
           }
         },
         {
@@ -852,7 +944,8 @@
             "de": "Fortaleza de la Mota",
             "hu": "Fortaleza de la Mota",
             "ro": "Fortaleza de la Mota",
-            "en": "Fortaleza de la Mota"
+            "en": "Fortaleza de la Mota",
+            "es": "Fortaleza de la Mota"
           },
           "coords": [
             -3.929884,
@@ -867,7 +960,8 @@
             "de": "Steigen Sie zu dieser prächtigen maurischen Festung mit Panoramablick auf die Olivenhaine hinauf und besuchen Sie sie am späten Nachmittag für das beste Licht.",
             "hu": "Másszon fel ehhez a csodálatos mór erődhöz, ahonnan panorámás kilátás nyílik az olajfaligetekre, és próbálja meg késő délután meglátogatni a lenyűgöző arany órai fényekért.",
             "ro": "Urcați la această magnifică fortăreață maură care oferă vederi panoramice ale plantațiilor de măslini și încercați să o vizitați după-amiaza târziu pentru lumina aurie.",
-            "en": "Climb up to this magnificent Moorish fortress offering panoramic views of the olive groves, and try to visit in the late afternoon to catch the stunning golden hour light."
+            "en": "Climb up to this magnificent Moorish fortress offering panoramic views of the olive groves, and try to visit in the late afternoon to catch the stunning golden hour light.",
+            "es": "Sube a esta magnífica fortaleza de origen musulmán que ofrece vistas panorámicas de los olivos; procura visitarla al final de la tarde para disfrutar de la espectacular luz de la hora dorada."
           }
         }
       ],
@@ -875,7 +969,8 @@
         "de": "Beginnen Sie Ihre Autotour am Stadtrand mit den faszinierenden Felsskulpturen Beeldhouwwerk rotsen. Fahren Sie mittags in die Stadt, um die Iglesia de Consolación zu bewundern und das Museo de la Religiosidad Popular zu erkunden. Der Nachmittag konzentriert sich auf das architektonische Erbe im alten Kloster. Beenden Sie den Tag an der ikonischen Fortaleza de la Mota.",
         "hu": "Kezdje autós túráját a külvárosban a lenyűgöző Beeldhouwwerk rotsen sziklaszobrokkal. Délben induljon a városba, hogy megcsodálja a Consolación templomot és felfedezze a Vallásosság Múzeumát. A délután a grandiózus építészeti örökségre összpontosít, áthaladva a régi kolostoron. Zárja a napot az ikonikus Fortaleza de la Motánál, élvezve a pazar látványt.",
         "ro": "Începeți turul cu mașina la periferie cu fascinantele sculpturi în stâncă Beeldhouwwerk rotsen. La prânz, mergeți în oraș pentru a admira Iglesia de Consolación și a explora Museo de la Religiosidad Popular. După-amiaza se concentrează pe moștenirea arhitecturală grandioasă, vizitând vechea mănăstire. Încheiați la emblematica Fortaleza de la Mota.",
-        "en": "Start your driving tour at the outskirts with the fascinating Beeldhouwwerk rotsen rock sculptures. By midday, head into the town to admire the Iglesia de Consolación and explore the Museo de la Religiosidad Popular. The afternoon focuses on the grand architectural heritage, transitioning through the Antiguo Convento de la Trinidad. End at the iconic Fortaleza de la Mota."
+        "en": "Start your driving tour at the outskirts with the fascinating Beeldhouwwerk rotsen rock sculptures. By midday, head into the town to admire the Iglesia de Consolación and explore the Museo de la Religiosidad Popular. The afternoon focuses on the grand architectural heritage, transitioning through the Antiguo Convento de la Trinidad. End at the iconic Fortaleza de la Mota.",
+        "es": "Comienza tu ruta en coche en las afueras con las fascinantes esculturas en roca Beeldhouwwerk rotsen. Al mediodía, dirígete al pueblo para admirar la Iglesia de la Consolación y visitar el Museo de la Religiosidad Popular. La tarde se centra en el gran patrimonio arquitectónico, pasando por el Antiguo Convento de la Trinidad. Termina en la icónica Fortaleza de la Mota."
       },
       "variants": {
         "rainy": {
@@ -883,7 +978,8 @@
             "de": "Im morgendlichen Schauer genießen wir die Landschaft bequem vom Auto aus. Mittags parken wir direkt an Kirche und Museum. Nachmittags fahren wir im dichten Nebel zum Festungstor. Den Abend verbringen wir an einem Aussichtspunkt mit Blick auf das verregnete Tal.",
             "hu": "A reggeli záporban kényelmesen, az autóból nézzük a tájat. Délben a templom és múzeum előtt parkolunk le a gyors bejutáshoz. Délután a vár kapujáig hajtunk a sűrű ködben. Az estét egy panorámás helyen töltjük, nézve az eső áztatta völgyet.",
             "ro": "În aversa de dimineață, admirăm peisajul confortabil din mașină. La prânz parcăm chiar lângă biserică și muzeu pentru acces rapid. După-amiaza conducem până la poarta cetății prin ceață deasă. Seara o petrecem într-un punct panoramic, privind valea udată de ploaie.",
-            "en": "In the morning shower, we enjoy the landscape comfortably from the car. At noon, we park right by the church and museum for quick entry. In the afternoon, we drive to the fortress gate through thick mist. We spend the evening at a scenic spot, watching the rain-soaked valley."
+            "en": "In the morning shower, we enjoy the landscape comfortably from the car. At noon, we park right by the church and museum for quick entry. In the afternoon, we drive to the fortress gate through thick mist. We spend the evening at a scenic spot, watching the rain-soaked valley.",
+            "es": "Con el aguacero matinal disfrutamos del paisaje cómodamente desde el coche. Al mediodía aparcamos junto a la iglesia y el museo para una entrada rápida. Por la tarde conducimos hasta la puerta de la fortaleza a través de una niebla espesa. La noche la pasamos en un mirador, contemplando el valle empapado por la lluvia."
           },
           "stops": [
             {
@@ -891,13 +987,15 @@
                 "de": "Beeldhouwwerk rotsen",
                 "hu": "Beeldhouwwerk rotsen",
                 "ro": "Beeldhouwwerk rotsen",
-                "en": "Beeldhouwwerk rotsen"
+                "en": "Beeldhouwwerk rotsen",
+                "es": "Beeldhouwwerk rotsen"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die Felsformationen aus dem Auto; der Regen verstärkt die Farben des Gesteins. Tipp: Die Scheibenwischer auf Intervall halten für beste Sicht.",
                 "hu": "Csodálja meg a sziklaformációkat az autóból; az eső felerősíti a kőzet színeit. Tipp: Tartsa az ablaktörlőt szakaszos üzemmódon a legjobb kilátáshoz.",
                 "ro": "Admirați formațiunile stâncoase din mașină; ploaia intensifică culorile rocii. Sfat: Mențineți ștergătoarele pe modul intermitent pentru cea mai bună vizibilitate.",
-                "en": "Admire the rock formations from the car; the rain intensifies the colors of the stone. Tip: Keep the wipers on interval mode for the best view."
+                "en": "Admire the rock formations from the car; the rain intensifies the colors of the stone. Tip: Keep the wipers on interval mode for the best view.",
+                "es": "Admira las formaciones rocosas desde el coche; la lluvia intensifica los colores de la piedra. Consejo: deja los limpiaparabrisas en modo intermitente para obtener la mejor vista."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Iglesia de Consolación",
                 "hu": "Iglesia de Consolación",
                 "ro": "Iglesia de Consolación",
-                "en": "Iglesia de Consolación"
+                "en": "Iglesia de Consolación",
+                "es": "Iglesia de la Consolación"
               },
               "tip_5lang": {
                 "de": "Parken Sie in der Nähe des Eingangs, um schnell ins trockene Innere zu gelangen. Tipp: Achten Sie beim Aussteigen auf tiefere Pfützen am Fahrbahnrand.",
                 "hu": "Parkoljon a bejárat közelében, hogy gyorsan bejusson a száraz belső térbe. Tipp: Kiszálláskor ügyeljen az út szélén kialakuló mélyebb tócsákra.",
                 "ro": "Parcați aproape de intrare pentru a ajunge rapid în interiorul uscat. Sfat: La coborâre, aveți grijă la bălțile mai adânci formate la marginea drumului.",
-                "en": "Park near the entrance to quickly get into the dry interior. Tip: Watch out for deeper puddles at the edge of the road when getting out of the car."
+                "en": "Park near the entrance to quickly get into the dry interior. Tip: Watch out for deeper puddles at the edge of the road when getting out of the car.",
+                "es": "Aparca cerca de la entrada para acceder rápidamente al interior seco. Consejo: ten cuidado con charcos profundos en el borde de la carretera al bajar del coche."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Museo de la Religiosidad Popular",
                 "hu": "Museo de la Religiosidad Popular",
                 "ro": "Museo de la Religiosidad Popular",
-                "en": "Museo de la Religiosidad Popular"
+                "en": "Museo de la Religiosidad Popular",
+                "es": "Museo de la Religiosidad Popular"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Stopp für Regentage; das Museum ist komplett überdacht und informativ. Tipp: Nutzen Sie die nahegelegenen Parkplätze für einen kurzen Fußweg.",
                 "hu": "Tökéletes megálló esős napokra; a múzeum teljesen fedett és informatív. Tipp: Használja a közeli parkolóhelyeket a rövid gyalogút érdekében.",
                 "ro": "O oprire perfectă pentru zilele ploioase; muzeul este complet acoperit și informativ. Sfat: Folosiți locurile de parcare din apropiere pentru un drum scurt pe jos.",
-                "en": "A perfect stop for rainy days; the museum is completely covered and informative. Tip: Use nearby parking spots for a short walk to the entrance."
+                "en": "A perfect stop for rainy days; the museum is completely covered and informative. Tip: Use nearby parking spots for a short walk to the entrance.",
+                "es": "Una parada perfecta para días de lluvia; el museo está completamente cubierto e informa mucho. Consejo: utiliza los aparcamientos cercanos para caminar poco hasta la entrada."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Antiguo Convento de la Trinidad",
                 "hu": "Antiguo Convento de la Trinidad",
                 "ro": "Antiguo Convento de la Trinidad",
-                "en": "Antiguo Convento de la Trinidad"
+                "en": "Antiguo Convento de la Trinidad",
+                "es": "Antiguo Convento de la Trinidad"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie das ehemalige Kloster; der Klang des Regens in den Ruinen ist sehr atmosphärisch. Tipp: Halten Sie einen Schirm für den Weg vom Parkplatz bereit.",
                 "hu": "Látogasson el az egykori kolostorba; az eső hangja a romok között nagyon hangulatos. Tipp: Legyen kéznél az esernyő a parkolótól a bejáratig tartó úton.",
                 "ro": "Vizitați fosta mănăstire; sunetul ploii printre ruine este foarte atmosferic. Sfat: Aveți umbrela la îndemână pentru drumul de la parcare la intrare.",
-                "en": "Visit the former convent; the sound of rain among the ruins is very atmospheric. Tip: Have an umbrella ready for the short walk from the parking area."
+                "en": "Visit the former convent; the sound of rain among the ruins is very atmospheric. Tip: Have an umbrella ready for the short walk from the parking area.",
+                "es": "Visita el antiguo convento; el sonido de la lluvia entre las ruinas es muy atmosférico. Consejo: lleva un paraguas para la corta caminata desde el aparcamiento."
               }
             },
             {
@@ -947,13 +1051,15 @@
                 "de": "Fortaleza de la Mota",
                 "hu": "Fortaleza de la Mota",
                 "ro": "Fortaleza de la Mota",
-                "en": "Fortaleza de la Mota"
+                "en": "Fortaleza de la Mota",
+                "es": "Fortaleza de la Mota"
               },
               "tip_5lang": {
                 "de": "Fahren Sie bis zum oberen Parkplatz; die Festung im Nebel wirkt wie aus einer Legende. Tipp: Schalten Sie bei Nebel am Berg unbedingt das Abblendlicht ein.",
                 "hu": "Hajtson fel a felső parkolóig; a ködben úszó vár olyan, mintha egy legendából lépett volna elő. Tipp: Ködben mindenképpen kapcsolja be a tompított fényszórót.",
                 "ro": "Conduceți până la parcarea de sus; cetatea în ceață pare desprinsă din legende. Sfat: Activați farurile de întâlnire pe munte în condiții de ceață.",
-                "en": "Drive up to the upper parking lot; the fortress in the mist looks like something out of a legend. Tip: Be sure to turn on your low beam lights in the mountain fog."
+                "en": "Drive up to the upper parking lot; the fortress in the mist looks like something out of a legend. Tip: Be sure to turn on your low beam lights in the mountain fog.",
+                "es": "Sube en coche hasta el aparcamiento superior; la fortaleza entre la niebla parece sacada de una leyenda. Consejo: enciende las luces de cruce en la niebla de montaña."
               }
             }
           ]
@@ -963,7 +1069,8 @@
             "de": "Der frostige Morgen beginnt im geheizten Auto. Mittags sind bei den Stopps nur kurze Wege in der Kälte nötig. Nachmittags suchen wir an der Festung den Blick auf Schneegipfel. Der Abend endet in der frühen Dämmerung am Fuße der beleuchteten Burg.",
             "hu": "A fűtött autóban indul a fagyos reggel. Délben a városi megállóknál csak rövid sétákra van szükség a hidegben. Délután a várnál keressük a legjobb kilátást a havas csúcsokra. Az este a korai szürkületben, a kivilágított vár tövében ér véget.",
             "ro": "Dimineața geroasă începe în mașina încălzită. La prânz, sunt necesare doar plimbări scurte în frig la opriri. După-amiaza căutăm cele mai bune vederi spre vârfurile înzăpezite de la cetate. Seara se încheie în amurgul timpuriu la poalele castelului luminat.",
-            "en": "The frosty morning starts in the heated car. At noon, only short walks are needed in the cold at town stops. In the afternoon, we look for the best views of snowy peaks from the fortress. The evening ends in the early twilight at the foot of the lit castle."
+            "en": "The frosty morning starts in the heated car. At noon, only short walks are needed in the cold at town stops. In the afternoon, we look for the best views of snowy peaks from the fortress. The evening ends in the early twilight at the foot of the lit castle.",
+            "es": "La mañana helada comienza en el coche con la calefacción. Al mediodía solo hacen falta paseos cortos en el frío en las paradas del pueblo. Por la tarde buscamos las mejores vistas de cumbres nevadas desde la fortaleza. La noche termina al anochecer temprano a los pies del castillo iluminado."
           },
           "stops": [
             {
@@ -971,13 +1078,15 @@
                 "de": "Beeldhouwwerk rotsen",
                 "hu": "Beeldhouwwerk rotsen",
                 "ro": "Beeldhouwwerk rotsen",
-                "en": "Beeldhouwwerk rotsen"
+                "en": "Beeldhouwwerk rotsen",
+                "es": "Beeldhouwwerk rotsen"
               },
               "tip_5lang": {
                 "de": "Der Frost auf den Felsen am frühen Morgen ist wunderschön anzusehen. Tipp: Lassen Sie den Motor kurz warmlaufen, bevor Sie die Bergstrecke antreten.",
                 "hu": "A sziklákon megülő kora reggeli zúzmara gyönyörű látvány az autóból. Tipp: Hagyja a motort kicsit bemelegedni, mielőtt nekivág a hegyi szakasznak.",
                 "ro": "Chiciura de pe stânci dis-de-dimineață este o priveliște superbă din mașină. Sfat: Lăsați motorul să se încălzească puțin înainte de a porni pe drumul montan.",
-                "en": "The early morning frost on the rocks is a beautiful sight from the car. Tip: Let the engine warm up briefly before tackling the mountain road sections."
+                "en": "The early morning frost on the rocks is a beautiful sight from the car. Tip: Let the engine warm up briefly before tackling the mountain road sections.",
+                "es": "La escarcha matinal sobre las rocas es un bello espectáculo visto desde el coche. Consejo: deja que el motor se caliente brevemente antes de afrontar los tramos de carretera de montaña."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Iglesia de Consolación",
                 "hu": "Iglesia de Consolación",
                 "ro": "Iglesia de Consolación",
-                "en": "Iglesia de Consolación"
+                "en": "Iglesia de Consolación",
+                "es": "Iglesia de la Consolación"
               },
               "tip_5lang": {
                 "de": "Das Innere der Kirche ist im Winter kühl, aber friedlich. Tipp: Nehmen Sie Ihre dicke Jacke aus dem Auto mit, da die Steinmauern die Kälte speichern.",
                 "hu": "A templom belseje télen hűvös, de békés hangulatot áraszt. Tipp: Vigye magával a vastag kabátját az autóból, mert a kőfalak tartják a hideget.",
                 "ro": "Interiorul bisericii este răcoros iarna, dar oferă o atmosferă pașnică. Sfat: Luați haina groasă din mașină, deoarece zidurile de piatră mențin frigul.",
-                "en": "The church interior is cool in winter but exudes a peaceful atmosphere. Tip: Take your heavy coat with you from the car, as the stone walls hold the cold."
+                "en": "The church interior is cool in winter but exudes a peaceful atmosphere. Tip: Take your heavy coat with you from the car, as the stone walls hold the cold.",
+                "es": "El interior de la iglesia está frío en invierno pero transmite una atmósfera de paz. Consejo: lleva el abrigo gordo desde el coche, ya que los muros de piedra retienen el frío."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Museo de la Religiosidad Popular",
                 "hu": "Museo de la Religiosidad Popular",
                 "ro": "Museo de la Religiosidad Popular",
-                "en": "Museo de la Religiosidad Popular"
+                "en": "Museo de la Religiosidad Popular",
+                "es": "Museo de la Religiosidad Popular"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die klimatisierten Museumsräume als willkommene Aufwärmpause. Tipp: Nutzen Sie die Garderobe, um sich im Inneren frei bewegen zu können.",
                 "hu": "Élvezze a múzeum fűtött tereit, mint kellemes bemelegedési lehetőséget. Tipp: Használja a ruhatárat, hogy kényelmesen nézhesse végig a kiállításokat.",
                 "ro": "Bucurați-vă de spațiile încălzite ale muzeului ca de o ocazie plăcută de a vă încălzi. Sfat: Folosiți garderoba pentru a vizita confortabil expozițiile.",
-                "en": "Enjoy the heated museum spaces as a welcome warming break. Tip: Use the cloakroom so you can move around comfortably while viewing the exhibits."
+                "en": "Enjoy the heated museum spaces as a welcome warming break. Tip: Use the cloakroom so you can move around comfortably while viewing the exhibits.",
+                "es": "Disfruta de los espacios calefactados del museo como un merecido descanso para entrar en calor. Consejo: usa el guardarropa para moverte cómodamente mientras visitas las salas."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Antiguo Convento de la Trinidad",
                 "hu": "Antiguo Convento de la Trinidad",
                 "ro": "Antiguo Convento de la Trinidad",
-                "en": "Antiguo Convento de la Trinidad"
+                "en": "Antiguo Convento de la Trinidad",
+                "es": "Antiguo Convento de la Trinidad"
               },
               "tip_5lang": {
                 "de": "Das klare Winterlicht ist perfekt für Fotos der historischen Ruinen. Tipp: Achten Sie auf Parkplätzen auf mögliche Eisglätte im Schatten der Mauern.",
                 "hu": "A tiszta téli fény tökéletes a történelmi romok fotózásához. Tipp: A parkolókban ügyeljen az esetleges jeges foltokra a falak árnyékában.",
                 "ro": "Lumina clară de iarnă este perfectă pentru fotografierea ruinelor istorice. Sfat: În parcări, atenție la eventualele porțiuni înghețate la umbra zidurilor.",
-                "en": "The clear winter light is perfect for photographing the historic ruins. Tip: Watch out for potential icy patches in the parking areas in the shade of the walls."
+                "en": "The clear winter light is perfect for photographing the historic ruins. Tip: Watch out for potential icy patches in the parking areas in the shade of the walls.",
+                "es": "La luz clara del invierno es perfecta para fotografiar las ruinas históricas. Consejo: presta atención a posibles placas de hielo en las zonas de aparcamiento a la sombra de los muros."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Fortaleza de la Mota",
                 "hu": "Fortaleza de la Mota",
                 "ro": "Fortaleza de la Mota",
-                "en": "Fortaleza de la Mota"
+                "en": "Fortaleza de la Mota",
+                "es": "Fortaleza de la Mota"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die schneebedeckten Gipfel in der Ferne von den hohen Mauern. Tipp: Planen Sie Ihren Besuch so, dass Sie vor Einbruch der Dunkelheit abfahren.",
                 "hu": "Csodálja meg a távolban lévő havas csúcsokat a magas várfalakról. Tipp: Tervezze úgy a látogatást, hogy a sötétedés előtt fejezze be a hegyi vezetést.",
                 "ro": "Admirați vârfurile înzăpezite din depărtare de pe zidurile înalte ale cetății. Sfat: Planificați vizita astfel încât să terminați condusul pe munte înainte de amurg.",
-                "en": "Admire the snow-capped peaks in the distance from the high fortress walls. Tip: Plan your visit to finish the mountain driving before darkness sets in."
+                "en": "Admire the snow-capped peaks in the distance from the high fortress walls. Tip: Plan your visit to finish the mountain driving before darkness sets in.",
+                "es": "Admira las cumbres nevadas en la distancia desde los altos muros de la fortaleza. Consejo: planifica la visita para terminar la conducción de montaña antes de que anochezca."
               }
             }
           ]

@@ -32,7 +32,8 @@
             "de": "Das beeindruckende Haupttor der Stadt.",
             "hu": "A város lenyűgöző főkapuja.",
             "ro": "Poarta principală impresionantă a orașului.",
-            "en": "The impressive main gate of the city."
+            "en": "The impressive main gate of the city.",
+            "es": "La imponente puerta principal de la ciudad."
           }
         },
         {
@@ -50,7 +51,8 @@
             "de": "Spaziergang oben auf der Stadtmauer.",
             "hu": "Séta a városfal tetején.",
             "ro": "Plimbare pe zidurile cetății.",
-            "en": "Walk on top of the city walls."
+            "en": "Walk on top of the city walls.",
+            "es": "Pasea por la parte superior de las murallas."
           }
         },
         {
@@ -68,7 +70,8 @@
             "de": "Neugotische Kirche direkt an der Mauer.",
             "hu": "Neogótikus templom a falak tövében.",
             "ro": "Biserică neogotică lângă ziduri.",
-            "en": "Neo-Gothic church right by the walls."
+            "en": "Neo-Gothic church right by the walls.",
+            "es": "Iglesia neogótica justo junto a las murallas."
           }
         },
         {
@@ -86,7 +89,8 @@
             "de": "Antikes Theater und römisches Forum.",
             "hu": "Ókori színház és római fórum.",
             "ro": "Teatru antic și forum roman.",
-            "en": "Ancient theater and Roman forum."
+            "en": "Ancient theater and Roman forum.",
+            "es": "Teatro antiguo y foro romano."
           }
         },
         {
@@ -104,7 +108,8 @@
             "de": "Bunter Markt in den historischen Gassen.",
             "hu": "Színes piac a történelmi sikátorokban.",
             "ro": "Piață colorată pe străzile istorice.",
-            "en": "Colorful market in the historic alleys."
+            "en": "Colorful market in the historic alleys.",
+            "es": "Mercado colorido en los callejones históricos."
           }
         }
       ],
@@ -112,7 +117,8 @@
         "de": "Entdecken Sie Alcúdia zu Fuß, beginnend am majestätischen Porta de Mallorca. Ein Highlight ist der Rundgang auf den mittelalterlichen Stadtmauern. Besuchen Sie die Kirche Sant Jaume und tauchen Sie in der römischen Ausgrabungsstätte Pollentia in die Antike ein. Den Nachmittag verbringen Sie entspannt auf dem lebhaften Markt im Herzen der Altstadt.",
         "hu": "Fedezze fel Alcúdiát gyalogosan, kezdve a fenséges Mallorca-kapunál. A csúcspont a középkori városfalakon való körbejárás. Látogassa meg a Sant Jaume templomot, majd merüljön el az ókorban Pollentia római romjainál. A délutánt töltse a hangulatos piacon az óváros szívében.",
         "ro": "Descoperiți Alcúdia la pas, începând de la maiestuoasa Porta de Mallorca. Un punct culminant este plimbarea pe zidurile medievale. Vizitați biserica Sant Jaume și pătrundeți în antichitate la ruinele romane Pollentia. După-amiaza, relaxați-vă în piața plină de viață din inima centrului vechi.",
-        "en": "Discover Alcúdia on foot, starting at the majestic Porta de Mallorca. A highlight is the walk on the medieval city walls. Visit the Sant Jaume church and dive into antiquity at the Pollentia Roman ruins. Spend the afternoon relaxing at the lively market in the heart of the old town."
+        "en": "Discover Alcúdia on foot, starting at the majestic Porta de Mallorca. A highlight is the walk on the medieval city walls. Visit the Sant Jaume church and dive into antiquity at the Pollentia Roman ruins. Spend the afternoon relaxing at the lively market in the heart of the old town.",
+        "es": "Descubre Alcúdia a pie, empezando en la majestuosa Porta de Mallorca. Un punto culminante es el paseo por las murallas medievales. Visita la iglesia de Sant Jaume y adéntrate en la antigüedad en las ruinas romanas de Pollentia. Pasa la tarde relajándote en el animado mercado del casco antiguo."
       },
       "gastro_picks": {
         "de": [
@@ -272,6 +278,12 @@
           "The city walls offer no shade, wear a hat.",
           "Pollentia is a must for history enthusiasts.",
           "Avoid midday for the city wall walk."
+        ],
+        "es": [
+          "El mercado tiene lugar los martes y los domingos.",
+          "Las murallas no ofrecen sombra; usa un sombrero.",
+          "Pollentia es imprescindible para los amantes de la historia.",
+          "Evita la hora del mediodía para el paseo por las murallas."
         ]
       },
       "variants": {
@@ -280,7 +292,8 @@
             "de": "Entdecken Sie Alcúdia zu Fuß, beginnend am majestätischen Porta de Mallorca. Ein Highlight ist der Rundgang auf den mittelalterlichen Stadtmauern. Besuchen Sie die Kirche Sant Jaume und tauchen Sie in der römischen Ausgrabungsstätte Pollentia in die Antike ein. Den Nachmittag verbringen Sie entspannt auf dem lebhaften Markt im Herzen der Altstadt.",
             "hu": "Fedezze fel Alcúdiát gyalogosan, kezdve a fenséges Mallorca-kapunál. A csúcspont a középkori városfalakon való körbejárás. Látogassa meg a Sant Jaume templomot, majd merüljön el az ókorban Pollentia római romjainál. A délutánt töltse a hangulatos piacon az óváros szívében.",
             "ro": "Descoperiți Alcúdia la pas, începând de la maiestuoasa Porta de Mallorca. Un punct culminant este plimbarea pe zidurile medievale. Vizitați biserica Sant Jaume și pătrundeți în antichitate la ruinele romane Pollentia. După-amiaza, relaxați-vă în piața plină de viață din inima centrului vechi.",
-            "en": "Discover Alcúdia on foot, starting at the majestic Porta de Mallorca. A highlight is the walk on the medieval city walls. Visit the Sant Jaume church and dive into antiquity at the Pollentia Roman ruins. Spend the afternoon relaxing at the lively market in the heart of the old town."
+            "en": "Discover Alcúdia on foot, starting at the majestic Porta de Mallorca. A highlight is the walk on the medieval city walls. Visit the Sant Jaume church and dive into antiquity at the Pollentia Roman ruins. Spend the afternoon relaxing at the lively market in the heart of the old town.",
+            "es": "Descubre Alcúdia a pie, empezando en la majestuosa Porta de Mallorca. Un punto culminante es el paseo por las murallas medievales. Visita la iglesia de Sant Jaume y adéntrate en la antigüedad en las ruinas romanas de Pollentia. Pasa la tarde relajándote en el animado mercado del casco antiguo."
           },
           "stops": [
             {
@@ -289,7 +302,8 @@
                 "de": "Das beeindruckende Haupttor der Stadt.",
                 "hu": "A város lenyűgöző főkapuja.",
                 "ro": "Poarta principală impresionantă a orașului.",
-                "en": "The impressive main gate of the city."
+                "en": "The impressive main gate of the city.",
+                "es": "La imponente puerta principal de la ciudad."
               }
             },
             {
@@ -298,7 +312,8 @@
                 "de": "Spaziergang oben auf der Stadtmauer.",
                 "hu": "Séta a városfal tetején.",
                 "ro": "Plimbare pe zidurile cetății.",
-                "en": "Walk on top of the city walls."
+                "en": "Walk on top of the city walls.",
+                "es": "Pasea por la parte superior de las murallas."
               }
             },
             {
@@ -307,7 +322,8 @@
                 "de": "Neugotische Kirche direkt an der Mauer.",
                 "hu": "Neogótikus templom a falak tövében.",
                 "ro": "Biserică neogotică lângă ziduri.",
-                "en": "Neo-Gothic church right by the walls."
+                "en": "Neo-Gothic church right by the walls.",
+                "es": "Iglesia neogótica justo junto a las murallas."
               }
             },
             {
@@ -316,7 +332,8 @@
                 "de": "Antikes Theater und römisches Forum.",
                 "hu": "Ókori színház és római fórum.",
                 "ro": "Teatru antic și forum roman.",
-                "en": "Ancient theater and Roman forum."
+                "en": "Ancient theater and Roman forum.",
+                "es": "Teatro antiguo y foro romano."
               }
             },
             {
@@ -325,7 +342,8 @@
                 "de": "Bunter Markt in den historischen Gassen.",
                 "hu": "Színes piac a történelmi sikátorokban.",
                 "ro": "Piață colorată pe străzile istorice.",
-                "en": "Colorful market in the historic alleys."
+                "en": "Colorful market in the historic alleys.",
+                "es": "Mercado colorido en los callejones históricos."
               }
             }
           ],
@@ -487,6 +505,12 @@
               "The city walls offer no shade, wear a hat.",
               "Pollentia is a must for history enthusiasts.",
               "Avoid midday for the city wall walk."
+            ],
+            "es": [
+              "El mercado tiene lugar los martes y los domingos.",
+              "Las murallas no ofrecen sombra; usa un sombrero.",
+              "Pollentia es imprescindible para los amantes de la historia.",
+              "Evita la hora del mediodía para el paseo por las murallas."
             ]
           }
         },
@@ -495,7 +519,8 @@
             "de": "Der Morgen beginnt grau an der Porta de Mallorca, wo die massiven Bögen ersten Schutz bieten. Mittags erkunden wir die Altstadtmauern; der Stein ist rutschig, aber die Aussicht auf das wolkenverhangene Meer ist dramatisch.\nNachmittags bietet die Kirche Sant Jaume eine trockene, andächtige Pause vom Regen. Später führen die Pfade von Pollentia durch eine feuchte, geschichtsträchtige Landschaft.\nAm Abend kehren wir zum Markt zurück, wo die Cafés unter Markisen zum Verweilen einladen.",
             "hu": "A reggel borúsan indul a Porta de Mallorca alatt, ahol a masszív boltívek menedéket adnak az eső elől. Délben az óváros falait járjuk; a kövek csúszósak, de a látvány a felhős tengerre drámai.\nDélután a Sant Jaume templom nyújt száraz, áhítatos pihenőt a csapadék elől. Később Pollentia romjai között sétálunk a nedves, történelmi környezetben.\nEste a piac környékére térünk vissza, ahol a kávézók ponyvái alatt élvezhetjük a városi hangulatot.",
             "ro": "Dimineața începe gri la Porta de Mallorca, unde arcadele masive oferă primul adăpost împotriva ploii. La prânz explorăm zidurile cetății; piatra este alunecoasă, dar vederea spre marea înnorată este dramatică.\nDupă-amiaza, Biserica Sant Jaume oferă o pauză uscată și liniștită. Mai târziu, potecile din Pollentia ne poartă printr-un peisaj umed, plin de istorie.\nSeara ne întoarcem la piață, unde cafenelele sub copertine ne invită la relaxare.",
-            "en": "The morning begins grey at Porta de Mallorca, where the massive arches provide initial shelter from the rain. At noon, we explore the old town walls; the stones are slippery, but the view of the clouded sea is dramatic.\nIn the afternoon, Sant Jaume Church offers a dry, peaceful break. Later, the paths of Pollentia lead through a damp, historic landscape.\nIn the evening, we return to the market area, where cafes under awnings invite us to linger."
+            "en": "The morning begins grey at Porta de Mallorca, where the massive arches provide initial shelter from the rain. At noon, we explore the old town walls; the stones are slippery, but the view of the clouded sea is dramatic.\nIn the afternoon, Sant Jaume Church offers a dry, peaceful break. Later, the paths of Pollentia lead through a damp, historic landscape.\nIn the evening, we return to the market area, where cafes under awnings invite us to linger.",
+            "es": "La mañana comienza gris en Porta de Mallorca, donde los arcos masivos ofrecen refugio inicial de la lluvia. Al mediodía exploramos las murallas del casco antiguo; las piedras están resbaladizas, pero la vista del mar nublado es dramática.\nPor la tarde, la iglesia de Sant Jaume ofrece un descanso seco y tranquilo. Más tarde, los caminos de Pollentia conducen por un paisaje histórico y húmedo.\nPor la noche, volvemos a la zona del mercado, donde las cafeterías bajo toldos nos invitan a quedarnos."
           },
           "stops": [
             {
@@ -504,7 +529,8 @@
                 "de": "Suchen Sie Schutz unter dem Torbogen, wenn ein Schauer niedergeht.",
                 "hu": "Keressen menedéket a kapu boltíve alatt, ha elered az eső.",
                 "ro": "Căutați adăpost sub arcada porții dacă începe o aversă.",
-                "en": "Seek shelter under the gateway arch if a downpour starts."
+                "en": "Seek shelter under the gateway arch if a downpour starts.",
+                "es": "Busca refugio bajo el arco de la puerta si empieza un aguacero."
               }
             },
             {
@@ -513,7 +539,8 @@
                 "de": "Vorsicht auf den Treppen, die Kalksteinstufen werden bei Nässe extrem glatt.",
                 "hu": "Vigyázat a lépcsőkön, a mészkő fokok nedvesen rendkívül csúszósak.",
                 "ro": "Atenție pe scări, treptele de calcar devin extrem de alunecoase la umezeală.",
-                "en": "Careful on the stairs; the limestone steps become extremely slippery when wet."
+                "en": "Careful on the stairs; the limestone steps become extremely slippery when wet.",
+                "es": "Cuidado con las escaleras; los peldaños de piedra caliza se vuelven extremadamente resbaladizos cuando están mojados."
               }
             },
             {
@@ -522,7 +549,8 @@
                 "de": "Idealer Zeitpunkt für eine Innenbesichtigung, um dem Regen zu entkommen.",
                 "hu": "Ideális időpont a belső látogatáshoz, hogy elmeneküljünk az eső elől.",
                 "ro": "Moment ideal pentru o vizită în interior pentru a scăpa de ploaie.",
-                "en": "Ideal time for an indoor visit to escape the rain."
+                "en": "Ideal time for an indoor visit to escape the rain.",
+                "es": "Momento ideal para una visita interior para escapar de la lluvia."
               }
             },
             {
@@ -531,7 +559,8 @@
                 "de": "Tragen Sie wasserfeste Schuhe, da die unbefestigten Wege schlammig sein können.",
                 "hu": "Viseljen vízálló cipőt, mert a kiépítetlen utak sárgaulhatnak.",
                 "ro": "Purtați încălțăminte impermeabilă, deoarece potecile neasfaltate pot fi noroioase.",
-                "en": "Wear waterproof shoes as the unpaved paths can get muddy."
+                "en": "Wear waterproof shoes as the unpaved paths can get muddy.",
+                "es": "Lleva calzado impermeable porque los caminos sin pavimentar pueden embarrarse."
               }
             },
             {
@@ -540,7 +569,8 @@
                 "de": "Viele Stände haben Planen, aber ein Regenschirm ist für die Gassen ratsam.",
                 "hu": "Sok stand ponyvás, de az utcákhoz tanácsos az esernyő.",
                 "ro": "Multe tarabe au prelate, dar o umbrelă este recomandată pentru străduțe.",
-                "en": "Many stalls have tarps, but an umbrella is advisable for the alleys."
+                "en": "Many stalls have tarps, but an umbrella is advisable for the alleys.",
+                "es": "Muchos puestos tienen lonas, pero es aconsejable llevar paraguas para los callejones."
               }
             }
           ],
@@ -572,6 +602,13 @@
               "Mallorcan cafes serve excellent hot chocolate with ensaimadas during rain.",
               "A sturdy umbrella is better than a light foldable one due to the sea breeze.",
               "Watch out for puddles in the lower parts of the excavation site."
+            ],
+            "es": [
+              "Usa las calles estrechas del casco antiguo como cortavientos naturales.",
+              "Los museos cerca de Pollentia ofrecen buenas alternativas bajo techo.",
+              "Las cafeterías mallorquinas sirven excelente chocolate caliente con ensaimadas cuando llueve.",
+              "Un paraguas resistente es mejor que uno plegable ligero debido a la brisa marina.",
+              "Cuidado con los charcos en las partes bajas del yacimiento arqueológico."
             ]
           }
         },
@@ -580,7 +617,8 @@
             "de": "Die Wintersonne wirft lange Schatten auf die Porta de Mallorca, während die Luft klar und kühl ist. Mittags ist der Spaziergang auf den Mauern bei milden Temperaturen weitaus angenehmer als im Sommer.\nNachmittags leuchtet die Kirche Sant Jaume im sanften Licht. Pollentia wirkt in der Nebensaison fast mystisch und verlassen.\nAm Abend kehrt früh Ruhe auf dem Markt ein, wenn die Sonne hinter den Bergen versinkt.",
             "hu": "A téli nap hosszú árnyékokat vet a Porta de Mallorcára, a levegő friss és hűvös. Délben a várfalon való séta a hűvös időben sokkal kellemesebb, mint a nyári hőségben.\nDélután a Sant Jaume templom lágy fényben úszik. Pollentia a főszezonon kívül szinte misztikus és elhagyatott.\nEste korán csend telepszik a piac környékére, ahogy a nap eltűnik a hegyek mögött.",
             "ro": "Soarele de iarnă aruncă umbre lungi pe Porta de Mallorca, în timp ce aerul este clar și răcoros. La prânz, plimbarea pe ziduri este mult mai plăcută la temperaturi blânde decât în căldura verii.\nDupă-amiaza, Biserica Sant Jaume strălucește în lumina caldă. Pollentia pare aproape mistică și pustie în afara sezonului.\nSeara, liniștea se așterne devreme peste piață pe măsură ce soarele apune după munți.",
-            "en": "The winter sun casts long shadows on Porta de Mallorca, while the air is crisp and cool. At noon, walking on the walls in mild temperatures is far more pleasant than in the summer heat.\nIn the afternoon, Sant Jaume Church glows in the soft light. Pollentia feels almost mystical and deserted in the low season.\nIn the evening, peace settles early over the market as the sun sets behind the mountains."
+            "en": "The winter sun casts long shadows on Porta de Mallorca, while the air is crisp and cool. At noon, walking on the walls in mild temperatures is far more pleasant than in the summer heat.\nIn the afternoon, Sant Jaume Church glows in the soft light. Pollentia feels almost mystical and deserted in the low season.\nIn the evening, peace settles early over the market as the sun sets behind the mountains.",
+            "es": "El sol invernal proyecta largas sombras sobre Porta de Mallorca, mientras el aire es fresco y nítido. Al mediodía, caminar por las murallas con temperaturas suaves es mucho más agradable que en el calor del verano.\nPor la tarde, la iglesia de Sant Jaume brilla con la luz suave. Pollentia se siente casi mística y desierta en temporada baja.\nPor la noche, la calma se asienta temprano sobre el mercado al ponerse el sol tras las montañas."
           },
           "stops": [
             {
@@ -589,7 +627,8 @@
                 "de": "Perfektes Licht für Fotos ohne die Touristenmassen des Sommers.",
                 "hu": "Tökéletes fények a fotózáshoz a nyári turistatömeg nélkül.",
                 "ro": "Lumină perfectă pentru fotografii fără mulțimile de turiști de vară.",
-                "en": "Perfect light for photos without the summer tourist crowds."
+                "en": "Perfect light for photos without the summer tourist crowds.",
+                "es": "Luz perfecta para fotos sin las multitudes veraniegas de turistas."
               }
             },
             {
@@ -598,7 +637,8 @@
                 "de": "Genießen Sie die klare Sicht bis zur Bucht von Pollença.",
                 "hu": "Élvezze a tiszta kilátást egészen a Pollençai-öbölig.",
                 "ro": "Bucurați-vă de vizibilitatea clară până la golful Pollença.",
-                "en": "Enjoy the clear views all the way to the Bay of Pollença."
+                "en": "Enjoy the clear views all the way to the Bay of Pollença.",
+                "es": "Disfruta de vistas claras hasta la bahía de Pollença."
               }
             },
             {
@@ -607,7 +647,8 @@
                 "de": "Prüfen Sie die Winteröffnungszeiten, diese können kürzer sein.",
                 "hu": "Ellenőrizze a téli nyitvatartást, ezek rövidebbek lehetnek.",
                 "ro": "Verificați programul de iarnă, acesta poate fi mai scurt.",
-                "en": "Check winter opening hours; they may be shorter."
+                "en": "Check winter opening hours; they may be shorter.",
+                "es": "Consulta los horarios de apertura de invierno; pueden ser más cortos."
               }
             },
             {
@@ -616,7 +657,8 @@
                 "de": "Wenig Schatten nötig – ideal für eine ausgiebige Erkundung.",
                 "hu": "Kevés árnyékra van szükség – ideális egy alapos felfedezéshez.",
                 "ro": "Nu este nevoie de umbră – ideal pentru o explorare amănunțită.",
-                "en": "Little shade needed – ideal for an extensive exploration."
+                "en": "Little shade needed – ideal for an extensive exploration.",
+                "es": "Se necesita poca sombra: ideal para una exploración extensa."
               }
             },
             {
@@ -625,7 +667,8 @@
                 "de": "Probieren Sie saisonale Produkte wie Mandeln und Wintergemüse.",
                 "hu": "Kóstolja meg a szezonális termékeket, mint a mandula és a téli zöldségek.",
                 "ro": "Gustați produsele de sezon, cum ar fi migdalele și legumele de iarnă.",
-                "en": "Taste seasonal products like almonds and winter vegetables."
+                "en": "Taste seasonal products like almonds and winter vegetables.",
+                "es": "Prueba productos de temporada como almendras y verduras de invierno."
               }
             }
           ],
@@ -657,6 +700,13 @@
               "Many restaurants may be closed; look for places where locals eat.",
               "The wind can be chilly in the old town; a scarf is recommended.",
               "Visit Pollentia early to make the most of the best daylight."
+            ],
+            "es": [
+              "El sol se pone alrededor de las 17:30 en invierno; planifica tu día en consecuencia.",
+              "Vístete por capas: el sol puede ser cálido, pero la sombra es fresca.",
+              "Muchos restaurantes pueden estar cerrados; busca lugares donde coman los locales.",
+              "El viento puede ser frío en el casco antiguo; se recomienda una bufanda.",
+              "Visita Pollentia temprano para aprovechar la mejor luz del día."
             ]
           }
         }
@@ -685,7 +735,8 @@
             "de": "Starten Sie am Rande der Altstadt.",
             "hu": "Induljon az óváros széléről.",
             "ro": "Porniți de la marginea centrului vechi.",
-            "en": "Start at the edge of the old town."
+            "en": "Start at the edge of the old town.",
+            "es": "Comienza en el borde del casco antiguo."
           }
         },
         {
@@ -703,7 +754,8 @@
             "de": "Radweg entlang der Marina.",
             "hu": "Kerékpárút a kikötő mentén.",
             "ro": "Pistă de biciclete de-a lungul marinei.",
-            "en": "Cycle path along the marina."
+            "en": "Cycle path along the marina.",
+            "es": "Carril bici junto al puerto deportivo."
           }
         },
         {
@@ -721,7 +773,8 @@
             "de": "Perfekt für Radtouren durchs Sumpfland.",
             "hu": "Tökéletes terep a mocsárvidéki bringázáshoz.",
             "ro": "Perfect pentru ciclism prin mlaștini.",
-            "en": "Perfect for cycling through the wetlands."
+            "en": "Perfect for cycling through the wetlands.",
+            "es": "Perfecto para pedalear por los humedales."
           }
         },
         {
@@ -739,7 +792,8 @@
             "de": "Langer Sandstrand für eine Pause.",
             "hu": "Hosszú homokos part egy pihenőhöz.",
             "ro": "Plajă lungă cu nisip pentru o pauză.",
-            "en": "Long sandy beach for a break."
+            "en": "Long sandy beach for a break.",
+            "es": "Playa de arena larga para un descanso."
           }
         },
         {
@@ -757,7 +811,8 @@
             "de": "Rückkehr zum historischen Tor.",
             "hu": "Visszatérés a történelmi kapuhoz.",
             "ro": "Revenire la poarta istorică.",
-            "en": "Return to the historic gate."
+            "en": "Return to the historic gate.",
+            "es": "Regreso a la puerta histórica."
           }
         }
       ],
@@ -765,7 +820,8 @@
         "de": "Eine abwechslungsreiche Tour vom historischen Zentrum zum Meer. Radeln Sie am modernen Hafen entlang und erkunden Sie den Naturpark S'Albufera, ein Paradies für Vögel. Am Nachmittag genießen Sie den feinen Sandstrand, bevor es zurück in die charmante Altstadt geht.",
         "hu": "Változatos túra a történelmi központtól a tengerig. Tekerjen végig a modern kikötőnél, majd fedezze fel a S'Albufera natúrpark madárvilágát. Délután élvezze a finom homokos strandot, mielőtt visszatérne a hangulatos óvárosba.",
         "ro": "O tură diversificată de la centrul istoric la mare. Pedalați de-a lungul portului modern și explorați parcul natural S'Albufera, un paradis al păsărilor. După-amiaza, bucurați-vă de plaja cu nisip fin înainte de a reveni în orașul vechi.",
-        "en": "A varied tour from the historic center to the sea. Cycle along the modern port and explore the S'Albufera natural park, a paradise for birds. In the afternoon, enjoy the fine sandy beach before returning to the charming old town."
+        "en": "A varied tour from the historic center to the sea. Cycle along the modern port and explore the S'Albufera natural park, a paradise for birds. In the afternoon, enjoy the fine sandy beach before returning to the charming old town.",
+        "es": "Una ruta variada desde el centro histórico hasta el mar. Pedalea por el puerto moderno y explora el parque natural de S'Albufera, un paraíso para las aves. Por la tarde, disfruta de la fina playa de arena antes de volver al encantador casco antiguo."
       },
       "gastro_picks": {
         "de": [
@@ -925,6 +981,12 @@
           "Watch out for pedestrians on the beach promenade.",
           "Rent a bike with a basket for your shopping.",
           "The route to the port is well-developed."
+        ],
+        "es": [
+          "El parque de S'Albufera tiene caminos planos y fáciles de recorrer en bici.",
+          "Cuidado con los peatones en el paseo de la playa.",
+          "Alquila una bicicleta con cesta para tus compras.",
+          "La ruta hacia el puerto está bien acondicionada."
         ]
       },
       "variants": {
@@ -933,7 +995,8 @@
             "de": "Eine abwechslungsreiche Tour vom historischen Zentrum zum Meer. Radeln Sie am modernen Hafen entlang und erkunden Sie den Naturpark S'Albufera, ein Paradies für Vögel. Am Nachmittag genießen Sie den feinen Sandstrand, bevor es zurück in die charmante Altstadt geht.",
             "hu": "Változatos túra a történelmi központtól a tengerig. Tekerjen végig a modern kikötőnél, majd fedezze fel a S'Albufera natúrpark madárvilágát. Délután élvezze a finom homokos strandot, mielőtt visszatérne a hangulatos óvárosba.",
             "ro": "O tură diversificată de la centrul istoric la mare. Pedalați de-a lungul portului modern și explorați parcul natural S'Albufera, un paradis al păsărilor. După-amiaza, bucurați-vă de plaja cu nisip fin înainte de a reveni în orașul vechi.",
-            "en": "A varied tour from the historic center to the sea. Cycle along the modern port and explore the S'Albufera natural park, a paradise for birds. In the afternoon, enjoy the fine sandy beach before returning to the charming old town."
+            "en": "A varied tour from the historic center to the sea. Cycle along the modern port and explore the S'Albufera natural park, a paradise for birds. In the afternoon, enjoy the fine sandy beach before returning to the charming old town.",
+            "es": "Tour variado desde el casco histórico hasta el mar. Pedalea junto al puerto moderno y explora el parque natural de S'Albufera, un paraíso para las aves. Por la tarde, disfruta de la amplia playa de arena antes de volver al encantador casco antiguo."
           },
           "stops": [
             {
@@ -942,7 +1005,8 @@
                 "de": "Starten Sie am Rande der Altstadt.",
                 "hu": "Induljon az óváros széléről.",
                 "ro": "Porniți de la marginea centrului vechi.",
-                "en": "Start at the edge of the old town."
+                "en": "Start at the edge of the old town.",
+                "es": "Comienza en el borde del casco antiguo."
               }
             },
             {
@@ -951,7 +1015,8 @@
                 "de": "Radweg entlang der Marina.",
                 "hu": "Kerékpárút a kikötő mentén.",
                 "ro": "Pistă de biciclete de-a lungul marinei.",
-                "en": "Cycle path along the marina."
+                "en": "Cycle path along the marina.",
+                "es": "Carril bici a lo largo de la marina."
               }
             },
             {
@@ -960,7 +1025,8 @@
                 "de": "Perfekt für Radtouren durchs Sumpfland.",
                 "hu": "Tökéletes terep a mocsárvidéki bringázáshoz.",
                 "ro": "Perfect pentru ciclism prin mlaștini.",
-                "en": "Perfect for cycling through the wetlands."
+                "en": "Perfect for cycling through the wetlands.",
+                "es": "Perfecto para pedalear por los humedales."
               }
             },
             {
@@ -969,7 +1035,8 @@
                 "de": "Langer Sandstrand für eine Pause.",
                 "hu": "Hosszú homokos part egy pihenőhöz.",
                 "ro": "Plajă lungă cu nisip pentru o pauză.",
-                "en": "Long sandy beach for a break."
+                "en": "Long sandy beach for a break.",
+                "es": "Larga playa de arena para hacer una pausa."
               }
             },
             {
@@ -978,7 +1045,8 @@
                 "de": "Rückkehr zum historischen Tor.",
                 "hu": "Visszatérés a történelmi kapuhoz.",
                 "ro": "Revenire la poarta istorică.",
-                "en": "Return to the historic gate."
+                "en": "Return to the historic gate.",
+                "es": "Regreso por la puerta histórica."
               }
             }
           ],
@@ -1140,6 +1208,12 @@
               "Watch out for pedestrians on the beach promenade.",
               "Rent a bike with a basket for your shopping.",
               "The route to the port is well-developed."
+            ],
+            "es": [
+              "El parque de S'Albufera tiene caminos llanos y fáciles de recorrer.",
+              "Cuidado con los peatones en el paseo marítimo.",
+              "Alquila una bici con cesta para tus compras.",
+              "La ruta hacia el puerto está bien acondicionada."
             ]
           }
         },
@@ -1148,7 +1222,8 @@
             "de": "Die Radtour startet vorsichtig an den Mauern. Mittags peitscht der Wind am Hafen die Gischt hoch.\nNachmittags im S'Albufera-Park wirken die Reisfelder unter grauem Himmel fast mystisch. Der Weg zum Strand ist nass und fordert volle Konzentration.\nAm Abend erreichen wir die Porta de Mallorca, glücklich über die geschaffte Strecke trotz der Feuchtigkeit.",
             "hu": "A kerékpártúra óvatosan indul a falaknál. Délben a kikötőben a szél magasra veri a tajtékot.\nDélután az S'Albufera parkban a rizsföldek misztikusnak tűnnek a szürke ég alatt. A strandhoz vezető út nedves és koncentrációt igényel.\nEste érjük el a Porta de Mallorcát, boldogan a teljesített táv miatt a nedvesség ellenére.",
             "ro": "Turul cu bicicleta începe cu prudență la ziduri. La prânz, vântul din port ridică valurile.\nDupă-amiaza, în parcul S'Albufera, câmpurile de orez par mistice sub cerul gri. Drumul spre plajă este ud și necesită concentrare maximă.\nSeara ajungem la Porta de Mallorca, mulțumiți de traseul parcurs în ciuda umidității.",
-            "en": "The bike tour starts cautiously at the walls. At noon, the wind at the port whips up the sea spray.\nIn the afternoon at S'Albufera Park, the rice fields look almost mystical under grey skies. The path to the beach is wet and requires full concentration.\nIn the evening, we reach Porta de Mallorca, happy to have finished the route despite the dampness."
+            "en": "The bike tour starts cautiously at the walls. At noon, the wind at the port whips up the sea spray.\nIn the afternoon at S'Albufera Park, the rice fields look almost mystical under grey skies. The path to the beach is wet and requires full concentration.\nIn the evening, we reach Porta de Mallorca, happy to have finished the route despite the dampness.",
+            "es": "La ruta en bicicleta comienza con precaución junto a las murallas. Al mediodía, el viento en el puerto levanta la bruma marina.\nPor la tarde, en el parque de S'Albufera los arrozales parecen casi místicos bajo cielos grises. El tramo hacia la playa está mojado y requiere máxima concentración.\nPor la noche, llegamos a Porta de Mallorca, contentos de haber completado la ruta a pesar de la humedad."
           },
           "stops": [
             {
@@ -1157,7 +1232,8 @@
                 "de": "Meiden Sie nasse Kopfsteinpflaster-Passagen, Rutschgefahr!",
                 "hu": "Kerülje a nedves macskaköves szakaszokat, csúszásveszély!",
                 "ro": "Evitați porțiunile cu piatră cubică umedă, pericol de alunecare!",
-                "en": "Avoid wet cobblestone sections; risk of slipping!"
+                "en": "Avoid wet cobblestone sections; risk of slipping!",
+                "es": "Evita los tramos de adoquín mojado; ¡riesgo de resbalón!"
               }
             },
             {
@@ -1166,7 +1242,8 @@
                 "de": "Starker Seitenwind am Kai möglich, halten Sie den Lenker fest.",
                 "hu": "Erős oldalszél lehetséges a mólón, fogja szorosan a kormányt.",
                 "ro": "Vânt lateral puternic posibil pe chei, țineți bine ghidonul.",
-                "en": "Strong crosswinds possible on the quay; hold the handlebars firmly."
+                "en": "Strong crosswinds possible on the quay; hold the handlebars firmly.",
+                "es": "Posibles rachas cruzadas fuertes en el muelle; sujeta el manillar con firmeza."
               }
             },
             {
@@ -1175,7 +1252,8 @@
                 "de": "Die Holzbrücken sind bei Regen extrem glatt, steigen Sie lieber ab.",
                 "hu": "A fahidak esőben rendkívül csúszósak, inkább szálljon le.",
                 "ro": "Podurile de lemn sunt extrem de alunecoase pe ploaie, mai bine coborâți.",
-                "en": "The wooden bridges are extremely slippery in the rain; better to dismount."
+                "en": "The wooden bridges are extremely slippery in the rain; better to dismount.",
+                "es": "Los puentes de madera son muy resbaladizos con lluvia; mejor bajar de la bici."
               }
             },
             {
@@ -1184,7 +1262,8 @@
                 "de": "Sandwege können weich und schwer befahrbar sein.",
                 "hu": "A homokos utak felpuhulhatnak és nehezen járhatóak lehetnek.",
                 "ro": "Drumurile de nisip pot deveni moi și greu de parcurs.",
-                "en": "Sandy paths can become soft and difficult to ride on."
+                "en": "Sandy paths can become soft and difficult to ride on.",
+                "es": "Los caminos arenosos pueden volverse blandos y difíciles de rodar."
               }
             },
             {
@@ -1193,7 +1272,8 @@
                 "de": "Gute Stelle, um das Rad kurz unterzustellen.",
                 "hu": "Jó hely a bicikli rövid idejű fedett tárolására.",
                 "ro": "Un loc bun pentru a adăposti bicicleta pentru scurt timp.",
-                "en": "Good spot to briefly park the bike under cover."
+                "en": "Good spot to briefly park the bike under cover.",
+                "es": "Buen lugar para aparcar la bici brevemente bajo techo."
               }
             }
           ],
@@ -1225,6 +1305,13 @@
               "Wear a neon rain jacket for better visibility in grey weather.",
               "The port offers many covered terraces for a dry break.",
               "Paths in S'Albufera can be flooded after heavy rain."
+            ],
+            "es": [
+              "Usa guardabarros para protegerte del barro salpicado.",
+              "Revisa los frenos antes de salir; tardan más en reaccionar en mojado.",
+              "Lleva un chubasquero de color neón para mejor visibilidad con cielo gris.",
+              "El puerto ofrece muchas terrazas cubiertas para una pausa seca.",
+              "Los senderos de S'Albufera pueden inundarse tras lluvias intensas."
             ]
           }
         },
@@ -1233,7 +1320,8 @@
             "de": "Die kühle Morgenluft belebt bei der Fahrt entlang der Mauern. Mittags ist der Hafen sonnig, aber windig.\nNachmittags im S'Albufera-Park beobachten wir seltene Wintergäste unter den Vögeln. Die Fahrt zum Strand ist einsam und friedlich.\nAm Abend kehren wir zur Porta de Mallorca zurück, während die Dämmerung die Stadt in Purpur taucht.",
             "hu": "A hűvös reggeli levegő felfrissít a falak mentén tekerve. Délben a kikötő napos, de szeles.\nDélután az S'Albufera parkban ritka téli madárvendégeket figyelhetünk meg. A strandhoz vezető út magányos és békés.\nEste térünk vissza a Porta de Mallorcához, miközben a szürkület bíborba öltözteti a várost.",
             "ro": "Aerul răcoros de dimineață este revigorant în timpul plimbării pe lângă ziduri. La prânz portul este însorit, dar vântos.\nDupă-amiaza, în parcul S'Albufera, observăm păsări migratoare rare. Drumul spre plajă este pustiu și liniștit.\nSeara ne întoarcem la Porta de Mallorca, în timp ce amurgul îmbracă orașul în nuanțe de purpură.",
-            "en": "The cool morning air is invigorating as we ride along the walls. At noon, the port is sunny but windy.\nIn the afternoon at S'Albufera Park, we spot rare winter visiting birds. The ride to the beach is lonely and peaceful.\nIn the evening, we return to Porta de Mallorca as twilight bathes the city in purple."
+            "en": "The cool morning air is invigorating as we ride along the walls. At noon, the port is sunny but windy.\nIn the afternoon at S'Albufera Park, we spot rare winter visiting birds. The ride to the beach is lonely and peaceful.\nIn the evening, we return to Porta de Mallorca as twilight bathes the city in purple.",
+            "es": "El aire fresco de la mañana vigorizante mientras pedaleamos junto a las murallas. Al mediodía, el puerto está soleado pero ventoso.\nPor la tarde, en el parque de S'Albufera avistamos aves raras invernantes. El camino hacia la playa está solitario y en calma.\nAl anochecer, regresamos a Porta de Mallorca mientras el crepúsculo tiñe la ciudad de púrpura."
           },
           "stops": [
             {
@@ -1242,7 +1330,8 @@
                 "de": "Tragen Sie Handschuhe, der Fahrtwind ist im Winter beißend.",
                 "hu": "Viseljen kesztyűt, a menetszél télen metsző lehet.",
                 "ro": "Purtați mănuși, vântul este tăios iarna în timpul mersului.",
-                "en": "Wear gloves; the headwind can be biting in winter."
+                "en": "Wear gloves; the headwind can be biting in winter.",
+                "es": "Lleva guantes; el viento en contra puede ser cortante en invierno."
               }
             },
             {
@@ -1251,7 +1340,8 @@
                 "de": "Die Wintersonne am Meer ist stark, vergessen Sie die Sonnenbrille nicht.",
                 "hu": "A téli nap a tengerparton erős, ne felejtse el a napszemüveget.",
                 "ro": "Soarele de iarnă la malul mării este puternic, nu uitați ochelarii de soare.",
-                "en": "The winter sun by the sea is strong; don't forget your sunglasses."
+                "en": "The winter sun by the sea is strong; don't forget your sunglasses.",
+                "es": "El sol invernal junto al mar es fuerte; no olvides las gafas de sol."
               }
             },
             {
@@ -1260,7 +1350,8 @@
                 "de": "Beste Zeit für Vogelbeobachtungen ohne die Sommerhitze.",
                 "hu": "A legjobb idő a madármegfigyelésre a nyári hőség nélkül.",
                 "ro": "Cea mai bună perioadă pentru observarea păsărilor fără căldura verii.",
-                "en": "Best time for birdwatching without the summer heat."
+                "en": "Best time for birdwatching without the summer heat.",
+                "es": "Mejor época para la observación de aves sin el calor veraniego."
               }
             },
             {
@@ -1269,7 +1360,8 @@
                 "de": "Genießen Sie den weiten, fast menschenleeren Strand.",
                 "hu": "Élvezze a tágas, szinte teljesen üres strandot.",
                 "ro": "Bucurați-vă de plaja vastă, aproape pustie.",
-                "en": "Enjoy the wide, almost deserted beach."
+                "en": "Enjoy the wide, almost deserted beach.",
+                "es": "Disfruta de la amplia playa, casi desierta."
               }
             },
             {
@@ -1278,7 +1370,8 @@
                 "de": "Im Winter ist es hier nach 17 Uhr sehr ruhig.",
                 "hu": "Télen 17 óra után itt már nagyon nagy a csend.",
                 "ro": "Iarna este foarte liniște aici după ora 17.",
-                "en": "It is very quiet here after 5 PM in winter."
+                "en": "It is very quiet here after 5 PM in winter.",
+                "es": "Aquí está muy tranquilo después de las 17:00 en invierno."
               }
             }
           ],
@@ -1310,6 +1403,13 @@
               "Take a thermos with warm tea for your breaks.",
               "Sea humidity makes the cold feel even colder.",
               "Many bike rental shops have limited fleets in winter."
+            ],
+            "es": [
+              "Usa ropa técnica que evacue el sudor y corte el viento.",
+              "La luz cambia rápido después de las 16:00; las luces de la bici son obligatorias.",
+              "Lleva un termo con té caliente para las pausas.",
+              "La humedad marina intensifica la sensación de frío.",
+              "Muchas tiendas de alquiler de bicis disponen de flotas limitadas en invierno."
             ]
           }
         }
@@ -1338,7 +1438,8 @@
             "de": "Parkplatz direkt außerhalb der Mauer.",
             "hu": "Parkoló közvetlenül a falakon kívül.",
             "ro": "Parcare chiar în afara zidurilor.",
-            "en": "Parking right outside the walls."
+            "en": "Parking right outside the walls.",
+            "es": "Aparcamiento justo fuera de las murallas."
           }
         },
         {
@@ -1356,7 +1457,8 @@
             "de": "Großer Parkplatz in der Nähe.",
             "hu": "Tágas parkoló a közelben.",
             "ro": "Parcare mare în apropiere.",
-            "en": "Spacious parking nearby."
+            "en": "Spacious parking nearby.",
+            "es": "Aparcamiento amplio en las cercanías."
           }
         },
         {
@@ -1374,7 +1476,8 @@
             "de": "Besucherzentrum mit Parkmöglichkeit.",
             "hu": "Látogatóközpont parkolási lehetőséggel.",
             "ro": "Centru de vizitare cu parcare.",
-            "en": "Visitor center with parking available."
+            "en": "Visitor center with parking available.",
+            "es": "Centro de visitantes con aparcamiento disponible."
           }
         },
         {
@@ -1392,7 +1495,8 @@
             "de": "Mittagessen am Yachthafen.",
             "hu": "Ebéd a jachtkikötőnél.",
             "ro": "Prânz la portul de iahturi.",
-            "en": "Lunch at the yacht harbor."
+            "en": "Lunch at the yacht harbor.",
+            "es": "Comer en el puerto deportivo."
           }
         },
         {
@@ -1410,7 +1514,8 @@
             "de": "Parken in Strandnähe oft schwierig.",
             "hu": "A strandközeli parkolás gyakran nehéz.",
             "ro": "Parcarea lângă plajă e adesea grea.",
-            "en": "Parking near the beach can be difficult."
+            "en": "Parking near the beach can be difficult.",
+            "es": "Aparcar cerca de la playa puede ser difícil."
           }
         }
       ],
@@ -1418,7 +1523,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die kulturellen Schätze und Naturschönheiten rund um Alcúdia. Besuchen Sie die römischen Ruinen und fahren Sie dann südlich zum großen Naturpark S'Albufera. Den späten Nachmittag verbringen Sie am belebten Hafen und dem weitläufigen Sandstrand, ideal für den Tagesabschluss.",
         "hu": "Autóval kényelmesen elérheti Alcúdia kulturális kincseit és természeti szépségeit. Látogassa meg a római romokat, majd hajtson délre a hatalmas S'Albufera natúrparkhoz. A késő délutánt töltse a nyüzsgő kikötőben és a tágas homokos strandon, ami ideális a nap zárásához.",
         "ro": "Cu mașina ajungeți ușor la comorile culturale și frumusețile naturale din jurul Alcúdiei. Vizitați ruinele romane, apoi mergeți spre sud la parcul S'Albufera. Petreceți după-amiaza târzie în portul plin de viață și pe plaja întinsă, ideală pentru finalul zilei.",
-        "en": "By car, you can easily reach the cultural treasures and natural beauties around Alcúdia. Visit the Roman ruins and then drive south to the large S'Albufera natural park. Spend the late afternoon at the lively port and the extensive sandy beach, ideal for ending the day."
+        "en": "By car, you can easily reach the cultural treasures and natural beauties around Alcúdia. Visit the Roman ruins and then drive south to the large S'Albufera natural park. Spend the late afternoon at the lively port and the extensive sandy beach, ideal for ending the day.",
+        "es": "En coche llegas fácilmente a los tesoros culturales y bellezas naturales alrededor de Alcúdia. Visita las ruinas romanas y luego conduce al sur hasta el gran parque natural de S'Albufera. Pasa la tarde en el animado puerto y la extensa playa de arena, ideal para terminar el día."
       },
       "gastro_picks": {
         "de": [
@@ -1578,6 +1684,12 @@
           "The drive to the port is often busy during rush hour.",
           "Use the parking lots at the southern end of the beach.",
           "Avoid driving into the city center of Alcúdia."
+        ],
+        "es": [
+          "Hay aparcamientos gratuitos alrededor de las murallas.",
+          "La carretera hacia el puerto suele estar congestionada en hora punta.",
+          "Usa los aparcamientos en el extremo sur de la playa.",
+          "Evita conducir por el centro de Alcúdia."
         ]
       },
       "variants": {
@@ -1586,7 +1698,8 @@
             "de": "Mit dem Auto erreichen Sie bequem die kulturellen Schätze und Naturschönheiten rund um Alcúdia. Besuchen Sie die römischen Ruinen und fahren Sie dann südlich zum großen Naturpark S'Albufera. Den späten Nachmittag verbringen Sie am belebten Hafen und dem weitläufigen Sandstrand, ideal für den Tagesabschluss.",
             "hu": "Autóval kényelmesen elérheti Alcúdia kulturális kincseit és természeti szépségeit. Látogassa meg a római romokat, majd hajtson délre a hatalmas S'Albufera natúrparkhoz. A késő délutánt töltse a nyüzsgő kikötőben és a tágas homokos strandon, ami ideális a nap zárásához.",
             "ro": "Cu mașina ajungeți ușor la comorile culturale și frumusețile naturale din jurul Alcúdiei. Vizitați ruinele romane, apoi mergeți spre sud la parcul S'Albufera. Petreceți după-amiaza târzie în portul plin de viață și pe plaja întinsă, ideală pentru finalul zilei.",
-            "en": "By car, you can easily reach the cultural treasures and natural beauties around Alcúdia. Visit the Roman ruins and then drive south to the large S'Albufera natural park. Spend the late afternoon at the lively port and the extensive sandy beach, ideal for ending the day."
+            "en": "By car, you can easily reach the cultural treasures and natural beauties around Alcúdia. Visit the Roman ruins and then drive south to the large S'Albufera natural park. Spend the late afternoon at the lively port and the extensive sandy beach, ideal for ending the day.",
+            "es": "En coche llegas fácilmente a los tesoros culturales y bellezas naturales alrededor de Alcúdia. Visita las ruinas romanas y luego conduce al sur hasta el gran parque natural de S'Albufera. Pasa la tarde en el animado puerto y la extensa playa de arena, ideal para terminar el día."
           },
           "stops": [
             {
@@ -1595,7 +1708,8 @@
                 "de": "Parkplatz direkt außerhalb der Mauer.",
                 "hu": "Parkoló közvetlenül a falakon kívül.",
                 "ro": "Parcare chiar în afara zidurilor.",
-                "en": "Parking right outside the walls."
+                "en": "Parking right outside the walls.",
+                "es": "Aparcamiento justo fuera de las murallas."
               }
             },
             {
@@ -1604,7 +1718,8 @@
                 "de": "Großer Parkplatz in der Nähe.",
                 "hu": "Tágas parkoló a közelben.",
                 "ro": "Parcare mare în apropiere.",
-                "en": "Spacious parking nearby."
+                "en": "Spacious parking nearby.",
+                "es": "Aparcamiento amplio en las cercanías."
               }
             },
             {
@@ -1613,7 +1728,8 @@
                 "de": "Besucherzentrum mit Parkmöglichkeit.",
                 "hu": "Látogatóközpont parkolási lehetőséggel.",
                 "ro": "Centru de vizitare cu parcare.",
-                "en": "Visitor center with parking available."
+                "en": "Visitor center with parking available.",
+                "es": "Centro de visitantes con aparcamiento disponible."
               }
             },
             {
@@ -1622,7 +1738,8 @@
                 "de": "Mittagessen am Yachthafen.",
                 "hu": "Ebéd a jachtkikötőnél.",
                 "ro": "Prânz la portul de iahturi.",
-                "en": "Lunch at the yacht harbor."
+                "en": "Lunch at the yacht harbor.",
+                "es": "Comer en el puerto deportivo."
               }
             },
             {
@@ -1631,7 +1748,8 @@
                 "de": "Parken in Strandnähe oft schwierig.",
                 "hu": "A strandközeli parkolás gyakran nehéz.",
                 "ro": "Parcarea lângă plajă e adesea grea.",
-                "en": "Parking near the beach can be difficult."
+                "en": "Parking near the beach can be difficult.",
+                "es": "Aparcar cerca de la playa puede ser difícil."
               }
             }
           ],
@@ -1793,6 +1911,12 @@
               "The drive to the port is often busy during rush hour.",
               "Use the parking lots at the southern end of the beach.",
               "Avoid driving into the city center of Alcúdia."
+            ],
+            "es": [
+              "Hay aparcamientos gratuitos alrededor de las murallas.",
+              "La carretera hacia el puerto suele estar congestionada en hora punta.",
+              "Usa los aparcamientos en el extremo sur de la playa.",
+              "Evita conducir por el centro de Alcúdia."
             ]
           }
         },
@@ -1801,7 +1925,8 @@
             "de": "Trocken und komfortabel startet der Tag an den Mauern. Mittags besuchen wir das Pollentia-Museum als regenfesten Stopp.\nNachmittags fahren wir zum S'Albufera-Besucherzentrum. Der Regen prasselt auf das Autodach, während wir zum Hafen weiterfahren.\nAbends genießen wir den Blick auf den Strand aus dem warmen Inneren des Wagens.",
             "hu": "Szárazon és kényelmesen indul a nap a falaknál. Délben a Pollentia múzeumot látogatjuk meg, mint esőbiztos megállót.\nDélután az S'Albufera látogatóközpontjába hajtunk. Az eső kopog a tetőn, miközben a kikötő felé haladunk.\nEste a kocsi melegéből élvezzük a kilátást a tengerpartra.",
             "ro": "Ziua începe uscat și confortabil la ziduri. La prânz vizităm muzeul Pollentia ca oprire ferită de ploaie.\nDupă-amiaza conducem spre centrul de vizitare S'Albufera. Ploaia bate în plafonul mașinii în timp ce mergem spre port.\nSeara ne bucurăm de vederea spre plajă din interiorul cald al mașinii.",
-            "en": "The day starts dry and comfortable at the walls. At noon, we visit the Pollentia museum as a rain-proof stop.\nIn the afternoon, we drive to the S'Albufera visitor center. Rain drums on the roof as we continue to the port.\nIn the evening, we enjoy the view of the beach from the warm interior of the car."
+            "en": "The day starts dry and comfortable at the walls. At noon, we visit the Pollentia museum as a rain-proof stop.\nIn the afternoon, we drive to the S'Albufera visitor center. Rain drums on the roof as we continue to the port.\nIn the evening, we enjoy the view of the beach from the warm interior of the car.",
+            "es": "El día comienza seco y agradable en las murallas. Al mediodía visitamos el museo de Pollentia como parada a resguardo de la lluvia.\nPor la tarde, conducimos hasta el centro de visitantes de S'Albufera. La lluvia golpea el techo mientras continuamos hacia el puerto.\nPor la noche, disfrutamos de la vista de la playa desde el interior cálido del coche."
           },
           "stops": [
             {
@@ -1810,7 +1935,8 @@
                 "de": "Parken Sie im Parkhaus nahe der Porta, um trocken in die Stadt zu kommen.",
                 "hu": "Parkoljon a Porta közeli parkolóházban, hogy szárazon jusson a városba.",
                 "ro": "Parcați în parcarea de lângă Porta pentru a ajunge uscat în oraș.",
-                "en": "Park in the garage near the Porta to get into town dry."
+                "en": "Park in the garage near the Porta to get into town dry.",
+                "es": "Aparca en el garaje cercano a la Porta para entrar en la ciudad seco."
               }
             },
             {
@@ -1819,7 +1945,8 @@
                 "de": "Das zugehörige Museum in der Stadt ist eine exzellente Regenalternative.",
                 "hu": "A városon belüli kapcsolódó múzeum kiváló eső-alternatíva.",
                 "ro": "Muzeul asociat din oraș este o alternativă excelentă pe ploaie.",
-                "en": "The associated museum in town is an excellent rain alternative."
+                "en": "The associated museum in town is an excellent rain alternative.",
+                "es": "El museo asociado en la ciudad es una excelente alternativa si llueve."
               }
             },
             {
@@ -1828,7 +1955,8 @@
                 "de": "Bleiben Sie im Besucherzentrum, wenn es zu stark regnet.",
                 "hu": "Maradjon a látogatóközpontban, ha túl erősen esik.",
                 "ro": "Rămâneți în centrul de vizitare dacă plouă prea tare.",
-                "en": "Stay in the visitor center if it rains too hard."
+                "en": "Stay in the visitor center if it rains too hard.",
+                "es": "Quédate en el centro de visitantes si llueve demasiado."
               }
             },
             {
@@ -1837,7 +1965,8 @@
                 "de": "Parkplätze direkt am Kai sind oft großen Pfützen ausgesetzt.",
                 "hu": "A közvetlen móló melletti parkolókban gyakoriak a nagy tócsák.",
                 "ro": "Locurile de parcare de pe chei sunt adesea expuse bălților mari.",
-                "en": "Parking spots directly on the quay are often prone to large puddles."
+                "en": "Parking spots directly on the quay are often prone to large puddles.",
+                "es": "Las plazas junto al muelle suelen acumular grandes charcos."
               }
             },
             {
@@ -1846,7 +1975,8 @@
                 "de": "Schöner Blick auf die aufgewühlte See direkt vom Parkplatz aus.",
                 "hu": "Szép kilátás a felkorbácsolt tengerre közvetlenül a parkolóból.",
                 "ro": "Vedere frumoasă spre marea agitată direct din parcare.",
-                "en": "Beautiful view of the rough sea directly from the parking lot."
+                "en": "Beautiful view of the rough sea directly from the parking lot.",
+                "es": "Hermosa vista del mar agitado directamente desde el aparcamiento."
               }
             }
           ],
@@ -1878,6 +2008,13 @@
               "Finding parking is easier in the rain as there are fewer tourists.",
               "Use the air conditioning to defog the windows.",
               "Do not leave valuables visible in the car, even in the rain."
+            ],
+            "es": [
+              "Asegúrate de que los limpiaparabrisas estén en buen estado.",
+              "Cuidado con tramos de carretera inundados cerca de la costa.",
+              "Encontrar aparcamiento es más fácil bajo la lluvia por la menor afluencia turística.",
+              "Usa el climatizador para desempañar las lunas.",
+              "No dejes objetos de valor visibles en el coche, ni siquiera con lluvia."
             ]
           }
         },
@@ -1886,7 +2023,8 @@
             "de": "Im Winter ist die Parkplatzsuche an den Mauern ein Kinderspiel. Mittags fahren wir entspannt zu den Ruinen.\nNachmittags genießen wir die kurze Fahrt zum S'Albufera-Park. Die Straßen sind leer und die Landschaft wirkt friedlich.\nAm Abend erreichen wir den Hafen, wo wir den Sonnenuntergang bequem vom Auto aus beobachten können.",
             "hu": "Télen a parkolás a falaknál gyerekjáték. Délben nyugodtan hajtunk a romokhoz.\nDélután élvezzük a rövid utat az S'Albufera parkhoz. Az utak üresek, a táj békés.\nEste érjük el a kikötőt, ahol kényelmesen az autóból nézhetjük végig a naplementét.",
             "ro": "Iarna, găsirea unui loc de parcare la ziduri este o joacă de copii. La prânz conducem relaxați spre ruine.\nDupă-amiaza ne bucurăm de drumul scurt spre parcul S'Albufera. Șoselele sunt libere, iar peisajul este liniștit.\nSeara ajungem în port, unde putem urmări apusul confortabil din mașină.",
-            "en": "In winter, finding parking at the walls is a breeze. At noon, we drive relaxed to the ruins.\nIn the afternoon, we enjoy the short drive to S'Albufera Park. The roads are empty, and the landscape feels peaceful.\nIn the evening, we reach the port, where we can comfortably watch the sunset from the car."
+            "en": "In winter, finding parking at the walls is a breeze. At noon, we drive relaxed to the ruins.\nIn the afternoon, we enjoy the short drive to S'Albufera Park. The roads are empty, and the landscape feels peaceful.\nIn the evening, we reach the port, where we can comfortably watch the sunset from the car.",
+            "es": "En invierno, encontrar aparcamiento en las murallas es pan comido. Al mediodía conducimos relajados hacia las ruinas.\nPor la tarde disfrutamos del corto trayecto hasta el parque de S'Albufera. Las carreteras están vacías y el paisaje se siente en paz.\nPor la noche llegamos al puerto, donde podemos ver el atardecer cómodamente desde el coche."
           },
           "stops": [
             {
@@ -1895,7 +2033,8 @@
                 "de": "Nutzen Sie die freien, kostenlosen Parkplätze in der Nebensaison.",
                 "hu": "Használja ki az ingyenes, szabad parkolóhelyeket a holtszezonban.",
                 "ro": "Profitați de locurile de parcare libere și gratuite în extrasezon.",
-                "en": "Take advantage of the free, vacant parking spaces in the low season."
+                "en": "Take advantage of the free, vacant parking spaces in the low season.",
+                "es": "Aprovecha las plazas gratuitas y vacías en temporada baja."
               }
             },
             {
@@ -1904,7 +2043,8 @@
                 "de": "Kurze Wege vom Parkplatz – perfekt für kühle Tage.",
                 "hu": "Rövid séta a parkolótól – tökéletes a hűvösebb napokon.",
                 "ro": "Distanțe scurte de la parcare – perfect pentru zilele răcoroase.",
-                "en": "Short walk from the parking lot – perfect for cool days."
+                "en": "Short walk from the parking lot – perfect for cool days.",
+                "es": "Corto paseo desde el aparcamiento: perfecto para días frescos."
               }
             },
             {
@@ -1913,7 +2053,8 @@
                 "de": "Viel Platz auf dem Parkplatz des Parks, keine Wartezeiten.",
                 "hu": "Sok hely a parkolóban, nincs várakozási idő.",
                 "ro": "Mult loc în parcarea parcului, fără timpi de așteptare.",
-                "en": "Plenty of space in the park's parking lot; no waiting times."
+                "en": "Plenty of space in the park's parking lot; no waiting times.",
+                "es": "Amplio espacio en el parking del parque; sin tiempos de espera."
               }
             },
             {
@@ -1922,7 +2063,8 @@
                 "de": "Idealer Ort für einen Kaffee, da viele Lokale nur im Winter offen haben.",
                 "hu": "Ideális hely egy kávéra, sok hely csak télen van nyitva a helyieknek.",
                 "ro": "Loc ideal pentru o cafea, multe localuri fiind deschise doar pentru localnici iarna.",
-                "en": "Ideal spot for a coffee, as many places are open only for locals in winter."
+                "en": "Ideal spot for a coffee, as many places are open only for locals in winter.",
+                "es": "Lugar ideal para un café, ya que muchos locales abren solo para residentes en invierno."
               }
             },
             {
@@ -1931,7 +2073,8 @@
                 "de": "Parken Sie direkt am Strandzugang für einen kurzen Winterspaziergang.",
                 "hu": "Parkoljon közvetlenül a strandbejáratnál egy rövid téli sétához.",
                 "ro": "Parcați direct la intrarea pe plajă pentru o scurtă plimbare de iarnă.",
-                "en": "Park directly at the beach access for a short winter walk."
+                "en": "Park directly at the beach access for a short winter walk.",
+                "es": "Aparca directamente en el acceso a la playa para una caminata invernal corta."
               }
             }
           ],
@@ -1963,6 +2106,13 @@
               "Street lighting in Alcúdia is sometimes reduced in winter.",
               "Watch out for cyclists, who train in large numbers even in winter.",
               "Rental cars are often significantly cheaper in winter."
+            ],
+            "es": [
+              "No hace falta aire acondicionado; suele bastar con entreabrir la ventanilla.",
+              "Aprovecha la temporada baja para visitar calas más remotas.",
+              "El alumbrado público en Alcúdia a veces se reduce en invierno.",
+              "Cuidado con los ciclistas, que entrenan en gran número incluso en invierno.",
+              "Los coches de alquiler suelen ser mucho más baratos en invierno."
             ]
           }
         }
@@ -1991,7 +2141,8 @@
             "de": "Zentrale Bushaltestelle Alcúdia Centre.",
             "hu": "Alcúdia Centre központi buszmegálló.",
             "ro": "Stația centrală de autobuz Alcúdia Centre.",
-            "en": "Central bus stop Alcúdia Centre."
+            "en": "Central bus stop Alcúdia Centre.",
+            "es": "Parada central de autobús Alcúdia Centre."
           }
         },
         {
@@ -2009,7 +2160,8 @@
             "de": "Kurzer Spaziergang von der Haltestelle.",
             "hu": "Rövid séta a megállótól.",
             "ro": "Scurtă plimbare de la stație.",
-            "en": "Short walk from the stop."
+            "en": "Short walk from the stop.",
+            "es": "A poca distancia a pie desde la parada."
           }
         },
         {
@@ -2027,7 +2179,8 @@
             "de": "Buslinie 322 verbindet Stadt und Hafen.",
             "hu": "A 322-es busz köti össze a várost a kikötővel.",
             "ro": "Linia 322 leagă orașul de port.",
-            "en": "Bus line 322 connects the city and the port."
+            "en": "Bus line 322 connects the city and the port.",
+            "es": "La línea de autobús 322 conecta la ciudad y el puerto."
           }
         },
         {
@@ -2045,7 +2198,8 @@
             "de": "Ausstieg an der Haltestelle H. Playa Esperanza.",
             "hu": "Szálljon le a H. Playa Esperanza megállónál.",
             "ro": "Coborâți la stația H. Playa Esperanza.",
-            "en": "Get off at the H. Playa Esperanza stop."
+            "en": "Get off at the H. Playa Esperanza stop.",
+            "es": "Baja en la parada H. Playa Esperanza."
           }
         },
         {
@@ -2063,7 +2217,8 @@
             "de": "Einfache Rückfahrt mit vielen Linien.",
             "hu": "Könnyű visszatérés számos járat egyikével.",
             "ro": "Întoarcere ușoară cu numeroase linii.",
-            "en": "Easy return with many bus lines."
+            "en": "Easy return with many bus lines.",
+            "es": "Fácil regreso con muchas líneas de autobús."
           }
         }
       ],
@@ -2071,7 +2226,8 @@
         "de": "Nutzen Sie das ausgezeichnete Busnetz (TIB). Starten Sie an der Porta de Mallorca und besichtigen Sie die Kirche Sant Jaume. Der Bus bringt Sie in wenigen Minuten zum Hafen und weiter zum Naturpark S'Albufera. Den Abschluss bildet ein Besuch am Strand von Alcúdia, von wo aus Sie bequem wieder zurückfahren können.",
         "hu": "Használja a kiváló TIB buszhálózatot. Kezdjen a Mallorca-kapunál és a Sant Jaume templomnál. A busz percek alatt a kikötőbe, majd tovább a S'Albufera parkhoz viszi. A napot az alcúdiái strandon zárja, ahonnan számos járattal kényelmesen visszajuthat a központba.",
         "ro": "Folosiți rețeaua excelentă de autobuze (TIB). Începeți la Porta de Mallorca și vizitați biserica Sant Jaume. Autobuzul vă duce în câteva minute în port și apoi la parcul S'Albufera. Finalul zilei este pe plaja Alcúdia, de unde puteți reveni ușor.",
-        "en": "Use the excellent TIB bus network. Start at Porta de Mallorca and visit the Sant Jaume church. The bus takes you in minutes to the port and further to the S'Albufera park. End the day at Alcúdia beach, from where you can easily travel back."
+        "en": "Use the excellent TIB bus network. Start at Porta de Mallorca and visit the Sant Jaume church. The bus takes you in minutes to the port and further to the S'Albufera park. End the day at Alcúdia beach, from where you can easily travel back.",
+        "es": "Usa la excelente red de autobuses TIB. Comienza en Porta de Mallorca y visita la iglesia de Sant Jaume. El autobús te lleva en minutos al puerto y continúa hasta el parque de S'Albufera. Termina el día en la playa de Alcúdia, desde donde es fácil volver."
       },
       "gastro_picks": {
         "de": [
@@ -2231,6 +2387,12 @@
           "Buses can be very crowded in summer, plan extra time.",
           "Pay contactless when boarding for discounts.",
           "Stop announcements are usually bilingual."
+        ],
+        "es": [
+          "La línea 322 es la conexión principal a lo largo de la bahía.",
+          "Los autobuses pueden ir muy llenos en verano; planifica tiempo extra.",
+          "Paga sin contacto al subir para descuentos.",
+          "Los anuncios de paradas suelen ser bilingües."
         ]
       },
       "variants": {
@@ -2239,7 +2401,8 @@
             "de": "Nutzen Sie das ausgezeichnete Busnetz (TIB). Starten Sie an der Porta de Mallorca und besichtigen Sie die Kirche Sant Jaume. Der Bus bringt Sie in wenigen Minuten zum Hafen und weiter zum Naturpark S'Albufera. Den Abschluss bildet ein Besuch am Strand von Alcúdia, von wo aus Sie bequem wieder zurückfahren können.",
             "hu": "Használja a kiváló TIB buszhálózatot. Kezdjen a Mallorca-kapunál és a Sant Jaume templomnál. A busz percek alatt a kikötőbe, majd tovább a S'Albufera parkhoz viszi. A napot az alcúdiái strandon zárja, ahonnan számos járattal kényelmesen visszajuthat a központba.",
             "ro": "Folosiți rețeaua excelentă de autobuze (TIB). Începeți la Porta de Mallorca și vizitați biserica Sant Jaume. Autobuzul vă duce în câteva minute în port și apoi la parcul S'Albufera. Finalul zilei este pe plaja Alcúdia, de unde puteți reveni ușor.",
-            "en": "Use the excellent TIB bus network. Start at Porta de Mallorca and visit the Sant Jaume church. The bus takes you in minutes to the port and further to the S'Albufera park. End the day at Alcúdia beach, from where you can easily travel back."
+            "en": "Use the excellent TIB bus network. Start at Porta de Mallorca and visit the Sant Jaume church. The bus takes you in minutes to the port and further to the S'Albufera park. End the day at Alcúdia beach, from where you can easily travel back.",
+            "es": "Utiliza la excelente red de autobuses TIB. Comienza en Porta de Mallorca y visita la iglesia de Sant Jaume. El autobús te lleva en minutos al puerto y más adelante al parque s'Albufera. Termina el día en la playa de Alcúdia, desde donde puedes volver fácilmente."
           },
           "stops": [
             {
@@ -2248,7 +2411,8 @@
                 "de": "Zentrale Bushaltestelle Alcúdia Centre.",
                 "hu": "Alcúdia Centre központi buszmegálló.",
                 "ro": "Stația centrală de autobuz Alcúdia Centre.",
-                "en": "Central bus stop Alcúdia Centre."
+                "en": "Central bus stop Alcúdia Centre.",
+                "es": "Parada central de autobús Alcúdia Centre."
               }
             },
             {
@@ -2257,7 +2421,8 @@
                 "de": "Kurzer Spaziergang von der Haltestelle.",
                 "hu": "Rövid séta a megállótól.",
                 "ro": "Scurtă plimbare de la stație.",
-                "en": "Short walk from the stop."
+                "en": "Short walk from the stop.",
+                "es": "Corta caminata desde la parada."
               }
             },
             {
@@ -2266,7 +2431,8 @@
                 "de": "Buslinie 322 verbindet Stadt und Hafen.",
                 "hu": "A 322-es busz köti össze a várost a kikötővel.",
                 "ro": "Linia 322 leagă orașul de port.",
-                "en": "Bus line 322 connects the city and the port."
+                "en": "Bus line 322 connects the city and the port.",
+                "es": "La línea de autobús 322 conecta la ciudad y el puerto."
               }
             },
             {
@@ -2275,7 +2441,8 @@
                 "de": "Ausstieg an der Haltestelle H. Playa Esperanza.",
                 "hu": "Szálljon le a H. Playa Esperanza megállónál.",
                 "ro": "Coborâți la stația H. Playa Esperanza.",
-                "en": "Get off at the H. Playa Esperanza stop."
+                "en": "Get off at the H. Playa Esperanza stop.",
+                "es": "Baja en la parada H. Playa Esperanza."
               }
             },
             {
@@ -2284,7 +2451,8 @@
                 "de": "Einfache Rückfahrt mit vielen Linien.",
                 "hu": "Könnyű visszatérés számos járat egyikével.",
                 "ro": "Întoarcere ușoară cu numeroase linii.",
-                "en": "Easy return with many bus lines."
+                "en": "Easy return with many bus lines.",
+                "es": "Fácil regreso con muchas líneas de autobús."
               }
             }
           ],
@@ -2446,6 +2614,12 @@
               "Buses can be very crowded in summer, plan extra time.",
               "Pay contactless when boarding for discounts.",
               "Stop announcements are usually bilingual."
+            ],
+            "es": [
+              "La línea 322 es la conexión principal a lo largo de la bahía.",
+              "Los autobuses pueden estar muy llenos en verano, planifica tiempo extra.",
+              "Paga contactless al subir para descuentos.",
+              "Los anuncios de paradas suelen ser bilingües."
             ]
           }
         },
@@ -2454,7 +2628,8 @@
             "de": "Der Bus bringt uns trocken zur Porta de Mallorca. Mittags nutzen wir die Wartezeit an der Kirche für einen kurzen Sprint zum nächsten Stopp.\nNachmittags fahren wir zum Hafen; die Busfenster sind beschlagen, aber die Fahrt ist warm.\nAm Abend bringt uns die Linie 322 sicher und trocken zurück, während draußen der Regen fällt.",
             "hu": "A busz szárazon visz minket a Porta de Mallorcához. Délben a templomnál töltött várakozási időt egy gyors sprintre használjuk a következő megállóig.\nDélután a kikötőbe megyünk; a busz ablakai párásak, de az út meleg.\nEste a 322-es járat biztonságban és szárazon visz vissza minket, miközben kint esik.",
             "ro": "Autobuzul ne duce uscați la Porta de Mallorca. La prânz folosim timpul de așteptare de la biserică pentru un scurt sprint spre următoarea stație.\nDupă-amiaza mergem în port; geamurile autobuzului sunt aburite, dar drumul este călduros.\nSeara, linia 322 ne aduce înapoi în siguranță și uscați, în timp ce afară plouă.",
-            "en": "The bus takes us dry to Porta de Mallorca. At noon, we use the waiting time at the church for a short sprint to the next stop.\nIn the afternoon, we go to the port; the bus windows are fogged up, but the ride is warm.\nIn the evening, line 322 brings us back safe and dry while the rain falls outside."
+            "en": "The bus takes us dry to Porta de Mallorca. At noon, we use the waiting time at the church for a short sprint to the next stop.\nIn the afternoon, we go to the port; the bus windows are fogged up, but the ride is warm.\nIn the evening, line 322 brings us back safe and dry while the rain falls outside.",
+            "es": "El autobús nos deja secos en Porta de Mallorca. Al mediodía aprovechamos el tiempo de espera en la iglesia para un breve sprint hasta la siguiente parada.\nPor la tarde vamos al puerto; las ventanas del autobús están empañadas, pero el viaje es cálido.\nPor la noche la línea 322 nos lleva de regreso sanos y salvos mientras la lluvia cae fuera."
           },
           "stops": [
             {
@@ -2463,7 +2638,8 @@
                 "de": "Die Bushaltestelle bietet ein kleines Wartehäuschen gegen den Regen.",
                 "hu": "A buszmegállóban van egy kis esővédő bódé.",
                 "ro": "Stația de autobuz are o mică copertină împotriva ploii.",
-                "en": "The bus stop has a small shelter against the rain."
+                "en": "The bus stop has a small shelter against the rain.",
+                "es": "La parada de autobús tiene un pequeño refugio contra la lluvia."
               }
             },
             {
@@ -2472,7 +2648,8 @@
                 "de": "Kurzer Fußweg vom Busstopp, halten Sie den Schirm bereit.",
                 "hu": "Rövid séta a buszmegállótól, tartsa készenlétben az esernyőt.",
                 "ro": "Drum scurt pe jos de la stație, țineți umbrela pregătită.",
-                "en": "Short walk from the bus stop; have your umbrella ready."
+                "en": "Short walk from the bus stop; have your umbrella ready.",
+                "es": "Corta caminata desde la parada; lleva el paraguas listo."
               }
             },
             {
@@ -2481,7 +2658,8 @@
                 "de": "Zentraler Umsteigepunkt mit vielen Cafés in Laufnähe.",
                 "hu": "Központi átszállási pont sok kávézóval a közelben.",
                 "ro": "Punct central de transfer cu multe cafenele la mică distanță.",
-                "en": "Central transfer point with many cafes within walking distance."
+                "en": "Central transfer point with many cafes within walking distance.",
+                "es": "Punto de trasbordo central con muchos cafés a distancia a pie."
               }
             },
             {
@@ -2490,7 +2668,8 @@
                 "de": "Der Bus hält direkt am Eingang, minimiert die Zeit im Regen.",
                 "hu": "A busz közvetlenül a bejáratnál áll meg, minimalizálva az esőben töltött időt.",
                 "ro": "Autobuzul oprește chiar la intrare, minimizând timpul petrecut în ploaie.",
-                "en": "The bus stops right at the entrance, minimizing time in the rain."
+                "en": "The bus stops right at the entrance, minimizing time in the rain.",
+                "es": "El autobús para justo en la entrada, minimizando el tiempo bajo la lluvia."
               }
             },
             {
@@ -2499,7 +2678,8 @@
                 "de": "Nutzen Sie die Bus-App, um Wartezeiten im Freien zu vermeiden.",
                 "hu": "Használja a buszos appot, hogy elkerülje a szabadban való várakozást.",
                 "ro": "Folosiți aplicația de transport pentru a evita așteptarea în aer liber.",
-                "en": "Use the bus app to avoid waiting outdoors."
+                "en": "Use the bus app to avoid waiting outdoors.",
+                "es": "Usa la app de autobuses para evitar esperar al aire libre."
               }
             }
           ],
@@ -2531,6 +2711,13 @@
               "In-bus displays help if the windows are fogged up.",
               "Bring a small towel to wipe down wet seats.",
               "Some lines may experience minor delays during heavy rain."
+            ],
+            "es": [
+              "Usa la tarjeta TIB o pago contactless para subir rápido.",
+              "Los autobuses suelen estar más llenos con lluvia; súbete temprano.",
+              "Las pantallas dentro del bus ayudan si las ventanas están empañadas.",
+              "Lleva una toalla pequeña para secar asientos mojados.",
+              "Algunas líneas pueden sufrir retrasos leves durante lluvia intensa."
             ]
           }
         },
@@ -2539,7 +2726,8 @@
             "de": "Der Winterfahrplan erfordert Planung, aber die Busse sind angenehm leer. Mittags erreichen wir die Kirche ohne die Sommerhitze im Nacken.\nNachmittags führt die Fahrt am glitzernden Wintermeer vorbei zum Hafen.\nAm Abend genießen wir die ruhige Fahrt zurück, während die Lichter der Stadt im Dunkeln leuchten.",
             "hu": "A téli menetrend tervezést igényel, de a buszok kellemesen üresek. Délben a templomhoz érünk a nyári hőség nélkül.\nDélután az út a csillogó téli tenger mellett vezet a kikötőbe.\nEste élvezzük a csendes hazautat, miközben a város fényei világítanak a sötétben.",
             "ro": "Orarele de iarnă necesită planificare, dar autobuzele sunt plăcut de libere. La prânz ajungem la biserică fără căldura verii.\nDupă-amiaza, drumul trece pe lângă marea sclipitoare de iarnă spre port.\nSeara ne bucurăm de drumul liniștit înapoi, în timp ce luminile orașului strălucesc în întuneric.",
-            "en": "The winter schedule requires planning, but the buses are pleasantly empty. At noon, we reach the church without the summer heat on our necks.\nIn the afternoon, the ride passes the sparkling winter sea on the way to the port.\nIn the evening, we enjoy the quiet ride back while the city lights glow in the dark."
+            "en": "The winter schedule requires planning, but the buses are pleasantly empty. At noon, we reach the church without the summer heat on our necks.\nIn the afternoon, the ride passes the sparkling winter sea on the way to the port.\nIn the evening, we enjoy the quiet ride back while the city lights glow in the dark.",
+            "es": "El horario de invierno requiere planificación, pero los autobuses están agradablemente vacíos. Al mediodía llegamos a la iglesia sin el agobio del calor veraniego.\nPor la tarde el trayecto pasa por el mar invernal brillante camino al puerto.\nPor la noche disfrutamos del tranquilo regreso mientras las luces de la ciudad brillan en la oscuridad."
           },
           "stops": [
             {
@@ -2548,7 +2736,8 @@
                 "de": "Prüfen Sie den speziellen Winterfahrplan, Takte sind seltener.",
                 "hu": "Ellenőrizze a speciális téli menetrendet, ritkábbak a járatok.",
                 "ro": "Verificați orarul special de iarnă, frecvența este mai redusă.",
-                "en": "Check the special winter schedule; frequency is lower."
+                "en": "Check the special winter schedule; frequency is lower.",
+                "es": "Consulta el horario especial de invierno; la frecuencia es menor."
               }
             },
             {
@@ -2557,7 +2746,8 @@
                 "de": "Die Haltestelle ist im Winter ein ruhiger Ort zum Warten.",
                 "hu": "A megálló télen nyugodt hely a várakozáshoz.",
                 "ro": "Stația este un loc liniștit pentru așteptare iarna.",
-                "en": "The stop is a quiet place to wait in winter."
+                "en": "The stop is a quiet place to wait in winter.",
+                "es": "La parada es un lugar tranquilo para esperar en invierno."
               }
             },
             {
@@ -2566,7 +2756,8 @@
                 "de": "Nutzen Sie den Hauptknotenpunkt für Verbindungen nach Palma.",
                 "hu": "Használja a fő csomópontot a Palma felé tartó csatlakozásokhoz.",
                 "ro": "Folosiți nodul principal pentru conexiuni către Palma.",
-                "en": "Use the main hub for connections to Palma."
+                "en": "Use the main hub for connections to Palma.",
+                "es": "Usa el nodo principal para conexiones con Palma."
               }
             },
             {
@@ -2575,7 +2766,8 @@
                 "de": "Letzter Bus zurück oft schon gegen 18:30 Uhr im Winter.",
                 "hu": "Télen az utolsó busz visszafelé gyakran már 18:30 körül elmegy.",
                 "ro": "Ultimul autobuz înapoi pleacă adesea în jurul orei 18:30 iarna.",
-                "en": "The last bus back is often around 6:30 PM in winter."
+                "en": "The last bus back is often around 6:30 PM in winter.",
+                "es": "El último bus de regreso suele ser alrededor de las 18:30 en invierno."
               }
             },
             {
@@ -2584,7 +2776,8 @@
                 "de": "Die Haltestellen am Strand sind im Winter fast verwaist.",
                 "hu": "A strand menti megállók télen szinte teljesen elhagyatottak.",
                 "ro": "Stațiile de pe plajă sunt aproape pustii iarna.",
-                "en": "The beach stops are almost deserted in winter."
+                "en": "The beach stops are almost deserted in winter.",
+                "es": "Las paradas de playa están casi desiertas en invierno."
               }
             }
           ],
@@ -2617,6 +2810,13 @@
               "Some tourist lines (e.g., to Cap Formentor) are suspended in winter.",
               "Combine bus rides with short walks to stay warm.",
               "Weekend schedules often differ significantly from weekdays in winter."
+            ],
+            "es": [
+              "Los autobuses TIB están bien climatizados en invierno.",
+              "Descarga la app oficial de TIB para información en tiempo real.",
+              "Algunas líneas turísticas (por ejemplo, a Cap Formentor) están suspendidas en invierno.",
+              "Combina trayectos en bus con paseos cortos para mantenerte caliente.",
+              "Los horarios de fin de semana suelen diferir significativamente de los laborables en invierno."
             ]
           }
         }
@@ -2631,19 +2831,22 @@
       "de": "In Alcúdia spricht man Mallorquí und Spanisch, in Touristenzonen (Port d'Alcúdia, Playa de Muro) ist Deutsch fast Amtssprache. Im Altstadtviertel zwischen den römischen Mauern wird auf jedes spanische Wort positiv reagiert. 'Una cervesa, si us plau' auf Katalanisch ist immer ein Hit.",
       "hu": "Alcúdiában mallorquí és spanyol nyelvet beszélnek, a turistazónákban (Port d'Alcúdia, Playa de Muro) a német szinte hivatalos nyelv. A római falak közti óvárosi részen minden spanyol szóra mosolyogva reagálnak. Egy 'una cervesa, si us plau' katalánul mindig sikerre vezet.",
       "ro": "În Alcúdia se vorbește mallorquí și spaniolă, iar în zonele turistice (Port d'Alcúdia, Playa de Muro) germana este aproape limbă oficială. În centrul vechi între zidurile romane, fiecare cuvânt în spaniolă este apreciat. 'Una cervesa, si us plau' în catalană este mereu o reușită.",
-      "en": "Alcúdia speaks Mallorquí and Spanish, while in tourist zones (Port d'Alcúdia, Playa de Muro) German is almost an official language. In the old town between the Roman walls, any Spanish word brings smiles. 'Una cervesa, si us plau' in Catalan is always a winner."
+      "en": "Alcúdia speaks Mallorquí and Spanish, while in tourist zones (Port d'Alcúdia, Playa de Muro) German is almost an official language. In the old town between the Roman walls, any Spanish word brings smiles. 'Una cervesa, si us plau' in Catalan is always a winner.",
+      "es": "En Alcúdia se habla mallorquín y español; en zonas turísticas (Port d'Alcúdia, Playa de Muro) el alemán es casi lengua oficial. En el casco antiguo, entre las murallas romanas, cualquier palabra en español suscita sonrisas. «Una cervesa, si us plau» en catalán siempre funciona."
     },
     "best_time_to_visit": {
       "de": "Mai, Juni und September sind perfekt mit 23-29°C, badebar und ohne die Familienflut aus Deutschland und Großbritannien. Im Juli-August ist die Playa de Muro überfüllt, die Altstadt bleibt aber relativ ruhig. Der Dienstag- und Sonntagsmarkt sind ganzjährig sehenswert.",
       "hu": "Május, június és szeptember tökéletes a 23-29°C-kal, fürdőzhető, és nincs még a német-brit családi áradat. Júliusban-augusztusban a Playa de Muro zsúfolt, az óváros viszont viszonylag csendes marad. A keddi és vasárnapi piac egész évben látnivaló.",
       "ro": "Mai, iunie și septembrie sunt perfecte cu 23-29°C, propice pentru baie și fără potopul de familii din Germania și Marea Britanie. În iulie-august, Playa de Muro este supraaglomerată, dar orașul vechi rămâne relativ liniștit. Piețele de marți și duminică merită toată vizita anul întreg.",
-      "en": "May, June and September are perfect at 23-29°C, swimmable and without the German-British family flood. In July-August, Playa de Muro is jam-packed but the old town stays relatively quiet. Tuesday and Sunday markets are worth visiting year-round."
+      "en": "May, June and September are perfect at 23-29°C, swimmable and without the German-British family flood. In July-August, Playa de Muro is jam-packed but the old town stays relatively quiet. Tuesday and Sunday markets are worth visiting year-round.",
+      "es": "Mayo, junio y septiembre son perfectos con 23–29 °C, aptos para bañarse y sin la avalancha anglo-alemana. En julio-agosto Playa de Muro está abarrotada pero el casco antiguo se mantiene relativamente tranquilo. Los mercados de martes y domingo merecen una visita todo el año."
     },
     "neighborhood_warnings": {
       "de": "Alcúdia ist insgesamt sicher, im Port d'Alcúdia gibt es nachts an der Strandpromenade gelegentliche Trunkenheit und kleinkriminelle Taschendiebe. Die antiken Mauern haben rutschige Steine, festes Schuhwerk hilft. Vorsicht beim Schwimmen an der Playa de Muro bei roter Flagge wegen Quallen.",
       "hu": "Alcúdia összességében biztonságos, a Port d'Alcúdia tengerparti sétányán éjjel néha részeg fiatalok és kis zsebtolvajok dolgoznak. Az ókori falak kövei csúszósak lehetnek, kemény talpú cipő ajánlott. A Playa de Muro-n piros zászló esetén medúzák miatt ne menj a vízbe.",
       "ro": "Alcúdia este în general sigură, în Port d'Alcúdia pe promenada de plajă apar noaptea beții ocazionale și mici hoți de buzunare. Pietrele zidurilor antice pot fi alunecoase, încălțăminte solidă ajută. La Playa de Muro, atenție la steagul roșu, indică prezența meduzelor.",
-      "en": "Alcúdia is generally safe; in Port d'Alcúdia, the beach promenade sees occasional drunkenness and minor pickpocketing at night. The ancient walls have slippery stones, sturdy shoes help. Beware of red flags at Playa de Muro indicating jellyfish."
+      "en": "Alcúdia is generally safe; in Port d'Alcúdia, the beach promenade sees occasional drunkenness and minor pickpocketing at night. The ancient walls have slippery stones, sturdy shoes help. Beware of red flags at Playa de Muro indicating jellyfish.",
+      "es": "Alcúdia es generalmente segura; en Port d'Alcúdia el paseo marítimo ve ocasionales borracheras y pequeños hurtos por la noche. Las piedras de las murallas antiguas son resbaladizas, calzado resistente ayuda. Cuidado con las banderas rojas en Playa de Muro que indican medusas."
     }
   }
 }

@@ -21,7 +21,8 @@
             "de": "Plaza de la Iglesia",
             "hu": "Plaza de la Iglesia",
             "ro": "Plaza de la Iglesia",
-            "en": "Church Square"
+            "en": "Church Square",
+            "es": "Plaza de la Iglesia"
           },
           "coords": [
             -5.0612,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die bunten Häuser rund um den Platz.",
             "hu": "Csodálja meg a tér körüli színes házakat.",
             "ro": "Admirați casele colorate din jurul pieței.",
-            "en": "Admire the colorful houses surrounding the square."
+            "en": "Admire the colorful houses surrounding the square.",
+            "es": "Admira las casas coloridas que rodean la plaza."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Iglesia de Santa María Magdalena",
             "hu": "Szent Mária Magdolna-templom",
             "ro": "Biserica Santa María Magdalena",
-            "en": "Church of Santa María Magdalena"
+            "en": "Church of Santa María Magdalena",
+            "es": "Iglesia de Santa María Magdalena"
           },
           "coords": [
             -5.0615,
@@ -59,7 +62,8 @@
             "de": "Beachten Sie die beeindruckenden modernen Fresken im Inneren.",
             "hu": "Nézze meg a lenyűgöző modern freskókat belül.",
             "ro": "Observați frescele moderne impresionante din interior.",
-            "en": "Note the impressive modern frescoes inside."
+            "en": "Note the impressive modern frescoes inside.",
+            "es": "Fíjate en los impresionantes frescos modernos del interior."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Cueva de Tito Bustillo",
             "hu": "Tito Bustillo-barlang",
             "ro": "Peștera Tito Bustillo",
-            "en": "Tito Bustillo Cave"
+            "en": "Tito Bustillo Cave",
+            "es": "Cueva de Tito Bustillo"
           },
           "coords": [
             -5.0675,
@@ -82,7 +87,8 @@
             "de": "Buchen Sie Tickets Wochen im Voraus, da der Zugang begrenzt ist.",
             "hu": "Foglaljon jegyet hetekkel előre, a belépés korlátozott.",
             "ro": "Rezervați bilete cu săptămâni înainte, accesul este limitat.",
-            "en": "Book tickets weeks in advance as access is limited."
+            "en": "Book tickets weeks in advance as access is limited.",
+            "es": "Reserva entradas con semanas de antelación porque el acceso es limitado."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Paseo de la Grúa",
             "hu": "Paseo de la Grúa",
             "ro": "Paseo de la Grúa",
-            "en": "Crane Promenade"
+            "en": "Crane Promenade",
+            "es": "Paseo de la Grúa"
           },
           "coords": [
             -5.0585,
@@ -105,7 +112,8 @@
             "de": "Sehen Sie sich die Fliesenwand an, die die Stadtgeschichte erzählt.",
             "hu": "Nézze meg a város történetét elmesélő csempéket.",
             "ro": "Vedeți panourile de ceramică ce spun istoria orașului.",
-            "en": "Check out the ceramic panels telling the city's history."
+            "en": "Check out the ceramic panels telling the city's history.",
+            "es": "Fíjate en los paneles cerámicos que cuentan la historia de la ciudad."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Ermita de la Guía",
             "hu": "Guía-kápolna",
             "ro": "Ermita de la Guía",
-            "en": "Hermitage of La Guía"
+            "en": "Hermitage of La Guía",
+            "es": "Ermita de La Guía"
           },
           "coords": [
             -5.0565,
@@ -128,7 +137,8 @@
             "de": "Der beste Aussichtspunkt über den Hafen und die Stadt.",
             "hu": "A legjobb kilátópont a kikötőre és a városra.",
             "ro": "Cel mai bun punct de belvedere asupra portului.",
-            "en": "The best viewpoint over the harbor and the town."
+            "en": "The best viewpoint over the harbor and the town.",
+            "es": "El mejor mirador sobre el puerto y la villa."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Playa de Santa Marina",
             "hu": "Playa de Santa Marina",
             "ro": "Playa de Santa Marina",
-            "en": "Santa Marina Beach"
+            "en": "Santa Marina Beach",
+            "es": "Playa de Santa Marina"
           },
           "coords": [
             -5.07,
@@ -151,7 +162,8 @@
             "de": "Bewundern Sie die Villen der 'Indianos' direkt an der Promenade.",
             "hu": "Csodálja meg az 'indiano' villákat a sétányon.",
             "ro": "Admirați vilele 'indianos' de pe faleză.",
-            "en": "Admire the 'indiano' mansions along the promenade."
+            "en": "Admire the 'indiano' mansions along the promenade.",
+            "es": "Admira las mansiones indianas a lo largo del paseo."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Torre de la Atalaya",
             "hu": "Őrtorony",
             "ro": "Turnul Atalaya",
-            "en": "Atalaya Tower"
+            "en": "Atalaya Tower",
+            "es": "Torre de la Atalaya"
           },
           "coords": [
             -5.0605,
@@ -174,7 +187,8 @@
             "de": "Ein mittelalterlicher Turm, der einst die Küste bewachte.",
             "hu": "Középkori torony, amely egykor a partot őrizte.",
             "ro": "Un turn medieval care păzea odinioară coasta.",
-            "en": "A medieval tower that once guarded the coast."
+            "en": "A medieval tower that once guarded the coast.",
+            "es": "Torre medieval que una vez vigiló la costa."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag im historischen Kern am Plaza de la Iglesia, umgeben von traditioneller Architektur. Ein Muss ist die weltberühmte Tito Bustillo Höhle mit ihren prähistorischen Malereien. Mittags spazieren Sie entlang des Paseo de la Grúa zur Ermita de la Guía für ein Panorama der asturischen Küste. Den Nachmittag verbringen Sie entspannt am eleganten Strand von Santa Marina, gesäumt von prächtigen historischen Villen, bevor Sie den Tag in der Altstadt ausklingen lassen.",
         "hu": "Kezdje a napot a történelmi központban, a Plaza de la Iglesia téren, hagyományos épületek gyűrűjében. Kihagyhatatlan a világhírű Tito Bustillo-barlang őskori rajzaival. Délben sétáljon végig a Paseo de la Grúa sétányon a Guía-kápolnáig az asztúriai partvidék panorámájáért. A délutánt töltse a Santa Marina strand elegáns környezetében, ahol történelmi villák sorakoznak, majd zárja a napot az óvárosban.",
         "ro": "Începeți ziua în nucleul istoric, în Plaza de la Iglesia, înconjurați de arhitectură tradițională. O vizită obligatorie este Peștera Tito Bustillo, cu picturile sale preistorice. La prânz, plimbați-vă pe Paseo de la Grúa până la Ermita de la Guía pentru o panoramă a coastei asturiene. Petreceți după-amiaza relaxându-vă pe eleganta plajă Santa Marina, mărginită de vile istorice magnifice, înainte de a încheia ziua în centrul vechi.",
-        "en": "Start your day in the historic core at Plaza de la Iglesia, surrounded by traditional architecture. A must-visit is the world-famous Tito Bustillo Cave with its prehistoric paintings. At midday, stroll along Paseo de la Grúa to the Hermitage of La Guía for a panorama of the Asturian coast. Spend the afternoon relaxing on the elegant Santa Marina beach, lined with magnificent historic villas, before ending your day in the old town."
+        "en": "Start your day in the historic core at Plaza de la Iglesia, surrounded by traditional architecture. A must-visit is the world-famous Tito Bustillo Cave with its prehistoric paintings. At midday, stroll along Paseo de la Grúa to the Hermitage of La Guía for a panorama of the Asturian coast. Spend the afternoon relaxing on the elegant Santa Marina beach, lined with magnificent historic villas, before ending your day in the old town.",
+        "es": "Comienza el día en el casco histórico en la Plaza de la Iglesia, rodeada de arquitectura tradicional. Imprescindible la mundialmente famosa Cueva de Tito Bustillo con sus pinturas prehistóricas. Al mediodía, pasea por el Paseo de la Grúa hasta la Ermita de La Guía para un panorama de la costa asturiana. Pasa la tarde relajándote en la elegante Playa de Santa Marina, bordeada de magníficas villas históricas, antes de terminar el día en el casco antiguo."
       },
       "gastro_picks": {
         "de": [
@@ -326,6 +341,12 @@
           "Book the cave tour months in advance.",
           "Weather changes quickly in Asturias, bring a light rain jacket.",
           "Try the 'Gamoneu' cheese, a local mountain specialty."
+        ],
+        "es": [
+          "Lleva calzado cómodo para las calles empedradas.",
+          "Reserva la visita a la cueva con meses de antelación.",
+          "El tiempo cambia rápido en Asturias; lleva una chaqueta impermeable ligera.",
+          "Prueba el queso 'Gamoneu', una especialidad montañesa local."
         ]
       },
       "variants": {
@@ -334,7 +355,8 @@
             "de": "Beginnen Sie Ihren Tag im historischen Kern am Plaza de la Iglesia, umgeben von traditioneller Architektur. Ein Muss ist die weltberühmte Tito Bustillo Höhle mit ihren prähistorischen Malereien. Mittags spazieren Sie entlang des Paseo de la Grúa zur Ermita de la Guía für ein Panorama der asturischen Küste. Den Nachmittag verbringen Sie entspannt am eleganten Strand von Santa Marina, gesäumt von prächtigen historischen Villen, bevor Sie den Tag in der Altstadt ausklingen lassen.",
             "hu": "Kezdje a napot a történelmi központban, a Plaza de la Iglesia téren, hagyományos épületek gyűrűjében. Kihagyhatatlan a világhírű Tito Bustillo-barlang őskori rajzaival. Délben sétáljon végig a Paseo de la Grúa sétányon a Guía-kápolnáig az asztúriai partvidék panorámájáért. A délutánt töltse a Santa Marina strand elegáns környezetében, ahol történelmi villák sorakoznak, majd zárja a napot az óvárosban.",
             "ro": "Începeți ziua în nucleul istoric, în Plaza de la Iglesia, înconjurați de arhitectură tradițională. O vizită obligatorie este Peștera Tito Bustillo, cu picturile sale preistorice. La prânz, plimbați-vă pe Paseo de la Grúa până la Ermita de la Guía pentru o panoramă a coastei asturiene. Petreceți după-amiaza relaxându-vă pe eleganta plajă Santa Marina, mărginită de vile istorice magnifice, înainte de a încheia ziua în centrul vechi.",
-            "en": "Start your day in the historic core at Plaza de la Iglesia, surrounded by traditional architecture. A must-visit is the world-famous Tito Bustillo Cave with its prehistoric paintings. At midday, stroll along Paseo de la Grúa to the Hermitage of La Guía for a panorama of the Asturian coast. Spend the afternoon relaxing on the elegant Santa Marina beach, lined with magnificent historic villas, before ending your day in the old town."
+            "en": "Start your day in the historic core at Plaza de la Iglesia, surrounded by traditional architecture. A must-visit is the world-famous Tito Bustillo Cave with its prehistoric paintings. At midday, stroll along Paseo de la Grúa to the Hermitage of La Guía for a panorama of the Asturian coast. Spend the afternoon relaxing on the elegant Santa Marina beach, lined with magnificent historic villas, before ending your day in the old town.",
+            "es": "Comienza el día en el casco histórico en la Plaza de la Iglesia, rodeada de arquitectura tradicional. Imprescindible la mundialmente famosa Cueva de Tito Bustillo con sus pinturas prehistóricas. Al mediodía, pasea por el Paseo de la Grúa hasta la Ermita de La Guía para un panorama de la costa asturiana. Pasa la tarde relajándote en la elegante Playa de Santa Marina, bordeada de magníficas villas históricas, antes de terminar el día en el casco antiguo."
           },
           "stops": [
             {
@@ -342,13 +364,15 @@
                 "de": "Plaza de la Iglesia",
                 "hu": "Plaza de la Iglesia",
                 "ro": "Plaza de la Iglesia",
-                "en": "Church Square"
+                "en": "Church Square",
+                "es": "Plaza de la Iglesia"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die bunten Häuser rund um den Platz.",
                 "hu": "Csodálja meg a tér körüli színes házakat.",
                 "ro": "Admirați casele colorate din jurul pieței.",
-                "en": "Admire the colorful houses surrounding the square."
+                "en": "Admire the colorful houses surrounding the square.",
+                "es": "Admira las casas coloridas que rodean la plaza."
               }
             },
             {
@@ -356,13 +380,15 @@
                 "de": "Iglesia de Santa María Magdalena",
                 "hu": "Szent Mária Magdolna-templom",
                 "ro": "Biserica Santa María Magdalena",
-                "en": "Church of Santa María Magdalena"
+                "en": "Church of Santa María Magdalena",
+                "es": "Iglesia de Santa María Magdalena"
               },
               "tip_5lang": {
                 "de": "Beachten Sie die beeindruckenden modernen Fresken im Inneren.",
                 "hu": "Nézze meg a lenyűgöző modern freskókat belül.",
                 "ro": "Observați frescele moderne impresionante din interior.",
-                "en": "Note the impressive modern frescoes inside."
+                "en": "Note the impressive modern frescoes inside.",
+                "es": "Fíjate en los impresionantes frescos modernos del interior."
               }
             },
             {
@@ -370,13 +396,15 @@
                 "de": "Cueva de Tito Bustillo",
                 "hu": "Tito Bustillo-barlang",
                 "ro": "Peștera Tito Bustillo",
-                "en": "Tito Bustillo Cave"
+                "en": "Tito Bustillo Cave",
+                "es": "Cueva de Tito Bustillo"
               },
               "tip_5lang": {
                 "de": "Buchen Sie Tickets Wochen im Voraus, da der Zugang begrenzt ist.",
                 "hu": "Foglaljon jegyet hetekkel előre, a belépés korlátozott.",
                 "ro": "Rezervați bilete cu săptămâni înainte, accesul este limitat.",
-                "en": "Book tickets weeks in advance as access is limited."
+                "en": "Book tickets weeks in advance as access is limited.",
+                "es": "Reserva entradas con semanas de antelación porque el acceso es limitado."
               }
             },
             {
@@ -384,13 +412,15 @@
                 "de": "Paseo de la Grúa",
                 "hu": "Paseo de la Grúa",
                 "ro": "Paseo de la Grúa",
-                "en": "Crane Promenade"
+                "en": "Crane Promenade",
+                "es": "Paseo de la Grúa"
               },
               "tip_5lang": {
                 "de": "Sehen Sie sich die Fliesenwand an, die die Stadtgeschichte erzählt.",
                 "hu": "Nézze meg a város történetét elmesélő csempéket.",
                 "ro": "Vedeți panourile de ceramică ce spun istoria orașului.",
-                "en": "Check out the ceramic panels telling the city's history."
+                "en": "Check out the ceramic panels telling the city's history.",
+                "es": "Fíjate en los paneles cerámicos que cuentan la historia de la ciudad."
               }
             },
             {
@@ -398,13 +428,15 @@
                 "de": "Ermita de la Guía",
                 "hu": "Guía-kápolna",
                 "ro": "Ermita de la Guía",
-                "en": "Hermitage of La Guía"
+                "en": "Hermitage of La Guía",
+                "es": "Ermita de La Guía"
               },
               "tip_5lang": {
                 "de": "Der beste Aussichtspunkt über den Hafen und die Stadt.",
                 "hu": "A legjobb kilátópont a kikötőre és a városra.",
                 "ro": "Cel mai bun punct de belvedere asupra portului.",
-                "en": "The best viewpoint over the harbor and the town."
+                "en": "The best viewpoint over the harbor and the town.",
+                "es": "El mejor mirador sobre el puerto y la villa."
               }
             },
             {
@@ -412,13 +444,15 @@
                 "de": "Playa de Santa Marina",
                 "hu": "Playa de Santa Marina",
                 "ro": "Playa de Santa Marina",
-                "en": "Santa Marina Beach"
+                "en": "Santa Marina Beach",
+                "es": "Playa de Santa Marina"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Villen der 'Indianos' direkt an der Promenade.",
                 "hu": "Csodálja meg az 'indiano' villákat a sétányon.",
                 "ro": "Admirați vilele 'indianos' de pe faleză.",
-                "en": "Admire the 'indiano' mansions along the promenade."
+                "en": "Admire the 'indiano' mansions along the promenade.",
+                "es": "Admira las mansiones indianas a lo largo del paseo."
               }
             },
             {
@@ -426,13 +460,15 @@
                 "de": "Torre de la Atalaya",
                 "hu": "Őrtorony",
                 "ro": "Turnul Atalaya",
-                "en": "Atalaya Tower"
+                "en": "Atalaya Tower",
+                "es": "Torre de la Atalaya"
               },
               "tip_5lang": {
                 "de": "Ein mittelalterlicher Turm, der einst die Küste bewachte.",
                 "hu": "Középkori torony, amely egykor a partot őrizte.",
                 "ro": "Un turn medieval care păzea odinioară coasta.",
-                "en": "A medieval tower that once guarded the coast."
+                "en": "A medieval tower that once guarded the coast.",
+                "es": "Torre medieval que una vez vigiló la costa."
               }
             }
           ],
@@ -578,6 +614,12 @@
               "Book the cave tour months in advance.",
               "Weather changes quickly in Asturias, bring a light rain jacket.",
               "Try the 'Gamoneu' cheese, a local mountain specialty."
+            ],
+            "es": [
+              "Lleva calzado cómodo para las calles empedradas.",
+              "Reserva la visita a la cueva con meses de antelación.",
+              "El tiempo cambia rápido en Asturias; lleva una chaqueta impermeable ligera.",
+              "Prueba el queso 'Gamoneu', una especialidad montañesa local."
             ]
           }
         },
@@ -586,7 +628,8 @@
             "de": "Beginnen Sie den Tag in den geschützten Gassen der Altstadt. Die Tito-Bustillo-Höhle bietet am Vormittag einen idealen trockenen Rückzugsort. Mittags führt der Weg entlang der Promenade, wo die Cafés Schutz bieten. Nachmittags erleben Sie die raue Schönheit der Santa Marina am Strand, bevor Sie den Tag gemütlich im Zentrum bei lokaler Gastronomie ausklingen lassen.",
             "hu": "Kezdje a napot az óváros védett árkádjai alatt. Délelőtt a Tito Bustillo-barlang nyújt tökéletes menedéket az eső elől. Ebédidőben a parti sétány kávézói kínálnak pihenőt. Délután a viharos tenger látványa a Santa Marina strandról lenyűgöző, az estét pedig egy hangulatos belvárosi cider-házban érdemes zárni.",
             "ro": "Începeți ziua sub arcadele protectoare ale centrului vechi. Dimineața, Peștera Tito Bustillo oferă un refugiu uscat ideal. La prânz, plimbarea pe faleză permite opriri rapide în cafenele. După-amiaza, admirați marea agitată de pe plaja Santa Marina, iar seara retrageți-vă într-o tavernă locală pentru a degusta cidrul tradițional.",
-            "en": "Start your day under the sheltered arches of the old town. In the morning, the Tito Bustillo Cave provides a perfect dry sanctuary. At midday, walk along the promenade where local cafes offer cover. In the afternoon, enjoy the dramatic views of the stormy Bay of Biscay from Santa Marina beach, finishing the day in a cozy city center eatery."
+            "en": "Start your day under the sheltered arches of the old town. In the morning, the Tito Bustillo Cave provides a perfect dry sanctuary. At midday, walk along the promenade where local cafes offer cover. In the afternoon, enjoy the dramatic views of the stormy Bay of Biscay from Santa Marina beach, finishing the day in a cozy city center eatery.",
+            "es": "Comienza el día bajo los soportales del casco antiguo. Por la mañana, la Cueva de Tito Bustillo es un refugio perfecto contra la lluvia. Al mediodía, pasea por el paseo donde las cafeterías locales ofrecen cobertura. Por la tarde, disfruta de las vistas dramáticas de la tormentosa Bahía de Vizcaya desde la Playa de Santa Marina y termina el día en un restaurante acogedor del centro."
           },
           "stops": [
             {
@@ -595,7 +638,8 @@
                 "de": "Nutzen Sie die Gebäudevorsprünge als Regenschutz.",
                 "hu": "Használja az épületek ereszeit eső elleni védelemként.",
                 "ro": "Folosiți arcadele clădirilor pentru a vă adăposti de ploaie.",
-                "en": "Use the building overhangs as temporary rain shelter."
+                "en": "Use the building overhangs as temporary rain shelter.",
+                "es": "Usa los aleros de los edificios como refugio temporal de la lluvia."
               }
             },
             {
@@ -604,7 +648,8 @@
                 "de": "Bewundern Sie die Fresken im trockenen Innenraum.",
                 "hu": "Csodálja meg a freskókat a száraz belső térben.",
                 "ro": "Admirați frescele în interiorul primitor și uscat.",
-                "en": "Admire the frescoes inside the dry and peaceful interior."
+                "en": "Admire the frescoes inside the dry and peaceful interior.",
+                "es": "Admira los frescos en el interior seco y tranquilo."
               }
             },
             {
@@ -613,7 +658,8 @@
                 "de": "Der beste Ort bei Regen; konstante Innentemperatur.",
                 "hu": "A legjobb hely esőben; állandó benti hőmérséklet.",
                 "ro": "Cel mai bun loc pe ploaie; temperatură interioară constantă.",
-                "en": "The best spot during rain; constant indoor temperature."
+                "en": "The best spot during rain; constant indoor temperature.",
+                "es": "El mejor lugar cuando llueve; temperatura interior constante."
               }
             },
             {
@@ -622,7 +668,8 @@
                 "de": "Ein fester Schirm ist bei Küstenwinden ratsam.",
                 "hu": "Erős esernyő ajánlott a tengerparti szél miatt.",
                 "ro": "O umbrelă rezistentă este recomandată din cauza vântului.",
-                "en": "A sturdy umbrella is advised due to coastal winds."
+                "en": "A sturdy umbrella is advised due to coastal winds.",
+                "es": "Se aconseja un paraguas resistente por los vientos costeros."
               }
             },
             {
@@ -631,7 +678,8 @@
                 "de": "Kurzer Aufenthalt für Fotos der tosenden Brandung.",
                 "hu": "Rövid megálló a tajtékzó hullámok fotózásához.",
                 "ro": "Oprire scurtă pentru poze cu valurile înspumate.",
-                "en": "Short stop for photos of the crashing surf."
+                "en": "Short stop for photos of the crashing surf.",
+                "es": "Parada corta para fotos del oleaje rompiendo."
               }
             },
             {
@@ -640,7 +688,8 @@
                 "de": "Beobachten Sie den Regen vom Balkon eines Strandcafés.",
                 "hu": "Figyelje az esőt egy tengerparti kávézó teraszáról.",
                 "ro": "Observați ploaia de pe balconul unei cafenele de pe plajă.",
-                "en": "Watch the rain from the balcony of a beachfront cafe."
+                "en": "Watch the rain from the balcony of a beachfront cafe.",
+                "es": "Mira la lluvia desde el balcón de un café frente al mar."
               }
             },
             {
@@ -649,7 +698,8 @@
                 "de": "Der Boden kann rutschig sein, Vorsicht beim Aufstieg.",
                 "hu": "A talaj csúszós lehet, óvatosan a felfelé úton.",
                 "ro": "Solul poate fi alunecos, atenție la urcare.",
-                "en": "Ground can be slippery, use caution during the ascent."
+                "en": "Ground can be slippery, use caution during the ascent.",
+                "es": "El terreno puede estar resbaladizo; extreme la precaución al ascender."
               }
             }
           ],
@@ -677,6 +727,12 @@
               "Tito Bustillo Cave is a perfect rainy day activity.",
               "Use the old town's arches as a natural shelter.",
               "Some viewpoints might be foggy with low-hanging clouds."
+            ],
+            "es": [
+              "Lleva calzado de senderismo impermeable para los caminos costeros.",
+              "La Cueva de Tito Bustillo es una actividad perfecta para días de lluvia.",
+              "Usa los arcos del casco antiguo como refugio natural.",
+              "Algunos miradores pueden estar con niebla por nubes bajas."
             ]
           }
         },
@@ -685,7 +741,8 @@
             "de": "Genießen Sie die klare Winterluft bei einem Spaziergang durch das historische Viertel. Am Mittag bietet die Höhle angenehme Temperaturen abseits der Kälte. Der Nachmittag am Strand von Santa Marina besticht durch das besondere Licht der tiefstehenden Sonne. Erleben Sie den Sonnenuntergang am Atalaya-Turm bereits gegen 18:00 Uhr, bevor Sie sich in einer warmen Teestube aufwärmen.",
             "hu": "Élvezze a friss téli levegőt az óvárosi séta során. Délben a barlang kellemes, állandó hőmérsékletet kínál a kinti hideg elől. A Santa Marina strand délutáni fényei a téli napállás mellett különlegesek. A naplemente az Atalaya-toronynál már 18:00 körül bekövetkezik, utána keressen fel egy meleg teázót.",
             "ro": "Bucurați-vă de aerul curat de iarnă cu o plimbare prin cartierul istoric. La prânz, peștera oferă temperaturi plăcute, ferite de frigul de afară. Plaja Santa Marina impresionează prin lumina specială a soarelui de iarnă. Apusul la Turnul Atalaya are loc deja în jurul orei 18:00, urmat de o relaxare într-un local călduros.",
-            "en": "Enjoy the crisp winter air during a stroll through the historic quarter. At noon, the cave offers pleasant temperatures away from the outside chill. Santa Marina beach features unique light patterns in the winter sun. Experience the sunset at Atalaya Tower as early as 18:00, then warm up in a cozy local tea room."
+            "en": "Enjoy the crisp winter air during a stroll through the historic quarter. At noon, the cave offers pleasant temperatures away from the outside chill. Santa Marina beach features unique light patterns in the winter sun. Experience the sunset at Atalaya Tower as early as 18:00, then warm up in a cozy local tea room.",
+            "es": "Disfruta del aire frío de invierno paseando por el barrio histórico. Al mediodía, la cueva ofrece temperaturas agradables alejadas del frío exterior. La playa de Santa Marina presenta patrones de luz únicos con el sol invernal. Vive el atardecer en la Torre de la Atalaya desde las 18:00, luego entra en calor en una acogedora tetería local."
           },
           "stops": [
             {
@@ -694,7 +751,8 @@
                 "de": "Genießen Sie die Morgensonne auf den Steinfassaden.",
                 "hu": "Élvezze a reggeli napsütést a kőhomlokzatokon.",
                 "ro": "Bucurați-vă de soarele dimineții pe fațadele de piatră.",
-                "en": "Enjoy the morning sun on the stone facades."
+                "en": "Enjoy the morning sun on the stone facades.",
+                "es": "Disfruta del sol de la mañana sobre las fachadas de piedra."
               }
             },
             {
@@ -703,7 +761,8 @@
                 "de": "Ein ruhiger Ort zur morgendlichen Besinnung.",
                 "hu": "Csendes hely a reggeli elmélyüléshez.",
                 "ro": "Un loc liniștit pentru meditație matinală.",
-                "en": "A quiet spot for morning reflection."
+                "en": "A quiet spot for morning reflection.",
+                "es": "Un lugar tranquilo para la reflexión matinal."
               }
             },
             {
@@ -712,7 +771,8 @@
                 "de": "Drinnen ist es oft wärmer als draußen im Winter.",
                 "hu": "Bent gyakran melegebb van télen, mint kint.",
                 "ro": "În interior este adesea mai cald decât afară iarna.",
-                "en": "It is often warmer inside than outside during winter."
+                "en": "It is often warmer inside than outside during winter.",
+                "es": "A menudo hace más calor dentro que fuera en invierno."
               }
             },
             {
@@ -721,7 +781,8 @@
                 "de": "Warme Kleidung gegen die frische Meeresbrise nötig.",
                 "hu": "Meleg ruházat szükséges a friss tengeri szél ellen.",
                 "ro": "Haine groase necesare împotriva brizelor marine reci.",
-                "en": "Warm clothing needed against the fresh sea breeze."
+                "en": "Warm clothing needed against the fresh sea breeze.",
+                "es": "Ropa de abrigo para protegerse de la fresca brisa marina."
               }
             },
             {
@@ -730,7 +791,8 @@
                 "de": "Spektakuläre Weitsicht bei klarer Winterluft.",
                 "hu": "Látványos messzire látás a tiszta téli levegőben.",
                 "ro": "Vizibilitate spectaculoasă în aerul curat de iarnă.",
-                "en": "Spectacular long-range views in the clear winter air."
+                "en": "Spectacular long-range views in the clear winter air.",
+                "es": "Vistas espectaculares de largo alcance con el aire invernal claro."
               }
             },
             {
@@ -739,7 +801,8 @@
                 "de": "Perfekt für einen zügigen Winterspaziergang.",
                 "hu": "Tökéletes egy tempós téli sétához.",
                 "ro": "Perfect pentru o plimbare rapidă de iarnă.",
-                "en": "Perfect for a brisk winter walk."
+                "en": "Perfect for a brisk winter walk.",
+                "es": "Perfecto para una caminata vigorosa en invierno."
               }
             },
             {
@@ -748,7 +811,8 @@
                 "de": "Bester Platz für den frühen Sonnenuntergang.",
                 "hu": "A legjobb hely a korai naplementéhez.",
                 "ro": "Cel mai bun loc pentru apusul timpuriu.",
-                "en": "Best spot for the early winter sunset."
+                "en": "Best spot for the early winter sunset.",
+                "es": "Mejor lugar para el atardecer temprano de invierno."
               }
             }
           ],
@@ -776,6 +840,12 @@
               "Layered clothing protects against the coastal wind.",
               "The cave has a constant temperature of about 13 degrees.",
               "In winter, cafes are less crowded and very cozy."
+            ],
+            "es": [
+              "El sol se pone alrededor de las 17:45 en invierno.",
+              "Vestimenta en capas para protegerse del viento costero.",
+              "La cueva mantiene una temperatura constante de unos 13 grados.",
+              "En invierno los cafés están menos concurridos y son muy acogedores."
             ]
           }
         }
@@ -794,7 +864,8 @@
             "de": "Puente de Ribadesella",
             "hu": "Ribadesella-híd",
             "ro": "Podul din Ribadesella",
-            "en": "Ribadesella Bridge"
+            "en": "Ribadesella Bridge",
+            "es": "Puente de Ribadesella"
           },
           "coords": [
             -5.06,
@@ -809,7 +880,8 @@
             "de": "Berühmt als Ziel des Sella-Kanu-Rennens.",
             "hu": "Híres mint a Sella-kenuverseny befutója.",
             "ro": "Faimos ca sosire a cursei de canoe Sella.",
-            "en": "Famous as the finish line of the Sella canoe race."
+            "en": "Famous as the finish line of the Sella canoe race.",
+            "es": "Famoso por ser la meta de la carrera de piraguas del Sella."
           }
         },
         {
@@ -817,7 +889,8 @@
             "de": "Palacio de Prieto-Cutre",
             "hu": "Palacio de Prieto-Cutre",
             "ro": "Palacio de Prieto-Cutre",
-            "en": "Prieto-Cutre Palace"
+            "en": "Prieto-Cutre Palace",
+            "es": "Palacio Prieto-Cutre"
           },
           "coords": [
             -5.061,
@@ -832,7 +905,8 @@
             "de": "Das heutige Rathaus mit einer schönen Renaissance-Fassade.",
             "hu": "A mai városháza szép reneszánsz homlokzattal.",
             "ro": "Actuala primărie cu o frumoasă fațadă renascentistă.",
-            "en": "The current city hall with a beautiful Renaissance facade."
+            "en": "The current city hall with a beautiful Renaissance facade.",
+            "es": "El actual ayuntamiento con una hermosa fachada renacentista."
           }
         },
         {
@@ -840,7 +914,8 @@
             "de": "Playa de Santa Marina",
             "hu": "Playa de Santa Marina",
             "ro": "Playa de Santa Marina",
-            "en": "Santa Marina Beach"
+            "en": "Santa Marina Beach",
+            "es": "Playa de Santa Marina"
           },
           "coords": [
             -5.07,
@@ -855,7 +930,8 @@
             "de": "Radeln Sie die gesamte Promenade entlang, um die Architektur zu sehen.",
             "hu": "Tekerjen végig a sétányon az építészet megcsodálásához.",
             "ro": "Mergeți cu bicicleta pe toată faleza pentru a vedea arhitectura.",
-            "en": "Cycle the entire length of the promenade to see the architecture."
+            "en": "Cycle the entire length of the promenade to see the architecture.",
+            "es": "Recorre en bicicleta todo el paseo para ver la arquitectura."
           }
         },
         {
@@ -863,7 +939,8 @@
             "de": "Faro de Ribadesella",
             "hu": "Ribadesella-világítótorony",
             "ro": "Farul din Ribadesella",
-            "en": "Ribadesella Lighthouse"
+            "en": "Ribadesella Lighthouse",
+            "es": "Faro de Ribadesella"
           },
           "coords": [
             -5.0815,
@@ -878,7 +955,8 @@
             "de": "Ein steiler Anstieg, aber die Aussicht auf die Klippen ist es wert.",
             "hu": "Meredek emelkedő, de a sziklák látványa megéri.",
             "ro": "O urcare abruptă, dar vederea spre stânci merită.",
-            "en": "A steep climb, but the cliff views are worth it."
+            "en": "A steep climb, but the cliff views are worth it.",
+            "es": "Una subida pronunciada, pero las vistas desde el acantilado merecen la pena."
           }
         },
         {
@@ -886,7 +964,8 @@
             "de": "Cueva de Tito Bustillo",
             "hu": "Tito Bustillo-barlang",
             "ro": "Peștera Tito Bustillo",
-            "en": "Tito Bustillo Cave"
+            "en": "Tito Bustillo Cave",
+            "es": "Cueva de Tito Bustillo"
           },
           "coords": [
             -5.0675,
@@ -901,7 +980,8 @@
             "de": "Stellen Sie Ihr Fahrrad am Besucherzentrum sicher ab.",
             "hu": "Zárja le biztonságosan a biciklit a látogatóközpontnál.",
             "ro": "Parcați bicicleta în siguranță la centrul de vizitare.",
-            "en": "Park your bike safely at the visitor center."
+            "en": "Park your bike safely at the visitor center.",
+            "es": "Aparca tu bici con seguridad en el centro de visitantes."
           }
         },
         {
@@ -909,7 +989,8 @@
             "de": "Paseo de la Grúa",
             "hu": "Paseo de la Grúa",
             "ro": "Paseo de la Grúa",
-            "en": "Crane Promenade"
+            "en": "Crane Promenade",
+            "es": "Paseo de la Grúa"
           },
           "coords": [
             -5.0585,
@@ -924,7 +1005,8 @@
             "de": "Perfekt für eine gemütliche Fahrt zum Abschluss.",
             "hu": "Tökéletes egy kellemes záró tekeréshez.",
             "ro": "Perfect pentru o plimbare relaxantă la final.",
-            "en": "Perfect for a leisurely final ride."
+            "en": "Perfect for a leisurely final ride.",
+            "es": "Perfecto para un paseo final relajado."
           }
         }
       ],
@@ -932,7 +1014,8 @@
         "de": "Entdecken Sie Ribadesella auf zwei Rädern. Beginnen Sie an der ikonischen Brücke und radeln Sie zur eleganten Playa de Santa Marina. Die Route führt Sie hinauf zum Leuchtturm für spektakuläre Ausblicke auf das Kantabrische Meer. Nach einem kulturellen Stopp an der Tito Bustillo Höhle genießen Sie die sanfte Brise auf dem Paseo de la Grúa, während Sie den Fischern im Hafen zusehen.",
         "hu": "Fedezze fel Ribadesellát két keréken. Kezdje az ikonikus hídnál, majd tekerjen az elegáns Santa Marina strandhoz. Az út felviszi a világítótoronyhoz, ahonnan látványos kilátás nyílik a Kantábriai-tengerre. A Tito Bustillo-barlangnál tett kulturális megálló után élvezze a lágy szellőt a Paseo de la Grúa sétányon, miközben a kikötői halászokat figyeli.",
         "ro": "Descoperiți Ribadesella pe două roți. Începeți de la podul iconic și pedalați către eleganta plajă Santa Marina. Traseul vă duce sus la far pentru vederi spectaculoase asupra Mării Cantabrice. După o oprire culturală la Peștera Tito Bustillo, bucurați-vă de briza ușoară pe Paseo de la Grúa, urmărind pescarii din port.",
-        "en": "Discover Ribadesella on two wheels. Start at the iconic bridge and cycle to the elegant Santa Marina Beach. The route takes you up to the lighthouse for spectacular views of the Cantabrian Sea. After a cultural stop at the Tito Bustillo Cave, enjoy the gentle breeze on Paseo de la Grúa while watching the fishermen in the harbor."
+        "en": "Discover Ribadesella on two wheels. Start at the iconic bridge and cycle to the elegant Santa Marina Beach. The route takes you up to the lighthouse for spectacular views of the Cantabrian Sea. After a cultural stop at the Tito Bustillo Cave, enjoy the gentle breeze on Paseo de la Grúa while watching the fishermen in the harbor.",
+        "es": "Descubre Ribadesella en dos ruedas. Comienza en el puente icónico y llega en bici a la elegante playa de Santa Marina. La ruta sube hasta el faro para vistas espectaculares del mar Cantábrico. Tras una parada cultural en la Cueva de Tito Bustillo, disfruta de la brisa suave en el Paseo de la Grúa mientras observas a los pescadores en el puerto."
       },
       "gastro_picks": {
         "de": [
@@ -1040,6 +1123,12 @@
           "The climb to the lighthouse is tough, use your low gears.",
           "Be mindful of pedestrians on the waterfront promenade.",
           "Watch out for cars in the narrow old town streets."
+        ],
+        "es": [
+          "Alquila una bicicleta cerca del puente principal.",
+          "La subida al faro es dura; usa marchas bajas.",
+          "Ten cuidado con los peatones en el paseo marítimo.",
+          "Cuidado con los coches en las estrechas calles del casco antiguo."
         ]
       },
       "variants": {
@@ -1048,7 +1137,8 @@
             "de": "Entdecken Sie Ribadesella auf zwei Rädern. Beginnen Sie an der ikonischen Brücke und radeln Sie zur eleganten Playa de Santa Marina. Die Route führt Sie hinauf zum Leuchtturm für spektakuläre Ausblicke auf das Kantabrische Meer. Nach einem kulturellen Stopp an der Tito Bustillo Höhle genießen Sie die sanfte Brise auf dem Paseo de la Grúa, während Sie den Fischern im Hafen zusehen.",
             "hu": "Fedezze fel Ribadesellát két keréken. Kezdje az ikonikus hídnál, majd tekerjen az elegáns Santa Marina strandhoz. Az út felviszi a világítótoronyhoz, ahonnan látványos kilátás nyílik a Kantábriai-tengerre. A Tito Bustillo-barlangnál tett kulturális megálló után élvezze a lágy szellőt a Paseo de la Grúa sétányon, miközben a kikötői halászokat figyeli.",
             "ro": "Descoperiți Ribadesella pe două roți. Începeți de la podul iconic și pedalați către eleganta plajă Santa Marina. Traseul vă duce sus la far pentru vederi spectaculoase asupra Mării Cantabrice. După o oprire culturală la Peștera Tito Bustillo, bucurați-vă de briza ușoară pe Paseo de la Grúa, urmărind pescarii din port.",
-            "en": "Discover Ribadesella on two wheels. Start at the iconic bridge and cycle to the elegant Santa Marina Beach. The route takes you up to the lighthouse for spectacular views of the Cantabrian Sea. After a cultural stop at the Tito Bustillo Cave, enjoy the gentle breeze on Paseo de la Grúa while watching the fishermen in the harbor."
+            "en": "Discover Ribadesella on two wheels. Start at the iconic bridge and cycle to the elegant Santa Marina Beach. The route takes you up to the lighthouse for spectacular views of the Cantabrian Sea. After a cultural stop at the Tito Bustillo Cave, enjoy the gentle breeze on Paseo de la Grúa while watching the fishermen in the harbor.",
+            "es": "Descubre Ribadesella en dos ruedas. Comienza en el puente icónico y llega en bici a la elegante playa de Santa Marina. La ruta sube hasta el faro para vistas espectaculares del mar Cantábrico. Tras una parada cultural en la Cueva de Tito Bustillo, disfruta de la brisa suave en el Paseo de la Grúa mientras observas a los pescadores en el puerto."
           },
           "stops": [
             {
@@ -1056,13 +1146,15 @@
                 "de": "Puente de Ribadesella",
                 "hu": "Ribadesella-híd",
                 "ro": "Podul din Ribadesella",
-                "en": "Ribadesella Bridge"
+                "en": "Ribadesella Bridge",
+                "es": "Puente de Ribadesella"
               },
               "tip_5lang": {
                 "de": "Berühmt als Ziel des Sella-Kanu-Rennens.",
                 "hu": "Híres mint a Sella-kenuverseny befutója.",
                 "ro": "Faimos ca sosire a cursei de canoe Sella.",
-                "en": "Famous as the finish line of the Sella canoe race."
+                "en": "Famous as the finish line of the Sella canoe race.",
+                "es": "Famoso por ser la meta de la carrera de piraguas del Sella."
               }
             },
             {
@@ -1070,13 +1162,15 @@
                 "de": "Palacio de Prieto-Cutre",
                 "hu": "Palacio de Prieto-Cutre",
                 "ro": "Palacio de Prieto-Cutre",
-                "en": "Prieto-Cutre Palace"
+                "en": "Prieto-Cutre Palace",
+                "es": "Palacio Prieto-Cutre"
               },
               "tip_5lang": {
                 "de": "Das heutige Rathaus mit einer schönen Renaissance-Fassade.",
                 "hu": "A mai városháza szép reneszánsz homlokzattal.",
                 "ro": "Actuala primărie cu o frumoasă fațadă renascentistă.",
-                "en": "The current city hall with a beautiful Renaissance facade."
+                "en": "The current city hall with a beautiful Renaissance facade.",
+                "es": "El actual ayuntamiento con una hermosa fachada renacentista."
               }
             },
             {
@@ -1084,13 +1178,15 @@
                 "de": "Playa de Santa Marina",
                 "hu": "Playa de Santa Marina",
                 "ro": "Playa de Santa Marina",
-                "en": "Santa Marina Beach"
+                "en": "Santa Marina Beach",
+                "es": "Playa de Santa Marina"
               },
               "tip_5lang": {
                 "de": "Radeln Sie die gesamte Promenade entlang, um die Architektur zu sehen.",
                 "hu": "Tekerjen végig a sétányon az építészet megcsodálásához.",
                 "ro": "Mergeți cu bicicleta pe toată faleza pentru a vedea arhitectura.",
-                "en": "Cycle the entire length of the promenade to see the architecture."
+                "en": "Cycle the entire length of the promenade to see the architecture.",
+                "es": "Recorre en bicicleta todo el paseo para ver la arquitectura."
               }
             },
             {
@@ -1098,13 +1194,15 @@
                 "de": "Faro de Ribadesella",
                 "hu": "Ribadesella-világítótorony",
                 "ro": "Farul din Ribadesella",
-                "en": "Ribadesella Lighthouse"
+                "en": "Ribadesella Lighthouse",
+                "es": "Faro de Ribadesella"
               },
               "tip_5lang": {
                 "de": "Ein steiler Anstieg, aber die Aussicht auf die Klippen ist es wert.",
                 "hu": "Meredek emelkedő, de a sziklák látványa megéri.",
                 "ro": "O urcare abruptă, dar vederea spre stânci merită.",
-                "en": "A steep climb, but the cliff views are worth it."
+                "en": "A steep climb, but the cliff views are worth it.",
+                "es": "Una subida pronunciada, pero las vistas desde el acantilado merecen la pena."
               }
             },
             {
@@ -1112,13 +1210,15 @@
                 "de": "Cueva de Tito Bustillo",
                 "hu": "Tito Bustillo-barlang",
                 "ro": "Peștera Tito Bustillo",
-                "en": "Tito Bustillo Cave"
+                "en": "Tito Bustillo Cave",
+                "es": "Cueva de Tito Bustillo"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Fahrrad am Besucherzentrum sicher ab.",
                 "hu": "Zárja le biztonságosan a biciklit a látogatóközpontnál.",
                 "ro": "Parcați bicicleta în siguranță la centrul de vizitare.",
-                "en": "Park your bike safely at the visitor center."
+                "en": "Park your bike safely at the visitor center.",
+                "es": "Aparca tu bici con seguridad en el centro de visitantes."
               }
             },
             {
@@ -1126,13 +1226,15 @@
                 "de": "Paseo de la Grúa",
                 "hu": "Paseo de la Grúa",
                 "ro": "Paseo de la Grúa",
-                "en": "Crane Promenade"
+                "en": "Crane Promenade",
+                "es": "Paseo de la Grúa"
               },
               "tip_5lang": {
                 "de": "Perfekt für eine gemütliche Fahrt zum Abschluss.",
                 "hu": "Tökéletes egy kellemes záró tekeréshez.",
                 "ro": "Perfect pentru o plimbare relaxantă la final.",
-                "en": "Perfect for a leisurely final ride."
+                "en": "Perfect for a leisurely final ride.",
+                "es": "Perfecto para un paseo final relajado."
               }
             }
           ],
@@ -1242,6 +1344,12 @@
               "The climb to the lighthouse is tough, use your low gears.",
               "Be mindful of pedestrians on the waterfront promenade.",
               "Watch out for cars in the narrow old town streets."
+            ],
+            "es": [
+              "Alquila una bicicleta cerca del puente principal.",
+              "La subida al faro es dura; usa marchas bajas.",
+              "Ten cuidado con los peatones en el paseo marítimo.",
+              "Cuidado con los coches en las estrechas calles del casco antiguo."
             ]
           }
         },
@@ -1250,7 +1358,8 @@
             "de": "Eine nasse, aber erfrischende Fahrt über die Brücke beginnt den Tag. Schützen Sie sich im Prieto-Cutre-Palast vor den Schauern. Die Fahrt entlang der Santa Marina erfordert Vorsicht auf nassem Asphalt. Verbringen Sie die regenreichste Zeit in der Tito-Bustillo-Höhle. Den Abschluss bildet die Promenade, wo Sie Ihr Rad sicher abstellen und einkehren können.",
             "hu": "Egy vizes, de frissítő tekeréssel indul a nap a hídon át. Keressen menedéket a Prieto-Cutre palotánál a záporok elől. A Santa Marina menti út óvatosságot igényel a vizes aszfalton. A legesősebb időt töltse a Tito Bustillo-barlangban. A napot a sétányon zárja, ahol biztonságban lelakatolhatja a bringát.",
             "ro": "O plimbare udă, dar revigorantă peste pod începe ziua. Adăpostiți-vă la Palatul Prieto-Cutre în timpul averselor. Drumul de-a lungul Santa Marina necesită prudență pe asfaltul ud. Petreceți timpul cel mai ploios în Peștera Tito Bustillo. Încheiați pe faleză, unde puteți parca bicicleta în siguranță.",
-            "en": "A wet but refreshing ride across the bridge starts the day. Seek shelter at the Prieto-Cutre Palace during showers. The ride along Santa Marina requires caution on wet asphalt. Spend the rainiest hours inside the Tito Bustillo Cave. End your trip at the promenade, where you can safely lock your bike and find a warm spot."
+            "en": "A wet but refreshing ride across the bridge starts the day. Seek shelter at the Prieto-Cutre Palace during showers. The ride along Santa Marina requires caution on wet asphalt. Spend the rainiest hours inside the Tito Bustillo Cave. End your trip at the promenade, where you can safely lock your bike and find a warm spot.",
+            "es": "Un recorrido húmedo pero refrescante cruzando el puente inicia el día. Busca refugio en el Palacio Prieto-Cutre durante los chaparrones. El tramo por Santa Marina requiere precaución por el asfalto mojado. Pasa las horas de más lluvia dentro de la Cueva de Tito Bustillo. Termina tu ruta en el paseo, donde puedes asegurar la bici y encontrar un lugar cálido."
           },
           "stops": [
             {
@@ -1259,7 +1368,8 @@
                 "de": "Vorsicht, die Metallfugen können rutschig sein.",
                 "hu": "Vigyázat, a fém illesztések csúszósak lehetnek.",
                 "ro": "Atenție, îmbinările metalice pot fi alunecoase.",
-                "en": "Caution, metal joints can be slippery when wet."
+                "en": "Caution, metal joints can be slippery when wet.",
+                "es": "Precaución: las juntas metálicas pueden estar resbaladizas cuando están mojadas."
               }
             },
             {
@@ -1268,7 +1378,8 @@
                 "de": "Kurzer Stopp unter dem Portal des Rathauses.",
                 "hu": "Rövid megálló a városháza kapuja alatt.",
                 "ro": "Oprire scurtă sub portalul primăriei.",
-                "en": "Short stop under the town hall portal."
+                "en": "Short stop under the town hall portal.",
+                "es": "Parada corta bajo el portal del ayuntamiento."
               }
             },
             {
@@ -1277,7 +1388,8 @@
                 "de": "Radweg ist asphaltiert und gut befahrbar.",
                 "hu": "A kerékpárút aszfaltozott és jól járható.",
                 "ro": "Pista de biciclete este asfaltată și practicabilă.",
-                "en": "The bike path is paved and remains accessible."
+                "en": "The bike path is paved and remains accessible.",
+                "es": "El carril bici está asfaltado y sigue siendo accesible."
               }
             },
             {
@@ -1286,7 +1398,8 @@
                 "de": "Anstieg auf nasser Straße mit Vorsicht genießen.",
                 "hu": "A vizes úton óvatosan hajtson felfelé.",
                 "ro": "Urcați cu prudență pe drumul ud.",
-                "en": "Ascend with caution on the wet road surfaces."
+                "en": "Ascend with caution on the wet road surfaces.",
+                "es": "Asciende con precaución sobre superficies húmedas de la carretera."
               }
             },
             {
@@ -1295,7 +1408,8 @@
                 "de": "Überdachte Fahrradständer vorhanden.",
                 "hu": "Fedett kerékpártárolók állnak rendelkezésre.",
                 "ro": "Sunt disponibile rastele acoperite pentru biciclete.",
-                "en": "Covered bike racks are available at the site."
+                "en": "Covered bike racks are available at the site.",
+                "es": "Hay aparcabicis cubiertos disponibles en el lugar."
               }
             },
             {
@@ -1304,7 +1418,8 @@
                 "de": "Fahrtwind kühlt bei Nässe schneller aus.",
                 "hu": "A menetszél nedves időben hamarabb lehűt.",
                 "ro": "Vântul vă poate răci mai repede când este umiditate.",
-                "en": "Wind chill increases significantly when wet."
+                "en": "Wind chill increases significantly when wet.",
+                "es": "La sensación térmica baja mucho cuando estás mojado."
               }
             }
           ],
@@ -1332,6 +1447,12 @@
               "Wear a bright raincoat for better visibility to cars.",
               "Check your brake pads before starting the ride.",
               "Mudguards are highly recommended to keep your clothes clean."
+            ],
+            "es": [
+              "Evita frenar bruscamente sobre adoquines mojados.",
+              "Lleva un impermeable de colores vivos para ser más visible a los coches.",
+              "Revisa las pastillas de freno antes de empezar la ruta.",
+              "Los guardabarros son muy recomendables para mantener la ropa limpia."
             ]
           }
         },
@@ -1340,7 +1461,8 @@
             "de": "Starten Sie erfrischt über die Brücke in den klaren Morgen. Der Prieto-Cutre-Palast erstrahlt im Winterlicht besonders schön. Die Fahrt zum Leuchtturm bietet spektakuläre Ausblicke auf die verschneiten Picos de Europa in der Ferne. Mittags wärmt der Besuch der Höhle auf. Beenden Sie die Tour an der Promenade, solange es noch hell ist.",
             "hu": "Frissítő tekeréssel induljon a tiszta téli reggelen. A Prieto-Cutre palota különleges fényekben tündököl. A világítótoronyhoz vezető út látványos kilátást nyújt a távoli, havas Picos de Europa csúcsokra. Délben a barlanglátogatás felmelegíti. Fejezze be a túrát a sétányon, amíg még világos van.",
             "ro": "Începeți revigorat peste pod în dimineața senină. Palatul Prieto-Cutre strălucește în lumina iernii. Drumul spre far oferă vederi spectaculoase spre vârfurile înzăpezite ale Picos de Europa în depărtare. La prânz, vizita la peșteră vă va încălzi. Încheiați turul pe faleză cât încă este lumină.",
-            "en": "Start refreshed across the bridge in the crisp morning. Prieto-Cutre Palace shines beautifully in the winter light. The ride to the lighthouse offers spectacular views of the snowy Picos de Europa in the distance. Warm up at noon with a cave visit. Finish the tour at the promenade while it is still daylight."
+            "en": "Start refreshed across the bridge in the crisp morning. Prieto-Cutre Palace shines beautifully in the winter light. The ride to the lighthouse offers spectacular views of the snowy Picos de Europa in the distance. Warm up at noon with a cave visit. Finish the tour at the promenade while it is still daylight.",
+            "es": "Comienza fresco cruzando el puente en la mañana templada. El Palacio Prieto-Cutre brilla con la luz invernal. La ruta al faro ofrece vistas espectaculares de los nevados Picos de Europa en la distancia. Calienta al mediodía con una visita a la cueva. Termina el recorrido en el paseo mientras aún hay luz."
           },
           "stops": [
             {
@@ -1349,7 +1471,8 @@
                 "de": "Kühler Wind auf der Brücke, Handschuhe empfohlen.",
                 "hu": "Hűvös szél a hídon, kesztyű ajánlott.",
                 "ro": "Vânt rece pe pod, se recomandă mănuși.",
-                "en": "Chilly wind on the bridge, gloves recommended."
+                "en": "Chilly wind on the bridge, gloves recommended.",
+                "es": "Viento frío en el puente; se recomiendan guantes."
               }
             },
             {
@@ -1358,7 +1481,8 @@
                 "de": "Besichtigung der Fassade im weichen Winterlicht.",
                 "hu": "A homlokzat megtekintése lágy téli fényben.",
                 "ro": "Vizualizarea fațadei în lumina blândă de iarnă.",
-                "en": "View the facade in the soft winter sunlight."
+                "en": "View the facade in the soft winter sunlight.",
+                "es": "Contempla la fachada con la suave luz invernal."
               }
             },
             {
@@ -1367,7 +1491,8 @@
                 "de": "Leere Wege ermöglichen entspanntes Fahren.",
                 "hu": "Az üres utak nyugodt tekerést tesznek lehetővé.",
                 "ro": "Drumurile libere permit o deplasare relaxată.",
-                "en": "Empty paths allow for a very relaxed ride."
+                "en": "Empty paths allow for a very relaxed ride.",
+                "es": "Los caminos vacíos permiten un paseo muy relajado."
               }
             },
             {
@@ -1376,7 +1501,8 @@
                 "de": "Spektakuläre Fernsicht auf die kantabrische Küste.",
                 "hu": "Látványos kilátás a kantábriai partvidékre.",
                 "ro": "Vedere spectaculoasă asupra coastei Cantabrice.",
-                "en": "Spectacular long-distance views of the coast."
+                "en": "Spectacular long-distance views of the coast.",
+                "es": "Vistas espectaculares de larga distancia de la costa."
               }
             },
             {
@@ -1385,7 +1511,8 @@
                 "de": "Idealer Ort, um die Glieder aufzuwärmen.",
                 "hu": "Ideális hely a végtagok felmelegítésére.",
                 "ro": "Loc ideal pentru a vă încălzi puțin.",
-                "en": "Ideal place to warm up your limbs."
+                "en": "Ideal place to warm up your limbs.",
+                "es": "Lugar ideal para entrar en calor y estirar las piernas."
               }
             },
             {
@@ -1394,7 +1521,8 @@
                 "de": "Achten Sie auf die sinkende Sonne am Horizont.",
                 "hu": "Figyelje a láthatáron lebukó napot.",
                 "ro": "Urmăriți soarele care coboară spre orizont.",
-                "en": "Watch the sun dipping towards the horizon."
+                "en": "Watch the sun dipping towards the horizon.",
+                "es": "Observa el sol hundiéndose hacia el horizonte."
               }
             }
           ],
@@ -1422,6 +1550,12 @@
               "Ensure your bike lights are working properly.",
               "Avoid shaded patches as they might be icy or slippery.",
               "A hot drink at the end of the tour works wonders."
+            ],
+            "es": [
+              "Lleva ropa térmica, especialmente para los descensos.",
+              "Asegúrate de que las luces de la bicicleta funcionan correctamente.",
+              "Evita los parches sombreados; podrían estar helados o resbaladizos.",
+              "Una bebida caliente al final del recorrido hace maravillas."
             ]
           }
         }
@@ -1440,7 +1574,8 @@
             "de": "Cueva de Tito Bustillo",
             "hu": "Tito Bustillo-barlang",
             "ro": "Peștera Tito Bustillo",
-            "en": "Tito Bustillo Cave"
+            "en": "Tito Bustillo Cave",
+            "es": "Cueva de Tito Bustillo"
           },
           "coords": [
             -5.0675,
@@ -1455,7 +1590,8 @@
             "de": "Es gibt einen großen Parkplatz direkt am Eingang.",
             "hu": "Közvetlenül a bejáratnál nagy parkoló található.",
             "ro": "Există o parcare mare chiar la intrare.",
-            "en": "There is a large parking lot right at the entrance."
+            "en": "There is a large parking lot right at the entrance.",
+            "es": "Hay un amplio aparcamiento justo en la entrada."
           }
         },
         {
@@ -1463,7 +1599,8 @@
             "de": "Faro de Ribadesella",
             "hu": "Ribadesella-világítótorony",
             "ro": "Farul din Ribadesella",
-            "en": "Ribadesella Lighthouse"
+            "en": "Ribadesella Lighthouse",
+            "es": "Faro de Ribadesella"
           },
           "coords": [
             -5.0815,
@@ -1478,7 +1615,8 @@
             "de": "Genießen Sie den weiten Blick, Parken ist oben möglich.",
             "hu": "Élvezze a távoli kilátást, fönn lehet parkolni.",
             "ro": "Bucurați-vă de vedere, parcarea este posibilă sus.",
-            "en": "Enjoy the wide views, parking is available at the top."
+            "en": "Enjoy the wide views, parking is available at the top.",
+            "es": "Disfruta de las amplias vistas; hay aparcamiento disponible en la cima."
           }
         },
         {
@@ -1486,7 +1624,8 @@
             "de": "Playa de Santa Marina",
             "hu": "Playa de Santa Marina",
             "ro": "Playa de Santa Marina",
-            "en": "Santa Marina Beach"
+            "en": "Santa Marina Beach",
+            "es": "Playa de Santa Marina"
           },
           "coords": [
             -5.07,
@@ -1501,7 +1640,8 @@
             "de": "In der Nebensaison findet man leicht Parkplätze an der Straße.",
             "hu": "Szezonon kívül könnyű parkolót találni az utcán.",
             "ro": "În afara sezonului se găsesc ușor locuri de parcare pe stradă.",
-            "en": "In low season, street parking is easy to find."
+            "en": "In low season, street parking is easy to find.",
+            "es": "En temporada baja, es fácil encontrar aparcamiento en la calle."
           }
         },
         {
@@ -1509,7 +1649,8 @@
             "de": "Mirador del Fitu (Exkursion)",
             "hu": "Fitu-kilátó (kirándulás)",
             "ro": "Mirador del Fitu (excursie)",
-            "en": "Fitu Viewpoint (excursion)"
+            "en": "Fitu Viewpoint (excursion)",
+            "es": "Mirador de Fitu (excursión)"
           },
           "coords": [
             -5.1925,
@@ -1524,7 +1665,8 @@
             "de": "Spektakulärer 360-Grad-Blick auf Picos de Europa und das Meer.",
             "hu": "Látványos 360 fokos kilátás a Picos de Europa-ra és a tengerre.",
             "ro": "Vedere spectaculoasă de 360 de grade asupra munților și mării.",
-            "en": "Spectacular 360-degree views of Picos de Europa and the sea."
+            "en": "Spectacular 360-degree views of Picos de Europa and the sea.",
+            "es": "Vistas espectaculares de 360 grados de los Picos de Europa y el mar."
           }
         },
         {
@@ -1532,7 +1674,8 @@
             "de": "Plaza de la Iglesia (Altstadt)",
             "hu": "Plaza de la Iglesia (Óváros)",
             "ro": "Plaza de la Iglesia (Centrul Vechi)",
-            "en": "Church Square (Old Town)"
+            "en": "Church Square (Old Town)",
+            "es": "Plaza de la Iglesia (Casco antiguo)"
           },
           "coords": [
             -5.0612,
@@ -1547,7 +1690,8 @@
             "de": "Parken Sie im Hafenbereich und gehen Sie zu Fuß in die Altstadt.",
             "hu": "Parkoljon a kikötőnél, és sétáljon be az óvárosba.",
             "ro": "Parcați în zona portului și mergeți pe jos în centrul vechi.",
-            "en": "Park in the harbor area and walk into the historic center."
+            "en": "Park in the harbor area and walk into the historic center.",
+            "es": "Aparca en la zona del puerto y pasea hasta el centro histórico."
           }
         }
       ],
@@ -1555,7 +1699,8 @@
         "de": "Mit dem Auto erreichen Sie mühelos die Highlights von Ribadesella und Umgebung. Nach dem Besuch der prähistorischen Höhlen fahren Sie zum Leuchtturm und zur Playa de Santa Marina. Ein kurzer Ausflug bringt Sie zum Mirador del Fitu, einem der berühmtesten Aussichtspunkte Asturiens, bevor Sie für ein entspanntes Abendessen in den Hafen von Ribadesella zurückkehren.",
         "hu": "Autóval könnyedén elérheti Ribadesella és környéke legjavát. Az őskori barlangok meglátogatása után guruljon el a világítótoronyhoz és a Santa Marina strandhoz. Egy rövid kitérő elviszi a Mirador del Fitu-hoz, Asztúria egyik leghíresebb kilátópontjához, majd térjen vissza a ribadesellai kikötőbe egy kellemes vacsorára.",
         "ro": "Cu mașina puteți ajunge ușor la punctele forte din Ribadesella și împrejurimi. După vizitarea peșterilor preistorice, mergeți la far și la plaja Santa Marina. O scurtă excursie vă duce la Mirador del Fitu, unul dintre cele mai faimoase puncte de belvedere din Asturias, înainte de a reveni în portul Ribadesella pentru o cină relaxantă.",
-        "en": "By car, you can effortlessly reach the highlights of Ribadesella and its surroundings. After visiting the prehistoric caves, drive to the lighthouse and Santa Marina beach. A short trip takes you to Mirador del Fitu, one of the most famous viewpoints in Asturias, before returning to Ribadesella harbor for a relaxed dinner."
+        "en": "By car, you can effortlessly reach the highlights of Ribadesella and its surroundings. After visiting the prehistoric caves, drive to the lighthouse and Santa Marina beach. A short trip takes you to Mirador del Fitu, one of the most famous viewpoints in Asturias, before returning to Ribadesella harbor for a relaxed dinner.",
+        "es": "En coche puedes llegar sin esfuerzo a los puntos destacados de Ribadesella y sus alrededores. Tras visitar las cuevas prehistóricas, conduce hasta el faro y la playa de Santa Marina. Un corto trayecto te lleva al Mirador del Fitu, uno de los miradores más famosos de Asturias, antes de volver al puerto de Ribadesella para una cena tranquila."
       },
       "gastro_picks": {
         "de": [
@@ -1663,6 +1808,12 @@
           "The road to Mirador del Fitu is windy but paved.",
           "Watch for speed limits at the town entrance.",
           "Use the large free parking lot on the outskirts near the cave."
+        ],
+        "es": [
+          "Aparcar es muy difícil en agosto; llega temprano.",
+          "La carretera al Mirador del Fitu es sinuosa pero asfaltada.",
+          "Atento a los límites de velocidad a la entrada del pueblo.",
+          "Utiliza el gran aparcamiento gratuito en las afueras cerca de la cueva."
         ]
       },
       "variants": {
@@ -1671,7 +1822,8 @@
             "de": "Mit dem Auto erreichen Sie mühelos die Highlights von Ribadesella und Umgebung. Nach dem Besuch der prähistorischen Höhlen fahren Sie zum Leuchtturm und zur Playa de Santa Marina. Ein kurzer Ausflug bringt Sie zum Mirador del Fitu, einem der berühmtesten Aussichtspunkte Asturiens, bevor Sie für ein entspanntes Abendessen in den Hafen von Ribadesella zurückkehren.",
             "hu": "Autóval könnyedén elérheti Ribadesella és környéke legjavát. Az őskori barlangok meglátogatása után guruljon el a világítótoronyhoz és a Santa Marina strandhoz. Egy rövid kitérő elviszi a Mirador del Fitu-hoz, Asztúria egyik leghíresebb kilátópontjához, majd térjen vissza a ribadesellai kikötőbe egy kellemes vacsorára.",
             "ro": "Cu mașina puteți ajunge ușor la punctele forte din Ribadesella și împrejurimi. După vizitarea peșterilor preistorice, mergeți la far și la plaja Santa Marina. O scurtă excursie vă duce la Mirador del Fitu, unul dintre cele mai faimoase puncte de belvedere din Asturias, înainte de a reveni în portul Ribadesella pentru o cină relaxantă.",
-            "en": "By car, you can effortlessly reach the highlights of Ribadesella and its surroundings. After visiting the prehistoric caves, drive to the lighthouse and Santa Marina beach. A short trip takes you to Mirador del Fitu, one of the most famous viewpoints in Asturias, before returning to Ribadesella harbor for a relaxed dinner."
+            "en": "By car, you can effortlessly reach the highlights of Ribadesella and its surroundings. After visiting the prehistoric caves, drive to the lighthouse and Santa Marina beach. A short trip takes you to Mirador del Fitu, one of the most famous viewpoints in Asturias, before returning to Ribadesella harbor for a relaxed dinner.",
+            "es": "En coche puedes llegar sin esfuerzo a los puntos destacados de Ribadesella y sus alrededores. Tras visitar las cuevas prehistóricas, conduce hasta el faro y la playa de Santa Marina. Un corto trayecto te lleva al Mirador del Fitu, uno de los miradores más famosos de Asturias, antes de volver al puerto de Ribadesella para una cena tranquila."
           },
           "stops": [
             {
@@ -1679,13 +1831,15 @@
                 "de": "Cueva de Tito Bustillo",
                 "hu": "Tito Bustillo-barlang",
                 "ro": "Peștera Tito Bustillo",
-                "en": "Tito Bustillo Cave"
+                "en": "Tito Bustillo Cave",
+                "es": "Cueva de Tito Bustillo"
               },
               "tip_5lang": {
                 "de": "Es gibt einen großen Parkplatz direkt am Eingang.",
                 "hu": "Közvetlenül a bejáratnál nagy parkoló található.",
                 "ro": "Există o parcare mare chiar la intrare.",
-                "en": "There is a large parking lot right at the entrance."
+                "en": "There is a large parking lot right at the entrance.",
+                "es": "Hay un gran aparcamiento justo en la entrada."
               }
             },
             {
@@ -1693,13 +1847,15 @@
                 "de": "Faro de Ribadesella",
                 "hu": "Ribadesella-világítótorony",
                 "ro": "Farul din Ribadesella",
-                "en": "Ribadesella Lighthouse"
+                "en": "Ribadesella Lighthouse",
+                "es": "Faro de Ribadesella"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den weiten Blick, Parken ist oben möglich.",
                 "hu": "Élvezze a távoli kilátást, fönn lehet parkolni.",
                 "ro": "Bucurați-vă de vedere, parcarea este posibilă sus.",
-                "en": "Enjoy the wide views, parking is available at the top."
+                "en": "Enjoy the wide views, parking is available at the top.",
+                "es": "Disfruta de las amplias vistas; hay aparcamiento en la cima."
               }
             },
             {
@@ -1707,13 +1863,15 @@
                 "de": "Playa de Santa Marina",
                 "hu": "Playa de Santa Marina",
                 "ro": "Playa de Santa Marina",
-                "en": "Santa Marina Beach"
+                "en": "Santa Marina Beach",
+                "es": "Playa de Santa Marina"
               },
               "tip_5lang": {
                 "de": "In der Nebensaison findet man leicht Parkplätze an der Straße.",
                 "hu": "Szezonon kívül könnyű parkolót találni az utcán.",
                 "ro": "În afara sezonului se găsesc ușor locuri de parcare pe stradă.",
-                "en": "In low season, street parking is easy to find."
+                "en": "In low season, street parking is easy to find.",
+                "es": "En temporada baja es fácil encontrar aparcamiento en la calle."
               }
             },
             {
@@ -1721,13 +1879,15 @@
                 "de": "Mirador del Fitu (Exkursion)",
                 "hu": "Fitu-kilátó (kirándulás)",
                 "ro": "Mirador del Fitu (excursie)",
-                "en": "Fitu Viewpoint (excursion)"
+                "en": "Fitu Viewpoint (excursion)",
+                "es": "Mirador del Fitu (excursión)"
               },
               "tip_5lang": {
                 "de": "Spektakulärer 360-Grad-Blick auf Picos de Europa und das Meer.",
                 "hu": "Látványos 360 fokos kilátás a Picos de Europa-ra és a tengerre.",
                 "ro": "Vedere spectaculoasă de 360 de grade asupra munților și mării.",
-                "en": "Spectacular 360-degree views of Picos de Europa and the sea."
+                "en": "Spectacular 360-degree views of Picos de Europa and the sea.",
+                "es": "Vistas espectaculares de 360 grados de los Picos de Europa y el mar."
               }
             },
             {
@@ -1735,13 +1895,15 @@
                 "de": "Plaza de la Iglesia (Altstadt)",
                 "hu": "Plaza de la Iglesia (Óváros)",
                 "ro": "Plaza de la Iglesia (Centrul Vechi)",
-                "en": "Church Square (Old Town)"
+                "en": "Church Square (Old Town)",
+                "es": "Plaza de la Iglesia (Casco antiguo)"
               },
               "tip_5lang": {
                 "de": "Parken Sie im Hafenbereich und gehen Sie zu Fuß in die Altstadt.",
                 "hu": "Parkoljon a kikötőnél, és sétáljon be az óvárosba.",
                 "ro": "Parcați în zona portului și mergeți pe jos în centrul vechi.",
-                "en": "Park in the harbor area and walk into the historic center."
+                "en": "Park in the harbor area and walk into the historic center.",
+                "es": "Aparca en la zona del puerto y pasea hasta el centro histórico."
               }
             }
           ],
@@ -1851,6 +2013,12 @@
               "The road to Mirador del Fitu is windy but paved.",
               "Watch for speed limits at the town entrance.",
               "Use the large free parking lot on the outskirts near the cave."
+            ],
+            "es": [
+              "Aparcar es muy difícil en agosto; llega temprano.",
+              "La carretera al Mirador del Fitu es sinuosa pero asfaltada.",
+              "Atento a los límites de velocidad a la entrada del pueblo.",
+              "Utiliza el gran aparcamiento gratuito en las afueras cerca de la cueva."
             ]
           }
         },
@@ -1859,7 +2027,8 @@
             "de": "Beginnen Sie die Fahrt trocken bei der Tito-Bustillo-Höhle. Danach bietet die Fahrt zum Leuchtturm dramatische Ausblicke aus dem Autofenster. Der Strand von Santa Marina lässt sich gut vom Parkplatz aus bewundern. Seien Sie vorsichtig beim Ausflug zum Fitu-Aussichtspunkt wegen möglichem Nebel. Beenden Sie den Tag im Stadtzentrum mit kurzem Fußweg zum Platz.",
             "hu": "Kezdje az utat szárazon a Tito Bustillo-barlangnál. Ezután a világítótoronyhoz vezető autóút drámai kilátást nyújt az ablakból. A Santa Marina strandot a parkolóból is megcsodálhatja. Legyen óvatos a Fitu-kilátónál az esetleges köd miatt. A napot a belvárosban zárja, rövid sétára a főtértől.",
             "ro": "Începeți călătoria la uscat la Peștera Tito Bustillo. Apoi, drumul spre far oferă vederi dramatice direct de la fereastră. Plaja Santa Marina poate fi admirată din parcare. Atenție la excursia spre punctul Fitu din cauza ceții posibile. Încheiați ziua în centrul orașului, la mică distanță de piața principală.",
-            "en": "Start your journey dry at the Tito Bustillo Cave. Afterward, the drive to the lighthouse offers dramatic views from your car window. Santa Marina beach can be comfortably admired from the parking area. Be cautious on the excursion to Fitu Viewpoint due to potential fog. End your day in the city center with a short walk to the square."
+            "en": "Start your journey dry at the Tito Bustillo Cave. Afterward, the drive to the lighthouse offers dramatic views from your car window. Santa Marina beach can be comfortably admired from the parking area. Be cautious on the excursion to Fitu Viewpoint due to potential fog. End your day in the city center with a short walk to the square.",
+            "es": "Comienza la visita en seco en la Cueva de Tito Bustillo. Después, el trayecto en coche hasta el faro ofrece vistas dramáticas desde la ventanilla. La playa de Santa Marina puede admirarse cómodamente desde el aparcamiento. Ten precaución en la excursión al Mirador del Fitu por posible niebla. Termina el día en el centro con un corto paseo hasta la plaza."
           },
           "stops": [
             {
@@ -1868,7 +2037,8 @@
                 "de": "Parkplatz direkt am Eingang vorhanden.",
                 "hu": "Parkoló közvetlenül a bejáratnál.",
                 "ro": "Parcare disponibilă chiar la intrare.",
-                "en": "Parking is available right at the entrance."
+                "en": "Parking is available right at the entrance.",
+                "es": "Hay aparcamiento disponible justo en la entrada."
               }
             },
             {
@@ -1877,7 +2047,8 @@
                 "de": "Genießen Sie die Aussicht im Schutz des Autos.",
                 "hu": "Élvezze a kilátást az autó védelmében.",
                 "ro": "Bucurați-vă de priveliște din confortul mașinii.",
-                "en": "Enjoy the views from the shelter of your car."
+                "en": "Enjoy the views from the shelter of your car.",
+                "es": "Disfruta de las vistas desde el resguardo de tu coche."
               }
             },
             {
@@ -1886,7 +2057,8 @@
                 "de": "Zahlreiche Parkmöglichkeiten entlang der Promenade.",
                 "hu": "Számos parkolási lehetőség a sétány mentén.",
                 "ro": "Numeroase locuri de parcare de-a lungul falezei.",
-                "en": "Plenty of parking spots along the promenade."
+                "en": "Plenty of parking spots along the promenade.",
+                "es": "Muchos plazas de aparcamiento a lo largo del paseo marítimo."
               }
             },
             {
@@ -1895,7 +2067,8 @@
                 "de": "Bei starkem Regen und Nebel eingeschränkte Sicht.",
                 "hu": "Heves esőben és ködben korlátozott látási viszonyok.",
                 "ro": "Vizibilitate redusă în caz de ploaie torențială sau ceață.",
-                "en": "Limited visibility during heavy rain or fog."
+                "en": "Limited visibility during heavy rain or fog.",
+                "es": "Visibilidad limitada durante lluvias intensas o niebla."
               }
             },
             {
@@ -1904,7 +2077,8 @@
                 "de": "Nutzen Sie das Parkhaus im Zentrum.",
                 "hu": "Használja a belvárosi parkolóházat.",
                 "ro": "Folosiți parcarea etajată din centru.",
-                "en": "Use the central parking garage for easy access."
+                "en": "Use the central parking garage for easy access.",
+                "es": "Usa el parking central cubierto para un acceso fácil."
               }
             }
           ],
@@ -1932,6 +2106,12 @@
               "Check the condition of your windshield wipers.",
               "Avoid parking under tall trees during storms.",
               "Stop only at designated areas at the viewpoints."
+            ],
+            "es": [
+              "Conduce con mucha precaución en las carreteras de montaña sinuosas.",
+              "Revisa el estado de tus limpiaparabrisas.",
+              "Evita aparcar bajo árboles altos durante tormentas.",
+              "Detente solo en las áreas habilitadas en los miradores."
             ]
           }
         },
@@ -1940,7 +2120,8 @@
             "de": "Nutzen Sie die Heizung auf dem Weg zur Tito-Bustillo-Höhle. Die Fahrt zum Leuchtturm bietet bei klarer Luft eine Fernsicht bis zum Horizont. Der Winterstrand von Santa Marina lädt zu einem kurzen, frischen Fotostopp ein. Das Highlight ist der Fitu-Aussichtspunkt mit Blick auf die schneebedeckten Berge. Den Abend lassen Sie gemütlich in der Altstadt ausklingen.",
             "hu": "Használja a fűtést a Tito Bustillo-barlang felé menet. A világítótoronyhoz vezető út tiszta időben ellátni a látóhatárig. A téli Santa Marina strand egy rövid, frissítő fotómegállóra hívogat. A nap fénypontja a Fitu-kilátó a havas hegycsúcsokra nyíló kilátással. Az estét töltse az óváros meghitt hangulatában.",
             "ro": "Folosiți încălzirea în drum spre Peștera Tito Bustillo. Călătoria spre far oferă o vizibilitate excelentă până la orizont în zilele senine. Plaja Santa Marina iarna este perfectă pentru o scurtă pauză foto revigorantă. Punctul culminant este belvederea Fitu cu vedere spre munții înzăpeziți. Încheiați seara în centrul vechi.",
-            "en": "Use the car heater on your way to Tito Bustillo Cave. The drive to the lighthouse offers long-range views to the horizon in clear weather. The winter beach of Santa Marina is perfect for a short, crisp photo stop. The highlight is Fitu Viewpoint with its view of the snow-capped mountains. Spend your evening in the cozy old town."
+            "en": "Use the car heater on your way to Tito Bustillo Cave. The drive to the lighthouse offers long-range views to the horizon in clear weather. The winter beach of Santa Marina is perfect for a short, crisp photo stop. The highlight is Fitu Viewpoint with its view of the snow-capped mountains. Spend your evening in the cozy old town.",
+            "es": "Usa la calefacción del coche en el trayecto a la Cueva de Tito Bustillo. El camino al faro ofrece vistas lejanas hasta el horizonte con tiempo despejado. La playa invernal de Santa Marina es perfecta para una breve parada fotográfica y fresca. El punto culminante es el Mirador del Fitu con su vista de las montañas nevada. Pasa la noche en el acogedor casco antiguo."
           },
           "stops": [
             {
@@ -1949,7 +2130,8 @@
                 "de": "Frühzeitige Buchung wird auch im Winter empfohlen.",
                 "hu": "Az előzetes foglalás télen is ajánlott.",
                 "ro": "Rezervarea prealabilă este recomandată și iarna.",
-                "en": "Pre-booking is recommended even in winter."
+                "en": "Pre-booking is recommended even in winter.",
+                "es": "Se recomienda reservar con antelación incluso en invierno."
               }
             },
             {
@@ -1958,7 +2140,8 @@
                 "de": "Vorsicht bei tiefstehender Sonne während der Fahrt.",
                 "hu": "Vigyázzon az alacsonyan járó napra vezetés közben.",
                 "ro": "Atenție la soarele jos în timpul condusului.",
-                "en": "Beware of the low sun while driving to the coast."
+                "en": "Beware of the low sun while driving to the coast.",
+                "es": "Cuidado con el sol bajo al conducir hacia la costa."
               }
             },
             {
@@ -1967,7 +2150,8 @@
                 "de": "Parkplätze sind im Winter reichlich vorhanden.",
                 "hu": "Télen bőségesen áll rendelkezésre parkolóhely.",
                 "ro": "Locurile de parcare sunt din abundență iarna.",
-                "en": "Parking spaces are plentiful during the winter season."
+                "en": "Parking spaces are plentiful during the winter season.",
+                "es": "Las plazas de aparcamiento son abundantes durante el invierno."
               }
             },
             {
@@ -1976,7 +2160,8 @@
                 "de": "Eventuell Frost auf der Fahrbahn in den Bergen.",
                 "hu": "A hegyekben fagyott szakaszok lehetnek az úttesten.",
                 "ro": "Posibil polei pe carosabil în zonele montane.",
-                "en": "Watch out for possible frost on the mountain roads."
+                "en": "Watch out for possible frost on the mountain roads.",
+                "es": "Atento a posibles heladas en las carreteras de montaña."
               }
             },
             {
@@ -1985,7 +2170,8 @@
                 "de": "Die Altstadt ist abends stimmungsvoll beleuchtet.",
                 "hu": "Az óváros este hangulatosan van kivilágítva.",
                 "ro": "Centrul vechi este iluminat feeric seara.",
-                "en": "The old town is atmospherically lit in the evening."
+                "en": "The old town is atmospherically lit in the evening.",
+                "es": "El casco antiguo se ilumina con ambiente por la noche."
               }
             }
           ],
@@ -2013,6 +2199,12 @@
               "Check the antifreeze in your windshield washer fluid.",
               "Lighting conditions change rapidly in winter.",
               "Fitu Viewpoint is spectacular at sunset."
+            ],
+            "es": [
+              "Cuidado con placas de hielo en rincones sombreados.",
+              "Revisa el anticongelante del líquido del limpia parabrisas.",
+              "Las condiciones de luz cambian rápidamente en invierno.",
+              "El Mirador del Fitu es espectacular al atardecer."
             ]
           }
         }
@@ -2031,7 +2223,8 @@
             "de": "Cueva de Tito Bustillo",
             "hu": "Tito Bustillo-barlang",
             "ro": "Peștera Tito Bustillo",
-            "en": "Tito Bustillo Cave"
+            "en": "Tito Bustillo Cave",
+            "es": "Cueva de Tito Bustillo"
           },
           "coords": [
             -5.0675,
@@ -2046,7 +2239,8 @@
             "de": "Nur 10 Gehminuten vom Bahnhof entfernt.",
             "hu": "Csak 10 perc séta a vasútállomástól.",
             "ro": "La doar 10 minute de mers pe jos de gară.",
-            "en": "Just a 10-minute walk from the train station."
+            "en": "Just a 10-minute walk from the train station.",
+            "es": "A solo 10 minutos a pie de la estación de tren."
           }
         },
         {
@@ -2054,7 +2248,8 @@
             "de": "Plaza de la Iglesia",
             "hu": "Plaza de la Iglesia",
             "ro": "Plaza de la Iglesia",
-            "en": "Church Square"
+            "en": "Church Square",
+            "es": "Plaza de la Iglesia"
           },
           "coords": [
             -5.0612,
@@ -2069,7 +2264,8 @@
             "de": "Das Herz der Stadt, gut zu Fuß vom Hafen erreichbar.",
             "hu": "A város szíve, a kikötőtől gyalog könnyen elérhető.",
             "ro": "Inima orașului, ușor de ajuns pe jos din port.",
-            "en": "The heart of the town, easy walk from the harbor."
+            "en": "The heart of the town, easy walk from the harbor.",
+            "es": "El corazón del pueblo, a un paso del puerto."
           }
         },
         {
@@ -2077,7 +2273,8 @@
             "de": "Paseo de la Grúa",
             "hu": "Paseo de la Grúa",
             "ro": "Paseo de la Grúa",
-            "en": "Crane Promenade"
+            "en": "Crane Promenade",
+            "es": "Paseo de La Grúa"
           },
           "coords": [
             -5.0585,
@@ -2092,7 +2289,8 @@
             "de": "Folgen Sie dem bequemen Fußweg entlang der Mündung.",
             "hu": "Kövesse a kényelmes gyalogutat a torkolat mentén.",
             "ro": "Urmați poteca pietonală confortabilă de-a lungul estuarului.",
-            "en": "Follow the easy pedestrian path along the estuary."
+            "en": "Follow the easy pedestrian path along the estuary.",
+            "es": "Sigue el fácil sendero peatonal a lo largo de la ría."
           }
         },
         {
@@ -2100,7 +2298,8 @@
             "de": "Playa de Santa Marina",
             "hu": "Playa de Santa Marina",
             "ro": "Playa de Santa Marina",
-            "en": "Santa Marina Beach"
+            "en": "Santa Marina Beach",
+            "es": "Playa de Santa Marina"
           },
           "coords": [
             -5.07,
@@ -2115,7 +2314,8 @@
             "de": "Die Stadtbuslinie verbindet beide Seiten der Brücke.",
             "hu": "A helyi buszjárat összeköti a híd két oldalát.",
             "ro": "Linia de autobuz local face legătura între ambele maluri.",
-            "en": "Local bus lines connect both sides of the bridge."
+            "en": "Local bus lines connect both sides of the bridge.",
+            "es": "Las líneas de autobús locales conectan ambos lados del puente."
           }
         },
         {
@@ -2123,7 +2323,8 @@
             "de": "Torre de la Atalaya",
             "hu": "Őrtorony",
             "ro": "Turnul Atalaya",
-            "en": "Atalaya Tower"
+            "en": "Atalaya Tower",
+            "es": "Torre de la Atalaya"
           },
           "coords": [
             -5.0605,
@@ -2138,7 +2339,8 @@
             "de": "Ein schöner Abschluss in der Nähe der Bushaltestelle.",
             "hu": "Szép zárás a buszmegálló közelében.",
             "ro": "O încheiere frumoasă aproape de stația de autobuz.",
-            "en": "A nice finish near the central bus stop."
+            "en": "A nice finish near the central bus stop.",
+            "es": "Un buen final cerca de la parada de autobús central."
           }
         }
       ],
@@ -2146,7 +2348,8 @@
         "de": "Ribadesella ist gut mit öffentlichen Verkehrsmitteln erschlossen. Beginnen Sie Ihren Tag bei der Tito Bustillo Höhle, die nahe dem Bahnhof liegt. Erkunden Sie die Altstadt zu Fuß und nutzen Sie den Lokalbus, um zur weitläufigen Playa de Santa Marina zu gelangen. Genießen Sie den Tag ohne Parkplatzsorgen und lassen Sie sich vom Charme dieser asturischen Perle verzaubern.",
         "hu": "Ribadesella jól felfedezhető tömegközlekedéssel is. Kezdje a napot a Tito Bustillo-barlangnál, amely közel van a vasútállomáshoz. Fedezze fel gyalog az óvárost, majd helyi busszal menjen át a tágas Santa Marina strandra. Élvezze a napot parkolási gondok nélkül, és hagyja, hogy elvarázsolja ezen asztúriai gyöngyszem bája.",
         "ro": "Ribadesella este bine deservită de transportul public. Începeți ziua la Peștera Tito Bustillo, situată aproape de gară. Explorați centrul vechi pe jos și folosiți autobuzul local pentru a ajunge la plaja Santa Marina. Bucurați-vă de zi fără grija parcării și lăsați-vă fermecați de farmecul acestei perle asturiene.",
-        "en": "Ribadesella is well-connected by public transport. Start your day at the Tito Bustillo Cave, which is near the train station. Explore the old town on foot and use the local bus to reach the expansive Santa Marina Beach. Enjoy your day without parking worries and let the charm of this Asturian gem enchant you."
+        "en": "Ribadesella is well-connected by public transport. Start your day at the Tito Bustillo Cave, which is near the train station. Explore the old town on foot and use the local bus to reach the expansive Santa Marina Beach. Enjoy your day without parking worries and let the charm of this Asturian gem enchant you.",
+        "es": "Ribadesella está bien comunicada por transporte público. Comienza el día en la Cueva de Tito Bustillo, que está cerca de la estación de tren. Explora el casco antiguo a pie y usa el autobús local para llegar a la amplia playa de Santa Marina. Disfruta del día sin preocuparte del aparcamiento y deja que el encanto de esta joya asturiana te enamore."
       },
       "gastro_picks": {
         "de": [
@@ -2254,6 +2457,12 @@
           "The FEVE narrow-gauge train offers scenic views.",
           "Check timetables online as they can change seasonally.",
           "The town is compact enough to walk between most sights."
+        ],
+        "es": [
+          "Los autobuses ALSA conectan Ribadesella con otras localidades costeras.",
+          "El tren de vía estrecha FEVE ofrece vistas panorámicas.",
+          "Consulta los horarios en línea, ya que pueden cambiar según la temporada.",
+          "El pueblo es lo bastante compacto para ir a pie entre la mayoría de atractivos."
         ]
       },
       "variants": {
@@ -2262,7 +2471,8 @@
             "de": "Ribadesella ist gut mit öffentlichen Verkehrsmitteln erschlossen. Beginnen Sie Ihren Tag bei der Tito Bustillo Höhle, die nahe dem Bahnhof liegt. Erkunden Sie die Altstadt zu Fuß und nutzen Sie den Lokalbus, um zur weitläufigen Playa de Santa Marina zu gelangen. Genießen Sie den Tag ohne Parkplatzsorgen und lassen Sie sich vom Charme dieser asturischen Perle verzaubern.",
             "hu": "Ribadesella jól felfedezhető tömegközlekedéssel is. Kezdje a napot a Tito Bustillo-barlangnál, amely közel van a vasútállomáshoz. Fedezze fel gyalog az óvárost, majd helyi busszal menjen át a tágas Santa Marina strandra. Élvezze a napot parkolási gondok nélkül, és hagyja, hogy elvarázsolja ezen asztúriai gyöngyszem bája.",
             "ro": "Ribadesella este bine deservită de transportul public. Începeți ziua la Peștera Tito Bustillo, situată aproape de gară. Explorați centrul vechi pe jos și folosiți autobuzul local pentru a ajunge la plaja Santa Marina. Bucurați-vă de zi fără grija parcării și lăsați-vă fermecați de farmecul acestei perle asturiene.",
-            "en": "Ribadesella is well-connected by public transport. Start your day at the Tito Bustillo Cave, which is near the train station. Explore the old town on foot and use the local bus to reach the expansive Santa Marina Beach. Enjoy your day without parking worries and let the charm of this Asturian gem enchant you."
+            "en": "Ribadesella is well-connected by public transport. Start your day at the Tito Bustillo Cave, which is near the train station. Explore the old town on foot and use the local bus to reach the expansive Santa Marina Beach. Enjoy your day without parking worries and let the charm of this Asturian gem enchant you.",
+            "es": "Ribadesella está bien comunicada por transporte público. Comienza el día en la Cueva de Tito Bustillo, que está cerca de la estación de tren. Explora el casco antiguo a pie y usa el autobús local para llegar a la amplia playa de Santa Marina. Disfruta del día sin preocuparte del aparcamiento y deja que el encanto de esta joya asturiana te enamore."
           },
           "stops": [
             {
@@ -2270,13 +2480,15 @@
                 "de": "Cueva de Tito Bustillo",
                 "hu": "Tito Bustillo-barlang",
                 "ro": "Peștera Tito Bustillo",
-                "en": "Tito Bustillo Cave"
+                "en": "Tito Bustillo Cave",
+                "es": "Cueva de Tito Bustillo"
               },
               "tip_5lang": {
                 "de": "Nur 10 Gehminuten vom Bahnhof entfernt.",
                 "hu": "Csak 10 perc séta a vasútállomástól.",
                 "ro": "La doar 10 minute de mers pe jos de gară.",
-                "en": "Just a 10-minute walk from the train station."
+                "en": "Just a 10-minute walk from the train station.",
+                "es": "A solo 10 minutos a pie de la estación de tren."
               }
             },
             {
@@ -2284,13 +2496,15 @@
                 "de": "Plaza de la Iglesia",
                 "hu": "Plaza de la Iglesia",
                 "ro": "Plaza de la Iglesia",
-                "en": "Church Square"
+                "en": "Church Square",
+                "es": "Plaza de la Iglesia"
               },
               "tip_5lang": {
                 "de": "Das Herz der Stadt, gut zu Fuß vom Hafen erreichbar.",
                 "hu": "A város szíve, a kikötőtől gyalog könnyen elérhető.",
                 "ro": "Inima orașului, ușor de ajuns pe jos din port.",
-                "en": "The heart of the town, easy walk from the harbor."
+                "en": "The heart of the town, easy walk from the harbor.",
+                "es": "El corazón del pueblo, a un paso del puerto."
               }
             },
             {
@@ -2298,13 +2512,15 @@
                 "de": "Paseo de la Grúa",
                 "hu": "Paseo de la Grúa",
                 "ro": "Paseo de la Grúa",
-                "en": "Crane Promenade"
+                "en": "Crane Promenade",
+                "es": "Paseo de La Grúa"
               },
               "tip_5lang": {
                 "de": "Folgen Sie dem bequemen Fußweg entlang der Mündung.",
                 "hu": "Kövesse a kényelmes gyalogutat a torkolat mentén.",
                 "ro": "Urmați poteca pietonală confortabilă de-a lungul estuarului.",
-                "en": "Follow the easy pedestrian path along the estuary."
+                "en": "Follow the easy pedestrian path along the estuary.",
+                "es": "Sigue el fácil sendero peatonal a lo largo de la ría."
               }
             },
             {
@@ -2312,13 +2528,15 @@
                 "de": "Playa de Santa Marina",
                 "hu": "Playa de Santa Marina",
                 "ro": "Playa de Santa Marina",
-                "en": "Santa Marina Beach"
+                "en": "Santa Marina Beach",
+                "es": "Playa de Santa Marina"
               },
               "tip_5lang": {
                 "de": "Die Stadtbuslinie verbindet beide Seiten der Brücke.",
                 "hu": "A helyi buszjárat összeköti a híd két oldalát.",
                 "ro": "Linia de autobuz local face legătura între ambele maluri.",
-                "en": "Local bus lines connect both sides of the bridge."
+                "en": "Local bus lines connect both sides of the bridge.",
+                "es": "Las líneas de autobús locales conectan ambos lados del puente."
               }
             },
             {
@@ -2326,13 +2544,15 @@
                 "de": "Torre de la Atalaya",
                 "hu": "Őrtorony",
                 "ro": "Turnul Atalaya",
-                "en": "Atalaya Tower"
+                "en": "Atalaya Tower",
+                "es": "Torre de la Atalaya"
               },
               "tip_5lang": {
                 "de": "Ein schöner Abschluss in der Nähe der Bushaltestelle.",
                 "hu": "Szép zárás a buszmegálló közelében.",
                 "ro": "O încheiere frumoasă aproape de stația de autobuz.",
-                "en": "A nice finish near the central bus stop."
+                "en": "A nice finish near the central bus stop.",
+                "es": "Un buen final cerca de la parada de autobús central."
               }
             }
           ],
@@ -2442,6 +2662,12 @@
               "The FEVE narrow-gauge train offers scenic views.",
               "Check timetables online as they can change seasonally.",
               "The town is compact enough to walk between most sights."
+            ],
+            "es": [
+              "Los autobuses ALSA conectan Ribadesella con otras localidades costeras.",
+              "El tren de vía estrecha FEVE ofrece vistas panorámicas.",
+              "Consulta los horarios en línea, ya que pueden cambiar según la temporada.",
+              "El pueblo es lo bastante compacto para ir a pie entre la mayoría de atractivos."
             ]
           }
         },
@@ -2450,7 +2676,8 @@
             "de": "Nutzen Sie den Bus, um trocken zur Tito-Bustillo-Höhle zu gelangen. Verweilen Sie danach in der Altstadt bei der Church Square, wo Sie in Cafés auf den nächsten Bus warten können. Die Fahrt zur Santa Marina bietet Ausblicke auf die stürmische Küste. Beenden Sie den Tag am Atalaya-Turm mit einem regendichten Schirm und kehren Sie dann ins warme Zentrum zurück.",
             "hu": "Használja a buszt, hogy szárazon jusson el a Tito Bustillo-barlanghoz. Ezután töltsön időt az óvárosban, ahol kávézókban várhatja a következő járatot. A buszozás a Santa Marina felé kilátást nyújt a viharos partra. A napot az Atalaya-toronynál zárja egy esernyővel, majd térjen vissza a meleg belvárosba.",
             "ro": "Folosiți autobuzul pentru a ajunge la adăpost la Peștera Tito Bustillo. Rămâneți apoi în centrul vechi, unde puteți aștepta următorul autobuz în cafenele. Drumul spre Santa Marina oferă vederi spre coasta agitată. Încheiați ziua la Turnul Atalaya cu o umbrelă bună, apoi reveniți în centrul călduros.",
-            "en": "Take the bus to arrive dry at the Tito Bustillo Cave. Afterward, spend time around Church Square, where you can wait for the next connection in a cafe. The ride to Santa Marina offers views of the stormy coastline. Finish your day at Atalaya Tower with a sturdy umbrella, then return to the cozy city center."
+            "en": "Take the bus to arrive dry at the Tito Bustillo Cave. Afterward, spend time around Church Square, where you can wait for the next connection in a cafe. The ride to Santa Marina offers views of the stormy coastline. Finish your day at Atalaya Tower with a sturdy umbrella, then return to the cozy city center.",
+            "es": "Toma el autobús para llegar seco a la Cueva de Tito Bustillo. Después, pasa tiempo en la Plaza de la Iglesia, donde puedes esperar la siguiente conexión en un café. El trayecto a Santa Marina ofrece vistas de la costa tempestuosa. Termina el día en la Torre de la Atalaya con un paraguas resistente y vuelve al acogedor centro iluminado."
           },
           "stops": [
             {
@@ -2459,7 +2686,8 @@
                 "de": "Bushaltestelle befindet sich in Gehweite.",
                 "hu": "A buszmegálló sétatávolságra található.",
                 "ro": "Stația de autobuz este la mică distanță de mers pe jos.",
-                "en": "The bus stop is located within walking distance."
+                "en": "The bus stop is located within walking distance.",
+                "es": "La parada de autobús está a poca distancia a pie."
               }
             },
             {
@@ -2468,7 +2696,8 @@
                 "de": "Überdachte Wartebereiche an den Bushaltestellen.",
                 "hu": "Fedett váróhelyek a buszmegállóknál.",
                 "ro": "Zone de așteptare acoperite în stațiile de autobuz.",
-                "en": "Covered waiting areas are available at bus stops."
+                "en": "Covered waiting areas are available at bus stops.",
+                "es": "Hay áreas cubiertas de espera en las paradas de autobús."
               }
             },
             {
@@ -2477,7 +2706,8 @@
                 "de": "Ein schöner Ort, um das Wetter kurz zu beobachten.",
                 "hu": "Szép hely az időjárás rövid megfigyeléséhez.",
                 "ro": "Un loc plăcut pentru a observa scurt timpul.",
-                "en": "A nice spot to briefly observe the coastal weather."
+                "en": "A nice spot to briefly observe the coastal weather.",
+                "es": "Un buen lugar para observar brevemente el tiempo costero."
               }
             },
             {
@@ -2486,7 +2716,8 @@
                 "de": "Busse verkehren regelmäßig entlang der Küstenstraße.",
                 "hu": "A buszok rendszeresen járnak a parti út mentén.",
                 "ro": "Autobuzele circulă regulat pe drumul de coastă.",
-                "en": "Buses run regularly along the coastal road."
+                "en": "Buses run regularly along the coastal road.",
+                "es": "Los autobuses circulan regularmente por la carretera de la costa."
               }
             },
             {
@@ -2495,7 +2726,8 @@
                 "de": "Kurzer Fußweg von der Bushaltestelle im Zentrum.",
                 "hu": "Rövid séta a belvárosi buszmegállótól.",
                 "ro": "Scurtă plimbare de la stația de autobuz centrală.",
-                "en": "Short walk from the central bus stop."
+                "en": "Short walk from the central bus stop.",
+                "es": "A poca distancia a pie desde la parada de autobús central."
               }
             }
           ],
@@ -2523,6 +2755,12 @@
               "Wear non-slip footwear during rainy weather.",
               "Buses are climate-controlled and protect you from the wet.",
               "Purchase your tickets in advance whenever possible."
+            ],
+            "es": [
+              "Consulta los horarios de autobús en la web de ALSA.",
+              "Lleva calzado antideslizante en tiempo de lluvia.",
+              "Los autobuses tienen climatización y te protegen de la lluvia.",
+              "Compra los billetes por adelantado siempre que sea posible."
             ]
           }
         },
@@ -2531,7 +2769,8 @@
             "de": "Starten Sie am Vormittag mit dem Bus zur Tito-Bustillo-Höhle. Mittags bietet die Altstadt bei der Church Square eine historische Atmosphäre im Winterlicht. Die Fahrt zur Santa Marina ist im Winter entspannt und bietet weite Blicke auf das Meer. Erleben Sie den frühen Sonnenuntergang am Atalaya-Turm und nehmen Sie den letzten Bus zurück ins beleuchtete Zentrum.",
             "hu": "Induljon délelőtt busszal a Tito Bustillo-barlanghoz. Délben az óváros főtere téli fényekben pompázik. A buszozás a Santa Marina felé télen nyugodt, tágas kilátást nyújt a tengerre. Nézze meg a korai naplementét az Atalaya-toronynál, majd az utolsó busszal térjen vissza a kivilágított központba.",
             "ro": "Porniți dimineața cu autobuzul spre Peștera Tito Bustillo. La prânz, piața centrală oferă o atmosferă istorică în lumina iernii. Drumul spre Santa Marina este relaxant iarna, oferind vederi largi spre mare. Admirați apusul timpuriu la Turnul Atalaya și luați ultimul autobuz spre centrul luminat.",
-            "en": "Start your morning with a bus ride to Tito Bustillo Cave. At noon, Church Square offers a historical atmosphere in the winter sun. The transit ride to Santa Marina is relaxed in winter, providing expansive sea views. Experience the early sunset at Atalaya Tower and catch the last bus back to the illuminated city center."
+            "en": "Start your morning with a bus ride to Tito Bustillo Cave. At noon, Church Square offers a historical atmosphere in the winter sun. The transit ride to Santa Marina is relaxed in winter, providing expansive sea views. Experience the early sunset at Atalaya Tower and catch the last bus back to the illuminated city center.",
+            "es": "Empieza la mañana con un viaje en autobús a la Cueva de Tito Bustillo. Al mediodía, la Plaza de la Iglesia ofrece una atmósfera histórica al sol invernal. El trayecto a Santa Marina es relajado en invierno, con amplias vistas al mar. Vive el atardecer temprano en la Torre de la Atalaya y coge el último autobús de regreso al centro iluminado."
           },
           "stops": [
             {
@@ -2540,7 +2779,8 @@
                 "de": "Beachten Sie die eventuellen Winter-Fahrpläne.",
                 "hu": "Ügyeljen az esetleges téli menetrendre.",
                 "ro": "Atenție la eventualele orare de iarnă.",
-                "en": "Check for any potential winter schedule changes."
+                "en": "Check for any potential winter schedule changes.",
+                "es": "Comprueba posibles cambios de horarios en invierno."
               }
             },
             {
@@ -2549,7 +2789,8 @@
                 "de": "Ein guter Ausgangspunkt für den Stadtbummel.",
                 "hu": "Jó kiindulópont a városi sétához.",
                 "ro": "Un punct de plecare bun pentru plimbarea prin oraș.",
-                "en": "A great starting point for a city stroll."
+                "en": "A great starting point for a city stroll.",
+                "es": "Un gran punto de partida para pasear por la ciudad."
               }
             },
             {
@@ -2558,7 +2799,8 @@
                 "de": "Frische Meeresluft genießen, warm anziehen.",
                 "hu": "Élvezze a friss tengeri levegőt, öltözzön melegen.",
                 "ro": "Bucurați-vă de aerul marin, îmbrăcați-vă gros.",
-                "en": "Enjoy the fresh sea air, dress warmly."
+                "en": "Enjoy the fresh sea air, dress warmly.",
+                "es": "Disfruta del aire fresco del mar, vístete abrigado."
               }
             },
             {
@@ -2567,7 +2809,8 @@
                 "de": "Im Winter sehr ruhig und malerisch.",
                 "hu": "Télen nagyon csendes és festői.",
                 "ro": "Foarte liniștit și pitoresc pe timp de iarnă.",
-                "en": "Very quiet and picturesque during winter."
+                "en": "Very quiet and picturesque during winter.",
+                "es": "Muy tranquilo y pintoresco durante el invierno."
               }
             },
             {
@@ -2576,7 +2819,8 @@
                 "de": "Blick auf das weihnachtlich beleuchtete Ribadesella.",
                 "hu": "Kilátás a karácsonyi fényekben úszó Ribadesellára.",
                 "ro": "Vedere spre Ribadesella iluminată de sărbători.",
-                "en": "View of Ribadesella lit up with festive lights."
+                "en": "View of Ribadesella lit up with festive lights.",
+                "es": "Vista de Ribadesella iluminada con luces festivas."
               }
             }
           ],
@@ -2604,6 +2848,12 @@
               "Wait in heated venues near the bus stops.",
               "The evening city lights are very much worth seeing.",
               "Use the transit app for real-time information."
+            ],
+            "es": [
+              "Los horarios pueden ser menos frecuentes en invierno.",
+              "Espera en locales climatizados cerca de las paradas de autobús.",
+              "Las luces nocturnas de la ciudad merecen mucho la pena.",
+              "Usa la app de transporte para información en tiempo real."
             ]
           }
         }
@@ -2618,19 +2868,22 @@
       "de": "Asturisches Spanisch mit weichem Akzent, Bable hört man selten aktiv. Englisch funktioniert in den Hotels am Paseo, in den Sidrerías eher Hände und Füße. Cidre wird ritualisch eingeschenkt - nicht selbst nachschütten.",
       "hu": "Asztúriai spanyol, lágy akcentussal, a bable (asztúriai nyelv) inkább csak feliratokon él. A Paseón a hotelekben megy az angol, a sidrería-kban viszont mutogatni kell. A cidre-t (almabor) szertartásosan töltik magasról, magadtól ne öntsd.",
       "ro": "Spaniolă asturiană cu accent moale, bable se aude rar vorbit. Engleza merge la hotelurile de pe Paseo, dar la sidrerías cu mâinile și gesturile. Cidrul se toarnă ritual de la înălțime, nu îți reumple paharul singur.",
-      "en": "Asturian Spanish with a soft accent; you'll see Bable on signs more than hear it spoken. English works in seafront hotels but barely in sidrerías. Cider is poured ceremonially from height - never refill your own glass."
+      "en": "Asturian Spanish with a soft accent; you'll see Bable on signs more than hear it spoken. English works in seafront hotels but barely in sidrerías. Cider is poured ceremonially from height - never refill your own glass.",
+      "es": "Asturiano con acento suave; verás Bable en carteles más que escucharlo. El inglés funciona en hoteles frente al mar pero apenas en las sidrerías. La sidra se escancia ceremoniosamente desde lo alto: no rellenes tu propio vaso."
     },
     "best_time_to_visit": {
       "de": "Mitte Juni bis Mitte September für Strand und Cidre. Erstes Augustwochenende: Descenso del Sella, das große Kanu-Rennen mit ganz Asturien zu Gast - magisch, aber Unterkunft monatelang vorher buchen.",
       "hu": "Június közepétől szeptember közepéig a strandhoz és cidre-hez. Augusztus első hétvégéjén a Descenso del Sella kenuverseny zajlik, egész Asztúria itt buliz, varázslatos, de a szállást hónapokkal előbb foglald.",
       "ro": "Mijlocul lui iunie până la mijlocul lui septembrie pentru plajă și cidru. Primul weekend din august: Descenso del Sella, marea cursă de canotaj, magic dar cazarea se rezervă cu luni înainte.",
-      "en": "Mid-June to mid-September for beach and cider. The first weekend of August brings Descenso del Sella, the famous canoe race that draws all Asturias - magical, but book months ahead."
+      "en": "Mid-June to mid-September for beach and cider. The first weekend of August brings Descenso del Sella, the famous canoe race that draws all Asturias - magical, but book months ahead.",
+      "es": "De mediados de junio a mediados de septiembre para playa y sidra. El primer fin de semana de agosto tiene lugar el Descenso del Sella, la famosa regata de piraguas que atrae a toda Asturias: mágico, pero reserva con meses de antelación."
     },
     "neighborhood_warnings": {
       "de": "Ribadesella ist sicher und familienfreundlich. Bei Ebbe nicht zu weit auf die Felsen unter dem Tito-Bustillo-Hügel - die Flut kommt schnell zurück. Nach dem Festival am ersten Augustsonntag ist die Altstadt voll mit jungen Feiernden, halb durchgemacht.",
       "hu": "Ribadesella biztonságos, családbarát. Apálykor a Tito Bustillo-domb alatti szikláknál ne menj messzire, gyorsan visszajön a dagály. Augusztus első vasárnapja után az óvárosban éjszaka még buliznak a fiatalok.",
       "ro": "Ribadesella e sigur și prietenos pentru familii. La reflux, nu te aventura prea departe pe stâncile de sub dealul Tito Bustillo, mareea revine repede. După prima duminică din august, centrul vechi e plin de tineri petrecăreți noaptea.",
-      "en": "Ribadesella is safe and family-friendly. At low tide don't wander far on the rocks below Tito Bustillo hill, the tide rushes back. After the first Sunday in August the old town stays loud with young festival-goers."
+      "en": "Ribadesella is safe and family-friendly. At low tide don't wander far on the rocks below Tito Bustillo hill, the tide rushes back. After the first Sunday in August the old town stays loud with young festival-goers.",
+      "es": "Ribadesella es segura y apta para familias. Con marea baja no te alejes por las rocas bajo el monte Tito Bustillo; la marea vuelve con rapidez. Tras el primer domingo de agosto el casco antiguo se mantiene ruidoso por jóvenes festivos."
     }
   }
 }

@@ -21,7 +21,8 @@
             "de": "Real Cartuja de Valldemossa",
             "hu": "Valldemossai karthauzi kolostor",
             "ro": "Real Cartuja de Valldemossa",
-            "en": "Real Cartuja de Valldemossa"
+            "en": "Real Cartuja de Valldemossa",
+            "es": "Real Cartuja de Valldemossa"
           },
           "coords": [
             2.6225,
@@ -36,7 +37,8 @@
             "de": "Kaufen Sie das Kombiticket für den gesamten Komplex.",
             "hu": "Vegyünk kombinált jegyet a teljes komplexumra.",
             "ro": "Cumpărați biletul combinat pentru întregul complex.",
-            "en": "Buy the combo ticket for the entire complex."
+            "en": "Buy the combo ticket for the entire complex.",
+            "es": "Compra la entrada combinada para todo el conjunto."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Palacio del Rey Sancho",
             "hu": "Sancho király palotája",
             "ro": "Palatul Regelui Sancho",
-            "en": "Palace of King Sancho"
+            "en": "Palace of King Sancho",
+            "es": "Palacio del rey Sancho"
           },
           "coords": [
             2.6222,
@@ -59,7 +62,8 @@
             "de": "Achten Sie auf die kurzfristigen Klavierkonzerte.",
             "hu": "Figyeljük a rövid zongorakoncertek időpontjait.",
             "ro": "Căutați programul scurtelor concerte de pian.",
-            "en": "Look out for the short piano concert schedules."
+            "en": "Look out for the short piano concert schedules.",
+            "es": "Estate atento a los breves conciertos de piano."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Celda de Chopin",
             "hu": "Chopin-cella",
             "ro": "Chilia lui Chopin",
-            "en": "Chopin's Cell"
+            "en": "Chopin's Cell",
+            "es": "La celda de Chopin"
           },
           "coords": [
             2.6228,
@@ -82,7 +87,8 @@
             "de": "Hier schrieb Chopin seine berühmten Präludien.",
             "hu": "Itt írta Chopin a híres esőcsepp-prelűdöt.",
             "ro": "Aici Chopin a scris faimoasele sale preludii.",
-            "en": "Chopin wrote his famous preludes here."
+            "en": "Chopin wrote his famous preludes here.",
+            "es": "Chopin escribió aquí sus famosos preludios."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Jardines de la Cartuja",
             "hu": "Kolostorkertek",
             "ro": "Grădinile Cartuja",
-            "en": "Cartuja Gardens"
+            "en": "Cartuja Gardens",
+            "es": "Jardines de la Cartuja"
           },
           "coords": [
             2.6235,
@@ -105,7 +112,8 @@
             "de": "Perfekter Ort für Fotos der Klostertürme.",
             "hu": "Tökéletes helyszín a kolostortorony fotózásához.",
             "ro": "Locul perfect pentru fotografii cu turnurile mănăstirii.",
-            "en": "Perfect spot for photos of the monastery towers."
+            "en": "Perfect spot for photos of the monastery towers.",
+            "es": "Lugar perfecto para fotos de las torres del monasterio."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Iglesia de San Bartolomé",
             "hu": "Szent Bertalan templom",
             "ro": "Biserica San Bartolomé",
-            "en": "Church of San Bartolomé"
+            "en": "Church of San Bartolomé",
+            "es": "Iglesia de San Bartolomé"
           },
           "coords": [
             2.622,
@@ -128,7 +137,8 @@
             "de": "Bewundern Sie die gotische Architektur im Inneren.",
             "hu": "Csodáljuk meg a belső gótikus építészetet.",
             "ro": "Admirați arhitectura gotică din interior.",
-            "en": "Admire the Gothic architecture inside."
+            "en": "Admire the Gothic architecture inside.",
+            "es": "Admira la arquitectura gótica del interior."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Casa Natal de Santa Catalina",
             "hu": "Szent Katalin szülőháza",
             "ro": "Casa Natală a Sfintei Catalina",
-            "en": "Birthplace of Saint Catherine"
+            "en": "Birthplace of Saint Catherine",
+            "es": "Casa natal de Santa Catalina"
           },
           "coords": [
             2.6205,
@@ -151,7 +162,8 @@
             "de": "Kleine Kapelle der Schutzpatronin des Dorfes.",
             "hu": "A falu védőszentjének szentelt kis kápolna.",
             "ro": "Mică capelă dedicată patroanei satului.",
-            "en": "Small chapel dedicated to the village's patron saint."
+            "en": "Small chapel dedicated to the village's patron saint.",
+            "es": "Pequeña capilla dedicada a la patrona del pueblo."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Mirador des Lledoner",
             "hu": "Lledoner kilátó",
             "ro": "Mirador des Lledoner",
-            "en": "Mirador des Lledoner"
+            "en": "Mirador des Lledoner",
+            "es": "Mirador des Lledoner"
           },
           "coords": [
             2.6245,
@@ -174,7 +187,8 @@
             "de": "Panoramablick über das Tal von Valldemossa.",
             "hu": "Panorámás kilátás a Valldemossa-völgyre.",
             "ro": "Vedere panoramică asupra văii Valldemossa.",
-            "en": "Panoramic views over the Valldemossa valley."
+            "en": "Panoramic views over the Valldemossa valley.",
+            "es": "Vistas panorámicas sobre el valle de Valldemossa."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Morgen in der majestätischen Kartause, wo Chopin und Sand ihren berühmten Winter verbrachten. Mittags schlendern Sie durch die kopfsteingepflasterten Gassen zur Kirche San Bartolomé. Am Nachmittag entdecken Sie die spirituelle Seite im Geburtshaus der Heiligen Catalina Thomas und genießen zum Abschluss den weiten Blick über die Tramuntana-Berge vom Mirador des Lledoner.",
         "hu": "Kezdje a reggelt a fenséges karthauzi kolostorban, ahol Chopin és George Sand töltötte híres telét. Délben sétáljon végig a macskaköves utcákon a Szent Bertalan-templomig. Délután fedezze fel a falu spirituális oldalát Szent Katalin szülőházánál, végül élvezze a Tramuntana-hegységre nyíló tágas kilátást a Lledoner kilátópontról.",
         "ro": "Începeți dimineața la maiestuoasa mănăstire Cartuja, unde Chopin și George Sand și-au petrecut iarna faimoasă. La prânz, plimbați-vă pe străzile pietruite până la biserica San Bartolomé. După-amiaza, descoperiți latura spirituală la casa natală a Sfintei Catalina Thomas și încheiați cu vederea panoramică asupra munților Tramuntana de la Mirador des Lledoner.",
-        "en": "Start your morning at the majestic Charterhouse, where Chopin and George Sand spent their famous winter. At noon, stroll through the cobblestone streets to the Church of San Bartolomé. In the afternoon, discover the spiritual side at the birthplace of Saint Catherine Thomas, and finally enjoy the sweeping views over the Tramuntana mountains from the Lledoner viewpoint."
+        "en": "Start your morning at the majestic Charterhouse, where Chopin and George Sand spent their famous winter. At noon, stroll through the cobblestone streets to the Church of San Bartolomé. In the afternoon, discover the spiritual side at the birthplace of Saint Catherine Thomas, and finally enjoy the sweeping views over the Tramuntana mountains from the Lledoner viewpoint.",
+        "es": "Comienza la mañana en la majestuosa Cartuja, donde Chopin y George Sand pasaron su famoso invierno. Al mediodía, pasea por las calles empedradas hasta la iglesia de San Bartolomé. Por la tarde, descubre el lado espiritual en la casa natal de Santa Catalina Thomas y, para terminar, disfruta de las vistas de la sierra de la Tramuntana desde el mirador del Lledoner."
       },
       "gastro_picks": {
         "de": [
@@ -290,6 +305,12 @@
           "Valldemossa is significantly cooler in winter than Palma.",
           "Most shops close during siesta time.",
           "Parking is difficult in the center, use the large peripheral lots."
+        ],
+        "es": [
+          "Lleva calzado cómodo para las calles empedradas.",
+          "Valldemossa es considerablemente más fresco en invierno que Palma.",
+          "La mayoría de las tiendas cierran durante la siesta.",
+          "Aparcar en el centro es difícil; usa los grandes parkings periféricos."
         ]
       },
       "variants": {
@@ -298,7 +319,8 @@
             "de": "Beginnen Sie Ihren Morgen in der majestätischen Kartause, wo Chopin und Sand ihren berühmten Winter verbrachten. Mittags schlendern Sie durch die kopfsteingepflasterten Gassen zur Kirche San Bartolomé. Am Nachmittag entdecken Sie die spirituelle Seite im Geburtshaus der Heiligen Catalina Thomas und genießen zum Abschluss den weiten Blick über die Tramuntana-Berge vom Mirador des Lledoner.",
             "hu": "Kezdje a reggelt a fenséges karthauzi kolostorban, ahol Chopin és George Sand töltötte híres telét. Délben sétáljon végig a macskaköves utcákon a Szent Bertalan-templomig. Délután fedezze fel a falu spirituális oldalát Szent Katalin szülőházánál, végül élvezze a Tramuntana-hegységre nyíló tágas kilátást a Lledoner kilátópontról.",
             "ro": "Începeți dimineața la maiestuoasa mănăstire Cartuja, unde Chopin și George Sand și-au petrecut iarna faimoasă. La prânz, plimbați-vă pe străzile pietruite până la biserica San Bartolomé. După-amiaza, descoperiți latura spirituală la casa natală a Sfintei Catalina Thomas și încheiați cu vederea panoramică asupra munților Tramuntana de la Mirador des Lledoner.",
-            "en": "Start your morning at the majestic Charterhouse, where Chopin and George Sand spent their famous winter. At noon, stroll through the cobblestone streets to the Church of San Bartolomé. In the afternoon, discover the spiritual side at the birthplace of Saint Catherine Thomas, and finally enjoy the sweeping views over the Tramuntana mountains from the Lledoner viewpoint."
+            "en": "Start your morning at the majestic Charterhouse, where Chopin and George Sand spent their famous winter. At noon, stroll through the cobblestone streets to the Church of San Bartolomé. In the afternoon, discover the spiritual side at the birthplace of Saint Catherine Thomas, and finally enjoy the sweeping views over the Tramuntana mountains from the Lledoner viewpoint.",
+            "es": "Comienza la mañana en la majestuosa Cartuja, donde Chopin y George Sand pasaron su famoso invierno. Al mediodía, pasea por las calles empedradas hasta la iglesia de San Bartolomé. Por la tarde, descubre el lado espiritual en la casa natal de Santa Catalina Thomas y, para terminar, disfruta de las vistas de la sierra de la Tramuntana desde el mirador del Lledoner."
           },
           "stops": [
             {
@@ -306,13 +328,15 @@
                 "de": "Real Cartuja de Valldemossa",
                 "hu": "Valldemossai karthauzi kolostor",
                 "ro": "Real Cartuja de Valldemossa",
-                "en": "Real Cartuja de Valldemossa"
+                "en": "Real Cartuja de Valldemossa",
+                "es": "Real Cartuja de Valldemossa"
               },
               "tip_5lang": {
                 "de": "Kaufen Sie das Kombiticket für den gesamten Komplex.",
                 "hu": "Vegyünk kombinált jegyet a teljes komplexumra.",
                 "ro": "Cumpărați biletul combinat pentru întregul complex.",
-                "en": "Buy the combo ticket for the entire complex."
+                "en": "Buy the combo ticket for the entire complex.",
+                "es": "Compra la entrada combinada para todo el conjunto."
               }
             },
             {
@@ -320,13 +344,15 @@
                 "de": "Palacio del Rey Sancho",
                 "hu": "Sancho király palotája",
                 "ro": "Palatul Regelui Sancho",
-                "en": "Palace of King Sancho"
+                "en": "Palace of King Sancho",
+                "es": "Palacio del rey Sancho"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf die kurzfristigen Klavierkonzerte.",
                 "hu": "Figyeljük a rövid zongorakoncertek időpontjait.",
                 "ro": "Căutați programul scurtelor concerte de pian.",
-                "en": "Look out for the short piano concert schedules."
+                "en": "Look out for the short piano concert schedules.",
+                "es": "Estate atento a los breves conciertos de piano."
               }
             },
             {
@@ -334,13 +360,15 @@
                 "de": "Celda de Chopin",
                 "hu": "Chopin-cella",
                 "ro": "Chilia lui Chopin",
-                "en": "Chopin's Cell"
+                "en": "Chopin's Cell",
+                "es": "La celda de Chopin"
               },
               "tip_5lang": {
                 "de": "Hier schrieb Chopin seine berühmten Präludien.",
                 "hu": "Itt írta Chopin a híres esőcsepp-prelűdöt.",
                 "ro": "Aici Chopin a scris faimoasele sale preludii.",
-                "en": "Chopin wrote his famous preludes here."
+                "en": "Chopin wrote his famous preludes here.",
+                "es": "Chopin escribió aquí sus famosos preludios."
               }
             },
             {
@@ -348,13 +376,15 @@
                 "de": "Jardines de la Cartuja",
                 "hu": "Kolostorkertek",
                 "ro": "Grădinile Cartuja",
-                "en": "Cartuja Gardens"
+                "en": "Cartuja Gardens",
+                "es": "Jardines de la Cartuja"
               },
               "tip_5lang": {
                 "de": "Perfekter Ort für Fotos der Klostertürme.",
                 "hu": "Tökéletes helyszín a kolostortorony fotózásához.",
                 "ro": "Locul perfect pentru fotografii cu turnurile mănăstirii.",
-                "en": "Perfect spot for photos of the monastery towers."
+                "en": "Perfect spot for photos of the monastery towers.",
+                "es": "Lugar perfecto para fotos de las torres del monasterio."
               }
             },
             {
@@ -362,13 +392,15 @@
                 "de": "Iglesia de San Bartolomé",
                 "hu": "Szent Bertalan templom",
                 "ro": "Biserica San Bartolomé",
-                "en": "Church of San Bartolomé"
+                "en": "Church of San Bartolomé",
+                "es": "Iglesia de San Bartolomé"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die gotische Architektur im Inneren.",
                 "hu": "Csodáljuk meg a belső gótikus építészetet.",
                 "ro": "Admirați arhitectura gotică din interior.",
-                "en": "Admire the Gothic architecture inside."
+                "en": "Admire the Gothic architecture inside.",
+                "es": "Admira la arquitectura gótica del interior."
               }
             },
             {
@@ -376,13 +408,15 @@
                 "de": "Casa Natal de Santa Catalina",
                 "hu": "Szent Katalin szülőháza",
                 "ro": "Casa Natală a Sfintei Catalina",
-                "en": "Birthplace of Saint Catherine"
+                "en": "Birthplace of Saint Catherine",
+                "es": "Casa natal de Santa Catalina"
               },
               "tip_5lang": {
                 "de": "Kleine Kapelle der Schutzpatronin des Dorfes.",
                 "hu": "A falu védőszentjének szentelt kis kápolna.",
                 "ro": "Mică capelă dedicată patroanei satului.",
-                "en": "Small chapel dedicated to the village's patron saint."
+                "en": "Small chapel dedicated to the village's patron saint.",
+                "es": "Pequeña capilla dedicada a la patrona del pueblo."
               }
             },
             {
@@ -390,13 +424,15 @@
                 "de": "Mirador des Lledoner",
                 "hu": "Lledoner kilátó",
                 "ro": "Mirador des Lledoner",
-                "en": "Mirador des Lledoner"
+                "en": "Mirador des Lledoner",
+                "es": "Mirador des Lledoner"
               },
               "tip_5lang": {
                 "de": "Panoramablick über das Tal von Valldemossa.",
                 "hu": "Panorámás kilátás a Valldemossa-völgyre.",
                 "ro": "Vedere panoramică asupra văii Valldemossa.",
-                "en": "Panoramic views over the Valldemossa valley."
+                "en": "Panoramic views over the Valldemossa valley.",
+                "es": "Vistas panorámicas sobre el valle de Valldemossa."
               }
             }
           ],
@@ -506,6 +542,12 @@
               "Valldemossa is significantly cooler in winter than Palma.",
               "Most shops close during siesta time.",
               "Parking is difficult in the center, use the large peripheral lots."
+            ],
+            "es": [
+              "Lleva calzado cómodo para las calles empedradas.",
+              "Valldemossa es considerablemente más fresco en invierno que Palma.",
+              "La mayoría de las tiendas cierran durante la siesta.",
+              "Aparcar es difícil en el centro; use los grandes aparcamientos periféricos."
             ]
           }
         },
@@ -514,7 +556,8 @@
             "de": "Beginnen Sie den Tag in der Kartause, einem idealen Zufluchtsort vor dem Regen. Mittags erkunden Sie die Innenräume des Palastes und Chopins Zelle, während es draußen prasselt. Nachmittags spazieren Sie mit dem Schirm durch die steingepflasterten Gassen zur Kirche San Bartolomé. Den Abend lassen Sie in einem gemütlichen Café bei einer heißen Coca de Patata ausklingen.",
             "hu": "Kezdje a napot a karthauzi kolostor falai között, amely tökéletes menedék az eső elől. Délben fedezze fel a palota belső tereit és Chopin celláját, miközben kint kopog az eső. Délután esernyővel sétáljon végig a hangulatos, köves utcákon a Szent Bertalan-templomig. Az estét egy meleg kávézóban zárja egy helyi burgonyás pogácsa mellett.",
             "ro": "Începeți ziua în mănăstirea cartuziană, un refugiu ideal împotriva ploii. La prânz, explorați interiorul palatului și celula lui Chopin în timp ce afară plouă. După-amiaza, plimbați-vă cu umbrela pe străzile pavate până la Biserica San Bartolomé. Încheiați seara într-o cafenea primitoare cu o porție caldă de Coca de Patata.",
-            "en": "Start the day inside the Charterhouse, a perfect sanctuary from the rain. At noon, explore the palace interiors and Chopin's cell while the rain patters outside. In the afternoon, walk with an umbrella through the cobblestone streets to the Church of San Bartolomé. End the evening in a cozy café with a warm local potato bun."
+            "en": "Start the day inside the Charterhouse, a perfect sanctuary from the rain. At noon, explore the palace interiors and Chopin's cell while the rain patters outside. In the afternoon, walk with an umbrella through the cobblestone streets to the Church of San Bartolomé. End the evening in a cozy café with a warm local potato bun.",
+            "es": "Comience el día dentro de la Cartuja, un perfecto refugio de la lluvia. Al mediodía, explore los interiores del palacio y la celda de Chopin mientras la lluvia cae fuera. Por la tarde, camine con paraguas por las calles empedradas hasta la iglesia de San Bartolomé. Termine la noche en un café acogedor con un bollo local de patata caliente."
           },
           "stops": [
             {
@@ -523,7 +566,8 @@
                 "de": "Große Innenräume, perfekt um trocken zu bleiben.",
                 "hu": "Tágas belső terek, ideális hely az eső elől.",
                 "ro": "Spații interioare vaste, loc perfect pentru a sta la uscat.",
-                "en": "Large indoor spaces, perfect for staying dry."
+                "en": "Large indoor spaces, perfect for staying dry.",
+                "es": "Grandes espacios interiores, perfectos para mantenerse seco."
               }
             },
             {
@@ -532,7 +576,8 @@
                 "de": "Nutzen Sie die überdachten Gänge zwischen den Sälen.",
                 "hu": "Használja a termek közötti fedett folyosókat.",
                 "ro": "Folosiți coridoarele acoperite dintre săli.",
-                "en": "Use the covered walkways between the halls."
+                "en": "Use the covered walkways between the halls.",
+                "es": "Utilice los pasillos cubiertos entre las salas."
               }
             },
             {
@@ -541,7 +586,8 @@
                 "de": "Kleine, intime Räume mit melancholischer Regen-Atmosphäre.",
                 "hu": "Kicsi, intim szobák melankolikus esős hangulattal.",
                 "ro": "Încăperi mici și intime cu o atmosferă melancolică de ploaie.",
-                "en": "Small, intimate rooms with a melancholic rainy atmosphere."
+                "en": "Small, intimate rooms with a melancholic rainy atmosphere.",
+                "es": "Habitaciones pequeñas e íntimas con una melancólica atmósfera de lluvia."
               }
             },
             {
@@ -550,7 +596,8 @@
                 "de": "Schneller Durchgang unter den Bäumen bei leichtem Regen.",
                 "hu": "Gyors séta a fák alatt enyhe esőben.",
                 "ro": "Trecere rapidă pe sub copaci în caz de ploaie ușoară.",
-                "en": "Quick passage under the trees during light rain."
+                "en": "Quick passage under the trees during light rain.",
+                "es": "Paso rápido bajo los árboles durante lluvia ligera."
               }
             },
             {
@@ -559,7 +606,8 @@
                 "de": "Ein ruhiger, trockener Ort für eine kurze Rast.",
                 "hu": "Csendes, száraz hely egy rövid pihenőhöz.",
                 "ro": "Un loc liniștit și uscat pentru un scurt popas.",
-                "en": "A quiet, dry place for a short rest."
+                "en": "A quiet, dry place for a short rest.",
+                "es": "Un lugar tranquilo y seco para un breve descanso."
               }
             },
             {
@@ -568,7 +616,8 @@
                 "de": "Die kleine Kapelle bietet Schutz für einige Minuten.",
                 "hu": "A kis kápolna védelmet nyújt néhány percre.",
                 "ro": "Mica capelă oferă adăpost pentru câteva minute.",
-                "en": "The small chapel provides shelter for a few minutes."
+                "en": "The small chapel provides shelter for a few minutes.",
+                "es": "La pequeña capilla ofrece refugio unos minutos."
               }
             },
             {
@@ -577,7 +626,8 @@
                 "de": "Vorsicht, die Steine können bei Nässe rutschig sein.",
                 "hu": "Vigyázat, a kövek nedvesen csúszósak lehetnek.",
                 "ro": "Atenție, pietrele pot fi alunecoase când sunt ude.",
-                "en": "Caution, the stones can be slippery when wet."
+                "en": "Caution, the stones can be slippery when wet.",
+                "es": "Precaución: las piedras pueden estar resbaladizas cuando están mojadas."
               }
             }
           ],
@@ -605,6 +655,12 @@
               "The Charterhouse is the best place to wait out a heavy downpour.",
               "Many cafes on Carrer de la Rectoria offer covered seating.",
               "A sturdy umbrella is better than a compact one due to occasional wind."
+            ],
+            "es": [
+              "Use calzado impermeable, los empedrados forman charcos.",
+              "La Cartuja es el mejor lugar para esperar un fuerte aguacero.",
+              "Muchos cafés en la Carrer de la Rectoria ofrecen asientos cubiertos.",
+              "Un paraguas resistente es mejor que uno compacto por posibles rachas de viento."
             ]
           }
         },
@@ -613,7 +669,8 @@
             "de": "Genießen Sie die klare Winterluft bei der morgendlichen Besichtigung der Kartause. Mittags wärmen Sie sich in Chopins Cell auf, während die Sonne tief über den Tramuntana-Bergen steht. Nachmittags leuchten die Gärten in winterlicher Stille. Da es früh dunkel wird, nutzen Sie das goldene Licht am Mirador gegen 16:30 Uhr, bevor Sie ein warmes Abendessen suchen.",
             "hu": "Élvezze a tiszta téli levegőt a kolostor reggeli megtekintésekor. Délben melegedjen fel Chopin cellájában, miközben a nap alacsonyan jár a Tramuntana-hegyek felett. Délután a kertek téli csendben tündökölnek. Mivel korán sötétedik, használja ki az aranyló fényeket a kilátónál 16:30 körül, mielőtt meleg vacsorát keresne.",
             "ro": "Bucurați-vă de aerul curat de iarnă în timpul vizitei de dimineață la mănăstire. La prânz, încălziți-vă în celula lui Chopin, în timp ce soarele stă jos peste munții Tramuntana. După-amiaza, grădinile strălucesc într-o liniște hibernală. Deoarece se întunecă devreme, profitați de lumina aurie la Mirador în jurul orei 16:30 înainte de cină.",
-            "en": "Enjoy the crisp winter air during the morning visit to the Charterhouse. At noon, warm up in Chopin's Cell while the sun stays low over the Tramuntana mountains. In the afternoon, the gardens shine in winter silence. Since it gets dark early, catch the golden light at the Mirador around 4:30 PM before seeking a warm dinner."
+            "en": "Enjoy the crisp winter air during the morning visit to the Charterhouse. At noon, warm up in Chopin's Cell while the sun stays low over the Tramuntana mountains. In the afternoon, the gardens shine in winter silence. Since it gets dark early, catch the golden light at the Mirador around 4:30 PM before seeking a warm dinner.",
+            "es": "Disfrute del aire frío de invierno durante la visita matinal a la Cartuja. Al mediodía, caliente en la Celda de Chopin mientras el sol queda bajo sobre la Tramuntana. Por la tarde, los jardines brillan en el silencio invernal. Como oscurece pronto, capture la luz dorada en el Mirador sobre las 16:30 antes de buscar una cena caliente."
           },
           "stops": [
             {
@@ -622,7 +679,8 @@
                 "de": "Wenig Andrang, genießen Sie die winterliche Stille.",
                 "hu": "Kevés látogató, élvezze a téli nyugalmat.",
                 "ro": "Puțini turiști, bucurați-vă de liniștea iernii.",
-                "en": "Fewer crowds, enjoy the winter tranquility."
+                "en": "Fewer crowds, enjoy the winter tranquility.",
+                "es": "Menos gente; disfrute de la tranquilidad invernal."
               }
             },
             {
@@ -631,7 +689,8 @@
                 "de": "Im Winter kann es in den Steinhallen kühl sein.",
                 "hu": "Télen a kőtermek hűvösek lehetnek, öltözzön rétegesen.",
                 "ro": "Sălile de piatră pot fi răcoroase iarna.",
-                "en": "The stone halls can be chilly in winter."
+                "en": "The stone halls can be chilly in winter.",
+                "es": "Los salones de piedra pueden ser fríos en invierno."
               }
             },
             {
@@ -640,7 +699,8 @@
                 "de": "Besuchen Sie diesen Ort zur Mittagszeit für maximales Licht.",
                 "hu": "Délidőben látogassa, ekkor süt be legjobban a nap.",
                 "ro": "Vizitați la prânz pentru lumină maximă.",
-                "en": "Visit at midday for maximum natural light."
+                "en": "Visit at midday for maximum natural light.",
+                "es": "Visite al mediodía para la máxima luz natural."
               }
             },
             {
@@ -649,7 +709,8 @@
                 "de": "Die Zypressen sind auch im Winter tiefgrün.",
                 "hu": "A ciprusok télen is mélyzöldek maradnak.",
                 "ro": "Chiparoșii rămân verzi închis și iarna.",
-                "en": "The cypresses remain deep green even in winter."
+                "en": "The cypresses remain deep green even in winter.",
+                "es": "Los cipreses permanecen de un verde intenso incluso en invierno."
               }
             },
             {
@@ -658,7 +719,8 @@
                 "de": "Ein geschützter Ort vor dem kalten Tramuntana-Wind.",
                 "hu": "Szélvédett hely a hideg Tramuntana-szél elől.",
                 "ro": "Un loc ferit de vântul rece de Tramuntana.",
-                "en": "A sheltered spot from the cold Tramuntana wind."
+                "en": "A sheltered spot from the cold Tramuntana wind.",
+                "es": "Un lugar resguardado del frío viento de la Tramuntana."
               }
             },
             {
@@ -667,7 +729,8 @@
                 "de": "Die Kerzen im Inneren spenden eine warme Atmosphäre.",
                 "hu": "A benti gyertyák meleg hangulatot árasztanak.",
                 "ro": "Lumânările din interior oferă o atmosferă caldă.",
-                "en": "The candles inside provide a warm atmosphere."
+                "en": "The candles inside provide a warm atmosphere.",
+                "es": "Las velas del interior aportan una atmósfera cálida."
               }
             },
             {
@@ -676,7 +739,8 @@
                 "de": "Perfekter Ort für den frühen Sonnenuntergang (ca. 17:30).",
                 "hu": "Tökéletes hely a korai naplementéhez (kb. 17:30).",
                 "ro": "Loc perfect pentru apusul timpuriu (aprox. 17:30).",
-                "en": "Perfect spot for the early sunset (approx. 5:30 PM)."
+                "en": "Perfect spot for the early sunset (approx. 5:30 PM).",
+                "es": "Lugar perfecto para el atardecer temprano (aprox. 17:30)."
               }
             }
           ],
@@ -704,6 +768,12 @@
               "Dress in layers: it's warm in the sun but chilly in the shade.",
               "Try thick hot chocolate with churros to warm up.",
               "Some small shops may have shorter hours during the off-season."
+            ],
+            "es": [
+              "El sol se pone detrás de las montañas alrededor de las 17:30 en invierno.",
+              "Vístase por capas: hace calor al sol pero fresco a la sombra.",
+              "Pruebe un espeso chocolate caliente con churros para entrar en calor.",
+              "Algunas tiendas pequeñas pueden tener horarios reducidos en temporada baja."
             ]
           }
         }
@@ -722,7 +792,8 @@
             "de": "Real Cartuja de Valldemossa",
             "hu": "Valldemossai karthauzi kolostor",
             "ro": "Real Cartuja de Valldemossa",
-            "en": "Real Cartuja de Valldemossa"
+            "en": "Real Cartuja de Valldemossa",
+            "es": "Real Cartuja de Valldemossa"
           },
           "coords": [
             2.6225,
@@ -737,7 +808,8 @@
             "de": "Fahrräder müssen draußen geschoben werden.",
             "hu": "A kerékpárokat kívül kell hagyni.",
             "ro": "Bicicletele trebuie lăsate afară.",
-            "en": "Bicycles must be left outside."
+            "en": "Bicycles must be left outside.",
+            "es": "Las bicicletas deben dejarse fuera."
           }
         },
         {
@@ -745,7 +817,8 @@
             "de": "Centro Cultural Costa Nord",
             "hu": "Costa Nord Kulturális Központ",
             "ro": "Centrul Cultural Costa Nord",
-            "en": "Costa Nord Cultural Centre"
+            "en": "Costa Nord Cultural Centre",
+            "es": "Centro Cultural Costa Nord"
           },
           "coords": [
             2.621,
@@ -760,7 +833,8 @@
             "de": "Gegründet von Michael Douglas.",
             "hu": "Michael Douglas alapította.",
             "ro": "Fondat de Michael Douglas.",
-            "en": "Founded by Michael Douglas."
+            "en": "Founded by Michael Douglas.",
+            "es": "Fundado por Michael Douglas."
           }
         },
         {
@@ -768,7 +842,8 @@
             "de": "Iglesia de San Bartolomé",
             "hu": "Szent Bertalan templom",
             "ro": "Biserica San Bartolomé",
-            "en": "Church of San Bartolomé"
+            "en": "Church of San Bartolomé",
+            "es": "Iglesia de San Bartolomé"
           },
           "coords": [
             2.622,
@@ -783,7 +858,8 @@
             "de": "Ruhiger Platz vor der Kirche.",
             "hu": "Csendes tér a templom előtt.",
             "ro": "Piață liniștită în fața bisericii.",
-            "en": "Quiet square in front of the church."
+            "en": "Quiet square in front of the church.",
+            "es": "Plaza tranquila frente a la iglesia."
           }
         },
         {
@@ -791,7 +867,8 @@
             "de": "Mirador des Lledoner",
             "hu": "Lledoner kilátó",
             "ro": "Mirador des Lledoner",
-            "en": "Mirador des Lledoner"
+            "en": "Mirador des Lledoner",
+            "es": "Mirador des Lledoner"
           },
           "coords": [
             2.6245,
@@ -806,7 +883,8 @@
             "de": "Kurzer Stopp für das perfekte Panorama.",
             "hu": "Rövid megálló a tökéletes panorámáért.",
             "ro": "Scurt popas pentru panorama perfectă.",
-            "en": "Short stop for the perfect panorama."
+            "en": "Short stop for the perfect panorama.",
+            "es": "Parada corta para el panorama perfecto."
           }
         },
         {
@@ -814,7 +892,8 @@
             "de": "Port de Valldemossa",
             "hu": "Valldemossa kikötője",
             "ro": "Portul Valldemossa",
-            "en": "Port of Valldemossa"
+            "en": "Port of Valldemossa",
+            "es": "Puerto de Valldemossa"
           },
           "coords": [
             2.5975,
@@ -829,7 +908,8 @@
             "de": "Achtung: Sehr steile Abfahrt zum Meer!",
             "hu": "Figyelem: Nagyon meredek lejtő a tengerhez!",
             "ro": "Atenție: Coborâre foarte abruptă spre mare!",
-            "en": "Warning: Very steep descent to the sea!"
+            "en": "Warning: Very steep descent to the sea!",
+            "es": "Aviso: ¡Descenso muy empinado hacia el mar!"
           }
         }
       ],
@@ -837,7 +917,8 @@
         "de": "Erkunden Sie das Dorfzentrum am Morgen und machen Sie sich dann bereit für eine sportliche Herausforderung. Die Abfahrt zum Port de Valldemossa bietet spektakuläre Kurven und eine erfrischende Meeresbrise, aber der Rückweg erfordert gute Kondition.",
         "hu": "Fedezze fel a falu központját reggel, majd készüljön fel egy sportos kihívásra. A Valldemossa kikötőjébe vezető lejtő látványos kanyarokat és friss tengeri szellőt kínál, de a visszaút komoly állóképességet igényel.",
         "ro": "Explorați centrul satului dimineața, apoi pregătiți-vă pentru o provocare sportivă. Coborârea spre Port de Valldemossa oferă curbe spectaculoase și o briză marină revigorantă, dar drumul de întoarcere necesită o condiție fizică bună.",
-        "en": "Explore the village center in the morning, then get ready for a sporting challenge. The descent to Port de Valldemossa offers spectacular curves and a refreshing sea breeze, but the climb back requires good fitness."
+        "en": "Explore the village center in the morning, then get ready for a sporting challenge. The descent to Port de Valldemossa offers spectacular curves and a refreshing sea breeze, but the climb back requires good fitness.",
+        "es": "Explore el centro del pueblo por la mañana y prepárese para un reto deportivo. El descenso al Port de Valldemossa ofrece curvas espectaculares y una brisa marina refrescante, pero la subida de regreso requiere buena forma física."
       },
       "gastro_picks": {
         "de": [
@@ -945,6 +1026,12 @@
           "Take enough water.",
           "The Ma-10 main road can be busy.",
           "Bike rentals are available in the village."
+        ],
+        "es": [
+          "Compruebe los frenos antes del descenso al puerto.",
+          "Lleve suficiente agua.",
+          "La carretera Ma-10 puede estar concurrida.",
+          "Hay alquiler de bicicletas en el pueblo."
         ]
       },
       "variants": {
@@ -953,7 +1040,8 @@
             "de": "Erkunden Sie das Dorfzentrum am Morgen und machen Sie sich dann bereit für eine sportliche Herausforderung. Die Abfahrt zum Port de Valldemossa bietet spektakuläre Kurven und eine erfrischende Meeresbrise, aber der Rückweg erfordert gute Kondition.",
             "hu": "Fedezze fel a falu központját reggel, majd készüljön fel egy sportos kihívásra. A Valldemossa kikötőjébe vezető lejtő látványos kanyarokat és friss tengeri szellőt kínál, de a visszaút komoly állóképességet igényel.",
             "ro": "Explorați centrul satului dimineața, apoi pregătiți-vă pentru o provocare sportivă. Coborârea spre Port de Valldemossa oferă curbe spectaculoase și o briză marină revigorantă, dar drumul de întoarcere necesită o condiție fizică bună.",
-            "en": "Explore the village center in the morning, then get ready for a sporting challenge. The descent to Port de Valldemossa offers spectacular curves and a refreshing sea breeze, but the climb back requires good fitness."
+            "en": "Explore the village center in the morning, then get ready for a sporting challenge. The descent to Port de Valldemossa offers spectacular curves and a refreshing sea breeze, but the climb back requires good fitness.",
+            "es": "Explore el centro del pueblo por la mañana y prepárese para un reto deportivo. El descenso al Port de Valldemossa ofrece curvas espectaculares y una brisa marina refrescante, pero la subida de regreso requiere buena forma física."
           },
           "stops": [
             {
@@ -961,13 +1049,15 @@
                 "de": "Real Cartuja de Valldemossa",
                 "hu": "Valldemossai karthauzi kolostor",
                 "ro": "Real Cartuja de Valldemossa",
-                "en": "Real Cartuja de Valldemossa"
+                "en": "Real Cartuja de Valldemossa",
+                "es": "Real Cartuja de Valldemossa"
               },
               "tip_5lang": {
                 "de": "Fahrräder müssen draußen geschoben werden.",
                 "hu": "A kerékpárokat kívül kell hagyni.",
                 "ro": "Bicicletele trebuie lăsate afară.",
-                "en": "Bicycles must be left outside."
+                "en": "Bicycles must be left outside.",
+                "es": "Las bicicletas deben dejarse fuera."
               }
             },
             {
@@ -975,13 +1065,15 @@
                 "de": "Centro Cultural Costa Nord",
                 "hu": "Costa Nord Kulturális Központ",
                 "ro": "Centrul Cultural Costa Nord",
-                "en": "Costa Nord Cultural Centre"
+                "en": "Costa Nord Cultural Centre",
+                "es": "Centro Cultural Costa Nord"
               },
               "tip_5lang": {
                 "de": "Gegründet von Michael Douglas.",
                 "hu": "Michael Douglas alapította.",
                 "ro": "Fondat de Michael Douglas.",
-                "en": "Founded by Michael Douglas."
+                "en": "Founded by Michael Douglas.",
+                "es": "Fundado por Michael Douglas."
               }
             },
             {
@@ -989,13 +1081,15 @@
                 "de": "Iglesia de San Bartolomé",
                 "hu": "Szent Bertalan templom",
                 "ro": "Biserica San Bartolomé",
-                "en": "Church of San Bartolomé"
+                "en": "Church of San Bartolomé",
+                "es": "Iglesia de San Bartolomé"
               },
               "tip_5lang": {
                 "de": "Ruhiger Platz vor der Kirche.",
                 "hu": "Csendes tér a templom előtt.",
                 "ro": "Piață liniștită în fața bisericii.",
-                "en": "Quiet square in front of the church."
+                "en": "Quiet square in front of the church.",
+                "es": "Plaza tranquila frente a la iglesia."
               }
             },
             {
@@ -1003,13 +1097,15 @@
                 "de": "Mirador des Lledoner",
                 "hu": "Lledoner kilátó",
                 "ro": "Mirador des Lledoner",
-                "en": "Mirador des Lledoner"
+                "en": "Mirador des Lledoner",
+                "es": "Mirador des Lledoner"
               },
               "tip_5lang": {
                 "de": "Kurzer Stopp für das perfekte Panorama.",
                 "hu": "Rövid megálló a tökéletes panorámáért.",
                 "ro": "Scurt popas pentru panorama perfectă.",
-                "en": "Short stop for the perfect panorama."
+                "en": "Short stop for the perfect panorama.",
+                "es": "Parada corta para el panorama perfecto."
               }
             },
             {
@@ -1017,13 +1113,15 @@
                 "de": "Port de Valldemossa",
                 "hu": "Valldemossa kikötője",
                 "ro": "Portul Valldemossa",
-                "en": "Port of Valldemossa"
+                "en": "Port of Valldemossa",
+                "es": "Puerto de Valldemossa"
               },
               "tip_5lang": {
                 "de": "Achtung: Sehr steile Abfahrt zum Meer!",
                 "hu": "Figyelem: Nagyon meredek lejtő a tengerhez!",
                 "ro": "Atenție: Coborâre foarte abruptă spre mare!",
-                "en": "Warning: Very steep descent to the sea!"
+                "en": "Warning: Very steep descent to the sea!",
+                "es": "Aviso: ¡Descenso muy empinado hacia el mar!"
               }
             }
           ],
@@ -1133,6 +1231,12 @@
               "Take enough water.",
               "The Ma-10 main road can be busy.",
               "Bike rentals are available in the village."
+            ],
+            "es": [
+              "Compruebe los frenos antes del descenso al puerto.",
+              "Lleve suficiente agua.",
+              "La carretera Ma-10 puede estar concurrida.",
+              "Hay alquiler de bicicletas en el pueblo."
             ]
           }
         },
@@ -1141,7 +1245,8 @@
             "de": "Eine erfrischende Tour trotz Regen. Morgens besichtigen Sie die Kartause, während die Räder sicher stehen. Mittags geht es zum Costa Nord Zentrum für eine trockene Pause. Die Fahrt zum Hafen erfordert Vorsicht auf den nassen Serpentinen. Belohnt werden Sie mit einer dramatischen Aussicht auf das stürmische Meer im Hafen von Valldemossa.",
             "hu": "Frissítő túra az eső ellenére is. Reggel látogassa meg a kolostort, miközben a bringák biztonságban pihennek. Délben a Costa Nord központban tarthat száraz szünetet. A kikötőbe vezető út óvatosságot igényel a vizes szerpentineken. A jutalom a viharos tenger drámai látványa lesz Valldemossa kikötőjében.",
             "ro": "O tură revigorantă în ciuda ploii. Dimineața vizitați mănăstirea, în timp ce bicicletele stau la adăpost. La prânz, opriți-vă la centrul Costa Nord pentru o pauză uscată. Coborârea spre port necesită prudență pe serpentinele ude. Veți fi răsplătiți cu o vedere dramatică a mării agitate în Port de Valldemossa.",
-            "en": "A refreshing ride despite the rain. In the morning, visit the Charterhouse while the bikes stay parked. At noon, head to the Costa Nord center for a dry break. The ride down to the port requires caution on the wet serpentines. You'll be rewarded with a dramatic view of the stormy sea at the Port of Valldemossa."
+            "en": "A refreshing ride despite the rain. In the morning, visit the Charterhouse while the bikes stay parked. At noon, head to the Costa Nord center for a dry break. The ride down to the port requires caution on the wet serpentines. You'll be rewarded with a dramatic view of the stormy sea at the Port of Valldemossa.",
+            "es": "Un paseo refrescante pese a la lluvia. Por la mañana visite la Cartuja mientras las bicicletas quedan aparcadas. Al mediodía, diríjase al centro Costa Nord para una pausa seca. El descenso al puerto exige precaución en las serpentinas mojadas. Será recompensado con una vista dramática del mar tormentoso en el Port de Valldemossa."
           },
           "stops": [
             {
@@ -1150,7 +1255,8 @@
                 "de": "Überdachte Fahrradständer in der Nähe des Eingangs suchen.",
                 "hu": "Keressen fedett biciklitárolót a bejárat közelében.",
                 "ro": "Căutați suporturi de biciclete acoperite lângă intrare.",
-                "en": "Look for covered bike racks near the entrance."
+                "en": "Look for covered bike racks near the entrance.",
+                "es": "Busque aparcabicicletas cubiertos cerca de la entrada."
               }
             },
             {
@@ -1159,7 +1265,8 @@
                 "de": "Perfekter Ort, um die Regenbekleidung kurz zu lüften.",
                 "hu": "Tökéletes hely az esőruházat rövid szellőztetésére.",
                 "ro": "Loc perfect pentru a vă aerisi puțin echipamentul de ploaie.",
-                "en": "Perfect place to air out your rain gear briefly."
+                "en": "Perfect place to air out your rain gear briefly.",
+                "es": "Lugar perfecto para ventilar brevemente la ropa de lluvia."
               }
             },
             {
@@ -1168,7 +1275,8 @@
                 "de": "Kurzer Stopp, um die Bremsen zu checken.",
                 "hu": "Rövid megálló a fékek ellenőrzésére.",
                 "ro": "Scurtă oprire pentru a verifica frânele.",
-                "en": "Short stop to check your brakes."
+                "en": "Short stop to check your brakes.",
+                "es": "Parada corta para revisar los frenos."
               }
             },
             {
@@ -1177,7 +1285,8 @@
                 "de": "Vorsicht beim Absteigen, rutschiger Untergrund.",
                 "hu": "Vigyázat a leszálláskor, csúszós talaj.",
                 "ro": "Atenție la coborâre, suprafață alunecoasă.",
-                "en": "Caution when dismounting, slippery ground."
+                "en": "Caution when dismounting, slippery ground.",
+                "es": "Precaución al desmontar: suelo resbaladizo."
               }
             },
             {
@@ -1186,7 +1295,8 @@
                 "de": "Starker Wind am Hafen möglich, Rad sicher anlehnen.",
                 "hu": "Erős szél lehet a kikötőben, támassza le stabilan a gépet.",
                 "ro": "Vânt puternic în port, sprijiniți bicicleta stabil.",
-                "en": "Strong winds possible at the port, park bike securely."
+                "en": "Strong winds possible at the port, park bike securely.",
+                "es": "Vientos fuertes posibles en el puerto; asegure bien la bici."
               }
             }
           ],
@@ -1214,6 +1324,12 @@
               "Avoid riding on white road markings, they are extremely slippery.",
               "A waterproof bag for valuables is mandatory on this route.",
               "The descent to the port has tight curves, ride slowly."
+            ],
+            "es": [
+              "Use frenos de disco si es posible, las llantas pierden eficacia con el agua.",
+              "Evite rodar sobre las marcas blancas de la carretera; son extremadamente resbaladizas.",
+              "Una bolsa impermeable para objetos de valor es obligatoria en esta ruta.",
+              "El descenso al puerto tiene curvas cerradas; circule despacio."
             ]
           }
         },
@@ -1222,7 +1338,8 @@
             "de": "Kühle Brisen und leere Straßen prägen die Wintertour. Morgens besuchen Sie die Kartause ohne Touristenmassen. Mittags wärmt die Sonne auf der Fahrt zum Costa Nord Zentrum. Die Abfahrt zum Hafen bietet glasklare Sicht auf das Meer, aber der Fahrtwind ist kalt. Beenden Sie die Tour früh, bevor die Temperaturen nach 17:00 Uhr stark sinken.",
             "hu": "Hűvös szellő és üres utak jellemzik a téli túrát. Reggel látogassa meg a kolostort a turistahadak nélkül. Délben a nap melengeti az utat a Costa Nord központ felé. A kikötőbe menet kristálytiszta kilátás nyílik a tengerre, de a menetszél hideg. Fejezze be korán a túrát, mert 17:00 után hirtelen lehűl a levegő.",
             "ro": "Brize răcoroase și drumuri libere definesc tura de iarnă. Dimineața vizitați mănăstirea fără mulțimile de turiști. La prânz, soarele vă încălzește drumul spre Costa Nord. Coborârea spre port oferă o vedere clară asupra mării, dar vântul este rece. Încheiați tura devreme, înainte ca temperaturile să scadă după ora 17:00.",
-            "en": "Cool breezes and empty roads define the winter tour. In the morning, visit the Charterhouse without the tourist crowds. At noon, the sun warms you on the way to the Costa Nord center. The ride down to the port offers crystal-clear views of the sea, but the wind chill is high. Finish your tour early before temperatures drop after 5:00 PM."
+            "en": "Cool breezes and empty roads define the winter tour. In the morning, visit the Charterhouse without the tourist crowds. At noon, the sun warms you on the way to the Costa Nord center. The ride down to the port offers crystal-clear views of the sea, but the wind chill is high. Finish your tour early before temperatures drop after 5:00 PM.",
+            "es": "Brisas frescas y carreteras vacías definen la ruta invernal. Por la mañana visite la Cartuja sin las multitudes. Al mediodía, el sol le calienta camino del centro Costa Nord. El descenso al puerto ofrece vistas cristalinas del mar, pero la sensación térmica por el viento es alta. Termine su recorrido temprano antes de que las temperaturas bajen tras las 17:00."
           },
           "stops": [
             {
@@ -1231,7 +1348,8 @@
                 "de": "Lassen Sie die Handschuhe beim Sightseeing an.",
                 "hu": "Hagyja magán a kesztyűt a nézelődés közben is.",
                 "ro": "Păstrați-vă mănușile chiar și în timpul vizitei.",
-                "en": "Keep your gloves on even during sightseeing."
+                "en": "Keep your gloves on even during sightseeing.",
+                "es": "Mantenga los guantes puestos incluso durante las visitas."
               }
             },
             {
@@ -1240,7 +1358,8 @@
                 "de": "Guter Ort für einen heißen Tee zwischendurch.",
                 "hu": "Jó hely egy forró teára két megálló között.",
                 "ro": "Loc bun pentru un ceai fierbinte între opriri.",
-                "en": "Good spot for a hot tea between stops."
+                "en": "Good spot for a hot tea between stops.",
+                "es": "Buen lugar para un té caliente entre paradas."
               }
             },
             {
@@ -1249,7 +1368,8 @@
                 "de": "Die Sonne steht hier mittags perfekt zum Fotografieren.",
                 "hu": "A nap délben itt tökéletes a fotózáshoz.",
                 "ro": "Soarele este perfect aici la prânz pentru fotografii.",
-                "en": "The sun is perfectly positioned for photos here at noon."
+                "en": "The sun is perfectly positioned for photos here at noon.",
+                "es": "El sol está perfectamente situado para fotos aquí al mediodía."
               }
             },
             {
@@ -1258,7 +1378,8 @@
                 "de": "Warme Jacke für den Aufenthalt am zugigen Aussichtspunkt.",
                 "hu": "Meleg kabát kell a huzatos kilátóponton.",
                 "ro": "Aveți nevoie de o jachetă groasă la punctul de belvedere.",
-                "en": "A warm jacket is needed at the breezy lookout point."
+                "en": "A warm jacket is needed at the breezy lookout point.",
+                "es": "Se necesita una chaqueta caliente en el mirador ventoso."
               }
             },
             {
@@ -1267,7 +1388,8 @@
                 "de": "Tiefstehende Sonne blendet bei der Rückfahrt, Brille mitnehmen.",
                 "hu": "Az alacsony nap vakíthat visszafelé, vigyen napszemüveget.",
                 "ro": "Soarele jos poate fi orbitor la întoarcere, luați ochelari.",
-                "en": "Low sun can be blinding on the way back, bring sunglasses."
+                "en": "Low sun can be blinding on the way back, bring sunglasses.",
+                "es": "El sol bajo puede deslumbrar de regreso; lleve gafas de sol."
               }
             }
           ],
@@ -1295,6 +1417,12 @@
               "Avoid shaded mountain sections, as the air remains freezing there.",
               "Winter light conditions are the best for photography.",
               "Plan to be back before sunset (5:30 PM)."
+            ],
+            "es": [
+              "Use una capa cortavientos para los descensos.",
+              "Evite tramos montañosos a la sombra, el aire allí se mantiene helado.",
+              "Las condiciones de luz invernales son ideales para la fotografía.",
+              "Planee volver antes del atardecer (17:30)."
             ]
           }
         }
@@ -1313,7 +1441,8 @@
             "de": "Real Cartuja de Valldemossa",
             "hu": "Valldemossai karthauzi kolostor",
             "ro": "Real Cartuja de Valldemossa",
-            "en": "Real Cartuja de Valldemossa"
+            "en": "Real Cartuja de Valldemossa",
+            "es": "Real Cartuja de Valldemossa"
           },
           "coords": [
             2.6225,
@@ -1328,7 +1457,8 @@
             "de": "Parken Sie auf dem Parkplatz 'Na Carbonera'.",
             "hu": "Parkoljon a 'Na Carbonera' parkolóban.",
             "ro": "Parcați în parcarea 'Na Carbonera'.",
-            "en": "Park in the 'Na Carbonera' parking lot."
+            "en": "Park in the 'Na Carbonera' parking lot.",
+            "es": "Estacione en el aparcamiento 'Na Carbonera'."
           }
         },
         {
@@ -1336,7 +1466,8 @@
             "de": "Port de Valldemossa",
             "hu": "Valldemossa kikötője",
             "ro": "Portul Valldemossa",
-            "en": "Port of Valldemossa"
+            "en": "Port of Valldemossa",
+            "es": "Puerto de Valldemossa"
           },
           "coords": [
             2.5975,
@@ -1351,7 +1482,8 @@
             "de": "Die Straße hat sehr enge Haarnadelkurven.",
             "hu": "Az útnak nagyon szűk hajtűkanyarjai vannak.",
             "ro": "Drumul are curbe în ac de păr foarte strânse.",
-            "en": "The road has very narrow hairpin bends."
+            "en": "The road has very narrow hairpin bends.",
+            "es": "La carretera tiene curvas de horquilla muy estrechas."
           }
         },
         {
@@ -1359,7 +1491,8 @@
             "de": "Monestir de Miramar",
             "hu": "Miramar monostor",
             "ro": "Mănăstirea Miramar",
-            "en": "Miramar Monastery"
+            "en": "Miramar Monastery",
+            "es": "Monasterio de Miramar"
           },
           "coords": [
             2.6235,
@@ -1374,7 +1507,8 @@
             "de": "Wunderschöne Gärten über dem Meer.",
             "hu": "Gyönyörű kertek a tenger felett.",
             "ro": "Grădini superbe deasupra mării.",
-            "en": "Beautiful gardens above the sea."
+            "en": "Beautiful gardens above the sea.",
+            "es": "Bellos jardines sobre el mar."
           }
         },
         {
@@ -1382,7 +1516,8 @@
             "de": "Sa Foradada",
             "hu": "Sa Foradada szikla",
             "ro": "Sa Foradada",
-            "en": "Sa Foradada"
+            "en": "Sa Foradada",
+            "es": "Sa Foradada"
           },
           "coords": [
             2.6295,
@@ -1397,7 +1532,8 @@
             "de": "Bester Fotopunkt für den berühmten Lochfelsen.",
             "hu": "A legjobb fotópont a híres lyukas sziklához.",
             "ro": "Cel mai bun punct foto pentru stânca perforată.",
-            "en": "Best photo spot for the famous holed rock."
+            "en": "Best photo spot for the famous holed rock.",
+            "es": "Mejor sitio para fotografiar la famosa roca agujereada."
           }
         }
       ],
@@ -1405,7 +1541,8 @@
         "de": "Diese Autotour verbindet die Geschichte des Bergdorfes mit der wilden Küste. Nach dem Besuch der Kartause fahren Sie hinunter zum abgeschiedenen Hafen. Am Nachmittag erkunden Sie Miramar und beenden den Tag mit dem Blick auf die ikonische Sa Foradada-Halbinsel.",
         "hu": "Ez az autós túra összeköti a hegyi falu történelmét a vad tengerparttal. A kolostor látogatása után ereszkedjen le az elszigetelt kikötőbe. Délután fedezze fel Miramart, és zárja a napot az ikonikus Sa Foradada-félszigetre nyíló kilátással.",
         "ro": "Acest tur auto combină istoria satului de munte cu coasta sălbatică. După vizitarea mănăstirii, coborâți la portul izolat. După-amiaza, explorați Miramar și încheiați ziua cu vederea spre emblematica peninsulă Sa Foradada.",
-        "en": "This car tour combines the history of the mountain village with the wild coast. After visiting the Charterhouse, drive down to the secluded port. In the afternoon, explore Miramar and end the day with a view of the iconic Sa Foradada peninsula."
+        "en": "This car tour combines the history of the mountain village with the wild coast. After visiting the Charterhouse, drive down to the secluded port. In the afternoon, explore Miramar and end the day with a view of the iconic Sa Foradada peninsula.",
+        "es": "Este recorrido en coche combina la historia del pueblo de montaña con la costa salvaje. Tras visitar la Cartuja, conduzca hasta el puerto aislado. Por la tarde, explore Miramar y termine el día con la vista de la icónica península de Sa Foradada."
       },
       "gastro_picks": {
         "de": [
@@ -1513,6 +1650,12 @@
           "In summer, parking lots fill up early.",
           "The Ma-10 is one of the most beautiful scenic roads in Europe.",
           "Watch out for goats on the roadside."
+        ],
+        "es": [
+          "La carretera hacia el puerto no es apta para cardíacos.",
+          "En verano, los aparcamientos se llenan pronto.",
+          "La Ma-10 es una de las carreteras panorámicas más bonitas de Europa.",
+          "Cuidado con las cabras en la cuneta."
         ]
       },
       "variants": {
@@ -1521,7 +1664,8 @@
             "de": "Diese Autotour verbindet die Geschichte des Bergdorfes mit der wilden Küste. Nach dem Besuch der Kartause fahren Sie hinunter zum abgeschiedenen Hafen. Am Nachmittag erkunden Sie Miramar und beenden den Tag mit dem Blick auf die ikonische Sa Foradada-Halbinsel.",
             "hu": "Ez az autós túra összeköti a hegyi falu történelmét a vad tengerparttal. A kolostor látogatása után ereszkedjen le az elszigetelt kikötőbe. Délután fedezze fel Miramart, és zárja a napot az ikonikus Sa Foradada-félszigetre nyíló kilátással.",
             "ro": "Acest tur auto combină istoria satului de munte cu coasta sălbatică. După vizitarea mănăstirii, coborâți la portul izolat. După-amiaza, explorați Miramar și încheiați ziua cu vederea spre emblematica peninsulă Sa Foradada.",
-            "en": "This car tour combines the history of the mountain village with the wild coast. After visiting the Charterhouse, drive down to the secluded port. In the afternoon, explore Miramar and end the day with a view of the iconic Sa Foradada peninsula."
+            "en": "This car tour combines the history of the mountain village with the wild coast. After visiting the Charterhouse, drive down to the secluded port. In the afternoon, explore Miramar and end the day with a view of the iconic Sa Foradada peninsula.",
+            "es": "Esta ruta en coche combina la historia del pueblo de montaña con la costa salvaje. Tras visitar la Cartuja, baja hasta el puerto resguardado. Por la tarde, explora Miramar y termina el día con las vistas de la icónica península de Sa Foradada."
           },
           "stops": [
             {
@@ -1529,13 +1673,15 @@
                 "de": "Real Cartuja de Valldemossa",
                 "hu": "Valldemossai karthauzi kolostor",
                 "ro": "Real Cartuja de Valldemossa",
-                "en": "Real Cartuja de Valldemossa"
+                "en": "Real Cartuja de Valldemossa",
+                "es": "Real Cartuja de Valldemossa"
               },
               "tip_5lang": {
                 "de": "Parken Sie auf dem Parkplatz 'Na Carbonera'.",
                 "hu": "Parkoljon a 'Na Carbonera' parkolóban.",
                 "ro": "Parcați în parcarea 'Na Carbonera'.",
-                "en": "Park in the 'Na Carbonera' parking lot."
+                "en": "Park in the 'Na Carbonera' parking lot.",
+                "es": "Aparca en el estacionamiento 'Na Carbonera'."
               }
             },
             {
@@ -1543,13 +1689,15 @@
                 "de": "Port de Valldemossa",
                 "hu": "Valldemossa kikötője",
                 "ro": "Portul Valldemossa",
-                "en": "Port of Valldemossa"
+                "en": "Port of Valldemossa",
+                "es": "Puerto de Valldemossa"
               },
               "tip_5lang": {
                 "de": "Die Straße hat sehr enge Haarnadelkurven.",
                 "hu": "Az útnak nagyon szűk hajtűkanyarjai vannak.",
                 "ro": "Drumul are curbe în ac de păr foarte strânse.",
-                "en": "The road has very narrow hairpin bends."
+                "en": "The road has very narrow hairpin bends.",
+                "es": "La carretera tiene curvas de herradura muy estrechas."
               }
             },
             {
@@ -1557,13 +1705,15 @@
                 "de": "Monestir de Miramar",
                 "hu": "Miramar monostor",
                 "ro": "Mănăstirea Miramar",
-                "en": "Miramar Monastery"
+                "en": "Miramar Monastery",
+                "es": "Monasterio de Miramar"
               },
               "tip_5lang": {
                 "de": "Wunderschöne Gärten über dem Meer.",
                 "hu": "Gyönyörű kertek a tenger felett.",
                 "ro": "Grădini superbe deasupra mării.",
-                "en": "Beautiful gardens above the sea."
+                "en": "Beautiful gardens above the sea.",
+                "es": "Preciosos jardines sobre el mar."
               }
             },
             {
@@ -1571,13 +1721,15 @@
                 "de": "Sa Foradada",
                 "hu": "Sa Foradada szikla",
                 "ro": "Sa Foradada",
-                "en": "Sa Foradada"
+                "en": "Sa Foradada",
+                "es": "Sa Foradada"
               },
               "tip_5lang": {
                 "de": "Bester Fotopunkt für den berühmten Lochfelsen.",
                 "hu": "A legjobb fotópont a híres lyukas sziklához.",
                 "ro": "Cel mai bun punct foto pentru stânca perforată.",
-                "en": "Best photo spot for the famous holed rock."
+                "en": "Best photo spot for the famous holed rock.",
+                "es": "Mejor punto para fotografiar la famosa roca agujereada."
               }
             }
           ],
@@ -1687,6 +1839,12 @@
               "In summer, parking lots fill up early.",
               "The Ma-10 is one of the most beautiful scenic roads in Europe.",
               "Watch out for goats on the roadside."
+            ],
+            "es": [
+              "La carretera hacia el puerto no es apta para cardíacos.",
+              "En verano, los aparcamientos se llenan pronto.",
+              "La Ma-10 es una de las carreteras panorámicas más bonitas de Europa.",
+              "Cuidado con las cabras en la cuneta."
             ]
           }
         },
@@ -1695,7 +1853,8 @@
             "de": "Die perfekte Wahl für einen Regentag. Besuchen Sie morgens die Kartause und genießen Sie die Fahrt zum Hafen, während die Scheibenwischer den Takt vorgeben. Mittags bietet das Miramar Kloster Schutz und Geschichte. Den Nachmittag verbringen Sie bei Sa Foradada, wo Sie den Regen über dem Meer aus dem sicheren Auto oder dem nahen Restaurant beobachten können.",
             "hu": "A tökéletes választás egy esős napra. Reggel látogassa meg a kolostort, majd élvezze az utat a kikötőbe, miközben az ablaktörlők adják az ütemet. Délben a Miramar monostor nyújt védelmet és történelmi élményt. A délutánt Sa Foradadánál töltse, ahol az autóból vagy a közeli étteremből figyelheti a tenger feletti esőt.",
             "ro": "Alegerea perfectă pentru o zi ploioasă. Vizitați mănăstirea dimineața și bucurați-vă de drumul spre port în ritmul ștergătoarelor. La prânz, mănăstirea Miramar oferă adăpost și istorie. Petreceți după-amiaza la Sa Foradada, urmărind ploaia peste mare din siguranța mașinii sau de la restaurant.",
-            "en": "The perfect choice for a rainy day. Visit the Charterhouse in the morning and enjoy the drive to the port while the wipers set the pace. At noon, Miramar Monastery offers shelter and history. Spend the afternoon at Sa Foradada, watching the rain over the sea from the safety of your car or the nearby restaurant."
+            "en": "The perfect choice for a rainy day. Visit the Charterhouse in the morning and enjoy the drive to the port while the wipers set the pace. At noon, Miramar Monastery offers shelter and history. Spend the afternoon at Sa Foradada, watching the rain over the sea from the safety of your car or the nearby restaurant.",
+            "es": "La elección perfecta para un día de lluvia. Visita la Cartuja por la mañana y disfruta del trayecto al puerto mientras los limpiaparabrisas marcan el ritmo. Al mediodía, el Monasterio de Miramar ofrece refugio e historia. Pasa la tarde en Sa Foradada, observando la lluvia sobre el mar desde la seguridad de tu coche o del restaurante cercano."
           },
           "stops": [
             {
@@ -1704,7 +1863,8 @@
                 "de": "Parkplatz direkt am Ortseingang nutzen.",
                 "hu": "Használja a közvetlenül a falu szélén lévő parkolót.",
                 "ro": "Folosiți parcarea chiar de la intrarea în localitate.",
-                "en": "Use the parking lot right at the entrance of the village."
+                "en": "Use the parking lot right at the entrance of the village.",
+                "es": "Usa el aparcamiento justo a la entrada del pueblo."
               }
             },
             {
@@ -1713,7 +1873,8 @@
                 "de": "Enge, nasse Straße – fahren Sie im ersten Gang abwärts.",
                 "hu": "Szűk, vizes út – egyes fokozatban ereszkedjen le.",
                 "ro": "Drum îngust și ud – coborâți în treapta întâi.",
-                "en": "Narrow, wet road – descend in first gear."
+                "en": "Narrow, wet road – descend in first gear.",
+                "es": "Carretera estrecha y mojada: desciende en primera marcha."
               }
             },
             {
@@ -1722,7 +1883,8 @@
                 "de": "Innenmuseum ist ein guter Ort bei starken Schauern.",
                 "hu": "A belső múzeum jó hely erős zápor idején.",
                 "ro": "Muzeul interior este un loc bun în timpul averselor.",
-                "en": "The indoor museum is a good spot during heavy showers."
+                "en": "The indoor museum is a good spot during heavy showers.",
+                "es": "El museo interior es un buen refugio durante chaparrones intensos."
               }
             },
             {
@@ -1731,7 +1893,8 @@
                 "de": "Sicht kann bei starkem Regen eingeschränkt sein.",
                 "hu": "Erős esőben a kilátás korlátozott lehet.",
                 "ro": "Vizibilitatea poate fi limitată în caz de ploaie torențială.",
-                "en": "Visibility may be limited during heavy rain."
+                "en": "Visibility may be limited during heavy rain.",
+                "es": "La visibilidad puede verse limitada con lluvia fuerte."
               }
             }
           ],
@@ -1759,6 +1922,12 @@
               "Parking in Valldemossa is often easier in the rain due to fewer tourists.",
               "Use your AC to keep the windshield from fogging up.",
               "The serpentines to the port are particularly slippery when wet."
+            ],
+            "es": [
+              "Cuidado con los desprendimientos en la Ma-10 durante la lluvia intensa.",
+              "Aparcar en Valldemossa suele ser más fácil cuando llueve por la menor afluencia de turistas.",
+              "Usa el aire acondicionado para evitar que el parabrisas se empañe.",
+              "Las serpentinas hacia el puerto están especialmente resbaladizas cuando están mojadas."
             ]
           }
         },
@@ -1767,7 +1936,8 @@
             "de": "Erleben Sie das Tramuntana-Gebirge im Winterlicht. Morgens lockt die ruhige Kartause. Mittags führt die Fahrt zum einsamen Hafen von Valldemossa. Im Miramar Kloster genießen Sie die tiefstehende Wintersonne. Zum Abschluss bietet Sa Foradada den vielleicht schönsten Sonnenuntergang der Insel, bevor Sie die Heizung im Auto aufdrehen und zurückfahren.",
             "hu": "Ismerje meg a Tramuntana-hegységet téli fényekben. Reggel a csendes kolostor hívogat. Délben az út a kihalt Valldemossa-i kikötőbe vezet. A Miramar monostornál élvezheti az alacsonyan járó téli napot. Zárásként Sa Foradada kínálja a sziget talán legszebb naplementéjét, mielőtt feltekerné a fűtést és visszatérne.",
             "ro": "Experimentați munții Tramuntana în lumina iernii. Dimineața vă atrage mănăstirea liniștită. La prânz, drumul duce spre portul pustiu. La mănăstirea Miramar vă bucurați de soarele jos de iarnă. La final, Sa Foradada oferă poate cel mai frumos apus de pe insulă, înainte de a porni căldura în mașină.",
-            "en": "Experience the Tramuntana mountains in winter light. In the morning, the quiet Charterhouse beckons. At noon, the drive leads to the deserted port of Valldemossa. At Miramar Monastery, enjoy the low winter sun. To finish, Sa Foradada offers perhaps the most beautiful sunset on the island before you crank up the heater and head back."
+            "en": "Experience the Tramuntana mountains in winter light. In the morning, the quiet Charterhouse beckons. At noon, the drive leads to the deserted port of Valldemossa. At Miramar Monastery, enjoy the low winter sun. To finish, Sa Foradada offers perhaps the most beautiful sunset on the island before you crank up the heater and head back.",
+            "es": "Vive la Tramuntana con la luz invernal. Por la mañana, la tranquila Cartuja te invita. Al mediodía, conduce hasta el puerto desierto de Valldemossa. En el Monasterio de Miramar disfruta del bajo sol invernal. Para terminar, Sa Foradada ofrece quizá la puesta de sol más hermosa de la isla antes de encender la calefacción y volver."
           },
           "stops": [
             {
@@ -1776,7 +1946,8 @@
                 "de": "Im Winter gibt es reichlich freie Parkplätze.",
                 "hu": "Télen bőségesen akad szabad parkolóhely.",
                 "ro": "Iarna există locuri de parcare din abundență.",
-                "en": "There are plenty of available parking spaces in winter."
+                "en": "There are plenty of available parking spaces in winter.",
+                "es": "Hay muchos aparcamientos disponibles en invierno."
               }
             },
             {
@@ -1785,7 +1956,8 @@
                 "de": "Vorsicht vor Schatteneis in den engen Kurven am Morgen.",
                 "hu": "Vigyázzon a lefagyásokra az árnyékos kanyarokban reggel.",
                 "ro": "Atenție la porțiunile înghețate în curbele umbrite dimineața.",
-                "en": "Watch out for black ice in shaded curves during the morning."
+                "en": "Watch out for black ice in shaded curves during the morning.",
+                "es": "Cuidado con el hielo negro en curvas sombreadas por la mañana."
               }
             },
             {
@@ -1794,7 +1966,8 @@
                 "de": "Der Garten ist im Winter wunderbar ruhig.",
                 "hu": "A kert télen csodálatosan nyugodt.",
                 "ro": "Grădina este minunat de liniștită iarna.",
-                "en": "The garden is wonderfully quiet in winter."
+                "en": "The garden is wonderfully quiet in winter.",
+                "es": "El jardín es maravillosamente tranquilo en invierno."
               }
             },
             {
@@ -1803,7 +1976,8 @@
                 "de": "Bester Spot für Winter-Sonnenuntergänge.",
                 "hu": "A legjobb hely a téli naplementékhez.",
                 "ro": "Cel mai bun loc pentru apusurile de iarnă.",
-                "en": "Best spot for winter sunsets."
+                "en": "Best spot for winter sunsets.",
+                "es": "Mejor lugar para puestas de sol invernales."
               }
             }
           ],
@@ -1832,6 +2006,12 @@
               "Watch for goats on the roadside; they move lower in winter.",
               "The Ma-10 road offers spectacular, clear long-distance views in winter.",
               "Fill up your tank beforehand as gas stations are rare in this region."
+            ],
+            "es": [
+              "Las temperaturas en la sierra pueden bajar cerca del punto de congelación.",
+              "Atento a las cabras en la cuneta; bajan de altura en invierno.",
+              "La Ma-10 ofrece vistas espectaculares y nítidas de larga distancia en invierno.",
+              "Llena el depósito antes: las gasolineras son escasas en la zona."
             ]
           }
         }
@@ -1850,7 +2030,8 @@
             "de": "Busstation Valldemossa",
             "hu": "Valldemossa buszmegálló",
             "ro": "Stația de autobuz Valldemossa",
-            "en": "Valldemossa Bus Stop"
+            "en": "Valldemossa Bus Stop",
+            "es": "Parada de autobús Valldemossa"
           },
           "coords": [
             2.6222,
@@ -1865,7 +2046,8 @@
             "de": "Linie 203 verbindet Palma mit Valldemossa.",
             "hu": "A 203-as járat köti össze Palmát Valldemossával.",
             "ro": "Linia 203 leagă Palma de Valldemossa.",
-            "en": "Line 203 connects Palma to Valldemossa."
+            "en": "Line 203 connects Palma to Valldemossa.",
+            "es": "La línea 203 conecta Palma con Valldemossa."
           }
         },
         {
@@ -1873,7 +2055,8 @@
             "de": "Real Cartuja de Valldemossa",
             "hu": "Valldemossai karthauzi kolostor",
             "ro": "Real Cartuja de Valldemossa",
-            "en": "Real Cartuja de Valldemossa"
+            "en": "Real Cartuja de Valldemossa",
+            "es": "Real Cartuja de Valldemossa"
           },
           "coords": [
             2.6225,
@@ -1888,7 +2071,8 @@
             "de": "Direkt im Zentrum, leicht zu Fuß erreichbar.",
             "hu": "Közvetlenül a központban, gyalog könnyen elérhető.",
             "ro": "Chiar în centru, ușor accesibil pe jos.",
-            "en": "Right in the center, easily reachable on foot."
+            "en": "Right in the center, easily reachable on foot.",
+            "es": "Justo en el centro, fácil de alcanzar a pie."
           }
         },
         {
@@ -1896,7 +2080,8 @@
             "de": "Celda de Chopin",
             "hu": "Chopin-cella",
             "ro": "Chilia lui Chopin",
-            "en": "Chopin's Cell"
+            "en": "Chopin's Cell",
+            "es": "Celda de Chopin"
           },
           "coords": [
             2.6228,
@@ -1911,7 +2096,8 @@
             "de": "Teil der Kartause.",
             "hu": "A kolostor része.",
             "ro": "Parte a mănăstirii.",
-            "en": "Part of the Charterhouse."
+            "en": "Part of the Charterhouse.",
+            "es": "Parte de la Cartuja."
           }
         },
         {
@@ -1919,7 +2105,8 @@
             "de": "Centro Cultural Costa Nord",
             "hu": "Costa Nord Kulturális Központ",
             "ro": "Centrul Cultural Costa Nord",
-            "en": "Costa Nord Cultural Centre"
+            "en": "Costa Nord Cultural Centre",
+            "es": "Centro Cultural Costa Nord"
           },
           "coords": [
             2.621,
@@ -1934,7 +2121,8 @@
             "de": "Informative Doku über die Region.",
             "hu": "Informatív dokumentumfilm a régióról.",
             "ro": "Documentar informativ despre regiune.",
-            "en": "Informative documentary about the region."
+            "en": "Informative documentary about the region.",
+            "es": "Documental informativo sobre la región."
           }
         },
         {
@@ -1942,7 +2130,8 @@
             "de": "Jardines de la Cartuja",
             "hu": "Kolostorkertek",
             "ro": "Grădinile Cartuja",
-            "en": "Cartuja Gardens"
+            "en": "Cartuja Gardens",
+            "es": "Jardines de la Cartuja"
           },
           "coords": [
             2.6235,
@@ -1957,7 +2146,8 @@
             "de": "Genießen Sie die Ruhe vor der Rückfahrt.",
             "hu": "Élvezze a nyugalmat a visszautazás előtt.",
             "ro": "Bucurați-vă de liniște înainte de întoarcere.",
-            "en": "Enjoy the peace before the return trip."
+            "en": "Enjoy the peace before the return trip.",
+            "es": "Disfruta de la tranquilidad antes del regreso."
           }
         }
       ],
@@ -1965,7 +2155,8 @@
         "de": "Mit dem öffentlichen Bus erreichen Sie Valldemossa bequem von Palma aus. Der Tag konzentriert sich auf das historische Zentrum, die Museen und die wunderschönen Gärten, alles in kurzer Gehdistanz zur Bushaltestelle.",
         "hu": "Tömegközlekedéssel kényelmesen elérheti Valldemossát Palmából. A nap a történelmi központra, a múzeumokra és a gyönyörű kertekre összpontosít, amelyek mind sétatávolságra vannak a buszmegállótól.",
         "ro": "Cu autobuzul public ajungeți confortabil la Valldemossa din Palma. Ziua se concentrează pe centrul istoric, muzee și grădinile superbe, toate la scurtă distanță de mers pe jos de stație.",
-        "en": "By public bus, you can reach Valldemossa comfortably from Palma. The day focuses on the historical center, museums, and beautiful gardens, all within short walking distance of the bus stop."
+        "en": "By public bus, you can reach Valldemossa comfortably from Palma. The day focuses on the historical center, museums, and beautiful gardens, all within short walking distance of the bus stop.",
+        "es": "En autobús público se llega cómodamente desde Palma. El día se centra en el centro histórico, los museos y los bellos jardines, todos a corta distancia a pie de la parada."
       },
       "gastro_picks": {
         "de": [
@@ -2073,6 +2264,12 @@
           "Buses can be very crowded in summer.",
           "Check the schedule for line 203.",
           "The stop is at the entrance to the village."
+        ],
+        "es": [
+          "Paga en el autobús con tarjeta contactless.",
+          "Los autobuses pueden ir muy llenos en verano.",
+          "Consulta el horario de la línea 203.",
+          "La parada está a la entrada del pueblo."
         ]
       },
       "variants": {
@@ -2081,7 +2278,8 @@
             "de": "Mit dem öffentlichen Bus erreichen Sie Valldemossa bequem von Palma aus. Der Tag konzentriert sich auf das historische Zentrum, die Museen und die wunderschönen Gärten, alles in kurzer Gehdistanz zur Bushaltestelle.",
             "hu": "Tömegközlekedéssel kényelmesen elérheti Valldemossát Palmából. A nap a történelmi központra, a múzeumokra és a gyönyörű kertekre összpontosít, amelyek mind sétatávolságra vannak a buszmegállótól.",
             "ro": "Cu autobuzul public ajungeți confortabil la Valldemossa din Palma. Ziua se concentrează pe centrul istoric, muzee și grădinile superbe, toate la scurtă distanță de mers pe jos de stație.",
-            "en": "By public bus, you can reach Valldemossa comfortably from Palma. The day focuses on the historical center, museums, and beautiful gardens, all within short walking distance of the bus stop."
+            "en": "By public bus, you can reach Valldemossa comfortably from Palma. The day focuses on the historical center, museums, and beautiful gardens, all within short walking distance of the bus stop.",
+            "es": "En autobús público se llega cómodamente desde Palma. El día se centra en el centro histórico, los museos y los bellos jardines, todos a corta distancia a pie de la parada."
           },
           "stops": [
             {
@@ -2089,13 +2287,15 @@
                 "de": "Busstation Valldemossa",
                 "hu": "Valldemossa buszmegálló",
                 "ro": "Stația de autobuz Valldemossa",
-                "en": "Valldemossa Bus Stop"
+                "en": "Valldemossa Bus Stop",
+                "es": "Parada de autobús Valldemossa"
               },
               "tip_5lang": {
                 "de": "Linie 203 verbindet Palma mit Valldemossa.",
                 "hu": "A 203-as járat köti össze Palmát Valldemossával.",
                 "ro": "Linia 203 leagă Palma de Valldemossa.",
-                "en": "Line 203 connects Palma to Valldemossa."
+                "en": "Line 203 connects Palma to Valldemossa.",
+                "es": "La línea 203 conecta Palma con Valldemossa."
               }
             },
             {
@@ -2103,13 +2303,15 @@
                 "de": "Real Cartuja de Valldemossa",
                 "hu": "Valldemossai karthauzi kolostor",
                 "ro": "Real Cartuja de Valldemossa",
-                "en": "Real Cartuja de Valldemossa"
+                "en": "Real Cartuja de Valldemossa",
+                "es": "Real Cartuja de Valldemossa"
               },
               "tip_5lang": {
                 "de": "Direkt im Zentrum, leicht zu Fuß erreichbar.",
                 "hu": "Közvetlenül a központban, gyalog könnyen elérhető.",
                 "ro": "Chiar în centru, ușor accesibil pe jos.",
-                "en": "Right in the center, easily reachable on foot."
+                "en": "Right in the center, easily reachable on foot.",
+                "es": "Justo en el centro, fácil de alcanzar a pie."
               }
             },
             {
@@ -2117,13 +2319,15 @@
                 "de": "Celda de Chopin",
                 "hu": "Chopin-cella",
                 "ro": "Chilia lui Chopin",
-                "en": "Chopin's Cell"
+                "en": "Chopin's Cell",
+                "es": "Celda de Chopin"
               },
               "tip_5lang": {
                 "de": "Teil der Kartause.",
                 "hu": "A kolostor része.",
                 "ro": "Parte a mănăstirii.",
-                "en": "Part of the Charterhouse."
+                "en": "Part of the Charterhouse.",
+                "es": "Parte de la Cartuja."
               }
             },
             {
@@ -2131,13 +2335,15 @@
                 "de": "Centro Cultural Costa Nord",
                 "hu": "Costa Nord Kulturális Központ",
                 "ro": "Centrul Cultural Costa Nord",
-                "en": "Costa Nord Cultural Centre"
+                "en": "Costa Nord Cultural Centre",
+                "es": "Centro Cultural Costa Nord"
               },
               "tip_5lang": {
                 "de": "Informative Doku über die Region.",
                 "hu": "Informatív dokumentumfilm a régióról.",
                 "ro": "Documentar informativ despre regiune.",
-                "en": "Informative documentary about the region."
+                "en": "Informative documentary about the region.",
+                "es": "Documental informativo sobre la región."
               }
             },
             {
@@ -2145,13 +2351,15 @@
                 "de": "Jardines de la Cartuja",
                 "hu": "Kolostorkertek",
                 "ro": "Grădinile Cartuja",
-                "en": "Cartuja Gardens"
+                "en": "Cartuja Gardens",
+                "es": "Jardines de la Cartuja"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Ruhe vor der Rückfahrt.",
                 "hu": "Élvezze a nyugalmat a visszautazás előtt.",
                 "ro": "Bucurați-vă de liniște înainte de întoarcere.",
-                "en": "Enjoy the peace before the return trip."
+                "en": "Enjoy the peace before the return trip.",
+                "es": "Disfruta de la tranquilidad antes del regreso."
               }
             }
           ],
@@ -2261,6 +2469,12 @@
               "Buses can be very crowded in summer.",
               "Check the schedule for line 203.",
               "The stop is at the entrance to the village."
+            ],
+            "es": [
+              "Paga en el autobús con tarjeta contactless.",
+              "Los autobuses pueden ir muy llenos en verano.",
+              "Consulta el horario de la línea 203.",
+              "La parada está a la entrada del pueblo."
             ]
           }
         },
@@ -2269,7 +2483,8 @@
             "de": "Mit dem Bus trocken ins Bergdorf. Nach der Ankunft geht es direkt in die Kartause. Mittags bietet Chopins Cella Kultur ohne nass zu werden. Das Costa Nord Zentrum ist der nächste Halt für regnerische Stunden. Den Nachmittag verbringen Sie in den Gärten, wenn der Regen nachlässt, bevor der Bus Sie sicher zurückbringt.",
             "hu": "Busszal szárazon a hegyi faluba. Érkezés után egyből a kolostorba veheti az irányt. Délben Chopin cellája kínál kultúrát ázás nélkül. A Costa Nord központ a következő állomás az esős órákra. A délutánt a kertekben töltheti, ha csendesedik az eső, mielőtt a busz visszaviszi.",
             "ro": "Cu autobuzul, ajungeți uscat în satul de munte. După sosire, mergeți direct la mănăstire. La prânz, celula lui Chopin oferă cultură fără să vă udați. Centrul Costa Nord este următoarea oprire pentru orele ploioase. Petreceți după-amiaza în grădini dacă ploaia se oprește, înainte de întoarcere.",
-            "en": "Take the bus to reach the mountain village dry. Upon arrival, head straight to the Charterhouse. At noon, Chopin's Cell offers culture without getting wet. The Costa Nord center is your next stop for the rainy hours. Spend the afternoon in the gardens if the rain lets up before the bus takes you back."
+            "en": "Take the bus to reach the mountain village dry. Upon arrival, head straight to the Charterhouse. At noon, Chopin's Cell offers culture without getting wet. The Costa Nord center is your next stop for the rainy hours. Spend the afternoon in the gardens if the rain lets up before the bus takes you back.",
+            "es": "Toma el autobús para llegar al pueblo de la sierra seco. Al llegar, dirígete directamente a la Cartuja. Al mediodía, la Celda de Chopin ofrece cultura sin mojarse. El centro Costa Nord es tu siguiente parada para las horas de lluvia. Pasa la tarde en los jardines si la lluvia afloja antes de que el autobús te devuelva."
           },
           "stops": [
             {
@@ -2278,7 +2493,8 @@
                 "de": "Überdachte Wartehalle vorhanden.",
                 "hu": "Fedett váróterem áll rendelkezésre.",
                 "ro": "Există o sală de așteptare acoperită.",
-                "en": "Covered waiting area available."
+                "en": "Covered waiting area available.",
+                "es": "Área de espera cubierta disponible."
               }
             },
             {
@@ -2287,7 +2503,8 @@
                 "de": "Nur 2 Minuten Fußweg von der Bushaltestelle.",
                 "hu": "Csak 2 perc séta a buszmegállótól.",
                 "ro": "La doar 2 minute de mers pe jos de stație.",
-                "en": "Just a 2-minute walk from the bus stop."
+                "en": "Just a 2-minute walk from the bus stop.",
+                "es": "A solo 2 minutos a pie de la parada."
               }
             },
             {
@@ -2296,7 +2513,8 @@
                 "de": "Idealer Ort, um die Zeit bis zum nächsten Bus zu füllen.",
                 "hu": "Ideális hely a következő buszig tartó idő kitöltésére.",
                 "ro": "Loc ideal pentru a aștepta următorul autobuz.",
-                "en": "Ideal place to fill the time until the next bus."
+                "en": "Ideal place to fill the time until the next bus.",
+                "es": "Lugar ideal para matar el tiempo hasta el siguiente autobús."
               }
             },
             {
@@ -2305,7 +2523,8 @@
                 "de": "Innenräume bieten Schutz vor Wind und Wetter.",
                 "hu": "A belső terek védelmet nyújtanak a szél és eső ellen.",
                 "ro": "Spațiile interioare oferă protecție împotriva intemperiilor.",
-                "en": "Indoor spaces provide protection from the elements."
+                "en": "Indoor spaces provide protection from the elements.",
+                "es": "Los espacios interiores ofrecen protección contra los elementos."
               }
             },
             {
@@ -2314,7 +2533,8 @@
                 "de": "Vorsicht auf den matschigen Wegen nach dem Regen.",
                 "hu": "Vigyázat a sáros ösvényeken eső után.",
                 "ro": "Atenție la potecile noroioase după ploaie.",
-                "en": "Be careful on muddy paths after the rain."
+                "en": "Be careful on muddy paths after the rain.",
+                "es": "Ten cuidado en los caminos embarrados tras la lluvia."
               }
             }
           ],
@@ -2342,6 +2562,12 @@
               "Check the TIB app for real-time updates during bad weather.",
               "Have small change or a bank card ready for ticket purchase.",
               "The bus stop in Valldemossa provides shelter from the wind."
+            ],
+            "es": [
+              "La línea 203 circula regularmente desde Palma.",
+              "Consulta la app TIB para actualizaciones en tiempo real durante mal tiempo.",
+              "Ten cambio o una tarjeta bancaria a mano para comprar el billete.",
+              "La parada de Valldemossa ofrece resguardo del viento."
             ]
           }
         },
@@ -2350,7 +2576,8 @@
             "de": "Winterlicher Ausflug in die Berge mit dem öffentlichen Bus. Morgens besichtigen Sie die ruhige Kartause. Mittags wärmen Sie sich in Chopins Cella auf. Das Costa Nord Zentrum bietet interessante Einblicke am Nachmittag. Bevor der letzte Bus im Dunkeln fährt, genießen Sie die winterliche Ruhe in den Gärten der Kartause.",
             "hu": "Téli kirándulás a hegyekbe tömegközlekedéssel. Reggel látogassa meg a nyugodt kolostort. Délben melegedjen fel Chopin cellájában. A Costa Nord központ délután érdekes betekintést nyújt a helyi kultúrába. Mielőtt az utolsó busz elindulna a sötétben, élvezze a téli nyugalmat a kertekben.",
             "ro": "Excursie de iarnă în munți cu autobuzul public. Dimineața vizitați mănăstirea liniștită. La prânz, încălziți-vă în celula lui Chopin. Centrul Costa Nord oferă perspective interesante după-amiaza. Înainte de ultimul autobuz, bucurați-vă de liniștea grădinilor.",
-            "en": "Winter excursion to the mountains by public bus. In the morning, visit the quiet Charterhouse. At noon, warm up in Chopin's Cell. The Costa Nord center provides interesting insights in the afternoon. Before the last bus leaves in the dark, enjoy the winter peace in the gardens."
+            "en": "Winter excursion to the mountains by public bus. In the morning, visit the quiet Charterhouse. At noon, warm up in Chopin's Cell. The Costa Nord center provides interesting insights in the afternoon. Before the last bus leaves in the dark, enjoy the winter peace in the gardens.",
+            "es": "Excursión invernal a la sierra en autobús público. Por la mañana, visita la tranquila Cartuja. Al mediodía, entra en calor en la Celda de Chopin. El centro Costa Nord aporta datos interesantes por la tarde. Antes de que salga el último autobús en la oscuridad, disfruta de la paz invernal en los jardines."
           },
           "stops": [
             {
@@ -2359,7 +2586,8 @@
                 "de": "Letzte Busse fahren im Winter oft früher ab.",
                 "hu": "Télen az utolsó buszok gyakran korábban indulnak.",
                 "ro": "Ultimele autobuze pleacă adesea mai devreme iarna.",
-                "en": "The last buses often leave earlier in winter."
+                "en": "The last buses often leave earlier in winter.",
+                "es": "Los últimos autobuses suelen salir antes en invierno."
               }
             },
             {
@@ -2368,7 +2596,8 @@
                 "de": "Die dicken Mauern halten die Kälte lange.",
                 "hu": "A vastag falak sokáig tartják a hideget, öltözzön fel.",
                 "ro": "Zidurile groase rețin frigul, îmbrăcați-vă bine.",
-                "en": "The thick walls retain the cold; dress warmly."
+                "en": "The thick walls retain the cold; dress warmly.",
+                "es": "Los muros gruesos retienen el frío; vístete abrigado."
               }
             },
             {
@@ -2377,7 +2606,8 @@
                 "de": "Gemütlicher Rückzugsort an kalten Tagen.",
                 "hu": "Hangulatos menedék a hideg napokon.",
                 "ro": "Refugiu primitor în zilele reci.",
-                "en": "Cozy retreat on cold days."
+                "en": "Cozy retreat on cold days.",
+                "es": "Refugio acogedor en días fríos."
               }
             },
             {
@@ -2386,7 +2616,8 @@
                 "de": "Gute Heizung in den Ausstellungsräumen.",
                 "hu": "Jó fűtés a kiállítótermekben.",
                 "ro": "Încălzire bună în sălile de expoziție.",
-                "en": "Good heating in the exhibition rooms."
+                "en": "Good heating in the exhibition rooms.",
+                "es": "Buena calefacción en las salas de exposiciones."
               }
             },
             {
@@ -2395,7 +2626,8 @@
                 "de": "Kurze Wege zurück zum Bus einplanen.",
                 "hu": "Tervezzen rövid utat vissza a buszhoz.",
                 "ro": "Planificați un drum scurt înapoi la autobuz.",
-                "en": "Plan a short walk back to the bus stop."
+                "en": "Plan a short walk back to the bus stop.",
+                "es": "Planifica una pequeña caminata de regreso a la parada."
               }
             }
           ],
@@ -2423,6 +2655,12 @@
               "The buses are heated, which is very pleasant after sightseeing.",
               "Combine your ticket with the Intermodal card for discounts.",
               "The return trip in the dark offers nice views of illuminated Palma."
+            ],
+            "es": [
+              "Los horarios de autobús pueden reducirse en la temporada baja de invierno.",
+              "Los autobuses están calefactados, muy agradable tras las visitas.",
+              "Combina tu billete con la tarjeta Intermodal para descuentos.",
+              "El regreso en la oscuridad ofrece bonitas vistas de Palma iluminada."
             ]
           }
         }
@@ -2437,19 +2675,22 @@
       "de": "In Valldemossa hört man Mallorquinisch und Spanisch, viele Einwohner sprechen wegen Chopin-Touristen auch passabel Deutsch. 'Bon dia' bei der Bäckerei für die berühmten Coca de Patata öffnet Herzen. Englisch und Deutsch sind in der Kartause und den Hotels Standard.",
       "hu": "Valldemossában mallorquí és spanyol nyelvet hallasz, sokan a Chopin-turisták miatt elfogadhatóan beszélnek németül is. Egy 'bon dia' a pékségben a híres Coca de Patatáért szíveket nyit meg. A kolostorban és a szállodákban az angol és német alap.",
       "ro": "În Valldemossa se aud mallorquí și spaniolă, iar mulți localnici vorbesc germană decentă datorită turiștilor Chopin. Un 'bon dia' la brutărie pentru celebra Coca de Patata îți deschide ușa în comunitate. La cartuziană și în hoteluri, engleza și germana sunt standard.",
-      "en": "Valldemossa speaks Mallorquí and Spanish, with many locals understanding decent German thanks to Chopin tourists. A 'bon dia' at the bakery for the famous Coca de Patata opens doors. English and German are standard at the Charterhouse and hotels."
+      "en": "Valldemossa speaks Mallorquí and Spanish, with many locals understanding decent German thanks to Chopin tourists. A 'bon dia' at the bakery for the famous Coca de Patata opens doors. English and German are standard at the Charterhouse and hotels.",
+      "es": "En Valldemossa se habla mallorquín y español; muchos locales entienden algo de alemán gracias a los turistas atraídos por Chopin. Un «bon dia» en la panadería por la famosa coca de patata abre puertas. Inglés y alemán son habituales en la Cartuja y en los hoteles."
     },
     "best_time_to_visit": {
       "de": "April-Juni und September-Oktober sind perfekt mit 18-25°C und blühenden Bergen. Im Juli-August ist es voll mit Bustouren, kommen Sie früh am Morgen oder nach 17 Uhr. Der Chopin-Festival im August ist Pflicht, aber Tickets gehen Monate vorher weg.",
       "hu": "Április-június és szeptember-október tökéletes 18-25°C-kal és virágzó hegyekkel. Júliusban és augusztusban tömve van buszos turistákkal, érkezz korán reggel vagy 17 óra után. Az augusztusi Chopin-fesztivál kötelező program, de jegyet hónapokkal előre kell venni.",
       "ro": "Aprilie-iunie și septembrie-octombrie sunt perfecte cu 18-25°C și munți înfloriți. În iulie-august este aglomerat cu autocare, vino dimineața devreme sau după ora 17. Festivalul Chopin din august este obligatoriu, dar biletele se epuizează cu luni înainte.",
-      "en": "April-June and September-October are perfect with 18-25°C and blooming mountains. July-August are packed with coach tours, arrive early morning or after 5pm. The August Chopin Festival is a must, but tickets sell out months ahead."
+      "en": "April-June and September-October are perfect with 18-25°C and blooming mountains. July-August are packed with coach tours, arrive early morning or after 5pm. The August Chopin Festival is a must, but tickets sell out months ahead.",
+      "es": "Abril-junio y septiembre-octubre son perfectos, con 18-25°C y montes en flor. Julio-agosto están llenos de excursiones en autocar; llega temprano por la mañana o después de las 17:00. El Festival Chopin de agosto es imprescindible, pero las entradas se agotan meses antes."
     },
     "neighborhood_warnings": {
       "de": "Valldemossa ist sehr sicher, das einzige Ärgernis sind übervolle Parkplätze und schmale Gassen, in denen sich Autos und Fußgänger drängen. Halten Sie sich beim Wandern im Tramuntana an markierte Wege, das Wetter wechselt schnell. Diebstähle aus Mietwagen am Parkplatz kommen vor, lassen Sie nichts sichtbar liegen.",
       "hu": "Valldemossa nagyon biztonságos, az egyetlen bosszúság a túlzsúfolt parkolók és a szűk utcák, ahol autók és gyalogosok keverednek. A Tramuntana hegyekben maradj a jelzett útvonalakon, gyorsan változik az időjárás. A parkolóban bérelt autókból néha lopnak, semmi értéket ne hagyj látható helyen.",
       "ro": "Valldemossa este foarte sigur, singura problemă fiind parcările supraaglomerate și străduțele înguste unde mașinile și pietonii se înghesuie. La drumeții în Tramuntana rămâi pe traseele marcate, vremea se schimbă rapid. La parcare se mai întâmplă furturi din mașini închiriate, nu lăsa nimic la vedere.",
-      "en": "Valldemossa is very safe, the only annoyance being overcrowded car parks and narrow lanes shared by cars and pedestrians. Stick to marked trails when hiking in the Tramuntana, weather changes fast. Thefts from rental cars at the car park do occur, leave nothing visible inside."
+      "en": "Valldemossa is very safe, the only annoyance being overcrowded car parks and narrow lanes shared by cars and pedestrians. Stick to marked trails when hiking in the Tramuntana, weather changes fast. Thefts from rental cars at the car park do occur, leave nothing visible inside.",
+      "es": "Valldemossa es muy segura; las molestias principales son los aparcamientos saturados y las calles estrechas compartidas por coches y peatones. Mantente en los senderos señalizados al caminar por la Tramuntana: el tiempo cambia rápido. Hay robos en coches de alquiler en los parkings; no dejes nada visible dentro."
     }
   }
 }

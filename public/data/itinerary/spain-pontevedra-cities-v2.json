@@ -21,7 +21,8 @@
             "de": "Praza da Ferrería",
             "hu": "Praza da Ferrería",
             "ro": "Praza da Ferrería",
-            "en": "Praza da Ferrería"
+            "en": "Praza da Ferrería",
+            "es": "Praza da Ferrería"
           },
           "coords": [
             -8.6475,
@@ -37,7 +38,8 @@
             "de": "Starten Sie den Tag mit einem Kaffee in einem der vielen Cafés am Platz.",
             "hu": "Kezdje a napot egy kávéval a tér egyik hangulatos kávézójában.",
             "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele din piață.",
-            "en": "Start your day with a coffee at one of the many cafés lining the square."
+            "en": "Start your day with a coffee at one of the many cafés lining the square.",
+            "es": "Comienza el día con un café en uno de los muchos cafés que bordean la plaza."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Sankt-Franziskus-Konvent",
             "hu": "Szent Ferenc-kolostor",
             "ro": "Mănăstirea San Francisco",
-            "en": "Convent of San Francisco"
+            "en": "Convent of San Francisco",
+            "es": "Convento de San Francisco"
           },
           "coords": [
             -8.6466,
@@ -61,7 +64,8 @@
             "de": "Achten Sie auf die gotische Architektur und die ruhige Atmosphäre im Inneren.",
             "hu": "Figyelje meg a gótikus építészetet és a belső terek békés hangulatát.",
             "ro": "Observați arhitectura gotică și atmosfera liniștită din interior.",
-            "en": "Pay attention to the Gothic architecture and the serene atmosphere inside."
+            "en": "Pay attention to the Gothic architecture and the serene atmosphere inside.",
+            "es": "Fíjate en la arquitectura gótica y en la atmósfera serena del interior."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Heiligtum der Virgen Peregrina",
             "hu": "A Zarándok Szűzanya szentélye",
             "ro": "Sanctuarul Fecioarei Pelerine",
-            "en": "Sanctuary of the Pilgrim Virgin"
+            "en": "Sanctuary of the Pilgrim Virgin",
+            "es": "Santuario de la Virgen Peregrina"
           },
           "coords": [
             -8.6448,
@@ -85,7 +90,8 @@
             "de": "Die einzigartige Jakobsmuschelform des Gebäudes ist ein Symbol des Jakobswegs.",
             "hu": "Az épület egyedi fésűkagyló alakja a Camino de Santiago szimbóluma.",
             "ro": "Forma unică de scoică a clădirii este un simbol al pelerinajului Camino de Santiago.",
-            "en": "The building's unique scallop shell shape is a symbol of the Camino de Santiago."
+            "en": "The building's unique scallop shell shape is a symbol of the Camino de Santiago.",
+            "es": "La singular forma de vieira del edificio es símbolo del Camino de Santiago."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Ruinen von Santo Domingo",
             "hu": "Santo Domingo romjai",
             "ro": "Ruinele Santo Domingo",
-            "en": "Ruins of Santo Domingo"
+            "en": "Ruins of Santo Domingo",
+            "es": "Ruinas de Santo Domingo"
           },
           "coords": [
             -8.643,
@@ -109,7 +116,8 @@
             "de": "Das Freilichtmuseum ist faszinierend. Suchen Sie nach den mittelalterlichen Zunftwappen.",
             "hu": "A szabadtéri múzeum lenyűgöző. Keresse a középkori céhek faragott címereit!",
             "ro": "Muzeul în aer liber este fascinant. Căutați stemele breslelor medievale.",
-            "en": "The open-air museum is fascinating. Look for the carved crests of medieval guilds."
+            "en": "The open-air museum is fascinating. Look for the carved crests of medieval guilds.",
+            "es": "El museo al aire libre es fascinante. Busca los blasones tallados de los gremios medievales."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Museum von Pontevedra",
             "hu": "Pontevedra Múzeum",
             "ro": "Muzeul din Pontevedra",
-            "en": "Pontevedra Museum"
+            "en": "Pontevedra Museum",
+            "es": "Museo de Pontevedra"
           },
           "coords": [
             -8.6438,
@@ -133,7 +142,8 @@
             "de": "Es besteht aus sechs Gebäuden. Verpassen Sie nicht den Goldschatz von Caldas de Reis.",
             "hu": "Hat épületből áll. Ne hagyja ki a Caldas de Reis aranykincsét!",
             "ro": "Este format din șase clădiri. Nu ratați tezaurul de aur din Caldas de Reis.",
-            "en": "It's composed of six buildings. Don't miss the gold treasure of Caldas de Reis."
+            "en": "It's composed of six buildings. Don't miss the gold treasure of Caldas de Reis.",
+            "es": "Está compuesto por seis edificios. No te pierdas el tesoro de oro de Caldas de Reis."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Basilika Santa María la Mayor",
             "hu": "Santa María la Mayor-bazilika",
             "ro": "Bazilica Santa María la Mayor",
-            "en": "Basilica of Santa María la Mayor"
+            "en": "Basilica of Santa María la Mayor",
+            "es": "Basílica de Santa María la Mayor"
           },
           "coords": [
             -8.648,
@@ -157,7 +168,8 @@
             "de": "Die manuelinische Fassade ist außergewöhnlich. Sie ist als 'die Perle der galicischen Kunst' bekannt.",
             "hu": "A mánuel stílusú homlokzat kivételes. A „galíciai művészet gyöngyszemeként” ismert.",
             "ro": "Fațada în stil manuelin este excepțională. Este cunoscută drept „perla artei galice”.",
-            "en": "The Manueline-style facade is exceptional. It is known as 'the pearl of Galician art'."
+            "en": "The Manueline-style facade is exceptional. It is known as 'the pearl of Galician art'.",
+            "es": "La fachada de estilo manuelino es excepcional. Se la conoce como “la perla del arte gallego”."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Ponte do Burgo",
             "hu": "Ponte do Burgo (Vár hídja)",
             "ro": "Ponte do Burgo",
-            "en": "Ponte do Burgo (Bridge of the Borough)"
+            "en": "Ponte do Burgo (Bridge of the Borough)",
+            "es": "Ponte do Burgo (Puente del Burgo)"
           },
           "coords": [
             -8.6435,
@@ -181,7 +194,8 @@
             "de": "Eine mittelalterliche Brücke, über die die portugiesische Route des Jakobswegs führt.",
             "hu": "Középkori híd, a Camino portugál útvonalának része. Nagyszerű fotóhelyszín.",
             "ro": "Un pod medieval pe traseul portughez al pelerinajului Camino. Un loc excelent pentru fotografii.",
-            "en": "A medieval bridge on the Portuguese Way of the Camino. Great for photos."
+            "en": "A medieval bridge on the Portuguese Way of the Camino. Great for photos.",
+            "es": "Un puente medieval en la Vía Portuguesa del Camino. Ideal para fotos."
           }
         },
         {
@@ -189,7 +203,8 @@
             "de": "Insel der Skulpturen",
             "hu": "Szobrok Szigete",
             "ro": "Insula Sculpturilor",
-            "en": "Island of the Sculptures"
+            "en": "Island of the Sculptures",
+            "es": "Illote das Esculturas"
           },
           "coords": [
             -8.638,
@@ -205,7 +220,8 @@
             "de": "Ein entspannender Spaziergang durch diesen Park mit zeitgenössischer Kunst im Freien.",
             "hu": "Tegyen egy pihentető sétát ebben a szabadtéri kortárs művészeti parkban.",
             "ro": "O plimbare relaxantă prin acest parc de artă contemporană în aer liber.",
-            "en": "A relaxing walk through this outdoor contemporary art park."
+            "en": "A relaxing walk through this outdoor contemporary art park.",
+            "es": "Un paseo relajante por este parque de arte contemporáneo al aire libre."
           }
         }
       ],
@@ -213,7 +229,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Pontevedra auf der Praza da Ferrería. Am Vormittag erkunden Sie die gotische Pracht des Convento de San Francisco und die einzigartige Architektur der Kirche der Virgen Peregrina. Nach dem Mittagessen tauchen Sie im Museum von Pontevedra in die galicische Geschichte ein, gefolgt von einem Besuch der beeindruckenden Basilika Santa María la Mayor. Am Nachmittag überqueren Sie die historische Ponte do Burgo und genießen die Ruhe und Kunst auf der Illa das Esculturas. Beenden Sie den Tag mit galicischen Köstlichkeiten.",
         "hu": "Kezdje a napot Pontevedra szívében, a Praza da Ferrería téren. A délelőtt folyamán fedezze fel a Convento de San Francisco gótikus pompáját és a Virgen Peregrina templom egyedi építészetét. Ebéd után merüljön el Galícia történelmében a Pontevedra Múzeumban, majd látogasson el a lenyűgöző Santa María la Mayor-bazilikához. Délután keljen át a történelmi Ponte do Burgo hídon, és élvezze a csendet és a művészetet az Illa das Esculturas szigeten. Zárja a napot galíciai finomságokkal.",
         "ro": "Începeți ziua în inima orașului Pontevedra, în Praza da Ferrería. În cursul dimineții, explorați splendoarea gotică a Mănăstirii San Francisco și arhitectura unică a Bisericii Fecioarei Pelerine. După prânz, pătrundeți în istoria galiciană la Muzeul din Pontevedra, urmat de o vizită la impresionanta Bazilică Santa María la Mayor. După-amiaza, traversați istoricul Ponte do Burgo pentru a vă bucura de liniștea și arta de pe Insula Sculpturilor. Încheiați ziua cu delicatese galiciene.",
-        "en": "Start your day in the heart of Pontevedra at Praza da Ferrería. The morning is for exploring the Gothic splendor of the Convent of San Francisco and the unique architecture of the Church of the Pilgrim Virgin. After lunch, delve into Galician history at the Pontevedra Museum, followed by a visit to the impressive Basilica of Santa María la Mayor. In the afternoon, cross the historic Ponte do Burgo to enjoy the tranquility and art on the Island of the Sculptures. End your day with Galician delicacies."
+        "en": "Start your day in the heart of Pontevedra at Praza da Ferrería. The morning is for exploring the Gothic splendor of the Convent of San Francisco and the unique architecture of the Church of the Pilgrim Virgin. After lunch, delve into Galician history at the Pontevedra Museum, followed by a visit to the impressive Basilica of Santa María la Mayor. In the afternoon, cross the historic Ponte do Burgo to enjoy the tranquility and art on the Island of the Sculptures. End your day with Galician delicacies.",
+        "es": "Comienza el día en el corazón de Pontevedra en la Praza da Ferrería. Por la mañana explora el esplendor gótico del Convento de San Francisco y la singular arquitectura de la Iglesia de la Virgen Peregrina. Tras el almuerzo, profundiza en la historia gallega en el Museo de Pontevedra, seguido de una visita a la imponente Basílica de Santa María la Mayor. Por la tarde cruza el histórico Ponte do Burgo para disfrutar de la tranquilidad y el arte en el Illote das Esculturas. Termina el día con delicias gallegas."
       },
       "gastro_picks": {
         "de": [
@@ -409,6 +426,12 @@
           "Many shops and even some museums close for siesta (around 2 PM to 5 PM).",
           "Be sure to try the local Albariño wine.",
           "The old town is a maze of narrow streets. It's fun to get lost in it."
+        ],
+        "es": [
+          "Pontevedra es extremadamente amigable para peatones. Lleva calzado cómodo.",
+          "Muchas tiendas e incluso algunos museos cierran por la siesta (alrededor de las 14:00 a 17:00).",
+          "Asegúrate de probar el vino Albariño local.",
+          "El casco antiguo es un laberinto de calles estrechas. Es divertido perderse en él."
         ]
       },
       "variants": {
@@ -417,7 +440,8 @@
             "de": "Pontevedra ist berühmt für seine 'Soportales', die überdachten Granitarkaden. Am Morgen spazieren wir geschützt durch die Praza da Ferrería zur San Francisco Kirche. Das Museumsviertel bietet mittags perfekten Unterschlupf vor dem galicischen Nieselregen.\n\nNachmittags erkunden wir die Basilika Santa María, bevor wir den Tag an der Burgo-Brücke beenden, wo das Licht auf dem nassen Pflaster reflektiert. Abends locken die gemütlichen Tavernen unter den Steinbögen.",
             "hu": "Pontevedra híres árkádos utcái, a 'soportales' ideálisak esőben. Reggel a Praza da Ferrería fedett folyosóin indulunk a San Francisco kolostor felé. Délben a múzeum épületei kínálnak száraz menedéket a galíciai permetező eső elől.\n\nDélután a Santa María bazilika belső terét csodáljuk meg. A napot a Burgo-hídnál zárjuk, ahol a vizes gránitlapok különleges fényt kapnak. Este az óváros boltíves falai között vacsorázunk, védve az óceáni széltől.",
             "ro": "Pontevedra este renumită pentru arcadele sale de granit, 'soportales'. Dimineața ne plimbăm protejați prin Praza da Ferrería către biserica San Francisco. Muzeul local oferă la prânz adăpostul perfect împotriva burniței galiciene.\n\nDupă-amiaza explorăm interiorul Bazilicii Santa María, înainte de a încheia ziua la podul Burgo, unde lumina se reflectă pe pavajul umed. Seara, tavernele de sub arcadele de piatră ne așteaptă cu o atmosferă caldă.",
-            "en": "Pontevedra is famous for its 'soportales', the covered granite arcades. In the morning, we walk sheltered through Praza da Ferrería towards San Francisco. The museum buildings provide the perfect refuge from the Galician drizzle at midday.\n\nIn the afternoon, we admire the Basilica of Santa María. We end the day at the Burgo Bridge, where the lights reflect on the wet stone. In the evening, the cozy taverns beneath the stone arches offer a dry and welcoming atmosphere."
+            "en": "Pontevedra is famous for its 'soportales', the covered granite arcades. In the morning, we walk sheltered through Praza da Ferrería towards San Francisco. The museum buildings provide the perfect refuge from the Galician drizzle at midday.\n\nIn the afternoon, we admire the Basilica of Santa María. We end the day at the Burgo Bridge, where the lights reflect on the wet stone. In the evening, the cozy taverns beneath the stone arches offer a dry and welcoming atmosphere.",
+            "es": "Pontevedra es famosa por sus soportales de granito. Por la mañana paseamos protegidos por los soportales desde la Praza da Ferrería hacia San Francisco. Los edificios del museo ofrecen el refugio perfecto de la llovizna gallega al mediodía.\n\nPor la tarde admiramos la Basílica de Santa María. Terminamos el día en el Puente do Burgo, donde las luces se reflejan en la piedra mojada. Por la noche las tabernas acogedoras bajo los arcos de piedra ofrecen un ambiente seco y cálido."
           },
           "stops": [
             {
@@ -426,7 +450,8 @@
                 "de": "Nutzen Sie die Arkadengänge, um trocken zu bleiben.",
                 "hu": "Használja az árkádok alatti járdákat a szárazabb haladáshoz.",
                 "ro": "Folosiți arcadele pentru a rămâne uscat în timpul traversării.",
-                "en": "Use the stone arcades to stay dry while crossing the square."
+                "en": "Use the stone arcades to stay dry while crossing the square.",
+                "es": "Utiliza los arcos de piedra para mantenerte seco al cruzar la plaza."
               }
             },
             {
@@ -435,7 +460,8 @@
                 "de": "Ein ruhiger Ort, um den Regen draußen zu vergessen.",
                 "hu": "Csendes menedék, ahol kivárhatja az intenzívebb esőt.",
                 "ro": "Un refugiu liniștit pentru a aștepta trecerea ploii.",
-                "en": "A quiet sanctuary to wait out any heavy rain showers."
+                "en": "A quiet sanctuary to wait out any heavy rain showers.",
+                "es": "Un santuario tranquilo para esperar los chubascos fuertes."
               }
             },
             {
@@ -444,7 +470,8 @@
                 "de": "Bewundern Sie die Barockdetails im trockenen Inneren.",
                 "hu": "Csodálja meg a barokk részleteket a száraz belső térben.",
                 "ro": "Admirați detaliile baroce în interiorul primitor.",
-                "en": "Admire the baroque details from the dry interior."
+                "en": "Admire the baroque details from the dry interior.",
+                "es": "Admira los detalles barrocos desde el interior seco."
               }
             },
             {
@@ -453,7 +480,8 @@
                 "de": "Vorsicht, die Steine können bei Nässe rutschig sein.",
                 "hu": "Vigyázat, a nedves kőmaradványok csúszósak lehetnek.",
                 "ro": "Atenție, pietrele pot fi alunecoase când sunt ude.",
-                "en": "Careful, the ruins' stones can be slippery when wet."
+                "en": "Careful, the ruins' stones can be slippery when wet.",
+                "es": "Cuidado, las piedras de las ruinas pueden estar resbaladizas con humedad."
               }
             },
             {
@@ -462,7 +490,8 @@
                 "de": "Ideal für einen langen Aufenthalt bei starkem Regen.",
                 "hu": "Ideális hosszú program heves esőzés esetén.",
                 "ro": "Perfect pentru o vizită lungă dacă plouă torențial.",
-                "en": "Ideal for an extended visit during heavy rain."
+                "en": "Ideal for an extended visit during heavy rain.",
+                "es": "Ideal para una visita prolongada durante lluvia intensa."
               }
             },
             {
@@ -471,7 +500,8 @@
                 "de": "Der Kircheneingang bietet kurzzeitig Schutz.",
                 "hu": "A templom bejárata rövid ideig védelmet nyújt.",
                 "ro": "Intrarea bazilicii oferă un scurt adăpost exterior.",
-                "en": "The basilica entrance provides a brief outdoor shelter."
+                "en": "The basilica entrance provides a brief outdoor shelter.",
+                "es": "La entrada de la basílica ofrece un refugio exterior breve."
               }
             },
             {
@@ -480,7 +510,8 @@
                 "de": "Gutes Schuhwerk ist auf dem nassen Pflaster wichtig.",
                 "hu": "A vizes köveken fontos a tapadós talpú cipő.",
                 "ro": "Încălțămintea aderentă este esențială pe piatra umedă.",
-                "en": "Good grip shoes are essential on the wet pavement."
+                "en": "Good grip shoes are essential on the wet pavement.",
+                "es": "Es esencial calzado con buena suela para el pavimento mojado."
               }
             },
             {
@@ -489,7 +520,8 @@
                 "de": "Die Skulpturen wirken im Regen oft mystischer.",
                 "hu": "A szobrok esőben gyakran titokzatosabb látványt nyújtanak.",
                 "ro": "Sculpturile par adesea mai mistice în lumina ploii.",
-                "en": "The sculptures often look more mystical in the rain."
+                "en": "The sculptures often look more mystical in the rain.",
+                "es": "Las esculturas suelen verse más misteriosas bajo la lluvia."
               }
             }
           ],
@@ -521,6 +553,13 @@
               "Take advantage of the 'Soportales' (arcades) as natural rain shelters.",
               "Schedule the museum visit for the period with the heaviest rain forecast.",
               "Enjoy a hot coffee in the cafes around Praza da Leña."
+            ],
+            "es": [
+              "Lleva chaqueta impermeable; los paraguas son poco prácticos en las estrechas calles del casco antiguo.",
+              "El empedrado granítico (‘Pedra’) se vuelve extremadamente resbaladizo cuando está húmedo.",
+              "Aprovecha los soportales como refugios naturales contra la lluvia.",
+              "Programa la visita al museo para el periodo con mayor previsión de lluvia.",
+              "Disfruta de un café caliente en los locales alrededor de la Praza da Leña."
             ]
           }
         },
@@ -529,7 +568,8 @@
             "de": "Der Winter in Pontevedra ist mild, aber oft feucht. Morgens liegt oft Nebel über dem Lérez-Fluss, während wir die Praza da Ferrería erkunden. Mittags wärmen wir uns in den Museen der Stadt auf, wenn die Temperaturen bei etwa 10 Grad liegen.\n\nNachmittags nutzen wir das weiche Winterlicht für Fotos an der Basilika Santa María. Da es gegen 18:00 Uhr dunkel wird, verbringen wir den frühen Abend in den beleuchteten Gassen. Die Illa das Esculturas wirkt in der Winterruhe besonders friedlich.",
             "hu": "A tél Pontevedrában enyhe, de párás. Reggel gyakran köd ül a Lérez-folyón, miközben bejárjuk a Praza da Ferrería környékét. Délben a városi múzeumokban melegszünk fel, amikor a hőmérséklet 10 fok körül alakul.\n\nDélután a lágy téli fényeket használjuk fotózáshoz a Santa María bazilikánál. Mivel 18:00 körül sötétedik, az estét a kivilágított óvárosi utcákon töltjük. Az Illa das Esculturas ilyenkor különösen békés arcát mutatja.",
             "ro": "Iarna în Pontevedra este blândă, dar umedă. Dimineața, ceața plutește adesea peste râul Lérez în timp ce explorăm Praza da Ferrería. La prânz ne încălzim în muzeele orașului, când temperaturile sunt în jur de 10 grade.\n\nDupă-amiaza profităm de lumina caldă de iarnă pentru fotografii la Bazilica Santa María. Deoarece se întunecă în jur de ora 18:00, petrecem seara pe străzile iluminate. Illa das Esculturas pare deosebit de liniștită în această perioadă.",
-            "en": "Winter in Pontevedra is mild but damp. In the morning, mist often hangs over the Lérez River as we explore Praza da Ferrería. At midday, we warm up in the city's museums when temperatures hover around 10°C.\n\nIn the afternoon, we use the soft winter light for photos at the Basilica of Santa María. Since it gets dark around 6:00 PM, we spend the early evening in the illuminated streets. The Island of Sculptures feels particularly peaceful in the winter stillness."
+            "en": "Winter in Pontevedra is mild but damp. In the morning, mist often hangs over the Lérez River as we explore Praza da Ferrería. At midday, we warm up in the city's museums when temperatures hover around 10°C.\n\nIn the afternoon, we use the soft winter light for photos at the Basilica of Santa María. Since it gets dark around 6:00 PM, we spend the early evening in the illuminated streets. The Island of Sculptures feels particularly peaceful in the winter stillness.",
+            "es": "El invierno en Pontevedra es templado pero húmedo. Por la mañana suele haber niebla sobre el río Lérez mientras exploramos la Praza da Ferrería. Al mediodía nos calentamos en los museos de la ciudad con temperaturas en torno a 10°C.\n\nPor la tarde usamos la suave luz invernal para fotos en la Basílica de Santa María. Como anochece alrededor de las 18:00, pasamos la primera parte de la noche en las calles iluminadas. El Illote das Esculturas resulta particularmente tranquilo en la quietud invernal."
           },
           "stops": [
             {
@@ -538,7 +578,8 @@
                 "de": "Genießen Sie die weihnachtliche Beleuchtung im Dezember.",
                 "hu": "Élvezze a karácsonyi kivilágítást december folyamán.",
                 "ro": "Bucurați-se de iluminatul festiv în luna decembrie.",
-                "en": "Enjoy the festive Christmas lights during December."
+                "en": "Enjoy the festive Christmas lights during December.",
+                "es": "Disfruta de las luces navideñas durante diciembre."
               }
             },
             {
@@ -547,7 +588,8 @@
                 "de": "Im Inneren ist es deutlich wärmer als draußen.",
                 "hu": "A belső tér érezhetően melegebb a kinti levegőnél.",
                 "ro": "Interiorul este considerabil mai cald decât aerul de afară.",
-                "en": "The interior is significantly warmer than the outside air."
+                "en": "The interior is significantly warmer than the outside air.",
+                "es": "El interior es claramente más cálido que el exterior."
               }
             },
             {
@@ -556,7 +598,8 @@
                 "de": "Die Kerzen im Inneren erzeugen eine behagliche Stimmung.",
                 "hu": "A belső gyertyák meghitt hangulatot árasztanak télen.",
                 "ro": "Lumânările din interior creează o atmosferă primitoare.",
-                "en": "The candles inside create a cozy atmosphere in winter."
+                "en": "The candles inside create a cozy atmosphere in winter.",
+                "es": "Las velas del interior crean una atmósfera acogedora en invierno."
               }
             },
             {
@@ -565,7 +608,8 @@
                 "de": "Besuchen Sie die Ruinen vor dem frühen Sonnenuntergang.",
                 "hu": "Látogassa meg a romokat a korai naplemente előtt.",
                 "ro": "Vizitați ruinele înainte de apusul soarelui devreme.",
-                "en": "Visit the ruins before the early sunset."
+                "en": "Visit the ruins before the early sunset.",
+                "es": "Visita las ruinas antes de la puesta de sol temprana."
               }
             },
             {
@@ -574,7 +618,8 @@
                 "de": "Perfekter Ort, um der feuchten Kälte zu entfliehen.",
                 "hu": "Tökéletes hely a nyirkos hideg elöli menekülésre.",
                 "ro": "Locul perfect pentru a scăpa de frigul umed.",
-                "en": "Perfect place to escape the damp cold."
+                "en": "Perfect place to escape the damp cold.",
+                "es": "Lugar perfecto para escapar del frío húmedo."
               }
             },
             {
@@ -583,7 +628,8 @@
                 "de": "Die Fassade leuchtet im tiefen Winterlicht golden.",
                 "hu": "A homlokzat aranylón fénylik az alacsony téli napfényben.",
                 "ro": "Fațada strălucește auriu în lumina joasă a iernii.",
-                "en": "The facade glows golden in the low winter sunlight."
+                "en": "The facade glows golden in the low winter sunlight.",
+                "es": "La fachada se torna dorada con la baja luz invernal."
               }
             },
             {
@@ -592,7 +638,8 @@
                 "de": "Warmer Wind vom Fluss kann kühl sein, Mütze einpacken.",
                 "hu": "A folyó felőli szél hideg lehet, vigyen sapkát.",
                 "ro": "Vântul dinspre râu poate fi rece, luați o căciulă.",
-                "en": "The river breeze can be chilly; bring a hat."
+                "en": "The river breeze can be chilly; bring a hat.",
+                "es": "La brisa del río puede ser fría; lleva un gorro."
               }
             },
             {
@@ -601,7 +648,8 @@
                 "de": "Ideal für einen zügigen Winterspaziergang.",
                 "hu": "Ideális egy frissítő téli sétához.",
                 "ro": "Ideal pentru o plimbare revigorantă de iarnă.",
-                "en": "Ideal for a brisk winter walk."
+                "en": "Ideal for a brisk winter walk.",
+                "es": "Ideal para una caminata enérgica de invierno."
               }
             }
           ],
@@ -633,6 +681,13 @@
               "Try roasted chestnuts ('Castañas asadas') from street vendors.",
               "The high humidity can make the perceived temperature feel colder.",
               "Museums sometimes close earlier in winter; check the hours."
+            ],
+            "es": [
+              "Vístete en capas, ya que el interior de las iglesias puede estar frío.",
+              "El sol se pone alrededor de las 18:15 en invierno en Pontevedra.",
+              "Prueba las castañas asadas ('Castañas asadas') de los vendedores ambulantes.",
+              "La alta humedad puede hacer que la sensación térmica sea más fría.",
+              "Los museos a veces cierran antes en invierno; comprueba los horarios."
             ]
           }
         }
@@ -651,7 +706,8 @@
             "de": "Fahrradverleih & Praza da Ferrería",
             "hu": "Kerékpárkölcsönzés és Praza da Ferrería",
             "ro": "Închiriere biciclete & Praza da Ferrería",
-            "en": "Bike Rental & Praza da Ferrería"
+            "en": "Bike Rental & Praza da Ferrería",
+            "es": "Alquiler de bicicletas y Praza da Ferrería"
           },
           "coords": [
             -8.6475,
@@ -667,7 +723,8 @@
             "de": "Mieten Sie ein Fahrrad und genießen Sie einen Kaffee, bevor Sie losfahren.",
             "hu": "Béreljen kerékpárt, és igyon egy kávét, mielőtt útnak indul.",
             "ro": "Închiriați o bicicletă și savurați o cafea înainte de a porni.",
-            "en": "Rent a bike and enjoy a coffee before setting off."
+            "en": "Rent a bike and enjoy a coffee before setting off.",
+            "es": "Alquila una bicicleta y disfruta de un café antes de salir."
           }
         },
         {
@@ -675,7 +732,8 @@
             "de": "Heiligtum der Virgen Peregrina",
             "hu": "A Zarándok Szűzanya szentélye",
             "ro": "Sanctuarul Fecioarei Pelerine",
-            "en": "Sanctuary of the Pilgrim Virgin"
+            "en": "Sanctuary of the Pilgrim Virgin",
+            "es": "Santuario de la Virgen Peregrina"
           },
           "coords": [
             -8.6448,
@@ -691,7 +749,8 @@
             "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und bewundern Sie die einzigartige Architektur.",
             "hu": "Zárja le a biciklit a közelben, és csodálja meg az egyedi építészetet.",
             "ro": "Parcați bicicleta în apropiere și admirați arhitectura unică.",
-            "en": "Park your bike nearby and admire the unique architecture."
+            "en": "Park your bike nearby and admire the unique architecture.",
+            "es": "Aparca la bici cerca y admira la arquitectura singular."
           }
         },
         {
@@ -699,7 +758,8 @@
             "de": "Museum von Pontevedra",
             "hu": "Pontevedra Múzeum",
             "ro": "Muzeul din Pontevedra",
-            "en": "Pontevedra Museum"
+            "en": "Pontevedra Museum",
+            "es": "Museo de Pontevedra"
           },
           "coords": [
             -8.6438,
@@ -715,7 +775,8 @@
             "de": "Planen Sie genügend Zeit ein, da das Museum aus mehreren Gebäuden besteht.",
             "hu": "Tervezzen elég időt, mivel a múzeum több épületből áll.",
             "ro": "Planificați-vă suficient timp, deoarece muzeul este format din mai multe clădiri.",
-            "en": "Plan for enough time as the museum is spread across several buildings."
+            "en": "Plan for enough time as the museum is spread across several buildings.",
+            "es": "Planifica tiempo suficiente, el museo está repartido en varios edificios."
           }
         },
         {
@@ -723,7 +784,8 @@
             "de": "Basilika Santa María la Mayor",
             "hu": "Santa María la Mayor-bazilika",
             "ro": "Bazilica Santa María la Mayor",
-            "en": "Basilica of Santa María la Mayor"
+            "en": "Basilica of Santa María la Mayor",
+            "es": "Basílica de Santa María la Mayor"
           },
           "coords": [
             -8.648,
@@ -739,7 +801,8 @@
             "de": "Ein Meisterwerk des manuelinischen Stils. Der Blick von oben ist die kurze Radtour wert.",
             "hu": "A mánuel stílus mesterműve. A fentről nyíló kilátás megéri a rövid biciklizést.",
             "ro": "O capodoperă în stil manuelin. Priveliștea de sus merită scurta plimbare cu bicicleta.",
-            "en": "A masterpiece of Manueline style. The view from the top is worth the short cycle."
+            "en": "A masterpiece of Manueline style. The view from the top is worth the short cycle.",
+            "es": "Una obra maestra del estilo manuelino. La vista desde arriba merece el corto paseo en bici."
           }
         },
         {
@@ -747,7 +810,8 @@
             "de": "Ponte do Burgo",
             "hu": "Ponte do Burgo (Vár hídja)",
             "ro": "Ponte do Burgo",
-            "en": "Ponte do Burgo (Bridge of the Borough)"
+            "en": "Ponte do Burgo (Bridge of the Borough)",
+            "es": "Ponte do Burgo (Puente del Burgo)"
           },
           "coords": [
             -8.6435,
@@ -763,7 +827,8 @@
             "de": "Fahren Sie über die historische Brücke und stellen Sie sich die Pilger der Vergangenheit vor.",
             "hu": "Tekerjen át a történelmi hídon, és képzelje el a múlt zarándokait.",
             "ro": "Traversați podul istoric și imaginați-vă pelerinii din trecut.",
-            "en": "Cycle across the historic bridge and imagine the pilgrims of the past."
+            "en": "Cycle across the historic bridge and imagine the pilgrims of the past.",
+            "es": "Cruza en bici el puente histórico e imagina a los peregrinos de antaño."
           }
         },
         {
@@ -771,7 +836,8 @@
             "de": "Insel der Skulpturen",
             "hu": "Szobrok Szigete",
             "ro": "Insula Sculpturilor",
-            "en": "Island of the Sculptures"
+            "en": "Island of the Sculptures",
+            "es": "Illa das Esculturas (Isla de las Esculturas)"
           },
           "coords": [
             -8.638,
@@ -787,7 +853,8 @@
             "de": "Ein idealer Ort für eine Radtour, um Kunst und Natur zu verbinden.",
             "hu": "Ideális hely egy kerékpártúrához, amely ötvözi a művészetet és a természetet.",
             "ro": "Un loc ideal pentru o plimbare cu bicicleta, combinând arta și natura.",
-            "en": "An ideal place for a bike ride, combining art and nature."
+            "en": "An ideal place for a bike ride, combining art and nature.",
+            "es": "Un lugar ideal para pasear en bici, que combina arte y naturaleza."
           }
         },
         {
@@ -795,7 +862,8 @@
             "de": "Rückkehr zum Flussufer für Tapas",
             "hu": "Vissza a folyópartra tapasozni",
             "ro": "Întoarcere pe malul râului pentru tapas",
-            "en": "Return to the Riverfront for Tapas"
+            "en": "Return to the Riverfront for Tapas",
+            "es": "Regreso al paseo fluvial para tapas"
           },
           "coords": [
             -8.646,
@@ -811,7 +879,8 @@
             "de": "Geben Sie Ihr Fahrrad zurück und belohnen Sie sich mit wohlverdienten galicischen Tapas.",
             "hu": "Adja le a kerékpárt, és jutalmazza meg magát egy jól megérdemelt galíciai tapasszal.",
             "ro": "Returnați bicicleta și răsplătiți-vă cu niște tapas galiciene binemeritate.",
-            "en": "Return your bike and reward yourself with some well-deserved Galician tapas."
+            "en": "Return your bike and reward yourself with some well-deserved Galician tapas.",
+            "es": "Devuelve la bici y recompénsate con unas merecidas tapas gallegas."
           }
         }
       ],
@@ -819,7 +888,8 @@
         "de": "Ihr Fahrradabenteuer beginnt im Stadtzentrum. Am Morgen radeln Sie zu den wichtigsten religiösen Stätten. Nach einem langen Museumsbesuch am Mittag belohnen Sie sich mit der Aussicht von der Basilika. Der Nachmittag ist einer entspannten Fahrt entlang des Flusses gewidmet, von der historischen Brücke bis zur grünen Skulptureninsel. Am Abend entspannen Sie sich bei lokalen Weinen und Tapas.",
         "hu": "Kerékpáros kalandja a városközpontban kezdődik. Délelőtt tekerjen el a legfontosabb vallási helyszínekhez. A hosszú déli múzeumlátogatás után jutalmazza meg magát a bazilikából nyíló kilátással. A délutánt egy kellemes folyóparti biciklizésnek szentelheti, a történelmi hídtól a zöldellő Szobrok Szigetéig. Este pihenjen helyi borok és tapasok mellett.",
         "ro": "Aventura pe bicicletă începe în centrul orașului. Dimineața pedalați spre principalele situri religioase. După o vizită lungă la muzeu la prânz, răsplătiți-vă cu priveliștea de la bazilică. După-amiaza este dedicată unei plimbări relaxante de-a lungul râului, de la podul istoric la Insula verde a Sculpturilor. Seara, relaxați-vă cu vinuri locale și tapas.",
-        "en": "Your cycling adventure starts in the city center. In the morning, you'll pedal to the main religious sites. After a long museum visit at midday, reward yourself with the view from the basilica. The afternoon is dedicated to a pleasant ride along the river, from the historic bridge to the green Island of Sculptures. In the evening, unwind with local wines and tapas."
+        "en": "Your cycling adventure starts in the city center. In the morning, you'll pedal to the main religious sites. After a long museum visit at midday, reward yourself with the view from the basilica. The afternoon is dedicated to a pleasant ride along the river, from the historic bridge to the green Island of Sculptures. In the evening, unwind with local wines and tapas.",
+        "es": "Tu aventura en bicicleta comienza en el centro. Por la mañana pedalearás hasta los principales lugares religiosos. Tras una larga visita al museo al mediodía, recompénsate con la vista desde la basílica. La tarde se dedica a un agradable recorrido junto al río, desde el puente histórico hasta la verde Illa das Esculturas. Por la noche, relájate con vinos locales y tapas."
       },
       "gastro_picks": {
         "de": [
@@ -1015,6 +1085,12 @@
           "Always lock your bike securely, especially near tourist attractions.",
           "Use the bike lanes along the river for a safe and scenic ride.",
           "A water bottle is essential, especially on warm days."
+        ],
+        "es": [
+          "Pontevedra es mayormente llana, pero algunos puentes tienen ligeras pendientes.",
+          "Siempre asegura bien tu bicicleta, especialmente cerca de las atracciones turísticas.",
+          "Usa los carriles bici a lo largo del río para un paseo seguro y con buenas vistas.",
+          "Una botella de agua es esencial, sobre todo en días calurosos."
         ]
       },
       "variants": {
@@ -1023,7 +1099,8 @@
             "de": "Radfahren im galicischen Regen erfordert Vorsicht auf dem Granit. Morgens starten wir an der Praza da Ferrería und nutzen die breiteren, weniger rutschigen Wege. Mittags verbringen wir viel Zeit im Museum, während das Rad sicher unter einem Vordach parkt.\n\nNachmittags radeln wir vorsichtig zur Basilika Santa María. Der Weg zur Illa das Esculturas entlang des Flusses ist bei Regen stimmungsvoll, aber die Wege können matschig sein. Wir beenden die Tour frühzeitig in einer Tapas-Bar am Flussufer.",
             "hu": "A galíciai esőben való biciklizés óvatosságot igényel a grániton. Reggel a Praza da Ferrería környékén kezdünk, keresve a kevésbé csúszós felületeket. Délben hosszabb időt töltünk a múzeumban, miközben a kerékpár egy eresz alatt várakozik.\n\nDélután óvatosan tekerünk a Santa María bazilikához. A folyóparti út az Illa das Esculturas felé esőben is hangulatos, de az utak sárosak lehetnek. A túrát korábban fejezzük be egy folyóparti tapas bárban, ahol megszárítkozhatunk.",
             "ro": "Mersul pe bicicletă în ploaia galiciană necesită prudență pe granit. Dimineața pornim de la Praza da Ferrería, alegând căile mai puțin alunecoase. La prânz petrecem mult timp la muzeu, în timp ce bicicleta stă la adăpost.\n\nDupă-amiaza pedalăm cu grijă către Bazilica Santa María. Traseul de-a lungul râului spre Illa das Esculturas este atmosferic pe ploaie, dar potecile pot fi noroioase. Încheiem turul devreme într-un bar de tapas pe malul râului.",
-            "en": "Cycling in Galician rain requires caution on the granite surfaces. In the morning, we start at Praza da Ferrería, choosing wider and less slippery paths. At midday, we spend ample time in the museum while the bike is safely parked under a shelter.\n\nIn the afternoon, we cycle carefully to the Basilica of Santa María. The riverside path to Illa das Esculturas is atmospheric in the rain, but trails can be muddy. We finish the tour early at a riverfront tapas bar to dry off."
+            "en": "Cycling in Galician rain requires caution on the granite surfaces. In the morning, we start at Praza da Ferrería, choosing wider and less slippery paths. At midday, we spend ample time in the museum while the bike is safely parked under a shelter.\n\nIn the afternoon, we cycle carefully to the Basilica of Santa María. The riverside path to Illa das Esculturas is atmospheric in the rain, but trails can be muddy. We finish the tour early at a riverfront tapas bar to dry off.",
+            "es": "Circular con lluvia gallega requiere precaución sobre las superficies graníticas. Por la mañana empezamos en la Praza da Ferrería, escogiendo caminos más anchos y menos resbaladizos. Al mediodía pasamos tiempo amplio en el museo con la bici aparcada bajo una cubierta.\n\nPor la tarde pedaleamos con cuidado hasta la Basílica de Santa María. El camino ribereño hacia la Illa das Esculturas es atmosférico con lluvia, pero los senderos pueden estar embarrados. Terminamos el tour temprano en un bar de tapas junto al río para secarnos."
           },
           "stops": [
             {
@@ -1032,7 +1109,8 @@
                 "de": "Fragen Sie nach einem Rad mit guten Schutzblechen.",
                 "hu": "Kérjen jó sárvédővel felszerelt kerékpárt.",
                 "ro": "Cereți o bicicletă dotată cu apărători de noroi bune.",
-                "en": "Ask for a bike with good mudguards."
+                "en": "Ask for a bike with good mudguards.",
+                "es": "Pide una bici con buenos guardabarros."
               }
             },
             {
@@ -1041,7 +1119,8 @@
                 "de": "Vermeiden Sie beim Bremsen die nassen Markierungen.",
                 "hu": "Fékezéskor kerülje a felfestett útburkolati jeleket.",
                 "ro": "Evitați marcajele rutiere umede când frânați.",
-                "en": "Avoid wet road markings when braking."
+                "en": "Avoid wet road markings when braking.",
+                "es": "Evita las señales viales mojadas al frenar."
               }
             },
             {
@@ -1050,7 +1129,8 @@
                 "de": "Stellen Sie Ihr Rad unter die Arkaden in der Nähe.",
                 "hu": "Parkoljon a közeli árkádok alá.",
                 "ro": "Parcați bicicleta sub arcadele din apropiere.",
-                "en": "Park your bike under the nearby arcades."
+                "en": "Park your bike under the nearby arcades.",
+                "es": "Aparca la bici bajo los soportales cercanos."
               }
             },
             {
@@ -1059,7 +1139,8 @@
                 "de": "Vorsicht beim Aufsteigen auf nassen Kopfsteinpflaster.",
                 "hu": "Vigyázzon a felszállásnál a vizes macskakövön.",
                 "ro": "Atenție la urcarea pe bicicletă pe pavajul umed.",
-                "en": "Be careful mounting the bike on wet cobblestones."
+                "en": "Be careful mounting the bike on wet cobblestones.",
+                "es": "Ten cuidado al montar la bici sobre los adoquines húmedos."
               }
             },
             {
@@ -1068,7 +1149,8 @@
                 "de": "Fahren Sie langsam, die Brücke kann glatt sein.",
                 "hu": "Tekerjen lassan, a híd felülete síkos lehet.",
                 "ro": "Mergeți încet, suprafața podului poate fi alunecoasă.",
-                "en": "Ride slowly; the bridge surface can be slick."
+                "en": "Ride slowly; the bridge surface can be slick.",
+                "es": "Pedalea despacio; la superficie del puente puede estar resbaladiza."
               }
             },
             {
@@ -1077,7 +1159,8 @@
                 "de": "Bleiben Sie auf den asphaltierten Hauptwegen.",
                 "hu": "Maradjon az aszfaltozott főutakon.",
                 "ro": "Rămâneți pe aleile principale asfaltate.",
-                "en": "Stick to the main paved paths."
+                "en": "Stick to the main paved paths.",
+                "es": "Mantente en los principales caminos pavimentados."
               }
             },
             {
@@ -1086,7 +1169,8 @@
                 "de": "Ein heißer Snack hilft gegen die feuchte Kälte.",
                 "hu": "Egy meleg snack segít a nyirkos hideg ellen.",
                 "ro": "O gustare caldă ajută împotriva frigului umed.",
-                "en": "A warm snack helps against the damp cold."
+                "en": "A warm snack helps against the damp cold.",
+                "es": "Un tentempié caliente ayuda contra el frío húmedo."
               }
             }
           ],
@@ -1118,6 +1202,13 @@
               "Wear full waterproof trousers over your clothes.",
               "Lock your bike in spots with some overhead cover.",
               "Riverside paths may have puddles; stay in the center."
+            ],
+            "es": [
+              "Probar los frenos sobre granito en lluvia es vital para la seguridad.",
+              "Evita movimientos bruscos del manillar en pavimento mojado.",
+              "Lleva pantalones totalmente impermeables sobre la ropa.",
+              "Asegura la bici en lugares con algo de cobertura superior.",
+              "Los caminos junto al río pueden tener charcos; mantente en el centro."
             ]
           }
         },
@@ -1126,7 +1217,8 @@
             "de": "Winterliches Radeln in Pontevedra bietet klare Luft und leere Wege. Morgens radeln wir durch die neblige Altstadt zur Praza da Ferrería. Mittags nutzen wir die wärmeren Stunden für den Besuch des Museums und der Kirchen im Zentrum.\n\nNachmittags geht es zügig entlang des Lérez-Flusses zur Illa das Esculturas, bevor die Kälte am späten Nachmittag zunimmt. Da das Licht früh schwindet, achten wir auf gute Beleuchtung. Den Tag lassen wir bei Tapas in der Nähe des Hafens ausklingen.",
             "hu": "A téli biciklizés Pontevedrában tiszta levegőt és üres utakat kínál. Reggel a ködös óvároson át tekerünk a Praza da Ferrería felé. Délben a melegebb órákat a múzeum és a központi templomok meglátogatására használjuk.\n\nDélután tempósan haladunk a Lérez-folyó mentén az Illa das Esculturas irányába, mielőtt a hideg fokozódna. Mivel korán sötétedik, ügyelünk a jó világításra. A napot a kikötő közeli tapas bárokban zárjuk.",
             "ro": "Mersul pe bicicletă iarna în Pontevedra oferă aer curat și drumuri libere. Dimineața pedalăm prin orașul vechi cetos către Praza da Ferrería. La prânz profităm de orele mai calde pentru a vizita muzeul și bisericile centrale.\n\nDupă-amiaza mergem rapid de-a lungul râului Lérez către Illa das Esculturas, înainte ca frigul să se intensifice. Deoarece lumina dispare devreme, avem grijă să folosim lumini bune. Încheiem ziua cu tapas în apropierea portului.",
-            "en": "Winter cycling in Pontevedra offers crisp air and empty paths. In the morning, we cycle through the misty old town to Praza da Ferrería. At midday, we use the warmer hours to visit the museum and central churches.\n\nIn the afternoon, we ride briskly along the Lérez River to Illa das Esculturas before the chill sets in. Since the light fades early, we ensure our bike lights are working. We wrap up the day with tapas near the port area."
+            "en": "Winter cycling in Pontevedra offers crisp air and empty paths. In the morning, we cycle through the misty old town to Praza da Ferrería. At midday, we use the warmer hours to visit the museum and central churches.\n\nIn the afternoon, we ride briskly along the Lérez River to Illa das Esculturas before the chill sets in. Since the light fades early, we ensure our bike lights are working. We wrap up the day with tapas near the port area.",
+            "es": "El ciclismo invernal en Pontevedra ofrece aire fresco y rutas vacías. Por la mañana pedaleamos por la neblinosa ciudad vieja hasta la Praza da Ferrería. Al mediodía aprovechamos las horas más cálidas para visitar el museo y las iglesias centrales.\n\nPor la tarde vamos rápido por el río Lérez hasta la Illa das Esculturas antes de que llegue el frío. Como la luz se apaga pronto, comprobamos que las luces de la bici funcionen. Acabamos el día con tapas cerca de la zona portuaria."
           },
           "stops": [
             {
@@ -1135,7 +1227,8 @@
                 "de": "Prüfen Sie, ob Vorder- und Rücklicht funktionieren.",
                 "hu": "Ellenőrizze, hogy az első és hátsó lámpák működnek-e.",
                 "ro": "Verificați dacă luminile față și spate funcționează.",
-                "en": "Check that both front and rear lights are working."
+                "en": "Check that both front and rear lights are working.",
+                "es": "Comprueba que las luces delanteras y traseras funcionen."
               }
             },
             {
@@ -1144,7 +1237,8 @@
                 "de": "Handschuhe sind für die Fahrt zwischen den Stopps nötig.",
                 "hu": "A megállók közötti szakaszokon szükség lesz kesztyűre.",
                 "ro": "Mănușile sunt necesare pentru deplasarea între opriri.",
-                "en": "Gloves are necessary for riding between stops."
+                "en": "Gloves are necessary for riding between stops.",
+                "es": "Los guantes son necesarios para rodar entre paradas."
               }
             },
             {
@@ -1153,7 +1247,8 @@
                 "de": "Die Heizung im Museum ist eine willkommene Pause.",
                 "hu": "A múzeumi fűtés kellemes pihenőt nyújt.",
                 "ro": "Încălzirea din muzeu oferă o pauză binevenită.",
-                "en": "The museum's heating offers a welcome break."
+                "en": "The museum's heating offers a welcome break.",
+                "es": "La calefacción del museo ofrece un descanso bienvenido."
               }
             },
             {
@@ -1162,7 +1257,8 @@
                 "de": "Kurzer Stopp, um die Muskeln nicht auskühlen zu lassen.",
                 "hu": "Csak rövid megálló, hogy ne hűljenek ki az izmai.",
                 "ro": "Oprește-te scurt pentru ca mușchii să nu se răcească.",
-                "en": "Stop briefly so your muscles don't get too cold."
+                "en": "Stop briefly so your muscles don't get too cold.",
+                "es": "Para brevemente para que los músculos no se enfríen demasiado."
               }
             },
             {
@@ -1171,7 +1267,8 @@
                 "de": "Der Wind auf der Brücke kann im Winter beißen.",
                 "hu": "A hídon télen metsző lehet a szél.",
                 "ro": "Vântul de pe pod poate fi tăios în timpul iernii.",
-                "en": "The wind on the bridge can be biting in winter."
+                "en": "The wind on the bridge can be biting in winter.",
+                "es": "El viento en el puente puede ser cortante en invierno."
               }
             },
             {
@@ -1180,7 +1277,8 @@
                 "de": "Nutzen Sie das letzte Tageslicht gegen 17:30 Uhr.",
                 "hu": "Használja ki az utolsó fényeket 17:30 körül.",
                 "ro": "Profitați de ultima lumină în jurul orei 17:30.",
-                "en": "Make use of the last daylight around 5:30 PM."
+                "en": "Make use of the last daylight around 5:30 PM.",
+                "es": "Aprovecha la última luz sobre las 17:30."
               }
             },
             {
@@ -1189,7 +1287,8 @@
                 "de": "Parken Sie Ihr Rad gut sichtbar unter Straßenlaternen.",
                 "hu": "Parkoljon jól látható helyen, utcai lámpák alatt.",
                 "ro": "Parcați bicicleta într-un loc vizibil, sub felinare.",
-                "en": "Park your bike in a visible spot under street lights."
+                "en": "Park your bike in a visible spot under street lights.",
+                "es": "Aparca la bici en un lugar visible bajo farolas."
               }
             }
           ],
@@ -1221,6 +1320,13 @@
               "Watch out for frost on wooden bridges in the morning.",
               "Drink something warm during the day to maintain body heat.",
               "Winter tires aren't needed, but good tread is important."
+            ],
+            "es": [
+              "Lleva ropa cortaviento, especialmente junto al río.",
+              "Mantén los trayectos cortos después de la puesta de sol.",
+              "Cuidado con la escarcha en los puentes de madera por la mañana.",
+              "Bebe algo caliente durante el día para mantener el calor corporal.",
+              "No hacen falta neumáticos de invierno, pero es importante un buen dibujo en la banda de rodadura."
             ]
           }
         }
@@ -1239,7 +1345,8 @@
             "de": "Parkhaus im Zentrum & Praza da Ferrería",
             "hu": "Parkolóház a központban és Praza da Ferrería",
             "ro": "Parcare centrală & Praza da Ferrería",
-            "en": "Central Parking & Praza da Ferrería"
+            "en": "Central Parking & Praza da Ferrería",
+            "es": "Aparcamiento central y Praza da Ferrería"
           },
           "coords": [
             -8.6485,
@@ -1255,7 +1362,8 @@
             "de": "Parken Sie Ihr Auto für den Vormittag und erkunden Sie den ersten Cluster zu Fuß.",
             "hu": "Parkolja le az autót a délelőttre, és fedezze fel az első látnivalócsoportot gyalog.",
             "ro": "Parcați mașina pentru dimineață și explorați primul grup de atracții pe jos.",
-            "en": "Park your car for the morning and explore the first cluster on foot."
+            "en": "Park your car for the morning and explore the first cluster on foot.",
+            "es": "Deja el coche por la mañana y explora el primer grupo a pie."
           }
         },
         {
@@ -1263,7 +1371,8 @@
             "de": "Sankt-Franziskus-Konvent",
             "hu": "Szent Ferenc-kolostor",
             "ro": "Mănăstirea San Francisco",
-            "en": "Convent of San Francisco"
+            "en": "Convent of San Francisco",
+            "es": "Convento de San Francisco"
           },
           "coords": [
             -8.6466,
@@ -1279,7 +1388,8 @@
             "de": "Ein kurzer Spaziergang vom Hauptplatz entfernt.",
             "hu": "Csak egy rövid séta a főtérről.",
             "ro": "O scurtă plimbare de la piața principală.",
-            "en": "A short walk from the main square."
+            "en": "A short walk from the main square.",
+            "es": "A poca distancia de la plaza principal."
           }
         },
         {
@@ -1287,7 +1397,8 @@
             "de": "Heiligtum der Virgen Peregrina",
             "hu": "A Zarándok Szűzanya szentélye",
             "ro": "Sanctuarul Fecioarei Pelerine",
-            "en": "Sanctuary of the Pilgrim Virgin"
+            "en": "Sanctuary of the Pilgrim Virgin",
+            "es": "Santuario de la Virgen Peregrina"
           },
           "coords": [
             -8.6448,
@@ -1303,7 +1414,8 @@
             "de": "Direkt neben der Praza da Ferrería, leicht zu finden.",
             "hu": "Közvetlenül a Praza da Ferrería mellett, könnyű megtalálni.",
             "ro": "Chiar lângă Praza da Ferrería, ușor de găsit.",
-            "en": "Right next to Praza da Ferrería, easy to find."
+            "en": "Right next to Praza da Ferrería, easy to find.",
+            "es": "Justo al lado de la Praza da Ferrería, fácil de encontrar."
           }
         },
         {
@@ -1311,7 +1423,8 @@
             "de": "Ruinen von Santo Domingo & Museum",
             "hu": "Santo Domingo romjai és Múzeum",
             "ro": "Ruinele Santo Domingo & Muzeu",
-            "en": "Ruins of Santo Domingo & Museum"
+            "en": "Ruins of Santo Domingo & Museum",
+            "es": "Ruinas de Santo Domingo y Museo"
           },
           "coords": [
             -8.643,
@@ -1327,7 +1440,8 @@
             "de": "Die beiden liegen nebeneinander, planen Sie einen längeren Aufenthalt ein.",
             "hu": "A kettő egymás mellett van, tervezzen hosszabb látogatást.",
             "ro": "Cele două sunt adiacente, planificați o vizită mai lungă.",
-            "en": "The two are adjacent, plan for a longer visit."
+            "en": "The two are adjacent, plan for a longer visit.",
+            "es": "Ambos están contiguos; planifica una visita más larga."
           }
         },
         {
@@ -1335,7 +1449,8 @@
             "de": "Fahrt zum Flussufer & Basilika Santa María",
             "hu": "Autóval a folyóparthoz és a Santa María-bazilikához",
             "ro": "Cu mașina la malul râului și Bazilica Santa María",
-            "en": "Drive to Riverfront & Basilica Santa María"
+            "en": "Drive to Riverfront & Basilica Santa María",
+            "es": "Conduce hasta el paseo fluvial y la Basílica Santa María"
           },
           "coords": [
             -8.648,
@@ -1351,7 +1466,8 @@
             "de": "Fahren Sie zum zweiten Cluster. Suchen Sie einen Parkplatz in der Nähe der Basilika.",
             "hu": "Vezessen át a második látnivalócsoporthoz. Keressen parkolót a bazilika közelében.",
             "ro": "Conduceți spre al doilea grup de atracții. Găsiți o parcare lângă bazilică.",
-            "en": "Drive to the second cluster. Find parking near the basilica."
+            "en": "Drive to the second cluster. Find parking near the basilica.",
+            "es": "Conduce hasta el segundo grupo. Encuentra aparcamiento cerca de la basílica."
           }
         },
         {
@@ -1359,7 +1475,8 @@
             "de": "Ponte do Burgo",
             "hu": "Ponte do Burgo (Vár hídja)",
             "ro": "Ponte do Burgo",
-            "en": "Ponte do Burgo (Bridge of the Borough)"
+            "en": "Ponte do Burgo (Bridge of the Borough)",
+            "es": "Ponte do Burgo (Puente del Burgo)"
           },
           "coords": [
             -8.6435,
@@ -1375,7 +1492,8 @@
             "de": "Ein kurzer Spaziergang von der Basilika zur historischen Brücke.",
             "hu": "Rövid séta a bazilikától a történelmi hídig.",
             "ro": "O scurtă plimbare de la bazilică la podul istoric.",
-            "en": "A short walk from the basilica to the historic bridge."
+            "en": "A short walk from the basilica to the historic bridge.",
+            "es": "A poca distancia de la basílica hasta el puente histórico."
           }
         },
         {
@@ -1383,7 +1501,8 @@
             "de": "Fahrt zur Illa das Esculturas",
             "hu": "Autóval a Szobrok Szigetére",
             "ro": "Cu mașina la Insula Sculpturilor",
-            "en": "Drive to Illa das Esculturas"
+            "en": "Drive to Illa das Esculturas",
+            "es": "Conduce a la Illa das Esculturas"
           },
           "coords": [
             -8.638,
@@ -1399,7 +1518,8 @@
             "de": "Fahren Sie zur Insel für einen entspannenden Nachmittagsspaziergang. Es gibt normalerweise genügend Parkplätze.",
             "hu": "Vezessen át a szigetre egy pihentető délutáni sétára. Általában van elég parkolóhely.",
             "ro": "Conduceți spre insulă pentru o plimbare relaxantă de după-amiază. De obicei, există parcare suficientă.",
-            "en": "Drive to the island for a relaxing afternoon walk. There's usually ample parking."
+            "en": "Drive to the island for a relaxing afternoon walk. There's usually ample parking.",
+            "es": "Conduce a la isla para un relajante paseo por la tarde. Suele haber aparcamiento abundante."
           }
         }
       ],
@@ -1407,7 +1527,8 @@
         "de": "Parken Sie Ihr Auto im Zentrum und erkunden Sie den historischen Kern zu Fuß: Plätze, Kirchen und Museen. Am Nachmittag fahren Sie zum Flussufer, um die beeindruckende Basilika zu besichtigen und über die alte Brücke zu spazieren. Der letzte Halt mit dem Auto ist die Illa das Esculturas, ein perfekter Ort, um den Tag in der Natur ausklingen zu lassen, bevor Sie in die Stadt zurückkehren, um zu Abend zu essen.",
         "hu": "Parkolja le autóját a központban, és fedezze fel gyalog a történelmi belvárost: tereket, templomokat és múzeumokat. Délután vezessen le a folyóparthoz, hogy megnézze a lenyűgöző bazilikát és sétáljon át a régi hídon. Az utolsó autós megálló az Illa das Esculturas, egy tökéletes hely a nap lezárására a természetben, mielőtt visszatérne a városba vacsorázni.",
         "ro": "Parcați mașina în centru și explorați nucleul istoric pe jos: piețe, biserici și muzee. După-amiaza, conduceți spre malul râului pentru a vedea impresionanta bazilică și a vă plimba pe podul vechi. Ultima oprire cu mașina este Insula Sculpturilor, un loc perfect pentru a încheia ziua în natură înainte de a vă întoarce în oraș pentru cină.",
-        "en": "Park your car downtown and explore the historic core on foot: squares, churches, and museums. In the afternoon, drive to the riverfront to see the impressive basilica and walk across the old bridge. The final car stop is the Illa das Esculturas, a perfect place to end the day in nature before heading back into town for dinner."
+        "en": "Park your car downtown and explore the historic core on foot: squares, churches, and museums. In the afternoon, drive to the riverfront to see the impressive basilica and walk across the old bridge. The final car stop is the Illa das Esculturas, a perfect place to end the day in nature before heading back into town for dinner.",
+        "es": "Aparca el coche en el centro y explora el casco histórico a pie: plazas, iglesias y museos. Por la tarde, conduce hasta el paseo fluvial para ver la impresionante basílica y cruzar el viejo puente. La última parada en coche es la Illa das Esculturas, un lugar perfecto para terminar el día en la naturaleza antes de volver al pueblo para cenar."
       },
       "gastro_picks": {
         "de": [
@@ -1603,6 +1724,12 @@
           "The old town is a low-emission zone. You cannot drive there.",
           "Plan your clusters to avoid unnecessary driving.",
           "Check the opening hours of car parks, some close at night."
+        ],
+        "es": [
+          "Aparcar en el centro puede ser caro. Usa los parkings subterráneos.",
+          "El casco antiguo es zona de bajas emisiones. No se puede circular en coche.",
+          "Planifica tus grupos para evitar desplazamientos innecesarios en coche.",
+          "Comprueba los horarios de los parkings; algunos cierran por la noche."
         ]
       },
       "variants": {
@@ -1611,7 +1738,8 @@
             "de": "Mit dem Auto ist Pontevedra bei Regen gut zu bewältigen, da das Zentrum weitgehend fussläufig ist. Wir parken morgens zentral in der Tiefgarage am Praza de Galicia. Mittags nutzen wir das Auto als trockene Basis für den Wechsel zwischen dem Museumsviertel und der Flussfront.\n\nNachmittags fahren wir zur Basilika Santa María und parken so nah wie möglich am Rand der Fußgängerzone. Zum Abschluss geht es zur Illa das Esculturas, wo wir direkt am Eingang parken können, um den Fußweg im Regen kurz zu halten.",
             "hu": "Autóval Pontevedra esőben is jól kezelhető, mivel a központ gyalogosbarát. Reggel a Praza de Galicia alatti mélygarázsban parkolunk. Délben az autót száraz bázisként használjuk a múzeumnegyed és a folyópart közötti váltáshoz.\n\nDélután a Santa María bazilikához hajtunk, a sétálóövezet szélén parkolva. Végül az Illa das Esculturas következik, ahol közvetlenül a bejáratnál állunk meg, hogy az esőben megtett gyalogutat minimalizáljuk.",
             "ro": "Cu mașina, Pontevedra este ușor de vizitat pe ploaie, centrul fiind pietonal. Dimineața parcăm central în parcarea subterană de lângă Praza de Galicia. La prânz folosim mașina ca bază uscată pentru deplasarea între zona muzeelor și malul râului.\n\nDupă-amiaza mergem către Bazilica Santa María, parcând cât mai aproape de zona pietonală. În final, vizităm Illa das Esculturas, unde parcăm chiar la intrare pentru a limita mersul prin ploaie.",
-            "en": "By car, Pontevedra is manageable in the rain as the center is pedestrian-friendly. We park in the central underground garage at Praza de Galicia in the morning. At midday, we use the car as a dry base when moving between the museum district and the riverfront.\n\nIn the afternoon, we drive towards the Basilica of Santa María, parking near the edge of the pedestrian zone. Finally, we head to Illa das Esculturas, parking right at the entrance to keep the walk in the rain as short as possible."
+            "en": "By car, Pontevedra is manageable in the rain as the center is pedestrian-friendly. We park in the central underground garage at Praza de Galicia in the morning. At midday, we use the car as a dry base when moving between the museum district and the riverfront.\n\nIn the afternoon, we drive towards the Basilica of Santa María, parking near the edge of the pedestrian zone. Finally, we head to Illa das Esculturas, parking right at the entrance to keep the walk in the rain as short as possible.",
+            "es": "En coche, Pontevedra es manejable con lluvia ya que el centro es peatonal. Aparcamos en el garaje subterráneo central de la Praza de Galicia por la mañana. Al mediodía usamos el coche como base seca al movernos entre el distrito de museos y el paseo fluvial.\n\nPor la tarde conducimos hacia la Basílica de Santa María, aparcando en el borde de la zona peatonal. Finalmente vamos a la Illa das Esculturas, aparcando en la entrada para mantener el paseo bajo la lluvia lo más corto posible."
           },
           "stops": [
             {
@@ -1620,7 +1748,8 @@
                 "de": "Tiefgaragen halten das Auto trocken und warm.",
                 "hu": "A mélygarázs szárazon és melegen tartja az autót.",
                 "ro": "Parcările subterane mențin mașina uscată și caldă.",
-                "en": "Underground parking keeps the car dry and warm."
+                "en": "Underground parking keeps the car dry and warm.",
+                "es": "El parking subterráneo mantiene el coche seco y caliente."
               }
             },
             {
@@ -1629,7 +1758,8 @@
                 "de": "Laden Sie Passagiere nah am Eingang ab.",
                 "hu": "Tegye ki az utasokat a bejárathoz közel.",
                 "ro": "Lăsați pasagerii aproape de intrare.",
-                "en": "Drop off passengers close to the entrance."
+                "en": "Drop off passengers close to the entrance.",
+                "es": "Baja a los pasajeros cerca de la entrada."
               }
             },
             {
@@ -1638,7 +1768,8 @@
                 "de": "Kurzparkzonen sind bei Regen oft schnell belegt.",
                 "hu": "Az esőben a rövid távú parkolók hamar betelnek.",
                 "ro": "Locurile de parcare pe termen scurt se ocupă repede pe ploaie.",
-                "en": "Short-term parking spots fill up quickly in the rain."
+                "en": "Short-term parking spots fill up quickly in the rain.",
+                "es": "Las plazas de corta estancia se llenan rápido con lluvia."
               }
             },
             {
@@ -1647,7 +1778,8 @@
                 "de": "Nutzen Sie das Parkhaus 'Zona Monumental'.",
                 "hu": "Használja a 'Zona Monumental' parkolóházat.",
                 "ro": "Utilizați parcarea supraetajată 'Zona Monumental'.",
-                "en": "Use the 'Zona Monumental' parking garage."
+                "en": "Use the 'Zona Monumental' parking garage.",
+                "es": "Usa el parking 'Zona Monumental'."
               }
             },
             {
@@ -1656,7 +1788,8 @@
                 "de": "Die Sicht am Fluss kann bei starkem Regen gering sein.",
                 "hu": "Heves esőben a látótávolság a folyónál lecsökkenhet.",
                 "ro": "Vizibilitatea lângă râu poate fi redusă în timpul ploii torențiale.",
-                "en": "Visibility near the river can be low during heavy rain."
+                "en": "Visibility near the river can be low during heavy rain.",
+                "es": "La visibilidad junto al río puede ser baja durante lluvias intensas."
               }
             },
             {
@@ -1665,7 +1798,8 @@
                 "de": "Parken Sie auf der Nordseite des Flusses.",
                 "hu": "Parkoljon a folyó északi oldalán.",
                 "ro": "Parcați pe partea de nord a râului.",
-                "en": "Park on the north side of the river."
+                "en": "Park on the north side of the river.",
+                "es": "Aparca en la orilla norte del río."
               }
             },
             {
@@ -1674,7 +1808,8 @@
                 "de": "Halten Sie die Klimaanlage gegen Beschlagen an.",
                 "hu": "Járassa a klímát a párásodás ellen.",
                 "ro": "Folosiți aerul condiționat pentru a dezaburi geamurile.",
-                "en": "Keep the AC on to prevent windows from fogging."
+                "en": "Keep the AC on to prevent windows from fogging.",
+                "es": "Mantén el aire acondicionado encendido para evitar que se empañen las ventanas."
               }
             }
           ],
@@ -1706,6 +1841,13 @@
               "Watch out for pedestrians with umbrellas who may block your view.",
               "Avoid riverside parking lots if there is a flood risk.",
               "Always keep an umbrella in the car for the walk to the parking meter."
+            ],
+            "es": [
+              "Usa aparcamientos subterráneos (Parking Central, Plaza de España).",
+              "Conducir dentro de la zona peatonal central está estrictamente prohibido.",
+              "Ten cuidado con los peatones con paraguas que pueden bloquear la visibilidad.",
+              "Evita los aparcamientos junto al río si hay riesgo de inundación.",
+              "Lleva siempre un paraguas en el coche para el camino hasta el parquímetro."
             ]
           }
         },
@@ -1714,7 +1856,8 @@
             "de": "Im Winter bietet das Auto in Pontevedra angenehme Wärme zwischen den Sehenswürdigkeiten. Morgens parken wir bequem am Praza de Galicia für den Altstadtrundgang. Mittags nutzen wir die Sitzheizung auf dem kurzen Weg zu den verschiedenen Museumsstandorten.\n\nNachmittags fahren wir zur Basilika Santa María und genießen den Blick auf die winterliche Stadt aus dem warmen Fahrzeug. Da es früh dunkel wird, ist die Rückfahrt von der Illa das Esculturas im beleuchteten Pontevedra besonders stimmungsvoll. Den Abend verbringen wir in einem Restaurant mit Parkplatznähe.",
             "hu": "Télen az autó Pontevedrában kellemes meleget nyújt a látnivalók között. Reggel kényelmesen parkolunk a Praza de Galicia környékén az óvárosi sétához. Délben az ülésfűtést élvezzük a múzeumok különböző épületei közötti rövid úton.\n\nDélután a Santa María bazilikához hajtunk, élvezve a téli város látványát a meleg autóból. Mivel korán sötétedik, a kivilágított Pontevedrán át vezető út az Illa das Esculturas felől különösen hangulatos. Az estét egy parkolóhoz közeli étteremben töltjük.",
             "ro": "Iarna, mașina oferă o căldură plăcută între obiectivele turistice din Pontevedra. Dimineața parcăm confortabil lângă Praza de Galicia pentru turul orașului vechi. La prânz ne bucurăm de încălzirea din scaune pe drumul scurt către muzeu.\n\nDupă-amiaza mergem la Bazilica Santa María, admirând orașul de iarnă din confortul vehiculului. Deoarece se întunecă devreme, drumul de întoarcere de la Illa das Esculturas prin orașul iluminat este foarte frumos. Seara o petrecem într-un restaurant aflat aproape de parcare.",
-            "en": "In winter, the car provides cozy warmth between the sights in Pontevedra. In the morning, we park conveniently at Praza de Galicia for the old town tour. At midday, we enjoy the seat heating on the short drive between different museum buildings.\n\nIn the afternoon, we head to the Basilica of Santa María, admiring the winter city from the warm vehicle. Since it gets dark early, the drive back from Illa das Esculturas through the illuminated city is particularly atmospheric. We spend the evening at a restaurant located near a parking lot."
+            "en": "In winter, the car provides cozy warmth between the sights in Pontevedra. In the morning, we park conveniently at Praza de Galicia for the old town tour. At midday, we enjoy the seat heating on the short drive between different museum buildings.\n\nIn the afternoon, we head to the Basilica of Santa María, admiring the winter city from the warm vehicle. Since it gets dark early, the drive back from Illa das Esculturas through the illuminated city is particularly atmospheric. We spend the evening at a restaurant located near a parking lot.",
+            "es": "En invierno, el coche ofrece un calor acogedor entre los puntos de interés en Pontevedra. Por la mañana aparcamos en la Praza de Galicia para la visita al casco antiguo. Al mediodía disfrutamos de los asientos calefactados en los cortos trayectos entre los distintos edificios del museo.\n\nPor la tarde nos dirigimos a la Basílica de Santa María, admirando la ciudad invernal desde el vehículo cálido. Como oscurece pronto, la vuelta desde la Illa das Esculturas por la ciudad iluminada es especialmente atmosférica. Pasamos la noche en un restaurante situado junto a un aparcamiento."
           },
           "stops": [
             {
@@ -1723,7 +1866,8 @@
                 "de": "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
                 "hu": "Ne hagyjon értéktárgyat látható helyen az autóban.",
                 "ro": "Nu lăsați obiecte de valoare la vedere în mașină.",
-                "en": "Don't leave valuables visible inside the car."
+                "en": "Don't leave valuables visible inside the car.",
+                "es": "No dejes objetos de valor a la vista dentro del coche."
               }
             },
             {
@@ -1732,7 +1876,8 @@
                 "de": "Das Auto heizt sich zwischen den Stopps schnell auf.",
                 "hu": "Az autó gyorsan felmelegszik a megállók között.",
                 "ro": "Mașina se încălzește repede între opriri.",
-                "en": "The car heats up quickly between stops."
+                "en": "The car heats up quickly between stops.",
+                "es": "El coche se calienta rápidamente entre paradas."
               }
             },
             {
@@ -1741,7 +1886,8 @@
                 "de": "Die Parkplatzsuche ist im Winter oft entspannter.",
                 "hu": "A parkolóhely-keresés télen gyakran nyugodtabb.",
                 "ro": "Căutarea unui loc de parcare este adesea mai relaxată iarna.",
-                "en": "Finding a parking spot is often more relaxed in winter."
+                "en": "Finding a parking spot is often more relaxed in winter.",
+                "es": "Encontrar aparcamiento suele ser más fácil en invierno."
               }
             },
             {
@@ -1750,7 +1896,8 @@
                 "de": "Parkhäuser bieten Schutz vor der winterlichen Feuchtigkeit.",
                 "hu": "A parkolóházak védenek a téli nyirkosság ellen.",
                 "ro": "Parcările etajate oferă protecție împotriva umidității iernii.",
-                "en": "Parking garages offer protection from winter dampness."
+                "en": "Parking garages offer protection from winter dampness.",
+                "es": "Los parkings ofrecen protección contra la humedad invernal."
               }
             },
             {
@@ -1759,7 +1906,8 @@
                 "de": "Nutzen Sie das Fernlicht auf den dunkleren Uferstraßen.",
                 "hu": "Használja a távolsági fényszórót a sötétebb parti utakon.",
                 "ro": "Folosiți faza lungă pe străzile mai întunecate de lângă râu.",
-                "en": "Use high beams on darker riverside roads."
+                "en": "Use high beams on darker riverside roads.",
+                "es": "Usa las luces largas en las carreteras ribereñas más oscuras."
               }
             },
             {
@@ -1768,7 +1916,8 @@
                 "de": "Die Brücke ist im Winter stimmungsvoll beleuchtet.",
                 "hu": "A híd télen hangulatos kivilágítást kap.",
                 "ro": "Podul este iluminat festiv în timpul iernii.",
-                "en": "The bridge is atmospherically lit in winter."
+                "en": "The bridge is atmospherically lit in winter.",
+                "es": "El puente se ilumina de forma atmosférica en invierno."
               }
             },
             {
@@ -1777,7 +1926,8 @@
                 "de": "Prüfen Sie den Reifendruck bei fallenden Temperaturen.",
                 "hu": "A leeső hőmérsékletnél ellenőrizze a guminyomást.",
                 "ro": "Verificați presiunea în anvelope la scăderea temperaturii.",
-                "en": "Check tire pressure as temperatures drop."
+                "en": "Check tire pressure as temperatures drop.",
+                "es": "Revisa la presión de los neumáticos a medida que bajan las temperaturas."
               }
             }
           ],
@@ -1809,6 +1959,13 @@
               "Most central parking garages are open 24 hours.",
               "Watch out for slippery spots in shaded alleys early in the morning.",
               "Treat yourself to a hot chocolate after the tour."
+            ],
+            "es": [
+              "La escarcha es rara, pero comprueba el parabrisas por la mañana.",
+              "Usa apps de aparcamiento para evitar quedarte en la calle en el parquímetro con frío.",
+              "La mayoría de los parkings céntricos están abiertos las 24 horas.",
+              "Cuidado con los puntos resbaladizos en callejones sombreados a primera hora.",
+              "Date el gusto de un chocolate caliente después del recorrido."
             ]
           }
         }
@@ -1827,7 +1984,8 @@
             "de": "Ankunft an der Praza de Galicia & Kaffee",
             "hu": "Érkezés a Praza de Galicia térre és kávé",
             "ro": "Sosire în Praza de Galicia & Cafea",
-            "en": "Arrival at Praza de Galicia & Coffee"
+            "en": "Arrival at Praza de Galicia & Coffee",
+            "es": "Llegada a Praza de Galicia y café"
           },
           "coords": [
             -8.643,
@@ -1843,7 +2001,8 @@
             "de": "Beginnen Sie an einem wichtigen Verkehrsknotenpunkt und spazieren Sie zum nahe gelegenen Praza da Ferrería.",
             "hu": "Kezdje egy fő közlekedési csomópontnál, és sétáljon a közeli Praza da Ferrería térre.",
             "ro": "Începeți la un nod important de transport și plimbați-vă până la Praza da Ferrería din apropiere.",
-            "en": "Start at a main transport hub and walk to the nearby Praza da Ferrería."
+            "en": "Start at a main transport hub and walk to the nearby Praza da Ferrería.",
+            "es": "Comienza en un nudo de transporte principal y camina hasta la cercana Praza da Ferrería."
           }
         },
         {
@@ -1851,7 +2010,8 @@
             "de": "Heiligtum der Virgen Peregrina",
             "hu": "A Zarándok Szűzanya szentélye",
             "ro": "Sanctuarul Fecioarei Pelerine",
-            "en": "Sanctuary of the Pilgrim Virgin"
+            "en": "Sanctuary of the Pilgrim Virgin",
+            "es": "Santuario de la Virgen Peregrina"
           },
           "coords": [
             -8.6448,
@@ -1867,7 +2027,8 @@
             "de": "Ein kurzer Spaziergang vom Platz aus, um diese ikonische Kirche zu sehen.",
             "hu": "Egy rövid séta a térről ehhez az ikonikus templomhoz.",
             "ro": "O scurtă plimbare din piață pentru a vedea această biserică emblematică.",
-            "en": "A short walk from the square to see this iconic church."
+            "en": "A short walk from the square to see this iconic church.",
+            "es": "A pocos minutos a pie desde la plaza para ver esta iglesia emblemática."
           }
         },
         {
@@ -1875,7 +2036,8 @@
             "de": "Ruinen von Santo Domingo",
             "hu": "Santo Domingo romjai",
             "ro": "Ruinele Santo Domingo",
-            "en": "Ruins of Santo Domingo"
+            "en": "Ruins of Santo Domingo",
+            "es": "Ruinas de Santo Domingo"
           },
           "coords": [
             -8.643,
@@ -1891,7 +2053,8 @@
             "de": "Spazieren Sie durch die Altstadt zu den faszinierenden Ruinen.",
             "hu": "Sétáljon át az óvároson a lenyűgöző romokhoz.",
             "ro": "Plimbați-vă prin centrul vechi până la ruinele fascinante.",
-            "en": "Stroll through the old town to the fascinating ruins."
+            "en": "Stroll through the old town to the fascinating ruins.",
+            "es": "Pasea por el casco antiguo hasta las fascinantes ruinas."
           }
         },
         {
@@ -1899,7 +2062,8 @@
             "de": "Bus zum Flussufer & Basilika Santa María",
             "hu": "Busszal a folyóparthoz és a Santa María-bazilikához",
             "ro": "Autobuz spre malul râului & Bazilica Santa María",
-            "en": "Bus to Riverfront & Basilica Santa María"
+            "en": "Bus to Riverfront & Basilica Santa María",
+            "es": "Autobús al Paseo Fluvial y Basílica de Santa María"
           },
           "coords": [
             -8.648,
@@ -1915,7 +2079,8 @@
             "de": "Nehmen Sie einen kurzen Bus, um zum zweiten Cluster des Tages zu gelangen.",
             "hu": "Menjen egy rövid buszúttal a nap második látnivalócsoportjához.",
             "ro": "Luați un autobuz scurt pentru a ajunge la al doilea grup de atracții al zilei.",
-            "en": "Take a short bus ride to get to the day's second cluster."
+            "en": "Take a short bus ride to get to the day's second cluster.",
+            "es": "Toma un corto viaje en autobús para llegar al segundo conjunto del día."
           }
         },
         {
@@ -1923,7 +2088,8 @@
             "de": "Museum von Pontevedra",
             "hu": "Pontevedra Múzeum",
             "ro": "Muzeul din Pontevedra",
-            "en": "Pontevedra Museum"
+            "en": "Pontevedra Museum",
+            "es": "Museo de Pontevedra"
           },
           "coords": [
             -8.6438,
@@ -1939,7 +2105,8 @@
             "de": "Vom Flussufer aus ist es ein kurzer Spaziergang zum Museumskomplex.",
             "hu": "A folyóparttól rövid séta a múzeumkomplexum.",
             "ro": "De la malul râului este o scurtă plimbare până la complexul muzeal.",
-            "en": "From the riverfront, it's a short walk to the museum complex."
+            "en": "From the riverfront, it's a short walk to the museum complex.",
+            "es": "Desde el paseo fluvial se llega caminando en pocos minutos al complejo museístico."
           }
         },
         {
@@ -1947,7 +2114,8 @@
             "de": "Ponte do Burgo",
             "hu": "Ponte do Burgo (Vár hídja)",
             "ro": "Ponte do Burgo",
-            "en": "Ponte do Burgo (Bridge of the Borough)"
+            "en": "Ponte do Burgo (Bridge of the Borough)",
+            "es": "Ponte do Burgo (Puente del Burgo)"
           },
           "coords": [
             -8.6435,
@@ -1963,7 +2131,8 @@
             "de": "Gehen Sie zum Fluss, um diese mittelalterliche Brücke zu überqueren.",
             "hu": "Sétáljon le a folyóhoz, hogy átkeljen ezen a középkori hídon.",
             "ro": "Mergeți spre râu pentru a traversa acest pod medieval.",
-            "en": "Head towards the river to cross this medieval bridge."
+            "en": "Head towards the river to cross this medieval bridge.",
+            "es": "Dirígete al río para cruzar este puente medieval."
           }
         },
         {
@@ -1971,7 +2140,8 @@
             "de": "Bus zur Illa das Esculturas",
             "hu": "Busszal a Szobrok Szigetére",
             "ro": "Autobuz spre Insula Sculpturilor",
-            "en": "Bus to Illa das Esculturas"
+            "en": "Bus to Illa das Esculturas",
+            "es": "Autobús a la Illa das Esculturas"
           },
           "coords": [
             -8.638,
@@ -1987,7 +2157,8 @@
             "de": "Eine weitere kurze Busfahrt bringt Sie zu diesem ruhigen Park.",
             "hu": "Egy újabb rövid buszút elviszi ehhez a békés parkhoz.",
             "ro": "O altă călătorie scurtă cu autobuzul vă duce la acest parc liniștit.",
-            "en": "Another short bus ride takes you to this peaceful park."
+            "en": "Another short bus ride takes you to this peaceful park.",
+            "es": "Otro corto trayecto en autobús te lleva a este tranquilo parque."
           }
         }
       ],
@@ -1995,7 +2166,8 @@
         "de": "Beginnen Sie Ihren Tag an einem zentralen Busknotenpunkt und erkunden Sie den südlichen Teil der Altstadt zu Fuß. Am Vormittag sehen Sie ikonische Kirchen und historische Ruinen. Nehmen Sie dann einen Bus zum Flussufer für den zweiten Teil Ihres Tages. Besuchen Sie die prächtige Basilika und das Hauptmuseum. Eine letzte Busfahrt bringt Sie zur Illa das Esculturas, einem ruhigen Ort, um den Nachmittag zu verbringen.",
         "hu": "Kezdje a napot egy központi buszcsomópontnál, és fedezze fel gyalog az óváros déli részét. Délelőtt ikonikus templomokat és történelmi romokat láthat. Ezután szálljon buszra, és menjen le a folyópartra a nap második részére. Látogasson el a csodálatos bazilikához és a főmúzeumhoz. Egy utolsó buszút elviszi az Illa das Esculturas szigetre, egy csendes helyre a délután eltöltéséhez.",
         "ro": "Începeți ziua la un nod central de autobuz și explorați pe jos partea de sud a centrului vechi. Dimineața veți vedea biserici emblematice și ruine istorice. Apoi, luați un autobuz spre malul râului pentru a doua parte a zilei. Vizitați magnifica bazilică și muzeul principal. O ultimă călătorie cu autobuzul vă va duce pe Insula Sculpturilor, un loc liniștit pentru a petrece după-amiaza.",
-        "en": "Start your day at a central bus hub and explore the southern part of the old town on foot. In the morning, you'll see iconic churches and historic ruins. Then, take a bus to the riverfront for the second part of your day. Visit the magnificent basilica and the main museum. A final bus ride will take you to the Illa das Esculturas, a peaceful place to spend the afternoon."
+        "en": "Start your day at a central bus hub and explore the southern part of the old town on foot. In the morning, you'll see iconic churches and historic ruins. Then, take a bus to the riverfront for the second part of your day. Visit the magnificent basilica and the main museum. A final bus ride will take you to the Illa das Esculturas, a peaceful place to spend the afternoon.",
+        "es": "Comienza el día en una parada de autobús central y explora a pie la parte sur del casco antiguo. Por la mañana verás iglesias emblemáticas y ruinas históricas. Luego toma un autobús hasta el paseo fluvial para la segunda parte del día. Visita la magnífica basílica y el museo principal. Un último trayecto en autobús te llevará a la Illa das Esculturas, un lugar tranquilo para pasar la tarde."
       },
       "gastro_picks": {
         "de": [
@@ -2191,6 +2363,12 @@
           "Bus routes cover the city well, but frequency can vary.",
           "Check the schedule in advance, especially for later trips.",
           "Keep an eye on your belongings on crowded buses."
+        ],
+        "es": [
+          "Compra una tarjeta recargable de autobús para mayor comodidad.",
+          "Las líneas de autobús cubren bien la ciudad, pero la frecuencia puede variar.",
+          "Consulta los horarios con antelación, especialmente para viajes tardíos.",
+          "Vigila tus pertenencias en los autobuses con mucha gente."
         ]
       },
       "variants": {
@@ -2199,7 +2377,8 @@
             "de": "Öffentliche Verkehrsmittel sind in Pontevedra bei Regen eine gute Wahl, um trocken zu bleiben. Wir starten morgens an der Praza de Galicia, einem Knotenpunkt vieler Buslinien. Mittags nutzen wir die Busse, um schnell zwischen den Museen und der Basilica Santa María zu wechseln.\n\nNachmittags bringt uns der Stadtbus fast direkt zum Eingang der Illa das Esculturas, sodass wir kaum im Regen laufen müssen. Den Tag beenden wir in einem Restaurant im Zentrum, das gut an die Buslinien angebunden ist. Die Wartehäuschen bieten guten Schutz vor Wind und Nässe.",
             "hu": "A tömegközlekedés Pontevedrában kiváló választás esőben a szárazon maradáshoz. Reggel a Praza de Galiciánál kezdünk, ahol számos buszjárat találkozik. Délben buszokkal gyorsan váltunk a múzeumok és a Santa María bazilika között.\n\nDélután a helyi járat szinte közvetlenül az Illa das Esculturas bejáratához visz, így minimálisat kell gyalogolnunk az esőben. A napot egy belvárosi étteremben zárjuk, amely jól megközelíthető buszokkal. A megállók jó védelmet nyújtanak a szél és a nedvesség ellen.",
             "ro": "Transportul public din Pontevedra este o alegere excelentă pe ploaie pentru a rămâne uscat. Începem dimineața la Praza de Galicia, nodul central al multor linii de autobuz. La prânz folosim autobuzele pentru a ne deplasa rapid între muzee și Bazilica Santa María.\n\nDupă-amiaza, autobuzul urban ne lasă aproape direct la intrarea în Illa das Esculturas, limitând mersul prin ploaie. Încheiem ziua la un restaurant din centru, bine conectat la liniile de autobuz. Stațiile oferă o protecție bună împotriva vântului și a umezelii.",
-            "en": "Public transit in Pontevedra is a great choice in the rain to stay dry. We start the morning at Praza de Galicia, a hub for many bus lines. At midday, we use the buses to move quickly between the museums and the Basilica of Santa María.\n\nIn the afternoon, the city bus drops us off almost directly at the entrance to Illa das Esculturas, minimizing our time walking in the rain. We end the day at a downtown restaurant well-connected by bus routes. The bus shelters provide good protection from the wind and wet."
+            "en": "Public transit in Pontevedra is a great choice in the rain to stay dry. We start the morning at Praza de Galicia, a hub for many bus lines. At midday, we use the buses to move quickly between the museums and the Basilica of Santa María.\n\nIn the afternoon, the city bus drops us off almost directly at the entrance to Illa das Esculturas, minimizing our time walking in the rain. We end the day at a downtown restaurant well-connected by bus routes. The bus shelters provide good protection from the wind and wet.",
+            "es": "El transporte público en Pontevedra es una excelente opción cuando llueve para mantenerse seco. Empezamos la mañana en Praza de Galicia, un nudo para muchas líneas de autobús. Al mediodía usamos los autobuses para desplazarnos rápidamente entre los museos y la Basílica de Santa María.\n\nPor la tarde, el autobús nos deja casi directamente en la entrada de la Illa das Esculturas, minimizando el tiempo caminando bajo la lluvia. Terminamos el día en un restaurante del centro bien conectado por rutas de autobús. Las marquesinas protegen bien del viento y la humedad."
           },
           "stops": [
             {
@@ -2208,7 +2387,8 @@
                 "de": "Warten Sie im Café gegenüber der Haltestelle.",
                 "hu": "Várjon a megállóval szemközti kávézóban.",
                 "ro": "Așteptați în cafeneaua de peste drum de stație.",
-                "en": "Wait in the cafe across from the bus stop."
+                "en": "Wait in the cafe across from the bus stop.",
+                "es": "Espera en la cafetería frente a la parada de autobús."
               }
             },
             {
@@ -2217,7 +2397,8 @@
                 "de": "Die Haltestellen im Zentrum sind meist überdacht.",
                 "hu": "A központi buszmegállók többnyire fedettek.",
                 "ro": "Stațiile din centru sunt în mare parte acoperite.",
-                "en": "Most central bus stops are covered."
+                "en": "Most central bus stops are covered.",
+                "es": "La mayoría de paradas de autobús centrales están cubiertas."
               }
             },
             {
@@ -2226,7 +2407,8 @@
                 "de": "Prüfen Sie die Buszeiten in der App bei Regen.",
                 "hu": "Esőben ellenőrizze a buszokat az alkalmazásban.",
                 "ro": "Verificați orarul autobuzelor în aplicație când plouă.",
-                "en": "Check bus times in the app when it's raining."
+                "en": "Check bus times in the app when it's raining.",
+                "es": "Consulta los horarios del autobús en la app cuando llueva."
               }
             },
             {
@@ -2235,7 +2417,8 @@
                 "de": "Busse können bei Regen voller sein als sonst.",
                 "hu": "Esőben a buszok zsúfoltabbak lehetnek a szokásosnál.",
                 "ro": "Autobuzele pot fi mai aglomerate decât de obicei pe ploaie.",
-                "en": "Buses can be more crowded than usual in the rain."
+                "en": "Buses can be more crowded than usual in the rain.",
+                "es": "Los autobuses pueden estar más llenos de lo habitual cuando llueve."
               }
             },
             {
@@ -2244,7 +2427,8 @@
                 "de": "Halten Sie Ihr Ticket griffbereit, um Regenzeit zu sparen.",
                 "hu": "Tartsa készenlétben a jegyét, hogy ne ázzon a sorban.",
                 "ro": "Țineți biletul la îndemână pentru a economisi timp în ploaie.",
-                "en": "Keep your ticket ready to save time in the rain."
+                "en": "Keep your ticket ready to save time in the rain.",
+                "es": "Ten el billete listo para ahorrar tiempo bajo la lluvia."
               }
             },
             {
@@ -2253,7 +2437,8 @@
                 "de": "Mehrere Linien überqueren den Fluss hier.",
                 "hu": "Számos járat kel át itt a folyón.",
                 "ro": "Mai multe linii traversează râul în acest punct.",
-                "en": "Multiple bus lines cross the river here."
+                "en": "Multiple bus lines cross the river here.",
+                "es": "Varias líneas de autobús cruzan el río aquí."
               }
             },
             {
@@ -2262,7 +2447,8 @@
                 "de": "Steigen Sie direkt vor dem Parkzugang aus.",
                 "hu": "Szálljon le közvetlenül a park bejárata előtt.",
                 "ro": "Coborâți chiar în fața accesului în parc.",
-                "en": "Get off right in front of the park entrance."
+                "en": "Get off right in front of the park entrance.",
+                "es": "Baja justo frente a la entrada del parque."
               }
             }
           ],
@@ -2294,6 +2480,13 @@
               "Wear shoes with good grip for the walk to the stop.",
               "Have small change or a transit card ready.",
               "Buses are warm inside, but the humidity is high."
+            ],
+            "es": [
+              "Usa la app 'Autobuses Urbanos de Pontevedra' para datos en tiempo real.",
+              "Las marquesinas protegen de la frecuente lluvia gallega con rachas de viento.",
+              "Lleva zapatos con buena sujeción para caminar hasta la parada.",
+              "Ten cambio pequeño o una tarjeta de transporte a mano.",
+              "Los autobuses están cálidos por dentro, pero la humedad es alta."
             ]
           }
         },
@@ -2302,7 +2495,8 @@
             "de": "Im Winter ist der Bus in Pontevedra der wärmste Weg, um die Stadt zu erkunden. Wir starten morgens an der Praza de Galicia und genießen die Fahrt durch die weihnachtlich dekorierte Stadt. Mittags nutzen wir die Verbindungen, um zwischen den Museen im Zentrum zu pendeln.\n\nNachmittags bringt uns der Bus zur Basilika Santa María, bevor wir zur Illa das Esculturas weiterfahren. Da es früh dunkel wird, schätzen wir die hell beleuchteten Busse für die Rückfahrt ins Zentrum. Den Abend lassen wir in einem gut erreichbaren Café in der Nähe der Haltestelle ausklingen.",
             "hu": "Télen a busz Pontevedrában a legmelegebb módja a város felfedezésének. Reggel a Praza de Galiciától indulunk, élvezve az utat a karácsonyi díszbe öltözött városon át. Délben a járatokat használjuk a belvárosi múzeumok közötti közlekedésre.\n\nDélután a busz a Santa María bazilikához repít, majd tovább az Illa das Esculturas felé. Mivel korán sötétedik, értékeljük a jól kivilágított buszokat a központba való visszatéréshez. Az estét egy megálló közeli, barátságos kávézóban zárjuk.",
             "ro": "Iarna, autobuzul din Pontevedra este cel mai călduros mod de a explora orașul. Începem dimineața la Praza de Galicia și ne bucurăm de drumul prin orașul decorat festiv. La prânz folosim conexiunile pentru a face naveta între muzeele din centru.\n\nDupă-amiaza, autobuzul ne duce la Bazilica Santa María, înainte de a continua spre Illa das Esculturas. Deoarece se întunecă devreme, apreciem autobuzele bine iluminate pentru drumul de întoarcere în centru. Seara o petrecem într-o cafenea primitoare de lângă stație.",
-            "en": "In winter, the bus is the warmest way to explore Pontevedra. We start the morning at Praza de Galicia, enjoying the ride through the festively decorated city. At midday, we use the connections to commute between central museums.\n\nIn the afternoon, the bus takes us to the Basilica of Santa María before moving on to Illa das Esculturas. Since it gets dark early, we appreciate the brightly lit buses for the return trip to the center. We wrap up the evening at a cozy cafe near the bus stop."
+            "en": "In winter, the bus is the warmest way to explore Pontevedra. We start the morning at Praza de Galicia, enjoying the ride through the festively decorated city. At midday, we use the connections to commute between central museums.\n\nIn the afternoon, the bus takes us to the Basilica of Santa María before moving on to Illa das Esculturas. Since it gets dark early, we appreciate the brightly lit buses for the return trip to the center. We wrap up the evening at a cozy cafe near the bus stop.",
+            "es": "En invierno, el autobús es la forma más cálida de explorar Pontevedra. Empezamos la mañana en Praza de Galicia, disfrutando del trayecto por la ciudad decorada festivamente. Al mediodía usamos las conexiones para desplazarnos entre los museos centrales.\n\nPor la tarde, el autobús nos lleva a la Basílica de Santa María antes de seguir hacia la Illa das Esculturas. Como anochece temprano, agradecemos los autobuses bien iluminados para el regreso al centro. Cerramos la velada en una cafetería acogedora cerca de la parada."
           },
           "stops": [
             {
@@ -2311,7 +2505,8 @@
                 "de": "Trinken Sie einen heißen Tee vor der Abfahrt.",
                 "hu": "Igyon egy forró teát indulás előtt.",
                 "ro": "Beți un ceai fierbinte înainte de plecare.",
-                "en": "Have a hot tea before departure."
+                "en": "Have a hot tea before departure.",
+                "es": "Toma un té caliente antes de salir."
               }
             },
             {
@@ -2320,7 +2515,8 @@
                 "de": "Busse heizen im Winter oft angenehm auf.",
                 "hu": "A buszokat télen gyakran kellemesen fűtik.",
                 "ro": "Autobuzele sunt adesea încălzite plăcut iarna.",
-                "en": "Buses are often pleasantly heated in winter."
+                "en": "Buses are often pleasantly heated in winter.",
+                "es": "Los autobuses suelen estar gratamente calefactados en invierno."
               }
             },
             {
@@ -2329,7 +2525,8 @@
                 "de": "Kürzere Wartezeiten durch Online-Fahrpläne.",
                 "hu": "Rövidebb várakozási idő az online menetrendekkel.",
                 "ro": "Timpi de așteptare mai scurți cu orarele online.",
-                "en": "Shorter waiting times with online schedules."
+                "en": "Shorter waiting times with online schedules.",
+                "es": "Menos tiempo de espera con horarios online."
               }
             },
             {
@@ -2338,7 +2535,8 @@
                 "de": "Die Heizung im Bus lässt die Brille beschlagen.",
                 "hu": "A busz fűtése miatt bepárásodhat a szemüvege.",
                 "ro": "Încălzirea din autobuz poate aburi ochelarii.",
-                "en": "Bus heating might fog up your glasses."
+                "en": "Bus heating might fog up your glasses.",
+                "es": "La calefacción del autobús puede empañar tus gafas."
               }
             },
             {
@@ -2347,7 +2545,8 @@
                 "de": "Viele Museen liegen in Busnähe.",
                 "hu": "Számos múzeum buszmegálló közelében található.",
                 "ro": "Multe muzee sunt aproape de stațiile de autobuz.",
-                "en": "Many museums are located near bus stops."
+                "en": "Many museums are located near bus stops.",
+                "es": "Muchos museos están situados cerca de paradas de autobús."
               }
             },
             {
@@ -2356,7 +2555,8 @@
                 "de": "Genießen Sie den Blick auf den Fluss im Warmen.",
                 "hu": "Élvezze a folyó látványát a meleg buszból.",
                 "ro": "Bucurați-vă de vederea râului din autobuzul cald.",
-                "en": "Enjoy the river view from the warm bus."
+                "en": "Enjoy the river view from the warm bus.",
+                "es": "Disfruta de la vista al río desde el cálido autobús."
               }
             },
             {
@@ -2365,7 +2565,8 @@
                 "de": "Die letzte Rückfahrt ist oft gegen 21:00 Uhr.",
                 "hu": "Az utolsó visszjárat gyakran 21:00 körül indul.",
                 "ro": "Ultima cursă de întoarcere este adesea în jur de 21:00.",
-                "en": "The last return trip is often around 9:00 PM."
+                "en": "The last return trip is often around 9:00 PM.",
+                "es": "El último regreso suele ser sobre las 21:00."
               }
             }
           ],
@@ -2397,6 +2598,13 @@
               "Watch out for modified schedules during the holidays.",
               "Buses are often quite full in the early evening.",
               "Use the warmth of the bus for short rest periods."
+            ],
+            "es": [
+              "Los autobuses suelen ser más puntuales en invierno que en verano.",
+              "Espera en tiendas o cafeterías cercanas a las paradas.",
+              "Ten cuidado con los horarios modificados durante las fiestas.",
+              "Los autobuses suelen estar bastante llenos a primera hora de la tarde.",
+              "Aprovecha el calor del autobús para breves descansos."
             ]
           }
         }

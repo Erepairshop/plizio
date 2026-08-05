@@ -21,7 +21,8 @@
             "de": "Pedra da Arca",
             "hu": "Pedra da Arca",
             "ro": "Pedra da Arca",
-            "en": "Pedra da Arca"
+            "en": "Pedra da Arca",
+            "es": "Pedra da Arca"
           },
           "coords": [
             -8.817788,
@@ -36,7 +37,8 @@
             "de": "Entdecken Sie diesen faszinierenden Dolmen, ein prähistorisches Grabmal, das von den ersten Siedlern zeugt, und tragen Sie festes Schuhwerk für den unebenen Pfad dorthin.",
             "hu": "Fedezze fel ezt a lenyűgöző őskori dolment, amely a korai telepesek emlékét őrzi, de mindenképpen viseljen túracipőt az egyenetlen erdei ösvény miatt.",
             "ro": "Descoperiți acest dolmen preistoric fascinant care stă mărturie primilor locuitori ai regiunii, însă purtați încălțăminte robustă pentru poteca denivelată de acces.",
-            "en": "Discover this fascinating prehistoric dolmen that bears witness to the region's earliest settlers, but be sure to wear sturdy hiking shoes for the uneven forest trail."
+            "en": "Discover this fascinating prehistoric dolmen that bears witness to the region's earliest settlers, but be sure to wear sturdy hiking shoes for the uneven forest trail.",
+            "es": "Descubre este fascinante dólmen prehistórico que testimonia a los primeros pobladores de la zona; lleva calzado de senderismo resistente para el sendero irregular del bosque."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Mámoas do Quente",
             "hu": "Mámoas do Quente",
             "ro": "Mámoas do Quente",
-            "en": "Mámoas do Quente"
+            "en": "Mámoas do Quente",
+            "es": "Mámoas do Quente"
           },
           "coords": [
             -8.82395,
@@ -59,7 +62,8 @@
             "de": "Bestaunen Sie diese antiken Grabhügel, die tiefe Einblicke in steinzeitliche Riten bieten, und kommen Sie am besten am frühen Morgen, um die mystische Stimmung zu genießen.",
             "hu": "Csodálja meg ezeket az ősi sírhalmokat, amelyek betekintést nyújtanak a kőkorszaki rítusokba, és érkezzen kora reggel, hogy zavartalanul élvezhesse a misztikus hangulatot.",
             "ro": "Admirați aceste tumuli funerari antici care oferă indicii despre riturile din epoca de piatră și veniți dimineața devreme pentru a vă bucura de o atmosferă cu adevărat mistică.",
-            "en": "Marvel at these ancient burial mounds that offer deep insights into Stone Age rituals, and plan your visit for the early morning to fully appreciate the mystical atmosphere."
+            "en": "Marvel at these ancient burial mounds that offer deep insights into Stone Age rituals, and plan your visit for the early morning to fully appreciate the mystical atmosphere.",
+            "es": "Maravíllate con estos antiguos túmulos funerarios que ofrecen profundas pistas sobre los ritos del Neolítico; planifica la visita por la mañana temprano para apreciar su atmósfera mística."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Pazo de Loroxo",
             "hu": "Pazo de Loroxo",
             "ro": "Pazo de Loroxo",
-            "en": "Pazo de Loroxo"
+            "en": "Pazo de Loroxo",
+            "es": "Pazo de Loroxo"
           },
           "coords": [
             -8.793856,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie dieses historische Herrenhaus, das die lokale galicische Architektur perfekt repräsentiert, und achten Sie besonders auf die kunstvollen steinernen Wappen.",
             "hu": "Csodálja meg ezt a történelmi udvarházat, amely a galíciai építészet tökéletes példája, és figyelje meg a bejáratnál található, kőből faragott, részletgazdag családi címereket.",
             "ro": "Admirați acest conac istoric ce reprezintă arhitectura tradițională galiciană și acordați atenție deosebită blazoanelor de piatră bogat ornamentate de la intrarea principală.",
-            "en": "Admire this historic manor house which perfectly showcases traditional Galician architecture, and pay special attention to the intricately carved stone coats of arms."
+            "en": "Admire this historic manor house which perfectly showcases traditional Galician architecture, and pay special attention to the intricately carved stone coats of arms.",
+            "es": "Admira este pazo histórico que muestra la arquitectura tradicional gallega; fíjate en los escudos tallados en piedra."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Muíños de Ardeleiro",
             "hu": "Muíños de Ardeleiro",
             "ro": "Muíños de Ardeleiro",
-            "en": "Muíños de Ardeleiro"
+            "en": "Muíños de Ardeleiro",
+            "es": "Muíños de Ardeleiro"
           },
           "coords": [
             -8.788405,
@@ -105,7 +112,8 @@
             "de": "Erkunden Sie diese traditionellen Wassermühlen, die die landwirtschaftliche Geschichte der Küste prägen, und nehmen Sie sich Zeit, dem beruhigenden Rauschen zuzuhören.",
             "hu": "Fedezze fel ezeket a hagyományos vízimalmokat, amelyek a part menti mezőgazdasági múltat őrzik, és szánjon egy kis időt arra, hogy hallgassa a víz nyugtató csobogását.",
             "ro": "Explorați aceste mori de apă tradiționale care marchează istoria agricolă a coastei și rezervați-vă un moment liniștit pentru a asculta sunetul relaxant al apei.",
-            "en": "Explore these traditional water mills that shaped the coastal agricultural history, and take a quiet moment to listen to the soothing sound of the rushing stream."
+            "en": "Explore these traditional water mills that shaped the coastal agricultural history, and take a quiet moment to listen to the soothing sound of the rushing stream.",
+            "es": "Explora estos molinos de agua tradicionales que marcaron la historia agrícola costera y tómate un momento para escuchar el relajante sonido del arroyo."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Castro da Aldeola",
             "hu": "Castro da Aldeola",
             "ro": "Castro da Aldeola",
-            "en": "Castro da Aldeola"
+            "en": "Castro da Aldeola",
+            "es": "Castro da Aldeola"
           },
           "coords": [
             -8.79175,
@@ -128,7 +137,8 @@
             "de": "Wandern Sie durch die Überreste dieser keltischen Festungssiedlung, um die eiserne Vergangenheit zu spüren, und bringen Sie eine Kamera für die herrlichen Ausblicke mit.",
             "hu": "Barangoljon a kelta erődített falu maradványai között, hogy átérezze a vaskori múltat, és ne felejtsen el fényképezőgépet hozni a lenyűgöző táj megörökítéséhez.",
             "ro": "Plimbați-vă printre ruinele acestei așezări celtice fortificate pentru a simți istoria Epocii Fierului și aduceți o cameră foto pentru a capta peisajele impresionante.",
-            "en": "Wander through the remnants of this fortified Celtic settlement to connect with the Iron Age past, and make sure to bring a camera for the stunning panoramic landscape views."
+            "en": "Wander through the remnants of this fortified Celtic settlement to connect with the Iron Age past, and make sure to bring a camera for the stunning panoramic landscape views.",
+            "es": "Recorre los restos de este asentamiento celta fortificado para conectar con la Edad de Hierro; lleva cámara para las panorámicas del paisaje."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie den Morgen bei den mystischen prähistorischen Dolmen und Grabhügeln.\n\nMittags erkunden Sie traditionelle galicische Herrenhäuser in der sanften Hügellandschaft.\n\nNachmittags bieten historische Wassermühlen am Bachlauf eine beruhigende Kulisse.\n\nLassen Sie den Tag bei den faszinierenden Überresten der keltischen Siedlungen ausklingen.",
         "hu": "Kezdje a reggelt a misztikus őskori dolmenek és sírhalmok felfedezésével.\n\nDélben barangoljon a dombvidéken, és csodálja meg a galíciai udvarházakat.\n\nDélután a patak menti történelmi vízimalmok festői környezetet biztosítanak a pihenéshez.\n\nZárja a napot a kelta erődítmények lenyűgöző maradványainál az esti csendben.",
         "ro": "Începeți dimineața explorând dolmenele mistice și tumulii preistorici.\n\nLa prânz, descoperiți conacele tradiționale galiciene din peisajul rural pitoresc.\n\nDupă-amiaza, morile de apă istorice de-a lungul pârâului oferă un cadru relaxant.\n\nÎncheiați ziua admirând ruinele fascinante ale așezărilor celtice în liniștea serii.",
-        "en": "Start your morning exploring mystical prehistoric dolmens and mounds.\n\nAt midday, discover traditional Galician manor houses in the rolling countryside.\n\nIn the afternoon, historic water mills by the coastal streams provide a picturesque backdrop.\n\nEnd your day admiring fascinating remnants of ancient Celtic settlements."
+        "en": "Start your morning exploring mystical prehistoric dolmens and mounds.\n\nAt midday, discover traditional Galician manor houses in the rolling countryside.\n\nIn the afternoon, historic water mills by the coastal streams provide a picturesque backdrop.\n\nEnd your day admiring fascinating remnants of ancient Celtic settlements.",
+        "es": "Comienza la mañana explorando dólmenes y túmulos prehistóricos místicos.\n\nA mediodía, descubre pazos gallegos tradicionales en la campiña.\n\nPor la tarde, antiguos molinos junto a arroyos costeros ofrecen un telón pintoresco.\n\nTermina el día contemplando los fascinantes restos de asentamientos celtas."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie Ihren Morgen mit einem Regenschirm und besuchen Sie das Megalithgrab im Regen. Mittags führen nasse Wege zu den alten Hügelgräbern und dem historischen Herrenhaus. Am Nachmittag sehen die Wassermühlen durch die Strömung spektakulär aus. Beenden Sie den Tag an den Ruinen, aber achten Sie auf rutschigen Boden.",
             "hu": "Kezdje a reggelt esernyővel, és látogassa meg a megalitikus sírt az esőben. Délben a nedves ösvények az ősi halomsírokhoz és a történelmi udvarházhoz vezetnek. Délután a vízimalmok a megduzzadt patakok miatt különösen látványosak. Zárja a napot a kelta romoknál, de vigyázzon a csúszós, saras talajon.",
             "ro": "Începeți dimineața cu o umbrelă, vizitând mormântul megalitic în ploaie. La prânz, potecile umede vă conduc spre tumulii antici și conacul istoric. După-amiaza, morile de apă arată spectaculos datorită debitului crescut. Încheiați ziua la ruinele celtice, având grijă pe terenul alunecos și noroios.",
-            "en": "Start your morning with an umbrella as we visit the megalithic tomb in the rain. Midday, the wet paths lead to the ancient burial mounds and the historic manor house. In the afternoon, the watermills look spectacular with extra water flow. End your day at the old settlement ruins, being careful on the slippery ground."
+            "en": "Start your morning with an umbrella as we visit the megalithic tomb in the rain. Midday, the wet paths lead to the ancient burial mounds and the historic manor house. In the afternoon, the watermills look spectacular with extra water flow. End your day at the old settlement ruins, being careful on the slippery ground.",
+            "es": "Empieza la mañana con paraguas para visitar la tumba megalítica bajo la lluvia. Al mediodía, los senderos húmedos llevan a los túmulos y al pazo histórico. Por la tarde, los molinos lucen espectaculares con mayor caudal. Termina el día en las ruinas del antiguo asentamiento, con cuidado por el suelo resbaladizo."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Pedra da Arca",
                 "hu": "Pedra da Arca",
                 "ro": "Pedra da Arca",
-                "en": "Pedra da Arca"
+                "en": "Pedra da Arca",
+                "es": "Pedra da Arca"
               },
               "tip_5lang": {
                 "de": "Das Megalithgrab ist im Regen mystisch, aber die Umgebung ist schlammig, daher sind wasserdichte Schuhe empfehlenswert.",
                 "hu": "A megalitikus sír misztikus az esőben, de a környéke sáros lehet, vízálló cipő ajánlott.",
                 "ro": "Mormântul megalitic este mistic în ploaie, dar împrejurimile pot fi noroioase, deci se recomandă încălțăminte impermeabilă.",
-                "en": "The megalithic tomb is mystical in the rain, but the surroundings can be muddy, so waterproof shoes are recommended."
+                "en": "The megalithic tomb is mystical in the rain, but the surroundings can be muddy, so waterproof shoes are recommended.",
+                "es": "El dólmen es místico con lluvia, pero los alrededores pueden estar embarrados; se recomiendan zapatos impermeables."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Mámoas do Quente",
                 "hu": "Mámoas do Quente",
                 "ro": "Mámoas do Quente",
-                "en": "Mámoas do Quente"
+                "en": "Mámoas do Quente",
+                "es": "Mámoas do Quente"
               },
               "tip_5lang": {
                 "de": "Die Hügelgräber liegen im nassen Gras; mit einem Regenmantel können Sie die historische Atmosphäre gut genießen.",
                 "hu": "A halomsírok vizes fűben fekszenek, esőkabátban élvezhető a hely történelmi hangulata.",
                 "ro": "Tumulii stau în iarba umedă; purtarea unei pelerine vă permite să vă bucurați de atmosfera istorică a locului.",
-                "en": "The burial mounds lie in wet grass; wearing a raincoat lets you enjoy the site's historical atmosphere."
+                "en": "The burial mounds lie in wet grass; wearing a raincoat lets you enjoy the site's historical atmosphere.",
+                "es": "Los túmulos se encuentran en hierba húmeda; llevar chubasquero permite disfrutar de la atmósfera histórica."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Pazo de Loroxo",
                 "hu": "Pazo de Loroxo",
                 "ro": "Pazo de Loroxo",
-                "en": "Pazo de Loroxo"
+                "en": "Pazo de Loroxo",
+                "es": "Pazo de Loroxo"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie das alte Herrenhaus von außen; unter den Dachüberständen finden Sie kurzen Schutz vor dem Schauer.",
                 "hu": "Csodálja meg a régi udvarházat kívülről; az eresz alatt rövid menedéket is találhat a zápor elől.",
                 "ro": "Admirați vechiul conac de afară; sub streșini puteți găsi un scurt adăpost împotriva averselor de ploaie.",
-                "en": "Admire the old manor house from the outside; you can find brief shelter from the showers under the eaves."
+                "en": "Admire the old manor house from the outside; you can find brief shelter from the showers under the eaves.",
+                "es": "Admira el viejo pazo desde el exterior; bajo los aleros puedes encontrar refugio breve de los chaparrones."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Muíños de Ardeleiro",
                 "hu": "Muíños de Ardeleiro",
                 "ro": "Muíños de Ardeleiro",
-                "en": "Muíños de Ardeleiro"
+                "en": "Muíños de Ardeleiro",
+                "es": "Muíños de Ardeleiro"
               },
               "tip_5lang": {
                 "de": "Die Bäche schwellen durch den Regen an und machen die Küstenwassermühlen zu einem noch eindrucksvolleren Anblick.",
                 "hu": "A patakok megduzzadnak az esőtől, így a vízimalmok még lenyűgözőbb látványt nyújtanak.",
                 "ro": "Pâraiele se umflă din cauza ploii, făcând morile de apă de coastă o priveliște și mai impresionantă.",
-                "en": "Streams swell from the rain, making the coastal watermills an even more impressive sight."
+                "en": "Streams swell from the rain, making the coastal watermills an even more impressive sight.",
+                "es": "Los arroyos aumentan con la lluvia, haciendo que los molinos costeros sean aún más impresionantes."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Castro da Aldeola",
                 "hu": "Castro da Aldeola",
                 "ro": "Castro da Aldeola",
-                "en": "Castro da Aldeola"
+                "en": "Castro da Aldeola",
+                "es": "Castro da Aldeola"
               },
               "tip_5lang": {
                 "de": "Die Steine der keltischen Ruinen können rutschig sein; treten Sie bei dieser verregneten Nachmittagswanderung vorsichtig auf.",
                 "hu": "A kelta romok kövei csúszósak lehetnek, óvatosan lépkedjen ezen az esős délutáni túrán.",
                 "ro": "Pietrele ruinelor celtice pot fi alunecoase; pășiți cu atenție pe această drumeție de după-amiază ploioasă.",
-                "en": "The stones of the Celtic ruins can be slippery; step carefully on this rainy afternoon hike."
+                "en": "The stones of the Celtic ruins can be slippery; step carefully on this rainy afternoon hike.",
+                "es": "Las piedras de las ruinas celtas pueden estar resbaladizas; camina con cuidado en esta ruta de tarde lluviosa."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Beginnen Sie den klaren Wintermorgen am alten Dolmen in warme Schichten gehüllt. Mittags beleuchtet die Wintersonne die Hügelgräber und das historische Herrenhaus. Genießen Sie nachmittags den Spaziergang zu den Wassermühlen in der frischen Meeresbrise. Beenden Sie die Tour an der keltischen Siedlung vor Sonnenuntergang.",
             "hu": "Kezdje a csípős téli reggelt az ősi dolmennél, meleg rétegekbe öltözve. Délben a téli napfény megvilágítja a halomsírokat és a történelmi udvarházat. Élvezze a délutáni sétát a vízimalmokhoz a friss óceáni szélben. Zárja a túrát a kelta település romjainál, még a korai, 17 óra körüli naplemente előtt.",
             "ro": "Începeți dimineața geroasă de iarnă la vechiul dolmen, îmbrăcați în straturi călduroase. La prânz, soarele de iarnă luminează tumulii și conacul istoric. Bucurați-vă de o plimbare după-amiaza spre morile de apă în briza oceanului. Încheiați turul la așezarea celtică înainte de apusul timpuriu din jurul orei 17:00.",
-            "en": "Begin your crisp winter morning at the ancient dolmen, wrapped in warm layers. By noon, the winter sun illuminates the burial mounds and the historic manor house. Enjoy the afternoon walk to the watermills, feeling the fresh ocean breeze. Conclude your tour at the Celtic settlement before the early sunset around 5 PM."
+            "en": "Begin your crisp winter morning at the ancient dolmen, wrapped in warm layers. By noon, the winter sun illuminates the burial mounds and the historic manor house. Enjoy the afternoon walk to the watermills, feeling the fresh ocean breeze. Conclude your tour at the Celtic settlement before the early sunset around 5 PM.",
+            "es": "Comienza la fresca mañana invernal en el antiguo dólmen, abrigado en capas. Al mediodía, el sol invernal ilumina los túmulos y el pazo histórico. Disfruta la tarde caminando hasta los molinos, sintiendo la fresca brisa marina. Concluye en el asentamiento celta antes de la puesta de sol temprana sobre las 17:00."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Pedra da Arca",
                 "hu": "Pedra da Arca",
                 "ro": "Pedra da Arca",
-                "en": "Pedra da Arca"
+                "en": "Pedra da Arca",
+                "es": "Pedra da Arca"
               },
               "tip_5lang": {
                 "de": "An kalten Wintermorgen ist der Dolmen ruhig; ziehen Sie sich für das offene Gelände warm an.",
                 "hu": "A hideg téli reggeleken a dolmen csendes és békés, öltözzön melegen a nyílt terepen.",
                 "ro": "În diminețile reci de iarnă, dolmenul este liniștit; îmbrăcați-vă gros pentru terenul deschis.",
-                "en": "On cold winter mornings, the dolmen is quiet and peaceful; dress warmly for the open terrain."
+                "en": "On cold winter mornings, the dolmen is quiet and peaceful; dress warmly for the open terrain.",
+                "es": "En frías mañanas invernales, el dólmen está tranquilo y pacífico; vístete abrigado para el terreno abierto."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Mámoas do Quente",
                 "hu": "Mámoas do Quente",
                 "ro": "Mámoas do Quente",
-                "en": "Mámoas do Quente"
+                "en": "Mámoas do Quente",
+                "es": "Mámoas do Quente"
               },
               "tip_5lang": {
                 "de": "Das Wintersonnenlicht beleuchtet die Gräber wunderschön; der gefrorene Boden macht das Gehen stabiler.",
                 "hu": "A téli napfény szépen megvilágítja a halmokat; a fagyos földön stabilabb a séta.",
                 "ro": "Lumina soarelui de iarnă iluminează frumos tumulii; pământul înghețat face mersul mai stabil.",
-                "en": "The winter sunlight beautifully illuminates the mounds; the frozen ground makes walking stabler."
+                "en": "The winter sunlight beautifully illuminates the mounds; the frozen ground makes walking stabler.",
+                "es": "La luz invernal ilumina bellamente los túmulos; el suelo helado puede hacer la caminata más estable."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Pazo de Loroxo",
                 "hu": "Pazo de Loroxo",
                 "ro": "Pazo de Loroxo",
-                "en": "Pazo de Loroxo"
+                "en": "Pazo de Loroxo",
+                "es": "Pazo de Loroxo"
               },
               "tip_5lang": {
                 "de": "Die Steinmauern dieses historischen Gebäudes wirken auch in der Winterkälte imposant, perfekt für Fotos.",
                 "hu": "A történelmi épület kőfalai a téli hidegben is impozánsak, érdemes fotózni.",
                 "ro": "Zidurile de piatră ale acestei clădiri istorice sunt impunătoare chiar și iarna, perfecte pentru fotografii.",
-                "en": "The stone walls of this historic building look imposing even in the winter cold, perfect for photos."
+                "en": "The stone walls of this historic building look imposing even in the winter cold, perfect for photos.",
+                "es": "Los muros de piedra de este edificio histórico resultan imponentes incluso en el frío invernal, perfectos para fotos."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Muíños de Ardeleiro",
                 "hu": "Muíños de Ardeleiro",
                 "ro": "Muíños de Ardeleiro",
-                "en": "Muíños de Ardeleiro"
+                "en": "Muíños de Ardeleiro",
+                "es": "Muíños de Ardeleiro"
               },
               "tip_5lang": {
                 "de": "Küstenwinde können im Winter stark sein; das Tragen von Mütze und Schal wird hier dringend empfohlen.",
                 "hu": "A tengerparti szél erős lehet télen, sapka és sál viselése erősen ajánlott a malmoknál.",
                 "ro": "Vânturile de coastă pot fi puternice iarna; purtarea unei căciuli și a unui fular este foarte recomandată aici.",
-                "en": "Coastal winds can be strong in winter; wearing a hat and scarf is highly recommended here."
+                "en": "Coastal winds can be strong in winter; wearing a hat and scarf is highly recommended here.",
+                "es": "Los vientos costeros pueden ser fuertes en invierno; gorro y bufanda son muy recomendables."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Castro da Aldeola",
                 "hu": "Castro da Aldeola",
                 "ro": "Castro da Aldeola",
-                "en": "Castro da Aldeola"
+                "en": "Castro da Aldeola",
+                "es": "Castro da Aldeola"
               },
               "tip_5lang": {
                 "de": "Kommen Sie früh, da es an den keltischen Ruinen im Winter bereits gegen 17 Uhr dunkel wird.",
                 "hu": "Érjen ide korán, mert a kelta romoknál már délután 5 körül sötétedni kezd télen.",
                 "ro": "Ajungeți devreme, deoarece la ruinele celtice începe să se întunece în jurul orei 17:00 iarna.",
-                "en": "Arrive early, as it starts getting dark around 5 PM at the Celtic ruins during the winter months."
+                "en": "Arrive early, as it starts getting dark around 5 PM at the Celtic ruins during the winter months.",
+                "es": "Llega temprano, ya que hacia las 17:00 empieza a oscurecer en las ruinas celtas durante el invierno."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Pedra da Arca",
             "hu": "Pedra da Arca",
             "ro": "Pedra da Arca",
-            "en": "Pedra da Arca"
+            "en": "Pedra da Arca",
+            "es": "Pedra da Arca"
           },
           "coords": [
             -8.817788,
@@ -329,7 +363,8 @@
             "de": "Entdecken Sie diesen faszinierenden Dolmen, ein prähistorisches Grabmal, das von den ersten Siedlern zeugt, und tragen Sie festes Schuhwerk für den unebenen Pfad dorthin.",
             "hu": "Fedezze fel ezt a lenyűgöző őskori dolment, amely a korai telepesek emlékét őrzi, de mindenképpen viseljen túracipőt az egyenetlen erdei ösvény miatt.",
             "ro": "Descoperiți acest dolmen preistoric fascinant care stă mărturie primilor locuitori ai regiunii, însă purtați încălțăminte robustă pentru poteca denivelată de acces.",
-            "en": "Discover this fascinating prehistoric dolmen that bears witness to the region's earliest settlers, but be sure to wear sturdy hiking shoes for the uneven forest trail."
+            "en": "Discover this fascinating prehistoric dolmen that bears witness to the region's earliest settlers, but be sure to wear sturdy hiking shoes for the uneven forest trail.",
+            "es": "Descubre este fascinante dólmen prehistórico que testimonia a los primeros pobladores de la zona; lleva calzado de senderismo resistente para el sendero irregular del bosque."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Mámoas do Quente",
             "hu": "Mámoas do Quente",
             "ro": "Mámoas do Quente",
-            "en": "Mámoas do Quente"
+            "en": "Mámoas do Quente",
+            "es": "Mámoas do Quente"
           },
           "coords": [
             -8.82395,
@@ -352,7 +388,8 @@
             "de": "Bestaunen Sie diese antiken Grabhügel, die tiefe Einblicke in steinzeitliche Riten bieten, und kommen Sie am besten am frühen Morgen, um die mystische Stimmung zu genießen.",
             "hu": "Csodálja meg ezeket az ősi sírhalmokat, amelyek betekintést nyújtanak a kőkorszaki rítusokba, és érkezzen kora reggel, hogy zavartalanul élvezhesse a misztikus hangulatot.",
             "ro": "Admirați aceste tumuli funerari antici care oferă indicii despre riturile din epoca de piatră și veniți dimineața devreme pentru a vă bucura de o atmosferă cu adevărat mistică.",
-            "en": "Marvel at these ancient burial mounds that offer deep insights into Stone Age rituals, and plan your visit for the early morning to fully appreciate the mystical atmosphere."
+            "en": "Marvel at these ancient burial mounds that offer deep insights into Stone Age rituals, and plan your visit for the early morning to fully appreciate the mystical atmosphere.",
+            "es": "Maravíllate con estos antiguos túmulos funerarios que ofrecen profundas pistas sobre los ritos del Neolítico; planifica la visita por la mañana temprano para apreciar su atmósfera mística."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Muíños de Ardeleiro",
             "hu": "Muíños de Ardeleiro",
             "ro": "Muíños de Ardeleiro",
-            "en": "Muíños de Ardeleiro"
+            "en": "Muíños de Ardeleiro",
+            "es": "Muíños de Ardeleiro"
           },
           "coords": [
             -8.788405,
@@ -375,7 +413,8 @@
             "de": "Erkunden Sie diese traditionellen Wassermühlen, die die landwirtschaftliche Geschichte der Küste prägen, und nehmen Sie sich Zeit, dem beruhigenden Rauschen zuzuhören.",
             "hu": "Fedezze fel ezeket a hagyományos vízimalmokat, amelyek a part menti mezőgazdasági múltat őrzik, és szánjon egy kis időt arra, hogy hallgassa a víz nyugtató csobogását.",
             "ro": "Explorați aceste mori de apă tradiționale care marchează istoria agricolă a coastei și rezervați-vă un moment liniștit pentru a asculta sunetul relaxant al apei.",
-            "en": "Explore these traditional water mills that shaped the coastal agricultural history, and take a quiet moment to listen to the soothing sound of the rushing stream."
+            "en": "Explore these traditional water mills that shaped the coastal agricultural history, and take a quiet moment to listen to the soothing sound of the rushing stream.",
+            "es": "Explora estos molinos de agua tradicionales que marcaron la historia agrícola costera y tómate un momento para escuchar el relajante sonido del arroyo."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Pazo de Loroxo",
             "hu": "Pazo de Loroxo",
             "ro": "Pazo de Loroxo",
-            "en": "Pazo de Loroxo"
+            "en": "Pazo de Loroxo",
+            "es": "Pazo de Loroxo"
           },
           "coords": [
             -8.793856,
@@ -398,7 +438,8 @@
             "de": "Bewundern Sie dieses historische Herrenhaus, das die lokale galicische Architektur perfekt repräsentiert, und achten Sie besonders auf die kunstvollen steinernen Wappen.",
             "hu": "Csodálja meg ezt a történelmi udvarházat, amely a galíciai építészet tökéletes példája, és figyelje meg a bejáratnál található, kőből faragott, részletgazdag családi címereket.",
             "ro": "Admirați acest conac istoric ce reprezintă arhitectura tradițională galiciană și acordați atenție deosebită blazoanelor de piatră bogat ornamentate de la intrarea principală.",
-            "en": "Admire this historic manor house which perfectly showcases traditional Galician architecture, and pay special attention to the intricately carved stone coats of arms."
+            "en": "Admire this historic manor house which perfectly showcases traditional Galician architecture, and pay special attention to the intricately carved stone coats of arms.",
+            "es": "Admira este pazo histórico que muestra la arquitectura tradicional gallega; fíjate en los escudos tallados en piedra."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Castro da Aldeola",
             "hu": "Castro da Aldeola",
             "ro": "Castro da Aldeola",
-            "en": "Castro da Aldeola"
+            "en": "Castro da Aldeola",
+            "es": "Castro da Aldeola"
           },
           "coords": [
             -8.79175,
@@ -421,7 +463,8 @@
             "de": "Wandern Sie durch die Überreste dieser keltischen Festungssiedlung, um die eiserne Vergangenheit zu spüren, und bringen Sie eine Kamera für die herrlichen Ausblicke mit.",
             "hu": "Barangoljon a kelta erődített falu maradványai között, hogy átérezze a vaskori múltat, és ne felejtsen el fényképezőgépet hozni a lenyűgöző táj megörökítéséhez.",
             "ro": "Plimbați-vă printre ruinele acestei așezări celtice fortificate pentru a simți istoria Epocii Fierului și aduceți o cameră foto pentru a capta peisajele impresionante.",
-            "en": "Wander through the remnants of this fortified Celtic settlement to connect with the Iron Age past, and make sure to bring a camera for the stunning panoramic landscape views."
+            "en": "Wander through the remnants of this fortified Celtic settlement to connect with the Iron Age past, and make sure to bring a camera for the stunning panoramic landscape views.",
+            "es": "Recorre los restos de este asentamiento celta fortificado para conectar con la Edad de Hierro; lleva cámara para las panorámicas del paisaje."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Igrexa de San Cristovo de Cerqueda",
             "hu": "Igrexa de San Cristovo de Cerqueda",
             "ro": "Igrexa de San Cristovo de Cerqueda",
-            "en": "Igrexa de San Cristovo de Cerqueda"
+            "en": "Igrexa de San Cristovo de Cerqueda",
+            "es": "Igrexa de San Cristovo de Cerqueda"
           },
           "coords": [
             -8.809212,
@@ -444,7 +488,8 @@
             "de": "Besuchen Sie diese charmante Pfarrkirche, die den spirituellen Mittelpunkt des Dorfes bildet, und respektieren Sie die Stille, da sie noch immer für Gottesdienste genutzt wird.",
             "hu": "Látogasson el ebbe a bájos plébániatemplomba, amely a falu spirituális központja, és tartsa tiszteletben a csendet, mivel a helyiek még ma is aktívan használják istentiszteletekre.",
             "ro": "Vizitați această biserică parohială fermecătoare, centrul spiritual al satului, și respectați liniștea locului deoarece este folosită în mod activ pentru slujbele locale.",
-            "en": "Visit this charming parish church that forms the spiritual heart of the village, and be sure to respect the quiet atmosphere as it is still actively used for local services."
+            "en": "Visit this charming parish church that forms the spiritual heart of the village, and be sure to respect the quiet atmosphere as it is still actively used for local services.",
+            "es": "Visita esta encantadora iglesia parroquial que es el corazón espiritual del pueblo; respeta el ambiente tranquilo, ya que sigue usándose para cultos locales."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Beginnen Sie den Morgen bei den mystischen prähistorischen Dolmen und Grabhügeln.\n\nMittags erkunden Sie traditionelle galicische Herrenhäuser in der sanften Hügellandschaft.\n\nNachmittags bieten historische Wassermühlen am Bachlauf eine beruhigende Kulisse.\n\nLassen Sie den Tag bei den faszinierenden Überresten der keltischen Siedlungen ausklingen.",
         "hu": "Kezdje a reggelt a misztikus őskori dolmenek és sírhalmok felfedezésével.\n\nDélben barangoljon a dombvidéken, és csodálja meg a galíciai udvarházakat.\n\nDélután a patak menti történelmi vízimalmok festői környezetet biztosítanak a pihenéshez.\n\nZárja a napot a kelta erődítmények lenyűgöző maradványainál az esti csendben.",
         "ro": "Începeți dimineața explorând dolmenele mistice și tumulii preistorici.\n\nLa prânz, descoperiți conacele tradiționale galiciene din peisajul rural pitoresc.\n\nDupă-amiaza, morile de apă istorice de-a lungul pârâului oferă un cadru relaxant.\n\nÎncheiați ziua admirând ruinele fascinante ale așezărilor celtice în liniștea serii.",
-        "en": "Start your morning exploring mystical prehistoric dolmens and mounds.\n\nAt midday, discover traditional Galician manor houses in the rolling countryside.\n\nIn the afternoon, historic water mills by the coastal streams provide a picturesque backdrop.\n\nEnd your day admiring fascinating remnants of ancient Celtic settlements."
+        "en": "Start your morning exploring mystical prehistoric dolmens and mounds.\n\nAt midday, discover traditional Galician manor houses in the rolling countryside.\n\nIn the afternoon, historic water mills by the coastal streams provide a picturesque backdrop.\n\nEnd your day admiring fascinating remnants of ancient Celtic settlements.",
+        "es": "Comienza la mañana explorando dólmenes y túmulos prehistóricos místicos.\n\nA mediodía, descubre pazos gallegos tradicionales en la campiña.\n\nPor la tarde, antiguos molinos junto a arroyos costeros ofrecen un telón pintoresco.\n\nTermina el día contemplando los fascinantes restos de asentamientos celtas."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Rüsten Sie Ihr Fahrrad mit Schutzblechen für die Fahrt zum Dolmen aus. Mittags navigieren Sie auf nassen Wegen zu den Hügelgräbern und den rauschenden Wassermühlen. Nachmittags erreichen Sie das Herrenhaus und die Ruinen; fahren Sie vorsichtig auf Schlamm. Beenden Sie die regnerische Tour an der örtlichen Kirche.",
             "hu": "Szereljen fel sárvédőt a nedves reggeli tekeréshez a dolmenhez. Délben óvatosan haladjon a vizes ösvényeken a halomsírok és a vízzel teli malmok felé. Délután a történelmi udvarház és a kelta romok következnek; tekerjen lassan a sárban. Zárja esős, de élményekkel teli útját a helyi templomnál, ahol menedéket talál.",
             "ro": "Echipați-vă bicicleta cu apărători de noroi pentru plimbarea matinală spre dolmen. La prânz, navigați pe traseele umede spre tumuli și morile de apă pline. După-amiaza vă aduce la conacul istoric și ruinele celtice; mergeți cu atenție pe noroi. Încheiați-vă traseul umed, dar plin de satisfacții, la biserica locală.",
-            "en": "Equip your bike with mudguards for a rainy morning ride to the dolmen. Around noon, navigate the wet trails to the mounds and the watermills, which roar with the rain. The afternoon brings you to the historic manor and the Celtic ruins; ride carefully. Finish your wet but rewarding cycle at the local church."
+            "en": "Equip your bike with mudguards for a rainy morning ride to the dolmen. Around noon, navigate the wet trails to the mounds and the watermills, which roar with the rain. The afternoon brings you to the historic manor and the Celtic ruins; ride carefully. Finish your wet but rewarding cycle at the local church.",
+            "es": "Equipa tu bici con guardabarros para una ruta matutina bajo la lluvia hasta el dólmen. Al mediodía, navega los senderos mojados hacia los túmulos y los molinos, que rugen con la lluvia. Por la tarde llegarás al pazo histórico y a las ruinas celtas; pedalea con cuidado. Finaliza el recorrido húmedo pero gratificante en la iglesia local."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Pedra da Arca",
                 "hu": "Pedra da Arca",
                 "ro": "Pedra da Arca",
-                "en": "Pedra da Arca"
+                "en": "Pedra da Arca",
+                "es": "Pedra da Arca"
               },
               "tip_5lang": {
                 "de": "Radeln Sie vorsichtig auf nassen Straßen zum Dolmen; Schutzbleche sind heute ein unverzichtbares Zubehör.",
                 "hu": "Kerékpározzon óvatosan a vizes utakon a dolmenhez, a sárvédő elengedhetetlen kiegészítő.",
                 "ro": "Pedalați cu atenție pe drumurile umede spre dolmen; apărătorile de noroi sunt accesorii esențiale azi.",
-                "en": "Cycle carefully on wet roads to the dolmen; mudguards are an essential accessory today."
+                "en": "Cycle carefully on wet roads to the dolmen; mudguards are an essential accessory today.",
+                "es": "Pedalea con cuidado por carreteras mojadas hasta el dólmen; los guardabarros son un accesorio imprescindible hoy."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Mámoas do Quente",
                 "hu": "Mámoas do Quente",
                 "ro": "Mámoas do Quente",
-                "en": "Mámoas do Quente"
+                "en": "Mámoas do Quente",
+                "es": "Mámoas do Quente"
               },
               "tip_5lang": {
                 "de": "Feldwege können überschwemmt sein, was die Fahrt zu den Hügelgräbern zu einer kleinen Herausforderung macht.",
                 "hu": "A földutak felázhatnak, így a halomsírokhoz való eljutás kisebb terep-kihívást jelent.",
                 "ro": "Cărările de pământ se pot inunda, transformând plimbarea spre tumuli într-o mică provocare off-road.",
-                "en": "Dirt tracks can become waterlogged, making the ride to the mounds a minor off-road challenge."
+                "en": "Dirt tracks can become waterlogged, making the ride to the mounds a minor off-road challenge.",
+                "es": "Los caminos de tierra pueden encharcarse, convirtiendo la ruta a los túmulos en un pequeño reto off-road."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Muíños de Ardeleiro",
                 "hu": "Muíños de Ardeleiro",
                 "ro": "Muíños de Ardeleiro",
-                "en": "Muíños de Ardeleiro"
+                "en": "Muíños de Ardeleiro",
+                "es": "Muíños de Ardeleiro"
               },
               "tip_5lang": {
                 "de": "Die nassen Steine um die Mühlen sind rutschig; schieben Sie Ihr Fahrrad besser auf dem letzten Abschnitt.",
                 "hu": "A malmok környéki nedves kövek csúsznak, inkább tolja a biciklit az utolsó szakaszon.",
                 "ro": "Pietrele umede din jurul morilor sunt alunecoase; este mai bine să împingeți bicicleta pe ultima porțiune.",
-                "en": "The wet stones around the mills are slippery; it's better to push your bike on the last section."
+                "en": "The wet stones around the mills are slippery; it's better to push your bike on the last section.",
+                "es": "Las piedras húmedas alrededor de los molinos son resbaladizas; es mejor empujar la bici en el último tramo."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Pazo de Loroxo",
                 "hu": "Pazo de Loroxo",
                 "ro": "Pazo de Loroxo",
-                "en": "Pazo de Loroxo"
+                "en": "Pazo de Loroxo",
+                "es": "Pazo de Loroxo"
               },
               "tip_5lang": {
                 "de": "Suchen Sie am Rastplatz neben dem Herrenhaus Schutz vor dem Regen, bis der stärkste Schauer vorüber ist.",
                 "hu": "Az udvarház melletti pihenőnél húzódjon be az eső elől, amíg elvonul a legnagyobb zápor.",
                 "ro": "Adăpostiți-vă de ploaie la locul de odihnă de lângă conac până când trece cea mai puternică aversă.",
-                "en": "Take shelter from the rain at the resting spot next to the manor until the heaviest shower passes."
+                "en": "Take shelter from the rain at the resting spot next to the manor until the heaviest shower passes.",
+                "es": "Refúgiate de la lluvia en el descanso junto al pazo hasta que pase el chaparrón más fuerte."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Castro da Aldeola",
                 "hu": "Castro da Aldeola",
                 "ro": "Castro da Aldeola",
-                "en": "Castro da Aldeola"
+                "en": "Castro da Aldeola",
+                "es": "Castro da Aldeola"
               },
               "tip_5lang": {
                 "de": "Der Weg bergauf zu den Ruinen kann schlammig sein; schalten Sie auf der rutschigen Straße in einen niedrigeren Gang.",
                 "hu": "A romokhoz vezető emelkedő sáros lehet, váltson alacsonyabb fokozatba a csúszós úton.",
                 "ro": "Poteca în urcare spre ruine poate fi noroioasă; schimbați într-o treaptă inferioară pe drumul alunecos.",
-                "en": "The uphill path to the ruins can be muddy; shift to a lower gear on the slippery road."
+                "en": "The uphill path to the ruins can be muddy; shift to a lower gear on the slippery road.",
+                "es": "La subida hacia las ruinas puede estar embarrada; baja a un desarrollo más ligero en la carretera resbaladiza."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Igrexa de San Cristovo de Cerqueda",
                 "hu": "Igrexa de San Cristovo de Cerqueda",
                 "ro": "Igrexa de San Cristovo de Cerqueda",
-                "en": "Igrexa de San Cristovo de Cerqueda"
+                "en": "Igrexa de San Cristovo de Cerqueda",
+                "es": "Igrexa de San Cristovo de Cerqueda"
               },
               "tip_5lang": {
                 "de": "Die Veranda der Kirche bietet Radfahrern einen hervorragenden Schutz, falls es plötzlich zu regnen beginnt.",
                 "hu": "A templom tornáca kiváló menedék a kerékpárosoknak, ha hirtelen eleredne az eső.",
                 "ro": "Pridvorul bisericii oferă un adăpost excelent pentru bicicliști dacă începe brusc să toarne cu găleata.",
-                "en": "The church porch provides an excellent shelter for cyclists if it suddenly starts pouring."
+                "en": "The church porch provides an excellent shelter for cyclists if it suddenly starts pouring.",
+                "es": "El pórtico de la iglesia ofrece un excelente refugio para ciclistas si empieza a llover a cántaros."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Packen Sie sich warm ein für eine frische Radtour zum Megalithgrab. Mittags hält Sie die kühle Luft an den Hügelgräbern und Küstenwassermühlen wach. Erkunden Sie nachmittags das alte Herrenhaus und die Siedlungsruinen, bevor die Temperatur sinkt. Erreichen Sie die Kirche gerade rechtzeitig vor der winterlichen Dämmerung.",
             "hu": "Öltözzön melegen a frissítő téli reggeli tekeréshez a megalitikus sírhoz. Délben a hűvös levegő ébren tartja a halomsírok és a tengerparti malmok között. Délután fedezze fel a régi udvarházat és a romokat, mielőtt a hőmérséklet hirtelen leesne. Érkezzen a történelmi templomhoz, épp amikor a téli szürkület beáll.",
             "ro": "Îmbrăcați-vă gros pentru o plimbare revigorantă de iarnă spre mormântul megalitic. La prânz, aerul rece vă menține proaspeți vizitând tumulii și morile de coastă. După-amiaza, explorați vechiul conac și ruinele înainte ca temperatura să scadă. Ajungeți la biserica istorică exact când se lasă crepusculul de iarnă.",
-            "en": "Bundle up for a brisk winter morning cycle to the megalithic tomb. By midday, the cool air keeps you refreshed as you visit the mounds and the coastal watermills. In the afternoon, explore the old manor and the settlement ruins before the temperature drops. Arrive at the historic church just as the winter twilight sets in."
+            "en": "Bundle up for a brisk winter morning cycle to the megalithic tomb. By midday, the cool air keeps you refreshed as you visit the mounds and the coastal watermills. In the afternoon, explore the old manor and the settlement ruins before the temperature drops. Arrive at the historic church just as the winter twilight sets in.",
+            "es": "Abrígate para una fresca ruta invernal en bici hasta la tumba megalítica. Al mediodía, el aire fresco te mantiene activo mientras visitas los túmulos y los molinos costeros. Por la tarde explora el pazo y las ruinas antes de que la temperatura baje. Llega a la iglesia histórica justo cuando cae el crepúsculo invernal."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Pedra da Arca",
                 "hu": "Pedra da Arca",
                 "ro": "Pedra da Arca",
-                "en": "Pedra da Arca"
+                "en": "Pedra da Arca",
+                "es": "Pedra da Arca"
               },
               "tip_5lang": {
                 "de": "Das Radeln in der Winterluft tut gut, aber an frostigen Morgen ist Zwiebellook nötig.",
                 "hu": "A csípős téli levegőben jól esik a tekerés, de a fagyos reggeleken réteges öltözködés kell.",
                 "ro": "Pedalarea este plăcută în aerul de iarnă, dar hainele în straturi sunt necesare în diminețile geroase.",
-                "en": "Pedaling feels great in the crisp winter air, but layered clothing is needed for frosty mornings."
+                "en": "Pedaling feels great in the crisp winter air, but layered clothing is needed for frosty mornings.",
+                "es": "Pedalear se siente bien en el aire invernal, pero lleva ropa por capas para las mañanas heladas."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Mámoas do Quente",
                 "hu": "Mámoas do Quente",
                 "ro": "Mámoas do Quente",
-                "en": "Mámoas do Quente"
+                "en": "Mámoas do Quente",
+                "es": "Mámoas do Quente"
               },
               "tip_5lang": {
                 "de": "Zwischen den kahlen Bäumen bieten die Winterlandschaft und die Gräber klare, weitreichende Ausblicke.",
                 "hu": "A kopasz fák között a téli táj és a halomsírok látványa tiszta, messzire ellátni.",
                 "ro": "Printre copacii goi, peisajul de iarnă și tumulii oferă vederi clare, la mare distanță.",
-                "en": "Among the bare trees, the winter landscape and the burial mounds offer clear, far-reaching views."
+                "en": "Among the bare trees, the winter landscape and the burial mounds offer clear, far-reaching views.",
+                "es": "Entre los árboles desnudos, el paisaje invernal y los túmulos ofrecen vistas claras y lejanas."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Muíños de Ardeleiro",
                 "hu": "Muíños de Ardeleiro",
                 "ro": "Muíños de Ardeleiro",
-                "en": "Muíños de Ardeleiro"
+                "en": "Muíños de Ardeleiro",
+                "es": "Muíños de Ardeleiro"
               },
               "tip_5lang": {
                 "de": "An den Mühlen kann kalter Seewind wehen; eine Windjacke und warme Handschuhe sind wichtig.",
                 "hu": "A parti malmoknál hideg tengeri szél fújhat, a széldzseki és a meleg kesztyű fontos.",
                 "ro": "Vânturi reci de mare pot sufla la morile de coastă; o jachetă de vânt și mănușile calde sunt importante.",
-                "en": "Cold sea winds may blow at the coastal mills; a windbreaker and warm gloves are important."
+                "en": "Cold sea winds may blow at the coastal mills; a windbreaker and warm gloves are important.",
+                "es": "Los fríos vientos marinos pueden soplar en los molinos costeros; un cortavientos y guantes calientes son importantes."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Pazo de Loroxo",
                 "hu": "Pazo de Loroxo",
                 "ro": "Pazo de Loroxo",
-                "en": "Pazo de Loroxo"
+                "en": "Pazo de Loroxo",
+                "es": "Pazo de Loroxo"
               },
               "tip_5lang": {
                 "de": "Die tiefstehende Wintersonne wirft wunderschöne Schatten auf die Steinmauern des historischen Herrenhauses.",
                 "hu": "A téli nap alacsonyan jár, gyönyörű árnyékokat vet a történelmi udvarház kőfalaira.",
                 "ro": "Soarele de iarnă coborât aruncă umbre frumoase pe zidurile de piatră ale conacului istoric.",
-                "en": "The low winter sun casts beautiful shadows on the stone walls of the historic manor house."
+                "en": "The low winter sun casts beautiful shadows on the stone walls of the historic manor house.",
+                "es": "El bajo sol invernal proyecta hermosas sombras sobre los muros de piedra de la casa señorial histórica."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Castro da Aldeola",
                 "hu": "Castro da Aldeola",
                 "ro": "Castro da Aldeola",
-                "en": "Castro da Aldeola"
+                "en": "Castro da Aldeola",
+                "es": "Castro da Aldeola"
               },
               "tip_5lang": {
                 "de": "Achten Sie beim Erkunden der Ruinen auf den frühen Sonnenuntergang; nehmen Sie Fahrradlichter mit.",
                 "hu": "A kelta romok felfedezése közben figyeljen a korai naplementére, legyen lámpája.",
                 "ro": "Fii atent la apusul timpuriu în timp ce explorezi ruinele celtice; asigură-te că ai lumini la bicicletă.",
-                "en": "Keep an eye on the early sunset while exploring the Celtic ruins; make sure you have bike lights."
+                "en": "Keep an eye on the early sunset while exploring the Celtic ruins; make sure you have bike lights.",
+                "es": "Atento al atardecer temprano mientras exploras las ruinas celtas; asegúrate de llevar luces para la bici."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Igrexa de San Cristovo de Cerqueda",
                 "hu": "Igrexa de San Cristovo de Cerqueda",
                 "ro": "Igrexa de San Cristovo de Cerqueda",
-                "en": "Igrexa de San Cristovo de Cerqueda"
+                "en": "Igrexa de San Cristovo de Cerqueda",
+                "es": "Igrexa de San Cristovo de Cerqueda"
               },
               "tip_5lang": {
                 "de": "Die stille Ruhe der Kirche ist ein perfekter Abschluss für eine kalte Winterradtour.",
                 "hu": "A tekerés végén a templom csendes nyugalma tökéletes lezárása a hideg téli túrának.",
                 "ro": "Liniștea tăcută a bisericii este o încheiere perfectă pentru o plimbare rece de iarnă.",
-                "en": "The quiet tranquility of the church is a perfect conclusion to a cold winter ride."
+                "en": "The quiet tranquility of the church is a perfect conclusion to a cold winter ride.",
+                "es": "La tranquila quietud de la iglesia es un final perfecto para una fría ruta invernal."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Muíños de Ardeleiro",
             "hu": "Muíños de Ardeleiro",
             "ro": "Muíños de Ardeleiro",
-            "en": "Muíños de Ardeleiro"
+            "en": "Muíños de Ardeleiro",
+            "es": "Muíños de Ardeleiro"
           },
           "coords": [
             -8.788405,
@@ -673,7 +746,8 @@
             "de": "Erkunden Sie diese traditionellen Wassermühlen, die die landwirtschaftliche Geschichte der Küste prägen, und nehmen Sie sich Zeit, dem beruhigenden Rauschen zuzuhören.",
             "hu": "Fedezze fel ezeket a hagyományos vízimalmokat, amelyek a part menti mezőgazdasági múltat őrzik, és szánjon egy kis időt arra, hogy hallgassa a víz nyugtató csobogását.",
             "ro": "Explorați aceste mori de apă tradiționale care marchează istoria agricolă a coastei și rezervați-vă un moment liniștit pentru a asculta sunetul relaxant al apei.",
-            "en": "Explore these traditional water mills that shaped the coastal agricultural history, and take a quiet moment to listen to the soothing sound of the rushing stream."
+            "en": "Explore these traditional water mills that shaped the coastal agricultural history, and take a quiet moment to listen to the soothing sound of the rushing stream.",
+            "es": "Explora estos tradicionales molinos de agua que modelaron la historia agrícola costera y tómate un momento para escuchar el relajante sonido del arroyo impetuoso."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Mámoas do Quente",
             "hu": "Mámoas do Quente",
             "ro": "Mámoas do Quente",
-            "en": "Mámoas do Quente"
+            "en": "Mámoas do Quente",
+            "es": "Mámoas do Quente"
           },
           "coords": [
             -8.82395,
@@ -696,7 +771,8 @@
             "de": "Bestaunen Sie diese antiken Grabhügel, die tiefe Einblicke in steinzeitliche Riten bieten, und kommen Sie am besten am frühen Morgen, um die mystische Stimmung zu genießen.",
             "hu": "Csodálja meg ezeket az ősi sírhalmokat, amelyek betekintést nyújtanak a kőkorszaki rítusokba, és érkezzen kora reggel, hogy zavartalanul élvezhesse a misztikus hangulatot.",
             "ro": "Admirați aceste tumuli funerari antici care oferă indicii despre riturile din epoca de piatră și veniți dimineața devreme pentru a vă bucura de o atmosferă cu adevărat mistică.",
-            "en": "Marvel at these ancient burial mounds that offer deep insights into Stone Age rituals, and plan your visit for the early morning to fully appreciate the mystical atmosphere."
+            "en": "Marvel at these ancient burial mounds that offer deep insights into Stone Age rituals, and plan your visit for the early morning to fully appreciate the mystical atmosphere.",
+            "es": "Maravíllate con estos antiguos túmulos funerarios que ofrecen una profunda visión de los rituales de la Edad de Piedra; planifica tu visita por la mañana temprano para apreciar plenamente la atmósfera mística."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Pedra da Arca",
             "hu": "Pedra da Arca",
             "ro": "Pedra da Arca",
-            "en": "Pedra da Arca"
+            "en": "Pedra da Arca",
+            "es": "Pedra da Arca"
           },
           "coords": [
             -8.817788,
@@ -719,7 +796,8 @@
             "de": "Entdecken Sie diesen faszinierenden Dolmen, ein prähistorisches Grabmal, das von den ersten Siedlern zeugt, und tragen Sie festes Schuhwerk für den unebenen Pfad dorthin.",
             "hu": "Fedezze fel ezt a lenyűgöző őskori dolment, amely a korai telepesek emlékét őrzi, de mindenképpen viseljen túracipőt az egyenetlen erdei ösvény miatt.",
             "ro": "Descoperiți acest dolmen preistoric fascinant care stă mărturie primilor locuitori ai regiunii, însă purtați încălțăminte robustă pentru poteca denivelată de acces.",
-            "en": "Discover this fascinating prehistoric dolmen that bears witness to the region's earliest settlers, but be sure to wear sturdy hiking shoes for the uneven forest trail."
+            "en": "Discover this fascinating prehistoric dolmen that bears witness to the region's earliest settlers, but be sure to wear sturdy hiking shoes for the uneven forest trail.",
+            "es": "Descubre este fascinante dolmen prehistórico que da testimonio de los primeros pobladores de la región; asegúrate de llevar calzado de senderismo resistente para el sendero forestal irregular."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Pazo de Taraio",
             "hu": "Pazo de Taraio",
             "ro": "Pazo de Taraio",
-            "en": "Pazo de Taraio"
+            "en": "Pazo de Taraio",
+            "es": "Pazo de Taraio"
           },
           "coords": [
             -8.821875,
@@ -742,7 +821,8 @@
             "de": "Betrachten Sie dieses elegante Landgut, das von der einstigen Macht lokaler Adelsfamilien zeugt, und bleiben Sie auf den öffentlichen Wegen, um die Privatsphäre zu wahren.",
             "hu": "Tekintse meg ezt az elegáns birtokot, amely a helyi nemesi családok egykori hatalmáról tanúskodik, és maradjon a kijelölt közutakon a lakók magánszférája miatt.",
             "ro": "Contemplați această moșie elegantă ce demonstrează puterea foștilor nobili locali și asigurați-vă că rămâneți pe drumurile publice pentru a nu deranja proprietatea privată.",
-            "en": "View this elegant country estate that testifies to the historical power of local noble families, and make sure to stay on the public pathways to respect residents' privacy."
+            "en": "View this elegant country estate that testifies to the historical power of local noble families, and make sure to stay on the public pathways to respect residents' privacy.",
+            "es": "Contempla esta elegante casa de campo que testifica el poder histórico de las familias nobles locales, y mantente en los caminos públicos para respetar la privacidad de los residentes."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Pazo de Cerqueda",
             "hu": "Pazo de Cerqueda",
             "ro": "Pazo de Cerqueda",
-            "en": "Pazo de Cerqueda"
+            "en": "Pazo de Cerqueda",
+            "es": "Pazo de Cerqueda"
           },
           "coords": [
             -8.805778,
@@ -765,7 +846,8 @@
             "de": "Erleben Sie die majestätische Ausstrahlung dieses alten Palastes, der tief in der Regionalgeschichte verwurzelt ist, und suchen Sie sich einen guten Standpunkt für Fotos.",
             "hu": "Tapasztalja meg ennek a regionális történelemben gyökerező régi palotának a fenséges kisugárzását, és keressen egy jó szöget a homlokzat építészeti fotózásához.",
             "ro": "Experimentați aura maiestuoasă a acestui palat vechi cu rădăcini adânci în istoria regională și găsiți un unghi potrivit pentru a fotografia detaliile fațadei impunătoare.",
-            "en": "Experience the majestic aura of this old palace deeply rooted in regional history, and take your time finding the perfect angle to photograph its impressive traditional facade."
+            "en": "Experience the majestic aura of this old palace deeply rooted in regional history, and take your time finding the perfect angle to photograph its impressive traditional facade.",
+            "es": "Siente el aura majestuosa de este antiguo pazo profundamente enraizado en la historia regional, y tómate tiempo para encontrar el mejor ángulo para fotografiar su impresionante fachada tradicional."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Pazo de Arixón",
             "hu": "Pazo de Arixón",
             "ro": "Pazo de Arixón",
-            "en": "Pazo de Arixón"
+            "en": "Pazo de Arixón",
+            "es": "Pazo de Arixón"
           },
           "coords": [
             -8.801588,
@@ -788,7 +871,8 @@
             "de": "Entdecken Sie die rustikale Schönheit dieses weiteren Herrenhauses der Region und verbinden Sie den Besuch mit einem gemütlichen Spaziergang durch ländliche Wege.",
             "hu": "Fedezze fel ennek a régióbeli udvarháznak a rusztikus szépségét, és kösse össze a látogatást egy kellemes sétával a környező, békés vidéki mellékutakon.",
             "ro": "Descoperiți frumusețea rustică a acestui alt conac important din regiune și combinați vizita cu o plimbare relaxantă pe potecile rurale pitorești din imediata apropiere.",
-            "en": "Discover the rustic beauty of this significant regional manor house, and seamlessly combine your visit with a relaxing stroll along the picturesque rural paths nearby."
+            "en": "Discover the rustic beauty of this significant regional manor house, and seamlessly combine your visit with a relaxing stroll along the picturesque rural paths nearby.",
+            "es": "Descubre la belleza rústica de esta importante casa señorial de la región y combina la visita con un relajante paseo por los pintorescos caminos rurales cercanos."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Igrexa de San Cristovo de Cerqueda",
             "hu": "Igrexa de San Cristovo de Cerqueda",
             "ro": "Igrexa de San Cristovo de Cerqueda",
-            "en": "Igrexa de San Cristovo de Cerqueda"
+            "en": "Igrexa de San Cristovo de Cerqueda",
+            "es": "Igrexa de San Cristovo de Cerqueda"
           },
           "coords": [
             -8.809212,
@@ -811,7 +896,8 @@
             "de": "Besuchen Sie diese charmante Pfarrkirche, die den spirituellen Mittelpunkt des Dorfes bildet, und respektieren Sie die Stille, da sie noch immer für Gottesdienste genutzt wird.",
             "hu": "Látogasson el ebbe a bájos plébániatemplomba, amely a falu spirituális központja, és tartsa tiszteletben a csendet, mivel a helyiek még ma is aktívan használják istentiszteletekre.",
             "ro": "Vizitați această biserică parohială fermecătoare, centrul spiritual al satului, și respectați liniștea locului deoarece este folosită în mod activ pentru slujbele locale.",
-            "en": "Visit this charming parish church that forms the spiritual heart of the village, and be sure to respect the quiet atmosphere as it is still actively used for local services."
+            "en": "Visit this charming parish church that forms the spiritual heart of the village, and be sure to respect the quiet atmosphere as it is still actively used for local services.",
+            "es": "Visita esta encantadora iglesia parroquial que forma el corazón espiritual del pueblo; respeta la tranquilidad ya que aún se usa activamente para los servicios locales."
           }
         },
         {
@@ -819,7 +905,8 @@
             "de": "Castro da Aldeola",
             "hu": "Castro da Aldeola",
             "ro": "Castro da Aldeola",
-            "en": "Castro da Aldeola"
+            "en": "Castro da Aldeola",
+            "es": "Castro da Aldeola"
           },
           "coords": [
             -8.79175,
@@ -834,7 +921,8 @@
             "de": "Wandern Sie durch die Überreste dieser keltischen Festungssiedlung, um die eiserne Vergangenheit zu spüren, und bringen Sie eine Kamera für die herrlichen Ausblicke mit.",
             "hu": "Barangoljon a kelta erődített falu maradványai között, hogy átérezze a vaskori múltat, és ne felejtsen el fényképezőgépet hozni a lenyűgöző táj megörökítéséhez.",
             "ro": "Plimbați-vă printre ruinele acestei așezări celtice fortificate pentru a simți istoria Epocii Fierului și aduceți o cameră foto pentru a capta peisajele impresionante.",
-            "en": "Wander through the remnants of this fortified Celtic settlement to connect with the Iron Age past, and make sure to bring a camera for the stunning panoramic landscape views."
+            "en": "Wander through the remnants of this fortified Celtic settlement to connect with the Iron Age past, and make sure to bring a camera for the stunning panoramic landscape views.",
+            "es": "Recorre los restos de este asentamiento celta fortificado para conectar con el pasado de la Edad del Hierro, y no olvides llevar una cámara para las impresionantes vistas panorámicas."
           }
         }
       ],
@@ -842,7 +930,8 @@
         "de": "Beginnen Sie den Morgen bei den mystischen prähistorischen Dolmen und Grabhügeln.\n\nMittags erkunden Sie traditionelle galicische Herrenhäuser in der sanften Hügellandschaft.\n\nNachmittags bieten historische Wassermühlen am Bachlauf eine beruhigende Kulisse.\n\nLassen Sie den Tag bei den faszinierenden Überresten der keltischen Siedlungen ausklingen.",
         "hu": "Kezdje a reggelt a misztikus őskori dolmenek és sírhalmok felfedezésével.\n\nDélben barangoljon a dombvidéken, és csodálja meg a galíciai udvarházakat.\n\nDélután a patak menti történelmi vízimalmok festői környezetet biztosítanak a pihenéshez.\n\nZárja a napot a kelta erődítmények lenyűgöző maradványainál az esti csendben.",
         "ro": "Începeți dimineața explorând dolmenele mistice și tumulii preistorici.\n\nLa prânz, descoperiți conacele tradiționale galiciene din peisajul rural pitoresc.\n\nDupă-amiaza, morile de apă istorice de-a lungul pârâului oferă un cadru relaxant.\n\nÎncheiați ziua admirând ruinele fascinante ale așezărilor celtice în liniștea serii.",
-        "en": "Start your morning exploring mystical prehistoric dolmens and mounds.\n\nAt midday, discover traditional Galician manor houses in the rolling countryside.\n\nIn the afternoon, historic water mills by the coastal streams provide a picturesque backdrop.\n\nEnd your day admiring fascinating remnants of ancient Celtic settlements."
+        "en": "Start your morning exploring mystical prehistoric dolmens and mounds.\n\nAt midday, discover traditional Galician manor houses in the rolling countryside.\n\nIn the afternoon, historic water mills by the coastal streams provide a picturesque backdrop.\n\nEnd your day admiring fascinating remnants of ancient Celtic settlements.",
+        "es": "Comienza la mañana explorando místicos dólmenes y túmulos prehistóricos.\n\nAl mediodía, descubre las casas señoriales tradicionales gallegas en la campiña ondulada.\n\nPor la tarde, los históricos molinos de agua junto a los arroyos costeros ofrecen un escenario pintoresco.\n\nTermina el día admirando los fascinantes restos de antiguos asentamientos celtas."
       },
       "variants": {
         "rainy": {
@@ -850,7 +939,8 @@
             "de": "Fahren Sie an diesem regnerischen Morgen sicher zu den Küstenwassermühlen. Mittags bietet das Auto tollen Schutz zwischen den Hügelgräbern, dem Dolmen und dem Herrenhaus Taraio. Der nasse Nachmittag geht weiter mit einer Fahrt vorbei an historischen Herrenhäusern. Schließen Sie an der Kirche und den Ruinen ab.",
             "hu": "Vezessen óvatosan az esős reggelen a tengerparti vízimalmokhoz, figyelve a patakokat. Délben az autó kiváló menedéket nyújt a halomsírok, a dolmen és a Taraio udvarház között. A nedves délután a Cerqueda és Arixón udvarházak felfedezésével folytatódik. Zárja a napot a templomnál és a romoknál, esernyővel a kézben.",
             "ro": "Conduceți cu prudență în această dimineață ploioasă spre morile de coastă. La prânz, mașina oferă un adăpost excelent între tumuli, dolmen și conacul Taraio. După-amiaza umedă continuă cu o plimbare pe lângă conacele istorice Cerqueda și Arixón. Încheiați la biserică și ruine cu o umbrelă la îndemână.",
-            "en": "Drive safely this rainy morning to the coastal watermills, watching the swelling streams. By midday, the car offers great shelter between visits to the mounds, dolmen, and Taraio manor. The wet afternoon continues with a drive past the historic Cerqueda and Arixón manors. Conclude at the church and ruins with an umbrella."
+            "en": "Drive safely this rainy morning to the coastal watermills, watching the swelling streams. By midday, the car offers great shelter between visits to the mounds, dolmen, and Taraio manor. The wet afternoon continues with a drive past the historic Cerqueda and Arixón manors. Conclude at the church and ruins with an umbrella.",
+            "es": "Conduce con precaución esta mañana lluviosa hacia los molinos costeros, observando los arroyos crecidos. Al mediodía, el coche ofrece un buen refugio entre visitas a los túmulos, el dólmen y el pazo de Taraio. La tarde húmeda continúa con un paseo en coche junto a los pazos históricos de Cerqueda y Arixón. Finaliza en la iglesia y las ruinas con un paraguas."
           },
           "stops": [
             {
@@ -858,13 +948,15 @@
                 "de": "Muíños de Ardeleiro",
                 "hu": "Muíños de Ardeleiro",
                 "ro": "Muíños de Ardeleiro",
-                "en": "Muíños de Ardeleiro"
+                "en": "Muíños de Ardeleiro",
+                "es": "Muíños de Ardeleiro"
               },
               "tip_5lang": {
                 "de": "Gehen Sie vorsichtig vom Parkplatz zu den angeschwollenen Mühlen; hier ist ein Regenschirm nötig.",
                 "hu": "A parkolótól óvatosan sétáljon a megduzzadt vizű malmokhoz, esernyő is szükséges.",
                 "ro": "Mergeți cu atenție din parcare spre morile umflate; o umbrelă este necesară aici.",
-                "en": "Walk carefully from the parking lot to the swollen watermills; an umbrella is necessary here."
+                "en": "Walk carefully from the parking lot to the swollen watermills; an umbrella is necessary here.",
+                "es": "Camina con cuidado desde el aparcamiento hasta los molinos de agua crecidos; aquí es necesario un paraguas."
               }
             },
             {
@@ -872,13 +964,15 @@
                 "de": "Mámoas do Quente",
                 "hu": "Mámoas do Quente",
                 "ro": "Mámoas do Quente",
-                "en": "Mámoas do Quente"
+                "en": "Mámoas do Quente",
+                "es": "Mámoas do Quente"
               },
               "tip_5lang": {
                 "de": "Wenn Sie aus Ihrem beheizten Auto steigen, erreichen Sie die Gräber nach einem kurzen, nassen Spaziergang.",
                 "hu": "A halomsírokat az autó fűtött kényelméből kiszállva rövid, vizes sétával érheti el.",
                 "ro": "Ieșind din mașina încălzită, puteți ajunge la tumuli printr-o scurtă plimbare umedă.",
-                "en": "Stepping out of your heated car, you can reach the burial mounds with a short, wet walk."
+                "en": "Stepping out of your heated car, you can reach the burial mounds with a short, wet walk.",
+                "es": "Bajando del coche caliente, puedes alcanzar los túmulos con una corta caminata húmeda."
               }
             },
             {
@@ -886,13 +980,15 @@
                 "de": "Pedra da Arca",
                 "hu": "Pedra da Arca",
                 "ro": "Pedra da Arca",
-                "en": "Pedra da Arca"
+                "en": "Pedra da Arca",
+                "es": "Pedra da Arca"
               },
               "tip_5lang": {
                 "de": "Nach dem Parken nähern Sie sich dem Dolmen am besten mit wasserdichten Schuhen über das nasse Gras.",
                 "hu": "A dolmen melletti parkolás után vízálló cipőben érdemes megközelíteni a nedves füvön.",
                 "ro": "După ce parcați lângă dolmen, cel mai bine este să-l abordați pe iarba umedă în pantofi impermeabili.",
-                "en": "After parking near the dolmen, it is best to approach it over the wet grass in waterproof shoes."
+                "en": "After parking near the dolmen, it is best to approach it over the wet grass in waterproof shoes.",
+                "es": "Tras aparcar cerca del dólmen, es mejor acercarse por la hierba mojada con calzado impermeable."
               }
             },
             {
@@ -900,13 +996,15 @@
                 "de": "Pazo de Taraio",
                 "hu": "Pazo de Taraio",
                 "ro": "Pazo de Taraio",
-                "en": "Pazo de Taraio"
+                "en": "Pazo de Taraio",
+                "es": "Pazo de Taraio"
               },
               "tip_5lang": {
                 "de": "Die regennasse Fassade dieses imposanten Herrenhauses bietet auch vom Auto aus einen romantischen Anblick.",
                 "hu": "Az impozáns udvarház eső áztatta homlokzata romantikus látványt nyújt az autóból is.",
                 "ro": "Fațada îmbibată de ploaie a acestui conac impunător oferă o priveliște romantică chiar și din mașină.",
-                "en": "The rain-soaked facade of this imposing manor house offers a romantic sight even from the car."
+                "en": "The rain-soaked facade of this imposing manor house offers a romantic sight even from the car.",
+                "es": "La fachada empapada de lluvia de este imponente pazo ofrece una imagen romántica incluso desde el coche."
               }
             },
             {
@@ -914,13 +1012,15 @@
                 "de": "Pazo de Cerqueda",
                 "hu": "Pazo de Cerqueda",
                 "ro": "Pazo de Cerqueda",
-                "en": "Pazo de Cerqueda"
+                "en": "Pazo de Cerqueda",
+                "es": "Pazo de Cerqueda"
               },
               "tip_5lang": {
                 "de": "Wenn es stark regnet, lohnt es sich, für einen Moment neben den massiven Mauern des Herrenhauses anzuhalten.",
                 "hu": "Ha nagyon esik, az udvarház masszív falai mellett érdemes egy pillanatra megállni.",
                 "ro": "Dacă plouă puternic, merită să vă opriți un moment lângă zidurile masive ale conacului.",
-                "en": "If it rains heavily, it's worth stopping for a moment next to the massive walls of the manor."
+                "en": "If it rains heavily, it's worth stopping for a moment next to the massive walls of the manor.",
+                "es": "Si llueve mucho, merece la pena detenerse un momento junto a los muros macizos del pazo."
               }
             },
             {
@@ -928,13 +1028,15 @@
                 "de": "Pazo de Arixón",
                 "hu": "Pazo de Arixón",
                 "ro": "Pazo de Arixón",
-                "en": "Pazo de Arixón"
+                "en": "Pazo de Arixón",
+                "es": "Pazo de Arixón"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf nasse, rutschige Straßen rund um das Anwesen; fahren Sie auf schmalen Abschnitten langsam.",
                 "hu": "Figyeljen a vizes, csúszós utakra a birtok környékén, lassan vezessen a szűk részeken.",
                 "ro": "Atenție la drumurile umede și alunecoase din jurul moșiei; conduceți încet prin secțiunile înguste.",
-                "en": "Watch out for wet, slippery roads around the estate; drive slowly through the narrow sections."
+                "en": "Watch out for wet, slippery roads around the estate; drive slowly through the narrow sections.",
+                "es": "Atento a las carreteras mojadas y resbaladizas alrededor de la finca; conduce despacio en los tramos estrechos."
               }
             },
             {
@@ -942,13 +1044,15 @@
                 "de": "Igrexa de San Cristovo de Cerqueda",
                 "hu": "Igrexa de San Cristovo de Cerqueda",
                 "ro": "Igrexa de San Cristovo de Cerqueda",
-                "en": "Igrexa de San Cristovo de Cerqueda"
+                "en": "Igrexa de San Cristovo de Cerqueda",
+                "es": "Igrexa de San Cristovo de Cerqueda"
               },
               "tip_5lang": {
                 "de": "Sie können dem Schauer in der Kirche entfliehen, während Sie Regentropfen an den Steinmauern beobachten.",
                 "hu": "A templomba menekülhet a zápor elől, amíg az esőcseppeket figyeli a kőfalakon.",
                 "ro": "Puteți scăpa de aversă în interiorul bisericii, în timp ce priviți picăturile de ploaie pe zidurile de piatră.",
-                "en": "You can escape the showers inside the church while watching raindrops on the stone walls."
+                "en": "You can escape the showers inside the church while watching raindrops on the stone walls.",
+                "es": "Puedes refugiarte de los chaparrones dentro de la iglesia mientras observas las gotas de lluvia en los muros de piedra."
               }
             },
             {
@@ -956,13 +1060,15 @@
                 "de": "Castro da Aldeola",
                 "hu": "Castro da Aldeola",
                 "ro": "Castro da Aldeola",
-                "en": "Castro da Aldeola"
+                "en": "Castro da Aldeola",
+                "es": "Castro da Aldeola"
               },
               "tip_5lang": {
                 "de": "Bei Regen ist die Landschaft atemberaubend, aber bleiben Sie wegen des Schlamms in der Nähe des Autos.",
                 "hu": "A romoknál esőben is lenyűgöző a táj, de tartózkodjon az autó közelében a sár miatt.",
                 "ro": "Peisajul este uimitor în ploaie la ruine, dar rămâneți aproape de mașină din cauza noroiului.",
-                "en": "The landscape is stunning in the rain at the ruins, but stay close to the car due to the mud."
+                "en": "The landscape is stunning in the rain at the ruins, but stay close to the car due to the mud.",
+                "es": "El paisaje es impresionante bajo la lluvia en las ruinas, pero permanece cerca del coche por el barro."
               }
             }
           ]
@@ -972,7 +1078,8 @@
             "de": "Beginnen Sie den Winterausflug mit Heizung und erreichen Sie die malerischen Wassermühlen. Die mittägliche Fahrt bringt Sie bequem zu den alten Gräbern und dem Herrenhaus Taraio. Verbringen Sie den Nachmittag bei den Herrenhäusern Cerqueda und Arixón im klaren Winterlicht. Beenden Sie die Tour vor dem frühen Sonnenuntergang.",
             "hu": "Kezdje a téli utazást bekapcsolt fűtéssel a festői vízimalmoknál. A déli vezetés kényelmesen eljuttatja az ősi temetkezési helyekhez és a Taraio udvarházhoz. Töltse a délutánt a Cerqueda és Arixón udvarházaknál a tiszta téli fényekben. Fejezze be az utat a templomnál és a romoknál a korai, 17 órás naplemente előtt.",
             "ro": "Începeți excursia de iarnă cu căldura pornită la morile de apă pitorești. Condusul la prânz vă aduce confortabil la mormintele antice și conacul Taraio. Petreceți după-amiaza explorând conacele Cerqueda și Arixón în lumina clară de iarnă. Încheiați la biserică și ruine înainte de apusul de la ora 17:00.",
-            "en": "Start your winter road trip with the heater on, arriving at the picturesque watermills. Midday driving brings you comfortably to the ancient burial sites and the historic Taraio manor. Spend the afternoon exploring the Cerqueda and Arixón manors in the clear winter light. Wrap up at the church and ruins before the 5 PM sunset."
+            "en": "Start your winter road trip with the heater on, arriving at the picturesque watermills. Midday driving brings you comfortably to the ancient burial sites and the historic Taraio manor. Spend the afternoon exploring the Cerqueda and Arixón manors in the clear winter light. Wrap up at the church and ruins before the 5 PM sunset.",
+            "es": "Comienza tu ruta invernal por carretera con la calefacción puesta, llegando a los pintorescos molinos. Al mediodía conduce cómodamente hasta los antiguos túmulos y el histórico pazo de Taraio. Pasa la tarde explorando los pazos de Cerqueda y Arixón con la clara luz invernal. Termina en la iglesia y las ruinas antes del atardecer, alrededor de las 17:00."
           },
           "stops": [
             {
@@ -980,13 +1087,15 @@
                 "de": "Muíños de Ardeleiro",
                 "hu": "Muíños de Ardeleiro",
                 "ro": "Muíños de Ardeleiro",
-                "en": "Muíños de Ardeleiro"
+                "en": "Muíños de Ardeleiro",
+                "es": "Muíños de Ardeleiro"
               },
               "tip_5lang": {
                 "de": "Die Winterküste kann eiskalt sein; genießen Sie die Heizung, bevor Sie aussteigen, um die Mühlen zu sehen.",
                 "hu": "A téli tengerpart fagyos lehet, élvezze a fűtést, mielőtt kiszáll megnézni a malmokat.",
                 "ro": "Coasta de iarnă poate fi înghețată; bucurați-vă de încălzire înainte de a ieși să vedeți morile.",
-                "en": "The winter coast can be freezing; enjoy the heater before stepping out to see the mills."
+                "en": "The winter coast can be freezing; enjoy the heater before stepping out to see the mills.",
+                "es": "La costa invernal puede ser heladora; disfruta de la calefacción antes de salir a ver los molinos."
               }
             },
             {
@@ -994,13 +1103,15 @@
                 "de": "Mámoas do Quente",
                 "hu": "Mámoas do Quente",
                 "ro": "Mámoas do Quente",
-                "en": "Mámoas do Quente"
+                "en": "Mámoas do Quente",
+                "es": "Mámoas do Quente"
               },
               "tip_5lang": {
                 "de": "Die winterliche Ruhe der Gräber wird perfekt durch heißen Tee aus dem Auto ergänzt.",
                 "hu": "A halomsírok téli nyugalmát jól kiegészíti egy forró tea az autó melegéből.",
                 "ro": "Liniștea de iarnă a tumulilor este perfect completată de un ceai fierbinte din mașină.",
-                "en": "The winter tranquility of the burial mounds is perfectly complemented by hot tea from the car."
+                "en": "The winter tranquility of the burial mounds is perfectly complemented by hot tea from the car.",
+                "es": "La tranquilidad invernal de los túmulos se complementa perfectamente con un té caliente desde el coche."
               }
             },
             {
@@ -1008,13 +1119,15 @@
                 "de": "Pedra da Arca",
                 "hu": "Pedra da Arca",
                 "ro": "Pedra da Arca",
-                "en": "Pedra da Arca"
+                "en": "Pedra da Arca",
+                "es": "Pedra da Arca"
               },
               "tip_5lang": {
                 "de": "Der gefrorene Boden erleichtert die Annäherung an den Dolmen; Wintersonne sorgt für schöne Fotos.",
                 "hu": "A fagyott talajon könnyebb megközelíteni a dolment, a téli napsütés szép fotókat ad.",
                 "ro": "Pământul înghețat face apropierea de dolmen mai ușoară; soarele de iarnă oferă fotografii frumoase.",
-                "en": "The frozen ground makes approaching the dolmen easier; winter sunshine provides beautiful photos."
+                "en": "The frozen ground makes approaching the dolmen easier; winter sunshine provides beautiful photos.",
+                "es": "El suelo helado facilita acercarse al dólmen; el sol invernal ofrece fotos preciosas."
               }
             },
             {
@@ -1022,13 +1135,15 @@
                 "de": "Pazo de Taraio",
                 "hu": "Pazo de Taraio",
                 "ro": "Pazo de Taraio",
-                "en": "Pazo de Taraio"
+                "en": "Pazo de Taraio",
+                "es": "Pazo de Taraio"
               },
               "tip_5lang": {
                 "de": "Die Bäume rund um das historische Gebäude sind im Winter kahl, wodurch die Architektur besser zur Geltung kommt.",
                 "hu": "A történelmi épület körüli fák csupaszok télen, így az építészet jobban érvényesül.",
                 "ro": "Copacii din jurul clădirii istorice sunt goi iarna, permițând arhitecturii să iasă mai mult în evidență.",
-                "en": "The trees around the historic building are bare in winter, letting the architecture stand out more."
+                "en": "The trees around the historic building are bare in winter, letting the architecture stand out more.",
+                "es": "Los árboles alrededor del edificio histórico están desnudos en invierno, lo que hace que la arquitectura destaque más."
               }
             },
             {
@@ -1036,13 +1151,15 @@
                 "de": "Pazo de Cerqueda",
                 "hu": "Pazo de Cerqueda",
                 "ro": "Pazo de Cerqueda",
-                "en": "Pazo de Cerqueda"
+                "en": "Pazo de Cerqueda",
+                "es": "Pazo de Cerqueda"
               },
               "tip_5lang": {
                 "de": "Das Nachmittagslicht im Winter hebt die Details des Steingebäudes hervor; halten Sie für ein schnelles Foto an.",
                 "hu": "A téli délutáni fények kiemelik a kőépület részleteit, álljon meg egy gyors fotóra.",
                 "ro": "Luminile de după-amiază de iarnă scot în evidență detaliile clădirii de piatră; opriți pentru o fotografie.",
-                "en": "Winter afternoon lights highlight the details of the stone building; stop for a quick photo."
+                "en": "Winter afternoon lights highlight the details of the stone building; stop for a quick photo.",
+                "es": "Las luces de la tarde invernal resaltan los detalles del edificio de piedra; para en seco para una foto rápida."
               }
             },
             {
@@ -1050,13 +1167,15 @@
                 "de": "Pazo de Arixón",
                 "hu": "Pazo de Arixón",
                 "ro": "Pazo de Arixón",
-                "en": "Pazo de Arixón"
+                "en": "Pazo de Arixón",
+                "es": "Pazo de Arixón"
               },
               "tip_5lang": {
                 "de": "Straßen können durch Frost rutschig sein; fahren Sie vorsichtig auf dem Weg zum Anwesen.",
                 "hu": "Az utak olykor csúszhatnak a fagy miatt, vezessen körültekintően a birtokhoz vezető úton.",
                 "ro": "Drumurile pot fi uneori alunecoase din cauza înghețului; conduceți cu grijă pe drumul spre moșie.",
-                "en": "Roads can sometimes be slippery due to frost; drive carefully on the path leading to the estate."
+                "en": "Roads can sometimes be slippery due to frost; drive carefully on the path leading to the estate.",
+                "es": "Las carreteras pueden estar resbaladizas por las heladas; conduce con cuidado por el camino que lleva a la finca."
               }
             },
             {
@@ -1064,13 +1183,15 @@
                 "de": "Igrexa de San Cristovo de Cerqueda",
                 "hu": "Igrexa de San Cristovo de Cerqueda",
                 "ro": "Igrexa de San Cristovo de Cerqueda",
-                "en": "Igrexa de San Cristovo de Cerqueda"
+                "en": "Igrexa de San Cristovo de Cerqueda",
+                "es": "Igrexa de San Cristovo de Cerqueda"
               },
               "tip_5lang": {
                 "de": "In der kalten Steinkirche berührt Sie die winterliche Stille und Ehrfurcht vielleicht noch tiefer.",
                 "hu": "A hideg kőtemplomban a téli csend és áhítat még mélyebben megérintheti.",
                 "ro": "În biserica de piatră rece, tăcerea și reverența de iarnă vă pot atinge și mai profund.",
-                "en": "In the cold stone church, the winter silence and reverence may touch you even more deeply."
+                "en": "In the cold stone church, the winter silence and reverence may touch you even more deeply.",
+                "es": "En la fría iglesia de piedra, el silencio y la reverencia invernales pueden conmoverte aún más."
               }
             },
             {
@@ -1078,13 +1199,15 @@
                 "de": "Castro da Aldeola",
                 "hu": "Castro da Aldeola",
                 "ro": "Castro da Aldeola",
-                "en": "Castro da Aldeola"
+                "en": "Castro da Aldeola",
+                "es": "Castro da Aldeola"
               },
               "tip_5lang": {
                 "de": "Die Sonne geht schon früh gegen 17 Uhr unter; planen Sie Ihren Besuch so, dass Sie den Wintersonnenuntergang erleben.",
                 "hu": "A nap hamar, már 17 óra körül lemegy, így időzze a látogatást a gyönyörű téli naplementére.",
                 "ro": "Soarele apune devreme, pe la ora 17:00, așa că programați-vă vizita pentru a prinde apusul de iarnă.",
-                "en": "The sun sets early, around 5 PM, so time your visit to catch the beautiful winter sunset."
+                "en": "The sun sets early, around 5 PM, so time your visit to catch the beautiful winter sunset.",
+                "es": "El sol se pone pronto, alrededor de las 17:00, así que ajusta tu visita para ver el bello atardecer invernal."
               }
             }
           ]

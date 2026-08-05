@@ -31,7 +31,8 @@
             "de": "Frühmorgens sind die Gassen am ruhigsten.",
             "hu": "Kora reggel a legcsendesebbek a szűk utcák.",
             "ro": "Străduțele sunt cele mai liniștite dimineața devreme.",
-            "en": "The narrow streets are quietest early in the morning."
+            "en": "The narrow streets are quietest early in the morning.",
+            "es": "Las calles estrechas están más tranquilas a primera hora de la mañana."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Perfekter Ort für ein Panoramafoto der Kirche.",
             "hu": "Tökéletes helyszín a templom fotózásához.",
             "ro": "Locul perfect pentru o fotografie panoramică a bisericii.",
-            "en": "Perfect spot for a panoramic photo of the church."
+            "en": "Perfect spot for a panoramic photo of the church.",
+            "es": "Lugar perfecto para una foto panorámica de la iglesia."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Bewundern Sie die neoklassizistische Fassade.",
             "hu": "Csodálja meg a neoklasszicista homlokzatot.",
             "ro": "Admirați fațada neoclasică impresionantă.",
-            "en": "Admire the impressive neoclassical facade."
+            "en": "Admire the impressive neoclassical facade.",
+            "es": "Admira la impresionante fachada neoclásica."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Der Aufstieg zum Turm bietet die beste Aussicht.",
             "hu": "A toronyba való felkapaszkodás nyújtja a legjobb kilátást.",
             "ro": "Urcarea în turn oferă cea mai bună vedere panoramică.",
-            "en": "Climbing the tower offers the best panoramic view."
+            "en": "Climbing the tower offers the best panoramic view.",
+            "es": "Subir a la torre ofrece la mejor vista panorámica."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Erfahren Sie mehr über die lokale Ölproduktion.",
             "hu": "Ismerje meg a helyi olajtermelés történetét.",
             "ro": "Aflați mai multe despre producția locală de ulei.",
-            "en": "Learn more about the local oil production history."
+            "en": "Learn more about the local oil production history.",
+            "es": "Aprende más sobre la historia local de la producción de aceite."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Einzigartige Architektur direkt am Felsen.",
             "hu": "Egyedülálló építészet közvetlenül a sziklák mentén.",
             "ro": "Arhitectură unică situată direct lângă stânci.",
-            "en": "Unique architecture located directly along the rocks."
+            "en": "Unique architecture located directly along the rocks.",
+            "es": "Arquitectura única situada directamente sobre la roca."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Beginnen Sie Ihren Tag im malerischen Barrio del Villa, wo weiße Häuser kaskadenförmig den Hügel hinabstürzen. Mittags erkunden Sie das majestätische Castillo Árabe und genießen den weiten Blick über die andalusische Landschaft. Der Nachmittag gehört der beeindruckenden Kirche und dem Museum, das tief in die lokale Kultur eintaucht. Beenden Sie den Tag mit einem ruhigen Spaziergang zum historischen Friedhof, der spektakulär in den Fels gehauen ist.",
         "hu": "Kezdje a napot a festői Barrio del Villában, ahol a fehér házak vízesésszerűen omlanak le a domboldalról. Délben fedezze fel a fenséges Castillo Árabe-t, és élvezze a kilátást az andalúz tájra. A délután az impozáns templomé és a múzeumé, amely mélyen elkalauzol a helyi kultúrába. Zárja a napot egy csendes sétával a történelmi temetőnél, amely látványosan a sziklába van vésve.",
         "ro": "Începeți ziua în pitorescul Barrio del Villa, unde casele albe coboară în cascadă pe deal. La prânz, explorați maiestuosul Castillo Árabe și bucurați-vă de vederea largă asupra peisajului andaluz. După-amiaza este dedicată bisericii impresionante și muzeului care oferă o incursiune în cultura locală. Încheiați ziua cu o plimbare liniștită spre cimitirul istoric, săpat spectaculos în stâncă.",
-        "en": "Start your day in the picturesque Barrio del Villa, where white houses cascade down the hillside. At noon, explore the majestic Castillo Árabe and enjoy the sweeping views over the Andalusian countryside. The afternoon is dedicated to the impressive church and the museum, which dives deep into local culture. End the day with a quiet walk to the historical cemetery, spectacularly carved into the rock face."
+        "en": "Start your day in the picturesque Barrio del Villa, where white houses cascade down the hillside. At noon, explore the majestic Castillo Árabe and enjoy the sweeping views over the Andalusian countryside. The afternoon is dedicated to the impressive church and the museum, which dives deep into local culture. End the day with a quiet walk to the historical cemetery, spectacularly carved into the rock face.",
+        "es": "Comienza el día en el pintoresco Barrio de la Villa, donde las casas blancas descienden por la ladera. Al mediodía, explora el majestuoso Castillo Árabe y disfruta de las amplias vistas del campo andaluz. La tarde se dedica a la impresionante iglesia y al museo, que profundiza en la cultura local. Termina el día con un paseo tranquilo hasta el cementerio histórico, espectacularmente excavado en la roca."
       },
       "gastro_picks": {
         "de": [
@@ -253,6 +260,12 @@
           "Buy a combined ticket for the castle and the museum.",
           "Midday is perfect for finding shade in the narrow alleys.",
           "Visit the castle shortly before closing for golden light."
+        ],
+        "es": [
+          "Lleva calzado cómodo, las calles son muy empinadas.",
+          "Compra una entrada combinada para el castillo y el museo.",
+          "El mediodía es perfecto para encontrar sombra en las callejuelas estrechas.",
+          "Visita el castillo poco antes del cierre para la luz dorada."
         ]
       },
       "variants": {
@@ -261,7 +274,8 @@
             "de": "Beginnen Sie Ihren Tag im malerischen Barrio del Villa, wo weiße Häuser kaskadenförmig den Hügel hinabstürzen. Mittags erkunden Sie das majestätische Castillo Árabe und genießen den weiten Blick über die andalusische Landschaft. Der Nachmittag gehört der beeindruckenden Kirche und dem Museum, das tief in die lokale Kultur eintaucht. Beenden Sie den Tag mit einem ruhigen Spaziergang zum historischen Friedhof, der spektakulär in den Fels gehauen ist.",
             "hu": "Kezdje a napot a festői Barrio del Villában, ahol a fehér házak vízesésszerűen omlanak le a domboldalról. Délben fedezze fel a fenséges Castillo Árabe-t, és élvezze a kilátást az andalúz tájra. A délután az impozáns templomé és a múzeumé, amely mélyen elkalauzol a helyi kultúrába. Zárja a napot egy csendes sétával a történelmi temetőnél, amely látványosan a sziklába van vésve.",
             "ro": "Începeți ziua în pitorescul Barrio del Villa, unde casele albe coboară în cascadă pe deal. La prânz, explorați maiestuosul Castillo Árabe și bucurați-vă de vederea largă asupra peisajului andaluz. După-amiaza este dedicată bisericii impresionante și muzeului care oferă o incursiune în cultura locală. Încheiați ziua cu o plimbare liniștită spre cimitirul istoric, săpat spectaculos în stâncă.",
-            "en": "Start your day in the picturesque Barrio del Villa, where white houses cascade down the hillside. At noon, explore the majestic Castillo Árabe and enjoy the sweeping views over the Andalusian countryside. The afternoon is dedicated to the impressive church and the museum, which dives deep into local culture. End the day with a quiet walk to the historical cemetery, spectacularly carved into the rock face."
+            "en": "Start your day in the picturesque Barrio del Villa, where white houses cascade down the hillside. At noon, explore the majestic Castillo Árabe and enjoy the sweeping views over the Andalusian countryside. The afternoon is dedicated to the impressive church and the museum, which dives deep into local culture. End the day with a quiet walk to the historical cemetery, spectacularly carved into the rock face.",
+            "es": "Comienza el día en el pintoresco Barrio de la Villa, donde las casas blancas descienden por la ladera. Al mediodía, explora el majestuoso Castillo Árabe y disfruta de las amplias vistas del campo andaluz. La tarde se dedica a la impresionante iglesia y al museo, que profundiza en la cultura local. Termina el día con un paseo tranquilo hasta el cementerio histórico, espectacularmente excavado en la roca."
           },
           "stops": [
             {
@@ -270,7 +284,8 @@
                 "de": "Frühmorgens sind die Gassen am ruhigsten.",
                 "hu": "Kora reggel a legcsendesebbek a szűk utcák.",
                 "ro": "Străduțele sunt cele mai liniștite dimineața devreme.",
-                "en": "The narrow streets are quietest early in the morning."
+                "en": "The narrow streets are quietest early in the morning.",
+                "es": "Las calles estrechas están más tranquilas a primera hora de la mañana."
               }
             },
             {
@@ -279,7 +294,8 @@
                 "de": "Perfekter Ort für ein Panoramafoto der Kirche.",
                 "hu": "Tökéletes helyszín a templom fotózásához.",
                 "ro": "Locul perfect pentru o fotografie panoramică a bisericii.",
-                "en": "Perfect spot for a panoramic photo of the church."
+                "en": "Perfect spot for a panoramic photo of the church.",
+                "es": "Lugar perfecto para una foto panorámica de la iglesia."
               }
             },
             {
@@ -288,7 +304,8 @@
                 "de": "Bewundern Sie die neoklassizistische Fassade.",
                 "hu": "Csodálja meg a neoklasszicista homlokzatot.",
                 "ro": "Admirați fațada neoclasică impresionantă.",
-                "en": "Admire the impressive neoclassical facade."
+                "en": "Admire the impressive neoclassical facade.",
+                "es": "Admira la impresionante fachada neoclásica."
               }
             },
             {
@@ -297,7 +314,8 @@
                 "de": "Der Aufstieg zum Turm bietet die beste Aussicht.",
                 "hu": "A toronyba való felkapaszkodás nyújtja a legjobb kilátást.",
                 "ro": "Urcarea în turn oferă cea mai bună vedere panoramică.",
-                "en": "Climbing the tower offers the best panoramic view."
+                "en": "Climbing the tower offers the best panoramic view.",
+                "es": "Subir a la torre ofrece la mejor vista panorámica."
               }
             },
             {
@@ -306,7 +324,8 @@
                 "de": "Erfahren Sie mehr über die lokale Ölproduktion.",
                 "hu": "Ismerje meg a helyi olajtermelés történetét.",
                 "ro": "Aflați mai multe despre producția locală de ulei.",
-                "en": "Learn more about the local oil production history."
+                "en": "Learn more about the local oil production history.",
+                "es": "Aprende más sobre la historia local de la producción de aceite."
               }
             },
             {
@@ -315,7 +334,8 @@
                 "de": "Einzigartige Architektur direkt am Felsen.",
                 "hu": "Egyedülálló építészet közvetlenül a sziklák mentén.",
                 "ro": "Arhitectură unică situată direct lângă stânci.",
-                "en": "Unique architecture located directly along the rocks."
+                "en": "Unique architecture located directly along the rocks.",
+                "es": "Arquitectura única situada directamente sobre la roca."
               }
             }
           ],
@@ -441,6 +461,12 @@
               "Buy a combined ticket for the castle and the museum.",
               "Midday is perfect for finding shade in the narrow alleys.",
               "Visit the castle shortly before closing for golden light."
+            ],
+            "es": [
+              "Lleva calzado cómodo, las calles son muy empinadas.",
+              "Compra una entrada combinada para el castillo y el museo.",
+              "El mediodía es perfecto para encontrar sombra en las callejuelas estrechas.",
+              "Visita el castillo poco antes del cierre para la luz dorada."
             ]
           }
         },
@@ -449,7 +475,8 @@
             "de": "Der Morgen beginnt in den engen Gassen des Barrio del Villa, die bei Regen einen besonderen Glanz erhalten. Die weißen Wände reflektieren das sanfte Licht, während Sie zur Plaza de la Iglesia aufsteigen.\n\nMittags bietet die massive klassizistische Kirche Nuestra Señora de la Encarnación einen idealen, trockenen Zufluchtsort, um die beeindruckende Architektur in Ruhe zu bewundern.\n\nAm Nachmittag erkunden Sie die Burg Castillo Árabe. Die Steinstufen können rutschig sein, aber der Blick auf die nebelverhangene Sierra de Cádiz ist dramatisch und einzigartig.\n\nDer Tag endet im Museo de la Cilla, wo Sie im Trockenen tief in die lokale Agrargeschichte eintauchen können, bevor die Dämmerung über dem weißen Dorf einsetzt.",
             "hu": "A reggel a Barrio del Villa szűk utcáin indul, amelyek esőben különleges fényt kapnak. A fehérre meszelt falak visszaverik a lágy fényt, miközben a Plaza de la Iglesia felé kapaszkodik.\n\nDélben a hatalmas, neoklasszicista Nuestra Señora de la Encarnación templom nyújt tökéletes és száraz menedéket a lenyűgöző belső tér felfedezéséhez.\n\nDélután az Arab vár várja, ahol a kőlépcsők csúszósak lehetnek, de a kilátás a ködbe burkolózó Sierra de Cádiz hegységre drámai és felejthetetlen.\n\nA nap a Museo de la Cilla falai között zárul, ahol fedett helyen ismerkedhet meg a helyi mezőgazdaság történetével, mielőtt a szürkület leszállna a fehér falura.",
             "ro": "Dimineața începe pe străzile înguste din Barrio del Villa, care capătă o strălucire aparte pe ploaie. Pereții albi reflectă lumina difuză în timp ce urcați spre Plaza de la Iglesia.\n\nLa prânz, masiva biserică neoclasică Nuestra Señora de la Encarnación oferă un refugiu ideal și uscat pentru a admira arhitectura interioară impresionantă.\n\nDupă-amiaza vizitați Castillo Árabe. Treptele de piatră pot fi alunecoase, dar vederea asupra munților Sierra de Cádiz acoperiți de ceață este dramatică și unică.\n\nZiua se încheie la Museo de la Cilla, unde puteți explora istoria agricolă locală la adăpost, înainte ca amurgul să se aștearnă peste satul alb.",
-            "en": "Morning starts in the narrow alleys of Barrio del Villa, which take on a special glow in the rain. The whitewashed walls reflect the soft light as you climb toward Plaza de la Iglesia.\n\nAt midday, the massive Neoclassical Church of Nuestra Señora de la Encarnación provides an ideal dry sanctuary to admire the impressive interior architecture.\n\nIn the afternoon, explore the Arabic Castle. The stone steps can be slippery, but the view of the mist-covered Sierra de Cádiz is dramatic and unique.\n\nThe day ends at the Museo de la Cilla, where you can delve into local agricultural history while staying dry before dusk settles over the white village."
+            "en": "Morning starts in the narrow alleys of Barrio del Villa, which take on a special glow in the rain. The whitewashed walls reflect the soft light as you climb toward Plaza de la Iglesia.\n\nAt midday, the massive Neoclassical Church of Nuestra Señora de la Encarnación provides an ideal dry sanctuary to admire the impressive interior architecture.\n\nIn the afternoon, explore the Arabic Castle. The stone steps can be slippery, but the view of the mist-covered Sierra de Cádiz is dramatic and unique.\n\nThe day ends at the Museo de la Cilla, where you can delve into local agricultural history while staying dry before dusk settles over the white village.",
+            "es": "La mañana comienza en las estrechas callejuelas del Barrio de la Villa, que adquieren un brillo especial con la lluvia. Las paredes encaladas reflejan la luz suave mientras subes hacia la Plaza de la Iglesia.\n\nAl mediodía, la maciza Iglesia Neoclásica de Nuestra Señora de la Encarnación ofrece un santuario seco ideal para admirar la impresionante arquitectura interior.\n\nPor la tarde, explora el Castillo Árabe. Los peldaños de piedra pueden estar resbaladizos, pero la vista de la Sierra de Cádiz cubierta de niebla es dramática y única.\n\nEl día termina en el Museo de la Cilla, donde puedes profundizar en la historia agrícola local manteniéndote seco antes de que el ocaso se asiente sobre la aldea blanca."
           },
           "stops": [
             {
@@ -458,7 +485,8 @@
                 "de": "Tragen Sie griffige Schuhe, da das Kopfsteinpflaster in den steilen Gassen rutschig wird.",
                 "hu": "Viseljen tapadós talpú cipőt, mert a meredek utcák macskakövei csúszóssá válnak.",
                 "ro": "Purtați încălțăminte cu aderență, deoarece pavajul de pe străzile abrupte devine alunecos.",
-                "en": "Wear grippy shoes as the cobblestones in the steep alleys become slippery."
+                "en": "Wear grippy shoes as the cobblestones in the steep alleys become slippery.",
+                "es": "Lleva calzado con buen agarre, los empedrados en las callejas empinadas se vuelven resbaladizos."
               }
             },
             {
@@ -467,7 +495,8 @@
                 "de": "Nutzen Sie die Arkaden und Vorsprünge der umliegenden Gebäude als kurzen Schutz vor Schauern.",
                 "hu": "Használja a környező épületek árkádjait és ereszeit rövid menedékként a záporok elől.",
                 "ro": "Folosiți arcadele și streșinile clădirilor din jur ca adăpost scurt împotriva averselor.",
-                "en": "Use the arcades and overhangs of surrounding buildings as brief shelter from showers."
+                "en": "Use the arcades and overhangs of surrounding buildings as brief shelter from showers.",
+                "es": "Usa las arcadas y los volados de los edificios como refugio breve de los chubascos."
               }
             },
             {
@@ -476,7 +505,8 @@
                 "de": "Der perfekte Ort, um einen starken Regenschauer im trockenen und imposanten Kirchenschiff abzuwarten.",
                 "hu": "Tökéletes hely egy nagyobb zápor kivárására a száraz és monumentális templomhajóban.",
                 "ro": "Locul perfect pentru a aștepta trecerea unei ploi torențiale în nava impunătoare și uscată.",
-                "en": "The perfect spot to wait out a heavy downpour in the dry and imposing nave."
+                "en": "The perfect spot to wait out a heavy downpour in the dry and imposing nave.",
+                "es": "El lugar perfecto para esperar a que pase un fuerte chaparrón en la nave seca e imponente."
               }
             },
             {
@@ -485,7 +515,8 @@
                 "de": "Vorsicht auf den Zinnen; der Wind kann bei Regen oben auf dem Turm recht kräftig wehen.",
                 "hu": "Vigyázat a bástyákon; esőben a szél elég erős lehet a torony tetején.",
                 "ro": "Atenție pe metereze; vântul poate fi destul de puternic sus în turn în timpul ploii.",
-                "en": "Be careful on the battlements; the wind can be quite strong at the top of the tower during rain."
+                "en": "Be careful on the battlements; the wind can be quite strong at the top of the tower during rain.",
+                "es": "Ten cuidado en las almenas; el viento puede ser fuerte en la cima de la torre durante la lluvia."
               }
             },
             {
@@ -494,7 +525,8 @@
                 "de": "Planen Sie hier mehr Zeit ein, da die Ausstellungen komplett überdacht und windgeschützt sind.",
                 "hu": "Tervezzen ide több időt, mivel a kiállítások teljesen fedettek és védettek a széltől.",
                 "ro": "Planificați mai mult timp aici, deoarece expozițiile sunt complet acoperite și protejate.",
-                "en": "Plan more time here as the exhibits are completely covered and protected from wind."
+                "en": "Plan more time here as the exhibits are completely covered and protected from wind.",
+                "es": "Planifica más tiempo aquí, las exposiciones están completamente cubiertas y protegidas del viento."
               }
             },
             {
@@ -503,7 +535,8 @@
                 "de": "Die weißen Gräber wirken im Regenlicht besonders melancholisch; ein Schirm ist hier Pflicht.",
                 "hu": "A fehér sírok esőben különösen melankolikusak; az esernyő itt kötelező.",
                 "ro": "Mormintele albe par deosebit de melancolice în lumina ploii; umbrela este obligatorie aici.",
-                "en": "The white graves look particularly melancholic in the rain; an umbrella is a must here."
+                "en": "The white graves look particularly melancholic in the rain; an umbrella is a must here.",
+                "es": "Las tumbas blancas se ven especialmente melancólicas con lluvia; un paraguas es imprescindible aquí."
               }
             }
           ],
@@ -535,6 +568,13 @@
               "Umbrellas can be unwieldy in narrow alleys; a good raincoat is often more practical.",
               "The view from the castle is often more dramatic under clouds than in bright sun.",
               "Museums and churches in Olvera often have long midday siesta breaks, even in rainy weather."
+            ],
+            "es": [
+              "Olvera tiene muchas calles empinadas; en tiempo húmedo son esenciales zapatos impermeables con suela de goma.",
+              "Utiliza los cafés cerca de la Plaza de la Concordia para descansar si la lluvia se intensifica.",
+              "Los paraguas pueden ser incómodos en las callejas estrechas; un buen impermeable suele ser más práctico.",
+              "La vista desde el castillo suele ser más dramática con nubes que con sol brillante.",
+              "Museos e iglesias en Olvera suelen cerrar largas horas por la siesta, incluso con lluvia."
             ]
           }
         },
@@ -543,7 +583,8 @@
             "de": "Ein klarer Wintermorgen im Barrio del Villa bietet die beste Sicht. Die kühle Luft macht den Aufstieg zur Plaza de la Iglesia angenehmer als im heißen andalusischen Sommer.\n\nMittags wärmt die tiefstehende Sonne die Plaza, während Sie die neoklassizistische Pracht der Parroquia bewundern. Die Lichtverhältnisse im Inneren sind jetzt besonders sanft.\n\nDer Nachmittag am Castillo Árabe bietet ein goldenes Panorama. Die umliegenden Olivenhaine leuchten im Winterlicht, bevor die Sonne gegen 18:00 Uhr hinter den Bergen verschwindet.\n\nNach dem Besuch im Museo de la Cilla sollten Sie den Tag in einer lokalen Bar bei warmen Tapas ausklingen lassen, da die Temperaturen nach Sonnenuntergang spürbar sinken.",
             "hu": "Egy tiszta téli reggel a Barrio del Villa negyedben kínálja a legjobb látási viszonyokat. A hűvös levegő kellemesebbé teszi a kapaszkodást a Plaza de la Iglesia felé.\n\nDélben az alacsonyan járó nap melengeti a teret, miközben a templom neoklasszicista pompáját csodálja. A belső fények ilyenkor különösen lágyak.\n\nA délután az Arab várban aranyló panorámát kínál. A környező olajfaligetek ragyognak a téli fényben, mielőtt a nap 18:00 körül eltűnne a hegyek mögött.\n\nA Museo de la Cilla után érdemes a napot egy helyi bárban, meleg tapasokkal zárni, mivel naplemente után a hőmérséklet érezhetően visszaesik.",
             "ro": "O dimineață senină de iarnă în Barrio del Villa oferă cea mai bună vizibilitate. Aerul răcoros face urcarea spre Plaza de la Iglesia mai plăcută decât în vara andaluză.\n\nLa prânz, soarele blând încălzește piața în timp ce admirați splendoarea neoclasică a bisericii. Lumina din interior este deosebit de caldă în acest sezon.\n\nDupă-amiaza la Castillo Árabe oferă o panoramă aurie. Livezile de măslini din jur strălucesc în lumina iernii înainte ca soarele să apună după munți în jurul orei 18:00.\n\nDupă vizita la Museo de la Cilla, încheiați ziua într-un bar local cu tapas calde, deoarece temperaturile scad simțitor după lăsarea întunericului.",
-            "en": "A clear winter morning in Barrio del Villa offers the best visibility. The cool air makes the climb toward Plaza de la Iglesia more pleasant than in the hot Andalusian summer.\n\nAt midday, the low-hanging sun warms the plaza while you admire the Neoclassical splendor of the church. The light conditions inside are particularly soft now.\n\nAn afternoon at the Arabic Castle offers a golden panorama. The surrounding olive groves glow in the winter light before the sun disappears behind the mountains around 18:00.\n\nAfter visiting Museo de la Cilla, wrap up the day in a local bar with warm tapas, as temperatures drop noticeably after sunset."
+            "en": "A clear winter morning in Barrio del Villa offers the best visibility. The cool air makes the climb toward Plaza de la Iglesia more pleasant than in the hot Andalusian summer.\n\nAt midday, the low-hanging sun warms the plaza while you admire the Neoclassical splendor of the church. The light conditions inside are particularly soft now.\n\nAn afternoon at the Arabic Castle offers a golden panorama. The surrounding olive groves glow in the winter light before the sun disappears behind the mountains around 18:00.\n\nAfter visiting Museo de la Cilla, wrap up the day in a local bar with warm tapas, as temperatures drop noticeably after sunset.",
+            "es": "Una mañana invernal clara en el Barrio de la Villa ofrece la mejor visibilidad. El aire fresco hace la subida hacia la Plaza de la Iglesia más agradable que en el caluroso verano andaluz.\n\nAl mediodía, el sol bajo calienta la plaza mientras admiras el esplendor neoclásico de la iglesia. Las condiciones de luz en el interior son particularmente suaves ahora.\n\nUna tarde en el Castillo Árabe ofrece un panorama dorado. Los olivares circundantes brillan con la luz invernal antes de que el sol desaparezca tras las montañas alrededor de las 18:00.\n\nTras visitar el Museo de la Cilla, termina el día en un bar local con tapas calientes, ya que la temperatura baja notablemente al anochecer."
           },
           "stops": [
             {
@@ -552,7 +593,8 @@
                 "de": "Genießen Sie die Ruhe; im Winter sind deutlich weniger Touristen in den Gassen unterwegs.",
                 "hu": "Élvezze a nyugalmat; télen lényegesen kevesebb turista jár az utcákon.",
                 "ro": "Bucurați-vă de liniște; iarna sunt mult mai puțini turiști pe străzile înguste.",
-                "en": "Enjoy the quiet; there are significantly fewer tourists in the alleys during winter."
+                "en": "Enjoy the quiet; there are significantly fewer tourists in the alleys during winter.",
+                "es": "Disfruta de la tranquilidad; hay muchos menos turistas en las callejas durante el invierno."
               }
             },
             {
@@ -561,7 +603,8 @@
                 "de": "Suchen Sie sich ein sonniges Plätzchen auf einer Bank, um die Mittagswärme zu tanken.",
                 "hu": "Keressen egy napos helyet az egyik padon, hogy magába szívja a déli meleget.",
                 "ro": "Căutați un loc însorit pe o bancă pentru a profita de căldura amiezii.",
-                "en": "Find a sunny spot on a bench to soak up the midday warmth."
+                "en": "Find a sunny spot on a bench to soak up the midday warmth.",
+                "es": "Encuentra un sitio soleado en un banco para absorber el calor del mediodía."
               }
             },
             {
@@ -570,7 +613,8 @@
                 "de": "Die dicken Mauern speichern die Kälte; eine zusätzliche Schicht Kleidung ist im Inneren ratsam.",
                 "hu": "A vastag falak tartják a hideget; a templomon belül tanácsos egy plusz réteg ruha.",
                 "ro": "Zidurile groase rețin frigul; un strat suplimentar de haine este recomandat în interior.",
-                "en": "The thick walls retain the cold; an extra layer of clothing is advisable inside."
+                "en": "The thick walls retain the cold; an extra layer of clothing is advisable inside.",
+                "es": "Los muros gruesos conservan el frío; es aconsejable llevar una capa extra dentro."
               }
             },
             {
@@ -579,7 +623,8 @@
                 "de": "Die Fernsicht auf die schneebedeckten Gipfel der Sierra Grazalema ist im Winter am besten.",
                 "hu": "Télen a legjobb a kilátás a Sierra Grazalema távoli, hófödte csúcsaira.",
                 "ro": "Vizibilitatea spre vârfurile înzăpezite ale Sierra Grazalema este optimă iarna.",
-                "en": "The long-distance view of the snow-capped peaks of Sierra Grazalema is best in winter."
+                "en": "The long-distance view of the snow-capped peaks of Sierra Grazalema is best in winter.",
+                "es": "La vista de las cumbres nevadas de la Sierra de Grazalema es mejor en invierno."
               }
             },
             {
@@ -588,7 +633,8 @@
                 "de": "Ein guter Rückzugsort, wenn der Wind in den oberen Stadtteilen zu kühl wird.",
                 "hu": "Jó menedék, ha a szél túl hűvössé válik a felső városrészekben.",
                 "ro": "Un refugiu bun dacă vântul devine prea rece în zonele înalte ale orașului.",
-                "en": "A good retreat if the wind becomes too cool in the upper parts of town."
+                "en": "A good retreat if the wind becomes too cool in the upper parts of town.",
+                "es": "Buen refugio si el viento se vuelve demasiado fresco en las partes altas del pueblo."
               }
             },
             {
@@ -597,7 +643,8 @@
                 "de": "Besuchen Sie diesen Ort vor 17:00 Uhr, um das letzte Tageslicht auf den weißen Wänden zu nutzen.",
                 "hu": "Látogassa meg 17:00 előtt, hogy kihasználja az utolsó fényeket a fehér falakon.",
                 "ro": "Vizitați acest loc înainte de ora 17:00 pentru a profita de ultima lumină pe zidurile albe.",
-                "en": "Visit this spot before 17:00 to catch the last daylight on the white walls."
+                "en": "Visit this spot before 17:00 to catch the last daylight on the white walls.",
+                "es": "Visita este punto antes de las 17:00 para pillar la última luz sobre los muros blancos."
               }
             }
           ],
@@ -629,6 +676,13 @@
               "Try the local 'Sopa de Ganzitos', a warming dish perfect for cool winter days.",
               "Humidity is lower, making the views from the viewpoints extremely clear.",
               "Many accommodations in Olvera have stone floors; bring warm socks or slippers."
+            ],
+            "es": [
+              "Vístete en capas; hace calor al sol pero fresco a la sombra y después de las 17:00.",
+              "El sol se pone alrededor de las 18:00 en invierno; planifica las actividades al aire libre para las horas tempranas del día.",
+              "Prueba la local 'Sopa de Ganzitos', un plato reconfortante perfecto para los días fríos de invierno.",
+              "La humedad es menor, lo que hace las vistas desde los miradores extremadamente claras.",
+              "Muchas acomodaciones en Olvera tienen suelos de piedra; lleva calcetines calentitos o zapatillas."
             ]
           }
         }
@@ -657,7 +711,8 @@
             "de": "Startpunkt mit toller Aussicht.",
             "hu": "Kiindulópont remek kilátással.",
             "ro": "Punct de plecare cu o priveliște excelentă.",
-            "en": "Starting point with a great view."
+            "en": "Starting point with a great view.",
+            "es": "Punto de partida con una gran vista."
           }
         },
         {
@@ -675,7 +730,8 @@
             "de": "Mieten Sie hier Ihr Fahrrad.",
             "hu": "Itt bérelhet kerékpárt.",
             "ro": "Închiriați bicicleta de aici.",
-            "en": "Rent your bike here."
+            "en": "Rent your bike here.",
+            "es": "Alquila aquí tu bicicleta."
           }
         },
         {
@@ -693,7 +749,8 @@
             "de": "Wichtiger Wallfahrtsort der Region.",
             "hu": "A régió fontos zarándokhelye.",
             "ro": "Loc important de pelerinaj din regiune.",
-            "en": "Important pilgrimage site of the region."
+            "en": "Important pilgrimage site of the region.",
+            "es": "Importante lugar de peregrinación de la región."
           }
         },
         {
@@ -711,7 +768,8 @@
             "de": "Ein letzter Anstieg zur Burg.",
             "hu": "Egy utolsó emelkedő a várig.",
             "ro": "O ultimă urcare spre castel.",
-            "en": "One last climb up to the castle."
+            "en": "One last climb up to the castle.",
+            "es": "Una última subida hasta el castillo."
           }
         },
         {
@@ -729,7 +787,8 @@
             "de": "Entspannung in den kühlen Gassen.",
             "hu": "Pihenés a hűvös utcákban.",
             "ro": "Relaxare pe străduțele răcoroase.",
-            "en": "Relaxation in the cool alleys."
+            "en": "Relaxation in the cool alleys.",
+            "es": "Relajación en las callejas frescas."
           }
         }
       ],
@@ -737,7 +796,8 @@
         "de": "Erkunden Sie Olvera und seine Umgebung auf zwei Rädern. Nach einem kurzen Überblick im Stadtzentrum führt die Route zur Vía Verde de la Sierra, einer stillgelegten Eisenbahnstrecke, die nun ein Naturparadies ist. Radeln Sie zum abgelegenen Santuario, bevor Sie für den krönenden Abschluss zur Burg zurückkehren. Der Tag endet gemütlich im Schatten des alten Viertels.",
         "hu": "Fedezze fel Olverát és környékét két keréken. A városközpont rövid áttekintése után az út a Vía Verde de la Sierra felé vezet, amely egy egykori vasútvonalból kialakított természetvédelmi terület. Tekerjen el a távoli szentélyhez, majd térjen vissza a várba a nap méltó lezárásaként. A nap pihentetően ér véget az óváros árnyas utcáin.",
         "ro": "Explorați Olvera și împrejurimile pe două roți. După o scurtă trecere prin centrul orașului, ruta duce spre Vía Verde de la Sierra, o fostă cale ferată transformată în paradis natural. Pedalati până la sanctuarul izolat înainte de a reveni la castel pentru finalul zilei. Ziua se încheie relaxant la umbra cartierului vechi.",
-        "en": "Explore Olvera and its surroundings on two wheels. After a brief overview of the city center, the route leads to Vía Verde de la Sierra, a former railway line now turned into a nature paradise. Cycle to the remote Sanctuary before returning to the castle for a grand finale. The day ends peacefully in the shade of the old quarter."
+        "en": "Explore Olvera and its surroundings on two wheels. After a brief overview of the city center, the route leads to Vía Verde de la Sierra, a former railway line now turned into a nature paradise. Cycle to the remote Sanctuary before returning to the castle for a grand finale. The day ends peacefully in the shade of the old quarter.",
+        "es": "Explora Olvera y sus alrededores en dos ruedas. Tras una breve toma de contacto con el centro, la ruta conduce a la Vía Verde de la Sierra, una antigua línea ferroviaria convertida en paraíso natural. Pedalea hasta el Santuario remoto antes de volver al castillo para un gran final. El día termina en calma a la sombra del casco antiguo."
       },
       "gastro_picks": {
         "de": [
@@ -845,6 +905,12 @@
           "Take plenty of water with you.",
           "Start early to avoid the midday heat.",
           "There are bike rental stations at the old railway station."
+        ],
+        "es": [
+          "La Vía Verde tiene muchos túneles; las luces en la bicicleta son obligatorias.",
+          "Lleva abundante agua contigo.",
+          "Empieza temprano para evitar el calor del mediodía.",
+          "Hay estaciones de alquiler de bicicletas en la estación de tren antigua."
         ]
       },
       "variants": {
@@ -853,7 +919,8 @@
             "de": "Erkunden Sie Olvera und seine Umgebung auf zwei Rädern. Nach einem kurzen Überblick im Stadtzentrum führt die Route zur Vía Verde de la Sierra, einer stillgelegten Eisenbahnstrecke, die nun ein Naturparadies ist. Radeln Sie zum abgelegenen Santuario, bevor Sie für den krönenden Abschluss zur Burg zurückkehren. Der Tag endet gemütlich im Schatten des alten Viertels.",
             "hu": "Fedezze fel Olverát és környékét két keréken. A városközpont rövid áttekintése után az út a Vía Verde de la Sierra felé vezet, amely egy egykori vasútvonalból kialakított természetvédelmi terület. Tekerjen el a távoli szentélyhez, majd térjen vissza a várba a nap méltó lezárásaként. A nap pihentetően ér véget az óváros árnyas utcáin.",
             "ro": "Explorați Olvera și împrejurimile pe două roți. După o scurtă trecere prin centrul orașului, ruta duce spre Vía Verde de la Sierra, o fostă cale ferată transformată în paradis natural. Pedalati până la sanctuarul izolat înainte de a reveni la castel pentru finalul zilei. Ziua se încheie relaxant la umbra cartierului vechi.",
-            "en": "Explore Olvera and its surroundings on two wheels. After a brief overview of the city center, the route leads to Vía Verde de la Sierra, a former railway line now turned into a nature paradise. Cycle to the remote Sanctuary before returning to the castle for a grand finale. The day ends peacefully in the shade of the old quarter."
+            "en": "Explore Olvera and its surroundings on two wheels. After a brief overview of the city center, the route leads to Vía Verde de la Sierra, a former railway line now turned into a nature paradise. Cycle to the remote Sanctuary before returning to the castle for a grand finale. The day ends peacefully in the shade of the old quarter.",
+            "es": "Explora Olvera y sus alrededores en dos ruedas. Tras una breve panorámica del centro, la ruta conduce a la Vía Verde de la Sierra, una antigua línea ferroviaria convertida en paraíso natural. Pedalea hasta el remoto Santuario antes de regresar al castillo para un gran final. El día termina plácidamente a la sombra del barrio antiguo."
           },
           "stops": [
             {
@@ -862,7 +929,8 @@
                 "de": "Startpunkt mit toller Aussicht.",
                 "hu": "Kiindulópont remek kilátással.",
                 "ro": "Punct de plecare cu o priveliște excelentă.",
-                "en": "Starting point with a great view."
+                "en": "Starting point with a great view.",
+                "es": "Punto de partida con una gran vista."
               }
             },
             {
@@ -871,7 +939,8 @@
                 "de": "Mieten Sie hier Ihr Fahrrad.",
                 "hu": "Itt bérelhet kerékpárt.",
                 "ro": "Închiriați bicicleta de aici.",
-                "en": "Rent your bike here."
+                "en": "Rent your bike here.",
+                "es": "Alquila tu bicicleta aquí."
               }
             },
             {
@@ -880,7 +949,8 @@
                 "de": "Wichtiger Wallfahrtsort der Region.",
                 "hu": "A régió fontos zarándokhelye.",
                 "ro": "Loc important de pelerinaj din regiune.",
-                "en": "Important pilgrimage site of the region."
+                "en": "Important pilgrimage site of the region.",
+                "es": "Lugar de peregrinación importante de la región."
               }
             },
             {
@@ -889,7 +959,8 @@
                 "de": "Ein letzter Anstieg zur Burg.",
                 "hu": "Egy utolsó emelkedő a várig.",
                 "ro": "O ultimă urcare spre castel.",
-                "en": "One last climb up to the castle."
+                "en": "One last climb up to the castle.",
+                "es": "Una última subida hasta el castillo."
               }
             },
             {
@@ -898,7 +969,8 @@
                 "de": "Entspannung in den kühlen Gassen.",
                 "hu": "Pihenés a hűvös utcákban.",
                 "ro": "Relaxare pe străduțele răcoroase.",
-                "en": "Relaxation in the cool alleys."
+                "en": "Relaxation in the cool alleys.",
+                "es": "Relajación en las frescas callejuelas."
               }
             }
           ],
@@ -1008,6 +1080,12 @@
               "Take plenty of water with you.",
               "Start early to avoid the midday heat.",
               "There are bike rental stations at the old railway station."
+            ],
+            "es": [
+              "La Vía Verde tiene muchos túneles; las luces en la bicicleta son obligatorias.",
+              "Lleva abundante agua contigo.",
+              "Empieza temprano para evitar el calor del mediodía.",
+              "Hay estaciones de alquiler de bicicletas en la estación de tren antigua."
             ]
           }
         },
@@ -1016,7 +1094,8 @@
             "de": "Der Tag beginnt an der Plaza de la Iglesia, wo Sie die Route kurz prüfen. Bei Regen ist auf den glatten Fliesen im Zentrum Vorsicht geboten.\n\nMittags erreichen Sie die Vía Verde de la Sierra. Der ehemalige Bahnhof bietet Unterstand, während die Strecke durch die Tunnel vor dem Schlimmsten schützt.\n\nNachmittags geht es zum Santuario de los Remedios. Die asphaltierten Wege sind gut befahrbar, aber spritzender Schlamm gehört heute dazu.\n\nDer Tag endet mit dem Aufstieg zum Castillo Árabe und einer Fahrt durch das Barrio del Villa, wo Sie sich in einer Bar mit heißem Kaffee aufwärmen können.",
             "hu": "A nap a Plaza de la Iglesia-nál indul az útvonal ellenőrzésével. Esőben óvatosan a központ sima burkolatú részein.\n\nDélben eléri a Vía Verde de la Sierra útvonalat. A régi állomásépület menedéket nyújt, az alagutak pedig védenek a zuhé elől.\n\nDélután a Santuario de los Remedios felé teker. Az aszfaltozott utak jól járhatóak, de a felverődő sárral számolni kell.\n\nA nap az Arab vár alatti emelkedővel és a Barrio del Villa bejárásával zárul, ahol egy bárban forró kávéval melegedhet fel.",
             "ro": "Ziua începe la Plaza de la Iglesia pentru o scurtă verificare a rutei. Atenție pe plăcile lucioase din centru când plouă.\n\nLa prânz ajungeți la Vía Verde de la Sierra. Vechea gară oferă adăpost, iar tunelurile de pe traseu vă protejează de ploaie.\n\nDupă-amiaza pedalați spre Santuario de los Remedios. Drumurile asfaltate sunt practicabile, dar noroiul împroșcat este inevitabil astăzi.\n\nZiua se încheie cu urcarea spre Castillo Árabe și traversarea Barrio del Villa, unde vă puteți încălzi cu o cafea fierbinte într-un bar.",
-            "en": "The day starts at Plaza de la Iglesia with a quick route check. Be careful on the smooth tiles in the center when it rains.\n\nAt midday, you reach Vía Verde de la Sierra. The old station provides shelter, while the tunnels along the route protect you from the worst of it.\n\nIn the afternoon, head to Santuario de los Remedios. The paved roads are manageable, but splashing mud is part of the experience today.\n\nThe day ends with the climb to the Arabic Castle and a ride through Barrio del Villa, where you can warm up with hot coffee in a bar."
+            "en": "The day starts at Plaza de la Iglesia with a quick route check. Be careful on the smooth tiles in the center when it rains.\n\nAt midday, you reach Vía Verde de la Sierra. The old station provides shelter, while the tunnels along the route protect you from the worst of it.\n\nIn the afternoon, head to Santuario de los Remedios. The paved roads are manageable, but splashing mud is part of the experience today.\n\nThe day ends with the climb to the Arabic Castle and a ride through Barrio del Villa, where you can warm up with hot coffee in a bar.",
+            "es": "El día comienza en la Plaza de la Iglesia con una rápida comprobación de la ruta. Ten cuidado con losetas lisas del centro cuando llueve.\n\nAl mediodía alcanzas la Vía Verde de la Sierra. La antigua estación ofrece refugio, mientras que los túneles a lo largo de la ruta te protegen de lo peor.\n\nPor la tarde, dirígete al Santuario de los Remedios. Las carreteras pavimentadas son manejables, pero el barro salpicado forma parte de la experiencia de hoy.\n\nEl día termina con la subida al Castillo Árabe y un paseo por el Barrio del Villa, donde puedes calentarte con un café caliente en un bar."
           },
           "stops": [
             {
@@ -1025,7 +1104,8 @@
                 "de": "Vermeiden Sie schnelle Kurven auf den glatten Steinplatten des Platzes.",
                 "hu": "Kerülje a gyors kanyarodást a tér sima kőlapjain.",
                 "ro": "Evitați virajele bruște pe plăcile de piatră lucioase din piață.",
-                "en": "Avoid sharp turns on the smooth stone slabs of the plaza."
+                "en": "Avoid sharp turns on the smooth stone slabs of the plaza.",
+                "es": "Evita giros bruscos sobre las losas de piedra pulida de la plaza."
               }
             },
             {
@@ -1034,7 +1114,8 @@
                 "de": "Die Tunnel bieten hervorragenden Schutz vor Regenschauern während der Fahrt.",
                 "hu": "Az alagutak kiváló védelmet nyújtanak a záporok elől menet közben.",
                 "ro": "Tunelurile oferă protecție excelentă împotriva averselor în timpul mersului.",
-                "en": "The tunnels provide excellent protection from rain showers while riding."
+                "en": "The tunnels provide excellent protection from rain showers while riding.",
+                "es": "Los túneles ofrecen excelente protección contra los chubascos mientras se circula."
               }
             },
             {
@@ -1043,7 +1124,8 @@
                 "de": "Ein idealer Ort, um die Regenbekleidung kurz zu lüften und sich unterzustellen.",
                 "hu": "Ideális hely az esőruházat rövid szellőztetésére és behúzódni a tető alá.",
                 "ro": "Un loc ideal pentru a aerisi scurt echipamentul de ploaie și a sta sub adăpost.",
-                "en": "An ideal place to briefly air out rain gear and take cover under the roof."
+                "en": "An ideal place to briefly air out rain gear and take cover under the roof.",
+                "es": "Lugar ideal para airear brevemente la ropa de lluvia y resguardarse bajo el techo."
               }
             },
             {
@@ -1052,7 +1134,8 @@
                 "de": "Stellen Sie das Fahrrad unten ab; der Aufstieg zum Schloss ist bei Regen nur zu Fuß sicher.",
                 "hu": "Hagyja a kerékpárt lent; a várba vezető út esőben csak gyalogosan biztonságos.",
                 "ro": "Lăsați bicicleta jos; urcarea la castel este sigură doar pe jos în condiții de ploaie.",
-                "en": "Leave the bike below; the climb to the castle is only safe on foot when it rains."
+                "en": "Leave the bike below; the climb to the castle is only safe on foot when it rains.",
+                "es": "Deja la bicicleta abajo; la subida al castillo solo es segura a pie cuando llueve."
               }
             },
             {
@@ -1061,7 +1144,8 @@
                 "de": "Sehr steile Abfahrten; nutzen Sie beide Bremsen vorsichtig auf dem nassen Pflaster.",
                 "hu": "Nagyon meredek lejtők; használja mindkét féket óvatosan a vizes köveken.",
                 "ro": "Coborâri foarte abrupte; folosiți ambele frâne cu grijă pe pavajul umed.",
-                "en": "Very steep descents; use both brakes carefully on the wet pavement."
+                "en": "Very steep descents; use both brakes carefully on the wet pavement.",
+                "es": "Descensos muy empinados; usa ambos frenos con cuidado sobre el pavimento mojado."
               }
             }
           ],
@@ -1093,6 +1177,13 @@
               "Avoid puddles on the Vía Verde as they can be deeper than they look.",
               "Wear high-visibility rain gear as visibility inside the tunnels is poorer.",
               "Check your tire pressure; slightly lower pressure provides more grip on wet roads."
+            ],
+            "es": [
+              "Los guardabarros son esenciales en la Vía Verde con lluvia para minimizar las salpicaduras de barro.",
+              "El rendimiento de frenado en los adoquines húmedos del casco histórico se reduce significativamente.",
+              "Evita los charcos en la Vía Verde, pueden ser más profundos de lo que parecen.",
+              "Usa ropa de lluvia de alta visibilidad, la visibilidad dentro de los túneles es más pobre.",
+              "Revisa la presión de los neumáticos; una presión ligeramente menor proporciona más agarre en carreteras húmedas."
             ]
           }
         },
@@ -1101,7 +1192,8 @@
             "de": "Ein kühler Start an der Plaza de la Iglesia. Die frische Winterluft gibt Energie für die anstehende Tour durch die andalusische Hügellandschaft.\n\nMittags ist die Fahrt auf der Vía Verde ein Genuss. Die Sonne steht tief und leuchtet die weiten Täler perfekt aus, auch wenn es im Schatten der Tunnel kühl ist.\n\nDer Nachmittag am Santuario de los Remedios bietet ideale Bedingungen für ein Picknick in der milden Wintersonne, bevor die kühle Brise auffrischt.\n\nZum Abschluss fordern die Steigungen zum Castillo Árabe und durch das Barrio del Villa noch einmal die Muskeln, was bei moderaten Wintertemperaturen ideal ist.",
             "hu": "Hűvös kezdés a Plaza de la Iglesia-nál. A friss téli levegő energiát ad az andalúz dombok közötti túrához.\n\nDélben a tekerés a Vía Verdén tiszta élvezet. Az alacsonyan járó nap tökéletesen megvilágítja a tágas völgyeket, még ha az alagutak árnyékában hűvös is van.\n\nA délután a Santuario de los Remedios-nál ideális feltételeket kínál egy piknikhez az enyhe téli napsütésben, mielőtt feltámadna a hűvös szél.\n\nA végén az Arab vár és a Barrio del Villa emelkedői még egyszer megmozgatják az izmokat, ami a mérsékelt téli hőmérséklet mellett ideális.",
             "ro": "Un început răcoros la Plaza de la Iglesia. Aerul proaspăt de iarnă vă oferă energie pentru turul printre dealurile andaluze.\n\nLa prânz, plimbarea pe Vía Verde este o plăcere. Soarele jos luminează perfect văile largi, chiar dacă în umbra tunelurilor este răcoare.\n\nDupă-amiaza la Santuario de los Remedios oferă condiții ideale pentru un picnic în soarele blând de iarnă, înainte ca briza rece să se intensifice.\n\nLa final, pantele spre Castillo Árabe și prin Barrio del Villa vă solicită mușchii, ceea ce este ideal la temperaturile moderate de iarnă.",
-            "en": "A cool start at Plaza de la Iglesia. The fresh winter air gives you energy for the upcoming tour through the Andalusian hills.\n\nAt midday, riding the Vía Verde is a joy. The low sun perfectly illuminates the wide valleys, even if it's cool in the shadow of the tunnels.\n\nIn the afternoon, head to Santuario de los Remedios, offering ideal conditions for a picnic in the mild winter sun before the cool breeze picks up.\n\nTo finish, the climbs to the Arabic Castle and through Barrio del Villa give your muscles a final workout, which is ideal in moderate winter temperatures."
+            "en": "A cool start at Plaza de la Iglesia. The fresh winter air gives you energy for the upcoming tour through the Andalusian hills.\n\nAt midday, riding the Vía Verde is a joy. The low sun perfectly illuminates the wide valleys, even if it's cool in the shadow of the tunnels.\n\nIn the afternoon, head to Santuario de los Remedios, offering ideal conditions for a picnic in the mild winter sun before the cool breeze picks up.\n\nTo finish, the climbs to the Arabic Castle and through Barrio del Villa give your muscles a final workout, which is ideal in moderate winter temperatures.",
+            "es": "Inicio fresco en la Plaza de la Iglesia. El aire invernal fresco te da energía para la próxima ruta por las colinas andaluzas.\n\nAl mediodía, pedalear por la Vía Verde es un placer. El sol bajo ilumina perfectamente los amplios valles, aunque hace fresco a la sombra de los túneles.\n\nPor la tarde, dirígete al Santuario de los Remedios, que ofrece condiciones ideales para un picnic bajo el suave sol invernal antes de que entre la brisa fría.\n\nPara finalizar, las subidas al Castillo Árabe y por el Barrio del Villa dan a tus músculos un último esfuerzo, ideal con temperaturas invernales moderadas."
           },
           "stops": [
             {
@@ -1110,7 +1202,8 @@
                 "de": "Starten Sie nicht zu früh; warten Sie, bis die Sonne die Straßen etwas aufgewärmt hat.",
                 "hu": "Ne induljon túl korán; várja meg, amíg a nap kicsit felmelegíti az utcákat.",
                 "ro": "Nu porniți prea devreme; așteptați până când soarele încălzește puțin străzile.",
-                "en": "Don't start too early; wait until the sun has warmed the streets a bit."
+                "en": "Don't start too early; wait until the sun has warmed the streets a bit.",
+                "es": "No empieces demasiado temprano; espera hasta que el sol haya calentado un poco las calles."
               }
             },
             {
@@ -1119,7 +1212,8 @@
                 "de": "In den Tunneln kann es deutlich kälter sein als draußen; halten Sie die Jacke bereit.",
                 "hu": "Az alagutakban lényegesen hidegebb lehet, mint kint; tartsa készenlétben a kabátját.",
                 "ro": "În tuneluri poate fi mult mai frig decât afară; țineți jacheta la îndemână.",
-                "en": "It can be significantly colder inside the tunnels than outside; keep your jacket ready."
+                "en": "It can be significantly colder inside the tunnels than outside; keep your jacket ready.",
+                "es": "Puede hacer bastante más frío dentro de los túneles que fuera; mantén la chaqueta a mano."
               }
             },
             {
@@ -1128,7 +1222,8 @@
                 "de": "Nutzen Sie den windgeschützten Innenhof für eine kurze Verschnaufpause in der Sonne.",
                 "hu": "Használja a szélvédett belső udvart egy rövid pihenőre a napsütésben.",
                 "ro": "Folosiți curtea interioară ferită de vânt pentru o scurtă pauză la soare.",
-                "en": "Use the wind-protected inner courtyard for a short breather in the sun."
+                "en": "Use the wind-protected inner courtyard for a short breather in the sun.",
+                "es": "Utiliza el patio interior resguardado para un breve descanso al sol."
               }
             },
             {
@@ -1137,7 +1232,8 @@
                 "de": "Der Anstieg hält Sie warm, aber oben am Turm kann der Winterwind schneidend sein.",
                 "hu": "Az emelkedő melegen tart, de a torony tetején a téli szél metsző lehet.",
                 "ro": "Urcarea vă va ține cald, dar sus la turn vântul de iarnă poate fi tăios.",
-                "en": "The climb will keep you warm, but at the top of the tower, the winter wind can be biting."
+                "en": "The climb will keep you warm, but at the top of the tower, the winter wind can be biting.",
+                "es": "La subida te mantendrá caliente, pero en la cima de la torre el viento invernal puede ser cortante."
               }
             },
             {
@@ -1146,7 +1242,8 @@
                 "de": "Achten Sie in schattigen Gassen auf eventuelle Feuchtigkeit, die länger stehen bleibt.",
                 "hu": "Az árnyékos utcákban ügyeljen a nedvességre, amely télen tovább megmarad.",
                 "ro": "În străzile umbrite, fiți atenți la umezeala care persistă mai mult timp.",
-                "en": "In shaded alleys, watch out for moisture that stays longer in winter."
+                "en": "In shaded alleys, watch out for moisture that stays longer in winter.",
+                "es": "En callejones sombreados, vigila la humedad que se mantiene más tiempo en invierno."
               }
             }
           ],
@@ -1179,6 +1276,13 @@
               "Drink enough even in the cold; dry winter air dehydrates you unnoticed.",
               "The Vía Verde is less busy in winter, offering a very relaxed riding experience.",
               "A thermos with warm tea in the bottle cage is a real luxury on the go."
+            ],
+            "es": [
+              "Se recomiendan guantes de dedo completo para los descensos y los túneles fríos.",
+              "Asegúrate de que las luces de la bicicleta funcionen, ya que empieza a oscurecer desde las 17:30.",
+              "Bebe lo suficiente incluso en frío; el aire seco invernal te deshidrata sin que te des cuenta.",
+              "La Vía Verde está menos concurrida en invierno, ofreciendo una experiencia de ciclismo muy relajada.",
+              "Un termo con té caliente en el portabidón es un verdadero lujo en movimiento."
             ]
           }
         }
@@ -1207,7 +1311,8 @@
             "de": "Parken Sie unterhalb der Burg.",
             "hu": "Parkoljon a vár alatt.",
             "ro": "Parcați sub castel.",
-            "en": "Park below the castle."
+            "en": "Park below the castle.",
+            "es": "Aparca abajo del castillo."
           }
         },
         {
@@ -1225,7 +1330,8 @@
             "de": "Die Kirche ist das Wahrzeichen der Stadt.",
             "hu": "A templom a város jelképe.",
             "ro": "Biserica este simbolul orașului.",
-            "en": "The church is the landmark of the city."
+            "en": "The church is the landmark of the city.",
+            "es": "La iglesia es el punto de referencia de la ciudad."
           }
         },
         {
@@ -1243,7 +1349,8 @@
             "de": "Wunderschöne Gärten rund um den Komplex.",
             "hu": "Gyönyörű kertek a komplexum körül.",
             "ro": "Grădini frumoase în jurul complexului.",
-            "en": "Beautiful gardens around the complex."
+            "en": "Beautiful gardens around the complex.",
+            "es": "Bonitos jardines alrededor del conjunto."
           }
         },
         {
@@ -1261,7 +1368,8 @@
             "de": "Kurzer Spaziergang auf der alten Trasse.",
             "hu": "Rövid séta a régi nyomvonalon.",
             "ro": "O scurtă plimbare pe vechiul traseu.",
-            "en": "Short walk on the old track."
+            "en": "Short walk on the old track.",
+            "es": "Corto paseo por la antigua vía."
           }
         },
         {
@@ -1279,7 +1387,8 @@
             "de": "Am besten zu Fuß erkunden.",
             "hu": "Legjobb gyalog felfedezni.",
             "ro": "Cel mai bine de explorat la pas.",
-            "en": "Best explored on foot."
+            "en": "Best explored on foot.",
+            "es": "Mejor explorado a pie."
           }
         }
       ],
@@ -1287,7 +1396,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die Höhepunkte von Olvera. Starten Sie bei der monumentalen Burg und der Kirche im Zentrum. Danach führt eine kurze Fahrt zum abgelegenen Santuario de los Remedios, einem Ort tiefer Spiritualität. Entdecken Sie die Vía Verde aus einer anderen Perspektive, bevor Sie den Tag im historischen Stadtkern ausklingen lassen.",
         "hu": "Autóval kényelmesen elérheti Olvera legfontosabb látnivalóit. Kezdje a monumentális várnál és a központi templomnál. Ezután egy rövid autózás vezet a távoli Santuario de los Remedioshoz, a mély spiritualitás helyszínéhez. Fedezze fel a Vía Verde-t egy másik nézőpontból, mielőtt a napot a történelmi városmagban zárná.",
         "ro": "Cu mașina puteți ajunge confortabil la punctele culminante din Olvera. Începeți la castelul monumental și biserica din centru. Apoi, o scurtă călătorie vă duce la sanctuarul izolat Los Remedios, un loc de spiritualitate profundă. Descoperiți Vía Verde dintr-o altă perspectivă înainte de a încheia ziua în centrul istoric.",
-        "en": "By car, you can comfortably reach Olvera's highlights. Start at the monumental castle and the church in the center. Then, a short drive leads to the remote Santuario de los Remedios, a place of deep spirituality. Discover the Vía Verde from a different perspective before ending the day in the historical city core."
+        "en": "By car, you can comfortably reach Olvera's highlights. Start at the monumental castle and the church in the center. Then, a short drive leads to the remote Santuario de los Remedios, a place of deep spirituality. Discover the Vía Verde from a different perspective before ending the day in the historical city core.",
+        "es": "En coche, puedes llegar cómodamente a los puntos destacados de Olvera. Comienza en el monumental castillo y la iglesia del centro. Luego, un corto trayecto conduce al remoto Santuario de los Remedios, un lugar de profunda espiritualidad. Descubre la Vía Verde desde otra perspectiva antes de terminar el día en el núcleo histórico de la ciudad."
       },
       "gastro_picks": {
         "de": [
@@ -1395,6 +1505,12 @@
           "The drive to the Sanctuary takes only 10 minutes.",
           "Watch out for one-way streets in the old quarter.",
           "The car is ideal for seeing the surrounding olive groves."
+        ],
+        "es": [
+          "Aparcar en el centro puede ser complicado; utiliza las zonas habilitadas.",
+          "El trayecto al Santuario dura solo 10 minutos.",
+          "Cuidado con las calles de sentido único en el casco antiguo.",
+          "El coche es ideal para ver los olivares de los alrededores."
         ]
       },
       "variants": {
@@ -1403,7 +1519,8 @@
             "de": "Mit dem Auto erreichen Sie bequem die Höhepunkte von Olvera. Starten Sie bei der monumentalen Burg und der Kirche im Zentrum. Danach führt eine kurze Fahrt zum abgelegenen Santuario de los Remedios, einem Ort tiefer Spiritualität. Entdecken Sie die Vía Verde aus einer anderen Perspektive, bevor Sie den Tag im historischen Stadtkern ausklingen lassen.",
             "hu": "Autóval kényelmesen elérheti Olvera legfontosabb látnivalóit. Kezdje a monumentális várnál és a központi templomnál. Ezután egy rövid autózás vezet a távoli Santuario de los Remedioshoz, a mély spiritualitás helyszínéhez. Fedezze fel a Vía Verde-t egy másik nézőpontból, mielőtt a napot a történelmi városmagban zárná.",
             "ro": "Cu mașina puteți ajunge confortabil la punctele culminante din Olvera. Începeți la castelul monumental și biserica din centru. Apoi, o scurtă călătorie vă duce la sanctuarul izolat Los Remedios, un loc de spiritualitate profundă. Descoperiți Vía Verde dintr-o altă perspectivă înainte de a încheia ziua în centrul istoric.",
-            "en": "By car, you can comfortably reach Olvera's highlights. Start at the monumental castle and the church in the center. Then, a short drive leads to the remote Santuario de los Remedios, a place of deep spirituality. Discover the Vía Verde from a different perspective before ending the day in the historical city core."
+            "en": "By car, you can comfortably reach Olvera's highlights. Start at the monumental castle and the church in the center. Then, a short drive leads to the remote Santuario de los Remedios, a place of deep spirituality. Discover the Vía Verde from a different perspective before ending the day in the historical city core.",
+            "es": "En coche, puedes llegar cómodamente a los puntos destacados de Olvera. Comienza en el monumental castillo y la iglesia del centro. Luego, un corto trayecto conduce al remoto Santuario de los Remedios, un lugar de profunda espiritualidad. Descubre la Vía Verde desde otra perspectiva antes de terminar el día en el núcleo histórico de la ciudad."
           },
           "stops": [
             {
@@ -1412,7 +1529,8 @@
                 "de": "Parken Sie unterhalb der Burg.",
                 "hu": "Parkoljon a vár alatt.",
                 "ro": "Parcați sub castel.",
-                "en": "Park below the castle."
+                "en": "Park below the castle.",
+                "es": "Aparca abajo del castillo."
               }
             },
             {
@@ -1421,7 +1539,8 @@
                 "de": "Die Kirche ist das Wahrzeichen der Stadt.",
                 "hu": "A templom a város jelképe.",
                 "ro": "Biserica este simbolul orașului.",
-                "en": "The church is the landmark of the city."
+                "en": "The church is the landmark of the city.",
+                "es": "La iglesia es el punto de referencia de la ciudad."
               }
             },
             {
@@ -1430,7 +1549,8 @@
                 "de": "Wunderschöne Gärten rund um den Komplex.",
                 "hu": "Gyönyörű kertek a komplexum körül.",
                 "ro": "Grădini frumoase în jurul complexului.",
-                "en": "Beautiful gardens around the complex."
+                "en": "Beautiful gardens around the complex.",
+                "es": "Bonitos jardines alrededor del conjunto."
               }
             },
             {
@@ -1439,7 +1559,8 @@
                 "de": "Kurzer Spaziergang auf der alten Trasse.",
                 "hu": "Rövid séta a régi nyomvonalon.",
                 "ro": "O scurtă plimbare pe vechiul traseu.",
-                "en": "Short walk on the old track."
+                "en": "Short walk on the old track.",
+                "es": "Corto paseo por la antigua vía."
               }
             },
             {
@@ -1448,7 +1569,8 @@
                 "de": "Am besten zu Fuß erkunden.",
                 "hu": "Legjobb gyalog felfedezni.",
                 "ro": "Cel mai bine de explorat la pas.",
-                "en": "Best explored on foot."
+                "en": "Best explored on foot.",
+                "es": "Mejor explorado a pie."
               }
             }
           ],
@@ -1558,6 +1680,12 @@
               "The drive to the Sanctuary takes only 10 minutes.",
               "Watch out for one-way streets in the old quarter.",
               "The car is ideal for seeing the surrounding olive groves."
+            ],
+            "es": [
+              "Aparcar en el centro puede ser complicado; utiliza las zonas habilitadas.",
+              "El trayecto al Santuario dura solo 10 minutos.",
+              "Cuidado con las calles de sentido único en el casco antiguo.",
+              "El coche es ideal para ver los olivares de los alrededores."
             ]
           }
         },
@@ -1566,7 +1694,8 @@
             "de": "Starten Sie beim Castillo Árabe; der Parkplatz ist nah und der Weg zum Turm kurz. Bei Regen ist das Auto die bequemste Basis für Olvera.\n\nMittags geht es zur Parroquia. Parken Sie in der Nähe und nutzen Sie die Schirme für den kurzen Weg zur imposanten Kirche.\n\nDanach führt die Fahrt zum Santuario de los Remedios. Die Straße bietet spektakuläre Ausblicke auf die regnerische Landschaft, während Sie trocken bleiben.\n\nDer Tag führt weiter zur Vía Verde, wo Sie vom Parkplatz aus einen kurzen Spaziergang machen können, bevor Sie das Barrio del Villa im Schutz Ihres Wagens erkunden.",
             "hu": "Kezdjen az Arab várnál; a parkoló közel van, az út a toronyhoz rövid. Esőben az autó a legkényelmesebb bázis Olverában.\n\nDélben irány a plébániatemplom. Parkoljon a közelben, és használjon esernyőt a rövid úton a monumentális épületig.\n\nEzután a Santuario de los Remedios felé visz az út. Az autóút látványos kilátást nyújt az esős tájra, miközben Ön száraz marad.\n\nA nap a Vía Verdénél folytatódik, ahol a parkolóból tehet egy rövid sétát, mielőtt autóval felfedezné a Barrio del Villa környékét.",
             "ro": "Începeți la Castillo Árabe; parcarea este aproape și drumul spre turn este scurt. Pe ploaie, mașina este baza cea mai confortabilă în Olvera.\n\nLa prânz mergeți spre parohie. Parcați în apropiere și folosiți umbrelele pentru drumul scurt spre biserica impunătoare.\n\nApoi, drumul duce spre Santuario de los Remedios. Șoseaua oferă vederi spectaculoase asupra peisajului ploios în timp ce rămâneți uscați.\n\nZiua continuă la Vía Verde, unde puteți face o scurtă plimbare din parcare înainte de a explora Barrio del Villa din confortul mașinii.",
-            "en": "Start at the Arabic Castle; the parking lot is nearby and the path to the tower is short. In the rain, the car is the most comfortable base for Olvera.\n\nAt midday, head to the parish church. Park nearby and use umbrellas for the short walk to the imposing building.\n\nNext, the drive leads to Santuario de los Remedios. The road offers spectacular views of the rainy landscape while you stay dry.\n\nThe day continues to Vía Verde, where you can take a short walk from the parking lot before exploring Barrio del Villa from the protection of your car."
+            "en": "Start at the Arabic Castle; the parking lot is nearby and the path to the tower is short. In the rain, the car is the most comfortable base for Olvera.\n\nAt midday, head to the parish church. Park nearby and use umbrellas for the short walk to the imposing building.\n\nNext, the drive leads to Santuario de los Remedios. The road offers spectacular views of the rainy landscape while you stay dry.\n\nThe day continues to Vía Verde, where you can take a short walk from the parking lot before exploring Barrio del Villa from the protection of your car.",
+            "es": "Comienza en el Castillo Árabe; el aparcamiento está cerca y el acceso a la torre es corto. Con lluvia, el coche es la base más cómoda para Olvera.\n\nAl mediodía, dirígete a la iglesia parroquial. Aparca cerca y usa paraguas para el corto paseo hasta el imponente edificio.\n\nA continuación, el trayecto conduce al Santuario de los Remedios. La carretera ofrece vistas espectaculares del paisaje lluvioso mientras tú te mantienes seco.\n\nEl día continúa en la Vía Verde, donde puedes dar un corto paseo desde el aparcamiento antes de explorar Barrio del Villa desde la protección de tu coche."
           },
           "stops": [
             {
@@ -1575,7 +1704,8 @@
                 "de": "Nutzen Sie den Parkplatz direkt unterhalb des Schlosses, um Wege im Regen zu minimieren.",
                 "hu": "Használja a közvetlenül a vár alatt lévő parkolót, hogy minimalizálja az esőben megtett utat.",
                 "ro": "Folosiți parcarea direct sub castel pentru a minimiza distanța parcursă prin ploaie.",
-                "en": "Use the parking lot directly below the castle to minimize walking in the rain."
+                "en": "Use the parking lot directly below the castle to minimize walking in the rain.",
+                "es": "Usa el aparcamiento justo debajo del castillo para minimizar el paseo bajo la lluvia."
               }
             },
             {
@@ -1584,7 +1714,8 @@
                 "de": "Das Ein- und Aussteigen kann bei starkem Wind oben am Hügel etwas schwierig sein.",
                 "hu": "A ki- és beszállás nehézkes lehet az erős szélben a domb tetején.",
                 "ro": "Urcarea și coborârea din mașină pot fi dificile din cauza vântului puternic de pe deal.",
-                "en": "Getting in and out of the car can be tricky with strong winds at the top of the hill."
+                "en": "Getting in and out of the car can be tricky with strong winds at the top of the hill.",
+                "es": "Subir y bajar del coche puede ser complicado con vientos fuertes en la cima de la colina."
               }
             },
             {
@@ -1593,7 +1724,8 @@
                 "de": "Die Zufahrtsstraße ist kurvig; fahren Sie bei Nässe besonders vorsichtig.",
                 "hu": "A bekötőút kanyargós; vizes úton vezessen különösen óvatosan.",
                 "ro": "Drumul de acces este sinuos; conduceți cu prudență sporită pe carosabil umed.",
-                "en": "The access road is winding; drive with extra caution in wet conditions."
+                "en": "The access road is winding; drive with extra caution in wet conditions.",
+                "es": "La carretera de acceso es sinuosa; conduce con precaución extra en condiciones de humedad."
               }
             },
             {
@@ -1602,7 +1734,8 @@
                 "de": "Vom Auto aus hat man einen tollen Blick auf den ehemaligen Viadukt im Regen.",
                 "hu": "Az autóból remek kilátás nyílik a régi viaduktra az esőben.",
                 "ro": "Din mașină aveți o vedere excelentă asupra viaductului vechi sub ploaie.",
-                "en": "From the car, you have a great view of the old viaduct in the rain."
+                "en": "From the car, you have a great view of the old viaduct in the rain.",
+                "es": "Desde el coche tienes una gran vista del antiguo viaducto bajo la lluvia."
               }
             },
             {
@@ -1611,7 +1744,8 @@
                 "de": "Die Gassen sind extrem eng; parken Sie am Stadtrand und gehen Sie den Rest zu Fuß.",
                 "hu": "Az utcák rendkívül szűkek; parkoljon a város szélén, és a többit tegye meg gyalog.",
                 "ro": "Străzile sunt extrem de înguste; parcați la periferie și parcurgeți restul pe jos.",
-                "en": "The alleys are extremely narrow; park on the outskirts and walk the rest of the way."
+                "en": "The alleys are extremely narrow; park on the outskirts and walk the rest of the way.",
+                "es": "Las callejuelas son extremadamente estrechas; aparca en la periferia y camina el resto."
               }
             }
           ],
@@ -1643,6 +1777,13 @@
               "Watch out for runoff water on the steep access roads to Olvera.",
               "Use the windshield defroster as humidity inside the car can rise quickly.",
               "There are several gas stations on the outskirts of Olvera if you need new wiper blades."
+            ],
+            "es": [
+              "Evita conducir por las callejuelas más estrechas del casco antiguo; se vuelven resbaladizas con la lluvia.",
+              "Los aparcamientos en la base del castillo son la mejor opción para ver la ciudad en seco.",
+              "Cuidado con el agua que corre por las empinadas vías de acceso a Olvera.",
+              "Usa el desempañador del parabrisas, la humedad dentro del coche puede subir rápidamente.",
+              "Hay varias gasolineras en las afueras de Olvera si necesitas nuevas escobillas."
             ]
           }
         },
@@ -1651,7 +1792,8 @@
             "de": "Ein strahlender Wintermorgen am Castillo Árabe. Die Sicht aus dem Auto bei der Anfahrt ist atemberaubend, wenn der Reif auf den Feldern glitzert.\n\nMittags bietet die Fahrt zur Parroquia die Möglichkeit, die Stadt ohne die Sommerhitze zu erleben. Die Parkplatzsuche ist im Winter entspannter.\n\nDer Ausflug zum Santuario de los Remedios führt durch winterliche Olivenhaine. Die tiefstehende Sonne sorgt für ein tolles Lichtspiel auf der Motorhaube.\n\nNach einem Stopp an der Vía Verde endet der Tag im Barrio del Villa. Wenn es abends kühl wird, schätzt man die Sitzheizung auf dem Rückweg zum Hotel.",
             "hu": "Szikrázó téli reggel az Arab várnál. Az autóval való érkezéskor a kilátás lélegzetelállító, ahogy a dér csillog a mezőkön.\n\nDélben a templomhoz vezető út lehetőséget ad a város felfedezésére a nyári hőség nélkül. A parkolás télen sokkal nyugodtabb.\n\nA kirándulás a Santuario de los Remedios-hoz téli olajfaligeteken át vezet. Az alacsony nap gyönyörű fényjátékot produkál az autó motorháztetőjén.\n\nA Vía Verdénél tett megálló után a nap a Barrio del Villa negyedben zárul. Amikor este lehűl, jól jön az ülésfűtés a szálloda felé.",
             "ro": "O dimineață radioasă de iarnă la Castillo Árabe. Vederea din mașină la sosire este uluitoare, cu promoroaca sclipind pe câmpuri.\n\nLa prânz, drumul spre parohie oferă ocazia de a experimenta orașul fără căldura verii. Găsirea unui loc de parcare este mai relaxată iarna.\n\nExcursia la Santuario de los Remedios trece prin livezi de măslini hibernale. Soarele jos creează un joc de lumini superb pe capota mașinii.\n\nDupă o oprire la Vía Verde, ziua se încheie în Barrio del Villa. Când se face frig seara, veți aprecia scaunele încălzite la întoarcerea spre hotel.",
-            "en": "A bright winter morning at the Arabic Castle. The view from the car on the way in is breathtaking, with frost glistening on the fields.\n\nAt midday, the drive to the parish church offers a chance to experience the town without the summer heat. Parking is much more relaxed in winter.\n\nThe excursion to Santuario de los Remedios leads through winter olive groves. The low sun creates a beautiful play of light on the car's hood.\n\nAfter a stop at Vía Verde, the day ends in Barrio del Villa. As it gets cool in the evening, you'll appreciate the seat heaters on the way back to the hotel."
+            "en": "A bright winter morning at the Arabic Castle. The view from the car on the way in is breathtaking, with frost glistening on the fields.\n\nAt midday, the drive to the parish church offers a chance to experience the town without the summer heat. Parking is much more relaxed in winter.\n\nThe excursion to Santuario de los Remedios leads through winter olive groves. The low sun creates a beautiful play of light on the car's hood.\n\nAfter a stop at Vía Verde, the day ends in Barrio del Villa. As it gets cool in the evening, you'll appreciate the seat heaters on the way back to the hotel.",
+            "es": "Una brillante mañana invernal en el Castillo Árabe. La vista desde el coche al entrar es impresionante, con escarcha brillando en los campos.\n\nAl mediodía, el trayecto a la iglesia parroquial permite experimentar el pueblo sin el calor veraniego. Aparcar es mucho más relajado en invierno.\n\nLa excursión al Santuario de los Remedios atraviesa olivares invernales. El sol bajo crea un hermoso juego de luces sobre el capó del coche.\n\nTras una parada en la Vía Verde, el día termina en el Barrio del Villa. Al enfriarse por la tarde, agradecerás los asientos calefactados de vuelta al hotel."
           },
           "stops": [
             {
@@ -1660,7 +1802,8 @@
                 "de": "Parken Sie so, dass Sie beim Aussteigen direkt die Wintersonne im Gesicht haben.",
                 "hu": "Úgy parkoljon, hogy kiszálláskor közvetlenül az arcába süssön a téli nap.",
                 "ro": "Parcați astfel încât să aveți soarele de iarnă direct în față când coborâți.",
-                "en": "Park so that you have the winter sun directly on your face when getting out."
+                "en": "Park so that you have the winter sun directly on your face when getting out.",
+                "es": "Aparca de forma que tengas el sol invernal directamente en la cara al salir."
               }
             },
             {
@@ -1669,7 +1812,8 @@
                 "de": "Im Winter finden hier oft Abendmessen statt; parken Sie rechtzeitig vor Beginn.",
                 "hu": "Télen gyakran tartanak esti miséket; parkoljon időben a kezdés előtt.",
                 "ro": "Iarna se țin adesea slujbe de seară; parcați din timp înainte de începere.",
-                "en": "Evening masses are common in winter; park well before they begin."
+                "en": "Evening masses are common in winter; park well before they begin.",
+                "es": "En invierno son comunes las misas vespertinas; aparca con tiempo antes de que empiecen."
               }
             },
             {
@@ -1678,7 +1822,8 @@
                 "de": "Der Parkplatz ist groß und bietet im Winter meist freie Platzwahl im Schatten oder in der Sonne.",
                 "hu": "A parkoló nagy, és télen általában szabadon választhat napos vagy árnyékos helyet.",
                 "ro": "Parcarea este mare și iarna oferă de obicei posibilitatea de a alege între soare și umbră.",
-                "en": "The parking lot is large and in winter usually offers a free choice between sun and shade."
+                "en": "The parking lot is large and in winter usually offers a free choice between sun and shade.",
+                "es": "El aparcamiento es amplio y en invierno suele ofrecer libre elección entre sol y sombra."
               }
             },
             {
@@ -1687,7 +1832,8 @@
                 "de": "Nutzen Sie das Auto als Windschutz, falls Sie am Rand der Vía Verde kurz halten wollen.",
                 "hu": "Használja az autót szélfogóként, ha rövid időre megállna a Vía Verde szélén.",
                 "ro": "Folosiți mașina ca paravan împotriva vântului dacă doriți să opriți scurt la marginea Vía Verde.",
-                "en": "Use the car as a windbreak if you want to stop briefly at the edge of the Vía Verde."
+                "en": "Use the car as a windbreak if you want to stop briefly at the edge of the Vía Verde.",
+                "es": "Usa el coche como cortavientos si quieres parar brevemente al borde de la Vía Verde."
               }
             },
             {
@@ -1696,7 +1842,8 @@
                 "de": "Die schattigen Seitenstraßen können morgens noch Raureif aufweisen; fahren Sie langsam.",
                 "hu": "Az árnyékos mellékutcákban reggel még lehet zúzmara; vezessen lassan.",
                 "ro": "Străzile laterale umbrite pot avea promoroacă dimineața; conduceți încet.",
-                "en": "Shady side streets may still have frost in the morning; drive slowly."
+                "en": "Shady side streets may still have frost in the morning; drive slowly.",
+                "es": "Las calles laterales sombrías pueden conservar escarcha por la mañana; conduce despacio."
               }
             }
           ],
@@ -1728,6 +1875,13 @@
               "The low sun can be extremely blinding; keep sunglasses within reach.",
               "Take advantage of the midday sun to drive with the window down and enjoy the fresh air.",
               "Winter tires are rarely needed in Andalusia, but good tread depth is important."
+            ],
+            "es": [
+              "Revisa el anticongelante del líquido del limpiaparabrisas si aparcas fuera por la noche.",
+              "Las carreteras de montaña alrededor de Olvera pueden estar resbaladizas por la mañana tras noches invernales despejadas.",
+              "El sol bajo puede deslumbrar mucho; ten las gafas de sol a mano.",
+              "Aprovecha el sol del mediodía para conducir con la ventanilla abierta y disfrutar del aire fresco.",
+              "Las ruedas de invierno rara vez son necesarias en Andalucía, pero es importante un buen dibujo en los neumáticos."
             ]
           }
         }
@@ -1756,7 +1910,8 @@
             "de": "Knotenpunkt für regionale Busse.",
             "hu": "Regionális buszok csomópontja.",
             "ro": "Nod rutier pentru autobuzele regionale.",
-            "en": "Hub for regional buses."
+            "en": "Hub for regional buses.",
+            "es": "Nudo de autobuses regionales."
           }
         },
         {
@@ -1774,7 +1929,8 @@
             "de": "Zentraler Halt im Oberdorf.",
             "hu": "Központi megálló a felsővárosban.",
             "ro": "Stație centrală în partea de sus a orașului.",
-            "en": "Central stop in the upper town."
+            "en": "Central stop in the upper town.",
+            "es": "Parada central en la parte alta del pueblo."
           }
         },
         {
@@ -1792,7 +1948,8 @@
             "de": "Kurzer Fußweg von der Bushaltestelle.",
             "hu": "Rövid séta a buszmegállótól.",
             "ro": "Scurtă plimbare de la stația de autobuz.",
-            "en": "Short walk from the bus stop."
+            "en": "Short walk from the bus stop.",
+            "es": "Corta caminata desde la parada de autobús."
           }
         },
         {
@@ -1810,7 +1967,8 @@
             "de": "Direkt neben der Burg.",
             "hu": "Közvetlenül a vár mellett.",
             "ro": "Chiar lângă castel.",
-            "en": "Right next to the castle."
+            "en": "Right next to the castle.",
+            "es": "Justo al lado del castillo."
           }
         },
         {
@@ -1828,7 +1986,8 @@
             "de": "Ideal für den Nachmittag.",
             "hu": "Ideális a délutáni órákra.",
             "ro": "Ideal pentru orele după-amiezii.",
-            "en": "Ideal for the afternoon hours."
+            "en": "Ideal for the afternoon hours.",
+            "es": "Ideal para las horas de la tarde."
           }
         }
       ],
@@ -1836,7 +1995,8 @@
         "de": "Nutzen Sie die öffentlichen Verkehrsmittel, um Olvera stressfrei zu erleben. Vom Busbahnhof aus erreichen Sie schnell das historische Zentrum auf dem Hügel. Verbringen Sie den Vormittag mit der Erkundung der Burg und des Museums. Der Nachmittag lädt zum Verweilen im Barrio del Villa ein, bevor Sie bequem zum Ausgangspunkt zurückkehren.",
         "hu": "Használja a tömegközlekedést Olvera stresszmentes felfedezéséhez. A buszpályaudvarról gyorsan elérheti a dombtetőn lévő történelmi központot. Töltse a délelőttöt a vár és a múzeum felfedezésével. A délután a Barrio del Villában való elidőzésre hív, mielőtt kényelmesen visszatérne a kiindulóponthoz.",
         "ro": "Folosiți transportul public pentru a experimenta Olvera fără stres. De la autogară puteți ajunge rapid la centrul istoric de pe deal. Petreceți dimineața explorând castelul și muzeul. După-amiaza vă invită să zăboviți în Barrio del Villa înainte de a reveni confortabil la punctul de plecare.",
-        "en": "Use public transport to experience Olvera stress-free. From the bus station, you can quickly reach the historical center on the hill. Spend the morning exploring the castle and the museum. The afternoon invites you to linger in the Barrio del Villa before returning comfortably to the starting point."
+        "en": "Use public transport to experience Olvera stress-free. From the bus station, you can quickly reach the historical center on the hill. Spend the morning exploring the castle and the museum. The afternoon invites you to linger in the Barrio del Villa before returning comfortably to the starting point.",
+        "es": "Usa el transporte público para vivir Olvera sin estrés. Desde la estación de autobuses puedes llegar rápidamente al centro histórico en la colina. Pasa la mañana explorando el castillo y el museo. La tarde invita a quedarse en el Barrio del Villa antes de volver cómodamente al punto de partida."
       },
       "gastro_picks": {
         "de": [
@@ -1944,6 +2104,12 @@
           "Buses run less frequently on weekends.",
           "The stop in the upper town saves a lot of energy.",
           "Taxis are a good alternative for steep stretches."
+        ],
+        "es": [
+          "Consulta los horarios locales de autobús con antelación.",
+          "Los autobuses circulan con menos frecuencia los fines de semana.",
+          "La parada en la parte alta del pueblo ahorra mucha energía.",
+          "Los taxis son una buena alternativa para los tramos empinados."
         ]
       },
       "variants": {
@@ -1952,7 +2118,8 @@
             "de": "Nutzen Sie die öffentlichen Verkehrsmittel, um Olvera stressfrei zu erleben. Vom Busbahnhof aus erreichen Sie schnell das historische Zentrum auf dem Hügel. Verbringen Sie den Vormittag mit der Erkundung der Burg und des Museums. Der Nachmittag lädt zum Verweilen im Barrio del Villa ein, bevor Sie bequem zum Ausgangspunkt zurückkehren.",
             "hu": "Használja a tömegközlekedést Olvera stresszmentes felfedezéséhez. A buszpályaudvarról gyorsan elérheti a dombtetőn lévő történelmi központot. Töltse a délelőttöt a vár és a múzeum felfedezésével. A délután a Barrio del Villában való elidőzésre hív, mielőtt kényelmesen visszatérne a kiindulóponthoz.",
             "ro": "Folosiți transportul public pentru a experimenta Olvera fără stres. De la autogară puteți ajunge rapid la centrul istoric de pe deal. Petreceți dimineața explorând castelul și muzeul. După-amiaza vă invită să zăboviți în Barrio del Villa înainte de a reveni confortabil la punctul de plecare.",
-            "en": "Use public transport to experience Olvera stress-free. From the bus station, you can quickly reach the historical center on the hill. Spend the morning exploring the castle and the museum. The afternoon invites you to linger in the Barrio del Villa before returning comfortably to the starting point."
+            "en": "Use public transport to experience Olvera stress-free. From the bus station, you can quickly reach the historical center on the hill. Spend the morning exploring the castle and the museum. The afternoon invites you to linger in the Barrio del Villa before returning comfortably to the starting point.",
+            "es": "Usa el transporte público para disfrutar de Olvera sin estrés. Desde la estación de autobuses llegas rápido al casco histórico en la colina. Pasa la mañana explorando el castillo y el museo. La tarde invita a pasear por el Barrio de la Villa antes de volver cómodamente al punto de partida."
           },
           "stops": [
             {
@@ -1961,7 +2128,8 @@
                 "de": "Knotenpunkt für regionale Busse.",
                 "hu": "Regionális buszok csomópontja.",
                 "ro": "Nod rutier pentru autobuzele regionale.",
-                "en": "Hub for regional buses."
+                "en": "Hub for regional buses.",
+                "es": "Nudo de conexiones de autobuses regionales."
               }
             },
             {
@@ -1970,7 +2138,8 @@
                 "de": "Zentraler Halt im Oberdorf.",
                 "hu": "Központi megálló a felsővárosban.",
                 "ro": "Stație centrală în partea de sus a orașului.",
-                "en": "Central stop in the upper town."
+                "en": "Central stop in the upper town.",
+                "es": "Parada central en la parte alta del pueblo."
               }
             },
             {
@@ -1979,7 +2148,8 @@
                 "de": "Kurzer Fußweg von der Bushaltestelle.",
                 "hu": "Rövid séta a buszmegállótól.",
                 "ro": "Scurtă plimbare de la stația de autobuz.",
-                "en": "Short walk from the bus stop."
+                "en": "Short walk from the bus stop.",
+                "es": "A poca distancia a pie desde la parada de autobús."
               }
             },
             {
@@ -1988,7 +2158,8 @@
                 "de": "Direkt neben der Burg.",
                 "hu": "Közvetlenül a vár mellett.",
                 "ro": "Chiar lângă castel.",
-                "en": "Right next to the castle."
+                "en": "Right next to the castle.",
+                "es": "Justo al lado del castillo."
               }
             },
             {
@@ -1997,7 +2168,8 @@
                 "de": "Ideal für den Nachmittag.",
                 "hu": "Ideális a délutáni órákra.",
                 "ro": "Ideal pentru orele după-amiezii.",
-                "en": "Ideal for the afternoon hours."
+                "en": "Ideal for the afternoon hours.",
+                "es": "Ideal para las horas de la tarde."
               }
             }
           ],
@@ -2107,6 +2279,12 @@
               "Buses run less frequently on weekends.",
               "The stop in the upper town saves a lot of energy.",
               "Taxis are a good alternative for steep stretches."
+            ],
+            "es": [
+              "Consulta los horarios locales de autobuses con antelación.",
+              "Los autobuses circulan con menos frecuencia los fines de semana.",
+              "La parada en la parte alta del pueblo ahorra mucha energía.",
+              "Los taxis son una buena alternativa para los tramos empinados."
             ]
           }
         },
@@ -2115,7 +2293,8 @@
             "de": "Ankunft am Busbahnhof Olvera. Das Gebäude bietet Schutz, während Sie auf den Anschluss warten. Bei Regen sind die Busse eine trockene Alternative.\n\nMittags erreichen Sie die Plaza de la Iglesia. Kurze Sprints zwischen den Haltestellen und den Gebäuden minimieren den Kontakt mit dem Regen.\n\nNachmittags führt die Tour zum Castillo Árabe. Die Aussicht aus dem Busfenster auf die regennassen Gassen der Unterstadt ist sehr stimmungsvoll.\n\nDer Tag endet mit einem Besuch im Museo de la Cilla und dem Barrio del Villa, bevor Sie bequem mit dem Bus zurück zum Ausgangspunkt fahren.",
             "hu": "Érkezés az Olvera buszpályaudvarra. Az épület védelmet nyújt, amíg a csatlakozásra vár. Esőben a buszok száraz alternatívát jelentenek.\n\nDélben eléri a Plaza de la Iglesia-t. A megállók és az épületek közötti rövid futásokkal minimalizálhatja az esővel való érintkezést.\n\nDélután a túra az Arab vár felé folytatódik. A busz ablakából a vizes utcák látványa az alsóvárosban nagyon hangulatos.\n\nA nap a Museo de la Cilla és a Barrio del Villa látogatásával zárul, mielőtt kényelmesen visszabuszozna a kiindulópontra.",
             "ro": "Sosire la autogara Olvera. Clădirea oferă adăpost în timp ce așteptați legătura. Pe ploaie, autobuzele sunt o alternativă uscată.\n\nLa prânz ajungeți la Plaza de la Iglesia. Scurtele reprize de mers între stații și clădiri minimizează contactul cu ploaia.\n\nDupă-amiaza, turul continuă spre Castillo Árabe. Vederea de pe geamul autobuzului asupra străzilor umede din orașul de jos este foarte atmosferică.\n\nZiua se încheie cu o vizită la Museo de la Cilla și Barrio del Villa, înainte de a reveni confortabil cu autobuzul la punctul de plecare.",
-            "en": "Arrival at Olvera bus station. The building provides shelter while you wait for your connection. In the rain, buses are a dry alternative.\n\nAt midday, you reach Plaza de la Iglesia. Short sprints between stops and buildings minimize contact with the rain.\n\nIn the afternoon, the tour continues toward the Arabic Castle. The view from the bus window of the rain-soaked streets in the lower town is very atmospheric.\n\nThe day ends with a visit to Museo de la Cilla and Barrio del Villa before taking a comfortable bus ride back to the starting point."
+            "en": "Arrival at Olvera bus station. The building provides shelter while you wait for your connection. In the rain, buses are a dry alternative.\n\nAt midday, you reach Plaza de la Iglesia. Short sprints between stops and buildings minimize contact with the rain.\n\nIn the afternoon, the tour continues toward the Arabic Castle. The view from the bus window of the rain-soaked streets in the lower town is very atmospheric.\n\nThe day ends with a visit to Museo de la Cilla and Barrio del Villa before taking a comfortable bus ride back to the starting point.",
+            "es": "Llegada a la estación de autobuses de Olvera. El edificio ofrece refugio mientras esperas la conexión. Con lluvia, los autobuses son una alternativa seca.\n\nAl mediodía alcanzas la Plaza de la Iglesia. Los cortos tramos entre paradas y edificios minimizan el contacto con la lluvia.\n\nPor la tarde, la ruta continúa hacia el Castillo árabe. La vista desde la ventana del autobús de las calles empapadas del barrio bajo es muy atmosférica.\n\nEl día termina con una visita al Museo de la Cilla y al Barrio de la Villa antes de tomar un cómodo autobús de regreso al punto de partida."
           },
           "stops": [
             {
@@ -2124,7 +2303,8 @@
                 "de": "Bleiben Sie im überdachten Wartebereich, bis der Bus direkt vorfährt.",
                 "hu": "Maradjon a fedett váróteremben, amíg a busz közvetlenül be nem áll.",
                 "ro": "Rămâneți în zona de așteptare acoperită până când autobuzul trage la peron.",
-                "en": "Stay in the covered waiting area until the bus pulls up directly."
+                "en": "Stay in the covered waiting area until the bus pulls up directly.",
+                "es": "Permanece en la zona de espera cubierta hasta que el autobús pare justo ahí."
               }
             },
             {
@@ -2133,7 +2313,8 @@
                 "de": "Die Haltestelle ist nah an der Kirche; nutzen Sie den kurzen Weg für weniger Nässe.",
                 "hu": "A megálló közel van a templomhoz; használja a rövid utat, hogy kevésbé ázzon el.",
                 "ro": "Stația este aproape de biserică; profitați de drumul scurt pentru a nu vă uda.",
-                "en": "The stop is near the church; take advantage of the short walk to stay drier."
+                "en": "The stop is near the church; take advantage of the short walk to stay drier.",
+                "es": "La parada está cerca de la iglesia; aprovecha la corta caminata para mantenerte más seco."
               }
             },
             {
@@ -2142,7 +2323,8 @@
                 "de": "Bedenken Sie, dass die Busse bei schlechtem Wetter manchmal leichte Verspätung haben.",
                 "hu": "Vegye figyelembe, hogy rossz időben a buszok néha késhetnek egy kicsit.",
                 "ro": "Țineți cont de faptul că autobuzele pot avea uneori mici întârzieri pe vreme rea.",
-                "en": "Keep in mind that buses may sometimes have slight delays in bad weather."
+                "en": "Keep in mind that buses may sometimes have slight delays in bad weather.",
+                "es": "Ten en cuenta que los autobuses pueden sufrir pequeños retrasos con mal tiempo."
               }
             },
             {
@@ -2151,7 +2333,8 @@
                 "de": "Ein idealer Ort, um die Zeit bis zur nächsten Busabfahrt im Trockenen zu verbringen.",
                 "hu": "Ideális hely a következő buszindulásig hátralévő idő szárazon való eltöltésére.",
                 "ro": "Un loc ideal pentru a petrece timpul la uscat până la următoarea plecare a autobuzului.",
-                "en": "An ideal place to spend time in the dry until the next bus departure."
+                "en": "An ideal place to spend time in the dry until the next bus departure.",
+                "es": "Un lugar ideal para pasar el tiempo en seco hasta la próxima salida."
               }
             },
             {
@@ -2160,7 +2343,8 @@
                 "de": "Die Busse umfahren die engsten Gassen; genießen Sie den Blick von der Hauptroute.",
                 "hu": "A buszok elkerülik a legszűkebb utcákat; élvezze a kilátást a főútvonalról.",
                 "ro": "Autobuzele ocolesc străzile cele mai înguste; bucurați-vă de vedere de pe ruta principală.",
-                "en": "Buses bypass the narrowest alleys; enjoy the view from the main route."
+                "en": "Buses bypass the narrowest alleys; enjoy the view from the main route.",
+                "es": "Los autobuses evitán los callejones más estrechos; disfruta la vista desde la ruta principal."
               }
             }
           ],
@@ -2192,6 +2376,13 @@
               "Bus stops in Olvera are well-marked and most offer shelter.",
               "Use the time in the dry bus to review your photos of the day.",
               "Buy tickets in advance if possible or have exact change ready."
+            ],
+            "es": [
+              "Revisa los horarios online para evitar esperas innecesarias bajo la lluvia.",
+              "Lleva un impermeable compacto que ocupe poco espacio en el autobús.",
+              "Las paradas de autobús en Olvera están bien señalizadas y la mayoría ofrecen refugio.",
+              "Aprovecha el rato en el autobús seco para repasar tus fotos del día.",
+              "Compra billetes con antelación si es posible o ten cambio exacto preparado."
             ]
           }
         },
@@ -2200,7 +2391,8 @@
             "de": "Start am Busbahnhof Olvera in der klaren Winterluft. Die Anfahrt bietet tolle Ausblicke auf das weiße Dorf am Hügel.\n\nMittags an der Plaza de la Iglesia. Die Sonne steht tief und taucht die Fassaden in ein warmes Licht, während Sie auf den nächsten Bus warten.\n\nNachmittags Besuch am Castillo Árabe. Der Bus bringt Sie bequem in die Oberstadt, was bei den kühlen Temperaturen sehr angenehm ist.\n\nDer Tag endet im Museo de la Cilla und Barrio del Villa. Die letzte Busfahrt des Tages bietet einen schönen Blick auf die beleuchtete Stadt im Dunkeln.",
             "hu": "Kezdés az olverai buszpályaudvaron a tiszta téli levegőben. Az érkezés remek kilátást nyújt a domboldalon fekvő fehér falura.\n\nDélben a Plaza de la Iglesia-nál. Az alacsonyan járó nap meleg fénybe vonja a homlokzatokat, miközben a következő buszra vár.\n\nDélután látogatás az Arab várnál. A busz kényelmesen felviszi a felsővárosba, ami a hűvös időben nagyon kellemes.\n\nA nap a Museo de la Cilla és a Barrio del Villa negyedben zárul. A nap utolsó buszos útja szép kilátást kínál a kivilágított városra.",
             "ro": "Începeți la autogara Olvera în aerul curat de iarnă. Sosirea oferă vederi minunate asupra satului alb de pe deal.\n\nLa prânz în Plaza de la Iglesia. Soarele jos scaldă fațadele într-o lumină caldă în timp ce așteptați următorul autobuz.\n\nDupă-amiaza, vizită la Castillo Árabe. Autobuzul vă duce confortabil în orașul de sus, ceea ce este foarte plăcut la temperaturile scăzute.\n\nZiua se încheie la Museo de la Cilla și Barrio del Villa. Ultima cursă cu autobuzul oferă o vedere frumoasă asupra orașului iluminat pe întuneric.",
-            "en": "Start at Olvera bus station in the clear winter air. The approach offers great views of the white village on the hill.\n\nAt midday at Plaza de la Iglesia. The low sun bathes the facades in a warm light while you wait for the next bus.\n\nIn the afternoon, visit the Arabic Castle. The bus takes you comfortably to the upper town, which is very pleasant in the cool temperatures.\n\nThe day ends at Museo de la Cilla and Barrio del Villa. The last bus ride of the day offers a beautiful view of the illuminated town in the dark."
+            "en": "Start at Olvera bus station in the clear winter air. The approach offers great views of the white village on the hill.\n\nAt midday at Plaza de la Iglesia. The low sun bathes the facades in a warm light while you wait for the next bus.\n\nIn the afternoon, visit the Arabic Castle. The bus takes you comfortably to the upper town, which is very pleasant in the cool temperatures.\n\nThe day ends at Museo de la Cilla and Barrio del Villa. The last bus ride of the day offers a beautiful view of the illuminated town in the dark.",
+            "es": "Comienza en la estación de autobuses de Olvera con el aire claro del invierno. La aproximación ofrece grandes vistas del pueblo blanco en la colina.\n\nAl mediodía estarás en la Plaza de la Iglesia. El sol bajo baña las fachadas con una luz cálida mientras esperas el siguiente autobús.\n\nPor la tarde, visita el Castillo árabe. El autobús te sube cómodamente a la parte alta, muy agradable con las temperaturas frescas.\n\nEl día acaba en el Museo de la Cilla y el Barrio de la Villa. El último viaje en autobús del día ofrece una hermosa vista del pueblo iluminado en la oscuridad."
           },
           "stops": [
             {
@@ -2209,7 +2401,8 @@
                 "de": "Im Winter ist der Warteraum beheizt; nutzen Sie ihn, falls der Bus Verspätung hat.",
                 "hu": "Télen a váróterem fűtött; használja ki, ha késne a busz.",
                 "ro": "Iarna sala de așteptare este încălzită; folosiți-o dacă autobuzul are întârziere.",
-                "en": "The waiting room is heated in winter; use it if the bus is delayed."
+                "en": "The waiting room is heated in winter; use it if the bus is delayed.",
+                "es": "La sala de espera está calefactada en invierno; úsala si el autobús se retrasa."
               }
             },
             {
@@ -2218,7 +2411,8 @@
                 "de": "Die Sonne wärmt die Haltestelle mittags angenehm auf; ein guter Platz zum Warten.",
                 "hu": "A nap délben kellemesen felmelegíti a megállót; jó hely a várakozásra.",
                 "ro": "Soarele încălzește stația plăcut la prânz; un loc bun pentru așteptare.",
-                "en": "The sun warms the bus stop pleasantly at midday; a good place to wait."
+                "en": "The sun warms the bus stop pleasantly at midday; a good place to wait.",
+                "es": "El sol calienta agradablemente la parada al mediodía; buen lugar para esperar."
               }
             },
             {
@@ -2227,7 +2421,8 @@
                 "de": "Beachten Sie die geänderten Winterfahrpläne, die oft weniger Spätverbindungen bieten.",
                 "hu": "Ügyeljen a téli menetrendre, amely gyakran kevesebb késő esti járatot tartalmaz.",
                 "ro": "Atenție la orarele de iarnă modificate, care oferă adesea mai puține legături târzii.",
-                "en": "Note the modified winter schedules, which often provide fewer late-night connections."
+                "en": "Note the modified winter schedules, which often provide fewer late-night connections.",
+                "es": "Ten en cuenta los horarios de invierno modificados, que suelen ofrecer menos conexiones nocturnas."
               }
             },
             {
@@ -2236,7 +2431,8 @@
                 "de": "Die Innenräume des Museums sind eine gute Aufwärmmöglichkeit zwischen den Fahrten.",
                 "hu": "A múzeum belső terei jó lehetőséget kínálnak a felmelegedésre két járat között.",
                 "ro": "Interiorul muzeului este o opțiune bună pentru a vă încălzi între curse.",
-                "en": "The museum's interior is a good place to warm up between bus rides."
+                "en": "The museum's interior is a good place to warm up between bus rides.",
+                "es": "El interior del museo es un buen lugar para entrar en calor entre trayectos en autobús."
               }
             },
             {
@@ -2245,7 +2441,8 @@
                 "de": "Die letzte Fahrt zurück bietet einen Panoramablick auf die beleuchtete Parroquia.",
                 "hu": "Az utolsó visszautat választva panorámás kilátás nyílik a kivilágított templomra.",
                 "ro": "Ultima cursă spre întoarcere oferă o vedere panoramică asupra parohiei iluminate.",
-                "en": "The last ride back offers a panoramic view of the illuminated parish church."
+                "en": "The last ride back offers a panoramic view of the illuminated parish church.",
+                "es": "El último viaje de regreso ofrece una vista panorámica de la iglesia parroquial iluminada."
               }
             }
           ],
@@ -2277,6 +2474,13 @@
               "Dress warmly for the waiting times at bus stops.",
               "Schedules can vary significantly during winter holidays (e.g., Christmas).",
               "A thermos with a warm drink makes waiting at the bus station more pleasant."
+            ],
+            "es": [
+              "Usa las conexiones de autobús para evitar subidas empinadas en el frío invernal.",
+              "Los autobuses suelen estar menos concurridos en invierno que en temporada alta.",
+              "Abrígate para los tiempos de espera en las paradas de autobús.",
+              "Los horarios pueden variar significativamente durante las vacaciones de invierno (p. ej., Navidad).",
+              "Un termo con bebida caliente hace más agradable la espera en la estación de autobuses."
             ]
           }
         }
@@ -2291,19 +2495,22 @@
       "de": "Olvera ist 'Pueblo Blanco', Spanisch dominiert. 'Vía Verde de la Sierra' kennt jeder – die berühmte Bahntrassen-Radroute. 'Aceite de oliva' lokal exzellent, in jeder Bar gibt's eine Verkostung.",
       "hu": "Olvera 'Pueblo Blanco', a spanyol uralkodik. A 'Vía Verde de la Sierra' nevet mindenki ismeri, ez a híres vasúti nyomvonal-bringaút. A helyi 'aceite de oliva' kiváló, minden bárban kóstoltatnak.",
       "ro": "Olvera e 'Pueblo Blanco', spaniola domină. 'Vía Verde de la Sierra' o știe oricine – pistă de bicicletă pe fostă cale ferată. 'Aceite de oliva' local excelent, în orice bar găsești degustare.",
-      "en": "Olvera is a 'pueblo blanco', Spanish-led. Everyone knows the 'Vía Verde de la Sierra' – the famous rail-trail bike route. Local 'aceite de oliva' is excellent, every bar offers a taste."
+      "en": "Olvera is a 'pueblo blanco', Spanish-led. Everyone knows the 'Vía Verde de la Sierra' – the famous rail-trail bike route. Local 'aceite de oliva' is excellent, every bar offers a taste.",
+      "es": "Olvera es un pueblo blanco andaluz. Todo el mundo conoce la Vía Verde de la Sierra, la famosa ruta ciclista sobre antigua vía férrea. El aceite de oliva local es excelente; en cada bar ofrecen una cata."
     },
     "best_time_to_visit": {
       "de": "März bis Mai für blühende Mandelhaine und milden Wind. Oktober nach der Olivenernte – Aroma überall. Sommer brutal heiß, dann nur Morgen und Abend draußen.",
       "hu": "Március-május a virágzó mandulafáknál és enyhe szélben. Október az olajbogyó-szüret után, az illat mindenhol. Nyár brutálisan meleg, akkor csak reggel-este kint.",
       "ro": "Martie-mai pentru livezi de migdal înflorite și vânt blând. Octombrie după recolta de măsline – aromă peste tot. Vara e arzătoare, ieși doar dimineața și seara.",
-      "en": "March–May for blossoming almond groves and gentle breeze. October after the olive harvest – aroma everywhere. Summers are brutal, restrict outdoor activity to morning and evening."
+      "en": "March–May for blossoming almond groves and gentle breeze. October after the olive harvest – aroma everywhere. Summers are brutal, restrict outdoor activity to morning and evening.",
+      "es": "Marzo–mayo para los almendros en flor y brisa suave. Octubre, después de la cosecha de la oliva, con aroma por todas partes. Los veranos son muy duros; limita la actividad al aire libre a mañana y tarde."
     },
     "neighborhood_warnings": {
       "de": "Sehr sicher, ländlich. Steile Anstiege zum Castillo, festes Schuhwerk. Auto im Unterdorf parken, oben kaum Platz. Vía-Verde-Tunnel teils unbeleuchtet – Lampe für Radler nötig.",
       "hu": "Nagyon biztonságos, vidéki. A várhoz meredek kapaszkodók, kemény talpú cipő. Autót az alsó faluban hagyj, fent szinte semmi hely. A Vía Verde alagútjai részben sötétek, lámpa kell biciklisnek.",
       "ro": "Foarte sigur, rural. Urcușuri abrupte spre castel, încălțăminte solidă. Parchează jos, sus aproape fără loc. Tunelurile de pe Vía Verde sunt parțial neiluminate – lampă obligatorie pentru biciclete.",
-      "en": "Very safe and rural. Steep climbs up to the castle – wear sturdy shoes. Park down in the village; barely any space up top. Some Vía Verde tunnels are unlit – cyclists need a light."
+      "en": "Very safe and rural. Steep climbs up to the castle – wear sturdy shoes. Park down in the village; barely any space up top. Some Vía Verde tunnels are unlit – cyclists need a light.",
+      "es": "Muy seguro y rural. Subidas empinadas hasta el castillo: calzado resistente. Aparca abajo en el pueblo; apenas hay plaza arriba. Algunos túneles de la Vía Verde no están iluminados: los ciclistas necesitan luz."
     }
   }
 }

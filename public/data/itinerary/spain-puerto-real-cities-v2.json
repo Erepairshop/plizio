@@ -21,7 +21,8 @@
             "de": "Teatro Principal",
             "hu": "Teatro Principal",
             "ro": "Teatro Principal",
-            "en": "Teatro Principal"
+            "en": "Teatro Principal",
+            "es": "Teatro Principal"
           },
           "coords": [
             -6.192553,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die elegante Fassade dieses historischen Theaters von außen und prüfen Sie den lokalen Spielplan auf abendliche Veranstaltungen.",
             "hu": "Csodálja meg e történelmi színház elegáns homlokzatát kívülről, és érdemes ellenőrizni a helyi műsorfüzetet az esti előadások miatt.",
             "ro": "Admirați fațada elegantă a acestui teatru istoric din exterior și verificați programul local pentru evenimente de seară.",
-            "en": "Admire the elegant facade of this historical theater from the outside and check the local schedule for evening performances."
+            "en": "Admire the elegant facade of this historical theater from the outside and check the local schedule for evening performances.",
+            "es": "Admira la elegante fachada de este teatro histórico desde el exterior y consulta la programación local para espectáculos vespertinos."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Mirador Media Luneta",
             "hu": "Mirador Media Luneta",
             "ro": "Mirador Media Luneta",
-            "en": "Mirador Media Luneta"
+            "en": "Mirador Media Luneta",
+            "es": "Mirador Media Luneta"
           },
           "coords": [
             -6.190385,
@@ -59,7 +62,8 @@
             "de": "Genießen Sie den weiten Blick über die Bucht von diesem friedlichen Aussichtspunkt und bringen Sie eine Kamera für die fantastischen Lichtverhältnisse am Morgen mit.",
             "hu": "Élvezze a tágas kilátást az öbölre erről a békés kilátópontról, és mindenképpen hozzon magával fényképezőgépet a fantasztikus reggeli fényviszonyok miatt.",
             "ro": "Bucurați-vă de vederea panoramică asupra golfului din acest punct de observație liniștit și aduceți o cameră pentru condițiile fantastice de lumină de dimineață.",
-            "en": "Enjoy the sweeping views over the bay from this peaceful viewpoint and bring a camera to capture the fantastic morning light."
+            "en": "Enjoy the sweeping views over the bay from this peaceful viewpoint and bring a camera to capture the fantastic morning light.",
+            "es": "Disfruta de las amplias vistas de la bahía desde este mirador tranquilo y trae una cámara para captar la fantástica luz matinal."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Pasajes 512",
             "hu": "Pasajes 512",
             "ro": "Pasajes 512",
-            "en": "Pasajes 512"
+            "en": "Pasajes 512",
+            "es": "Pasajes 512"
           },
           "coords": [
             -6.196697,
@@ -82,7 +87,8 @@
             "de": "Schlendern Sie durch diese malerischen Gassen, um das authentische Flair der Stadt zu spüren, und tragen Sie bequeme Schuhe für das historische Pflaster.",
             "hu": "Sétáljon végig ezeken a festői sikátorokon, hogy átérezze a város autentikus hangulatát, és viseljen kényelmes cipőt a történelmi macskaköveken.",
             "ro": "Plimbați-vă prin aceste alei pitorești pentru a simți atmosfera autentică a orașului și purtați încălțăminte confortabilă pentru pavajul istoric.",
-            "en": "Stroll through these picturesque alleys to feel the authentic atmosphere of the town, and wear comfortable shoes for the historic cobblestones."
+            "en": "Stroll through these picturesque alleys to feel the authentic atmosphere of the town, and wear comfortable shoes for the historic cobblestones.",
+            "es": "Pasea por estos pintorescos pasajes para sentir la auténtica atmósfera del pueblo y lleva calzado cómodo para los empedrados históricos."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Horno Romano de El Gallinero",
             "hu": "Horno Romano de El Gallinero",
             "ro": "Horno Romano de El Gallinero",
-            "en": "Horno Romano de El Gallinero"
+            "en": "Horno Romano de El Gallinero",
+            "es": "Horno Romano de El Gallinero"
           },
           "coords": [
             -6.199737,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie die faszinierenden Überreste dieses römischen Ofens, der von der antiken Industrieproduktion zeugt, und lesen Sie die informativen Tafeln vor Ort.",
             "hu": "Fedezze fel ezen római kemence lenyűgöző maradványait, amely az ókori ipari termelésről tanúskodik, és olvassa el a helyszínen található tájékoztató táblákat.",
             "ro": "Descoperiți rămășițele fascinante ale acestui cuptor roman, care mărturisesc producția industrială antică, și citiți panourile informative de la fața locului.",
-            "en": "Discover the fascinating remains of this Roman oven, which testify to ancient industrial production, and read the informative plaques on site."
+            "en": "Discover the fascinating remains of this Roman oven, which testify to ancient industrial production, and read the informative plaques on site.",
+            "es": "Descubre los fascinantes restos de este horno romano, que atestiguan la antigua producción industrial, y lee los paneles informativos in situ."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Reloj de sol",
             "hu": "Reloj de sol",
             "ro": "Reloj de sol",
-            "en": "Reloj de sol"
+            "en": "Reloj de sol",
+            "es": "Reloj de sol"
           },
           "coords": [
             -6.202599,
@@ -128,7 +137,8 @@
             "de": "Betrachten Sie diese faszinierende historische Sonnenuhr aus der Nähe und versuchen Sie, die genaue Zeit anhand der traditionellen Markierungen abzulesen.",
             "hu": "Nézze meg közelebbről ezt a lenyűgöző történelmi napórát, és próbálja meg leolvasni a pontos időt a hagyományos jelölések alapján.",
             "ro": "Priviți de aproape acest cadran solar istoric fascinant și încercați să citiți ora exactă pe baza marcajelor tradiționale.",
-            "en": "Take a closer look at this fascinating historical sundial and try to read the exact time based on the traditional markings."
+            "en": "Take a closer look at this fascinating historical sundial and try to read the exact time based on the traditional markings.",
+            "es": "Fíjate de cerca en este fascinante reloj de sol histórico e intenta leer la hora exacta según las marcas tradicionales."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie den Tag mit Kultur am Teatro Principal. Die Vormittagssonne begleitet Sie zum Mirador Media Luneta mit herrlichem Blick. Entdecken Sie danach die Gassen von Pasajes 512. Ein Hauch von Geschichte erwartet Sie am Horno Romano. Beenden Sie die Tour am historischen Reloj de sol.",
         "hu": "Kezdje a napot egy kis kultúrával a Teatro Principalnál. A délelőtti napsütés elkíséri a Mirador Media Luneta felé. Ezután fedezze fel a Pasajes 512 sikátorait. A történelem szele érinti meg a Horno Romanónál. Zárja a túrát a történelmi Reloj de sol napóránál.",
         "ro": "Începeți ziua cu cultură la Teatro Principal. Soarele de dimineață vă însoțește până la Mirador Media Luneta, cu vederi minunate. Descoperiți apoi aleile Pasajes 512. O notă de istorie vă așteaptă la Horno Romano. Încheiați turul la istoricul Reloj de sol.",
-        "en": "Start your day with some culture at the Teatro Principal. The morning sun accompanies you to the Mirador Media Luneta with wonderful views. Then discover the alleys of Pasajes 512. A touch of history awaits you at the Horno Romano. End the tour at the historic Reloj de sol."
+        "en": "Start your day with some culture at the Teatro Principal. The morning sun accompanies you to the Mirador Media Luneta with wonderful views. Then discover the alleys of Pasajes 512. A touch of history awaits you at the Horno Romano. End the tour at the historic Reloj de sol.",
+        "es": "Comienza el día con algo de cultura en el Teatro Principal. El sol de la mañana te acompaña hasta el Mirador Media Luneta con vistas maravillosas. Luego descubre los pasajes de Pasajes 512. Un toque de historia te espera en el Horno Romano. Termina el recorrido en el histórico Reloj de sol."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den Morgen im Schutz des Theaters, um dem Regen zu entgehen. Mittags bietet die Promenade einen dramatischen Blick auf die aufgewühlte Bucht; achten Sie auf rutschige Wege. Nachmittags bieten die römischen Ruinen teilweise Deckung vor dem Guss. Der Abend endet mit einem kurzen Spaziergang durch die glänzenden Gassen, wobei die Stadtlichter im Regen besonders schön funkeln.",
             "hu": "Kezdd a reggelt a színház fedett csarnokában, elkerülve az égi áldást. Délben a tengerparti sétányon a viharos öböl látványa lenyűgöző, de viselj vízhatlan cipőt a pocsolyák ellen. Délután a római kemencék történelmi falai közt kereshetsz menedéket. Estére a város fényei megcsillannak a vizes aszfalton, ami romantikus hangulatot áraszt a rövid, esernyős séta végén a központba.",
             "ro": "Începeți dimineața în interiorul teatrului pentru a evita ploaia. La prânz, faleza oferă o priveliște dramatică asupra golfului, dar atenție la pavajul alunecos. După-amiaza, explorarea cuptoarelor romane oferă un adăpost parțial împotriva stropilor. Seara se încheie cu o plimbare scurtă pe străzile umede, unde luminile orașului se reflectă superb în oglinzile formate de ploaie.",
-            "en": "Start your morning inside the theater to stay dry while admiring its architecture. At noon, the bay viewpoint offers a moody, dramatic scene; wear waterproof shoes for the puddles. In the afternoon, find partial shelter among the ancient Roman structures. The evening concludes with a short walk through the city's wet streets, which reflect the lights beautifully under your umbrella."
+            "en": "Start your morning inside the theater to stay dry while admiring its architecture. At noon, the bay viewpoint offers a moody, dramatic scene; wear waterproof shoes for the puddles. In the afternoon, find partial shelter among the ancient Roman structures. The evening concludes with a short walk through the city's wet streets, which reflect the lights beautifully under your umbrella.",
+            "es": "Empieza la mañana dentro del teatro para mantenerte seco mientras admiras su arquitectura. Al mediodía, el mirador de la bahía ofrece una escena dramática; lleva calzado impermeable por los charcos. Por la tarde, busca refugio parcial entre las antiguas estructuras romanas. La noche concluye con un breve paseo por las calles mojadas de la ciudad, que reflejan las luces maravillosamente bajo tu paraguas."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Teatro Principal",
                 "hu": "Teatro Principal",
                 "ro": "Teatro Principal",
-                "en": "Teatro Principal"
+                "en": "Teatro Principal",
+                "es": "Teatro Principal"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die prächtige Innenausstattung dieses historischen Gebäudes, das Ihnen ein trockenes und kulturelles Erlebnis bietet; vergessen Sie nicht, Ihren Schirm am Eingang abzugeben.",
                 "hu": "Csodáld meg a történelmi épület pompás belső terét, amely száraz és kulturális élményt nyújt az esőben; ne felejtsd el az esernyődet a bejáratnál hagyni a nézelődés idejére.",
                 "ro": "Admirați interiorul splendid al acestei clădiri istorice care vă oferă o experiență culturală ferită de ploaie; nu uitați să lăsați umbrela la intrare în timpul vizitei.",
-                "en": "Admire the splendid interior of this historic building which offers a dry and cultural experience; don't forget to leave your umbrella at the entrance during your visit."
+                "en": "Admire the splendid interior of this historic building which offers a dry and cultural experience; don't forget to leave your umbrella at the entrance during your visit.",
+                "es": "Admira el espléndido interior de este edificio histórico, que ofrece una experiencia cultural y seca; no olvides dejar el paraguas en la entrada durante la visita."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Mirador Media Luneta",
                 "hu": "Mirador Media Luneta",
                 "ro": "Mirador Media Luneta",
-                "en": "Mirador Media Luneta"
+                "en": "Mirador Media Luneta",
+                "es": "Mirador Media Luneta"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf die Bucht von Cádiz unter einem stabilen Regenschirm, da der Wind hier oben oft auffrischt; achten Sie besonders auf den nassen und rutschigen Boden.",
                 "hu": "Élvezd a Cádizi-öbölre nyíló kilátást egy stabil esernyő alatt, mivel a szél itt gyakran feltámad; ügyelj a nedves és csúszós talajra a kilátópont megközelítésekor.",
                 "ro": "Bucurați-vă de priveliștea golfului Cádiz sub o umbrelă stabilă, deoarece vântul se intensifică aici; atenție sporită la pavajul ud și alunecos din zona de observație.",
-                "en": "Enjoy the view of the Bay of Cádiz under a sturdy umbrella as the wind often picks up here; pay extra attention to the wet and slippery ground near the viewpoint."
+                "en": "Enjoy the view of the Bay of Cádiz under a sturdy umbrella as the wind often picks up here; pay extra attention to the wet and slippery ground near the viewpoint.",
+                "es": "Disfruta de la vista de la Bahía de Cádiz bajo un paraguas resistente, ya que el viento suele arreciar aquí; presta atención al suelo mojado y resbaladizo cerca del mirador."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Pasajes 512",
                 "hu": "Pasajes 512",
                 "ro": "Pasajes 512",
-                "en": "Pasajes 512"
+                "en": "Pasajes 512",
+                "es": "Pasajes 512"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Durchgänge als natürlichen Schutz vor dem Guss und bewundern Sie die lokale Architektur; halten Sie sich mittig im Gang, um Spritzwasser von der Straße zu vermeiden.",
                 "hu": "Használd az átjárókat természetes menedékként a szakadó eső elől, miközben a helyi építészetet csodálod; maradj az út közepén, hogy elkerüld az autók által felcsapott vizet.",
                 "ro": "Folosiți pasajele ca adăpost natural împotriva ploii torențiale în timp ce admirați arhitectura locală; stați pe mijloc pentru a evita apa stropită de mașinile de pe stradă.",
-                "en": "Use the passages as a natural shelter from the downpour while admiring the local architecture; stay in the middle to avoid water splashed by passing cars on the street."
+                "en": "Use the passages as a natural shelter from the downpour while admiring the local architecture; stay in the middle to avoid water splashed by passing cars on the street.",
+                "es": "Utiliza los pasajes como refugio natural del aguacero mientras admiras la arquitectura local; sitúate en el centro para evitar el agua salpicada por los coches que pasan en la calle."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Horno Romano de El Gallinero",
                 "hu": "Horno Romano de El Gallinero",
                 "ro": "Horno Romano de El Gallinero",
-                "en": "Horno Romano de El Gallinero"
+                "en": "Horno Romano de El Gallinero",
+                "es": "Horno Romano de El Gallinero"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die antiken Töpferöfen, deren Strukturen teils Schutz bieten; tragen Sie wasserfeste Schuhe, da sich in den Vertiefungen der Ausgrabungsstätte leicht Wasser sammelt.",
                 "hu": "Fedezd fel az ősi fazekaskemencéket, melyek falai némi védelmet nyújtanak; viselj vízálló cipőt, mert az ásatási terület mélyedéseiben könnyen megállhat az esővíz.",
                 "ro": "Explorați cuptoarele antice de olărit ale căror structuri oferă un pic de protecție; purtați încălțăminte impermeabilă deoarece apa se poate aduna în zonele joase ale sitului.",
-                "en": "Explore the ancient pottery ovens whose structures offer some protection; wear waterproof shoes as water can easily collect in the hollows of the excavation site."
+                "en": "Explore the ancient pottery ovens whose structures offer some protection; wear waterproof shoes as water can easily collect in the hollows of the excavation site.",
+                "es": "Explora los antiguos hornos cerámicos cuyas estructuras ofrecen cierta protección; lleva calzado impermeable ya que el agua puede acumularse en las cavidades del yacimiento."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Reloj de sol",
                 "hu": "Reloj de sol",
                 "ro": "Reloj de sol",
-                "en": "Reloj de sol"
+                "en": "Reloj de sol",
+                "es": "Reloj de sol"
               },
               "tip_5lang": {
                 "de": "Auch ohne Sonnenschein ist dieses Denkmal ein wichtiger historischer Punkt; machen Sie ein schnelles Foto und suchen Sie dann Schutz in einem der nahegelegenen Cafés.",
                 "hu": "Napsütés nélkül is fontos történelmi pont ez az emlékmű; készíts egy gyors fotót, majd keress menedéket a közelben lévő hangulatos kávézók egyikében a zápor elől.",
                 "ro": "Chiar și fără soare, acest monument este un punct istoric important; faceți o fotografie rapidă și apoi căutați adăpost într-o cafenea din apropiere pentru a evita ploaia.",
-                "en": "Even without sunshine, this monument is an important historical point; take a quick photo and then seek shelter in a nearby cozy cafe to avoid the passing shower."
+                "en": "Even without sunshine, this monument is an important historical point; take a quick photo and then seek shelter in a nearby cozy cafe to avoid the passing shower.",
+                "es": "Aunque no haya sol, este monumento es un punto histórico importante; haz una foto rápida y luego busca refugio en una cafetería acogedora cercana para evitar el chaparrón."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Beginnen Sie den frischen Wintermorgen im beheizten Theater. Mittags bietet der Mirador klare Sicht, aber der Wind erfordert warme Schichten. Da die Sonne bereits um 17:00 Uhr untergeht, sollten Sie die historischen Stätten am frühen Nachmittag besuchen. Den Abend verbringen Sie am besten in einer gemütlichen Bar im Zentrum, während die Temperatur draußen spürbar sinkt.",
             "hu": "Kezdd a friss téli reggelt a fűtött színházban. Délben a kilátó tiszta levegőt és messzi panorámát kínál, de a szél miatt öltözz rétegesen. Mivel a nap már 17:00-kor nyugszik, a történelmi pontokat még kora délután keresd fel. Az estét töltsd egy barátságos belvárosi bárban, ahogy a hőmérséklet kint érezhetően csökkenni kezd.",
             "ro": "Începeți dimineața răcoroasă de iarnă în teatrul încălzit. La prânz, miradorul oferă o vizibilitate clară, dar vântul necesită haine groase în straturi. Deoarece soarele apune la ora 17:00, vizitați siturile istorice devreme. Seara merită petrecută într-un bar primitor din centru, pe măsură ce temperatura de afară scade considerabil.",
-            "en": "Start the crisp winter morning in the heated theater. At noon, the viewpoint offers clear views, but the chill requires warm layers. Since the sun sets early at 17:00, visit the historical sites in the early afternoon. Spend the evening in a cozy downtown bar as the temperature outside drops significantly after sunset."
+            "en": "Start the crisp winter morning in the heated theater. At noon, the viewpoint offers clear views, but the chill requires warm layers. Since the sun sets early at 17:00, visit the historical sites in the early afternoon. Spend the evening in a cozy downtown bar as the temperature outside drops significantly after sunset.",
+            "es": "Comienza la fresca mañana invernal en el teatro climatizado. Al mediodía, el mirador ofrece vistas despejadas, pero el frío exige capas abrigadas. Como el sol se pone pronto a las 17:00, visita los lugares históricos a primera hora de la tarde. Pasa la noche en un bar céntrico y acogedor, ya que la temperatura baja significativamente tras el ocaso."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Teatro Principal",
                 "hu": "Teatro Principal",
                 "ro": "Teatro Principal",
-                "en": "Teatro Principal"
+                "en": "Teatro Principal",
+                "es": "Teatro Principal"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die neoklassizistische Pracht im warmen Innenraum; ein perfekter Ort, um den Tag gemütlich zu beginnen, bevor Sie sich in die kühle Winterluft hinauswagen.",
                 "hu": "Élvezd a neoklasszicista pompát a meleg belső térben; tökéletes hely a nap indításához, mielőtt kimerészkednél a hűvös téli levegőre a tengerpart felé.",
                 "ro": "Bucurați-vă de splendoarea neoclasică în interiorul călduros; un loc perfect pentru a începe ziua înainte de a ieși în aerul rece de iarnă de pe malul mării.",
-                "en": "Enjoy the neoclassical splendor in the warm interior; a perfect place to start the day before venturing out into the cool winter air towards the seafront."
+                "en": "Enjoy the neoclassical splendor in the warm interior; a perfect place to start the day before venturing out into the cool winter air towards the seafront.",
+                "es": "Disfruta del esplendor neoclásico en el interior cálido; un lugar perfecto para empezar el día antes de aventurarte al fresco aire invernal hacia el mar."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Mirador Media Luneta",
                 "hu": "Mirador Media Luneta",
                 "ro": "Mirador Media Luneta",
-                "en": "Mirador Media Luneta"
+                "en": "Mirador Media Luneta",
+                "es": "Mirador Media Luneta"
               },
               "tip_5lang": {
                 "de": "Die Wintersonne bietet hier ein wunderschönes Licht für Fotos; tragen Sie eine winddichte Jacke, da die Brise vom Meer im Winter sehr schneidend sein kann.",
                 "hu": "A téli napsütés csodás fényeket kínál a fotózáshoz; viselj szélálló kabátot, mert a tengerről érkező fuvallat télen metszően hideg lehet ezen a nyitott ponton.",
                 "ro": "Soarele de iarnă oferă o lumină minunată pentru fotografii; purtați o jachetă rezistentă la vânt, deoarece briza mării poate fi tăioasă iarna în acest punct deschis.",
-                "en": "The winter sun offers wonderful light for photos; wear a windproof jacket as the sea breeze can be piercingly cold in winter at this open viewpoint."
+                "en": "The winter sun offers wonderful light for photos; wear a windproof jacket as the sea breeze can be piercingly cold in winter at this open viewpoint.",
+                "es": "El sol invernal ofrece una luz maravillosa para fotos; ponte una chaqueta cortavientos ya que la brisa marina puede ser punzante en este mirador abierto."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Pasajes 512",
                 "hu": "Pasajes 512",
                 "ro": "Pasajes 512",
-                "en": "Pasajes 512"
+                "en": "Pasajes 512",
+                "es": "Pasajes 512"
               },
               "tip_5lang": {
                 "de": "Diese engen Gassen schützen vor dem kalten Winterwind; bewundern Sie die Details der Fassaden, während Sie sich in Richtung der historischen Kemencen bewegen.",
                 "hu": "Ezek a szűk utcák védelmet nyújtanak a hideg téli szél elől; csodáld meg a homlokzatok részleteit, miközben a történelmi kemencék irányába sétálsz tovább.",
                 "ro": "Aceste străzi înguste oferă protecție împotriva vântului rece de iarnă; admirați detaliile fațadelor în timp ce vă îndreptați spre cuptoarele istorice din oraș.",
-                "en": "These narrow streets offer protection from the cold winter wind; admire the details of the facades as you walk towards the historic ovens in the town."
+                "en": "These narrow streets offer protection from the cold winter wind; admire the details of the facades as you walk towards the historic ovens in the town.",
+                "es": "Estas calles estrechas ofrecen protección contra el frío viento invernal; admira los detalles de las fachadas mientras caminas hacia los hornos históricos del pueblo."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Horno Romano de El Gallinero",
                 "hu": "Horno Romano de El Gallinero",
                 "ro": "Horno Romano de El Gallinero",
-                "en": "Horno Romano de El Gallinero"
+                "en": "Horno Romano de El Gallinero",
+                "es": "Horno Romano de El Gallinero"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Ausgrabung vor 16:30 Uhr, um das Tageslicht zu nutzen; die historischen Strukturen wirken im tiefstehenden Winterlicht besonders plastisch und eindrucksvoll.",
                 "hu": "Látogasd meg az ásatást 16:30 előtt, hogy kihasználd a természetes fényt; a történelmi falak a lapos téli napsütésben különösen látványosak és texturáltak.",
                 "ro": "Vizitați situl înainte de ora 16:30 pentru a profita de lumina naturală; zidurile istorice par deosebit de spectaculoase în lumina joasă a soarelui de iarnă.",
-                "en": "Visit the excavation before 16:30 to make the most of the natural light; the historical walls look particularly spectacular in the low winter sunlight."
+                "en": "Visit the excavation before 16:30 to make the most of the natural light; the historical walls look particularly spectacular in the low winter sunlight.",
+                "es": "Visita la excavación antes de las 16:30 para aprovechar al máximo la luz natural; los muros históricos lucen especialmente espectaculares con la baja luz invernal."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Reloj de sol",
                 "hu": "Reloj de sol",
                 "ro": "Reloj de sol",
-                "en": "Reloj de sol"
+                "en": "Reloj de sol",
+                "es": "Reloj de sol"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie, wie die Sonne früh hinter dem Horizont verschwindet; ziehen Sie sich nach Sonnenuntergang schnell warm an, da die Temperatur rasch sinkt.",
                 "hu": "Figyeld meg, ahogy a nap korán eltűnik a látóhatár mögött; napnyugta után gyorsan öltözz fel melegen, mert a hőmérséklet hirtelen és jelentősen lecsökken.",
                 "ro": "Observați cum soarele dispare devreme după orizont; îmbrăcați-vă gros imediat după apus, deoarece temperatura scade brusc și semnificativ în zona de coastă.",
-                "en": "Observe how the sun disappears early behind the horizon; dress warmly immediately after sunset as the temperature drops suddenly and significantly on the coast."
+                "en": "Observe how the sun disappears early behind the horizon; dress warmly immediately after sunset as the temperature drops suddenly and significantly on the coast.",
+                "es": "Observa cómo el sol desaparece pronto tras el horizonte; abrígate nada más ponerse, ya que la temperatura baja de forma repentina y notable en la costa."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Teatro Principal",
             "hu": "Teatro Principal",
             "ro": "Teatro Principal",
-            "en": "Teatro Principal"
+            "en": "Teatro Principal",
+            "es": "Teatro Principal"
           },
           "coords": [
             -6.192553,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die elegante Fassade dieses historischen Theaters von außen und prüfen Sie den lokalen Spielplan auf abendliche Veranstaltungen.",
             "hu": "Csodálja meg e történelmi színház elegáns homlokzatát kívülről, és érdemes ellenőrizni a helyi műsorfüzetet az esti előadások miatt.",
             "ro": "Admirați fațada elegantă a acestui teatru istoric din exterior și verificați programul local pentru evenimente de seară.",
-            "en": "Admire the elegant facade of this historical theater from the outside and check the local schedule for evening performances."
+            "en": "Admire the elegant facade of this historical theater from the outside and check the local schedule for evening performances.",
+            "es": "Admira la elegante fachada de este teatro histórico desde el exterior y consulta la programación local para espectáculos vespertinos."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Horno Romano de El Gallinero",
             "hu": "Horno Romano de El Gallinero",
             "ro": "Horno Romano de El Gallinero",
-            "en": "Horno Romano de El Gallinero"
+            "en": "Horno Romano de El Gallinero",
+            "es": "Horno Romano de El Gallinero"
           },
           "coords": [
             -6.199737,
@@ -352,7 +388,8 @@
             "de": "Entdecken Sie die faszinierenden Überreste dieses römischen Ofens, der von der antiken Industrieproduktion zeugt, und lesen Sie die informativen Tafeln vor Ort.",
             "hu": "Fedezze fel ezen római kemence lenyűgöző maradványait, amely az ókori ipari termelésről tanúskodik, és olvassa el a helyszínen található tájékoztató táblákat.",
             "ro": "Descoperiți rămășițele fascinante ale acestui cuptor roman, care mărturisesc producția industrială antică, și citiți panourile informative de la fața locului.",
-            "en": "Discover the fascinating remains of this Roman oven, which testify to ancient industrial production, and read the informative plaques on site."
+            "en": "Discover the fascinating remains of this Roman oven, which testify to ancient industrial production, and read the informative plaques on site.",
+            "es": "Descubre los fascinantes restos de este horno romano, que atestiguan la antigua producción industrial, y lee los paneles informativos in situ."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Reloj de sol",
             "hu": "Reloj de sol",
             "ro": "Reloj de sol",
-            "en": "Reloj de sol"
+            "en": "Reloj de sol",
+            "es": "Reloj de sol"
           },
           "coords": [
             -6.202599,
@@ -375,7 +413,8 @@
             "de": "Betrachten Sie diese faszinierende historische Sonnenuhr aus der Nähe und versuchen Sie, die genaue Zeit anhand der traditionellen Markierungen abzulesen.",
             "hu": "Nézze meg közelebbről ezt a lenyűgöző történelmi napórát, és próbálja meg leolvasni a pontos időt a hagyományos jelölések alapján.",
             "ro": "Priviți de aproape acest cadran solar istoric fascinant și încercați să citiți ora exactă pe baza marcajelor tradiționale.",
-            "en": "Take a closer look at this fascinating historical sundial and try to read the exact time based on the traditional markings."
+            "en": "Take a closer look at this fascinating historical sundial and try to read the exact time based on the traditional markings.",
+            "es": "Fíjate de cerca en este fascinante reloj de sol histórico e intenta leer la hora exacta según las marcas tradicionales."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Ruinas fundición",
             "hu": "Ruinas fundición",
             "ro": "Ruinas fundición",
-            "en": "Ruinas fundición"
+            "en": "Ruinas fundición",
+            "es": "Ruinas fundición"
           },
           "coords": [
             -6.212426,
@@ -398,7 +438,8 @@
             "de": "Erkunden Sie die Überreste dieser alten Gießerei, die an das industrielle Erbe erinnert, und achten Sie auf die robusten, noch erhaltenen Strukturen.",
             "hu": "Fedezze fel e régi öntöde maradványait, amely az ipari örökségre emlékeztet, és figyelje meg a ma is álló robusztus szerkezeteket.",
             "ro": "Explorați rămășițele acestei vechi turnătorii care amintește de moștenirea industrială și acordați atenție structurilor robuste care încă rezistă.",
-            "en": "Explore the remains of this old foundry that recalls the industrial heritage, and pay attention to the robust structures still standing."
+            "en": "Explore the remains of this old foundry that recalls the industrial heritage, and pay attention to the robust structures still standing.",
+            "es": "Explora los restos de esta antigua fundición que recuerda la herencia industrial y presta atención a las robustas estructuras aún en pie."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Pinar de la Algaida",
             "hu": "Pinar de la Algaida",
             "ro": "Pinar de la Algaida",
-            "en": "Pinar de la Algaida"
+            "en": "Pinar de la Algaida",
+            "es": "Pinar de la Algaida"
           },
           "coords": [
             -6.206574,
@@ -421,7 +463,8 @@
             "de": "Genießen Sie einen entspannten Spaziergang durch diesen ruhigen Pinienwald und atmen Sie die frische, nach Harz und Meer duftende Luft tief ein.",
             "hu": "Élvezze a pihentető sétát ebben a csendes fenyőerdőben, és lélegezze be mélyen a friss, gyanta és tenger illatú levegőt.",
             "ro": "Bucurați-vă de o plimbare relaxantă prin această pădure de pini liniștită și respirați adânc aerul proaspăt, cu miros de rășină și mare.",
-            "en": "Enjoy a relaxing walk through this quiet pine forest and breathe deeply the fresh air scented with resin and the sea."
+            "en": "Enjoy a relaxing walk through this quiet pine forest and breathe deeply the fresh air scented with resin and the sea.",
+            "es": "Disfruta de un paseo relajante por este tranquilo pinar y respira profundamente el aire fresco perfumado de resina y mar."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Mirador de La Algaida",
             "hu": "Mirador de La Algaida",
             "ro": "Mirador de La Algaida",
-            "en": "Mirador de La Algaida"
+            "en": "Mirador de La Algaida",
+            "es": "Mirador de La Algaida"
           },
           "coords": [
             -6.207616,
@@ -444,7 +488,8 @@
             "de": "Erreichen Sie diesen wunderschönen Aussichtspunkt am Rande des Waldes, der sich perfekt eignet, um die Tierwelt der umliegenden Feuchtgebiete zu beobachten.",
             "hu": "Érje el ezt a gyönyörű kilátópontot az erdő szélén, amely tökéletes a környező vizes élőhelyek vadvilágának megfigyelésére.",
             "ro": "Ajungeți la acest frumos punct de observație de la marginea pădurii, care este perfect pentru a observa fauna sălbatică din zonele umede din jur.",
-            "en": "Reach this beautiful viewpoint on the edge of the forest, which is perfect for observing the wildlife of the surrounding wetlands."
+            "en": "Reach this beautiful viewpoint on the edge of the forest, which is perfect for observing the wildlife of the surrounding wetlands.",
+            "es": "Alcanza este bello mirador en el borde del bosque, perfecto para observar la fauna de las marismas circundantes."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Radeln Sie vom charmanten Teatro Principal zum antiken Horno Romano, wo Sie in die Geschichte eintauchen. Nach einem Stopp an der alten Sonnenuhr geht es zu den Ruinen der Gießerei. Entspannen Sie schließlich im grünen Pinar de la Algaida und genießen Sie den weiten Blick vom Mirador.",
         "hu": "Kerékpározzon a bájos Teatro Principaltól az ókori Horno Romanóig, ahol elmerülhet a történelemben. A régi napóra után az öntöde romjai következnek. Végül pihenjen meg a zöld Pinar de la Algaida fenyvesében, és élvezze a kilátást a Miradorból.",
         "ro": "Pedalați de la fermecătorul Teatro Principal la anticul Horno Romano, unde vă veți cufunda în istorie. După vechiul cadran solar, îndreptați-vă spre ruinele turnătoriei. La final, relaxați-vă în verdele Pinar de la Algaida și bucurați-vă de priveliștea de la Mirador.",
-        "en": "Cycle from the charming Teatro Principal to the ancient Horno Romano, where you immerse yourself in history. After a stop at the old sundial, head to the ruins of the foundry. Finally, relax in the green Pinar de la Algaida and enjoy the sweeping view from the Mirador."
+        "en": "Cycle from the charming Teatro Principal to the ancient Horno Romano, where you immerse yourself in history. After a stop at the old sundial, head to the ruins of the foundry. Finally, relax in the green Pinar de la Algaida and enjoy the sweeping view from the Mirador.",
+        "es": "Cicla desde el encantador Teatro Principal hasta el antiguo Horno Romano, donde te sumerges en la historia. Tras una parada en el viejo reloj de sol, dirígete a las ruinas de la fundición. Finalmente, relájate en el verde Pinar de la Algaida y disfruta de la amplia vista desde el mirador."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Starten Sie vorsichtig am Theater; nasse Pflastersteine können rutschig sein. Mittags führt die Tour zu den römischen Öfen, wobei Regenkleidung unerlässlich ist. Der Weg zum Pinienwald bietet durch das Blätterdach etwas Schutz vor leichtem Nieselregen. Kehren Sie am späten Nachmittag zurück, bevor die Sicht bei starkem Regen schlechter wird, und prüfen Sie stets Ihre Bremsen.",
             "hu": "Indulj óvatosan a színháztól; a nedves macskakő csúszós lehet. Délben a túra a római kemencékhez vezet, ahol az esőruházat elengedhetetlen a sár ellen. A fenyvesbe vezető út a lombok alatt némi védelmet nyújt a szemerkélő esőben. Késő délután térj vissza, mielőtt a látási viszonyok romlanának, és mindig ellenőrizd a fékeidet.",
             "ro": "Porniți cu atenție de la teatru; pavajul umed poate fi alunecos pentru bicicletă. La prânz, turul continuă spre cuptoarele romane, unde costumul de ploaie este esențial. Drumul spre pădurea de pini oferă protecție sub coronament. Întoarceți-vă după-amiaza târziu, înainte ca vizibilitatea să scadă, și verificați întotdeauna frânele pe carosabil ud.",
-            "en": "Start carefully at the theater; wet cobblestones can be slippery for bikes. At noon, head to the Roman ovens, making sure your rain gear is tightly fastened. The path to the pine forest offers some shelter under the canopy during light drizzle. Return in the late afternoon before visibility drops, and always check your brakes on the wet surface."
+            "en": "Start carefully at the theater; wet cobblestones can be slippery for bikes. At noon, head to the Roman ovens, making sure your rain gear is tightly fastened. The path to the pine forest offers some shelter under the canopy during light drizzle. Return in the late afternoon before visibility drops, and always check your brakes on the wet surface.",
+            "es": "Comienza con cuidado en el teatro; los empedrados mojados pueden resbalar con las bicis. Al mediodía, dirígete a los hornos romanos asegurando bien la ropa de lluvia. El camino al pinar ofrece algo de refugio bajo la copa durante lloviznas. Regresa a última hora de la tarde antes de que disminuya la visibilidad y revisa siempre los frenos en superficies húmedas."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Teatro Principal",
                 "hu": "Teatro Principal",
                 "ro": "Teatro Principal",
-                "en": "Teatro Principal"
+                "en": "Teatro Principal",
+                "es": "Teatro Principal"
               },
               "tip_5lang": {
                 "de": "Suchen Sie unter dem Vordach des Theaters Schutz für eine kurze Pause; parken Sie Ihr Rad sicher und achten Sie beim Losfahren auf die glatten Steine.",
                 "hu": "Keress menedéket a színház előteteje alatt egy rövid pihenőre; parkold le biztonságosan a biciklid, és induláskor ügyelj a tükörsima, vizes kövekre.",
                 "ro": "Căutați adăpost sub copertina teatrului pentru o scurtă pauză; parcați bicicleta în siguranță și fiți atenți la pietrele lucioase și ude la plecare.",
-                "en": "Seek shelter under the theater's canopy for a short break; park your bike securely and watch out for the shiny, wet stones when you start off again."
+                "en": "Seek shelter under the theater's canopy for a short break; park your bike securely and watch out for the shiny, wet stones when you start off again.",
+                "es": "Busca refugio bajo el pórtico del teatro para un breve descanso; aparca la bici con seguridad y evita las piedras mojadas y brillantes al arrancar."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Horno Romano de El Gallinero",
                 "hu": "Horno Romano de El Gallinero",
                 "ro": "Horno Romano de El Gallinero",
-                "en": "Horno Romano de El Gallinero"
+                "en": "Horno Romano de El Gallinero",
+                "es": "Horno Romano de El Gallinero"
               },
               "tip_5lang": {
                 "de": "Die Zuwege können schlammig sein; fahren Sie langsam und nutzen Sie die festen Strukturen der Ruinen, um kurzzeitig im Trockenen zu stehen und zu verschnaufen.",
                 "hu": "A hozzivezető utak sarasak lehetnek; tekerj lassan, és használd a romok stabil struktúráit, hogy rövid időre szárazon maradhass és kifújd magad az esőben.",
                 "ro": "Drumurile de acces pot fi noroioase; pedalați încet și folosiți structurile stabile ale ruinelor pentru a sta la uscat un moment și a vă odihni puțin.",
-                "en": "The access roads can be muddy; ride slowly and use the stable structures of the ruins to stay dry for a short moment and catch your breath in the rain."
+                "en": "The access roads can be muddy; ride slowly and use the stable structures of the ruins to stay dry for a short moment and catch your breath in the rain.",
+                "es": "Las vías de acceso pueden estar embarradas; pedalea despacio y utiliza las estructuras estables de las ruinas para secarte un momento y recuperar el aliento bajo la lluvia."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Reloj de sol",
                 "hu": "Reloj de sol",
                 "ro": "Reloj de sol",
-                "en": "Reloj de sol"
+                "en": "Reloj de sol",
+                "es": "Reloj de sol"
               },
               "tip_5lang": {
                 "de": "Ein schneller Halt für ein Foto im Regen; wischen Sie Ihren Sattel danach gut ab und achten Sie auf die Markierungen am Boden, die bei Nässe glatt sind.",
                 "hu": "Egy gyors megálló egy esős fotóért; töröld le alaposan a nyerget utána, és ügyelj a felfestésekre az úton, melyek nedvesen rendkívül csúszóssá válnak.",
                 "ro": "O oprire rapidă pentru o poză în ploaie; ștergeți bine șaua după aceea și fiți atenți la marcajele de pe drum, care devin foarte alunecoase când sunt ude.",
-                "en": "A quick stop for a rainy photo; wipe your saddle thoroughly afterwards and watch out for road markings, which become extremely slippery when wet."
+                "en": "A quick stop for a rainy photo; wipe your saddle thoroughly afterwards and watch out for road markings, which become extremely slippery when wet.",
+                "es": "Una parada rápida para una foto bajo la lluvia; limpia bien el sillín después y presta atención a las marcas viales, que se vuelven extremadamente resbaladizas cuando están mojadas."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Ruinas fundición",
                 "hu": "Ruinas fundición",
                 "ro": "Ruinas fundición",
-                "en": "Ruinas fundición"
+                "en": "Ruinas fundición",
+                "es": "Ruinas fundición"
               },
               "tip_5lang": {
                 "de": "Diese Ruinen liegen etwas exponiert; tragen Sie eine Kapuze unter dem Helm und meiden Sie weichen Boden, um nicht mit den Reifen im Schlamm steckenzubleiben.",
                 "hu": "Ezek a romok meglehetősen nyitott helyen vannak; viselj kapucnit a sisak alatt, és kerüld a puha talajt, nehogy a kerékpárod kereke elakadjon a sárban.",
                 "ro": "Aceste ruine sunt într-un loc destul de deschis; purtați o glugă sub cască și evitați solul moale pentru ca roțile bicicletei să nu se blocheze în noroi.",
-                "en": "These ruins are in a fairly open location; wear a hood under your helmet and avoid soft ground to prevent your bike wheels from getting stuck in the mud."
+                "en": "These ruins are in a fairly open location; wear a hood under your helmet and avoid soft ground to prevent your bike wheels from getting stuck in the mud.",
+                "es": "Estas ruinas están en un lugar bastante abierto; lleva capucha bajo el casco y evita terrenos blandos para que las ruedas de la bici no se queden atascadas en el barro."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Pinar de la Algaida",
                 "hu": "Pinar de la Algaida",
                 "ro": "Pinar de la Algaida",
-                "en": "Pinar de la Algaida"
+                "en": "Pinar de la Algaida",
+                "es": "Pinar de la Algaida"
               },
               "tip_5lang": {
                 "de": "Die Pinien bieten Schutz vor Wind und leichtem Regen; fahren Sie vorsichtig über nasse Wurzeln und genießen Sie den intensiven Duft des Waldes bei Feuchtigkeit.",
                 "hu": "A fenyőfák védelmet nyújtanak a szél és az enyhe eső elől; tekerj óvatosan a nedves gyökereken, és élvezd az erdő intenzív illatát a párás időben.",
                 "ro": "Pinii oferă protecție împotriva vântului și a ploii ușoare; pedalați cu grijă peste rădăcinile ude și bucurați-vă de mirosul intens al pădurii pe timp de ploaie.",
-                "en": "The pine trees offer protection from the wind and light rain; ride carefully over wet roots and enjoy the intense scent of the forest in the humid weather."
+                "en": "The pine trees offer protection from the wind and light rain; ride carefully over wet roots and enjoy the intense scent of the forest in the humid weather.",
+                "es": "Los pinos ofrecen protección contra el viento y la lluvia ligera; circula con cuidado sobre raíces mojadas y disfruta del intenso aroma del bosque en la humedad."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Mirador de La Algaida",
                 "hu": "Mirador de La Algaida",
                 "ro": "Mirador de La Algaida",
-                "en": "Mirador de La Algaida"
+                "en": "Mirador de La Algaida",
+                "es": "Mirador de La Algaida"
               },
               "tip_5lang": {
                 "de": "Vom hölzernen Mirador aus sieht man den Regen über den Salzwiesen; seien Sie vorsichtig auf den Holzplanken, da diese bei Nässe extrem rutschig sein können.",
                 "hu": "A fából készült kilátóból jól látszik a sós mocsarak felett vonuló eső; légy nagyon óvatos a fapadlókon, mert nedvesen rendkívül csúszósak lehetnek.",
                 "ro": "Din foișorul de lemn se vede bine ploaia trecând peste mlaștinile sărate; fiți foarte atenți pe podelele de lemn, deoarece pot fi extrem de alunecoase când sunt ude.",
-                "en": "The rain moving over the salt marshes is clearly visible from the wooden viewpoint; be very careful on the wooden planks as they can be extremely slippery when wet."
+                "en": "The rain moving over the salt marshes is clearly visible from the wooden viewpoint; be very careful on the wooden planks as they can be extremely slippery when wet.",
+                "es": "La lluvia moviéndose sobre las marismas se ve con claridad desde el mirador de madera; ten mucho cuidado con las tablas, ya que pueden resultar extremadamente resbaladizas cuando están mojadas."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Ein kühler Start am Theater erfordert Handschuhe und eine warme Jacke. Mittags ist das Licht perfekt für die römischen Ruinen, aber der Küstenwind kühlt schnell aus. Die Tour durch den Pinienwald ist im Winter erfrischend, doch bedenken Sie den frühen Sonnenuntergang um 17:00 Uhr. Planen Sie Ihre Rückkehr zum Mirador rechtzeitig, um das letzte Tageslicht sicher zu nutzen.",
             "hu": "A hűvös reggeli kezdéshez a színháznál kesztyű és meleg kabát szükséges. Délben a fények tökéletesek a római romoknál, de a tengerparti szél gyorsan lehűti az embert. A fenyvesen át vezető túra télen frissítő, de ne feledd a korai, 17:00-s napnyugtát. Tervezd meg időben a visszatérést, hogy biztonságban beérj a városba sötétedés előtt.",
             "ro": "Startul răcoros de dimineață la teatru necesită mănuși și o jachetă groasă. La prânz, lumina este perfectă pentru ruinele romane, dar vântul de coastă vă poate răci rapid. Turul prin pădurea de pini este revigorant iarna, dar nu uitați de apusul devreme de la ora 17:00. Planificați revenirea la timp pentru a ajunge în siguranță pe lumină.",
-            "en": "A cool morning start at the theater requires gloves and a warm jacket. At noon, the light is perfect for the Roman ruins, but the coastal wind cools you down quickly. The tour through the pine forest is refreshing in winter, but remember the early 17:00 sunset. Plan your return in time to reach the city safely before it gets dark."
+            "en": "A cool morning start at the theater requires gloves and a warm jacket. At noon, the light is perfect for the Roman ruins, but the coastal wind cools you down quickly. The tour through the pine forest is refreshing in winter, but remember the early 17:00 sunset. Plan your return in time to reach the city safely before it gets dark.",
+            "es": "Un inicio fresco en el teatro requiere guantes y una chaqueta cálida. Al mediodía, la luz es perfecta para las ruinas romanas, pero el viento costero te enfría rápido. El recorrido por el pinar es refrescante en invierno, pero recuerda la puesta de sol temprana a las 17:00. Planifica el regreso con tiempo para llegar a la ciudad con seguridad antes de que oscurezca."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Teatro Principal",
                 "hu": "Teatro Principal",
                 "ro": "Teatro Principal",
-                "en": "Teatro Principal"
+                "en": "Teatro Principal",
+                "es": "Teatro Principal"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich kurz im Foyer auf, bevor Sie die Fahrt fortsetzen; prüfen Sie Ihren Reifendruck, da kalte Temperaturen diesen leicht beeinflussen können.",
                 "hu": "Melegedj fel egy kicsit az előcsarnokban, mielőtt folytatnád az utat; ellenőrizd a guminyomást, mert a hideg hőmérséklet kismértékben befolyásolhatja azt.",
                 "ro": "Încălziți-vă puțin în hol înainte de a continua drumul; verificați presiunea în pneuri, deoarece temperaturile scăzute o pot influența ușor.",
-                "en": "Warm up a bit in the foyer before continuing your journey; check your tire pressure, as cold temperatures can slightly affect it."
+                "en": "Warm up a bit in the foyer before continuing your journey; check your tire pressure, as cold temperatures can slightly affect it.",
+                "es": "Calienta un poco en el vestíbulo antes de continuar el viaje; comprueba la presión de las ruedas, ya que las bajas temperaturas pueden afectarla ligeramente."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Horno Romano de El Gallinero",
                 "hu": "Horno Romano de El Gallinero",
                 "ro": "Horno Romano de El Gallinero",
-                "en": "Horno Romano de El Gallinero"
+                "en": "Horno Romano de El Gallinero",
+                "es": "Horno Romano de El Gallinero"
               },
               "tip_5lang": {
                 "de": "Das flache Winterlicht hebt die Details der alten Steine hervor; halten Sie sich in Bewegung, um warm zu bleiben, während Sie das Gelände zu Fuß erkunden.",
                 "hu": "A lapos téli fény kiemeli a régi kövek részleteit; maradj mozgásban, hogy melegen tartsd magad, miközben gyalogosan is felfedezed az ásatási területet.",
                 "ro": "Lumina joasă de iarnă evidențiază detaliile pietrelor vechi; rămâneți în mișcare pentru a vă menține căldura în timp ce explorați situl pe jos.",
-                "en": "The low winter light highlights the details of the old stones; stay in motion to keep warm while exploring the excavation site on foot."
+                "en": "The low winter light highlights the details of the old stones; stay in motion to keep warm while exploring the excavation site on foot.",
+                "es": "La baja luz invernal realza los detalles de las piedras; mantente en movimiento para entrar en calor mientras exploras el yacimiento a pie."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Reloj de sol",
                 "hu": "Reloj de sol",
                 "ro": "Reloj de sol",
-                "en": "Reloj de sol"
+                "en": "Reloj de sol",
+                "es": "Reloj de sol"
               },
               "tip_5lang": {
                 "de": "Im Winter steht die Sonne tiefer, was den Schattenwurf der Uhr verändert; genießen Sie den historischen Moment, bevor der kalte Nachmittagswind auffrischt.",
                 "hu": "Télen a nap alacsonyabban jár, ami megváltoztatja az óra árnyékvetését; élvezd a történelmi pillanatot, mielőtt a hideg délutáni szél feltámadna az öbölnél.",
                 "ro": "Iarna soarele este mai jos, ceea ce schimbă umbra ceasului; bucurați-vă de momentul istoric înainte ca vântul rece de după-amiază să se intensifice la golf.",
-                "en": "In winter the sun is lower, which changes the clock's shadow; enjoy the historical moment before the cold afternoon wind picks up at the bay."
+                "en": "In winter the sun is lower, which changes the clock's shadow; enjoy the historical moment before the cold afternoon wind picks up at the bay.",
+                "es": "En invierno el sol está más bajo, lo que cambia la sombra del reloj; disfruta del momento histórico antes de que el frío viento de la tarde aumente en la bahía."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Ruinas fundición",
                 "hu": "Ruinas fundición",
                 "ro": "Ruinas fundición",
-                "en": "Ruinas fundición"
+                "en": "Ruinas fundición",
+                "es": "Ruinas de la fundición"
               },
               "tip_5lang": {
                 "de": "Diese Ruinen sind dem Wind schutzlos ausgeliefert; tragen Sie eine Gesichtsmaske oder einen Schal gegen die Kälte und beeilen Sie sich zum geschützten Pinienwald.",
                 "hu": "Ezek a romok védtelenek a széllel szemben; viselj maszkot vagy sálat a hideg ellen, és igyekezz tovább a szélvédettebb fenyves irányába.",
                 "ro": "Aceste ruine sunt expuse vântului; purtați o mască sau un fular împotriva frigului și grăbiți-vă spre pădurea de pini care este mai protejată.",
-                "en": "These ruins are exposed to the wind; wear a mask or scarf against the cold and hurry on towards the more sheltered pine forest."
+                "en": "These ruins are exposed to the wind; wear a mask or scarf against the cold and hurry on towards the more sheltered pine forest.",
+                "es": "Estas ruinas están expuestas al viento; lleva mascarilla o bufanda contra el frío y dirígete pronto hacia el pinar, que está más resguardado."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Pinar de la Algaida",
                 "hu": "Pinar de la Algaida",
                 "ro": "Pinar de la Algaida",
-                "en": "Pinar de la Algaida"
+                "en": "Pinar de la Algaida",
+                "es": "Pinar de la Algaida"
               },
               "tip_5lang": {
                 "de": "Der Wald schützt gut vor dem Winterwind; genießen Sie die Ruhe des Pinienhains, aber achten Sie auf die Zeit, da es unter den Bäumen früher dunkel wird.",
                 "hu": "Az erdő jól véd a téli szél ellen; élvezd a fenyves nyugalmát, de ügyelj az időre, mert a fák alatt hamarabb kezd sötétedni, mint a nyílt terepen.",
                 "ro": "Pădurea protejează bine de vântul de iarnă; bucurați-vă de liniștea pinilor, dar atenție la timp, deoarece sub copaci se întunecă mai repede.",
-                "en": "The forest protects well from the winter wind; enjoy the peace of the pine grove, but watch the time as it gets dark earlier under the trees."
+                "en": "The forest protects well from the winter wind; enjoy the peace of the pine grove, but watch the time as it gets dark earlier under the trees.",
+                "es": "El bosque protege bien del viento invernal; disfruta de la tranquilidad del pinar, pero controla la hora porque bajo los árboles anochece antes."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Mirador de La Algaida",
                 "hu": "Mirador de La Algaida",
                 "ro": "Mirador de La Algaida",
-                "en": "Mirador de La Algaida"
+                "en": "Mirador de La Algaida",
+                "es": "Mirador de La Algaida"
               },
               "tip_5lang": {
                 "de": "Ein spektakulärer Ort für den Sonnenuntergang um 17:00 Uhr; stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, bevor Sie die Rückfahrt im Dunkeln antreten.",
                 "hu": "Látványos hely a 17:00-s napnyugta megtekintéséhez; győződj meg róla, hogy a kerékpárvilágításod működik, mielőtt sötétben elindulnál vissza a városba.",
                 "ro": "Un loc spectaculos pentru a vedea apusul de la ora 17:00; asigurați-vă că luminile bicicletei funcționează înainte de a porni înapoi spre oraș pe întuneric.",
-                "en": "A spectacular spot to watch the 17:00 sunset; make sure your bike lights are working before you start the ride back to the city in the dark."
+                "en": "A spectacular spot to watch the 17:00 sunset; make sure your bike lights are working before you start the ride back to the city in the dark.",
+                "es": "Un lugar espectacular para ver la puesta de sol a las 17:00; asegúrate de que las luces de la bicicleta funcionen antes de regresar de noche a la ciudad."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Hacienda San José",
             "hu": "Hacienda San José",
             "ro": "Hacienda San José",
-            "en": "Hacienda San José"
+            "en": "Hacienda San José",
+            "es": "Hacienda San José"
           },
           "coords": [
             -6.169859,
@@ -673,7 +746,8 @@
             "de": "Bewundern Sie die traditionelle andalusische Architektur dieses historischen Anwesens und stellen Sie sich das geschäftige landwirtschaftliche Leben der Vergangenheit vor.",
             "hu": "Csodálja meg e történelmi birtok hagyományos andalúz építészetét, és képzelje el a múlt nyüzsgő mezőgazdasági életét.",
             "ro": "Admirați arhitectura tradițională andaluză a acestei proprietăți istorice și imaginați-vă viața agricolă plină de viață din trecut.",
-            "en": "Admire the traditional Andalusian architecture of this historic estate and imagine the bustling agricultural life of the past."
+            "en": "Admire the traditional Andalusian architecture of this historic estate and imagine the bustling agricultural life of the past.",
+            "es": "Admira la arquitectura tradicional andaluza de esta histórica hacienda e imagina la bulliciosa vida agrícola del pasado."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Teatro Principal",
             "hu": "Teatro Principal",
             "ro": "Teatro Principal",
-            "en": "Teatro Principal"
+            "en": "Teatro Principal",
+            "es": "Teatro Principal"
           },
           "coords": [
             -6.192553,
@@ -696,7 +771,8 @@
             "de": "Bewundern Sie die elegante Fassade dieses historischen Theaters von außen und prüfen Sie den lokalen Spielplan auf abendliche Veranstaltungen.",
             "hu": "Csodálja meg e történelmi színház elegáns homlokzatát kívülről, és érdemes ellenőrizni a helyi műsorfüzetet az esti előadások miatt.",
             "ro": "Admirați fațada elegantă a acestui teatru istoric din exterior și verificați programul local pentru evenimente de seară.",
-            "en": "Admire the elegant facade of this historical theater from the outside and check the local schedule for evening performances."
+            "en": "Admire the elegant facade of this historical theater from the outside and check the local schedule for evening performances.",
+            "es": "Contempla la elegante fachada de este teatro histórico desde el exterior y consulta la programación local para espectáculos nocturnos."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Casa de San Pedro y San José",
             "hu": "Casa de San Pedro y San José",
             "ro": "Casa de San Pedro y San José",
-            "en": "Casa de San Pedro y San José"
+            "en": "Casa de San Pedro y San José",
+            "es": "Casa de San Pedro y San José"
           },
           "coords": [
             -6.207068,
@@ -719,7 +796,8 @@
             "de": "Entdecken Sie die Ruinen dieses abgelegenen Landhauses inmitten der Natur, das einen faszinierenden Einblick in die ländliche Geschichte der Region bietet.",
             "hu": "Fedezze fel e távoli vidéki ház romjait a természet lágy ölén, amely lenyűgöző bepillantást nyújt a régió vidéki történelmébe.",
             "ro": "Descoperiți ruinele acestei case de țară izolate în mijlocul naturii, care oferă o perspectivă fascinantă asupra istoriei rurale a regiunii.",
-            "en": "Discover the ruins of this remote country house surrounded by nature, which offers a fascinating insight into the rural history of the region."
+            "en": "Discover the ruins of this remote country house surrounded by nature, which offers a fascinating insight into the rural history of the region.",
+            "es": "Descubre las ruinas de esta casa de campo aislada rodeada de naturaleza; ofrece una perspectiva fascinante de la historia rural de la zona."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Playa del Conchal",
             "hu": "Playa del Conchal",
             "ro": "Playa del Conchal",
-            "en": "Playa del Conchal"
+            "en": "Playa del Conchal",
+            "es": "Playa del Conchal"
           },
           "coords": [
             -6.21669,
@@ -742,7 +821,8 @@
             "de": "Spazieren Sie an diesem ruhigen Strandabschnitt entlang und suchen Sie im Sand nach einzigartigen Muscheln, während Sie dem Rauschen der Wellen lauschen.",
             "hu": "Sétáljon végig ezen a csendes partszakaszon, és keressen egyedi kagylókat a homokban, miközben hallgatja a hullámok zúgását.",
             "ro": "Plimbați-vă de-a lungul acestei porțiuni liniștite de plajă și căutați scoici unice în nisip, în timp ce ascultați sunetul valurilor.",
-            "en": "Stroll along this quiet stretch of beach and look for unique shells in the sand while listening to the sound of the waves."
+            "en": "Stroll along this quiet stretch of beach and look for unique shells in the sand while listening to the sound of the waves.",
+            "es": "Pasea por este tranquilo tramo de costa y busca conchas singulares en la arena mientras escuchas el oleaje."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Playa de la Ministra",
             "hu": "Playa de la Ministra",
             "ro": "Playa de la Ministra",
-            "en": "Playa de la Ministra"
+            "en": "Playa de la Ministra",
+            "es": "Playa de la Ministra"
           },
           "coords": [
             -6.232883,
@@ -765,7 +846,8 @@
             "de": "Lassen Sie den Tag an diesem malerischen Naturstrand ausklingen und genießen Sie den atemberaubenden Sonnenuntergang über dem glitzernden Wasser der Bucht.",
             "hu": "Zárja a napot ezen a festői természetes strandon, és élvezze a lélegzetelállító naplementét az öböl csillogó vize felett.",
             "ro": "Încheiați ziua pe această plajă naturală pitorească și bucurați-vă de apusul uluitor peste apele strălucitoare ale golfului.",
-            "en": "End the day at this picturesque natural beach and enjoy the breathtaking sunset over the sparkling waters of the bay."
+            "en": "End the day at this picturesque natural beach and enjoy the breathtaking sunset over the sparkling waters of the bay.",
+            "es": "Termina el día en esta pintoresca playa natural y disfruta de la impresionante puesta de sol sobre las aguas brillantes de la bahía."
           }
         }
       ],
@@ -773,7 +855,8 @@
         "de": "Ihre Fahrt beginnt an der majestätischen Hacienda San José und führt Sie ins Herz von Puerto Real zum Teatro Principal. Entdecken Sie die ländliche Idylle an der Casa de San Pedro y San José. Die Tour endet entspannt mit Strandspaziergängen an der Playa del Conchal und der Playa de la Ministra.",
         "hu": "Utazása a fenséges Hacienda San Josénál kezdődik, majd Puerto Real szívébe, a Teatro Principalhoz vezet. Fedezze fel a vidéki idillt a Casa de San Pedro y San Josénál. A túra egy pihentető tengerparti sétával ér véget a Playa del Conchal és a Playa de la Ministra mentén.",
         "ro": "Călătoria dumneavoastră începe la măreața Hacienda San José și vă duce în inima Puerto Real la Teatro Principal. Descoperiți idila rurală la Casa de San Pedro y San José. Turul se încheie relaxant cu plimbări pe plaja Playa del Conchal și Playa de la Ministra.",
-        "en": "Your drive begins at the majestic Hacienda San José and takes you into the heart of Puerto Real to the Teatro Principal. Discover the rural idyll at the Casa de San Pedro y San José. The tour ends relaxingly with beach walks at Playa del Conchal and Playa de la Ministra."
+        "en": "Your drive begins at the majestic Hacienda San José and takes you into the heart of Puerto Real to the Teatro Principal. Discover the rural idyll at the Casa de San Pedro y San José. The tour ends relaxingly with beach walks at Playa del Conchal and Playa de la Ministra.",
+        "es": "Tu ruta comienza en la majestuosa Hacienda San José y te lleva al corazón de Puerto Real hasta el Teatro Principal. Descubre el idilio rural en la Casa de San Pedro y San José. El recorrido termina relajadamente con paseos por Playa del Conchal y Playa de la Ministra."
       },
       "variants": {
         "rainy": {
@@ -781,7 +864,8 @@
             "de": "Genießen Sie die Fahrt zur Hacienda im trockenen Auto; die Scheibenwischer bieten klare Sicht auf die ländliche Idylle. Mittags parken Sie nah am Theater, um den kurzen Weg im Regen zu überbrücken. Die Strände am Nachmittag wirken bei Regen melancholisch und weit; beobachten Sie das Meer gemütlich aus dem Fahrzeuginneren, während die Tropfen an das Fenster trommeln.",
             "hu": "Élvezd az utat a Haciendához a száraz autóban; az ablaktörlők tiszta kilátást biztosítanak a vidéki idillre. Délben parkolj közel a színházhoz, hogy lerövidítsd az esőben megtett utat. A délutáni tengerpartok esőben melankolikusak; figyeld a tengert kényelmesen az autóból, miközben a cseppek dobolnak az ablakon.",
             "ro": "Bucurați-vă de drumul spre Hacienda în mașina uscată; ștergătoarele oferă o vedere clară asupra idilei rurale. La prânz parcați aproape de teatru pentru a scurta drumul prin ploaie. Plajele de după-amiază par melancolice pe ploaie; observați marea confortabil din interior, în timp ce picăturile bat în geam.",
-            "en": "Enjoy the drive to the Hacienda in the dry car; the wipers provide a clear view of the rural idyll. At noon, park close to the theater to minimize your time in the rain. The afternoon beaches look melancholic in the rain; watch the sea comfortably from inside the vehicle as droplets drum on the window."
+            "en": "Enjoy the drive to the Hacienda in the dry car; the wipers provide a clear view of the rural idyll. At noon, park close to the theater to minimize your time in the rain. The afternoon beaches look melancholic in the rain; watch the sea comfortably from inside the vehicle as droplets drum on the window.",
+            "es": "Disfruta del viaje a la Hacienda con el coche seco; los limpiaparabrisas ofrecen buena visibilidad del paisaje rural. Al mediodía, aparca cerca del teatro para reducir el tiempo bajo la lluvia. Las playas de la tarde parecen melancólicas con lluvia; contempla el mar cómodamente desde el vehículo mientras las gotas golpean la ventana."
           },
           "stops": [
             {
@@ -789,13 +873,15 @@
                 "de": "Hacienda San José",
                 "hu": "Hacienda San José",
                 "ro": "Hacienda San José",
-                "en": "Hacienda San José"
+                "en": "Hacienda San José",
+                "es": "Hacienda San José"
               },
               "tip_5lang": {
                 "de": "Parken Sie auf festem Untergrund, um im Schlamm nicht steckenzubleiben; bewundern Sie die historische Fassade vom Wagen aus, bevor Sie kurz zur Besichtigung aussteigen.",
                 "hu": "Parkolj szilárd talajon, hogy ne akadj el a sárban; csodáld meg a történelmi homlokzatot az autóból, mielőtt rövid időre kiszállnál a nézelődéshez.",
                 "ro": "Parcați pe teren solid pentru a nu rămâne blocați în noroi; admirați fațada istorică din mașină înainte de a coborî scurt pentru vizitare.",
-                "en": "Park on solid ground to avoid getting stuck in the mud; admire the historic facade from the car before getting out briefly for a quick tour."
+                "en": "Park on solid ground to avoid getting stuck in the mud; admire the historic facade from the car before getting out briefly for a quick tour.",
+                "es": "Estaciona sobre terreno firme para evitar quedarte atascado en el barro; admira la fachada histórica desde el coche antes de bajar brevemente para un rápido paseo."
               }
             },
             {
@@ -803,13 +889,15 @@
                 "de": "Teatro Principal",
                 "hu": "Teatro Principal",
                 "ro": "Teatro Principal",
-                "en": "Teatro Principal"
+                "en": "Teatro Principal",
+                "es": "Teatro Principal"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Parkhäuser in der Nähe, um trocken ins Gebäude zu gelangen; das Theater ist ein idealer Ort, um die stärkste Regenphase kulturell zu überbrücken.",
                 "hu": "Használd a közeli parkolókat, hogy szárazon juss be az épületbe; a színház ideális hely a legerősebb esőzés kulturális átvészelésére a belvárosban.",
                 "ro": "Folosiți parcările din apropiere pentru a intra uscați în clădire; teatrul este locul ideal pentru a trece peste cea mai puternică ploaie într-un mod cultural.",
-                "en": "Use nearby parking to get into the building dry; the theater is an ideal place to weather the heaviest rain in a cultural way in the city center."
+                "en": "Use nearby parking to get into the building dry; the theater is an ideal place to weather the heaviest rain in a cultural way in the city center.",
+                "es": "Utiliza los aparcamientos cercanos para entrar al edificio seco; el teatro es un lugar ideal para resguardarse de la lluvia con cultura en el centro de la ciudad."
               }
             },
             {
@@ -817,13 +905,15 @@
                 "de": "Casa de San Pedro y San José",
                 "hu": "Casa de San Pedro y San José",
                 "ro": "Casa de San Pedro y San José",
-                "en": "Casa de San Pedro y San José"
+                "en": "Casa de San Pedro y San José",
+                "es": "Casa de San Pedro y San José"
               },
               "tip_5lang": {
                 "de": "Der umliegende Park ist bei Regen sehr grün, aber die Wege sind weich; bleiben Sie auf den befestigten Pfaden und nutzen Sie das Auto als mobilen Regenschutz.",
                 "hu": "A környező park esőben nagyon zöld, de az utak felázhatnak; maradj a kövezett ösvényeken, és használd az autót mobil esővédőként a pihenők alatt.",
                 "ro": "Parcul din jur este foarte verde pe ploaie, dar drumurile pot fi moi; rămâneți pe potecile pavate și folosiți mașina ca adăpost mobil în timpul pauzelor.",
-                "en": "The surrounding park is very green in the rain, but the paths can be soft; stay on the paved paths and use the car as a mobile rain shelter during breaks."
+                "en": "The surrounding park is very green in the rain, but the paths can be soft; stay on the paved paths and use the car as a mobile rain shelter during breaks.",
+                "es": "El parque circundante está muy verde con lluvia, pero los senderos pueden quedar blandos; mantente en los caminos pavimentados y usa el coche como refugio móvil durante las pausas."
               }
             },
             {
@@ -831,13 +921,15 @@
                 "de": "Playa del Conchal",
                 "hu": "Playa del Conchal",
                 "ro": "Playa del Conchal",
-                "en": "Playa del Conchal"
+                "en": "Playa del Conchal",
+                "es": "Playa del Conchal"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das Spiel der Wellen direkt vom Parkplatz aus; die feuchte Meeresluft ist gesund, also lüften Sie das Auto kurz für eine frische Brise.",
                 "hu": "Figyeld a hullámok játékát közvetlenül a parkolóból; a párás tengeri levegő egészséges, ezért szellőztesd át rövid időre az autót a friss fuvallatért.",
                 "ro": "Observați jocul valurilor direct din parcare; aerul umed de mare este sănătos, deci aerisiți scurt mașina pentru o briză proaspătă în timpul staționării.",
-                "en": "Watch the play of the waves directly from the parking lot; the humid sea air is healthy, so air out the car briefly for a fresh breeze while parked."
+                "en": "Watch the play of the waves directly from the parking lot; the humid sea air is healthy, so air out the car briefly for a fresh breeze while parked.",
+                "es": "Observa el juego de las olas desde el propio aparcamiento; el aire marino húmedo es saludable, así que ventila brevemente el coche para renovar el ambiente mientras estás estacionado."
               }
             },
             {
@@ -845,13 +937,15 @@
                 "de": "Playa de la Ministra",
                 "hu": "Playa de la Ministra",
                 "ro": "Playa de la Ministra",
-                "en": "Playa de la Ministra"
+                "en": "Playa de la Ministra",
+                "es": "Playa de la Ministra"
               },
               "tip_5lang": {
                 "de": "Ein letzter Blick auf die stürmische See vor der Heimfahrt; schalten Sie das Abblendlicht ein, da die Gischt und der Regen die Sicht auf der Straße mindern.",
                 "hu": "Még egy utolsó pillantás a viharos tengerre a hazautazás előtt; kapcsold be a tompított fényszórót, mert a pára és az eső rontja a látási viszonyokat az úton.",
                 "ro": "O ultimă privire spre marea învolburată înainte de plecare; aprindeți faza scurtă, deoarece ceața și ploaia reduc vizibilitatea pe drumul spre casă.",
-                "en": "One last look at the stormy sea before heading home; turn on your low beam headlights as the mist and rain reduce visibility on the road back."
+                "en": "One last look at the stormy sea before heading home; turn on your low beam headlights as the mist and rain reduce visibility on the road back.",
+                "es": "Una última mirada al mar tempestuoso antes de volver a casa; enciende las luces de cruce porque la niebla y la lluvia reducen la visibilidad en la carretera de regreso."
               }
             }
           ]
@@ -861,7 +955,8 @@
             "de": "Starten Sie den Wintertag mit der Heizung im Auto auf dem Weg zur Hacienda. Mittags ist ein kurzer Stadtbummel am Theater erfrischend, bevor Sie sich im Wagen wieder aufwärmen. Die Strände bieten im tiefstehenden Winterlicht fantastische Fotomotive. Da es um 17:00 Uhr dunkel wird, genießen Sie den Sonnenuntergang am Meer am besten direkt aus dem warmen Auto.",
             "hu": "Indítsd a téli napot az autó fűtésével a Hacienda felé vezető úton. Délben egy rövid városi séta a színháznál frissítő, mielőtt újra felmelegednél a kocsiban. A tengerpartok a lapos téli napsütésben fantasztikus fotótémákat kínálnak. Mivel 17:00-kor sötétedik, a naplementét a parton a legjobb közvetlenül a meleg autóból élvezni.",
             "ro": "Începeți ziua de iarnă cu căldura din mașină spre Hacienda. La prânz, o scurtă plimbare la teatru este revigorantă înainte de a vă reîncălzi în vehicul. Plajele oferă oportunități foto fantastice în lumina joasă a iernii. Deoarece se întunecă la ora 17:00, savurați apusul de pe malul mării direct din mașina călduroasă.",
-            "en": "Start the winter day with the car heater on the way to the Hacienda. At noon, a short city walk by the theater is refreshing before warming up again in the car. The beaches offer fantastic photo opportunities in the low winter light. Since it gets dark at 17:00, it's best to enjoy the sunset at the shore directly from the warm car."
+            "en": "Start the winter day with the car heater on the way to the Hacienda. At noon, a short city walk by the theater is refreshing before warming up again in the car. The beaches offer fantastic photo opportunities in the low winter light. Since it gets dark at 17:00, it's best to enjoy the sunset at the shore directly from the warm car.",
+            "es": "Comienza el día invernal con la calefacción del coche en el viaje a la Hacienda. Al mediodía, un corto paseo por la ciudad junto al teatro refresca antes de volver a calentarse en el coche. Las playas ofrecen fantásticas oportunidades fotográficas con la luz baja del invierno. Como anochece a las 17:00, es mejor disfrutar la puesta de sol en la orilla directamente desde el coche caliente."
           },
           "stops": [
             {
@@ -869,13 +964,15 @@
                 "de": "Hacienda San José",
                 "hu": "Hacienda San José",
                 "ro": "Hacienda San José",
-                "en": "Hacienda San José"
+                "en": "Hacienda San José",
+                "es": "Hacienda San José"
               },
               "tip_5lang": {
                 "de": "Die Hacienda wirkt im winterlichen Morgendunst besonders edel; genießen Sie den Anblick und ziehen Sie sich warm an, wenn Sie für Fotos kurz aussteigen.",
                 "hu": "A Hacienda a téli reggeli ködben különösen előkelőnek tűnik; élvezd a látványt, és öltözz fel melegen, amikor rövid időre kiszállsz a fotózáshoz a kertben.",
                 "ro": "Hacienda pare deosebit de nobilă în ceața dimineții de iarnă; bucurați-vă de priveliște și îmbrăcați-vă gros când coborâți scurt pentru fotografii în curte.",
-                "en": "The Hacienda looks particularly noble in the winter morning mist; enjoy the view and dress warmly when you get out briefly for photos in the garden."
+                "en": "The Hacienda looks particularly noble in the winter morning mist; enjoy the view and dress warmly when you get out briefly for photos in the garden.",
+                "es": "La Hacienda luce especialmente señorial con la niebla matinal invernal; disfruta la vista y abrígate al salir brevemente para hacer fotos en el jardín."
               }
             },
             {
@@ -883,13 +980,15 @@
                 "de": "Teatro Principal",
                 "hu": "Teatro Principal",
                 "ro": "Teatro Principal",
-                "en": "Teatro Principal"
+                "en": "Teatro Principal",
+                "es": "Teatro Principal"
               },
               "tip_5lang": {
                 "de": "Der Innenraum bietet Schutz vor der kühlen Brise; nutzen Sie die Besichtigung, um sich aufzuwärmen, bevor Sie die Fahrt entlang der Küste fortsetzen.",
                 "hu": "A belső tér védelmet nyújt a hűvös fuvallat ellen; használd ki a látogatást a felmelegedésre, mielőtt folytatnád az utazást a tengerpart mentén az autóval.",
                 "ro": "Interiorul oferă protecție împotriva brizei răcoroase; profitați de vizită pentru a vă încălzi înainte de a continua călătoria cu mașina de-a lungul coastei.",
-                "en": "The interior offers protection from the cool breeze; take advantage of the visit to warm up before continuing your journey by car along the coast."
+                "en": "The interior offers protection from the cool breeze; take advantage of the visit to warm up before continuing your journey by car along the coast.",
+                "es": "El interior ofrece protección contra la brisa fría; aprovecha la visita para entrar en calor antes de continuar el viaje en coche por la costa."
               }
             },
             {
@@ -897,13 +996,15 @@
                 "de": "Casa de San Pedro y San José",
                 "hu": "Casa de San Pedro y San José",
                 "ro": "Casa de San Pedro y San José",
-                "en": "Casa de San Pedro y San José"
+                "en": "Casa de San Pedro y San José",
+                "es": "Casa de San Pedro y San José"
               },
               "tip_5lang": {
                 "de": "Die kahleren Bäume im Winter lassen mehr Licht auf das Gebäude fallen; ein kurzer Spaziergang ist gesund, aber kehren Sie bald in das beheizte Auto zurück.",
                 "hu": "A télen csupaszabb fák több fényt engednek az épületre; egy rövid séta egészséges a friss levegőn, de térj vissza hamar a fűtött autóba a pihenéshez.",
                 "ro": "Copacii mai golași iarna lasă mai multă lumină să cadă pe clădire; o scurtă plimbare în aer liber este sănătoasă, dar reveniți repede în mașina încălzită.",
-                "en": "The barer trees in winter allow more light to fall on the building; a short walk in the fresh air is healthy, but return soon to the heated car to rest."
+                "en": "The barer trees in winter allow more light to fall on the building; a short walk in the fresh air is healthy, but return soon to the heated car to rest.",
+                "es": "Los árboles más desnudos en invierno dejan entrar más luz sobre el edificio; un paseo corto al aire libre es saludable, pero vuelve pronto al coche calefactado para descansar."
               }
             },
             {
@@ -911,13 +1012,15 @@
                 "de": "Playa del Conchal",
                 "hu": "Playa del Conchal",
                 "ro": "Playa del Conchal",
-                "en": "Playa del Conchal"
+                "en": "Playa del Conchal",
+                "es": "Playa del Conchal"
               },
               "tip_5lang": {
                 "de": "Die Wintersonne glitzert herrlich auf dem Wasser; bleiben Sie im Auto, um den Ausblick windgeschützt zu genießen, da es am Strand oft sehr zugig ist.",
                 "hu": "A téli napsütés csodásan csillog a vízen; maradj az autóban, hogy szélvédett helyen élvezd a kilátást, mert a parton télen gyakran erős és hideg a szél.",
                 "ro": "Soarele de iarnă strălucește minunat pe apă; rămâneți în mașină pentru a vă bucura de priveliște la adăpost, deoarece pe plajă vântul este adesea rece.",
-                "en": "The winter sun glitters wonderfully on the water; stay in the car to enjoy the view protected from the wind, as it is often very windy and cold on the beach."
+                "en": "The winter sun glitters wonderfully on the water; stay in the car to enjoy the view protected from the wind, as it is often very windy and cold on the beach.",
+                "es": "El sol invernal brilla maravillosamente sobre el agua; quédate en el coche para disfrutar la vista protegido del viento, ya que a menudo hace mucho viento y frío en la playa."
               }
             },
             {
@@ -925,13 +1028,15 @@
                 "de": "Playa de la Ministra",
                 "hu": "Playa de la Ministra",
                 "ro": "Playa de la Ministra",
-                "en": "Playa de la Ministra"
+                "en": "Playa de la Ministra",
+                "es": "Playa de la Ministra"
               },
               "tip_5lang": {
                 "de": "Kommen Sie vor 16:45 Uhr an, um den Sonnenuntergang zu sehen; die Farben sind im Winter intensiver, und im Auto ist es der gemütlichste Ort für dieses Erlebnis.",
                 "hu": "Érkezz meg 16:45 előtt, hogy lásd a naplementét; a színek télen intenzívebbek, és az autóban ülve ez a legkényelmesebb helyszín az élményhez a hidegben.",
                 "ro": "Ajungeți înainte de 16:45 pentru a vedea apusul; culorile sunt mai intense iarna, iar din mașină este cel mai confortabil loc pentru această experiență pe frig.",
-                "en": "Arrive before 16:45 to see the sunset; the colors are more intense in winter, and sitting in the car is the most comfortable spot for this experience in the cold."
+                "en": "Arrive before 16:45 to see the sunset; the colors are more intense in winter, and sitting in the car is the most comfortable spot for this experience in the cold.",
+                "es": "Llega antes de las 16:45 para ver la puesta de sol; los colores son más intensos en invierno y sentarse en el coche es lo más cómodo para esta experiencia en el frío."
               }
             }
           ]

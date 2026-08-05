@@ -31,7 +31,8 @@
             "de": "Beobachten Sie die bunten Boote.",
             "hu": "Nézze meg a színes csónakokat.",
             "ro": "Observați bărcile colorate.",
-            "en": "Watch the colorful boats."
+            "en": "Watch the colorful boats.",
+            "es": "Observe los barcos coloridos."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Schöne Fassade direkt am Meer.",
             "hu": "Szép homlokzat közvetlenül a tengerparton.",
             "ro": "Fațadă frumoasă direct pe malul mării.",
-            "en": "Beautiful facade right by the sea."
+            "en": "Beautiful facade right by the sea.",
+            "es": "Bonita fachada junto al mar."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Bester Blick auf die Wellen.",
             "hu": "Legjobb kilátás a hullámokra.",
             "ro": "Cea mai bună vedere spre valuri.",
-            "en": "Best view of the waves."
+            "en": "Best view of the waves.",
+            "es": "Mejor vista de las olas."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Spektakuläre Lage auf der Landspitze.",
             "hu": "Látványos fekvés a földnyelven.",
             "ro": "Locație spectaculoasă pe promontoriu.",
-            "en": "Spectacular location on the headland."
+            "en": "Spectacular location on the headland.",
+            "es": "Ubicación espectacular en el promontorio."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Lokale Kunst und Ausstellungen.",
             "hu": "Helyi művészet és kiállítások.",
             "ro": "Artă locală și expoziții.",
-            "en": "Local art and exhibitions."
+            "en": "Local art and exhibitions.",
+            "es": "Arte local y exposiciones."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Entspannen am Flussufer.",
             "hu": "Pihenés a folyóparton.",
             "ro": "Relaxare pe malul râului.",
-            "en": "Relaxing by the riverbank."
+            "en": "Relaxing by the riverbank.",
+            "es": "Relájese en la ribera del río."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Ein Traum für Surfer.",
             "hu": "A szörfösök álma.",
             "ro": "Un vis pentru surferi.",
-            "en": "A surfer's dream."
+            "en": "A surfer's dream.",
+            "es": "El sueño de un surfista."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Mundaka ist das Herz des Urdaibai-Reservats. Wir spazieren vom charmanten Hafen zur Kirche am Wasser und weiter zur einsamen Kapelle Santa Catalina. Nachmittags genießen wir die Atmosphäre am Strand und beobachten die weltberühmte Welle.",
         "hu": "Mundaka az Urdaibai-rezervátum szíve. A bájos kikötőtől a vízparti templomig sétálunk, majd tovább a magányos Santa Catalina kápolnához. Délután a strandon élvezzük a hangulatot és figyeljük a világhírű hullámot.",
         "ro": "Mundaka este inima rezervației Urdaibai. Ne plimbăm de la portul fermecător la biserica de pe malul apei și mai departe spre capela solitară Santa Catalina. După-amiaza savurăm atmosfera de pe plajă și observăm valul faimos în întreaga lume.",
-        "en": "Mundaka is the heart of the Urdaibai reserve. We stroll from the charming harbor to the waterfront church and on to the solitary Santa Catalina chapel. In the afternoon, we enjoy the beach atmosphere and watch the world-famous wave."
+        "en": "Mundaka is the heart of the Urdaibai reserve. We stroll from the charming harbor to the waterfront church and on to the solitary Santa Catalina chapel. In the afternoon, we enjoy the beach atmosphere and watch the world-famous wave.",
+        "es": "Mundaka es el corazón de la reserva de la ría de Urdaibai. Paseamos desde el encantador puerto hasta la iglesia junto al mar y continuamos hasta la solitaria capilla de Santa Catalina. Por la tarde, disfrutamos del ambiente de la playa y observamos la ola de fama mundial."
       },
       "gastro_picks": {
         "de": [
@@ -247,6 +255,10 @@
         "en": [
           "Bring binoculars to watch the surfers.",
           "Visit the town during low tide."
+        ],
+        "es": [
+          "Lleve binoculares para ver a los surfistas.",
+          "Visite el pueblo con la marea baja."
         ]
       },
       "variants": {
@@ -255,7 +267,8 @@
             "de": "Mundaka ist das Herz des Urdaibai-Reservats. Wir spazieren vom charmanten Hafen zur Kirche am Wasser und weiter zur einsamen Kapelle Santa Catalina. Nachmittags genießen wir die Atmosphäre am Strand und beobachten die weltberühmte Welle.",
             "hu": "Mundaka az Urdaibai-rezervátum szíve. A bájos kikötőtől a vízparti templomig sétálunk, majd tovább a magányos Santa Catalina kápolnához. Délután a strandon élvezzük a hangulatot és figyeljük a világhírű hullámot.",
             "ro": "Mundaka este inima rezervației Urdaibai. Ne plimbăm de la portul fermecător la biserica de pe malul apei și mai departe spre capela solitară Santa Catalina. După-amiaza savurăm atmosfera de pe plajă și observăm valul faimos în întreaga lume.",
-            "en": "Mundaka is the heart of the Urdaibai reserve. We stroll from the charming harbor to the waterfront church and on to the solitary Santa Catalina chapel. In the afternoon, we enjoy the beach atmosphere and watch the world-famous wave."
+            "en": "Mundaka is the heart of the Urdaibai reserve. We stroll from the charming harbor to the waterfront church and on to the solitary Santa Catalina chapel. In the afternoon, we enjoy the beach atmosphere and watch the world-famous wave.",
+            "es": "Mundaka es el corazón de la reserva de la ría de Urdaibai. Paseamos desde el encantador puerto hasta la iglesia junto al mar y continuamos hasta la solitaria capilla de Santa Catalina. Por la tarde, disfrutamos del ambiente de la playa y observamos la ola de fama mundial."
           },
           "stops": [
             {
@@ -264,7 +277,8 @@
                 "de": "Beobachten Sie die bunten Boote.",
                 "hu": "Nézze meg a színes csónakokat.",
                 "ro": "Observați bărcile colorate.",
-                "en": "Watch the colorful boats."
+                "en": "Watch the colorful boats.",
+                "es": "Observe los barcos coloridos."
               }
             },
             {
@@ -273,7 +287,8 @@
                 "de": "Schöne Fassade direkt am Meer.",
                 "hu": "Szép homlokzat közvetlenül a tengerparton.",
                 "ro": "Fațadă frumoasă direct pe malul mării.",
-                "en": "Beautiful facade right by the sea."
+                "en": "Beautiful facade right by the sea.",
+                "es": "Bonita fachada junto al mar."
               }
             },
             {
@@ -282,7 +297,8 @@
                 "de": "Bester Blick auf die Wellen.",
                 "hu": "Legjobb kilátás a hullámokra.",
                 "ro": "Cea mai bună vedere spre valuri.",
-                "en": "Best view of the waves."
+                "en": "Best view of the waves.",
+                "es": "Mejor vista de las olas."
               }
             },
             {
@@ -291,7 +307,8 @@
                 "de": "Spektakuläre Lage auf der Landspitze.",
                 "hu": "Látványos fekvés a földnyelven.",
                 "ro": "Locație spectaculoasă pe promontoriu.",
-                "en": "Spectacular location on the headland."
+                "en": "Spectacular location on the headland.",
+                "es": "Ubicación espectacular en el promontorio."
               }
             },
             {
@@ -300,7 +317,8 @@
                 "de": "Lokale Kunst und Ausstellungen.",
                 "hu": "Helyi művészet és kiállítások.",
                 "ro": "Artă locală și expoziții.",
-                "en": "Local art and exhibitions."
+                "en": "Local art and exhibitions.",
+                "es": "Arte local y exposiciones."
               }
             },
             {
@@ -309,7 +327,8 @@
                 "de": "Entspannen am Flussufer.",
                 "hu": "Pihenés a folyóparton.",
                 "ro": "Relaxare pe malul râului.",
-                "en": "Relaxing by the riverbank."
+                "en": "Relaxing by the riverbank.",
+                "es": "Relájese en la ribera del río."
               }
             },
             {
@@ -318,7 +337,8 @@
                 "de": "Ein Traum für Surfer.",
                 "hu": "A szörfösök álma.",
                 "ro": "Un vis pentru surferi.",
-                "en": "A surfer's dream."
+                "en": "A surfer's dream.",
+                "es": "El sueño de un surfista."
               }
             }
           ],
@@ -420,6 +440,10 @@
             "en": [
               "Bring binoculars to watch the surfers.",
               "Visit the town during low tide."
+            ],
+            "es": [
+              "Lleve binoculares para ver a los surfistas.",
+              "Visita la localidad en marea baja."
             ]
           }
         },
@@ -428,7 +452,8 @@
             "de": "Ein regnerischer Morgen beginnt am Hafen, wo der Nebel mystisch über dem Wasser hängt. Mittags bietet die Kirche Santa Maria einen trockenen Rückzugsort voller Geschichte. Am Nachmittag nutzen wir das Kulturzentrum Kurtzio als perfekten Unterschlupf vor dem Guss. Den Abend verbringen wir geschützt in Hafennähe, während wir die stürmische Brandung des Atlantiks beobachten.",
             "hu": "A ködös, esős reggel a kikötőben indul, ahol a szürke égbolt és a tenger összeolvad. Délben a Santa Maria templom vastag falai között találunk menedéket és nyugalmat. Délután a Kurtzio kulturális központ modern épülete nyújt száraz pihenőt a látogatóknak. Az estét a part közelében, fedett helyen zárjuk, figyelve az óceán erejét a szakadó esőben.",
             "ro": "O dimineață ploioasă începe în port, unde ceața atârnă mistic deasupra apei. La prânz, biserica Santa Maria oferă un refugiu uscat și plin de istorie. După-amiază, folosim centrul cultural Kurtzio ca adăpost perfect împotriva averselor. Seara ne-o petrecem protejați lângă port, observând valurile furtunoase ale Atlanticului în timp ce ploaia cade neîncetat.",
-            "en": "A rainy morning begins at the harbor, where mist hangs mystically over the water. At noon, Santa Maria Church offers a dry sanctuary full of history. In the afternoon, we use the Kurtzio Cultural Center as a perfect shelter from the downpour. We spend the evening protected near the harbor, watching the stormy Atlantic surf as the rain falls steadily."
+            "en": "A rainy morning begins at the harbor, where mist hangs mystically over the water. At noon, Santa Maria Church offers a dry sanctuary full of history. In the afternoon, we use the Kurtzio Cultural Center as a perfect shelter from the downpour. We spend the evening protected near the harbor, watching the stormy Atlantic surf as the rain falls steadily.",
+            "es": "Una mañana lluviosa comienza en el puerto, donde la niebla cuelga mística sobre el agua. Al mediodía, la iglesia de Santa María ofrece un refugio seco lleno de historia. Por la tarde, usamos el Centro Cultural Kurtzio como perfecto resguardo de la lluvia. Pasamos la noche protegidos cerca del puerto, observando el bravo oleaje atlántico mientras la lluvia cae con intensidad."
           },
           "stops": [
             {
@@ -437,7 +462,8 @@
                 "de": "Vorsicht, die Steinmauern sind bei Regen extrem rutschig.",
                 "hu": "Vigyázat, a kőfalak esőben rendkívül csúszósak lehetnek.",
                 "ro": "Atenție, zidurile de piatră sunt extrem de alunecoase pe ploaie.",
-                "en": "Careful, the stone walls are extremely slippery when wet."
+                "en": "Careful, the stone walls are extremely slippery when wet.",
+                "es": "Cuidado, los muros de piedra son extremadamente resbaladizos cuando están mojados."
               }
             },
             {
@@ -446,7 +472,8 @@
                 "de": "Ein idealer Ort, um einen heftigen Schauer abzuwarten.",
                 "hu": "Ideális helyszín egy nagyobb zápor átvészelésére.",
                 "ro": "Un loc ideal pentru a aștepta trecerea unei averse puternice.",
-                "en": "An ideal place to wait out a heavy downpour."
+                "en": "An ideal place to wait out a heavy downpour.",
+                "es": "Un lugar ideal para esperar a que pase un fuerte aguacero."
               }
             },
             {
@@ -455,7 +482,8 @@
                 "de": "Regenschirm festthalten, der Wind kann hier oben stark sein.",
                 "hu": "Fogja erősen az esernyőt, a szél itt nagyon feltámadhat.",
                 "ro": "Țineți umbrela bine, vântul poate fi puternic aici sus.",
-                "en": "Hold your umbrella tight, the wind can be strong up here."
+                "en": "Hold your umbrella tight, the wind can be strong up here.",
+                "es": "Sujeta bien el paraguas, el viento aquí arriba puede ser fuerte."
               }
             },
             {
@@ -464,7 +492,8 @@
                 "de": "Der Weg ist ungeschützt, wasserdichte Kleidung ist Pflicht.",
                 "hu": "Az út teljesen nyitott, vízálló ruházat kötelező.",
                 "ro": "Drumul este neprotejat, îmbrăcămintea impermeabilă este obligatorie.",
-                "en": "The path is unsheltered; waterproof clothing is a must."
+                "en": "The path is unsheltered; waterproof clothing is a must.",
+                "es": "El camino no tiene protección; la ropa impermeable es imprescindible."
               }
             },
             {
@@ -473,7 +502,8 @@
                 "de": "Die Ausstellungen drinnen sind die beste Flucht vor dem Regen.",
                 "hu": "A benti kiállítások jelentik a legjobb menekülést az eső elől.",
                 "ro": "Expozițiile din interior sunt cea mai bună evadare din ploaie.",
-                "en": "The indoor exhibitions are the best escape from the rain."
+                "en": "The indoor exhibitions are the best escape from the rain.",
+                "es": "Las exposiciones interiores son la mejor escapatoria de la lluvia."
               }
             },
             {
@@ -482,7 +512,8 @@
                 "de": "Vom Café aus die Wellen beobachten, statt nass zu werden.",
                 "hu": "A kávézóból figyelje a hullámokat, ahelyett hogy megázna.",
                 "ro": "Observați valurile din cafenea în loc să vă udați pe plajă.",
-                "en": "Watch the waves from a cafe instead of getting wet on the beach."
+                "en": "Watch the waves from a cafe instead of getting wet on the beach.",
+                "es": "Mira las olas desde una cafetería en vez de mojarte en la playa."
               }
             },
             {
@@ -491,7 +522,8 @@
                 "de": "Regen bedeutet oft gute Wellen; Fernglas mitbringen.",
                 "hu": "Az eső gyakran jó hullámokat jelent; hozzon távcsövet.",
                 "ro": "Ploaia înseamnă adesea valuri bune; aduceți binoclul.",
-                "en": "Rain often means good waves; bring binoculars for viewing."
+                "en": "Rain often means good waves; bring binoculars for viewing.",
+                "es": "La lluvia a menudo significa buenas olas; trae prismáticos para verlas."
               }
             }
           ],
@@ -523,6 +555,13 @@
               "Use the Old Town arcades as natural rain protection.",
               "Waterproof phone cases are essential for coastal photography.",
               "Wind often blows rain horizontally; ponchos are better than umbrellas."
+            ],
+            "es": [
+              "Lleva botas de senderismo con buena suela para los adoquines húmedos.",
+              "Las cafeterías del puerto son acogedoros refugios durante la lluvia persistente.",
+              "Usa los soportales del Casco Antiguo como protección natural contra la lluvia.",
+              "Las fundas impermeables para el móvil son esenciales para la fotografía costera.",
+              "El viento suele empujar la lluvia en horizontal; los chubasqueros son mejor opción que los paraguas."
             ]
           }
         },
@@ -531,7 +570,8 @@
             "de": "Ein kühler Wintermorgen am Hafen erfordert warme Kleidung gegen die Meeresbrise. Mittags wärmen wir uns in den historischen Hallen von Santa Maria auf. Am Nachmittag bietet die Atalaya einen dramatischen Blick auf die Winterwellen, bevor die Sonne früh sinkt. Den Abend genießen wir bei lokalem Wein in einer beheizten Bar, während die Kälte draußen bleibt.",
             "hu": "A hűvös téli reggel a kikötőben réteges öltözetet igényel a tengeri szél ellen. Délben a Santa Maria templom történelmi falai között melegszünk fel. Délután az Atalaya pontról csodáljuk a drámai téli hullámokat a korai naplemente előtt. Az estét helyi bor mellett, egy fűtött bárban töltjük, távol a kinti hidegtől.",
             "ro": "O dimineață răcoroasă de iarnă în port necesită haine groase împotriva brizei marine. La prânz ne încălzim în halele istorice din Santa Maria. După-amiază, Atalaya oferă o vedere dramatică asupra valurilor de iarnă înainte ca soarele să apună devreme. Seara savurăm un vin local într-un bar încălzit, lăsând frigul afară.",
-            "en": "A chilly winter morning at the harbor requires warm layers against the sea breeze. At noon, we warm up within the historic halls of Santa Maria. In the afternoon, Atalaya offers a dramatic view of winter waves before the sun sets early. We enjoy the evening with local wine in a heated bar, leaving the cold outside."
+            "en": "A chilly winter morning at the harbor requires warm layers against the sea breeze. At noon, we warm up within the historic halls of Santa Maria. In the afternoon, Atalaya offers a dramatic view of winter waves before the sun sets early. We enjoy the evening with local wine in a heated bar, leaving the cold outside.",
+            "es": "Una fría mañana de invierno en el puerto requiere capas cálidas contra la brisa marina. Al mediodía, nos calentamos dentro de los históricos salones de Santa María. Por la tarde, Atalaya ofrece una vista dramática de las olas invernales antes de que el sol se ponga temprano. Disfrutamos la noche con vino local en un bar con calefacción, dejando el frío afuera."
           },
           "stops": [
             {
@@ -540,7 +580,8 @@
                 "de": "Die Gischt ist im Winter kälter, Mütze aufsetzen.",
                 "hu": "A tengeri permet télen hidegebb, viseljen sapkát.",
                 "ro": "Stropii de mare sunt mai reci iarna, puneți-vă căciula.",
-                "en": "The sea spray is colder in winter; keep your hat on."
+                "en": "The sea spray is colder in winter; keep your hat on.",
+                "es": "La bruma marina es más fría en invierno; manten el gorro puesto."
               }
             },
             {
@@ -549,7 +590,8 @@
                 "de": "Oft wärmer als draußen, nutzen Sie die Ruhe.",
                 "hu": "Gyakran melegebb, mint kint, élvezze a csendet.",
                 "ro": "Adesea mai cald decât afară, profitați de liniște.",
-                "en": "Often warmer than outside; enjoy the interior peace."
+                "en": "Often warmer than outside; enjoy the interior peace.",
+                "es": "A menudo más cálido que el exterior; disfruta de la paz interior."
               }
             },
             {
@@ -558,7 +600,8 @@
                 "de": "Bester Platz für den frühen Sonnenuntergang gegen 17:45 Uhr.",
                 "hu": "A legjobb hely a korai, 17:45 körüli naplementéhez.",
                 "ro": "Cel mai bun loc pentru apusul devreme, în jurul orei 17:45.",
-                "en": "Best spot for the early sunset around 5:45 PM."
+                "en": "Best spot for the early sunset around 5:45 PM.",
+                "es": "Mejor sitio para el atardecer temprano sobre las 17:45."
               }
             },
             {
@@ -567,7 +610,8 @@
                 "de": "Starker Wind im Winter; winddichte Jacke einpacken.",
                 "hu": "Erős szél télen; vigyen szélálló kabátot.",
                 "ro": "Vânt puternic iarna; luați o jachetă rezistentă la vânt.",
-                "en": "Strong winds in winter; pack a windproof jacket."
+                "en": "Strong winds in winter; pack a windproof jacket.",
+                "es": "Vientos fuertes en invierno; lleva una chaqueta cortaviento."
               }
             },
             {
@@ -576,7 +620,8 @@
                 "de": "Perfekt für eine Aufwärmpause am frühen Nachmittag.",
                 "hu": "Tökéletes egy melegedő szünetre kora délután.",
                 "ro": "Perfect pentru o pauză de încălzire după-amiaza devreme.",
-                "en": "Perfect for a warming break in the early afternoon."
+                "en": "Perfect for a warming break in the early afternoon.",
+                "es": "Perfecto para una pausa que caliente a primera hora de la tarde."
               }
             },
             {
@@ -585,7 +630,8 @@
                 "de": "Im Winter fast leer, ideal für einsame Spaziergänge.",
                 "hu": "Télen szinte üres, ideális magányos sétákhoz.",
                 "ro": "Aproape pustie iarna, ideală pentru plimbări solitare.",
-                "en": "Almost empty in winter, ideal for solitary walks."
+                "en": "Almost empty in winter, ideal for solitary walks.",
+                "es": "Casi vacío en invierno, ideal para paseos en soledad."
               }
             },
             {
@@ -594,7 +640,8 @@
                 "de": "Hauptsaison für Profi-Surfer; beeindruckende Riesenwellen.",
                 "hu": "Profi szörfösök főszezonja; lenyűgöző óriáshullámok.",
                 "ro": "Sezonul principal pentru surferi; valuri uriașe impresionante.",
-                "en": "Peak season for pro surfers; impressive giant waves."
+                "en": "Peak season for pro surfers; impressive giant waves.",
+                "es": "Temporada alta para surfistas profesionales; olas gigantes impresionantes."
               }
             }
           ],
@@ -626,6 +673,13 @@
               "Warm drinks like 'Cola Cao' are especially popular now.",
               "Layered clothing protects against the changeable coastal wind.",
               "Watch the tides: winter storms push the water high up."
+            ],
+            "es": [
+              "Los atardeceres son mucho más espectaculares sobre el mar en invierno.",
+              "Muchas tiendas pequeñas cierran antes en invierno; planifica las compras antes de las 18:00.",
+              "Bebidas calientes como el Cola Cao son especialmente populares ahora.",
+              "La ropa en capas protege contra el cambiante viento costero.",
+              "Observa las mareas: las tormentas invernales suben mucho el nivel del agua."
             ]
           }
         }
@@ -654,7 +708,8 @@
             "de": "Bester Startplatz.",
             "hu": "Legjobb indulópont.",
             "ro": "Cel mai bun loc de start.",
-            "en": "Best starting point."
+            "en": "Best starting point.",
+            "es": "Mejor punto de partida."
           }
         },
         {
@@ -672,7 +727,8 @@
             "de": "Einfacher Weg mit Aussicht.",
             "hu": "Könnyű út kilátással.",
             "ro": "Drum ușor cu priveliște.",
-            "en": "Easy path with views."
+            "en": "Easy path with views.",
+            "es": "Camino fácil con vistas."
           }
         },
         {
@@ -690,7 +746,8 @@
             "de": "Wellenrauschen inklusive.",
             "hu": "A hullámok zúgása végigkísér.",
             "ro": "Sunetul valurilor inclus.",
-            "en": "Sound of the waves included."
+            "en": "Sound of the waves included.",
+            "es": "Incluye sonido de las olas."
           }
         },
         {
@@ -708,7 +765,8 @@
             "de": "Eleganter Adelspalast.",
             "hu": "Elegáns nemesi palota.",
             "ro": "Palat nobiliar elegant.",
-            "en": "Elegant noble palace."
+            "en": "Elegant noble palace.",
+            "es": "Elegante palacio nobiliario."
           }
         },
         {
@@ -726,7 +784,8 @@
             "de": "Pause vor dem Rückweg.",
             "hu": "Pihenő a visszatérés előtt.",
             "ro": "Pauză înainte de întoarcere.",
-            "en": "Break before heading back."
+            "en": "Break before heading back.",
+            "es": "Pausa antes de regresar."
           }
         }
       ],
@@ -734,7 +793,8 @@
         "de": "Diese Radtour verbindet Mundaka mit der rauen Küstenlandschaft. Wir fahren zur Kapelle und erkunden den Weg Richtung Bermeo, bevor wir die herrschaftlichen Paläste der Stadt bewundern.",
         "hu": "Ez a kerékpártúra összeköti Mundakát a vad tengerparti tájjal. Eltekerünk a kápolnához, felfedezzük a Bermeo felé vezető utat, majd megcsodáljuk a város úri palotáit.",
         "ro": "Acest tur cu bicicleta conectează Mundaka cu peisajul costier sălbatic. Pedalam spre capelă și explorăm drumul spre Bermeo înainte de a admira palatele impunătoare ale orașului.",
-        "en": "This bike tour connects Mundaka with the rugged coastal landscape. We cycle to the chapel and explore the path towards Bermeo before admiring the town's stately palaces."
+        "en": "This bike tour connects Mundaka with the rugged coastal landscape. We cycle to the chapel and explore the path towards Bermeo before admiring the town's stately palaces.",
+        "es": "Este recorrido en bici conecta Mundaka con el agreste paisaje costero. Pedaleamos hasta la ermita y exploramos el sendero hacia Bermeo antes de admirar los palacios señoriales del pueblo."
       },
       "gastro_picks": {
         "de": [
@@ -834,6 +894,10 @@
         "en": [
           "Rent an e-bike for the hills.",
           "Watch out for hikers on the coastal path."
+        ],
+        "es": [
+          "Alquila una e-bike para las cuestas.",
+          "Cuidado con los senderistas en el camino costero."
         ]
       },
       "variants": {
@@ -842,7 +906,8 @@
             "de": "Diese Radtour verbindet Mundaka mit der rauen Küstenlandschaft. Wir fahren zur Kapelle und erkunden den Weg Richtung Bermeo, bevor wir die herrschaftlichen Paläste der Stadt bewundern.",
             "hu": "Ez a kerékpártúra összeköti Mundakát a vad tengerparti tájjal. Eltekerünk a kápolnához, felfedezzük a Bermeo felé vezető utat, majd megcsodáljuk a város úri palotáit.",
             "ro": "Acest tur cu bicicleta conectează Mundaka cu peisajul costier sălbatic. Pedalam spre capelă și explorăm drumul spre Bermeo înainte de a admira palatele impunătoare ale orașului.",
-            "en": "This bike tour connects Mundaka with the rugged coastal landscape. We cycle to the chapel and explore the path towards Bermeo before admiring the town's stately palaces."
+            "en": "This bike tour connects Mundaka with the rugged coastal landscape. We cycle to the chapel and explore the path towards Bermeo before admiring the town's stately palaces.",
+            "es": "Este recorrido en bici conecta Mundaka con el agreste paisaje costero. Pedaleamos hasta la ermita y exploramos el sendero hacia Bermeo antes de admirar los palacios señoriales del pueblo."
           },
           "stops": [
             {
@@ -851,7 +916,8 @@
                 "de": "Bester Startplatz.",
                 "hu": "Legjobb indulópont.",
                 "ro": "Cel mai bun loc de start.",
-                "en": "Best starting point."
+                "en": "Best starting point.",
+                "es": "Mejor punto de partida."
               }
             },
             {
@@ -860,7 +926,8 @@
                 "de": "Einfacher Weg mit Aussicht.",
                 "hu": "Könnyű út kilátással.",
                 "ro": "Drum ușor cu priveliște.",
-                "en": "Easy path with views."
+                "en": "Easy path with views.",
+                "es": "Camino fácil con vistas."
               }
             },
             {
@@ -869,7 +936,8 @@
                 "de": "Wellenrauschen inklusive.",
                 "hu": "A hullámok zúgása végigkísér.",
                 "ro": "Sunetul valurilor inclus.",
-                "en": "Sound of the waves included."
+                "en": "Sound of the waves included.",
+                "es": "Incluye sonido de las olas."
               }
             },
             {
@@ -878,7 +946,8 @@
                 "de": "Eleganter Adelspalast.",
                 "hu": "Elegáns nemesi palota.",
                 "ro": "Palat nobiliar elegant.",
-                "en": "Elegant noble palace."
+                "en": "Elegant noble palace.",
+                "es": "Elegante palacio nobiliario."
               }
             },
             {
@@ -887,7 +956,8 @@
                 "de": "Pause vor dem Rückweg.",
                 "hu": "Pihenő a visszatérés előtt.",
                 "ro": "Pauză înainte de întoarcere.",
-                "en": "Break before heading back."
+                "en": "Break before heading back.",
+                "es": "Pausa antes de regresar."
               }
             }
           ],
@@ -989,6 +1059,10 @@
             "en": [
               "Rent an e-bike for the hills.",
               "Watch out for hikers on the coastal path."
+            ],
+            "es": [
+              "Alquila una e-bike para las cuestas.",
+              "Cuidado con los senderistas en el camino costero."
             ]
           }
         },
@@ -997,7 +1071,8 @@
             "de": "Ein regnerischer Radtag startet vorsichtig am Hafen auf nassen Wegen. Mittags radeln wir zur Einsiedelei Santa Catalina, wobei Pfützen den Weg abenteuerlich machen. Am Nachmittag führt der Küstenweg nach Bermeo durch neblige Wälder mit frischer Luft. Abends kehren wir durchnässt, aber belebt zurück und freuen uns auf eine warme Dusche.",
             "hu": "Az esős bringás nap óvatosan indul a kikötő nedves útjain. Délben a Santa Catalina kápolnához tekerünk, ahol a tócsák kalandossá teszik az utat. Délután a Bermeo felé vezető parti út ködös erdőkön és friss levegőn át vezet. Estére átázva, de felfrissülve térünk vissza egy forró zuhany reményében.",
             "ro": "O zi ploioasă cu bicicleta începe cu prudență pe drumurile ude din port. La prânz pedalăm spre schitul Santa Catalina, unde bălțile fac drumul aventuros. După-amiază, drumul de coastă spre Bermeo trece prin păduri cețoase. Seara ne întoarcem udați, dar revigorați, așteptând un duș cald.",
-            "en": "A rainy biking day starts cautiously on the wet roads of the harbor. At noon, we pedal to Santa Catalina Hermitage, where puddles make the path adventurous. In the afternoon, the coastal path to Bermeo leads through misty forests and fresh air. By evening, we return soaked but invigorated, looking forward to a warm shower."
+            "en": "A rainy biking day starts cautiously on the wet roads of the harbor. At noon, we pedal to Santa Catalina Hermitage, where puddles make the path adventurous. In the afternoon, the coastal path to Bermeo leads through misty forests and fresh air. By evening, we return soaked but invigorated, looking forward to a warm shower.",
+            "es": "Un día lluvioso en bici comienza con precaución en las carreteras mojadas del puerto. Al mediodía, pedaleamos hasta la ermita de Santa Catalina, donde los charcos hacen la senda más aventurera. Por la tarde, el camino costero hacia Bermeo discurre entre bosques envueltos en niebla y aire fresco. Al llegar la noche, regresamos empapados pero vigorosos, deseando una ducha caliente."
           },
           "stops": [
             {
@@ -1006,7 +1081,8 @@
                 "de": "Vorsicht beim Anfahren auf nassem Kopfsteinpflaster.",
                 "hu": "Vigyázat az indulásnál a nedves macskaköveken.",
                 "ro": "Atenție la pornire pe pavajul umed.",
-                "en": "Be careful when starting on wet cobblestones."
+                "en": "Be careful when starting on wet cobblestones.",
+                "es": "Ten cuidado al arrancar sobre adoquines mojados."
               }
             },
             {
@@ -1015,7 +1091,8 @@
                 "de": "Der Boden kann hier schlammig sein, Schutzbleche helfen.",
                 "hu": "A talaj itt sáros lehet, a sárvédő sokat segít.",
                 "ro": "Solul poate fi noroios aici, apărătorile ajută.",
-                "en": "The ground can be muddy here; fenders will help."
+                "en": "The ground can be muddy here; fenders will help.",
+                "es": "El terreno puede estar embarrado aquí; los guardabarros ayudarán."
               }
             },
             {
@@ -1024,7 +1101,8 @@
                 "de": "Bei starkem Regen ist die Sicht eingeschränkt, Licht an.",
                 "hu": "Heves esőben korlátozott a látótávolság, kapcsolja be a lámpát.",
                 "ro": "În ploaie torențială vizibilitatea e redusă, aprindeți luminile.",
-                "en": "Visibility is limited in heavy rain; turn on your lights."
+                "en": "Visibility is limited in heavy rain; turn on your lights.",
+                "es": "La visibilidad es limitada con lluvia intensa; enciende las luces."
               }
             },
             {
@@ -1033,7 +1111,8 @@
                 "de": "Fahrrad im trockenen Bereich unter den Bäumen parken.",
                 "hu": "Parkolja le a biciklit a fák alatti szárazabb részen.",
                 "ro": "Parcați bicicleta în zona uscată de sub copaci.",
-                "en": "Park your bike in the dry area under the trees."
+                "en": "Park your bike in the dry area under the trees.",
+                "es": "Aparca la bici en la zona seca bajo los árboles."
               }
             },
             {
@@ -1042,7 +1121,8 @@
                 "de": "Die Abfahrt zur Stadt ist bei Nässe rutschig, bremsen bereit.",
                 "hu": "A városba vezető lejtő vizesen csúszik, legyen készen a fékezésre.",
                 "ro": "Coborârea spre oraș este alunecoasă pe ud, fiți gata de frânare.",
-                "en": "The descent to town is slippery when wet; be ready to brake."
+                "en": "The descent to town is slippery when wet; be ready to brake.",
+                "es": "El descenso al pueblo está resbaladizo cuando está mojado; prepárate para frenar."
               }
             }
           ],
@@ -1074,6 +1154,13 @@
               "Avoid riding over road markings; they are slippery as ice.",
               "Check tire pressure; slightly lower pressure increases grip.",
               "A plastic bag over the saddle keeps it dry while parked."
+            ],
+            "es": [
+              "Usa frenos de disco si es posible para mejor potencia de frenado en húmedo.",
+              "Lleva una chaqueta impermeable de color neón para mayor visibilidad.",
+              "Evita rodar sobre las marcas viales; son tan resbaladizas como el hielo.",
+              "Comprueba la presión de los neumáticos; una presión ligeramente menor aumenta la adherencia.",
+              "Una bolsa de plástico sobre el sillín lo mantendrá seco mientras aparcas."
             ]
           }
         },
@@ -1082,7 +1169,8 @@
             "de": "Ein frostiger Wintertag beginnt mit einer schnellen Fahrt am Hafen, um warm zu werden. Mittags radeln wir zur windigen Klippe von Santa Catalina, wo der Ausblick atemberaubend klar ist. Am Nachmittag fordert uns der Küstenweg nach Bermeo mit knackigen Steigungen und Wintersonne heraus. Abends beenden wir die Tour vor Einbruch der Dunkelheit im beleuchteten Stadtkern.",
             "hu": "A fagyos téli nap gyors tekeréssel indul a kikötőben, hogy bemelegedjünk. Délben a szeles Santa Catalina sziklához tekerünk, ahol a kilátás lélegzetelállítóan tiszta. Délután a Bermeo felé vezető parti út kemény emelkedői és a téli napsütés ad kihívást. Estére, még sötétedés előtt fejezzük be a túrát a kivilágított városközpontban.",
             "ro": "O zi geroasă de iarnă începe cu o tură rapidă în port pentru a ne încălzi. La prânz pedalăm spre stânca vântoasă Santa Catalina, unde priveliștea este incredibil de clară. După-amiază, drumul de coastă spre Bermeo ne provoacă cu urcări grele și soare de iarnă. Seara încheiem turul înainte de lăsarea întunericului în centrul luminat.",
-            "en": "A frosty winter day starts with a fast ride at the harbor to warm up. At noon, we pedal to the windy cliff of Santa Catalina, where the view is breathtakingly clear. In the afternoon, the coastal path to Bermeo challenges us with steep climbs and winter sun. By evening, we finish the tour before dark in the illuminated town center."
+            "en": "A frosty winter day starts with a fast ride at the harbor to warm up. At noon, we pedal to the windy cliff of Santa Catalina, where the view is breathtakingly clear. In the afternoon, the coastal path to Bermeo challenges us with steep climbs and winter sun. By evening, we finish the tour before dark in the illuminated town center.",
+            "es": "Un día frío y helado en invierno comienza con un trayecto rápido por el puerto para entrar en calor. Al mediodía, pedaleamos hasta el ventoso acantilado de Santa Catalina, donde la panorámica es sorprendentemente nítida. Por la tarde, el camino costero hacia Bermeo nos desafía con subidas empinadas y sol invernal. Al anochecer, terminamos la ruta antes de que oscurezca en el centro del pueblo iluminado."
           },
           "stops": [
             {
@@ -1091,7 +1179,8 @@
                 "de": "Tragen Sie Handschuhe, der Fahrtwind ist eisig.",
                 "hu": "Viseljen kesztyűt, a menetszél jeges lehet.",
                 "ro": "Purtați mănuși, vântul la pedalare este înghețat.",
-                "en": "Wear gloves; the wind chill while riding is icy."
+                "en": "Wear gloves; the wind chill while riding is icy.",
+                "es": "Lleva guantes; la sensación térmica al pedalear es heladora."
               }
             },
             {
@@ -1100,7 +1189,8 @@
                 "de": "Wunderschönes Winterlicht für Fotos, aber sehr windig.",
                 "hu": "Gyönyörű téli fények fotózáshoz, de nagyon szeles.",
                 "ro": "Lumină de iarnă superbă pentru poze, dar foarte vântos.",
-                "en": "Beautiful winter light for photos, but very windy."
+                "en": "Beautiful winter light for photos, but very windy.",
+                "es": "Hermosa luz invernal para fotos, pero mucho viento."
               }
             },
             {
@@ -1109,7 +1199,8 @@
                 "de": "Im Schatten kann es glatt sein, Vorsicht in Kurven.",
                 "hu": "Az árnyékos részeken jeges lehet, vigyázzon a kanyarokban.",
                 "ro": "În umbră poate fi gheață, atenție în curbe.",
-                "en": "It can be slippery in the shade; be careful in turns."
+                "en": "It can be slippery in the shade; be careful in turns.",
+                "es": "Puede estar resbaladizo en la sombra; ten cuidado en las curvas."
               }
             },
             {
@@ -1118,7 +1209,8 @@
                 "de": "Kurze Pause im Windschatten der Mauern.",
                 "hu": "Rövid pihenő a falak szélárnyékában.",
                 "ro": "Scurtă pauză la adăpostul zidurilor.",
-                "en": "Short break in the wind shadow of the walls."
+                "en": "Short break in the wind shadow of the walls.",
+                "es": "Pausa corta a la sombra del viento tras los muros."
               }
             },
             {
@@ -1127,7 +1219,8 @@
                 "de": "Genießen Sie die klare Sicht bis zur Izaro-Insel.",
                 "hu": "Élvezze a tiszta kilátást egészen az Izaro-szigetig.",
                 "ro": "Bucurați-vă de vederea clară până la insula Izaro.",
-                "en": "Enjoy the clear view all the way to Izaro Island."
+                "en": "Enjoy the clear view all the way to Izaro Island.",
+                "es": "Disfruta de la vista despejada hasta la isla de Izaro."
               }
             }
           ],
@@ -1159,6 +1252,13 @@
               "The sun sets around 5:30 PM in winter; lights are mandatory.",
               "Keep breaks short to avoid cooling down too much.",
               "A thermos with warm tea in the bottle cage is worth its weight in gold."
+            ],
+            "es": [
+              "Lleva capas base que alejen el sudor del cuerpo.",
+              "Lubrica la cadena con más frecuencia; la sal de la carretera puede causar corrosión.",
+              "El sol se pone sobre las 17:30 en invierno; las luces son obligatorias.",
+              "Mantén las pausas cortas para evitar enfriarte demasiado.",
+              "Un termo con té caliente en el portabidón vale su peso en oro."
             ]
           }
         }
@@ -1187,7 +1287,8 @@
             "de": "Tickets unbedingt vorab buchen.",
             "hu": "A jegyeket mindenképpen előre foglalja le.",
             "ro": "Rezervați biletele neapărat în avans.",
-            "en": "Essential to book tickets in advance."
+            "en": "Essential to book tickets in advance.",
+            "es": "Es imprescindible reservar las entradas con antelación."
           }
         },
         {
@@ -1205,7 +1306,8 @@
             "de": "Prachtvolles Gebäude.",
             "hu": "Pompás épület.",
             "ro": "Clădire magnifică.",
-            "en": "Magnificent building."
+            "en": "Magnificent building.",
+            "es": "Magnífico edificio."
           }
         },
         {
@@ -1223,7 +1325,8 @@
             "de": "Parken am Stadtrand empfohlen.",
             "hu": "Parkolás a város szélén javasolt.",
             "ro": "Parcare recomandată la marginea orașului.",
-            "en": "Parking at the edge of town recommended."
+            "en": "Parking at the edge of town recommended.",
+            "es": "Se recomienda aparcar en las afueras del pueblo."
           }
         },
         {
@@ -1241,7 +1344,8 @@
             "de": "Kühles Inneres an heißen Tagen.",
             "hu": "Hűvös belső tér meleg napokon.",
             "ro": "Interior răcoros în zilele toride.",
-            "en": "Cool interior on hot days."
+            "en": "Cool interior on hot days.",
+            "es": "Interior fresco en días calurosos."
           }
         },
         {
@@ -1259,7 +1363,8 @@
             "de": "Panoramablick genießen.",
             "hu": "Élvezze a panorámát.",
             "ro": "Bucurați-vă de panoramă.",
-            "en": "Enjoy the panoramic view."
+            "en": "Enjoy the panoramic view.",
+            "es": "Disfruta de la vista panorámica."
           }
         }
       ],
@@ -1267,7 +1372,8 @@
         "de": "Mit dem Auto besuchen wir erst das ikonische Gaztelugatxe, bevor wir nach Mundaka zurückkehren. Wir schlendern durch den Hafen und die Altstadt und genießen die Ausblicke auf das Biosphärenreservat.",
         "hu": "Autóval először az ikonikus Gaztelugatxe-t látogatjuk meg, majd visszatérünk Mundakába. Végigsétálunk a kikötőn és az óvároson, élvezve a bioszféra-rezervátum látványát.",
         "ro": "Cu mașina vizităm mai întâi iconicul Gaztelugatxe înainte de a reveni în Mundaka. Ne plimbăm prin port și centrul vechi, bucurându-ne de vederea spre rezervația biosferei.",
-        "en": "By car, we first visit the iconic Gaztelugatxe before returning to Mundaka. We stroll through the port and the old town, enjoying the views of the biosphere reserve."
+        "en": "By car, we first visit the iconic Gaztelugatxe before returning to Mundaka. We stroll through the port and the old town, enjoying the views of the biosphere reserve.",
+        "es": "En coche, primero visitamos el icónico Gaztelugatxe antes de volver a Mundaka. Paseamos por el puerto y el casco antiguo, disfrutando de las vistas de la reserva de la biosfera."
       },
       "gastro_picks": {
         "de": [
@@ -1367,6 +1473,10 @@
         "en": [
           "Gaztelugatxe is 20 min drive away.",
           "Parking spots in the center are scarce."
+        ],
+        "es": [
+          "Gaztelugatxe está a 20 minutos en coche.",
+          "Las plazas de aparcamiento en el centro son escasas."
         ]
       },
       "variants": {
@@ -1375,7 +1485,8 @@
             "de": "Mit dem Auto besuchen wir erst das ikonische Gaztelugatxe, bevor wir nach Mundaka zurückkehren. Wir schlendern durch den Hafen und die Altstadt und genießen die Ausblicke auf das Biosphärenreservat.",
             "hu": "Autóval először az ikonikus Gaztelugatxe-t látogatjuk meg, majd visszatérünk Mundakába. Végigsétálunk a kikötőn és az óvároson, élvezve a bioszféra-rezervátum látványát.",
             "ro": "Cu mașina vizităm mai întâi iconicul Gaztelugatxe înainte de a reveni în Mundaka. Ne plimbăm prin port și centrul vechi, bucurându-ne de vederea spre rezervația biosferei.",
-            "en": "By car, we first visit the iconic Gaztelugatxe before returning to Mundaka. We stroll through the port and the old town, enjoying the views of the biosphere reserve."
+            "en": "By car, we first visit the iconic Gaztelugatxe before returning to Mundaka. We stroll through the port and the old town, enjoying the views of the biosphere reserve.",
+            "es": "En coche, primero visitamos el icónico Gaztelugatxe antes de volver a Mundaka. Paseamos por el puerto y el casco antiguo, disfrutando de las vistas de la reserva de la biosfera."
           },
           "stops": [
             {
@@ -1384,7 +1495,8 @@
                 "de": "Tickets unbedingt vorab buchen.",
                 "hu": "A jegyeket mindenképpen előre foglalja le.",
                 "ro": "Rezervați biletele neapărat în avans.",
-                "en": "Essential to book tickets in advance."
+                "en": "Essential to book tickets in advance.",
+                "es": "Es imprescindible reservar las entradas con antelación."
               }
             },
             {
@@ -1393,7 +1505,8 @@
                 "de": "Prachtvolles Gebäude.",
                 "hu": "Pompás épület.",
                 "ro": "Clădire magnifică.",
-                "en": "Magnificent building."
+                "en": "Magnificent building.",
+                "es": "Magnífico edificio."
               }
             },
             {
@@ -1402,7 +1515,8 @@
                 "de": "Parken am Stadtrand empfohlen.",
                 "hu": "Parkolás a város szélén javasolt.",
                 "ro": "Parcare recomandată la marginea orașului.",
-                "en": "Parking at the edge of town recommended."
+                "en": "Parking at the edge of town recommended.",
+                "es": "Se recomienda aparcar en las afueras del pueblo."
               }
             },
             {
@@ -1411,7 +1525,8 @@
                 "de": "Kühles Inneres an heißen Tagen.",
                 "hu": "Hűvös belső tér meleg napokon.",
                 "ro": "Interior răcoros în zilele toride.",
-                "en": "Cool interior on hot days."
+                "en": "Cool interior on hot days.",
+                "es": "Interior fresco en días calurosos."
               }
             },
             {
@@ -1420,7 +1535,8 @@
                 "de": "Panoramablick genießen.",
                 "hu": "Élvezze a panorámát.",
                 "ro": "Bucurați-vă de panoramă.",
-                "en": "Enjoy the panoramic view."
+                "en": "Enjoy the panoramic view.",
+                "es": "Disfruta de la vista panorámica."
               }
             }
           ],
@@ -1522,6 +1638,10 @@
             "en": [
               "Gaztelugatxe is 20 min drive away.",
               "Parking spots in the center are scarce."
+            ],
+            "es": [
+              "Gaztelugatxe está a 20 minutos en coche.",
+              "Las plazas de aparcamiento en el centro son escasas."
             ]
           }
         },
@@ -1530,7 +1650,8 @@
             "de": "Ein regnerischer Tag im Auto führt uns sicher nach San Juan de Gaztelugatxe, wo wir das Schauspiel der Brandung aus dem Fenster genießen. Mittags parken wir nahe dem Hafen und sprinten kurz durch den Regen. Am Nachmittag bietet die Fahrt entlang der Küste spektakuläre Ausblicke auf das graue Meer. Abends entspannen wir bei der Rückfahrt im trockenen Innenraum.",
             "hu": "Az esős autós nap biztonságban visz el San Juan de Gaztelugatxe-ba, ahol az ablakból csodáljuk a tajtékzó tengert. Délben a kikötő közelében parkolunk, és csak rövid időre szállunk ki az esőbe. Délután a parti autóút látványos kilátást nyújt a szürke óceánra. Estére a száraz és meleg autóban pihenjük ki a napot a visszavezető úton.",
             "ro": "O zi ploioasă cu mașina ne duce în siguranță la San Juan de Gaztelugatxe, unde admirăm spectacolul mării de la fereastră. La prânz parcăm lângă port și facem sprinturi scurte prin ploaie. După-amiază, drumul de coastă oferă vederi spectaculoase asupra mării gri. Seara ne relaxăm în interiorul uscat al mașinii pe drumul de întoarcere.",
-            "en": "A rainy day by car takes us safely to San Juan de Gaztelugatxe, where we admire the crashing surf from the window. At noon, we park near the harbor and make quick sprints through the rain. In the afternoon, the coastal drive offers spectacular views of the grey sea. By evening, we relax in the dry interior of the car on the way back."
+            "en": "A rainy day by car takes us safely to San Juan de Gaztelugatxe, where we admire the crashing surf from the window. At noon, we park near the harbor and make quick sprints through the rain. In the afternoon, the coastal drive offers spectacular views of the grey sea. By evening, we relax in the dry interior of the car on the way back.",
+            "es": "Un día lluvioso en coche nos lleva con seguridad a San Juan de Gaztelugatxe, donde admiramos el rompiente desde la ventanilla. Al mediodía aparcamos cerca del puerto y hacemos esprintes rápidos bajo la lluvia. Por la tarde, la carretera costera ofrece vistas espectaculares del mar gris. Al anochecer, nos relajamos en el interior seco del coche de regreso."
           },
           "stops": [
             {
@@ -1539,7 +1660,8 @@
                 "de": "Der Parkplatz ist bei Regen oft matschig, festes Schuhwerk.",
                 "hu": "A parkoló esőben gyakran sáros, viseljen túracipőt.",
                 "ro": "Parcarea este adesea noroioasă pe ploaie, purtați încălțăminte solidă.",
-                "en": "The parking lot is often muddy in the rain; wear sturdy shoes."
+                "en": "The parking lot is often muddy in the rain; wear sturdy shoes.",
+                "es": "El aparcamiento suele estar embarrado con lluvia; lleva calzado resistente."
               }
             },
             {
@@ -1548,7 +1670,8 @@
                 "de": "Gute Sicht auf die Fassade direkt vom Parkplatz aus.",
                 "hu": "Jó rálátás a homlokzatra közvetlenül a parkolóból.",
                 "ro": "Vedere bună asupra fațadei direct din parcare.",
-                "en": "Good view of the facade directly from the parking area."
+                "en": "Good view of the facade directly from the parking area.",
+                "es": "Buena vista de la fachada directamente desde la zona de aparcamiento."
               }
             },
             {
@@ -1557,7 +1680,8 @@
                 "de": "Parken Sie im oberen Bereich, um Wellengischt zu vermeiden.",
                 "hu": "Parkoljon a felső részen, hogy elkerülje a sós permetet.",
                 "ro": "Parcați în zona de sus pentru a evita stropii de mare.",
-                "en": "Park in the upper area to avoid salty sea spray."
+                "en": "Park in the upper area to avoid salty sea spray.",
+                "es": "Aparca en la zona alta para evitar la salpicadura del mar."
               }
             },
             {
@@ -1566,7 +1690,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz zur Kirche, Schirm mitnehmen.",
                 "hu": "Rövid séta a parkolótól a templomig, vigyen ernyőt.",
                 "ro": "Scurtă plimbare de la parcare la biserică, luați umbrela.",
-                "en": "Short walk from the parking lot to the church; take an umbrella."
+                "en": "Short walk from the parking lot to the church; take an umbrella.",
+                "es": "Corto paseo desde el aparcamiento hasta la iglesia; lleva paraguas."
               }
             },
             {
@@ -1575,7 +1700,8 @@
                 "de": "Bei Starkregen im Auto bleiben und Panorama genießen.",
                 "hu": "Heves esőben maradjon az autóban, és élvezze a panorámát.",
                 "ro": "Rămâneți în mașină în caz de ploaie torențială și admirați panorama.",
-                "en": "Stay in the car during heavy rain and enjoy the panorama."
+                "en": "Stay in the car during heavy rain and enjoy the panorama.",
+                "es": "Permanece en el coche durante lluvia intensa y disfruta del panorama."
               }
             }
           ],
@@ -1607,6 +1733,13 @@
               "Turn on your lights even during the day to be seen better.",
               "A microfiber cloth helps to quickly clear foggy windows.",
               "Do not park directly at cliff edges during strong winds."
+            ],
+            "es": [
+              "Revisa los escobillas del parabrisas antes de salir.",
+              "Evita charcos profundos en la calzada para prevenir el aquaplaning.",
+              "Enciende las luces incluso de día para ser más visible.",
+              "Un paño de microfibra ayuda a limpiar rápidamente ventanas empañadas.",
+              "No aparques justo en los bordes de los acantilados con viento fuerte."
             ]
           }
         },
@@ -1615,7 +1748,8 @@
             "de": "Ein klarer Wintertag im Auto führt uns frühmorgens nach San Juan de Gaztelugatxe, bevor der Nebel steigt. Mittags erkunden wir Mundaka und nutzen das Auto als warme Basis zwischen den Stopps. Am Nachmittag genießen wir die spektakuläre Küstenstraße im goldenen Winterlicht. Abends kehren wir rechtzeitig vor der Frostbildung auf den Straßen sicher zurück.",
             "hu": "A tiszta téli napon kora reggel autózunk San Juan de Gaztelugatxe-hoz, még a köd felszállta előtt. Délben Mundakát fedezzük fel, az autót meleg bázisként használva a megállók között. Délután a látványos parti utat élvezzük az aranyszínű téli fényekben. Estére, még az utak jegesedése előtt, biztonságban térünk vissza.",
             "ro": "O zi senină de iarnă cu mașina ne duce dimineața devreme la San Juan de Gaztelugatxe, înainte de apariția ceții. La prânz explorăm Mundaka, folosind mașina ca bază caldă între opriri. După-amiază savurăm drumul spectaculos de coastă în lumina aurie a iernii. Seara ne întoarcem în siguranță înainte de formarea înghețului pe drumuri.",
-            "en": "A clear winter day by car takes us early in the morning to San Juan de Gaztelugatxe before the mist rises. At noon, we explore Mundaka, using the car as a warm base between stops. In the afternoon, we enjoy the spectacular coastal road in the golden winter light. By evening, we return safely before frost forms on the roads."
+            "en": "A clear winter day by car takes us early in the morning to San Juan de Gaztelugatxe before the mist rises. At noon, we explore Mundaka, using the car as a warm base between stops. In the afternoon, we enjoy the spectacular coastal road in the golden winter light. By evening, we return safely before frost forms on the roads.",
+            "es": "Un claro día de invierno en coche nos lleva temprano a San Juan de Gaztelugatxe antes de que suba la niebla. Al mediodía exploramos Mundaka, usando el coche como base cálida entre paradas. Por la tarde disfrutamos de la espectacular carretera costera con la luz dorada invernal. Al anochecer regresamos con seguridad antes de que aparezca la escarcha en las carreteras."
           },
           "stops": [
             {
@@ -1624,7 +1758,8 @@
                 "de": "Im Winter sind oft weniger Touristen da, Parken ist einfacher.",
                 "hu": "Télen gyakran kevesebb a turista, könnyebb a parkolás.",
                 "ro": "Iarna sunt adesea mai puțini turiști, parcarea este mai ușoară.",
-                "en": "Fewer tourists in winter; parking is much easier."
+                "en": "Fewer tourists in winter; parking is much easier.",
+                "es": "Menos turistas en invierno; aparcar es mucho más fácil."
               }
             },
             {
@@ -1633,7 +1768,8 @@
                 "de": "Die tiefstehende Sonne beleuchtet die Details des Palastes perfekt.",
                 "hu": "Az alacsonyan járó nap tökéletesen megvilágítja a palota részleteit.",
                 "ro": "Soarele jos luminează perfect detaliile palatului.",
-                "en": "The low winter sun illuminates the palace details perfectly."
+                "en": "The low winter sun illuminates the palace details perfectly.",
+                "es": "El sol bajo de invierno ilumina perfectamente los detalles del palacio."
               }
             },
             {
@@ -1642,7 +1778,8 @@
                 "de": "Achtung vor Glätte auf den Rampen zum Wasser.",
                 "hu": "Vigyázat, a vízhez vezető rámpák jegesek lehetnek.",
                 "ro": "Atenție la polei pe rampele spre apă.",
-                "en": "Watch out for ice on the ramps leading down to the water."
+                "en": "Watch out for ice on the ramps leading down to the water.",
+                "es": "Cuidado con el hielo en las rampas que bajan al agua."
               }
             },
             {
@@ -1651,7 +1788,8 @@
                 "de": "Die umliegenden Gassen sind im Winter sehr ruhig und fotogen.",
                 "hu": "A környező utcák télen nagyon csendesek és fotogének.",
                 "ro": "Străzile din jur sunt foarte liniștite și fotogenice iarna.",
-                "en": "The surrounding alleys are very quiet and photogenic in winter."
+                "en": "The surrounding alleys are very quiet and photogenic in winter.",
+                "es": "Las callejuelas circundantes están muy tranquilas y son fotogénicas en invierno."
               }
             },
             {
@@ -1660,7 +1798,8 @@
                 "de": "Nutzen Sie das Auto für ein kurzes Aufwärmen nach dem Blick.",
                 "hu": "Használja az autót egy gyors melegedésre a nézelődés után.",
                 "ro": "Folosiți mașina pentru o scurtă încălzire după admirarea priveliștii.",
-                "en": "Use the car for a quick warm-up after enjoying the view."
+                "en": "Use the car for a quick warm-up after enjoying the view.",
+                "es": "Usa el coche para entrar en calor rápidamente tras disfrutar de las vistas."
               }
             }
           ],
@@ -1692,6 +1831,13 @@
               "Watch out for 'black ice' in shaded forest road sections.",
               "A blanket in the car makes breaks more comfortable.",
               "Plan your return journey before dark (around 6 PM)."
+            ],
+            "es": [
+              "Comprueba el anticongelante del líquido del limpiaparabrisas.",
+              "Revisa la batería antes de conducir; el frío la exige mucho.",
+              "Cuidado con el 'hielo negro' en tramos sombreados de caminos forestales.",
+              "Una manta en el coche hace las pausas más cómodas.",
+              "Planea el regreso antes de que oscurezca (alrededor de las 18:00)."
             ]
           }
         }
@@ -1720,7 +1866,8 @@
             "de": "Direkte Verbindung nach Bilbao.",
             "hu": "Közvetlen vonat Bilbao felé.",
             "ro": "Conexiune directă spre Bilbao.",
-            "en": "Direct train to Bilbao."
+            "en": "Direct train to Bilbao.",
+            "es": "Tren directo a Bilbao."
           }
         },
         {
@@ -1738,7 +1885,8 @@
             "de": "Prachtvolle Fassade.",
             "hu": "Pompás homlokzat.",
             "ro": "Fațadă somptuoasă.",
-            "en": "Grand facade."
+            "en": "Grand facade.",
+            "es": "Gran fachada."
           }
         },
         {
@@ -1756,7 +1904,8 @@
             "de": "Lebhaftes Treiben.",
             "hu": "Élénk kikötői élet.",
             "ro": "Forfotă plină de viață.",
-            "en": "Lively harbor activity."
+            "en": "Lively harbor activity.",
+            "es": "Actividad animada en el puerto."
           }
         },
         {
@@ -1774,7 +1923,8 @@
             "de": "Besichtigung möglich.",
             "hu": "Látogatható.",
             "ro": "Poate fi vizitată.",
-            "en": "Visits possible."
+            "en": "Visits possible.",
+            "es": "Visitas posibles."
           }
         },
         {
@@ -1792,7 +1942,8 @@
             "de": "Ideal für eine Pause.",
             "hu": "Ideális egy pihenőhöz.",
             "ro": "Ideal pentru o pauză.",
-            "en": "Ideal for a break."
+            "en": "Ideal for a break.",
+            "es": "Ideal para una pausa."
           }
         },
         {
@@ -1810,7 +1961,8 @@
             "de": "Lokale Events prüfen.",
             "hu": "Ellenőrizze a helyi eseményeket.",
             "ro": "Verificați evenimentele locale.",
-            "en": "Check local events."
+            "en": "Check local events.",
+            "es": "Consulta eventos locales."
           }
         }
       ],
@@ -1818,7 +1970,8 @@
         "de": "Mundaka ist perfekt mit dem Euskotren erschlossen. Wir nutzen die Bahn von Bilbao oder Bermeo, entdecken die Architektur und entspannen am Laidatxu-Strand, bevor wir die Kultur im Kurtzio-Zentrum erleben.",
         "hu": "Mundaka tökéletesen megközelíthető az Euskotrennel. Bilbaóból vagy Bermeóból vonatozunk, felfedezzük az építészetet és pihenünk a Laidatxu strandon, majd a Kurtzio központban zárjuk a napot.",
         "ro": "Mundaka este perfect deservit de Euskotren. Folosim trenul din Bilbao sau Bermeo, descoperim arhitectura și ne relaxăm pe plaja Laidatxu înainte de a experimenta cultura la centrul Kurtzio.",
-        "en": "Mundaka is perfectly accessible via Euskotren. We take the train from Bilbao or Bermeo, discover the architecture, and relax on Laidatxu beach before experiencing culture at the Kurtzio center."
+        "en": "Mundaka is perfectly accessible via Euskotren. We take the train from Bilbao or Bermeo, discover the architecture, and relax on Laidatxu beach before experiencing culture at the Kurtzio center.",
+        "es": "Mundaka es perfectamente accesible vía Euskotren. Tomamos el tren desde Bilbao o Bermeo, descubrimos la arquitectura y nos relajamos en la playa de Laidatxu antes de disfrutar de la cultura en el centro Kurtzio."
       },
       "gastro_picks": {
         "de": [
@@ -1918,6 +2071,10 @@
         "en": [
           "Euskotren offers great views.",
           "Buy tickets at the vending machine."
+        ],
+        "es": [
+          "Euskotren ofrece muy buenas vistas.",
+          "Compra los billetes en la máquina expendedora."
         ]
       },
       "variants": {
@@ -1926,7 +2083,8 @@
             "de": "Mundaka ist perfekt mit dem Euskotren erschlossen. Wir nutzen die Bahn von Bilbao oder Bermeo, entdecken die Architektur und entspannen am Laidatxu-Strand, bevor wir die Kultur im Kurtzio-Zentrum erleben.",
             "hu": "Mundaka tökéletesen megközelíthető az Euskotrennel. Bilbaóból vagy Bermeóból vonatozunk, felfedezzük az építészetet és pihenünk a Laidatxu strandon, majd a Kurtzio központban zárjuk a napot.",
             "ro": "Mundaka este perfect deservit de Euskotren. Folosim trenul din Bilbao sau Bermeo, descoperim arhitectura și ne relaxăm pe plaja Laidatxu înainte de a experimenta cultura la centrul Kurtzio.",
-            "en": "Mundaka is perfectly accessible via Euskotren. We take the train from Bilbao or Bermeo, discover the architecture, and relax on Laidatxu beach before experiencing culture at the Kurtzio center."
+            "en": "Mundaka is perfectly accessible via Euskotren. We take the train from Bilbao or Bermeo, discover the architecture, and relax on Laidatxu beach before experiencing culture at the Kurtzio center.",
+            "es": "Mundaka es perfectamente accesible vía Euskotren. Tomamos el tren desde Bilbao o Bermeo, descubrimos la arquitectura y nos relajamos en la playa de Laidatxu antes de disfrutar de la cultura en el centro Kurtzio."
           },
           "stops": [
             {
@@ -1935,7 +2093,8 @@
                 "de": "Direkte Verbindung nach Bilbao.",
                 "hu": "Közvetlen vonat Bilbao felé.",
                 "ro": "Conexiune directă spre Bilbao.",
-                "en": "Direct train to Bilbao."
+                "en": "Direct train to Bilbao.",
+                "es": "Tren directo a Bilbao."
               }
             },
             {
@@ -1944,7 +2103,8 @@
                 "de": "Prachtvolle Fassade.",
                 "hu": "Pompás homlokzat.",
                 "ro": "Fațadă somptuoasă.",
-                "en": "Grand facade."
+                "en": "Grand facade.",
+                "es": "Gran fachada."
               }
             },
             {
@@ -1953,7 +2113,8 @@
                 "de": "Lebhaftes Treiben.",
                 "hu": "Élénk kikötői élet.",
                 "ro": "Forfotă plină de viață.",
-                "en": "Lively harbor activity."
+                "en": "Lively harbor activity.",
+                "es": "Actividad animada en el puerto."
               }
             },
             {
@@ -1962,7 +2123,8 @@
                 "de": "Besichtigung möglich.",
                 "hu": "Látogatható.",
                 "ro": "Poate fi vizitată.",
-                "en": "Visits possible."
+                "en": "Visits possible.",
+                "es": "Visitas posibles."
               }
             },
             {
@@ -1971,7 +2133,8 @@
                 "de": "Ideal für eine Pause.",
                 "hu": "Ideális egy pihenőhöz.",
                 "ro": "Ideal pentru o pauză.",
-                "en": "Ideal for a break."
+                "en": "Ideal for a break.",
+                "es": "Ideal para una pausa."
               }
             },
             {
@@ -1980,7 +2143,8 @@
                 "de": "Lokale Events prüfen.",
                 "hu": "Ellenőrizze a helyi eseményeket.",
                 "ro": "Verificați evenimentele locale.",
-                "en": "Check local events."
+                "en": "Check local events.",
+                "es": "Consulta eventos locales."
               }
             }
           ],
@@ -2082,6 +2246,10 @@
             "en": [
               "Euskotren offers great views.",
               "Buy tickets at the vending machine."
+            ],
+            "es": [
+              "Euskotren ofrece muy buenas vistas.",
+              "Compra los billetes en la máquina expendedora."
             ]
           }
         },
@@ -2090,7 +2258,8 @@
             "de": "Ein regnerischer Tag mit der Bahn beginnt trocken an der Haltestelle Mundaka. Mittags erkunden wir den Palast von Larrinaga und nutzen die kurzen Wege zwischen den Gebäuden. Am Nachmittag besuchen wir das Kulturzentrum Kurtzio, das perfekt angebunden ist. Den Abend lassen wir entspannt ausklingen, während wir vom Zugfenster aus den Regen an der Küste beobachten.",
             "hu": "Az esős nap a vasúttal szárazon indul a mundakai megállóban. Délben a Larrinaga palotát fedezzük fel, kihasználva az épületek közötti rövid távolságokat. Délután a Kurtzio kulturális központot látogatjuk meg, amely kiválóan megközelíthető. Az estét nyugodtan zárjuk, a vonatablakból figyelve a parti esőt.",
             "ro": "O zi ploioasă cu trenul începe uscat la stația Mundaka. La prânz explorăm palatul Larrinaga, profitând de distanțele scurte între clădiri. După-amiază vizităm centrul cultural Kurtzio, care este perfect conectat. Încheiem seara relaxați, privind ploaia de pe coastă de la fereastra trenului.",
-            "en": "A rainy day by train starts dry at the Mundaka stop. At noon, we explore Larrinaga Palace, taking advantage of short distances between buildings. In the afternoon, we visit the Kurtzio Cultural Center, which is perfectly connected. We end the evening relaxed, watching the coastal rain from the train window."
+            "en": "A rainy day by train starts dry at the Mundaka stop. At noon, we explore Larrinaga Palace, taking advantage of short distances between buildings. In the afternoon, we visit the Kurtzio Cultural Center, which is perfectly connected. We end the evening relaxed, watching the coastal rain from the train window.",
+            "es": "Un día lluvioso en tren comienza seco en la parada de Mundaka. Al mediodía exploramos el Palacio Larrinaga, aprovechando las cortas distancias entre edificios. Por la tarde visitamos el Centro Cultural Kurtzio, perfectamente comunicado. Terminamos la tarde relajados, contemplando la lluvia costera desde la ventanilla del tren."
           },
           "stops": [
             {
@@ -2099,7 +2268,8 @@
                 "de": "Der überdachte Bahnsteig ist ein guter Startpunkt.",
                 "hu": "A fedett peron jó kiindulópont az esős napon.",
                 "ro": "Peronul acoperit este un punct de plecare bun.",
-                "en": "The covered platform is a good starting point."
+                "en": "The covered platform is a good starting point.",
+                "es": "El andén cubierto es un buen punto de partida."
               }
             },
             {
@@ -2108,7 +2278,8 @@
                 "de": "Vom Bahnhof aus in 5 Minuten zu Fuß erreichbar.",
                 "hu": "Az állomástól 5 perc sétával elérhető.",
                 "ro": "Accesibil în 5 minute pe jos de la gară.",
-                "en": "Accessible within a 5-minute walk from the station."
+                "en": "Accessible within a 5-minute walk from the station.",
+                "es": "Accesible a 5 minutos a pie desde la estación."
               }
             },
             {
@@ -2117,7 +2288,8 @@
                 "de": "Nahegelegene Arkaden bieten Schutz beim Warten auf den Bus.",
                 "hu": "A közeli árkádok védelmet nyújtanak a buszra várva.",
                 "ro": "Arcadele din apropiere oferă adăpost în timp ce așteptați autobuzul.",
-                "en": "Nearby arcades offer shelter while waiting for the bus."
+                "en": "Nearby arcades offer shelter while waiting for the bus.",
+                "es": "Los soportales cercanos ofrecen refugio mientras esperas el autobús."
               }
             },
             {
@@ -2126,7 +2298,8 @@
                 "de": "Nutzen Sie die Regenpausen für den Weg von der Haltestelle.",
                 "hu": "Használja ki az esőszüneteket a megállótól való sétához.",
                 "ro": "Folosiți pauzele de ploaie pentru drumul de la stație.",
-                "en": "Use rain breaks for the walk from the stop."
+                "en": "Use rain breaks for the walk from the stop.",
+                "es": "Aprovecha los parones de lluvia para caminar desde la parada."
               }
             },
             {
@@ -2135,7 +2308,8 @@
                 "de": "Direkt neben der Euskotren-Station gelegen.",
                 "hu": "Közvetlenül az Euskotren állomás mellett található.",
                 "ro": "Situată chiar lângă stația Euskotren.",
-                "en": "Located directly next to the Euskotren station."
+                "en": "Located directly next to the Euskotren station.",
+                "es": "Situado justo al lado de la estación de Euskotren."
               }
             },
             {
@@ -2144,7 +2318,8 @@
                 "de": "Nur ein kurzer Sprint durch den Regen von der Haltestelle.",
                 "hu": "Csak egy rövid sprint az esőben a megállótól.",
                 "ro": "Doar un sprint scurt prin ploaie de la stație.",
-                "en": "Just a short sprint through the rain from the stop."
+                "en": "Just a short sprint through the rain from the stop.",
+                "es": "Solo un breve sprint bajo la lluvia desde la parada."
               }
             }
           ],
@@ -2176,6 +2351,13 @@
               "Wear rubber-soled shoes for the station stairs.",
               "Trains are well-heated and offer panoramic windows.",
               "Combine bus and train for minimal walking outdoors."
+            ],
+            "es": [
+              "Consulta la app 'Euskotren' para información en tiempo real durante retrasos meteorológicos.",
+              "Ten el billete a mano para no tener que buscarlo bajo la lluvia.",
+              "Lleva zapatos con suela de goma para las escaleras de la estación.",
+              "Los trenes están bien calefactados y tienen ventanillas panorámicas.",
+              "Combina autobús y tren para minimizar caminatas al aire libre."
             ]
           }
         },
@@ -2184,7 +2366,8 @@
             "de": "Ein frischer Wintertag mit den Öffentlichen beginnt gemütlich im beheizten Zug nach Mundaka. Mittags nutzen wir die kurzen Wege im Dorfzentrum, um zwischen den Sehenswürdigkeiten warm zu bleiben. Am Nachmittag bietet die Zugfahrt entlang des Biosphärenreservats Urdaibai eine herrliche Sicht auf die Winterlandschaft. Abends kehren wir entspannt zurück, während draußen die Nacht hereinbricht.",
             "hu": "A friss téli nap a tömegközlekedéssel kényelmesen indul a fűtött vonaton Mundaka felé. Délben a faluközpont rövid útjait használjuk, hogy melegen maradjunk a látnivalók között. Délután a vonatút az Urdaibai bioszféra-rezervátum mentén csodás kilátást nyújt a téli tájra. Estére nyugodtan térünk vissza, miközben kint leszáll az éj.",
             "ro": "O zi răcoroasă de iarnă cu transportul public începe confortabil în trenul încălzit spre Mundaka. La prânz folosim distanțele scurte din centrul satului pentru a rămâne la căldură între atracții. După-amiază, călătoria cu trenul de-a lungul rezervației Urdaibai oferă o vedere superbă. Seara ne întoarcem relaxați în timp ce afară se înserează.",
-            "en": "A crisp winter day by public transit starts comfortably in the heated train to Mundaka. At noon, we use the short routes in the village center to stay warm between sights. In the afternoon, the train ride along the Urdaibai Biosphere Reserve offers a wonderful view of the winter landscape. By evening, we return relaxed as night falls outside."
+            "en": "A crisp winter day by public transit starts comfortably in the heated train to Mundaka. At noon, we use the short routes in the village center to stay warm between sights. In the afternoon, the train ride along the Urdaibai Biosphere Reserve offers a wonderful view of the winter landscape. By evening, we return relaxed as night falls outside.",
+            "es": "Un fresco día de invierno en transporte público comienza cómodamente en el tren calefactado a Mundaka. Al mediodía usamos las cortas rutas del centro del pueblo para mantenernos calientes entre visitas. Por la tarde, el trayecto en tren por la Reserva de la Biosfera de Urdaibai ofrece una vista maravillosa del paisaje invernal. Al anochecer regresamos relajados mientras la noche cae afuera."
           },
           "stops": [
             {
@@ -2193,7 +2376,8 @@
                 "de": "Der Warteraum bietet Schutz vor der kalten Brise.",
                 "hu": "A váróterem védelmet nyújt a hideg szél ellen.",
                 "ro": "Sala de așteptare oferă protecție împotriva brizei reci.",
-                "en": "The waiting room provides shelter from the cold breeze."
+                "en": "The waiting room provides shelter from the cold breeze.",
+                "es": "La sala de espera ofrece abrigo del viento frío."
               }
             },
             {
@@ -2202,7 +2386,8 @@
                 "de": "Kurze Wege sind im Winter ein großer Vorteil.",
                 "hu": "A rövid távolságok télen nagy előnyt jelentenek.",
                 "ro": "Distanțele scurte sunt un mare avantaj iarna.",
-                "en": "Short distances are a big advantage in winter."
+                "en": "Short distances are a big advantage in winter.",
+                "es": "Las distancias cortas son una gran ventaja en invierno."
               }
             },
             {
@@ -2211,7 +2396,8 @@
                 "de": "Warme Kleidung ist nötig, wenn man auf den Bus wartet.",
                 "hu": "Meleg ruházat szükséges, ha a buszra vár.",
                 "ro": "Îmbrăcămintea groasă e necesară dacă așteptați autobuzul.",
-                "en": "Warm clothing is necessary while waiting for the bus."
+                "en": "Warm clothing is necessary while waiting for the bus.",
+                "es": "Ropa abrigada es necesaria mientras esperas el autobús."
               }
             },
             {
@@ -2220,7 +2406,8 @@
                 "de": "Zentrale Lage, gut erreichbar von allen Haltestellen.",
                 "hu": "Központi elhelyezkedés, minden megállóból jól elérhető.",
                 "ro": "Locație centrală, ușor accesibilă din toate stațiile.",
-                "en": "Central location, easily reachable from all stops."
+                "en": "Central location, easily reachable from all stops.",
+                "es": "Ubicación céntrica, fácilmente accesible desde todas las paradas."
               }
             },
             {
@@ -2229,7 +2416,8 @@
                 "de": "Perfekt für einen kurzen Stopp vor der Abfahrt des Zuges.",
                 "hu": "Tökéletes egy rövid megállóra a vonat indulása előtt.",
                 "ro": "Perfect pentru o scurtă oprire înainte de plecarea trenului.",
-                "en": "Perfect for a short stop before the train departs."
+                "en": "Perfect for a short stop before the train departs.",
+                "es": "Perfecto para una parada corta antes de que salga el tren."
               }
             },
             {
@@ -2238,7 +2426,8 @@
                 "de": "Ein warmes Highlight am Ende des Tages.",
                 "hu": "Egy meleg csúcspont a nap végén.",
                 "ro": "Un punct culminant cald la sfârșitul zilei.",
-                "en": "A warm highlight at the end of the day."
+                "en": "A warm highlight at the end of the day.",
+                "es": "Un cálido colofón al final del día."
               }
             }
           ],
@@ -2270,6 +2459,13 @@
               "Use waiting times for a quick hot coffee.",
               "Window seats offer great views of winter Urdaibai.",
               "Keep the earlier sunset in mind when planning your return."
+            ],
+            "es": [
+              "Los horarios de invierno pueden variar ligeramente; consulta las horas.",
+              "Las paradas están menos concurridas en invierno, ofreciendo más tranquilidad.",
+              "Aprovecha los tiempos de espera para un café caliente rápido.",
+              "Los asientos junto a la ventana ofrecen excelentes vistas de la Urdaibai invernal.",
+              "Ten en cuenta la puesta de sol más temprana al planear tu regreso."
             ]
           }
         }
@@ -2282,19 +2478,22 @@
       "de": "Sehr baskisch, im Dorf hörst du fast nur Euskara. Surf-Community international, daher gutes Englisch am Strand und in Surfshops. In den Sidrerías und Pintxo-Bars 'Kaixo' und 'Eskerrik asko' bringen sofort Sympathie.",
       "hu": "Erősen baszk, a faluban szinte csak euskarát hallasz. A szörfösközösség nemzetközi, a parton és a szörfboltokban jó angol. A sidrería-kban és pintxo-bárokban a 'Kaixo' és 'Eskerrik asko' azonnal szimpátiát hoz.",
       "ro": "Foarte basc, în sat auzi aproape exclusiv euskara. Comunitatea de surf e internațională, deci pe plajă și în magazinele de surf engleza e bună. La sidrerías și baruri de pintxos, 'Kaixo' și 'Eskerrik asko' aduc imediat simpatie.",
-      "en": "Deeply Basque - in the village you hear almost only Euskara. The surf crowd is international, so English is good on the beach and in surf shops. In sidrerías and pintxo bars, 'Kaixo' and 'Eskerrik asko' instantly earn you smiles."
+      "en": "Deeply Basque - in the village you hear almost only Euskara. The surf crowd is international, so English is good on the beach and in surf shops. In sidrerías and pintxo bars, 'Kaixo' and 'Eskerrik asko' instantly earn you smiles.",
+      "es": "Profundamente vasco: en el pueblo casi solo se oye euskera. La comunidad surfista es internacional, así que el inglés sirve en la playa y en las tiendas de surf. En sidrerías y bares de pintxos, 'Kaixo' y 'Eskerrik asko' te ganan sonrisas al instante."
     },
     "best_time_to_visit": {
       "de": "Surfen: Oktober bis März, die berühmte linke Welle der Welt. Strand und Dorfleben: Juni bis September. Im November Mundaka Pro Surfwettkampf (wenn die Welle mitspielt) - Pflichttermin für Surf-Fans.",
       "hu": "Szörfösöknek október-március, a világ egyik leghíresebb bal-hulláma. Strandhoz és nyugodt falusi élethez június-szeptember. Novemberben a Mundaka Pro szörfverseny (ha jön a hullám), szörfös zarándokhely.",
       "ro": "Pentru surferi: octombrie-martie, vestita stânga, una dintre cele mai bune din lume. Pentru plajă și viață de sat: iunie-septembrie. În noiembrie Mundaka Pro (dacă valul cooperează), pelerinaj pentru pasionați.",
-      "en": "Surfers come October to March for the world-famous left wave. Beach and village life: June to September. November can bring Mundaka Pro (if the wave shows up) - a pilgrimage for surf fans."
+      "en": "Surfers come October to March for the world-famous left wave. Beach and village life: June to September. November can bring Mundaka Pro (if the wave shows up) - a pilgrimage for surf fans.",
+      "es": "Los surfistas vienen de octubre a marzo por la mundialmente famosa izquierda. Vida de playa y pueblo: junio a septiembre. Noviembre puede traer el Mundaka Pro (si la ola aparece): una peregrinación para los fans del surf."
     },
     "neighborhood_warnings": {
       "de": "Sicher und entspannt. Im Hafen Vorsicht beim Anlanden - schmale Mole, rutschig. Surf-Spot ist nur für Erfahrene, die linke Welle bricht über Sand und ist gefährlich bei Wettkampfgrößen. Niemals ohne lokalen Rat reinpaddeln.",
       "hu": "Biztonságos és nyugodt. A kikötőben kikötéskor figyelj, szűk és csúszós a móló. A szörf-spot csak gyakorlottnak való, a bal-hullám versenyméretben veszélyes. Helyi tanács nélkül soha ne paddleozz be.",
       "ro": "Sigur și relaxat. În port atenție la acostare, dig îngust și alunecos. Spotul de surf e doar pentru avansați, valul stânga la mărime de competiție e periculos. Nu intra niciodată în apă fără sfat local.",
-      "en": "Safe and laid-back. At the harbour mind the narrow slippery jetty. The surf spot is for experts only - the famous left breaks over sand and gets dangerous at contest size. Never paddle out without local advice."
+      "en": "Safe and laid-back. At the harbour mind the narrow slippery jetty. The surf spot is for experts only - the famous left breaks over sand and gets dangerous at contest size. Never paddle out without local advice.",
+      "es": "Seguro y tranquilo. En el puerto, cuidado con el estrecho y resbaladizo espigón. El spot de surf es solo para expertos: la izquierda famosa rompe sobre arena y se vuelve peligrosa en tamaño de competición. Nunca remes sin consejo local."
     }
   }
 }

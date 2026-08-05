@@ -21,7 +21,8 @@
             "de": "Plaza de España",
             "hu": "Plaza de España",
             "ro": "Plaza de España",
-            "en": "Plaza de España"
+            "en": "Plaza de España",
+            "es": "Plaza de España"
           },
           "coords": [
             -1.639,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
             "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában!",
             "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
-            "en": "Start your day with a coffee at one of the square's cafés."
+            "en": "Start your day with a coffee at one of the square's cafés.",
+            "es": "Comienza el día con un café en una de las terrazas de la plaza."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Stiftskirche Santa María",
             "hu": "Santa María társkáptalani templom",
             "ro": "Colegiata Santa María",
-            "en": "Collegiate Church of Santa María"
+            "en": "Collegiate Church of Santa María",
+            "es": "Colegiata de Santa María"
           },
           "coords": [
             -1.642,
@@ -61,7 +64,8 @@
             "de": "Bewundern Sie den achteckigen Turm, ein Meisterwerk der Mudéjar-Architektur.",
             "hu": "Csodálja meg a nyolcszögletű tornyot, a mudéjar építészet remekművét.",
             "ro": "Admirați turnul octogonal, o capodoperă a arhitecturii mudejar.",
-            "en": "Admire the octagonal tower, a masterpiece of Mudéjar architecture."
+            "en": "Admire the octagonal tower, a masterpiece of Mudéjar architecture.",
+            "es": "Admira la torre octogonal, una obra maestra de la arquitectura mudéjar."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Stiftskirche des Heiligen Grabes",
             "hu": "Szent Sír társkáptalani templom",
             "ro": "Colegiata Sfântul Mormânt",
-            "en": "Collegiate Church of the Holy Sepulchre"
+            "en": "Collegiate Church of the Holy Sepulchre",
+            "es": "Colegiata del Santo Sepulcro"
           },
           "coords": [
             -1.64,
@@ -85,7 +90,8 @@
             "de": "Eine seltene Kopie der Grabeskirche in Jerusalem.",
             "hu": "A jeruzsálemi Szent Sír-templom ritka másolata.",
             "ro": "O copie rară a Bisericii Sfântului Mormânt din Ierusalim.",
-            "en": "A rare copy of the Church of the Holy Sepulchre in Jerusalem."
+            "en": "A rare copy of the Church of the Holy Sepulchre in Jerusalem.",
+            "es": "Una rara réplica de la Iglesia del Santo Sepulcro de Jerusalén."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Kirche San Pedro de los Francos",
             "hu": "San Pedro de los Francos templom",
             "ro": "Biserica San Pedro de los Francos",
-            "en": "Church of San Pedro de los Francos"
+            "en": "Church of San Pedro de los Francos",
+            "es": "Iglesia de San Pedro de los Francos"
           },
           "coords": [
             -1.641,
@@ -109,7 +116,8 @@
             "de": "Beachten Sie den geneigten Turm, den 'Schiefen Turm' von Calatayud.",
             "hu": "Figyelje meg a dőlt tornyot, Calatayud 'ferde tornyát'.",
             "ro": "Observați turnul înclinat, 'Turnul aplecat' din Calatayud.",
-            "en": "Notice the inclined tower, Calatayud's 'leaning tower'."
+            "en": "Notice the inclined tower, Calatayud's 'leaning tower'.",
+            "es": "Fíjate en la torre inclinada, la 'torre inclinada' de Calatayud."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Puerta de Terrer",
             "hu": "Puerta de Terrer",
             "ro": "Puerta de Terrer",
-            "en": "Puerta de Terrer"
+            "en": "Puerta de Terrer",
+            "es": "Puerta de Terrer"
           },
           "coords": [
             -1.636,
@@ -133,7 +142,8 @@
             "de": "Das Tor ist ein schönes Beispiel für aragonesische Renaissance-Militärarchitektur.",
             "hu": "A kapu az aragóniai reneszánsz katonai építészet szép példája.",
             "ro": "Poarta este un exemplu frumos de arhitectură militară renascentistă aragoneză.",
-            "en": "The gate is a fine example of Aragonese Renaissance military architecture."
+            "en": "The gate is a fine example of Aragonese Renaissance military architecture.",
+            "es": "La puerta es un excelente ejemplo de arquitectura militar renacentista aragonesa."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Burg von Ayub",
             "hu": "Ayub vára",
             "ro": "Castelul Ayub",
-            "en": "Castle of Ayub"
+            "en": "Castle of Ayub",
+            "es": "Castillo de Ayub"
           },
           "coords": [
             -1.645,
@@ -157,7 +168,8 @@
             "de": "Der Aufstieg ist steil, aber die Aussicht auf die Stadt ist es wert.",
             "hu": "Meredek a kaptató, de a városra nyíló kilátás megéri.",
             "ro": "Urcușul este abrupt, dar priveliștea asupra orașului merită.",
-            "en": "The climb is steep, but the views over the city are worth it."
+            "en": "The climb is steep, but the views over the city are worth it.",
+            "es": "La subida es empinada, pero las vistas sobre la ciudad merecen la pena."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Ruinen von Bilbilis",
             "hu": "Bílbilis romjai",
             "ro": "Ruinele din Bilbilis",
-            "en": "Ruins of Bilbilis"
+            "en": "Ruins of Bilbilis",
+            "es": "Ruinas de Bilbilis"
           },
           "coords": [
             -1.68,
@@ -181,7 +194,8 @@
             "de": "Tragen Sie bequeme Schuhe; das Gelände der römischen Ruinen ist uneben.",
             "hu": "Viseljen kényelmes cipőt; a római romok területe egyenetlen.",
             "ro": "Purtați încălțăminte confortabilă; terenul ruinelor romane este accidentat.",
-            "en": "Wear comfortable shoes; the terrain of the Roman ruins is uneven."
+            "en": "Wear comfortable shoes; the terrain of the Roman ruins is uneven.",
+            "es": "Lleva calzado cómodo; el terreno de las ruinas romanas es irregular."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Ihr Tag beginnt auf der belebten Plaza de España, dem Herzen von Calatayud. Der Vormittag ist der Erkundung des reichen Mudéjar-Erbes der Stadt gewidmet, mit Besuchen der prächtigen Stiftskirchen. Am Mittag steigen Sie zur Puerta de Terrer auf, bevor Sie die mächtige Burg von Ayub erklimmen, um einen Panoramablick zu genießen. Der Nachmittag ist eine Reise in die Vergangenheit zu den römischen Ruinen von Bilbilis und endet mit einem ruhigen Spaziergang durch die antike Geschichte.",
         "hu": "A nap a nyüzsgő Plaza de Españán, Calatayud szívében kezdődik. A délelőttöt a város gazdag mudéjar örökségének felfedezésével tölti, meglátogatva a csodálatos társkáptalani templomokat. Délben felsétál a Puerta de Terrerhez, majd megmássza a hatalmas Ayub várat a panorámás kilátásért. A délután egy utazás a múltba Bílbilis római kori romjaihoz, melyet az ókori történelemben tett csendes séta zár.",
         "ro": "Ziua dvs. începe în animata Plaza de España, inima orașului Calatayud. Dimineața este dedicată explorării bogatei moșteniri mudejar a orașului, vizitând magnificele colegiate. La prânz, urcați la Puerta de Terrer înainte de a cuceri impunătorul Castel Ayub pentru vederi panoramice. După-amiaza este o călătorie înapoi în timp la ruinele romane din Bilbilis, încheindu-se cu o plimbare liniștită prin istoria antică.",
-        "en": "Your day begins in the bustling Plaza de España, the heart of Calatayud. The morning is dedicated to exploring the city's rich Mudéjar heritage, visiting the magnificent collegiate churches. At noon, you'll ascend to the Puerta de Terrer before tackling the formidable Castle of Ayub for panoramic views. The afternoon is a journey back in time to the Roman ruins of Bilbilis, ending with a quiet stroll through ancient history."
+        "en": "Your day begins in the bustling Plaza de España, the heart of Calatayud. The morning is dedicated to exploring the city's rich Mudéjar heritage, visiting the magnificent collegiate churches. At noon, you'll ascend to the Puerta de Terrer before tackling the formidable Castle of Ayub for panoramic views. The afternoon is a journey back in time to the Roman ruins of Bilbilis, ending with a quiet stroll through ancient history.",
+        "es": "Tu día comienza en la bulliciosa Plaza de España, el corazón de Calatayud. La mañana se dedica a explorar la rica herencia mudéjar de la ciudad, visitando las magníficas colegiatas. Al mediodía subirás a la Puerta de Terrer antes de afrontar el imponente Castillo de Ayub para disfrutar de vistas panorámicas. La tarde es un viaje al pasado en las ruinas romanas de Bilbilis, que termina con un tranquilo paseo por la historia antigua."
       },
       "gastro_picks": {
         "de": [
@@ -401,6 +416,12 @@
           "Bring water, especially for the climb to the castle and the walk to Bilbilis.",
           "Plan for a late lunch after visiting the castle.",
           "Most churches close in the early afternoon, so schedule your visits for the morning."
+        ],
+        "es": [
+          "Lleva calzado muy cómodo, ya que habrá mucho caminar y subidas.",
+          "Lleva agua, especialmente para la subida al castillo y la caminata a Bilbilis.",
+          "Planifica una comida tardía después de visitar el castillo.",
+          "La mayoría de las iglesias cierran a primera hora de la tarde, así que programa las visitas por la mañana."
         ]
       },
       "variants": {
@@ -409,7 +430,8 @@
             "de": "Beginnen Sie den Tag unter den Arkaden der Plaza de España, die guten Schutz vor dem Regen bieten. Vormittags erkunden Sie die prächtigen Innenräume der Kirchen Santa María und Santo Sepulcro, wo das Mudéjar-Erbe im gedämpften Licht glänzt.\n\nMittags finden Sie in den engen Gassen des jüdischen Viertels Schutz, während Sie zur Kirche San Pedro schlendern. Der Regen verstärkt die Farben der Ziegelbauten und verleiht der Altstadt eine melancholische Atmosphäre.\n\nAm Nachmittag führt der Weg hinauf zur Burg von Ayub. Die befestigten Mauern bieten zwar wenig Schutz, aber der Blick auf das regenverhangene Jalón-Tal ist einzigartig. Festes Schuhwerk ist für den Aufstieg auf dem feuchten Untergrund unerlässlich.\n\nDer Tag endet bei den Ruinen von Bilbilis. Da das Gelände offen ist, empfiehlt sich ein kurzer Besuch mit festem Schirm, bevor die Dämmerung und die Nässe den Aufenthalt ungemütlich machen.",
             "hu": "A napot a Plaza de España árkádjai alatt kezdjük, amelyek kiváló menedéket nyújtanak az eső elől. Délelőtt a Santa María és a Szent Sír templomok belső tereit fedezzük fel, ahol a mudéjar örökség részletei a szűrt fényben is lenyűgözőek.\n\nDélben a zsidó negyed szűk utcáin haladunk tovább a San Pedro templom felé, ahol az eső kiemeli a téglaépületek mélyvörös színeit. A város ilyenkor csendesebb, az óváros hangulata pedig különösen bensőséges.\n\nDélután az Ayub vára felé vesszük az irányt. Bár a falak között kevés a fedett rész, a borús Jalón-völgy látványa megéri a fáradságot. A csúszós ösvényeken a túracipő és a jó esernyő elengedhetetlen.\n\nA napot Bilbilis romjainál zárjuk. A nyitott régészeti területen az eső megnehezíti a közlekedést, ezért csak a legfontosabb részeket érintjük, mielőtt a sár és a szürkület miatt visszatérnénk a városba.",
             "ro": "Începeți ziua sub arcadele din Plaza de España, care oferă un adăpost excelent împotriva ploii. Dimineața este dedicată interiorului bisericilor Santa María și Santo Sepulcro, unde detaliile stilului mudéjar strălucesc chiar și în lumină slabă.\n\nLa prânz, străzile înguste ale cartierului evreiesc oferă o oarecare protecție în drum spre biserica San Pedro. Ploaia accentuează culorile cărămizii ale clădirilor vechi, oferind orașului o atmosferă melancolică și autentică.\n\nDupă-amiaza, urcați spre Castelul Ayub. Deși zidurile oferă puțin adăpost, vederea asupra văii Jalón sub ploaie este spectaculoasă. Încălțămintea aderentă este obligatorie pentru potecile umede de pe deal.\n\nZiua se încheie la ruinele Bilbilis. Fiind un sit deschis, vizita va fi scurtă și concentrată pe punctele principale, protejați de umbrele rezistente la vântul care însoțește adesea ploaia aici.",
-            "en": "Start the day under the arches of Plaza de España, which provide excellent shelter from the rain. Spend the morning exploring the interiors of Santa María and the Holy Sepulchre, where the Mudéjar brickwork glows in the soft light.\n\nAt midday, navigate the narrow streets of the old Jewish quarter towards San Pedro Church. The rain deepens the red hues of the historic buildings, creating a quiet and reflective atmosphere in the city center.\n\nIn the afternoon, head up to the Castle of Ayub. While the fortifications offer little cover, the view of the misty Jalón Valley is unique. Sturdy boots are essential for the damp and potentially slippery paths.\n\nEnd the day at the ruins of Bilbilis. As the site is completely exposed, keep the visit brief and focus on the Roman forum area before the mud and fading light make walking difficult."
+            "en": "Start the day under the arches of Plaza de España, which provide excellent shelter from the rain. Spend the morning exploring the interiors of Santa María and the Holy Sepulchre, where the Mudéjar brickwork glows in the soft light.\n\nAt midday, navigate the narrow streets of the old Jewish quarter towards San Pedro Church. The rain deepens the red hues of the historic buildings, creating a quiet and reflective atmosphere in the city center.\n\nIn the afternoon, head up to the Castle of Ayub. While the fortifications offer little cover, the view of the misty Jalón Valley is unique. Sturdy boots are essential for the damp and potentially slippery paths.\n\nEnd the day at the ruins of Bilbilis. As the site is completely exposed, keep the visit brief and focus on the Roman forum area before the mud and fading light make walking difficult.",
+            "es": "Comienza el día bajo los arcos de la Plaza de España, que ofrecen excelente refugio de la lluvia. Pasa la mañana explorando los interiores de Santa María y del Santo Sepulcro, donde el ladrillo mudéjar brilla con la luz suave.\n\nAl mediodía, navega por las estrechas calles del antiguo barrio judío hacia la iglesia de San Pedro. La lluvia intensifica los tonos rojizos de los edificios históricos, creando una atmósfera tranquila y reflexiva en el centro.\n\nPor la tarde, sube al Castillo de Ayub. Aunque las fortificaciones ofrecen poca protección, la vista del brumoso valle del Jalón es única. Botas resistentes son esenciales por los caminos húmedos y resbaladizos.\n\nTermina el día en las ruinas de Bilbilis. Como el yacimiento está completamente expuesto, mantén la visita breve y céntrate en el área del foro romano antes de que el barro y la luz menguante dificulten caminar."
           },
           "stops": [
             {
@@ -418,7 +440,8 @@
                 "de": "Nutzen Sie die Arkaden der umliegenden Gebäude als trockenen Treffpunkt.",
                 "hu": "Használja az épületek alatti árkádokat, hogy szárazon maradjon a séta elején.",
                 "ro": "Folosiți arcadele clădirilor din jur pentru a rămâne uscați la începutul plimbării.",
-                "en": "Use the building arcades around the square to stay dry while starting your tour."
+                "en": "Use the building arcades around the square to stay dry while starting your tour.",
+                "es": "Usa las arcadas de los edificios alrededor de la plaza para mantenerte seco al comenzar tu recorrido."
               }
             },
             {
@@ -427,7 +450,8 @@
                 "de": "Die UNESCO-gelistete Mudéjar-Decke ist ein perfekter Zufluchtsort bei Regen.",
                 "hu": "Az UNESCO világörökség részét képező mudéjar belső kiváló menedék az eső elől.",
                 "ro": "Interiorul mudéjar inclus în UNESCO este un refugiu perfect împotriva ploii.",
-                "en": "The UNESCO-listed Mudéjar interior is a perfect sanctuary from the downpour."
+                "en": "The UNESCO-listed Mudéjar interior is a perfect sanctuary from the downpour.",
+                "es": "El interior mudéjar, declarado por la UNESCO, es un santuario perfecto contra el aguacero."
               }
             },
             {
@@ -436,7 +460,8 @@
                 "de": "Bewundern Sie die Barockaltäre im Trockenen während eines heftigen Schauers.",
                 "hu": "Csodálja meg a barokk oltárokat a száraz belső térben egy heves zápor alatt.",
                 "ro": "Admirați altarele baroce la adăpost în timpul unei averse puternice.",
-                "en": "Admire the Baroque altars in the dry interior during a heavy downpour."
+                "en": "Admire the Baroque altars in the dry interior during a heavy downpour.",
+                "es": "Admira los altares barrocos en el interior seco durante un fuerte chaparrón."
               }
             },
             {
@@ -445,7 +470,8 @@
                 "de": "Achten Sie auf den leicht geneigten Turm, der bei Regen markant wirkt.",
                 "hu": "Figyelje meg az enyhén dőlt tornyot, amely az esőben még különösebb látvány.",
                 "ro": "Observați turnul ușor înclinat, care arată spectaculos în lumina difuză a ploii.",
-                "en": "Observe the slightly leaning tower, which looks striking in the misty rain."
+                "en": "Observe the slightly leaning tower, which looks striking in the misty rain.",
+                "es": "Observa la torre ligeramente inclinada, que resulta llamativa con la niebla y la lluvia."
               }
             },
             {
@@ -454,7 +480,8 @@
                 "de": "Kurzer Fotostopp unter dem Torbogen, um trocken zu bleiben.",
                 "hu": "Rövid fotómegálló a kapuboltív alatt, hogy ne ázzon meg a felszerelés.",
                 "ro": "Scurt popas foto sub arcada porții pentru a proteja echipamentul de ploaie.",
-                "en": "Quick photo stop under the gate's arch to keep your gear dry."
+                "en": "Quick photo stop under the gate's arch to keep your gear dry.",
+                "es": "Parada rápida para fotos bajo el arco de la puerta para mantener el equipo seco."
               }
             },
             {
@@ -463,7 +490,8 @@
                 "de": "Vorsicht auf den unbefestigten Pfaden; der Lehmboden wird bei Nässe sehr rutschig.",
                 "hu": "Vigyázat az ösvényeken; az agyagos talaj esőben rendkívül csúszóssá válik.",
                 "ro": "Atenție pe poteci; solul argilos devine foarte alunecos când este ud.",
-                "en": "Caution on the unpaved paths; the clay soil becomes very slippery when wet."
+                "en": "Caution on the unpaved paths; the clay soil becomes very slippery when wet.",
+                "es": "Precaución en los caminos sin pavimentar; la tierra arcillosa se vuelve muy resbaladiza con lluvia."
               }
             },
             {
@@ -472,7 +500,8 @@
                 "de": "Besuchen Sie nur das Forum; der Rest des Geländes ist bei Regen schwer begehbar.",
                 "hu": "Csak a fórumot látogassa meg; a terület többi része sárban nehezen járható.",
                 "ro": "Vizitați doar forul; restul sitului este greu accesibil din cauza noroiului.",
-                "en": "Visit only the forum; the rest of the site is hard to navigate in the mud."
+                "en": "Visit only the forum; the rest of the site is hard to navigate in the mud.",
+                "es": "Visita solo el foro; el resto del yacimiento es difícil de recorrer con barro."
               }
             }
           ],
@@ -504,6 +533,13 @@
               "A sturdy umbrella is more practical than a poncho as wind is moderate in the streets.",
               "Plaza de España features many cafes with covered outdoor seating.",
               "Avoid the steepest dirt shortcuts on the castle hill during heavy rain."
+            ],
+            "es": [
+              "Lleva botas de senderismo impermeables para la subida al Castillo de Ayub.",
+              "Las iglesias suelen tener un descanso a mediodía; programa tus visitas interiores para las horas de mayor lluvia.",
+              "Un paraguas resistente es más práctico que un poncho, ya que el viento es moderado en las calles.",
+              "La Plaza de España cuenta con muchas cafeterías con terrazas cubiertas.",
+              "Evita los atajos de tierra más empinados en la colina del castillo durante lluvias intensas."
             ]
           }
         },
@@ -512,7 +548,8 @@
             "de": "Der Wintermorgen in Calatayud beginnt oft mit frostigen Temperaturen. Starten Sie an der Plaza de España bei einem heißen Kaffee, bevor Sie die mudéjar-gotische Architektur von Santa María bewundern, deren Ziegel in der tiefstehenden Wintersonne warm leuchten.\n\nMittags erkunden Sie die Gassen der Altstadt. Die kühle Luft ist klar, und die Kirchenbauten bieten einen windgeschützten Ort der Besinnung. Probieren Sie lokale Spezialitäten wie Ternasco, um sich für den Nachmittag aufzuwärmen.\n\nAm frühen Nachmittag steigen Sie zum Castle of Ayub auf. Der Weg ist im Winter trocken, aber der Wind auf dem Hügel kann beißend kalt sein. Die Aussicht auf die schneebedeckten Gipfel der Ferne ist an klaren Tagen unvergesslich.\n\nBeenden Sie die Tour zeitig bei den Ruinen von Bilbilis. Da die Sonne bereits gegen 17:30 Uhr hinter den Bergen verschwindet, sollten Sie die archäologische Stätte im letzten Tageslicht besuchen, bevor die nächtliche Kälte einsetzt.",
             "hu": "A téli reggel Calatayudban gyakran fagyos. Kezdje a napot egy forró kávéval a Plaza de Españán, majd csodálja meg a Santa María templom mudéjar-gótikus téglahomlokzatát, amely melegen csillog az alacsonyan járó napfényben.\n\nDélben az óváros hűvös, de tiszta levegőjű utcáin sétálunk. A templomok vastag falai között szélvédett nyugalomra lelhetünk. Érdemes megkóstolni a helyi sült bárányt (ternasco), hogy energiát gyűjtsünk a délutánhoz.\n\nKora délután másszunk fel az Ayub várához. Az ösvény télen általában száraz, de a dombtetőn a szél metsző lehet. Tiszta időben a távoli, hófödte csúcsok látványa kárpótol a hidegért.\n\nA túrát Bilbilis romjainál zárjuk, még a naplemente előtt. Mivel 17:30 körül már eltűnik a nap a hegyek mögött, használjuk ki az utolsó fényeket a régészeti park felfedezésére, mielőtt leszáll az éjszakai fagy.",
             "ro": "Dimineața de iarnă în Calatayud începe adesea cu temperaturi scăzute. Savurați o cafea fierbinte în Plaza de España înainte de a vizita Santa María, unde cărămida stilului mudéjar strălucește cald sub soarele palid de iarnă.\n\nLa prânz, explorați centrul istoric. Aerul este rece și curat, iar bisericile oferă un refugiu ferit de vânt. Profitați de ocazie pentru a gusta specialități locale calde, precum ternasco, pentru a vă încălzi.\n\nDupă-amiaza devreme, urcați la Castelul Ayub. Potecile sunt de obicei uscate iarna, dar vântul pe culme poate fi tăios. Vederea spre vârfurile înzăpezite din depărtare este memorabilă în zilele senine.\n\nÎncheiați vizita la ruinele Bilbilis înainte de apus. Deoarece soarele coboară după dealuri în jurul orei 17:30, vizitați situl arheologic în ultima lumină a zilei, înainte ca frigul nopții să devină pătrunzător.",
-            "en": "Winter mornings in Calatayud are often frosty. Start with a hot coffee at Plaza de España before visiting Santa María, where the Mudéjar-Gothic brickwork glows warmly in the low winter sun.\n\nAt midday, explore the historic center. The air is crisp and clear, and the massive church walls offer a wind-sheltered space for contemplation. Try local specialties like Ternasco (lamb) to warm up for the afternoon.\n\nIn the early afternoon, hike up to the Castle of Ayub. The trails are usually dry in winter, but the wind on the ridge can be biting. On clear days, the views of the distant snow-capped peaks are unforgettable.\n\nWrap up the tour at the ruins of Bilbilis before sunset. As the sun dips behind the hills around 5:30 PM, enjoy the archaeological site in the golden hour light before the nighttime chill sets in."
+            "en": "Winter mornings in Calatayud are often frosty. Start with a hot coffee at Plaza de España before visiting Santa María, where the Mudéjar-Gothic brickwork glows warmly in the low winter sun.\n\nAt midday, explore the historic center. The air is crisp and clear, and the massive church walls offer a wind-sheltered space for contemplation. Try local specialties like Ternasco (lamb) to warm up for the afternoon.\n\nIn the early afternoon, hike up to the Castle of Ayub. The trails are usually dry in winter, but the wind on the ridge can be biting. On clear days, the views of the distant snow-capped peaks are unforgettable.\n\nWrap up the tour at the ruins of Bilbilis before sunset. As the sun dips behind the hills around 5:30 PM, enjoy the archaeological site in the golden hour light before the nighttime chill sets in.",
+            "es": "Las mañanas de invierno en Calatayud suelen ser heladas. Empieza con un café caliente en la Plaza de España antes de visitar Santa María, donde el ladrillo mudéjar-gótico resplandece cálidamente con el bajo sol invernal.\n\nAl mediodía, explora el casco histórico. El aire es nítido y claro, y los muros de las iglesias ofrecen un espacio resguardado del viento para la contemplación. Prueba especialidades locales como el ternasco para calentarte de cara a la tarde.\n\nA primera hora de la tarde, sube al Castillo de Ayub. Los senderos suelen estar secos en invierno, pero el viento en la cresta puede ser cortante. En días despejados, las vistas de las cumbres nevadas en la distancia son inolvidables.\n\nTermina la visita en las ruinas de Bilbilis antes del atardecer. Cuando el sol se oculta tras las colinas alrededor de las 17:30, disfruta del yacimiento arqueológico con la luz de la hora dorada antes de que llegue el frío nocturno."
           },
           "stops": [
             {
@@ -521,7 +558,8 @@
                 "de": "Suchen Sie Cafés mit Heizstrahlern im Außenbereich für den ersten Kaffee.",
                 "hu": "Keressen fűtőtesttel ellátott kávézóteraszokat a reggeli indításhoz.",
                 "ro": "Căutați cafenele cu încălzitoare pe terasă pentru prima cafea a zilei.",
-                "en": "Look for cafes with outdoor heaters for your starting morning coffee."
+                "en": "Look for cafes with outdoor heaters for your starting morning coffee.",
+                "es": "Busca cafeterías con calefactores en las terrazas para tomar el café de la mañana."
               }
             },
             {
@@ -530,7 +568,8 @@
                 "de": "Die dicken Mauern speichern die Kälte; behalten Sie Ihre Jacke im Inneren an.",
                 "hu": "A vastag falak tartják a hideget; ne vegye le a kabátját a templomban sem.",
                 "ro": "Zidurile groase păstrează frigul; păstrați haina pe dvs. și în interior.",
-                "en": "The thick walls keep the cold inside; keep your coat on during the visit."
+                "en": "The thick walls keep the cold inside; keep your coat on during the visit.",
+                "es": "Los muros gruesos retienen el frío; mantén el abrigo puesto durante la visita."
               }
             },
             {
@@ -539,7 +578,8 @@
                 "de": "Ein ruhiger Ort, um der kalten Brise der Gassen kurz zu entkommen.",
                 "hu": "Csendes hely, ahol rövid időre elmenekülhet az utcák hideg szele elől.",
                 "ro": "Un loc liniștit pentru a scăpa scurt de briza rece de pe străzile înguste.",
-                "en": "A quiet place to briefly escape the cold breeze of the narrow streets."
+                "en": "A quiet place to briefly escape the cold breeze of the narrow streets.",
+                "es": "Un lugar tranquilo para escapar brevemente de la brisa fría de las calles estrechas."
               }
             },
             {
@@ -548,7 +588,8 @@
                 "de": "Das Licht der Wintersonne betont die Textur der Ziegel am Vormittag.",
                 "hu": "A téli napsütés délelőtt szépen kiemeli a téglák textúráját.",
                 "ro": "Lumina soarelui de iarnă subliniază textura cărămizilor în cursul dimineții.",
-                "en": "The winter sunlight highlights the brick texture beautifully in the morning."
+                "en": "The winter sunlight highlights the brick texture beautifully in the morning.",
+                "es": "La luz invernal resalta la textura del ladrillo de forma hermosa por la mañana."
               }
             },
             {
@@ -557,7 +598,8 @@
                 "de": "Ein windiger Korridor; ziehen Sie Schal und Handschuhe fest an.",
                 "hu": "Szeles folyosó; húzza szorosabbra a sálat és a kesztyűt.",
                 "ro": "Un coridor vântos; strângeți bine fularul și mănușile aici.",
-                "en": "A windy corridor; tighten your scarf and gloves before passing through."
+                "en": "A windy corridor; tighten your scarf and gloves before passing through.",
+                "es": "Un corredor ventoso; ajusta la bufanda y los guantes antes de atravesarlo."
               }
             },
             {
@@ -566,7 +608,8 @@
                 "de": "Harte Winde auf dem Gipfel; eine winddichte Jacke ist hier zwingend notwendig.",
                 "hu": "Erős szél a csúcson; a szélálló dzseki itt elengedhetetlen.",
                 "ro": "Vânt puternic pe culme; o jachetă rezistentă la vânt este obligatorie.",
-                "en": "Strong winds on the summit; a windproof jacket is mandatory here."
+                "en": "Strong winds on the summit; a windproof jacket is mandatory here.",
+                "es": "Fuertes vientos en la cima; una chaqueta cortavientos es obligatoria aquí."
               }
             },
             {
@@ -575,7 +618,8 @@
                 "de": "Besuch bis spätestens 17:00 Uhr planen, bevor es schlagartig kalt wird.",
                 "hu": "Tervezze a látogatást legkésőbb 17:00-ig, mielőtt hirtelen lehűl a levegő.",
                 "ro": "Planificați vizita până la ora 17:00, înainte de scăderea bruscă a temperaturii.",
-                "en": "Plan your visit by 5:00 PM at the latest, before the temperature drops sharply."
+                "en": "Plan your visit by 5:00 PM at the latest, before the temperature drops sharply.",
+                "es": "Planifica tu visita como muy tarde a las 17:00, antes de que la temperatura baje bruscamente."
               }
             }
           ],
@@ -607,6 +651,13 @@
               "Ternasco asado (roasted lamb) is the perfect warming local lunch.",
               "Watch out for frost on the cobblestones during the early morning hours.",
               "Stop for a hot chocolate near Plaza de España to warm up between sites."
+            ],
+            "es": [
+              "Vístete por capas: el sol calienta al mediodía, pero la sombra sigue siendo heladora.",
+              "El sol se pone pronto (sobre las 17:30); programa las actividades al aire libre por la mañana.",
+              "El ternasco asado es el almuerzo local perfecto para entrar en calor.",
+              "Ten cuidado con la escarcha en los empedrados durante las primeras horas de la mañana.",
+              "Para un intermedio entre visitas, toma un chocolate caliente cerca de la Plaza de España."
             ]
           }
         }
@@ -625,7 +676,8 @@
             "de": "Plaza de España",
             "hu": "Plaza de España",
             "ro": "Plaza de España",
-            "en": "Plaza de España"
+            "en": "Plaza de España",
+            "es": "Plaza de España"
           },
           "coords": [
             -1.639,
@@ -641,7 +693,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab und genießen Sie die Atmosphäre des Platzes.",
             "hu": "Zárja le biztonságosan a kerékpárját, és élvezze a tér hangulatát.",
             "ro": "Asigurați-vă bicicleta și bucurați-vă de atmosfera pieței.",
-            "en": "Lock your bike securely and enjoy the atmosphere of the square."
+            "en": "Lock your bike securely and enjoy the atmosphere of the square.",
+            "es": "Asegura bien la bicicleta con un candado y disfruta del ambiente de la plaza."
           }
         },
         {
@@ -649,7 +702,8 @@
             "de": "Puerta de Terrer",
             "hu": "Puerta de Terrer",
             "ro": "Puerta de Terrer",
-            "en": "Puerta de Terrer"
+            "en": "Puerta de Terrer",
+            "es": "Puerta de Terrer"
           },
           "coords": [
             -1.636,
@@ -665,7 +719,8 @@
             "de": "Ein schneller Stopp, um dieses historische Tor zu fotografieren.",
             "hu": "Egy gyors megálló, hogy lefényképezze ezt a történelmi kaput.",
             "ro": "O oprire rapidă pentru a fotografia această poartă istorică.",
-            "en": "A quick stop to photograph this historic gate."
+            "en": "A quick stop to photograph this historic gate.",
+            "es": "Una parada rápida para fotografiar esta puerta histórica."
           }
         },
         {
@@ -673,7 +728,8 @@
             "de": "Stiftskirche Santa María",
             "hu": "Santa María társkáptalani templom",
             "ro": "Colegiata Santa María",
-            "en": "Collegiate Church of Santa María"
+            "en": "Collegiate Church of Santa María",
+            "es": "Colegiata de Santa María"
           },
           "coords": [
             -1.642,
@@ -689,7 +745,8 @@
             "de": "Das beeindruckendste Mudéjar-Denkmal der Stadt.",
             "hu": "A város legimpozánsabb mudéjar emlékműve.",
             "ro": "Cel mai impresionant monument mudejar din oraș.",
-            "en": "The most impressive Mudéjar monument in the city."
+            "en": "The most impressive Mudéjar monument in the city.",
+            "es": "El monumento mudéjar más impresionante de la ciudad."
           }
         },
         {
@@ -697,7 +754,8 @@
             "de": "Stiftskirche des Heiligen Grabes",
             "hu": "Szent Sír társkáptalani templom",
             "ro": "Colegiata Sfântul Mormânt",
-            "en": "Collegiate Church of the Holy Sepulchre"
+            "en": "Collegiate Church of the Holy Sepulchre",
+            "es": "Colegiata del Santo Sepulcro"
           },
           "coords": [
             -1.64,
@@ -713,7 +771,8 @@
             "de": "Ein wichtiger Halt auf dem Jakobsweg.",
             "hu": "Fontos megálló a Camino de Santiago zarándokúton.",
             "ro": "O oprire importantă pe Camino de Santiago.",
-            "en": "An important stop on the Camino de Santiago pilgrimage route."
+            "en": "An important stop on the Camino de Santiago pilgrimage route.",
+            "es": "Una parada importante en la ruta de peregrinación del Camino de Santiago."
           }
         },
         {
@@ -721,7 +780,8 @@
             "de": "Burg von Ayub",
             "hu": "Ayub vára",
             "ro": "Castelul Ayub",
-            "en": "Castle of Ayub"
+            "en": "Castle of Ayub",
+            "es": "Castillo de Ayub"
           },
           "coords": [
             -1.645,
@@ -737,7 +797,8 @@
             "de": "Bereiten Sie sich auf einen steilen Anstieg vor. Möglicherweise müssen Sie das Fahrrad schieben.",
             "hu": "Készüljön fel egy meredek emelkedőre. Lehet, hogy tolnia kell a kerékpárt.",
             "ro": "Pregătiți-vă pentru o urcare abruptă. S-ar putea să trebuiască să împingeți bicicleta.",
-            "en": "Be prepared for a steep climb. You might need to push the bike."
+            "en": "Be prepared for a steep climb. You might need to push the bike.",
+            "es": "Prepárate para una subida empinada. Puede que tengas que empujar la bicicleta."
           }
         },
         {
@@ -745,7 +806,8 @@
             "de": "Ruinen von Bilbilis",
             "hu": "Bílbilis romjai",
             "ro": "Ruinele din Bilbilis",
-            "en": "Ruins of Bilbilis"
+            "en": "Ruins of Bilbilis",
+            "es": "Ruinas de Bilbilis"
           },
           "coords": [
             -1.68,
@@ -761,7 +823,8 @@
             "de": "Die Fahrt aus der Stadt ist angenehm und führt durch ländliche Gebiete.",
             "hu": "A városból kivezető út kellemes, vidéki területeken vezet keresztül.",
             "ro": "Plimbarea cu bicicleta în afara orașului este plăcută, traversând zone rurale.",
-            "en": "The ride out of the city is pleasant, passing through rural areas."
+            "en": "The ride out of the city is pleasant, passing through rural areas.",
+            "es": "La salida de la ciudad es agradable, atravesando zonas rurales."
           }
         },
         {
@@ -769,7 +832,8 @@
             "de": "Kirche San Andrés",
             "hu": "San Andrés templom",
             "ro": "Biserica San Andrés",
-            "en": "Church of San Andrés"
+            "en": "Church of San Andrés",
+            "es": "Iglesia de San Andrés"
           },
           "coords": [
             -1.645,
@@ -785,7 +849,8 @@
             "de": "Ein weiteres Juwel der Mudéjar-Architektur mit einem beeindruckenden Turm.",
             "hu": "A mudéjar építészet újabb gyöngyszeme lenyűgöző toronnyal.",
             "ro": "O altă bijuterie a arhitecturii mudejar, cu un turn impresionant.",
-            "en": "Another gem of Mudéjar architecture, with an impressive tower."
+            "en": "Another gem of Mudéjar architecture, with an impressive tower.",
+            "es": "Otra joya de la arquitectura mudéjar, con una torre impresionante."
           }
         }
       ],
@@ -793,7 +858,8 @@
         "de": "Starten Sie Ihre Radtour auf der Plaza de España und radeln Sie dann zu den wichtigsten historischen Stätten der Stadt. Der Vormittag ist eine Mischung aus Radfahren und Erkunden der Mudéjar-Kirchen. Nach einem anspruchsvollen, aber lohnenden Aufstieg zur Burg von Ayub geht es am Nachmittag auf eine längere Fahrt zu den römischen Ruinen von Bilbilis. Ihre Tour endet mit einem Besuch der schönen Kirche San Andrés, die einen letzten Einblick in das reiche Erbe von Calatayud bietet.",
         "hu": "Kezdje kerékpártúráját a Plaza de Españán, majd tekerjen a város legfontosabb történelmi helyszíneihez. A délelőtt a kerékpározás és a mudéjar templomok felfedezésének keveréke. Az Ayub várához vezető kihívást jelentő, de hálás emelkedő után a délután egy hosszabb utat tartogat Bílbilis római kori romjaihoz. A túra a gyönyörű San Andrés-templom meglátogatásával zárul, amely utolsó bepillantást enged Calatayud gazdag örökségébe.",
         "ro": "Începeți turul cu bicicleta din Plaza de España, apoi pedalați spre cele mai importante situri istorice ale orașului. Dimineața este un amestec de ciclism și explorare a bisericilor mudejar. După o urcare provocatoare, dar plină de satisfacții, la Castelul Ayub, după-amiaza vă rezervă o plimbare mai lungă spre ruinele romane din Bilbilis. Turul dvs. se încheie cu o vizită la frumoasa Biserică San Andrés, oferind o ultimă privire asupra bogatei moșteniri a orașului Calatayud.",
-        "en": "Start your cycling tour from Plaza de España, then pedal to the city's key historic sites. The morning is a mix of cycling and exploring the Mudéjar churches. After a challenging but rewarding climb to the Castle of Ayub, the afternoon holds a longer ride out to the Roman ruins of Bilbilis. Your tour concludes with a visit to the beautiful Church of San Andrés, offering a final glimpse into Calatayud's rich heritage."
+        "en": "Start your cycling tour from Plaza de España, then pedal to the city's key historic sites. The morning is a mix of cycling and exploring the Mudéjar churches. After a challenging but rewarding climb to the Castle of Ayub, the afternoon holds a longer ride out to the Roman ruins of Bilbilis. Your tour concludes with a visit to the beautiful Church of San Andrés, offering a final glimpse into Calatayud's rich heritage.",
+        "es": "Comienza tu ruta ciclista en la Plaza de España, luego pedalea hasta los principales monumentos históricos de la ciudad. La mañana combina ciclismo y visita a las iglesias mudéjares. Tras una subida exigente pero gratificante hasta el Castillo de Ayub, la tarde ofrece un recorrido más largo hacia las ruinas romanas de Bilbilis. Tu recorrido concluye con la visita a la hermosa Iglesia de San Andrés, que ofrece una última mirada al rico patrimonio de Calatayud."
       },
       "gastro_picks": {
         "de": [
@@ -1005,6 +1071,12 @@
           "Bring a good lock to secure your bike while sightseeing.",
           "The streets in the city center can be narrow, ride with caution.",
           "A helmet is highly recommended, especially for the ride out of town."
+        ],
+        "es": [
+          "Asegúrate de que la bicicleta esté en buen estado, especialmente los frenos para los descensos.",
+          "Lleva un buen candado para asegurar la bicicleta mientras visitas los lugares.",
+          "Las calles del centro pueden ser estrechas, circula con precaución.",
+          "Se recomienda llevar casco, especialmente para la salida de la ciudad."
         ]
       },
       "variants": {
@@ -1013,7 +1085,8 @@
             "de": "Radfahren im Regen erfordert in Calatayud Konzentration auf dem rutschigen Pflaster der Altstadt. Starten Sie an der Plaza de España und nutzen Sie die kurzen Wege zwischen den Mudéjar-Kirchen, um bei Schauern schnell unterzuschlüpfen.\n\nMittags führt die Route durch das Puerta de Terrer. Das Spritzwasser auf dem Asphalt macht die Fahrt zum Castle of Ayub anstrengend. Die Steigungen erfordern gute Traktion und vorsichtiges Bremsen auf dem nassen Untergrund.\n\nDer anstrengendste Teil ist die Fahrt zu den Ruinen von Bilbilis. Der Weg außerhalb der Stadt kann schlammig sein, was die 4 km lange Strecke zu einer echten Herausforderung macht. Der Ausblick auf das graue Tal belohnt die Mühe.\n\nZurück in der Stadt beenden Sie die Tour an der Kirche San Andrés. Die nassen Reifen sollten vor dem Abstellen kurz gereinigt werden, um den Schlamm der Ausgrabungsstätte nicht zu verteilen.",
             "hu": "Az esőben való kerékpározás Calatayudban nagy figyelmet igényel a csúszós óvárosi köveken. Kezdje a Plaza de Españán, és használja ki a templomok közelségét, hogy egy-egy zápor idejére behúzódjon fedett helyre.\n\nDélben a Puerta de Terrer felé haladva az aszfaltról felverődő víz nehezíti a haladást az Ayub vára felé. Az emelkedőkön fontos a jó tapadás és az óvatos fékezés a vizes talajon.\n\nA legnehezebb szakasz a Bilbilis romjaihoz vezető út. A városon kívüli szakasz saras lehet, ami a 4 km-es távot komoly kihívássá teszi. A szürke ködbe burkolózó völgy látványa azonban különleges.\n\nVisszatérve a városba, a San Andrés templomnál zárjuk a kört. A sárvédő és a jó fékek elengedhetetlenek ezen a napon, hogy biztonságban érjünk vissza a központba.",
             "ro": "Ciclismul pe ploaie în Calatayud necesită concentrare sporită pe pavajul alunecos din centrul vechi. Începeți din Plaza de España și profitați de distanțele scurte între bisericile mudéjar pentru a vă adăposti rapid în caz de aversă.\n\nLa prânz, traseul trece prin Puerta de Terrer. Apa împroșcată de pe asfalt face urcarea spre Castelul Ayub mai solicitantă. Pantele necesită tracțiune bună și frânare atentă pe suprafața umedă.\n\nCea mai grea parte este drumul spre ruinele Bilbilis. Traseul din afara orașului poate fi noroios, transformând cei 4 km într-o provocare tehnică. Vederea asupra văii cenușii răsplătește efortul depus.\n\nReveniți în oraș și încheiați turul la biserica San Andrés. Apărătorile de noroi și frânele bine reglate sunt esențiale pentru a naviga în siguranță pe acest traseu umed.",
-            "en": "Cycling in the rain in Calatayud requires focus on the slippery cobblestones of the old town. Start at Plaza de España and use the short distances between Mudéjar churches to quickly find cover during showers.\n\nAt midday, the route passes through Puerta de Terrer. Surface spray makes the climb to the Castle of Ayub more strenuous. The inclines require good tire traction and careful braking on the wet ground.\n\nThe most challenging part is the ride to the ruins of Bilbilis. The path outside the city can be muddy, turning the 4 km stretch into a real physical test. The view of the grey, misty valley is a rewarding sight.\n\nBack in the city, end the tour at San Andrés Church. Mudguards and reliable brakes are essential today to ensure a safe return to the city center after visiting the archaeological site."
+            "en": "Cycling in the rain in Calatayud requires focus on the slippery cobblestones of the old town. Start at Plaza de España and use the short distances between Mudéjar churches to quickly find cover during showers.\n\nAt midday, the route passes through Puerta de Terrer. Surface spray makes the climb to the Castle of Ayub more strenuous. The inclines require good tire traction and careful braking on the wet ground.\n\nThe most challenging part is the ride to the ruins of Bilbilis. The path outside the city can be muddy, turning the 4 km stretch into a real physical test. The view of the grey, misty valley is a rewarding sight.\n\nBack in the city, end the tour at San Andrés Church. Mudguards and reliable brakes are essential today to ensure a safe return to the city center after visiting the archaeological site.",
+            "es": "Ciclismo bajo la lluvia en Calatayud exige prestar atención a los empedrados resbaladizos del casco antiguo. Empieza en la Plaza de España y aprovecha las cortas distancias entre iglesias mudéjares para cubrirte rápidamente durante los chaparrones.\n\nAl mediodía, la ruta pasa por la Puerta de Terrer. El spray de la calzada hace que la subida al Castillo de Ayub sea más agotadora. Las pendientes requieren buena tracción en los neumáticos y frenadas cuidadosas sobre suelo mojado.\n\nLa parte más desafiante es el tramo hacia las ruinas de Bilbilis. El camino fuera de la ciudad puede volverse embarrado, convirtiendo los 4 km en una auténtica prueba física. La vista del valle gris y con niebla es una recompensa.\n\nDe regreso en la ciudad, termina la ruta en la iglesia de San Andrés. Guardabarros y frenos fiables son esenciales hoy para asegurar un regreso seguro al centro después de visitar el yacimiento arqueológico."
           },
           "stops": [
             {
@@ -1022,7 +1095,8 @@
                 "de": "Vorsicht beim Anfahren auf nassem Kopfsteinpflaster; Rutschgefahr.",
                 "hu": "Óvatosan induljon el a vizes macskakövön; fennáll az elcsúszás veszélye.",
                 "ro": "Atenție la pornirea de pe loc pe pavajul ud; risc de alunecare.",
-                "en": "Be careful when starting on wet cobblestones; high risk of slipping."
+                "en": "Be careful when starting on wet cobblestones; high risk of slipping.",
+                "es": "Ten cuidado al iniciar sobre empedrados mojados; hay alto riesgo de resbalar."
               }
             },
             {
@@ -1031,7 +1105,8 @@
                 "de": "Enge Durchfahrt; achten Sie auf Pfützen und glatte Metallschienen.",
                 "hu": "Szűk áthajtó; ügyeljen a tócsákra és a csúszós fémrészekre.",
                 "ro": "Pasaj îngust; atenție la bălți și elementele metalice alunecoase.",
-                "en": "Narrow passage; watch out for puddles and slippery metal elements."
+                "en": "Narrow passage; watch out for puddles and slippery metal elements.",
+                "es": "Paso estrecho; vigila los charcos y elementos metálicos resbaladizos."
               }
             },
             {
@@ -1040,7 +1115,8 @@
                 "de": "Fahrradständer sind oft nicht überdacht; Sattel mit Plastik schützen.",
                 "hu": "A kerékpártárolók nem fedettek; védje az ülést nejlonnal.",
                 "ro": "Suporturile de biciclete nu sunt acoperite; protejați șaua cu plastic.",
-                "en": "Bike racks are often uncovered; protect your saddle with a plastic cover."
+                "en": "Bike racks are often uncovered; protect your saddle with a plastic cover.",
+                "es": "Los aparcabicis suelen estar descubiertos; protege el sillín con una cubierta de plástico."
               }
             },
             {
@@ -1049,7 +1125,8 @@
                 "de": "Kurze Pause im Inneren, während das Fahrrad draußen im Regen steht.",
                 "hu": "Rövid pihenő odabent, amíg a bicikli kint ázik az esőben.",
                 "ro": "Scurtă pauză în interior în timp ce bicicleta rămâne afară în ploaie.",
-                "en": "Take a short break inside while your bike stays out in the rain."
+                "en": "Take a short break inside while your bike stays out in the rain.",
+                "es": "Toma un descanso breve en el interior mientras tu bici permanece afuera bajo la lluvia."
               }
             },
             {
@@ -1058,7 +1135,8 @@
                 "de": "Der Aufstieg ist steil; Schlamm kann die Kette blockieren.",
                 "hu": "Az emelkedő meredek; a sár blokkolhatja a láncot.",
                 "ro": "Urcarea este abruptă; noroiul poate bloca lanțul bicicletei.",
-                "en": "The climb is steep; mud can potentially clog your bike chain."
+                "en": "The climb is steep; mud can potentially clog your bike chain.",
+                "es": "La subida es empinada; el barro puede llegar a atascar la cadena de la bici."
               }
             },
             {
@@ -1067,7 +1145,8 @@
                 "de": "Nur für erfahrene Fahrer bei Regen; der Weg ist unbefestigt.",
                 "hu": "Esőben csak tapasztaltaknak; az út nem aszfaltozott.",
                 "ro": "Doar pentru cicliști experimentați pe ploaie; drumul este neasfaltat.",
-                "en": "Only for experienced riders in the rain; the path is unpaved."
+                "en": "Only for experienced riders in the rain; the path is unpaved.",
+                "es": "Solo para ciclistas experimentados bajo la lluvia; el tramo es no pavimentado."
               }
             },
             {
@@ -1076,7 +1155,8 @@
                 "de": "Letzter Stopp; prüfen Sie Ihre Bremsbeläge nach der Schlammfahrt.",
                 "hu": "Utolsó megálló; ellenőrizze a fékbetéteket a saras út után.",
                 "ro": "Ultima oprire; verificați saboții de frână după drumul noroios.",
-                "en": "Final stop; check your brake pads after the muddy ride."
+                "en": "Final stop; check your brake pads after the muddy ride.",
+                "es": "Parada final; revisa las pastillas de freno después del tramo embarrado."
               }
             }
           ],
@@ -1108,6 +1188,13 @@
               "Wear high-visibility rain gear for better safety in grey conditions.",
               "Avoid riding on white road markings, as they are extremely slick when wet.",
               "Check your tire pressure; slightly lower pressure provides better grip on wet surfaces."
+            ],
+            "es": [
+              "Asegúrate de instalar guardabarros para evitar el salpicado en los senderos de Bilbilis.",
+              "Frena temprano y con suavidad usando ambos frenos en los tramos empedrados.",
+              "Lleva ropa impermeable de alta visibilidad para mayor seguridad en condiciones grises.",
+              "Evita circular sobre las marcas viales blancas, ya que son extremadamente resbaladizas cuando están mojadas.",
+              "Revisa la presión de los neumáticos; una presión ligeramente menor mejora la adherencia en superficies mojadas."
             ]
           }
         },
@@ -1116,7 +1203,8 @@
             "de": "Radfahren im Winter in Calatayud ist durch die trockene, aber schneidend kalte Luft geprägt. Beginnen Sie an der Plaza de España und nutzen Sie die Bewegung, um die Körpertemperatur gegen den Frost des Morgens zu halten.\n\nMittags führt die Route an der Puerta de Terrer vorbei zu den großen Kirchen. Die klare Sicht lässt die mudéjarischen Backsteintürme besonders scharf vor dem blauen Winterhimmel erscheinen. Eine Thermoskanne mit Tee ist ein guter Begleiter.\n\nDer Aufstieg zum Castle of Ayub bringt Sie ins Schwitzen, aber oben angekommen kühlt der Wind Sie sofort aus. Winddichte Kleidung ist hier der Schlüssel zum Erfolg. Die Fernsicht auf das Jalón-Tal ist im Winter oft klarer als im Sommer.\n\nZum Abschluss radeln Sie die 4 km zu den Ruinen von Bilbilis. Da die Sonne früh untergeht, sollten Sie die Rückfahrt vor 17:00 Uhr antreten, um nicht in die eisige Abenddämmerung zu geraten. San Andrés markiert das Ende einer erfrischenden Wintertour.",
             "hu": "A téli kerékpározás Calatayudban a száraz, de metszően hideg levegőről szól. Kezdje a Plaza de Españán, és használja a mozgást a testhőmérséklet fenntartására a reggeli fagyban.\n\nDélben a Puerta de Terrer érintésével haladunk a templomok felé. A tiszta időben a mudéjar téglatornyok élesen rajzolódnak ki a kék téli égbolton. Egy termosz forró teával jó szolgálatot tehet.\n\nAz Ayub vára felé vezető emelkedőn kimelegszik, de a tetőre érve a szél azonnal lehűti. A szélálló ruházat kulcsfontosságú. A kilátás a Jalón-völgyre télen gyakran tisztább, mint nyáron.\n\nA túrát a Bilbilis romjaihoz vezető 4 km-es tekeréssel zárjuk. Mivel a nap korán nyugszik, 17:00 előtt induljon vissza, hogy ne az éjszakai fagyban kelljen tekernie. A San Andrés templom a túra méltó befejezése.",
             "ro": "Ciclismul de iarnă în Calatayud este marcat de aerul uscat, dar tăios de rece. Începeți din Plaza de España și folosiți mișcarea pentru a menține temperatura corpului împotriva gerului matinal.\n\nLa prânz, traseul trece pe lângă Puerta de Terrer spre marile biserici. Vizibilitatea excelentă face ca turnurile mudéjar să pară foarte clare pe cerul albastru de iarnă. Un termos cu ceai fierbinte este un companion excelent.\n\nUrcarea spre Castelul Ayub vă va încălzi, dar odată ajunși sus, vântul vă va răci imediat. Hainele rezistente la vânt sunt cheia succesului aici. Vederea panoramică este adesea mai clară iarna decât vara.\n\nÎncheiați cu drumul de 4 km spre ruinele Bilbilis. Deoarece soarele apune devreme, porniți înapoi înainte de ora 17:00 pentru a evita amurgul înghețat. Biserica San Andrés marchează finalul acestui tur revigorant.",
-            "en": "Cycling in winter in Calatayud is defined by dry but cuttingly cold air. Start at Plaza de España and keep moving to maintain your body heat against the morning frost.\n\nAt midday, ride past Puerta de Terrer towards the major churches. The clear winter air makes the Mudéjar brick towers stand out sharply against the blue sky. A thermos of hot tea is a great companion for the ride.\n\nThe climb to the Castle of Ayub will warm you up, but the wind at the top will cool you down instantly. Windproof gear is essential. The views over the Jalón Valley are often clearer in winter than in summer.\n\nFinish with the 4 km ride to the ruins of Bilbilis. Since the sun sets early, start your return trip by 5:00 PM to avoid the freezing dusk. San Andrés Church marks the end of a refreshing winter cycling tour."
+            "en": "Cycling in winter in Calatayud is defined by dry but cuttingly cold air. Start at Plaza de España and keep moving to maintain your body heat against the morning frost.\n\nAt midday, ride past Puerta de Terrer towards the major churches. The clear winter air makes the Mudéjar brick towers stand out sharply against the blue sky. A thermos of hot tea is a great companion for the ride.\n\nThe climb to the Castle of Ayub will warm you up, but the wind at the top will cool you down instantly. Windproof gear is essential. The views over the Jalón Valley are often clearer in winter than in summer.\n\nFinish with the 4 km ride to the ruins of Bilbilis. Since the sun sets early, start your return trip by 5:00 PM to avoid the freezing dusk. San Andrés Church marks the end of a refreshing winter cycling tour.",
+            "es": "El ciclismo en invierno en Calatayud se define por un aire seco pero cortantemente frío. Empieza en la Plaza de España y mantente en movimiento para conservar el calor corporal frente a la escarcha de la mañana.\n\nAl mediodía, pasa por la Puerta de Terrer rumbo a las principales iglesias. El aire limpio de invierno hace que las torres de ladrillo mudéjar destaquen nítidas contra el cielo azul. Un termo con té caliente es un gran compañero para la ruta.\n\nLa subida al Castillo de Ayub te calentará, pero el viento en la cima te enfriará al instante. El equipo cortavientos es esencial. Las vistas del valle del Jalón suelen ser más claras en invierno que en verano.\n\nTermina con los 4 km hacia las ruinas de Bilbilis. Como el sol se pone temprano, inicia el regreso antes de las 17:00 para evitar el crepúsculo helador. La iglesia de San Andrés marca el final de una refrescante ruta ciclista invernal."
           },
           "stops": [
             {
@@ -1125,7 +1213,8 @@
                 "de": "Starten Sie erst nach 9:30 Uhr, wenn das Eis auf den Steinen geschmolzen ist.",
                 "hu": "Csak 9:30 után induljon, amikor a jég már felszáradt a kövekről.",
                 "ro": "Porniți după ora 9:30, când gheața de pe pietre s-a topit.",
-                "en": "Start after 9:30 AM once any ice on the stones has melted away."
+                "en": "Start after 9:30 AM once any ice on the stones has melted away.",
+                "es": "Empieza después de las 9:30 para que el hielo de las piedras haya podido fundirse."
               }
             },
             {
@@ -1134,7 +1223,8 @@
                 "de": "Ein schattiger Ort; hier ist es deutlich kälter als auf der Plaza.",
                 "hu": "Árnyékos hely; itt jóval hidegebb van, mint a főtéren.",
                 "ro": "Un loc umbrit; aici este mult mai frig decât în Plaza de España.",
-                "en": "A shaded spot; it is significantly colder here than in the main square."
+                "en": "A shaded spot; it is significantly colder here than in the main square.",
+                "es": "Un lugar sombreado; aquí hace significativamente más frío que en la plaza principal."
               }
             },
             {
@@ -1143,7 +1233,8 @@
                 "de": "Nutzen Sie die Kirchenbesichtigung, um die Finger wieder aufzuwärmen.",
                 "hu": "Használja ki a templomlátogatást az ujjai felmelegítésére.",
                 "ro": "Folosiți vizita în biserică pentru a vă reîncălzi degetele.",
-                "en": "Use the church visit as an opportunity to warm up your hands."
+                "en": "Use the church visit as an opportunity to warm up your hands.",
+                "es": "Aprovecha la visita a la iglesia para calentar las manos."
               }
             },
             {
@@ -1152,7 +1243,8 @@
                 "de": "Parken Sie windgeschützt hinter dem Hauptportal.",
                 "hu": "Parkoljon szélvédett helyen a főbejárat mögött.",
                 "ro": "Parcați bicicleta într-un loc ferit de vânt lângă poarta principală.",
-                "en": "Park your bike in a wind-sheltered spot behind the main portal."
+                "en": "Park your bike in a wind-sheltered spot behind the main portal.",
+                "es": "Aparca la bici en un lugar resguardado del viento detrás del portal principal."
               }
             },
             {
@@ -1161,7 +1253,8 @@
                 "de": "Ziehen Sie vor der Abfahrt eine zusätzliche Schicht an; der Fahrtwind kühlt stark.",
                 "hu": "Gurulás előtt vegyen fel egy plusz réteget; a menetszél nagyon hűt.",
                 "ro": "Puneți un strat suplimentar înainte de coborâre; vântul răcește rapid.",
-                "en": "Put on an extra layer before descending; the wind chill is significant."
+                "en": "Put on an extra layer before descending; the wind chill is significant.",
+                "es": "Ponte una capa extra antes de descender; la sensación térmica por el viento es significativa."
               }
             },
             {
@@ -1170,7 +1263,8 @@
                 "de": "Harte, gefrorene Wege; gute Reifenprofile sind wichtig.",
                 "hu": "Kemény, fagyott ösvények; a jó gumiprofil fontos.",
                 "ro": "Poteci dure, înghețate; profilul bun al anvelopelor este esențial.",
-                "en": "Hard, frozen paths; having good tire tread is important here."
+                "en": "Hard, frozen paths; having good tire tread is important here.",
+                "es": "Caminos duros y helados; es importante llevar buen dibujo en los neumáticos."
               }
             },
             {
@@ -1179,7 +1273,8 @@
                 "de": "Ende der Tour; ein warmer Tee im nahen Café ist jetzt verdient.",
                 "hu": "A túra vége; egy forró tea a közeli kávézóban megérdemelt pihenő.",
                 "ro": "Finalul turului; un ceai cald la o cafenea din apropiere este binevenit.",
-                "en": "End of the tour; you deserve a hot tea in a nearby cafe now."
+                "en": "End of the tour; you deserve a hot tea in a nearby cafe now.",
+                "es": "Fin del recorrido; ya te mereces un té caliente en una cafetería cercana."
               }
             }
           ],
@@ -1211,6 +1306,13 @@
               "Bike lights are mandatory as it starts to get dark early in winter.",
               "Stay hydrated even in the cold; dry air can dehydrate you unnoticed.",
               "Warm up your muscles briefly before attempting the first steep climb."
+            ],
+            "es": [
+              "Lleva guantes de dedos completos; las manetas de freno metálicas se ponen extremadamente frías en invierno.",
+              "Evita los callejones en sombra a primera hora por posibles placas de hielo.",
+              "Las luces de la bicicleta son obligatorias, ya que anochece temprano en invierno.",
+              "Mantente hidratado incluso con frío; el aire seco puede deshidratarte sin darte cuenta.",
+              "Calienta brevemente los músculos antes de intentar la primera subida empinada."
             ]
           }
         }
@@ -1229,7 +1331,8 @@
             "de": "Parkplatz bei Bilbilis",
             "hu": "Parkoló Bílbilisnél",
             "ro": "Parcare la Bilbilis",
-            "en": "Parking at Bilbilis"
+            "en": "Parking at Bilbilis",
+            "es": "Aparcamiento en Bilbilis"
           },
           "coords": [
             -1.678,
@@ -1245,7 +1348,8 @@
             "de": "Beginnen Sie Ihren Tag mit dem am weitesten entfernten Punkt, um Menschenmassen zu vermeiden.",
             "hu": "Kezdje a napot a legtávolabbi ponton, hogy elkerülje a tömeget.",
             "ro": "Începeți ziua cu cel mai îndepărtat punct pentru a evita aglomerația.",
-            "en": "Start your day with the furthest point to avoid crowds."
+            "en": "Start your day with the furthest point to avoid crowds.",
+            "es": "Empieza el día por el punto más lejano para evitar aglomeraciones."
           }
         },
         {
@@ -1253,7 +1357,8 @@
             "de": "Ruinen von Bilbilis",
             "hu": "Bílbilis romjai",
             "ro": "Ruinele din Bilbilis",
-            "en": "Ruins of Bilbilis"
+            "en": "Ruins of Bilbilis",
+            "es": "Ruinas de Bilbilis"
           },
           "coords": [
             -1.68,
@@ -1269,7 +1374,8 @@
             "de": "Erkunden Sie das Forum, das Theater und die Bäder dieser antiken römischen Stadt.",
             "hu": "Fedezze fel ennek az ókori római városnak a fórumát, színházát és fürdőit.",
             "ro": "Explorați forul, teatrul și termele acestui oraș roman antic.",
-            "en": "Explore the forum, theatre, and baths of this ancient Roman city."
+            "en": "Explore the forum, theatre, and baths of this ancient Roman city.",
+            "es": "Explora el foro, el teatro y las termas de esta antigua ciudad romana."
           }
         },
         {
@@ -1277,7 +1383,8 @@
             "de": "Parkplatz am Schloss",
             "hu": "Várparkoló",
             "ro": "Parcare la castel",
-            "en": "Castle Parking Area"
+            "en": "Castle Parking Area",
+            "es": "Zona de aparcamiento del castillo"
           },
           "coords": [
             -1.644,
@@ -1293,7 +1400,8 @@
             "de": "Fahren Sie so nah wie möglich an die Burg heran und parken Sie dort.",
             "hu": "Hajtson a lehető legközelebb a várhoz, és parkoljon le.",
             "ro": "Conduceți cât mai aproape de castel și parcați.",
-            "en": "Drive as close to the castle as possible and park."
+            "en": "Drive as close to the castle as possible and park.",
+            "es": "Conduce lo más cerca posible del castillo y aparca."
           }
         },
         {
@@ -1301,7 +1409,8 @@
             "de": "Burg von Ayub",
             "hu": "Ayub vára",
             "ro": "Castelul Ayub",
-            "en": "Castle of Ayub"
+            "en": "Castle of Ayub",
+            "es": "Castillo de Ayub"
           },
           "coords": [
             -1.645,
@@ -1317,7 +1426,8 @@
             "de": "Genießen Sie die beste Aussicht auf Calatayud und das Jalón-Tal.",
             "hu": "Élvezze a legjobb kilátást Calatayudra és a Jalón-völgyre.",
             "ro": "Bucurați-vă de cele mai bune priveliști ale orașului Calatayud și ale văii Jalón.",
-            "en": "Enjoy the best views of Calatayud and the Jalón valley."
+            "en": "Enjoy the best views of Calatayud and the Jalón valley.",
+            "es": "Disfruta de las mejores vistas de Calatayud y del valle del Jalón."
           }
         },
         {
@@ -1325,7 +1435,8 @@
             "de": "Parkhaus im Stadtzentrum",
             "hu": "Parkolóház a központban",
             "ro": "Parcare în centrul orașului",
-            "en": "City Center Parking Garage"
+            "en": "City Center Parking Garage",
+            "es": "Aparcamiento subterráneo del centro"
           },
           "coords": [
             -1.638,
@@ -1341,7 +1452,8 @@
             "de": "Stellen Sie das Auto für den Rest des Tages hier ab und erkunden Sie den Rest zu Fuß.",
             "hu": "Hagyja itt az autót a nap hátralévő részére, és fedezze fel a többit gyalog.",
             "ro": "Lăsați mașina aici pentru restul zilei și explorați pe jos.",
-            "en": "Leave the car here for the rest of the day and explore on foot."
+            "en": "Leave the car here for the rest of the day and explore on foot.",
+            "es": "Deja el coche aquí el resto del día y explora a pie."
           }
         },
         {
@@ -1349,7 +1461,8 @@
             "de": "Stiftskirche Santa María",
             "hu": "Santa María társkáptalani templom",
             "ro": "Colegiata Santa María",
-            "en": "Collegiate Church of Santa María"
+            "en": "Collegiate Church of Santa María",
+            "es": "Colegiata de Santa María"
           },
           "coords": [
             -1.642,
@@ -1365,7 +1478,8 @@
             "de": "Nehmen Sie sich Zeit für das Mittagessen in der Nähe, bevor oder nachdem Sie die Kirche besichtigt haben.",
             "hu": "Szánjon időt az ebédre a közelben a templom megtekintése előtt vagy után.",
             "ro": "Luați-vă timp pentru prânz în apropiere, înainte sau după vizitarea bisericii.",
-            "en": "Take your time for lunch nearby before or after visiting the church."
+            "en": "Take your time for lunch nearby before or after visiting the church.",
+            "es": "Tómate tu tiempo para comer cerca, antes o después de visitar la iglesia."
           }
         }
       ],
@@ -1373,7 +1487,8 @@
         "de": "Nutzen Sie Ihr Auto, um zuerst die weiter entfernten Sehenswürdigkeiten zu erreichen. Der Tag beginnt mit einer Reise in die römische Vergangenheit in Bilbilis. Danach fahren Sie zum höchsten Punkt der Stadt, der Burg von Ayub, um eine atemberaubende Aussicht zu genießen. Am Nachmittag parken Sie im Zentrum und tauchen in das Herz von Calatayud ein. Sie spazieren durch die Straßen und bewundern das Mudéjar-Erbe bei einem Besuch der Stiftskirche Santa María, gefolgt von einem gemütlichen Mittagessen.",
         "hu": "Használja autóját, hogy először a távolabbi látnivalókat érje el. A nap egy utazással kezdődik a római múltba Bílbilisben. Ezután felhajt a város legmagasabb pontjára, az Ayub várhoz a lélegzetelállító kilátásért. Délután a központban parkol, és elmerül Calatayud szívében, sétál az utcákon, és megcsodálja a mudéjar örökséget a Santa María társkáptalani templom meglátogatásával, majd egy kellemes ebéddel.",
         "ro": "Folosiți mașina pentru a ajunge mai întâi la atracțiile mai îndepărtate. Ziua începe cu o călătorie în trecutul roman la Bilbilis. După aceea, conduceți până la cel mai înalt punct al orașului, Castelul Ayub, pentru priveliști uimitoare. După-amiaza, parcați în centru și pătrundeți în inima orașului Calatayud, plimbându-vă pe străzi și admirând moștenirea mudejar cu o vizită la Colegiata Santa María, urmată de un prânz relaxat.",
-        "en": "Use your car to reach the more distant sights first. The day begins with a journey to the Roman past at Bilbilis. Afterwards, you'll drive to the highest point of the city, the Castle of Ayub, for stunning views. In the afternoon, park in the center and immerse yourself in the heart of Calatayud, strolling the streets and admiring the Mudéjar heritage with a visit to the Collegiate Church of Santa María, followed by a leisurely lunch."
+        "en": "Use your car to reach the more distant sights first. The day begins with a journey to the Roman past at Bilbilis. Afterwards, you'll drive to the highest point of the city, the Castle of Ayub, for stunning views. In the afternoon, park in the center and immerse yourself in the heart of Calatayud, strolling the streets and admiring the Mudéjar heritage with a visit to the Collegiate Church of Santa María, followed by a leisurely lunch.",
+        "es": "Usa el coche para llegar primero a los puntos más alejados. El día comienza con un viaje al pasado romano en Bilbilis. Después, conducirás hasta el punto más alto de la ciudad, el Castillo de Ayub, para disfrutar de vistas impresionantes. Por la tarde, aparca en el centro e sumérgete en el corazón de Calatayud, paseando por sus calles y admirando el patrimonio mudéjar con una visita a la Colegiata de Santa María, seguida de un almuerzo tranquilo."
       },
       "gastro_picks": {
         "de": [
@@ -1585,6 +1700,12 @@
           "Parking in the city center can be tricky, use an underground car park.",
           "A GPS is essential for navigating the country roads.",
           "Allow extra time for photo stops on your drives."
+        ],
+        "es": [
+          "Comprueba los horarios de apertura de Bilbilis con antelación, ya que pueden variar.",
+          "Aparcar en el centro puede ser complicado; utiliza un parking subterráneo.",
+          "Un GPS es esencial para navegar por las carreteras rurales.",
+          "Permite tiempo extra para paradas fotográficas en tus desplazamientos."
         ]
       },
       "variants": {
@@ -1593,7 +1714,8 @@
             "de": "Ein Regentag in Calatayud lässt sich am besten mit dem Auto bewältigen. Starten Sie direkt am Parkplatz von Bilbilis. Während es draußen regnet, können Sie die Fahrt zu den Ruinen genießen und nur für kurze Erkundungsgänge aussteigen.\n\nMittags fahren Sie zurück in die Stadt zum Castle Parking. Von dort ist es nur ein kurzer, nasser Sprint zu den Festungsmauern. Das Auto bietet einen warmen Rückzugsort zwischen den Besichtigungen.\n\nAm Nachmittag parken Sie im zentralen Parkhaus. So erreichen Sie die Kirche Santa María fast trockenen Fußes. Die mudéjarischen Details lassen sich im Inneren ausgiebig studieren, während draußen der Regen gegen die alten Fenster peitscht.\n\nDer Tag endet gemütlich in der Innenstadt. Das Auto bleibt sicher im Parkhaus, während Sie den Tag in einem der Restaurants nahe der Plaza de España ausklingen lassen.",
             "hu": "Az esős nap Calatayudban legkényelmesebben autóval hidalható át. Kezdjen a Bilbilis melletti parkolóban. Amíg kint esik, élvezheti az utat a romokig, és csak a legfontosabb látnivalókhoz szálljon ki.\n\nDélben hajtson vissza a városba a vár alatti parkolóba. Innen csak egy rövid, vizes sprint választja el a várfalaktól. Az autó kiváló menedéket nyújt a két helyszín között.\n\nDélután használja a központi parkolóházat. Így szinte száraz lábbal érheti el a Santa María templomot. Bent nyugodtan tanulmányozhatja a mudéjar részleteket, miközben kint veri az eső az ablakokat.\n\nA nap az óvárosban ér véget. Az autó biztonságban marad a garázsban, amíg Ön a Plaza de España környéki éttermek egyikében vacsorázik.",
             "ro": "O zi ploioasă în Calatayud este cel mai ușor de gestionat cu mașina. Începeți direct la parcarea Bilbilis. În timp ce afară plouă, vă puteți bucura de drumul spre ruine, coborând doar pentru scurte explorări.\n\nLa prânz, reveniți în oraș la parcarea castelului. De acolo, este doar un scurt sprint prin ploaie până la zidurile fortăreței. Mașina oferă un refugiu cald între obiective.\n\nDupă-amiaza, lăsați mașina în parcarea subterană centrală. Astfel ajungeți la biserica Santa María aproape fără să vă udați. Detaliile mudéjar pot fi studiate pe îndelete în interior, feriți de intemperii.\n\nZiua se încheie confortabil în centrul orașului. Mașina rămâne în siguranță în garaj în timp ce luați cina într-un restaurant de lângă Plaza de España.",
-            "en": "A rainy day in Calatayud is best handled by car. Start directly at the Bilbilis parking lot. While it rains outside, you can enjoy the drive to the ruins and step out only for short explorations of the forum area.\n\nAt midday, drive back to the city to the Castle Parking Area. From there, it is just a quick, wet dash to the fortress walls. The car provides a warm and dry sanctuary between site visits.\n\nIn the afternoon, park in the central parking garage. This allows you to reach Santa María Church with minimal exposure to the rain. Inside, you can study the Mudéjar details at leisure while the rain drums against the old windows.\n\nEnd the day comfortably in the city center. Your car remains safe in the garage while you enjoy dinner at one of the restaurants near Plaza de España."
+            "en": "A rainy day in Calatayud is best handled by car. Start directly at the Bilbilis parking lot. While it rains outside, you can enjoy the drive to the ruins and step out only for short explorations of the forum area.\n\nAt midday, drive back to the city to the Castle Parking Area. From there, it is just a quick, wet dash to the fortress walls. The car provides a warm and dry sanctuary between site visits.\n\nIn the afternoon, park in the central parking garage. This allows you to reach Santa María Church with minimal exposure to the rain. Inside, you can study the Mudéjar details at leisure while the rain drums against the old windows.\n\nEnd the day comfortably in the city center. Your car remains safe in the garage while you enjoy dinner at one of the restaurants near Plaza de España.",
+            "es": "Un día lluvioso en Calatayud se maneja mejor en coche. Comienza directamente en el aparcamiento de Bilbilis. Mientras llueve afuera, puedes disfrutar del trayecto hasta las ruinas y salir solo para breves exploraciones del área del foro.\n\nAl mediodía, regresa en coche a la ciudad hasta la zona de aparcamiento del castillo. Desde allí, es solo una carrera rápida y húmeda hasta las murallas de la fortaleza. El coche proporciona un refugio cálido y seco entre visitas.\n\nPor la tarde, aparca en el parking central subterráneo. Esto te permite llegar a la iglesia de Santa María con mínima exposición a la lluvia. En su interior, puedes estudiar los detalles mudéjares con calma mientras la lluvia golpea los antiguos ventanales.\n\nTermina el día con comodidad en el centro. Tu coche queda seguro en el garaje mientras cenas en uno de los restaurantes cercanos a la Plaza de España."
           },
           "stops": [
             {
@@ -1602,7 +1724,8 @@
                 "de": "Der Parkplatz ist unbefestigt; Vorsicht vor tiefen Schlammpfützen.",
                 "hu": "A parkoló nem aszfaltozott; vigyázzon a mély sáros tócsákra.",
                 "ro": "Parcarea este neasfaltată; atenție la bălțile adânci de noroi.",
-                "en": "The parking area is unpaved; watch out for deep muddy puddles."
+                "en": "The parking area is unpaved; watch out for deep muddy puddles.",
+                "es": "La zona de aparcamiento no está pavimentada; cuidado con charcos profundos y barro."
               }
             },
             {
@@ -1611,7 +1734,8 @@
                 "de": "Lassen Sie den Schirm im Auto, wenn der Wind zu stark ist; Regenjacke nutzen.",
                 "hu": "Hagyja az esernyőt az autóban, ha erős a szél; használjon esőkabátot.",
                 "ro": "Lăsați umbrela în mașină dacă vântul e prea tare; folosiți pelerina.",
-                "en": "Leave the umbrella in the car if it's too windy; use a raincoat instead."
+                "en": "Leave the umbrella in the car if it's too windy; use a raincoat instead.",
+                "es": "Deja el paraguas en el coche si hace demasiado viento; usa un impermeable en su lugar."
               }
             },
             {
@@ -1620,7 +1744,8 @@
                 "de": "Parken Sie nah am Aufgang, um den Weg im Regen zu verkürzen.",
                 "hu": "Parkoljon közel a feljáróhoz, hogy lerövidítse az utat az esőben.",
                 "ro": "Parcați aproape de intrare pentru a scurta drumul prin ploaie.",
-                "en": "Park close to the entrance to shorten your walk through the rain."
+                "en": "Park close to the entrance to shorten your walk through the rain.",
+                "es": "Aparca cerca de la entrada para acortar la caminata bajo la lluvia."
               }
             },
             {
@@ -1629,7 +1754,8 @@
                 "de": "Die Sicht vom Auto aus ist begrenzt; steigen Sie für das Panorama kurz aus.",
                 "hu": "Az autóból korlátozott a kilátás; szálljon ki rövid időre a panorámáért.",
                 "ro": "Vizibilitatea din mașină este limitată; coborâți scurt pentru panoramă.",
-                "en": "Visibility from the car is limited; step out briefly for the panorama."
+                "en": "Visibility from the car is limited; step out briefly for the panorama.",
+                "es": "La visibilidad desde el coche es limitada; sal brevemente para disfrutar del panorama."
               }
             },
             {
@@ -1638,7 +1764,8 @@
                 "de": "Ideal, um das Auto trocken abzustellen und die Kirchen zu besuchen.",
                 "hu": "Ideális hely az autó száraz leállításához a templomlátogatás idejére.",
                 "ro": "Ideal pentru a lăsa mașina la uscat în timp ce vizitați bisericile.",
-                "en": "Ideal for keeping the car dry while you visit the indoor churches."
+                "en": "Ideal for keeping the car dry while you visit the indoor churches.",
+                "es": "Ideal para mantener el coche seco mientras visitas las iglesias interiores."
               }
             },
             {
@@ -1647,7 +1774,8 @@
                 "de": "Genießen Sie die Ruhe im Inneren, während das Auto sicher parkt.",
                 "hu": "Élvezze a benti nyugalmat, amíg az autó biztonságban parkol.",
                 "ro": "Bucurați-vă de liniștea din interior în timp ce mașina e parcată sigur.",
-                "en": "Enjoy the peace inside while your car is safely parked nearby."
+                "en": "Enjoy the peace inside while your car is safely parked nearby.",
+                "es": "Disfruta de la tranquilidad en el interior mientras tu coche está aparcado cerca y seguro."
               }
             }
           ],
@@ -1679,6 +1807,13 @@
               "Use covered parking garages to make getting in and out of the car easier.",
               "Keep a towel in the car to dry off after returning from outdoor stops.",
               "Avoid parking under old trees during heavy wind and rain conditions."
+            ],
+            "es": [
+              "Revisa los limpiaparabrisas antes de dirigirte a las ruinas de Bilbilis.",
+              "Las calles del casco antiguo son estrechas y resbaladizas cuando están mojadas; conduce despacio y con cuidado.",
+              "Utiliza aparcamientos cubiertos para facilitar la entrada y salida del coche.",
+              "Ten una toalla en el coche para secarte al volver de las paradas al aire libre.",
+              "Evita aparcar bajo árboles antiguos durante vientos fuertes y lluvia."
             ]
           }
         },
@@ -1687,7 +1822,8 @@
             "de": "Wintertage in Calatayud können frostig sein, daher ist das Auto der ideale Wärmespeicher. Starten Sie früh am Parkplatz von Bilbilis. Die klare Winterluft bietet eine fantastische Sicht auf die Ruinen, und Sie können sich im Auto zwischendurch aufwärmen.\n\nMittags fahren Sie zum Castle Parking. Die Sonne steht tief und taucht die Burg Ayub in ein goldenes Licht. Die kurzen Wege vom Auto zu den Aussichtspunkten machen den Winterbesuch auch bei eisigem Wind angenehm.\n\nAm Nachmittag bietet das zentrale Parkhaus Schutz vor der Kälte. Von dort aus erreichen Sie die Santa María Kirche in wenigen Minuten. Die prachtvolle Mudéjar-Architektur ist ein Highlight, das man am besten ohne Zeitdruck im warmen Inneren genießt.\n\nDie Tour endet, wenn die Sonne früh hinter den Hügeln verschwindet. Dank des Autos sind Sie flexibel und können die Rückreise antreten, sobald die Temperaturen nach Sonnenuntergang rapide sinken.",
             "hu": "A téli napok Calatayudban fagyosak lehetnek, így az autó kiváló menedék. Kezdjen korán a Bilbilis melletti parkolóban. A tiszta téli levegő fantasztikus kilátást nyújt a romokra, az autóban pedig bármikor felmelegedhet.\n\nDélben hajtson a vár alatti parkolóba. Az alacsonyan járó nap arany fénybe vonja az Ayub várat. Az autó és a kilátópontok közötti rövid távolságok miatt a jeges szélben is élvezhető a látogatás.\n\nDélután a központi parkolóházban hagyja az autót, védve a hidegtől. Innen pár perc alatt elérhető a Santa María templom. A mudéjar építészet remekeit a fűtött belső terek közelében a legjobb felfedezni.\n\nA túra a korai naplemente után ér véget. Az autónak köszönhetően rugalmas maradhat, és elindulhat haza, amint a hőmérséklet drasztikusan csökkenni kezd a sötétedéssel.",
             "ro": "Zilele de iarnă în Calatayud pot fi geroase, de aceea mașina este refugiul ideal. Începeți devreme la parcarea Bilbilis. Aerul clar de iarnă oferă o vizibilitate fantastică asupra ruinelor, iar mașina vă permite să vă încălziți rapid.\n\nLa prânz, conduceți spre parcarea castelului. Soarele palid scaldă Castelul Ayub într-o lumină aurie. Distanțele scurte de la mașină la punctele de observație fac vizita plăcută chiar și în vânt înghețat.\n\nDupă-amiaza, parcarea subterană centrală oferă protecție împotriva frigului. De acolo, ajungeți la biserica Santa María în câteva minute. Arhitectura mudéjar este un punct culminant care merită savurat în interior.\n\nTurul se încheie odată cu apusul devreme. Datorită mașinii, sunteți flexibil și puteți porni la drum imediat ce temperaturile scad drastic după lăsarea întunericului.",
-            "en": "Winter days in Calatayud can be frosty, making your car the perfect mobile heater. Start early at the Bilbilis parking lot. The crisp winter air offers fantastic visibility over the ruins, and you can warm up in the car between photo stops.\n\nAt midday, drive to the Castle Parking Area. The low winter sun bathes the Castle of Ayub in golden light. The short walks from the car to the viewpoints make the winter visit enjoyable even when the wind is biting.\n\nIn the afternoon, the central parking garage provides protection from the cold. From there, you can reach Santa María Church in just a few minutes. The magnificent Mudéjar architecture is best enjoyed in the calm interior.\n\nThe tour ends as the sun dips behind the hills early. Thanks to the car, you remain flexible and can head back as soon as the temperature drops rapidly after sunset."
+            "en": "Winter days in Calatayud can be frosty, making your car the perfect mobile heater. Start early at the Bilbilis parking lot. The crisp winter air offers fantastic visibility over the ruins, and you can warm up in the car between photo stops.\n\nAt midday, drive to the Castle Parking Area. The low winter sun bathes the Castle of Ayub in golden light. The short walks from the car to the viewpoints make the winter visit enjoyable even when the wind is biting.\n\nIn the afternoon, the central parking garage provides protection from the cold. From there, you can reach Santa María Church in just a few minutes. The magnificent Mudéjar architecture is best enjoyed in the calm interior.\n\nThe tour ends as the sun dips behind the hills early. Thanks to the car, you remain flexible and can head back as soon as the temperature drops rapidly after sunset.",
+            "es": "Los días de invierno en Calatayud pueden ser helados; tu coche es un excelente refugio térmico. Comienza pronto en el aparcamiento de Bilbilis. El aire frío de la mañana ofrece una visibilidad fantástica sobre las ruinas y puedes calentarte en el coche entre las paradas para fotos.\n\nAl mediodía, conduce hasta la zona de aparcamiento del Castillo. El sol bajo de invierno baña el Castillo de Ayub con una luz dorada. Las cortas caminatas desde el coche hasta los miradores hacen la visita agradable aun cuando el viento pique.\n\nPor la tarde, el aparcamiento central protege del frío. Desde allí puedes llegar a la iglesia de Santa María en pocos minutos. La magnífica arquitectura mudéjar se disfruta mejor en el silencio del interior.\n\nLa ruta termina cuando el sol se oculta temprano tras las colinas. Gracias al coche, mantienes la flexibilidad para volver en cuanto la temperatura caiga rápidamente al ponerse el sol."
           },
           "stops": [
             {
@@ -1696,7 +1832,8 @@
                 "de": "Vorsicht vor gefrorenem Boden am Morgen; Glättegefahr beim Parken.",
                 "hu": "Vigyázzon a reggeli fagyott talajjal; csúszásveszély parkoláskor.",
                 "ro": "Atenție la solul înghețat dimineața; risc de derapare la parcare.",
-                "en": "Watch out for frozen ground in the morning; risk of slipping while parking."
+                "en": "Watch out for frozen ground in the morning; risk of slipping while parking.",
+                "es": "Cuidado con el suelo helado por la mañana; existe riesgo de resbalar al aparcar."
               }
             },
             {
@@ -1705,7 +1842,8 @@
                 "de": "Nutzen Sie das Auto als Windschutz für Pausen während der Erkundung.",
                 "hu": "Használja az autót szélfogóként a romok felfedezése közbeni szünetekben.",
                 "ro": "Folosiți mașina ca paravan împotriva vântului în timpul pauzelor.",
-                "en": "Use the car as a windbreak for breaks during your exploration of the site."
+                "en": "Use the car as a windbreak for breaks during your exploration of the site.",
+                "es": "Usa el coche como cortavientos durante los descansos en tu exploración del yacimiento."
               }
             },
             {
@@ -1714,7 +1852,8 @@
                 "de": "Lassen Sie den Motor nicht unnötig laufen; die Aussicht ist auch so schön.",
                 "hu": "Ne járassa feleslegesen a motort; a kilátás álló helyzetben is szép.",
                 "ro": "Nu lăsați motorul pornit inutil; vederea este frumoasă și de pe loc.",
-                "en": "Don't leave the engine idling unnecessarily; the view is great regardless."
+                "en": "Don't leave the engine idling unnecessarily; the view is great regardless.",
+                "es": "No dejes el motor en marcha innecesariamente; las vistas son igual de buenas sin ello."
               }
             },
             {
@@ -1723,7 +1862,8 @@
                 "de": "Die Burgmauern sind im Winter oft mit Reif bedeckt; Vorsicht beim Gehen.",
                 "hu": "A várfalakat télen gyakran zúzmara borítja; óvatosan járjon a köveken.",
                 "ro": "Zidurile castelului sunt adesea acoperite de chiciură; atenție la mers.",
-                "en": "Castle walls are often covered in frost in winter; be careful while walking."
+                "en": "Castle walls are often covered in frost in winter; be careful while walking.",
+                "es": "Los muros del castillo suelen cubrirse de escarcha en invierno; ten cuidado al caminar."
               }
             },
             {
@@ -1732,7 +1872,8 @@
                 "de": "Die Temperatur im Parkhaus ist meist angenehmer als auf der Straße.",
                 "hu": "A parkolóház hőmérséklete általában kellemesebb, mint az utcán.",
                 "ro": "Temperatura în garaj este de obicei mai blândă decât pe stradă.",
-                "en": "The garage temperature is usually more pleasant than on the street."
+                "en": "The garage temperature is usually more pleasant than on the street.",
+                "es": "La temperatura del garaje suele ser más agradable que en la calle."
               }
             },
             {
@@ -1741,7 +1882,8 @@
                 "de": "Die Kirche bietet eine gute Gelegenheit, sich vor der Rückfahrt aufzuwärmen.",
                 "hu": "A templom jó lehetőség a felmelegedésre a hazaút előtt.",
                 "ro": "Biserica oferă o oportunitate bună de încălzire înainte de drumul de întoarcere.",
-                "en": "The church provides a good chance to warm up before your drive back."
+                "en": "The church provides a good chance to warm up before your drive back.",
+                "es": "La iglesia ofrece una buena oportunidad para calentarte antes de volver en coche."
               }
             }
           ],
@@ -1773,6 +1915,13 @@
               "The low sun can be blinding; keep your sunglasses handy for driving.",
               "Schedule the drive to Bilbilis for midday to benefit from the highest temperatures.",
               "Watch out for icy patches on bridges when temperatures are near freezing."
+            ],
+            "es": [
+              "Revisa el nivel de anticongelante antes de viajar a la región de Aragón.",
+              "Un raspador de hielo es imprescindible para las salidas tempranas en Calatayud.",
+              "El sol bajo puede deslumbrar; ten a mano tus gafas de sol para conducir.",
+              "Programa la visita a Bilbilis al mediodía para aprovechar las temperaturas más altas.",
+              "Cuidado con placas de hielo en los puentes cuando las temperaturas están cerca de cero."
             ]
           }
         }
@@ -1791,7 +1940,8 @@
             "de": "Plaza de España",
             "hu": "Plaza de España",
             "ro": "Plaza de España",
-            "en": "Plaza de España"
+            "en": "Plaza de España",
+            "es": "Plaza de España"
           },
           "coords": [
             -1.639,
@@ -1807,7 +1957,8 @@
             "de": "Der zentrale Knotenpunkt, von dem aus viele Buslinien starten.",
             "hu": "A központi csomópont, ahonnan sok buszjárat indul.",
             "ro": "Nodul central de unde pleacă multe linii de autobuz.",
-            "en": "The central hub from where many bus lines start."
+            "en": "The central hub from where many bus lines start.",
+            "es": "El núcleo central desde donde salen muchas líneas de autobús."
           }
         },
         {
@@ -1815,7 +1966,8 @@
             "de": "Stiftskirche Santa María",
             "hu": "Santa María társkáptalani templom",
             "ro": "Colegiata Santa María",
-            "en": "Collegiate Church of Santa María"
+            "en": "Collegiate Church of Santa María",
+            "es": "Colegiata de Santa María"
           },
           "coords": [
             -1.642,
@@ -1831,7 +1983,8 @@
             "de": "Ein kurzer Spaziergang vom Hauptplatz entfernt.",
             "hu": "Egy rövid séta a főtértől.",
             "ro": "O scurtă plimbare de la piața principală.",
-            "en": "A short walk from the main square."
+            "en": "A short walk from the main square.",
+            "es": "A poca distancia a pie desde la plaza principal."
           }
         },
         {
@@ -1839,7 +1992,8 @@
             "de": "Kirche San Pedro de los Francos",
             "hu": "San Pedro de los Francos templom",
             "ro": "Biserica San Pedro de los Francos",
-            "en": "Church of San Pedro de los Francos"
+            "en": "Church of San Pedro de los Francos",
+            "es": "Iglesia de San Pedro de los Francos"
           },
           "coords": [
             -1.641,
@@ -1855,7 +2009,8 @@
             "de": "Bewundern Sie das gotische Portal, bevor Sie weitergehen.",
             "hu": "Csodálja meg a gótikus portált, mielőtt továbbmegy.",
             "ro": "Admirați portalul gotic înainte de a merge mai departe.",
-            "en": "Admire the Gothic portal before moving on."
+            "en": "Admire the Gothic portal before moving on.",
+            "es": "Admira el pórtico gótico antes de continuar."
           }
         },
         {
@@ -1863,7 +2018,8 @@
             "de": "Bushaltestelle am Schloss",
             "hu": "Buszmegálló a várnál",
             "ro": "Stația de autobuz de la castel",
-            "en": "Bus Stop near Castle"
+            "en": "Bus Stop near Castle",
+            "es": "Parada de bus cerca del Castillo"
           },
           "coords": [
             -1.643,
@@ -1879,7 +2035,8 @@
             "de": "Nehmen Sie einen lokalen Bus, um den steilen Aufstieg zu vermeiden.",
             "hu": "Vegyen igénybe egy helyi buszt a meredek emelkedő elkerülése érdekében.",
             "ro": "Luați un autobuz local pentru a evita urcușul abrupt.",
-            "en": "Take a local bus to avoid the steep part of the climb."
+            "en": "Take a local bus to avoid the steep part of the climb.",
+            "es": "Toma un autobús local para evitar la parte más empinada de la subida."
           }
         },
         {
@@ -1887,7 +2044,8 @@
             "de": "Burg von Ayub",
             "hu": "Ayub vára",
             "ro": "Castelul Ayub",
-            "en": "Castle of Ayub"
+            "en": "Castle of Ayub",
+            "es": "Castillo de Ayub"
           },
           "coords": [
             -1.645,
@@ -1903,7 +2061,8 @@
             "de": "Dies ist der beste Aussichtspunkt der Stadt.",
             "hu": "Ez a város legjobb kilátópontja.",
             "ro": "Acesta este cel mai bun punct de belvedere din oraș.",
-            "en": "This is the best viewpoint in the city."
+            "en": "This is the best viewpoint in the city.",
+            "es": "Este es el mejor mirador de la ciudad."
           }
         },
         {
@@ -1911,7 +2070,8 @@
             "de": "Bushaltestelle Bilbilis",
             "hu": "Buszmegálló Bílbilisnél",
             "ro": "Stația de autobuz Bilbilis",
-            "en": "Bilbilis Bus Stop"
+            "en": "Bilbilis Bus Stop",
+            "es": "Parada de autobús Bilbilis"
           },
           "coords": [
             -1.677,
@@ -1927,7 +2087,8 @@
             "de": "Der Bus bringt Sie in die Nähe der Ruinen, aber es ist immer noch ein kurzer Spaziergang.",
             "hu": "A busz a romok közelébe visz, de még mindig egy rövid séta.",
             "ro": "Autobuzul vă va lăsa aproape de ruine, dar mai este o scurtă plimbare.",
-            "en": "The bus will get you close to the ruins, but it's still a short walk."
+            "en": "The bus will get you close to the ruins, but it's still a short walk.",
+            "es": "El autobús te acerca a las ruinas, pero aún queda una pequeña caminata."
           }
         }
       ],
@@ -1935,7 +2096,8 @@
         "de": "Ihre Reise mit öffentlichen Verkehrsmitteln beginnt im Herzen der Stadt, auf der Plaza de España. Der Vormittag ist ein Rundgang durch das historische Zentrum, bei dem Sie die Mudéjar-Kirchen zu Fuß erkunden. Um die Mittagszeit nehmen Sie einen Bus, der Sie den Hügel hinauf in die Nähe der Burg von Ayub bringt und Ihnen Energie für die Erkundung spart. Am Nachmittag bringt Sie ein weiterer Bus zu den antiken römischen Ruinen von Bilbilis, einem Höhepunkt Ihrer historischen Entdeckungsreise.",
         "hu": "Tömegközlekedési utazása a város szívében, a Plaza de Españán kezdődik. A délelőtt egy séta a történelmi központban, gyalogosan felfedezve a mudéjar templomokat. Dél körül busszal jut fel a dombra, az Ayub vár közelébe, energiát spórolva a felfedezéshez. Délután egy másik busz elviszi Önt Bílbilis ókori római romjaihoz, a történelmi felfedezőút csúcspontjához.",
         "ro": "Călătoria dvs. cu transportul public începe în inima orașului, Plaza de España. Dimineața este un tur pietonal al centrului istoric, explorând bisericile mudejar pe jos. La prânz, un autobuz vă duce pe deal, aproape de Castelul Ayub, economisindu-vă energia pentru explorare. După-amiaza, un alt autobuz vă transportă la ruinele romane antice din Bilbilis, un punct culminant al descoperirii dvs. istorice.",
-        "en": "Your public transport journey starts in the city's heart, Plaza de España. The morning is a walking tour of the historic center, exploring the Mudéjar churches on foot. Around noon, a bus takes you up the hill near the Castle of Ayub, saving your energy for exploration. In the afternoon, another bus transports you to the ancient Roman ruins of Bilbilis, a highlight of your historical discovery."
+        "en": "Your public transport journey starts in the city's heart, Plaza de España. The morning is a walking tour of the historic center, exploring the Mudéjar churches on foot. Around noon, a bus takes you up the hill near the Castle of Ayub, saving your energy for exploration. In the afternoon, another bus transports you to the ancient Roman ruins of Bilbilis, a highlight of your historical discovery.",
+        "es": "Tu recorrido en transporte público comienza en el corazón de la ciudad, Plaza de España. Por la mañana hace un paseo a pie por el casco histórico, explorando las iglesias mudéjares. Hacia el mediodía, un autobús te sube por la colina cerca del Castillo de Ayub, ahorrando energía para la exploración. Por la tarde, otro autobús te lleva a las antiguas ruinas romanas de Bilbilis, el punto culminante de tu descubrimiento histórico."
       },
       "gastro_picks": {
         "de": [
@@ -2147,6 +2309,12 @@
           "Check bus schedules in advance, especially for the less frequent routes like the one to Bilbilis.",
           "Have some small change ready for bus tickets.",
           "Be prepared for some walking between the bus stops and the actual sights."
+        ],
+        "es": [
+          "Compra un billete de día si está disponible; suele ser más barato.",
+          "Consulta los horarios de los autobuses con antelación, especialmente en rutas menos frecuentes como la de Bilbilis.",
+          "Ten algo de cambio a mano para los billetes de autobús.",
+          "Prepárate para caminar entre las paradas de autobús y las atracciones."
         ]
       },
       "variants": {
@@ -2155,7 +2323,8 @@
             "de": "Öffentliche Verkehrsmittel in Calatayud sind bei Regen eine gute Wahl, um trocken zwischen den Stadtteilen zu pendeln. Starten Sie an der Plaza de España, wo Cafés unter Arkaden das Warten auf den Bus angenehm machen.\n\nMittags erreichen Sie die großen Kirchen Santa María und San Pedro per Bus. Die kurzen Wege von den Haltestellen minimieren die Zeit im Regen. Die Mudéjar-Architektur wirkt im diffusen Licht der Wolken besonders authentisch.\n\nAm Nachmittag bringt Sie der Bus in die Nähe des Castle of Ayub. Das Warten an der Bushaltestelle bietet Schutz, aber der letzte Anstieg zum Burgberg bleibt eine nasse Angelegenheit. Ein guter Zeitplan ist hier wichtig, um nicht unnötig im Regen zu stehen.\n\nDie Tour endet mit der Busfahrt zu den Ruinen von Bilbilis. Da die Haltestelle etwas entfernt liegt, sollten Sie für das letzte Stück einen festen Schirm einplanen. Die Rückfahrt in die Stadt bietet die Möglichkeit, die nasse Kleidung kurz zu trocknen.",
             "hu": "A közösségi közlekedés Calatayudban esőben jó választás a városrészek közötti száraz közlekedéshez. Kezdjen a Plaza de Españán, ahol az árkádos kávézókban kényelmesen várhatja a buszt.\n\nDélben busszal érheti el a Santa María és San Pedro templomokat. A megállóktól való rövid séta minimalizálja az esőben töltött időt. A mudéjar építészet a szórt fényben különösen hiteles látványt nyújt.\n\nDélután a vár közelébe viszi a busz. A megállóban várakozva védve van, de a várhegyre való feljutás esőben is vizes marad. A menetrend pontos ismerete fontos, hogy ne álljon feleslegesen a csapadékban.\n\nA túra a Bilbilis romjaihoz vezető buszúttal zárul. Mivel a megálló távolabb van, az utolsó szakaszra készüljön stabil esernyővel. A városba való visszatérés lehetőséget ad a vizes ruhák rövid száradására.",
             "ro": "Transportul public în Calatayud este o opțiune bună pe ploaie pentru a naviga între cartiere. Începeți în Plaza de España, unde cafenelele de sub arcade fac așteptarea autobuzului mai plăcută.\n\nLa prânz, ajungeți la bisericile Santa María și San Pedro cu autobuzul. Distanțele scurte de la stații minimizează timpul petrecut în ploaie. Stilul mudéjar arată deosebit de autentic sub cerul înnorat.\n\nDupă-amiaza, autobuzul vă lasă aproape de Castelul Ayub. Stația oferă protecție, dar urcarea finală pe deal rămâne o experiență umedă. Un program bine stabilit este esențial pentru a nu aștepta inutil în ploaie.\n\nVizita se încheie cu drumul spre Bilbilis. Deoarece stația este la o anumită distanță, aveți nevoie de o umbrelă rezistentă pentru ultima porțiune. Drumul de întoarcere în oraș oferă ocazia de a vă usca puțin hainele.",
-            "en": "Public transit in Calatayud is a sensible choice in the rain to move between districts while staying dry. Start at Plaza de España, where arcaded cafes make waiting for your bus quite pleasant.\n\nAt midday, reach the Santa María and San Pedro churches by bus. The short distances from the stops minimize your exposure to the rain. The Mudéjar architecture looks particularly authentic under the diffuse light of the clouds.\n\nIn the afternoon, take a bus near the Castle of Ayub. The bus stop provides some shelter, but the final ascent to the fortress remains a wet climb. Good timing is key to avoid standing in the downpour unnecessarily.\n\nEnd the tour with a bus trip towards the ruins of Bilbilis. As the stop is a bit far from the site, bring a sturdy umbrella for the final stretch. The bus ride back to the city gives you a chance to dry off slightly."
+            "en": "Public transit in Calatayud is a sensible choice in the rain to move between districts while staying dry. Start at Plaza de España, where arcaded cafes make waiting for your bus quite pleasant.\n\nAt midday, reach the Santa María and San Pedro churches by bus. The short distances from the stops minimize your exposure to the rain. The Mudéjar architecture looks particularly authentic under the diffuse light of the clouds.\n\nIn the afternoon, take a bus near the Castle of Ayub. The bus stop provides some shelter, but the final ascent to the fortress remains a wet climb. Good timing is key to avoid standing in the downpour unnecessarily.\n\nEnd the tour with a bus trip towards the ruins of Bilbilis. As the stop is a bit far from the site, bring a sturdy umbrella for the final stretch. The bus ride back to the city gives you a chance to dry off slightly.",
+            "es": "El transporte público en Calatayud es una opción sensata bajo la lluvia para moverse entre barrios manteniéndose seco. Comienza en la Plaza de España, donde las cafeterías con soportales hacen agradable la espera del autobús.\n\nAl mediodía, llega a las iglesias de Santa María y San Pedro en autobús. Las cortas distancias desde las paradas minimizan tu exposición a la lluvia. La arquitectura mudéjar luce especialmente auténtica bajo la luz difusa de las nubes.\n\nPor la tarde, toma un autobús cerca del Castillo de Ayub. La parada ofrece cierto resguardo, pero la subida final a la fortaleza sigue siendo empapada. Un buen sincronismo es clave para evitar esperar bajo el aguacero innecesariamente.\n\nTermina la ruta con un autobús hacia las ruinas de Bilbilis. Como la parada está algo alejada del yacimiento, lleva un paraguas resistente para el tramo final. El viaje de vuelta en autobús te dará ocasión para secarte un poco."
           },
           "stops": [
             {
@@ -2164,7 +2333,8 @@
                 "de": "Warten Sie in den Arkaden, bis der Bus einfährt.",
                 "hu": "Várjon az árkádok alatt, amíg a busz be nem érkezik.",
                 "ro": "Așteptați sub arcade până când vedeți autobuzul sosind.",
-                "en": "Wait under the arcades until you see your bus approaching."
+                "en": "Wait under the arcades until you see your bus approaching.",
+                "es": "Espera bajo los soportales hasta ver acercarse tu autobús."
               }
             },
             {
@@ -2173,7 +2343,8 @@
                 "de": "Die Haltestelle ist nah; rennen Sie bei Schauern zum Eingang.",
                 "hu": "A megálló közel van; zápor esetén fusson a bejáratig.",
                 "ro": "Stația este aproape; alergați spre intrare în caz de aversă.",
-                "en": "The stop is very close; make a quick dash to the entrance if it rains."
+                "en": "The stop is very close; make a quick dash to the entrance if it rains.",
+                "es": "La parada está muy cerca; corre rápido hacia la entrada si llueve."
               }
             },
             {
@@ -2182,7 +2353,8 @@
                 "de": "Prüfen Sie den Rückfahrplan digital, um Wartezeiten im Freien zu vermeiden.",
                 "hu": "Ellenőrizze a menetrendet digitálisan, hogy ne kelljen kint várnia.",
                 "ro": "Verificați programul online pentru a evita așteptarea în ploaie.",
-                "en": "Check the schedule online to avoid waiting outside in the wet."
+                "en": "Check the schedule online to avoid waiting outside in the wet.",
+                "es": "Consulta el horario online para evitar esperar fuera con lluvia."
               }
             },
             {
@@ -2191,7 +2363,8 @@
                 "de": "Bietet ein kleines Dach; bleiben Sie während der Schauer hier.",
                 "hu": "Kis tetővel rendelkezik; maradjon itt a leghevesebb eső alatt.",
                 "ro": "Are un mic acoperiș; rămâneți aici în timpul ploii torențiale.",
-                "en": "Has a small roof; stay here during the heaviest parts of the downpour."
+                "en": "Has a small roof; stay here during the heaviest parts of the downpour.",
+                "es": "Tiene un pequeño techo; quédate aquí durante las partes más intensas del aguacero."
               }
             },
             {
@@ -2200,7 +2373,8 @@
                 "de": "Der Fußweg von der Haltestelle ist steil und kann rutschig sein.",
                 "hu": "A gyalogút a megállótól meredek és csúszós lehet.",
                 "ro": "Drumul de la stație este abrupt și poate fi alunecos.",
-                "en": "The walk from the bus stop is steep and can be slippery when wet."
+                "en": "The walk from the bus stop is steep and can be slippery when wet.",
+                "es": "La caminata desde la parada es empinada y puede estar resbaladiza cuando está mojada."
               }
             },
             {
@@ -2209,7 +2383,8 @@
                 "de": "Verlassen Sie den Bus erst, wenn der Regen etwas nachlässt.",
                 "hu": "Csak akkor szálljon le a buszról, ha az eső alábbhagy.",
                 "ro": "Coborâți din autobuz doar când ploaia se mai potolește.",
-                "en": "Only get off the bus when the rain lets up a little bit."
+                "en": "Only get off the bus when the rain lets up a little bit.",
+                "es": "Bájate del autobús solo cuando la lluvia afloje un poco."
               }
             }
           ],
@@ -2241,6 +2416,13 @@
               "Wear waterproof clothing; buses can get quite crowded on rainy days.",
               "Use the waiting time at stops for quick cafe visits nearby.",
               "The bus to Bilbilis runs less frequently; plan your return trip carefully."
+            ],
+            "es": [
+              "Descarga la app de transporte local para información de horarios en tiempo real.",
+              "Ten el cambio o el billete listo para agilizar el embarque durante un aguacero.",
+              "Lleva ropa impermeable; los autobuses pueden llenarse mucho en días de lluvia.",
+              "Aprovecha el tiempo de espera en las paradas para visitar cafés cercanos.",
+              "El autobús a Bilbilis pasa con menos frecuencia; planifica bien tu regreso."
             ]
           }
         },
@@ -2249,7 +2431,8 @@
             "de": "Die Nutzung öffentlicher Verkehrsmittel in Calatayud im Winter ist eine kluge Strategie, um der eisigen Brise zu entkommen. Starten Sie an der Plaza de España, wo Sie in den umliegenden Geschäften bis zur Abfahrt im Warmen bleiben können.\n\nMittags bringen Sie die Busse zuverlässig zu den mudéjarischen Sehenswürdigkeiten. In den beheizten Fahrzeugen können Sie die Kälte der Gassen kurz vergessen. Die klare Wintersonne lässt die Backsteinbauten der Kirchen in einem besonderen Glanz erstrahlen.\n\nAm Nachmittag führt die Fahrt zum Castle of Ayub. Die Haltestelle bietet Schutz vor dem kalten Wind, aber der Aufstieg zum Gipfel erfordert gute Winterkleidung. Die Fernsicht auf die gefrorenen Landschaften ist in der klaren Luft atemberaubend.\n\nBeenden Sie die Tour mit dem Bus nach Bilbilis. Achten Sie auf den Fahrplan, da die Frequenz im Winter reduziert sein kann. Kehren Sie vor Sonnenuntergang (17:30) zur Haltestelle zurück, um die frostige Abenddämmerung im Bus zu verbringen.",
             "hu": "A közösségi közlekedés Calatayudban télen okos stratégia a fagyos szél elkerülésére. Kezdjen a Plaza de Españán, ahol a közeli üzletekben melegedhet a busz indulásáig.\n\nDélben a buszok megbízhatóan viszik a mudéjar látnivalókhoz. A fűtött járműveken rövid időre elfelejtheti az utcák hidegét. A tiszta téli napsütésben a templomok téglafalai különleges fényben tündökölnek.\n\nDélután a vár felé veheti az irányt. A megálló védelmet nyújt a hideg szél ellen, de a várhegyre való feljutáshoz jó téli ruházat kell. A fagyos táj látványa a tiszta levegőben lenyűgöző.\n\nA túrát a Bilbilis felé tartó busszal zárjuk. Ügyeljen a menetrendre, mert télen ritkábbak lehetnek a járatok. Térjen vissza a megállóba naplemente (17:30) előtt, hogy az esti fagyot már a buszon töltse.",
             "ro": "Utilizarea transportului public în Calatayud iarna este o strategie inteligentă pentru a scăpa de briza înghețată. Începeți în Plaza de España, unde puteți sta la căldură în magazinele din jur până la sosirea autobuzului.\n\nLa prânz, autobuzele vă transportă eficient spre obiectivele mudéjar. În vehiculele încălzite puteți uita pentru scurt timp de frigul de pe străzi. Soarele clar de iarnă pune într-o lumină specială cărămizile bisericilor.\n\nDupă-amiaza, călătoriți spre Castelul Ayub. Stația oferă protecție împotriva vântului rece, dar urcarea pe deal necesită haine groase de iarnă. Vederea spre peisajele înghețate este spectaculoasă în aerul curat.\n\nÎncheiați vizita cu autobuzul spre Bilbilis. Atenție la program, frecvența curselor poate fi redusă iarna. Reveniți la stație înainte de apus (17:30) pentru a petrece amurgul geroas în interiorul autobuzului.",
-            "en": "Using public transit in Calatayud during winter is a smart strategy to escape the icy breeze. Start at Plaza de España, where you can stay warm in the surrounding shops until your bus arrives.\n\nAt midday, buses reliably transport you to the Mudéjar landmarks. Inside the heated vehicles, you can briefly forget the chill of the narrow streets. The clear winter sun makes the brickwork of the churches shine with a special glow.\n\nIn the afternoon, head towards the Castle of Ayub. The bus stop provides shelter from the cold wind, but the climb to the summit requires proper winter gear. The panoramic views of the frozen landscapes are breathtaking in the crisp air.\n\nFinish your tour with a bus trip to the ruins of Bilbilis. Keep an eye on the schedule, as frequency might be reduced in winter. Return to the stop before sunset (5:30 PM) to spend the freezing dusk inside the warmth of the bus."
+            "en": "Using public transit in Calatayud during winter is a smart strategy to escape the icy breeze. Start at Plaza de España, where you can stay warm in the surrounding shops until your bus arrives.\n\nAt midday, buses reliably transport you to the Mudéjar landmarks. Inside the heated vehicles, you can briefly forget the chill of the narrow streets. The clear winter sun makes the brickwork of the churches shine with a special glow.\n\nIn the afternoon, head towards the Castle of Ayub. The bus stop provides shelter from the cold wind, but the climb to the summit requires proper winter gear. The panoramic views of the frozen landscapes are breathtaking in the crisp air.\n\nFinish your tour with a bus trip to the ruins of Bilbilis. Keep an eye on the schedule, as frequency might be reduced in winter. Return to the stop before sunset (5:30 PM) to spend the freezing dusk inside the warmth of the bus.",
+            "es": "Usar el transporte público en Calatayud durante el invierno es una estrategia inteligente para escapar de la brisa helada. Comienza en la Plaza de España, donde puedes calentarte en las tiendas hasta que llegue el autobús.\n\nAl mediodía, los autobuses te llevan con fiabilidad a los hitos mudéjares. Dentro de los vehículos calefactados puedes olvidar brevemente el frío de las calles estrechas. El sol claro de invierno hace que los ladrillos de las iglesias brillen con un brillo especial.\n\nPor la tarde, dirígete al Castillo de Ayub. La parada protege del viento frío, pero la subida a la cumbre requiere equipo invernal adecuado. Las vistas panorámicas del paisaje helado son sobrecogedoras con el aire tan nítido.\n\nTermina la ruta en autobús hacia las ruinas de Bilbilis. Vigila los horarios, ya que la frecuencia puede reducirse en invierno. Vuelve a la parada antes del atardecer (17:30) para pasar el crepúsculo helado dentro del autobús caliente."
           },
           "stops": [
             {
@@ -2258,7 +2441,8 @@
                 "de": "Nutzen Sie die Zeit für einen schnellen Kaffee zum Aufwärmen.",
                 "hu": "Használja ki az időt egy gyors felmelegítő kávéra.",
                 "ro": "Folosiți timpul pentru o cafea rapidă ca să vă încălziți.",
-                "en": "Use the waiting time to grab a quick coffee and warm up."
+                "en": "Use the waiting time to grab a quick coffee and warm up.",
+                "es": "Aprovecha la espera para tomar un café rápido y entrar en calor."
               }
             },
             {
@@ -2267,7 +2451,8 @@
                 "de": "Die dicken Mauern sind kälter als der beheizte Bus; Jacke anlassen.",
                 "hu": "A vastag falak hidegebbek, mint a fűtött busz; hagyja magán a kabátot.",
                 "ro": "Zidurile groase sunt mai reci decât autobuzul; păstrați haina pe dvs.",
-                "en": "The thick walls are colder than the heated bus; keep your coat on."
+                "en": "The thick walls are colder than the heated bus; keep your coat on.",
+                "es": "Los muros gruesos son más fríos que el autobús calefactado; mantén el abrigo puesto."
               }
             },
             {
@@ -2276,7 +2461,8 @@
                 "de": "Nahegelegene Cafés bieten eine gute Aufwärmpause nach dem Besuch.",
                 "hu": "A közeli kávézók jó lehetőséget adnak a melegedésre a látogatás után.",
                 "ro": "Cafenelele din apropiere oferă o pauză bună de încălzire după vizită.",
-                "en": "Nearby cafes offer a great warm-up break after your visit."
+                "en": "Nearby cafes offer a great warm-up break after your visit.",
+                "es": "Los cafés cercanos son un excelente lugar para calentarse tras la visita."
               }
             },
             {
@@ -2285,7 +2471,8 @@
                 "de": "Oft windig; suchen Sie den windgeschütztesten Winkel am Wartehäuschen.",
                 "hu": "Gyakran szeles; keresse a legvédettebb sarkot a váróban.",
                 "ro": "Adesea vântos; căutați colțul cel mai ferit din stație.",
-                "en": "Often windy; find the most sheltered corner of the bus shelter."
+                "en": "Often windy; find the most sheltered corner of the bus shelter.",
+                "es": "A menudo hace viento; busca la esquina más resguardada de la marquesina."
               }
             },
             {
@@ -2294,7 +2481,8 @@
                 "de": "Gehen Sie stramm, um die Körperwärme auf dem Weg nach oben zu halten.",
                 "hu": "Gyalogoljon tempósan, hogy megőrizze testhőjét a felfelé vezető úton.",
                 "ro": "Mergeți vioi pentru a menține căldura corpului pe drumul spre culme.",
-                "en": "Walk briskly to maintain your body heat on the way up the hill."
+                "en": "Walk briskly to maintain your body heat on the way up the hill.",
+                "es": "Camina con paso ligero para mantener el calor corporal en la subida."
               }
             },
             {
@@ -2303,7 +2491,8 @@
                 "de": "Letzter Bus fährt oft pünktlich zum Sonnenuntergang; nicht verpassen.",
                 "hu": "Az utolsó busz gyakran pontosan naplementekor indul; ne késse le.",
                 "ro": "Ultimul autobuz pleacă adesea fix la apus; nu îl ratați.",
-                "en": "The last bus often departs right at sunset; make sure not to miss it."
+                "en": "The last bus often departs right at sunset; make sure not to miss it.",
+                "es": "El último autobús suele salir justo al atardecer; procura no perdértelo."
               }
             }
           ],
@@ -2335,6 +2524,13 @@
               "Transit schedules may vary during winter holidays; check in advance.",
               "Bring a thermos mug with a hot drink to enjoy during the bus rides.",
               "Prefer bus stops that feature enclosed shelters to stay out of the wind."
+            ],
+            "es": [
+              "Lleva calcetines gordos; esperar en pavimentos fríos enfría los pies rápido.",
+              "Aprovecha los autobuses calefactados para mantener cálidas las baterías de tu cámara o móvil.",
+              "Los horarios pueden variar durante las vacaciones de invierno; consulta con antelación.",
+              "Lleva un termo con bebida caliente para disfrutar durante los trayectos en autobús.",
+              "Prefiere paradas con marquesinas cerradas para resguardarte del viento."
             ]
           }
         }

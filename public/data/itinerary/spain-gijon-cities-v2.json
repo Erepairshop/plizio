@@ -32,7 +32,8 @@
             "de": "Verlaufen Sie sich in den engen Gassen dieses ehemaligen Fischerviertels.",
             "hu": "Tévedjen el az egykori halásznegyed szűk utcácskáiban.",
             "ro": "Pierde-te pe străduțele înguste ale acestui fost cartier de pescari.",
-            "en": "Get lost in the narrow streets of this former fishermen's quarter."
+            "en": "Get lost in the narrow streets of this former fishermen's quarter.",
+            "es": "Piérdete por las estrechas calles de este antiguo barrio de pescadores."
           }
         },
         {
@@ -51,7 +52,8 @@
             "de": "Bewundern Sie die gut erhaltenen römischen Bäder direkt am Meer.",
             "hu": "Csodálja meg a jó állapotban fennmaradt tengerparti római fürdőket.",
             "ro": "Admiră băile romane bine conservate, chiar pe malul mării.",
-            "en": "Admire the well-preserved Roman baths right by the sea."
+            "en": "Admire the well-preserved Roman baths right by the sea.",
+            "es": "Admira las bien conservadas termas romanas junto al mar."
           }
         },
         {
@@ -70,7 +72,8 @@
             "de": "Stellen Sie sich in die Mitte der Skulptur, um das Rauschen des Meeres zu hören.",
             "hu": "Álljon a szobor közepébe, hogy hallja a tenger zúgását.",
             "ro": "Stai în mijlocul sculpturii pentru a auzi sunetul mării.",
-            "en": "Stand in the middle of the sculpture to hear the sound of the sea."
+            "en": "Stand in the middle of the sculpture to hear the sound of the sea.",
+            "es": "Párate en el centro de la escultura para escuchar el sonido del mar."
           }
         },
         {
@@ -89,7 +92,8 @@
             "de": "Perfekt für einen langen Strandspaziergang und ein Mittagessen mit Meerblick.",
             "hu": "Tökéletes egy hosszú tengerparti sétához és egy tengerre néző ebédhez.",
             "ro": "Perfect pentru o plimbare lungă pe plajă și un prânz cu vedere la mare.",
-            "en": "Perfect for a long beach walk and a seaside lunch."
+            "en": "Perfect for a long beach walk and a seaside lunch.",
+            "es": "Perfecto para un largo paseo por la playa y un almuerzo junto al mar."
           }
         },
         {
@@ -108,7 +112,8 @@
             "de": "Entdecken Sie die kantabrische und tropische Unterwasserwelt.",
             "hu": "Fedezze fel a kantábriai és a trópusi tengeri élővilágot.",
             "ro": "Descoperă viața marină cantabrică și tropicală.",
-            "en": "Discover the Cantabrian and tropical marine life."
+            "en": "Discover the Cantabrian and tropical marine life.",
+            "es": "Descubre la vida marina cantábrica y tropical."
           }
         }
       ],
@@ -116,7 +121,8 @@
         "de": "Der Vormittag gehört dem historischen Charme von Cimavilla und den antiken römischen Bädern, die uns in die Vergangenheit zurückversetzen. Mittags lassen wir uns am goldenen Sandstrand von San Lorenzo den Wind um die Nase wehen, wo wir auch lokale Spezialitäten kosten können. Der Nachmittag rundet das Erlebnis mit einem Besuch im modernen Aquarium ab, das einen faszinierenden Einblick in die Meereswelt bietet.",
         "hu": "A délelőtt Cimavilla történelmi bájáé és az ókori római fürdőké, amelyek visszarepítenek az időben. Délben a San Lorenzo aranyhomokos partján élvezzük a tengeri levegőt, ahol megkóstolhatjuk a helyi ízeket is. A délutánt a modern akvárium koronázza meg, amely lenyűgöző bepillantást enged a víz alatti világba.",
         "ro": "Dimineața este dedicată farmecului istoric al Cimavilla și băilor romane antice, care ne întorc în timp. La prânz, ne bucurăm de briza mării pe nisipul auriu de la San Lorenzo, unde putem savura și arome locale. După-amiaza se încheie cu o vizită la acvariul modern, oferind o perspectivă fascinantă asupra vieții marine.",
-        "en": "The morning belongs to the historical charm of Cimavilla and the ancient Roman baths, taking us back in time. At noon, we enjoy the sea breeze on the golden sands of San Lorenzo, where we can also taste local flavors. The afternoon is crowned by a visit to the modern aquarium, offering a fascinating glimpse into the marine world."
+        "en": "The morning belongs to the historical charm of Cimavilla and the ancient Roman baths, taking us back in time. At noon, we enjoy the sea breeze on the golden sands of San Lorenzo, where we can also taste local flavors. The afternoon is crowned by a visit to the modern aquarium, offering a fascinating glimpse into the marine world.",
+        "es": "La mañana pertenece al encanto histórico de Cimavilla y las antiguas termas romanas, que nos transportan en el tiempo. Al mediodía disfrutamos de la brisa en las doradas arenas de San Lorenzo, donde también podemos probar sabores locales. La tarde culmina con una visita al moderno acuario, que ofrece una visión fascinante del mundo marino."
       },
       "gastro_picks": {
         "de": [
@@ -240,6 +246,12 @@
           "The old town features cobblestone streets, making comfortable shoes a must.",
           "Lunch is typically served here only after 2:00 PM.",
           "Watch how the waiter skillfully pours the cider from up high in the sidrerías."
+        ],
+        "es": [
+          "El clima costero puede cambiar rápidamente, así que lleva una chaqueta ligera.",
+          "El casco antiguo tiene calles empedradas; usa calzado cómodo.",
+          "Aquí el almuerzo suele servirse solo después de las 14:00.",
+          "Fíjate cómo el camarero vierte la sidra desde lo alto en las sidrerías."
         ]
       },
       "variants": {
@@ -248,7 +260,8 @@
             "de": "Morgens bieten die Gassen von Cimavilla Schutz vor dem Wind. Mittags sind die Termas Romanas ein perfektes trockenes Ziel. Nachmittags beobachten wir den Regen an der Playa de San Lorenzo von einem Café aus. Der Tag endet im warmen und trockenen Aquarium am Hafen.",
             "hu": "Reggel Cimavilla sikátorai védenek az északi széltől. Délben a római fürdők múzeuma nyújt fedett menedéket. Délután a San Lorenzo strand hullámait egy hangulatos parti kávézóból nézzük, majd a napot a teljesen fedett Akváriumban zárjuk.",
             "ro": "Dimineața, străzile din Cimavilla oferă protecție împotriva vântului. La prânz, Termas Romanas sunt o destinație perfectă și uscată. După-amiaza privim ploaia pe Playa de San Lorenzo dintr-o cafenea, iar ziua se încheie la Acvariul călduros de lângă port.",
-            "en": "Morning in Cimavilla's alleys provides shelter from the Atlantic wind. At noon, the Roman Baths offer a perfect indoor escape. In the afternoon, watch the rain over San Lorenzo beach from a beachfront café, then finish the day dry at the Aquarium."
+            "en": "Morning in Cimavilla's alleys provides shelter from the Atlantic wind. At noon, the Roman Baths offer a perfect indoor escape. In the afternoon, watch the rain over San Lorenzo beach from a beachfront café, then finish the day dry at the Aquarium.",
+            "es": "La mañana en los callejones de Cimavilla proporciona refugio del viento atlántico. Al mediodía, las Termas Romanas ofrecen una perfecta escapada interior. Por la tarde, contempla la lluvia sobre la playa de San Lorenzo desde un café frente al mar y termina el día a resguardo en el Acuario."
           },
           "stops": [
             {
@@ -257,7 +270,8 @@
                 "de": "Viele Sidrerías zum Unterstellen.",
                 "hu": "Sok szidréria kínál menedéket.",
                 "ro": "Multe sidrerías pentru adăpost.",
-                "en": "Many sidrerías available for shelter."
+                "en": "Many sidrerías available for shelter.",
+                "es": "Muchas sidrerías disponibles como refugio."
               }
             },
             {
@@ -266,7 +280,8 @@
                 "de": "Idealer Ort, um trocken zu bleiben.",
                 "hu": "Ideális helyszín a szárazon maradáshoz.",
                 "ro": "Locul ideal pentru a rămâne uscat.",
-                "en": "Ideal spot to stay dry indoors."
+                "en": "Ideal spot to stay dry indoors.",
+                "es": "Lugar ideal para mantenerse seco en interior."
               }
             },
             {
@@ -275,7 +290,8 @@
                 "de": "Stürmisch, fester Regenschirm nötig.",
                 "hu": "Szeles, erős esernyőre lesz szükség.",
                 "ro": "Vânt puternic, necesită umbrelă solidă.",
-                "en": "Stormy, needs a sturdy umbrella."
+                "en": "Stormy, needs a sturdy umbrella.",
+                "es": "Tormentoso, requiere un paraguas resistente al viento."
               }
             },
             {
@@ -284,7 +300,8 @@
                 "de": "Spaziergang auf dem gepflasterten Wall.",
                 "hu": "Sétáljon a kövezett gáton (Muro).",
                 "ro": "Plimbare pe faleza pavată.",
-                "en": "Walk on the paved wall (El Muro)."
+                "en": "Walk on the paved wall (El Muro).",
+                "es": "Pasea por el muro pavimentado (El Muro)."
               }
             },
             {
@@ -293,7 +310,8 @@
                 "de": "Bester Fluchtpunkt bei Dauerregen.",
                 "hu": "Legjobb menekülőút tartós esőben.",
                 "ro": "Cea mai bună evadare pe ploaie.",
-                "en": "Best escape during continuous rain."
+                "en": "Best escape during continuous rain.",
+                "es": "Mejor escape durante lluvia continua."
               }
             }
           ],
@@ -321,6 +339,12 @@
               "Cimavilla's cobblestones can be slippery when wet.",
               "Sidrerías are the best places to wait out showers comfortably.",
               "Bus line 1 provides a quick link between the port and city center."
+            ],
+            "es": [
+              "Asturias es lluviosa; un paraguas cortaviento es imprescindible.",
+              "Los empedrados de Cimavilla pueden resbalar con humedad.",
+              "Las sidrerías son los mejores lugares para esperar los chubascos con comodidad.",
+              "La línea de autobús 1 ofrece un enlace rápido entre el puerto y el centro."
             ]
           }
         },
@@ -329,7 +353,8 @@
             "de": "Der kühle Morgen in Cimavilla belebt den Geist. Mittags wärmen wir uns in der unterirdischen Ausgrabung der Thermen. Nachmittags genießen wir das klare Winterlicht am Elogio del Horizonte. Den frühen Sonnenuntergang erleben wir gemütlich im Aquarium.",
             "hu": "A hűvös reggel Cimavillában felfrissíti a lelket. Délben a római fürdők föld alatti termeiben melegszünk fel. Délután a tiszta téli fényeket élvezzük a dombtetőn, majd a korai naplementét az Akváriumból csodáljuk.",
             "ro": "Dimineața răcoroasă în Cimavilla revigorează spiritul. La prânz ne încălzim în camerele subterane ale termelor. După-amiaza ne bucurăm de lumina clară de iarnă la monument, iar apusul timpuriu îl vedem de la Acvariu.",
-            "en": "The crisp winter morning in Cimavilla is invigorating. At noon, warm up inside the underground Roman Baths. In the afternoon, enjoy the clear winter light at the hilltop monument, then watch the early sunset from the cozy Aquarium."
+            "en": "The crisp winter morning in Cimavilla is invigorating. At noon, warm up inside the underground Roman Baths. In the afternoon, enjoy the clear winter light at the hilltop monument, then watch the early sunset from the cozy Aquarium.",
+            "es": "La fresca mañana de invierno en Cimavilla es vigorizante. Al mediodía cáldate en las Termas Romanas subterráneas. Por la tarde disfruta de la luz invernal clara en el monumento de la cima y luego contempla la puesta de sol temprana desde el acogedor Acuario."
           },
           "stops": [
             {
@@ -338,7 +363,8 @@
                 "de": "Warme Kleidung gegen den Seewind.",
                 "hu": "Meleg ruha kell a tengeri szél ellen.",
                 "ro": "Haine groase contra vântului marin.",
-                "en": "Warm clothes needed against sea breeze."
+                "en": "Warm clothes needed against sea breeze.",
+                "es": "Ropa abrigada necesaria contra la brisa marina."
               }
             },
             {
@@ -347,7 +373,8 @@
                 "de": "Konstant milde Temperatur drinnen.",
                 "hu": "Odabent állandó, kellemes hőmérséklet.",
                 "ro": "Temperatură constantă și blândă în interior.",
-                "en": "Constantly mild temperature inside."
+                "en": "Constantly mild temperature inside.",
+                "es": "Temperatura constantemente templada en el interior."
               }
             },
             {
@@ -356,7 +383,8 @@
                 "de": "Fantastisches Licht für Winterfotos.",
                 "hu": "Fantasztikus fények téli fotókhoz.",
                 "ro": "Lumină fantastică pentru poze de iarnă.",
-                "en": "Fantastic light for winter photos."
+                "en": "Fantastic light for winter photos.",
+                "es": "Luz fantástica para fotos de invierno."
               }
             },
             {
@@ -365,7 +393,8 @@
                 "de": "Beeindruckende Winterwellen beobachten.",
                 "hu": "Nézze meg az impozáns téli hullámokat.",
                 "ro": "Observați valurile impresionante de iarnă.",
-                "en": "Watch the impressive winter waves."
+                "en": "Watch the impressive winter waves.",
+                "es": "Observa las impresionantes olas invernales."
               }
             },
             {
@@ -374,7 +403,8 @@
                 "de": "Perfekt für den frühen Abend (17:30).",
                 "hu": "Tökéletes a korai sötétedéshez (17:30).",
                 "ro": "Perfect pentru înserarea timpurie (17:30).",
-                "en": "Perfect for the early sunset (17:30)."
+                "en": "Perfect for the early sunset (17:30).",
+                "es": "Ideal para la puesta de sol temprana (17:30)."
               }
             }
           ],
@@ -402,6 +432,12 @@
               "Try a hot 'Fabada Asturiana' stew to warm up at lunch.",
               "Sea air can feel much colder than the actual temperature.",
               "Museums might have slightly shorter winter opening hours."
+            ],
+            "es": [
+              "El sol se pone alrededor de las 18:00 en los meses de invierno.",
+              "Prueba una caliente fabada asturiana en el almuerzo para entrar en calor.",
+              "El aire del mar puede sentirse mucho más frío que la temperatura real.",
+              "Los museos pueden tener horarios de apertura ligeramente reducidos en invierno."
             ]
           }
         }
@@ -431,7 +467,8 @@
             "de": "Starten Sie den Tag mit den Meeresbewohnern der Region.",
             "hu": "Indítsa a napot a régió tengeri élőlényeivel.",
             "ro": "Începe ziua explorând viața marină a regiunii.",
-            "en": "Start the day with the region's marine inhabitants."
+            "en": "Start the day with the region's marine inhabitants.",
+            "es": "Comienza el día con los habitantes marinos de la región."
           }
         },
         {
@@ -450,7 +487,8 @@
             "de": "Erkunden Sie historische Dampflokomotiven in diesem ehemaligen Bahnhof.",
             "hu": "Fedezze fel a történelmi gőzmozdonyokat ebben az egykori vasútállomásban.",
             "ro": "Explorează locomotive cu abur istorice în această fostă gară.",
-            "en": "Explore historical steam locomotives in this former railway station."
+            "en": "Explore historical steam locomotives in this former railway station.",
+            "es": "Explora locomotoras históricas en esta antigua estación de ferrocarril."
           }
         },
         {
@@ -469,7 +507,8 @@
             "de": "Fahren Sie vorsichtig durch die engen Gassen zur Halbinsel hinauf.",
             "hu": "Óvatosan tekerjen át a szűk utcákon fel a félszigetre.",
             "ro": "Pedalează cu grijă pe străzile înguste până sus pe peninsulă.",
-            "en": "Ride carefully through the narrow streets up to the peninsula."
+            "en": "Ride carefully through the narrow streets up to the peninsula.",
+            "es": "Circula con cuidado por las estrechas calles hasta la península."
           }
         },
         {
@@ -488,7 +527,8 @@
             "de": "Der höchste Punkt der Route belohnt mit bester Meeresbrise.",
             "hu": "Az útvonal legmagasabb pontja, amely a legjobb tengeri szellővel jutalmaz.",
             "ro": "Cel mai înalt punct al traseului te răsplătește cu cea mai bună briză marină.",
-            "en": "The highest point of the route rewards you with the best sea breeze."
+            "en": "The highest point of the route rewards you with the best sea breeze.",
+            "es": "El punto más alto de la ruta te recompensa con la mejor brisa marina."
           }
         },
         {
@@ -507,7 +547,8 @@
             "de": "Die Strandpromenade ist ideal für eine entspannte Fahrt.",
             "hu": "A tengerparti sétány ideális egy pihentető kerékpározáshoz.",
             "ro": "Promenada de pe plajă este ideală pentru o plimbare relaxantă pe bicicletă.",
-            "en": "The beach promenade is ideal for a relaxed ride."
+            "en": "The beach promenade is ideal for a relaxed ride.",
+            "es": "El paseo marítimo es ideal para un paseo en bicicleta relajado."
           }
         },
         {
@@ -526,7 +567,8 @@
             "de": "Das monumentale Gebäude beeindruckt mit Spaniens höchstem Steinturm.",
             "hu": "A monumentális épület lenyűgöző Spanyolország legmagasabb kőtornyával.",
             "ro": "Clădirea monumentală impresionează cu cel mai înalt turn de piatră din Spania.",
-            "en": "The monumental building impresses with Spain's tallest stone tower."
+            "en": "The monumental building impresses with Spain's tallest stone tower.",
+            "es": "El edificio monumental impresiona con la torre de piedra más alta de España."
           }
         }
       ],
@@ -534,7 +576,8 @@
         "de": "Wir radeln zunächst entspannt am Wasser entlang vom Aquarium zum Eisenbahnmuseum. Danach wird es in Cimavilla etwas steiler, aber der Panoramablick am Elogio del Horizonte macht jede Anstrengung wett. Eine ausgedehnte Fahrt entlang der Strandpromenade bringt uns schließlich zum gigantischen Bauwerk der Universidad Laboral, etwas außerhalb des Trubels.",
         "hu": "Először kényelmesen tekerünk a víz mentén az akváriumtól a vasútmúzeumig. Utána egy kicsit meredekebb lesz a terep Cimavilla felé, de a panoráma az Elogio del Horizonte-nél minden fáradtságot megér. Egy hosszabb tekerés a tengerparti sétányon végül elvezet minket az Universidad Laboral hatalmas épületéhez a nyüzsgéstől távolabb.",
         "ro": "Pedalăm inițial relaxat de-a lungul apei, de la acvariu la muzeul feroviar. Apoi traseul devine ușor abrupt în Cimavilla, dar panorama de la Elogio del Horizonte compensează efortul. O plimbare mai lungă pe promenada plajei ne duce în final către clădirea gigantică a Universidad Laboral, departe de agitație.",
-        "en": "We first cycle relaxed along the water from the aquarium to the railway museum. It gets a bit steeper towards Cimavilla, but the panoramic view at Elogio del Horizonte makes up for the effort. A longer ride along the beach promenade finally takes us to the gigantic structure of Universidad Laboral, away from the hustle and bustle."
+        "en": "We first cycle relaxed along the water from the aquarium to the railway museum. It gets a bit steeper towards Cimavilla, but the panoramic view at Elogio del Horizonte makes up for the effort. A longer ride along the beach promenade finally takes us to the gigantic structure of Universidad Laboral, away from the hustle and bustle.",
+        "es": "Primero pedalemos tranquilamente junto al agua desde el Acuario hasta el Museo del Ferrocarril. Se empina un poco hacia Cimavilla, pero la vista panorámica en el Elogio del Horizonte compensa el esfuerzo. Un recorrido más largo por el paseo de la playa nos lleva finalmente a la gigantesca estructura de la Universidad Laboral, alejados del bullicio."
       },
       "gastro_picks": {
         "de": [
@@ -658,6 +701,12 @@
           "In Cimavilla, you often have to share the space with pedestrians.",
           "Always lock your bike securely, especially near the beach.",
           "The route to Universidad Laboral goes over safe, flat roads."
+        ],
+        "es": [
+          "El paseo tiene un carril bici bien señalizado.",
+          "En Cimavilla a menudo hay que compartir el espacio con peatones.",
+          "Asegura siempre bien la bicicleta, especialmente cerca de la playa.",
+          "La ruta hacia la Universidad Laboral transcurre por carreteras seguras y llanas."
         ]
       },
       "variants": {
@@ -666,7 +715,8 @@
             "de": "Wir starten am Aquarium und radeln zum Eisenbahnmuseum, beides perfekte Indoor-Ziele. Mittags geht es vorsichtig nach Cimavilla. Nachmittags folgen wir dem Küstenradweg zur Universidad Laboral, wobei wir unter Arkaden Schutz suchen.",
             "hu": "Az Akváriumnál kezdünk, majd a vasúttörténeti múzeumba tekerünk, mindkettő fedett. Délben óvatosan gurulunk fel Cimavillába. Délután a parti kerékpárúton haladunk a Laboral felé, az árkádok alatt keresve menedéket.",
             "ro": "Începem la Acvariu și pedalăm spre Muzeul Căilor Ferate, ambele fiind destinații indoor. La prânz mergem cu grijă spre Cimavilla. După-amiaza urmăm pista de coastă spre Universidad Laboral, adăpostindu-ne sub arcade.",
-            "en": "Start at the Aquarium and cycle to the Railway Museum, both great indoor spots. At noon, ride carefully to Cimavilla. In the afternoon, follow the coastal bike path to Laboral, seeking shelter under the vast arcades."
+            "en": "Start at the Aquarium and cycle to the Railway Museum, both great indoor spots. At noon, ride carefully to Cimavilla. In the afternoon, follow the coastal bike path to Laboral, seeking shelter under the vast arcades.",
+            "es": "Empieza en el Acuario y pedalea hasta el Museo del Ferrocarril, ambos buenos refugios interiores. Al mediodía ve con cuidado hasta Cimavilla. Por la tarde sigue el carril costero hasta la Laboral, buscando abrigo bajo las amplias arcadas."
           },
           "stops": [
             {
@@ -675,7 +725,8 @@
                 "de": "Fahrradständer direkt vor dem Eingang.",
                 "hu": "Kerékpártároló közvetlenül a bejáratnál.",
                 "ro": "Suport de biciclete chiar la intrare.",
-                "en": "Bike racks located right at the entrance."
+                "en": "Bike racks located right at the entrance.",
+                "es": "Aparcabicicletas situados justo en la entrada."
               }
             },
             {
@@ -684,7 +735,8 @@
                 "de": "Große Hallen bieten Schutz vor Regen.",
                 "hu": "A nagy csarnokok védenek az esőtől.",
                 "ro": "Halele mari oferă protecție contra ploii.",
-                "en": "Large halls provide shelter from rain."
+                "en": "Large halls provide shelter from rain.",
+                "es": "Grandes salas que ofrecen refugio de la lluvia."
               }
             },
             {
@@ -693,7 +745,8 @@
                 "de": "Achtung, rutschiges Pflaster beim Bergabfahren.",
                 "hu": "Vigyázat, csúszós kőburkolat lejtmenetben.",
                 "ro": "Atenție, pavaj alunecos la coborâre.",
-                "en": "Caution: slippery pavement when descending."
+                "en": "Caution: slippery pavement when descending.",
+                "es": "Precaución: pavimento resbaladizo al descender."
               }
             },
             {
@@ -702,7 +755,8 @@
                 "de": "Kurzer Stopp, dann schnell weiter ins Trockene.",
                 "hu": "Rövid megálló, majd irány a fedett rész.",
                 "ro": "Oprire scurtă, apoi rapid spre loc uscat.",
-                "en": "Quick stop, then quickly move to cover."
+                "en": "Quick stop, then quickly move to cover.",
+                "es": "Parada rápida, luego muévete rápido a un lugar cubierto."
               }
             },
             {
@@ -711,7 +765,8 @@
                 "de": "Radweg ist gut ausgebaut, aber exponiert.",
                 "hu": "A kerékpárút jó, de nagyon szeles.",
                 "ro": "Pista de biciclete e bună, dar expusă.",
-                "en": "Bike path is good but very exposed."
+                "en": "Bike path is good but very exposed.",
+                "es": "El carril bici está bien pero muy expuesto."
               }
             },
             {
@@ -720,7 +775,8 @@
                 "de": "Unter den Arkaden des Hofes parken.",
                 "hu": "Parkoljon az udvar árkádjai alatt.",
                 "ro": "Parcați sub arcadele curții interioare.",
-                "en": "Park under the courtyard arcades."
+                "en": "Park under the courtyard arcades.",
+                "es": "Aparca bajo las arcadas del patio."
               }
             }
           ],
@@ -748,6 +804,12 @@
               "Avoid painted lines on bike paths during rain; they get slippery.",
               "Braking distance is significantly longer on wet asphalt.",
               "The bike path network (Carril-bici) is mostly flat and safe."
+            ],
+            "es": [
+              "Equipo impermeable y guardabarros son esenciales en Gijón.",
+              "Evita las líneas pintadas en los carriles bici cuando llueve; se vuelven resbaladizas.",
+              "La distancia de frenado es significativamente mayor sobre asfalto mojado.",
+              "La red de carriles bici es mayormente llana y segura."
             ]
           }
         },
@@ -756,7 +818,8 @@
             "de": "Eine erfrischende Tour am Morgen vom Hafen zum Museum. Mittags klettern wir per Rad nach Cimavilla für die Aussicht. Nachmittags nutzen wir das Tageslicht für die Fahrt zur Universidad Laboral, bevor es im Winter schnell dunkel wird.",
             "hu": "Frissítő reggeli túra a kikötőtől a múzeumig. Délben feltekerünk Cimavillába a kilátásért. Délután kihasználjuk a természetes fényt a Laboral felé vezető úton, mielőtt a téli sötétség leszállna.",
             "ro": "O tură revigorantă de dimineață de la port la muzeu. La prânz urcăm cu bicicleta în Cimavilla pentru priveliște. După-amiaza profităm de lumină spre Laboral, înainte de lăsarea serii.",
-            "en": "A refreshing morning ride from the port to the museum. At noon, cycle up to Cimavilla for the views. In the afternoon, make the most of the daylight on your way to Laboral before the winter darkness sets in."
+            "en": "A refreshing morning ride from the port to the museum. At noon, cycle up to Cimavilla for the views. In the afternoon, make the most of the daylight on your way to Laboral before the winter darkness sets in.",
+            "es": "Un paseo matutino refrescante desde el puerto hasta el museo. Al mediodía, sube a Cimavilla por las vistas. Por la tarde, aprovecha la luz para dirigirnos a la Laboral antes de que caiga la oscuridad invernal."
           },
           "stops": [
             {
@@ -765,7 +828,8 @@
                 "de": "Handschuhe für die Fahrt am Meer einplanen.",
                 "hu": "Készítsen kesztyűt a tengerparti tekeréshez.",
                 "ro": "Pregătiți mănuși pentru tura de pe malul mării.",
-                "en": "Wear gloves for the ride along the sea."
+                "en": "Wear gloves for the ride along the sea.",
+                "es": "Usa guantes para el paseo junto al mar."
               }
             },
             {
@@ -774,7 +838,8 @@
                 "de": "Drinnen ist es wärmer als draußen.",
                 "hu": "Odabent melegebb van, mint a szabadban.",
                 "ro": "În interior este mai cald decât afară.",
-                "en": "It is warmer inside than outdoors."
+                "en": "It is warmer inside than outdoors.",
+                "es": "Hace más calor dentro que en el exterior."
               }
             },
             {
@@ -783,7 +848,8 @@
                 "de": "Gute Steigung, hält den Körper warm.",
                 "hu": "Jó emelkedő, melegen tartja a testet.",
                 "ro": "Urcare bună, vă menține corpul cald.",
-                "en": "A good climb to keep your body warm."
+                "en": "A good climb to keep your body warm.",
+                "es": "Una buena subida para mantener el cuerpo caliente."
               }
             },
             {
@@ -792,7 +858,8 @@
                 "de": "Windstopper-Jacke ist hier oben Pflicht.",
                 "hu": "A dombtetőn szélálló dzseki kötelező.",
                 "ro": "O jachetă windstopper e obligatorie aici sus.",
-                "en": "A windbreaker jacket is mandatory up here."
+                "en": "A windbreaker jacket is mandatory up here.",
+                "es": "Una cazadora cortavientos es obligatoria aquí arriba."
               }
             },
             {
@@ -801,7 +868,8 @@
                 "de": "Beleuchteter Radweg am Abend.",
                 "hu": "Kivilágított kerékpárút az esti órákban.",
                 "ro": "Pistă de biciclete iluminată seara.",
-                "en": "Well-lit bike path for the evening."
+                "en": "Well-lit bike path for the evening.",
+                "es": "Carril bici bien iluminado para la tarde."
               }
             },
             {
@@ -810,7 +878,8 @@
                 "de": "Beleuchtung am Fahrrad unbedingt prüfen.",
                 "hu": "Mindenképpen ellenőrizze a világítást.",
                 "ro": "Verificați neapărat luminile bicicletei.",
-                "en": "Check your bike lights before departure."
+                "en": "Check your bike lights before departure.",
+                "es": "Revisa las luces de la bicicleta antes de salir."
               }
             }
           ],
@@ -838,6 +907,12 @@
               "Expect darkness to set in from 17:30 onwards.",
               "The cool sea air is very clean and refreshing.",
               "Rental bikes remain available during winter."
+            ],
+            "es": [
+              "La ropa por capas es ideal para el ciclismo invernal.",
+              "Es de esperar que anochezca a partir de las 17:30.",
+              "El aire fresco del mar es muy limpio y revitalizante.",
+              "Las bicicletas de alquiler siguen estando disponibles durante el invierno."
             ]
           }
         }
@@ -867,7 +942,8 @@
             "de": "Parken Sie außerhalb des Zentrums und gehen Sie zu Fuß in die Altstadt.",
             "hu": "Parkoljon le a központon kívül, és sétáljon be az óvárosba.",
             "ro": "Parchează în afara centrului și mergi pe jos spre orașul vechi.",
-            "en": "Park outside the center and walk into the old town."
+            "en": "Park outside the center and walk into the old town.",
+            "es": "Aparca fuera del centro y camina hacia el casco antiguo."
           }
         },
         {
@@ -886,7 +962,8 @@
             "de": "Die Bäder befinden sich direkt am Rand von Cimavilla.",
             "hu": "A fürdők közvetlenül Cimavilla szélén találhatók.",
             "ro": "Băile se află chiar la marginea cartierului Cimavilla.",
-            "en": "The baths are located right on the edge of Cimavilla."
+            "en": "The baths are located right on the edge of Cimavilla.",
+            "es": "Los baños se encuentran justo al borde de Cimavilla."
           }
         },
         {
@@ -905,7 +982,8 @@
             "de": "Genießen Sie den weiten Blick über das Kantabrische Meer.",
             "hu": "Élvezze a tágas kilátást a Kantábriai-tengerre.",
             "ro": "Bucură-te de vederea panoramică asupra Mării Cantabrice.",
-            "en": "Enjoy the expansive view over the Cantabrian Sea."
+            "en": "Enjoy the expansive view over the Cantabrian Sea.",
+            "es": "Disfruta de la amplia vista sobre el Cantábrico."
           }
         },
         {
@@ -924,7 +1002,8 @@
             "de": "Ein riesiger Komplex mit tollen Parkmöglichkeiten direkt vor Ort.",
             "hu": "Hatalmas komplexum nagyszerű parkolási lehetőségekkel a helyszínen.",
             "ro": "Un complex imens, cu opțiuni excelente de parcare la fața locului.",
-            "en": "A huge complex with great parking facilities right on site."
+            "en": "A huge complex with great parking facilities right on site.",
+            "es": "Un enorme complejo con excelentes instalaciones de aparcamiento in situ."
           }
         },
         {
@@ -943,7 +1022,8 @@
             "de": "Lassen Sie das Auto stehen und spazieren Sie zum nahegelegenen Garten.",
             "hu": "Hagyja az autót, és sétáljon át a közeli botanikus kertbe.",
             "ro": "Lasă mașina și plimbă-te până la grădina botanică din apropiere.",
-            "en": "Leave the car and walk over to the nearby botanical garden."
+            "en": "Leave the car and walk over to the nearby botanical garden.",
+            "es": "Deja el coche y pasea hasta el jardín botánico cercano."
           }
         },
         {
@@ -962,7 +1042,8 @@
             "de": "Fahren Sie zurück in die Stadt, um den Nachmittag am Strand ausklingen zu lassen.",
             "hu": "Vezessen vissza a városba, hogy a tengerparton zárja a délutánt.",
             "ro": "Condu înapoi în oraș pentru a-ți încheia după-amiaza pe plajă.",
-            "en": "Drive back to the city to finish off the afternoon on the beach."
+            "en": "Drive back to the city to finish off the afternoon on the beach.",
+            "es": "Vuelve a la ciudad en coche para terminar la tarde en la playa."
           }
         }
       ],
@@ -970,7 +1051,8 @@
         "de": "Wir teilen den Tag in klare Cluster auf: Am Vormittag erkunden wir den Stadtkern und die historische Halbinsel Cimavilla bequem zu Fuß. Gegen Mittag bringt uns das Auto in wenigen Minuten hinaus zur monumentalen Universidad Laboral und dem wunderschönen botanischen Garten, wo wir ohne Parkplatzsorgen flanieren können. Am späten Nachmittag fahren wir zurück an den Strand, um den Tag gemütlich ausklingen zu lassen.",
         "hu": "A napot egyértelmű klaszterekre bontjuk: délelőtt gyalogosan fedezzük fel a belvárost és a történelmi Cimavilla félszigetet. Délben az autó percek alatt elvisz minket a monumentális Universidad Laboralhoz és a gyönyörű botanikus kerthez, ahol parkolási gondok nélkül sétálhatunk. Késő délután visszatérünk a strandra egy kellemes kikapcsolódásra.",
         "ro": "Împărțim ziua în grupuri clare: dimineața explorăm la pas centrul orașului și peninsula istorică Cimavilla. La prânz, mașina ne duce în câteva minute la monumentala Universidad Laboral și la frumoasa grădină botanică, unde ne putem plimba fără grija parcării. Spre sfârșitul după-amiezii, ne întoarcem la plajă pentru a ne relaxa.",
-        "en": "We divide the day into clear clusters: in the morning, we explore the city center and the historical Cimavilla peninsula on foot. By noon, the car takes us out in a few minutes to the monumental Universidad Laboral and the beautiful botanical garden, where we can stroll without parking worries. In the late afternoon, we drive back to the beach to wind down the day."
+        "en": "We divide the day into clear clusters: in the morning, we explore the city center and the historical Cimavilla peninsula on foot. By noon, the car takes us out in a few minutes to the monumental Universidad Laboral and the beautiful botanical garden, where we can stroll without parking worries. In the late afternoon, we drive back to the beach to wind down the day.",
+        "es": "Dividimos el día en bloques claros: por la mañana exploramos el centro y la histórica península de Cimavilla a pie. Al mediodía, el coche nos lleva en pocos minutos a la monumental Universidad Laboral y al hermoso jardín botánico, donde paseamos sin preocuparnos por el aparcamiento. Ya por la tarde, volvemos a la playa para cerrar el día."
       },
       "gastro_picks": {
         "de": [
@@ -1094,6 +1176,12 @@
           "For the university, it is best to park directly in the large lot.",
           "Traffic around the beaches is often heavy at noon, so allow extra time.",
           "A drive into the greenery offers a great contrast to the old town bustle."
+        ],
+        "es": [
+          "Deja el coche fuera de Cimavilla; algunas calles están cerradas al tráfico.",
+          "Para la universidad, lo mejor es aparcar directamente en el gran estacionamiento.",
+          "El tráfico alrededor de las playas suele ser denso al mediodía, así que permite tiempo extra.",
+          "Un paseo en coche entre la vegetación ofrece un gran contraste con el bullicio del casco antiguo."
         ]
       },
       "variants": {
@@ -1102,7 +1190,8 @@
             "de": "Mit dem Auto erreichen wir bequem Cimavilla und die Thermen. Mittags fahren wir zur Universidad Laboral, deren gewaltige Gebäude viel Schutz bieten. Nachmittags spazieren wir durch den Jardín Botánico, der im Regen besonders saftig grün leuchtet.",
             "hu": "Autóval kényelmesen érjük el Cimavillát és a fürdőket. Délben a Laboral felé vesszük az irányt, ahol a hatalmas épületek fedezéket nyújtanak. Délután a Botanikus kertben teszünk egy sétát, amely esőben különösen dús és zöld.",
             "ro": "Cu mașina ajungem ușor la Cimavilla și la terme. La prânz mergem spre Universidad Laboral, ale cărei clădiri uriașe oferă mult adăpost. După-amiaza ne plimbăm prin Grădina Botanică, deosebit de verde pe ploaie.",
-            "en": "Drive comfortably to Cimavilla and the Roman Baths. At noon, head to Universidad Laboral, where the massive buildings offer plenty of cover. In the afternoon, visit the Botanical Garden, which looks incredibly lush in the rain."
+            "en": "Drive comfortably to Cimavilla and the Roman Baths. At noon, head to Universidad Laboral, where the massive buildings offer plenty of cover. In the afternoon, visit the Botanical Garden, which looks incredibly lush in the rain.",
+            "es": "Conduce cómodamente hasta Cimavilla y los Baños Romanos. Al mediodía, dirígete a la Universidad Laboral, donde los edificios masivos ofrecen mucha cobertura. Por la tarde, visita el Jardín Botánico, que se ve increíblemente frondoso con lluvia."
           },
           "stops": [
             {
@@ -1111,7 +1200,8 @@
                 "de": "Parkhaus am Hafen nutzen.",
                 "hu": "Használja a kikötői parkolóházat.",
                 "ro": "Folosiți parcarea de la port.",
-                "en": "Use the underground parking at the port."
+                "en": "Use the underground parking at the port.",
+                "es": "Usa el aparcamiento subterráneo del puerto."
               }
             },
             {
@@ -1120,7 +1210,8 @@
                 "de": "Nur 2 Min. Fußweg vom Parkhaus.",
                 "hu": "Csak 2 perc séta a parkolóháztól.",
                 "ro": "Doar 2 minute de mers de la parcare.",
-                "en": "Only a 2-minute walk from the parking."
+                "en": "Only a 2-minute walk from the parking.",
+                "es": "A solo 2 minutos a pie desde el parking."
               }
             },
             {
@@ -1129,7 +1220,8 @@
                 "de": "Vom Auto aus die Aussicht genießen.",
                 "hu": "Élvezze a kilátást az autóból.",
                 "ro": "Bucurați-vă de priveliște din mașină.",
-                "en": "Enjoy the sea views from the car."
+                "en": "Enjoy the sea views from the car.",
+                "es": "Disfruta de las vistas al mar desde el coche."
               }
             },
             {
@@ -1138,7 +1230,8 @@
                 "de": "Großer kostenloser Parkplatz vorhanden.",
                 "hu": "Hatalmas ingyenes parkoló áll rendelkezésre.",
                 "ro": "Parcare mare gratuită disponibilă.",
-                "en": "Large free parking lot available."
+                "en": "Large free parking lot available.",
+                "es": "Amplio aparcamiento gratuito disponible."
               }
             },
             {
@@ -1147,7 +1240,8 @@
                 "de": "Einige Gewächshäuser bieten Schutz.",
                 "hu": "Néhány üvegház menedéket nyújt.",
                 "ro": "Unele sere oferă adăpost contra ploii.",
-                "en": "Some greenhouses provide rain cover."
+                "en": "Some greenhouses provide rain cover.",
+                "es": "Algunos invernaderos ofrecen refugio contra la lluvia."
               }
             },
             {
@@ -1156,7 +1250,8 @@
                 "de": "Parken in der blauen Zone entlang der Mauer.",
                 "hu": "Parkolás a kék zónában a fal mentén.",
                 "ro": "Parcare în zona albastră de-a lungul falezei.",
-                "en": "Park in the blue zone along the wall."
+                "en": "Park in the blue zone along the wall.",
+                "es": "Aparca en zona azul a lo largo del muro."
               }
             }
           ],
@@ -1184,6 +1279,12 @@
               "Underground parking lots are plentiful in the city center.",
               "The Botanical Garden is very atmospheric in the rain.",
               "Universidad Laboral is the largest building in Spain."
+            ],
+            "es": [
+              "Conduce con cuidado por las carreteras costeras durante lluvias intensas.",
+              "Los aparcamientos subterráneos son abundantes en el centro.",
+              "El Jardín Botánico es muy atmosférico bajo la lluvia.",
+              "La Universidad Laboral es el edificio más grande de España."
             ]
           }
         },
@@ -1192,7 +1293,8 @@
             "de": "Ein winterlicher Roadtrip durch Gijón. Mittags besuchen wir die beeindruckende Laboral und wärmen uns in der Cafeteria. Nachmittags spazieren wir durch den Botanischen Garten bei tiefstehender Sonne, bevor wir den Tag am Strand ausklingen lassen.",
             "hu": "Téli autós körút Gijónban. Délben meglátogatjuk a lenyűgöző Laboralt, és a kávézóban melegszünk fel. Délután a Botanikus kertben sétálunk az alacsonyan járó nap fényénél, majd a tengerparton zárjuk a napot.",
             "ro": "Un roadtrip de iarnă prin Gijón. La prânz vizităm Laboral și ne încălzim în cafenea. După-amiaza ne plimbăm prin Grădina Botanică sub soarele blând, apoi încheiem ziua la plajă.",
-            "en": "A winter road trip through Gijón. At noon, visit the impressive Laboral and warm up in its cafeteria. In the afternoon, stroll through the Botanical Garden in the low winter sun before ending the day at the beach."
+            "en": "A winter road trip through Gijón. At noon, visit the impressive Laboral and warm up in its cafeteria. In the afternoon, stroll through the Botanical Garden in the low winter sun before ending the day at the beach.",
+            "es": "Una escapada invernal por Gijón. Al mediodía visita la imponente Laboral y entra en calor en su cafetería. Por la tarde pasea por el Jardín Botánico con el bajo sol invernal antes de terminar el día en la playa."
           },
           "stops": [
             {
@@ -1201,7 +1303,8 @@
                 "de": "Wintersonne am Yachthafen genießen.",
                 "hu": "Élvezze a téli napsütést a jachtkikötőnél.",
                 "ro": "Bucurați-vă de soarele de iarnă în port.",
-                "en": "Enjoy the winter sun at the marina."
+                "en": "Enjoy the winter sun at the marina.",
+                "es": "Disfruta del sol invernal en la marina."
               }
             },
             {
@@ -1210,7 +1313,8 @@
                 "de": "Guter Aufwärmstopp im Museum.",
                 "hu": "Jó melegedőhely a múzeumban.",
                 "ro": "Un bun popas pentru încălzire în muzeu.",
-                "en": "A good warm-up stop in the museum."
+                "en": "A good warm-up stop in the museum.",
+                "es": "Una buena parada para entrar en calor en el museo."
               }
             },
             {
@@ -1219,7 +1323,8 @@
                 "de": "Spektakuläre Brandung im Winter.",
                 "hu": "Látványos hullámzás téli időben.",
                 "ro": "Valuri spectaculoase pe timp de iarnă.",
-                "en": "Spectacular surf in winter time."
+                "en": "Spectacular surf in winter time.",
+                "es": "Surf espectacular en invierno."
               }
             },
             {
@@ -1228,7 +1333,8 @@
                 "de": "Innenhöfe sind oft windgeschützt.",
                 "hu": "A belső udvarok gyakran szélvédettek.",
                 "ro": "Curțile interioare sunt ferite de vânt.",
-                "en": "The courtyards are often sheltered from wind."
+                "en": "The courtyards are often sheltered from wind.",
+                "es": "Los patios suelen estar resguardados del viento."
               }
             },
             {
@@ -1237,7 +1343,8 @@
                 "de": "Winterblüher im Kameliengarten suchen.",
                 "hu": "Keresse a téli virágokat a kaméliakertben.",
                 "ro": "Căutați florile de iarnă în grădina de camelii.",
-                "en": "Look for winter blooms in the camellia garden."
+                "en": "Look for winter blooms in the camellia garden.",
+                "es": "Busca flores invernales en el jardín de camelias."
               }
             },
             {
@@ -1246,7 +1353,8 @@
                 "de": "Heißes Getränk in der Bar El Muro.",
                 "hu": "Forró ital az El Muro bárban.",
                 "ro": "O băutură fierbinte la barul El Muro.",
-                "en": "A hot drink at El Muro bar."
+                "en": "A hot drink at El Muro bar.",
+                "es": "Una bebida caliente en el bar El Muro."
               }
             }
           ],
@@ -1274,6 +1382,12 @@
               "Laboral often features beautiful lighting in winter.",
               "Check your tire pressure in cold weather.",
               "Roads are mostly ice-free but often wet."
+            ],
+            "es": [
+              "Es más fácil encontrar plazas de aparcamiento en invierno.",
+              "La Laboral suele lucir una iluminación preciosa en invierno.",
+              "Revisa la presión de los neumáticos con el frío.",
+              "Las carreteras están mayormente libres de hielo pero a menudo húmedas."
             ]
           }
         }
@@ -1303,7 +1417,8 @@
             "de": "Starten Sie im Westen der Stadt, gut erreichbar mit mehreren Buslinien.",
             "hu": "Induljon a város nyugati részén, ahová több buszjárat is kényelmesen elviszi.",
             "ro": "Începe în vestul orașului, ușor accesibil cu mai multe linii de autobuz.",
-            "en": "Start in the west of the city, easily accessible by several bus routes."
+            "en": "Start in the west of the city, easily accessible by several bus routes.",
+            "es": "Comienza en el oeste de la ciudad, fácilmente accesible por varias líneas de autobús."
           }
         },
         {
@@ -1322,7 +1437,8 @@
             "de": "Nur einen kurzen Spaziergang vom Museum entfernt direkt am Poniente-Strand.",
             "hu": "Csak egy rövid sétára a múzeumtól, közvetlenül a Poniente strandon.",
             "ro": "La o scurtă plimbare de muzeu, chiar pe plaja Poniente.",
-            "en": "Just a short walk from the museum right on Poniente beach."
+            "en": "Just a short walk from the museum right on Poniente beach.",
+            "es": "A solo un corto paseo desde el museo, justo en la playa de Poniente."
           }
         },
         {
@@ -1341,7 +1457,8 @@
             "de": "Nehmen Sie den Bus ins Zentrum, um lange Fußmärsche zu vermeiden.",
             "hu": "Buszozzon be a központba, hogy elkerülje a hosszú sétákat.",
             "ro": "Ia autobuzul spre centru pentru a evita mersul lung pe jos.",
-            "en": "Take the bus into the center to avoid long walks."
+            "en": "Take the bus into the center to avoid long walks.",
+            "es": "Toma el autobús al centro para evitar caminatas largas."
           }
         },
         {
@@ -1360,7 +1477,8 @@
             "de": "Ein schöner Spaziergang über die Halbinsel bringt Sie zu diesem Aussichtspunkt.",
             "hu": "Egy kellemes séta a félszigeten elvezet ehhez a kilátóponthoz.",
             "ro": "O plimbare plăcută pe peninsulă te duce la acest punct de belvedere.",
-            "en": "A pleasant walk across the peninsula takes you to this viewpoint."
+            "en": "A pleasant walk across the peninsula takes you to this viewpoint.",
+            "es": "Un agradable paseo por la península te lleva a este mirador."
           }
         },
         {
@@ -1379,7 +1497,8 @@
             "de": "Der Strand schließt sich direkt an die Altstadt an.",
             "hu": "A strand közvetlenül csatlakozik az óvároshoz.",
             "ro": "Plaja se conectează direct la orașul vechi.",
-            "en": "The beach connects right to the old town."
+            "en": "The beach connects right to the old town.",
+            "es": "La playa conecta directamente con el casco antiguo."
           }
         }
       ],
@@ -1387,7 +1506,8 @@
         "de": "Wir nutzen die städtischen Busse geschickt, um die größeren Distanzen zu überbrücken. Am Morgen entdecken wir den modernen Westen mit Museum und Aquarium. Danach lassen wir uns per Bus direkt in das Herz der Altstadt fahren. Den Nachmittag verbringen wir entspannt, spazieren über die grüne Spitze von Cimavilla und enden an der belebten Promenade von San Lorenzo.",
         "hu": "Okosan használjuk a városi buszokat a nagyobb távolságok áthidalására. Reggel a modern nyugati részt fedezzük fel a múzeummal és az akváriummal. Utána busszal egyenesen az óváros szívébe utazunk. A délutánt pihentető sétával töltjük Cimavilla zöldellő csúcsán, és a San Lorenzo nyüzsgő sétányán fejezzük be.",
         "ro": "Folosim inteligent autobuzele urbane pentru a acoperi distanțele mai mari. Dimineața descoperim vestul modern, cu muzeul și acvariul. Apoi luăm autobuzul direct în inima orașului vechi. Ne petrecem după-amiaza relaxat, plimbându-ne peste vârful verde al cartierului Cimavilla și terminând pe aglomerata promenadă San Lorenzo.",
-        "en": "We cleverly use city buses to bridge the larger distances. In the morning, we discover the modern west with the museum and aquarium. Then we take a bus directly into the heart of the old town. We spend the afternoon relaxed, walking across the green tip of Cimavilla and ending on the lively promenade of San Lorenzo."
+        "en": "We cleverly use city buses to bridge the larger distances. In the morning, we discover the modern west with the museum and aquarium. Then we take a bus directly into the heart of the old town. We spend the afternoon relaxed, walking across the green tip of Cimavilla and ending on the lively promenade of San Lorenzo.",
+        "es": "Aprovechamos inteligentemente los autobuses urbanos para salvar las distancias mayores. Por la mañana descubrimos el moderno oeste con el museo y el acuario. Luego tomamos un bus directamente al corazón del casco antiguo. Pasamos la tarde relajados, caminando por la punta verde de Cimavilla y terminando en el animado paseo de San Lorenzo."
       },
       "gastro_picks": {
         "de": [
@@ -1511,6 +1631,12 @@
           "It is best to buy a multi-trip ticket if you are traveling all day.",
           "Pedestrian paths in the center are short and well-developed.",
           "Pay attention to departure times, especially in the late afternoon."
+        ],
+        "es": [
+          "Los autobuses locales son baratos y pasan con regularidad.",
+          "Es mejor comprar un billete multi‑viaje si vas a usar el transporte todo el día.",
+          "Los caminos peatonales en el centro son cortos y bien habilitados.",
+          "Presta atención a los horarios de salida, especialmente a última hora de la tarde."
         ]
       },
       "variants": {
@@ -1519,7 +1645,8 @@
             "de": "Wir nutzen die warmen Busse von EMTUSA. Mittags besuchen wir das Eisenbahnmuseum und das Aquarium (beide überdacht). Nachmittags bringt uns der Bus nach Cimavilla. Wir beenden die Tour an der Playa, wo wir direkt am Busstopp unterstehen können.",
             "hu": "Az EMTUSA meleg buszait használjuk a városban. Délben a vasúti múzeumot és az Akváriumot nézzük meg (mindkettő fedett). Délután busszal megyünk Cimavillába, majd a strandnál fejezzük be a túrát, ahol a megállók fedettek.",
             "ro": "Folosim autobuzele calde EMTUSA. La prânz vizităm muzeul feroviar și Acvariul (ambele acoperite). După-amiaza luăm autobuzul spre Cimavilla și terminăm la plajă, unde stațiile sunt acoperite.",
-            "en": "Use the warm EMTUSA buses to get around. At noon, visit the Railway Museum and the Aquarium (both indoor). In the afternoon, take a bus to Cimavilla. Finish at the beach, where bus stops provide good rain cover."
+            "en": "Use the warm EMTUSA buses to get around. At noon, visit the Railway Museum and the Aquarium (both indoor). In the afternoon, take a bus to Cimavilla. Finish at the beach, where bus stops provide good rain cover.",
+            "es": "Usa los cálidos autobuses de EMTUSA para moverte. Al mediodía visita el Museo del Ferrocarril y el Acuario (ambos interiores). Por la tarde, toma un bus a Cimavilla. Termina en la playa, donde las paradas ofrecen buen refugio de la lluvia."
           },
           "stops": [
             {
@@ -1528,7 +1655,8 @@
                 "de": "Busstopp fast direkt vor der Tür.",
                 "hu": "Buszmegálló szinte közvetlenül a bejáratnál.",
                 "ro": "Stație de autobuz aproape de intrare.",
-                "en": "Bus stop almost directly at the door."
+                "en": "Bus stop almost directly at the door.",
+                "es": "Parada de bus casi en la puerta."
               }
             },
             {
@@ -1537,7 +1665,8 @@
                 "de": "Linie 1 hält direkt am Aquarium.",
                 "hu": "Az 1-es vonal közvetlenül az Akváriumnál áll meg.",
                 "ro": "Linia 1 oprește chiar la Acvariu.",
-                "en": "Line 1 stops right at the Aquarium."
+                "en": "Line 1 stops right at the Aquarium.",
+                "es": "La línea 1 para justo en el Acuario."
               }
             },
             {
@@ -1546,7 +1675,8 @@
                 "de": "Busse halten am Plaza del Carmen (nahebei).",
                 "hu": "A buszok a közeli Plaza del Carmen-nél állnak meg.",
                 "ro": "Autobuzele opresc în Plaza del Carmen (aproape).",
-                "en": "Buses stop at Plaza del Carmen nearby."
+                "en": "Buses stop at Plaza del Carmen nearby.",
+                "es": "Los autobuses paran en la cercana Plaza del Carmen."
               }
             },
             {
@@ -1555,7 +1685,8 @@
                 "de": "Kurzer, windiger Aufstieg von der Haltestelle.",
                 "hu": "Rövid, szeles séta a megállótól.",
                 "ro": "Urcare scurtă și vântoasă de la stație.",
-                "en": "Short, windy walk up from the bus stop."
+                "en": "Short, windy walk up from the bus stop.",
+                "es": "Corta y ventosa subida a pie desde la parada de bus."
               }
             },
             {
@@ -1564,7 +1695,8 @@
                 "de": "Viele Linien (1, 15, 18) halten hier.",
                 "hu": "Számos vonal (1, 15, 18) megáll itt.",
                 "ro": "Multe linii (1, 15, 18) opresc aici.",
-                "en": "Many lines (1, 15, 18) stop here."
+                "en": "Many lines (1, 15, 18) stop here.",
+                "es": "Muchas líneas (1, 15, 18) paran aquí."
               }
             }
           ],
@@ -1592,6 +1724,12 @@
               "Buses run every 10-15 minutes on main lines.",
               "You stay dry and warm while moving between spots.",
               "The 'Gijón EMTUSA' app shows real-time arrivals."
+            ],
+            "es": [
+              "La 'Tarjeta Ciudadana' es práctica para viajes frecuentes.",
+              "Los buses circulan cada 10-15 minutos en las líneas principales.",
+              "Te mantienes seco y caliente mientras te desplazas entre puntos.",
+              "La app 'Gijón EMTUSA' muestra llegadas en tiempo real."
             ]
           }
         },
@@ -1600,7 +1738,8 @@
             "de": "Wintertour mit dem exzellenten Busnetz. Mittags wärmen wir uns im Eisenbahnmuseum auf. Nachmittags erkunden wir Cimavilla und genießen die winterliche Meeresbrise. Den Abend verbringen wir am San Lorenzo Strand, bevor wir bequem mit dem Bus zurückfahren.",
             "hu": "Téli túra a kiváló buszhálózattal. Délben a vasúti múzeumban melegszünk fel. Délután Cimavillát fedezzük fel, és élvezzük a téli tengeri fuvallatot. Az estét a San Lorenzo strandon töltjük, majd busszal térünk vissza.",
             "ro": "Tur de iarnă folosind rețeaua excelentă de autobuze. La prânz ne încălzim în muzeul feroviar. După-amiaza explorăm Cimavilla și briza marină de iarnă. Seara o petrecem la plaja San Lorenzo, apoi revenim cu autobuzul.",
-            "en": "Winter tour using the excellent bus network. At noon, warm up in the Railway Museum. In the afternoon, explore Cimavilla and enjoy the winter sea breeze. Spend the evening at San Lorenzo beach before heading back by bus."
+            "en": "Winter tour using the excellent bus network. At noon, warm up in the Railway Museum. In the afternoon, explore Cimavilla and enjoy the winter sea breeze. Spend the evening at San Lorenzo beach before heading back by bus.",
+            "es": "Recorrido invernal usando la excelente red de autobuses. Al mediodía entra en calor en el Museo del Ferrocarril. Por la tarde explora Cimavilla y disfruta de la brisa marina invernal. Pasa la noche en la playa de San Lorenzo antes de volver en autobús."
           },
           "stops": [
             {
@@ -1609,7 +1748,8 @@
                 "de": "Gute Heizung im Empfangsbereich.",
                 "hu": "Jó fűtés a fogadótérben.",
                 "ro": "Încălzire bună în zona de recepție.",
-                "en": "Good heating in the reception area."
+                "en": "Good heating in the reception area.",
+                "es": "Buena calefacción en la recepción."
               }
             },
             {
@@ -1618,7 +1758,8 @@
                 "de": "Abends gut beleuchteter Vorplatz.",
                 "hu": "Este jól megvilágított előtér.",
                 "ro": "Piațetă bine iluminată seara.",
-                "en": "Well-lit entrance area in the evening."
+                "en": "Well-lit entrance area in the evening.",
+                "es": "Acceso bien iluminado por la noche."
               }
             },
             {
@@ -1627,7 +1768,8 @@
                 "de": "Windgeschützte Plätze in den Sidrerías.",
                 "hu": "Szélvédett helyek a szidréreákban.",
                 "ro": "Locuri ferite de vânt în sidrerías.",
-                "en": "Sheltered spots inside the sidrerías."
+                "en": "Sheltered spots inside the sidrerías.",
+                "es": "Lugares resguardados dentro de las sidrerías."
               }
             },
             {
@@ -1636,7 +1778,8 @@
                 "de": "Schöne Aussicht auf die Winterstadt.",
                 "hu": "Szép kilátás a téli városra.",
                 "ro": "Vedere frumoasă asupra orașului iarna.",
-                "en": "Beautiful view of the winter city."
+                "en": "Beautiful view of the winter city.",
+                "es": "Hermosa vista de la ciudad invernal."
               }
             },
             {
@@ -1645,7 +1788,8 @@
                 "de": "Busse fahren bis spät in den Abend.",
                 "hu": "A buszok késő estig közlekednek.",
                 "ro": "Autobuzele circulă până târziu în noapte.",
-                "en": "Buses run until late in the evening."
+                "en": "Buses run until late in the evening.",
+                "es": "Los autobuses funcionan hasta tarde por la noche."
               }
             }
           ],
@@ -1673,6 +1817,12 @@
               "Schedules remain stable during winter months.",
               "Transferring at Plaza del Humedal is very easy.",
               "Last buses run around 22:30 - 23:00."
+            ],
+            "es": [
+              "Los autobuses están cómodamente calefactados en invierno.",
+              "Los horarios se mantienen estables durante los meses de invierno.",
+              "Hacer transbordo en Plaza del Humedal es muy fácil.",
+              "Los últimos autobuses pasan alrededor de las 22:30 - 23:00."
             ]
           }
         }

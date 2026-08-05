@@ -21,7 +21,8 @@
             "de": "Paseo de Pereda & Jardines",
             "hu": "Paseo de Pereda és kertjei",
             "ro": "Paseo de Pereda și grădinile",
-            "en": "Paseo de Pereda & Gardens"
+            "en": "Paseo de Pereda & Gardens",
+            "es": "Paseo de Pereda & Gardens"
           },
           "coords": [
             -3.8045,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie mit einem Kaffee in einem der Cafés mit Blick auf die Bucht.",
             "hu": "Kezdje a napot egy kávéval az öbölre néző kávézók egyikében.",
             "ro": "Începeți cu o cafea la una dintre cafenelele cu vedere la golf.",
-            "en": "Start with a coffee at one of the cafés overlooking the bay."
+            "en": "Start with a coffee at one of the cafés overlooking the bay.",
+            "es": "Empieza con un café en uno de los cafés con vistas a la bahía."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Centro Botín",
             "hu": "Centro Botín",
             "ro": "Centrul Botín",
-            "en": "Centro Botín"
+            "en": "Centro Botín",
+            "es": "Centro Botín"
           },
           "coords": [
             -3.8033,
@@ -59,7 +62,8 @@
             "de": "Gehen Sie auf die Dachterrasse für einen einzigartigen Blick auf die Stadt und das Meer.",
             "hu": "Menjen fel a tetőteraszra a városra és a tengerre nyíló egyedi kilátásért.",
             "ro": "Urcați pe terasa de pe acoperiș pentru o priveliște unică asupra orașului și a mării.",
-            "en": "Go up to the rooftop terrace for a unique view of the city and the sea."
+            "en": "Go up to the rooftop terrace for a unique view of the city and the sea.",
+            "es": "Súbete a la terraza en la azotea para una vista única de la ciudad y el mar."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kathedrale von Santander",
             "hu": "Santanderi katedrális",
             "ro": "Catedrala din Santander",
-            "en": "Santander Cathedral"
+            "en": "Santander Cathedral",
+            "es": "Santander Cathedral"
           },
           "coords": [
             -3.805,
@@ -82,7 +87,8 @@
             "de": "Besuchen Sie die untere Krypta (Iglesia del Cristo), den ältesten Teil des Gebäudes.",
             "hu": "Látogassa meg az alsó kriptát (Iglesia del Cristo), az épület legrégebbi részét.",
             "ro": "Vizitați cripta inferioară (Iglesia del Cristo), cea mai veche parte a clădirii.",
-            "en": "Visit the lower crypt (Iglesia del Cristo), the oldest part of the building."
+            "en": "Visit the lower crypt (Iglesia del Cristo), the oldest part of the building.",
+            "es": "Visita la cripta inferior (Iglesia del Cristo), la parte más antigua del edificio."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Mittagessen in der Nähe des Mercado de la Esperanza",
             "hu": "Ebéd a Mercado de la Esperanza közelében",
             "ro": "Prânz lângă Mercado de la Esperanza",
-            "en": "Lunch near Mercado de la Esperanza"
+            "en": "Lunch near Mercado de la Esperanza",
+            "es": "Lunch near Mercado de la Esperanza"
           },
           "coords": [
             -3.8075,
@@ -105,7 +112,8 @@
             "de": "Probieren Sie frische Meeresfrüchte-Tapas in einer der Bars rund um den Markt.",
             "hu": "Kóstoljon friss tenger gyümölcsei tapasokat a piac körüli bárok egyikében.",
             "ro": "Încercați tapas proaspete cu fructe de mare la unul dintre barurile din jurul pieței.",
-            "en": "Try fresh seafood tapas at one of the bars surrounding the market."
+            "en": "Try fresh seafood tapas at one of the bars surrounding the market.",
+            "es": "Prueba tapas de marisco fresco en uno de los bares alrededor del mercado."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Schifffahrtsmuseum von Kantabrien",
             "hu": "Kantábriai Tengerészeti Múzeum",
             "ro": "Muzeul Maritim Cantabric",
-            "en": "Cantabrian Maritime Museum"
+            "en": "Cantabrian Maritime Museum",
+            "es": "Cantabrian Maritime Museum"
           },
           "coords": [
             -3.7915,
@@ -128,7 +137,8 @@
             "de": "Verpassen Sie nicht die Walskelette und das große Aquarium.",
             "hu": "Ne hagyja ki a bálnacsontvázakat és a nagy akváriumot.",
             "ro": "Nu ratați scheletele de balenă și acvariul mare.",
-            "en": "Don't miss the whale skeletons and the large aquarium."
+            "en": "Don't miss the whale skeletons and the large aquarium.",
+            "es": "No te pierdas los esqueletos de ballena y el gran acuario."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Playa de los Peligros",
             "hu": "Playa de los Peligros",
             "ro": "Plaja Peligros",
-            "en": "Peligros Beach"
+            "en": "Peligros Beach",
+            "es": "Peligros Beach"
           },
           "coords": [
             -3.795,
@@ -151,7 +162,8 @@
             "de": "Ein ruhiger Stadtstrand, ideal für eine Pause am Nachmittag.",
             "hu": "Csendes városi strand, ideális egy délutáni pihenőre.",
             "ro": "O plajă urbană liniștită, perfectă pentru o pauză de după-amiază.",
-            "en": "A calm city beach, perfect for an afternoon break."
+            "en": "A calm city beach, perfect for an afternoon break.",
+            "es": "Una playa urbana tranquila, perfecta para una pausa por la tarde."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag an der eleganten Uferpromenade Paseo de Pereda, genießen Sie die Meeresbrise und die Aussicht auf die Bucht. Am Vormittag tauchen Sie im futuristischen Centro Botín in die moderne Kunst ein. Die Dachterrasse bietet einen spektakulären Panoramablick. Nach einem Spaziergang zur historischen Kathedrale von Santander, wo Sie die romanische Krypta erkunden, genießen Sie ein Mittagessen mit frischen Meeresfrüchten in der Nähe des lebhaften Mercado de la Esperanza. Der Nachmittag ist der reichen Seefahrtsgeschichte Kantabriens im Schifffahrtsmuseum gewidmet. Beenden Sie Ihren Rundgang mit einer entspannten Pause am Stadtstrand Playa de los Peligros und beobachten Sie die Boote in der Bucht.",
         "hu": "Kezdje a napot az elegáns Paseo de Pereda sétányon, élvezve a tengeri szellőt és az öbölre nyíló kilátást. Délelőtt merüljön el a modern művészetben a futurisztikus Centro Botínban; a tetőteraszról lenyűgöző panoráma nyílik. Sétáljon el a történelmi Santanderi katedrálishoz, fedezze fel a román kori kriptát, majd ebédeljen friss tenger gyümölcseit a nyüzsgő Mercado de la Esperanza közelében. A délutánt Kantábria gazdag tengerészeti történelmének szentelje a Tengerészeti Múzeumban. Zárja a gyalogtúrát egy pihentető szünettel a Playa de los Peligros városi strandon, figyelve a hajókat az öbölben.",
         "ro": "Începeți ziua pe eleganta promenadă Paseo de Pereda, bucurându-vă de briza mării și de priveliștea golfului. Dimineața, scufundați-vă în arta modernă la futuristul Centro Botín; terasa de pe acoperiș oferă o panoramă spectaculoasă. După o plimbare până la istorica Catedrală din Santander pentru a explora cripta romanică, savurați un prânz cu fructe de mare proaspete lângă animatul Mercado de la Esperanza. După-amiaza este dedicată bogatei istorii maritime a Cantabriei la Muzeul Maritim. Încheiați turul pietonal cu o pauză relaxantă la plaja urbană Peligros, privind bărcile din golf.",
-        "en": "Start your day on the elegant Paseo de Pereda promenade, enjoying the sea breeze and bay views. In the morning, immerse yourself in modern art at the futuristic Centro Botín; its rooftop offers a spectacular panorama. After a walk to the historic Santander Cathedral to explore its Romanesque crypt, enjoy a fresh seafood lunch near the bustling Mercado de la Esperanza. The afternoon is dedicated to Cantabria's rich maritime history at the Maritime Museum. Conclude your walking tour with a relaxing break at the urban Peligros Beach, watching the boats in the bay."
+        "en": "Start your day on the elegant Paseo de Pereda promenade, enjoying the sea breeze and bay views. In the morning, immerse yourself in modern art at the futuristic Centro Botín; its rooftop offers a spectacular panorama. After a walk to the historic Santander Cathedral to explore its Romanesque crypt, enjoy a fresh seafood lunch near the bustling Mercado de la Esperanza. The afternoon is dedicated to Cantabria's rich maritime history at the Maritime Museum. Conclude your walking tour with a relaxing break at the urban Peligros Beach, watching the boats in the bay.",
+        "es": "Comienza el día en el elegante Paseo de Pereda, disfrutando de la brisa marina y las vistas de la bahía. Por la mañana, sumérgete en el arte moderno del futurista Centro Botín; su azotea ofrece un panorama espectacular. Tras un paseo a la histórica Catedral de Santander para explorar su cripta románica, disfruta de un almuerzo de mariscos frescos cerca del animado Mercado de la Esperanza. La tarde está dedicada a la rica historia marítima de Cantabria en el Museo Marítimo. Concluye el recorrido a pie con un descanso relajante en la playa de Peligros, viendo los barcos en la bahía."
       },
       "gastro_picks": {
         "de": [
@@ -351,6 +364,11 @@
           "Wear comfortable shoes as the city center can be hilly.",
           "Many shops and even some museums close for an afternoon siesta, so plan accordingly.",
           "Keep an eye on the tides when walking on the beaches, as they can change dramatically."
+        ],
+        "es": [
+          "Lleva calzado cómodo, ya que el centro puede ser empinado.",
+          "Muchas tiendas e incluso algunos museos cierran por la siesta vespertina, planifica en consecuencia.",
+          "Vigila las mareas al caminar por las playas, ya que pueden cambiar drásticamente."
         ]
       }
     },
@@ -367,7 +385,8 @@
             "de": "Centro Botín",
             "hu": "Centro Botín",
             "ro": "Centrul Botín",
-            "en": "Centro Botín"
+            "en": "Centro Botín",
+            "es": "Centro Botín"
           },
           "coords": [
             -3.8033,
@@ -382,7 +401,8 @@
             "de": "Mieten Sie Ihr Fahrrad in der Nähe und starten Sie Ihre Tour von hier aus.",
             "hu": "Béreljen kerékpárt a közelben, és innen indítsa a túrát.",
             "ro": "Închiriați bicicleta din apropiere și începeți turul de aici.",
-            "en": "Rent your bike nearby and start your tour from here."
+            "en": "Rent your bike nearby and start your tour from here.",
+            "es": "Alquila una bici cerca y comienza tu ruta desde aquí."
           }
         },
         {
@@ -390,7 +410,8 @@
             "de": "Paseo de Pereda",
             "hu": "Paseo de Pereda",
             "ro": "Paseo de Pereda",
-            "en": "Paseo de Pereda"
+            "en": "Paseo de Pereda",
+            "es": "Paseo de Pereda"
           },
           "coords": [
             -3.8045,
@@ -405,7 +426,8 @@
             "de": "Genießen Sie die flache und malerische Fahrt entlang der Bucht.",
             "hu": "Élvezze a sík és festői utat az öböl mentén.",
             "ro": "Bucurați-vă de plimbarea plată și pitorească de-a lungul golfului.",
-            "en": "Enjoy the flat and scenic ride along the bay."
+            "en": "Enjoy the flat and scenic ride along the bay.",
+            "es": "Disfruta del paseo llano y pintoresco junto a la bahía."
           }
         },
         {
@@ -413,7 +435,8 @@
             "de": "Palacio de la Magdalena",
             "hu": "Magdalena-palota",
             "ro": "Palatul Magdalena",
-            "en": "Magdalena Palace"
+            "en": "Magdalena Palace",
+            "es": "Magdalena Palace"
           },
           "coords": [
             -3.763,
@@ -428,7 +451,8 @@
             "de": "Schließen Sie Ihr Fahrrad am Eingang ab und erkunden Sie die Halbinsel zu Fuß.",
             "hu": "Zárja le a kerékpárt a bejáratnál, és fedezze fel a félszigetet gyalog.",
             "ro": "Lăsați bicicleta la intrare și explorați peninsula pe jos.",
-            "en": "Lock your bike at the entrance and explore the peninsula on foot."
+            "en": "Lock your bike at the entrance and explore the peninsula on foot.",
+            "es": "Asegura tu bicicleta en la entrada y explora la península a pie."
           }
         },
         {
@@ -436,7 +460,8 @@
             "de": "Strand von El Sardinero",
             "hu": "El Sardinero strand",
             "ro": "Plaja El Sardinero",
-            "en": "El Sardinero Beach"
+            "en": "El Sardinero Beach",
+            "es": "Playa del Sardinero"
           },
           "coords": [
             -3.782,
@@ -451,7 +476,8 @@
             "de": "Perfekt für eine Mittagspause. Viele Restaurants servieren Menú del Día.",
             "hu": "Tökéletes egy ebédszünetre. Sok étterem kínál Menú del Día-t.",
             "ro": "Perfect pentru o pauză de prânz. Multe restaurante servesc Menú del Día.",
-            "en": "Perfect for a lunch break. Many restaurants serve Menú del Día."
+            "en": "Perfect for a lunch break. Many restaurants serve Menú del Día.",
+            "es": "Perfecto para una pausa para comer. Muchos restaurantes ofrecen Menú del Día."
           }
         },
         {
@@ -459,7 +485,8 @@
             "de": "Gran Casino del Sardinero",
             "hu": "Gran Casino del Sardinero",
             "ro": "Marele Cazinou Sardinero",
-            "en": "Gran Casino del Sardinero"
+            "en": "Gran Casino del Sardinero",
+            "es": "Gran Casino del Sardinero"
           },
           "coords": [
             -3.784,
@@ -474,7 +501,8 @@
             "de": "Bewundern Sie die Belle-Époque-Architektur von außen.",
             "hu": "Csodálja meg kívülről a Belle Époque építészetét.",
             "ro": "Admirați arhitectura Belle Époque din exterior.",
-            "en": "Admire the Belle Époque architecture from the outside."
+            "en": "Admire the Belle Époque architecture from the outside.",
+            "es": "Admira la arquitectura de la Belle Époque desde el exterior."
           }
         },
         {
@@ -482,7 +510,8 @@
             "de": "Leuchtturm von Cabo Mayor",
             "hu": "Cabo Mayor világítótorony",
             "ro": "Farul Cabo Mayor",
-            "en": "Cabo Mayor Lighthouse"
+            "en": "Cabo Mayor Lighthouse",
+            "es": "Faro de Cabo Mayor"
           },
           "coords": [
             -3.805,
@@ -497,7 +526,8 @@
             "de": "Der Aufstieg lohnt sich für die atemberaubende Aussicht auf die Klippen.",
             "hu": "Megéri felmenni a sziklákra nyíló lélegzetelállító kilátásért.",
             "ro": "Urcușul merită pentru priveliștea uluitoare a stâncilor.",
-            "en": "The climb is worth it for the breathtaking cliffside views."
+            "en": "The climb is worth it for the breathtaking cliffside views.",
+            "es": "La subida merece la pena por las impresionantes vistas desde los acantilados."
           }
         },
         {
@@ -505,7 +535,8 @@
             "de": "Piquío-Gärten",
             "hu": "Piquío kertek",
             "ro": "Grădinile Piquío",
-            "en": "Piquío Gardens"
+            "en": "Piquío Gardens",
+            "es": "Jardines de Piquío"
           },
           "coords": [
             -3.783,
@@ -520,7 +551,8 @@
             "de": "Ein schöner Ort, um den Sonnenuntergang über dem Strand von Sardinero zu beobachten.",
             "hu": "Gyönyörű hely a naplemente megtekintéséhez a Sardinero strand felett.",
             "ro": "Un loc frumos pentru a privi apusul peste plaja Sardinero.",
-            "en": "A beautiful spot to watch the sunset over Sardinero beach."
+            "en": "A beautiful spot to watch the sunset over Sardinero beach.",
+            "es": "Un lugar precioso para ver la puesta de sol sobre la playa del Sardinero."
           }
         }
       ],
@@ -528,7 +560,8 @@
         "de": "Starten Sie Ihre Radtour am Centro Botín und fahren Sie entlang der malerischen Bucht auf dem Paseo de Pereda. Die Route führt Sie zur atemberaubenden Halbinsel Magdalena, wo Sie den königlichen Palast erkunden können. Machen Sie eine wohlverdiente Mittagspause am berühmten Strand von El Sardinero und bewundern Sie die elegante Fassade des Gran Casinos. Am Nachmittag wartet eine anspruchsvollere, aber lohnende Fahrt zum Leuchtturm von Cabo Mayor auf Sie, der spektakuläre Ausblicke auf die Klippen bietet. Auf dem Rückweg halten Sie in den Piquío-Gärten an, um einen perfekten Sonnenuntergang über dem Meer zu erleben.",
         "hu": "Kezdje a kerékpártúrát a Centro Botínnál, majd tekerjen végig a festői öböl mentén a Paseo de Peredán. Az útvonal a lenyűgöző Magdalena-félszigetre vezet, ahol felfedezheti a királyi palotát. Tartson egy jól megérdemelt ebédszünetet a híres El Sardinero strandon, és csodálja meg a Gran Casino elegáns homlokzatát. Délután egy nagyobb kihívást jelentő, de annál kifizetődőbb út várja a Cabo Mayor világítótoronyhoz, ahonnan látványos kilátás nyílik a sziklákra. Visszafelé álljon meg a Piquío kerteknél, hogy élvezze a tökéletes naplementét a tenger felett.",
         "ro": "Începeți turul cu bicicleta de la Centrul Botín, pedalând de-a lungul golfului pitoresc pe Paseo de Pereda. Traseul vă duce la uimitoarea Peninsulă Magdalena pentru a explora palatul regal. Luați o pauză de prânz binemeritată la faimoasa plajă El Sardinero, admirând fațada elegantă a Marelui Cazinou. După-amiaza vă așteaptă o plimbare mai dificilă, dar plină de satisfacții, până la Farul Cabo Mayor, pentru vederi spectaculoase ale stâncilor. Pe drumul de întoarcere, opriți-vă la Grădinile Piquío pentru un apus perfect peste mare.",
-        "en": "Start your bike tour at Centro Botín, cycling along the scenic bay on Paseo de Pereda. The route takes you to the stunning Magdalena Peninsula to explore the royal palace. Take a well-deserved lunch break at the famous El Sardinero beach, admiring the elegant façade of the Gran Casino. In the afternoon, a more challenging but rewarding ride awaits to Cabo Mayor Lighthouse for spectacular cliffside views. On your way back, stop at Piquío Gardens for a perfect sunset over the sea."
+        "en": "Start your bike tour at Centro Botín, cycling along the scenic bay on Paseo de Pereda. The route takes you to the stunning Magdalena Peninsula to explore the royal palace. Take a well-deserved lunch break at the famous El Sardinero beach, admiring the elegant façade of the Gran Casino. In the afternoon, a more challenging but rewarding ride awaits to Cabo Mayor Lighthouse for spectacular cliffside views. On your way back, stop at Piquío Gardens for a perfect sunset over the sea.",
+        "es": "Comienza tu ruta en bicicleta en el Centro Botín, pedaleando por la bahía en el Paseo de Pereda. La ruta te lleva a la impresionante península de la Magdalena para explorar el palacio real. Haz una merecida pausa para comer en la famosa playa del Sardinero, admirando la elegante fachada del Gran Casino. Por la tarde, te espera un tramo más exigente pero gratificante hasta el Faro de Cabo Mayor para disfrutar de espectaculares vistas al acantilado. De regreso, para en los Jardines de Piquío para una puesta de sol perfecta sobre el mar."
       },
       "gastro_picks": {
         "de": [
@@ -720,6 +753,11 @@
           "Use the dedicated bike paths along the coast.",
           "Some sections, especially the climb to Cabo Mayor, require a good level of fitness.",
           "Always lock your bike securely, especially in busy areas like the beaches."
+        ],
+        "es": [
+          "Utiliza los carriles bici señalizados a lo largo de la costa.",
+          "Algunos tramos, especialmente la subida a Cabo Mayor, requieren un buen nivel de forma física.",
+          "Asegura siempre bien tu bicicleta, sobre todo en zonas concurridas como las playas."
         ]
       }
     },
@@ -736,7 +774,8 @@
             "de": "Parken im Zentrum & Paseo de Pereda",
             "hu": "Parkolás a központban és Paseo de Pereda",
             "ro": "Parcare în centru și Paseo de Pereda",
-            "en": "Parking in the Center & Paseo de Pereda"
+            "en": "Parking in the Center & Paseo de Pereda",
+            "es": "Aparcamiento en el Centro y Paseo de Pereda"
           },
           "coords": [
             -3.81,
@@ -752,7 +791,8 @@
             "de": "Nutzen Sie eine der Tiefgaragen. Von dort aus ist das Zentrum leicht zu Fuß erreichbar.",
             "hu": "Használja a mélygarázsok egyikét. A központ onnan könnyen megközelíthető gyalog.",
             "ro": "Folosiți una dintre parcările subterane. Centrul este ușor accesibil pe jos de acolo.",
-            "en": "Use one of the underground car parks. The center is easily walkable from there."
+            "en": "Use one of the underground car parks. The center is easily walkable from there.",
+            "es": "Usa uno de los aparcamientos subterráneos. El centro es fácilmente accesible a pie desde allí."
           }
         },
         {
@@ -760,7 +800,8 @@
             "de": "Centro Botín",
             "hu": "Centro Botín",
             "ro": "Centrul Botín",
-            "en": "Centro Botín"
+            "en": "Centro Botín",
+            "es": "Centro Botín"
           },
           "coords": [
             -3.8033,
@@ -776,7 +817,8 @@
             "de": "Ein kurzer Spaziergang vom Parkhaus. Genießen Sie die Architektur.",
             "hu": "Rövid séta a parkolóháztól. Élvezze az építészetet.",
             "ro": "O scurtă plimbare de la parcare. Bucurați-vă de arhitectură.",
-            "en": "A short walk from the car park. Enjoy the architecture."
+            "en": "A short walk from the car park. Enjoy the architecture.",
+            "es": "A un breve paseo desde el aparcamiento. Disfruta de la arquitectura."
           }
         },
         {
@@ -784,7 +826,8 @@
             "de": "Kathedrale von Santander",
             "hu": "Santanderi katedrális",
             "ro": "Catedrala din Santander",
-            "en": "Santander Cathedral"
+            "en": "Santander Cathedral",
+            "es": "Catedral de Santander"
           },
           "coords": [
             -3.805,
@@ -800,7 +843,8 @@
             "de": "Erklimmen Sie den Hügel, um dieses historische Zentrum der Stadt zu erreichen.",
             "hu": "Másszon fel a dombra, hogy elérje a város történelmi központját.",
             "ro": "Urcați dealul pentru a ajunge la acest centru istoric al orașului.",
-            "en": "Climb the hill to reach this historic center of the city."
+            "en": "Climb the hill to reach this historic center of the city.",
+            "es": "Sube la colina para llegar a este centro histórico de la ciudad."
           }
         },
         {
@@ -808,7 +852,8 @@
             "de": "Fahrt & Parken an der Halbinsel Magdalena",
             "hu": "Utazás és parkolás a Magdalena-félszigeten",
             "ro": "Conduceți și parcați la Peninsula Magdalena",
-            "en": "Drive & Park at Magdalena Peninsula"
+            "en": "Drive & Park at Magdalena Peninsula",
+            "es": "Conduce y aparca en la Península de la Magdalena"
           },
           "coords": [
             -3.768,
@@ -824,7 +869,8 @@
             "de": "Im Sommer kann das Parken hier schwierig sein. Kommen Sie früh oder seien Sie geduldig.",
             "hu": "Nyáron nehéz lehet itt parkolni. Érkezzen korán, vagy legyen türelmes.",
             "ro": "Parcarea poate fi dificilă aici vara. Veniți devreme sau aveți răbdare.",
-            "en": "Parking can be difficult here in summer. Arrive early or be patient."
+            "en": "Parking can be difficult here in summer. Arrive early or be patient.",
+            "es": "Aparcar aquí puede ser difícil en verano. Llega temprano o ten paciencia."
           }
         },
         {
@@ -832,7 +878,8 @@
             "de": "Palacio de la Magdalena & Mittagessen",
             "hu": "Magdalena-palota és ebéd",
             "ro": "Palatul Magdalena și prânzul",
-            "en": "Magdalena Palace & Lunch"
+            "en": "Magdalena Palace & Lunch",
+            "es": "Palacio de la Magdalena y almuerzo"
           },
           "coords": [
             -3.763,
@@ -848,7 +895,8 @@
             "de": "Erkunden Sie den Palast und die Gärten und essen Sie dann in einem Restaurant am Sardinero zu Mittag.",
             "hu": "Fedezze fel a palotát és a kerteket, majd ebédeljen egy étteremben a Sardinerón.",
             "ro": "Explorați palatul și grădinile, apoi luați prânzul la un restaurant de pe Sardinero.",
-            "en": "Explore the palace and gardens, then have lunch at a restaurant on Sardinero."
+            "en": "Explore the palace and gardens, then have lunch at a restaurant on Sardinero.",
+            "es": "Explora el palacio y los jardines, luego almuerza en un restaurante del Sardinero."
           }
         },
         {
@@ -856,7 +904,8 @@
             "de": "Fahrt zum Leuchtturm von Cabo Mayor",
             "hu": "Utazás a Cabo Mayor világítótoronyhoz",
             "ro": "Conduceți la Farul Cabo Mayor",
-            "en": "Drive to Cabo Mayor Lighthouse"
+            "en": "Drive to Cabo Mayor Lighthouse",
+            "es": "Conduce hasta el Faro de Cabo Mayor"
           },
           "coords": [
             -3.805,
@@ -872,7 +921,8 @@
             "de": "Parken Sie und gehen Sie den letzten Teil zu Fuß, um die dramatische Landschaft zu genießen.",
             "hu": "Parkoljon le, és tegye meg az utolsó szakaszt gyalog, hogy élvezze a drámai tájat.",
             "ro": "Parcați și parcurgeți ultima parte pe jos pentru a vă bucura de peisajul dramatic.",
-            "en": "Park and walk the final part to enjoy the dramatic scenery."
+            "en": "Park and walk the final part to enjoy the dramatic scenery.",
+            "es": "Aparca y camina el tramo final para disfrutar del paisaje dramático."
           }
         },
         {
@@ -880,7 +930,8 @@
             "de": "Entspannen am Strand von El Sardinero",
             "hu": "Pihenés az El Sardinero strandon",
             "ro": "Relaxare pe plaja El Sardinero",
-            "en": "Relax at El Sardinero Beach"
+            "en": "Relax at El Sardinero Beach",
+            "es": "Relájate en la Playa del Sardinero"
           },
           "coords": [
             -3.782,
@@ -896,7 +947,8 @@
             "de": "Ein letzter Halt, um die Abendsonne am berühmtesten Strand der Stadt zu genießen.",
             "hu": "Egy utolsó megálló, hogy élvezze az esti napsütést a város leghíresebb strandján.",
             "ro": "O ultimă oprire pentru a vă bucura de soarele de seară pe cea mai faimoasă plajă a orașului.",
-            "en": "A final stop to enjoy the evening sun on the city's most famous beach."
+            "en": "A final stop to enjoy the evening sun on the city's most famous beach.",
+            "es": "Una última parada para disfrutar del sol vespertino en la playa más famosa de la ciudad."
           }
         }
       ],
@@ -904,7 +956,8 @@
         "de": "Beginnen Sie Ihren Tag, indem Sie Ihr Auto im Stadtzentrum parken und den ersten Cluster zu Fuß erkunden: den eleganten Paseo de Pereda, das moderne Centro Botín und die historische Kathedrale. Am Mittag fahren Sie zum zweiten Cluster, der Halbinsel Magdalena. Nach der Erkundung des Palastes und einem Mittagessen am Meer fahren Sie zum dritten Cluster, dem Leuchtturm von Cabo Mayor, um die spektakuläre Aussicht auf die Klippen zu genießen. Beenden Sie den Tag mit einer entspannten Zeit am berühmten Strand von El Sardinero, bevor Sie die Rückfahrt antreten.",
         "hu": "Kezdje a napot azzal, hogy leparkolja autóját a városközpontban, és gyalog fedezi fel az első klasztert: az elegáns Paseo de Pereda sétányt, a modern Centro Botínt és a történelmi katedrálist. Délben vezessen a második klaszterhez, a Magdalena-félszigethez. A palota felfedezése és egy tengerparti ebéd után hajtson a harmadik klaszterhez, a Cabo Mayor világítótoronyhoz, hogy élvezze a sziklákra nyíló látványos kilátást. Zárja a napot egy pihentető időtöltéssel a híres El Sardinero strandon, mielőtt visszaindulna.",
         "ro": "Începeți ziua parcând mașina în centrul orașului și explorând primul cluster pe jos: elegantul Paseo de Pereda, modernul Centru Botín și catedrala istorică. La prânz, conduceți la al doilea cluster, Peninsula Magdalena. După explorarea palatului și un prânz pe malul mării, conduceți la al treilea cluster, Farul Cabo Mayor, pentru vederi spectaculoase ale stâncilor. Încheiați ziua cu un timp relaxant pe faimoasa plajă El Sardinero înainte de a vă întoarce.",
-        "en": "Start your day by parking in the city center and exploring the first cluster on foot: the elegant Paseo de Pereda, the modern Centro Botín, and the historic cathedral. At midday, drive to the second cluster, the Magdalena Peninsula. After exploring the palace and having lunch by the sea, drive to the third cluster, Cabo Mayor Lighthouse, for spectacular cliffside views. End the day with some relaxing time at the famous El Sardinero beach before heading back."
+        "en": "Start your day by parking in the city center and exploring the first cluster on foot: the elegant Paseo de Pereda, the modern Centro Botín, and the historic cathedral. At midday, drive to the second cluster, the Magdalena Peninsula. After exploring the palace and having lunch by the sea, drive to the third cluster, Cabo Mayor Lighthouse, for spectacular cliffside views. End the day with some relaxing time at the famous El Sardinero beach before heading back.",
+        "es": "Comienza el día aparcando en el centro y explorando a pie el primer conjunto: el elegante Paseo de Pereda, el moderno Centro Botín y la histórica catedral. Al mediodía, conduce hasta el segundo conjunto, la Península de la Magdalena. Tras explorar el palacio y almorzar junto al mar, conduce hasta el tercer conjunto, el Faro de Cabo Mayor, para disfrutar de espectaculares vistas desde los acantilados. Termina el día con un rato de relax en la famosa playa del Sardinero antes de regresar."
       },
       "gastro_picks": {
         "de": [
@@ -1096,6 +1149,11 @@
           "Parking in the city center is paid and limited. Underground car parks are the best option.",
           "Be aware of the blue zones (ORA) where parking is time-restricted.",
           "Traffic can be heavy during the summer and on weekends, so allow for extra travel time."
+        ],
+        "es": [
+          "El aparcamiento en el centro es de pago y limitado. Los aparcamientos subterráneos son la mejor opción.",
+          "Ten en cuenta las zonas azules (ORA) donde el aparcamiento está limitado por tiempo.",
+          "El tráfico puede ser denso en verano y los fines de semana, así que prevé más tiempo de viaje."
         ]
       }
     },
@@ -1112,7 +1170,8 @@
             "de": "Ankunft im Zentrum & Paseo de Pereda",
             "hu": "Érkezés a központba és Paseo de Pereda",
             "ro": "Sosire în centru și Paseo de Pereda",
-            "en": "Arrival in the Center & Paseo de Pereda"
+            "en": "Arrival in the Center & Paseo de Pereda",
+            "es": "Llegada al Centro y Paseo de Pereda"
           },
           "coords": [
             -3.8045,
@@ -1128,7 +1187,8 @@
             "de": "Die meisten Buslinien halten hier. Kaufen Sie eine wiederaufladbare Karte für günstigere Fahrten.",
             "hu": "A legtöbb buszjárat itt áll meg. Vásároljon újratölthető kártyát az olcsóbb utazásért.",
             "ro": "Majoritatea liniilor de autobuz opresc aici. Cumpărați un card reîncărcabil pentru călătorii mai ieftine.",
-            "en": "Most bus lines stop here. Buy a rechargeable card for cheaper fares."
+            "en": "Most bus lines stop here. Buy a rechargeable card for cheaper fares.",
+            "es": "La mayoría de líneas de autobús paran aquí. Compra una tarjeta recargable para tarifas más baratas."
           }
         },
         {
@@ -1136,7 +1196,8 @@
             "de": "Centro Botín",
             "hu": "Centro Botín",
             "ro": "Centrul Botín",
-            "en": "Centro Botín"
+            "en": "Centro Botín",
+            "es": "Centro Botín"
           },
           "coords": [
             -3.8033,
@@ -1152,7 +1213,8 @@
             "de": "Ein kurzer Spaziergang entlang der Gärten, um dieses architektonische Juwel zu erreichen.",
             "hu": "Rövid séta a kertek mentén, hogy elérje ezt az építészeti gyöngyszemet.",
             "ro": "O scurtă plimbare de-a lungul grădinilor pentru a ajunge la această bijuterie arhitecturală.",
-            "en": "A short stroll along the gardens to reach this architectural gem."
+            "en": "A short stroll along the gardens to reach this architectural gem.",
+            "es": "Un paseo corto por los jardines te lleva a esta joya arquitectónica."
           }
         },
         {
@@ -1160,7 +1222,8 @@
             "de": "Kathedrale von Santander",
             "hu": "Santanderi katedrális",
             "ro": "Catedrala din Santander",
-            "en": "Santander Cathedral"
+            "en": "Santander Cathedral",
+            "es": "Catedral de Santander"
           },
           "coords": [
             -3.805,
@@ -1176,7 +1239,8 @@
             "de": "Ein kurzer Aufstieg vom Zentrum aus.",
             "hu": "Rövid emelkedő a központból.",
             "ro": "O scurtă urcare din centru.",
-            "en": "A short uphill walk from the center."
+            "en": "A short uphill walk from the center.",
+            "es": "Una corta caminata cuesta arriba desde el centro."
           }
         },
         {
@@ -1184,7 +1248,8 @@
             "de": "Busfahrt zum Sardinero & Mittagessen",
             "hu": "Buszozás a Sardineróhoz és ebéd",
             "ro": "Călătorie cu autobuzul la Sardinero și prânz",
-            "en": "Bus to Sardinero & Lunch"
+            "en": "Bus to Sardinero & Lunch",
+            "es": "Autobús a Sardinero y almuerzo"
           },
           "coords": [
             -3.782,
@@ -1200,7 +1265,8 @@
             "de": "Mehrere Linien fahren direkt zum Strand. Steigen Sie am Casino aus.",
             "hu": "Több járat is közvetlenül a strandra visz. Szálljon le a kaszinónál.",
             "ro": "Mai multe linii merg direct la plajă. Coborâți la Cazinou.",
-            "en": "Several lines go directly to the beach. Get off at the Casino."
+            "en": "Several lines go directly to the beach. Get off at the Casino.",
+            "es": "Varias líneas van directo a la playa. Baja en el Casino."
           }
         },
         {
@@ -1208,7 +1274,8 @@
             "de": "Palacio de la Magdalena",
             "hu": "Magdalena-palota",
             "ro": "Palatul Magdalena",
-            "en": "Magdalena Palace"
+            "en": "Magdalena Palace",
+            "es": "Palacio de la Magdalena"
           },
           "coords": [
             -3.763,
@@ -1224,7 +1291,8 @@
             "de": "Ein angenehmer Spaziergang vom Strand von Sardinero um die Halbinsel herum.",
             "hu": "Kellemes séta a Sardinero strandtól a félsziget körül.",
             "ro": "O plimbare plăcută de la plaja Sardinero în jurul peninsulei.",
-            "en": "A pleasant walk from Sardinero beach around the peninsula."
+            "en": "A pleasant walk from Sardinero beach around the peninsula.",
+            "es": "Un agradable paseo desde la playa del Sardinero alrededor de la península."
           }
         },
         {
@@ -1232,7 +1300,8 @@
             "de": "Bus zum Leuchtturm von Cabo Mayor",
             "hu": "Busz a Cabo Mayor világítótoronyhoz",
             "ro": "Autobuz spre Farul Cabo Mayor",
-            "en": "Bus to Cabo Mayor Lighthouse"
+            "en": "Bus to Cabo Mayor Lighthouse",
+            "es": "Autobús a Faro de Cabo Mayor"
           },
           "coords": [
             -3.805,
@@ -1248,7 +1317,8 @@
             "de": "Die Buslinie endet in der Nähe. Ein letzter Spaziergang bietet eine tolle Aussicht.",
             "hu": "A buszjárat a közelben ér véget. Egy utolsó séta remek kilátást nyújt.",
             "ro": "Linia de autobuz se termină în apropiere. O plimbare finală oferă priveliști minunate.",
-            "en": "The bus line terminates nearby. A final walk offers great views."
+            "en": "The bus line terminates nearby. A final walk offers great views.",
+            "es": "La línea de autobús termina cerca. Un último paseo ofrece excelentes vistas."
           }
         }
       ],
@@ -1256,7 +1326,8 @@
         "de": "Ihr Tag beginnt im Herzen von Santander, leicht erreichbar mit dem Bus. Erkunden Sie den ersten Cluster zu Fuß: den Paseo de Pereda, das Centro Botín und die Kathedrale. Am Mittag bringt Sie ein Bus bequem zum zweiten Cluster, dem berühmten Strand El Sardinero. Nach dem Mittagessen und einem Spaziergang zum Magdalena-Palast nehmen Sie einen weiteren Bus zum atemberaubenden Leuchtturm von Cabo Mayor. Genießen Sie die Aussicht auf die Klippen, bevor Sie mit dem Bus ins Stadtzentrum zurückkehren und einen Tag voller Kontraste zwischen Stadtleben und rauer Küste erleben.",
         "hu": "A nap Santander szívében kezdődik, amely busszal könnyen megközelíthető. Fedezze fel gyalog az első klasztert: a Paseo de Pereda sétányt, a Centro Botínt és a katedrálist. Délben egy busz kényelmesen elviszi a második klaszterhez, a híres El Sardinero strandhoz. Ebéd és a Magdalena-palotához tett séta után szálljon fel egy másik buszra a lélegzetelállító Cabo Mayor világítótoronyhoz. Élvezze a sziklákra nyíló kilátást, mielőtt visszatérne a városközpontba egy kontrasztokkal teli nap után, amely a városi élet és a zord tengerpart között telt.",
         "ro": "Ziua dvs. începe în inima orașului Santander, ușor accesibil cu autobuzul. Explorați primul cluster pe jos: Paseo de Pereda, Centrul Botín și catedrala. La prânz, un autobuz vă duce confortabil la al doilea cluster, faimoasa plajă El Sardinero. După prânz și o plimbare la Palatul Magdalena, luați un alt autobuz spre uimitorul Far Cabo Mayor. Bucurați-vă de priveliștile stâncilor înainte de a vă întoarce în centrul orașului, încheind o zi plină de contraste între viața urbană și coasta accidentată.",
-        "en": "Your day starts in the heart of Santander, easily reached by bus. Explore the first cluster on foot: Paseo de Pereda, Centro Botín, and the cathedral. At midday, a bus takes you comfortably to the second cluster, the famous El Sardinero beach. After lunch and a walk to Magdalena Palace, take another bus to the stunning Cabo Mayor Lighthouse. Enjoy the cliffside views before returning to the city center, completing a day of contrasts between city life and rugged coast."
+        "en": "Your day starts in the heart of Santander, easily reached by bus. Explore the first cluster on foot: Paseo de Pereda, Centro Botín, and the cathedral. At midday, a bus takes you comfortably to the second cluster, the famous El Sardinero beach. After lunch and a walk to Magdalena Palace, take another bus to the stunning Cabo Mayor Lighthouse. Enjoy the cliffside views before returning to the city center, completing a day of contrasts between city life and rugged coast.",
+        "es": "Tu día comienza en el corazón de Santander, accesible en autobús. Explora a pie el primer conjunto: Paseo de Pereda, Centro Botín y la catedral. Al mediodía, un autobús te lleva cómodamente al segundo conjunto, la famosa playa del Sardinero. Tras el almuerzo y una caminata hasta el Palacio de la Magdalena, toma otro autobús hasta el impresionante Faro de Cabo Mayor. Disfruta de las vistas en los acantilados antes de volver al centro, completando un día de contrastes entre la vida urbana y la costa agreste."
       },
       "gastro_picks": {
         "de": [
@@ -1448,6 +1519,11 @@
           "Download the official TUS bus app for real-time schedules and routes.",
           "A one-day pass can be cost-effective if you plan on making several trips.",
           "Buses can be crowded during peak hours, especially on the routes to the beaches."
+        ],
+        "es": [
+          "Descarga la app oficial de TUS para horarios y rutas en tiempo real.",
+          "Un pase de un día puede ser rentable si planeas hacer varios trayectos.",
+          "Los autobuses pueden ir llenos en hora punta, especialmente en las líneas hacia las playas."
         ]
       }
     }

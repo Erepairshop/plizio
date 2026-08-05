@@ -21,7 +21,8 @@
             "de": "Ribeira Town Hall",
             "hu": "Ribeira Town Hall",
             "ro": "Ribeira Town Hall",
-            "en": "Ribeira Town Hall"
+            "en": "Ribeira Town Hall",
+            "es": "Casa Consistorial de Ribeira"
           },
           "coords": [
             -8.993351,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die markante Architektur dieses historischen städtischen Zentrums, das das Leben der Stadt prägt, und machen Sie morgens die besten Fotos.",
             "hu": "Csodálja meg a város életét meghatározó történelmi központ lenyűgöző építészetét, és álljon meg a téren a legjobb reggeli fotók elkészítéséhez.",
             "ro": "Admirați arhitectura impresionantă a acestui centru municipal istoric care ancorează viața orașului și opriți-vă în piață pentru cele mai bune fotografii matinale.",
-            "en": "Admire the striking architecture of this historic municipal center that anchors the town's life, and pause in the square for the best morning photos."
+            "en": "Admire the striking architecture of this historic municipal center that anchors the town's life, and pause in the square for the best morning photos.",
+            "es": "Admira la llamativa arquitectura de este histórico centro municipal que organiza la vida del pueblo y haz una pausa en la plaza para las mejores fotos matinales."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Igrexa de Santa Uxía de Ribeira",
             "hu": "Igrexa de Santa Uxía de Ribeira",
             "ro": "Igrexa de Santa Uxía de Ribeira",
-            "en": "Igrexa de Santa Uxía de Ribeira"
+            "en": "Igrexa de Santa Uxía de Ribeira",
+            "es": "Igrexa de Santa Uxía de Ribeira"
           },
           "coords": [
             -8.992064,
@@ -59,7 +62,8 @@
             "de": "Betreten Sie diese zentrale neoklassizistische Kirche, um die friedliche Atmosphäre zu erleben, aber prüfen Sie vorher die Messezeiten an der Tür.",
             "hu": "Lépjen be ebbe a központi neoklasszicista templomba a békés hangulatért, de mindenképpen ellenőrizze a misék időpontját az ajtón belépés előtt.",
             "ro": "Intrați în această biserică neoclasică centrală pentru a experimenta atmosfera sa pașnică, dar verificați orarul slujbelor pe ușă înainte de a intra.",
-            "en": "Step inside this central neoclassical church to experience its peaceful atmosphere, but make sure to check the mass times on the door before entering."
+            "en": "Step inside this central neoclassical church to experience its peaceful atmosphere, but make sure to check the mass times on the door before entering.",
+            "es": "Entra en esta iglesia neoclásica central para sentir su atmósfera tranquila, pero comprueba los horarios de misa en la puerta antes de entrar."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Museo Municipal de Ribeira",
             "hu": "Museo Municipal de Ribeira",
             "ro": "Museo Municipal de Ribeira",
-            "en": "Museo Municipal de Ribeira"
+            "en": "Museo Municipal de Ribeira",
+            "es": "Museo Municipal de Ribeira"
           },
           "coords": [
             -8.99046,
@@ -82,7 +87,8 @@
             "de": "Entdecken Sie die reiche maritime Geschichte und lokale Kunst in diesem Museum und fragen Sie das Personal nach den neuesten temporären Ausstellungen.",
             "hu": "Fedezze fel a gazdag tengerészeti történelmet és a helyi művészeteket ebben a múzeumban, és ne felejtse el megkérdezni a személyzetet az új kiállításokról.",
             "ro": "Explorați bogata istorie maritimă și artele locale prezentate în acest muzeu, asigurându-vă că întrebați personalul despre cele mai noi expoziții temporare.",
-            "en": "Explore the rich maritime history and local arts showcased in this museum, making sure to ask the staff about the latest temporary exhibitions."
+            "en": "Explore the rich maritime history and local arts showcased in this museum, making sure to ask the staff about the latest temporary exhibitions.",
+            "es": "Explora la rica historia marítima y las artes locales que exhibe este museo, y pregunta al personal por las exposiciones temporales más recientes."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Auditorio Municipal de Ribeira",
             "hu": "Auditorio Municipal de Ribeira",
             "ro": "Auditorio Municipal de Ribeira",
-            "en": "Auditorio Municipal de Ribeira"
+            "en": "Auditorio Municipal de Ribeira",
+            "es": "Auditorio Municipal de Ribeira"
           },
           "coords": [
             -8.988658,
@@ -105,7 +112,8 @@
             "de": "Genießen Sie das moderne Design dieses wichtigen kulturellen Zentrums und überprüfen Sie den abendlichen Veranstaltungsplan an der Hauptkasse.",
             "hu": "Tekintse meg ennek a helyi előadásokat befogadó kulturális központnak a modern dizájnját, és érdeklődjön az esti programokról a főpénztárnál.",
             "ro": "Admirați designul modern al acestui hub cultural vital care găzduiește spectacole locale și verificați programul evenimentelor de seară la casa de bilete.",
-            "en": "Take in the modern design of this vital cultural hub that hosts local performances, and verify their evening event schedule at the main box office."
+            "en": "Take in the modern design of this vital cultural hub that hosts local performances, and verify their evening event schedule at the main box office.",
+            "es": "Aprecia el diseño moderno de este importante centro cultural que acoge espectáculos locales y consulta su programación vespertina en la taquilla principal."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Praia Cativa",
             "hu": "Praia Cativa",
             "ro": "Praia Cativa",
-            "en": "Praia Cativa"
+            "en": "Praia Cativa",
+            "es": "Praia Cativa"
           },
           "coords": [
             -8.985348,
@@ -128,7 +137,8 @@
             "de": "Entspannen Sie am weichen Sand dieses zugänglichen Stadtstrandes und genießen Sie den Blick auf die Bucht, aber vergessen Sie nicht Sonnencreme und Handtuch.",
             "hu": "Pihenjen a könnyen megközelíthető városi strand puha homokján, élvezve az öbölre nyíló kilátást, és ne felejtsen el naptejet és egy könnyű törölközőt hozni.",
             "ro": "Relaxați-vă pe nisipul moale al acestei plaje urbane accesibile, bucurându-vă de priveliștea golfului, și nu uitați să luați cremă de soare și un prosop ușor.",
-            "en": "Relax on the soft sands of this accessible urban beach while enjoying views of the bay, and remember to pack some sunscreen and a light towel."
+            "en": "Relax on the soft sands of this accessible urban beach while enjoying views of the bay, and remember to pack some sunscreen and a light towel.",
+            "es": "Relájate en la suave arena de esta accesible playa urbana disfrutando de las vistas de la bahía; recuerda llevar protector solar y una toalla ligera."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen am großen Rathaus von Ribeira und spüren Sie dann die Gelassenheit der neoklassizistischen Zentralkirche. Verbringen Sie den Mittag damit, in die lokale Geschichte und maritime Artefakte im beeindruckenden Museo Municipal einzutauchen. Setzen Sie Ihren Weg vorbei an der modernen Architektur des Auditoriums fort und steuern Sie langsam auf die Küste zu. Lassen Sie den Tag ausklingen, indem Sie den weichen Sand der Praia Cativa spüren und das Einsetzen der Dämmerung beobachten.",
         "hu": "Kezdje a reggelt a nagy Ribeira Városházán, majd érezze át a központi neoklasszicista templom nyugalmát. Töltse a delet a helyi történelem és a tengerészeti leletek felfedezésével a lenyűgöző Museo Municipalban. Folytassa útját a modern építészetű Auditórium mellett, lassan a pihentető partvidék felé véve az irányt. Zárja a napot a Praia Cativa puha homokján pihenve, figyelve, ahogy az alkonyat kecsesen leszáll a tengerparti öböl felett.",
         "ro": "Începeți dimineața la marea Primărie Ribeira, apoi simțiți seninătatea bisericii centrale neoclasice. Petreceți-vă prânzul explorând istoria locală și artefactele maritime la impresionantul Muzeu Municipal. Continuați pe lângă arhitectura modernă a Auditoriului, îndreptându-vă încet către coasta relaxantă. Încheiați ziua simțind nisipul moale la Praia Cativa, urmărind cum amurgul se lasă grațios peste golful de coastă.",
-        "en": "Start your morning at the grand Ribeira Town Hall, then feel the serenity of the central neoclassical church. Spend your midday diving into local history and maritime artifacts at the impressive Museo Municipal. Continue past the striking modern architecture of the local Auditorium as you head slowly towards the relaxing shoreline. Wind down the day by feeling the soft sand at Praia Cativa, watching the twilight gracefully settle over the coastal bay."
+        "en": "Start your morning at the grand Ribeira Town Hall, then feel the serenity of the central neoclassical church. Spend your midday diving into local history and maritime artifacts at the impressive Museo Municipal. Continue past the striking modern architecture of the local Auditorium as you head slowly towards the relaxing shoreline. Wind down the day by feeling the soft sand at Praia Cativa, watching the twilight gracefully settle over the coastal bay.",
+        "es": "Comienza la mañana en la imponente Casa Consistorial de Ribeira y luego siente la serenidad de la iglesia neoclásica central. Pasa el mediodía sumergiéndote en la historia local y los objetos marítimos del impresionante Museo Municipal. Continúa junto a la arquitectura moderna del Auditorio mientras te diriges con calma hacia la costa relajante. Termina el día sintiendo la arena suave en Praia Cativa y observando cómo el crepúsculo se posa sobre la bahía."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Der Vormittag beginnt im Zentrum, wo Gebäude Schutz bieten. Mittags flüchten wir in das Museum vor dem Regen. Der Nachmittag gehört der Kultur im trockenen Auditorium. Den Abschluss bildet ein stürmischer Blick auf den Atlantik, gut eingepackt in Regenkleidung.",
             "hu": "A délelőtt a központban indul, ahol az épületek védelmet nyújtanak. Délben a múzeumba menekülünk az eső elől. A délután a kultúráé a száraz auditóriumban. A napot egy viharos atlanti-óceáni látvány zárja a parton, vízhatlan ruházatba burkolózva.",
             "ro": "Dimineața începe în centru, unde clădirile oferă adăpost. La prânz ne refugiem în muzeu de ploaie. După-amiaza este dedicată culturii în auditoriul uscat. Ziua se încheie cu o vedere furtunoasă spre Atlantic, bine echipați cu haine de ploaie.",
-            "en": "The morning starts in the center, where buildings provide shelter. At noon, we take refuge in the museum from the rain. The afternoon is for culture in the dry auditorium. The day ends with a stormy Atlantic view at the beach, wrapped in waterproof gear."
+            "en": "The morning starts in the center, where buildings provide shelter. At noon, we take refuge in the museum from the rain. The afternoon is for culture in the dry auditorium. The day ends with a stormy Atlantic view at the beach, wrapped in waterproof gear.",
+            "es": "La mañana comienza en el centro, donde los edificios ofrecen refugio. Al mediodía, nos resguardamos de la lluvia en el museo. La tarde es para la cultura en el auditorio seco. El día termina con una vista tormentosa del Atlántico en la playa, abrigados con ropa impermeable."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Ribeira Town Hall",
                 "hu": "Ribeira Town Hall",
                 "ro": "Ribeira Town Hall",
-                "en": "Ribeira Town Hall"
+                "en": "Ribeira Town Hall",
+                "es": "Casa Consistorial de Ribeira"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die neoklassizistische Fassade vom gegenüberliegenden Arkadengang aus; nutzen Sie die überdachten Bereiche, um Ihre Karte trocken zu studieren.",
                 "hu": "Csodálja meg a neoklasszicista homlokzatot a szemközti árkádok alól; használja a fedett részeket a térkép szárazon történő áttanulmányozásához.",
                 "ro": "Admirați fațada neoclasică de sub arcadele de vis-à-vis; folosiți zonele acoperite pentru a studia harta fără a o uda în ploaia galiciană.",
-                "en": "Admire the neoclassical facade from the arcades across the street; use the covered areas to study your map while staying dry in the Galician rain."
+                "en": "Admire the neoclassical facade from the arcades across the street; use the covered areas to study your map while staying dry in the Galician rain.",
+                "es": "Admira la fachada neoclásica desde los soportales al otro lado de la calle; usa las zonas cubiertas para consultar el mapa y mantenerte seco bajo la lluvia gallega."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Igrexa de Santa Uxía de Ribeira",
                 "hu": "Igrexa de Santa Uxía de Ribeira",
                 "ro": "Igrexa de Santa Uxía de Ribeira",
-                "en": "Igrexa de Santa Uxía de Ribeira"
+                "en": "Igrexa de Santa Uxía de Ribeira",
+                "es": "Igrexa de Santa Uxía de Ribeira"
               },
               "tip_5lang": {
                 "de": "Die Kirche bietet einen besinnlichen Zufluchtsort vor dem prasselnden Regen; achten Sie beim Eintreten auf die durch Nässe glatten Steinstufen.",
                 "hu": "A templom meghitt menedéket nyújt a kopogó eső elől; belépéskor ügyeljen a nedvességtől csúszóssá vált kőlépcsőkre a főbejáratnál.",
                 "ro": "Biserica oferă un refugiu liniștit de ploaia torențială; aveți grijă la treptele de piatră care devin alunecoase la intrarea principală.",
-                "en": "The church offers a peaceful refuge from the pattering rain; be careful of the stone steps that become slippery when wet at the main entrance."
+                "en": "The church offers a peaceful refuge from the pattering rain; be careful of the stone steps that become slippery when wet at the main entrance.",
+                "es": "La iglesia ofrece un refugio tranquilo contra la lluvia; ten cuidado con los escalones de piedra que se vuelven resbaladizos cuando están mojados en la entrada principal."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Museo Municipal de Ribeira",
                 "hu": "Museo Municipal de Ribeira",
                 "ro": "Museo Municipal de Ribeira",
-                "en": "Museo Municipal de Ribeira"
+                "en": "Museo Municipal de Ribeira",
+                "es": "Museo Municipal de Ribeira"
               },
               "tip_5lang": {
                 "de": "Verlängern Sie Ihren Besuch, um die lokale Geschichte im Trockenen zu erkunden; geben Sie Ihren nassen Schirm am Eingang in den dafür vorgesehenen Ständer.",
                 "hu": "Hosszabbítsa meg látogatását, hogy szárazon ismerje meg a helyi történelmet; a vizes esernyőt hagyja a bejáratnál lévő tartóban a kényelmes nézelődéshez.",
                 "ro": "Prelungiți vizita pentru a explora istoria locală la adăpost; lăsați umbrela udă în suportul de la intrare pentru a vizita relaxat exponatele.",
-                "en": "Extend your visit to explore local history while staying dry; leave your wet umbrella in the stand at the entrance for a comfortable tour."
+                "en": "Extend your visit to explore local history while staying dry; leave your wet umbrella in the stand at the entrance for a comfortable tour.",
+                "es": "Alarga tu visita para explorar la historia local mientras te mantienes seco; deja el paraguas mojado en el soporte de la entrada para un recorrido cómodo."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Auditorio Municipal de Ribeira",
                 "hu": "Auditorio Municipal de Ribeira",
                 "ro": "Auditorio Municipal de Ribeira",
-                "en": "Auditorio Municipal de Ribeira"
+                "en": "Auditorio Municipal de Ribeira",
+                "es": "Auditorio Municipal de Ribeira"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie das Tagesprogramm für eine spontane Indoor-Veranstaltung; das moderne Foyer ist der ideale Ort, um einen kurzen Regenschauer abzuwarten.",
                 "hu": "Nézze meg a napi programot egy spontán benti eseményért; a modern előtér ideális hely egy rövid zápor átvészeléséhez a kulturális negyedben.",
                 "ro": "Verificați programul zilei pentru un eveniment spontan la interior; foierul modern este locul ideal pentru a aștepta trecerea unei averse scurte.",
-                "en": "Check the daily program for a spontaneous indoor event; the modern foyer is the ideal place to wait out a short downpour in the cultural district."
+                "en": "Check the daily program for a spontaneous indoor event; the modern foyer is the ideal place to wait out a short downpour in the cultural district.",
+                "es": "Consulta la programación diaria por si hay algún evento interior espontáneo; el vestíbulo moderno es el lugar ideal para esperar una lluvia corta."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Praia Cativa",
                 "hu": "Praia Cativa",
                 "ro": "Praia Cativa",
-                "en": "Praia Cativa"
+                "en": "Praia Cativa",
+                "es": "Praia Cativa"
               },
               "tip_5lang": {
                 "de": "Erleben Sie die raue Schönheit des grauen Meeres von einer geschützten Ufermauer aus; festes, wasserdichtes Schuhwerk ist für den nassen Sand unerlässlich.",
                 "hu": "Tapasztalja meg a szürke tenger nyers szépségét egy védett partfal mellől; a nedves homok miatt a vízálló lábbeli elengedhetetlen a sétához.",
                 "ro": "Experimentați frumusețea crudă a mării cenușii de lângă un zid de protecție; încălțămintea impermeabilă este esențială pentru nisipul ud.",
-                "en": "Experience the raw beauty of the grey sea from a sheltered sea wall; waterproof footwear is essential for walking on the wet sand."
+                "en": "Experience the raw beauty of the grey sea from a sheltered sea wall; waterproof footwear is essential for walking on the wet sand.",
+                "es": "Experimenta la belleza cruda del mar gris desde un muro protector; calzado impermeable es imprescindible para caminar por la arena mojada."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein frischer Wintermorgen am Rathaus weckt die Geister. Mittags wärmen wir uns in der Kirche und im Museum auf. Da die Sonne bereits gegen 17:00 Uhr sinkt, nutzen wir das letzte Tageslicht am Strand für die klare Meeresluft.",
             "hu": "A friss téli reggel a városházánál ébresztő erejű. Délben a templomban és a múzeumban melegszünk fel. Mivel a nap már 17:00 körül lemegy, az utolsó fényeket a tengerparton töltjük a tiszta óceáni levegőn.",
             "ro": "O dimineață răcoroasă de iarnă la primărie este revigorantă. La prânz ne încălzim în biserică și muzeu. Deoarece soarele apune deja în jur de ora 17:00, folosim ultima lumină pe plajă pentru aerul curat.",
-            "en": "A crisp winter morning at the Town Hall is invigorating. At noon, we warm up inside the church and museum. Since the sun sets around 17:00, we use the last daylight at the beach for the clear ocean air."
+            "en": "A crisp winter morning at the Town Hall is invigorating. At noon, we warm up inside the church and museum. Since the sun sets around 17:00, we use the last daylight at the beach for the clear ocean air.",
+            "es": "Una fresca mañana invernal en la Casa Consistorial es estimulante. Al mediodía, entramos en calor en la iglesia y el museo. Como el sol se pone sobre las 17:00, aprovechamos la última luz en la playa para respirar el aire puro del océano."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Ribeira Town Hall",
                 "hu": "Ribeira Town Hall",
                 "ro": "Ribeira Town Hall",
-                "en": "Ribeira Town Hall"
+                "en": "Ribeira Town Hall",
+                "es": "Casa Consistorial de Ribeira"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die klare Wintersonne auf dem Rathausplatz; tragen Sie mehrere Schichten Kleidung gegen den kühlen Wind, der von der Bucht herüberweht.",
                 "hu": "Élvezze a tiszta téli napsütést a városháza előtti téren; viseljen réteges öltözetet az öböl felől fújó hűvös szél ellen a reggeli órákban.",
                 "ro": "Bucurați-vă de soarele clar de iarnă în piața primăriei; purtați haine stratificate împotriva vântului răcoros care bate dinspre golf dimineața.",
-                "en": "Enjoy the clear winter sun in the town hall square; wear layered clothing against the cool wind blowing from the bay in the morning."
+                "en": "Enjoy the clear winter sun in the town hall square; wear layered clothing against the cool wind blowing from the bay in the morning.",
+                "es": "Disfruta del claro sol invernal en la plaza del ayuntamiento; viste por capas para protegerte del fresco viento que viene de la bahía por la mañana."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Igrexa de Santa Uxía de Ribeira",
                 "hu": "Igrexa de Santa Uxía de Ribeira",
                 "ro": "Igrexa de Santa Uxía de Ribeira",
-                "en": "Igrexa de Santa Uxía de Ribeira"
+                "en": "Igrexa de Santa Uxía de Ribeira",
+                "es": "Igrexa de Santa Uxía de Ribeira"
               },
               "tip_5lang": {
                 "de": "Die dicken Steinmauern halten die Kälte draußen; zünden Sie eine Kerze an, um die spirituelle Wärme dieses historischen Ortes im Winter zu genießen.",
                 "hu": "A vastag kőfalak kint tartják a fagyos szelet; gyújtson egy gyertyát, hogy élvezze e történelmi hely spirituális melegségét a téli látogatáskor.",
                 "ro": "Zidurile groase de piatră țin frigul afară; aprindeți o lumânare pentru a vă bucura de căldura spirituală a acestui loc istoric pe timp de iarnă.",
-                "en": "The thick stone walls keep the freezing wind out; light a candle to enjoy the spiritual warmth of this historical place during your winter visit."
+                "en": "The thick stone walls keep the freezing wind out; light a candle to enjoy the spiritual warmth of this historical place during your winter visit.",
+                "es": "Los gruesos muros de piedra mantienen fuera el viento helado; enciende una vela para disfrutar del calor espiritual de este lugar histórico durante tu visita invernal."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Museo Municipal de Ribeira",
                 "hu": "Museo Municipal de Ribeira",
                 "ro": "Museo Municipal de Ribeira",
-                "en": "Museo Municipal de Ribeira"
+                "en": "Museo Municipal de Ribeira",
+                "es": "Museo Municipal de Ribeira"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den beheizten Innenraum für eine ausführliche Zeitreise; der Kontrast zwischen der Kälte draußen und der Gemütlichkeit drinnen ist perfekt.",
                 "hu": "Használja ki a fűtött belső tereket egy alapos időutazáshoz; a kinti hideg és a benti otthonos meleg kontrasztja tökéletes a múzeumlátogatáshoz.",
                 "ro": "Profitați de spațiile interioare încălzite pentru o călătorie în timp; contrastul dintre frigul de afară și căldura din interior este perfect.",
-                "en": "Take advantage of the heated interiors for a thorough journey through time; the contrast between the cold outside and cozy warmth inside is perfect."
+                "en": "Take advantage of the heated interiors for a thorough journey through time; the contrast between the cold outside and cozy warmth inside is perfect.",
+                "es": "Aprovecha los interiores calefactados para un recorrido completo por el tiempo; el contraste entre el frío exterior y el calor acogedor interior es perfecto."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Auditorio Municipal de Ribeira",
                 "hu": "Auditorio Municipal de Ribeira",
                 "ro": "Auditorio Municipal de Ribeira",
-                "en": "Auditorio Municipal de Ribeira"
+                "en": "Auditorio Municipal de Ribeira",
+                "es": "Auditorio Municipal de Ribeira"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich im modernen Gebäude auf, während Sie die kulturellen Auslagen studieren; planen Sie den Besuch vor 16 Uhr, um das Tageslicht zu nutzen.",
                 "hu": "Melegedjen fel a modern épületben, miközben a kulturális kiállításokat nézi; tervezze a látogatást 16 óra elé, hogy utána még lássa a naplementét.",
                 "ro": "Încălziți-vă în clădirea modernă în timp ce studiați expozițiile culturale; planificați vizita înainte de ora 16 pentru a prinde apoi apusul.",
-                "en": "Warm up in the modern building while studying the cultural displays; plan your visit before 4 PM to catch the sunset afterwards."
+                "en": "Warm up in the modern building while studying the cultural displays; plan your visit before 4 PM to catch the sunset afterwards.",
+                "es": "Entra en calor en el edificio moderno mientras repasas las muestras culturales; planea la visita antes de las 16:00 para poder ver el atardecer después."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Praia Cativa",
                 "hu": "Praia Cativa",
                 "ro": "Praia Cativa",
-                "en": "Praia Cativa"
+                "en": "Praia Cativa",
+                "es": "Praia Cativa"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr über dem Atlantik; eine Thermoskanne mit Tee macht den winterlichen Strandbesuch perfekt.",
                 "hu": "Nézze meg a korai, 17:00 körüli naplementét az Atlanti-óceán felett; egy termosz meleg tea teljessé teszi a téli tengerparti élményt.",
                 "ro": "Urmăriți apusul timpuriu, în jurul orei 17:00, peste Oceanul Atlantic; un termos cu ceai cald va face experiența de iarnă pe plajă perfectă.",
-                "en": "Watch the early sunset around 5 PM over the Atlantic Ocean; a thermos of warm tea will make the winter beach experience perfect."
+                "en": "Watch the early sunset around 5 PM over the Atlantic Ocean; a thermos of warm tea will make the winter beach experience perfect.",
+                "es": "Observa la puesta de sol temprana sobre el Atlántico alrededor de las 17:00; un termo de té caliente hará perfecta la experiencia invernal en la playa."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Miradoiro de San Roque",
             "hu": "Miradoiro de San Roque",
             "ro": "Miradoiro de San Roque",
-            "en": "Miradoiro de San Roque"
+            "en": "Miradoiro de San Roque",
+            "es": "Miradoiro de San Roque"
           },
           "coords": [
             -9.001233,
@@ -329,7 +363,8 @@
             "de": "Steigen Sie zu diesem malerischen Aussichtspunkt hinauf für ein weites Panorama der Küstenstadt, und bringen Sie eine Windjacke gegen die starke Meeresbrise mit.",
             "hu": "Másszon fel erre a festői kilátóra a tengerparti városra nyíló lenyűgöző panorámáért, és hozzon széldzsekit, mivel a tengeri szellő gyakran elég erős.",
             "ro": "Urcați la acest punct de belvedere pitoresc pentru panorame superbe asupra orașului de coastă și aduceți o jachetă, deoarece briza mării este adesea puternică.",
-            "en": "Climb up to this scenic viewpoint for sweeping panoramas over the entire coastal town, and bring a windbreaker as the sea breeze is often quite strong."
+            "en": "Climb up to this scenic viewpoint for sweeping panoramas over the entire coastal town, and bring a windbreaker as the sea breeze is often quite strong.",
+            "es": "Súbete a este mirador escénico para obtener panorámicas sobre todo el pueblo costero y lleva un cortavientos, pues la brisa marina suele ser bastante fuerte."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Casa da Xuventude",
             "hu": "Casa da Xuventude",
             "ro": "Casa da Xuventude",
-            "en": "Casa da Xuventude"
+            "en": "Casa da Xuventude",
+            "es": "Casa da Xuventude"
           },
           "coords": [
             -8.997169,
@@ -352,7 +388,8 @@
             "de": "Spüren Sie die lebhafte Atmosphäre dieses Jugend- und Kulturzentrums und werfen Sie einen Blick auf die schwarzen Bretter für kommende Veranstaltungen.",
             "hu": "Figyelje meg a helyi kreativitást ösztönző ifjúsági központ élénk hangulatát, és ellenőrizze a külső hirdetőtáblákon a közelgő közösségi eseményeket.",
             "ro": "Observați atmosfera plină de viață a acestui centru cultural pentru tineret și verificați panourile informative de afară pentru evenimentele comunitare viitoare.",
-            "en": "Notice the lively atmosphere of this youth and cultural center promoting local creativity, and check the notice boards outside for upcoming community events."
+            "en": "Notice the lively atmosphere of this youth and cultural center promoting local creativity, and check the notice boards outside for upcoming community events.",
+            "es": "Fíjate en el ambiente animado de este centro juvenil y cultural que promueve la creatividad local y consulta los tablones de anuncios exteriores para eventos comunitarios próximos."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Ribeira Town Hall",
             "hu": "Ribeira Town Hall",
             "ro": "Ribeira Town Hall",
-            "en": "Ribeira Town Hall"
+            "en": "Ribeira Town Hall",
+            "es": "Casa Consistorial de Ribeira"
           },
           "coords": [
             -8.993351,
@@ -375,7 +413,8 @@
             "de": "Bewundern Sie die markante Architektur dieses historischen städtischen Zentrums, das das Leben der Stadt prägt, und machen Sie morgens die besten Fotos.",
             "hu": "Csodálja meg a város életét meghatározó történelmi központ lenyűgöző építészetét, és álljon meg a téren a legjobb reggeli fotók elkészítéséhez.",
             "ro": "Admirați arhitectura impresionantă a acestui centru municipal istoric care ancorează viața orașului și opriți-vă în piață pentru cele mai bune fotografii matinale.",
-            "en": "Admire the striking architecture of this historic municipal center that anchors the town's life, and pause in the square for the best morning photos."
+            "en": "Admire the striking architecture of this historic municipal center that anchors the town's life, and pause in the square for the best morning photos.",
+            "es": "Admira la llamativa arquitectura de este histórico centro municipal que organiza la vida del pueblo y haz una pausa en la plaza para las mejores fotos matinales."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Mámoa da Fieiteira",
             "hu": "Mámoa da Fieiteira",
             "ro": "Mámoa da Fieiteira",
-            "en": "Mámoa da Fieiteira"
+            "en": "Mámoa da Fieiteira",
+            "es": "Mámoa da Fieiteira"
           },
           "coords": [
             -9.000193,
@@ -398,7 +438,8 @@
             "de": "Entdecken Sie diesen faszinierenden prähistorischen Grabhügel in der Landschaft und bleiben Sie auf den markierten Wegen, um die archäologische Stätte zu schützen.",
             "hu": "Fedezze fel ezt a tájban megbúvó lenyűgöző történelem előtti halomsírt, és maradjon a kijelölt ösvényeken, hogy segítsen megőrizni az ősi régészeti lelőhelyet.",
             "ro": "Descoperiți acest fascinant tumul funerar preistoric ascuns în peisaj și rămâneți pe potecile marcate pentru a ajuta la conservarea acestui sit arheologic antic.",
-            "en": "Discover this fascinating prehistoric burial mound hidden in the landscape, and stick to the designated paths to help preserve this ancient archaeological site."
+            "en": "Discover this fascinating prehistoric burial mound hidden in the landscape, and stick to the designated paths to help preserve this ancient archaeological site.",
+            "es": "Descubre este fascinante túmulo funerario prehistórico oculto en el paisaje y permanece en los caminos señalizados para ayudar a preservar este antiguo yacimiento arqueológico."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Miradoiro da Garita",
             "hu": "Miradoiro da Garita",
             "ro": "Miradoiro da Garita",
-            "en": "Miradoiro da Garita"
+            "en": "Miradoiro da Garita",
+            "es": "Miradoiro da Garita"
           },
           "coords": [
             -8.997267,
@@ -421,7 +463,8 @@
             "de": "Stehen Sie an diesem erhöhten Aussichtspunkt, um das Treffen von Land und Ozean zu bewundern, und sorgen Sie für eine aufgeladene Kamera für tolle Bilder.",
             "hu": "Álljon ezen a magaslati megfigyelőponton, hogy megcsodálja a szárazföld és az óceán találkozását, de győződjön meg róla, hogy a kamerája teljesen fel van töltve.",
             "ro": "Stați în acest punct de observație ridicat pentru a admira întâlnirea superbă dintre pământ și ocean, asigurându-vă că aveți camera complet încărcată.",
-            "en": "Stand at this elevated observation point to admire the stunning meeting of land and ocean, making sure your camera is fully charged for the great views."
+            "en": "Stand at this elevated observation point to admire the stunning meeting of land and ocean, making sure your camera is fully charged for the great views.",
+            "es": "Colócate en este punto elevado de observación para admirar la impresionante confluencia de tierra y océano y asegúrate de que la cámara esté bien cargada para las hermosas vistas."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Praia de Mosqueiros",
             "hu": "Praia de Mosqueiros",
             "ro": "Praia de Mosqueiros",
-            "en": "Praia de Mosqueiros"
+            "en": "Praia de Mosqueiros",
+            "es": "Praia de Mosqueiros"
           },
           "coords": [
             -8.99091,
@@ -444,7 +488,8 @@
             "de": "Entfliehen Sie den Massen an diesem ruhigeren Küstenabschnitt für eine friedliche Pause, und bringen Sie eigene Snacks mit, da die lokalen Angebote begrenzt sind.",
             "hu": "Meneküljön el a tömeg elől erre a csendesebb partszakaszra egy békés pihenésre, és hozzon magával saját rágcsálnivalót, mivel a helyi lehetőségek korlátozottak.",
             "ro": "Scăpați de aglomerație pe această porțiune de coastă mai liniștită, perfectă pentru odihnă, și aduceți propriile gustări, deoarece facilitățile locale sunt destul de limitate.",
-            "en": "Escape the crowds at this quieter stretch of shoreline perfect for a peaceful rest, and bring your own snacks as local facilities are fairly limited."
+            "en": "Escape the crowds at this quieter stretch of shoreline perfect for a peaceful rest, and bring your own snacks as local facilities are fairly limited.",
+            "es": "Escapa de las multitudes en este tramo de costa más tranquilo, perfecto para un descanso apacible; lleva tus propios tentempiés ya que las instalaciones locales son bastante limitadas."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Radeln Sie zum Miradoiro de San Roque für einen erfrischenden Start, bevor Sie zur lebhaften Casa da Xuventude hinunterfahren. Bewundern Sie das historische Rathaus, bevor Sie ins Landesinnere radeln, um die alten Geheimnisse des Grabhügels Mámoa da Fieiteira zu entdecken. Genießen Sie die Küstenbrise auf dem Weg zum Miradoiro da Garita und lassen Sie die herrliche Aussicht auf den Ozean auf sich wirken. Stellen Sie Ihr Fahrrad an der Praia de Mosqueiros ab, um sich die Beine zu vertreten und eine wohlverdiente Pause zu machen.",
         "hu": "Tekerjen fel a San Roque kilátóhoz egy frissítő kezdésért, majd guruljon le az élénk Casa da Xuventude felé. Szánjon időt a történelmi Városháza megcsodálására, majd kerékpározzon a szárazföld felé a Mámoa da Fieiteira ősi titkainak felfedezéséhez. Élvezze a parti szellőt a Miradoiro da Garita felé haladva, gyönyörködve a gyönyörű óceánra nyíló magaslati kilátásban. Parkolja le kerékpárját a Praia de Mosqueirosnál, nyújtóztassa ki a lábait, és tartson egy jól megérdemelt esti pihenőt a homokon.",
         "ro": "Pedalați până la Miradoiro de San Roque pentru un început revigorant, apoi coborâți spre plina de viață Casa da Xuventude. Admirați Primăria istorică înainte de a pedala spre interior pentru a descoperi secretele străvechi ale tumulului Mámoa da Fieiteira. Bucurați-vă de briza de coastă în drum spre Miradoiro da Garita, absorbind priveliștile înalte ale frumosului ocean. Parcați bicicleta la Praia de Mosqueiros, întinzându-vă picioarele și luând o odihnă liniștită de amurg pe nisip.",
-        "en": "Pedal up to the Miradoiro de San Roque for an invigorating start and sweeping views, then ride down to the lively Casa da Xuventude. Take time to admire the historic Town Hall before cycling inland to discover the ancient secrets of the Mámoa da Fieiteira burial mound. Enjoy the coastal breeze as you make your way to Miradoiro da Garita, soaking in the high vantage points of the beautiful ocean. Park your bike at Praia de Mosqueiros, stretching your legs and taking a well-deserved, peaceful twilight rest on the sand."
+        "en": "Pedal up to the Miradoiro de San Roque for an invigorating start and sweeping views, then ride down to the lively Casa da Xuventude. Take time to admire the historic Town Hall before cycling inland to discover the ancient secrets of the Mámoa da Fieiteira burial mound. Enjoy the coastal breeze as you make your way to Miradoiro da Garita, soaking in the high vantage points of the beautiful ocean. Park your bike at Praia de Mosqueiros, stretching your legs and taking a well-deserved, peaceful twilight rest on the sand.",
+        "es": "Pedalea hasta el Miradoiro de San Roque para empezar con energía y vistas abiertas, luego baja hasta la animada Casa da Xuventude. Tómate tu tiempo para admirar la histórica Casa Consistorial antes de internarte hacia el interior para descubrir los secretos de la mámoa da Fieiteira. Disfruta de la brisa costera mientras te diriges al Miradoiro da Garita para empaparte de las vistas oceánicas. Aparca la bici en Praia de Mosqueiros, estira las piernas y toma un merecido y tranquilo descanso al atardecer en la arena."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Die Radtour führt trotz Regen zu den Aussichtspunkten, wo Nebel mystische Aussichten schafft. Wir fahren vorsichtig auf nassen Straßen zu den historischen Stätten. Pausen in Kulturzentren bieten trockene Erholung vor der finalen Etappe zum Strand.",
             "hu": "A kerékpártúra az eső ellenére a kilátókhoz vezet, ahol a köd misztikus látványt nyújt. Óvatosan tekerünk a vizes utakon a történelmi helyszínek felé. A kulturális központokban tartott szünetek száraz pihenőt adnak a strandig tartó etap előtt.",
             "ro": "Turul cu bicicleta continuă în ciuda ploii spre punctele de belvedere, unde ceața creează vederi mistice. Pedalam cu grijă pe drumurile ude spre siturile istorice. Pauzele în centrele culturale oferă odihnă înainte de plajă.",
-            "en": "The bike tour leads to viewpoints despite the rain, where mist creates mystical views. We pedal carefully on wet roads towards historical sites. Breaks in cultural centers offer dry rest before the final stage to the beach."
+            "en": "The bike tour leads to viewpoints despite the rain, where mist creates mystical views. We pedal carefully on wet roads towards historical sites. Breaks in cultural centers offer dry rest before the final stage to the beach.",
+            "es": "La ruta en bicicleta lleva a miradores pese a la lluvia, donde la niebla crea vistas místicas. Pedaleamos con cuidado por carreteras mojadas hacia los sitios históricos. Las pausas en centros culturales ofrecen descanso seco antes de la etapa final hacia la playa."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Miradoiro de San Roque",
                 "hu": "Miradoiro de San Roque",
                 "ro": "Miradoiro de San Roque",
-                "en": "Miradoiro de San Roque"
+                "en": "Miradoiro de San Roque",
+                "es": "Miradoiro de San Roque"
               },
               "tip_5lang": {
                 "de": "Der Aufstieg ist bei Regen anstrengend, aber der Blick auf die neblige Bucht ist einzigartig; prüfen Sie Ihre Bremsen vor der nassen Abfahrt.",
                 "hu": "Az emelkedő esőben fárasztó, de a ködös öböl látványa egyedülálló; a vizes lejtő előtt feltétlenül ellenőrizze a fékek állapotát.",
                 "ro": "Urcarea este obositoare pe ploaie, dar vederea golfului cețos este unică; verificați neapărat starea frânelor înainte de coborârea pe asfalt ud.",
-                "en": "The climb is tiring in the rain, but the view of the misty bay is unique; be sure to check your brakes before the wet descent."
+                "en": "The climb is tiring in the rain, but the view of the misty bay is unique; be sure to check your brakes before the wet descent.",
+                "es": "La subida es agotadora con lluvia, pero la vista de la bahía entre niebla es única; revisa los frenos antes del descenso húmedo."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Casa da Xuventude",
                 "hu": "Casa da Xuventude",
                 "ro": "Casa da Xuventude",
-                "en": "Casa da Xuventude"
+                "en": "Casa da Xuventude",
+                "es": "Casa da Xuventude"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad unter dem Dachvorsprung und nutzen Sie diesen kulturellen Stopp für eine trockene Pause und zum Aufwärmen der Hände.",
                 "hu": "Parkolja le kerékpárját az ereszek alatt, és használja ezt a kulturális megállót egy száraz pihenőre és a kezei felmelegítésére.",
                 "ro": "Parcați bicicleta sub streșini și folosiți această oprire culturală pentru o pauză uscată și pentru a vă încălzi mâinile.",
-                "en": "Park your bike under the eaves and use this cultural stop for a dry break and to warm up your hands."
+                "en": "Park your bike under the eaves and use this cultural stop for a dry break and to warm up your hands.",
+                "es": "Aparca la bicicleta bajo los aleros y usa esta parada cultural para secarte y calentar las manos."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Ribeira Town Hall",
                 "hu": "Ribeira Town Hall",
                 "ro": "Ribeira Town Hall",
-                "en": "Ribeira Town Hall"
+                "en": "Ribeira Town Hall",
+                "es": "Casa Consistorial de Ribeira"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf das glatte Kopfsteinpflaster rund um das Rathaus; nutzen Sie die nahen Cafés für eine kurze Flucht aus dem Regen.",
                 "hu": "Ügyeljen a csúszós macskakövekre a városháza környékén; használja a közeli kávézókat egy rövid menekülésre az eső elől.",
                 "ro": "Atenție la pavajul alunecos din jurul primăriei; folosiți cafenelele din apropiere pentru o scurtă evadare din ploaie.",
-                "en": "Watch out for the slippery cobblestones around the town hall; use the nearby cafes for a short escape from the rain."
+                "en": "Watch out for the slippery cobblestones around the town hall; use the nearby cafes for a short escape from the rain.",
+                "es": "Cuidado con los empedrados resbaladizos alrededor del ayuntamiento; utiliza las cafeterías cercanas para escapar brevemente de la lluvia."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Mámoa da Fieiteira",
                 "hu": "Mámoa da Fieiteira",
                 "ro": "Mámoa da Fieiteira",
-                "en": "Mámoa da Fieiteira"
+                "en": "Mámoa da Fieiteira",
+                "es": "Mámoa da Fieiteira"
               },
               "tip_5lang": {
                 "de": "Das antike Grab wirkt im Regen besonders atmosphärisch; tragen Sie Schutzbleche an Ihrem Rad, um Schlammspritzer auf Ihrer Kleidung zu vermeiden.",
                 "hu": "Az ősi sírhely esőben különösen hangulatos; szereljen sárvédőt a biciklire, hogy elkerülje a sárfelcsapódást a ruhájára a földutakon.",
                 "ro": "Mormântul antic este deosebit de atmosferic pe ploaie; montați apărători de noroi la bicicletă pentru a evita stropirea hainelor pe drumuri.",
-                "en": "The ancient tomb is especially atmospheric in the rain; fit mudguards to your bike to avoid mud splashes on your clothes on the trails."
+                "en": "The ancient tomb is especially atmospheric in the rain; fit mudguards to your bike to avoid mud splashes on your clothes on the trails.",
+                "es": "La tumba antigua resulta especialmente atmosférica con lluvia; coloca guardabarros en la bici para evitar salpicaduras de barro en la ropa durante los senderos."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Miradoiro da Garita",
                 "hu": "Miradoiro da Garita",
                 "ro": "Miradoiro da Garita",
-                "en": "Miradoiro da Garita"
+                "en": "Miradoiro da Garita",
+                "es": "Miradoiro da Garita"
               },
               "tip_5lang": {
                 "de": "Sichern Sie Ihr Rad gut auf dem windigen Gipfel; der Regen kann die Sicht einschränken, bietet aber dramatische Fotomotive der Küste.",
                 "hu": "Rögzítse jól a kerékpárját a szeles tetőn; az eső korlátozhatja a kilátást, de drámai fotótémát kínál a tengerpartról.",
                 "ro": "Asigurați-vă bine bicicleta pe vârful vântos; ploaia poate limita vizibilitatea, dar oferă subiecte foto dramatice cu țărmul mării.",
-                "en": "Secure your bike well on the windy summit; the rain may limit visibility but offers dramatic photo opportunities of the coastline."
+                "en": "Secure your bike well on the windy summit; the rain may limit visibility but offers dramatic photo opportunities of the coastline.",
+                "es": "Asegura bien la bici en la cumbre ventosa; la lluvia puede limitar la visibilidad pero ofrece oportunidades fotográficas dramáticas de la costa."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Praia de Mosqueiros",
                 "hu": "Praia de Mosqueiros",
                 "ro": "Praia de Mosqueiros",
-                "en": "Praia de Mosqueiros"
+                "en": "Praia de Mosqueiros",
+                "es": "Praia de Mosqueiros"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Tour schnell, bevor die Kälte einsetzt; ein Regencape ist hier bei den auflandigen Winden Ihr bester Begleiter am Strand.",
                 "hu": "Fejezze be gyorsan a túrát, mielőtt a hideg beállna; egy esőponcsó itt a legjobb társ a tenger felől fújó szélben a parton.",
                 "ro": "Încheiați rapid turul înainte de lăsarea frigului; o pelerină de ploaie este cel mai bun companion aici în vântul dinspre mare.",
-                "en": "Finish the tour quickly before the cold sets in; a rain poncho is your best companion here in the onshore winds at the beach."
+                "en": "Finish the tour quickly before the cold sets in; a rain poncho is your best companion here in the onshore winds at the beach.",
+                "es": "Termina la ruta rápido antes de que llegue el frío; un poncho impermeable es tu mejor aliado con la brisa onshore en la playa."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Die winterliche Radfahrt erfordert warme Handschuhe für die Hügel von San Roque. Mittags suchen wir Schutz in der Stadt. Die tiefstehende Sonne bietet goldene Ausblicke von der Garita, bevor es vor Einbruch der Dunkelheit zum Strand geht.",
             "hu": "A téli biciklizés meleg kesztyűt igényel San Roque dombjaihoz. Délben a városban keresünk menedéket. Az alacsonyan járó nap arany fényeket ad a Garitáról, mielőtt a sötétedés előtt a partra érnénk.",
             "ro": "Ciclismul de iarnă necesită mănuși calde pentru dealurile din San Roque. La prânz căutăm adăpost în oraș. Soarele jos oferă vederi aurii de la Garita înainte de a ajunge la plajă pe întuneric.",
-            "en": "Winter cycling requires warm gloves for the hills of San Roque. At noon, we seek shelter in town. The low sun offers golden views from Garita before reaching the beach before dark."
+            "en": "Winter cycling requires warm gloves for the hills of San Roque. At noon, we seek shelter in town. The low sun offers golden views from Garita before reaching the beach before dark.",
+            "es": "El ciclismo invernal requiere guantes cálidos para las colinas de San Roque. Al mediodía nos refugiamos en el pueblo. El sol bajo ofrece vistas doradas desde Garita antes de llegar a la playa al anochecer."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Miradoiro de San Roque",
                 "hu": "Miradoiro de San Roque",
                 "ro": "Miradoiro de San Roque",
-                "en": "Miradoiro de San Roque"
+                "en": "Miradoiro de San Roque",
+                "es": "Miradoiro de San Roque"
               },
               "tip_5lang": {
                 "de": "Die klare Winterluft ermöglicht eine weite Sicht auf die Inseln; tragen Sie eine winddichte Jacke für die rasante und kalte Abfahrt ins Tal.",
                 "hu": "A tiszta téli levegő messzi kilátást enged a szigetekre; viseljen szélálló dzsekit a völgybe tartó gyors és hideg lejtmenethez.",
                 "ro": "Aerul curat de iarnă permite o vedere îndepărtată spre insule; purtați o jachetă rezistentă la vânt pentru coborârea rapidă spre vale.",
-                "en": "The clear winter air allows a distant view of the islands; wear a windproof jacket for the fast and cold descent into the valley."
+                "en": "The clear winter air allows a distant view of the islands; wear a windproof jacket for the fast and cold descent into the valley.",
+                "es": "El aire claro de invierno permite ver las islas a lo lejos; lleva una chaqueta cortavientos para el descenso rápido y frío hacia el valle."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Casa da Xuventude",
                 "hu": "Casa da Xuventude",
                 "ro": "Casa da Xuventude",
-                "en": "Casa da Xuventude"
+                "en": "Casa da Xuventude",
+                "es": "Casa da Xuventude"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Ort, um die Glieder bei einem kurzen Stopp aufzuwärmen; nutzen Sie die Innenräume, um die winterliche Kälte kurz zu vergessen.",
                 "hu": "Tökéletes hely a végtagok felmelegítésére egy rövid megálló során; használja a belső tereket, hogy kicsit elfelejtse a téli hideget.",
                 "ro": "Un loc perfect pentru a vă încălzi membrele în timpul unei scurte opriri; folosiți spațiile interioare pentru a uita puțin de frigul iernii.",
-                "en": "A perfect place to warm up your limbs during a short stop; use the interior spaces to forget the winter cold for a while."
+                "en": "A perfect place to warm up your limbs during a short stop; use the interior spaces to forget the winter cold for a while.",
+                "es": "Un lugar perfecto para calentar las extremidades durante una breve parada; usa los espacios interiores para olvidar el frío invernal un rato."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Ribeira Town Hall",
                 "hu": "Ribeira Town Hall",
                 "ro": "Ribeira Town Hall",
-                "en": "Ribeira Town Hall"
+                "en": "Ribeira Town Hall",
+                "es": "Ribeira Town Hall"
               },
               "tip_5lang": {
                 "de": "Die Wintersonne steht tief und blendet beim Radfahren in der Stadt; eine Sonnenbrille hilft Ihnen, den Verkehr sicher im Blick zu behalten.",
                 "hu": "A téli nap alacsonyan jár és elvakíthat a városban tekerve; egy napszemüveg segít, hogy biztonságosan szemmel tartsa a forgalmat.",
                 "ro": "Soarele de iarnă este jos și poate fi orbitor în oraș; o pereche de ochelari de soare vă va ajuta să supravegheați traficul în siguranță.",
-                "en": "The winter sun is low and can be blinding while cycling in town; sunglasses will help you keep a safe eye on the traffic."
+                "en": "The winter sun is low and can be blinding while cycling in town; sunglasses will help you keep a safe eye on the traffic.",
+                "es": "El sol de invierno está bajo y puede deslumbrar al pedalear en el pueblo; unas gafas de sol te ayudarán a vigilar el tráfico con seguridad."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Mámoa da Fieiteira",
                 "hu": "Mámoa da Fieiteira",
                 "ro": "Mámoa da Fieiteira",
-                "en": "Mámoa da Fieiteira"
+                "en": "Mámoa da Fieiteira",
+                "es": "Mámoa da Fieiteira"
               },
               "tip_5lang": {
                 "de": "Der Boden kann gefroren oder hart sein, was das Radfahren erleichtert; genießen Sie die Ruhe dieses Ortes in der klaren Winterstille.",
                 "hu": "A talaj fagyott vagy kemény lehet, ami megkönnyíti a kerékpározást; élvezze a hely nyugalmát a tiszta téli csendben.",
                 "ro": "Solul poate fi înghețat sau tare, ceea ce ușurează pedalatul; bucurați-vă de liniștea locului în calmul clar al iernii.",
-                "en": "The ground may be frozen or hard, making cycling easier; enjoy the tranquility of this place in the clear winter silence."
+                "en": "The ground may be frozen or hard, making cycling easier; enjoy the tranquility of this place in the clear winter silence.",
+                "es": "El suelo puede estar helado o duro, lo que facilita el ciclismo; disfruta de la tranquilidad del lugar en el claro silencio invernal."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Miradoiro da Garita",
                 "hu": "Miradoiro da Garita",
                 "ro": "Miradoiro da Garita",
-                "en": "Miradoiro da Garita"
+                "en": "Miradoiro da Garita",
+                "es": "Miradoiro da Garita"
               },
               "tip_5lang": {
                 "de": "Erreichen Sie diesen Punkt vor 16:30 Uhr für das beste Licht; der Winterwind ist hier oben schneidend, also bleiben Sie in Bewegung.",
                 "hu": "Érjen ide 16:30 előtt a legjobb fényekért; a téli szél itt fent metsző, ezért maradjon mozgásban a kilátóhelyen.",
                 "ro": "Ajungeți aici înainte de ora 16:30 pentru cea mai bună lumină; vântul de iarnă este tăios aici sus, așa că rămâneți în mișcare.",
-                "en": "Reach here before 4:30 PM for the best light; the winter wind is biting up here, so keep moving at the viewpoint."
+                "en": "Reach here before 4:30 PM for the best light; the winter wind is biting up here, so keep moving at the viewpoint.",
+                "es": "Llega antes de las 16:30 para la mejor luz; el viento invernal aquí es cortante, así que sigue en movimiento en el mirador."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Praia de Mosqueiros",
                 "hu": "Praia de Mosqueiros",
                 "ro": "Praia de Mosqueiros",
-                "en": "Praia de Mosqueiros"
+                "en": "Praia de Mosqueiros",
+                "es": "Praia de Mosqueiros"
               },
               "tip_5lang": {
                 "de": "Der Strand ist im Winter menschenleer und friedlich; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Rückweg im Dunkeln funktioniert.",
                 "hu": "A strand télen néptelen és békés; győződjön meg róla, hogy a kerékpáros lámpái működnek a sötétben való visszatéréshez.",
                 "ro": "Plaja este pustie și liniștită iarna; asigurați-vă că luminile bicicletei funcționezik pentru întoarcerea pe întuneric.",
-                "en": "The beach is deserted and peaceful in winter; make sure your bike lights are working for the return trip in the dark."
+                "en": "The beach is deserted and peaceful in winter; make sure your bike lights are working for the return trip in the dark.",
+                "es": "La playa está desierta y en paz en invierno; asegúrate de que las luces de la bici funcionen para el regreso de noche."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Miradoiro da Pedra da Ran",
             "hu": "Miradoiro da Pedra da Ran",
             "ro": "Miradoiro da Pedra da Ran",
-            "en": "Miradoiro da Pedra da Ran"
+            "en": "Miradoiro da Pedra da Ran",
+            "es": "Miradoiro da Pedra da Ran"
           },
           "coords": [
             -9.015962,
@@ -673,7 +746,8 @@
             "de": "Blicken Sie von diesem einzigartigen felsigen Aussichtspunkt auf die Ria und tragen Sie festes Schuhwerk, da das natürliche Gelände etwas uneben sein kann.",
             "hu": "Tekintsen le erről az egyedülálló sziklás kilátóról a riára nyíló páratlan panorámára, és viseljen stabil cipőt, mert a természetes terep kissé egyenetlen lehet.",
             "ro": "Priviți de la acest punct de belvedere stâncos unic care oferă panorame inegalabile asupra riei și purtați încălțăminte robustă, deoarece terenul este denivelat.",
-            "en": "Gaze out from this unique rocky viewpoint offering unparalleled vistas of the ria, and wear sturdy shoes as the natural terrain can be a bit uneven."
+            "en": "Gaze out from this unique rocky viewpoint offering unparalleled vistas of the ria, and wear sturdy shoes as the natural terrain can be a bit uneven.",
+            "es": "Contempla desde este singular mirador rocoso con vistas incomparables de la ría; lleva calzado resistente porque el terreno natural puede ser desigual."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Igrexa de San Paio de Carreira",
             "hu": "Igrexa de San Paio de Carreira",
             "ro": "Igrexa de San Paio de Carreira",
-            "en": "Igrexa de San Paio de Carreira"
+            "en": "Igrexa de San Paio de Carreira",
+            "es": "Igrexa de San Paio de Carreira"
           },
           "coords": [
             -9.006258,
@@ -696,7 +771,8 @@
             "de": "Besuchen Sie diese charmante Pfarrkirche mit traditioneller galizischer religiöser Architektur und respektieren Sie die Gläubigen durch gedämpfte Gespräche.",
             "hu": "Látogasson el ebbe a bájos plébániatemplomba, amely a hagyományos galíciai vallási építészetet mutatja be, és tartsa tiszteletben a helyi hívőket csendes viselkedéssel.",
             "ro": "Vizitați această fermecătoare biserică parohială care prezintă arhitectura religioasă tradițională galiciană și respectați credincioșii locali vorbind încet.",
-            "en": "Visit this charming parish church which showcases traditional Galician religious architecture, and respect the local worshippers by keeping your voice down."
+            "en": "Visit this charming parish church which showcases traditional Galician religious architecture, and respect the local worshippers by keeping your voice down.",
+            "es": "Visita esta encantadora iglesia parroquial que muestra la arquitectura religiosa gallega tradicional y respeta a los fieles manteniendo la voz baja."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Capela da Nosa Señora da Guía",
             "hu": "Capela da Nosa Señora da Guía",
             "ro": "Capela da Nosa Señora da Guía",
-            "en": "Capela da Nosa Señora da Guía"
+            "en": "Capela da Nosa Señora da Guía",
+            "es": "Capela da Nosa Señora da Guía"
           },
           "coords": [
             -9.012657,
@@ -719,7 +796,8 @@
             "de": "Genießen Sie die ruhige Lage dieser kleinen Küstenkapelle und gehen Sie für die besten maritimen Ausblicke einmal ganz um das malerische Gebäude herum.",
             "hu": "Élvezze ennek a kis tengerparti kápolnának a nyugodt fekvését, és sétálja körbe teljesen az épületet a legjobb hajózási és tengeri kilátásokért.",
             "ro": "Bucurați-vă de locația senină a acestei mici capele de coastă și plimbați-vă complet în jurul clădirii pentru a avea cele mai bune priveliști nautice.",
-            "en": "Enjoy the serene location of this small coastal chapel dedicated to the Virgin Mary, and walk entirely around the building for the best nautical views."
+            "en": "Enjoy the serene location of this small coastal chapel dedicated to the Virgin Mary, and walk entirely around the building for the best nautical views.",
+            "es": "Disfruta de la serena ubicación de esta pequeña capilla costera dedicada a la Virgen, y rodea el edificio para obtener las mejores vistas náuticas."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "O Almacén",
             "hu": "O Almacén",
             "ro": "O Almacén",
-            "en": "O Almacén"
+            "en": "O Almacén",
+            "es": "O Almacén"
           },
           "coords": [
             -8.987334,
@@ -742,7 +821,8 @@
             "de": "Tauchen Sie in das industrielle Erbe in diesem historischen Speichergebäude des Seehandels ein und achten Sie auf die informativen Tafeln über seine Vergangenheit.",
             "hu": "Merüljön el az ipari örökségben ebben a tengeri kereskedelemhez kötődő történelmi raktárépületben, és keresse a múltját részletező információs táblákat.",
             "ro": "Explorați patrimoniul industrial la această clădire istorică de depozitare legată de comerțul maritim și căutați plăcile informative care detaliază trecutul său.",
-            "en": "Delve into the industrial heritage at this historical storage building tied to the sea trade, and look out for informational plaques detailing its past."
+            "en": "Delve into the industrial heritage at this historical storage building tied to the sea trade, and look out for informational plaques detailing its past.",
+            "es": "Adéntrate en el patrimonio industrial de este almacén histórico ligado al comercio marítimo y busca paneles informativos que expliquen su pasado."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Praia de Mosqueiros",
             "hu": "Praia de Mosqueiros",
             "ro": "Praia de Mosqueiros",
-            "en": "Praia de Mosqueiros"
+            "en": "Praia de Mosqueiros",
+            "es": "Praia de Mosqueiros"
           },
           "coords": [
             -8.99091,
@@ -765,7 +846,8 @@
             "de": "Entfliehen Sie den Massen an diesem ruhigeren Küstenabschnitt für eine friedliche Pause, und bringen Sie eigene Snacks mit, da die lokalen Angebote begrenzt sind.",
             "hu": "Meneküljön el a tömeg elől erre a csendesebb partszakaszra egy békés pihenésre, és hozzon magával saját rágcsálnivalót, mivel a helyi lehetőségek korlátozottak.",
             "ro": "Scăpați de aglomerație pe această porțiune de coastă mai liniștită, perfectă pentru odihnă, și aduceți propriile gustări, deoarece facilitățile locale sunt destul de limitate.",
-            "en": "Escape the crowds at this quieter stretch of shoreline perfect for a peaceful rest, and bring your own snacks as local facilities are fairly limited."
+            "en": "Escape the crowds at this quieter stretch of shoreline perfect for a peaceful rest, and bring your own snacks as local facilities are fairly limited.",
+            "es": "Escapa de las multitudes en este tramo de playa más tranquilo, perfecto para un descanso apacible; lleva tentempiés porque las instalaciones locales son limitadas."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Museo Municipal de Ribeira",
             "hu": "Museo Municipal de Ribeira",
             "ro": "Museo Municipal de Ribeira",
-            "en": "Museo Municipal de Ribeira"
+            "en": "Museo Municipal de Ribeira",
+            "es": "Museo Municipal de Ribeira"
           },
           "coords": [
             -8.99046,
@@ -788,7 +871,8 @@
             "de": "Entdecken Sie die reiche maritime Geschichte und lokale Kunst in diesem Museum und fragen Sie das Personal nach den neuesten temporären Ausstellungen.",
             "hu": "Fedezze fel a gazdag tengerészeti történelmet és a helyi művészeteket ebben a múzeumban, és ne felejtse el megkérdezni a személyzetet az új kiállításokról.",
             "ro": "Explorați bogata istorie maritimă și artele locale prezentate în acest muzeu, asigurându-vă că întrebați personalul despre cele mai noi expoziții temporare.",
-            "en": "Explore the rich maritime history and local arts showcased in this museum, making sure to ask the staff about the latest temporary exhibitions."
+            "en": "Explore the rich maritime history and local arts showcased in this museum, making sure to ask the staff about the latest temporary exhibitions.",
+            "es": "Explora la rica historia marítima y las artes locales que muestra este museo; consulta al personal sobre las exposiciones temporales actuales."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Miradoiro de San Roque",
             "hu": "Miradoiro de San Roque",
             "ro": "Miradoiro de San Roque",
-            "en": "Miradoiro de San Roque"
+            "en": "Miradoiro de San Roque",
+            "es": "Miradoiro de San Roque"
           },
           "coords": [
             -9.001233,
@@ -811,7 +896,8 @@
             "de": "Steigen Sie zu diesem malerischen Aussichtspunkt hinauf für ein weites Panorama der Küstenstadt, und bringen Sie eine Windjacke gegen die starke Meeresbrise mit.",
             "hu": "Másszon fel erre a festői kilátóra a tengerparti városra nyíló lenyűgöző panorámáért, és hozzon széldzsekit, mivel a tengeri szellő gyakran elég erős.",
             "ro": "Urcați la acest punct de belvedere pitoresc pentru panorame superbe asupra orașului de coastă și aduceți o jachetă, deoarece briza mării este adesea puternică.",
-            "en": "Climb up to this scenic viewpoint for sweeping panoramas over the entire coastal town, and bring a windbreaker as the sea breeze is often quite strong."
+            "en": "Climb up to this scenic viewpoint for sweeping panoramas over the entire coastal town, and bring a windbreaker as the sea breeze is often quite strong.",
+            "es": "Sube a este mirador panorámico para vistas amplias sobre el pueblo costero; lleva cortavientos, ya que la brisa marina suele ser intensa."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Beginnen Sie Ihre Fahrt am atemberaubenden Aussichtspunkt Pedra da Ran, gefolgt von der traditionellen Kirche San Paio de Carreira. Halten Sie an der Kapelle der Guía an der Küste, bevor Sie im historischen O Almacén die reiche industrielle Vergangenheit entdecken. Machen Sie einen Spaziergang an der Praia de Mosqueiros und fahren Sie dann zum städtischen Museum für lokale Kultur. Beenden Sie Ihren Roadtrip mit der Fahrt zum Miradoiro de San Roque und fangen Sie die spektakulären goldenen Farben der untergehenden Sonne ein.",
         "hu": "Kezdje a festői autózást a lélegzetelállító Pedra da Ran kilátónál, majd álljon meg a hagyományos San Paio de Carreira templomnál. Álljon meg a békés Guía kápolnánál a tengerparton, mielőtt felfedezné a terület ipari múltját a történelmi O Almacénban. Tegyen egy frissítő sétát a Praia de Mosqueiros mentén, majd hajtson a városi múzeumba egy adag helyi kultúráért. Fejezze be az autós utazást a San Roque kilátóhoz vezetve, megörökítve a lemenő nap látványos arany árnyalatait.",
         "ro": "Începeți traseul pitoresc la punctul de belvedere Pedra da Ran, urmat de un moment la biserica tradițională San Paio de Carreira. Opriți-vă la serena Capelă Guía de pe coastă înainte de a descoperi trecutul industrial la istoricul O Almacén. Faceți o plimbare răcoroasă de-a lungul Praia de Mosqueiros, apoi conduceți la muzeul municipal pentru cultură locală. Finalizați-vă excursia conducând spre Miradoiro de San Roque, capturând nuanțele aurii spectaculoase ale soarelui la apus.",
-        "en": "Start your scenic drive at the breathtaking Pedra da Ran viewpoint, followed by a quiet moment at the traditional San Paio de Carreira church. Stop by the serene Chapel of the Guía by the coast before discovering the area's rich industrial past at the historic O Almacén. Take a refreshing walk along Praia de Mosqueiros, then drive to the municipal museum for an engaging dose of local culture. Complete your road trip by driving up to Miradoiro de San Roque, capturing the spectacular golden hues of the setting sun."
+        "en": "Start your scenic drive at the breathtaking Pedra da Ran viewpoint, followed by a quiet moment at the traditional San Paio de Carreira church. Stop by the serene Chapel of the Guía by the coast before discovering the area's rich industrial past at the historic O Almacén. Take a refreshing walk along Praia de Mosqueiros, then drive to the municipal museum for an engaging dose of local culture. Complete your road trip by driving up to Miradoiro de San Roque, capturing the spectacular golden hues of the setting sun.",
+        "es": "Comienza tu ruta en coche en el impresionante mirador Pedra da Ran, seguido de un momento tranquilo en la iglesia tradicional de San Paio de Carreira. Para en la serena Capilla da Nosa Señora da Guía junto a la costa antes de descubrir el rico pasado industrial en el histórico O Almacén. Pasea por la refrescante Praia de Mosqueiros y después visita el museo municipal para empaparte de la cultura local. Completa el viaje subiendo al Miradoiro de San Roque para capturar los espectaculares tonos dorados del atardecer."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Die Autofahrt bietet trockenen Komfort zwischen den Aussichtspunkten im Regen. Wir genießen den Ausblick aus dem warmen Wagen und besuchen Kirchen und Museen als ideale Regen-Stopps. Der Tag endet sicher und trocken trotz des stürmischen Wetters.",
             "hu": "Az autós túra száraz kényelmet nyújt az esőben a kilátók között. A meleg kocsiból élvezzük a panorámát, a templomokat és múzeumokat pedig ideális eső-megállóként látogatjuk. A nap biztonságban és szárazon ér véget a viharos idő ellenére.",
             "ro": "Turul cu mașina oferă confort uscat între punctele de belvedere pe ploaie. Admirăm panorama din mașina caldă, vizitând bisericile și muzeele ca opriri ideale. Ziua se încheie în siguranță în ciuda vremii furtunoase.",
-            "en": "The car tour offers dry comfort between viewpoints in the rain. We enjoy the panorama from the warm car, visiting churches and museums as ideal rain stops. The day ends safely and dry despite the stormy weather."
+            "en": "The car tour offers dry comfort between viewpoints in the rain. We enjoy the panorama from the warm car, visiting churches and museums as ideal rain stops. The day ends safely and dry despite the stormy weather.",
+            "es": "El recorrido en coche ofrece comodidad seca entre miradores cuando llueve. Disfrutamos del panorama desde el coche caliente, visitando iglesias y museos como paradas ideales contra la lluvia. El día termina seguro y seco pese al tiempo tormentoso."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Miradoiro da Pedra da Ran",
                 "hu": "Miradoiro da Pedra da Ran",
                 "ro": "Miradoiro da Pedra da Ran",
-                "en": "Miradoiro da Pedra da Ran"
+                "en": "Miradoiro da Pedra da Ran",
+                "es": "Miradoiro da Pedra da Ran"
               },
               "tip_5lang": {
                 "de": "Parken Sie so, dass Sie das Panorama direkt aus dem Auto genießen können; die Felsen sind bei Regen extrem rutschig, bleiben Sie auf den Wegen.",
                 "hu": "Parkoljon úgy, hogy közvetlenül az autóból élvezhesse a panorámát; a sziklák esőben rendkívül csúszósak, maradjon a kijelölt ösvényeken.",
                 "ro": "Parcați astfel încât să vă bucurați de panoramă direct din mașină; stâncile sunt extrem de alunecoase pe ploaie, rămâneți pe poteci.",
-                "en": "Park so you can enjoy the panorama directly from the car; the rocks are extremely slippery in the rain, stay on the designated paths."
+                "en": "Park so you can enjoy the panorama directly from the car; the rocks are extremely slippery in the rain, stay on the designated paths.",
+                "es": "Aparca para disfrutar del panorama directamente desde el coche; las rocas son extremadamente resbaladizas con lluvia, permanece en los caminos señalizados."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Igrexa de San Paio de Carreira",
                 "hu": "Igrexa de San Paio de Carreira",
                 "ro": "Igrexa de San Paio de Carreira",
-                "en": "Igrexa de San Paio de Carreira"
+                "en": "Igrexa de San Paio de Carreira",
+                "es": "Igrexa de San Paio de Carreira"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den nahen Parkplatz für einen schnellen Sprung ins Trockene; das Innere der Kirche ist ein ruhiger Ort, um dem Regen zu lauschen.",
                 "hu": "Használja a közeli parkolót egy gyors beszaladáshoz a szárazra; a templom belseje nyugodt hely az eső kopogásának hallgatásához.",
                 "ro": "Folosiți parcarea din apropiere pentru a intra rapid la adăpost; interiorul bisericii este un loc liniștit pentru a asculta sunetul ploii.",
-                "en": "Use the nearby parking for a quick dash to the dry interior; the church inside is a quiet place to listen to the sound of the rain."
+                "en": "Use the nearby parking for a quick dash to the dry interior; the church inside is a quiet place to listen to the sound of the rain.",
+                "es": "Utiliza el aparcamiento cercano para un rápido salto al interior seco; la iglesia es un lugar tranquilo donde escuchar la lluvia."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Capela da Nosa Señora da Guía",
                 "hu": "Capela da Nosa Señora da Guía",
                 "ro": "Capela da Nosa Señora da Guía",
-                "en": "Capela da Nosa Señora da Guía"
+                "en": "Capela da Nosa Señora da Guía",
+                "es": "Capela da Nosa Señora da Guía"
               },
               "tip_5lang": {
                 "de": "Die Zufahrt kann bei Starkregen etwas schlammig sein, fahren Sie vorsichtig; die kleine Kapelle bietet einen charmanten Schutzraum mit Ausblick.",
                 "hu": "A felhajtó heves esőzéskor kissé sáros lehet, vezessen óvatosan; a kis kápolna bájos menedéket és szép kilátást nyújt az öbölre.",
                 "ro": "Aleea poate fi puțin noroioasă la ploi abundente, conduceți cu grijă; mica capelă oferă un adăpost fermecător și o vedere frumoasă.",
-                "en": "The driveway can be a bit muddy during heavy rain, drive carefully; the small chapel offers a charming shelter and a nice view of the bay."
+                "en": "The driveway can be a bit muddy during heavy rain, drive carefully; the small chapel offers a charming shelter and a nice view of the bay.",
+                "es": "La pista de acceso puede embarrarse con lluvia fuerte, conduce con cuidado; la pequeña capilla ofrece un refugio encantador y una buena vista de la bahía."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "O Almacén",
                 "hu": "O Almacén",
                 "ro": "O Almacén",
-                "en": "O Almacén"
+                "en": "O Almacén",
+                "es": "O Almacén"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort, um die lokale Kultur im Trockenen zu erleben; parken Sie in der Nähe, um die Zeit im Regen so kurz wie möglich zu halten.",
                 "hu": "Ideális hely a helyi kultúra szárazon való megtapasztalásához; parkoljon a közelben, hogy a lehető legkevesebb időt töltse az esőben.",
                 "ro": "Un loc ideal pentru a experimenta cultura locală la adăpost; parcați în apropiere pentru a petrece cât mai puțin timp în ploaie.",
-                "en": "An ideal place to experience local culture while staying dry; park nearby to spend as little time as possible in the rain."
+                "en": "An ideal place to experience local culture while staying dry; park nearby to spend as little time as possible in the rain.",
+                "es": "Un lugar ideal para experimentar la cultura local sin mojarse; aparca cerca para pasar el menor tiempo posible bajo la lluvia."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Praia de Mosqueiros",
                 "hu": "Praia de Mosqueiros",
                 "ro": "Praia de Mosqueiros",
-                "en": "Praia de Mosqueiros"
+                "en": "Praia de Mosqueiros",
+                "es": "Praia de Mosqueiros"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf die tosenden Wellen bequem von Ihrem Autositz aus; lassen Sie die Fenster für die frische Meeresbrise nur einen Spalt offen.",
                 "hu": "Élvezze a háborgó hullámok látványát kényelmesen az autósülésből; a friss tengeri szellőért csak egy résnyire húzza le az ablakot.",
                 "ro": "Bucurați-vă de vederea valurilor învolburate confortabil din scaunul mașinii; lăsați geamul doar puțin deschis pentru briza proaspătă.",
-                "en": "Enjoy the view of the churning waves comfortably from your car seat; leave the window just a crack open for the fresh sea breeze."
+                "en": "Enjoy the view of the churning waves comfortably from your car seat; leave the window just a crack open for the fresh sea breeze.",
+                "es": "Disfruta de las olas desde la comodidad del asiento del coche; deja la ventanilla entreabierta para la fresca brisa marina."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Museo Municipal de Ribeira",
                 "hu": "Museo Municipal de Ribeira",
                 "ro": "Museo Municipal de Ribeira",
-                "en": "Museo Municipal de Ribeira"
+                "en": "Museo Municipal de Ribeira",
+                "es": "Museo Municipal de Ribeira"
               },
               "tip_5lang": {
                 "de": "Das Museum ist der perfekte Ort, um den intensivsten Regen des Tages auszusitzen; nutzen Sie die Zeit für ein ausführliches Studium der Exponate.",
                 "hu": "A múzeum tökéletes hely a nap leghevesebb esőzésének átvészelésére; használja ki az időt a kiállítási tárgyak alapos tanulmányozására.",
                 "ro": "Muzeul este locul perfect pentru a aștepta trecerea celei mai intense ploi; folosiți timpul pentru un studiu detaliat al exponatelor.",
-                "en": "The museum is the perfect place to wait out the most intense rain of the day; use the time for a detailed study of the exhibits."
+                "en": "The museum is the perfect place to wait out the most intense rain of the day; use the time for a detailed study of the exhibits.",
+                "es": "El museo es perfecto para esperar la lluvia más intensa del día; aprovecha para estudiar con calma las exposiciones."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Miradoiro de San Roque",
                 "hu": "Miradoiro de San Roque",
                 "ro": "Miradoiro de San Roque",
-                "en": "Miradoiro de San Roque"
+                "en": "Miradoiro de San Roque",
+                "es": "Miradoiro de San Roque"
               },
               "tip_5lang": {
                 "de": "Der Nebel kann die Sicht verhüllen, was dem Ort eine magische Atmosphäre verleiht; bleiben Sie im Auto, wenn der Wind zu stark wird.",
                 "hu": "A köd elfedheti a kilátást, ami mágikus atmoszférát kölcsönöz a helynek; maradjon az autóban, ha a szél túl erőssé válna a tetőn.",
                 "ro": "Ceața poate ascunde vederea, ceea ce conferă locului o atmosferă magică; rămâneți în mașină dacă vântul devine prea puternic pe culme.",
-                "en": "The mist can hide the view, giving the place a magical atmosphere; stay in the car if the wind becomes too strong on the summit."
+                "en": "The mist can hide the view, giving the place a magical atmosphere; stay in the car if the wind becomes too strong on the summit.",
+                "es": "La bruma puede ocultar la vista, dándole un aire mágico; permanece en el coche si el viento en la cima se vuelve demasiado fuerte."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Im Winter ermöglicht das Auto den Besuch entlegener Aussichtspunkte ohne Frieren. Wir nutzen die Heizung zwischen den Stopps in historischen Kapellen und Museen. Da es früh dunkel wird, planen wir die letzte Fahrt zum San Roque für den Sonnenuntergang.",
             "hu": "Télen az autó lehetővé teszi a távoli kilátók felkeresését fagyoskodás nélkül. Kihasználjuk a fűtést a kápolnák és múzeumok közötti utakon. Mivel korán sötétedik, az utolsó utat a San Roque-hoz tervezzük a naplementére.",
             "ro": "Iarna, mașina permite vizitarea punctelor de belvedere îndepărtate fără a îngheța. Folosim încălzirea între opririle la capele și muzee. Deoarece se întunecă devreme, planificăm ultima vizită la San Roque pentru apus.",
-            "en": "In winter, the car allows visiting distant viewpoints without freezing. We use the heater between stops at historical chapels and museums. Since it gets dark early, we plan the last trip to San Roque for the sunset."
+            "en": "In winter, the car allows visiting distant viewpoints without freezing. We use the heater between stops at historical chapels and museums. Since it gets dark early, we plan the last trip to San Roque for the sunset.",
+            "es": "En invierno, el coche permite visitar miradores lejanos sin pasar frío. Usamos la calefacción entre paradas en capillas y museos históricos. Como anochece pronto, planificamos la última visita a San Roque para el atardecer."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Miradoiro da Pedra da Ran",
                 "hu": "Miradoiro da Pedra da Ran",
                 "ro": "Miradoiro da Pedra da Ran",
-                "en": "Miradoiro da Pedra da Ran"
+                "en": "Miradoiro da Pedra da Ran",
+                "es": "Miradoiro da Pedra da Ran"
               },
               "tip_5lang": {
                 "de": "Die Fernsicht ist im Winter bei klarem Himmel am besten; parken Sie so, dass die Frontscheibe freien Blick auf den Atlantik bietet.",
                 "hu": "A távoli kilátás télen, tiszta égbolt mellett a legjobb; parkoljon úgy, hogy az első szélvédőn át szabad rálátása legyen az Atlanti-óceánra.",
                 "ro": "Vizibilitatea la distanță este cea mai bună iarna, sub cerul senin; parcați astfel încât parbrizul să ofere o vedere liberă spre Atlantic.",
-                "en": "Distant visibility is best in winter under clear skies; park so the windshield offers an unobstructed view of the Atlantic."
+                "en": "Distant visibility is best in winter under clear skies; park so the windshield offers an unobstructed view of the Atlantic.",
+                "es": "La visibilidad a distancia es mejor en invierno con cielos despejados; aparca para que el parabrisas ofrezca una vista despejada del Atlántico."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Igrexa de San Paio de Carreira",
                 "hu": "Igrexa de San Paio de Carreira",
                 "ro": "Igrexa de San Paio de Carreira",
-                "en": "Igrexa de San Paio de Carreira"
+                "en": "Igrexa de San Paio de Carreira",
+                "es": "Igrexa de San Paio de Carreira"
               },
               "tip_5lang": {
                 "de": "Die dicken Mauern speichern die Kälte, tragen Sie also Ihren Mantel auch drinnen; die winterliche Stille hier ist sehr erholsam.",
                 "hu": "A vastag falak tárolják a hideget, így bent is viselje a kabátját; a téli csend itt nagyon pihentető és megnyugtató.",
                 "ro": "Zidurile groase rețin frigul, așa că purtați haina și în interior; liniștea iernii aici este foarte relaxantă și reconfortantă.",
-                "en": "The thick walls store the cold, so wear your coat inside as well; the winter silence here is very relaxing and comforting."
+                "en": "The thick walls store the cold, so wear your coat inside as well; the winter silence here is very relaxing and comforting.",
+                "es": "Los gruesos muros conservan el frío, así que lleva abrigo también dentro; el silencio invernal aquí es muy relajante y reconfortante."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Capela da Nosa Señora da Guía",
                 "hu": "Capela da Nosa Señora da Guía",
                 "ro": "Capela da Nosa Señora da Guía",
-                "en": "Capela da Nosa Señora da Guía"
+                "en": "Capela da Nosa Señora da Guía",
+                "es": "Capela da Nosa Señora da Guía"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Panoramablick aus dem warmen Auto auf dem Parkplatz; die tiefe Wintersonne taucht die Küste in ein besonderes Licht.",
                 "hu": "Élvezze a panorámát a meleg autóból a parkolóban; az alacsonyan járó téli nap különleges fényekbe öltözteti a partvidéket.",
                 "ro": "Bucurați-vă de panoramă din mașina caldă în parcare; soarele jos de iarnă îmbracă zona de coastă în lumini deosebite.",
-                "en": "Enjoy the panorama from your warm car in the parking lot; the low winter sun bathes the coastline in special lights."
+                "en": "Enjoy the panorama from your warm car in the parking lot; the low winter sun bathes the coastline in special lights.",
+                "es": "Disfruta del panorama desde el coche caliente en el aparcamiento; el sol bajo de invierno baña la costa con luces especiales."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "O Almacén",
                 "hu": "O Almacén",
                 "ro": "O Almacén",
-                "en": "O Almacén"
+                "en": "O Almacén",
+                "es": "O Almacén"
               },
               "tip_5lang": {
                 "de": "Ein gemütlicher Stopp, um die lokale Geschichte zu erkunden; nutzen Sie die kurzen Wege vom Parkplatz, um der Winterkälte zu entgehen.",
                 "hu": "Hangulatos megálló a helyi történelem felfedezéséhez; használja ki a rövid utat a parkolótól, hogy elkerülje a téli hideget.",
                 "ro": "O oprire primitoare pentru a explora istoria locală; profitați de distanța scurtă de la parcare pentru a evita frigul iernii.",
-                "en": "A cozy stop to explore local history; take advantage of the short walk from the parking lot to avoid the winter cold."
+                "en": "A cozy stop to explore local history; take advantage of the short walk from the parking lot to avoid the winter cold.",
+                "es": "Una parada acogedora para explorar la historia local; aprovecha el corto paseo desde el aparcamiento para evitar el frío invernal."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Praia de Mosqueiros",
                 "hu": "Praia de Mosqueiros",
                 "ro": "Praia de Mosqueiros",
-                "en": "Praia de Mosqueiros"
+                "en": "Praia de Mosqueiros",
+                "es": "Praia de Mosqueiros"
               },
               "tip_5lang": {
                 "de": "Kurze Spaziergänge am Strand sind bei der klaren Winterluft erfrischend; wärmen Sie sich danach sofort wieder im aufgeheizten Auto auf.",
                 "hu": "A rövid séták a parton frissítőek a tiszta téli levegőn; utána azonnal melegedjen fel a már előre felfűtött autóban.",
                 "ro": "Plimbările scurte pe plajă sunt revigorante în aerul curat de iarnă; încălziți-vă imediat după aceea în mașina deja încălzită.",
-                "en": "Short walks on the beach are refreshing in the clear winter air; warm up immediately afterwards in the pre-heated car."
+                "en": "Short walks on the beach are refreshing in the clear winter air; warm up immediately afterwards in the pre-heated car.",
+                "es": "Paseos cortos por la playa son revitalizantes con el aire claro de invierno; caliéntate de inmediato después en el coche precalentado."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Museo Municipal de Ribeira",
                 "hu": "Museo Municipal de Ribeira",
                 "ro": "Museo Municipal de Ribeira",
-                "en": "Museo Municipal de Ribeira"
+                "en": "Museo Municipal de Ribeira",
+                "es": "Museo Municipal de Ribeira"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort für den späten Nachmittag, wenn es draußen kälter wird; parken Sie in der Nähe, da die Sonne gegen 17:00 Uhr untergeht.",
                 "hu": "Ideális hely késő délutánra, amikor kint hűvösebbé válik; parkoljon a közelben, mivel a nap 17:00 körül már nyugovóra tér.",
                 "ro": "Un loc ideal pentru după-amiaza târzie, când afară se face mai frig; parcați în apropiere, deoarece soarele apune în jur de ora 17:00.",
-                "en": "An ideal place for late afternoon when it gets colder outside; park nearby as the sun sets around 5 PM."
+                "en": "An ideal place for late afternoon when it gets colder outside; park nearby as the sun sets around 5 PM.",
+                "es": "Un lugar ideal para la tarde cuando hace más frío fuera; aparca cerca, ya que el sol se pone alrededor de las 17:00."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Miradoiro de San Roque",
                 "hu": "Miradoiro de San Roque",
                 "ro": "Miradoiro de San Roque",
-                "en": "Miradoiro de San Roque"
+                "en": "Miradoiro de San Roque",
+                "es": "Miradoiro de San Roque"
               },
               "tip_5lang": {
                 "de": "Kommen Sie rechtzeitig zum Sonnenuntergang um 17:00 Uhr; die Aussicht auf die beleuchtete Stadt Ribeira im Winterzwielicht ist spektakulär.",
                 "hu": "Érkezzen időben a 17:00 körüli naplementéhez; a kivilágított Ribeira látványa a téli szürkületben egészen látványos fentről.",
                 "ro": "Ajungeți la timp pentru apusul din jurul orei 17:00; vederea orașului Ribeira iluminat în amurgul de iarnă este spectaculoasă de sus.",
-                "en": "Arrive in time for the sunset around 5 PM; the view of illuminated Ribeira in the winter twilight is spectacular from above."
+                "en": "Arrive in time for the sunset around 5 PM; the view of illuminated Ribeira in the winter twilight is spectacular from above.",
+                "es": "Llega a tiempo para el atardecer sobre las 17:00; la vista de Ribeira iluminada al crepúsculo invernal es espectacular desde arriba."
               }
             }
           ]

@@ -21,7 +21,8 @@
             "de": "Plaça de sa Bassa",
             "hu": "Plaça de sa Bassa",
             "ro": "Plaça de sa Bassa",
-            "en": "Plaça de sa Bassa"
+            "en": "Plaça de sa Bassa",
+            "es": "Plaça de sa Bassa"
           },
           "coords": [
             3.209,
@@ -37,7 +38,8 @@
             "de": "Starten Sie mit einem Kaffee in einem der Cafés und beobachten Sie das morgendliche Treiben.",
             "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában, és figyelje a reggeli nyüzsgést.",
             "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață și observați agitația de dimineață.",
-            "en": "Start with a coffee at one of the square's cafes and watch the morning bustle."
+            "en": "Start with a coffee at one of the square's cafes and watch the morning bustle.",
+            "es": "Comienza con un café en una de las cafeterías de la plaza y observa el bullicio matinal."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Kirche Mare de Déu dels Dolors",
             "hu": "Mare de Déu dels Dolors-templom",
             "ro": "Biserica Mare de Déu dels Dolors",
-            "en": "Church of Mare de Déu dels Dolors"
+            "en": "Church of Mare de Déu dels Dolors",
+            "es": "Church of Mare de Déu dels Dolors"
           },
           "coords": [
             3.208,
@@ -61,7 +64,8 @@
             "de": "Achten Sie auf den neugotischen Glockenturm, der die Skyline der Stadt dominiert.",
             "hu": "Keresse a neogótikus harangtornyot, amely uralja a város látképét.",
             "ro": "Fiți atenți la clopotnița neogotică ce domină orizontul orașului.",
-            "en": "Look for the neo-Gothic bell tower that dominates the town's skyline."
+            "en": "Look for the neo-Gothic bell tower that dominates the town's skyline.",
+            "es": "Busca el campanario neogótico que domina el horizonte del pueblo."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Torre de Ses Puntes",
             "hu": "Torre de Ses Puntes",
             "ro": "Torre de Ses Puntes",
-            "en": "Torre de Ses Puntes"
+            "en": "Torre de Ses Puntes",
+            "es": "Torre de Ses Puntes"
           },
           "coords": [
             3.211,
@@ -85,7 +90,8 @@
             "de": "Prüfen Sie die Öffnungszeiten; der Turm beherbergt oft interessante Kunstausstellungen.",
             "hu": "Ellenőrizze a nyitvatartási időt; a toronyban gyakran érdekes művészeti kiállításokat tartanak.",
             "ro": "Verificați programul; turnul găzduiește adesea expoziții de artă interesante.",
-            "en": "Check opening times; the tower often hosts interesting art exhibitions."
+            "en": "Check opening times; the tower often hosts interesting art exhibitions.",
+            "es": "Consulta los horarios de apertura; la torre suele acoger exposiciones de arte interesantes."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Geschichtsmuseum Manacor",
             "hu": "Manacor Történeti Múzeum",
             "ro": "Muzeul de Istorie din Manacor",
-            "en": "History Museum of Manacor"
+            "en": "History Museum of Manacor",
+            "es": "History Museum of Manacor"
           },
           "coords": [
             3.207,
@@ -109,7 +116,8 @@
             "de": "Das Museum befindet sich in einem alten Herrenhaus und bietet Einblicke in die römische und talayotische Vergangenheit.",
             "hu": "A múzeum egy régi udvarházban található, és betekintést nyújt a római és talayotikus múltba.",
             "ro": "Muzeul este găzduit într-un vechi conac și oferă o perspectivă asupra trecutului roman și talaiotic.",
-            "en": "The museum is housed in an old manor and offers insights into the Roman and Talayotic past."
+            "en": "The museum is housed in an old manor and offers insights into the Roman and Talayotic past.",
+            "es": "El museo se encuentra en un antiguo pazo y ofrece información sobre el pasado romano y talayótico."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Kloster Sant Vicenç Ferrer",
             "hu": "Sant Vicenç Ferrer kolostor",
             "ro": "Mănăstirea Sant Vicenç Ferrer",
-            "en": "Convent of Sant Vicenç Ferrer"
+            "en": "Convent of Sant Vicenç Ferrer",
+            "es": "Convent of Sant Vicenç Ferrer"
           },
           "coords": [
             3.206,
@@ -133,7 +142,8 @@
             "de": "Genießen Sie die Ruhe im barocken Kreuzgang, eine Oase der Stille im Stadtzentrum.",
             "hu": "Élvezze a barokk kerengő nyugalmát, a csend oázisát a városközpontban.",
             "ro": "Bucurați-vă de liniștea din claustrul baroc, o oază de pace în centrul orașului.",
-            "en": "Enjoy the tranquility in the baroque cloister, an oasis of peace in the city center."
+            "en": "Enjoy the tranquility in the baroque cloister, an oasis of peace in the city center.",
+            "es": "Disfruta de la tranquilidad en el claustro barroco, un oasis de paz en el centro de la ciudad."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Majorica Perlenfabrik",
             "hu": "Majorica gyöngygyár",
             "ro": "Fabrica de Perle Majorica",
-            "en": "Majorica Pearl Factory"
+            "en": "Majorica Pearl Factory",
+            "es": "Majorica Pearl Factory"
           },
           "coords": [
             3.218,
@@ -157,7 +168,8 @@
             "de": "Nehmen Sie an einer Führung teil, um den Herstellungsprozess der weltberühmten Perlen zu sehen.",
             "hu": "Vegyen részt egy vezetett túrán, hogy megnézze a világhírű gyöngyök készítési folyamatát.",
             "ro": "Participați la un tur ghidat pentru a vedea procesul de fabricație al perlelor de renume mondial.",
-            "en": "Join a guided tour to see the manufacturing process of the world-famous pearls."
+            "en": "Join a guided tour to see the manufacturing process of the world-famous pearls.",
+            "es": "Participa en una visita guiada para ver el proceso de fabricación de las mundialmente famosas perlas."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Ein Spaziergang durch Manacor beginnt am belebten Plaça de sa Bassa und führt zur imposanten neugotischen Kirche. Am Vormittag erkunden Sie historische Türme und tauchen im Geschichtsmuseum in die Vergangenheit der Region ein. Nach dem Mittagessen bietet der ruhige Kreuzgang des Klosters Sant Vicenç Ferrer eine friedliche Pause. Der Nachmittag ist dem glänzenden Erbe der Stadt in der Majorica Perlenfabrik gewidmet, wo Sie die Kunst der Perlenherstellung entdecken. Der Tag endet mit einem entspannten Bummel zurück durch die charmanten Straßen der Stadt.",
         "hu": "A manacori séta a nyüzsgő Plaça de sa Bassán kezdődik, majd az impozáns neogótikus templomhoz vezet. Délelőtt fedezze fel a történelmi tornyokat, és merüljön el a régió múltjában a Történeti Múzeumban. Ebéd után a Sant Vicenç Ferrer kolostor csendes kerengője kínál békés pihenést. A délután a város csillogó örökségéről szól a Majorica gyöngygyárban, ahol megismerheti a gyöngykészítés művészetét. A nap egy kellemes sétával zárul vissza a város bájos utcáin.",
         "ro": "O plimbare prin Manacor începe în animata Plaça de sa Bassa și continuă spre impunătoarea biserică neogotică. Dimineața, explorați turnuri istorice și scufundați-vă în trecutul regiunii la Muzeul de Istorie. După prânz, claustrul liniștit al mănăstirii Sant Vicenç Ferrer oferă o pauză pașnică. După-amiaza este dedicată moștenirii strălucitoare a orașului la Fabrica de Perle Majorica, unde descoperiți arta fabricării perlelor. Ziua se încheie cu o plimbare relaxată înapoi pe străzile fermecătoare ale orașului.",
-        "en": "A walk through Manacor starts at the bustling Plaça de sa Bassa, leading to the imposing neo-Gothic church. In the morning, explore historic towers and delve into the region's past at the History Museum. After lunch, the quiet cloister of the Convent of Sant Vicenç Ferrer offers a peaceful break. The afternoon is dedicated to the city's gleaming heritage at the Majorica Pearl Factory, where you discover the art of pearl making. The day concludes with a leisurely stroll back through the town's charming streets."
+        "en": "A walk through Manacor starts at the bustling Plaça de sa Bassa, leading to the imposing neo-Gothic church. In the morning, explore historic towers and delve into the region's past at the History Museum. After lunch, the quiet cloister of the Convent of Sant Vicenç Ferrer offers a peaceful break. The afternoon is dedicated to the city's gleaming heritage at the Majorica Pearl Factory, where you discover the art of pearl making. The day concludes with a leisurely stroll back through the town's charming streets.",
+        "es": "Un paseo por Manacor comienza en la animada Plaça de sa Bassa y conduce a la imponente iglesia neogótica. Por la mañana explora las torres históricas y profundiza en el pasado de la región en el Museo de Historia. Tras el almuerzo, el tranquilo claustro del Convento de Sant Vicenç Ferrer ofrece un descanso apacible. La tarde se dedica al brillo patrimonial de la ciudad en la fábrica Majorica, donde descubrirás el arte de la elaboración de perlas. El día concluye con un paseo sosegado por las encantadoras calles del pueblo."
       },
       "gastro_picks": {
         "de": [
@@ -337,6 +350,11 @@
           "Wear comfortable shoes as the center of Manacor is best explored on foot.",
           "Most shops observe a siesta, so plan your shopping for the morning or late afternoon.",
           "Look out for the weekly market on Monday, which fills the streets with life."
+        ],
+        "es": [
+          "Lleva calzado cómodo, ya que el centro de Manacor se explora mejor a pie.",
+          "La mayoría de las tiendas guardan siesta, así que planifica las compras por la mañana o al final de la tarde.",
+          "Atento al mercado semanal del lunes, que llena las calles de vida."
         ]
       },
       "variants": {
@@ -345,7 +363,8 @@
             "de": "Beginnen Sie den Tag auf der Plaça de sa Bassa, wo die Cafés unter den Arkaden Schutz bieten. Vormittags dient die kühle Kirche als idealer Zufluchtsort vor dem Regen. Am Nachmittag tauchen Sie im Geschichtsmuseum und in der Majorica-Fabrik tief in die Kultur ein, ohne nass zu werden. Der Tag endet im Kreuzgang des Klosters, wo man dem Prasseln des Regens in Ruhe lauschen kann.",
             "hu": "Reggel a Plaça de sa Bassa árkádjai alatt keressen menedéket egy kávé mellett. A délelőtti eső elől a templom monumentális belső tere nyújt védelmet. Délután a városi múzeum és a Majorica gyöngygyár fedett kiállításai garantálják a száraz programot. Az estét a Sant Vicenç Ferrer kolostor kerengőjében zárjuk, ahol a belső udvar nyugalma esőben is lenyűgöző.",
             "ro": "Începeți ziua în Plaça de sa Bassa, unde cafenelele cu arcade oferă adăpost. Dimineața, interiorul bisericii este refugiul ideal împotriva ploii mediteraneene. După-amiaza este dedicată Muzeului de Istorie și Fabricii Majorica, ambele oferind experiențe interioare fascinante. Seara se încheie la mănăstire, unde puteți admira arhitectura sacră în timp ce ploaia cade peste curtea interioară.",
-            "en": "Start your day at Plaça de sa Bassa, where cafes under the arches provide shelter. During the morning rain, the church's interior is a perfect sanctuary. Spend the afternoon exploring the History Museum and the Majorica factory, both offering extensive indoor tours. End the day at the convent, enjoying the peaceful atmosphere as the rain hits the historic stone cloisters."
+            "en": "Start your day at Plaça de sa Bassa, where cafes under the arches provide shelter. During the morning rain, the church's interior is a perfect sanctuary. Spend the afternoon exploring the History Museum and the Majorica factory, both offering extensive indoor tours. End the day at the convent, enjoying the peaceful atmosphere as the rain hits the historic stone cloisters.",
+            "es": "Comienza el día en la Plaça de sa Bassa, donde las cafeterías bajo los arcos ofrecen refugio. Durante la lluvia matinal, el interior de la iglesia es un santuario perfecto. Pasa la tarde explorando el Museo de Historia y la fábrica Majorica, ambos con amplias visitas interiores. Termina el día en el convento, disfrutando de la paz mientras la lluvia golpea los históricos claustros de piedra."
           },
           "stops": [
             {
@@ -354,7 +373,8 @@
                 "de": "Nutzen Sie die Arkaden der Cafés als Regenschutz.",
                 "hu": "Használja a kávézók árkádjait az eső elleni védelemre.",
                 "ro": "Folosiți arcadele cafenelelor pentru a vă proteja de ploaie.",
-                "en": "Use the cafe arcades to stay dry while people-watching."
+                "en": "Use the cafe arcades to stay dry while people-watching.",
+                "es": "Usa los soportales de las cafeterías para mantenerte seco mientras observas a la gente."
               }
             },
             {
@@ -363,7 +383,8 @@
                 "de": "Ein hervorragender Ort, um den stärksten Guss abzuwarten.",
                 "hu": "Kiváló hely a legerősebb záporok megvárására.",
                 "ro": "Un loc excelent pentru a aștepta trecerea ploii torențiale.",
-                "en": "An excellent place to wait out the heaviest downpours."
+                "en": "An excellent place to wait out the heaviest downpours.",
+                "es": "Un lugar excelente para esperar a que pase el chaparrón más intenso."
               }
             },
             {
@@ -372,7 +393,8 @@
                 "de": "Die Innenräume bieten kleine, aber trockene Ausstellungen.",
                 "hu": "A belső terek kicsi, de száraz kiállításokat kínálnak.",
                 "ro": "Interioarele găzduiesc expoziții mici, dar ferite de umezeală.",
-                "en": "The interior houses small but dry art exhibitions."
+                "en": "The interior houses small but dry art exhibitions.",
+                "es": "El interior alberga pequeñas pero secas exposiciones de arte."
               }
             },
             {
@@ -381,7 +403,8 @@
                 "de": "Planen Sie hier mehr Zeit ein, um dem Regen zu entgehen.",
                 "hu": "Töltsön itt több időt, amíg odakint esik.",
                 "ro": "Petreceți mai mult timp aici cât timp plouă afară.",
-                "en": "Spend more time here to escape the outdoor wetness."
+                "en": "Spend more time here to escape the outdoor wetness.",
+                "es": "Pasa más tiempo aquí para escapar de la humedad exterior."
               }
             },
             {
@@ -390,7 +413,8 @@
                 "de": "Der Kreuzgang bietet Schutz bei leichtem Nieselregen.",
                 "hu": "A kerengő védelmet nyújt enyhe szitáló esőben.",
                 "ro": "Cloastrul oferă protecție în timpul unei ploi ușoare.",
-                "en": "The cloister walkways offer protection from light drizzle."
+                "en": "The cloister walkways offer protection from light drizzle.",
+                "es": "Los pasillos del claustro ofrecen protección ante la ligera llovizna."
               }
             },
             {
@@ -399,7 +423,8 @@
                 "de": "Perfektes Indoor-Finale mit großem Verkaufsbereich.",
                 "hu": "Tökéletes fedett befejezés nagy vásárlótérrel.",
                 "ro": "Final de zi perfect la interior, cu zonă de shopping.",
-                "en": "Perfect indoor finale with a large showroom area."
+                "en": "Perfect indoor finale with a large showroom area.",
+                "es": "Final interior perfecto con una gran sala de exposiciones."
               }
             }
           ],
@@ -427,6 +452,12 @@
               "Wear waterproof shoes as the cobblestones can be slippery.",
               "Time your museum visits during the most intense rainfall peaks.",
               "A compact umbrella is ideal for the short walks between stops."
+            ],
+            "es": [
+              "El centro de Manacor tiene muchas calles estrechas con aleros protectores.",
+              "Lleva calzado impermeable porque los adoquines pueden resbalar.",
+              "Programa las visitas a los museos durante los picos de lluvia más intensos.",
+              "Un paraguas compacto es ideal para los cortos paseos entre paradas."
             ]
           }
         },
@@ -435,7 +466,8 @@
             "de": "Genießen Sie die milde Wintersonne bei einem morgendlichen Spaziergang durch die Altstadt. Die klare Luft macht den Besuch des Kirchturms und der Torre de Ses Puntes besonders reizvoll. Mittags wärmen Sie sich im Geschichtsmuseum auf, bevor Sie den Nachmittag in der angenehm temperierten Majorica-Fabrik verbringen. Da es früh dunkel wird, bietet das festlich beleuchtete Kloster einen stimmungsvollen Abschluss.",
             "hu": "Élvezze az enyhe téli napsütést a délelőtti óvárosi séta során. A tiszta levegőben a templom és a Torre de Ses Puntes látványa még élesebb. Délben melegedjen fel a várostörténeti múzeumban, majd töltse a délutánt a Majorica gyár kellemes hőmérsékletű termeiben. Mivel korán sötétedik, a kivilágított kolostor meghitt hangulatot áraszt a nap végén.",
             "ro": "Bucurați-vă de soarele blând de iarnă în timpul plimbării matinale prin orașul vechi. Aerul curat face vizita la turnuri mult mai plăcută. La prânz vă puteți încălzi în Muzeul de Istorie, înainte de a petrece după-amiaza în fabrica Majorica. Deoarece se întunecă devreme, mănăstirea iluminată oferă un final de zi plin de atmosferă.",
-            "en": "Enjoy the mild winter sun during a morning stroll through the old town. The crisp air makes visiting the towers especially rewarding. Warm up at midday in the History Museum before spending the afternoon in the comfortably heated Majorica factory. As darkness falls early, the illuminated convent provides a cozy and atmospheric end to your walk."
+            "en": "Enjoy the mild winter sun during a morning stroll through the old town. The crisp air makes visiting the towers especially rewarding. Warm up at midday in the History Museum before spending the afternoon in the comfortably heated Majorica factory. As darkness falls early, the illuminated convent provides a cozy and atmospheric end to your walk.",
+            "es": "Disfruta del suave sol invernal durante un paseo matinal por el casco antiguo. El aire fresco hace especialmente gratificante la visita a las torres. Calienta el cuerpo al mediodía en el Museo de Historia antes de pasar la tarde en la fábrica Majorica con calefacción. Al oscurecer temprano, el convento iluminado ofrece un final acogedor y atmosférico para tu paseo."
           },
           "stops": [
             {
@@ -444,7 +476,8 @@
                 "de": "Genießen Sie eine heiße Schokolade in der Wintersonne.",
                 "hu": "Élvezzen egy forró csokoládét a téli napsütésben.",
                 "ro": "Savurați o ciocolată caldă la soarele blând de iarnă.",
-                "en": "Enjoy a hot chocolate while sitting in the winter sun."
+                "en": "Enjoy a hot chocolate while sitting in the winter sun.",
+                "es": "Disfruta de un chocolate caliente mientras te sientas al sol invernal."
               }
             },
             {
@@ -453,7 +486,8 @@
                 "de": "Die dicken Mauern halten die Kälte draußen.",
                 "hu": "A vastag falak távol tartják a kinti hideget.",
                 "ro": "Zidurile groase mențin o temperatură constantă în interior.",
-                "en": "The thick stone walls keep the interior pleasantly calm."
+                "en": "The thick stone walls keep the interior pleasantly calm.",
+                "es": "Los gruesos muros de piedra mantienen el interior agradablemente tranquilo."
               }
             },
             {
@@ -462,7 +496,8 @@
                 "de": "Beste Fernsicht bei klarer, kalter Winterluft.",
                 "hu": "A legjobb kilátás a tiszta, hideg téli levegőben.",
                 "ro": "Cea mai bună vizibilitate în aerul curat de iarnă.",
-                "en": "Best visibility for photos in the crisp winter air."
+                "en": "Best visibility for photos in the crisp winter air.",
+                "es": "Mejor visibilidad para fotos con el aire fresco del invierno."
               }
             },
             {
@@ -471,7 +506,8 @@
                 "de": "Angenehm temperierte Säle für eine lange Pause.",
                 "hu": "Kellemesen temperált termek egy hosszabb szünethez.",
                 "ro": "Săli bine încălzite, ideale pentru o pauză lungă.",
-                "en": "Well-heated halls perfect for a long cultural break."
+                "en": "Well-heated halls perfect for a long cultural break.",
+                "es": "Salones bien calefactados perfectos para una larga pausa cultural."
               }
             },
             {
@@ -480,7 +516,8 @@
                 "de": "Erleben Sie das Kloster in der frühen Abenddämmerung.",
                 "hu": "Látogassa meg a kolostort a korai szürkületben.",
                 "ro": "Vizitați mănăstirea în amurgul timpuriu de iarnă.",
-                "en": "Visit the convent during the atmospheric early dusk."
+                "en": "Visit the convent during the atmospheric early dusk.",
+                "es": "Visita el convento durante el crepúsculo, muy atmosférico."
               }
             },
             {
@@ -489,7 +526,8 @@
                 "de": "Guter Ort, um Weihnachtsgeschenke zu finden.",
                 "hu": "Kiváló hely különleges karácsonyi ajándékokhoz.",
                 "ro": "Loc excelent pentru a găsi cadouri speciale de iarnă.",
-                "en": "Great place to find unique winter or holiday gifts."
+                "en": "Great place to find unique winter or holiday gifts.",
+                "es": "Gran lugar para encontrar regalos únicos de invierno o navideños."
               }
             }
           ],
@@ -517,6 +555,12 @@
               "Wear layers as shaded streets can feel quite chilly.",
               "Enjoy the peaceful atmosphere with fewer tourists around.",
               "Try traditional warm pastries in the local bakeries."
+            ],
+            "es": [
+              "El sol se pone alrededor de las 17:30 durante los meses de invierno.",
+              "Vístete en capas, las calles en sombra pueden sentirse bastante frías.",
+              "Disfruta de la atmósfera tranquila con menos turistas.",
+              "Prueba pasteles calientes tradicionales en las panaderías locales."
             ]
           }
         }
@@ -535,7 +579,8 @@
             "de": "Plaça de sa Bassa",
             "hu": "Plaça de sa Bassa",
             "ro": "Plaça de sa Bassa",
-            "en": "Plaça de sa Bassa"
+            "en": "Plaça de sa Bassa",
+            "es": "Plaça de sa Bassa"
           },
           "coords": [
             3.209,
@@ -551,7 +596,8 @@
             "de": "Parken Sie Ihr Fahrrad und genießen Sie einen Kaffee, bevor Sie losfahren.",
             "hu": "Parkolja le a kerékpárt, és igyon egy kávét, mielőtt elindul.",
             "ro": "Parcați bicicleta și savurați o cafea înainte de a porni la drum.",
-            "en": "Park your bike and enjoy a coffee before heading out."
+            "en": "Park your bike and enjoy a coffee before heading out.",
+            "es": "Aparca tu bici y toma un café antes de salir."
           }
         },
         {
@@ -559,7 +605,8 @@
             "de": "Kirche Mare de Déu dels Dolors",
             "hu": "Mare de Déu dels Dolors-templom",
             "ro": "Biserica Mare de Déu dels Dolors",
-            "en": "Church of Mare de Déu dels Dolors"
+            "en": "Church of Mare de Déu dels Dolors",
+            "es": "Iglesia de la Mare de Déu dels Dolors"
           },
           "coords": [
             3.208,
@@ -575,7 +622,8 @@
             "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und bewundern Sie die beeindruckende Fassade.",
             "hu": "Hagyja a közelben a kerékpárt, és csodálja meg a lenyűgöző homlokzatot.",
             "ro": "Lăsați bicicleta în apropiere și admirați fațada impresionantă.",
-            "en": "Leave your bike nearby and admire the impressive facade."
+            "en": "Leave your bike nearby and admire the impressive facade.",
+            "es": "Deja la bici cerca y admira la impresionante fachada."
           }
         },
         {
@@ -583,7 +631,8 @@
             "de": "Torre de Ses Puntes",
             "hu": "Torre de Ses Puntes",
             "ro": "Torre de Ses Puntes",
-            "en": "Torre de Ses Puntes"
+            "en": "Torre de Ses Puntes",
+            "es": "Torre de Ses Puntes"
           },
           "coords": [
             3.211,
@@ -599,7 +648,8 @@
             "de": "Von hier aus hat man einen guten Blick auf die Dächer der Stadt.",
             "hu": "Innen jó kilátás nyílik a város háztetőire.",
             "ro": "De aici se poate admira o priveliște frumoasă asupra acoperișurilor orașului.",
-            "en": "You get a good view of the city's rooftops from here."
+            "en": "You get a good view of the city's rooftops from here.",
+            "es": "Desde aquí obtienes una buena vista de las azoteas de la ciudad."
           }
         },
         {
@@ -607,7 +657,8 @@
             "de": "Rafael Nadal Museum",
             "hu": "Rafael Nadal Múzeum",
             "ro": "Muzeul Rafael Nadal",
-            "en": "Rafael Nadal Museum"
+            "en": "Rafael Nadal Museum",
+            "es": "Museo Rafael Nadal"
           },
           "coords": [
             3.223,
@@ -623,7 +674,8 @@
             "de": "Ein Muss für Sportfans. Planen Sie genügend Zeit für die interaktiven Exponate ein.",
             "hu": "Sportrajongóknak kötelező. Tervezzen elég időt az interaktív kiállításokra.",
             "ro": "O vizită obligatorie pentru fanii sportului. Planificați suficient timp pentru exponatele interactive.",
-            "en": "A must-visit for sports fans. Plan enough time for the interactive exhibits."
+            "en": "A must-visit for sports fans. Plan enough time for the interactive exhibits.",
+            "es": "Imprescindible para aficionados al deporte. Planifica tiempo suficiente para las exposiciones interactivas."
           }
         },
         {
@@ -631,7 +683,8 @@
             "de": "Majorica Perlenfabrik",
             "hu": "Majorica gyöngygyár",
             "ro": "Fabrica de Perle Majorica",
-            "en": "Majorica Pearl Factory"
+            "en": "Majorica Pearl Factory",
+            "es": "Fábrica de Perlas Majorica"
           },
           "coords": [
             3.218,
@@ -647,7 +700,8 @@
             "de": "Nach dem Museum ist es nur eine kurze Fahrt zur Perlenfabrik für etwas Glanz und Glamour.",
             "hu": "A múzeum után csak egy rövid út a gyöngygyárig egy kis csillogásért és ragyogásért.",
             "ro": "După muzeu, este doar o scurtă plimbare cu bicicleta până la fabrica de perle pentru puțină strălucire și farmec.",
-            "en": "After the museum, it's a short ride to the pearl factory for some sparkle and glamour."
+            "en": "After the museum, it's a short ride to the pearl factory for some sparkle and glamour.",
+            "es": "Tras el museo, es un corto trayecto hasta la fábrica de perlas para un toque de brillo y glamour."
           }
         },
         {
@@ -655,7 +709,8 @@
             "de": "Kloster Sant Vicenç Ferrer",
             "hu": "Sant Vicenç Ferrer kolostor",
             "ro": "Mănăstirea Sant Vicenç Ferrer",
-            "en": "Convent of Sant Vicenç Ferrer"
+            "en": "Convent of Sant Vicenç Ferrer",
+            "es": "Convento de Sant Vicenç Ferrer"
           },
           "coords": [
             3.206,
@@ -671,7 +726,8 @@
             "de": "Schließen Sie den Tag mit einem Moment der Ruhe im wunderschönen Kreuzgang ab.",
             "hu": "Zárja a napot egy csendes pillanattal a gyönyörű kerengőben.",
             "ro": "Încheiați ziua cu un moment de liniște în frumosul claustru.",
-            "en": "End the day with a moment of peace in the beautiful cloister."
+            "en": "End the day with a moment of peace in the beautiful cloister.",
+            "es": "Termina el día con un momento de paz en el hermoso claustro."
           }
         }
       ],
@@ -679,7 +735,8 @@
         "de": "Auf zwei Rädern durch Manacor: Beginnen Sie am Plaça de sa Bassa und radeln Sie zur Kirche und zum Torre de Ses Puntes für einen Überblick. Eine längere Fahrt führt Sie am Vormittag zum Rafael Nadal Museum, einem modernen Highlight. Nach dem sportlichen Vormittag geht es weiter zur Majorica Perlenfabrik. Der Nachmittag wird mit einem Besuch des ruhigen Klosters Sant Vicenç Ferrer abgerundet, bevor Sie zurück ins Zentrum radeln. Diese Tour verbindet Kultur mit den sportlichen und handwerklichen Aushängeschildern der Stadt.",
         "hu": "Két keréken Manacorban: Induljon a Plaça de sa Bassáról, majd tekerjen el a templomhoz és a Torre de Ses Puntes-hez egy kis körképért. Egy hosszabb út vezet a Rafael Nadal Múzeumhoz, egy modern látványossághoz. A sportos délelőtt után irány a Majorica gyöngygyár. A délutánt a csendes Sant Vicenç Ferrer kolostor meglátogatásával zárja, mielőtt visszatekerne a központba. Ez a túra ötvözi a kultúrát a város sportos és kézműves büszkeségeivel.",
         "ro": "Pe două roți prin Manacor: Începeți din Plaça de sa Bassa și pedalați spre biserică și Torre de Ses Puntes pentru o privire de ansamblu. O plimbare mai lungă vă duce la Muzeul Rafael Nadal, un punct de atracție modern. După dimineața sportivă, continuați spre Fabrica de Perle Majorica. După-amiaza se încheie cu o vizită la liniștita Mănăstire Sant Vicenç Ferrer, înainte de a pedala înapoi în centru. Acest tur combină cultura cu emblemele sportive și artizanale ale orașului.",
-        "en": "On two wheels through Manacor: Start at Plaça de sa Bassa and cycle to the church and the Torre de Ses Puntes for an overview. A longer ride takes you to the Rafael Nadal Museum, a modern highlight. After the sporty morning, continue to the Majorica Pearl Factory. The afternoon is rounded off with a visit to the peaceful Convent of Sant Vicenç Ferrer before cycling back to the center. This tour combines culture with the city's sporting and artisanal flagships."
+        "en": "On two wheels through Manacor: Start at Plaça de sa Bassa and cycle to the church and the Torre de Ses Puntes for an overview. A longer ride takes you to the Rafael Nadal Museum, a modern highlight. After the sporty morning, continue to the Majorica Pearl Factory. The afternoon is rounded off with a visit to the peaceful Convent of Sant Vicenç Ferrer before cycling back to the center. This tour combines culture with the city's sporting and artisanal flagships.",
+        "es": "En dos ruedas por Manacor: comienza en la Plaça de sa Bassa y pedalea hasta la iglesia y la Torre de Ses Puntes para una vista general. Un recorrido más largo te lleva al Museo Rafael Nadal, un punto moderno destacado. Tras la mañana deportiva, continúa hasta la Fábrica de Perlas Majorica. La tarde se completa con una visita al pacífico Convento de Sant Vicenç Ferrer antes de regresar en bicicleta al centro. Esta ruta combina cultura con los emblemas deportivos y artesanales de la ciudad."
       },
       "gastro_picks": {
         "de": [
@@ -819,6 +876,11 @@
           "Check the condition of your rental bike before you set off.",
           "Manacor is relatively flat, but some streets can be narrow, so ride carefully.",
           "Always lock your bike securely, especially at tourist attractions."
+        ],
+        "es": [
+          "Revisa el estado de la bici de alquiler antes de salir.",
+          "Manacor es relativamente llano, pero algunas calles pueden ser estrechas, así que circula con cuidado.",
+          "Siempre asegura bien tu bici con candado, sobre todo en atractivos turísticos."
         ]
       },
       "variants": {
@@ -827,7 +889,8 @@
             "de": "Eine Radtour im Regen erfordert Vorsicht auf den glatten Straßen von Manacor. Nutzen Sie den Vormittag für die Innenstadt und flüchten Sie mittags in das Nadal-Museum, das ein Paradies für Indoor-Aktivitäten ist. Die Fahrt zur Perlenfabrik ist kurz und bietet schnellen Schutz. Beenden Sie den Tag im Kloster, während Sie Ihr Rad im überdachten Bereich abstellen.",
             "hu": "Az esős biciklizés óvatosságot igényel Manacor csúszós utcáin. A délelőttöt töltse a belvárosban, délben pedig meneküljön a Nadal Múzeumba, amely az interaktív beltéri programok fellegvára. A gyöngygyár felé vezető út rövid, így gyorsan fedél alá kerülhet. A napot a kolostornál zárja, ahol talál fedett részt a kerékpárnak.",
             "ro": "O tură cu bicicleta pe ploaie necesită prudență pe străzile alunecoase. Folosiți dimineața pentru centru și refugiați-vă la prânz în Muzeul Nadal, un paradis pentru activități indoor. Drumul spre fabrica de perle este scurt, oferind adăpost rapid. Încheiați ziua la mănăstire, unde puteți lăsa bicicleta într-o zonă protejată.",
-            "en": "Cycling in the rain requires extra caution on Manacor's slick roads. Spend the morning in the center and head to the Nadal Museum at noon for a great indoor experience. The ride to the pearl factory is short, providing quick cover from the wet. Finish your day at the convent, finding a sheltered spot to park your bike."
+            "en": "Cycling in the rain requires extra caution on Manacor's slick roads. Spend the morning in the center and head to the Nadal Museum at noon for a great indoor experience. The ride to the pearl factory is short, providing quick cover from the wet. Finish your day at the convent, finding a sheltered spot to park your bike.",
+            "es": "Circular con lluvia exige precaución extra por las calles resbaladizas. Pasa la mañana en el centro y dirígete al Museo Nadal al mediodía para una gran experiencia bajo techo. El trayecto hasta la fábrica de perlas es corto, proporcionando rápida cobertura frente al agua. Termina el día en el convento, buscando un lugar resguardado para aparcar la bici."
           },
           "stops": [
             {
@@ -836,7 +899,8 @@
                 "de": "Vorsicht vor rutschigen Markierungen auf dem Platz.",
                 "hu": "Vigyázzon a csúszós útburkolati jelekre a téren.",
                 "ro": "Atenție la marcajele rutiere alunecoase din piață.",
-                "en": "Watch out for slippery road markings on the square."
+                "en": "Watch out for slippery road markings on the square.",
+                "es": "Cuidado con las marcas viales resbaladizas en la plaza."
               }
             },
             {
@@ -845,7 +909,8 @@
                 "de": "Kurzer Stopp zum Trocknen der Kleidung möglich.",
                 "hu": "Rövid megálló a ruházat megszárításához.",
                 "ro": "O scurtă oprire pentru a vă usca hainele.",
-                "en": "A brief stop to dry off your cycling gear."
+                "en": "A brief stop to dry off your cycling gear.",
+                "es": "Breve parada para secar la ropa de ciclismo."
               }
             },
             {
@@ -854,7 +919,8 @@
                 "de": "Parken Sie das Rad nah am Eingang unter dem Dach.",
                 "hu": "Parkoljon a bejárat közelében az eresz alatt.",
                 "ro": "Parcați bicicleta aproape de intrare, sub streașină.",
-                "en": "Park your bike close to the entrance under cover."
+                "en": "Park your bike close to the entrance under cover.",
+                "es": "Aparca la bici cerca de la entrada, bajo techo."
               }
             },
             {
@@ -863,7 +929,8 @@
                 "de": "Idealer Ort für Radfahrer bei Starkregen.",
                 "hu": "Ideális hely kerékpárosoknak heves esőben.",
                 "ro": "Loc ideal pentru bicicliști în caz de ploaie torențială.",
-                "en": "Ideal location for cyclists during heavy downpours."
+                "en": "Ideal location for cyclists during heavy downpours.",
+                "es": "Ubicación ideal para ciclistas durante fuertes aguaceros."
               }
             },
             {
@@ -872,7 +939,8 @@
                 "de": "Großer Parkplatz mit einigen geschützten Ecken.",
                 "hu": "Nagy parkoló néhány védett sarokkal.",
                 "ro": "Parcare mare cu câteva colțuri protejate.",
-                "en": "Large parking area with some sheltered corners."
+                "en": "Large parking area with some sheltered corners.",
+                "es": "Amplia zona de aparcamiento con algunos rincones cubiertos."
               }
             },
             {
@@ -881,7 +949,8 @@
                 "de": "Das Ende der Tour bietet Ruhe nach der nassen Fahrt.",
                 "hu": "A túra vége nyugalmat ad a vizes utazás után.",
                 "ro": "Finalul turului oferă liniște după drumul umed.",
-                "en": "The end of the tour offers peace after a wet ride."
+                "en": "The end of the tour offers peace after a wet ride.",
+                "es": "El final del recorrido ofrece calma tras un paseo mojado."
               }
             }
           ],
@@ -909,6 +978,12 @@
               "Avoid puddles that might hide deep potholes.",
               "Waterproof panniers are essential for keeping souvenirs dry.",
               "Wear bright rain gear to stay visible to car drivers."
+            ],
+            "es": [
+              "Revisa los frenos: la distancia de frenado aumenta en mojado.",
+              "Evita los charcos que puedan esconder baches profundos.",
+              "Alforjas impermeables son esenciales para mantener los recuerdos secos.",
+              "Lleva ropa de lluvia llamativa para ser visible ante los coches."
             ]
           }
         },
@@ -917,7 +992,8 @@
             "de": "Winterliches Radfahren in Manacor ist belebend und dank des milden Klimas sehr angenehm. Starten Sie erfrischt in der Altstadt und radeln Sie zum Nadal-Museum, um die sportliche Atmosphäre zu genießen. Der Nachmittag bei Majorica bietet eine willkommene Pause vom Fahrtwind. Beenden Sie die Tour am Kloster, bevor die kühle Abendluft einsetzt und die Sonne hinter den Hügeln verschwindet.",
             "hu": "A téli kerékpározás Manacorban élénkítő és a kedvező klímának köszönhetően kellemes. Kezdje a reggelt az óvárosban, majd tekerjen el a Nadal Múzeumba a sportos hangulatért. A délutáni Majorica látogatás jó pihenőt kínál a menetszél után. Fejezze be a túrát a kolostornál, mielőtt a hűvös esti levegő megérkezne és a nap lebukna a dombok mögött.",
             "ro": "Ciclismul de iarnă în Manacor este revigorant și plăcut datorită climei blânde. Începeți dimineața în centrul vechi, apoi pedalați spre Muzeul Nadal pentru o doză de sport. Vizita de după-amiază la Majorica oferă o pauză binemeritată de la vânt. Încheiați turul la mănăstire înainte ca aerul rece de seară să se instaleze.",
-            "en": "Winter cycling in Manacor is refreshing and pleasant thanks to the mild climate. Start in the old town and cycle to the Nadal Museum to soak up the sporting atmosphere. The afternoon at Majorica offers a welcome break from the wind. Finish your tour at the convent before the cool evening air sets in and the sun disappears behind the hills."
+            "en": "Winter cycling in Manacor is refreshing and pleasant thanks to the mild climate. Start in the old town and cycle to the Nadal Museum to soak up the sporting atmosphere. The afternoon at Majorica offers a welcome break from the wind. Finish your tour at the convent before the cool evening air sets in and the sun disappears behind the hills.",
+            "es": "El ciclismo invernal en Manacor es vigorizante y agradable gracias al clima templado. Comienza en el casco antiguo y pedalea hasta el Museo Nadal para empaparte del ambiente deportivo. La tarde en Majorica ofrece un descanso bienvenido del viento. Termina tu recorrido en el convento antes de que caiga el aire fresco de la tarde y el sol desaparezca tras las colinas."
           },
           "stops": [
             {
@@ -926,7 +1002,8 @@
                 "de": "Ein heißer Kaffee hilft gegen den morgendlichen Wind.",
                 "hu": "Egy forró kávé segít a reggeli szél ellen.",
                 "ro": "O cafea fierbinte ajută împotriva vântului matinal.",
-                "en": "A hot coffee helps against the morning breeze."
+                "en": "A hot coffee helps against the morning breeze.",
+                "es": "Un café caliente ayuda contra la brisa matinal."
               }
             },
             {
@@ -935,7 +1012,8 @@
                 "de": "Kurze Pause im windgeschützten Eingangsbereich.",
                 "hu": "Rövid pihenő a szélvédett bejárati részen.",
                 "ro": "Scurtă pauză în zona de intrare ferită de vânt.",
-                "en": "Short break in the wind-sheltered entrance area."
+                "en": "Short break in the wind-sheltered entrance area.",
+                "es": "Breve descanso en el área de entrada resguardada del viento."
               }
             },
             {
@@ -944,7 +1022,8 @@
                 "de": "Das Licht am Vormittag ist ideal für Fotos vom Rad.",
                 "hu": "A délelőtti fények ideálisak fotózáshoz a gépről.",
                 "ro": "Lumina matinală este perfectă pentru fotografii.",
-                "en": "The morning light is ideal for photos from your bike."
+                "en": "The morning light is ideal for photos from your bike.",
+                "es": "La luz de la mañana es ideal para fotos desde la bici."
               }
             },
             {
@@ -953,7 +1032,8 @@
                 "de": "Perfekt, um sich bei sportlichen Simulatoren aufzuwärmen.",
                 "hu": "Tökéletes bemelegítés a sport-szimulátorokkal.",
                 "ro": "Perfect pentru a vă încălzi la simulatoarele sportive.",
-                "en": "Perfect to warm up using the sports simulators."
+                "en": "Perfect to warm up using the sports simulators.",
+                "es": "Perfecto para entrar en calor usando los simuladores deportivos."
               }
             },
             {
@@ -962,7 +1042,8 @@
                 "de": "Sicherer Abstellplatz direkt vor dem Haupteingang.",
                 "hu": "Biztonságos tároló közvetlenül a főbejárat előtt.",
                 "ro": "Loc de parcare sigur direct în fața intrării principale.",
-                "en": "Secure bike parking directly in front of the entrance."
+                "en": "Secure bike parking directly in front of the entrance.",
+                "es": "Aparcamiento seguro para bicicletas justo delante de la entrada."
               }
             },
             {
@@ -971,7 +1052,8 @@
                 "de": "Stellen Sie sicher, dass Ihre Lichter für den Rückweg funktionieren.",
                 "hu": "Ellenőrizze, hogy a lámpák működnek-e a hazatéréshez.",
                 "ro": "Asigurați-vă că luminile funcționează pentru drumul de întoarcere.",
-                "en": "Ensure your bike lights are working for the ride back."
+                "en": "Ensure your bike lights are working for the ride back.",
+                "es": "Asegúrate de que las luces de la bici funcionen para el regreso."
               }
             }
           ],
@@ -999,6 +1081,12 @@
               "Check tire pressure as it drops faster in cold weather.",
               "Drink enough water despite the cooler temperatures.",
               "Take advantage of the less busy country roads around Manacor."
+            ],
+            "es": [
+              "Se recomiendan guantes para los tramos en descenso.",
+              "Revisa la presión de los neumáticos, que baja más rápido con el frío.",
+              "Bebe suficiente agua pese a las temperaturas más frescas.",
+              "Aprovecha las carreteras rurales menos transitadas alrededor de Manacor."
             ]
           }
         }
@@ -1017,7 +1105,8 @@
             "de": "Parkplatz Zentrum & Plaça de sa Bassa",
             "hu": "Parkoló a központban és Plaça de sa Bassa",
             "ro": "Parcare centrală & Plaça de sa Bassa",
-            "en": "Central Parking & Plaça de sa Bassa"
+            "en": "Central Parking & Plaça de sa Bassa",
+            "es": "Central Parking & Plaça de sa Bassa"
           },
           "coords": [
             3.209,
@@ -1033,7 +1122,8 @@
             "de": "Parken Sie Ihr Auto für den Vormittag und erkunden Sie den ersten Cluster zu Fuß.",
             "hu": "Parkolja le az autót délelőttre, és fedezze fel az első látnivalócsoportot gyalog.",
             "ro": "Parcați mașina pentru dimineață și explorați primul grup de atracții pe jos.",
-            "en": "Park your car for the morning and explore the first cluster on foot."
+            "en": "Park your car for the morning and explore the first cluster on foot.",
+            "es": "Aparca el coche por la mañana y explora el primer conjunto a pie."
           }
         },
         {
@@ -1041,7 +1131,8 @@
             "de": "Kirche Mare de Déu dels Dolors",
             "hu": "Mare de Déu dels Dolors-templom",
             "ro": "Biserica Mare de Déu dels Dolors",
-            "en": "Church of Mare de Déu dels Dolors"
+            "en": "Church of Mare de Déu dels Dolors",
+            "es": "Iglesia de la Mare de Déu dels Dolors"
           },
           "coords": [
             3.208,
@@ -1057,7 +1148,8 @@
             "de": "Ein kurzer Spaziergang vom Platz aus.",
             "hu": "Csak egy rövid séta a tértől.",
             "ro": "La o scurtă plimbare de piață.",
-            "en": "Just a short walk from the square."
+            "en": "Just a short walk from the square.",
+            "es": "A sólo un corto paseo desde la plaza."
           }
         },
         {
@@ -1065,7 +1157,8 @@
             "de": "Geschichtsmuseum Manacor",
             "hu": "Manacor Történeti Múzeum",
             "ro": "Muzeul de Istorie din Manacor",
-            "en": "History Museum of Manacor"
+            "en": "History Museum of Manacor",
+            "es": "Museo de Historia de Manacor"
           },
           "coords": [
             3.207,
@@ -1081,7 +1174,8 @@
             "de": "Vervollständigen Sie Ihren Rundgang durch die Altstadt mit einem Besuch im Museum.",
             "hu": "Tegye teljessé óvárosi sétáját a múzeum meglátogatásával.",
             "ro": "Completați-vă turul centrului vechi cu o vizită la muzeu.",
-            "en": "Complete your tour of the old town with a visit to the museum."
+            "en": "Complete your tour of the old town with a visit to the museum.",
+            "es": "Completa tu recorrido por el casco antiguo con una visita al museo."
           }
         },
         {
@@ -1089,7 +1183,8 @@
             "de": "Rafael Nadal Museum",
             "hu": "Rafael Nadal Múzeum",
             "ro": "Muzeul Rafael Nadal",
-            "en": "Rafael Nadal Museum"
+            "en": "Rafael Nadal Museum",
+            "es": "Museo Rafael Nadal"
           },
           "coords": [
             3.223,
@@ -1105,7 +1200,8 @@
             "de": "Fahren Sie zum nächsten Cluster. Es gibt ausreichend Parkplätze an der Akademie.",
             "hu": "Vezessen a következő látnivalócsoporthoz. Az akadémiánál bőséges parkolóhely áll rendelkezésre.",
             "ro": "Conduceți spre următorul grup de atracții. Există o parcare amplă la academie.",
-            "en": "Drive to the next cluster. There is ample parking at the academy."
+            "en": "Drive to the next cluster. There is ample parking at the academy.",
+            "es": "Conduce hasta el siguiente conjunto. Hay amplio aparcamiento en la academia."
           }
         },
         {
@@ -1113,7 +1209,8 @@
             "de": "Majorica Perlenfabrik",
             "hu": "Majorica gyöngygyár",
             "ro": "Fabrica de Perle Majorica",
-            "en": "Majorica Pearl Factory"
+            "en": "Majorica Pearl Factory",
+            "es": "Fábrica de Perlas Majorica"
           },
           "coords": [
             3.218,
@@ -1129,7 +1226,8 @@
             "de": "Eine kurze Fahrt zurück in Richtung Stadtzentrum zum berühmten Ausstellungsraum und der Fabrik.",
             "hu": "Egy rövid autóút vissza a városközpont felé a híres bemutatóteremhez és gyárhoz.",
             "ro": "O scurtă călătorie cu mașina înapoi spre centrul orașului, la faimosul showroom și fabrică.",
-            "en": "A short drive back towards the city center to the famous showroom and factory."
+            "en": "A short drive back towards the city center to the famous showroom and factory.",
+            "es": "Un corto trayecto de vuelta hacia el centro hasta el famoso showroom y la fábrica."
           }
         },
         {
@@ -1137,7 +1235,8 @@
             "de": "Coves del Drac (Drachenhöhlen)",
             "hu": "Coves del Drac (Sárkánybarlangok)",
             "ro": "Coves del Drac (Peșterile Dragonului)",
-            "en": "Coves del Drac (Dragon Caves)"
+            "en": "Coves del Drac (Dragon Caves)",
+            "es": "Coves del Drac (Cuevas del Drach)"
           },
           "coords": [
             3.333,
@@ -1153,7 +1252,8 @@
             "de": "Der Hauptausflug des Tages. Buchen Sie Tickets im Voraus, um lange Warteschlangen zu vermeiden.",
             "hu": "A nap fő kirándulása. Foglaljon jegyet előre, hogy elkerülje a hosszú sorokat.",
             "ro": "Excursia principală a zilei. Rezervați biletele în avans pentru a evita cozile lungi.",
-            "en": "The main excursion of the day. Book tickets in advance to avoid long queues."
+            "en": "The main excursion of the day. Book tickets in advance to avoid long queues.",
+            "es": "La excursión principal del día. Reserva entradas con antelación para evitar largas colas."
           }
         },
         {
@@ -1161,7 +1261,8 @@
             "de": "Aussichtspunkt Porto Cristo",
             "hu": "Porto Cristo kilátó",
             "ro": "Punct de belvedere Porto Cristo",
-            "en": "Porto Cristo Viewpoint"
+            "en": "Porto Cristo Viewpoint",
+            "es": "Mirador de Porto Cristo"
           },
           "coords": [
             3.339,
@@ -1177,7 +1278,8 @@
             "de": "Beenden Sie den Tag mit einem Blick auf den Hafen von Porto Cristo bei Sonnenuntergang.",
             "hu": "Zárja a napot a Porto Cristo kikötőjére nyíló kilátással naplementekor.",
             "ro": "Încheiați ziua cu o priveliște a portului Porto Cristo la apus.",
-            "en": "End the day with a view of the Porto Cristo harbor at sunset."
+            "en": "End the day with a view of the Porto Cristo harbor at sunset.",
+            "es": "Termina el día con la vista del puerto de Porto Cristo al atardecer."
           }
         }
       ],
@@ -1185,7 +1287,8 @@
         "de": "Ein Autotag um Manacor beginnt mit dem Parken im Zentrum, um die Altstadt zu Fuß zu erkunden. Am Vormittag fahren Sie zum Rafael Nadal Museum für eine Dosis Sportgeschichte. Nach dem Mittagessen führt eine kurze Fahrt zur Majorica Perlenfabrik. Der Höhepunkt des Nachmittags ist die Fahrt zu den beeindruckenden Drachenhöhlen in Porto Cristo. Der Tag endet mit einem Panoramablick auf den Hafen, der die perfekte Kulisse für den Sonnenuntergang bietet. Diese Route kombiniert das städtische Herz Manacors mit seinen weltberühmten Attraktionen in der Umgebung.",
         "hu": "Egy autós nap Manacor környékén a központban való parkolással kezdődik, hogy gyalog fedezhessük fel az óvárost. Délelőtt a Rafael Nadal Múzeum felé vesszük az irányt egy adag sporttörténelemért. Ebéd után egy rövid út vezet a Majorica gyöngygyárhoz. A délután csúcspontja az utazás a lenyűgöző Sárkánybarlangokhoz Porto Cristóban. A nap egy panorámás kilátással zárul a kikötőre, amely tökéletes hátteret biztosít a naplementéhez. Ez az útvonal ötvözi Manacor városi szívét a környező világhírű látnivalókkal.",
         "ro": "O zi cu mașina în jurul Manacorului începe cu parcarea în centru pentru a explora orașul vechi pe jos. Dimineața, conduceți la Muzeul Rafael Nadal pentru o doză de istorie sportivă. După prânz, o scurtă călătorie cu mașina duce la Fabrica de Perle Majorica. Punctul culminant al după-amiezii este excursia la impresionantele Peșteri ale Dragonului din Porto Cristo. Ziua se încheie cu o vedere panoramică a portului, oferind fundalul perfect pentru apus. Acest traseu combină inima urbană a Manacorului cu atracțiile sale de renume mondial din jur.",
-        "en": "A car day around Manacor begins with parking in the center to explore the old town on foot. In the morning, drive to the Rafael Nadal Museum for a dose of sports history. After lunch, a short drive leads to the Majorica Pearl Factory. The highlight of the afternoon is the trip to the impressive Dragon Caves in Porto Cristo. The day concludes with a panoramic view of the harbor, providing the perfect sunset backdrop. This route combines the urban heart of Manacor with its world-famous surrounding attractions."
+        "en": "A car day around Manacor begins with parking in the center to explore the old town on foot. In the morning, drive to the Rafael Nadal Museum for a dose of sports history. After lunch, a short drive leads to the Majorica Pearl Factory. The highlight of the afternoon is the trip to the impressive Dragon Caves in Porto Cristo. The day concludes with a panoramic view of the harbor, providing the perfect sunset backdrop. This route combines the urban heart of Manacor with its world-famous surrounding attractions.",
+        "es": "Un día en coche por los alrededores de Manacor comienza aparcando en el centro para explorar el casco antiguo a pie. Por la mañana, conduce al Museo Rafael Nadal para una dosis de historia deportiva. Tras el almuerzo, un breve trayecto lleva a la Fábrica de Perlas Majorica. El punto culminante de la tarde es la visita a las impresionantes Cuevas del Drach en Porto Cristo. El día concluye con una vista panorámica del puerto, perfecto para el atardecer. Esta ruta combina el corazón urbano de Manacor con sus famosas atracciones cercanas."
       },
       "gastro_picks": {
         "de": [
@@ -1325,6 +1428,11 @@
           "Book tickets for Coves del Drac online to get the best time slots.",
           "Parking in the center of Manacor can be difficult, use the designated car parks.",
           "Fuel up before longer drives, although distances are not huge."
+        ],
+        "es": [
+          "Reserva las entradas para las Coves del Drac online para conseguir los mejores horarios.",
+          "Aparcar en el centro de Manacor puede ser difícil; utiliza los parkings señalizados.",
+          "Llena el depósito antes de trayectos más largos, aunque las distancias no son grandes."
         ]
       },
       "variants": {
@@ -1333,7 +1441,8 @@
             "de": "Das Auto ist bei Regen die komfortabelste Wahl für Manacor. Starten Sie im Stadtzentrum und fahren Sie nach dem Museumsbesuch direkt zum Nadal-Museum und weiter zur Perlenfabrik. Das Highlight des Tages sind die Drachenhöhlen (Coves del Drac), in denen es das ganze Jahr über trocken und 21 Grad warm ist. Schließen Sie den Tag mit einem Blick auf den stürmischen Hafen von Porto Cristo ab.",
             "hu": "Esőben az autó a legkényelmesebb választás Manacor felfedezéséhez. A belvárosi séta után hajtson át a Nadal Múzeumba, majd a gyöngygyárba. A nap fénypontja a Sárkánybarlang (Coves del Drac), ahol egész évben száraz idő és 21 fok várja. A napot a Porto Cristo-i kikötő viharos, de látványos panorámájával zárhatja az autóból.",
             "ro": "Mașina este cea mai confortabilă opțiune în Manacor pe timp de ploaie. Vizitați centrul, apoi conduceți spre Muzeul Nadal și fabrica de perle. Punctul culminant este Coves del Drac, unde este mereu uscat și sunt 21 de grade. Încheiați ziua admirând portul Porto Cristo din confortul mașinii în timp ce plouă.",
-            "en": "A car is the most comfortable choice for Manacor when it rains. Start in the city center, then drive directly to the Nadal Museum and the pearl factory. The highlight is the Dragon Caves (Coves del Drac), which stay dry and at a constant 21°C year-round. End your day viewing the stormy but beautiful Porto Cristo harbour from your car."
+            "en": "A car is the most comfortable choice for Manacor when it rains. Start in the city center, then drive directly to the Nadal Museum and the pearl factory. The highlight is the Dragon Caves (Coves del Drac), which stay dry and at a constant 21°C year-round. End your day viewing the stormy but beautiful Porto Cristo harbour from your car.",
+            "es": "El coche es la opción más cómoda en Manacor cuando llueve. Empieza en el centro, luego conduce directamente al Museo Nadal y a la fábrica de perlas. El punto fuerte son las Cuevas del Drach, que se mantienen secas y a una constante 21°C durante todo el año. Termina el día contemplando desde el coche el puerto tormentoso pero hermoso de Porto Cristo."
           },
           "stops": [
             {
@@ -1342,7 +1451,8 @@
                 "de": "Parken Sie im Parkhaus, um trocken ins Zentrum zu kommen.",
                 "hu": "Parkoljon a mélygarázsban, hogy szárazon jusson a központba.",
                 "ro": "Parcați în garajul subteran pentru a ajunge uscat în centru.",
-                "en": "Park in the underground garage to stay dry reaching the center."
+                "en": "Park in the underground garage to stay dry reaching the center.",
+                "es": "Aparca en el garaje subterráneo para llegar seco al centro."
               }
             },
             {
@@ -1351,7 +1461,8 @@
                 "de": "Halten Sie kurz zum Aussteigen direkt vor dem Platz.",
                 "hu": "Álljon meg egy pillanatra a kiszálláshoz a tér mellett.",
                 "ro": "Opriți scurt pentru debarcare chiar lângă piață.",
-                "en": "Drop off passengers right by the square for quick entry."
+                "en": "Drop off passengers right by the square for quick entry.",
+                "es": "Deja a los pasajeros justo junto a la plaza para un acceso rápido."
               }
             },
             {
@@ -1360,7 +1471,8 @@
                 "de": "Kostenlose Parkplätze direkt am Museumseingang.",
                 "hu": "Ingyenes parkolóhelyek közvetlenül a múzeum bejáratánál.",
                 "ro": "Locuri de parcare gratuite chiar la intrarea în muzeu.",
-                "en": "Free parking spots available right at the museum entrance."
+                "en": "Free parking spots available right at the museum entrance.",
+                "es": "Plazas de aparcamiento gratuitas disponibles junto a la entrada del museo."
               }
             },
             {
@@ -1369,7 +1481,8 @@
                 "de": "Großer, gut befestigter Parkplatz ohne Matschgefahr.",
                 "hu": "Nagy, szilárd burkolatú parkoló sárveszély nélkül.",
                 "ro": "Parcare mare, asfaltată, fără risc de noroi.",
-                "en": "Large, paved parking area with no risk of mud."
+                "en": "Large, paved parking area with no risk of mud.",
+                "es": "Amplia zona de aparcamiento pavimentada sin riesgo de barro."
               }
             },
             {
@@ -1378,7 +1491,8 @@
                 "de": "Überdachter Eingangsbereich zum Entladen von Gästen.",
                 "hu": "Fedett bejárati rész az utasok kiszállásához.",
                 "ro": "Zonă de intrare acoperită pentru debarcarea pasagerilor.",
-                "en": "Covered entrance area for dropping off guests."
+                "en": "Covered entrance area for dropping off guests.",
+                "es": "Área de entrada cubierta para dejar pasajeros."
               }
             },
             {
@@ -1387,7 +1501,8 @@
                 "de": "Perfekter Ort: Unter der Erde regnet es nie.",
                 "hu": "Tökéletes helyszín: a föld alatt sosem esik.",
                 "ro": "Locație perfectă: sub pământ nu plouă niciodată.",
-                "en": "Perfect location: it never rains underground."
+                "en": "Perfect location: it never rains underground.",
+                "es": "Ubicación perfecta: bajo tierra nunca llueve."
               }
             },
             {
@@ -1396,7 +1511,8 @@
                 "de": "Genießen Sie die Aussicht sicher aus dem Auto.",
                 "hu": "Élvezze a kilátást biztonságban az autóból.",
                 "ro": "Bucurați-vă de priveliște în siguranță din mașină.",
-                "en": "Enjoy the dramatic coastal view safely from your car."
+                "en": "Enjoy the dramatic coastal view safely from your car.",
+                "es": "Disfruta de la vista costera dramática con seguridad desde tu coche."
               }
             }
           ],
@@ -1424,6 +1540,12 @@
               "Use the AC to quickly defog the windshield.",
               "Cave tours are popular when it rains, so book in advance.",
               "Drive carefully on the coastal roads which can get slick."
+            ],
+            "es": [
+              "Cuidado con las inundaciones repentinas en carreteras de menor cota durante lluvias intensas.",
+              "Usa el aire acondicionado para desempañar rápidamente el parabrisas.",
+              "Las visitas a las cuevas son populares con lluvia, así que reserva con antelación.",
+              "Conduce con cuidado por las carreteras costeras, que pueden volverse resbaladizas."
             ]
           }
         },
@@ -1432,7 +1554,8 @@
             "de": "Eine winterliche Fahrt durch das Herz Mallorcas bietet leere Straßen und weite Ausblicke. Starten Sie in Manacor und besuchen Sie die Museen in aller Ruhe. Die Fahrt nach Porto Cristo führt durch malerische Landschaften, die im Winter besonders grün sind. Besuchen Sie die Drachenhöhlen ohne die sommerliche Hitze und beenden Sie die Tour am Aussichtspunkt pünktlich zum frühen, aber spektakulären Sonnenuntergang über dem Meer.",
             "hu": "A téli autózás Mallorca szívében üres utakat és tiszta tájakat kínál. Kezdje Manacorban, és látogassa meg a múzeumokat tömeg nélkül. A Porto Cristo felé vezető út télen különösen zöld és látványos. A Sárkánybarlangban nincs nyári hőség, a nap végén pedig érjen ki a kilátóhoz a korai, de látványos tengeri naplementére.",
             "ro": "O plimbare de iarnă prin inima Mallorcăi oferă drumuri libere și peisaje verzi. Începeți în Manacor și vizitați muzeele fără aglomerație. Drumul spre Porto Cristo este pitoresc în acest sezon. Vizitați peșterile fără căldura verii și încheiați turul la punctul de belvedere fix la timp pentru apusul spectaculos peste mare.",
-            "en": "A winter drive through the heart of Mallorca offers empty roads and clear views. Start in Manacor and visit the museums without the usual crowds. The drive to Porto Cristo is especially green and scenic in winter. Visit the Dragon Caves without the summer heat and time your arrival at the viewpoint for the spectacular early sunset over the sea."
+            "en": "A winter drive through the heart of Mallorca offers empty roads and clear views. Start in Manacor and visit the museums without the usual crowds. The drive to Porto Cristo is especially green and scenic in winter. Visit the Dragon Caves without the summer heat and time your arrival at the viewpoint for the spectacular early sunset over the sea.",
+            "es": "Un trayecto invernal por el corazón de Mallorca ofrece carreteras vacías y vistas nítidas. Comienza en Manacor y visita los museos sin las multitudes habituales. El camino hacia Porto Cristo está especialmente verde y panorámico en invierno. Visita las Cuevas del Drach sin el calor veraniego y cronometra tu llegada al mirador para el espectacular atardecer temprano sobre el mar."
           },
           "stops": [
             {
@@ -1441,7 +1564,8 @@
                 "de": "Parkplätze sind im Winter im Überfluss vorhanden.",
                 "hu": "Télen bőségesen talál szabad parkolóhelyet.",
                 "ro": "Locurile de parcare sunt abundente în timpul iernii.",
-                "en": "Parking spaces are plenty during the winter months."
+                "en": "Parking spaces are plenty during the winter months.",
+                "es": "Las plazas de aparcamiento abundan durante los meses de invierno."
               }
             },
             {
@@ -1450,7 +1574,8 @@
                 "de": "Die Heizung im Auto sorgt für Komfort beim Umsteigen.",
                 "hu": "Az autó fűtése kényelmessé teszi a megállókat.",
                 "ro": "Căldura din mașină face opririle mult mai confortabile.",
-                "en": "The car's heater ensures comfort between stops."
+                "en": "The car's heater ensures comfort between stops.",
+                "es": "La calefacción del coche garantiza confort entre paradas."
               }
             },
             {
@@ -1459,7 +1584,8 @@
                 "de": "Genießen Sie die Ruhe in den Ausstellungsräumen.",
                 "hu": "Élvezze a nyugalmat a kiállítótermekben.",
                 "ro": "Bucurați-vă de liniște în sălile de expoziție.",
-                "en": "Enjoy the quiet atmosphere in the exhibition rooms."
+                "en": "Enjoy the quiet atmosphere in the exhibition rooms.",
+                "es": "Disfruta de la atmósfera tranquila en las salas de exposición."
               }
             },
             {
@@ -1468,7 +1594,8 @@
                 "de": "Gute Klimatisierung für einen angenehmen Aufenthalt.",
                 "hu": "Jó klimatizálás a kellemes tartózkodáshoz.",
                 "ro": "Climatizare excelentă pentru o vizită plăcută.",
-                "en": "Great indoor climate for a long and pleasant visit."
+                "en": "Great indoor climate for a long and pleasant visit.",
+                "es": "Gran clima interior para una visita larga y agradable."
               }
             },
             {
@@ -1477,7 +1604,8 @@
                 "de": "Helle Ausstellungsstücke wirken im Winterlicht edel.",
                 "hu": "A fényes kiállítási darabok nemesen festenek a téli fényben.",
                 "ro": "Exponatele strălucitoare arată superb în lumina de iarnă.",
-                "en": "Shining exhibits look elegant in the winter light."
+                "en": "Shining exhibits look elegant in the winter light.",
+                "es": "Las piezas brillantes lucen elegantes con la luz invernal."
               }
             },
             {
@@ -1486,7 +1614,8 @@
                 "de": "Konstante 21 Grad fühlen sich im Winter warm an.",
                 "hu": "A konstans 21 fok télen kifejezetten melegnek hat.",
                 "ro": "Temperatura de 21 de grade pare caldă în timpul iernii.",
-                "en": "The constant 21°C feels quite warm in winter."
+                "en": "The constant 21°C feels quite warm in winter.",
+                "es": "Los constantes 21°C se sienten bastante cálidos en invierno."
               }
             },
             {
@@ -1495,7 +1624,8 @@
                 "de": "Seien Sie gegen 17:15 Uhr für den Sonnenuntergang da.",
                 "hu": "Érkezzen 17:15 körül a naplementéhez.",
                 "ro": "Ajungeți în jur de 17:15 pentru a prinde apusul.",
-                "en": "Be there around 5:15 PM for the early winter sunset."
+                "en": "Be there around 5:15 PM for the early winter sunset.",
+                "es": "Estate allí alrededor de las 17:15 para el atardecer temprano de invierno."
               }
             }
           ],
@@ -1523,6 +1653,12 @@
               "Coastal roads can be quite windy during the winter.",
               "Take advantage of lower car rental prices in the off-season.",
               "Check the winter opening hours for the caves."
+            ],
+            "es": [
+              "Los días son cortos, así que empieza tu recorrido a más tardar a las 9:00.",
+              "Las carreteras costeras pueden ser bastante sinuosas durante el invierno.",
+              "Aprovecha los precios más bajos de alquiler de coches en temporada baja.",
+              "Consulta los horarios de invierno de las cuevas."
             ]
           }
         }
@@ -1541,7 +1677,8 @@
             "de": "Zentraler Busbahnhof & Plaça de sa Bassa",
             "hu": "Központi buszpályaudvar és Plaça de sa Bassa",
             "ro": "Autogară centrală & Plaça de sa Bassa",
-            "en": "Central Bus Station & Plaça de sa Bassa"
+            "en": "Central Bus Station & Plaça de sa Bassa",
+            "es": "Estación Central de Autobuses y Plaça de sa Bassa"
           },
           "coords": [
             3.209,
@@ -1557,7 +1694,8 @@
             "de": "Beginnen Sie Ihren Tag mit einem Spaziergang vom Busbahnhof zum Hauptplatz.",
             "hu": "Kezdje a napot egy sétával a buszpályaudvartól a főtérig.",
             "ro": "Începeți ziua cu o plimbare de la autogară la piața principală.",
-            "en": "Start your day with a walk from the bus station to the main square."
+            "en": "Start your day with a walk from the bus station to the main square.",
+            "es": "Comienza el día con un paseo desde la estación de autobuses hasta la plaza principal."
           }
         },
         {
@@ -1565,7 +1703,8 @@
             "de": "Kirche Mare de Déu dels Dolors",
             "hu": "Mare de Déu dels Dolors-templom",
             "ro": "Biserica Mare de Déu dels Dolors",
-            "en": "Church of Mare de Déu dels Dolors"
+            "en": "Church of Mare de Déu dels Dolors",
+            "es": "Iglesia de la Mare de Déu dels Dolors"
           },
           "coords": [
             3.208,
@@ -1581,7 +1720,8 @@
             "de": "Dieser erste Cluster im Stadtzentrum ist leicht zu Fuß zu bewältigen.",
             "hu": "Ez az első látnivalócsoport a városközpontban könnyen bejárható gyalog.",
             "ro": "Acest prim grup de atracții din centrul orașului este ușor de parcurs pe jos.",
-            "en": "This first cluster in the city center is easily managed on foot."
+            "en": "This first cluster in the city center is easily managed on foot.",
+            "es": "Este primer conjunto en el centro de la ciudad se recorre fácilmente a pie."
           }
         },
         {
@@ -1589,7 +1729,8 @@
             "de": "Geschichtsmuseum Manacor",
             "hu": "Manacor Történeti Múzeum",
             "ro": "Muzeul de Istorie din Manacor",
-            "en": "History Museum of Manacor"
+            "en": "History Museum of Manacor",
+            "es": "Museo de Historia de Manacor"
           },
           "coords": [
             3.207,
@@ -1605,7 +1746,8 @@
             "de": "Erkunden Sie die Geschichte der Stadt, bevor Sie den Bus zum nächsten Ziel nehmen.",
             "hu": "Fedezze fel a város történelmét, mielőtt buszra szállna a következő célponthoz.",
             "ro": "Explorați istoria orașului înainte de a lua autobuzul spre următoarea destinație.",
-            "en": "Explore the city's history before taking the bus to the next destination."
+            "en": "Explore the city's history before taking the bus to the next destination.",
+            "es": "Explora la historia de la ciudad antes de tomar el autobús hacia el siguiente destino."
           }
         },
         {
@@ -1613,7 +1755,8 @@
             "de": "Rafael Nadal Museum",
             "hu": "Rafael Nadal Múzeum",
             "ro": "Muzeul Rafael Nadal",
-            "en": "Rafael Nadal Museum"
+            "en": "Rafael Nadal Museum",
+            "es": "Museo Rafael Nadal"
           },
           "coords": [
             3.223,
@@ -1629,7 +1772,8 @@
             "de": "Nehmen Sie einen lokalen Bus zur Rafa Nadal Academy. Prüfen Sie die Buslinien TIB 412 oder 416.",
             "hu": "Vegyen egy helyi buszt a Rafa Nadal Akadémiához. Ellenőrizze a TIB 412-es vagy 416-os buszjáratokat.",
             "ro": "Luați un autobuz local spre Academia Rafa Nadal. Verificați liniile de autobuz TIB 412 sau 416.",
-            "en": "Take a local bus to the Rafa Nadal Academy. Check bus lines TIB 412 or 416."
+            "en": "Take a local bus to the Rafa Nadal Academy. Check bus lines TIB 412 or 416.",
+            "es": "Toma un autobús local hasta la Rafa Nadal Academy. Consulta las líneas TIB 412 o 416."
           }
         },
         {
@@ -1637,7 +1781,8 @@
             "de": "Coves del Drac (Drachenhöhlen)",
             "hu": "Coves del Drac (Sárkánybarlangok)",
             "ro": "Coves del Drac (Peșterile Dragonului)",
-            "en": "Coves del Drac (Dragon Caves)"
+            "en": "Coves del Drac (Dragon Caves)",
+            "es": "Coves del Drac (Cuevas del Dragón)"
           },
           "coords": [
             3.333,
@@ -1653,7 +1798,8 @@
             "de": "Nehmen Sie den Bus TIB 401 von Manacor nach Porto Cristo. Die Fahrt dauert etwa 30-40 Minuten.",
             "hu": "Vegye a TIB 401-es buszt Manacorból Porto Cristo felé. Az út körülbelül 30-40 percig tart.",
             "ro": "Luați autobuzul TIB 401 de la Manacor la Porto Cristo. Călătoria durează aproximativ 30-40 de minute.",
-            "en": "Take the TIB 401 bus from Manacor to Porto Cristo. The journey takes about 30-40 minutes."
+            "en": "Take the TIB 401 bus from Manacor to Porto Cristo. The journey takes about 30-40 minutes.",
+            "es": "Toma el autobús TIB 401 de Manacor a Porto Cristo. El trayecto dura unos 30–40 minutos."
           }
         },
         {
@@ -1661,7 +1807,8 @@
             "de": "Hafen von Porto Cristo",
             "hu": "Porto Cristo kikötője",
             "ro": "Portul Porto Cristo",
-            "en": "Porto Cristo Harbour"
+            "en": "Porto Cristo Harbour",
+            "es": "Puerto de Porto Cristo"
           },
           "coords": [
             3.337,
@@ -1677,7 +1824,8 @@
             "de": "Nach den Höhlen ist es ein kurzer Spaziergang oder eine Busfahrt zum Hafen für einen entspannten Ausklang.",
             "hu": "A barlangok után egy rövid séta vagy buszozás a kikötőig egy pihentető befejezéshez.",
             "ro": "După peșteri, este o scurtă plimbare pe jos sau cu autobuzul până la port pentru o încheiere relaxantă a zilei.",
-            "en": "After the caves, it's a short walk or bus ride to the harbor for a relaxing end."
+            "en": "After the caves, it's a short walk or bus ride to the harbor for a relaxing end.",
+            "es": "Después de las cuevas, hay un corto paseo o viaje en autobús hasta el puerto para un final relajante."
           }
         }
       ],
@@ -1685,7 +1833,8 @@
         "de": "Manacor mit öffentlichen Verkehrsmitteln zu entdecken, ist einfach. Starten Sie im Zentrum und erkunden Sie die Altstadt zu Fuß. Nehmen Sie dann einen Bus zum Rafael Nadal Museum. Nach dem sportlichen Vormittag bringt Sie ein anderer Bus nach Porto Cristo zu den weltberühmten Drachenhöhlen. Beenden Sie Ihren Tag mit einem Spaziergang am Hafen von Porto Cristo, bevor Sie den Bus zurück nach Manacor nehmen. Dieser Plan zeigt, wie gut die Hauptattraktionen auch ohne Auto erreichbar sind.",
         "hu": "Manacor tömegközlekedéssel való felfedezése egyszerű. Kezdje a központban, és fedezze fel az óvárost gyalog. Ezután szálljon buszra a Rafael Nadal Múzeumhoz. A sportos délelőtt után egy másik busz elviszi Önt Porto Cristo-ba a világhírű Sárkánybarlangokhoz. Zárja a napot egy sétával Porto Cristo kikötőjében, mielőtt visszautazna Manacorba busszal. Ez a terv megmutatja, hogy a főbb látnivalók autó nélkül is milyen jól megközelíthetőek.",
         "ro": "Descoperirea Manacorului cu transportul public este ușoară. Începeți în centru și explorați orașul vechi pe jos. Apoi, luați un autobuz către Muzeul Rafael Nadal. După dimineața sportivă, un alt autobuz vă va duce la Porto Cristo, la faimoasele Peșteri ale Dragonului. Încheiați ziua cu o plimbare în portul Porto Cristo înainte de a lua autobuzul înapoi spre Manacor. Acest plan demonstrează cât de accesibile sunt atracțiile principale chiar și fără mașină.",
-        "en": "Discovering Manacor by public transport is easy. Start in the center and explore the old town on foot. Then take a bus to the Rafael Nadal Museum. After the sporty morning, another bus will take you to Porto Cristo to the world-famous Dragon Caves. End your day with a walk in the harbor of Porto Cristo before taking the bus back to Manacor. This plan shows how accessible the main attractions are even without a car."
+        "en": "Discovering Manacor by public transport is easy. Start in the center and explore the old town on foot. Then take a bus to the Rafael Nadal Museum. After the sporty morning, another bus will take you to Porto Cristo to the world-famous Dragon Caves. End your day with a walk in the harbor of Porto Cristo before taking the bus back to Manacor. This plan shows how accessible the main attractions are even without a car.",
+        "es": "Descubrir Manacor en transporte público es fácil. Empieza en el centro y explora el casco antiguo a pie. Luego toma un autobús al Museo Rafael Nadal. Tras la mañana deportiva, otro autobús te llevará a Porto Cristo y a las mundialmente famosas Cuevas del Dragón. Termina el día con un paseo por el puerto de Porto Cristo antes de volver en autobús a Manacor. Este plan muestra lo accesibles que son las principales atracciones incluso sin coche."
       },
       "gastro_picks": {
         "de": [
@@ -1829,6 +1978,12 @@
           "Check the bus timetables in advance, especially for the last return journey.",
           "Allow buffer time for waiting at the stops.",
           "Some buses, especially to the caves, can be crowded in high season."
+        ],
+        "es": [
+          "Compra una tarjeta TIB para tarifas más baratas en la red de autobuses.",
+          "Consulta los horarios de los autobuses con antelación, especialmente para el último viaje de vuelta.",
+          "Deja tiempo de margen para esperar en las paradas.",
+          "Algunos autobuses, especialmente los que van a las cuevas, pueden estar llenos en temporada alta."
         ]
       },
       "variants": {
@@ -1837,7 +1992,8 @@
             "de": "Mit dem Bus durch Manacor zu fahren, ist bei Regen eine entspannte Option. Starten Sie am zentralen Busbahnhof und nutzen Sie die kurzen Wege zu den Museen. Die Busverbindung nach Porto Cristo bringt Sie fast bis zum Eingang der Drachenhöhlen, sodass Sie kaum nass werden. Verbringen Sie den späten Nachmittag im Hafenviertel, bevor Sie den trockenen Bus zurück ins Zentrum nehmen.",
             "hu": "Busszal közlekedni Manacorban kényelmes megoldás esős időben. Kezdje a központi buszpályaudvaron, ahonnan a múzeumok gyalog is közel vannak. A Porto Cristo-i járat szinte a Sárkánybarlang bejáratáig viszi, így alig kell az esőben gyalogolnia. Töltse a délutánt a kikötőben, majd szálljon fel a száraz buszra vissza a központba.",
             "ro": "Autobuzul este o opțiune relaxantă în Manacor pe timp de ploaie. Începeți la autogara centrală și profitați de distanțele scurte până la muzee. Linia spre Porto Cristo vă lasă aproape de intrarea în peșteri. Petreceți după-amiaza târzie în zona portului înainte de a lua autobuzul înapoi spre centru.",
-            "en": "Taking the bus through Manacor is a relaxed option when it rains. Start at the central bus station and enjoy the short walks to the museums. The bus line to Porto Cristo drops you very close to the cave entrance, minimizing your time in the rain. Spend the late afternoon in the harbour area before catching a dry bus back to the center."
+            "en": "Taking the bus through Manacor is a relaxed option when it rains. Start at the central bus station and enjoy the short walks to the museums. The bus line to Porto Cristo drops you very close to the cave entrance, minimizing your time in the rain. Spend the late afternoon in the harbour area before catching a dry bus back to the center.",
+            "es": "Ir en autobús por Manacor es una opción relajada cuando llueve. Comienza en la estación central de autobuses y disfruta de los cortos paseos hasta los museos. La línea a Porto Cristo te deja muy cerca de la entrada de la cueva, minimizando tu tiempo bajo la lluvia. Pasa la tarde en la zona del puerto antes de coger un autobús seco de regreso al centro."
           },
           "stops": [
             {
@@ -1846,7 +2002,8 @@
                 "de": "Der Bahnhof bietet einen großen überdachten Wartebereich.",
                 "hu": "Az állomás nagy fedett váróteremmel rendelkezik.",
                 "ro": "Autogara oferü o zonă de așteptare mare și acoperită.",
-                "en": "The station offers a large covered waiting area."
+                "en": "The station offers a large covered waiting area.",
+                "es": "La estación ofrece una amplia zona de espera cubierta."
               }
             },
             {
@@ -1855,7 +2012,8 @@
                 "de": "Die nächste Bushaltestelle ist nur 3 Minuten entfernt.",
                 "hu": "A legközelebbi buszmegálló mindössze 3 percre van.",
                 "ro": "Cea mai apropiată stație de autobuz este la 3 minute.",
-                "en": "The nearest bus stop is only a 3-minute walk away."
+                "en": "The nearest bus stop is only a 3-minute walk away.",
+                "es": "La parada más cercana está a solo 3 minutos a pie."
               }
             },
             {
@@ -1864,7 +2022,8 @@
                 "de": "Fragen Sie den Fahrer nach der Haltestelle 'Molins'.",
                 "hu": "Kérdezze a sofőrt a 'Molins' megálló felől.",
                 "ro": "Întrebați șoferul despre stația 'Molins'.",
-                "en": "Ask the driver for the 'Molins' stop to be closer."
+                "en": "Ask the driver for the 'Molins' stop to be closer.",
+                "es": "Pide al conductor que te avise en la parada 'Molins' para estar más cerca."
               }
             },
             {
@@ -1873,7 +2032,8 @@
                 "de": "Der Bus hält fast direkt vor dem Sportzentrum.",
                 "hu": "A busz szinte közvetlenül a sportközpont előtt áll meg.",
                 "ro": "Autobuzul oprește aproape direct în fața centrului sportiv.",
-                "en": "The bus stops almost directly in front of the museum."
+                "en": "The bus stops almost directly in front of the museum.",
+                "es": "El autobús para casi delante del museo."
               }
             },
             {
@@ -1882,7 +2042,8 @@
                 "de": "Nutzen Sie den überdachten Bus-Wartebereich in Porto Cristo.",
                 "hu": "Használja a fedett buszvárót Porto Cristoban.",
                 "ro": "Folosiți stația de autobuz acoperită din Porto Cristo.",
-                "en": "Use the sheltered bus waiting area in Porto Cristo."
+                "en": "Use the sheltered bus waiting area in Porto Cristo.",
+                "es": "Utiliza la zona de espera cubierta del autobús en Porto Cristo."
               }
             },
             {
@@ -1891,7 +2052,8 @@
                 "de": "Perfekter Ort, um die Wellen aus einem Café zu beobachten.",
                 "hu": "Tökéletes hely a hullámok megfigyelésére egy kávézóból.",
                 "ro": "Loc perfect pentru a observa valurile dintr-o cafenea.",
-                "en": "Perfect place to watch the waves from a waterfront cafe."
+                "en": "Perfect place to watch the waves from a waterfront cafe.",
+                "es": "Lugar perfecto para ver las olas desde un café junto al mar."
               }
             }
           ],
@@ -1919,6 +2081,12 @@
               "Buses are climate-controlled and offer great shelter.",
               "Have small change or a card ready for the ticket purchase.",
               "Allow extra time for potential weather-related delays."
+            ],
+            "es": [
+              "Descarga la app TIB para seguimiento en tiempo real durante la lluvia.",
+              "Los autobuses tienen climatización y ofrecen un gran refugio.",
+              "Ten preparados cambio pequeño o tarjeta para comprar el billete.",
+              "Permite tiempo extra por posibles retrasos relacionados con el tiempo."
             ]
           }
         },
@@ -1927,7 +2095,8 @@
             "de": "Im Winter sind die Busse in Manacor weniger überfüllt, was die Fahrt sehr angenehm macht. Starten Sie entspannt am Busbahnhof und erkunden Sie die Stadt. Die Route nach Porto Cristo bietet im Winterlicht herrliche Ausblicke auf die Mandelbäume. Besuchen Sie die Drachenhöhlen ohne Anstehen und genießen Sie den ruhigen Hafen von Porto Cristo, bevor Sie im warmen Bus die Rückfahrt antreten.",
             "hu": "Télen a manacori buszok kevésbé zsúfoltak, ami kellemessé teszi az utazást. Kezdje a napot a pályaudvaron, majd fedezze fel a várost. A Porto Cristoba vezető út téli fényei között a mandulafák látványa lenyűgöző. Látogassa meg a Sárkánybarlangot sorban állás nélkül, majd élvezze a csendes kikötőt a hazautazás előtt.",
             "ro": "Iarna, autobuzele din Manacor sunt mai puțin aglomerate, oferind o călătorie plăcută. Începeți la autogară și explorați orașul în liniște. Ruta spre Porto Cristo oferă vederi superbe spre migdalii înfloriți în lumina de iarnă. Vizitați peșterile fără cozi și bucurați-vă de portul liniștit înainte de întoarcere.",
-            "en": "During winter, buses in Manacor are less crowded, making for a pleasant ride. Start at the bus station and explore the city at your own pace. The route to Porto Cristo features beautiful views of almond trees in the winter light. Visit the Dragon Caves without the queues and enjoy the peaceful harbour before heading back."
+            "en": "During winter, buses in Manacor are less crowded, making for a pleasant ride. Start at the bus station and explore the city at your own pace. The route to Porto Cristo features beautiful views of almond trees in the winter light. Visit the Dragon Caves without the queues and enjoy the peaceful harbour before heading back.",
+            "es": "En invierno, los autobuses en Manacor están menos concurridos, lo que hace el viaje agradable. Empieza en la estación de autobuses y explora la ciudad a tu ritmo. La ruta a Porto Cristo ofrece bonitas vistas de los almendros con la luz invernal. Visita las Cuevas del Dragón sin colas y disfruta del puerto tranquilo antes de regresar."
           },
           "stops": [
             {
@@ -1936,7 +2105,8 @@
                 "de": "Holen Sie sich einen warmen Snack am Bahnhofskiosk.",
                 "hu": "Vegyen egy meleg harapnivalót az állomási büfénél.",
                 "ro": "Luați o gustare caldă de la chioșcul autogării.",
-                "en": "Grab a warm snack at the station kiosk before you start."
+                "en": "Grab a warm snack at the station kiosk before you start.",
+                "es": "Toma un tentempié caliente en el kiosco de la estación antes de empezar."
               }
             },
             {
@@ -1945,7 +2115,8 @@
                 "de": "Die Busfrequenzen sind auch im Winter verlässlich.",
                 "hu": "A buszjáratok télen is megbízható gyakorisággal járnak.",
                 "ro": "Frecvența autobuzelor este fiabilă și în timpul iernii.",
-                "en": "Bus frequencies remain reliable during the winter season."
+                "en": "Bus frequencies remain reliable during the winter season.",
+                "es": "La frecuencia de los autobuses se mantiene fiable durante el invierno."
               }
             },
             {
@@ -1954,7 +2125,8 @@
                 "de": "Kurzer Spaziergang von der Haltestelle im kühlen Wind.",
                 "hu": "Rövid séta a megállótól a friss szélben.",
                 "ro": "O scurtă plimbare de la stație în aerul curat.",
-                "en": "A short walk from the stop in the refreshing air."
+                "en": "A short walk from the stop in the refreshing air.",
+                "es": "Un corto paseo desde la parada con el aire fresco."
               }
             },
             {
@@ -1963,7 +2135,8 @@
                 "de": "Ein beliebter Stopp für Winterbesucher in Manacor.",
                 "hu": "Népszerű megálló a Manacorba látogatóknak télen.",
                 "ro": "O oprire populară pentru turiștii de iarnă.",
-                "en": "A popular stop for winter visitors to Manacor."
+                "en": "A popular stop for winter visitors to Manacor.",
+                "es": "Una parada popular para visitantes invernales de Manacor."
               }
             },
             {
@@ -1972,7 +2145,8 @@
                 "de": "Verkürzte Wartezeiten am Busstopp bei den Höhlen.",
                 "hu": "Rövidebb várakozási idő a barlangi buszmegállónál.",
                 "ro": "Timp de așteptare redus în stația de lângă peșteri.",
-                "en": "Reduced waiting times at the bus stop near the caves."
+                "en": "Reduced waiting times at the bus stop near the caves.",
+                "es": "Tiempos de espera reducidos en la parada cerca de las cuevas."
               }
             },
             {
@@ -1981,7 +2155,8 @@
                 "de": "Achten Sie auf die Abfahrt des letzten Busses bei Dämmerung.",
                 "hu": "Ügyeljen az utolsó busz indulására szürkületkor.",
                 "ro": "Fiți atenți la ora ultimului autobuz la amurg.",
-                "en": "Check the time for the last bus departure at dusk."
+                "en": "Check the time for the last bus departure at dusk.",
+                "es": "Consulta la hora de salida del último autobús al anochecer."
               }
             }
           ],
@@ -2009,6 +2184,12 @@
               "Use contactless payment for a faster boarding process.",
               "Buses are comfortably heated during the winter months.",
               "Porto Cristo harbour is a sanctuary of peace in winter."
+            ],
+            "es": [
+              "Algunas líneas de autobús pueden circular con menos frecuencia; consulta el horario.",
+              "Usa pago contactless para un embarque más rápido.",
+              "Los autobuses están cómodamente calefactados durante los meses de invierno.",
+              "El puerto de Porto Cristo es un santuario de paz en invierno."
             ]
           }
         }

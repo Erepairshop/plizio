@@ -21,7 +21,8 @@
             "de": "Plaça des Born",
             "hu": "Plaça des Born",
             "ro": "Plaça des Born",
-            "en": "Plaça des Born"
+            "en": "Plaça des Born",
+            "es": "Plaça des Born"
           },
           "coords": [
             3.8408,
@@ -36,7 +37,8 @@
             "de": "Bester Blick auf den Hafen vom Rathaus aus.",
             "hu": "A városháza mellől nyílik a legjobb kilátás a kikötőre.",
             "ro": "Cea mai bună vedere la port de lângă primărie.",
-            "en": "Best view of the port from beside the town hall."
+            "en": "Best view of the port from beside the town hall.",
+            "es": "Mejor vista del puerto desde junto al ayuntamiento."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Palau Salort",
             "hu": "Salort-palota",
             "ro": "Palatul Salort",
-            "en": "Salort Palace"
+            "en": "Salort Palace",
+            "es": "Palau Salort"
           },
           "coords": [
             3.8415,
@@ -59,7 +62,8 @@
             "de": "Prachtvolle Innenräume des menorquinischen Adels.",
             "hu": "A menorcai nemesség pazar belső terei.",
             "ro": "Interioare somptuoase ale nobilimii din Menorca.",
-            "en": "Lavish interiors of Menorcan nobility."
+            "en": "Lavish interiors of Menorcan nobility.",
+            "es": "Interiores suntuosos de la nobleza menorquina."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kathedrale Santa Maria",
             "hu": "Szent Mária-székesegyház",
             "ro": "Catedrala Sfânta Maria",
-            "en": "Santa Maria Cathedral"
+            "en": "Santa Maria Cathedral",
+            "es": "Catedral de Santa María"
           },
           "coords": [
             3.8422,
@@ -82,7 +87,8 @@
             "de": "Katalanische Gotik auf den Ruinen einer Moschee.",
             "hu": "Katalán gótika egy korábbi mecset romjain.",
             "ro": "Gotic catalan pe ruinele unei moschei.",
-            "en": "Catalan Gothic on the ruins of a mosque."
+            "en": "Catalan Gothic on the ruins of a mosque.",
+            "es": "Gótico catalán sobre las ruinas de una mezquita."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Ses Voltes",
             "hu": "Ses Voltes árkádok",
             "ro": "Ses Voltes",
-            "en": "Ses Voltes"
+            "en": "Ses Voltes",
+            "es": "Ses Voltes"
           },
           "coords": [
             3.8412,
@@ -105,7 +112,8 @@
             "de": "Ideal zum Shoppen im Schatten der Arkaden.",
             "hu": "Ideális vásárláshoz az árkádok hűvösében.",
             "ro": "Ideal pentru cumpărături la umbra arcadelor.",
-            "en": "Ideal for shopping under the shade of the arches."
+            "en": "Ideal for shopping under the shade of the arches.",
+            "es": "Ideal para comprar a la sombra de los arcos."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Hafen von Ciutadella",
             "hu": "Ciutadellai kikötő",
             "ro": "Portul Ciutadella",
-            "en": "Ciutadella Port"
+            "en": "Ciutadella Port",
+            "es": "Puerto de Ciutadella"
           },
           "coords": [
             3.8385,
@@ -128,7 +137,8 @@
             "de": "Probieren Sie eine Pomada in einer der Bars.",
             "hu": "Kóstoljon meg egy Pomada koktélt az egyik bárban.",
             "ro": "Încercați un cocktail Pomada la unul dintre baruri.",
-            "en": "Try a Pomada cocktail at one of the bars."
+            "en": "Try a Pomada cocktail at one of the bars.",
+            "es": "Prueba un cóctel Pomada en alguno de los bares."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Castell de Sant Nicolau",
             "hu": "Szent Miklós-erőd",
             "ro": "Castelul Sant Nicolau",
-            "en": "Sant Nicolau Castle"
+            "en": "Sant Nicolau Castle",
+            "es": "Castell de Sant Nicolau"
           },
           "coords": [
             3.8305,
@@ -151,7 +162,8 @@
             "de": "Perfekter Ort für den Sonnenuntergang am Meer.",
             "hu": "Tökéletes hely a tengeri naplementéhez.",
             "ro": "Locul perfect pentru apusul de soare la mare.",
-            "en": "Perfect spot for the sunset by the sea."
+            "en": "Perfect spot for the sunset by the sea.",
+            "es": "Lugar perfecto para ver el atardecer junto al mar."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag auf der prächtigen Plaça des Born, dem pulsierenden Herz der Altstadt. Bewundern Sie die herrschaftlichen Paläste wie den Palau Salort, der Einblicke in das Leben des Adels gewährt.\n\nMittags erkunden Sie die beeindruckende Kathedrale Santa Maria, ein Meisterwerk der Gotik. Schlendern Sie anschließend durch die schattigen Arkaden von Ses Voltes, wo sich kleine Geschäfte und Cafés aneinanderreihen.\n\nAm Nachmittag steigen Sie zum malerischen Hafen hinab. Genießen Sie das maritime Flair und beobachten Sie die Fischerboote bei einem kühlen Getränk. Es ist die beste Zeit für eine ausgiebige Pause am Wasser.\n\nZum Abschluss spazieren Sie entlang der Küste zum Castell de Sant Nicolau. Der Wehrturm bietet einen fantastischen Blick auf den Kanal von Menorca und ist der ideale Ort, um den Tag ausklingen zu lassen.",
         "hu": "Kezdje a napot a fenséges Plaça des Born téren, az óváros lüktető szívében. Csodálja meg a nemesi palotákat, mint például a Palau Salort-ot, amely betekintést nyújt a helyi arisztokrácia életébe.\n\nDélben fedezze fel a lenyűgöző Szent Mária-székesegyházat, a gótikus építészet remekművét. Ezt követően sétáljon végig a Ses Voltes árkádjai alatt, ahol hangulatos üzletek és kávézók várják.\n\nDélután ereszkedjen le a festői kikötőbe. Élvezze a tengerparti hangulatot és figyelje a halászhajókat egy hűsítő ital mellett. Ez a legjobb idő egy kiadós pihenőre a vízparton.\n\nA nap zárásaként sétáljon el a part mentén a Szent Miklós-erődig. A bástya fantasztikus kilátást nyújt a Menorca-csatornára, és tökéletes helyszín a naplemente megcsodálásához.",
         "ro": "Începeți ziua în maiestuoasa Plaça des Born, inima vibrantă a centrului vechi. Admirați palatele nobiliare, precum Palatul Salort, care oferă o privire în viața aristocrației locale.\n\nLa prânz, explorați impresionanta Catedrală Sfânta Maria, o capodoperă a arhitecturii gotice. Apoi, plimbați-vă pe sub arcadele din Ses Voltes, unde se află numeroase magazine și cafenele primitoare.\n\nDupă-amiaza, coborâți în portul pitoresc. Bucurați-vă de atmosfera maritimă și urmăriți ambarcațiunile pescărești savurând o băutură rece. Este momentul ideal pentru o pauză relaxantă lângă apă.\n\nÎn încheiere, mergeți de-a lungul coastei până la Castelul Sant Nicolau. Turnul de apărare oferă o priveliște fantastică asupra canalului Menorca și este locul ideal pentru a încheia ziua.",
-        "en": "Start your day at the majestic Plaça des Born, the pulsating heart of the old town. Admire the noble palaces like Palau Salort, which offers insights into the life of the local aristocracy.\n\nAt midday, explore the impressive Santa Maria Cathedral, a masterpiece of Gothic architecture. Afterward, stroll through the shaded arches of Ses Voltes, lined with charming shops and cafes.\n\nIn the afternoon, head down to the picturesque port. Enjoy the maritime atmosphere and watch the fishing boats while having a cool drink. It's the best time for an extensive break by the water.\n\nTo conclude, walk along the coast to Sant Nicolau Castle. The defense tower offers a fantastic view of the Menorca Channel and is the ideal place to end the day."
+        "en": "Start your day at the majestic Plaça des Born, the pulsating heart of the old town. Admire the noble palaces like Palau Salort, which offers insights into the life of the local aristocracy.\n\nAt midday, explore the impressive Santa Maria Cathedral, a masterpiece of Gothic architecture. Afterward, stroll through the shaded arches of Ses Voltes, lined with charming shops and cafes.\n\nIn the afternoon, head down to the picturesque port. Enjoy the maritime atmosphere and watch the fishing boats while having a cool drink. It's the best time for an extensive break by the water.\n\nTo conclude, walk along the coast to Sant Nicolau Castle. The defense tower offers a fantastic view of the Menorca Channel and is the ideal place to end the day.",
+        "es": "Empieza el día en la majestuosa Plaça des Born, el corazón palpitante del casco antiguo. Admira los palacios nobiliarios como el Palau Salort, que ofrece una mirada a la vida de la aristocracia local.\n\nAl mediodía, visita la impresionante Catedral de Santa María, una obra maestra de la arquitectura gótica. Después, pasea por los arcos sombreados de Ses Voltes, repletos de tiendas y cafés con encanto.\n\nPor la tarde, baja al pintoresco puerto. Disfruta del ambiente marítimo y observa los barcos de pesca mientras tomas una bebida fresca. Es el mejor momento para una larga pausa junto al agua.\n\nPara terminar, camina por la costa hasta el Castell de Sant Nicolau. La torre de defensa ofrece una vista fantástica del Canal de Menorca y es el lugar ideal para acabar el día."
       },
       "gastro_picks": {
         "de": [
@@ -319,6 +332,12 @@
           "Visit the cathedral in the morning for the best light.",
           "Pomada (gin with lemonade) is the national drink.",
           "Make sure to book a table in the port restaurants in advance."
+        ],
+        "es": [
+          "Lleva calzado cómodo para las calles empedradas.",
+          "Visita la catedral por la mañana para la mejor luz.",
+          "La Pomada (ginebra con limonada) es la bebida local.",
+          "Asegúrate de reservar mesa en los restaurantes del puerto con antelación."
         ]
       },
       "variants": {
@@ -327,7 +346,8 @@
             "de": "Beginnen Sie Ihren Tag auf der prächtigen Plaça des Born, dem pulsierenden Herz der Altstadt. Bewundern Sie die herrschaftlichen Paläste wie den Palau Salort, der Einblicke in das Leben des Adels gewährt.\n\nMittags erkunden Sie die beeindruckende Kathedrale Santa Maria, ein Meisterwerk der Gotik. Schlendern Sie anschließend durch die schattigen Arkaden von Ses Voltes, wo sich kleine Geschäfte und Cafés aneinanderreihen.\n\nAm Nachmittag steigen Sie zum malerischen Hafen hinab. Genießen Sie das maritime Flair und beobachten Sie die Fischerboote bei einem kühlen Getränk. Es ist die beste Zeit für eine ausgiebige Pause am Wasser.\n\nZum Abschluss spazieren Sie entlang der Küste zum Castell de Sant Nicolau. Der Wehrturm bietet einen fantastischen Blick auf den Kanal von Menorca und ist der ideale Ort, um den Tag ausklingen zu lassen.",
             "hu": "Kezdje a napot a fenséges Plaça des Born téren, az óváros lüktető szívében. Csodálja meg a nemesi palotákat, mint például a Palau Salort-ot, amely betekintést nyújt a helyi arisztokrácia életébe.\n\nDélben fedezze fel a lenyűgöző Szent Mária-székesegyházat, a gótikus építészet remekművét. Ezt követően sétáljon végig a Ses Voltes árkádjai alatt, ahol hangulatos üzletek és kávézók várják.\n\nDélután ereszkedjen le a festői kikötőbe. Élvezze a tengerparti hangulatot és figyelje a halászhajókat egy hűsítő ital mellett. Ez a legjobb idő egy kiadós pihenőre a vízparton.\n\nA nap zárásaként sétáljon el a part mentén a Szent Miklós-erődig. A bástya fantasztikus kilátást nyújt a Menorca-csatornára, és tökéletes helyszín a naplemente megcsodálásához.",
             "ro": "Începeți ziua în maiestuoasa Plaça des Born, inima vibrantă a centrului vechi. Admirați palatele nobiliare, precum Palatul Salort, care oferă o privire în viața aristocrației locale.\n\nLa prânz, explorați impresionanta Catedrală Sfânta Maria, o capodoperă a arhitecturii gotice. Apoi, plimbați-vă pe sub arcadele din Ses Voltes, unde se află numeroase magazine și cafenele primitoare.\n\nDupă-amiaza, coborâți în portul pitoresc. Bucurați-vă de atmosfera maritimă și urmăriți ambarcațiunile pescărești savurând o băutură rece. Este momentul ideal pentru o pauză relaxantă lângă apă.\n\nÎn încheiere, mergeți de-a lungul coastei până la Castelul Sant Nicolau. Turnul de apărare oferă o priveliște fantastică asupra canalului Menorca și este locul ideal pentru a încheia ziua.",
-            "en": "Start your day at the majestic Plaça des Born, the pulsating heart of the old town. Admire the noble palaces like Palau Salort, which offers insights into the life of the local aristocracy.\n\nAt midday, explore the impressive Santa Maria Cathedral, a masterpiece of Gothic architecture. Afterward, stroll through the shaded arches of Ses Voltes, lined with charming shops and cafes.\n\nIn the afternoon, head down to the picturesque port. Enjoy the maritime atmosphere and watch the fishing boats while having a cool drink. It's the best time for an extensive break by the water.\n\nTo conclude, walk along the coast to Sant Nicolau Castle. The defense tower offers a fantastic view of the Menorca Channel and is the ideal place to end the day."
+            "en": "Start your day at the majestic Plaça des Born, the pulsating heart of the old town. Admire the noble palaces like Palau Salort, which offers insights into the life of the local aristocracy.\n\nAt midday, explore the impressive Santa Maria Cathedral, a masterpiece of Gothic architecture. Afterward, stroll through the shaded arches of Ses Voltes, lined with charming shops and cafes.\n\nIn the afternoon, head down to the picturesque port. Enjoy the maritime atmosphere and watch the fishing boats while having a cool drink. It's the best time for an extensive break by the water.\n\nTo conclude, walk along the coast to Sant Nicolau Castle. The defense tower offers a fantastic view of the Menorca Channel and is the ideal place to end the day.",
+            "es": "Empieza el día en la majestuosa Plaça des Born, el corazón palpitante del casco antiguo. Admira los palacios nobiliarios como el Palau Salort, que ofrece una mirada a la vida de la aristocracia local.\n\nAl mediodía, visita la impresionante Catedral de Santa María, una obra maestra de la arquitectura gótica. Después, pasea por los arcos sombreados de Ses Voltes, repletos de tiendas y cafés con encanto.\n\nPor la tarde, baja al pintoresco puerto. Disfruta del ambiente marítimo y observa los barcos de pesca mientras tomas una bebida fresca. Es el mejor momento para una larga pausa junto al agua.\n\nPara terminar, camina por la costa hasta el Castell de Sant Nicolau. La torre de defensa ofrece una vista fantástica del Canal de Menorca y es el lugar ideal para acabar el día."
           },
           "stops": [
             {
@@ -335,13 +355,15 @@
                 "de": "Plaça des Born",
                 "hu": "Plaça des Born",
                 "ro": "Plaça des Born",
-                "en": "Plaça des Born"
+                "en": "Plaça des Born",
+                "es": "Plaça des Born"
               },
               "tip_5lang": {
                 "de": "Bester Blick auf den Hafen vom Rathaus aus.",
                 "hu": "A városháza mellől nyílik a legjobb kilátás a kikötőre.",
                 "ro": "Cea mai bună vedere la port de lângă primărie.",
-                "en": "Best view of the port from beside the town hall."
+                "en": "Best view of the port from beside the town hall.",
+                "es": "Mejor vista del puerto desde junto al ayuntamiento."
               }
             },
             {
@@ -349,13 +371,15 @@
                 "de": "Palau Salort",
                 "hu": "Salort-palota",
                 "ro": "Palatul Salort",
-                "en": "Salort Palace"
+                "en": "Salort Palace",
+                "es": "Palau Salort"
               },
               "tip_5lang": {
                 "de": "Prachtvolle Innenräume des menorquinischen Adels.",
                 "hu": "A menorcai nemesség pazar belső terei.",
                 "ro": "Interioare somptuoase ale nobilimii din Menorca.",
-                "en": "Lavish interiors of Menorcan nobility."
+                "en": "Lavish interiors of Menorcan nobility.",
+                "es": "Interiores suntuosos de la nobleza menorquina."
               }
             },
             {
@@ -363,13 +387,15 @@
                 "de": "Kathedrale Santa Maria",
                 "hu": "Szent Mária-székesegyház",
                 "ro": "Catedrala Sfânta Maria",
-                "en": "Santa Maria Cathedral"
+                "en": "Santa Maria Cathedral",
+                "es": "Catedral de Santa María"
               },
               "tip_5lang": {
                 "de": "Katalanische Gotik auf den Ruinen einer Moschee.",
                 "hu": "Katalán gótika egy korábbi mecset romjain.",
                 "ro": "Gotic catalan pe ruinele unei moschei.",
-                "en": "Catalan Gothic on the ruins of a mosque."
+                "en": "Catalan Gothic on the ruins of a mosque.",
+                "es": "Gótico catalán sobre las ruinas de una mezquita."
               }
             },
             {
@@ -377,13 +403,15 @@
                 "de": "Ses Voltes",
                 "hu": "Ses Voltes árkádok",
                 "ro": "Ses Voltes",
-                "en": "Ses Voltes"
+                "en": "Ses Voltes",
+                "es": "Ses Voltes"
               },
               "tip_5lang": {
                 "de": "Ideal zum Shoppen im Schatten der Arkaden.",
                 "hu": "Ideális vásárláshoz az árkádok hűvösében.",
                 "ro": "Ideal pentru cumpărături la umbra arcadelor.",
-                "en": "Ideal for shopping under the shade of the arches."
+                "en": "Ideal for shopping under the shade of the arches.",
+                "es": "Ideal para comprar a la sombra de los arcos."
               }
             },
             {
@@ -391,13 +419,15 @@
                 "de": "Hafen von Ciutadella",
                 "hu": "Ciutadellai kikötő",
                 "ro": "Portul Ciutadella",
-                "en": "Ciutadella Port"
+                "en": "Ciutadella Port",
+                "es": "Puerto de Ciutadella"
               },
               "tip_5lang": {
                 "de": "Probieren Sie eine Pomada in einer der Bars.",
                 "hu": "Kóstoljon meg egy Pomada koktélt az egyik bárban.",
                 "ro": "Încercați un cocktail Pomada la unul dintre baruri.",
-                "en": "Try a Pomada cocktail at one of the bars."
+                "en": "Try a Pomada cocktail at one of the bars.",
+                "es": "Prueba un cóctel Pomada en alguno de los bares."
               }
             },
             {
@@ -405,13 +435,15 @@
                 "de": "Castell de Sant Nicolau",
                 "hu": "Szent Miklós-erőd",
                 "ro": "Castelul Sant Nicolau",
-                "en": "Sant Nicolau Castle"
+                "en": "Sant Nicolau Castle",
+                "es": "Castell de Sant Nicolau"
               },
               "tip_5lang": {
                 "de": "Perfekter Ort für den Sonnenuntergang am Meer.",
                 "hu": "Tökéletes hely a tengeri naplementéhez.",
                 "ro": "Locul perfect pentru apusul de soare la mare.",
-                "en": "Perfect spot for the sunset by the sea."
+                "en": "Perfect spot for the sunset by the sea.",
+                "es": "Lugar perfecto para ver el atardecer junto al mar."
               }
             }
           ],
@@ -573,6 +605,12 @@
               "Visit the cathedral in the morning for the best light.",
               "Pomada (gin with lemonade) is the national drink.",
               "Make sure to book a table in the port restaurants in advance."
+            ],
+            "es": [
+              "Lleva calzado cómodo para las calles empedradas.",
+              "Visita la catedral por la mañana para la mejor luz.",
+              "La Pomada (ginebra con limonada) es la bebida local.",
+              "Asegúrate de reservar mesa en los restaurantes del puerto con antelación."
             ]
           }
         },
@@ -581,7 +619,8 @@
             "de": "Der Vormittag beginnt auf der Plaça des Born, wo die historischen Gebäude im Regen glänzen. Wir flüchten schnell in den Salort-Palast.\r\nMittags bieten die Arkaden von Ses Voltes den perfekten Schutz, während wir die Kathedrale besichtigen.\r\nAm Nachmittag spazieren wir am Hafen entlang, wo die Wellen gegen die Kaimauer schlagen.\r\nDer Abend endet am Schloss Sant Nicolau mit einem dramatischen Blick auf das stürmische Meer.",
             "hu": "A délelőtt a Plaça des Born téren indul, ahol a történelmi épületek csillognak az esőben. Gyorsan behúzódunk a Salort-palotába.\r\nDélben a Ses Voltes árkádjai nyújtanak tökéletes menedéket, miközben meglátogatjuk a katedrálist.\r\nDélután a kikötő mentén sétálunk, ahol a hullámok a rakpartnak csapódnak.\r\nAz este a Sant Nicolau kastélynál zárul, drámai kilátással a viharos tengerre.",
             "ro": "Dimineața începe în Plaça des Born, unde clădirile istorice strălucesc în ploaie. Ne adăpostim rapid în Palatul Salort.\r\nLa prânz, arcadele din Ses Voltes oferă adăpostul perfect în timp ce vizităm catedrala.\r\nDupă-amiaza ne plimbăm de-a lungul portului, unde valurile se izbesc de chei.\r\nSeara se încheie la Castelul Sant Nicolau cu o vedere dramatică asupra mării învolburate.",
-            "en": "The morning starts at Plaça des Born, where the historic buildings glisten in the rain. We quickly duck into Salort Palace.\r\nAt noon, the arches of Ses Voltes provide the perfect shelter while we visit the cathedral.\r\nIn the afternoon, we stroll along the port where waves crash against the quay.\r\nThe evening ends at Sant Nicolau Castle with a dramatic view of the stormy sea."
+            "en": "The morning starts at Plaça des Born, where the historic buildings glisten in the rain. We quickly duck into Salort Palace.\r\nAt noon, the arches of Ses Voltes provide the perfect shelter while we visit the cathedral.\r\nIn the afternoon, we stroll along the port where waves crash against the quay.\r\nThe evening ends at Sant Nicolau Castle with a dramatic view of the stormy sea.",
+            "es": "La mañana empieza en la Plaça des Born, donde los edificios históricos brillan con la lluvia. Entramos rápidamente al Palau Salort.\r\nAl mediodía, los arcos de Ses Voltes ofrecen el refugio perfecto mientras visitamos la catedral.\r\nPor la tarde, paseamos por el puerto donde las olas rompen contra el espigón.\r\nLa tarde termina en el Castell de Sant Nicolau con una vista dramática del mar tempestuoso."
           },
           "stops": [
             {
@@ -590,7 +629,8 @@
                 "de": "Suchen Sie Schutz unter den Rathausbögen.",
                 "hu": "Keressen menedéket a városháza boltívei alatt.",
                 "ro": "Căutați adăpost sub arcadele primăriei.",
-                "en": "Seek shelter under the city hall arches."
+                "en": "Seek shelter under the city hall arches.",
+                "es": "Busca refugio bajo los arcos del ayuntamiento."
               }
             },
             {
@@ -599,7 +639,8 @@
                 "de": "Ideal, um den heftigsten Regenschauer drinnen zu verbringen.",
                 "hu": "Ideális a leghevesebb zápor benti átvészelésére.",
                 "ro": "Ideal pentru a petrece cea mai puternică ploaie în interior.",
-                "en": "Ideal for spending the heaviest downpour indoors."
+                "en": "Ideal for spending the heaviest downpour indoors.",
+                "es": "Ideal para pasar el aguacero más fuerte en el interior."
               }
             },
             {
@@ -608,7 +649,8 @@
                 "de": "Die Akustik des Regens auf dem Dach ist beeindruckend.",
                 "hu": "Az eső kopogása a tetőn lenyűgöző akusztikát ad.",
                 "ro": "Acustica ploii pe acoperiș este impresionantă.",
-                "en": "The acoustics of the rain on the roof is impressive."
+                "en": "The acoustics of the rain on the roof is impressive.",
+                "es": "La acústica de la lluvia sobre el tejado es impresionante."
               }
             },
             {
@@ -617,7 +659,8 @@
                 "de": "Perfekte überdachte Einkaufsstraße bei Regen.",
                 "hu": "Tökéletes fedett bevásárlóutca esőben.",
                 "ro": "Stradă comercială acoperită perfectă pe ploaie.",
-                "en": "Perfect covered shopping street during rain."
+                "en": "Perfect covered shopping street during rain.",
+                "es": "Perfecta calle cubierta para compras durante la lluvia."
               }
             },
             {
@@ -626,7 +669,8 @@
                 "de": "Vorsicht, die Steinstufen können rutschig sein.",
                 "hu": "Vigyázat, a kőlépcsők csúszósak lehetnek.",
                 "ro": "Atenție, treptele de piatră pot fi alunecoase.",
-                "en": "Caution, the stone steps can be slippery."
+                "en": "Caution, the stone steps can be slippery.",
+                "es": "Precaución, los escalones de piedra pueden estar resbaladizos."
               }
             },
             {
@@ -635,7 +679,8 @@
                 "de": "Genießen Sie die Aussicht aus dem Schutz des Turms.",
                 "hu": "Élvezze a kilátást a torony védelméből.",
                 "ro": "Bucurați-vă de priveliște din adăpostul turnului.",
-                "en": "Enjoy the view from the shelter of the tower."
+                "en": "Enjoy the view from the shelter of the tower.",
+                "es": "Disfruta de la vista desde el refugio de la torre."
               }
             }
           ],
@@ -663,6 +708,12 @@
               "Use the 'Ses Voltes' arches as a dry walking route.",
               "The port cafes are especially cozy during rain.",
               "A sturdy umbrella is advisable due to the wind."
+            ],
+            "es": [
+              "Lleva calzado antideslizante para los empedrados.",
+              "Usa los arcos de Ses Voltes como ruta cubierta para caminar.",
+              "Los cafés del puerto son especialmente acogedores con lluvia.",
+              "Conviene llevar un paraguas resistente por el viento."
             ]
           }
         },
@@ -671,7 +722,8 @@
             "de": "Ein frischer Wintermorgen am Born-Platz, die Luft ist klar und die Stadt gehört den Einheimischen.\r\nMittags besuchen wir die Kathedrale, die im tiefstehenden Sonnenlicht besonders golden wirkt.\r\nNachmittags genießen wir die Ruhe in den Gassen von Ses Voltes und wandern zum Hafen hinunter.\r\nDer Abend kommt früh, und wir beobachten den Sonnenuntergang hinter dem Schloss Sant Nicolau bei kühler Brise.",
             "hu": "Friss téli reggel a Born téren, a levegő tiszta és a város a helyieké.\r\nDélben meglátogatjuk a katedrálist, amely az alacsonyan járó napfényben különösen aranylik.\r\nDélután élvezzük a nyugalmat a Ses Voltes utcáin, és lesétálunk a kikötőbe.\r\nAz este korán érkezik, a naplementét a Sant Nicolau kastély mögött nézzük a hűvös szélben.",
             "ro": "O dimineață răcoroasă de iarnă în Piața Born, aerul este curat și orașul aparține localnicilor.\r\nLa prânz vizităm catedrala, care pare deosebit de aurie în lumina soarelui de iarnă.\r\nDupă-amiaza ne bucurăm de liniștea de pe străzile Ses Voltes și coborâm spre port.\r\nSeara vine devreme și urmărim apusul din spatele Castelului Sant Nicolau în briza rece.",
-            "en": "A crisp winter morning at Born Square, the air is clear and the town belongs to the locals.\r\nAt noon, we visit the cathedral, which looks especially golden in the low winter sun.\r\nIn the afternoon, we enjoy the peace in the alleys of Ses Voltes and walk down to the port.\r\nEvening comes early, and we watch the sunset behind Sant Nicolau Castle in the cool breeze."
+            "en": "A crisp winter morning at Born Square, the air is clear and the town belongs to the locals.\r\nAt noon, we visit the cathedral, which looks especially golden in the low winter sun.\r\nIn the afternoon, we enjoy the peace in the alleys of Ses Voltes and walk down to the port.\r\nEvening comes early, and we watch the sunset behind Sant Nicolau Castle in the cool breeze.",
+            "es": "Una fresca mañana invernal en la Plaça des Born, el aire está claro y la ciudad pertenece a los locales.\r\nAl mediodía visitamos la catedral, que luce especialmente dorada con el sol bajo de invierno.\r\nPor la tarde disfrutamos de la paz en los callejones de Ses Voltes y caminamos hasta el puerto.\r\nLa noche llega pronto y contemplamos la puesta de sol tras el Castell de Sant Nicolau con la brisa fresca."
           },
           "stops": [
             {
@@ -680,7 +732,8 @@
                 "de": "Genießen Sie den Platz ohne die sommerlichen Menschenmassen.",
                 "hu": "Élvezze a teret a nyári tömeg nélkül.",
                 "ro": "Bucurați-vă de piață fără mulțimile de vară.",
-                "en": "Enjoy the square without the summer crowds."
+                "en": "Enjoy the square without the summer crowds.",
+                "es": "Disfruta de la plaza sin las multitudes veraniegas."
               }
             },
             {
@@ -689,7 +742,8 @@
                 "de": "Prüfen Sie die Winteröffnungszeiten vorab.",
                 "hu": "Ellenőrizze előre a téli nyitvatartást.",
                 "ro": "Verificați programul de iarnă în prealabil.",
-                "en": "Check the winter opening hours in advance."
+                "en": "Check the winter opening hours in advance.",
+                "es": "Consulta los horarios de invierno con antelación."
               }
             },
             {
@@ -698,7 +752,8 @@
                 "de": "Im Inneren ist es oft wärmer als draußen.",
                 "hu": "Belül gyakran melegebb van, mint kint.",
                 "ro": "În interior este adesea mai cald decât afară.",
-                "en": "It's often warmer inside than outside."
+                "en": "It's often warmer inside than outside.",
+                "es": "A menudo hace más calor dentro que fuera."
               }
             },
             {
@@ -707,7 +762,8 @@
                 "de": "Kaufen Sie lokale Ensaïmadas zum Aufwärmen.",
                 "hu": "Vegyél helyi Ensaïmadát, hogy felmelegedj.",
                 "ro": "Cumpărați Ensaïmadas locale pentru a vă încălzi.",
-                "en": "Buy local Ensaïmadas to warm up."
+                "en": "Buy local Ensaïmadas to warm up.",
+                "es": "Compra Ensaïmadas locales para entrar en calor."
               }
             },
             {
@@ -716,7 +772,8 @@
                 "de": "Viele Restaurants haben Winterpause, suchen Sie die offenen Plätze.",
                 "hu": "Sok étterem zárva van télen, keresse a nyitva tartókat.",
                 "ro": "Multe restaurante sunt închise iarna, căutați-le pe cele deschise.",
-                "en": "Many restaurants have winter breaks, look for the open ones."
+                "en": "Many restaurants have winter breaks, look for the open ones.",
+                "es": "Muchos restaurantes cierran en invierno; busca los que están abiertos."
               }
             },
             {
@@ -725,7 +782,8 @@
                 "de": "Der Sonnenuntergang ist bereits gegen 17:30 Uhr.",
                 "hu": "A naplemente már 17:30 körül bekövetkezik.",
                 "ro": "Apusul are loc deja în jurul orei 17:30.",
-                "en": "Sunset occurs as early as 17:30."
+                "en": "Sunset occurs as early as 17:30.",
+                "es": "El atardecer puede ser tan temprano como a las 17:30."
               }
             }
           ],
@@ -753,6 +811,12 @@
               "The sun is strong, but the wind cools things down quickly.",
               "Visit local bakeries for hot chocolate.",
               "Plan your return trip before dark at 6 PM."
+            ],
+            "es": [
+              "Una chaqueta cortavientos es esencial en el puerto.",
+              "El sol es fuerte, pero el viento enfría rápido.",
+              "Visita las panaderías locales para chocolate caliente.",
+              "Planea el regreso antes de que oscurezca a las 18:00."
             ]
           }
         }
@@ -771,7 +835,8 @@
             "de": "Castell de Sant Nicolau",
             "hu": "Szent Miklós-erőd",
             "ro": "Castelul Sant Nicolau",
-            "en": "Sant Nicolau Castle"
+            "en": "Sant Nicolau Castle",
+            "es": "Castell de Sant Nicolau"
           },
           "coords": [
             3.8305,
@@ -786,7 +851,8 @@
             "de": "Starten Sie mit frischer Meeresbrise.",
             "hu": "Kezdje a napot friss tengeri szellővel.",
             "ro": "Începeți cu o briză proaspătă de mare.",
-            "en": "Start with a fresh sea breeze."
+            "en": "Start with a fresh sea breeze.",
+            "es": "Empieza con una fresca brisa marina."
           }
         },
         {
@@ -794,7 +860,8 @@
             "de": "Plaça des Born",
             "hu": "Plaça des Born",
             "ro": "Plaça des Born",
-            "en": "Plaça des Born"
+            "en": "Plaça des Born",
+            "es": "Plaça des Born"
           },
           "coords": [
             3.8408,
@@ -809,7 +876,8 @@
             "de": "Stellen Sie das Rad kurz ab für Fotos.",
             "hu": "Tegye le a biciklit egy rövid fotózásra.",
             "ro": "Parcați bicicleta pentru câteva fotografii.",
-            "en": "Park the bike briefly for photos."
+            "en": "Park the bike briefly for photos.",
+            "es": "Aparca la bici un momento para las fotos."
           }
         },
         {
@@ -817,7 +885,8 @@
             "de": "Convent de Sant Agustí",
             "hu": "Szent Ágoston-kolostor",
             "ro": "Mănăstirea Sant Agustí",
-            "en": "Sant Agustí Convent"
+            "en": "Sant Agustí Convent",
+            "es": "Convent de Sant Agustí"
           },
           "coords": [
             3.8435,
@@ -832,7 +901,8 @@
             "de": "Beherbergt das Diözesanmuseum.",
             "hu": "Itt található az Egyházmegyei Múzeum.",
             "ro": "Găzduiește Muzeul Diecezan.",
-            "en": "Houses the Diocesan Museum."
+            "en": "Houses the Diocesan Museum.",
+            "es": "Alberga el Museu Diocesà."
           }
         },
         {
@@ -840,7 +910,8 @@
             "de": "Hafen von Ciutadella",
             "hu": "Ciutadellai kikötő",
             "ro": "Portul Ciutadella",
-            "en": "Ciutadella Port"
+            "en": "Ciutadella Port",
+            "es": "Puerto de Ciutadella"
           },
           "coords": [
             3.8385,
@@ -855,7 +926,8 @@
             "de": "Radweg entlang des gesamten Hafenkais.",
             "hu": "Kerékpárút a teljes kikötői rakpart mentén.",
             "ro": "Pistă de biciclete pe tot cheiul portului.",
-            "en": "Bike path along the entire port quay."
+            "en": "Bike path along the entire port quay.",
+            "es": "Vía ciclista a lo largo de todo el muelle del puerto."
           }
         },
         {
@@ -863,7 +935,8 @@
             "de": "Naveta d'Es Tudons",
             "hu": "Naveta d'Es Tudons",
             "ro": "Naveta d'Es Tudons",
-            "en": "Naveta d'Es Tudons"
+            "en": "Naveta d'Es Tudons",
+            "es": "Naveta d'Es Tudons"
           },
           "coords": [
             3.8922,
@@ -878,7 +951,8 @@
             "de": "Ältestes erhaltenes Gebäude Europas.",
             "hu": "Európa legrégebbi épségben maradt épülete.",
             "ro": "Cea mai veche clădire conservată din Europa.",
-            "en": "Oldest preserved building in Europe."
+            "en": "Oldest preserved building in Europe.",
+            "es": "Edificio conservado más antiguo de Europa."
           }
         }
       ],
@@ -886,7 +960,8 @@
         "de": "Diese Radtour kombiniert Küstenflair mit prähistorischer Geschichte. Wir starten am Castell de Sant Nicolau und radeln dann durch das historische Zentrum zur Plaça des Born.\n\nNach dem Besuch des ehemaligen Klosters Sant Agustí genießen wir eine entspannte Fahrt am Hafenbecken entlang. Hier ist es flach und ideal zum Radfahren.\n\nAm Nachmittag verlassen wir die Stadtgrenzen und radeln über ruhige Nebenstraßen zur Naveta d'Es Tudons. Dieses megalithische Grabmal ist ein absolutes Muss auf Menorca.\n\nDer Rückweg führt uns zurück ins Stadtinnere, wo wir die Räder abgeben und den Tag gemütlich ausklingen lassen.",
         "hu": "Ez a kerékpártúra ötvözi a tengerparti hangulatot a történelem előtti időkkel. A Szent Miklós-erődtől indulunk, majd a történelmi központon át a Plaça des Born felé tekerünk.\n\nA Szent Ágoston-kolostor megtekintése után élvezzük a pihentető gurulást a kikötő mentén. Itt a terep sík, ideális a kerékpározáshoz.\n\nDélután elhagyjuk a várost, és csendes mellékutakon eltekerünk a Naveta d'Es Tudons-hoz. Ez a megalitikus síremlék kötelező látnivaló Menorcán.\n\nA visszaút a városközpontba vezet, ahol leadjuk a bringákat és kipihenjük a túra fáradalmait.",
         "ro": "Acest tur cu bicicleta îmbină atmosfera de coastă cu istoria preistorică. Începem de la Castelul Sant Nicolau, apoi pedalăm prin centrul istoric spre Plaça des Born.\n\nDupă vizitarea fostei mănăstiri Sant Agustí, ne bucurăm de o plimbare relaxantă de-a lungul portului. Aici terenul este plat și ideal pentru ciclism.\n\nDupă-amiaza, părăsim orașul și pedalăm pe drumuri secundare liniștite până la Naveta d'Es Tudons. Acest mormânt megalitic este un obiectiv obligatoriu în Menorca.\n\nDrumul de întoarcere ne duce înapoi în centrul orașului, unde predăm bicicletele și încheiem ziua în tihnă.",
-        "en": "This bike tour combines coastal flair with prehistoric history. We start at Sant Nicolau Castle, then cycle through the historic center towards Plaça des Born.\n\nAfter visiting the former Sant Agustí Convent, we enjoy a relaxed ride along the harbor basin. The terrain here is flat and ideal for cycling.\n\nIn the afternoon, we leave the city limits and cycle via quiet side roads to Naveta d'Es Tudons. This megalithic tomb is an absolute must-see in Menorca.\n\nThe route back takes us to the city center, where we return the bikes and relax after the ride."
+        "en": "This bike tour combines coastal flair with prehistoric history. We start at Sant Nicolau Castle, then cycle through the historic center towards Plaça des Born.\n\nAfter visiting the former Sant Agustí Convent, we enjoy a relaxed ride along the harbor basin. The terrain here is flat and ideal for cycling.\n\nIn the afternoon, we leave the city limits and cycle via quiet side roads to Naveta d'Es Tudons. This megalithic tomb is an absolute must-see in Menorca.\n\nThe route back takes us to the city center, where we return the bikes and relax after the ride.",
+        "es": "Esta ruta en bici combina el encanto costero con la historia prehistórica. Empezamos en el Castell de Sant Nicolau, luego pedalemos por el casco antiguo hacia la Plaça des Born.\n\nTras visitar el antiguo Convent de Sant Agustí, disfrutamos de un tranquilo paseo junto al vaso del puerto. El terreno aquí es llano e ideal para ciclar.\n\nPor la tarde salimos del casco urbano y pedaleamos por carreteras secundarias tranquilas hasta la Naveta d'Es Tudons. Esta tumba megalítica es una visita obligada en Menorca.\n\nLa vuelta nos lleva al centro, donde devolvemos las bicicletas y descansamos tras la ruta."
       },
       "gastro_picks": {
         "de": [
@@ -1030,6 +1105,12 @@
           "Take enough water for the trip to Naveta.",
           "The old town is partly a pedestrian zone (push the bike).",
           "Rent an e-bike for longer distances."
+        ],
+        "es": [
+          "Cuidado con el viento, puede soplar fuerte.",
+          "Lleva suficiente agua para la excursión a la Naveta.",
+          "El casco antiguo es en parte zona peatonal (lleva la bici a mano).",
+          "Alquila una e-bike para distancias más largas."
         ]
       },
       "variants": {
@@ -1038,7 +1119,8 @@
             "de": "Diese Radtour kombiniert Küstenflair mit prähistorischer Geschichte. Wir starten am Castell de Sant Nicolau und radeln dann durch das historische Zentrum zur Plaça des Born.\n\nNach dem Besuch des ehemaligen Klosters Sant Agustí genießen wir eine entspannte Fahrt am Hafenbecken entlang. Hier ist es flach und ideal zum Radfahren.\n\nAm Nachmittag verlassen wir die Stadtgrenzen und radeln über ruhige Nebenstraßen zur Naveta d'Es Tudons. Dieses megalithische Grabmal ist ein absolutes Muss auf Menorca.\n\nDer Rückweg führt uns zurück ins Stadtinnere, wo wir die Räder abgeben und den Tag gemütlich ausklingen lassen.",
             "hu": "Ez a kerékpártúra ötvözi a tengerparti hangulatot a történelem előtti időkkel. A Szent Miklós-erődtől indulunk, majd a történelmi központon át a Plaça des Born felé tekerünk.\n\nA Szent Ágoston-kolostor megtekintése után élvezzük a pihentető gurulást a kikötő mentén. Itt a terep sík, ideális a kerékpározáshoz.\n\nDélután elhagyjuk a várost, és csendes mellékutakon eltekerünk a Naveta d'Es Tudons-hoz. Ez a megalitikus síremlék kötelező látnivaló Menorcán.\n\nA visszaút a városközpontba vezet, ahol leadjuk a bringákat és kipihenjük a túra fáradalmait.",
             "ro": "Acest tur cu bicicleta îmbină atmosfera de coastă cu istoria preistorică. Începem de la Castelul Sant Nicolau, apoi pedalăm prin centrul istoric spre Plaça des Born.\n\nDupă vizitarea fostei mănăstiri Sant Agustí, ne bucurăm de o plimbare relaxantă de-a lungul portului. Aici terenul este plat și ideal pentru ciclism.\n\nDupă-amiaza, părăsim orașul și pedalăm pe drumuri secundare liniștite până la Naveta d'Es Tudons. Acest mormânt megalitic este un obiectiv obligatoriu în Menorca.\n\nDrumul de întoarcere ne duce înapoi în centrul orașului, unde predăm bicicletele și încheiem ziua în tihnă.",
-            "en": "This bike tour combines coastal flair with prehistoric history. We start at Sant Nicolau Castle, then cycle through the historic center towards Plaça des Born.\n\nAfter visiting the former Sant Agustí Convent, we enjoy a relaxed ride along the harbor basin. The terrain here is flat and ideal for cycling.\n\nIn the afternoon, we leave the city limits and cycle via quiet side roads to Naveta d'Es Tudons. This megalithic tomb is an absolute must-see in Menorca.\n\nThe route back takes us to the city center, where we return the bikes and relax after the ride."
+            "en": "This bike tour combines coastal flair with prehistoric history. We start at Sant Nicolau Castle, then cycle through the historic center towards Plaça des Born.\n\nAfter visiting the former Sant Agustí Convent, we enjoy a relaxed ride along the harbor basin. The terrain here is flat and ideal for cycling.\n\nIn the afternoon, we leave the city limits and cycle via quiet side roads to Naveta d'Es Tudons. This megalithic tomb is an absolute must-see in Menorca.\n\nThe route back takes us to the city center, where we return the bikes and relax after the ride.",
+            "es": "Esta ruta en bici combina el encanto costero con la historia prehistórica. Empezamos en el Castell de Sant Nicolau, luego pedalemos por el casco antiguo hacia la Plaça des Born.\n\nTras visitar el antiguo Convent de Sant Agustí, disfrutamos de un tranquilo paseo junto al vaso del puerto. El terreno aquí es llano e ideal para ciclar.\n\nPor la tarde salimos del casco urbano y pedaleamos por carreteras secundarias tranquilas hasta la Naveta d'Es Tudons. Esta tumba megalítica es una visita obligada en Menorca.\n\nLa vuelta nos lleva al centro, donde devolvemos las bicicletas y descansamos tras la ruta."
           },
           "stops": [
             {
@@ -1046,13 +1128,15 @@
                 "de": "Castell de Sant Nicolau",
                 "hu": "Szent Miklós-erőd",
                 "ro": "Castelul Sant Nicolau",
-                "en": "Sant Nicolau Castle"
+                "en": "Sant Nicolau Castle",
+                "es": "Castell de Sant Nicolau"
               },
               "tip_5lang": {
                 "de": "Starten Sie mit frischer Meeresbrise.",
                 "hu": "Kezdje a napot friss tengeri szellővel.",
                 "ro": "Începeți cu o briză proaspătă de mare.",
-                "en": "Start with a fresh sea breeze."
+                "en": "Start with a fresh sea breeze.",
+                "es": "Empieza con una fresca brisa marina."
               }
             },
             {
@@ -1060,13 +1144,15 @@
                 "de": "Plaça des Born",
                 "hu": "Plaça des Born",
                 "ro": "Plaça des Born",
-                "en": "Plaça des Born"
+                "en": "Plaça des Born",
+                "es": "Plaça des Born"
               },
               "tip_5lang": {
                 "de": "Stellen Sie das Rad kurz ab für Fotos.",
                 "hu": "Tegye le a biciklit egy rövid fotózásra.",
                 "ro": "Parcați bicicleta pentru câteva fotografii.",
-                "en": "Park the bike briefly for photos."
+                "en": "Park the bike briefly for photos.",
+                "es": "Aparca la bici un momento para las fotos."
               }
             },
             {
@@ -1074,13 +1160,15 @@
                 "de": "Convent de Sant Agustí",
                 "hu": "Szent Ágoston-kolostor",
                 "ro": "Mănăstirea Sant Agustí",
-                "en": "Sant Agustí Convent"
+                "en": "Sant Agustí Convent",
+                "es": "Convent de Sant Agustí"
               },
               "tip_5lang": {
                 "de": "Beherbergt das Diözesanmuseum.",
                 "hu": "Itt található az Egyházmegyei Múzeum.",
                 "ro": "Găzduiește Muzeul Diecezan.",
-                "en": "Houses the Diocesan Museum."
+                "en": "Houses the Diocesan Museum.",
+                "es": "Alberga el Museu Diocesà."
               }
             },
             {
@@ -1088,13 +1176,15 @@
                 "de": "Hafen von Ciutadella",
                 "hu": "Ciutadellai kikötő",
                 "ro": "Portul Ciutadella",
-                "en": "Ciutadella Port"
+                "en": "Ciutadella Port",
+                "es": "Puerto de Ciutadella"
               },
               "tip_5lang": {
                 "de": "Radweg entlang des gesamten Hafenkais.",
                 "hu": "Kerékpárút a teljes kikötői rakpart mentén.",
                 "ro": "Pistă de biciclete pe tot cheiul portului.",
-                "en": "Bike path along the entire port quay."
+                "en": "Bike path along the entire port quay.",
+                "es": "Vía ciclista a lo largo de todo el muelle del puerto."
               }
             },
             {
@@ -1102,13 +1192,15 @@
                 "de": "Naveta d'Es Tudons",
                 "hu": "Naveta d'Es Tudons",
                 "ro": "Naveta d'Es Tudons",
-                "en": "Naveta d'Es Tudons"
+                "en": "Naveta d'Es Tudons",
+                "es": "Naveta d'Es Tudons"
               },
               "tip_5lang": {
                 "de": "Ältestes erhaltenes Gebäude Europas.",
                 "hu": "Európa legrégebbi épségben maradt épülete.",
                 "ro": "Cea mai veche clădire conservată din Europa.",
-                "en": "Oldest preserved building in Europe."
+                "en": "Oldest preserved building in Europe.",
+                "es": "Edificio conservado más antiguo de Europa."
               }
             }
           ],
@@ -1254,6 +1346,12 @@
               "Take enough water for the trip to Naveta.",
               "The old town is partly a pedestrian zone (push the bike).",
               "Rent an e-bike for longer distances."
+            ],
+            "es": [
+              "Cuidado con el viento, puede soplar fuerte.",
+              "Lleva suficiente agua para la excursión a la Naveta.",
+              "El casco antiguo es en parte zona peatonal (empuja la bici).",
+              "Alquila una e-bike para distancias más largas."
             ]
           }
         },
@@ -1262,7 +1360,8 @@
             "de": "Wir starten am Schloss Sant Nicolau, wo der Regen die Küste in Nebel hüllt. Die Fahrt zur Plaça des Born ist kurz.\r\nMittags suchen wir Zuflucht im Kloster Sant Agustí, während die Räder im Hof parken.\r\nNachmittags radeln wir vorsichtig zum Hafen, um die Fischerboote im Regen zu sehen.\r\nZum Abschluss geht es zur Naveta d'Es Tudons, wo die alten Steine im Regen dunkel und mystisch leuchten.",
             "hu": "A Sant Nicolau kastélynál kezdünk, ahol az eső ködbe burkolja a partot. Rövid út vezet a Plaça des Bornig.\r\nDélben a Sant Agustí kolostorban keresünk menedéket, a bicikliket az udvaron hagyva.\r\nDélután óvatosan a kikötő felé tekerünk, hogy megnézzük a halászhajókat az esőben.\r\nZárásként a Naveta d'Es Tudons felé vesszük az irányt, ahol az ősi kövek sötéten és misztikusan fénylenek.",
             "ro": "Începem la Castelul Sant Nicolau, unde ploaia învăluie coasta în ceață. Drumul până la Plaça des Born este scurt.\r\nLa prânz ne adăpostim în Mănăstirea Sant Agustí, în timp ce bicicletele stau în curte.\r\nDupă-amiaza pedalăm cu grijă spre port pentru a vedea bărcile de pescuit în ploaie.\r\nLa final mergem la Naveta d'Es Tudons, unde pietrele vechi strălucesc întunecat și mistic sub ploaie.",
-            "en": "We start at Sant Nicolau Castle, where rain blankets the coast in mist. The ride to Plaça des Born is short.\r\nAt noon, we seek refuge in Sant Agustí Convent, parking the bikes in the courtyard.\r\nIn the afternoon, we cycle carefully to the port to see the fishing boats in the rain.\r\nFinally, we head to Naveta d'Es Tudons, where the ancient stones glow dark and mystical in the rain."
+            "en": "We start at Sant Nicolau Castle, where rain blankets the coast in mist. The ride to Plaça des Born is short.\r\nAt noon, we seek refuge in Sant Agustí Convent, parking the bikes in the courtyard.\r\nIn the afternoon, we cycle carefully to the port to see the fishing boats in the rain.\r\nFinally, we head to Naveta d'Es Tudons, where the ancient stones glow dark and mystical in the rain.",
+            "es": "Comenzamos en el Castillo de Sant Nicolau, donde la lluvia cubre la costa con niebla. El paseo hasta la Plaça des Born es corto.\r\nAl mediodía buscamos refugio en el Convento de Sant Agustí, aparcando las bicis en el patio.\r\nPor la tarde pedaleamos con cuidado hasta el puerto para ver los barcos de pesca bajo la lluvia.\r\nFinalmente, nos dirigimos a la Naveta d'Es Tudons, donde las piedras antiguas brillan oscuras y misteriosas con la lluvia."
           },
           "stops": [
             {
@@ -1271,7 +1370,8 @@
                 "de": "Die Küstenstraße kann bei Wind und Regen ungemütlich sein.",
                 "hu": "A parti út szélben és esőben kellemetlen lehet.",
                 "ro": "Drumul de coastă poate fi neplăcut în caz de vânt și ploaie.",
-                "en": "The coastal road can be unpleasant in wind and rain."
+                "en": "The coastal road can be unpleasant in wind and rain.",
+                "es": "La carretera costera puede ser desagradable con viento y lluvia."
               }
             },
             {
@@ -1280,7 +1380,8 @@
                 "de": "Parken Sie das Rad unter einem Dachvorsprung.",
                 "hu": "Parkolja a biciklit egy tetőnyúlvány alá.",
                 "ro": "Parcați bicicleta sub o streașină.",
-                "en": "Park your bike under an overhang."
+                "en": "Park your bike under an overhang.",
+                "es": "Aparca la bici bajo un alero."
               }
             },
             {
@@ -1289,7 +1390,8 @@
                 "de": "Ein ruhiger, trockener Ort für eine Pause.",
                 "hu": "Csendes, száraz hely egy kis pihenőhöz.",
                 "ro": "Un loc liniștit și uscat pentru o pauză.",
-                "en": "A quiet, dry place for a break."
+                "en": "A quiet, dry place for a break.",
+                "es": "Un lugar tranquilo y seco para descansar."
               }
             },
             {
@@ -1298,7 +1400,8 @@
                 "de": "Bremsen Sie frühzeitig auf dem nassen Untergrund.",
                 "hu": "Fékezzen időben a nedves talajon.",
                 "ro": "Frânați din timp pe suprafața umedă.",
-                "en": "Brake early on the wet surface."
+                "en": "Brake early on the wet surface.",
+                "es": "Frena pronto en la superficie mojada."
               }
             },
             {
@@ -1307,7 +1410,8 @@
                 "de": "Der Weg dorthin ist flach, aber ungeschützt vor Wind.",
                 "hu": "Az odavezető út sík, de védtelen a széltől.",
                 "ro": "Drumul spre locație este plat, dar neprotejat de vânt.",
-                "en": "The path there is flat but unprotected from the wind."
+                "en": "The path there is flat but unprotected from the wind.",
+                "es": "El camino es llano pero sin protección contra el viento."
               }
             }
           ],
@@ -1335,6 +1439,12 @@
               "Avoid puddles, they might be deeper than expected.",
               "Take waterproof bags for valuables.",
               "The white lines on the road are very slippery when wet."
+            ],
+            "es": [
+              "Usa guardabarros para mantenerte seco.",
+              "Evita los charcos, pueden ser más profundos de lo esperado.",
+              "Lleva bolsas impermeables para los objetos de valor.",
+              "Las líneas blancas en la carretera son muy resbaladizas cuando están mojadas."
             ]
           }
         },
@@ -1343,7 +1453,8 @@
             "de": "Morgendliche Radtour zum Schloss Sant Nicolau, die frische Meeresluft weckt die Sinne.\r\nMittags erreichen wir die Altstadt, wo die Sonne den Stein der Gebäude erwärmt.\r\nNachmittags radeln wir am ruhigen Hafen vorbei und genießen die Abwesenheit der Touristenmassen.\r\nZum Sonnenuntergang fahren wir landeinwärts zur Naveta, wo die prähistorische Stätte in kühles Winterlicht getaucht wird.",
             "hu": "Reggeli bringázás a Sant Nicolau kastélyhoz, a friss tengeri levegő felébreszti az érzékeket.\r\nDélben elérjük az óvárost, ahol a nap felmelegíti az épületek köveit.\r\nDélután eltekerünk a csendes kikötő mellett, élvezve a turistaáradat hiányát.\r\nNaplementére a szárazföld belseje felé, a Navetához hajtunk, ahol a történelem előtti helyszínt hűvös téli fény árasztja el.",
             "ro": "Plimbare de dimineață cu bicicleta spre Castelul Sant Nicolau, aerul curat al mării trezește simțurile.\r\nLa prânz ajungem în centrul vechi, unde soarele încălzește piatra clădirilor.\r\nDupă-amiaza pedalăm pe lângă portul liniștit și ne bucurăm de absența turiștilor.\r\nLa apus mergem spre interiorul insulei la Naveta, unde situl preistoric este scăldat în lumina rece de iarnă.",
-            "en": "Morning bike ride to Sant Nicolau Castle, the fresh sea air wakes up the senses.\r\nAt noon, we reach the old town, where the sun warms the stone of the buildings.\r\nIn the afternoon, we cycle past the quiet port and enjoy the absence of tourist crowds.\r\nFor sunset, we ride inland to the Naveta, where the prehistoric site is bathed in cool winter light."
+            "en": "Morning bike ride to Sant Nicolau Castle, the fresh sea air wakes up the senses.\r\nAt noon, we reach the old town, where the sun warms the stone of the buildings.\r\nIn the afternoon, we cycle past the quiet port and enjoy the absence of tourist crowds.\r\nFor sunset, we ride inland to the Naveta, where the prehistoric site is bathed in cool winter light.",
+            "es": "Salida matinal en bici hasta el Castillo de Sant Nicolau, el aire fresco del mar despierta los sentidos.\r\nAl mediodía llegamos al casco antiguo, donde el sol calienta la piedra de los edificios.\r\nPor la tarde pedaleamos junto al puerto tranquilo y disfrutamos de la ausencia de turistas.\r\nPara el atardecer, vamos hacia el interior hasta la Naveta, donde el yacimiento prehistórico se baña en la fría luz invernal."
           },
           "stops": [
             {
@@ -1352,7 +1463,8 @@
                 "de": "Handschuhe sind bei der Fahrt am Meer ratsam.",
                 "hu": "A tengerparti tekeréshez ajánlott a kesztyű.",
                 "ro": "Mănușile sunt recomandate pentru plimbarea pe malul mării.",
-                "en": "Gloves are advisable for the ride by the sea."
+                "en": "Gloves are advisable for the ride by the sea.",
+                "es": "Se recomiendan guantes para el paseo junto al mar."
               }
             },
             {
@@ -1361,7 +1473,8 @@
                 "de": "Der Platz ist im Winter herrlich weitläufig.",
                 "hu": "A tér télen csodálatosan tágas.",
                 "ro": "Piața este minunat de spațioasă iarna.",
-                "en": "The square is wonderfully spacious in winter."
+                "en": "The square is wonderfully spacious in winter.",
+                "es": "La plaza es magníficamente espaciosa en invierno."
               }
             },
             {
@@ -1370,7 +1483,8 @@
                 "de": "Ein sonniges Plätzchen an der Klostermauer suchen.",
                 "hu": "Keressen egy napos helyet a kolostorfal mellett.",
                 "ro": "Căutați un loc însorit lângă zidul mănăstirii.",
-                "en": "Find a sunny spot by the convent wall."
+                "en": "Find a sunny spot by the convent wall.",
+                "es": "Busca un lugar soleado junto al muro del convento."
               }
             },
             {
@@ -1379,7 +1493,8 @@
                 "de": "Die Sonne steht tief, Sonnenbrille beim Fahren einplanen.",
                 "hu": "A nap alacsonyan jár, vigyen napszemüveget a tekeréshez.",
                 "ro": "Soarele este jos, planificați ochelari de soare pentru condus.",
-                "en": "The sun is low, plan for sunglasses while riding."
+                "en": "The sun is low, plan for sunglasses while riding.",
+                "es": "El sol está bajo; lleva gafas de sol para el paseo."
               }
             },
             {
@@ -1388,7 +1503,8 @@
                 "de": "Packen Sie ein warmes Getränk für die Pause ein.",
                 "hu": "Csomagoljon egy meleg italt a pihenőhöz.",
                 "ro": "Luați o băutură caldă pentru pauză.",
-                "en": "Pack a warm drink for the break."
+                "en": "Pack a warm drink for the break.",
+                "es": "Lleva una bebida caliente para el descanso."
               }
             }
           ],
@@ -1416,6 +1532,12 @@
               "Watch out for shorter days; lights on the bike are mandatory.",
               "The Tramuntana wind can make pedaling difficult.",
               "Some bike rental stations have different winter hours."
+            ],
+            "es": [
+              "Ponte ropa por capas debido al efecto del viento.",
+              "Cuidado con los días más cortos; las luces de la bici son obligatorias.",
+              "El viento de Tramuntana puede dificultar el pedaleo.",
+              "Algunas estaciones de alquiler de bicis tienen horarios de invierno distintos."
             ]
           }
         }
@@ -1434,7 +1556,8 @@
             "de": "Naveta d'Es Tudons",
             "hu": "Naveta d'Es Tudons",
             "ro": "Naveta d'Es Tudons",
-            "en": "Naveta d'Es Tudons"
+            "en": "Naveta d'Es Tudons",
+            "es": "Naveta d'Es Tudons"
           },
           "coords": [
             3.8922,
@@ -1449,7 +1572,8 @@
             "de": "Kommen Sie früh, um die Hitze zu meiden.",
             "hu": "Érkezzen korán, hogy elkerülje a hőséget.",
             "ro": "Veniți devreme pentru a evita căldura.",
-            "en": "Arrive early to avoid the heat."
+            "en": "Arrive early to avoid the heat.",
+            "es": "Llega temprano para evitar el calor."
           }
         },
         {
@@ -1457,7 +1581,8 @@
             "de": "Museu Municipal de Ciutadella",
             "hu": "Ciutadella Városi Múzeum",
             "ro": "Muzeul Municipal Ciutadella",
-            "en": "Ciutadella Municipal Museum"
+            "en": "Ciutadella Municipal Museum",
+            "es": "Museu Municipal de Ciutadella"
           },
           "coords": [
             3.8395,
@@ -1472,7 +1597,8 @@
             "de": "Im Bastió de sa Font untergebracht.",
             "hu": "A Bastió de sa Font bástyában található.",
             "ro": "Găzduit în Bastió de sa Font.",
-            "en": "Located in the Bastió de sa Font."
+            "en": "Located in the Bastió de sa Font.",
+            "es": "Situado en el Bastió de sa Font."
           }
         },
         {
@@ -1480,7 +1606,8 @@
             "de": "Palau Salort",
             "hu": "Salort-palota",
             "ro": "Palatul Salort",
-            "en": "Salort Palace"
+            "en": "Salort Palace",
+            "es": "Palau Salort"
           },
           "coords": [
             3.8415,
@@ -1495,7 +1622,8 @@
             "de": "Eines der wenigen öffentlich zugänglichen Palais.",
             "hu": "A kevés látogatható magánpaloták egyike.",
             "ro": "Unul dintre puținele palate private vizitabile.",
-            "en": "One of the few private palaces open to the public."
+            "en": "One of the few private palaces open to the public.",
+            "es": "Uno de los pocos palacios privados abiertos al público."
           }
         },
         {
@@ -1503,7 +1631,8 @@
             "de": "Hafen von Ciutadella",
             "hu": "Ciutadellai kikötő",
             "ro": "Portul Ciutadella",
-            "en": "Ciutadella Port"
+            "en": "Ciutadella Port",
+            "es": "Puerto de Ciutadella"
           },
           "coords": [
             3.8385,
@@ -1518,7 +1647,8 @@
             "de": "Parken Sie im Parkhaus am Hafen.",
             "hu": "Használja a kikötői parkolóházat.",
             "ro": "Parcați în parcarea supraetajată din port.",
-            "en": "Use the multi-storey car park at the port."
+            "en": "Use the multi-storey car park at the port.",
+            "es": "Usa el aparcamiento de varias plantas del puerto."
           }
         },
         {
@@ -1526,7 +1656,8 @@
             "de": "Castell de Sant Nicolau",
             "hu": "Szent Miklós-erőd",
             "ro": "Castelul Sant Nicolau",
-            "en": "Sant Nicolau Castle"
+            "en": "Sant Nicolau Castle",
+            "es": "Castillo de Sant Nicolau"
           },
           "coords": [
             3.8305,
@@ -1541,7 +1672,8 @@
             "de": "Kurzer Stopp für Panoramafotos.",
             "hu": "Rövid megálló panorámafotókhoz.",
             "ro": "Scurtă oprire pentru fotografii panoramice.",
-            "en": "Short stop for panoramic photos."
+            "en": "Short stop for panoramic photos.",
+            "es": "Parada breve para fotos panorámicas."
           }
         }
       ],
@@ -1549,7 +1681,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die Naveta d'Es Tudons vor den Toren der Stadt. Dieses faszinierende prähistorische Bauwerk ist der perfekte Einstieg in die Kultur Menorcas.\n\nZurück in Ciutadella widmen wir uns dem städtischen Museum in der alten Bastion, um tiefer in die Stadtgeschichte einzutauchen. Danach besuchen wir den prachtvollen Palau Salort.\n\nDie Mittags- und Nachmittagsstunden verbringen wir am Hafen, wo es zahlreiche Parkmöglichkeiten gibt. Es ist der ideale Ort für ein ausgiebiges Mittagessen und einen Bummel am Kai.\n\nBevor wir den Wagen für heute abstellen, fahren wir noch einmal vor bis zum Castell de Sant Nicolau, um die Aussicht auf das offene Meer zu genießen.",
         "hu": "Autóval kényelmesen elérhető a város kapujában álló Naveta d'Es Tudons. Ez a lenyűgöző történelem előtti építmény tökéletes bevezetés Menorca kultúrájába.\n\nVisszatérve Ciutadellába, a régi bástyában található városi múzeumnak szenteljük az időt, hogy mélyebben megismerjük a város múltját. Ezt követően meglátogatjuk a pompás Salort-palotát.\n\nA délutáni órákat a kikötőben töltjük, ahol számos parkolási lehetőség akad. Ideális helyszín egy kiadós ebédhez és egy sétához a rakparton.\n\nMielőtt végleg leparkolnánk, elgurulunk a Szent Miklós-erődig, hogy gyönyörködjünk a nyílt tenger látványában.",
         "ro": "Cu mașina puteți ajunge ușor la Naveta d'Es Tudons, aflată la porțile orașului. Această structură preistorică fascinantă este introducerea perfectă în cultura insulei Menorca.\n\nReveniți în Ciutadella, ne dedicăm timpul muzeului municipal din vechiul bastion pentru a aprofunda istoria orașului. Apoi vizităm somptuosul Palat Salort.\n\nOrele după-amiezii le petrecem în port, unde există numeroase posibilități de parcare. Este locul ideal pentru un prânz prelungit și o plimbare pe chei.\n\nÎnainte de a parca definitiv mașina, mai facem o oprire la Castelul Sant Nicolau pentru a ne bucura de vederea spre marea deschisă.",
-        "en": "By car, you can easily reach Naveta d'Es Tudons at the city's gates. This fascinating prehistoric structure is the perfect introduction to Menorca's culture.\n\nBack in Ciutadella, we focus on the municipal museum in the old bastion to delve deeper into the city's history. Then, we visit the magnificent Palau Salort.\n\nThe afternoon hours are spent at the port, where there are plenty of parking options. It's the ideal spot for a long lunch and a stroll along the quay.\n\nBefore parking the car for good, we drive up to Sant Nicolau Castle to enjoy the view of the open sea."
+        "en": "By car, you can easily reach Naveta d'Es Tudons at the city's gates. This fascinating prehistoric structure is the perfect introduction to Menorca's culture.\n\nBack in Ciutadella, we focus on the municipal museum in the old bastion to delve deeper into the city's history. Then, we visit the magnificent Palau Salort.\n\nThe afternoon hours are spent at the port, where there are plenty of parking options. It's the ideal spot for a long lunch and a stroll along the quay.\n\nBefore parking the car for good, we drive up to Sant Nicolau Castle to enjoy the view of the open sea.",
+        "es": "En coche, puedes llegar fácilmente a la Naveta d'Es Tudons en las puertas de la ciudad. Esta fascinante estructura prehistórica es la perfecta introducción a la cultura de Menorca.\n\nDe vuelta en Ciutadella, nos centramos en el museo municipal en el antiguo bastión para profundizar en la historia de la ciudad. Luego visitamos el magnífico Palau Salort.\n\nLa tarde se pasa en el puerto, donde hay abundantes opciones de aparcamiento. Es el lugar ideal para un largo almuerzo y un paseo por el moll.\n\nAntes de aparcar el coche definitivamente, subimos al Castillo de Sant Nicolau para disfrutar de la vista al mar abierto."
       },
       "gastro_picks": {
         "de": [
@@ -1657,6 +1790,12 @@
           "Blue zones require payment.",
           "Drive carefully in the narrow one-way streets.",
           "Naveta d'Es Tudons has its own parking lot."
+        ],
+        "es": [
+          "Aparcar en el casco antiguo es casi imposible.",
+          "Las zonas azules requieren pago.",
+          "Conduce con cuidado por las estrechas calles de sentido único.",
+          "La Naveta d'Es Tudons tiene su propio aparcamiento."
         ]
       },
       "variants": {
@@ -1665,7 +1804,8 @@
             "de": "Mit dem Auto erreichen Sie bequem die Naveta d'Es Tudons vor den Toren der Stadt. Dieses faszinierende prähistorische Bauwerk ist der perfekte Einstieg in die Kultur Menorcas.\n\nZurück in Ciutadella widmen wir uns dem städtischen Museum in der alten Bastion, um tiefer in die Stadtgeschichte einzutauchen. Danach besuchen wir den prachtvollen Palau Salort.\n\nDie Mittags- und Nachmittagsstunden verbringen wir am Hafen, wo es zahlreiche Parkmöglichkeiten gibt. Es ist der ideale Ort für ein ausgiebiges Mittagessen und einen Bummel am Kai.\n\nBevor wir den Wagen für heute abstellen, fahren wir noch einmal vor bis zum Castell de Sant Nicolau, um die Aussicht auf das offene Meer zu genießen.",
             "hu": "Autóval kényelmesen elérhető a város kapujában álló Naveta d'Es Tudons. Ez a lenyűgöző történelem előtti építmény tökéletes bevezetés Menorca kultúrájába.\n\nVisszatérve Ciutadellába, a régi bástyában található városi múzeumnak szenteljük az időt, hogy mélyebben megismerjük a város múltját. Ezt követően meglátogatjuk a pompás Salort-palotát.\n\nA délutáni órákat a kikötőben töltjük, ahol számos parkolási lehetőség akad. Ideális helyszín egy kiadós ebédhez és egy sétához a rakparton.\n\nMielőtt végleg leparkolnánk, elgurulunk a Szent Miklós-erődig, hogy gyönyörködjünk a nyílt tenger látványában.",
             "ro": "Cu mașina puteți ajunge ușor la Naveta d'Es Tudons, aflată la porțile orașului. Această structură preistorică fascinantă este introducerea perfectă în cultura insulei Menorca.\n\nReveniți în Ciutadella, ne dedicăm timpul muzeului municipal din vechiul bastion pentru a aprofunda istoria orașului. Apoi vizităm somptuosul Palat Salort.\n\nOrele după-amiezii le petrecem în port, unde există numeroase posibilități de parcare. Este locul ideal pentru un prânz prelungit și o plimbare pe chei.\n\nÎnainte de a parca definitiv mașina, mai facem o oprire la Castelul Sant Nicolau pentru a ne bucura de vederea spre marea deschisă.",
-            "en": "By car, you can easily reach Naveta d'Es Tudons at the city's gates. This fascinating prehistoric structure is the perfect introduction to Menorca's culture.\n\nBack in Ciutadella, we focus on the municipal museum in the old bastion to delve deeper into the city's history. Then, we visit the magnificent Palau Salort.\n\nThe afternoon hours are spent at the port, where there are plenty of parking options. It's the ideal spot for a long lunch and a stroll along the quay.\n\nBefore parking the car for good, we drive up to Sant Nicolau Castle to enjoy the view of the open sea."
+            "en": "By car, you can easily reach Naveta d'Es Tudons at the city's gates. This fascinating prehistoric structure is the perfect introduction to Menorca's culture.\n\nBack in Ciutadella, we focus on the municipal museum in the old bastion to delve deeper into the city's history. Then, we visit the magnificent Palau Salort.\n\nThe afternoon hours are spent at the port, where there are plenty of parking options. It's the ideal spot for a long lunch and a stroll along the quay.\n\nBefore parking the car for good, we drive up to Sant Nicolau Castle to enjoy the view of the open sea.",
+            "es": "En coche, puedes llegar fácilmente a la Naveta d'Es Tudons en las puertas de la ciudad. Esta fascinante estructura prehistórica es la perfecta introducción a la cultura de Menorca.\n\nDe vuelta en Ciutadella, nos centramos en el museo municipal en el antiguo bastión para profundizar en la historia de la ciudad. Luego visitamos el magnífico Palau Salort.\n\nLa tarde se pasa en el puerto, donde hay abundantes opciones de aparcamiento. Es el lugar ideal para un largo almuerzo y un paseo por el moll.\n\nAntes de aparcar el coche definitivamente, subimos al Castillo de Sant Nicolau para disfrutar de la vista al mar abierto."
           },
           "stops": [
             {
@@ -1673,13 +1813,15 @@
                 "de": "Naveta d'Es Tudons",
                 "hu": "Naveta d'Es Tudons",
                 "ro": "Naveta d'Es Tudons",
-                "en": "Naveta d'Es Tudons"
+                "en": "Naveta d'Es Tudons",
+                "es": "Naveta d'Es Tudons"
               },
               "tip_5lang": {
                 "de": "Kommen Sie früh, um die Hitze zu meiden.",
                 "hu": "Érkezzen korán, hogy elkerülje a hőséget.",
                 "ro": "Veniți devreme pentru a evita căldura.",
-                "en": "Arrive early to avoid the heat."
+                "en": "Arrive early to avoid the heat.",
+                "es": "Llega temprano para evitar el calor."
               }
             },
             {
@@ -1687,13 +1829,15 @@
                 "de": "Museu Municipal de Ciutadella",
                 "hu": "Ciutadella Városi Múzeum",
                 "ro": "Muzeul Municipal Ciutadella",
-                "en": "Ciutadella Municipal Museum"
+                "en": "Ciutadella Municipal Museum",
+                "es": "Museu Municipal de Ciutadella"
               },
               "tip_5lang": {
                 "de": "Im Bastió de sa Font untergebracht.",
                 "hu": "A Bastió de sa Font bástyában található.",
                 "ro": "Găzduit în Bastió de sa Font.",
-                "en": "Located in the Bastió de sa Font."
+                "en": "Located in the Bastió de sa Font.",
+                "es": "Situado en el Bastió de sa Font."
               }
             },
             {
@@ -1701,13 +1845,15 @@
                 "de": "Palau Salort",
                 "hu": "Salort-palota",
                 "ro": "Palatul Salort",
-                "en": "Salort Palace"
+                "en": "Salort Palace",
+                "es": "Palau Salort"
               },
               "tip_5lang": {
                 "de": "Eines der wenigen öffentlich zugänglichen Palais.",
                 "hu": "A kevés látogatható magánpaloták egyike.",
                 "ro": "Unul dintre puținele palate private vizitabile.",
-                "en": "One of the few private palaces open to the public."
+                "en": "One of the few private palaces open to the public.",
+                "es": "Uno de los pocos palacios privados abiertos al público."
               }
             },
             {
@@ -1715,13 +1861,15 @@
                 "de": "Hafen von Ciutadella",
                 "hu": "Ciutadellai kikötő",
                 "ro": "Portul Ciutadella",
-                "en": "Ciutadella Port"
+                "en": "Ciutadella Port",
+                "es": "Puerto de Ciutadella"
               },
               "tip_5lang": {
                 "de": "Parken Sie im Parkhaus am Hafen.",
                 "hu": "Használja a kikötői parkolóházat.",
                 "ro": "Parcați în parcarea supraetajată din port.",
-                "en": "Use the multi-storey car park at the port."
+                "en": "Use the multi-storey car park at the port.",
+                "es": "Usa el aparcamiento de varias plantas del puerto."
               }
             },
             {
@@ -1729,13 +1877,15 @@
                 "de": "Castell de Sant Nicolau",
                 "hu": "Szent Miklós-erőd",
                 "ro": "Castelul Sant Nicolau",
-                "en": "Sant Nicolau Castle"
+                "en": "Sant Nicolau Castle",
+                "es": "Castillo de Sant Nicolau"
               },
               "tip_5lang": {
                 "de": "Kurzer Stopp für Panoramafotos.",
                 "hu": "Rövid megálló panorámafotókhoz.",
                 "ro": "Scurtă oprire pentru fotografii panoramice.",
-                "en": "Short stop for panoramic photos."
+                "en": "Short stop for panoramic photos.",
+                "es": "Parada breve para fotos panorámicas."
               }
             }
           ],
@@ -1845,6 +1995,12 @@
               "Blue zones require payment.",
               "Drive carefully in the narrow one-way streets.",
               "Naveta d'Es Tudons has its own parking lot."
+            ],
+            "es": [
+              "Aparcar en el casco antiguo es casi imposible.",
+              "Las zonas azules requieren pago.",
+              "Conduce con cuidado por las estrechas calles de sentido único.",
+              "La Naveta d'Es Tudons tiene su propio aparcamiento."
             ]
           }
         },
@@ -1853,7 +2009,8 @@
             "de": "Bequeme Fahrt zur Naveta d'Es Tudons, während die Scheibenwischer den Regen bändigen.\r\nMittags parken wir nahe dem Stadtmuseum, um trocken zu den Ausstellungen zu gelangen.\r\nNachmittags besuchen wir den Salort-Palast und genießen die prunkvollen Räume.\r\nAbends fahren wir am Hafen entlang und zum Schloss Sant Nicolau, wo wir den Sturm sicher aus dem Auto beobachten können.",
             "hu": "Kényelmes autózás a Naveta d'Es Tudons felé, miközben az ablaktörlők küzdenek az esővel.\r\nDélben a városi múzeum közelében parkolunk, hogy szárazon jussunk a kiállításokra.\r\nDélután a Salort-palotát látogatjuk meg, élvezve a pompás termeket.\r\nEste a kikötő mentén és a Sant Nicolau kastélyhoz hajtunk, a vihart biztonságban, az autóból nézve.",
             "ro": "Drum confortabil spre Naveta d'Es Tudons în timp ce ștergătoarele îmblânzesc ploaia.\r\nLa prânz parcăm lângă Muzeul Municipal pentru a ajunge uscați la expoziții.\r\nDupă-amiaza vizităm Palatul Salort și ne bucurăm de sălile somptuoase.\r\nSeara conducem de-a lungul portului spre Castelul Sant Nicolau, privind furtuna în siguranță din mașină.",
-            "en": "Comfortable drive to Naveta d'Es Tudons while the wipers tame the rain.\r\nAt noon, we park near the Municipal Museum to get to the exhibits dry.\r\nIn the afternoon, we visit Salort Palace and enjoy the grand rooms.\r\nIn the evening, we drive along the port to Sant Nicolau Castle, watching the storm safely from the car."
+            "en": "Comfortable drive to Naveta d'Es Tudons while the wipers tame the rain.\r\nAt noon, we park near the Municipal Museum to get to the exhibits dry.\r\nIn the afternoon, we visit Salort Palace and enjoy the grand rooms.\r\nIn the evening, we drive along the port to Sant Nicolau Castle, watching the storm safely from the car.",
+            "es": "Conducción cómoda hasta la Naveta d'Es Tudons mientras los limpiaparabrisas doman la lluvia.\r\nAl mediodía aparcamos cerca del Museu Municipal para ver las exposiciones secos.\r\nPor la tarde visitamos el Palau Salort y disfrutamos de las salas grandiosas.\r\nPor la noche circulamos por el puerto hasta el Castillo de Sant Nicolau, observando la tormenta seguros desde el coche."
           },
           "stops": [
             {
@@ -1862,7 +2019,8 @@
                 "de": "Der Parkplatz ist nah am Eingang, kurzer Fußweg.",
                 "hu": "A parkoló közel van a bejárathoz, rövid séta.",
                 "ro": "Parcarea este aproape de intrare, un scurt drum pe jos.",
-                "en": "The parking lot is close to the entrance, a short walk."
+                "en": "The parking lot is close to the entrance, a short walk.",
+                "es": "El aparcamiento está cerca de la entrada, a un corto paseo."
               }
             },
             {
@@ -1871,7 +2029,8 @@
                 "de": "Perfektes Ziel, um den Regen im Trockenen zu verbringen.",
                 "hu": "Tökéletes célpont, hogy szárazon töltsük az időt.",
                 "ro": "Destinație perfectă pentru a petrece timpul la adăpost de ploaie.",
-                "en": "Perfect destination to spend time in the dry."
+                "en": "Perfect destination to spend time in the dry.",
+                "es": "Destino perfecto para pasar tiempo en seco."
               }
             },
             {
@@ -1880,7 +2039,8 @@
                 "de": "Nutzen Sie Parkhäuser in der Nähe, um nass zu werden zu vermeiden.",
                 "hu": "Használja a közeli parkolóházakat, hogy elkerülje az elázást.",
                 "ro": "Folosiți parcările supraetajate din apropiere pentru a nu vă uda.",
-                "en": "Use nearby parking garages to avoid getting wet."
+                "en": "Use nearby parking garages to avoid getting wet.",
+                "es": "Usa los aparcamientos cercanos para evitar mojarte."
               }
             },
             {
@@ -1889,7 +2049,8 @@
                 "de": "Fahren Sie langsam, Aquaplaning-Gefahr auf den Rampen.",
                 "hu": "Hajtson lassan, felúszásveszély a rámpákon.",
                 "ro": "Conduceți încet, pericol de acvaplanare pe rampe.",
-                "en": "Drive slowly, hydroplaning risk on the ramps."
+                "en": "Drive slowly, hydroplaning risk on the ramps.",
+                "es": "Conduce despacio, riesgo de aquaplaning en las rampas."
               }
             },
             {
@@ -1898,7 +2059,8 @@
                 "de": "Bleiben Sie bei starkem Wind im Auto und genießen Sie den Blick.",
                 "hu": "Erős szélben maradjon az autóban és élvezze a kilátást.",
                 "ro": "În caz de vânt puternic, rămâneți în mașină și bucurați-vă de priveliște.",
-                "en": "In heavy wind, stay in the car and enjoy the view."
+                "en": "In heavy wind, stay in the car and enjoy the view.",
+                "es": "Con viento fuerte, quédate en el coche y disfruta de las vistas."
               }
             }
           ],
@@ -1926,6 +2088,12 @@
               "Check tire treads before driving over wet stones.",
               "Keep a flashlight ready for dark rainy days.",
               "Coastal roads can be slippery from sea spray."
+            ],
+            "es": [
+              "Las plazas de aparcamiento en el casco antiguo tienen gran demanda cuando llueve.",
+              "Revisa el dibujo de los neumáticos antes de circular sobre piedras mojadas.",
+              "Lleva una linterna lista para los días lluviosos y oscuros.",
+              "Las carreteras costeras pueden estar resbaladizas por la espuma del mar."
             ]
           }
         },
@@ -1934,7 +2102,8 @@
             "de": "Wir starten den Tag bei der Naveta d'Es Tudons, die Einsamkeit des Winters ist hier spürbar.\r\nMittags besuchen wir das Stadtmuseum, ein warmer Ort voller Geschichte.\r\nNachmittags erkunden wir den Salort-Palast, der im Winterlicht fast magisch wirkt.\r\nZum Abendessen am Hafen und dem abschließenden Blick vom Schloss Sant Nicolau ist das Auto die perfekte Basis.",
             "hu": "A napot a Naveta d'Es Tudonsnál kezdjük, a tél magánya itt igazán érezhető.\r\nDélben a városi múzeumot látogatjuk meg, egy meleg, történelemmel teli helyet.\r\nDélután a Salort-palotát fedezzük fel, amely a téli fényben szinte varázslatos.\r\nA kikötői vacsorához és a Sant Nicolau kastélytól nyíló záró kilátáshoz az autó tökéletes bázis.",
             "ro": "Începem ziua la Naveta d'Es Tudons, singurătatea iernii este vizibilă aici.\r\nLa prânz vizităm Muzeul Municipal, un loc cald plin de istorie.\r\nDupă-amiaza explorăm Palatul Salort, care pare aproape magic în lumina iernii.\r\nPentru cina în port și vederea finală de la Castelul Sant Nicolau, mașina este baza perfectă.",
-            "en": "We start the day at Naveta d'Es Tudons, where the solitude of winter is palpable.\r\nAt noon, we visit the Municipal Museum, a warm place full of history.\r\nIn the afternoon, we explore Salort Palace, which looks almost magical in the winter light.\r\nFor dinner at the port and the final view from Sant Nicolau Castle, the car is the perfect base."
+            "en": "We start the day at Naveta d'Es Tudons, where the solitude of winter is palpable.\r\nAt noon, we visit the Municipal Museum, a warm place full of history.\r\nIn the afternoon, we explore Salort Palace, which looks almost magical in the winter light.\r\nFor dinner at the port and the final view from Sant Nicolau Castle, the car is the perfect base.",
+            "es": "Comenzamos el día en la Naveta d'Es Tudons, donde la soledad del invierno es palpable.\r\nAl mediodía visitamos el Museu Municipal, un lugar cálido lleno de historia.\r\nPor la tarde exploramos el Palau Salort, que parece casi mágico con la luz invernal.\r\nPara cenar en el puerto y la vista final desde el Castillo de Sant Nicolau, el coche es la base perfecta."
           },
           "stops": [
             {
@@ -1943,7 +2112,8 @@
                 "de": "Nutzen Sie das klare Wetter für Fotos der Umgebung.",
                 "hu": "Használja ki a tiszta időt a környék fotózásához.",
                 "ro": "Profitați de vremea senină pentru fotografii ale împrejurimilor.",
-                "en": "Take advantage of the clear weather for photos of the surroundings."
+                "en": "Take advantage of the clear weather for photos of the surroundings.",
+                "es": "Aprovecha el buen tiempo para hacer fotos del entorno."
               }
             },
             {
@@ -1952,7 +2122,8 @@
                 "de": "Ein guter Ort, um sich zwischen den Besichtigungen aufzuwärmen.",
                 "hu": "Jó hely, hogy felmelegedj a városnézések között.",
                 "ro": "Un loc bun pentru a vă încălzi între vizite.",
-                "en": "A good place to warm up between sightings."
+                "en": "A good place to warm up between sightings.",
+                "es": "Un buen lugar para entrar en calor entre avistamientos."
               }
             },
             {
@@ -1961,7 +2132,8 @@
                 "de": "Parken Sie am 'Es Born', im Winter gibt es viele freie Plätze.",
                 "hu": "Parkoljon az 'Es Born' téren, télen sok a szabad hely.",
                 "ro": "Parcați la 'Es Born', iarna sunt multe locuri libere.",
-                "en": "Park at 'Es Born', there are many free spots in winter."
+                "en": "Park at 'Es Born', there are many free spots in winter.",
+                "es": "Aparca en 'Es Born', hay muchas plazas libres en invierno."
               }
             },
             {
@@ -1970,7 +2142,8 @@
                 "de": "Genießen Sie den Blick auf die leeren Yachten.",
                 "hu": "Élvezze a kilátást az üres jachtokra.",
                 "ro": "Bucurați-vă de vederea iahturilor goale.",
-                "en": "Enjoy the view of the empty yachts."
+                "en": "Enjoy the view of the empty yachts.",
+                "es": "Disfruta de la vista de los yates vacíos."
               }
             },
             {
@@ -1979,7 +2152,8 @@
                 "de": "Der Wind am Turm kann im Winter sehr eisig sein.",
                 "hu": "A toronynál a szél télen nagyon jeges lehet.",
                 "ro": "Vântul la turn poate fi foarte tăios iarna.",
-                "en": "The wind at the tower can be very icy in winter."
+                "en": "The wind at the tower can be very icy in winter.",
+                "es": "El viento en la torre puede ser muy helador en invierno."
               }
             }
           ],
@@ -2007,6 +2181,12 @@
               "The roads are empty, but watch out for animals on the roadway.",
               "Parking is often free in the low season.",
               "Take blankets for breaks at viewpoints."
+            ],
+            "es": [
+              "Los coches de alquiler suelen ser mucho más baratos en invierno.",
+              "Las carreteras están vacías, pero cuidado con animales en la calzada.",
+              "A menudo el aparcamiento es gratuito en temporada baja.",
+              "Lleva mantas para las pausas en los miradores."
             ]
           }
         }
@@ -2025,7 +2205,8 @@
             "de": "Kathedrale Santa Maria",
             "hu": "Szent Mária-székesegyház",
             "ro": "Catedrala Sfânta Maria",
-            "en": "Santa Maria Cathedral"
+            "en": "Santa Maria Cathedral",
+            "es": "Catedral de Santa María"
           },
           "coords": [
             3.8422,
@@ -2040,7 +2221,8 @@
             "de": "Zentraler Ausstiegspunkt in der Altstadt.",
             "hu": "Központi megálló az óvárosban.",
             "ro": "Punct central de oprire în centrul vechi.",
-            "en": "Central drop-off point in the old town."
+            "en": "Central drop-off point in the old town.",
+            "es": "Punto central de bajada en el casco antiguo."
           }
         },
         {
@@ -2048,7 +2230,8 @@
             "de": "Ses Voltes",
             "hu": "Ses Voltes árkádok",
             "ro": "Ses Voltes",
-            "en": "Ses Voltes"
+            "en": "Ses Voltes",
+            "es": "Ses Voltes"
           },
           "coords": [
             3.8412,
@@ -2063,7 +2246,8 @@
             "de": "Kurzer Fußweg ab der Kathedrale.",
             "hu": "Rövid séta a katedrálistól.",
             "ro": "Scurtă plimbare de la catedrală.",
-            "en": "Short walk from the cathedral."
+            "en": "Short walk from the cathedral.",
+            "es": "A poca distancia a pie de la catedral."
           }
         },
         {
@@ -2071,7 +2255,8 @@
             "de": "Hafen von Ciutadella",
             "hu": "Ciutadellai kikötő",
             "ro": "Portul Ciutadella",
-            "en": "Ciutadella Port"
+            "en": "Ciutadella Port",
+            "es": "Puerto de Ciutadella"
           },
           "coords": [
             3.8385,
@@ -2086,7 +2271,8 @@
             "de": "Bushaltestelle direkt oben an der Rampe.",
             "hu": "Buszmegálló közvetlenül a lejtő tetején.",
             "ro": "Stație de autobuz chiar în vârful rampei.",
-            "en": "Bus stop right at the top of the ramp."
+            "en": "Bus stop right at the top of the ramp.",
+            "es": "Parada de bus justo en la parte alta de la rampa."
           }
         },
         {
@@ -2094,7 +2280,8 @@
             "de": "Castell de Sant Nicolau",
             "hu": "Szent Miklós-erőd",
             "ro": "Castelul Sant Nicolau",
-            "en": "Sant Nicolau Castle"
+            "en": "Sant Nicolau Castle",
+            "es": "Castillo de Sant Nicolau"
           },
           "coords": [
             3.8305,
@@ -2109,7 +2296,8 @@
             "de": "Nutzen Sie den lokalen Rundbus.",
             "hu": "Használja a helyi körjáratot.",
             "ro": "Folosiți autobuzul local circular.",
-            "en": "Use the local circular bus."
+            "en": "Use the local circular bus.",
+            "es": "Usa el bus circular local."
           }
         },
         {
@@ -2117,7 +2305,8 @@
             "de": "Naveta d'Es Tudons",
             "hu": "Naveta d'Es Tudons",
             "ro": "Naveta d'Es Tudons",
-            "en": "Naveta d'Es Tudons"
+            "en": "Naveta d'Es Tudons",
+            "es": "Naveta d'Es Tudons"
           },
           "coords": [
             3.8922,
@@ -2132,7 +2321,8 @@
             "de": "Linie L60 hält in der Nähe.",
             "hu": "Az L60-as busz a közelben áll meg.",
             "ro": "Linia L60 oprește în apropiere.",
-            "en": "Line L60 stops nearby."
+            "en": "Line L60 stops nearby.",
+            "es": "La línea L60 para cerca."
           }
         }
       ],
@@ -2140,7 +2330,8 @@
         "de": "Ciutadella lässt sich gut mit dem dichten Busnetz erkunden. Wir starten im Zentrum bei der Kathedrale und schlendern durch die Arkaden von Ses Voltes.\n\nNach dem Vormittag in der Altstadt nehmen wir den Bus zum Hafen oder laufen die wenigen Schritte hinunter. Hier genießen wir die Mittagspause in maritimer Umgebung.\n\nAm Nachmittag bringt uns der Stadtbus weiter nach Westen zum Sant Nicolau Turm. Von dort aus planen wir den Ausflug zur prähistorischen Naveta.\n\nDie Naveta d'Es Tudons ist über die Hauptverbindungsstraße auch mit dem Überlandbus erreichbar, was den Tag kulturreich abschließt.",
         "hu": "Ciutadella jól felfedezhető a sűrű buszhálózattal. A központban, a katedrálisnál kezdünk, majd végigsétálunk a Ses Voltes árkádjai alatt.\n\nAz óvárosi délelőtt után busszal megyünk a kikötőbe, vagy lesétálunk a közeli lépcsőkön. Itt élvezzük az ebédszünetet tengeri környezetben.\n\nDélután a helyi busz továbbvisz minket nyugatra, a Szent Miklós-toronyhoz. Innen tervezzük az utat a történelem előtti Naveta felé.\n\nA Naveta d'Es Tudons a főúton közlekedő távolsági buszokkal is elérhető, ami kulturálisan gazdag lezárást ad a napnak.",
         "ro": "Ciutadella poate fi explorată ușor cu rețeaua densă de autobuze. Începem în centru, la catedrală, și ne plimbăm pe sub arcadele din Ses Voltes.\n\nDupă o dimineață în centrul vechi, luăm autobuzul spre port sau coborâm pe jos. Aici ne bucurăm de pauza de prânz într-un cadru maritim.\n\nDupă-amiaza, autobuzul urban ne duce mai la vest, la turnul Sant Nicolau. De acolo plănuim excursia la Naveta preistorică.\n\nNaveta d'Es Tudons este accesibilă și cu autobuzele interurbane de pe drumul principal, oferind o încheiere culturală bogată a zilei.",
-        "en": "Ciutadella is easy to explore with the dense bus network. We start in the center at the cathedral and stroll through the arches of Ses Voltes.\n\nAfter a morning in the old town, we take the bus to the port or walk down. Here we enjoy the lunch break in a maritime environment.\n\nIn the afternoon, the city bus takes us further west to the Sant Nicolau tower. From there, we plan the trip to the prehistoric Naveta.\n\nNaveta d'Es Tudons is also accessible via intercity buses on the main road, providing a culturally rich conclusion to the day."
+        "en": "Ciutadella is easy to explore with the dense bus network. We start in the center at the cathedral and stroll through the arches of Ses Voltes.\n\nAfter a morning in the old town, we take the bus to the port or walk down. Here we enjoy the lunch break in a maritime environment.\n\nIn the afternoon, the city bus takes us further west to the Sant Nicolau tower. From there, we plan the trip to the prehistoric Naveta.\n\nNaveta d'Es Tudons is also accessible via intercity buses on the main road, providing a culturally rich conclusion to the day.",
+        "es": "Ciutadella es fácil de explorar con la densa red de autobuses. Comenzamos en el centro en la catedral y paseamos por los arcos de Ses Voltes.\n\nTras una mañana en el casco antiguo, tomamos el bus hacia el puerto o bajamos andando. Aquí disfrutamos la pausa para comer en un ambiente marítimo.\n\nPor la tarde el bus urbano nos lleva más al oeste hasta la torre de Sant Nicolau. Desde allí planificamos la excursión a la Naveta prehistórica.\n\nLa Naveta d'Es Tudons también es accesible mediante autobuses interurbanos por la carretera principal, lo que ofrece una conclusión culturalmente rica al día."
       },
       "gastro_picks": {
         "de": [
@@ -2248,6 +2439,12 @@
           "Timetables are posted at the main stations.",
           "Buses are often crowded in summer, arrive early.",
           "L60 is the most important line for tourists."
+        ],
+        "es": [
+          "Compra una tarjeta multi‑viaje (T-General).",
+          "Los horarios están publicados en las estaciones principales.",
+          "Los autobuses suelen llenarse en verano; llega temprano.",
+          "La L60 es la línea más importante para turistas."
         ]
       },
       "variants": {
@@ -2256,7 +2453,8 @@
             "de": "Ciutadella lässt sich gut mit dem dichten Busnetz erkunden. Wir starten im Zentrum bei der Kathedrale und schlendern durch die Arkaden von Ses Voltes.\n\nNach dem Vormittag in der Altstadt nehmen wir den Bus zum Hafen oder laufen die wenigen Schritte hinunter. Hier genießen wir die Mittagspause in maritimer Umgebung.\n\nAm Nachmittag bringt uns der Stadtbus weiter nach Westen zum Sant Nicolau Turm. Von dort aus planen wir den Ausflug zur prähistorischen Naveta.\n\nDie Naveta d'Es Tudons ist über die Hauptverbindungsstraße auch mit dem Überlandbus erreichbar, was den Tag kulturreich abschließt.",
             "hu": "Ciutadella jól felfedezhető a sűrű buszhálózattal. A központban, a katedrálisnál kezdünk, majd végigsétálunk a Ses Voltes árkádjai alatt.\n\nAz óvárosi délelőtt után busszal megyünk a kikötőbe, vagy lesétálunk a közeli lépcsőkön. Itt élvezzük az ebédszünetet tengeri környezetben.\n\nDélután a helyi busz továbbvisz minket nyugatra, a Szent Miklós-toronyhoz. Innen tervezzük az utat a történelem előtti Naveta felé.\n\nA Naveta d'Es Tudons a főúton közlekedő távolsági buszokkal is elérhető, ami kulturálisan gazdag lezárást ad a napnak.",
             "ro": "Ciutadella poate fi explorată ușor cu rețeaua densă de autobuze. Începem în centru, la catedrală, și ne plimbăm pe sub arcadele din Ses Voltes.\n\nDupă o dimineață în centrul vechi, luăm autobuzul spre port sau coborâm pe jos. Aici ne bucurăm de pauza de prânz într-un cadru maritim.\n\nDupă-amiaza, autobuzul urban ne duce mai la vest, la turnul Sant Nicolau. De acolo plănuim excursia la Naveta preistorică.\n\nNaveta d'Es Tudons este accesibilă și cu autobuzele interurbane de pe drumul principal, oferind o încheiere culturală bogată a zilei.",
-            "en": "Ciutadella is easy to explore with the dense bus network. We start in the center at the cathedral and stroll through the arches of Ses Voltes.\n\nAfter a morning in the old town, we take the bus to the port or walk down. Here we enjoy the lunch break in a maritime environment.\n\nIn the afternoon, the city bus takes us further west to the Sant Nicolau tower. From there, we plan the trip to the prehistoric Naveta.\n\nNaveta d'Es Tudons is also accessible via intercity buses on the main road, providing a culturally rich conclusion to the day."
+            "en": "Ciutadella is easy to explore with the dense bus network. We start in the center at the cathedral and stroll through the arches of Ses Voltes.\n\nAfter a morning in the old town, we take the bus to the port or walk down. Here we enjoy the lunch break in a maritime environment.\n\nIn the afternoon, the city bus takes us further west to the Sant Nicolau tower. From there, we plan the trip to the prehistoric Naveta.\n\nNaveta d'Es Tudons is also accessible via intercity buses on the main road, providing a culturally rich conclusion to the day.",
+            "es": "Ciutadella es fácil de explorar con la densa red de autobuses. Empezamos en el centro, en la catedral, y paseamos por los arcos de Ses Voltes.\n\nTras una mañana en el casco antiguo, tomamos el autobús al puerto o bajamos a pie. Aquí disfrutamos la pausa para comer en un entorno marítimo.\n\nPor la tarde, el bus urbano nos lleva más al oeste hasta la torre de Sant Nicolau. Desde allí planeamos la excursión a la naveta prehistórica.\n\nLa Naveta d'Es Tudons también es accesible mediante autobuses interurbanos en la carretera principal, ofreciendo una conclusión culturalmente rica al día."
           },
           "stops": [
             {
@@ -2264,13 +2462,15 @@
                 "de": "Kathedrale Santa Maria",
                 "hu": "Szent Mária-székesegyház",
                 "ro": "Catedrala Sfânta Maria",
-                "en": "Santa Maria Cathedral"
+                "en": "Santa Maria Cathedral",
+                "es": "Catedral de Santa María"
               },
               "tip_5lang": {
                 "de": "Zentraler Ausstiegspunkt in der Altstadt.",
                 "hu": "Központi megálló az óvárosban.",
                 "ro": "Punct central de oprire în centrul vechi.",
-                "en": "Central drop-off point in the old town."
+                "en": "Central drop-off point in the old town.",
+                "es": "Punto de bajada central en el casco antiguo."
               }
             },
             {
@@ -2278,13 +2478,15 @@
                 "de": "Ses Voltes",
                 "hu": "Ses Voltes árkádok",
                 "ro": "Ses Voltes",
-                "en": "Ses Voltes"
+                "en": "Ses Voltes",
+                "es": "Ses Voltes"
               },
               "tip_5lang": {
                 "de": "Kurzer Fußweg ab der Kathedrale.",
                 "hu": "Rövid séta a katedrálistól.",
                 "ro": "Scurtă plimbare de la catedrală.",
-                "en": "Short walk from the cathedral."
+                "en": "Short walk from the cathedral.",
+                "es": "A poca distancia de la catedral."
               }
             },
             {
@@ -2292,13 +2494,15 @@
                 "de": "Hafen von Ciutadella",
                 "hu": "Ciutadellai kikötő",
                 "ro": "Portul Ciutadella",
-                "en": "Ciutadella Port"
+                "en": "Ciutadella Port",
+                "es": "Puerto de Ciutadella"
               },
               "tip_5lang": {
                 "de": "Bushaltestelle direkt oben an der Rampe.",
                 "hu": "Buszmegálló közvetlenül a lejtő tetején.",
                 "ro": "Stație de autobuz chiar în vârful rampei.",
-                "en": "Bus stop right at the top of the ramp."
+                "en": "Bus stop right at the top of the ramp.",
+                "es": "Parada de autobús justo arriba de la rampa."
               }
             },
             {
@@ -2306,13 +2510,15 @@
                 "de": "Castell de Sant Nicolau",
                 "hu": "Szent Miklós-erőd",
                 "ro": "Castelul Sant Nicolau",
-                "en": "Sant Nicolau Castle"
+                "en": "Sant Nicolau Castle",
+                "es": "Castell de Sant Nicolau"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den lokalen Rundbus.",
                 "hu": "Használja a helyi körjáratot.",
                 "ro": "Folosiți autobuzul local circular.",
-                "en": "Use the local circular bus."
+                "en": "Use the local circular bus.",
+                "es": "Usa el bus circular local."
               }
             },
             {
@@ -2320,13 +2526,15 @@
                 "de": "Naveta d'Es Tudons",
                 "hu": "Naveta d'Es Tudons",
                 "ro": "Naveta d'Es Tudons",
-                "en": "Naveta d'Es Tudons"
+                "en": "Naveta d'Es Tudons",
+                "es": "Naveta d'Es Tudons"
               },
               "tip_5lang": {
                 "de": "Linie L60 hält in der Nähe.",
                 "hu": "Az L60-as busz a közelben áll meg.",
                 "ro": "Linia L60 oprește în apropiere.",
-                "en": "Line L60 stops nearby."
+                "en": "Line L60 stops nearby.",
+                "es": "La línea L60 para cerca."
               }
             }
           ],
@@ -2436,6 +2644,12 @@
               "Timetables are posted at the main stations.",
               "Buses are often crowded in summer, arrive early.",
               "L60 is the most important line for tourists."
+            ],
+            "es": [
+              "Compra una tarjeta multipviaje (T-General).",
+              "Los horarios están publicados en las estaciones principales.",
+              "Los autobuses suelen llenarse en verano; llega temprano.",
+              "La L60 es la línea más importante para turistas."
             ]
           }
         },
@@ -2444,7 +2658,8 @@
             "de": "Mit dem Bus zur Kathedrale, wo wir trocken ankommen.\r\nMittags schlendern wir unter den Ses Voltes Arkaden, perfekt geschützt vor dem Regen.\r\nNachmittags bringt uns der Bus zum Hafen, wo wir die Schiffe beobachten.\r\nZum Abschluss fahren wir zum Schloss Sant Nicolau und schließlich zur Naveta, wobei wir die Busfahrt zum Aufwärmen nutzen.",
             "hu": "Busszal a katedrálishoz, ahová szárazon érkezünk.\r\nDélben a Ses Voltes árkádjai alatt sétálunk, tökéletesen védve az esőtől.\r\nDélután a busz a kikötőhöz visz minket, ahol a hajókat nézzük.\r\nZárásként a Sant Nicolau kastélyhoz, majd a Navetához utazunk, a buszutat melegedésre használva.",
             "ro": "Cu autobuzul la catedrală, unde ajungem uscați.\r\nLa prânz ne plimbăm sub arcadele Ses Voltes, perfect protejați de ploaie.\r\nDupă-amiaza, autobuzul ne duce în port, unde observăm navele.\r\nLa final mergem la Castelul Sant Nicolau și apoi la Naveta, folosind călătoria cu autobuzul pentru a ne încălzi.",
-            "en": "By bus to the Cathedral, where we arrive dry.\r\nAt noon, we stroll under the Ses Voltes arches, perfectly protected from the rain.\r\nIn the afternoon, the bus takes us to the port, where we watch the ships.\r\nFinally, we travel to Sant Nicolau Castle and then to Naveta, using the bus ride to warm up."
+            "en": "By bus to the Cathedral, where we arrive dry.\r\nAt noon, we stroll under the Ses Voltes arches, perfectly protected from the rain.\r\nIn the afternoon, the bus takes us to the port, where we watch the ships.\r\nFinally, we travel to Sant Nicolau Castle and then to Naveta, using the bus ride to warm up.",
+            "es": "En autobús hasta la Catedral, donde llegamos secos.\r\nAl mediodía paseamos bajo los arcos de Ses Voltes, perfectamente protegidos de la lluvia.\r\nPor la tarde, el autobús nos lleva al puerto, donde miramos los barcos.\r\nFinalmente, viajamos al Castell de Sant Nicolau y luego a la Naveta, aprovechando el trayecto en bus para entrar en calor."
           },
           "stops": [
             {
@@ -2453,7 +2668,8 @@
                 "de": "Die Bushaltestelle liegt sehr zentral zur Kathedrale.",
                 "hu": "A buszmegálló nagyon központi helyen van a katedrálishoz.",
                 "ro": "Stația de autobuz este foarte centrală față de catedrală.",
-                "en": "The bus stop is very central to the cathedral."
+                "en": "The bus stop is very central to the cathedral.",
+                "es": "La parada de autobús está muy céntrica respecto a la catedral."
               }
             },
             {
@@ -2462,7 +2678,8 @@
                 "de": "Nur ein kurzer Sprint vom Bus zu den Arkaden.",
                 "hu": "Csak egy rövid sprint a busztól az árkádokig.",
                 "ro": "Doar un scurt sprint de la autobuz la arcade.",
-                "en": "Only a short sprint from the bus to the arches."
+                "en": "Only a short sprint from the bus to the arches.",
+                "es": "Solo un breve sprint desde el autobús hasta los arcos."
               }
             },
             {
@@ -2471,7 +2688,8 @@
                 "de": "Nutzen Sie die Wartehäuschen an den Bushaltestellen.",
                 "hu": "Használja a buszmegállók váróit.",
                 "ro": "Folosiți adăposturile din stațiile de autobuz.",
-                "en": "Use the shelters at the bus stops."
+                "en": "Use the shelters at the bus stops.",
+                "es": "Utiliza las marquesinas en las paradas de autobús."
               }
             },
             {
@@ -2480,7 +2698,8 @@
                 "de": "Die Frequenz der Busse kann bei Unwetter variieren.",
                 "hu": "A buszok gyakorisága vihar esetén változhat.",
                 "ro": "Frecvența autobuzelor poate varia în caz de furtună.",
-                "en": "Bus frequency may vary during storms."
+                "en": "Bus frequency may vary during storms.",
+                "es": "La frecuencia de los buses puede variar durante las tormentas."
               }
             },
             {
@@ -2489,7 +2708,8 @@
                 "de": "Die Überlandbusse halten direkt an der Hauptstraße.",
                 "hu": "A távolsági buszok közvetlenül a főútnál állnak meg.",
                 "ro": "Autobuzele interurbane opresc direct la drumul principal.",
-                "en": "The intercity buses stop directly at the main road."
+                "en": "The intercity buses stop directly at the main road.",
+                "es": "Los autobuses interurbanos paran directamente en la carretera principal."
               }
             }
           ],
@@ -2517,6 +2737,12 @@
               "Keep the 'TIB' app ready for real-time info.",
               "Buses are often full when it rains, plan extra time.",
               "Some stops in the old town are not covered."
+            ],
+            "es": [
+              "Compra billetes multiproceso online por adelantado.",
+              "Ten lista la app 'TIB' para información en tiempo real.",
+              "Los autobuses suelen ir llenos cuando llueve; planifica tiempo extra.",
+              "Algunas paradas en el casco antiguo no están cubiertas."
             ]
           }
         },
@@ -2525,7 +2751,8 @@
             "de": "Winterlicher Start an der Kathedrale, die Anreise mit dem Bus ist entspannt.\r\nMittags erkunden wir Ses Voltes, wo die Einheimischen ihren Kaffee genießen.\r\nNachmittags bringt uns der Transit zum Hafen, der im Winterlicht ruhig daliegt.\r\nVor Sonnenuntergang besuchen wir das Schloss Sant Nicolau und nehmen den letzten Bus zur Naveta, bevor es dunkel wird.",
             "hu": "Téli kezdés a katedrálisnál, a busszal való érkezés pihentető.\r\nDélben felfedezzük a Ses Voltest, ahol a helyiek a kávéjukat élvezik.\r\nDélután a tömegközlekedés a kikötőhöz visz, amely nyugodtan fekszik a téli fényben.\r\nNaplemente előtt meglátogatjuk a Sant Nicolau kastélyt, és az utolsó busszal a Navetához megyünk sötétedés előtt.",
             "ro": "Început de iarnă la catedrală, sosirea cu autobuzul este relaxantă.\r\nLa prânz explorăm Ses Voltes, unde localnicii își savurează cafeaua.\r\nDupă-amiaza, transportul ne duce în port, care stă liniștit în lumina iernii.\r\nÎnainte de apus vizităm Castelul Sant Nicolau și luăm ultimul autobuz spre Naveta înainte de lăsarea întunericului.",
-            "en": "Winter start at the Cathedral, the arrival by bus is relaxed.\r\nAt noon, we explore Ses Voltes, where locals enjoy their coffee.\r\nIn the afternoon, transit takes us to the port, which lies quiet in the winter light.\r\nBefore sunset, we visit Sant Nicolau Castle and take the last bus to Naveta before it gets dark."
+            "en": "Winter start at the Cathedral, the arrival by bus is relaxed.\r\nAt noon, we explore Ses Voltes, where locals enjoy their coffee.\r\nIn the afternoon, transit takes us to the port, which lies quiet in the winter light.\r\nBefore sunset, we visit Sant Nicolau Castle and take the last bus to Naveta before it gets dark.",
+            "es": "Inicio de invierno en la Catedral; la llegada en autobús es relajada.\r\nAl mediodía exploramos Ses Voltes, donde los locales disfrutan su café.\r\nPor la tarde, el tránsito nos lleva al puerto, que permanece tranquilo con la luz invernal.\r\nAntes del ocaso visitamos el Castell de Sant Nicolau y tomamos el último bus a la Naveta antes de que anochezca."
           },
           "stops": [
             {
@@ -2534,7 +2761,8 @@
                 "de": "Der Winterfahrplan tritt ab November in Kraft.",
                 "hu": "A téli menetrend novembertől lép életbe.",
                 "ro": "Programul de iarnă intră în vigoare din noiembrie.",
-                "en": "The winter schedule takes effect from November."
+                "en": "The winter schedule takes effect from November.",
+                "es": "El horario de invierno entra en vigor desde noviembre."
               }
             },
             {
@@ -2543,7 +2771,8 @@
                 "de": "Kurze Wege zwischen den Bushaltestellen im Zentrum.",
                 "hu": "Rövid utak a központi buszmegállók között.",
                 "ro": "Distanțe scurte între stațiile de autobuz din centru.",
-                "en": "Short distances between the central bus stops."
+                "en": "Short distances between the central bus stops.",
+                "es": "Cortas distancias entre las paradas centrales de autobús."
               }
             },
             {
@@ -2552,7 +2781,8 @@
                 "de": "Die Hafenbusse fahren im Winter seltener.",
                 "hu": "A kikötői buszok télen ritkábban járnak.",
                 "ro": "Autobuzele spre port circulă mai rar iarna.",
-                "en": "Port buses run less frequently in winter."
+                "en": "Port buses run less frequently in winter.",
+                "es": "Los buses al puerto funcionan con menos frecuencia en invierno."
               }
             },
             {
@@ -2561,7 +2791,8 @@
                 "de": "Achten Sie auf den letzten Bus zurück in die Stadt.",
                 "hu": "Figyeljen az utolsó buszra vissza a városba.",
                 "ro": "Atenție la ultimul autobuz înapoi spre oraș.",
-                "en": "Watch out for the last bus back to the city."
+                "en": "Watch out for the last bus back to the city.",
+                "es": "Atento al último autobús de vuelta a la ciudad."
               }
             },
             {
@@ -2570,7 +2801,8 @@
                 "de": "Gute Verbindung mit den Linien Richtung Mahón.",
                 "hu": "Jó összeköttetés a Mahón felé tartó vonalakkal.",
                 "ro": "Conexiune bună cu liniile spre Mahón.",
-                "en": "Good connection with the lines towards Mahón."
+                "en": "Good connection with the lines towards Mahón.",
+                "es": "Buena conexión con las líneas hacia Maó."
               }
             }
           ],
@@ -2598,6 +2830,12 @@
               "Use contactless payment with the driver.",
               "Schedules are posted at the main stations.",
               "The heating in the buses is usually very comfortable."
+            ],
+            "es": [
+              "En invierno, los autobuses son más puntuales que en verano.",
+              "Usa pago contactless con el conductor.",
+              "Los horarios están publicados en las estaciones principales.",
+              "La calefacción en los autobuses suele ser muy confortable."
             ]
           }
         }
@@ -2612,19 +2850,22 @@
       "de": "Ciutadella ist die katalanischsprachigste Stadt Menorcas, Spanisch wird natürlich verstanden. Bei Sant Joan (Juni) hilft ein 'visca!' beim Mitfeiern. Englisch im Tourismus, sonst kaum Fremdsprachen.",
       "hu": "Ciutadella Menorca legkatalánabb városa, de spanyolul is mindenki ért. A Sant Joan ünnepen egy 'visca!' kiáltás belevisz a hangulatba. Angol a turistazónában megy, máshol alig.",
       "ro": "Ciutadella e cel mai catalan oraș din Menorca, dar spaniola e înțeleasă peste tot. La festivalul Sant Joan, un 'visca!' te face parte din mulțime. Engleza merge în zona turistică.",
-      "en": "Ciutadella is Menorca's most Catalan town, but Spanish works everywhere. During Sant Joan (June) a hearty 'visca!' joins the cheer. English is fine in tourist areas, less so elsewhere."
+      "en": "Ciutadella is Menorca's most Catalan town, but Spanish works everywhere. During Sant Joan (June) a hearty 'visca!' joins the cheer. English is fine in tourist areas, less so elsewhere.",
+      "es": "Ciutadella es la localidad más catalana de Menorca, pero el español funciona en todas partes. Durante Sant Joan (junio) se une un enérgico «¡visca!» al festejo. El inglés sirve en zonas turísticas, menos en otras áreas."
     },
     "best_time_to_visit": {
       "de": "Mai, Juni und September für Strände und Altstadt ohne Massen. 23.-24. Juni Sant Joan ist spektakulär aber chaotisch, früh buchen. Winter ruhig, viele Lokale geschlossen.",
       "hu": "Május, június és szeptember a legjobb a tömegek nélküli strandolásra. Június 23-24-én Sant Joan ünnep látványos, de őrület, foglalj jó előre. Télen csendes, sok hely zárva.",
       "ro": "Mai, iunie și septembrie pentru plaje și centru istoric fără aglomerație. 23-24 iunie Sant Joan e spectaculos dar haotic, rezervă din timp. Iarna e liniștită, multe închise.",
-      "en": "May, June and September give you beaches and old town without crowds. The 23-24 June Sant Joan festival is stunning but chaotic - book far ahead. Winter is quiet, many places shut."
+      "en": "May, June and September give you beaches and old town without crowds. The 23-24 June Sant Joan festival is stunning but chaotic - book far ahead. Winter is quiet, many places shut.",
+      "es": "Mayo, junio y septiembre ofrecen playas y casco antiguo sin aglomeraciones. El festival de Sant Joan (23-24 de junio) es espectacular pero caótico: reserva con mucha antelación. El invierno es tranquilo y muchos lugares cierran."
     },
     "neighborhood_warnings": {
       "de": "Sehr sicher, Altstadt rund um die Uhr begehbar. Bei Sant Joan: Pferdemenge meiden, Gläser fallen lassen, nicht das Pferd anfassen. Strandparkplätze auf Wertsachen achten.",
       "hu": "Nagyon biztonságos, az óváros 24 órán át bejárható. Sant Joan ünnepen kerüld a lovas tömeget, ne nyúlj a lovakhoz. Strandparkolóban értéket ne hagyj kint.",
       "ro": "Foarte sigur, centrul istoric e bun la orice oră. La Sant Joan: nu atinge caii, ferește-te de mulțimea care îi înconjoară. Atenție la valori în parcările de plajă.",
-      "en": "Very safe, old town walkable around the clock. During Sant Joan, never touch the horses and keep clear of the dense crowd. Watch valuables at beach car parks."
+      "en": "Very safe, old town walkable around the clock. During Sant Joan, never touch the horses and keep clear of the dense crowd. Watch valuables at beach car parks.",
+      "es": "Muy seguro; el casco antiguo es transitable a cualquier hora. Durante Sant Joan, no toques a los caballos y mantente alejado de las multitudes densas. Vigila tus objetos de valor en los aparcamientos de las playas."
     }
   }
 }

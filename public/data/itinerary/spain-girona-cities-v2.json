@@ -21,7 +21,8 @@
             "de": "Plaça de la Independència",
             "hu": "Függetlenség tere (Plaça de la Independència)",
             "ro": "Plaça de la Independència",
-            "en": "Plaça de la Independència"
+            "en": "Plaça de la Independència",
+            "es": "Plaça de la Independència"
           },
           "coords": [
             2.8214,
@@ -36,7 +37,8 @@
             "de": "Starten Sie den Tag mit einem Kaffee in einem der Arkadencafés.",
             "hu": "Kezdje a napot egy kávéval az árkádok alatti kávézók egyikében!",
             "ro": "Începeți ziua cu o cafea la una dintre cafenelele de sub arcade.",
-            "en": "Start the day with a coffee at one of the cafés under the arcades."
+            "en": "Start the day with a coffee at one of the cafés under the arcades.",
+            "es": "Comienza el día con un café en uno de los cafés bajo los pórticos."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Eiffels-Brücke (Pont de Ferro)",
             "hu": "Eiffel-híd (Pont de Ferro)",
             "ro": "Podul Eiffel (Pont de Ferro)",
-            "en": "Eiffel Bridge (Pont de Ferro)"
+            "en": "Eiffel Bridge (Pont de Ferro)",
+            "es": "Eiffel Bridge (Pont de Ferro)"
           },
           "coords": [
             2.8248,
@@ -59,7 +62,8 @@
             "de": "Die rote Eisenkonstruktion ist ein Werk von Gustave Eiffel, bevor er den Eiffelturm baute.",
             "hu": "A vörös vasszerkezet Gustave Eiffel műve, még az Eiffel-torony előtt készült.",
             "ro": "Structura roșie de fier este o lucrare a lui Gustave Eiffel, înainte de a construi Turnul Eiffel.",
-            "en": "The red iron structure was designed by Gustave Eiffel's company before the Eiffel Tower."
+            "en": "The red iron structure was designed by Gustave Eiffel's company before the Eiffel Tower.",
+            "es": "La estructura de hierro rojo fue diseñada por la empresa de Gustave Eiffel antes de la Torre Eiffel."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Häuser am Onyar",
             "hu": "Házak az Onyar folyó partján",
             "ro": "Casele de pe râul Onyar",
-            "en": "Houses on the Onyar River"
+            "en": "Houses on the Onyar River",
+            "es": "Casas sobre el río Onyar"
           },
           "coords": [
             2.8255,
@@ -82,7 +87,8 @@
             "de": "Der beste Fotospot ist von der Pont de Pedra oder der Eiffels-Brücke selbst.",
             "hu": "A legjobb fotókat a Pont de Pedra kőhídról vagy magáról az Eiffel-hídról készítheted.",
             "ro": "Cel mai bun loc pentru fotografii este de pe Pont de Pedra sau de pe Podul Eiffel.",
-            "en": "The best photo spot is from the Pont de Pedra (Stone Bridge) or the Eiffel Bridge itself."
+            "en": "The best photo spot is from the Pont de Pedra (Stone Bridge) or the Eiffel Bridge itself.",
+            "es": "El mejor punto para fotografiar es desde el Pont de Pedra (Puente de Piedra) o desde el propio puente Eiffel."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Jüdisches Viertel (El Call)",
             "hu": "Zsidónegyed (El Call)",
             "ro": "Cartierul Evreiesc (El Call)",
-            "en": "Jewish Quarter (El Call)"
+            "en": "Jewish Quarter (El Call)",
+            "es": "Barrio Judío (El Call)"
           },
           "coords": [
             2.826,
@@ -105,7 +112,8 @@
             "de": "Verlieren Sie sich in den engen Gassen; hier gibt es viele kleine Kunsthandwerksläden.",
             "hu": "Vesszen el a szűk sikátorok labirintusában, tele van apró kézműves boltokkal.",
             "ro": "Rătăciți-vă pe aleile înguste; veți găsi multe magazine mici de artizanat.",
-            "en": "Get lost in the narrow alleyways; you'll find many small artisan shops here."
+            "en": "Get lost in the narrow alleyways; you'll find many small artisan shops here.",
+            "es": "Piérdete por los callejones; encontrarás numerosas tiendas artesanales pequeñas."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Kathedrale von Girona",
             "hu": "Gironai katedrális",
             "ro": "Catedrala din Girona",
-            "en": "Girona Cathedral"
+            "en": "Girona Cathedral",
+            "es": "Catedral de Girona"
           },
           "coords": [
             2.827,
@@ -128,7 +137,8 @@
             "de": "Steigen Sie die 90 Stufen empor und bewundern Sie das breiteste gotische Kirchenschiff der Welt.",
             "hu": "Mássza meg a 90 lépcsőfokot, és csodálja meg a világ legszélesebb gótikus hajóját.",
             "ro": "Urcați cele 90 de trepte și admirați cel mai lat naos gotic din lume.",
-            "en": "Climb the 90 steps and admire the widest Gothic nave in the world."
+            "en": "Climb the 90 steps and admire the widest Gothic nave in the world.",
+            "es": "Sube los 90 escalones y admira la nave gótica más ancha del mundo."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Arabische Bäder",
             "hu": "Arab fürdők",
             "ro": "Băile Arabe",
-            "en": "Arab Baths"
+            "en": "Arab Baths",
+            "es": "Baños Árabes"
           },
           "coords": [
             2.8275,
@@ -151,7 +162,8 @@
             "de": "Ein kleines, aber faszinierendes romanisches Bauwerk, das arabische Bäder imitiert.",
             "hu": "Egy kicsi, de lenyűgöző román stílusú épület, amely az arab fürdőket utánozza.",
             "ro": "O structură romanică mică, dar fascinantă, care imită băile arabe.",
-            "en": "A small but fascinating Romanesque structure imitating Arab baths."
+            "en": "A small but fascinating Romanesque structure imitating Arab baths.",
+            "es": "Una estructura pequeña pero fascinante de estilo románico que imita los baños árabes."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Kloster Sant Pere de Galligants",
             "hu": "Sant Pere de Galligants kolostor",
             "ro": "Mănăstirea Sant Pere de Galligants",
-            "en": "Monastery of Sant Pere de Galligants"
+            "en": "Monastery of Sant Pere de Galligants",
+            "es": "Monasterio de Sant Pere de Galligants"
           },
           "coords": [
             2.828,
@@ -174,7 +187,8 @@
             "de": "Beherbergt heute das Archäologische Museum von Katalonien.",
             "hu": "Ma Katalónia Régészeti Múzeumának ad otthont.",
             "ro": "Astăzi găzduiește Muzeul de Arheologie al Cataloniei.",
-            "en": "Today it houses the Archaeology Museum of Catalonia."
+            "en": "Today it houses the Archaeology Museum of Catalonia.",
+            "es": "Hoy alberga el Museo de Arqueología de Cataluña."
           }
         },
         {
@@ -182,7 +196,8 @@
             "de": "Stadtmauern (Passeig de la Muralla)",
             "hu": "Városfal (Passeig de la Muralla)",
             "ro": "Zidurile orașului (Passeig de la Muralla)",
-            "en": "City Walls (Passeig de la Muralla)"
+            "en": "City Walls (Passeig de la Muralla)",
+            "es": "Murallas de la ciudad (Passeig de la Muralla)"
           },
           "coords": [
             2.8285,
@@ -197,7 +212,8 @@
             "de": "Der beste Abschnitt für einen Spaziergang am späten Nachmittag mit Blick auf die Pyrenäen.",
             "hu": "A legjobb szakasz egy késő délutáni sétához, kilátással a Pireneusokra.",
             "ro": "Cea mai bună porțiune pentru o plimbare la apus, cu vedere la Pirinei.",
-            "en": "The best section for a late afternoon walk, with views towards the Pyrenees."
+            "en": "The best section for a late afternoon walk, with views towards the Pyrenees.",
+            "es": "La mejor sección para un paseo al final de la tarde, con vistas hacia los Pirineos."
           }
         }
       ],
@@ -205,7 +221,8 @@
         "de": "Ein Spaziergang durch Girona ist eine Reise durch die Zeit. Am Morgen erkunden Sie die lebhafte Plaça de la Independència und überqueren die berühmte Eiffels-Brücke, um die farbenfrohen Häuser am Onyar zu bewundern. Mittags tauchen Sie in das Labyrinth des jüdischen Viertels ein, bevor Sie die beeindruckende Kathedrale besteigen. Der Nachmittag ist der Geschichte gewidmet, mit einem Besuch der Arabischen Bäder und des alten Klosters Sant Pere. Den krönenden Abschluss bildet ein Spaziergang auf den mittelalterlichen Stadtmauern, während die Sonne untergeht und die Stadt in goldenes Licht taucht.",
         "hu": "Egy séta Gironában időutazás. Reggel fedezze fel a nyüzsgő Függetlenség teret, keljen át a híres Eiffel-hídon, hogy megcsodálhassa az Onyar folyó színes házait. Délben merüljön el a zsidónegyed labirintusában, mielőtt megmászná a lenyűgöző katedrálist. A délután a történelemé, az Arab fürdő és a régi Sant Pere kolostor meglátogatásával. A napot egy séta koronázza meg a középkori városfalakon, ahogy a lemenő nap arany fénybe borítja a várost.",
         "ro": "O plimbare prin Girona este o călătorie în timp. Dimineața, explorați vibranta Plaça de la Independència și traversați faimosul Pod Eiffel pentru a admira casele colorate de pe Onyar. La prânz, pătrundeți în labirintul Cartierului Evreiesc înainte de a urca la impresionanta Catedrală. După-amiaza este dedicată istoriei, cu o vizită la Băile Arabe și la vechea mănăstire Sant Pere. Ziua se încheie perfect cu o plimbare pe zidurile medievale ale orașului, în timp ce soarele apune, scăldând orașul într-o lumină aurie.",
-        "en": "A walk through Girona is a journey through time. In the morning, explore the vibrant Plaça de la Independència and cross the famous Eiffel Bridge to admire the colorful houses on the Onyar. At midday, delve into the labyrinth of the Jewish Quarter before ascending to the impressive Cathedral. The afternoon is dedicated to history, with a visit to the Arab Baths and the ancient Sant Pere monastery. The day culminates with a stroll along the medieval city walls as the sun sets, bathing the city in a golden light."
+        "en": "A walk through Girona is a journey through time. In the morning, explore the vibrant Plaça de la Independència and cross the famous Eiffel Bridge to admire the colorful houses on the Onyar. At midday, delve into the labyrinth of the Jewish Quarter before ascending to the impressive Cathedral. The afternoon is dedicated to history, with a visit to the Arab Baths and the ancient Sant Pere monastery. The day culminates with a stroll along the medieval city walls as the sun sets, bathing the city in a golden light.",
+        "es": "Pasear por Girona es un viaje en el tiempo. Por la mañana, explora la vibrante Plaça de la Independència y cruza el famoso puente Eiffel para admirar las coloridas casas del Onyar. Al mediodía, adéntrate en el laberinto del Barrio Judío antes de ascender a la imponente Catedral. La tarde se dedica a la historia, con una visita a los Baños Árabes y al antiguo monasterio de Sant Pere. El día concluye con un paseo por las murallas medievales mientras el sol se pone y baña la ciudad con luz dorada."
       },
       "gastro_picks": {
         "de": [
@@ -401,6 +418,12 @@
           "Bring a water bottle, especially during summer.",
           "Many museums and attractions are closed on Mondays; check their schedules.",
           "Be prepared for midday (around 2-4 PM) to be siesta time, where some shops might close."
+        ],
+        "es": [
+          "Lleva calzado muy cómodo; el casco antiguo está lleno de empedrados y escaleras.",
+          "Lleva una botella de agua, especialmente en verano.",
+          "Muchos museos y atracciones cierran los lunes; comprueba sus horarios.",
+          "Prepárate para que al mediodía (sobre las 14:00–16:00) sea la hora de la siesta, cuando algunas tiendas pueden cerrar."
         ]
       },
       "variants": {
@@ -409,7 +432,8 @@
             "de": "Der Morgen beginnt unter den schützenden Arkaden der Plaça de la Independència, wo man den Regen bei einem Kaffee beobachten kann. Mittags bieten die engen Gassen des jüdischen Viertels (El Call) natürlichen Schutz, auch wenn das Kopfsteinpflaster rutschig wird. Am Nachmittag ist die Kathedrale ein trockener Rückzugsort. Der Tag endet gemütlich in den Cafés der Altstadt, während die Stadtmauern bei Regen eher kurz besucht werden.",
             "hu": "A reggel a Plaça de la Independència árkádjai alatt indul, ahol védve vagyunk az esőtől. Délben a Zsidó negyed szűk utcái adnak némi menedéket, de a macskakő ilyenkor csúszós. Délután a székesegyház monumentális belső tere tökéletes száraz program. Az estét érdemes egy folyóparti kávézóban tölteni, mivel a városfalon esőben nehézkes a közlekedés.",
             "ro": "Dimineața începe sub arcadele din Plaça de la Independència, oferind adăpost împotriva ploii. La prânz, străzile înguste din cartierul evreiesc oferă protecție parțială, dar atenție la piatra cubică alunecoasă. După-amiaza, Catedrala din Girona este refugiul ideal. Seara se încheie într-o cafenea primitoare, deoarece plimbarea pe zidurile cetății este dificilă pe timp de ploaie.",
-            "en": "Morning starts under the protective arcades of Plaça de la Independència, perfect for watching the rain with a coffee. By midday, the narrow alleys of the Jewish Quarter provide some shelter, though the stones get slippery. The afternoon is best spent inside the dry Cathedral. Finish the day in a cozy Old Town cafe, as the city walls are quite exposed during heavy downpours."
+            "en": "Morning starts under the protective arcades of Plaça de la Independència, perfect for watching the rain with a coffee. By midday, the narrow alleys of the Jewish Quarter provide some shelter, though the stones get slippery. The afternoon is best spent inside the dry Cathedral. Finish the day in a cozy Old Town cafe, as the city walls are quite exposed during heavy downpours.",
+            "es": "La mañana comienza bajo los pórticos protectores de la Plaça de la Independència, perfecto para ver llover con un café. Al mediodía, los estrechos callejones del Barrio Judío ofrecen cierto refugio, aunque las piedras se vuelven resbaladizas. La tarde es mejor pasarla dentro de la seca Catedral. Termina el día en un café acogedor del casco antiguo, ya que las murallas están muy expuestas durante los chaparrones intensos."
           },
           "stops": [
             {
@@ -418,7 +442,8 @@
                 "de": "Nutzen Sie die Arkaden, um trocken zu bleiben.",
                 "hu": "Használja az árkádokat a várakozáshoz.",
                 "ro": "Folosiți arcadele pentru a rămâne uscați.",
-                "en": "Use the arcades to stay dry while exploring."
+                "en": "Use the arcades to stay dry while exploring.",
+                "es": "Usa los pórticos para mantenerte seco mientras exploras."
               }
             },
             {
@@ -427,7 +452,8 @@
                 "de": "Der Metallboden ist bei Nässe sehr rutschig.",
                 "hu": "A fém padló nedvesen rendkívül csúszós.",
                 "ro": "Podeaua metalică este foarte alunecoasă pe ploaie.",
-                "en": "The metal floor is very slippery when wet."
+                "en": "The metal floor is very slippery when wet.",
+                "es": "El suelo metálico es muy resbaladizo cuando está mojado."
               }
             },
             {
@@ -436,7 +462,8 @@
                 "de": "Bester Blick unter dem Vordach der Brücken.",
                 "hu": "A hidak párkánya alól fotózzon.",
                 "ro": "Cea mai bună vedere este de sub streșini.",
-                "en": "Best views are found under bridge overhangs."
+                "en": "Best views are found under bridge overhangs.",
+                "es": "Las mejores vistas se encuentran bajo los aleros de los puentes."
               }
             },
             {
@@ -445,7 +472,8 @@
                 "de": "Vorsicht auf den steilen, nassen Treppen.",
                 "hu": "Vigyázat a meredek, nedves lépcsőkön.",
                 "ro": "Atenție la scările abrupte și umede.",
-                "en": "Be careful on the steep, wet stone stairs."
+                "en": "Be careful on the steep, wet stone stairs.",
+                "es": "Ten cuidado en las escaleras empinadas de piedra cuando estén mojadas."
               }
             },
             {
@@ -454,7 +482,8 @@
                 "de": "Idealer Ort, um einen starken Schauer abzuwarten.",
                 "hu": "Ideális hely egy nagyobb zápor kivárásához.",
                 "ro": "Locul ideal pentru a aștepta trecerea ploii.",
-                "en": "Ideal place to wait out a heavy downpour."
+                "en": "Ideal place to wait out a heavy downpour.",
+                "es": "Lugar ideal para esperar a que pase un fuerte aguacero."
               }
             },
             {
@@ -463,7 +492,8 @@
                 "de": "Der Innenhof ist teilweise überdacht.",
                 "hu": "A belső udvar részben fedett.",
                 "ro": "Curtea interioară este parțial acoperită.",
-                "en": "The interior courtyard is partially covered."
+                "en": "The interior courtyard is partially covered.",
+                "es": "El patio interior está parcialmente cubierto."
               }
             },
             {
@@ -472,7 +502,8 @@
                 "de": "Drinnen gibt es interessante archäologische Funde.",
                 "hu": "Bent érdekes régészeti leletek várják.",
                 "ro": "În interior sunt exponate arheologice superbe.",
-                "en": "Excellent indoor archaeological exhibits."
+                "en": "Excellent indoor archaeological exhibits.",
+                "es": "Excelentes exposiciones arqueológicas interiores."
               }
             },
             {
@@ -481,7 +512,8 @@
                 "de": "Nur bei leichtem Regen begehbar; Stufen meiden.",
                 "hu": "Csak szemerkélő esőben ajánlott; a lépcsők veszélyesek.",
                 "ro": "Accesibil doar pe ploaie ușoară; evitați treptele.",
-                "en": "Only recommended in light rain; steps are risky."
+                "en": "Only recommended in light rain; steps are risky.",
+                "es": "Solo recomendable con lluvia ligera; los escalones son riesgosos."
               }
             }
           ],
@@ -513,6 +545,13 @@
               "The Jewish History Museum is a great indoor alternative in the heart of the city.",
               "Umbrellas can be tricky on the bridges due to wind; raincoats are more practical.",
               "Many cafes along Rambla de la Llibertat feature large, protective awnings."
+            ],
+            "es": [
+              "Los pórticos de la Plaça de la Independència son el mejor refugio durante los chaparrones repentinos.",
+              "Lleva zapatos con buena suela, ya que las piedras del casco antiguo se vuelven increíblemente resbaladizas.",
+              "El Museo de Historia de los Judíos es una gran alternativa interior en el corazón de la ciudad.",
+              "Los paraguas pueden ser incómodos en los puentes por el viento; los impermeables son más prácticos.",
+              "Muchos cafés a lo largo de la Rambla de la Llibertat cuentan con grandes toldos protectores."
             ]
           }
         },
@@ -521,7 +560,8 @@
             "de": "Ein frischer Wintermorgen an der Plaça de la Independència startet oft mit klarem blauem Himmel. Mittags wärmt die Sonne die Steine des jüdischen Viertels, doch in den Schatten ist es kühl. Der Nachmittag bietet auf den Stadtmauern die beste Aussicht, bevor die Sonne gegen 17:30 Uhr untergeht. Den Abend verbringt man am besten bei einer heißen Schokolade in der Nähe der Onyar-Häuser.",
             "hu": "A friss téli reggel a Plaça de la Independència téren gyakran tiszta kék éggel indul. Délben a nap felmelegíti a Zsidó negyed köveit, de az árnyékban hűvös van. Délután a városfalról nyílik a legszebb kilátás, mielőtt 17:30 körül lemegy a nap. Az estét érdemes egy forró csokoládéval zárni az Onyar-folyó házai mellett.",
             "ro": "O dimineață răcoroasă de iarnă în Plaça de la Independència începe adesea cu un cer senin. La prânz, soarele încălzește pietrele din cartierul evreiesc, dar la umbră este frig. După-amiaza oferă cele mai bune priveliști de pe ziduri înainte de apusul de la ora 17:30. Seara se încheie perfect cu o ciocolată caldă lângă râul Onyar.",
-            "en": "A crisp winter morning at Independence Square often starts with brilliant blue skies. By midday, the sun warms the stones of the Jewish Quarter, but the shade remains chilly. The afternoon provides the clearest views from the city walls before the 5:30 PM sunset. Spend the evening enjoying a thick hot chocolate near the Onyar river houses."
+            "en": "A crisp winter morning at Independence Square often starts with brilliant blue skies. By midday, the sun warms the stones of the Jewish Quarter, but the shade remains chilly. The afternoon provides the clearest views from the city walls before the 5:30 PM sunset. Spend the evening enjoying a thick hot chocolate near the Onyar river houses.",
+            "es": "Una fría mañana de invierno en la Plaça de la Independència suele comenzar con un cielo azul brillante. Al mediodía, el sol calienta las piedras del Barrio Judío, pero la sombra sigue siendo fresca. La tarde ofrece las vistas más claras desde las murallas antes del ocaso a las 17:30. Pasa la noche disfrutando de un espeso chocolate caliente cerca de las casas del Onyar."
           },
           "stops": [
             {
@@ -530,7 +570,8 @@
                 "de": "Die Cafés haben hier oft Außenheizungen.",
                 "hu": "A kávézók itt gyakran használnak kültéri fűtést.",
                 "ro": "Cafenelele de aici au adesea încălzitoare exterioare.",
-                "en": "Cafes here often have outdoor heaters available."
+                "en": "Cafes here often have outdoor heaters available.",
+                "es": "Los cafés aquí suelen disponer de calentadores exteriores."
               }
             },
             {
@@ -539,7 +580,8 @@
                 "de": "Perfektes Fotolicht am späten Vormittag.",
                 "hu": "Tökéletes fotófények késő délelőtt.",
                 "ro": "Lumină perfectă pentru fotografii dimineața târziu.",
-                "en": "Perfect photographic light in the late morning."
+                "en": "Perfect photographic light in the late morning.",
+                "es": "Luz fotográfica perfecta a última hora de la mañana."
               }
             },
             {
@@ -548,7 +590,8 @@
                 "de": "Die Wintersonne lässt die Farben leuchten.",
                 "hu": "A téli napfény kiemeli a házak színeit.",
                 "ro": "Soarele de iarnă scoate în evidență culorile.",
-                "en": "Winter sun makes the facade colors pop."
+                "en": "Winter sun makes the facade colors pop.",
+                "es": "El sol invernal hace resaltar los colores de las fachadas."
               }
             },
             {
@@ -557,7 +600,8 @@
                 "de": "In den schmalen Gassen ist es kühler; Schal einpacken.",
                 "hu": "A szűk utcákban hűvösebb van; sál ajánlott.",
                 "ro": "E mai frig pe străzile înguste; luați un fular.",
-                "en": "Narrow alleys stay cool; bring a scarf."
+                "en": "Narrow alleys stay cool; bring a scarf.",
+                "es": "Los callejones estrechos se mantienen frescos; lleva una bufanda."
               }
             },
             {
@@ -566,7 +610,8 @@
                 "de": "Die Kirche ist innen sehr kalt; Mantel anlassen.",
                 "hu": "A templom belül nagyon hideg; ne vegye le a kabátot.",
                 "ro": "Catedrala este foarte rece; păstrați haina.",
-                "en": "The interior is very cold; keep your coat on."
+                "en": "The interior is very cold; keep your coat on.",
+                "es": "El interior es muy frío; mantén el abrigo puesto."
               }
             },
             {
@@ -575,7 +620,8 @@
                 "de": "Im Winter oft weniger überlaufen.",
                 "hu": "Télen gyakran sokkal kevesebb a látogató.",
                 "ro": "Iarna este mult mai puțin aglomerat aici.",
-                "en": "Much less crowded during the winter months."
+                "en": "Much less crowded during the winter months.",
+                "es": "Mucho menos concurrido durante los meses de invierno."
               }
             },
             {
@@ -584,7 +630,8 @@
                 "de": "Die Gärten sind auch im Winter reizvoll.",
                 "hu": "A kertek télen is hangulatosak.",
                 "ro": "Grădinile sunt fermecătoare chiar și iarna.",
-                "en": "The gardens remain charming even in winter."
+                "en": "The gardens remain charming even in winter.",
+                "es": "Los jardines siguen siendo encantadores incluso en invierno."
               }
             },
             {
@@ -593,7 +640,8 @@
                 "de": "Beste Fernsicht auf die Pyrenäen im Norden.",
                 "hu": "A legjobb kilátás északra a Pireneusokra.",
                 "ro": "Cea mai bună vedere spre Pirinei la nord.",
-                "en": "Best distant views of the Pyrenees to the north."
+                "en": "Best distant views of the Pyrenees to the north.",
+                "es": "Mejores vistas lejanas de los Pirineos al norte."
               }
             }
           ],
@@ -625,6 +673,13 @@
               "Try 'Xuxos', a local pastry that is best served warm.",
               "Local museums are well-heated and offer a good warm-up break.",
               "Winter light is softer and better for architectural photography."
+            ],
+            "es": [
+              "El atardecer puede ser tan temprano como a las 17:25 en diciembre; planifica en consecuencia.",
+              "El viento en las murallas puede ser cortante; lleva un gorro caliente.",
+              "Prueba los 'Xuxos', un dulce local que se sirve mejor caliente.",
+              "Los museos locales están bien calefactados y ofrecen una buena pausa para entrar en calor.",
+              "La luz invernal es más suave y mejor para la fotografía arquitectónica."
             ]
           }
         }
@@ -643,7 +698,8 @@
             "de": "Plaça de la Independència",
             "hu": "Függetlenség tere",
             "ro": "Plaça de la Independència",
-            "en": "Plaça de la Independència"
+            "en": "Plaça de la Independència",
+            "es": "Plaça de la Independència"
           },
           "coords": [
             2.8214,
@@ -658,7 +714,8 @@
             "de": "Ein idealer Ausgangspunkt. Schließen Sie Ihr Fahrrad an und genießen Sie einen Kaffee.",
             "hu": "Ideális kiindulópont. Zárja le a biciklit, és igyon egy kávét.",
             "ro": "Un punct de plecare ideal. Legați-vă bicicleta și savurați o cafea.",
-            "en": "An ideal starting point. Lock up your bike and enjoy a coffee."
+            "en": "An ideal starting point. Lock up your bike and enjoy a coffee.",
+            "es": "Un punto de partida ideal. Aparca la bici y disfruta de un café."
           }
         },
         {
@@ -666,7 +723,8 @@
             "de": "Eiffels-Brücke (Pont de Ferro)",
             "hu": "Eiffel-híd",
             "ro": "Podul Eiffel",
-            "en": "Eiffel Bridge"
+            "en": "Eiffel Bridge",
+            "es": "Puente Eiffel"
           },
           "coords": [
             2.8248,
@@ -681,7 +739,8 @@
             "de": "Schieben Sie Ihr Fahrrad über die Brücke, um die Aussicht auf die Onyar-Häuser zu genießen.",
             "hu": "Tolja át a biciklit a hídon, hogy élvezze az Onyar-házakra nyíló kilátást.",
             "ro": "Împingeți bicicleta peste pod pentru a admira vederea caselor de pe Onyar.",
-            "en": "Walk your bike across the bridge to enjoy the view of the Onyar houses."
+            "en": "Walk your bike across the bridge to enjoy the view of the Onyar houses.",
+            "es": "Camina con la bici por el puente para disfrutar de la vista de las casas del Onyar."
           }
         },
         {
@@ -689,7 +748,8 @@
             "de": "Häuser am Onyar",
             "hu": "Onyar-parti házak",
             "ro": "Casele de pe Onyar",
-            "en": "Onyar Houses"
+            "en": "Onyar Houses",
+            "es": "Casas del Onyar"
           },
           "coords": [
             2.8255,
@@ -704,7 +764,8 @@
             "de": "Fahren Sie am Flussufer entlang, aber seien Sie vorsichtig mit Fußgängern.",
             "hu": "Bringázzon végig a folyóparton, de vigyázzon a gyalogosokra.",
             "ro": "Pedalați pe malul râului, dar aveți grijă la pietoni.",
-            "en": "Cycle along the riverbank, but be careful with pedestrians."
+            "en": "Cycle along the riverbank, but be careful with pedestrians.",
+            "es": "Pedalea por la orilla del río, pero ten cuidado con los peatones."
           }
         },
         {
@@ -712,7 +773,8 @@
             "de": "Jüdisches Viertel (El Call)",
             "hu": "Zsidónegyed (El Call)",
             "ro": "Cartierul Evreiesc (El Call)",
-            "en": "Jewish Quarter (El Call)"
+            "en": "Jewish Quarter (El Call)",
+            "es": "Barrio Judío (El Call)"
           },
           "coords": [
             2.826,
@@ -727,7 +789,8 @@
             "de": "Schließen Sie Ihr Fahrrad am Eingang des Viertels an. Die Gassen sind zu eng zum Radfahren.",
             "hu": "Zárja le a biciklit a negyed bejáratánál. A sikátorok túl szűkek a kerékpározáshoz.",
             "ro": "Legați-vă bicicleta la intrarea în cartier. Aleile sunt prea înguste pentru ciclism.",
-            "en": "Lock your bike at the entrance to the quarter. The alleys are too narrow for cycling."
+            "en": "Lock your bike at the entrance to the quarter. The alleys are too narrow for cycling.",
+            "es": "Asegura tu bicicleta en la entrada del barrio. Las callejuelas son demasiado estrechas para circular en bici."
           }
         },
         {
@@ -735,7 +798,8 @@
             "de": "Kathedrale von Girona",
             "hu": "Gironai katedrális",
             "ro": "Catedrala din Girona",
-            "en": "Girona Cathedral"
+            "en": "Girona Cathedral",
+            "es": "Catedral de Girona"
           },
           "coords": [
             2.827,
@@ -750,7 +814,8 @@
             "de": "Das ist ein steiler Anstieg. Vielleicht möchten Sie Ihr Fahrrad schieben.",
             "hu": "Ez egy meredek emelkedő. Lehet, hogy tolnia kell a kerékpárt.",
             "ro": "Aceasta este o urcare abruptă. S-ar putea să vreți să împingeți bicicleta.",
-            "en": "This is a steep climb. You might want to walk your bike up."
+            "en": "This is a steep climb. You might want to walk your bike up.",
+            "es": "Es una subida empinada. Puede que prefieras subir la bici caminando."
           }
         },
         {
@@ -758,7 +823,8 @@
             "de": "Kloster Sant Pere de Galligants",
             "hu": "Sant Pere de Galligants kolostor",
             "ro": "Mănăstirea Sant Pere de Galligants",
-            "en": "Monastery of Sant Pere de Galligants"
+            "en": "Monastery of Sant Pere de Galligants",
+            "es": "Monasterio de Sant Pere de Galligants"
           },
           "coords": [
             2.828,
@@ -773,7 +839,8 @@
             "de": "Von der Kathedrale aus eine leichte Abfahrt. Es gibt Fahrradständer in der Nähe.",
             "hu": "A katedrálistól könnyű lejtő. A közelben vannak kerékpártárolók.",
             "ro": "O coborâre ușoară de la catedrală. Există suporturi pentru biciclete în apropiere.",
-            "en": "An easy downhill ride from the cathedral. There are bike racks nearby."
+            "en": "An easy downhill ride from the cathedral. There are bike racks nearby.",
+            "es": "Bajada fácil desde la catedral. Hay aparcabicis cerca."
           }
         },
         {
@@ -781,7 +848,8 @@
             "de": "Parc de la Devesa",
             "hu": "Devesa Park",
             "ro": "Parcul Devesa",
-            "en": "Devesa Park"
+            "en": "Devesa Park",
+            "es": "Parque de la Devesa"
           },
           "coords": [
             2.816,
@@ -796,7 +864,8 @@
             "de": "Beenden Sie den Tag mit einer entspannten Fahrt durch den größten Stadtpark Kataloniens.",
             "hu": "Zárja a napot egy pihentető kerékpározással Katalónia legnagyobb városi parkjában.",
             "ro": "Încheiați ziua cu o plimbare relaxantă prin cel mai mare parc urban din Catalonia.",
-            "en": "End the day with a relaxing ride through the largest urban park in Catalonia."
+            "en": "End the day with a relaxing ride through the largest urban park in Catalonia.",
+            "es": "Termina el día con un paseo relajante por el mayor parque urbano de Cataluña."
           }
         }
       ],
@@ -804,7 +873,8 @@
         "de": "Girona mit dem Fahrrad zu erkunden, bietet eine einzigartige Perspektive. Beginnen Sie am Morgen auf der Plaça de la Independència, radeln Sie über die Eiffels-Brücke und entlang des Onyar-Flusses. Zu Mittag stellen Sie Ihr Fahrrad ab, um die steilen, engen Gassen des jüdischen Viertels und die majestätische Kathedrale zu Fuß zu erkunden. Der Nachmittag führt Sie bergab zum historischen Kloster Sant Pere de Galligants. Beenden Sie Ihren Tag mit einer gemütlichen Fahrt durch die schattigen Alleen des weitläufigen Devesa-Parks, eine perfekte Abkühlung nach den Hügeln der Altstadt.",
         "hu": "Girona felfedezése kerékpárral egyedi perspektívát kínál. Induljon reggel a Függetlenség térről, tekerjen át az Eiffel-hídon és az Onyar folyó mentén. Délben tegye le a biciklit, hogy gyalog fedezze fel a zsidónegyed meredek, szűk sikátorait és a fenséges katedrálist. A délután lefelé vezet a történelmi Sant Pere de Galligants kolostorhoz. Zárja a napot egy kellemes tekeréssel a hatalmas Devesa park árnyas útjain, ami tökéletes levezetés az óváros dombjai után.",
         "ro": "Explorarea Gironei pe bicicletă oferă o perspectivă unică. Începeți dimineața în Plaça de la Independència, pedalați peste Podul Eiffel și de-a lungul râului Onyar. La prânz, lăsați bicicleta pentru a explora pe jos aleile abrupte și înguste din Cartierul Evreiesc și catedrala maiestuoasă. După-amiaza vă duce la vale spre mănăstirea istorică Sant Pere de Galligants. Încheiați ziua cu o plimbare relaxantă pe aleile umbrite din vastul Parc Devesa, o răcorire perfectă după dealurile orașului vechi.",
-        "en": "Exploring Girona by bike offers a unique perspective. Start in the morning at Plaça de la Independència, pedal across the Eiffel Bridge and along the Onyar River. At midday, ditch the bike to explore the steep, narrow alleys of the Jewish Quarter and the majestic Cathedral on foot. The afternoon takes you downhill to the historic Sant Pere de Galligants monastery. End your day with a leisurely ride through the shady avenues of the vast Devesa Park, a perfect cool-down after the old town's hills."
+        "en": "Exploring Girona by bike offers a unique perspective. Start in the morning at Plaça de la Independència, pedal across the Eiffel Bridge and along the Onyar River. At midday, ditch the bike to explore the steep, narrow alleys of the Jewish Quarter and the majestic Cathedral on foot. The afternoon takes you downhill to the historic Sant Pere de Galligants monastery. End your day with a leisurely ride through the shady avenues of the vast Devesa Park, a perfect cool-down after the old town's hills.",
+        "es": "Explorar Girona en bicicleta ofrece una perspectiva única. Empieza por la mañana en la Plaça de la Independència, cruza el Puente Eiffel y sigue por el río Onyar. Al mediodía, deja la bici para recorrer a pie las empinadas y estrechas callejuelas del Barrio Judío y la majestuosa Catedral. Por la tarde bajarás hasta el histórico monasterio de Sant Pere de Galligants. Termina la jornada con un tranquilo paseo por las sombrías avenidas de la amplia Devesa, un enfriamiento perfecto tras las cuestas del casco antiguo."
       },
       "gastro_picks": {
         "de": [
@@ -1000,6 +1070,12 @@
           "The old town has a lot of cobblestones, which can be bumpy.",
           "Always lock your bike securely, even if leaving it for just a few minutes.",
           "Be mindful of pedestrians, especially in the busy areas."
+        ],
+        "es": [
+          "Alquila una bici urbana o una e-bike para facilitar las subidas.",
+          "El casco antiguo tiene muchos empedrados, que pueden resultar bacheados.",
+          "Siempre asegura bien tu bici, incluso si la dejas solo unos minutos.",
+          "Respeta a los peatones, especialmente en las zonas concurridas."
         ]
       },
       "variants": {
@@ -1008,7 +1084,8 @@
             "de": "Morgens ist Vorsicht auf dem Weg zur Plaça de la Independència geboten, da die Straßen nass sind. Die Eiffel-Brücke überquert man mittags am besten schiebend, da das Metall rutschig ist. Nachmittags im jüdischen Viertel ist das Rad eher hinderlich; parken Sie es sicher. Der Tag endet im Devesa-Park, wo die breiten Wege auch bei Regen gut befahrbar sind.",
             "hu": "Reggel óvatosan közelítsük meg a Plaça de la Independència teret a vizes aszfalton. Délben az Eiffel-hidat érdemes tolva átlépni a csúszós fémfelület miatt. Délután a Zsidó negyedben a bicikli inkább teher; érdemes lelakatolni. A nap a Devesa parkban zárul, ahol a széles utak esőben is jól járhatóak.",
             "ro": "Dimineața necesită prudență pe drumul spre Plaça de la Independència din cauza asfaltului umed. La prânz, traversați Podul Eiffel pe lângă bicicletă, metalul este alunecos. După-amiaza în cartierul evreiesc, bicicleta e un impediment; parcați-o sigur. Ziua se încheie în Parcul Devesa, pe alei late și practicabile.",
-            "en": "Morning requires caution on the wet roads leading to Independence Square. By midday, it's best to walk your bike across the Eiffel Bridge as the metal slats are treacherous when wet. In the afternoon, the Jewish Quarter is best explored by parking your bike nearby. End the day at Devesa Park, where wide paths remain rideable even in the rain."
+            "en": "Morning requires caution on the wet roads leading to Independence Square. By midday, it's best to walk your bike across the Eiffel Bridge as the metal slats are treacherous when wet. In the afternoon, the Jewish Quarter is best explored by parking your bike nearby. End the day at Devesa Park, where wide paths remain rideable even in the rain.",
+            "es": "Por la mañana hay que tener precaución con las calzadas húmedas que llevan a la Plaça de la Independència. Al mediodía, es mejor cruzar el Puente Eiffel andando, ya que las lamas metálicas resbalan cuando están mojadas. Por la tarde, el Barrio Judío se explora mejor aparcando la bici cerca. Termina el día en el Parque de la Devesa, donde los senderos anchos se pueden recorrer incluso con lluvia."
           },
           "stops": [
             {
@@ -1017,7 +1094,8 @@
                 "de": "Fahrradständer unter den Arkaden nutzen.",
                 "hu": "Használja az árkádok alatti tárolókat.",
                 "ro": "Folosiți rastelele de sub arcade.",
-                "en": "Use the bike racks under the arcades."
+                "en": "Use the bike racks under the arcades.",
+                "es": "Usa los aparcabicis bajo los soportales."
               }
             },
             {
@@ -1026,7 +1104,8 @@
                 "de": "Absolut nicht befahren; Sturzgefahr!",
                 "hu": "Szigorúan tilos tekerni rajta; esésveszély!",
                 "ro": "Nu pedalați aici; risc mare de cădere!",
-                "en": "Do not ride across; high risk of falling!"
+                "en": "Do not ride across; high risk of falling!",
+                "es": "No cruces montado; ¡alto riesgo de caída!"
               }
             },
             {
@@ -1035,7 +1114,8 @@
                 "de": "Kurzer Fotostopp; Bremsen auf Nässe prüfen.",
                 "hu": "Rövid megálló; ellenőrizze a fékeket.",
                 "ro": "Oprire scurtă; verificați frânele pe ud.",
-                "en": "Short stop; check brakes on wet surfaces."
+                "en": "Short stop; check brakes on wet surfaces.",
+                "es": "Parada corta; revisa los frenos en superficies mojadas."
               }
             },
             {
@@ -1044,7 +1124,8 @@
                 "de": "Rad draußen lassen; Gassen sind zu eng.",
                 "hu": "Hagyja kint a gépet; az utcák túl szűkek.",
                 "ro": "Lăsați bicicleta afară; străzile sunt înguste.",
-                "en": "Leave your bike outside; alleys are too narrow."
+                "en": "Leave your bike outside; alleys are too narrow.",
+                "es": "Deja la bici fuera; las callejuelas son demasiado estrechas."
               }
             },
             {
@@ -1053,7 +1134,8 @@
                 "de": "Parken am Fuße der großen Treppe.",
                 "hu": "Parkolás a nagy lépcsősor aljánál.",
                 "ro": "Parcați la baza scărilor mari.",
-                "en": "Park at the base of the grand staircase."
+                "en": "Park at the base of the grand staircase.",
+                "es": "Aparca en la base de la gran escalinata."
               }
             },
             {
@@ -1062,7 +1144,8 @@
                 "de": "Ruhiger Platz zum Unterstellen.",
                 "hu": "Csendes hely az eső elleni védelemhez.",
                 "ro": "Loc liniștit pentru a vă adăposti.",
-                "en": "Quiet spot to seek temporary shelter."
+                "en": "Quiet spot to seek temporary shelter.",
+                "es": "Lugar tranquilo para buscar refugio temporal."
               }
             },
             {
@@ -1071,7 +1154,8 @@
                 "de": "Vorsicht vor tiefen Pfützen auf den Erdwegen.",
                 "hu": "Vigyázat a mély tócsákkal a földutakon.",
                 "ro": "Atenție la bălțile mari de pe alei.",
-                "en": "Watch out for deep puddles on dirt paths."
+                "en": "Watch out for deep puddles on dirt paths.",
+                "es": "Cuidado con los charcos profundos en los caminos de tierra."
               }
             }
           ],
@@ -1103,6 +1187,13 @@
               "Girona's metal bridges are the primary hazard for cyclists in rain.",
               "Use mudguards to protect yourself from road spray.",
               "Turn on your lights as visibility is often decreased."
+            ],
+            "es": [
+              "Comprueba los frenos con frecuencia al rodar en mojado.",
+              "Evita circular sobre las marcas viales pintadas; son extremadamente resbaladizas.",
+              "Los puentes metálicos de Girona son el principal peligro para ciclistas con lluvia.",
+              "Usa guardabarros para protegerte del salpicado de la carretera.",
+              "Enciende las luces, la visibilidad a menudo disminuye."
             ]
           }
         },
@@ -1111,7 +1202,8 @@
             "de": "Morgens ist die Luft klirrend kalt an der Plaça de la Independència, Handschuhe sind Pflicht. Mittags genießt man die Fahrt entlang der Onyar-Häuser bei strahlendem Sonnenschein. Nachmittags im Devesa-Park ist die Luft frisch, aber die Wege sind trocken und gut befahrbar. Den Tag beendet man früh, bevor die Kälte nach Sonnenuntergang schnell zunimmt.",
             "hu": "Reggel a levegő metszően hideg a Plaça de la Independència környékén, a kesztyű kötelező. Délben a napsütésben élvezetes a tekerés az Onyar-folyó mentén. Délután a Devesa parkban friss a levegő, az utak szárazak és jól járhatóak. Érdemes korán befejezni a túrát, mert naplemente után gyorsan hűl az idő.",
             "ro": "Dimineața aerul este tăios în Plaça de la Independència, mănușile sunt obligatorii. La prânz, bucurați-vă de drumul de-a lungul râului Onyar sub soarele strălucitor. După-amiaza în Parcul Devesa aerul este proaspăt, iar aleile sunt uscate. Încheiați tura devreme, deoarece frigul se intensifică rapid după apus.",
-            "en": "Morning air is biting cold at Independence Square; gloves are essential. By midday, enjoy riding past the Onyar houses under brilliant winter sunshine. In the afternoon, the Devesa Park paths are crisp and dry, perfect for cycling. Wrap up your ride early as temperatures drop sharply once the sun goes down."
+            "en": "Morning air is biting cold at Independence Square; gloves are essential. By midday, enjoy riding past the Onyar houses under brilliant winter sunshine. In the afternoon, the Devesa Park paths are crisp and dry, perfect for cycling. Wrap up your ride early as temperatures drop sharply once the sun goes down.",
+            "es": "La mañana es mordazmente fría en la Plaça de la Independència; los guantes son imprescindibles. Al mediodía, disfruta de las casas del Onyar bajo un brillante sol invernal. Por la tarde, los caminos de la Devesa están secos y crujientes, perfectos para pedalear. Termina temprano, ya que las temperaturas bajan mucho al ponerse el sol."
           },
           "stops": [
             {
@@ -1120,7 +1212,8 @@
                 "de": "Aufwärmen mit einem Kaffee vor dem Start.",
                 "hu": "Melegedjen fel egy kávéval indulás előtt.",
                 "ro": "Încălziți-vă cu o cafea înainte de start.",
-                "en": "Warm up with a coffee before you start."
+                "en": "Warm up with a coffee before you start.",
+                "es": "Calienta con un café antes de empezar."
               }
             },
             {
@@ -1129,7 +1222,8 @@
                 "de": "Der Wind auf der Brücke kann sehr kalt sein.",
                 "hu": "A hídon a szél nagyon hideg lehet.",
                 "ro": "Vântul de pe pod poate fi foarte rece.",
-                "en": "The wind on the bridge can be very cold."
+                "en": "The wind on the bridge can be very cold.",
+                "es": "El viento en el puente puede ser muy frío."
               }
             },
             {
@@ -1138,7 +1232,8 @@
                 "de": "Beste Zeit für helle Winterfotos.",
                 "hu": "A legjobb időpont a világos téli fotókhoz.",
                 "ro": "Cel mai bun moment pentru poze luminoase.",
-                "en": "Best time for bright winter photography."
+                "en": "Best time for bright winter photography.",
+                "es": "Mejor momento para fotografía invernal con buena luz."
               }
             },
             {
@@ -1147,7 +1242,8 @@
                 "de": "Zu Fuß erkunden; Rad sicher abstellen.",
                 "hu": "Gyalogosan fedezze fel; zárja le a gépet.",
                 "ro": "Explorați pe jos; parcați bicicleta sigur.",
-                "en": "Explore on foot; park your bike securely."
+                "en": "Explore on foot; park your bike securely.",
+                "es": "Explora a pie; aparca la bici de forma segura."
               }
             },
             {
@@ -1156,7 +1252,8 @@
                 "de": "Die Auffahrt zur Kathedrale wärmt auf.",
                 "hu": "A katedrálishoz vezető emelkedő felmelegíti.",
                 "ro": "Urcarea spre catedrală vă va încălzi.",
-                "en": "The climb to the cathedral will warm you up."
+                "en": "The climb to the cathedral will warm you up.",
+                "es": "La subida a la catedral te calentará."
               }
             },
             {
@@ -1165,7 +1262,8 @@
                 "de": "Sonnige Plätze vor dem Kloster suchen.",
                 "hu": "Keressen napos helyet a kolostor előtt.",
                 "ro": "Căutați locuri însorite în fața mănăstirii.",
-                "en": "Look for sunny spots in front of the monastery."
+                "en": "Look for sunny spots in front of the monastery.",
+                "es": "Busca los puntos soleados frente al monasterio."
               }
             },
             {
@@ -1174,7 +1272,8 @@
                 "de": "Wunderschön im Winterlicht, aber schattig.",
                 "hu": "Gyönyörű téli fények, de árnyékos helyek.",
                 "ro": "Frumos în lumina iernii, dar cu multă umbră.",
-                "en": "Beautiful in winter light but mostly shaded."
+                "en": "Beautiful in winter light but mostly shaded.",
+                "es": "Bonito con la luz invernal pero en su mayoría sombreado."
               }
             }
           ],
@@ -1206,6 +1305,13 @@
               "Be aware that batteries (e-bike/lights) drain faster in the cold.",
               "Bring sunglasses to combat the low-hanging winter sun.",
               "The paths in Devesa Park can be frosty in the mornings."
+            ],
+            "es": [
+              "Lleva ropa cortavientos, especialmente para cruzar puentes.",
+              "La adherencia de los neumáticos puede reducirse en asfalto muy frío.",
+              "Ten en cuenta que las baterías (e-bike/luces) se descargan más rápido con frío.",
+              "Lleva gafas de sol para combatir el sol bajo de invierno.",
+              "Los caminos de la Devesa pueden estar helados por la mañana."
             ]
           }
         }
@@ -1224,7 +1330,8 @@
             "de": "Parkplatz Berenguer Carnicer",
             "hu": "Berenguer Carnicer parkoló",
             "ro": "Parcarea Berenguer Carnicer",
-            "en": "Berenguer Carnicer Parking"
+            "en": "Berenguer Carnicer Parking",
+            "es": "Aparcamiento Berenguer Carnicer"
           },
           "coords": [
             2.82,
@@ -1239,7 +1346,8 @@
             "de": "Parken Sie hier, um den ersten Teil der Stadt zu erkunden.",
             "hu": "Parkoljon le itt, hogy felfedezze a város első részét.",
             "ro": "Parcați aici pentru a explora prima parte a orașului.",
-            "en": "Park here to explore the first cluster of sights."
+            "en": "Park here to explore the first cluster of sights.",
+            "es": "Aparca aquí para explorar el primer grupo de puntos de interés."
           }
         },
         {
@@ -1247,7 +1355,8 @@
             "de": "Plaça de la Independència",
             "hu": "Függetlenség tere",
             "ro": "Plaça de la Independència",
-            "en": "Plaça de la Independència"
+            "en": "Plaça de la Independència",
+            "es": "Plaça de la Independència"
           },
           "coords": [
             2.8214,
@@ -1263,7 +1372,8 @@
             "de": "Ein kurzer Spaziergang vom Parkplatz aus. Genießen Sie die neoklassizistische Architektur.",
             "hu": "Rövid séta a parkolótól. Élvezze a neoklasszikus építészetet.",
             "ro": "O scurtă plimbare de la parcare. Bucurați-vă de arhitectura neoclasică.",
-            "en": "A short walk from the parking lot. Enjoy the neoclassical architecture."
+            "en": "A short walk from the parking lot. Enjoy the neoclassical architecture.",
+            "es": "A poca distancia caminando desde el aparcamiento. Disfruta de la arquitectura neoclásica."
           }
         },
         {
@@ -1271,7 +1381,8 @@
             "de": "Häuser am Onyar & Eiffels-Brücke",
             "hu": "Onyar-parti házak és Eiffel-híd",
             "ro": "Casele de pe Onyar și Podul Eiffel",
-            "en": "Onyar Houses & Eiffel Bridge"
+            "en": "Onyar Houses & Eiffel Bridge",
+            "es": "Casas del Onyar y Puente Eiffel"
           },
           "coords": [
             2.8248,
@@ -1287,7 +1398,8 @@
             "de": "Spazieren Sie über die Brücken, um die besten Fotos zu machen.",
             "hu": "Sétáljon át a hidakon a legjobb fotókért.",
             "ro": "Plimbați-vă peste poduri pentru cele mai bune fotografii.",
-            "en": "Stroll across the bridges to get the best photographs."
+            "en": "Stroll across the bridges to get the best photographs.",
+            "es": "Pasea por los puentes para obtener las mejores fotografías."
           }
         },
         {
@@ -1295,7 +1407,8 @@
             "de": "Parkplatz Kathedrale",
             "hu": "Katedrális parkoló",
             "ro": "Parcarea Catedralei",
-            "en": "Cathedral Area Parking"
+            "en": "Cathedral Area Parking",
+            "es": "Aparcamiento zona catedral"
           },
           "coords": [
             2.828,
@@ -1311,7 +1424,8 @@
             "de": "Fahren Sie zum oberen Teil der Altstadt. Das Parken ist hier schwierig, seien Sie geduldig.",
             "hu": "Vezessen fel az óváros felső részébe. A parkolás itt nehézkes, legyen türelmes.",
             "ro": "Conduceți spre partea superioară a orașului vechi. Parcarea este dificilă aici, aveți răbdare.",
-            "en": "Drive to the upper part of the old town. Parking is difficult here, be patient."
+            "en": "Drive to the upper part of the old town. Parking is difficult here, be patient.",
+            "es": "Conduce hasta la parte alta del casco antiguo. Aparcar aquí es difícil, ten paciencia."
           }
         },
         {
@@ -1319,7 +1433,8 @@
             "de": "Jüdisches Viertel & Kathedrale",
             "hu": "Zsidónegyed és Katedrális",
             "ro": "Cartierul Evreiesc și Catedrala",
-            "en": "Jewish Quarter & Cathedral"
+            "en": "Jewish Quarter & Cathedral",
+            "es": "Barrio Judío y Catedral"
           },
           "coords": [
             2.8265,
@@ -1335,7 +1450,8 @@
             "de": "Erkunden Sie das Labyrinth und steigen Sie dann zur Kathedrale hinauf. Planen Sie Zeit für ein Mittagessen hier ein.",
             "hu": "Fedezze fel a labirintust, majd másszon fel a katedrálishoz. Tervezzen be itt egy ebédet.",
             "ro": "Explorați labirintul și apoi urcați la catedrală. Planificați timp pentru prânz aici.",
-            "en": "Explore the labyrinth and then climb to the cathedral. Plan for lunch time around here."
+            "en": "Explore the labyrinth and then climb to the cathedral. Plan for lunch time around here.",
+            "es": "Explora el laberinto y luego sube a la catedral. Planea comer por aquí."
           }
         },
         {
@@ -1343,7 +1459,8 @@
             "de": "Arabische Bäder",
             "hu": "Arab fürdők",
             "ro": "Băile Arabe",
-            "en": "Arab Baths"
+            "en": "Arab Baths",
+            "es": "Baños Árabes"
           },
           "coords": [
             2.8275,
@@ -1359,7 +1476,8 @@
             "de": "Nur einen kurzen Spaziergang von der Kathedrale entfernt, ein kühler Ort an einem heißen Tag.",
             "hu": "Csak egy rövid séta a katedrálistól, hűvös hely egy forró napon.",
             "ro": "La o scurtă plimbare de catedrală, un loc răcoros într-o zi fierbinte.",
-            "en": "Just a short walk from the cathedral, a cool spot on a hot day."
+            "en": "Just a short walk from the cathedral, a cool spot on a hot day.",
+            "es": "A poca distancia de la catedral, un lugar fresco en un día caluroso."
           }
         },
         {
@@ -1367,7 +1485,8 @@
             "de": "Stadtmauern (Passeig de la Muralla)",
             "hu": "Városfal",
             "ro": "Zidurile orașului",
-            "en": "City Walls"
+            "en": "City Walls",
+            "es": "Murallas de la ciudad"
           },
           "coords": [
             2.8285,
@@ -1383,7 +1502,8 @@
             "de": "Fahren Sie zu einem der Zugangspunkte der Mauer. Ein Spaziergang bei Sonnenuntergang ist unvergesslich.",
             "hu": "Vezessen el a fal egyik belépési pontjához. Egy naplementés séta felejthetetlen.",
             "ro": "Conduceți la unul dintre punctele de acces la zid. O plimbare la apus este de neuitat.",
-            "en": "Drive to one of the access points of the wall. A walk at sunset is unforgettable."
+            "en": "Drive to one of the access points of the wall. A walk at sunset is unforgettable.",
+            "es": "Conduce hasta uno de los accesos a la muralla. Un paseo al atardecer es inolvidable."
           }
         }
       ],
@@ -1391,7 +1511,8 @@
         "de": "Mit dem Auto lässt sich Girona effizient erkunden, indem man zwischen Parkplätzen wechselt. Am Morgen parken Sie in der Nähe des Flusses, um die Plaça de la Independència und die berühmten Brücken und bunten Häuser zu Fuß zu erkunden. Mittags fahren Sie in die Nähe der Kathedrale, parken erneut und tauchen in die hochgelegene Altstadt ein, erkunden das jüdische Viertel und essen zu Mittag. Am Nachmittag fahren Sie zu einem Zugangspunkt der Stadtmauer. Von dort aus erleben Sie bei einem langen Spaziergang auf den Mauern, wie die Stadt unter Ihnen in der Abendsonne erstrahlt.",
         "hu": "Autóval hatékonyan fedezheti fel Gironát a parkolók közötti váltással. Reggel parkoljon a folyó közelében, hogy gyalog fedezze fel a Függetlenség teret, a híres hidakat és a színes házakat. Délben vezessen fel a katedrális közelébe, parkoljon újra, és merüljön el a magasan fekvő óvárosban, fedezze fel a zsidónegyedet és ebédeljen. Délután vezessen a városfal egyik bejáratához. Onnan egy hosszú sétát tehet a falakon, és megnézheti, ahogy a város felragyog az esti napsütésben.",
         "ro": "Cu mașina, puteți explora eficient Girona schimbând locurile de parcare. Dimineața, parcați lângă râu pentru a explora pe jos Plaça de la Independència, faimoasele poduri și casele colorate. La prânz, conduceți lângă catedrală, parcați din nou și pătrundeți în orașul vechi de sus, explorând cartierul evreiesc și luând prânzul. După-amiaza, conduceți la un punct de acces la zidurile orașului. De acolo, o plimbare lungă pe ziduri vă permite să vedeți orașul luminându-se în soarele de seară.",
-        "en": "With a car, you can explore Girona efficiently by switching between parking clusters. In the morning, park near the river to explore Plaça de la Independència and the famous bridges and colourful houses on foot. At midday, drive up near the cathedral, park again, and delve into the upper old town, exploring the Jewish quarter and having lunch. In the afternoon, drive to an access point for the city walls. From there, a long walk along the ramparts lets you see the city light up in the evening sun."
+        "en": "With a car, you can explore Girona efficiently by switching between parking clusters. In the morning, park near the river to explore Plaça de la Independència and the famous bridges and colourful houses on foot. At midday, drive up near the cathedral, park again, and delve into the upper old town, exploring the Jewish quarter and having lunch. In the afternoon, drive to an access point for the city walls. From there, a long walk along the ramparts lets you see the city light up in the evening sun.",
+        "es": "Con coche puedes explorar Girona eficazmente cambiando entre los distintos aparcamientos. Por la mañana aparca cerca del río para recorrer a pie la Plaça de la Independència y los famosos puentes y casas coloridas. Al mediodía, sube en coche hacia la catedral, aparca de nuevo y adéntrate en la parte alta del casco antiguo, explorando el Barrio Judío y almorzando. Por la tarde, conduce hasta un acceso de las murallas. Desde allí, una larga caminata por los baluartes te permitirá ver la ciudad iluminada por el sol de la tarde."
       },
       "gastro_picks": {
         "de": [
@@ -1587,6 +1708,12 @@
           "Parking in the old town is nearly impossible. Use the designated parking garages and be prepared to pay.",
           "Be aware of one-way streets and limited traffic zones (ZTLs).",
           "Do not leave valuables visible in the car."
+        ],
+        "es": [
+          "Descarga un mapa offline, ya que el GPS puede ser poco fiable en las calles estrechas.",
+          "Aparcar en el casco antiguo es casi imposible. Usa los parkings habilitados y prepárate para pagar.",
+          "Ten en cuenta las calles de sentido único y las zonas de tráfico limitado (ZTL).",
+          "No dejes objetos de valor a la vista en el coche."
         ]
       },
       "variants": {
@@ -1595,7 +1722,8 @@
             "de": "Der Tag beginnt bequem mit der Parkplatzsuche am Berenguer Carnicer. Mittags nutzt man das Auto, um trocken zwischen den Onyar-Häusern und dem Kathedralen-Viertel zu wechseln. Den Nachmittag verbringt man in den Arabischen Bädern, bevor man zur Stadtmauer fährt. Der Regen stört beim Fahren kaum, macht aber die kurzen Fußwege zwischen Parkplatz und Sehenswürdigkeit nötig.",
             "hu": "A nap kényelmesen indul a Berenguer Carnicer parkolóban. Délben az autót használjuk, hogy szárazon jussunk át az Onyar-házaktól a Székesegyház környékére. A délutánt az Arab fürdőben töltjük, majd a városfal felé vesszük az irányt. Az eső a vezetést nem zavarja, de a parkoló és a látnivalók közötti rövid sétákhoz esernyő kell.",
             "ro": "Ziua începe confortabil cu parcarea la Berenguer Carnicer. La prânz folosim mașina pentru a trece uscați de la casele Onyar spre zona Catedralei. După-amiaza o petrecem la Băile Arabe înainte de a merge spre ziduri. Ploaia nu deranjează condusul, dar necesită umbrele pentru distanțele scurte de la parcare.",
-            "en": "The day starts conveniently by parking at Berenguer Carnicer. By midday, use the car to stay dry while moving between the Onyar houses and the Cathedral area. Spend the afternoon at the Arab Baths before driving toward the walls. The rain barely affects driving, but you'll need an umbrella for the short walks from the parking spots."
+            "en": "The day starts conveniently by parking at Berenguer Carnicer. By midday, use the car to stay dry while moving between the Onyar houses and the Cathedral area. Spend the afternoon at the Arab Baths before driving toward the walls. The rain barely affects driving, but you'll need an umbrella for the short walks from the parking spots.",
+            "es": "El día comienza cómodamente aparcando en Berenguer Carnicer. Al mediodía, usa el coche para moverte entre las casas del Onyar y la zona de la Catedral sin mojarte. Pasa la tarde en los Baños Árabes antes de conducir hacia las murallas. La lluvia apenas afecta a la conducción, pero necesitarás paraguas para los cortos paseos desde los aparcamientos."
           },
           "stops": [
             {
@@ -1604,7 +1732,8 @@
                 "de": "Zentraler Startpunkt, oft schnell voll bei Regen.",
                 "hu": "Központi starthely, esőben hamar megtelik.",
                 "ro": "Punct central, se umple rapid pe ploaie.",
-                "en": "Central starting point, fills up fast when raining."
+                "en": "Central starting point, fills up fast when raining.",
+                "es": "Punto de partida céntrico, se llena rápido cuando llueve."
               }
             },
             {
@@ -1613,7 +1742,8 @@
                 "de": "Kurzer Sprint vom Parkplatz zu den Arkaden.",
                 "hu": "Rövid sprint a parkolótól az árkádokig.",
                 "ro": "Sprint scurt de la parcare la arcade.",
-                "en": "Short dash from the parking to the arcades."
+                "en": "Short dash from the parking to the arcades.",
+                "es": "Cortísima carrera desde el aparcamiento hasta los soportales."
               }
             },
             {
@@ -1622,7 +1752,8 @@
                 "de": "Parken Sie kurz im Parkhaus 'Plaça del Lleó'.",
                 "hu": "Parkoljon rövid időre a 'Plaça del Lleó' házban.",
                 "ro": "Parcați scurt în parcarea 'Plaça del Lleó'.",
-                "en": "Short-term parking available at 'Plaça del Lleó'."
+                "en": "Short-term parking available at 'Plaça del Lleó'.",
+                "es": "Aparcamiento de corta duración disponible en 'Plaça del Lleó'."
               }
             },
             {
@@ -1631,7 +1762,8 @@
                 "de": "Wenig überdachte Plätze direkt oben.",
                 "hu": "Kevés fedett hely van közvetlenül fent.",
                 "ro": "Puține locuri acoperite direct sus.",
-                "en": "Few covered spots available directly at the top."
+                "en": "Few covered spots available directly at the top.",
+                "es": "Pocas plazas cubiertas disponibles directamente en la parte alta."
               }
             },
             {
@@ -1640,7 +1772,8 @@
                 "de": "Regenschirm für den Weg zwischen den Kirchen.",
                 "hu": "Esernyő ajánlott a templomok közötti útra.",
                 "ro": "Umbrelă necesară între biserici.",
-                "en": "Umbrella needed for the path between churches."
+                "en": "Umbrella needed for the path between churches.",
+                "es": "Necesitarás paraguas para el trayecto entre iglesias."
               }
             },
             {
@@ -1649,7 +1782,8 @@
                 "de": "Trockener Innenraum für Besichtigungen.",
                 "hu": "Száraz belsőtér a látogatáshoz.",
                 "ro": "Interior uscat pentru vizitare.",
-                "en": "Dry interior for comfortable visiting."
+                "en": "Dry interior for comfortable visiting.",
+                "es": "Interior seco para una visita cómoda."
               }
             },
             {
@@ -1658,7 +1792,8 @@
                 "de": "Vom Parkplatz an der Uni ist es ein kurzer Weg.",
                 "hu": "Az egyetemi parkolótól csak egy rövid séta.",
                 "ro": "Drum scurt de la parcarea universității.",
-                "en": "Short walk from the university parking lot."
+                "en": "Short walk from the university parking lot.",
+                "es": "A poca distancia a pie desde el aparcamiento de la universidad."
               }
             }
           ],
@@ -1690,6 +1825,13 @@
               "Visibility can be hampered by fogged-up windshields.",
               "Use parking apps to avoid paying at machines in the rain.",
               "River-side parking areas may be closed if there is a flood risk."
+            ],
+            "es": [
+              "Los aparcamientos en altura son tu opción más seca en el centro.",
+              "Evita conducir por las calles más estrechas del casco antiguo durante lluvias intensas.",
+              "La visibilidad puede verse afectada por parabrisas empañados.",
+              "Usa apps de aparcamiento para evitar pagar en los parquímetros bajo la lluvia.",
+              "Las zonas de aparcamiento junto al río pueden cerrarse si hay riesgo de desbordamiento."
             ]
           }
         },
@@ -1698,7 +1840,8 @@
             "de": "Morgens ist das Auto an der Plaça de la Independència schnell geparkt, die Kälte bleibt draußen. Mittags nutzt man das Fahrzeug für den bequemen Wechsel zwischen den historischen Vierteln. Der Nachmittag an der Stadtmauer bietet fantastische klare Fernsichten, bevor man sich im Auto wieder aufwärmt. Der Tag endet stressfrei mit einer kurzen Fahrt zurück durch das beleuchtete Girona.",
             "hu": "Reggel az autóval gyorsan leparkolunk a Plaça de la Independència mellett, a hideg kint marad. Délben kényelmesen váltunk a történelmi negyedek között a kocsival. A délutáni városfal-látogatás tiszta kilátást ígér, utána jól esik a fűtött utastér. A nap stresszmentesen zárul a kivilágított Gironán keresztül.",
             "ro": "Dimineața parcăm rapid lângă Plaça de la Independència, lăsând frigul afară. La prânz folosim mașina pentru a ne deplasa comod între cartierele istorice. Vizita de după-amiază la ziduri oferă o vizibilitate clară, urmată de încălzirea în mașină. Ziua se încheie relaxat, traversând Girona luminată.",
-            "en": "Morning parking at Independence Square is quick, keeping the cold at bay. By midday, use your vehicle to move comfortably between the historical districts. The afternoon walk along the city walls offers fantastic clear views, followed by a warm-up session in the car. End the day stress-free with a short drive through beautifully lit Girona."
+            "en": "Morning parking at Independence Square is quick, keeping the cold at bay. By midday, use your vehicle to move comfortably between the historical districts. The afternoon walk along the city walls offers fantastic clear views, followed by a warm-up session in the car. End the day stress-free with a short drive through beautifully lit Girona.",
+            "es": "Por la mañana aparcar en la Plaça de la Independència es rápido y te protege del frío. Al mediodía, usa el vehículo para moverte cómodamente entre los distritos históricos. La caminata por las murallas por la tarde ofrece vistas despejadas fantásticas, seguida de una reconfortante vuelta al coche. Termina el día sin prisas con un corto paseo en coche por la Girona iluminada."
           },
           "stops": [
             {
@@ -1707,7 +1850,8 @@
                 "de": "Eiskratzen entfällt meist in den tieferen Ebenen.",
                 "hu": "A mélyebb szinteken nem kell jeget kaparni.",
                 "ro": "Nu e nevoie de răzuit gheața la nivelurile de jos.",
-                "en": "No need to scrape ice at the lower levels."
+                "en": "No need to scrape ice at the lower levels.",
+                "es": "No hace falta raspar hielo en los niveles bajos."
               }
             },
             {
@@ -1716,7 +1860,8 @@
                 "de": "Perfekter Start in der warmen Morgensonne.",
                 "hu": "Tökéletes kezdés a meleg reggeli napsütésben.",
                 "ro": "Start perfect sub soarele cald de dimineață.",
-                "en": "Perfect start in the warm morning sunshine."
+                "en": "Perfect start in the warm morning sunshine.",
+                "es": "Perfecto comienzo con el sol cálido de la mañana."
               }
             },
             {
@@ -1725,7 +1870,8 @@
                 "de": "Fotostopp; Fenster vor der Weiterfahrt enteisen.",
                 "hu": "Fotómegálló; jégtelenítse az ablakot indulás előtt.",
                 "ro": "Oprire foto; dezghețați geamurile înainte de plecare.",
-                "en": "Photo stop; defrost windows before moving on."
+                "en": "Photo stop; defrost windows before moving on.",
+                "es": "Parada fotográfica; descongela las lunas antes de continuar."
               }
             },
             {
@@ -1734,7 +1880,8 @@
                 "de": "Parkplatzsuche ist im Winter meist entspannt.",
                 "hu": "A parkolókeresés télen általában nyugalmasabb.",
                 "ro": "Căutarea parcării e mai relaxată iarna.",
-                "en": "Finding a spot is usually easier in winter."
+                "en": "Finding a spot is usually easier in winter.",
+                "es": "Encontrar plaza suele ser más fácil en invierno."
               }
             },
             {
@@ -1743,7 +1890,8 @@
                 "de": "Ein langer Spaziergang durch das kühle Viertel.",
                 "hu": "Hosszabb séta a hűvös negyedben.",
                 "ro": "O plimbare lungă prin cartierul răcoros.",
-                "en": "A long walk through the cool district."
+                "en": "A long walk through the cool district.",
+                "es": "Una larga caminata por el fresco barrio."
               }
             },
             {
@@ -1752,7 +1900,8 @@
                 "de": "Wunderbarer Schutz vor dem kalten Wind.",
                 "hu": "Csodálatos védelem a hideg szél ellen.",
                 "ro": "Adăpost excelent împotriva vântului rece.",
-                "en": "Wonderful shelter from the cold wind."
+                "en": "Wonderful shelter from the cold wind.",
+                "es": "Maravilloso refugio del viento frío."
               }
             },
             {
@@ -1761,7 +1910,8 @@
                 "de": "Warme Jacke für die exponierten Abschnitte.",
                 "hu": "Meleg kabát kell a szélnek kitett részeken.",
                 "ro": "Jachetă groasă pentru porțiunile expuse.",
-                "en": "Warm jacket needed for the exposed sections."
+                "en": "Warm jacket needed for the exposed sections.",
+                "es": "Se necesita chaqueta cálida para los tramos expuestos."
               }
             }
           ],
@@ -1793,6 +1943,13 @@
               "A battery check before your trip is wise for cold weather.",
               "Low winter sun can severely impair driving visibility.",
               "City lights are particularly atmospheric during winter evenings."
+            ],
+            "es": [
+              "Usa parkings cubiertos para máxima comodidad.",
+              "Las calles de Girona suelen estar libres de nieve y hielo en invierno.",
+              "Es recomendable revisar la batería antes del viaje en tiempo frío.",
+              "El sol bajo de invierno puede afectar gravemente la visibilidad al conducir.",
+              "Las luces de la ciudad son especialmente atmosféricas durante las tardes de invierno."
             ]
           }
         }
@@ -1811,7 +1968,8 @@
             "de": "Ankunft am Busbahnhof/Bahnhof",
             "hu": "Érkezés a busz-/vasútállomásra",
             "ro": "Sosire la stația de autobuz/tren",
-            "en": "Arrival at Bus/Train Station"
+            "en": "Arrival at Bus/Train Station",
+            "es": "Llegada a la estación de autobuses/trenes"
           },
           "coords": [
             2.817,
@@ -1826,7 +1984,8 @@
             "de": "Nehmen Sie vom Hauptbahnhof einen Bus (z.B. L2, L5) zur Plaça de la Independència.",
             "hu": "A főpályaudvarról menjen busszal (pl. L2, L5) a Plaça de la Independència-ra.",
             "ro": "De la gară, luați un autobuz (de ex. L2, L5) spre Plaça de la Independència.",
-            "en": "From the main station, take a bus (e.g., L2, L5) to Plaça de la Independència."
+            "en": "From the main station, take a bus (e.g., L2, L5) to Plaça de la Independència.",
+            "es": "Desde la estación principal, toma un autobús (p. ej., L2, L5) hasta la Plaça de la Independència."
           }
         },
         {
@@ -1834,7 +1993,8 @@
             "de": "Plaça de la Independència",
             "hu": "Függetlenség tere",
             "ro": "Plaça de la Independència",
-            "en": "Plaça de la Independència"
+            "en": "Plaça de la Independència",
+            "es": "Plaça de la Independència"
           },
           "coords": [
             2.8214,
@@ -1850,7 +2010,8 @@
             "de": "Der Startpunkt Ihrer Wanderung. Genießen Sie die Atmosphäre.",
             "hu": "A gyalogtúra kiindulópontja. Élvezze a hangulatot.",
             "ro": "Punctul de plecare al turului dvs. pietonal. Bucurați-vă de atmosferă.",
-            "en": "The starting point of your walking tour. Enjoy the atmosphere."
+            "en": "The starting point of your walking tour. Enjoy the atmosphere.",
+            "es": "Punto de inicio de tu paseo a pie. Disfruta del ambiente."
           }
         },
         {
@@ -1858,7 +2019,8 @@
             "de": "Häuser am Onyar & Eiffels-Brücke",
             "hu": "Onyar-parti házak és Eiffel-híd",
             "ro": "Casele de pe Onyar și Podul Eiffel",
-            "en": "Onyar Houses & Eiffel Bridge"
+            "en": "Onyar Houses & Eiffel Bridge",
+            "es": "Casas del Onyar y puente Eiffel"
           },
           "coords": [
             2.8248,
@@ -1874,7 +2036,8 @@
             "de": "Ein kurzer Spaziergang vom Platz aus, um die ikonischsten Ansichten Gironas zu sehen.",
             "hu": "Rövid séta a tértől Girona legikonikusabb látványaihoz.",
             "ro": "O scurtă plimbare de la piață pentru a vedea cele mai iconice priveliști din Girona.",
-            "en": "A short walk from the square to see Girona's most iconic views."
+            "en": "A short walk from the square to see Girona's most iconic views.",
+            "es": "A poca distancia de la plaza para contemplar las vistas más icónicas de Girona."
           }
         },
         {
@@ -1882,7 +2045,8 @@
             "de": "Jüdisches Viertel (El Call)",
             "hu": "Zsidónegyed (El Call)",
             "ro": "Cartierul Evreiesc (El Call)",
-            "en": "Jewish Quarter (El Call)"
+            "en": "Jewish Quarter (El Call)",
+            "es": "Barrio Judío (El Call)"
           },
           "coords": [
             2.826,
@@ -1898,7 +2062,8 @@
             "de": "Gehen Sie von den Brücken aus bergauf in das Labyrinth der Geschichte.",
             "hu": "A hidaktól induljon felfelé a történelem labirintusába.",
             "ro": "De la poduri, urcați în labirintul istoriei.",
-            "en": "From the bridges, walk uphill into the labyrinth of history."
+            "en": "From the bridges, walk uphill into the labyrinth of history.",
+            "es": "Desde los puentes, sube caminando hacia el laberinto de historia."
           }
         },
         {
@@ -1906,7 +2071,8 @@
             "de": "Kathedrale & Arabische Bäder",
             "hu": "Katedrális és Arab fürdők",
             "ro": "Catedrala și Băile Arabe",
-            "en": "Cathedral & Arab Baths"
+            "en": "Cathedral & Arab Baths",
+            "es": "Catedral y baños árabes"
           },
           "coords": [
             2.827,
@@ -1922,7 +2088,8 @@
             "de": "Kombinieren Sie diese beiden Hauptattraktionen. Planen Sie Zeit für ein Mittagessen in der Nähe ein.",
             "hu": "Kombinálja ezt a két fő látnivalót. Tervezzen időt egy közeli ebédre.",
             "ro": "Combinați aceste două atracții majore. Planificați timp pentru prânz în apropiere.",
-            "en": "Combine these two major attractions. Plan for lunchtime nearby."
+            "en": "Combine these two major attractions. Plan for lunchtime nearby.",
+            "es": "Combina estas dos atracciones principales. Planea comer cerca al mediodía."
           }
         },
         {
@@ -1930,7 +2097,8 @@
             "de": "Stadtmauern (Passeig de la Muralla)",
             "hu": "Városfal",
             "ro": "Zidurile orașului",
-            "en": "City Walls"
+            "en": "City Walls",
+            "es": "Murallas de la ciudad"
           },
           "coords": [
             2.8285,
@@ -1946,7 +2114,8 @@
             "de": "Nehmen Sie den Bus (z.B. L7) zum Campus Montilivi und gehen Sie zum nächstgelegenen Zugang der Mauer.",
             "hu": "Menjen busszal (pl. L7) a Campus Montilivi-re, majd sétáljon a fal legközelebbi bejáratához.",
             "ro": "Luați autobuzul (de ex. L7) spre Campus Montilivi și mergeți pe jos până la cel mai apropiat acces la zid.",
-            "en": "Take the bus (e.g. L7) up towards Campus Montilivi and walk to the nearest wall access."
+            "en": "Take the bus (e.g. L7) up towards Campus Montilivi and walk to the nearest wall access.",
+            "es": "Toma el autobús (p. ej., L7) hacia Campus Montilivi y camina hasta el acceso más cercano a la muralla."
           }
         }
       ],
@@ -1954,7 +2123,8 @@
         "de": "Die Nutzung öffentlicher Verkehrsmittel in Girona ist ideal, um die Hauptbereiche zu verbinden. Beginnen Sie mit einer Busfahrt vom Bahnhof zur Plaça de la Independència. Von dort aus erkunden Sie am Vormittag den gesamten unteren Teil der Altstadt zu Fuß. Mittags nehmen Sie einen weiteren Bus, um den steilen Anstieg zu den oberen Stadtteilen zu umgehen, wo Sie die Kathedrale und das jüdische Viertel erkunden. Am Nachmittag bringt Sie ein letzter Bus in die Nähe der Stadtmauern, wo Sie den Rest des Tages mit einem Spaziergang und einer atemberaubenden Aussicht verbringen, bevor Sie zu Fuß zum Bahnhof zurückkehren.",
         "hu": "A tömegközlekedés használata Gironában ideális a fő területek összekötésére. Kezdje egy buszúttal az állomásról a Függetlenség térre. Onnan délelőtt gyalog fedezze fel az óváros alsó részét. Délben szálljon fel egy másik buszra, hogy elkerülje a meredek emelkedőt a felső városrészekbe, ahol a katedrálist és a zsidónegyedet fedezi fel. Délután egy utolsó busz viszi a városfalak közelébe, ahol a nap hátralévő részét sétával és a lélegzetelállító kilátás élvezetével tölti, mielőtt visszasétálna az állomásra.",
         "ro": "Folosirea transportului public în Girona este ideală pentru a conecta zonele principale. Începeți cu o călătorie cu autobuzul de la gară la Plaça de la Independència. De acolo, explorați pe jos întreaga parte inferioară a orașului vechi în timpul dimineții. La prânz, luați un alt autobuz pentru a evita urcarea abruptă către cartierele superioare, unde explorați catedrala și cartierul evreiesc. După-amiaza, un ultim autobuz vă duce aproape de zidurile orașului, unde petreceți restul zilei plimbându-vă și admirând priveliștile uimitoare înainte de a vă întoarce pe jos la gară.",
-        "en": "Using public transit in Girona is ideal for linking the main areas. Start with a bus ride from the station to Plaça de la Independència. From there, explore the entire lower part of the old town on foot during the morning. At midday, take another bus to skip the steep climb to the upper districts, where you explore the cathedral and Jewish quarter. In the afternoon, a final bus takes you near the city walls, where you spend the rest of the day strolling and enjoying the stunning views before walking back down to the station."
+        "en": "Using public transit in Girona is ideal for linking the main areas. Start with a bus ride from the station to Plaça de la Independència. From there, explore the entire lower part of the old town on foot during the morning. At midday, take another bus to skip the steep climb to the upper districts, where you explore the cathedral and Jewish quarter. In the afternoon, a final bus takes you near the city walls, where you spend the rest of the day strolling and enjoying the stunning views before walking back down to the station.",
+        "es": "Usar el transporte público en Girona es ideal para conectar las zonas principales. Empieza con un autobús desde la estación hasta la Plaça de la Independència. Desde allí, explora a pie la parte baja del casco antiguo durante la mañana. Al mediodía, toma otro autobús para evitar la empinada subida a los barrios altos, donde visitarás la catedral y el barrio judío. Por la tarde, un último autobús te deja cerca de las murallas, donde pasarás el resto del día paseando y disfrutando de las vistas antes de bajar a pie hasta la estación."
       },
       "gastro_picks": {
         "de": [
@@ -2150,6 +2320,12 @@
           "Validate your ticket when you board the bus.",
           "Buses can be crowded in summer. Be prepared for some waiting.",
           "Most central sights are walkable, use the bus to connect longer distances."
+        ],
+        "es": [
+          "Compra una tarjeta T-10 (10 viajes), que puede compartirse entre varias personas y sale más barata que los billetes sencillos.",
+          "Valida tu billete al subir al autobús.",
+          "Los autobuses pueden llenarse en verano. Prepárate para esperar.",
+          "La mayoría de los principales monumentos son accesibles a pie; usa el autobús para distancias más largas."
         ]
       },
       "variants": {
@@ -2158,7 +2334,8 @@
             "de": "Die Ankunft am Bahnhof ist bei Regen ideal, da man direkt unter das Vordach gelangt. Mittags bringen Busse einen trocken zur Plaça de la Independència und zu den Onyar-Häusern. Der Nachmittag wird in der Kathedrale verbracht, wobei die Busverbindungen die Laufwege im Regen minimieren. Der Tag endet trocken in der Wartehalle des Bahnhofs vor der Rückfahrt.",
             "hu": "Az állomásra érkezés esőben ideális, mert rögtön fedett helyre kerülünk. Délben a buszok szárazon visznek a Plaça de la Independència és az Onyar-házak felé. A délutánt a Székesegyházban töltjük, a buszjáratok pedig minimalizálják az esőben való gyaloglást. A nap a vasútállomás várótermében zárul szárazon.",
             "ro": "Sosirea la gară este ideală pe ploaie, fiind un spațiu acoperit. La prânz, autobuzele vă duc uscați spre Piața Independenței și casele Onyar. După-amiaza o petreceți la Catedrală, folosind transportul pentru a evita ploaia. Ziua se încheie în sala de așteptare a gării, la adăpost.",
-            "en": "Arriving at the station is ideal in rain as it provides immediate shelter. By midday, buses keep you dry while moving to Independence Square and the Onyar houses. Spend the afternoon at the Cathedral, utilizing bus connections to minimize walking in the rain. End your day dry in the station's waiting hall before your departure."
+            "en": "Arriving at the station is ideal in rain as it provides immediate shelter. By midday, buses keep you dry while moving to Independence Square and the Onyar houses. Spend the afternoon at the Cathedral, utilizing bus connections to minimize walking in the rain. End your day dry in the station's waiting hall before your departure.",
+            "es": "Llegar a la estación es ideal cuando llueve porque ofrece refugio inmediato. Al mediodía, los autobuses te mantienen seco mientras te desplazas hasta la Plaça de la Independència y las casas del Onyar. Pasa la tarde en la Catedral, aprovechando las conexiones de autobús para minimizar las caminatas bajo la lluvia. Termina el día seco en la sala de espera de la estación antes de tu partida."
           },
           "stops": [
             {
@@ -2167,7 +2344,8 @@
                 "de": "Große Wartehalle, um den Schirm aufzuspannen.",
                 "hu": "Nagy váróterem az esernyő kinyitásához.",
                 "ro": "Sală mare de așteptare pentru a pregăti umbrela.",
-                "en": "Large waiting hall to get your umbrella ready."
+                "en": "Large waiting hall to get your umbrella ready.",
+                "es": "Amplia sala de espera para preparar el paraguas."
               }
             },
             {
@@ -2176,7 +2354,8 @@
                 "de": "Bus L11 hält fast direkt vor den Arkaden.",
                 "hu": "Az L11 busz szinte az árkádok előtt áll meg.",
                 "ro": "Autobuzul L11 oprește aproape de arcade.",
-                "en": "L11 bus stops almost directly in front of the arcades."
+                "en": "L11 bus stops almost directly in front of the arcades.",
+                "es": "El autobús L11 para casi directamente frente a los soportales."
               }
             },
             {
@@ -2185,7 +2364,8 @@
                 "de": "Kurzer Weg von der Bushaltestelle 'Jutjats'.",
                 "hu": "Rövid séta a 'Jutjats' buszmegállótól.",
                 "ro": "Drum scurt de la stația de autobuz 'Jutjats'.",
-                "en": "Short walk from 'Jutjats' bus stop."
+                "en": "Short walk from 'Jutjats' bus stop.",
+                "es": "Corta caminata desde la parada de autobús 'Jutjats'."
               }
             },
             {
@@ -2194,7 +2374,8 @@
                 "de": "Vom Zentrum aus leicht mit dem Bus L1 erreichbar.",
                 "hu": "A központból könnyen elérhető az L1 busszal.",
                 "ro": "Accesibil ușor din centru cu L1.",
-                "en": "Easily reachable from the center via L1."
+                "en": "Easily reachable from the center via L1.",
+                "es": "Fácilmente accesible desde el centro via L1."
               }
             },
             {
@@ -2203,7 +2384,8 @@
                 "de": "Nutzen Sie den L7-Bus für den Bergaufweg.",
                 "hu": "Használja az L7 buszt a felfelé úthoz.",
                 "ro": "Folosiți L7 pentru a urca dealul.",
-                "en": "Use the L7 bus for the uphill climb."
+                "en": "Use the L7 bus for the uphill climb.",
+                "es": "Usa el autobús L7 para la subida empinada."
               }
             },
             {
@@ -2212,7 +2394,8 @@
                 "de": "Bushaltestelle 'UdG' ist der nächste trockene Punkt.",
                 "hu": "Az 'UdG' megálló a legközelebbi száraz pont.",
                 "ro": "Stația 'UdG' este cel mai apropiat punct uscat.",
-                "en": "The 'UdG' stop is the nearest dry point."
+                "en": "The 'UdG' stop is the nearest dry point.",
+                "es": "La parada 'UdG' es el punto seco más cercano."
               }
             }
           ],
@@ -2244,6 +2427,13 @@
               "Most bus stops have good shelters against the rain.",
               "Check the real-time app to avoid waiting in the downpour.",
               "The train station provides lockers for storing wet gear."
+            ],
+            "es": [
+              "Los autobuses L1, L2 y L11 son las líneas clave para explorar la ciudad.",
+              "Compra una tarjeta T-10 para traslados más baratos entre líneas.",
+              "La mayoría de las paradas de autobús tienen buen abrigo contra la lluvia.",
+              "Consulta la app en tiempo real para evitar esperar bajo el aguacero.",
+              "La estación de tren ofrece consignas para guardar equipo mojado."
             ]
           }
         },
@@ -2252,7 +2442,8 @@
             "de": "Morgens ist die Ankunft am Bahnhof angenehm temperiert. Mit dem Bus geht es mittags schnell zur sonnigen Plaça de la Independència. Der Nachmittag wird für die historischen Stätten genutzt, wobei der Bus den Rückweg vom Hügel der Kathedrale erleichtert. Den Tag beendet man entspannt im warmen Zug oder Bus zurück, während es draußen bereits dunkel ist.",
             "hu": "Reggel a vasútállomásra érkezéskor kellemes a hőmérséklet. Busszal délben gyorsan elérjük a napos Plaça de la Independència teret. A délutánt a történelmi helyszíneken töltjük, a busz pedig megkönnyíti a lejutást a katedrálistól. A napot a meleg vonatban vagy buszon fejezzük be, miközben kint már sötét van.",
             "ro": "Dimineața sosirea la gară este confortabilă termic. Cu autobuzul ajungem rapid în însorita Piață a Independenței la prânz. După-amiaza explorăm siturile istorice, autobuzul facilitând coborârea de la Catedrală. Ziua se încheie relaxat în trenul sau autobuzul cald, pe întuneric.",
-            "en": "Morning arrival at the station is comfortably warm. By midday, a quick bus ride takes you to sunny Independence Square. Spend the afternoon exploring historical sites, with buses making the return from the Cathedral hill much easier. Wrap up your day in a warm train or bus as darkness sets in outside."
+            "en": "Morning arrival at the station is comfortably warm. By midday, a quick bus ride takes you to sunny Independence Square. Spend the afternoon exploring historical sites, with buses making the return from the Cathedral hill much easier. Wrap up your day in a warm train or bus as darkness sets in outside.",
+            "es": "La llegada por la mañana a la estación es cómodamente cálida. Al mediodía, un corto viaje en autobús te lleva a la soleada Plaça de la Independència. Pasa la tarde explorando sitios históricos, con autobuses que facilitan la vuelta desde la colina de la Catedral. Termina el día en un tren o autobús cálido mientras fuera cae la noche."
           },
           "stops": [
             {
@@ -2261,7 +2452,8 @@
                 "de": "Kiosk für warme Getränke vorhanden.",
                 "hu": "Kioszk forró italokkal az állomáson.",
                 "ro": "Chioșc cu băuturi calde disponibil în gară.",
-                "en": "Kiosk with hot drinks available at the station."
+                "en": "Kiosk with hot drinks available at the station.",
+                "es": "Kiosco con bebidas calientes disponible en la estación."
               }
             },
             {
@@ -2270,7 +2462,8 @@
                 "de": "Kurze Busfahrt spart den kalten Fußweg.",
                 "hu": "A rövid buszút megkíméli a hideg sétától.",
                 "ro": "Drumul scurt cu autobuzul vă scutește de mersul prin frig.",
-                "en": "Short bus ride saves you from a cold walk."
+                "en": "Short bus ride saves you from a cold walk.",
+                "es": "Un corto trayecto en autobús te evita una caminata fría."
               }
             },
             {
@@ -2279,7 +2472,8 @@
                 "de": "Schöne Aussicht aus dem Bus beim Überqueren.",
                 "hu": "Szép kilátás a buszból átkelés közben.",
                 "ro": "Vedere frumoasă din autobuz în timpul traversării.",
-                "en": "Great views from the bus during the crossing."
+                "en": "Great views from the bus during the crossing.",
+                "es": "Excelentes vistas desde el autobús durante el cruce."
               }
             },
             {
@@ -2288,7 +2482,8 @@
                 "de": "L1-Bus hält nahe dem Eingang zum Viertel.",
                 "hu": "Az L1 busz a negyed bejárata közelében áll meg.",
                 "ro": "Autobuzul L1 oprește aproape de intrarea în cartier.",
-                "en": "L1 bus stops near the entrance of the quarter."
+                "en": "L1 bus stops near the entrance of the quarter.",
+                "es": "El autobús L1 para cerca de la entrada del barrio."
               }
             },
             {
@@ -2297,7 +2492,8 @@
                 "de": "Bus L7 fährt alle 15-30 Minuten.",
                 "hu": "Az L7 busz 15-30 percenként közlekedik.",
                 "ro": "L7 circulă la fiecare 15-30 de minute.",
-                "en": "L7 bus runs every 15-30 minutes."
+                "en": "L7 bus runs every 15-30 minutes.",
+                "es": "El L7 circula cada 15-30 minutos."
               }
             },
             {
@@ -2306,7 +2502,8 @@
                 "de": "Vom oberen Ende ist der Bus zurück bequemer.",
                 "hu": "A felső végétől kényelmesebb busszal visszatérni.",
                 "ro": "De la capătul de sus e mai comod să reveniți cu autobuzul.",
-                "en": "Returning by bus from the top end is more comfortable."
+                "en": "Returning by bus from the top end is more comfortable.",
+                "es": "Volver en autobús desde la parte alta es más cómodo."
               }
             }
           ],
@@ -2338,6 +2535,13 @@
               "Winter schedules are very similar to summer ones.",
               "Buses run frequently until late in the evening.",
               "The station is a comfortable place to wait for your trip in the heat."
+            ],
+            "es": [
+              "Los autobuses locales están bien calefactados durante el invierno.",
+              "Compra la tarjeta T-10 en la taquilla de la estación.",
+              "Los horarios de invierno son muy similares a los de verano.",
+              "Los autobuses funcionan con frecuencia hasta tarde por la noche.",
+              "La estación es un lugar cómodo para esperar tu viaje en días de calor."
             ]
           }
         }

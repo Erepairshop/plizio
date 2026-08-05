@@ -31,7 +31,8 @@
             "de": "Bewundern Sie die modernistische Architektur und den prunkvollen Plenarsaal im Inneren.",
             "hu": "Csodálja meg a modernista építészetet és a pompás belső tanácstermet.",
             "ro": "Admirați arhitectura modernistă și sala de plen fastuoasă din interior.",
-            "en": "Admire the modernist architecture and the lavish plenary hall inside."
+            "en": "Admire the modernist architecture and the lavish plenary hall inside.",
+            "es": "Admira la arquitectura modernista y el suntuoso salón de plenos del interior."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Achten Sie auf die beeindruckende Mudejar-Holzdecke aus dem 16. Jahrhundert.",
             "hu": "Figyelje meg a lenyűgöző, 16. századi mudéjar stílusú fakazettás mennyezetet.",
             "ro": "Observați tavanul impresionant din lemn în stil Mudéjar din secolul al XVI-lea.",
-            "en": "Note the impressive 16th-century Mudejar style wooden coffered ceiling."
+            "en": "Note the impressive 16th-century Mudejar style wooden coffered ceiling.",
+            "es": "Fíjate en la impresionante cubierta de madera mudéjar del siglo XVI."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Genießen Sie den Panoramablick über das Dorf von den Überresten dieser Festung.",
             "hu": "Élvezze a falu feletti panorámát az erődítmény megmaradt falai közül.",
             "ro": "Bucurați-vă de vederea panoramică asupra satului de la rămășițele acestei fortărețe.",
-            "en": "Enjoy the panoramic view over the village from the remains of this fortress."
+            "en": "Enjoy the panoramic view over the village from the remains of this fortress.",
+            "es": "Disfruta de la vista panorámica sobre el pueblo desde las ruinas de este castillo."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Die rötlichen Farbtöne der verlassenen Minen sind ideal für spektakuläre Fotos.",
             "hu": "Az elhagyatott bányák vöröses árnyalatai ideálisak látványos fotókhoz.",
             "ro": "Nuanțele roșiatice ale minelor abandonate sunt ideale pentru fotografii spectaculoase.",
-            "en": "The reddish hues of the abandoned mines are ideal for spectacular photos."
+            "en": "The reddish hues of the abandoned mines are ideal for spectacular photos.",
+            "es": "Los tonos rojizos de las minas abandonadas son ideales para fotos espectaculares."
           }
         }
       ],
@@ -93,7 +97,8 @@
         "de": "Beginnen Sie Ihren Morgen im historischen Zentrum von Mazarrón mit einem Besuch des prächtigen Rathauses. Danach erkunden Sie die religiöse Kunst in der Kirche San Andrés, bevor Sie zur Burgruine Castillo de los Vélez aufsteigen, um die Aussicht zu genießen. Den Abschluss bildet ein Spaziergang durch die surrealen, farbenfrohen Landschaften der alten Bergwerke.",
         "hu": "Kezdje a reggelt Mazarrón történelmi központjában a pompás városháza megtekintésével. Ezután fedezze fel a San Andrés-templom vallási művészetét, majd másszon fel a Castillo de los Vélez romjaihoz a kilátásért. A délelőttöt a régi bányák szürreális, színes tájainak felfedezésével zárja, amely az ipari múlt emléke.",
         "ro": "Începeți dimineața în centrul istoric din Mazarrón cu o vizită la primăria magnifică. Apoi explorați arta religioasă din Biserica San Andrés înainte de a urca la ruinele Castillo de los Vélez pentru priveliște. Încheiați cu o plimbare prin peisajele suprarealiste și colorate ale vechilor mine, martore ale trecutului industrial.",
-        "en": "Start your morning in the historic center of Mazarrón with a visit to the magnificent Town Hall. Then explore religious art in the Church of San Andrés before climbing up to the ruins of Castillo de los Vélez for the views. Conclude with a walk through the surreal, colorful landscapes of the old mines, witnesses to the industrial past."
+        "en": "Start your morning in the historic center of Mazarrón with a visit to the magnificent Town Hall. Then explore religious art in the Church of San Andrés before climbing up to the ruins of Castillo de los Vélez for the views. Conclude with a walk through the surreal, colorful landscapes of the old mines, witnesses to the industrial past.",
+        "es": "Comienza la mañana en el centro histórico de Mazarrón con una visita al magnífico Ayuntamiento. Luego explora el arte religioso en la Iglesia de San Andrés antes de subir a las ruinas del Castillo de los Vélez para las vistas. Concluye con un paseo por los paisajes surrealistas y coloridos de las antiguas minas, testigos del pasado industrial."
       },
       "gastro_picks": {
         "de": [
@@ -217,6 +222,12 @@
           "The mines area is vast; stay on the marked paths.",
           "Visit the tourist office in the Town Hall for maps.",
           "In summer, finish your walk before 11:00 AM due to the heat."
+        ],
+        "es": [
+          "Lleva calzado cómodo para la subida al castillo.",
+          "La zona de las minas es extensa; mantente en los senderos señalizados.",
+          "Visita la oficina de turismo en el Ayuntamiento para conseguir mapas.",
+          "En verano, termina la caminata antes de las 11:00 por el calor."
         ]
       },
       "variants": {
@@ -225,7 +236,8 @@
             "de": "Beginnen Sie Ihren Morgen im historischen Zentrum von Mazarrón mit einem Besuch des prächtigen Rathauses. Danach erkunden Sie die religiöse Kunst in der Kirche San Andrés, bevor Sie zur Burgruine Castillo de los Vélez aufsteigen, um die Aussicht zu genießen. Den Abschluss bildet ein Spaziergang durch die surrealen, farbenfrohen Landschaften der alten Bergwerke.",
             "hu": "Kezdje a reggelt Mazarrón történelmi központjában a pompás városháza megtekintésével. Ezután fedezze fel a San Andrés-templom vallási művészetét, majd másszon fel a Castillo de los Vélez romjaihoz a kilátásért. A délelőttöt a régi bányák szürreális, színes tájainak felfedezésével zárja, amely az ipari múlt emléke.",
             "ro": "Începeți dimineața în centrul istoric din Mazarrón cu o vizită la primăria magnifică. Apoi explorați arta religioasă din Biserica San Andrés înainte de a urca la ruinele Castillo de los Vélez pentru priveliște. Încheiați cu o plimbare prin peisajele suprarealiste și colorate ale vechilor mine, martore ale trecutului industrial.",
-            "en": "Start your morning in the historic center of Mazarrón with a visit to the magnificent Town Hall. Then explore religious art in the Church of San Andrés before climbing up to the ruins of Castillo de los Vélez for the views. Conclude with a walk through the surreal, colorful landscapes of the old mines, witnesses to the industrial past."
+            "en": "Start your morning in the historic center of Mazarrón with a visit to the magnificent Town Hall. Then explore religious art in the Church of San Andrés before climbing up to the ruins of Castillo de los Vélez for the views. Conclude with a walk through the surreal, colorful landscapes of the old mines, witnesses to the industrial past.",
+            "es": "Comienza la mañana en el centro histórico de Mazarrón con una visita al magnífico Ayuntamiento. Luego explora el arte religioso en la Iglesia de San Andrés antes de subir a las ruinas del Castillo de los Vélez para las vistas. Concluye con un paseo por los paisajes surrealistas y coloridos de las antiguas minas, testigos del pasado industrial."
           },
           "stops": [
             {
@@ -234,7 +246,8 @@
                 "de": "Bewundern Sie die modernistische Architektur und den prunkvollen Plenarsaal im Inneren.",
                 "hu": "Csodálja meg a modernista építészetet és a pompás belső tanácstermet.",
                 "ro": "Admirați arhitectura modernistă și sala de plen fastuoasă din interior.",
-                "en": "Admire the modernist architecture and the lavish plenary hall inside."
+                "en": "Admire the modernist architecture and the lavish plenary hall inside.",
+                "es": "Admira la arquitectura modernista y el suntuoso salón de plenos del interior."
               }
             },
             {
@@ -243,7 +256,8 @@
                 "de": "Achten Sie auf die beeindruckende Mudejar-Holzdecke aus dem 16. Jahrhundert.",
                 "hu": "Figyelje meg a lenyűgöző, 16. századi mudéjar stílusú fakazettás mennyezetet.",
                 "ro": "Observați tavanul impresionant din lemn în stil Mudéjar din secolul al XVI-lea.",
-                "en": "Note the impressive 16th-century Mudejar style wooden coffered ceiling."
+                "en": "Note the impressive 16th-century Mudejar style wooden coffered ceiling.",
+                "es": "Fíjate en la impresionante cubierta de madera mudéjar del siglo XVI."
               }
             },
             {
@@ -252,7 +266,8 @@
                 "de": "Genießen Sie den Panoramablick über das Dorf von den Überresten dieser Festung.",
                 "hu": "Élvezze a falu feletti panorámát az erődítmény megmaradt falai közül.",
                 "ro": "Bucurați-vă de vederea panoramică asupra satului de la rămășițele acestei fortărețe.",
-                "en": "Enjoy the panoramic view over the village from the remains of this fortress."
+                "en": "Enjoy the panoramic view over the village from the remains of this fortress.",
+                "es": "Disfruta de la vista panorámica sobre el pueblo desde las ruinas de este castillo."
               }
             },
             {
@@ -261,7 +276,8 @@
                 "de": "Die rötlichen Farbtöne der verlassenen Minen sind ideal für spektakuläre Fotos.",
                 "hu": "Az elhagyatott bányák vöröses árnyalatai ideálisak látványos fotókhoz.",
                 "ro": "Nuanțele roșiatice ale minelor abandonate sunt ideale pentru fotografii spectaculoase.",
-                "en": "The reddish hues of the abandoned mines are ideal for spectacular photos."
+                "en": "The reddish hues of the abandoned mines are ideal for spectacular photos.",
+                "es": "Los tonos rojizos de las minas abandonadas son ideales para fotos espectaculares."
               }
             }
           ],
@@ -387,6 +403,12 @@
               "The mines area is vast; stay on the marked paths.",
               "Visit the tourist office in the Town Hall for maps.",
               "In summer, finish your walk before 11:00 AM due to the heat."
+            ],
+            "es": [
+              "Lleva calzado cómodo para la subida al castillo.",
+              "La zona de las minas es extensa; mantente en los senderos señalizados.",
+              "Visita la oficina de turismo en el Ayuntamiento para conseguir mapas.",
+              "En verano, termina tu paseo antes de las 11:00 debido al calor."
             ]
           }
         },
@@ -395,7 +417,8 @@
             "de": "Morgens besuchen wir das historische Rathaus, um dem Regen zu entgehen. Mittags suchen wir Schutz in der Iglesia de San Andrés. Nachmittags besichtigen wir die Burgruine Castillo de los Vélez unter grauem Himmel, bevor wir den Tag bei den rötlichen, im Regen glänzenden Minen von Mazarrón abschließen. Abends genießen wir die Atmosphäre in einer gemütlichen Bar im Stadtzentrum.",
             "hu": "Reggel a városháza épületében kezdünk, menedéket keresve az eső elől. Délben a San Andrés-templom belső terét csodáljuk meg. Délután a Castillo de los Vélez várfalai között sétálunk az esernyők alatt, majd a Mazarrón-bányák vörös földjét nézzük meg, amely esőben még intenzívebb színű. Az estét egy közeli hangulatos kávézóban zárjuk, figyelve a város morajlását.",
             "ro": "Dimineața vizităm primăria istorică pentru a ne adăposti de ploaie. La prânz căutăm liniștea în interiorul bisericii San Andrés. După-amiaza explorăm Castillo de los Vélez sub protecția umbrelelor, iar spre seară admirăm peisajul spectaculos al minelor din Mazarrón, unde pământul roșu strălucește în umezeală. Seara se încheie cu o băutură caldă într-un local primitor din centru.",
-            "en": "In the morning, we explore the historic Town Hall to escape the rain. At noon, we find shelter within the San Andrés Church. In the afternoon, we walk through the ruins of Castillo de los Vélez under our umbrellas, ending the day at the Mazarrón mines, where the red earth takes on a deep glow in the wet weather. We spend the evening in a cozy local bar in the town center."
+            "en": "In the morning, we explore the historic Town Hall to escape the rain. At noon, we find shelter within the San Andrés Church. In the afternoon, we walk through the ruins of Castillo de los Vélez under our umbrellas, ending the day at the Mazarrón mines, where the red earth takes on a deep glow in the wet weather. We spend the evening in a cozy local bar in the town center.",
+            "es": "Por la mañana exploramos el histórico Ayuntamiento para refugiarnos de la lluvia. Al mediodía buscamos cobijo en la iglesia de San Andrés. Por la tarde recorremos las ruinas del Castillo de los Vélez bajo los paraguas, terminando el día en las minas de Mazarrón, donde la tierra roja adquiere un brillo intenso con el tiempo húmedo. Pasamos la noche en un bar acogedor del centro del pueblo."
           },
           "stops": [
             {
@@ -404,7 +427,8 @@
                 "de": "Perfekter Ort, um die Architektur im Trockenen zu bewundern.",
                 "hu": "Kiváló helyszín az építészet megcsodálására, amíg odakint esik.",
                 "ro": "Locul perfect pentru a admira arhitectura stând la adăpost.",
-                "en": "A perfect place to admire the architecture while staying dry."
+                "en": "A perfect place to admire the architecture while staying dry.",
+                "es": "Un lugar perfecto para admirar la arquitectura manteniéndote seco."
               }
             },
             {
@@ -413,7 +437,8 @@
                 "de": "Nutzen Sie die Ruhe im Inneren, während der Regen draußen prasselt.",
                 "hu": "Élvezze a belső csendet, miközben odakint kopog az eső.",
                 "ro": "Bucurați-vă de liniștea interioară în timp ce afară plouă.",
-                "en": "Enjoy the interior silence while the rain falls outside."
+                "en": "Enjoy the interior silence while the rain falls outside.",
+                "es": "Disfruta del silencio interior mientras la lluvia cae afuera."
               }
             },
             {
@@ -422,7 +447,8 @@
                 "de": "Vorsicht auf den Steinstufen, sie können bei Nässe rutschig sein.",
                 "hu": "Vigyázzon a kőlépcsőkön, esőben nagyon csúszósak lehetnek.",
                 "ro": "Atenție la treptele de piatră, pot fi alunecoase când sunt ude.",
-                "en": "Be careful on the stone steps; they can be slippery when wet."
+                "en": "Be careful on the stone steps; they can be slippery when wet.",
+                "es": "Ten cuidado en los escalones de piedra; pueden resbalar cuando están mojados."
               }
             },
             {
@@ -431,7 +457,8 @@
                 "de": "Wanderschuhe sind Pflicht, der rote Boden wird bei Regen schlammig.",
                 "hu": "A túrabakancs kötelező, a vörös föld esőben sárossá válik.",
                 "ro": "Bocancii sunt obligatorii, pământul roșu devine noroios la ploaie.",
-                "en": "Hiking boots are a must; the red soil becomes muddy in the rain."
+                "en": "Hiking boots are a must; the red soil becomes muddy in the rain.",
+                "es": "Botas de senderismo son imprescindibles; la tierra roja se vuelve fangosa con la lluvia."
               }
             }
           ],
@@ -459,6 +486,12 @@
               "The Town Hall provides good shelter during sudden showers.",
               "San Andrés Church is an ideal spot for a quiet break.",
               "Use nearby cafes to dry off and enjoy a warm drink."
+            ],
+            "es": [
+              "Lleva calzado impermeable para visitar la zona de la mina.",
+              "El Ayuntamiento ofrece buen refugio durante chaparrones repentinos.",
+              "La iglesia de San Andrés es un lugar ideal para un descanso tranquilo.",
+              "Usa las cafeterías cercanas para secarte y disfrutar de una bebida caliente."
             ]
           }
         },
@@ -467,7 +500,8 @@
             "de": "Der Wintermorgen beginnt frisch am Rathausplatz. Mittags wärmen wir uns in der Sonne vor der Iglesia de San Andrés. Nachmittags erkunden wir das Castillo de los Vélez bei klarer Winterluft. Den Sonnenuntergang erleben wir früh bei den Minen von Mazarrón, deren Farben im sanften Winterlicht leuchten. Den Abend verbringen wir bei Tapas in einer traditionellen Taverne.",
             "hu": "A friss téli reggel a városháza téren indul. Délben a San Andrés-templom előtti napsütésben melegszünk fel. Délután a Castillo de los Vélez romjait járjuk be a tiszta téli levegőn. A naplemente korán érkezik a bányáknál, ahol a fények különlegesre festik a tájat. Az estét egy hagyományos tavernában töltjük, helyi falatokat kóstolva.",
             "ro": "Dimineața rece de iarnă începe în piața primăriei. La prânz ne încălzim la soare în fața bisericii San Andrés. După-amiaza explorăm Castillo de los Vélez în aerul curat de iarnă. Apusul vine devreme la minele din Mazarrón, oferind culori spectaculoase. Seara ne relaxăm într-o tavernă tradițională cu tapas locale.",
-            "en": "The crisp winter morning starts at the Town Hall square. At noon, we soak up the sun in front of San Andrés Church. In the afternoon, we explore Castillo de los Vélez in the clear winter air. Sunset arrives early at the Mazarrón mines, bathing the red landscape in soft light. We spend the evening enjoying tapas in a traditional local tavern."
+            "en": "The crisp winter morning starts at the Town Hall square. At noon, we soak up the sun in front of San Andrés Church. In the afternoon, we explore Castillo de los Vélez in the clear winter air. Sunset arrives early at the Mazarrón mines, bathing the red landscape in soft light. We spend the evening enjoying tapas in a traditional local tavern.",
+            "es": "La fresca mañana invernal comienza en la plaza del Ayuntamiento. Al mediodía tomamos el sol frente a la iglesia de San Andrés. Por la tarde exploramos el Castillo de los Vélez con el aire claro del invierno. El atardecer llega pronto en las minas de Mazarrón, bañando el paisaje rojo con una luz suave. Pasamos la noche disfrutando de tapas en una taberna tradicional."
           },
           "stops": [
             {
@@ -476,7 +510,8 @@
                 "de": "Im Winter ist es hier morgens ruhig und fotogen.",
                 "hu": "Télen a reggelek itt csendesek és kiválóak fotózáshoz.",
                 "ro": "Iarna, diminețile sunt liniștite și perfecte pentru fotografii.",
-                "en": "In winter, mornings here are quiet and very photogenic."
+                "en": "In winter, mornings here are quiet and very photogenic.",
+                "es": "En invierno, las mañanas aquí son tranquilas y muy fotogénicas."
               }
             },
             {
@@ -485,7 +520,8 @@
                 "de": "Die Mittagssonne auf dem Vorplatz ist besonders angenehm.",
                 "hu": "A déli napsütés a templom előtti téren nagyon kellemes.",
                 "ro": "Soarele de la prânz în fața bisericii este foarte plăcut.",
-                "en": "The midday sun in the square out front is very pleasant."
+                "en": "The midday sun in the square out front is very pleasant.",
+                "es": "El sol del mediodía en la plaza delantera es muy agradable."
               }
             },
             {
@@ -494,7 +530,8 @@
                 "de": "Gute Sicht durch die klare Winterluft von den Mauern.",
                 "hu": "A tiszta téli levegő miatt kiváló a kilátás a falakról.",
                 "ro": "Vizibilitate excelentă de pe ziduri datorită aerului curat.",
-                "en": "Excellent views from the walls thanks to the clear winter air."
+                "en": "Excellent views from the walls thanks to the clear winter air.",
+                "es": "Excelentes vistas desde las murallas gracias al aire limpio invernal."
               }
             },
             {
@@ -503,7 +540,8 @@
                 "de": "Planen Sie den Besuch vor 17:30 Uhr ein (Sonnenuntergang).",
                 "hu": "Tervezze a látogatást 17:30 előttre a naplemente miatt.",
                 "ro": "Planificați vizita înainte de 17:30 din cauza apusului.",
-                "en": "Plan your visit before 17:30 due to the early sunset."
+                "en": "Plan your visit before 17:30 due to the early sunset.",
+                "es": "Planifica tu visita antes de las 17:30 por la puesta de sol temprana."
               }
             }
           ],
@@ -531,6 +569,12 @@
               "Take advantage of clear days for distant views from the castle.",
               "Visit the mines before the early winter dusk sets in.",
               "In the evening, bar interiors are pleasantly warm."
+            ],
+            "es": [
+              "Vístete por capas: las mañanas son frescas, pero los mediodías son templados.",
+              "Aprovecha los días despejados para vistas lejanas desde el castillo.",
+              "Visita las minas antes de que caiga el temprano crepúsculo invernal.",
+              "Por la noche, los interiores de los bares están agradables y cálidos."
             ]
           }
         }
@@ -559,7 +603,8 @@
             "de": "Parken Sie am Eingang und erkunden Sie die verlassenen Schächte vorsichtig.",
             "hu": "Parkoljon a bejáratnál, és óvatosan fedezze fel az elhagyatott aknákat.",
             "ro": "Parcați la intrare și explorați puțurile abandonate cu atenție.",
-            "en": "Park at the entrance and explore the abandoned shafts carefully."
+            "en": "Park at the entrance and explore the abandoned shafts carefully.",
+            "es": "Aparca en la entrada y explora con cuidado los pozos abandonados."
           }
         },
         {
@@ -577,7 +622,8 @@
             "de": "Diese durch Wind geformten Sandsteinformationen werden Gredas genannt.",
             "hu": "Ezeket a szél által formált homokkő alakzatokat Gredas-nak nevezik.",
             "ro": "Aceste formațiuni de gresie modelate de vânt sunt numite Gredas.",
-            "en": "These sandstone formations shaped by wind are called Gredas."
+            "en": "These sandstone formations shaped by wind are called Gredas.",
+            "es": "Estas formaciones de arenisca moldeadas por el viento se llaman Gredas."
           }
         },
         {
@@ -595,7 +641,8 @@
             "de": "Genießen Sie ein Mittagessen am Jachthafen oder entspannen Sie am Strand.",
             "hu": "Ebédeljen a kikötőben, vagy pihenjen a homokos tengerparton.",
             "ro": "Bucurați-vă de un prânz în portul de agrement sau relaxați-vă pe plajă.",
-            "en": "Enjoy lunch at the marina or relax on the sandy beach."
+            "en": "Enjoy lunch at the marina or relax on the sandy beach.",
+            "es": "Disfruta del almuerzo en la marina o relájate en la playa de arena."
           }
         },
         {
@@ -613,7 +660,8 @@
             "de": "Besichtigen Sie die erhaltenen Becken der antiken Fischverarbeitung.",
             "hu": "Tekintse meg az ókori halfeldolgozó üzem épségben maradt medencéit.",
             "ro": "Vizitați bazinele conservate ale vechii fabrici de prelucrare a peștelui.",
-            "en": "Visit the preserved vats of the ancient Roman fish-salting factory."
+            "en": "Visit the preserved vats of the ancient Roman fish-salting factory.",
+            "es": "Visita las cubas preservadas de la antigua salazón romana."
           }
         },
         {
@@ -631,7 +679,8 @@
             "de": "Perfekter Ort für Fotos vom Hafen bei Sonnenuntergang.",
             "hu": "Tökéletes hely a kikötőről készült fotókhoz naplementekor.",
             "ro": "Locul perfect pentru fotografii cu portul la apus.",
-            "en": "The perfect spot for photos of the harbor at sunset."
+            "en": "The perfect spot for photos of the harbor at sunset.",
+            "es": "El lugar perfecto para fotos del puerto al atardecer."
           }
         }
       ],
@@ -639,7 +688,8 @@
         "de": "Erkunden Sie Mazarrón bequem mit dem Auto. Beginnen Sie mit der spektakulären Bergbaulandschaft und fahren Sie dann zur Küste, um die berühmten Erosiones de Bolnuevo zu sehen. Den Nachmittag verbringen Sie am Hafen, wo Sie römische Geschichte im Salzmuseum entdecken und den Tag mit einem Blick vom Aussichtspunkt über die Bucht abschließen.",
         "hu": "Fedezze fel Mazarrónt kényelmesen, autóval. Kezdje a látványos bányatájjal, majd hajtson le a tengerpartra a híres Bolnuevo-i eróziókhoz. A délutánt a kikötőben töltse, ahol a római kori halsózó múzeumban elmerülhet a történelemben, végül zárja a napot az öbölre néző kilátóponton.",
         "ro": "Explorați Mazarrón confortabil cu mașina. Începeți cu peisajul minier spectaculos, apoi conduceți spre coastă pentru a vedea celebrele eroziuni din Bolnuevo. Petreceți după-amiaza în port, unde puteți descoperi istoria romană la muzeul sărării peștelui și încheiați ziua cu o priveliște de la mirador.",
-        "en": "Explore Mazarrón comfortably by car. Start with the spectacular mining landscape, then drive down to the coast to see the famous Bolnuevo Erosions. Spend the afternoon at the port, where you can dive into history at the Roman fish-salting museum, and finally end the day at a viewpoint overlooking the bay."
+        "en": "Explore Mazarrón comfortably by car. Start with the spectacular mining landscape, then drive down to the coast to see the famous Bolnuevo Erosions. Spend the afternoon at the port, where you can dive into history at the Roman fish-salting museum, and finally end the day at a viewpoint overlooking the bay.",
+        "es": "Explora Mazarrón cómodamente en coche. Empieza por el espectacular paisaje minero, luego baja a la costa para ver las famosas Erosiones de Bolnuevo. Pasa la tarde en el puerto, donde puedes sumergirte en la historia en el museo de la salazón romana, y termina el día en un mirador con vistas a la bahía."
       },
       "gastro_picks": {
         "de": [
@@ -763,6 +813,12 @@
           "Parking at the port can be difficult in August; use the underground lot.",
           "The road between Mazarrón town and the port is very busy.",
           "Check the Roman museum opening hours (usually closed on Mondays)."
+        ],
+        "es": [
+          "En Bolnuevo hay un gran aparcamiento gratuito junto a las erosiones.",
+          "Aparcar en el puerto puede ser difícil en agosto; utiliza el estacionamiento subterráneo.",
+          "La carretera entre el casco urbano de Mazarrón y el puerto está muy concurrida.",
+          "Consulta los horarios de apertura del museo romano (suele cerrar los lunes)."
         ]
       },
       "variants": {
@@ -771,7 +827,8 @@
             "de": "Erkunden Sie Mazarrón bequem mit dem Auto. Beginnen Sie mit der spektakulären Bergbaulandschaft und fahren Sie dann zur Küste, um die berühmten Erosiones de Bolnuevo zu sehen. Den Nachmittag verbringen Sie am Hafen, wo Sie römische Geschichte im Salzmuseum entdecken und den Tag mit einem Blick vom Aussichtspunkt über die Bucht abschließen.",
             "hu": "Fedezze fel Mazarrónt kényelmesen, autóval. Kezdje a látványos bányatájjal, majd hajtson le a tengerpartra a híres Bolnuevo-i eróziókhoz. A délutánt a kikötőben töltse, ahol a római kori halsózó múzeumban elmerülhet a történelemben, végül zárja a napot az öbölre néző kilátóponton.",
             "ro": "Explorați Mazarrón confortabil cu mașina. Începeți cu peisajul minier spectaculos, apoi conduceți spre coastă pentru a vedea celebrele eroziuni din Bolnuevo. Petreceți după-amiaza în port, unde puteți descoperi istoria romană la muzeul sărării peștelui și încheiați ziua cu o priveliște de la mirador.",
-            "en": "Explore Mazarrón comfortably by car. Start with the spectacular mining landscape, then drive down to the coast to see the famous Bolnuevo Erosions. Spend the afternoon at the port, where you can dive into history at the Roman fish-salting museum, and finally end the day at a viewpoint overlooking the bay."
+            "en": "Explore Mazarrón comfortably by car. Start with the spectacular mining landscape, then drive down to the coast to see the famous Bolnuevo Erosions. Spend the afternoon at the port, where you can dive into history at the Roman fish-salting museum, and finally end the day at a viewpoint overlooking the bay.",
+            "es": "Explora Mazarrón cómodamente en coche. Empieza por el espectacular paisaje minero, luego baja a la costa para ver las famosas Erosiones de Bolnuevo. Pasa la tarde en el puerto, donde puedes sumergirte en la historia en el museo de la salazón romana, y termina el día en un mirador con vistas a la bahía."
           },
           "stops": [
             {
@@ -780,7 +837,8 @@
                 "de": "Parken Sie am Eingang und erkunden Sie die verlassenen Schächte vorsichtig.",
                 "hu": "Parkoljon a bejáratnál, és óvatosan fedezze fel az elhagyatott aknákat.",
                 "ro": "Parcați la intrare și explorați puțurile abandonate cu atenție.",
-                "en": "Park at the entrance and explore the abandoned shafts carefully."
+                "en": "Park at the entrance and explore the abandoned shafts carefully.",
+                "es": "Aparca en la entrada y explora con cuidado los pozos abandonados."
               }
             },
             {
@@ -789,7 +847,8 @@
                 "de": "Diese durch Wind geformten Sandsteinformationen werden Gredas genannt.",
                 "hu": "Ezeket a szél által formált homokkő alakzatokat Gredas-nak nevezik.",
                 "ro": "Aceste formațiuni de gresie modelate de vânt sunt numite Gredas.",
-                "en": "These sandstone formations shaped by wind are called Gredas."
+                "en": "These sandstone formations shaped by wind are called Gredas.",
+                "es": "Estas formaciones de arenisca moldeadas por el viento se llaman Gredas."
               }
             },
             {
@@ -798,7 +857,8 @@
                 "de": "Genießen Sie ein Mittagessen am Jachthafen oder entspannen Sie am Strand.",
                 "hu": "Ebédeljen a kikötőben, vagy pihenjen a homokos tengerparton.",
                 "ro": "Bucurați-vă de un prânz în portul de agrement sau relaxați-vă pe plajă.",
-                "en": "Enjoy lunch at the marina or relax on the sandy beach."
+                "en": "Enjoy lunch at the marina or relax on the sandy beach.",
+                "es": "Disfruta del almuerzo en la marina o relájate en la playa de arena."
               }
             },
             {
@@ -807,7 +867,8 @@
                 "de": "Besichtigen Sie die erhaltenen Becken der antiken Fischverarbeitung.",
                 "hu": "Tekintse meg az ókori halfeldolgozó üzem épségben maradt medencéit.",
                 "ro": "Vizitați bazinele conservate ale vechii fabrici de prelucrare a peștelui.",
-                "en": "Visit the preserved vats of the ancient Roman fish-salting factory."
+                "en": "Visit the preserved vats of the ancient Roman fish-salting factory.",
+                "es": "Visita las cubas preservadas de la antigua salazón romana."
               }
             },
             {
@@ -816,7 +877,8 @@
                 "de": "Perfekter Ort für Fotos vom Hafen bei Sonnenuntergang.",
                 "hu": "Tökéletes hely a kikötőről készült fotókhoz naplementekor.",
                 "ro": "Locul perfect pentru fotografii cu portul la apus.",
-                "en": "The perfect spot for photos of the harbor at sunset."
+                "en": "The perfect spot for photos of the harbor at sunset.",
+                "es": "El lugar perfecto para fotos del puerto al atardecer."
               }
             }
           ],
@@ -942,6 +1004,12 @@
               "Parking at the port can be difficult in August; use the underground lot.",
               "The road between Mazarrón town and the port is very busy.",
               "Check the Roman museum opening hours (usually closed on Mondays)."
+            ],
+            "es": [
+              "En Bolnuevo hay un gran aparcamiento gratuito junto a las erosiones.",
+              "Aparcar en el puerto puede ser difícil en agosto; utiliza el estacionamiento subterráneo.",
+              "La carretera entre el casco urbano de Mazarrón y el puerto está muy concurrida.",
+              "Consulta los horarios de apertura del museo romano (suele cerrar los lunes)."
             ]
           }
         },
@@ -950,7 +1018,8 @@
             "de": "Wir starten die Autotour bei den Minen, wo der rote Schlamm dramatisch wirkt. Danach fahren wir zu den Erosionen von Bolnuevo, die im Regen eine mystische Aura haben. Mittags erreichen wir den Hafen von Mazarrón und besuchen das Salzmuseum, um trocken zu bleiben. Den Nachmittag verbringen wir im Mirador, meist im Auto sitzend, und genießen den Blick auf das stürmische Meer.",
             "hu": "Az autós túrát a bányáknál kezdjük, ahol a vörös sár drámai látványt nyújt. Ezután a Bolnuevo-eróziókhoz hajtunk, amelyeknek esőben misztikus aurájuk van. Délben elérjük Mazarrón kikötőjét, és meglátogatjuk a Sózóüzem Múzeumot, hogy szárazon maradjunk. A délutánt a Miradornál töltjük, többnyire az autóban ülve, figyelve a viharos tengert.",
             "ro": "Începem turul cu mașina la mine, unde noroiul roșu creează un peisaj dramatic. Apoi conducem spre Eroziunile din Bolnuevo, care au o aură mistică pe ploaie. La prânz ajungem în Portul Mazarrón și vizităm muzeul fabricii de sare pentru a rămâne uscați. După-amiaza o petrecem la Mirador, stând mai mult în mașină și admirând marea agitată.",
-            "en": "We start the car tour at the mines, where the red mud looks dramatic. Then, we drive to the Bolnuevo Erosions, which have a mystical aura in the rain. At noon, we reach Puerto de Mazarrón and visit the Salt Factory Museum to stay dry. We spend the afternoon at the Mirador, mostly staying in the car to enjoy the view of the stormy sea."
+            "en": "We start the car tour at the mines, where the red mud looks dramatic. Then, we drive to the Bolnuevo Erosions, which have a mystical aura in the rain. At noon, we reach Puerto de Mazarrón and visit the Salt Factory Museum to stay dry. We spend the afternoon at the Mirador, mostly staying in the car to enjoy the view of the stormy sea.",
+            "es": "Empezamos la ruta en coche en las minas, donde el barro rojo tiene un aspecto dramático. Después conducimos a las Erosiones de Bolnuevo, que adquieren un aura mística bajo la lluvia. Al mediodía llegamos al Puerto de Mazarrón y visitamos el Museo de la Salazón para resguardarnos. Pasamos la tarde en el Mirador, permaneciendo en gran parte dentro del coche para disfrutar de la vista del mar tormentoso."
           },
           "stops": [
             {
@@ -959,7 +1028,8 @@
                 "de": "Parken Sie auf festem Untergrund, um nicht steckenzubleiben.",
                 "hu": "Parkoljon szilárd talajon, hogy ne akadjon el a sárban.",
                 "ro": "Parcați pe teren solid pentru a nu rămâne împotmoliți.",
-                "en": "Park on firm ground to avoid getting stuck in the mud."
+                "en": "Park on firm ground to avoid getting stuck in the mud.",
+                "es": "Aparca en terreno firme para evitar quedar atrapado en el barro."
               }
             },
             {
@@ -968,7 +1038,8 @@
                 "de": "Vom Parkplatz aus hat man auch aus dem Auto eine gute Sicht.",
                 "hu": "A parkolóból az autóból is jó kilátás nyílik.",
                 "ro": "Din parcare aveți o vedere bună chiar și din mașină.",
-                "en": "You can get a good view from the car park even while staying inside."
+                "en": "You can get a good view from the car park even while staying inside.",
+                "es": "Puedes obtener una buena vista desde el aparcamiento incluso permaneciendo dentro del coche."
               }
             },
             {
@@ -977,7 +1048,8 @@
                 "de": "Es gibt mehrere Tiefgaragen in der Nähe der Promenade.",
                 "hu": "Több mélygarázs is található a sétány közelében.",
                 "ro": "Există mai multe parcări subterane lângă faleză.",
-                "en": "There are several underground car parks near the promenade."
+                "en": "There are several underground car parks near the promenade.",
+                "es": "Hay varios aparcamientos subterráneos cerca del paseo marítimo."
               }
             },
             {
@@ -986,7 +1058,8 @@
                 "de": "Ideal für Regentage, da die gesamte Ausstellung überdacht ist.",
                 "hu": "Ideális esős napokra, mivel a teljes kiállítás fedett.",
                 "ro": "Ideal pentru zilele ploioase, expoziția fiind acoperită.",
-                "en": "Ideal for rainy days as the entire exhibition is indoors."
+                "en": "Ideal for rainy days as the entire exhibition is indoors.",
+                "es": "Ideal para días de lluvia, ya que toda la exposición está en interior."
               }
             },
             {
@@ -995,7 +1068,8 @@
                 "de": "Genießen Sie den Blick auf die Wellen direkt aus dem Auto.",
                 "hu": "Élvezze a hullámok látványát közvetlenül az autóból.",
                 "ro": "Bucurați-vă de vederea valurilor direct din mașină.",
-                "en": "Enjoy the view of the waves directly from your car."
+                "en": "Enjoy the view of the waves directly from your car.",
+                "es": "Disfruta de la vista de las olas directamente desde tu coche."
               }
             }
           ],
@@ -1023,6 +1097,12 @@
               "The Salt Factory Museum is the best indoor escape from the rain.",
               "Avoid coastal roads during extreme storms and high waves.",
               "Always keep an umbrella ready in the car's trunk."
+            ],
+            "es": [
+              "Utiliza los aparcamientos contiguos a los puntos de interés.",
+              "El Museo de la Salazón es la mejor escapatoria bajo techo de la lluvia.",
+              "Evita las carreteras costeras durante tormentas extremas y oleaje fuerte.",
+              "Lleva siempre un paraguas listo en el maletero del coche."
             ]
           }
         },
@@ -1031,7 +1111,8 @@
             "de": "Die winterliche Spritztour beginnt bei den Minen im milden Morgenlicht. Weiter geht es nach Bolnuevo, wo die Erosionen in der klaren Luft besonders scharf gezeichnet wirken. Mittags flanieren wir am Hafen und genießen die Wintersonne. Der Besuch im Salzmuseum bietet eine kulturelle Pause. Den Tag beenden wir am Mirador, um den frühen, aber farbenfrohen Sonnenuntergang über dem Mittelmeer zu bewundern.",
             "hu": "A téli autós kirándulás a bányáknál kezdődik az enyhe reggeli fényben. Továbbhaladunk Bolnuevo felé, ahol az eróziók a tiszta levegőben különösen éles kontúrokkal látszanak. Délben a kikötőben sétálunk, élvezve a téli napsütést. A Sózóüzem Múzeum kulturális kikapcsolódást nyújt. A napot a Miradornál zárjuk, megcsodálva a korai, de színpompás naplementét a Földközi-tenger felett.",
             "ro": "Excursia cu mașina de iarnă începe la mine în lumina blândă a dimineții. Continuăm spre Bolnuevo, unde eroziunile par sculptate în aerul curat. La prânz ne plimbăm prin port, profitând de soarele de iarnă. Vizita la muzeul fabricii de sare oferă o pauză culturală. Încheiem ziua la Mirador pentru a admira apusul devreme, dar colorat, peste Mediterană.",
-            "en": "Our winter drive begins at the mines in the mild morning light. We continue to Bolnuevo, where the erosions appear sharply defined in the clear air. At noon, we stroll through the harbor, soaking up the winter sun. The Salt Factory Museum visit provides a cultural break. We end the day at the Mirador to admire the early but colorful sunset over the Mediterranean."
+            "en": "Our winter drive begins at the mines in the mild morning light. We continue to Bolnuevo, where the erosions appear sharply defined in the clear air. At noon, we stroll through the harbor, soaking up the winter sun. The Salt Factory Museum visit provides a cultural break. We end the day at the Mirador to admire the early but colorful sunset over the Mediterranean.",
+            "es": "Nuestra ruta de invierno comienza en las minas con la luz suave de la mañana. Continuamos hacia Bolnuevo, donde las erosiones se ven definidas en el aire claro. Al mediodía paseamos por el puerto, disfrutando del sol invernal. La visita al Museo de la Salazón ofrece un descanso cultural. Terminamos el día en el Mirador para admirar la puesta de sol, temprana pero colorida, sobre el Mediterráneo."
           },
           "stops": [
             {
@@ -1040,7 +1121,8 @@
                 "de": "Morgens ist das Licht für Landschaftsaufnahmen hier perfekt.",
                 "hu": "Reggel a fények tökéletesek a tájképfotózáshoz.",
                 "ro": "Dimineața, lumina este perfectă pentru fotografii de peisaj.",
-                "en": "In the morning, the light is perfect for landscape photography here."
+                "en": "In the morning, the light is perfect for landscape photography here.",
+                "es": "Por la mañana, la luz es perfecta para la fotografía de paisajes aquí."
               }
             },
             {
@@ -1049,7 +1131,8 @@
                 "de": "Die klare Winterluft ermöglicht weite Sicht auf die Küste.",
                 "hu": "A tiszta téli levegő messzi kilátást biztosít a partra.",
                 "ro": "Aerul curat de iarnă permite o vedere largă asupra coastei.",
-                "en": "The clear winter air allows for expansive views along the coast."
+                "en": "The clear winter air allows for expansive views along the coast.",
+                "es": "El aire claro del invierno permite vistas amplias a lo largo de la costa."
               }
             },
             {
@@ -1058,7 +1141,8 @@
                 "de": "Parkplätze sind im Winter im Hafenbereich leicht zu finden.",
                 "hu": "Télen könnyű parkolóhelyet találni a kikötő környékén.",
                 "ro": "Locurile de parcare sunt ușor de găsit în zona portului iarna.",
-                "en": "Parking spaces are easy to find in the harbor area in winter."
+                "en": "Parking spaces are easy to find in the harbor area in winter.",
+                "es": "En invierno es fácil encontrar plazas de aparcamiento en la zona del puerto."
               }
             },
             {
@@ -1067,7 +1151,8 @@
                 "de": "Angenehme Temperaturen im Inneren des Museumsgebäudes.",
                 "hu": "Kellemes hőmérséklet a múzeum épületének belsejében.",
                 "ro": "Temperaturi plăcute în interiorul clădirii muzeului.",
-                "en": "Pleasant temperatures inside the museum building."
+                "en": "Pleasant temperatures inside the museum building.",
+                "es": "Temperaturas agradables en el interior del edificio del museo."
               }
             },
             {
@@ -1076,7 +1161,8 @@
                 "de": "Seien Sie gegen 17:15 Uhr hier, um den Sonnenuntergang zu sehen.",
                 "hu": "Legyen itt 17:15 körül, hogy lássa a naplementét.",
                 "ro": "Fiți aici în jur de 17:15 pentru a vedea apusul.",
-                "en": "Be here around 17:15 to catch the sunset."
+                "en": "Be here around 17:15 to catch the sunset.",
+                "es": "Estar aquí alrededor de las 17:15 para captar la puesta de sol."
               }
             }
           ],
@@ -1104,6 +1190,12 @@
               "Take advantage of the off-season for stress-free parking at the port.",
               "Check the museum's opening hours; they may be shorter in winter.",
               "Bring a jacket; as soon as the sun goes down, it gets chilly."
+            ],
+            "es": [
+              "Las carreteras están más vacías y es más relajado conducir en invierno.",
+              "Aprovecha la temporada baja para aparcar sin estrés en el puerto.",
+              "Consulta los horarios del museo; pueden ser más cortos en invierno.",
+              "Lleva una cazadora; en cuanto se pone el sol refresca."
             ]
           }
         }
@@ -1116,19 +1208,22 @@
       "de": "Mazarron ist ein traditionelles spanisches Fischerdorf, Englischkenntnisse sind oft Glueckssache. Murcia-Dialekt ist hier stark ausgepraegt, langsam und deutlich sprechen hilft. Frisches Fischmenue 'a la sal' (in Salzkruste) ist die lokale Spezialitaet, ruhig nach 'la dorada del dia' fragen.",
       "hu": "Mazarron hagyomanyos spanyol halaszfalu, az angol gyakran szerencsejatek. A murciai dialektus eros, lassan, tagoltan beszelj. A 'a la sal' (sokeregben suit) hal a helyi specialitas, nyugodtan kerdezz 'la dorada del dia'-ra.",
       "ro": "Mazarron e un sat pescaresc traditional, engleza fiind o loterie. Dialectul murcian e marcat, vorbeste rar si clar. Specialitatea zonei e pestele 'a la sal' (in crusta de sare), intreaba dupa 'la dorada del dia'.",
-      "en": "Mazarron is a traditional Spanish fishing village, with English knowledge hit-or-miss. The Murcian dialect is strong here, so speak slowly and clearly. The local speciality is fish 'a la sal' (in salt crust), ask for 'la dorada del dia'."
+      "en": "Mazarron is a traditional Spanish fishing village, with English knowledge hit-or-miss. The Murcian dialect is strong here, so speak slowly and clearly. The local speciality is fish 'a la sal' (in salt crust), ask for 'la dorada del dia'.",
+      "es": "Mazarrón es un pueblo pesquero tradicional español; el inglés es irregular. El acento murciano es pronunciado, así que habla despacio y con claridad. La especialidad local es el pescado 'a la sal'; pide \"la dorada del día\"."
     },
     "best_time_to_visit": {
       "de": "Mazarron hat 320 Sonnentage und milde Winter, Januar bietet 18 Grad und leere Buchten. April bis Juni und September sind die besten Strandmonate. Im Juli wird es 35 Grad heiss, das Wasser bleibt aber bis Oktober angenehm um 24 Grad.",
       "hu": "Mazarron 320 napsutes napos evvel buszkelkedik, januarban is 18 fok van es uresek az oblok. Aprilis-junius es szeptember a legjobb strand ido. Juliusban 35 fok is megvan, a tenger viszont oktoberig kellemes, 24 fok korul.",
       "ro": "Mazarron are 320 zile cu soare si ierni blande, in ianuarie sunt 18 grade si golfuri goale. Aprilie-iunie si septembrie sunt cele mai bune luni de plaja. In iulie ajunge la 35 grade, dar marea ramane placuta pana in octombrie la 24 grade.",
-      "en": "Mazarron boasts 320 sunny days and mild winters, with 18C and empty coves even in January. April-June and September are the best beach months. July hits 35C, while the sea stays a pleasant 24C right through October."
+      "en": "Mazarron boasts 320 sunny days and mild winters, with 18C and empty coves even in January. April-June and September are the best beach months. July hits 35C, while the sea stays a pleasant 24C right through October.",
+      "es": "Mazarrón goza de 320 días soleados y inviernos suaves, con 18 °C y calas vacías incluso en enero. Abril-junio y septiembre son los mejores meses de playa. Julio llega a 35 °C, mientras que el mar se mantiene agradable a 24 °C hasta octubre."
     },
     "neighborhood_warnings": {
       "de": "Sehr ruhiger Ort mit minimaler Kriminalitaet, Nachtspaziergaenge sind unproblematisch. Die Buchten Bolnuevo und Percheles erreicht man ueber kurvige Strassen, im Sommer Parkplatzmangel. Achtung auf die berueh mten 'Erosiones de Bolnuevo', das weiche Gestein darf nicht betreten werden.",
       "hu": "Nagyon csendes, minimalis bunozes, ejszakai setak nyugodtan. Bolnuevo es Percheles oblok kanyargos uton elerhetok, nyaron kevesz a parkolo. Vigyazz a hires 'Erosiones de Bolnuevo'-ra, a laza koeze nem lephato meg.",
       "ro": "Loc foarte linistit, criminalitate aproape inexistenta, plimbarile de noapte sunt sigure. Golfurile Bolnuevo si Percheles se ajunge pe drumuri serpuite, parcari putine vara. Atentie la celebrele 'Erosiones de Bolnuevo', stanca moale nu trebuie escaladata.",
-      "en": "Very quiet town with minimal crime, nighttime strolls are fine. Bolnuevo and Percheles coves are reached by winding roads, with scarce summer parking. Mind the famous 'Erosiones de Bolnuevo' sandstone formations, which must not be climbed."
+      "en": "Very quiet town with minimal crime, nighttime strolls are fine. Bolnuevo and Percheles coves are reached by winding roads, with scarce summer parking. Mind the famous 'Erosiones de Bolnuevo' sandstone formations, which must not be climbed.",
+      "es": "Pueblo muy tranquilo con delincuencia mínima; paseos nocturnos son seguros. Las calas de Bolnuevo y Percheles se alcanzan por carreteras sinuosas, con escaso aparcamiento en verano. Ten en cuenta las famosas Erosiones de Bolnuevo, formaciones de arenisca que no deben escalarse."
     }
   }
 }

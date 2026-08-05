@@ -21,7 +21,8 @@
             "de": "Kirche San Juan Bautista",
             "hu": "Szent János templom",
             "ro": "Biserica San Juan Bautista",
-            "en": "Church of San Juan Bautista"
+            "en": "Church of San Juan Bautista",
+            "es": "Iglesia de San Juan Bautista"
           },
           "coords": [
             2.6485,
@@ -36,7 +37,8 @@
             "de": "Der Friedhof daneben bietet die beste Aussicht.",
             "hu": "A mellette lévő temetőből nyílik a legjobb kilátás.",
             "ro": "Cimitirul de alături oferă cea mai bună vedere.",
-            "en": "The cemetery next to it offers the best view."
+            "en": "The cemetery next to it offers the best view.",
+            "es": "El cementerio junto a ella ofrece la mejor vista."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Friedhof von Deià",
             "hu": "Deià temetője",
             "ro": "Cimitirul din Deià",
-            "en": "Cemetery of Deià"
+            "en": "Cemetery of Deià",
+            "es": "Cementerio de Deià"
           },
           "coords": [
             2.6488,
@@ -59,7 +62,8 @@
             "de": "Besuchen Sie das Grab von Robert Graves.",
             "hu": "Látogassa meg Robert Graves sírját.",
             "ro": "Vizitați mormântul lui Robert Graves.",
-            "en": "Visit the grave of Robert Graves."
+            "en": "Visit the grave of Robert Graves.",
+            "es": "Visita la tumba de Robert Graves."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Robert Graves Haus",
             "hu": "Robert Graves háza",
             "ro": "Casa Robert Graves",
-            "en": "Robert Graves House"
+            "en": "Robert Graves House",
+            "es": "Casa de Robert Graves"
           },
           "coords": [
             2.6515,
@@ -82,7 +87,8 @@
             "de": "Ein Muss für Literaturfans.",
             "hu": "Irodalomkedvelőknek kötelező.",
             "ro": "Obligatoriu pentru fanii literaturii.",
-            "en": "A must for literature fans."
+            "en": "A must for literature fans.",
+            "es": "Imprescindible para fans de la literatura."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Archäologisches Museum Deià",
             "hu": "Deià Régészeti Múzeuma",
             "ro": "Muzeul Arheologic Deià",
-            "en": "Archaeological Museum Deià"
+            "en": "Archaeological Museum Deià",
+            "es": "Museo Arqueológico de Deià"
           },
           "coords": [
             2.6475,
@@ -105,7 +112,8 @@
             "de": "Kleine, aber feine Sammlung in einer alten Mühle.",
             "hu": "Kicsi, de szép gyűjtemény egy régi malomban.",
             "ro": "Colecție mică, dar fină, într-o moară veche.",
-            "en": "Small but fine collection in an old mill."
+            "en": "Small but fine collection in an old mill.",
+            "es": "Pequeña pero buena colección en un antiguo molino."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Cala Deià",
             "hu": "Cala Deià öböl",
             "ro": "Cala Deià",
-            "en": "Cala Deià"
+            "en": "Cala Deià",
+            "es": "Cala Deià"
           },
           "coords": [
             2.6405,
@@ -128,7 +137,8 @@
             "de": "Der Abstiegspfad durch die Olivenhaine ist traumhaft.",
             "hu": "Az olajfaligeteken át vezető lejtős ösvény mesés.",
             "ro": "Poteca de coborâre prin livezile de măslini este de vis.",
-            "en": "The descent path through the olive groves is dreamy."
+            "en": "The descent path through the olive groves is dreamy.",
+            "es": "El sendero de descenso entre olivos es de ensueño."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Deià ist das Dorf der Künstler und Denker. Beginnen Sie oben bei der Kirche und dem Friedhof, wo die Ruhe greifbar ist. Nach dem Besuch im Haus des Dichters Robert Graves wandern Sie hinunter zur malerischen Cala Deià, einer der ikonischsten Buchten der Insel.",
         "hu": "Deià a művészek és gondolkodók faluja. Kezdje fent a templomnál és a temetőnél, ahol kézzelfogható a nyugalom. Robert Graves költő házának megtekintése után sétáljon le a festői Cala Deià öbölhöz, a sziget egyik legikonikusabb helyszínéhez.",
         "ro": "Deià este satul artiștilor și al gânditorilor. Începeți de sus, de la biserică și cimitir, unde liniștea este palpabilă. După vizitarea casei poetului Robert Graves, coborâți spre pitoreasca Cala Deià, unul dintre cele mai emblematice golfuri de pe insulă.",
-        "en": "Deià is the village of artists and thinkers. Start at the top by the church and the cemetery, where the peace is tangible. After visiting the home of poet Robert Graves, hike down to the picturesque Cala Deià, one of the most iconic coves on the island."
+        "en": "Deià is the village of artists and thinkers. Start at the top by the church and the cemetery, where the peace is tangible. After visiting the home of poet Robert Graves, hike down to the picturesque Cala Deià, one of the most iconic coves on the island.",
+        "es": "Deià es el pueblo de artistas y pensadores. Empieza arriba, junto a la iglesia y el cementerio, donde la paz se siente. Tras visitar la casa del poeta Robert Graves, desciende hasta la pintoresca Cala Deià, una de las calas más icónicas de la isla."
       },
       "gastro_picks": {
         "de": [
@@ -244,6 +255,12 @@
           "Book at Ca's Patró March weeks in advance.",
           "The village is very hilly.",
           "Parking spaces are extremely limited."
+        ],
+        "es": [
+          "El camino a la cala es empinado; lleva calzado de trekking.",
+          "Reserva en Ca's Patró March con semanas de antelación.",
+          "El pueblo es muy empinado.",
+          "Los espacios de aparcamiento son extremadamente limitados."
         ]
       },
       "variants": {
@@ -252,7 +269,8 @@
             "de": "Deià ist das Dorf der Künstler und Denker. Beginnen Sie oben bei der Kirche und dem Friedhof, wo die Ruhe greifbar ist. Nach dem Besuch im Haus des Dichters Robert Graves wandern Sie hinunter zur malerischen Cala Deià, einer der ikonischsten Buchten der Insel.",
             "hu": "Deià a művészek és gondolkodók faluja. Kezdje fent a templomnál és a temetőnél, ahol kézzelfogható a nyugalom. Robert Graves költő házának megtekintése után sétáljon le a festői Cala Deià öbölhöz, a sziget egyik legikonikusabb helyszínéhez.",
             "ro": "Deià este satul artiștilor și al gânditorilor. Începeți de sus, de la biserică și cimitir, unde liniștea este palpabilă. După vizitarea casei poetului Robert Graves, coborâți spre pitoreasca Cala Deià, unul dintre cele mai emblematice golfuri de pe insulă.",
-            "en": "Deià is the village of artists and thinkers. Start at the top by the church and the cemetery, where the peace is tangible. After visiting the home of poet Robert Graves, hike down to the picturesque Cala Deià, one of the most iconic coves on the island."
+            "en": "Deià is the village of artists and thinkers. Start at the top by the church and the cemetery, where the peace is tangible. After visiting the home of poet Robert Graves, hike down to the picturesque Cala Deià, one of the most iconic coves on the island.",
+            "es": "Deià es el pueblo de artistas y pensadores. Empieza arriba, junto a la iglesia y el cementerio, donde la paz se siente. Tras visitar la casa del poeta Robert Graves, desciende hasta la pintoresca Cala Deià, una de las calas más icónicas de la isla."
           },
           "stops": [
             {
@@ -260,13 +278,15 @@
                 "de": "Kirche San Juan Bautista",
                 "hu": "Szent János templom",
                 "ro": "Biserica San Juan Bautista",
-                "en": "Church of San Juan Bautista"
+                "en": "Church of San Juan Bautista",
+                "es": "Iglesia de San Juan Bautista"
               },
               "tip_5lang": {
                 "de": "Der Friedhof daneben bietet die beste Aussicht.",
                 "hu": "A mellette lévő temetőből nyílik a legjobb kilátás.",
                 "ro": "Cimitirul de alături oferă cea mai bună vedere.",
-                "en": "The cemetery next to it offers the best view."
+                "en": "The cemetery next to it offers the best view.",
+                "es": "El cementerio junto a ella ofrece la mejor vista."
               }
             },
             {
@@ -274,13 +294,15 @@
                 "de": "Friedhof von Deià",
                 "hu": "Deià temetője",
                 "ro": "Cimitirul din Deià",
-                "en": "Cemetery of Deià"
+                "en": "Cemetery of Deià",
+                "es": "Cementerio de Deià"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie das Grab von Robert Graves.",
                 "hu": "Látogassa meg Robert Graves sírját.",
                 "ro": "Vizitați mormântul lui Robert Graves.",
-                "en": "Visit the grave of Robert Graves."
+                "en": "Visit the grave of Robert Graves.",
+                "es": "Visita la tumba de Robert Graves."
               }
             },
             {
@@ -288,13 +310,15 @@
                 "de": "Robert Graves Haus",
                 "hu": "Robert Graves háza",
                 "ro": "Casa Robert Graves",
-                "en": "Robert Graves House"
+                "en": "Robert Graves House",
+                "es": "Casa de Robert Graves"
               },
               "tip_5lang": {
                 "de": "Ein Muss für Literaturfans.",
                 "hu": "Irodalomkedvelőknek kötelező.",
                 "ro": "Obligatoriu pentru fanii literaturii.",
-                "en": "A must for literature fans."
+                "en": "A must for literature fans.",
+                "es": "Imprescindible para fans de la literatura."
               }
             },
             {
@@ -302,13 +326,15 @@
                 "de": "Archäologisches Museum Deià",
                 "hu": "Deià Régészeti Múzeuma",
                 "ro": "Muzeul Arheologic Deià",
-                "en": "Archaeological Museum Deià"
+                "en": "Archaeological Museum Deià",
+                "es": "Museo Arqueológico de Deià"
               },
               "tip_5lang": {
                 "de": "Kleine, aber feine Sammlung in einer alten Mühle.",
                 "hu": "Kicsi, de szép gyűjtemény egy régi malomban.",
                 "ro": "Colecție mică, dar fină, într-o moară veche.",
-                "en": "Small but fine collection in an old mill."
+                "en": "Small but fine collection in an old mill.",
+                "es": "Pequeña pero buena colección en un antiguo molino."
               }
             },
             {
@@ -316,13 +342,15 @@
                 "de": "Cala Deià",
                 "hu": "Cala Deià öböl",
                 "ro": "Cala Deià",
-                "en": "Cala Deià"
+                "en": "Cala Deià",
+                "es": "Cala Deià"
               },
               "tip_5lang": {
                 "de": "Der Abstiegspfad durch die Olivenhaine ist traumhaft.",
                 "hu": "Az olajfaligeteken át vezető lejtős ösvény mesés.",
                 "ro": "Poteca de coborâre prin livezile de măslini este de vis.",
-                "en": "The descent path through the olive groves is dreamy."
+                "en": "The descent path through the olive groves is dreamy.",
+                "es": "El sendero de descenso entre olivos es de ensueño."
               }
             }
           ],
@@ -432,6 +460,12 @@
               "Book at Ca's Patró March weeks in advance.",
               "The village is very hilly.",
               "Parking spaces are extremely limited."
+            ],
+            "es": [
+              "El camino a la cala es empinado; lleva calzado de trekking.",
+              "Reserva en Ca's Patró March con semanas de antelación.",
+              "El pueblo es muy empinado.",
+              "Las plazas de aparcamiento son extremadamente limitadas."
             ]
           }
         },
@@ -440,7 +474,8 @@
             "de": "Beginnen Sie Ihren Tag in der mystischen Atmosphäre der Kirche San Juan Bautista, während der Regen sanft gegen die Mauern klopft. Mittags bietet das Robert Graves Haus eine literarische Flucht vor dem Wetter. Nachmittags erkunden Sie das Archäologische Museum in aller Ruhe. Den Tag lassen Sie mit Blick auf die stürmische Bucht Cala Deià ausklingen, wo die Wellen kraftvoll an die Felsen schlagen.",
             "hu": "Kezdje a napot a San Juan Bautista templom misztikus falai között, miközben kint csendesen esik. Délben Robert Graves háza nyújt menedéket és irodalmi élményeket. Délután a Régészeti Múzeum belső tereiben kalandozhat az eső elől. Az estét a Cala Deià öbölben zárja, ahol a viharos tenger látványa és a szikláknak csapódó hullámok ereje lenyűgöző élményt nyújt.",
             "ro": "Începeți ziua în atmosfera mistică a Bisericii San Juan Bautista, în timp ce ploaia bate ușor în ziduri. La prânz, Casa lui Robert Graves oferă o evadare literară perfectă. După-amiaza, explorați Muzeul Arheologic, feriți de intemperii. Încheiați ziua admirând golful Cala Deià, unde marea agitată și valurile care se sparg de stânci creează un spectacol natural dramatic.",
-            "en": "Start your day in the mystical atmosphere of the Church of San Juan Bautista as rain taps gently against the stone. At noon, Robert Graves House provides a perfect literary escape from the wet weather. In the afternoon, explore the Archaeological Museum's indoor exhibits. End your day overlooking Cala Deià, where the stormy sea and waves crashing against the rocks offer a powerful sight."
+            "en": "Start your day in the mystical atmosphere of the Church of San Juan Bautista as rain taps gently against the stone. At noon, Robert Graves House provides a perfect literary escape from the wet weather. In the afternoon, explore the Archaeological Museum's indoor exhibits. End your day overlooking Cala Deià, where the stormy sea and waves crashing against the rocks offer a powerful sight.",
+            "es": "Empieza el día en la atmósfera mística de la Iglesia de San Juan Bautista mientras la lluvia golpea suavemente la piedra. Al mediodía, la Casa de Robert Graves ofrece un perfecto escape literario de la lluvia. Por la tarde, explora las exposiciones interiores del Museo Arqueológico. Termina la jornada con vistas a la Cala Deià, donde el mar embravecido y las olas chocando contra las rocas ofrecen un espectáculo poderoso."
           },
           "stops": [
             {
@@ -449,7 +484,8 @@
                 "de": "Nutzen Sie den überdachten Kircheneingang zum Unterstellen.",
                 "hu": "Használja a templom fedett bejáratát várakozáshoz.",
                 "ro": "Folosiți intrarea acoperită a bisericii pentru adăpost.",
-                "en": "Use the covered church entrance for shelter."
+                "en": "Use the covered church entrance for shelter.",
+                "es": "Utiliza la entrada cubierta de la iglesia como refugio."
               }
             },
             {
@@ -458,7 +494,8 @@
                 "de": "Vorsicht auf den gepflasterten Wegen, sie sind bei Nässe rutschig.",
                 "hu": "Vigyázzon a kövezett utakon, esőben csúszósak lehetnek.",
                 "ro": "Atenție pe aleile pietruite, sunt alunecoase când sunt ude.",
-                "en": "Be careful on the cobbled paths; they are slippery when wet."
+                "en": "Be careful on the cobbled paths; they are slippery when wet.",
+                "es": "Ten cuidado en los caminos empedrados; resbalan cuando están mojados."
               }
             },
             {
@@ -467,7 +504,8 @@
                 "de": "Perfekt für eine längere Pause im Trockenen während eines Schauers.",
                 "hu": "Tökéletes hely egy hosszabb, száraz pihenőre az eső alatt.",
                 "ro": "Perfect pentru o pauză lungă la uscat în timpul ploii.",
-                "en": "Perfect for a long dry break during a rain shower."
+                "en": "Perfect for a long dry break during a rain shower.",
+                "es": "Perfecto para una larga pausa seca durante un chubasco."
               }
             },
             {
@@ -476,7 +514,8 @@
                 "de": "Ein kleiner, aber feiner Ort, um dem Regen zu entkommen.",
                 "hu": "Kicsi, de kiváló hely az eső elől való menekülésre.",
                 "ro": "Un loc mic dar excelent pentru a scăpa de ploaie.",
-                "en": "A small but excellent place to escape the rain."
+                "en": "A small but excellent place to escape the rain.",
+                "es": "Un lugar pequeño pero excelente para refugiarse de la lluvia."
               }
             },
             {
@@ -485,7 +524,8 @@
                 "de": "Die Restaurants in Meeresnähe bieten Schutz und tolle Ausblicke.",
                 "hu": "A tengerparti éttermek menedéket és remek kilátást nyújtanak.",
                 "ro": "Restaurantele de lângă mare oferă adăpost și vederi grozave.",
-                "en": "The seaside restaurants offer shelter and great views."
+                "en": "The seaside restaurants offer shelter and great views.",
+                "es": "Los restaurantes junto al mar ofrecen refugio y excelentes vistas."
               }
             }
           ],
@@ -513,6 +553,12 @@
               "Wear waterproof hiking shoes for the steep village streets.",
               "Many cafes use patio heaters under their awnings.",
               "The path to the cove can be partially flooded during heavy rain."
+            ],
+            "es": [
+              "Un paraguas resistente es imprescindible dada la presencia de rachas de viento en Deià.",
+              "Ponte calzado de senderismo impermeable para las empinadas calles del pueblo.",
+              "Muchos cafés usan calefactores en las terrazas bajo sus toldos.",
+              "El camino hacia la cala puede quedar parcialmente inundado durante lluvias fuertes."
             ]
           }
         },
@@ -521,7 +567,8 @@
             "de": "Erleben Sie Deià im Winter ohne die Touristenmassen. Der Morgen an der Kirche ist still und friedlich. Mittags wärmt die tiefstehende Sonne das Robert Graves Anwesen. Nachmittags bietet das Museum einen gemütlichen Rückzugsort. Da die Sonne bereits gegen 17:30 Uhr hinter den Bergen verschwindet, ist der frühe Abend in der Cala Deià perfekt, um die klare Winterluft am Meer zu genießen.",
             "hu": "Fedezze fel Deiàt télen, a turistatömegek nélkül. A reggel a templomnál csendes és békés. Délben az alacsonyan járó nap sugarai melengetik Robert Graves birtokát. Délután a múzeum meghitt menedéket nyújt. Mivel a nap 17:30 körül már eltűnik a hegyek mögött, a kora este a Cala Deià öbölben tökéletes a tiszta téli tengeri levegő élvezetéhez.",
             "ro": "Experimentați Deià iarna, fără mulțimile de turiști. Dimineața la biserică este liniștită și pașnică. La prânz, soarele blând încălzește proprietatea lui Robert Graves. După-amiaza, muzeul oferă un refugiu primitor. Deoarece soarele apune după munți în jurul orei 17:30, seara devreme la Cala Deià este perfectă pentru aerul curat de iarnă.",
-            "en": "Experience Deià in winter without the tourist crowds. Morning at the church is quiet and peaceful. At noon, the low sun warms the Robert Graves estate. In the afternoon, the museum offers a cozy retreat. Since the sun disappears behind the mountains by 17:30, early evening at Cala Deià is perfect for enjoying the crisp winter sea air."
+            "en": "Experience Deià in winter without the tourist crowds. Morning at the church is quiet and peaceful. At noon, the low sun warms the Robert Graves estate. In the afternoon, the museum offers a cozy retreat. Since the sun disappears behind the mountains by 17:30, early evening at Cala Deià is perfect for enjoying the crisp winter sea air.",
+            "es": "Vive Deià en invierno sin las multitudes turísticas. La mañana en la iglesia es tranquila y pacífica. Al mediodía, el sol bajo calienta la finca de Robert Graves. Por la tarde, el museo ofrece un acogedor refugio. Como el sol desaparece tras las montañas a las 17:30, el atardecer temprano en Cala Deià es perfecto para disfrutar del aire marino invernal y fresco."
           },
           "stops": [
             {
@@ -530,7 +577,8 @@
                 "de": "Ziehen Sie sich warm an, in der Kirche ist es recht kühl.",
                 "hu": "Öltözzön rétegesen, a templomban elég hűvös van.",
                 "ro": "Îmbrăcați-vă gros, în interiorul bisericii este destul de răcoare.",
-                "en": "Dress warmly; it is quite chilly inside the church."
+                "en": "Dress warmly; it is quite chilly inside the church.",
+                "es": "Vístete abrigado; hace bastante frío dentro de la iglesia."
               }
             },
             {
@@ -539,7 +587,8 @@
                 "de": "Genießen Sie die klare Sicht auf die umliegenden Berge.",
                 "hu": "Élvezze a tiszta kilátást a környező hegyekre.",
                 "ro": "Bucurați-vă de vizibilitatea clară asupra munților din jur.",
-                "en": "Enjoy the clear visibility of the surrounding mountains."
+                "en": "Enjoy the clear visibility of the surrounding mountains.",
+                "es": "Disfruta de la visibilidad clara de las montañas circundantes."
               }
             },
             {
@@ -548,7 +597,8 @@
                 "de": "Prüfen Sie die kürzeren Winteröffnungszeiten vorab.",
                 "hu": "Ellenőrizze előre a rövidebb téli nyitvatartást.",
                 "ro": "Verificați orele de deschidere mai scurte de iarnă în avans.",
-                "en": "Check the shorter winter opening hours in advance."
+                "en": "Check the shorter winter opening hours in advance.",
+                "es": "Consulta con antelación los horarios de apertura reducidos en invierno."
               }
             },
             {
@@ -557,7 +607,8 @@
                 "de": "Ein guter Ort, um sich zwischen den Spaziergängen aufzuwärmen.",
                 "hu": "Jó hely a felmelegedésre a séták között.",
                 "ro": "Un loc bun pentru a vă încălzi între plimbări.",
-                "en": "A good spot to warm up between walks."
+                "en": "A good spot to warm up between walks.",
+                "es": "Un buen lugar para entrar en calor entre paseos."
               }
             },
             {
@@ -566,7 +617,8 @@
                 "de": "Bringen Sie eine Thermoskanne mit, viele Strandbars sind zu.",
                 "hu": "Vigyen termoszt, mivel sok tengerparti bár zárva tart.",
                 "ro": "Aduceți un termos, multe baruri de pe plajă sunt închise.",
-                "en": "Bring a thermos; many beach bars are closed in winter."
+                "en": "Bring a thermos; many beach bars are closed in winter.",
+                "es": "Lleva un termo; muchos chiringuitos están cerrados en invierno."
               }
             }
           ],
@@ -594,6 +646,12 @@
               "Layering clothes is ideal due to the temperature fluctuations.",
               "Some trails can be damp and mossy during winter.",
               "Book tables in the few restaurants that remain open."
+            ],
+            "es": [
+              "El sol desaparece muy pronto detrás de los picos en el valle.",
+              "Vestir en capas es ideal debido a las fluctuaciones de temperatura.",
+              "Algunos senderos pueden estar húmedos y cubiertos de musgo durante el invierno.",
+              "Reserva mesa en los pocos restaurantes que permanecen abiertos."
             ]
           }
         }
@@ -612,7 +670,8 @@
             "de": "Kloster Miramar",
             "hu": "Miramar monostor",
             "ro": "Mănăstirea Miramar",
-            "en": "Miramar Monastery"
+            "en": "Miramar Monastery",
+            "es": "Monasterio de Miramar"
           },
           "coords": [
             2.6235,
@@ -627,7 +686,8 @@
             "de": "Einst Sitz von Erzherzog Ludwig Salvator.",
             "hu": "Egykor Lajos Szalvátor főherceg székhelye.",
             "ro": "Fosta reședință a Arhiducelui Ludwig Salvator.",
-            "en": "Former seat of Archduke Ludwig Salvator."
+            "en": "Former seat of Archduke Ludwig Salvator.",
+            "es": "Antigua residencia del archiduque Ludwig Salvator."
           }
         },
         {
@@ -635,7 +695,8 @@
             "de": "Son Marroig",
             "hu": "Son Marroig birtok",
             "ro": "Son Marroig",
-            "en": "Son Marroig"
+            "en": "Son Marroig",
+            "es": "Son Marroig"
           },
           "coords": [
             2.6285,
@@ -650,7 +711,8 @@
             "de": "Der weiße Marmortempel ist das Wahrzeichen.",
             "hu": "A fehér márványtemplom a birtok jelképe.",
             "ro": "Templul de marmură albă este emblema.",
-            "en": "The white marble temple is the landmark."
+            "en": "The white marble temple is the landmark.",
+            "es": "El templo de mármol blanco es el hito."
           }
         },
         {
@@ -658,7 +720,8 @@
             "de": "Sa Foradada",
             "hu": "Sa Foradada szikla",
             "ro": "Sa Foradada",
-            "en": "Sa Foradada"
+            "en": "Sa Foradada",
+            "es": "Sa Foradada"
           },
           "coords": [
             2.6295,
@@ -673,7 +736,8 @@
             "de": "Perfekter Ort für eine Pause.",
             "hu": "Tökéletes hely egy pihenőhöz.",
             "ro": "Locul perfect pentru o pauză.",
-            "en": "Perfect place for a break."
+            "en": "Perfect place for a break.",
+            "es": "Lugar perfecto para una pausa."
           }
         },
         {
@@ -681,7 +745,8 @@
             "de": "Kirche San Juan Bautista",
             "hu": "Szent János templom",
             "ro": "Biserica San Juan Bautista",
-            "en": "Church of San Juan Bautista"
+            "en": "Church of San Juan Bautista",
+            "es": "Iglesia de San Juan Bautista"
           },
           "coords": [
             2.6485,
@@ -696,7 +761,8 @@
             "de": "Letzter Anstieg ins Dorf.",
             "hu": "Utolsó emelkedő a faluba.",
             "ro": "Ultima urcare în sat.",
-            "en": "Last climb into the village."
+            "en": "Last climb into the village.",
+            "es": "Última subida al pueblo."
           }
         }
       ],
@@ -704,7 +770,8 @@
         "de": "Diese Radtour führt entlang der spektakulären Küstenstraße Ma-10. Sie besuchen die historischen Anwesen Miramar und Son Marroig, genießen den Blick auf die Halbinsel Sa Foradada und kehren schließlich ins Herz von Deià zurück.",
         "hu": "Ez a kerékpártúra a látványos Ma-10 tengerparti út mentén halad. Meglátogatja Miramar és Son Marroig történelmi birtokait, élvezi a kilátást a Sa Foradada-félszigetre, végül visszatér Deià szívébe.",
         "ro": "Acest tur cu bicicleta urmează spectaculosul drum de coastă Ma-10. Veți vizita proprietățile istorice Miramar și Son Marroig, veți admira vederea spre peninsula Sa Foradada și vă veți întoarce în inima satului Deià.",
-        "en": "This bike tour follows the spectacular Ma-10 coastal road. You will visit the historic estates of Miramar and Son Marroig, enjoy views of the Sa Foradada peninsula, and finally return to the heart of Deià."
+        "en": "This bike tour follows the spectacular Ma-10 coastal road. You will visit the historic estates of Miramar and Son Marroig, enjoy views of the Sa Foradada peninsula, and finally return to the heart of Deià.",
+        "es": "Esta ruta en bicicleta sigue la espectacular carretera costera Ma-10. Visitarás las históricas fincas de Miramar y Son Marroig, disfrutarás de las vistas de la península de Sa Foradada y finalmente regresarás al corazón de Deià."
       },
       "gastro_picks": {
         "de": [
@@ -812,6 +879,12 @@
           "Sunscreen is a must.",
           "Tunnels on the Ma-10 are unlit.",
           "There are no bike lanes, you ride on the road."
+        ],
+        "es": [
+          "La carretera costera tiene muchas curvas, cuidado con los autobuses.",
+          "El protector solar es imprescindible.",
+          "Los túneles de la Ma-10 no están iluminados.",
+          "No hay carriles bici, se circula por la carretera."
         ]
       },
       "variants": {
@@ -820,7 +893,8 @@
             "de": "Diese Radtour führt entlang der spektakulären Küstenstraße Ma-10. Sie besuchen die historischen Anwesen Miramar und Son Marroig, genießen den Blick auf die Halbinsel Sa Foradada und kehren schließlich ins Herz von Deià zurück.",
             "hu": "Ez a kerékpártúra a látványos Ma-10 tengerparti út mentén halad. Meglátogatja Miramar és Son Marroig történelmi birtokait, élvezi a kilátást a Sa Foradada-félszigetre, végül visszatér Deià szívébe.",
             "ro": "Acest tur cu bicicleta urmează spectaculosul drum de coastă Ma-10. Veți vizita proprietățile istorice Miramar și Son Marroig, veți admira vederea spre peninsula Sa Foradada și vă veți întoarce în inima satului Deià.",
-            "en": "This bike tour follows the spectacular Ma-10 coastal road. You will visit the historic estates of Miramar and Son Marroig, enjoy views of the Sa Foradada peninsula, and finally return to the heart of Deià."
+            "en": "This bike tour follows the spectacular Ma-10 coastal road. You will visit the historic estates of Miramar and Son Marroig, enjoy views of the Sa Foradada peninsula, and finally return to the heart of Deià.",
+            "es": "Esta ruta en bicicleta sigue la espectacular carretera costera Ma-10. Visitarás las históricas fincas de Miramar y Son Marroig, disfrutarás de las vistas de la península de Sa Foradada y finalmente regresarás al corazón de Deià."
           },
           "stops": [
             {
@@ -828,13 +902,15 @@
                 "de": "Kloster Miramar",
                 "hu": "Miramar monostor",
                 "ro": "Mănăstirea Miramar",
-                "en": "Miramar Monastery"
+                "en": "Miramar Monastery",
+                "es": "Monasterio de Miramar"
               },
               "tip_5lang": {
                 "de": "Einst Sitz von Erzherzog Ludwig Salvator.",
                 "hu": "Egykor Lajos Szalvátor főherceg székhelye.",
                 "ro": "Fosta reședință a Arhiducelui Ludwig Salvator.",
-                "en": "Former seat of Archduke Ludwig Salvator."
+                "en": "Former seat of Archduke Ludwig Salvator.",
+                "es": "Antigua residencia del archiduque Ludwig Salvator."
               }
             },
             {
@@ -842,13 +918,15 @@
                 "de": "Son Marroig",
                 "hu": "Son Marroig birtok",
                 "ro": "Son Marroig",
-                "en": "Son Marroig"
+                "en": "Son Marroig",
+                "es": "Son Marroig"
               },
               "tip_5lang": {
                 "de": "Der weiße Marmortempel ist das Wahrzeichen.",
                 "hu": "A fehér márványtemplom a birtok jelképe.",
                 "ro": "Templul de marmură albă este emblema.",
-                "en": "The white marble temple is the landmark."
+                "en": "The white marble temple is the landmark.",
+                "es": "El templo de mármol blanco es el hito."
               }
             },
             {
@@ -856,13 +934,15 @@
                 "de": "Sa Foradada",
                 "hu": "Sa Foradada szikla",
                 "ro": "Sa Foradada",
-                "en": "Sa Foradada"
+                "en": "Sa Foradada",
+                "es": "Sa Foradada"
               },
               "tip_5lang": {
                 "de": "Perfekter Ort für eine Pause.",
                 "hu": "Tökéletes hely egy pihenőhöz.",
                 "ro": "Locul perfect pentru o pauză.",
-                "en": "Perfect place for a break."
+                "en": "Perfect place for a break.",
+                "es": "Lugar perfecto para una pausa."
               }
             },
             {
@@ -870,13 +950,15 @@
                 "de": "Kirche San Juan Bautista",
                 "hu": "Szent János templom",
                 "ro": "Biserica San Juan Bautista",
-                "en": "Church of San Juan Bautista"
+                "en": "Church of San Juan Bautista",
+                "es": "Iglesia de San Juan Bautista"
               },
               "tip_5lang": {
                 "de": "Letzter Anstieg ins Dorf.",
                 "hu": "Utolsó emelkedő a faluba.",
                 "ro": "Ultima urcare în sat.",
-                "en": "Last climb into the village."
+                "en": "Last climb into the village.",
+                "es": "Última subida al pueblo."
               }
             }
           ],
@@ -986,6 +1068,12 @@
               "Sunscreen is a must.",
               "Tunnels on the Ma-10 are unlit.",
               "There are no bike lanes, you ride on the road."
+            ],
+            "es": [
+              "La carretera costera tiene muchas curvas, cuidado con los autobuses.",
+              "El protector solar es imprescindible.",
+              "Los túneles de la Ma-10 no están iluminados.",
+              "No hay carriles bici, se circula por la carretera."
             ]
           }
         },
@@ -994,7 +1082,8 @@
             "de": "Eine erfrischende Fahrt durch die Tramuntana im Regen. Der Morgen am Kloster Miramar ist neblig und mystisch. Mittags bietet Son Marroig einen sicheren Hafen mit Blick auf die stürmische Küste. Sa Foradada zeigt sich von seiner wilden Seite, bevor Sie den Tag an der geschützten Kirche San Juan Bautista beenden.",
             "hu": "Frissítő tekerés a Tramuntana hegyekben az esőben. A reggel a Miramar kolostornál ködös és misztikus. Délben Son Marroig nyújt biztonságos menedéket, kilátással a viharos partra. Sa Foradada a vad arcát mutatja, mielőtt a napot a védett San Juan Bautista templomnál zárná.",
             "ro": "O plimbare revigorantă prin munții Tramuntana sub ploaie. Dimineața la Mănăstirea Miramar este cețoasă și mistică. La prânz, Son Marroig oferă un adăpost sigur cu vedere la coasta furtunoasă. Sa Foradada își arată latura sălbatică înainte de a încheia ziua la biserica protejată.",
-            "en": "A refreshing ride through the Tramuntana mountains in the rain. Morning at Miramar Monastery is misty and mystical. At noon, Son Marroig offers a safe haven with views of the stormy coast. Sa Foradada shows its wild side before you end the day at the sheltered Church of San Juan Bautista."
+            "en": "A refreshing ride through the Tramuntana mountains in the rain. Morning at Miramar Monastery is misty and mystical. At noon, Son Marroig offers a safe haven with views of the stormy coast. Sa Foradada shows its wild side before you end the day at the sheltered Church of San Juan Bautista.",
+            "es": "Un trayecto refrescante por la Serra de Tramuntana bajo la lluvia. La mañana en el Monasterio de Miramar es brumosa y mística. Al mediodía, Son Marroig ofrece un refugio seguro con vistas a la costa embravecida. Sa Foradada muestra su lado salvaje antes de terminar el día en la resguardada Iglesia de San Juan Bautista."
           },
           "stops": [
             {
@@ -1003,7 +1092,8 @@
                 "de": "Vermeiden Sie die Klippenpfade bei starkem Wind.",
                 "hu": "Erős szélben kerülje a sziklaparti ösvényeket.",
                 "ro": "Evitați potecile de pe faleză în timpul vântului puternic.",
-                "en": "Avoid cliff-side paths during strong winds."
+                "en": "Avoid cliff-side paths during strong winds.",
+                "es": "Evita los senderos junto al acantilado durante fuertes vientos."
               }
             },
             {
@@ -1012,7 +1102,8 @@
                 "de": "Sicheres Abstellen der Räder im überdachten Bereich möglich.",
                 "hu": "A kerékpárok biztonságosan leállíthatók a fedett részen.",
                 "ro": "Parcare sigură pentru biciclete în zona acoperită.",
-                "en": "Safe bike parking possible in the covered area."
+                "en": "Safe bike parking possible in the covered area.",
+                "es": "Es posible aparcar bicicletas de forma segura en el área cubierta."
               }
             },
             {
@@ -1021,7 +1112,8 @@
                 "de": "Der Aussichtspunkt kann bei Nässe sehr rutschig sein.",
                 "hu": "A kilátópont nedves időben nagyon csúszós lehet.",
                 "ro": "Punctul de belvedere poate fi foarte alunecos pe umezeală.",
-                "en": "The viewpoint can be very slippery when wet."
+                "en": "The viewpoint can be very slippery when wet.",
+                "es": "El mirador puede estar muy resbaladizo cuando está mojado."
               }
             },
             {
@@ -1030,7 +1122,8 @@
                 "de": "Ein ruhiger Ort, um die Ausrüstung zu trocknen.",
                 "hu": "Csendes hely a felszerelés megszárításához.",
                 "ro": "Un loc liniștit pentru a vă usca echipamentul.",
-                "en": "A quiet place to dry off your gear."
+                "en": "A quiet place to dry off your gear.",
+                "es": "Un lugar tranquilo para secar tu equipo."
               }
             }
           ],
@@ -1058,6 +1151,12 @@
               "Use mudguards to keep your back dry.",
               "Avoid white road markings; they become extremely slippery.",
               "Wear neon colors for better visibility in the mist."
+            ],
+            "es": [
+              "Los frenos de disco son imprescindibles en los descensos empinados con lluvia.",
+              "Usa guardabarros para mantener la espalda seca.",
+              "Evita las marcas blancas en la calzada; se vuelven extremadamente resbaladizas.",
+              "Lleva ropa de colores neón para mejor visibilidad en la niebla."
             ]
           }
         },
@@ -1066,7 +1165,8 @@
             "de": "Genießen Sie die kühle, klare Luft auf der Küstenstraße. Der Morgen am Kloster Miramar ist erfrischend ruhig. Mittags bietet die Terrasse von Son Marroig trotz Winter milde Sonnenstunden. Der Blick auf Sa Foradada ist im Winterlicht besonders kontrastreich. Den Tag beenden Sie im windgeschützten Deià bei der Kirche.",
             "hu": "Élvezze a hűvös, tiszta levegőt a parti úton. A reggel a Miramar kolostornál frissítően csendes. Délben a Son Marroig terasza a tél ellenére is enyhe napsütéses órákat kínál. Sa Foradada látványa a téli fényben különösen kontrasztos. A napot a szélvédett Deiàban, a templomnál zárja.",
             "ro": "Bucurați-vă de aerul rece și curat de pe drumul de coastă. Dimineața la Mănăstirea Miramar este revigorant de liniștită. La prânz, terasa de la Son Marroig oferă ore blânde de soare în ciuda iernii. Vederea spre Sa Foradada este deosebit de contrastantă în lumina de iarnă. Încheiați ziua în Deià, la adăpostul bisericii.",
-            "en": "Enjoy the cool, crisp air on the coastal road. Morning at Miramar Monastery is refreshingly quiet. At noon, the terrace of Son Marroig offers mild sunny hours despite winter. The view of Sa Foradada is particularly high-contrast in winter light. End your day in wind-sheltered Deià by the church."
+            "en": "Enjoy the cool, crisp air on the coastal road. Morning at Miramar Monastery is refreshingly quiet. At noon, the terrace of Son Marroig offers mild sunny hours despite winter. The view of Sa Foradada is particularly high-contrast in winter light. End your day in wind-sheltered Deià by the church.",
+            "es": "Disfruta del aire fresco y nítido en la carretera costera. La mañana en el Monasterio de Miramar es refrescantemente tranquila. Al mediodía, la terraza de Son Marroig ofrece horas suaves y soleadas pese al invierno. La vista de Sa Foradada tiene mayor contraste con la luz invernal. Termina el día en el Deià resguardado del viento junto a la iglesia."
           },
           "stops": [
             {
@@ -1075,7 +1175,8 @@
                 "de": "Die Gärten sind auch im Winter grün und sehenswert.",
                 "hu": "A kertek télen is zöldek és érdemes megnézni őket.",
                 "ro": "Grădinile sunt verzi și iarna și merită vizitate.",
-                "en": "The gardens remain green and worth seeing in winter."
+                "en": "The gardens remain green and worth seeing in winter.",
+                "es": "Los jardines permanecen verdes y merecen la pena en invierno."
               }
             },
             {
@@ -1084,7 +1185,8 @@
                 "de": "Ein windgeschützter Ort für eine Pause in der Sonne.",
                 "hu": "Szélvédett hely egy napsütéses pihenőhöz.",
                 "ro": "Un loc ferit de vânt pentru o pauză la soare.",
-                "en": "A wind-sheltered spot for a break in the sun."
+                "en": "A wind-sheltered spot for a break in the sun.",
+                "es": "Un lugar resguardado del viento para una pausa al sol."
               }
             },
             {
@@ -1093,7 +1195,8 @@
                 "de": "Frühzeitiger Aufbruch nötig, da es früh dunkel wird.",
                 "hu": "Korai indulás szükséges, mivel korán sötétedik.",
                 "ro": "Este necesară plecarea timpurie, deoarece se întunecă repede.",
-                "en": "Early start required as it gets dark early."
+                "en": "Early start required as it gets dark early.",
+                "es": "Requiere un inicio temprano ya que anochece pronto."
               }
             },
             {
@@ -1102,7 +1205,8 @@
                 "de": "Die Abendsonne trifft die Kirche im Winter besonders schön.",
                 "hu": "Az esti nap télen különösen szépen világítja meg a templomot.",
                 "ro": "Soarele de seară luminează biserica deosebit de frumos iarna.",
-                "en": "The evening sun hits the church beautifully in winter."
+                "en": "The evening sun hits the church beautifully in winter.",
+                "es": "El sol de la tarde ilumina la iglesia de forma preciosa en invierno."
               }
             }
           ],
@@ -1130,6 +1234,12 @@
               "The coastal road is almost empty of rental cars in winter.",
               "Watch out for goats, which often stand on the road in winter.",
               "Bike lights are mandatory due to the early dusk."
+            ],
+            "es": [
+              "Guantes cálidos son vitales para los descensos.",
+              "La carretera costera está casi vacía de coches de alquiler en invierno.",
+              "Cuidado con las cabras, que a menudo se quedan en la carretera en invierno.",
+              "Las luces para bicicleta son obligatorias por el anochecer temprano."
             ]
           }
         }
@@ -1148,7 +1258,8 @@
             "de": "Son Marroig",
             "hu": "Son Marroig birtok",
             "ro": "Son Marroig",
-            "en": "Son Marroig"
+            "en": "Son Marroig",
+            "es": "Son Marroig"
           },
           "coords": [
             2.6285,
@@ -1163,7 +1274,8 @@
             "de": "Kommen Sie früh, um die Parkplätze zu sichern.",
             "hu": "Érkezzen korán, hogy biztos legyen parkolóhelye.",
             "ro": "Veniți devreme pentru a găsi loc de parcare.",
-            "en": "Come early to secure a parking spot."
+            "en": "Come early to secure a parking spot.",
+            "es": "Ven temprano para asegurarte una plaza de aparcamiento."
           }
         },
         {
@@ -1171,7 +1283,8 @@
             "de": "Sa Foradada",
             "hu": "Sa Foradada szikla",
             "ro": "Sa Foradada",
-            "en": "Sa Foradada"
+            "en": "Sa Foradada",
+            "es": "Sa Foradada"
           },
           "coords": [
             2.6295,
@@ -1186,7 +1299,8 @@
             "de": "Ikonischer Blick auf die Landzunge.",
             "hu": "Ikonikus kilátás a földnyelvre.",
             "ro": "Vedere emblematică asupra limbii de pământ.",
-            "en": "Iconic view of the headland."
+            "en": "Iconic view of the headland.",
+            "es": "Vista icónica del promontorio."
           }
         },
         {
@@ -1194,7 +1308,8 @@
             "de": "Robert Graves Haus",
             "hu": "Robert Graves háza",
             "ro": "Casa Robert Graves",
-            "en": "Robert Graves House"
+            "en": "Robert Graves House",
+            "es": "Casa de Robert Graves"
           },
           "coords": [
             2.6515,
@@ -1209,7 +1324,8 @@
             "de": "Begrenzter Parkplatz am Haus.",
             "hu": "Korlátozott parkolási lehetőség a háznál.",
             "ro": "Parcare limitată la casă.",
-            "en": "Limited parking at the house."
+            "en": "Limited parking at the house.",
+            "es": "Aparcamiento limitado en la casa."
           }
         },
         {
@@ -1217,7 +1333,8 @@
             "de": "Kirche San Juan Bautista",
             "hu": "Szent János templom",
             "ro": "Biserica San Juan Bautista",
-            "en": "Church of San Juan Bautista"
+            "en": "Church of San Juan Bautista",
+            "es": "Iglesia de San Juan Bautista"
           },
           "coords": [
             2.6485,
@@ -1232,7 +1349,8 @@
             "de": "Parken Sie im Dorfzentrum und gehen Sie hoch.",
             "hu": "Parkoljon a faluban és sétáljon fel.",
             "ro": "Parcați în centru și urcați pe jos.",
-            "en": "Park in the village center and walk up."
+            "en": "Park in the village center and walk up.",
+            "es": "Aparca en el centro del pueblo y sube a pie."
           }
         },
         {
@@ -1240,7 +1358,8 @@
             "de": "Cala Deià",
             "hu": "Cala Deià öböl",
             "ro": "Cala Deià",
-            "en": "Cala Deià"
+            "en": "Cala Deià",
+            "es": "Cala Deià"
           },
           "coords": [
             2.6405,
@@ -1255,7 +1374,8 @@
             "de": "Zufahrtsstraße ist sehr eng, nur für geübte Fahrer.",
             "hu": "A bekötőút nagyon szűk, csak gyakorlott vezetőknek.",
             "ro": "Drumul de acces este foarte îngust, doar pentru șoferi experimentați.",
-            "en": "Access road is very narrow, for experienced drivers only."
+            "en": "Access road is very narrow, for experienced drivers only.",
+            "es": "La carretera de acceso es muy estrecha, solo para conductores con experiencia."
           }
         }
       ],
@@ -1263,7 +1383,8 @@
         "de": "Genießen Sie die Freiheit des Autos, um die Highlights rund um Deià zu entdecken. Von der Eleganz von Son Marroig bis zur rustikalen Schönheit der Cala Deià erleben Sie die Vielfalt der Westküste in Ihrem eigenen Tempo.",
         "hu": "Élvezze az autó szabadságát Deià környékének felfedezéséhez. Son Marroig eleganciájától Cala Deià rusztikus szépségéig tapasztalja meg a nyugati part sokszínűségét a saját tempójában.",
         "ro": "Bucurați-vă de libertatea mașinii pentru a descoperi punctele forte din jurul Deià. De la eleganța Son Marroig până la frumusețea rustică din Cala Deià, experimentați diversitatea coastei de vest în propriul ritm.",
-        "en": "Enjoy the freedom of a car to discover the highlights around Deià. From the elegance of Son Marroig to the rustic beauty of Cala Deià, experience the diversity of the west coast at your own pace."
+        "en": "Enjoy the freedom of a car to discover the highlights around Deià. From the elegance of Son Marroig to the rustic beauty of Cala Deià, experience the diversity of the west coast at your own pace.",
+        "es": "Disfruta de la libertad que ofrece un coche para descubrir los puntos destacados alrededor de Deià. Desde la elegancia de Son Marroig hasta la belleza rústica de Cala Deià, vive la diversidad de la costa oeste a tu ritmo."
       },
       "gastro_picks": {
         "de": [
@@ -1371,6 +1492,12 @@
           "Use the shuttle bus if parking is impossible.",
           "Avoid the village center with large cars.",
           "Parking is paid almost everywhere."
+        ],
+        "es": [
+          "En temporada alta, el acceso a la cala suele estar cerrado.",
+          "Utiliza el servicio de lanzadera si aparcar resulta imposible.",
+          "Evita el centro del pueblo con coches grandes.",
+          "El aparcamiento es de pago casi en todas partes."
         ]
       },
       "variants": {
@@ -1379,7 +1506,8 @@
             "de": "Genießen Sie die Freiheit des Autos, um die Highlights rund um Deià zu entdecken. Von der Eleganz von Son Marroig bis zur rustikalen Schönheit der Cala Deià erleben Sie die Vielfalt der Westküste in Ihrem eigenen Tempo.",
             "hu": "Élvezze az autó szabadságát Deià környékének felfedezéséhez. Son Marroig eleganciájától Cala Deià rusztikus szépségéig tapasztalja meg a nyugati part sokszínűségét a saját tempójában.",
             "ro": "Bucurați-vă de libertatea mașinii pentru a descoperi punctele forte din jurul Deià. De la eleganța Son Marroig până la frumusețea rustică din Cala Deià, experimentați diversitatea coastei de vest în propriul ritm.",
-            "en": "Enjoy the freedom of a car to discover the highlights around Deià. From the elegance of Son Marroig to the rustic beauty of Cala Deià, experience the diversity of the west coast at your own pace."
+            "en": "Enjoy the freedom of a car to discover the highlights around Deià. From the elegance of Son Marroig to the rustic beauty of Cala Deià, experience the diversity of the west coast at your own pace.",
+            "es": "Disfruta de la libertad que ofrece un coche para descubrir los puntos destacados alrededor de Deià. Desde la elegancia de Son Marroig hasta la belleza rústica de Cala Deià, vive la diversidad de la costa oeste a tu ritmo."
           },
           "stops": [
             {
@@ -1387,13 +1515,15 @@
                 "de": "Son Marroig",
                 "hu": "Son Marroig birtok",
                 "ro": "Son Marroig",
-                "en": "Son Marroig"
+                "en": "Son Marroig",
+                "es": "Son Marroig"
               },
               "tip_5lang": {
                 "de": "Kommen Sie früh, um die Parkplätze zu sichern.",
                 "hu": "Érkezzen korán, hogy biztos legyen parkolóhelye.",
                 "ro": "Veniți devreme pentru a găsi loc de parcare.",
-                "en": "Come early to secure a parking spot."
+                "en": "Come early to secure a parking spot.",
+                "es": "Ven temprano para asegurarte una plaza de aparcamiento."
               }
             },
             {
@@ -1401,13 +1531,15 @@
                 "de": "Sa Foradada",
                 "hu": "Sa Foradada szikla",
                 "ro": "Sa Foradada",
-                "en": "Sa Foradada"
+                "en": "Sa Foradada",
+                "es": "Sa Foradada"
               },
               "tip_5lang": {
                 "de": "Ikonischer Blick auf die Landzunge.",
                 "hu": "Ikonikus kilátás a földnyelvre.",
                 "ro": "Vedere emblematică asupra limbii de pământ.",
-                "en": "Iconic view of the headland."
+                "en": "Iconic view of the headland.",
+                "es": "Vista icónica del promontorio."
               }
             },
             {
@@ -1415,13 +1547,15 @@
                 "de": "Robert Graves Haus",
                 "hu": "Robert Graves háza",
                 "ro": "Casa Robert Graves",
-                "en": "Robert Graves House"
+                "en": "Robert Graves House",
+                "es": "Casa de Robert Graves"
               },
               "tip_5lang": {
                 "de": "Begrenzter Parkplatz am Haus.",
                 "hu": "Korlátozott parkolási lehetőség a háznál.",
                 "ro": "Parcare limitată la casă.",
-                "en": "Limited parking at the house."
+                "en": "Limited parking at the house.",
+                "es": "Aparcamiento limitado en la casa."
               }
             },
             {
@@ -1429,13 +1563,15 @@
                 "de": "Kirche San Juan Bautista",
                 "hu": "Szent János templom",
                 "ro": "Biserica San Juan Bautista",
-                "en": "Church of San Juan Bautista"
+                "en": "Church of San Juan Bautista",
+                "es": "Iglesia de San Juan Bautista"
               },
               "tip_5lang": {
                 "de": "Parken Sie im Dorfzentrum und gehen Sie hoch.",
                 "hu": "Parkoljon a faluban és sétáljon fel.",
                 "ro": "Parcați în centru și urcați pe jos.",
-                "en": "Park in the village center and walk up."
+                "en": "Park in the village center and walk up.",
+                "es": "Aparca en el centro del pueblo y sube a pie."
               }
             },
             {
@@ -1443,13 +1579,15 @@
                 "de": "Cala Deià",
                 "hu": "Cala Deià öböl",
                 "ro": "Cala Deià",
-                "en": "Cala Deià"
+                "en": "Cala Deià",
+                "es": "Cala Deià"
               },
               "tip_5lang": {
                 "de": "Zufahrtsstraße ist sehr eng, nur für geübte Fahrer.",
                 "hu": "A bekötőút nagyon szűk, csak gyakorlott vezetőknek.",
                 "ro": "Drumul de acces este foarte îngust, doar pentru șoferi experimentați.",
-                "en": "Access road is very narrow, for experienced drivers only."
+                "en": "Access road is very narrow, for experienced drivers only.",
+                "es": "La carretera de acceso es muy estrecha, solo para conductores experimentados."
               }
             }
           ],
@@ -1559,6 +1697,12 @@
               "Use the shuttle bus if parking is impossible.",
               "Avoid the village center with large cars.",
               "Parking is paid almost everywhere."
+            ],
+            "es": [
+              "En temporada alta, el acceso a la cala suele estar cerrado.",
+              "Usa el servicio de lanzadera si el aparcamiento es imposible.",
+              "Evita el centro del pueblo con vehículos grandes.",
+              "El aparcamiento es de pago casi en todas partes."
             ]
           }
         },
@@ -1567,7 +1711,8 @@
             "de": "Genießen Sie die dramatische Küstenlandschaft trocken aus dem Auto. Der Morgen in Son Marroig zeigt das Meer in tiefem Grau. Bei Sa Foradada beobachten Sie das Wetterspiel von der Aussichtsplattform. Mittags ist das Robert Graves Haus ein kultureller Lichtblick. Der Tag endet sicher im Bergdorf an der San Juan Bautista Kirche und in der Bucht.",
             "hu": "Élvezze a drámai partvidéket szárazon, az autóból. A reggel Son Marroigban mélyszürke tengert mutat. Sa Foradadánál figyelje az időjárás játékát a kilátóról. Délben Robert Graves háza kulturális fénypont. A nap biztonságban zárul a hegyi faluban, a San Juan Bautista templomnál és az öbölben.",
             "ro": "Bucurați-vă de peisajul dramatic de coastă din confortul mașinii. Dimineața la Son Marroig marea are o culoare gri profund. La Sa Foradada observați jocul vremii de pe platforma de belvedere. La prânz, Casa Robert Graves este un punct cultural de interes. Ziua se încheie în siguranță în sat, la biserică și în golf.",
-            "en": "Enjoy the dramatic coastal landscape from the comfort of your car. Morning at Son Marroig shows the sea in deep gray. At Sa Foradada, watch the weather patterns from the viewpoint. At noon, Robert Graves House is a cultural highlight. The day ends safely in the village at the church and down in the cove."
+            "en": "Enjoy the dramatic coastal landscape from the comfort of your car. Morning at Son Marroig shows the sea in deep gray. At Sa Foradada, watch the weather patterns from the viewpoint. At noon, Robert Graves House is a cultural highlight. The day ends safely in the village at the church and down in the cove.",
+            "es": "Disfruta del dramático paisaje costero desde la comodidad del coche. Por la mañana en Son Marroig el mar aparece de un gris profundo. En Sa Foradada observa los patrones meteorológicos desde el mirador. Al mediodía, la Casa de Robert Graves es un punto cultural destacado. El día termina con seguridad en el pueblo, en la iglesia y en la cala."
           },
           "stops": [
             {
@@ -1576,7 +1721,8 @@
                 "de": "Parken Sie nah am Eingang, um nicht nass zu werden.",
                 "hu": "Parkoljon közel a bejárathoz, hogy ne ázzon el.",
                 "ro": "Parcați aproape de intrare pentru a nu vă uda.",
-                "en": "Park close to the entrance to stay dry."
+                "en": "Park close to the entrance to stay dry.",
+                "es": "Aparca cerca de la entrada para mantenerte seco."
               }
             },
             {
@@ -1585,7 +1731,8 @@
                 "de": "Bleiben Sie bei Starkregen für die Aussicht im Auto.",
                 "hu": "Heves esőzéskor maradjon az autóban a kilátásért.",
                 "ro": "Rămâneți în mașină pentru priveliște în caz de ploaie torențială.",
-                "en": "Stay in the car for the view during heavy rain."
+                "en": "Stay in the car for the view during heavy rain.",
+                "es": "Permanece en el coche para disfrutar de las vistas durante lluvia intensa."
               }
             },
             {
@@ -1594,7 +1741,8 @@
                 "de": "Der kleine Parkplatz kann bei Regen matschig sein.",
                 "hu": "A kis parkoló esőben sáros lehet.",
                 "ro": "Parcarea mică poate fi noroioasă pe ploaie.",
-                "en": "The small parking lot can be muddy when it rains."
+                "en": "The small parking lot can be muddy when it rains.",
+                "es": "El pequeño aparcamiento puede ponerse embarrado cuando llueve."
               }
             },
             {
@@ -1603,7 +1751,8 @@
                 "de": "Enge Zufahrt, bei Regen ist erhöhte Vorsicht geboten.",
                 "hu": "Szűk felhajtó, esőben fokozott óvatosság ajánlott.",
                 "ro": "Acces îngust, se recomandă prudență sporită pe ploaie.",
-                "en": "Narrow access; exercise extra caution in the rain."
+                "en": "Narrow access; exercise extra caution in the rain.",
+                "es": "Acceso estrecho; extremar la precaución con lluvia."
               }
             },
             {
@@ -1612,7 +1761,8 @@
                 "de": "Die steile Straße zum Strand ist bei Nässe rutschig.",
                 "hu": "A strandra vezető meredek út nedvesen csúszós.",
                 "ro": "Drumul abrupt spre plajă este alunecos pe umezeală.",
-                "en": "The steep road to the beach is slippery when wet."
+                "en": "The steep road to the beach is slippery when wet.",
+                "es": "La carretera empinada hacia la playa está resbaladiza cuando está mojada."
               }
             }
           ],
@@ -1640,6 +1790,12 @@
               "Avoid parking under unstable rock faces.",
               "Turn on your lights as visibility is often poor due to mist.",
               "Dry your brakes with brief applications after driving through deep water."
+            ],
+            "es": [
+              "La MA-10 costera es propensa a desprendimientos con lluvia.",
+              "Evita aparcar bajo paredes rocosas inestables.",
+              "Enciende las luces, la visibilidad suele ser mala por la niebla.",
+              "Seca los frenos con breves aplicaciones tras cruzar charcos profundos."
             ]
           }
         },
@@ -1648,7 +1804,8 @@
             "de": "Eine entspannte Wintertour entlang der Nordküste. Der Morgen in Son Marroig bietet glasklare Fernsicht. Sa Foradada ist im tiefstehenden Winterlicht ein Muss für Fotografen. Mittags wärmen die Steinhäuser von Deià die Atmosphäre. Der Tag endet ruhig am Friedhof und der Kirche mit Blick über das schlafende Tal.",
             "hu": "Pihentető téli túra az északi part mentén. A reggel Son Marroigban kristálytiszta kilátást kínál. Sa Foradada az alacsony téli fényben kötelező a fotósoknak. Délben Deià kőházai melengetik a hangulatot. A nap csendben zárul a temetőnél és a templomnál, kilátással az alvó völgyre.",
             "ro": "Un tur relaxant de iarnă de-a lungul coastei de nord. Dimineața la Son Marroig oferă o vizibilitate extrem de clară. Sa Foradada este un punct obligatoriu pentru fotografi în lumina de iarnă. La prânz, casele de piatră din Deià încălzesc atmosfera. Ziua se încheie liniștit la cimitir și biserică.",
-            "en": "A relaxed winter tour along the north coast. Morning at Son Marroig offers crystal-clear distant views. Sa Foradada is a must for photographers in the low winter light. At noon, the stone houses of Deià warm the atmosphere. The day ends quietly at the cemetery and church overlooking the sleeping valley."
+            "en": "A relaxed winter tour along the north coast. Morning at Son Marroig offers crystal-clear distant views. Sa Foradada is a must for photographers in the low winter light. At noon, the stone houses of Deià warm the atmosphere. The day ends quietly at the cemetery and church overlooking the sleeping valley.",
+            "es": "Un recorrido relajado de invierno por la costa norte. Por la mañana en Son Marroig se disfrutan vistas lejanas cristalinas. Sa Foradada es imprescindible para fotógrafos con la luz invernal baja. Al mediodía, las casas de piedra de Deià calientan el ambiente. El día termina tranquilamente en el cementerio y la iglesia sobre el valle dormido."
           },
           "stops": [
             {
@@ -1657,7 +1814,8 @@
                 "de": "Parkplätze sind im Winter problemlos verfügbar.",
                 "hu": "Télen a parkolóhelyek gond nélkül elérhetőek.",
                 "ro": "Locurile de parcare sunt disponibile fără probleme iarna.",
-                "en": "Parking spaces are easily available in winter."
+                "en": "Parking spaces are easily available in winter.",
+                "es": "Las plazas de aparcamiento son fáciles de encontrar en invierno."
               }
             },
             {
@@ -1666,7 +1824,8 @@
                 "de": "Perfektes Licht für Fotos gegen 15:00 Uhr.",
                 "hu": "Tökéletes fények a fotózáshoz 15:00 körül.",
                 "ro": "Lumină perfectă pentru fotografii în jurul orei 15:00.",
-                "en": "Perfect light for photos around 15:00."
+                "en": "Perfect light for photos around 15:00.",
+                "es": "Luz perfecta para fotos alrededor de las 15:00."
               }
             },
             {
@@ -1675,7 +1834,8 @@
                 "de": "Die Heizung im Besucherzentrum sorgt für Komfort.",
                 "hu": "A látogatóközpont fűtése biztosítja a kényelmet.",
                 "ro": "Încălzirea din centrul pentru vizitatori asigură confortul.",
-                "en": "The heating in the visitor center ensures comfort."
+                "en": "The heating in the visitor center ensures comfort.",
+                "es": "La calefacción en el centro de visitantes garantiza confort."
               }
             },
             {
@@ -1684,7 +1844,8 @@
                 "de": "Nutzen Sie den Parkplatz am Dorfeingang und laufen Sie.",
                 "hu": "Használja a falu bejáratánál lévő parkolót és sétáljon.",
                 "ro": "Folosiți parcarea de la intrarea în sat și mergeți pe jos.",
-                "en": "Use the parking lot at the village entrance and walk up."
+                "en": "Use the parking lot at the village entrance and walk up.",
+                "es": "Utiliza el aparcamiento en la entrada del pueblo y sube a pie."
               }
             },
             {
@@ -1693,7 +1854,8 @@
                 "de": "Im Winter kann man oft direkt unten am Meer parken.",
                 "hu": "Télen gyakran közvetlenül a tengerpartnál is lehet parkolni.",
                 "ro": "Iarna puteți parca adesea direct jos, lângă mare.",
-                "en": "In winter, you can often park directly down by the sea."
+                "en": "In winter, you can often park directly down by the sea.",
+                "es": "En invierno, a menudo puedes aparcar directamente junto al mar."
               }
             }
           ],
@@ -1721,6 +1883,12 @@
               "Air conditioning helps to clear fogged windows quickly.",
               "The low winter sun can be blinding; bring sunglasses.",
               "Gas stations are rare in this region; fill up beforehand."
+            ],
+            "es": [
+              "En curvas sombreadas de la MA-10 puede resbalar por la mañana.",
+              "El aire acondicionado ayuda a desempañar rápidamente los cristales.",
+              "El sol bajo de invierno puede deslumbrar; lleva gafas de sol.",
+              "Las gasolineras son escasas en la zona; llena el depósito antes."
             ]
           }
         }
@@ -1739,7 +1907,8 @@
             "de": "Busstation Deià",
             "hu": "Deià buszmegálló",
             "ro": "Stația de autobuz Deià",
-            "en": "Deià Bus Stop"
+            "en": "Deià Bus Stop",
+            "es": "Parada de autobús de Deià"
           },
           "coords": [
             2.648,
@@ -1754,7 +1923,8 @@
             "de": "Linie 203 hält direkt im Dorf.",
             "hu": "A 203-as busz közvetlenül a faluban áll meg.",
             "ro": "Linia 203 oprește chiar în sat.",
-            "en": "Line 203 stops directly in the village."
+            "en": "Line 203 stops directly in the village.",
+            "es": "La línea 203 para directamente en el pueblo."
           }
         },
         {
@@ -1762,7 +1932,8 @@
             "de": "Kirche San Juan Bautista",
             "hu": "Szent János templom",
             "ro": "Biserica San Juan Bautista",
-            "en": "Church of San Juan Bautista"
+            "en": "Church of San Juan Bautista",
+            "es": "Iglesia de San Juan Bautista"
           },
           "coords": [
             2.6485,
@@ -1777,7 +1948,8 @@
             "de": "Kurzer Spaziergang bergauf.",
             "hu": "Rövid séta felfelé.",
             "ro": "Scurtă plimbare la deal.",
-            "en": "Short walk uphill."
+            "en": "Short walk uphill.",
+            "es": "Corta subida a pie."
           }
         },
         {
@@ -1785,7 +1957,8 @@
             "de": "Archäologisches Museum Deià",
             "hu": "Deià Régészeti Múzeuma",
             "ro": "Muzeul Arheologic Deià",
-            "en": "Archaeological Museum Deià"
+            "en": "Archaeological Museum Deià",
+            "es": "Museo Arqueológico de Deià"
           },
           "coords": [
             2.6475,
@@ -1800,7 +1973,8 @@
             "de": "In einer schönen Gasse gelegen.",
             "hu": "Egy szép sikátorban található.",
             "ro": "Situat pe o alee frumoasă.",
-            "en": "Located in a beautiful alley."
+            "en": "Located in a beautiful alley.",
+            "es": "Situado en un bonito callejón."
           }
         },
         {
@@ -1808,7 +1982,8 @@
             "de": "Robert Graves Haus",
             "hu": "Robert Graves háza",
             "ro": "Casa Robert Graves",
-            "en": "Robert Graves House"
+            "en": "Robert Graves House",
+            "es": "Casa de Robert Graves"
           },
           "coords": [
             2.6515,
@@ -1823,7 +1998,8 @@
             "de": "Ganz in der Nähe der Bushaltestelle Richtung Sóller.",
             "hu": "Nagyon közel a Sóller felé tartó buszmegállóhoz.",
             "ro": "Foarte aproape de stația de autobuz spre Sóller.",
-            "en": "Very close to the bus stop heading towards Sóller."
+            "en": "Very close to the bus stop heading towards Sóller.",
+            "es": "Muy cerca de la parada de autobús en dirección a Sóller."
           }
         },
         {
@@ -1831,7 +2007,8 @@
             "de": "Friedhof von Deià",
             "hu": "Deià temetője",
             "ro": "Cimitirul din Deià",
-            "en": "Cemetery of Deià"
+            "en": "Cemetery of Deià",
+            "es": "Cementerio de Deià"
           },
           "coords": [
             2.6488,
@@ -1846,7 +2023,8 @@
             "de": "Ort der Stille.",
             "hu": "A csend helye.",
             "ro": "Loc al liniștii.",
-            "en": "Place of silence."
+            "en": "Place of silence.",
+            "es": "Lugar de silencio."
           }
         }
       ],
@@ -1854,7 +2032,8 @@
         "de": "Deià ist perfekt für Transitreisende, da das Dorf kompakt ist. Nutzen Sie den Bus 203 von Valldemossa oder Sóller. Sie können alle kulturellen Highlights zu Fuß erreichen und die einzigartige Atmosphäre genießen, ohne sich um Parkplätze sorgen zu müssen.",
         "hu": "Deià tökéletes a tömegközlekedőknek, mivel a falu kompakt. Használja a 203-as buszt Valldemossa vagy Sóller felől. Minden kulturális látnivalót elérhet gyalog, és élvezheti az egyedülálló hangulatot anélkül, hogy parkolóhely miatt aggódna.",
         "ro": "Deià este perfect pentru cei care folosesc transportul în comun, fiind un sat compact. Folosiți autobuzul 203 dinspre Valldemossa sau Sóller. Puteți ajunge la toate atracțiile culturale pe jos, bucurându-vă de atmosfera unică fără grija parcării.",
-        "en": "Deià is perfect for transit travelers as the village is compact. Use bus 203 from Valldemossa or Sóller. You can reach all cultural highlights on foot and enjoy the unique atmosphere without worrying about parking."
+        "en": "Deià is perfect for transit travelers as the village is compact. Use bus 203 from Valldemossa or Sóller. You can reach all cultural highlights on foot and enjoy the unique atmosphere without worrying about parking.",
+        "es": "Deià es perfecto para viajeros en tránsito ya que el pueblo es compacto. Usa el autobús 203 desde Valldemossa o Sóller. Puedes llegar a todos los puntos culturales a pie y disfrutar de la atmósfera única sin preocuparte por el aparcamiento."
       },
       "gastro_picks": {
         "de": [
@@ -1962,6 +2141,12 @@
           "Get a ticket on the bus with your card.",
           "Stops have digital displays.",
           "Fewer buses run back in the evening."
+        ],
+        "es": [
+          "Los autobuses circulan aproximadamente cada hora.",
+          "Compra el billete en el autobús con tu tarjeta.",
+          "Las paradas tienen pantallas digitales.",
+          "Hay menos autobuses por la noche."
         ]
       },
       "variants": {
@@ -1970,7 +2155,8 @@
             "de": "Deià ist perfekt für Transitreisende, da das Dorf kompakt ist. Nutzen Sie den Bus 203 von Valldemossa oder Sóller. Sie können alle kulturellen Highlights zu Fuß erreichen und die einzigartige Atmosphäre genießen, ohne sich um Parkplätze sorgen zu müssen.",
             "hu": "Deià tökéletes a tömegközlekedőknek, mivel a falu kompakt. Használja a 203-as buszt Valldemossa vagy Sóller felől. Minden kulturális látnivalót elérhet gyalog, és élvezheti az egyedülálló hangulatot anélkül, hogy parkolóhely miatt aggódna.",
             "ro": "Deià este perfect pentru cei care folosesc transportul în comun, fiind un sat compact. Folosiți autobuzul 203 dinspre Valldemossa sau Sóller. Puteți ajunge la toate atracțiile culturale pe jos, bucurându-vă de atmosfera unică fără grija parcării.",
-            "en": "Deià is perfect for transit travelers as the village is compact. Use bus 203 from Valldemossa or Sóller. You can reach all cultural highlights on foot and enjoy the unique atmosphere without worrying about parking."
+            "en": "Deià is perfect for transit travelers as the village is compact. Use bus 203 from Valldemossa or Sóller. You can reach all cultural highlights on foot and enjoy the unique atmosphere without worrying about parking.",
+            "es": "Deià es perfecto para viajeros en tránsito ya que el pueblo es compacto. Usa el autobús 203 desde Valldemossa o Sóller. Puedes llegar a todos los puntos culturales a pie y disfrutar de la atmósfera única sin preocuparte por el aparcamiento."
           },
           "stops": [
             {
@@ -1978,13 +2164,15 @@
                 "de": "Busstation Deià",
                 "hu": "Deià buszmegálló",
                 "ro": "Stația de autobuz Deià",
-                "en": "Deià Bus Stop"
+                "en": "Deià Bus Stop",
+                "es": "Parada de autobús de Deià"
               },
               "tip_5lang": {
                 "de": "Linie 203 hält direkt im Dorf.",
                 "hu": "A 203-as busz közvetlenül a faluban áll meg.",
                 "ro": "Linia 203 oprește chiar în sat.",
-                "en": "Line 203 stops directly in the village."
+                "en": "Line 203 stops directly in the village.",
+                "es": "La línea 203 para directamente en el pueblo."
               }
             },
             {
@@ -1992,13 +2180,15 @@
                 "de": "Kirche San Juan Bautista",
                 "hu": "Szent János templom",
                 "ro": "Biserica San Juan Bautista",
-                "en": "Church of San Juan Bautista"
+                "en": "Church of San Juan Bautista",
+                "es": "Iglesia de San Juan Bautista"
               },
               "tip_5lang": {
                 "de": "Kurzer Spaziergang bergauf.",
                 "hu": "Rövid séta felfelé.",
                 "ro": "Scurtă plimbare la deal.",
-                "en": "Short walk uphill."
+                "en": "Short walk uphill.",
+                "es": "Corta subida a pie."
               }
             },
             {
@@ -2006,13 +2196,15 @@
                 "de": "Archäologisches Museum Deià",
                 "hu": "Deià Régészeti Múzeuma",
                 "ro": "Muzeul Arheologic Deià",
-                "en": "Archaeological Museum Deià"
+                "en": "Archaeological Museum Deià",
+                "es": "Museo Arqueológico de Deià"
               },
               "tip_5lang": {
                 "de": "In einer schönen Gasse gelegen.",
                 "hu": "Egy szép sikátorban található.",
                 "ro": "Situat pe o alee frumoasă.",
-                "en": "Located in a beautiful alley."
+                "en": "Located in a beautiful alley.",
+                "es": "Situado en un bonito callejón."
               }
             },
             {
@@ -2020,13 +2212,15 @@
                 "de": "Robert Graves Haus",
                 "hu": "Robert Graves háza",
                 "ro": "Casa Robert Graves",
-                "en": "Robert Graves House"
+                "en": "Robert Graves House",
+                "es": "Casa de Robert Graves"
               },
               "tip_5lang": {
                 "de": "Ganz in der Nähe der Bushaltestelle Richtung Sóller.",
                 "hu": "Nagyon közel a Sóller felé tartó buszmegállóhoz.",
                 "ro": "Foarte aproape de stația de autobuz spre Sóller.",
-                "en": "Very close to the bus stop heading towards Sóller."
+                "en": "Very close to the bus stop heading towards Sóller.",
+                "es": "Muy cerca de la parada de autobús en dirección a Sóller."
               }
             },
             {
@@ -2034,13 +2228,15 @@
                 "de": "Friedhof von Deià",
                 "hu": "Deià temetője",
                 "ro": "Cimitirul din Deià",
-                "en": "Cemetery of Deià"
+                "en": "Cemetery of Deià",
+                "es": "Cementerio de Deià"
               },
               "tip_5lang": {
                 "de": "Ort der Stille.",
                 "hu": "A csend helye.",
                 "ro": "Loc al liniștii.",
-                "en": "Place of silence."
+                "en": "Place of silence.",
+                "es": "Lugar de silencio."
               }
             }
           ],
@@ -2150,6 +2346,12 @@
               "Get a ticket on the bus with your card.",
               "Stops have digital displays.",
               "Fewer buses run back in the evening."
+            ],
+            "es": [
+              "Los autobuses circulan aproximadamente cada hora.",
+              "Compra el billete en el autobús con tu tarjeta.",
+              "Las paradas tienen pantallas digitales.",
+              "Hay menos autobuses por la noche."
             ]
           }
         },
@@ -2158,7 +2360,8 @@
             "de": "Mit dem Bus sicher durch den Regen nach Deià. Der Morgen beginnt an der Bushaltestelle unter dem Vordach. Die Kirche San Juan Bautista bietet ersten Schutz. Mittags vertiefen Sie sich im Robert Graves Haus in die Literatur, während es draußen regnet. Der Nachmittag im Museum und der ruhige Moment am Friedhof runden den Tag ab.",
             "hu": "Busszal biztonságban az esőn át Deiàba. A reggel a buszmegálló előteteje alatt kezdődik. A San Juan Bautista templom nyújtja az első menedéket. Délben Robert Graves házában merülhet el az irodalomban, miközben kint esik. A délutáni múzeumlátogatás és a temetői nyugalom zárja a napot.",
             "ro": "Cu autobuzul în siguranță prin ploaie spre Deià. Dimineața începe sub copertina stației de autobuz. Biserica oferă primul adăpost. La prânz, cufundați-vă în literatură la Casa Robert Graves în timp ce afară plouă. După-amiaza la muzeu și momentul liniștit la cimitir completează ziua.",
-            "en": "Take the bus safely through the rain to Deià. Morning begins under the bus stop canopy. The Church of San Juan Bautista provides the first shelter. At noon, immerse yourself in literature at Robert Graves House while it rains outside. The afternoon at the museum and a quiet moment at the cemetery round off the day."
+            "en": "Take the bus safely through the rain to Deià. Morning begins under the bus stop canopy. The Church of San Juan Bautista provides the first shelter. At noon, immerse yourself in literature at Robert Graves House while it rains outside. The afternoon at the museum and a quiet moment at the cemetery round off the day.",
+            "es": "Toma el autobús con seguridad bajo la lluvia hasta Deià. La mañana comienza bajo la marquesina de la parada. La Iglesia de San Juan Bautista ofrece el primer refugio. Al mediodía, sumérgete en la literatura en la Casa de Robert Graves mientras llueve. La tarde en el museo y un momento de quietud en el cementerio completan el día."
           },
           "stops": [
             {
@@ -2167,7 +2370,8 @@
                 "de": "Bleiben Sie unter dem Wartehäuschen, bis der Regen nachlässt.",
                 "hu": "Maradjon a váróban, amíg az eső alábbhagy.",
                 "ro": "Rămâneți sub copertina stației până se potolește ploaia.",
-                "en": "Stay under the shelter until the rain lets up."
+                "en": "Stay under the shelter until the rain lets up.",
+                "es": "Permanece bajo la marquesina hasta que amaine la lluvia."
               }
             },
             {
@@ -2176,7 +2380,8 @@
                 "de": "Der Weg von der Haltestelle ist kurz, aber steil.",
                 "hu": "A megállótól vezető út rövid, de meredek.",
                 "ro": "Drumul de la stație este scurt dar abrupt.",
-                "en": "The walk from the stop is short but steep."
+                "en": "The walk from the stop is short but steep.",
+                "es": "La caminata desde la parada es corta pero empinada."
               }
             },
             {
@@ -2185,7 +2390,8 @@
                 "de": "Ideal, um die Zeit bis zum nächsten Bus trocken zu überbrücken.",
                 "hu": "Ideális a következő buszig hátralévő idő száraz eltöltésére.",
                 "ro": "Ideal pentru a aștepta următorul autobuz la uscat.",
-                "en": "Ideal for passing the time dry until the next bus."
+                "en": "Ideal for passing the time dry until the next bus.",
+                "es": "Ideal para pasar el tiempo seco hasta el siguiente autobús."
               }
             },
             {
@@ -2194,7 +2400,8 @@
                 "de": "Fragen Sie nach dem Weg zur nächsten geschützten Haltestelle.",
                 "hu": "Kérdezze meg az utat a legközelebbi fedett megállóhoz.",
                 "ro": "Întrebați de drumul spre cea mai apropiată stație acoperită.",
-                "en": "Ask for directions to the nearest sheltered stop."
+                "en": "Ask for directions to the nearest sheltered stop.",
+                "es": "Pregunta por la parada cubierta más cercana."
               }
             },
             {
@@ -2203,7 +2410,8 @@
                 "de": "Vorsicht, die Stufen zur Kirche können rutschig sein.",
                 "hu": "Vigyázat, a templomhoz vezető lépcsők csúszósak lehetnek.",
                 "ro": "Atenție, treptele spre biserică pot fi alunecoase.",
-                "en": "Caution: the steps up to the church can be slippery."
+                "en": "Caution: the steps up to the church can be slippery.",
+                "es": "Precaución: los escalones hasta la iglesia pueden estar resbaladizos."
               }
             }
           ],
@@ -2231,6 +2439,12 @@
               "Keep your card ready for contactless payment.",
               "Buses can be more crowded when it rains; plan extra time.",
               "The mountain stops often have good shelters."
+            ],
+            "es": [
+              "Usa la app TIB para información en tiempo real sobre retrasos por el tiempo.",
+              "Ten la tarjeta lista para pago contactless.",
+              "Los autobuses pueden ir más llenos cuando llueve; planifica tiempo extra.",
+              "Las paradas de montaña suelen tener buenos refugios."
             ]
           }
         },
@@ -2239,7 +2453,8 @@
             "de": "Deià ist mit dem Bus auch im Winter leicht erreichbar. Der Morgen an der Haltestelle ist frisch und klar. Die Kirche bietet einen spirituellen Start in den Tag. Mittags genießen Sie die Ruhe im Robert Graves Haus ohne Schlangen. Den Nachmittag verbringen Sie im Museum und beenden die Tour am Friedhof mit Blick auf das winterliche Dorf.",
             "hu": "Deià télen is könnyen elérhető busszal. A reggel a megállóban friss és tiszta. A templom spirituális kezdést ad a napnak. Délben élvezze a nyugalmat Robert Graves házában, sorban állás nélkül. A délutánt a múzeumban töltse, majd zárja a túrát a temetőnél, kilátással a téli falura.",
             "ro": "Deià este ușor accesibil cu autobuzul chiar și iarna. Dimineața în stație este proaspătă și clară. Biserica oferă un început spiritual zilei. La prânz, bucurați-vă de liniștea de la Casa Robert Graves fără cozi. Petreceți după-amiaza la muzeu și încheiați turul la cimitir.",
-            "en": "Deià is easily accessible by bus even in winter. Morning at the stop is fresh and clear. The church offers a spiritual start to the day. At noon, enjoy the peace at Robert Graves House without the queues. Spend the afternoon at the museum and end the tour at the cemetery overlooking the wintry village."
+            "en": "Deià is easily accessible by bus even in winter. Morning at the stop is fresh and clear. The church offers a spiritual start to the day. At noon, enjoy the peace at Robert Graves House without the queues. Spend the afternoon at the museum and end the tour at the cemetery overlooking the wintry village.",
+            "es": "Deià es accesible en autobús incluso en invierno. La mañana en la parada es fresca y clara. La iglesia ofrece un comienzo espiritual del día. Al mediodía, disfruta de la paz en la Casa de Robert Graves sin colas. Pasa la tarde en el museo y termina el recorrido en el cementerio con vistas al pueblo invernal."
           },
           "stops": [
             {
@@ -2248,7 +2463,8 @@
                 "de": "Prüfen Sie den Winterfahrplan, es fahren weniger Busse.",
                 "hu": "Ellenőrizze a téli menetrendet, kevesebb busz jár.",
                 "ro": "Verificați mersul autobuzelor de iarnă, sunt mai puține curse.",
-                "en": "Check the winter timetable; there are fewer buses."
+                "en": "Check the winter timetable; there are fewer buses.",
+                "es": "Consulta el horario de invierno; hay menos autobuses."
               }
             },
             {
@@ -2257,7 +2473,8 @@
                 "de": "Die Sonne wärmt den Vorplatz am Vormittag angenehm.",
                 "hu": "A nap délelőtt kellemesen felmelegíti az előteret.",
                 "ro": "Soarele încălzește plăcut piațeta din față dimineața.",
-                "en": "The sun warms the front courtyard pleasantly in the morning."
+                "en": "The sun warms the front courtyard pleasantly in the morning.",
+                "es": "El sol calienta agradablemente el patio delantero por la mañana."
               }
             },
             {
@@ -2266,7 +2483,8 @@
                 "de": "Kompakte Ausstellung, ideal für kurze Wintertage.",
                 "hu": "Kompakt kiállítás, ideális a rövid téli napokra.",
                 "ro": "Expoziție compactă, ideală pentru zilele scurte de iarnă.",
-                "en": "Compact exhibition, ideal for short winter days."
+                "en": "Compact exhibition, ideal for short winter days.",
+                "es": "Exposición compacta, ideal para días cortos de invierno."
               }
             },
             {
@@ -2275,7 +2493,8 @@
                 "de": "Nutzen Sie den Audio-Guide im warmen Innenraum.",
                 "hu": "Használja az audionavigációt a meleg belső térben.",
                 "ro": "Folosiți ghidul audio în interiorul călduros.",
-                "en": "Use the audio guide in the warm interior."
+                "en": "Use the audio guide in the warm interior.",
+                "es": "Usa la audioguía en el interior cálido."
               }
             },
             {
@@ -2284,7 +2503,8 @@
                 "de": "Die Fernsicht bis zum Meer ist im Winter am besten.",
                 "hu": "A kilátás a tengerig télen a legszebb.",
                 "ro": "Vizibilitatea până la mare este cea mai bună iarna.",
-                "en": "The distant view to the sea is best in winter."
+                "en": "The distant view to the sea is best in winter.",
+                "es": "La vista lejana al mar es mejor en invierno."
               }
             }
           ],
@@ -2312,6 +2532,12 @@
               "Warm clothing is important for waiting at the stop.",
               "Buses are well-heated in winter.",
               "Combine the trip with a visit to Valldemossa."
+            ],
+            "es": [
+              "El último autobús suele salir antes en invierno.",
+              "Ropa de abrigo importante para esperar en la parada.",
+              "Los autobuses están bien climatizados en invierno.",
+              "Combina la excursión con una visita a Valldemossa."
             ]
           }
         }
@@ -2326,19 +2552,22 @@
       "de": "Deià ist seit den Robert-Graves-Tagen ein internationales Künstlerdorf, Englisch wird fast überall verstanden. Mallorquinisch ist die Muttersprache, ein 'bon dia' wird sehr geschätzt. Deutsch hilft in einigen Galerien und Bed & Breakfasts.",
       "hu": "Deià Robert Graves óta nemzetközi művészfalu, az angol gyakorlatilag mindenhol elboldogul. A mallorquí az anyanyelv, egy 'bon dia' sokat számít a helyieknél. Néhány galériában és panzióban a német is segít.",
       "ro": "Deià este un sat internațional de artiști de pe vremea lui Robert Graves, engleza este înțeleasă aproape peste tot. Mallorquí este limba maternă, un 'bon dia' este foarte apreciat. Germana ajută în câteva galerii și pensiuni.",
-      "en": "Deià has been an international artists' village since Robert Graves' days, English is understood almost everywhere. Mallorquí is the native tongue and a 'bon dia' is much appreciated. German helps in some galleries and B&Bs."
+      "en": "Deià has been an international artists' village since Robert Graves' days, English is understood almost everywhere. Mallorquí is the native tongue and a 'bon dia' is much appreciated. German helps in some galleries and B&Bs.",
+      "es": "Deià ha sido un pueblo de artistas internacionales desde la época de Robert Graves; el inglés se entiende casi en todas partes. El mallorquín es la lengua nativa y un «bon dia» se agradece. El alemán ayuda en algunas galerías y casas rurales."
     },
     "best_time_to_visit": {
       "de": "Mai, Juni und September sind ideal mit 22-26°C, badebar im Cala Deià und ohne den Augustansturm. Im Juli-August wird das Mini-Dorf von Yachten und Limousinen überrannt. Im Winter (10-15°C) ist Deià mystisch leer, aber viele Restaurants haben geschlossen.",
       "hu": "Május, június és szeptember kínálja a 22-26°C-ot, a Cala Deià öböl már fürdőzhető, és nincs még augusztusi tömeg. Júliusban-augusztusban a miniatűr falut elöntik a jachtok és luxusautók. Télen (10-15°C) misztikusan üres a hely, de sok étterem zárva tart.",
       "ro": "Mai, iunie și septembrie sunt ideale cu 22-26°C, mare bună pentru baie la Cala Deià și fără invazia din august. În iulie-august, micul sat este invadat de iahturi și limuzine. Iarna (10-15°C) Deià este mistic gol, dar multe restaurante sunt închise.",
-      "en": "May, June and September are ideal with 22-26°C, swimmable Cala Deià and no August invasion. In July-August the tiny village is overrun by yachts and limousines. Winter (10-15°C) brings mystical emptiness, but many restaurants close."
+      "en": "May, June and September are ideal with 22-26°C, swimmable Cala Deià and no August invasion. In July-August the tiny village is overrun by yachts and limousines. Winter (10-15°C) brings mystical emptiness, but many restaurants close.",
+      "es": "Mayo, junio y septiembre son ideales con 22-26°C, Cala Deià apta para baño y sin la invasión de agosto. En julio-agosto el diminuto pueblo se llena de yates y limusinas. El invierno (10-15°C) trae un vacío místico, pero muchos restaurantes cierran."
     },
     "neighborhood_warnings": {
       "de": "Deià ist außerordentlich sicher, das größte Risiko ist die kurvige Küstenstraße MA-10 mit ihren Steilhängen, besonders bei Nebel oder Regen. Der Pfad zur Cala Deià ist steil und steinig, festes Schuhwerk ist Pflicht. Parkplätze sind extrem rar, Parkknöllchen kommen schnell.",
       "hu": "Deià rendkívül biztonságos, a legnagyobb kockázat a kanyargós MA-10 parti út a meredek lejtőivel, főleg ködben vagy esőben. A Cala Deià felé vezető ösvény meredek és köves, kemény talpú cipő szükséges. Parkolóhely alig van, gyorsan jön a büntetés.",
       "ro": "Deià este extraordinar de sigur, riscul cel mai mare îl reprezintă șoseaua de coastă MA-10 cu pante abrupte, mai ales pe ceață sau ploaie. Poteca spre Cala Deià este abruptă și pietroasă, încălțăminte solidă este obligatorie. Locurile de parcare sunt extrem de rare, amenzile vin rapid.",
-      "en": "Deià is exceptionally safe, the biggest risk being the winding MA-10 coastal road with steep drops, especially in fog or rain. The path to Cala Deià is steep and rocky, sturdy shoes essential. Parking spots are extremely scarce and fines come quickly."
+      "en": "Deià is exceptionally safe, the biggest risk being the winding MA-10 coastal road with steep drops, especially in fog or rain. The path to Cala Deià is steep and rocky, sturdy shoes essential. Parking spots are extremely scarce and fines come quickly.",
+      "es": "Deià es excepcionalmente seguro; el mayor riesgo es la sinuosa MA-10 con caídas pronunciadas, especialmente con niebla o lluvia. El sendero a Cala Deià es empinado y rocoso, calzado resistente imprescindible. Las plazas de aparcamiento son extremadamente escasas y las multas llegan rápido."
     }
   }
 }

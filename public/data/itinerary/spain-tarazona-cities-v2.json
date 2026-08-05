@@ -21,7 +21,8 @@
             "de": "Plaza de Toros Vieja",
             "hu": "Régi bikaviadal-aréna",
             "ro": "Piața veche de tauri",
-            "en": "Old Bullring Square"
+            "en": "Old Bullring Square",
+            "es": "Plaza de la Antigua Plaza de Toros"
           },
           "coords": [
             -1.7275,
@@ -36,7 +37,8 @@
             "de": "Achte auf die achteckige Form und die als Wohnungen genutzten Balkone.",
             "hu": "Figyeld meg a nyolcszögletű formát és a lakásként használt erkélyeket.",
             "ro": "Observați forma sa octogonală și balcoanele folosite ca locuințe.",
-            "en": "Notice its octagonal shape and the balconies that are used as homes."
+            "en": "Notice its octagonal shape and the balconies that are used as homes.",
+            "es": "Fíjate en su planta octogonal y en los balcones utilizados como viviendas."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Jüdisches Viertel (Judería)",
             "hu": "Zsidónegyed (Judería)",
             "ro": "Cartierul Evreiesc (Judería)",
-            "en": "Jewish Quarter (Judería)"
+            "en": "Jewish Quarter (Judería)",
+            "es": "Barrio Judío (Judería)"
           },
           "coords": [
             -1.7295,
@@ -59,7 +62,8 @@
             "de": "Verliere dich in den engen Gassen und entdecke die hängenden Häuser.",
             "hu": "Vessz el a szűk sikátorokban, és fedezd fel a függő házakat.",
             "ro": "Pierdeți-vă pe aleile înguste și descoperiți casele suspendate.",
-            "en": "Get lost in the narrow alleys and discover the hanging houses."
+            "en": "Get lost in the narrow alleys and discover the hanging houses.",
+            "es": "Piérdete por los callejones estrechos y descubre las casas colgantes."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Rathaus von Tarazona",
             "hu": "Tarazonai Városháza",
             "ro": "Primăria din Tarazona",
-            "en": "Tarazona Town Hall"
+            "en": "Tarazona Town Hall",
+            "es": "Casa Consistorial de Tarazona"
           },
           "coords": [
             -1.7268,
@@ -82,7 +87,8 @@
             "de": "Die Fassade erzählt Geschichten von Herkules bis zu lokalen Königen.",
             "hu": "A homlokzat Herkulesről és a helyi királyokról mesél.",
             "ro": "Fațada sa spune povești de la Hercule la regii locali.",
-            "en": "Its facade tells stories from Hercules to local kings."
+            "en": "Its facade tells stories from Hercules to local kings.",
+            "es": "Su fachada cuenta historias desde Hércules hasta los reyes locales."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Bischofspalast",
             "hu": "Püspöki Palota",
             "ro": "Palatul Episcopal",
-            "en": "Episcopal Palace"
+            "en": "Episcopal Palace",
+            "es": "Palacio Episcopal"
           },
           "coords": [
             -1.7301,
@@ -105,7 +112,8 @@
             "de": "Besuche den Innenhof und die Galerie mit Porträts der Bischöfe.",
             "hu": "Látogass el a belső udvarra és a püspökök portréit bemutató galériába.",
             "ro": "Vizitați curtea interioară și galeria cu portretele episcopilor.",
-            "en": "Visit the inner courtyard and the gallery with portraits of the bishops."
+            "en": "Visit the inner courtyard and the gallery with portraits of the bishops.",
+            "es": "Visita el patio interior y la galería con los retratos de los obispos."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Kathedrale Nuestra Señora de la Huerta",
             "hu": "Nuestra Señora de la Huerta katedrális",
             "ro": "Catedrala Nuestra Señora de la Huerta",
-            "en": "Cathedral of Nuestra Señora de la Huerta"
+            "en": "Cathedral of Nuestra Señora de la Huerta",
+            "es": "Catedral de Nuestra Señora de la Huerta"
           },
           "coords": [
             -1.7255,
@@ -128,7 +137,8 @@
             "de": "Einzigartige Mischung aus Gotik und Mudéjar-Stil, besonders der Kreuzgang.",
             "hu": "A gótika és a mudéjar stílus egyedülálló keveréke, különösen a kerengő.",
             "ro": "Un amestec unic de stil gotic și Mudéjar, în special claustrul.",
-            "en": "A unique mix of Gothic and Mudéjar style, especially the cloister."
+            "en": "A unique mix of Gothic and Mudéjar style, especially the cloister.",
+            "es": "Una mezcla única de gótico y mudéjar, especialmente el claustro."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Kirche Santa María Magdalena",
             "hu": "Szent Mária Magdolna-templom",
             "ro": "Biserica Santa María Magdalena",
-            "en": "Church of Santa María Magdalena"
+            "en": "Church of Santa María Magdalena",
+            "es": "Iglesia de Santa María Magdalena"
           },
           "coords": [
             -1.731,
@@ -151,7 +162,8 @@
             "de": "Ihr Turm ist das älteste Mudéjar-Bauwerk in Tarazona.",
             "hu": "Tornya Tarazona legrégebbi mudéjar építménye.",
             "ro": "Turnul său este cea mai veche structură Mudéjar din Tarazona.",
-            "en": "Its tower is the oldest Mudéjar structure in Tarazona."
+            "en": "Its tower is the oldest Mudéjar structure in Tarazona.",
+            "es": "Su torre es la estructura mudéjar más antigua de Tarazona."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Teatro Bellas Artes",
             "hu": "Bellas Artes Színház",
             "ro": "Teatrul Bellas Artes",
-            "en": "Bellas Artes Theatre"
+            "en": "Bellas Artes Theatre",
+            "es": "Teatro Bellas Artes"
           },
           "coords": [
             -1.728,
@@ -174,7 +187,8 @@
             "de": "Prüfe das Programm, vielleicht läuft eine interessante Vorstellung.",
             "hu": "Ellenőrizd a műsort, talán van egy érdekes előadás.",
             "ro": "Verificați programul, s-ar putea să prindeți un spectacol interesant.",
-            "en": "Check the schedule, you might catch an interesting performance."
+            "en": "Check the schedule, you might catch an interesting performance.",
+            "es": "Consulta la programación; podrías ver una función interesante."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginne den Tag auf der achteckigen Plaza de Toros Vieja und schlendere durch die engen Gassen des jüdischen Viertels. Am Mittag bewunderst du die kunstvolle Fassade des Rathauses und den Bischofspalast, bevor du die prächtige Kathedrale erkundest. Der Nachmittag ist der ältesten Mudéjar-Kirche der Stadt und einem Blick in das Kulturleben im Teatro Bellas Artes gewidmet. Schließe den Tag mit einem Spaziergang entlang des Flusses Queiles ab.",
         "hu": "Kezdje a napot a nyolcszögletű Plaza de Toros Vieján, majd sétáljon végig a zsidónegyed szűk utcáin. Délben csodálja meg a Városháza díszes homlokzatát és a Püspöki Palotát, mielőtt felfedezné a pompás Katedrálist. A délután a város legrégebbi mudéjar templomának és a Teatro Bellas Artes kulturális életébe való betekintésnek szentelt. Zárja a napot egy sétával a Queiles folyó mentén.",
         "ro": "Începeți ziua în Piața octogonală de Tauri și plimbați-vă pe străduțele înguste ale cartierului evreiesc. La prânz, admirați fațada artistică a Primăriei și Palatul Episcopal înainte de a explora magnifica Catedrală. După-amiaza este dedicată celei mai vechi biserici în stil Mudéjar din oraș și unei incursiuni în viața culturală la Teatrul Bellas Artes. Încheiați ziua cu o plimbare de-a lungul râului Queiles.",
-        "en": "Start your day in the octagonal Plaza de Toros Vieja and stroll through the narrow streets of the Jewish quarter. At noon, admire the artistic facade of the Town Hall and the Episcopal Palace before exploring the magnificent Cathedral. The afternoon is dedicated to the city's oldest Mudéjar church and a glimpse into cultural life at the Teatro Bellas Artes. End the day with a walk along the Queiles river."
+        "en": "Start your day in the octagonal Plaza de Toros Vieja and stroll through the narrow streets of the Jewish quarter. At noon, admire the artistic facade of the Town Hall and the Episcopal Palace before exploring the magnificent Cathedral. The afternoon is dedicated to the city's oldest Mudéjar church and a glimpse into cultural life at the Teatro Bellas Artes. End the day with a walk along the Queiles river.",
+        "es": "Comienza el día en la octogonal Plaza de la Antigua Plaza de Toros y pasea por las estrechas calles del barrio judío. A mediodía, admira la fachada artística del Ayuntamiento y el Palacio Episcopal antes de explorar la magnífica catedral. La tarde está dedicada a la iglesia mudéjar más antigua de la ciudad y a un vistazo a la vida cultural en el Teatro Bellas Artes. Termina el día con un paseo por la orilla del río Queiles."
       },
       "gastro_picks": {
         "de": [
@@ -378,6 +393,12 @@
           "Bring a water bottle, especially during the summer months.",
           "Some sights may close for lunch, so plan accordingly.",
           "The best time for photos in the Judería is late afternoon when the light is soft."
+        ],
+        "es": [
+          "Lleva calzado cómodo, las calles suelen ser empinadas y adoquinadas.",
+          "Lleva una botella de agua, sobre todo en los meses de verano.",
+          "Algunas visitas cierran por la hora de la comida; planifica en consecuencia.",
+          "La mejor hora para fotos en la Judería es a última hora de la tarde, cuando la luz es suave."
         ]
       },
       "variants": {
@@ -386,7 +407,8 @@
             "de": "Beginnen Sie den Tag unter den Arkaden der Plaza de Toros Vieja, die perfekten Schutz vor dem Regen bieten. Mittags erkunden Sie die Judería, wo die dichten Dächer den Niederschlag mildern. Nachmittags widmen Sie sich den prachtvollen Innenräumen der Kathedrale und des Bischofspalasts. Den Abend lassen Sie gemütlich in einem Café am Rathausplatz ausklingen, während der Regen auf die vizes macskaköveken trommelt.",
             "hu": "Kezdje a napot a Régi Bikaviadal-tér árkádjai alatt, amelyek kiváló menedéket nyújtanak az eső elől. Délben fedezze fel a zsidó negyedet, ahol a házak közelsége természetes ernyőként funkcionál. Délután merüljön el a katedrális és a püspöki palota belső művészeti kincseiben. Az estét töltse egy hangulatos kávézóban a városháza közelében, figyelve a vizes macskaköveken megcsillanó fényeket.",
             "ro": "Începeți ziua sub arcadele din Plaza de Toros Vieja, care oferă un adăpost excelent împotriva ploii. La prânz, explorați cartierul evreiesc, unde acoperișurile apropiate atenuează precipitațiile. După-amiaza, vizitați interioarele spectaculoase ale Catedralei și ale Palatului Episcopal. Încheiați seara într-o cafenea primitoare lângă primărie, admirând reflexiile ploii pe pavajul istoric.",
-            "en": "Start your day under the arcades of the Old Bullring Square, providing perfect shelter from the rain. At noon, explore the narrow streets of the Jewish Quarter, where the close-knit buildings offer natural cover. Spend the afternoon admiring the interior treasures of the Cathedral and the Episcopal Palace. End your evening in a cozy café near the Town Hall, watching the rain glisten on the ancient cobblestones."
+            "en": "Start your day under the arcades of the Old Bullring Square, providing perfect shelter from the rain. At noon, explore the narrow streets of the Jewish Quarter, where the close-knit buildings offer natural cover. Spend the afternoon admiring the interior treasures of the Cathedral and the Episcopal Palace. End your evening in a cozy café near the Town Hall, watching the rain glisten on the ancient cobblestones.",
+            "es": "Comienza el día bajo los soportales de la Plaza de la Antigua Plaza de Toros, que ofrecen perfecto refugio de la lluvia. A mediodía, explora las estrechas calles de la Judería, donde los edificios agrupados brindan cobertura natural. Pasa la tarde admirando los tesoros interiores de la catedral y del Palacio Episcopal. Termina la velada en un café acogedor cerca del Ayuntamiento, viendo la lluvia brillar en los adoquines antiguos."
           },
           "stops": [
             {
@@ -395,7 +417,8 @@
                 "de": "Nutzen Sie die Arkadengänge, um trocken zu bleiben.",
                 "hu": "Használja az árkádokat, hogy száraz maradjon.",
                 "ro": "Folosiți arcadele pentru a rămâne uscat.",
-                "en": "Use the arcaded walkways to stay dry."
+                "en": "Use the arcaded walkways to stay dry.",
+                "es": "Utiliza los paseos porticados para mantenerte seco."
               }
             },
             {
@@ -404,7 +427,8 @@
                 "de": "Die engen Gassen bieten Schutz vor Wind und Regen.",
                 "hu": "A szűk utcák védelmet nyújtanak a szél és az eső ellen.",
                 "ro": "Străzile înguste oferă protecție contra vântului și ploii.",
-                "en": "The narrow alleys offer protection from wind and rain."
+                "en": "The narrow alleys offer protection from wind and rain.",
+                "es": "Los callejones estrechos protegen del viento y la lluvia."
               }
             },
             {
@@ -413,7 +437,8 @@
                 "de": "Bewundern Sie die Fassade und treten Sie dann ins Trockene.",
                 "hu": "Csodálja meg a homlokzatot, majd húzódjon fedett helyre.",
                 "ro": "Admirați fațada și apoi intrați la adăpost.",
-                "en": "Admire the facade then head for cover."
+                "en": "Admire the facade then head for cover.",
+                "es": "Admira la fachada y luego busca refugio."
               }
             },
             {
@@ -422,7 +447,8 @@
                 "de": "Ein idealer Ort für eine ausgiebige Innenbesichtigung.",
                 "hu": "Ideális helyszín egy alapos belső látogatáshoz.",
                 "ro": "Un loc ideal pentru o vizită interioară detaliată.",
-                "en": "An ideal location for an extensive indoor visit."
+                "en": "An ideal location for an extensive indoor visit.",
+                "es": "Una ubicación ideal para una visita amplia en interior."
               }
             },
             {
@@ -431,7 +457,8 @@
                 "de": "Perfekter Rückzugsort, um den heftigsten Regen abzuwarten.",
                 "hu": "Tökéletes menedék a hevesebb esőzés idejére.",
                 "ro": "Refugiul perfect pentru a aștepta trecerea ploii.",
-                "en": "Perfect shelter to wait out the heaviest rain."
+                "en": "Perfect shelter to wait out the heaviest rain.",
+                "es": "Refugio perfecto para esperar a que amaine la lluvia intensa."
               }
             },
             {
@@ -440,7 +467,8 @@
                 "de": "Vorsicht auf den steilen, rutschigen Stufen zum Viertel.",
                 "hu": "Vigyázzon a negyedbe vezető csúszós lépcsőkön.",
                 "ro": "Atenție la treptele alunecoase spre cartier.",
-                "en": "Be careful on the slippery steps leading to the district."
+                "en": "Be careful on the slippery steps leading to the district.",
+                "es": "Ten cuidado con los escalones resbaladizos que conducen al barrio."
               }
             },
             {
@@ -449,7 +477,8 @@
                 "de": "Wärmen Sie sich im Foyer auf und genießen Sie die Akustik.",
                 "hu": "Melegedjen fel az előcsarnokban és élvezze az akusztikát.",
                 "ro": "Încălziți-vă în foier și bucurați-vă de acustică.",
-                "en": "Warm up in the foyer and enjoy the acoustics."
+                "en": "Warm up in the foyer and enjoy the acoustics.",
+                "es": "Calienta en el vestíbulo y disfruta de la acústica."
               }
             }
           ],
@@ -477,6 +506,12 @@
               "The cobblestones in the upper town become very slippery when wet.",
               "Seek shelter under the arcades of the main square during heavy rain.",
               "The cathedral provides ample space for a long break from the rain."
+            ],
+            "es": [
+              "Un paraguas resistente es esencial por las rachas de viento repentinas.",
+              "Los adoquines en la parte alta se vuelven muy resbaladizos cuando están mojados.",
+              "Busca refugio bajo los soportales de la plaza principal durante lluvias fuertes.",
+              "La catedral ofrece amplio espacio para una larga pausa a resguardo de la lluvia."
             ]
           }
         },
@@ -485,7 +520,8 @@
             "de": "Genießen Sie die klare Winterluft auf der Plaza de Toros Vieja bei tiefstehender Sonne. Mittags wärmen Sie sich bei einem kräftigen Eintopf in der Judería auf. Am Nachmittag leuchten die Ziegel der Kathedrale im goldenen Winterlicht besonders warm. Den Abend verbringen Sie bei heißer Schokolade, bevor die frühe Dunkelheit die Stadt in festliches Licht taucht.",
             "hu": "Élvezze a friss téli reggelt a Régi Bikaviadal-téren az alacsonyan járó napfényben. Délben melegedjen fel egy laktató helyi egytálétellel a zsidó negyedben. Délután a katedrális téglái aranyfényben úsznak a téli napsütésben. Az estét töltse egy forró csokoládé mellett, mielőtt a korai sötétség ünnepi fénybe öltözteti a várost.",
             "ro": "Bucurați-vă de dimineața răcoroasă de iarnă în Plaza de Toros Vieja. La prânz, încălziți-vă cu o tocană locală consistentă în cartierul evreiesc. După-amiaza, cărămizile catedralei strălucesc într-o lumină aurie specială. Seara, savurați o ciocolată caldă înainte ca întunericul timpuriu să îmbrace orașul în lumini festive.",
-            "en": "Enjoy a crisp winter morning at the Old Bullring Square. At noon, warm up with a hearty local stew in the Jewish Quarter. In the afternoon, the bricks of the cathedral glow with a special golden warmth in the winter light. Spend your evening with a hot chocolate before the early darkness wraps the city in festive lights."
+            "en": "Enjoy a crisp winter morning at the Old Bullring Square. At noon, warm up with a hearty local stew in the Jewish Quarter. In the afternoon, the bricks of the cathedral glow with a special golden warmth in the winter light. Spend your evening with a hot chocolate before the early darkness wraps the city in festive lights.",
+            "es": "Disfruta de una fresca mañana invernal en la Plaza de la Antigua Plaza de Toros. A mediodía, entra en calor con un contundente guiso local en la Judería. Por la tarde, los ladrillos de la catedral brillan con un calor dorado en la luz invernal. Pasa la noche con un chocolate caliente antes de que la oscuridad temprana cubra la ciudad de luces festivas."
           },
           "stops": [
             {
@@ -494,7 +530,8 @@
                 "de": "Die Morgensonne wärmt die Terrassen auf der Nordseite.",
                 "hu": "A reggeli napsütés kellemesen melegíti az északi teraszokat.",
                 "ro": "Soarele de dimineață încălzește terasele din partea de nord.",
-                "en": "The morning sun warms the terraces on the north side."
+                "en": "The morning sun warms the terraces on the north side.",
+                "es": "El sol de la mañana calienta las terrazas del lado norte."
               }
             },
             {
@@ -503,7 +540,8 @@
                 "de": "Ideal für einen Spaziergang in der windgeschützten Unterstadt.",
                 "hu": "Ideális sétahelyszín a szélvédett alsóvárosban.",
                 "ro": "Ideal pentru o plimbare în orașul de jos, ferit de vânt.",
-                "en": "Ideal for a walk in the lower town, sheltered from the wind."
+                "en": "Ideal for a walk in the lower town, sheltered from the wind.",
+                "es": "Ideal para un paseo por la parte baja de la ciudad, resguardada del viento."
               }
             },
             {
@@ -512,7 +550,8 @@
                 "de": "Achten Sie auf die Reliefs im schrägen Winterlicht.",
                 "hu": "Figyelje meg a domborműveket a súroló téli fényben.",
                 "ro": "Observați reliefurile fine în lumina oblică a iernii.",
-                "en": "Observe the delicate reliefs in the slanted winter light."
+                "en": "Observe the delicate reliefs in the slanted winter light.",
+                "es": "Observa los delicados relieves con la luz inclinada del invierno."
               }
             },
             {
@@ -521,7 +560,8 @@
                 "de": "Der Innenhof ist im Winter oft schneefrei und ruhig.",
                 "hu": "A belső udvar télen gyakran hómentes és csendes.",
                 "ro": "Curtea interioară este adesea fără zăpadă și liniștită.",
-                "en": "The interior courtyard is often snow-free and quiet."
+                "en": "The interior courtyard is often snow-free and quiet.",
+                "es": "El patio interior suele estar libre de nieve y en calma."
               }
             },
             {
@@ -530,7 +570,8 @@
                 "de": "Kleiden Sie sich warm an, die Kirchenschiffe sind kühl.",
                 "hu": "Öltözzön rétegesen, a hatalmas templomhajók hűvösek.",
                 "ro": "Îmbrăcați-vă bine, naosurile mari sunt răcoroase.",
-                "en": "Dress warmly; the vast church naves are quite cool."
+                "en": "Dress warmly; the vast church naves are quite cool.",
+                "es": "Abrígate; las naves de las iglesias son bastante frías."
               }
             },
             {
@@ -539,7 +580,8 @@
                 "de": "Bester Blick auf den oft schneebedeckten Moncayo.",
                 "hu": "Innen nyílik a legjobb kilátás a gyakran hófödte Moncayóra.",
                 "ro": "Cea mai bună vedere spre muntele Moncayo înzăpezit.",
-                "en": "Best view of the often snow-capped Moncayo mountain."
+                "en": "Best view of the often snow-capped Moncayo mountain.",
+                "es": "Mejor vista del Moncayo, a menudo con cumbres nevadas."
               }
             },
             {
@@ -548,7 +590,8 @@
                 "de": "Ein gemütlicher, beheizter Ort für den späten Nachmittag.",
                 "hu": "Hangulatos, fűtött helyszín a késő délutáni órákra.",
                 "ro": "Un loc primitor și încălzit pentru orele de după-amiază.",
-                "en": "A cozy, heated venue for the late afternoon hours."
+                "en": "A cozy, heated venue for the late afternoon hours.",
+                "es": "Un lugar acogedor y calefactado para las últimas horas de la tarde."
               }
             }
           ],
@@ -576,6 +619,12 @@
               "Narrow streets can be significantly cooler than open squares.",
               "Try local winter specialties like Migas.",
               "Wear shoes with good grip for the steep streets of the upper town."
+            ],
+            "es": [
+              "El sol se oculta tras las montañas alrededor de las 17:30.",
+              "Las calles estrechas pueden ser notablemente más frías que las plazas abiertas.",
+              "Prueba especialidades invernales locales como las migas.",
+              "Lleva calzado con buen agarre para las cuestas del casco antiguo."
             ]
           }
         }
@@ -594,7 +643,8 @@
             "de": "Plaza de Toros Vieja",
             "hu": "Régi bikaviadal-aréna",
             "ro": "Piața veche de tauri",
-            "en": "Old Bullring Square"
+            "en": "Old Bullring Square",
+            "es": "Plaza de la Antigua Plaza de Toros"
           },
           "coords": [
             -1.7275,
@@ -609,7 +659,8 @@
             "de": "Ein perfekter Treffpunkt, bevor du in die Pedale trittst.",
             "hu": "Tökéletes találkozóhely, mielőtt nyeregbe szállnál.",
             "ro": "Un punct de întâlnire perfect înainte de a începe să pedalați.",
-            "en": "A perfect meeting point before you start pedaling."
+            "en": "A perfect meeting point before you start pedaling.",
+            "es": "Un punto de encuentro perfecto antes de empezar a pedalear."
           }
         },
         {
@@ -617,7 +668,8 @@
             "de": "Rathaus von Tarazona",
             "hu": "Tarazonai Városháza",
             "ro": "Primăria din Tarazona",
-            "en": "Tarazona Town Hall"
+            "en": "Tarazona Town Hall",
+            "es": "Casa Consistorial de Tarazona"
           },
           "coords": [
             -1.7268,
@@ -632,7 +684,8 @@
             "de": "Stelle dein Rad ab und bewundere die Renaissanc-Fassade.",
             "hu": "Tedd le a biciklit, és csodáld meg a reneszánsz homlokzatot.",
             "ro": "Parcați bicicleta și admirați fațada renascentistă.",
-            "en": "Park your bike and admire the Renaissance facade."
+            "en": "Park your bike and admire the Renaissance facade.",
+            "es": "Aparca la bici y admira la fachada renacentista."
           }
         },
         {
@@ -640,7 +693,8 @@
             "de": "Kathedrale Nuestra Señora de la Huerta",
             "hu": "Nuestra Señora de la Huerta katedrális",
             "ro": "Catedrala Nuestra Señora de la Huerta",
-            "en": "Cathedral of Nuestra Señora de la Huerta"
+            "en": "Cathedral of Nuestra Señora de la Huerta",
+            "es": "Catedral de Nuestra Señora de la Huerta"
           },
           "coords": [
             -1.7255,
@@ -655,7 +709,8 @@
             "de": "Die Radtour lohnt sich schon allein für den Anblick dieses Bauwerks.",
             "hu": "Már ezért a látványért is megéri a biciklitúra.",
             "ro": "Turul cu bicicleta merită doar pentru a vedea această clădire.",
-            "en": "The bike tour is worth it just for the sight of this structure."
+            "en": "The bike tour is worth it just for the sight of this structure.",
+            "es": "La ruta en bici merece la pena solo por ver esta construcción."
           }
         },
         {
@@ -663,7 +718,8 @@
             "de": "Kirche Santa María Magdalena",
             "hu": "Szent Mária Magdolna-templom",
             "ro": "Biserica Santa María Magdalena",
-            "en": "Church of Santa María Magdalena"
+            "en": "Church of Santa María Magdalena",
+            "es": "Iglesia de Santa María Magdalena"
           },
           "coords": [
             -1.731,
@@ -678,7 +734,8 @@
             "de": "Der Aufstieg zum oberen Teil der Stadt wird mit diesem Anblick belohnt.",
             "hu": "A város felső részére való feljutást ez a látvány jutalmazza.",
             "ro": "Urcarea spre partea superioară a orașului este răsplătită cu această priveliște.",
-            "en": "The climb to the upper part of the city is rewarded with this sight."
+            "en": "The climb to the upper part of the city is rewarded with this sight.",
+            "es": "La subida a la parte alta de la ciudad se recompensa con este monumento."
           }
         },
         {
@@ -686,7 +743,8 @@
             "de": "Jüdisches Viertel (Judería)",
             "hu": "Zsidónegyed (Judería)",
             "ro": "Cartierul Evreiesc (Judería)",
-            "en": "Jewish Quarter (Judería)"
+            "en": "Jewish Quarter (Judería)",
+            "es": "Barrio Judío (Judería)"
           },
           "coords": [
             -1.7295,
@@ -701,7 +759,8 @@
             "de": "Schiebe dein Rad hier besser, um die Atmosphäre aufzusaugen.",
             "hu": "Itt inkább told a biciklit, hogy magadba szívd a hangulatot.",
             "ro": "Mai bine împingeți bicicleta aici pentru a absorbi atmosfera.",
-            "en": "It's better to push your bike here to soak up the atmosphere."
+            "en": "It's better to push your bike here to soak up the atmosphere.",
+            "es": "Mejor llevar la bici a pie aquí para empaparte del ambiente."
           }
         },
         {
@@ -709,7 +768,8 @@
             "de": "Mezquita de Tórtoles",
             "hu": "Tórtoles-i mecset",
             "ro": "Moscheea din Tórtoles",
-            "en": "Mosque of Tórtoles"
+            "en": "Mosque of Tórtoles",
+            "es": "Mezquita de Tórtoles"
           },
           "coords": [
             -1.7,
@@ -724,7 +784,8 @@
             "de": "Die kleine Radtour aus der Stadt hinaus lohnt sich für dieses versteckte Juwel.",
             "hu": "Megéri a rövid biciklitúra a városon kívülre ezért a rejtett gyöngyszemért.",
             "ro": "Mica plimbare cu bicicleta în afara orașului merită pentru această bijuterie ascunsă.",
-            "en": "The short bike ride out of town is worth it for this hidden gem."
+            "en": "The short bike ride out of town is worth it for this hidden gem.",
+            "es": "El corto recorrido en bici fuera del pueblo merece la pena por esta joya escondida."
           }
         },
         {
@@ -732,7 +793,8 @@
             "de": "Teatro Bellas Artes",
             "hu": "Bellas Artes Színház",
             "ro": "Teatrul Bellas Artes",
-            "en": "Bellas Artes Theatre"
+            "en": "Bellas Artes Theatre",
+            "es": "Teatro Bellas Artes"
           },
           "coords": [
             -1.728,
@@ -747,7 +809,8 @@
             "de": "Ein schöner Abschluss der Tour, bevor es zurück zum Ausgangspunkt geht.",
             "hu": "Szép lezárása a túrának, mielőtt visszatérnél a kiindulópontra.",
             "ro": "Un final frumos al turului înainte de a vă întoarce la punctul de plecare.",
-            "en": "A nice end to the tour before heading back to the starting point."
+            "en": "A nice end to the tour before heading back to the starting point.",
+            "es": "Un buen cierre para la ruta antes de volver al punto de partida."
           }
         }
       ],
@@ -755,7 +818,8 @@
         "de": "Schwing dich am Morgen auf den Sattel und starte bei der Plaza de Toros. Radle zum Rathaus und zur Kathedrale. Am Mittag erklimmst du die Anhöhe zur Kirche Santa María Magdalena, bevor du durch die Judería rollst. Der Nachmittag führt dich auf einer kurzen Tour zur verborgenen Mezquita de Tórtoles, ein echtes Highlight. Beende deine Radtour mit einem kulturellen Stopp am Teatro Bellas Artes.",
         "hu": "Reggel szállj nyeregbe, és indulj a Plaza de Toros-tól. Tekerj el a Városházához és a Katedrálishoz. Délben mássz fel a Santa María Magdalena-templomhoz, mielőtt áthaladnál a zsidónegyeden. Délután egy rövid túra vezet a rejtett Mezquita de Tórtoles-hez, ami egy igazi fénypont. Fejezd be a biciklitúrát egy kulturális megállóval a Teatro Bellas Artes-nél.",
         "ro": "Urcați-vă pe bicicletă dimineața și porniți de la Plaza de Toros. Pedalați spre Primărie și Catedrală. La prânz, urcați dealul spre Biserica Santa María Magdalena înainte de a vă plimba prin Judería. După-amiaza vă duce într-un tur scurt la ascunsa Mezquita de Tórtoles, un adevărat punct de atracție. Încheiați turul cu bicicleta cu o oprire culturală la Teatrul Bellas Artes.",
-        "en": "Get on your bike in the morning and start from the Plaza de Toros. Cycle to the Town Hall and the Cathedral. At noon, climb the hill to the Church of Santa María Magdalena before rolling through the Judería. The afternoon takes you on a short tour to the hidden Mosque of Tórtoles, a real highlight. End your bike tour with a cultural stop at the Teatro Bellas Artes."
+        "en": "Get on your bike in the morning and start from the Plaza de Toros. Cycle to the Town Hall and the Cathedral. At noon, climb the hill to the Church of Santa María Magdalena before rolling through the Judería. The afternoon takes you on a short tour to the hidden Mosque of Tórtoles, a real highlight. End your bike tour with a cultural stop at the Teatro Bellas Artes.",
+        "es": "Súbete a la bici por la mañana y comienza desde la Plaza de la Antigua Plaza de Toros. Pedalea hasta el Ayuntamiento y la Catedral. A mediodía, sube la colina hasta la Iglesia de Santa María Magdalena antes de recorrer la Judería. La tarde te lleva en un breve paseo hasta la escondida Mezquita de Tórtoles, un verdadero punto culminante. Termina tu ruta en bici con una parada cultural en el Teatro Bellas Artes."
       },
       "gastro_picks": {
         "de": [
@@ -951,6 +1015,12 @@
           "A helmet is highly recommended, especially on the descents.",
           "The alleys of the Judería are very narrow, you may have to dismount here.",
           "Plan a longer lunch break to refuel."
+        ],
+        "es": [
+          "Revisa la presión de las cubiertas y los frenos antes de salir.",
+          "Se recomienda casco, especialmente en los descensos.",
+          "Los callejones de la Judería son muy estrechos; puede que tengas que desmontar aquí.",
+          "Planea una comida larga para recuperar fuerzas."
         ]
       },
       "variants": {
@@ -959,7 +1029,8 @@
             "de": "Starten Sie vorsichtig und meiden Sie bei Regen steile Anstiege. Mittags bietet die Kathedrale einen sicheren Unterstand für Radfahrer. Nachmittags erkunden Sie die flacheren Außenbezirke oder Tórtoles. Den Abend lassen Sie ruhig ausklingen, während Sie Ihr Equipment an einem trockenen Ort verstauen.",
             "hu": "Kezdje óvatosan, kerülve a meredek emelkedőket esőben. Délben a katedrális biztonságos menedéket nyújt a bringásoknak. Délután fedezze fel a laposabb külső részeket vagy Tórtolest. Az estét töltse pihenéssel, miközben felszerelését száraz helyre teszi.",
             "ro": "Începeți cu prudență, evitând pantele abrupte pe ploaie. La prânz, catedrala oferă un adăpost sigur pentru bicicliști. După-amiaza, explorați zonele plate sau Tórtoles. Încheiați seara relaxându-vă, după ce ați pus echipamentul la uscat.",
-            "en": "Start cautiously, avoiding the steepest climbs in the rain. At noon, the cathedral offers a safe haven for cyclists. In the afternoon, explore the flatter outer areas or visit Tórtoles. End the evening quietly while stowing your equipment in a dry place."
+            "en": "Start cautiously, avoiding the steepest climbs in the rain. At noon, the cathedral offers a safe haven for cyclists. In the afternoon, explore the flatter outer areas or visit Tórtoles. End the evening quietly while stowing your equipment in a dry place.",
+            "es": "Comienza con cautela, evitando las cuestas más empinadas cuando llueve. A mediodía, la catedral ofrece refugio seguro para los ciclistas. Por la tarde, explora las zonas exteriores más llanas o visita Tórtoles. Termina la jornada guardando tu equipo en un lugar seco."
           },
           "stops": [
             {
@@ -968,7 +1039,8 @@
                 "de": "Vorsicht beim Befahren des historischen Pflasters.",
                 "hu": "Vigyázzon a történelmi macskaköveken való haladáskor.",
                 "ro": "Atenție la deplasarea pe pavajul istoric.",
-                "en": "Be careful when riding on the historical pavement."
+                "en": "Be careful when riding on the historical pavement.",
+                "es": "Ten cuidado al circular por el pavimento histórico."
               }
             },
             {
@@ -977,7 +1049,8 @@
                 "de": "Kurzer Stopp unter den Bögen gegenüber vom Rathaus.",
                 "hu": "Rövid megálló a városházával szemközti boltívek alatt.",
                 "ro": "Oprire scurtă sub arcadele de vizavi de primărie.",
-                "en": "Short stop under the arches across from the Town Hall."
+                "en": "Short stop under the arches across from the Town Hall.",
+                "es": "Parada corta bajo los arcos frente al Ayuntamiento."
               }
             },
             {
@@ -986,7 +1059,8 @@
                 "de": "Überdachte Fahrradständer befinden sich oft in der Nähe.",
                 "hu": "Fedett kerékpártárolók gyakran találhatók a közelben.",
                 "ro": "Rasteluri de biciclete acoperite sunt adesea în apropiere.",
-                "en": "Covered bike racks are often located nearby."
+                "en": "Covered bike racks are often located nearby.",
+                "es": "A menudo hay aparcabicis cubiertos cerca."
               }
             },
             {
@@ -995,7 +1069,8 @@
                 "de": "Der Anstieg hierher ist bei Nässe besonders fordernd.",
                 "hu": "Az ide vezető emelkedő esőben különösen nehéz.",
                 "ro": "Urcarea până aici este solicitantă pe ploaie.",
-                "en": "The climb up here is particularly demanding in the wet."
+                "en": "The climb up here is particularly demanding in the wet.",
+                "es": "La subida aquí es especialmente exigente con suelo mojado."
               }
             },
             {
@@ -1004,7 +1079,8 @@
                 "de": "Schieben Sie das Rad in den engsten, rutschigen Gassen.",
                 "hu": "Tolja a kerékpárt a legszűkebb, csúszós utcákban.",
                 "ro": "Împingeți bicicleta pe străzile înguste și alunecoase.",
-                "en": "Push your bike in the narrowest, slippery alleys."
+                "en": "Push your bike in the narrowest, slippery alleys.",
+                "es": "Empuja la bici en los callejones más estrechos y resbaladizos."
               }
             },
             {
@@ -1013,7 +1089,8 @@
                 "de": "Die Fahrt aus der Stadt bietet wenig Regenschutz.",
                 "hu": "A városon kívüli szakasz kevés esővédelmet nyújt.",
                 "ro": "Drumul în afara orașului oferă puțin adăpost.",
-                "en": "The ride outside the city offers little rain protection."
+                "en": "The ride outside the city offers little rain protection.",
+                "es": "El trayecto fuera de la ciudad ofrece poca protección contra la lluvia."
               }
             },
             {
@@ -1022,7 +1099,8 @@
                 "de": "Nutzen Sie den Vorplatz für einen trockenen Check.",
                 "hu": "Használja az előteret egy utolsó ellenőrzésre szárazon.",
                 "ro": "Folosiți spațiul din față pentru o verificare la uscat.",
-                "en": "Use the front area for a final dry check of your gear."
+                "en": "Use the front area for a final dry check of your gear.",
+                "es": "Utiliza la zona delantera para una última comprobación en seco de tu equipo."
               }
             }
           ],
@@ -1050,6 +1128,12 @@
               "Avoid painted road markings as they are extremely slippery.",
               "Waterproof panniers will protect your valuables.",
               "Mudguards prevent mud splashes on your clothes."
+            ],
+            "es": [
+              "Los frenos de disco son fundamentales en esta ciudad con cuestas cuando llueve.",
+              "Evita las marcas viales pintadas; son extremadamente resbaladizas.",
+              "Las alforjas impermeables protegerán tus objetos de valor.",
+              "Los guardabarros evitan salpicaduras de barro en la ropa."
             ]
           }
         },
@@ -1058,7 +1142,8 @@
             "de": "Beginnen Sie Ihre Wintertour, wenn der Frost gewichen ist. Mittags lädt die Kathedrale zu einer Pause im Windschatten ein. Nachmittags genießen Sie die Sicht vom Magdalena-Viertel auf die Pyrenäenausläufer. Beenden Sie die Fahrt vor Einbruch der Dämmerung, wenn die Temperaturen schnell sinken.",
             "hu": "Kezdje a téli túrát, amikor a fagy már felszállt az utakról. Délben a katedrális szélvédett környezete hívogat pihenőre. Délután élvezze a kilátást a Magdalena-negyedből a Pireneusok felé. Fejezze be a bringázást sötétedés előtt, mert a levegő gyorsan hűl.",
             "ro": "Începeți tura de iarnă după ce înghețul a dispărut. La prânz, zona protejată a catedralei este ideală pentru un popas. După-amiaza, bucurați-vă de panorama din cartierul Magdalena. Încheiați traseul înainte de apus, când temperaturile scad rapid.",
-            "en": "Start your winter tour once the frost has cleared. At noon, the sheltered area near the cathedral invites a peaceful break. In the afternoon, enjoy the views from the Magdalena district towards the Pyrenees. Finish your ride before dusk as temperatures drop quickly."
+            "en": "Start your winter tour once the frost has cleared. At noon, the sheltered area near the cathedral invites a peaceful break. In the afternoon, enjoy the views from the Magdalena district towards the Pyrenees. Finish your ride before dusk as temperatures drop quickly.",
+            "es": "Inicia tu ruta invernal cuando haya pasado la helada. A mediodía, la zona resguardada junto a la catedral invita a una pausa tranquila. Por la tarde, disfruta de las vistas desde el barrio de Magdalena hacia los Pirineos. Termina antes del anochecer, ya que las temperaturas bajan rápido."
           },
           "stops": [
             {
@@ -1067,7 +1152,8 @@
                 "de": "In den schattigen Ecken kann es morgens noch glatt sein.",
                 "hu": "Az árnyékos sarkokban reggel még csúszós lehet az út.",
                 "ro": "În colțurile umbrite poate fi încă ghețuș dimineața.",
-                "en": "Shady corners may still be slippery in the morning."
+                "en": "Shady corners may still be slippery in the morning.",
+                "es": "Las esquinas sombrías pueden seguir resbaladizas por la mañana."
               }
             },
             {
@@ -1076,7 +1162,8 @@
                 "de": "Sonniger Platz, ideal um die Hände aufzuwärmen.",
                 "hu": "Napsütötte tér, ideális a hideg kezek felmelegítésére.",
                 "ro": "Piață însorită, ideală pentru a vă încălzi mâinile.",
-                "en": "Sunny square, ideal for warming up cold hands."
+                "en": "Sunny square, ideal for warming up cold hands.",
+                "es": "Plaza soleada, ideal para entrar en calor las manos frías."
               }
             },
             {
@@ -1085,7 +1172,8 @@
                 "de": "Windgeschützter Bereich, gut für eine kurze Rast.",
                 "hu": "Szélvédett terület, alkalmas egy rövid pihenőre.",
                 "ro": "Zonă ferită de vânt, bună pentru un scurt popas.",
-                "en": "Wind-sheltered area, good for a short rest."
+                "en": "Wind-sheltered area, good for a short rest.",
+                "es": "Zona resguardada del viento, buena para un breve descanso."
               }
             },
             {
@@ -1094,7 +1182,8 @@
                 "de": "Der Anstieg hält den Körper auf Betriebstemperatur.",
                 "hu": "Az emelkedő segít üzemi hőmérsékleten tartani a testet.",
                 "ro": "Urcarea ajută la menținerea temperaturii corpului.",
-                "en": "The climb helps keep your body at operating temperature."
+                "en": "The climb helps keep your body at operating temperature.",
+                "es": "La subida ayuda a mantener el cuerpo en temperatura de funcionamiento."
               }
             },
             {
@@ -1103,7 +1192,8 @@
                 "de": "Die Mauern speichern ein wenig Restwärme der Sonne.",
                 "hu": "A falak tárolnak valamennyit a nap melegéből.",
                 "ro": "Zidurile rețin puțină căldură de la soare.",
-                "en": "The walls retain a bit of residual warmth from the sun."
+                "en": "The walls retain a bit of residual warmth from the sun.",
+                "es": "Los muros conservan algo del calor residual del sol."
               }
             },
             {
@@ -1112,7 +1202,8 @@
                 "de": "Achten Sie auf kalten Fahrtwind auf der Landstraße.",
                 "hu": "Figyeljen a hideg menetszélre az országúton.",
                 "ro": "Atenție la vântul rece de pe drumul deschis.",
-                "en": "Watch out for cold wind chill on the open road."
+                "en": "Watch out for cold wind chill on the open road.",
+                "es": "Cuidado con la sensación térmica por el viento en la carretera abierta."
               }
             },
             {
@@ -1121,7 +1212,8 @@
                 "de": "Zielpunkt für ein warmes Getränk nach der Tour.",
                 "hu": "Végállomás egy meleg italra a túra után.",
                 "ro": "Punct final pentru o băutură caldă după tură.",
-                "en": "Final destination for a warm drink after the tour."
+                "en": "Final destination for a warm drink after the tour.",
+                "es": "Destino final para una bebida caliente después de la ruta."
               }
             }
           ],
@@ -1149,6 +1241,12 @@
               "Drink enough fluids, even if you feel less thirsty in the cold.",
               "Check tire pressure as it drops in low temperatures.",
               "A bright headlight is advisable due to the early dusk."
+            ],
+            "es": [
+              "Guantes térmicos son esenciales para los descensos en Tarazona.",
+              "Bebe suficientes líquidos, aunque tengas menos sed con el frío.",
+              "Revisa la presión de las ruedas, ya que cae en bajas temperaturas.",
+              "Se aconseja un faro delantero potente por el anochecer temprano."
             ]
           }
         }
@@ -1167,7 +1265,8 @@
             "de": "Parkplatz am Rande der Altstadt",
             "hu": "Parkoló az óváros szélén",
             "ro": "Parcare la marginea orașului vechi",
-            "en": "Parking at the edge of the old town"
+            "en": "Parking at the edge of the old town",
+            "es": "Aparcamiento en el borde del casco antiguo"
           },
           "coords": [
             -1.725,
@@ -1183,7 +1282,8 @@
             "de": "Parke hier, um das erste Cluster zu Fuß zu erkunden.",
             "hu": "Parkolj le itt, hogy gyalog fedezd fel az első látnivaló-csoportot.",
             "ro": "Parcați aici pentru a explora primul grup de atracții pe jos.",
-            "en": "Park here to explore the first cluster of sights on foot."
+            "en": "Park here to explore the first cluster of sights on foot.",
+            "es": "Aparca aquí para explorar a pie el primer conjunto de lugares."
           }
         },
         {
@@ -1191,7 +1291,8 @@
             "de": "Plaza de Toros Vieja & Rathaus",
             "hu": "Régi bikaviadal-aréna és Városháza",
             "ro": "Piața veche de tauri & Primăria",
-            "en": "Old Bullring Square & Town Hall"
+            "en": "Old Bullring Square & Town Hall",
+            "es": "Plaza de la Antigua Plaza de Toros y Casa Consistorial"
           },
           "coords": [
             -1.7272,
@@ -1207,7 +1308,8 @@
             "de": "Ein Spaziergang verbindet diese beiden einzigartigen Plätze.",
             "hu": "Egy séta köti össze ezt a két egyedülálló helyet.",
             "ro": "O plimbare leagă aceste două locuri unice.",
-            "en": "A short walk connects these two unique places."
+            "en": "A short walk connects these two unique places.",
+            "es": "Una corta caminata conecta estos dos lugares singulares."
           }
         },
         {
@@ -1215,7 +1317,8 @@
             "de": "Jüdisches Viertel (Judería)",
             "hu": "Zsidónegyed (Judería)",
             "ro": "Cartierul Evreiesc (Judería)",
-            "en": "Jewish Quarter (Judería)"
+            "en": "Jewish Quarter (Judería)",
+            "es": "Barrio Judío (Judería)"
           },
           "coords": [
             -1.7295,
@@ -1231,7 +1334,8 @@
             "de": "Der perfekte Ort, um sich zu verlieren, bevor man zur Kathedrale weitergeht.",
             "hu": "Tökéletes hely, hogy elvessz, mielőtt továbbmész a katedrálishoz.",
             "ro": "Locul perfect pentru a vă pierde înainte de a continua spre catedrală.",
-            "en": "The perfect place to get lost before continuing to the cathedral."
+            "en": "The perfect place to get lost before continuing to the cathedral.",
+            "es": "El lugar perfecto para perderse antes de continuar hacia la catedral."
           }
         },
         {
@@ -1239,7 +1343,8 @@
             "de": "Kathedrale und Bischofspalast",
             "hu": "Katedrális és Püspöki Palota",
             "ro": "Catedrala și Palatul Episcopal",
-            "en": "Cathedral and Episcopal Palace"
+            "en": "Cathedral and Episcopal Palace",
+            "es": "Catedral y Palacio Episcopal"
           },
           "coords": [
             -1.7278,
@@ -1255,7 +1360,8 @@
             "de": "Nimm dir Zeit für beide Monumente, sie liegen direkt nebeneinander.",
             "hu": "Szánj időt mindkét műemlékre, közvetlenül egymás mellett fekszenek.",
             "ro": "Acordați-vă timp pentru ambele monumente, sunt chiar unul lângă altul.",
-            "en": "Take your time for both monuments, they are right next to each other."
+            "en": "Take your time for both monuments, they are right next to each other.",
+            "es": "Tómate tu tiempo para ambos monumentos, están justo uno al lado del otro."
           }
         },
         {
@@ -1263,7 +1369,8 @@
             "de": "Mezquita de Tórtoles",
             "hu": "Tórtoles-i mecset",
             "ro": "Moscheea din Tórtoles",
-            "en": "Mosque of Tórtoles"
+            "en": "Mosque of Tórtoles",
+            "es": "Mezquita de Tórtoles"
           },
           "coords": [
             -1.7,
@@ -1279,7 +1386,8 @@
             "de": "Eine kurze Fahrt zu einem friedlichen Ort außerhalb des Zentrums.",
             "hu": "Egy rövid autóút egy békés helyre a központon kívül.",
             "ro": "O scurtă călătorie cu mașina spre un loc liniștit în afara centrului.",
-            "en": "A short drive to a peaceful place outside the center."
+            "en": "A short drive to a peaceful place outside the center.",
+            "es": "Un corto trayecto en coche hasta un lugar tranquilo fuera del centro."
           }
         },
         {
@@ -1287,7 +1395,8 @@
             "de": "Kirche Santa María Magdalena & Aussicht",
             "hu": "Szt. Mária Magdolna templom és kilátás",
             "ro": "Biserica Santa María Magdalena & Punct de belvedere",
-            "en": "Church of Santa María Magdalena & Viewpoint"
+            "en": "Church of Santa María Magdalena & Viewpoint",
+            "es": "Iglesia de Santa María Magdalena y Mirador"
           },
           "coords": [
             -1.731,
@@ -1303,7 +1412,8 @@
             "de": "Fahre hoch zum ältesten Teil der Stadt und genieße die Aussicht.",
             "hu": "Vezess fel a város legrégebbi részébe, és élvezd a kilátást.",
             "ro": "Conduceți până în cea mai veche parte a orașului și bucurați-vă de priveliște.",
-            "en": "Drive up to the oldest part of the city and enjoy the view."
+            "en": "Drive up to the oldest part of the city and enjoy the view.",
+            "es": "Sube en coche a la parte más antigua de la ciudad y disfruta de las vistas."
           }
         }
       ],
@@ -1311,7 +1421,8 @@
         "de": "Parke dein Auto am Morgen und erkunde das historische Herz von Tarazona zu Fuß, von der Plaza de Toros bis zur Kathedrale. Am Mittag holst du das Auto für einen Ausflug zur abgelegenen Mezquita de Tórtoles. Der Nachmittag bringt dich in den oberen Teil der Stadt zur Kirche Santa María Magdalena, wo du eine fantastische Aussicht als Belohnung für den Tag erhältst. Ein perfekter Mix aus Fahren und Entdecken.",
         "hu": "Reggel parkolj le, és fedezd fel gyalog Tarazona történelmi szívét, a Plaza de Torostól a Katedrálisig. Délben vedd elő az autót egy kiránduláshoz a távoli Mezquita de Tórtoles-hez. A délután a város felső részébe visz a Santa María Magdalena-templomhoz, ahol fantasztikus kilátás a jutalom a napért. A vezetés és a felfedezés tökéletes keveréke.",
         "ro": "Parcați mașina dimineața și explorați pe jos inima istorică a Tarazonei, de la Plaza de Toros la Catedrală. La prânz, luați mașina pentru o excursie la îndepărtata Mezquita de Tórtoles. După-amiaza vă duce în partea superioară a orașului, la Biserica Santa María Magdalena, unde veți avea parte de o priveliște fantastică ca recompensă pentru această zi. Un amestec perfect de condus și explorare.",
-        "en": "Park your car in the morning and explore the historic heart of Tarazona on foot, from the Plaza de Toros to the Cathedral. At noon, pick up the car for a trip to the remote Mosque of Tórtoles. The afternoon takes you to the upper part of the city to the Church of Santa María Magdalena, where you get a fantastic view as a reward for the day. A perfect mix of driving and discovering."
+        "en": "Park your car in the morning and explore the historic heart of Tarazona on foot, from the Plaza de Toros to the Cathedral. At noon, pick up the car for a trip to the remote Mosque of Tórtoles. The afternoon takes you to the upper part of the city to the Church of Santa María Magdalena, where you get a fantastic view as a reward for the day. A perfect mix of driving and discovering.",
+        "es": "Aparca por la mañana y explora el corazón histórico de Tarazona a pie, desde la Plaza de Toros hasta la Catedral. Al mediodía, recoge el coche para ir a la remota Mezquita de Tórtoles. Por la tarde, sube a la parte alta de la ciudad hasta la Iglesia de Santa María Magdalena, donde obtendrás una vista fabulosa como recompensa por el día. Una mezcla perfecta de conducir y descubrir."
       },
       "gastro_picks": {
         "de": [
@@ -1507,6 +1618,12 @@
           "A small car is an advantage in the narrow streets.",
           "Use the car to also visit the nearby Moncayo Nature Reserve.",
           "Download an offline map, as mobile reception can be poor in rural areas."
+        ],
+        "es": [
+          "Ten en cuenta las zonas de prohibido aparcar en el casco antiguo.",
+          "Un coche pequeño es una ventaja en las calles estrechas.",
+          "Usa el coche también para visitar la cercana Reserva Natural del Moncayo.",
+          "Descarga un mapa sin conexión, ya que la señal móvil puede ser mala en zonas rurales."
         ]
       },
       "variants": {
@@ -1515,7 +1632,8 @@
             "de": "Nutzen Sie den Parkplatz am Stadtrand für Ihre Erkundung. Mittags verbinden Sie Kathedrale und Bischofspalast, um im Trockenen zu bleiben. Nachmittags fahren Sie zur etwas außerhalb gelegenen Moschee von Tórtoles. Den Abend genießen Sie in der Altstadt, bevor Sie trocken zum Fahrzeug zurückkehren.",
             "hu": "Használja a város széli parkolót a felfedezéshez. Délben kösse össze a katedrális és a palota látogatását, hogy fedett helyen maradjon. Délután autózzon ki a tórtolesi mecsethez. Az estét töltse az óvárosban, mielőtt szárazon visszatérne az autóhoz.",
             "ro": "Folosiți parcarea de la marginea orașului. La prânz, vizitați Catedrala și Palatul Episcopal pentru a rămâne la adăpost. După-amiaza, conduceți până la moscheea din Tórtoles. Bucurați-vă de seară în orașul vechi, apoi reveniți la mașină.",
-            "en": "Use the parking at the edge of town for your exploration. At noon, combine visits to the Cathedral and Palace to stay dry. In the afternoon, drive to the Mosque of Tórtoles. Enjoy the evening in the old town before returning dry to your vehicle."
+            "en": "Use the parking at the edge of town for your exploration. At noon, combine visits to the Cathedral and Palace to stay dry. In the afternoon, drive to the Mosque of Tórtoles. Enjoy the evening in the old town before returning dry to your vehicle.",
+            "es": "Utiliza el aparcamiento en el borde de la ciudad para tu exploración. Al mediodía, combina las visitas a la Catedral y al Palacio para mantenerte seco. Por la tarde, conduce hasta la Mezquita de Tórtoles. Disfruta de la tarde en el casco antiguo antes de volver seco a tu vehículo."
           },
           "stops": [
             {
@@ -1524,7 +1642,8 @@
                 "de": "Suchen Sie einen Platz nahe dem Fußweg ins Zentrum.",
                 "hu": "Keressen helyet a központba vezető gyalogút közelében.",
                 "ro": "Căutați un loc aproape de calea spre centru.",
-                "en": "Find a spot near the path to the center."
+                "en": "Find a spot near the path to the center.",
+                "es": "Busca un sitio cerca del camino hacia el centro."
               }
             },
             {
@@ -1533,7 +1652,8 @@
                 "de": "Parken Sie kurz für Fotos, dann weiter zum Parkhaus.",
                 "hu": "Parkoljon le rövid időre fotózni, majd menjen tovább.",
                 "ro": "Parcați scurt pentru poze, apoi mergeți mai departe.",
-                "en": "Park briefly for photos, then continue to parking."
+                "en": "Park briefly for photos, then continue to parking.",
+                "es": "Aparca brevemente para fotos y luego continúa hasta el aparcamiento."
               }
             },
             {
@@ -1542,7 +1662,8 @@
                 "de": "Das Befahren der engsten Gassen ist bei Regen schwierig.",
                 "hu": "A legszűkebb utcákban való vezetés esőben nehézkes.",
                 "ro": "Condusul pe străzile înguste este dificil pe ploaie.",
-                "en": "Driving through the narrowest streets is difficult in the rain."
+                "en": "Driving through the narrowest streets is difficult in the rain.",
+                "es": "Conducir por las calles más estrechas es difícil con lluvia."
               }
             },
             {
@@ -1551,7 +1672,8 @@
                 "de": "Große Parkplätze direkt vor dem Eingang der Kathedrale.",
                 "hu": "Tágas parkolók találhatók közvetlenül a katedrális előtt.",
                 "ro": "Parcări mari disponibile direct în fața catedralei.",
-                "en": "Large parking areas available directly in front of the cathedral."
+                "en": "Large parking areas available directly in front of the cathedral.",
+                "es": "Grandes zonas de aparcamiento disponibles justo delante de la catedral."
               }
             },
             {
@@ -1560,7 +1682,8 @@
                 "de": "Die Zufahrt über Landstraßen ist bei Regen gut ausgebaut.",
                 "hu": "Az országúti megközelítés esőben is biztonságos.",
                 "ro": "Accesul pe drumuri este bun chiar și pe ploaie.",
-                "en": "Access via country roads is well-maintained even in rain."
+                "en": "Access via country roads is well-maintained even in rain.",
+                "es": "El acceso por carreteras rurales está bien mantenido incluso con lluvia."
               }
             },
             {
@@ -1569,7 +1692,8 @@
                 "de": "Vorsicht bei der Parkplatzsuche in den steilen Gassen.",
                 "hu": "Vigyázzon a parkolóhely-kereséssel a meredek utcákban.",
                 "ro": "Atenție la căutarea unui loc de parcare pe străzile abrupte.",
-                "en": "Be careful when looking for parking in the steep alleys."
+                "en": "Be careful when looking for parking in the steep alleys.",
+                "es": "Ten cuidado al buscar aparcamiento en los callejones empinados."
               }
             }
           ],
@@ -1597,6 +1721,12 @@
               "Keep an umbrella in the car for the walk from the parking lot.",
               "Some streets are very narrow for larger vehicles.",
               "Use the parking garage at the Town Hall for convenience."
+            ],
+            "es": [
+              "Revisa los limpiaparabrisas antes de comenzar tu viaje.",
+              "Lleva un paraguas en el coche para el paseo desde el aparcamiento.",
+              "Algunas calles son muy estrechas para vehículos grandes.",
+              "Usa el aparcamiento subterráneo junto al Ayuntamiento por comodidad."
             ]
           }
         },
@@ -1605,7 +1735,8 @@
             "de": "Starten Sie Ihre Autotour entspannt am kühlen Vormittag. Mittags genießen Sie die Wärme im Fahrzeug zwischen Kathedrale und Palast. Nachmittags bietet die Fahrt nach Tórtoles Ausblicke auf die winterliche Landschaft des Moncayo. Den Abend lassen Sie in Tarazona ausklingen, bevor Sie die Heizung hochdrehen.",
             "hu": "Kezdje az autós túrát kényelmesen a hűvös délelőttön. Délben élvezze járműve melegét a katedrális és a palota látogatása között. Délután a Tórtoles felé vezető út pazar kilátást nyújt a Moncayo téli tájaira. Az estét töltse Tarazonában a visszautat előtt.",
             "ro": "Începeți turul cu mașina în dimineața răcoroasă. La prânz, bucurați-vă de căldura din mașină între obiective. După-amiaza, drumul spre Tórtoles oferă vederi asupra peisajului hibernal de pe Moncayo. Încheiați seara în Tarazona înainte de plecare.",
-            "en": "Start your car tour relaxed on a cool morning. At noon, enjoy the warmth of your vehicle between visits to the sights. In the afternoon, the drive to Tórtoles offers views of the wintry Moncayo landscape. Spend your evening in Tarazona before heading back."
+            "en": "Start your car tour relaxed on a cool morning. At noon, enjoy the warmth of your vehicle between visits to the sights. In the afternoon, the drive to Tórtoles offers views of the wintry Moncayo landscape. Spend your evening in Tarazona before heading back.",
+            "es": "Comienza tu ruta en coche relajado en una mañana fresca. Al mediodía, disfruta del calor de tu vehículo entre visitas. Por la tarde, el trayecto a Tórtoles ofrece vistas del paisaje invernal del Moncayo. Pasa la noche en Tarazona antes de regresar."
           },
           "stops": [
             {
@@ -1614,7 +1745,8 @@
                 "de": "Morgens kann die Windschutzscheibe leicht vereisen.",
                 "hu": "Reggelente itt könnyen lefagyhat a szélvédő.",
                 "ro": "Dimineața, parbrizul poate fi înghețat aici.",
-                "en": "The windshield may be frosted here in the morning."
+                "en": "The windshield may be frosted here in the morning.",
+                "es": "El parabrisas puede aparecer helado aquí por la mañana."
               }
             },
             {
@@ -1623,7 +1755,8 @@
                 "de": "Kurze Wege zwischen Auto und den Sehenswürdigkeiten.",
                 "hu": "Rövid távolságok az autó és a látnivalók között.",
                 "ro": "Distanțe scurte între mașină și obiective.",
-                "en": "Short distances between the car and the sights."
+                "en": "Short distances between the car and the sights.",
+                "es": "Cortas distancias entre el coche y los lugares de interés."
               }
             },
             {
@@ -1632,7 +1765,8 @@
                 "de": "Parken Sie am Rand und erkunden Sie den Rest zu Fuß.",
                 "hu": "Parkoljon a szélén, és a többit fedezze fel gyalog.",
                 "ro": "Parcați la margine și explorați restul pe jos.",
-                "en": "Park at the edge and explore the rest on foot."
+                "en": "Park at the edge and explore the rest on foot.",
+                "es": "Aparca en el borde y explora el resto a pie."
               }
             },
             {
@@ -1641,7 +1775,8 @@
                 "de": "Sonnige Parkplätze wärmen den Innenraum etwas auf.",
                 "hu": "A napsütötte parkolóhelyek kissé felmelegítik az utasteret.",
                 "ro": "Locurile de parcare însorite încălzesc puțin interiorul.",
-                "en": "Sunny parking spots will warm up the interior slightly."
+                "en": "Sunny parking spots will warm up the interior slightly.",
+                "es": "Las plazas de aparcamiento soleadas calentarán un poco el interior."
               }
             },
             {
@@ -1650,7 +1785,8 @@
                 "de": "Die Heizung ist auf der kurzen Überlandfahrt angenehm.",
                 "hu": "A fűtés kellemes a rövid országúti szakasz alatt.",
                 "ro": "Încălzirea este plăcută pe durata drumului scurt.",
-                "en": "The heating is pleasant during the short drive."
+                "en": "The heating is pleasant during the short drive.",
+                "es": "La calefacción resulta agradable durante el corto trayecto."
               }
             },
             {
@@ -1659,7 +1795,8 @@
                 "de": "In schattigen Gassen kann Glättegefahr bestehen.",
                 "hu": "Az árnyékos utcákban fennállhat a csúszásveszély.",
                 "ro": "În străzile umbrite poate exista pericol de polei.",
-                "en": "There may be a risk of ice in shady streets."
+                "en": "There may be a risk of ice in shady streets.",
+                "es": "Puede existir riesgo de hielo en calles sombreadaS."
               }
             }
           ],
@@ -1687,6 +1824,12 @@
               "A battery check before driving is recommended.",
               "Old town streets are often shady and cold.",
               "Plan your return trip before the late evening frost."
+            ],
+            "es": [
+              "Es recomendable líquido anticongelante para el lavaparabrisas.",
+              "Se recomienda una revisión de la batería antes de conducir.",
+              "Las calles del casco antiguo suelen estar a la sombra y frías.",
+              "Planifica tu regreso antes de las heladas nocturnas."
             ]
           }
         }
@@ -1705,7 +1848,8 @@
             "de": "Zentraler Busbahnhof (Plaza San Francisco)",
             "hu": "Központi buszmegálló (Plaza San Francisco)",
             "ro": "Stație centrală de autobuz (Plaza San Francisco)",
-            "en": "Central Bus Stop (Plaza San Francisco)"
+            "en": "Central Bus Stop (Plaza San Francisco)",
+            "es": "Parada de autobús central (Plaza San Francisco)"
           },
           "coords": [
             -1.726,
@@ -1721,7 +1865,8 @@
             "de": "Beginne hier deine Erkundung des ersten Clusters.",
             "hu": "Kezdd itt az első látnivaló-csoport felfedezését.",
             "ro": "Începeți explorarea primului grup de atracții de aici.",
-            "en": "Start your exploration of the first cluster here."
+            "en": "Start your exploration of the first cluster here.",
+            "es": "Empieza tu exploración del primer conjunto aquí."
           }
         },
         {
@@ -1729,7 +1874,8 @@
             "de": "Rathaus & Bischofspalast",
             "hu": "Városháza és Püspöki Palota",
             "ro": "Primăria & Palatul Episcopal",
-            "en": "Town Hall & Episcopal Palace"
+            "en": "Town Hall & Episcopal Palace",
+            "es": "Ayuntamiento y Palacio Episcopal"
           },
           "coords": [
             -1.7285,
@@ -1745,7 +1891,8 @@
             "de": "Beide sind nur einen Steinwurf von der Bushaltestelle entfernt.",
             "hu": "Mindkettő csak egy kőhajításnyira van a buszmegállótól.",
             "ro": "Ambele sunt la o aruncătură de băț de stația de autobuz.",
-            "en": "Both are just a stone's throw from the bus stop."
+            "en": "Both are just a stone's throw from the bus stop.",
+            "es": "Ambos están a un paso de la parada de autobús."
           }
         },
         {
@@ -1753,7 +1900,8 @@
             "de": "Kathedrale Nuestra Señora de la Huerta",
             "hu": "Nuestra Señora de la Huerta katedrális",
             "ro": "Catedrala Nuestra Señora de la Huerta",
-            "en": "Cathedral of Nuestra Señora de la Huerta"
+            "en": "Cathedral of Nuestra Señora de la Huerta",
+            "es": "Catedral de Nuestra Señora de la Huerta"
           },
           "coords": [
             -1.7255,
@@ -1769,7 +1917,8 @@
             "de": "Der Spaziergang von der Plaza zur Kathedrale ist kurz und angenehm.",
             "hu": "A séta a térről a katedrálishoz rövid és kellemes.",
             "ro": "Plimbarea de la piață la catedrală este scurtă și plăcută.",
-            "en": "The walk from the plaza to the cathedral is short and pleasant."
+            "en": "The walk from the plaza to the cathedral is short and pleasant.",
+            "es": "La caminata desde la plaza hasta la catedral es corta y agradable."
           }
         },
         {
@@ -1777,7 +1926,8 @@
             "de": "Plaza de Toros Vieja",
             "hu": "Régi bikaviadal-aréna",
             "ro": "Piața veche de tauri",
-            "en": "Old Bullring Square"
+            "en": "Old Bullring Square",
+            "es": "Plaza de la Antigua Plaza de Toros"
           },
           "coords": [
             -1.7275,
@@ -1793,7 +1943,8 @@
             "de": "Ein Muss, bevor du den Bus zum nächsten Viertel nimmst.",
             "hu": "Kötelező látnivaló, mielőtt buszra szállnál a következő negyedbe.",
             "ro": "O vizită obligatorie înainte de a lua autobuzul spre următorul cartier.",
-            "en": "A must-see before you take the bus to the next district."
+            "en": "A must-see before you take the bus to the next district.",
+            "es": "Imprescindible antes de tomar el autobús al siguiente distrito."
           }
         },
         {
@@ -1801,7 +1952,8 @@
             "de": "Haltestelle 'Magdalena'",
             "hu": "'Magdalena' buszmegálló",
             "ro": "Stația 'Magdalena'",
-            "en": "Bus Stop 'Magdalena'"
+            "en": "Bus Stop 'Magdalena'",
+            "es": "Parada de autobús 'Magdalena'"
           },
           "coords": [
             -1.7305,
@@ -1817,7 +1969,8 @@
             "de": "Von hier aus erkundest du den oberen Teil der Stadt.",
             "hu": "Innen fedezed fel a város felső részét.",
             "ro": "De aici explorați partea superioară a orașului.",
-            "en": "From here you explore the upper part of the city."
+            "en": "From here you explore the upper part of the city.",
+            "es": "Desde aquí exploras la parte alta de la ciudad."
           }
         },
         {
@@ -1825,7 +1978,8 @@
             "de": "Kirche Santa María Magdalena & Judería",
             "hu": "Szt. Mária Magdolna templom és Zsidónegyed",
             "ro": "Biserica Santa María Magdalena & Judería",
-            "en": "Church of Santa María Magdalena & Judería"
+            "en": "Church of Santa María Magdalena & Judería",
+            "es": "Iglesia de Santa María Magdalena y Judería"
           },
           "coords": [
             -1.7302,
@@ -1841,7 +1995,8 @@
             "de": "Erkunde die Kirche und schlendere dann bergab durch die Gassen der Judería.",
             "hu": "Fedezd fel a templomot, majd sétálj lefelé a Zsidónegyed sikátorain.",
             "ro": "Explorați biserica și apoi plimbați-vă la vale pe aleile din Judería.",
-            "en": "Explore the church and then stroll downhill through the alleys of the Judería."
+            "en": "Explore the church and then stroll downhill through the alleys of the Judería.",
+            "es": "Visita la iglesia y luego pasea cuesta abajo por las callejuelas de la Judería."
           }
         }
       ],
@@ -1849,7 +2004,8 @@
         "de": "Nutze am Morgen den lokalen Bus, um ins Zentrum zu gelangen. Erkunde das Cluster um das Rathaus und die Kathedrale zu Fuß. Nach dem Mittagessen nimmst du den Bus in den oberen Stadtteil. Dort besuchst du die Kirche Santa María Magdalena und lässt dich anschließend durch die engen Gassen des Jüdischen Viertels zurück ins Zentrum treiben. So erlebst du die verschiedenen Höhenlagen der Stadt ganz entspannt.",
         "hu": "Reggel a helyi busszal juss be a központba. Fedezd fel gyalog a Városháza és a Katedrális körüli látnivalókat. Ebéd után menj busszal a felső városrészbe. Ott látogass el a Santa María Magdalena-templomhoz, majd hagyd magad sodródni a Zsidónegyed szűk utcáin vissza a központba. Így pihentetően tapasztalhatod meg a város különböző szintjeit.",
         "ro": "Folosiți autobuzul local dimineața pentru a ajunge în centru. Explorați pe jos grupul de atracții din jurul Primăriei și Catedralei. După prânz, luați autobuzul spre partea superioară a orașului. Acolo, vizitați Biserica Santa María Magdalena și apoi lăsați-vă purtați pe străduțele înguste ale Cartierului Evreiesc înapoi spre centru. Astfel, veți experimenta diferitele niveluri ale orașului într-un mod relaxat.",
-        "en": "Use the local bus in the morning to get to the center. Explore the cluster around the Town Hall and the Cathedral on foot. After lunch, take the bus to the upper part of the city. There, visit the Church of Santa María Magdalena and then let yourself drift through the narrow streets of the Jewish Quarter back to the center. This way, you can experience the different levels of the city in a relaxed manner."
+        "en": "Use the local bus in the morning to get to the center. Explore the cluster around the Town Hall and the Cathedral on foot. After lunch, take the bus to the upper part of the city. There, visit the Church of Santa María Magdalena and then let yourself drift through the narrow streets of the Jewish Quarter back to the center. This way, you can experience the different levels of the city in a relaxed manner.",
+        "es": "Usa el autobús local por la mañana para llegar al centro. Explora a pie el conjunto alrededor del Ayuntamiento y la Catedral. Después de comer, toma el autobús hasta la parte alta de la ciudad. Allí, visita la Iglesia de Santa María Magdalena y deja que las estrechas calles de la Judería te lleven de regreso al centro. Así podrás experimentar los diferentes niveles de la ciudad con tranquilidad."
       },
       "gastro_picks": {
         "de": [
@@ -2045,6 +2201,12 @@
           "Have the schedule handy or use an app to minimize waiting times.",
           "Be prepared to walk some sections, as buses don't go everywhere.",
           "Signal the driver when you want to get off at a stop."
+        ],
+        "es": [
+          "Compra un billete de día si está disponible para ahorrar dinero.",
+          "Ten el horario a mano o usa una app para minimizar tiempos de espera.",
+          "Prepárate para caminar algunos tramos, ya que los autobuses no llegan a todas partes.",
+          "Señala al conductor cuando quieras bajar en una parada."
         ]
       },
       "variants": {
@@ -2053,7 +2215,8 @@
             "de": "Starten Sie an der Bushaltestelle und nutzen Sie die kurzen Wege zu den Arkaden. Mittags bietet die Kathedrale einen trockenen Hafen. Nachmittags erkunden Sie die Sehenswürdigkeiten nahe der Haltestellen. Den Abend verbringen Sie in einem gemütlichen Lokal, bis der Bus Sie zurückbringt.",
             "hu": "Kezdje a buszmegállóban, kihasználva a közeli árkádok védelmét. Délben a katedrális nyújt száraz menedéket. Délután fedezze fel a megállók közelében lévő látnivalókat. Az estét töltse egy hangulatos helyen, amíg a busz vissza nem viszi.",
             "ro": "Începeți la stația de autobuz, folosind arcadele din apropiere. La prânz, catedrala oferă un refugiu uscat. După-amiaza, explorați obiectivele de lângă stații. Petreceți seara într-un local primitor până la plecarea autobuzului.",
-            "en": "Start at the bus stop, utilizing the nearby arcades for cover. At noon, the cathedral provides a dry haven. In the afternoon, explore sights near the stops. Spend your evening in a cozy spot until the bus takes you back."
+            "en": "Start at the bus stop, utilizing the nearby arcades for cover. At noon, the cathedral provides a dry haven. In the afternoon, explore sights near the stops. Spend your evening in a cozy spot until the bus takes you back.",
+            "es": "Comienza en la parada de autobús, aprovechando los pórticos cercanos como refugio. Al mediodía, la catedral ofrece un lugar seco. Por la tarde, explora los monumentos cerca de las paradas. Pasa la noche en un lugar acogedor hasta que el autobús te lleve de vuelta."
           },
           "stops": [
             {
@@ -2062,7 +2225,8 @@
                 "de": "Überdachte Wartebereiche schützen vor dem Regen.",
                 "hu": "Fedett várakozóhelyek védenek az esőtől.",
                 "ro": "Zonele de așteptare acoperite protejează de ploaie.",
-                "en": "Covered waiting areas protect you from the rain."
+                "en": "Covered waiting areas protect you from the rain.",
+                "es": "Las zonas de espera cubiertas te protegen de la lluvia."
               }
             },
             {
@@ -2071,7 +2235,8 @@
                 "de": "Nahegelegene Bushaltestelle verkürzt den Fußweg im Regen.",
                 "hu": "Közeli buszmegálló lerövidíti az esőben való gyaloglást.",
                 "ro": "Stația de autobuz scurtează mersul pe ploaie.",
-                "en": "Nearby bus stop shortens the walk in the rain."
+                "en": "Nearby bus stop shortens the walk in the rain.",
+                "es": "La parada cercana acorta la caminata bajo la lluvia."
               }
             },
             {
@@ -2080,7 +2245,8 @@
                 "de": "Die Kathedrale ist von den Hauptlinien gut erreichbar.",
                 "hu": "A katedrális a főbb vonalakról könnyen megközelíthető.",
                 "ro": "Catedrala este ușor accesibilă de la liniile principale.",
-                "en": "The cathedral is easily accessible from the main lines."
+                "en": "The cathedral is easily accessible from the main lines.",
+                "es": "La catedral es fácilmente accesible desde las líneas principales."
               }
             },
             {
@@ -2089,7 +2255,8 @@
                 "de": "Nutzen Sie den kurzen Sprint von der Haltestelle ins Trockene.",
                 "hu": "Fusson be gyorsan a megállóból a fedett részekre.",
                 "ro": "Mergeți repede de la stație spre zonele acoperite.",
-                "en": "Make a quick dash from the stop to the covered areas."
+                "en": "Make a quick dash from the stop to the covered areas.",
+                "es": "Haz un rápido sprint desde la parada hasta las zonas cubiertas."
               }
             },
             {
@@ -2098,7 +2265,8 @@
                 "de": "Warten Sie unter dem Vordach des nahen Gebäudes.",
                 "hu": "Várjon a közeli épület előtetője alatt.",
                 "ro": "Așteptați sub streașina clădirii din apropiere.",
-                "en": "Wait under the overhang of the nearby building."
+                "en": "Wait under the overhang of the nearby building.",
+                "es": "Espera bajo el alero del edificio cercano."
               }
             },
             {
@@ -2107,7 +2275,8 @@
                 "de": "Der Weg zur Haltestelle kann bei Regen rutschig sein.",
                 "hu": "A megállóhoz vezető út esőben csúszós lehet.",
                 "ro": "Drumul spre stație poate fi alunecos pe ploaie.",
-                "en": "The path to the stop can be slippery in the rain."
+                "en": "The path to the stop can be slippery in the rain.",
+                "es": "El camino hacia la parada puede estar resbaladizo con lluvia."
               }
             }
           ],
@@ -2135,6 +2304,12 @@
               "A small folding umbrella is handy for short distances.",
               "Buses may experience slight delays during heavy rain.",
               "Bus shelters offer limited protection from the wind."
+            ],
+            "es": [
+              "Descarga la app de transporte para actualizaciones en tiempo real.",
+              "Un paraguas plegable pequeño es práctico para distancias cortas.",
+              "Los autobuses pueden experimentar ligeros retrasos con lluvia intensa.",
+              "Las marquesinas ofrecen protección limitada frente al viento."
             ]
           }
         },
@@ -2143,7 +2318,8 @@
             "de": "Beginnen Sie Ihren Tag entspannt mit dem Bus zum Zentrum. Mittags wärmen Sie sich in der Kathedrale auf, bevor Sie den nächsten Bus nehmen. Nachmittags genießen Sie die kurzen Wege zwischen Haltestellen und Sehenswürdigkeiten. Den Abend verbringen Sie in einer beheizten Bar, bis der Bus Sie sicher zurückbringt.",
             "hu": "Kezdje a napot kényelmesen a városközpontba tartó busszal. Délben melegedjen fel a katedrális belső tereiben a következő járatig. Délután használja ki a megállók és a látnivalók közötti rövid távokat. Az estét töltse egy fűtött bárban a busz érkezéséig.",
             "ro": "Începeți ziua relaxat cu autobuzul spre centru. La prânz, încălziți-vă în catedrală până la următorul autobuz. După-amiaza, profitați de distanțele scurte între stații și obiective. Petreceți seara într-un bar încălzit până la plecare.",
-            "en": "Start your day relaxed with a bus ride to the center. At noon, warm up in the cathedral before catching your next bus. In the afternoon, take advantage of the short distances between stops and sights. Spend your evening in a heated bar until the bus returns."
+            "en": "Start your day relaxed with a bus ride to the center. At noon, warm up in the cathedral before catching your next bus. In the afternoon, take advantage of the short distances between stops and sights. Spend your evening in a heated bar until the bus returns.",
+            "es": "Comienza el día relajado con un viaje en autobús al centro. Al mediodía, cálmate en la catedral antes de coger el siguiente autobús. Por la tarde, aprovecha las cortas distancias entre paradas y lugares. Pasa la noche en un bar con calefacción hasta que vuelva el autobús."
           },
           "stops": [
             {
@@ -2152,7 +2328,8 @@
                 "de": "Zentraler Knotenpunkt, ideal für den Start im Winter.",
                 "hu": "Központi csomópont, ideális kiindulópont télen.",
                 "ro": "Nod central, ideal pentru a începe turul iarna.",
-                "en": "Central hub, ideal for starting your tour in winter."
+                "en": "Central hub, ideal for starting your tour in winter.",
+                "es": "Nudo central, ideal para comenzar el recorrido en invierno."
               }
             },
             {
@@ -2161,7 +2338,8 @@
                 "de": "Kurzer Fußweg minimiert die Kältebelastung.",
                 "hu": "A rövid gyalogút minimalizálja a hidegben töltött időt.",
                 "ro": "Mersul pe jos scurt minimizează expunerea la frig.",
-                "en": "The short walk minimizes exposure to the cold."
+                "en": "The short walk minimizes exposure to the cold.",
+                "es": "La corta caminata minimiza la exposición al frío."
               }
             },
             {
@@ -2170,7 +2348,8 @@
                 "de": "Nutzen Sie den Bus für die kühle Strecke zur Kathedrale.",
                 "hu": "Használja a buszt a katedrálishoz vezető hűvös úton.",
                 "ro": "Folosiți autobuzul pentru drumul rece spre catedrală.",
-                "en": "Use the bus for the chilly stretch to the cathedral."
+                "en": "Use the bus for the chilly stretch to the cathedral.",
+                "es": "Usa el autobús para el tramo frío hasta la catedral."
               }
             },
             {
@@ -2179,7 +2358,8 @@
                 "de": "Der Platz liegt im Winter oft im angenehmen Halbschatten.",
                 "hu": "A tér télen gyakran kellemes félárnyékban fekszik.",
                 "ro": "Piața este adesea într-o semiumbră plăcută iarna.",
-                "en": "The square is often in pleasant partial shade in winter."
+                "en": "The square is often in pleasant partial shade in winter.",
+                "es": "La plaza suele estar en agradable sombra parcial en invierno."
               }
             },
             {
@@ -2188,7 +2368,8 @@
                 "de": "Haltestelle direkt am Fuße der Oberstadt.",
                 "hu": "Megálló közvetlenül a felsőváros lábánál.",
                 "ro": "Stație situată chiar la poalele orașului de sus.",
-                "en": "Bus stop located right at the foot of the upper town."
+                "en": "Bus stop located right at the foot of the upper town.",
+                "es": "Parada de autobús situada al pie de la parte alta de la ciudad."
               }
             },
             {
@@ -2197,7 +2378,8 @@
                 "de": "Bussen fahren im Winter zuverlässig nach Fahrplan.",
                 "hu": "A buszok télen is megbízhatóan járnak.",
                 "ro": "Autobuzele circulă fiabil conform orarului.",
-                "en": "Buses run reliably according to the schedule."
+                "en": "Buses run reliably according to the schedule.",
+                "es": "Los autobuses funcionan con fiabilidad según el horario."
               }
             }
           ],
@@ -2225,6 +2407,12 @@
               "Check the winter schedule for any potential changes.",
               "Waiting times at the stops are generally short.",
               "Wear warm shoes as waiting for the bus can be cold."
+            ],
+            "es": [
+              "Los autobuses suelen estar agradablemente calefactados.",
+              "Consulta el horario de invierno por posibles cambios.",
+              "Los tiempos de espera en las paradas son generalmente cortos.",
+              "Lleva calzado cálido, ya que esperar el autobús puede ser frío."
             ]
           }
         }

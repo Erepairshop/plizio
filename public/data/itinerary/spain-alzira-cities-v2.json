@@ -21,7 +21,8 @@
             "de": "Der Kiosk auf dem Hauptplatz",
             "hu": "A Főtér Kioszkja",
             "ro": "Chioșcul din Piața Centrală",
-            "en": "Main Square Kiosk"
+            "en": "Main Square Kiosk",
+            "es": "Quiosco de la Plaza Mayor"
           },
           "coords": [
             -0.436765,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie Ihren Morgen mit der Bewunderung dieses charmanten Kiosks, ein perfekter Ort für einen frühen Kaffee und die authentische lokale Atmosphäre.",
             "hu": "Indítsa a reggelt ennek a bájos főtéri kioszknak a megcsodálásával, amely tökéletes hely egy korai kávéhoz és a helyi atmoszféra befogadásához Alzirában.",
             "ro": "Începeți dimineața admirând acest chioșc fermecător din piața principală, un loc perfect pentru a savura o cafea devreme și a simți atmosfera locală.",
-            "en": "Start your morning admiring this charming main square kiosk, a perfect spot to grab an early coffee and soak in the authentic local atmosphere of Alzira."
+            "en": "Start your morning admiring this charming main square kiosk, a perfect spot to grab an early coffee and soak in the authentic local atmosphere of Alzira.",
+            "es": "Comienza la mañana admirando este encantador quiosco de la plaza mayor, un lugar perfecto para tomar un café temprano y empaparte de la auténtica atmósfera local de Alzira."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Casalicis der Brücke Sant Bernat",
             "hu": "Sant Bernat-híd Casalicis",
             "ro": "Casalicis de pe Podul Sant Bernat",
-            "en": "Casalicis of Sant Bernat Bridge"
+            "en": "Casalicis of Sant Bernat Bridge",
+            "es": "Casalicis del Puente de Sant Bernat"
           },
           "coords": [
             -0.437902,
@@ -59,7 +62,8 @@
             "de": "Bestaunen Sie die gotischen Schreine der Schutzheiligen der Stadt auf dieser Brücke; besuchen Sie sie früh, um dem nahen Verkehr zu entgehen.",
             "hu": "Csodálja meg a város védőszentjeinek szentelt gótikus szentélyeket ezen a történelmi hídon; érkezzen korán, hogy elkerülje a közeli forgalmat.",
             "ro": "Minunați-vă de altarele gotice dedicate sfinților patroni ai orașului; vizitați-le devreme dimineața pentru a evita aglomerația și traficul din zonă.",
-            "en": "Marvel at the gothic shrines dedicated to the city's patron saints on this historic bridge structure; visit early to avoid the bustling traffic nearby."
+            "en": "Marvel at the gothic shrines dedicated to the city's patron saints on this historic bridge structure; visit early to avoid the bustling traffic nearby.",
+            "es": "Maravíllate con los santuarios góticos dedicados a los patrones de la ciudad en esta histórica estructura del puente; visita temprano para evitar el tráfico cercano."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Eingang zum alten Judenviertel",
             "hu": "Az egykori zsidónegyed bejárata",
             "ro": "Intrarea în Vechiul Cartier Evreiesc",
-            "en": "Entrance to the Old Jewish Quarter"
+            "en": "Entrance to the Old Jewish Quarter",
+            "es": "Entrada al Antiguo Barrio Judío"
           },
           "coords": [
             -0.440619,
@@ -82,7 +87,8 @@
             "de": "Treten Sie durch dieses alte Portal in das ehemalige Judenviertel ein und nehmen Sie sich Zeit, die erhaltenen architektonischen Details zu betrachten.",
             "hu": "Lépjen át ezen az ősi portálon, hogy elképzelje a középkori zsidónegyedet, és szánjon egy percet a fennmaradt kőépítészeti részletek megfigyelésére.",
             "ro": "Pășiți prin acest portal antic pentru a vă imagina vechiul cartier evreiesc, observând cu atenție detaliile arhitecturale care au supraviețuit în piatră.",
-            "en": "Step through this ancient portal to imagine medieval Alzira's Jewish quarter, taking a moment to notice the surviving architectural details in the stone."
+            "en": "Step through this ancient portal to imagine medieval Alzira's Jewish quarter, taking a moment to notice the surviving architectural details in the stone.",
+            "es": "Cruza este antiguo portal para imaginar el barrio judío medieval de Alzira, y tómate un momento para observar los detalles arquitectónicos que aún se conservan en la piedra."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Palast von Casassús",
             "hu": "Casassús Palota",
             "ro": "Palatul Casassús",
-            "en": "Palace of Casassús"
+            "en": "Palace of Casassús",
+            "es": "Palacio de Casassús"
           },
           "coords": [
             -0.440584,
@@ -105,7 +112,8 @@
             "de": "Bewundern Sie die markante Fassade dieses Adelspalastes im Zentrum und fotografieren Sie unbedingt die aufwendigen Wappen direkt über dem Haupteingang.",
             "hu": "Csodálja meg ennek a központi nemesi palotának a lenyűgöző homlokzatát, és mindenképpen fotózza le a bejárat felett található kidolgozott címereket.",
             "ro": "Admirați fațada impresionantă a acestui palat nobiliar central, asigurându-vă că fotografiați blazoanele elaborate situate chiar deasupra intrării.",
-            "en": "Admire the striking facade of this noble palace located in the center, making sure to photograph the elaborate coats of arms directly above the entrance."
+            "en": "Admire the striking facade of this noble palace located in the center, making sure to photograph the elaborate coats of arms directly above the entrance.",
+            "es": "Admira la llamativa fachada de este palacio nobiliario situado en el centro; asegúrate de fotografiar los elaborados escudos sobre la entrada."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Stadtmuseum von Alzira",
             "hu": "Alzira Városi Múzeuma",
             "ro": "Muzeul Municipal din Alzira",
-            "en": "Municipal Museum of Alzira"
+            "en": "Municipal Museum of Alzira",
+            "es": "Museo Municipal de Alzira"
           },
           "coords": [
             -0.441911,
@@ -128,7 +137,8 @@
             "de": "Erkunden Sie hier die reichen archäologischen Exponate von Alzira; beginnen Sie im Erdgeschoss, um dem faszinierenden chronologischen Pfad zu folgen.",
             "hu": "Fedezze fel Alzira gazdag régészeti és történelmi kiállításait, a földszinten kezdve, hogy logikusan követhesse a lenyűgöző kronológiai útvonalat.",
             "ro": "Explorați bogatele exponate arheologice și istorice ale orașului, începând de la parter pentru a urmări logic traseul cronologic fascinant de aici.",
-            "en": "Explore the rich archaeological and historical exhibits of Alzira here, starting on the ground floor to logically follow the fascinating chronological path."
+            "en": "Explore the rich archaeological and historical exhibits of Alzira here, starting on the ground floor to logically follow the fascinating chronological path.",
+            "es": "Explora las ricas colecciones arqueológicas e históricas de Alzira aquí, comenzando por la planta baja para seguir lógicamente el fascinante recorrido cronológico."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Fallas-Museum von Alzira",
             "hu": "Alzira Fallas Múzeuma",
             "ro": "Muzeul Fallas din Alzira",
-            "en": "Fallas Museum of Alzira"
+            "en": "Fallas Museum of Alzira",
+            "es": "Museo de las Fallas de Alzira"
           },
           "coords": [
             -0.442873,
@@ -151,7 +162,8 @@
             "de": "Erleben Sie die farbenfrohe Tradition der Fallas in diesem Museum; fragen Sie das Personal nach dem komplexen Entstehungsprozess der riesigen Figuren.",
             "hu": "Tapasztalja meg a Las Fallas színes hagyományát egész évben ebben a múzeumban; kérdezze a személyzetet az óriási figurák bonyolult készítési folyamatáról.",
             "ro": "Experimentați tradiția plină de culoare Las Fallas în acest muzeu; întrebați personalul despre procesul complex de creare a figurinelor uriașe.",
-            "en": "Experience the colorful tradition of Las Fallas year-round in this museum; ask the friendly staff about the complex creation process of the giant figures."
+            "en": "Experience the colorful tradition of Las Fallas year-round in this museum; ask the friendly staff about the complex creation process of the giant figures.",
+            "es": "Vive la colorida tradición de Las Fallas durante todo el año en este museo; pregunta al personal sobre el complejo proceso de creación de las figuras gigantes."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Saudi-Arabien-Park",
             "hu": "Szaúd-Arábia Park",
             "ro": "Parcul Arabia Saudită",
-            "en": "Saudi Arabia Park"
+            "en": "Saudi Arabia Park",
+            "es": "Parque Arabia Saudí"
           },
           "coords": [
             -0.443982,
@@ -174,7 +187,8 @@
             "de": "Entspannen Sie sich im großzügigen Schatten alter Bäume in diesem friedlichen Park, ein perfekter Ort, um sich nach einem langen Tag auszuruhen.",
             "hu": "Pihenjen meg a hatalmas fák árnyékában ebben a békés parkban, amely tökéletes hely a lábak pihentetésére egy egész napos városi séta után.",
             "ro": "Relaxați-vă la umbra generoasă a copacilor bătrâni din acest parc liniștit, un loc perfect pentru a vă odihni picioarele după o zi de plimbare urbană.",
-            "en": "Unwind under the generous shade of mature trees in this peaceful park, a perfect spot to rest your feet and reflect after a full day of urban walking."
+            "en": "Unwind under the generous shade of mature trees in this peaceful park, a perfect spot to rest your feet and reflect after a full day of urban walking.",
+            "es": "Relájate bajo la generosa sombra de los árboles ya maduros en este tranquilo parque, un lugar perfecto para descansar y reflexionar después de un día de paseo urbano."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Morgen: Beginnen Sie am lebhaften Plaça Major, bevor Sie die historischen Casalicis-Schreine und das alte Judenviertel erkunden.\n\nMittag: Entdecken Sie den großen Palau de Casassús und die Geschichte im Stadtmuseum.\n\nNachmittag: Tauchen Sie im speziellen Museum in die pulsierende Welt des berühmten Falles-Festivals ein.\n\nAbend: Beenden Sie den Tag mit einem Spaziergang im Saudi-Arabien-Park.",
         "hu": "Reggel: Kezdje a napot a nyüzsgő Plaça Majoron, mielőtt felfedezné a történelmi Casalicis szentélyeket és a zsidónegyedet.\n\nDélben: Fedezze fel a fenséges Casassús Palotát és a helyi történelmet a Városi Múzeumban.\n\nDélután: Merüljön el a híres Falles fesztivál vibráló világában a dedikált múzeumban.\n\nEste: Zárja a napot egy pihentető sétával a békés Szaúd-Arábia Park árnyékos fái alatt.",
         "ro": "Dimineața: Începeți ziua în animata Plaça Major înainte de a explora altarele istorice Casalicis și vechiul Cartier Evreiesc.\n\nPrânz: Descoperiți grandiosul Palau de Casassús și istoria locală la Muzeul Municipal.\n\nDupă-amiaza: Pătrundeți în lumea vibrantă a faimosului festival Falles la muzeul dedicat.\n\nSeara: Încheiați cu o plimbare relaxantă și liniștită prin frumosul Parc Arabia Saudită.",
-        "en": "Morning: Start your day at the lively Plaça Major before exploring the historic Casalicis shrines and the Jewish Quarter.\n\nMidday: Discover the grand Palau de Casassús and step into local history at the Municipal Museum.\n\nAfternoon: Dive into the vibrant world of the famous Falles festival at the dedicated museum.\n\nEvening: Conclude with a relaxing stroll through the Saudi Arabia Park."
+        "en": "Morning: Start your day at the lively Plaça Major before exploring the historic Casalicis shrines and the Jewish Quarter.\n\nMidday: Discover the grand Palau de Casassús and step into local history at the Municipal Museum.\n\nAfternoon: Dive into the vibrant world of the famous Falles festival at the dedicated museum.\n\nEvening: Conclude with a relaxing stroll through the Saudi Arabia Park.",
+        "es": "Mañana: Comienza el día en la animada Plaça Major antes de explorar los santuarios Casalicis y el Barrio Judío.\n\nMediodía: Descubre el gran Palau de Casassús y adéntrate en la historia local en el Museo Municipal.\n\nTarde: Sumérgete en el vibrante mundo de las famosas Fallas en el museo dedicado.\n\nNoche: Concluye con un paseo relajante por el Parque Arabia Saudí."
       },
       "variants": {
         "rainy": {
@@ -190,7 +205,8 @@
             "de": "Beginnen Sie den Tag am Kiosk unter dem Vordach. Vormittags bieten die Brückenfiguren und die Gassen des Judenviertels begrenzten Schutz vor dem Regen. Der Nachmittag gehört den Museen der Stadt, die als perfekte trockene Rückzugsorte dienen. Den Abend lassen wir im Park ausklingen, wo die gewaschene Luft nach dem Regen besonders frisch riecht und die Wege schnell trocknen.",
             "hu": "Kezdje a napot a kioszk védelme alatt egy kávéval. Délelőtt a híd szobrai és a zsidónegyed szűk utcái között kalandozunk, esernyővel dacolva az elemekkel. A délutánt a város kiváló múzeumaiban töltjük, amelyek száraz menedéket és gazdag kultúrát kínálnak. Estére a parkba látogatunk, ahol az eső utáni friss illatokat élvezhetjük, mielőtt egy közeli fedett helyre vonulnánk pihenni.",
             "ro": "Începeți ziua la chioșc sub copertină. Dimineața explorăm podul și cartierul evreiesc, folosind umbrela pentru a admira detaliile istorice. După-amiaza este dedicată muzeelor orașului, care oferă un adăpost uscat și o incursiune fascinantă în cultură. Seara se încheie în parc, unde aerul curat de după ploaie este revigorant, iar aleile luminate oferă o atmosferă liniștită.",
-            "en": "Start your day at the kiosk under its protective awning. In the morning, explore the bridge and the Jewish quarter, using an umbrella to navigate the historic streets. Spend the afternoon in the city's museums, which serve as perfect dry havens for culture enthusiasts. End the evening in the park, where the fresh air after the rain is particularly rejuvenating before heading indoors."
+            "en": "Start your day at the kiosk under its protective awning. In the morning, explore the bridge and the Jewish quarter, using an umbrella to navigate the historic streets. Spend the afternoon in the city's museums, which serve as perfect dry havens for culture enthusiasts. End the evening in the park, where the fresh air after the rain is particularly rejuvenating before heading indoors.",
+            "es": "Comienza el día en el quiosco bajo su amplia marquesina. Por la mañana explora el puente y el barrio judío, usando un paraguas para recorrer las calles históricas. Pasa la tarde en los museos de la ciudad, que son un perfecto refugio seco para los aficionados a la cultura. Termina la noche en el parque, donde el aire fresco tras la lluvia resulta especialmente revitalizante antes de volver al interior."
           },
           "stops": [
             {
@@ -198,13 +214,15 @@
                 "de": "Der Kiosk auf dem Hauptplatz",
                 "hu": "A Főtér Kioszkja",
                 "ro": "Chioșcul din Piața Centrală",
-                "en": "Main Square Kiosk"
+                "en": "Main Square Kiosk",
+                "es": "Quiosco de la Plaza Mayor"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das breite Vordach des Kiosks für einen trockenen Start in den Tag; prüfen Sie hier bei einem Kaffee die Regenradar-App für Ihre weitere Route.",
                 "hu": "Használja ki a kioszk széles ereszét a száraz kezdéshez; egy kávé mellett itt érdemes ellenőrizni az esőradart a további útvonal pontos megtervezéséhez.",
                 "ro": "Folosiți copertina largă a chioșcului pentru un început de zi uscat; verificați radarul meteo la o cafea înainte de a porni spre următoarele obiective.",
-                "en": "Utilize the kiosk's wide awning for a dry start to your day; check the rain radar app over a coffee here before planning your next steps through the city."
+                "en": "Utilize the kiosk's wide awning for a dry start to your day; check the rain radar app over a coffee here before planning your next steps through the city.",
+                "es": "Aprovecha la amplia marquesina del quiosco para empezar el día a cubierto; consulta la app del radar de lluvia mientras tomas un café antes de planear los siguientes pasos por la ciudad."
               }
             },
             {
@@ -212,13 +230,15 @@
                 "de": "Casalicis der Brücke Sant Bernat",
                 "hu": "Sant Bernat-híd Casalicis",
                 "ro": "Casalicis de pe Podul Sant Bernat",
-                "en": "Casalicis of Sant Bernat Bridge"
+                "en": "Casalicis of Sant Bernat Bridge",
+                "es": "Casalicis del Puente de Sant Bernat"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Brückenfiguren unter Ihrem Regenschirm; der graue Himmel verleiht den Statuen eine dramatische Optik, aber achten Sie auf rutschige Steine.",
                 "hu": "Csodálja meg a híd szobrait az esernyője alól; a szürke égbolt drámai hátteret ad a fotózáshoz, de vigyázzon a vizes, csúszós kőfelületeken a járáskor.",
                 "ro": "Admirați statuile de pe pod de sub umbrelă; cerul gri oferă un fundal dramatic pentru fotografii, dar aveți grijă la pietrele umede care pot fi alunecoase.",
-                "en": "Admire the bridge statues from under your umbrella; the grey sky provides a dramatic backdrop for photos, but watch your step on the wet and slippery stones."
+                "en": "Admire the bridge statues from under your umbrella; the grey sky provides a dramatic backdrop for photos, but watch your step on the wet and slippery stones.",
+                "es": "Admira las estatuas del puente desde bajo tu paraguas; el cielo gris ofrece un fondo dramático para las fotos, pero vigila el suelo resbaladizo de las piedras."
               }
             },
             {
@@ -226,13 +246,15 @@
                 "de": "Eingang zum alten Judenviertel",
                 "hu": "Az egykori zsidónegyed bejárata",
                 "ro": "Intrarea în Vechiul Cartier Evreiesc",
-                "en": "Entrance to the Old Jewish Quarter"
+                "en": "Entrance to the Old Jewish Quarter",
+                "es": "Entrada al Antiguo Barrio Judío"
               },
               "tip_5lang": {
                 "de": "Die engen Gassen bieten hier guten Schutz vor dem Wind; beobachten Sie, wie der Regen von den historischen Fassaden abläuft und die Farben verstärkt.",
                 "hu": "A szűk utcák jó szélvédelmet nyújtanak; figyelje meg, ahogy az eső lemossa a történelmi homlokzatokat, és elmélyíti az ódon falak patinás színeit.",
                 "ro": "Străzile înguste oferă o protecție bună împotriva vântului; observați cum ploaia spală fațadele istorice și intensifică culorile zidurilor vechi de secole.",
-                "en": "The narrow streets provide good wind protection; watch how the rain washes the historic facades and deepens the colors of the centuries-old walls."
+                "en": "The narrow streets provide good wind protection; watch how the rain washes the historic facades and deepens the colors of the centuries-old walls.",
+                "es": "Las calles estrechas protegen bien del viento; observa cómo la lluvia limpia las fachadas históricas y intensifica los colores de los muros centenarios."
               }
             },
             {
@@ -240,13 +262,15 @@
                 "de": "Palast von Casassús",
                 "hu": "Casassús Palota",
                 "ro": "Palatul Casassús",
-                "en": "Palace of Casassús"
+                "en": "Palace of Casassús",
+                "es": "Palacio de Casassús"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die prächtige Fassade und suchen Sie im Portal kurz Schutz, falls ein Schauer kommt; die Details wirken im weichen Licht besonders klar.",
                 "hu": "Tekintse meg a pompás homlokzatot, és keressen rövid menedéket a kapualjban eső esetén; a részletek a szórt fényben még élesebben rajzolódnak ki.",
                 "ro": "Priviți fațada splendidă și căutați un scurt adăpost în portal dacă plouă torențial; detaliile par și mai clare în lumina difuză a zilei noroase.",
-                "en": "View the splendid facade and seek brief shelter in the portal if a heavy shower starts; the architectural details appear sharper in the diffused light."
+                "en": "View the splendid facade and seek brief shelter in the portal if a heavy shower starts; the architectural details appear sharper in the diffused light.",
+                "es": "Contempla la espléndida fachada y busca refugio breve en el pórtico si comienza un aguacero; los detalles arquitectónicos se ven más nítidos con la luz difusa."
               }
             },
             {
@@ -254,13 +278,15 @@
                 "de": "Stadtmuseum von Alzira",
                 "hu": "Alzira Városi Múzeuma",
                 "ro": "Muzeul Municipal din Alzira",
-                "en": "Municipal Museum of Alzira"
+                "en": "Municipal Museum of Alzira",
+                "es": "Museo Municipal de Alzira"
               },
               "tip_5lang": {
                 "de": "Dies ist der ideale Ort, um dem Regen für längere Zeit zu entfliehen; deponieren Sie Ihren nassen Schirm am Eingang und genießen Sie die Ausstellung.",
                 "hu": "Ez az ideális hely, hogy hosszabb időre elmeneküljön az eső elől; hagyja a vizes ernyőt a bejáratnál, és élvezze a fűtött termek gazdag tárlatát.",
                 "ro": "Acesta este locul ideal pentru a scăpa de ploaie pentru o perioadă mai lungă; lăsați umbrela umedă la intrare și bucurați-vă de expozițiile fascinante.",
-                "en": "This is the ideal place to escape the rain for a longer period; leave your wet umbrella at the entrance and enjoy the rich exhibits in a dry environment."
+                "en": "This is the ideal place to escape the rain for a longer period; leave your wet umbrella at the entrance and enjoy the rich exhibits in a dry environment.",
+                "es": "Este es el lugar ideal para escapar de la lluvia por más tiempo; deja el paraguas húmedo en la entrada y disfruta de las ricas colecciones en un entorno seco."
               }
             },
             {
@@ -268,13 +294,15 @@
                 "de": "Fallas-Museum von Alzira",
                 "hu": "Alzira Fallas Múzeuma",
                 "ro": "Muzeul Fallas din Alzira",
-                "en": "Fallas Museum of Alzira"
+                "en": "Fallas Museum of Alzira",
+                "es": "Museo de las Fallas de Alzira"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die farbenfrohen Figuren in den trockenen Galerien; das Museum ist die beste Option für einen verregneten Nachmittag voller Tradition.",
                 "hu": "Csodálja meg a színes figurákat a száraz galériákban; a múzeum a legjobb választás egy esős délutánra, hogy elmerüljön a helyi népi hagyományokban.",
                 "ro": "Admirați figurinele colorate în galeriile uscate; muzeul este cea mai bună opțiune pentru o după-amiază ploioasă plină de tradiții locale captivante.",
-                "en": "Admire the colorful figures in the dry galleries; the museum is the best option for a rainy afternoon to immerse yourself in vibrant local traditions."
+                "en": "Admire the colorful figures in the dry galleries; the museum is the best option for a rainy afternoon to immerse yourself in vibrant local traditions.",
+                "es": "Admira las coloridas figuras en las salas secas; el museo es la mejor opción para una tarde lluviosa para sumergirte en las vibrantes tradiciones locales."
               }
             },
             {
@@ -282,13 +310,15 @@
                 "de": "Saudi-Arabien-Park",
                 "hu": "Szaúd-Arábia Park",
                 "ro": "Parcul Arabia Saudită",
-                "en": "Saudi Arabia Park"
+                "en": "Saudi Arabia Park",
+                "es": "Parque Arabia Saudí"
               },
               "tip_5lang": {
                 "de": "Die Bäume bieten nur minimalen Schutz, genießen Sie daher den kurzen Spaziergang in wasserfester Kleidung; der Park wirkt bei Regen sehr mystisch.",
                 "hu": "A fák csak minimális védelmet nyújtanak, ezért vízálló ruházatban élvezze a sétát; a park ilyenkor misztikus hangulatot áraszt a párás levegőben.",
                 "ro": "Copacii oferă doar o protecție minimă, așa că bucurați-vă de plimbare în haine impermeabile; parcul are o atmosferă mistică atunci când plouă ușor.",
-                "en": "The trees offer minimal cover, so enjoy your walk in waterproof clothing; the park exudes a mystical atmosphere when shrouded in light rain and mist."
+                "en": "The trees offer minimal cover, so enjoy your walk in waterproof clothing; the park exudes a mystical atmosphere when shrouded in light rain and mist.",
+                "es": "Los árboles ofrecen poca cobertura, así que disfruta del paseo con ropa impermeable; el parque desprende una atmósfera mística cuando está envuelto en lluvia ligera y niebla."
               }
             }
           ]
@@ -298,7 +328,8 @@
             "de": "An einem klaren Wintermorgen starten wir am Kiosk. Vormittags nutzen wir die milden Sonnenstunden für den Besuch der Brücke und des Judenviertels. Der Palast und die Museen bieten mittags angenehme Wärme und Schutz vor dem kühlen Wind. Da die Sonne gegen 17:00 Uhr untergeht, planen wir den Parkbesuch rechtzeitig ein, bevor die Temperaturen spürbar sinken.",
             "hu": "Egy tiszta téli reggelen a kioszknál kezdünk. Délelőtt a híd és a zsidónegyed felkeresésére használjuk ki a napsütéses órákat. A palota és a múzeumok délben kellemes meleget és védelmet nyújtanak a hűvös szél elől. Mivel a nap 17:00 körül nyugszik, a parklátogatást időben tervezzük meg, mielőtt a hőmérséklet jelentősen visszaesik.",
             "ro": "Începeți o dimineață senină de iarnă la chioșc. Folosiți orele însorite pentru a vizita podul și cartierul evreiesc. Palatul și muzeele oferă căldură plăcută la prânz și protecție împotriva vântului rece. Deoarece soarele apune în jur de ora 17:00, planificați vizita în parc din timp, înainte ca temperaturile să scadă brusc.",
-            "en": "Start a crisp winter morning at the kiosk. Use the sunny morning hours to visit the bridge and the Jewish quarter. The palace and museums provide warmth and shelter from the cool breeze at noon. As the sun sets around 17:00, plan your park visit early before the temperatures drop significantly for the evening."
+            "en": "Start a crisp winter morning at the kiosk. Use the sunny morning hours to visit the bridge and the Jewish quarter. The palace and museums provide warmth and shelter from the cool breeze at noon. As the sun sets around 17:00, plan your park visit early before the temperatures drop significantly for the evening.",
+            "es": "Comienza una fresca mañana de invierno en el quiosco. Aprovecha las horas soleadas de la mañana para visitar el puente y el barrio judío. El palacio y los museos ofrecen calor y refugio del fresco viento al mediodía. Al ponerse el sol alrededor de las 17:00, planifica la visita al parque temprano antes de que las temperaturas bajen significativamente por la noche."
           },
           "stops": [
             {
@@ -306,13 +337,15 @@
                 "de": "Der Kiosk auf dem Hauptplatz",
                 "hu": "A Főtér Kioszkja",
                 "ro": "Chioșcul din Piața Centrală",
-                "en": "Main Square Kiosk"
+                "en": "Main Square Kiosk",
+                "es": "Quiosco de la Plaza Mayor"
               },
               "tip_5lang": {
                 "de": "Holen Sie sich ein heißes Getränk zum Aufwärmen der Hände; der Platz ist im Winterlicht besonders ruhig und ideal für erste Urlaubsfotos geeignet.",
                 "hu": "Kérjen egy forró italt, hogy felmelegítse a kezét; a tér a téli fényekben különösen nyugodt, és ideális helyszín az első üdülési fotók elkészítéséhez.",
                 "ro": "Luați o băutură caldă pentru a vă încălzi mâinile; piața este deosebit de liniștită în lumina iernii, fiind ideală pentru primele fotografii de vacanță.",
-                "en": "Get a hot drink to warm your hands; the square is particularly peaceful in the winter light, making it ideal for taking your first holiday photos."
+                "en": "Get a hot drink to warm your hands; the square is particularly peaceful in the winter light, making it ideal for taking your first holiday photos.",
+                "es": "Toma una bebida caliente para calentar las manos; la plaza es especialmente tranquila con la luz invernal, ideal para las primeras fotos del viaje."
               }
             },
             {
@@ -320,13 +353,15 @@
                 "de": "Casalicis der Brücke Sant Bernat",
                 "hu": "Sant Bernat-híd Casalicis",
                 "ro": "Casalicis de pe Podul Sant Bernat",
-                "en": "Casalicis of Sant Bernat Bridge"
+                "en": "Casalicis of Sant Bernat Bridge",
+                "es": "Casalicis del Puente de Sant Bernat"
               },
               "tip_5lang": {
                 "de": "Die tiefstehende Wintersonne beleuchtet die Statuen wunderschön; tragen Sie einen Schal gegen den kühlen Wind, der oft vom Fluss heraufweht.",
                 "hu": "Az alacsonyan járó téli nap csodásan világítja meg a szobrokat; viseljen sálat a hűvös szél ellen, amely gyakran fúj fel a folyó felől ezen a ponton.",
                 "ro": "Soarele de iarnă luminează frumos statuile; purtați un fular împotriva vântului rece care suflă adesea dinspre râu în această zonă a orașului.",
-                "en": "The low winter sun illuminates the statues beautifully; wear a scarf against the cool breeze that often blows up from the river at this spot."
+                "en": "The low winter sun illuminates the statues beautifully; wear a scarf against the cool breeze that often blows up from the river at this spot.",
+                "es": "El bajo sol invernal ilumina las estatuas maravillosamente; ponte una bufanda contra la brisa fresca que suele subir desde el río en este punto."
               }
             },
             {
@@ -334,13 +369,15 @@
                 "de": "Eingang zum alten Judenviertel",
                 "hu": "Az egykori zsidónegyed bejárata",
                 "ro": "Intrarea în Vechiul Cartier Evreiesc",
-                "en": "Entrance to the Old Jewish Quarter"
+                "en": "Entrance to the Old Jewish Quarter",
+                "es": "Entrada al Antiguo Barrio Judío"
               },
               "tip_5lang": {
                 "de": "Die Steine speichern die Kälte, bleiben Sie also in Bewegung; erkunden Sie die Geschichte der Mauern, die im Winter eine fast mystische Stille ausstrahlen.",
                 "hu": "A kövek tárolják a hideget, ezért maradjon mozgásban; fedezze fel a falak történelmét, amelyek télen szinte misztikus csendet árasztanak magukból.",
                 "ro": "Pietrele rețin frigul, așa că rămâneți în mișcare; explorați istoria zidurilor care emană o liniște aproape mistică în timpul lunilor de iarnă.",
-                "en": "The stones retain the cold, so keep moving as you explore; discover the history of the walls, which radiate an almost mystical silence in winter."
+                "en": "The stones retain the cold, so keep moving as you explore; discover the history of the walls, which radiate an almost mystical silence in winter.",
+                "es": "Las piedras retienen el frío, así que sigue en movimiento mientras exploras; descubre la historia de los muros, que irradian un silencio casi místico en invierno."
               }
             },
             {
@@ -348,13 +385,15 @@
                 "de": "Palast von Casassús",
                 "hu": "Casassús Palota",
                 "ro": "Palatul Casassús",
-                "en": "Palace of Casassús"
+                "en": "Palace of Casassús",
+                "es": "Palacio de Casassús"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur in der klaren Winterluft; die Fassade wirkt durch den harten Schattenwurf der tiefen Sonne besonders plastisch und detailreich.",
                 "hu": "Csodálja meg az építészetet a tiszta téli levegőben; a homlokzat az alacsony nap éles árnyékai miatt különösen plasztikusnak és részletgazdagnak tűnik.",
                 "ro": "Admirați arhitectura în aerul curat de iarnă; fațada pare deosebit de detaliată datorită umbrelor pronunțate lăsate de soarele de joasă altitudine.",
-                "en": "Admire the architecture in the crisp winter air; the facade appears particularly detailed due to the sharp shadows cast by the low winter sun."
+                "en": "Admire the architecture in the crisp winter air; the facade appears particularly detailed due to the sharp shadows cast by the low winter sun.",
+                "es": "Admira la arquitectura con el aire invernal nítido; la fachada se ve especialmente detallada por las sombras marcadas del bajo sol invernal."
               }
             },
             {
@@ -362,13 +401,15 @@
                 "de": "Stadtmuseum von Alzira",
                 "hu": "Alzira Városi Múzeuma",
                 "ro": "Muzeul Municipal din Alzira",
-                "en": "Municipal Museum of Alzira"
+                "en": "Municipal Museum of Alzira",
+                "es": "Museo Municipal de Alzira"
               },
               "tip_5lang": {
                 "de": "Ein warmer Zufluchtsort voller archäologischer Schätze; nehmen Sie sich Zeit in den beheizten Räumen, um die Kälte draußen kurz zu vergessen.",
                 "hu": "Meleg menedék, tele régészeti kincsekkel; szánjon időt a fűtött termekre, hogy egy rövid időre elfelejtse a kinti hideget és a metsző szelet.",
                 "ro": "Un refugiu cald, plin de comori arheologice; acordați-vă timp în sălile încălzite pentru a uita pentru o clipă de frigul și vântul de afară.",
-                "en": "A warm sanctuary full of archaeological treasures; take your time in the heated rooms to briefly forget the outside cold and biting wind."
+                "en": "A warm sanctuary full of archaeological treasures; take your time in the heated rooms to briefly forget the outside cold and biting wind.",
+                "es": "Un santuario cálido lleno de tesoros arqueológicos; tómate tu tiempo en las salas calefactadas para olvidar brevemente el frío y el viento cortante del exterior."
               }
             },
             {
@@ -376,13 +417,15 @@
                 "de": "Fallas-Museum von Alzira",
                 "hu": "Alzira Fallas Múzeuma",
                 "ro": "Muzeul Fallas din Alzira",
-                "en": "Fallas Museum of Alzira"
+                "en": "Fallas Museum of Alzira",
+                "es": "Museo de las Fallas de Alzira"
               },
               "tip_5lang": {
                 "de": "Entfliehen Sie der Winterkälte beim Betrachten der bunten Figuren; es ist die beste Indoor-Aktivität für einen gemütlichen Winternachmittag in Alzira.",
                 "hu": "Meneküljön el a téli hideg elől a színes figurák nézegetése közben; ez a legjobb fedett program egy kellemes téli délután eltöltéséhez Alzirában.",
                 "ro": "Evadați de frigul iernii în timp ce priviți figurinele colorate; este cea mai bună activitate de interior pentru o după-amiază plăcută în Alzira.",
-                "en": "Escape the winter cold while viewing the colorful figures; it is the best indoor activity for a pleasant winter afternoon spent in Alzira."
+                "en": "Escape the winter cold while viewing the colorful figures; it is the best indoor activity for a pleasant winter afternoon spent in Alzira.",
+                "es": "Escapa del frío invernal mientras contemplas las coloridas figuras; es la mejor actividad cubierta para una agradable tarde de invierno en Alzira."
               }
             },
             {
@@ -390,13 +433,15 @@
                 "de": "Saudi-Arabien-Park",
                 "hu": "Szaúd-Arábia Park",
                 "ro": "Parcul Arabia Saudită",
-                "en": "Saudi Arabia Park"
+                "en": "Saudi Arabia Park",
+                "es": "Parque Arabia Saudí"
               },
               "tip_5lang": {
                 "de": "Genießen Sie das winterliche Grün vor Sonnenuntergang gegen 17:00 Uhr; bringen Sie eine warme Jacke für den schnellen Temperatursturz am Abend mit.",
                 "hu": "Élvezze a téli zöldet a napnyugta előtt, ami 17:00 körül várható; vigyen meleg kabátot az esti gyors hőmérséklet-visszaesés elleni védekezésül.",
                 "ro": "Bucurați-vă de verdeața iernii înainte de apusul soarelui în jur de ora 17:00; aduceți o jachetă groasă pentru scăderea bruscă a temperaturii de seară.",
-                "en": "Enjoy the winter greenery before sunset around 17:00; bring a warm jacket to prepare for the rapid temperature drop as evening approaches."
+                "en": "Enjoy the winter greenery before sunset around 17:00; bring a warm jacket to prepare for the rapid temperature drop as evening approaches.",
+                "es": "Disfruta del verdor invernal antes del atardecer hacia las 17:00; lleva una chaqueta de abrigo para prepararte ante la rápida bajada de temperatura al acercarse la noche."
               }
             }
           ]
@@ -416,7 +461,8 @@
             "de": "Kreisverkehr der Schutzheiligen",
             "hu": "Védőszentek Körforgalma",
             "ro": "Sensul Giratoriu al Sfinților Patroni",
-            "en": "Patron Saints Roundabout"
+            "en": "Patron Saints Roundabout",
+            "es": "Glorieta de los Santos Patronos"
           },
           "coords": [
             -0.439821,
@@ -431,7 +477,8 @@
             "de": "Umrunden Sie diesen historischen Kreisverkehr mit lokalen Figuren; behalten Sie beim Radfahren auf dieser belebten Kreuzung den Verkehr im Auge.",
             "hu": "Kerülje meg ezt a helyi alakokat bemutató történelmi körforgalmat; kerékpározás közben nagyon figyeljen a környező forgalomra ezen a forgalmas csomóponton.",
             "ro": "Ocoliți acest sens giratoriu istoric care prezintă figuri locale; fiți foarte atenți la traficul din jur în timp ce pedalați prin această intersecție.",
-            "en": "Circle this major historical roundabout showcasing local figures; keep a close eye on the surrounding traffic while cycling around this busy intersection."
+            "en": "Circle this major historical roundabout showcasing local figures; keep a close eye on the surrounding traffic while cycling around this busy intersection.",
+            "es": "Rodea esta gran glorieta histórica que muestra figuras locales; presta mucha atención al tráfico circundante mientras circulas en bicicleta por esta intersección concurrida."
           }
         },
         {
@@ -439,7 +486,8 @@
             "de": "Stadtmuseum von Alzira",
             "hu": "Alzira Városi Múzeuma",
             "ro": "Muzeul Municipal din Alzira",
-            "en": "Municipal Museum of Alzira"
+            "en": "Municipal Museum of Alzira",
+            "es": "Museo Municipal de Alzira"
           },
           "coords": [
             -0.441911,
@@ -454,7 +502,8 @@
             "de": "Schließen Sie Ihr Fahrrad draußen sicher ab und tauchen Sie in die Vergangenheit Alziras ein, wobei Sie sich auf die maurischen Artefakte konzentrieren sollten.",
             "hu": "Zárja le kerékpárját biztonságosan kint, és merüljön el Alzira múltjában, különös figyelmet fordítva a lenyűgöző mór leletekre a kiállításon.",
             "ro": "Asigurați-vă bicicleta afară și pătrundeți în trecutul orașului Alzira, concentrându-vă în special asupra artefactelor maure impresionante expuse.",
-            "en": "Secure your bike safely outside and dive straight into Alzira's past, focusing particularly on the impressive Moorish artifacts permanently on display."
+            "en": "Secure your bike safely outside and dive straight into Alzira's past, focusing particularly on the impressive Moorish artifacts permanently on display.",
+            "es": "Asegura bien tu bicicleta en el exterior y sumérgete directamente en el pasado de Alzira, prestando especial atención a los impresionantes objetos moriscos en exhibición permanente."
           }
         },
         {
@@ -462,7 +511,8 @@
             "de": "Denkmal für Trommel und Pauke",
             "hu": "Dob és Nagydob Emlékmű",
             "ro": "Monumentul Tobelor",
-            "en": "Drum and Bass Drum Monument"
+            "en": "Drum and Bass Drum Monument",
+            "es": "Monumento al Tambor y a la Tambora"
           },
           "coords": [
             -0.446018,
@@ -477,7 +527,8 @@
             "de": "Sehen Sie sich diese markante Hommage an die lokale Ostertrommeltradition an, ein hervorragender und schneller Fotostopp auf Ihrer Radtour.",
             "hu": "Tekintse meg ezt a helyi húsvéti dobolási hagyomány fémes emlékművét, amely egy kiváló és gyors fotómegálló a városon átívelő kerékpáros útvonalon.",
             "ro": "Vedeți acest tribut metalic dedicat tradiției locale a tobelor de Paște, o oprire excelentă și rapidă pentru fotografii pe traseul dumneavoastră.",
-            "en": "See this striking metallic tribute to the local Easter drumming tradition, an excellent and quick photo stop on your cycling route through the city."
+            "en": "See this striking metallic tribute to the local Easter drumming tradition, an excellent and quick photo stop on your cycling route through the city.",
+            "es": "Observa este llamativo homenaje metálico a la tradición local del tambor de Semana Santa; es una excelente y rápida parada para hacer fotos en tu ruta ciclista por la ciudad."
           }
         },
         {
@@ -485,7 +536,8 @@
             "de": "Großes Theater von Alzira",
             "hu": "Alzira Nagy Színháza",
             "ro": "Marele Teatru din Alzira",
-            "en": "Grand Theater of Alzira"
+            "en": "Grand Theater of Alzira",
+            "es": "Gran Teatro de Alzira"
           },
           "coords": [
             -0.439036,
@@ -500,7 +552,8 @@
             "de": "Bewundern Sie das majestätische Äußere dieses kulturellen Zentrums; prüfen Sie den Spielplan im Voraus, wenn Sie eine Abendvorstellung besuchen möchten.",
             "hu": "Csodálja meg ennek a nagyszerű kulturális központnak a fenséges külsejét; ellenőrizze előre a műsort, ha szeretne elcsípni egy esti előadást.",
             "ro": "Apreciați exteriorul majestuos al acestui mare centru cultural; verificați programul în avans online dacă doriți să prindeți un spectacol de seară aici.",
-            "en": "Appreciate the majestic exterior of this grand cultural hub; check the schedule in advance online if you want to catch an entertaining evening show here."
+            "en": "Appreciate the majestic exterior of this grand cultural hub; check the schedule in advance online if you want to catch an entertaining evening show here.",
+            "es": "Aprecia el majestuoso exterior de este gran centro cultural; consulta el programa con antelación en línea si quieres disfrutar de un espectáculo nocturno entretenido."
           }
         },
         {
@@ -508,7 +561,8 @@
             "de": "Kirche der Menschwerdung",
             "hu": "Megtestesülés Temploma",
             "ro": "Biserica Întrupării",
-            "en": "Church of the Incarnation"
+            "en": "Church of the Incarnation",
+            "es": "Iglesia de la Encarnación"
           },
           "coords": [
             -0.439317,
@@ -523,7 +577,8 @@
             "de": "Betreten Sie leise dieses friedliche religiöse Gebäude, um die klassischen Linien zu bewundern; denken Sie daran, Ihren Fahrradhelm vorher abzunehmen.",
             "hu": "Lépjen be csendben ebbe a békés templomba, hogy megcsodálja klasszikus vonalait, és ne felejtse el levenni a kerékpáros sisakot a küszöb átlépése előtt.",
             "ro": "Pășiți în liniște în această clădire religioasă pașnică pentru a-i admira liniile clasice, amintindu-vă să vă scoateți casca de ciclism la intrare.",
-            "en": "Step quietly inside this peaceful religious building to admire its classic lines, remembering to take off your cycling helmet before crossing the threshold."
+            "en": "Step quietly inside this peaceful religious building to admire its classic lines, remembering to take off your cycling helmet before crossing the threshold.",
+            "es": "Entra con calma en este edificio religioso tranquilo para admirar sus líneas clásicas, recordando quitarte el casco de ciclista antes de cruzar el umbral."
           }
         },
         {
@@ -531,7 +586,8 @@
             "de": "Fus-Mühle",
             "hu": "Fus Malom",
             "ro": "Moara Fus",
-            "en": "Fus Mill"
+            "en": "Fus Mill",
+            "es": "Molí de Fus"
           },
           "coords": [
             -0.443659,
@@ -546,7 +602,8 @@
             "de": "Entdecken Sie diese faszinierende historische Mühle am alten Wasserkanal, ein malerischer und ruhiger Ort, um Ihre aktive Radtour glücklich zu beenden.",
             "hu": "Fedezze fel ezt a lenyűgöző történelmi malmot a régi vízcsatorna mentén, amely festői és csendes helyszínt biztosít az aktív kerékpártúra lezárásához.",
             "ro": "Descoperiți această moară istorică fascinantă de-a lungul vechiului canal, oferind un loc pitoresc și liniștit pentru a încheia turul dumneavoastră.",
-            "en": "Discover this fascinating historical mill along the old water channel, providing a picturesque and quiet spot to happily conclude your active biking tour."
+            "en": "Discover this fascinating historical mill along the old water channel, providing a picturesque and quiet spot to happily conclude your active biking tour.",
+            "es": "Descubre este fascinante molino histórico junto al antiguo canal de agua, un lugar pintoresco y apacible para concluir con satisfacción tu activo recorrido en bici."
           }
         }
       ],
@@ -554,7 +611,8 @@
         "de": "Morgen: Radeln Sie zum Kreisverkehr der Schutzheiligen, bevor Sie für etwas Kultur zum Stadtmuseum fahren.\n\nMittag: Sehen Sie sich das Trommeldenkmal auf zwei Rädern an und fahren Sie zum beeindruckenden Großtheater.\n\nNachmittag: Besuchen Sie die historische Kirche der Menschwerdung und bewundern Sie ihre Architektur.\n\nAbend: Beenden Sie Ihre Fahrt an der alten Mühle Molí de Fus bei Dämmerung.",
         "hu": "Reggel: Tekerjen el a Védőszentek Körforgalmához, mielőtt a Városi Múzeumba látogatna egy kis helyi kultúráért.\n\nDélben: Nézze meg a Dob Emlékművet két keréken, majd biztonságosan guruljon a Nagy Színházhoz.\n\nDélután: Látogasson el a történelmi Megtestesülés Templomába, megcsodálva annak építészetét.\n\nEste: Fejezze be az utat a régi Fus Malomnál, amely tökéletes alkonyati fotózáshoz.",
         "ro": "Dimineața: Bicicliți până la Sensul Giratoriu al Sfinților Patroni înainte de a pedala spre Muzeul Municipal.\n\nPrânz: Vedeți Monumentul Tobelor pe două roți, apoi mergeți spre impresionantul Mare Teatru.\n\nDupă-amiaza: Vizitați biserica istorică a Întrupării, admirând arhitectura sa clasică.\n\nSeara: Încheiați cursa la vechea moară Molí de Fus, perfectă pentru fotografia de la amurg.",
-        "en": "Morning: Cycle to the grand Patron Saints Roundabout before pedaling to the Municipal Museum for a dose of local culture.\n\nMidday: Check out the Drum Monument on two wheels, then ride safely to the impressive Grand Theater.\n\nAfternoon: Visit the historic Church of the Incarnation, admiring its architecture.\n\nEvening: End your ride at the old Molí de Fus, perfect for twilight photography."
+        "en": "Morning: Cycle to the grand Patron Saints Roundabout before pedaling to the Municipal Museum for a dose of local culture.\n\nMidday: Check out the Drum Monument on two wheels, then ride safely to the impressive Grand Theater.\n\nAfternoon: Visit the historic Church of the Incarnation, admiring its architecture.\n\nEvening: End your ride at the old Molí de Fus, perfect for twilight photography.",
+        "es": "Mañana: Pedalea hasta la gran Glorieta de los Santos Patronos antes de dirigirte al Museo Municipal para una dosis de cultura local.\n\nMediodía: Visita el Monumento al Tambor en bicicleta y luego conduce con precaución hacia el impresionante Gran Teatro.\n\nTarde: Recorre la histórica Iglesia de la Encarnación para admirar su arquitectura.\n\nNoche: Termina tu paseo en el antiguo Molí de Fus, perfecto para fotografías al anochecer."
       },
       "variants": {
         "rainy": {
@@ -562,7 +620,8 @@
             "de": "Starten Sie vorsichtig am Kreisverkehr bei leichtem Regen. Vormittags bietet das Stadtmuseum eine ideale Pause zum Trocknen. Die Weiterfahrt zum Denkmal und Theater erfordert wegen der nassen Straßen erhöhte Aufmerksamkeit. Den Nachmittag verbringen wir geschützt in der Kirche und beenden die Tour an der Mühle, wo wir die regenfeuchte Natur am Flussufer erleben.",
             "hu": "Induljon óvatosan a körforgalomtól a szemerkélő esőben. Délelőtt a városi múzeum tökéletes helyszín egy száraz szünetre. A továbbhaladás az emlékműhöz és a színházhoz figyelmet igényel a vizes utak miatt. A délutánt a templom védelmében töltjük, majd a malomnál fejezzük be a túrát, ahol a folyóparti eső áztatta természet vár ránk.",
             "ro": "Porniți cu atenție din sensul giratoriu pe o ploaie ușoară. Dimineața, muzeul orașului oferă o pauză ideală pentru a vă usca. Continuarea drumului spre monument și teatru necesită atenție sporită din cauza șoselelor umede. După-amiaza o petrecem protejați în biserică, încheind turul la moară, unde natura umedă de lângă râu este superbă.",
-            "en": "Start carefully from the roundabout in light rain. In the morning, the municipal museum offers an ideal dry break. Continuing to the monument and theater requires extra attention due to the wet roads. Spend the afternoon sheltered in the church and finish the tour at the mill, where the rain-soaked nature by the river awaits."
+            "en": "Start carefully from the roundabout in light rain. In the morning, the municipal museum offers an ideal dry break. Continuing to the monument and theater requires extra attention due to the wet roads. Spend the afternoon sheltered in the church and finish the tour at the mill, where the rain-soaked nature by the river awaits.",
+            "es": "Empieza con cuidado desde la glorieta con lluvia ligera. Por la mañana, el museo municipal ofrece una pausa seca ideal. Continuar hacia el monumento y el teatro requiere atención extra por las carreteras mojadas. Pasa la tarde resguardado en la iglesia y finaliza el recorrido en el molino, donde la naturaleza empapada junto al río te espera."
           },
           "stops": [
             {
@@ -570,13 +629,15 @@
                 "de": "Kreisverkehr der Schutzheiligen",
                 "hu": "Védőszentek Körforgalma",
                 "ro": "Sensul Giratoriu al Sfinților Patroni",
-                "en": "Patron Saints Roundabout"
+                "en": "Patron Saints Roundabout",
+                "es": "Glorieta de los Santos Patronos"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf die Markierungen am Boden, die bei Nässe sehr rutschig sein können; halten Sie die Fahrtgeschwindigkeit moderat und bremsen Sie frühzeitig.",
                 "hu": "Ügyeljen az útburkolati jelekre, amelyek nedvesen nagyon csúszósak lehetnek; tartson mérsékelt sebességet, és fékezzen időben a biztonság érdekében.",
                 "ro": "Aveți grijă la marcajele rutiere care pot fi foarte alunecoase când sunt ude; mențineți o viteză moderată și frânați din timp pentru siguranță.",
-                "en": "Watch out for road markings, which can be very slippery when wet; maintain a moderate speed and brake early to ensure your safety in the rain."
+                "en": "Watch out for road markings, which can be very slippery when wet; maintain a moderate speed and brake early to ensure your safety in the rain.",
+                "es": "Cuidado con las marcas viales, que pueden ser muy resbaladizas con lluvia; mantén una velocidad moderada y frena con antelación para garantizar tu seguridad bajo la lluvia."
               }
             },
             {
@@ -584,13 +645,15 @@
                 "de": "Stadtmuseum von Alzira",
                 "hu": "Alzira Városi Múzeuma",
                 "ro": "Muzeul Municipal din Alzira",
-                "en": "Municipal Museum of Alzira"
+                "en": "Municipal Museum of Alzira",
+                "es": "Museo Municipal de Alzira"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Museumsbesuch als ausgiebige Regenpause; stellen Sie Ihr Rad an einem gut sichtbaren, idealerweise überdachten Platz sicher ab.",
                 "hu": "Használja ki a múzeumlátogatást egy kiadós esőszünetnek; parkolja le kerékpárját egy jól látható, lehetőleg fedett helyen a látogatás idejére.",
                 "ro": "Folosiți vizita la muzeu ca pe o pauză prelungită de ploaie; parcați bicicleta într-un loc vizibil și, dacă este posibil, acoperit pe durata vizitei.",
-                "en": "Use your museum visit as an extended rain break; park your bike in a visible and ideally covered spot during your time inside the museum."
+                "en": "Use your museum visit as an extended rain break; park your bike in a visible and ideally covered spot during your time inside the museum.",
+                "es": "Aprovecha la visita al museo como una pausa prolongada contra la lluvia; aparca tu bici en un lugar visible y, si es posible, cubierto durante tu estancia en el museo."
               }
             },
             {
@@ -598,13 +661,15 @@
                 "de": "Denkmal für Trommel und Pauke",
                 "hu": "Dob és Nagydob Emlékmű",
                 "ro": "Monumentul Tobelor",
-                "en": "Drum and Bass Drum Monument"
+                "en": "Drum and Bass Drum Monument",
+                "es": "Monumento al Tambor y a la Tambora"
               },
               "tip_5lang": {
                 "de": "Das Denkmal wirkt im Regen besonders glänzend; halten Sie nur kurz für ein Foto an und achten Sie auf Pfützen in der Umgebung des Platzes.",
                 "hu": "Az emlékmű az esőben különösen fényesnek tűnik; csak rövid időre álljon meg egy fotóra, és ügyeljen a tér környékén kialakuló mélyebb tócsákra.",
                 "ro": "Monumentul pare deosebit de strălucitor în ploaie; opriți-vă doar scurt pentru o fotografie și aveți grijă la bălțile formate în jurul pieței.",
-                "en": "The monument appears particularly shiny in the rain; stop only briefly for a photo and watch out for deep puddles forming around the square."
+                "en": "The monument appears particularly shiny in the rain; stop only briefly for a photo and watch out for deep puddles forming around the square.",
+                "es": "El monumento luce especialmente brillante bajo la lluvia; detente brevemente solo para una foto y vigila los charcos profundos que se forman en la plaza."
               }
             },
             {
@@ -612,13 +677,15 @@
                 "de": "Großes Theater von Alzira",
                 "hu": "Alzira Nagy Színháza",
                 "ro": "Marele Teatru din Alzira",
-                "en": "Grand Theater of Alzira"
+                "en": "Grand Theater of Alzira",
+                "es": "Gran Teatro de Alzira"
               },
               "tip_5lang": {
                 "de": "Suchen Sie unter dem Portikus des Theaters Schutz vor einem starken Schauer; die beleuchtete Fassade spiegelt sich reizvoll in den nassen Pflastersteinen.",
                 "hu": "Keressen menedéket a színház oszlopcsarnoka alatt egy hevesebb zápor esetén; a kivilágított homlokzat szépen tükröződik a vizes útburkolaton.",
                 "ro": "Căutați adăpost sub porticul teatrului în cazul unei averse mai puternice; fațada iluminată se reflectă frumos în pavajul umed din fața clădirii.",
-                "en": "Seek shelter under the theater's portico during a heavy downpour; the illuminated facade reflects beautifully in the wet pavement in front of it."
+                "en": "Seek shelter under the theater's portico during a heavy downpour; the illuminated facade reflects beautifully in the wet pavement in front of it.",
+                "es": "Busca resguardo bajo el pórtico del teatro durante un aguacero; la fachada iluminada se refleja de forma hermosa en el pavimento mojado frente a él."
               }
             },
             {
@@ -626,13 +693,15 @@
                 "de": "Kirche der Menschwerdung",
                 "hu": "Megtestesülés Temploma",
                 "ro": "Biserica Întrupării",
-                "en": "Church of the Incarnation"
+                "en": "Church of the Incarnation",
+                "es": "Iglesia de la Encarnación"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger, trockener Ort für eine kurze Besinnung; die Akustik im Inneren ist bei Regen, der sanft gegen die Fenster prasselt, besonders beruhigend.",
                 "hu": "Csendes, száraz hely egy rövid elmélyüléshez; a belső tér akusztikája az ablakokon kopogó esővel együtt különösen megnyugtató és békés élmény.",
                 "ro": "Un loc liniștit și uscat pentru o scurtă reflecție; acustica interioară, combinată cu sunetul ploii pe ferestre, oferă o experiență relaxantă.",
-                "en": "A quiet, dry place for brief reflection; the interior acoustics combined with the sound of rain on the windows offer a truly relaxing experience."
+                "en": "A quiet, dry place for brief reflection; the interior acoustics combined with the sound of rain on the windows offer a truly relaxing experience.",
+                "es": "Un lugar tranquilo y seco para una breve reflexión; la acústica interior combinada con el sonido de la lluvia en las ventanas ofrece una experiencia realmente relajante."
               }
             },
             {
@@ -640,13 +709,15 @@
                 "de": "Fus-Mühle",
                 "hu": "Fus Malom",
                 "ro": "Moara Fus",
-                "en": "Fus Mill"
+                "en": "Fus Mill",
+                "es": "Molí de Fus"
               },
               "tip_5lang": {
                 "de": "Der Weg zur Mühle kann schlammig sein, fahren Sie daher vorsichtig; die historische Anlage wirkt in der regenfeuchten Landschaft sehr authentisch.",
                 "hu": "A malomhoz vezető út sáros lehet, ezért közlekedjen óvatosan; a történelmi épület a víztől csillogó tájban nagyon hiteles és látványos látványt nyújt.",
                 "ro": "Drumul spre moară poate fi noroios, așa că pedalați cu prudență; clădirea istorică arată foarte autentic în peisajul umed și strălucitor de lângă apă.",
-                "en": "The path to the mill may be muddy, so pedal with caution; the historic building looks very authentic in the wet, glistening landscape by the water."
+                "en": "The path to the mill may be muddy, so pedal with caution; the historic building looks very authentic in the wet, glistening landscape by the water.",
+                "es": "El camino hacia el molino puede estar embarrado, así que pedalea con precaución; el edificio histórico luce muy auténtico en el paisaje húmedo y reluciente junto al agua."
               }
             }
           ]
@@ -656,7 +727,8 @@
             "de": "Starten Sie Ihre Radtour am kühlen Morgen am Kreisverkehr. Vormittags wärmen wir uns im Stadtmuseum auf, bevor wir zum Denkmal und Theater weiterfahren. Die klare Winterluft sorgt für beste Sichtverhältnisse. Den Nachmittag nutzen wir für den Besuch der Kirche und beenden die Tour an der Mühle, bevor es nach 17:00 Uhr schnell dunkel und kalt wird.",
             "hu": "Kezdje kerékpártúráját a hűvös reggelen a körforgalomnál. Délelőtt a városi múzeumban melegszünk fel, mielőtt az emlékmű és a színház felé indulnánk. A tiszta téli levegő kiváló látási viszonyokat biztosít. A délutánt a templom megtekintésére használjuk, majd a malomnál fejezzük be a túrát, mielőtt 17:00 után gyorsan lehűlne az idő.",
             "ro": "Începeți turul cu bicicleta în dimineața răcoroasă la sensul giratoriu. Dimineața ne încălzim la muzeu înainte de a pleca spre monument și teatru. Aerul curat de iarnă oferă o vizibilitate excelentă. După-amiaza o folosim pentru a vizita biserica, încheind turul la moară înainte ca vremea să se răcească brusc după ora 17:00.",
-            "en": "Start your bike tour on a cool morning at the roundabout. In the morning, warm up at the museum before heading to the monument and theater. The crisp winter air ensures excellent visibility throughout the ride. Use the afternoon to visit the church and finish the tour at the mill before the air turns cold after 17:00."
+            "en": "Start your bike tour on a cool morning at the roundabout. In the morning, warm up at the museum before heading to the monument and theater. The crisp winter air ensures excellent visibility throughout the ride. Use the afternoon to visit the church and finish the tour at the mill before the air turns cold after 17:00.",
+            "es": "Comienza tu ruta en bici en una mañana fresca en la glorieta. Por la mañana, entra en calor en el museo antes de dirigirte al monumento y al teatro. El aire invernal claro garantiza excelente visibilidad durante el recorrido. Usa la tarde para visitar la iglesia y termina el tour en el molino antes de que el aire se enfríe después de las 17:00."
           },
           "stops": [
             {
@@ -664,13 +736,15 @@
                 "de": "Kreisverkehr der Schutzheiligen",
                 "hu": "Védőszentek Körforgalma",
                 "ro": "Sensul Giratoriu al Sfinților Patroni",
-                "en": "Patron Saints Roundabout"
+                "en": "Patron Saints Roundabout",
+                "es": "Glorieta de los Santos Patronos"
               },
               "tip_5lang": {
                 "de": "Tragen Sie Handschuhe gegen den Fahrtwind; der Kreisverkehr bietet im klaren Winterlicht eine gute Orientierung für den Start Ihrer heutigen Tour.",
                 "hu": "Viseljen kesztyűt a menetszél ellen; a körforgalom a tiszta téli fényben kiváló tájékozódási pontot jelent a mai városi túrája megkezdéséhez.",
                 "ro": "Purtați mănuși împotriva vântului în timpul mersului; sensul giratoriu oferă un punct de orientare excelent în lumina clară a iernii pentru start.",
-                "en": "Wear gloves to protect against the wind chill while riding; the roundabout is an excellent orientation point in the clear winter light for your start."
+                "en": "Wear gloves to protect against the wind chill while riding; the roundabout is an excellent orientation point in the clear winter light for your start.",
+                "es": "Lleva guantes para protegerte del frío del viento mientras pedaleas; la glorieta es un excelente punto de orientación con la luz invernal clara para tu inicio."
               }
             },
             {
@@ -678,13 +752,15 @@
                 "de": "Stadtmuseum von Alzira",
                 "hu": "Alzira Városi Múzeuma",
                 "ro": "Muzeul Municipal din Alzira",
-                "en": "Municipal Museum of Alzira"
+                "en": "Municipal Museum of Alzira",
+                "es": "Museo Municipal de Alzira"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort, um die Glieder nach der ersten Etappe aufzuwärmen; genießen Sie die geheizten Ausstellungsräume und die reiche Geschichte der Stadt.",
                 "hu": "Ideális hely a végtagok felmelegítésére az első szakasz után; élvezze a fűtött kiállítótereket és merüljön el a város gazdag és színes történelmében.",
                 "ro": "Un loc ideal pentru a vă încălzi după prima etapă a drumului; bucurați-vă de sălile încălzite și descoperiți istoria bogată și fascinantă a orașului.",
-                "en": "An ideal place to warm up your limbs after the first leg of your ride; enjoy the heated exhibition rooms and dive into the city's rich, colorful history."
+                "en": "An ideal place to warm up your limbs after the first leg of your ride; enjoy the heated exhibition rooms and dive into the city's rich, colorful history.",
+                "es": "Un lugar ideal para entrar en calor tras la primera etapa de tu ruta; disfruta de las salas de exposiciones climatizadas y sumérgete en la rica y colorida historia de la ciudad."
               }
             },
             {
@@ -692,13 +768,15 @@
                 "de": "Denkmal für Trommel und Pauke",
                 "hu": "Dob és Nagydob Emlékmű",
                 "ro": "Monumentul Tobelor",
-                "en": "Drum and Bass Drum Monument"
+                "en": "Drum and Bass Drum Monument",
+                "es": "Monumento al Tambor y a la Tambora"
               },
               "tip_5lang": {
                 "de": "Die Metalloberflächen können im Winter sehr kalt sein; betrachten Sie das Denkmal im hellen Sonnenlicht, das die Details präzise hervorhebt.",
                 "hu": "A fémfelületek télen nagyon hidegek lehetnek, ezért ne érjen hozzájuk; nézze meg az emlékművet a fényben, amely precízen kiemeli a részleteket.",
                 "ro": "Suprafețele metalice pot fi foarte reci iarna, deci evitați contactul; priviți monumentul în lumina puternică ce evidențiază precis toate detaliile.",
-                "en": "Metal surfaces can be very cold in winter, so avoid touching them; view the monument in the bright light which precisely highlights all the details."
+                "en": "Metal surfaces can be very cold in winter, so avoid touching them; view the monument in the bright light which precisely highlights all the details.",
+                "es": "Las superficies metálicas pueden estar muy frías en invierno, así que evita tocarlas; contempla el monumento con la luz brillante que resalta con precisión todos los detalles."
               }
             },
             {
@@ -706,13 +784,15 @@
                 "de": "Großes Theater von Alzira",
                 "hu": "Alzira Nagy Színháza",
                 "ro": "Marele Teatru din Alzira",
-                "en": "Grand Theater of Alzira"
+                "en": "Grand Theater of Alzira",
+                "es": "Gran Teatro de Alzira"
               },
               "tip_5lang": {
                 "de": "Die Architektur wirkt in der Wintersonne sehr majestätisch; prüfen Sie hier kurz die Beleuchtung für spätere Abendfotos, bevor es zu kalt wird.",
                 "hu": "Az építészet fenségesnek tűnik a téli napsütésben; ellenőrizze itt a fényviszonyokat a későbbi esti fotókhoz, még mielőtt túl hidegre fordulna az idő.",
                 "ro": "Arhitectura pare maiestuoasă în soarele de iarnă; verificați condițiile de lumină pentru fotografii de seară înainte ca vremea să devină prea rece.",
-                "en": "The architecture looks majestic in the winter sun; check the lighting conditions here for later evening photos before it turns too cold for comfort."
+                "en": "The architecture looks majestic in the winter sun; check the lighting conditions here for later evening photos before it turns too cold for comfort.",
+                "es": "La arquitectura se ve majestuosa con el sol invernal; comprueba las condiciones de iluminación aquí para fotos nocturnas antes de que haga demasiado frío."
               }
             },
             {
@@ -720,13 +800,15 @@
                 "de": "Kirche der Menschwerdung",
                 "hu": "Megtestesülés Temploma",
                 "ro": "Biserica Întrupării",
-                "en": "Church of the Incarnation"
+                "en": "Church of the Incarnation",
+                "es": "Iglesia de la Encarnación"
               },
               "tip_5lang": {
                 "de": "Das Innere bietet Schutz vor dem kühlen Nachmittagswind; genießen Sie die Stille und die sakrale Kunst in einer angenehm temperierten Umgebung.",
                 "hu": "A belső tér védelmet nyújt a hűvös délutáni szél ellen; élvezze a csendet és a szakrális művészetet a kellemesen temperált belső környezetben.",
                 "ro": "Interiorul oferă protecție împotriva vântului răcoros de după-amiază; bucurați-vă de liniște și de arta sacră într-un mediu cu temperatură plăcută.",
-                "en": "The interior provides protection from the cool afternoon breeze; enjoy the silence and the sacred art in a comfortably tempered environment."
+                "en": "The interior provides protection from the cool afternoon breeze; enjoy the silence and the sacred art in a comfortably tempered environment.",
+                "es": "El interior proporciona protección frente a la fresca brisa de la tarde; disfruta del silencio y del arte sacro en un ambiente confortablemente templado."
               }
             },
             {
@@ -734,13 +816,15 @@
                 "de": "Fus-Mühle",
                 "hu": "Fus Malom",
                 "ro": "Moara Fus",
-                "en": "Fus Mill"
+                "en": "Fus Mill",
+                "es": "Molí de Fus"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Tour vor Einbruch der Dunkelheit gegen 17:00 Uhr; die Mühle am Flussufer wirkt in der winterlichen Abenddämmerung besonders malerisch.",
                 "hu": "Fejezze be a túrát a sötétedés előtt, 17:00 körül; a folyóparti malom a téli alkonyatban különösen festői és megnyugtató látványt nyújt.",
                 "ro": "Încheiați turul înainte de lăsarea întunericului, în jur de ora 17:00; moara de lângă râu arată pitoresc în amurgul liniștit de iarnă.",
-                "en": "Finish your tour before dusk at 17:00; the mill by the river looks particularly picturesque and serene in the quiet winter twilight."
+                "en": "Finish your tour before dusk at 17:00; the mill by the river looks particularly picturesque and serene in the quiet winter twilight.",
+                "es": "Termina tu ruta antes del anochecer a las 17:00; el molino junto al río resulta especialmente pintoresco y sereno en el tranquilo crepúsculo invernal."
               }
             }
           ]
@@ -760,7 +844,8 @@
             "de": "Städtisches Schwimmbad",
             "hu": "Városi Uszoda",
             "ro": "Piscina Municipală",
-            "en": "Municipal Pool"
+            "en": "Municipal Pool",
+            "es": "Piscina Municipal"
           },
           "coords": [
             -0.44232,
@@ -775,7 +860,8 @@
             "de": "Nutzen Sie die Freizeiteinrichtungen hier für einen aktiven Tag; kommen Sie früh, um sich den besten Parkplatz in der Nähe des Haupteingangs zu sichern.",
             "hu": "Élvezze az itteni rekreációs létesítményeket az aktív nap kezdéséhez; érkezzen korán, hogy könnyedén biztosítsa a legjobb parkolóhelyet a bejáratnál.",
             "ro": "Bucurați-vă de facilitățile de agrement de aici; ajungeți devreme pentru a vă asigura cu ușurință cel mai bun loc de parcare aproape de intrarea principală.",
-            "en": "Enjoy the recreational facilities here to start your active day; arrive early to easily secure the best parking spot directly near the main entrance."
+            "en": "Enjoy the recreational facilities here to start your active day; arrive early to easily secure the best parking spot directly near the main entrance.",
+            "es": "Disfruta de las instalaciones recreativas aquí para empezar tu día activo; llega temprano para asegurarte fácilmente la mejor plaza de aparcamiento junto a la entrada principal."
           }
         },
         {
@@ -783,7 +869,8 @@
             "de": "Kreisverkehr der Schutzheiligen",
             "hu": "Védőszentek Körforgalma",
             "ro": "Sensul Giratoriu al Sfinților Patroni",
-            "en": "Patron Saints Roundabout"
+            "en": "Patron Saints Roundabout",
+            "es": "Glorieta de los Santos Patronos"
           },
           "coords": [
             -0.439821,
@@ -798,7 +885,8 @@
             "de": "Befahren Sie diesen monumentalen Kreisverkehr vorsichtig, da er ein wichtiger Verkehrsknotenpunkt ist, der die verehrten Heiligen der Stadt ehrt.",
             "hu": "Nagyon óvatosan navigáljon ezen a monumentális körforgalomon, mivel ez egy nagy forgalmi csomópont, amely az egész város tisztelt védőszentjeit tiszteli.",
             "ro": "Navigați cu mare atenție prin acest sens giratoriu monumental, deoarece este un nod de trafic major care onorează sfinții și protectorii orașului.",
-            "en": "Navigate this monumental roundabout very carefully, as it functions as a major traffic hub honoring the revered protectors and saints of the entire city."
+            "en": "Navigate this monumental roundabout very carefully, as it functions as a major traffic hub honoring the revered protectors and saints of the entire city.",
+            "es": "Navega por esta monumental glorieta con mucha precaución, ya que funciona como un importante nudo de tráfico que honra a los reverenciados protectores y santos de toda la ciudad."
           }
         },
         {
@@ -806,7 +894,8 @@
             "de": "Fallas-Museum von Alzira",
             "hu": "Alzira Fallas Múzeuma",
             "ro": "Muzeul Fallas din Alzira",
-            "en": "Fallas Museum of Alzira"
+            "en": "Fallas Museum of Alzira",
+            "es": "Museo de las Fallas de Alzira"
           },
           "coords": [
             -0.442873,
@@ -821,7 +910,8 @@
             "de": "Nutzen Sie die nahe gelegenen öffentlichen Parkplätze, um dieses lebendige Museum mit der unglaublichen Kunstfertigkeit der Fallas-Figuren zu erkunden.",
             "hu": "Használja a kényelmes közeli nyilvános parkolót, hogy felfedezze ezt a nyüzsgő múzeumot, amely bemutatja az óriási Fallas figurák hihetetlen művészetét.",
             "ro": "Folosiți parcarea publică din apropiere pentru a explora acest muzeu vibrant care prezintă măiestria incredibilă și scara figurinelor uriașe Fallas.",
-            "en": "Use the convenient nearby public parking to properly explore this vibrant museum showcasing the incredible artistry and scale of the giant Fallas figures."
+            "en": "Use the convenient nearby public parking to properly explore this vibrant museum showcasing the incredible artistry and scale of the giant Fallas figures.",
+            "es": "Utiliza el aparcamiento público cercano para explorar adecuadamente este vibrante museo que muestra la increíble artesanía y la escala de las gigantescas figuras falleras."
           }
         },
         {
@@ -829,7 +919,8 @@
             "de": "Der Kiosk auf dem Hauptplatz",
             "hu": "A Főtér Kioszkja",
             "ro": "Chioșcul din Piața Centrală",
-            "en": "Main Square Kiosk"
+            "en": "Main Square Kiosk",
+            "es": "Quiosco de la Plaza Mayor"
           },
           "coords": [
             -0.436765,
@@ -844,7 +935,8 @@
             "de": "Machen Sie eine kurze Pause im Herzen der Stadt, um diesen ikonischen Kiosk zu sehen, ein sehr beliebter lokaler Treffpunkt, umgeben von belebten Cafés.",
             "hu": "Tartson egy rövid szünetet a város szívében, hogy megnézze ezt az ikonikus kioszkot, amely egy nagyon népszerű helyi találkozóhely nyüzsgő kávézókkal.",
             "ro": "Faceți o scurtă pauză în inima orașului pentru a vedea acest chioșc emblematic, un punct de întâlnire local foarte popular, înconjurat de cafenele.",
-            "en": "Take a brief scheduled break right in the heart of the city to see this iconic kiosk, a very popular local meeting point surrounded by bustling cafes."
+            "en": "Take a brief scheduled break right in the heart of the city to see this iconic kiosk, a very popular local meeting point surrounded by bustling cafes.",
+            "es": "Haz una breve parada programada en el corazón de la ciudad para ver este quiosco icónico, un punto de encuentro local muy popular rodeado de cafeterías animadas."
           }
         },
         {
@@ -852,7 +944,8 @@
             "de": "Großes Theater von Alzira",
             "hu": "Alzira Nagy Színháza",
             "ro": "Marele Teatru din Alzira",
-            "en": "Grand Theater of Alzira"
+            "en": "Grand Theater of Alzira",
+            "es": "Gran Teatro de Alzira"
           },
           "coords": [
             -0.439036,
@@ -867,7 +960,8 @@
             "de": "Fahren Sie an diesem Wahrzeichen vorbei oder parken Sie in einer Seitenstraße, um die elegante Fassade und die lebendige Atmosphäre zu schätzen.",
             "hu": "Hajtson el ezen jelentős kulturális nevezetesség mellett, vagy parkoljon le a közelben, hogy megfelelően értékelje elegáns homlokzatát és atmoszféráját.",
             "ro": "Conduceți pe lângă acest reper cultural major sau parcați pe o stradă din apropiere pentru a aprecia fațada sa elegantă și atmosfera artistică plină de viață.",
-            "en": "Drive by this major cultural landmark or park on a nearby street to properly appreciate its elegant exterior facade and the lively artistic atmosphere."
+            "en": "Drive by this major cultural landmark or park on a nearby street to properly appreciate its elegant exterior facade and the lively artistic atmosphere.",
+            "es": "Pasa en coche frente a este importante hito cultural o aparca en una calle cercana para apreciar correctamente su elegante fachada exterior y el vibrante ambiente artístico."
           }
         },
         {
@@ -875,7 +969,8 @@
             "de": "Eiserne Eisenbahnbrücke",
             "hu": "Vasúti Vashíd",
             "ro": "Podul de Fier Feroviar",
-            "en": "Iron Railway Bridge"
+            "en": "Iron Railway Bridge",
+            "es": "Puente de hierro del ferrocarril"
           },
           "coords": [
             -0.451822,
@@ -890,7 +985,8 @@
             "de": "Parken Sie sicher abseits des Verkehrs und gehen Sie zu dieser eisernen Brücke, einem Meisterwerk der Industriearchitektur, ideal für den Sonnenuntergang.",
             "hu": "Parkoljon le biztonságosan a forgalomtól távol, és sétáljon fel ehhez a vashídhoz, amely az ipari építészet igazi remekműve és tökéletes naplementekor.",
             "ro": "Parcați în siguranță departe de trafic și mergeți la acest pod de fier impresionant, o capodoperă a arhitecturii industriale, perfectă pentru apus.",
-            "en": "Park safely away from traffic and walk up to this striking iron bridge, a true masterpiece of industrial architecture that is absolutely perfect for sunset."
+            "en": "Park safely away from traffic and walk up to this striking iron bridge, a true masterpiece of industrial architecture that is absolutely perfect for sunset.",
+            "es": "Aparca con seguridad alejado del tráfico y acércate a pie a este llamativo puente de hierro, una verdadera obra maestra de la arquitectura industrial perfecta para el atardecer."
           }
         }
       ],
@@ -898,7 +994,8 @@
         "de": "Morgen: Fahren Sie für einen erfrischenden Start zum städtischen Schwimmbad und dann zum ikonischen Kreisverkehr zurück.\n\nMittag: Parken Sie im Zentrum, um das Faller-Museum zu besuchen und einen Happen an der Plaça Major zu essen.\n\nNachmittag: Fahren Sie am eleganten Gran Teatro vorbei.\n\nAbend: Beenden Sie die Tour an der eisernen Eisenbahnbrücke für einen industriellen Sonnenuntergang.",
         "hu": "Reggel: Vezessen a városi uszodához egy frissítő kezdésért, majd induljon vissza a város ikonikus körforgalma felé.\n\nDélben: Parkoljon a központ közelében a Faller Múzeum megtekintéséhez, és egyen a Plaça Majoron.\n\nDélután: Hajtson el az elegáns Nagy Színház mellett, hogy értékelje klasszikus megjelenését.\n\nEste: Zárja a napot a vasúti vashídnál az egyedülálló ipari naplemente látványával.",
         "ro": "Dimineața: Conduceți la piscina municipală pentru un început revigorant, apoi întoarceți-vă la sensul giratoriu iconic.\n\nPrânz: Parcați în centru pentru a vizita Muzeul Faller și luați o gustare rapidă în Plaça Major.\n\nDupă-amiaza: Treceți pe lângă elegantul Gran Teatro pentru a-i aprecia aspectul clasic.\n\nSeara: Încheiați la podul de fier feroviar pentru un apus industrial spectaculos.",
-        "en": "Morning: Drive to the municipal pool area for a refreshing start, then head back towards the city's iconic roundabout.\n\nMidday: Park near the center to visit the renowned Faller Museum and grab a quick bite at Plaça Major.\n\nAfternoon: Drive smoothly past the elegant Gran Teatro to fully appreciate its classic look.\n\nEvening: Finish at the iron railway bridge for unique industrial sunset views."
+        "en": "Morning: Drive to the municipal pool area for a refreshing start, then head back towards the city's iconic roundabout.\n\nMidday: Park near the center to visit the renowned Faller Museum and grab a quick bite at Plaça Major.\n\nAfternoon: Drive smoothly past the elegant Gran Teatro to fully appreciate its classic look.\n\nEvening: Finish at the iron railway bridge for unique industrial sunset views.",
+        "es": "Mañana: Conduce hasta la zona de la piscina municipal para un comienzo refrescante, luego dirígete de nuevo hacia la emblemática glorieta de la ciudad.\n\nMediodía: Aparca cerca del centro para visitar el renombrado Museo de las Fallas y tomar un bocadillo rápido en la Plaça Major.\n\nTarde: Pasa con calma frente al elegante Gran Teatro para apreciar plenamente su aspecto clásico.\n\nNoche: Termina en el puente de hierro del ferrocarril para disfrutar de vistas industriales únicas al atardecer."
       },
       "variants": {
         "rainy": {
@@ -906,7 +1003,8 @@
             "de": "Genießen Sie die Fahrt durch das verregnete Alzira bequem im trockenen Auto. Der Tag beginnt am Schwimmbad und führt uns über den Kreisverkehr zum Fallas-Museum, einem perfekten Rückzugsort bei Nässe. Mittags halten wir kurz am Kiosk und besuchen das Theater. Den Abschluss bildet die Eisenbahnbrücke, die wir sicher aus dem Fahrzeug oder bei kurzem Halt bewundern.",
             "hu": "Élvezze az esős Alzira látványát kényelmesen, a száraz autóból. A nap az uszodánál indul, majd a körforgalmon keresztül a Fallas múzeumhoz vezet, amely tökéletes menedék vizes időben. Délben rövid megállót tartunk a kioszknál és megnézzük a színházat. A napot a vashídnál zárjuk, amelyet biztonságban az autóból vagy egy rövid kiszállással csodálunk meg.",
             "ro": "Bucurați-vă de priveliștea orașului Alzira ploios din confortul mașinii. Ziua începe la piscină, trece prin sensul giratoriu și continuă la Muzeul Fallas, un adăpost perfect. La prânz oprim scurt la chioșc și vizităm teatrul. Încheiem ziua la podul de fier, pe care îl admirăm în siguranță din vehicul sau la o scurtă oprire.",
-            "en": "Enjoy the view of rainy Alzira from the comfort of your dry car. The day starts at the pool, leads through the roundabout to the Fallas Museum, a perfect rainy-day retreat. At noon, we stop briefly at the kiosk and visit the theater. We conclude the day at the iron bridge, which can be admired safely from the car or during a brief stop."
+            "en": "Enjoy the view of rainy Alzira from the comfort of your dry car. The day starts at the pool, leads through the roundabout to the Fallas Museum, a perfect rainy-day retreat. At noon, we stop briefly at the kiosk and visit the theater. We conclude the day at the iron bridge, which can be admired safely from the car or during a brief stop.",
+            "es": "Disfruta de la vista de la lluviosa Alzira desde la comodidad de tu coche seco. El día empieza en la piscina, pasa por la glorieta hasta el Museo de las Fallas, un retiro perfecto para un día lluvioso. Al mediodía hacemos una breve parada en el quiosco y visitamos el teatro. Concluimos el día en el puente de hierro, que puede admirarse con seguridad desde el coche o durante una breve parada."
           },
           "stops": [
             {
@@ -914,13 +1012,15 @@
                 "de": "Städtisches Schwimmbad",
                 "hu": "Városi Uszoda",
                 "ro": "Piscina Municipală",
-                "en": "Municipal Pool"
+                "en": "Municipal Pool",
+                "es": "Piscina Municipal"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort für Indoor-Aktivitäten an einem Regentag; nutzen Sie die Parkplätze direkt am Eingang, um möglichst trocken ins Gebäude zu gelangen.",
                 "hu": "Ideális helyszín beltéri tevékenységekhez egy esős napon; használja a közvetlenül a bejáratnál lévő parkolót, hogy szárazon jusson be az épületbe.",
                 "ro": "Locul ideal pentru activități de interior într-o zi ploioasă; folosiți parcarea de lângă intrare pentru a ajunge cât mai uscat în interiorul clădirii.",
-                "en": "The ideal spot for indoor activities on a rainy day; use the parking right by the entrance to get into the building as dry as possible."
+                "en": "The ideal spot for indoor activities on a rainy day; use the parking right by the entrance to get into the building as dry as possible.",
+                "es": "El lugar ideal para actividades interiores en un día lluvioso; usa el aparcamiento junto a la entrada para entrar al edificio lo más seco posible."
               }
             },
             {
@@ -928,13 +1028,15 @@
                 "de": "Kreisverkehr der Schutzheiligen",
                 "hu": "Védőszentek Körforgalma",
                 "ro": "Sensul Giratoriu al Sfinților Patroni",
-                "en": "Patron Saints Roundabout"
+                "en": "Patron Saints Roundabout",
+                "es": "Glorieta de los Santos Patronos"
               },
               "tip_5lang": {
                 "de": "Achten Sie bei Regen auf die eingeschränkte Sicht und rutschige Fahrbahn; bewundern Sie das Monument sicher aus dem Fenster Ihres Fahrzeugs.",
                 "hu": "Esőben ügyeljen a korlátozott látási viszonyokra és a csúszós útra; csodálja meg az emlékművet biztonságban, az autó ablakából szemlélve azt.",
                 "ro": "Aveți grijă la vizibilitatea redusă și la carosabilul umed când plouă; admirați monumentul în siguranță direct de la fereastra vehiculului dumneavoastră.",
-                "en": "Be mindful of reduced visibility and slippery roads in the rain; admire the monument safely through your car window as you pass through."
+                "en": "Be mindful of reduced visibility and slippery roads in the rain; admire the monument safely through your car window as you pass through.",
+                "es": "Mantente atento a la visibilidad reducida y a las calzadas resbaladizas con lluvia; admira el monumento con seguridad desde la ventana del coche al pasar."
               }
             },
             {
@@ -942,13 +1044,15 @@
                 "de": "Fallas-Museum von Alzira",
                 "hu": "Alzira Fallas Múzeuma",
                 "ro": "Muzeul Fallas din Alzira",
-                "en": "Fallas Museum of Alzira"
+                "en": "Fallas Museum of Alzira",
+                "es": "Museo de las Fallas de Alzira"
               },
               "tip_5lang": {
                 "de": "Parken Sie in der Nähe und genießen Sie die farbenfrohe Ausstellung im Trockenen; das Museum ist der kulturelle Höhepunkt an einem verregneten Tag.",
                 "hu": "Parkoljon le a közelben, és élvezze a színes kiállítást szárazon; a múzeum a nap kulturális fénypontja, különösen ilyen barátságtalan időjárásban.",
                 "ro": "Parcați în apropiere și bucurați-vă de expoziția colorată la adăpost; muzeul este punctul culminant cultural al zilei, mai ales pe vreme ploioasă.",
-                "en": "Park nearby and enjoy the colorful exhibition while staying dry; the museum is the cultural highlight of the day, especially in such wet weather."
+                "en": "Park nearby and enjoy the colorful exhibition while staying dry; the museum is the cultural highlight of the day, especially in such wet weather.",
+                "es": "Aparca cerca y disfruta de la colorida exposición manteniéndote seco; el museo es el punto cultural del día, especialmente con este tiempo húmedo."
               }
             },
             {
@@ -956,13 +1060,15 @@
                 "de": "Der Kiosk auf dem Hauptplatz",
                 "hu": "A Főtér Kioszkja",
                 "ro": "Chioșcul din Piața Centrală",
-                "en": "Main Square Kiosk"
+                "en": "Main Square Kiosk",
+                "es": "Quiosco de la Plaza Mayor"
               },
               "tip_5lang": {
                 "de": "Halten Sie kurz für einen Coffee-to-go an, um sich aufzuwärmen; der Kiosk bietet auch bei Regen einen charmanten Anblick im Stadtzentrum.",
                 "hu": "Álljon meg egy pillanatra egy elvihető kávéra, hogy felmelegedjen; a kioszk esőben is bájos látványt nyújt a városközpont szívében.",
                 "ro": "Opriți-vă pentru o cafea la pachet pentru a vă încălzi puțin; chioșcul oferă o priveliște fermecătoare în centrul orașului chiar și pe ploaie.",
-                "en": "Stop briefly for a coffee-to-go to warm yourself up; the kiosk remains a charming sight in the city center even when it's raining outside."
+                "en": "Stop briefly for a coffee-to-go to warm yourself up; the kiosk remains a charming sight in the city center even when it's raining outside.",
+                "es": "Haz una parada breve para un café para llevar y entrar en calor; el quiosco sigue siendo una vista encantadora en el centro incluso cuando llueve."
               }
             },
             {
@@ -970,13 +1076,15 @@
                 "de": "Großes Theater von Alzira",
                 "hu": "Alzira Nagy Színháza",
                 "ro": "Marele Teatru din Alzira",
-                "en": "Grand Theater of Alzira"
+                "en": "Grand Theater of Alzira",
+                "es": "Gran Teatro de Alzira"
               },
               "tip_5lang": {
                 "de": "Die beleuchtete Fassade sieht im Regen besonders edel aus; nutzen Sie die Parkmöglichkeiten in den Seitenstraßen für einen kurzen Fotostopp.",
                 "hu": "A kivilágított homlokzat az esőben különösen elegáns látvány; használja a mellékutcák parkolóit egy gyors fotómegálló erejéig a színháznál.",
                 "ro": "Fațada iluminată arată deosebit de elegant în ploaie; folosiți locurile de parcare de pe străzile laterale pentru o scurtă oprire foto la teatru.",
-                "en": "The illuminated facade looks especially elegant in the rain; use the parking spots on the side streets for a quick photo stop at the theater."
+                "en": "The illuminated facade looks especially elegant in the rain; use the parking spots on the side streets for a quick photo stop at the theater.",
+                "es": "La fachada iluminada luce especialmente elegante bajo la lluvia; usa las plazas de aparcamiento en las calles laterales para una rápida parada fotográfica en el teatro."
               }
             },
             {
@@ -984,13 +1092,15 @@
                 "de": "Eiserne Eisenbahnbrücke",
                 "hu": "Vasúti Vashíd",
                 "ro": "Podul de Fier Feroviar",
-                "en": "Iron Railway Bridge"
+                "en": "Iron Railway Bridge",
+                "es": "Puente de hierro del ferrocarril"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die imposante Stahlkonstruktion sicher aus dem Auto; die dunkle Silhouette der Brücke wirkt bei grauem Regenwetter sehr kraftvoll.",
                 "hu": "Tekintse meg az impozáns acélszerkezetet biztonságban az autóból; a híd sötét sziluettje szürke, esős időben különösen erőteljes látványt nyújt.",
                 "ro": "Priviți structura impunătoare de oțel în siguranță din mașină; silueta întunecată a podului pare foarte puternică pe vreme gri și ploioasă.",
-                "en": "View the impressive steel structure safely from your car; the bridge's dark silhouette appears very powerful against the grey, rainy weather."
+                "en": "View the impressive steel structure safely from your car; the bridge's dark silhouette appears very powerful against the grey, rainy weather.",
+                "es": "Observa la impresionante estructura de acero con seguridad desde tu coche; la silueta oscura del puente se muestra poderosa contra el gris del tiempo lluvioso."
               }
             }
           ]
@@ -1000,7 +1110,8 @@
             "de": "Erkunden Sie Alzira im Winter komfortabel mit dem Auto und genießen Sie die beheizte Fahrt zwischen den Sehenswürdigkeiten. Der Tag beginnt am Schwimmbad und führt uns zu historischen Plätzen wie dem Kreisverkehr und dem Fallas-Museum. Mittags besuchen wir den Kiosk und das Theater im hellen Winterlicht. Wir beenden die Tour an der Eisenbahnbrücke vor dem frühen Sonnenuntergang.",
             "hu": "Fedezze fel Alzirát télen kényelmesen, autóval, élvezve a fűtött utazást a látnivalók között. A nap az uszodánál indul, majd történelmi helyszínekhez, a körforgalomhoz és a Fallas múzeumhoz vezet. Délben a kioszkot és a színházat látogatjuk meg a tiszta téli fényben. A túrát a vashídnál zárjuk, még a korai naplemente előtt.",
             "ro": "Explorați Alzira iarna confortabil cu mașina, bucurându-vă de drumul încălzit între obiectivele turistice. Ziua începe la piscină și continuă spre locuri istorice precum sensul giratoriu și Muzeul Fallas. La prânz vizităm chioșcul și teatrul în lumina clară a iernii. Încheiem turul la podul de fier înainte de apusul devreme al soarelui.",
-            "en": "Explore Alzira in winter comfortably by car, enjoying a heated ride between the sights. The day starts at the pool and leads to historical spots like the roundabout and the Fallas Museum. At noon, we visit the kiosk and the theater in the bright winter light. We end the tour at the iron bridge before the early sunset at 17:00."
+            "en": "Explore Alzira in winter comfortably by car, enjoying a heated ride between the sights. The day starts at the pool and leads to historical spots like the roundabout and the Fallas Museum. At noon, we visit the kiosk and the theater in the bright winter light. We end the tour at the iron bridge before the early sunset at 17:00.",
+            "es": "Explora Alzira en invierno cómodamente en coche, disfrutando de un trayecto climatizado entre los puntos de interés. El día comienza en la piscina y conduce a lugares históricos como la glorieta y el Museo de las Fallas. Al mediodía visitamos el quiosco y el teatro con la luz invernal brillante. Terminamos el recorrido en el puente de hierro antes de la puesta de sol temprana a las 17:00."
           },
           "stops": [
             {
@@ -1008,13 +1119,15 @@
                 "de": "Städtisches Schwimmbad",
                 "hu": "Városi Uszoda",
                 "ro": "Piscina Municipală",
-                "en": "Municipal Pool"
+                "en": "Municipal Pool",
+                "es": "Piscina Municipal"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das beheizte Bad als warmen Start in den Tag; die Parkplätze in der Nähe ermöglichen einen schnellen Wechsel vom Auto ins warme Wasser.",
                 "hu": "Használja a fűtött medencét a nap meleg indításaként; a közeli parkolók lehetővé teszik a gyors váltást az autóból a kellemesen meleg vízbe.",
                 "ro": "Folosiți piscina încălzită pentru un început de zi călduros; parcările din apropiere permit o tranziție rapidă din mașină în apa caldă.",
-                "en": "Use the heated pool for a warm start to your day; the nearby parking spaces allow for a quick transition from the car into the warm water."
+                "en": "Use the heated pool for a warm start to your day; the nearby parking spaces allow for a quick transition from the car into the warm water.",
+                "es": "Utiliza la piscina climatizada para un comienzo cálido del día; las plazas de aparcamiento cercanas permiten una transición rápida del coche al agua caliente."
               }
             },
             {
@@ -1022,13 +1135,15 @@
                 "de": "Kreisverkehr der Schutzheiligen",
                 "hu": "Védőszentek Körforgalma",
                 "ro": "Sensul Giratoriu al Sfinților Patroni",
-                "en": "Patron Saints Roundabout"
+                "en": "Patron Saints Roundabout",
+                "es": "Glorieta de los Santos Patronos"
               },
               "tip_5lang": {
                 "de": "Die Statuen wirken im klaren Winterlicht besonders scharf gezeichnet; genießen Sie den Anblick kurz vom Parkplatz aus, bevor Sie weiterfahren.",
                 "hu": "A szobrok a tiszta téli fényben különösen élesen rajzolódnak ki; élvezze a látványt egy rövid ideig a közeli parkolóból, mielőtt továbbhaladna.",
                 "ro": "Statuile par foarte clar conturate în lumina iernii; bucurați-vă de priveliște pentru scurt timp din parcare înainte de a vă continua drumul.",
-                "en": "The statues appear particularly sharp in the clear winter light; enjoy the view for a moment from a nearby parking spot before continuing your drive."
+                "en": "The statues appear particularly sharp in the clear winter light; enjoy the view for a moment from a nearby parking spot before continuing your drive.",
+                "es": "Las estatuas se ven especialmente nítidas con la clara luz invernal; disfruta de la vista un momento desde una plaza de aparcamiento cercana antes de continuar tu ruta en coche."
               }
             },
             {
@@ -1036,13 +1151,15 @@
                 "de": "Fallas-Museum von Alzira",
                 "hu": "Alzira Fallas Múzeuma",
                 "ro": "Muzeul Fallas din Alzira",
-                "en": "Fallas Museum of Alzira"
+                "en": "Fallas Museum of Alzira",
+                "es": "Museo de las Fallas de Alzira"
               },
               "tip_5lang": {
                 "de": "Ein wunderbar temperierter Ort, um Alziras Traditionen zu entdecken; parken Sie bequem in der Nähe und entfliehen Sie der kühlen Außenluft.",
                 "hu": "Csodálatosan temperált helyszín Alzira hagyományainak felfedezéséhez; parkoljon le kényelmesen a közelben, és meneküljön el a kinti hűvös levegő elől.",
                 "ro": "Un loc cu o temperatură plăcută pentru a descoperi tradițiile din Alzira; parcați confortabil în apropiere și evadați din aerul rece de afară.",
-                "en": "A wonderfully tempered venue to discover Alzira's traditions; park comfortably nearby and escape the cool outside air for a while."
+                "en": "A wonderfully tempered venue to discover Alzira's traditions; park comfortably nearby and escape the cool outside air for a while.",
+                "es": "Un espacio maravillosamente climatizado para descubrir las tradiciones de Alzira; aparca cómodamente cerca y escapa por un rato del aire fresco exterior."
               }
             },
             {
@@ -1050,13 +1167,15 @@
                 "de": "Der Kiosk auf dem Hauptplatz",
                 "hu": "A Főtér Kioszkja",
                 "ro": "Chioșcul din Piața Centrală",
-                "en": "Main Square Kiosk"
+                "en": "Main Square Kiosk",
+                "es": "Quiosco de la Plaza Mayor"
               },
               "tip_5lang": {
                 "de": "Holen Sie sich ein Heißgetränk für die Weiterfahrt; der Platz ist im Winter oft sonnig und bietet eine schöne Kulisse für einen kurzen Halt.",
                 "hu": "Vegyem egy forró italt a továbbúthoz; a tér télen gyakran napsütéses, és szép díszletet kínál egy rövid, pihentető megállóhoz a városnézés közben.",
                 "ro": "Luați o băutură caldă pentru continuarea drumului; piața este adesea însorită iarna și oferă un cadru frumos pentru o scurtă oprire de relaxare.",
-                "en": "Pick up a hot drink for the rest of your drive; the square is often sunny in winter and provides a lovely backdrop for a short, relaxing stop."
+                "en": "Pick up a hot drink for the rest of your drive; the square is often sunny in winter and provides a lovely backdrop for a short, relaxing stop.",
+                "es": "Recoge una bebida caliente para el resto del trayecto; la plaza suele estar soleada en invierno y ofrece un hermoso telón de fondo para una breve parada relajante."
               }
             },
             {
@@ -1064,13 +1183,15 @@
                 "de": "Großes Theater von Alzira",
                 "hu": "Alzira Nagy Színháza",
                 "ro": "Marele Teatru din Alzira",
-                "en": "Grand Theater of Alzira"
+                "en": "Grand Theater of Alzira",
+                "es": "Gran Teatro de Alzira"
               },
               "tip_5lang": {
                 "de": "Die Fassade strahlt im tiefstehenden Sonnenlicht besonders hell; nutzen Sie die Parkplätze in der Umgebung für einen gemütlichen Fotostopp.",
                 "hu": "A homlokzat az alacsony napsütésben különösen fényesen ragyog; használja a környékbeli parkolókat egy kényelmes és látványos fotómegállóhoz.",
                 "ro": "Fațada strălucește puternic în lumina soarelui de iarnă; folosiți parcările din zonă pentru o oprire foto relaxantă și plină de stil la teatru.",
-                "en": "The facade glows brightly in the low winter sun; use the surrounding parking areas for a comfortable and stylish photo stop at the theater."
+                "en": "The facade glows brightly in the low winter sun; use the surrounding parking areas for a comfortable and stylish photo stop at the theater.",
+                "es": "La fachada brilla intensamente con el sol invernal bajo; utiliza las zonas de aparcamiento circundantes para una parada fotográfica cómoda y con estilo en el teatro."
               }
             },
             {
@@ -1078,13 +1199,15 @@
                 "de": "Eiserne Eisenbahnbrücke",
                 "hu": "Vasúti Vashíd",
                 "ro": "Podul de Fier Feroviar",
-                "en": "Iron Railway Bridge"
+                "en": "Iron Railway Bridge",
+                "es": "Puente de hierro del ferrocarril"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Brücke vor 17:00 Uhr, um sie im letzten Tageslicht zu sehen; die kalte Stahlstruktur wirkt im Winterlicht sehr beeindruckend.",
                 "hu": "Látogasson el a hídhoz 17:00 előtt, hogy az utolsó nappali fényben lássa; a hideg acélszerkezet a téli világításban lenyűgöző látványt nyújt.",
                 "ro": "Vizitați podul înainte de ora 17:00 pentru a-l vedea în ultima lumină a zilei; structura rece de oțel arată impresionant în lumina iernii.",
-                "en": "Visit the bridge before 17:00 to see it in the last daylight; the cold steel structure looks truly impressive in the crisp winter evening light."
+                "en": "Visit the bridge before 17:00 to see it in the last daylight; the cold steel structure looks truly impressive in the crisp winter evening light.",
+                "es": "Visita el puente antes de las 17:00 para verlo con la última luz del día; la fría estructura de acero resulta realmente impresionante con la luz del claro atardecer invernal."
               }
             }
           ]

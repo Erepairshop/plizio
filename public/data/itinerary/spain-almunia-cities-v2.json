@@ -21,7 +21,8 @@
             "de": "Plaza de los Herederos",
             "hu": "Plaza de los Herederos",
             "ro": "Plaza de los Herederos",
-            "en": "Plaza de los Herederos"
+            "en": "Plaza de los Herederos",
+            "es": "Plaza de los Herederos"
           },
           "coords": [
             -1.3742,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das lokale Leben.",
             "hu": "Indítsa a napot egy kávéval, és figyelje a helyi életet.",
             "ro": "Începeți ziua aici cu o cafea, privind viața locală.",
-            "en": "Start your day here with a coffee and watch the local life unfold."
+            "en": "Start your day here with a coffee and watch the local life unfold.",
+            "es": "Empieza el día aquí con un café y observa la vida local."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Kirche Nuestra Señora de la Asunción",
             "hu": "Nuestra Señora de la Asunción templom",
             "ro": "Biserica Nuestra Señora de la Asunción",
-            "en": "Church of Nuestra Señora de la Asunción"
+            "en": "Church of Nuestra Señora de la Asunción",
+            "es": "Iglesia de Nuestra Señora de la Asunción"
           },
           "coords": [
             -1.375,
@@ -61,7 +64,8 @@
             "de": "Bewundern Sie den Mudejar-Turm, ein Wahrzeichen der aragonesischen Architektur.",
             "hu": "Csodálja meg a mudéjar tornyot, az aragóniai építészet jelképét.",
             "ro": "Admirați turnul în stil Mudéjar, un simbol al arhitecturii aragoneze.",
-            "en": "Admire the Mudéjar tower, a landmark of Aragonese architecture."
+            "en": "Admire the Mudéjar tower, a landmark of Aragonese architecture.",
+            "es": "Admira la torre mudéjar, emblema de la arquitectura aragonesa."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Palast von San Juan",
             "hu": "San Juan palota",
             "ro": "Palatul San Juan",
-            "en": "Palace of San Juan"
+            "en": "Palace of San Juan",
+            "es": "Palacio de San Juan"
           },
           "coords": [
             -1.3758,
@@ -85,7 +90,8 @@
             "de": "Achten Sie auf die herrschaftliche Fassade und die Wappen.",
             "hu": "Figyelje meg a fenséges homlokzatot és a címereket.",
             "ro": "Observați fațada impunătoare și blazoanele familiei.",
-            "en": "Pay attention to the stately façade and the family crests."
+            "en": "Pay attention to the stately façade and the family crests.",
+            "es": "Fíjate en la fachada señorial y los escudos familiares."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Konvent San Lorenzo",
             "hu": "San Lorenzo kolostor",
             "ro": "Mănăstirea San Lorenzo",
-            "en": "Convent of San Lorenzo"
+            "en": "Convent of San Lorenzo",
+            "es": "Convento de San Lorenzo"
           },
           "coords": [
             -1.372,
@@ -109,7 +116,8 @@
             "de": "Genießen Sie die Ruhe in diesem historischen religiösen Komplex.",
             "hu": "Élvezze a csendet ebben a történelmi vallási komplexumban.",
             "ro": "Bucurați-vă de liniștea din acest complex religios istoric.",
-            "en": "Enjoy the tranquility inside this historic religious complex."
+            "en": "Enjoy the tranquility inside this historic religious complex.",
+            "es": "Disfruta de la tranquilidad interior de este histórico complejo religioso."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Casa de la Cultura",
             "hu": "Kultúrház",
             "ro": "Casa de Cultură",
-            "en": "House of Culture"
+            "en": "House of Culture",
+            "es": "Casa de la Cultura"
           },
           "coords": [
             -1.3715,
@@ -133,7 +142,8 @@
             "de": "Prüfen Sie das Programm auf lokale Ausstellungen oder Veranstaltungen.",
             "hu": "Nézze meg a programot, hátha van helyi kiállítás vagy esemény.",
             "ro": "Verificați programul pentru expoziții sau evenimente locale.",
-            "en": "Check the schedule for any local exhibitions or events."
+            "en": "Check the schedule for any local exhibitions or events.",
+            "es": "Consulta la programación por si hay exposiciones o eventos locales."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Museum für traditionelle Spiele",
             "hu": "Hagyományos Játékok Múzeuma",
             "ro": "Muzeul Jocurilor Tradiționale",
-            "en": "Museum of Traditional Games"
+            "en": "Museum of Traditional Games",
+            "es": "Museo de los Juegos Tradicionales"
           },
           "coords": [
             -1.38,
@@ -157,7 +168,8 @@
             "de": "Ein lustiger und nostalgischer Besuch für alle Altersgruppen.",
             "hu": "Szórakoztató és nosztalgikus látogatás minden korosztálynak.",
             "ro": "O vizită distractivă și nostalgică pentru toate vârstele.",
-            "en": "A fun and nostalgic visit suitable for all ages."
+            "en": "A fun and nostalgic visit suitable for all ages.",
+            "es": "Una visita divertida y nostálgica apta para todas las edades."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Ermita de Cabañas",
             "hu": "Cabañasi Remetekápolna",
             "ro": "Schitul Cabañas",
-            "en": "Hermitage of Cabañas"
+            "en": "Hermitage of Cabañas",
+            "es": "Ermita de Cabañas"
           },
           "coords": [
             -1.388,
@@ -181,7 +194,8 @@
             "de": "Ein friedlicher Ort außerhalb des Zentrums, perfekt für einen besinnlichen Abschluss.",
             "hu": "Egy békés hely a központon kívül, tökéletes a nap elmélkedő befejezéséhez.",
             "ro": "Un loc pașnic în afara centrului, perfect pentru o încheiere reflexivă.",
-            "en": "A peaceful spot outside the center, perfect for a reflective end to your day."
+            "en": "A peaceful spot outside the center, perfect for a reflective end to your day.",
+            "es": "Un lugar tranquilo fuera del centro, perfecto para acabar el día en reflexión."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Beginnen Sie Ihren Spaziergang auf der Plaza de los Herederos, dem Herzen der Stadt. Am Vormittag erkunden Sie die prächtige Mudejar-Architektur der Kirche Nuestra Señora de la Asunción und den historischen Palast San Juan. Gönnen Sie sich ein Mittagessen in einem lokalen Restaurant. Am Nachmittag tauchen Sie im Konvent San Lorenzo in die Stille ein, bevor Sie das Kulturzentrum und das einzigartige Museum für traditionelle Spiele entdecken. Beenden Sie Ihren Tag mit einem ruhigen Spaziergang zur Ermita de Cabañas.",
         "hu": "Kezdje sétáját a város szívében, a Plaza de los Herederoson. A délelőtt folyamán fedezze fel a Nuestra Señora de la Asunción templom csodálatos mudéjar építészetét és a történelmi San Juan palotát. Ebédeljen egy helyi étteremben. Délután merüljön el a San Lorenzo kolostor csendjében, mielőtt felfedezné a kultúrházat és az egyedülálló Hagyományos Játékok Múzeumát. Zárja a napot egy békés sétával az Ermita de Cabañas felé.",
         "ro": "Începeți plimbarea în Plaza de los Herederos, inima orașului. În cursul dimineții, explorați magnifica arhitectură mudejară a Bisericii Nuestra Señora de la Asunción și istoricul Palat San Juan. Savurați prânzul la un restaurant local. După-amiaza, cufundați-vă în liniștea Mănăstirii San Lorenzo înainte de a descoperi Casa de Cultură și unicul Muzeu al Jocurilor Tradiționale. Încheiați ziua cu o plimbare liniștită la Schitul Cabañas.",
-        "en": "Start your walk in Plaza de los Herederos, the heart of the town. In the morning, explore the magnificent Mudéjar architecture of the Church of Nuestra Señora de la Asunción and the historic Palace of San Juan. Enjoy lunch at a local restaurant. In the afternoon, immerse yourself in the quiet of the Convent of San Lorenzo before discovering the House of Culture and the unique Museum of Traditional Games. End your day with a peaceful walk to the Hermitage of Cabañas."
+        "en": "Start your walk in Plaza de los Herederos, the heart of the town. In the morning, explore the magnificent Mudéjar architecture of the Church of Nuestra Señora de la Asunción and the historic Palace of San Juan. Enjoy lunch at a local restaurant. In the afternoon, immerse yourself in the quiet of the Convent of San Lorenzo before discovering the House of Culture and the unique Museum of Traditional Games. End your day with a peaceful walk to the Hermitage of Cabañas.",
+        "es": "Comienza tu paseo en la Plaza de los Herederos, corazón del pueblo. Por la mañana, explora la magnífica arquitectura mudéjar de la Iglesia de Nuestra Señora de la Asunción y el histórico Palacio de San Juan. Almuerza en un restaurante local. Por la tarde, sumérgete en la quietud del Convento de San Lorenzo antes de descubrir la Casa de la Cultura y el singular Museo de los Juegos Tradicionales. Termina el día con un paseo tranquilo hasta la Ermita de Cabañas."
       },
       "gastro_picks": {
         "de": [
@@ -349,6 +364,12 @@
           "Carry water with you, especially during the warmer months.",
           "Most of the main sights are located close to each other.",
           "Check the opening hours for museums and churches in advance."
+        ],
+        "es": [
+          "Lleva calzado cómodo, ya que caminarás mucho.",
+          "Lleva agua contigo, especialmente en los meses más cálidos.",
+          "La mayoría de los principales lugares están cerca unos de otros.",
+          "Consulta los horarios de apertura de museos e iglesias con antelación."
         ]
       }
     },
@@ -365,7 +386,8 @@
             "de": "Plaza de los Herederos",
             "hu": "Plaza de los Herederos",
             "ro": "Plaza de los Herederos",
-            "en": "Plaza de los Herederos"
+            "en": "Plaza de los Herederos",
+            "es": "Plaza de los Herederos"
           },
           "coords": [
             -1.3742,
@@ -381,7 +403,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie die Atmosphäre des Hauptplatzes.",
             "hu": "Zárja le a biciklit, és élvezze a főtér hangulatát.",
             "ro": "Parcați bicicleta și bucurați-vă de atmosfera pieței principale.",
-            "en": "Lock up your bike and enjoy the atmosphere of the main square."
+            "en": "Lock up your bike and enjoy the atmosphere of the main square.",
+            "es": "Asegura tu bicicleta y disfruta del ambiente de la plaza principal."
           }
         },
         {
@@ -389,7 +412,8 @@
             "de": "Kirche Nuestra Señora de la Asunción",
             "hu": "Nuestra Señora de la Asunción templom",
             "ro": "Biserica Nuestra Señora de la Asunción",
-            "en": "Church of Nuestra Señora de la Asunción"
+            "en": "Church of Nuestra Señora de la Asunción",
+            "es": "Iglesia de Nuestra Señora de la Asunción"
           },
           "coords": [
             -1.375,
@@ -405,7 +429,8 @@
             "de": "Ein kurzer Aufstieg, der sich für die Aussicht und die Architektur lohnt.",
             "hu": "Egy rövid emelkedő, ami megéri a kilátásért és az építészetért.",
             "ro": "O urcare scurtă care merită pentru priveliște și arhitectură.",
-            "en": "A short climb that's worth it for the views and the architecture."
+            "en": "A short climb that's worth it for the views and the architecture.",
+            "es": "Una subida corta que merece la pena por las vistas y la arquitectura."
           }
         },
         {
@@ -413,7 +438,8 @@
             "de": "Museum für traditionelle Spiele",
             "hu": "Hagyományos Játékok Múzeuma",
             "ro": "Muzeul Jocurilor Tradiționale",
-            "en": "Museum of Traditional Games"
+            "en": "Museum of Traditional Games",
+            "es": "Museo de los Juegos Tradicionales"
           },
           "coords": [
             -1.38,
@@ -429,7 +455,8 @@
             "de": "Eine interaktive Pause auf Ihrer Radtour.",
             "hu": "Egy interaktív szünet a biciklitúrán.",
             "ro": "O pauză interactivă în turul cu bicicleta.",
-            "en": "An interactive break on your cycling tour."
+            "en": "An interactive break on your cycling tour.",
+            "es": "Una pausa interactiva en tu ruta en bicicleta."
           }
         },
         {
@@ -437,7 +464,8 @@
             "de": "Ermita de Cabañas",
             "hu": "Cabañasi Remetekápolna",
             "ro": "Schitul Cabañas",
-            "en": "Hermitage of Cabañas"
+            "en": "Hermitage of Cabañas",
+            "es": "Ermita de Cabañas"
           },
           "coords": [
             -1.388,
@@ -453,7 +481,8 @@
             "de": "Der perfekte Ort für eine ruhige Pause außerhalb der Stadt.",
             "hu": "Tökéletes hely egy csendes pihenőre a városon kívül.",
             "ro": "Locul perfect pentru o pauză liniștită în afara orașului.",
-            "en": "The perfect spot for a quiet break outside the town."
+            "en": "The perfect spot for a quiet break outside the town.",
+            "es": "El lugar perfecto para un descanso tranquilo fuera del pueblo."
           }
         },
         {
@@ -461,7 +490,8 @@
             "de": "Landwirtschaftliche Landschaft",
             "hu": "Mezőgazdasági táj",
             "ro": "Peisaj agricol",
-            "en": "Agricultural Landscape"
+            "en": "Agricultural Landscape",
+            "es": "Paisaje agrícola"
           },
           "coords": [
             -1.4,
@@ -477,7 +507,8 @@
             "de": "Machen Sie eine Mittagspause mit Blick auf die berühmten Obstgärten der Region.",
             "hu": "Tartson ebédszünetet a régió híres gyümölcsöseire néző kilátással.",
             "ro": "Luați o pauză de prânz cu vedere la celebrele livezi din regiune.",
-            "en": "Take a lunch break overlooking the region's famous fruit orchards."
+            "en": "Take a lunch break overlooking the region's famous fruit orchards.",
+            "es": "Haz una pausa para comer con vistas a los famosos huertos de la región."
           }
         },
         {
@@ -485,7 +516,8 @@
             "de": "Cine-Teatro Salón Blanco",
             "hu": "Cine-Teatro Salón Blanco",
             "ro": "Cine-Teatro Salón Blanco",
-            "en": "Cine-Teatro Salón Blanco"
+            "en": "Cine-Teatro Salón Blanco",
+            "es": "Cine-Teatro Salón Blanco"
           },
           "coords": [
             -1.3725,
@@ -501,7 +533,8 @@
             "de": "Bewundern Sie die Jugendstil-Fassade, ein architektonisches Juwel.",
             "hu": "Csodálja meg a szecessziós homlokzatot, egy építészeti gyöngyszemet.",
             "ro": "Admirați fațada Art Nouveau, o bijuterie arhitecturală.",
-            "en": "Admire the Art Nouveau façade, an architectural gem."
+            "en": "Admire the Art Nouveau façade, an architectural gem.",
+            "es": "Admira la fachada modernista, una joya arquitectónica."
           }
         }
       ],
@@ -509,7 +542,8 @@
         "de": "Schwingen Sie sich aufs Rad und beginnen Sie den Tag auf der Plaza de los Herederos. Radeln Sie zur Kirche Nuestra Señora de la Asunción und genießen Sie die Aussicht. Am Vormittag besuchen Sie das Museum für traditionelle Spiele und fahren weiter zur ruhigen Ermita de Cabañas. Machen Sie eine Mittagspause in der Natur mit Blick auf die Obstgärten. Am Nachmittag kehren Sie ins Zentrum zurück, um das architektonische Juwel des Cine-Teatro Salón Blanco zu bewundern, bevor Sie Ihren Tag ausklingen lassen.",
         "hu": "Pattanjon biciklire, és kezdje a napot a Plaza de los Herederoson. Tekerjen fel a Nuestra Señora de la Asunción templomhoz, és élvezze a kilátást. Délelőtt látogasson el a Hagyományos Játékok Múzeumába, majd folytassa útját a békés Ermita de Cabañas felé. Tartson ebédszünetet a természetben, a gyümölcsösökre néző kilátással. Délután térjen vissza a központba, hogy megcsodálja a Cine-Teatro Salón Blanco építészeti gyöngyszemét, mielőtt befejezi a napot.",
         "ro": "Urcați-vă pe bicicletă și începeți ziua în Plaza de los Herederos. Pedalați până la Biserica Nuestra Señora de la Asunción pentru a admira priveliștea. Dimineața, vizitați Muzeul Jocurilor Tradiționale și continuați spre liniștitul Schit Cabañas. Luați o pauză de prânz în natură, cu vedere la livezi. După-amiaza, reveniți în centru pentru a admira bijuteria arhitecturală a Cine-Teatro Salón Blanco înainte de a încheia ziua.",
-        "en": "Hop on your bike and start the day at Plaza de los Herederos. Cycle up to the Church of Nuestra Señora de la Asunción for the views. In the morning, visit the Museum of Traditional Games and continue to the peaceful Hermitage of Cabañas. Take a lunch break surrounded by nature overlooking the orchards. In the afternoon, return to the center to admire the architectural gem of Cine-Teatro Salón Blanco before ending your day."
+        "en": "Hop on your bike and start the day at Plaza de los Herederos. Cycle up to the Church of Nuestra Señora de la Asunción for the views. In the morning, visit the Museum of Traditional Games and continue to the peaceful Hermitage of Cabañas. Take a lunch break surrounded by nature overlooking the orchards. In the afternoon, return to the center to admire the architectural gem of Cine-Teatro Salón Blanco before ending your day.",
+        "es": "Súbete a tu bicicleta y empieza el día en la Plaza de los Herederos. Pedalea hasta la Iglesia de Nuestra Señora de la Asunción para disfrutar de las vistas. Por la mañana, visita el Museo de los Juegos Tradicionales y continúa hasta la tranquila Ermita de Cabañas. Haz una pausa para comer rodeado de naturaleza con vistas a los huertos. Por la tarde, regresa al centro para admirar la joya arquitectónica del Cine-Teatro Salón Blanco antes de terminar el día."
       },
       "gastro_picks": {
         "de": [
@@ -669,6 +703,12 @@
           "Always lock your bike securely.",
           "The rural roads can be uneven, be careful.",
           "A helmet is highly recommended."
+        ],
+        "es": [
+          "El pueblo es relativamente llano, pero hay algunas subidas hasta los puntos de interés.",
+          "Siempre asegura bien tu bicicleta.",
+          "Los caminos rurales pueden ser irregulares; ten cuidado.",
+          "Se recomienda encarecidamente llevar casco."
         ]
       }
     },
@@ -685,7 +725,8 @@
             "de": "Ermita de Cabañas",
             "hu": "Cabañasi Remetekápolna",
             "ro": "Schitul Cabañas",
-            "en": "Hermitage of Cabañas"
+            "en": "Hermitage of Cabañas",
+            "es": "Ermita de Cabañas"
           },
           "coords": [
             -1.388,
@@ -701,7 +742,8 @@
             "de": "Beginnen Sie Ihren Tag an diesem ruhigen Ort mit guter Parkmöglichkeit.",
             "hu": "Kezdje a napot ezen a csendes helyen, ahol jó a parkolás.",
             "ro": "Începeți ziua în acest loc liniștit cu parcare bună.",
-            "en": "Start your day at this peaceful spot with good parking."
+            "en": "Start your day at this peaceful spot with good parking.",
+            "es": "Comienza el día en este lugar tranquilo con buen aparcamiento."
           }
         },
         {
@@ -709,7 +751,8 @@
             "de": "Parkplatz Zentrum",
             "hu": "Központi Parkoló",
             "ro": "Parcare Centrală",
-            "en": "Central Parking"
+            "en": "Central Parking",
+            "es": "Aparcamiento central"
           },
           "coords": [
             -1.373,
@@ -725,7 +768,8 @@
             "de": "Parken Sie hier und erkunden Sie den Rest des historischen Zentrums zu Fuß.",
             "hu": "Parkoljon le itt, és fedezze fel a történelmi központ többi részét gyalog.",
             "ro": "Parcați aici și explorați restul centrului istoric pe jos.",
-            "en": "Park here and explore the rest of the historic center on foot."
+            "en": "Park here and explore the rest of the historic center on foot.",
+            "es": "Aparca aquí y explora el resto del casco histórico a pie."
           }
         },
         {
@@ -733,7 +777,8 @@
             "de": "Plaza de los Herederos",
             "hu": "Plaza de los Herederos",
             "ro": "Plaza de los Herederos",
-            "en": "Plaza de los Herederos"
+            "en": "Plaza de los Herederos",
+            "es": "Plaza de los Herederos"
           },
           "coords": [
             -1.3742,
@@ -749,7 +794,8 @@
             "de": "Der lebhafte Treffpunkt der Stadt.",
             "hu": "A város nyüzsgő találkozóhelye.",
             "ro": "Punctul de întâlnire vibrant al orașului.",
-            "en": "The town's vibrant meeting point."
+            "en": "The town's vibrant meeting point.",
+            "es": "El animado punto de encuentro del pueblo."
           }
         },
         {
@@ -757,7 +803,8 @@
             "de": "Kirche Nuestra Señora de la Asunción",
             "hu": "Nuestra Señora de la Asunción templom",
             "ro": "Biserica Nuestra Señora de la Asunción",
-            "en": "Church of Nuestra Señora de la Asunción"
+            "en": "Church of Nuestra Señora de la Asunción",
+            "es": "Iglesia de Nuestra Señora de la Asunción"
           },
           "coords": [
             -1.375,
@@ -773,7 +820,8 @@
             "de": "Ein Muss wegen seiner beeindruckenden Mudejar-Architektur.",
             "hu": "Kötelező látnivaló a lenyűgöző mudéjar építészete miatt.",
             "ro": "O vizită obligatorie pentru arhitectura sa impresionantă mudejară.",
-            "en": "A must-see for its impressive Mudéjar architecture."
+            "en": "A must-see for its impressive Mudéjar architecture.",
+            "es": "Imprescindible por su impresionante arquitectura mudéjar."
           }
         },
         {
@@ -781,7 +829,8 @@
             "de": "Palast von San Juan",
             "hu": "San Juan palota",
             "ro": "Palatul San Juan",
-            "en": "Palace of San Juan"
+            "en": "Palace of San Juan",
+            "es": "Palacio de San Juan"
           },
           "coords": [
             -1.3758,
@@ -797,7 +846,8 @@
             "de": "Erfahren Sie mehr über die Geschichte des Johanniterordens in der Region.",
             "hu": "Ismerje meg a Johannita Rend történetét a régióban.",
             "ro": "Aflați despre istoria Ordinului Ospitalierilor în regiune.",
-            "en": "Learn about the history of the Order of Saint John in the region."
+            "en": "Learn about the history of the Order of Saint John in the region.",
+            "es": "Conoce la historia de la Orden de San Juan en la región."
           }
         },
         {
@@ -805,7 +855,8 @@
             "de": "Museum für traditionelle Spiele",
             "hu": "Hagyományos Játékok Múzeuma",
             "ro": "Muzeul Jocurilor Tradiționale",
-            "en": "Museum of Traditional Games"
+            "en": "Museum of Traditional Games",
+            "es": "Museo de los Juegos Tradicionales"
           },
           "coords": [
             -1.38,
@@ -821,7 +872,8 @@
             "de": "Fahren Sie zum Museum und lassen Sie sich in Ihre Kindheit zurückversetzen.",
             "hu": "Vezessen el a múzeumhoz, és utazzon vissza a gyerekkorába.",
             "ro": "Conduceți la muzeu pentru o călătorie înapoi în copilărie.",
-            "en": "Drive to the museum for a trip back to your childhood."
+            "en": "Drive to the museum for a trip back to your childhood.",
+            "es": "Conduce hasta el museo para un viaje de vuelta a tu infancia."
           }
         },
         {
@@ -829,7 +881,8 @@
             "de": "Aussichtspunkt auf die Obstgärten",
             "hu": "Kilátópont a gyümölcsösökre",
             "ro": "Punct de belvedere spre livezi",
-            "en": "Orchards Viewpoint"
+            "en": "Orchards Viewpoint",
+            "es": "Mirador de los Huertos"
           },
           "coords": [
             -1.35,
@@ -845,7 +898,8 @@
             "de": "Beenden Sie den Tag mit einem Panoramablick auf die Landschaft, die La Almunia berühmt macht.",
             "hu": "Zárja a napot egy panorámás kilátással a tájra, amely híressé teszi La Almuniát.",
             "ro": "Încheiați ziua cu o vedere panoramică a peisajului care face faimos La Almunia.",
-            "en": "End your day with a panoramic view of the landscape that makes La Almunia famous."
+            "en": "End your day with a panoramic view of the landscape that makes La Almunia famous.",
+            "es": "Termina el día con una vista panorámica del paisaje que hace famosa a La Almunia."
           }
         }
       ],
@@ -853,7 +907,8 @@
         "de": "Beginnen Sie Ihren Tag mit dem Auto bei der ruhigen Ermita de Cabañas. Fahren Sie dann ins Zentrum, parken Sie Ihr Auto und erkunden Sie den historischen Kern zu Fuß: die Plaza de los Herederos, die prächtige Kirche und den Palast San Juan. Nach dem Mittagessen fahren Sie zum einzigartigen Museum für traditionelle Spiele. Schließen Sie Ihren Ausflug mit einer kurzen Fahrt zu einem Aussichtspunkt ab, von dem aus Sie die berühmten Obstgärten der Region bei Sonnenuntergang bewundern können.",
         "hu": "Kezdje a napot autóval a békés Ermita de Cabañas-nál. Ezután hajtson be a központba, parkolja le az autót, és fedezze fel gyalog a történelmi magot: a Plaza de los Herederost, a csodálatos templomot és a San Juan palotát. Ebéd után vezessen el az egyedülálló Hagyományos Játékok Múzeumához. Zárja a kirándulást egy rövid autózással egy kilátóponthoz, ahonnan naplementekor megcsodálhatja a régió híres gyümölcsöseit.",
         "ro": "Începeți ziua cu mașina la liniștitul Schit Cabañas. Apoi, conduceți spre centru, parcați mașina și explorați nucleul istoric pe jos: Plaza de los Herederos, biserica magnifică și Palatul San Juan. După prânz, conduceți la unicul Muzeu al Jocurilor Tradiționale. Încheiați excursia cu o scurtă călătorie cu mașina la un punct de belvedere pentru a admira faimoasele livezi ale regiunii la apus.",
-        "en": "Start your day by car at the peaceful Hermitage of Cabañas. Then, drive to the center, park your car, and explore the historic core on foot: Plaza de los Herederos, the magnificent church, and the Palace of San Juan. After lunch, drive to the unique Museum of Traditional Games. End your trip with a short drive to a viewpoint to admire the region's famous orchards at sunset."
+        "en": "Start your day by car at the peaceful Hermitage of Cabañas. Then, drive to the center, park your car, and explore the historic core on foot: Plaza de los Herederos, the magnificent church, and the Palace of San Juan. After lunch, drive to the unique Museum of Traditional Games. End your trip with a short drive to a viewpoint to admire the region's famous orchards at sunset.",
+        "es": "Comienza el día en coche en la tranquila Ermita de Cabañas. Después, conduce al centro, aparca y recorre a pie el casco histórico: Plaza de los Herederos, la magnífica iglesia y el Palacio de San Juan. Tras almorzar, conduce hasta el singular Museo de los Juegos Tradicionales. Termina la excursión con una breve conducción hasta un mirador para admirar los famosos huertos de la región al atardecer."
       },
       "gastro_picks": {
         "de": [
@@ -1013,6 +1068,12 @@
           "Driving is the best way to explore the surrounding countryside.",
           "Be aware of agricultural vehicles on the back roads.",
           "Plan your route in advance as mobile signal can be patchy in the countryside."
+        ],
+        "es": [
+          "Aparcar en el centro puede ser difícil; usa los aparcamientos señalizados.",
+          "Conducir es la mejor manera de explorar el campo circundante.",
+          "Ten cuidado con los vehículos agrícolas en las vías secundarias.",
+          "Planifica tu ruta con antelación, ya que la cobertura móvil puede ser irregular en el campo."
         ]
       }
     },
@@ -1029,7 +1090,8 @@
             "de": "Zentraler Busbahnhof",
             "hu": "Központi buszpályaudvar",
             "ro": "Autogara Centrală",
-            "en": "Central Bus Station"
+            "en": "Central Bus Station",
+            "es": "Estación central de autobuses"
           },
           "coords": [
             -1.371,
@@ -1045,7 +1107,8 @@
             "de": "Beginnen Sie hier, dem Knotenpunkt für alle lokalen und regionalen Buslinien.",
             "hu": "Kezdje itt, a helyi és regionális buszjáratok csomópontjánál.",
             "ro": "Începeți de aici, nodul pentru toate liniile de autobuz locale și regionale.",
-            "en": "Start here, the hub for all local and regional bus lines."
+            "en": "Start here, the hub for all local and regional bus lines.",
+            "es": "Comienza aquí, es el nudo de todas las líneas de autobús locales y regionales."
           }
         },
         {
@@ -1053,7 +1116,8 @@
             "de": "Plaza de los Herederos",
             "hu": "Plaza de los Herederos",
             "ro": "Plaza de los Herederos",
-            "en": "Plaza de los Herederos"
+            "en": "Plaza de los Herederos",
+            "es": "Plaza de los Herederos"
           },
           "coords": [
             -1.3742,
@@ -1069,7 +1133,8 @@
             "de": "Ein kurzer Spaziergang vom Busbahnhof zum Herzen der Stadt.",
             "hu": "Egy rövid séta a buszpályaudvartól a város szívéig.",
             "ro": "O scurtă plimbare de la autogară până în inima orașului.",
-            "en": "A short walk from the bus station to the heart of the town."
+            "en": "A short walk from the bus station to the heart of the town.",
+            "es": "A poca distancia a pie desde la estación de autobuses hasta el corazón del pueblo."
           }
         },
         {
@@ -1077,7 +1142,8 @@
             "de": "Kirche Nuestra Señora de la Asunción",
             "hu": "Nuestra Señora de la Asunción templom",
             "ro": "Biserica Nuestra Señora de la Asunción",
-            "en": "Church of Nuestra Señora de la Asunción"
+            "en": "Church of Nuestra Señora de la Asunción",
+            "es": "Iglesia de Nuestra Señora de la Asunción"
           },
           "coords": [
             -1.375,
@@ -1093,7 +1159,8 @@
             "de": "Leicht zu Fuß vom Platz aus erreichbar.",
             "hu": "Könnyen megközelíthető gyalog a térről.",
             "ro": "Ușor de accesat pe jos din piață.",
-            "en": "Easily accessible on foot from the square."
+            "en": "Easily accessible on foot from the square.",
+            "es": "Fácilmente accesible a pie desde la plaza."
           }
         },
         {
@@ -1101,7 +1168,8 @@
             "de": "Konvent San Lorenzo",
             "hu": "San Lorenzo kolostor",
             "ro": "Mănăstirea San Lorenzo",
-            "en": "Convent of San Lorenzo"
+            "en": "Convent of San Lorenzo",
+            "es": "Convento de San Lorenzo"
           },
           "coords": [
             -1.372,
@@ -1117,7 +1185,8 @@
             "de": "Ein weiterer kurzer Spaziergang zu einem Ort der Ruhe.",
             "hu": "Egy újabb rövid séta a nyugalom egyik helyszínére.",
             "ro": "O altă plimbare scurtă către un loc de liniște.",
-            "en": "Another short walk to a place of tranquility."
+            "en": "Another short walk to a place of tranquility.",
+            "es": "Otra corta caminata hasta un lugar de tranquilidad."
           }
         },
         {
@@ -1125,7 +1194,8 @@
             "de": "Museum für traditionelle Spiele (Bushaltestelle)",
             "hu": "Hagyományos Játékok Múzeuma (buszmegálló)",
             "ro": "Muzeul Jocurilor Tradiționale (stație de autobuz)",
-            "en": "Museum of Traditional Games (Bus Stop)"
+            "en": "Museum of Traditional Games (Bus Stop)",
+            "es": "Museo de los Juegos Tradicionales (Parada de autobús)"
           },
           "coords": [
             -1.3805,
@@ -1141,7 +1211,8 @@
             "de": "Nehmen Sie einen lokalen Bus, der Sie in die Nähe des Museums bringt. Planen Sie hier Ihre Mittagspause.",
             "hu": "Menjen egy helyi busszal, amely a múzeum közelébe visz. Tervezze ide az ebédszünetet.",
             "ro": "Luați un autobuz local care vă duce aproape de muzeu. Planificați-vă pauza de prânz aici.",
-            "en": "Take a local bus to get close to the museum. Plan your lunch break around here."
+            "en": "Take a local bus to get close to the museum. Plan your lunch break around here.",
+            "es": "Toma un autobús local para acercarte al museo. Planifica aquí tu pausa para comer."
           }
         },
         {
@@ -1149,7 +1220,8 @@
             "de": "Cine-Teatro Salón Blanco",
             "hu": "Cine-Teatro Salón Blanco",
             "ro": "Cine-Teatro Salón Blanco",
-            "en": "Cine-Teatro Salón Blanco"
+            "en": "Cine-Teatro Salón Blanco",
+            "es": "Cine-Teatro Salón Blanco"
           },
           "coords": [
             -1.3725,
@@ -1165,7 +1237,8 @@
             "de": "Beenden Sie Ihre Tour mit einer Busfahrt zurück ins Zentrum, um dieses Juwel zu sehen.",
             "hu": "Fejezze be a túrát egy buszúttal vissza a központba, hogy megnézze ezt a gyöngyszemet.",
             "ro": "Încheiați turul cu o călătorie cu autobuzul înapoi în centru pentru a vedea această bijuterie.",
-            "en": "End your tour with a bus ride back to the center to see this gem."
+            "en": "End your tour with a bus ride back to the center to see this gem.",
+            "es": "Termina tu ruta con un autobús de regreso al centro para ver esta joya."
           }
         }
       ],
@@ -1173,7 +1246,8 @@
         "de": "Starten Sie am zentralen Busbahnhof und spazieren Sie ins Herz der Stadt, zur Plaza de los Herederos. Erkunden Sie am Vormittag zu Fuß die Kirche und das Konvent. Nach einem kurzen Spaziergang nehmen Sie einen Bus zum Museum für traditionelle Spiele, wo Sie auch zu Mittag essen können. Am Nachmittag bringt Sie ein weiterer Bus zurück ins Zentrum, um das Cine-Teatro zu bewundern, bevor Sie Ihre Heimreise antreten.",
         "hu": "Induljon a központi buszpályaudvarról, és sétáljon be a város szívébe, a Plaza de los Herederosra. Délelőtt fedezze fel gyalog a templomot és a kolostort. Egy rövid séta után szálljon buszra a Hagyományos Játékok Múzeumához, ahol ebédelni is tud. Délután egy másik busz visszaviszi a központba, hogy megcsodálhassa a Cine-Teatrót, mielőtt hazaindulna.",
         "ro": "Porniți de la autogara centrală și plimbați-vă în inima orașului, la Plaza de los Herederos. Explorați biserica și mănăstirea pe jos dimineața. După o scurtă plimbare, luați un autobuz spre Muzeul Jocurilor Tradiționale, unde puteți lua și prânzul. După-amiaza, un alt autobuz vă va duce înapoi în centru pentru a admira Cine-Teatro înainte de a vă întoarce acasă.",
-        "en": "Start at the central bus station and walk to the heart of the town, Plaza de los Herederos. Explore the church and the convent on foot in the morning. After a short walk, take a bus to the Museum of Traditional Games, where you can also have lunch. In the afternoon, another bus will take you back to the center to admire the Cine-Teatro before heading home."
+        "en": "Start at the central bus station and walk to the heart of the town, Plaza de los Herederos. Explore the church and the convent on foot in the morning. After a short walk, take a bus to the Museum of Traditional Games, where you can also have lunch. In the afternoon, another bus will take you back to the center to admire the Cine-Teatro before heading home.",
+        "es": "Comienza en la estación central de autobuses y camina hasta el corazón del pueblo, la Plaza de los Herederos. Explora la iglesia y el convento a pie por la mañana. Tras una corta caminata, toma un autobús al Museo de los Juegos Tradicionales, donde también puedes almorzar. Por la tarde, otro autobús te llevará de vuelta al centro para admirar el Cine-Teatro antes de volver a casa."
       },
       "gastro_picks": {
         "de": [
@@ -1333,6 +1407,12 @@
           "Bus schedules can vary, so check in advance.",
           "Download the local public transport app if available.",
           "Keep an eye on your belongings on the bus and at stops."
+        ],
+        "es": [
+          "Compra un abono diario si piensas hacer varios viajes.",
+          "Los horarios de los autobuses pueden variar; compruébalos con antelación.",
+          "Descarga la app de transporte público local si está disponible.",
+          "Vigila tus pertenencias en el autobús y en las paradas."
         ]
       }
     }

@@ -31,7 +31,8 @@
             "de": "Besuchen Sie die traditionellen Konditoreien früh am Morgen.",
             "hu": "Látogass el a hagyományos cukrászdákba korán reggel.",
             "ro": "Vizitați patiseriile tradiționale dis-de-dimineață.",
-            "en": "Visit the traditional pastry shops early in the morning."
+            "en": "Visit the traditional pastry shops early in the morning.",
+            "es": "Visita las pastelerías tradicionales temprano por la mañana."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Ein großartiger Ort für einen zweiten Espresso im Schatten.",
             "hu": "Remek hely egy második eszpresszóhoz az árnyékban.",
             "ro": "Un loc minunat pentru un al doilea espresso la umbră.",
-            "en": "A great spot for a second espresso in the shade."
+            "en": "A great spot for a second espresso in the shade.",
+            "es": "Un gran lugar para un segundo espresso a la sombra."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Das Wahrzeichen, das der Stadt ihren Namen gab (Torre de los Molinos).",
             "hu": "A jelkép, amely a város nevét adta (Torre de los Molinos).",
             "ro": "Simbolul care a dat numele orașului (Torre de los Molinos).",
-            "en": "The landmark that gave the city its name (Torre de los Molinos)."
+            "en": "The landmark that gave the city its name (Torre de los Molinos).",
+            "es": "El hito que dio nombre a la ciudad (Torre de los Molinos)."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Ein Juwel des Neo-Mudéjar-Stils mit Blick auf das Meer.",
             "hu": "A neo-mudéjar stílus ékköve, kilátással a tengerre.",
             "ro": "O bijuterie a stilului neo-mudéjar cu vedere la mare.",
-            "en": "A jewel of Neo-Mudéjar style with views over the sea."
+            "en": "A jewel of Neo-Mudéjar style with views over the sea.",
+            "es": "Una joya de estilo neomudéjar con vistas al mar."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Probieren Sie die berühmten Espetos (Sardinenspieße) in einem Chiringuito.",
             "hu": "Kóstold meg a híres espetost (nyárson sült szardínia) egy chiringuitóban.",
             "ro": "Încercați faimoasele espetos (sardine pe frigăruie) la un chiringuito.",
-            "en": "Try the famous espetos (sardine skewers) at a chiringuito."
+            "en": "Try the famous espetos (sardine skewers) at a chiringuito.",
+            "es": "Prueba los famosos espetos en un chiringuito."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Ein Muss-Foto zur Ehrung des Tourismus-Pioniergeistes.",
             "hu": "Kihagyhatatlan fotó a turizmus úttörő szellemének tiszteletére.",
             "ro": "O fotografie obligatorie în onoarea spiritului de pionierat în turism.",
-            "en": "A must-have photo honoring the pioneering spirit of tourism."
+            "en": "A must-have photo honoring the pioneering spirit of tourism.",
+            "es": "Una foto obligada en honor al espíritu pionero del turismo."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Ihr Tag beginnt im lebhaften Zentrum, wo die Calle San Miguel zum Bummeln einlädt. Entdecken Sie die historische Torre de Pimentel, bevor Sie die prächtige Casa de los Navajas bewundern. Mittags entspannen Sie im Viertel La Carihuela, berühmt für seine Fischtradition. Der Nachmittag gehört dem Strand und dem Denkmal, das Torremolinos als Wiege des Tourismus feiert.",
         "hu": "A napod a nyüzsgő központban indul, ahol a Calle San Miguel hívogat sétára. Fedezd fel a történelmi Torre de Pimentelt, majd csodáld meg a pompás Casa de los Navajast. Délben La Carihuela negyedében pihenhetsz, amely halászati hagyományairól híres. A délután a strandé és az emlékművé, amely Torremolinost a turizmus bölcsőjeként élteti.",
         "ro": "Ziua începe în centrul plin de viață, unde Calle San Miguel vă invită la plimbare. Descoperiți istoricul Torre de Pimentel înainte de a admira superba Casa de los Navajas. La prânz, relaxați-vă în cartierul La Carihuela, faimos pentru tradiția sa pescărească. După-amiaza aparține plajei și monumentului care celebrează Torremolinos ca leagăn al turismului.",
-        "en": "Your day starts in the vibrant center, where Calle San Miguel invites you for a stroll. Discover the historic Torre de Pimentel before admiring the magnificent Casa de los Navajas. At midday, relax in the La Carihuela district, famous for its fishing tradition. The afternoon belongs to the beach and the monument celebrating Torremolinos as the cradle of tourism."
+        "en": "Your day starts in the vibrant center, where Calle San Miguel invites you for a stroll. Discover the historic Torre de Pimentel before admiring the magnificent Casa de los Navajas. At midday, relax in the La Carihuela district, famous for its fishing tradition. The afternoon belongs to the beach and the monument celebrating Torremolinos as the cradle of tourism.",
+        "es": "Tu día comienza en el vibrante centro, donde la Calle San Miguel invita a pasear. Descubre la histórica Torre de Pimentel antes de admirar la magnífica Casa de los Navajas. Al mediodía, relájate en el barrio de La Carihuela, famoso por su tradición pesquera. La tarde es para la playa y el monumento que celebra a Torremolinos como cuna del turismo."
       },
       "gastro_picks": {
         "de": [
@@ -289,6 +296,12 @@
           "Use the elevator between the center and the beach (Bajondillo).",
           "La Carihuela gets very crowded on weekends, book tables in advance.",
           "Casa de los Navajas is often closed for weddings, check the schedule."
+        ],
+        "es": [
+          "Lleva calzado cómodo, ya que el centro está en una colina.",
+          "Utiliza el ascensor entre el centro y la playa (Bajondillo).",
+          "La Carihuela se llena mucho los fines de semana; reserva mesa con antelación.",
+          "La Casa de los Navajas suele cerrarse por bodas; consulta el horario."
         ]
       },
       "variants": {
@@ -297,7 +310,8 @@
             "de": "Ihr Tag beginnt im lebhaften Zentrum, wo die Calle San Miguel zum Bummeln einlädt. Entdecken Sie die historische Torre de Pimentel, bevor Sie die prächtige Casa de los Navajas bewundern. Mittags entspannen Sie im Viertel La Carihuela, berühmt für seine Fischtradition. Der Nachmittag gehört dem Strand und dem Denkmal, das Torremolinos als Wiege des Tourismus feiert.",
             "hu": "A napod a nyüzsgő központban indul, ahol a Calle San Miguel hívogat sétára. Fedezd fel a történelmi Torre de Pimentelt, majd csodáld meg a pompás Casa de los Navajast. Délben La Carihuela negyedében pihenhetsz, amely halászati hagyományairól híres. A délután a strandé és az emlékművé, amely Torremolinost a turizmus bölcsőjeként élteti.",
             "ro": "Ziua începe în centrul plin de viață, unde Calle San Miguel vă invită la plimbare. Descoperiți istoricul Torre de Pimentel înainte de a admira superba Casa de los Navajas. La prânz, relaxați-vă în cartierul La Carihuela, faimos pentru tradiția sa pescărească. După-amiaza aparține plajei și monumentului care celebrează Torremolinos ca leagăn al turismului.",
-            "en": "Your day starts in the vibrant center, where Calle San Miguel invites you for a stroll. Discover the historic Torre de Pimentel before admiring the magnificent Casa de los Navajas. At midday, relax in the La Carihuela district, famous for its fishing tradition. The afternoon belongs to the beach and the monument celebrating Torremolinos as the cradle of tourism."
+            "en": "Your day starts in the vibrant center, where Calle San Miguel invites you for a stroll. Discover the historic Torre de Pimentel before admiring the magnificent Casa de los Navajas. At midday, relax in the La Carihuela district, famous for its fishing tradition. The afternoon belongs to the beach and the monument celebrating Torremolinos as the cradle of tourism.",
+            "es": "Tu día comienza en el vibrante centro, donde la Calle San Miguel invita a pasear. Descubre la histórica Torre de Pimentel antes de admirar la magnífica Casa de los Navajas. Al mediodía, relájate en el barrio de La Carihuela, famoso por su tradición pesquera. La tarde es para la playa y el monumento que celebra a Torremolinos como cuna del turismo."
           },
           "stops": [
             {
@@ -306,7 +320,8 @@
                 "de": "Besuchen Sie die traditionellen Konditoreien früh am Morgen.",
                 "hu": "Látogass el a hagyományos cukrászdákba korán reggel.",
                 "ro": "Vizitați patiseriile tradiționale dis-de-dimineață.",
-                "en": "Visit the traditional pastry shops early in the morning."
+                "en": "Visit the traditional pastry shops early in the morning.",
+                "es": "Visita las pastelerías tradicionales temprano por la mañana."
               }
             },
             {
@@ -315,7 +330,8 @@
                 "de": "Ein großartiger Ort für einen zweiten Espresso im Schatten.",
                 "hu": "Remek hely egy második eszpresszóhoz az árnyékban.",
                 "ro": "Un loc minunat pentru un al doilea espresso la umbră.",
-                "en": "A great spot for a second espresso in the shade."
+                "en": "A great spot for a second espresso in the shade.",
+                "es": "Un gran lugar para un segundo espresso a la sombra."
               }
             },
             {
@@ -324,7 +340,8 @@
                 "de": "Das Wahrzeichen, das der Stadt ihren Namen gab (Torre de los Molinos).",
                 "hu": "A jelkép, amely a város nevét adta (Torre de los Molinos).",
                 "ro": "Simbolul care a dat numele orașului (Torre de los Molinos).",
-                "en": "The landmark that gave the city its name (Torre de los Molinos)."
+                "en": "The landmark that gave the city its name (Torre de los Molinos).",
+                "es": "El hito que dio nombre a la ciudad (Torre de los Molinos)."
               }
             },
             {
@@ -333,7 +350,8 @@
                 "de": "Ein Juwel des Neo-Mudéjar-Stils mit Blick auf das Meer.",
                 "hu": "A neo-mudéjar stílus ékköve, kilátással a tengerre.",
                 "ro": "O bijuterie a stilului neo-mudéjar cu vedere la mare.",
-                "en": "A jewel of Neo-Mudéjar style with views over the sea."
+                "en": "A jewel of Neo-Mudéjar style with views over the sea.",
+                "es": "Una joya de estilo neomudéjar con vistas al mar."
               }
             },
             {
@@ -342,7 +360,8 @@
                 "de": "Probieren Sie die berühmten Espetos (Sardinenspieße) in einem Chiringuito.",
                 "hu": "Kóstold meg a híres espetost (nyárson sült szardínia) egy chiringuitóban.",
                 "ro": "Încercați faimoasele espetos (sardine pe frigăruie) la un chiringuito.",
-                "en": "Try the famous espetos (sardine skewers) at a chiringuito."
+                "en": "Try the famous espetos (sardine skewers) at a chiringuito.",
+                "es": "Prueba los famosos espetos en un chiringuito."
               }
             },
             {
@@ -351,7 +370,8 @@
                 "de": "Ein Muss-Foto zur Ehrung des Tourismus-Pioniergeistes.",
                 "hu": "Kihagyhatatlan fotó a turizmus úttörő szellemének tiszteletére.",
                 "ro": "O fotografie obligatorie în onoarea spiritului de pionierat în turism.",
-                "en": "A must-have photo honoring the pioneering spirit of tourism."
+                "en": "A must-have photo honoring the pioneering spirit of tourism.",
+                "es": "Una foto obligada en honor al espíritu pionero del turismo."
               }
             }
           ],
@@ -513,6 +533,12 @@
               "Use the elevator between the center and the beach (Bajondillo).",
               "La Carihuela gets very crowded on weekends, book tables in advance.",
               "Casa de los Navajas is often closed for weddings, check the schedule."
+            ],
+            "es": [
+              "Lleva calzado cómodo, ya que el centro está en una colina.",
+              "Utiliza el ascensor entre el centro y la playa (Bajondillo).",
+              "La Carihuela se llena mucho los fines de semana; reserva mesa con antelación.",
+              "La Casa de los Navajas suele cerrarse por bodas; consulta el horario."
             ]
           }
         },
@@ -521,7 +547,8 @@
             "de": "Ein regnerischer Morgen beginnt in den überdachten Passagen der Calle San Miguel, wo Sie trocken shoppen können. Mittags bietet die Plaza de la Nogalera gemütliche Cafés zum Aufwärmen.\n\nNachmittags flüchten Sie in die prachtvolle Casa de los Navajas, ein architektonisches Juwel im Trockenen. Der Blick auf die Torre de Pimentel ist auch unter dem Regenschirm dramatisch.\n\nSpäter spazieren Sie zur Playa de la Carihuela, wo die Chiringuitos mit Glasfronten Schutz bieten. Der Regen verleiht der Küste eine mystische, ruhige Atmosphäre.\n\nAbends endet die Tour am Monumento al Turista. Die nassen Pflastersteine spiegeln die Lichter der Stadt wider und schaffen eine ganz besondere, melancholische Stimmung.",
             "hu": "A reggelt a Calle San Miguel fedett boltjai alatt indítjuk, ahol az eső sem zavarja a nézelődést. Délben a Plaza de la Nogalera kávézói nyújtanak menedéket egy meleg italra.\n\nDélután a Casa de los Navajas belső tereiben gyönyörködhetünk az építészetben, távol a víztől. A Torre de Pimentel lépcsői ilyenkor csúszósak, de a látvány ernyő alól is megéri.\n\nKésőbb a Carihuela partján keresünk egy üvegfalú éttermet, ahonnan nézhetjük a tengerre hulló esőt. A strand ilyenkor csendes és különlegesen békés.\n\nAz estét a Monumento al Turista közelében zárjuk. A vizes aszfalton megcsillanó városi fények romantikus keretet adnak a napnak a borús idő ellenére is.",
             "ro": "O dimineață ploioasă începe sub arcadele magazinelor de pe Calle San Miguel, perfecte pentru shopping ferit de apă. La prânz, Plaza de la Nogalera oferă cafenele primitoare pentru un popas cald.\n\nDupă-amiaza, interiorul spectaculos de la Casa de los Navajas este refugiul ideal împotriva vremii. Torre de Pimentel oferă o perspectivă dramatică asupra mării, chiar și prin perdeaua de ploaie.\n\nMai târziu, ne îndreptăm spre Playa de la Carihuela, unde terasele închise cu sticlă permit admirarea valurilor în confort. Atmosfera devine intimă și relaxantă.\n\nSeara se încheie la Monumento al Turista. Reflexiile luminilor pe pavajul umed creează un decor fotografic deosebit, încheind ziua într-o notă melancolică, dar frumoasă.",
-            "en": "A rainy morning starts under the covered sections of Calle San Miguel, perfect for dry window shopping. At noon, Plaza de la Nogalera’s cafes provide a cozy refuge for a warm break.\n\nIn the afternoon, escape the rain inside the stunning Casa de los Navajas, an architectural gem. The Torre de Pimentel looks dramatic even under an umbrella, though the steps might be slick.\n\nLater, head to Playa de la Carihuela where glass-enclosed beach bars let you watch the rain meet the sea. The promenade is quiet and uniquely peaceful.\n\nThe evening ends at the Monumento al Turista. The wet pavement reflects the city lights, creating a romantic and atmospheric end to your walk despite the weather."
+            "en": "A rainy morning starts under the covered sections of Calle San Miguel, perfect for dry window shopping. At noon, Plaza de la Nogalera’s cafes provide a cozy refuge for a warm break.\n\nIn the afternoon, escape the rain inside the stunning Casa de los Navajas, an architectural gem. The Torre de Pimentel looks dramatic even under an umbrella, though the steps might be slick.\n\nLater, head to Playa de la Carihuela where glass-enclosed beach bars let you watch the rain meet the sea. The promenade is quiet and uniquely peaceful.\n\nThe evening ends at the Monumento al Turista. The wet pavement reflects the city lights, creating a romantic and atmospheric end to your walk despite the weather.",
+            "es": "Una mañana de lluvia comienza bajo los tramos cubiertos de la Calle San Miguel, perfecto para compras con escaparates a cubierto. Al mediodía, las cafeterías de la Plaza de la Nogalera ofrecen un refugio acogedor para un descanso caliente.\n\nPor la tarde, escapa de la lluvia dentro de la impresionante Casa de los Navajas, una joya arquitectónica. La Torre de Pimentel es dramática incluso bajo el paraguas, aunque los peldaños pueden estar resbaladizos.\n\nMás tarde, dirígete a la Playa de la Carihuela, donde los bares de playa acristalados te permiten ver la lluvia encontrarse con el mar. El paseo marítimo está tranquilo y ofrece una paz única.\n\nLa noche termina en el Monumento al Turista. El pavimento mojado refleja las luces de la ciudad, creando un final romántico y atmosférico a tu paseo a pesar del tiempo."
           },
           "stops": [
             {
@@ -530,7 +557,8 @@
                 "de": "Nutzen Sie die Markisen der Geschäfte als Regenschutz.",
                 "hu": "Használja az üzletek előtetőit esővédőként.",
                 "ro": "Folosiți copertinele magazinelor ca adăpost.",
-                "en": "Use the shop awnings as a natural umbrella."
+                "en": "Use the shop awnings as a natural umbrella.",
+                "es": "Usa los toldos de las tiendas como paraguas natural."
               }
             },
             {
@@ -539,7 +567,8 @@
                 "de": "Die Cafés hier haben meist große Innenbereiche.",
                 "hu": "Az itteni kávézók tágas belső térrel rendelkeznek.",
                 "ro": "Cafenelele de aici au spații interioare generoase.",
-                "en": "Cafes here mostly have large indoor seating areas."
+                "en": "Cafes here mostly have large indoor seating areas.",
+                "es": "Las cafeterías aquí suelen tener amplias zonas de interior."
               }
             },
             {
@@ -548,7 +577,8 @@
                 "de": "Vorsicht auf den nassen, rutschigen Stufen.",
                 "hu": "Vigyázat, a vizes lépcsők nagyon csúszósak.",
                 "ro": "Atenție la treptele umede și alunecoase.",
-                "en": "Careful on the wet and slippery steps."
+                "en": "Careful on the wet and slippery steps.",
+                "es": "Ten cuidado con los peldaños mojados y resbaladizos."
               }
             },
             {
@@ -557,7 +587,8 @@
                 "de": "Perfekter Ort, um den stärksten Regen abzuwarten.",
                 "hu": "Tökéletes hely a nagyobb záporok kivárására.",
                 "ro": "Locul perfect pentru a aștepta trecerea ploii.",
-                "en": "Perfect place to wait out the heaviest rain."
+                "en": "Perfect place to wait out the heaviest rain.",
+                "es": "Lugar perfecto para esperar a que amaine la lluvia."
               }
             },
             {
@@ -566,7 +597,8 @@
                 "de": "Suchen Sie ein Restaurant mit festen Glaswänden.",
                 "hu": "Keressen üvegfallal védett parti éttermet.",
                 "ro": "Căutați un restaurant cu pereți de sticlă pe mal.",
-                "en": "Find a beachfront restaurant with glass enclosures."
+                "en": "Find a beachfront restaurant with glass enclosures.",
+                "es": "Busca un restaurante frente al mar con cerramientos de cristal."
               }
             },
             {
@@ -575,7 +607,8 @@
                 "de": "Ein schnelles Foto zwischen den Regenschauern.",
                 "hu": "Egy gyors fotó két zápor között.",
                 "ro": "O poză rapidă între episoadele de ploaie.",
-                "en": "A quick photo between rain showers."
+                "en": "A quick photo between rain showers.",
+                "es": "Una foto rápida entre los chubascos."
               }
             }
           ],
@@ -603,6 +636,12 @@
               "Many shops in San Miguel sell affordable umbrellas.",
               "Casa de los Navajas is the best indoor viewpoint.",
               "Avoid the steep stairs to the beach during heavy rain."
+            ],
+            "es": [
+              "Lleva calzado impermeable para el paseo costero.",
+              "Muchas tiendas en San Miguel venden paraguas económicos.",
+              "Casa de los Navajas es el mejor mirador interior.",
+              "Evita las escaleras empinadas hacia la playa durante lluvias intensas."
             ]
           }
         },
@@ -611,7 +650,8 @@
             "de": "Ein klarer Wintermorgen in der Calle San Miguel bietet entspanntes Bummeln ohne die Sommerhitze. Mittags wärmt die milde andalusische Sonne auf der Plaza de la Nogalera.\n\nNachmittags erstrahlt die Casa de los Navajas im weichen Winterlicht. Der Aufstieg zur Torre de Pimentel ist bei kühleren Temperaturen deutlich angenehmer als im August.\n\nDer Strandspaziergang an der Playa de la Carihuela ist erfrischend. Die Wintersonne taucht das Mittelmeer in ein tiefes Blau, das man stundenlang beobachten kann.\n\nZum Sonnenuntergang, der im Winter bereits gegen 18:00 Uhr einsetzt, erreichen Sie das Monumento al Turista. Die kühle Abendluft macht Lust auf einen heißen Churro in der Nähe.",
             "hu": "A tiszta téli reggel a Calle San Miguelen tökéletes a tömegmentes nézelődésre. Délben az andalúz napsütés kellemesen melegít a Plaza de la Nogalera teraszain.\n\nDélután a Casa de los Navajas különleges fényekben úszik. A Torre de Pimentel megmászása ilyenkor sokkal kevésbé megterhelő, mint a nyári hőségben.\n\nA Carihuela strandján tett séta felfrissít. A téli tenger mélykék színe lenyűgöző, és a part ilyenkor a helyieké és a nyugalomé.\n\nA naplemente után, ami télen már 18 óra körül beköszönt, érünk a Monumento al Turistához. A hűvös esti levegőben jól esik majd egy forró csokoládé.",
             "ro": "O dimineață senină de iarnă pe Calle San Miguel permite plimbări relaxate fără arșița verii. La prânz, soarele blând andaluz încălzește Plaza de la Nogalera.\n\nDupă-amiaza, Casa de los Navajas strălucește în lumina moale a iernii. Urcarea la Torre de Pimentel este mult mai plăcută acum decât în lunile toride.\n\nPlimbarea pe Playa de la Carihuela este revigorantă. Marea are o culoare albastru închis superbă, iar lipsa aglomerației oferă o liniște rară.\n\nLa apus, care iarna vine devreme, în jur de ora 18:00, ajungem la Monumento al Turista. Aerul răcoros de seară este perfect pentru o porție de churros calzi.",
-            "en": "A crisp winter morning on Calle San Miguel offers relaxed browsing without the summer crowds. At noon, the mild Andalusian sun warms the terraces of Plaza de la Nogalera.\n\nIn the afternoon, Casa de los Navajas glows in the soft winter light. Climbing to Torre de Pimentel is much more comfortable in these temperatures than in August.\n\nA walk along Playa de la Carihuela is refreshing. The winter sea is a deep, stunning blue, and the promenade belongs to the locals and peace-seekers.\n\nBy sunset, which arrives early around 6:00 PM in winter, you reach the Monumento al Turista. The cool evening air is the perfect excuse for hot chocolate and churros nearby."
+            "en": "A crisp winter morning on Calle San Miguel offers relaxed browsing without the summer crowds. At noon, the mild Andalusian sun warms the terraces of Plaza de la Nogalera.\n\nIn the afternoon, Casa de los Navajas glows in the soft winter light. Climbing to Torre de Pimentel is much more comfortable in these temperatures than in August.\n\nA walk along Playa de la Carihuela is refreshing. The winter sea is a deep, stunning blue, and the promenade belongs to the locals and peace-seekers.\n\nBy sunset, which arrives early around 6:00 PM in winter, you reach the Monumento al Turista. The cool evening air is the perfect excuse for hot chocolate and churros nearby.",
+            "es": "Una fresca mañana invernal en la Calle San Miguel ofrece compras relajadas sin las multitudes veraniegas. Al mediodía, el suave sol andaluz calienta las terrazas de la Plaza de la Nogalera.\n\nPor la tarde, Casa de los Navajas brilla con la suave luz invernal. Subir a la Torre de Pimentel es mucho más cómodo a estas temperaturas que en agosto.\n\nUn paseo por la Playa de la Carihuela resulta refrescante. El mar invernal es de un azul profundo y espectacular, y el paseo pertenece a los locales y a quienes buscan tranquilidad.\n\nAl ponerse el sol, que llega temprano alrededor de las 18:00 en invierno, se alcanza el Monumento al Turista. El aire fresco de la tarde es la excusa perfecta para tomar chocolate caliente con churros cerca."
           },
           "stops": [
             {
@@ -620,7 +660,8 @@
                 "de": "Genießen Sie die Ruhe ohne die Sommertouristen.",
                 "hu": "Élvezze a nyugalmat a nyári turistatömeg nélkül.",
                 "ro": "Bucurați-vă de liniște fără turiștii de vară.",
-                "en": "Enjoy the peace without the summer tourist crowds."
+                "en": "Enjoy the peace without the summer tourist crowds.",
+                "es": "Disfruta de la tranquilidad sin las multitudes veraniegas."
               }
             },
             {
@@ -629,7 +670,8 @@
                 "de": "Suchen Sie sich einen Platz direkt in der Sonne.",
                 "hu": "Keressen egy helyet közvetlenül a napsütésben.",
                 "ro": "Căutați un loc direct sub razele soarelui.",
-                "en": "Find a spot directly in the winter sun."
+                "en": "Find a spot directly in the winter sun.",
+                "es": "Busca un sitio directamente al sol invernal."
               }
             },
             {
@@ -638,7 +680,8 @@
                 "de": "Das klare Winterlicht ist perfekt für Panoramafotos.",
                 "hu": "A tiszta téli fény ideális panorámafotókhoz.",
                 "ro": "Lumina clară de iarnă este perfectă pentru poze.",
-                "en": "The clear winter light is perfect for panorama photos."
+                "en": "The clear winter light is perfect for panorama photos.",
+                "es": "La clara luz invernal es perfecta para fotos panorámicas."
               }
             },
             {
@@ -647,7 +690,8 @@
                 "de": "Die Gartenanlagen sind auch im Winter grün.",
                 "hu": "A kert télen is zöldellő és látványos.",
                 "ro": "Grădinile sunt verzi și frumoase chiar și iarna.",
-                "en": "The gardens remain green and lush even in winter."
+                "en": "The gardens remain green and lush even in winter.",
+                "es": "Los jardines permanecen verdes y frondosos incluso en invierno."
               }
             },
             {
@@ -656,7 +700,8 @@
                 "de": "Ideal für lange Spaziergänge ohne zu schwitzen.",
                 "hu": "Ideális hosszú sétákra izzadás nélkül.",
                 "ro": "Ideal pentru plimbări lungi fără a transpira.",
-                "en": "Ideal for long walks without the summer heat."
+                "en": "Ideal for long walks without the summer heat.",
+                "es": "Ideal para largas caminatas sin el calor veraniego."
               }
             },
             {
@@ -665,7 +710,8 @@
                 "de": "In der Dämmerung ist das Denkmal schön beleuchtet.",
                 "hu": "Sötétedéskor a szobor szépen ki van világítva.",
                 "ro": "Monumentul este frumos iluminat la amurg.",
-                "en": "The monument is beautifully lit at dusk."
+                "en": "The monument is beautifully lit at dusk.",
+                "es": "El monumento se ilumina maravillosamente al anochecer."
               }
             }
           ],
@@ -693,6 +739,12 @@
               "Sunset happens early, around 6:00 PM.",
               "The sea breeze can be quite chilly in winter.",
               "Try hot chocolate with churros as a winter snack."
+            ],
+            "es": [
+              "Vístete por capas: mañanas frías, sol cálido al mediodía.",
+              "El atardecer ocurre temprano, alrededor de las 18:00.",
+              "La brisa marina puede ser bastante fría en invierno.",
+              "Prueba el chocolate caliente con churros como aperitivo invernal."
             ]
           }
         }
@@ -721,7 +773,8 @@
             "de": "Mieten Sie ein Boot auf dem künstlichen See im Park.",
             "hu": "Bérelj csónakot a park mesterséges taván.",
             "ro": "Închiriați o barcă pe lacul artificial din parc.",
-            "en": "Rent a boat on the artificial lake in the park."
+            "en": "Rent a boat on the artificial lake in the park.",
+            "es": "Alquila una barca en el lago artificial del parque."
           }
         },
         {
@@ -739,7 +792,8 @@
             "de": "Fahren Sie vorsichtig auf der Promenade, sie ist sehr belebt.",
             "hu": "Óvatosan biciklizz a sétányon, nagy a gyalogosforgalom.",
             "ro": "Mergeți cu atenție pe faleză, este foarte aglomerată.",
-            "en": "Ride carefully on the promenade, it's very busy with pedestrians."
+            "en": "Ride carefully on the promenade, it's very busy with pedestrians.",
+            "es": "Circula con cuidado por el paseo, hay muchos peatones."
           }
         },
         {
@@ -757,7 +811,8 @@
             "de": "Ein guter Wendepunkt für die Tour Richtung Norden.",
             "hu": "Jó fordulópont az északi irányú túrához.",
             "ro": "Un bun punct de întoarcere pentru turul spre nord.",
-            "en": "A good turning point for the tour heading north."
+            "en": "A good turning point for the tour heading north.",
+            "es": "Un buen punto de giro para la ruta hacia el norte."
           }
         },
         {
@@ -775,7 +830,8 @@
             "de": "Ein botanischer Garten mit Greifvogel-Zentrum.",
             "hu": "Botanikus kert ragadozómadár-központtal.",
             "ro": "O grădină botanică cu un centru de păsări răpitoare.",
-            "en": "A botanical garden with a bird of prey center."
+            "en": "A botanical garden with a bird of prey center.",
+            "es": "Un jardín botánico con un centro de aves rapaces."
           }
         },
         {
@@ -793,7 +849,8 @@
             "de": "Parken Sie Ihr Fahrrad und genießen Sie ein kühles Getränk.",
             "hu": "Parkold le a biciklit és élvezz egy hűsítőt.",
             "ro": "Parcați bicicleta și savurați o băutură rece.",
-            "en": "Park your bike and enjoy a cold drink."
+            "en": "Park your bike and enjoy a cold drink.",
+            "es": "Aparca tu bici y disfruta de una bebida fría."
           }
         }
       ],
@@ -801,7 +858,8 @@
         "de": "Erkunden Sie Torremolinos auf zwei Rädern. Starten Sie im grünen Parque La Batería mit seinem Aussichtsturm. Radeln Sie entlang der Küste von La Carihuela und steigen Sie dann zum botanischen Garten Molino de Inca auf, einer Oase der Ruhe. Beenden Sie die Tour im Herzen der Stadt am lebhaften Plaza de la Nogalera.",
         "hu": "Fedezd fel Torremolinost két keréken. Kezdj a zöldellő Parque La Bateríában a kilátótoronnyal. Tekerj végig La Carihuela partján, majd kapaszkodj fel a Molino de Inca botanikus kertig, amely a béke szigete. Zárd a túrát a város szívében, a nyüzsgő Plaza de la Nogaleránál.",
         "ro": "Explorați Torremolinos pe două roți. Începeți în inverzitul Parque La Batería cu turnul său de observație. Mergeți cu bicicleta de-a lungul coastei La Carihuela, apoi urcați spre grădina botanică Molino de Inca, o oază de liniște. Încheiați turul în inima orașului, în vibranta Plaza de la Nogalera.",
-        "en": "Explore Torremolinos on two wheels. Start in the lush Parque La Batería with its watchtower. Cycle along the coast of La Carihuela, then climb up to the Molino de Inca botanical garden, an oasis of peace. Finish your tour in the heart of the city at the lively Plaza de la Nogalera."
+        "en": "Explore Torremolinos on two wheels. Start in the lush Parque La Batería with its watchtower. Cycle along the coast of La Carihuela, then climb up to the Molino de Inca botanical garden, an oasis of peace. Finish your tour in the heart of the city at the lively Plaza de la Nogalera.",
+        "es": "Explora Torremolinos en dos ruedas. Comienza en el frondoso Parque La Batería con su torre de vigilancia. Pedalea por la costa de La Carihuela, luego sube al jardín botánico Molino de Inca, un oasis de paz. Termina tu recorrido en el corazón de la ciudad, en la animada Plaza de la Nogalera."
       },
       "gastro_picks": {
         "de": [
@@ -909,6 +967,12 @@
           "Use the designated bike lane along the promenade.",
           "Bike rental shops are available in the center and La Carihuela.",
           "Pay attention to pedestrians in pedestrian zones."
+        ],
+        "es": [
+          "La ruta al Molino de Inca tiene una ligera pendiente.",
+          "Utiliza el carril bici señalizado a lo largo del paseo.",
+          "Hay tiendas de alquiler de bicicletas en el centro y en La Carihuela.",
+          "Presta atención a los peatones en las zonas peatonales."
         ]
       },
       "variants": {
@@ -917,7 +981,8 @@
             "de": "Erkunden Sie Torremolinos auf zwei Rädern. Starten Sie im grünen Parque La Batería mit seinem Aussichtsturm. Radeln Sie entlang der Küste von La Carihuela und steigen Sie dann zum botanischen Garten Molino de Inca auf, einer Oase der Ruhe. Beenden Sie die Tour im Herzen der Stadt am lebhaften Plaza de la Nogalera.",
             "hu": "Fedezd fel Torremolinost két keréken. Kezdj a zöldellő Parque La Bateríában a kilátótoronnyal. Tekerj végig La Carihuela partján, majd kapaszkodj fel a Molino de Inca botanikus kertig, amely a béke szigete. Zárd a túrát a város szívében, a nyüzsgő Plaza de la Nogaleránál.",
             "ro": "Explorați Torremolinos pe două roți. Începeți în inverzitul Parque La Batería cu turnul său de observație. Mergeți cu bicicleta de-a lungul coastei La Carihuela, apoi urcați spre grădina botanică Molino de Inca, o oază de liniște. Încheiați turul în inima orașului, în vibranta Plaza de la Nogalera.",
-            "en": "Explore Torremolinos on two wheels. Start in the lush Parque La Batería with its watchtower. Cycle along the coast of La Carihuela, then climb up to the Molino de Inca botanical garden, an oasis of peace. Finish your tour in the heart of the city at the lively Plaza de la Nogalera."
+            "en": "Explore Torremolinos on two wheels. Start in the lush Parque La Batería with its watchtower. Cycle along the coast of La Carihuela, then climb up to the Molino de Inca botanical garden, an oasis of peace. Finish your tour in the heart of the city at the lively Plaza de la Nogalera.",
+            "es": "Explora Torremolinos en dos ruedas. Comienza en el frondoso Parque La Batería con su torre de vigilancia. Pedalea por la costa de La Carihuela, luego sube al jardín botánico Molino de Inca, un oasis de paz. Termina tu recorrido en el corazón de la ciudad, en la animada Plaza de la Nogalera."
           },
           "stops": [
             {
@@ -926,7 +991,8 @@
                 "de": "Mieten Sie ein Boot auf dem künstlichen See im Park.",
                 "hu": "Bérelj csónakot a park mesterséges taván.",
                 "ro": "Închiriați o barcă pe lacul artificial din parc.",
-                "en": "Rent a boat on the artificial lake in the park."
+                "en": "Rent a boat on the artificial lake in the park.",
+                "es": "Alquila una barca en el lago artificial del parque."
               }
             },
             {
@@ -935,7 +1001,8 @@
                 "de": "Fahren Sie vorsichtig auf der Promenade, sie ist sehr belebt.",
                 "hu": "Óvatosan biciklizz a sétányon, nagy a gyalogosforgalom.",
                 "ro": "Mergeți cu atenție pe faleză, este foarte aglomerată.",
-                "en": "Ride carefully on the promenade, it's very busy with pedestrians."
+                "en": "Ride carefully on the promenade, it's very busy with pedestrians.",
+                "es": "Circula con cuidado por el paseo, hay muchos peatones."
               }
             },
             {
@@ -944,7 +1011,8 @@
                 "de": "Ein guter Wendepunkt für die Tour Richtung Norden.",
                 "hu": "Jó fordulópont az északi irányú túrához.",
                 "ro": "Un bun punct de întoarcere pentru turul spre nord.",
-                "en": "A good turning point for the tour heading north."
+                "en": "A good turning point for the tour heading north.",
+                "es": "Un buen punto de giro para la ruta hacia el norte."
               }
             },
             {
@@ -953,7 +1021,8 @@
                 "de": "Ein botanischer Garten mit Greifvogel-Zentrum.",
                 "hu": "Botanikus kert ragadozómadár-központtal.",
                 "ro": "O grădină botanică cu un centru de păsări răpitoare.",
-                "en": "A botanical garden with a bird of prey center."
+                "en": "A botanical garden with a bird of prey center.",
+                "es": "Un jardín botánico con un centro de aves rapaces."
               }
             },
             {
@@ -962,7 +1031,8 @@
                 "de": "Parken Sie Ihr Fahrrad und genießen Sie ein kühles Getränk.",
                 "hu": "Parkold le a biciklit és élvezz egy hűsítőt.",
                 "ro": "Parcați bicicleta și savurați o băutură rece.",
-                "en": "Park your bike and enjoy a cold drink."
+                "en": "Park your bike and enjoy a cold drink.",
+                "es": "Aparca tu bici y disfruta de una bebida fría."
               }
             }
           ],
@@ -1072,6 +1142,12 @@
               "Use the designated bike lane along the promenade.",
               "Bike rental shops are available in the center and La Carihuela.",
               "Pay attention to pedestrians in pedestrian zones."
+            ],
+            "es": [
+              "La ruta al Molino de Inca tiene una ligera pendiente.",
+              "Utiliza el carril bici señalizado a lo largo del paseo.",
+              "Hay tiendas de alquiler de bicicletas en el centro y en La Carihuela.",
+              "Presta atención a los peatones en las zonas peatonales."
             ]
           }
         },
@@ -1080,7 +1156,8 @@
             "de": "Ein regnerischer Radtag beginnt vorsichtig im Parque La Batería, wo die asphaltierten Wege guten Halt bieten. Mittags radeln Sie zur Playa de la Carihuela.\n\nNachmittags geht es zum Molino de Inca. Der Regen lässt den botanischen Garten in sattem Grün erstrahlen und die Wasserbecken wirken noch natürlicher.\n\nDie Tour führt weiter zum Monumento al Turista. Trotz Nässe ist die Strecke flach und gut befahrbar, wenn man auf Pfützen achtet.\n\nZum Abschluss bietet die Plaza de la Nogalera Fahrradständer in der Nähe von überdachten Terrassen für eine wohlverdiente Pause.",
             "hu": "Az esős kerékpáros nap óvatosan indul a Parque La Batería aszfaltozott útjain. Délben a Carihuela partja felé vesszük az irányt.\n\nDélután a Molino de Inca a cél. Az eső miatt a botanikus kert színei mélyebbek, a buja növényzet pedig igazi trópusi hangulatot áraszt.\n\nA Monumento al Turista felé haladva figyeljünk a tócsákra, de a terep sík és jól bírja a vizet.\n\nA napot a Plaza de la Nogalera környékén zárjuk, ahol fedett helyek közelében tudjuk leparkolni a bringákat.",
             "ro": "O zi cu bicicleta pe ploaie începe prudent în Parque La Batería, unde aleile asfaltate oferă aderență. La prânz pedalăm spre Playa de la Carihuela.\n\nDupă-amiaza vizităm Molino de Inca. Ploaia face culorile grădinii botanice mai vii, iar vegetația pare de-a dreptul luxuriantă.\n\nTraseul continuă spre Monumento al Turista. Deși umed, drumul este plat și ușor de parcurs dacă evităm bălțile.\n\nLa final, Plaza de la Nogalera oferă rastele de biciclete aproape de terase acoperite pentru o pauză binemeritată.",
-            "en": "A rainy cycling day starts cautiously in Parque La Batería, where paved paths offer decent grip. At noon, cycle toward Playa de la Carihuela.\n\nIn the afternoon, visit Molino de Inca. The rain makes the botanical gardens look incredibly lush and the water features even more natural.\n\nThe tour continues to the Monumento al Turista. Despite the wet, the route is flat and manageable if you watch out for puddles.\n\nTo wrap up, Plaza de la Nogalera offers bike racks near covered terraces for a well-deserved dry break."
+            "en": "A rainy cycling day starts cautiously in Parque La Batería, where paved paths offer decent grip. At noon, cycle toward Playa de la Carihuela.\n\nIn the afternoon, visit Molino de Inca. The rain makes the botanical gardens look incredibly lush and the water features even more natural.\n\nThe tour continues to the Monumento al Turista. Despite the wet, the route is flat and manageable if you watch out for puddles.\n\nTo wrap up, Plaza de la Nogalera offers bike racks near covered terraces for a well-deserved dry break.",
+            "es": "Un día lluvioso en bici comienza con precaución en el Parque La Batería, donde los caminos pavimentados ofrecen buena adherencia. Al mediodía, pedalea hacia la Playa de la Carihuela.\n\nPor la tarde, visita Molino de Inca. La lluvia hace que los jardines botánicos se vean increíblemente frondosos y las fuentes más naturales.\n\nLa ruta continúa hasta el Monumento al Turista. A pesar del agua, el recorrido es llano y manejable si evitas los charcos.\n\nPara terminar, la Plaza de la Nogalera ofrece aparcamientos para bicicletas cerca de terrazas cubiertas para un merecido descanso en seco."
           },
           "stops": [
             {
@@ -1089,7 +1166,8 @@
                 "de": "Vorsicht bei Kurven auf nassem Asphalt.",
                 "hu": "Vigyázzon a kanyarokban a vizes aszfalton.",
                 "ro": "Atenție la viraje pe asfaltul ud.",
-                "en": "Be careful during turns on wet asphalt."
+                "en": "Be careful during turns on wet asphalt.",
+                "es": "Ten cuidado en las curvas sobre asfalto mojado."
               }
             },
             {
@@ -1098,7 +1176,8 @@
                 "de": "Die Promenade kann bei Regen rutschig sein.",
                 "hu": "A sétány esőben csúszós lehet.",
                 "ro": "Faleza poate fi alunecoasă pe ploaie.",
-                "en": "The promenade can be slippery when wet."
+                "en": "The promenade can be slippery when wet.",
+                "es": "El paseo puede estar resbaladizo con lluvia."
               }
             },
             {
@@ -1107,7 +1186,8 @@
                 "de": "Kurzer Stopp, halten Sie den Lenker fest.",
                 "hu": "Rövid megálló, fogja szorosan a kormányt.",
                 "ro": "Oprire scurtă, țineți bine ghidonul.",
-                "en": "Short stop, keep a firm grip on the handlebar."
+                "en": "Short stop, keep a firm grip on the handlebar.",
+                "es": "Parada corta, mantén un agarre firme del manillar."
               }
             },
             {
@@ -1116,7 +1196,8 @@
                 "de": "Die Bäume bieten etwas Schutz vor Nieselregen.",
                 "hu": "A fák némi védelmet nyújtanak a szemerkélő eső ellen.",
                 "ro": "Copacii oferă protecție contra burniței.",
-                "en": "The trees provide some shelter from drizzle."
+                "en": "The trees provide some shelter from drizzle.",
+                "es": "Los árboles ofrecen algo de refugio contra la llovizna."
               }
             },
             {
@@ -1125,7 +1206,8 @@
                 "de": "Parken Sie das Rad unter einem Vordach.",
                 "hu": "Parkoljon le az esővédő tetők alatt.",
                 "ro": "Parcați bicicleta sub un acoperiș.",
-                "en": "Park your bike under a shop overhang."
+                "en": "Park your bike under a shop overhang.",
+                "es": "Aparca la bici bajo un alero de tienda."
               }
             }
           ],
@@ -1153,6 +1235,12 @@
               "Avoid metal manhole covers; they are extremely slippery.",
               "Wear a bright raincoat for better visibility to cars.",
               "Brake early as stopping distances increase on wet roads."
+            ],
+            "es": [
+              "Usa guardabarros para evitar salpicaduras.",
+              "Evita las tapas metálicas de alcantarilla; son extremadamente resbaladizas.",
+              "Lleva un chubasquero llamativo para mejor visibilidad frente a los coches.",
+              "Frena con antelación, las distancias de frenado aumentan en mojado."
             ]
           }
         },
@@ -1161,7 +1249,8 @@
             "de": "Ein frischer Wintermorgen im Parque La Batería bietet ideale Bedingungen für eine Radtour ohne Hitzeerschöpfung. Mittags gleiten Sie entspannt an der Playa de la Carihuela entlang.\n\nNachmittags ist der Besuch im Molino de Inca besonders ruhig. Die kühle Luft macht die körperliche Aktivität angenehm und die Farben der Gärten sind klar.\n\nWeiter geht es zum Monumento al Turista. Die Wintersonne steht tief und blendet manchmal, also ist eine Sonnenbrille beim Radfahren Pflicht.\n\nDie Tour endet an der Plaza de la Nogalera. Ein warmer Tee in der Nachmittagssonne ist der perfekte Abschluss für diesen aktiven Tag.",
             "hu": "A friss téli reggel a Parque La Bateríában ideális a kerékpározáshoz a hőség okozta fáradtság nélkül. Délben kényelmesen gurulunk a Carihuela partján.\n\nDélután a Molino de Inca látogatása rendkívül nyugodt. A hűvös levegőben jól esik a mozgás, a kertek színei pedig tiszták és élesek.\n\nFolytatjuk utunkat a Monumento al Turista felé. A téli nap alacsonyan jár, néha vakíthat, így a napszemüveg kötelező.\n\nA túra a Plaza de la Nogaleránál ér véget. Egy meleg tea a délutáni napsütésben tökéletes zárása ennek az aktív napnak.",
             "ro": "O dimineață răcoroasă în Parque La Batería oferă condiții ideale pentru ciclism fără extenuare termică. La prânz pedalăm relaxat de-a lungul Playa de la Carihuela.\n\nDupă-amiaza, vizita la Molino de Inca este deosebit de liniștită. Aerul curat face efortul fizic plăcut, iar culorile grădinii sunt foarte clare.\n\nContinuăm spre Monumento al Turista. Soarele de iarnă este jos și poate fi orbitor, deci ochelarii de soare sunt necesari.\n\nTurul se termină în Plaza de la Nogalera. Un ceai cald la soarele după-amiezii este finalul perfect pentru această zi activă.",
-            "en": "A crisp winter morning in Parque La Batería offers ideal conditions for cycling without heat exhaustion. At noon, glide smoothly along Playa de la Carihuela.\n\nIn the afternoon, a visit to Molino de Inca is particularly peaceful. The cool air makes physical activity pleasant and the garden colors are sharp.\n\nMove on to the Monumento al Turista. The winter sun stays low and can be blinding, so sunglasses are a must while riding.\n\nThe tour concludes at Plaza de la Nogalera. A warm tea in the afternoon sun is the perfect end to this active winter day."
+            "en": "A crisp winter morning in Parque La Batería offers ideal conditions for cycling without heat exhaustion. At noon, glide smoothly along Playa de la Carihuela.\n\nIn the afternoon, a visit to Molino de Inca is particularly peaceful. The cool air makes physical activity pleasant and the garden colors are sharp.\n\nMove on to the Monumento al Turista. The winter sun stays low and can be blinding, so sunglasses are a must while riding.\n\nThe tour concludes at Plaza de la Nogalera. A warm tea in the afternoon sun is the perfect end to this active winter day.",
+            "es": "Una fresca mañana invernal en Parque La Batería ofrece condiciones ideales para pedalear sin agotamiento por calor. Al mediodía, deslízate por la Playa de la Carihuela.\n\nPor la tarde, la visita a Molino de Inca es especialmente tranquila. El aire fresco hace agradable el ejercicio y los colores del jardín están nítidos.\n\nSigue hasta el Monumento al Turista. El sol bajo de invierno puede deslumbrar, así que las gafas de sol son imprescindibles al pedalear.\n\nEl recorrido concluye en la Plaza de la Nogalera. Un té caliente al sol de la tarde es el final perfecto para este activo día invernal."
           },
           "stops": [
             {
@@ -1170,7 +1259,8 @@
                 "de": "Perfekt für ein paar schnelle Runden zum Aufwärmen.",
                 "hu": "Tökéletes pár gyors körre a bemelegítéshez.",
                 "ro": "Perfect pentru câteva ture de încălzire.",
-                "en": "Perfect for a few quick laps to warm up."
+                "en": "Perfect for a few quick laps to warm up.",
+                "es": "Perfecto para unas vueltas rápidas de calentamiento."
               }
             },
             {
@@ -1179,7 +1269,8 @@
                 "de": "Achten Sie auf den Wind, der vom Meer kommen kann.",
                 "hu": "Figyeljen a tenger felől érkező szélre.",
                 "ro": "Atenție la vântul care poate bate dinspre mare.",
-                "en": "Watch out for winds coming off the sea."
+                "en": "Watch out for winds coming off the sea.",
+                "es": "Cuidado con los vientos que vienen del mar."
               }
             },
             {
@@ -1188,7 +1279,8 @@
                 "de": "Stellen Sie das Rad so ab, dass es nicht umweht.",
                 "hu": "Úgy támassza le a bringát, hogy ne fújja el a szél.",
                 "ro": "Parcați bicicleta astfel încât să nu fie răsturnată de vânt.",
-                "en": "Park your bike securely against any gusts."
+                "en": "Park your bike securely against any gusts.",
+                "es": "Asegura bien tu bici contra posibles rachas de viento."
               }
             },
             {
@@ -1197,7 +1289,8 @@
                 "de": "Im Schatten der Gärten kann es kühl sein.",
                 "hu": "A kertek árnyékos részein hűvös lehet.",
                 "ro": "În umbra grădinilor poate fi destul de răcoare.",
-                "en": "It can be chilly in the shaded parts of the garden."
+                "en": "It can be chilly in the shaded parts of the garden.",
+                "es": "Puede hacer frío en las zonas sombreadas del jardín."
               }
             },
             {
@@ -1206,7 +1299,8 @@
                 "de": "Ein sonniger Platz zum Parken hält den Sattel warm.",
                 "hu": "Egy napos parkolóhely melegen tartja a nyerget.",
                 "ro": "Un loc de parcare însorit păstrează șaua caldă.",
-                "en": "A sunny parking spot keeps your saddle warm."
+                "en": "A sunny parking spot keeps your saddle warm.",
+                "es": "Un sitio de aparcamiento soleado mantiene el sillín caliente."
               }
             }
           ],
@@ -1234,6 +1328,12 @@
               "Gloves are highly recommended for the downhill sections.",
               "Days are shorter; plan to finish your ride by 6:00 PM.",
               "Take advantage of less crowded paths away from the main front."
+            ],
+            "es": [
+              "Lleva ropa cortaviento, especialmente cerca de la orilla.",
+              "Se recomiendan guantes para los tramos de descenso.",
+              "Los días son más cortos; planea terminar tu ruta antes de las 18:00.",
+              "Aprovecha los caminos menos concurridos alejados del primer paseo."
             ]
           }
         }
@@ -1262,7 +1362,8 @@
             "de": "Kostenloses Parken direkt am Eingang vorhanden.",
             "hu": "Ingyenes parkolás közvetlenül a bejáratnál.",
             "ro": "Parcare gratuită disponibilă direct la intrare.",
-            "en": "Free parking available directly at the entrance."
+            "en": "Free parking available directly at the entrance.",
+            "es": "Aparcamiento gratuito disponible directamente en la entrada."
           }
         },
         {
@@ -1280,7 +1381,8 @@
             "de": "Parken Sie in den umliegenden Parkhäusern (z.B. Parking Isabel Manoja).",
             "hu": "Parkolj a közeli mélygarázsokban (pl. Parking Isabel Manoja).",
             "ro": "Parcați în parcările subterane din apropiere.",
-            "en": "Park in the nearby parking garages (e.g., Parking Isabel Manoja)."
+            "en": "Park in the nearby parking garages (e.g., Parking Isabel Manoja).",
+            "es": "Aparca en los garajes cercanos (p. ej., Parking Isabel Manoja)."
           }
         },
         {
@@ -1298,7 +1400,8 @@
             "de": "Großer kostenloser Parkplatz auf der Westseite des Parks.",
             "hu": "Nagy ingyenes parkoló a park nyugati oldalán.",
             "ro": "Parcare mare gratuită pe partea de vest a parcului.",
-            "en": "Large free parking lot on the west side of the park."
+            "en": "Large free parking lot on the west side of the park.",
+            "es": "Gran aparcamiento gratuito en el lado oeste del parque."
           }
         },
         {
@@ -1316,7 +1419,8 @@
             "de": "Suchen Sie ein öffentliches Parkhaus, Straßenparkplätze sind rar.",
             "hu": "Keress nyilvános parkolóházat, az utcai helyek ritkák.",
             "ro": "Căutați o parcare publică, locurile pe stradă sunt rare.",
-            "en": "Look for a public parking garage, street spots are rare."
+            "en": "Look for a public parking garage, street spots are rare.",
+            "es": "Busca un aparcamiento público, las plazas en la calle son escasas."
           }
         },
         {
@@ -1334,7 +1438,8 @@
             "de": "Ein aufregender Ausflug für Familien in der Nähe des Zentrums.",
             "hu": "Izgalmas kirándulás családoknak a központ közelében.",
             "ro": "O excursie interesantă pentru familii lângă centru.",
-            "en": "An exciting excursion for families near the center."
+            "en": "An exciting excursion for families near the center.",
+            "es": "Una excursión emocionante para familias cerca del centro."
           }
         }
       ],
@@ -1342,7 +1447,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die Außenbezirke. Besuchen Sie den Garten Molino de Inca am Morgen, gefolgt von der Casa de los Navajas. Mittags ist der Parque La Batería ideal für eine Pause, bevor Sie zum Mittagessen nach La Carihuela fahren. Den Tag krönt ein Besuch im Crocodile Park, einem spannenden Erlebnis für Groß und Klein.",
         "hu": "Autóval kényelmesen elérheted a távolabbi pontokat is. Reggel látogasd meg a Molino de Inca kertet, majd a Casa de los Navajast. Délben a Parque La Batería ideális egy pihenőre, mielőtt La Carihuelába hajtanál ebédelni. A napot a Crocodile Park koronázza meg, amely izgalmas élmény kicsiknek és nagyoknak.",
         "ro": "Cu mașina puteți ajunge ușor la punctele mai îndepărtate. Vizitați grădina Molino de Inca dimineața, urmată de Casa de los Navajas. La prânz, Parque La Batería este ideal pentru o pauză înainte de a merge la prânz în La Carihuela. Ziua se încheie la Crocodile Park, o experiență palpitantă pentru toate vârstele.",
-        "en": "By car, you can easily reach the outlying areas. Visit the Molino de Inca garden in the morning, followed by Casa de los Navajas. At midday, Parque La Batería is ideal for a break before heading to La Carihuela for lunch. The day is topped off with a visit to the Crocodile Park, an exciting experience for all ages."
+        "en": "By car, you can easily reach the outlying areas. Visit the Molino de Inca garden in the morning, followed by Casa de los Navajas. At midday, Parque La Batería is ideal for a break before heading to La Carihuela for lunch. The day is topped off with a visit to the Crocodile Park, an exciting experience for all ages.",
+        "es": "En coche, puedes llegar fácilmente a las zonas periféricas. Visita el jardín Molino de Inca por la mañana, seguido de Casa de los Navajas. Al mediodía, Parque La Batería es ideal para un descanso antes de dirigirte a La Carihuela para comer. El día se completa con una visita al Parque de los Cocodrilos, una experiencia emocionante para todas las edades."
       },
       "gastro_picks": {
         "de": [
@@ -1450,6 +1556,12 @@
           "The streets in La Carihuela are very narrow and often one-way.",
           "Avoid rush hour on the A-7 motorway.",
           "Many sights have their own free parking lots."
+        ],
+        "es": [
+          "Aparcar en el centro puede ser difícil; usa garajes de pago.",
+          "Las calles de La Carihuela son muy estrechas y a menudo de sentido único.",
+          "Evita la hora punta en la autopista A-7.",
+          "Muchos lugares tienen sus propios aparcamientos gratuitos."
         ]
       },
       "variants": {
@@ -1458,7 +1570,8 @@
             "de": "Mit dem Auto erreichen Sie bequem die Außenbezirke. Besuchen Sie den Garten Molino de Inca am Morgen, gefolgt von der Casa de los Navajas. Mittags ist der Parque La Batería ideal für eine Pause, bevor Sie zum Mittagessen nach La Carihuela fahren. Den Tag krönt ein Besuch im Crocodile Park, einem spannenden Erlebnis für Groß und Klein.",
             "hu": "Autóval kényelmesen elérheted a távolabbi pontokat is. Reggel látogasd meg a Molino de Inca kertet, majd a Casa de los Navajast. Délben a Parque La Batería ideális egy pihenőre, mielőtt La Carihuelába hajtanál ebédelni. A napot a Crocodile Park koronázza meg, amely izgalmas élmény kicsiknek és nagyoknak.",
             "ro": "Cu mașina puteți ajunge ușor la punctele mai îndepărtate. Vizitați grădina Molino de Inca dimineața, urmată de Casa de los Navajas. La prânz, Parque La Batería este ideal pentru o pauză înainte de a merge la prânz în La Carihuela. Ziua se încheie la Crocodile Park, o experiență palpitantă pentru toate vârstele.",
-            "en": "By car, you can easily reach the outlying areas. Visit the Molino de Inca garden in the morning, followed by Casa de los Navajas. At midday, Parque La Batería is ideal for a break before heading to La Carihuela for lunch. The day is topped off with a visit to the Crocodile Park, an exciting experience for all ages."
+            "en": "By car, you can easily reach the outlying areas. Visit the Molino de Inca garden in the morning, followed by Casa de los Navajas. At midday, Parque La Batería is ideal for a break before heading to La Carihuela for lunch. The day is topped off with a visit to the Crocodile Park, an exciting experience for all ages.",
+            "es": "En coche, puedes llegar fácilmente a las zonas periféricas. Visita el jardín Molino de Inca por la mañana, seguido de Casa de los Navajas. Al mediodía, Parque La Batería es ideal para un descanso antes de dirigirte a La Carihuela para comer. El día se completa con una visita al Parque de los Cocodrilos, una experiencia emocionante para todas las edades."
           },
           "stops": [
             {
@@ -1467,7 +1580,8 @@
                 "de": "Kostenloses Parken direkt am Eingang vorhanden.",
                 "hu": "Ingyenes parkolás közvetlenül a bejáratnál.",
                 "ro": "Parcare gratuită disponibilă direct la intrare.",
-                "en": "Free parking available directly at the entrance."
+                "en": "Free parking available directly at the entrance.",
+                "es": "Aparcamiento gratuito disponible directamente en la entrada."
               }
             },
             {
@@ -1476,7 +1590,8 @@
                 "de": "Parken Sie in den umliegenden Parkhäusern (z.B. Parking Isabel Manoja).",
                 "hu": "Parkolj a közeli mélygarázsokban (pl. Parking Isabel Manoja).",
                 "ro": "Parcați în parcările subterane din apropiere.",
-                "en": "Park in the nearby parking garages (e.g., Parking Isabel Manoja)."
+                "en": "Park in the nearby parking garages (e.g., Parking Isabel Manoja).",
+                "es": "Aparca en los garajes cercanos (p. ej., Parking Isabel Manoja)."
               }
             },
             {
@@ -1485,7 +1600,8 @@
                 "de": "Großer kostenloser Parkplatz auf der Westseite des Parks.",
                 "hu": "Nagy ingyenes parkoló a park nyugati oldalán.",
                 "ro": "Parcare mare gratuită pe partea de vest a parcului.",
-                "en": "Large free parking lot on the west side of the park."
+                "en": "Large free parking lot on the west side of the park.",
+                "es": "Gran aparcamiento gratuito en el lado oeste del parque."
               }
             },
             {
@@ -1494,7 +1610,8 @@
                 "de": "Suchen Sie ein öffentliches Parkhaus, Straßenparkplätze sind rar.",
                 "hu": "Keress nyilvános parkolóházat, az utcai helyek ritkák.",
                 "ro": "Căutați o parcare publică, locurile pe stradă sunt rare.",
-                "en": "Look for a public parking garage, street spots are rare."
+                "en": "Look for a public parking garage, street spots are rare.",
+                "es": "Busca un aparcamiento público, las plazas en la calle son escasas."
               }
             },
             {
@@ -1503,7 +1620,8 @@
                 "de": "Ein aufregender Ausflug für Familien in der Nähe des Zentrums.",
                 "hu": "Izgalmas kirándulás családoknak a központ közelében.",
                 "ro": "O excursie interesantă pentru familii lângă centru.",
-                "en": "An exciting excursion for families near the center."
+                "en": "An exciting excursion for families near the center.",
+                "es": "Una excursión emocionante para familias cerca del centro."
               }
             }
           ],
@@ -1613,6 +1731,12 @@
               "The streets in La Carihuela are very narrow and often one-way.",
               "Avoid rush hour on the A-7 motorway.",
               "Many sights have their own free parking lots."
+            ],
+            "es": [
+              "Aparcar en el centro puede ser difícil; usa garajes de pago.",
+              "Las calles de La Carihuela son muy estrechas y a menudo de sentido único.",
+              "Evita la hora punta en la autopista A-7.",
+              "Muchos lugares tienen sus propios aparcamientos gratuitos."
             ]
           }
         },
@@ -1621,7 +1745,8 @@
             "de": "Ein regnerischer Tag ist ideal für eine Autotour. Wir beginnen am Molino de Inca, wo man fast bis zum Eingang fahren kann. Mittags geht es zur Casa de los Navajas.\n\nNachmittags besuchen wir den Parque La Batería. Bei Regen sind die Parkplätze leer und man kann die Aussicht aus dem trockenen Fahrzeug genießen.\n\nAnschließend fahren wir zur Playa de la Carihuela. Es gibt Parkhäuser in der Nähe, sodass der Weg zu den gemütlichen Fischrestaurants kurz bleibt.\n\nDer Tag endet im Crocodile Park. Da viele Bereiche überdacht sind, ist dies das perfekte Schlechtwetterziel für die ganze Familie.",
             "hu": "Az esős idő ideális egy autós túrához. A Molino de Incánál kezdünk, ahol szinte a bejáratig lehet hajtani. Délben a Casa de los Navajas a cél.\n\nDélután a Parque La Bateríát látogatjuk meg. Esőben a parkolók üresek, a kilátást pedig az autó száraz belső teréből is élvezhetjük.\n\nEzután a Carihuela partjára autózunk. A közeli parkolóházaknak köszönhetően csak pár lépés a fedett halas étterem.\n\nA napot a Crocodile Parkban zárjuk. Mivel sok rész fedett, ez a tökéletes rosszidős program az egész családnak.",
             "ro": "O zi ploioasă este ideală pentru un tur auto. Începem la Molino de Inca, unde puteți conduce până aproape de intrare. La prânz vizităm Casa de los Navajas.\n\nDupă-amiaza mergem în Parque La Batería. Pe ploaie parcările sunt libere, iar priveliștea poate fi admirată din confortul mașinii.\n\nContinuăm spre Playa de la Carihuela. Parcarea subterană din apropiere face accesul la restaurantele de pește foarte rapid și uscat.\n\nZiua se încheie la Crocodile Park. Multe zone sunt acoperite, fiind destinația perfectă pentru vreme rea pentru toată familia.",
-            "en": "A rainy day is perfect for a car tour. We start at Molino de Inca, where you can drive almost to the gate. At noon, head to Casa de los Navajas.\n\nIn the afternoon, visit Parque La Batería. During rain, parking is easy and you can enjoy the park views from your dry vehicle.\n\nAfterward, drive to Playa de la Carihuela. Nearby parking garages mean you only have a short walk to the cozy seafood restaurants.\n\nThe day ends at Crocodile Park. Since many areas are covered, it’s the ideal bad-weather destination for the whole family."
+            "en": "A rainy day is perfect for a car tour. We start at Molino de Inca, where you can drive almost to the gate. At noon, head to Casa de los Navajas.\n\nIn the afternoon, visit Parque La Batería. During rain, parking is easy and you can enjoy the park views from your dry vehicle.\n\nAfterward, drive to Playa de la Carihuela. Nearby parking garages mean you only have a short walk to the cozy seafood restaurants.\n\nThe day ends at Crocodile Park. Since many areas are covered, it’s the ideal bad-weather destination for the whole family.",
+            "es": "Un día lluvioso es perfecto para un recorrido en coche. Empezamos en Molino de Inca, donde se puede conducir casi hasta la puerta. Al mediodía, dirígete a Casa de los Navajas.\n\nPor la tarde, visita Parque La Batería. Con lluvia, aparcar es fácil y puedes disfrutar de las vistas del parque desde tu vehículo seco.\n\nDespués, conduce hasta la Playa de la Carihuela. Los garajes cercanos te dejan a pocos minutos de los acogedores restaurantes de pescado.\n\nEl día termina en el Parque de los Cocodrilos. Al estar muchas zonas cubiertas, es el destino ideal con mal tiempo para toda la familia."
           },
           "stops": [
             {
@@ -1630,7 +1755,8 @@
                 "de": "Nutzen Sie den Parkplatz direkt vor dem Haupteingang.",
                 "hu": "Használja a közvetlenül a bejárat előtti parkolót.",
                 "ro": "Folosiți parcarea chiar din fața intrării.",
-                "en": "Use the parking lot right in front of the entrance."
+                "en": "Use the parking lot right in front of the entrance.",
+                "es": "Usa el aparcamiento justo delante de la entrada."
               }
             },
             {
@@ -1639,7 +1765,8 @@
                 "de": "Parken Sie im Parkhaus am Bajondillo.",
                 "hu": "Parkoljon a Bajondillo melletti parkolóházban.",
                 "ro": "Parcați în garajul de lângă Bajondillo.",
-                "en": "Park in the parking garage near Bajondillo beach."
+                "en": "Park in the parking garage near Bajondillo beach.",
+                "es": "Aparca en el garaje junto a la playa de Bajondillo."
               }
             },
             {
@@ -1648,7 +1775,8 @@
                 "de": "Der Parkplatz bietet eine gute Sicht auf das Meer.",
                 "hu": "A parkolóból jó kilátás nyílik a tengerre.",
                 "ro": "Parcarea oferă o vedere bună spre mare.",
-                "en": "The parking lot offers a good view of the sea."
+                "en": "The parking lot offers a good view of the sea.",
+                "es": "El aparcamiento ofrece buena vista al mar."
               }
             },
             {
@@ -1657,7 +1785,8 @@
                 "de": "Nutzen Sie das öffentliche Parkhaus La Carihuela.",
                 "hu": "Vegye igénybe a La Carihuela nyilvános parkolóházat.",
                 "ro": "Utilizați parcarea publică La Carihuela.",
-                "en": "Use the La Carihuela public parking garage."
+                "en": "Use the La Carihuela public parking garage.",
+                "es": "Utiliza el aparcamiento público de La Carihuela."
               }
             },
             {
@@ -1666,7 +1795,8 @@
                 "de": "Überdachte Gänge zwischen den Gehegen nutzen.",
                 "hu": "Használja a kifutók közötti fedett folyosókat.",
                 "ro": "Folosiți culoarele acoperite dintre țarcuri.",
-                "en": "Use the covered walkways between the enclosures."
+                "en": "Use the covered walkways between the enclosures.",
+                "es": "Usa los pasillos cubiertos entre los recintos."
               }
             }
           ],
@@ -1694,6 +1824,12 @@
               "Parking garages fill up faster during rainy weather.",
               "Watch out for aquaplaning on the N-340 coastal road.",
               "Do not leave valuables visible inside the car."
+            ],
+            "es": [
+              "Revisa los limpiaparabrisas antes de salir.",
+              "Los garajes se llenan más rápido en días de lluvia.",
+              "Cuidado con el aquaplaning en la carretera N-340 costera.",
+              "No dejes objetos de valor a la vista dentro del coche."
             ]
           }
         },
@@ -1702,7 +1838,8 @@
             "de": "Ein strahlender Wintermorgen beginnt am Molino de Inca. Das Parken ist jetzt völlig stressfrei. Mittags führt die Fahrt zur Casa de los Navajas durch die ruhigen Straßen.\n\nNachmittags lädt der Parque La Batería zu einem Stopp ein. Das Licht ist perfekt für Fotos vom Aussichtsturm, und die Temperaturen sind ideal für einen Spaziergang.\n\nDanach geht es zur Playa de la Carihuela. Im Winter findet man hier problemlos einen Parkplatz direkt am Strand, was im Sommer unmöglich wäre.\n\nDer Tag endet im Crocodile Park. Die Tiere sind bei den milden Temperaturen aktiv, und der Besuch ist ohne die sommerlichen Menschenmassen viel entspannter.",
             "hu": "Ragyogó téli reggel indul a Molino de Incánál. A parkolás ilyenkor teljesen stresszmentes. Délben a Casa de los Navajas felé autózunk a csendes utcákon.\n\nDélután a Parque La Batería csábít megállóra. A fények tökéletesek a kilátótoronyból való fotózáshoz, a hőmérséklet pedig ideális egy sétához.\n\nEzután a Carihuela partja a cél. Télen gond nélkül találunk parkolót közvetlenül a strandon, ami nyáron szinte lehetetlen lenne.\n\nA napot a Crocodile Parkban zárjuk. Az állatok aktívak az enyhe időben, a látogatás pedig a nyári tömeg nélkül sokkal pihentetőbb.",
             "ro": "O dimineață superbă de iarnă începe la Molino de Inca. Parcarea este acum lipsită de stres. La prânz, conducem spre Casa de los Navajas prin străzile liniștite.\n\nDupă-amiaza, Parque La Batería ne invită la o oprire. Lumina este perfectă pentru poze din turnul de observație, iar temperaturile sunt ideale pentru plimbare.\n\nUrmează Playa de la Carihuela. Iarna puteți găsi ușor un loc de parcare chiar lângă plajă, lucru imposibil pe timpul verii.\n\nZiua se încheie la Crocodile Park. Animalele sunt active în temperaturile blânde, iar vizita este mult mai relaxată fără mulțimile de vară.",
-            "en": "A bright winter morning begins at Molino de Inca. Parking is completely stress-free this time of year. At noon, drive to Casa de los Navajas through quiet streets.\n\nIn the afternoon, Parque La Batería invites you for a stop. The light is perfect for photos from the observation tower, and temperatures are ideal for a stroll.\n\nThen, head to Playa de la Carihuela. In winter, you can easily find a parking spot right by the beach, which is impossible in summer.\n\nThe day concludes at Crocodile Park. The animals are active in the mild temperatures, and the visit is much more relaxed without the summer crowds."
+            "en": "A bright winter morning begins at Molino de Inca. Parking is completely stress-free this time of year. At noon, drive to Casa de los Navajas through quiet streets.\n\nIn the afternoon, Parque La Batería invites you for a stop. The light is perfect for photos from the observation tower, and temperatures are ideal for a stroll.\n\nThen, head to Playa de la Carihuela. In winter, you can easily find a parking spot right by the beach, which is impossible in summer.\n\nThe day concludes at Crocodile Park. The animals are active in the mild temperatures, and the visit is much more relaxed without the summer crowds.",
+            "es": "Una brillante mañana invernal comienza en Molino de Inca. Aparcar es totalmente sencillo en esta época del año. Al mediodía, conduce hacia Casa de los Navajas por calles tranquilas.\n\nPor la tarde, Parque La Batería invita a una parada. La luz es perfecta para fotos desde la torre mirador y las temperaturas son ideales para pasear.\n\nLuego, dirígete a la Playa de la Carihuela. En invierno, es fácil encontrar aparcamiento junto a la playa, algo imposible en verano.\n\nEl día concluye en el Parque de los Cocodrilos. Los animales están activos con las temperaturas suaves y la visita es mucho más relajada sin las multitudes veraniegas."
           },
           "stops": [
             {
@@ -1711,7 +1848,8 @@
                 "de": "Genießen Sie den freien Parkplatz ohne Wartezeit.",
                 "hu": "Élvezze a szabad parkolóhelyeket várakozás nélkül.",
                 "ro": "Bucurați-vă de locurile libere fără așteptare.",
-                "en": "Enjoy the available parking spots with no waiting."
+                "en": "Enjoy the available parking spots with no waiting.",
+                "es": "Disfruta de las plazas de aparcamiento disponibles sin esperas."
               }
             },
             {
@@ -1720,7 +1858,8 @@
                 "de": "Parken an der Straße ist im Winter oft möglich.",
                 "hu": "Télen az utcai parkolás is gyakran lehetséges.",
                 "ro": "Parcarea stradală este adesea posibilă iarna.",
-                "en": "Street parking is often possible during winter months."
+                "en": "Street parking is often possible during winter months.",
+                "es": "A menudo es posible aparcar en la calle durante los meses de invierno."
               }
             },
             {
@@ -1729,7 +1868,8 @@
                 "de": "Der Turm bietet im Winter eine sehr klare Fernsicht.",
                 "hu": "A toronyból télen nagyon tiszta a távoli kilátás.",
                 "ro": "Turnul oferă o vizibilitate foarte clară iarna.",
-                "en": "The tower offers very clear long-distance views in winter."
+                "en": "The tower offers very clear long-distance views in winter.",
+                "es": "La torre ofrece vistas muy despejadas y lejanas en invierno."
               }
             },
             {
@@ -1738,7 +1878,8 @@
                 "de": "Parken Sie direkt an der Promenade (Paseo Marítimo).",
                 "hu": "Parkoljon közvetlenül a sétányon (Paseo Marítimo).",
                 "ro": "Parcați chiar pe faleză (Paseo Marítimo).",
-                "en": "Park directly on the promenade (Paseo Marítimo)."
+                "en": "Park directly on the promenade (Paseo Marítimo).",
+                "es": "Aparca directamente en el paseo marítimo (Paseo Marítimo)."
               }
             },
             {
@@ -1747,7 +1888,8 @@
                 "de": "Besuchen Sie den Park am Vormittag für mehr Aktivität.",
                 "hu": "Látogassa meg a parkot délelőtt a több aktivitásért.",
                 "ro": "Vizitați parcul dimineața pentru mai multă activitate.",
-                "en": "Visit the park in the morning for more animal activity."
+                "en": "Visit the park in the morning for more animal activity.",
+                "es": "Visita el parque por la mañana para ver más actividad animal."
               }
             }
           ],
@@ -1775,6 +1917,12 @@
               "Parking fees are lower in some zones during winter.",
               "Enjoy the open roads without the usual traffic jams.",
               "Fueling up in the outskirts is often cheaper."
+            ],
+            "es": [
+              "El aire acondicionado ayuda con el vaho en las ventanillas por la mañana.",
+              "Las tarifas de aparcamiento son más bajas en algunas zonas durante el invierno.",
+              "Disfruta de las carreteras despejadas sin los habituales atascos.",
+              "Repostar en las afueras suele ser más barato."
             ]
           }
         }
@@ -1803,7 +1951,8 @@
             "de": "Hier befindet sich die S-Bahn-Station (Cercanías C-1).",
             "hu": "Itt található a HÉV-állomás (Cercanías C-1).",
             "ro": "Aici se află stația de tren suburban (Cercanías C-1).",
-            "en": "This is where the suburban train station is located (Cercanías C-1)."
+            "en": "This is where the suburban train station is located (Cercanías C-1).",
+            "es": "Aquí se encuentra la estación de Cercanías (Cercanías C-1)."
           }
         },
         {
@@ -1821,7 +1970,8 @@
             "de": "Nur 2 Minuten zu Fuß von der Station Nogalera entfernt.",
             "hu": "Csak 2 perc séta a Nogalera állomástól.",
             "ro": "La doar 2 minute de mers pe jos de stația Nogalera.",
-            "en": "Just a 2-minute walk from Nogalera station."
+            "en": "Just a 2-minute walk from Nogalera station.",
+            "es": "A solo 2 minutos a pie de la estación Nogalera."
           }
         },
         {
@@ -1839,7 +1989,8 @@
             "de": "Nehmen Sie die S-Bahn bis zur Haltestelle Montemar Alto.",
             "hu": "Utazz a HÉV-vel a Montemar Alto megállóig.",
             "ro": "Luați trenul până la stația Montemar Alto.",
-            "en": "Take the train to the Montemar Alto stop."
+            "en": "Take the train to the Montemar Alto stop.",
+            "es": "Toma el tren hasta la parada Montemar Alto."
           }
         },
         {
@@ -1857,7 +2008,8 @@
             "de": "Von Montemar Alto aus sind es 10 Minuten bergab zum Strand.",
             "hu": "Montemar Altótól 10 perc séta lefelé a strandig.",
             "ro": "De la Montemar Alto sunt 10 minute la vale până la plajă.",
-            "en": "From Montemar Alto, it is a 10-minute downhill walk to the beach."
+            "en": "From Montemar Alto, it is a 10-minute downhill walk to the beach.",
+            "es": "Desde Montemar Alto hay una caminata cuesta abajo de 10 minutos hasta la playa."
           }
         },
         {
@@ -1875,7 +2027,8 @@
             "de": "Nutzen Sie den lokalen Bus (L-1 oder L-2) zurück ins Zentrum.",
             "hu": "Használd a helyi buszt (L-1 vagy L-2) vissza a központba.",
             "ro": "Folosiți autobuzul local (L-1 sau L-2) înapoi spre centru.",
-            "en": "Use the local bus (L-1 or L-2) back to the center."
+            "en": "Use the local bus (L-1 or L-2) back to the center.",
+            "es": "Usa el autobús local (L-1 o L-2) de vuelta al centro."
           }
         }
       ],
@@ -1883,7 +2036,8 @@
         "de": "Die Cercanías-Bahn ist die Ader der Costa del Sol. Beginnen Sie an der Plaza de la Nogalera im Zentrum. Nutzen Sie die Bahn, um bequem zum Parque La Batería zu gelangen. Ein kurzer Spaziergang führt Sie hinunter zum ikonischen Strand von La Carihuela. Beenden Sie Ihren Tag mit einer kurzen Busfahrt zurück zum Monumento al Turista.",
         "hu": "A Cercanías vonat a Costa del Sol ütőere. Kezdj a központi Plaza de la Nogaleránál. Használd a vonatot, hogy kényelmesen eljuss a Parque La Bateríába. Egy rövid séta levezet az ikonikus La Carihuela strandra. Zárd a napot egy rövid buszúttal vissza a Monumento al Turistához.",
         "ro": "Trenul Cercanías este artera principală a Costa del Sol. Începeți în Plaza de la Nogalera din centru. Folosiți trenul pentru a ajunge ușor la Parque La Batería. O scurtă plimbare vă duce la plaja iconică La Carihuela. Încheiați ziua cu o scurtă călătorie cu autobuzul înapoi la Monumento al Turista.",
-        "en": "The Cercanías train is the lifeline of the Costa del Sol. Start at Plaza de la Nogalera in the center. Use the train to comfortably reach Parque La Batería. A short walk leads you down to the iconic La Carihuela beach. Finish your day with a quick bus ride back to the Monumento al Turista."
+        "en": "The Cercanías train is the lifeline of the Costa del Sol. Start at Plaza de la Nogalera in the center. Use the train to comfortably reach Parque La Batería. A short walk leads you down to the iconic La Carihuela beach. Finish your day with a quick bus ride back to the Monumento al Turista.",
+        "es": "El tren de Cercanías es la columna vertebral de la Costa del Sol. Comienza en la Plaza de la Nogalera en el centro. Usa el tren para llegar cómodamente al Parque La Batería. Una breve caminata te conduce hasta la icónica playa de La Carihuela. Termina el día con un rápido trayecto en autobús de regreso al Monumento al Turista."
       },
       "gastro_picks": {
         "de": [
@@ -1991,6 +2145,12 @@
           "Trains run every 20 minutes towards Málaga and Fuengirola.",
           "Local buses accept card payments.",
           "Train stations are accessible and equipped with elevators."
+        ],
+        "es": [
+          "Compra una tarjeta recargable para Cercanías.",
+          "Los trenes circulan cada 20 minutos hacia Málaga y Fuengirola.",
+          "Los autobuses locales aceptan pagos con tarjeta.",
+          "Las estaciones de tren son accesibles y están equipadas con ascensores."
         ]
       },
       "variants": {
@@ -1999,7 +2159,8 @@
             "de": "Die Cercanías-Bahn ist die Ader der Costa del Sol. Beginnen Sie an der Plaza de la Nogalera im Zentrum. Nutzen Sie die Bahn, um bequem zum Parque La Batería zu gelangen. Ein kurzer Spaziergang führt Sie hinunter zum ikonischen Strand von La Carihuela. Beenden Sie Ihren Tag mit einer kurzen Busfahrt zurück zum Monumento al Turista.",
             "hu": "A Cercanías vonat a Costa del Sol ütőere. Kezdj a központi Plaza de la Nogaleránál. Használd a vonatot, hogy kényelmesen eljuss a Parque La Bateríába. Egy rövid séta levezet az ikonikus La Carihuela strandra. Zárd a napot egy rövid buszúttal vissza a Monumento al Turistához.",
             "ro": "Trenul Cercanías este artera principală a Costa del Sol. Începeți în Plaza de la Nogalera din centru. Folosiți trenul pentru a ajunge ușor la Parque La Batería. O scurtă plimbare vă duce la plaja iconică La Carihuela. Încheiați ziua cu o scurtă călătorie cu autobuzul înapoi la Monumento al Turista.",
-            "en": "The Cercanías train is the lifeline of the Costa del Sol. Start at Plaza de la Nogalera in the center. Use the train to comfortably reach Parque La Batería. A short walk leads you down to the iconic La Carihuela beach. Finish your day with a quick bus ride back to the Monumento al Turista."
+            "en": "The Cercanías train is the lifeline of the Costa del Sol. Start at Plaza de la Nogalera in the center. Use the train to comfortably reach Parque La Batería. A short walk leads you down to the iconic La Carihuela beach. Finish your day with a quick bus ride back to the Monumento al Turista.",
+            "es": "El tren de Cercanías es la columna vertebral de la Costa del Sol. Comienza en la Plaza de la Nogalera en el centro. Usa el tren para llegar cómodamente al Parque La Batería. Una breve caminata te conduce hasta la icónica playa de La Carihuela. Termina el día con un rápido trayecto en autobús de regreso al Monumento al Turista."
           },
           "stops": [
             {
@@ -2008,7 +2169,8 @@
                 "de": "Hier befindet sich die S-Bahn-Station (Cercanías C-1).",
                 "hu": "Itt található a HÉV-állomás (Cercanías C-1).",
                 "ro": "Aici se află stația de tren suburban (Cercanías C-1).",
-                "en": "This is where the suburban train station is located (Cercanías C-1)."
+                "en": "This is where the suburban train station is located (Cercanías C-1).",
+                "es": "Aquí se encuentra la estación de Cercanías (Cercanías C-1)."
               }
             },
             {
@@ -2017,7 +2179,8 @@
                 "de": "Nur 2 Minuten zu Fuß von der Station Nogalera entfernt.",
                 "hu": "Csak 2 perc séta a Nogalera állomástól.",
                 "ro": "La doar 2 minute de mers pe jos de stația Nogalera.",
-                "en": "Just a 2-minute walk from Nogalera station."
+                "en": "Just a 2-minute walk from Nogalera station.",
+                "es": "A solo 2 minutos a pie de la estación Nogalera."
               }
             },
             {
@@ -2026,7 +2189,8 @@
                 "de": "Nehmen Sie die S-Bahn bis zur Haltestelle Montemar Alto.",
                 "hu": "Utazz a HÉV-vel a Montemar Alto megállóig.",
                 "ro": "Luați trenul până la stația Montemar Alto.",
-                "en": "Take the train to the Montemar Alto stop."
+                "en": "Take the train to the Montemar Alto stop.",
+                "es": "Toma el tren hasta la parada Montemar Alto."
               }
             },
             {
@@ -2035,7 +2199,8 @@
                 "de": "Von Montemar Alto aus sind es 10 Minuten bergab zum Strand.",
                 "hu": "Montemar Altótól 10 perc séta lefelé a strandig.",
                 "ro": "De la Montemar Alto sunt 10 minute la vale până la plajă.",
-                "en": "From Montemar Alto, it is a 10-minute downhill walk to the beach."
+                "en": "From Montemar Alto, it is a 10-minute downhill walk to the beach.",
+                "es": "Desde Montemar Alto hay una caminata cuesta abajo de 10 minutos hasta la playa."
               }
             },
             {
@@ -2044,7 +2209,8 @@
                 "de": "Nutzen Sie den lokalen Bus (L-1 oder L-2) zurück ins Zentrum.",
                 "hu": "Használd a helyi buszt (L-1 vagy L-2) vissza a központba.",
                 "ro": "Folosiți autobuzul local (L-1 sau L-2) înapoi spre centru.",
-                "en": "Use the local bus (L-1 or L-2) back to the center."
+                "en": "Use the local bus (L-1 or L-2) back to the center.",
+                "es": "Usa el autobús local (L-1 o L-2) de vuelta al centro."
               }
             }
           ],
@@ -2154,6 +2320,12 @@
               "Trains run every 20 minutes towards Málaga and Fuengirola.",
               "Local buses accept card payments.",
               "Train stations are accessible and equipped with elevators."
+            ],
+            "es": [
+              "Compra una tarjeta recargable para Cercanías.",
+              "Los trenes circulan cada 20 minutos hacia Málaga y Fuengirola.",
+              "Los autobuses locales aceptan pagos con tarjeta.",
+              "Las estaciones de tren son accesibles y están equipadas con ascensores."
             ]
           }
         },
@@ -2162,7 +2334,8 @@
             "de": "Ein regnerischer Tag mit dem ÖPNV beginnt an der Plaza de la Nogalera, direkt über dem S-Bahnhof. Mittags erreichen wir die Calle San Miguel zum Shoppen im Trockenen.\n\nNachmittags nehmen wir den Bus zum Parque La Batería. Die überdachten Haltestellen bieten Schutz, während wir auf die nächste Verbindung warten.\n\nWeiter geht es mit dem Bus zur Playa de la Carihuela. Die Fahrt entlang der Küste bietet tolle Ausblicke auf das aufgewühlte Meer, ohne nass zu werden.\n\nDer Tag endet am Monumento al Turista. Die Rückfahrt mit dem Zug ist bequem und trocken, ideal um den Tag Revue passieren zu lassen.",
             "hu": "Az esős nap tömegközlekedéssel a Plaza de la Nogaleránál indul, közvetlenül a vasútállomás felett. Délben a Calle San Miguel fedett részein vásárolunk.\n\nDélután busszal megyünk a Parque La Bateríához. A fedett megállók védelmet nyújtanak, amíg a következő járatra várunk.\n\nFolytatjuk utunkat a Carihuela partjára. A parti buszozás alatt az ablakból nézhetjük a hullámzó tengert anélkül, hogy megáznánk.\n\nA nap a Monumento al Turista közelében zárul. A hazaút vonattal kényelmes és száraz, ideális a nap lezárásához.",
             "ro": "O zi ploioasă cu transportul public începe în Plaza de la Nogalera, chiar deasupra gării. La prânz ajungem pe Calle San Miguel pentru cumpărături la adăpost.\n\nDupă-amiaza luăm autobuzul spre Parque La Batería. Stațiile acoperite oferă protecție în timp ce așteptăm următoarea conexiune.\n\nContinuăm cu autobuzul spre Playa de la Carihuela. Călătoria de-a lungul coastei oferă vederi frumoase spre marea agitată, fără a ne uda.\n\nZiua se încheie la Monumento al Turista. Întoarcerea cu trenul este confortabilă și uscată, perfectă pentru a încheia ziua relaxat.",
-            "en": "A rainy day using public transit starts at Plaza de la Nogalera, right above the train station. At noon, reach Calle San Miguel for some dry window shopping.\n\nIn the afternoon, take the bus to Parque La Batería. The covered bus stops provide shelter while you wait for your next connection.\n\nContinue by bus to Playa de la Carihuela. The ride along the coast offers great views of the choppy sea without you getting wet.\n\nThe day ends at Monumento al Turista. The return trip by train is comfortable and dry, ideal for reflecting on the day’s journey."
+            "en": "A rainy day using public transit starts at Plaza de la Nogalera, right above the train station. At noon, reach Calle San Miguel for some dry window shopping.\n\nIn the afternoon, take the bus to Parque La Batería. The covered bus stops provide shelter while you wait for your next connection.\n\nContinue by bus to Playa de la Carihuela. The ride along the coast offers great views of the choppy sea without you getting wet.\n\nThe day ends at Monumento al Turista. The return trip by train is comfortable and dry, ideal for reflecting on the day’s journey.",
+            "es": "Un día lluvioso usando transporte público comienza en la Plaza de la Nogalera, justo encima de la estación de tren. Al mediodía, llega a la Calle San Miguel para hacer escaparates a cubierto.\n\nPor la tarde, toma el autobús hasta el Parque La Batería. Las marquesinas cubiertas ofrecen refugio mientras esperas la siguiente conexión.\n\nContinúa en autobús hasta la Playa de la Carihuela. El recorrido por la costa ofrece buenas vistas del mar agitado sin que te mojes.\n\nEl día termina en el Monumento al Turista. El regreso en tren es cómodo y seco, ideal para reflexionar sobre la jornada."
           },
           "stops": [
             {
@@ -2171,7 +2344,8 @@
                 "de": "Der Bahnhof ist unterirdisch und absolut trocken.",
                 "hu": "Az állomás a föld alatt van, teljesen száraz.",
                 "ro": "Gara este subterană și perfect uscată.",
-                "en": "The train station is underground and completely dry."
+                "en": "The train station is underground and completely dry.",
+                "es": "La estación de tren está subterránea y completamente seca."
               }
             },
             {
@@ -2180,7 +2354,8 @@
                 "de": "Nur 2 Minuten Fußweg vom Bahnhof Torremolinos.",
                 "hu": "Csak 2 perc séta a Torremolinos vasútállomástól.",
                 "ro": "Doar 2 minute de mers pe jos de la gară.",
-                "en": "Just a 2-minute walk from the Torremolinos station."
+                "en": "Just a 2-minute walk from the Torremolinos station.",
+                "es": "A solo 2 minutos a pie de la estación de Torremolinos."
               }
             },
             {
@@ -2189,7 +2364,8 @@
                 "de": "Nutzen Sie den Bahnhof Montemar Alto (C1).",
                 "hu": "Használja a Montemar Alto (C1) vasútállomást.",
                 "ro": "Folosiți gara Montemar Alto (linia C1).",
-                "en": "Use the Montemar Alto (C1 line) train station."
+                "en": "Use the Montemar Alto (C1 line) train station.",
+                "es": "Utiliza la estación Montemar Alto (línea C1)."
               }
             },
             {
@@ -2198,7 +2374,8 @@
                 "de": "Buslinie M-110 hält direkt an der Küstenstraße.",
                 "hu": "Az M-110-es busz közvetlenül a parti úton áll meg.",
                 "ro": "Autobuzul M-110 oprește chiar pe drumul de coastă.",
-                "en": "Bus line M-110 stops right on the coastal road."
+                "en": "Bus line M-110 stops right on the coastal road.",
+                "es": "La línea de autobús M-110 para justo en la carretera costera."
               }
             },
             {
@@ -2207,7 +2384,8 @@
                 "de": "Nahegelegene Bushaltestellen bieten Regenschutz.",
                 "hu": "A közeli buszmegállók fedettek az eső ellen.",
                 "ro": "Stațiile de autobuz din apropiere sunt acoperite.",
-                "en": "Nearby bus stops are covered against the rain."
+                "en": "Nearby bus stops are covered against the rain.",
+                "es": "Las paradas de autobús cercanas están cubiertas contra la lluvia."
               }
             }
           ],
@@ -2235,6 +2413,12 @@
               "Download the 'Avanza' app for real-time bus tracking.",
               "Buy a multi-trip card to save money on fares.",
               "Trains are climate-controlled and stay perfectly dry."
+            ],
+            "es": [
+              "El tren C1 pasa cada 20 minutos y es muy fiable.",
+              "Descarga la app 'Avanza' para el seguimiento en tiempo real de los autobuses.",
+              "Compra una tarjeta de viajes múltiples para ahorrar en los billetes.",
+              "Los trenes están climatizados y se mantienen perfectamente secos."
             ]
           }
         },
@@ -2243,7 +2427,8 @@
             "de": "Ein klarer Wintermorgen beginnt an der Plaza de la Nogalera. Ohne die Sommermassen ist der ÖPNV sehr entspannt. Mittags bummelt man durch die Calle San Miguel.\n\nNachmittags nehmen wir den Zug zum Parque La Batería. Der kurze Spaziergang vom Bahnhof Montemar Alto ist bei kühleren Temperaturen sehr angenehm.\n\nWeiter geht es zur Playa de la Carihuela mit dem Bus. Man bekommt immer einen Sitzplatz am Fenster, um die Wintersonne über dem Meer zu genießen.\n\nDer Tag endet am Monumento al Turista. Mit der S-Bahn geht es zurück ins Zentrum, wo die beleuchteten Straßen eine gemütliche Winterstimmung verbreiten.",
             "hu": "Tiszta téli reggel indul a Plaza de la Nogaleránál. A nyári tömeg nélkül a közlekedés nagyon pihentető. Délben a Calle San Miguelen nézelődünk.\n\nDélután vonattal megyünk a Parque La Bateríához. A Montemar Alto állomástól tett rövid séta a hűvösben kifejezetten kellemes.\n\nFolytatjuk utunkat busszal a Carihuela partjára. Mindig jut ablak melletti hely, hogy élvezzük a tenger feletti téli napsütést.\n\nA nap a Monumento al Turista közelében zárul. Hévvel megyünk vissza a központba, ahol a kivilágított utcák barátságos téli hangulatot árasztanak.",
             "ro": "O dimineață senină de iarnă începe în Plaza de la Nogalera. Fără masele de turiști, transportul este foarte relaxat. La prânz ne plimbăm pe Calle San Miguel.\n\nDupă-amiaza luăm trenul spre Parque La Batería. Scurta plimbare de la gara Montemar Alto este foarte plăcută la temperaturile răcoroase.\n\nContinuăm spre Playa de la Carihuela cu autobuzul. Veți găsi mereu loc la fereastră pentru a admira soarele de iarnă peste mare.\n\nZiua se încheie la Monumento al Turista. Revenim cu trenul în centru, unde străzile iluminate oferă o atmosferă caldă de iarnă.",
-            "en": "A clear winter morning starts at Plaza de la Nogalera. Without the summer crowds, public transit is very relaxed. At noon, wander through Calle San Miguel.\n\nIn the afternoon, take the train to Parque La Batería. The short walk from Montemar Alto station is very pleasant in the cooler temperatures.\n\nContinue to Playa de la Carihuela by bus. You’ll always find a window seat to enjoy the winter sun over the Mediterranean.\n\nThe day concludes at the Monumento al Turista. Take the train back to the center, where the lit streets create a cozy winter atmosphere."
+            "en": "A clear winter morning starts at Plaza de la Nogalera. Without the summer crowds, public transit is very relaxed. At noon, wander through Calle San Miguel.\n\nIn the afternoon, take the train to Parque La Batería. The short walk from Montemar Alto station is very pleasant in the cooler temperatures.\n\nContinue to Playa de la Carihuela by bus. You’ll always find a window seat to enjoy the winter sun over the Mediterranean.\n\nThe day concludes at the Monumento al Turista. Take the train back to the center, where the lit streets create a cozy winter atmosphere.",
+            "es": "Una mañana clara de invierno comienza en la Plaza de la Nogalera. Sin las multitudes de verano, el transporte público es muy tranquilo. Al mediodía, pasea por la Calle San Miguel.\n\nPor la tarde, toma el tren hasta el Parque La Batería. La breve caminata desde la estación Montemar Alto es muy agradable con temperaturas más frescas.\n\nContinúa a la Playa de la Carihuela en autobús. Siempre encontrarás un asiento junto a la ventana para disfrutar del sol invernal sobre el Mediterráneo.\n\nEl día concluye en el Monumento al Turista. Toma el tren de vuelta al centro, donde las calles iluminadas crean una atmósfera acogedora de invierno."
           },
           "stops": [
             {
@@ -2252,7 +2437,8 @@
                 "de": "Idealer Startpunkt mit direktem Zugang zur S-Bahn.",
                 "hu": "Ideális kiindulópont közvetlen hév-csatlakozással.",
                 "ro": "Punct de plecare ideal cu acces direct la tren.",
-                "en": "Ideal starting point with direct access to the train."
+                "en": "Ideal starting point with direct access to the train.",
+                "es": "Punto de partida ideal con acceso directo al tren."
               }
             },
             {
@@ -2261,7 +2447,8 @@
                 "de": "Die Züge sind im Winter weniger voll und sehr pünktlich.",
                 "hu": "A vonatok télen kevésbé zsúfoltak és nagyon pontosak.",
                 "ro": "Trenurile sunt mai libere iarna și foarte punctuale.",
-                "en": "Trains are less crowded in winter and very punctual."
+                "en": "Trains are less crowded in winter and very punctual.",
+                "es": "Los trenes están menos llenos en invierno y son muy puntuales."
               }
             },
             {
@@ -2270,7 +2457,8 @@
                 "de": "Kurzer, erfrischender Fußweg vom Bahnhof Montemar Alto.",
                 "hu": "Rövid, frissítő séta a Montemar Alto állomástól.",
                 "ro": "Scurtă plimbare revigorantă de la gara Montemar Alto.",
-                "en": "A short, refreshing walk from Montemar Alto station."
+                "en": "A short, refreshing walk from Montemar Alto station.",
+                "es": "Un paseo corto y refrescante desde la estación Montemar Alto."
               }
             },
             {
@@ -2279,7 +2467,8 @@
                 "de": "Genießen Sie die Aussicht aus dem beheizten Bus.",
                 "hu": "Élvezze a kilátást a fűtött buszból.",
                 "ro": "Bucurați-vă de priveliște din autobuzul încălzit.",
-                "en": "Enjoy the view from the climate-controlled bus."
+                "en": "Enjoy the view from the climate-controlled bus.",
+                "es": "Disfruta de la vista desde el autobús climatizado."
               }
             },
             {
@@ -2288,7 +2477,8 @@
                 "de": "Gute Verbindungen zurück zum Flughafen oder Malaga.",
                 "hu": "Jó összeköttetések a repülőtér vagy Malaga felé.",
                 "ro": "Conexiuni bune spre aeroport sau Malaga.",
-                "en": "Good connections back toward the airport or Malaga."
+                "en": "Good connections back toward the airport or Malaga.",
+                "es": "Buenas conexiones de regreso hacia el aeropuerto o Málaga."
               }
             }
           ],
@@ -2316,6 +2506,12 @@
               "In winter, schedules might be slightly reduced.",
               "Keep a jacket handy; trains can be drafty.",
               "The 'Tarjeta Renfe' card pays off after just a few trips."
+            ],
+            "es": [
+              "Usa el tren C1 para viajar rápidamente entre pueblos costeros.",
+              "En invierno los horarios pueden reducirse ligeramente.",
+              "Lleva una chaqueta; los trenes pueden tener corrientes de aire.",
+              "La 'Tarjeta Renfe' compensa tras solo unos viajes."
             ]
           }
         }
@@ -2332,19 +2528,22 @@
       "de": "Torremolinos ist seit den 60ern Tourismus-Hochburg, Englisch und Deutsch werden ueberall verstanden, sogar viele Speisekarten sind mehrsprachig. Im Fischerviertel La Carihuela schmecken die 'espetos de sardinas' am besten, sagen Sie 'la cuenta por favor' zum Schluss.",
       "hu": "Torremolinos a 60-as évek óta turistaközpont, az angol és német mindenhol megy, sok étlap többnyelvű. A La Carihuela halászfaluban a 'espetos de sardinas' (nyársas szardínia) a legjobb, a végén 'la cuenta por favor' kéri a számlát.",
       "ro": "Torremolinos e centru turistic din anii '60, engleza si germana sunt intelese peste tot, multe meniuri sunt multilingve. In cartierul pescaresc La Carihuela cere 'espetos de sardinas', cele mai bune sardine la frigare, iar la final 'la cuenta por favor'.",
-      "en": "Torremolinos has been tourist central since the 1960s, English and German work everywhere and many menus are multilingual. In the La Carihuela fishing quarter the 'espetos de sardinas' (sardines on a stake) are king, finish with 'la cuenta por favor'."
+      "en": "Torremolinos has been tourist central since the 1960s, English and German work everywhere and many menus are multilingual. In the La Carihuela fishing quarter the 'espetos de sardinas' (sardines on a stake) are king, finish with 'la cuenta por favor'.",
+      "es": "Torremolinos ha sido centro turístico desde los años 60; el inglés y el alemán se usan ampliamente y muchos menús son multilingües. En el barrio pesquero de La Carihuela mandan los espetos de sardinas; termina con 'la cuenta, por favor'."
     },
     "best_time_to_visit": {
       "de": "Mai bis Juni und September bis Oktober sind angenehm, im Juli und August ist die Stadt voll mit britischen und nordeuropaeischen Urlaubern. Der Winter ist mild und die Stadt veranstaltet jedes Jahr im Juni eine grosse Pride-Parade.",
       "hu": "Május-június és szeptember-október kellemes, júliusban és augusztusban tele van brit és észak-európai turistákkal. Tél enyhe, és minden évben júniusban óriási Pride-felvonulást rendeznek.",
       "ro": "Mai-iunie si septembrie-octombrie sunt placute, in iulie-august orasul e plin de britanici si nord-europeni. Iarna e blanda, iar in iunie are loc o mare parada Pride in fiecare an.",
-      "en": "May to June and September to October are pleasant, July and August fill up with British and Northern European holidaymakers. Winter is mild, and every June the city hosts one of Spain's biggest Pride parades."
+      "en": "May to June and September to October are pleasant, July and August fill up with British and Northern European holidaymakers. Winter is mild, and every June the city hosts one of Spain's biggest Pride parades.",
+      "es": "De mayo a junio y de septiembre a octubre el clima es agradable; julio y agosto se llenan de británicos y turistas del norte de Europa. El invierno es suave y cada junio la ciudad celebra uno de los mayores desfiles del Orgullo de España."
     },
     "neighborhood_warnings": {
       "de": "Torremolinos ist generell sicher, aber nachts in der Calle San Miguel und um den Plaza Costa del Sol sind Taschendiebe aktiv, Geldboerse vorn tragen. Am Bahnhof und in den Cercanias-Zuegen nach Malaga auf Wertsachen achten.",
       "hu": "Torremolinos általában biztonságos, de éjjel a Calle San Miguelen és a Plaza Costa del Solon zsebmetszők dolgoznak, a tárcát elöl hordd. A vasútállomáson és a Málagába tartó Cercanias vonatokon különösen figyelj az értékekre.",
       "ro": "Torremolinos e in general sigur, dar noaptea pe Calle San Miguel si in Plaza Costa del Sol opereaza buzunari, tine portofelul in fata. La gara si in trenurile Cercanias spre Malaga ai grija la lucruri.",
-      "en": "Torremolinos is generally safe, but at night Calle San Miguel and Plaza Costa del Sol attract pickpockets, keep your wallet in a front pocket. The train station and Cercanias trains to Malaga also need extra vigilance."
+      "en": "Torremolinos is generally safe, but at night Calle San Miguel and Plaza Costa del Sol attract pickpockets, keep your wallet in a front pocket. The train station and Cercanias trains to Malaga also need extra vigilance.",
+      "es": "Torremolinos es en general seguro, pero de noche Calle San Miguel y Plaza Costa del Sol atraen carteristas; guarda la cartera en un bolsillo delantero. La estación y los trenes de Cercanías hacia Málaga también requieren algo de vigilancia."
     }
   }
 }

@@ -21,7 +21,8 @@
             "de": "Rathaus von Gozón",
             "hu": "Gozóni Városháza",
             "ro": "Primăria Gozón",
-            "en": "Gozón Town Hall"
+            "en": "Gozón Town Hall",
+            "es": "Casa Consistorial de Gozón"
           },
           "coords": [
             -5.793833,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die historische Fassade des Rathauses von Gozón, die das Verwaltungserbe widerspiegelt, und fotografieren Sie in den ruhigeren Morgenstunden.",
             "hu": "Csodálja meg a gozóni városháza történelmi homlokzatát, amely a város közigazgatási örökségét tükrözi, és fotózzon a csendesebb reggeli órákban.",
             "ro": "Admirați fațada istorică a Primăriei Gozón, care reflectă moștenirea administrativă a orașului, și faceți fotografii în orele mai liniștite ale dimineții.",
-            "en": "Admire the historic facade of the Gozón Town Hall, which reflects the town's administrative heritage, and snap photos during the quieter morning hours."
+            "en": "Admire the historic facade of the Gozón Town Hall, which reflects the town's administrative heritage, and snap photos during the quieter morning hours.",
+            "es": "Admira la fachada histórica del Ayuntamiento de Gozón, que refleja la herencia administrativa del pueblo, y haz fotos durante las mañanas más tranquilas."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Playa de la Ribera",
             "hu": "Playa de la Ribera",
             "ro": "Playa de la Ribera",
-            "en": "Playa de la Ribera"
+            "en": "Playa de la Ribera",
+            "es": "Playa de la Ribera"
           },
           "coords": [
             -5.791488,
@@ -59,7 +62,8 @@
             "de": "Entspannen Sie sich am weichen Sand der Playa de la Ribera, einem charmanten, familienfreundlichen Stadtstrand, und bringen Sie Snacks für eine Pause mit.",
             "hu": "Pihenjen a Playa de la Ribera finom homokján, amely egy elbűvölő, családbarát városi strand, és hozzon magával némi harapnivalót egy tízóraihoz.",
             "ro": "Relaxați-vă pe nisipul fin de la Playa de la Ribera, o plajă urbană fermecătoare pentru familii, și aduceți o gustare pentru o pauză de dimineață.",
-            "en": "Relax on the soft sands of Playa de la Ribera, a charming urban beach perfect for families, and bring some snacks to enjoy a quiet mid-morning break."
+            "en": "Relax on the soft sands of Playa de la Ribera, a charming urban beach perfect for families, and bring some snacks to enjoy a quiet mid-morning break.",
+            "es": "Relájate en la suave arena de la Playa de la Ribera, una encantadora playa urbana perfecta para familias; lleva algo de picar para disfrutar de un descanso a media mañana."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Aussichtspunkt Pilatos",
             "hu": "Pilatos kilátó",
             "ro": "Punctul de belvedere Pilatos",
-            "en": "Pilatos Viewpoint"
+            "en": "Pilatos Viewpoint",
+            "es": "Mirador de Pilatos"
           },
           "coords": [
             -5.790826,
@@ -82,7 +87,8 @@
             "de": "Genießen Sie den weiten Blick auf das Kantabrische Meer vom Mirador de Pilatos, einem erstklassigen Aussichtspunkt, und achten Sie auf vorbeifahrende Fischerboote.",
             "hu": "Élvezze a Kantábriai-tengerre nyíló lenyűgöző kilátást a Mirador de Pilatos kilátóról, és közben figyelje az elhaladó halászhajókat a távolban.",
             "ro": "Bucurați-vă de priveliștile panoramice asupra Mării Cantabrice de la Mirador de Pilatos, un punct de belvedere excelent unde puteți observa bărcile de pescuit.",
-            "en": "Enjoy sweeping views of the Cantabrian Sea from Mirador de Pilatos, a prime vantage point where you should keep an eye out for passing fishing boats."
+            "en": "Enjoy sweeping views of the Cantabrian Sea from Mirador de Pilatos, a prime vantage point where you should keep an eye out for passing fishing boats.",
+            "es": "Disfruta de las amplias vistas del Cantábrico desde el Mirador de Pilatos, un punto privilegiado donde conviene vigilar los barcos pesqueros que pasan."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Palacio de los Menéndez Pola",
             "hu": "Palacio de los Menéndez Pola",
             "ro": "Palacio de los Menéndez Pola",
-            "en": "Palacio de los Menéndez Pola"
+            "en": "Palacio de los Menéndez Pola",
+            "es": "Palacio de los Menéndez Pola"
           },
           "coords": [
             -5.78859,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie die aristokratische Pracht des Palacio de los Menéndez Pola, eines lokalen Wahrzeichens, und spazieren Sie umher, um die Architektur zu würdigen.",
             "hu": "Fedezze fel a Palacio de los Menéndez Pola arisztokratikus pompáját, amely egy helyi ikon, és járja körbe, hogy megcsodálja a klasszikus építészetet.",
             "ro": "Descoperiți grandoarea aristocratică a Palacio de los Menéndez Pola, un reper local iconic, și plimbați-vă în jurul său pentru a aprecia arhitectura clasică.",
-            "en": "Discover the aristocratic grandeur of Palacio de los Menéndez Pola, an iconic local landmark, and walk around its perimeter to appreciate the classic architecture."
+            "en": "Discover the aristocratic grandeur of Palacio de los Menéndez Pola, an iconic local landmark, and walk around its perimeter to appreciate the classic architecture.",
+            "es": "Descubre la grandeza aristocrática del Palacio de los Menéndez Pola, un emblema local, y pasea alrededor para apreciar su arquitectura clásica."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Playa de Luanco",
             "hu": "Playa de Luanco",
             "ro": "Playa de Luanco",
-            "en": "Playa de Luanco"
+            "en": "Playa de Luanco",
+            "es": "Playa de Luanco"
           },
           "coords": [
             -5.787637,
@@ -128,7 +137,8 @@
             "de": "Entspannen Sie sich an der Playa de Luanco, dem lebhaften Hauptstrand, wo Sie bequem eine Liege mieten und in das klare Küstenwasser eintauchen können.",
             "hu": "Kapcsolódjon ki a Playa de Luanco nyüzsgő főstrandján, ahol könnyedén bérelhet egy napágyat, és megmártózhat a frissítő, tiszta tengervízben.",
             "ro": "Relaxați-vă la Playa de Luanco, plaja principală plină de viață a orașului, unde puteți închiria cu ușurință un șezlong și puteți înota în apele clare.",
-            "en": "Unwind at Playa de Luanco, the town's lively main beach, where you can easily rent a sunbed and dip into the refreshing, clear coastal waters."
+            "en": "Unwind at Playa de Luanco, the town's lively main beach, where you can easily rent a sunbed and dip into the refreshing, clear coastal waters.",
+            "es": "Relájate en la Playa de Luanco, la playa principal y animada del pueblo, donde puedes alquilar fácilmente una tumbona y darte un baño en las refrescantes aguas costeras."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Spaziergang in Luanco am eleganten Rathaus von Gozón und nehmen Sie die historische Atmosphäre in sich auf. Später wechseln Sie zum Sand der Playa de la Ribera, bevor Sie zum Mirador de Pilatos hinaufsteigen. Der Nachmittag ist der Bewunderung des prächtigen Palacio de los Menéndez Pola gewidmet. Lassen Sie den Tag entspannt am lebhaften Strand der Playa de Luanco ausklingen.",
         "hu": "Kezdje luancói sétáját az elegáns gozóni városházánál, magába szívva a helyi történelmi hangulatot. Később térjen át a Playa de la Ribera homokos partjára, mielőtt felmászna a Mirador de Pilatoshoz. A délutánt a lenyűgöző Palacio de los Menéndez Pola megcsodálásának szentelje. Végül zárja a napot a napfényben fürdőzve a Playa de Luanco nyüzsgő partján.",
         "ro": "Începeți plimbarea prin Luanco la eleganta Primărie Gozón, absorbind atmosfera istorică locală. Mai târziu, treceți la nisipul de la Playa de la Ribera, înainte de a urca la Mirador de Pilatos. După-amiaza este dedicată admirării grandiosului Palacio de los Menéndez Pola. În cele din urmă, încheiați ziua relaxată bucurându-vă de soare pe plaja plină de viață Playa de Luanco.",
-        "en": "Begin your Luanco walk at the elegant Gozón Town Hall, absorbing the local historic vibes. By mid-morning, transition to the charming sands of Playa de la Ribera before climbing slightly to Mirador de Pilatos for stunning sea views. The afternoon is dedicated to admiring the grand Palacio de los Menéndez Pola. Finally, end your relaxed day soaking up the sun and lively atmosphere at Playa de Luanco."
+        "en": "Begin your Luanco walk at the elegant Gozón Town Hall, absorbing the local historic vibes. By mid-morning, transition to the charming sands of Playa de la Ribera before climbing slightly to Mirador de Pilatos for stunning sea views. The afternoon is dedicated to admiring the grand Palacio de los Menéndez Pola. Finally, end your relaxed day soaking up the sun and lively atmosphere at Playa de Luanco.",
+        "es": "Comienza tu paseo por Luanco en la elegante Casa Consistorial de Gozón, absorbiendo el ambiente histórico local. A media mañana, pasa a la encantadora Playa de la Ribera antes de subir al Mirador de Pilatos para disfrutar de las vistas al mar. La tarde está dedicada a contemplar el gran Palacio de los Menéndez Pola. Finalmente, termina el día tomando el sol y empapándote del ambiente en la animada Playa de Luanco."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den Morgen im Schutz der Arkaden am Rathaus, um dem atlantischen Nieselregen zu entgehen. Mittags können die Küstenpfade rutschig sein, wandern Sie also vorsichtig entlang der Promenade. Nachmittags bietet die Architektur des Palastes eine majestätische Kulisse vor grauem Himmel. Verbringen Sie den Abend in einem gemütlichen Café, während der Regen gegen die Scheiben peitscht.",
             "hu": "Kezdje a napot a városháza környékén, ahol az árkádok védelmet nyújtanak a szemerkélő eső elől. Délben a sétányon a vizes kövek csúszósak lehetnek, így óvatosan haladjon a part mentén. Délután a palota masszív falai és a közeli beugrók alatt pihenhet meg, figyelve a tenger morajlását. Estére a város fényei megcsillannak a vizes aszfalton, hangulatos lezárást adva a napnak a fedett teraszokon.",
             "ro": "Începeți dimineața sub adăpostul arcadelor din jurul primăriei pentru a evita burnița atlantică. La prânz, potecile de coastă pot fi alunecoase, așa că mergeți cu atenție în timp ce admirați marea. După-amiaza, arhitectura masivă a palatului oferă un decor grandios chiar și sub cerul gri. Petreceți seara într-o cafenea primitoare, ascultând ploaia care bate în ferestrele portului din Luanco.",
-            "en": "Start your morning under the shelter of the historic town hall's surroundings to avoid the Atlantic drizzle. At noon, the coastal paths might be slippery, so walk carefully while enjoying the misty views of the beach. In the afternoon, the palace's solid architecture offers a grand backdrop even under grey skies. Spend your evening in a cozy indoor cafe as the rain hits the windows."
+            "en": "Start your morning under the shelter of the historic town hall's surroundings to avoid the Atlantic drizzle. At noon, the coastal paths might be slippery, so walk carefully while enjoying the misty views of the beach. In the afternoon, the palace's solid architecture offers a grand backdrop even under grey skies. Spend your evening in a cozy indoor cafe as the rain hits the windows.",
+            "es": "Comienza la mañana bajo el amparo del entorno histórico del ayuntamiento para evitar la llovizna atlántica. Al mediodía, los senderos costeros pueden estar resbaladizos, así que camina con cuidado mientras disfrutas de las vistas brumosas de la playa. Por la tarde, la sólida arquitectura del palacio ofrece un gran telón de fondo incluso con el cielo gris. Pasa la noche en una cafetería acogedora mientras la lluvia golpea las ventanas."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Rathaus von Gozón",
                 "hu": "Gozóni Városháza",
                 "ro": "Primăria Gozón",
-                "en": "Gozón Town Hall"
+                "en": "Gozón Town Hall",
+                "es": "Casa Consistorial de Gozón"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Barockfassade des Rathauses aus dem Schutz der nahen Arkaden, um auch an einem regnerischen Morgen trocken zu bleiben und Details zu sehen.",
                 "hu": "Csodálja meg a városháza barokk homlokzatát a közeli árkádok védelméből, így szárazon élvezheti az építészeti részleteket az esős reggelen is, távol a víztől.",
                 "ro": "Admirați fațada barocă a primăriei de la adăpostul arcadelor din apropiere, permițându-vă să rămâneți uscat în timp ce apreciați arhitectura locală pe ploaie.",
-                "en": "Admire the baroque facade of the town hall from the safety of nearby archways, allowing you to stay dry while appreciating the intricate architecture in the rain."
+                "en": "Admire the baroque facade of the town hall from the safety of nearby archways, allowing you to stay dry while appreciating the intricate architecture in the rain.",
+                "es": "Admira la fachada barroca del ayuntamiento desde la seguridad de los pórticos cercanos, lo que te permite mantenerte seco mientras aprecias la arquitectura en la lluvia."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Playa de la Ribera",
                 "hu": "Playa de la Ribera",
                 "ro": "Playa de la Ribera",
-                "en": "Playa de la Ribera"
+                "en": "Playa de la Ribera",
+                "es": "Playa de la Ribera"
               },
               "tip_5lang": {
                 "de": "Der nasse Sand und die glitschigen Steine erfordern Vorsicht; genießen Sie die dramatische Brandung lieber von der befestigten Promenade aus mit Regenschirm.",
                 "hu": "A vizes homok és a csúszós kövek óvatosságot igényelnek; élvezze a drámai hullámzást inkább a kiépített sétány biztonságából, egy jó esernyő társaságában.",
                 "ro": "Nisipul umed și pietrele alunecoase necesită prudență; bucurați-vă de valurile dramatice de pe promenada pavată, unde sunteți protejat de eventualele alunecări.",
-                "en": "The wet sand and slippery stones require caution; enjoy the dramatic waves from the safety of the paved promenade instead of walking directly on the shore."
+                "en": "The wet sand and slippery stones require caution; enjoy the dramatic waves from the safety of the paved promenade instead of walking directly on the shore.",
+                "es": "La arena mojada y las piedras resbaladizas requieren precaución; disfruta de las olas dramáticas desde la seguridad del paseo pavimentado en lugar de caminar por la orilla."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Aussichtspunkt Pilatos",
                 "hu": "Pilatos kilátó",
                 "ro": "Punctul de belvedere Pilatos",
-                "en": "Pilatos Viewpoint"
+                "en": "Pilatos Viewpoint",
+                "es": "Mirador de Pilatos"
               },
               "tip_5lang": {
                 "de": "Der Aussichtspunkt bietet bei Regen eine mystische Atmosphäre; tragen Sie eine windfeste Regenjacke, um den Blick auf das graue Meer ohne nass zu werden zu genießen.",
                 "hu": "A kilátó esőben misztikus hangulatot áraszt; viseljen szélálló esőkabátot, hogy zavartalanul élvezhesse a szürke tenger látványát a meredek sziklák felett.",
                 "ro": "Punctul de belvedere oferă o atmosferă mistică pe ploaie; purtați o pelerină rezistentă la vânt pentru a admira marea agitată de deasupra stâncilor abrupte.",
-                "en": "The viewpoint offers a mystical atmosphere in the rain; wear a windproof raincoat to enjoy the grey sea views from the cliffs without getting soaked by the spray."
+                "en": "The viewpoint offers a mystical atmosphere in the rain; wear a windproof raincoat to enjoy the grey sea views from the cliffs without getting soaked by the spray.",
+                "es": "El mirador ofrece una atmósfera mística con lluvia; ponte un impermeable cortavientos para disfrutar de las vistas grises desde los acantilados sin empaparte por la espuma."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Palacio de los Menéndez Pola",
                 "hu": "Palacio de los Menéndez Pola",
                 "ro": "Palacio de los Menéndez Pola",
-                "en": "Palacio de los Menéndez Pola"
+                "en": "Palacio de los Menéndez Pola",
+                "es": "Palacio de los Menéndez Pola"
               },
               "tip_5lang": {
                 "de": "Die massiven Mauern des Palastes wirken im Regen besonders imposant; suchen Sie Schutz unter den Vorsprüngen, während Sie die Wappen im Detail studieren.",
                 "hu": "A palota masszív falai esőben különösen impozánsak; keressen menedéket a kiszöggelések alatt, miközben a nemesi címereket és a kőfaragványokat tanulmányozza.",
                 "ro": "Zidurile masive ale palatului par impunătoare pe ploaie; căutați adăpost sub cornișe în timp ce studiați stemele nobiliare și detaliile sculptate în piatră.",
-                "en": "The massive walls of the palace look especially imposing in the rain; seek shelter under the overhangs while studying the noble coats of arms and stonework."
+                "en": "The massive walls of the palace look especially imposing in the rain; seek shelter under the overhangs while studying the noble coats of arms and stonework.",
+                "es": "Los muros macizos del palacio se ven especialmente imponente bajo la lluvia; busca refugio bajo los aleros mientras examinas los escudos nobiliarios y la cantería."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Playa de Luanco",
                 "hu": "Playa de Luanco",
                 "ro": "Playa de Luanco",
-                "en": "Playa de Luanco"
+                "en": "Playa de Luanco",
+                "es": "Playa de Luanco"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag mit einem Blick auf die regnerische Bucht von einem der überdachten Cafés aus, wo Sie das stürmische Wetter gemütlich beobachten können.",
                 "hu": "Zárja a napot az esős öböl látványával az egyik fedett kávézó teraszáról, ahonnan kényelmesen és szárazon figyelheti a tengerparti időjárás változásait.",
                 "ro": "Încheiați ziua cu o vedere spre golful ploios de la una dintre cafenelele acoperite, unde puteți observa marea în confort și căldură, departe de ploaie.",
-                "en": "End the day with a view of the rainy bay from one of the covered cafe terraces, where you can comfortably watch the coastal weather unfold with a warm drink."
+                "en": "End the day with a view of the rainy bay from one of the covered cafe terraces, where you can comfortably watch the coastal weather unfold with a warm drink.",
+                "es": "Termina el día con vistas de la bahía lluviosa desde una de las terrazas cubiertas de las cafeterías, donde podrás ver el tiempo costero con una bebida caliente."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Die klare Winterluft begrüßt Sie am Rathaus; halten Sie Ihren Schal gegen die Meeresbrise fest. Mittags erzeugt die tiefstehende Sonne lange Schatten am Strand und bietet eine einzigartige Perspektive. Erreichen Sie den Aussichtspunkt früh, da die Sonne gegen 17:00 Uhr untergeht und es schnell kalt wird. Beenden Sie den Tag in einer beheizten Taverne, um sich nach dem Küstenspaziergang aufzuwärmen.",
             "hu": "A hűvös reggelen a városháza környéki szűk utcák védenek a széltől, érdemes rétegesen öltözni. Délben a tengerparti sétányon a téli napsütés csalóka, de a látvány kristálytiszta a hideg levegőben. Délután siessen a kilátóhoz, mert a nap korán, 17:00 körül nyugszik, és a hőmérséklet gyorsan süllyed. Estére húzódjon be egy fűtött helyre Luanco nyugalmát élvezni.",
             "ro": "Aerul proaspăt de iarnă vă întâmpină la primărie; strângeți fularul împotriva brizelor marine. La prânz, soarele palid creează umbre lungi pe plajă, oferind o perspectivă unică asupra coastei. Ajungeți la punctul de belvedere devreme, deoarece soarele apune la ora 17:00 și frigul se lasă brusc. Încheiați ziua într-o tavernă încălzită pentru a vă dezmorți după plimbare.",
-            "en": "The crisp winter air greets you at the town hall; keep your scarf tight against the sea breeze. By midday, the low winter sun creates long shadows across the beach, offering a unique perspective of the coast. Remember to reach the viewpoint early, as the sun sets by 17:00 and the temperature drops sharply. Finish your day in a heated local tavern to warm up after the chilly coastal walk."
+            "en": "The crisp winter air greets you at the town hall; keep your scarf tight against the sea breeze. By midday, the low winter sun creates long shadows across the beach, offering a unique perspective of the coast. Remember to reach the viewpoint early, as the sun sets by 17:00 and the temperature drops sharply. Finish your day in a heated local tavern to warm up after the chilly coastal walk.",
+            "es": "El aire frío de invierno te recibe en el ayuntamiento; ajusta bien la bufanda contra la brisa marina. Al mediodía, el sol bajo de invierno crea sombras largas en la playa, ofreciendo una perspectiva única de la costa. Recuerda llegar temprano al mirador, ya que el sol se pone sobre las 17:00 y la temperatura baja con rapidez. Termina el día en una taberna local con calefacción para entrar en calor tras la fría caminata costera."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Rathaus von Gozón",
                 "hu": "Gozóni Városháza",
                 "ro": "Primăria Gozón",
-                "en": "Gozón Town Hall"
+                "en": "Gozón Town Hall",
+                "es": "Casa Consistorial de Gozón"
               },
               "tip_5lang": {
                 "de": "Das Zentrum ist im Winter ruhiger; nutzen Sie die kühle Morgenluft für Fotos ohne Touristenmassen vor dem Rathaus, bevor Sie sich in ein Café zurückziehen.",
                 "hu": "A történelmi központ télen csendesebb; használja ki a hűvös reggeli levegőt a városháza előtti fotózáshoz a turistaáradat nélkül, majd keressen egy meleg kávézót.",
                 "ro": "Centrul istoric este mai liniștit iarna; profitați de aerul rece al dimineții pentru fotografii fără mulțimi în fața primăriei, apoi retrageți-vă la căldură.",
-                "en": "The historic center is quieter in winter; take advantage of the crisp morning air for photos in front of the town hall without the crowds before warming up inside."
+                "en": "The historic center is quieter in winter; take advantage of the crisp morning air for photos in front of the town hall without the crowds before warming up inside.",
+                "es": "El centro histórico está más tranquilo en invierno; aprovecha el aire fresco de la mañana para hacer fotos frente al ayuntamiento sin multitudes antes de calentarte en su interior."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Playa de la Ribera",
                 "hu": "Playa de la Ribera",
                 "ro": "Playa de la Ribera",
-                "en": "Playa de la Ribera"
+                "en": "Playa de la Ribera",
+                "es": "Playa de la Ribera"
               },
               "tip_5lang": {
                 "de": "Die Wintersonne steht tief über dem Meer; tragen Sie eine Sonnenbrille gegen die Reflexionen auf dem Wasser, während Sie den weiten Blick genießen.",
                 "hu": "A téli nap alacsonyan jár a tenger felett; viseljen napszemüveget a vízen megcsillanó erős fények ellen, miközben a tiszta horizontot kémleli a parton.",
                 "ro": "Soarele de iarnă este jos deasupra mării; purtați ochelari de soare împotriva reflexiilor puternice de pe apă în timp ce admirați orizontul senin pe plajă.",
-                "en": "The winter sun sits low over the sea; wear sunglasses against the glare reflecting off the water while enjoying the clear horizon views from the shore."
+                "en": "The winter sun sits low over the sea; wear sunglasses against the glare reflecting off the water while enjoying the clear horizon views from the shore.",
+                "es": "El sol de invierno está bajo sobre el mar; lleva gafas de sol contra el deslumbramiento que refleja el agua mientras disfrutas del horizonte claro desde la orilla."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Aussichtspunkt Pilatos",
                 "hu": "Pilatos kilátó",
                 "ro": "Punctul de belvedere Pilatos",
-                "en": "Pilatos Viewpoint"
+                "en": "Pilatos Viewpoint",
+                "es": "Mirador de Pilatos"
               },
               "tip_5lang": {
                 "de": "Der Wind kann hier oben im Winter sehr beißend sein; eine warme Mütze und Handschuhe sind Pflicht, um das Panorama in Ruhe bewundern zu können.",
                 "hu": "A szél télen nagyon metsző lehet itt fent a sziklákon; egy meleg sapka és kesztyű kötelező, hogy nyugodtan megcsodálhassa a téli tengeri panorámát.",
                 "ro": "Vântul poate fi foarte tăios aici sus în timpul iernii; o căciulă caldă și mănușile sunt obligatorii pentru a admira panorama marină în liniște.",
-                "en": "The wind can be very biting up here in winter; a warm hat and gloves are essential to enjoy the panoramic sea views without feeling the freezing chill."
+                "en": "The wind can be very biting up here in winter; a warm hat and gloves are essential to enjoy the panoramic sea views without feeling the freezing chill.",
+                "es": "Aquí arriba el viento puede ser muy penetrante en invierno; un gorro cálido y guantes son imprescindibles para disfrutar de las vistas panorámicas al mar sin sentir el frío helado."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Palacio de los Menéndez Pola",
                 "hu": "Palacio de los Menéndez Pola",
                 "ro": "Palacio de los Menéndez Pola",
-                "en": "Palacio de los Menéndez Pola"
+                "en": "Palacio de los Menéndez Pola",
+                "es": "Palacio de los Menéndez Pola"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das letzte Tageslicht vor 17:00 Uhr, um die Details des Palastes zu sehen, bevor die Schatten der frühen Dämmerung die Architektur einhüllen.",
                 "hu": "Használja ki az utolsó fényeket 17:00 előtt a palota részleteinek megtekintéséhez, mielőtt a korai alkonyat árnyékai teljesen beborítják az épületet.",
                 "ro": "Profitați de ultima lumină înainte de ora 17:00 pentru a vedea detaliile palatului, înainte ca umbrele amurgului timpuriu să cuprindă întreaga arhitectură.",
-                "en": "Take advantage of the last light before 17:00 to see the palace details before the early twilight shadows envelop the historic architecture completely."
+                "en": "Take advantage of the last light before 17:00 to see the palace details before the early twilight shadows envelop the historic architecture completely.",
+                "es": "Aprovecha la última luz antes de las 17:00 para ver los detalles del palacio antes de que las sombras del crepúsculo temprano envuelvan completamente la arquitectura histórica."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Playa de Luanco",
                 "hu": "Playa de Luanco",
                 "ro": "Playa de Luanco",
-                "en": "Playa de Luanco"
+                "en": "Playa de Luanco",
+                "es": "Playa de Luanco"
               },
               "tip_5lang": {
                 "de": "Der Strand ist im Winter fast leer; genießen Sie die Einsamkeit bei einem kurzen Spaziergang und wärmen Sie sich danach sofort in einem beheizten Restaurant.",
                 "hu": "A strand télen szinte üres; élvezze a magányos sétát a parton, majd melegedjen fel azonnal az egyik közeli, fűtött étteremben egy forró itallal.",
                 "ro": "Plaja este aproape goală iarna; bucurați-vă de o plimbare solitară pe mal, apoi încălziți-vă imediat la un restaurant din apropiere cu o băutură caldă.",
-                "en": "The beach is almost empty in winter; enjoy a solitary walk along the shore, then warm up immediately at a nearby heated restaurant with a hot drink."
+                "en": "The beach is almost empty in winter; enjoy a solitary walk along the shore, then warm up immediately at a nearby heated restaurant with a hot drink.",
+                "es": "La playa está casi vacía en invierno; disfruta de un paseo solitario por la orilla y luego entra a calentarte enseguida en un restaurante cercano con una bebida caliente."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Rathaus von Gozón",
             "hu": "Gozóni Városháza",
             "ro": "Primăria Gozón",
-            "en": "Gozón Town Hall"
+            "en": "Gozón Town Hall",
+            "es": "Ayuntamiento de Gozón"
           },
           "coords": [
             -5.793833,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die historische Fassade des Rathauses von Gozón, die das Verwaltungserbe widerspiegelt, und fotografieren Sie in den ruhigeren Morgenstunden.",
             "hu": "Csodálja meg a gozóni városháza történelmi homlokzatát, amely a város közigazgatási örökségét tükrözi, és fotózzon a csendesebb reggeli órákban.",
             "ro": "Admirați fațada istorică a Primăriei Gozón, care reflectă moștenirea administrativă a orașului, și faceți fotografii în orele mai liniștite ale dimineții.",
-            "en": "Admire the historic facade of the Gozón Town Hall, which reflects the town's administrative heritage, and snap photos during the quieter morning hours."
+            "en": "Admire the historic facade of the Gozón Town Hall, which reflects the town's administrative heritage, and snap photos during the quieter morning hours.",
+            "es": "Admira la fachada histórica del Ayuntamiento de Gozón, que refleja la herencia administrativa del pueblo, y haz fotos durante las horas de la mañana más tranquilas."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Palacio de los Menéndez Pola",
             "hu": "Palacio de los Menéndez Pola",
             "ro": "Palacio de los Menéndez Pola",
-            "en": "Palacio de los Menéndez Pola"
+            "en": "Palacio de los Menéndez Pola",
+            "es": "Palacio de los Menéndez Pola"
           },
           "coords": [
             -5.78859,
@@ -352,7 +388,8 @@
             "de": "Entdecken Sie die aristokratische Pracht des Palacio de los Menéndez Pola, eines lokalen Wahrzeichens, und spazieren Sie umher, um die Architektur zu würdigen.",
             "hu": "Fedezze fel a Palacio de los Menéndez Pola arisztokratikus pompáját, amely egy helyi ikon, és járja körbe, hogy megcsodálja a klasszikus építészetet.",
             "ro": "Descoperiți grandoarea aristocratică a Palacio de los Menéndez Pola, un reper local iconic, și plimbați-vă în jurul său pentru a aprecia arhitectura clasică.",
-            "en": "Discover the aristocratic grandeur of Palacio de los Menéndez Pola, an iconic local landmark, and walk around its perimeter to appreciate the classic architecture."
+            "en": "Discover the aristocratic grandeur of Palacio de los Menéndez Pola, an iconic local landmark, and walk around its perimeter to appreciate the classic architecture.",
+            "es": "Descubre la grandeza aristocrática del Palacio de los Menéndez Pola, un emblema local, y pasea a su alrededor para apreciar la arquitectura clásica."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Playa de Samarincha",
             "hu": "Playa de Samarincha",
             "ro": "Playa de Samarincha",
-            "en": "Playa de Samarincha"
+            "en": "Playa de Samarincha",
+            "es": "Playa de Samarincha"
           },
           "coords": [
             -5.789323,
@@ -375,7 +413,8 @@
             "de": "Entfliehen Sie den Massen an der Playa de Samarincha, einem abgelegenen Küstenort, der mit friedlicher Atmosphäre belohnt und ideal für ein ruhiges Buch ist.",
             "hu": "Meneküljön el a tömeg elől a Playa de Samarincha eldugott tengerpartján, amely békés hangulatot áraszt, így ideális egy csendes délutáni olvasáshoz.",
             "ro": "Evadați de aglomerație la Playa de Samarincha, un loc de coastă retras care oferă o atmosferă pașnică, fiind ideal pentru o lectură liniștită de după-amiază.",
-            "en": "Escape the crowds at Playa de Samarincha, a secluded coastal spot that rewards visitors with peaceful vibes, making it ideal for a quiet afternoon read."
+            "en": "Escape the crowds at Playa de Samarincha, a secluded coastal spot that rewards visitors with peaceful vibes, making it ideal for a quiet afternoon read.",
+            "es": "Escapa de las multitudes en la Playa de Samarincha, un rincón costero apartado que recompensa con tranquilidad, ideal para leer en silencio por la tarde."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Placa los Boletos",
             "hu": "Placa los Boletos",
             "ro": "Placa los Boletos",
-            "en": "Placa los Boletos"
+            "en": "Placa los Boletos",
+            "es": "Plaza los Boletos"
           },
           "coords": [
             -5.785871,
@@ -398,7 +438,8 @@
             "de": "Schlendern Sie an der Placa los Boletos vorbei, um die maritime Atmosphäre von Luanco zu spüren, und tragen Sie bequeme Schuhe für die unebenen Wege.",
             "hu": "Sétáljon el a Placa los Boletos mellett, hogy átérezze Luanco tengerészeti hangulatát, és viseljen kényelmes cipőt az egyenetlen ösvényekhez.",
             "ro": "Plimbați-vă pe lângă Placa los Boletos pentru a simți atmosfera maritimă din Luanco și asigurați-vă că purtați încălțăminte confortabilă pe cărări.",
-            "en": "Stroll by Placa los Boletos to feel the authentic maritime atmosphere of Luanco, and be sure to wear comfortable shoes for navigating the uneven paths."
+            "en": "Stroll by Placa los Boletos to feel the authentic maritime atmosphere of Luanco, and be sure to wear comfortable shoes for navigating the uneven paths.",
+            "es": "Pasea por la Plaza los Boletos para sentir la auténtica atmósfera marítima de Luanco; lleva calzado cómodo para sortear los caminos irregulares."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Playa de El Dique",
             "hu": "Playa de El Dique",
             "ro": "Playa de El Dique",
-            "en": "Playa de El Dique"
+            "en": "Playa de El Dique",
+            "es": "Playa de El Dique"
           },
           "coords": [
             -5.78579,
@@ -421,7 +463,8 @@
             "de": "Erkunden Sie die geschützte Bucht der Playa de El Dique mit ihrem ruhigen Wasser und bringen Sie Ihre Schnorchelausrüstung mit, um das Meeresleben zu entdecken.",
             "hu": "Fedezze fel a Playa de El Dique védett öblét, amely nyugodt vizeiről ismert, és hozzon búvárfelszerelést, hogy megfigyelje a sziklák melletti élővilágot.",
             "ro": "Explorați golful adăpostit de la Playa de El Dique, cunoscut pentru apele sale liniștite, și aduceți echipament de snorkeling pentru a descoperi viața marină.",
-            "en": "Explore the sheltered cove of Playa de El Dique, known for its tranquil waters, and bring your snorkeling gear to discover the small marine life near the rocks."
+            "en": "Explore the sheltered cove of Playa de El Dique, known for its tranquil waters, and bring your snorkeling gear to discover the small marine life near the rocks.",
+            "es": "Explora la cala resguardada de la Playa de El Dique, conocida por sus aguas tranquilas, y trae equipo de snorkel para descubrir la pequeña vida marina junto a las rocas."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Playa Aramar",
             "hu": "Playa Aramar",
             "ro": "Playa Aramar",
-            "en": "Playa Aramar"
+            "en": "Playa Aramar",
+            "es": "Playa Aramar"
           },
           "coords": [
             -5.78366,
@@ -444,7 +488,8 @@
             "de": "Beenden Sie Ihren Ausflug an der Playa Aramar, einem unberührten Sandstrand, und bleiben Sie bis zum Sonnenuntergang für atemberaubende Fotomotive am Ufer.",
             "hu": "Zárja a napot a Playa Aramar érintetlen homokfövenyén, és maradjon egészen naplementéig, hogy lélegzetelállító fotókat készíthessen a parton.",
             "ro": "Încheiați-vă excursia la Playa Aramar, o porțiune de nisip frumoasă și neatinsă, și rămâneți până la apus pentru oportunități foto uluitoare pe țărm.",
-            "en": "Conclude your trip at Playa Aramar, a beautiful and unspoiled stretch of sand, and stay until sunset for breathtaking photo opportunities by the shore."
+            "en": "Conclude your trip at Playa Aramar, a beautiful and unspoiled stretch of sand, and stay until sunset for breathtaking photo opportunities by the shore.",
+            "es": "Concluye tu excursión en la Playa Aramar, un bello y virgen tramo de arena; quédate hasta el atardecer para fotos impresionantes junto al mar."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Beginnen Sie Ihre Radtour direkt am Rathaus von Gozón und fahren Sie in ruhigem Tempo zum majestätischen Palacio de los Menéndez Pola. Mittags lockt das versteckte Juwel Playa de Samarincha. Am Nachmittag radeln Sie gemütlich zur ruhigen Bucht der Playa de El Dique. Lassen Sie Ihren Tag an den unberührten Ufern der Playa Aramar ausklingen.",
         "hu": "Kezdje kerékpártúráját a gozóni városházánál, és induljon el a fenséges Palacio de los Menéndez Pola felé. A dél a Playa de Samarincha rejtett partjára és a Placa los Boletos környékére csábítja. Ahogy telik a délután, tekerjen a Playa de El Dique nyugodt öble felé. Zárja a napot a Playa Aramar érintetlen, gyönyörű partjainál pihenve.",
         "ro": "Începeți turul cu bicicleta la Primăria Gozón, pedalând constant către maiestuosul Palacio de los Menéndez Pola. La amiază, mergeți la plaja ascunsă Playa de Samarincha și în jurul Placa los Boletos. Pe parcursul după-amiezii, pedalați lin spre golful liniștit de la Playa de El Dique. Încheiați-vă ziua odihnindu-vă pe țărmul neatins de la Playa Aramar.",
-        "en": "Kick off your cycling tour right at the Gozón Town Hall, setting a steady pace towards the majestic Palacio de los Menéndez Pola. Midday invites you to the hidden coastal gem of Playa de Samarincha and the maritime charm around Placa los Boletos. As the afternoon progresses, pedal smoothly towards the tranquil cove of Playa de El Dique. Wrap up your day resting by the pristine shores of Playa Aramar."
+        "en": "Kick off your cycling tour right at the Gozón Town Hall, setting a steady pace towards the majestic Palacio de los Menéndez Pola. Midday invites you to the hidden coastal gem of Playa de Samarincha and the maritime charm around Placa los Boletos. As the afternoon progresses, pedal smoothly towards the tranquil cove of Playa de El Dique. Wrap up your day resting by the pristine shores of Playa Aramar.",
+        "es": "Inicia tu ruta en bicicleta junto al Ayuntamiento de Gozón, marcando un ritmo constante hacia el majestuoso Palacio de los Menéndez Pola. Al mediodía visita la joya costera oculta de la Playa de Samarincha y el ambiente marítimo de la Plaza los Boletos. Por la tarde pedalea con calma hacia la tranquila cala de la Playa de El Dique. Termina el día descansando junto a las costas vírgenes de la Playa Aramar."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Schutzbleche sind heute unerlässlich, da die Küstenwege nass und matschig sein können. Mittags erfordern Fahrten entlang der Strände wegen der rutschigen Oberflächen besondere Vorsicht in den Kurven. Die Aussicht am Nachmittag ist im Nebel atmosphärisch, aber lassen Sie das Licht für bessere Sichtbarkeit an. Der Abend bricht feucht an, ideal für eine kurze Fahrt in ein trockenes Quartier.",
             "hu": "A reggeli induláshoz elengedhetetlen a sárvédő, mivel a part menti utak vizesek és sárosak lehetnek. Délben a strandok környékén fokozott óvatossággal kanyarodjon a csúszós aszfalton. A délutáni kilátás misztikus a ködben, de a láthatóság miatt tartsa bekapcsolva a kerékpár lámpáit. Az este hamar beköszönt a nyirkos utcákon, így érdemes időben száraz menedéket keresni.",
             "ro": "Apărătorile sunt esențiale astăzi, deoarece potecile de coastă pot fi umede și noroioase. La prânz, deplasarea pe lângă plaje necesită prudență sporită în curbe din cauza suprafețelor alunecoase. Vederea de după-amiază este atmosferică prin ceață, dar păstrați luminile aprinse pentru vizibilitate. Seara sosește cu străzi umede, perfectă pentru o cursă rapidă spre un adăpost uscat.",
-            "en": "Mudguards are essential today as the coastal paths can be wet and muddy. Midday rides along the beaches require extra caution on turns due to slippery surfaces. Afternoon views are atmospheric with the mist, but keep your lights on for visibility. Evening arrives with damp streets, perfect for a quick ride to a dry shelter near the harbor."
+            "en": "Mudguards are essential today as the coastal paths can be wet and muddy. Midday rides along the beaches require extra caution on turns due to slippery surfaces. Afternoon views are atmospheric with the mist, but keep your lights on for visibility. Evening arrives with damp streets, perfect for a quick ride to a dry shelter near the harbor.",
+            "es": "Los guardabarros son esenciales hoy porque los senderos costeros pueden estar mojados y embarrados. En las rutas de mediodía por las playas hay que tener más precaución en las curvas por superficies resbaladizas. Las vistas de la tarde son atmosféricas con la niebla, pero mantén las luces encendidas para ser visible. Al anochecer las calles quedan húmedas, perfecto para un rápido trayecto hacia un refugio seco cerca del puerto."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Rathaus von Gozón",
                 "hu": "Gozóni Városháza",
                 "ro": "Primăria Gozón",
-                "en": "Gozón Town Hall"
+                "en": "Gozón Town Hall",
+                "es": "Ayuntamiento de Gozón"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Fahrrad unter einem Dach beim Rathaus, während Sie die Karte prüfen; vermeiden Sie plötzliches Bremsen auf dem nassen Kopfsteinpflaster.",
                 "hu": "Parkolja le kerékpárját egy fedett részre a városháza mellett, amíg ellenőrzi az útvonalat; kerülje a hirtelen fékezést a vizes macskakövön.",
                 "ro": "Parcați bicicleta sub un acoperiș lângă primărie în timp ce verificați harta; evitați frânarea bruscă pe pavajul umed din centrul istoric.",
-                "en": "Park your bike under a nearby shelter at the town hall while checking your map; avoid sudden braking on the wet cobblestones to prevent sliding."
+                "en": "Park your bike under a nearby shelter at the town hall while checking your map; avoid sudden braking on the wet cobblestones to prevent sliding.",
+                "es": "Aparca la bici bajo un refugio cercano al ayuntamiento mientras consultas el mapa; evita frenar bruscamente sobre los adoquines mojados para no resbalar."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Palacio de los Menéndez Pola",
                 "hu": "Palacio de los Menéndez Pola",
                 "ro": "Palacio de los Menéndez Pola",
-                "en": "Palacio de los Menéndez Pola"
+                "en": "Palacio de los Menéndez Pola",
+                "es": "Palacio de los Menéndez Pola"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Palast als Windschutz bei Regen; die Steinmauern bieten einen guten Platz für eine kurze Pause, bevor Sie die Fahrt fortsetzen.",
                 "hu": "Használja a palota falait szélvédőként az esőben; a kőfalak jó helyet biztosítanak egy rövid pihenőhöz, mielőtt folytatná a kerékpározást.",
                 "ro": "Folosiți palatul ca paravan împotriva vântului și ploii; zidurile de piatră oferă un loc bun pentru o scurtă pauză înainte de a continua drumul.",
-                "en": "Use the palace as a windbreak during the rain; the massive stone walls provide a good spot for a quick rest before continuing your cycling route."
+                "en": "Use the palace as a windbreak during the rain; the massive stone walls provide a good spot for a quick rest before continuing your cycling route.",
+                "es": "Usa el palacio como protección contra el viento bajo la lluvia; sus muros de piedra proporcionan un buen sitio para un breve descanso antes de continuar la ruta en bici."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Playa de Samarincha",
                 "hu": "Playa de Samarincha",
                 "ro": "Playa de Samarincha",
-                "en": "Playa de Samarincha"
+                "en": "Playa de Samarincha",
+                "es": "Playa de Samarincha"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf dem Weg zum Strand auf Pfützen, die tiefer sein können als sie scheinen; reduzieren Sie Ihr Tempo auf den nassen Abfahrten deutlich.",
                 "hu": "A strand felé vezető úton ügyeljen a tócsákra, amelyek mélyebbek lehetnek, mint látszanak; jelentősen csökkentse a tempót a vizes lejtőkön.",
                 "ro": "Fiți atenți la bălțile de pe drumul spre plajă, care pot fi mai adânci decât par; reduceți viteza considerabil pe coborârile umede spre țărm.",
-                "en": "Watch out for puddles on the way to the beach that might be deeper than they look; significantly reduce your speed on wet descents for safety."
+                "en": "Watch out for puddles on the way to the beach that might be deeper than they look; significantly reduce your speed on wet descents for safety.",
+                "es": "Cuidado con los charcos en el camino a la playa que pueden ser más profundos de lo que parecen; reduce mucho la velocidad en los descensos húmedos por seguridad."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Placa los Boletos",
                 "hu": "Placa los Boletos",
                 "ro": "Placa los Boletos",
-                "en": "Placa los Boletos"
+                "en": "Placa los Boletos",
+                "es": "Plaza los Boletos"
               },
               "tip_5lang": {
                 "de": "Die Felsen können bei Regen extrem rutschig sein; bleiben Sie auf den befestigten Wegen und steigen Sie gegebenenfalls vom Fahrrad ab.",
                 "hu": "A sziklák esőben rendkívül csúszósak lehetnek; maradjon a kiépített utakon, és szükség esetén szálljon le a kerékpárról a biztonságos haladásért.",
                 "ro": "Stâncile pot fi extrem de alunecoase pe ploaie; rămâneți pe potecile pavate și, dacă este necesar, coborâți de pe bicicletă pentru siguranță.",
-                "en": "The rocks can be extremely slippery in the rain; stay on the paved paths and dismount from your bike if necessary for safer movement."
+                "en": "The rocks can be extremely slippery in the rain; stay on the paved paths and dismount from your bike if necessary for safer movement.",
+                "es": "Las rocas pueden ser extremadamente resbaladizas con lluvia; mantente en los caminos pavimentados y desmonta de la bici si es necesario para moverte con más seguridad."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Playa de El Dique",
                 "hu": "Playa de El Dique",
                 "ro": "Playa de El Dique",
-                "en": "Playa de El Dique"
+                "en": "Playa de El Dique",
+                "es": "Playa de El Dique"
               },
               "tip_5lang": {
                 "de": "Der Hafenbereich bietet bei Regen wenig Schutz; tragen Sie wasserfeste Überschuhe, um Ihre Füße während der Fahrt trocken und warm zu halten.",
                 "hu": "A kikötői rész kevés menedéket nyújt esőben; viseljen vízálló kamáslit, hogy lábai szárazak és melegek maradjanak a tekerés közben.",
                 "ro": "Zona portului oferă puțin adăpost pe ploaie; purtați protecții impermeabile pentru încălțăminte pentru a vă menține picioarele uscate în timpul mersului.",
-                "en": "The harbor area offers little shelter in the rain; wear waterproof shoe covers to keep your feet dry and warm during the ride."
+                "en": "The harbor area offers little shelter in the rain; wear waterproof shoe covers to keep your feet dry and warm during the ride.",
+                "es": "La zona del puerto ofrece poco refugio con lluvia; usa cubrezapatos impermeables para mantener los pies secos y calientes durante el recorrido."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Playa Aramar",
                 "hu": "Playa Aramar",
                 "ro": "Playa Aramar",
-                "en": "Playa Aramar"
+                "en": "Playa Aramar",
+                "es": "Playa Aramar"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Tour zügig, da die Kälte bei Regen schneller in die Glieder zieht; ein warmer Tee im Ort ist die beste Belohnung nach der Fahrt.",
                 "hu": "Fejezze be gyorsan a túrát, mert az esőben a hideg hamarabb átjárja a végtagokat; egy forró tea a városban a legjobb jutalom a tekerés után.",
                 "ro": "Încheiați turul rapid, deoarece frigul pătrunde mai ușor în corp pe ploaie; un ceai cald în oraș este cea mai bună recompensă după cursă.",
-                "en": "Finish your tour promptly as the rain makes the cold penetrate faster; a hot tea in town is the best reward after a damp coastal ride."
+                "en": "Finish your tour promptly as the rain makes the cold penetrate faster; a hot tea in town is the best reward after a damp coastal ride.",
+                "es": "Termina la ruta pronto, ya que la lluvia hace que el frío penetre más rápido; un té caliente en el pueblo es la mejor recompensa tras un paseo costero húmedo."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Zwiebelprinzip bei der Kleidung ist Pflicht für diese windige Fahrt entlang der asturischen Küste. Die Mittagssonne ist hell, spendet aber wenig Wärme, also bleiben Sie in Bewegung. Planen Sie, Ihre Route bis 16:30 Uhr zu beenden, da Dunkelheit und Kälte nach 17:00 Uhr schnell einsetzen. Der Abend wird am besten mit hochgelegten Beinen in einer warmen Umgebung verbracht.",
             "hu": "A réteges öltözködés kötelező ezen a szeles asztúriai kerékpártúrán. A déli napsütés ugyan ragyogó, de kevés hőt ad, ezért maradjon mozgásban a testhőmérséklet megőrzése érdekében. Úgy tervezze, hogy 16:30-ra befejezi a távot, mert 17:00 után gyorsan leszáll a sötét és a fagy. Az estét töltse pihenéssel egy fűtött helyen.",
             "ro": "Îmbrăcămintea stratificată este obligatorie pentru această cursă vântoasă de-a lungul coastei asturiene. Soarele de prânz este strălucitor, dar oferă puțină căldură, așa că rămâneți în mișcare. Planificați să terminați traseul până la ora 16:30, deoarece întunericul și frigul se lasă rapid după 17:00. Seara este cel mai bine petrecută la căldură.",
-            "en": "Layered thermal clothing is a must for this breezy ride along the Asturian coast. Midday sun is bright but provides little warmth, so keep moving to maintain body heat. Plan to finish your route by 16:30, as the darkness and cold settle in quickly after 17:00. Evening is best spent resting your legs in a warm, indoor environment away from the frost."
+            "en": "Layered thermal clothing is a must for this breezy ride along the Asturian coast. Midday sun is bright but provides little warmth, so keep moving to maintain body heat. Plan to finish your route by 16:30, as the darkness and cold settle in quickly after 17:00. Evening is best spent resting your legs in a warm, indoor environment away from the frost.",
+            "es": "La ropa térmica en capas es imprescindible para este paseo ventoso por la costa asturiana. El sol del mediodía es brillante pero aporta poco calor, así que sigue en movimiento para mantener el calor corporal. Planea terminar la ruta antes de las 16:30, ya que la oscuridad y el frío se asientan rápidamente después de las 17:00. Por la noche conviene descansar las piernas en un ambiente cálido e interior, alejado de la escarcha."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Rathaus von Gozón",
                 "hu": "Gozóni Városháza",
                 "ro": "Primăria Gozón",
-                "en": "Gozón Town Hall"
+                "en": "Gozón Town Hall",
+                "es": "Ayuntamiento de Gozón"
               },
               "tip_5lang": {
                 "de": "Starten Sie mit warmen Handschuhen, da der Fahrtwind am Morgen sehr kalt ist; prüfen Sie den Reifendruck, da dieser bei Kälte leicht sinken kann.",
                 "hu": "Induljon meleg kesztyűben, mert a reggeli menetszél nagyon hideg; ellenőrizze a guminyomást, mivel a hidegben az érték kissé csökkenhet.",
                 "ro": "Porniți la drum cu mănuși groase, deoarece vântul de dimineață este foarte rece; verificați presiunea în pneuri, care poate scădea la temperaturi joase.",
-                "en": "Start with warm gloves as the morning wind chill is significant; check your tire pressure as it can drop slightly in colder temperatures."
+                "en": "Start with warm gloves as the morning wind chill is significant; check your tire pressure as it can drop slightly in colder temperatures.",
+                "es": "Comienza con guantes calentitos porque la sensación térmica matinal es considerable; comprueba la presión de las ruedas, ya que puede bajar un poco con el frío."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Palacio de los Menéndez Pola",
                 "hu": "Palacio de los Menéndez Pola",
                 "ro": "Palacio de los Menéndez Pola",
-                "en": "Palacio de los Menéndez Pola"
+                "en": "Palacio de los Menéndez Pola",
+                "es": "Palacio de los Menéndez Pola"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Palast als kurzen Windstopp; die Mauern bieten Schutz vor der kühlen Meeresbrise, während Sie kurz verschnaufen und etwas trinken.",
                 "hu": "Használja a palotát rövid szélvédett megállónak; a falak védelmet nyújtanak a hűvös tengeri szellő ellen, amíg szusszan egyet és iszik pár kortyot.",
                 "ro": "Folosiți palatul ca un scurt popas ferit de vânt; zidurile oferă protecție împotriva brizelor reci în timp ce vă odihniți și vă hidratați scurt.",
-                "en": "Use the palace as a short wind-sheltered stop; the walls offer protection from the chilly sea breeze while you take a quick breather and hydrate."
+                "en": "Use the palace as a short wind-sheltered stop; the walls offer protection from the chilly sea breeze while you take a quick breather and hydrate.",
+                "es": "Usa el palacio como breve refugio del viento; los muros ofrecen protección de la brisa marina fría mientras tomas un respiro rápido y te hidratas."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Playa de Samarincha",
                 "hu": "Playa de Samarincha",
                 "ro": "Playa de Samarincha",
-                "en": "Playa de Samarincha"
+                "en": "Playa de Samarincha",
+                "es": "Playa de Samarincha"
               },
               "tip_5lang": {
                 "de": "Die klare Winterluft bietet weite Sichten; machen Sie ein schnelles Foto und fahren Sie weiter, um nicht auszukühlen, während Sie die Küste genießen.",
                 "hu": "A tiszta téli levegő távoli kilátást biztosít; készítsen egy gyors fotót, majd tekerjen tovább, hogy ne hűljön ki, miközben a partot csodálja.",
                 "ro": "Aerul curat de iarnă oferă vederi îndepărtate; faceți o fotografie rapidă și continuați drumul pentru a nu vă răci în timp ce admirați coasta.",
-                "en": "The clear winter air provides distant views; take a quick photo and keep moving to prevent cooling down while enjoying the coastal landscape."
+                "en": "The clear winter air provides distant views; take a quick photo and keep moving to prevent cooling down while enjoying the coastal landscape.",
+                "es": "El aire invernal y claro ofrece vistas lejanas; haz una foto rápida y sigue en movimiento para evitar enfriarte mientras disfrutas del paisaje costero."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Placa los Boletos",
                 "hu": "Placa los Boletos",
                 "ro": "Placa los Boletos",
-                "en": "Placa los Boletos"
+                "en": "Placa los Boletos",
+                "es": "Plaza los Boletos"
               },
               "tip_5lang": {
                 "de": "Vermeiden Sie es, zu lange an der exponierten Küste zu stehen; der Winterwind entzieht dem Körper schnell Wärme, auch wenn die Sonne scheint.",
                 "hu": "Kerülje a hosszú álldogálást a nyitott parton; a téli szél gyorsan elvonja a test hőt, még akkor is, ha a nap látszólag erősen süt.",
                 "ro": "Evitați să staționați prea mult pe coasta expusă; vântul de iarnă extrage rapid căldura din corp, chiar dacă soarele pare să strălucească.",
-                "en": "Avoid standing too long on the exposed coast; the winter wind quickly saps body heat, even if the sun appears to be shining brightly."
+                "en": "Avoid standing too long on the exposed coast; the winter wind quickly saps body heat, even if the sun appears to be shining brightly.",
+                "es": "Evita estar mucho tiempo quieto en la costa expuesta; el viento invernal quita calor rápidamente, aunque el sol parezca brillar con fuerza."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Playa de El Dique",
                 "hu": "Playa de El Dique",
                 "ro": "Playa de El Dique",
-                "en": "Playa de El Dique"
+                "en": "Playa de El Dique",
+                "es": "Playa de El Dique"
               },
               "tip_5lang": {
                 "de": "Der Boden kann in Schattenbereichen gefroren oder rutschig sein; fahren Sie vorausschauend und achten Sie auf Eisbildung auf den Wegen zum Hafen.",
                 "hu": "Az árnyékos részeken a talaj fagyott vagy csúszós lehet; vezessen előrelátóan, és ügyeljen a jegesedésre a kikötő felé vezető utakon.",
                 "ro": "Solul poate fi înghețat sau alunecos în zonele umbrite; conduceți preventiv și fiți atenți la gheață pe drumurile care duc spre port.",
-                "en": "The ground in shaded areas can be frozen or slippery; ride defensively and watch out for icy patches on the paths leading to the harbor."
+                "en": "The ground in shaded areas can be frozen or slippery; ride defensively and watch out for icy patches on the paths leading to the harbor.",
+                "es": "El suelo en zonas sombreadas puede estar helado o resbaladizo; conduce a la defensiva y vigila los parches de hielo en los caminos hacia el puerto."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Playa Aramar",
                 "hu": "Playa Aramar",
                 "ro": "Playa Aramar",
-                "en": "Playa Aramar"
+                "en": "Playa Aramar",
+                "es": "Playa Aramar"
               },
               "tip_5lang": {
                 "de": "Beeilen Sie sich für den Rückweg, bevor die Sonne um 17:00 Uhr sinkt; die Kälte nimmt danach massiv zu, was die Rückfahrt anstrengender macht.",
                 "hu": "Siessen a visszaúttal, mielőtt a nap 17:00-kor lenyugszik; a hideg utána jelentősen fokozódik, ami megnehezíti a városba való visszajutást.",
                 "ro": "Grăbiți-vă pe drumul de întoarcere înainte de apusul soarelui la 17:00; frigul se intensifică masiv după aceea, îngreunând pedalarea spre oraș.",
-                "en": "Hurry back before the sun sets at 17:00; the cold intensifies massively afterward, making the return trip much more challenging for the body."
+                "en": "Hurry back before the sun sets at 17:00; the cold intensifies massively afterward, making the return trip much more challenging for the body.",
+                "es": "Vuelve rápido antes de la puesta de sol a las 17:00; el frío se intensifica mucho después, haciendo el regreso mucho más duro para el cuerpo."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Playa de Bañugues",
             "hu": "Playa de Bañugues",
             "ro": "Playa de Bañugues",
-            "en": "Playa de Bañugues"
+            "en": "Playa de Bañugues",
+            "es": "Playa de Bañugues"
           },
           "coords": [
             -5.809535,
@@ -673,7 +746,8 @@
             "de": "Beginnen Sie Ihre Küstenfahrt an der Playa de Bañugues, einer weiten Bucht mit flachem Wasser, wo das Parken einfach ist, wenn Sie früh am Morgen ankommen.",
             "hu": "Kezdje a partmenti utat a Playa de Bañugues hatalmas öblében, ahol a sekély víz nyugodt, és a parkolás is egyszerű, ha kora reggel érkezik.",
             "ro": "Începeți plimbarea pe coastă la Playa de Bañugues, un golf vast cu ape puțin adânci, unde parcarea este ușoară dacă ajungeți devreme dimineața.",
-            "en": "Start your coastal drive at Playa de Bañugues, a sweeping bay with calm shallow waters, where parking is easy if you arrive early in the morning."
+            "en": "Start your coastal drive at Playa de Bañugues, a sweeping bay with calm shallow waters, where parking is easy if you arrive early in the morning.",
+            "es": "Comienza tu ruta costera en la Playa de Bañugues, una bahía amplia con aguas poco profundas y tranquilas, donde el aparcamiento es fácil si llegas temprano por la mañana."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Playa de Moniello",
             "hu": "Playa de Moniello",
             "ro": "Playa de Moniello",
-            "en": "Playa de Moniello"
+            "en": "Playa de Moniello",
+            "es": "Playa de Moniello"
           },
           "coords": [
             -5.794333,
@@ -696,7 +771,8 @@
             "de": "Bewundern Sie die zerklüfteten Felsen der Playa de Moniello, ein einzigartiges Küstenmerkmal, und spazieren Sie bei Ebbe vorsichtig an den Gezeitentümpeln entlang.",
             "hu": "Csodálja meg a Playa de Moniello zord sziklás partvidékét, amely egy egyedülálló természeti csoda, és apály idején óvatosan sétáljon az árapálymedencék mentén.",
             "ro": "Minunați-vă de rocile accidentate de la Playa de Moniello, o caracteristică unică a coastei, și plimbați-vă cu grijă de-a lungul bazinelor de maree la reflux.",
-            "en": "Marvel at the rugged rocky outcrops of Playa de Moniello, a unique coastal feature, and walk carefully along the tidal pools during low tide."
+            "en": "Marvel at the rugged rocky outcrops of Playa de Moniello, a unique coastal feature, and walk carefully along the tidal pools during low tide.",
+            "es": "Maravíllate con los escarpados peñones de la Playa de Moniello, una formación costera singular, y camina con cuidado por las pozas de marea con la marea baja."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Aussichtspunkt La Mofosa",
             "hu": "La Mofosa kilátó",
             "ro": "Punctul de belvedere La Mofosa",
-            "en": "La Mofosa Viewpoint"
+            "en": "La Mofosa Viewpoint",
+            "es": "Mirador La Mofosa"
           },
           "coords": [
             -5.782227,
@@ -719,7 +796,8 @@
             "de": "Machen Sie eine landschaftliche Pause am Mirador La Mofosa, atmen Sie die Meeresbrise ein und nehmen Sie ein Fernglas mit, um die Klippen zu bestaunen.",
             "hu": "Tartson egy festői pihenőt a Mirador La Mofosa kilátónál, hogy belélegezze a friss tengeri levegőt, és hozzon távcsövet a drámai sziklák megfigyeléséhez.",
             "ro": "Faceți o pauză pitorească la Mirador La Mofosa pentru a respira briza mării și aduceți un binoclu pentru a aprecia pe deplin stâncile abrupte de dedesubt.",
-            "en": "Take a scenic break at Mirador La Mofosa to breathe in the fresh sea breeze, and pack binoculars to fully appreciate the dramatic cliff drops below."
+            "en": "Take a scenic break at Mirador La Mofosa to breathe in the fresh sea breeze, and pack binoculars to fully appreciate the dramatic cliff drops below.",
+            "es": "Haz una parada panorámica en el Mirador La Mofosa para respirar la brisa marina y lleva prismáticos para apreciar plenamente los dramáticos acantilados abajo."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Palacio de los Menéndez Pola",
             "hu": "Palacio de los Menéndez Pola",
             "ro": "Palacio de los Menéndez Pola",
-            "en": "Palacio de los Menéndez Pola"
+            "en": "Palacio de los Menéndez Pola",
+            "es": "Palacio de los Menéndez Pola"
           },
           "coords": [
             -5.78859,
@@ -742,7 +821,8 @@
             "de": "Entdecken Sie die aristokratische Pracht des Palacio de los Menéndez Pola, eines lokalen Wahrzeichens, und spazieren Sie umher, um die Architektur zu würdigen.",
             "hu": "Fedezze fel a Palacio de los Menéndez Pola arisztokratikus pompáját, amely egy helyi ikon, és járja körbe, hogy megcsodálja a klasszikus építészetet.",
             "ro": "Descoperiți grandoarea aristocratică a Palacio de los Menéndez Pola, un reper local iconic, și plimbați-vă în jurul său pentru a aprecia arhitectura clasică.",
-            "en": "Discover the aristocratic grandeur of Palacio de los Menéndez Pola, an iconic local landmark, and walk around its perimeter to appreciate the classic architecture."
+            "en": "Discover the aristocratic grandeur of Palacio de los Menéndez Pola, an iconic local landmark, and walk around its perimeter to appreciate the classic architecture.",
+            "es": "Descubre la grandeza aristocrática del Palacio de los Menéndez Pola, un emblema local, y pasea a su alrededor para apreciar la arquitectura clásica."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Rathaus von Gozón",
             "hu": "Gozóni Városháza",
             "ro": "Primăria Gozón",
-            "en": "Gozón Town Hall"
+            "en": "Gozón Town Hall",
+            "es": "Ayuntamiento de Gozón"
           },
           "coords": [
             -5.793833,
@@ -765,7 +846,8 @@
             "de": "Bewundern Sie die historische Fassade des Rathauses von Gozón, die das Verwaltungserbe widerspiegelt, und fotografieren Sie in den ruhigeren Morgenstunden.",
             "hu": "Csodálja meg a gozóni városháza történelmi homlokzatát, amely a város közigazgatási örökségét tükrözi, és fotózzon a csendesebb reggeli órákban.",
             "ro": "Admirați fațada istorică a Primăriei Gozón, care reflectă moștenirea administrativă a orașului, și faceți fotografii în orele mai liniștite ale dimineții.",
-            "en": "Admire the historic facade of the Gozón Town Hall, which reflects the town's administrative heritage, and snap photos during the quieter morning hours."
+            "en": "Admire the historic facade of the Gozón Town Hall, which reflects the town's administrative heritage, and snap photos during the quieter morning hours.",
+            "es": "Admira la fachada histórica del Ayuntamiento de Gozón, que refleja la herencia administrativa del municipio, y haz fotos durante las horas de la mañana más tranquilas."
           }
         }
       ],
@@ -773,7 +855,8 @@
         "de": "Starten Sie Ihre Fahrt an den weiten Ufern der Playa de Bañugues und genießen Sie die frische Morgenluft, bevor Sie zur dramatischen Felsenlandschaft der Playa de Moniello aufbrechen. Gegen Mittag stehen Sie am Mirador La Mofosa für atemberaubende Panoramen. Nachmittags besuchen Sie den Palacio de los Menéndez Pola. Die Reise endet am zentralen Rathaus von Gozón.",
         "hu": "Indítsa autós kirándulását a Playa de Bañugues tágas partjairól, élvezve a friss reggeli levegőt, mielőtt a Playa de Moniello drámai sziklás tájára indulna. Délben álljon meg a Mirador La Mofosa kilátónál a lenyűgöző panorámáért. Délután térjen át a történelemre a Palacio de los Menéndez Pola meglátogatásával. Az utazás a gozóni városházánál ér véget.",
         "ro": "Începeți traseul cu mașina de pe țărmurile extinse ale Playa de Bañugues, bucurându-vă de aerul proaspăt, înainte de a vă îndrepta spre Playa de Moniello. În jurul prânzului, opriți-vă la Mirador La Mofosa pentru a vedea panorame uluitoare ale stâncilor. După-amiaza, treceți la istorie vizitând Palacio de los Menéndez Pola. Călătoria se încheie frumos la Primăria Gozón.",
-        "en": "Launch your scenic drive from the expansive shores of Playa de Bañugues, enjoying the crisp morning air before heading to the dramatic rocky landscape of Playa de Moniello. Around noon, stand at Mirador La Mofosa to witness breathtaking cliffside panoramas. In the afternoon, shift gears to history by visiting Palacio de los Menéndez Pola. The journey beautifully concludes at the central Gozón Town Hall."
+        "en": "Launch your scenic drive from the expansive shores of Playa de Bañugues, enjoying the crisp morning air before heading to the dramatic rocky landscape of Playa de Moniello. Around noon, stand at Mirador La Mofosa to witness breathtaking cliffside panoramas. In the afternoon, shift gears to history by visiting Palacio de los Menéndez Pola. The journey beautifully concludes at the central Gozón Town Hall.",
+        "es": "Inicia tu ruta escénica desde las amplias playas de Bañugues, disfrutando del aire matutino antes de dirigirte al dramático paisaje rocoso de Moniello. Al mediodía colócate en el Mirador La Mofosa para contemplar panoramas impresionantes junto al acantilado. Por la tarde cambia a la historia visitando el Palacio de los Menéndez Pola. El recorrido concluye bellamente en el céntrico Ayuntamiento de Gozón."
       },
       "variants": {
         "rainy": {
@@ -781,7 +864,8 @@
             "de": "Fahren mit dem Auto ermöglicht es Ihnen, die zerklüftete Küste zu genießen und dabei bei den häufigen Schauern trocken zu bleiben. Mittags an den Aussichtspunkten ist es spektakulär, wenn sich Sturmwolken über dem Meer sammeln. Nachmittagsbesuche historischer Stätten bieten eine willkommene Pause vom Wind. Abendliche Fahrten sind malerisch, da die regennassen Straßen die Lichter der Stadt reflektieren.",
             "hu": "Az autózás lehetővé teszi, hogy élvezze a vadregényes partvidéket, miközben teljesen száraz marad a gyakori záporok alatt. Délben a kilátóknál látványos a kép, ahogy a viharfelhők gyülekeznek a sötét tenger felett. A délutáni látogatások a történelmi helyszíneken kellemes beltéri pihenőt nyújtanak. Az esti vezetés hangulatos a vizes aszfalton tükröződő fényekkel.",
             "ro": "Condusul vă permite să vă bucurați de coasta accidentată în timp ce rămâneți uscat în timpul averselor frecvente. La prânz, punctele de belvedere sunt spectaculoase când norii de furtună se adună deasupra mării. Vizitele de după-amiază la siturile istorice oferă o pauză binemeritată de vânt. Seara este pitorească, străzile umede reflectând luminile orașului.",
-            "en": "Driving allows you to enjoy the rugged coastline while staying perfectly dry during the frequent showers. Noon at the viewpoints is spectacular as the storm clouds gather over the dark sea. Afternoon visits to historical sites provide a welcome indoor break from the wind. Evening drives are scenic with the rain-slicked roads reflecting the town's warm lights."
+            "en": "Driving allows you to enjoy the rugged coastline while staying perfectly dry during the frequent showers. Noon at the viewpoints is spectacular as the storm clouds gather over the dark sea. Afternoon visits to historical sites provide a welcome indoor break from the wind. Evening drives are scenic with the rain-slicked roads reflecting the town's warm lights.",
+            "es": "Conducir te permite disfrutar de la costa agreste manteniéndote seco durante los chaparrones frecuentes. El mediodía en los miradores es espectacular cuando las nubes de tormenta se reúnen sobre el mar oscuro. Las visitas a sitios históricos por la tarde ofrecen un descanso interior y bienvenido del viento. Las carreteras brillantes por la lluvia reflejan las luces cálidas del pueblo al anochecer."
           },
           "stops": [
             {
@@ -789,13 +873,15 @@
                 "de": "Playa de Bañugues",
                 "hu": "Playa de Bañugues",
                 "ro": "Playa de Bañugues",
-                "en": "Playa de Bañugues"
+                "en": "Playa de Bañugues",
+                "es": "Playa de Bañugues"
               },
               "tip_5lang": {
                 "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie den Blick auf die Bucht durch die Windschutzscheibe; der Parkplatz bietet eine gute Sicht auf das Meer.",
                 "hu": "Heves esőben maradjon az autóban, és élvezze az öböl látványát a szélvédőn keresztül; a parkoló remek rálátást biztosít a háborgó tengerre.",
                 "ro": "În caz de ploaie torențială, rămâneți în mașină și admirați golful prin parbriz; parcarea oferă o vedere excelentă asupra mării agitate de furtună.",
-                "en": "In heavy rain, stay inside the car and enjoy the bay view through the windshield; the parking area provides an excellent vantage point over the sea."
+                "en": "In heavy rain, stay inside the car and enjoy the bay view through the windshield; the parking area provides an excellent vantage point over the sea.",
+                "es": "Con lluvia intensa, quédate dentro del coche y disfruta de la vista de la bahía a través del parabrisas; el aparcamiento ofrece un excelente mirador al mar."
               }
             },
             {
@@ -803,13 +889,15 @@
                 "de": "Playa de Moniello",
                 "hu": "Playa de Moniello",
                 "ro": "Playa de Moniello",
-                "en": "Playa de Moniello"
+                "en": "Playa de Moniello",
+                "es": "Playa de Moniello"
               },
               "tip_5lang": {
                 "de": "Die Zufahrtsstraße kann bei Regen schlammig sein; parken Sie auf festem Untergrund und nutzen Sie kurze Regenpausen für einen schnellen Blick auf die Felsen.",
                 "hu": "A bekötőút esőben sáros lehet; parkoljon szilárd burkolaton, és használja ki a rövid esőszüneteket a sziklás part gyors megtekintéséhez.",
                 "ro": "Drumul de acces poate fi noroios pe ploaie; parcați pe o suprafață solidă și profitați de pauzele scurte de ploaie pentru o privire rapidă spre stânci.",
-                "en": "The access road can be muddy in the rain; park on solid ground and take advantage of brief breaks in the rain for a quick look at the rocky shore."
+                "en": "The access road can be muddy in the rain; park on solid ground and take advantage of brief breaks in the rain for a quick look at the rocky shore.",
+                "es": "El acceso puede estar embarrado con lluvia; aparca en terreno firme y aprovecha las breves pausas en el chubasco para echar un rápido vistazo a la costa rocosa."
               }
             },
             {
@@ -817,13 +905,15 @@
                 "de": "Aussichtspunkt La Mofosa",
                 "hu": "La Mofosa kilátó",
                 "ro": "Punctul de belvedere La Mofosa",
-                "en": "La Mofosa Viewpoint"
+                "en": "La Mofosa Viewpoint",
+                "es": "Mirador La Mofosa"
               },
               "tip_5lang": {
                 "de": "Vermeiden Sie es, bei starkem Wind zu nah an die Klippenkante zu gehen; der Blick aus dem Fenster des geparkten Autos ist bei Sturm oft am sichersten.",
                 "hu": "Kerülje a sziklák szélét erős szélben; viharos időben a parkoló autó ablakából nyíló kilátás gyakran a legbiztonságosabb és legkényelmesebb választás.",
                 "ro": "Evitați marginea stâncilor în condiții de vânt puternic; vederea de la fereastra mașinii parcate este adesea cea mai sigură și confortabilă opțiune.",
-                "en": "Avoid the cliff edge during high winds; the view from your parked car window is often the safest and most comfortable choice during stormy weather."
+                "en": "Avoid the cliff edge during high winds; the view from your parked car window is often the safest and most comfortable choice during stormy weather.",
+                "es": "Evita el borde del acantilado con vientos fuertes; la vista desde la ventana del coche aparcado suele ser la opción más segura y cómoda en tiempo de tormenta."
               }
             },
             {
@@ -831,13 +921,15 @@
                 "de": "Palacio de los Menéndez Pola",
                 "hu": "Palacio de los Menéndez Pola",
                 "ro": "Palacio de los Menéndez Pola",
-                "en": "Palacio de los Menéndez Pola"
+                "en": "Palacio de los Menéndez Pola",
+                "es": "Palacio de los Menéndez Pola"
               },
               "tip_5lang": {
                 "de": "Parken Sie so nah wie möglich am Eingang, um den Weg im Regen zu minimieren; die historischen Mauern bieten Schutz, sobald Sie das Fahrzeug verlassen haben.",
                 "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy minimalizálja az esőben való gyaloglást; a történelmi falak védelmet nyújtanak, amint kiszállt az autóból.",
                 "ro": "Parcați cât mai aproape de intrare pentru a minimiza mersul prin ploaie; zidurile istorice oferă adăpost imediat ce ați părăsit vehiculul.",
-                "en": "Park as close to the entrance as possible to minimize walking in the rain; the historic walls provide shelter once you have exited the vehicle."
+                "en": "Park as close to the entrance as possible to minimize walking in the rain; the historic walls provide shelter once you have exited the vehicle.",
+                "es": "Aparca lo más cerca posible de la entrada para minimizar el paseo bajo la lluvia; los muros históricos ofrecen refugio una vez que salgas del vehículo."
               }
             },
             {
@@ -845,13 +937,15 @@
                 "de": "Rathaus von Gozón",
                 "hu": "Gozóni Városháza",
                 "ro": "Primăria Gozón",
-                "en": "Gozón Town Hall"
+                "en": "Gozón Town Hall",
+                "es": "Ayuntamiento de Gozón"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie ein nahegelegenes Parkhaus, um trocken ins Zentrum zu gelangen; die beleuchtete Fassade des Rathauses sieht im Regen besonders stimmungsvoll aus.",
                 "hu": "Használjon egy közeli parkolót, hogy szárazon jusson a központba; a városháza kivilágított homlokzata esőben különösen hangulatos látványt nyújt.",
                 "ro": "Folosiți o parcare din apropiere pentru a ajunge uscat în centru; fațada iluminată a primăriei arată deosebit de sugestiv sub reflexiile ploii.",
-                "en": "Use a nearby parking area to reach the center dry; the illuminated facade of the town hall looks especially atmospheric reflecting in the rain."
+                "en": "Use a nearby parking area to reach the center dry; the illuminated facade of the town hall looks especially atmospheric reflecting in the rain.",
+                "es": "Utiliza un aparcamiento cercano para llegar al centro seco; la fachada iluminada del ayuntamiento se ve especialmente atmosférica reflejada en la lluvia."
               }
             }
           ]
@@ -861,7 +955,8 @@
             "de": "Die Heizung wird Ihr bester Freund sein, während Sie die malerischen Straßen zu den abgelegenen Stränden von Luanco befahren. Der Mittag bietet klare, scharfe Ausblicke auf den Horizont, die nur die kalte Winterluft bieten kann. Stellen Sie sicher, dass Sie die Klippen vor dem Sonnenuntergang um 17:00 Uhr erreichen. Der Abend ist die perfekte Zeit, um für ein warmes Essen in das Stadtzentrum zurückzukehren.",
             "hu": "A fűtés a legjobb barátja lesz, miközben Luanco távolabbi strandjaihoz vezet a festői utakon. Délben tiszta, éles kilátás nyílik a horizontra, amit csak a hideg téli levegő tud biztosítani. Ügyeljen rá, hogy még a 17:00-s napnyugta előtt érje el a sziklákat. Az este tökéletes időpont a visszatérésre a városközpontba egy forró vacsorára.",
             "ro": "Căldura din mașină va fi cel mai bun prieten în timp ce parcurgeți drumurile pitorești spre plajele izolate din Luanco. Prânzul oferă vederi clare asupra orizontului, posibile doar în aerul rece de iarnă. Asigurați-vă că ajungeți la stânci înainte de apusul de la 17:00. Seara este momentul perfect pentru a reveni în centru pentru o masă caldă.",
-            "en": "The heater will be your best friend as you navigate the scenic roads to Luanco's outlying beaches. Midday offers clear, sharp views of the horizon that only the cold winter air can provide. Ensure you reach the cliffs before the 17:00 sunset to catch the golden hour. Evening is the perfect time to drive back into the town center for a hot meal."
+            "en": "The heater will be your best friend as you navigate the scenic roads to Luanco's outlying beaches. Midday offers clear, sharp views of the horizon that only the cold winter air can provide. Ensure you reach the cliffs before the 17:00 sunset to catch the golden hour. Evening is the perfect time to drive back into the town center for a hot meal.",
+            "es": "El calefactor será tu mejor aliado mientras recorres las carreteras escénicas hacia las playas de Luanco. El mediodía ofrece vistas nítidas del horizonte que solo el aire frío invernal proporciona. Asegúrate de llegar a los acantilados antes de las 17:00 para coger la hora dorada. Por la noche vuelve al centro del pueblo para disfrutar de una comida caliente."
           },
           "stops": [
             {
@@ -869,13 +964,15 @@
                 "de": "Playa de Bañugues",
                 "hu": "Playa de Bañugues",
                 "ro": "Playa de Bañugues",
-                "en": "Playa de Bañugues"
+                "en": "Playa de Bañugues",
+                "es": "Playa de Bañugues"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den einfachen Zugang mit dem Auto für einen schnellen Strandspaziergang; die Wintermorgensonne taucht die Bucht in ein wunderschönes, kühles Licht.",
                 "hu": "Használja ki a könnyű autós megközelíthetőséget egy gyors parti sétához; a téli reggeli nap gyönyörű, hűvös fénybe öltözteti az egész öblöt.",
                 "ro": "Profitați de accesul ușor cu mașina pentru o plimbare rapidă pe plajă; soarele de dimineață iarna scaldă golful într-o lumină rece și superbă.",
-                "en": "Take advantage of the easy car access for a quick beach stroll; the winter morning sun bathes the entire bay in a beautiful, crisp light."
+                "en": "Take advantage of the easy car access for a quick beach stroll; the winter morning sun bathes the entire bay in a beautiful, crisp light.",
+                "es": "Aprovecha el fácil acceso en coche para un paseo rápido por la playa; el sol invernal de la mañana baña la bahía con una preciosa luz nítida."
               }
             },
             {
@@ -883,13 +980,15 @@
                 "de": "Playa de Moniello",
                 "hu": "Playa de Moniello",
                 "ro": "Playa de Moniello",
-                "en": "Playa de Moniello"
+                "en": "Playa de Moniello",
+                "es": "Playa de Moniello"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den weiten Blick auf den Ozean direkt vom Fahrersitz aus; die kalte Luft macht die Fernsicht heute besonders beeindruckend und klar.",
                 "hu": "Élvezze a tágas kilátást az óceánra közvetlenül a vezetőülésből; a hideg levegő ma különösen lenyűgözővé és tisztává teszi a távoli panorámát.",
                 "ro": "Bucurați-vă de vederea largă spre ocean direct de pe scaunul șoferului; aerul rece face ca vizibilitatea la distanță să fie impresionantă și clară.",
-                "en": "Enjoy the expansive ocean views directly from your driver's seat; the cold air makes the long-distance visibility especially impressive and clear today."
+                "en": "Enjoy the expansive ocean views directly from your driver's seat; the cold air makes the long-distance visibility especially impressive and clear today.",
+                "es": "Disfruta de las amplias vistas al océano directamente desde el asiento del conductor; el aire frío hace que la visibilidad a larga distancia sea especialmente clara e impresionante hoy."
               }
             },
             {
@@ -897,13 +996,15 @@
                 "de": "Aussichtspunkt La Mofosa",
                 "hu": "La Mofosa kilátó",
                 "ro": "Punctul de belvedere La Mofosa",
-                "en": "La Mofosa Viewpoint"
+                "en": "La Mofosa Viewpoint",
+                "es": "Mirador La Mofosa"
               },
               "tip_5lang": {
                 "de": "Kommen Sie rechtzeitig vor 17:00 Uhr an, um den Wintersonnenuntergang über den Klippen zu erleben, bevor die Kälte nach dem Verschwinden der Sonne zunimmt.",
                 "hu": "Érkezzen meg időben 17:00 előtt, hogy átélje a téli naplementét a sziklák felett, mielőtt a nap eltűnése után hirtelen megnőne a hideg érzete.",
                 "ro": "Ajungeți din timp înainte de ora 17:00 pentru a surprinde apusul de iarnă peste stânci, înainte ca frigul să se intensifice după dispariția soarelui.",
-                "en": "Arrive well before 17:00 to catch the winter sunset over the cliffs before the temperature drops sharply once the sun disappears below the horizon."
+                "en": "Arrive well before 17:00 to catch the winter sunset over the cliffs before the temperature drops sharply once the sun disappears below the horizon.",
+                "es": "Llega bien antes de las 17:00 para ver la puesta de sol invernal sobre los acantilados antes de que la temperatura baje bruscamente al desaparecer el sol."
               }
             },
             {
@@ -911,13 +1012,15 @@
                 "de": "Palacio de los Menéndez Pola",
                 "hu": "Palacio de los Menéndez Pola",
                 "ro": "Palacio de los Menéndez Pola",
-                "en": "Palacio de los Menéndez Pola"
+                "en": "Palacio de los Menéndez Pola",
+                "es": "Palacio de los Menéndez Pola"
               },
               "tip_5lang": {
                 "de": "Die tiefstehende Sonne betont die Steinmetzarbeiten des Palastes; nutzen Sie das goldene Licht am Nachmittag für beeindruckende Architekturfotos vom Auto aus.",
                 "hu": "Az alacsonyan járó nap kiemeli a palota kőfaragványait; használja ki a délutáni aranyló fényeket lenyűgöző építészeti fotók készítéséhez az autóból.",
                 "ro": "Soarele jos pune în evidență sculpturile în piatră ale palatului; profitați de lumina aurie de după-amiază pentru fotografii de arhitectură reușite.",
-                "en": "The low sun highlights the palace's stonework; take advantage of the afternoon golden light for impressive architectural photos from near your car."
+                "en": "The low sun highlights the palace's stonework; take advantage of the afternoon golden light for impressive architectural photos from near your car.",
+                "es": "El sol bajo resalta la cantería del palacio; aprovecha la luz dorada de la tarde para fotos arquitectónicas impresionantes desde cerca del coche."
               }
             },
             {
@@ -925,13 +1028,15 @@
                 "de": "Rathaus von Gozón",
                 "hu": "Gozóni Városháza",
                 "ro": "Primăria Gozón",
-                "en": "Gozón Town Hall"
+                "en": "Gozón Town Hall",
+                "es": "Ayuntamiento de Gozón"
               },
               "tip_5lang": {
                 "de": "Parken Sie im Zentrum und suchen Sie sich ein warmes Restaurant für den Abend; Luanco ist im Winter besonders gemütlich, wenn es draußen früh dunkel wird.",
                 "hu": "Parkoljon le a központban, és keressen egy meleg éttermet estére; Luanco télen különösen barátságos, amikor kint korán besötétedik és lehűl az idő.",
                 "ro": "Parcați în centru și căutați un restaurant călduros pentru seară; Luanco este deosebit de primitor iarna, când se întunecă devreme și se lasă frigul.",
-                "en": "Park in the center and find a warm restaurant for the evening; Luanco is especially cozy in winter when it gets dark early and the air cools down."
+                "en": "Park in the center and find a warm restaurant for the evening; Luanco is especially cozy in winter when it gets dark early and the air cools down.",
+                "es": "Aparca en el centro y busca un restaurante cálido para la noche; Luanco es especialmente acogedor en invierno cuando anochece temprano y el aire se enfría."
               }
             }
           ]

@@ -21,7 +21,8 @@
             "de": "Rathaus von Mollet",
             "hu": "Mollet városháza",
             "ro": "Primăria din Mollet",
-            "en": "Mollet Town Hall"
+            "en": "Mollet Town Hall",
+            "es": "Ayuntamiento de Mollet"
           },
           "coords": [
             2.2141,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die moderne Architektur des Gebäudes.",
             "hu": "Csodálja meg az épület modern építészetét.",
             "ro": "Admirați arhitectura modernă a clădirii.",
-            "en": "Admire the modern architecture of the building."
+            "en": "Admire the modern architecture of the building.",
+            "es": "Admira la arquitectura moderna del edificio."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Sant Vicenç",
             "hu": "Sant Vicenç templom",
             "ro": "Biserica Sant Vicenç",
-            "en": "Church of Sant Vicenç"
+            "en": "Church of Sant Vicenç",
+            "es": "Iglesia de Sant Vicenç"
           },
           "coords": [
             2.2155,
@@ -59,7 +62,8 @@
             "de": "Suchen Sie nach den gotischen Elementen im Inneren.",
             "hu": "Keresse meg a gótikus elemeket a belső térben.",
             "ro": "Căutați elementele gotice din interior.",
-            "en": "Look for the Gothic elements inside."
+            "en": "Look for the Gothic elements inside.",
+            "es": "Busca los elementos góticos en el interior."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Millennium-Denkmal",
             "hu": "Millenniumi emlékmű",
             "ro": "Monumentul Mileniului",
-            "en": "Millennium Monument"
+            "en": "Millennium Monument",
+            "es": "Monumento del Milenio"
           },
           "coords": [
             2.2125,
@@ -82,7 +87,8 @@
             "de": "Ein toller Ort für ein Erinnerungsfoto.",
             "hu": "Remek hely egy emlékfotó készítéséhez.",
             "ro": "Un loc grozav pentru o fotografie suvenir.",
-            "en": "A great spot for a souvenir photo."
+            "en": "A great spot for a souvenir photo.",
+            "es": "Un buen lugar para una foto de recuerdo."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Abelló Museum",
             "hu": "Abelló Múzeum",
             "ro": "Muzeul Abelló",
-            "en": "Abelló Museum"
+            "en": "Abelló Museum",
+            "es": "Museo Abelló"
           },
           "coords": [
             2.2105,
@@ -105,7 +112,8 @@
             "de": "Konzentrieren Sie sich auf die Sammlung moderner katalanischer Kunst.",
             "hu": "Koncentráljon a modern katalán művészeti gyűjteményre.",
             "ro": "Concentrați-vă pe colecția de artă modernă catalană.",
-            "en": "Focus on the collection of modern Catalan art."
+            "en": "Focus on the collection of modern Catalan art.",
+            "es": "Concéntrate en la colección de arte catalán moderno."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Mittagessen im El Tabaran",
             "hu": "Ebéd az El Tabaran-ban",
             "ro": "Prânz la El Tabaran",
-            "en": "Lunch at El Tabaran"
+            "en": "Lunch at El Tabaran",
+            "es": "Comida en El Tabaran"
           },
           "coords": [
             2.2115,
@@ -128,7 +137,8 @@
             "de": "Probieren Sie die lokalen Tapas-Spezialitäten.",
             "hu": "Kóstolja meg a helyi tapas különlegességeket.",
             "ro": "Încercați specialitățile locale de tapas.",
-            "en": "Try the local tapas specialities."
+            "en": "Try the local tapas specialities.",
+            "es": "Prueba las especialidades locales de tapas."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Can Mulà Park",
             "hu": "Can Mulà Park",
             "ro": "Parcul Can Mulà",
-            "en": "Can Mulà Park"
+            "en": "Can Mulà Park",
+            "es": "Parque Can Mulà"
           },
           "coords": [
             2.218,
@@ -151,7 +162,8 @@
             "de": "Ein idealer Ort für eine entspannte Pause am Nachmittag.",
             "hu": "Ideális hely egy pihentető délutáni szünethez.",
             "ro": "Un loc ideal pentru o pauză relaxantă de după-amiază.",
-            "en": "An ideal place for a relaxing afternoon break."
+            "en": "An ideal place for a relaxing afternoon break.",
+            "es": "Un lugar ideal para un descanso relajante por la tarde."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Mollet am Rathausplatz und der nahegelegenen Kirche Sant Vicenç. Spüren Sie die lokale Atmosphäre, bevor Sie sich auf den Weg machen. Am Vormittag tauchen Sie in die Kunst ein. Das Millennium-Denkmal bietet einen Fotostopp, bevor Sie die beeindruckende Sammlung des Abelló-Museums erkunden. Nach der Kultur ist es Zeit für die Gastronomie. Genießen Sie ein authentisches katalanisches Mittagessen im El Tabaran und tanken Sie Energie für den Nachmittag. Den Abschluss bildet der Can Mulà Park. Schlendern Sie durch das Grün, entspannen Sie am See und lassen Sie die Eindrücke des Tages in dieser städtischen Oase Revue passieren.",
         "hu": "Kezdje a napot Mollet szívében a Városháza téren és a közeli Sant Vicenç templomnál. Érezze a helyi légkört, mielőtt továbbhalad. Délelőtt merüljön el a művészetben. A Millenniumi emlékmű egy fotómegállót kínál, mielőtt felfedezné az Abelló Múzeum lenyűgöző gyűjteményét. A kultúra után jöhet a gasztronómia. Élvezzen egy autentikus katalán ebédet az El Tabaran-ban, és töltődjön fel energiával a délutánra. A napot a Can Mulà Park zárja. Sétáljon a zöldben, pihenjen a tónál, és elevenítse fel a nap benyomásait ebben a városi oázisban.",
         "ro": "Începeți ziua în inima orașului Mollet, la Piața Primăriei și la biserica Sant Vicenç din apropiere. Simțiți atmosfera locală înainte de a porni la drum. Dimineața, scufundați-vă în artă. Monumentul Mileniului oferă o oprire pentru fotografii înainte de a explora colecția impresionantă a Muzeului Abelló. După cultură, este timpul pentru gastronomie. Bucurați-vă de un prânz catalan autentic la El Tabaran și reîncărcați-vă bateriile pentru după-amiază. Ziua se încheie în Parcul Can Mulà. Plimbați-vă prin verdeață, relaxați-vă lângă lac și retrăiți impresiile zilei în această oază urbană.",
-        "en": "Start your day in the heart of Mollet at the Town Hall square and the nearby Sant Vicenç church. Feel the local atmosphere before moving on. In the morning, immerse yourself in art. The Millennium Monument offers a photo stop before you explore the impressive collection of the Abelló Museum. After culture, it's time for gastronomy. Enjoy an authentic Catalan lunch at El Tabaran and recharge your energy for the afternoon. The day concludes at Can Mulà Park. Stroll through the greenery, relax by the lake, and reflect on the day's impressions in this urban oasis."
+        "en": "Start your day in the heart of Mollet at the Town Hall square and the nearby Sant Vicenç church. Feel the local atmosphere before moving on. In the morning, immerse yourself in art. The Millennium Monument offers a photo stop before you explore the impressive collection of the Abelló Museum. After culture, it's time for gastronomy. Enjoy an authentic Catalan lunch at El Tabaran and recharge your energy for the afternoon. The day concludes at Can Mulà Park. Stroll through the greenery, relax by the lake, and reflect on the day's impressions in this urban oasis.",
+        "es": "Comienza el día en el corazón de Mollet en la plaza del Ayuntamiento y la cercana iglesia de Sant Vicenç. Siente el ambiente local antes de continuar. Por la mañana sumérgete en el arte. El Monumento del Milenio ofrece una parada fotográfica antes de explorar la impresionante colección del Museo Abelló. Tras la cultura, llega la gastronomía. Disfruta de un auténtico almuerzo catalán en El Tabaran y recarga energías para la tarde. El día concluye en el Parque Can Mulà. Pasea por la vegetación, relájate junto al lago y reflexiona sobre las impresiones del día en este oasis urbano."
       },
       "gastro_picks": {
         "de": [
@@ -355,6 +368,12 @@
           "A reusable water bottle is a good idea to stay hydrated.",
           "Start early to avoid the midday heat.",
           "Check the museum's opening hours in advance."
+        ],
+        "es": [
+          "Lleva calzado cómodo, ya que caminarás bastante.",
+          "Una botella de agua reutilizable es buena idea para mantenerte hidratado.",
+          "Empieza temprano para evitar el calor del mediodía.",
+          "Consulta los horarios de apertura del museo con antelación."
         ]
       },
       "variants": {
@@ -363,7 +382,8 @@
             "de": "Morgens bietet die Plaça de Prat de la Riba Schutz unter den Arkaden des Rathauses. Mittags verlagert sich die Tour in die Església de Sant Vicenç und das Museu Abelló (eröffnet 1999). Nachmittags genießt man die katalanische Küche im trockenen Innenraum. Abends endet der Tag mit einem kurzen Spaziergang durch den regnerischen Parc de Can Mulà, bevor man den Rückweg antritt.",
             "hu": "Reggel a Plaça de Prat de la Riba városházi árkádjai alatt találunk menedéket. Délben az Església de Sant Vicenç és az 1999-ben megnyitott Museu Abelló gazdag gyűjteménye nyújt száraz programot. Délután egy központi étteremben kóstolhatjuk meg a helyi ízeket. Este egy frissítő, rövid séta vár a Parc de Can Mulà kertjében, élvezve a csapadék utáni tiszta levegőt.",
             "ro": "Dimineața începe sub arcadele primăriei din Plaça de Prat de la Riba. La prânz, vizităm interiorul bisericii Sant Vicenç și colecțiile Muzeului Abelló. După-amiaza este dedicată gastronomiei locale într-un cadru ferit de precipitații. Seara se încheie cu o plimbare scurtă prin Parc de Can Mulà, profitând de atmosfera liniștită de după ploaie.",
-            "en": "Morning starts under the town hall arcades at Plaça de Prat de la Riba. At noon, the Sant Vicenç church and the Museu Abelló (opened in 1999) provide an excellent indoor retreat. Afternoon is spent dining in the city center. Evening concludes with a brisk walk through the lush, rain-washed paths of Can Mulà park before heading to the station."
+            "en": "Morning starts under the town hall arcades at Plaça de Prat de la Riba. At noon, the Sant Vicenç church and the Museu Abelló (opened in 1999) provide an excellent indoor retreat. Afternoon is spent dining in the city center. Evening concludes with a brisk walk through the lush, rain-washed paths of Can Mulà park before heading to the station.",
+            "es": "La mañana comienza bajo las arcadas del ayuntamiento en la Plaça de Prat de la Riba. Al mediodía, la iglesia de Sant Vicenç y el Museu Abelló (inaugurado en 1999) ofrecen un excelente refugio interior. La tarde se pasa comiendo en el centro de la ciudad. La noche termina con un paseo enérgico por los frondosos y lavados por la lluvia senderos del parque de Can Mulà antes de dirigirse a la estación."
           },
           "stops": [
             {
@@ -372,7 +392,8 @@
                 "de": "Nutzen Sie die Arkaden des Rathauses als Regenschutz.",
                 "hu": "Használja a városháza árkádjait esővédőként.",
                 "ro": "Folosiți arcadele primăriei pentru a vă adăposti de ploaie.",
-                "en": "Use the town hall arcades for shelter from the rain."
+                "en": "Use the town hall arcades for shelter from the rain.",
+                "es": "Utilice las arcadas del ayuntamiento como refugio de la lluvia."
               }
             },
             {
@@ -381,7 +402,8 @@
                 "de": "Das Innere bietet Schutz und zeigt gotische Bauelemente.",
                 "hu": "A belső tér menedéket nyújt és gótikus elemeket mutat be.",
                 "ro": "Interiorul oferă adăpost și prezintă elemente gotice.",
-                "en": "The interior provides shelter and features Gothic elements."
+                "en": "The interior provides shelter and features Gothic elements.",
+                "es": "El interior ofrece refugio y presenta elementos góticos."
               }
             },
             {
@@ -390,7 +412,8 @@
                 "de": "Ein kurzer Stopp; halten Sie den Regenschirm bereit.",
                 "hu": "Rövid megálló; tartsa készenlétben az esernyőjét.",
                 "ro": "O oprire scurtă; țineți umbrela la îndemână.",
-                "en": "A brief stop; keep your umbrella ready."
+                "en": "A brief stop; keep your umbrella ready.",
+                "es": "Parada breve; mantenga el paraguas a mano."
               }
             },
             {
@@ -399,7 +422,8 @@
                 "de": "Idealer Ort für eine ausgiebige Besichtigung im Trockenen.",
                 "hu": "Ideális helyszín egy hosszú, száraz benti látogatáshoz.",
                 "ro": "Locație ideală pentru o vizită prelungită la adăpost.",
-                "en": "Ideal location for an extensive indoor visit."
+                "en": "Ideal location for an extensive indoor visit.",
+                "es": "Ubicación ideal para una visita interior extensa."
               }
             },
             {
@@ -408,7 +432,8 @@
                 "de": "Wählen Sie ein Restaurant mit gemütlichem Innenraum.",
                 "hu": "Válasszon egy hangulatos belső térrel rendelkező éttermet.",
                 "ro": "Alegeți un restaurant cu un interior primitor.",
-                "en": "Choose a restaurant with a cozy indoor seating area."
+                "en": "Choose a restaurant with a cozy indoor seating area.",
+                "es": "Elija un restaurante con un acogedor comedor interior."
               }
             },
             {
@@ -417,7 +442,8 @@
                 "de": "Die befestigten Wege sind auch bei Nässe gut begehbar.",
                 "hu": "A burkolt utak esőben is jól járhatóak maradnak.",
                 "ro": "Aleile pavate rămân accesibile chiar și pe ploaie.",
-                "en": "The paved paths remain easily accessible even in wet weather."
+                "en": "The paved paths remain easily accessible even in wet weather.",
+                "es": "Los caminos pavimentados siguen siendo fácilmente accesibles incluso en clima húmedo."
               }
             }
           ],
@@ -445,6 +471,12 @@
               "Museu Abelló is closed on Mondays; plan your visit accordingly.",
               "Use the shops along Rambla Nova as covered stops.",
               "R2/R3 trains provide dry connections to Barcelona."
+            ],
+            "es": [
+              "Use calzado impermeable para las calles empedradas.",
+              "El Museu Abelló cierra los lunes; planifique su visita en consecuencia.",
+              "Use las tiendas a lo largo de la Rambla Nova como paradas cubiertas.",
+              "Los trenes R2/R3 ofrecen conexiones secas con Barcelona."
             ]
           }
         },
@@ -453,7 +485,8 @@
             "de": "Im Winter beginnt der Morgen frisch an der Plaça de Prat de la Riba. Mittags wärmt man sich in der Església de Sant Vicenç und bei den Kunstschätzen des Museu Abelló auf. Nachmittags steht ein deftiges Mittagessen auf dem Plan. Abends, wenn die Sonne gegen 17:30 Uhr untergeht, leuchten die Lichter im Parc de Can Mulà besonders stimmungsvoll.",
             "hu": "Télen a reggel frissen indul a Plaça de Prat de la Riba téren. Délben az Església de Sant Vicenç és a Museu Abelló fűtött tereiben melegedhetünk fel. Délután egy kiadós katalán ebéd tölt fel energiával. Este, mivel a nap már 17:30 körül nyugszik, a Parc de Can Mulà fényei különleges hangulatot árasztanak a hideg alkonyatban.",
             "ro": "Iarna, dimineața începe cu aer proaspăt în Plaça de Prat de la Riba. La prânz, ne încălzim în biserica Sant Vicenç și admirăm arta de la Muzeul Abelló. După-amiaza este pentru un prânz consistent. Seara, apusul fiind în jur de ora 17:30, luminile din Parc de Can Mulà creează o atmosferă deosebită în amurg.",
-            "en": "In winter, the morning starts crisp at Plaça de Prat de la Riba. At noon, warm up inside Sant Vicenç church and the climate-controlled Museu Abelló. Afternoon is for a hearty local lunch. Evening brings an early sunset around 17:30, making the illuminations in Can Mulà park look especially striking."
+            "en": "In winter, the morning starts crisp at Plaça de Prat de la Riba. At noon, warm up inside Sant Vicenç church and the climate-controlled Museu Abelló. Afternoon is for a hearty local lunch. Evening brings an early sunset around 17:30, making the illuminations in Can Mulà park look especially striking.",
+            "es": "En invierno, la mañana comienza fresca en la Plaça de Prat de la Riba. Al mediodía, entre en calor dentro de la iglesia de Sant Vicenç y del climatizado Museu Abelló. La tarde es para un contundente almuerzo local. La noche trae una puesta de sol temprana alrededor de las 17:30, lo que hace que las iluminaciones del parque de Can Mulà resulten especialmente llamativas."
           },
           "stops": [
             {
@@ -462,7 +495,8 @@
                 "de": "Genießen Sie die klare Wintersonne auf dem offenen Platz.",
                 "hu": "Élvezze a tiszta téli napsütést a nyitott téren.",
                 "ro": "Bucurați-vă de soarele clar de iarnă în piața deschisă.",
-                "en": "Enjoy the clear winter sun in the open square."
+                "en": "Enjoy the clear winter sun in the open square.",
+                "es": "Disfrute del claro sol invernal en la plaza abierta."
               }
             },
             {
@@ -471,7 +505,8 @@
                 "de": "Im Inneren ist es deutlich milder als draußen.",
                 "hu": "A belső térben lényegesen enyhébb az idő, mint kint.",
                 "ro": "În interior este considerabil mai cald decât afară.",
-                "en": "It is significantly milder inside than outdoors."
+                "en": "It is significantly milder inside than outdoors.",
+                "es": "Dentro hace bastante más calor que al aire libre."
               }
             },
             {
@@ -480,7 +515,8 @@
                 "de": "Ein kurzer historischer Stopp an der frischen Luft.",
                 "hu": "Rövid történelmi megálló a friss téli levegőn.",
                 "ro": "O scurtă oprire istorică în aerul proaspăt.",
-                "en": "A brief historical stop in the fresh winter air."
+                "en": "A brief historical stop in the fresh winter air.",
+                "es": "Una breve parada histórica en el fresco aire invernal."
               }
             },
             {
@@ -489,7 +525,8 @@
                 "de": "Nutzen Sie die Garderobe für Ihre schwere Winterkleidung.",
                 "hu": "Használja a ruhatárat a vastag téli kabátokhoz.",
                 "ro": "Folosiți garderoba pentru hainele groase de iarnă.",
-                "en": "Use the cloakroom for your heavy winter coats."
+                "en": "Use the cloakroom for your heavy winter coats.",
+                "es": "Use la consigna para sus abrigos de invierno pesados."
               }
             },
             {
@@ -498,7 +535,8 @@
                 "de": "Probieren Sie eine warme Escudella, eine typische Suppe.",
                 "hu": "Kóstoljon meg egy meleg Escudellát, a tipikus levest.",
                 "ro": "Încercați o Escudella caldă, o supă tradițională.",
-                "en": "Try a warm Escudella, a typical Catalan soup."
+                "en": "Try a warm Escudella, a typical Catalan soup.",
+                "es": "Pruebe una Escudella caliente, una sopa típica catalana."
               }
             },
             {
@@ -507,7 +545,8 @@
                 "de": "Besuch vor Sonnenuntergang (ca. 17:30 Uhr) empfohlen.",
                 "hu": "Látogatás naplemente (kb. 17:30) előtt ajánlott.",
                 "ro": "Vizită recomandată înainte de apus (aprox. 17:30).",
-                "en": "Visit recommended before sunset (approx. 17:30)."
+                "en": "Visit recommended before sunset (approx. 17:30).",
+                "es": "Visita recomendada antes del atardecer (aprox. 17:30)."
               }
             }
           ],
@@ -535,6 +574,12 @@
               "The museums are well heated, ideal for warming up.",
               "Cafés are less crowded in winter than in summer.",
               "Note the shorter daylight hours for outdoor photography."
+            ],
+            "es": [
+              "Vestir en capas ayuda contra los cambios de temperatura.",
+              "Los museos están bien calefactados, ideales para entrar en calor.",
+              "Los cafés están menos concurridos en invierno que en verano.",
+              "Tenga en cuenta las horas de luz más cortas para la fotografía al aire libre."
             ]
           }
         }
@@ -553,7 +598,8 @@
             "de": "Rathaus von Mollet",
             "hu": "Mollet városháza",
             "ro": "Primăria din Mollet",
-            "en": "Mollet Town Hall"
+            "en": "Mollet Town Hall",
+            "es": "Ayuntamiento de Mollet"
           },
           "coords": [
             2.2141,
@@ -568,7 +614,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie den Platz erkunden.",
             "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezi a teret.",
             "ro": "Încuietoarea bicicletei în siguranță înainte de a explora piața.",
-            "en": "Lock your bike securely before exploring the square."
+            "en": "Lock your bike securely before exploring the square.",
+            "es": "Asegure bien su bicicleta antes de explorar la plaza."
           }
         },
         {
@@ -576,7 +623,8 @@
             "de": "Can Mulà Park",
             "hu": "Can Mulà Park",
             "ro": "Parcul Can Mulà",
-            "en": "Can Mulà Park"
+            "en": "Can Mulà Park",
+            "es": "Parque de Can Mulà"
           },
           "coords": [
             2.218,
@@ -591,7 +639,8 @@
             "de": "Genießen Sie eine kurze Radtour durch den Park.",
             "hu": "Élvezze a rövid kerékpártúrát a parkon keresztül.",
             "ro": "Bucurați-vă de o scurtă plimbare cu bicicleta prin parc.",
-            "en": "Enjoy a short bike ride through the park."
+            "en": "Enjoy a short bike ride through the park.",
+            "es": "Disfrute de un corto paseo en bicicleta por el parque."
           }
         },
         {
@@ -599,7 +648,8 @@
             "de": "Abelló Museum",
             "hu": "Abelló Múzeum",
             "ro": "Muzeul Abelló",
-            "en": "Abelló Museum"
+            "en": "Abelló Museum",
+            "es": "Museu Abelló"
           },
           "coords": [
             2.2105,
@@ -614,7 +664,8 @@
             "de": "Es gibt Fahrradständer in der Nähe des Eingangs.",
             "hu": "A bejárat közelében kerékpártárolók találhatók.",
             "ro": "Există suporturi pentru biciclete lângă intrare.",
-            "en": "There are bike racks near the entrance."
+            "en": "There are bike racks near the entrance.",
+            "es": "Hay aparcamientos para bicicletas cerca de la entrada."
           }
         },
         {
@@ -622,7 +673,8 @@
             "de": "Masia de Can Borrell",
             "hu": "Masia de Can Borrell",
             "ro": "Masia de Can Borrell",
-            "en": "Masia de Can Borrell"
+            "en": "Masia de Can Borrell",
+            "es": "Masia de Can Borrell"
           },
           "coords": [
             2.198,
@@ -637,7 +689,8 @@
             "de": "Ein historisches Bauernhaus, das sich hervorragend für ein rustikales Mittagessen eignet.",
             "hu": "Egy történelmi parasztház, amely kiválóan alkalmas egy rusztikus ebédre.",
             "ro": "O fermă istorică, excelentă pentru un prânz rustic.",
-            "en": "A historic farmhouse, excellent for a rustic lunch."
+            "en": "A historic farmhouse, excellent for a rustic lunch.",
+            "es": "Una masía histórica, excelente para un almuerzo rústico."
           }
         },
         {
@@ -645,7 +698,8 @@
             "de": "Gallecs (Ländliches Gebiet)",
             "hu": "Gallecs (Vidéki terület)",
             "ro": "Gallecs (Zonă rurală)",
-            "en": "Gallecs (Rural Area)"
+            "en": "Gallecs (Rural Area)",
+            "es": "Gallecs (zona rural)"
           },
           "coords": [
             2.185,
@@ -660,7 +714,8 @@
             "de": "Fahren Sie auf den Feldwegen und genießen Sie die Natur.",
             "hu": "Kerékpározzon a földutakon és élvezze a természetet.",
             "ro": "Mergeți cu bicicleta pe drumurile de pământ și bucurați-vă de natură.",
-            "en": "Cycle on the dirt tracks and enjoy nature."
+            "en": "Cycle on the dirt tracks and enjoy nature.",
+            "es": "Pedalee por las pistas de tierra y disfrute de la naturaleza."
           }
         },
         {
@@ -668,7 +723,8 @@
             "de": "Kirche Sant Vicenç",
             "hu": "Sant Vicenç templom",
             "ro": "Biserica Sant Vicenç",
-            "en": "Church of Sant Vicenç"
+            "en": "Church of Sant Vicenç",
+            "es": "Iglesia de Sant Vicenç"
           },
           "coords": [
             2.2155,
@@ -683,7 +739,8 @@
             "de": "Ein Moment der Ruhe nach einer langen Radtour.",
             "hu": "Egy pillanatnyi nyugalom egy hosszú kerékpártúra után.",
             "ro": "Un moment de liniște după o plimbare lungă cu bicicleta.",
-            "en": "A moment of peace after a long bike ride."
+            "en": "A moment of peace after a long bike ride.",
+            "es": "Un momento de paz tras un largo paseo en bici."
           }
         },
         {
@@ -691,7 +748,8 @@
             "de": "El Tabaran für einen Drink",
             "hu": "Egy ital az El Tabaran-ban",
             "ro": "O băutură la El Tabaran",
-            "en": "A drink at El Tabaran"
+            "en": "A drink at El Tabaran",
+            "es": "Una copa en El Tabaran"
           },
           "coords": [
             2.2115,
@@ -706,7 +764,8 @@
             "de": "Belohnen Sie sich mit einem kalten Getränk.",
             "hu": "Jutalmazza meg magát egy hideg itallal.",
             "ro": "Recompensați-vă cu o băutură rece.",
-            "en": "Reward yourself with a cold drink."
+            "en": "Reward yourself with a cold drink.",
+            "es": "Date el gusto con una bebida fría."
           }
         }
       ],
@@ -714,7 +773,8 @@
         "de": "Schwingen Sie sich aufs Rad und starten Sie am Rathaus. Die erste Etappe führt Sie in den grünen Can Mulà Park. Nach einer kurzen Pause geht es weiter zur Kultur: Das Abelló-Museum wartet. Stärken Sie sich mittags in der historischen Masia de Can Borrell, einem perfekten Ort, um die ländliche Atmosphäre zu genießen. Der Nachmittag gehört ganz der Natur. Eine ausgedehnte Radtour durch das ländliche Gebiet von Gallecs bietet weite Ausblicke und frische Luft. Auf dem Rückweg ins Zentrum besuchen Sie die Kirche Sant Vicenç für einen Moment der Besinnung. Beenden Sie Ihren aktiven Tag mit einem erfrischenden Getränk im El Tabaran.",
         "hu": "Pattanjon kerékpárra és induljon a Városházától. Az első szakasz a zöld Can Mulà Parkba vezet. Egy rövid szünet után irány a kultúra: az Abelló Múzeum várja. Ebédre erősítsen a történelmi Masia de Can Borrell-ben, amely tökéletes hely a vidéki hangulat élvezetéhez. A délután a természeté. Egy kiterjedt kerékpártúra a Gallecs vidéki területén tágas kilátást és friss levegőt kínál. Visszafelé a központba látogasson el a Sant Vicenç templomba egy pillanatnyi elmélyülésre. Zárja az aktív napot egy frissítő itallal az El Tabaran-ban.",
         "ro": "Urcați-vă pe bicicletă și porniți de la Primărie. Prima etapă vă duce în Parcul verde Can Mulà. După o scurtă pauză, continuați spre cultură: Muzeul Abelló vă așteaptă. La prânz, întăriți-vă la istorica Masia de Can Borrell, un loc perfect pentru a vă bucura de atmosfera rurală. După-amiaza este dedicată naturii. O plimbare extinsă cu bicicleta prin zona rurală Gallecs oferă vederi largi și aer proaspăt. Pe drumul de întoarcere spre centru, vizitați Biserica Sant Vicenç pentru un moment de reculegere. Încheiați ziua activă cu o băutură răcoritoare la El Tabaran.",
-        "en": "Get on your bike and start from the Town Hall. The first leg takes you to the green Can Mulà Park. After a short break, continue to culture: the Abelló Museum awaits. For lunch, refuel at the historic Masia de Can Borrell, a perfect place to enjoy the rural atmosphere. The afternoon is all about nature. An extensive bike tour through the Gallecs rural area offers wide views and fresh air. On the way back to the center, visit the Church of Sant Vicenç for a moment of reflection. End your active day with a refreshing drink at El Tabaran."
+        "en": "Get on your bike and start from the Town Hall. The first leg takes you to the green Can Mulà Park. After a short break, continue to culture: the Abelló Museum awaits. For lunch, refuel at the historic Masia de Can Borrell, a perfect place to enjoy the rural atmosphere. The afternoon is all about nature. An extensive bike tour through the Gallecs rural area offers wide views and fresh air. On the way back to the center, visit the Church of Sant Vicenç for a moment of reflection. End your active day with a refreshing drink at El Tabaran.",
+        "es": "Suba a su bicicleta y salga desde el Ayuntamiento. La primera etapa le lleva al verde parque de Can Mulà. Tras una breve pausa, continúe hacia la cultura: le espera el Museu Abelló. Para comer, recupére fuerzas en la histórica Masia de Can Borrell, un lugar perfecto para disfrutar del ambiente rural. La tarde es para la naturaleza. Una extensa ruta en bici por la zona rural de Gallecs ofrece amplias vistas y aire fresco. De regreso al centro, visite la iglesia de Sant Vicenç para un momento de reflexión. Termine su día activo con una refrescante bebida en El Tabaran."
       },
       "gastro_picks": {
         "de": [
@@ -910,6 +970,12 @@
           "A helmet is highly recommended.",
           "Take plenty of water and some snacks.",
           "Use designated bike paths wherever possible."
+        ],
+        "es": [
+          "Revise su bicicleta antes de salir, especialmente frenos y neumáticos.",
+          "Se recomienda encarecidamente un casco.",
+          "Lleve abundante agua y algunos tentempiés.",
+          "Use los carriles bici señalizados siempre que sea posible."
         ]
       },
       "variants": {
@@ -918,7 +984,8 @@
             "de": "Regnerische Biketour: Start im Zentrum, dann geht es vorsichtig zum Parc de Can Mulà. Mittags Schutz im Museu Abelló suchen. Nachmittags führt die Route nach Gallecs; Vorsicht auf den dortigen Lehmwegen. Abends Rückkehr zur Església de Sant Vicenç und Abschluss bei einem warmen Getränk.",
             "hu": "Esős kerékpártúra: kezdés a központban, majd óvatosan a Parc de Can Mulà felé. Délben keressünk menedéket a Museu Abellóban. Délután az út Gallecs felé vezet; vigyázat az ottani agyagos utakon. Este visszatérés a Sant Vicenç templomhoz és egy meleg ital a nap zárásaként.",
             "ro": "Tur cu bicicleta pe ploaie: start în centru, apoi pedalăm cu grijă spre Parc de Can Mulà. La prânz căutăm adăpost la Muzeul Abelló. După-amiaza ruta duce spre Gallecs; atenție pe drumurile argiloase de acolo. Seara revenim la biserica Sant Vicenç pentru un final cu o băutură caldă.",
-            "en": "Rainy bike tour: start in the center, then ride cautiously to Can Mulà Park. At noon, seek shelter in Museu Abelló. Afternoon route leads to Gallecs; be careful on the clay paths there. Evening return to Sant Vicenç church and finish with a warm drink."
+            "en": "Rainy bike tour: start in the center, then ride cautiously to Can Mulà Park. At noon, seek shelter in Museu Abelló. Afternoon route leads to Gallecs; be careful on the clay paths there. Evening return to Sant Vicenç church and finish with a warm drink.",
+            "es": "Ruta en bici con lluvia: comienza en el centro, luego circule con precaución hasta el parque de Can Mulà. Al mediodía, busque refugio en el Museu Abelló. La ruta de la tarde conduce a Gallecs; tenga cuidado en los caminos de arcilla. Regreso nocturno a la iglesia de Sant Vicenç y finalice con una bebida caliente."
           },
           "stops": [
             {
@@ -927,7 +994,8 @@
                 "de": "Vorsicht bei nassem Kopfsteinpflaster; Rutschgefahr.",
                 "hu": "Vigyázat a nedves macskakövön; csúszásveszély.",
                 "ro": "Atenție la pavajul umed; pericol de derapare.",
-                "en": "Caution on wet cobblestones; risk of slipping."
+                "en": "Caution on wet cobblestones; risk of slipping.",
+                "es": "Precaución en los empedrados mojados; riesgo de resbalones."
               }
             },
             {
@@ -936,7 +1004,8 @@
                 "de": "Nutzen Sie die asphaltierten Wege im Park.",
                 "hu": "Használja a park aszfaltozott útjait.",
                 "ro": "Folosiți aleile asfaltate din parc.",
-                "en": "Stick to the asphalt paths within the park."
+                "en": "Stick to the asphalt paths within the park.",
+                "es": "Manténgase por los caminos asfaltados dentro del parque."
               }
             },
             {
@@ -945,7 +1014,8 @@
                 "de": "Sichere Fahrradabstellplätze in der Nähe vorhanden.",
                 "hu": "Biztonságos kerékpártárolók a közelben.",
                 "ro": "Rasteluri sigure pentru biciclete disponibile în apropiere.",
-                "en": "Secure bike parking available nearby."
+                "en": "Secure bike parking available nearby.",
+                "es": "Aparcamiento seguro para bicicletas disponible cerca."
               }
             },
             {
@@ -954,7 +1024,8 @@
                 "de": "Die romanische Kirche bietet nur wenig Vordach.",
                 "hu": "A román stílusú templom kevés ereszt kínál.",
                 "ro": "Biserica romanică oferă puțin adăpost exterior.",
-                "en": "The Romanesque church offers limited exterior shelter."
+                "en": "The Romanesque church offers limited exterior shelter.",
+                "es": "La iglesia románica ofrece refugio exterior limitado."
               }
             },
             {
@@ -963,7 +1034,8 @@
                 "de": "Bei Regen werden die Feldwege sehr matschig.",
                 "hu": "Esőben a mezei utak nagyon sárossá válnak.",
                 "ro": "Pe ploaie drumurile de câmp devin foarte noroioase.",
-                "en": "Field paths become very muddy during rain."
+                "en": "Field paths become very muddy during rain.",
+                "es": "Los caminos de campo se ponen muy embarrados con la lluvia."
               }
             },
             {
@@ -972,7 +1044,8 @@
                 "de": "Kurzer Stopp vor der Rückgabe des Rads.",
                 "hu": "Rövid megálló a kerékpár leadása előtt.",
                 "ro": "O scurtă oprire înainte de a returna bicicleta.",
-                "en": "A brief stop before returning the bike."
+                "en": "A brief stop before returning the bike.",
+                "es": "Una breve parada antes de devolver la bicicleta."
               }
             },
             {
@@ -981,7 +1054,8 @@
                 "de": "Wählen Sie ein Lokal mit Sicht auf das geparkte Rad.",
                 "hu": "Válasszon olyan helyet, ahonnan látja a lezárt biciklit.",
                 "ro": "Alegeți un local cu vizibilitate spre bicicleta parcată.",
-                "en": "Choose a spot where you can keep an eye on your bike."
+                "en": "Choose a spot where you can keep an eye on your bike.",
+                "es": "Elija un lugar donde pueda vigilar su bicicleta."
               }
             }
           ],
@@ -1009,6 +1083,12 @@
               "Check brakes before starting; longer braking distance on wet roads.",
               "Gallecs is an agricultural area; mud is guaranteed during rain.",
               "Bike lights are mandatory in rain due to poor visibility."
+            ],
+            "es": [
+              "Lleve chaqueta impermeable completa y pantalones de lluvia.",
+              "Compruebe los frenos antes de comenzar; mayor distancia de frenado en vías mojadas.",
+              "Gallecs es una zona agrícola; el barro está garantizado durante la lluvia.",
+              "Las luces de la bici son obligatorias con lluvia debido a la mala visibilidad."
             ]
           }
         },
@@ -1017,7 +1097,8 @@
             "de": "Winter-Biking: Start am Morgen bei kühlen Temperaturen im Zentrum. Mittags Fahrt durch den frostigen Parc de Can Mulà und Aufwärmpause im Museum. Nachmittags Erkundung von Gallecs; die klare Luft bietet weite Sicht auf die Felder. Abends Abschluss in der Stadt bei Sonnenuntergang.",
             "hu": "Téli kerékpározás: reggeli kezdés hűvös időben a központban. Délben tekerés a deres Parc de Can Mulà kertjében, majd melegedő a múzeumban. Délután Gallecs felfedezése; a tiszta levegő messzi kilátást biztosít a mezőkre. Este zárás a városban a naplementekor.",
             "ro": "Ciclism de iarnă: start dimineața la temperaturi scăzute în centru. La prânz pedalăm prin Parc de Can Mulà brumat și ne încălzim la muzeu. După-amiaza explorăm Gallecs; aerul clar oferă vizibilitate bună asupra câmpurilor. Seara încheiem în oraș la apus.",
-            "en": "Winter biking: morning start in cool temperatures in the center. Noon ride through frosty Can Mulà Park followed by a warm break in the museum. Afternoon exploration of Gallecs; clear air offers long views across the fields. Evening finish in the city at sunset."
+            "en": "Winter biking: morning start in cool temperatures in the center. Noon ride through frosty Can Mulà Park followed by a warm break in the museum. Afternoon exploration of Gallecs; clear air offers long views across the fields. Evening finish in the city at sunset.",
+            "es": "Ciclismo invernal: salida matinal con temperaturas frescas en el centro. Paseo al mediodía por el helado parque de Can Mulà seguido de un descanso cálido en el museo. Exploración de Gallecs por la tarde; el aire claro ofrece largas vistas sobre los campos. Final por la noche en la ciudad al atardecer."
           },
           "stops": [
             {
@@ -1026,7 +1107,8 @@
                 "de": "Handschuhe sind für die Fahrt am Morgen essenziell.",
                 "hu": "A kesztyű elengedhetetlen a reggeli tekeréshez.",
                 "ro": "Mănușile sunt esențiale pentru tura de dimineață.",
-                "en": "Gloves are essential for the morning ride."
+                "en": "Gloves are essential for the morning ride.",
+                "es": "Los guantes son esenciales para la salida matinal."
               }
             },
             {
@@ -1035,7 +1117,8 @@
                 "de": "Vorsicht bei Schattenstellen im Park; Reifglätte.",
                 "hu": "Vigyázat az árnyékos helyeken; zúzmarás csúszásveszély.",
                 "ro": "Atenție în zonele umbrite din parc; pericol de polei.",
-                "en": "Watch out for shaded areas in the park; potential frost."
+                "en": "Watch out for shaded areas in the park; potential frost.",
+                "es": "Cuidado con las zonas sombreadas del parque; posible escarcha."
               }
             },
             {
@@ -1044,7 +1127,8 @@
                 "de": "Guter Stopp, um die Hände wieder aufzuwärmen.",
                 "hu": "Kiváló megálló a kezek felmelegítéséhez.",
                 "ro": "Un punct bun pentru a vă reîncălzi mâinile.",
-                "en": "A good stop to warm your hands again."
+                "en": "A good stop to warm your hands again.",
+                "es": "Un buen lugar para volver a calentar las manos."
               }
             },
             {
@@ -1053,7 +1137,8 @@
                 "de": "Die romanischen Mauern speichern die Winterkälte.",
                 "hu": "A román falak tartják a téli hideget.",
                 "ro": "Zidurile romanice păstrează frigul iernii.",
-                "en": "The Romanesque walls hold the winter chill."
+                "en": "The Romanesque walls hold the winter chill.",
+                "es": "Los muros románicos guardan el frío invernal."
               }
             },
             {
@@ -1062,7 +1147,8 @@
                 "de": "Gefrorener Boden macht die Wege gut befahrbar.",
                 "hu": "A fagyott talaj jól járhatóvá teszi az utakat.",
                 "ro": "Solul înghețat face drumurile ușor practicabile.",
-                "en": "Frozen ground makes the paths easy to cycle on."
+                "en": "Frozen ground makes the paths easy to cycle on.",
+                "es": "El suelo congelado facilita el ciclismo por los senderos."
               }
             },
             {
@@ -1071,7 +1157,8 @@
                 "de": "Das Abendlicht an der Fassade ist im Winter schön.",
                 "hu": "Az esti fények a homlokzaton télen gyönyörűek.",
                 "ro": "Lumina serii pe fațadă este superbă iarna.",
-                "en": "The evening light on the facade is beautiful in winter."
+                "en": "The evening light on the facade is beautiful in winter.",
+                "es": "La luz del atardecer en la fachada es preciosa en invierno."
               }
             },
             {
@@ -1080,7 +1167,8 @@
                 "de": "Heiße Schokolade ist der perfekte Abschluss.",
                 "hu": "Egy forró csokoládé a tökéletes befejezés.",
                 "ro": "O ciocolată caldă este finalul perfect.",
-                "en": "A hot chocolate is the perfect conclusion."
+                "en": "A hot chocolate is the perfect conclusion.",
+                "es": "Un chocolate caliente es la conclusión perfecta."
               }
             }
           ],
@@ -1108,6 +1196,12 @@
               "Gallecs can be significantly cooler than the city center.",
               "Sun sets early; ensure bike lights are functional.",
               "A thermal cap under the helmet prevents heat loss."
+            ],
+            "es": [
+              "Lleve ropa cortaviento para los descensos.",
+              "Gallecs puede ser significativamente más frío que el centro de la ciudad.",
+              "El sol se pone temprano; asegúrese de que las luces de la bici funcionen.",
+              "Una gorra térmica bajo el casco evita la pérdida de calor."
             ]
           }
         }
@@ -1126,7 +1220,8 @@
             "de": "Parken und Erkunden von Gallecs",
             "hu": "Parkolás és a Gallecs felfedezése",
             "ro": "Parcați și explorați Gallecs",
-            "en": "Park and Explore Gallecs"
+            "en": "Park and Explore Gallecs",
+            "es": "Estacione y explore Gallecs"
           },
           "coords": [
             2.185,
@@ -1142,7 +1237,8 @@
             "de": "Beginnen Sie den Tag in der Natur. Es gibt ausgewiesene Parkplätze.",
             "hu": "Kezdje a napot a természetben. Kijelölt parkolóhelyek állnak rendelkezésre.",
             "ro": "Începeți ziua în natură. Există parcări desemnate.",
-            "en": "Start the day in nature. There are designated parking areas."
+            "en": "Start the day in nature. There are designated parking areas.",
+            "es": "Comience el día en la naturaleza. Hay áreas de aparcamiento señaladas."
           }
         },
         {
@@ -1150,7 +1246,8 @@
             "de": "Masia de Can Borrell",
             "hu": "Masia de Can Borrell",
             "ro": "Masia de Can Borrell",
-            "en": "Masia de Can Borrell"
+            "en": "Masia de Can Borrell",
+            "es": "Masia de Can Borrell"
           },
           "coords": [
             2.198,
@@ -1166,7 +1263,8 @@
             "de": "Ein historisches Bauernhaus, das sich hervorragend für ein rustikales Mittagessen eignet.",
             "hu": "Egy történelmi parasztház, amely kiválóan alkalmas egy rusztikus ebédre.",
             "ro": "O fermă istorică, excelentă pentru un prânz rustic.",
-            "en": "A historic farmhouse, excellent for a rustic lunch."
+            "en": "A historic farmhouse, excellent for a rustic lunch.",
+            "es": "Una masía histórica, excelente para un almuerzo rústico."
           }
         },
         {
@@ -1174,7 +1272,8 @@
             "de": "Parken im Zentrum & Abelló Museum",
             "hu": "Parkolás a központban & Abelló Múzeum",
             "ro": "Parcare în centru & Muzeul Abelló",
-            "en": "Park in Center & Abelló Museum"
+            "en": "Park in Center & Abelló Museum",
+            "es": "Aparque en el centro y el Museu Abelló"
           },
           "coords": [
             2.21,
@@ -1190,7 +1289,8 @@
             "de": "Finden Sie einen zentralen Parkplatz, um den Rest zu Fuß zu erkunden.",
             "hu": "Keressen egy központi parkolót, hogy a többit gyalog fedezhesse fel.",
             "ro": "Găsiți o parcare centrală pentru a explora restul pe jos.",
-            "en": "Find a central parking spot to explore the rest on foot."
+            "en": "Find a central parking spot to explore the rest on foot.",
+            "es": "Encuentre un aparcamiento céntrico para explorar el resto a pie."
           }
         },
         {
@@ -1198,7 +1298,8 @@
             "de": "Rathaus von Mollet",
             "hu": "Mollet városháza",
             "ro": "Primăria din Mollet",
-            "en": "Mollet Town Hall"
+            "en": "Mollet Town Hall",
+            "es": "Ayuntamiento de Mollet"
           },
           "coords": [
             2.2141,
@@ -1214,7 +1315,8 @@
             "de": "Ein kurzer Spaziergang vom Museum zum Hauptplatz der Stadt.",
             "hu": "Rövid séta a múzeumtól a város főterére.",
             "ro": "O scurtă plimbare de la muzeu la piața principală a orașului.",
-            "en": "A short walk from the museum to the city's main square."
+            "en": "A short walk from the museum to the city's main square.",
+            "es": "A poca distancia del museo hasta la plaza principal de la ciudad."
           }
         },
         {
@@ -1222,7 +1324,8 @@
             "de": "Kirche Sant Vicenç",
             "hu": "Sant Vicenç templom",
             "ro": "Biserica Sant Vicenç",
-            "en": "Church of Sant Vicenç"
+            "en": "Church of Sant Vicenç",
+            "es": "Iglesia de Sant Vicenç"
           },
           "coords": [
             2.2155,
@@ -1238,7 +1341,8 @@
             "de": "Bewundern Sie die Architektur dieses historischen Gotteshauses.",
             "hu": "Csodálja meg ennek a történelmi templomnak az építészetét.",
             "ro": "Admirați arhitectura acestei biserici istorice.",
-            "en": "Admire the architecture of this historic church."
+            "en": "Admire the architecture of this historic church.",
+            "es": "Admire la arquitectura de esta iglesia histórica."
           }
         },
         {
@@ -1246,7 +1350,8 @@
             "de": "Entspannung im Can Mulà Park",
             "hu": "Pihenés a Can Mulà Parkban",
             "ro": "Relaxare în Parcul Can Mulà",
-            "en": "Relax at Can Mulà Park"
+            "en": "Relax at Can Mulà Park",
+            "es": "Relájese en el parque de Can Mulà"
           },
           "coords": [
             2.218,
@@ -1262,7 +1367,8 @@
             "de": "Beenden Sie den Tag mit einem Spaziergang, bevor Sie zum Auto zurückkehren.",
             "hu": "Zárja a napot egy sétával, mielőtt visszatér az autóhoz.",
             "ro": "Încheiați ziua cu o plimbare înainte de a vă întoarce la mașină.",
-            "en": "End the day with a stroll before returning to your car."
+            "en": "End the day with a stroll before returning to your car.",
+            "es": "Termine el día con un paseo antes de volver a su coche."
           }
         }
       ],
@@ -1270,7 +1376,8 @@
         "de": "Beginnen Sie Ihren motorisierten Ausflug im Grünen. Fahren Sie morgens direkt in das ländliche Gebiet von Gallecs, parken Sie Ihr Auto und genießen Sie die Natur. Anschließend fahren Sie zur historischen Masia de Can Borrell, einem idealen Ort für ein ausgedehntes Mittagessen in authentischer Umgebung. Am Nachmittag fahren Sie ins Stadtzentrum. Parken Sie Ihr Auto in der Nähe des Abelló-Museums und erkunden Sie den Rest des Tages zu Fuß. Nach dem Museumsbesuch schlendern Sie zum Rathausplatz und zur Kirche Sant Vicenç, dem pulsierenden Herzen von Mollet. Lassen Sie den Tag mit einem entspannten Spaziergang im Can Mulà Park ausklingen, bevor Sie zu Ihrem Auto zurückkehren.",
         "hu": "Kezdje a motorizált kirándulást a zöldben. Reggel vezessen egyenesen a Gallecs vidéki területére, parkolja le autóját és élvezze a természetet. Ezután hajtson a történelmi Masia de Can Borrell-hez, amely ideális hely egy bőséges ebédhez autentikus környezetben. Délután irány a városközpont. Parkolja le autóját az Abelló Múzeum közelében, és a nap hátralévő részét gyalog fedezze fel. A múzeumlátogatás után sétáljon el a Városháza térre és a Sant Vicenç templomhoz, Mollet lüktető szívébe. Zárja a napot egy pihentető sétával a Can Mulà Parkban, mielőtt visszatér az autójához.",
         "ro": "Începeți excursia motorizată în natură. Dimineața, conduceți direct în zona rurală Gallecs, parcați mașina și bucurați-vă de natură. Apoi, mergeți la istorica Masia de Can Borrell, un loc ideal pentru un prânz lung într-un cadru autentic. După-amiaza, mergeți în centrul orașului. Parcați mașina lângă Muzeul Abelló și explorați restul zilei pe jos. După vizita la muzeu, plimbați-vă până la Piața Primăriei și Biserica Sant Vicenç, inima vibrantă a orașului Mollet. Încheiați ziua cu o plimbare relaxantă în Parcul Can Mulà înainte de a vă întoarce la mașină.",
-        "en": "Start your motorized trip in the green. In the morning, drive directly to the Gallecs rural area, park your car, and enjoy nature. Then, head to the historic Masia de Can Borrell, an ideal place for a leisurely lunch in an authentic setting. In the afternoon, head to the city center. Park your car near the Abelló Museum and explore the rest of the day on foot. After the museum visit, stroll to the Town Hall square and the Church of Sant Vicenç, the vibrant heart of Mollet. End the day with a relaxing walk in Can Mulà Park before returning to your car."
+        "en": "Start your motorized trip in the green. In the morning, drive directly to the Gallecs rural area, park your car, and enjoy nature. Then, head to the historic Masia de Can Borrell, an ideal place for a leisurely lunch in an authentic setting. In the afternoon, head to the city center. Park your car near the Abelló Museum and explore the rest of the day on foot. After the museum visit, stroll to the Town Hall square and the Church of Sant Vicenç, the vibrant heart of Mollet. End the day with a relaxing walk in Can Mulà Park before returning to your car.",
+        "es": "Comience su viaje motorizado en el verde. Por la mañana, conduzca directamente a la zona rural de Gallecs, estacione su coche y disfrute de la naturaleza. Luego, diríjase a la histórica Masia de Can Borrell, un lugar ideal para un almuerzo tranquilo en un entorno auténtico. Por la tarde, vuelva al centro de la ciudad. Estacione cerca del Museu Abelló y explore el resto del día a pie. Tras la visita al museo, pasee hasta la plaza del Ayuntamiento y la iglesia de Sant Vicenç, el corazón vibrante de Mollet. Termine el día con un relajante paseo por el parque de Can Mulà antes de regresar al coche."
       },
       "gastro_picks": {
         "de": [
@@ -1430,6 +1537,12 @@
           "Plan your route in advance to avoid traffic.",
           "A smaller car is advantageous in narrow streets.",
           "Do not leave valuables visible in the car."
+        ],
+        "es": [
+          "Busque aparcamientos públicos (las zonas azules suelen tener tiempo limitado).",
+          "Planifique su ruta con antelación para evitar atascos.",
+          "Un coche pequeño es ventajoso en calles estrechas.",
+          "No deje objetos de valor a la vista en el coche."
         ]
       },
       "variants": {
@@ -1438,7 +1551,8 @@
             "de": "Regnerische Autotour: Start in Gallecs, wo man die regnerische Landschaft bequem vom Wagen aus sieht. Mittags Fahrt ins Zentrum zum Museu Abelló (Parkhaus in der Nähe nutzen). Nachmittags Besuch der Kirchen im Ort. Abends kurzer Stopp am Parc de Can Mulà, bevor es trocken zurück geht.",
             "hu": "Esős autós túra: kezdés Gallecs-ben, ahol a kocsi kényelméből csodálhatjuk az ázott tájat. Délben irány a központ és a Museu Abelló (közeli parkolóház javasolt). Délután a helyi templomok meglátogatása. Este egy rövid megálló a Parc de Can Mulà-nál, majd szárazon haza.",
             "ro": "Tur cu mașina pe ploaie: start în Gallecs, admirând peisajul ploios din confortul vehiculului. La prânz mergem în centru la Muzeul Abelló (folosiți parcarea subterană). După-amiaza vizităm bisericile locale. Seara, o scurtă oprire la Parc de Can Mulà înainte de întoarcere.",
-            "en": "Rainy car tour: start in Gallecs, viewing the wet landscape comfortably from your vehicle. At noon, drive to the center for Museu Abelló (use nearby parking garage). Afternoon visit to local churches. Evening brief stop at Can Mulà Park before a dry drive home."
+            "en": "Rainy car tour: start in Gallecs, viewing the wet landscape comfortably from your vehicle. At noon, drive to the center for Museu Abelló (use nearby parking garage). Afternoon visit to local churches. Evening brief stop at Can Mulà Park before a dry drive home.",
+            "es": "Ruta en coche con lluvia: comience en Gallecs, contemplando el paisaje húmedo cómodamente desde su vehículo. Al mediodía, conduzca al centro para el Museu Abelló (use el parking cubierto cercano). Visita vespertina a las iglesias locales. Breve parada nocturna en el parque de Can Mulà antes de un viaje seco a casa."
           },
           "stops": [
             {
@@ -1447,7 +1561,8 @@
                 "de": "Befestigte Parkplätze nutzen; Matschgefahr auf Wiesen.",
                 "hu": "Használja a burkolt parkolókat; sárveszély a füvön.",
                 "ro": "Folosiți parcările amenajate; risc de noroi pe iarbă.",
-                "en": "Use paved parking spots; risk of mud on grass."
+                "en": "Use paved parking spots; risk of mud on grass.",
+                "es": "Use zonas de aparcamiento pavimentadas; riesgo de barro en el césped."
               }
             },
             {
@@ -1456,7 +1571,8 @@
                 "de": "Direkte Zufahrt möglich, wenig Fußweg im Regen.",
                 "hu": "Közvetlen behajtás lehetséges, kevés séta az esőben.",
                 "ro": "Acces direct posibil, minim de mers pe jos prin ploaie.",
-                "en": "Direct access possible, minimal walking in the rain."
+                "en": "Direct access possible, minimal walking in the rain.",
+                "es": "Acceso directo posible, mínima caminata bajo la lluvia."
               }
             },
             {
@@ -1465,7 +1581,8 @@
                 "de": "Parkhaus 'Can Mulà' ist nur wenige Gehminuten entfernt.",
                 "hu": "A 'Can Mulà' parkolóház csak pár perc séta.",
                 "ro": "Parcarea 'Can Mulà' este la câteva minute de mers.",
-                "en": "Parking garage 'Can Mulà' is just a few minutes walk away."
+                "en": "Parking garage 'Can Mulà' is just a few minutes walk away.",
+                "es": "El aparcamiento 'Can Mulà' está a pocos minutos a pie."
               }
             },
             {
@@ -1474,7 +1591,8 @@
                 "de": "Enge Gassen; Parken am Rand des Zentrums empfohlen.",
                 "hu": "Szűk utcák; parkolás a központ szélén ajánlott.",
                 "ro": "Străzi înguste; parcați la marginea centrului istoric.",
-                "en": "Narrow streets; parking at the edge of the center recommended."
+                "en": "Narrow streets; parking at the edge of the center recommended.",
+                "es": "Calles estrechas; se recomienda aparcar en las afueras del centro."
               }
             },
             {
@@ -1483,7 +1601,8 @@
                 "de": "Lassen Sie Mitfahrer direkt vor dem Portal aussteigen.",
                 "hu": "Az utasok kiszállhatnak közvetlenül a bejáratnál.",
                 "ro": "Lăsați pasagerii să coboare chiar în fața portalului.",
-                "en": "Drop off passengers directly in front of the portal."
+                "en": "Drop off passengers directly in front of the portal.",
+                "es": "Baja pasajeros directamente frente al portal."
               }
             },
             {
@@ -1492,7 +1611,8 @@
                 "de": "Parkplätze an der Straße meist vorhanden.",
                 "hu": "Utcai parkolóhelyek általában elérhetőek.",
                 "ro": "Locuri de parcare stradale sunt de obicei disponibile.",
-                "en": "Street parking spots are usually available nearby."
+                "en": "Street parking spots are usually available nearby.",
+                "es": "Suelen haber plazas de aparcamiento en la calle cerca."
               }
             }
           ],
@@ -1520,6 +1640,12 @@
               "Avoid parking under large trees if it's windy.",
               "Use Google Maps for real-time traffic updates during rain.",
               "Keep an umbrella within reach inside the car."
+            ],
+            "es": [
+              "Comprueba el estado de los limpiaparabrisas antes.",
+              "Evita aparcar bajo árboles grandes si hace viento.",
+              "Usa Google Maps para actualizaciones de tráfico en tiempo real durante la lluvia.",
+              "Mantén un paraguas al alcance dentro del coche."
             ]
           }
         },
@@ -1528,7 +1654,8 @@
             "de": "Winter-Autotour: Start am frühen Morgen in Gallecs, um den Raureif auf den Feldern zu sehen. Mittags Fahrt ins warme Zentrum zum Museu Abelló. Nachmittags Besichtigung der historischen Gebäude. Abends Fahrt zum Parc de Can Mulà und Rückreise bei einsetzender Dunkelheit.",
             "hu": "Téli autós túra: kezdés kora reggel Gallecs-ben, a mezőkön megülő zúzmara látványával. Délben irány a meleg központ és a Museu Abelló. Délután a történelmi épületek megtekintése. Este látogatás a Parc de Can Mulà-nál, hazautazás az alkonyatban.",
             "ro": "Tur cu mașina iarna: start dimineața devreme în Gallecs pentru a vedea chiciura pe câmpuri. La prânz mergem în centrul încălzit la Muzeul Abelló. După-amiaza vizităm clădirile istorice. Seara, oprire la Parc de Can Mulà și întoarcere pe întuneric.",
-            "en": "Winter car tour: start early morning in Gallecs to see the hoarfrost on the fields. At noon, drive to the warm center for Museu Abelló. Afternoon sightseeing of historical buildings. Evening drive to Can Mulà Park and return journey after dark."
+            "en": "Winter car tour: start early morning in Gallecs to see the hoarfrost on the fields. At noon, drive to the warm center for Museu Abelló. Afternoon sightseeing of historical buildings. Evening drive to Can Mulà Park and return journey after dark.",
+            "es": "Ruta en coche en invierno: comienza temprano por la mañana en Gallecs para ver la escarcha en los campos. Al mediodía, conduce al centro y visita el Museu Abelló. Por la tarde, visita los edificios históricos. Al anochecer, conduce hasta el Parque Can Mulà y emprende el regreso después de la noche."
           },
           "stops": [
             {
@@ -1537,7 +1664,8 @@
                 "de": "Im Winter oft neblig; vorsichtig fahren.",
                 "hu": "Télen gyakran ködös; vezessen óvatosan.",
                 "ro": "Iarna este adesea ceață; conduceți cu atenție.",
-                "en": "Often foggy in winter; drive carefully."
+                "en": "Often foggy in winter; drive carefully.",
+                "es": "Suele haber niebla en invierno; conduce con precaución."
               }
             },
             {
@@ -1546,7 +1674,8 @@
                 "de": "Der Parkplatz kann im Winter vereist sein.",
                 "hu": "A parkoló télen jeges lehet.",
                 "ro": "Parcarea poate fi înghețată iarna.",
-                "en": "The parking area might be icy in winter."
+                "en": "The parking area might be icy in winter.",
+                "es": "La zona de aparcamiento puede estar helada en invierno."
               }
             },
             {
@@ -1555,7 +1684,8 @@
                 "de": "Das Auto heizt sich in der Tiefgarage nicht so stark ab.",
                 "hu": "A mélygarázsban az autó nem hűl le annyira.",
                 "ro": "În parcarea subterană mașina nu se răcește atât de tare.",
-                "en": "The car won't cool down as much in the underground garage."
+                "en": "The car won't cool down as much in the underground garage.",
+                "es": "El coche no se enfriará tanto en el garaje subterráneo."
               }
             },
             {
@@ -1564,7 +1694,8 @@
                 "de": "Zentrale Parkzonen sind im Winter gut erreichbar.",
                 "hu": "A központi parkolózónák télen könnyen elérhetőek.",
                 "ro": "Zonele centrale de parcare sunt accesibile iarna.",
-                "en": "Central parking zones are easily accessible in winter."
+                "en": "Central parking zones are easily accessible in winter.",
+                "es": "Las zonas de aparcamiento centrales son de fácil acceso en invierno."
               }
             },
             {
@@ -1573,7 +1704,8 @@
                 "de": "Kurze Wege zwischen Parkplatz und Kirchenportal.",
                 "hu": "Rövid távolság a parkoló és a templombejárat között.",
                 "ro": "Distanțe scurte între parcare și portalul bisericii.",
-                "en": "Short distance between parking and the church portal."
+                "en": "Short distance between parking and the church portal.",
+                "es": "Corta distancia entre el aparcamiento y el portal de la iglesia."
               }
             },
             {
@@ -1582,7 +1714,8 @@
                 "de": "Abends sind die Parkplätze direkt am Park frei.",
                 "hu": "Este a parkolók közvetlenül a parknál szabadok.",
                 "ro": "Seara parcările de lângă parc sunt libere.",
-                "en": "Evening parking spots directly by the park are usually free."
+                "en": "Evening parking spots directly by the park are usually free.",
+                "es": "Por la noche, las plazas junto al parque suelen estar libres."
               }
             }
           ],
@@ -1610,6 +1743,12 @@
               "Monitor tire pressure during cold spells.",
               "Avoid parking on damp ground (risk of freezing).",
               "Keep an ice scraper ready if the car is parked outside."
+            ],
+            "es": [
+              "Revisa el anticongelante del líquido del limpiaparabrisas.",
+              "Controla la presión de los neumáticos durante las olas de frío.",
+              "Evita aparcar sobre tierra húmeda (riesgo de helada).",
+              "Ten un rascador de hielo a mano si el coche está aparcado al aire libre."
             ]
           }
         }
@@ -1628,7 +1767,8 @@
             "de": "Ankunft im Zentrum & Rathaus",
             "hu": "Érkezés a központba & Városháza",
             "ro": "Sosire în centru & Primărie",
-            "en": "Arrival in Center & Town Hall"
+            "en": "Arrival in Center & Town Hall",
+            "es": "Llegada al Centro y al Ayuntamiento"
           },
           "coords": [
             2.2141,
@@ -1644,7 +1784,8 @@
             "de": "Beginnen Sie am zentralen Busbahnhof oder Bahnhof.",
             "hu": "Kezdje a központi busz- vagy vasútállomáson.",
             "ro": "Începeți de la autogara centrală sau gară.",
-            "en": "Start at the central bus or train station."
+            "en": "Start at the central bus or train station.",
+            "es": "Comienza en la estación central de autobuses o trenes."
           }
         },
         {
@@ -1652,7 +1793,8 @@
             "de": "Kirche Sant Vicenç",
             "hu": "Sant Vicenç templom",
             "ro": "Biserica Sant Vicenç",
-            "en": "Church of Sant Vicenç"
+            "en": "Church of Sant Vicenç",
+            "es": "Iglesia de Sant Vicenç"
           },
           "coords": [
             2.2155,
@@ -1668,7 +1810,8 @@
             "de": "Nur ein kurzer Spaziergang vom Rathausplatz.",
             "hu": "Csak egy rövid séta a Városháza tértől.",
             "ro": "La doar o scurtă plimbare de Piața Primăriei.",
-            "en": "Just a short walk from the Town Hall square."
+            "en": "Just a short walk from the Town Hall square.",
+            "es": "A poca distancia a pie de la plaza del Ayuntamiento."
           }
         },
         {
@@ -1676,7 +1819,8 @@
             "de": "Bus zum Abelló Museum",
             "hu": "Busszal az Abelló Múzeumhoz",
             "ro": "Autobuz spre Muzeul Abelló",
-            "en": "Bus to Abelló Museum"
+            "en": "Bus to Abelló Museum",
+            "es": "Autobús al Museu Abelló"
           },
           "coords": [
             2.2105,
@@ -1692,7 +1836,8 @@
             "de": "Mehrere Buslinien verbinden das Zentrum mit dem Museumsviertel.",
             "hu": "Több buszjárat köti össze a központot a múzeumi negyeddel.",
             "ro": "Mai multe linii de autobuz leagă centrul de cartierul muzeelor.",
-            "en": "Several bus lines connect the center to the museum district."
+            "en": "Several bus lines connect the center to the museum district.",
+            "es": "Varias líneas de autobús conectan el centro con el distrito de museos."
           }
         },
         {
@@ -1700,7 +1845,8 @@
             "de": "Mittagessen im El Tabaran",
             "hu": "Ebéd az El Tabaran-ban",
             "ro": "Prânz la El Tabaran",
-            "en": "Lunch at El Tabaran"
+            "en": "Lunch at El Tabaran",
+            "es": "Almuerzo en El Tabaran"
           },
           "coords": [
             2.2115,
@@ -1716,7 +1862,8 @@
             "de": "Ein kurzer Spaziergang vom Museum.",
             "hu": "Rövid séta a múzeumtól.",
             "ro": "O scurtă plimbare de la muzeu.",
-            "en": "A short walk from the museum."
+            "en": "A short walk from the museum.",
+            "es": "A poca distancia a pie del museo."
           }
         },
         {
@@ -1724,7 +1871,8 @@
             "de": "Bus zum Can Mulà Park",
             "hu": "Busszal a Can Mulà Parkba",
             "ro": "Autobuz spre Parcul Can Mulà",
-            "en": "Bus to Can Mulà Park"
+            "en": "Bus to Can Mulà Park",
+            "es": "Autobús al Parque Can Mulà"
           },
           "coords": [
             2.218,
@@ -1740,7 +1888,8 @@
             "de": "Nehmen Sie einen Bus, der Sie in die Nähe des Parks bringt.",
             "hu": "Menjen busszal, amely a park közelébe visz.",
             "ro": "Luați un autobuz care vă duce aproape de parc.",
-            "en": "Take a bus that gets you close to the park."
+            "en": "Take a bus that gets you close to the park.",
+            "es": "Toma un autobús que te deje cerca del parque."
           }
         },
         {
@@ -1748,7 +1897,8 @@
             "de": "Millennium-Denkmal",
             "hu": "Millenniumi emlékmű",
             "ro": "Monumentul Mileniului",
-            "en": "Millennium Monument"
+            "en": "Millennium Monument",
+            "es": "Monumento del Milenio"
           },
           "coords": [
             2.2125,
@@ -1764,7 +1914,8 @@
             "de": "Ein letzter Fotostopp auf dem Weg zurück zum Bahnhof.",
             "hu": "Egy utolsó fotómegálló a vasútállomás felé vezető úton.",
             "ro": "O ultimă oprire foto în drum spre gară.",
-            "en": "A final photo stop on your way back to the station."
+            "en": "A final photo stop on your way back to the station.",
+            "es": "Última parada para fotos de camino a la estación."
           }
         }
       ],
@@ -1772,7 +1923,8 @@
         "de": "Nutzen Sie die öffentlichen Verkehrsmittel für einen stressfreien Tag. Starten Sie im Zentrum am Rathaus und der Kirche Sant Vicenç, die leicht zu Fuß erreichbar sind. Nehmen Sie dann einen Bus zum Abelló-Museum, um in die lokale Kunstszene einzutauchen. Nach dem Museumsbesuch stärken Sie sich bei einem Mittagessen im nahegelegenen El Tabaran. Ein weiterer Bus bringt Sie am Nachmittag zum Can Mulà Park, der grünen Lunge der Stadt. Entspannen Sie sich im Park, bevor Sie zu Fuß zum Millennium-Denkmal für ein letztes Foto spazieren und von dort aus Ihre Heimreise antreten.",
         "hu": "Használja a tömegközlekedést egy stresszmentes naphoz. Kezdje a központban a Városházánál és a Sant Vicenç templomnál, amelyek gyalogosan könnyen elérhetők. Ezután vegyen egy buszt az Abelló Múzeumhoz, hogy elmerüljön a helyi művészeti életben. A múzeumlátogatás után erősítse meg magát egy ebéddel a közeli El Tabaran-ban. Délután egy másik busz viszi el a Can Mulà Parkba, a város zöld tüdejébe. Pihenjen a parkban, mielőtt gyalog elsétál a Millenniumi emlékműhöz egy utolsó fotóért, és onnan hazaindul.",
         "ro": "Folosiți transportul public pentru o zi fără stres. Începeți în centru, la Primărie și Biserica Sant Vicenç, ușor accesibile pe jos. Apoi, luați un autobuz spre Muzeul Abelló pentru a vă cufunda în scena artistică locală. După vizita la muzeu, reîncărcați-vă cu un prânz la El Tabaran din apropiere. Un alt autobuz vă va duce după-amiaza la Parcul Can Mulà, plămânul verde al orașului. Relaxați-vă în parc înainte de a vă plimba pe jos până la Monumentul Mileniului pentru o ultimă fotografie și de a vă întoarce acasă de acolo.",
-        "en": "Use public transport for a stress-free day. Start in the center at the Town Hall and the Church of Sant Vicenç, which are easily accessible on foot. Then, take a bus to the Abelló Museum to immerse yourself in the local art scene. After the museum visit, refuel with lunch at the nearby El Tabaran. Another bus will take you to Can Mulà Park, the city's green lung, in the afternoon. Relax in the park before walking to the Millennium Monument for a final photo and then heading home from there."
+        "en": "Use public transport for a stress-free day. Start in the center at the Town Hall and the Church of Sant Vicenç, which are easily accessible on foot. Then, take a bus to the Abelló Museum to immerse yourself in the local art scene. After the museum visit, refuel with lunch at the nearby El Tabaran. Another bus will take you to Can Mulà Park, the city's green lung, in the afternoon. Relax in the park before walking to the Millennium Monument for a final photo and then heading home from there.",
+        "es": "Usa el transporte público para un día sin estrés. Comienza en el centro en el Ayuntamiento y la Iglesia de Sant Vicenç, accesibles a pie. Luego, toma un autobús al Museu Abelló para empaparte de la escena artística local. Tras la visita, repón fuerzas con un almuerzo en el cercano El Tabaran. Otro autobús te llevará por la tarde al Parque Can Mulà, el pulmón verde de la ciudad. Relájate en el parque antes de caminar hasta el Monumento del Milenio para una foto final y volver a casa desde allí."
       },
       "gastro_picks": {
         "de": [
@@ -1932,6 +2084,12 @@
           "Download the local public transport app to see real-time schedules.",
           "Be aware of your belongings, especially on crowded buses.",
           "Validate your ticket every time you board."
+        ],
+        "es": [
+          "Compra un billete de día (T-Dia) para viajes ilimitados.",
+          "Descarga la app de transporte público local para ver los horarios en tiempo real.",
+          "Vigila tus pertenencias, especialmente en autobuses concurridos.",
+          "Valida tu billete cada vez que subas."
         ]
       },
       "variants": {
@@ -1940,7 +2098,8 @@
             "de": "ÖPNV-Tour bei Regen: Ankunft am Bahnhof Mollet-Sant Fost. Mit dem Bus ins Zentrum zur Plaça de Prat de la Riba. Mittags Besuch der Kirche und des Museu Abelló. Nachmittags kulinarische Pause. Abends kurzer Abstecher zum Parc de Can Mulà, bevor der Zug zurück fährt.",
             "hu": "Tömegközlekedési túra esőben: érkezés Mollet-Sant Fost vasútállomásra. Busszal a központba, a Plaça de Prat de la Riba térre. Délben a templom és a Museu Abelló meglátogatása. Délután gasztronómiai pihenő. Este rövid kitérő a Parc de Can Mulà-hoz a vonat indulása előtt.",
             "ro": "Tur cu transportul public pe ploaie: sosire la gara Mollet-Sant Fost. Cu autobuzul în centru la Plaça de Prat de la Riba. La prânz vizităm biserica și Muzeul Abelló. După-amiaza pauză culinară. Seara scurtă vizită la Parc de Can Mulà înainte de tren.",
-            "en": "Public transit tour in the rain: arrival at Mollet-Sant Fost station. Take the bus to the center (Plaça de Prat de la Riba). At noon, visit the church and Museu Abelló. Afternoon culinary break. Evening brief trip to Can Mulà Park before the train back."
+            "en": "Public transit tour in the rain: arrival at Mollet-Sant Fost station. Take the bus to the center (Plaça de Prat de la Riba). At noon, visit the church and Museu Abelló. Afternoon culinary break. Evening brief trip to Can Mulà Park before the train back.",
+            "es": "Tour en transporte público bajo la lluvia: llegada a la estación Mollet-Sant Fost. Toma el autobús al centro (Plaça de Prat de la Riba). Al mediodía, visita la iglesia y el Museu Abelló. Pausa culinaria por la tarde. Breve visita vespertina al Parque Can Mulà antes del tren de regreso."
           },
           "stops": [
             {
@@ -1949,7 +2108,8 @@
                 "de": "Bushaltestelle direkt am Platz vorhanden.",
                 "hu": "Buszmegálló közvetlenül a téren található.",
                 "ro": "Stație de autobuz disponibilă chiar în piață.",
-                "en": "Bus stop available directly at the square."
+                "en": "Bus stop available directly at the square.",
+                "es": "Parada de autobús disponible directamente en la plaza."
               }
             },
             {
@@ -1958,7 +2118,8 @@
                 "de": "Nur 5 Minuten Fußweg von der Bushaltestelle.",
                 "hu": "Csak 5 perc séta a buszmegállótól.",
                 "ro": "Doar 5 minute de mers de la stația de autobuz.",
-                "en": "Only 5 minutes walk from the bus stop."
+                "en": "Only 5 minutes walk from the bus stop.",
+                "es": "A solo 5 minutos a pie desde la parada de autobús."
               }
             },
             {
@@ -1967,7 +2128,8 @@
                 "de": "Überdachte Eingänge bieten Schutz beim Warten.",
                 "hu": "Fedett bejáratok nyújtanak védelmet várakozás közben.",
                 "ro": "Intrările acoperite oferă protecție la așteptare.",
-                "en": "Covered entrances provide shelter while waiting."
+                "en": "Covered entrances provide shelter while waiting.",
+                "es": "Los accesos cubiertos ofrecen refugio mientras esperas."
               }
             },
             {
@@ -1976,7 +2138,8 @@
                 "de": "Viele Lokale liegen nah an den Buslinien.",
                 "hu": "Számos étterem a buszvonalak közelében található.",
                 "ro": "Multe localuri sunt aproape de liniile de autobuz.",
-                "en": "Many restaurants are located near the bus lines."
+                "en": "Many restaurants are located near the bus lines.",
+                "es": "Muchos restaurantes se sitúan cerca de las líneas de autobús."
               }
             },
             {
@@ -1985,7 +2148,8 @@
                 "de": "Eingang nah an der Bushaltestelle 'Avinguda Llibertat'.",
                 "hu": "Bejárat az 'Avinguda Llibertat' buszmegálló közelében.",
                 "ro": "Intrarea este aproape de stația 'Avinguda Llibertat'.",
-                "en": "Entrance near the 'Avinguda Llibertat' bus stop."
+                "en": "Entrance near the 'Avinguda Llibertat' bus stop.",
+                "es": "Entrada cerca de la parada de autobús 'Avinguda Llibertat'."
               }
             },
             {
@@ -1994,7 +2158,8 @@
                 "de": "Schnell erreichbar auf dem Weg zum Bahnhof.",
                 "hu": "Gyorsan elérhető az állomás felé vezető úton.",
                 "ro": "Accesibil rapid în drum spre gară.",
-                "en": "Quickly accessible on the way to the station."
+                "en": "Quickly accessible on the way to the station.",
+                "es": "Rápidamente accesible de camino a la estación."
               }
             }
           ],
@@ -2022,6 +2187,12 @@
               "Buses run less frequently on rainy holidays.",
               "Railway stations mostly have covered platforms.",
               "Have your T-Usual or T-Casual ticket ready for Zone 2."
+            ],
+            "es": [
+              "Usa la app de Rodalies de Catalunya para actualizaciones en tiempo real.",
+              "Los autobuses circulan con menos frecuencia en festivos lluviosos.",
+              "Las estaciones de tren suelen tener andenes cubiertos.",
+              "Ten tu tarjeta T-Usual o T-Casual lista para la Zona 2."
             ]
           }
         },
@@ -2030,7 +2201,8 @@
             "de": "Winterliche ÖPNV-Tour: Ankunft bei Kälte in Mollet. Kurzer Transfer ins Zentrum. Mittags Schutz in der Església de Sant Vicenç und im Museu Abelló. Nachmittags Aufwärmen in einem Café. Abends Besuch im Parc de Can Mulà und Rückfahrt mit der S-Bahn.",
             "hu": "Téli tömegközlekedési túra: érkezés a hideg Mollet-ba. Gyors transzfer a központba. Délben melegedő az Església de Sant Vicenç-ben és a Museu Abellóban. Délután kávéházi pihenő. Este séta a Parc de Can Mulà-ban, majd visszautazás HÉV-vel.",
             "ro": "Tur cu transportul public iarna: sosire în Mollet pe frig. Transfer rapid în centru. La prânz ne adăpostim în biserica Sant Vicenç și la Muzeul Abelló. După-amiaza ne încălzim într-o cafenea. Seara, vizită la Parc de Can Mulà și retur cu trenul.",
-            "en": "Winter transit tour: arrival in cold Mollet. Quick transfer to the center. At noon, take shelter in Sant Vicenç church and Museu Abelló. Afternoon warming up in a café. Evening visit to Can Mulà Park and return by commuter train."
+            "en": "Winter transit tour: arrival in cold Mollet. Quick transfer to the center. At noon, take shelter in Sant Vicenç church and Museu Abelló. Afternoon warming up in a café. Evening visit to Can Mulà Park and return by commuter train.",
+            "es": "Tour de transporte en invierno: llegada a la fría Mollet. Traslado rápido al centro. Al mediodía, refugio en la iglesia de Sant Vicenç y el Museu Abelló. Por la tarde, entra en calor en un café. Visita vespertina al Parque Can Mulà y regreso en tren de cercanías."
           },
           "stops": [
             {
@@ -2039,7 +2211,8 @@
                 "de": "Warten Sie im Rathausfoyer, falls es zu kalt ist.",
                 "hu": "Várjon a városháza előcsarnokában, ha túl hideg van.",
                 "ro": "Așteptați în holul primăriei dacă este prea frig afară.",
-                "en": "Wait in the town hall foyer if it's too cold outside."
+                "en": "Wait in the town hall foyer if it's too cold outside.",
+                "es": "Espera en el vestíbulo del ayuntamiento si hace demasiado frío fuera."
               }
             },
             {
@@ -2048,7 +2221,8 @@
                 "de": "Guter Ort, um dem kalten Wind zu entgehen.",
                 "hu": "Kiváló hely a hideg szél elől való menekülésre.",
                 "ro": "Loc bun pentru a evita vântul rece.",
-                "en": "A good place to escape the cold wind."
+                "en": "A good place to escape the cold wind.",
+                "es": "Un buen lugar para escapar del viento frío."
               }
             },
             {
@@ -2057,7 +2231,8 @@
                 "de": "Das Museum ist angenehm temperiert.",
                 "hu": "A múzeumban kellemes a hőmérséklet.",
                 "ro": "Muzeul are o temperatură interioară plăcută.",
-                "en": "The museum is kept at a comfortable temperature."
+                "en": "The museum is kept at a comfortable temperature.",
+                "es": "El museo mantiene una temperatura confortable."
               }
             },
             {
@@ -2066,7 +2241,8 @@
                 "de": "Warme Getränke wie 'Café con Leche' wärmen auf.",
                 "hu": "A meleg italok, mint a 'Café con Leche', felmelegítenek.",
                 "ro": "Băuturile calde precum 'Café con Leche' vă vor încălzi.",
-                "en": "Hot drinks like 'Café con Leche' will warm you up."
+                "en": "Hot drinks like 'Café con Leche' will warm you up.",
+                "es": "Bebidas calientes como el 'Café con Leche' te calentarán."
               }
             },
             {
@@ -2075,7 +2251,8 @@
                 "de": "Die Abendbeleuchtung ist im Winter sehr hell.",
                 "hu": "Az esti világítás télen nagyon fényes.",
                 "ro": "Iluminatul de seară este foarte puternic iarna.",
-                "en": "The evening lighting is very bright in winter."
+                "en": "The evening lighting is very bright in winter.",
+                "es": "La iluminación nocturna es muy intensa en invierno."
               }
             },
             {
@@ -2084,7 +2261,8 @@
                 "de": "Direkt an der Route zum Bahnhof gelegen.",
                 "hu": "Közvetlenül az állomáshoz vezető úton található.",
                 "ro": "Situat chiar pe traseul spre gară.",
-                "en": "Located directly on the route to the station."
+                "en": "Located directly on the route to the station.",
+                "es": "Situado directamente en la ruta hacia la estación."
               }
             }
           ],
@@ -2112,6 +2290,12 @@
               "Trains are usually well heated.",
               "Weekend schedules might differ in winter.",
               "Combine bus and train to minimize walking in the cold."
+            ],
+            "es": [
+              "Las estaciones de tren pueden tener corrientes de aire en invierno; lleva bufanda.",
+              "Los trenes suelen estar bien calefactados.",
+              "Los horarios de fin de semana pueden variar en invierno.",
+              "Combina autobús y tren para minimizar paseos con frío."
             ]
           }
         }

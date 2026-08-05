@@ -31,7 +31,8 @@
             "de": "Das historische Haupttor der Stadt.",
             "hu": "A város történelmi főkapuja.",
             "ro": "Poarta principală istorică a orașului.",
-            "en": "The main historic gate of the city."
+            "en": "The main historic gate of the city.",
+            "es": "La puerta histórica principal de la ciudad."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Verlieren Sie sich in den gepflasterten Gassen.",
             "hu": "Vesszen el a macskaköves utcácskákban.",
             "ro": "Pierdeți-vă pe străduțele pietruite.",
-            "en": "Get lost in the cobbled streets."
+            "en": "Get lost in the cobbled streets.",
+            "es": "Piérdete por las calles empedradas."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Heute ein Parador-Hotel, tolle Architektur.",
             "hu": "Ma Parador szálloda, lenyűgöző építészet.",
             "ro": "Astăzi este un hotel Parador, arhitectură minunată.",
-            "en": "Today a Parador hotel, amazing architecture."
+            "en": "Today a Parador hotel, amazing architecture.",
+            "es": "Hoy un Parador, arquitectura impresionante."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Bewundern Sie das gotische Kirchenschiff.",
             "hu": "Csodálja meg a gótikus hajót.",
             "ro": "Admirați naosul gotic.",
-            "en": "Admire the Gothic nave."
+            "en": "Admire the Gothic nave.",
+            "es": "Admira la nave gótica."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Perfekter Ort für eine kurze Pause.",
             "hu": "Tökéletes hely egy rövid pihenőre.",
             "ro": "Locul perfect pentru o scurtă pauză.",
-            "en": "Perfect spot for a quick break."
+            "en": "Perfect spot for a quick break.",
+            "es": "Lugar perfecto para una pausa rápida."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Genießen Sie Pintxos in den bunten Fischerhäusern.",
             "hu": "Élvezze a pintxos-okat a színes halászházaknál.",
             "ro": "Bucurați-vă de pintxos în casele colorate de pescari.",
-            "en": "Enjoy pintxos at the colorful fishermen's houses."
+            "en": "Enjoy pintxos at the colorful fishermen's houses.",
+            "es": "Disfruta de pintxos en las coloridas casas de pescadores."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Entspannen Sie am ruhigen Sandstrand.",
             "hu": "Pihenjen a nyugodt homokos tengerparton.",
             "ro": "Relaxați-vă pe plaja cu nisip liniștită.",
-            "en": "Relax on the calm sandy beach."
+            "en": "Relax on the calm sandy beach.",
+            "es": "Relájate en la tranquila playa de arena."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Beginnen Sie Ihren Tag an der Puerta de Santa María und tauchen Sie ein in das historische Casco Antiguo. Die kopfsteingepflasterten Gassen führen Sie zum majestätischen Castillo de Carlos V und der wunderschönen gotischen Kirche. Mittags lockt das farbenfrohe Barrio de la Marina mit exzellenten baskischen Pintxos. Den Nachmittag können Sie entspannt am langen Sandstrand von Hondarribia ausklingen lassen.",
         "hu": "Kezdje a napot a történelmi Puerta de Santa María kapunál, és fedezze fel a Casco Antiguo hangulatos utcáit. Utunk a fenséges V. Károly kastélyhoz és a gótikus templomhoz vezet. Délben a színes Barrio de la Marina várja a legjobb baszk pintxos kínálattal. A délutánt a homokos tengerparton pihenve töltheti.",
         "ro": "Începeți ziua la Puerta de Santa María și explorați străzile istorice din Casco Antiguo. Drumul vă duce la majestuosul Castel al lui Carol al V-lea și la biserica gotică. La prânz, cartierul colorat Barrio de la Marina vă așteaptă cu cele mai bune pintxos basce. Petreceți după-amiaza relaxându-vă pe plaja cu nisip din Hondarribia.",
-        "en": "Start your day at the historic Puerta de Santa María and explore the charming streets of the Casco Antiguo. The route takes you to the majestic Castle of Charles V and the Gothic church. At noon, the colorful Barrio de la Marina awaits with the best Basque pintxos. Spend the afternoon relaxing on the sandy beach of Hondarribia."
+        "en": "Start your day at the historic Puerta de Santa María and explore the charming streets of the Casco Antiguo. The route takes you to the majestic Castle of Charles V and the Gothic church. At noon, the colorful Barrio de la Marina awaits with the best Basque pintxos. Spend the afternoon relaxing on the sandy beach of Hondarribia.",
+        "es": "Comienza el día en la histórica Puerta de Santa María y explora las encantadoras calles del Casco Antiguo. La ruta te lleva al majestuoso Castillo de Carlos V y a la iglesia gótica. Al mediodía, el colorido Barrio de la Marina te espera con los mejores pintxos vascos. Pasa la tarde relajándote en la playa de arena de Hondarribia."
       },
       "gastro_picks": {
         "de": [
@@ -307,6 +315,12 @@
           "Try the local white wine, Txakoli.",
           "The ferry to Hendaye is a short and scenic excursion.",
           "Parking in the center is difficult, use peripheral parking lots."
+        ],
+        "es": [
+          "El casco antiguo es empinado; se necesitan zapatos cómodos.",
+          "Prueba el vino blanco local, Txakoli.",
+          "El ferry a Hendaya es una excursión corta y con buenas vistas.",
+          "Aparcar en el centro es difícil; usa los aparcamientos periféricos."
         ]
       },
       "variants": {
@@ -315,7 +329,8 @@
             "de": "Beginnen Sie Ihren Tag an der Puerta de Santa María und tauchen Sie ein in das historische Casco Antiguo. Die kopfsteingepflasterten Gassen führen Sie zum majestätischen Castillo de Carlos V und der wunderschönen gotischen Kirche. Mittags lockt das farbenfrohe Barrio de la Marina mit exzellenten baskischen Pintxos. Den Nachmittag können Sie entspannt am langen Sandstrand von Hondarribia ausklingen lassen.",
             "hu": "Kezdje a napot a történelmi Puerta de Santa María kapunál, és fedezze fel a Casco Antiguo hangulatos utcáit. Utunk a fenséges V. Károly kastélyhoz és a gótikus templomhoz vezet. Délben a színes Barrio de la Marina várja a legjobb baszk pintxos kínálattal. A délutánt a homokos tengerparton pihenve töltheti.",
             "ro": "Începeți ziua la Puerta de Santa María și explorați străzile istorice din Casco Antiguo. Drumul vă duce la majestuosul Castel al lui Carol al V-lea și la biserica gotică. La prânz, cartierul colorat Barrio de la Marina vă așteaptă cu cele mai bune pintxos basce. Petreceți după-amiaza relaxându-vă pe plaja cu nisip din Hondarribia.",
-            "en": "Start your day at the historic Puerta de Santa María and explore the charming streets of the Casco Antiguo. The route takes you to the majestic Castle of Charles V and the Gothic church. At noon, the colorful Barrio de la Marina awaits with the best Basque pintxos. Spend the afternoon relaxing on the sandy beach of Hondarribia."
+            "en": "Start your day at the historic Puerta de Santa María and explore the charming streets of the Casco Antiguo. The route takes you to the majestic Castle of Charles V and the Gothic church. At noon, the colorful Barrio de la Marina awaits with the best Basque pintxos. Spend the afternoon relaxing on the sandy beach of Hondarribia.",
+            "es": "Comienza el día en la histórica Puerta de Santa María y explora las encantadoras calles del Casco Antiguo. La ruta te lleva al majestuoso Castillo de Carlos V y a la iglesia gótica. Al mediodía, el colorido Barrio de la Marina te espera con los mejores pintxos vascos. Pasa la tarde relajándote en la playa de arena de Hondarribia."
           },
           "stops": [
             {
@@ -324,7 +339,8 @@
                 "de": "Das historische Haupttor der Stadt.",
                 "hu": "A város történelmi főkapuja.",
                 "ro": "Poarta principală istorică a orașului.",
-                "en": "The main historic gate of the city."
+                "en": "The main historic gate of the city.",
+                "es": "La puerta histórica principal de la ciudad."
               }
             },
             {
@@ -333,7 +349,8 @@
                 "de": "Verlieren Sie sich in den gepflasterten Gassen.",
                 "hu": "Vesszen el a macskaköves utcácskákban.",
                 "ro": "Pierdeți-vă pe străduțele pietruite.",
-                "en": "Get lost in the cobbled streets."
+                "en": "Get lost in the cobbled streets.",
+                "es": "Piérdete por las calles empedradas."
               }
             },
             {
@@ -342,7 +359,8 @@
                 "de": "Heute ein Parador-Hotel, tolle Architektur.",
                 "hu": "Ma Parador szálloda, lenyűgöző építészet.",
                 "ro": "Astăzi este un hotel Parador, arhitectură minunată.",
-                "en": "Today a Parador hotel, amazing architecture."
+                "en": "Today a Parador hotel, amazing architecture.",
+                "es": "Hoy un Parador, arquitectura impresionante."
               }
             },
             {
@@ -351,7 +369,8 @@
                 "de": "Bewundern Sie das gotische Kirchenschiff.",
                 "hu": "Csodálja meg a gótikus hajót.",
                 "ro": "Admirați naosul gotic.",
-                "en": "Admire the Gothic nave."
+                "en": "Admire the Gothic nave.",
+                "es": "Admira la nave gótica."
               }
             },
             {
@@ -360,7 +379,8 @@
                 "de": "Perfekter Ort für eine kurze Pause.",
                 "hu": "Tökéletes hely egy rövid pihenőre.",
                 "ro": "Locul perfect pentru o scurtă pauză.",
-                "en": "Perfect spot for a quick break."
+                "en": "Perfect spot for a quick break.",
+                "es": "Lugar perfecto para una pausa rápida."
               }
             },
             {
@@ -369,7 +389,8 @@
                 "de": "Genießen Sie Pintxos in den bunten Fischerhäusern.",
                 "hu": "Élvezze a pintxos-okat a színes halászházaknál.",
                 "ro": "Bucurați-vă de pintxos în casele colorate de pescari.",
-                "en": "Enjoy pintxos at the colorful fishermen's houses."
+                "en": "Enjoy pintxos at the colorful fishermen's houses.",
+                "es": "Disfruta de pintxos en las coloridas casas de pescadores."
               }
             },
             {
@@ -378,7 +399,8 @@
                 "de": "Entspannen Sie am ruhigen Sandstrand.",
                 "hu": "Pihenjen a nyugodt homokos tengerparton.",
                 "ro": "Relaxați-vă pe plaja cu nisip liniștită.",
-                "en": "Relax on the calm sandy beach."
+                "en": "Relax on the calm sandy beach.",
+                "es": "Relájate en la tranquila playa de arena."
               }
             }
           ],
@@ -540,6 +562,12 @@
               "Try the local white wine, Txakoli.",
               "The ferry to Hendaye is a short and scenic excursion.",
               "Parking in the center is difficult, use peripheral parking lots."
+            ],
+            "es": [
+              "El casco antiguo es empinado; se necesitan zapatos cómodos.",
+              "Prueba el vino blanco local, Txakoli.",
+              "El ferry a Hendaya es una excursión corta y con buenas vistas.",
+              "Aparcar en el centro es difícil; usa los aparcamientos periféricos."
             ]
           }
         },
@@ -548,7 +576,8 @@
             "de": "Der Spaziergang beginnt an der Puerta de Santa María, wo die alten Mauern ersten Schutz vor dem Regen bieten. Mittags erkunden wir die engen Gassen des Casco Antiguo, in denen die Dachüberstände den Weg trocken halten. Am Nachmittag suchen wir die gemütlichen Pintxo-Bars in der Marina auf, um dem prasselnden Regen am Hafen zu entkommen. Der Abend klingt bei der Spiegelung der Lichter auf dem nassen Kopfsteinpflaster in der Altstadt stimmungsvoll aus.",
             "hu": "A séta a Puerta de Santa María kapunál kezdődik, ahol a vastag falak menedéket nyújtanak a szemerkélő eső elől. Délidőben az óváros szűk utcáin kalandozunk, ahol a házak ereszei alatt viszonylag szárazon maradhatunk. Délután a Marina negyed fedett teraszain élvezzük a tengeri levegőt és a helyi falatkákat, miközben az esőt figyeljük. Az este az óváros kivilágított, vizes kövezetén tükröződő fények között zárul romantikus hangulatban.",
             "ro": "Plimbarea începe la Puerta de Santa María, unde zidurile vechi oferă primul adăpost împotriva ploii. La prânz, explorăm străzile înguste din Casco Antiguo, unde streșinile caselor ne mențin drumul uscat. După-amiaza, ne refugiem în barurile de pintxos din Marina pentru a scăpa de ploaia deasupra portului. Seara se încheie atmosferic, cu luminile reflectându-se pe pavajul umed din centrul vechi.",
-            "en": "The walk begins at Puerta de Santa María, where the ancient walls provide the first shelter from the rain. At noon, we explore the narrow streets of the Casco Antiguo, where the overhanging roofs keep the path dry. In the afternoon, we seek out the cozy pintxo bars in the Marina to escape the rain pattering over the harbor. The evening ends atmospherically with the lights reflecting on the wet cobblestones of the old town."
+            "en": "The walk begins at Puerta de Santa María, where the ancient walls provide the first shelter from the rain. At noon, we explore the narrow streets of the Casco Antiguo, where the overhanging roofs keep the path dry. In the afternoon, we seek out the cozy pintxo bars in the Marina to escape the rain pattering over the harbor. The evening ends atmospherically with the lights reflecting on the wet cobblestones of the old town.",
+            "es": "El paseo comienza en la Puerta de Santa María, donde las antiguas murallas ofrecen el primer refugio de la lluvia. Al mediodía, exploramos las estrechas calles del Casco Antiguo, donde los aleros protegen el camino de la humedad. Por la tarde, buscamos los acogedores bares de pintxos en la Marina para escapar de la lluvia que repica sobre el puerto. La noche termina con una atmósfera especial, las luces reflejadas en los empedrados mojados del casco antiguo."
           },
           "stops": [
             {
@@ -557,7 +586,8 @@
                 "de": "Nutzen Sie den Torbogen als trockenen Sammelpunkt für den Start.",
                 "hu": "Használja a kapualjat száraz gyülekezőhelyként a séta elején.",
                 "ro": "Folosiți arcada porții ca punct de întâlnire uscat pentru început.",
-                "en": "Use the gateway arch as a dry gathering point for the start."
+                "en": "Use the gateway arch as a dry gathering point for the start.",
+                "es": "Usa el arco de la puerta como punto de encuentro seco para empezar."
               }
             },
             {
@@ -566,7 +596,8 @@
                 "de": "Die schmalen Gassen bieten guten Windschutz bei Regen.",
                 "hu": "A szűk utcák jó szélfogót jelentenek esős időben.",
                 "ro": "Străzile înguste oferă o protecție bună împotriva vântului.",
-                "en": "The narrow streets provide good wind protection during rain."
+                "en": "The narrow streets provide good wind protection during rain.",
+                "es": "Las calles estrechas ofrecen buena protección contra el viento durante la lluvia."
               }
             },
             {
@@ -575,7 +606,8 @@
                 "de": "Besuchen Sie die Lobby des Paradors für eine trockene Kaffeepause.",
                 "hu": "Látogasson el a Parador előcsarnokába egy száraz kávészünetre.",
                 "ro": "Vizitați holul Paradorului pentru o pauză de cafea la adăpost.",
-                "en": "Visit the Parador lobby for a dry coffee break."
+                "en": "Visit the Parador lobby for a dry coffee break.",
+                "es": "Visita el vestíbulo del Parador para una pausa de café bajo techo."
               }
             },
             {
@@ -584,7 +616,8 @@
                 "de": "Perfekter Ort, um den stärksten Regenschauer im Inneren abzuwarten.",
                 "hu": "Tökéletes hely, hogy bent várjuk meg a leghevesebb esőt.",
                 "ro": "Locul perfect pentru a aștepta trecerea celei mai puternice ploi.",
-                "en": "Perfect place to wait out the heaviest rain shower inside."
+                "en": "Perfect place to wait out the heaviest rain shower inside.",
+                "es": "Lugar perfecto para esperar la lluvia más intensa en el interior."
               }
             },
             {
@@ -593,7 +626,8 @@
                 "de": "Die Arkaden rund um den Platz bieten Schutz vor Nässe.",
                 "hu": "A tér körüli árkádok védelmet nyújtanak a nedvesség ellen.",
                 "ro": "Arcadele din jurul pieței oferă protecție împotriva umezelii.",
-                "en": "The arcades around the square offer protection from the wet."
+                "en": "The arcades around the square offer protection from the wet.",
+                "es": "Los soportales alrededor de la plaza ofrecen protección contra la humedad."
               }
             },
             {
@@ -602,7 +636,8 @@
                 "de": "Wählen Sie eine Bar mit Markise für den Blick auf den Hafen.",
                 "hu": "Válasszon egy napellenzős bárt a kikötőre nyíló kilátáshoz.",
                 "ro": "Alegeți un bar cu copertină pentru vederea spre port.",
-                "en": "Choose a bar with an awning for the view of the harbor."
+                "en": "Choose a bar with an awning for the view of the harbor.",
+                "es": "Elige un bar con toldo para disfrutar de la vista del puerto."
               }
             },
             {
@@ -611,7 +646,8 @@
                 "de": "Ein dramatischer Anblick der Brandung, ideal für kurze Fotos.",
                 "hu": "A hullámtörés drámai látványt nyújt, ideális gyors fotókhoz.",
                 "ro": "O vedere dramatică a valurilor, ideală pentru fotografii rapide.",
-                "en": "A dramatic view of the surf, ideal for quick photos."
+                "en": "A dramatic view of the surf, ideal for quick photos.",
+                "es": "Una vista dramática del oleaje, ideal para fotos rápidas."
               }
             }
           ],
@@ -639,6 +675,12 @@
               "The old town alleys act like natural umbrellas.",
               "Use the many cafes in the Marina as stop-over points.",
               "A compact umbrella is often more practical in sea breezes."
+            ],
+            "es": [
+              "Lleva calzado antideslizante, los empedrados se vuelven resbaladizos.",
+              "Los callejones del casco antiguo actúan como paraguas naturales.",
+              "Utiliza las muchas cafeterías de la Marina como puntos de parada.",
+              "Un paraguas compacto suele ser más práctico con la brisa marina."
             ]
           }
         },
@@ -647,7 +689,8 @@
             "de": "Am kühlen Morgen empfängt uns die Puerta de Santa María mit klarer Winterluft. Mittags wärmen wir uns bei der Besichtigung der prachtvollen Kirche auf, während die Sonne tief über der Altstadt steht. Der Nachmittag gehört der Marina, wo wir den Sonnenuntergang gegen 17:00 Uhr bei einem heißen Getränk beobachten. Den Abend genießen wir in der behaglichen Atmosphäre der beleuchteten Steinmauern des Schlosses.",
             "hu": "A hűvös reggelen a Puerta de Santa María tiszta téli levegővel fogad minket. Délidőben a pompás templom belsejében melegszünk fel, miközben a nap alacsonyan jár az óváros felett. A délutánt a Marina negyedben töltjük, ahol 17:00 körül egy forró ital mellett nézzük a naplementét. Az estét a kastély kivilágított kőfalainak meghitt hangulatában élvezzük.",
             "ro": "În dimineața răcoroasă, Puerta de Santa María ne întâmpină cu aer curat de iarnă. La prânz, ne încălzim vizitând biserica somptuoasă, în timp ce soarele stă jos deasupra centrului vechi. După-amiaza aparține zonei Marina, unde urmărim apusul în jurul orei 17:00 cu o băutură caldă. Seara ne bucurăm de atmosfera primitoare a zidurilor luminate ale castelului.",
-            "en": "On a cool morning, Puerta de Santa María greets us with crisp winter air. At noon, we warm up while visiting the magnificent church as the sun sits low over the old town. The afternoon is spent in the Marina, where we watch the sunset around 17:00 with a hot drink. In the evening, we enjoy the cozy atmosphere of the castle's illuminated stone walls."
+            "en": "On a cool morning, Puerta de Santa María greets us with crisp winter air. At noon, we warm up while visiting the magnificent church as the sun sits low over the old town. The afternoon is spent in the Marina, where we watch the sunset around 17:00 with a hot drink. In the evening, we enjoy the cozy atmosphere of the castle's illuminated stone walls.",
+            "es": "En una mañana fría, la Puerta de Santa María nos recibe con un aire invernal fresco. Al mediodía, nos calentamos visitando la magnífica iglesia mientras el sol está bajo sobre el casco antiguo. La tarde se pasa en la Marina, donde vemos la puesta de sol sobre las 17:00 con una bebida caliente. Por la noche, disfrutamos de la atmósfera acogedora de los muros iluminados del castillo."
           },
           "stops": [
             {
@@ -656,7 +699,8 @@
                 "de": "Ideal für Fotos bei klarem, tiefstehendem Winterlicht.",
                 "hu": "Ideális fotózáshoz a tiszta, alacsony téli fényeknél.",
                 "ro": "Ideal pentru fotografii în lumina clară de iarnă.",
-                "en": "Ideal for photos in clear, low winter light."
+                "en": "Ideal for photos in clear, low winter light.",
+                "es": "Ideal para fotos con la luz baja y clara del invierno."
               }
             },
             {
@@ -665,7 +709,8 @@
                 "de": "In den sonnigen Abschnitten der Gassen ist es deutlich wärmer.",
                 "hu": "A sikátorok napsütötte részein jóval melegebb van.",
                 "ro": "În secțiunile însorite ale aleilor este mult mai cald.",
-                "en": "It is significantly warmer in the sunny sections of the alleys."
+                "en": "It is significantly warmer in the sunny sections of the alleys.",
+                "es": "Es notablemente más cálido en las secciones soleadas de los callejones."
               }
             },
             {
@@ -674,7 +719,8 @@
                 "de": "Die dicken Steinmauern halten die Wärme im Inneren gut.",
                 "hu": "A vastag kőfalak jól tartják bent a meleget.",
                 "ro": "Zidurile groase de piatră rețin bine căldura în interior.",
-                "en": "The thick stone walls hold the heat inside well."
+                "en": "The thick stone walls hold the heat inside well.",
+                "es": "Los gruesos muros de piedra retienen bien el calor en el interior."
               }
             },
             {
@@ -683,7 +729,8 @@
                 "de": "Ein ruhiger Rückzugsort ohne die sommerlichen Touristenmassen.",
                 "hu": "Csendes menedék a nyári turistaáradat nélkül.",
                 "ro": "Un refugiu liniștit fără masele de turiști de vară.",
-                "en": "A quiet retreat without the summer tourist crowds."
+                "en": "A quiet retreat without the summer tourist crowds.",
+                "es": "Un refugio tranquilo sin las multitudes veraniegas."
               }
             },
             {
@@ -692,7 +739,8 @@
                 "de": "Genießen Sie die Wintersonne auf einer der windgeschützten Bänke.",
                 "hu": "Élvezze a téli napsütést a szélvédett padok egyikén.",
                 "ro": "Bucurați-vă de soarele de iarnă pe una dintre băncile ferite.",
-                "en": "Enjoy the winter sun on one of the sheltered benches."
+                "en": "Enjoy the winter sun on one of the sheltered benches.",
+                "es": "Disfruta del sol invernal en uno de los bancos resguardados."
               }
             },
             {
@@ -701,7 +749,8 @@
                 "de": "Probieren Sie heiße Schokolade in einer der Konditoreien.",
                 "hu": "Kóstolja meg a forró csokoládét az egyik cukrászdában.",
                 "ro": "Încercați o ciocolată caldă la una dintre cofetării.",
-                "en": "Try hot chocolate in one of the pastry shops."
+                "en": "Try hot chocolate in one of the pastry shops.",
+                "es": "Prueba un chocolate caliente en una de las pastelerías."
               }
             },
             {
@@ -710,7 +759,8 @@
                 "de": "Warme Kleidung ist für den windigen Strandspaziergang nötig.",
                 "hu": "Meleg ruházat szükséges a szeles tengerparti sétához.",
                 "ro": "Îmbrăcămintea groasă e necesară pentru plimbarea pe plajă.",
-                "en": "Warm clothing is necessary for the windy beach walk."
+                "en": "Warm clothing is necessary for the windy beach walk.",
+                "es": "Ropa abrigada es necesaria para la caminata por la playa con viento."
               }
             }
           ],
@@ -738,6 +788,12 @@
               "Layered clothing protects against the cold sea wind.",
               "Museums are much less crowded in winter.",
               "A hot 'Café con leche' warms you up after the beach visit."
+            ],
+            "es": [
+              "Planea terminar el recorrido antes de las 17:00 por la oscuridad.",
+              "Vestir en capas protege contra el frío viento del mar.",
+              "Los museos están mucho menos concurridos en invierno.",
+              "Un caliente 'café con leche' te reconforta tras la visita a la playa."
             ]
           }
         }
@@ -766,7 +822,8 @@
             "de": "Radeln Sie durch die bunten Straßen am Morgen.",
             "hu": "Biciklizzen végig a színes utcákon a reggeli órákban.",
             "ro": "Pedalați prin străzile colorate dimineața.",
-            "en": "Cycle through the colorful streets in the morning."
+            "en": "Cycle through the colorful streets in the morning.",
+            "es": "Pedalea por las coloridas calles por la mañana."
           }
         },
         {
@@ -784,7 +841,8 @@
             "de": "Historische Stadtmauern zum Entdecken.",
             "hu": "Történelmi városfalak, amiket fel kell fedezni.",
             "ro": "Ziduri istorice ale orașului de descoperit.",
-            "en": "Historic city walls to discover."
+            "en": "Historic city walls to discover.",
+            "es": "Murallas históricas por descubrir."
           }
         },
         {
@@ -802,7 +860,8 @@
             "de": "Kurzer Stopp am beeindruckenden Schloss.",
             "hu": "Rövid megálló a lenyűgöző kastélynál.",
             "ro": "Scurtă oprire la impresionantul castel.",
-            "en": "Quick stop at the impressive castle."
+            "en": "Quick stop at the impressive castle.",
+            "es": "Parada rápida en el impresionante castillo."
           }
         },
         {
@@ -820,7 +879,8 @@
             "de": "Perfekt für eine Radtour am Strand entlang.",
             "hu": "Tökéletes a tengerparti kerékpározáshoz.",
             "ro": "Perfect pentru o plimbare cu bicicleta de-a lungul plajei.",
-            "en": "Perfect for a bike ride along the beach."
+            "en": "Perfect for a bike ride along the beach.",
+            "es": "Perfecto para un paseo en bici junto a la playa."
           }
         },
         {
@@ -838,7 +898,8 @@
             "de": "Schöne Aussicht auf die Biskaya.",
             "hu": "Gyönyörű kilátás a Vizcayai-öbölre.",
             "ro": "Vedere frumoasă asupra Golfului Biscaya.",
-            "en": "Beautiful view of the Bay of Biscay."
+            "en": "Beautiful view of the Bay of Biscay.",
+            "es": "Hermosa vista de la bahía de Vizcaya."
           }
         },
         {
@@ -856,7 +917,8 @@
             "de": "Rückkehr für ein wohlverdientes Abendessen.",
             "hu": "Visszatérés egy jól megérdemelt vacsorára.",
             "ro": "Întoarcere pentru o cină bine meritată.",
-            "en": "Return for a well-deserved dinner."
+            "en": "Return for a well-deserved dinner.",
+            "es": "Vuelve para una merecida cena."
           }
         }
       ],
@@ -864,7 +926,8 @@
         "de": "Eine Radtour in Hondarribia verbindet die flachen Küstenwege mit moderaten Anstiegen. Sie starten im bunten Barrio de la Marina und radeln zu den alten Stadtmauern und dem Castillo de Carlos V. Die Promenade am Strand entlang führt Sie schließlich zum Leuchtturm Faro de Higuer, wo eine herrliche Aussicht wartet. Den Tag beenden Sie entspannt im Casco Antiguo.",
         "hu": "Egy hondarribiai kerékpártúra remekül ötvözi a lapos parti utakat és az enyhe emelkedőket. A színes Barrio de la Marina negyedből indulva a várfalakhoz és a V. Károly kastélyhoz teker. A tengerparti sétány elvezeti a Faro de Higuer világítótoronyhoz, ahonnan csodás kilátás nyílik. A napot a Casco Antiguo-ban zárhatja.",
         "ro": "Un tur cu bicicleta în Hondarribia combină traseele plate de coastă cu urcări moderate. Începeți în coloratul Barrio de la Marina și pedalați către vechile ziduri ale orașului și Castillo de Carlos V. Promenada de-a lungul plajei vă duce în cele din urmă la farul Faro de Higuer, de unde veți avea o priveliște minunată. Încheiați ziua relaxați în Casco Antiguo.",
-        "en": "A bike tour in Hondarribia combines flat coastal paths with moderate climbs. Start in the colorful Barrio de la Marina and cycle to the old city walls and Castillo de Carlos V. The promenade along the beach finally leads you to the Faro de Higuer lighthouse, where a magnificent view awaits. End the day relaxing in the Casco Antiguo."
+        "en": "A bike tour in Hondarribia combines flat coastal paths with moderate climbs. Start in the colorful Barrio de la Marina and cycle to the old city walls and Castillo de Carlos V. The promenade along the beach finally leads you to the Faro de Higuer lighthouse, where a magnificent view awaits. End the day relaxing in the Casco Antiguo.",
+        "es": "Un tour en bici por Hondarribia combina caminos costeros llanos con subidas moderadas. Empieza en el colorido Barrio de la Marina y pedalea hasta las murallas del casco antiguo y el Castillo de Carlos V. El paseo marítimo junto a la playa te lleva finalmente al faro de Higuer, donde te espera una vista magnífica. Termina el día relajándote en el Casco Antiguo."
       },
       "gastro_picks": {
         "de": [
@@ -1024,6 +1087,12 @@
           "The path to the lighthouse is steep, E-bikes are an advantage.",
           "Watch out for pedestrians in the old town.",
           "Always lock your bike securely."
+        ],
+        "es": [
+          "Alquila una bicicleta cerca del puerto.",
+          "El camino hacia el faro es empinado; las e-bikes son una ventaja.",
+          "Cuidado con los peatones en el casco antiguo.",
+          "Siempre asegura bien tu bicicleta con candado."
         ]
       },
       "variants": {
@@ -1032,7 +1101,8 @@
             "de": "Eine Radtour in Hondarribia verbindet die flachen Küstenwege mit moderaten Anstiegen. Sie starten im bunten Barrio de la Marina und radeln zu den alten Stadtmauern und dem Castillo de Carlos V. Die Promenade am Strand entlang führt Sie schließlich zum Leuchtturm Faro de Higuer, wo eine herrliche Aussicht wartet. Den Tag beenden Sie entspannt im Casco Antiguo.",
             "hu": "Egy hondarribiai kerékpártúra remekül ötvözi a lapos parti utakat és az enyhe emelkedőket. A színes Barrio de la Marina negyedből indulva a várfalakhoz és a V. Károly kastélyhoz teker. A tengerparti sétány elvezeti a Faro de Higuer világítótoronyhoz, ahonnan csodás kilátás nyílik. A napot a Casco Antiguo-ban zárhatja.",
             "ro": "Un tur cu bicicleta în Hondarribia combină traseele plate de coastă cu urcări moderate. Începeți în coloratul Barrio de la Marina și pedalați către vechile ziduri ale orașului și Castillo de Carlos V. Promenada de-a lungul plajei vă duce în cele din urmă la farul Faro de Higuer, de unde veți avea o priveliște minunată. Încheiați ziua relaxați în Casco Antiguo.",
-            "en": "A bike tour in Hondarribia combines flat coastal paths with moderate climbs. Start in the colorful Barrio de la Marina and cycle to the old city walls and Castillo de Carlos V. The promenade along the beach finally leads you to the Faro de Higuer lighthouse, where a magnificent view awaits. End the day relaxing in the Casco Antiguo."
+            "en": "A bike tour in Hondarribia combines flat coastal paths with moderate climbs. Start in the colorful Barrio de la Marina and cycle to the old city walls and Castillo de Carlos V. The promenade along the beach finally leads you to the Faro de Higuer lighthouse, where a magnificent view awaits. End the day relaxing in the Casco Antiguo.",
+            "es": "Un tour en bici por Hondarribia combina senderos costeros llanos con subidas moderadas. Empieza en el colorido Barrio de la Marina y pedalea hasta las murallas y el Castillo de Carlos V. El paseo junto a la playa te lleva al Faro de Higuer, donde te espera una vista magnífica. Termina el día relajándote en el Casco Antiguo."
           },
           "stops": [
             {
@@ -1041,7 +1111,8 @@
                 "de": "Radeln Sie durch die bunten Straßen am Morgen.",
                 "hu": "Biciklizzen végig a színes utcákon a reggeli órákban.",
                 "ro": "Pedalați prin străzile colorate dimineața.",
-                "en": "Cycle through the colorful streets in the morning."
+                "en": "Cycle through the colorful streets in the morning.",
+                "es": "Pedalea por las calles coloridas por la mañana."
               }
             },
             {
@@ -1050,7 +1121,8 @@
                 "de": "Historische Stadtmauern zum Entdecken.",
                 "hu": "Történelmi városfalak, amiket fel kell fedezni.",
                 "ro": "Ziduri istorice ale orașului de descoperit.",
-                "en": "Historic city walls to discover."
+                "en": "Historic city walls to discover.",
+                "es": "Murallas históricas por descubrir."
               }
             },
             {
@@ -1059,7 +1131,8 @@
                 "de": "Kurzer Stopp am beeindruckenden Schloss.",
                 "hu": "Rövid megálló a lenyűgöző kastélynál.",
                 "ro": "Scurtă oprire la impresionantul castel.",
-                "en": "Quick stop at the impressive castle."
+                "en": "Quick stop at the impressive castle.",
+                "es": "Parada rápida en el imponente castillo."
               }
             },
             {
@@ -1068,7 +1141,8 @@
                 "de": "Perfekt für eine Radtour am Strand entlang.",
                 "hu": "Tökéletes a tengerparti kerékpározáshoz.",
                 "ro": "Perfect pentru o plimbare cu bicicleta de-a lungul plajei.",
-                "en": "Perfect for a bike ride along the beach."
+                "en": "Perfect for a bike ride along the beach.",
+                "es": "Perfecto para un paseo en bici junto a la playa."
               }
             },
             {
@@ -1077,7 +1151,8 @@
                 "de": "Schöne Aussicht auf die Biskaya.",
                 "hu": "Gyönyörű kilátás a Vizcayai-öbölre.",
                 "ro": "Vedere frumoasă asupra Golfului Biscaya.",
-                "en": "Beautiful view of the Bay of Biscay."
+                "en": "Beautiful view of the Bay of Biscay.",
+                "es": "Hermosa vista de la bahía de Vizcaya."
               }
             },
             {
@@ -1086,7 +1161,8 @@
                 "de": "Rückkehr für ein wohlverdientes Abendessen.",
                 "hu": "Visszatérés egy jól megérdemelt vacsorára.",
                 "ro": "Întoarcere pentru o cină bine meritată.",
-                "en": "Return for a well-deserved dinner."
+                "en": "Return for a well-deserved dinner.",
+                "es": "Vuelve para una merecida cena."
               }
             }
           ],
@@ -1248,6 +1324,12 @@
               "The path to the lighthouse is steep, E-bikes are an advantage.",
               "Watch out for pedestrians in the old town.",
               "Always lock your bike securely."
+            ],
+            "es": [
+              "Alquila una bicicleta cerca del puerto.",
+              "El camino hacia el faro es empinado; las e-bikes son una ventaja.",
+              "Cuidado con los peatones en el casco antiguo.",
+              "Siempre asegura bien tu bicicleta con candado."
             ]
           }
         },
@@ -1256,7 +1338,8 @@
             "de": "Mit Regenkleidung starten wir in der Marina, wo die Boote im Regen schaukeln. Mittags erklimmen wir vorsichtig die Stadtmauern, deren Oberflächen bei Nässe rutschig sein können. Am Nachmittag führt der Weg zum Strand, wo wir die raue See aus der Ferne beobachten. Die Rückkehr in die Altstadt bietet uns schließlich trockene Unterstellmöglichkeiten in den Bars.",
             "hu": "Esőruhában indulunk a Marina negyedből, ahol a hajók ringatóznak az esőben. Délidőben óvatosan tekerünk fel a városfalakhoz, melyek vizesen csúszósak lehetnek. Délután az út a strand felé vezet, ahol távolról figyeljük a haragos tengert. Az óvárosba való visszatérés végül száraz menedéket kínál a bárok mélyén.",
             "ro": "Pornim în echipament de ploaie din Marina, unde bărcile se leagănă în ploaie. La prânz, urcăm cu grijă spre zidurile orașului, care pot fi alunecoase când sunt ude. După-amiaza, drumul duce spre plajă, unde observăm marea agitată de la distanță. Întoarcerea în centrul vechi oferă în cele din urmă locuri uscate în baruri.",
-            "en": "We set off in rain gear from the Marina, where the boats bob in the rain. At noon, we cautiously pedal up to the city walls, which can be slippery when wet. In the afternoon, the path leads to the beach, where we watch the rough sea from a distance. The return to the old town finally offers dry shelter in the bars."
+            "en": "We set off in rain gear from the Marina, where the boats bob in the rain. At noon, we cautiously pedal up to the city walls, which can be slippery when wet. In the afternoon, the path leads to the beach, where we watch the rough sea from a distance. The return to the old town finally offers dry shelter in the bars.",
+            "es": "Salimos con ropa de lluvia desde la Marina, donde los barcos se mecen bajo la lluvia. Al mediodía subimos con precaución hasta las murallas de la ciudad, que pueden estar resbaladizas con humedad. Por la tarde, el camino conduce a la playa, desde donde observamos el mar bravo a lo lejos. El regreso al casco antiguo nos ofrece finalmente refugio seco en los bares."
           },
           "stops": [
             {
@@ -1265,7 +1348,8 @@
                 "de": "Vorsicht beim Anfahren auf den nassen Pflastersteinen.",
                 "hu": "Vigyázat az indulásnál a vizes díszburkolaton.",
                 "ro": "Atenție la pornire pe pavelele umede.",
-                "en": "Careful when starting off on the wet paving stones."
+                "en": "Careful when starting off on the wet paving stones.",
+                "es": "Cuidado al arrancar sobre los adoquines mojados."
               }
             },
             {
@@ -1274,7 +1358,8 @@
                 "de": "Steigen Sie bei steilen Abschnitten lieber kurz ab.",
                 "hu": "A meredek részeken inkább szálljon le a bicikliről.",
                 "ro": "Coborâți de pe bicicletă pe secțiunile abrupte.",
-                "en": "Better to dismount briefly on steep sections."
+                "en": "Better to dismount briefly on steep sections.",
+                "es": "Mejor desmontar brevemente en tramos empinados."
               }
             },
             {
@@ -1283,7 +1368,8 @@
                 "de": "Fahrradständer im Innenhof bieten oft etwas Wetterschutz.",
                 "hu": "A belső udvar kerékpártárolói gyakran védenek az esőtől.",
                 "ro": "Suporturile de biciclete din curte oferă adăpost de ploaie.",
-                "en": "Bike racks in the courtyard often provide some weather shelter."
+                "en": "Bike racks in the courtyard often provide some weather shelter.",
+                "es": "Los aparcabicicletas en el patio suelen ofrecer algo de resguardo del tiempo."
               }
             },
             {
@@ -1292,7 +1378,8 @@
                 "de": "Nutzen Sie den breiten Radweg für sicheres Fahren bei Nässe.",
                 "hu": "Használja a széles kerékpárutat a biztonságos haladáshoz.",
                 "ro": "Folosiți pista lată de biciclete pentru siguranță pe ploaie.",
-                "en": "Use the wide bike path for safe riding in the wet."
+                "en": "Use the wide bike path for safe riding in the wet.",
+                "es": "Usa el amplio carril bici para circular con seguridad en mojado."
               }
             },
             {
@@ -1301,7 +1388,8 @@
                 "de": "Die Straße zum Leuchtturm kann Pfützen und Gischt haben.",
                 "hu": "A világítótoronyhoz vezető úton tócsák és vízpermet várható.",
                 "ro": "Drumul spre far poate avea bălți și spumă de mare.",
-                "en": "The road to the lighthouse may have puddles and sea spray."
+                "en": "The road to the lighthouse may have puddles and sea spray.",
+                "es": "El camino hacia el faro puede tener charcos y salpicaduras marinas."
               }
             },
             {
@@ -1310,7 +1398,8 @@
                 "de": "Bremsen Sie frühzeitig vor den engen Kurven.",
                 "hu": "Fékezzen időben a szűk kanyarok előtt.",
                 "ro": "Frânați din timp înainte de curbele strânse.",
-                "en": "Brake early before tight corners."
+                "en": "Brake early before tight corners.",
+                "es": "Frena con antelación antes de curvas cerradas."
               }
             }
           ],
@@ -1338,6 +1427,12 @@
               "Avoid fast cornering on the slippery cobblestones.",
               "Use mudguards to stay drier.",
               "Park the bike under arcades or overhangs."
+            ],
+            "es": [
+              "Revisa los frenos antes de empezar la ruta.",
+              "Evita curvas rápidas sobre los adoquines resbaladizos.",
+              "Usa guardabarros para mantenerte más seco.",
+              "Aparca la bici bajo los soportales o aleros."
             ]
           }
         },
@@ -1346,7 +1441,8 @@
             "de": "An einem klaren Wintermorgen radeln wir durch die Marina, während die Sonne die bunten Fassaden beleuchtet. Mittags erreichen wir die historischen Mauern bei frischer Brise. Nachmittags führt die Fahrt zum Leuchtturm, wo der Ausblick auf das Meer im Winter besonders weit reicht. Gegen 17:00 Uhr kehren wir bei einsetzender Dämmerung in die beleuchtete Altstadt zurück.",
             "hu": "Tiszta téli reggelen tekerünk át a Marina negyeden, miközben a nap megvilágítja a színes homlokzatokat. Délidőben a történelmi falakhoz érünk a friss szélben. Délután a világítótoronyhoz vezet az út, ahonnan télen különösen messzire ellátni a tengeren. 17:00 körül, a sötétedés kezdetén érünk vissza a kivilágított óvárosba.",
             "ro": "Într-o dimineață clară de iarnă, pedalăm prin Marina în timp ce soarele luminează fațadele colorate. La prânz ajungem la zidurile istorice pe o briză proaspătă. După-amiaza, drumul duce la far, unde vederea spre mare este deosebit de clară iarna. În jurul orei 17:00, ne întoarcem în centrul vechi luminat pe măsură ce se lasă amurgul.",
-            "en": "On a clear winter morning, we cycle through the Marina while the sun illuminates the colorful facades. At noon, we reach the historical walls in a fresh breeze. In the afternoon, the journey leads to the lighthouse, where the view of the sea is particularly far-reaching in winter. Around 17:00, we return to the illuminated old town as dusk sets in."
+            "en": "On a clear winter morning, we cycle through the Marina while the sun illuminates the colorful facades. At noon, we reach the historical walls in a fresh breeze. In the afternoon, the journey leads to the lighthouse, where the view of the sea is particularly far-reaching in winter. Around 17:00, we return to the illuminated old town as dusk sets in.",
+            "es": "En una mañana clara de invierno, pedaleamos por la Marina mientras el sol ilumina las fachadas coloridas. Al mediodía alcanzamos las murallas históricas con una brisa fresca. Por la tarde, el trayecto nos lleva al faro, donde la vista del mar es especialmente extensa en invierno. Sobre las 17:00 regresamos al casco antiguo iluminado al caer el crepúsculo."
           },
           "stops": [
             {
@@ -1355,7 +1451,8 @@
                 "de": "Warme Handschuhe sind für die Fahrt am Morgen wichtig.",
                 "hu": "A reggeli tekeréshez meleg kesztyű ajánlott.",
                 "ro": "Mănușile groase sunt importante pentru plimbarea de dimineață.",
-                "en": "Warm gloves are important for the ride in the morning."
+                "en": "Warm gloves are important for the ride in the morning.",
+                "es": "Guantes calientes son importantes para la salida matinal."
               }
             },
             {
@@ -1364,7 +1461,8 @@
                 "de": "Genießen Sie den weiten Blick bei der trockenen Winterluft.",
                 "hu": "Élvezze a kilátást a száraz, tiszta téli levegőben.",
                 "ro": "Bucurați-vă de vederea panoramică în aerul uscat de iarnă.",
-                "en": "Enjoy the far-reaching view in the dry winter air."
+                "en": "Enjoy the far-reaching view in the dry winter air.",
+                "es": "Disfruta de la vista lejana en el aire seco del invierno."
               }
             },
             {
@@ -1373,7 +1471,8 @@
                 "de": "Ein kurzer Stopp zum Aufwärmen in den prachtvollen Sälen.",
                 "hu": "Rövid megálló a felmelegedéshez a pompás termekben.",
                 "ro": "O scurtă oprire pentru încălzire în sălile somptuoase.",
-                "en": "A short stop to warm up in the magnificent halls."
+                "en": "A short stop to warm up in the magnificent halls.",
+                "es": "Breve parada para entrar en calor en los magníficos salones."
               }
             },
             {
@@ -1382,7 +1481,8 @@
                 "de": "Der Radweg am Strand kann im Winter sehr windig sein.",
                 "hu": "A parti kerékpárút télen nagyon szeles lehet.",
                 "ro": "Pista de biciclete de pe plajă poate fi foarte vântoasă iarna.",
-                "en": "The bike path by the beach can be very windy in winter."
+                "en": "The bike path by the beach can be very windy in winter.",
+                "es": "El carril junto a la playa puede ser muy ventoso en invierno."
               }
             },
             {
@@ -1391,7 +1491,8 @@
                 "de": "Ein Highlight für den Sonnenuntergang gegen 17:00 Uhr.",
                 "hu": "Kiemelt pont a naplemente nézéséhez 17:00 körül.",
                 "ro": "Un punct de atracție pentru apusul de la ora 17:00.",
-                "en": "A highlight for the sunset around 17:00."
+                "en": "A highlight for the sunset around 17:00.",
+                "es": "Un punto culminante para el atardecer alrededor de las 17:00."
               }
             },
             {
@@ -1400,7 +1501,8 @@
                 "de": "Achten Sie auf ausreichende Beleuchtung am Fahrrad.",
                 "hu": "Ügyeljen a kerékpár megfelelő kivilágítására.",
                 "ro": "Asigurați-vă că aveți iluminare adecvată pe bicicletă.",
-                "en": "Ensure you have adequate lighting on the bike."
+                "en": "Ensure you have adequate lighting on the bike.",
+                "es": "Asegúrate de llevar iluminación adecuada en la bicicleta."
               }
             }
           ],
@@ -1428,6 +1530,12 @@
               "Ensure lights are working for the early evening.",
               "Take regular breaks in warm cafes.",
               "The mountain road to the lighthouse keeps you warm through effort."
+            ],
+            "es": [
+              "Viste ropa cortavientos contra la sensación térmica por viento.",
+              "Comprueba que las luces funcionen para la primera hora de la tarde.",
+              "Toma descansos regulares en cafés cálidos.",
+              "La carretera de montaña hasta el faro te mantiene caliente con el esfuerzo."
             ]
           }
         }
@@ -1456,7 +1564,8 @@
             "de": "Fantastischer Ausblick über die Bucht vom Berg aus.",
             "hu": "Fantasztikus kilátás az öbölre a hegyről.",
             "ro": "Vedere fantastică asupra golfului de pe munte.",
-            "en": "Fantastic view over the bay from the mountain."
+            "en": "Fantastic view over the bay from the mountain.",
+            "es": "Fantástica vista sobre la bahía desde la montaña."
           }
         },
         {
@@ -1474,7 +1583,8 @@
             "de": "Westlichster Punkt der Pyrenäen.",
             "hu": "A Pireneusok legnyugatibb pontja.",
             "ro": "Cel mai vestic punct al Pirineilor.",
-            "en": "The westernmost point of the Pyrenees."
+            "en": "The westernmost point of the Pyrenees.",
+            "es": "El punto más occidental de los Pirineos."
           }
         },
         {
@@ -1492,7 +1602,8 @@
             "de": "Parken Sie außerhalb der Mauern.",
             "hu": "Parkoljon a falakon kívül.",
             "ro": "Parcați în afara zidurilor.",
-            "en": "Park outside the walls."
+            "en": "Park outside the walls.",
+            "es": "Aparca fuera de las murallas."
           }
         },
         {
@@ -1510,7 +1621,8 @@
             "de": "Spaziergang vom Schloss zur Kirche.",
             "hu": "Séta a kastélytól a templomig.",
             "ro": "Plimbare de la castel la biserică.",
-            "en": "Walk from the castle to the church."
+            "en": "Walk from the castle to the church.",
+            "es": "Camina desde el castillo hasta la iglesia."
           }
         },
         {
@@ -1528,7 +1640,8 @@
             "de": "Zeit für ein baskisches Mittagessen.",
             "hu": "Ideje egy baszk ebédnek.",
             "ro": "Timpul pentru un prânz basc.",
-            "en": "Time for a Basque lunch."
+            "en": "Time for a Basque lunch.",
+            "es": "Hora de un almuerzo vasco."
           }
         },
         {
@@ -1546,7 +1659,8 @@
             "de": "Kurzer Strandspaziergang zum Abschluss.",
             "hu": "Rövid tengerparti séta lezárásként.",
             "ro": "Scurtă plimbare pe plajă la final.",
-            "en": "Short beach walk to finish."
+            "en": "Short beach walk to finish.",
+            "es": "Breve paseo por la playa para terminar."
           }
         }
       ],
@@ -1554,7 +1668,8 @@
         "de": "Mit dem Auto erreichen Sie mühelos die Höhen des Santuario de Guadalupe für einen Panoramablick. Danach fahren Sie zum Kap am Faro de Higuer. Zurück in Hondarribia parken Sie am Rande der Altstadt, besuchen das Castillo de Carlos V und die Kirche. Der Tag endet kulinarisch im Barrio de la Marina und entspannt am Strand.",
         "hu": "Autóval könnyedén elérheti a Santuario de Guadalupe magasságait a panorámáért. Ezután hajtson el a Faro de Higuer fokához. Hondarribiába visszatérve parkoljon le az óváros szélén, látogassa meg a V. Károly kastélyt és a templomot. A nap a Barrio de la Marina gasztronómiájával és tengerparti pihenéssel zárul.",
         "ro": "Cu mașina ajungeți cu ușurință la înălțimile Sanctuarului din Guadalupe pentru o vedere panoramică. Apoi conduceți către capul farului Faro de Higuer. Întorși în Hondarribia, parcați la marginea orașului vechi, vizitați Castelul lui Carol al V-lea și biserica. Ziua se încheie cu delicii culinare în Barrio de la Marina și relaxare pe plajă.",
-        "en": "By car, you can easily reach the heights of the Santuario de Guadalupe for a panoramic view. Then drive to the cape at Faro de Higuer. Back in Hondarribia, park on the edge of the old town, visit the Castle of Charles V and the church. The day ends with culinary delights in the Barrio de la Marina and relaxation on the beach."
+        "en": "By car, you can easily reach the heights of the Santuario de Guadalupe for a panoramic view. Then drive to the cape at Faro de Higuer. Back in Hondarribia, park on the edge of the old town, visit the Castle of Charles V and the church. The day ends with culinary delights in the Barrio de la Marina and relaxation on the beach.",
+        "es": "En coche puedes alcanzar fácilmente las alturas del Santuario de Guadalupe para una vista panorámica. Luego conduce hasta el cabo en el Faro de Higuer. De vuelta en Hondarribia, aparca en el borde del casco antiguo, visita el Castillo de Carlos V y la iglesia. El día termina con delicias culinarias en el Barrio de la Marina y relax en la playa."
       },
       "gastro_picks": {
         "de": [
@@ -1714,6 +1829,12 @@
           "Beach parking fills up quickly in summer.",
           "A detour to the mountains is worth it for the view.",
           "Watch out for speed limits."
+        ],
+        "es": [
+          "La carretera de montaña hacia el santuario puede ser sinuosa.",
+          "El aparcamiento en la playa se llena rápidamente en verano.",
+          "Un desvío a la montaña merece la pena por las vistas.",
+          "Cuidado con los límites de velocidad."
         ]
       },
       "variants": {
@@ -1722,7 +1843,8 @@
             "de": "Mit dem Auto erreichen Sie mühelos die Höhen des Santuario de Guadalupe für einen Panoramablick. Danach fahren Sie zum Kap am Faro de Higuer. Zurück in Hondarribia parken Sie am Rande der Altstadt, besuchen das Castillo de Carlos V und die Kirche. Der Tag endet kulinarisch im Barrio de la Marina und entspannt am Strand.",
             "hu": "Autóval könnyedén elérheti a Santuario de Guadalupe magasságait a panorámáért. Ezután hajtson el a Faro de Higuer fokához. Hondarribiába visszatérve parkoljon le az óváros szélén, látogassa meg a V. Károly kastélyt és a templomot. A nap a Barrio de la Marina gasztronómiájával és tengerparti pihenéssel zárul.",
             "ro": "Cu mașina ajungeți cu ușurință la înălțimile Sanctuarului din Guadalupe pentru o vedere panoramică. Apoi conduceți către capul farului Faro de Higuer. Întorși în Hondarribia, parcați la marginea orașului vechi, vizitați Castelul lui Carol al V-lea și biserica. Ziua se încheie cu delicii culinare în Barrio de la Marina și relaxare pe plajă.",
-            "en": "By car, you can easily reach the heights of the Santuario de Guadalupe for a panoramic view. Then drive to the cape at Faro de Higuer. Back in Hondarribia, park on the edge of the old town, visit the Castle of Charles V and the church. The day ends with culinary delights in the Barrio de la Marina and relaxation on the beach."
+            "en": "By car, you can easily reach the heights of the Santuario de Guadalupe for a panoramic view. Then drive to the cape at Faro de Higuer. Back in Hondarribia, park on the edge of the old town, visit the Castle of Charles V and the church. The day ends with culinary delights in the Barrio de la Marina and relaxation on the beach.",
+            "es": "En coche puedes alcanzar fácilmente las alturas del Santuario de Guadalupe para una vista panorámica. Luego conduce hasta el cabo en el Faro de Higuer. De vuelta en Hondarribia, aparca en el borde del casco antiguo, visita el Castillo de Carlos V y la iglesia. El día termina con delicias culinarias en el Barrio de la Marina y relax en la playa."
           },
           "stops": [
             {
@@ -1731,7 +1853,8 @@
                 "de": "Fantastischer Ausblick über die Bucht vom Berg aus.",
                 "hu": "Fantasztikus kilátás az öbölre a hegyről.",
                 "ro": "Vedere fantastică asupra golfului de pe munte.",
-                "en": "Fantastic view over the bay from the mountain."
+                "en": "Fantastic view over the bay from the mountain.",
+                "es": "Fantástica vista sobre la bahía desde la montaña."
               }
             },
             {
@@ -1740,7 +1863,8 @@
                 "de": "Westlichster Punkt der Pyrenäen.",
                 "hu": "A Pireneusok legnyugatibb pontja.",
                 "ro": "Cel mai vestic punct al Pirineilor.",
-                "en": "The westernmost point of the Pyrenees."
+                "en": "The westernmost point of the Pyrenees.",
+                "es": "El punto más occidental de los Pirineos."
               }
             },
             {
@@ -1749,7 +1873,8 @@
                 "de": "Parken Sie außerhalb der Mauern.",
                 "hu": "Parkoljon a falakon kívül.",
                 "ro": "Parcați în afara zidurilor.",
-                "en": "Park outside the walls."
+                "en": "Park outside the walls.",
+                "es": "Aparca fuera de las murallas."
               }
             },
             {
@@ -1758,7 +1883,8 @@
                 "de": "Spaziergang vom Schloss zur Kirche.",
                 "hu": "Séta a kastélytól a templomig.",
                 "ro": "Plimbare de la castel la biserică.",
-                "en": "Walk from the castle to the church."
+                "en": "Walk from the castle to the church.",
+                "es": "Camina desde el castillo hasta la iglesia."
               }
             },
             {
@@ -1767,7 +1893,8 @@
                 "de": "Zeit für ein baskisches Mittagessen.",
                 "hu": "Ideje egy baszk ebédnek.",
                 "ro": "Timpul pentru un prânz basc.",
-                "en": "Time for a Basque lunch."
+                "en": "Time for a Basque lunch.",
+                "es": "Hora de un almuerzo vasco."
               }
             },
             {
@@ -1776,7 +1903,8 @@
                 "de": "Kurzer Strandspaziergang zum Abschluss.",
                 "hu": "Rövid tengerparti séta lezárásként.",
                 "ro": "Scurtă plimbare pe plajă la final.",
-                "en": "Short beach walk to finish."
+                "en": "Short beach walk to finish.",
+                "es": "Breve paseo por la playa para terminar."
               }
             }
           ],
@@ -1938,6 +2066,12 @@
               "Beach parking fills up quickly in summer.",
               "A detour to the mountains is worth it for the view.",
               "Watch out for speed limits."
+            ],
+            "es": [
+              "La carretera de montaña hacia el santuario puede ser sinuosa.",
+              "El aparcamiento en la playa se llena rápidamente en verano.",
+              "Un desvío a la montaña merece la pena por las vistas.",
+              "Cuidado con los límites de velocidad."
             ]
           }
         },
@@ -1946,7 +2080,8 @@
             "de": "Wir fahren zum Santuario de Guadalupe, von wo aus wir den Regen über der Bucht beobachten können. Mittags führt die Fahrt zum Leuchtturm, wo wir das Meer geschützt aus dem Auto erleben. Am Nachmittag parken wir nah an der Marina für einen kurzen Sprint in die Pintxo-Bars. Den Abend lassen wir bei der stimmungsvollen Fahrt durch die nassen, beleuchteten Straßen der Unterstadt ausklingen.",
             "hu": "A Guadalupe szentélyhez hajtunk, ahonnan nézhetjük az öböl felett elvonuló esőt. Délidőben a világítótoronyhoz megyünk, ahol az autóból, védett helyen csodálhatjuk a tengert. Délután a Marinához közel parkolunk, hogy gyorsan beérjünk a bárokba. Az estét a város kivilágított, vizes utcáin tett hangulatos autózással zárjuk.",
             "ro": "Conducem spre Sanctuarul Guadalupe, de unde putem urmări ploaia deasupra golfului. La prânz, drumul duce la far, unde experimentăm marea protejați în mașină. După-amiaza parcăm aproape de Marina pentru un sprint scurt spre barurile de pintxos. Încheiem seara cu o plimbare atmosferică prin străzile umede și luminate ale orașului de jos.",
-            "en": "We drive to the Sanctuary of Guadalupe, from where we can watch the rain over the bay. At noon, the drive leads to the lighthouse, where we experience the sea protected inside the car. In the afternoon, we park close to the Marina for a short sprint into the pintxo bars. We end the evening with an atmospheric drive through the wet, illuminated streets of the lower town."
+            "en": "We drive to the Sanctuary of Guadalupe, from where we can watch the rain over the bay. At noon, the drive leads to the lighthouse, where we experience the sea protected inside the car. In the afternoon, we park close to the Marina for a short sprint into the pintxo bars. We end the evening with an atmospheric drive through the wet, illuminated streets of the lower town.",
+            "es": "Conducimos hasta el Santuario de Guadalupe, desde donde observamos la lluvia sobre la bahía. Al mediodía la ruta nos lleva al faro, donde disfrutamos del mar protegidos dentro del coche. Por la tarde aparcamos cerca de la Marina para un breve sprint a los bares de pintxos. Terminamos la noche con un paseo en coche por las calles húmedas e iluminadas de la parte baja de la ciudad."
           },
           "stops": [
             {
@@ -1955,7 +2090,8 @@
                 "de": "Genießen Sie die Aussicht direkt vom Parkplatz aus.",
                 "hu": "Élvezze a kilátást közvetlenül a parkolóból.",
                 "ro": "Bucurați-vă de priveliște direct din parcare.",
-                "en": "Enjoy the view directly from the parking lot."
+                "en": "Enjoy the view directly from the parking lot.",
+                "es": "Disfruta de la vista directamente desde el aparcamiento."
               }
             },
             {
@@ -1964,7 +2100,8 @@
                 "de": "Parken Sie mit Blick auf die Klippen für ein Sturmspektakel.",
                 "hu": "Parkoljon a sziklákra nézve a viharos látványért.",
                 "ro": "Parcați cu vedere spre stânci pentru un spectacol al furtunii.",
-                "en": "Park with a view of the cliffs for a storm spectacle."
+                "en": "Park with a view of the cliffs for a storm spectacle.",
+                "es": "Aparca con vistas a los acantilados para un espectáculo de tormenta."
               }
             },
             {
@@ -1973,7 +2110,8 @@
                 "de": "Nutzen Sie das nahegelegene Parkhaus in der Altstadt.",
                 "hu": "Használja a közeli óvárosi parkolóházat.",
                 "ro": "Folosiți parcarea acoperită din apropiere în centrul vechi.",
-                "en": "Use the nearby parking garage in the old town."
+                "en": "Use the nearby parking garage in the old town.",
+                "es": "Usa el aparcamiento subterráneo cercano en el casco antiguo."
               }
             },
             {
@@ -1982,7 +2120,8 @@
                 "de": "Kurze Wege vom Auto zum Eingang minimieren das Nasswerden.",
                 "hu": "Az autótól a bejáratig tartó rövid út minimalizálja az ázást.",
                 "ro": "Distanța scurtă de la mașină la intrare reduce expunerea la ploaie.",
-                "en": "Short paths from the car to the entrance minimize getting wet."
+                "en": "Short paths from the car to the entrance minimize getting wet.",
+                "es": "Caminos cortos desde el coche hasta la entrada minimizan mojarse."
               }
             },
             {
@@ -1991,7 +2130,8 @@
                 "de": "Suchen Sie gezielt nach Parkplätzen in den Nebenstraßen.",
                 "hu": "Keressen célzottan parkolót a mellékutcákban.",
                 "ro": "Căutați locuri de parcare pe străzile secundare.",
-                "en": "Specifically look for parking spaces in the side streets."
+                "en": "Specifically look for parking spaces in the side streets.",
+                "es": "Busca específicamente plazas de aparcamiento en las calles secundarias."
               }
             },
             {
@@ -2000,7 +2140,8 @@
                 "de": "Die Strandparkplätze sind bei Regen meist leerer.",
                 "hu": "A parti parkolók esőben általában üresebbek.",
                 "ro": "Parcările de pe plajă sunt de obicei mai libere pe ploaie.",
-                "en": "Beach parking lots are usually emptier when it rains."
+                "en": "Beach parking lots are usually emptier when it rains.",
+                "es": "Los aparcamientos de la playa suelen estar más vacíos cuando llueve."
               }
             }
           ],
@@ -2028,6 +2169,12 @@
               "Use parking garages for dry exits.",
               "Keep an eye on the weather app for breaks in the rain.",
               "The car provides the best base for rain watching."
+            ],
+            "es": [
+              "Cuidado con el aquaplaning en la carretera costera.",
+              "Usa aparcamientos cubiertos para salir en seco.",
+              "Consulta la app del tiempo para detectar claros entre lluvias.",
+              "El coche es la mejor base para ver la lluvia."
             ]
           }
         },
@@ -2036,7 +2183,8 @@
             "de": "Am sonnigen Wintermorgen fahren wir zum Berg Guadalupe für eine klare Sicht auf die Pyrenäen. Mittags steuern wir den Leuchtturm an, wo die Meeresluft besonders erfrischend ist. Nachmittags genießen wir die Fahrt zur Marina und parken bequem für einen Stadtbummel. Zum Sonnenuntergang gegen 17:00 Uhr erreichen wir den Strand, bevor wir uns in ein gemütliches Restaurant zurückziehen.",
             "hu": "Napsütéses téli reggelen a Guadalupe-hegyre hajtunk a Pireneusokra nyíló tiszta kilátásért. Délidőben a világítótorony felé vesszük az irányt, ahol a tengeri levegő frissítő. Délután a Marinához autózunk és kényelmesen leparkolunk a városi sétához. A 17:00 körüli naplementére érünk a strandra, mielőtt behúzódnánk egy barátságos étterembe.",
             "ro": "Într-o dimineață însorită de iarnă, conducem spre muntele Guadalupe pentru o vedere clară asupra Pirineilor. La prânz ne îndreptăm spre far, unde aerul mării este revigorant. După-amiaza ne bucurăm de drumul spre Marina și parcăm confortabil pentru o plimbare. La apusul de la ora 17:00 ajungem la plajă, înainte de a ne retrage într-un restaurant primitor.",
-            "en": "On a sunny winter morning, we drive up to Mount Guadalupe for a clear view of the Pyrenees. At noon, we head for the lighthouse where the sea air is particularly refreshing. In the afternoon, we enjoy the drive to the Marina and park conveniently for a stroll. We reach the beach for the sunset around 17:00 before retreating to a cozy restaurant."
+            "en": "On a sunny winter morning, we drive up to Mount Guadalupe for a clear view of the Pyrenees. At noon, we head for the lighthouse where the sea air is particularly refreshing. In the afternoon, we enjoy the drive to the Marina and park conveniently for a stroll. We reach the beach for the sunset around 17:00 before retreating to a cozy restaurant.",
+            "es": "En una soleada mañana de invierno, subimos en coche al monte Guadalupe para una vista despejada de los Pirineos. Al mediodía nos dirigimos al faro, donde el aire del mar es especialmente vigorizante. Por la tarde disfrutamos del trayecto hasta la Marina y aparcamos cómodamente para pasear. Alcanzamos la playa para el atardecer sobre las 17:00 antes de retirarnos a un restaurante acogedor."
           },
           "stops": [
             {
@@ -2045,7 +2193,8 @@
                 "de": "Prüfen Sie morgens die Sichtverhältnisse (Nebelgefahr).",
                 "hu": "Reggel ellenőrizze a látási viszonyokat (ködfelhő veszély).",
                 "ro": "Verificați vizibilitatea dimineața (pericol de ceață).",
-                "en": "Check visibility conditions in the morning (fog risk)."
+                "en": "Check visibility conditions in the morning (fog risk).",
+                "es": "Comprueba las condiciones de visibilidad por la mañana (riesgo de niebla)."
               }
             },
             {
@@ -2054,7 +2203,8 @@
                 "de": "Die Wintersonne steht hier perfekt für Panoramafotos.",
                 "hu": "A téli napállás tökéletes itt a panorámafotókhoz.",
                 "ro": "Soarele de iarnă este perfect aici pentru fotografii panoramice.",
-                "en": "The winter sun is perfectly positioned here for panoramic photos."
+                "en": "The winter sun is perfectly positioned here for panoramic photos.",
+                "es": "El sol invernal está perfectamente posicionado aquí para fotos panorámicas."
               }
             },
             {
@@ -2063,7 +2213,8 @@
                 "de": "Parkplätze in der Oberstadt sind im Winter leichter zu finden.",
                 "hu": "Az óvárosi parkolóhelyek télen könnyebben elérhetők.",
                 "ro": "Locurile de parcare din orașul de sus sunt mai ușor de găsit iarna.",
-                "en": "Parking spaces in the upper town are easier to find in winter."
+                "en": "Parking spaces in the upper town are easier to find in winter.",
+                "es": "En invierno es más fácil encontrar plaza en la parte alta del pueblo."
               }
             },
             {
@@ -2072,7 +2223,8 @@
                 "de": "Nutzen Sie die Sitzheizung für die Fahrt zwischen den Kirchen.",
                 "hu": "Használja az ülésfűtést a templomok közötti úton.",
                 "ro": "Folosiți încălzirea în scaune pentru drumul dintre biserici.",
-                "en": "Use seat heating for the drive between the churches."
+                "en": "Use seat heating for the drive between the churches.",
+                "es": "Usa el calentador de los asientos para el trayecto entre iglesias."
               }
             },
             {
@@ -2081,7 +2233,8 @@
                 "de": "Keine Parkplatznot in der Marina-Zone im Vergleich zum Sommer.",
                 "hu": "Nincs parkolási gond a Marina zónában a nyárhoz képest.",
                 "ro": "Fără probleme de parcare în zona Marina față de vară.",
-                "en": "No parking shortage in the Marina zone compared to summer."
+                "en": "No parking shortage in the Marina zone compared to summer.",
+                "es": "No hay escasez de aparcamiento en la zona de la Marina comparado con el verano."
               }
             },
             {
@@ -2090,7 +2243,8 @@
                 "de": "Bester Ort, um das Auto für den Sonnenuntergang zu parken.",
                 "hu": "A legjobb hely az autó leparkolásához a naplementéhez.",
                 "ro": "Cel mai bun loc pentru a parca mașina pentru apus.",
-                "en": "Best place to park the car for the sunset."
+                "en": "Best place to park the car for the sunset.",
+                "es": "Mejor lugar para aparcar el coche para el atardecer."
               }
             }
           ],
@@ -2118,6 +2272,12 @@
               "The winter sun is low – don't forget your sunglasses.",
               "Parking fees are often reduced or waived in winter.",
               "Warm up the car well before the beach walk."
+            ],
+            "es": [
+              "Cuidado con placas de hielo en la carretera de montaña con heladas.",
+              "El sol de invierno está bajo; no olvides las gafas de sol.",
+              "Las tarifas de aparcamiento suelen reducirse o eximirse en invierno.",
+              "Calienta bien el coche antes del paseo por la playa."
             ]
           }
         }
@@ -2146,7 +2306,8 @@
             "de": "Startpunkt an der Bushaltestelle nahe dem Tor.",
             "hu": "Kezdőpont a kapu melletti buszmegállónál.",
             "ro": "Punct de plecare la stația de autobuz de lângă poartă.",
-            "en": "Starting point at the bus stop near the gate."
+            "en": "Starting point at the bus stop near the gate.",
+            "es": "Punto de partida en la parada de autobús cerca de la puerta."
           }
         },
         {
@@ -2164,7 +2325,8 @@
             "de": "Gemütlicher Beginn im historischen Zentrum.",
             "hu": "Hangulatos kezdés a történelmi központban.",
             "ro": "Început confortabil în centrul istoric.",
-            "en": "Cozy start in the historical center."
+            "en": "Cozy start in the historical center.",
+            "es": "Inicio acogedor en el centro histórico."
           }
         },
         {
@@ -2182,7 +2344,8 @@
             "de": "Gotische Architektur im Herzen der Stadt.",
             "hu": "Gótikus építészet a város szívében.",
             "ro": "Arhitectură gotică în inima orașului.",
-            "en": "Gothic architecture in the heart of the city."
+            "en": "Gothic architecture in the heart of the city.",
+            "es": "Arquitectura gótica en el corazón de la ciudad."
           }
         },
         {
@@ -2200,7 +2363,8 @@
             "de": "Ein Spaziergang entlang der alten Mauern.",
             "hu": "Séta a régi falak mentén.",
             "ro": "O plimbare de-a lungul vechilor ziduri.",
-            "en": "A walk along the old walls."
+            "en": "A walk along the old walls.",
+            "es": "Un paseo por las antiguas murallas."
           }
         },
         {
@@ -2218,7 +2382,8 @@
             "de": "Mittagessen im Fischerviertel, gut mit dem Bus erreichbar.",
             "hu": "Ebéd a halásznegyedben, busszal is könnyen elérhető.",
             "ro": "Prânz în cartierul pescăresc, ușor accesibil cu autobuzul.",
-            "en": "Lunch in the fishing district, easily accessible by bus."
+            "en": "Lunch in the fishing district, easily accessible by bus.",
+            "es": "Almuerzo en el barrio de pescadores, fácilmente accesible en autobús."
           }
         },
         {
@@ -2236,7 +2401,8 @@
             "de": "Entspannung am Strand vor der Rückfahrt.",
             "hu": "Pihenés a tengerparton a visszautazás előtt.",
             "ro": "Relaxare pe plajă înainte de călătoria de întoarcere.",
-            "en": "Relaxation on the beach before the return journey."
+            "en": "Relaxation on the beach before the return journey.",
+            "es": "Relajación en la playa antes del regreso."
           }
         }
       ],
@@ -2244,7 +2410,8 @@
         "de": "Nutzen Sie den lokalen Bus, um an der Puerta de Santa María zu starten. Erkunden Sie die Plaza de Gipuzkoa und die imposante Kirche Santa María. Nach einem Rundgang entlang der historischen Murallas bringt Sie ein kurzer Spaziergang oder Bus ins Barrio de la Marina. Dort erwartet Sie ein exzellentes Mittagessen, gefolgt von einem entspannten Nachmittag am Strand.",
         "hu": "Használja a helyi buszt a Puerta de Santa María-nál való kezdéshez. Fedezze fel a Plaza de Gipuzkoa-t és az impozáns Santa María templomot. A történelmi városfalak (Murallas) mentén tett séta után egy rövid buszút vagy séta visz a Barrio de la Marina-ba. Ott kiváló ebéd várja, amit a tengerparti pihenés követ.",
         "ro": "Folosiți autobuzul local pentru a începe la Puerta de Santa María. Explorați Plaza de Gipuzkoa și impunătoarea Biserică Santa María. După un tur de-a lungul zidurilor istorice Murallas, o scurtă plimbare sau autobuzul vă duce în Barrio de la Marina. Acolo vă așteaptă un prânz excelent, urmat de o după-amiază relaxantă pe plajă.",
-        "en": "Use the local bus to start at the Puerta de Santa María. Explore the Plaza de Gipuzkoa and the imposing Santa María Church. After a tour along the historic Murallas, a short walk or bus ride takes you to the Barrio de la Marina. There, an excellent lunch awaits, followed by a relaxing afternoon on the beach."
+        "en": "Use the local bus to start at the Puerta de Santa María. Explore the Plaza de Gipuzkoa and the imposing Santa María Church. After a tour along the historic Murallas, a short walk or bus ride takes you to the Barrio de la Marina. There, an excellent lunch awaits, followed by a relaxing afternoon on the beach.",
+        "es": "Toma el autobús local para empezar en la Puerta de Santa María. Explora la Plaza de Gipuzkoa y la imponente iglesia de Santa María. Tras un paseo por las históricas murallas, una corta caminata o un trayecto en bus te lleva al Barrio de la Marina. Allí te espera un excelente almuerzo, seguido de una tarde relajante en la playa."
       },
       "gastro_picks": {
         "de": [
@@ -2404,6 +2571,12 @@
           "Tickets can usually be bought from the driver.",
           "Check the summer schedule, which is often more frequent.",
           "There is a small boat shuttle to France."
+        ],
+        "es": [
+          "El sistema Ekialdebus conecta los lugares más importantes.",
+          "Los billetes suelen comprarse al conductor.",
+          "Consulta el horario de verano, que suele ser más frecuente.",
+          "Hay un pequeño servicio de lanzadera en barco a Francia."
         ]
       },
       "variants": {
@@ -2412,7 +2585,8 @@
             "de": "Nutzen Sie den lokalen Bus, um an der Puerta de Santa María zu starten. Erkunden Sie die Plaza de Gipuzkoa und die imposante Kirche Santa María. Nach einem Rundgang entlang der historischen Murallas bringt Sie ein kurzer Spaziergang oder Bus ins Barrio de la Marina. Dort erwartet Sie ein exzellentes Mittagessen, gefolgt von einem entspannten Nachmittag am Strand.",
             "hu": "Használja a helyi buszt a Puerta de Santa María-nál való kezdéshez. Fedezze fel a Plaza de Gipuzkoa-t és az impozáns Santa María templomot. A történelmi városfalak (Murallas) mentén tett séta után egy rövid buszút vagy séta visz a Barrio de la Marina-ba. Ott kiváló ebéd várja, amit a tengerparti pihenés követ.",
             "ro": "Folosiți autobuzul local pentru a începe la Puerta de Santa María. Explorați Plaza de Gipuzkoa și impunătoarea Biserică Santa María. După un tur de-a lungul zidurilor istorice Murallas, o scurtă plimbare sau autobuzul vă duce în Barrio de la Marina. Acolo vă așteaptă un prânz excelent, urmat de o după-amiază relaxantă pe plajă.",
-            "en": "Use the local bus to start at the Puerta de Santa María. Explore the Plaza de Gipuzkoa and the imposing Santa María Church. After a tour along the historic Murallas, a short walk or bus ride takes you to the Barrio de la Marina. There, an excellent lunch awaits, followed by a relaxing afternoon on the beach."
+            "en": "Use the local bus to start at the Puerta de Santa María. Explore the Plaza de Gipuzkoa and the imposing Santa María Church. After a tour along the historic Murallas, a short walk or bus ride takes you to the Barrio de la Marina. There, an excellent lunch awaits, followed by a relaxing afternoon on the beach.",
+            "es": "Toma el autobús local para empezar en la Puerta de Santa María. Explora la Plaza de Gipuzkoa y la imponente iglesia de Santa María. Tras un paseo por las históricas murallas, una corta caminata o un trayecto en bus te lleva al Barrio de la Marina. Allí te espera un excelente almuerzo, seguido de una tarde relajante en la playa."
           },
           "stops": [
             {
@@ -2421,7 +2595,8 @@
                 "de": "Startpunkt an der Bushaltestelle nahe dem Tor.",
                 "hu": "Kezdőpont a kapu melletti buszmegállónál.",
                 "ro": "Punct de plecare la stația de autobuz de lângă poartă.",
-                "en": "Starting point at the bus stop near the gate."
+                "en": "Starting point at the bus stop near the gate.",
+                "es": "Punto de partida en la parada de autobús junto a la puerta."
               }
             },
             {
@@ -2430,7 +2605,8 @@
                 "de": "Gemütlicher Beginn im historischen Zentrum.",
                 "hu": "Hangulatos kezdés a történelmi központban.",
                 "ro": "Început confortabil în centrul istoric.",
-                "en": "Cozy start in the historical center."
+                "en": "Cozy start in the historical center.",
+                "es": "Inicio acogedor en el centro histórico."
               }
             },
             {
@@ -2439,7 +2615,8 @@
                 "de": "Gotische Architektur im Herzen der Stadt.",
                 "hu": "Gótikus építészet a város szívében.",
                 "ro": "Arhitectură gotică în inima orașului.",
-                "en": "Gothic architecture in the heart of the city."
+                "en": "Gothic architecture in the heart of the city.",
+                "es": "Arquitectura gótica en el corazón de la ciudad."
               }
             },
             {
@@ -2448,7 +2625,8 @@
                 "de": "Ein Spaziergang entlang der alten Mauern.",
                 "hu": "Séta a régi falak mentén.",
                 "ro": "O plimbare de-a lungul vechilor ziduri.",
-                "en": "A walk along the old walls."
+                "en": "A walk along the old walls.",
+                "es": "Un paseo a lo largo de las antiguas murallas."
               }
             },
             {
@@ -2457,7 +2635,8 @@
                 "de": "Mittagessen im Fischerviertel, gut mit dem Bus erreichbar.",
                 "hu": "Ebéd a halásznegyedben, busszal is könnyen elérhető.",
                 "ro": "Prânz în cartierul pescăresc, ușor accesibil cu autobuzul.",
-                "en": "Lunch in the fishing district, easily accessible by bus."
+                "en": "Lunch in the fishing district, easily accessible by bus.",
+                "es": "Almuerzo en el barrio de pescadores, fácilmente accesible en autobús."
               }
             },
             {
@@ -2466,7 +2645,8 @@
                 "de": "Entspannung am Strand vor der Rückfahrt.",
                 "hu": "Pihenés a tengerparton a visszautazás előtt.",
                 "ro": "Relaxare pe plajă înainte de călătoria de întoarcere.",
-                "en": "Relaxation on the beach before the return journey."
+                "en": "Relaxation on the beach before the return journey.",
+                "es": "Relajación en la playa antes del regreso."
               }
             }
           ],
@@ -2628,6 +2808,12 @@
               "Tickets can usually be bought from the driver.",
               "Check the summer schedule, which is often more frequent.",
               "There is a small boat shuttle to France."
+            ],
+            "es": [
+              "El sistema Ekialdebus conecta los lugares más importantes.",
+              "Los billetes suelen comprarse al conductor.",
+              "Consulta el horario de verano, que suele ser más frecuente.",
+              "Hay un pequeño servicio de lanzadera en barco a Francia."
             ]
           }
         },
@@ -2636,7 +2822,8 @@
             "de": "Mit dem Bus erreichen wir die Puerta de Santa María und nutzen das Wartehäuschen als ersten Schutz. Mittags verbringen wir viel Zeit in den wetterfesten Arkaden der Plaza de Gipuzkoa. Am Nachmittag bringt uns der Bus zur Marina, wo wir direkt vor den Bars aussteigen können. Den Abend verbringen wir gemütlich in der Altstadt, bevor wir den letzten Bus zurück nehmen.",
             "hu": "Busszal érkezünk a Puerta de Santa María kapuhoz, a buszvárót használva első menedékként. Délidőben sok időt töltünk a Plaza de Gipuzkoa időjárásálló árkádjai alatt. Délután a busz a Marinához visz minket, ahol közvetlenül a bárok előtt szállhatunk le. Az estét az óvárosban töltjük, mielőtt az utolsó busszal visszaindulnánk.",
             "ro": "Ajungem cu autobuzul la Puerta de Santa María și folosim stația ca prim adăpost. La prânz petrecem mult timp sub arcadele pieței Gipuzkoa. După-amiaza, autobuzul ne duce în Marina, unde putem coborî chiar în fața barurilor. Seara o petrecem în centrul vechi înainte de a lua ultimul autobuz înapoi.",
-            "en": "We reach Puerta de Santa María by bus and use the shelter as our first protection. At noon, we spend plenty of time under the weather-resistant arcades of Plaza de Gipuzkoa. In the afternoon, the bus takes us to the Marina, where we can get off right in front of the bars. We spend the evening cozily in the old town before taking the last bus back."
+            "en": "We reach Puerta de Santa María by bus and use the shelter as our first protection. At noon, we spend plenty of time under the weather-resistant arcades of Plaza de Gipuzkoa. In the afternoon, the bus takes us to the Marina, where we can get off right in front of the bars. We spend the evening cozily in the old town before taking the last bus back.",
+            "es": "Llegamos a la Puerta de Santa María en autobús y usamos el soportal como primer refugio. Al mediodía pasamos mucho tiempo bajo los arcos protegidos de la Plaza de Gipuzkoa. Por la tarde, el autobús nos lleva a la Marina, donde podemos bajarnos justo frente a los bares. Pasamos la noche de forma acogedora en el casco antiguo antes de tomar el último autobús de regreso."
           },
           "stops": [
             {
@@ -2645,7 +2832,8 @@
                 "de": "Die Bushaltestelle ist nur wenige Schritte vom Tor entfernt.",
                 "hu": "A buszmegálló csak pár lépésre van a kaputól.",
                 "ro": "Stația de autobuz este la doar câțiva pași de poartă.",
-                "en": "The bus stop is just a few steps from the gate."
+                "en": "The bus stop is just a few steps from the gate.",
+                "es": "La parada de autobús está a pocos pasos de la puerta."
               }
             },
             {
@@ -2654,7 +2842,8 @@
                 "de": "Ein idealer Ort, um auf den nächsten Bus im Trockenen zu warten.",
                 "hu": "Ideális hely a következő busz megvárására szárazon.",
                 "ro": "Un loc ideal pentru a aștepta următorul autobuz la adăpost.",
-                "en": "An ideal place to wait for the next bus in the dry."
+                "en": "An ideal place to wait for the next bus in the dry.",
+                "es": "Un lugar ideal para esperar el siguiente autobús a cubierto."
               }
             },
             {
@@ -2663,7 +2852,8 @@
                 "de": "Prüfen Sie die Busverbindung zur Marina online.",
                 "hu": "Ellenőrizze online a buszjáratokat a Marinához.",
                 "ro": "Verificați online legăturile de autobuz spre Marina.",
-                "en": "Check the bus connection to the Marina online."
+                "en": "Check the bus connection to the Marina online.",
+                "es": "Consulta la conexión de autobús a la Marina en línea."
               }
             },
             {
@@ -2672,7 +2862,8 @@
                 "de": "Die Mauern bieten Windschutz auf dem Weg zur Haltestelle.",
                 "hu": "A falak szélvédelmet nyújtanak a megálló felé menet.",
                 "ro": "Zidurile oferă protecție contra vântului spre stație.",
-                "en": "The walls provide wind protection on the way to the stop."
+                "en": "The walls provide wind protection on the way to the stop.",
+                "es": "Las murallas protegen del viento en el camino a la parada."
               }
             },
             {
@@ -2681,7 +2872,8 @@
                 "de": "Zentrale Haltestellen ermöglichen schnelles Umsteigen.",
                 "hu": "A központi megállók gyors átszállást tesznek lehetővé.",
                 "ro": "Stațiile centrale permit transferuri rapide.",
-                "en": "Central stops allow for quick transfers."
+                "en": "Central stops allow for quick transfers.",
+                "es": "Paradas centrales permiten transbordos rápidos."
               }
             },
             {
@@ -2690,7 +2882,8 @@
                 "de": "Der Bus hält direkt an der Strandpromenade.",
                 "hu": "A busz közvetlenül a tengerparti sétányon áll meg.",
                 "ro": "Autobuzul oprește chiar pe faleza plajei.",
-                "en": "The bus stops right on the beach promenade."
+                "en": "The bus stops right on the beach promenade.",
+                "es": "El autobús para justo en el paseo de la playa."
               }
             }
           ],
@@ -2718,6 +2911,12 @@
               "Bus stations with glass walls offer the best rain protection.",
               "Have small change or the Mugi card ready.",
               "Trips within the city are short and weather-independent."
+            ],
+            "es": [
+              "Usa la app 'Lurraldebus' para información en tiempo real.",
+              "Las marquesinas con paredes de cristal ofrecen la mejor protección contra la lluvia.",
+              "Ten cambio pequeño o la tarjeta Mugi a mano.",
+              "Los trayectos dentro de la ciudad son cortos y no dependen del tiempo."
             ]
           }
         },
@@ -2726,7 +2925,8 @@
             "de": "An einem frischen Wintermorgen bringt uns der Bus zur historischen Altstadt. Mittags schlendern wir durch die Plaza de Gipuzkoa und wärmen uns in der Kirche auf. Nachmittags nehmen wir den Bus zur Marina, um die tiefstehende Sonne am Hafen zu genießen. Gegen 17:00 Uhr fahren wir zum Strand für den Sonnenuntergang, bevor uns der Transit zurück in die beleuchtete Stadt bringt.",
             "hu": "Friss téli reggelen busszal érkezünk a történelmi óvárosba. Délidőben a Plaza de Gipuzkoa környékén sétálunk, majd a templomban melegszünk fel. Délután a Marinához buszozunk, hogy élvezzük az alacsonyan járó napot a kikötőben. 17:00 körül a strandra megyünk a naplementéért, mielőtt a járat visszavinne a kivilágított városba.",
             "ro": "Într-o dimineață proaspătă de iarnă, luăm autobuzul spre centrul istoric. La prânz ne plimbăm prin Plaza de Gipuzkoa și ne încălzim în biserică. După-amiaza luăm autobuzul spre Marina pentru a ne bucura de soarele jos deasupra portului. În jurul orei 17:00 mergem la plajă pentru apus, înainte ca transportul să ne ducă înapoi în orașul luminat.",
-            "en": "On a fresh winter morning, the bus brings us to the historic old town. At noon, we stroll around Plaza de Gipuzkoa and warm up in the church. In the afternoon, we take the bus to the Marina to enjoy the low-lying sun at the harbor. Around 17:00, we head to the beach for the sunset before transit takes us back to the illuminated city."
+            "en": "On a fresh winter morning, the bus brings us to the historic old town. At noon, we stroll around Plaza de Gipuzkoa and warm up in the church. In the afternoon, we take the bus to the Marina to enjoy the low-lying sun at the harbor. Around 17:00, we head to the beach for the sunset before transit takes us back to the illuminated city.",
+            "es": "En una fresca mañana invernal, el autobús nos lleva al casco histórico. Al mediodía paseamos por la Plaza de Gipuzkoa y nos calentamos en la iglesia. Por la tarde tomamos el autobús a la Marina para disfrutar del sol bajo en el puerto. Sobre las 17:00 nos dirigimos a la playa para el atardecer antes de que el transporte nos devuelva a la ciudad iluminada."
           },
           "stops": [
             {
@@ -2735,7 +2935,8 @@
                 "de": "Busse fahren im Winter regelmäßig alle 20-30 Minuten.",
                 "hu": "A buszok télen is rendszeresen, 20-30 percenként járnak.",
                 "ro": "Autobuzele circulă regulat iarna, la fiecare 20-30 minute.",
-                "en": "Buses run regularly in winter every 20-30 minutes."
+                "en": "Buses run regularly in winter every 20-30 minutes.",
+                "es": "En invierno los autobuses pasan regularmente cada 20-30 minutos."
               }
             },
             {
@@ -2744,7 +2945,8 @@
                 "de": "Kauf eines Tickets im Bus ist problemlos möglich.",
                 "hu": "A jegyvásárlás a buszon zökkenőmentes.",
                 "ro": "Cumpărarea biletului în autobuz este posibilă fără probleme.",
-                "en": "Buying a ticket on the bus is easily possible."
+                "en": "Buying a ticket on the bus is easily possible.",
+                "es": "Comprar el billete en el autobús es fácil."
               }
             },
             {
@@ -2753,7 +2955,8 @@
                 "de": "Die Wärme im Bus ist nach dem Kirchenbesuch angenehm.",
                 "hu": "A busz melege kellemes a templomlátogatás után.",
                 "ro": "Căldura din autobuz este plăcută după vizitarea bisericii.",
-                "en": "The warmth in the bus is pleasant after the church visit."
+                "en": "The warmth in the bus is pleasant after the church visit.",
+                "es": "El calor dentro del autobús es agradable tras la visita a la iglesia."
               }
             },
             {
@@ -2762,7 +2965,8 @@
                 "de": "Achten Sie auf die Fahrpläne an den Haltestellen.",
                 "hu": "Figyelje a menetrendet a megállókban.",
                 "ro": "Urmăriți orarul afișat în stații.",
-                "en": "Pay attention to the timetables at the stops."
+                "en": "Pay attention to the timetables at the stops.",
+                "es": "Presta atención a los horarios en las paradas."
               }
             },
             {
@@ -2771,7 +2975,8 @@
                 "de": "Die Marina ist gut mit dem Stadtbus angebunden.",
                 "hu": "A Marina negyed jól megközelíthető a helyi busszal.",
                 "ro": "Zona Marina este bine conectată cu autobuzul urban.",
-                "en": "The Marina is well connected with the city bus."
+                "en": "The Marina is well connected with the city bus.",
+                "es": "La Marina está bien conectada con el bus urbano."
               }
             },
             {
@@ -2780,7 +2985,8 @@
                 "de": "Letzte Rückfahrt vor der Dunkelheit (17:00 Uhr) planen.",
                 "hu": "Tervezze az utolsó visszautat sötétedés (17:00) előttre.",
                 "ro": "Planificați ultima întoarcere înainte de întuneric (ora 17:00).",
-                "en": "Plan the last return trip before darkness (17:00)."
+                "en": "Plan the last return trip before darkness (17:00).",
+                "es": "Planifica el último viaje de vuelta antes de que oscurezca (17:00)."
               }
             }
           ],
@@ -2808,6 +3014,12 @@
               "Avoid long waits by using the online timetable info.",
               "Transit saves energy for sightseeing on foot.",
               "Watch out for changed winter schedules on weekends."
+            ],
+            "es": [
+              "Los autobuses están bien calefactados en invierno.",
+              "Evita largas esperas usando la información de horarios en línea.",
+              "El transporte público ahorra energía para visitar a pie.",
+              "Atento a los cambios de horarios invernales durante los fines de semana."
             ]
           }
         }
@@ -2822,19 +3034,22 @@
       "de": "Baskisch (Euskara) und Spanisch sind gleichberechtigt, Schilder zweisprachig. Ein 'Kaixo' beim Eintreten ist Gold wert. Englisch funktioniert in der Marina und Altstadt gut, Französisch sogar besser - die Grenze ist 500 Meter weit.",
       "hu": "A baszk (euskara) és a spanyol egyenrangú, a táblák kétnyelvűek. A 'Kaixo' (szia) köszönés aranyat ér. Angol megy a marinában és óvárosban, sőt a francia még jobban, a francia határ 500 méterre van.",
       "ro": "Bască (euskara) și spaniolă au statut egal, indicatoarele sunt bilingve. Un 'Kaixo' la intrare valorează aur. Engleza merge bine în marina și centrul vechi, franceza chiar mai bine, granița franceză e la 500 m.",
-      "en": "Basque (Euskara) and Spanish share equal status, signs are bilingual. A simple 'Kaixo' on entering goes a long way. English is solid in the marina and old town; French is even better given the border is 500 m away."
+      "en": "Basque (Euskara) and Spanish share equal status, signs are bilingual. A simple 'Kaixo' on entering goes a long way. English is solid in the marina and old town; French is even better given the border is 500 m away.",
+      "es": "Euskera (euskara) y español tienen la misma categoría, las señales son bilingües. Un sencillo 'Kaixo' al entrar causa buena impresión. El inglés se maneja bien en la marina y el casco antiguo; el francés aún mejor dado que la frontera está a 500 m."
     },
     "best_time_to_visit": {
       "de": "Mai bis Oktober, im September am angenehmsten mit 23 Grad. 8. September Alarde - die historische Parade in Tracht, sehr emotional und voll. Im Sommer Tapas im Stadtteil La Marina, jeden Abend volle Gassen.",
       "hu": "Május-október, szeptemberben a legkellemesebb 23 fokkal. Szeptember 8-án az Alarde történelmi felvonulás népviseletben, érzelmes és zsúfolt. Nyáron a La Marina negyedben pintxo-zás, minden este telezsúfolt utcák.",
       "ro": "Mai-octombrie, cel mai plăcut în septembrie cu 23 grade. Pe 8 septembrie are loc Alarde, parada istorică în port tradițional, emoționantă și aglomerată. Vara, pintxo în cartierul La Marina, străzile pline seară de seară.",
-      "en": "May to October, with September the sweet spot at around 23C. September 8 is Alarde, the costumed historical parade - emotional and packed. Summer evenings, head to La Marina district for pintxos and crowded lanes."
+      "en": "May to October, with September the sweet spot at around 23C. September 8 is Alarde, the costumed historical parade - emotional and packed. Summer evenings, head to La Marina district for pintxos and crowded lanes.",
+      "es": "De mayo a octubre, con septiembre como punto óptimo alrededor de 23 °C. El 8 de septiembre es el Alarde, el desfile histórico con trajes —emocionante y concurrido. Las noches de verano, dirígete al barrio de La Marina para pintxos y calles llenas."
     },
     "neighborhood_warnings": {
       "de": "Sehr sicher, baskische Städte sind generell ruhig. Während Alarde-Parade hitzige Stimmung wegen Frauen-Teilnahme-Streit, aber für Touristen ungefährlich. Strand und Marina ohne Probleme, aber Parkplatz in der Altstadt fast unmöglich im Sommer.",
       "hu": "Nagyon biztonságos, a baszk városok általában csendesek. Az Alarde-felvonulás körül feszült a hangulat (nők részvétele vita), de turistákra nem veszélyes. Strand és marina rendben, csak a parkolás nyáron szinte lehetetlen.",
       "ro": "Foarte sigur, orașele basce sunt în general liniștite. În jurul paradei Alarde e tensiune (dispută privind participarea femeilor), dar fără pericol pentru turiști. Plaja și marina sunt OK, doar parcarea în centrul vechi e aproape imposibilă vara.",
-      "en": "Very safe - Basque towns are generally calm. Around Alarde tensions flare over women's participation in the parade, but it's never aimed at tourists. Beach and marina are fine, just parking in the old town is near-impossible in summer."
+      "en": "Very safe - Basque towns are generally calm. Around Alarde tensions flare over women's participation in the parade, but it's never aimed at tourists. Beach and marina are fine, just parking in the old town is near-impossible in summer.",
+      "es": "Muy seguro: las localidades vascas suelen ser tranquilas. En torno al Alarde surgen tensiones por la participación de mujeres en el desfile, pero nunca van dirigidas a turistas. Playa y marina están bien; aparcar en el casco antiguo es casi imposible en verano."
     }
   }
 }

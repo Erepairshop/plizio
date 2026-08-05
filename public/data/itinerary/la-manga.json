@@ -21,7 +21,8 @@
             "de": "Faro de Cabo de Palos",
             "hu": "Cabo de Palos világítótorony",
             "ro": "Farul Cabo de Palos",
-            "en": "Cabo de Palos Lighthouse"
+            "en": "Cabo de Palos Lighthouse",
+            "es": "Faro de Cabo de Palos"
           },
           "coords": [
             -0.6895,
@@ -36,7 +37,8 @@
             "de": "Erbaut auf einem alten Wachturm.",
             "hu": "Egy régi őrtorony helyére épült.",
             "ro": "Construit pe un vechi turn de veghe.",
-            "en": "Built on an old watchtower."
+            "en": "Built on an old watchtower.",
+            "es": "Construido sobre una antigua torre de vigilancia."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Playa de los Alemanes",
             "hu": "Playa de los Alemanes",
             "ro": "Playa de los Alemanes",
-            "en": "Alemanes Beach"
+            "en": "Alemanes Beach",
+            "es": "Playa de los Alemanes"
           },
           "coords": [
             -0.6955,
@@ -59,7 +62,8 @@
             "de": "Kristallklares Wasser zum Schnorcheln.",
             "hu": "Kristálytiszta víz búvárkodáshoz.",
             "ro": "Apă cristalină pentru snorkeling.",
-            "en": "Crystal clear water for snorkeling."
+            "en": "Crystal clear water for snorkeling.",
+            "es": "Agua cristalina ideal para hacer esnórquel."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Mar Menor",
             "hu": "Mar Menor",
             "ro": "Mar Menor",
-            "en": "Mar Menor"
+            "en": "Mar Menor",
+            "es": "Mar Menor"
           },
           "coords": [
             -0.7125,
@@ -82,7 +87,8 @@
             "de": "Das Wasser ist hier sehr warm und ruhig.",
             "hu": "A víz itt nagyon meleg és nyugodt.",
             "ro": "Apa este foarte caldă și liniștită aici.",
-            "en": "The water here is very warm and calm."
+            "en": "The water here is very warm and calm.",
+            "es": "El agua aquí es muy cálida y calma."
           }
         }
       ],
@@ -90,7 +96,8 @@
         "de": "Wir beginnen den Tag am ikonischen Leuchtturm von Cabo de Palos mit weitem Blick über das Mittelmeer. Ein kurzer Spaziergang führt uns zu den nahegelegenen Buchten zum Schwimmen. Den Mittag verbringen wir im Fischerdorf, bevor wir am späten Nachmittag die ruhige Seite des Mar Menor genießen.",
         "hu": "A napot a Cabo de Palos ikonikus világítótornyánál kezdjük, ahonnan belátni az egész földközi-tengeri partvidéket. Rövid séta után elérjük a közeli öblöket egy frissítő csobbanáshoz. A délutánt a halászfalu kikötőjében töltjük, majd a Mar Menor nyugodt partján élvezzük a sós levegőt.",
         "ro": "Începem ziua la farul iconic din Cabo de Palos, cu o vedere largă asupra Mediteranei. O scurtă plimbare ne duce la golfurile din apropiere pentru înot. Prânzul îl petrecem în satul de pescari, înainte ca după-amiaza târziu să ne bucurăm de partea liniștită a Mar Menor.",
-        "en": "We start the day at the iconic Cabo de Palos lighthouse with a broad view over the Mediterranean. A short walk leads us to nearby coves for a swim. We spend the afternoon in the fishing village before enjoying the calm side of Mar Menor in the late afternoon."
+        "en": "We start the day at the iconic Cabo de Palos lighthouse with a broad view over the Mediterranean. A short walk leads us to nearby coves for a swim. We spend the afternoon in the fishing village before enjoying the calm side of Mar Menor in the late afternoon.",
+        "es": "Empezamos el día en el icónico faro de Cabo de Palos con una amplia vista sobre el Mediterráneo. Una corta caminata nos lleva a calas cercanas para darnos un baño. Pasamos la tarde en el pueblo pesquero antes de disfrutar del lado tranquilo del Mar Menor al final de la tarde."
       },
       "gastro_picks": {
         "de": [
@@ -190,6 +197,10 @@
         "en": [
           "Sun protection is essential here.",
           "Water shoes recommended for the rocky coves."
+        ],
+        "es": [
+          "La protección solar es esencial aquí.",
+          "Se recomiendan escarpines para las calas rocosas."
         ]
       },
       "variants": {
@@ -198,7 +209,8 @@
             "de": "Wir beginnen den Tag am ikonischen Leuchtturm von Cabo de Palos mit weitem Blick über das Mittelmeer. Ein kurzer Spaziergang führt uns zu den nahegelegenen Buchten zum Schwimmen. Den Mittag verbringen wir im Fischerdorf, bevor wir am späten Nachmittag die ruhige Seite des Mar Menor genießen.",
             "hu": "A napot a Cabo de Palos ikonikus világítótornyánál kezdjük, ahonnan belátni az egész földközi-tengeri partvidéket. Rövid séta után elérjük a közeli öblöket egy frissítő csobbanáshoz. A délutánt a halászfalu kikötőjében töltjük, majd a Mar Menor nyugodt partján élvezzük a sós levegőt.",
             "ro": "Începem ziua la farul iconic din Cabo de Palos, cu o vedere largă asupra Mediteranei. O scurtă plimbare ne duce la golfurile din apropiere pentru înot. Prânzul îl petrecem în satul de pescari, înainte ca după-amiaza târziu să ne bucurăm de partea liniștită a Mar Menor.",
-            "en": "We start the day at the iconic Cabo de Palos lighthouse with a broad view over the Mediterranean. A short walk leads us to nearby coves for a swim. We spend the afternoon in the fishing village before enjoying the calm side of Mar Menor in the late afternoon."
+            "en": "We start the day at the iconic Cabo de Palos lighthouse with a broad view over the Mediterranean. A short walk leads us to nearby coves for a swim. We spend the afternoon in the fishing village before enjoying the calm side of Mar Menor in the late afternoon.",
+            "es": "Empezamos el día en el icónico faro de Cabo de Palos con una amplia vista sobre el Mediterráneo. Una corta caminata nos lleva a calas cercanas para darnos un baño. Pasamos la tarde en el pueblo pesquero antes de disfrutar del lado tranquilo del Mar Menor al final de la tarde."
           },
           "stops": [
             {
@@ -206,13 +218,15 @@
                 "de": "Faro de Cabo de Palos",
                 "hu": "Cabo de Palos világítótorony",
                 "ro": "Farul Cabo de Palos",
-                "en": "Cabo de Palos Lighthouse"
+                "en": "Cabo de Palos Lighthouse",
+                "es": "Faro de Cabo de Palos"
               },
               "tip_5lang": {
                 "de": "Erbaut auf einem alten Wachturm.",
                 "hu": "Egy régi őrtorony helyére épült.",
                 "ro": "Construit pe un vechi turn de veghe.",
-                "en": "Built on an old watchtower."
+                "en": "Built on an old watchtower.",
+                "es": "Construido sobre una antigua torre de vigilancia."
               }
             },
             {
@@ -220,13 +234,15 @@
                 "de": "Playa de los Alemanes",
                 "hu": "Playa de los Alemanes",
                 "ro": "Playa de los Alemanes",
-                "en": "Alemanes Beach"
+                "en": "Alemanes Beach",
+                "es": "Playa de los Alemanes"
               },
               "tip_5lang": {
                 "de": "Kristallklares Wasser zum Schnorcheln.",
                 "hu": "Kristálytiszta víz búvárkodáshoz.",
                 "ro": "Apă cristalină pentru snorkeling.",
-                "en": "Crystal clear water for snorkeling."
+                "en": "Crystal clear water for snorkeling.",
+                "es": "Agua cristalina ideal para hacer esnórquel."
               }
             },
             {
@@ -234,13 +250,15 @@
                 "de": "Mar Menor",
                 "hu": "Mar Menor",
                 "ro": "Mar Menor",
-                "en": "Mar Menor"
+                "en": "Mar Menor",
+                "es": "Mar Menor"
               },
               "tip_5lang": {
                 "de": "Das Wasser ist hier sehr warm und ruhig.",
                 "hu": "A víz itt nagyon meleg és nyugodt.",
                 "ro": "Apa este foarte caldă și liniștită aici.",
-                "en": "The water here is very warm and calm."
+                "en": "The water here is very warm and calm.",
+                "es": "El agua aquí es muy cálida y calma."
               }
             }
           ],
@@ -342,6 +360,10 @@
             "en": [
               "Sun protection is essential here.",
               "Water shoes recommended for the rocky coves."
+            ],
+            "es": [
+              "La protección solar es esencial aquí.",
+              "Se recomiendan escarpines para las calas rocosas."
             ]
           }
         },
@@ -350,7 +372,8 @@
             "de": "Beginnen Sie Ihren Tag am Leuchtturm von Cabo de Palos, wo die Gischt bei Regen eine dramatische Atmosphäre schafft. Suchen Sie Schutz in den kleinen Cafés am Hafen, während Sie den Blick auf das stürmische Meer genießen.\n\nMittags bietet die Bucht von Alemanes trotz des Regens einen friedlichen Anblick. Die Farben des Wassers verändern sich unter dem grauen Himmel faszinierend.\n\nAm Nachmittag spazieren Sie entlang des Mar Menor. Das flache Wasser bleibt ruhig, und der Regen erzeugt ein sanftes Rauschen auf der Oberfläche.\n\nAbends ziehen Sie sich in eines der gemütlichen Restaurants am Strip zurück. Das Licht der Straßenlaternen spiegelt sich wunderschön in den Pfützen auf dem Asphalt.",
             "hu": "Kezdje a napot a Cabo de Palos világítótoronynál, ahol az esőben felcsapó hullámok drámai látványt nyújtanak. Keressen menedéket a kikötő apró kávézóiban, miközben a viharos tengert figyeli.\n\nDélben az Alemanes strand a csapadék ellenére is békés arcát mutatja. A víz színei izgalmasan változnak a szürke égbolt alatt.\n\nDélután tegyen egy sétát a Mar Menor partján. A sekély lagúna vize nyugodt marad, az esőcseppek pedig lágyan kopognak a felszínen.\n\nEste vonuljon be a földnyelv egyik hangulatos éttermébe. Az utcai lámpák fényei gyönyörűen tükröződnek az aszfalton kialakuló tócsákban.",
             "ro": "Începeți ziua la farul Cabo de Palos, unde valurile care se sparg pe ploaie creează o atmosferă dramatică. Adăpostiți-vă în micile cafenele din port în timp ce priviți marea agitată.\n\nLa prânz, plaja Alemanes oferă o priveliște liniștită în ciuda precipitațiilor. Culorile apei se schimbă fascinant sub cerul gri.\n\nDupă-amiaza, plimbați-vă de-a lungul Mar Menor. Apa puțin adâncă rămâne calmă, iar ploaia creează un sunet blând la suprafață.\n\nSeara, retrageți-vă într-unul dintre restaurantele primitoare de pe fâșie. Luminile stradale se reflectă superb în bălțile de pe asfalt.",
-            "en": "Start your day at the Cabo de Palos Lighthouse, where the crashing waves in the rain create a dramatic atmosphere. Seek shelter in the small cafes by the harbor while watching the stormy sea.\n\nAt noon, Alemanes Beach offers a peaceful sight despite the rain. The colors of the water change fascinatingly under the gray sky.\n\nIn the afternoon, take a stroll along the Mar Menor. The shallow lagoon remains calm, and the rain creates a gentle patter on the surface.\n\nIn the evening, retreat to one of the cozy restaurants on the strip. The street lights reflect beautifully in the puddles on the asphalt."
+            "en": "Start your day at the Cabo de Palos Lighthouse, where the crashing waves in the rain create a dramatic atmosphere. Seek shelter in the small cafes by the harbor while watching the stormy sea.\n\nAt noon, Alemanes Beach offers a peaceful sight despite the rain. The colors of the water change fascinatingly under the gray sky.\n\nIn the afternoon, take a stroll along the Mar Menor. The shallow lagoon remains calm, and the rain creates a gentle patter on the surface.\n\nIn the evening, retreat to one of the cozy restaurants on the strip. The street lights reflect beautifully in the puddles on the asphalt.",
+            "es": "Comienza el día en el Faro de Cabo de Palos, donde las olas chocando bajo la lluvia crean una atmósfera dramática. Busca refugio en las pequeñas cafeterías del puerto mientras observas el mar embravecido.\n\nAl mediodía, la playa de los Alemanes ofrece una vista serena pese a la lluvia. Los colores del agua cambian fascinantemente bajo el cielo gris.\n\nPor la tarde, da un paseo por el Mar Menor. La laguna poco profunda permanece calmada y la lluvia crea un suave repiqueteo en la superficie.\n\nPor la noche, retírate a uno de los restaurantes acogedores del paseo. Las farolas se reflejan hermosamente en los charcos del asfalto."
           },
           "stops": [
             {
@@ -359,7 +382,8 @@
                 "de": "Der felsige Pfad zum Leuchtturm kann bei Nässe rutschig sein; tragen Sie feste Schuhe.",
                 "hu": "A világítótoronyhoz vezető sziklás ösvény esőben csúszós lehet; viseljen tapadós talpú cipőt.",
                 "ro": "Poteca stâncoasă spre far poate fi alunecoasă pe ploaie; purtați încălțăminte cu aderență.",
-                "en": "The rocky path to the lighthouse can be slippery when wet; wear shoes with good grip."
+                "en": "The rocky path to the lighthouse can be slippery when wet; wear shoes with good grip.",
+                "es": "El camino rocoso al faro puede resbalar con la lluvia; calza zapatos con buena suela."
               }
             },
             {
@@ -368,7 +392,8 @@
                 "de": "Genießen Sie die leere Küste unter einem stabilen Regenschirm; der Sand ist hier recht fest.",
                 "hu": "Élvezze az üres partot egy stabil esernyő alatt; a homok itt elég tömör marad.",
                 "ro": "Bucurați-vă de țărmul pustiu sub o umbrelă solidă; nisipul este destul de ferm aici.",
-                "en": "Enjoy the empty shore under a sturdy umbrella; the sand stays quite firm here."
+                "en": "Enjoy the empty shore under a sturdy umbrella; the sand stays quite firm here.",
+                "es": "Disfruta de la orilla vacía bajo un paraguas resistente; la arena aquí se mantiene bastante compacta."
               }
             },
             {
@@ -377,7 +402,8 @@
                 "de": "Die Uferpromenade bietet einige überdachte Pavillons, um den Regen über der Lagune zu beobachten.",
                 "hu": "A parti sétányon több fedett pavilon is található, ahonnan figyelheti az esőt a lagúna felett.",
                 "ro": "Promenada de pe mal oferă câteva pavilioane acoperite pentru a observa ploaia peste lagună.",
-                "en": "The shore promenade offers several covered pavilions to watch the rain over the lagoon."
+                "en": "The shore promenade offers several covered pavilions to watch the rain over the lagoon.",
+                "es": "El paseo marítimo ofrece varios pabellones cubiertos para observar la lluvia sobre la laguna."
               }
             }
           ],
@@ -405,6 +431,12 @@
               "The cafes at Cabo de Palos harbor are ideal retreats during heavy showers.",
               "Avoid walking directly at the water's edge, as the tide can rise higher during storms.",
               "Use the local transit app if the rain becomes too intense for the walk back."
+            ],
+            "es": [
+              "Lleva un chubasquero cortavientos, ya que el viento en la lengua de tierra suele ser bastante fuerte.",
+              "Las cafeterías del puerto de Cabo de Palos son refugios ideales durante los chaparrones fuertes.",
+              "Evita caminar justo en el borde del agua, ya que la marea puede subir más durante las tormentas.",
+              "Usa la app de transporte local si la lluvia se intensifica y te resulta difícil volver caminando."
             ]
           }
         },
@@ -413,7 +445,8 @@
             "de": "Die Wintermorgene in La Manga sind erfrischend klar. Am Leuchtturm von Cabo de Palos genießen Sie die Ruhe fernab der Sommermassen und beobachten die Sonne, die tief über dem Horizont steht.\n\nMittags ist die Luft am Alemanes Strand mild, aber die kühle Meeresbrise erinnert an die Jahreszeit. Es ist die perfekte Zeit für eine einsame Meditation am Ufer.\n\nAm Nachmittag taucht das sanfte Winterlicht das Mar Menor in goldene Farbtöne. Da die Sonne bereits gegen 17:30 Uhr untergeht, sollten Sie diesen Moment am Westufer verbringen.\n\nDen Abend lassen Sie bei einem warmen Getränk in einer Bar mit Blick auf die Lagune ausklingen. Die kühlen Nächte laden dazu ein, die beleuchtete Skyline von La Manga aus der Ferne zu betrachten.",
             "hu": "A téli reggelek La Mangán frissítően tiszták. A Cabo de Palos világítótoronynál élvezheti a nyári tömeg utáni csendet, miközben figyeli az alacsonyan járó napot a horizont felett.\n\nDélben az Alemanes strandon a levegő enyhe, de a hűvös tengeri szellő emlékeztet az évszakra. Ez a tökéletes időpont egy magányos meditációra a parton.\n\nDélután a lágy téli fény aranyszínűre festi a Mar Menort. Mivel a nap már 17:30 körül nyugszik, érdemes ezt a pillanatot a nyugati parton tölteni.\n\nAz estét egy forró ital mellett fejezze be egy lagúnára néző bárban. A hűvös éjszakák ideálisak arra, hogy távolról csodálja La Manga kivilágított sziluettjét.",
             "ro": "Diminețile de iarnă în La Manga sunt revigorant de clare. La farul Cabo de Palos vă bucurați de liniștea de după aglomerația verii, observând soarele care stă jos la orizont.\n\nLa prânz, aerul pe plaja Alemanes este blând, dar briza răcoroasă a mării amintește de sezon. Este momentul perfect pentru o meditație solitară pe țărm.\n\nDupă-amiaza, lumina caldă de iarnă pictează Mar Menor în nuanțe aurii. Deoarece soarele apune deja în jur de 17:30, ar trebui să petreceți acest moment pe malul vestic.\n\nÎncheiați seara cu o băutură caldă într-un bar cu vedere la lagună. Nopțile răcoroase vă invită să admirați de la distanță silueta iluminată a La Manga.",
-            "en": "Winter mornings in La Manga are refreshingly clear. At the Cabo de Palos Lighthouse, enjoy the silence away from summer crowds while watching the low sun over the horizon.\n\nAt noon, the air at Alemanes Beach is mild, but the cool sea breeze reminds you of the season. It's the perfect time for a solitary meditation by the shore.\n\nIn the afternoon, the soft winter light bathes the Mar Menor in golden hues. Since the sun sets around 17:30, you should spend this moment on the western shore.\n\nEnd the evening with a warm drink in a bar overlooking the lagoon. The cool nights invite you to admire the illuminated skyline of La Manga from a distance."
+            "en": "Winter mornings in La Manga are refreshingly clear. At the Cabo de Palos Lighthouse, enjoy the silence away from summer crowds while watching the low sun over the horizon.\n\nAt noon, the air at Alemanes Beach is mild, but the cool sea breeze reminds you of the season. It's the perfect time for a solitary meditation by the shore.\n\nIn the afternoon, the soft winter light bathes the Mar Menor in golden hues. Since the sun sets around 17:30, you should spend this moment on the western shore.\n\nEnd the evening with a warm drink in a bar overlooking the lagoon. The cool nights invite you to admire the illuminated skyline of La Manga from a distance.",
+            "es": "Las mañanas de invierno en La Manga son refrescantemente claras. En el faro de Cabo de Palos, disfruta del silencio alejado de las multitudes veraniegas mientras observas el sol bajo sobre el horizonte.\n\nAl mediodía, el aire en la playa de los Alemanes es templado, pero la brisa fresca del mar recuerda la estación. Es el momento perfecto para una meditación solitaria en la orilla.\n\nPor la tarde, la suave luz invernal baña el Mar Menor con tonos dorados. Como el sol se pone sobre las 17:30, deberías situarte en la orilla oeste para disfrutarlo.\n\nTermina la velada con una bebida caliente en un bar con vistas a la laguna. Las noches frescas invitan a admirar el skyline iluminado de La Manga desde la distancia."
           },
           "stops": [
             {
@@ -422,7 +455,8 @@
                 "de": "Bringen Sie ein Fernglas mit; die klare Winterluft ermöglicht weite Sicht bis zu den Hormigas-Inseln.",
                 "hu": "Hozzon távcsövet; a tiszta téli levegőben messzire ellátni egészen a Hormigas-szigetekig.",
                 "ro": "Aduceți un binoclu; aerul clar de iarnă permite o vizibilitate mare până la insulele Hormigas.",
-                "en": "Bring binoculars; the clear winter air allows for great visibility all the way to the Hormigas Islands."
+                "en": "Bring binoculars; the clear winter air allows for great visibility all the way to the Hormigas Islands.",
+                "es": "Lleva prismáticos; el aire invernal permite una gran visibilidad hasta las Islas Hormigas."
               }
             },
             {
@@ -431,7 +465,8 @@
                 "de": "Ein Picknick im Sand ist jetzt angenehm, da keine Insekten stören und die Sonne nicht zu heiß brennt.",
                 "hu": "A homokban való piknikezés most kellemes, mert nincsenek rovarok és a nap sem éget túl erősen.",
                 "ro": "Un picnic în nisip este plăcut acum, deoarece nu sunt insecte și soarele nu arde prea tare.",
-                "en": "A picnic in the sand is pleasant now, as there are no insects and the sun isn't burning too hot."
+                "en": "A picnic in the sand is pleasant now, as there are no insects and the sun isn't burning too hot.",
+                "es": "Un picnic en la arena es agradable ahora, ya que no hay insectos y el sol no quema."
               }
             },
             {
@@ -440,7 +475,8 @@
                 "de": "Suchen Sie sich einen Platz auf der Westseite, um den spektakulären Wintersonnenuntergang zu erleben.",
                 "hu": "Keressen egy helyet a nyugati oldalon, hogy átélhesse a látványos téli naplementét.",
                 "ro": "Căutați un loc pe partea de vest pentru a experimenta spectaculosul apus de iarnă.",
-                "en": "Find a spot on the western side to experience the spectacular winter sunset."
+                "en": "Find a spot on the western side to experience the spectacular winter sunset.",
+                "es": "Busca un lugar en el lado oeste para ver el espectacular atardecer invernal."
               }
             }
           ],
@@ -468,6 +504,12 @@
               "Many seasonal shops are closed; look for places where the locals go.",
               "UV radiation is still present in winter; light sun protection for your face is advised.",
               "Winter sunsets are often much more colorful than summer ones."
+            ],
+            "es": [
+              "Las temperaturas son a menudo suaves de día, pero bajan mucho en cuanto se pone el sol.",
+              "Muchas tiendas estacionales están cerradas; busca los locales frecuentados por residentes.",
+              "La radiación UV sigue presente en invierno; se aconseja una protección solar ligera en la cara.",
+              "Los atardeceres de invierno suelen ser mucho más coloridos que los de verano."
             ]
           }
         }
@@ -486,7 +528,8 @@
             "de": "Cala del Pino",
             "hu": "Cala del Pino",
             "ro": "Cala del Pino",
-            "en": "Cala del Pino"
+            "en": "Cala del Pino",
+            "es": "Cala del Pino"
           },
           "coords": [
             -0.7255,
@@ -501,7 +544,8 @@
             "de": "Ein kleiner Wald direkt am Strand.",
             "hu": "Egy kis fenyőerdő közvetlenül a parton.",
             "ro": "O mică pădure chiar pe plajă.",
-            "en": "A small pine forest right on the beach."
+            "en": "A small pine forest right on the beach.",
+            "es": "Un pequeño pinar justo en la playa."
           }
         },
         {
@@ -509,7 +553,8 @@
             "de": "Puerto Tomás Maestre",
             "hu": "Puerto Tomás Maestre",
             "ro": "Puerto Tomás Maestre",
-            "en": "Tomas Maestre Marina"
+            "en": "Tomas Maestre Marina",
+            "es": "Puerto Tomás Maestre"
           },
           "coords": [
             -0.7355,
@@ -524,7 +569,8 @@
             "de": "Größter Yachthafen der Gegend.",
             "hu": "A környék legnagyobb jachtkikötője.",
             "ro": "Cel mai mare port de iahturi din zonă.",
-            "en": "Largest marina in the area."
+            "en": "Largest marina in the area.",
+            "es": "El mayor puerto deportivo de la zona."
           }
         },
         {
@@ -532,7 +578,8 @@
             "de": "Puente del Estacio",
             "hu": "Puente del Estacio",
             "ro": "Puente del Estacio",
-            "en": "Estacio Bridge"
+            "en": "Estacio Bridge",
+            "es": "Puente Estacio"
           },
           "coords": [
             -0.7335,
@@ -547,7 +594,8 @@
             "de": "Hebefunktion für Segelschiffe beobachten.",
             "hu": "Figyeld meg a vitorlásoknak felnyíló hidat.",
             "ro": "Observați podul care se ridică pentru veliere.",
-            "en": "Watch the bridge lift for sailing ships."
+            "en": "Watch the bridge lift for sailing ships.",
+            "es": "Observa cómo se levanta el puente para los veleros."
           }
         }
       ],
@@ -555,7 +603,8 @@
         "de": "Wir radeln die gesamte Landzunge entlang, von den Pinienwäldern im Süden bis zum großen Yachthafen im Norden. Die flache Strecke bietet ständigen Blick auf das Mar Menor auf der einen und das Mittelmeer auf der anderen Seite. Ein Highlight ist das Überqueren der Estacio-Zugbrücke.",
         "hu": "Végigtekerünk a teljes földnyelven, a déli fenyvesektől az északi nagy jachtkikötőig. A sík terep folyamatos kilátást nyújt egyik oldalon a Mar Menorra, a másikon a Földközi-tengerre. Kiemelt pont az Estacio felnyitható hídján való átkelés.",
         "ro": "Pedalăm de-a lungul întregii fâșii de pământ, de la pădurile de pini din sud până la marele port de iahturi din nord. Traseul plat oferă vedere constantă spre Mar Menor pe o parte și Mediterana pe cealaltă. Un punct culminant este traversarea podului basculant Estacio.",
-        "en": "We cycle along the entire spit, from the pine forests in the south to the large marina in the north. The flat route offers constant views of Mar Menor on one side and the Mediterranean on the other. A highlight is crossing the Estacio drawbridge."
+        "en": "We cycle along the entire spit, from the pine forests in the south to the large marina in the north. The flat route offers constant views of Mar Menor on one side and the Mediterranean on the other. A highlight is crossing the Estacio drawbridge.",
+        "es": "Recorremos en bici toda la manga, desde los pinares del sur hasta el gran puerto del norte. La ruta llana ofrece vistas constantes del Mar Menor por un lado y del Mediterráneo por el otro. Un punto destacado es cruzar el puente levadizo del Estacio."
       },
       "gastro_picks": {
         "de": [
@@ -655,6 +704,10 @@
         "en": [
           "Avoid the main road during peak hours.",
           "Use the cycle paths on the lagoon side."
+        ],
+        "es": [
+          "Evita la carretera principal en horas punta.",
+          "Usa los carriles bici en el lado de la laguna."
         ]
       },
       "variants": {
@@ -663,7 +716,8 @@
             "de": "Wir radeln die gesamte Landzunge entlang, von den Pinienwäldern im Süden bis zum großen Yachthafen im Norden. Die flache Strecke bietet ständigen Blick auf das Mar Menor auf der einen und das Mittelmeer auf der anderen Seite. Ein Highlight ist das Überqueren der Estacio-Zugbrücke.",
             "hu": "Végigtekerünk a teljes földnyelven, a déli fenyvesektől az északi nagy jachtkikötőig. A sík terep folyamatos kilátást nyújt egyik oldalon a Mar Menorra, a másikon a Földközi-tengerre. Kiemelt pont az Estacio felnyitható hídján való átkelés.",
             "ro": "Pedalăm de-a lungul întregii fâșii de pământ, de la pădurile de pini din sud până la marele port de iahturi din nord. Traseul plat oferă vedere constantă spre Mar Menor pe o parte și Mediterana pe cealaltă. Un punct culminant este traversarea podului basculant Estacio.",
-            "en": "We cycle along the entire spit, from the pine forests in the south to the large marina in the north. The flat route offers constant views of Mar Menor on one side and the Mediterranean on the other. A highlight is crossing the Estacio drawbridge."
+            "en": "We cycle along the entire spit, from the pine forests in the south to the large marina in the north. The flat route offers constant views of Mar Menor on one side and the Mediterranean on the other. A highlight is crossing the Estacio drawbridge.",
+            "es": "Recorremos en bici toda la manga, desde los pinares del sur hasta el gran puerto del norte. La ruta llana ofrece vistas constantes del Mar Menor por un lado y del Mediterráneo por el otro. Un punto destacado es cruzar el puente levadizo del Estacio."
           },
           "stops": [
             {
@@ -671,13 +725,15 @@
                 "de": "Cala del Pino",
                 "hu": "Cala del Pino",
                 "ro": "Cala del Pino",
-                "en": "Cala del Pino"
+                "en": "Cala del Pino",
+                "es": "Cala del Pino"
               },
               "tip_5lang": {
                 "de": "Ein kleiner Wald direkt am Strand.",
                 "hu": "Egy kis fenyőerdő közvetlenül a parton.",
                 "ro": "O mică pădure chiar pe plajă.",
-                "en": "A small pine forest right on the beach."
+                "en": "A small pine forest right on the beach.",
+                "es": "Un pequeño pinar justo en la playa."
               }
             },
             {
@@ -685,13 +741,15 @@
                 "de": "Puerto Tomás Maestre",
                 "hu": "Puerto Tomás Maestre",
                 "ro": "Puerto Tomás Maestre",
-                "en": "Tomas Maestre Marina"
+                "en": "Tomas Maestre Marina",
+                "es": "Puerto Tomás Maestre"
               },
               "tip_5lang": {
                 "de": "Größter Yachthafen der Gegend.",
                 "hu": "A környék legnagyobb jachtkikötője.",
                 "ro": "Cel mai mare port de iahturi din zonă.",
-                "en": "Largest marina in the area."
+                "en": "Largest marina in the area.",
+                "es": "El mayor puerto deportivo de la zona."
               }
             },
             {
@@ -699,13 +757,15 @@
                 "de": "Puente del Estacio",
                 "hu": "Puente del Estacio",
                 "ro": "Puente del Estacio",
-                "en": "Estacio Bridge"
+                "en": "Estacio Bridge",
+                "es": "Puente Estacio"
               },
               "tip_5lang": {
                 "de": "Hebefunktion für Segelschiffe beobachten.",
                 "hu": "Figyeld meg a vitorlásoknak felnyíló hidat.",
                 "ro": "Observați podul care se ridică pentru veliere.",
-                "en": "Watch the bridge lift for sailing ships."
+                "en": "Watch the bridge lift for sailing ships.",
+                "es": "Observa cómo se levanta el puente para los veleros."
               }
             }
           ],
@@ -807,6 +867,10 @@
             "en": [
               "Avoid the main road during peak hours.",
               "Use the cycle paths on the lagoon side."
+            ],
+            "es": [
+              "Evita la carretera principal en horas punta.",
+              "Usa los carriles bici en el lado de la laguna."
             ]
           }
         },
@@ -815,7 +879,8 @@
             "de": "Eine Radtour im Regen erfordert Vorsicht auf der Hauptstraße von La Manga. Starten Sie vorsichtig in Richtung Cala del Pino, wo die Pinien einen gewissen natürlichen Schutz bieten.\n\nMittags erreichen Sie den Tomas Maestre Jachthafen. Die glatten Stege und das graue Wasser vermitteln eine maritime Melancholie, die man am besten von einer überdachten Terrasse aus beobachtet.\n\nNachmittags überqueren Sie die Estacio-Brücke. Der Wind kann hier bei Regen tückisch sein, aber der Blick auf den Kanal ist bei diesem Wetter besonders kraftvoll.\n\nAbends beenden Sie die Tour und stellen sicher, dass Ihr Fahrrad an einem trockenen Ort untergebracht ist. Die Lichter der Marina funkeln durch den Regenschleier besonders intensiv.",
             "hu": "Az esőben való kerékpározás óvatosságot igényel La Manga főútján. Kezdjen óvatosan Cala del Pino felé, ahol a fenyőfák némi természetes védelmet nyújtanak.\n\nDélben eléri a Tomas Maestre kikötőt. A csúszós mólók és a szürke víz tengeri melankóliát árasztanak, amit a legjobban egy fedett teraszról lehet megfigyelni.\n\nDélután keljen át az Estacio-hídon. A szél esőben csalóka lehet itt, de a csatornára nyíló kilátás ilyenkor különösen erőteljes.\n\nEste fejezze be a túrát, és ügyeljen rá, hogy a kerékpár száraz helyre kerüljön. A kikötő fényei különösen intenzíven csillognak át az esőfüggönyön.",
             "ro": "O tură cu bicicleta pe ploaie necesită prudență pe drumul principal din La Manga. Porniți cu grijă spre Cala del Pino, unde pinii oferă o oarecare protecție naturală.\n\nLa prânz ajungeți în portul Tomas Maestre. Pontonul alunecos și apa gri emană o melancolie maritimă, cel mai bine observată de pe o terasă acoperită.\n\nDupă-amiaza traversați podul Estacio. Vântul poate fi înșelător aici pe ploaie, dar vederea spre canal este deosebit de puternică pe acest tip de vreme.\n\nSeara încheiați turul și asigurați-vă că bicicleta este depozitată într-un loc uscat. Luminile marinei strălucesc intens prin perdeaua de ploaie.",
-            "en": "A bike ride in the rain requires caution on La Manga's main road. Start carefully towards Cala del Pino, where the pine trees provide some natural shelter.\n\nAt noon, you reach the Tomas Maestre Marina. The slippery docks and gray water exude a maritime melancholy, best observed from a covered terrace.\n\nIn the afternoon, cross the Estacio Bridge. The wind can be treacherous here in the rain, but the view of the channel is particularly powerful in this weather.\n\nIn the evening, finish the tour and ensure your bike is stored in a dry place. The marina lights sparkle intensely through the veil of rain."
+            "en": "A bike ride in the rain requires caution on La Manga's main road. Start carefully towards Cala del Pino, where the pine trees provide some natural shelter.\n\nAt noon, you reach the Tomas Maestre Marina. The slippery docks and gray water exude a maritime melancholy, best observed from a covered terrace.\n\nIn the afternoon, cross the Estacio Bridge. The wind can be treacherous here in the rain, but the view of the channel is particularly powerful in this weather.\n\nIn the evening, finish the tour and ensure your bike is stored in a dry place. The marina lights sparkle intensely through the veil of rain.",
+            "es": "Una ruta en bici bajo la lluvia requiere precaución en la carretera principal de La Manga. Comienza con calma hacia la Cala del Pino, donde los pinos ofrecen cierto refugio natural.\n\nAl mediodía llegas al puerto Tomás Maestre. Las pasarelas resbaladizas y el agua gris transmiten una melancolía marítima, mejor apreciada desde una terraza cubierta.\n\nPor la tarde, cruza el Puente Estacio. El viento puede ser traicionero aquí con lluvia, pero la vista del canal es especialmente potente en este tiempo.\n\nAl anochecer, finaliza la ruta y asegúrate de guardar la bici en un lugar seco. Las luces del puerto brillan intensamente a través del velo de lluvia."
           },
           "stops": [
             {
@@ -824,7 +889,8 @@
                 "de": "Achten Sie auf nadelbedeckte Wege; diese sind bei Regen extrem rutschig für Fahrradreifen.",
                 "hu": "Ügyeljen a tűlevéllel borított utakra; ezek esőben rendkívül csúszósak a kerékpárgumiknak.",
                 "ro": "Atenție la potecile acoperite cu ace de pin; acestea sunt extrem de alunecoase pentru anvelope pe ploaie.",
-                "en": "Watch out for needle-covered paths; these are extremely slippery for bike tires when wet."
+                "en": "Watch out for needle-covered paths; these are extremely slippery for bike tires when wet.",
+                "es": "Cuidado con los caminos cubiertos de acículas; son extremadamente resbaladizos para las ruedas de la bici cuando están mojados."
               }
             },
             {
@@ -833,7 +899,8 @@
                 "de": "Nutzen Sie die Arkadengänge der Geschäfte, um Ihr Rad kurzzeitig im Trockenen abzustellen.",
                 "hu": "Használja az üzletek árkádos folyosóit, hogy kerékpárját rövid időre szárazon hagyhassa.",
                 "ro": "Folosiți arcadele magazinelor pentru a lăsa bicicleta la uscat pentru scurt timp.",
-                "en": "Use the arcade walkways of the shops to temporarily park your bike in the dry."
+                "en": "Use the arcade walkways of the shops to temporarily park your bike in the dry.",
+                "es": "Usa los paseos acristalados de las tiendas para aparcar la bici a cubierto temporalmente."
               }
             },
             {
@@ -842,7 +909,8 @@
                 "de": "Halten Sie den Lenker bei Seitenwind auf der Brücke besonders fest; Metallfugen können glatt sein.",
                 "hu": "Oldalszélben tartsuk erősebben a kormányt a hídon; a fém illesztések csúszósak lehetnek.",
                 "ro": "Țineți ghidonul mai strâns în caz de vânt lateral pe pod; îmbinările metalice pot fi lucioase.",
-                "en": "Hold the handlebars firmly during crosswinds on the bridge; metal joints can be slick."
+                "en": "Hold the handlebars firmly during crosswinds on the bridge; metal joints can be slick.",
+                "es": "Sujeta bien el manillar en los vientos cruzados del puente; las juntas metálicas pueden estar resbaladizas."
               }
             }
           ],
@@ -870,6 +938,12 @@
               "Avoid puddles, as they can hide deep potholes on the road.",
               "Bright, reflective rain gear is important due to the poor visibility for drivers.",
               "Check your tire pressure; slightly lower pressure provides more grip on wet roads."
+            ],
+            "es": [
+              "Frena con antelación, ya que las llantas o discos mojados alargan la distancia de frenado.",
+              "Evita los charcos, pues pueden ocultar baches profundos en la calzada.",
+              "Es importante llevar ropa de lluvia reflectante y visible debido a la mala visibilidad para los conductores.",
+              "Comprueba la presión de los neumáticos; una presión algo más baja ofrece más agarre en mojado."
             ]
           }
         },
@@ -878,7 +952,8 @@
             "de": "Die Wintersonne macht das Radfahren auf La Manga zu einem Vergnügen, solange man sich gegen den Wind schützt. In Cala del Pino ist es morgens windstill und die Luft duftet nach Harz.\n\nMittags erreichen Sie den Tomas Maestre Jachthafen. Ohne die Sommerhitze ist die Fahrt entlang des Wassers erfrischend und weniger anstrengend.\n\nNachmittags bietet die Estacio-Brücke einen weiten Blick über das tiefblaue Wintermeer. Achten Sie auf den Sonnenstand, der nun deutlich tiefer ist und Schatten über den Weg wirft.\n\nAbends kühlt es schnell ab, sobald die Sonne hinter den Bergen auf der anderen Seite des Mar Menor verschwindet. Die Rückfahrt im Dämmerlicht erfordert gute Beleuchtung.",
             "hu": "A téli napsütés élvezetessé teszi a kerékpározást La Mangán, amíg védekezünk a szél ellen. Cala del Pinónál reggelente szélcsend van, és a levegő fenyőgyanta illatú.\n\nDélben eléri a Tomas Maestre kikötőt. A nyári hőség nélkül a vízparti tekerés frissítő és kevésbé fárasztó.\n\nDélután az Estacio-híd tágas kilátást nyújt a mélykék téli tengerre. Ügyeljen a napállásra, amely most sokkal alacsonyabb, és hosszú árnyékokat vet az útra.\n\nEste gyorsan lehűl az idő, amint a nap eltűnik a Mar Menor túlsó oldalán lévő hegyek mögött. A szürkületi visszautazáshoz jó világítás szükséges.",
             "ro": "Soarele de iarnă face mersul cu bicicleta în La Manga o plăcere, atâta timp cât te protejezi de vânt. În Cala del Pino este liniște dimineața, iar aerul miroase a rășină.\n\nLa prânz ajungeți în portul Tomas Maestre. Fără căldura verii, plimbarea de-a lungul apei este revigorantă și mai puțin obositoare.\n\nDupă-amiaza, podul Estacio oferă o vedere largă asupra mării de iarnă de un albastru profund. Atenție la poziția soarelui, care este acum mult mai joasă și aruncă umbre pe drum.\n\nSeara se răcește rapid imediat ce soarele dispare după munții de pe partea cealaltă a Mar Menor. Drumul de întoarcere în amurg necesită o iluminare bună.",
-            "en": "The winter sun makes cycling on La Manga a pleasure as long as you protect yourself from the wind. In Cala del Pino, mornings are calm and the air smells of resin.\n\nAt noon, you reach the Tomas Maestre Marina. Without the summer heat, the ride along the water is refreshing and less tiring.\n\nIn the afternoon, the Estacio Bridge offers a wide view over the deep blue winter sea. Watch the sun's position, which is now significantly lower and casts shadows over the path.\n\nIn the evening, it cools down quickly as soon as the sun disappears behind the mountains on the other side of Mar Menor. The ride back in the dusk requires good lighting."
+            "en": "The winter sun makes cycling on La Manga a pleasure as long as you protect yourself from the wind. In Cala del Pino, mornings are calm and the air smells of resin.\n\nAt noon, you reach the Tomas Maestre Marina. Without the summer heat, the ride along the water is refreshing and less tiring.\n\nIn the afternoon, the Estacio Bridge offers a wide view over the deep blue winter sea. Watch the sun's position, which is now significantly lower and casts shadows over the path.\n\nIn the evening, it cools down quickly as soon as the sun disappears behind the mountains on the other side of Mar Menor. The ride back in the dusk requires good lighting.",
+            "es": "El sol invernal hace placentera la bici en La Manga siempre que te protejas del viento. En la Cala del Pino las mañanas son calmadas y el aire huele a resina.\n\nAl mediodía llegas al puerto Tomás Maestre. Sin el calor veraniego, el paseo junto al agua resulta refrescante y menos fatigoso.\n\nPor la tarde, el Puente Estacio ofrece una amplia vista sobre el mar invernal de un azul intenso. Vigila la posición del sol, ahora mucho más baja y que proyecta sombras sobre el camino.\n\nPor la noche refresca rápido en cuanto el sol desaparece tras las montañas al otro lado del Mar Menor. El regreso al anochecer requiere buena iluminación."
           },
           "stops": [
             {
@@ -887,7 +962,8 @@
                 "de": "Tragen Sie Handschuhe; die Abfahrt zum Strand kann durch den Fahrtwind morgens sehr kühl sein.",
                 "hu": "Viseljen kesztyűt; a strandhoz vezető lejtő a menetszél miatt reggelente nagyon hűvös lehet.",
                 "ro": "Purtați mănuși; coborârea spre plajă poate fi foarte răcoroasă dimineața din cauza vântului.",
-                "en": "Wear gloves; the descent to the beach can be very chilly in the morning due to the wind chill."
+                "en": "Wear gloves; the descent to the beach can be very chilly in the morning due to the wind chill.",
+                "es": "Lleva guantes; el descenso a la playa puede ser muy frío por la sensación térmica matinal."
               }
             },
             {
@@ -896,7 +972,8 @@
                 "de": "Die Cafés hier haben oft Windschutzwände aus Glas, perfekt für eine Pause in der Wintersonne.",
                 "hu": "Az itteni kávézók gyakran üveg szélfogókkal rendelkeznek, ideálisak egy pihenőre a téli napsütésben.",
                 "ro": "Cafenelele de aici au adesea pereți de protecție din sticlă, perfecți pentru o pauză la soarele de iarnă.",
-                "en": "The cafes here often have glass windbreaks, perfect for a break in the winter sun."
+                "en": "The cafes here often have glass windbreaks, perfect for a break in the winter sun.",
+                "es": "Las cafeterías aquí suelen tener pantallas de vidrio contra el viento, perfectas para una pausa al sol invernal."
               }
             },
             {
@@ -905,7 +982,8 @@
                 "de": "Genießen Sie den Blick, aber bleiben Sie in Bewegung, um nicht durch den kalten Kanalwind auszukühlen.",
                 "hu": "Élvezze a kilátást, de maradjon mozgásban, hogy ne hűljön ki a csatorna felől fújó hideg széltől.",
                 "ro": "Bucurați-vă de priveliște, dar rămâneți în mișcare pentru a nu răci din cauza vântului rece de pe canal.",
-                "en": "Enjoy the view, but keep moving so you don't get chilled by the cold channel wind."
+                "en": "Enjoy the view, but keep moving so you don't get chilled by the cold channel wind.",
+                "es": "Disfruta de las vistas, pero sigue en movimiento para no enfriarte con el viento frío del canal."
               }
             }
           ],
@@ -933,6 +1011,12 @@
               "Layer your clothing (onion principle) to be able to react to temperature changes.",
               "The sun is low; sunglasses are essential because of the glare on the water.",
               "Plan your tour to be back before 17:30 to avoid the peak cold."
+            ],
+            "es": [
+              "Usa protector labial, ya que el viento salado de invierno reseca la piel con rapidez.",
+              "Vístete por capas (principio de cebolla) para poder adaptarte a los cambios de temperatura.",
+              "El sol está bajo; las gafas de sol son esenciales por el deslumbramiento en el agua.",
+              "Planifica la ruta para regresar antes de las 17:30 y evitar el frío más intenso."
             ]
           }
         }
@@ -951,7 +1035,8 @@
             "de": "Faro de Cabo de Palos",
             "hu": "Cabo de Palos világítótorony",
             "ro": "Farul Cabo de Palos",
-            "en": "Cabo de Palos Lighthouse"
+            "en": "Cabo de Palos Lighthouse",
+            "es": "Faro de Cabo de Palos"
           },
           "coords": [
             -0.6895,
@@ -966,7 +1051,8 @@
             "de": "Gute Parkmöglichkeiten unterhalb des Hügels.",
             "hu": "Jó parkolási lehetőség a domb aljában.",
             "ro": "Posibilități bune de parcare sub deal.",
-            "en": "Good parking options below the hill."
+            "en": "Good parking options below the hill.",
+            "es": "Buenas opciones de aparcamiento al pie de la colina."
           }
         },
         {
@@ -974,7 +1060,8 @@
             "de": "Puerto Tomás Maestre",
             "hu": "Puerto Tomás Maestre",
             "ro": "Puerto Tomás Maestre",
-            "en": "Tomas Maestre Marina"
+            "en": "Tomas Maestre Marina",
+            "es": "Puerto deportivo Tomás Maestre"
           },
           "coords": [
             -0.7355,
@@ -989,7 +1076,8 @@
             "de": "Perfekter Ort für eine Bootstour zur Isla del Barón.",
             "hu": "Tökéletes hely egy hajókiránduláshoz az Isla del Barónhoz.",
             "ro": "Loc perfect pentru o excursie cu barca spre Isla del Barón.",
-            "en": "Perfect spot for a boat trip to Baron Island."
+            "en": "Perfect spot for a boat trip to Baron Island.",
+            "es": "Perfecto para una excursión en barco a la Isla del Barón."
           }
         }
       ],
@@ -997,7 +1085,8 @@
         "de": "Mit dem Auto erkunden wir die volle Länge von La Manga. Wir starten am südlichen Ende am Leuchtturm und fahren bis zum nördlichsten Punkt, um die verschiedenen Strände und Siedlungen zu sehen. Das Auto erlaubt es uns, die gesamte 20 km lange Landzunge flexibel zu erkunden.",
         "hu": "Autóval fedezzük fel La Manga teljes hosszát. A déli végen, a világítótoronynál kezdünk, és egészen az északi csücsökig autózunk, érintve a különböző strandokat és településeket. Az autó lehetővé teszi a 20 km hosszú földnyelv rugalmas bejárását.",
         "ro": "Cu mașina explorăm întreaga lungime a La Manga. Începem la capătul sudic, la far, și conducem până la cel mai nordic punct pentru a vedea diferitele plaje și așezări. Mașina ne permite să explorăm flexibil întreaga fâșie de 20 km.",
-        "en": "By car, we explore the full length of La Manga. We start at the southern end at the lighthouse and drive to the northernmost point to see the various beaches and settlements. The car allows us to flexibly explore the entire 20 km spit."
+        "en": "By car, we explore the full length of La Manga. We start at the southern end at the lighthouse and drive to the northernmost point to see the various beaches and settlements. The car allows us to flexibly explore the entire 20 km spit.",
+        "es": "En coche recorrimos toda La Manga. Empezamos en el extremo sur, en el faro, y llegamos hasta el punto más al norte para ver las distintas playas y urbanizaciones. El coche nos permite explorar con flexibilidad los 20 km de lengua de arena."
       },
       "gastro_picks": {
         "de": [
@@ -1097,6 +1186,10 @@
         "en": [
           "Traffic jams on Gran Via are common in summer.",
           "Do not park on sandy ground."
+        ],
+        "es": [
+          "Los atascos en la Gran Vía son habituales en verano.",
+          "No aparque sobre terreno arenoso."
         ]
       },
       "variants": {
@@ -1105,7 +1198,8 @@
             "de": "Mit dem Auto erkunden wir die volle Länge von La Manga. Wir starten am südlichen Ende am Leuchtturm und fahren bis zum nördlichsten Punkt, um die verschiedenen Strände und Siedlungen zu sehen. Das Auto erlaubt es uns, die gesamte 20 km lange Landzunge flexibel zu erkunden.",
             "hu": "Autóval fedezzük fel La Manga teljes hosszát. A déli végen, a világítótoronynál kezdünk, és egészen az északi csücsökig autózunk, érintve a különböző strandokat és településeket. Az autó lehetővé teszi a 20 km hosszú földnyelv rugalmas bejárását.",
             "ro": "Cu mașina explorăm întreaga lungime a La Manga. Începem la capătul sudic, la far, și conducem până la cel mai nordic punct pentru a vedea diferitele plaje și așezări. Mașina ne permite să explorăm flexibil întreaga fâșie de 20 km.",
-            "en": "By car, we explore the full length of La Manga. We start at the southern end at the lighthouse and drive to the northernmost point to see the various beaches and settlements. The car allows us to flexibly explore the entire 20 km spit."
+            "en": "By car, we explore the full length of La Manga. We start at the southern end at the lighthouse and drive to the northernmost point to see the various beaches and settlements. The car allows us to flexibly explore the entire 20 km spit.",
+            "es": "En coche recorrimos toda La Manga. Empezamos en el extremo sur, en el faro, y llegamos hasta el punto más al norte para ver las distintas playas y urbanizaciones. El coche nos permite explorar con flexibilidad los 20 km de lengua de arena."
           },
           "stops": [
             {
@@ -1113,13 +1207,15 @@
                 "de": "Faro de Cabo de Palos",
                 "hu": "Cabo de Palos világítótorony",
                 "ro": "Farul Cabo de Palos",
-                "en": "Cabo de Palos Lighthouse"
+                "en": "Cabo de Palos Lighthouse",
+                "es": "Faro de Cabo de Palos"
               },
               "tip_5lang": {
                 "de": "Gute Parkmöglichkeiten unterhalb des Hügels.",
                 "hu": "Jó parkolási lehetőség a domb aljában.",
                 "ro": "Posibilități bune de parcare sub deal.",
-                "en": "Good parking options below the hill."
+                "en": "Good parking options below the hill.",
+                "es": "Buenas opciones de aparcamiento al pie de la colina."
               }
             },
             {
@@ -1127,13 +1223,15 @@
                 "de": "Puerto Tomás Maestre",
                 "hu": "Puerto Tomás Maestre",
                 "ro": "Puerto Tomás Maestre",
-                "en": "Tomas Maestre Marina"
+                "en": "Tomas Maestre Marina",
+                "es": "Puerto deportivo Tomás Maestre"
               },
               "tip_5lang": {
                 "de": "Perfekter Ort für eine Bootstour zur Isla del Barón.",
                 "hu": "Tökéletes hely egy hajókiránduláshoz az Isla del Barónhoz.",
                 "ro": "Loc perfect pentru o excursie cu barca spre Isla del Barón.",
-                "en": "Perfect spot for a boat trip to Baron Island."
+                "en": "Perfect spot for a boat trip to Baron Island.",
+                "es": "Perfecto para una excursión en barco a la Isla del Barón."
               }
             }
           ],
@@ -1235,6 +1333,10 @@
             "en": [
               "Traffic jams on Gran Via are common in summer.",
               "Do not park on sandy ground."
+            ],
+            "es": [
+              "Los atascos en la Gran Vía son habituales en verano.",
+              "No aparque sobre terreno arenoso."
             ]
           }
         },
@@ -1243,7 +1345,8 @@
             "de": "Regen auf La Manga macht das Auto zur besten Wahl. Starten Sie gemütlich am Leuchtturm von Cabo de Palos, während die Scheibenwischer den Rhythmus der Wellen begleiten.\n\nMittags steuern Sie den Tomas Maestre Jachthafen an. Das Parken ist hier einfach, und Sie gelangen trockenen Fußes in die zahlreichen Restaurants der Marina.\n\nNachmittags können Sie die gesamte Länge der Landzunge abfahren, ohne nass zu werden. Der Blick auf das graue Mar Menor aus dem Fenster wirkt fast wie ein Gemälde.\n\nAbends reflektieren die Lichter der Apartmenttürme auf dem nassen Asphalt und verwandeln La Manga in eine leuchtende Allee.",
             "hu": "Az eső La Mangán az autót teszi a legjobb választássá. Kezdjen kényelmesen a Cabo de Palos világítótoronynál, miközben az ablaktörlők a hullámok ritmusát kísérik.\n\nDélben vegye az irányt a Tomas Maestre kikötő felé. A parkolás itt egyszerű, és száraz lábbal juthat be a marina számos éttermébe.\n\nDélután végigautózhat a földnyelv teljes hosszán anélkül, hogy elázna. Az ablakból nézve a szürke Mar Menor látványa szinte olyan, mint egy festmény.\n\nEste az apartmanházak fényei visszatükröződnek a nedves aszfalton, fénylő sugárúttá változtatva La Mangát.",
             "ro": "Ploaia în La Manga face din mașină cea mai bună alegere. Porniți relaxat de la farul Cabo de Palos, în timp ce ștergătoarele acompaniază ritmul valurilor.\n\nLa prânz vă îndreptați spre portul Tomas Maestre. Parcarea este ușoară aici și puteți ajunge cu picioarele uscate în numeroasele restaurante ale marinei.\n\nDupă-amiaza puteți parcurge întreaga lungime a fâșiei fără să vă udați. Vederea spre Mar Menor gri de la fereastră pare aproape un tablou.\n\nSeara, luminile turnurilor de apartamente se reflectă pe asfaltul ud, transformând La Manga într-un bulevard luminos.",
-            "en": "Rain in La Manga makes the car the best choice. Start comfortably at the Cabo de Palos Lighthouse while the windshield wipers accompany the rhythm of the waves.\n\nAt noon, head for the Tomas Maestre Marina. Parking is easy here, and you can reach the marina's numerous restaurants with dry feet.\n\nIn the afternoon, you can drive the entire length of the spit without getting wet. The view of the gray Mar Menor from the window looks almost like a painting.\n\nIn the evening, the lights of the apartment towers reflect on the wet asphalt, turning La Manga into a glowing avenue."
+            "en": "Rain in La Manga makes the car the best choice. Start comfortably at the Cabo de Palos Lighthouse while the windshield wipers accompany the rhythm of the waves.\n\nAt noon, head for the Tomas Maestre Marina. Parking is easy here, and you can reach the marina's numerous restaurants with dry feet.\n\nIn the afternoon, you can drive the entire length of the spit without getting wet. The view of the gray Mar Menor from the window looks almost like a painting.\n\nIn the evening, the lights of the apartment towers reflect on the wet asphalt, turning La Manga into a glowing avenue.",
+            "es": "La lluvia en La Manga hace que el coche sea la mejor opción. Comience cómodamente en el Faro de Cabo de Palos mientras los limpiaparabrisas marcan el ritmo de las olas.\n\nAl mediodía, diríjase al Puerto Deportivo Tomás Maestre. Aquí es fácil aparcar y puede llegar a los numerosos restaurantes del puerto con los pies secos.\n\nPor la tarde puede recorrer en coche todo el largo de la lengua de arena sin mojarse. La vista del gris Mar Menor desde la ventanilla parece casi un cuadro.\n\nPor la noche, las luces de las torres de apartamentos se reflejan en el asfalto mojado, convirtiendo La Manga en una avenida luminosa."
           },
           "stops": [
             {
@@ -1252,7 +1355,8 @@
                 "de": "Parken Sie am Hafen; der kurze Aufstieg zum Leuchtturm bietet wenig Schutz vor Regen.",
                 "hu": "Parkoljon a kikötőben; a világítótoronyhoz vezető rövid út kevés menedéket nyújt az eső elől.",
                 "ro": "Parcați în port; scurta urcare spre far oferă puțin adăpost împotriva ploii.",
-                "en": "Park at the harbor; the short climb to the lighthouse offers little shelter from the rain."
+                "en": "Park at the harbor; the short climb to the lighthouse offers little shelter from the rain.",
+                "es": "Aparque en el puerto; la breve subida al faro ofrece poco resguardo de la lluvia."
               }
             },
             {
@@ -1261,7 +1365,8 @@
                 "de": "Nutzen Sie die Tiefgarage der umliegenden Apartmentkomplexe, falls die Außenplätze überflutet sind.",
                 "hu": "Használja a környező apartmankomplexumok mélygarázsát, ha a kinti helyek víz alatt állnának.",
                 "ro": "Folosiți parcarea subterană a complexelor de apartamente dacă locurile de afară sunt inundate.",
-                "en": "Use the underground parking of nearby apartment complexes if outdoor spots are flooded."
+                "en": "Use the underground parking of nearby apartment complexes if outdoor spots are flooded.",
+                "es": "Use el parking subterráneo de las urbanizaciones cercanas si las plazas exteriores están inundadas."
               }
             }
           ],
@@ -1289,6 +1394,12 @@
               "Visibility can be impaired by salt residues on the windshield during heavy rain.",
               "Use the air conditioning against fogged windows; humidity is extremely high.",
               "Some low-lying parking lots near the beaches can become impassable during heavy rain."
+            ],
+            "es": [
+              "Tenga cuidado con el aquaplaning en la carretera principal, ya que el drenaje es deficiente.",
+              "La visibilidad puede verse afectada por las salpicaduras y residuos de sal en el parabrisas durante lluvia intensa.",
+              "Use el climatizador para evitar el empañamiento; la humedad es muy alta.",
+              "Algunos aparcamientos bajos junto a las playas pueden quedar intransitables con lluvia intensa."
             ]
           }
         },
@@ -1297,7 +1408,8 @@
             "de": "Im Winter bietet das Auto die Freiheit, La Manga ohne Hitze und Staus zu erkunden. Morgens am Leuchtturm von Cabo de Palos ist die Luft so klar, dass man fast bis Afrika sehen möchte.\n\nMittags im Tomas Maestre Jachthafen ist es angenehm ruhig. Die Sonne wärmt den Innenraum des Wagens, während man den Blick auf die Yachten genießt.\n\nNachmittags lohnt sich eine Fahrt bis zum Ende der Landzunge bei Veneciola. Die weiten, leeren Straßen vermitteln ein Gefühl von Weite und Freiheit.\n\nAbends bietet die Rückfahrt entlang des Mar Menor bei Sonnenuntergang spektakuläre Fotomotive direkt vom Fahrersitz aus.",
             "hu": "Télen az autó szabadságot nyújt La Manga felfedezéséhez hőség és dugók nélkül. Reggel a Cabo de Palos világítótoronynál olyan tiszta a levegő, hogy szinte Afrikáig ellátni.\n\nDélben a Tomas Maestre kikötőben kellemes a nyugalom. A nap felmelegíti az autó belterét, miközben a jachtok látványát élvezi.\n\nDélután érdemes elautózni a földnyelv végéig, Venecioláig. A tágas, üres utak a szabadság érzését keltik.\n\nEste a Mar Menor menti visszautat a naplemente teszi látványossá, amit akár az autóból is megörökíthet.",
             "ro": "Iarna, mașina oferă libertatea de a explora La Manga fără căldură și ambuteiaje. Dimineața la farul Cabo de Palos aerul este atât de clar încât aproape că poți vedea până în Africa.\n\nLa prânz în portul Tomas Maestre este o liniște plăcută. Soarele încălzește interiorul mașinii în timp ce vă bucurați de vederea iahturilor.\n\nDupă-amiaza merită o plimbare până la capătul fâșiei, la Veneciola. Drumurile largi și goale oferă o senzație de spațiu și libertate.\n\nSeara, drumul de întoarcere de-a lungul Mar Menor la apus oferă motive fotografice spectaculoase direct de la volan.",
-            "en": "In winter, the car offers the freedom to explore La Manga without heat and traffic jams. In the morning at the Cabo de Palos Lighthouse, the air is so clear you feel like you can almost see Africa.\n\nAt noon in the Tomas Maestre Marina, it is pleasantly quiet. The sun warms the car's interior while you enjoy the view of the yachts.\n\nIn the afternoon, a drive to the end of the spit at Veneciola is worthwhile. The wide, empty roads convey a sense of vastness and freedom.\n\nIn the evening, the drive back along the Mar Menor at sunset offers spectacular photo opportunities right from the driver's seat."
+            "en": "In winter, the car offers the freedom to explore La Manga without heat and traffic jams. In the morning at the Cabo de Palos Lighthouse, the air is so clear you feel like you can almost see Africa.\n\nAt noon in the Tomas Maestre Marina, it is pleasantly quiet. The sun warms the car's interior while you enjoy the view of the yachts.\n\nIn the afternoon, a drive to the end of the spit at Veneciola is worthwhile. The wide, empty roads convey a sense of vastness and freedom.\n\nIn the evening, the drive back along the Mar Menor at sunset offers spectacular photo opportunities right from the driver's seat.",
+            "es": "En invierno, el coche ofrece la libertad de explorar La Manga sin agobios de calor ni atascos. Por la mañana, en el Faro de Cabo de Palos, el aire está tan claro que casi parece que se pueda ver África.\n\nAl mediodía, en el Puerto Deportivo Tomás Maestre, hay un agradable sosiego. El sol calienta el interior del coche mientras disfruta de la vista de los yates.\n\nPor la tarde, merece la pena conducir hasta el final de la lengua de arena en Veneciola. Las anchas y vacías carreteras transmiten una sensación de amplitud y libertad.\n\nPor la noche, el regreso junto al Mar Menor al atardecer ofrece espectaculares oportunidades fotográficas desde el asiento del conductor."
           },
           "stops": [
             {
@@ -1306,7 +1418,8 @@
                 "de": "Das Parken direkt am Leuchtturm ist im Winter meist problemlos möglich.",
                 "hu": "A parkolás közvetlenül a világítótoronynál télen általában problémamentesen lehetséges.",
                 "ro": "Parcarea direct la far este de obicei posibilă fără probleme iarna.",
-                "en": "Parking directly at the lighthouse is usually possible without any problems in winter."
+                "en": "Parking directly at the lighthouse is usually possible without any problems in winter.",
+                "es": "Aparcar junto al faro suele ser posible sin problemas en invierno."
               }
             },
             {
@@ -1315,7 +1428,8 @@
                 "de": "Nutzen Sie den windgeschützten Innenraum Ihres Wagens für ein kurzes Nickerchen mit Meerblick.",
                 "hu": "Használja autója szélvédett belterét egy rövid pihenőre tengeri kilátással.",
                 "ro": "Folosiți interiorul protejat de vânt al mașinii pentru un scurt pui de somn cu vedere la mare.",
-                "en": "Use the wind-protected interior of your car for a short nap with a sea view."
+                "en": "Use the wind-protected interior of your car for a short nap with a sea view.",
+                "es": "Use el interior del coche, protegido del viento, para una corta siesta con vista al mar."
               }
             }
           ],
@@ -1343,6 +1457,12 @@
               "The low sun is very blinding; fold down your sun visors in time.",
               "Check the antifreeze if you plan excursions into the interior of Murcia.",
               "Finding a parking spot is completely relaxed compared to the summer."
+            ],
+            "es": [
+              "Evite aparcar bajo palmeras; las hojas secas que caen con viento pueden dañar la pintura.",
+              "El sol bajo deslumbra mucho; baje los parasoles a tiempo.",
+              "Revise el anticongelante si planea excursiones al interior de Murcia.",
+              "Encontrar aparcamiento es totalmente relajado en comparación con el verano."
             ]
           }
         }
@@ -1361,7 +1481,8 @@
             "de": "Puerto Tomás Maestre",
             "hu": "Puerto Tomás Maestre",
             "ro": "Puerto Tomás Maestre",
-            "en": "Tomas Maestre Marina"
+            "en": "Tomas Maestre Marina",
+            "es": "Puerto deportivo Tomás Maestre"
           },
           "coords": [
             -0.7355,
@@ -1376,7 +1497,8 @@
             "de": "Zentraler Busknotenpunkt in La Manga.",
             "hu": "Központi buszcsomópont La Mangában.",
             "ro": "Nod central de autobuze în La Manga.",
-            "en": "Central bus hub in La Manga."
+            "en": "Central bus hub in La Manga.",
+            "es": "Nudo de comunicaciones de autobuses en La Manga."
           }
         }
       ],
@@ -1384,7 +1506,8 @@
         "de": "Der lokale Bus 'GIB' fährt die gesamte Gran Vía entlang. So erreichen wir stressfrei die Häfen und die besten Strandabschnitte. Es ist die beste Wahl, um das Parkplatzproblem im Sommer zu umgehen und trotzdem mobil zu sein.",
         "hu": "A helyi 'GIB' busz végigjárja a teljes Gran Víát. Így stresszmentesen elérjük a kikötőket és a legjobb strandokat. Ez a legjobb választás nyáron, hogy elkerüljük a parkolási gondokat és mégis mobilisak maradjunk.",
         "ro": "Autobuzul local 'GIB' circulă pe întreaga Gran Vía. Astfel ajungem fără stres la porturi și la cele mai bune secțiuni de plajă. Este cea mai bună alegere vara pentru a evita problema parcării.",
-        "en": "The local 'GIB' bus runs the entire length of Gran Via. This way we reach the marinas and the best beach sections stress-free. It's the best choice in summer to avoid parking issues while staying mobile."
+        "en": "The local 'GIB' bus runs the entire length of Gran Via. This way we reach the marinas and the best beach sections stress-free. It's the best choice in summer to avoid parking issues while staying mobile.",
+        "es": "El autobús local 'GIB' recorre toda la Gran Vía. Así llegamos sin estrés a los puertos deportivos y a las mejores zonas de playa. Es la opción ideal en verano para evitar problemas de aparcamiento y seguir siendo móviles."
       },
       "gastro_picks": {
         "de": [
@@ -1484,6 +1607,10 @@
         "en": [
           "Buses run every 15-30 minutes in summer.",
           "Have exact change ready."
+        ],
+        "es": [
+          "Los autobuses circulan cada 15-30 minutos en verano.",
+          "Tenga el importe exacto preparado."
         ]
       },
       "variants": {
@@ -1492,7 +1619,8 @@
             "de": "Der lokale Bus 'GIB' fährt die gesamte Gran Vía entlang. So erreichen wir stressfrei die Häfen und die besten Strandabschnitte. Es ist die beste Wahl, um das Parkplatzproblem im Sommer zu umgehen und trotzdem mobil zu sein.",
             "hu": "A helyi 'GIB' busz végigjárja a teljes Gran Víát. Így stresszmentesen elérjük a kikötőket és a legjobb strandokat. Ez a legjobb választás nyáron, hogy elkerüljük a parkolási gondokat és mégis mobilisak maradjunk.",
             "ro": "Autobuzul local 'GIB' circulă pe întreaga Gran Vía. Astfel ajungem fără stres la porturi și la cele mai bune secțiuni de plajă. Este cea mai bună alegere vara pentru a evita problema parcării.",
-            "en": "The local 'GIB' bus runs the entire length of Gran Via. This way we reach the marinas and the best beach sections stress-free. It's the best choice in summer to avoid parking issues while staying mobile."
+            "en": "The local 'GIB' bus runs the entire length of Gran Via. This way we reach the marinas and the best beach sections stress-free. It's the best choice in summer to avoid parking issues while staying mobile.",
+            "es": "El autobús local 'GIB' recorre toda la Gran Vía. Así llegamos sin estrés a los puertos deportivos y a las mejores zonas de playa. Es la opción ideal en verano para evitar problemas de aparcamiento y seguir siendo móviles."
           },
           "stops": [
             {
@@ -1500,13 +1628,15 @@
                 "de": "Puerto Tomás Maestre",
                 "hu": "Puerto Tomás Maestre",
                 "ro": "Puerto Tomás Maestre",
-                "en": "Tomas Maestre Marina"
+                "en": "Tomas Maestre Marina",
+                "es": "Puerto deportivo Tomás Maestre"
               },
               "tip_5lang": {
                 "de": "Zentraler Busknotenpunkt in La Manga.",
                 "hu": "Központi buszcsomópont La Mangában.",
                 "ro": "Nod central de autobuze în La Manga.",
-                "en": "Central bus hub in La Manga."
+                "en": "Central bus hub in La Manga.",
+                "es": "Nudo de comunicaciones de autobuses en La Manga."
               }
             }
           ],
@@ -1608,6 +1738,10 @@
             "en": [
               "Buses run every 15-30 minutes in summer.",
               "Have exact change ready."
+            ],
+            "es": [
+              "Los autobuses circulan cada 15-30 minutos en verano.",
+              "Tenga el importe exacto preparado."
             ]
           }
         },
@@ -1616,7 +1750,8 @@
             "de": "Der Bus auf La Manga ist bei Regen ein Segen. Starten Sie trocken und beobachten Sie das Treiben auf der Hauptstraße aus dem Fenster, während Sie nach Norden fahren.\n\nMittags erreichen Sie bequem den Tomas Maestre Jachthafen. Die Haltestelle liegt nah an den überdachten Bereichen, sodass Sie kaum nass werden.\n\nNachmittags bietet die Busfahrt eine entspannte Möglichkeit, die gesamte Landzunge zu sehen. Der Regen an den Scheiben erzeugt eine gemütliche Atmosphäre im Inneren.\n\nAbends bringt Sie der Bus sicher zurück zu Ihrem Ausgangspunkt, während draußen der Sturm über die Küste fegt.",
             "hu": "Az esőben a La Manga-i busz igazi áldás. Kezdjen szárazon, és figyelje a főút forgatagát az ablakból, miközben észak felé utazik.\n\nDélben kényelmesen eléri a Tomas Maestre kikötőt. A megálló közel van a fedett részekhez, így alig éri víz.\n\nDélután a buszozás pihentető módot kínál a teljes földnyelv megtekintésére. Az üvegeken lefolyó eső barátságos hangulatot áraszt odabent.\n\nEste a busz biztonságban visszaviszi a kiindulópontra, miközben odakint vihar söpör végig a parton.",
             "ro": "Autobuzul din La Manga este o binecuvântare pe ploaie. Porniți uscat și observați agitația de pe drumul principal de la fereastră în timp ce mergeți spre nord.\n\nLa prânz ajungeți confortabil în portul Tomas Maestre. Stația este aproape de zonele acoperite, așa că abia dacă vă veți uda.\n\nDupă-amiaza, călătoria cu autobuzul oferă o modalitate relaxată de a vedea întreaga fâșie. Ploaia pe geamuri creează o atmosferă primitoare în interior.\n\nSeara, autobuzul vă aduce în siguranță înapoi la punctul de plecare, în timp ce afară furtuna mătură coasta.",
-            "en": "The bus on La Manga is a blessing in the rain. Start dry and watch the hustle and bustle on the main road from the window as you travel north.\n\nAt noon, you comfortably reach the Tomas Maestre Marina. The stop is close to the covered areas, so you'll hardly get wet.\n\nIn the afternoon, the bus ride offers a relaxed way to see the entire spit. The rain on the windows creates a cozy atmosphere inside.\n\nIn the evening, the bus brings you safely back to your starting point while the storm sweeps across the coast outside."
+            "en": "The bus on La Manga is a blessing in the rain. Start dry and watch the hustle and bustle on the main road from the window as you travel north.\n\nAt noon, you comfortably reach the Tomas Maestre Marina. The stop is close to the covered areas, so you'll hardly get wet.\n\nIn the afternoon, the bus ride offers a relaxed way to see the entire spit. The rain on the windows creates a cozy atmosphere inside.\n\nIn the evening, the bus brings you safely back to your starting point while the storm sweeps across the coast outside.",
+            "es": "El autobús en La Manga es una bendición bajo la lluvia. Empiece seco y observe el bullicio de la Gran Vía desde la ventanilla mientras se desplaza hacia el norte.\n\nAl mediodía llega cómodamente al Puerto Deportivo Tomás Maestre. La parada está cerca de zonas cubiertas, por lo que apenas se mojará.\n\nPor la tarde, el viaje en autobús es una forma relajada de ver toda la lengua de arena. La lluvia en las ventanillas crea una atmósfera acogedora en el interior.\n\nPor la noche, el autobús le devuelve con seguridad a su punto de partida mientras la tormenta barre la costa afuera."
           },
           "stops": [
             {
@@ -1625,7 +1760,8 @@
                 "de": "Warten Sie in den Arkaden der Geschäfte, bis der Bus an der Haltestelle sichtbar wird.",
                 "hu": "Várjon az üzletek árkádjai alatt, amíg a busz láthatóvá válik a megállóban.",
                 "ro": "Așteptați sub arcadele magazinelor până când autobuzul devine vizibil în stație.",
-                "en": "Wait in the shop arcades until the bus becomes visible at the stop."
+                "en": "Wait in the shop arcades until the bus becomes visible at the stop.",
+                "es": "Espere en los soportales de tiendas hasta ver el autobús en la parada."
               }
             }
           ],
@@ -1653,6 +1789,12 @@
               "Buses run less frequently in winter; check the timetable for lines L15/L16 carefully.",
               "Wear rubber-soled shoes, as bus floors can be slick in the rain.",
               "Use central stops that have permanent shelters."
+            ],
+            "es": [
+              "Tenga su billete o el cambio listo para reducir el tiempo de subida bajo la lluvia.",
+              "En invierno los autobuses pasan con menos frecuencia; consulte los horarios de las líneas L15/L16 con atención.",
+              "Calce zapatos con suela de goma, ya que los suelos del autobús pueden resbalar con lluvia.",
+              "Use las paradas centrales que cuentan con refugios permanentes."
             ]
           }
         },
@@ -1661,7 +1803,8 @@
             "de": "Eine winterliche Busfahrt über La Manga ist eine wunderbare Art, die veränderte Szenerie zu genießen. Morgens ist der Bus oft leer und bietet beste Sicht auf beide Seiten der Küste.\n\nMittags im Tomas Maestre Jachthafen ist die Atmosphäre entspannt. Die Haltestelle bietet einen guten Ausgangspunkt für einen windgeschützten Spaziergang.\n\nNachmittags können Sie die gesamte Landzunge bis zum Ende befahren. Das sanfte Licht durch die Busfenster lässt die Landschaft fast magisch erscheinen.\n\nAbends ist die Rückfahrt im beleuchteten Bus besonders stimmungsvoll, wenn die Lichter der Urbanisationen an einem vorbeiziehen.",
             "hu": "Egy téli buszos utazás La Mangán nagyszerű módja a megváltozott táj megcsodálásának. Reggelente a busz gyakran üres, így a legjobb kilátást nyújtja a part mindkét oldalára.\n\nDélben a Tomas Maestre kikötőben a hangulat nyugodt. A megálló kiváló kiindulópont egy szélvédett sétához.\n\nDélután beutazhatja az egész földnyelvet egészen a végéig. A busz ablakán beszűrődő lágy fény szinte mágikusnak mutatja a tájat.\n\nEste a kivilágított buszban a visszautazás különösen hangulatos, ahogy az urbanizációk fényei elsuhannak mellettünk.",
             "ro": "O călătorie de iarnă cu autobuzul prin La Manga este o modalitate minunată de a te bucura de peisajul schimbat. Dimineața autobuzul este adesea gol și oferă cea mai bună vedere spre ambele părți ale coastei.\n\nLa prânz în portul Tomas Maestre atmosfera este relaxată. Stația oferă un punct de plecare bun pentru o plimbare protejată de vânt.\n\nDupă-amiaza puteți parcurge întreaga fâșie până la capăt. Lumina blândă prin geamurile autobuzului face ca peisajul să pară aproape magic.\n\nSeara, drumul de întoarcere în autobuzul iluminat este deosebit de atmosferic, în timp ce luminile urbanizărilor trec pe lângă tine.",
-            "en": "A winter bus ride across La Manga is a wonderful way to enjoy the changed scenery. In the morning, the bus is often empty, offering the best views of both sides of the coast.\n\nAt noon in the Tomas Maestre Marina, the atmosphere is relaxed. The stop provides a good starting point for a wind-protected walk.\n\nIn the afternoon, you can travel the entire spit to the end. The soft light through the bus windows makes the landscape appear almost magical.\n\nIn the evening, the ride back in the illuminated bus is particularly atmospheric as the lights of the urbanizations pass by."
+            "en": "A winter bus ride across La Manga is a wonderful way to enjoy the changed scenery. In the morning, the bus is often empty, offering the best views of both sides of the coast.\n\nAt noon in the Tomas Maestre Marina, the atmosphere is relaxed. The stop provides a good starting point for a wind-protected walk.\n\nIn the afternoon, you can travel the entire spit to the end. The soft light through the bus windows makes the landscape appear almost magical.\n\nIn the evening, the ride back in the illuminated bus is particularly atmospheric as the lights of the urbanizations pass by.",
+            "es": "Un viaje en autobús por La Manga en invierno es una forma maravillosa de disfrutar del paisaje transformado. Por la mañana el autobús suele estar vacío, ofreciendo las mejores vistas de ambos costados de la costa.\n\nAl mediodía, en el Puerto Deportivo Tomás Maestre, la atmósfera es relajada. La parada es un buen punto de partida para un paseo resguardado del viento.\n\nPor la tarde puede recorrer toda la lengua de arena hasta el final. La luz suave que entra por las ventanillas hace que el paisaje parezca casi mágico.\n\nPor la noche, el regreso en el autobús iluminado resulta especialmente atmosférico al pasar las luces de las urbanizaciones."
           },
           "stops": [
             {
@@ -1670,7 +1813,8 @@
                 "de": "Achten Sie auf die Abfahrtszeiten für den Rückweg, da diese im Winter oft im Stundentakt liegen.",
                 "hu": "Ügyeljen a visszaúti indulási időpontokra, mert télen gyakran csak óránként járnak a buszok.",
                 "ro": "Atenție la orele de plecare pentru întoarcere, deoarece acestea sunt adesea la intervale de o oră iarna.",
-                "en": "Watch the departure times for the return trip, as these are often hourly in winter."
+                "en": "Watch the departure times for the return trip, as these are often hourly in winter.",
+                "es": "Atente a los horarios de salida para el regreso, que en invierno suelen ser cada hora."
               }
             }
           ],
@@ -1698,6 +1842,12 @@
               "Use the front seats for the best panoramic view over the Mar Menor.",
               "Bring small change, as large bills are often problematic for the bus driver.",
               "The sun sets early; plan your return trip well before 18:00."
+            ],
+            "es": [
+              "Suele hacer más calor dentro del autobús que en el exterior; una chaqueta desmontable es una ventaja.",
+              "Use los asientos delanteros para la mejor vista panorámica sobre el Mar Menor.",
+              "Lleve cambio pequeño, ya que los billetes grandes suelen ser problemáticos para el conductor.",
+              "El sol se pone pronto; planifique su regreso bien antes de las 18:00."
             ]
           }
         }
@@ -1711,19 +1861,22 @@
       "de": "La Manga hat einen sehr hohen Anteil britischer und nordeuropaeischer Gaeste, Englisch reicht fast ueberall. In den Marina-Restaurants gibt es deutsche Speisekarten, im Norden Richtung Cabo de Palos dominiert wieder Spanisch. Mit 'caballa a la brasa' bestellt man die regionale Spezialitaet, gegrillte Makrele.",
       "hu": "La Manga rendkivul brit-eszaki turistabazis, az angol szinte mindenhol elcg. A kikoto ettermeinel nemet etlap is van, eszakon a Cabo de Palos fele megint csak spanyol uralkodik. A 'caballa a la brasa' a helyi specialis: grillezett makrel.",
       "ro": "La Manga are foarte multi vizitatori britanici si nord-europeni, engleza ajunge aproape oriunde. La restaurantele din marina vei gasi meniuri in germana, in nord spre Cabo de Palos revine spaniola. 'Caballa a la brasa' e specialitatea locala: scrumbie la gratar.",
-      "en": "La Manga draws huge British and northern European crowds, so English works almost everywhere. Marina restaurants often have German menus too, while north toward Cabo de Palos Spanish takes over. Order 'caballa a la brasa' for the local grilled-mackerel speciality."
+      "en": "La Manga draws huge British and northern European crowds, so English works almost everywhere. Marina restaurants often have German menus too, while north toward Cabo de Palos Spanish takes over. Order 'caballa a la brasa' for the local grilled-mackerel speciality.",
+      "es": "La Manga atrae a multitud de británicos y del norte de Europa, por lo que el inglés funciona casi en todas partes. Los restaurantes del puerto suelen tener cartas en alemán, mientras que hacia el norte, en dirección a Cabo de Palos, predomina el español. Pida 'caballa a la brasa' para probar la especialidad local de caballa a la parrilla."
     },
     "best_time_to_visit": {
       "de": "Das Mar Menor erwaermt sich frueher als das offene Meer, schon Mitte Mai sind 22 Grad Wassertemperatur normal. Juli und August sind ueberfuellt, die einzige Strasse durch die Landzunge wird zur Schlange. Oktober ist herrlich ruhig, viele Restaurants schliessen aber ab Ende November.",
       "hu": "A Mar Menor hamarabb felmelegszik a tenger nyilt szakaszanal, majus kozepere mar 22 fokos a viz. Julius-augusztusban tobogos, az egyetlen, foldnyelven veget ut sorbaall. Oktober csodalatosan csendes, de novemberben sok etterem mar bezar.",
       "ro": "Mar Menor se incalzeste mai repede decat marea deschisa, la mijlocul lui mai apa are deja 22 grade. Iulie-august sunt sufocante, singura sosea de pe limba de pamant devine o coloana fara sfarsit. Octombrie e splendid de linistit, dar multe restaurante inchid spre noiembrie.",
-      "en": "The Mar Menor lagoon warms up earlier than the open sea, with 22C water normal by mid-May. July-August get overwhelming, with the single road along the sandbar gridlocked. October is wonderfully quiet, though many restaurants close from late November."
+      "en": "The Mar Menor lagoon warms up earlier than the open sea, with 22C water normal by mid-May. July-August get overwhelming, with the single road along the sandbar gridlocked. October is wonderfully quiet, though many restaurants close from late November.",
+      "es": "La laguna del Mar Menor se calienta antes que el mar abierto; 22 °C es lo normal a mediados de mayo. Julio-agosto es abrumador, con la única carretera por la barra de arena colapsada. Octubre es maravillosamente tranquilo, aunque muchos restaurantes cierran desde finales de noviembre."
     },
     "neighborhood_warnings": {
       "de": "La Manga ist generell sicher, aber 2016 bis 2021 litt das Mar Menor unter Algenbluete, vor dem Baden Wasserqualitaet pruefen. Bei Wind aus Westen kommen Quallen ins Mar Menor, lokale Bademeister informieren. Die einzige Hauptstrasse hat oft Unfaelle wegen unaufmerksamer Mietwagenfahrer.",
       "hu": "La Manga alapvetoen biztonsagos, de a Mar Menor 2016 es 2021 kozott szenvedett algasodastol, furdes elott neztd meg a vizminoseget. Nyugati szelben medusak sodrodnak a Mar Menorba, a helyi usszomeoster mindig kiplakatolja. Az egyetlen fout balesetekkel teli, sok az figyelmetlen berelt aut.",
       "ro": "La Manga e in general sigur, dar Mar Menor a suferit episoade de alge intre 2016 si 2021, verifica calitatea apei. La vant de vest, meduzele intra in laguna, salvamarii afiseaza alerta. Singura sosea principala are multe accidente cauzate de soferii de masini inchiriate neatenti.",
-      "en": "La Manga is generally safe, though the Mar Menor suffered algae blooms from 2016 to 2021, so check water quality. West winds bring jellyfish into the lagoon, with lifeguards posting daily notices. The single main road sees frequent accidents from inattentive rental drivers."
+      "en": "La Manga is generally safe, though the Mar Menor suffered algae blooms from 2016 to 2021, so check water quality. West winds bring jellyfish into the lagoon, with lifeguards posting daily notices. The single main road sees frequent accidents from inattentive rental drivers.",
+      "es": "La Manga es generalmente segura, aunque el Mar Menor sufrió proliferaciones de algas entre 2016 y 2021, así que compruebe la calidad del agua. Los vientos del oeste traen medusas a la laguna; los socorristas colocan avisos diarios. La vía principal única registra frecuentes accidentes por conductores de alquiler despistados."
     }
   }
 }

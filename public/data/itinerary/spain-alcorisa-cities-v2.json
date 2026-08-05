@@ -21,7 +21,8 @@
             "de": "Plaza de los Arcos",
             "hu": "Plaza de los Arcos",
             "ro": "Plaza de los Arcos",
-            "en": "Plaza de los Arcos"
+            "en": "Plaza de los Arcos",
+            "es": "Plaza de los Arcos"
           },
           "coords": [
             -0.383,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie Ihren Tag mit einem Kaffee unter den Arkaden und beobachten Sie das morgendliche Treiben.",
             "hu": "Kezdje a napot egy kávéval az árkádok alatt, és figyelje a város ébredezését.",
             "ro": "Începeți ziua cu o cafea sub arcade și priviți agitația de dimineață a orașului.",
-            "en": "Start your day with a coffee under the arcades and watch the town come to life."
+            "en": "Start your day with a coffee under the arcades and watch the town come to life.",
+            "es": "Comienza el día con un café bajo los arcos y mira cómo despierta el pueblo."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Santa María la Mayor",
             "hu": "Santa María la Mayor-templom",
             "ro": "Biserica Santa María la Mayor",
-            "en": "Church of Santa María la Mayor"
+            "en": "Church of Santa María la Mayor",
+            "es": "Iglesia de Santa María la Mayor"
           },
           "coords": [
             -0.3825,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie den barocken Altaraufsatz und die beeindruckende Kuppel.",
             "hu": "Csodálja meg a barokk oltárképet és a lenyűgöző kupolát.",
             "ro": "Admirați altarul baroc și cupola impresionantă.",
-            "en": "Admire the baroque altarpiece and the impressive dome."
+            "en": "Admire the baroque altarpiece and the impressive dome.",
+            "es": "Admira el retablo barroco y la impresionante cúpula."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Interpretationszentrum der Karwoche",
             "hu": "Nagyhét Értelmező Központ",
             "ro": "Centrul de Interpretare a Săptămânii Sfinte",
-            "en": "Holy Week Interpretation Center"
+            "en": "Holy Week Interpretation Center",
+            "es": "Centro de Interpretación de la Semana Santa"
           },
           "coords": [
             -0.3838,
@@ -82,7 +87,8 @@
             "de": "Erfahren Sie mehr über die berühmte 'Ruta del Tambor y el Bombo', ein immaterielles Kulturerbe der UNESCO.",
             "hu": "Ismerje meg a híres „Ruta del Tambor y el Bombo”-t, amely az UNESCO szellemi kulturális örökségének része.",
             "ro": "Aflați despre faimoasa 'Ruta del Tambor y el Bombo', un patrimoniu cultural imaterial UNESCO.",
-            "en": "Learn about the famous 'Ruta del Tambor y el Bombo', a UNESCO Intangible Cultural Heritage."
+            "en": "Learn about the famous 'Ruta del Tambor y el Bombo', a UNESCO Intangible Cultural Heritage.",
+            "es": "Infórmate sobre la famosa 'Ruta del Tambor y el Bombo', Patrimonio Cultural Inmaterial de la UNESCO."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Schulmuseum",
             "hu": "Iskolamúzeum",
             "ro": "Muzeul Școlii",
-            "en": "School Museum"
+            "en": "School Museum",
+            "es": "Museo de la Escuela"
           },
           "coords": [
             -0.3845,
@@ -105,7 +112,8 @@
             "de": "Ein nostalgischer Rückblick auf das spanische Bildungswesen des 20. Jahrhunderts.",
             "hu": "Nosztalgikus visszatekintés a 20. századi spanyol oktatási rendszerre.",
             "ro": "O privire nostalgică asupra sistemului educațional spaniol din secolul al XX-lea.",
-            "en": "A nostalgic look back at the Spanish education system of the 20th century."
+            "en": "A nostalgic look back at the Spanish education system of the 20th century.",
+            "es": "Una mirada nostálgica al sistema educativo español del siglo XX."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Monte Calvario",
             "hu": "Kálvária-hegy",
             "ro": "Muntele Calvario",
-            "en": "Mount Calvary"
+            "en": "Mount Calvary",
+            "es": "Monte Calvario"
           },
           "coords": [
             -0.3883,
@@ -128,7 +137,8 @@
             "de": "Der Aufstieg ist die Aussicht wert. Bringen Sie Wasser mit, besonders im Sommer.",
             "hu": "A kilátás megéri a fáradságot. Hozzon vizet, különösen nyáron.",
             "ro": "Urcușul merită priveliștea. Aduceți apă, mai ales vara.",
-            "en": "The climb is worth the view. Bring water, especially in summer."
+            "en": "The climb is worth the view. Bring water, especially in summer.",
+            "es": "La subida merece la pena por las vistas. Lleva agua, sobre todo en verano."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Ermita de San Pascual",
             "hu": "Szent Paszkál-kápolna",
             "ro": "Schitul San Pascual",
-            "en": "Hermitage of San Pascual"
+            "en": "Hermitage of San Pascual",
+            "es": "Ermita de San Pascual"
           },
           "coords": [
             -0.3875,
@@ -151,7 +162,8 @@
             "de": "Ein friedlicher Ort auf dem Hügel, perfekt für einen Moment der Besinnung.",
             "hu": "Békés hely a dombon, tökéletes egy csendes pillanatra.",
             "ro": "Un loc pașnic pe deal, perfect pentru un moment de reflecție.",
-            "en": "A peaceful spot on the hill, perfect for a moment of reflection."
+            "en": "A peaceful spot on the hill, perfect for a moment of reflection.",
+            "es": "Un lugar tranquilo en la colina, perfecto para un momento de reflexión."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Alcorisa, der Plaza de los Arcos. Nach einem Kaffee führt Sie ein kurzer Spaziergang zur prächtigen Kirche Santa María la Mayor. Der Vormittag ist der Kultur gewidmet, mit tiefen Einblicken in die Traditionen der Karwoche und die Schulgeschichte Spaniens. Nach dem Mittagessen erobern Sie den Monte Calvario. Der Aufstieg wird mit einer atemberaubenden Aussicht belohnt. Der Nachmittag klingt friedlich an der Ermita de San Pascual aus, wo Sie die Ruhe und die Landschaft genießen. Ein Tag voller Entdeckungen zu Fuß.",
         "hu": "Kezdje a napot Alcorisa szívében, a Plaza de los Arcos téren. Egy kávé után rövid séta vezet a csodálatos Santa María la Mayor-templomhoz. A délelőtt a kultúráé, mély betekintést nyerhet a nagyheti hagyományokba és Spanyolország iskolatörténetébe. Ebéd után hódítsa meg a Kálvária-hegyet. A meredek emelkedőt lélegzetelállító kilátás jutalmazza. A délután békésen zárul a Szent Paszkál-kápolnánál, ahol élvezheti a csendet és a tájat. Egy felfedezésekkel teli nap gyalogosan.",
         "ro": "Începeți ziua în inima orașului Alcorisa, Plaza de los Arcos. După o cafea, o scurtă plimbare vă duce la magnifica Biserică Santa María la Mayor. Dimineața este dedicată culturii, cu o incursiune profundă în tradițiile Săptămânii Sfinte și în istoria școlii din Spania. După prânz, cuceriți Muntele Calvario. Urcușul este răsplătit cu o priveliște uluitoare. După-amiaza se încheie pașnic la Schitul San Pascual, unde vă puteți bucura de liniște și de peisaj. O zi plină de descoperiri la pas.",
-        "en": "Start your day in the heart of Alcorisa, Plaza de los Arcos. After a coffee, a short walk takes you to the magnificent Church of Santa María la Mayor. The morning is dedicated to culture, with a deep dive into the traditions of Holy Week and Spain's school history. After lunch, conquer Mount Calvary. The climb is rewarded with a breathtaking view. The afternoon ends peacefully at the Hermitage of San Pascual, where you can enjoy the tranquility and the landscape. A day full of discoveries on foot."
+        "en": "Start your day in the heart of Alcorisa, Plaza de los Arcos. After a coffee, a short walk takes you to the magnificent Church of Santa María la Mayor. The morning is dedicated to culture, with a deep dive into the traditions of Holy Week and Spain's school history. After lunch, conquer Mount Calvary. The climb is rewarded with a breathtaking view. The afternoon ends peacefully at the Hermitage of San Pascual, where you can enjoy the tranquility and the landscape. A day full of discoveries on foot.",
+        "es": "Comienza el día en el corazón de Alcorisa, Plaza de los Arcos. Tras un café, una corta caminata te lleva a la magnífica Iglesia de Santa María la Mayor. La mañana se dedica a la cultura, profundizando en las tradiciones de la Semana Santa y en la historia escolar de España. Después de comer, conquista el Monte Calvario. La subida recompensa con una vista impresionante. La tarde termina en calma en la Ermita de San Pascual, donde puedes disfrutar de la tranquilidad y el paisaje. Un día lleno de descubrimientos a pie."
       },
       "gastro_picks": {
         "de": [
@@ -355,6 +368,12 @@
           "Plan a lunch break between 2:00 PM and 4:00 PM, as many shops and museums close (siesta).",
           "The climb to Monte Calvario is steep. Take it slow.",
           "Ask at the tourist information office for museum opening hours, as they can vary."
+        ],
+        "es": [
+          "Lleva calzado cómodo, ya que los empedrados pueden ser irregulares.",
+          "Planifica un descanso para comer entre las 14:00 y las 16:00, ya que muchas tiendas y museos cierran (siesta).",
+          "La subida al Monte Calvario es empinada. Ve despacio.",
+          "Pregunta en la oficina de turismo los horarios de los museos, ya que pueden variar."
         ]
       },
       "variants": {
@@ -363,7 +382,8 @@
             "de": "Beginnen Sie Ihren Tag unter den schützenden Arkaden der Plaza de los Arcos, während der Regen auf das Kopfsteinpflaster prasselt. Die barocke Kirche bietet einen trockenen Rückzugsort zur Besinnung.\n\nMittags tauchen Sie in die Museen der Stadt ein. Das Karwochen-Zentrum und das Schulmuseum sind ideal, um den Niederschlägen zu entgehen und die Kultur des Bajo Aragón kennenzulernen.\n\nAm Nachmittag erfordert der Aufstieg zum Monte Calvario Vorsicht, da die Steinpfade rutschig sein können. Die Aussicht auf das nasse Schieferdach-Panorama von Alcorisa ist jedoch einzigartig.\n\nDen Abend lassen Sie in einer der gemütlichen Bars in der Nähe des Rathauses ausklingen, wo der Duft von lokalem Olivenöl und Wein die feuchte Luft erfüllt.",
             "hu": "Kezdje a napot a Plaza de los Arcos árkádjai alatt, védve az esőtől, miközben a főtér barokk részleteit csodálja. A Santa María templom belső tere tökéletes menedéket nyújt a reggeli záporok elől.\n\nDélben használja ki a beltéri kiállításokat. A Húsvéti Értelmező Központ és az Iskolamúzeum falai között szárazon ismerheti meg Alcorisa híres dobhagyományait és múltját.\n\nDélután a Kálvária-dombra való feljutás lassabb lesz a nedves kövek miatt. Vigyázzon a lépteire a San Pascual remetelak felé vezető úton, a kilátás a párás völgyre kárpótolja.\n\nEste keressen egy hangulatos helyi fogadót a központban, ahol a terueli sonka és a helyi vörösbor mellett pihenheti ki a csapadékos nap fáradalmait.",
             "ro": "Începeți ziua sub arcadele din Plaza de los Arcos, un adăpost natural excelent împotriva ploii. Interiorul bisericii Santa María la Mayor oferă un refugiu liniștit și uscat pentru dimineață.\n\nLa prânz, concentrați-vă pe spațiile interioare. Centrul de Interpretare a Săptămânii Mari și Muzeul Școlii sunt destinații culturale perfecte pentru a evita vremea nefavorabilă din Aragon.\n\nDupă-amiaza, urcarea pe muntele Calvario trebuie făcută cu prudență, deoarece potecile pot deveni alunecoase. Panorama orașului sub ploaie are o estetică melancolică deosebită.\n\nSeara, retrageți-vă într-o tavernă locală unde puteți degusta specialități din Bajo Aragón, în timp ce ascultați sunetul ploii pe acoperișurile vechi de țiglă.",
-            "en": "Start your morning under the protective arches of Plaza de los Arcos, staying dry while admiring the historic square. The Church of Santa María provides a grand, indoor sanctuary from the rain.\n\nAt midday, prioritize the indoor museums. Both the Holy Week Center and the School Museum offer rich cultural experiences without the need to face the elements outside.\n\nIn the afternoon, the walk up Mount Calvary requires extra grip as the stone paths can be slick. The mist over the surrounding olive groves creates a dramatic, atmospheric view.\n\nEnd your day in a local cellar or bar near the center, enjoying the warmth of Aragonese hospitality and regional snacks as the rain subsides."
+            "en": "Start your morning under the protective arches of Plaza de los Arcos, staying dry while admiring the historic square. The Church of Santa María provides a grand, indoor sanctuary from the rain.\n\nAt midday, prioritize the indoor museums. Both the Holy Week Center and the School Museum offer rich cultural experiences without the need to face the elements outside.\n\nIn the afternoon, the walk up Mount Calvary requires extra grip as the stone paths can be slick. The mist over the surrounding olive groves creates a dramatic, atmospheric view.\n\nEnd your day in a local cellar or bar near the center, enjoying the warmth of Aragonese hospitality and regional snacks as the rain subsides.",
+            "es": "Comienza la mañana bajo los arcos protectores de la Plaza de los Arcos, manteniéndote seco mientras admiras la plaza histórica. La Iglesia de Santa María ofrece un gran refugio interior contra la lluvia.\n\nAl mediodía, prioriza los museos interiores. Tanto el Centro de la Semana Santa como el Museo de la Escuela ofrecen experiencias culturales ricas sin tener que enfrentar la intemperie.\n\nPor la tarde, la subida al Monte Calvario requiere extra agarre, ya que los caminos de piedra pueden estar resbaladizos. La niebla sobre los olivares crea una vista dramática y atmosférica.\n\nTermina el día en una bodega o bar cercano al centro, disfrutando del calor de la hospitalidad aragonesa y de tapas regionales mientras la lluvia amaina."
           },
           "stops": [
             {
@@ -372,7 +392,8 @@
                 "de": "Nutzen Sie die Arkaden als natürlichen Regenschutz beim Fotografieren.",
                 "hu": "Használja a kőárkádokat fedezékként a tér körbejárása közben.",
                 "ro": "Folosiți arcadele de piatră pentru a rămâne uscat în timp ce explorați.",
-                "en": "Use the historic stone arches as a natural umbrella while sightseeing."
+                "en": "Use the historic stone arches as a natural umbrella while sightseeing.",
+                "es": "Usa los arcos de piedra históricos como paraguas natural mientras visitas el pueblo."
               }
             },
             {
@@ -381,7 +402,8 @@
                 "de": "Ein idealer Ort, um einen schweren Schauer im Trockenen abzuwarten.",
                 "hu": "Tökéletes helyszín egy nagyobb zápor átvészelésére a falak között.",
                 "ro": "Un loc excelent pentru a aștepta trecerea unei averse puternice.",
-                "en": "An ideal indoor spot to wait out a heavy downpour in silence."
+                "en": "An ideal indoor spot to wait out a heavy downpour in silence.",
+                "es": "Un lugar interior ideal para esperar en silencio una fuerte tormenta."
               }
             },
             {
@@ -390,7 +412,8 @@
                 "de": "Verlängern Sie Ihren Besuch, um die Regenzeit sinnvoll im Inneren zu nutzen.",
                 "hu": "Töltsön több időt bent, ismerje meg a híres dobok történetét szárazon.",
                 "ro": "Prelungiți vizita la interior pentru a evita ploaia de afară.",
-                "en": "Take your time inside to explore the drum traditions while staying dry."
+                "en": "Take your time inside to explore the drum traditions while staying dry.",
+                "es": "Tómate tu tiempo dentro para explorar las tradiciones del tambor mientras te mantienes seco."
               }
             },
             {
@@ -399,7 +422,8 @@
                 "de": "Wärmen Sie sich in den Ausstellungsräumen auf, während es draußen regnet.",
                 "hu": "Melegedjen fel a régi tantermek között, amíg kint esik az eső.",
                 "ro": "Încălziți-vă în sălile de clasă vechi în timp ce afară plouă.",
-                "en": "A great indoor refuge to learn about history while it rains outside."
+                "en": "A great indoor refuge to learn about history while it rains outside.",
+                "es": "Un gran refugio interior para aprender sobre la historia mientras llueve afuera."
               }
             },
             {
@@ -408,7 +432,8 @@
                 "de": "Vorsicht auf den Pflastersteinen; der Aufstieg ist bei Nässe rutschig.",
                 "hu": "Vigyázat, az aszfalt és a kövek csúszóssá válnak a dombra menet.",
                 "ro": "Atenție pe pavaj; urcarea poate fi foarte alunecoasă pe ploaie.",
-                "en": "Watch your step on the cobbles; the climb is slippery when wet."
+                "en": "Watch your step on the cobbles; the climb is slippery when wet.",
+                "es": "Fíjate dónde pisas en los empedrados; la subida resbala cuando está mojada."
               }
             },
             {
@@ -417,7 +442,8 @@
                 "de": "Der überdachte Eingangsbereich bietet Schutz vor Wind und Wetter.",
                 "hu": "A bejárat előtti fedett rész védelmet nyújt a szél és az eső ellen.",
                 "ro": "Intrarea protejată oferă un mic adăpost împotriva vântului și ploii.",
-                "en": "The sheltered entrance area provides cover from wind and light rain."
+                "en": "The sheltered entrance area provides cover from wind and light rain.",
+                "es": "La zona de entrada protegida ofrece cobertura frente al viento y la lluvia ligera."
               }
             }
           ],
@@ -449,6 +475,13 @@
               "Wear shoes with good traction for the climb to Mount Calvary in wet weather.",
               "Rain ponchos are often more practical than umbrellas in the windy upper town.",
               "Local bakeries near the square offer warm shelter and traditional pastries."
+            ],
+            "es": [
+              "Los arcos de la Plaza de los Arcos permiten moverse por la plaza sin mojarse.",
+              "El Museo de la Escuela es una alternativa interior perfecta si la lluvia del mediodía persiste.",
+              "Lleva calzado con buena tracción para la subida al Monte Calvario en tiempo húmedo.",
+              "Los chubasqueros suelen ser más prácticos que los paraguas en la parte alta y ventosa del pueblo.",
+              "Las panaderías locales cerca de la plaza ofrecen refugio cálido y pastelería tradicional."
             ]
           }
         },
@@ -457,7 +490,8 @@
             "de": "Genießen Sie die klare Winterluft auf der Plaza de los Arcos, wo die Morgensonne die barocken Fassaden in warmes Licht taucht. Die Kirche Santa María bietet einen kühlen, aber windgeschützten Start.\n\nUm die Mittagszeit laden die Museen zum Aufwärmen ein. Die Geschichte der Trommeln und der alten Schule wird in der kalten Jahreszeit besonders lebendig, wenn weniger Besucher unterwegs sind.\n\nDer Aufstieg zum Monte Calvario am frühen Nachmittag belohnt Sie mit einer kristallklaren Sicht über die aragonische Landschaft. Achten Sie auf den frühen Sonnenuntergang gegen 17:30 Uhr.\n\nBeenden Sie den Tag bei einer heißen Schokolade oder einem kräftigen Eintopf in einer Taverne, während die Lichter von Alcorisa in der kühlen Winternacht funkeln.",
             "hu": "Szippantson mélyet a friss téli levegőből a Plaza de los Arcos téren, ahol a reggeli alacsony napfény megvilágítja a városházát. A templom vastag falai között ilyenkor is érezhető a történelem csendje.\n\nDélben húzódjon be a múzeumokba melegedni. A Húsvéti Központ interaktív tárlatai és az iskolamúzeum fűtött terei ideálisak a leghidegebb órák eltöltésére.\n\nA Kálvária-dombra kora délután érdemes felmenni, hogy a téli naplemente előtt még élvezhesse a panorámát. A San Pascual remetelaknál a szél ilyenkor fagyos lehet.\n\nEste élvezze a helyi vendégszeretetet egy tál forró 'migas' mellett, miközben a város fényei ünnepi hangulatot árasztanak a hideg éjszakában.",
             "ro": "Savurați aerul curat de iarnă în Plaza de los Arcos, unde soarele matinal luminează fațadele baroce. Interiorul bisericii Santa María este liniștit și oferă un început solemn zilei.\n\nLa prânz, vizitați muzeele pentru a vă încălzi. Istoria tobosarilor și atmosfera școlii vechi sunt fascinante în liniștea sezonului rece, departe de aglomerație.\n\nUrcați pe muntele Calvario după-amiaza devreme pentru a profita de vizibilitatea maximă oferită de aerul rece. Aveți grijă la apusul care vine rapid, în jurul orei 17:30.\n\nÎncheiați ziua cu o ciocolată caldă sau o porție de 'migas' aragoneze într-un local primitor, bucurându-vă de atmosfera intimă a orașului iarna.",
-            "en": "Enjoy the crisp winter air in Plaza de los Arcos, where the low morning sun highlights the intricate baroque carvings. The Church of Santa María offers a grand, sheltered start to your exploration.\n\nMidday is the perfect time to warm up inside the museums. Learning about the 'Ruta del Tambor' and old school days is especially cozy when the winter wind blows outside.\n\nHead up to Mount Calvary in the early afternoon for crystal-clear views of the Aragonese countryside. Be mindful that the sun sets early, casting long shadows by 5:00 PM.\n\nWrap up your winter visit with a hearty regional stew or hot chocolate in a local tavern, as the town lights begin to twinkle in the cold night air."
+            "en": "Enjoy the crisp winter air in Plaza de los Arcos, where the low morning sun highlights the intricate baroque carvings. The Church of Santa María offers a grand, sheltered start to your exploration.\n\nMidday is the perfect time to warm up inside the museums. Learning about the 'Ruta del Tambor' and old school days is especially cozy when the winter wind blows outside.\n\nHead up to Mount Calvary in the early afternoon for crystal-clear views of the Aragonese countryside. Be mindful that the sun sets early, casting long shadows by 5:00 PM.\n\nWrap up your winter visit with a hearty regional stew or hot chocolate in a local tavern, as the town lights begin to twinkle in the cold night air.",
+            "es": "Disfruta del aire frío y nítido en la Plaza de los Arcos, donde el sol bajo de la mañana realza las intrincadas tallas barrocas. La Iglesia de Santa María ofrece un inicio majestuoso y resguardado para tu exploración.\n\nAl mediodía es el momento perfecto para calentarse dentro de los museos. Aprender sobre la 'Ruta del Tambor' y los antiguos días escolares es especialmente acogedor cuando el viento invernal sopla afuera.\n\nSube al Monte Calvario a primera hora de la tarde para vistas cristalinas del campo aragonés. Ten en cuenta que el sol se pone pronto, proyectando largas sombras hacia las 17:00.\n\nTermina tu visita invernal con un contundente guiso regional o un chocolate caliente en una taberna local, mientras las luces del pueblo comienzan a brillar en el frío nocturno."
           },
           "stops": [
             {
@@ -466,7 +500,8 @@
                 "de": "Suchen Sie die sonnigen Ecken des Platzes, um die Winterwärme aufzusaugen.",
                 "hu": "Keresse a tér napsütötte pontjait a reggeli hidegben a felmelegedéshez.",
                 "ro": "Căutați zonele însorite ale pieței pentru a vă încălzi puțin dimineața.",
-                "en": "Seek out the sunny spots in the square to soak up the morning warmth."
+                "en": "Seek out the sunny spots in the square to soak up the morning warmth.",
+                "es": "Busca los lugares soleados en la plaza para absorber el calor matutino."
               }
             },
             {
@@ -475,7 +510,8 @@
                 "de": "Ziehen Sie sich warm an, da die großen Steinkirchen im Winter sehr kühl sind.",
                 "hu": "Öltözzön rétegesen, a kőfalak között télen hidegebb lehet, mint kint.",
                 "ro": "Îmbrăcați-vă bine; interiorul bisericii poate fi destul de rece iarna.",
-                "en": "Dress in layers; the large stone interior can be quite chilly in winter."
+                "en": "Dress in layers; the large stone interior can be quite chilly in winter.",
+                "es": "Vístete por capas; el gran interior de piedra puede estar bastante frío en invierno."
               }
             },
             {
@@ -484,7 +520,8 @@
                 "de": "Ein gut beheizter Ort, um mehr über die berühmten Trommelrituale zu erfahren.",
                 "hu": "Kellemes, fűtött helyszín a híres dobolási rituálék megismeréséhez.",
                 "ro": "Un spațiu bine încălzit unde puteți învăța despre ritualurile tobelor.",
-                "en": "A well-heated indoor space to learn about the famous drumming rituals."
+                "en": "A well-heated indoor space to learn about the famous drumming rituals.",
+                "es": "Un espacio interior bien calefactado para aprender sobre los famosos rituales del tambor."
               }
             },
             {
@@ -493,7 +530,8 @@
                 "de": "Genießen Sie die gemütliche Atmosphäre in diesem nostalgischen Innenraum.",
                 "hu": "Élvezze a nosztalgikus belső terek hangulatos és meleg atmoszféráját.",
                 "ro": "Bucurați-vă de atmosfera caldă și nostalgică a acestui muzeu interior.",
-                "en": "Enjoy the cozy, nostalgic atmosphere of this indoor museum space."
+                "en": "Enjoy the cozy, nostalgic atmosphere of this indoor museum space.",
+                "es": "Disfruta de la atmósfera acogedora y nostálgica de este museo interior."
               }
             },
             {
@@ -502,7 +540,8 @@
                 "de": "Besuchen Sie diesen Ort vor 17:00 Uhr, um das Tageslicht voll zu nutzen.",
                 "hu": "Látogasson el ide délután 5 előtt, hogy még sötétedés előtt lásson.",
                 "ro": "Vizitați acest punct înainte de ora 17:00 pentru a profita de lumină.",
-                "en": "Visit before 5:00 PM to ensure you have enough daylight for the views."
+                "en": "Visit before 5:00 PM to ensure you have enough daylight for the views.",
+                "es": "Visita antes de las 17:00 para asegurarte suficiente luz para las vistas."
               }
             },
             {
@@ -511,7 +550,8 @@
                 "de": "Der Wind auf dem Gipfel kann im Winter sehr schneidend sein; Mütze empfohlen.",
                 "hu": "A dombtetőn a szél metsző lehet télen; sapka és sál viselése javasolt.",
                 "ro": "Vântul pe culme poate fi tăios iarna; se recomandă căciulă și fular.",
-                "en": "The wind on the summit can be biting in winter; hats and scarves recommended."
+                "en": "The wind on the summit can be biting in winter; hats and scarves recommended.",
+                "es": "El viento en la cima puede ser cortante en invierno; se recomiendan gorro y bufanda."
               }
             }
           ],
@@ -543,6 +583,13 @@
               "The winter sun sets early, typically around 5:30 PM in Alcorisa.",
               "Try local comfort foods like 'Migas' which are perfect for winter days.",
               "Be cautious of frost or ice patches on the steps to Mount Calvary."
+            ],
+            "es": [
+              "La provincia de Teruel es conocida por sus inviernos fríos; las capas de abrigo son esenciales.",
+              "Planifica las visitas a museos al mediodía para tomar un descanso del frío exterior.",
+              "El sol de invierno se pone temprano, normalmente alrededor de las 17:30 en Alcorisa.",
+              "Prueba platos reconfortantes locales como las migas, perfectas para los días de invierno.",
+              "Ten cuidado con las heladas o placas de hielo en los escalones hacia el Monte Calvario."
             ]
           }
         }
@@ -561,7 +608,8 @@
             "de": "Plaza de los Arcos",
             "hu": "Plaza de los Arcos",
             "ro": "Plaza de los Arcos",
-            "en": "Plaza de los Arcos"
+            "en": "Plaza de los Arcos",
+            "es": "Plaza de los Arcos"
           },
           "coords": [
             -0.383,
@@ -576,7 +624,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie die Atmosphäre des Hauptplatzes.",
             "hu": "Parkolja le a kerékpárt, és élvezze a főtér hangulatát.",
             "ro": "Parcați bicicleta și bucurați-vă de atmosfera pieței principale.",
-            "en": "Park your bike and soak in the atmosphere of the main square."
+            "en": "Park your bike and soak in the atmosphere of the main square.",
+            "es": "Aparca la bici y empápate del ambiente de la plaza principal."
           }
         },
         {
@@ -584,7 +633,8 @@
             "de": "Kirche Santa María la Mayor",
             "hu": "Santa María la Mayor-templom",
             "ro": "Biserica Santa María la Mayor",
-            "en": "Church of Santa María la Mayor"
+            "en": "Church of Santa María la Mayor",
+            "es": "Iglesia de Santa María la Mayor"
           },
           "coords": [
             -0.3825,
@@ -599,7 +649,8 @@
             "de": "Ein kurzer Stopp, um die barocke Architektur zu bewundern, bevor Sie weiterfahren.",
             "hu": "Egy rövid megálló, hogy megcsodálja a barokk építészetet, mielőtt továbbhaladna.",
             "ro": "O oprire scurtă pentru a admira arhitectura barocă înainte de a continua.",
-            "en": "A quick stop to admire the baroque architecture before you continue."
+            "en": "A quick stop to admire the baroque architecture before you continue.",
+            "es": "Una parada rápida para admirar la arquitectura barroca antes de continuar."
           }
         },
         {
@@ -607,7 +658,8 @@
             "de": "Städtisches Waschhaus",
             "hu": "Városi Mosóház",
             "ro": "Spălătoria Municipală",
-            "en": "Municipal Washhouse"
+            "en": "Municipal Washhouse",
+            "es": "Lavadero Municipal"
           },
           "coords": [
             -0.3805,
@@ -622,7 +674,8 @@
             "de": "Ein interessanter Einblick in das soziale Leben vergangener Zeiten.",
             "hu": "Érdekes betekintés a múlt társadalmi életébe.",
             "ro": "O perspectivă interesantă asupra vieții sociale din trecut.",
-            "en": "An interesting glimpse into the social life of past times."
+            "en": "An interesting glimpse into the social life of past times.",
+            "es": "Una visión interesante de la vida social en tiempos pasados."
           }
         },
         {
@@ -630,7 +683,8 @@
             "de": "Haus des Zeichners (Casa del Pintor)",
             "hu": "A Rajzoló Háza",
             "ro": "Casa Desenatorului",
-            "en": "House of the Drawer"
+            "en": "House of the Drawer",
+            "es": "Casa del Dibujante"
           },
           "coords": [
             -0.384,
@@ -645,7 +699,8 @@
             "de": "Entdecken Sie das Werk eines lokalen Künstlers in diesem kleinen, aber feinen Museum.",
             "hu": "Fedezze fel egy helyi művész munkásságát ebben a kicsi, de finom múzeumban.",
             "ro": "Descoperiți opera unui artist local în acest muzeu mic, dar rafinat.",
-            "en": "Discover the work of a local artist in this small but fine museum."
+            "en": "Discover the work of a local artist in this small but fine museum.",
+            "es": "Descubre la obra de un artista local en este pequeño pero excelente museo."
           }
         },
         {
@@ -653,7 +708,8 @@
             "de": "Interpretationszentrum der Karwoche",
             "hu": "Nagyhét Értelmező Központ",
             "ro": "Centrul de Interpretare a Săptămânii Sfinte",
-            "en": "Holy Week Interpretation Center"
+            "en": "Holy Week Interpretation Center",
+            "es": "Centro de Interpretación de la Semana Santa"
           },
           "coords": [
             -0.3838,
@@ -668,7 +724,8 @@
             "de": "Planen Sie genügend Zeit ein, um die Bedeutung der Trommeln und Bombos zu verstehen.",
             "hu": "Szánjon elég időt, hogy megértse a dobok és bombók jelentőségét.",
             "ro": "Planificați-vă suficient timp pentru a înțelege semnificația tobelor și a bombo-urilor.",
-            "en": "Allow enough time to understand the significance of the drums and bombos."
+            "en": "Allow enough time to understand the significance of the drums and bombos.",
+            "es": "Dedica tiempo suficiente para entender el significado de los tambores y bombos."
           }
         },
         {
@@ -676,7 +733,8 @@
             "de": "Monte Calvario",
             "hu": "Kálvária-hegy",
             "ro": "Muntele Calvario",
-            "en": "Mount Calvary"
+            "en": "Mount Calvary",
+            "es": "Monte Calvario"
           },
           "coords": [
             -0.3883,
@@ -691,7 +749,8 @@
             "de": "Den letzten Teil müssen Sie eventuell schieben, aber die Abfahrt wird ein Spaß!",
             "hu": "Lehet, hogy az utolsó szakaszon tolni kell, de a lejtő szórakoztató lesz!",
             "ro": "S-ar putea să trebuiască să împingeți pe ultima porțiune, dar coborârea va fi distractivă!",
-            "en": "You might have to push the last part, but the ride down will be fun!"
+            "en": "You might have to push the last part, but the ride down will be fun!",
+            "es": "Puede que tengas que empujar en la última parte, ¡pero la bajada será divertida!"
           }
         },
         {
@@ -699,7 +758,8 @@
             "de": "Ermita de San Pascual",
             "hu": "Szent Paszkál-kápolna",
             "ro": "Schitul San Pascual",
-            "en": "Hermitage of San Pascual"
+            "en": "Hermitage of San Pascual",
+            "es": "Ermita de San Pascual"
           },
           "coords": [
             -0.3875,
@@ -714,7 +774,8 @@
             "de": "Der perfekte Ort für eine letzte Pause, bevor Sie zurück ins Zentrum rollen.",
             "hu": "Tökéletes hely egy utolsó pihenőre, mielőtt visszagurul a központba.",
             "ro": "Locul perfect pentru o ultimă pauză înainte de a vă întoarce în centru.",
-            "en": "The perfect spot for a final break before rolling back to the center."
+            "en": "The perfect spot for a final break before rolling back to the center.",
+            "es": "El lugar perfecto para un descanso final antes de volver al centro."
           }
         }
       ],
@@ -722,7 +783,8 @@
         "de": "Auf zwei Rädern erkunden Sie Alcorisa flexibel und sportlich. Vom Start an der Plaza de los Arcos geht es schnell zu den wichtigsten Sehenswürdigkeiten im Zentrum. Eine kleine Schleife führt Sie zum historischen Waschhaus, einem Zeugen der Vergangenheit. Der Vormittag ist eine Mischung aus Kunst und Tradition, bevor Sie sich nach dem Mittagessen der Herausforderung des Monte Calvario stellen. Die Belohnung ist eine fantastische Aussicht und eine rasante Abfahrt. Der Tag endet mit einem ruhigen Moment an der Ermita de San Pascual, hoch über der Stadt.",
         "hu": "Két keréken rugalmasan és sportosan fedezheti fel Alcorisát. A Plaza de los Arcos térről indulva gyorsan elérheti a központ legfontosabb látnivalóit. Egy kis kitérő a történelmi mosóházhoz, a múlt tanújához vezet. A délelőtt a művészet és a hagyományok keveréke, mielőtt ebéd után nekivágna a Monte Calvario kihívásának. A jutalom egy fantasztikus kilátás és egy gyors lejtőzés. A nap a város felett magasodó Ermita de San Pascual-nál tett csendes pillanattal zárul.",
         "ro": "Pe două roți, explorați Alcorisa într-un mod flexibil și sportiv. Pornind din Plaza de los Arcos, ajungeți rapid la principalele atracții din centru. O mică buclă vă duce la spălătoria istorică, o mărturie a trecutului. Dimineața este un amestec de artă și tradiție, înainte de a face față provocării Muntelui Calvario după prânz. Recompensa este o priveliște fantastică și o coborâre rapidă. Ziua se încheie cu un moment de liniște la Schitul San Pascual, deasupra orașului.",
-        "en": "On two wheels, you can explore Alcorisa flexibly and athletically. Starting from Plaza de los Arcos, you can quickly reach the main sights in the center. A small loop takes you to the historic washhouse, a witness to the past. The morning is a mix of art and tradition before you tackle the challenge of Mount Calvary after lunch. The reward is a fantastic view and a swift descent. The day ends with a quiet moment at the Hermitage of San Pascual, high above the town."
+        "en": "On two wheels, you can explore Alcorisa flexibly and athletically. Starting from Plaza de los Arcos, you can quickly reach the main sights in the center. A small loop takes you to the historic washhouse, a witness to the past. The morning is a mix of art and tradition before you tackle the challenge of Mount Calvary after lunch. The reward is a fantastic view and a swift descent. The day ends with a quiet moment at the Hermitage of San Pascual, high above the town.",
+        "es": "En dos ruedas puedes explorar Alcorisa de forma flexible y atlética. Partiendo de la Plaza de los Arcos, llegarás rápidamente a los principales puntos del centro. Un pequeño circuito te lleva al histórico lavadero, testigo del pasado. La mañana es una mezcla de arte y tradición antes de afrontar el desafío del Monte Calvario tras el almuerzo. La recompensa es una vista fantástica y un descenso rápido. El día termina con un momento de tranquilidad en la Ermita de San Pascual, en lo alto del pueblo."
       },
       "gastro_picks": {
         "de": [
@@ -918,6 +980,12 @@
           "Bring a good bike lock to secure it safely at the sights.",
           "Some streets in the center can be narrow and steep.",
           "Pay attention to one-way streets in the old town center."
+        ],
+        "es": [
+          "Revisa tus frenos antes de descender del Monte Calvario.",
+          "Lleva un buen candado para asegurar la bici con seguridad en los puntos de interés.",
+          "Algunas calles del centro pueden ser estrechas y empinadas.",
+          "Presta atención a las calles de sentido único en el casco antiguo."
         ]
       },
       "variants": {
@@ -926,7 +994,8 @@
             "de": "Trotz Regen ist Alcorisa per Rad erkundbar, wenn man auf die glatten Steine achtet. Starten Sie an der Plaza und nutzen Sie die kurzen Wege zwischen den historischen Gebäuden.\n\nMittags bieten das Waschhaus und die Museen trockene Haltepunkte. Die kurzen Distanzen minimieren die Zeit im direkten Regen.\n\nDer Weg zum Monte Calvario ist steil und bei Nässe eine fahrerische Herausforderung. Die Auffahrt ist anstrengend, aber die Aussicht bleibt lohnenswert.\n\nLassen Sie den Tag entspannt ausklingen und achten Sie darauf, Ihr Rad an einem trockenen Ort abzustellen.",
             "hu": "Az eső sem akadály a kerékpározáshoz, ha figyelünk a csúszós útburkolatra. Kezdje a túrát a főtéren, és haladjon gyorsan a fedett megállók között.\n\nDélben a régi mosoda és a múzeumok kiváló helyszínek a megálláshoz, ahol a biciklit is biztonságban, esőtől védve tudhatja.\n\nA Kálvária-dombra vezető emelkedő nedves úton komolyabb koncentrációt igényel. Lefelé menet fokozottan figyeljen a fékekre.\n\nAz este közeledtével válasszon egy központi helyet a pihenéshez, ahol megszáríthatja felszerelését.",
             "ro": "Explorarea pe bicicletă în ploaie necesită atenție sporită la pavajul ud. Începeți din piață și profitați de distanțele scurte dintre obiective.\n\nLa prânz, spălătoria municipală și muzeele oferă puncte de oprire uscate. Verificați frânele înainte de a pleca din nou la drum.\n\nUrcarea spre Calvario este solicitantă pe ploaie, iar coborârea trebuie făcută cu viteză redusă. Panorama este spectaculoasă chiar și prin nori.\n\nÎncheiați ziua într-un loc primitor, asigurându-vă că aveți echipament de schimb uscat.",
-            "en": "Cycling through Alcorisa in the rain is manageable with caution on the wet cobblestones. Start at the main square and make use of the short distances between landmarks.\n\nMidday stops like the Municipal Washhouse and the museums provide dry intervals. Ensure your bike is parked securely during these indoor visits.\n\nThe climb to Mount Calvary is steep and requires careful handling in wet conditions. Take the descent slowly to ensure safety on the slick roads.\n\nFinish your ride at a local spot where you can dry off and enjoy some warm Aragonese hospitality."
+            "en": "Cycling through Alcorisa in the rain is manageable with caution on the wet cobblestones. Start at the main square and make use of the short distances between landmarks.\n\nMidday stops like the Municipal Washhouse and the museums provide dry intervals. Ensure your bike is parked securely during these indoor visits.\n\nThe climb to Mount Calvary is steep and requires careful handling in wet conditions. Take the descent slowly to ensure safety on the slick roads.\n\nFinish your ride at a local spot where you can dry off and enjoy some warm Aragonese hospitality.",
+            "es": "Circular en bici por Alcorisa bajo la lluvia es factible con precaución en los empedrados mojados. Comienza en la plaza principal y aprovecha las cortas distancias entre los monumentos.\n\nParadas al mediodía como el Lavadero Municipal y los museos ofrecen intervalos secos. Asegura bien tu bici durante estas visitas interiores.\n\nLa subida al Monte Calvario es empinada y requiere cuidado con suelo mojado. Toma la bajada despacio para garantizar seguridad en las vías resbaladizas.\n\nTermina tu ruta en un local donde puedas secarte y disfrutar de la cálida hospitalidad aragonesa."
           },
           "stops": [
             {
@@ -935,7 +1004,8 @@
                 "de": "Parken Sie Ihr Rad unter den Arkaden, um den Sattel trocken zu halten.",
                 "hu": "Parkoljon az árkádok alatt, hogy a nyereg száraz maradjon.",
                 "ro": "Parcați bicicleta sub arcade pentru a păstra șaua uscată.",
-                "en": "Park your bike under the arches to keep the seat dry."
+                "en": "Park your bike under the arches to keep the seat dry.",
+                "es": "Aparca la bici bajo los arcos para mantener el sillín seco."
               }
             },
             {
@@ -944,7 +1014,8 @@
                 "de": "Kurzer Stopp; achten Sie beim Absteigen auf rutschige Pflastersteine.",
                 "hu": "Rövid megálló; leszálláskor ügyeljen a csúszós macskakövekre.",
                 "ro": "Oprire scurtă; atenție la pavajul alunecos când coborâți de pe bicicletă.",
-                "en": "Short stop; be careful of slippery cobbles when dismounting."
+                "en": "Short stop; be careful of slippery cobbles when dismounting.",
+                "es": "Parada corta; ten cuidado con los cantos rodados resbaladizos al desmontar."
               }
             },
             {
@@ -953,7 +1024,8 @@
                 "de": "Ein interessanter, überdachter Ort, der Schutz vor Regen bietet.",
                 "hu": "Érdekes, fedett történelmi helyszín, amely védelmet nyújt az eső elől.",
                 "ro": "Un loc istoric interesant și acoperit care oferă protecție contra ploii.",
-                "en": "An interesting, covered historical site that provides shelter from the rain."
+                "en": "An interesting, covered historical site that provides shelter from the rain.",
+                "es": "Un sitio histórico interesante y cubierto que ofrece refugio de la lluvia."
               }
             },
             {
@@ -962,7 +1034,8 @@
                 "de": "Längere Pause im Trockenen einplanen, während die Schauer vorbeiziehen.",
                 "hu": "Tervezzen hosszabb pihenőt bent, amíg elvonulnak a záporok.",
                 "ro": "Planificați o pauză mai lungă la interior până trec aversele.",
-                "en": "Plan a longer indoor break here while the showers pass by."
+                "en": "Plan a longer indoor break here while the showers pass by.",
+                "es": "Planifica una pausa interior más larga aquí mientras pasan los chubascos."
               }
             },
             {
@@ -971,7 +1044,8 @@
                 "de": "Sicherer Abstellplatz in der Nähe; nutzen Sie die Zeit zur Aufwärmung.",
                 "hu": "Biztonságos tároló a közelben; használja az időt a bemelegedésre.",
                 "ro": "Loc de parcare sigur în apropiere; folosiți timpul pentru a vă încălzi.",
-                "en": "Safe parking nearby; use the time to warm up and explore."
+                "en": "Safe parking nearby; use the time to warm up and explore.",
+                "es": "Aparcamiento seguro cercano; aprovecha para entrar en calor y explorar."
               }
             },
             {
@@ -980,7 +1054,8 @@
                 "de": "Fahren Sie vorsichtig; der Weg ist steil und bei Nässe tückisch.",
                 "hu": "Hajtson óvatosan; az emelkedő meredek és nedvesen trükkös.",
                 "ro": "Conduceți cu atenție; drumul este abrupt și înșelător pe ploaie.",
-                "en": "Ride carefully; the path is steep and can be tricky when wet."
+                "en": "Ride carefully; the path is steep and can be tricky when wet.",
+                "es": "Conduce con cuidado; el camino es empinado y puede ser complicado cuando está mojado."
               }
             },
             {
@@ -989,7 +1064,8 @@
                 "de": "Der höchste Punkt; bereiten Sie sich auf eine kühle Abfahrt im Regen vor.",
                 "hu": "A legmagasabb pont; készüljön fel a hűvös, esős lejtmenetre.",
                 "ro": "Cel mai înalt punct; pregătiți-vă pentru o coborâre răcoroasă pe ploaie.",
-                "en": "The highest point; prepare for a cool descent in the rain."
+                "en": "The highest point; prepare for a cool descent in the rain.",
+                "es": "El punto más alto; prepárate para un descenso fresco bajo la lluvia."
               }
             }
           ],
@@ -1021,6 +1097,13 @@
               "Use the Municipal Washhouse as a strategic shelter during heavy rain.",
               "Always try to park your bike under overhangs or the town arches.",
               "Mudguards are highly recommended for the roads around Alcorisa in wet weather."
+            ],
+            "es": [
+              "Lleva ropa impermeable y revisa los frenos antes de comenzar la ruta.",
+              "Evita giros cerrados sobre los empedrados resbaladizos del casco antiguo.",
+              "Usa el Lavadero Municipal como refugio estratégico durante lluvias intensas.",
+              "Siempre intenta aparcar la bici bajo aleros o los arcos del pueblo.",
+              "Los guardabarros son muy recomendables para las vías alrededor de Alcorisa en tiempo húmedo."
             ]
           }
         },
@@ -1029,7 +1112,8 @@
             "de": "Eine Wintertour durch Alcorisa bietet klare Luft und weite Sichten. Starten Sie warm eingepackt an der Plaza de los Arcos, wenn der Frost auf den Dächern glitzert.\n\nMittags bieten die Museen die nötige Wärme. Der Radweg durch den Ort ist kurz, sodass Sie nicht zu lange dem kalten Wind ausgesetzt sind.\n\nDer Aufstieg zum Monte Calvario bringt Sie ins Schwitzen, aber oben angekommen weht oft ein eisiger Wind. Genießen Sie die winterliche Stille am San Pascual.\n\nBeenden Sie die Tour rechtzeitig vor Sonnenuntergang, da die Temperaturen in Aragon nach 17:00 Uhr drastisch sinken.",
             "hu": "A téli kerékpártúra Alcorisában friss levegőt és tiszta tájakat kínál. Induljon rétegesen öltözve a főtérről, amikor még dér fedi a háztetőket.\n\nDélben a múzeumok látogatása tökéletes alkalom a felmelegedésre. A városon belüli távok rövidek, így nem hűl ki túlságosan a menetszélben.\n\nA Kálvária-dombra való felkapaszkodás közben kimelegszik, de a tetőn gyakran jeges szél fúj. Élvezze a téli nyugalmat a remetelaknál.\n\nFejezze be a túrát még naplemente előtt, mert 5 óra után a hőmérséklet hirtelen és jelentősen csökken Aragon ezen vidékén.",
             "ro": "O tură de iarnă în Alcorisa oferă aer curat și vizibilitate excelentă. Începeți bine echipat din Plaza de los Arcos, când bruma încă strălucește pe acoperișuri.\n\nLa prânz, muzeele sunt refugiul ideal pentru încălzire. Traseul prin oraș este scurt, limitând expunerea la vântul rece de munte.\n\nUrcarea spre Calvario vă va încălzi prin efort, dar sus vântul poate fi înghețat. Savurați liniștea hibernală la schitul San Pascual.\n\nÎncheiați tura înainte de apus, deoarece temperaturile scad drastic în Aragon după ora 17:00.",
-            "en": "A winter ride through Alcorisa offers crisp air and far-reaching views. Start well-layered at Plaza de los Arcos when the frost still glistens on the rooftops.\n\nMidday museum visits provide a necessary warm-up. The cycling distances within the town are short, limiting your exposure to the cold wind.\n\nThe climb to Mount Calvary will warm you up through effort, but expect a biting wind at the summit. Enjoy the serene winter silence at the hermitage.\n\nFinish your ride well before sunset, as temperatures in this part of Aragon drop significantly after 5:00 PM."
+            "en": "A winter ride through Alcorisa offers crisp air and far-reaching views. Start well-layered at Plaza de los Arcos when the frost still glistens on the rooftops.\n\nMidday museum visits provide a necessary warm-up. The cycling distances within the town are short, limiting your exposure to the cold wind.\n\nThe climb to Mount Calvary will warm you up through effort, but expect a biting wind at the summit. Enjoy the serene winter silence at the hermitage.\n\nFinish your ride well before sunset, as temperatures in this part of Aragon drop significantly after 5:00 PM.",
+            "es": "Un paseo invernal por Alcorisa ofrece aire fresco y vistas lejanas. Comienza bien abrigado en la Plaza de los Arcos cuando la escarcha aún brilla en los tejados.\n\nLas visitas a museos al mediodía proporcionan un necesario calentamiento. Las distancias en bicicleta dentro del pueblo son cortas, lo que limita la exposición al viento frío.\n\nLa subida al Monte Calvario te calentará por el esfuerzo, pero espera un viento cortante en la cima. Disfruta del silencio invernal y sereno en la ermita.\n\nTermina tu ruta con antelación al atardecer, ya que las temperaturas en esta parte de Aragón bajan significativamente después de las 17:00."
           },
           "stops": [
             {
@@ -1038,7 +1122,8 @@
                 "de": "Achten Sie auf morgendliche Reifglätte auf dem Kopfsteinpflaster.",
                 "hu": "Ügyeljen a reggeli zúzmarás macskakövekre a téren.",
                 "ro": "Atenție la pavajul care poate fi înghețat dimineața devreme.",
-                "en": "Be careful of morning frost on the cobblestones in the square."
+                "en": "Be careful of morning frost on the cobblestones in the square.",
+                "es": "Ten cuidado con la escarcha matinal en los adoquines de la plaza."
               }
             },
             {
@@ -1047,7 +1132,8 @@
                 "de": "Kurzer Stopp; halten Sie sich in Bewegung, um nicht auszukühlen.",
                 "hu": "Rövid megálló; maradjon mozgásban, hogy ne hűljön ki.",
                 "ro": "Oprire scurtă; rămâneți în mișcare pentru a nu vă răci.",
-                "en": "Short stop; keep moving to maintain your body heat."
+                "en": "Short stop; keep moving to maintain your body heat.",
+                "es": "Parada corta; sigue en movimiento para mantener el calor corporal."
               }
             },
             {
@@ -1056,7 +1142,8 @@
                 "de": "Historisch interessant, aber im Winter ein sehr zugiger Ort.",
                 "hu": "Történelmileg érdekes, de télen kifejezetten huzatos helyszín.",
                 "ro": "Interesant istoric, dar un loc unde trage curentul iarna.",
-                "en": "Historically interesting but can be quite drafty in winter."
+                "en": "Historically interesting but can be quite drafty in winter.",
+                "es": "Interesante desde el punto de vista histórico, pero puede ser bastante frío y ventoso en invierno."
               }
             },
             {
@@ -1065,7 +1152,8 @@
                 "de": "Nutzen Sie diesen Innenraum, um Ihre Finger für die Weiterfahrt aufzuwärmen.",
                 "hu": "Használja ezt a belső teret ujjai felmelegítésére a továbbhaladás előtt.",
                 "ro": "Folosiți acest spațiu interior pentru a vă încălzi mâinile pentru drum.",
-                "en": "Use this indoor space to warm up your fingers for the next leg."
+                "en": "Use this indoor space to warm up your fingers for the next leg.",
+                "es": "Utiliza este espacio interior para calentar los dedos antes del siguiente tramo."
               }
             },
             {
@@ -1074,7 +1162,8 @@
                 "de": "Idealer Ort für eine längere Pause in einer beheizten Umgebung.",
                 "hu": "Ideális helyszín egy hosszabb pihenőhöz fűtött környezetben.",
                 "ro": "Loc ideal pentru o pauză mai lungă într-un mediu încălzit.",
-                "en": "Ideal spot for a longer break in a heated indoor environment."
+                "en": "Ideal spot for a longer break in a heated indoor environment.",
+                "es": "Lugar ideal para una pausa más larga en un ambiente interior climatizado."
               }
             },
             {
@@ -1083,7 +1172,8 @@
                 "de": "Harter Aufstieg; oben angekommen sofort die Jacke wieder schließen.",
                 "hu": "Kemény emelkedő; felérve azonnal húzza fel a cipzárt a dzsekijén.",
                 "ro": "Urcare grea; odată ajuns sus, închideți imediat fermoarul jachetei.",
-                "en": "Tough climb; once at the top, zip up your jacket immediately."
+                "en": "Tough climb; once at the top, zip up your jacket immediately.",
+                "es": "Subida dura; una vez arriba, súbete la cremallera de la chaqueta de inmediato."
               }
             },
             {
@@ -1092,7 +1182,8 @@
                 "de": "Genießen Sie die Aussicht, aber bleiben Sie nicht zu lange im kalten Wind.",
                 "hu": "Élvezze a kilátást, de ne maradjon túl sokáig a hideg szélben.",
                 "ro": "Bucurați-vă de priveliște, dar nu stați prea mult în vântul rece.",
-                "en": "Enjoy the view but don't stay too long in the freezing wind."
+                "en": "Enjoy the view but don't stay too long in the freezing wind.",
+                "es": "Disfruta de las vistas pero no te quedes demasiado tiempo en el viento helador."
               }
             }
           ],
@@ -1124,6 +1215,13 @@
               "Plan your ride to finish by 5:00 PM at the latest to avoid the cold night.",
               "Drink warm beverages during your stops in local cafes near the square.",
               "Check your tire pressure; cold air can cause it to drop slightly."
+            ],
+            "es": [
+              "Lleva guantes térmicos; el frío en los puños se subestima con frecuencia.",
+              "Los descensos desde el Monte Calvario pueden estar muy helados en invierno.",
+              "Planifica tu ruta para terminar a más tardar a las 17:00 y evitar la noche fría.",
+              "Bebe bebidas calientes durante las paradas en cafeterías junto a la plaza.",
+              "Revisa la presión de los neumáticos; el aire frío puede hacer que baje ligeramente."
             ]
           }
         }
@@ -1142,7 +1240,8 @@
             "de": "Parkplatz Zentrum",
             "hu": "Parkoló a központban",
             "ro": "Parcare în centru",
-            "en": "Central Parking"
+            "en": "Central Parking",
+            "es": "Aparcamiento Central"
           },
           "coords": [
             -0.385,
@@ -1158,7 +1257,8 @@
             "de": "Parken Sie hier, um den ersten Cluster zu Fuß zu erkunden.",
             "hu": "Parkoljon itt, hogy gyalogosan fedezze fel az első látnivalócsoportot.",
             "ro": "Parcați aici pentru a explora primul grup de obiective pe jos.",
-            "en": "Park here to explore the first cluster on foot."
+            "en": "Park here to explore the first cluster on foot.",
+            "es": "Aparca aquí para explorar el primer conjunto a pie."
           }
         },
         {
@@ -1166,7 +1266,8 @@
             "de": "Plaza de los Arcos",
             "hu": "Plaza de los Arcos",
             "ro": "Plaza de los Arcos",
-            "en": "Plaza de los Arcos"
+            "en": "Plaza de los Arcos",
+            "es": "Plaza de los Arcos"
           },
           "coords": [
             -0.383,
@@ -1182,7 +1283,8 @@
             "de": "Der perfekte Ausgangspunkt für Ihren Rundgang durch das historische Zentrum.",
             "hu": "Tökéletes kiindulópont a történelmi központban tett sétához.",
             "ro": "Punctul de plecare perfect pentru turul dumneavoastră pietonal prin centrul istoric.",
-            "en": "The perfect starting point for your walking tour of the historic center."
+            "en": "The perfect starting point for your walking tour of the historic center.",
+            "es": "El punto de inicio perfecto para tu paseo por el centro histórico."
           }
         },
         {
@@ -1190,7 +1292,8 @@
             "de": "Kirche Santa María la Mayor",
             "hu": "Santa María la Mayor-templom",
             "ro": "Biserica Santa María la Mayor",
-            "en": "Church of Santa María la Mayor"
+            "en": "Church of Santa María la Mayor",
+            "es": "Iglesia de Santa María la Mayor"
           },
           "coords": [
             -0.3825,
@@ -1206,7 +1309,8 @@
             "de": "Nur ein kurzer Spaziergang von der Plaza entfernt, ein Muss für Architekturliebhaber.",
             "hu": "Csak egy rövid séta a tértől, az építészet szerelmeseinek kötelező.",
             "ro": "La doar o scurtă plimbare de piață, un punct de atracție pentru iubitorii de arhitectură.",
-            "en": "Just a short walk from the plaza, a must-see for architecture lovers."
+            "en": "Just a short walk from the plaza, a must-see for architecture lovers.",
+            "es": "A solo un corto paseo desde la plaza, imprescindible para los amantes de la arquitectura."
           }
         },
         {
@@ -1214,7 +1318,8 @@
             "de": "Interpretationszentrum der Karwoche",
             "hu": "Nagyhét Értelmező Központ",
             "ro": "Centrul de Interpretare a Săptămânii Sfinte",
-            "en": "Holy Week Interpretation Center"
+            "en": "Holy Week Interpretation Center",
+            "es": "Centro de Interpretación de la Semana Santa"
           },
           "coords": [
             -0.3838,
@@ -1230,7 +1335,8 @@
             "de": "Tauchen Sie tief in eine der wichtigsten Traditionen der Region ein.",
             "hu": "Merüljön el a régió egyik legfontosabb hagyományában.",
             "ro": "Pătrundeți în profunzimea uneia dintre cele mai importante tradiții ale regiunii.",
-            "en": "Dive deep into one of the region's most important traditions."
+            "en": "Dive deep into one of the region's most important traditions.",
+            "es": "Sumérgete en una de las tradiciones más importantes de la región."
           }
         },
         {
@@ -1238,7 +1344,8 @@
             "de": "Parkplatz am Monte Calvario",
             "hu": "Parkoló a Monte Calvario lábánál",
             "ro": "Parcare la Monte Calvario",
-            "en": "Parking at Monte Calvario"
+            "en": "Parking at Monte Calvario",
+            "es": "Aparcamiento en Monte Calvario"
           },
           "coords": [
             -0.387,
@@ -1254,7 +1361,8 @@
             "de": "Stellen Sie Ihr Auto hier ab, um den zweiten Cluster zu erklimmen.",
             "hu": "Hagyja itt az autóját, hogy megmássza a második látnivalócsoportot.",
             "ro": "Lăsați mașina aici pentru a urca la al doilea grup de obiective.",
-            "en": "Leave your car here to climb the second cluster."
+            "en": "Leave your car here to climb the second cluster.",
+            "es": "Deja el coche aquí para subir al segundo conjunto."
           }
         },
         {
@@ -1262,7 +1370,8 @@
             "de": "Monte Calvario & Ermita de San Pascual",
             "hu": "Monte Calvario és Ermita de San Pascual",
             "ro": "Muntele Calvario și Schitul San Pascual",
-            "en": "Mount Calvary & Hermitage of San Pascual"
+            "en": "Mount Calvary & Hermitage of San Pascual",
+            "es": "Monte Calvario y Ermita de San Pascual"
           },
           "coords": [
             -0.3883,
@@ -1278,7 +1387,8 @@
             "de": "Kombinieren Sie den Aufstieg zum Aussichtspunkt mit einem Besuch der ruhigen Kapelle.",
             "hu": "Kombinálja a kilátóponthoz való feljutást a csendes kápolna meglátogatásával.",
             "ro": "Combinați urcarea la punctul de belvedere cu o vizită la schitul liniștit.",
-            "en": "Combine the climb to the viewpoint with a visit to the tranquil hermitage."
+            "en": "Combine the climb to the viewpoint with a visit to the tranquil hermitage.",
+            "es": "Combina la subida al mirador con la visita a la tranquila ermita."
           }
         }
       ],
@@ -1286,7 +1396,8 @@
         "de": "Mit dem Auto genießen Sie das Beste aus beiden Welten: den Komfort, entferntere Punkte zu erreichen, und die Freiheit, das Zentrum zu Fuß zu erkunden. Parken Sie Ihr Auto und tauchen Sie ein in das Herz von Alcorisa. Der Vormittag gehört dem historischen Kern mit Plaza, Kirche und Museum. Nach dem Mittagessen fahren Sie eine kurze Strecke zum Fuße des Monte Calvario. Hier beginnt der zweite Teil Ihres Abenteuers: ein Spaziergang nach oben zu atemberaubenden Aussichten und spiritueller Ruhe, bevor Sie den Tag beenden.",
         "hu": "Autóval mindkét világ legjavát élvezheti: a távolabbi pontok elérésének kényelmét és a központ gyalogos felfedezésének szabadságát. Parkolja le autóját, és merüljön el Alcorisa szívében. A délelőtt a történelmi magé a térrel, a templommal és a múzeummal. Ebéd után rövid autóút vezet a Monte Calvario lábához. Itt kezdődik a kaland második része: egy séta fel a lélegzetelállító kilátáshoz és a spirituális békéhez, mielőtt befejezné a napot.",
         "ro": "Cu mașina, vă bucurați de ce e mai bun din ambele lumi: confortul de a ajunge la puncte mai îndepărtate și libertatea de a explora centrul pe jos. Parcați mașina și scufundați-vă în inima orașului Alcorisa. Dimineața este dedicată centrului istoric, cu piața, biserica și muzeul său. După prânz, o scurtă călătorie cu mașina vă duce la poalele Muntelui Calvario. Aici începe a doua parte a aventurii: o plimbare până la priveliști uluitoare și liniște spirituală, înainte de a încheia ziua.",
-        "en": "By car, you enjoy the best of both worlds: the comfort of reaching more distant points and the freedom to explore the center on foot. Park your car and immerse yourself in the heart of Alcorisa. The morning belongs to the historic core with its plaza, church, and museum. After lunch, a short drive takes you to the foot of Mount Calvary. Here begins the second part of your adventure: a walk up to breathtaking views and spiritual tranquility before you end the day."
+        "en": "By car, you enjoy the best of both worlds: the comfort of reaching more distant points and the freedom to explore the center on foot. Park your car and immerse yourself in the heart of Alcorisa. The morning belongs to the historic core with its plaza, church, and museum. After lunch, a short drive takes you to the foot of Mount Calvary. Here begins the second part of your adventure: a walk up to breathtaking views and spiritual tranquility before you end the day.",
+        "es": "En coche disfrutas lo mejor de ambos mundos: la comodidad de llegar a puntos más distantes y la libertad de explorar el centro a pie. Aparca y sumérgete en el corazón de Alcorisa. La mañana pertenece al núcleo histórico con su plaza, iglesia y museo. Tras el almuerzo, un breve trayecto te lleva al pie del Monte Calvario. Aquí comienza la segunda parte de la aventura: una caminata hasta vistas impresionantes y tranquilidad espiritual antes de terminar el día."
       },
       "gastro_picks": {
         "de": [
@@ -1482,6 +1593,12 @@
           "The streets in the center are very narrow. Drive carefully.",
           "Plan your route in advance, as GPS reception can be poor in the alleys.",
           "Pay attention to parking restrictions and times to avoid fines."
+        ],
+        "es": [
+          "Busca las zonas azules ('Zona Azul') para aparcar; suelen ser de pago pero céntricas.",
+          "Las calles del centro son muy estrechas. Conduce con cuidado.",
+          "Planifica la ruta con antelación, ya que la recepción GPS puede ser deficiente en los callejones.",
+          "Presta atención a las restricciones y horarios de aparcamiento para evitar multas."
         ]
       },
       "variants": {
@@ -1490,7 +1607,8 @@
             "de": "Das Auto ist heute der ideale Begleiter durch Alcorisa. Starten Sie am zentralen Parkplatz und machen Sie den kurzen Spaziergang zur Plaza de los Arcos unter einem Schirm.\n\nMittags erreichen Sie bequem das Karwochen-Zentrum. Die Fahrt zum Monte Calvario erspart Ihnen den mühsamen Aufstieg im Regen.\n\nDer Parkplatz am Monte Calvario ermöglicht es Ihnen, die Aussicht fast trocken zu genießen, bevor Sie den kurzen Weg zur Eremitage gehen.\n\nBeenden Sie den Tag entspannt, ohne sich um nasse Kleidung sorgen zu müssen, und genießen Sie die abendliche Stimmung der beleuchteten nassen Gassen.",
             "hu": "Az autó ma a legkényelmesebb választás Alcorisában. Parkoljon le a központban, és egy esernyővel tegye meg a rövid utat a főtér árkádjaiig.\n\nDélben könnyen átgurulhat a múzeumokhoz, elkerülve az ázást. A Kálvária-dombra való felhajtás megkíméli a csapadékos gyaloglástól.\n\nA Monte Calvario parkolójából szinte szárazon élvezheti a kilátást, mielőtt megtenné az utolsó pár métert a remetelakhoz.\n\nZárja a napot nyugodtan, anélkül, hogy aggódnia kellene a vizes ruhák miatt, és csodálja az esti város fényeit az ablakból.",
             "ro": "Mașina este partenerul ideal astăzi în Alcorisa. Începeți din parcarea centrală și faceți scurta plimbare spre Plaza de los Arcos cu o umbrelă.\n\nLa prânz, ajungeți confortabil la Centrul de Interpretare, evitând ploaia. Drumul spre muntele Calvario vă scutește de urcarea obositoare prin apă.\n\nParcarea de la Monte Calvario vă permite să vă bucurați de priveliște aproape uscat, înainte de a merge puțin până la schit.\n\nÎncheiați ziua relaxat, fără grija hainelor ude, admirând atmosfera nocturnă a străzilor luminate și umede.",
-            "en": "The car is the ideal companion in Alcorisa today. Start at the central parking and take the short walk to Plaza de los Arcos under an umbrella.\n\nAt midday, you can easily drive to the Holy Week Center, staying dry between stops. Driving up to Mount Calvary saves you the steep walk in the rain.\n\nThe parking at Monte Calvario allows you to enjoy the views nearly dry before the short walk to the hermitage.\n\nFinish your day relaxed, without worrying about wet gear, and enjoy the evening ambiance of the rain-slicked historic streets."
+            "en": "The car is the ideal companion in Alcorisa today. Start at the central parking and take the short walk to Plaza de los Arcos under an umbrella.\n\nAt midday, you can easily drive to the Holy Week Center, staying dry between stops. Driving up to Mount Calvary saves you the steep walk in the rain.\n\nThe parking at Monte Calvario allows you to enjoy the views nearly dry before the short walk to the hermitage.\n\nFinish your day relaxed, without worrying about wet gear, and enjoy the evening ambiance of the rain-slicked historic streets.",
+            "es": "El coche es el compañero ideal en Alcorisa hoy. Comienza en el aparcamiento central y da el corto paseo hacia la Plaza de los Arcos bajo un paraguas.\n\nAl mediodía puedes conducir fácilmente hasta el Centro de la Semana Santa, manteniéndote seco entre paradas. Subir en coche al Monte Calvario te evita la empinada caminata bajo la lluvia.\n\nEl aparcamiento en Monte Calvario te permite disfrutar de las vistas casi seco antes de la corta caminata hasta la ermita.\n\nTermina el día relajado, sin preocuparte por la ropa mojada, y disfruta del ambiente nocturno de las calles históricas, brillantes por la lluvia."
           },
           "stops": [
             {
@@ -1499,7 +1617,8 @@
                 "de": "Idealer Ausgangspunkt; halten Sie Ihren Regenschirm griffbereit.",
                 "hu": "Ideális kiindulópont; tartsa kéznél az esernyőjét.",
                 "ro": "Punct de plecare ideal; păstrați umbrela la îndemână.",
-                "en": "Ideal starting point; keep your umbrella handy as you exit."
+                "en": "Ideal starting point; keep your umbrella handy as you exit.",
+                "es": "Punto de inicio ideal; ten el paraguas a mano al salir."
               }
             },
             {
@@ -1508,7 +1627,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz; die Arkaden bieten sofortigen Schutz.",
                 "hu": "Rövid séta a parkolótól; az árkádok azonnali védelmet nyújtanak.",
                 "ro": "Drum scurt pe jos de la parcare; arcadele oferă adăpost imediat.",
-                "en": "Short walk from the parking; the arches provide instant shelter."
+                "en": "Short walk from the parking; the arches provide instant shelter.",
+                "es": "A corta distancia a pie desde el aparcamiento; los arcos ofrecen refugio instantáneo."
               }
             },
             {
@@ -1517,7 +1637,8 @@
                 "de": "Ein prächtiger Innenraum, um dem Regen für eine Weile zu entkommen.",
                 "hu": "Pompás belső tér, ahol egy időre elmenekülhet az eső elől.",
                 "ro": "Un interior superb pentru a scăpa de ploaie pentru o vreme.",
-                "en": "A magnificent interior to escape the rain for a while."
+                "en": "A magnificent interior to escape the rain for a while.",
+                "es": "Un interior magnífico para escapar de la lluvia un rato."
               }
             },
             {
@@ -1526,7 +1647,8 @@
                 "de": "Nutzen Sie den nahen Parkplatz, um die Zeit im Freien zu minimieren.",
                 "hu": "Használja a közeli parkolót, hogy minimalizálja a kinti tartózkodást.",
                 "ro": "Folosiți parcarea din apropiere pentru a minimiza timpul petrecut afară.",
-                "en": "Use nearby parking to minimize your time exposed to the rain."
+                "en": "Use nearby parking to minimize your time exposed to the rain.",
+                "es": "Usa los aparcamientos cercanos para minimizar tu tiempo expuesto a la lluvia."
               }
             },
             {
@@ -1535,7 +1657,8 @@
                 "de": "Parken Sie hier, um den besten Blick direkt aus dem Wagen zu haben.",
                 "hu": "Parkoljon itt, hogy a legjobb kilátást közvetlenül a kocsiból élvezhesse.",
                 "ro": "Parcați aici pentru a avea cea mai bună vedere direct din mașină.",
-                "en": "Park here to enjoy the best views directly from your vehicle."
+                "en": "Park here to enjoy the best views directly from your vehicle.",
+                "es": "Aparca aquí para disfrutar de las mejores vistas directamente desde tu vehículo."
               }
             },
             {
@@ -1544,7 +1667,8 @@
                 "de": "Nur ein kurzer Weg im Regen führt vom Parkplatz zur Aussichtsplattform.",
                 "hu": "Csak egy rövid szakasz az esőben a parkolótól a kilátóig.",
                 "ro": "Doar o scurtă porțiune prin ploaie de la parcare la punctul de belvedere.",
-                "en": "Only a short stretch in the rain from the parking to the viewpoint."
+                "en": "Only a short stretch in the rain from the parking to the viewpoint.",
+                "es": "Solo un corto tramo bajo la lluvia desde el aparcamiento hasta el mirador."
               }
             }
           ],
@@ -1576,6 +1700,13 @@
               "Keep wet umbrellas in the trunk to prevent the windows from fogging up.",
               "The Holy Week Interpretation Center is a great highlight during heavy showers.",
               "Many cafes in Alcorisa have convenient parking located nearby."
+            ],
+            "es": [
+              "Usa plazas de aparcamiento cerca de la Plaza de los Arcos para aprovechar ventanas de tiempo seco para pasear.",
+              "La subida en coche a Monte Calvario está asfaltada y es segura incluso con lluvia.",
+              "Guarda paraguas mojados en el maletero para evitar que se empañen las ventanillas.",
+              "El Centro de Interpretación de la Semana Santa es un gran atractivo durante los chaparrones.",
+              "Muchas cafeterías en Alcorisa tienen aparcamiento conveniente cercano."
             ]
           }
         },
@@ -1584,7 +1715,8 @@
             "de": "Erkunden Sie Alcorisa im Winter komfortabel mit dem Auto. Starten Sie an der Plaza de los Arcos und genießen Sie das historische Ambiente ohne den eisigen Wind.\n\nMittags erreichen Sie die Museen schnell und warm. Das Auto bietet einen perfekten Rückzugsort zwischen den kulturellen Stopps im Bajo Aragón.\n\nDie Fahrt zum Monte Calvario ist im Winter besonders reizvoll, wenn die tiefstehende Sonne die Landschaft vergoldet. Der Ausblick aus dem warmen Wagen ist unschlagbar.\n\nBeenden Sie Ihre Tour in einem der Restaurants am Stadtrand, die gut erreichbar sind und herzhafte Wintergerichte servieren.",
             "hu": "Fedezze fel Alcorisát télen kényelmesen, autóval. Kezdje a főtérnél, és élvezze a történelmi hangulatot anélkül, hogy a jeges szél átjárná.\n\nDélben gyorsan és melegben érheti el a múzeumokat. Az autó tökéletes menedéket nyújt a kulturális megállók között Aragon ezen részén.\n\nA Kálvária-dombra való felhajtás télen különösen látványos, amikor az alacsony naplemente bearanyozza a tájat. A kilátás a fűtött utastérből felejthetetlen.\n\nZárja a túrát a város szélén található éttermek egyikében, amelyek könnyen megközelíthetők és laktató téli ételeket kínálnak.",
             "ro": "Explorați Alcorisa iarna confortabil cu mașina. Începeți din Plaza de los Arcos și bucurați-vă de ambianța istorică fără vântul înghețat.\n\nLa prânz, ajungeți la muzee rapid și la căldură. Mașina oferă un refugiu perfect între opririle culturale din Bajo Aragón.\n\nDrumul spre Monte Calvario este deosebit de frumos iarna, când soarele jos auriește peisajul. Vederea din mașina încălzită este imbatabilă.\n\nÎncheiați turul la unul dintre restaurantele de la marginea orașului, ușor accesibile, care servesc preparate consistente de iarnă.",
-            "en": "Explore Alcorisa in winter comfortably by car. Start at Plaza de los Arcos and soak in the historic atmosphere without the biting wind.\n\nAt midday, you can reach the museums quickly and stay warm. The car provides a perfect retreat between cultural stops in Bajo Aragón.\n\nThe drive up to Monte Calvario is particularly scenic in winter as the low sun gilds the landscape. The view from your heated vehicle is unbeatable.\n\nFinish your tour at one of the easily accessible restaurants on the edge of town that serve hearty winter dishes."
+            "en": "Explore Alcorisa in winter comfortably by car. Start at Plaza de los Arcos and soak in the historic atmosphere without the biting wind.\n\nAt midday, you can reach the museums quickly and stay warm. The car provides a perfect retreat between cultural stops in Bajo Aragón.\n\nThe drive up to Monte Calvario is particularly scenic in winter as the low sun gilds the landscape. The view from your heated vehicle is unbeatable.\n\nFinish your tour at one of the easily accessible restaurants on the edge of town that serve hearty winter dishes.",
+            "es": "Explora Alcorisa en invierno cómodamente en coche. Empieza en la Plaza de los Arcos y empápate del ambiente histórico sin el viento cortante.\n\nAl mediodía llegarás rápido a los museos y te mantendrás caliente. El coche ofrece un perfecto refugio entre paradas culturales en el Bajo Aragón.\n\nLa subida en coche a Monte Calvario es especialmente pintoresca en invierno cuando el sol bajo baña el paisaje. La vista desde tu vehículo climatizado es inmejorable.\n\nTermina el recorrido en alguno de los restaurantes de fácil acceso en las afueras del pueblo que sirven contundentes platos de invierno."
           },
           "stops": [
             {
@@ -1593,7 +1725,8 @@
                 "de": "Zentraler Ort; lassen Sie den Wagen kurz warmlaufen, bevor Sie starten.",
                 "hu": "Központi helyszín; hagyja kicsit bemelegedni az autót indulás előtt.",
                 "ro": "Locație centrală; lăsați mașina să se încălzească puțin înainte de pornire.",
-                "en": "Central location; let the car warm up for a moment before you head out."
+                "en": "Central location; let the car warm up for a moment before you head out.",
+                "es": "Ubicación central; deja que el coche se caliente un momento antes de salir."
               }
             },
             {
@@ -1602,7 +1735,8 @@
                 "de": "Genießen Sie den Blick auf die Arkaden, während die Heizung läuft.",
                 "hu": "Élvezze a kilátást az árkádokra, amíg a fűtés dolgozik.",
                 "ro": "Bucurați-vă de vederea spre arcade în timp ce încălzirea funcționează.",
-                "en": "Enjoy the view of the arches while the heater is running."
+                "en": "Enjoy the view of the arches while the heater is running.",
+                "es": "Disfruta de la vista de los arcos mientras funciona la calefacción."
               }
             },
             {
@@ -1611,7 +1745,8 @@
                 "de": "Parken Sie nah am Eingang, um die Zeit im kalten Wind zu verkürzen.",
                 "hu": "Parkoljon közel a bejárathoz, hogy lerövidítse a hideg szélben töltött időt.",
                 "ro": "Parcați aproape de intrare pentru a scurta timpul petrecut în vântul rece.",
-                "en": "Park close to the entrance to minimize your time in the freezing wind."
+                "en": "Park close to the entrance to minimize your time in the freezing wind.",
+                "es": "Aparca cerca de la entrada para minimizar tu tiempo en el viento helador."
               }
             },
             {
@@ -1620,7 +1755,8 @@
                 "de": "Ein warmer Zwischenstopp; das Auto parkt sicher in der Nähe.",
                 "hu": "Meleg köztes állomás; az autó biztonságosan parkolhat a közelben.",
                 "ro": "O oprire caldă; mașina poate fi parcată în siguranță în apropiere.",
-                "en": "A warm indoor stop; the car can be parked safely nearby."
+                "en": "A warm indoor stop; the car can be parked safely nearby.",
+                "es": "Una parada interior cálida; el coche puede aparcarse con seguridad cerca."
               }
             },
             {
@@ -1629,7 +1765,8 @@
                 "de": "Idealer Fotopunkt direkt aus dem Fenster bei eisigen Temperaturen.",
                 "hu": "Ideális fotópont közvetlenül az ablakból fagyos hőmérséklet esetén.",
                 "ro": "Punct ideal de fotografiere direct de la fereastră pe ger.",
-                "en": "Ideal photo spot right from your window during freezing temperatures."
+                "en": "Ideal photo spot right from your window during freezing temperatures.",
+                "es": "Lugar ideal para fotos desde tu ventana durante temperaturas heladas."
               }
             },
             {
@@ -1638,7 +1775,8 @@
                 "de": "Ein schneller Gang zur Eremitage lohnt sich für die klare Fernsicht.",
                 "hu": "Egy gyors séta a remetelakhoz megéri a tiszta távoli kilátásért.",
                 "ro": "O scurtă plimbare până la schit merită pentru vizibilitatea clară.",
-                "en": "A quick walk to the hermitage is worth it for the clear distant views."
+                "en": "A quick walk to the hermitage is worth it for the clear distant views.",
+                "es": "Una corta caminata hasta la ermita merece la pena por las vistas despejadas a lo lejos."
               }
             }
           ],
@@ -1670,6 +1808,13 @@
               "Make use of the parking spots located directly by the attractions.",
               "Enjoy the clear winter sunlight through the comfort of your windshield.",
               "Top up your windshield fluid with antifreeze for the salted winter roads."
+            ],
+            "es": [
+              "Revisa el anticongelante y la batería antes de conducir por la sierra.",
+              "Las carreteras de montaña alrededor de Alcorisa pueden estar heladas las mañanas de invierno.",
+              "Utiliza las plazas de aparcamiento situadas junto a las atracciones.",
+              "Disfruta de la clara luz invernal a través de la comodidad de tu parabrisas.",
+              "Rellena el líquido del limpiaparabrisas con anticongelante para las carreteras saladas de invierno."
             ]
           }
         }
@@ -1688,7 +1833,8 @@
             "de": "Plaza de los Arcos",
             "hu": "Plaza de los Arcos",
             "ro": "Plaza de los Arcos",
-            "en": "Plaza de los Arcos"
+            "en": "Plaza de los Arcos",
+            "es": "Plaza de los Arcos"
           },
           "coords": [
             -0.383,
@@ -1704,7 +1850,8 @@
             "de": "Beginnen Sie Ihren Tag im Herzen der Stadt, leicht erreichbar von der Hauptbushaltestelle.",
             "hu": "Kezdje a napot a város szívében, amely könnyen megközelíthető a fő buszmegállóból.",
             "ro": "Începeți ziua în inima orașului, ușor accesibilă de la stația principală de autobuz.",
-            "en": "Start your day in the heart of the town, easily accessible from the main bus stop."
+            "en": "Start your day in the heart of the town, easily accessible from the main bus stop.",
+            "es": "Comienza el día en el corazón del pueblo, fácilmente accesible desde la parada de autobús principal."
           }
         },
         {
@@ -1712,7 +1859,8 @@
             "de": "Kirche Santa María la Mayor",
             "hu": "Santa María la Mayor-templom",
             "ro": "Biserica Santa María la Mayor",
-            "en": "Church of Santa María la Mayor"
+            "en": "Church of Santa María la Mayor",
+            "es": "Iglesia de Santa María la Mayor"
           },
           "coords": [
             -0.3825,
@@ -1728,7 +1876,8 @@
             "de": "Die beeindruckende Fassade ist nur wenige Schritte von der Plaza entfernt.",
             "hu": "A lenyűgöző homlokzat csak néhány lépésre van a tértől.",
             "ro": "Fațada impresionantă este la doar câțiva pași de piață.",
-            "en": "The impressive facade is just a few steps from the plaza."
+            "en": "The impressive facade is just a few steps from the plaza.",
+            "es": "La impresionante fachada está a solo unos pasos de la plaza."
           }
         },
         {
@@ -1736,7 +1885,8 @@
             "de": "Schulmuseum",
             "hu": "Iskolamúzeum",
             "ro": "Muzeul Școlii",
-            "en": "School Museum"
+            "en": "School Museum",
+            "es": "Museo de la Escuela"
           },
           "coords": [
             -0.3845,
@@ -1752,7 +1902,8 @@
             "de": "Ein Spaziergang durch die Gassen führt Sie zu diesem Juwel der Alltagsgeschichte.",
             "hu": "Séta a sikátorokon keresztül vezet a mindennapi történelem ezen gyöngyszeméhez.",
             "ro": "O plimbare pe alei vă duce la această bijuterie a istoriei cotidiene.",
-            "en": "A walk through the alleys takes you to this gem of everyday history."
+            "en": "A walk through the alleys takes you to this gem of everyday history.",
+            "es": "Un paseo por los callejones te lleva a esta joya de la historia cotidiana."
           }
         },
         {
@@ -1760,7 +1911,8 @@
             "de": "Fahrt zum Monte Calvario",
             "hu": "Utazás a Monte Calvarióra",
             "ro": "Călătorie spre Muntele Calvario",
-            "en": "Trip to Mount Calvary"
+            "en": "Trip to Mount Calvary",
+            "es": "Excursión al Monte Calvario"
           },
           "coords": [
             -0.387,
@@ -1776,7 +1928,8 @@
             "de": "Nehmen Sie einen lokalen Bus oder ein Taxi, um den Anstieg zu erleichtern.",
             "hu": "Vegyen igénybe helyi buszt vagy taxit, hogy megkönnyítse a hegymenetet.",
             "ro": "Luați un autobuz local sau un taxi pentru a ușura urcarea.",
-            "en": "Take a local bus or a taxi to ease the ascent."
+            "en": "Take a local bus or a taxi to ease the ascent.",
+            "es": "Toma un autobús local o un taxi para facilitar el ascenso."
           }
         },
         {
@@ -1784,7 +1937,8 @@
             "de": "Monte Calvario & Ermita de San Pascual",
             "hu": "Monte Calvario és Ermita de San Pascual",
             "ro": "Muntele Calvario și Schitul San Pascual",
-            "en": "Mount Calvary & Hermitage of San Pascual"
+            "en": "Mount Calvary & Hermitage of San Pascual",
+            "es": "Monte Calvario y Ermita de San Pascual"
           },
           "coords": [
             -0.3883,
@@ -1800,7 +1954,8 @@
             "de": "Von der Bushaltestelle aus ist es ein kurzer, aber lohnender Spaziergang zum Gipfel.",
             "hu": "A buszmegállótól rövid, de megéri a sétát a csúcsra.",
             "ro": "De la stația de autobuz, este o plimbare scurtă, dar plină de satisfacții până în vârf.",
-            "en": "From the bus stop, it's a short but rewarding walk to the summit."
+            "en": "From the bus stop, it's a short but rewarding walk to the summit.",
+            "es": "Desde la parada de autobús, es una caminata corta pero gratificante hasta la cima."
           }
         }
       ],
@@ -1808,7 +1963,8 @@
         "de": "Auch ohne eigenes Fahrzeug ist Alcorisa gut zu entdecken. Der Vormittag gehört dem kompakten Stadtzentrum, wo Sie von der Plaza zur Kirche und weiter zum Museum schlendern. Alles ist bequem zu Fuß erreichbar. Nach einer Stärkung nutzen Sie einen lokalen Bus oder ein Taxi, um sich dem Monte Calvario zu nähern. Der Rest des Weges zum Gipfel und zur Kapelle ist ein schöner Spaziergang, der mit einer grandiosen Aussicht belohnt wird. So kombinieren Sie mühelos das städtische Leben mit einem Ausflug in die Natur.",
         "hu": "Alcorisa saját jármű nélkül is könnyen felfedezhető. A délelőtt a kompakt városközponté, ahol a tértől a templomig, majd a múzeumig sétálhat. Minden kényelmesen elérhető gyalog. Egy kis frissítő után helyi busszal vagy taxival közelítheti meg a Monte Calvariót. A csúcsra és a kápolnához vezető út hátralévő része egy kellemes séta, amelyet csodálatos kilátás jutalmaz. Így könnyedén ötvözheti a városi életet egy kirándulással a természetbe.",
         "ro": "Chiar și fără propriul vehicul, Alcorisa este ușor de descoperit. Dimineața este dedicată centrului compact al orașului, unde vă plimbați de la piață la biserică și mai departe la muzeu. Totul este la o distanță convenabilă de mers pe jos. După o gustare, folosiți un autobuz local sau un taxi pentru a vă apropia de Muntele Calvario. Restul drumului până în vârf și la schit este o plimbare frumoasă, răsplătită cu o priveliște magnifică. Astfel, combinați fără efort viața urbană cu o excursie în natură.",
-        "en": "Even without your own vehicle, Alcorisa is easy to discover. The morning belongs to the compact town center, where you can stroll from the plaza to the church and on to the museum. Everything is within easy walking distance. After a refreshment, use a local bus or taxi to get closer to Mount Calvary. The rest of the way to the summit and the hermitage is a beautiful walk, rewarded with a magnificent view. This way, you can effortlessly combine urban life with an excursion into nature."
+        "en": "Even without your own vehicle, Alcorisa is easy to discover. The morning belongs to the compact town center, where you can stroll from the plaza to the church and on to the museum. Everything is within easy walking distance. After a refreshment, use a local bus or taxi to get closer to Mount Calvary. The rest of the way to the summit and the hermitage is a beautiful walk, rewarded with a magnificent view. This way, you can effortlessly combine urban life with an excursion into nature.",
+        "es": "Incluso sin vehículo propio, Alcorisa es fácil de descubrir. La mañana pertenece al compacto centro, donde puedes pasear desde la plaza hasta la iglesia y continuar hasta el museo. Todo está a poca distancia a pie. Tras un refresco, toma un autobús local o un taxi para acercarte al Monte Calvario. El resto del camino hasta la cima y la ermita es una hermosa caminata, recompensada con una vista magnífica. Así puedes combinar sin esfuerzo la vida urbana con una excursión en la naturaleza."
       },
       "gastro_picks": {
         "de": [
@@ -2012,6 +2168,12 @@
           "Check the bus schedule in advance, as frequencies can be lower in rural areas.",
           "Ask the bus driver for the best stop to get off for Monte Calvario.",
           "Taxis can be a good alternative for short distances if there is no bus service."
+        ],
+        "es": [
+          "Ten suelto preparado para los billetes de autobús.",
+          "Consulta el horario del autobús con antelación, ya que la frecuencia puede ser menor en zonas rurales.",
+          "Pregúntale al conductor cuál es la mejor parada para bajar para Monte Calvario.",
+          "Los taxis pueden ser una buena alternativa para distancias cortas si no hay servicio de autobús."
         ]
       },
       "variants": {
@@ -2020,7 +2182,8 @@
             "de": "Nutzen Sie den öffentlichen Nahverkehr, um Alcorisa bei Regen zu erkunden. Die Haltestellen in der Nähe der Plaza de los Arcos bringen Sie direkt ins historische Herz.\n\nMittags bieten das Schulmuseum und andere Innenräume Schutz. Die Fahrtzeiten ermöglichen es Ihnen, die Regenschauer strategisch zu umgehen.\n\nEin Ausflug zum Monte Calvario ist auch per Transit möglich, was Ihnen den nassen Fußweg erspart. Genießen Sie die Fahrt durch die verregnete Landschaft.\n\nLassen Sie den Tag entspannt ausklingen und nutzen Sie die Busverbindungen zurück zu Ihrer Unterkunft, während der Regen draußen nachlässt.",
             "hu": "Használja a tömegközlekedést Alcorisa felfedezéséhez esős időben. A főtérhez közeli megállók közvetlenül a történelmi központba repítik.\n\nDélben az iskolamúzeum és más belső terek nyújtanak menedéket. A menetrend lehetővé teszi, hogy stratégiailven elkerülje a nagyobb záporokat.\n\nA Kálvária-domb felé tartó út tömegközlekedéssel megkíméli Önt a vizes gyaloglástól. Élvezze az utazást a borús tájakon keresztül.\n\nZárja a napot kényelmesen, használja a buszjáratokat a szállásához való visszatéréshez, miközben kint csendesedik az eső.",
             "ro": "Folosiți transportul public pentru a explora Alcorisa pe ploaie. Stațiile din apropierea Plaza de los Arcos vă duc direct în inima istorică.\n\nLa prânz, Muzeul Școlii și alte spații interioare oferă adăpost. Orarul vă permite să evitați strategic perioadele cu precipitații maxime.\n\nCălătoria spre muntele Calvario cu transportul public vă scutește de mersul pe jos prin ploaie. Bucurați-vă de drumul prin peisajul aragonez umed.\n\nÎncheiați ziua relaxat, folosind conexiunile de autobuz spre cazare, în timp ce ploaia se domolește afară.",
-            "en": "Use local transit options to explore Alcorisa during the rainy weather. Stops near Plaza de los Arcos put you right in the historic heart of the town.\n\nAt midday, the School Museum and other indoor sites provide great shelter. Timing your trips allows you to strategically avoid the heaviest rain.\n\nA trip towards Mount Calvary by transit saves you from the long walk in the wet. Enjoy the ride through the misty Aragonese countryside.\n\nFinish your day comfortably by taking a bus back to your accommodation as the rain starts to let up outside."
+            "en": "Use local transit options to explore Alcorisa during the rainy weather. Stops near Plaza de los Arcos put you right in the historic heart of the town.\n\nAt midday, the School Museum and other indoor sites provide great shelter. Timing your trips allows you to strategically avoid the heaviest rain.\n\nA trip towards Mount Calvary by transit saves you from the long walk in the wet. Enjoy the ride through the misty Aragonese countryside.\n\nFinish your day comfortably by taking a bus back to your accommodation as the rain starts to let up outside.",
+            "es": "Utiliza las opciones de transporte local para explorar Alcorisa durante la lluvia. Las paradas cerca de la Plaza de los Arcos te sitúan en el corazón histórico del pueblo.\n\nAl mediodía, el Museo de la Escuela y otros espacios interiores ofrecen buen resguardo. Planifica tus desplazamientos para evitar las horas de lluvia más intensa.\n\nUn viaje hacia el Monte Calvario en transporte te evita la larga caminata bajo la lluvia. Disfruta del trayecto por el brumoso campo aragonés.\n\nTermina el día cómodamente tomando un autobús de regreso a tu alojamiento cuando la lluvia empiece a aflojar."
           },
           "stops": [
             {
@@ -2029,7 +2192,8 @@
                 "de": "Die nächste Bushaltestelle bietet oft ein kleines Wartehäuschen.",
                 "hu": "A legközelebbi buszmegálló gyakran rendelkezik kis esőbeállóval.",
                 "ro": "Cea mai apropiată stație de autobuz are adesea un mic adăpost.",
-                "en": "The nearest bus stop often has a small shelter to keep you dry."
+                "en": "The nearest bus stop often has a small shelter to keep you dry.",
+                "es": "La parada de autobús más cercana suele tener un pequeño refugio para mantenerte seco."
               }
             },
             {
@@ -2038,7 +2202,8 @@
                 "de": "Nur ein kurzer Sprint von der Haltestelle ins trockene Kirchenschiff.",
                 "hu": "Csak egy rövid sprint a megállótól a száraz templomhajóig.",
                 "ro": "Doar un scurt sprint de la stație până în interiorul uscat al bisericii.",
-                "en": "Just a short sprint from the stop to the dry church interior."
+                "en": "Just a short sprint from the stop to the dry church interior.",
+                "es": "A solo un corto sprint desde la parada hasta el interior seco de la iglesia."
               }
             },
             {
@@ -2047,7 +2212,8 @@
                 "de": "Planen Sie Ihre Ankunft nach dem Busfahrplan, um Wartezeit im Regen zu vermeiden.",
                 "hu": "Igazítsa érkezését a buszmenetrendhez, hogy ne kelljen kint várnia.",
                 "ro": "Potriviți sosirea cu orarul autobuzului pentru a nu aștepta în ploaie.",
-                "en": "Time your arrival with the bus schedule to avoid waiting in the rain."
+                "en": "Time your arrival with the bus schedule to avoid waiting in the rain.",
+                "es": "Sincroniza tu llegada con el horario de autobuses para evitar esperar bajo la lluvia."
               }
             },
             {
@@ -2056,7 +2222,8 @@
                 "de": "Genießen Sie den Blick aus dem Fenster, während Sie den Hügel erklimmen.",
                 "hu": "Élvezze a kilátást az ablakból, miközben a busz felkapaszkodik a dombra.",
                 "ro": "Bucurați-vă de vedere de la fereastră în timp ce autobuzul urcă dealul.",
-                "en": "Enjoy the view from the window as the transit vehicle climbs the hill."
+                "en": "Enjoy the view from the window as the transit vehicle climbs the hill.",
+                "es": "Disfruta de la vista desde la ventana mientras el vehículo sube la colina."
               }
             },
             {
@@ -2065,7 +2232,8 @@
                 "de": "Prüfen Sie die Rückfahrzeiten genau, um nicht im Regen festzusitzen.",
                 "hu": "Ellenőrizze pontosan a visszautat, hogy ne ragadjon kint az esőben.",
                 "ro": "Verificați bine orarul de întoarcere pentru a nu rămâne în ploaie.",
-                "en": "Check the return times carefully so you don't get stuck in the rain."
+                "en": "Check the return times carefully so you don't get stuck in the rain.",
+                "es": "Consulta los horarios de regreso con cuidado para no quedarte atrapado bajo la lluvia."
               }
             }
           ],
@@ -2097,6 +2265,13 @@
               "Wear a raincoat, as the walk between stops is often unsheltered.",
               "Use the central stops along Avenida de Aragón for convenience.",
               "Purchase tickets in advance or have exact change ready for the driver."
+            ],
+            "es": [
+              "Lleva a mano un horario digital para minimizar el tiempo de espera al aire libre.",
+              "Los autobuses en Aragón suelen estar bien calefactados durante la lluvia y el invierno.",
+              "Lleva impermeable, ya que el paseo entre paradas suele estar descubierto.",
+              "Utiliza las paradas centrales a lo largo de la Avenida de Aragón por comodidad.",
+              "Compra los billetes por adelantado o lleva el importe exacto para el conductor."
             ]
           }
         },
@@ -2105,7 +2280,8 @@
             "de": "Entdecken Sie Alcorisa im Winter mit den öffentlichen Verkehrsmitteln. Die beheizten Busse bieten eine warme Verbindung zwischen der Plaza und den Museen.\n\nMittags ist die Fahrt zum Schulmuseum eine ideale Pause vom kalten Wind. Nutzen Sie die kurzen Intervalle zwischen den Stopps für maximale Wärme.\n\nDer Transit bringt Sie näher an den Monte Calvario, sodass Sie nur den schönsten Teil des Weges im Freien verbringen müssen. Die Sicht im Winter ist oft atemberaubend klar.\n\nBeenden Sie Ihre Winterreise entspannt und nutzen Sie den letzten Bus des Tages, während die Sonne hinter den aragonischen Bergen versinkt.",
             "hu": "Fedezze fel Alcorisát télen tömegközlekedéssel. A fűtött buszok meleg összeköttetést biztosítanak a főtér és a múzeumok között.\n\nDélben az iskolamúzeum felé tartó út ideális pihenő a hideg szél elől. Használja ki a megállók közötti rövid szakaszokat a felmelegedéshez.\n\nA tömegközlekedés közelebb viszi a Kálvária-dombhoz, így csak a leglátványosabb részt kell a szabadban töltenie. A téli kilátás gyakran lenyűgözően tiszta.\n\nZárja téli utazását nyugodtan, használja a nap utolsó buszait, miközben a nap lebukik az aragóniai hegyek mögött.",
             "ro": "Descoperiți Alcorisa iarna folosind transportul public. Autobuzele încălzite oferă o conexiune caldă între piață și muzee.\n\nLa prânz, drumul spre Muzeul Școlii este o pauză ideală de la vântul rece. Profitați de intervalele scurte între opriri pentru a vă încălzi.\n\nTransportul vă aduce mai aproape de Monte Calvario, astfel încât să petreceți afară doar cea mai frumoasă parte a drumului. Vizibilitatea iarna este adesea uimitor de clară.\n\nÎncheiați călătoria de iarnă relaxat, folosind ultimele autobuze ale zilei, în timp ce soarele apune după munții aragonezi.",
-            "en": "Discover Alcorisa in winter using public transit. Heated buses offer a warm link between the main square and the town's museums.\n\nAt midday, the ride to the School Museum is an ideal break from the freezing wind. Use the short intervals between stops to stay as warm as possible.\n\nTransit gets you closer to Mount Calvary, so you only have to spend the most scenic part of the path outdoors. The winter views are often breathtakingly clear.\n\nEnd your winter journey relaxed, taking one of the last buses of the day as the sun sets behind the Aragonese mountains."
+            "en": "Discover Alcorisa in winter using public transit. Heated buses offer a warm link between the main square and the town's museums.\n\nAt midday, the ride to the School Museum is an ideal break from the freezing wind. Use the short intervals between stops to stay as warm as possible.\n\nTransit gets you closer to Mount Calvary, so you only have to spend the most scenic part of the path outdoors. The winter views are often breathtakingly clear.\n\nEnd your winter journey relaxed, taking one of the last buses of the day as the sun sets behind the Aragonese mountains.",
+            "es": "Descubre Alcorisa en invierno usando el transporte público. Los autobuses calefactados ofrecen un enlace cálido entre la plaza principal y los museos del pueblo.\n\nAl mediodía, el trayecto hasta el Museo de la Escuela es un descanso ideal del viento helado. Aprovecha los breves intervalos entre paradas para mantenerte lo más abrigado posible.\n\nEl transporte te acerca al Monte Calvario, de modo que solo tendrás que recorrer al aire libre la parte más panorámica del sendero. Las vistas invernales suelen ser de una claridad impresionante.\n\nTermina tu jornada invernal relajado, tomando uno de los últimos autobuses del día mientras el sol se pone tras las montañas aragonesas."
           },
           "stops": [
             {
@@ -2114,7 +2290,8 @@
                 "de": "Suchen Sie ein beheiztes Café in der Nähe, während Sie auf den Bus warten.",
                 "hu": "Keressen egy fűtött kávézót a közelben, amíg a buszra vár.",
                 "ro": "Căutați o cafenea încălzită în apropiere în timp ce așteptați autobuzul.",
-                "en": "Find a heated cafe nearby while you wait for the bus to arrive."
+                "en": "Find a heated cafe nearby while you wait for the bus to arrive.",
+                "es": "Encuentra un café con calefacción cercano mientras esperas el autobús."
               }
             },
             {
@@ -2123,7 +2300,8 @@
                 "de": "Ein kurzer Fußweg; ziehen Sie Ihre Handschuhe erst im Bus wieder aus.",
                 "hu": "Rövid séta; a kesztyűjét csak a buszon vegye le újra.",
                 "ro": "O scurtă plimbare; scoateți mănușile doar după ce urcați în autobuz.",
-                "en": "A short walk; don't take your gloves off until you're back on the bus."
+                "en": "A short walk; don't take your gloves off until you're back on the bus.",
+                "es": "Una caminata corta; no te quites los guantes hasta volver al autobús."
               }
             },
             {
@@ -2132,7 +2310,8 @@
                 "de": "Nutzen Sie die Zeit im warmen Museum, bevor Sie zur nächsten Haltestelle gehen.",
                 "hu": "Használja ki az időt a meleg múzeumban, mielőtt a következő megállóhoz indul.",
                 "ro": "Profitați de timpul în muzeul călduros înainte de a merge spre următoarea stație.",
-                "en": "Take your time in the warm museum before heading to the next stop."
+                "en": "Take your time in the warm museum before heading to the next stop.",
+                "es": "Tómate tu tiempo en el museo cálido antes de dirigirte a la siguiente parada."
               }
             },
             {
@@ -2141,7 +2320,8 @@
                 "de": "Genießen Sie die beheizte Fahrt und den Blick auf die frostigen Olivenhaine.",
                 "hu": "Élvezze a fűtött utazást és a kilátást a zúzmarás olajfaligetekre.",
                 "ro": "Bucurați-vă de drumul la căldură și de vederea livezilor de măslini înghețate.",
-                "en": "Enjoy the heated ride and the views of the frosty olive groves."
+                "en": "Enjoy the heated ride and the views of the frosty olive groves.",
+                "es": "Disfruta del trayecto calefactado y de las vistas de los olivares escarchados."
               }
             },
             {
@@ -2150,7 +2330,8 @@
                 "de": "Kommen Sie rechtzeitig zur Haltestelle zurück, bevor die Abendkälte einsetzt.",
                 "hu": "Térjen vissza időben a megállóhoz, mielőtt beállna az esti fagy.",
                 "ro": "Reveniți la timp la stație înainte de a se lăsa gerul serii.",
-                "en": "Return to the stop in time before the evening frost sets in."
+                "en": "Return to the stop in time before the evening frost sets in.",
+                "es": "Vuelve a la parada a tiempo antes de que se forme la escarcha nocturna."
               }
             }
           ],
@@ -2182,6 +2363,13 @@
               "Use waiting times at stops to grab a quick hot coffee nearby.",
               "Bus windows can fog up easily during the cold winter days.",
               "Wait at well-lit stops, as it gets dark much earlier in the winter months."
+            ],
+            "es": [
+              "Los autobuses son los lugares más cálidos para estar entre visitas en invierno.",
+              "Consulta los horarios de invierno, ya que puede haber menos conexiones.",
+              "Aprovecha los tiempos de espera en las paradas para tomar un café caliente rápido cercano.",
+              "Las ventanas del autobús pueden empañarse con facilidad durante los fríos días de invierno.",
+              "Espera en paradas bien iluminadas, ya que anochece mucho antes en los meses de invierno."
             ]
           }
         }

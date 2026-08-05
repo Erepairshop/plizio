@@ -32,7 +32,8 @@
             "de": "Trinken Sie einen Kaffee in den Arkaden.",
             "hu": "Igyál egy kávét az árkádok alatt.",
             "ro": "Savurați o cafea sub arcade.",
-            "en": "Enjoy a coffee under the arcades."
+            "en": "Enjoy a coffee under the arcades.",
+            "es": "Disfruta de un café bajo los soportales."
           }
         },
         {
@@ -51,7 +52,8 @@
             "de": "Beachten Sie die romanische Architektur.",
             "hu": "Figyeld meg a román stílusú építészetet.",
             "ro": "Observați arhitectura romanică.",
-            "en": "Notice the Romanesque architecture."
+            "en": "Notice the Romanesque architecture.",
+            "es": "Fíjate en la arquitectura románica."
           }
         },
         {
@@ -70,7 +72,8 @@
             "de": "Die berühmten verglasten Balkone.",
             "hu": "A híres üvegezett erkélyek.",
             "ro": "Faimoasele balcoane vitrate.",
-            "en": "The famous glazed balconies."
+            "en": "The famous glazed balconies.",
+            "es": "Los famosos balcones acristalados."
           }
         },
         {
@@ -89,7 +92,8 @@
             "de": "Tolle Aussicht auf den Hafen.",
             "hu": "Remek kilátás a kikötőre.",
             "ro": "O vedere excelentă asupra portului.",
-            "en": "Great views of the harbor."
+            "en": "Great views of the harbor.",
+            "es": "Excelentes vistas del puerto."
           }
         },
         {
@@ -108,7 +112,8 @@
             "de": "Interaktives Museum über den Menschen.",
             "hu": "Interaktív múzeum az emberről.",
             "ro": "Muzeu interactiv despre om.",
-            "en": "Interactive museum about humans."
+            "en": "Interactive museum about humans.",
+            "es": "Museo interactivo sobre el ser humano."
           }
         },
         {
@@ -127,7 +132,8 @@
             "de": "Sehen Sie die Atlantik-Meeresbewohner.",
             "hu": "Nézd meg az atlanti tengeri élőlényeket.",
             "ro": "Vedeți viețuitoarele din Atlantic.",
-            "en": "See the Atlantic marine life."
+            "en": "See the Atlantic marine life.",
+            "es": "Ve la vida marina atlántica."
           }
         }
       ],
@@ -135,7 +141,8 @@
         "de": "Ein Spaziergang durch A Coruña verbindet Geschichte und Moderne am Meer. Beginnen Sie am beeindruckenden María Pita Platz, bevor Sie die typischen Glasgalerien an der Marina bewundern. Die Festung San Antón bietet danach maritime Geschichte. Nachmittags locken interaktive Erlebnisse im Domus und das Aquarium mit seiner Atlantik-Ausstellung.",
         "hu": "A Coruña gyalogos felfedezése a történelem és az óceán találkozása. Kezdj a monumentális María Pita téren, majd csodáld meg az üvegezett erkélyeket a kikötőnél. A San Antón kastély tengerészeti emlékeket őriz. Délután a Domus interaktív múzeuma és az Akvárium nyújt betekintést az atlanti élővilágba.",
         "ro": "O plimbare prin A Coruña îmbină istoria cu oceanul. Începeți în piața monumentală María Pita, apoi admirați balcoanele de sticlă la Marina. Castelul San Antón oferă istorie maritimă. După-amiaza, muzeul interactiv Domus și Acvariul dezvăluie viața din Atlantic.",
-        "en": "A walk through A Coruña blends history and ocean views. Start at the monumental María Pita square, then admire the glazed balconies at the Marina. The San Antón castle offers maritime history. In the afternoon, the interactive Domus museum and the Aquarium showcase Atlantic marine life."
+        "en": "A walk through A Coruña blends history and ocean views. Start at the monumental María Pita square, then admire the glazed balconies at the Marina. The San Antón castle offers maritime history. In the afternoon, the interactive Domus museum and the Aquarium showcase Atlantic marine life.",
+        "es": "Un paseo por A Coruña combina historia y vistas al mar. Comienza en la monumental plaza de María Pita, luego admira los balcones acristalados de la Marina. El castillo de San Antón ofrece historia marítima. Por la tarde, el interactivo museo Domus y el Acuario muestran la vida marina del Atlántico."
       },
       "gastro_picks": {
         "de": [
@@ -291,6 +298,11 @@
           "Weather can change quickly, so bring a light jacket.",
           "The Paseo Marítimo is one of the longest promenades in Europe.",
           "Enjoy tapas in the narrow streets around Plaza de María Pita."
+        ],
+        "es": [
+          "El tiempo puede cambiar rápidamente, así que lleva una cazadora ligera.",
+          "El Paseo Marítimo es uno de los paseos marítimos más largos de Europa.",
+          "Disfruta de tapas en las calles estrechas alrededor de la Plaza de María Pita."
         ]
       },
       "variants": {
@@ -299,7 +311,8 @@
             "de": "Der Morgen beginnt unter den schützenden Arkaden der Plaza de María Pita. Mittags bieten die gläsernen Galerien der Marina perfekten Schutz vor dem galicischen Regen. Am Nachmittag erkunden wir die faszinierenden Innenräume des Domus und des Aquariums. Der Abend endet mit stimmungsvollen Lichtreflexionen auf dem nassen Pflaster der Hafenpromenade.",
             "hu": "A reggel a María Pita tér védelmet nyújtó árkádjai alatt indul. Délben a Marina híres üvegablakai alatt sétálva maradunk szárazon. Délután a Domus és az Akvárium belső kiállításai tökéletes menedéket adnak az eső elől. Este a kikötő fényei látványosan tükröződnek az óváros vizes aszfaltján.",
             "ro": "Dimineața începe sub arcadele protectoare din Plaza de María Pita. La prânz, celebrele balcoane de sticlă din La Marina oferă adăpost ideal împotriva ploii. După-amiaza explorăm expozițiile interioare de la Domus și Acvariu. Seara se încheie cu reflexii spectaculoase ale luminilor orașului pe pavajul umed din port.",
-            "en": "Morning starts under the protective arches of Plaza de María Pita. At midday, the famous glass balconies of La Marina keep us dry during the walk. Afternoon is perfect for exploring the indoor exhibits at Domus and the Aquarium. Evening ends with the city lights reflecting beautifully on the wet harbor pavement."
+            "en": "Morning starts under the protective arches of Plaza de María Pita. At midday, the famous glass balconies of La Marina keep us dry during the walk. Afternoon is perfect for exploring the indoor exhibits at Domus and the Aquarium. Evening ends with the city lights reflecting beautifully on the wet harbor pavement.",
+            "es": "La mañana empieza bajo los arcos protectores de la Plaza de María Pita. Al mediodía, los famosos balcones acristalados de la Marina nos mantienen secos durante el paseo. La tarde es perfecta para explorar las exposiciones interiores de Domus y el Acuario. La noche termina con las luces de la ciudad reflejándose bellamente en el empedrado húmedo del puerto."
           },
           "stops": [
             {
@@ -308,7 +321,8 @@
                 "de": "Nutzen Sie die Arkaden rund um den Platz als trockenen Unterstand.",
                 "hu": "Használja a tér körüli árkádokat száraz menedékként.",
                 "ro": "Folosiți arcadele din jurul pieței pentru a rămâne uscat.",
-                "en": "Use the arches around the square as a dry shelter."
+                "en": "Use the arches around the square as a dry shelter.",
+                "es": "Usa los arcos alrededor de la plaza como refugio seco."
               }
             },
             {
@@ -317,7 +331,8 @@
                 "de": "Ein ruhiger Ort für eine Pause während eines Regenschauers.",
                 "hu": "Csendes hely egy pihenőre egy zápor idején.",
                 "ro": "Un loc liniștit pentru o pauză în timpul unei averse.",
-                "en": "A quiet place for a break during a rain shower."
+                "en": "A quiet place for a break during a rain shower.",
+                "es": "Un lugar tranquilo para descansar durante un chaparrón."
               }
             },
             {
@@ -326,7 +341,8 @@
                 "de": "Bewundern Sie die Glasfassaden, die als Schutzschild fungieren.",
                 "hu": "Csodálja meg az üveghomlokzatokat, amelyek pajzsként védenek.",
                 "ro": "Admirați fațadele de sticlă care acționează ca un scut.",
-                "en": "Admire the glass facades that act as a protective shield."
+                "en": "Admire the glass facades that act as a protective shield.",
+                "es": "Admira las fachadas acristaladas que actúan como barrera protectora."
               }
             },
             {
@@ -335,7 +351,8 @@
                 "de": "Besuchen Sie das archäologische Museum im Inneren der Festung.",
                 "hu": "Látogassa meg a váron belüli régészeti múzeumot.",
                 "ro": "Vizitați muzeul de arheologie din interiorul fortăreței.",
-                "en": "Visit the archaeological museum inside the fortress."
+                "en": "Visit the archaeological museum inside the fortress.",
+                "es": "Visita el museo arqueológico dentro de la fortaleza."
               }
             },
             {
@@ -344,7 +361,8 @@
                 "de": "Ideales interaktives Museum für regnerische Nachmittage.",
                 "hu": "Ideális interaktív múzeum esős délutánokra.",
                 "ro": "Muzeu interactiv ideal pentru după-amiezile ploioase.",
-                "en": "Ideal interactive museum for rainy afternoons."
+                "en": "Ideal interactive museum for rainy afternoons.",
+                "es": "Museo interactivo ideal para tardes lluviosas."
               }
             },
             {
@@ -353,7 +371,8 @@
                 "de": "Trockener Beobachtungspunkt für die wilde Meeresbrandung.",
                 "hu": "Száraz megfigyelőpont a vad tengeri hullámzáshoz.",
                 "ro": "Punct de observație uscat pentru valurile sălbatice ale mării.",
-                "en": "Dry observation point for the wild sea waves."
+                "en": "Dry observation point for the wild sea waves.",
+                "es": "Punto de observación seco para las olas bravas del mar."
               }
             }
           ],
@@ -385,6 +404,13 @@
               "Take advantage of the many cafes under the arches for breaks.",
               "The Marina's glass galleries are the city's natural umbrellas.",
               "Check wind warnings if walking along the coastal promenade."
+            ],
+            "es": [
+              "Los impermeables son mejores que los paraguas por los fuertes vientos atlánticos.",
+              "Los empedrados del Casco Antiguo pueden volverse resbaladizos cuando están mojados.",
+              "Aprovecha los numerosos cafés bajo los arcos para hacer pausas.",
+              "Las galerías de La Marina son los paraguas naturales de la ciudad.",
+              "Comprueba los avisos de viento si vas a caminar por el paseo marítimo."
             ]
           }
         },
@@ -393,7 +419,8 @@
             "de": "An einem frischen Wintermorgen ist der Platz von María Pita besonders ruhig. Mittags wärmt die tiefstehende Sonne die Glasfassaden der Marina auf. Nachmittags bieten die Museen Domus und Aquarium wohlige Wärme und Wissen. Wenn es früh dunkel wird, erstrahlt die 'Kristallstadt' in festlichem Glanz und lädt zum Schokoladentrinken ein.",
             "hu": "A friss téli reggeleken a María Pita tér különösen nyugodt arcát mutatja. Délben az alacsonyan járó nap megcsillan a Marina üveghomlokzatain. Délután a Domus és az Akvárium meleg terei kínálnak tartalmas kikapcsolódást. A korai sötétedéskor a 'Kristályváros' fényei ünnepi hangulatot árasztanak egy forró csokoládé mellett.",
             "ro": "În diminețile proaspete de iarnă, Piața María Pita este deosebit de liniștită. La prânz, soarele blând încălzește fațadele de sticlă din Marina. După-amiaza, muzeele Domus și Acvariu oferă căldură și cunoaștere. Odată cu lăsarea serii, 'Orașul de Cristal' strălucește festiv sub luminile stradale.",
-            "en": "On crisp winter mornings, María Pita square shows its most peaceful side. At midday, the low sun warms up the glass facades of La Marina. Afternoon offers warmth and discovery inside Domus and the Aquarium. As darkness falls early, the 'Crystal City' glows beautifully, inviting for a hot chocolate session."
+            "en": "On crisp winter mornings, María Pita square shows its most peaceful side. At midday, the low sun warms up the glass facades of La Marina. Afternoon offers warmth and discovery inside Domus and the Aquarium. As darkness falls early, the 'Crystal City' glows beautifully, inviting for a hot chocolate session.",
+            "es": "En las mañanas frías de invierno, la plaza de María Pita muestra su lado más tranquilo. Al mediodía, el sol bajo calienta las fachadas de vidrio de La Marina. La tarde ofrece calor y descubrimiento en el Domus y el Aquarium. Al caer la noche temprano, la \"Ciudad de Cristal\" se ilumina bellamente, invitando a una sesión de chocolate caliente."
           },
           "stops": [
             {
@@ -402,7 +429,8 @@
                 "de": "Genießen Sie die ruhige Atmosphäre ohne sommerliche Touristenmassen.",
                 "hu": "Élvezze a nyugodt hangulatot a nyári turistatömeg nélkül.",
                 "ro": "Bucurați-vă de atmosfera liniștită fără mulțimile de vară.",
-                "en": "Enjoy the peaceful atmosphere without the summer tourist crowds."
+                "en": "Enjoy the peaceful atmosphere without the summer tourist crowds.",
+                "es": "Disfruta de la atmósfera apacible sin las aglomeraciones turísticas de verano."
               }
             },
             {
@@ -411,7 +439,8 @@
                 "de": "Die dicken Mauern bieten Schutz vor der kühlen Meeresbrise.",
                 "hu": "A vastag falak védelmet nyújtanak a hűvös tengeri szél ellen.",
                 "ro": "Zidurile groase oferă protecție împotriva brizelor reci.",
-                "en": "The thick walls provide protection from the cool sea breeze."
+                "en": "The thick walls provide protection from the cool sea breeze.",
+                "es": "Los muros gruesos protegen de la fresca brisa marina."
               }
             },
             {
@@ -420,7 +449,8 @@
                 "de": "Hinter dem Glas sammelt sich im Winter die Sonnenwärme.",
                 "hu": "Az üvegek mögött télen is megmarad a nap melege.",
                 "ro": "În spatele sticlei, căldura soarelui se acumulează iarna.",
-                "en": "Behind the glass, sun warmth accumulates even in winter."
+                "en": "Behind the glass, sun warmth accumulates even in winter.",
+                "es": "Detrás del vidrio se acumula el calor del sol incluso en invierno."
               }
             },
             {
@@ -429,7 +459,8 @@
                 "de": "Tragen Sie Schichten für den windigen Spaziergang zur Festung.",
                 "hu": "Öltözzön rétegesen a szeles vársétához.",
                 "ro": "Îmbrăcați-vă în straturi pentru plimbarea vântoasă spre castel.",
-                "en": "Dress in layers for the windy walk to the fortress."
+                "en": "Dress in layers for the windy walk to the fortress.",
+                "es": "Vístete con varias capas para la caminata ventosa hasta la fortaleza."
               }
             },
             {
@@ -438,7 +469,8 @@
                 "de": "Perfekter Ort, um sich an einem kalten Nachmittag aufzuwärmen.",
                 "hu": "Tökéletes hely a felmelegedéshez egy hideg délutánon.",
                 "ro": "Locul perfect pentru a vă încălzi într-o după-amiază rece.",
-                "en": "Perfect place to warm up on a cold afternoon."
+                "en": "Perfect place to warm up on a cold afternoon.",
+                "es": "Lugar perfecto para entrar en calor en una tarde fría."
               }
             },
             {
@@ -447,7 +479,8 @@
                 "de": "Beobachten Sie die Winterstürme des Atlantiks aus dem Inneren.",
                 "hu": "Figyelje meg az Atlanti-óceán téli viharait belülről.",
                 "ro": "Observați furtunile de iarnă ale Atlanticului din interior.",
-                "en": "Observe the winter storms of the Atlantic from the inside."
+                "en": "Observe the winter storms of the Atlantic from the inside.",
+                "es": "Observa las tormentas invernales del Atlántico desde el interior."
               }
             }
           ],
@@ -479,6 +512,13 @@
               "Try local churros with hot chocolate in the harbor cafes.",
               "High humidity makes the cold feel more intense than it is.",
               "Museums are the best sanctuaries on chilly winter days."
+            ],
+            "es": [
+              "La ropa por capas protege contra el frío oceánico húmedo.",
+              "El atardecer se produce alrededor de las 18:00 durante los meses de invierno.",
+              "Prueba los churros locales con chocolate caliente en las cafeterías del puerto.",
+              "La alta humedad hace que el frío se sienta más intenso de lo que es.",
+              "Los museos son los mejores refugios en los días fríos de invierno."
             ]
           }
         }
@@ -508,7 +548,8 @@
             "de": "Interaktives Wissenschaftsmuseum.",
             "hu": "Interaktív tudományos múzeum.",
             "ro": "Muzeu interactiv de știință.",
-            "en": "Interactive science museum."
+            "en": "Interactive science museum.",
+            "es": "Museo interactivo de ciencia."
           }
         },
         {
@@ -527,7 +568,8 @@
             "de": "Robben und Haie beobachten.",
             "hu": "Fókák és cápák megfigyelése.",
             "ro": "Observați focile și rechinii.",
-            "en": "Watch seals and sharks."
+            "en": "Watch seals and sharks.",
+            "es": "Observa focas y tiburones."
           }
         },
         {
@@ -546,7 +588,8 @@
             "de": "Ältester noch funktionierender Leuchtturm.",
             "hu": "A legősibb, még működő világítótorony.",
             "ro": "Cel mai vechi far încă funcțional.",
-            "en": "The oldest still functioning lighthouse."
+            "en": "The oldest still functioning lighthouse.",
+            "es": "El faro más antiguo aún en funcionamiento."
           }
         },
         {
@@ -565,7 +608,8 @@
             "de": "Historische Hafenfestung.",
             "hu": "Történelmi kikötői erőd.",
             "ro": "Fortăreață istorică în port.",
-            "en": "Historic harbor fortress."
+            "en": "Historic harbor fortress.",
+            "es": "Fortaleza histórica del puerto."
           }
         },
         {
@@ -584,7 +628,8 @@
             "de": "Fotomotiv am Hafen.",
             "hu": "Fotótéma a kikötőben.",
             "ro": "Punct foto la port.",
-            "en": "Photo spot at the harbor."
+            "en": "Photo spot at the harbor.",
+            "es": "Lugar para fotografiar en el puerto."
           }
         },
         {
@@ -603,7 +648,8 @@
             "de": "Der zentrale Platz der Stadt.",
             "hu": "A város központi tere.",
             "ro": "Piața centrală a orașului.",
-            "en": "The main square of the city."
+            "en": "The main square of the city.",
+            "es": "La plaza principal de la ciudad."
           }
         }
       ],
@@ -611,7 +657,8 @@
         "de": "A Coruña lässt sich perfekt mit dem Rad erkunden, besonders entlang des Paseo Marítimo. Starten Sie bei den Museen Domus und dem Aquarium. Fahren Sie weiter zum römischen Herkulesturm, der majestätisch über den Klippen thront. Eine längere Etappe am Wasser bringt Sie zur Festung San Antón und schließlich zu den Hafen-Galerien und dem historischen María Pita Platz.",
         "hu": "A Coruña tökéletesen felfedezhető kerékpárral a hosszú Paseo Marítimo mentén. Indulj a Domus múzeumnál és az Akváriumnál, majd tekerj fel a római kori Herkules-toronyhoz, amely a sziklák felett magasodik. A tengerparti útvonal elvezet a San Antón erődhöz, majd a kikötői galériákhoz és a történelmi María Pita térhez.",
         "ro": "A Coruña este perfectă pentru bicicletă, mai ales de-a lungul Paseo Marítimo. Începeți la Domus și Acvariu, apoi pedalați spre Turnul lui Hercule, care veghează de pe stânci. Un traseu lung pe malul apei vă duce la Castelul San Antón și în final la galeriile din port și la Piața María Pita.",
-        "en": "A Coruña is perfect to explore by bike along the Paseo Marítimo. Start at the Domus and the Aquarium, then cycle to the Roman Tower of Hercules overlooking the cliffs. A scenic waterfront ride takes you to the San Antón fortress, and finally to the harbor galleries and the historic María Pita Square."
+        "en": "A Coruña is perfect to explore by bike along the Paseo Marítimo. Start at the Domus and the Aquarium, then cycle to the Roman Tower of Hercules overlooking the cliffs. A scenic waterfront ride takes you to the San Antón fortress, and finally to the harbor galleries and the historic María Pita Square.",
+        "es": "A Coruña es perfecta para explorar en bici por el Paseo Marítimo. Empieza en el Domus y el Aquarium, luego pedalea hasta la Torre Romana de Hércules con vistas a los acantilados. Un paseo escénico junto al mar te lleva al Castillo de San Antón y, por último, a las galerías del puerto y la histórica plaza de María Pita."
       },
       "gastro_picks": {
         "de": [
@@ -767,6 +814,11 @@
           "The bike path along the promenade is well-maintained and safe.",
           "Watch out for pedestrians, especially near the beaches.",
           "Make use of the bike racks near the main sights."
+        ],
+        "es": [
+          "El carril bici junto al paseo está bien mantenido y es seguro.",
+          "Cuidado con los peatones, especialmente cerca de las playas.",
+          "Utiliza los aparcabicis cerca de los principales puntos de interés."
         ]
       },
       "variants": {
@@ -775,7 +827,8 @@
             "de": "Wir starten die Radtour an den Museen, wo wir die ersten Schauer abwarten können. Entlang der Küste trotzen wir dem Wind und erreichen den Herkulesturm. Mittags bietet die Festung Castillo de San Antón historischen Schutz. Der Tag endet sicher unter den überdachten Galerien und auf dem belebten Hauptplatz.",
             "hu": "A kerékpártúrát a múzeumoknál kezdjük, ahol kivárhatjuk az első záporokat. A part mentén a széllel dacolva érjük el a Herkules-tornyot. Délben a Castillo de San Antón nyújt történelmi menedéket. A napot a fedett galériák alatt és a pezsgő főtéren zárjuk biztonságban.",
             "ro": "Începem turul cu bicicleta la muzee, unde putem aștepta trecerea primelor averse. De-a lungul coastei, sfidăm vântul pentru a ajunge la Turnul lui Hercule. La prânz, Castillo de San Antón oferă adăpost istoric. Ziua se încheie în siguranță sub galeriile acoperite și în piața principală.",
-            "en": "We start the bike tour at the museums, perfect for dodging early showers. Cycling along the coast, we face the wind to reach the Tower of Hercules. At midday, Castillo de San Antón provides historical shelter. The day ends safely under the covered galleries and at the lively main square."
+            "en": "We start the bike tour at the museums, perfect for dodging early showers. Cycling along the coast, we face the wind to reach the Tower of Hercules. At midday, Castillo de San Antón provides historical shelter. The day ends safely under the covered galleries and at the lively main square.",
+            "es": "Comenzamos la ruta en bici en los museos, perfectos para evitar los primeros chaparrones. Al pedalear por la costa enfrentamos el viento para llegar a la Torre de Hércules. Al mediodía, el Castillo de San Antón ofrece abrigo histórico. El día termina con seguridad bajo las galerías cubiertas y en la animada plaza principal."
           },
           "stops": [
             {
@@ -784,7 +837,8 @@
                 "de": "Nutzen Sie den Fahrradabstellplatz nahe dem Eingang.",
                 "hu": "Használja a bejárat közeli kerékpárparkolót.",
                 "ro": "Folosiți parcarea de biciclete de lângă intrare.",
-                "en": "Use the bike parking area near the entrance."
+                "en": "Use the bike parking area near the entrance.",
+                "es": "Usa la zona de aparcamiento para bicis cerca de la entrada."
               }
             },
             {
@@ -793,7 +847,8 @@
                 "de": "Parken Sie Ihr Rad unter dem Vordach, um es trocken zu halten.",
                 "hu": "Parkolja le a bringát az előtető alatt, hogy száraz maradjon.",
                 "ro": "Parcați bicicleta sub copertină pentru a o păstra uscată.",
-                "en": "Park your bike under the overhang to keep it dry."
+                "en": "Park your bike under the overhang to keep it dry.",
+                "es": "Aparca la bici bajo el voladizo para mantenerla seca."
               }
             },
             {
@@ -802,7 +857,8 @@
                 "de": "Vorsicht bei starkem Wind auf dem offenen Gelände.",
                 "hu": "Vigyázat az erős széllel a nyílt területen.",
                 "ro": "Atenție la vântul puternic pe terenul deschis.",
-                "en": "Be careful with strong winds on the open grounds."
+                "en": "Be careful with strong winds on the open grounds.",
+                "es": "Ten cuidado con los vientos fuertes en los terrenos abiertos."
               }
             },
             {
@@ -811,7 +867,8 @@
                 "de": "Die Zufahrt kann bei Regen etwas rutschig sein.",
                 "hu": "Az odavezető út esőben kissé csúszós lehet.",
                 "ro": "Drumul de acces poate fi alunecos pe ploaie.",
-                "en": "The access road can be a bit slippery in the rain."
+                "en": "The access road can be a bit slippery in the rain.",
+                "es": "La vía de acceso puede estar un poco resbaladiza con lluvia."
               }
             },
             {
@@ -820,7 +877,8 @@
                 "de": "Fahren Sie vorsichtig auf den glatten Straßenbelägen.",
                 "hu": "Vezessen óvatosan a sima útburkolatokon.",
                 "ro": "Conduceți cu prudență pe suprafețele de drum netede.",
-                "en": "Ride carefully on the smooth road surfaces."
+                "en": "Ride carefully on the smooth road surfaces.",
+                "es": "Conduce con precaución sobre superficies lisas."
               }
             },
             {
@@ -829,7 +887,8 @@
                 "de": "Suchen Sie unter den Arkaden Schutz für sich und Ihr Rad.",
                 "hu": "Keressen menedéket az árkádok alatt magának és a gépnek.",
                 "ro": "Căutați adăpost sub arcade pentru dvs. și bicicletă.",
-                "en": "Find shelter under the arches for yourself and your bike."
+                "en": "Find shelter under the arches for yourself and your bike.",
+                "es": "Busca refugio bajo los arcos para ti y tu bici."
               }
             }
           ],
@@ -862,6 +921,13 @@
               "Slightly lower tire pressure can provide better grip on wet roads.",
               "Stick to the promenade where there is less car traffic.",
               "Keep lights on as visibility drops significantly during rain."
+            ],
+            "es": [
+              "La ropa impermeable y los guantes son absolutamente esenciales.",
+              "Evita frenar sobre las vías del tranvía mojadas para evitar deslizamientos.",
+              "Una presión de neumáticos algo más baja puede ofrecer mejor agarre en carreteras mojadas.",
+              "Mantente en el paseo donde hay menos tráfico de coches.",
+              "Mantén las luces encendidas ya que la visibilidad cae significativamente con la lluvia."
             ]
           }
         },
@@ -870,7 +936,8 @@
             "de": "Am kühlen Wintermorgen radeln wir entlang der erfrischenden Küste zu den Museen. Das Aquarium bietet eine warme Pause, bevor wir den Herkulesturm im klaren Winterlicht erreichen. Die Festung liegt ruhig im Atlantikwind. Zum Abschluss genießen wir die festliche Beleuchtung der Marina und den Schutz der Arkaden am Hauptplatz.",
             "hu": "A hűvös téli reggelen a frissítő part mentén tekerünk a múzeumokhoz. Az Akvárium meleg pihenőt kínál, mielőtt elérjük a tiszta téli fényben úszó Herkules-tornyot. A vár nyugodtan dacol az atlanti széllel. Zárásként a Marina ünnepi fényeit és a főtér árkádjainak védelmét élvezzük.",
             "ro": "În dimineața răcoroasă de iarnă, pedalăm de-a lungul coastei revigorante spre muzee. Acvariul oferă o pauză caldă înainte de a ajunge la Turnul lui Hercule în lumina clară de iarnă. Fortăreața stă liniștită în vântul Atlanticului. La final, savurăm luminile festive din Marina și arcadele pieței.",
-            "en": "On a chilly winter morning, we cycle along the refreshing coast to the museums. The Aquarium offers a warm break before we reach the Tower of Hercules in clear winter light. The fortress sits peacefully in the Atlantic wind. To conclude, we enjoy the festive lights of La Marina and the sheltered arches of the main square."
+            "en": "On a chilly winter morning, we cycle along the refreshing coast to the museums. The Aquarium offers a warm break before we reach the Tower of Hercules in clear winter light. The fortress sits peacefully in the Atlantic wind. To conclude, we enjoy the festive lights of La Marina and the sheltered arches of the main square.",
+            "es": "En una fresca mañana de invierno, pedaleamos por la refrescante costa hasta los museos. El Aquarium ofrece una pausa cálida antes de llegar a la Torre de Hércules con la clara luz invernal. La fortaleza permanece en paz con el viento atlántico. Para concluir, disfrutamos las luces festivas de La Marina y los arcos resguardados de la plaza principal."
           },
           "stops": [
             {
@@ -879,7 +946,8 @@
                 "de": "Parken Sie im Windschatten des Gebäudes.",
                 "hu": "Parkoljon az épület szélvédett oldalán.",
                 "ro": "Parcați în partea ferită de vânt a clădirii.",
-                "en": "Park your bike in the lee of the building."
+                "en": "Park your bike in the lee of the building.",
+                "es": "Aparca la bici a sotavento del edificio."
               }
             },
             {
@@ -888,7 +956,8 @@
                 "de": "Wärmen Sie Ihre Hände in der Cafeteria auf.",
                 "hu": "Melegítse fel a kezeit a kávézóban.",
                 "ro": "Încălziți-vă mâinile în cafenea.",
-                "en": "Warm up your hands in the cafeteria."
+                "en": "Warm up your hands in the cafeteria.",
+                "es": "Calienta las manos en la cafetería."
               }
             },
             {
@@ -897,7 +966,8 @@
                 "de": "Starker Seewind möglich; halten Sie den Lenker fest.",
                 "hu": "Erős tengeri szél várható; fogja erősen a kormányt.",
                 "ro": "Vânt marin puternic; țineți bine ghidonul.",
-                "en": "Strong sea wind possible; hold the handlebars firmly."
+                "en": "Strong sea wind possible; hold the handlebars firmly.",
+                "es": "Puede haber fuerte viento de mar; sujeta firmemente el manillar."
               }
             },
             {
@@ -906,7 +976,8 @@
                 "de": "Genießen Sie den weiten Blick über das winterliche Meer.",
                 "hu": "Élvezze a tágas kilátást a téli tengerre.",
                 "ro": "Bucurați-vă de vederea largă asupra mării de iarnă.",
-                "en": "Enjoy the wide view over the winter sea."
+                "en": "Enjoy the wide view over the winter sea.",
+                "es": "Disfruta de la amplia vista sobre el mar invernal."
               }
             },
             {
@@ -915,7 +986,8 @@
                 "de": "Achten Sie auf Fußgänger unter den schützenden Dächern.",
                 "hu": "Ügyeljen a gyalogosokra a védőtetők alatt.",
                 "ro": "Atenție la pietoni sub acoperișurile protectoare.",
-                "en": "Watch out for pedestrians under the protective roofs."
+                "en": "Watch out for pedestrians under the protective roofs.",
+                "es": "Cuidado con los peatones bajo los techos protectores."
               }
             },
             {
@@ -924,7 +996,8 @@
                 "de": "Der perfekte Ort für einen heißen Kakao nach der Tour.",
                 "hu": "Tökéletes hely egy forró kakaóra a túra után.",
                 "ro": "Locul perfect pentru o cacao fierbinte după tur.",
-                "en": "The perfect place for a hot cocoa after the tour."
+                "en": "The perfect place for a hot cocoa after the tour.",
+                "es": "El lugar perfecto para un chocolate caliente después del paseo."
               }
             }
           ],
@@ -956,6 +1029,13 @@
               "Use inner city paths that are more sheltered from the wind.",
               "Cold metal on the bike can be uncomfortable; ensure good grips.",
               "Winter sun is low and can be blinding; bring sunglasses."
+            ],
+            "es": [
+              "Guantes cálidos y orejeras son muy importantes.",
+              "El sol se pone temprano, así que comprueba doblemente tus luces de la bici.",
+              "Usa rutas urbanas más resguardadas del viento.",
+              "El metal frío de la bici puede ser incómodo; asegúrate de tener buenos puños.",
+              "El sol invernal está bajo y puede deslumbrar; lleva gafas de sol."
             ]
           }
         }
@@ -985,7 +1065,8 @@
             "de": "Parken Sie am Hafen und beginnen Sie hier.",
             "hu": "Parkolj a kikötőben és kezdd itt a sétát.",
             "ro": "Parcați la port și începeți de aici.",
-            "en": "Park near the harbor and start here."
+            "en": "Park near the harbor and start here.",
+            "es": "Aparca cerca del puerto y comienza aquí."
           }
         },
         {
@@ -1004,7 +1085,8 @@
             "de": "Spazieren Sie entlang der Glasfassaden.",
             "hu": "Sétálj végig az üveghomlokzatok mentén.",
             "ro": "Plimbați-vă de-a lungul fațadelor de sticlă.",
-            "en": "Walk along the glass facades."
+            "en": "Walk along the glass facades.",
+            "es": "Camina junto a las fachadas de vidrio."
           }
         },
         {
@@ -1023,7 +1105,8 @@
             "de": "Eine der ältesten Kirchen der Stadt.",
             "hu": "A város egyik legrégebbi temploma.",
             "ro": "Una dintre cele mai vechi biserici din oraș.",
-            "en": "One of the oldest churches in the city."
+            "en": "One of the oldest churches in the city.",
+            "es": "Una de las iglesias más antiguas de la ciudad."
           }
         },
         {
@@ -1042,7 +1125,8 @@
             "de": "Archäologisches Museum in der Festung.",
             "hu": "Régészeti múzeum az erődben.",
             "ro": "Muzeu arheologic în fortăreață.",
-            "en": "Archaeological museum inside the fortress."
+            "en": "Archaeological museum inside the fortress.",
+            "es": "Museo arqueológico dentro de la fortaleza."
           }
         },
         {
@@ -1061,7 +1145,8 @@
             "de": "Fahren Sie zum Parkplatz am Turm.",
             "hu": "Hajts a torony melletti parkolóba.",
             "ro": "Conduceți spre parcarea de la turn.",
-            "en": "Drive to the parking area near the tower."
+            "en": "Drive to the parking area near the tower.",
+            "es": "Conduce hasta la zona de aparcamiento cerca de la torre."
           }
         },
         {
@@ -1080,7 +1165,8 @@
             "de": "Gleich in der Nähe, ideal zu Fuß erreichbar.",
             "hu": "Nagyon közel van, könnyen elsétálhatsz ide.",
             "ro": "Foarte aproape, ușor de ajuns pe jos.",
-            "en": "Very close, easily reachable on foot."
+            "en": "Very close, easily reachable on foot.",
+            "es": "Muy cerca, fácilmente accesible a pie."
           }
         },
         {
@@ -1099,7 +1185,8 @@
             "de": "Fahrt auf den Hügel für den besten Panoramablick.",
             "hu": "Autózz fel a hegyre a legjobb panorámáért.",
             "ro": "Conduceți pe deal pentru cea mai bună panoramă.",
-            "en": "Drive up the hill for the best panoramic views."
+            "en": "Drive up the hill for the best panoramic views.",
+            "es": "Sube en coche la colina para las mejores vistas panorámicas."
           }
         }
       ],
@@ -1107,7 +1194,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Zonen der Stadt. Starten Sie im historischen Zentrum und erkunden Sie die Plaza de María Pita, die Galerien und das Castillo de San Antón zu Fuß. Danach fahren Sie zur Halbinsel, um den römischen Herkulesturm und das nahegelegene Aquarium zu besichtigen. Den perfekten Abschluss bildet eine kurze Fahrt auf den Monte de San Pedro mit seinem weiten Atlantikpanorama.",
         "hu": "Autóval kényelmesen összekötheted a város különböző részeit. Kezdd az autót leparkolva a történelmi központban a María Pita tér, a galériák és a San Antón erőd gyalogos felfedezésével. Ezután hajts át a félszigetre a római Herkules-toronyhoz és a szomszédos Akváriumhoz. Zárásként gurulj fel a Monte de San Pedro hegyre, ahonnan lenyűgöző az atlanti panoráma.",
         "ro": "Cu mașina puteți ajunge ușor în diferitele zone ale orașului. Începeți în centrul istoric, explorând pe jos Piața María Pita, galeriile și Castelul San Antón. Apoi conduceți spre peninsulă pentru a vizita Turnul lui Hercule și Acvariul. La final, o scurtă călătorie până pe Monte de San Pedro vă oferă o panoramă uimitoare asupra Atlanticului.",
-        "en": "A car lets you easily connect the different clusters of the city. Park in the historic center to explore the María Pita Square, the galleries, and the San Antón Castle on foot. Then, drive to the peninsula to see the Roman Tower of Hercules and the nearby Aquarium. Finish the day with a short drive up to Monte de San Pedro for sweeping Atlantic panoramas."
+        "en": "A car lets you easily connect the different clusters of the city. Park in the historic center to explore the María Pita Square, the galleries, and the San Antón Castle on foot. Then, drive to the peninsula to see the Roman Tower of Hercules and the nearby Aquarium. Finish the day with a short drive up to Monte de San Pedro for sweeping Atlantic panoramas.",
+        "es": "Un coche te permite conectar fácilmente los distintos conjuntos de la ciudad. Aparca en el casco histórico para explorar la plaza de María Pita, las galerías y el Castillo de San Antón a pie. Luego, conduce hasta la península para ver la Torre Romana de Hércules y el cercano Aquarium. Termina el día con una breve subida a Monte de San Pedro para amplias panorámicas del Atlántico."
       },
       "gastro_picks": {
         "de": [
@@ -1263,6 +1351,11 @@
           "Parking is scarce in the old town, use underground garages.",
           "The Tower of Hercules has a large visitor parking lot.",
           "Drive carefully as the coastal weather can be very windy."
+        ],
+        "es": [
+          "El estacionamiento escasea en el casco antiguo; usa aparcamientos subterráneos.",
+          "La Torre de Hércules cuenta con un gran aparcamiento para visitantes.",
+          "Conduce con cuidado ya que el tiempo costero puede ser muy ventoso."
         ]
       },
       "variants": {
@@ -1271,7 +1364,8 @@
             "de": "Wir starten bequem im Auto am Hauptplatz und fahren entlang der Marina. Die Colegiata bietet einen spirituellen Rückzugsort, während das Castillo de San Antón Geschichte unter festem Dach präsentiert. Zum Mittag erreichen wir den Herkulesturm. Der Tag klingt im Aquarium und bei der regnerischen Aussicht vom Monte de San Pedro aus.",
             "hu": "Kényelmesen, autóval indulunk a főtérről a Marina mentén. A Colegiata spirituális menedéket nyújt, míg a Castillo de San Antón szilárd tető alatt mutatja be a történelmet. Délben elérjük a Herkules-tornyot. A nap az Akváriumban és a Monte de San Pedro esős panorámájával zárul.",
             "ro": "Începem confortabil cu mașina din piața principală, mergând de-a lungul Marinei. Colegiata oferă un refugiu spiritual, în timp ce Castillo de San Antón prezintă istoria sub un acoperiș solid. La prânz ajungem la Turnul lui Hercule. Ziua se încheie la Acvariu și cu panorama ploioasă de pe Monte de San Pedro.",
-            "en": "We start comfortably by car from the main square, driving along La Marina. The Colegiata offers a spiritual retreat, while Castillo de San Antón presents history under a solid roof. At midday we reach the Tower of Hercules. The day concludes at the Aquarium and with the rainy views from Monte de San Pedro."
+            "en": "We start comfortably by car from the main square, driving along La Marina. The Colegiata offers a spiritual retreat, while Castillo de San Antón presents history under a solid roof. At midday we reach the Tower of Hercules. The day concludes at the Aquarium and with the rainy views from Monte de San Pedro.",
+            "es": "Empezamos cómodamente en coche desde la plaza principal, conduciendo por La Marina. La Colegiata ofrece un retiro espiritual, mientras que el Castillo de San Antón presenta historia bajo un techo sólido. Al mediodía llegamos a la Torre de Hércules. El día concluye en el Aquarium y con las vistas lluviosas desde Monte de San Pedro."
           },
           "stops": [
             {
@@ -1280,7 +1374,8 @@
                 "de": "Parken Sie in der Tiefgarage unter dem Platz.",
                 "hu": "Parkoljon a tér alatti mélygarázsban.",
                 "ro": "Parcați în parcarea subterană de sub piață.",
-                "en": "Park in the underground parking lot beneath the square."
+                "en": "Park in the underground parking lot beneath the square.",
+                "es": "Aparca en el parking subterráneo bajo la plaza."
               }
             },
             {
@@ -1289,7 +1384,8 @@
                 "de": "Kurzer Stopp zum Fotografieren der Glasfassaden im Regen.",
                 "hu": "Rövid megálló az üveghomlokzatok fotózásához az esőben.",
                 "ro": "Oprire scurtă pentru a fotografia fațadele de sticlă pe ploaie.",
-                "en": "Short stop to photograph the glass facades in the rain."
+                "en": "Short stop to photograph the glass facades in the rain.",
+                "es": "Parada corta para fotografiar las fachadas de vidrio bajo la lluvia."
               }
             },
             {
@@ -1298,7 +1394,8 @@
                 "de": "Enge Gassen; parken Sie etwas außerhalb und gehen Sie kurz zu Fuß.",
                 "hu": "Szűk utcák; parkoljon kicsit távolabb és fusson be.",
                 "ro": "Străzi înguste; parcați puțin mai departe și mergeți pe jos.",
-                "en": "Narrow streets; park slightly further away and walk briefly."
+                "en": "Narrow streets; park slightly further away and walk briefly.",
+                "es": "Calles estrechas; aparca un poco más lejos y camina un breve tramo."
               }
             },
             {
@@ -1307,7 +1404,8 @@
                 "de": "Parkplatz direkt am Damm vor der Festung.",
                 "hu": "Parkoló közvetlenül a vár előtti gáton.",
                 "ro": "Parcare chiar pe digul din fața fortăreței.",
-                "en": "Parking is available right on the causeway before the fortress."
+                "en": "Parking is available right on the causeway before the fortress.",
+                "es": "Aparcamiento disponible justo en el espigón antes de la fortaleza."
               }
             },
             {
@@ -1316,7 +1414,8 @@
                 "de": "Großer Parkplatz; Vorsicht beim Aussteigen wegen Windböen.",
                 "hu": "Nagy parkoló; vigyázzon a kiszállásnál a széllökésekkel.",
                 "ro": "Parcare mare; atenție la coborâre din cauza rafalelor de vânt.",
-                "en": "Large parking area; be careful when exiting due to wind gusts."
+                "en": "Large parking area; be careful when exiting due to wind gusts.",
+                "es": "Amplia zona de aparcamiento; ten cuidado al salir por las ráfagas de viento."
               }
             },
             {
@@ -1325,7 +1424,8 @@
                 "de": "Direkter Parkplatz vorhanden; idealer Schutzort.",
                 "hu": "Közvetlen parkolóhely; ideális menedékhely.",
                 "ro": "Parcare directă disponibilă; loc de adăpost ideal.",
-                "en": "Direct parking available; an ideal shelter spot."
+                "en": "Direct parking available; an ideal shelter spot.",
+                "es": "Aparcamiento directo disponible; un lugar ideal de refugio."
               }
             },
             {
@@ -1334,7 +1434,8 @@
                 "de": "Genießen Sie den Blick auf das stürmische Meer aus dem Auto.",
                 "hu": "Élvezze a viharos tenger látványát az autóból.",
                 "ro": "Bucurați-vă de vederea mării înfuriate din mașină.",
-                "en": "Enjoy the view of the stormy sea from inside your car."
+                "en": "Enjoy the view of the stormy sea from inside your car.",
+                "es": "Disfruta la vista del mar embravecido desde el interior de tu coche."
               }
             }
           ],
@@ -1366,6 +1467,13 @@
               "Avoid coastal roads during extreme weather warnings.",
               "Wear bright clothing when exiting the car for visibility.",
               "An umbrella in the car is worth its weight in gold for short walks."
+            ],
+            "es": [
+              "Usa aparcamientos subterráneos en el centro (María Pita, Cantones).",
+              "La visibilidad puede bajar significativamente durante lluvias intensas del Atlántico.",
+              "Evita las carreteras costeras durante avisos meteorológicos extremos.",
+              "Lleva ropa de colores llamativos al bajar del coche para ser visible.",
+              "Un paraguas en el coche vale su peso en oro para paseos cortos."
             ]
           }
         },
@@ -1374,7 +1482,8 @@
             "de": "Am klaren Wintermorgen fahren wir durch die erwachende Stadt. Die Marina glänzt im Morgenlicht. Historische Stätten wie die Colegiata und das Castillo lassen sich ohne Hitze erkunden. Nachmittags besuchen wir das Aquarium. Den spektakulären Wintersonnenuntergang erleben wir vom Monte de San Pedro aus, bevor wir ins warme Zentrum zurückkehren.",
             "hu": "A tiszta téli reggelen az ébredő városon keresztül autózunk. A Marina ragyog a reggeli fényben. A történelmi helyszínek, mint a Colegiata és a Castillo, kényelmesen bejárhatók. Délután az Akváriumba látogatunk. A látványos téli naplementét a Monte de San Pedro-ról nézzük végig, mielőtt visszatérnénk a meleg belvárosba.",
             "ro": "În dimineața clară de iarnă, conducem prin orașul care se trezește. Marina strălucește în lumina dimineții. Siturile istorice precum Colegiata și Castillo pot fi explorate fără arșiță. După-amiaza vizităm Acvariul. Experimentăm apusul spectaculos de iarnă de pe Monte de San Pedro înainte de a reveni în centrul cald.",
-            "en": "On a clear winter morning, we drive through the awakening city. La Marina shines in the morning light. Historical sites like the Colegiata and Castillo can be explored comfortably. In the afternoon, we visit the Aquarium. We experience the spectacular winter sunset from Monte de San Pedro before returning to the warm city center."
+            "en": "On a clear winter morning, we drive through the awakening city. La Marina shines in the morning light. Historical sites like the Colegiata and Castillo can be explored comfortably. In the afternoon, we visit the Aquarium. We experience the spectacular winter sunset from Monte de San Pedro before returning to the warm city center.",
+            "es": "En una clara mañana de invierno, conducimos por la ciudad que despierta. La Marina brilla con la luz de la mañana. Lugares históricos como la Colegiata y el Castillo se pueden explorar cómodamente. Por la tarde visitamos el Aquarium. Vivimos el espectacular atardecer invernal desde Monte de San Pedro antes de volver al cálido centro de la ciudad."
           },
           "stops": [
             {
@@ -1383,7 +1492,8 @@
                 "de": "Parken ist im Winter einfacher als in der Hochsaison.",
                 "hu": "Télen egyszerűbb a parkolás, mint főszezonban.",
                 "ro": "Parcarea este mai ușoară iarna decât în plin sezon.",
-                "en": "Parking is easier in winter than during the peak season."
+                "en": "Parking is easier in winter than during the peak season.",
+                "es": "Aparcar es más fácil en invierno que durante la temporada alta."
               }
             },
             {
@@ -1392,7 +1502,8 @@
                 "de": "Die Glasfronten reflektieren das sanfte Winterlicht wunderschön.",
                 "hu": "Az üvegfelületek gyönyörűen verik vissza a lágy téli fényt.",
                 "ro": "Fronturile de sticlă reflectă minunat lumina blândă de iarnă.",
-                "en": "The glass fronts reflect the soft winter light beautifully."
+                "en": "The glass fronts reflect the soft winter light beautifully.",
+                "es": "Las fachadas de vidrio reflejan maravillosamente la suave luz invernal."
               }
             },
             {
@@ -1401,7 +1512,8 @@
                 "de": "In den schattigen Gassen ist es kühler; Jacke mitnehmen.",
                 "hu": "Az árnyékos utcákban hűvösebb van; vigyen kabátot.",
                 "ro": "E mai răcoare pe străzile umbrite; luați o jachetă.",
-                "en": "It is cooler in the shaded streets; take a jacket."
+                "en": "It is cooler in the shaded streets; take a jacket.",
+                "es": "En las calles en sombra hace más fresco; lleva una chaqueta."
               }
             },
             {
@@ -1410,7 +1522,8 @@
                 "de": "Das Museum bietet Schutz vor der kühlen Brise.",
                 "hu": "A múzeum védelmet nyújt a hűvös fuvallat ellen.",
                 "ro": "Muzeul oferă protecție împotriva brizelor răcoroase.",
-                "en": "The museum provides protection from the cool breeze."
+                "en": "The museum provides protection from the cool breeze.",
+                "es": "El museo proporciona protección contra la fresca brisa."
               }
             },
             {
@@ -1419,7 +1532,8 @@
                 "de": "Ideale Zeit für Fotos ohne Touristenmassen.",
                 "hu": "Ideális időszak fotózáshoz turistatömeg nélkül.",
                 "ro": "Moment ideal pentru fotografii fără mulțimi de turiști.",
-                "en": "Ideal time for photos without the tourist crowds."
+                "en": "Ideal time for photos without the tourist crowds.",
+                "es": "Momento ideal para fotos sin las multitudes de turistas."
               }
             },
             {
@@ -1428,7 +1542,8 @@
                 "de": "Ein warmer Ort für den späten Nachmittag.",
                 "hu": "Meleg hely a késő délutáni órákra.",
                 "ro": "Un loc călduros pentru după-amiaza târzie.",
-                "en": "A warm place for the late afternoon hours."
+                "en": "A warm place for the late afternoon hours.",
+                "es": "Un lugar cálido para las horas de la tarde."
               }
             },
             {
@@ -1437,7 +1552,8 @@
                 "de": "Kommen Sie vor 17:30 Uhr für den besten Sonnenuntergang.",
                 "hu": "Érkezzen 17:30 előtt a legszebb naplementéért.",
                 "ro": "Veniți înainte de 17:30 pentru cel mai frumos apus.",
-                "en": "Arrive before 17:30 for the best sunset experience."
+                "en": "Arrive before 17:30 for the best sunset experience.",
+                "es": "Llega antes de las 17:30 para la mejor experiencia del atardecer."
               }
             }
           ],
@@ -1469,6 +1585,13 @@
               "Monte de San Pedro often closes earlier during winter months.",
               "Enjoy the festive Christmas lights in the city center.",
               "Set the car's AC to dehumidify due to Galician humidity."
+            ],
+            "es": [
+              "Revisa la presión de los neumáticos al bajar las temperaturas.",
+              "El sol invernal está bajo; ten listo el parasol.",
+              "Monte de San Pedro suele cerrar antes durante los meses de invierno.",
+              "Disfruta las luces navideñas festivas en el centro de la ciudad.",
+              "Pon el aire acondicionado del coche en modo deshumidificar debido a la humedad gallega."
             ]
           }
         }
@@ -1498,7 +1621,8 @@
             "de": "Zentraler Startpunkt im Herzen der Stadt.",
             "hu": "Központi indulópont a város szívében.",
             "ro": "Punct central de plecare în inima orașului.",
-            "en": "Central starting point in the heart of the city."
+            "en": "Central starting point in the heart of the city.",
+            "es": "Punto de partida central en el corazón de la ciudad."
           }
         },
         {
@@ -1517,7 +1641,8 @@
             "de": "Nur einen kurzen Spaziergang entfernt.",
             "hu": "Csak egy rövid sétára.",
             "ro": "La doar o scurtă plimbare distanță.",
-            "en": "Just a short walk away."
+            "en": "Just a short walk away.",
+            "es": "A sólo un corto paseo."
           }
         },
         {
@@ -1536,7 +1661,8 @@
             "de": "Spazieren Sie weiter am Hafen entlang zur Festung.",
             "hu": "Sétálj tovább a kikötő mentén az erődhöz.",
             "ro": "Plimbați-vă mai departe de-a lungul portului spre fortăreață.",
-            "en": "Continue walking along the harbor to the fortress."
+            "en": "Continue walking along the harbor to the fortress.",
+            "es": "Sigue caminando a lo largo del puerto hasta la fortaleza."
           }
         },
         {
@@ -1555,7 +1681,8 @@
             "de": "Nehmen Sie den Bus zum Museumsviertel.",
             "hu": "Menj busszal a múzeumi negyedbe.",
             "ro": "Luați autobuzul spre zona muzeelor.",
-            "en": "Take the bus to the museum district."
+            "en": "Take the bus to the museum district.",
+            "es": "Toma el autobús hasta el distrito de museos."
           }
         },
         {
@@ -1574,7 +1701,8 @@
             "de": "Von der Domus schnell zu Fuß erreichbar.",
             "hu": "A Domusból gyorsan elsétálhatsz ide.",
             "ro": "La o scurtă plimbare de Domus.",
-            "en": "A quick walk from the Domus."
+            "en": "A quick walk from the Domus.",
+            "es": "A un rápido paseo desde la Domus."
           }
         },
         {
@@ -1593,7 +1721,8 @@
             "de": "Der krönende Abschluss auf der Landspitze.",
             "hu": "A nap fénypontja a földnyelven.",
             "ro": "Punctul culminant al zilei pe promontoriu.",
-            "en": "The grand finale on the headland."
+            "en": "The grand finale on the headland.",
+            "es": "El gran final en el promontorio."
           }
         }
       ],
@@ -1601,7 +1730,8 @@
         "de": "Das städtische Busnetz verbindet die zentralen Zonen. Beginnen Sie in der historischen Altstadt und laufen Sie zur Plaza de María Pita und den gläsernen Galerien. Nach der Besichtigung des Castillo de San Antón nutzen Sie den Bus, um das Wissenschaftsviertel zu erreichen. Von der Domus laufen Sie entspannt zum Aquarium und enden am ikonischen Herkulesturm.",
         "hu": "A helyi buszhálózat összeköti a város főbb zónáit. Kezdd a történelmi központban a María Pita térrel és az üvegfalú galériákkal. A San Antón erőd után szállj buszra a múzeumi negyed felé. A Domus interaktív tárlata után csak egy rövid séta az Akvárium, végül pedig az ikonikus Herkules-torony zárja a napot.",
         "ro": "Rețeaua de autobuze conectează zonele centrale. Începeți în centrul istoric cu Piața María Pita și galeriile. După vizita la Castelul San Antón, luați autobuzul spre zona muzeelor. De la Domus, mergeți pe jos la Acvariu și terminați ziua la emblematicul Turn al lui Hercule.",
-        "en": "The local bus network connects the central zones. Start in the historic center to see the María Pita Square and the glass galleries. After visiting the San Antón Castle, take the bus to the museum district. From the Domus, enjoy a short walk to the Aquarium and end your day at the iconic Tower of Hercules."
+        "en": "The local bus network connects the central zones. Start in the historic center to see the María Pita Square and the glass galleries. After visiting the San Antón Castle, take the bus to the museum district. From the Domus, enjoy a short walk to the Aquarium and end your day at the iconic Tower of Hercules.",
+        "es": "La red local de autobuses conecta las zonas centrales. Comienza en el casco histórico para ver la Plaza de María Pita y las galerías de cristal. Tras visitar el Castillo de San Antón, toma el autobús hacia el distrito de museos. Desde la Domus, disfruta de un corto paseo hasta el Acuario y termina el día en la icónica Torre de Hércules."
       },
       "gastro_picks": {
         "de": [
@@ -1757,6 +1887,11 @@
           "Local buses are cheap and a good choice.",
           "Buy bus tickets in advance or have small change ready.",
           "A Coruña is quite flat near the beaches, but hilly towards the lighthouses."
+        ],
+        "es": [
+          "Los autobuses locales son baratos y una buena opción.",
+          "Compra los billetes de autobús con antelación o lleva cambio pequeño.",
+          "A Coruña es bastante llana cerca de las playas, pero con cuestas hacia los faros."
         ]
       },
       "variants": {
@@ -1765,7 +1900,8 @@
             "de": "Wir nutzen das dichte Busnetz, um trocken zwischen den Sehenswürdigkeiten zu pendeln. Von der Plaza María Pita geht es zur Marina und weiter zur Festung. Mittags bieten die Museen Domus und Aquarium perfekten Schutz. Der Tag endet an der Bushaltestelle nahe dem Herkulesturm, bevor wir bequem zurückfahren.",
             "hu": "A sűrű buszhálózatot használjuk, hogy szárazon ingázzunk a látnivalók között. A María Pita térről a Marina érintésével megyünk a várhoz. Délben a Domus és az Akvárium nyújt tökéletes menedéket. A nap a Herkules-torony közeli buszmegállónál zárul, mielőtt kényelmesen visszautaznánk.",
             "ro": "Folosim rețeaua densă de autobuze pentru a naviga uscat între obiective. Din Piața María Pita mergem spre Marina și apoi la fortăreață. La prânz, Domus și Acvariul oferă adăpost perfect. Ziua se încheie la stația de autobuz de lângă Turnul lui Hercule, înainte de întoarcerea confortabilă.",
-            "en": "We use the dense bus network to commute dryly between sights. From Plaza María Pita, we head to La Marina and then to the fortress. At midday, Domus and the Aquarium provide perfect shelter. The day ends at the bus stop near the Tower of Hercules before riding comfortably back."
+            "en": "We use the dense bus network to commute dryly between sights. From Plaza María Pita, we head to La Marina and then to the fortress. At midday, Domus and the Aquarium provide perfect shelter. The day ends at the bus stop near the Tower of Hercules before riding comfortably back.",
+            "es": "Usamos la densa red de autobuses para desplazarnos entre los puntos de interés. Desde la Plaza de María Pita vamos a La Marina y luego a la fortaleza. Al mediodía, la Domus y el Acuario ofrecen refugio perfecto. El día termina en la parada de autobús cerca de la Torre de Hércules antes de regresar cómodamente."
           },
           "stops": [
             {
@@ -1774,7 +1910,8 @@
                 "de": "Zentraler Umsteigepunkt mit vielen überdachten Haltestellen.",
                 "hu": "Központi átszállóhely sok fedett megállóval.",
                 "ro": "Punct central de transfer cu multe stații acoperite.",
-                "en": "Central transfer point with many sheltered bus stops."
+                "en": "Central transfer point with many sheltered bus stops.",
+                "es": "Punto de trasbordo central con muchas paradas de autobús protegidas."
               }
             },
             {
@@ -1783,7 +1920,8 @@
                 "de": "Die Bushaltestellen hier bieten guten Schutz vor Wind.",
                 "hu": "Az itteni buszmegállók jó védelmet nyújtanak a szél ellen.",
                 "ro": "Stațiile de autobuz de aici oferă protecție bună contra vântului.",
-                "en": "The bus stops here provide good protection from the wind."
+                "en": "The bus stops here provide good protection from the wind.",
+                "es": "Las paradas de autobús aquí ofrecen buena protección contra el viento."
               }
             },
             {
@@ -1792,7 +1930,8 @@
                 "de": "Kurzer Fußweg von der Haltestelle; Regenjacke einplanen.",
                 "hu": "Rövid séta a megállótól; készüljön esőkabáttal.",
                 "ro": "Scurtă plimbare de la stație; pregătiți pelerina de ploaie.",
-                "en": "Short walk from the stop; plan for a raincoat."
+                "en": "Short walk from the stop; plan for a raincoat.",
+                "es": "Corto paseo desde la parada; lleva impermeable."
               }
             },
             {
@@ -1801,7 +1940,8 @@
                 "de": "Haltestelle direkt vor dem Museumseingang.",
                 "hu": "Megálló közvetlenül a múzeum bejárata előtt.",
                 "ro": "Stație chiar în fața intrării în muzeu.",
-                "en": "Bus stop is right in front of the museum entrance."
+                "en": "Bus stop is right in front of the museum entrance.",
+                "es": "La parada de autobús está justo enfrente de la entrada del museo."
               }
             },
             {
@@ -1810,7 +1950,8 @@
                 "de": "Buslinie 3A hält in der Nähe und ist ideal bei Regen.",
                 "hu": "A 3A busz a közelben áll meg, ideális esőben.",
                 "ro": "Linia 3A oprește în apropiere, ideală pe ploaie.",
-                "en": "Bus line 3A stops nearby and is ideal during rain."
+                "en": "Bus line 3A stops nearby and is ideal during rain.",
+                "es": "La línea 3A para cerca y es ideal con lluvia."
               }
             },
             {
@@ -1819,7 +1960,8 @@
                 "de": "Warten Sie im Besucherzentrum auf den nächsten Bus.",
                 "hu": "Várja a következő buszt a látogatóközpontban.",
                 "ro": "Așteptați următorul autobuz în centrul pentru vizitatori.",
-                "en": "Wait for the next bus inside the visitor center."
+                "en": "Wait for the next bus inside the visitor center.",
+                "es": "Espera el siguiente autobús dentro del centro de visitantes."
               }
             }
           ],
@@ -1851,6 +1993,13 @@
               "Lines 3, 3A, and 5 circle the entire peninsula.",
               "Glass-walled bus stops protect you from splashing water.",
               "Buses can get humid during rain due to wet passenger clothing."
+            ],
+            "es": [
+              "Usa la app 'Millennium Próxima' para seguimiento en tiempo real de los autobuses.",
+              "Los billetes de autobús se pueden comprar al conductor (efectivo o tarjeta).",
+              "Las líneas 3, 3A y 5 rodean toda la península.",
+              "Las paradas de autobús con paredes de cristal te protegen de las salpicaduras.",
+              "Los autobuses pueden volverse húmedos con lluvia por la ropa mojada de los pasajeros."
             ]
           }
         },
@@ -1859,7 +2008,8 @@
             "de": "Im Winter nutzen wir die warmen Busse für die Fahrt entlang der Küste. Die Marina und die Colegiata sind gut erreichbar. Mittags genießen wir die Museen. Zum Abend hin, wenn es kühler wird, bringt uns der Transit sicher vom Herkulesturm zurück ins beleuchtete Zentrum für einen warmen Abschluss des Tages.",
             "hu": "Télen a meleg buszokat használjuk a part menti utazáshoz. A Marina és a Colegiata könnyen elérhető. Délben a múzeumokat élvezzük. Estefelé, ahogy hűl az idő, a közösségi közlekedés biztonságban hoz vissza a Herkules-toronytól a kivilágított belvárosba.",
             "ro": "Iarna folosim autobuzele încălzite pentru călătoria de-a lungul coastei. Marina și Colegiata sunt ușor accesibile. La prânz ne bucurăm de muzee. Spre seară, când se răcește, transportul în comun ne aduce în siguranță de la Turnul lui Hercule în centrul iluminat.",
-            "en": "In winter, we use warm buses for the journey along the coast. La Marina and the Colegiata are easily accessible. At midday, we enjoy the museums. Towards evening, as it cools down, transit brings us safely back from the Tower of Hercules to the illuminated city center."
+            "en": "In winter, we use warm buses for the journey along the coast. La Marina and the Colegiata are easily accessible. At midday, we enjoy the museums. Towards evening, as it cools down, transit brings us safely back from the Tower of Hercules to the illuminated city center.",
+            "es": "En invierno usamos autobuses calefactados para el recorrido por la costa. La Marina y la Colegiata son fácilmente accesibles. Al mediodía disfrutamos de los museos. Hacia la noche, al refrescar, el transporte nos devuelve con seguridad desde la Torre de Hércules al centro iluminado."
           },
           "stops": [
             {
@@ -1868,7 +2018,8 @@
                 "de": "Häufige Verbindungen auch im Winterfahrplan.",
                 "hu": "Gyakori járatok a téli menetrendben is.",
                 "ro": "Conexiuni frecvente și în programul de iarnă.",
-                "en": "Frequent connections even in the winter schedule."
+                "en": "Frequent connections even in the winter schedule.",
+                "es": "Frecuentes conexiones incluso en el horario de invierno."
               }
             },
             {
@@ -1877,7 +2028,8 @@
                 "de": "Genießen Sie den Blick auf die Stadtlichter aus dem Bus.",
                 "hu": "Élvezze a városi fények látványát a buszból.",
                 "ro": "Bucurați-vă de luminile orașului din autobuz.",
-                "en": "Enjoy the view of the city lights from the bus."
+                "en": "Enjoy the view of the city lights from the bus.",
+                "es": "Disfruta de la vista de las luces de la ciudad desde el autobús."
               }
             },
             {
@@ -1886,7 +2038,8 @@
                 "de": "Die Busfahrt am Hafen ist im Winter sehr beschaulich.",
                 "hu": "A kikötői buszozás télen nagyon hangulatos.",
                 "ro": "Călătoria cu autobuzul prin port e pitorească iarna.",
-                "en": "The bus ride along the harbor is very scenic in winter."
+                "en": "The bus ride along the harbor is very scenic in winter.",
+                "es": "El paseo en autobús a lo largo del puerto es muy pintoresco en invierno."
               }
             },
             {
@@ -1895,7 +2048,8 @@
                 "de": "Warten Sie im Eingangsbereich des Museums auf den Bus.",
                 "hu": "Várja a buszt a múzeum bejárati csarnokában.",
                 "ro": "Așteptați autobuzul în holul de la intrarea muzeului.",
-                "en": "Wait for the bus inside the museum's entrance hall."
+                "en": "Wait for the bus inside the museum's entrance hall.",
+                "es": "Espera el autobús dentro del vestíbulo de entrada del museo."
               }
             },
             {
@@ -1904,7 +2058,8 @@
                 "de": "Letzte Busse fahren kurz nach Schließung des Aquariums.",
                 "hu": "Az utolsó buszok röviddel az Akvárium zárása után indulnak.",
                 "ro": "Ultimele autobuze pleacă la scurt timp după închiderea acvariului.",
-                "en": "Last buses leave shortly after the Aquarium closes."
+                "en": "Last buses leave shortly after the Aquarium closes.",
+                "es": "Los últimos autobuses salen poco después de que cierre el Acuario."
               }
             },
             {
@@ -1913,7 +2068,8 @@
                 "de": "Beachten Sie den frühen Sonnenuntergang bei der Rückfahrt.",
                 "hu": "Ügyeljen a korai naplementére a visszaindulásnál.",
                 "ro": "Țineți cont de apusul devreme la întoarcere.",
-                "en": "Keep the early sunset in mind for your return trip."
+                "en": "Keep the early sunset in mind for your return trip.",
+                "es": "Ten en cuenta la puesta de sol temprana para tu regreso."
               }
             }
           ],
@@ -1945,6 +2101,13 @@
               "Schedules may vary during public holidays.",
               "The Millennium card saves money for frequent users.",
               "Combine bus rides with short, refreshing walks."
+            ],
+            "es": [
+              "Los autobuses están bien calefactados y son cómodos en invierno.",
+              "Oscurece después de las 18:00; el transporte es una opción segura y luminosa.",
+              "Los horarios pueden variar en días festivos.",
+              "La tarjeta Millennium ahorra dinero a los usuarios frecuentes.",
+              "Combina trayectos en autobús con cortos y refrescantes paseos."
             ]
           }
         }

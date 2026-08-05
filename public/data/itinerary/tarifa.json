@@ -31,7 +31,8 @@
             "de": "Das Haupttor zur Altstadt, ideal für den Start.",
             "hu": "Az óváros főkapuja, tökéletes kiindulópont.",
             "ro": "Poarta principală către centrul vechi, ideală pentru start.",
-            "en": "The main gate to the old town, perfect for starting."
+            "en": "The main gate to the old town, perfect for starting.",
+            "es": "La puerta principal del casco antiguo, perfecta para empezar."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Genießen Sie einen Kaffee auf diesem lebhaften Platz.",
             "hu": "Élvezzen egy kávét ezen a pezsgő hangulatú téren.",
             "ro": "Savurați o cafea în această piață plină de viață.",
-            "en": "Enjoy a coffee in this lively square."
+            "en": "Enjoy a coffee in this lively square.",
+            "es": "Disfruta de un café en esta plaza animada."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Eine spätgotische Kirche mit barocker Fassade.",
             "hu": "Késő gótikus templom barokk homlokzattal.",
             "ro": "O biserică în stil gotic târziu cu fațadă barocă.",
-            "en": "A late Gothic church with a Baroque facade."
+            "en": "A late Gothic church with a Baroque facade.",
+            "es": "Iglesia gótico tardía con fachada barroca."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Festung aus dem 10. Jahrhundert mit Blick auf Afrika.",
             "hu": "10. századi erőd lenyűgöző kilátással Afrikára.",
             "ro": "Fortăreață din secolul al X-lea cu vedere spre Africa.",
-            "en": "10th-century fortress with views over to Africa."
+            "en": "10th-century fortress with views over to Africa.",
+            "es": "Fortaleza del siglo X con vistas hacia África."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Der südlichste Punkt Kontinentaleuropas.",
             "hu": "Kontinentális Európa legdélebbi pontja.",
             "ro": "Cel mai sudic punct al Europei continentale.",
-            "en": "The southernmost point of continental Europe."
+            "en": "The southernmost point of continental Europe.",
+            "es": "El punto más al sur de la Europa continental."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Perfekt für einen entspannten Nachmittag am Meer.",
             "hu": "Tökéletes hely egy pihentető tengerparti délutánhoz.",
             "ro": "Perfect pentru o după-amiază relaxantă la malul mării.",
-            "en": "Perfect for a relaxing afternoon by the sea."
+            "en": "Perfect for a relaxing afternoon by the sea.",
+            "es": "Perfecto para una tarde relajada junto al mar."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Ihr Tag beginnt am historischen Puerta de Jerez, dem Tor zur verwinkelten Altstadt. Schlendern Sie durch die weiß getünchten Gassen zur Plaza de la Constitución.\n\nMittags besichtigen Sie die majestätische Kirche San Mateo und die beeindruckende Festung Guzmán el Bueno, die seit Jahrhunderten die Meerenge bewacht.\n\nAm Nachmittag spazieren Sie zum südlichsten Punkt Europas auf der Isla de las Palomas, wo sich Mittelmeer und Atlantik treffen.\n\nLassen Sie den Tag am weitläufigen Strand Playa de los Lances ausklingen und beobachten Sie die Kitesurfer im Abendlicht.",
         "hu": "A napot a történelmi Puerta de Jereznél kezdi, amely az óváros kanyargós utcáira nyílik. Sétáljon a fehérre meszelt házak között a Plaza de la Constitución felé.\n\nDélben látogasson el a fenséges San Mateo templomba és a lenyűgöző Guzmán el Bueno erődbe, amely évszázadok óta őrzi a szorost.\n\nDélután sétáljon el Európa legdélebbi pontjára, az Isla de las Palomas-ra, ahol a Földközi-tenger és az Atlanti-óceán találkozik.\n\nZárja a napot a tágas Playa de los Lances strandon, figyelve a kiteszörfösöket az alkonyati fényben.",
         "ro": "Ziua începe la istorica Puerta de Jerez, poarta către străzile întortocheate ale centrului vechi. Plimbați-vă printre casele albe până la Plaza de la Constitución.\n\nLa prânz, vizitați maiestuoasa biserică San Mateo și impresionanta fortăreață Guzmán el Bueno, care păzește strâmtoarea de secole.\n\nDupă-amiaza, mergeți către cel mai sudic punct al Europei pe Isla de las Palomas, unde se întâlnesc Marea Mediterană și Oceanul Atlantic.\n\nÎncheiați ziua pe vasta plajă Playa de los Lances, urmărind kitesurferii în lumina serii.",
-        "en": "Your day starts at the historic Puerta de Jerez, the gateway to the winding old town. Stroll through the whitewashed alleys towards Plaza de la Constitución.\n\nAt midday, visit the majestic San Mateo Church and the impressive Guzmán el Bueno fortress, which has guarded the strait for centuries.\n\nIn the afternoon, walk to the southernmost point of Europe on Isla de las Palomas, where the Mediterranean and Atlantic meet.\n\nEnd the day at the expansive Playa de los Lances beach, watching the kitesurfers in the evening light."
+        "en": "Your day starts at the historic Puerta de Jerez, the gateway to the winding old town. Stroll through the whitewashed alleys towards Plaza de la Constitución.\n\nAt midday, visit the majestic San Mateo Church and the impressive Guzmán el Bueno fortress, which has guarded the strait for centuries.\n\nIn the afternoon, walk to the southernmost point of Europe on Isla de las Palomas, where the Mediterranean and Atlantic meet.\n\nEnd the day at the expansive Playa de los Lances beach, watching the kitesurfers in the evening light.",
+        "es": "Tu día comienza en la histórica Puerta de Jerez, la entrada al laberíntico casco antiguo. Pasea por las callejuelas encaladas hasta la Plaza de la Constitución.\n\nAl mediodía, visita la majestuosa iglesia de San Mateo y la imponente fortaleza de Guzmán el Bueno, que ha custodiado el Estrecho durante siglos.\n\nPor la tarde, camina hasta el punto más meridional de Europa en la Isla de las Palomas, donde se encuentran el Mediterráneo y el Atlántico.\n\nTermina el día en la extensa Playa de los Lances, observando a los kitesurfistas con la luz del atardecer."
       },
       "gastro_picks": {
         "de": [
@@ -253,6 +260,12 @@
           "Watch the wind (Levante/Poniente) as it dictates beach life.",
           "Book ahead for popular tapas bars.",
           "Bring a light jacket for the cool sea breeze."
+        ],
+        "es": [
+          "Lleva calzado cómodo para las calles empedradas.",
+          "Vigila el viento (Levante/Poniente), marca la vida en la playa.",
+          "Reserva con antelación en los bares de tapas populares.",
+          "Lleva una chaqueta ligera para la fresca brisa marina."
         ]
       },
       "variants": {
@@ -261,7 +274,8 @@
             "de": "Ihr Tag beginnt am historischen Puerta de Jerez, dem Tor zur verwinkelten Altstadt. Schlendern Sie durch die weiß getünchten Gassen zur Plaza de la Constitución.\n\nMittags besichtigen Sie die majestätische Kirche San Mateo und die beeindruckende Festung Guzmán el Bueno, die seit Jahrhunderten die Meerenge bewacht.\n\nAm Nachmittag spazieren Sie zum südlichsten Punkt Europas auf der Isla de las Palomas, wo sich Mittelmeer und Atlantik treffen.\n\nLassen Sie den Tag am weitläufigen Strand Playa de los Lances ausklingen und beobachten Sie die Kitesurfer im Abendlicht.",
             "hu": "A napot a történelmi Puerta de Jereznél kezdi, amely az óváros kanyargós utcáira nyílik. Sétáljon a fehérre meszelt házak között a Plaza de la Constitución felé.\n\nDélben látogasson el a fenséges San Mateo templomba és a lenyűgöző Guzmán el Bueno erődbe, amely évszázadok óta őrzi a szorost.\n\nDélután sétáljon el Európa legdélebbi pontjára, az Isla de las Palomas-ra, ahol a Földközi-tenger és az Atlanti-óceán találkozik.\n\nZárja a napot a tágas Playa de los Lances strandon, figyelve a kiteszörfösöket az alkonyati fényben.",
             "ro": "Ziua începe la istorica Puerta de Jerez, poarta către străzile întortocheate ale centrului vechi. Plimbați-vă printre casele albe până la Plaza de la Constitución.\n\nLa prânz, vizitați maiestuoasa biserică San Mateo și impresionanta fortăreață Guzmán el Bueno, care păzește strâmtoarea de secole.\n\nDupă-amiaza, mergeți către cel mai sudic punct al Europei pe Isla de las Palomas, unde se întâlnesc Marea Mediterană și Oceanul Atlantic.\n\nÎncheiați ziua pe vasta plajă Playa de los Lances, urmărind kitesurferii în lumina serii.",
-            "en": "Your day starts at the historic Puerta de Jerez, the gateway to the winding old town. Stroll through the whitewashed alleys towards Plaza de la Constitución.\n\nAt midday, visit the majestic San Mateo Church and the impressive Guzmán el Bueno fortress, which has guarded the strait for centuries.\n\nIn the afternoon, walk to the southernmost point of Europe on Isla de las Palomas, where the Mediterranean and Atlantic meet.\n\nEnd the day at the expansive Playa de los Lances beach, watching the kitesurfers in the evening light."
+            "en": "Your day starts at the historic Puerta de Jerez, the gateway to the winding old town. Stroll through the whitewashed alleys towards Plaza de la Constitución.\n\nAt midday, visit the majestic San Mateo Church and the impressive Guzmán el Bueno fortress, which has guarded the strait for centuries.\n\nIn the afternoon, walk to the southernmost point of Europe on Isla de las Palomas, where the Mediterranean and Atlantic meet.\n\nEnd the day at the expansive Playa de los Lances beach, watching the kitesurfers in the evening light.",
+            "es": "Tu día comienza en la histórica Puerta de Jerez, la entrada al laberíntico casco antiguo. Pasea por las callejuelas encaladas hasta la Plaza de la Constitución.\n\nAl mediodía, visita la majestuosa iglesia de San Mateo y la imponente fortaleza de Guzmán el Bueno, que ha custodidado el Estrecho durante siglos.\n\nPor la tarde, camina hasta el punto más meridional de Europa en la Isla de las Palomas, donde se encuentran el Mediterráneo y el Atlántico.\n\nTermina el día en la extensa Playa de los Lances, observando a los kitesurfistas con la luz del atardecer."
           },
           "stops": [
             {
@@ -411,6 +425,12 @@
               "Watch the wind (Levante/Poniente) as it dictates beach life.",
               "Book ahead for popular tapas bars.",
               "Bring a light jacket for the cool sea breeze."
+            ],
+            "es": [
+              "Lleva calzado cómodo para las calles empedradas.",
+              "Vigila el viento (Levante/Poniente), marca la vida en la playa.",
+              "Reserva con antelación en los bares de tapas populares.",
+              "Lleva una chaqueta ligera para la fresca brisa marina."
             ]
           }
         },
@@ -419,7 +439,8 @@
             "de": "Beginnen Sie den Tag am Puerta de Jerez, wo die engen Gassen Schutz vor dem Regen bieten. Das historische Stadttor ist der ideale Startpunkt, um trocken in die Altstadt zu gelangen.\n\nMittags bietet die Kirche San Mateo einen ruhigen und trockenen Rückzugsort. Bewundern Sie die Architektur, während draußen der andalusische Regen prasselt.\n\nAm Nachmittag erkunden Sie die Innenräume des Castillo de Guzmán el Bueno. Die dicken Mauern und Ausstellungsräume halten Sie trocken und bieten faszinierende Einblicke.\n\nAbends beobachten Sie den stürmischen Atlantik von einem der wetterfesten Cafés an der Playa de los Lances aus. Die Atmosphäre ist bei Regen besonders dramatisch.",
             "hu": "Kezdje a napot a Puerta de Jereznél, ahol a szűk utcák védelmet nyújtanak az eső elől. A történelmi városkapu tökéletes belépő az óváros fedett részeihez.\n\nDélben a San Mateo templom nyújt csendes és száraz menedéket. Csodálja meg a gótikus belsőt, miközben kint elered az andalúziai eső.\n\nDélután fedezze fel a Castillo de Guzmán el Bueno belső termeit és múzeumát. A vastag falak között szárazon ismerkedhet meg a város védelmi történelmével.\n\nEste nézze a viharos Atlanti-óceánt a Playa de los Lances egyik fedett teraszáról. Az esős tengerparti látvány ilyenkor különösen vadregényes és látványos.",
             "ro": "Începeți ziua la Puerta de Jerez, unde străzile înguste oferă adăpost împotriva ploii. Poarta istorică a orașului este punctul ideal de intrare în orașul vechi.\n\nLa prânz, Biserica San Mateo oferă un refugiu liniștit și uscat. Admirați arhitectura interioară în timp ce ploaia andaluză cade afară.\n\nDupă-amiaza, explorați interiorul Castillo de Guzmán el Bueno. Zidurile groase și sălile de expoziție vă mențin uscat, oferind perspective istorice fascinante.\n\nSeara, urmăriți Atlanticul învolburat de la una dintre cafenelele protejate de la Playa de los Lances. Atmosfera este deosebit de dramatică pe timp de ploaie.",
-            "en": "Start your day at Puerta de Jerez, where the narrow streets provide some shelter from the rain. This historic gate is the perfect entry point to the old town.\n\nAt noon, San Mateo Church offers a quiet and dry sanctuary. Admire the Gothic architecture while the Andalusian rain falls outside.\n\nIn the afternoon, explore the indoor chambers and museum of Castillo de Guzmán el Bueno. The thick walls keep you dry while you learn about the local history.\n\nIn the evening, watch the stormy Atlantic from one of the weather-protected cafes at Playa de los Lances. The rainy coastline offers a uniquely dramatic view."
+            "en": "Start your day at Puerta de Jerez, where the narrow streets provide some shelter from the rain. This historic gate is the perfect entry point to the old town.\n\nAt noon, San Mateo Church offers a quiet and dry sanctuary. Admire the Gothic architecture while the Andalusian rain falls outside.\n\nIn the afternoon, explore the indoor chambers and museum of Castillo de Guzmán el Bueno. The thick walls keep you dry while you learn about the local history.\n\nIn the evening, watch the stormy Atlantic from one of the weather-protected cafes at Playa de los Lances. The rainy coastline offers a uniquely dramatic view.",
+            "es": "Empieza el día en la Puerta de Jerez, donde las calles estrechas ofrecen cierto refugio de la lluvia. Esta puerta histórica es el punto de entrada perfecto al casco antiguo.\n\nAl mediodía, la iglesia de San Mateo ofrece un santuario tranquilo y seco. Admira la arquitectura gótica mientras la lluvia andaluza cae fuera.\n\nPor la tarde, explora las salas interiores y el museo del Castillo de Guzmán el Bueno. Los muros gruesos te mantienen seco mientras aprendes sobre la historia local.\n\nPor la noche, contempla el Atlántico tempestuoso desde una de las cafeterías protegidas del clima en la Playa de los Lances. La costa lluviosa ofrece una vista dramática y única."
           },
           "stops": [
             {
@@ -428,7 +449,8 @@
                 "de": "Nutzen Sie den Torbogen als schnellen Unterschlupf bei Schauern.",
                 "hu": "Használja a várkapu boltívét gyors menedékként zápor esetén.",
                 "ro": "Folosiți arcada porții ca adăpost rapid în caz de aversă.",
-                "en": "Use the archway of the gate as quick shelter during showers."
+                "en": "Use the archway of the gate as quick shelter during showers.",
+                "es": "Usa el arco de la puerta como refugio rápido durante los chubascos."
               }
             },
             {
@@ -437,7 +459,8 @@
                 "de": "Zahlreiche Cafés mit Markisen säumen den Platz.",
                 "hu": "A teret számos ponyvás kávézó szegélyezi.",
                 "ro": "Piața este mărginită de numeroase cafenele cu copertine.",
-                "en": "Numerous cafes with awnings line the square."
+                "en": "Numerous cafes with awnings line the square.",
+                "es": "Numerosas cafeterías con toldos rodean la plaza."
               }
             },
             {
@@ -446,7 +469,8 @@
                 "de": "Ein perfekter Ort, um die Architektur im Trockenen zu bewundern.",
                 "hu": "Tökéletes hely az építészet megcsodálására szárazon.",
                 "ro": "Un loc perfect pentru a admira arhitectura la adăpost.",
-                "en": "A perfect place to admire the architecture while staying dry."
+                "en": "A perfect place to admire the architecture while staying dry.",
+                "es": "Un lugar perfecto para admirar la arquitectura sin mojarse."
               }
             },
             {
@@ -455,7 +479,8 @@
                 "de": "Besuchen Sie das Museum im Inneren, um dem Regen zu entgehen.",
                 "hu": "Látogassa meg a belső múzeumot, hogy elkerülje az esőt.",
                 "ro": "Vizitați muzeul din interior pentru a evita ploaia.",
-                "en": "Visit the indoor museum to escape the rain."
+                "en": "Visit the indoor museum to escape the rain.",
+                "es": "Visita el museo interior para resguardarte de la lluvia."
               }
             },
             {
@@ -464,7 +489,8 @@
                 "de": "Vorsicht vor Gischt und starkem Wind am Damm.",
                 "hu": "Vigyázat a felcsapó hullámokkal és az erős széllel a gáton.",
                 "ro": "Atenție la stropii de apă și vântul puternic pe dig.",
-                "en": "Beware of sea spray and strong winds on the causeway."
+                "en": "Beware of sea spray and strong winds on the causeway.",
+                "es": "Cuidado con la bruma marina y los fuertes vientos en el puente."
               }
             },
             {
@@ -473,7 +499,8 @@
                 "de": "Die Strandbars (Chiringuitos) bieten gemütliche Plätze bei Regen.",
                 "hu": "A tengerparti bárok (chiringuitos) kényelmes helyet kínálnak esőben.",
                 "ro": "Barurile de pe plajă oferă locuri confortabile pe ploaie.",
-                "en": "Beach bars (chiringuitos) offer cozy spots during the rain."
+                "en": "Beach bars (chiringuitos) offer cozy spots during the rain.",
+                "es": "Los chiringuitos ofrecen rincones acogedores durante la lluvia."
               }
             }
           ],
@@ -505,6 +532,13 @@
               "The narrow streets of the old town offer better wind protection.",
               "Take the opportunity for extended visits to local tapas bars.",
               "Watch out for slippery cobblestones in the old town."
+            ],
+            "es": [
+              "Los paraguas suelen ser inútiles por los fuertes vientos de Tarifa.",
+              "Lleva una chaqueta impermeable y cortavientos de buena calidad.",
+              "Las calles estrechas del casco antiguo ofrecen mejor protección contra el viento.",
+              "Aprovecha para visitas prolongadas a los bares de tapas locales.",
+              "Atento a los adoquines resbaladizos en el casco antiguo."
             ]
           }
         },
@@ -513,7 +547,8 @@
             "de": "Genießen Sie den frischen Wintermorgen am Puerta de Jerez ohne die Sommermassen. Die klare Luft bietet eine fantastische Sicht auf die historischen Mauern.\n\nMittags wärmt die tiefstehende Sonne die Plaza de la Constitución. Es ist die beste Zeit für einen Kaffee im Freien in einer windgeschützten Ecke.\n\nAm Nachmittag bietet das Castillo de Guzmán el Bueno dramatische Ausblicke auf die Straße von Gibraltar. Der Winterhimmel sorgt oft für spektakuläre Lichtverhältnisse.\n\nAbends erleben Sie einen frühen, aber farbenfrohen Sonnenuntergang an der Playa de los Lances. Packen Sie sich warm ein für den stetigen Westwind.",
             "hu": "Élvezze a friss téli reggelt a Puerta de Jereznél a nyári tömeg nélkül. A tiszta levegőben kiválóan érvényesülnek a történelmi falak részletei.\n\nDélben az alacsonyan járó nap kellemesen melegíti a Plaza de la Constituciónt. Ideális idő egy kávéra a szabadban, egy szélvédett sarokban.\n\nDélután a Castillo de Guzmán el Bueno falairól drámai kilátás nyílik a Gibraltári-szorosra. A téli égbolt gyakran különleges fényeket produkál.\n\nEste élje át a korai, de színpompás naplementét a Playa de los Lances partján. Öltözzön rétegesen az állandó nyugati szél miatt.",
             "ro": "Bucurați-vă de dimineața proaspătă de iarnă la Puerta de Jerez, fără mulțimile de vară. Aerul curat oferă o vizibilitate excelentă asupra zidurilor istorice.\n\nLa prânz, soarele blând încălzește Plaza de la Constitución. Este momentul perfect pentru o cafea în aer liber într-un colț ferit de vânt.\n\nDupă-amiaza, Castillo de Guzmán el Bueno oferă vederi dramatice asupra Strâmtorii Gibraltar. Cerul de iarnă creează adesea condiții de lumină spectaculoase.\n\nSeara, experimentați un apus devreme, dar colorat, pe Playa de los Lances. Îmbrăcați-vă gros pentru vântul constant dinspre vest.",
-            "en": "Enjoy the crisp winter morning at Puerta de Jerez without the summer crowds. The clear air offers fantastic views of the historic fortifications.\n\nAt noon, the low sun warms the Plaza de la Constitución. It's the best time for an outdoor coffee in a wind-sheltered corner.\n\nIn the afternoon, Castillo de Guzmán el Bueno provides dramatic views over the Strait of Gibraltar. Winter skies often create spectacular lighting.\n\nIn the evening, experience an early but vibrant sunset at Playa de los Lances. Dress warmly for the persistent westerly winds."
+            "en": "Enjoy the crisp winter morning at Puerta de Jerez without the summer crowds. The clear air offers fantastic views of the historic fortifications.\n\nAt noon, the low sun warms the Plaza de la Constitución. It's the best time for an outdoor coffee in a wind-sheltered corner.\n\nIn the afternoon, Castillo de Guzmán el Bueno provides dramatic views over the Strait of Gibraltar. Winter skies often create spectacular lighting.\n\nIn the evening, experience an early but vibrant sunset at Playa de los Lances. Dress warmly for the persistent westerly winds.",
+            "es": "Disfruta de la fresca mañana invernal en Puerta de Jerez sin las multitudes veraniegas. El aire claro ofrece vistas fantásticas de las fortificaciones históricas.\n\nAl mediodía, el sol bajo calienta la Plaza de la Constitución. Es el mejor momento para un café al aire libre en un rincón resguardado del viento.\n\nPor la tarde, el Castillo de Guzmán el Bueno ofrece vistas dramáticas del Estrecho de Gibraltar. Los cielos invernales suelen crear una iluminación espectacular.\n\nPor la noche, vive un atardecer temprano pero vibrante en la Playa de los Lances. Vístete abrigado por los persistentes vientos del oeste."
           },
           "stops": [
             {
@@ -522,7 +557,8 @@
                 "de": "Ideal für Fotos ohne Touristenmassen im Hintergrund.",
                 "hu": "Ideális fotózáshoz a háttérben lévő turistatömegek nélkül.",
                 "ro": "Ideal pentru fotografii fără mulțimi de turiști în fundal.",
-                "en": "Ideal for photos without tourist crowds in the background."
+                "en": "Ideal for photos without tourist crowds in the background.",
+                "es": "Ideal para fotos sin las multitudes de turistas de fondo."
               }
             },
             {
@@ -531,7 +567,8 @@
                 "de": "Suchen Sie einen sonnigen Platz, um die Winterwärme zu genießen.",
                 "hu": "Keressen egy napos helyet, hogy élvezze a téli meleg sugarakat.",
                 "ro": "Căutați un loc însorit pentru a vă bucura de căldura iernii.",
-                "en": "Find a sunny spot to enjoy the winter warmth."
+                "en": "Find a sunny spot to enjoy the winter warmth.",
+                "es": "Busca un lugar soleado para disfrutar del calor invernal."
               }
             },
             {
@@ -540,7 +577,8 @@
                 "de": "Die Kirche bietet einen angenehm temperierten Innenraum.",
                 "hu": "A templom belső tere kellemes hőmérsékletű menedéket nyújt.",
                 "ro": "Biserica oferă un interior cu o temperatură plăcută.",
-                "en": "The church offers a pleasantly tempered interior."
+                "en": "The church offers a pleasantly tempered interior.",
+                "es": "La iglesia ofrece un interior agradablemente templado."
               }
             },
             {
@@ -549,7 +587,8 @@
                 "de": "Auf den Mauern kann es im Winter sehr windig und kühl sein.",
                 "hu": "A falakon télen nagyon szeles és hűvös lehet az idő.",
                 "ro": "Pe ziduri poate fi foarte vântos și răcoros în timpul iernii.",
-                "en": "It can be very windy and chilly on the castle walls in winter."
+                "en": "It can be very windy and chilly on the castle walls in winter.",
+                "es": "Puede hacer mucho viento y frío en las murallas del castillo en invierno."
               }
             },
             {
@@ -558,7 +597,8 @@
                 "de": "Beste Zeit für klare Sicht bis nach Afrika.",
                 "hu": "A legjobb időszak a tiszta kilátáshoz egészen Afrikáig.",
                 "ro": "Cel mai bun moment pentru o vedere clară până în Africa.",
-                "en": "Best time for clear views all the way to Africa."
+                "en": "Best time for clear views all the way to Africa.",
+                "es": "Mejor momento para vistas despejadas hasta África."
               }
             },
             {
@@ -567,7 +607,8 @@
                 "de": "Der Sonnenuntergang findet im Winter gegen 18:00 Uhr statt.",
                 "hu": "A naplemente télen 18:00 óra körül van.",
                 "ro": "Apusul are loc în jur de ora 18:00 iarna.",
-                "en": "Sunset occurs around 6:00 PM in winter."
+                "en": "Sunset occurs around 6:00 PM in winter.",
+                "es": "El atardecer ocurre alrededor de las 18:00 en invierno."
               }
             }
           ],
@@ -599,6 +640,13 @@
               "Many accommodations lack central heating, check in advance.",
               "Winter is the best time for bird watching in the region.",
               "Enjoy the tranquility in an otherwise very busy town."
+            ],
+            "es": [
+              "El sol se pone pronto en invierno; planifica el final de tu visita en consecuencia.",
+              "Vestir por capas te protege de los vientos fríos.",
+              "Muchos alojamientos carecen de calefacción central; compruébalo con antelación.",
+              "El invierno es la mejor época para la observación de aves en la región.",
+              "Disfruta de la tranquilidad en una ciudad que habitualmente está muy concurrida."
             ]
           }
         }
@@ -627,7 +675,8 @@
             "de": "Sammelpunkt für Radfahrer vor der Tour.",
             "hu": "Kerékpárosok találkozóhelye a túra előtt.",
             "ro": "Punct de întâlnire pentru bicicliști înainte de tur.",
-            "en": "Meeting point for cyclists before the tour."
+            "en": "Meeting point for cyclists before the tour.",
+            "es": "Punto de encuentro para ciclistas antes de la ruta."
           }
         },
         {
@@ -645,7 +694,8 @@
             "de": "Fahrt entlang der Strandpromenade.",
             "hu": "Tekerés a tengerparti sétány mentén.",
             "ro": "Plimbare de-a lungul promenadei de pe plajă.",
-            "en": "Ride along the beach promenade."
+            "en": "Ride along the beach promenade.",
+            "es": "Pedalea por el paseo marítimo."
           }
         },
         {
@@ -663,7 +713,8 @@
             "de": "Anspruchsvoller Anstieg mit herrlicher Belohnung.",
             "hu": "Kihívást jelentő emelkedő pazar jutalommal.",
             "ro": "Urcare solicitantă cu o recompensă superbă.",
-            "en": "Challenging climb with a magnificent reward."
+            "en": "Challenging climb with a magnificent reward.",
+            "es": "Subida exigente con una recompensa magnífica."
           }
         },
         {
@@ -681,7 +732,8 @@
             "de": "Besuchen Sie die berühmte Düne am Ende des Strandes.",
             "hu": "Látogasson el a strand végén található híres dűnéhez.",
             "ro": "Vizitați faimoasa dună de la capătul plajei.",
-            "en": "Visit the famous dune at the end of the beach."
+            "en": "Visit the famous dune at the end of the beach.",
+            "es": "Visita la famosa duna al final de la playa."
           }
         },
         {
@@ -699,7 +751,8 @@
             "de": "Ein ikonisches Monument direkt am Hafen.",
             "hu": "Ikonikus műemlék közvetlenül a kikötőnél.",
             "ro": "Un monument iconic chiar lângă port.",
-            "en": "An iconic monument right by the harbor."
+            "en": "An iconic monument right by the harbor.",
+            "es": "Un monumento icónico junto al puerto."
           }
         }
       ],
@@ -707,7 +760,8 @@
         "de": "Starten Sie Ihre Radtour an der Plaza de la Constitución und radeln Sie gemütlich entlang der Playa de los Lances. Genießen Sie die frische Meeresbrise.\n\nDer anstrengendste Teil folgt mit der Fahrt zum Mirador del Estrecho, von wo aus Sie einen unvergleichlichen Blick auf Marokko haben.\n\nRadeln Sie weiter zur Playa de Valdevaqueros, bekannt für ihre riesigen Sanddünen und entspannte Surfer-Atmosphäre.\n\nKehren Sie am Nachmittag zurück nach Tarifa und machen Sie einen kurzen Halt am geheimnisvollen Castillo de Santa Catalina.",
         "hu": "Kezdje a biciklitúrát a Plaza de la Constituciónon, és tekerjen kényelmesen a Playa de los Lances mentén. Élvezze a friss tengeri szellőt.\n\nA legnehezebb rész a Mirador del Estrecho-hoz való feljutás, ahonnan páratlan kilátás nyílik Marokkóra.\n\nTekerjen tovább a Playa de Valdevaqueros-hoz, amely hatalmas homokdűnéiről és laza szörfös hangulatáról ismert.\n\nDélután térjen vissza Tarifába, és álljon meg egy rövid időre a titokzatos Castillo de Santa Catalina-nál.",
         "ro": "Începeți turul cu bicicleta din Plaza de la Constitución și pedalați relaxat de-a lungul Playa de los Lances. Bucurați-vă de briza proaspătă a mării.\n\nCea mai grea parte urmează cu drumul spre Mirador del Estrecho, de unde aveți o vedere inegalabilă asupra Marocului.\n\nPedalați mai departe spre Playa de Valdevaqueros, cunoscută pentru dunele sale uriașe de nisip și atmosfera relaxată de surferi.\n\nÎntoarceți-vă după-amiaza în Tarifa și faceți o scurtă oprire la misteriosul Castillo de Santa Catalina.",
-        "en": "Start your bike tour at Plaza de la Constitución and pedal leisurely along Playa de los Lances. Enjoy the fresh sea breeze.\n\nThe most strenuous part follows with the ride to Mirador del Estrecho, where you have an unparalleled view of Morocco.\n\nContinue cycling to Playa de Valdevaqueros, known for its giant sand dunes and relaxed surfer vibe.\n\nReturn to Tarifa in the afternoon and make a quick stop at the mysterious Castillo de Santa Catalina."
+        "en": "Start your bike tour at Plaza de la Constitución and pedal leisurely along Playa de los Lances. Enjoy the fresh sea breeze.\n\nThe most strenuous part follows with the ride to Mirador del Estrecho, where you have an unparalleled view of Morocco.\n\nContinue cycling to Playa de Valdevaqueros, known for its giant sand dunes and relaxed surfer vibe.\n\nReturn to Tarifa in the afternoon and make a quick stop at the mysterious Castillo de Santa Catalina.",
+        "es": "Comienza tu ruta en bicicleta en la Plaza de la Constitución y pedalea tranquilamente por la Playa de los Lances. Disfruta de la fresca brisa marina.\n\nLa parte más intensa sigue con la subida al Mirador del Estrecho, donde tienes una vista inigualable de Marruecos.\n\nContinúa hasta la Playa de Valdevaqueros, conocida por sus enormes dunas y su ambiente relajado de surf.\n\nRegresa a Tarifa por la tarde y haz una parada rápida en el misterioso Castillo de Santa Catalina."
       },
       "gastro_picks": {
         "de": [
@@ -815,6 +869,12 @@
           "Take enough water for the climb to the Mirador.",
           "Avoid riding directly in loose dune sand.",
           "A helmet is highly recommended on the main road (N-340)."
+        ],
+        "es": [
+          "Comprueba la presión de los neumáticos antes de empezar.",
+          "Lleva suficiente agua para la subida al mirador.",
+          "Evita rodar directamente sobre arena suelta de las dunas.",
+          "Se recomienda casco en la carretera principal (N-340)."
         ]
       },
       "variants": {
@@ -823,7 +883,8 @@
             "de": "Starten Sie Ihre Radtour an der Plaza de la Constitución und radeln Sie gemütlich entlang der Playa de los Lances. Genießen Sie die frische Meeresbrise.\n\nDer anstrengendste Teil folgt mit der Fahrt zum Mirador del Estrecho, von wo aus Sie einen unvergleichlichen Blick auf Marokko haben.\n\nRadeln Sie weiter zur Playa de Valdevaqueros, bekannt für ihre riesigen Sanddünen und entspannte Surfer-Atmosphäre.\n\nKehren Sie am Nachmittag zurück nach Tarifa und machen Sie einen kurzen Halt am geheimnisvollen Castillo de Santa Catalina.",
             "hu": "Kezdje a biciklitúrát a Plaza de la Constituciónon, és tekerjen kényelmesen a Playa de los Lances mentén. Élvezze a friss tengeri szellőt.\n\nA legnehezebb rész a Mirador del Estrecho-hoz való feljutás, ahonnan páratlan kilátás nyílik Marokkóra.\n\nTekerjen tovább a Playa de Valdevaqueros-hoz, amely hatalmas homokdűnéiről és laza szörfös hangulatáról ismert.\n\nDélután térjen vissza Tarifába, és álljon meg egy rövid időre a titokzatos Castillo de Santa Catalina-nál.",
             "ro": "Începeți turul cu bicicleta din Plaza de la Constitución și pedalați relaxat de-a lungul Playa de los Lances. Bucurați-vă de briza proaspătă a mării.\n\nCea mai grea parte urmează cu drumul spre Mirador del Estrecho, de unde aveți o vedere inegalabilă asupra Marocului.\n\nPedalați mai departe spre Playa de Valdevaqueros, cunoscută pentru dunele sale uriașe de nisip și atmosfera relaxată de surferi.\n\nÎntoarceți-vă după-amiaza în Tarifa și faceți o scurtă oprire la misteriosul Castillo de Santa Catalina.",
-            "en": "Start your bike tour at Plaza de la Constitución and pedal leisurely along Playa de los Lances. Enjoy the fresh sea breeze.\n\nThe most strenuous part follows with the ride to Mirador del Estrecho, where you have an unparalleled view of Morocco.\n\nContinue cycling to Playa de Valdevaqueros, known for its giant sand dunes and relaxed surfer vibe.\n\nReturn to Tarifa in the afternoon and make a quick stop at the mysterious Castillo de Santa Catalina."
+            "en": "Start your bike tour at Plaza de la Constitución and pedal leisurely along Playa de los Lances. Enjoy the fresh sea breeze.\n\nThe most strenuous part follows with the ride to Mirador del Estrecho, where you have an unparalleled view of Morocco.\n\nContinue cycling to Playa de Valdevaqueros, known for its giant sand dunes and relaxed surfer vibe.\n\nReturn to Tarifa in the afternoon and make a quick stop at the mysterious Castillo de Santa Catalina.",
+            "es": "Comienza tu ruta en bicicleta en la Plaza de la Constitución y pedalea tranquilamente por la Playa de los Lances. Disfruta de la fresca brisa marina.\n\nLa parte más intensa sigue con la subida al Mirador del Estrecho, donde tienes una vista inigualable de Marruecos.\n\nContinúa hasta la Playa de Valdevaqueros, conocida por sus enormes dunas y su ambiente relajado de surf.\n\nRegresa a Tarifa por la tarde y haz una parada rápida en el misterioso Castillo de Santa Catalina."
           },
           "stops": [
             {
@@ -953,6 +1014,12 @@
               "Take enough water for the climb to the Mirador.",
               "Avoid riding directly in loose dune sand.",
               "A helmet is highly recommended on the main road (N-340)."
+            ],
+            "es": [
+              "Comprueba la presión de los neumáticos antes de empezar.",
+              "Lleva suficiente agua para la subida al mirador.",
+              "Evita rodar directamente sobre arena suelta de las dunas.",
+              "Se recomienda casco en la carretera principal (N-340)."
             ]
           }
         },
@@ -961,7 +1028,8 @@
             "de": "Starten Sie vorsichtig an der Plaza de la Constitución, wo das Pflaster bei Nässe rutschig sein kann. Kurze Etappen zwischen Cafés halten die Motivation hoch.\n\nMittags radeln Sie entlang der Playa de los Lances. Der Wind ist bei Regen oft böig, halten Sie den Lenker gut fest.\n\nDer Aufstieg zum Mirador del Estrecho im Regen erfordert gute Kleidung, bietet aber eine mystische Aussicht durch die Wolkenwand.\n\nNachmittags an der Playa de Valdevaqueros finden Sie in den Surf-Bars Schutz. Der Rückweg zum Castillo de Santa Catalina beendet die Tour im nassen, aber erfrischenden Tarifa.",
             "hu": "Kezdje óvatosan a Plaza de la Constitucióntól, ahol a burkolat nedvesen csúszós lehet. A kávézók közötti rövid szakaszok segítenek megőrizni a kedvét.\n\nDélben tekerjen a Playa de los Lances mentén. Esőben a szél gyakran lökéses, erősen fogja a kormányt.\n\nA Mirador del Estrecho-hoz való felkapaszkodás esőben jó felszerelést igényel, de misztikus kilátást nyújt a felhők között.\n\nDélután a Playa de Valdevaqueros szörfös bárjaiban találhat menedéket. A Castillo de Santa Catalina felé vezető út esőben is frissítő lezárása a napnak.",
             "ro": "Începeți cu atenție de la Plaza de la Constitución, unde pavajul poate fi alunecos pe timp de ploaie. Etapele scurte între cafenele mențin motivația ridicată.\n\nLa prânz, pedalați de-a lungul Playa de los Lances. Vântul este adesea în rafale pe ploaie, țineți bine de ghidon.\n\nUrcarea spre Mirador del Estrecho pe ploaie necesită echipament bun, dar oferă o vedere mistică prin peretele de nori.\n\nDupă-amiaza, la Playa de Valdevaqueros, găsiți adăpost în barurile de surf. Drumul de întoarcere spre Castillo de Santa Catalina încheie turul în Tarifa ploioasă.",
-            "en": "Start carefully from Plaza de la Constitución, where the pavement can be slippery when wet. Short stretches between cafes keep the motivation high.\n\nAt noon, cycle along Playa de los Lances. The wind is often gusty during rain, so keep a firm grip on the handlebars.\n\nThe climb to Mirador del Estrecho in the rain requires good gear but offers a mystical view through the clouds.\n\nIn the afternoon at Playa de Valdevaqueros, you can find shelter in the surf bars. The ride back to Castillo de Santa Catalina finishes the tour in a wet but refreshing Tarifa."
+            "en": "Start carefully from Plaza de la Constitución, where the pavement can be slippery when wet. Short stretches between cafes keep the motivation high.\n\nAt noon, cycle along Playa de los Lances. The wind is often gusty during rain, so keep a firm grip on the handlebars.\n\nThe climb to Mirador del Estrecho in the rain requires good gear but offers a mystical view through the clouds.\n\nIn the afternoon at Playa de Valdevaqueros, you can find shelter in the surf bars. The ride back to Castillo de Santa Catalina finishes the tour in a wet but refreshing Tarifa.",
+            "es": "Parte con precaución desde la Plaza de la Constitución, donde el pavimento puede estar resbaladizo cuando está mojado. Cortos tramos entre cafeterías mantienen la motivación alta.\n\nAl mediodía, circula por la Playa de los Lances. El viento suele soplar en rachas durante la lluvia, así que sujeta bien el manillar.\n\nLa subida al Mirador del Estrecho bajo la lluvia exige buen equipo pero ofrece una vista mística entre las nubes.\n\nPor la tarde en la Playa de Valdevaqueros, puedes refugiarte en los bares de la playa. La vuelta al Castillo de Santa Catalina culmina la ruta en una Tarifa húmeda pero revitalizante."
           },
           "stops": [
             {
@@ -970,7 +1038,8 @@
                 "de": "Vorsicht beim Losfahren auf dem glatten Kopfsteinpflaster.",
                 "hu": "Vigyázzon az induláskor a sima macskaköveken.",
                 "ro": "Atenție la pornire pe pavajul neted.",
-                "en": "Be careful when starting on the smooth cobblestones."
+                "en": "Be careful when starting on the smooth cobblestones.",
+                "es": "Ten cuidado al arrancar sobre los adoquines lisos."
               }
             },
             {
@@ -979,7 +1048,8 @@
                 "de": "Starke Seitenwinde können das Radfahren erschweren.",
                 "hu": "Az erős oldalszél megnehezítheti a kerékpározást.",
                 "ro": "Vânturile laterale puternice pot îngreuna pedalarea.",
-                "en": "Strong side winds can make cycling difficult."
+                "en": "Strong side winds can make cycling difficult.",
+                "es": "Los fuertes vientos laterales pueden dificultar el ciclismo."
               }
             },
             {
@@ -988,7 +1058,8 @@
                 "de": "Die Straße kann bei Regen rutschig und neblig sein.",
                 "hu": "Az út esőben csúszós és ködös lehet.",
                 "ro": "Drumul poate fi alunecos și ceațos pe ploaie.",
-                "en": "The road can be slippery and foggy during rain."
+                "en": "The road can be slippery and foggy during rain.",
+                "es": "La carretera puede estar resbaladiza y con niebla durante la lluvia."
               }
             },
             {
@@ -997,7 +1068,8 @@
                 "de": "Suchen Sie Schutz in den überdachten Bereichen der Beach-Clubs.",
                 "hu": "Keressen menedéket a strandklubok fedett részein.",
                 "ro": "Căutați adăpost în zonele acoperite ale cluburilor de pe plajă.",
-                "en": "Seek shelter in the covered areas of the beach clubs."
+                "en": "Seek shelter in the covered areas of the beach clubs.",
+                "es": "Refúgiate en las zonas cubiertas de los clubes de playa."
               }
             },
             {
@@ -1006,7 +1078,8 @@
                 "de": "Beenden Sie die Tour an diesem windumtosten Punkt.",
                 "hu": "Fejezze be a túrát ezen a szélfútta ponton.",
                 "ro": "Încheiați turul în acest punct bătut de vânt.",
-                "en": "Finish the tour at this wind-swept point."
+                "en": "Finish the tour at this wind-swept point.",
+                "es": "Termina la ruta en este punto azotado por el viento."
               }
             }
           ],
@@ -1038,6 +1111,13 @@
               "Wear glasses to keep rain out of your eyes.",
               "Mudguards on the bike are a must for rainy rides in Tarifa.",
               "Allow more time for climbs if there is a headwind."
+            ],
+            "es": [
+              "Revisa tus frenos, la humedad aumenta la distancia de frenado.",
+              "Evita charcos que puedan ocultar baches profundos.",
+              "Lleva gafas para mantener la lluvia fuera de los ojos.",
+              "Los guardabarros en la bici son imprescindibles para rutas bajo la lluvia en Tarifa.",
+              "Permite más tiempo para las subidas si hay viento en contra."
             ]
           }
         },
@@ -1046,7 +1126,8 @@
             "de": "Ein sonniger Wintermorgen an der Plaza de la Constitución ist perfekt zum Radfahren. Die kühle Brise hält Sie frisch bei der Abfahrt zum Strand.\n\nMittags radeln Sie gemütlich entlang der Playa de los Lances. Ohne die Sommerhitze ist die körperliche Anstrengung viel angenehmer.\n\nDer Weg zum Mirador del Estrecho belohnt Sie mit einer Klarheit, die man nur im Winter erlebt. Afrika wirkt zum Greifen nah.\n\nDen Nachmittag verbringen Sie an der Playa de Valdevaqueros, wo die Kitesurfer auch im Winter aktiv sind. Beenden Sie den Tag rechtzeitig vor Sonnenuntergang am Castillo de Santa Catalina.",
             "hu": "Egy napsütéses téli reggel a Plaza de la Constitutiónnál tökéletes a biciklizéshez. A hűvös szellő frissen tart a tengerparti gurulás közben.\n\nDélben tekerjen kényelmesen a Playa de los Lances mentén. A nyári hőség nélkül a fizikai megterhelés sokkal kellemesebb.\n\nA Mirador del Estrecho felé vezető út olyan tisztasággal jutalmazza, amit csak télen tapasztalhat. Afrika szinte karnyújtásnyira tűnik.\n\nA délutánt töltse a Playa de Valdevaquerosnál, ahol a kiteszörfösök télen is aktívak. Fejezze be a napot időben a naplemente előtt a Castillo de Santa Catalinánál.",
             "ro": "O dimineață însorită de iarnă la Plaza de la Constitución este perfectă pentru ciclism. Briza răcoroasă vă menține proaspăt în timpul coborârii spre plajă.\n\nLa prânz, pedalați relaxat de-a lungul Playa de los Lances. Fără căldura verii, efortul fizic este mult mai plăcut.\n\nDrumul spre Mirador del Estrecho vă răsplătește cu o claritate pe care o experimentați doar iarna. Africa pare foarte aproape.\n\nPetreceți după-amiaza la Playa de Valdevaqueros, unde kitesurferii sunt activi și iarna. Încheiați ziua la timp înainte de apus la Castillo de Santa Catalina.",
-            "en": "A sunny winter morning at Plaza de la Constitución is perfect for cycling. The cool breeze keeps you fresh during the descent to the beach.\n\nAt noon, cycle leisurely along Playa de los Lances. Without the summer heat, the physical effort is much more enjoyable.\n\nThe ride to Mirador del Estrecho rewards you with a clarity only experienced in winter. Africa seems within reach.\n\nSpend the afternoon at Playa de Valdevaqueros, where kitesurfers remain active even in winter. Finish your day before sunset at Castillo de Santa Catalina."
+            "en": "A sunny winter morning at Plaza de la Constitución is perfect for cycling. The cool breeze keeps you fresh during the descent to the beach.\n\nAt noon, cycle leisurely along Playa de los Lances. Without the summer heat, the physical effort is much more enjoyable.\n\nThe ride to Mirador del Estrecho rewards you with a clarity only experienced in winter. Africa seems within reach.\n\nSpend the afternoon at Playa de Valdevaqueros, where kitesurfers remain active even in winter. Finish your day before sunset at Castillo de Santa Catalina.",
+            "es": "Una mañana soleada de invierno en la Plaza de la Constitución es perfecta para pedalear. La fresca brisa te mantiene fresco en el descenso hacia la playa.\n\nAl mediodía, pedalea con calma por la Playa de los Lances. Sin el calor veraniego, el esfuerzo físico es mucho más agradable.\n\nLa subida al Mirador del Estrecho te recompensa con una claridad que solo se experimenta en invierno. África parece al alcance.\n\nPasa la tarde en la Playa de Valdevaqueros, donde los kitesurfistas siguen activos incluso en invierno. Termina el día antes del atardecer en el Castillo de Santa Catalina."
           },
           "stops": [
             {
@@ -1055,7 +1136,8 @@
                 "de": "Starten mit Handschuhen gegen den kühlen Fahrtwind.",
                 "hu": "Kezdje a túrát kesztyűben a hűvös menetszél ellen.",
                 "ro": "Începeți cu mănuși împotriva vântului rece de rulare.",
-                "en": "Start with gloves against the chilly wind while riding."
+                "en": "Start with gloves against the chilly wind while riding.",
+                "es": "Empieza con guantes contra el viento frío mientras pedaleas."
               }
             },
             {
@@ -1064,7 +1146,8 @@
                 "de": "Der Radweg ist im Winter wunderbar leer.",
                 "hu": "A kerékpárút télen csodálatosan üres.",
                 "ro": "Pista de biciclete este minunat de goală iarna.",
-                "en": "The bike path is wonderfully empty in winter."
+                "en": "The bike path is wonderfully empty in winter.",
+                "es": "El carril bici está maravillosamente vacío en invierno."
               }
             },
             {
@@ -1073,7 +1156,8 @@
                 "de": "Bringen Sie eine Windjacke für die Pause am Aussichtspunkt mit.",
                 "hu": "Vigyen széldzsekit a kilátónál tartott pihenőhöz.",
                 "ro": "Aduceți o jachetă de vânt pentru pauza la punctul de belvedere.",
-                "en": "Bring a windbreaker for the break at the viewpoint."
+                "en": "Bring a windbreaker for the break at the viewpoint.",
+                "es": "Lleva un cortavientos para la parada en el mirador."
               }
             },
             {
@@ -1082,7 +1166,8 @@
                 "de": "Genießen Sie den weiten Blick ohne die Sonnenschirme der Touristen.",
                 "hu": "Élvezze a tágas kilátást a turisták napernyői nélkül.",
                 "ro": "Bucurați-vă de vederea largă fără umbrelele turiștilor.",
-                "en": "Enjoy the wide view without the tourists' sunshades."
+                "en": "Enjoy the wide view without the tourists' sunshades.",
+                "es": "Disfruta de la vista amplia sin las sombrillas de los turistas."
               }
             },
             {
@@ -1091,7 +1176,8 @@
                 "de": "Ein toller Ort für Fotos im goldenen Winterlicht.",
                 "hu": "Nagyszerű hely fotózáshoz az aranyló téli fényekben.",
                 "ro": "Un loc grozav pentru fotografii în lumina aurie de iarnă.",
-                "en": "A great spot for photos in the golden winter light."
+                "en": "A great spot for photos in the golden winter light.",
+                "es": "Un gran lugar para fotos con la luz dorada del invierno."
               }
             }
           ],
@@ -1123,6 +1209,13 @@
               "The Levante wind can be particularly chilly in winter.",
               "Stop at local cafes for a hot chocolate.",
               "Check your tire pressure before starting the tour."
+            ],
+            "es": [
+              "Viste en capas finas que puedas quitarte si hace falta.",
+              "Los días son más cortos; asegura que las luces de la bici funcionen.",
+              "El Levante puede ser especialmente frío en invierno.",
+              "Para en cafeterías locales por un chocolate caliente.",
+              "Comprueba la presión de los neumáticos antes de comenzar la ruta."
             ]
           }
         }
@@ -1151,7 +1244,8 @@
             "de": "Parken Sie am Hafen, um die Burg zu besichtigen.",
             "hu": "Parkoljon a kikötőnél a vár meglátogatásához.",
             "ro": "Parcați în port pentru a vizita castelul.",
-            "en": "Park at the harbor to visit the castle."
+            "en": "Park at the harbor to visit the castle.",
+            "es": "Aparca en el puerto para visitar el castillo."
           }
         },
         {
@@ -1169,7 +1263,8 @@
             "de": "Bequemer Parkplatz direkt an der Aussichtsplattform.",
             "hu": "Kényelmes parkoló közvetlenül a kilátónál.",
             "ro": "Parcare convenabilă chiar lângă platforma de observare.",
-            "en": "Convenient parking right by the viewing platform."
+            "en": "Convenient parking right by the viewing platform.",
+            "es": "Aparcamiento conveniente junto al mirador."
           }
         },
         {
@@ -1187,7 +1282,8 @@
             "de": "Römische Ruinen direkt am Strand von Bolonia.",
             "hu": "Római kori romok közvetlenül Bolonia strandjánál.",
             "ro": "Ruine romane chiar pe plaja din Bolonia.",
-            "en": "Roman ruins right by Bolonia beach."
+            "en": "Roman ruins right by Bolonia beach.",
+            "es": "Restos romanos junto a la playa de Bolonia."
           }
         },
         {
@@ -1205,7 +1301,8 @@
             "de": "Beliebter Stopp für einen Strandspaziergang.",
             "hu": "Népszerű megálló egy tengerparti sétához.",
             "ro": "Oprire populară pentru o plimbare pe plajă.",
-            "en": "Popular stop for a beach stroll."
+            "en": "Popular stop for a beach stroll.",
+            "es": "Parada popular para un paseo por la playa."
           }
         },
         {
@@ -1223,7 +1320,8 @@
             "de": "Ein kurzer Besuch zum Abschluss im Zentrum.",
             "hu": "Rövid záró látogatás a központban.",
             "ro": "O scurtă vizită de final în centru.",
-            "en": "A short final visit in the center."
+            "en": "A short final visit in the center.",
+            "es": "Una breve visita final en el centro."
           }
         }
       ],
@@ -1231,7 +1329,8 @@
         "de": "Mit dem Auto erkunden Sie die Region Tarifa in vollem Umfang. Beginnen Sie mit der Burg im Zentrum, bevor Sie zum Mirador del Estrecho fahren.\n\nEin Highlight ist die Fahrt nach Bolonia, um die beeindruckenden römischen Ruinen von Baelo Claudia direkt am Meer zu besichtigen.\n\nEntspannen Sie danach an der Playa de Valdevaqueros und beobachten Sie das bunte Treiben der Surfer und Kiter.\n\nBeenden Sie den Tag zurück im Stadtzentrum von Tarifa mit einem Besuch der San Mateo Kirche.",
         "hu": "Autóval teljes mértékben felfedezheti Tarifa környékét. Kezdje a központi várral, mielőtt a Mirador del Estrecho felé venné az irányt.\n\nA nap fénypontja a Boloniába tett utazás, ahol megtekintheti Baelo Claudia lenyűgöző római romjait közvetlenül a tengerparton.\n\nEzt követően pihenjen meg a Playa de Valdevaqueros-nál, figyelve a szörfösök és kiterek színes kavalkádját.\n\nZárja a napot Tarifa belvárosában, egy látogatással a San Mateo templomban.",
         "ro": "Cu mașina, explorați regiunea Tarifa în totalitate. Începeți cu castelul din centru înainte de a merge spre Mirador del Estrecho.\n\nUn punct culminant este drumul spre Bolonia pentru a vizita impresionantele ruine romane Baelo Claudia, chiar lângă mare.\n\nRelaxați-vă apoi la Playa de Valdevaqueros și urmăriți activitatea colorată a surferilor.\n\nÎncheiați ziua înapoi în centrul orașului Tarifa cu o vizită la biserica San Mateo.",
-        "en": "By car, you can explore the Tarifa region to its full extent. Start with the castle in the center before heading to the Mirador del Estrecho.\n\nA highlight is the drive to Bolonia to visit the impressive Roman ruins of Baelo Claudia right by the sea.\n\nAfterward, relax at Playa de Valdevaqueros and watch the colorful hustle and bustle of surfers.\n\nEnd the day back in Tarifa city center with a visit to San Mateo Church."
+        "en": "By car, you can explore the Tarifa region to its full extent. Start with the castle in the center before heading to the Mirador del Estrecho.\n\nA highlight is the drive to Bolonia to visit the impressive Roman ruins of Baelo Claudia right by the sea.\n\nAfterward, relax at Playa de Valdevaqueros and watch the colorful hustle and bustle of surfers.\n\nEnd the day back in Tarifa city center with a visit to San Mateo Church.",
+        "es": "En coche puedes explorar la región de Tarifa en su totalidad. Empieza por el castillo del centro antes de dirigirte al Mirador del Estrecho.\n\nUn punto destacado es el trayecto hasta Bolonia para visitar las impresionantes ruinas romanas de Baelo Claudia junto al mar.\n\nDespués, relájate en la Playa de Valdevaqueros y observa el bullicio colorido de los surfistas.\n\nTermina el día de vuelta en el centro de Tarifa con una visita a la iglesia de San Mateo."
       },
       "gastro_picks": {
         "de": [
@@ -1339,6 +1438,12 @@
           "Drive carefully on the N-340 due to strong winds.",
           "Use the parking garages in Tarifa center.",
           "Baelo Claudia is often closed on Mondays."
+        ],
+        "es": [
+          "El aparcamiento en Bolonia se llena rápido en verano.",
+          "Conduce con cuidado por la N-340 debido a los fuertes vientos.",
+          "Usa los parkings subterráneos en el centro de Tarifa.",
+          "Baelo Claudia suele estar cerrada los lunes."
         ]
       },
       "variants": {
@@ -1347,7 +1452,8 @@
             "de": "Mit dem Auto erkunden Sie die Region Tarifa in vollem Umfang. Beginnen Sie mit der Burg im Zentrum, bevor Sie zum Mirador del Estrecho fahren.\n\nEin Highlight ist die Fahrt nach Bolonia, um die beeindruckenden römischen Ruinen von Baelo Claudia direkt am Meer zu besichtigen.\n\nEntspannen Sie danach an der Playa de Valdevaqueros und beobachten Sie das bunte Treiben der Surfer und Kiter.\n\nBeenden Sie den Tag zurück im Stadtzentrum von Tarifa mit einem Besuch der San Mateo Kirche.",
             "hu": "Autóval teljes mértékben felfedezheti Tarifa környékét. Kezdje a központi várral, mielőtt a Mirador del Estrecho felé venné az irányt.\n\nA nap fénypontja a Boloniába tett utazás, ahol megtekintheti Baelo Claudia lenyűgöző római romjait közvetlenül a tengerparton.\n\nEzt követően pihenjen meg a Playa de Valdevaqueros-nál, figyelve a szörfösök és kiterek színes kavalkádját.\n\nZárja a napot Tarifa belvárosában, egy látogatással a San Mateo templomban.",
             "ro": "Cu mașina, explorați regiunea Tarifa în totalitate. Începeți cu castelul din centru înainte de a merge spre Mirador del Estrecho.\n\nUn punct culminant este drumul spre Bolonia pentru a vizita impresionantele ruine romane Baelo Claudia, chiar lângă mare.\n\nRelaxați-vă apoi la Playa de Valdevaqueros și urmăriți activitatea colorată a surferilor.\n\nÎncheiați ziua înapoi în centrul orașului Tarifa cu o vizită la biserica San Mateo.",
-            "en": "By car, you can explore the Tarifa region to its full extent. Start with the castle in the center before heading to the Mirador del Estrecho.\n\nA highlight is the drive to Bolonia to visit the impressive Roman ruins of Baelo Claudia right by the sea.\n\nAfterward, relax at Playa de Valdevaqueros and watch the colorful hustle and bustle of surfers.\n\nEnd the day back in Tarifa city center with a visit to San Mateo Church."
+            "en": "By car, you can explore the Tarifa region to its full extent. Start with the castle in the center before heading to the Mirador del Estrecho.\n\nA highlight is the drive to Bolonia to visit the impressive Roman ruins of Baelo Claudia right by the sea.\n\nAfterward, relax at Playa de Valdevaqueros and watch the colorful hustle and bustle of surfers.\n\nEnd the day back in Tarifa city center with a visit to San Mateo Church.",
+            "es": "En coche puedes explorar la región de Tarifa en su totalidad. Empieza por el castillo del centro antes de dirigirte al Mirador del Estrecho.\n\nUn punto destacado es el trayecto hasta Bolonia para visitar las impresionantes ruinas romanas de Baelo Claudia junto al mar.\n\nDespués, relájate en la Playa de Valdevaqueros y observa el bullicio colorido de los surfistas.\n\nTermina el día de vuelta en el centro de Tarifa con una visita a la iglesia de San Mateo."
           },
           "stops": [
             {
@@ -1477,6 +1583,12 @@
               "Drive carefully on the N-340 due to strong winds.",
               "Use the parking garages in Tarifa center.",
               "Baelo Claudia is often closed on Mondays."
+            ],
+            "es": [
+              "El aparcamiento en Bolonia se llena rápido en verano.",
+              "Conduce con cuidado por la N-340 debido a los fuertes vientos.",
+              "Usa los parkings subterráneos en el centro de Tarifa.",
+              "Baelo Claudia suele estar cerrada los lunes."
             ]
           }
         },
@@ -1485,7 +1597,8 @@
             "de": "Nutzen Sie das Auto als mobile Basis, um das Castillo de Guzmán el Bueno im Regen zu besuchen. Parkplätze sind bei schlechtem Wetter meist leichter zu finden.\n\nFahren Sie mittags zum Mirador del Estrecho. Auch wenn es regnet, bietet die Fahrt durch die nebligen Berge ein ganz eigenes, atmosphärisches Erlebnis.\n\nIn Baelo Claudia können Sie zwischen den Regenschauern die römischen Ruinen erkunden und sich bei starkem Guss ins Besucherzentrum zurückziehen.\n\nNachmittags bietet die Playa de Valdevaqueros vom Auto aus einen Blick auf die tosenden Wellen. Beenden Sie den Tag trocken in der Nähe der Kirche San Mateo.",
             "hu": "Használja az autót mozgó bázisként a Castillo de Guzmán el Bueno meglátogatásához esőben. Rossz időben általában könnyebb parkolót találni.\n\nDélben hajtson fel a Mirador del Estrecho-hoz. Még ha esik is, a ködös hegyeken keresztüli út különleges, hangulatos élményt nyújt.\n\nBaelo Claudiában az esőszünetekben felfedezheti a római romokat, erős felhőszakadáskor pedig visszahúzódhat a látogatóközpontba.\n\nDélután a Playa de Valdevaqueros az autóból nézve is lenyűgöző a tomboló hullámokkal. Fejezze be a napot szárazon a San Mateo templom közelében.",
             "ro": "Folosiți mașina ca bază mobilă pentru a vizita Castillo de Guzmán el Bueno pe ploaie. Parcarea este de obicei mai ușor de găsit pe vreme rea.\n\nLa prânz, conduceți spre Mirador del Estrecho. Chiar dacă plouă, drumul prin munții înnebuloși oferă o experiență atmosferică unică.\n\nÎn Baelo Claudia, puteți explora ruinele romane între reprizele de ploaie și vă puteți retrage în centrul de vizitare în caz de aversă.\n\nDupă-amiaza, Playa de Valdevaqueros oferă din mașină o vedere asupra valurilor învolburate. Încheiați ziua la uscat lângă Biserica San Mateo.",
-            "en": "Use the car as a mobile base to visit Castillo de Guzmán el Bueno during the rain. Parking is usually easier to find in bad weather.\n\nAt noon, drive to Mirador del Estrecho. Even if it rains, the drive through the misty mountains offers a unique, atmospheric experience.\n\nAt Baelo Claudia, you can explore the Roman ruins between showers and retreat to the visitor center during heavy downpours.\n\nIn the afternoon, Playa de Valdevaqueros provides a great view of the crashing waves from your car. Finish the day dry near San Mateo Church."
+            "en": "Use the car as a mobile base to visit Castillo de Guzmán el Bueno during the rain. Parking is usually easier to find in bad weather.\n\nAt noon, drive to Mirador del Estrecho. Even if it rains, the drive through the misty mountains offers a unique, atmospheric experience.\n\nAt Baelo Claudia, you can explore the Roman ruins between showers and retreat to the visitor center during heavy downpours.\n\nIn the afternoon, Playa de Valdevaqueros provides a great view of the crashing waves from your car. Finish the day dry near San Mateo Church.",
+            "es": "Usa el coche como base móvil para visitar el Castillo de Guzmán el Bueno durante la lluvia. Aparcar suele ser más fácil con mal tiempo.\n\nAl mediodía, conduce hasta el Mirador del Estrecho. Incluso si llueve, el trayecto entre brumas ofrece una experiencia atmosférica única.\n\nEn Baelo Claudia puedes explorar las ruinas romanas entre chubascos y refugiarte en el centro de visitantes durante los aguaceros más intensos.\n\nPor la tarde, la Playa de Valdevaqueros ofrece una gran vista de las olas desde tu coche. Termina el día seco cerca de la iglesia de San Mateo."
           },
           "stops": [
             {
@@ -1494,7 +1607,8 @@
                 "de": "Parken Sie im Hafenbereich für einen kurzen Fußweg zum Schloss.",
                 "hu": "Parkoljon a kikötőben a várhoz vezető rövid sétához.",
                 "ro": "Parcați în zona portului pentru o scurtă plimbare până la castel.",
-                "en": "Park in the harbor area for a short walk to the castle."
+                "en": "Park in the harbor area for a short walk to the castle.",
+                "es": "Aparca en la zona del puerto para un corto paseo hasta el castillo."
               }
             },
             {
@@ -1503,7 +1617,8 @@
                 "de": "Genießen Sie die Aussicht direkt aus dem warmen Auto.",
                 "hu": "Élvezze a kilátást közvetlenül a meleg autóból.",
                 "ro": "Bucurați-vă de priveliște direct din mașina caldă.",
-                "en": "Enjoy the view directly from your warm car."
+                "en": "Enjoy the view directly from your warm car.",
+                "es": "Disfruta de la vista directamente desde tu cálido coche."
               }
             },
             {
@@ -1512,7 +1627,8 @@
                 "de": "Das Museum vor Ort ist ein hervorragender Zufluchtsort bei Regen.",
                 "hu": "A helyi múzeum kiváló menedékhely eső esetén.",
                 "ro": "Muzeul local este un refugiu excelent în caz de ploaie.",
-                "en": "The local museum is an excellent refuge during rain."
+                "en": "The local museum is an excellent refuge during rain.",
+                "es": "El museo local es un excelente refugio durante la lluvia."
               }
             },
             {
@@ -1521,7 +1637,8 @@
                 "de": "Der Parkplatz bietet einen tollen Blick auf das Meer bei Sturm.",
                 "hu": "A parkolóból nagyszerű kilátás nyílik a tengerre vihar idején.",
                 "ro": "Parcarea oferă o vedere excelentă asupra mării în timpul furtunii.",
-                "en": "The parking lot offers a great view of the sea during a storm."
+                "en": "The parking lot offers a great view of the sea during a storm.",
+                "es": "El aparcamiento ofrece una gran vista al mar durante la tormenta."
               }
             },
             {
@@ -1530,7 +1647,8 @@
                 "de": "Die schmalen Gassen rundherum sind mit dem Auto schwer befahrbar.",
                 "hu": "A környékbeli szűk utcák autóval nehezen járhatók.",
                 "ro": "Străduțele înguste din jur sunt greu accesibile cu mașina.",
-                "en": "The narrow streets around here are difficult to navigate by car."
+                "en": "The narrow streets around here are difficult to navigate by car.",
+                "es": "Las calles estrechas de esta zona son difíciles de recorrer en coche."
               }
             }
           ],
@@ -1562,6 +1680,13 @@
               "Do not park on unpaved areas that could become muddy.",
               "Use windshield wipers on high settings during heavy sea spray.",
               "Keep the AC on to prevent windows from fogging up."
+            ],
+            "es": [
+              "Cuidado con el aquaplaning en la N-340 durante fuertes lluvias.",
+              "La visibilidad en las montañas puede disminuir rápidamente por la niebla.",
+              "No aparques en zonas sin pavimentar que puedan volverse embarradas.",
+              "Usa los limpiaparabrisas a máxima velocidad durante la bruma marina intensa.",
+              "Mantén el climatizador encendido para evitar que se empañen las ventanas."
             ]
           }
         },
@@ -1570,7 +1695,8 @@
             "de": "Starten Sie Ihre Winter-Tour am Castillo de Guzmán el Bueno. Mit dem Auto erreichen Sie die historischen Stätten bequem, auch wenn der Wind draußen pfeift.\n\nMittags führt die Fahrt zum Mirador del Estrecho. Im Winter ist die Sicht über die Meerenge oft so klar, dass die afrikanische Küste zum Greifen nah scheint.\n\nBesuchen Sie Baelo Claudia in der milden Wintersonne. Es ist die beste Zeit, um die Ruinen ohne die sengende Sommerhitze zu erkunden.\n\nNachmittags genießen Sie die Weite der Playa de Valdevaqueros. Beenden Sie den Tag rechtzeitig zur blauen Stunde bei der Kirche San Mateo in der Altstadt.",
             "hu": "Kezdje téli autós túráját a Castillo de Guzmán el Bueno-nál. Autóval kényelmesen elérheti a történelmi helyszíneket, még ha kint süvít is a szél.\n\nDélben hajtson fel a Mirador del Estrecho-hoz. Télen a kilátás a szoroson át gyakran olyan tiszta, hogy az afrikai partok karnyújtásnyinak tűnnek.\n\nLátogasson el Baelo Claudiába a lágy téli napsütésben. Ez a legjobb idő a romok felfedezésére a perzselő nyári hőség nélkül.\n\nDélután élvezze a Playa de Valdevaqueros tágas látványát. Fejezze be a napot időben, a kék órában az óvárosi San Mateo templomnál.",
             "ro": "Începeți turul de iarnă la Castillo de Guzmán el Bueno. Cu mașina ajungeți confortabil la siturile istorice, chiar dacă vântul suflă afară.\n\nLa prânz, drumul duce spre Mirador del Estrecho. Iarna, vizibilitatea peste strâmtoare este adesea atât de clară încât coasta africană pare foarte aproape.\n\nVizitați Baelo Claudia în soarele blând de iarnă. Este cel mai bun moment pentru a explora ruinele fără căldura arzătoare a verii.\n\nDupă-amiaza, bucurați-vă de imensitatea Playa de Valdevaqueros. Încheiați ziua la timp pentru ora albastră la Biserica San Mateo din orașul vechi.",
-            "en": "Start your winter car tour at Castillo de Guzmán el Bueno. By car, you can reach historic sites comfortably, even if the wind is whistling outside.\n\nAt noon, drive to Mirador del Estrecho. In winter, visibility across the strait is often so clear that the African coast seems within reach.\n\nVisit Baelo Claudia in the mild winter sun. It's the best time to explore the ruins without the scorching summer heat.\n\nIn the afternoon, enjoy the vastness of Playa de Valdevaqueros. Finish the day in time for the blue hour at San Mateo Church in the old town."
+            "en": "Start your winter car tour at Castillo de Guzmán el Bueno. By car, you can reach historic sites comfortably, even if the wind is whistling outside.\n\nAt noon, drive to Mirador del Estrecho. In winter, visibility across the strait is often so clear that the African coast seems within reach.\n\nVisit Baelo Claudia in the mild winter sun. It's the best time to explore the ruins without the scorching summer heat.\n\nIn the afternoon, enjoy the vastness of Playa de Valdevaqueros. Finish the day in time for the blue hour at San Mateo Church in the old town.",
+            "es": "Comienza tu ruta invernal en coche en el Castillo de Guzmán el Bueno. En coche puedes visitar cómodamente los sitios históricos, incluso si fuera silba el viento.\n\nAl mediodía, conduce hasta el Mirador del Estrecho. En invierno, la visibilidad a través del Estrecho suele ser tan clara que la costa africana parece al alcance.\n\nVisita Baelo Claudia con el suave sol invernal. Es el mejor momento para explorar las ruinas sin el calor abrasador del verano.\n\nPor la tarde, disfruta de la inmensidad de la Playa de Valdevaqueros. Termina el día a tiempo para la hora azul en la iglesia de San Mateo en el casco antiguo."
           },
           "stops": [
             {
@@ -1579,7 +1705,8 @@
                 "de": "Im Winter gibt es oft freie Parkplätze direkt am Hafen.",
                 "hu": "Télen gyakran van szabad parkolóhely közvetlenül a kikötőben.",
                 "ro": "Iarna există adesea locuri de parcare libere direct în port.",
-                "en": "In winter, there are often free parking spaces right at the harbor."
+                "en": "In winter, there are often free parking spaces right at the harbor.",
+                "es": "En invierno, a menudo hay plazas de aparcamiento gratuitas junto al puerto."
               }
             },
             {
@@ -1588,7 +1715,8 @@
                 "de": "Perfekter Stopp, um sich aufzuwärmen und trotzdem die Aussicht zu genießen.",
                 "hu": "Tökéletes megálló a felmelegedéshez, miközben élvezi a kilátást.",
                 "ro": "Oprire perfectă pentru a vă încălzi în timp ce vă bucurați de priveliște.",
-                "en": "Perfect stop to warm up while still enjoying the view."
+                "en": "Perfect stop to warm up while still enjoying the view.",
+                "es": "Parada perfecta para entrar en calor sin dejar de disfrutar de las vistas."
               }
             },
             {
@@ -1597,7 +1725,8 @@
                 "de": "Prüfen Sie die Winteröffnungszeiten, diese können kürzer sein.",
                 "hu": "Ellenőrizze a téli nyitvatartást, ezek rövidebbek lehetnek.",
                 "ro": "Verificați programul de iarnă, acesta poate fi mai scurt.",
-                "en": "Check winter opening hours, they might be shorter."
+                "en": "Check winter opening hours, they might be shorter.",
+                "es": "Comprueba los horarios de invierno, podrían ser más cortos."
               }
             },
             {
@@ -1606,7 +1735,8 @@
                 "de": "Die Zufahrtsstraßen zum Strand sind im Winter weniger befahren.",
                 "hu": "A tengerparthoz vezető utak télen sokkal kevésbé forgalmasak.",
                 "ro": "Drumurile de acces la plajă sunt mai puțin circulate iarna.",
-                "en": "Access roads to the beach are less busy in winter."
+                "en": "Access roads to the beach are less busy in winter.",
+                "es": "Las vías de acceso a la playa están menos concurridas en invierno."
               }
             },
             {
@@ -1615,7 +1745,8 @@
                 "de": "Parken Sie außerhalb der Altstadtmauern und gehen Sie das letzte Stück.",
                 "hu": "Parkoljon az óváros falain kívül, és sétáljon az utolsó szakaszon.",
                 "ro": "Parcați în afara zidurilor orașului vechi și mergeți pe jos ultima parte.",
-                "en": "Park outside the old town walls and walk the last bit."
+                "en": "Park outside the old town walls and walk the last bit.",
+                "es": "Aparca fuera de las murallas del casco antiguo y recorre el último tramo a pie."
               }
             }
           ],
@@ -1647,6 +1778,13 @@
               "Avoid driving in the dark on unfamiliar rural roads.",
               "Use fog lights in case of sudden coastal fog.",
               "Check tire pressure, as it can drop in cold weather."
+            ],
+            "es": [
+              "Conduce con precaución durante fuertes vientos de Levante (vientos cruzados).",
+              "Las carreteras de montaña pueden estar frescas y húmedas a la sombra en invierno.",
+              "Evita conducir de noche por carreteras rurales desconocidas.",
+              "Utiliza las luces antiniebla en caso de niebla costera repentina.",
+              "Revisa la presión de los neumáticos, ya que puede bajar con el frío."
             ]
           }
         }
@@ -1675,7 +1813,8 @@
             "de": "Zentraler Ankunftspunkt für Busse.",
             "hu": "A buszok központi érkezési pontja.",
             "ro": "Punct central de sosire pentru autobuze.",
-            "en": "Central arrival point for buses."
+            "en": "Central arrival point for buses.",
+            "es": "Punto central de llegada de los autobuses."
           }
         },
         {
@@ -1693,7 +1832,8 @@
             "de": "Kurzer Fußweg vom Bushalt.",
             "hu": "Rövid séta a buszmegállótól.",
             "ro": "Scurtă plimbare de la stația de autobuz.",
-            "en": "Short walk from the bus stop."
+            "en": "Short walk from the bus stop.",
+            "es": "A poca distancia a pie desde la parada de autobús."
           }
         },
         {
@@ -1711,7 +1851,8 @@
             "de": "Wahrzeichen, das man gesehen haben muss.",
             "hu": "Kihagyhatatlan látnivaló.",
             "ro": "Simbol care trebuie vizitat.",
-            "en": "A must-see landmark."
+            "en": "A must-see landmark.",
+            "es": "Un monumento imprescindible."
           }
         },
         {
@@ -1729,7 +1870,8 @@
             "de": "Mit dem lokalen Strandbus erreichbar.",
             "hu": "A helyi strandbusszal elérhető.",
             "ro": "Accesibil cu autobuzul local de plajă.",
-            "en": "Accessible via the local beach bus."
+            "en": "Accessible via the local beach bus.",
+            "es": "Accesible mediante el bus local a la playa."
           }
         },
         {
@@ -1747,7 +1889,8 @@
             "de": "Der krönende Abschluss am Kap.",
             "hu": "A nap fénypontja a foknál.",
             "ro": "Încheierea glorioasă la cap.",
-            "en": "The crowning finale at the cape."
+            "en": "The crowning finale at the cape.",
+            "es": "El gran final en el cabo."
           }
         }
       ],
@@ -1755,7 +1898,8 @@
         "de": "Nutzen Sie den öffentlichen Nahverkehr, um Tarifa entspannt zu erleben. Beginnen Sie an der Puerta de Jerez und erkunden Sie die Altstadt zu Fuß.\n\nBesuchen Sie die historische Festung, bevor Sie mit dem lokalen Bus zur Playa de los Lances fahren, um die Sonne zu genießen.\n\nNachmittags kehren Sie ins Zentrum zurück und spazieren zur Isla de las Palomas, um die geografische Besonderheit dieses Ortes zu spüren.\n\nEin perfekter Tag ohne Stress und Parkplatzsuche.",
         "hu": "Használja a tömegközlekedést Tarifa pihentető felfedezéséhez. Kezdje a Puerta de Jerez-nél, és fedezze fel gyalog az óvárost.\n\nLátogasson el a történelmi erődbe, majd menjen helyi busszal a Playa de los Lances strandra élvezni a napsütést.\n\nDélután térjen vissza a központba, és sétáljon el az Isla de las Palomas-hoz, hogy átérezze a hely földrajzi különlegességét.\n\nTökéletes nap stressz és parkolóhely-keresés nélkül.",
         "ro": "Folosiți transportul public pentru a experimenta Tarifa într-un mod relaxat. Începeți la Puerta de Jerez și explorați centrul vechi pe jos.\n\nVizitați fortăreața istorică înainte de a lua autobuzul local spre Playa de los Lances pentru a vă bucura de soare.\n\nDupă-amiaza, întoarceți-vă în centru și mergeți pe jos spre Isla de las Palomas pentru a simți particularitatea geografică a acestui loc.\n\nO zi perfectă fără stres și fără căutarea unui loc de parcare.",
-        "en": "Use public transport to experience Tarifa in a relaxed way. Start at Puerta de Jerez and explore the old town on foot.\n\nVisit the historic fortress before taking the local bus to Playa de los Lances to enjoy the sun.\n\nIn the afternoon, return to the center and walk to Isla de las Palomas to feel the geographical uniqueness of this place.\n\nA perfect day without stress or searching for parking."
+        "en": "Use public transport to experience Tarifa in a relaxed way. Start at Puerta de Jerez and explore the old town on foot.\n\nVisit the historic fortress before taking the local bus to Playa de los Lances to enjoy the sun.\n\nIn the afternoon, return to the center and walk to Isla de las Palomas to feel the geographical uniqueness of this place.\n\nA perfect day without stress or searching for parking.",
+        "es": "Usa el transporte público para vivir Tarifa con tranquilidad. Comienza en Puerta de Jerez y explora el casco antiguo a pie.\n\nVisita la fortaleza histórica antes de tomar el bus local a Playa de los Lances para disfrutar del sol.\n\nPor la tarde, vuelve al centro y camina hasta la Isla de las Palomas para sentir la singularidad geográfica del lugar.\n\nUn día perfecto sin estrés ni búsqueda de aparcamiento."
       },
       "gastro_picks": {
         "de": [
@@ -1863,6 +2007,12 @@
           "Buy tickets directly from the driver (have change ready).",
           "The beach bus runs more frequently in summer.",
           "Distances in the center are easily walkable."
+        ],
+        "es": [
+          "Consulta los horarios de autobús en línea (Comes).",
+          "Compra los billetes directamente al conductor (lleva cambio).",
+          "El bus a la playa circula con más frecuencia en verano.",
+          "Las distancias en el centro son fácilmente recorribles a pie."
         ]
       },
       "variants": {
@@ -1871,7 +2021,8 @@
             "de": "Nutzen Sie den öffentlichen Nahverkehr, um Tarifa entspannt zu erleben. Beginnen Sie an der Puerta de Jerez und erkunden Sie die Altstadt zu Fuß.\n\nBesuchen Sie die historische Festung, bevor Sie mit dem lokalen Bus zur Playa de los Lances fahren, um die Sonne zu genießen.\n\nNachmittags kehren Sie ins Zentrum zurück und spazieren zur Isla de las Palomas, um die geografische Besonderheit dieses Ortes zu spüren.\n\nEin perfekter Tag ohne Stress und Parkplatzsuche.",
             "hu": "Használja a tömegközlekedést Tarifa pihentető felfedezéséhez. Kezdje a Puerta de Jerez-nél, és fedezze fel gyalog az óvárost.\n\nLátogasson el a történelmi erődbe, majd menjen helyi busszal a Playa de los Lances strandra élvezni a napsütést.\n\nDélután térjen vissza a központba, és sétáljon el az Isla de las Palomas-hoz, hogy átérezze a hely földrajzi különlegességét.\n\nTökéletes nap stressz és parkolóhely-keresés nélkül.",
             "ro": "Folosiți transportul public pentru a experimenta Tarifa într-un mod relaxat. Începeți la Puerta de Jerez și explorați centrul vechi pe jos.\n\nVizitați fortăreața istorică înainte de a lua autobuzul local spre Playa de los Lances pentru a vă bucura de soare.\n\nDupă-amiaza, întoarceți-vă în centru și mergeți pe jos spre Isla de las Palomas pentru a simți particularitatea geografică a acestui loc.\n\nO zi perfectă fără stres și fără căutarea unui loc de parcare.",
-            "en": "Use public transport to experience Tarifa in a relaxed way. Start at Puerta de Jerez and explore the old town on foot.\n\nVisit the historic fortress before taking the local bus to Playa de los Lances to enjoy the sun.\n\nIn the afternoon, return to the center and walk to Isla de las Palomas to feel the geographical uniqueness of this place.\n\nA perfect day without stress or searching for parking."
+            "en": "Use public transport to experience Tarifa in a relaxed way. Start at Puerta de Jerez and explore the old town on foot.\n\nVisit the historic fortress before taking the local bus to Playa de los Lances to enjoy the sun.\n\nIn the afternoon, return to the center and walk to Isla de las Palomas to feel the geographical uniqueness of this place.\n\nA perfect day without stress or searching for parking.",
+            "es": "Usa el transporte público para vivir Tarifa con tranquilidad. Comienza en Puerta de Jerez y explora el casco antiguo a pie.\n\nVisita la fortaleza histórica antes de tomar el bus local a Playa de los Lances para disfrutar del sol.\n\nPor la tarde, vuelve al centro y camina hasta la Isla de las Palomas para sentir la singularidad geográfica del lugar.\n\nUn día perfecto sin estrés ni búsqueda de aparcamiento."
           },
           "stops": [
             {
@@ -2001,6 +2152,12 @@
               "Buy tickets directly from the driver (have change ready).",
               "The beach bus runs more frequently in summer.",
               "Distances in the center are easily walkable."
+            ],
+            "es": [
+              "Consulta los horarios de autobús en línea (Comes).",
+              "Compra los billetes directamente al conductor (lleva cambio).",
+              "El bus a la playa circula con más frecuencia en verano.",
+              "Las distancias en el centro son fácilmente recorribles a pie."
             ]
           }
         },
@@ -2009,7 +2166,8 @@
             "de": "Starten Sie am Puerta de Jerez, das mit dem Bus gut erreichbar ist. Das Tor bietet sofortigen Schutz vor dem ersten Regenschauer.\n\nMittags schlendern Sie zur Plaza de la Constitución. Die kurzen Wege zwischen den Haltestellen minimieren die Zeit im Regen.\n\nDas Castillo de Guzmán el Bueno bietet am Nachmittag viele Innenräume. Es ist ein idealer Ort, um die Geschichte Tarífas im Trockenen zu erleben.\n\nFahren Sie mit dem Bus zur Playa de los Lances. Genießen Sie den Blick auf das Meer von einem geschützten Platz aus, bevor Sie zur Isla de las Palomas weiterziehen.",
             "hu": "Kezdje a túrát a Puerta de Jereznél, amely busszal könnyen megközelíthető. A kapu azonnali menedéket nyújt az első esőzápor elől.\n\nDélben sétáljon el a Plaza de la Constitucióg. A megállók közötti rövid távolságok minimalizálják az esőben töltött időt.\n\nA Castillo de Guzmán el Bueno délután számos belső teret kínál. Ideális hely Tarifa történelmének felfedezéséhez szárazon.\n\nMenjen busszal a Playa de los Lanceshez. Élvezze a tenger látványát egy védett helyről, mielőtt továbbmenne az Isla de las Palomas felé.",
             "ro": "Începeți la Puerta de Jerez, care este ușor accesibilă cu autobuzul. Poarta oferă adăpost imediat împotriva primei averse.\n\nLa prânz, mergeți spre Plaza de la Constitución. Distanțele scurte între stații Pentru a minimiza timpul petrecut în ploaie.\n\nCastillo de Guzmán el Bueno oferă multe spații interioare după-amiaza. Este un loc ideal pentru a experimenta istoria Tarifiei la adăpost.\n\nLuați autobuzul spre Playa de los Lances. Bucurați-vă de vederea mării dintr-un loc protejat înainte de a continua spre Isla de las Palomas.",
-            "en": "Start at Puerta de Jerez, which is easily accessible by bus. The gate provides immediate shelter from the first rain shower.\n\nAt noon, stroll to Plaza de la Constitución. Short distances between stops minimize time spent in the rain.\n\nCastillo de Guzmán el Bueno offers many indoor spaces in the afternoon. It is an ideal place to experience Tarifa's history while staying dry.\n\nTake the bus to Playa de los Lances. Enjoy the sea view from a protected spot before heading to Isla de las Palomas."
+            "en": "Start at Puerta de Jerez, which is easily accessible by bus. The gate provides immediate shelter from the first rain shower.\n\nAt noon, stroll to Plaza de la Constitución. Short distances between stops minimize time spent in the rain.\n\nCastillo de Guzmán el Bueno offers many indoor spaces in the afternoon. It is an ideal place to experience Tarifa's history while staying dry.\n\nTake the bus to Playa de los Lances. Enjoy the sea view from a protected spot before heading to Isla de las Palomas.",
+            "es": "Comienza en Puerta de Jerez, accesible fácilmente en autobús. La puerta ofrece refugio inmediato de una lluvia pasajera.\n\nAl mediodía, pasea hasta la Plaza de la Constitución. Las cortas distancias entre paradas minimizan el tiempo bajo la lluvia.\n\nEl Castillo de Guzmán el Bueno ofrece muchos espacios interiores por la tarde. Es un lugar ideal para conocer la historia de Tarifa manteniéndose seco.\n\nToma el bus a Playa de los Lances. Disfruta de la vista al mar desde un lugar protegido antes de dirigirte a la Isla de las Palomas."
           },
           "stops": [
             {
@@ -2018,7 +2176,8 @@
                 "de": "Die Bushaltestelle befindet sich ganz in der Nähe des Stadttors.",
                 "hu": "A buszmegálló közvetlenül a városkapu közelében található.",
                 "ro": "Stația de autobuz se află foarte aproape de poarta orașului.",
-                "en": "The bus stop is located very close to the city gate."
+                "en": "The bus stop is located very close to the city gate.",
+                "es": "La parada de autobús está muy cerca de la puerta de la ciudad."
               }
             },
             {
@@ -2027,7 +2186,8 @@
                 "de": "Nutzen Sie die Arkaden in der Nähe als Schutz vor Regen.",
                 "hu": "Használja a közeli árkádokat eső elleni védelemként.",
                 "ro": "Folosiți arcadele din apropiere ca protecție împotriva ploii.",
-                "en": "Use the nearby arcades as protection against the rain."
+                "en": "Use the nearby arcades as protection against the rain.",
+                "es": "Utiliza los pórticos cercanos como protección contra la lluvia."
               }
             },
             {
@@ -2036,7 +2196,8 @@
                 "de": "Der Fußweg von der Bushaltestelle zum Schloss ist kurz.",
                 "hu": "A buszmegállótól a várig tartó séta rövid.",
                 "ro": "Drumul pe jos de la stația de autobuz la castel este scurt.",
-                "en": "The walk from the bus stop to the castle is short."
+                "en": "The walk from the bus stop to the castle is short.",
+                "es": "La caminata desde la parada hasta el castillo es corta."
               }
             },
             {
@@ -2045,7 +2206,8 @@
                 "de": "Warten Sie in einem Café an der Haltestelle auf den Bus.",
                 "hu": "Várja a buszt egy kávézóban a megálló közelében.",
                 "ro": "Așteptați autobuzul într-o cafenea de lângă stație.",
-                "en": "Wait for the bus in a cafe near the stop."
+                "en": "Wait for the bus in a cafe near the stop.",
+                "es": "Espera el autobús en una cafetería cercana a la parada."
               }
             },
             {
@@ -2054,7 +2216,8 @@
                 "de": "Beachten Sie, dass der Busverkehr bei Unwetter eingeschränkt sein kann.",
                 "hu": "Vegye figyelembe, hogy vihar esetén a buszközlekedés korlátozott lehet.",
                 "ro": "Rețineți că transportul cu autobuzul poate fi limitat în caz de furtună.",
-                "en": "Note that bus services may be limited during severe weather."
+                "en": "Note that bus services may be limited during severe weather.",
+                "es": "Ten en cuenta que los servicios de autobús pueden verse limitados con tiempo severo."
               }
             }
           ],
@@ -2086,6 +2249,13 @@
               "Have small change ready for the bus ticket.",
               "Buses in Tarifa are often full when it rains, allow extra time.",
               "Use bus shelters as protection against the wind."
+            ],
+            "es": [
+              "Descarga la app de transporte local para información en tiempo real.",
+              "Lleva calzado impermeable para las caminatas entre paradas.",
+              "Ten cambio pequeño preparado para el billete del autobús.",
+              "Los autobuses en Tarifa suelen llenarse cuando llueve, añade tiempo extra.",
+              "Utiliza las marquesinas de la parada como protección contra el viento."
             ]
           }
         },
@@ -2094,7 +2264,8 @@
             "de": "Starten Sie den klaren Wintermorgen am Puerta de Jerez. Mit dem Bus kommen Sie entspannt an, während die ersten Sonnenstrahlen die Stadt beleuchten.\n\nMittags ist die Plaza de la Constitución ein lebendiger Treffpunkt. Genießen Sie die winterliche Atmosphäre bei einem Spaziergang zwischen den Zielen.\n\nDas Castillo de Guzmán el Bueno bietet am Nachmittag spektakuläre Aussichten. Das klare Winterlicht ist perfekt für Panoramafotos.\n\nFahren Sie mit dem Bus zur Playa de los Lances für den frühen Sonnenuntergang. Der Tag endet an der Isla de las Palomas mit einem weiten Blick über das Meer.",
             "hu": "Kezdje a tiszta téli reggelt a Puerta de Jereznél. Busszal érkezve kipihenten nézheti, ahogy az első napsugarak megvilágítják a várost.\n\nDélben a Plaza de la Constitución élénk találkozóhely. Élvezze a téli hangulatot a megállók közötti séta közben.\n\nA Castillo de Guzmán el Bueno délután látványos kilátást kínál. A tiszta téli fény tökéletes a panorámafotókhoz.\n\nMenjen busszal a Playa de los Lanceshez a korai naplementére. A nap az Isla de las Palomasnál zárul, tágas kilátással a tengerre.",
             "ro": "Începeți dimineața senină de iarnă la Puerta de Jerez. Ajungând cu autobuzul, vă puteți relaxa în timp ce primele raze de soare luminează orașul.\n\nLa prânz, Plaza de la Constitución este un punct de întâlnire plin de viață. Bucurați-vă de atmosfera de iarnă în timpul plimbării între obiective.\n\nCastillo de Guzmán el Bueno oferă vederi spectaculoase după-amiaza. Lumina clară de iarnă este perfectă pentru fotografii panoramice.\n\nLuați autobuzul spre Playa de los Lances pentru apusul devreme. Ziua se încheie la Isla de las Palomas cu o vedere largă peste mare.",
-            "en": "Start a clear winter morning at Puerta de Jerez. Arrive relaxed by bus as the first rays of sun illuminate the city.\n\nAt noon, Plaza de la Constitución is a lively meeting spot. Enjoy the winter atmosphere during your walk between the sites.\n\nCastillo de Guzmán el Bueno offers spectacular views in the afternoon. The clear winter light is perfect for panoramic photos.\n\nTake the bus to Playa de los Lances for an early sunset. The day ends at Isla de las Palomas with a vast view over the sea."
+            "en": "Start a clear winter morning at Puerta de Jerez. Arrive relaxed by bus as the first rays of sun illuminate the city.\n\nAt noon, Plaza de la Constitución is a lively meeting spot. Enjoy the winter atmosphere during your walk between the sites.\n\nCastillo de Guzmán el Bueno offers spectacular views in the afternoon. The clear winter light is perfect for panoramic photos.\n\nTake the bus to Playa de los Lances for an early sunset. The day ends at Isla de las Palomas with a vast view over the sea.",
+            "es": "Comienza una clara mañana de invierno en Puerta de Jerez. Llega relajado en autobús mientras los primeros rayos de sol iluminan la ciudad.\n\nAl mediodía, la Plaza de la Constitución es un punto de encuentro animado. Disfruta la atmósfera invernal durante tu paseo entre sitios.\n\nEl Castillo de Guzmán el Bueno ofrece vistas espectaculares por la tarde. La luz invernal clara es perfecta para fotos panorámicas.\n\nToma el bus a Playa de los Lances para un atardecer temprano. El día termina en la Isla de las Palomas con una amplia vista al mar."
           },
           "stops": [
             {
@@ -2103,7 +2274,8 @@
                 "de": "Busse verkehren im Winter nach einem anderen Fahrplan.",
                 "hu": "A buszok télen más menetrend szerint közlekednek.",
                 "ro": "Autobuzele circulă după un program diferit iarna.",
-                "en": "Buses operate on a different schedule in winter."
+                "en": "Buses operate on a different schedule in winter.",
+                "es": "Los autobuses operan con horario distinto en invierno."
               }
             },
             {
@@ -2112,7 +2284,8 @@
                 "de": "Genießen Sie den kurzen Fußweg in der milden Wintersonne.",
                 "hu": "Élvezze a rövid sétát a lágy téli napsütésben.",
                 "ro": "Bucurați-vă de scurta plimbare în soarele blând de iarnă.",
-                "en": "Enjoy the short walk in the mild winter sun."
+                "en": "Enjoy the short walk in the mild winter sun.",
+                "es": "Disfruta de la corta caminata bajo el suave sol invernal."
               }
             },
             {
@@ -2121,7 +2294,8 @@
                 "de": "Die Wartezeiten am Einlass sind im Winter minimal.",
                 "hu": "A bejáratnál a várakozási idő télen minimális.",
                 "ro": "Timpii de așteptare la intrare sunt minimi iarna.",
-                "en": "Waiting times at the entrance are minimal in winter."
+                "en": "Waiting times at the entrance are minimal in winter.",
+                "es": "Los tiempos de espera en la entrada son mínimos en invierno."
               }
             },
             {
@@ -2130,7 +2304,8 @@
                 "de": "Die letzte Busfahrt vor Sonnenuntergang bietet tolle Ausblicke.",
                 "hu": "Az utolsó buszjárat naplemente előtt nagyszerű kilátást nyújt.",
                 "ro": "Ultima cursă de autobuz înainte de apus oferă vederi minunate.",
-                "en": "The last bus trip before sunset offers great views."
+                "en": "The last bus trip before sunset offers great views.",
+                "es": "El último viaje de autobús antes del atardecer ofrece excelentes vistas."
               }
             },
             {
@@ -2139,7 +2314,8 @@
                 "de": "Achten Sie auf die Abfahrtszeiten des letzten Busses zurück.",
                 "hu": "Figyeljen az utolsó visszainduló busz menetrendjére.",
                 "ro": "Fiți atenți la ora de plecare a ultimului autobuz de întoarcere.",
-                "en": "Pay attention to the departure time of the last bus back."
+                "en": "Pay attention to the departure time of the last bus back.",
+                "es": "Presta atención a la hora de salida del último autobús de regreso."
               }
             }
           ],
@@ -2171,6 +2347,13 @@
               "Take advantage of the clear winter light for photos.",
               "Wear a warm jacket for the waiting time at the bus stops.",
               "The old town can be wonderfully explored on foot from the stops in winter."
+            ],
+            "es": [
+              "Consulta el horario de autobuses de invierno con antelación.",
+              "Algunas conexiones de bus a las playas se reducen en invierno.",
+              "Aprovecha la clara luz invernal para las fotos.",
+              "Lleva una chaqueta abrigada para el tiempo de espera en las paradas.",
+              "El casco antiguo se puede explorar maravillosamente a pie desde las paradas en invierno."
             ]
           }
         }
@@ -2187,19 +2370,22 @@
       "de": "Tarifa ist Surfer-Hauptstadt Europas, Englisch ist die zweite Sprache, dazu Franzoesisch und Deutsch in den Surfschulen. Marokko ist 14 km weg, Sie hoeren oft Arabisch auf der Faehre, ein 'shukran' kann Tueren oeffnen, vor allem in den marokkanischen Restaurants.",
       "hu": "Tarifa Európa szörfös fővárosa, az angol a második nyelv, a szörfiskolákban francia és német is megy. Marokkó 14 km-re van, a kompon arabot is hallasz, egy 'shukran' (köszönöm) ajtókat nyit, főleg a marokkói éttermekben.",
       "ro": "Tarifa e capitala europeana a surferilor, engleza e a doua limba, franceza si germana se vorbesc in scolile de surf. Marocul e la 14 km, pe feribot auzi araba, un 'shukran' (multumesc) deschide usi, mai ales in restaurantele marocane.",
-      "en": "Tarifa is Europe's wind-surfing capital, English is everyone's second language plus French and German in surf schools. Morocco is just 14 km away, you'll hear Arabic on the ferry, a simple 'shukran' (thank you) opens doors especially in Moroccan-run restaurants."
+      "en": "Tarifa is Europe's wind-surfing capital, English is everyone's second language plus French and German in surf schools. Morocco is just 14 km away, you'll hear Arabic on the ferry, a simple 'shukran' (thank you) opens doors especially in Moroccan-run restaurants.",
+      "es": "Tarifa es la capital europea del windsurf; el inglés es lengua común, además de francés y alemán en escuelas de surf. Marruecos está a solo 14 km, escucharás árabe en el ferry; un simple 'shukran' (gracias) abre puertas, especialmente en restaurantes regentados por marroquíes."
     },
     "best_time_to_visit": {
       "de": "Mai bis Juni und September bis Oktober sind ideal: viel Wind fuer Kite und Wind, aber das Meer noch angenehm. Im Juli und August blaest der Levante manchmal so stark, dass Sand fliegt, der Winter ist mild und Surf-Profi-Saison.",
       "hu": "Május-június és szeptember-október ideális: sok szél a kite- és windsurfhöz, de a tenger még kellemes. Júliusban és augusztusban a Levante néha olyan erős, hogy fúj a homok, télen enyhe és a profi szörfösök szezonja.",
       "ro": "Mai-iunie si septembrie-octombrie sunt ideale: mult vant pentru kite si windsurf, dar marea inca placuta. In iulie-august vantul Levante uneori e atat de puternic incat zboara nisipul, iarna e blanda si sezon pentru surferi profi.",
-      "en": "May to June and September to October are ideal: plenty of wind for kite and windsurf yet the sea stays pleasant. July and August can bring such ferocious Levante winds that sand flies, winter is mild and the pro-surfer season."
+      "en": "May to June and September to October are ideal: plenty of wind for kite and windsurf yet the sea stays pleasant. July and August can bring such ferocious Levante winds that sand flies, winter is mild and the pro-surfer season.",
+      "es": "De mayo a junio y de septiembre a octubre son ideales: mucho viento para kitesurf y windsurf y el mar sigue agradable. Julio y agosto pueden traer vientos de Levante tan feroces que la arena vuela; el invierno es suave y es temporada para surfistas profesionales."
     },
     "neighborhood_warnings": {
       "de": "Tarifa ist sicher und entspannt, der alte maurische Stadtkern ist gut beleuchtet. Achten Sie auf starke Stroemungen am Playa de los Lances und Playa Valdevaqueros, beobachten Sie die Flagge, und im Hochsommer parken Sie nicht mit Wertsachen am Strand.",
       "hu": "Tarifa biztonságos és laza, a mór óváros jól megvilágított. A Playa de los Lancesen és a Playa Valdevaquerosban erős áramlatok vannak, figyeld a zászlót, nyár csúcsán pedig ne hagyj értékeket az autóban a strandon.",
       "ro": "Tarifa e sigura si relaxata, centrul vechi maur e bine luminat. Atentie la curentii puternici de la Playa de los Lances si Playa Valdevaqueros, urmareste steagul, iar vara nu lasa lucruri valoroase in masina la plaja.",
-      "en": "Tarifa is safe and laid-back, the Moorish old town is well-lit. Beware strong currents at Playa de los Lances and Playa Valdevaqueros, watch the flag, and in peak summer don't leave valuables in your car at the beach."
+      "en": "Tarifa is safe and laid-back, the Moorish old town is well-lit. Beware strong currents at Playa de los Lances and Playa Valdevaqueros, watch the flag, and in peak summer don't leave valuables in your car at the beach.",
+      "es": "Tarifa es segura y relajada; el casco antiguo moro está bien iluminado. Cuidado con las fuertes corrientes en Playa de los Lances y Playa de Valdevaqueros, mira las banderas, y en pleno verano no dejes objetos de valor en el coche en la playa."
     }
   }
 }

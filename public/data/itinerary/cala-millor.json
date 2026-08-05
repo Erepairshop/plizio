@@ -21,7 +21,8 @@
             "de": "Uferpromenade",
             "hu": "Tengerparti sétány",
             "ro": "Promenadă",
-            "en": "Beachfront Promenade"
+            "en": "Beachfront Promenade",
+            "es": "Paseo marítimo frente a la playa"
           },
           "coords": [
             3.385,
@@ -36,7 +37,8 @@
             "de": "Perfekt für einen Spaziergang am frühen Morgen.",
             "hu": "Tökéletes egy kora reggeli sétához.",
             "ro": "Perfect pentru o plimbare dis-de-dimineață.",
-            "en": "Perfect for an early morning stroll."
+            "en": "Perfect for an early morning stroll.",
+            "es": "Perfecto para un paseo a primera hora de la mañana."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Strand von Cala Millor",
             "hu": "Cala Millor strandja",
             "ro": "Plaja Cala Millor",
-            "en": "Cala Millor Beach"
+            "en": "Cala Millor Beach",
+            "es": "Playa de Cala Millor"
           },
           "coords": [
             3.382,
@@ -59,7 +62,8 @@
             "de": "Einer der besten Sandstrände im Osten.",
             "hu": "A keleti part egyik legjobb homokos strandja.",
             "ro": "Una dintre cele mai bune plaje cu nisip din est.",
-            "en": "One of the best sandy beaches in the east."
+            "en": "One of the best sandy beaches in the east.",
+            "es": "Una de las mejores playas de arena del este."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Mittagessen Promenade",
             "hu": "Ebéd a sétányon",
             "ro": "Prânz pe promenadă",
-            "en": "Lunch on the Promenade"
+            "en": "Lunch on the Promenade",
+            "es": "Almuerzo en el Paseo Marítimo"
           },
           "coords": [
             3.384,
@@ -82,7 +87,8 @@
             "de": "Frische Meeresfrüchte mit Meerblick.",
             "hu": "Friss tenger gyümölcsei tengeri kilátással.",
             "ro": "Fructe de mare proaspete cu vedere la mare.",
-            "en": "Fresh seafood with sea views."
+            "en": "Fresh seafood with sea views.",
+            "es": "Marisco fresco con vistas al mar."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Auditòrium Sa Màniga",
             "hu": "Auditòrium Sa Màniga",
             "ro": "Auditòrium Sa Màniga",
-            "en": "Auditòrium Sa Màniga"
+            "en": "Auditòrium Sa Màniga",
+            "es": "Auditòrium Sa Màniga"
           },
           "coords": [
             3.376,
@@ -105,7 +112,8 @@
             "de": "Kulturzentrum mit wechselnden Ausstellungen.",
             "hu": "Kulturális központ változó kiállításokkal.",
             "ro": "Centru cultural cu expoziții temporare.",
-            "en": "Cultural center with changing exhibitions."
+            "en": "Cultural center with changing exhibitions.",
+            "es": "Centro cultural con exposiciones temporales."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Einkaufsstraße",
             "hu": "Bevásárlóutca",
             "ro": "Stradă comercială",
-            "en": "Shopping Street"
+            "en": "Shopping Street",
+            "es": "Calle Comercial"
           },
           "coords": [
             3.38,
@@ -128,7 +137,8 @@
             "de": "Souvenirs und lokale Mode finden Sie hier.",
             "hu": "Itt szuveníreket és helyi divatcikkeket talál.",
             "ro": "Găsiți suveniruri și modă locală aici.",
-            "en": "Find souvenirs and local fashion here."
+            "en": "Find souvenirs and local fashion here.",
+            "es": "Aquí encontrarás souvenirs y moda local."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Sonnenuntergang Strand",
             "hu": "Naplemente a strandon",
             "ro": "Apus de soare pe plajă",
-            "en": "Sunset Beach"
+            "en": "Sunset Beach",
+            "es": "Playa del Atardecer"
           },
           "coords": [
             3.382,
@@ -151,7 +162,8 @@
             "de": "Genießen Sie die Abendfarben.",
             "hu": "Élvezze az esti színeket.",
             "ro": "Bucurați-vă de culorile serii.",
-            "en": "Enjoy the evening colors."
+            "en": "Enjoy the evening colors.",
+            "es": "Disfruta los colores del anochecer."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag entspannt auf der weitläufigen Uferpromenade von Cala Millor, wo die Meeresbrise Ihre Sinne weckt. Der Vormittag gehört ganz dem feinsandigen Strand und dem türkisblauen Wasser – perfekt für ein ausgiebiges Sonnenbad. Mittags laden die zahlreichen Restaurants an der Promenade zu frischen mallorquinischen Spezialitäten ein.\n\nAm Nachmittag bietet das Auditòrium Sa Màniga einen kulturellen Kontrast, bevor Sie durch die lebhaften Einkaufsstraßen schlendern. Der Tag endet magisch am Strand, wenn die Sonne tiefer sinkt und das Meer in sanften Pastelltönen schimmert.",
         "hu": "Kezdje a napot lazán Cala Millor kiterjedt tengerparti sétányán, ahol a tengeri szellő felébreszti érzékeit. A délelőtt a finomhomokos strandé és a türkizkék vízé – tökéletes egy alapos napozáshoz. Délben a sétány számos étterme hívogat friss mallorcai különlegességekkel.\n\nDélután az Auditòrium Sa Màniga nyújt kulturális kontrasztot, mielőtt végigsétálna a nyüzsgő bevásárlóutcákon. A nap varázslatosan ér véget a strandon, ahogy a nap alacsonyabbra száll, és a tenger lágy pasztellszínekben tündököl.",
         "ro": "Începeți ziua relaxat pe promenada extinsă din Cala Millor, unde briza mării vă trezește simțurile. Dimineața aparține plajei cu nisip fin și apei turcoaz – perfectă pentru o baie de soare prelungită. La prânz, numeroasele restaurante de pe promenadă vă invită să degustați specialități locale.\n\nDupă-amiaza, Auditòrium Sa Màniga oferă un contrast cultural, înainte de a vă plimba pe străzile comerciale pline de viață. Ziua se încheie magic pe plajă, când soarele coboară și marea strălucește în tonuri pastelate.",
-        "en": "Start your day relaxed on Cala Millor's extensive beachfront promenade, where the sea breeze awakens your senses. The morning is all about the fine sandy beach and turquoise water – perfect for extensive sunbathing. At noon, numerous restaurants on the promenade invite you to enjoy fresh Mallorcan specialties.\n\nIn the afternoon, Auditòrium Sa Màniga offers a cultural contrast before you stroll through the lively shopping streets. The day ends magically at the beach as the sun sinks lower and the sea shimmers in soft pastel tones."
+        "en": "Start your day relaxed on Cala Millor's extensive beachfront promenade, where the sea breeze awakens your senses. The morning is all about the fine sandy beach and turquoise water – perfect for extensive sunbathing. At noon, numerous restaurants on the promenade invite you to enjoy fresh Mallorcan specialties.\n\nIn the afternoon, Auditòrium Sa Màniga offers a cultural contrast before you stroll through the lively shopping streets. The day ends magically at the beach as the sun sinks lower and the sea shimmers in soft pastel tones.",
+        "es": "Comienza el día con calma en el amplio paseo marítimo de Cala Millor, donde la brisa marina despierta los sentidos. La mañana está dedicada a la fina playa de arena y al agua turquesa: perfecta para tomar el sol durante horas. Al mediodía, numerosos restaurantes del paseo invitan a degustar especialidades mallorquinas frescas.\n\nPor la tarde, el Auditòrium Sa Màniga ofrece un contraste cultural antes de pasear por las animadas calles comerciales. El día termina de forma mágica en la playa, cuando el sol desciende y el mar se tiñe de suaves tonos pastel."
       },
       "gastro_picks": {
         "de": [
@@ -259,6 +272,10 @@
         "en": [
           "Rent a sunbed early in the day.",
           "Be aware of siesta times when shopping."
+        ],
+        "es": [
+          "Reserva una tumbona temprano en el día.",
+          "Ten en cuenta las horas de siesta al ir de compras."
         ]
       },
       "variants": {
@@ -267,7 +284,8 @@
             "de": "Beginnen Sie Ihren Tag entspannt auf der weitläufigen Uferpromenade von Cala Millor, wo die Meeresbrise Ihre Sinne weckt. Der Vormittag gehört ganz dem feinsandigen Strand und dem türkisblauen Wasser – perfekt für ein ausgiebiges Sonnenbad. Mittags laden die zahlreichen Restaurants an der Promenade zu frischen mallorquinischen Spezialitäten ein.\n\nAm Nachmittag bietet das Auditòrium Sa Màniga einen kulturellen Kontrast, bevor Sie durch die lebhaften Einkaufsstraßen schlendern. Der Tag endet magisch am Strand, wenn die Sonne tiefer sinkt und das Meer in sanften Pastelltönen schimmert.",
             "hu": "Kezdje a napot lazán Cala Millor kiterjedt tengerparti sétányán, ahol a tengeri szellő felébreszti érzékeit. A délelőtt a finomhomokos strandé és a türkizkék vízé – tökéletes egy alapos napozáshoz. Délben a sétány számos étterme hívogat friss mallorcai különlegességekkel.\n\nDélután az Auditòrium Sa Màniga nyújt kulturális kontrasztot, mielőtt végigsétálna a nyüzsgő bevásárlóutcákon. A nap varázslatosan ér véget a strandon, ahogy a nap alacsonyabbra száll, és a tenger lágy pasztellszínekben tündököl.",
             "ro": "Începeți ziua relaxat pe promenada extinsă din Cala Millor, unde briza mării vă trezește simțurile. Dimineața aparține plajei cu nisip fin și apei turcoaz – perfectă pentru o baie de soare prelungită. La prânz, numeroasele restaurante de pe promenadă vă invită să degustați specialități locale.\n\nDupă-amiaza, Auditòrium Sa Màniga oferă un contrast cultural, înainte de a vă plimba pe străzile comerciale pline de viață. Ziua se încheie magic pe plajă, când soarele coboară și marea strălucește în tonuri pastelate.",
-            "en": "Start your day relaxed on Cala Millor's extensive beachfront promenade, where the sea breeze awakens your senses. The morning is all about the fine sandy beach and turquoise water – perfect for extensive sunbathing. At noon, numerous restaurants on the promenade invite you to enjoy fresh Mallorcan specialties.\n\nIn the afternoon, Auditòrium Sa Màniga offers a cultural contrast before you stroll through the lively shopping streets. The day ends magically at the beach as the sun sinks lower and the sea shimmers in soft pastel tones."
+            "en": "Start your day relaxed on Cala Millor's extensive beachfront promenade, where the sea breeze awakens your senses. The morning is all about the fine sandy beach and turquoise water – perfect for extensive sunbathing. At noon, numerous restaurants on the promenade invite you to enjoy fresh Mallorcan specialties.\n\nIn the afternoon, Auditòrium Sa Màniga offers a cultural contrast before you stroll through the lively shopping streets. The day ends magically at the beach as the sun sinks lower and the sea shimmers in soft pastel tones.",
+            "es": "Comienza el día con calma en el amplio paseo marítimo de Cala Millor, donde la brisa marina despierta los sentidos. La mañana está dedicada a la fina playa de arena y al agua turquesa: perfecta para tomar el sol durante horas. Al mediodía, numerosos restaurantes del paseo invitan a degustar especialidades mallorquinas frescas.\n\nPor la tarde, el Auditòrium Sa Màniga ofrece un contraste cultural antes de pasear por las animadas calles comerciales. El día termina de forma mágica en la playa, cuando el sol desciende y el mar se tiñe de suaves tonos pastel."
           },
           "stops": [
             {
@@ -275,13 +293,15 @@
                 "de": "Uferpromenade",
                 "hu": "Tengerparti sétány",
                 "ro": "Promenadă",
-                "en": "Beachfront Promenade"
+                "en": "Beachfront Promenade",
+                "es": "Paseo Marítimo"
               },
               "tip_5lang": {
                 "de": "Perfekt für einen Spaziergang am frühen Morgen.",
                 "hu": "Tökéletes egy kora reggeli sétához.",
                 "ro": "Perfect pentru o plimbare dis-de-dimineață.",
-                "en": "Perfect for an early morning stroll."
+                "en": "Perfect for an early morning stroll.",
+                "es": "Perfecto para un paseo matutino."
               }
             },
             {
@@ -289,13 +309,15 @@
                 "de": "Strand von Cala Millor",
                 "hu": "Cala Millor strandja",
                 "ro": "Plaja Cala Millor",
-                "en": "Cala Millor Beach"
+                "en": "Cala Millor Beach",
+                "es": "Playa de Cala Millor"
               },
               "tip_5lang": {
                 "de": "Einer der besten Sandstrände im Osten.",
                 "hu": "A keleti part egyik legjobb homokos strandja.",
                 "ro": "Una dintre cele mai bune plaje cu nisip din est.",
-                "en": "One of the best sandy beaches in the east."
+                "en": "One of the best sandy beaches in the east.",
+                "es": "Una de las mejores playas de arena del este."
               }
             },
             {
@@ -303,13 +325,15 @@
                 "de": "Mittagessen Promenade",
                 "hu": "Ebéd a sétányon",
                 "ro": "Prânz pe promenadă",
-                "en": "Lunch on the Promenade"
+                "en": "Lunch on the Promenade",
+                "es": "Almuerzo en el Paseo Marítimo"
               },
               "tip_5lang": {
                 "de": "Frische Meeresfrüchte mit Meerblick.",
                 "hu": "Friss tenger gyümölcsei tengeri kilátással.",
                 "ro": "Fructe de mare proaspete cu vedere la mare.",
-                "en": "Fresh seafood with sea views."
+                "en": "Fresh seafood with sea views.",
+                "es": "Marisco fresco con vistas al mar."
               }
             },
             {
@@ -317,13 +341,15 @@
                 "de": "Auditòrium Sa Màniga",
                 "hu": "Auditòrium Sa Màniga",
                 "ro": "Auditòrium Sa Màniga",
-                "en": "Auditòrium Sa Màniga"
+                "en": "Auditòrium Sa Màniga",
+                "es": "Auditòrium Sa Màniga"
               },
               "tip_5lang": {
                 "de": "Kulturzentrum mit wechselnden Ausstellungen.",
                 "hu": "Kulturális központ változó kiállításokkal.",
                 "ro": "Centru cultural cu expoziții temporare.",
-                "en": "Cultural center with changing exhibitions."
+                "en": "Cultural center with changing exhibitions.",
+                "es": "Centro cultural con exposiciones temporales."
               }
             },
             {
@@ -331,13 +357,15 @@
                 "de": "Einkaufsstraße",
                 "hu": "Bevásárlóutca",
                 "ro": "Stradă comercială",
-                "en": "Shopping Street"
+                "en": "Shopping Street",
+                "es": "Calle Comercial"
               },
               "tip_5lang": {
                 "de": "Souvenirs und lokale Mode finden Sie hier.",
                 "hu": "Itt szuveníreket és helyi divatcikkeket talál.",
                 "ro": "Găsiți suveniruri și modă locală aici.",
-                "en": "Find souvenirs and local fashion here."
+                "en": "Find souvenirs and local fashion here.",
+                "es": "Aquí encontrarás souvenirs y moda local."
               }
             },
             {
@@ -345,13 +373,15 @@
                 "de": "Sonnenuntergang Strand",
                 "hu": "Naplemente a strandon",
                 "ro": "Apus de soare pe plajă",
-                "en": "Sunset Beach"
+                "en": "Sunset Beach",
+                "es": "Playa del Atardecer"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Abendfarben.",
                 "hu": "Élvezze az esti színeket.",
                 "ro": "Bucurați-vă de culorile serii.",
-                "en": "Enjoy the evening colors."
+                "en": "Enjoy the evening colors.",
+                "es": "Disfruta los colores del anochecer."
               }
             }
           ],
@@ -453,6 +483,10 @@
             "en": [
               "Rent a sunbed early in the day.",
               "Be aware of siesta times when shopping."
+            ],
+            "es": [
+              "Reserva una tumbona temprano en el día.",
+              "Ten en cuenta las horas de siesta al ir de compras."
             ]
           }
         },
@@ -461,7 +495,8 @@
             "de": "Der Morgen beginnt mit einem grauen Himmel über Cala Millor. Ein Spaziergang entlang der Strandpromenade erfordert heute einen festen Schirm, bietet aber eine dramatische Aussicht auf das aufgewühlte Meer.\n\nMittags suchen wir Schutz in den gemütlichen Restaurants an der Promenade. Während der Regen gegen die Scheiben peitscht, genießen wir die lokale Küche in warmer Atmosphäre.\n\nAm Nachmittag bietet das Auditòrium Sa Màniga den perfekten Rückzugsort für Kulturinteressierte. Danach laden die überdachten Bereiche der Einkaufsstraße zu einem kurzen Bummel ein.\n\nDer Abend klingt ruhig aus. Obwohl der Sonnenuntergang hinter den Wolken verborgen bleibt, hat die menschenleere, regennasse Strandpromenade ihren ganz eigenen, melancholischen Charme.",
             "hu": "A reggel szürke égbolttal indul Cala Millor felett. A tengerparti sétányon egy masszív esernyőre lesz szükség, de a felkorbácsolt tenger látványa kárpótol a nedvességért.\n\nDélben a sétány menti fedett éttermek nyújtanak menedéket. Miközben az eső kopog az üvegen, meleg környezetben élvezhetjük a helyi gasztronómia fogásait.\n\nDélután az Auditòrium Sa Màniga tökéletes kulturális búvóhely a záporok elől. Később a bevásárlóutca árkádjai alatt védve maradhatunk a séta folytatása közben.\n\nAz este csendesen zárul. Bár a naplemente a felhők mögé bújik, az elnéptelenedett, esőtől csillogó tengerparti sétánynak megvan a maga különleges, melankolikus varázsa.",
             "ro": "Dimineața începe cu un cer gri deasupra localității Cala Millor. O plimbare pe promenadă necesită o umbrelă solidă, dar oferă o vedere dramatică asupra mării agitate.\n\nLa prânz, căutăm adăpost în restaurantele primitoare de pe faleză. În timp ce ploaia bate în geamuri, ne bucurăm de preparate locale într-o atmosferă caldă.\n\nDupă-amiaza, Auditòrium Sa Màniga este refugiul cultural perfect împotriva stropilor. Ulterior, zonele acoperite ale străzii comerciale permit o scurtă sesiune de cumpărături.\n\nSeara se încheie liniștit. Deși apusul rămâne ascuns după nori, promenada pustie și lucioasă de ploaie are un farmec aparte, plin de o melancolie plăcută.",
-            "en": "The morning starts with grey skies over Cala Millor. A stroll along the promenade requires a sturdy umbrella today but offers dramatic views of the turbulent sea.\n\nAt noon, we find shelter in the cozy restaurants along the seafront. While the rain beats against the windows, we enjoy local cuisine in a warm atmosphere.\n\nIn the afternoon, the Auditòrium Sa Màniga provides the perfect cultural refuge from the showers. Later, the covered sections of the shopping street allow for a dry stroll.\n\nThe evening ends quietly. Although the sunset remains hidden behind the clouds, the deserted, rain-slicked promenade has its own unique, melancholic charm."
+            "en": "The morning starts with grey skies over Cala Millor. A stroll along the promenade requires a sturdy umbrella today but offers dramatic views of the turbulent sea.\n\nAt noon, we find shelter in the cozy restaurants along the seafront. While the rain beats against the windows, we enjoy local cuisine in a warm atmosphere.\n\nIn the afternoon, the Auditòrium Sa Màniga provides the perfect cultural refuge from the showers. Later, the covered sections of the shopping street allow for a dry stroll.\n\nThe evening ends quietly. Although the sunset remains hidden behind the clouds, the deserted, rain-slicked promenade has its own unique, melancholic charm.",
+            "es": "La mañana comienza con el cielo gris sobre Cala Millor. Pasear por el paseo requiere un paraguas resistente hoy, pero ofrece vistas dramáticas del mar agitado.\n\nAl mediodía, buscamos refugio en los acogedores restaurantes junto al mar. Mientras la lluvia golpea las ventanas, disfrutamos de la cocina local en un ambiente cálido.\n\nPor la tarde, el Auditòrium Sa Màniga proporciona el refugio cultural perfecto contra los chaparrones. Más tarde, los tramos cubiertos de la calle comercial permiten pasear sin mojarse.\n\nLa noche termina en calma. Aunque la puesta de sol queda oculta tras las nubes, el paseo desierto y mojado tiene su propio encanto melancólico único."
           },
           "stops": [
             {
@@ -470,7 +505,8 @@
                 "de": "Achtung, die Fliesen können bei Nässe rutschig sein. Ein Windschutz ist hier ratsam.",
                 "hu": "Vigyázat, a burkolat esőben csúszós lehet. Szélvédő ruházat ajánlott a tenger felől.",
                 "ro": "Atenție, plăcile pot fi alunecoase când sunt ude. Se recomandă haine rezistente la vânt.",
-                "en": "Watch out, the tiles can be slippery when wet. Windproof clothing is recommended here."
+                "en": "Watch out, the tiles can be slippery when wet. Windproof clothing is recommended here.",
+                "es": "Cuidado, los azulejos pueden resbalar cuando están mojados. Se recomienda ropa cortaviento."
               }
             },
             {
@@ -479,7 +515,8 @@
                 "de": "Ideal für Fotos von hohen Wellen, aber halten Sie Sicherheitsabstand zum Wasser.",
                 "hu": "Ideális helyszín a nagy hullámok fotózásához, de tartsunk biztonságos távolságot.",
                 "ro": "Ideal pentru poze cu valuri mari, dar păstrați o distanță de siguranță față de apă.",
-                "en": "Perfect for photos of high waves, but keep a safe distance from the shoreline."
+                "en": "Perfect for photos of high waves, but keep a safe distance from the shoreline.",
+                "es": "Perfecto para fotos de olas altas, pero mantén una distancia segura de la orilla."
               }
             },
             {
@@ -488,7 +525,8 @@
                 "de": "Wählen Sie ein Restaurant mit verglaster Terrasse für ungestörte Meersicht.",
                 "hu": "Válasszunk üvegfallal védett teraszt a zavartalan kilátás és a szárazság érdekében.",
                 "ro": "Alegeți un restaurant cu terasă vitrată pentru o vedere neîntreruptă la mare.",
-                "en": "Choose a restaurant with a glass-enclosed terrace for an undisturbed sea view."
+                "en": "Choose a restaurant with a glass-enclosed terrace for an undisturbed sea view.",
+                "es": "Elige un restaurante con terraza acristalada para una vista al mar sin interrupciones."
               }
             },
             {
@@ -497,7 +535,8 @@
                 "de": "Bester Zeitpunkt, um die aktuellen Ausstellungen im trockenen Innenraum zu genießen.",
                 "hu": "A legjobb időpont a kiállítások megtekintésére a védett, fedett belső térben.",
                 "ro": "Cel mai bun moment pentru a vizita expozițiile în spațiul interior protejat.",
-                "en": "The best time to enjoy the current exhibitions in the dry indoor space."
+                "en": "The best time to enjoy the current exhibitions in the dry indoor space.",
+                "es": "El mejor momento para disfrutar de las exposiciones actuales en el espacio interior seco."
               }
             },
             {
@@ -506,7 +545,8 @@
                 "de": "Nutzen Sie die Arkaden und Vordächer der Geschäfte, um trocken zu bleiben.",
                 "hu": "Használjuk ki az üzletek árkádjait és előtetőit, hogy szárazon maradhassunk.",
                 "ro": "Folosiți arcadele și copertinele magazinelor pentru a rămâne uscați.",
-                "en": "Use the arcades and shop awnings to stay dry while moving between stores."
+                "en": "Use the arcades and shop awnings to stay dry while moving between stores.",
+                "es": "Usa los soportales y toldos de las tiendas para mantenerte seco al moverte entre comercios."
               }
             },
             {
@@ -515,7 +555,8 @@
                 "de": "Auch ohne Sonne wirkt das graue Meer hier besonders kraftvoll und beruhigend.",
                 "hu": "Nap nélkül is különösen erőteljes és megnyugtató itt a szürke tenger látványa.",
                 "ro": "Chiar și fără soare, marea gri pare deosebit de puternică și liniștitoare aici.",
-                "en": "Even without the sun, the grey sea feels particularly powerful and calming here."
+                "en": "Even without the sun, the grey sea feels particularly powerful and calming here.",
+                "es": "Aun sin sol, el mar gris aquí se siente especialmente poderoso y reconfortante."
               }
             }
           ],
@@ -543,6 +584,12 @@
               "The Auditòrium Sa Màniga is an excellent spot to wait out heavy downpours.",
               "Take the opportunity for longer cafe visits in the streets behind the beachfront.",
               "A sturdy non-collapsible umbrella is better for the often gusty coastal winds."
+            ],
+            "es": [
+              "Lleva calzado impermeable, ya que los charcos se forman con rapidez en los azulejos del paseo.",
+              "El Auditòrium Sa Màniga es un excelente lugar para esperar a que pase un fuerte aguacero.",
+              "Aprovecha para alargar las pausas en los cafés de las calles tras el paseo.",
+              "Un paraguas resistente y no plegable es mejor para los vientos costeros frecuentes."
             ]
           }
         },
@@ -551,7 +598,8 @@
             "de": "Die Wintersonne strahlt mild über der leeren Promenade von Cala Millor. Die frische Meeresbrise weckt die Lebensgeister bei einem entspannten Morgenspaziergang am Wasser.\n\nZur Mittagszeit ist es am Strand herrlich ruhig. Wir genießen das Picknick oder ein warmes Mittagessen, während die Sonne angenehm die Terrasse wärmt.\n\nNachmittags schwindet das Licht früh. Die Shoppingmeile wirkt in der Winterdämmerung besonders friedlich, bevor wir uns in die Wärme des Auditòriums zurückziehen.\n\nDer Abend bricht zeitig an. Der Sonnenuntergang am Strand ist im Winter oft farbenprächtiger, auch wenn die Temperaturen nun spürbar sinken und eine warme Jacke erfordern.",
             "hu": "A téli napsütés szelíden világítja meg Cala Millor üres sétányát. A friss tengeri szellő élénkítően hat a reggeli séta során a vízparton.\n\nDélidőben a strand csodálatosan nyugodt. Élvezhetjük az ebédet egy napsütötte teraszon, ahol a fény még ilyenkor is kellemesen melegít.\n\nDélután a fény hamar fogyni kezd. A bevásárlóutca békés arcát mutatja a téli alkonyatban, mielőtt behúzódnánk az Auditòrium melegébe.\n\nAz este korán érkezik. A téli naplementék a strandon gyakran színesebbek, bár a hőmérséklet ilyenkor már jelentősen visszaesik, vastag kabátot igényelve.",
             "ro": "Soarele de iarnă strălucește blând peste promenada pustie din Cala Millor. Briza proaspătă a mării revigorează spiritul în timpul unei plimbări matinale relaxate.\n\nLa ora prânzului, plaja este minunat de liniștită. Ne bucurăm de masa de prânz pe o terasă însorită, unde soarele încălzește plăcut atmosfera.\n\nDupă-amiaza, lumina scade devreme. Zona comercială pare deosebit de pașnică în amurgul de iarnă, înainte de a ne retrage la căldura din Auditòrium.\n\nSeara se lasă rapid. Apusul de soare pe plajă este adesea mai colorat iarna, deși temperaturile scad acum simțitor și necesită o jachetă groasă.",
-            "en": "The winter sun shines mildly over the empty promenade of Cala Millor. The fresh sea breeze invigorates the soul during a relaxed morning walk by the water.\n\nAt lunchtime, the beach is wonderfully quiet. We enjoy lunch on a sunny terrace where the sun still provides pleasant warmth.\n\nIn the afternoon, the light begins to fade early. The shopping street feels particularly peaceful in the winter twilight before we retreat to the warmth of the Auditorium.\n\nThe evening arrives early. Winter sunsets on the beach are often more colorful, even if temperatures drop significantly and require a warm jacket."
+            "en": "The winter sun shines mildly over the empty promenade of Cala Millor. The fresh sea breeze invigorates the soul during a relaxed morning walk by the water.\n\nAt lunchtime, the beach is wonderfully quiet. We enjoy lunch on a sunny terrace where the sun still provides pleasant warmth.\n\nIn the afternoon, the light begins to fade early. The shopping street feels particularly peaceful in the winter twilight before we retreat to the warmth of the Auditorium.\n\nThe evening arrives early. Winter sunsets on the beach are often more colorful, even if temperatures drop significantly and require a warm jacket.",
+            "es": "El sol invernal brilla suavemente sobre el paseo vacío de Cala Millor. La fresca brisa marina vigoriza el alma durante un relajado paseo matutino junto al agua.\n\nA la hora de comer, la playa está maravillosamente tranquila. Disfrutamos de un almuerzo en una terraza soleada donde el sol aún aporta agradable calor.\n\nPor la tarde, la luz comienza a fades temprano. La calle comercial se siente especialmente apacible en el crepúsculo invernal antes de retirarnos al calor del Auditòrium.\n\nLa noche llega pronto. Los atardeceres invernales en la playa suelen ser más coloridos, aunque las temperaturas bajen significativamente y sea necesaria una chaqueta abrigada."
           },
           "stops": [
             {
@@ -560,7 +608,8 @@
                 "de": "Genießen Sie die Ruhe ohne die Sommermassen; perfekt für weite Blicke.",
                 "hu": "Élvezzük a csendet a nyári tömeg nélkül; tökéletes a tiszta kilátáshoz.",
                 "ro": "Bucurați-vă de liniște fără aglomerația de vară; perfect pentru vederi panoramice.",
-                "en": "Enjoy the tranquility without the summer crowds; perfect for long-distance views."
+                "en": "Enjoy the tranquility without the summer crowds; perfect for long-distance views.",
+                "es": "Disfruta de la tranquilidad sin las multitudes veraniegas; perfecto para vistas de larga distancia."
               }
             },
             {
@@ -569,7 +618,8 @@
                 "de": "Ein zügiger Strandspaziergang ist jetzt besonders gesund und belebend.",
                 "hu": "Egy tempós tengerparti séta ilyenkor kifejezetten egészséges és élénkítő.",
                 "ro": "O plimbare vioaie pe plajă este acum deosebit de sănătoasă și revigorantă.",
-                "en": "A brisk beach walk is particularly healthy and invigorating at this time of year."
+                "en": "A brisk beach walk is particularly healthy and invigorating at this time of year.",
+                "es": "Un paseo vivificante por la playa es especialmente saludable y tonificante en esta época del año."
               }
             },
             {
@@ -578,7 +628,8 @@
                 "de": "Suchen Sie einen windgeschützten Platz in der Sonne, um die Wärme zu speichern.",
                 "hu": "Keressünk szélvédett, napsütötte helyet, hogy kihasználjuk a természetes meleget.",
                 "ro": "Căutați un loc ferit de vânt în soare pentru a profita de căldura naturală.",
-                "en": "Find a wind-sheltered spot in the sun to soak up the natural warmth."
+                "en": "Find a wind-sheltered spot in the sun to soak up the natural warmth.",
+                "es": "Busca un lugar resguardado del viento al sol para absorber el calor natural."
               }
             },
             {
@@ -587,7 +638,8 @@
                 "de": "Ein idealer Ort, um sich nach dem kühlen Wind draußen wieder aufzuwärmen.",
                 "hu": "Ideális helyszín a felmelegedésre a kinti hűvös szél után.",
                 "ro": "Un loc ideal pentru a vă reîncălzi după vântul răcoros de afară.",
-                "en": "An ideal place to warm up after the chilly winds outside."
+                "en": "An ideal place to warm up after the chilly winds outside.",
+                "es": "Un lugar ideal para entrar en calor tras los vientos fríos."
               }
             },
             {
@@ -596,7 +648,8 @@
                 "de": "Viele Geschäfte haben reduzierte Öffnungszeiten; planen Sie den Besuch vor 18 Uhr.",
                 "hu": "Sok üzlet korábban zár; tervezzük a látogatást 18 óra elé.",
                 "ro": "Multe magazine au program redus; planificați vizita înainte de ora 18:00.",
-                "en": "Many shops have reduced hours in winter; plan your visit before 6 PM."
+                "en": "Many shops have reduced hours in winter; plan your visit before 6 PM.",
+                "es": "Muchas tiendas reducen su horario en invierno; planifica tu visita antes de las 18:00."
               }
             },
             {
@@ -605,7 +658,8 @@
                 "de": "Der Sonnenuntergang findet bereits gegen 17:30 Uhr statt. Nicht verpassen!",
                 "hu": "A naplemente már 17:30 körül bekövetkezik. Ne maradjunk le róla!",
                 "ro": "Apusul are loc deja în jurul orei 17:30. Nu îl ratați!",
-                "en": "Sunset occurs as early as 5:30 PM. Don't miss the spectacular colors!"
+                "en": "Sunset occurs as early as 5:30 PM. Don't miss the spectacular colors!",
+                "es": "El atardecer ocurre ya a las 17:30. ¡No te pierdas los colores espectaculares!"
               }
             }
           ],
@@ -633,6 +687,12 @@
               "UV radiation is still present in winter; sun protection is advised for long walks.",
               "Take advantage of the early morning hours for the best photographic lighting.",
               "Keep in mind that some beachfront bars and facilities may be closed in winter."
+            ],
+            "es": [
+              "Vístete por capas (principio de la cebolla) para protegerte de la fresca brisa marina.",
+              "La radiación UV sigue presente en invierno; se recomienda protección solar en paseos largos.",
+              "Aprovecha las primeras horas de la mañana para la mejor luz fotográfica.",
+              "Ten en cuenta que algunos bares y servicios de playa pueden estar cerrados en invierno."
             ]
           }
         }
@@ -651,7 +711,8 @@
             "de": "Hafen von Cala Bona",
             "hu": "Cala Bona kikötője",
             "ro": "Portul Cala Bona",
-            "en": "Port of Cala Bona"
+            "en": "Port of Cala Bona",
+            "es": "Puerto de Cala Bona"
           },
           "coords": [
             3.394,
@@ -666,7 +727,8 @@
             "de": "Kleiner, charmanter Hafen mit Fischerbooten.",
             "hu": "Kicsi, bájos kikötő halászhajókkal.",
             "ro": "Un port mic și fermecător cu bărci de pescuit.",
-            "en": "Small, charming harbor with fishing boats."
+            "en": "Small, charming harbor with fishing boats.",
+            "es": "Pequeño y encantador puerto con barcas de pesca."
           }
         },
         {
@@ -674,7 +736,8 @@
             "de": "Costa dels Pins",
             "hu": "Costa dels Pins",
             "ro": "Costa dels Pins",
-            "en": "Costa dels Pins"
+            "en": "Costa dels Pins",
+            "es": "Costa dels Pins"
           },
           "coords": [
             3.401,
@@ -689,7 +752,8 @@
             "de": "Spektakuläre Villen und felsige Buchten.",
             "hu": "Látványos villák és sziklás öblök.",
             "ro": "Vile spectaculoase și golfuri stâncoase.",
-            "en": "Spectacular villas and rocky coves."
+            "en": "Spectacular villas and rocky coves.",
+            "es": "Villas espectaculares y calas rocosas."
           }
         },
         {
@@ -697,7 +761,8 @@
             "de": "Punta de n'Amer",
             "hu": "Punta de n'Amer",
             "ro": "Punta de n'Amer",
-            "en": "Punta de n'Amer"
+            "en": "Punta de n'Amer",
+            "es": "Punta de n'Amer"
           },
           "coords": [
             3.388,
@@ -712,7 +777,8 @@
             "de": "Naturschutzgebiet auf einer Halbinsel.",
             "hu": "Természetvédelmi terület egy félszigeten.",
             "ro": "Rezervație naturală pe o peninsulă.",
-            "en": "Nature reserve on a peninsula."
+            "en": "Nature reserve on a peninsula.",
+            "es": "Reserva natural en una península."
           }
         },
         {
@@ -720,7 +786,8 @@
             "de": "Castell de sa Punta de n'Amer",
             "hu": "Sa Punta de n'Amer kastély",
             "ro": "Castelul sa Punta de n'Amer",
-            "en": "Castell de sa Punta de n'Amer"
+            "en": "Castell de sa Punta de n'Amer",
+            "es": "Castell de sa Punta de n'Amer"
           },
           "coords": [
             3.391,
@@ -735,7 +802,8 @@
             "de": "Ein alter Wachturm aus dem 17. Jahrhundert.",
             "hu": "Egy régi őrtorony a 17. századból.",
             "ro": "Un vechi turn de veghe din secolul al XVII-lea.",
-            "en": "An old watchtower from the 17th century."
+            "en": "An old watchtower from the 17th century.",
+            "es": "Una antigua torre de vigilancia del siglo XVII."
           }
         },
         {
@@ -743,7 +811,8 @@
             "de": "Mittagessen Castell",
             "hu": "Ebéd a kastélynál",
             "ro": "Prânz la castel",
-            "en": "Lunch at the Castle"
+            "en": "Lunch at the Castle",
+            "es": "Almuerzo en el Castillo"
           },
           "coords": [
             3.391,
@@ -758,7 +827,8 @@
             "de": "Idyllisches Restaurant direkt neben dem Turm.",
             "hu": "Idilli étterem közvetlenül a torony mellett.",
             "ro": "Restaurant idilic chiar lângă turn.",
-            "en": "Idyllic restaurant right next to the tower."
+            "en": "Idyllic restaurant right next to the tower.",
+            "es": "Restaurante idílico junto a la torre."
           }
         },
         {
@@ -766,7 +836,8 @@
             "de": "Rückfahrt Promenade",
             "hu": "Visszaút a sétányon",
             "ro": "Întoarcerea pe promenadă",
-            "en": "Return via Promenade"
+            "en": "Return via Promenade",
+            "es": "Regreso por el Paseo"
           },
           "coords": [
             3.382,
@@ -781,7 +852,8 @@
             "de": "Fahrt auf dem Radweg direkt am Meer.",
             "hu": "Kerékpározás a tengerparti úton.",
             "ro": "Mergeți pe pista de biciclete de pe malul mării.",
-            "en": "Ride on the bike path right by the sea."
+            "en": "Ride on the bike path right by the sea.",
+            "es": "Circula por el carril bici junto al mar."
           }
         }
       ],
@@ -789,7 +861,8 @@
         "de": "Erkunden Sie die Küste auf zwei Rädern, beginnend im malerischen Hafen von Cala Bona. Die Route führt Sie weiter nördlich zur exklusiven Costa dels Pins, wo Pinienwälder bis ans Meer reichen. Am Mittag radeln Sie zum Naturschutzgebiet Punta de n'Amer, einer unberührten Oase zwischen den Ferienorten.\n\nBesichtigen Sie den historischen Wachturm 'Es Castell' und genießen Sie dort eine rustikale Mahlzeit mit Panoramablick. Der Rückweg führt über befestigte Wege durch die Natur und schließlich zurück auf die belebte Promenade von Cala Millor, wo Sie den Tag bei einem kühlen Getränk ausklingen lassen können.",
         "hu": "Fedezze fel a partot két keréken, kezdve Cala Bona festői kikötőjével. Az útvonal észak felé, az exkluzív Costa dels Pins-hez vezet, ahol fenyőerdők érnek egészen a tengerig. Délben tekerjen el a Punta de n'Amer természetvédelmi területre, amely egy érintetlen oázis az üdülőhelyek között.\n\nLátogassa meg az 'Es Castell' történelmi őrtornyot, és fogyasszon el ott egy rusztikus ebédet panorámás kilátással. A visszaút kiépített ösvényeken vezet a természeten keresztül, majd végül vissza Cala Millor nyüzsgő sétányára, ahol egy hűsítő ital mellett zárhatja a napot.",
         "ro": "Explorați coasta pe două roți, începând cu portul pitoresc Cala Bona. Traseul vă duce mai la nord, spre exclusivista Costa dels Pins, unde pădurile de pini ajung până la mare. La prânz, pedalați spre rezervația naturală Punta de n'Amer, o oază neatinsă între stațiuni.\n\nVizitați turnul istoric de veghe 'Es Castell' și bucurați-vă de o masă rustică cu vedere panoramică. Drumul de întoarcere trece pe poteci amenajate prin natură și, în final, revine pe promenada animată din Cala Millor, unde puteți încheia ziua cu o băutură rece.",
-        "en": "Explore the coast on two wheels, starting at the picturesque Port of Cala Bona. The route takes you further north to the exclusive Costa dels Pins, where pine forests reach the sea. At noon, cycle to the Punta de n'Amer nature reserve, an untouched oasis between the resorts.\n\nVisit the historical watchtower 'Es Castell' and enjoy a rustic meal with panoramic views. The return path leads through nature on paved tracks and finally back to the lively Cala Millor promenade, where you can end the day with a cool drink."
+        "en": "Explore the coast on two wheels, starting at the picturesque Port of Cala Bona. The route takes you further north to the exclusive Costa dels Pins, where pine forests reach the sea. At noon, cycle to the Punta de n'Amer nature reserve, an untouched oasis between the resorts.\n\nVisit the historical watchtower 'Es Castell' and enjoy a rustic meal with panoramic views. The return path leads through nature on paved tracks and finally back to the lively Cala Millor promenade, where you can end the day with a cool drink.",
+        "es": "Explora la costa en bici empezando en el pintoresco puerto de Cala Bona. La ruta te lleva hacia el norte hasta la exclusiva Costa dels Pins, donde los pinares llegan al mar. Al mediodía, pedalea hasta la reserva natural de Punta de n'Amer, un oasis virgen entre los núcleos turísticos.\n\nVisita la histórica torre de vigilancia 'Es Castell' y disfruta de una comida rústica con vistas panorámicas. El camino de regreso transcurre por pistas pavimentadas entre la naturaleza y, finalmente, de vuelta al animado paseo de Cala Millor, donde puedes terminar el día con una bebida fresca."
       },
       "gastro_picks": {
         "de": [
@@ -889,6 +962,10 @@
         "en": [
           "The paths in Punta de n'Amer are sandy, so ride carefully.",
           "A lock for the bike is definitely required."
+        ],
+        "es": [
+          "Los senderos en Punta de n'Amer son arenosos, así que pedalea con cuidado.",
+          "Un candado para la bici es imprescindible."
         ]
       },
       "variants": {
@@ -897,7 +974,8 @@
             "de": "Erkunden Sie die Küste auf zwei Rädern, beginnend im malerischen Hafen von Cala Bona. Die Route führt Sie weiter nördlich zur exklusiven Costa dels Pins, wo Pinienwälder bis ans Meer reichen. Am Mittag radeln Sie zum Naturschutzgebiet Punta de n'Amer, einer unberührten Oase zwischen den Ferienorten.\n\nBesichtigen Sie den historischen Wachturm 'Es Castell' und genießen Sie dort eine rustikale Mahlzeit mit Panoramablick. Der Rückweg führt über befestigte Wege durch die Natur und schließlich zurück auf die belebte Promenade von Cala Millor, wo Sie den Tag bei einem kühlen Getränk ausklingen lassen können.",
             "hu": "Fedezze fel a partot két keréken, kezdve Cala Bona festői kikötőjével. Az útvonal észak felé, az exkluzív Costa dels Pins-hez vezet, ahol fenyőerdők érnek egészen a tengerig. Délben tekerjen el a Punta de n'Amer természetvédelmi területre, amely egy érintetlen oázis az üdülőhelyek között.\n\nLátogassa meg az 'Es Castell' történelmi őrtornyot, és fogyasszon el ott egy rusztikus ebédet panorámás kilátással. A visszaút kiépített ösvényeken vezet a természeten keresztül, majd végül vissza Cala Millor nyüzsgő sétányára, ahol egy hűsítő ital mellett zárhatja a napot.",
             "ro": "Explorați coasta pe două roți, începând cu portul pitoresc Cala Bona. Traseul vă duce mai la nord, spre exclusivista Costa dels Pins, unde pădurile de pini ajung până la mare. La prânz, pedalați spre rezervația naturală Punta de n'Amer, o oază neatinsă între stațiuni.\n\nVizitați turnul istoric de veghe 'Es Castell' și bucurați-vă de o masă rustică cu vedere panoramică. Drumul de întoarcere trece pe poteci amenajate prin natură și, în final, revine pe promenada animată din Cala Millor, unde puteți încheia ziua cu o băutură rece.",
-            "en": "Explore the coast on two wheels, starting at the picturesque Port of Cala Bona. The route takes you further north to the exclusive Costa dels Pins, where pine forests reach the sea. At noon, cycle to the Punta de n'Amer nature reserve, an untouched oasis between the resorts.\n\nVisit the historical watchtower 'Es Castell' and enjoy a rustic meal with panoramic views. The return path leads through nature on paved tracks and finally back to the lively Cala Millor promenade, where you can end the day with a cool drink."
+            "en": "Explore the coast on two wheels, starting at the picturesque Port of Cala Bona. The route takes you further north to the exclusive Costa dels Pins, where pine forests reach the sea. At noon, cycle to the Punta de n'Amer nature reserve, an untouched oasis between the resorts.\n\nVisit the historical watchtower 'Es Castell' and enjoy a rustic meal with panoramic views. The return path leads through nature on paved tracks and finally back to the lively Cala Millor promenade, where you can end the day with a cool drink.",
+            "es": "Explora la costa en bici empezando en el pintoresco puerto de Cala Bona. La ruta te lleva hacia el norte hasta la exclusiva Costa dels Pins, donde los pinares llegan al mar. Al mediodía, pedalea hasta la reserva natural de Punta de n'Amer, un oasis virgen entre los núcleos turísticos.\n\nVisita la histórica torre de vigilancia 'Es Castell' y disfruta de una comida rústica con vistas panorámicas. El camino de regreso transcurre por pistas pavimentadas entre la naturaleza y, finalmente, de vuelta al animado paseo de Cala Millor, donde puedes terminar el día con una bebida fresca."
           },
           "stops": [
             {
@@ -905,13 +983,15 @@
                 "de": "Hafen von Cala Bona",
                 "hu": "Cala Bona kikötője",
                 "ro": "Portul Cala Bona",
-                "en": "Port of Cala Bona"
+                "en": "Port of Cala Bona",
+                "es": "Puerto de Cala Bona"
               },
               "tip_5lang": {
                 "de": "Kleiner, charmanter Hafen mit Fischerbooten.",
                 "hu": "Kicsi, bájos kikötő halászhajókkal.",
                 "ro": "Un port mic și fermecător cu bărci de pescuit.",
-                "en": "Small, charming harbor with fishing boats."
+                "en": "Small, charming harbor with fishing boats.",
+                "es": "Pequeño y encantador puerto con barcas de pesca."
               }
             },
             {
@@ -919,13 +999,15 @@
                 "de": "Costa dels Pins",
                 "hu": "Costa dels Pins",
                 "ro": "Costa dels Pins",
-                "en": "Costa dels Pins"
+                "en": "Costa dels Pins",
+                "es": "Costa dels Pins"
               },
               "tip_5lang": {
                 "de": "Spektakuläre Villen und felsige Buchten.",
                 "hu": "Látványos villák és sziklás öblök.",
                 "ro": "Vile spectaculoase și golfuri stâncoase.",
-                "en": "Spectacular villas and rocky coves."
+                "en": "Spectacular villas and rocky coves.",
+                "es": "Villas espectaculares y calas rocosas."
               }
             },
             {
@@ -933,13 +1015,15 @@
                 "de": "Punta de n'Amer",
                 "hu": "Punta de n'Amer",
                 "ro": "Punta de n'Amer",
-                "en": "Punta de n'Amer"
+                "en": "Punta de n'Amer",
+                "es": "Punta de n'Amer"
               },
               "tip_5lang": {
                 "de": "Naturschutzgebiet auf einer Halbinsel.",
                 "hu": "Természetvédelmi terület egy félszigeten.",
                 "ro": "Rezervație naturală pe o peninsulă.",
-                "en": "Nature reserve on a peninsula."
+                "en": "Nature reserve on a peninsula.",
+                "es": "Reserva natural en una península."
               }
             },
             {
@@ -947,13 +1031,15 @@
                 "de": "Castell de sa Punta de n'Amer",
                 "hu": "Sa Punta de n'Amer kastély",
                 "ro": "Castelul sa Punta de n'Amer",
-                "en": "Castell de sa Punta de n'Amer"
+                "en": "Castell de sa Punta de n'Amer",
+                "es": "Castell de sa Punta de n'Amer"
               },
               "tip_5lang": {
                 "de": "Ein alter Wachturm aus dem 17. Jahrhundert.",
                 "hu": "Egy régi őrtorony a 17. századból.",
                 "ro": "Un vechi turn de veghe din secolul al XVII-lea.",
-                "en": "An old watchtower from the 17th century."
+                "en": "An old watchtower from the 17th century.",
+                "es": "Una antigua torre de vigilancia del siglo XVII."
               }
             },
             {
@@ -961,13 +1047,15 @@
                 "de": "Mittagessen Castell",
                 "hu": "Ebéd a kastélynál",
                 "ro": "Prânz la castel",
-                "en": "Lunch at the Castle"
+                "en": "Lunch at the Castle",
+                "es": "Almuerzo en el Castillo"
               },
               "tip_5lang": {
                 "de": "Idyllisches Restaurant direkt neben dem Turm.",
                 "hu": "Idilli étterem közvetlenül a torony mellett.",
                 "ro": "Restaurant idilic chiar lângă turn.",
-                "en": "Idyllic restaurant right next to the tower."
+                "en": "Idyllic restaurant right next to the tower.",
+                "es": "Restaurante idílico junto a la torre."
               }
             },
             {
@@ -975,13 +1063,15 @@
                 "de": "Rückfahrt Promenade",
                 "hu": "Visszaút a sétányon",
                 "ro": "Întoarcerea pe promenadă",
-                "en": "Return via Promenade"
+                "en": "Return via Promenade",
+                "es": "Regreso por el Paseo"
               },
               "tip_5lang": {
                 "de": "Fahrt auf dem Radweg direkt am Meer.",
                 "hu": "Kerékpározás a tengerparti úton.",
                 "ro": "Mergeți pe pista de biciclete de pe malul mării.",
-                "en": "Ride on the bike path right by the sea."
+                "en": "Ride on the bike path right by the sea.",
+                "es": "Circula por el carril bici junto al mar."
               }
             }
           ],
@@ -1083,6 +1173,10 @@
             "en": [
               "The paths in Punta de n'Amer are sandy, so ride carefully.",
               "A lock for the bike is definitely required."
+            ],
+            "es": [
+              "Los senderos en Punta de n'Amer son arenosos, así que pedalea con cuidado.",
+              "Un candado para la bici es imprescindible."
             ]
           }
         },
@@ -1091,7 +1185,8 @@
             "de": "Trotz des Regens wagen wir uns auf die Räder. Der Hafen von Cala Bona wirkt im grauen Licht fast mystisch, während wir durch die Pfützen gleiten.\n\nDie Fahrt zur Costa dels Pins ist erfrischend, erfordert aber volle Konzentration auf der nassen Fahrbahn. Der Duft der Pinien ist bei Regen besonders intensiv.\n\nAuf der Punta de n'Amer peitscht uns der Wind entgegen. Das Kastell dient uns als rettender, trockener Hafen für eine ausgiebige Mittagspause.\n\nDie Rückfahrt über die Promenade erfolgt vorsichtig. Das sanfte Rauschen des Regens vermischt sich mit dem der Brandung zu einem beruhigenden Naturkonzert.",
             "hu": "Az eső ellenére nyeregbe pattanunk. Cala Bona kikötője misztikus látványt nyújt a szürke fényben, miközben a tócsák között gurulunk.\n\nAz út Costa dels Pins felé frissítő, de nagy koncentrációt igényel a vizes aszfalton. A fenyők illata esőben sokkal intenzívebb.\n\nA Punta de n'Amer foknál szembe fúj a szél. A várkastély megmentő, száraz menedékként szolgál a kiadós ebédszünethez.\n\nA visszaút a sétányon óvatos tempóban telik. Az eső lágy kopogása és a hullámverés zaja megnyugtató természeti koncertté olvad össze.",
             "ro": "În ciuda ploii, ne aventurăm pe biciclete. Portul Cala Bona pare aproape mistic în lumina gri, în timp ce alunecăm printre bălți.\n\nDrumul spre Costa dels Pins este revigorant, dar necesită concentrare maximă pe carosabilul umed. Parfumul pinilor este deosebit de intens pe ploaie.\n\nLa Punta de n'Amer, vântul ne izbește din față. Castelul ne servește drept refugiu uscat pentru o pauză de prânz prelungită.\n\nÎntoarcerea pe promenadă se face cu prudență. Murmurul blând al ploii se amestecă cu cel al valurilor într-un concert natural liniștitor.",
-            "en": "Despite the rain, we venture out on our bikes. The port of Cala Bona looks almost mystical in the grey light as we glide through the puddles.\n\nThe ride to Costa dels Pins is refreshing but requires full concentration on the wet road. The scent of pine trees is especially intense in the rain.\n\nAt Punta de n'Amer, the wind whips against us. The castle serves as a saving, dry harbor for a long and rewarding lunch break.\n\nThe return journey via the promenade is done carefully. The soft sound of rain blends with the surf into a calming natural concert."
+            "en": "Despite the rain, we venture out on our bikes. The port of Cala Bona looks almost mystical in the grey light as we glide through the puddles.\n\nThe ride to Costa dels Pins is refreshing but requires full concentration on the wet road. The scent of pine trees is especially intense in the rain.\n\nAt Punta de n'Amer, the wind whips against us. The castle serves as a saving, dry harbor for a long and rewarding lunch break.\n\nThe return journey via the promenade is done carefully. The soft sound of rain blends with the surf into a calming natural concert.",
+            "es": "A pesar de la lluvia, salimos en bici. El puerto de Cala Bona parece casi místico bajo la luz gris mientras cruzamos los charcos.\n\nEl trayecto hacia Costa dels Pins es refrescante pero exige máxima atención en el firme mojado. El aroma a pino es especialmente intenso con la lluvia.\n\nEn Punta de n'Amer, el viento nos azota. El castillo sirve de refugio seco para un largo y reconfortante almuerzo.\n\nEl regreso por el paseo se hace con precaución. El suave sonido de la lluvia se mezcla con el oleaje en un concierto natural calmante."
           },
           "stops": [
             {
@@ -1100,7 +1195,8 @@
                 "de": "Achtung auf dem Kopfsteinpflaster am Hafen; es wird bei Nässe extrem rutschig.",
                 "hu": "Vigyázat a kikötői macskakövön; vizesen rendkívül csúszóssá válik.",
                 "ro": "Atenție pe pavajul din port; devine extrem de alunecos când este ud.",
-                "en": "Be careful on the cobblestones at the harbor; they become extremely slippery when wet."
+                "en": "Be careful on the cobblestones at the harbor; they become extremely slippery when wet.",
+                "es": "Ten cuidado en los empedrados del puerto; se vuelven extremadamente resbaladizos con lluvia."
               }
             },
             {
@@ -1109,7 +1205,8 @@
                 "de": "Die Pinien bieten einen natürlichen, wenn auch unvollständigen Regenschutz.",
                 "hu": "A fenyőfák természetes, bár nem tökéletes védelmet nyújtanak az eső ellen.",
                 "ro": "Pinii oferă o protecție naturală, deși incompletă, împotriva ploii.",
-                "en": "The pine trees provide a natural, albeit incomplete, shelter from the rain."
+                "en": "The pine trees provide a natural, albeit incomplete, shelter from the rain.",
+                "es": "Los pinos ofrecen un refugio natural, aunque incompleto, contra la lluvia."
               }
             },
             {
@@ -1118,7 +1215,8 @@
                 "de": "Die unbefestigten Wege können schlammig sein; bleiben Sie auf den Hauptpfaden.",
                 "hu": "A burkolatlan utak sarasak lehetnek; maradjunk a kijelölt főösvényeken.",
                 "ro": "Potecile neasfaltate pot fi noroioase; rămâneți pe traseele principale.",
-                "en": "Unpaved paths can be muddy; stick to the main trails to avoid getting stuck."
+                "en": "Unpaved paths can be muddy; stick to the main trails to avoid getting stuck.",
+                "es": "Los caminos sin pavimentar pueden estar embarrados; mantente en las rutas principales para evitar quedar atascado."
               }
             },
             {
@@ -1127,7 +1225,8 @@
                 "de": "Der perfekte Ort, um die Regenjacken auszuschütteln und sich kurz auszuruhen.",
                 "hu": "Tökéletes hely az esőkabátok lerázására és egy rövid pihenőre.",
                 "ro": "Locul perfect pentru a scutura jachetele de ploaie și a vă odihni puțin.",
-                "en": "The perfect spot to shake off your rain gear and take a short break."
+                "en": "The perfect spot to shake off your rain gear and take a short break.",
+                "es": "El lugar perfecto para quitarte el equipo de lluvia y hacer una breve pausa."
               }
             },
             {
@@ -1136,7 +1235,8 @@
                 "de": "Genießen Sie die rustikale Atmosphäre drinnen, während es draußen stürmt.",
                 "hu": "Élvezzük a rusztikus belső hangulatot, miközben kint tombol az idő.",
                 "ro": "Bucurați-vă de atmosfera rustică din interior în timp ce afară plouă.",
-                "en": "Enjoy the rustic indoor atmosphere while the storm rages outside."
+                "en": "Enjoy the rustic indoor atmosphere while the storm rages outside.",
+                "es": "Disfruta del ambiente rústico interior mientras la tormenta ruge fuera."
               }
             },
             {
@@ -1145,7 +1245,8 @@
                 "de": "Reduzieren Sie das Tempo; Fußgänger mit Schirmen sehen Sie eventuell schlechter.",
                 "hu": "Lassítsunk; az esernyős gyalogosok nehezebben vehetik észre a kerékpárost.",
                 "ro": "Reduceți viteza; pietonii cu umbrele s-ar putea să vă observe mai greu.",
-                "en": "Reduce your speed; pedestrians with umbrellas may have limited visibility."
+                "en": "Reduce your speed; pedestrians with umbrellas may have limited visibility.",
+                "es": "Reduzca la velocidad; los peatones con paraguas pueden tener visibilidad limitada."
               }
             }
           ],
@@ -1173,6 +1274,12 @@
               "Avoid sharp turns on painted road markings or metal manhole covers.",
               "A cycling rain poncho often provides better coverage than a short jacket.",
               "Store valuables in waterproof bags or plastic pouches to keep them dry."
+            ],
+            "es": [
+              "Compruebe los frenos antes; la distancia de frenado aumenta considerablemente en carreteras mojadas.",
+              "Evite giros bruscos sobre marcas viales pintadas o tapas de alcantarilla metálicas.",
+              "Un chubasquero para ciclistas suele ofrecer mejor cobertura que una chaqueta corta.",
+              "Guarde los objetos de valor en bolsas impermeables o fundas de plástico para mantenerlos secos."
             ]
           }
         },
@@ -1181,7 +1288,8 @@
             "de": "Die klare Winterluft macht die Radtour am Morgen zu einem echten Genuss. Der Hafen von Cala Bona liegt friedlich da, fast ohne das übliche Sommertreiben.\n\nDie Strecke zur Costa dels Pins bietet weite Ausblicke über das tiefblaue Mittelmeer. Die Sonne wärmt genug, um die Fahrt ohne schwere Winterkleidung zu genießen.\n\nAuf der Punta de n'Amer ist der Boden fest und griffig. Die Natur wirkt hier im Winter rau und ursprünglich, was den Besuch besonders authentisch macht.\n\nDer Rückweg erfolgt im goldenen Licht des späten Nachmittags. Die Kühle der heraufziehenden Nacht mahnt zur Eile, während wir die letzten Sonnenstrahlen einfangen.",
             "hu": "A tiszta téli levegő igazi élménnyé teszi a reggeli kerékpártúrát. Cala Bona kikötője békésen pihen, mentesen a szokásos nyári nyüzsgéstől.\n\nA Costa dels Pins felé vezető szakasz tágas kilátást nyújt a mélykék Földközi-tengerre. A nap épp eléggé melegít a tekeréshez nehéz téli ruházat nélkül is.\n\nA Punta de n'Amer területén a talaj kemény és jól tapad. A természet itt télen nyersebb és eredetibb, ami különösen hitelessé teszi a látogatást.\n\nA visszaút a késő délutáni aranyfényben telik. A közeledő éjszaka hűvöse sietésre ösztönöz, miközben próbáljuk elkapni az utolsó napsugarakat.",
             "ro": "Aerul curat de iarnă transformă tura de dimineață cu bicicleta într-o adevărată plăcere. Portul Cala Bona este liniștit, aproape fără agitația obișnuită de vară.\n\nTraseul către Costa dels Pins oferă vederi largi peste marea Mediterană de un albastru profund. Soarele încălzește suficient pentru a savura drumul fără haine grele de iarnă.\n\nLa Punta de n'Amer, terenul este ferm și oferă aderență bună. Natura pare aspră și primordială aici iarna, ceea ce face vizita deosebit de autentică.\n\nÎntoarcerea are loc în lumina aurie a după-amiezii târzii. Răcoarea nopții care se apropie ne îndeamnă la grabă, în timp ce surprindem ultimele raze de soare.",
-            "en": "The crisp winter air turns the morning bike ride into a real pleasure. The port of Cala Bona lies peacefully, almost without the usual summer bustle.\n\nThe route to Costa dels Pins offers wide views over the deep blue Mediterranean. The sun provides enough warmth to enjoy the ride without heavy winter gear.\n\nAt Punta de n'Amer, the ground is firm and offers good grip. Nature here in winter feels raw and pristine, making the visit particularly authentic.\n\nThe return journey takes place in the golden light of late afternoon. The chill of the approaching night urges speed as we catch the final rays of sun."
+            "en": "The crisp winter air turns the morning bike ride into a real pleasure. The port of Cala Bona lies peacefully, almost without the usual summer bustle.\n\nThe route to Costa dels Pins offers wide views over the deep blue Mediterranean. The sun provides enough warmth to enjoy the ride without heavy winter gear.\n\nAt Punta de n'Amer, the ground is firm and offers good grip. Nature here in winter feels raw and pristine, making the visit particularly authentic.\n\nThe return journey takes place in the golden light of late afternoon. The chill of the approaching night urges speed as we catch the final rays of sun.",
+            "es": "El aire fresco del invierno convierte el paseo matutino en bici en un verdadero placer. El puerto de Cala Bona yace en calma, casi sin el bullicio veraniego habitual.\n\nLa ruta hacia Costa dels Pins ofrece amplias vistas sobre el profundo azul del Mediterráneo. El sol aporta suficiente calor para disfrutar del trayecto sin ropa invernal pesada.\n\nEn Punta de n'Amer, el terreno está firme y ofrece buen agarre. La naturaleza aquí en invierno se siente cruda y prístina, lo que hace la visita especialmente auténtica.\n\nEl regreso se realiza con la luz dorada de la tarde. El frío de la noche que se acerca acelera el ritmo mientras aprovechamos los últimos rayos de sol."
           },
           "stops": [
             {
@@ -1190,7 +1298,8 @@
                 "de": "Ideal für eine kurze Pause; die Cafés hier sind im Winter herrlich unaufgeregt.",
                 "hu": "Ideális egy rövid pihenőre; a kávézók itt télen kifejezetten nyugodtak.",
                 "ro": "Ideal pentru o scurtă pauză; cafenelele de aici sunt minunat de relaxate iarna.",
-                "en": "Ideal for a short break; the cafes here are wonderfully relaxed in the winter."
+                "en": "Ideal for a short break; the cafes here are wonderfully relaxed in the winter.",
+                "es": "Ideal para una pausa corta; los cafés aquí son maravillosamente relajados en invierno."
               }
             },
             {
@@ -1199,7 +1308,8 @@
                 "de": "Die Aussichtspunkte sind jetzt fast menschenleer; nehmen Sie sich Zeit für Fotos.",
                 "hu": "A kilátópontok most szinte üresek; szánjunk bőven időt a fotózásra.",
                 "ro": "Punctele de observație sunt aproape pustii; acordați-vă timp pentru fotografii.",
-                "en": "The viewpoints are almost deserted now; take your time for perfect photos."
+                "en": "The viewpoints are almost deserted now; take your time for perfect photos.",
+                "es": "Los miradores están casi desiertos ahora; tómese su tiempo para fotos perfectas."
               }
             },
             {
@@ -1208,7 +1318,8 @@
                 "de": "Der Wind kann hier im Winter recht kräftig sein; eine Windjacke ist Pflicht.",
                 "hu": "A szél itt télen elég erős lehet; a szélkabát kötelező viselet.",
                 "ro": "Vântul poate fi destul de puternic aici iarna; o jachetă de vânt este obligatorie.",
-                "en": "The wind can be quite strong here in winter; a windbreaker is a must."
+                "en": "The wind can be quite strong here in winter; a windbreaker is a must.",
+                "es": "El viento puede ser bastante fuerte aquí en invierno; un cortavientos es imprescindible."
               }
             },
             {
@@ -1217,7 +1328,8 @@
                 "de": "Besuchen Sie das kleine Museum im Inneren, es ist im Winter oft angenehm leer.",
                 "hu": "Látogassuk meg a belső kis múzeumot, télen gyakran kellemesen néptelen.",
                 "ro": "Vizitați micul muzeu din interior, este adesea plăcut de gol iarna.",
-                "en": "Visit the small museum inside; it is often pleasantly empty in winter."
+                "en": "Visit the small museum inside; it is often pleasantly empty in winter.",
+                "es": "Visite el pequeño museo interior; suele estar agradablemente vacío en invierno."
               }
             },
             {
@@ -1226,7 +1338,8 @@
                 "de": "Fragen Sie nach einer Decke, falls Sie trotz der Kühle draußen sitzen möchten.",
                 "hu": "Kérjünk takarót, ha a hűvös ellenére kint szeretnénk helyet foglalni.",
                 "ro": "Cereți o pătură dacă doriți să stați afară în ciuda răcorii.",
-                "en": "Ask for a blanket if you wish to sit outside despite the cool temperatures."
+                "en": "Ask for a blanket if you wish to sit outside despite the cool temperatures.",
+                "es": "Pida una manta si desea sentarse fuera a pesar de las temperaturas frescas."
               }
             },
             {
@@ -1235,7 +1348,8 @@
                 "de": "Achten Sie auf die tiefstehende Sonne, die Sie bei der Fahrt blenden kann.",
                 "hu": "Vigyázzunk az alacsonyan járó napra, amely vezetés közben elvakíthat.",
                 "ro": "Atenție la soarele care apune jos pe cer și vă poate orbi în timpul mersului.",
-                "en": "Watch out for the low-hanging sun, which may blind you during the ride."
+                "en": "Watch out for the low-hanging sun, which may blind you during the ride.",
+                "es": "Cuidado con el sol bajo, que puede deslumbrar durante el recorrido."
               }
             }
           ],
@@ -1263,6 +1377,12 @@
               "Check your tire pressure; cold air can slightly decrease it.",
               "Drink enough water even in cold weather; fluid loss is often underestimated.",
               "Be careful with leaves on the paths, as they can be slippery when damp."
+            ],
+            "es": [
+              "Los guantes de dedos completos protegen las manos del viento helador al montar.",
+              "Compruebe la presión de los neumáticos; el aire frío puede reducirla ligeramente.",
+              "Beba suficiente agua incluso con frío; a menudo se subestima la pérdida de líquidos.",
+              "Tenga cuidado con las hojas en los caminos, ya que pueden ser resbaladizas cuando están húmedas."
             ]
           }
         }
@@ -1281,7 +1401,8 @@
             "de": "Safari Zoo",
             "hu": "Safari Zoo",
             "ro": "Safari Zoo",
-            "en": "Safari Zoo"
+            "en": "Safari Zoo",
+            "es": "Safari Zoo"
           },
           "coords": [
             3.355,
@@ -1296,7 +1417,8 @@
             "de": "Fahren Sie mit dem eigenen Auto durch das Gehege.",
             "hu": "Hajtson át saját autójával a vadasparkon.",
             "ro": "Conduceți cu propria mașină prin rezervație.",
-            "en": "Drive through the enclosure with your own car."
+            "en": "Drive through the enclosure with your own car.",
+            "es": "Conduzca por el recinto con su propio coche."
           }
         },
         {
@@ -1304,7 +1426,8 @@
             "de": "Hafen von Cala Bona",
             "hu": "Cala Bona kikötője",
             "ro": "Portul Cala Bona",
-            "en": "Port of Cala Bona"
+            "en": "Port of Cala Bona",
+            "es": "Puerto de Cala Bona"
           },
           "coords": [
             3.394,
@@ -1319,7 +1442,8 @@
             "de": "Parkplätze finden Sie hinter dem Hafenbecken.",
             "hu": "A kikötő mögött talál parkolóhelyeket.",
             "ro": "Găsiți locuri de parcare în spatele portului.",
-            "en": "Find parking spaces behind the harbor basin."
+            "en": "Find parking spaces behind the harbor basin.",
+            "es": "Encuentre plazas de aparcamiento detrás del vaso del puerto."
           }
         },
         {
@@ -1327,7 +1451,8 @@
             "de": "Costa dels Pins Aussicht",
             "hu": "Costa dels Pins kilátás",
             "ro": "Costa dels Pins belvedere",
-            "en": "Costa dels Pins View"
+            "en": "Costa dels Pins View",
+            "es": "Mirador Costa dels Pins"
           },
           "coords": [
             3.405,
@@ -1342,7 +1467,8 @@
             "de": "Fotostopp am Mirador de Costa dels Pins.",
             "hu": "Fotómegálló a Costa dels Pins kilátónál.",
             "ro": "Oprire pentru poze la Mirador de Costa dels Pins.",
-            "en": "Photo stop at the Mirador de Costa dels Pins."
+            "en": "Photo stop at the Mirador de Costa dels Pins.",
+            "es": "Parada para fotos en el Mirador de Costa dels Pins."
           }
         },
         {
@@ -1350,7 +1476,8 @@
             "de": "Mittagessen in Son Servera",
             "hu": "Ebéd Son Serverában",
             "ro": "Prânz în Son Servera",
-            "en": "Lunch in Son Servera"
+            "en": "Lunch in Son Servera",
+            "es": "Almuerzo en Son Servera"
           },
           "coords": [
             3.36,
@@ -1365,7 +1492,8 @@
             "de": "Besuchen Sie die unvollendete Kirche (Església Nova).",
             "hu": "Nézze meg a befejezetlen templomot (Església Nova).",
             "ro": "Vizitați biserica neterminată (Església Nova).",
-            "en": "Visit the unfinished church (Església Nova)."
+            "en": "Visit the unfinished church (Església Nova).",
+            "es": "Visite la iglesia inacabada (Església Nova)."
           }
         },
         {
@@ -1373,7 +1501,8 @@
             "de": "Strand von Cala Millor",
             "hu": "Cala Millor strandja",
             "ro": "Plaja Cala Millor",
-            "en": "Cala Millor Beach"
+            "en": "Cala Millor Beach",
+            "es": "Playa de Cala Millor"
           },
           "coords": [
             3.382,
@@ -1388,7 +1517,8 @@
             "de": "Entspannung zum Abschluss des Tages.",
             "hu": "Pihenés a nap végén.",
             "ro": "Relaxare la finalul zilei.",
-            "en": "Relaxation to end the day."
+            "en": "Relaxation to end the day.",
+            "es": "Relajación para terminar el día."
           }
         }
       ],
@@ -1396,7 +1526,8 @@
         "de": "Starten Sie den Tag mit einem Abenteuer im Safari Zoo, wo Sie exotische Tiere aus nächster Nähe erleben können. Danach führt die Fahrt zum charmanten Hafen von Cala Bona für einen kurzen Spaziergang. Die Route setzt sich fort zur Costa dels Pins, die für ihre exklusiven Aussichtspunkte bekannt ist.\n\nMittags erkunden Sie das nahegelegene Dorf Son Servera mit seiner einzigartigen, oben offenen Kirche 'Església Nova'. Genießen Sie dort ein traditionelles Mittagessen abseits der Touristenpfade. Den Nachmittag verbringen Sie am Hauptstrand von Cala Millor, wo Sie den Komfort eines voll ausgestatteten Ferienorts genießen können.",
         "hu": "Kezdje a napot egy kalanddal a Safari Zoo-ban, ahol egzotikus állatokat láthat testközelből. Ezután az út Cala Bona bájos kikötőjébe vezet egy rövid sétára. Az útvonal a Costa dels Pins felé folytatódik, amely exkluzív kilátópontjairól ismert.\n\nDélben fedezze fel a közeli Son Servera falut az egyedüli, felül nyitott 'Església Nova' templomával. Fogyasszon el ott egy hagyományos ebédet távol a turistaútvonalaktól. A délutánt Cala Millor fő strandján töltse, élvezve egy teljesen felszerelt üdülőhely minden kényelmét.",
         "ro": "Începeți ziua cu o aventură la Safari Zoo, unde puteți vedea animale exotice de aproape. Apoi drumul duce spre portul fermecător Cala Bona pentru o scurtă plimbare. Traseul continuă spre Costa dels Pins, cunoscută pentru punctele sale de belvedere exclusive.\n\nLa prânz, explorați satul din apropiere Son Servera cu biserica sa unică, deschisă la partea superioară, 'Església Nova'. Savurați acolo un prânz tradițional departe de traseele turistice. După-amiaza o veți petrece pe plaja principală din Cala Millor, bucurându-vă de tot confortul unei stațiuni complet echipate.",
-        "en": "Start the day with an adventure at Safari Zoo, where you can see exotic animals up close. Then the drive takes you to the charming Port of Cala Bona for a short walk. The route continues to Costa dels Pins, known for its exclusive viewpoints.\n\nAt noon, explore the nearby village of Son Servera with its unique open-top church 'Església Nova'. Enjoy a traditional lunch there, away from the tourist tracks. Spend the afternoon at Cala Millor's main beach, enjoying all the comforts of a fully equipped resort."
+        "en": "Start the day with an adventure at Safari Zoo, where you can see exotic animals up close. Then the drive takes you to the charming Port of Cala Bona for a short walk. The route continues to Costa dels Pins, known for its exclusive viewpoints.\n\nAt noon, explore the nearby village of Son Servera with its unique open-top church 'Església Nova'. Enjoy a traditional lunch there, away from the tourist tracks. Spend the afternoon at Cala Millor's main beach, enjoying all the comforts of a fully equipped resort.",
+        "es": "Comience el día con una aventura en Safari Zoo, donde podrá ver animales exóticos de cerca. Luego el trayecto le lleva al encantador Puerto de Cala Bona para un breve paseo. La ruta continúa hacia Costa dels Pins, conocida por sus miradores exclusivos.\n\nA mediodía, explore el cercano pueblo de Son Servera con su singular iglesia abierta 'Església Nova'. Disfrute de un almuerzo tradicional allí, lejos de las rutas turísticas. Pase la tarde en la playa principal de Cala Millor, disfrutando de todas las comodidades de un complejo totalmente equipado."
       },
       "gastro_picks": {
         "de": [
@@ -1496,6 +1627,10 @@
         "en": [
           "Keep windows closed in the Safari Zoo.",
           "Parking in Cala Millor can be difficult in summer."
+        ],
+        "es": [
+          "Mantenga las ventanas cerradas en el Safari Zoo.",
+          "Aparcar en Cala Millor puede ser difícil en verano."
         ]
       },
       "variants": {
@@ -1504,7 +1639,8 @@
             "de": "Starten Sie den Tag mit einem Abenteuer im Safari Zoo, wo Sie exotische Tiere aus nächster Nähe erleben können. Danach führt die Fahrt zum charmanten Hafen von Cala Bona für einen kurzen Spaziergang. Die Route setzt sich fort zur Costa dels Pins, die für ihre exklusiven Aussichtspunkte bekannt ist.\n\nMittags erkunden Sie das nahegelegene Dorf Son Servera mit seiner einzigartigen, oben offenen Kirche 'Església Nova'. Genießen Sie dort ein traditionelles Mittagessen abseits der Touristenpfade. Den Nachmittag verbringen Sie am Hauptstrand von Cala Millor, wo Sie den Komfort eines voll ausgestatteten Ferienorts genießen können.",
             "hu": "Kezdje a napot egy kalanddal a Safari Zoo-ban, ahol egzotikus állatokat láthat testközelből. Ezután az út Cala Bona bájos kikötőjébe vezet egy rövid sétára. Az útvonal a Costa dels Pins felé folytatódik, amely exkluzív kilátópontjairól ismert.\n\nDélben fedezze fel a közeli Son Servera falut az egyedüli, felül nyitott 'Església Nova' templomával. Fogyasszon el ott egy hagyományos ebédet távol a turistaútvonalaktól. A délutánt Cala Millor fő strandján töltse, élvezve egy teljesen felszerelt üdülőhely minden kényelmét.",
             "ro": "Începeți ziua cu o aventură la Safari Zoo, unde puteți vedea animale exotice de aproape. Apoi drumul duce spre portul fermecător Cala Bona pentru o scurtă plimbare. Traseul continuă spre Costa dels Pins, cunoscută pentru punctele sale de belvedere exclusive.\n\nLa prânz, explorați satul din apropiere Son Servera cu biserica sa unică, deschisă la partea superioară, 'Església Nova'. Savurați acolo un prânz tradițional departe de traseele turistice. După-amiaza o veți petrece pe plaja principală din Cala Millor, bucurându-vă de tot confortul unei stațiuni complet echipate.",
-            "en": "Start the day with an adventure at Safari Zoo, where you can see exotic animals up close. Then the drive takes you to the charming Port of Cala Bona for a short walk. The route continues to Costa dels Pins, known for its exclusive viewpoints.\n\nAt noon, explore the nearby village of Son Servera with its unique open-top church 'Església Nova'. Enjoy a traditional lunch there, away from the tourist tracks. Spend the afternoon at Cala Millor's main beach, enjoying all the comforts of a fully equipped resort."
+            "en": "Start the day with an adventure at Safari Zoo, where you can see exotic animals up close. Then the drive takes you to the charming Port of Cala Bona for a short walk. The route continues to Costa dels Pins, known for its exclusive viewpoints.\n\nAt noon, explore the nearby village of Son Servera with its unique open-top church 'Església Nova'. Enjoy a traditional lunch there, away from the tourist tracks. Spend the afternoon at Cala Millor's main beach, enjoying all the comforts of a fully equipped resort.",
+            "es": "Comience el día con una aventura en Safari Zoo, donde podrá ver animales exóticos de cerca. Luego el trayecto le lleva al encantador Puerto de Cala Bona para un breve paseo. La ruta continúa hacia Costa dels Pins, conocida por sus miradores exclusivos.\n\nA mediodía, explore el cercano pueblo de Son Servera con su singular iglesia abierta 'Església Nova'. Disfrute de un almuerzo tradicional allí, lejos de las rutas turísticas. Pase la tarde en la playa principal de Cala Millor, disfrutando de todas las comodidades de un complejo totalmente equipado."
           },
           "stops": [
             {
@@ -1512,13 +1648,15 @@
                 "de": "Safari Zoo",
                 "hu": "Safari Zoo",
                 "ro": "Safari Zoo",
-                "en": "Safari Zoo"
+                "en": "Safari Zoo",
+                "es": "Safari Zoo"
               },
               "tip_5lang": {
                 "de": "Fahren Sie mit dem eigenen Auto durch das Gehege.",
                 "hu": "Hajtson át saját autójával a vadasparkon.",
                 "ro": "Conduceți cu propria mașină prin rezervație.",
-                "en": "Drive through the enclosure with your own car."
+                "en": "Drive through the enclosure with your own car.",
+                "es": "Conduzca por el recinto con su propio coche."
               }
             },
             {
@@ -1526,13 +1664,15 @@
                 "de": "Hafen von Cala Bona",
                 "hu": "Cala Bona kikötője",
                 "ro": "Portul Cala Bona",
-                "en": "Port of Cala Bona"
+                "en": "Port of Cala Bona",
+                "es": "Puerto de Cala Bona"
               },
               "tip_5lang": {
                 "de": "Parkplätze finden Sie hinter dem Hafenbecken.",
                 "hu": "A kikötő mögött talál parkolóhelyeket.",
                 "ro": "Găsiți locuri de parcare în spatele portului.",
-                "en": "Find parking spaces behind the harbor basin."
+                "en": "Find parking spaces behind the harbor basin.",
+                "es": "Encuentre plazas de aparcamiento detrás del vaso del puerto."
               }
             },
             {
@@ -1540,13 +1680,15 @@
                 "de": "Costa dels Pins Aussicht",
                 "hu": "Costa dels Pins kilátás",
                 "ro": "Costa dels Pins belvedere",
-                "en": "Costa dels Pins View"
+                "en": "Costa dels Pins View",
+                "es": "Mirador Costa dels Pins"
               },
               "tip_5lang": {
                 "de": "Fotostopp am Mirador de Costa dels Pins.",
                 "hu": "Fotómegálló a Costa dels Pins kilátónál.",
                 "ro": "Oprire pentru poze la Mirador de Costa dels Pins.",
-                "en": "Photo stop at the Mirador de Costa dels Pins."
+                "en": "Photo stop at the Mirador de Costa dels Pins.",
+                "es": "Parada para fotos en el Mirador de Costa dels Pins."
               }
             },
             {
@@ -1554,13 +1696,15 @@
                 "de": "Mittagessen in Son Servera",
                 "hu": "Ebéd Son Serverában",
                 "ro": "Prânz în Son Servera",
-                "en": "Lunch in Son Servera"
+                "en": "Lunch in Son Servera",
+                "es": "Almuerzo en Son Servera"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die unvollendete Kirche (Església Nova).",
                 "hu": "Nézze meg a befejezetlen templomot (Església Nova).",
                 "ro": "Vizitați biserica neterminată (Església Nova).",
-                "en": "Visit the unfinished church (Església Nova)."
+                "en": "Visit the unfinished church (Església Nova).",
+                "es": "Visite la iglesia inacabada (Església Nova)."
               }
             },
             {
@@ -1568,13 +1712,15 @@
                 "de": "Strand von Cala Millor",
                 "hu": "Cala Millor strandja",
                 "ro": "Plaja Cala Millor",
-                "en": "Cala Millor Beach"
+                "en": "Cala Millor Beach",
+                "es": "Playa de Cala Millor"
               },
               "tip_5lang": {
                 "de": "Entspannung zum Abschluss des Tages.",
                 "hu": "Pihenés a nap végén.",
                 "ro": "Relaxare la finalul zilei.",
-                "en": "Relaxation to end the day."
+                "en": "Relaxation to end the day.",
+                "es": "Relajación para terminar el día."
               }
             }
           ],
@@ -1676,6 +1822,10 @@
             "en": [
               "Keep windows closed in the Safari Zoo.",
               "Parking in Cala Millor can be difficult in summer."
+            ],
+            "es": [
+              "Mantenga las ventanas cerradas en el Safari Zoo.",
+              "Aparcar en Cala Millor puede ser difícil en verano."
             ]
           }
         },
@@ -1684,7 +1834,8 @@
             "de": "Regen ist der ideale Begleiter für einen Besuch im Safari Zoo. Vom trockenen Auto aus beobachten wir die Tiere, die das feuchte Wetter oft sichtlich genießen.\n\nDie Weiterfahrt nach Cala Bona erfolgt gemütlich. Der Hafen bietet auch bei Regen schöne Fotomotive, besonders wenn sich die bunten Boote im Wasser spiegeln.\n\nDer Blick von Costa dels Pins ist heute wolkenverhangen und dramatisch. Die kurze Fahrt nach Son Servera führt uns durch eine grün leuchtende, regengetränkte Landschaft.\n\nIn Son Servera genießen wir ein langes Mittagessen. Den Nachmittag verbringen wir entspannt am Strand von Cala Millor, wo wir den Regen aus einem der Cafés beobachten.",
             "hu": "Az eső ideális kísérő a Safari Zoo látogatásához. A száraz autóból figyelhetjük meg az állatokat, amelyek gyakran láthatóan élvezik a nedves időt.\n\nA továbbutazás Cala Bona felé kényelmesen telik. A kikötő esőben is szép fotótémákat kínál, különösen a vízben tükröződő színes csónakokkal.\n\nA kilátás Costa dels Pinsnél ma felhős és drámai. A rövid út Son Serverába zöldellő, eső áztatta tájakon keresztül vezet.\n\nSon Serverában hosszú ebédet tartunk. A délutánt pihentetően töltjük Cala Millor strandján, ahol egy kávézó biztonságából figyeljük az esőt.",
             "ro": "Ploaia este partenerul ideal pentru o vizită la Safari Zoo. Din mașina uscată observăm animalele, care par adesea să se bucure de vremea umedă.\n\nContinuarea drumului spre Cala Bona are loc relaxat. Portul oferă motive fotografice frumoase și pe ploaie, mai ales cu bărcile colorate oglindite în apă.\n\nVederea de la Costa dels Pins este astăzi înnorată și dramatică. Drumul scurt spre Son Servera ne poartă printr-un peisaj verde strălucitor, îmbibat de ploaie.\n\nÎn Son Servera ne bucurăm de un prânz lung. După-amiaza o petrecem relaxați pe plaja din Cala Millor, observând ploaia dintr-o cafenea.",
-            "en": "Rain is the perfect companion for a visit to the Safari Zoo. From the dry car, we watch the animals, who often visibly enjoy the damp weather.\n\nThe drive to Cala Bona continues comfortably. The harbor offers beautiful photo opportunities even in the rain, especially with colorful boats reflected in the water.\n\nThe view from Costa dels Pins is cloudy and dramatic today. The short drive to Son Servera takes us through a lush, rain-soaked landscape.\n\nIn Son Servera, we enjoy a leisurely lunch. We spend the afternoon relaxing at Cala Millor beach, watching the rain from the comfort of a seaside cafe."
+            "en": "Rain is the perfect companion for a visit to the Safari Zoo. From the dry car, we watch the animals, who often visibly enjoy the damp weather.\n\nThe drive to Cala Bona continues comfortably. The harbor offers beautiful photo opportunities even in the rain, especially with colorful boats reflected in the water.\n\nThe view from Costa dels Pins is cloudy and dramatic today. The short drive to Son Servera takes us through a lush, rain-soaked landscape.\n\nIn Son Servera, we enjoy a leisurely lunch. We spend the afternoon relaxing at Cala Millor beach, watching the rain from the comfort of a seaside cafe.",
+            "es": "La lluvia es la compañera perfecta para una visita al Safari Zoo. Desde el coche seco observamos a los animales, que a menudo disfrutan visiblemente del ambiente húmedo.\n\nEl trayecto hacia Cala Bona continúa cómodamente. El puerto ofrece bellas oportunidades fotográficas incluso bajo la lluvia, especialmente con los coloridos barcos reflejados en el agua.\n\nLa vista desde Costa dels Pins está hoy nublada y dramática. El corto desplazamiento a Son Servera nos lleva por un paisaje frondoso empapado por la lluvia.\n\nEn Son Servera disfrutamos de un almuerzo pausado. Pasamos la tarde relajándonos en la playa de Cala Millor, contemplando la lluvia desde la comodidad de un café junto al mar."
           },
           "stops": [
             {
@@ -1693,7 +1844,8 @@
                 "de": "Bleiben Sie im Auto; viele Tiere sind bei Regen aktiver und kommen näher heran.",
                 "hu": "Maradjunk az autóban; sok állat aktívabb esőben és közelebb merészkedik.",
                 "ro": "Rămâneți în mașină; multe animale sunt mai active pe ploaie și se apropie mai mult.",
-                "en": "Stay in the car; many animals are more active in the rain and come closer."
+                "en": "Stay in the car; many animals are more active in the rain and come closer.",
+                "es": "Permanezca en el coche; muchos animales están más activos con lluvia y se acercan."
               }
             },
             {
@@ -1702,7 +1854,8 @@
                 "de": "Parken Sie nah am Hafenbecken, um den Blick auch bei Schauern zu genießen.",
                 "hu": "Parkoljunk közel a kikötőhöz, hogy zápor esetén is élvezhessük a kilátást.",
                 "ro": "Parcați aproape de bazinul portului pentru a vă bucura de vedere și în timpul averselor.",
-                "en": "Park close to the harbor basin to enjoy the view even during heavy showers."
+                "en": "Park close to the harbor basin to enjoy the view even during heavy showers.",
+                "es": "Aparque cerca del vaso del puerto para disfrutar de la vista incluso durante fuertes chaparrones."
               }
             },
             {
@@ -1711,7 +1864,8 @@
                 "de": "Die Wolken hängen oft tief über den Klippen; ein sehr atmosphärischer Anblick.",
                 "hu": "A felhők gyakran alacsonyan szállnak a sziklák felett; igen hangulatos látvány.",
                 "ro": "Norii stau adesea jos peste stânci; o priveliște foarte atmosferică.",
-                "en": "The clouds often hang low over the cliffs, creating a very atmospheric view."
+                "en": "The clouds often hang low over the cliffs, creating a very atmospheric view.",
+                "es": "Las nubes suelen colgar bajas sobre los acantilados, creando una vista muy atmosférica."
               }
             },
             {
@@ -1720,7 +1874,8 @@
                 "de": "Ideal, um lokale Spezialitäten im Trockenen zu probieren.",
                 "hu": "Ideális alkalom a helyi specialitások megkóstolására fedett helyen.",
                 "ro": "Ideal pentru a gusta specialități locale într-un mediu uscat.",
-                "en": "The perfect time to try local specialties in a dry and cozy setting."
+                "en": "The perfect time to try local specialties in a dry and cozy setting.",
+                "es": "El momento perfecto para probar especialidades locales en un ambiente seco y acogedor."
               }
             },
             {
@@ -1729,7 +1884,8 @@
                 "de": "Beobachten Sie das Spiel der Regentropfen auf der Meeresoberfläche.",
                 "hu": "Figyeljük meg az esőcseppek játékát a tenger felszínén.",
                 "ro": "Observați jocul picăturilor de ploaie pe suprafața mării.",
-                "en": "Watch the play of raindrops on the surface of the sea from your car or a cafe."
+                "en": "Watch the play of raindrops on the surface of the sea from your car or a cafe.",
+                "es": "Observe el juego de las gotas de lluvia en la superficie del mar desde su coche o un café."
               }
             }
           ],
@@ -1757,6 +1913,12 @@
               "Avoid deep puddles to prevent aquaplaning.",
               "Use parking garages or covered parking spots whenever they are available.",
               "Keep a microfiber cloth handy to quickly clear fogged-up windows."
+            ],
+            "es": [
+              "Encienda las luces; la visibilidad puede disminuir considerablemente con lluvia intensa.",
+              "Evite los charcos profundos para prevenir el aquaplaning.",
+              "Utilice parkings cubiertos o garajes siempre que estén disponibles.",
+              "Tenga a mano un paño de microfibra para limpiar rápidamente los cristales empañados."
             ]
           }
         },
@@ -1765,7 +1927,8 @@
             "de": "Im Winter ist die Fahrt zum Safari Zoo entspannt, da kaum Andrang herrscht. Die Tiere sind bei den milden Temperaturen oft sehr aktiv und neugierig.\n\nDer Hafen von Cala Bona empfängt uns mit winterlicher Stille. Die klare Luft sorgt für eine unglaubliche Fernsicht bis zum Horizont.\n\nIn Costa dels Pins genießen wir die Einsamkeit an den Aussichtspunkten. Das tiefblaue Wasser bildet einen tollen Kontrast zu den immergrünen Pinien.\n\nDas Mittagessen in Son Servera ist ein lokales Highlight, fernab der Touristenströme. Den Tag lassen wir am Strand von Cala Millor ausklingen, während die Sonne früh versinkt.",
             "hu": "Télen a Safari Zoo látogatása nyugodt, mivel alig van tömeg. Az állatok a szelíd hőmérsékletben gyakran nagyon aktívak és kíváncsiak.\n\nCala Bona kikötője téli csenddel fogad minket. A tiszta levegő hihetetlen távlatokat nyit, egészen a horizontig ellátni.\n\nCosta dels Pinsnél élvezhetjük a magányt a kilátópontokon. A mélykék víz remek kontrasztot alkot az örökzöld fenyőkkel.\n\nAz ebéd Son Serverában igazi helyi élmény, távol a turisták áradatától. A napot Cala Millor strandján zárjuk, miközben a nap korán nyugovóra tér.",
             "ro": "Iarna, drumul spre Safari Zoo este relaxat, deoarece nu este aglomerație. Animalele sunt adesea foarte active și curioase la temperaturile blânde.\n\nPortul Cala Bona ne întâmpină cu o liniște de iarnă. Aerul curat oferă o vizibilitate incredibilă până la orizont.\n\nLa Costa dels Pins ne bucurăm de singurătate la punctele de observare. Apa de un albastru profund formează un contrast minunat cu pinii mereu verzi.\n\nPrânzul în Son Servera este un punct culminant local, departe de fluxurile de turiști. Încheiem ziua pe plaja din Cala Millor, în timp ce soarele apune devreme.",
-            "en": "In winter, the drive to the Safari Zoo is relaxed as there are almost no crowds. The animals are often very active and curious in the mild temperatures.\n\nThe port of Cala Bona welcomes us with wintery silence. The crisp air provides incredible long-distance views all the way to the horizon.\n\nAt Costa dels Pins, we enjoy the solitude at the viewpoints. The deep blue water creates a stunning contrast with the evergreen pine trees.\n\nLunch in Son Servera is a true local highlight, far from the tourist crowds. we end the day at Cala Millor beach as the sun sets early."
+            "en": "In winter, the drive to the Safari Zoo is relaxed as there are almost no crowds. The animals are often very active and curious in the mild temperatures.\n\nThe port of Cala Bona welcomes us with wintery silence. The crisp air provides incredible long-distance views all the way to the horizon.\n\nAt Costa dels Pins, we enjoy the solitude at the viewpoints. The deep blue water creates a stunning contrast with the evergreen pine trees.\n\nLunch in Son Servera is a true local highlight, far from the tourist crowds. we end the day at Cala Millor beach as the sun sets early.",
+            "es": "En invierno, el trayecto al Safari Zoo es relajado ya que casi no hay multitudes. Los animales suelen estar muy activos y curiosos con las temperaturas suaves.\n\nEl puerto de Cala Bona nos recibe con un silencio invernal. El aire fresco ofrece increíbles vistas de larga distancia hasta el horizonte.\n\nEn Costa dels Pins disfrutamos de la soledad en los miradores. El azul profundo del mar crea un contraste impresionante con los pinos perennes.\n\nEl almuerzo en Son Servera es un verdadero punto culminante local, lejos de las multitudes turísticas. Terminamos el día en la playa de Cala Millor al ponerse el sol temprano."
           },
           "stops": [
             {
@@ -1774,7 +1937,8 @@
                 "de": "Besuchen Sie den Zoo am Vormittag, wenn die Tiere am aktivsten sind.",
                 "hu": "Látogassuk meg az állatkertet délelőtt, amikor az állatok a legaktívabbak.",
                 "ro": "Vizitați grădina zoologică dimineața, când animalele sunt cele mai active.",
-                "en": "Visit the zoo in the morning when the animals are most active and engaged."
+                "en": "Visit the zoo in the morning when the animals are most active and engaged.",
+                "es": "Visite el zoológico por la mañana, cuando los animales están más activos y participativos."
               }
             },
             {
@@ -1783,7 +1947,8 @@
                 "de": "Ein Spaziergang am Kai ist jetzt besonders friedlich und entspannend.",
                 "hu": "Egy séta a rakparton most különösen békés és pihentető.",
                 "ro": "O plimbare pe chei este acum deosebit de liniștită și relaxantă.",
-                "en": "A stroll along the quay is particularly peaceful and relaxing at this time of year."
+                "en": "A stroll along the quay is particularly peaceful and relaxing at this time of year.",
+                "es": "Un paseo por el muelle es particularmente tranquilo y relajante en esta época del año."
               }
             },
             {
@@ -1792,7 +1957,8 @@
                 "de": "Perfektes Licht für Landschaftsfotografie durch den niedrigen Sonnenstand.",
                 "hu": "Tökéletes fények a tájfotózáshoz az alacsony napállásnak köszönhetően.",
                 "ro": "Lumină perfectă pentru fotografia de peisaj datorită poziției joase a soarelui.",
-                "en": "Perfect lighting for landscape photography due to the low position of the sun."
+                "en": "Perfect lighting for landscape photography due to the low position of the sun.",
+                "es": "Iluminación perfecta para fotografía de paisaje gracias a la posición baja del sol."
               }
             },
             {
@@ -1801,7 +1967,8 @@
                 "de": "Probieren Sie die typisch mallorquinischen Eintöpfe, die im Winter serviert werden.",
                 "hu": "Kóstoljuk meg a télen felszolgált tipikus mallorcai egytálételeket.",
                 "ro": "Gustați tocănițele tipice malorcane care sunt servite iarna.",
-                "en": "Try the typical Mallorcan stews that are traditionally served in winter."
+                "en": "Try the typical Mallorcan stews that are traditionally served in winter.",
+                "es": "Pruebe los guisos típicos mallorquines que tradicionalmente se sirven en invierno."
               }
             },
             {
@@ -1810,7 +1977,8 @@
                 "de": "Die Parkplatzsuche am Strand ist im Winter völlig unproblematisch.",
                 "hu": "A parkolóhely-keresés a strandnál télen teljesen problémamentes.",
                 "ro": "Găsirea unui loc de parcare lângă plajă este complet lipsită de probleme iarna.",
-                "en": "Finding a parking spot near the beach is completely hassle-free in the winter."
+                "en": "Finding a parking spot near the beach is completely hassle-free in the winter.",
+                "es": "Encontrar aparcamiento cerca de la playa es completamente sencillo en invierno."
               }
             }
           ],
@@ -1838,6 +2006,12 @@
               "Take advantage of the empty roads for relaxed, scenic drives.",
               "Keep in mind that some tourist attractions may close earlier in the winter season.",
               "A small supply of warm drinks in the car makes breaks more enjoyable."
+            ],
+            "es": [
+              "Compruebe el anticongelante del líquido del limpiaparabrisas si refresca por la noche.",
+              "Aproveche las carreteras vacías para trayectos panorámicos y relajados.",
+              "Tenga en cuenta que algunas atracciones turísticas pueden cerrar antes en temporada de invierno.",
+              "Una pequeña provisión de bebidas calientes en el coche hace las pausas más agradables."
             ]
           }
         }
@@ -1856,7 +2030,8 @@
             "de": "Zentraler Busbahnhof",
             "hu": "Központi buszmegálló",
             "ro": "Stația centrală de autobuz",
-            "en": "Central Bus Stop"
+            "en": "Central Bus Stop",
+            "es": "Parada Central de Autobuses"
           },
           "coords": [
             3.379,
@@ -1871,7 +2046,8 @@
             "de": "Hauptknotenpunkt für die Linie 401.",
             "hu": "A 401-es buszvonal fő csomópontja.",
             "ro": "Nod principal pentru linia 401.",
-            "en": "Main hub for bus line 401."
+            "en": "Main hub for bus line 401.",
+            "es": "Nudo principal de la línea de autobús 401."
           }
         },
         {
@@ -1879,7 +2055,8 @@
             "de": "Cala Bona Hafen",
             "hu": "Cala Bona kikötő",
             "ro": "Port Cala Bona",
-            "en": "Cala Bona Harbor"
+            "en": "Cala Bona Harbor",
+            "es": "Puerto de Cala Bona"
           },
           "coords": [
             3.394,
@@ -1894,7 +2071,8 @@
             "de": "Kurze Fahrt entlang der Küste.",
             "hu": "Rövid utazás a part mentén.",
             "ro": "Călătorie scurtă de-a lungul coastei.",
-            "en": "Short ride along the coast."
+            "en": "Short ride along the coast.",
+            "es": "Breve recorrido a lo largo de la costa."
           }
         },
         {
@@ -1902,7 +2080,8 @@
             "de": "Auditòrium Sa Màniga",
             "hu": "Auditòrium Sa Màniga",
             "ro": "Auditòrium Sa Màniga",
-            "en": "Auditòrium Sa Màniga"
+            "en": "Auditòrium Sa Màniga",
+            "es": "Auditòrium Sa Màniga"
           },
           "coords": [
             3.376,
@@ -1917,7 +2096,8 @@
             "de": "Einfach mit dem lokalen Bus erreichbar.",
             "hu": "Helyi busszal könnyen elérhető.",
             "ro": "Ușor accesibil cu autobuzul local.",
-            "en": "Easily accessible by local bus."
+            "en": "Easily accessible by local bus.",
+            "es": "Fácilmente accesible en autobús local."
           }
         },
         {
@@ -1925,7 +2105,8 @@
             "de": "Mittagessen Cala Millor",
             "hu": "Ebéd Cala Millorban",
             "ro": "Prânz în Cala Millor",
-            "en": "Lunch in Cala Millor"
+            "en": "Lunch in Cala Millor",
+            "es": "Almuerzo en Cala Millor"
           },
           "coords": [
             3.383,
@@ -1940,7 +2121,8 @@
             "de": "Viele Restaurants nahe der Haltestellen.",
             "hu": "Számos étterem a megállók közelében.",
             "ro": "Multe restaurante aproape de stații.",
-            "en": "Many restaurants near the stops."
+            "en": "Many restaurants near the stops.",
+            "es": "Muchos restaurantes cerca de las paradas."
           }
         },
         {
@@ -1948,7 +2130,8 @@
             "de": "Strand von Cala Millor",
             "hu": "Cala Millor strandja",
             "ro": "Plaja Cala Millor",
-            "en": "Cala Millor Beach"
+            "en": "Cala Millor Beach",
+            "es": "Playa de Cala Millor"
           },
           "coords": [
             3.382,
@@ -1963,7 +2146,8 @@
             "de": "Letzter Stopp vor der Rückreise.",
             "hu": "Utolsó állomás a hazautazás előtt.",
             "ro": "Ultima oprire înainte de întoarcere.",
-            "en": "Last stop before heading back."
+            "en": "Last stop before heading back.",
+            "es": "Última parada antes de volver."
           }
         }
       ],
@@ -1971,7 +2155,8 @@
         "de": "Das Bussystem in Cala Millor ist ideal für Touristen, um die Küstenlinie ohne Stress zu erkunden. Beginnen Sie im Zentrum und nehmen Sie den Bus zum ruhigeren Hafen von Cala Bona. Die kurzen Intervalle erlauben es Ihnen, flexibel zwischen Kultur im Auditòrium und Entspannung am Strand zu wechseln.\n\nGenießen Sie ein Mittagessen in der Nähe einer der Hauptbushaltestellen, wo die Auswahl an internationaler und lokaler Küche am größten ist. Den Nachmittag verbringen Sie am weitläufigen Strand von Cala Millor, der nur einen kurzen Spaziergang von den wichtigsten Transitknotenpunkten entfernt liegt.",
         "hu": "Cala Millor buszhálózata ideális a turisták számára a partvonal stresszmentes felfedezéséhez. Kezdjen a központban, és busszal menjen át a nyugodtabb Cala Bona kikötőbe. A sűrű járatok lehetővé teszik a rugalmas váltást az Auditòrium kulturális élményei és a strandolás között.\n\nFogyasszon el egy ebédet a fő buszmegállók közelében, ahol a legnagyobb a nemzetközi és helyi konyha kínálata. A délutánt Cala Millor kiterjedt strandján töltse, amely csak egy rövid sétára található a legfontosabb közlekedési csomópontoktól.",
         "ro": "Sistemul de autobuze din Cala Millor este ideal pentru turiști pentru a explora linia de coastă fără stres. Începeți în centru și luați autobuzul spre portul mai liniștit Cala Bona. Intervalele scurte vă permit să schimbați flexibil între cultură la Auditòrium și relaxare pe plajă.\n\nSavurați un prânz aproape de una dintre stațiile principale de autobuz, unde selecția de bucătărie internațională și locală este cea mai mare. După-amiaza o veți petrece pe plaja extinsă din Cala Millor, situată la doar o scurtă plimbare de principalele noduri de tranzit.",
-        "en": "The bus system in Cala Millor is ideal for tourists to explore the coastline without stress. Start in the center and take the bus to the quieter Port of Cala Bona. Frequent intervals allow you to flexibly switch between culture at the Auditòrium and relaxation at the beach.\n\nEnjoy lunch near one of the main bus stops, where the selection of international and local cuisine is widest. Spend the afternoon at Cala Millor's extensive beach, which is just a short walk from the main transit hubs."
+        "en": "The bus system in Cala Millor is ideal for tourists to explore the coastline without stress. Start in the center and take the bus to the quieter Port of Cala Bona. Frequent intervals allow you to flexibly switch between culture at the Auditòrium and relaxation at the beach.\n\nEnjoy lunch near one of the main bus stops, where the selection of international and local cuisine is widest. Spend the afternoon at Cala Millor's extensive beach, which is just a short walk from the main transit hubs.",
+        "es": "El sistema de autobuses en Cala Millor es ideal para que los turistas exploren la costa sin estrés. Comience en el centro y tome el autobús hasta el más tranquilo Puerto de Cala Bona. Los intervalos frecuentes permiten cambiar con flexibilidad entre cultura en el Auditòrium y relax en la playa.\n\nDisfrute del almuerzo cerca de una de las principales paradas de autobús, donde la oferta de cocina internacional y local es más amplia. Pase la tarde en la extensa playa de Cala Millor, que está a pocos pasos de los principales nudos de transporte."
       },
       "gastro_picks": {
         "de": [
@@ -2071,6 +2256,10 @@
         "en": [
           "Use the 'A-lines' for direct connections.",
           "Buses can be crowded during high season."
+        ],
+        "es": [
+          "Utilice las 'líneas A' para conexiones directas.",
+          "Los autobuses pueden ir llenos en temporada alta."
         ]
       },
       "variants": {
@@ -2079,7 +2268,8 @@
             "de": "Das Bussystem in Cala Millor ist ideal für Touristen, um die Küstenlinie ohne Stress zu erkunden. Beginnen Sie im Zentrum und nehmen Sie den Bus zum ruhigeren Hafen von Cala Bona. Die kurzen Intervalle erlauben es Ihnen, flexibel zwischen Kultur im Auditòrium und Entspannung am Strand zu wechseln.\n\nGenießen Sie ein Mittagessen in der Nähe einer der Hauptbushaltestellen, wo die Auswahl an internationaler und lokaler Küche am größten ist. Den Nachmittag verbringen Sie am weitläufigen Strand von Cala Millor, der nur einen kurzen Spaziergang von den wichtigsten Transitknotenpunkten entfernt liegt.",
             "hu": "Cala Millor buszhálózata ideális a turisták számára a partvonal stresszmentes felfedezéséhez. Kezdjen a központban, és busszal menjen át a nyugodtabb Cala Bona kikötőbe. A sűrű járatok lehetővé teszik a rugalmas váltást az Auditòrium kulturális élményei és a strandolás között.\n\nFogyasszon el egy ebédet a fő buszmegállók közelében, ahol a legnagyobb a nemzetközi és helyi konyha kínálata. A délutánt Cala Millor kiterjedt strandján töltse, amely csak egy rövid sétára található a legfontosabb közlekedési csomópontoktól.",
             "ro": "Sistemul de autobuze din Cala Millor este ideal pentru turiști pentru a explora linia de coastă fără stres. Începeți în centru și luați autobuzul spre portul mai liniștit Cala Bona. Intervalele scurte vă permit să schimbați flexibil între cultură la Auditòrium și relaxare pe plajă.\n\nSavurați un prânz aproape de una dintre stațiile principale de autobuz, unde selecția de bucătărie internațională și locală este cea mai mare. După-amiaza o veți petrece pe plaja extinsă din Cala Millor, situată la doar o scurtă plimbare de principalele noduri de tranzit.",
-            "en": "The bus system in Cala Millor is ideal for tourists to explore the coastline without stress. Start in the center and take the bus to the quieter Port of Cala Bona. Frequent intervals allow you to flexibly switch between culture at the Auditòrium and relaxation at the beach.\n\nEnjoy lunch near one of the main bus stops, where the selection of international and local cuisine is widest. Spend the afternoon at Cala Millor's extensive beach, which is just a short walk from the main transit hubs."
+            "en": "The bus system in Cala Millor is ideal for tourists to explore the coastline without stress. Start in the center and take the bus to the quieter Port of Cala Bona. Frequent intervals allow you to flexibly switch between culture at the Auditòrium and relaxation at the beach.\n\nEnjoy lunch near one of the main bus stops, where the selection of international and local cuisine is widest. Spend the afternoon at Cala Millor's extensive beach, which is just a short walk from the main transit hubs.",
+            "es": "El sistema de autobuses en Cala Millor es ideal para que los turistas exploren la costa sin estrés. Comience en el centro y tome el autobús hasta el más tranquilo Puerto de Cala Bona. Los intervalos frecuentes permiten cambiar con flexibilidad entre cultura en el Auditòrium y relax en la playa.\n\nDisfrute del almuerzo cerca de una de las principales paradas de autobús, donde la oferta de cocina internacional y local es más amplia. Pase la tarde en la extensa playa de Cala Millor, que está a pocos pasos de los principales nudos de transporte."
           },
           "stops": [
             {
@@ -2087,13 +2277,15 @@
                 "de": "Zentraler Busbahnhof",
                 "hu": "Központi buszmegálló",
                 "ro": "Stația centrală de autobuz",
-                "en": "Central Bus Stop"
+                "en": "Central Bus Stop",
+                "es": "Parada Central de Autobuses"
               },
               "tip_5lang": {
                 "de": "Hauptknotenpunkt für die Linie 401.",
                 "hu": "A 401-es buszvonal fő csomópontja.",
                 "ro": "Nod principal pentru linia 401.",
-                "en": "Main hub for bus line 401."
+                "en": "Main hub for bus line 401.",
+                "es": "Nudo principal de la línea de autobús 401."
               }
             },
             {
@@ -2101,13 +2293,15 @@
                 "de": "Cala Bona Hafen",
                 "hu": "Cala Bona kikötő",
                 "ro": "Port Cala Bona",
-                "en": "Cala Bona Harbor"
+                "en": "Cala Bona Harbor",
+                "es": "Puerto de Cala Bona"
               },
               "tip_5lang": {
                 "de": "Kurze Fahrt entlang der Küste.",
                 "hu": "Rövid utazás a part mentén.",
                 "ro": "Călătorie scurtă de-a lungul coastei.",
-                "en": "Short ride along the coast."
+                "en": "Short ride along the coast.",
+                "es": "Breve recorrido a lo largo de la costa."
               }
             },
             {
@@ -2115,13 +2309,15 @@
                 "de": "Auditòrium Sa Màniga",
                 "hu": "Auditòrium Sa Màniga",
                 "ro": "Auditòrium Sa Màniga",
-                "en": "Auditòrium Sa Màniga"
+                "en": "Auditòrium Sa Màniga",
+                "es": "Auditòrium Sa Màniga"
               },
               "tip_5lang": {
                 "de": "Einfach mit dem lokalen Bus erreichbar.",
                 "hu": "Helyi busszal könnyen elérhető.",
                 "ro": "Ușor accesibil cu autobuzul local.",
-                "en": "Easily accessible by local bus."
+                "en": "Easily accessible by local bus.",
+                "es": "Fácilmente accesible en autobús local."
               }
             },
             {
@@ -2129,13 +2325,15 @@
                 "de": "Mittagessen Cala Millor",
                 "hu": "Ebéd Cala Millorban",
                 "ro": "Prânz în Cala Millor",
-                "en": "Lunch in Cala Millor"
+                "en": "Lunch in Cala Millor",
+                "es": "Almuerzo en Cala Millor"
               },
               "tip_5lang": {
                 "de": "Viele Restaurants nahe der Haltestellen.",
                 "hu": "Számos étterem a megállók közelében.",
                 "ro": "Multe restaurante aproape de stații.",
-                "en": "Many restaurants near the stops."
+                "en": "Many restaurants near the stops.",
+                "es": "Muchos restaurantes cerca de las paradas."
               }
             },
             {
@@ -2143,13 +2341,15 @@
                 "de": "Strand von Cala Millor",
                 "hu": "Cala Millor strandja",
                 "ro": "Plaja Cala Millor",
-                "en": "Cala Millor Beach"
+                "en": "Cala Millor Beach",
+                "es": "Playa de Cala Millor"
               },
               "tip_5lang": {
                 "de": "Letzter Stopp vor der Rückreise.",
                 "hu": "Utolsó állomás a hazautazás előtt.",
                 "ro": "Ultima oprire înainte de întoarcere.",
-                "en": "Last stop before heading back."
+                "en": "Last stop before heading back.",
+                "es": "Última parada antes de regresar."
               }
             }
           ],
@@ -2251,6 +2451,10 @@
             "en": [
               "Use the 'A-lines' for direct connections.",
               "Buses can be crowded during high season."
+            ],
+            "es": [
+              "Usa las 'líneas A' para conexiones directas.",
+              "Los autobuses pueden llenarse en temporada alta."
             ]
           }
         },
@@ -2259,7 +2463,8 @@
             "de": "Der Bus ist heute der perfekte Ort, um trocken von A nach B zu kommen. Die zentrale Haltestelle bietet genügend Unterstand, während wir auf den ersten Bus warten.\n\nIm Hafen von Cala Bona angekommen, nutzen wir die Nähe der Haltestellen zu den Cafés. Kurze Sprints zwischen den Regenschauern halten uns trocken.\n\nDas Auditòrium Sa Màniga ist ein Segen an regnerischen Nachmittagen. Die Anfahrt mit dem Bus direkt vor die Tür erspart uns lange Wege im Nassen.\n\nNach einem ausgiebigen Mittagessen kehren wir zum Strand von Cala Millor zurück. Wir genießen die Aussicht aus dem warmen Busfenster, bevor wir den Tag gemütlich ausklingen lassen.",
             "hu": "A busz ma a tökéletes hely arra, hogy szárazon jussunk el egyik pontból a másikba. A központi megálló elegendő fedezéket nyújt az első járatra várva.\n\nCala Bona kikötőjébe érve kihasználjuk a megállók közelségét a kávézókhoz. A záporok közötti rövid sprintekkel szárazon maradhatunk.\n\nAz Auditòrium Sa Màniga áldás a felhős délutánokon. A busz szinte az ajtó előtt tesz le, így megkímél minket a vizes utaktól.\n\nEgy bőséges ebéd után visszatérünk Cala Millor strandjára. A meleg busz ablakából élvezzük a kilátást, mielőtt kényelmesen zárnánk a napot.",
             "ro": "Autobuzul este astăzi locul perfect pentru a ajunge de la A la B uscat. Stația centrală oferă suficient adăpost în timp ce așteptăm primul autobuz.\n\nAjunși în portul Cala Bona, profităm de proximitatea stațiilor față de cafenele. Scurte sprinturi între averse ne mențin uscați.\n\nAuditòrium Sa Màniga este o binecuvântare în după-amiezi ploioase. Sosirea cu autobuzul direct la ușă ne scutește de drumuri lungi prin ploaie.\n\nDupă un prânz copios, ne întoarcem la plaja din Cala Millor. Ne bucurăm de vedere de la fereastra caldă a autobuzului înainte de a încheia ziua relaxați.",
-            "en": "The bus is the perfect place today to get from A to B while staying dry. The central stop offers enough shelter while we wait for our first ride.\n\nArriving at the port of Cala Bona, we take advantage of the proximity of the bus stops to the local cafes. Short dashes between showers keep us dry.\n\nThe Auditòrium Sa Màniga is a blessing on rainy afternoons. Taking the bus right to the door saves us from long walks in the wet weather.\n\nAfter a hearty lunch, we return to Cala Millor beach. We enjoy the view through the warm bus window before letting the day fade out comfortably."
+            "en": "The bus is the perfect place today to get from A to B while staying dry. The central stop offers enough shelter while we wait for our first ride.\n\nArriving at the port of Cala Bona, we take advantage of the proximity of the bus stops to the local cafes. Short dashes between showers keep us dry.\n\nThe Auditòrium Sa Màniga is a blessing on rainy afternoons. Taking the bus right to the door saves us from long walks in the wet weather.\n\nAfter a hearty lunch, we return to Cala Millor beach. We enjoy the view through the warm bus window before letting the day fade out comfortably.",
+            "es": "Hoy el autobús es el lugar perfecto para ir de A a B y mantenerse seco. La parada central ofrece suficiente resguardo mientras esperamos nuestro primer viaje.\n\nAl llegar al puerto de Cala Bona, aprovechamos la cercanía de las paradas de autobús a los cafés locales. Cortos trayectos entre chubascos nos mantienen secos.\n\nEl Auditòrium Sa Màniga es una bendición las tardes lluviosas. Tomar el autobús hasta la puerta nos evita largas caminatas bajo la lluvia.\n\nDespués de un contundente almuerzo, volvemos a la playa de Cala Millor. Disfrutamos de la vista a través de la cálida ventana del autobús antes de dejar que el día termine cómodamente."
           },
           "stops": [
             {
@@ -2268,7 +2473,8 @@
                 "de": "Positionieren Sie sich unter dem Dach des Wartehäuschens für maximalen Schutz.",
                 "hu": "Helyezkedjünk a buszmegálló teteje alá a maximális védelem érdekében.",
                 "ro": "Poziționați-vă sub acoperișul stației pentru protecție maximă.",
-                "en": "Position yourself under the shelter's roof for maximum protection from the rain."
+                "en": "Position yourself under the shelter's roof for maximum protection from the rain.",
+                "es": "Colócate bajo el techo del refugio para máxima protección contra la lluvia."
               }
             },
             {
@@ -2277,7 +2483,8 @@
                 "de": "Der Weg vom Bus zum Hafen ist kurz, halten Sie den Schirm trotzdem griffbereit.",
                 "hu": "A busztól a kikötőig vezető út rövid, de tartsuk készenlétben az esernyőt.",
                 "ro": "Drumul de la autobuz la port este scurt, totuși țineți umbrela la îndemână.",
-                "en": "The walk from the bus to the harbor is short, but keep your umbrella ready just in case."
+                "en": "The walk from the bus to the harbor is short, but keep your umbrella ready just in case.",
+                "es": "La caminata desde la parada hasta el puerto es corta, pero mantén el paraguas a mano por si acaso."
               }
             },
             {
@@ -2286,7 +2493,8 @@
                 "de": "Die Bushaltestelle liegt sehr nah am Eingang, ideal bei schlechtem Wetter.",
                 "hu": "A buszmegálló nagyon közel van a bejárathoz, ideális rossz időben.",
                 "ro": "Stația de autobuz este foarte aproape de intrare, ideal pe vreme rea.",
-                "en": "The bus stop is located very close to the entrance, which is ideal in bad weather."
+                "en": "The bus stop is located very close to the entrance, which is ideal in bad weather.",
+                "es": "La parada de autobús está muy cerca de la entrada, ideal con mal tiempo."
               }
             },
             {
@@ -2295,7 +2503,8 @@
                 "de": "Viele Restaurants sind nur wenige Schritte von den Busstationen entfernt.",
                 "hu": "Sok étterem csak néhány lépésre található a buszmegállóktól.",
                 "ro": "Multe restaurante sunt la doar câțiva pași de stațiile de autobuz.",
-                "en": "Many restaurants are located just a few steps away from the bus stops."
+                "en": "Many restaurants are located just a few steps away from the bus stops.",
+                "es": "Muchos restaurantes están a solo unos pasos de las paradas de autobús."
               }
             },
             {
@@ -2304,7 +2513,8 @@
                 "de": "Nutzen Sie den Bus für den Rückweg, um nicht im Regen laufen zu müssen.",
                 "hu": "Használjuk a buszt a visszaúthoz, hogy ne kelljen az esőben gyalogolnunk.",
                 "ro": "Folosiți autobuzul pentru drumul de întoarcere pentru a nu fi nevoiți să mergeți prin ploaie.",
-                "en": "Use the bus for the return journey to avoid walking in the rain."
+                "en": "Use the bus for the return journey to avoid walking in the rain.",
+                "es": "Usa el autobús para el regreso y evita caminar bajo la lluvia."
               }
             }
           ],
@@ -2332,6 +2542,12 @@
               "Buses may be more crowded than usual in the rain; allow some extra buffer time.",
               "Use the transit company's app for real-time information on any potential delays.",
               "An automatic-opening umbrella is more practical when getting on and off the bus."
+            ],
+            "es": [
+              "Ten cambio pequeño o tarjeta lista para el billete y evitar retrasos al subir.",
+              "Los autobuses pueden estar más llenos de lo habitual con lluvia; añade tiempo extra.",
+              "Usa la app de la compañía de transporte para información en tiempo real sobre posibles retrasos.",
+              "Un paraguas con apertura automática es más práctico al subir y bajar del autobús."
             ]
           }
         },
@@ -2340,7 +2556,8 @@
             "de": "Im Winter sind die Busse in Cala Millor angenehm leer. Die Fahrt zur zentralen Haltestelle am Morgen verläuft ruhig und stressfrei.\n\nDer Hafen von Cala Bona ist auch im Winter gut angebunden. Wir genießen die kurze Fahrt durch die schlafenden Ferienorte, während wir den Blick schweifen lassen.\n\nNachmittags bietet das Auditòrium Sa Màniga ein tolles Programm. Der Bus bringt uns bequem dorthin, bevor die frühe Winterdämmerung einsetzt.\n\nDas Mittagessen in Cala Millor ist im Winter ein gemütliches Ereignis. Den Tag beenden wir mit einer letzten Busfahrt entlang der Küste, während die Lichter der Stadt angehen.",
             "hu": "Télen a buszok Cala Millorban kellemesen üresek. A reggeli út a központi megálló felé nyugodt és stresszmentes.\n\nCala Bona kikötője télen is jól megközelíthető. Élvezzük a rövid utat az alvó üdülőhelyeken keresztül, miközben a kilátásban gyönyörködünk.\n\nDélután az Auditòrium Sa Màniga nagyszerű programokat kínál. A busz kényelmesen elvisz minket oda, még mielőtt beállna a korai téli alkonyat.\n\nAz ebéd Cala Millorban télen meghitt esemény. A napot egy utolsó buszos utazással zárjuk a part mentén, miközben kigyúlnak a város fényei.",
             "ro": "Iarna, autobuzele din Cala Millor sunt plăcut de goale. Drumul spre stația centrală dimineața este liniștit și lipsit de stres.\n\nPortul Cala Bona este bine conectat și iarna. Ne bucurăm de drumul scurt prin stațiunile adormite în timp ce privim pe fereastră.\n\nDupă-amiaza, Auditòrium Sa Màniga oferă un program excelent. Autobuzul ne duce confortabil acolo înainte de lăsarea amurgului de iarnă.\n\nPrânzul în Cala Millor este un eveniment primitor iarna. Încheiem ziua cu o ultimă călătorie cu autobuzul de-a lungul coastei, în timp ce se aprind luminile orașului.",
-            "en": "In winter, the buses in Cala Millor are pleasantly empty. The morning ride to the central stop is quiet and completely stress-free.\n\nThe port of Cala Bona remains well-connected in the winter months. We enjoy the short ride through the sleepy holiday resorts while taking in the views.\n\nIn the afternoon, the Auditòrium Sa Màniga offers a great program. The bus takes us there comfortably before the early winter twilight sets in.\n\nLunch in Cala Millor is a cozy event in winter. We end the day with one last bus ride along the coast as the city lights begin to sparkle."
+            "en": "In winter, the buses in Cala Millor are pleasantly empty. The morning ride to the central stop is quiet and completely stress-free.\n\nThe port of Cala Bona remains well-connected in the winter months. We enjoy the short ride through the sleepy holiday resorts while taking in the views.\n\nIn the afternoon, the Auditòrium Sa Màniga offers a great program. The bus takes us there comfortably before the early winter twilight sets in.\n\nLunch in Cala Millor is a cozy event in winter. We end the day with one last bus ride along the coast as the city lights begin to sparkle.",
+            "es": "En invierno, los autobuses en Cala Millor están agradablemente vacíos. El viaje de la mañana hasta la parada central es tranquilo y sin estrés.\n\nEl puerto de Cala Bona mantiene buena conexión en invierno. Disfrutamos del corto trayecto por los alojamientos dormidos mientras contemplamos el paisaje.\n\nPor la tarde, el Auditòrium Sa Màniga ofrece un gran programa. El autobús nos lleva cómodamente antes de que caiga el crepúsculo invernal.\n\nAlmorzar en Cala Millor es acogedor en invierno. Terminamos el día con un último trayecto en autobús por la costa mientras las luces de la ciudad empiezan a brillar."
           },
           "stops": [
             {
@@ -2349,7 +2566,8 @@
                 "de": "Beachten Sie den Winterfahrplan; einige Linien verkehren seltener.",
                 "hu": "Ügyeljünk a téli menetrendre; néhány járat ritkábban közlekedik.",
                 "ro": "Atenție la orarul de iarnă; unele linii circulă mai rar.",
-                "en": "Check the winter schedule carefully, as some lines may run less frequently."
+                "en": "Check the winter schedule carefully, as some lines may run less frequently.",
+                "es": "Consulta el horario de invierno cuidadosamente, ya que algunas líneas circulan con menor frecuencia."
               }
             },
             {
@@ -2358,7 +2576,8 @@
                 "de": "Ein schöner Ort für Fotos, die Haltestelle ist nur wenige Gehminuten entfernt.",
                 "hu": "Szép helyszín fotózáshoz, a megálló mindössze pár perc sétára található.",
                 "ro": "Un loc frumos pentru fotografii, stația este la doar câteva minute de mers pe jos.",
-                "en": "A beautiful spot for photos; the stop is only a few minutes' walk away."
+                "en": "A beautiful spot for photos; the stop is only a few minutes' walk away.",
+                "es": "Un lugar precioso para fotos; la parada está a solo unos minutos a pie."
               }
             },
             {
@@ -2367,7 +2586,8 @@
                 "de": "Ideal, um den Nachmittag im Warmen bei einer Veranstaltung zu verbringen.",
                 "hu": "Ideális a délutánt melegben, egy rendezvényen tölteni.",
                 "ro": "Ideal pentru a petrece după-amiaza la căldură, la un eveniment.",
-                "en": "The perfect place to spend a winter afternoon warm and dry at an event."
+                "en": "The perfect place to spend a winter afternoon warm and dry at an event.",
+                "es": "Lugar perfecto para pasar una tarde invernal abrigado y seco en un evento."
               }
             },
             {
@@ -2376,7 +2596,8 @@
                 "de": "Nutzen Sie die Mittagspause, um sich für die restliche Tour aufzuwärmen.",
                 "hu": "Használjuk ki az ebédszünetet a felmelegedésre a túra további részéhez.",
                 "ro": "Profită de pauza de prânz pentru a te încălzi pentru restul turului.",
-                "en": "Take the opportunity during lunch to warm up for the rest of your tour."
+                "en": "Take the opportunity during lunch to warm up for the rest of your tour.",
+                "es": "Aprovecha el almuerzo para entrar en calor y continuar el recorrido."
               }
             },
             {
@@ -2385,7 +2606,8 @@
                 "de": "Die letzte Fahrt des Tages bietet oft einen tollen Blick auf den Sonnenuntergang.",
                 "hu": "A nap utolsó járata gyakran remek kilátást nyújt a naplementére.",
                 "ro": "Ultima cursă a zilei oferă adesea o vedere minunată asupra apusului.",
-                "en": "The last bus ride of the day often provides a great view of the sunset."
+                "en": "The last bus ride of the day often provides a great view of the sunset.",
+                "es": "El último viaje en autobús del día suele ofrecer una gran vista del atardecer."
               }
             }
           ],
@@ -2413,6 +2635,12 @@
               "Find out in advance about any potential route changes during the winter season.",
               "Use your time on the bus to review the photos you've taken throughout the day.",
               "Wear reflective gear if you are walking to the bus stop after dark."
+            ],
+            "es": [
+              "Los autobuses están bien calefactados en invierno; aun así, es mejor vestirse en capas.",
+              "Infórmate con antelación sobre posibles cambios de ruta durante el invierno.",
+              "Usa el tiempo en el autobús para revisar las fotos que has hecho durante el día.",
+              "Lleva prendas reflectantes si vas a caminar a la parada tras el anochecer."
             ]
           }
         }
@@ -2427,19 +2655,22 @@
       "de": "Cala Millor ist ein deutsch-britischer Touristenort, Deutsch wird in Hotels, Restaurants und sogar Apotheken meist verstanden. Die katalanische Höflichkeitsfloskel 'bon dia' wird trotzdem geschätzt, vor allem im benachbarten Son Servera. Englisch ist überall Standard.",
       "hu": "Cala Millor egy német-brit turistaüdülő, a német a szállodákban, éttermekben sőt gyógyszertárakban is működik. A katalán 'bon dia' köszönés mégis kedves gesztus, főleg a szomszédos Son Serverában. Az angol mindenhol alap.",
       "ro": "Cala Millor este o stațiune turistică germano-britanică, germana este înțeleasă în hoteluri, restaurante și chiar farmacii. Salutul catalan 'bon dia' este totuși apreciat, mai ales în satul vecin Son Servera. Engleza este standard peste tot.",
-      "en": "Cala Millor is a German-British resort where German is understood in hotels, restaurants and even pharmacies. The Catalan greeting 'bon dia' is still appreciated, especially in neighbouring Son Servera. English is standard everywhere."
+      "en": "Cala Millor is a German-British resort where German is understood in hotels, restaurants and even pharmacies. The Catalan greeting 'bon dia' is still appreciated, especially in neighbouring Son Servera. English is standard everywhere.",
+      "es": "Cala Millor es un destino germano-británico donde el alemán se entiende en hoteles, restaurantes e incluso farmacias. El saludo catalán 'bon dia' sigue siendo apreciado, especialmente en la vecina Son Servera. El inglés es habitual en todas partes."
     },
     "best_time_to_visit": {
       "de": "Mai-Juni und September-Anfang Oktober bieten 23-28°C, warmes Meer und weniger Familienandrang. Juli-August ist Hochsaison mit randvollen Stränden und Buffets. Im Winter (12-15°C) ist es ruhig, viele Hotels schließen aber von November bis März.",
       "hu": "Május-június és szeptember-október eleje 23-28°C-ot, meleg tengert és kevesebb családot kínál. Júliusban-augusztusban főszezon van, dugig telt strandokkal és büfékkel. Télen (12-15°C) csendes, de sok hotel novembertől márciusig zárva tart.",
       "ro": "Mai-iunie și septembrie-începutul lui octombrie oferă 23-28°C, mare caldă și mai puține familii. Iulie-august este sezon de vârf cu plaje și bufete pline. Iarna (12-15°C) este liniștită, dar multe hoteluri sunt închise din noiembrie până în martie.",
-      "en": "May-June and September to early October bring 23-28°C, warm sea and fewer family crowds. July-August are peak season with packed beaches and buffets. Winter (12-15°C) is quiet but many hotels close from November to March."
+      "en": "May-June and September to early October bring 23-28°C, warm sea and fewer family crowds. July-August are peak season with packed beaches and buffets. Winter (12-15°C) is quiet but many hotels close from November to March.",
+      "es": "Mayo-junio y septiembre hasta principios de octubre registran 23-28°C, mar cálido y menos familias. Julio-agosto es temporada alta con playas llenas y buffets. Invierno (12-15°C) es tranquilo pero muchos hoteles cierran de noviembre a marzo."
     },
     "neighborhood_warnings": {
       "de": "Cala Millor ist sehr sicher, der Hauptärger sind aggressive Strandverkäufer und kleinere Taschendiebstähle an der Promenade abends. An manchen Bars in der Carrer dels Molins kommt es zu Abzocke mit gepanschten Getränken. Im Wasser sind Quallen bei Ostwind ein gelegentliches Problem.",
       "hu": "Cala Millor nagyon biztonságos, a fő bosszúság az erőszakos strandárusok és apró zsebtolvajlások a sétányon esténként. A Carrer dels Molins néhány bárjában hígított itallal próbálkoznak. A vízben keleti szélnél néha medúzák jelennek meg.",
       "ro": "Cala Millor este foarte sigur, principalele probleme fiind vânzătorii agresivi de pe plajă și mici hoții de buzunar pe promenadă seara. În unele baruri de pe Carrer dels Molins se servesc băuturi diluate la preț mare. În apă, meduzele apar ocazional pe vânt din est.",
-      "en": "Cala Millor is very safe; the main annoyances are pushy beach vendors and minor pickpocketing on the evening promenade. Some bars on Carrer dels Molins serve watered-down drinks at high prices. Jellyfish occasionally appear in the water with east winds."
+      "en": "Cala Millor is very safe; the main annoyances are pushy beach vendors and minor pickpocketing on the evening promenade. Some bars on Carrer dels Molins serve watered-down drinks at high prices. Jellyfish occasionally appear in the water with east winds.",
+      "es": "Cala Millor es muy segura; las molestias principales son vendedores insistentes en la playa y algún pequeño hurto en el paseo nocturno. Algunos bares en Carrer dels Molins sirven copas aguadas a precios altos. Ocasionalmente aparecen medusas con vientos de levante."
     }
   }
 }

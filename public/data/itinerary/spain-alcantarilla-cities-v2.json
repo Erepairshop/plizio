@@ -21,7 +21,8 @@
             "de": "Nuestra Señora de la Asunción",
             "hu": "Nuestra Señora de la Asunción",
             "ro": "Nuestra Señora de la Asunción",
-            "en": "Nuestra Señora de la Asunción"
+            "en": "Nuestra Señora de la Asunción",
+            "es": "Nuestra Señora de la Asunción"
           },
           "coords": [
             -1.220524,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die beeindruckende Fassade dieser Hauptkirche und achten Sie besonders auf die detaillierten Holzschnitzereien im ruhigen Innenraum.",
             "hu": "Csodálja meg ennek a főtemplomnak a lenyűgöző homlokzatát, és figyelje meg a részletes fafaragásokat a csendes, békés belső térben.",
             "ro": "Admirați fațada impresionantă a acestei biserici principale și acordați o atenție deosebită sculpturilor detaliate în lemn din interiorul liniștit.",
-            "en": "Admire the impressive facade of this main church and pay special attention to the detailed wooden carvings found within its peaceful interior."
+            "en": "Admire the impressive facade of this main church and pay special attention to the detailed wooden carvings found within its peaceful interior.",
+            "es": "Admira la imponente fachada de esta iglesia principal y presta especial atención a las detalladas tallas de madera del interior."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Centro Cultural Infanta Elena",
             "hu": "Centro Cultural Infanta Elena",
             "ro": "Centro Cultural Infanta Elena",
-            "en": "Centro Cultural Infanta Elena"
+            "en": "Centro Cultural Infanta Elena",
+            "es": "Centro Cultural Infanta Elena"
           },
           "coords": [
             -1.212132,
@@ -59,7 +62,8 @@
             "de": "Entdecken Sie zeitgenössische Ausstellungen in diesem dynamischen Kulturzentrum, wo Sie am besten gleich morgens das wechselnde Programm studieren.",
             "hu": "Fedezze fel a kortárs kiállításokat ebben a dinamikus kulturális központban, ahol érdemes már reggel áttanulmányozni a változatos programot.",
             "ro": "Descoperiți expozițiile contemporane din acest centru cultural dinamic, unde cel mai bine este să verificați programul variat încă de dimineață.",
-            "en": "Discover contemporary exhibitions in this dynamic cultural center, where it is best to check out the varied program first thing in the morning."
+            "en": "Discover contemporary exhibitions in this dynamic cultural center, where it is best to check out the varied program first thing in the morning.",
+            "es": "Descubre exposiciones contemporáneas en este dinámico centro cultural; es mejor consultar el variado programa a primera hora de la mañana."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Casa de Cayitas",
             "hu": "Casa de Cayitas",
             "ro": "Casa de Cayitas",
-            "en": "Casa de Cayitas"
+            "en": "Casa de Cayitas",
+            "es": "Casa de Cayitas"
           },
           "coords": [
             -1.210716,
@@ -82,7 +87,8 @@
             "de": "Erkunden Sie dieses historische Gebäude, das einst als Inquisitionstribunal diente, und werfen Sie einen Blick auf die erhaltene traditionelle Architektur.",
             "hu": "Fedezze fel ezt a történelmi épületet, amely egykor inkvizíciós bíróságként szolgált, és vessen egy pillantást a megőrzött hagyományos építészetre.",
             "ro": "Explorați această clădire istorică care a servit cândva drept tribunal al Inchiziției și aruncați o privire la arhitectura tradițională bine conservată.",
-            "en": "Explore this historic building that once served as an Inquisition tribunal, and take a close look at the beautifully preserved traditional architecture."
+            "en": "Explore this historic building that once served as an Inquisition tribunal, and take a close look at the beautifully preserved traditional architecture.",
+            "es": "Explora este edificio histórico que albergó un tribunal de la Inquisición y observa atentamente la arquitectura tradicional, magníficamente conservada."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Museo de modernismo de la region de Murcia",
             "hu": "Museo de modernismo de la region de Murcia",
             "ro": "Museo de modernismo de la region de Murcia",
-            "en": "Museo de modernismo de la region de Murcia"
+            "en": "Museo de modernismo de la region de Murcia",
+            "es": "Museo de modernismo de la región de Murcia"
           },
           "coords": [
             -1.208611,
@@ -105,7 +112,8 @@
             "de": "Tauchen Sie in die faszinierende Welt des Modernismus ein und betrachten Sie die einzigartigen regionalen Kunstwerke bei einem gemütlichen Rundgang.",
             "hu": "Merüljön el a modernizmus lenyűgöző világában, és tekintse meg az egyedülálló regionális műalkotásokat egy kényelmes és inspiráló séta során.",
             "ro": "Pătrundeți în lumea fascinantă a modernismului și admirați operele de artă regionale unice în timpul unui tur relaxant prin galeriile muzeului.",
-            "en": "Delve into the fascinating world of modernism and view unique regional artworks during a leisurely stroll through the well-curated museum galleries."
+            "en": "Delve into the fascinating world of modernism and view unique regional artworks during a leisurely stroll through the well-curated museum galleries.",
+            "es": "Sumérgete en el fascinante mundo del modernismo y contempla obras regionales únicas en las bien comisariadas salas del museo."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Convento de los Mínimos",
             "hu": "Convento de los Mínimos",
             "ro": "Convento de los Mínimos",
-            "en": "Convento de los Mínimos"
+            "en": "Convento de los Mínimos",
+            "es": "Convento de los Mínimos"
           },
           "coords": [
             -1.212977,
@@ -128,7 +137,8 @@
             "de": "Besichtigen Sie die majestätischen Überreste dieses alten Klosters, das durch seine schlichte Schönheit und ruhige Atmosphäre zur Kontemplation einlädt.",
             "hu": "Látogassa meg ennek a régi kolostornak a fenséges maradványait, amely egyszerű szépségével és nyugodt légkörével elmélkedésre csábítja a látogatókat.",
             "ro": "Vizitați rămășițele maiestuoase ale acestei vechi mănăstiri, care invită la contemplare prin frumusețea sa simplă și atmosfera de o pace deplină.",
-            "en": "Visit the majestic remains of this old convent, which invites deep contemplation through its simple architectural beauty and perfectly tranquil atmosphere."
+            "en": "Visit the majestic remains of this old convent, which invites deep contemplation through its simple architectural beauty and perfectly tranquil atmosphere.",
+            "es": "Visita los majestuosos restos de este antiguo convento, que invitan a la contemplación por su sencilla belleza arquitectónica y su atmósfera perfectamente tranquila."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Museo Etnológico de la Huerta",
             "hu": "Museo Etnológico de la Huerta",
             "ro": "Museo Etnológico de la Huerta",
-            "en": "Museo Etnológico de la Huerta"
+            "en": "Museo Etnológico de la Huerta",
+            "es": "Museo Etnológico de la Huerta"
           },
           "coords": [
             -1.211382,
@@ -151,7 +162,8 @@
             "de": "Erfahren Sie alles über die traditionellen Bewässerungssysteme und landwirtschaftlichen Werkzeuge der Region, ideal für einen informativen Nachmittag.",
             "hu": "Tudjon meg mindent a régió hagyományos öntözőrendszereiről és mezőgazdasági eszközeiről, amely tökéletes program egy informatív délutáni látogatáshoz.",
             "ro": "Aflați totul despre sistemele tradiționale de irigații și uneltele agricole ale regiunii, o vizită ideală pentru o după-amiază cu adevărat informativă.",
-            "en": "Learn all about the region's traditional irrigation systems and agricultural tools, making it an absolutely ideal stop for a highly informative afternoon."
+            "en": "Learn all about the region's traditional irrigation systems and agricultural tools, making it an absolutely ideal stop for a highly informative afternoon.",
+            "es": "Aprende todo sobre los sistemas tradicionales de riego y las herramientas agrícolas de la región; es una parada ideal para una tarde muy informativa."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Der Tag beginnt an der Kirche.\n\nMittags locken Zentrum und Casa de Cayitas.\n\nNachmittags geht es ins Modernismus- und Ethnologiemuseum.\n\nAbends entspannen Sie in den Gassen.",
         "hu": "A nap a főtemplomnál indul.\n\nDélben a központ és a Casa de Cayitas várja.\n\nDélután a Modernizmus és a Néprajzi Múzeum következik.\n\nEste a kis utcákon sétálva pihenhet.",
         "ro": "Ziua începe la biserica principală.\n\nLa prânz explorați centrul și Casa de Cayitas.\n\nDupă-amiaza vizitați muzeele locale.\n\nSeara vă relaxați pe străzile pitorești.",
-        "en": "The day begins at the main church.\n\nAt midday, explore the center and Casa de Cayitas.\n\nIn the afternoon, visit the local museums.\n\nIn the evening, relax in the scenic streets."
+        "en": "The day begins at the main church.\n\nAt midday, explore the center and Casa de Cayitas.\n\nIn the afternoon, visit the local museums.\n\nIn the evening, relax in the scenic streets.",
+        "es": "El día comienza en la iglesia principal.\n\nAl mediodía, explora el centro y Casa de Cayitas.\n\nPor la tarde, visita los museos locales.\n\nPor la noche, relájate en las calles pintorescas."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Beginnen Sie den nassen Morgen mit Regenschirm an der Kirche und spazieren Sie zum Kulturzentrum. Der Mittag ist ideal, um die Museen im Trockenen zu erkunden. Verbringen Sie den verregneten Nachmittag geschützt im Völkerkundemuseum. Der abendliche Rückweg erfordert wasserdichte Schuhe, da die alten Pflastersteine bei Nässe recht rutschig werden können.",
             "hu": "Kezdje a borongós reggelt esernyővel a templomnál, majd sétáljon át a kulturális központba. A dél kiváló a múzeumok beltéri felfedezésére. A délutánt töltse az eső elől menedéket nyújtó néprajzi múzeumban. Az esti visszaút során vigyázzon lépéseire, mert a macskaköves utcák rendkívül csúszósak lehetnek a vizes falevelektől.",
             "ro": "Începeți dimineața ploioasă cu umbrela la biserică, apoi plimbați-vă spre centrul cultural. Amiaza este perfectă pentru a explora muzeul de modernism la adăpost. Petreceți după-amiaza în siguranța muzeului etnologic. Plimbarea de seară necesită încălțăminte rezistentă la apă, deoarece pavajele vechi devin destul de alunecoase.",
-            "en": "Start your wet morning under an umbrella at the historic church, then take a short walk to the cultural center. Midday is perfect for exploring the indoor museums. Spend the rainy afternoon sheltered inside the ethnological museum. The evening walk back requires sturdy waterproof shoes as the old pavements become quite slippery when wet."
+            "en": "Start your wet morning under an umbrella at the historic church, then take a short walk to the cultural center. Midday is perfect for exploring the indoor museums. Spend the rainy afternoon sheltered inside the ethnological museum. The evening walk back requires sturdy waterproof shoes as the old pavements become quite slippery when wet.",
+            "es": "Comienza la mañana lluviosa bajo un paraguas en la iglesia histórica, luego pasea hasta el centro cultural. El mediodía es perfecto para explorar los museos interiores. Pasa la tarde lluviosa resguardado en el museo etnológico. La caminata de la noche requiere zapatos impermeables resistentes, ya que los adoquines antiguos se vuelven resbaladizos con la lluvia."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Nuestra Señora de la Asunción",
                 "hu": "Nuestra Señora de la Asunción",
                 "ro": "Nuestra Señora de la Asunción",
-                "en": "Nuestra Señora de la Asunción"
+                "en": "Nuestra Señora de la Asunción",
+                "es": "Nuestra Señora de la Asunción"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie den schönen Altar im Inneren, um dem Platzregen zu entkommen; schütteln Sie Ihren Regenschirm in der überdachten Vorhalle kräftig aus.",
                 "hu": "Csodálja meg a gyönyörű oltárképet odabent, menedéket találva a felhőszakadás elől; rázza le vizes esernyőjét az épület fedett tornácán.",
                 "ro": "Admirați frumosul altar din interior pentru a scăpa de ploaie; asigurați-vă că scuturați bine umbrela udă pe veranda acoperită a bisericii.",
-                "en": "Step inside to admire the beautiful altarpiece and escape the sudden downpour; remember to shake off your wet umbrella in the covered church porch."
+                "en": "Step inside to admire the beautiful altarpiece and escape the sudden downpour; remember to shake off your wet umbrella in the covered church porch.",
+                "es": "Entra para admirar el bello retablo y resguardarte de un chaparrón; recuerda sacudir el paraguas mojado en el pórtico cubierto de la iglesia."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Centro Cultural Infanta Elena",
                 "hu": "Centro Cultural Infanta Elena",
                 "ro": "Centro Cultural Infanta Elena",
-                "en": "Centro Cultural Infanta Elena"
+                "en": "Centro Cultural Infanta Elena",
+                "es": "Centro Cultural Infanta Elena"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die aktuellen Kunstausstellungen im Trockenen; die glatten Böden im Eingangsbereich können mit nassen Schuhen extrem rutschig sein.",
                 "hu": "Élvezze az aktuális kiállításokat száraz környezetben; óvatosan lépjen be, mert az előcsarnok sima padlója a vizes cipőktől nagyon csúszik.",
                 "ro": "Bucurați-vă de expozițiile de artă curente la uscat; aveți grijă la podelele netede din holul de la intrare care pot fi foarte alunecoase la umezeală.",
-                "en": "Enjoy the current cultural exhibitions while staying completely dry; be cautious as the smooth lobby floors can be very slippery with wet shoes."
+                "en": "Enjoy the current cultural exhibitions while staying completely dry; be cautious as the smooth lobby floors can be very slippery with wet shoes.",
+                "es": "Disfruta de las exposiciones culturales actuales permaneciendo completamente seco; ten cuidado, el suelo liso del vestíbulo puede estar muy resbaladizo con zapatos mojados."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Casa de Cayitas",
                 "hu": "Casa de Cayitas",
                 "ro": "Casa de Cayitas",
-                "en": "Casa de Cayitas"
+                "en": "Casa de Cayitas",
+                "es": "Casa de Cayitas"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie dieses historische Haus als perfekten Regenunterstand; achten Sie auf die alten Steinstufen, die bei Nässe tückisch glatt werden.",
                 "hu": "Fedezze fel ezt a történelmi házat, amely tökéletes menedék az eső elől; vigyázzon a régi kőlépcsőkkel, amelyek nedvesen veszélyesen csúsznak.",
                 "ro": "Explorați această casă istorică, un adăpost perfect împotriva ploii; atenție la treptele vechi de piatră care devin periculos de alunecoase.",
-                "en": "Explore this historic house serving as a perfect rain shelter; watch your step on the old stone staircases which become treacherously slick when wet."
+                "en": "Explore this historic house serving as a perfect rain shelter; watch your step on the old stone staircases which become treacherously slick when wet.",
+                "es": "Explora esta casa histórica que sirve como perfecto refugio contra la lluvia; observa los escalones de piedra antiguos, que se vuelven peligrosamente resbaladizos cuando están mojados."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Museo de modernismo de la region de Murcia",
                 "hu": "Museo de modernismo de la region de Murcia",
                 "ro": "Museo de modernismo de la region de Murcia",
-                "en": "Museo de modernismo de la region de Murcia"
+                "en": "Museo de modernismo de la region de Murcia",
+                "es": "Museo de modernismo de la región de Murcia"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die modernistischen Details im warmen und trockenen Museum; nutzen Sie die Garderobe, um Ihre nassen Regenmäntel aufzuhängen.",
                 "hu": "Csodálja meg a modernista részleteket a száraz múzeumban; használja a ruhatárat, hogy kényelmesen felakaszthassa csuromvizes esőkabátját.",
                 "ro": "Admirați detaliile moderniste în interiorul cald și uscat; folosiți garderoba disponibilă pentru a vă agăța hainele de ploaie umede.",
-                "en": "Admire the intricate modernist details inside the dry museum; make good use of the cloakroom to hang up your dripping wet raincoats and gear."
+                "en": "Admire the intricate modernist details inside the dry museum; make good use of the cloakroom to hang up your dripping wet raincoats and gear.",
+                "es": "Admira los intrincados detalles modernistas dentro del museo seco; utiliza la consigna para colgar tus impermeables y equipo empapados."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Convento de los Mínimos",
                 "hu": "Convento de los Mínimos",
                 "ro": "Convento de los Mínimos",
-                "en": "Convento de los Mínimos"
+                "en": "Convento de los Mínimos",
+                "es": "Convento de los Mínimos"
               },
               "tip_5lang": {
                 "de": "Lauschen Sie dem beruhigenden Geräusch des Regens im friedlichen Kreuzgang; bleiben Sie unter den überdachten Gängen, um trocken zu bleiben.",
                 "hu": "Hallgassa az eső megnyugtató kopogását a békés kolostorudvaron; maradjon a fedett folyosók alatt, hogy teljesen szárazon élvezze a látványt.",
                 "ro": "Ascultați sunetul liniștitor al ploii în curtea pașnică a mănăstirii; rămâneți sub pasajele acoperite pentru a vă păstra complet uscați.",
-                "en": "Listen to the soothing sound of rain in the peaceful cloister; make sure to stay under the covered archways to remain entirely dry during your visit."
+                "en": "Listen to the soothing sound of rain in the peaceful cloister; make sure to stay under the covered archways to remain entirely dry during your visit.",
+                "es": "Escucha el relajante sonido de la lluvia en el apacible claustro; procura permanecer bajo los arcos cubiertos para mantenerte totalmente seco durante la visita."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Museo Etnológico de la Huerta",
                 "hu": "Museo Etnológico de la Huerta",
                 "ro": "Museo Etnológico de la Huerta",
-                "en": "Museo Etnológico de la Huerta"
+                "en": "Museo Etnológico de la Huerta",
+                "es": "Museo Etnológico de la Huerta"
               },
               "tip_5lang": {
                 "de": "Fokussieren Sie sich auf die faszinierenden Innenexponate der lokalen Landwirtschaft; die Außenanlagen sind bei Dauerregen leider sehr matschig.",
                 "hu": "Koncentráljon a helyi mezőgazdaságot bemutató lenyűgöző belső kiállításokra; a kinti kertek és ösvények a tartós esőben nagyon sárosak lehetnek.",
                 "ro": "Concentrați-vă pe fascinantele expoziții interioare de agricultură locală; expozițiile în aer liber sunt foarte noroioase pe ploaie continuă.",
-                "en": "Focus on the fascinating indoor exhibits of local agriculture; the outdoor garden sections can get incredibly muddy and slippery during heavy rain."
+                "en": "Focus on the fascinating indoor exhibits of local agriculture; the outdoor garden sections can get incredibly muddy and slippery during heavy rain.",
+                "es": "Centra tu atención en las fascinantes exhibiciones interiores sobre agricultura local; las secciones de jardín exterior pueden quedar muy embarradas y resbaladizas con lluvia intensa."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Ein kühler Wintermorgen beginnt an der Kirche, bevor Sie sich im Kulturzentrum aufwärmen. Die Mittagssonne begleitet Sie bei einem frischen Spaziergang zwischen den Museen. Am Nachmittag sinken die Temperaturen spürbar; ziehen Sie sich warm an. Ab 17 Uhr wird es dunkel, was den abendlichen Spaziergang in ein eisiges, aber schön beleuchtetes Erlebnis verwandelt.",
             "hu": "A csípős téli reggel a történelmi templomnál indul, mielőtt felmelegedne a kulturális központban. A déli napsütés kellemes sétát biztosít a múzeumok között. A kora délutáni órákban a hőmérséklet hirtelen csökken, így öltözzön melegen. Este 5 óra körül már sötétedik, így az esti séta egy varázslatosan kivilágított, de fagyos élménnyé válik.",
             "ro": "O dimineață rece de iarnă începe la biserică înainte de a vă încălzi în centrul cultural. Soarele amiezii oferă o plimbare plăcută între muzee. Pe măsură ce după-amiaza avansează, temperaturile scad, așa că îmbrăcați-vă gros. Așteptați-vă la întuneric devreme, pe la 17:00, transformând plimbarea de seară într-una frumos iluminată, dar înghețată.",
-            "en": "A brisk, cold morning starts at the historic church before warming up in the cultural center. The low midday sun offers a pleasant chill as you walk between local museums. As the afternoon progresses, temperatures drop sharply, so bundle up. Expect early darkness around 5:00 PM, turning the evening walk into a beautifully illuminated, albeit freezing, stroll."
+            "en": "A brisk, cold morning starts at the historic church before warming up in the cultural center. The low midday sun offers a pleasant chill as you walk between local museums. As the afternoon progresses, temperatures drop sharply, so bundle up. Expect early darkness around 5:00 PM, turning the evening walk into a beautifully illuminated, albeit freezing, stroll.",
+            "es": "Una fresca y enérgica mañana comienza en la iglesia histórica antes de entrar en calor en el centro cultural. El sol bajo del mediodía ofrece un agradable frescor mientras caminas entre los museos. Conforme avanza la tarde, las temperaturas caen rápidamente, así que abrígate. Espera que anochezca temprano sobre las 17:00, convirtiendo el paseo nocturno en un paseo bellamente iluminado, aunque helado."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Nuestra Señora de la Asunción",
                 "hu": "Nuestra Señora de la Asunción",
                 "ro": "Nuestra Señora de la Asunción",
-                "en": "Nuestra Señora de la Asunción"
+                "en": "Nuestra Señora de la Asunción",
+                "es": "Nuestra Señora de la Asunción"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die friedliche Stille am frühen Morgen; die dicken Steinwände halten die Kälte, behalten Sie also Ihren dicken Wintermantel besser an.",
                 "hu": "Élvezze a kora reggeli csendet és békét; a vastag kőfalak bent tartják a fagyos levegőt, így érdemes magán hagynia a vastag téli kabátot.",
                 "ro": "Bucurați-vă de liniștea dimineții devreme; zidurile groase de piatră mențin frigul, așa că este mai bine să vă păstrați haina groasă de iarnă.",
-                "en": "Enjoy the peaceful early morning atmosphere inside; the thick stone walls trap the cold air, so it is highly recommended to keep your warm winter coat on."
+                "en": "Enjoy the peaceful early morning atmosphere inside; the thick stone walls trap the cold air, so it is highly recommended to keep your warm winter coat on.",
+                "es": "Disfruta de la tranquila atmósfera de primera hora; los gruesos muros de piedra atrapan el aire frío, por lo que es muy recomendable mantener el abrigo de invierno puesto."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Centro Cultural Infanta Elena",
                 "hu": "Centro Cultural Infanta Elena",
                 "ro": "Centro Cultural Infanta Elena",
-                "en": "Centro Cultural Infanta Elena"
+                "en": "Centro Cultural Infanta Elena",
+                "es": "Centro Cultural Infanta Elena"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie dieses Gebäude, um sich richtig aufzuwärmen, während Sie Kunst ansehen; die Heizung hier macht es zu einer gemütlichen Winterpause.",
                 "hu": "Használja ki az épületet egy alapos felmelegedésre a művészet élvezete közben; a kiváló fűtés miatt ez egy igazán kényelmes téli pihenőhely.",
                 "ro": "Profitați de această clădire pentru a vă încălzi bine în timp ce priviți arta; încălzirea excelentă o face o pauză de iarnă foarte confortabilă.",
-                "en": "Take full advantage of this modern building to warm up completely while viewing local art; the strong heating makes it a very cozy winter break."
+                "en": "Take full advantage of this modern building to warm up completely while viewing local art; the strong heating makes it a very cozy winter break.",
+                "es": "Aprovecha este edificio moderno para calentarte mientras contemplas arte local; la fuerte calefacción lo convierte en un descanso invernal muy acogedor."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Casa de Cayitas",
                 "hu": "Casa de Cayitas",
                 "ro": "Casa de Cayitas",
-                "en": "Casa de Cayitas"
+                "en": "Casa de Cayitas",
+                "es": "Casa de Cayitas"
               },
               "tip_5lang": {
                 "de": "Die historischen Räume bieten einen tollen Einblick in die Vergangenheit, sind jedoch zugig; ein Schal und Handschuhe sind auch drinnen ratsam.",
                 "hu": "A történelmi terek nagyszerű bepillantást engednek a múltba, de meglehetősen huzatosak; a sál és a kesztyű beltéren is kifejezetten ajánlott.",
                 "ro": "Camerele istorice oferă o privire în trecut, dar pot fi răcoroase; o eșarfă și mănuși sunt recomandate chiar și pentru explorarea interioară.",
-                "en": "These historic rooms offer a great glimpse into the past but can be quite drafty; wearing a scarf and gloves is highly advisable even indoors."
+                "en": "These historic rooms offer a great glimpse into the past but can be quite drafty; wearing a scarf and gloves is highly advisable even indoors.",
+                "es": "Estas estancias históricas ofrecen una gran visión del pasado pero pueden ser bastante frías; se recomienda llevar bufanda y guantes incluso en el interior."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Museo de modernismo de la region de Murcia",
                 "hu": "Museo de modernismo de la region de Murcia",
                 "ro": "Museo de modernismo de la region de Murcia",
-                "en": "Museo de modernismo de la region de Murcia"
+                "en": "Museo de modernismo de la region de Murcia",
+                "es": "Museo de modernismo de la región de Murcia"
               },
               "tip_5lang": {
                 "de": "Wunderschöne Architektur, die im tief stehenden Winterlicht besonders gut zur Geltung kommt; das Museum ist gut beheizt für einen längeren Aufenthalt.",
                 "hu": "Gyönyörű építészet, amely a laposan beeső téli fényben mutat a legjobban; a múzeum kellemesen fűtött, így hosszabb időzésre is kiváló.",
                 "ro": "Arhitectură superbă care arată cel mai bine în lumina joasă de iarnă; muzeul este bine încălzit, oferind un mediu excelent pentru o ședere mai lungă.",
-                "en": "Beautiful architecture that looks absolutely stunning in the low winter sunlight; the museum is well-heated, making it great for a longer, warm visit."
+                "en": "Beautiful architecture that looks absolutely stunning in the low winter sunlight; the museum is well-heated, making it great for a longer, warm visit.",
+                "es": "Una bella arquitectura que luce espectacular con la baja luz invernal; el museo está bien calefactado, ideal para una visita larga y cálida."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Convento de los Mínimos",
                 "hu": "Convento de los Mínimos",
                 "ro": "Convento de los Mínimos",
-                "en": "Convento de los Mínimos"
+                "en": "Convento de los Mínimos",
+                "es": "Convento de los Mínimos"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie das Kloster, wenn die Nachmittagssonne die Wände wärmt; der schattige Innenhof verliert im Winter extrem schnell seine Wärme.",
                 "hu": "Akkor látogassa meg a kolostort, amikor a délutáni nap még melegíti a falakat; az árnyékos belső udvar télen rendkívül gyorsan áthűl.",
                 "ro": "Vizitați mănăstirea când soarele după-amiezii încălzește zidurile; curtea interioară umbrită își pierde căldura extrem de repede în timpul iernii.",
-                "en": "Visit the convent while the late afternoon sun still warms the exterior walls; the completely shaded courtyard loses its heat extremely fast in winter."
+                "en": "Visit the convent while the late afternoon sun still warms the exterior walls; the completely shaded courtyard loses its heat extremely fast in winter.",
+                "es": "Visita el convento mientras el sol de la tarde aún calienta los muros exteriores; el patio completamente sombreado pierde calor con mucha rapidez en invierno."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Museo Etnológico de la Huerta",
                 "hu": "Museo Etnológico de la Huerta",
                 "ro": "Museo Etnológico de la Huerta",
-                "en": "Museo Etnológico de la Huerta"
+                "en": "Museo Etnológico de la Huerta",
+                "es": "Museo Etnológico de la Huerta"
               },
               "tip_5lang": {
                 "de": "Die früh einsetzende Dunkelheit gegen 17 Uhr taucht die Freilichtausstellung in Schatten; besuchen Sie zuerst die Außenbereiche in der Dämmerung.",
                 "hu": "A 17 óra körüli korai sötétedés gyorsan árnyékba borítja a szabadtéri kiállítást; mindenképpen a külső területekkel kezdje a fagyos szürkületben.",
                 "ro": "Întunericul devreme, pe la 17:00, lasă expoziția în aer liber în umbră; asigurați-vă că explorați mai întâi zonele exterioare la amurgul înghețat.",
-                "en": "The early darkness around 17:00 casts the outdoor exhibition into deep shadows; be sure to explore the freezing outdoor agricultural displays first."
+                "en": "The early darkness around 17:00 casts the outdoor exhibition into deep shadows; be sure to explore the freezing outdoor agricultural displays first.",
+                "es": "La oscuridad temprana alrededor de las 17:00 arroja las exhibiciones exteriores a profundos contrastes; asegúrate de recorrer primero las exposiciones agrícolas exteriores, que estarán heladas."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Nuestra Señora de la Asunción",
             "hu": "Nuestra Señora de la Asunción",
             "ro": "Nuestra Señora de la Asunción",
-            "en": "Nuestra Señora de la Asunción"
+            "en": "Nuestra Señora de la Asunción",
+            "es": "Nuestra Señora de la Asunción"
           },
           "coords": [
             -1.220524,
@@ -380,7 +420,8 @@
             "de": "Bewundern Sie die beeindruckende Fassade dieser Hauptkirche und achten Sie besonders auf die detaillierten Holzschnitzereien im ruhigen Innenraum.",
             "hu": "Csodálja meg ennek a főtemplomnak a lenyűgöző homlokzatát, és figyelje meg a részletes fafaragásokat a csendes, békés belső térben.",
             "ro": "Admirați fațada impresionantă a acestei biserici principale și acordați o atenție deosebită sculpturilor detaliate în lemn din interiorul liniștit.",
-            "en": "Admire the impressive facade of this main church and pay special attention to the detailed wooden carvings found within its peaceful interior."
+            "en": "Admire the impressive facade of this main church and pay special attention to the detailed wooden carvings found within its peaceful interior.",
+            "es": "Admira la imponente fachada de esta iglesia principal y presta especial atención a las detalladas tallas de madera del interior."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Casa de Cayitas",
             "hu": "Casa de Cayitas",
             "ro": "Casa de Cayitas",
-            "en": "Casa de Cayitas"
+            "en": "Casa de Cayitas",
+            "es": "Casa de Cayitas"
           },
           "coords": [
             -1.210716,
@@ -403,7 +445,8 @@
             "de": "Erkunden Sie dieses historische Gebäude, das einst als Inquisitionstribunal diente, und werfen Sie einen Blick auf die erhaltene traditionelle Architektur.",
             "hu": "Fedezze fel ezt a történelmi épületet, amely egykor inkvizíciós bíróságként szolgált, és vessen egy pillantást a megőrzött hagyományos építészetre.",
             "ro": "Explorați această clădire istorică care a servit cândva drept tribunal al Inchiziției și aruncați o privire la arhitectura tradițională bine conservată.",
-            "en": "Explore this historic building that once served as an Inquisition tribunal, and take a close look at the beautifully preserved traditional architecture."
+            "en": "Explore this historic building that once served as an Inquisition tribunal, and take a close look at the beautifully preserved traditional architecture.",
+            "es": "Explora este edificio histórico que albergó un tribunal de la Inquisición y observa atentamente la arquitectura tradicional, magníficamente conservada."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Centro Cultural Infanta Elena",
             "hu": "Centro Cultural Infanta Elena",
             "ro": "Centro Cultural Infanta Elena",
-            "en": "Centro Cultural Infanta Elena"
+            "en": "Centro Cultural Infanta Elena",
+            "es": "Centro Cultural Infanta Elena"
           },
           "coords": [
             -1.212132,
@@ -426,7 +470,8 @@
             "de": "Entdecken Sie zeitgenössische Ausstellungen in diesem dynamischen Kulturzentrum, wo Sie am besten gleich morgens das wechselnde Programm studieren.",
             "hu": "Fedezze fel a kortárs kiállításokat ebben a dinamikus kulturális központban, ahol érdemes már reggel áttanulmányozni a változatos programot.",
             "ro": "Descoperiți expozițiile contemporane din acest centru cultural dinamic, unde cel mai bine este să verificați programul variat încă de dimineață.",
-            "en": "Discover contemporary exhibitions in this dynamic cultural center, where it is best to check out the varied program first thing in the morning."
+            "en": "Discover contemporary exhibitions in this dynamic cultural center, where it is best to check out the varied program first thing in the morning.",
+            "es": "Descubre exposiciones contemporáneas en este dinámico centro cultural; es mejor consultar el variado programa a primera hora de la mañana."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Museo Etnológico de la Huerta",
             "hu": "Museo Etnológico de la Huerta",
             "ro": "Museo Etnológico de la Huerta",
-            "en": "Museo Etnológico de la Huerta"
+            "en": "Museo Etnológico de la Huerta",
+            "es": "Museo Etnológico de la Huerta"
           },
           "coords": [
             -1.211382,
@@ -449,7 +495,8 @@
             "de": "Erfahren Sie alles über die traditionellen Bewässerungssysteme und landwirtschaftlichen Werkzeuge der Region, ideal für einen informativen Nachmittag.",
             "hu": "Tudjon meg mindent a régió hagyományos öntözőrendszereiről és mezőgazdasági eszközeiről, amely tökéletes program egy informatív délutáni látogatáshoz.",
             "ro": "Aflați totul despre sistemele tradiționale de irigații și uneltele agricole ale regiunii, o vizită ideală pentru o după-amiază cu adevărat informativă.",
-            "en": "Learn all about the region's traditional irrigation systems and agricultural tools, making it an absolutely ideal stop for a highly informative afternoon."
+            "en": "Learn all about the region's traditional irrigation systems and agricultural tools, making it an absolutely ideal stop for a highly informative afternoon.",
+            "es": "Aprende todo sobre los sistemas tradicionales de riego y las herramientas agrícolas de la región; es una parada ideal para una tarde muy informativa."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Convento de los Mínimos",
             "hu": "Convento de los Mínimos",
             "ro": "Convento de los Mínimos",
-            "en": "Convento de los Mínimos"
+            "en": "Convento de los Mínimos",
+            "es": "Convento de los Mínimos"
           },
           "coords": [
             -1.212977,
@@ -472,7 +520,8 @@
             "de": "Besichtigen Sie die majestätischen Überreste dieses alten Klosters, das durch seine schlichte Schönheit und ruhige Atmosphäre zur Kontemplation einlädt.",
             "hu": "Látogassa meg ennek a régi kolostornak a fenséges maradványait, amely egyszerű szépségével és nyugodt légkörével elmélkedésre csábítja a látogatókat.",
             "ro": "Vizitați rămășițele maiestuoase ale acestei vechi mănăstiri, care invită la contemplare prin frumusețea sa simplă și atmosfera de o pace deplină.",
-            "en": "Visit the majestic remains of this old convent, which invites deep contemplation through its simple architectural beauty and perfectly tranquil atmosphere."
+            "en": "Visit the majestic remains of this old convent, which invites deep contemplation through its simple architectural beauty and perfectly tranquil atmosphere.",
+            "es": "Visita los majestuosos restos de este antiguo convento, que invitan a la contemplación por su sencilla belleza arquitectónica y su atmósfera perfectamente tranquila."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Museo de modernismo de la region de Murcia",
             "hu": "Museo de modernismo de la region de Murcia",
             "ro": "Museo de modernismo de la region de Murcia",
-            "en": "Museo de modernismo de la region de Murcia"
+            "en": "Museo de modernismo de la region de Murcia",
+            "es": "Museo de modernismo de la región de Murcia"
           },
           "coords": [
             -1.208611,
@@ -495,7 +545,8 @@
             "de": "Tauchen Sie in die faszinierende Welt des Modernismus ein und betrachten Sie die einzigartigen regionalen Kunstwerke bei einem gemütlichen Rundgang.",
             "hu": "Merüljön el a modernizmus lenyűgöző világában, és tekintse meg az egyedülálló regionális műalkotásokat egy kényelmes és inspiráló séta során.",
             "ro": "Pătrundeți în lumea fascinantă a modernismului și admirați operele de artă regionale unice în timpul unui tur relaxant prin galeriile muzeului.",
-            "en": "Delve into the fascinating world of modernism and view unique regional artworks during a leisurely stroll through the well-curated museum galleries."
+            "en": "Delve into the fascinating world of modernism and view unique regional artworks during a leisurely stroll through the well-curated museum galleries.",
+            "es": "Sumérgete en el fascinante mundo del modernismo y contempla obras regionales únicas en las bien comisariadas salas del museo."
           }
         },
         {
@@ -503,7 +554,8 @@
             "de": "Olmeda del Riacho",
             "hu": "Olmeda del Riacho",
             "ro": "Olmeda del Riacho",
-            "en": "Olmeda del Riacho"
+            "en": "Olmeda del Riacho",
+            "es": "Olmeda del Riacho"
           },
           "coords": [
             -1.190612,
@@ -518,7 +570,8 @@
             "de": "Genießen Sie einen entspannten Moment an diesem natürlichen Wahrzeichen, bringen Sie eine Kamera mit und fangen Sie das goldene Licht des späten Nachmittags ein.",
             "hu": "Élvezze a pihentető pillanatokat ennél a természeti látványosságnál, hozzon magával fényképezőgépet, és örökítse meg a késő délutáni aranyló fényeket.",
             "ro": "Bucurați-vă de un moment de relaxare la acest reper natural, aduceți un aparat foto și asigurați-vă că surprindeți lumina aurie a după-amiezii târzii.",
-            "en": "Enjoy a relaxing moment at this prominent natural landmark, bring a camera, and be entirely sure to capture the glorious golden light of the late afternoon."
+            "en": "Enjoy a relaxing moment at this prominent natural landmark, bring a camera, and be entirely sure to capture the glorious golden light of the late afternoon.",
+            "es": "Disfruta de un momento relajante en este destacado paraje natural, lleva cámara y asegúrate de captar la gloriosa luz dorada del final de la tarde."
           }
         }
       ],
@@ -526,7 +579,8 @@
         "de": "Starten Sie morgens radelnd zur Kirche.\n\nMittags tauchen Sie im Kulturzentrum tief ein.\n\nNachmittags geht es zum Konvent und Museum.\n\nAbends radeln Sie zur Olmeda del Riacho.",
         "hu": "Reggel kerékpározzon a templomhoz.\n\nDélben a kulturális központban ismerkedhet a helyi élettel.\n\nDélután tekerjen a múzeumhoz.\n\nEste az Olmeda del Riacho felé vezet az út.",
         "ro": "Dimineața pedalați spre biserică.\n\nLa prânz pătrundeți în identitatea locală la centru.\n\nDupă-amiaza vă îndreptați spre mănăstire.\n\nSeara, traseul duce spre Olmeda del Riacho.",
-        "en": "Start your morning cycling to the church.\n\nAround noon, dive deep into local identity.\n\nIn the afternoon, pedal to the museum.\n\nThe evening route leads to Olmeda del Riacho."
+        "en": "Start your morning cycling to the church.\n\nAround noon, dive deep into local identity.\n\nIn the afternoon, pedal to the museum.\n\nThe evening route leads to Olmeda del Riacho.",
+        "es": "Comienza la mañana en bici hacia la iglesia.\n\nAl mediodía, profundiza en la identidad local.\n\nPor la tarde, pedalea hasta el museo.\n\nLa ruta nocturna conduce a Olmeda del Riacho."
       },
       "variants": {
         "rainy": {
@@ -534,7 +588,8 @@
             "de": "Ein nasser Morgen auf dem Fahrrad zur Kirche und den historischen Häusern. Schutzbleche sind für die Mittagsfahrt zu den Museen unerlässlich. Nachmittagsschauer erfordern gute Regenkleidung. Die abendliche Rückfahrt auf den alten Kopfsteinpflastern in der Dämmerung erfordert höchste Konzentration, da die Straßen extrem rutschig sind.",
             "hu": "Nedves reggeli tekerés a templomhoz és a történelmi épületekhez. A sárvédő elengedhetetlen a déli múzeumi körúthoz. A délutáni záporok miatt elengedhetetlen a vízálló kerékpáros ruházat. Az esti visszaút az óvárosi macskaköveken maximális figyelmet követel, mivel a nedves burkolat fokozottan csúszik.",
             "ro": "O dimineață umedă pe bicicletă spre biserică și casele istorice. Apărătorile de noroi sunt esențiale la prânz. Aversele de după-amiază necesită echipament de ploaie bun. Călătoria de seară pe pavajul vechi la amurg necesită concentrare maximă, deoarece străzile devin extrem de alunecoase.",
-            "en": "A wet morning cycling to the church and historic houses. Mudguards are absolutely essential for the midday ride between museums. Afternoon heavy showers require proper cycling rain gear. Your evening ride back on the old cobblestones demands maximum concentration, as the roads become dangerously slippery."
+            "en": "A wet morning cycling to the church and historic houses. Mudguards are absolutely essential for the midday ride between museums. Afternoon heavy showers require proper cycling rain gear. Your evening ride back on the old cobblestones demands maximum concentration, as the roads become dangerously slippery.",
+            "es": "Una mañana húmeda pedaleando hacia la iglesia y las casas históricas. Los guardabarros son imprescindibles para el trayecto al mediodía entre museos. Las lluvias intensas de la tarde requieren ropa de ciclismo impermeable. El regreso nocturno por los adoquines antiguos exige máxima concentración, ya que las calles se vuelven peligrosamente resbaladizas."
           },
           "stops": [
             {
@@ -542,13 +597,15 @@
                 "de": "Nuestra Señora de la Asunción",
                 "hu": "Nuestra Señora de la Asunción",
                 "ro": "Nuestra Señora de la Asunción",
-                "en": "Nuestra Señora de la Asunción"
+                "en": "Nuestra Señora de la Asunción",
+                "es": "Nuestra Señora de la Asunción"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Fahrrad sicher unter den angrenzenden Dachüberständen, um den Sattel trocken zu halten, während Sie die Kirche besichtigen.",
                 "hu": "Parkolja le kerékpárját biztonságosan a szomszédos ereszek alá, hogy a nyereg száraz maradjon, amíg a templomot és az oltárt látogatja.",
                 "ro": "Parcați-vă bicicleta în siguranță sub streșinile adiacente pentru a menține șaua uscată în timp ce vizitați biserica liniștită.",
-                "en": "Park your bicycle safely under the adjacent building eaves to keep your saddle dry while you take shelter inside to visit the historic church."
+                "en": "Park your bicycle safely under the adjacent building eaves to keep your saddle dry while you take shelter inside to visit the historic church.",
+                "es": "Aparca la bicicleta bajo los aleros de los edificios contiguos para mantener el sillín seco mientras te refugias dentro para visitar la iglesia histórica."
               }
             },
             {
@@ -556,13 +613,15 @@
                 "de": "Casa de Cayitas",
                 "hu": "Casa de Cayitas",
                 "ro": "Casa de Cayitas",
-                "en": "Casa de Cayitas"
+                "en": "Casa de Cayitas",
+                "es": "Casa de Cayitas"
               },
               "tip_5lang": {
                 "de": "Bremsen Sie frühzeitig auf dem nassen Pflasterstein vor dem Haus; das historische Gebäude bietet einen guten Schutz vor plötzlichen Regenschauern.",
                 "hu": "Fékezzen időben a ház előtti vizes macskaköveken; maga a történelmi épület kiváló menedéket nyújt a hirtelen lezúduló esőzések elől.",
                 "ro": "Frânați devreme pe pavajul umed din fața casei; clădirea istorică în sine oferă un adăpost excelent împotriva averselor bruște de ploaie.",
-                "en": "Brake early and gently on the wet cobblestones in front of the house; the historic building itself provides excellent shelter from sudden rain showers."
+                "en": "Brake early and gently on the wet cobblestones in front of the house; the historic building itself provides excellent shelter from sudden rain showers.",
+                "es": "Frena con antelación y con suavidad en los adoquines mojados frente a la casa; el edificio histórico ofrece un excelente refugio contra los chaparrones."
               }
             },
             {
@@ -570,13 +629,15 @@
                 "de": "Centro Cultural Infanta Elena",
                 "hu": "Centro Cultural Infanta Elena",
                 "ro": "Centro Cultural Infanta Elena",
-                "en": "Centro Cultural Infanta Elena"
+                "en": "Centro Cultural Infanta Elena",
+                "es": "Centro Cultural Infanta Elena"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Schließfächer, um Ihre nasse Fahrradbekleidung sicher zu verstauen, während Sie entspannt die trockenen Kunstausstellungen genießen.",
                 "hu": "Használja a sítlusos épület értékmegőrzőit a vizes kerékpáros felszerelés tárolására, amíg kényelmesen élvezi a száraz művészeti kiállításokat.",
                 "ro": "Folosiți dulapurile pentru a vă depozita echipamentul de ciclism umed în timp ce vă bucurați confortabil de expozițiile de artă uscate.",
-                "en": "Use the building's lockers to safely store your wet cycling gear and helmet while you comfortably enjoy the dry indoor art exhibitions."
+                "en": "Use the building's lockers to safely store your wet cycling gear and helmet while you comfortably enjoy the dry indoor art exhibitions.",
+                "es": "Utiliza las taquillas del edificio para guardar de forma segura tu equipo de ciclismo mojado y el casco mientras disfrutas cómodamente de las exposiciones de arte en seco."
               }
             },
             {
@@ -584,13 +645,15 @@
                 "de": "Museo Etnológico de la Huerta",
                 "hu": "Museo Etnológico de la Huerta",
                 "ro": "Museo Etnológico de la Huerta",
-                "en": "Museo Etnológico de la Huerta"
+                "en": "Museo Etnológico de la Huerta",
+                "es": "Museo Etnológico de la Huerta"
               },
               "tip_5lang": {
                 "de": "Behalten Sie Ihren Regenponcho an für die ungeschützten Außenexponate; die erdigen Wege zwischen den Traktoren werden bei Regen schnell zu Schlamm.",
                 "hu": "Tartsa magán az esőponcsót a fedetlen külső tárlatokhoz; a régi traktorok közötti földes ösvények az esőben gyorsan sártengerré válnak.",
                 "ro": "Păstrați-vă pelerina de ploaie pentru expozițiile exterioare; potecile de pământ dintre tractoare se transformă rapid în noroi pe timp de ploaie.",
-                "en": "Keep your rain poncho on for the uncovered outdoor exhibits; the earthy paths between the vintage agricultural machines quickly turn to thick mud."
+                "en": "Keep your rain poncho on for the uncovered outdoor exhibits; the earthy paths between the vintage agricultural machines quickly turn to thick mud.",
+                "es": "Mantén el chubasquero puesto para las exhibiciones exteriores descubiertas; los caminos de tierra entre las máquinas agrícolas antiguas se vuelven pronto un barro espeso."
               }
             },
             {
@@ -598,13 +661,15 @@
                 "de": "Convento de los Mínimos",
                 "hu": "Convento de los Mínimos",
                 "ro": "Convento de los Mínimos",
-                "en": "Convento de los Mínimos"
+                "en": "Convento de los Mínimos",
+                "es": "Convento de los Mínimos"
               },
               "tip_5lang": {
                 "de": "Schieben Sie das Fahrrad die letzten Meter, da die alten Steinplatten rutschig sind; wärmen Sie sich im trockenen Klostergang auf.",
                 "hu": "Tolja a kerékpárt az utolsó métereken, mert a régi kőlapok életveszélyesen csúsznak; melegedjen fel a kolostor száraz, fedett folyosóin.",
                 "ro": "Împingeți bicicleta în ultimii metri deoarece plăcile vechi de piatră sunt alunecoase; încălziți-vă pe holurile uscate ale mănăstirii.",
-                "en": "Dismount and walk your bike the last few meters as the old stone slabs are slick; take a moment to warm up in the dry, covered convent hallways."
+                "en": "Dismount and walk your bike the last few meters as the old stone slabs are slick; take a moment to warm up in the dry, covered convent hallways.",
+                "es": "Bájate de la bici y camina los últimos metros, ya que las losas de piedra antiguas están resbaladizas; tómate un momento para entrar en calor en los pasillos cubiertos y secos del convento."
               }
             },
             {
@@ -612,13 +677,15 @@
                 "de": "Museo de modernismo de la region de Murcia",
                 "hu": "Museo de modernismo de la region de Murcia",
                 "ro": "Museo de modernismo de la region de Murcia",
-                "en": "Museo de modernismo de la region de Murcia"
+                "en": "Museo de modernismo de la region de Murcia",
+                "es": "Museo de modernismo de la región de Murcia"
               },
               "tip_5lang": {
                 "de": "Eine perfekte Zuflucht vor dem Regen; trocknen Sie sich ein wenig, während Sie die beeindruckende regionale Architekturgeschichte studieren.",
                 "hu": "Tökéletes menedék a kitartó eső elől; száradjon meg egy kicsit, miközben áttanulmányozza a régió lenyűgöző modernista építészettörténetét.",
                 "ro": "Un refugiu perfect din ploaie; uscați-vă puțin în timp ce studiați istoria impresionantă a arhitecturii regionale.",
-                "en": "A perfect refuge from the persistent rain; take some time to dry off completely while you study the impressive regional modernist architecture."
+                "en": "A perfect refuge from the persistent rain; take some time to dry off completely while you study the impressive regional modernist architecture.",
+                "es": "Un refugio perfecto contra la lluvia persistente; tómate tiempo para secarte completamente mientras estudias la impresionante arquitectura modernista regional."
               }
             },
             {
@@ -626,13 +693,15 @@
                 "de": "Olmeda del Riacho",
                 "hu": "Olmeda del Riacho",
                 "ro": "Olmeda del Riacho",
-                "en": "Olmeda del Riacho"
+                "en": "Olmeda del Riacho",
+                "es": "Olmeda del Riacho"
               },
               "tip_5lang": {
                 "de": "Bleiben Sie auf dem asphaltierten Hauptweg, da die Naturpfade am Wahrzeichen schlammig sind; das Rauschen des Baches ist bei Regen sehr kraftvoll.",
                 "hu": "Maradjon az aszfaltozott főúton, mivel a látványosság körüli ösvények sarasak; a patak zúgása esőzés idején különösen erőteljes és lenyűgöző.",
                 "ro": "Rămâneți pe drumul principal asfaltat, deoarece potecile sunt noroioase; vuietul pârâului este deosebit de puternic și impresionant pe ploaie.",
-                "en": "Stick strictly to the paved main path as the nature trails are muddy; the rushing sound of the local stream is particularly powerful during the rain."
+                "en": "Stick strictly to the paved main path as the nature trails are muddy; the rushing sound of the local stream is particularly powerful during the rain.",
+                "es": "Mantente estrictamente en el sendero principal pavimentado, ya que las rutas naturales están embarradas; el murmullo del arroyo local es especialmente potente durante la lluvia."
               }
             }
           ]
@@ -642,7 +711,8 @@
             "de": "Eine frische Wintermorgenfahrt, für die Sie Handschuhe brauchen. Die Mittagssonne wärmt die Fahrt zwischen den Museen angenehm auf. Am späten Nachmittag weht oft ein kalter Gegenwind in Richtung Olmeda. Die Abendfahrt erfordert starke Fahrradlichter, da es bereits gegen 17:00 Uhr stockdunkel und eisig kalt wird auf den Straßen.",
             "hu": "Fagyos téli reggeli tekerés, amihez vastag kesztyűre lesz szüksége. A déli nap kellemesen felmelegíti a múzeumok közötti utat. Késő délután gyakran hideg szembeszél fúj Olmeda felé. Az esti kerékpározáshoz erős lámpákra van szükség, mivel 17:00 óra körül már koromsötét és fagyos hideg van az utakon.",
             "ro": "O plimbare rece de iarnă dimineața pentru care veți avea nevoie de mănuși. Soarele amiezii încălzește plăcut drumul între muzee. După-amiaza târziu bate adesea un vânt rece din față spre Olmeda. Călătoria de seară necesită lumini puternice, deoarece devine complet întuneric și înghețat în jurul orei 17:00.",
-            "en": "A brisk winter morning cycle that definitely requires warm gloves. The midday sun pleasantly warms the short rides between museums. Late afternoon often brings a biting headwind towards Olmeda. Your evening ride back necessitates strong bike lights, as it gets pitch dark and freezing cold on the streets around 5:00 PM."
+            "en": "A brisk winter morning cycle that definitely requires warm gloves. The midday sun pleasantly warms the short rides between museums. Late afternoon often brings a biting headwind towards Olmeda. Your evening ride back necessitates strong bike lights, as it gets pitch dark and freezing cold on the streets around 5:00 PM.",
+            "es": "Un enérgico paseo en bici en una mañana de invierno que requiere guantes cálidos. El sol del mediodía calienta agradablemente los cortos trayectos entre museos. A última hora de la tarde suele soplar un viento cortante hacia Olmeda. Tu regreso nocturno exige luces potentes para la bici, ya que se hace completamente oscuro y hace muchísimo frío alrededor de las 17:00."
           },
           "stops": [
             {
@@ -650,13 +720,15 @@
                 "de": "Nuestra Señora de la Asunción",
                 "hu": "Nuestra Señora de la Asunción",
                 "ro": "Nuestra Señora de la Asunción",
-                "en": "Nuestra Señora de la Asunción"
+                "en": "Nuestra Señora de la Asunción",
+                "es": "Nuestra Señora de la Asunción"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den ersten Halt in der Kirche, um Ihre kalten Hände nach der frostigen Morgenfahrt wieder aufzuwärmen, bevor es weitergeht.",
                 "hu": "Használja ki az első megállót a templomban, hogy a fagyos reggeli tekerés után kissé felmelegítse elgémberedett kezeit a vastag falak között.",
                 "ro": "Folosiți prima oprire la biserică pentru a vă încălzi mâinile reci după plimbarea înghețată de dimineață înainte de a continua.",
-                "en": "Use this first stop at the church to thoroughly warm up your cold hands after the freezing morning bike ride before continuing your journey."
+                "en": "Use this first stop at the church to thoroughly warm up your cold hands after the freezing morning bike ride before continuing your journey.",
+                "es": "Usa esta primera parada en la iglesia para calentar bien las manos tras el helador paseo matinal en bici antes de continuar tu ruta."
               }
             },
             {
@@ -664,13 +736,15 @@
                 "de": "Casa de Cayitas",
                 "hu": "Casa de Cayitas",
                 "ro": "Casa de Cayitas",
-                "en": "Casa de Cayitas"
+                "en": "Casa de Cayitas",
+                "es": "Casa de Cayitas"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad in der raren Wintersonne vor dem historischen Gebäude, damit der Sattel nicht völlig auskühlt, während Sie drinnen sind.",
                 "hu": "Parkolja le kerékpárját a ritka téli napsütésben az épület előtt, hogy a nyereg ne hűljön ki teljesen, amíg a történelmi termeket járja.",
                 "ro": "Parcați-vă bicicleta la soarele rar de iarnă în fața clădirii pentru ca șaua să nu se răcească complet în timp ce sunteți înăuntru.",
-                "en": "Park your bike in the rare patches of winter sunshine out front so your saddle does not completely freeze over while you are exploring indoors."
+                "en": "Park your bike in the rare patches of winter sunshine out front so your saddle does not completely freeze over while you are exploring indoors.",
+                "es": "Aparca la bici en los escasos parches de sol invernal en la fachada para que el sillín no llegue a congelarse mientras exploras el interior."
               }
             },
             {
@@ -678,13 +752,15 @@
                 "de": "Centro Cultural Infanta Elena",
                 "hu": "Centro Cultural Infanta Elena",
                 "ro": "Centro Cultural Infanta Elena",
-                "en": "Centro Cultural Infanta Elena"
+                "en": "Centro Cultural Infanta Elena",
+                "es": "Centro Cultural Infanta Elena"
               },
               "tip_5lang": {
                 "de": "Eine perfekte, beheizte Station, um Ihre winddichten Schichten kurz abzulegen und Kultur in einem warmen, komfortablen Raum zu genießen.",
                 "hu": "Tökéletes, fűtött állomás, ahol rövid időre leveheti a szélálló rétegeket, és egy meleg, kényelmes térben élvezheti a kultúrát.",
                 "ro": "O stație perfectă, încălzită, pentru a vă scoate straturile rezistente la vânt și a vă bucura de cultură într-un spațiu cald și confortabil.",
-                "en": "A perfect, heavily heated stop to temporarily strip off your windproof layers and enjoy local culture in a warm, comfortable environment."
+                "en": "A perfect, heavily heated stop to temporarily strip off your windproof layers and enjoy local culture in a warm, comfortable environment.",
+                "es": "Una parada perfecta y muy calefactada para quitarte temporalmente las prendas cortaviento y disfrutar de la cultura local en un entorno cálido y confortable."
               }
             },
             {
@@ -692,13 +768,15 @@
                 "de": "Museo Etnológico de la Huerta",
                 "hu": "Museo Etnológico de la Huerta",
                 "ro": "Museo Etnológico de la Huerta",
-                "en": "Museo Etnológico de la Huerta"
+                "en": "Museo Etnológico de la Huerta",
+                "es": "Museo Etnológico de la Huerta"
               },
               "tip_5lang": {
                 "de": "Tragen Sie beim Spaziergang durch die landwirtschaftlichen Außenanlagen Ihre Thermokleidung, da der offene Wind hier sehr bissig sein kann.",
                 "hu": "A szabadtéri mezőgazdasági gépek közötti sétához tartsa magán a termo ruházatot, mert a nyitott területen a téli szél nagyon harapós lehet.",
                 "ro": "Purtați haine termice în timp ce vă plimbați prin mașinile agricole în aer liber, deoarece vântul de iarnă poate fi foarte tăios aici.",
-                "en": "Keep all your thermal cycling gear on while walking through the outdoor agricultural exhibits, as the wind across the open spaces is biting cold."
+                "en": "Keep all your thermal cycling gear on while walking through the outdoor agricultural exhibits, as the wind across the open spaces is biting cold.",
+                "es": "Mantén todo tu equipo térmico de ciclismo puesto al recorrer las exhibiciones agrícolas al aire libre, ya que el viento en los espacios abiertos es gélido."
               }
             },
             {
@@ -706,13 +784,15 @@
                 "de": "Convento de los Mínimos",
                 "hu": "Convento de los Mínimos",
                 "ro": "Convento de los Mínimos",
-                "en": "Convento de los Mínimos"
+                "en": "Convento de los Mínimos",
+                "es": "Convento de los Mínimos"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur in der goldenen Stunde; die Steinfassade leuchtet wunderschön, kurz bevor die Sonne gegen 17 Uhr untergeht.",
                 "hu": "Csodálja meg az építészetet az aranyórában; a kőhomlokzat gyönyörűen ragyog röviddel azelőtt, hogy a nap 17 óra körül végleg lebukik.",
                 "ro": "Admirați arhitectura în ora de aur; fațada de piatră strălucește frumos chiar înainte ca soarele să apună în jurul orei 17:00.",
-                "en": "Admire the architecture during the golden hour; the stone facade glows beautifully just before the winter sun completely sets around 5:00 PM."
+                "en": "Admire the architecture during the golden hour; the stone facade glows beautifully just before the winter sun completely sets around 5:00 PM.",
+                "es": "Admira la arquitectura durante la hora dorada; la fachada de piedra brilla hermosamente justo antes de que el sol invernal se ponga alrededor de las 17:00."
               }
             },
             {
@@ -720,13 +800,15 @@
                 "de": "Museo de modernismo de la region de Murcia",
                 "hu": "Museo de modernismo de la region de Murcia",
                 "ro": "Museo de modernismo de la region de Murcia",
-                "en": "Museo de modernismo de la region de Murcia"
+                "en": "Museo de modernismo de la region de Murcia",
+                "es": "Museo de modernismo de la región de Murcia"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich in den eleganten Räumen ein letztes Mal gründlich auf, bevor Sie Ihre Fahrradbeleuchtung für die dunkle Abendetappe montieren.",
                 "hu": "Melegedjen fel alaposan az elegáns termekben utoljára, mielőtt felszerelné a kerékpáros világítást a sötét és hideg esti szakaszhoz.",
                 "ro": "Încălziți-vă bine în camerele elegante pentru ultima oară înainte de a vă monta luminile de bicicletă pentru etapa de seară întunecată.",
-                "en": "Warm up thoroughly in these elegant rooms one last time before you step outside to turn on your bike lights for the dark, freezing evening leg."
+                "en": "Warm up thoroughly in these elegant rooms one last time before you step outside to turn on your bike lights for the dark, freezing evening leg.",
+                "es": "Abrígate bien en estas elegantes salas una última vez antes de salir a encender las luces de la bici para el tramo nocturno y helado."
               }
             },
             {
@@ -734,13 +816,15 @@
                 "de": "Olmeda del Riacho",
                 "hu": "Olmeda del Riacho",
                 "ro": "Olmeda del Riacho",
-                "en": "Olmeda del Riacho"
+                "en": "Olmeda del Riacho",
+                "es": "Olmeda del Riacho"
               },
               "tip_5lang": {
                 "de": "Ein spektakulärer Ort für den winterlichen Sonnenuntergang; fahren Sie extrem vorsichtig zurück, da die feuchte Luft am Bach abends schnell gefriert.",
                 "hu": "Látványos hely a téli naplemente megtekintéséhez; tekerjen vissza óvatosan, mert a patak melletti párás levegő este gyorsan az útra fagy.",
                 "ro": "Un loc spectaculos pentru apusul soarelui de iarnă; conduceți cu prudență, deoarece aerul umed de lângă pârâu îngheață rapid seara pe drum.",
-                "en": "A spectacular spot to catch the winter sunset; ride back with extreme caution as the moist air near the stream quickly freezes on the path at dusk."
+                "en": "A spectacular spot to catch the winter sunset; ride back with extreme caution as the moist air near the stream quickly freezes on the path at dusk.",
+                "es": "Un lugar espectacular para ver el atardecer invernal; regresa con extrema precaución, ya que el aire húmedo junto al arroyo se congela rápidamente en el sendero al anochecer."
               }
             }
           ]
@@ -760,7 +844,8 @@
             "de": "Nuestra Señora de la Asunción",
             "hu": "Nuestra Señora de la Asunción",
             "ro": "Nuestra Señora de la Asunción",
-            "en": "Nuestra Señora de la Asunción"
+            "en": "Nuestra Señora de la Asunción",
+            "es": "Nuestra Señora de la Asunción"
           },
           "coords": [
             -1.220524,
@@ -775,7 +860,8 @@
             "de": "Bewundern Sie die beeindruckende Fassade dieser Hauptkirche und achten Sie besonders auf die detaillierten Holzschnitzereien im ruhigen Innenraum.",
             "hu": "Csodálja meg ennek a főtemplomnak a lenyűgöző homlokzatát, és figyelje meg a részletes fafaragásokat a csendes, békés belső térben.",
             "ro": "Admirați fațada impresionantă a acestei biserici principale și acordați o atenție deosebită sculpturilor detaliate în lemn din interiorul liniștit.",
-            "en": "Admire the impressive facade of this main church and pay special attention to the detailed wooden carvings found within its peaceful interior."
+            "en": "Admire the impressive facade of this main church and pay special attention to the detailed wooden carvings found within its peaceful interior.",
+            "es": "Admira la imponente fachada de esta iglesia principal y presta especial atención a las detalladas tallas de madera en su tranquilo interior."
           }
         },
         {
@@ -783,7 +869,8 @@
             "de": "Centro Cultural Infanta Elena",
             "hu": "Centro Cultural Infanta Elena",
             "ro": "Centro Cultural Infanta Elena",
-            "en": "Centro Cultural Infanta Elena"
+            "en": "Centro Cultural Infanta Elena",
+            "es": "Centro Cultural Infanta Elena"
           },
           "coords": [
             -1.212132,
@@ -798,7 +885,8 @@
             "de": "Entdecken Sie zeitgenössische Ausstellungen in diesem dynamischen Kulturzentrum, wo Sie am besten gleich morgens das wechselnde Programm studieren.",
             "hu": "Fedezze fel a kortárs kiállításokat ebben a dinamikus kulturális központban, ahol érdemes már reggel áttanulmányozni a változatos programot.",
             "ro": "Descoperiți expozițiile contemporane din acest centru cultural dinamic, unde cel mai bine este să verificați programul variat încă de dimineață.",
-            "en": "Discover contemporary exhibitions in this dynamic cultural center, where it is best to check out the varied program first thing in the morning."
+            "en": "Discover contemporary exhibitions in this dynamic cultural center, where it is best to check out the varied program first thing in the morning.",
+            "es": "Descubre exposiciones contemporáneas en este dinámico centro cultural; es mejor consultar la programación a primera hora de la mañana."
           }
         },
         {
@@ -806,7 +894,8 @@
             "de": "Casa de Cayitas",
             "hu": "Casa de Cayitas",
             "ro": "Casa de Cayitas",
-            "en": "Casa de Cayitas"
+            "en": "Casa de Cayitas",
+            "es": "Casa de Cayitas"
           },
           "coords": [
             -1.210716,
@@ -821,7 +910,8 @@
             "de": "Erkunden Sie dieses historische Gebäude, das einst als Inquisitionstribunal diente, und werfen Sie einen Blick auf die erhaltene traditionelle Architektur.",
             "hu": "Fedezze fel ezt a történelmi épületet, amely egykor inkvizíciós bíróságként szolgált, és vessen egy pillantást a megőrzött hagyományos építészetre.",
             "ro": "Explorați această clădire istorică care a servit cândva drept tribunal al Inchiziției și aruncați o privire la arhitectura tradițională bine conservată.",
-            "en": "Explore this historic building that once served as an Inquisition tribunal, and take a close look at the beautifully preserved traditional architecture."
+            "en": "Explore this historic building that once served as an Inquisition tribunal, and take a close look at the beautifully preserved traditional architecture.",
+            "es": "Explora este edificio histórico que sirvió como tribunal de la Inquisición y observa de cerca la arquitectura tradicional magníficamente conservada."
           }
         },
         {
@@ -829,7 +919,8 @@
             "de": "Museo de modernismo de la region de Murcia",
             "hu": "Museo de modernismo de la region de Murcia",
             "ro": "Museo de modernismo de la region de Murcia",
-            "en": "Museo de modernismo de la region de Murcia"
+            "en": "Museo de modernismo de la region de Murcia",
+            "es": "Museo de modernismo de la región de Murcia"
           },
           "coords": [
             -1.208611,
@@ -844,7 +935,8 @@
             "de": "Tauchen Sie in die faszinierende Welt des Modernismus ein und betrachten Sie die einzigartigen regionalen Kunstwerke bei einem gemütlichen Rundgang.",
             "hu": "Merüljön el a modernizmus lenyűgöző világában, és tekintse meg az egyedülálló regionális műalkotásokat egy kényelmes és inspiráló séta során.",
             "ro": "Pătrundeți în lumea fascinantă a modernismului și admirați operele de artă regionale unice în timpul unui tur relaxant prin galeriile muzeului.",
-            "en": "Delve into the fascinating world of modernism and view unique regional artworks during a leisurely stroll through the well-curated museum galleries."
+            "en": "Delve into the fascinating world of modernism and view unique regional artworks during a leisurely stroll through the well-curated museum galleries.",
+            "es": "Sumérgete en el fascinante mundo del modernismo y contempla obras regionales únicas durante un paseo relajado por las bien comisariadas salas del museo."
           }
         },
         {
@@ -852,7 +944,8 @@
             "de": "Museo Etnológico de la Huerta",
             "hu": "Museo Etnológico de la Huerta",
             "ro": "Museo Etnológico de la Huerta",
-            "en": "Museo Etnológico de la Huerta"
+            "en": "Museo Etnológico de la Huerta",
+            "es": "Museo Etnológico de la Huerta"
           },
           "coords": [
             -1.211382,
@@ -867,7 +960,8 @@
             "de": "Erfahren Sie alles über die traditionellen Bewässerungssysteme und landwirtschaftlichen Werkzeuge der Region, ideal für einen informativen Nachmittag.",
             "hu": "Tudjon meg mindent a régió hagyományos öntözőrendszereiről és mezőgazdasági eszközeiről, amely tökéletes program egy informatív délutáni látogatáshoz.",
             "ro": "Aflați totul despre sistemele tradiționale de irigații și uneltele agricole ale regiunii, o vizită ideală pentru o după-amiază cu adevărat informativă.",
-            "en": "Learn all about the region's traditional irrigation systems and agricultural tools, making it an absolutely ideal stop for a highly informative afternoon."
+            "en": "Learn all about the region's traditional irrigation systems and agricultural tools, making it an absolutely ideal stop for a highly informative afternoon.",
+            "es": "Aprende todo sobre los sistemas tradicionales de riego y las herramientas agrícolas de la región; es una parada ideal para una tarde muy informativa."
           }
         },
         {
@@ -875,7 +969,8 @@
             "de": "Olmeda del Riacho",
             "hu": "Olmeda del Riacho",
             "ro": "Olmeda del Riacho",
-            "en": "Olmeda del Riacho"
+            "en": "Olmeda del Riacho",
+            "es": "Olmeda del Riacho"
           },
           "coords": [
             -1.190612,
@@ -890,7 +985,8 @@
             "de": "Genießen Sie einen entspannten Moment an diesem natürlichen Wahrzeichen, bringen Sie eine Kamera mit und fangen Sie das goldene Licht des späten Nachmittags ein.",
             "hu": "Élvezze a pihentető pillanatokat ennél a természeti látványosságnál, hozzon magával fényképezőgépet, és örökítse meg a késő délutáni aranyló fényeket.",
             "ro": "Bucurați-vă de un moment de relaxare la acest reper natural, aduceți un aparat foto și asigurați-vă că surprindeți lumina aurie a după-amiezii târzii.",
-            "en": "Enjoy a relaxing moment at this prominent natural landmark, bring a camera, and be entirely sure to capture the glorious golden light of the late afternoon."
+            "en": "Enjoy a relaxing moment at this prominent natural landmark, bring a camera, and be entirely sure to capture the glorious golden light of the late afternoon.",
+            "es": "Disfruta un momento relajante en este destacado paraje natural, trae cámara y asegúrate de capturar la gloriosa luz dorada de la tarde."
           }
         },
         {
@@ -898,7 +994,8 @@
             "de": "Piscina Municipal",
             "hu": "Piscina Municipal",
             "ro": "Piscina Municipal",
-            "en": "Piscina Municipal"
+            "en": "Piscina Municipal",
+            "es": "Piscina Municipal"
           },
           "coords": [
             -1.2061,
@@ -913,7 +1010,8 @@
             "de": "Kühlen Sie sich nach einem langen Tag voller Besichtigungen im städtischen Schwimmbad ab, wo Sie entspannt schwimmen und den Abend ausklingen lassen können.",
             "hu": "Hűtse le magát egy hosszú városnéző nap után a városi medencében, ahol egy pihentető úszással tökéletesen zárhatja le ezt a tartalmas és élménydús napot.",
             "ro": "Răcoriți-vă după o zi lungă de vizite la piscina municipală, unde puteți înota relaxat și puteți încheia seara într-un mod cât se poate de plăcut.",
-            "en": "Cool off after a long day of sightseeing at the municipal pool, where you can enjoy a relaxing swim and wind down the evening in total and utter comfort."
+            "en": "Cool off after a long day of sightseeing at the municipal pool, where you can enjoy a relaxing swim and wind down the evening in total and utter comfort.",
+            "es": "Refresca tras un largo día de visitas en la piscina municipal, donde puedes disfrutar de un baño relajante y despedir la tarde con total comodidad."
           }
         }
       ],
@@ -921,7 +1019,8 @@
         "de": "Ihre Autotour beginnt an der Kirche.\n\nMittags besuchen Sie die historische Casa de Cayitas.\n\nDer Nachmittag ist geprägt vom Ethnologischen Museum.\n\nDen Abend verbringen Sie im Schwimmbad.",
         "hu": "Autós túrája a templomnál kezdődik.\n\nDélben látogassa meg a lenyűgöző Casa de Cayitas-t.\n\nA délutánt a Néprajzi Múzeum történelme tölti ki.\n\nAz estét a városi uszodában töltheti el.",
         "ro": "Turul cu mașina începe la biserică.\n\nLa prânz vizitați fascinanta Casa de Cayitas.\n\nDupă-amiaza este marcată de istoria bogată.\n\nSeara v-o petreceți revigorant la piscina municipală.",
-        "en": "Your driving tour begins at the church.\n\nAt midday, visit the fascinating Casa de Cayitas.\n\nThe afternoon is characterized by rich history.\n\nYou spend a refreshing evening at the pool."
+        "en": "Your driving tour begins at the church.\n\nAt midday, visit the fascinating Casa de Cayitas.\n\nThe afternoon is characterized by rich history.\n\nYou spend a refreshing evening at the pool.",
+        "es": "Tu recorrido en coche comienza en la iglesia.\n\nAl mediodía, visita la fascinante Casa de Cayitas.\n\nLa tarde se caracteriza por su rica historia.\n\nPasas una refrescante noche en la piscina."
       },
       "variants": {
         "rainy": {
@@ -929,7 +1028,8 @@
             "de": "Autofahren ist bei Regen sehr angenehm. Beginnen Sie mit einem kurzen Spurt vom Parkplatz zur Kirche. Mittags können Sie problemlos zwischen den nahegelegenen Museen umparken. Am Nachmittag fahren Sie gemütlich durch den Regen zur Olmeda. Beenden Sie den nassen Tag passend im städtischen Hallenbad, um sich aufzuwärmen.",
             "hu": "Autóval utazni kényelmes az esőben. Kezdjen egy rövid sprinttel a parkolóból a templomig. Délben könnyedén átparkolhat a közeli múzeumok között, szárazon maradva. Délután kényelmesen vezessen el Olmeda felé. Zárja a vizes napot stílusosan a városi fedett uszodában, ahol kellemesen felmelegedhet.",
             "ro": "Conducerea este foarte confortabilă pe ploaie. Începeți cu un scurt sprint de la parcare la biserică. La prânz puteți muta ușor mașina între muzee. După-amiaza, conduceți confortabil prin ploaie spre Olmeda. Încheiați ziua umedă perfect în piscina municipală interioară pentru a vă încălzi.",
-            "en": "Driving is highly comfortable in the rain. Start with a quick dash from your parking spot to the church. At midday, you can easily reposition the car between museums to stay dry. Take a cozy afternoon drive to Olmeda. End your wet day fittingly at the municipal indoor pool facilities to thoroughly warm up."
+            "en": "Driving is highly comfortable in the rain. Start with a quick dash from your parking spot to the church. At midday, you can easily reposition the car between museums to stay dry. Take a cozy afternoon drive to Olmeda. End your wet day fittingly at the municipal indoor pool facilities to thoroughly warm up.",
+            "es": "Conducir es muy cómodo bajo la lluvia. Comienza con una breve carrera desde tu aparcamiento hasta la iglesia. Al mediodía puedes recolocar fácilmente el coche entre museos para mantenerte seco. Haz una agradable ruta vespertina hacia Olmeda. Termina el día húmedo adecuadamente en las instalaciones cubiertas de la piscina municipal para calentarte a fondo."
           },
           "stops": [
             {
@@ -937,13 +1037,15 @@
                 "de": "Nuestra Señora de la Asunción",
                 "hu": "Nuestra Señora de la Asunción",
                 "ro": "Nuestra Señora de la Asunción",
-                "en": "Nuestra Señora de la Asunción"
+                "en": "Nuestra Señora de la Asunción",
+                "es": "Nuestra Señora de la Asunción"
               },
               "tip_5lang": {
                 "de": "Suchen Sie einen Parkplatz in den nahen Seitenstraßen und legen Sie den kurzen Weg zur Kirchentür mit einem Regenschirm schnell zurück.",
                 "hu": "Keressen parkolót a közeli mellékutcákban, és tegye meg a templomkapuig tartó rövid távot gyorsan, esernyő alatt, hogy száraz maradjon.",
                 "ro": "Găsiți parcare pe străzile laterale apropiate și parcurgeți distanța scurtă până la ușa bisericii rapid sub o umbrelă pentru a rămâne uscat.",
-                "en": "Find street parking in the nearby side alleys and make a quick dash under your umbrella to the heavy wooden church doors to stay dry."
+                "en": "Find street parking in the nearby side alleys and make a quick dash under your umbrella to the heavy wooden church doors to stay dry.",
+                "es": "Busca aparcamiento en los callejones laterales cercanos y corre bajo tu paraguas hasta las pesadas puertas de madera de la iglesia para mantenerte seco."
               }
             },
             {
@@ -951,13 +1053,15 @@
                 "de": "Centro Cultural Infanta Elena",
                 "hu": "Centro Cultural Infanta Elena",
                 "ro": "Centro Cultural Infanta Elena",
-                "en": "Centro Cultural Infanta Elena"
+                "en": "Centro Cultural Infanta Elena",
+                "es": "Centro Cultural Infanta Elena"
               },
               "tip_5lang": {
                 "de": "Dieses Zentrum ist bei schlechtem Wetter ein toller Zufluchtsort; schütteln Sie Ihren Schirm draußen aus, um das Auto danach trocken zu halten.",
                 "hu": "Ez a központ remek menedék rossz idő esetén; rázza ki az esernyőt még kint, hogy az autó belső tere száraz és páramentes maradjon utána.",
                 "ro": "Acest centru este un refugiu excelent pe vreme rea; scuturați-vă umbrela afară pentru a menține interiorul mașinii uscat și fără aburi apoi.",
-                "en": "This cultural center is an excellent bad-weather refuge; thoroughly shake off your umbrella outside to keep your car interior dry for the next drive."
+                "en": "This cultural center is an excellent bad-weather refuge; thoroughly shake off your umbrella outside to keep your car interior dry for the next drive.",
+                "es": "Este centro cultural es un excelente refugio para mal tiempo; sacude bien el paraguas en la entrada para mantener el interior del coche seco para el siguiente trayecto."
               }
             },
             {
@@ -965,13 +1069,15 @@
                 "de": "Casa de Cayitas",
                 "hu": "Casa de Cayitas",
                 "ro": "Casa de Cayitas",
-                "en": "Casa de Cayitas"
+                "en": "Casa de Cayitas",
+                "es": "Casa de Cayitas"
               },
               "tip_5lang": {
                 "de": "Die historischen Böden werden durch nasse Schuhe glatt; schalten Sie im Auto die Klimaanlage an, um beschlagene Scheiben nach dem Besuch zu klären.",
                 "hu": "A történelmi padlók a vizes cipőktől csúsznak; a látogatás után kapcsolja be a klímát az autóban, hogy gyorsan lefújja a párás ablakokat.",
                 "ro": "Podelele istorice devin alunecoase; după vizită, porniți aerul condiționat în mașină pentru a curăța rapid geamurile aburite de umiditate.",
-                "en": "The historic floors get slick from wet shoes; when you return, blast your car's AC to quickly clear up any fogged-up windows from your damp clothes."
+                "en": "The historic floors get slick from wet shoes; when you return, blast your car's AC to quickly clear up any fogged-up windows from your damp clothes.",
+                "es": "Los suelos históricos se vuelven resbaladizos por los zapatos mojados; al volver, pon el aire acondicionado del coche para despejar rápidamente los cristales empañados por la ropa húmeda."
               }
             },
             {
@@ -979,13 +1085,15 @@
                 "de": "Museo de modernismo de la region de Murcia",
                 "hu": "Museo de modernismo de la region de Murcia",
                 "ro": "Museo de modernismo de la region de Murcia",
-                "en": "Museo de modernismo de la region de Murcia"
+                "en": "Museo de modernismo de la region de Murcia",
+                "es": "Museo de modernismo de la región de Murcia"
               },
               "tip_5lang": {
                 "de": "Verbringen Sie viel Zeit im Trockenen und bewundern Sie die Ausstellungsstücke; direkt am Museum gibt es oft gute Möglichkeiten zum Kurzparken.",
                 "hu": "Töltsön sok időt a száraz belső térben a kiállítások megcsodálásával; a múzeum közvetlen közelében általában könnyű rövid távú parkolót találni.",
                 "ro": "Petreceți mult timp în spațiul interior uscat admirând exponatele; de obicei, este ușor să găsiți parcare pe termen scurt chiar lângă muzeu.",
-                "en": "Spend plenty of time in the dry interior admiring the artistic details; you can usually find convenient short-term parking right next to the museum."
+                "en": "Spend plenty of time in the dry interior admiring the artistic details; you can usually find convenient short-term parking right next to the museum.",
+                "es": "Pasa mucho tiempo en el interior seco admirando los detalles artísticos; normalmente se encuentra aparcamiento de corta duración justo al lado del museo."
               }
             },
             {
@@ -993,13 +1101,15 @@
                 "de": "Museo Etnológico de la Huerta",
                 "hu": "Museo Etnológico de la Huerta",
                 "ro": "Museo Etnológico de la Huerta",
-                "en": "Museo Etnológico de la Huerta"
+                "en": "Museo Etnológico de la Huerta",
+                "es": "Museo Etnológico de la Huerta"
               },
               "tip_5lang": {
                 "de": "Lassen Sie das Auto stehen und erkunden Sie die überdachten Bereiche; die Pfade zu den alten Traktoren sind bei starkem Regen extrem schlammig.",
                 "hu": "Hagyja az autót a parkolóban, és járja be a fedett részeket; a régi traktorokhoz vezető szabadtéri ösvények heves esőzéskor nagyon sarasak.",
                 "ro": "Lăsați mașina și explorați zonele acoperite; traseele exterioare spre tractoarele vechi sunt extrem de noroioase în timpul ploilor abundente.",
-                "en": "Leave the car safely parked and focus on the covered sections; the outdoor paths to the vintage tractors become extremely muddy during heavy rain."
+                "en": "Leave the car safely parked and focus on the covered sections; the outdoor paths to the vintage tractors become extremely muddy during heavy rain.",
+                "es": "Deja el coche bien aparcado y céntrate en las zonas cubiertas; los caminos exteriores hacia los tractores antiguos se vuelven extremadamente embarrados con lluvia intensa."
               }
             },
             {
@@ -1007,13 +1117,15 @@
                 "de": "Olmeda del Riacho",
                 "hu": "Olmeda del Riacho",
                 "ro": "Olmeda del Riacho",
-                "en": "Olmeda del Riacho"
+                "en": "Olmeda del Riacho",
+                "es": "Olmeda del Riacho"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die verregnete Naturlandschaft bequem vom trockenen Auto aus; die unbefestigten Wege am Bach sind momentan nicht begehbar.",
                 "hu": "Csodálja meg az esős természeti tájat kényelmesen, a száraz autóból; a patak melletti burkolatlan ösvények ilyenkor szinte járhatatlanok.",
                 "ro": "Admirați peisajul natural ploios confortabil din mașina uscată; potecile neasfaltate de lângă pârâu sunt aproape impracticabile în aceste condiții.",
-                "en": "Admire the moody, rain-swept natural landscape from the total comfort of your dry car; the unpaved paths by the stream are mostly unnavigable now."
+                "en": "Admire the moody, rain-swept natural landscape from the total comfort of your dry car; the unpaved paths by the stream are mostly unnavigable now.",
+                "es": "Admira el paisaje natural melancólico y empapado desde la total comodidad de tu coche seco; los caminos sin asfaltar junto al arroyo son casi intransitables ahora."
               }
             },
             {
@@ -1021,13 +1133,15 @@
                 "de": "Piscina Municipal",
                 "hu": "Piscina Municipal",
                 "ro": "Piscina Municipal",
-                "en": "Piscina Municipal"
+                "en": "Piscina Municipal",
+                "es": "Piscina Municipal"
               },
               "tip_5lang": {
                 "de": "Der perfekte Abschluss für einen Regentag: Nutzen Sie die beheizten Innenbecken, um sich zu entspannen, während der Regen auf das Dach trommelt.",
                 "hu": "Tökéletes befejezése egy esős napnak: használja a fűtött belső medencéket a pihenésre, miközben hallgatja, ahogy az eső dobol a tetőn.",
                 "ro": "Sfârșitul perfect pentru o zi ploioasă: folosiți bazinele interioare încălzite pentru a vă relaxa în timp ce ascultați ploaia bătând pe acoperiș.",
-                "en": "The absolute perfect end to a rainy day: utilize the heated indoor pool facilities to relax completely while listening to the rain drum on the roof."
+                "en": "The absolute perfect end to a rainy day: utilize the heated indoor pool facilities to relax completely while listening to the rain drum on the roof.",
+                "es": "El final perfecto para un día de lluvia: utiliza las instalaciones cubiertas y climatizadas de la piscina para relajarte por completo mientras escuchas la lluvia sobre el techo."
               }
             }
           ]
@@ -1037,7 +1151,8 @@
             "de": "Die Autoheizung macht diesen kalten Morgen sehr angenehm. Mittags ermöglichen kurze Fußwege vom Parkplatz entspannte Museumsbesuche. Am späten Nachmittag können Sie bei der Fahrt nach Olmeda herrliche Wintersonnenuntergänge direkt aus dem warmen Auto beobachten. Der Abend endet luxuriös im beheizten städtischen Schwimmbad.",
             "hu": "Az autófűtés rendkívül kényelmessé teszi ezt a fagyos reggelt. Délben a rövid séták a parkolóból kellemes múzeumlátogatást tesznek lehetővé. Késő délután az Olmeda felé vezető úton csodás téli naplementéket figyelhet meg a fűtött autóból. Az este az önkormányzati meleg vizes uszodában zárul.",
             "ro": "Încălzirea mașinii face această dimineață foarte confortabilă. La prânz, plimbările scurte de la parcare permit vizite relaxante la muzee. După-amiaza târziu spre Olmeda puteți urmări apusuri superbe din mașina caldă. Seara se încheie luxos în piscina municipală încălzită pentru o dezghețare completă.",
-            "en": "The car's heater makes this cold morning extremely comfortable. At midday, short walks from your parking spot allow for relaxed museum visits. Late afternoon drives toward Olmeda offer stunning winter sunsets directly from the warmth of your car. The evening ends luxuriously at the heated municipal pool."
+            "en": "The car's heater makes this cold morning extremely comfortable. At midday, short walks from your parking spot allow for relaxed museum visits. Late afternoon drives toward Olmeda offer stunning winter sunsets directly from the warmth of your car. The evening ends luxuriously at the heated municipal pool.",
+            "es": "El calefactor del coche hace esta fría mañana extremadamente cómoda. Al mediodía, cortos paseos desde tu aparcamiento permiten visitas relajadas a los museos. Los trayectos de tarde hacia Olmeda ofrecen atardeceres invernales impresionantes desde la calidez del coche. La noche termina lujosamente en la piscina municipal climatizada."
           },
           "stops": [
             {
@@ -1045,13 +1160,15 @@
                 "de": "Nuestra Señora de la Asunción",
                 "hu": "Nuestra Señora de la Asunción",
                 "ro": "Nuestra Señora de la Asunción",
-                "en": "Nuestra Señora de la Asunción"
+                "en": "Nuestra Señora de la Asunción",
+                "es": "Nuestra Señora de la Asunción"
               },
               "tip_5lang": {
                 "de": "Parken Sie wenn möglich in der Morgensonne, um Eis auf den Scheiben zu vermeiden; die dicken Kirchenmauern sind drinnen noch sehr kalt.",
                 "hu": "Ha lehetséges, parkoljon a reggeli napsütésben, hogy elkerülje a szélvédő jegesedését; a vastag templomfalak odabent még nagyon tartják a hideget.",
                 "ro": "Parcați la soarele dimineții dacă este posibil pentru a evita gheața pe parbriz; zidurile groase ale bisericii sunt încă foarte reci în interior.",
-                "en": "Try to park in the morning sunlight if possible to prevent window frost; keep your coat on as the thick church walls are still freezing inside."
+                "en": "Try to park in the morning sunlight if possible to prevent window frost; keep your coat on as the thick church walls are still freezing inside.",
+                "es": "Intenta aparcar donde haya sol matinal si es posible para evitar la escarcha en las ventanillas; mantén el abrigo puesto, ya que los gruesos muros de la iglesia siguen helados por dentro."
               }
             },
             {
@@ -1059,13 +1176,15 @@
                 "de": "Centro Cultural Infanta Elena",
                 "hu": "Centro Cultural Infanta Elena",
                 "ro": "Centro Cultural Infanta Elena",
-                "en": "Centro Cultural Infanta Elena"
+                "en": "Centro Cultural Infanta Elena",
+                "es": "Centro Cultural Infanta Elena"
               },
               "tip_5lang": {
                 "de": "Lassen Sie Ihre schweren Wintermäntel einfach im Kofferraum und machen Sie einen schnellen Sprint in die sehr gut beheizten Ausstellungsräume.",
                 "hu": "Hagyja a nehéz téli kabátokat a csomagtartóban, és tegyen egy gyors sprintet a hidegben a rendkívül jól fűtött kulturális kiállítótermekig.",
                 "ro": "Lăsați hainele grele de iarnă în portbagaj și faceți un sprint rapid în frig până la sălile de expoziție culturale extrem de bine încălzite.",
-                "en": "Leave your heavy winter coats locked in the trunk and make a quick, cold sprint directly into the extremely well-heated cultural exhibition rooms."
+                "en": "Leave your heavy winter coats locked in the trunk and make a quick, cold sprint directly into the extremely well-heated cultural exhibition rooms.",
+                "es": "Deja los abrigos invernales pesados en el maletero y haz una rápida carrera fría hacia las salas de exposiciones, que están extremadamente bien calefactadas."
               }
             },
             {
@@ -1073,13 +1192,15 @@
                 "de": "Casa de Cayitas",
                 "hu": "Casa de Cayitas",
                 "ro": "Casa de Cayitas",
-                "en": "Casa de Cayitas"
+                "en": "Casa de Cayitas",
+                "es": "Casa de Cayitas"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Autoheizung auf dem Weg hierher voll aus; das historische Steingebäude selbst hat kaum Heizmöglichkeiten und ist ziemlich frostig.",
                 "hu": "Használja ki az autófűtést az ideúton; maga a történelmi kőépület alig rendelkezik fűtési lehetőségekkel, és kifejezetten fagyos lehet.",
                 "ro": "Folosiți la maximum încălzirea mașinii pe drumul spre aici; clădirea istorică din piatră în sine are puține opțiuni de încălzire și este destul de rece.",
-                "en": "Blast your car heater on the short drive here; the historic stone building itself has very few modern heating options and is quite frosty inside."
+                "en": "Blast your car heater on the short drive here; the historic stone building itself has very few modern heating options and is quite frosty inside.",
+                "es": "Activa la calefacción del coche en el corto trayecto hasta aquí; el edificio histórico tiene pocas opciones de calefacción moderna y está bastante frío en su interior."
               }
             },
             {
@@ -1087,13 +1208,15 @@
                 "de": "Museo de modernismo de la region de Murcia",
                 "hu": "Museo de modernismo de la region de Murcia",
                 "ro": "Museo de modernismo de la region de Murcia",
-                "en": "Museo de modernismo de la region de Murcia"
+                "en": "Museo de modernismo de la region de Murcia",
+                "es": "Museo de modernismo de la región de Murcia"
               },
               "tip_5lang": {
                 "de": "Ein herrlich warmer Ort am Mittag; bewundern Sie, wie das flache Winterlicht durch die kunstvollen modernistischen Fensterfronten fällt.",
                 "hu": "Csodálatosan meleg hely délben; figyelje meg, hogyan törik meg a laposan érkező téli fény a művészi modernista ablakokon keresztül.",
                 "ro": "Un loc minunat de cald la prânz; admirați modul în care lumina de iarnă cu unghi mic cade prin ferestrele artistice moderniste.",
-                "en": "A wonderfully warm spot at midday; admire how the low-angled winter sunlight dramatically filters through the artistic modernist glass windows."
+                "en": "A wonderfully warm spot at midday; admire how the low-angled winter sunlight dramatically filters through the artistic modernist glass windows.",
+                "es": "Un lugar maravillosamente cálido al mediodía; observa cómo la baja luz invernal filtra dramáticamente a través de los vitrales modernistas artísticos."
               }
             },
             {
@@ -1101,13 +1224,15 @@
                 "de": "Museo Etnológico de la Huerta",
                 "hu": "Museo Etnológico de la Huerta",
                 "ro": "Museo Etnológico de la Huerta",
-                "en": "Museo Etnológico de la Huerta"
+                "en": "Museo Etnológico de la Huerta",
+                "es": "Museo Etnológico de la Huerta"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die landwirtschaftlichen Außenexponate schnell, bevor die Temperaturen gegen Nachmittag rasant fallen; wärmen Sie sich im Auto auf.",
                 "hu": "Gyorsan tekintse meg a szabadtéri mezőgazdasági tárlatokat, mielőtt a hőmérséklet délután zuhanni kezd; utána melegedjen fel az autóban.",
                 "ro": "Vizitați rapid expozițiile agricole în aer liber înainte ca temperaturile să scadă spre după-amiază; încălziți-vă rapid în mașină apoi.",
-                "en": "Tour the outdoor agricultural exhibits quickly before the late afternoon temperatures plummet completely; warm back up in the car right after."
+                "en": "Tour the outdoor agricultural exhibits quickly before the late afternoon temperatures plummet completely; warm back up in the car right after.",
+                "es": "Recorre rápidamente las exhibiciones agrícolas al aire libre antes de que las temperaturas de la tarde caigan por completo; vuélvete a calentar en el coche justo después."
               }
             },
             {
@@ -1115,13 +1240,15 @@
                 "de": "Olmeda del Riacho",
                 "hu": "Olmeda del Riacho",
                 "ro": "Olmeda del Riacho",
-                "en": "Olmeda del Riacho"
+                "en": "Olmeda del Riacho",
+                "es": "Olmeda del Riacho"
               },
               "tip_5lang": {
                 "de": "Parken Sie mit Blick nach Westen und genießen Sie den frühen Sonnenuntergang um 17 Uhr bei laufender Heizung und entspannter Musik aus dem Auto.",
                 "hu": "Parkoljon nyugat felé nézve, és élvezze az 17 órai korai naplementét járó fűtéssel és nyugtató zenével, kényelmesen az autóból.",
                 "ro": "Parcați cu fața spre vest și bucurați-vă de apusul devreme la 17:00, cu încălzirea pornită și muzică relaxantă, confortabil din interiorul mașinii.",
-                "en": "Park facing west to fully enjoy the early 5:00 PM sunset with your car heater blasting and relaxing music playing inside your comfortable cabin."
+                "en": "Park facing west to fully enjoy the early 5:00 PM sunset with your car heater blasting and relaxing music playing inside your comfortable cabin.",
+                "es": "Aparca mirando al oeste para disfrutar plenamente del atardecer de las 17:00 con la calefacción del coche a tope y música relajante en el habitáculo."
               }
             },
             {
@@ -1129,13 +1256,15 @@
                 "de": "Piscina Municipal",
                 "hu": "Piscina Municipal",
                 "ro": "Piscina Municipal",
-                "en": "Piscina Municipal"
+                "en": "Piscina Municipal",
+                "es": "Piscina Municipal"
               },
               "tip_5lang": {
                 "de": "Wechseln Sie von der kalten Winterluft in das tropisch warme Hallenbad; das warme Wasser ist die beste Methode, um abends komplett aufzutauen.",
                 "hu": "Váltson a csípős téli levegőről a trópusi melegségű fedett medencére; a forró víz a legjobb módszer arra, hogy este teljesen kiengedjen.",
                 "ro": "Treceți de la aerul rece de iarnă la piscina interioară tropicală; apa caldă este cea mai bună modalitate de a vă dezgheța complet seara.",
-                "en": "Transition straight from the freezing winter air into the tropical indoor pool facility; the warm water is the best way to entirely thaw out tonight."
+                "en": "Transition straight from the freezing winter air into the tropical indoor pool facility; the warm water is the best way to entirely thaw out tonight.",
+                "es": "Pasa directamente del helador aire invernal a la piscina tropical cubierta; el agua caliente es la mejor forma de descongelarte por completo esta noche."
               }
             }
           ]

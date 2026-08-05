@@ -31,7 +31,8 @@
             "de": "Heute das Rathaus der Stadt, schönes Gebäude.",
             "hu": "Ma a város városházája, gyönyörű épület.",
             "ro": "Astăzi este primăria orașului, o clădire frumoasă.",
-            "en": "Today the city hall, a beautiful building."
+            "en": "Today the city hall, a beautiful building.",
+            "es": "Hoy el ayuntamiento, un edificio hermoso."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Gotischer Wehrturm mitten in der Stadt.",
             "hu": "Gótikus védőtorony a város közepén.",
             "ro": "Turn de apărare gotic în mijlocul orașului.",
-            "en": "Gothic defense tower in the middle of the city."
+            "en": "Gothic defense tower in the middle of the city.",
+            "es": "Torre defensiva gótica en medio de la ciudad."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Interessanter Mix verschiedener Baustile.",
             "hu": "Különböző építészeti stílusok érdekes keveréke.",
             "ro": "Mix interesant de diferite stiluri arhitecturale.",
-            "en": "Interesting mix of different architectural styles."
+            "en": "Interesting mix of different architectural styles.",
+            "es": "Interesante mezcla de diferentes estilos arquitectónicos."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Sommerresidenz spanischer Monarchen.",
             "hu": "Spanyol uralkodók nyári rezidenciája.",
             "ro": "Reședința de vară a monarhilor spanioli.",
-            "en": "Summer residence of Spanish monarchs."
+            "en": "Summer residence of Spanish monarchs.",
+            "es": "Residencia de verano de monarcas españoles."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Zeit für ein baskisches Mittagessen mit Meerblick.",
             "hu": "Ideje egy tengerre néző baszk ebédnek.",
             "ro": "Timpul pentru un prânz basc cu vedere la mare.",
-            "en": "Time for a Basque lunch with sea views."
+            "en": "Time for a Basque lunch with sea views.",
+            "es": "Hora de un almuerzo vasco con vistas al mar."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Der längste Strand im Baskenland, ideal zum Surfen.",
             "hu": "Baszkföld leghosszabb strandja, ideális szörfözéshez.",
             "ro": "Cea mai lungă plajă din Țara Bascilor, ideală pentru surfing.",
-            "en": "The longest beach in the Basque Country, ideal for surfing."
+            "en": "The longest beach in the Basque Country, ideal for surfing.",
+            "es": "La playa más larga del País Vasco, ideal para surfear."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Der Spaziergang beginnt im Zentrum beim historischen Palast Portu und dem alten Wehrturm Luzea. Weiter geht es zur prächtigen Kirche Santa Maria la Real und dem royalen Palast von Narros am Rande des Strandes. Mittags genießen Sie die baskische Küche im bekannten Restaurant Karlos Arguiñano. Der Nachmittag gehört ganz dem weitläufigen Sandstrand von Zarautz, berühmt für seine Surfkultur.",
         "hu": "A séta a központban kezdődik a történelmi Portu palotánál és a régi Luzea védőtoronynál. Továbbhaladunk a pompás Santa Maria la Real templomhoz és a strand szélén álló királyi Narros palotához. Délben a híres Karlos Arguiñano étteremben élvezheti a baszk konyhát. A délután Zarautz hatalmas, szörfkultúrájáról híres homokos partjáé.",
         "ro": "Plimbarea începe în centru la istoricul Palat Portu și la vechiul turn de apărare Luzea. Continuăm spre magnifica biserică Santa Maria la Real și Palatul regal Narros de la marginea plajei. La prânz, savurați bucătăria bască în faimosul restaurant Karlos Arguiñano. După-amiaza este dedicată vastei plaje cu nisip din Zarautz, renumită pentru cultura sa de surf.",
-        "en": "The walk starts in the center at the historic Portu Palace and the old Luzea defense tower. It continues to the magnificent Santa Maria la Real church and the royal Narros Palace on the edge of the beach. At noon, enjoy Basque cuisine in the famous Karlos Arguiñano restaurant. The afternoon is dedicated to the vast sandy beach of Zarautz, famous for its surf culture."
+        "en": "The walk starts in the center at the historic Portu Palace and the old Luzea defense tower. It continues to the magnificent Santa Maria la Real church and the royal Narros Palace on the edge of the beach. At noon, enjoy Basque cuisine in the famous Karlos Arguiñano restaurant. The afternoon is dedicated to the vast sandy beach of Zarautz, famous for its surf culture.",
+        "es": "La caminata comienza en el centro en el histórico Palacio Portu y la antigua torre defensiva Luzea. Continúa hasta la magnífica iglesia de Santa María la Real y el palacio real Narros en el borde de la playa. Al mediodía, disfruta de la cocina vasca en el famoso restaurante de Karlos Arguiñano. La tarde está dedicada a la extensa playa de Zarautz, famosa por su cultura surfista."
       },
       "gastro_picks": {
         "de": [
@@ -289,6 +296,12 @@
           "Try surfing, there are many schools on the beach.",
           "The historic center is compact and easy to walk around.",
           "Make reservations in advance at the better restaurants."
+        ],
+        "es": [
+          "El paseo marítimo es perfecto para un paseo vespertino.",
+          "Prueba a surfear; hay muchas escuelas en la playa.",
+          "El casco histórico es compacto y fácil de recorrer a pie.",
+          "Reserva con antelación en los mejores restaurantes."
         ]
       },
       "variants": {
@@ -297,7 +310,8 @@
             "de": "Der Spaziergang beginnt im Zentrum beim historischen Palast Portu und dem alten Wehrturm Luzea. Weiter geht es zur prächtigen Kirche Santa Maria la Real und dem royalen Palast von Narros am Rande des Strandes. Mittags genießen Sie die baskische Küche im bekannten Restaurant Karlos Arguiñano. Der Nachmittag gehört ganz dem weitläufigen Sandstrand von Zarautz, berühmt für seine Surfkultur.",
             "hu": "A séta a központban kezdődik a történelmi Portu palotánál és a régi Luzea védőtoronynál. Továbbhaladunk a pompás Santa Maria la Real templomhoz és a strand szélén álló királyi Narros palotához. Délben a híres Karlos Arguiñano étteremben élvezheti a baszk konyhát. A délután Zarautz hatalmas, szörfkultúrájáról híres homokos partjáé.",
             "ro": "Plimbarea începe în centru la istoricul Palat Portu și la vechiul turn de apărare Luzea. Continuăm spre magnifica biserică Santa Maria la Real și Palatul regal Narros de la marginea plajei. La prânz, savurați bucătăria bască în faimosul restaurant Karlos Arguiñano. După-amiaza este dedicată vastei plaje cu nisip din Zarautz, renumită pentru cultura sa de surf.",
-            "en": "The walk starts in the center at the historic Portu Palace and the old Luzea defense tower. It continues to the magnificent Santa Maria la Real church and the royal Narros Palace on the edge of the beach. At noon, enjoy Basque cuisine in the famous Karlos Arguiñano restaurant. The afternoon is dedicated to the vast sandy beach of Zarautz, famous for its surf culture."
+            "en": "The walk starts in the center at the historic Portu Palace and the old Luzea defense tower. It continues to the magnificent Santa Maria la Real church and the royal Narros Palace on the edge of the beach. At noon, enjoy Basque cuisine in the famous Karlos Arguiñano restaurant. The afternoon is dedicated to the vast sandy beach of Zarautz, famous for its surf culture.",
+            "es": "La caminata comienza en el centro en el histórico Palacio Portu y la antigua torre defensiva Luzea. Continúa hasta la magnífica iglesia de Santa María la Real y el palacio real Narros en el borde de la playa. Al mediodía, disfruta de la cocina vasca en el famoso restaurante de Karlos Arguiñano. La tarde está dedicada a la extensa playa de Zarautz, famosa por su cultura surfista."
           },
           "stops": [
             {
@@ -306,7 +320,8 @@
                 "de": "Heute das Rathaus der Stadt, schönes Gebäude.",
                 "hu": "Ma a város városházája, gyönyörű épület.",
                 "ro": "Astăzi este primăria orașului, o clădire frumoasă.",
-                "en": "Today the city hall, a beautiful building."
+                "en": "Today the city hall, a beautiful building.",
+                "es": "Hoy el ayuntamiento, un edificio hermoso."
               }
             },
             {
@@ -315,7 +330,8 @@
                 "de": "Gotischer Wehrturm mitten in der Stadt.",
                 "hu": "Gótikus védőtorony a város közepén.",
                 "ro": "Turn de apărare gotic în mijlocul orașului.",
-                "en": "Gothic defense tower in the middle of the city."
+                "en": "Gothic defense tower in the middle of the city.",
+                "es": "Torre defensiva gótica en el centro de la ciudad."
               }
             },
             {
@@ -324,7 +340,8 @@
                 "de": "Interessanter Mix verschiedener Baustile.",
                 "hu": "Különböző építészeti stílusok érdekes keveréke.",
                 "ro": "Mix interesant de diferite stiluri arhitecturale.",
-                "en": "Interesting mix of different architectural styles."
+                "en": "Interesting mix of different architectural styles.",
+                "es": "Interesante mezcla de distintos estilos arquitectónicos."
               }
             },
             {
@@ -333,7 +350,8 @@
                 "de": "Sommerresidenz spanischer Monarchen.",
                 "hu": "Spanyol uralkodók nyári rezidenciája.",
                 "ro": "Reședința de vară a monarhilor spanioli.",
-                "en": "Summer residence of Spanish monarchs."
+                "en": "Summer residence of Spanish monarchs.",
+                "es": "Residencia veraniega de los monarcas españoles."
               }
             },
             {
@@ -342,7 +360,8 @@
                 "de": "Zeit für ein baskisches Mittagessen mit Meerblick.",
                 "hu": "Ideje egy tengerre néző baszk ebédnek.",
                 "ro": "Timpul pentru un prânz basc cu vedere la mare.",
-                "en": "Time for a Basque lunch with sea views."
+                "en": "Time for a Basque lunch with sea views.",
+                "es": "Hora de un almuerzo vasco con vistas al mar."
               }
             },
             {
@@ -351,7 +370,8 @@
                 "de": "Der längste Strand im Baskenland, ideal zum Surfen.",
                 "hu": "Baszkföld leghosszabb strandja, ideális szörfözéshez.",
                 "ro": "Cea mai lungă plajă din Țara Bascilor, ideală pentru surfing.",
-                "en": "The longest beach in the Basque Country, ideal for surfing."
+                "en": "The longest beach in the Basque Country, ideal for surfing.",
+                "es": "La playa más larga del País Vasco, ideal para surfear."
               }
             }
           ],
@@ -513,6 +533,12 @@
               "Try surfing, there are many schools on the beach.",
               "The historic center is compact and easy to walk around.",
               "Make reservations in advance at the better restaurants."
+            ],
+            "es": [
+              "El paseo marítimo es perfecto para un paseo vespertino.",
+              "Prueba el surf; hay muchas escuelas en la playa.",
+              "El casco histórico es compacto y fácil de recorrer a pie.",
+              "Reserva con antelación en los mejores restaurantes."
             ]
           }
         },
@@ -521,7 +547,8 @@
             "de": "Morgens erkunden wir die Paläste unter dem Schutz von Arkaden und Regenschirmen. Mittags bietet das Restaurant Arguiñano einen warmen Zufluchtsort mit Blick auf die stürmische See. Nachmittags besichtigen wir das Innere der Kirche, um dem Regen zu entfliehen. Der Abend endet gemütlich in den engen Gassen der Altstadt.",
             "hu": "Reggel esernyővel járjuk be a palotákat és a tornyot a belvárosban. Délben az Arguiñano étterem nyújt menedéket a hullámzó tenger látványával. Délután a templom belsejében száradunk meg a vihar elől. Az estét a hangulatos óvárosi bárok fedett teraszain zárjuk, távol a széltől.",
             "ro": "Dimineața explorăm palatele sub protecția umbrelelor în centrul vechi. La prânz, restaurantul Arguiñano oferă un refugiu cald cu vedere la marea agitată. După-amiaza vizităm interiorul bisericii pentru a scăpa de ploaie. Seara se încheie confortabil în tavernele ferite de vânt.",
-            "en": "Morning walk through the palaces using umbrellas and arcades for cover. Midday is spent enjoying the storm views from the warmth of Arguiñano. Afternoon visits to the church interior provide a dry escape. The evening concludes in the cozy, sheltered streets of the old town."
+            "en": "Morning walk through the palaces using umbrellas and arcades for cover. Midday is spent enjoying the storm views from the warmth of Arguiñano. Afternoon visits to the church interior provide a dry escape. The evening concludes in the cozy, sheltered streets of the old town.",
+            "es": "Paseo matinal entre palacios usando paraguas y soportales como refugio. Al mediodía disfrutamos de las vistas de la tormenta desde el calor de Arguiñano. Por la tarde las visitas al interior de la iglesia ofrecen una escapada seca. La noche concluye en las acogedoras y resguardadas calles del casco antiguo."
           },
           "stops": [
             {
@@ -530,7 +557,8 @@
                 "de": "Nutzen Sie den Haupteingang als schnellen Schutz vor Schauern.",
                 "hu": "Használja a főbejáratot gyors menedékként a zápor elől.",
                 "ro": "Folosiți intrarea principală ca adăpost rapid împotriva ploii.",
-                "en": "Use the main entrance as a quick shelter from passing showers."
+                "en": "Use the main entrance as a quick shelter from passing showers.",
+                "es": "Usa la entrada principal como refugio rápido de los chubascos."
               }
             },
             {
@@ -539,7 +567,8 @@
                 "de": "Die massiven Mauern bieten guten Windschutz auf der Straßenseite.",
                 "hu": "A masszív falak jó szélvédelmet nyújtanak az utca felőli oldalon.",
                 "ro": "Zidurile masive oferă o protecție bună împotriva vântului la stradă.",
-                "en": "The massive walls offer good wind protection on the street side."
+                "en": "The massive walls offer good wind protection on the street side.",
+                "es": "Los muros macizos protegen bien del viento en la parte de la calle."
               }
             },
             {
@@ -548,7 +577,8 @@
                 "de": "Perfekter Ort, um die archäologische Zone im Trockenen zu besichtigen.",
                 "hu": "Tökéletes hely a régészeti övezet szárazon történő megtekintésére.",
                 "ro": "Locul perfect pentru a vizita zona arheologică la adăpost.",
-                "en": "Perfect place to visit the archaeological zone while staying dry."
+                "en": "Perfect place to visit the archaeological zone while staying dry.",
+                "es": "Lugar perfecto para visitar la zona arqueológica manteniéndose seco."
               }
             },
             {
@@ -557,7 +587,8 @@
                 "de": "Beobachten Sie die Meeresgischt aus sicherer Entfernung vom Tor aus.",
                 "hu": "Figyelje a tengeri permetet biztonságos távolságból a kaputól.",
                 "ro": "Observați valurile de la o distanță sigură de lângă poartă.",
-                "en": "Watch the sea spray from a safe distance near the gate."
+                "en": "Watch the sea spray from a safe distance near the gate.",
+                "es": "Observa las salpicaduras del mar desde una distancia segura junto a la puerta."
               }
             },
             {
@@ -566,7 +597,8 @@
                 "de": "Genießen Sie den Blick auf die raue Biskaya bei einem Kaffee.",
                 "hu": "Élvezze a zord Vizcayai-öböl látványát egy forró kávé mellett.",
                 "ro": "Bucurați-vă de priveliștea Golfului Biscaya cu o cafea caldă.",
-                "en": "Enjoy the view of the rough Bay of Biscay over a hot coffee."
+                "en": "Enjoy the view of the rough Bay of Biscay over a hot coffee.",
+                "es": "Disfruta de la vista de la brava Bahía de Vizcaya con un café caliente."
               }
             },
             {
@@ -575,7 +607,8 @@
                 "de": "Der überdachte Bereich der Promenade ist ideal für den Meerblick.",
                 "hu": "A sétány fedett része ideális a tengeri panorámához esőben.",
                 "ro": "Zona acoperită a promenadei este ideală pentru vederea la mare.",
-                "en": "The covered section of the promenade is ideal for sea views."
+                "en": "The covered section of the promenade is ideal for sea views.",
+                "es": "La sección cubierta del paseo es ideal para ver el mar."
               }
             }
           ],
@@ -603,6 +636,12 @@
               "Use the arcaded walkways in the old town as natural rain cover.",
               "The surf is spectacular in the rain, but keep a distance from the edge.",
               "Plan longer breaks in the cafes along Calle Mayor."
+            ],
+            "es": [
+              "Lleva calzado impermeable, suelen formarse charcos en el paseo.",
+              "Utiliza los soportales del casco antiguo como cobertura natural contra la lluvia.",
+              "El oleaje es espectacular con lluvia, pero mantén distancia del borde.",
+              "Planifica descansos largos en los cafés de la Calle Mayor."
             ]
           }
         },
@@ -611,7 +650,8 @@
             "de": "Ein klarer Wintermorgen führt uns durch die historischen Residenzen. Mittags wärmen wir uns bei Karlos Arguiñano mit baskischer Küche auf. Der frühe Sonnenuntergang färbt den Strand in magisches Licht, bevor die kühle Meeresluft uns in die gemütlichen Tavernen treibt. Die Nacht ist ruhig und erfrischend.",
             "hu": "A tiszta téli reggelen bejárjuk a történelmi rezidenciákat. Délben Karlos Arguiñano konyhája melegít fel minket a tengeri szél után. A korai naplemente mágikus fényekbe öltözteti a partot, majd a hűvös levegő elől a hangulatos tavernákba húzódunk. Az éjszaka csendes és frissítő.",
             "ro": "O dimineață senină de iarnă ne poartă prin reședințele istorice. La prânz ne încălzim cu bucătăria bască la Karlos Arguiñano. Apusul timpuriu colorează plaja în lumini magice, apoi aerul rece ne trimite în tavernele primitoare. Noaptea este liniștită și revigorantă.",
-            "en": "A crisp winter morning leads us through the historic residences. At midday, warm up with Basque cuisine at Karlos Arguiñano. The early sunset paints the beach in magical colors before the cool sea air drives us into cozy taverns. The night is quiet and refreshing."
+            "en": "A crisp winter morning leads us through the historic residences. At midday, warm up with Basque cuisine at Karlos Arguiñano. The early sunset paints the beach in magical colors before the cool sea air drives us into cozy taverns. The night is quiet and refreshing.",
+            "es": "Una fresca mañana invernal nos lleva por las residencias históricas. Al mediodía, entra en calor con la cocina vasca en Karlos Arguiñano. El atardecer temprano pinta la playa con colores mágicos antes de que el fresco aire marino nos lleve a tabernas acogedoras. La noche es tranquila y reparadora."
           },
           "stops": [
             {
@@ -620,7 +660,8 @@
                 "de": "Besuchen Sie das Rathaus innen, um der Morgenkälte zu entfliehen.",
                 "hu": "Látogasson el a városháza belsejébe, hogy elkerülje a reggeli hideget.",
                 "ro": "Vizitați interiorul primăriei pentru a scăpa de frigul dimineții.",
-                "en": "Visit the town hall interior to escape the morning chill."
+                "en": "Visit the town hall interior to escape the morning chill.",
+                "es": "Visita el interior del ayuntamiento para escapar del frío matutino."
               }
             },
             {
@@ -629,7 +670,8 @@
                 "de": "Das Licht am Vormittag betont die Textur der alten Steine wunderbar.",
                 "hu": "A délelőtti fény gyönyörűen kiemeli a régi kövek textúráját.",
                 "ro": "Lumina dimineții subliniază minunat textura pietrelor vechi.",
-                "en": "The mid-morning light highlights the texture of the old stones beautifully."
+                "en": "The mid-morning light highlights the texture of the old stones beautifully.",
+                "es": "La luz de media mañana realza la textura de las piedras antiguas de forma preciosa."
               }
             },
             {
@@ -638,7 +680,8 @@
                 "de": "Die dicken Mauern speichern die Kälte, ziehen Sie sich warm an.",
                 "hu": "A vastag falak tartják a hideget, öltözzön fel melegen.",
                 "ro": "Zidurile groase rețin frigul, îmbrăcați-vă bine.",
-                "en": "The thick walls retain the cold; make sure to dress warmly."
+                "en": "The thick walls retain the cold; make sure to dress warmly.",
+                "es": "Los muros gruesos mantienen el frío; abrígate bien."
               }
             },
             {
@@ -647,7 +690,8 @@
                 "de": "Die Wintersonne steht perfekt für Fotos ohne harte Schatten.",
                 "hu": "A téli nap tökéletesen áll a fotózáshoz erős árnyékok nélkül.",
                 "ro": "Soarele de iarnă este perfect pentru poze fără umbre dure.",
-                "en": "The winter sun is perfectly positioned for photos without harsh shadows."
+                "en": "The winter sun is perfectly positioned for photos without harsh shadows.",
+                "es": "El sol invernal está perfectamente posicionado para fotos sin sombras duras."
               }
             },
             {
@@ -656,7 +700,8 @@
                 "de": "Probieren Sie die saisonalen Wintereintöpfe für maximale Wärme.",
                 "hu": "Kóstolja meg a szezonális téli egytálételeket a maximális melegségért.",
                 "ro": "Încercați tocănițele sezoniere de iarnă pentru a vă încălzi.",
-                "en": "Try the seasonal winter stews for maximum warmth."
+                "en": "Try the seasonal winter stews for maximum warmth.",
+                "es": "Prueba los guisos de temporada para entrar en calor."
               }
             },
             {
@@ -665,7 +710,8 @@
                 "de": "Seien Sie gegen 17:30 Uhr hier, um den Sonnenuntergang zu sehen.",
                 "hu": "Legyen itt 17:30 körül, hogy láthassa a téli naplementét.",
                 "ro": "Fiți aici în jurul orei 17:30 pentru a vedea apusul de soare.",
-                "en": "Be here around 5:30 PM to catch the winter sunset."
+                "en": "Be here around 5:30 PM to catch the winter sunset.",
+                "es": "Ven sobre las 17:30 para disfrutar del atardecer invernal."
               }
             }
           ],
@@ -693,6 +739,12 @@
               "The sun sets early in winter; it gets dark around 5:30 PM.",
               "Enjoy the peace, as Zarautz is much less crowded in winter.",
               "The surf is often more powerful and photogenic during winter months."
+            ],
+            "es": [
+              "La ropa por capas es esencial por el cortante viento marino.",
+              "El sol se pone temprano en invierno; se hace de noche sobre las 17:30.",
+              "Disfruta de la paz, Zarautz está mucho menos concurrido en invierno.",
+              "El oleaje suele ser más potente y fotogénico en los meses de invierno."
             ]
           }
         }
@@ -721,7 +773,8 @@
             "de": "Fotostopp am mittelalterlichen Turm.",
             "hu": "Fotómegálló a középkori toronynál.",
             "ro": "Oprire foto la turnul medieval.",
-            "en": "Photo stop at the medieval tower."
+            "en": "Photo stop at the medieval tower.",
+            "es": "Parada fotográfica en la torre medieval."
           }
         },
         {
@@ -739,7 +792,8 @@
             "de": "Spannende Ausstellung zur Geschichte der Fotografie.",
             "hu": "Izgalmas kiállítás a fotózás történetéről.",
             "ro": "Expoziție fascinantă despre istoria fotografiei.",
-            "en": "Fascinating exhibition on the history of photography."
+            "en": "Fascinating exhibition on the history of photography.",
+            "es": "Exposición fascinante sobre la historia de la fotografía."
           }
         },
         {
@@ -757,7 +811,8 @@
             "de": "Direkt am Meer gelegen.",
             "hu": "Közvetlenül a tengerparton fekszik.",
             "ro": "Situat direct pe malul mării.",
-            "en": "Located right on the sea."
+            "en": "Located right on the sea.",
+            "es": "Situado justo junto al mar."
           }
         },
         {
@@ -775,7 +830,8 @@
             "de": "Radeln Sie die lange Strandpromenade entlang.",
             "hu": "Tekerjen végig a hosszú parti sétányon.",
             "ro": "Pedalați de-a lungul lungii promenade de pe plajă.",
-            "en": "Cycle along the long beach promenade."
+            "en": "Cycle along the long beach promenade.",
+            "es": "Pedalea a lo largo del largo paseo marítimo."
           }
         },
         {
@@ -793,7 +849,8 @@
             "de": "Ein spätes Mittagessen oder Tapas-Pause.",
             "hu": "Kései ebéd vagy tapas szünet.",
             "ro": "Un prânz târziu sau o pauză cu tapas.",
-            "en": "A late lunch or tapas break."
+            "en": "A late lunch or tapas break.",
+            "es": "Almuerzo tardío o descanso de tapas."
           }
         },
         {
@@ -811,7 +868,8 @@
             "de": "Kurzer, aber lohnenswerter Aufstieg für die Aussicht.",
             "hu": "Rövid, de megéri a mászás a kilátásért.",
             "ro": "O urcare scurtă, dar care merită pentru priveliște.",
-            "en": "Short but worthwhile climb for the view."
+            "en": "Short but worthwhile climb for the view.",
+            "es": "Subida corta pero que vale la pena por las vistas."
           }
         }
       ],
@@ -819,7 +877,8 @@
         "de": "Zarautz lässt sich wunderbar mit dem Fahrrad erkunden. Vom Turm Luzea radeln Sie zum interessanten Photomuseum und weiter zum Palast von Narros an der Küste. Die kilometerlange Strandpromenade ist ein Highlight für Radfahrer und bietet frische Meeresbrise. Nach einer Stärkung beim Restaurant Karlos Arguiñano radeln Sie zur Einsiedelei Santa Barbara hinauf, um den Tag mit einem grandiosen Ausblick zu beenden.",
         "hu": "Zarautz csodálatosan felfedezhető kerékpárral. A Luzea toronytól az érdekes Fotómúzeumhoz, majd a parton álló Narros palotához kerekezünk. A kilométer hosszú tengerparti sétány fénypont a kerékpárosoknak, friss tengeri szellővel. A Karlos Arguiñano étteremnél tartott pihenő után feltekerhet a Santa Barbara remetelakhoz, hogy egy pazar kilátással zárja a napot.",
         "ro": "Zarautz este minunat de explorat cu bicicleta. De la turnul Luzea pedalați spre interesantul Photomuseum și mai departe spre Palatul Narros de pe coastă. Promenada lungă de kilometri de pe plajă este un punct de atracție pentru bicicliști și oferă o briză proaspătă de mare. După o gustare la restaurantul Karlos Arguiñano, pedalați până la schitul Santa Barbara pentru a încheia ziua cu o priveliște magnifică.",
-        "en": "Zarautz is wonderful to explore by bike. From the Luzea tower, cycle to the interesting Photomuseum and on to the Narros Palace on the coast. The kilometer-long beach promenade is a highlight for cyclists and offers a fresh sea breeze. After a refreshment at the Karlos Arguiñano restaurant, cycle up to the Santa Barbara hermitage to end the day with a magnificent view."
+        "en": "Zarautz is wonderful to explore by bike. From the Luzea tower, cycle to the interesting Photomuseum and on to the Narros Palace on the coast. The kilometer-long beach promenade is a highlight for cyclists and offers a fresh sea breeze. After a refreshment at the Karlos Arguiñano restaurant, cycle up to the Santa Barbara hermitage to end the day with a magnificent view.",
+        "es": "Zarautz es ideal para explorar en bici. Desde la torre Luzea, pedalea hasta el interesante Photomuseum y continúa hasta el palacio Narros en la costa. El paseo kilométrico de la playa es uno de los atractivos para ciclistas y ofrece una fresca brisa marina. Tras un refrigerio en el restaurante Karlos Arguiñano, sube a la ermita de Santa Bárbara para terminar el día con una vista magnífica."
       },
       "gastro_picks": {
         "de": [
@@ -979,6 +1038,12 @@
           "Take a lock with you if you go swimming.",
           "The climb to Santa Barbara is short but a bit tiring.",
           "Bike rentals are available in the city center."
+        ],
+        "es": [
+          "El paseo es llano y muy adecuado para bicicletas.",
+          "Lleva un candado si vas a nadar.",
+          "La subida a Santa Bárbara es corta pero algo exigente.",
+          "Hay alquiler de bicicletas en el centro de la ciudad."
         ]
       },
       "variants": {
@@ -987,7 +1052,8 @@
             "de": "Zarautz lässt sich wunderbar mit dem Fahrrad erkunden. Vom Turm Luzea radeln Sie zum interessanten Photomuseum und weiter zum Palast von Narros an der Küste. Die kilometerlange Strandpromenade ist ein Highlight für Radfahrer und bietet frische Meeresbrise. Nach einer Stärkung beim Restaurant Karlos Arguiñano radeln Sie zur Einsiedelei Santa Barbara hinauf, um den Tag mit einem grandiosen Ausblick zu beenden.",
             "hu": "Zarautz csodálatosan felfedezhető kerékpárral. A Luzea toronytól az érdekes Fotómúzeumhoz, majd a parton álló Narros palotához kerekezünk. A kilométer hosszú tengerparti sétány fénypont a kerékpárosoknak, friss tengeri szellővel. A Karlos Arguiñano étteremnél tartott pihenő után feltekerhet a Santa Barbara remetelakhoz, hogy egy pazar kilátással zárja a napot.",
             "ro": "Zarautz este minunat de explorat cu bicicleta. De la turnul Luzea pedalați spre interesantul Photomuseum și mai departe spre Palatul Narros de pe coastă. Promenada lungă de kilometri de pe plajă este un punct de atracție pentru bicicliști și oferă o briză proaspătă de mare. După o gustare la restaurantul Karlos Arguiñano, pedalați până la schitul Santa Barbara pentru a încheia ziua cu o priveliște magnifică.",
-            "en": "Zarautz is wonderful to explore by bike. From the Luzea tower, cycle to the interesting Photomuseum and on to the Narros Palace on the coast. The kilometer-long beach promenade is a highlight for cyclists and offers a fresh sea breeze. After a refreshment at the Karlos Arguiñano restaurant, cycle up to the Santa Barbara hermitage to end the day with a magnificent view."
+            "en": "Zarautz is wonderful to explore by bike. From the Luzea tower, cycle to the interesting Photomuseum and on to the Narros Palace on the coast. The kilometer-long beach promenade is a highlight for cyclists and offers a fresh sea breeze. After a refreshment at the Karlos Arguiñano restaurant, cycle up to the Santa Barbara hermitage to end the day with a magnificent view.",
+            "es": "Zarautz es ideal para explorar en bici. Desde la torre Luzea, pedalea hasta el interesante Photomuseum y continúa hasta el palacio Narros en la costa. El paseo kilométrico de la playa es uno de los atractivos para ciclistas y ofrece una fresca brisa marina. Tras un refrigerio en el restaurante Karlos Arguiñano, sube a la ermita de Santa Bárbara para terminar el día con una vista magnífica."
           },
           "stops": [
             {
@@ -996,7 +1062,8 @@
                 "de": "Fotostopp am mittelalterlichen Turm.",
                 "hu": "Fotómegálló a középkori toronynál.",
                 "ro": "Oprire foto la turnul medieval.",
-                "en": "Photo stop at the medieval tower."
+                "en": "Photo stop at the medieval tower.",
+                "es": "Parada fotográfica en la torre medieval."
               }
             },
             {
@@ -1005,7 +1072,8 @@
                 "de": "Spannende Ausstellung zur Geschichte der Fotografie.",
                 "hu": "Izgalmas kiállítás a fotózás történetéről.",
                 "ro": "Expoziție fascinantă despre istoria fotografiei.",
-                "en": "Fascinating exhibition on the history of photography."
+                "en": "Fascinating exhibition on the history of photography.",
+                "es": "Exposición fascinante sobre la historia de la fotografía."
               }
             },
             {
@@ -1014,7 +1082,8 @@
                 "de": "Direkt am Meer gelegen.",
                 "hu": "Közvetlenül a tengerparton fekszik.",
                 "ro": "Situat direct pe malul mării.",
-                "en": "Located right on the sea."
+                "en": "Located right on the sea.",
+                "es": "Situado justo junto al mar."
               }
             },
             {
@@ -1023,7 +1092,8 @@
                 "de": "Radeln Sie die lange Strandpromenade entlang.",
                 "hu": "Tekerjen végig a hosszú parti sétányon.",
                 "ro": "Pedalați de-a lungul lungii promenade de pe plajă.",
-                "en": "Cycle along the long beach promenade."
+                "en": "Cycle along the long beach promenade.",
+                "es": "Pedalea a lo largo del largo paseo marítimo."
               }
             },
             {
@@ -1032,7 +1102,8 @@
                 "de": "Ein spätes Mittagessen oder Tapas-Pause.",
                 "hu": "Kései ebéd vagy tapas szünet.",
                 "ro": "Un prânz târziu sau o pauză cu tapas.",
-                "en": "A late lunch or tapas break."
+                "en": "A late lunch or tapas break.",
+                "es": "Almuerzo tardío o descanso de tapas."
               }
             },
             {
@@ -1041,7 +1112,8 @@
                 "de": "Kurzer, aber lohnenswerter Aufstieg für die Aussicht.",
                 "hu": "Rövid, de megéri a mászás a kilátásért.",
                 "ro": "O urcare scurtă, dar care merită pentru priveliște.",
-                "en": "Short but worthwhile climb for the view."
+                "en": "Short but worthwhile climb for the view.",
+                "es": "Subida corta pero que vale la pena por las vistas."
               }
             }
           ],
@@ -1203,6 +1275,12 @@
               "Take a lock with you if you go swimming.",
               "The climb to Santa Barbara is short but a bit tiring.",
               "Bike rentals are available in the city center."
+            ],
+            "es": [
+              "El paseo es llano y muy adecuado para bicicletas.",
+              "Lleva un candado si vas a nadar.",
+              "La subida a Santa Bárbara es corta pero algo exigente.",
+              "Hay alquiler de bicicletas en el centro de la ciudad."
             ]
           }
         },
@@ -1211,7 +1289,8 @@
             "de": "Trotz Regen starten wir die Radtour vorsichtig zu den Türmen. Das Photomuseum bietet den perfekten langen Halt im Trockenen. Nach einer Pause am Palast trotzen wir dem Wetter am Strandweg. Mittags wärmt uns das Arguiñano auf, bevor wir die kurze Fahrt zur Einsiedelei wagen.",
             "hu": "Az eső ellenére óvatosan indulunk kerékpárral a toronyhoz. A Photomuseum tökéletes hosszú megálló a szárazon. A palotánál tett szünet után dacolunk az idővel a parti úton. Délben az Arguiñano melegít fel, mielőtt bevállaljuk a rövid utat a remetelakhoz.",
             "ro": "În ciuda ploii, începem turul cu bicicleta cu atenție spre turn. Photomuseum oferă oprirea perfectă la adăpost. După o pauză la palat, sfidăm vremea pe drumul de coastă. La prânz ne încălzim la Arguiñano înainte de drumul spre schit.",
-            "en": "Despite the rain, we start our bike tour carefully towards the towers. The Photomuseum offers the perfect long indoor stop. After a break at the palace, we brave the coastal path. Midday warmth at Arguiñano prepares us for the short ride to the hermitage."
+            "en": "Despite the rain, we start our bike tour carefully towards the towers. The Photomuseum offers the perfect long indoor stop. After a break at the palace, we brave the coastal path. Midday warmth at Arguiñano prepares us for the short ride to the hermitage.",
+            "es": "A pesar de la lluvia, comenzamos con cuidado la ruta en bici hacia las torres. El Photomuseum ofrece la parada perfecta y prolongada bajo techo. Tras un descanso en el palacio, afrontamos el camino costero. El calor del mediodía en Arguiñano nos prepara para la corta subida a la ermita."
           },
           "stops": [
             {
@@ -1220,7 +1299,8 @@
                 "de": "Vorsicht beim Abstellen der Räder auf dem nassen Kopfsteinpflaster.",
                 "hu": "Vigyázzon a kerékpárok leállításakor a nedves macskakövön.",
                 "ro": "Atenție la parcarea bicicletelor pe pavajul umed.",
-                "en": "Be careful when parking your bikes on the wet cobblestones."
+                "en": "Be careful when parking your bikes on the wet cobblestones.",
+                "es": "Ten cuidado al aparcar las bicis sobre los adoquines mojados."
               }
             },
             {
@@ -1229,7 +1309,8 @@
                 "de": "Idealer Ort, um die Räder draußen unter dem Dach zu lassen.",
                 "hu": "Ideális hely a kerékpárok kinti, tető alatti tárolására.",
                 "ro": "Loc ideal pentru a lăsa bicicletele afară, sub acoperiș.",
-                "en": "Ideal spot to leave your bikes outside under the roof overhang."
+                "en": "Ideal spot to leave your bikes outside under the roof overhang.",
+                "es": "Lugar ideal para dejar las bicis afuera bajo el alero."
               }
             },
             {
@@ -1238,7 +1319,8 @@
                 "de": "Kurzer Stopp, halten Sie Regenkleidung für die Weiterfahrt bereit.",
                 "hu": "Rövid megálló, tartsa készenlétben az esőruhát a továbbhaladáshoz.",
                 "ro": "Oprire scurtă, țineți pelerina de ploaie gata pentru drum.",
-                "en": "Short stop; keep your rain gear ready for the next stretch."
+                "en": "Short stop; keep your rain gear ready for the next stretch.",
+                "es": "Parada corta; ten la ropa de lluvia lista para el siguiente tramo."
               }
             },
             {
@@ -1247,7 +1329,8 @@
                 "de": "Fahren Sie langsam auf dem Holzsteg, er wird bei Nässe extrem glatt.",
                 "hu": "Hajtson lassan a fapallón, nedvesen rendkívül csúszós lesz.",
                 "ro": "Circulați încet pe pasarela de lemn, devine extrem de alunecoasă.",
-                "en": "Ride slowly on the wooden boardwalk; it becomes extremely slippery when wet."
+                "en": "Ride slowly on the wooden boardwalk; it becomes extremely slippery when wet.",
+                "es": "Circula despacio por el paseo de madera; se vuelve extremadamente resbaladizo con humedad."
               }
             },
             {
@@ -1256,7 +1339,8 @@
                 "de": "Trocknen Sie Ihre Ausrüstung kurz ab, bevor Sie das Lokal betreten.",
                 "hu": "Törölje meg röviden a felszerelését, mielőtt belép az étterembe.",
                 "ro": "Uscați-vă scurt echipamentul înainte de a intra în local.",
-                "en": "Quickly dry off your gear before entering the establishment."
+                "en": "Quickly dry off your gear before entering the establishment.",
+                "es": "Seca rápidamente tu equipo antes de entrar en el establecimiento."
               }
             },
             {
@@ -1265,7 +1349,8 @@
                 "de": "Der Anstieg kann bei Regen schlammig sein, nutzen Sie den Asphalt.",
                 "hu": "Az emelkedő sáros lehet esőben, használja az aszfaltos utat.",
                 "ro": "Urcarea poate fi noroioasă pe ploaie, folosiți drumul asfaltat.",
-                "en": "The climb can be muddy in the rain; stick to the asphalt path."
+                "en": "The climb can be muddy in the rain; stick to the asphalt path.",
+                "es": "La subida puede estar embarrada con lluvia; mantente en el camino asfaltado."
               }
             }
           ],
@@ -1293,6 +1378,12 @@
               "Avoid riding on white road markings; they become very slick.",
               "Mudguards are indispensable in this kind of Zarautz weather.",
               "A cycling poncho offers better protection than an umbrella while riding."
+            ],
+            "es": [
+              "Revisa los frenos: la distancia de frenado es mayor en el asfalto mojado.",
+              "Evita circular sobre las marcas blancas en la calzada; se vuelven muy resbaladizas.",
+              "Los guardabarros son indispensables con este tiempo en Zarautz.",
+              "Un poncho para ciclismo ofrece mejor protección que un paraguas al rodar."
             ]
           }
         },
@@ -1301,7 +1392,8 @@
             "de": "Ein frischer Wintermorgen auf zwei Rädern. Die klare Luft macht die Fahrt zum Photomuseum belebend. Mittags genießen wir die warme Atmosphäre bei Arguiñano direkt am Meer. Der Nachmittag führt uns zur Einsiedelei Santa Barbara für einen atemberaubenden, frühen Sonnenuntergang über der Bucht.",
             "hu": "Friss téli reggel két keréken. A tiszta levegő élénkítővé teszi az utat a Photomuseum felé. Délben élvezzük a meleg hangulatot az Arguiñanóban, közvetlenül a tengerparton. A délután a Santa Barbara remetelakhoz vezet a lenyűgöző, korai naplementéért az öböl felett.",
             "ro": "O dimineață răcoroasă de iarnă pe două roți. Aerul curat face drumul spre Photomuseum revigorant. La prânz ne bucurăm de atmosfera caldă de la Arguiñano. După-amiaza ne duce la schitul Santa Barbara pentru un apus superb deasupra golfului.",
-            "en": "A fresh winter morning on two wheels. The clear air makes the ride to the Photomuseum invigorating. At midday, enjoy the warm atmosphere at Arguiñano right by the sea. The afternoon leads us to Santa Barbara Hermitage for a stunning, early sunset over the bay."
+            "en": "A fresh winter morning on two wheels. The clear air makes the ride to the Photomuseum invigorating. At midday, enjoy the warm atmosphere at Arguiñano right by the sea. The afternoon leads us to Santa Barbara Hermitage for a stunning, early sunset over the bay.",
+            "es": "Una fresca mañana invernal sobre dos ruedas. El aire limpio hace vigorizante el trayecto hasta el Photomuseum. Al mediodía disfruta del cálido ambiente en Arguiñano junto al mar. La tarde nos lleva a la ermita de Santa Bárbara para un impresionante atardecer temprano sobre la bahía."
           },
           "stops": [
             {
@@ -1310,7 +1402,8 @@
                 "de": "Tragen Sie Handschuhe, der Fahrtwind kann morgens sehr beißen.",
                 "hu": "Viseljen kesztyűt, a menetszél reggelente nagyon csípős lehet.",
                 "ro": "Purtați mănuși, vântul poate fi foarte tăios dimineața.",
-                "en": "Wear gloves; the wind chill can be quite biting in the morning."
+                "en": "Wear gloves; the wind chill can be quite biting in the morning.",
+                "es": "Lleva guantes; la sensación térmica puede ser muy fría por la mañana."
               }
             },
             {
@@ -1319,7 +1412,8 @@
                 "de": "Nutzen Sie den Besuch, um die Hände aufzuwärmen.",
                 "hu": "Használja ki a látogatást a kezei felmelegítésére.",
                 "ro": "Folosiți vizita pentru a vă încălzi mâinile.",
-                "en": "Take advantage of the visit to warm up your hands."
+                "en": "Take advantage of the visit to warm up your hands.",
+                "es": "Aprovecha la visita para entibiarte las manos."
               }
             },
             {
@@ -1328,7 +1422,8 @@
                 "de": "Das tiefstehende Licht sorgt für tolle Schattenwürfe am Gebäude.",
                 "hu": "Az alacsony állású nap remek árnyékokat vet az épületre.",
                 "ro": "Soarele jos creează umbre superbe pe clădire.",
-                "en": "The low sun creates wonderful shadows on the building."
+                "en": "The low sun creates wonderful shadows on the building.",
+                "es": "El sol bajo crea sombras maravillosas en los edificios."
               }
             },
             {
@@ -1337,7 +1432,8 @@
                 "de": "Genießen Sie die leere Promenade für eine zügige Fahrt.",
                 "hu": "Élvezze az üres sétányt egy tempósabb tekeréshez.",
                 "ro": "Bucurați-vă de promenada goală pentru o plimbare rapidă.",
-                "en": "Enjoy the empty promenade for a brisk, uninterrupted ride."
+                "en": "Enjoy the empty promenade for a brisk, uninterrupted ride.",
+                "es": "Disfruta del paseo vacío para un recorrido enérgico e ininterrumpido."
               }
             },
             {
@@ -1346,7 +1442,8 @@
                 "de": "Parken Sie die Räder nah am Eingang, um schnell ins Warme zu kommen.",
                 "hu": "Parkoljon közel a bejárathoz, hogy gyorsan beérjen a melegbe.",
                 "ro": "Parcați bicicletele aproape de intrare pentru a intra rapid la căldură.",
-                "en": "Park your bikes close to the entrance to get inside quickly."
+                "en": "Park your bikes close to the entrance to get inside quickly.",
+                "es": "Aparca las bicis cerca de la entrada para entrar rápido."
               }
             },
             {
@@ -1355,7 +1452,8 @@
                 "de": "Nehmen Sie eine Thermoskanne für den Sonnenuntergang mit.",
                 "hu": "Vigyen magával termoszt a naplemente nézéséhez.",
                 "ro": "Luați un termos pentru vizionarea apusului.",
-                "en": "Bring a thermos along for the sunset viewing."
+                "en": "Bring a thermos along for the sunset viewing.",
+                "es": "Lleva un termo para ver el atardecer."
               }
             }
           ],
@@ -1383,6 +1481,12 @@
               "Days are short; make sure to turn on your lights from 5:00 PM.",
               "A windproof neck warmer protects your face and neck effectively.",
               "Winter tires aren't needed, but do check your tire pressure."
+            ],
+            "es": [
+              "Cuidado con la escarcha en puentes y carriles bici por la mañana.",
+              "Los días son cortos; enciende las luces desde las 17:00.",
+              "Un braga tubular cortaviento protege eficazmente cara y cuello.",
+              "No hacen falta neumáticos de invierno, pero revisa la presión de las ruedas."
             ]
           }
         }
@@ -1411,7 +1515,8 @@
             "de": "Morgendlicher Panoramablick über die Küste.",
             "hu": "Reggeli panoráma a tengerpartra.",
             "ro": "Vedere panoramică de dimineață asupra coastei.",
-            "en": "Morning panoramic view over the coast."
+            "en": "Morning panoramic view over the coast.",
+            "es": "Vista panorámica matinal sobre la costa."
           }
         },
         {
@@ -1429,7 +1534,8 @@
             "de": "Faszinierende Sammlung historischer Kameras.",
             "hu": "Történelmi fényképezőgépek lenyűgöző gyűjteménye.",
             "ro": "Colecție fascinantă de aparate foto istorice.",
-            "en": "Fascinating collection of historical cameras."
+            "en": "Fascinating collection of historical cameras.",
+            "es": "Colección fascinante de cámaras históricas."
           }
         },
         {
@@ -1447,7 +1553,8 @@
             "de": "Parken Sie zentral für diesen Stopp.",
             "hu": "Parkoljon központban ehhez a megállóhoz.",
             "ro": "Parcați central pentru această oprire.",
-            "en": "Park centrally for this stop."
+            "en": "Park centrally for this stop.",
+            "es": "Aparca en el centro para esta parada."
           }
         },
         {
@@ -1465,7 +1572,8 @@
             "de": "Baskische Gourmetküche mit Kultstatus.",
             "hu": "Kultikus státuszú baszk ínyenckonyha.",
             "ro": "Bucătărie gourmet bască cu statut de cult.",
-            "en": "Basque gourmet cuisine with cult status."
+            "en": "Basque gourmet cuisine with cult status.",
+            "es": "Cocina vasca gourmet con estatus de culto."
           }
         },
         {
@@ -1483,7 +1591,8 @@
             "de": "Fahrt entlang der Küste und entspannter Nachmittag.",
             "hu": "Utazás a part mentén és pihentető délután.",
             "ro": "Călătorie de-a lungul coastei și o după-amiază relaxantă.",
-            "en": "Drive along the coast and relaxing afternoon."
+            "en": "Drive along the coast and relaxing afternoon.",
+            "es": "Conduce por la costa y disfruta de una tarde relajante."
           }
         }
       ],
@@ -1491,7 +1600,8 @@
         "de": "Mit dem Auto lohnt sich zunächst die Fahrt hinauf zur Einsiedelei Santa Barbara für einen fantastischen Blick. Zurück in der Stadt parken Sie, um das Photomuseum und die historische Kirche Santa Maria la Real zu erkunden. Das renommierte Restaurant Karlos Arguiñano bietet sich für ein exzellentes Mittagessen an. Anschließend können Sie die Küstenstraße erkunden oder am langen Sandstrand entspannen.",
         "hu": "Autóval először érdemes felhajtani a Santa Barbara remetelakhoz a fantasztikus kilátásért. A városba visszatérve parkoljon le, hogy felfedezze a Fotómúzeumot és a történelmi Santa Maria la Real templomot. A neves Karlos Arguiñano étterem kiváló ebédet kínál. Ezután felfedezheti a parti utat, vagy pihenhet a hosszú homokos strandon.",
         "ro": "Cu mașina, merită mai întâi să conduceți până la schitul Santa Barbara pentru o priveliște fantastică. Întorși în oraș, parcați pentru a explora Photomuseum și biserica istorică Santa Maria la Real. Renumitul restaurant Karlos Arguiñano oferă un prânz excelent. Apoi puteți explora drumul de coastă sau vă puteți relaxa pe plaja lungă de nisip.",
-        "en": "By car, it is worth first driving up to the Santa Barbara hermitage for a fantastic view. Back in town, park to explore the Photomuseum and the historic Santa Maria la Real church. The renowned Karlos Arguiñano restaurant offers an excellent lunch. You can then explore the coastal road or relax on the long sandy beach."
+        "en": "By car, it is worth first driving up to the Santa Barbara hermitage for a fantastic view. Back in town, park to explore the Photomuseum and the historic Santa Maria la Real church. The renowned Karlos Arguiñano restaurant offers an excellent lunch. You can then explore the coastal road or relax on the long sandy beach.",
+        "es": "En coche, merece la pena subir primero a la ermita de Santa Bárbara para una vista fantástica. De regreso al pueblo, aparca para explorar el Photomuseum y la histórica iglesia de Santa María la Real. El renombrado restaurante Karlos Arguiñano ofrece un excelente almuerzo. Luego puedes recorrer la carretera costera o relajarte en la larga playa de arena."
       },
       "gastro_picks": {
         "de": [
@@ -1651,6 +1761,12 @@
           "Parking on the beach is very difficult in midsummer.",
           "Use the parking garages on the outskirts.",
           "A trip to the surrounding vineyards is worthwhile."
+        ],
+        "es": [
+          "La carretera costera hacia Getaria es pintoresca y muy recomendable.",
+          "Aparcar en la playa es muy difícil en pleno verano.",
+          "Usa los aparcamientos subterráneos en las afueras.",
+          "Vale la pena una excursión a los viñedos de los alrededores."
         ]
       },
       "variants": {
@@ -1659,7 +1775,8 @@
             "de": "Mit dem Auto lohnt sich zunächst die Fahrt hinauf zur Einsiedelei Santa Barbara für einen fantastischen Blick. Zurück in der Stadt parken Sie, um das Photomuseum und die historische Kirche Santa Maria la Real zu erkunden. Das renommierte Restaurant Karlos Arguiñano bietet sich für ein exzellentes Mittagessen an. Anschließend können Sie die Küstenstraße erkunden oder am langen Sandstrand entspannen.",
             "hu": "Autóval először érdemes felhajtani a Santa Barbara remetelakhoz a fantasztikus kilátásért. A városba visszatérve parkoljon le, hogy felfedezze a Fotómúzeumot és a történelmi Santa Maria la Real templomot. A neves Karlos Arguiñano étterem kiváló ebédet kínál. Ezután felfedezheti a parti utat, vagy pihenhet a hosszú homokos strandon.",
             "ro": "Cu mașina, merită mai întâi să conduceți până la schitul Santa Barbara pentru o priveliște fantastică. Întorși în oraș, parcați pentru a explora Photomuseum și biserica istorică Santa Maria la Real. Renumitul restaurant Karlos Arguiñano oferă un prânz excelent. Apoi puteți explora drumul de coastă sau vă puteți relaxa pe plaja lungă de nisip.",
-            "en": "By car, it is worth first driving up to the Santa Barbara hermitage for a fantastic view. Back in town, park to explore the Photomuseum and the historic Santa Maria la Real church. The renowned Karlos Arguiñano restaurant offers an excellent lunch. You can then explore the coastal road or relax on the long sandy beach."
+            "en": "By car, it is worth first driving up to the Santa Barbara hermitage for a fantastic view. Back in town, park to explore the Photomuseum and the historic Santa Maria la Real church. The renowned Karlos Arguiñano restaurant offers an excellent lunch. You can then explore the coastal road or relax on the long sandy beach.",
+            "es": "En coche, merece la pena subir primero a la ermita de Santa Bárbara para una vista fantástica. De vuelta en el pueblo, aparca para visitar el Fotomuseo y la histórica iglesia de Santa María la Real. El renombrado restaurante Karlos Arguiñano ofrece un excelente almuerzo. Luego puedes recorrer la carretera costera o relajarte en la larga playa de arena."
           },
           "stops": [
             {
@@ -1668,7 +1785,8 @@
                 "de": "Morgendlicher Panoramablick über die Küste.",
                 "hu": "Reggeli panoráma a tengerpartra.",
                 "ro": "Vedere panoramică de dimineață asupra coastei.",
-                "en": "Morning panoramic view over the coast."
+                "en": "Morning panoramic view over the coast.",
+                "es": "Panorámica matinal sobre la costa."
               }
             },
             {
@@ -1677,7 +1795,8 @@
                 "de": "Faszinierende Sammlung historischer Kameras.",
                 "hu": "Történelmi fényképezőgépek lenyűgöző gyűjteménye.",
                 "ro": "Colecție fascinantă de aparate foto istorice.",
-                "en": "Fascinating collection of historical cameras."
+                "en": "Fascinating collection of historical cameras.",
+                "es": "Fascinante colección de cámaras históricas."
               }
             },
             {
@@ -1686,7 +1805,8 @@
                 "de": "Parken Sie zentral für diesen Stopp.",
                 "hu": "Parkoljon központban ehhez a megállóhoz.",
                 "ro": "Parcați central pentru această oprire.",
-                "en": "Park centrally for this stop."
+                "en": "Park centrally for this stop.",
+                "es": "Aparca en el centro para esta parada."
               }
             },
             {
@@ -1695,7 +1815,8 @@
                 "de": "Baskische Gourmetküche mit Kultstatus.",
                 "hu": "Kultikus státuszú baszk ínyenckonyha.",
                 "ro": "Bucătărie gourmet bască cu statut de cult.",
-                "en": "Basque gourmet cuisine with cult status."
+                "en": "Basque gourmet cuisine with cult status.",
+                "es": "Cocina gourmet vasca con estatus de culto."
               }
             },
             {
@@ -1704,7 +1825,8 @@
                 "de": "Fahrt entlang der Küste und entspannter Nachmittag.",
                 "hu": "Utazás a part mentén és pihentető délután.",
                 "ro": "Călătorie de-a lungul coastei și o după-amiază relaxantă.",
-                "en": "Drive along the coast and relaxing afternoon."
+                "en": "Drive along the coast and relaxing afternoon.",
+                "es": "Conduce por la costa y tarde relajante."
               }
             }
           ],
@@ -1866,6 +1988,12 @@
               "Parking on the beach is very difficult in midsummer.",
               "Use the parking garages on the outskirts.",
               "A trip to the surrounding vineyards is worthwhile."
+            ],
+            "es": [
+              "La carretera costera hasta Getaria es pintoresca y muy recomendable.",
+              "Aparcar en la playa es muy difícil en pleno verano.",
+              "Utiliza los aparcamientos subterráneos en las afueras.",
+              "Vale la pena una excursión por los viñedos cercanos."
             ]
           }
         },
@@ -1874,7 +2002,8 @@
             "de": "Im komfortablen Auto geht es zur Einsiedelei, wo wir den Regen über dem Meer beobachten. Das Photomuseum ist der ideale Zufluchtsort für den Vormittag. Nach der Besichtigung der Kirche genießen wir ein entspanntes Mittagessen bei Arguiñano, während draußen die Wellen peitschen. Der Nachmittag am Strand bleibt trocken im Wagen.",
             "hu": "Kényelmes autóval indulunk a remetelakhoz, ahol a tenger feletti esőt figyeljük. A Photomuseum ideális menedék délelőttre. A templomlátogatás után pihentető ebédet fogyasztunk az Arguiñanóban, miközben kint ostoroznak a hullámok. A délutánt a parton szárazon, az autóban töltjük.",
             "ro": "Cu mașina confortabilă mergem la schit, unde observăm ploaia peste mare. Photomuseum este refugiul ideal pentru dimineață. După vizitarea bisericii, savurăm un prânz relaxat la Arguiñano. După-amiaza la plajă rămânem uscați în mașină.",
-            "en": "Travel comfortably by car to the hermitage to watch the rain over the sea. The Photomuseum is the perfect indoor refuge for the morning. After the church visit, enjoy a relaxed lunch at Arguiñano while waves crash outside. Spend the rainy afternoon at the beach from the dry comfort of your car."
+            "en": "Travel comfortably by car to the hermitage to watch the rain over the sea. The Photomuseum is the perfect indoor refuge for the morning. After the church visit, enjoy a relaxed lunch at Arguiñano while waves crash outside. Spend the rainy afternoon at the beach from the dry comfort of your car.",
+            "es": "Viaja cómodamente en coche hasta la ermita para ver la lluvia sobre el mar. El Fotomuseo es el refugio interior perfecto para la mañana. Tras la visita a la iglesia, disfruta de un almuerzo relajado en Arguiñano mientras las olas rompen afuera. Pasa la tarde lluviosa en la playa desde la comodidad seca de tu coche."
           },
           "stops": [
             {
@@ -1883,7 +2012,8 @@
                 "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie die Aussicht.",
                 "hu": "Heves esőben maradjon az autóban, és élvezze a kilátást.",
                 "ro": "Rămâneți în mașină pe ploaie torențială și admirați priveliștea.",
-                "en": "Stay in the car during heavy rain and enjoy the panoramic view."
+                "en": "Stay in the car during heavy rain and enjoy the panoramic view.",
+                "es": "Permanece en el coche durante lluvia intensa y disfruta de la vista panorámica."
               }
             },
             {
@@ -1892,7 +2022,8 @@
                 "de": "Das Parkhaus in der Nähe erspart den nassen Fußweg.",
                 "hu": "A közeli parkolóház megkíméli a vizes gyaloglástól.",
                 "ro": "Parcarea etajată din apropiere vă scutește de mersul prin ploaie.",
-                "en": "The nearby parking garage saves you from a wet walk."
+                "en": "The nearby parking garage saves you from a wet walk.",
+                "es": "El aparcamiento subterráneo cercano te evita una caminata bajo la lluvia."
               }
             },
             {
@@ -1901,7 +2032,8 @@
                 "de": "Kurzzeitparkplätze direkt davor sind bei Regen oft frei.",
                 "hu": "A közvetlen előtte lévő rövidtávú parkolók gyakran üresek esőben.",
                 "ro": "Locurile de parcare pe timp scurt din față sunt adesea libere pe ploaie.",
-                "en": "Short-term parking spots right in front are often available in the rain."
+                "en": "Short-term parking spots right in front are often available in the rain.",
+                "es": "En la lluvia suelen estar disponibles plazas de corta estancia justo en frente."
               }
             },
             {
@@ -1910,7 +2042,8 @@
                 "de": "Nutzen Sie den Valet-Service oder parken Sie nah am Seiteneingang.",
                 "hu": "Használja a parkolószolgálatot vagy parkoljon az oldalsó bejáratnál.",
                 "ro": "Folosiți serviciul de valet sau parcați lângă intrarea laterală.",
-                "en": "Use the valet service or park near the side entrance."
+                "en": "Use the valet service or park near the side entrance.",
+                "es": "Usa el servicio de valet o aparca cerca de la entrada lateral."
               }
             },
             {
@@ -1919,7 +2052,8 @@
                 "de": "Parken Sie mit Blick auf die Brandung für 'Storm Watching'.",
                 "hu": "Parkoljon a hullámtöréssel szemben a vihar megfigyeléséhez.",
                 "ro": "Parcați cu fața la valuri pentru a observa furtuna.",
-                "en": "Park facing the surf for some spectacular 'storm watching'."
+                "en": "Park facing the surf for some spectacular 'storm watching'.",
+                "es": "Aparca mirando al oleaje para un espectacular 'observación de tormentas'."
               }
             }
           ],
@@ -1947,6 +2081,12 @@
               "Indoor parking garages are your driest option in the center.",
               "Avoid parking directly by the sea wall during heavy storms.",
               "Make use of seat heaters after short excursions into the rain."
+            ],
+            "es": [
+              "La visibilidad puede verse limitada por la salpicadura marina y la lluvia en la costa.",
+              "Los garajes cubiertos son tu opción más seca en el centro.",
+              "Evita aparcar junto al muro de contención durante tempestades fuertes.",
+              "Aprovecha los asientos calefactados tras cortas excursiones bajo la lluvia."
             ]
           }
         },
@@ -1955,7 +2095,8 @@
             "de": "Ein sonniger, aber kalter Wintertag beginnt an der Einsiedelei mit Weitblick. Das Auto bietet uns den ganzen Tag wohlige Wärme zwischen den Stationen. Das Mittagessen bei Arguiñano ist der kulinarische Höhepunkt. Den Sonnenuntergang am Strand erleben wir windgeschützt, bevor wir die Heimreise antreten.",
             "hu": "Napsütéses, de hideg téli nap kezdődik a remetelaknál. Az autó egész nap kellemes meleget nyújt a megállók között. Az ebéd az Arguiñanóban a nap kulináris fénypontja. A naplementét a parton szélvédett helyen élvezzük, mielőtt hazaindulnánk.",
             "ro": "O zi de iarnă însorită, dar rece începe la schit cu o priveliște amplă. Mașina ne oferă căldură toată ziua între opriri. Prânzul la Arguiñano este punctul culminant culinar. Admirăm apusul la plajă, feriți de vânt, înainte de plecare.",
-            "en": "A sunny but cold winter day begins at the hermitage with vast views. The car provides cozy warmth between stops throughout the day. Lunch at Arguiñano is the culinary highlight. Experience the sunset at the beach sheltered from the wind before heading home."
+            "en": "A sunny but cold winter day begins at the hermitage with vast views. The car provides cozy warmth between stops throughout the day. Lunch at Arguiñano is the culinary highlight. Experience the sunset at the beach sheltered from the wind before heading home.",
+            "es": "Un día invernal soleado pero frío comienza en la ermita con vistas vastas. El coche proporciona calor entre paradas durante todo el día. El almuerzo en Arguiñano es el punto culminante culinario. Vive la puesta de sol en la playa protegido del viento antes de volver a casa."
           },
           "stops": [
             {
@@ -1964,7 +2105,8 @@
                 "de": "Die Auffahrt ist im Winter oft weniger befahren und entspannter.",
                 "hu": "A felvezető út télen gyakran kevésbé forgalmas és nyugodtabb.",
                 "ro": "Drumul de urcare este adesea mai puțin aglomerat și relaxant iarna.",
-                "en": "The drive up is often less busy and more relaxed in winter."
+                "en": "The drive up is often less busy and more relaxed in winter.",
+                "es": "La subida suele estar menos concurrida y más relajada en invierno."
               }
             },
             {
@@ -1973,7 +2115,8 @@
                 "de": "Parken Sie in der Sonne, um das Auto aufzuwärmen.",
                 "hu": "Parkoljon napos helyen, hogy felmelegedjen az autó.",
                 "ro": "Parcați la soare pentru a lăsa mașina să se încălzească.",
-                "en": "Park in the sun to help keep the car interior warm."
+                "en": "Park in the sun to help keep the car interior warm.",
+                "es": "Aparca al sol para ayudar a mantener el interior del coche caliente."
               }
             },
             {
@@ -1982,7 +2125,8 @@
                 "de": "Achten Sie auf Glätte in den schattigen Gassen der Altstadt.",
                 "hu": "Ügyeljen a jegesedésre az óváros árnyékos utcáiban.",
                 "ro": "Atenție la porțiunile înghețate în zonele umbrite din centrul vechi.",
-                "en": "Watch out for icy patches in the shaded streets of the old town."
+                "en": "Watch out for icy patches in the shaded streets of the old town.",
+                "es": "Ten cuidado con placas de hielo en las calles sombreadas del casco antiguo."
               }
             },
             {
@@ -1991,7 +2135,8 @@
                 "de": "Reservieren Sie einen Tisch am Fenster für die Wintersonne.",
                 "hu": "Foglaljon asztalt az ablaknál a téli napsütés élvezetéhez.",
                 "ro": "Rezervați o masă la fereastră pentru a prinde soarele de iarnă.",
-                "en": "Book a window table to soak up the winter sunshine."
+                "en": "Book a window table to soak up the winter sunshine.",
+                "es": "Reserva una mesa junto a la ventana para aprovechar el sol invernal."
               }
             },
             {
@@ -2000,7 +2145,8 @@
                 "de": "Nutzen Sie das Auto als Basis, um sich nach dem Strandgang aufzuwärmen.",
                 "hu": "Használja az autót bázisként, hogy felmelegedjen a parti séta után.",
                 "ro": "Folosiți mașina ca bază pentru a vă încălzi după plimbarea pe plajă.",
-                "en": "Use the car as a base to warm up after your beach walk."
+                "en": "Use the car as a base to warm up after your beach walk.",
+                "es": "Usa el coche como base para calentarte tras tu paseo por la playa."
               }
             }
           ],
@@ -2028,6 +2174,12 @@
               "Coastal roads can be slippery from salt spray during winter.",
               "Parking spots are much easier to find in Zarautz during the winter.",
               "Enjoy a heated drive with clear views of the Bay of Biscay."
+            ],
+            "es": [
+              "Revisa el parabrisas por escarcha por la mañana; lleva un rascador.",
+              "Las carreteras costeras pueden estar resbaladizas por la salpicadura durante el invierno.",
+              "En invierno es mucho más fácil encontrar plazas de aparcamiento en Zarautz.",
+              "Disfruta de un viaje con calefacción y vistas claras de la Bahía de Vizcaya."
             ]
           }
         }
@@ -2056,7 +2208,8 @@
             "de": "Beginnen Sie zentral nahe der Euskotren-Station.",
             "hu": "Kezdje a központban, az Euskotren állomás közelében.",
             "ro": "Începeți central lângă stația Euskotren.",
-            "en": "Start centrally near the Euskotren station."
+            "en": "Start centrally near the Euskotren station.",
+            "es": "Comienza céntrico cerca de la estación de Euskotren."
           }
         },
         {
@@ -2074,7 +2227,8 @@
             "de": "Kurzer Fußweg zum eleganten Rathaus.",
             "hu": "Rövid séta az elegáns városházához.",
             "ro": "Scurtă plimbare până la eleganta primărie.",
-            "en": "Short walk to the elegant city hall."
+            "en": "Short walk to the elegant city hall.",
+            "es": "Corto paseo hasta el elegante ayuntamiento."
           }
         },
         {
@@ -2092,7 +2246,8 @@
             "de": "Historisches Gebäude am Rande der Küste.",
             "hu": "Történelmi épület a part szélén.",
             "ro": "Clădire istorică la marginea coastei.",
-            "en": "Historic building on the edge of the coast."
+            "en": "Historic building on the edge of the coast.",
+            "es": "Edificio histórico al borde de la costa."
           }
         },
         {
@@ -2110,7 +2265,8 @@
             "de": "Lange Auszeit am berühmten Surfstrand.",
             "hu": "Hosszú kikapcsolódás a híres szörfstrandon.",
             "ro": "Pauză lungă pe faimoasa plajă de surf.",
-            "en": "Long timeout on the famous surf beach."
+            "en": "Long timeout on the famous surf beach.",
+            "es": "Larga pausa en la famosa playa de surf."
           }
         },
         {
@@ -2128,7 +2284,8 @@
             "de": "Abendessen oder späte Pintxos direkt am Strand.",
             "hu": "Vacsora vagy kései pintxos közvetlenül a parton.",
             "ro": "Cină sau pintxos târzii direct pe plajă.",
-            "en": "Dinner or late pintxos right on the beach."
+            "en": "Dinner or late pintxos right on the beach.",
+            "es": "Cena o pintxos tardíos justo en la playa."
           }
         }
       ],
@@ -2136,7 +2293,8 @@
         "de": "Dank der Euskotren-Verbindung erreichen Sie das Zentrum von Zarautz problemlos. Starten Sie Ihren Tag am Turm Luzea und schlendern Sie zum Palast Portu. Weiter geht es in Richtung Meer zum Palast von Narros. Den Nachmittag können Sie komplett dem langen Sandstrand von Zarautz widmen. Lassen Sie den Tag mit baskischen Köstlichkeiten im Restaurant Karlos Arguiñano ausklingen, bevor Sie die Bahn zurücknehmen.",
         "hu": "Az Euskotren kapcsolatnak köszönhetően könnyedén elérheti Zarautz központját. Kezdje a napot a Luzea toronynál, és sétáljon a Portu palotához. Tovább a tenger felé a Narros palotához érünk. A délutánt teljesen Zarautz hosszú homokos strandjának szentelheti. Zárja a napot baszk finomságokkal a Karlos Arguiñano étteremben, mielőtt vonatra szállna visszafelé.",
         "ro": "Datorită conexiunii Euskotren, puteți ajunge cu ușurință în centrul orașului Zarautz. Începeți-vă ziua la Turnul Luzea și plimbați-vă până la Palatul Portu. Continuați spre mare până la Palatul Narros. Puteți dedica întreaga după-amiază lungii plaje de nisip din Zarautz. Încheiați ziua cu delicatese basce la Restaurantul Karlos Arguiñano înainte de a lua trenul înapoi.",
-        "en": "Thanks to the Euskotren connection, you can easily reach the center of Zarautz. Start your day at the Luzea Tower and stroll to the Portu Palace. Continue towards the sea to the Narros Palace. You can dedicate the entire afternoon to the long sandy beach of Zarautz. End the day with Basque delicacies at the Karlos Arguiñano Restaurant before taking the train back."
+        "en": "Thanks to the Euskotren connection, you can easily reach the center of Zarautz. Start your day at the Luzea Tower and stroll to the Portu Palace. Continue towards the sea to the Narros Palace. You can dedicate the entire afternoon to the long sandy beach of Zarautz. End the day with Basque delicacies at the Karlos Arguiñano Restaurant before taking the train back.",
+        "es": "Gracias a la conexión Euskotren, puedes llegar fácilmente al centro de Zarautz. Empieza el día en la Torre Luzea y pasea hasta el Palacio Portu. Continúa hacia el mar hasta el Palacio Narros. Puedes dedicar toda la tarde a la larga playa de arena de Zarautz. Termina el día con delicias vascas en el Restaurante Karlos Arguiñano antes de volver en tren."
       },
       "gastro_picks": {
         "de": [
@@ -2296,6 +2454,12 @@
           "Trains run regularly, ideal for day trips.",
           "The center is a few minutes walk from the station.",
           "The beach is only a few minutes walk from the center."
+        ],
+        "es": [
+          "El Euskotren conecta Zarautz con San Sebastián y Bilbao.",
+          "Los trenes circulan regularmente, ideal para excursiones de un día.",
+          "El centro está a pocos minutos a pie desde la estación.",
+          "La playa está a solo unos minutos a pie desde el centro."
         ]
       },
       "variants": {
@@ -2304,7 +2468,8 @@
             "de": "Dank der Euskotren-Verbindung erreichen Sie das Zentrum von Zarautz problemlos. Starten Sie Ihren Tag am Turm Luzea und schlendern Sie zum Palast Portu. Weiter geht es in Richtung Meer zum Palast von Narros. Den Nachmittag können Sie komplett dem langen Sandstrand von Zarautz widmen. Lassen Sie den Tag mit baskischen Köstlichkeiten im Restaurant Karlos Arguiñano ausklingen, bevor Sie die Bahn zurücknehmen.",
             "hu": "Az Euskotren kapcsolatnak köszönhetően könnyedén elérheti Zarautz központját. Kezdje a napot a Luzea toronynál, és sétáljon a Portu palotához. Tovább a tenger felé a Narros palotához érünk. A délutánt teljesen Zarautz hosszú homokos strandjának szentelheti. Zárja a napot baszk finomságokkal a Karlos Arguiñano étteremben, mielőtt vonatra szállna visszafelé.",
             "ro": "Datorită conexiunii Euskotren, puteți ajunge cu ușurință în centrul orașului Zarautz. Începeți-vă ziua la Turnul Luzea și plimbați-vă până la Palatul Portu. Continuați spre mare până la Palatul Narros. Puteți dedica întreaga după-amiază lungii plaje de nisip din Zarautz. Încheiați ziua cu delicatese basce la Restaurantul Karlos Arguiñano înainte de a lua trenul înapoi.",
-            "en": "Thanks to the Euskotren connection, you can easily reach the center of Zarautz. Start your day at the Luzea Tower and stroll to the Portu Palace. Continue towards the sea to the Narros Palace. You can dedicate the entire afternoon to the long sandy beach of Zarautz. End the day with Basque delicacies at the Karlos Arguiñano Restaurant before taking the train back."
+            "en": "Thanks to the Euskotren connection, you can easily reach the center of Zarautz. Start your day at the Luzea Tower and stroll to the Portu Palace. Continue towards the sea to the Narros Palace. You can dedicate the entire afternoon to the long sandy beach of Zarautz. End the day with Basque delicacies at the Karlos Arguiñano Restaurant before taking the train back.",
+            "es": "Gracias a la conexión Euskotren, puedes llegar fácilmente al centro de Zarautz. Empieza el día en la Torre Luzea y pasea hasta el Palacio Portu. Continúa hacia el mar hasta el Palacio Narros. Puedes dedicar toda la tarde a la larga playa de arena de Zarautz. Termina el día con delicias vascas en el Restaurante Karlos Arguiñano antes de volver en tren."
           },
           "stops": [
             {
@@ -2313,7 +2478,8 @@
                 "de": "Beginnen Sie zentral nahe der Euskotren-Station.",
                 "hu": "Kezdje a központban, az Euskotren állomás közelében.",
                 "ro": "Începeți central lângă stația Euskotren.",
-                "en": "Start centrally near the Euskotren station."
+                "en": "Start centrally near the Euskotren station.",
+                "es": "Comienza céntrico cerca de la estación de Euskotren."
               }
             },
             {
@@ -2322,7 +2488,8 @@
                 "de": "Kurzer Fußweg zum eleganten Rathaus.",
                 "hu": "Rövid séta az elegáns városházához.",
                 "ro": "Scurtă plimbare până la eleganta primărie.",
-                "en": "Short walk to the elegant city hall."
+                "en": "Short walk to the elegant city hall.",
+                "es": "Corto paseo hasta el elegante ayuntamiento."
               }
             },
             {
@@ -2331,7 +2498,8 @@
                 "de": "Historisches Gebäude am Rande der Küste.",
                 "hu": "Történelmi épület a part szélén.",
                 "ro": "Clădire istorică la marginea coastei.",
-                "en": "Historic building on the edge of the coast."
+                "en": "Historic building on the edge of the coast.",
+                "es": "Edificio histórico al borde de la costa."
               }
             },
             {
@@ -2340,7 +2508,8 @@
                 "de": "Lange Auszeit am berühmten Surfstrand.",
                 "hu": "Hosszú kikapcsolódás a híres szörfstrandon.",
                 "ro": "Pauză lungă pe faimoasa plajă de surf.",
-                "en": "Long timeout on the famous surf beach."
+                "en": "Long timeout on the famous surf beach.",
+                "es": "Larga pausa en la famosa playa de surf."
               }
             },
             {
@@ -2349,7 +2518,8 @@
                 "de": "Abendessen oder späte Pintxos direkt am Strand.",
                 "hu": "Vacsora vagy kései pintxos közvetlenül a parton.",
                 "ro": "Cină sau pintxos târzii direct pe plajă.",
-                "en": "Dinner or late pintxos right on the beach."
+                "en": "Dinner or late pintxos right on the beach.",
+                "es": "Cena o pintxos tardíos justo en la playa."
               }
             }
           ],
@@ -2511,6 +2681,12 @@
               "Trains run regularly, ideal for day trips.",
               "The center is a few minutes walk from the station.",
               "The beach is only a few minutes walk from the center."
+            ],
+            "es": [
+              "El Euskotren conecta Zarautz con San Sebastián y Bilbao.",
+              "Los trenes circulan regularmente, ideal para excursiones de un día.",
+              "El centro está a pocos minutos a pie desde la estación.",
+              "La playa está a solo unos minutos a pie desde el centro."
             ]
           }
         },
@@ -2519,7 +2695,8 @@
             "de": "Mit dem Bus erreichen wir bequem die historischen Türme im Zentrum. Kurze Wege führen uns zum schützenden Photomuseum und den Palästen. Mittags bietet das Restaurant Arguiñano Wärme und Genuss. Den Nachmittag verbringen wir entspannt, während wir aus dem Busfenster die Regenlandschaft beobachten.",
             "hu": "Busszal kényelmesen érjük el a központi történelmi tornyokat. Rövid séták vezetnek a védett Photomuseumhoz és a palotákhoz. Délben az Arguiñano étterem nyújt meleget és élvezeteket. A délutánt pihentetően töltjük, a busz ablakából figyelve az esős tájat.",
             "ro": "Cu autobuzul ajungem confortabil la turnurile istorice din centru. Scurte plimbări ne duc la Photomuseum și la palate. La prânz, restaurantul Arguiñano oferă căldură și delicii. După-amiaza o petrecem relaxați, privind peisajul ploios pe fereastra autobuzului.",
-            "en": "Reach the central historic towers comfortably by bus. Short walks lead to the sheltered Photomuseum and palaces. Midday warmth and dining await at Arguiñano. Spend a relaxing afternoon watching the rainy landscape pass by from the bus window."
+            "en": "Reach the central historic towers comfortably by bus. Short walks lead to the sheltered Photomuseum and palaces. Midday warmth and dining await at Arguiñano. Spend a relaxing afternoon watching the rainy landscape pass by from the bus window.",
+            "es": "Llega cómodamente a las torres históricas centrales en autobús. Cortos paseos conducen al resguardado Fotomuseo y a los palacios. Al mediodía calor y comida en Arguiñano te esperan. Pasa una tarde relajante viendo el paisaje lluvioso pasar desde la ventana del autobús."
           },
           "stops": [
             {
@@ -2528,7 +2705,8 @@
                 "de": "Die Bushaltestelle liegt nur wenige Meter entfernt.",
                 "hu": "A buszmegálló mindössze néhány méterre található.",
                 "ro": "Stația de autobuz este la doar câțiva metri distanță.",
-                "en": "The bus stop is located just a few meters away."
+                "en": "The bus stop is located just a few meters away.",
+                "es": "La parada de autobús está situada a solo unos metros."
               }
             },
             {
@@ -2537,7 +2715,8 @@
                 "de": "Nutzen Sie den überdachten Bereich des Rathauses zum Warten.",
                 "hu": "Használja a városháza fedett részét a várakozáshoz.",
                 "ro": "Folosiți zona acoperită a primăriei pentru așteptare.",
-                "en": "Use the sheltered area of the town hall for waiting."
+                "en": "Use the sheltered area of the town hall for waiting.",
+                "es": "Utiliza la zona cubierta del ayuntamiento para esperar."
               }
             },
             {
@@ -2546,7 +2725,8 @@
                 "de": "Die Haltestelle bietet einen guten Unterstand bei Schauern.",
                 "hu": "A megálló jó védelmet nyújt a záporok idején.",
                 "ro": "Stația oferă un adăpost bun în timpul averselor.",
-                "en": "The stop provides good shelter during sudden showers."
+                "en": "The stop provides good shelter during sudden showers.",
+                "es": "La parada ofrece buen resguardo durante chaparrones repentinos."
               }
             },
             {
@@ -2555,7 +2735,8 @@
                 "de": "Der Bus fährt direkt parallel zur Promenade, ideal zum Aussteigen.",
                 "hu": "A busz közvetlenül a sétánnyal párhuzamosan halad, ideális kiszálláshoz.",
                 "ro": "Autobuzul merge paralel cu promenada, ideal pentru coborâre.",
-                "en": "The bus runs directly parallel to the promenade, ideal for getting off."
+                "en": "The bus runs directly parallel to the promenade, ideal for getting off.",
+                "es": "El autobús circula justo paralelo al paseo marítimo, ideal para bajar."
               }
             },
             {
@@ -2564,7 +2745,8 @@
                 "de": "Vom Bus aus sind es nur zwei Minuten Fußweg bis ins Trockene.",
                 "hu": "A busztól mindössze két perc séta a száraz helyig.",
                 "ro": "De la autobuz sunt doar două minute de mers până la adăpost.",
-                "en": "It's only a two-minute walk from the bus to get back indoors."
+                "en": "It's only a two-minute walk from the bus to get back indoors.",
+                "es": "Solo son dos minutos a pie desde el autobús para volver a entrar en un sitio cubierto."
               }
             }
           ],
@@ -2592,6 +2774,12 @@
               "The Euskotren station offers a dry waiting room.",
               "Buy a Mugi card in advance to avoid fumbling with cash in the wet.",
               "Buses are often crowded when it rains; try to board early."
+            ],
+            "es": [
+              "Usa la app Lurraldebus para salidas en tiempo real durante la lluvia.",
+              "La estación de Euskotren ofrece sala de espera cubierta.",
+              "Compra una tarjeta Mugi con antelación para evitar manejar efectivo con la ropa mojada.",
+              "Los autobuses suelen llenarse cuando llueve; intenta subir pronto."
             ]
           }
         },
@@ -2600,7 +2788,8 @@
             "de": "Winterreise mit den öffentlichen Verkehrsmitteln durch Zarautz. Die geheizten Busse machen den Weg zu den Residenzen sehr angenehm. Das Mittagessen am Meer bei Arguiñano wärmt Körper und Seele. Den frühen Sonnenuntergang genießen wir auf der kurzen Rückfahrt zum Bahnhof, während die Lichter der Stadt angehen.",
             "hu": "Téli utazás tömegközlekedéssel Zarautzban. A fűtött buszok kellemessé teszik az utat a rezidenciákhoz. A tengerparti ebéd az Arguiñanóban felmelegíti testünket és lelkünket. A korai naplementét a vasútállomásra tartó rövid úton élvezzük, miközben kigyúlnak a város fényei.",
             "ro": "Călătorie de iarnă cu transportul public prin Zarautz. Autobuzele încălzite fac drumul spre reședințe foarte plăcut. Prânzul la Arguiñano ne încălzește trupul și sufletul. Admirăm apusul timpuriu pe drumul spre gară, în timp ce se aprind luminile orașului.",
-            "en": "Winter travel by public transit through Zarautz. Heated buses make the trip to the residences very comfortable. Seaside lunch at Arguiñano warms both body and soul. Enjoy the early sunset on the short trip back to the station as the city lights flicker on."
+            "en": "Winter travel by public transit through Zarautz. Heated buses make the trip to the residences very comfortable. Seaside lunch at Arguiñano warms both body and soul. Enjoy the early sunset on the short trip back to the station as the city lights flicker on.",
+            "es": "Viaje invernal en transporte público por Zarautz. Los autobuses con calefacción hacen el trayecto hasta las viviendas muy cómodo. El almuerzo en la costa en Arguiñano calienta cuerpo y alma. Disfruta de la puesta de sol temprana en el corto trayecto de regreso a la estación mientras se encienden las luces de la ciudad."
           },
           "stops": [
             {
@@ -2609,7 +2798,8 @@
                 "de": "Im Winter sind die Busse pünktlich und weniger voll.",
                 "hu": "Télen a buszok pontosak és kevésbé zsúfoltak.",
                 "ro": "Iarna autobuzele sunt punctuale și mai puțin aglomerate.",
-                "en": "Buses are punctual and generally less crowded during winter."
+                "en": "Buses are punctual and generally less crowded during winter.",
+                "es": "Los autobuses son puntuales y generalmente menos concurridos en invierno."
               }
             },
             {
@@ -2618,7 +2808,8 @@
                 "de": "Wärmen Sie sich im Rathaus auf, bevor der nächste Bus kommt.",
                 "hu": "Melegedjen fel a városházán, mielőtt jön a következő busz.",
                 "ro": "Încălziți-vă în primărie înainte de următorul autobuz.",
-                "en": "Warm up inside the town hall before your next bus arrives."
+                "en": "Warm up inside the town hall before your next bus arrives.",
+                "es": "Calienta en el interior del ayuntamiento antes de que llegue tu próximo autobús."
               }
             },
             {
@@ -2627,7 +2818,8 @@
                 "de": "Die Abenddämmerung am Palast ist im Winter besonders stimmungsvoll.",
                 "hu": "Az alkonyat a palotánál télen különösen hangulatos.",
                 "ro": "Amurgul la palat este deosebit de atmosferic iarna.",
-                "en": "Twilight at the palace is especially atmospheric in winter."
+                "en": "Twilight at the palace is especially atmospheric in winter.",
+                "es": "El crepúsculo en el palacio es especialmente atmosférico en invierno."
               }
             },
             {
@@ -2636,7 +2828,8 @@
                 "de": "Nutzen Sie den Bus, um schnell vom kühlen Wind am Ufer wegzukommen.",
                 "hu": "Használja a buszt, hogy gyorsan elmeneküljön a parti hideg szél elől.",
                 "ro": "Folosiți autobuzul pentru a scăpa rapid de vântul rece de pe țărm.",
-                "en": "Take the bus to quickly escape the chilly wind at the shore."
+                "en": "Take the bus to quickly escape the chilly wind at the shore.",
+                "es": "Toma el autobús para escapar rápidamente del viento frío en la orilla."
               }
             },
             {
@@ -2645,7 +2838,8 @@
                 "de": "Die nahe Haltestelle ermöglicht einen gemütlichen Abend ohne langen Weg.",
                 "hu": "A közeli megálló lehetővé teszi a kellemes estét hosszú gyaloglás nélkül.",
                 "ro": "Stația apropiată permite o seară plăcută fără mers mult pe jos.",
-                "en": "The nearby stop allows for a cozy evening without a long walk."
+                "en": "The nearby stop allows for a cozy evening without a long walk.",
+                "es": "La parada cercana permite una velada acogedora sin una larga caminata."
               }
             }
           ],
@@ -2673,6 +2867,12 @@
               "Euskotren trains to San Sebastian run every half hour.",
               "Bus stations are well-lit and safe during the winter months.",
               "Enjoy the ride in heated compartments with great sea views."
+            ],
+            "es": [
+              "Los horarios pueden variar ligeramente en invierno; consúltalos antes.",
+              "Los trenes Euskotren a San Sebastián salen cada media hora.",
+              "Las paradas de autobús están bien iluminadas y son seguras durante el invierno.",
+              "Disfruta del trayecto en compartimentos calefactados con buenas vistas al mar."
             ]
           }
         }
@@ -2687,19 +2887,22 @@
       "de": "Baskisch ist hier sehr lebendig, in der Hauptgasse hörst du Euskara genauso oft wie Spanisch. Surfschulen am Strand sprechen alle Englisch, Tapas-Bars meist auch. 'Eskerrik asko' für Danke wirkt Wunder.",
       "hu": "A baszk itt erősen él, a főutcán annyiszor hallasz euskarát, mint spanyolt. A strandi szörfiskolák mind tudnak angolul, a pintxo-bárok többsége is. Az 'Eskerrik asko' (köszönöm) csodát tesz.",
       "ro": "Bască e foarte vie aici, pe strada principală auzi euskara la fel de des ca spaniolă. Școlile de surf de pe plajă vorbesc toate engleză, la fel multe baruri de pintxos. 'Eskerrik asko' (mulțumesc) face minuni.",
-      "en": "Basque is really alive here - on the main street you'll hear Euskara as often as Spanish. Surf schools all speak English, as do most pintxo bars. 'Eskerrik asko' for thank-you works wonders."
+      "en": "Basque is really alive here - on the main street you'll hear Euskara as often as Spanish. Surf schools all speak English, as do most pintxo bars. 'Eskerrik asko' for thank-you works wonders.",
+      "es": "El euskera aquí está muy vivo: en la calle principal oirás Euskara tanto como español. Las escuelas de surf hablan inglés, al igual que la mayoría de los bares de pintxos. 'Eskerrik asko' para dar las gracias funciona de maravilla."
     },
     "best_time_to_visit": {
       "de": "Juni bis September für Surfen und Strand, Wellen ganzjährig aber im Herbst am besten. Mitte September WSL-Surfwettkampf (Pro Zarautz) - Strand voll, aber Atmosphäre einmalig.",
       "hu": "Június-szeptember strandhoz és szörfhöz, a hullámok egész évben jönnek, de ősszel a legjobbak. Szeptember közepén a WSL Pro Zarautz szörfverseny, strand zsúfolt, hangulat egyedi.",
       "ro": "Iunie-septembrie pentru surf și plajă, valurile sunt tot anul dar cele mai bune toamna. La mijlocul lui septembrie e WSL Pro Zarautz, plaja e plină dar atmosfera e unică.",
-      "en": "June to September for surfing and beach. Waves run year-round but autumn is best. Mid-September brings the WSL Pro Zarautz contest - crowded sand, unforgettable atmosphere."
+      "en": "June to September for surfing and beach. Waves run year-round but autumn is best. Mid-September brings the WSL Pro Zarautz contest - crowded sand, unforgettable atmosphere.",
+      "es": "Junio a septiembre para surf y playa. Las olas son todo el año pero el otoño es lo mejor. A mediados de septiembre se celebra el WSL Pro Zarautz: arena concurrida, ambiente inolvidable."
     },
     "neighborhood_warnings": {
       "de": "Sehr sicher, junges Surfer-Publikum. Im Sommer ist die Promenade abends voll und laut bis spät, falls du ruhig schlafen willst, lieber ein Hotel hinter der Kirche. Strömungen am Westende vom Strand stark, niemals außerhalb der Flaggen schwimmen.",
       "hu": "Nagyon biztonságos, fiatal, szörfös közeg. Nyáron a sétány esténként hangos sokáig, ha csendre vágysz, foglalj a templom mögé. A strand nyugati végén erős áramlat, soha ne ússz a zászlókon kívül.",
       "ro": "Foarte sigur, public tânăr de surferi. Vara, promenada e zgomotoasă seara târziu, pentru liniște alege hotel în spatele bisericii. Curenții de la capătul vestic al plajei sunt puternici, nu înota niciodată dincolo de steaguri.",
-      "en": "Very safe, young surf crowd. Summer evenings the promenade stays loud late - if you want quiet sleep, book behind the church. Currents at the western end of the beach are strong, never swim outside the flags."
+      "en": "Very safe, young surf crowd. Summer evenings the promenade stays loud late - if you want quiet sleep, book behind the church. Currents at the western end of the beach are strong, never swim outside the flags.",
+      "es": "Muy seguro, público joven surfista. Las noches de verano el paseo sigue ruidoso hasta tarde: si quieres dormir tranquilo, reserva detrás de la iglesia. Las corrientes en el extremo oeste de la playa son fuertes; nunca nades fuera de las banderas."
     }
   }
 }

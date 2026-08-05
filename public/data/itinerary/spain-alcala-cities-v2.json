@@ -21,7 +21,8 @@
             "de": "Plaza de Cervantes",
             "hu": "Cervantes tér",
             "ro": "Piața Cervantes",
-            "en": "Cervantes Square"
+            "en": "Cervantes Square",
+            "es": "Plaza de Cervantes"
           },
           "coords": [
             -3.3644,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie Ihren Tag mit einem Kaffee in einem der Cafés am Platz.",
             "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában!",
             "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
-            "en": "Start your day with a coffee at one of the square's cafes."
+            "en": "Start your day with a coffee at one of the square's cafes.",
+            "es": "Empieza el día con un café en una de las terrazas de la plaza."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Corral de Comedias",
             "hu": "Corral de Comedias színház",
             "ro": "Corral de Comedias",
-            "en": "Corral de Comedias"
+            "en": "Corral de Comedias",
+            "es": "Corral de Comedias"
           },
           "coords": [
             -3.3649,
@@ -61,7 +64,8 @@
             "de": "Prüfen Sie, ob eine Führung verfügbar ist, um die einzigartige Geschichte zu erfahren.",
             "hu": "Nézze meg, van-e vezetett túra, hogy megismerje az egyedülálló történetét.",
             "ro": "Verificați dacă este disponibil un tur ghidat pentru a afla istoria sa unică.",
-            "en": "Check if a guided tour is available to learn its unique history."
+            "en": "Check if a guided tour is available to learn its unique history.",
+            "es": "Consulta si hay visita guiada disponible para conocer su historia única."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Calle Mayor",
             "hu": "Calle Mayor",
             "ro": "Calle Mayor",
-            "en": "Calle Mayor"
+            "en": "Calle Mayor",
+            "es": "Calle Mayor"
           },
           "coords": [
             -3.3675,
@@ -85,7 +90,8 @@
             "de": "Dies ist eine der längsten Arkadenstraßen Spaniens, ideal für einen Spaziergang.",
             "hu": "Ez Spanyolország egyik leghosszabb árkádos utcája, tökéletes egy sétára.",
             "ro": "Aceasta este una dintre cele mai lungi străzi cu arcade din Spania, ideală pentru o plimbare.",
-            "en": "This is one of the longest arcaded streets in Spain, perfect for a stroll."
+            "en": "This is one of the longest arcaded streets in Spain, perfect for a stroll.",
+            "es": "Es una de las calles porticadas más largas de España, perfecta para pasear."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Cervantes Geburtshaus",
             "hu": "Cervantes szülőháza",
             "ro": "Casa Natală a lui Cervantes",
-            "en": "Cervantes Birthplace Museum"
+            "en": "Cervantes Birthplace Museum",
+            "es": "Museo Casa Natal de Cervantes"
           },
           "coords": [
             -3.3688,
@@ -109,7 +116,8 @@
             "de": "Der Eintritt ist frei. Entdecken Sie das Leben im 16. Jahrhundert.",
             "hu": "A belépés ingyenes. Fedezze fel a 16. századi életet!",
             "ro": "Intrarea este gratuită. Descoperiți viața din secolul al XVI-lea.",
-            "en": "Admission is free. Discover what life was like in the 16th century."
+            "en": "Admission is free. Discover what life was like in the 16th century.",
+            "es": "La entrada es gratuita. Descubre cómo era la vida en el siglo XVI."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Regionales Archäologie-Museum",
             "hu": "Regionális Régészeti Múzeum",
             "ro": "Muzeul Regional de Arheologie",
-            "en": "Regional Archaeological Museum"
+            "en": "Regional Archaeological Museum",
+            "es": "Museo Arqueológico Regional"
           },
           "coords": [
             -3.3705,
@@ -133,7 +142,8 @@
             "de": "Verpassen Sie nicht die römischen Mosaike, die in der Gegend gefunden wurden.",
             "hu": "Ne hagyja ki a környéken talált római mozaikokat!",
             "ro": "Nu ratați mozaicurile romane găsite în zonă.",
-            "en": "Don't miss the Roman mosaics found in the area."
+            "en": "Don't miss the Roman mosaics found in the area.",
+            "es": "No te pierdas los mosaicos romanos hallados en la zona."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Magistralkathedrale",
             "hu": "Magisztrális székesegyház",
             "ro": "Catedrala Magistrală",
-            "en": "Magistral Cathedral"
+            "en": "Magistral Cathedral",
+            "es": "Catedral Magistral"
           },
           "coords": [
             -3.3695,
@@ -157,7 +168,8 @@
             "de": "Erklimmen Sie den Turm für eine großartige Aussicht auf die Stadt.",
             "hu": "Másszon fel a toronyba a városra nyíló nagyszerű kilátásért!",
             "ro": "Urcați în turn pentru o priveliște minunată asupra orașului.",
-            "en": "Climb the tower for a great view of the city."
+            "en": "Climb the tower for a great view of the city.",
+            "es": "Sube a la torre para una gran vista de la ciudad."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Universität von Alcalá",
             "hu": "Alcalái Egyetem",
             "ro": "Universitatea din Alcalá",
-            "en": "University of Alcalá"
+            "en": "University of Alcalá",
+            "es": "Universidad de Alcalá"
           },
           "coords": [
             -3.363,
@@ -181,7 +194,8 @@
             "de": "Nehmen Sie an einer Führung teil, um die beeindruckende Paraninfo-Halle zu sehen.",
             "hu": "Vegyen részt egy vezetett túrán, hogy megnézze a lenyűgöző Paraninfo termet!",
             "ro": "Participați la un tur ghidat pentru a vedea impresionanta sală Paraninfo.",
-            "en": "Take a guided tour to see the impressive Paraninfo hall."
+            "en": "Take a guided tour to see the impressive Paraninfo hall.",
+            "es": "Haz una visita guiada para ver el impresionante Paraninfo."
           }
         },
         {
@@ -189,7 +203,8 @@
             "de": "Palacio Laredo",
             "hu": "Laredo-palota",
             "ro": "Palatul Laredo",
-            "en": "Laredo Palace"
+            "en": "Laredo Palace",
+            "es": "Palacio Laredo"
           },
           "coords": [
             -3.3556,
@@ -205,7 +220,8 @@
             "de": "Bewundern Sie die Neo-Mudéjar-Architektur und die einzigartigen Räume im Inneren.",
             "hu": "Csodálja meg a neo-mudéjar építészetet és az egyedi belső termeket!",
             "ro": "Admirați arhitectura neo-mudéjară și camerele unice din interior.",
-            "en": "Admire the Neo-Mudéjar architecture and the unique rooms inside."
+            "en": "Admire the Neo-Mudéjar architecture and the unique rooms inside.",
+            "es": "Admira la arquitectura neomudéjar y las salas singulares del interior."
           }
         }
       ],
@@ -213,7 +229,8 @@
         "de": "Ihr Tag in Alcalá beginnt auf der belebten Plaza de Cervantes. Vormittags erkunden Sie das historische Herz der Stadt, einschließlich des alten Theaters und der langen Arkaden der Calle Mayor, die Sie zum Geburtsort von Cervantes führt. Nach einem Mittagessen voller lokaler Aromen tauchen Sie im Archäologischen Museum in die römische Vergangenheit ein. Der Nachmittag ist der prächtigen Kathedrale und dem prestigeträchtigen Universitätsgelände gewidmet, beides UNESCO-Welterbestätten. Beenden Sie Ihren Tag mit einem Besuch des fantasievollen Palacio Laredo.",
         "hu": "Az alcalái nap a nyüzsgő Cervantes téren kezdődik. A délelőttöt a történelmi városközpont felfedezésével tölti, beleértve a régi színházat és a Calle Mayor hosszú árkádjait, amelyek elvezetik Cervantes szülőházához. Egy helyi ízekkel teli ebéd után a Régészeti Múzeumban elmerülhet a római múltban. A délután a csodálatos székesegyházé és a tekintélyes egyetemi kampuszé, mindkettő UNESCO világörökségi helyszín. A napot a fantáziadús Laredo-palota meglátogatásával zárja.",
         "ro": "Ziua dumneavoastră în Alcalá începe în animata Piață Cervantes. Dimineața explorați inima istorică, inclusiv vechiul teatru și lungile arcade de pe Calle Mayor, care vă duc la casa natală a lui Cervantes. După un prânz plin de arome locale, pătrundeți în trecutul roman la Muzeul Arheologic. După-amiaza este dedicată magnificei catedrale și prestigiosului campus universitar, ambele situri ale Patrimoniului Mondial UNESCO. Încheiați ziua cu o vizită la imaginativul Palat Laredo.",
-        "en": "Your day in Alcalá begins in the bustling Plaza de Cervantes. The morning is spent exploring the historic heart, including the old theatre and the long arcades of Calle Mayor, leading you to Cervantes' birthplace. After a lunch full of local flavours, delve into the Roman past at the Archaeological Museum. The afternoon is dedicated to the magnificent cathedral and the prestigious university campus, both UNESCO World Heritage sites. End your day with a visit to the imaginative Laredo Palace."
+        "en": "Your day in Alcalá begins in the bustling Plaza de Cervantes. The morning is spent exploring the historic heart, including the old theatre and the long arcades of Calle Mayor, leading you to Cervantes' birthplace. After a lunch full of local flavours, delve into the Roman past at the Archaeological Museum. The afternoon is dedicated to the magnificent cathedral and the prestigious university campus, both UNESCO World Heritage sites. End your day with a visit to the imaginative Laredo Palace.",
+        "es": "Tu día en Alcalá empieza en la animada Plaza de Cervantes. La mañana se dedica a explorar el casco histórico, incluyendo el antiguo teatro y los largos pórticos de la Calle Mayor que te llevan a la casa natal de Cervantes. Tras un almuerzo con sabores locales, profundiza en el pasado romano en el Museo Arqueológico. La tarde se reserva para la magnífica catedral y el prestigioso campus universitario, ambos Patrimonio de la Humanidad. Termina el día con una visita al imaginativo Palacio Laredo."
       },
       "gastro_picks": {
         "de": [
@@ -409,6 +426,12 @@
           "Most museums are closed on Mondays, so plan accordingly.",
           "The university entrance has a fee, but the guided tour is worth it.",
           "Alcalá is famous for its storks; look up at the rooftops to see their nests."
+        ],
+        "es": [
+          "Lleva calzado cómodo, todo el casco histórico está empedrado.",
+          "La mayoría de los museos cierran los lunes, planifica en consecuencia.",
+          "La entrada a la universidad tiene coste, pero la visita guiada merece la pena.",
+          "Alcalá es famosa por sus cigüeñas; mira los tejados para ver sus nidos."
         ]
       },
       "variants": {
@@ -417,7 +440,8 @@
             "de": "Der Tag beginnt am nebligen Plaza de Cervantes. Die Arkaden der Calle Mayor bieten perfekten Schutz vor dem Regen, während Sie zwischen den historischen Gebäuden flanieren. Mittags ziehen Sie sich in das Cervantes-Museum zurück, um die trockene Atmosphäre zu genießen. Der Nachmittag gehört der beeindruckenden Kathedrale und der Universität, wobei die Innenhöfe Schutz bieten. Abends lassen Sie den Tag in einer gemütlichen Tapas-Bar unter den Arkaden ausklingen.",
             "hu": "A nap a ködös Cervantes téren indul. A Calle Mayor árkádjai tökéletes menedéket nyújtanak az eső elől, miközben a történelmi falak között sétálunk. Délben a Cervantes-múzeumba húzódunk be, élvezve a száraz, békés belsőt. A délutánt a lenyűgöző katedrális és az egyetem épületeiben töltjük, ahol a belső udvarok védenek a víztől. Este egy hangulatos, árkádok alatti tapas-bárban zárjuk a napot.",
             "ro": "Ziua începe în Plaza de Cervantes sub un cer plumburiu. Arcadele de pe Calle Mayor oferă protecție perfectă împotriva ploii în timp ce explorați centrul istoric. La prânz, vizitați Muzeul Cervantes pentru a vă bucura de o atmosferă caldă și uscată. După-amiaza este dedicată Catedralei și Universității, profitând de spațiile interioare. Seara se încheie într-un bar de tapas tradițional, adăpostiți sub arcadele celebrei străzi principale.",
-            "en": "The day begins at a misty Cervantes Square. The iconic arcades of Calle Mayor provide perfect shelter from the rain as you stroll through history. At midday, retreat into the Cervantes Birthplace Museum to enjoy the dry, indoor exhibits. The afternoon is spent exploring the Cathedral and the University's stunning interiors. Finish the evening in a cozy tapas bar tucked under the stone arches, listening to the rain outside."
+            "en": "The day begins at a misty Cervantes Square. The iconic arcades of Calle Mayor provide perfect shelter from the rain as you stroll through history. At midday, retreat into the Cervantes Birthplace Museum to enjoy the dry, indoor exhibits. The afternoon is spent exploring the Cathedral and the University's stunning interiors. Finish the evening in a cozy tapas bar tucked under the stone arches, listening to the rain outside.",
+            "es": "El día comienza en una brumosa Plaza de Cervantes. Los icónicos pórticos de la Calle Mayor ofrecen perfecto refugio de la lluvia mientras paseas por la historia. Al mediodía, resguárdate en el Museo Casa Natal de Cervantes para disfrutar de exposiciones secas e interiores. La tarde se dedica a explorar la Catedral y los impresionantes interiores de la Universidad. Termina la noche en una acogedora taberna de tapas bajo los arcos de piedra, escuchando la lluvia afuera."
           },
           "stops": [
             {
@@ -426,7 +450,8 @@
                 "de": "Suchen Sie Schutz unter den dichten Bäumen oder in den Cafés am Rand.",
                 "hu": "Keressen menedéket a sűrű fák alatt vagy a tér szélén lévő kávézókban.",
                 "ro": "Căutați adăpost sub copacii deși sau în cafenelele de la marginea pieții.",
-                "en": "Find shelter under the thick trees or in the perimeter cafes."
+                "en": "Find shelter under the thick trees or in the perimeter cafes.",
+                "es": "Busca refugio bajo los árboles frondosos o en las cafeterías del perímetro."
               }
             },
             {
@@ -435,7 +460,8 @@
                 "de": "Ein idealer Indoor-Stopp, um die Theatergeschichte im Trockenen zu erleben.",
                 "hu": "Ideális fedett megálló a színháztörténet száraz felfedezéséhez.",
                 "ro": "O oprire interioară ideală pentru a descoperi istoria teatrului la uscat.",
-                "en": "An ideal indoor stop to explore theatrical history while staying dry."
+                "en": "An ideal indoor stop to explore theatrical history while staying dry.",
+                "es": "Una parada interior ideal para explorar la historia teatral y mantenerse seco."
               }
             },
             {
@@ -444,7 +470,8 @@
                 "de": "Nutzen Sie die durchgehenden Arkaden, um ohne Schirm trocken zu bleiben.",
                 "hu": "Használja a folyamatos árkádokat, hogy esernyő nélkül is száraz maradjon.",
                 "ro": "Folosiți arcadele continue pentru a rămâne uscat fără umbrelă.",
-                "en": "Use the continuous arcades to stay dry without an umbrella."
+                "en": "Use the continuous arcades to stay dry without an umbrella.",
+                "es": "Usa los continuos pórticos para permanecer seco sin paraguas."
               }
             },
             {
@@ -453,7 +480,8 @@
                 "de": "Perfekt für Regentage: Die Ausstellungen sind alle überdacht.",
                 "hu": "Tökéletes esős napokra: a kiállítások mind fedettek.",
                 "ro": "Perfect pentru zilele ploioase: toate expozițiile sunt acoperite.",
-                "en": "Perfect for rainy days: all exhibits are under cover."
+                "en": "Perfect for rainy days: all exhibits are under cover.",
+                "es": "Perfecto para días de lluvia: todas las salas están cubiertas."
               }
             },
             {
@@ -462,7 +490,8 @@
                 "de": "Ein weitläufiger Innenraum, ideal für eine lange Regenpause.",
                 "hu": "Tágas belső terek, ideális egy hosszabb esőszünetre.",
                 "ro": "Spații interioare vaste, ideale pentru o pauză lungă de ploaie.",
-                "en": "Vast indoor spaces, ideal for a long break from the rain."
+                "en": "Vast indoor spaces, ideal for a long break from the rain.",
+                "es": "Amplios espacios interiores, ideales para una larga pausa a resguardo de la lluvia."
               }
             },
             {
@@ -471,7 +500,8 @@
                 "de": "Genießen Sie die Stille und Trockenheit in diesem gotischen Juwel.",
                 "hu": "Élvezze a csendet és a szárazságot ebben a gótikus ékszerdobozban.",
                 "ro": "Bucurați-vă de liniște și uscăciune în această bijuterie gotică.",
-                "en": "Enjoy the silence and dryness inside this Gothic gem."
+                "en": "Enjoy the silence and dryness inside this Gothic gem.",
+                "es": "Disfruta del silencio y la sequedad dentro de esta joya gótica."
               }
             },
             {
@@ -480,7 +510,8 @@
                 "de": "Die Kreuzgänge bieten Schutz bei der Besichtigung der Fassade.",
                 "hu": "A kerengők védelmet nyújtanak a homlokzat megtekintése közben.",
                 "ro": "Claustrele oferă adăpost în timp ce admirați fațada.",
-                "en": "The cloisters provide shelter while viewing the facade."
+                "en": "The cloisters provide shelter while viewing the facade.",
+                "es": "Los claustros ofrecen refugio mientras contemplas la fachada."
               }
             },
             {
@@ -489,7 +520,8 @@
                 "de": "Bewundern Sie die bunte Fliesenkunst im sicheren Innenbereich.",
                 "hu": "Csodálja meg a színes csempealkotásokat a biztonságos belső térben.",
                 "ro": "Admirați arta plăcilor ceramice în interiorul protejat.",
-                "en": "Admire the colorful tilework in the protected interior."
+                "en": "Admire the colorful tilework in the protected interior.",
+                "es": "Admira la cerámica policromada en el interior protegido."
               }
             }
           ],
@@ -517,6 +549,12 @@
               "Wear waterproof shoes as the old cobblestones can get slippery.",
               "Plan longer visits to the Archaeological Museum during heavy downpours.",
               "Carry a compact umbrella for the short uncovered crossings between stops."
+            ],
+            "es": [
+              "La Calle Mayor es tu mejor aliada bajo la lluvia gracias a sus largos pórticos.",
+              "Lleva calzado impermeable, los empedrados antiguos pueden resbalar.",
+              "Planifica visitas más largas al Museo Arqueológico en fuertes aguaceros.",
+              "Lleva un paraguas compacto para los tramos cortos sin cubierta entre paradas."
             ]
           }
         },
@@ -525,7 +563,8 @@
             "de": "Ein frischer Wintermorgen am Plaza de Cervantes lädt zu einem heißen Café con leche ein. Die klare Luft lässt die goldene Architektur der Universität besonders strahlen. Mittags wärmen Sie sich in den historischen Räumen des Cervantes-Hauses auf. Da die Sonne bereits gegen 17:45 Uhr untergeht, nutzen Sie das letzte Licht für den Laredo-Palast, bevor die Stadt in eine festliche Abendbeleuchtung taucht. Ein warmer Eintopf in der Altstadt rundet den Tag ab.",
             "hu": "Egy friss téli reggel a Cervantes téren egy forró café con leche után kiált. A tiszta levegőben az egyetem aranybarna épületei különösen ragyognak. Délben a Cervantes-ház történelmi falaiban melegszünk fel. Mivel a nap már 17:45 körül lemegy, az utolsó fényeket a Laredo-palotánál használjuk ki, mielőtt a város díszes esti kivilágítást kapna. Egy tál meleg spanyol egytálétel az óvárosban tökéletes zárás.",
             "ro": "O dimineață răcoroasă de iarnă în Plaza de Cervantes cere un 'café con leche' fierbinte. Aerul curat face ca arhitectura aurie a Universității să strălucească intens. La prânz, vă încălziți în camerele istorice ale Casei Cervantes. Deoarece soarele apune în jurul orei 17:45, profitați de ultima lumină la Palatul Laredo, înainte ca orașul să fie cuprins de iluminatul festiv. O cină caldă în centrul vechi încheie ziua.",
-            "en": "A crisp winter morning at Cervantes Square calls for a hot café con leche to start. The clear winter light makes the University’s golden sandstone facade glow. Spend the midday warming up inside the cozy Cervantes Birthplace. With sunset arriving around 17:45, catch the last rays at Laredo Palace before the town lights up for the evening. Conclude your day with a hearty Castilian stew in a traditional tavern in the old quarter."
+            "en": "A crisp winter morning at Cervantes Square calls for a hot café con leche to start. The clear winter light makes the University’s golden sandstone facade glow. Spend the midday warming up inside the cozy Cervantes Birthplace. With sunset arriving around 17:45, catch the last rays at Laredo Palace before the town lights up for the evening. Conclude your day with a hearty Castilian stew in a traditional tavern in the old quarter.",
+            "es": "Una fría mañana invernal en la Plaza de Cervantes pide un café con leche caliente. La luz clara de invierno hace brillar la fachada de piedra dorada de la Universidad. Pasa el mediodía calentándote dentro de la acogedora Casa Natal de Cervantes. Con la puesta de sol sobre las 17:45, disfruta los últimos rayos en el Palacio Laredo antes de que el pueblo se ilumine por la noche. Concluye con un contundente cocido castellano en una taberna tradicional del casco antiguo."
           },
           "stops": [
             {
@@ -534,7 +573,8 @@
                 "de": "Holen Sie sich einen heißen Kakao in einer der Konditoreien am Platz.",
                 "hu": "Vegyen egy forró kakaót a tér egyik cukrászdájában.",
                 "ro": "Luați o ciocolată caldă la una dintre cofetăriile din piață.",
-                "en": "Grab a hot chocolate at one of the pastry shops around the square."
+                "en": "Grab a hot chocolate at one of the pastry shops around the square.",
+                "es": "Toma un chocolate caliente en una de las pastelerías de la plaza."
               }
             },
             {
@@ -543,7 +583,8 @@
                 "de": "Das Holzinterieur strahlt eine angenehme Wärme aus.",
                 "hu": "A fa belső tér kellemes melegséget áraszt.",
                 "ro": "Interiorul din lemn emană o căldură plăcută.",
-                "en": "The wooden interior provides a cozy escape from the winter breeze."
+                "en": "The wooden interior provides a cozy escape from the winter breeze.",
+                "es": "El interior de madera ofrece un acogedor escape de la brisa invernal."
               }
             },
             {
@@ -552,7 +593,8 @@
                 "de": "Genießen Sie den Windschutz unter den Arkaden beim Schaufensterbummel.",
                 "hu": "Élvezze a szélvédelmet az árkádok alatt nézelődés közben.",
                 "ro": "Bucurați-vă de protecția împotriva vântului sub arcade.",
-                "en": "Enjoy the wind protection under the arcades while window shopping."
+                "en": "Enjoy the wind protection under the arcades while window shopping.",
+                "es": "Disfruta de la protección contra el viento bajo los pórticos mientras miras escaparates."
               }
             },
             {
@@ -561,7 +603,8 @@
                 "de": "Die dicken Mauern halten die Kälte draußen.",
                 "hu": "A vastag falak kint tartják a téli hideget.",
                 "ro": "Zidurile groase țin frigul afară.",
-                "en": "The thick stone walls keep the winter chill at bay."
+                "en": "The thick stone walls keep the winter chill at bay.",
+                "es": "Los gruesos muros de piedra mantienen a raya el frío invernal."
               }
             },
             {
@@ -570,7 +613,8 @@
                 "de": "Gut beheizt, ideal um die Winterkälte für eine Weile zu vergessen.",
                 "hu": "Jól fűtött, ideális hely a téli hideg elfelejtésére egy időre.",
                 "ro": "Bine încălzit, ideal pentru a uita de frigul iernii o perioadă.",
-                "en": "Well-heated, ideal for escaping the winter cold for a while."
+                "en": "Well-heated, ideal for escaping the winter cold for a while.",
+                "es": "Bien calefaccionado, ideal para escapar del frío por un rato."
               }
             },
             {
@@ -579,7 +623,8 @@
                 "de": "Achtung, in großen Kirchen kann es kühl sein – behalten Sie die Jacke an.",
                 "hu": "Vigyázat, a nagy templomokban hűvös lehet – hagyja magán a kabátot.",
                 "ro": "Atenție, în bisericile mari poate fi răcoare – păstrați haina pe voi.",
-                "en": "Note that large cathedrals can be chilly – keep your coat on."
+                "en": "Note that large cathedrals can be chilly – keep your coat on.",
+                "es": "Ten en cuenta que las catedrales grandes pueden estar frías: mantén el abrigo puesto."
               }
             },
             {
@@ -588,7 +633,8 @@
                 "de": "Das goldene Licht am späten Nachmittag ist perfekt für Fotos.",
                 "hu": "A késő délutáni aranyfények tökéletesek a fotózáshoz.",
                 "ro": "Lumina aurie de după-amiază târzie este perfectă pentru fotografii.",
-                "en": "The golden late afternoon light is perfect for photography."
+                "en": "The golden late afternoon light is perfect for photography.",
+                "es": "La cálida luz del atardecer es perfecta para la fotografía."
               }
             },
             {
@@ -597,7 +643,8 @@
                 "de": "Besuchen Sie diesen Ort vor 17:00 Uhr, um das Tageslicht zu nutzen.",
                 "hu": "Látogasson el ide 17:00 előtt, hogy kihasználja a nappali fényt.",
                 "ro": "Vizitați acest loc înainte de ora 17:00 pentru a profita de lumină.",
-                "en": "Visit before 17:00 to catch the remaining daylight."
+                "en": "Visit before 17:00 to catch the remaining daylight.",
+                "es": "Visita antes de las 17:00 para aprovechar la luz del día restante."
               }
             }
           ],
@@ -625,6 +672,12 @@
               "Sunset is around 17:45, so finish your outdoor sightseeing by then.",
               "Try the local 'Costrada de Alcalá' pastry for a warm energy boost.",
               "Cathedrals and historic stone floors can be cold; wear warm footwear."
+            ],
+            "es": [
+              "Vístete en capas; los museos están bien calefactados pero las calles pueden ser ventosas.",
+              "La puesta de sol es alrededor de las 17:45, así que termina las visitas al aire libre para entonces.",
+              "Prueba la 'Costrada de Alcalá' local para un impulso de energía caliente.",
+              "Las catedrales y los suelos de piedra históricos pueden estar fríos; lleva calzado cálido."
             ]
           }
         }
@@ -643,7 +696,8 @@
             "de": "Plaza de Cervantes",
             "hu": "Cervantes tér",
             "ro": "Piața Cervantes",
-            "en": "Cervantes Square"
+            "en": "Cervantes Square",
+            "es": "Plaza de Cervantes"
           },
           "coords": [
             -3.3644,
@@ -659,7 +713,8 @@
             "de": "Schließen Sie Ihr Fahrrad ab und genießen Sie die Atmosphäre, bevor die Menschenmassen kommen.",
             "hu": "Zárja le a biciklit és élvezze a hangulatot, mielőtt megérkezik a tömeg.",
             "ro": "Legați-vă bicicleta și bucurați-vă de atmosferă înainte de a se aglomera.",
-            "en": "Lock up your bike and enjoy the atmosphere before the crowds arrive."
+            "en": "Lock up your bike and enjoy the atmosphere before the crowds arrive.",
+            "es": "Asegura tu bici y disfruta del ambiente antes de que lleguen las multitudes."
           }
         },
         {
@@ -667,7 +722,8 @@
             "de": "Universität von Alcalá",
             "hu": "Alcalái Egyetem",
             "ro": "Universitatea din Alcalá",
-            "en": "University of Alcalá"
+            "en": "University of Alcalá",
+            "es": "Universidad de Alcalá"
           },
           "coords": [
             -3.363,
@@ -683,7 +739,8 @@
             "de": "Die Fassade ist atemberaubend. Nehmen Sie sich Zeit, die Details zu bewundern.",
             "hu": "A homlokzat lenyűgöző. Szánjon időt a részletek megcsodálására.",
             "ro": "Fațada este uimitoare. Acordați-vă timp pentru a admira detaliile.",
-            "en": "The facade is stunning. Take your time to admire the details."
+            "en": "The facade is stunning. Take your time to admire the details.",
+            "es": "La fachada es impresionante. Tómate tu tiempo para admirar los detalles."
           }
         },
         {
@@ -691,7 +748,8 @@
             "de": "Palacio Laredo",
             "hu": "Laredo-palota",
             "ro": "Palatul Laredo",
-            "en": "Laredo Palace"
+            "en": "Laredo Palace",
+            "es": "Palacio Laredo"
           },
           "coords": [
             -3.3556,
@@ -707,7 +765,8 @@
             "de": "Ein etwas weiterer Weg, aber die einzigartige Architektur ist die Radtour wert.",
             "hu": "Kicsit távolabb van, de az egyedi építészet megéri a biciklizést.",
             "ro": "Este puțin mai departe, dar arhitectura unică merită plimbarea cu bicicleta.",
-            "en": "A bit of a longer ride, but the unique architecture is worth the cycle."
+            "en": "A bit of a longer ride, but the unique architecture is worth the cycle.",
+            "es": "Un poco más lejos en bici, pero la arquitectura única merece la pena."
           }
         },
         {
@@ -715,7 +774,8 @@
             "de": "Cervantes Geburtshaus",
             "hu": "Cervantes szülőháza",
             "ro": "Casa Natală a lui Cervantes",
-            "en": "Cervantes Birthplace Museum"
+            "en": "Cervantes Birthplace Museum",
+            "es": "Museo Casa Natal de Cervantes"
           },
           "coords": [
             -3.3688,
@@ -731,7 +791,8 @@
             "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und treten Sie ein in die Welt von Don Quijote.",
             "hu": "Parkolja le a biciklit a közelben, és lépjen be Don Quijote világába.",
             "ro": "Parcați bicicleta în apropiere și pășiți în lumea lui Don Quijote.",
-            "en": "Park your bike nearby and step into the world of Don Quixote."
+            "en": "Park your bike nearby and step into the world of Don Quixote.",
+            "es": "Aparca la bici cerca y adéntrate en el mundo de Don Quijote."
           }
         },
         {
@@ -739,7 +800,8 @@
             "de": "Calle Mayor & Mittagessen",
             "hu": "Calle Mayor és ebéd",
             "ro": "Calle Mayor și prânz",
-            "en": "Calle Mayor & Lunch"
+            "en": "Calle Mayor & Lunch",
+            "es": "Calle Mayor y almuerzo"
           },
           "coords": [
             -3.3675,
@@ -755,7 +817,8 @@
             "de": "Schieben Sie Ihr Fahrrad durch diese belebte Straße und suchen Sie sich einen Tapas-Platz zum Mittagessen.",
             "hu": "Tolja a biciklit ezen a forgalmas utcán, és keressen egy tapas bárt ebédre.",
             "ro": "Împingeți bicicleta pe această stradă aglomerată și alegeți un loc de tapas pentru prânz.",
-            "en": "Walk your bike down this busy street and pick a tapas spot for lunch."
+            "en": "Walk your bike down this busy street and pick a tapas spot for lunch.",
+            "es": "Camina con tu bici por esta calle concurrida y elige un sitio de tapas para almorzar."
           }
         },
         {
@@ -763,7 +826,8 @@
             "de": "Magistralkathedrale",
             "hu": "Magisztrális székesegyház",
             "ro": "Catedrala Magistrală",
-            "en": "Magistral Cathedral"
+            "en": "Magistral Cathedral",
+            "es": "Catedral Magistral"
           },
           "coords": [
             -3.3695,
@@ -779,7 +843,8 @@
             "de": "Ein ruhiger Ort, um nach dem Mittagessen nachzudenken.",
             "hu": "Egy csendes hely az elmélkedésre ebéd után.",
             "ro": "Un loc liniștit pentru reflecție după prânz.",
-            "en": "A quiet place for reflection after lunch."
+            "en": "A quiet place for reflection after lunch.",
+            "es": "Un lugar tranquilo para la reflexión después de comer."
           }
         },
         {
@@ -787,7 +852,8 @@
             "de": "Regionales Archäologie-Museum",
             "hu": "Regionális Régészeti Múzeum",
             "ro": "Muzeul Regional de Arheologie",
-            "en": "Regional Archaeological Museum"
+            "en": "Regional Archaeological Museum",
+            "es": "Museo Arqueológico Regional"
           },
           "coords": [
             -3.3705,
@@ -803,7 +869,8 @@
             "de": "Beenden Sie Ihren Tag mit einer tiefen Reise in die römische Geschichte der Region.",
             "hu": "Zárja a napot egy mély merüléssel a régió római történelmében.",
             "ro": "Încheiați-vă ziua cu o incursiune profundă în istoria romană a regiunii.",
-            "en": "End your day with a deep dive into the region's Roman history."
+            "en": "End your day with a deep dive into the region's Roman history.",
+            "es": "Termina el día profundizando en la historia romana de la región."
           }
         }
       ],
@@ -811,7 +878,8 @@
         "de": "Beginnen Sie Ihren Radtag im Herzen von Alcalá, der Plaza de Cervantes. Eine kurze Fahrt bringt Sie zur prächtigen Universität. Weiter geht es zum etwas abgelegenen, aber faszinierenden Palacio Laredo, bevor Sie ins Zentrum zurückkehren. Der Vormittag gipfelt im Museumshaus von Cervantes. Nach einem gemütlichen Mittagessen an der Calle Mayor besuchen Sie die beeindruckende Kathedrale. Der Tag endet mit einem Besuch des Archäologischen Museums, das die lange Geschichte der Stadt zeigt.",
         "hu": "Kezdje a biciklis napot Alcalá szívében, a Cervantes téren. Egy rövid tekerés elviszi a csodálatos egyetemhez. Továbbhaladva a kissé távolabbi, de lenyűgöző Laredo-palotához, mielőtt visszatérne a központba. A délelőtt Cervantes múzeumházában csúcsosodik ki. Egy kellemes ebéd után a Calle Mayoron, látogasson el a lenyűgöző székesegyházhoz. A nap a Régészeti Múzeumban ér véget, amely bemutatja a város hosszú történelmét.",
         "ro": "Începeți-vă ziua pe bicicletă în inima orașului Alcalá, Piața Cervantes. O scurtă plimbare vă duce la magnifica Universitate. Continuați spre Palatul Laredo, puțin mai îndepărtat, dar fascinant, înainte de a vă întoarce în centru. Dimineața culminează la casa muzeu a lui Cervantes. După un prânz relaxat pe Calle Mayor, vizitați impresionanta Catedrală. Ziua se încheie cu o vizită la Muzeul Arheologic, care prezintă istoria îndelungată a orașului.",
-        "en": "Start your cycling day in the heart of Alcalá, Plaza de Cervantes. A short ride takes you to the magnificent University. Continue to the slightly more distant but fascinating Laredo Palace before heading back to the center. The morning culminates at Cervantes' museum house. After a leisurely lunch on Calle Mayor, visit the impressive Cathedral. The day ends with a visit to the Archaeological Museum, showcasing the city's long history."
+        "en": "Start your cycling day in the heart of Alcalá, Plaza de Cervantes. A short ride takes you to the magnificent University. Continue to the slightly more distant but fascinating Laredo Palace before heading back to the center. The morning culminates at Cervantes' museum house. After a leisurely lunch on Calle Mayor, visit the impressive Cathedral. The day ends with a visit to the Archaeological Museum, showcasing the city's long history.",
+        "es": "Comienza tu día en bici en el corazón de Alcalá, Plaza de Cervantes. Un corto paseo te lleva a la magnífica Universidad. Continúa hasta el algo más distante pero fascinante Palacio Laredo antes de volver al centro. La mañana culmina en la casa-museo de Cervantes. Tras un almuerzo tranquilo en la Calle Mayor, visita la impresionante Catedral. El día termina con una visita al Museo Arqueológico, que muestra la larga historia de la ciudad."
       },
       "gastro_picks": {
         "de": [
@@ -1007,6 +1075,12 @@
           "The old town is mostly flat, but be prepared for cobblestones.",
           "Wear a helmet and use lights if you plan to cycle into the evening.",
           "Bring a good lock, as you'll be leaving it at several stops."
+        ],
+        "es": [
+          "Revisa tu bici antes de salir, especialmente frenos y ruedas.",
+          "El casco antiguo es mayormente llano, pero prepárate para los adoquines.",
+          "Lleva casco y usa luces si piensas pedalear entrada la noche.",
+          "Lleva un buen candado, ya que lo dejarás en varias paradas."
         ]
       },
       "variants": {
@@ -1015,7 +1089,8 @@
             "de": "Regnerisches Radeln durch Alcalá erfordert Vorsicht auf dem Kopfsteinpflaster. Sie starten am Plaza de Cervantes und flüchten schnell in die Universität. Mittags nutzen Sie die Arkaden der Calle Mayor für eine überdachte Schiebestrecke. Der Nachmittag führt zur Kathedrale und zum Archäologischen Museum, wo das Fahrrad sicher im Trockenen parkt. Trotz Nässe bietet die Stadt durch ihre kurzen Wege eine gute Erreichbarkeit der Indoor-Attraktionen.",
             "hu": "Az esős biciklizés Alcalában óvatosságot igényel a macskaköveken. A Cervantes térről indulva gyorsan az egyetem felé vesszük az irányt. Délben a Calle Mayor árkádjait használjuk egy fedett sétálós szakaszhoz a géppel. A délután a katedrálisnál és a múzeumnál telik, ahol a bringa fedett helyen várhat. A nedvesség ellenére a város kompakt mérete miatt minden benti látnivaló gyorsan elérhető.",
             "ro": "Mersul pe bicicletă în Alcalá pe ploaie necesită atenție pe piatra cubică. Începeți din Plaza de Cervantes și vă îndreptați rapid spre Universitate. La prânz, folosiți arcadele de pe Calle Mayor pentru a merge pe lângă bicicletă la adăpost. După-amiaza aparține Catedralei și Muzeului Arheologic, unde bicicleta poate fi parcată la uscat. În ciuda ploii, distanțele scurte fac atracțiile interioare ușor accesibile.",
-            "en": "Rainy cycling in Alcalá requires extra care on the historic cobblestones. Start at Cervantes Square and head quickly for the University. At midday, use the Calle Mayor arcades to walk your bike under cover. Spend the afternoon at the Cathedral and Archaeology Museum, where bikes can be parked near entrances. Despite the wet, the city's compact layout ensures you're never far from a dry indoor sanctuary."
+            "en": "Rainy cycling in Alcalá requires extra care on the historic cobblestones. Start at Cervantes Square and head quickly for the University. At midday, use the Calle Mayor arcades to walk your bike under cover. Spend the afternoon at the Cathedral and Archaeology Museum, where bikes can be parked near entrances. Despite the wet, the city's compact layout ensures you're never far from a dry indoor sanctuary.",
+            "es": "Circular bajo la lluvia en Alcalá requiere cuidado extra en los adoquines históricos. Comienza en la Plaza de Cervantes y dirígete rápido a la Universidad. Al mediodía, usa los soportales de la Calle Mayor para caminar la bici a cubierto. Pasa la tarde en la Catedral y el Museo de Arqueología, donde se pueden aparcar las bicis cerca de las entradas. Pese a la lluvia, la disposición compacta de la ciudad hace que nunca estés lejos de un refugio seco."
           },
           "stops": [
             {
@@ -1024,7 +1099,8 @@
                 "de": "Vorsicht beim Anfahren: Das nasse Pflaster rund um den Platz ist rutschig.",
                 "hu": "Vigyázat az indulásnál: a tér körüli nedves burkolat csúszós.",
                 "ro": "Atenție la plecare: pavajul umed din jurul pieții este alunecos.",
-                "en": "Be careful starting off: the wet pavement around the square is slippery."
+                "en": "Be careful starting off: the wet pavement around the square is slippery.",
+                "es": "Ten cuidado al arrancar: el pavimento mojado alrededor de la plaza está resbaladizo."
               }
             },
             {
@@ -1033,7 +1109,8 @@
                 "de": "Sicherer Fahrradständer im überdachten Bereich suchen.",
                 "hu": "Keressen biztonságos kerékpártárolót a fedett részeken.",
                 "ro": "Căutați un suport de biciclete în zona acoperită.",
-                "en": "Look for a bike rack in a sheltered area near the entrance."
+                "en": "Look for a bike rack in a sheltered area near the entrance.",
+                "es": "Busca un aparcabicis en un área cubierta cerca de la entrada."
               }
             },
             {
@@ -1042,7 +1119,8 @@
                 "de": "Kurzer Stopp, parken Sie unter dem Vordach.",
                 "hu": "Rövid megálló, parkoljon az előtető alatt.",
                 "ro": "Oprire scurtă, parcați sub streașină.",
-                "en": "Short stop; try to park under the overhanging roof."
+                "en": "Short stop; try to park under the overhanging roof.",
+                "es": "Parada corta; intenta aparcar bajo el voladizo."
               }
             },
             {
@@ -1051,7 +1129,8 @@
                 "de": "Fahrrad draußen lassen und schnell ins Trockene huschen.",
                 "hu": "Hagyja kint a bringát, és gyorsan surranjon be a szárazba.",
                 "ro": "Lăsați bicicleta afară și intrați rapid la adăpost.",
-                "en": "Leave the bike and dash inside the dry museum."
+                "en": "Leave the bike and dash inside the dry museum.",
+                "es": "Deja la bici y corre al museo seco."
               }
             },
             {
@@ -1060,7 +1139,8 @@
                 "de": "Schieben Sie Ihr Rad unter den Arkaden, um selbst trocken zu bleiben.",
                 "hu": "Tolja a bringát az árkádok alatt, hogy Ön száraz maradjon.",
                 "ro": "Mergeți pe lângă bicicletă sub arcade pentru a rămâne uscat.",
-                "en": "Walk your bike under the arcades to keep yourself dry."
+                "en": "Walk your bike under the arcades to keep yourself dry.",
+                "es": "Camina con la bici bajo los soportales para mantenerte seco."
               }
             },
             {
@@ -1069,7 +1149,8 @@
                 "de": "Parken Sie das Rad nah am Eingang, um Regenzeit zu minimieren.",
                 "hu": "Parkoljon közel a bejárathoz, hogy minimalizálja az esőben töltött időt.",
                 "ro": "Parcați aproape de intrare pentru a minimiza timpul în ploaie.",
-                "en": "Park close to the entrance to minimize time spent in the rain."
+                "en": "Park close to the entrance to minimize time spent in the rain.",
+                "es": "Aparca cerca de la entrada para minimizar el tiempo bajo la lluvia."
               }
             },
             {
@@ -1078,7 +1159,8 @@
                 "de": "Nutzen Sie den Museumsbesuch, um die Kleidung zu trocknen.",
                 "hu": "Használja ki a múzeumlátogatást a ruházat megszárítására.",
                 "ro": "Folosiți vizita la muzeu pentru a vă usca hainele.",
-                "en": "Use the museum visit as a chance to dry off your gear."
+                "en": "Use the museum visit as a chance to dry off your gear.",
+                "es": "Aprovecha la visita al museo para secar tu equipo."
               }
             }
           ],
@@ -1106,6 +1188,12 @@
               "Avoid sudden braking, especially on the painted lines or smooth stones.",
               "Mudguards are essential to keep your back dry in these conditions.",
               "Calle Mayor is the perfect place to walk your bike while staying dry."
+            ],
+            "es": [
+              "Baja ligeramente la presión de los neumáticos para mejorar el agarre en piedras mojadas.",
+              "Evita frenar de golpe, especialmente en las marcas pintadas o en piedras lisas.",
+              "Los guardabarros son esenciales para mantener la espalda seca en estas condiciones.",
+              "La Calle Mayor es el lugar perfecto para caminar la bici y mantenerse seco."
             ]
           }
         },
@@ -1114,7 +1202,8 @@
             "de": "Die kühle Winterbrise macht das Radeln in Alcalá belebend. Start am sonnigen Cervantes-Platz, gefolgt von einer schnellen Fahrt zur Universität. Mittags locken die warmen Restaurants an der Calle Mayor. Der Nachmittag bietet klare Sicht auf die Türme der Stadt, bevor die Kälte gegen 17:00 Uhr spürbar anzieht. Nutzen Sie die flachen Wege der Stadt für eine entspannte Tour, und beenden Sie den Tag bei einem wärmenden Getränk in einer Bar nahe der Kathedrale.",
             "hu": "A hűvös téli szellő élénkítővé teszi a biciklizést Alcalában. Indulás a napos Cervantes térről, majd egy gyors kör az egyetemnél. Délben a Calle Mayor meleg éttermei hívogatnak. A délután tiszta kilátást nyújt a város tornyaira, mielőtt 17:00 körül érezhetően lehűlne a levegő. Használja ki a város sík útjait egy kényelmes túrához, majd zárja a napot egy melengető itallal a katedrális mellett.",
             "ro": "Briza răcoroasă de iarnă face mersul pe bicicletă revigorant. Începeți în Plaza de Cervantes, urmată de o plimbare rapidă spre Universitate. La prânz, restaurantele calde de pe Calle Mayor sunt primitoare. După-amiaza oferă vederi clare asupra turnurilor orașului, înainte ca frigul să se intensifice după ora 17:00. Profitați de traseele plate pentru un tur relaxat și încheiați ziua cu o băutură caldă.",
-            "en": "The cool winter breeze makes cycling through Alcalá an invigorating experience. Start at a crisp Cervantes Square, then zip over to the University facade. By midday, find a warm spot for lunch near Calle Mayor. The clear winter sky offers sharp views of the city's spires, but be ready for the temperature drop after 17:00. Take advantage of the flat terrain for an easy ride, ending with a hot drink in a tavern near the Cathedral."
+            "en": "The cool winter breeze makes cycling through Alcalá an invigorating experience. Start at a crisp Cervantes Square, then zip over to the University facade. By midday, find a warm spot for lunch near Calle Mayor. The clear winter sky offers sharp views of the city's spires, but be ready for the temperature drop after 17:00. Take advantage of the flat terrain for an easy ride, ending with a hot drink in a tavern near the Cathedral.",
+            "es": "La fresca brisa invernal hace que pedalear por Alcalá sea vigorizante. Comienza en una nítida Plaza de Cervantes y luego ve a la fachada de la Universidad. Al mediodía, busca un lugar cálido para almorzar cerca de la Calle Mayor. El cielo claro de invierno ofrece vistas nítidas de las agujas de la ciudad, pero prepárate para el descenso de temperatura después de las 17:00. Aprovecha el terreno llano para un paseo fácil, terminando con una bebida caliente en una taberna cerca de la Catedral."
           },
           "stops": [
             {
@@ -1123,7 +1212,8 @@
                 "de": "Handschuhe anziehen, der Fahrtwind am Morgen ist eisig.",
                 "hu": "Húzzon kesztyűt, a reggeli menetszél jeges.",
                 "ro": "Puneți-vă mănuși, vântul de dimineață este tăios.",
-                "en": "Wear gloves; the morning wind chill can be biting."
+                "en": "Wear gloves; the morning wind chill can be biting.",
+                "es": "Lleva guantes; la sensación térmica matinal puede ser mordiente."
               }
             },
             {
@@ -1132,7 +1222,8 @@
                 "de": "Nutzen Sie die Mittagssonne für Fotos an der Fassade.",
                 "hu": "Használja ki a déli napsütést a homlokzat fotózásához.",
                 "ro": "Profitați de soarele de la prânz pentru fotografii la fațadă.",
-                "en": "Make the most of the midday sun for photos of the facade."
+                "en": "Make the most of the midday sun for photos of the facade.",
+                "es": "Aprovecha el sol del mediodía para fotos de la fachada."
               }
             },
             {
@@ -1141,7 +1232,8 @@
                 "de": "Stoppen Sie hier, solange die Sonne noch wärmt.",
                 "hu": "Itt álljon meg, amíg még melegít a nap.",
                 "ro": "Opriți-vă aici cât timp soarele încă mai încălzește.",
-                "en": "Stop here while the sun is still high enough to provide warmth."
+                "en": "Stop here while the sun is still high enough to provide warmth.",
+                "es": "Detente aquí mientras el sol aún esté lo bastante alto como para dar calor."
               }
             },
             {
@@ -1150,7 +1242,8 @@
                 "de": "Fahrradschloss kann bei Frost klemmen – vorsichtshalber ölen.",
                 "hu": "A lakat fagyban szorulhat – elővigyázatosságból olajozza meg.",
                 "ro": "Antifurtul se poate bloca la îngheț – ungeți-l preventiv.",
-                "en": "Bike locks can stiffen in the cold; check they work smoothly."
+                "en": "Bike locks can stiffen in the cold; check they work smoothly.",
+                "es": "Los candados de bici pueden agarrotarse con el frío; comprueba que funcionan bien."
               }
             },
             {
@@ -1159,7 +1252,8 @@
                 "de": "Wählen Sie ein Restaurant mit Fahrradblick und Heizstrahlern.",
                 "hu": "Válasszon éttermet, ahonnan látja a bringát és van hősugárzó.",
                 "ro": "Alegeți un restaurant de unde vedeți bicicleta și care are încălzitoare.",
-                "en": "Pick a restaurant where you can keep an eye on your bike."
+                "en": "Pick a restaurant where you can keep an eye on your bike.",
+                "es": "Elige un restaurante desde el que puedas vigilar tu bici."
               }
             },
             {
@@ -1168,7 +1262,8 @@
                 "de": "Die Sonne steht tief – nutzen Sie das Licht für die Turmansicht.",
                 "hu": "Alacsonyan jár a nap – használja a fényt a torony fotózásához.",
                 "ro": "Soarele este jos – folosiți lumina pentru a vedea turnul.",
-                "en": "The sun is low – use the light for a great shot of the tower."
+                "en": "The sun is low – use the light for a great shot of the tower.",
+                "es": "El sol está bajo: usa la luz para una gran foto de la torre."
               }
             },
             {
@@ -1177,7 +1272,8 @@
                 "de": "Beenden Sie die Tour hier, bevor es nach Sonnenuntergang friert.",
                 "hu": "Itt fejezze be a túrát, mielőtt naplemente után fagyos lesz a levegő.",
                 "ro": "Încheiați turul aici înainte să înghețe după apus.",
-                "en": "Finish your ride here before the evening frost sets in."
+                "en": "Finish your ride here before the evening frost sets in.",
+                "es": "Termina tu paseo aquí antes de que aparezca la escarcha vespertina."
               }
             }
           ],
@@ -1205,6 +1301,12 @@
               "Winter light is crisp and excellent for architectural photography.",
               "Stay on the sunny side of the street as much as possible.",
               "Carry a thermos with a hot drink for your breaks."
+            ],
+            "es": [
+              "Lleva ropa cortaviento, con atención a extremidades (manos y orejas).",
+              "La luz invernal es nítida y excelente para la fotografía arquitectónica.",
+              "Mantente por el lado soleado de la calle tanto como sea posible.",
+              "Lleva un termo con bebida caliente para tus pausas."
             ]
           }
         }
@@ -1223,7 +1325,8 @@
             "de": "Parken & Plaza de Cervantes",
             "hu": "Parkolás és Cervantes tér",
             "ro": "Parcare și Piața Cervantes",
-            "en": "Parking & Cervantes Square"
+            "en": "Parking & Cervantes Square",
+            "es": "Aparcamiento y Plaza de Cervantes"
           },
           "coords": [
             -3.362,
@@ -1239,7 +1342,8 @@
             "de": "Parken Sie auf dem Parkplatz 'El Mercado' und gehen Sie zum Platz.",
             "hu": "Parkoljon az 'El Mercado' parkolóházban, és sétáljon a térre.",
             "ro": "Parcați în parcarea 'El Mercado' și mergeți pe jos până în piață.",
-            "en": "Park in the 'El Mercado' car park and walk to the square."
+            "en": "Park in the 'El Mercado' car park and walk to the square.",
+            "es": "Aparca en el parking 'El Mercado' y camina hasta la plaza."
           }
         },
         {
@@ -1247,7 +1351,8 @@
             "de": "Calle Mayor",
             "hu": "Calle Mayor",
             "ro": "Calle Mayor",
-            "en": "Calle Mayor"
+            "en": "Calle Mayor",
+            "es": "Calle Mayor"
           },
           "coords": [
             -3.3675,
@@ -1263,7 +1368,8 @@
             "de": "Ein schöner Morgenspaziergang unter den Arkaden.",
             "hu": "Kellemes reggeli séta az árkádok alatt.",
             "ro": "O plimbare plăcută de dimineață sub arcade.",
-            "en": "A lovely morning walk under the arcades."
+            "en": "A lovely morning walk under the arcades.",
+            "es": "Un encantador paseo matinal bajo los soportales."
           }
         },
         {
@@ -1271,7 +1377,8 @@
             "de": "Cervantes Geburtshaus",
             "hu": "Cervantes szülőháza",
             "ro": "Casa Natală a lui Cervantes",
-            "en": "Cervantes Birthplace Museum"
+            "en": "Cervantes Birthplace Museum",
+            "es": "Museo Casa Natal de Cervantes"
           },
           "coords": [
             -3.3688,
@@ -1287,7 +1394,8 @@
             "de": "Tauchen Sie ein in das Leben des berühmtesten Sohnes der Stadt.",
             "hu": "Merüljön el a város leghíresebb fiának életében.",
             "ro": "Cufundați-vă în viața celui mai faimos fiu al orașului.",
-            "en": "Immerse yourself in the life of the city's most famous son."
+            "en": "Immerse yourself in the life of the city's most famous son.",
+            "es": "Sumérgete en la vida del hijo más famoso de la ciudad."
           }
         },
         {
@@ -1295,7 +1403,8 @@
             "de": "Magistralkathedrale",
             "hu": "Magisztrális székesegyház",
             "ro": "Catedrala Magistrală",
-            "en": "Magistral Cathedral"
+            "en": "Magistral Cathedral",
+            "es": "Catedral Magistral"
           },
           "coords": [
             -3.3695,
@@ -1311,7 +1420,8 @@
             "de": "Ein Meisterwerk der Gotik und ein wichtiger historischer Ort.",
             "hu": "A gótika mesterműve és fontos történelmi helyszín.",
             "ro": "O capodoperă a goticului și un sit istoric important.",
-            "en": "A masterpiece of Gothic style and an important historical site."
+            "en": "A masterpiece of Gothic style and an important historical site.",
+            "es": "Una obra maestra del estilo gótico y un importante sitio histórico."
           }
         },
         {
@@ -1319,7 +1429,8 @@
             "de": "Fahrt zum Universitätsviertel",
             "hu": "Autózás az egyetemi negyedbe",
             "ro": "Cu mașina spre cartierul universitar",
-            "en": "Drive to University District"
+            "en": "Drive to University District",
+            "es": "Conduce hasta el Barrio Universitario"
           },
           "coords": [
             -3.363,
@@ -1335,7 +1446,8 @@
             "de": "Fahren und parken Sie in der Nähe der Universität. Nehmen Sie an einer Führung teil und essen Sie in der Gegend zu Mittag.",
             "hu": "Vezessen és parkoljon az egyetem közelében. Vegyen részt egy vezetett túrán, és ebédeljen a környéken.",
             "ro": "Conduceți și parcați lângă Universitate. Faceți un tur ghidat și luați prânzul în zonă.",
-            "en": "Drive and park near the University. Take a guided tour and have lunch in the area."
+            "en": "Drive and park near the University. Take a guided tour and have lunch in the area.",
+            "es": "Conduce y aparca cerca de la Universidad. Haz una visita guiada y almuerza por la zona."
           }
         },
         {
@@ -1343,7 +1455,8 @@
             "de": "Palacio Laredo",
             "hu": "Laredo-palota",
             "ro": "Palatul Laredo",
-            "en": "Laredo Palace"
+            "en": "Laredo Palace",
+            "es": "Palacio Laredo"
           },
           "coords": [
             -3.3556,
@@ -1359,7 +1472,8 @@
             "de": "Ein kurzer Spaziergang vom Universitätsgelände zu diesem architektonischen Juwel.",
             "hu": "Rövid séta az egyetemi kampusztól ehhez az építészeti gyöngyszemhez.",
             "ro": "O scurtă plimbare de la campusul universitar la această bijuterie arhitecturală.",
-            "en": "A short walk from the university campus to this architectural gem."
+            "en": "A short walk from the university campus to this architectural gem.",
+            "es": "A poca distancia a pie del campus universitario hasta esta joya arquitectónica."
           }
         },
         {
@@ -1367,7 +1481,8 @@
             "de": "Römisches Forum & Archäologie-Museum",
             "hu": "Római Fórum és Régészeti Múzeum",
             "ro": "Forumul Roman și Muzeul de Arheologie",
-            "en": "Roman Forum & Archaeology Museum"
+            "en": "Roman Forum & Archaeology Museum",
+            "es": "Foro Romano y Museo Arqueológico"
           },
           "coords": [
             -3.3705,
@@ -1383,7 +1498,8 @@
             "de": "Fahren Sie zurück ins Zentrum, um die römischen Überreste zu erkunden. Der Komplex ist weitläufig.",
             "hu": "Vezessen vissza a központba, hogy felfedezze a római kori maradványokat. A komplexum kiterjedt.",
             "ro": "Conduceți înapoi în centru pentru a explora vestigiile romane. Complexul este extins.",
-            "en": "Drive back towards the center to explore the Roman remains. The complex is extensive."
+            "en": "Drive back towards the center to explore the Roman remains. The complex is extensive.",
+            "es": "Vuelve conduciendo hacia el centro para explorar los restos romanos. El complejo es extenso."
           }
         }
       ],
@@ -1391,7 +1507,8 @@
         "de": "Beginnen Sie Ihren Tag, indem Sie im Zentrum von Alcalá parken und den historischen Kern zu Fuß erkunden. Der Vormittag ist Cervantes gewidmet, von seinem Geburtsort bis zu den Straßen, die er ging. Sie spazieren durch die Calle Mayor und besuchen die beeindruckende Kathedrale. Mittags fahren Sie zum Universitätsviertel, einem UNESCO-Juwel, wo Sie zu Mittag essen und den fantasievollen Palacio Laredo entdecken können. Der Nachmittag endet mit einer weiteren kurzen Fahrt, die Sie tief in die römische Vergangenheit der Stadt im Archäologischen Museum und den Ruinen des Forums führt.",
         "hu": "Kezdje a napot Alcalá központjában parkolva, és fedezze fel gyalog a történelmi magot. A délelőtt Cervantesé, a szülőházától az általa járt utcákig. Végigsétál a Calle Mayoron, és meglátogatja a lenyűgöző székesegyházat. Délben átautózik az egyetemi negyedbe, egy UNESCO gyöngyszembe, ahol megebédelhet és felfedezheti a fantáziadús Laredo-palotát. A délután egy újabb rövid autóúttal zárul, amely mélyen elvezeti a város római múltjába a Régészeti Múzeumban és a fórum romjainál.",
         "ro": "Începeți ziua parcând în centrul orașului Alcalá și explorând nucleul istoric pe jos. Dimineața este dedicată lui Cervantes, de la casa sa natală la străzile pe care a umblat. Vă plimbați pe Calle Mayor și vizitați impunătoarea Catedrală. La prânz, conduceți spre cartierul universitar, o bijuterie UNESCO, unde puteți lua prânzul și descoperi imaginativul Palat Laredo. După-amiaza se încheie cu o altă scurtă călătorie cu mașina, care vă duce adânc în trecutul roman al orașului la Muzeul Arheologic și ruinele Forumului.",
-        "en": "Start your day by parking in the center of Alcalá and exploring the historic core on foot. The morning is dedicated to Cervantes, from his birthplace to the streets he walked. You'll stroll down Calle Mayor and visit the impressive Cathedral. At midday, drive to the university district, a UNESCO gem, where you can have lunch and discover the imaginative Laredo Palace. The afternoon concludes with another short drive, taking you deep into the city's Roman past at the Archaeological Museum and the Forum ruins."
+        "en": "Start your day by parking in the center of Alcalá and exploring the historic core on foot. The morning is dedicated to Cervantes, from his birthplace to the streets he walked. You'll stroll down Calle Mayor and visit the impressive Cathedral. At midday, drive to the university district, a UNESCO gem, where you can have lunch and discover the imaginative Laredo Palace. The afternoon concludes with another short drive, taking you deep into the city's Roman past at the Archaeological Museum and the Forum ruins.",
+        "es": "Comienza el día aparcando en el centro de Alcalá y explorando a pie el núcleo histórico. La mañana está dedicada a Cervantes, desde su casa natal hasta las calles que recorrió. Pasearás por la Calle Mayor y visitarás la impresionante Catedral. Al mediodía, conduce al distrito universitario, una joya de la UNESCO, donde puedes almorzar y descubrir el imaginativo Palacio Laredo. La tarde concluye con otro breve trayecto en coche, llevándote al pasado romano de la ciudad en el Museo Arqueológico y las ruinas del Foro."
       },
       "gastro_picks": {
         "de": [
@@ -1587,6 +1704,12 @@
           "The old town is a low-emission zone; be careful where you drive.",
           "Having a car allows you to also visit the Roman ruins of Complutum, slightly outside the center.",
           "Plan your drives between zones outside of peak hours to avoid traffic."
+        ],
+        "es": [
+          "Busca parkings públicos (marcados con una 'P' azul) ya que estacionar en la calle puede ser difícil.",
+          "El casco antiguo es zona de bajas emisiones; ten cuidado dónde conduces.",
+          "Tener coche te permite también visitar las ruinas romanas de Complutum, algo fuera del centro.",
+          "Planifica tus desplazamientos entre zonas fuera de las horas punta para evitar tráfico."
         ]
       },
       "variants": {
@@ -1595,7 +1718,8 @@
             "de": "Regentage in Alcalá lassen sich am besten mit dem Auto bewältigen, indem man strategisch nahe der Altstadt parkt. Starten Sie am Plaza de Cervantes und nutzen Sie die kurzen Wege zur Calle Mayor. Mittags bietet das Auto einen trockenen Rückzugsort zwischen den Museumsbesuchen. Der Nachmittag ist der Kathedrale und dem Universitätsviertel gewidmet. Abends finden Sie bequem Parkplätze nahe der Restaurants, um den Regen draußen zu lassen.",
             "hu": "Az esős napokat Alcalában legkönnyebben autóval kezelhetjük, stratégiailag az óvároshoz közel parkolva. Indulás a Cervantes tértől, kihasználva a rövid utat a Calle Mayor-ig. Délben az autó száraz menedéket nyújt a múzeumlátogatások között. A délután a katedrálisnak és az egyetemi negyednek szentelt. Este kényelmesen találhatunk parkolót az éttermek közelében, kizárva az esőt.",
             "ro": "Zilele ploioase în Alcalá sunt mai ușor de gestionat cu mașina, parcând strategic lângă centrul vechi. Începeți la Plaza de Cervantes și profitați de distanța scurtă până la Calle Mayor. La prânz, mașina oferă un refugiu uscat între vizitele la muzee. După-amiaza este dedicată Catedralei și zonei universitare. Seara, găsiți parcare aproape de restaurante pentru a evita ploaia.",
-            "en": "Rainy days in Alcalá are best handled by car, parking strategically near the historic core. Start at Cervantes Square and make short dashes to the Calle Mayor arcades. At midday, use your car as a dry base between museum visits. The afternoon is dedicated to the Cathedral and the University district. In the evening, you can easily find parking near the best local restaurants to avoid getting wet."
+            "en": "Rainy days in Alcalá are best handled by car, parking strategically near the historic core. Start at Cervantes Square and make short dashes to the Calle Mayor arcades. At midday, use your car as a dry base between museum visits. The afternoon is dedicated to the Cathedral and the University district. In the evening, you can easily find parking near the best local restaurants to avoid getting wet.",
+            "es": "Los días de lluvia en Alcalá se gestionan mejor en coche, aparcando estratégicamente cerca del núcleo histórico. Comienza en la Plaza de Cervantes y haz breves desplazamientos hasta los soportales de la Calle Mayor. Al mediodía, usa el coche como base seca entre visitas a museos. La tarde se dedica a la Catedral y al Barrio Universitario. Por la noche, puedes encontrar aparcamiento cerca de los mejores restaurantes locales para evitar mojarte."
           },
           "stops": [
             {
@@ -1604,7 +1728,8 @@
                 "de": "Nutzen Sie Tiefgaragen, um direkt im Trockenen auszusteigen.",
                 "hu": "Használjon mélygarázst, hogy közvetlenül száraz helyen szálljon ki.",
                 "ro": "Folosiți parcările subterane pentru a ieși direct la uscat.",
-                "en": "Use underground parking to exit directly into a dry environment."
+                "en": "Use underground parking to exit directly into a dry environment.",
+                "es": "Usa parkings subterráneos para salir directamente a un entorno seco."
               }
             },
             {
@@ -1613,7 +1738,8 @@
                 "de": "Parken Sie so nah wie möglich an den Arkadeneingängen.",
                 "hu": "Parkoljon a lehető legközelebb az árkádok bejáratához.",
                 "ro": "Parcați cât mai aproape de intrările în arcade.",
-                "en": "Park as close as possible to the arcade entrances."
+                "en": "Park as close as possible to the arcade entrances.",
+                "es": "Aparca lo más cerca posible de las entradas con soportales."
               }
             },
             {
@@ -1622,7 +1748,8 @@
                 "de": "Lassen Sie Schirme im Auto, wenn Sie unter den Arkaden bleiben.",
                 "hu": "Hagyja az ernyőket az autóban, ha az árkádok alatt marad.",
                 "ro": "Lăsați umbrelele în mașină dacă rămâneți sub arcade.",
-                "en": "Leave umbrellas in the car if you plan to stay under the arcades."
+                "en": "Leave umbrellas in the car if you plan to stay under the arcades.",
+                "es": "Deja los paraguas en el coche si planeas permanecer bajo los soportales."
               }
             },
             {
@@ -1631,7 +1758,8 @@
                 "de": "Vorsicht beim Ein- und Ausparken auf nassen, engen Straßen.",
                 "hu": "Vigyázat a parkolásnál a nedves, szűk utcákban.",
                 "ro": "Atenție la parcare pe străzile înguste și umede.",
-                "en": "Be careful maneuvering in tight, wet streets."
+                "en": "Be careful maneuvering in tight, wet streets.",
+                "es": "Ten cuidado al maniobrar en calles estrechas y mojadas."
               }
             },
             {
@@ -1640,7 +1768,8 @@
                 "de": "Genießen Sie die Stadtansicht bequem aus dem trockenen Auto.",
                 "hu": "Élvezze a város látványát kényelmesen a száraz autóból.",
                 "ro": "Bucurați-vă de vederea orașului din confortul mașinii.",
-                "en": "Enjoy the city views from the comfort of your dry car."
+                "en": "Enjoy the city views from the comfort of your dry car.",
+                "es": "Disfruta de las vistas de la ciudad desde la comodidad de tu coche seco."
               }
             },
             {
@@ -1649,7 +1778,8 @@
                 "de": "Parkplatz direkt vor dem Eingang spart Zeit im Regen.",
                 "hu": "A bejárat előtti parkolás időt spórol az esőben.",
                 "ro": "Parcarea direct în fața intrării economisește timp în ploaie.",
-                "en": "Parking right by the entrance saves you time in the rain."
+                "en": "Parking right by the entrance saves you time in the rain.",
+                "es": "Aparcar junto a la entrada te ahorra tiempo bajo la lluvia."
               }
             },
             {
@@ -1658,7 +1788,8 @@
                 "de": "Größeres Parkplatzangebot in diesem Viertel nutzen.",
                 "hu": "Használja ki a környék bővebb parkolási lehetőségeit.",
                 "ro": "Profitați de oferta mai mare de locuri de parcare din zonă.",
-                "en": "Take advantage of the more plentiful parking in this area."
+                "en": "Take advantage of the more plentiful parking in this area.",
+                "es": "Aprovecha la mayor disponibilidad de aparcamiento en esta zona."
               }
             }
           ],
@@ -1686,6 +1817,12 @@
               "Avoid narrowest streets during heavy rain due to large puddles.",
               "Use the trunk as a staging area for wet umbrellas and coats.",
               "Be aware that visibility in the historic center is lower during rain."
+            ],
+            "es": [
+              "Los parkings subterráneos (como San Lucas) mantienen el coche seco y facilitan la carga.",
+              "Evita las calles más estrechas durante lluvias fuertes por los grandes charcos.",
+              "Usa el maletero como zona para dejar paraguas y abrigos mojados.",
+              "Ten en cuenta que la visibilidad en el casco histórico es menor durante la lluvia."
             ]
           }
         },
@@ -1694,7 +1831,8 @@
             "de": "Winter in Alcalá mit dem Auto bietet angenehme Wärme zwischen den Stopps. Beginnen Sie am Plaza de Cervantes und schlendern Sie durch die frostige Luft. Mittags wärmt die Standheizung, bevor es zum Cervantes-Haus geht. Die kurzen Fahrten zwischen dem Universitätsviertel und dem Laredo-Palast sind im beheizten Wagen besonders komfortabel. Wenn es nach 18:00 Uhr richtig kalt wird, parken Sie direkt vor einer gemütlichen Gaststätte in der Altstadt.",
             "hu": "A tél Alcalában autóval kellemes meleget kínál a megállók között. Kezdje a Cervantes téren, és sétáljon egyet a fagyos levegőben. Délben az autó fűtése segít, mielőtt a Cervantes-házhoz menne. A rövid utak az egyetemi negyed és a Laredo-palota között különösen kényelmesek a fűtött kocsiban. Amikor 18:00 után igazán lehűl az idő, parkoljon közvetlenül egy hangulatos óvárosi vendéglő előtt.",
             "ro": "Iarna în Alcalá cu mașina oferă căldură plăcută între opriri. Începeți în Plaza de Cervantes cu o scurtă plimbare în aerul înghețat. La prânz, căldura din mașină este binevenită înainte de Casa Cervantes. Drumurile scurte între zona universitară și Palatul Laredo sunt confortabile în mașina încălzită. Când se răcește după ora 18:00, parcați chiar în fața unui restaurant primitor.",
-            "en": "Visiting Alcalá by car in winter provides cozy warmth between each historical stop. Start at Cervantes Square and enjoy the brisk air before retreating to your heated seats. At midday, head to the Cervantes Birthplace with ease. The short drives between the University and Laredo Palace are comfortable when it's chilly outside. As the temperature drops after 18:00, park right next to a warm traditional tavern in the old town."
+            "en": "Visiting Alcalá by car in winter provides cozy warmth between each historical stop. Start at Cervantes Square and enjoy the brisk air before retreating to your heated seats. At midday, head to the Cervantes Birthplace with ease. The short drives between the University and Laredo Palace are comfortable when it's chilly outside. As the temperature drops after 18:00, park right next to a warm traditional tavern in the old town.",
+            "es": "Visitar Alcalá en coche en invierno proporciona calor acogedor entre cada parada histórica. Comienza en la Plaza de Cervantes y disfruta del aire frío antes de retirarte a tus asientos calefactados. Al mediodía, dirígete fácilmente a la Casa Natal de Cervantes. Los cortos trayectos entre la Universidad y el Palacio Laredo son cómodos cuando hace frío fuera. Al bajar la temperatura después de las 18:00, aparca junto a una taberna tradicional y cálida en el casco antiguo."
           },
           "stops": [
             {
@@ -1703,7 +1841,8 @@
                 "de": "Scheibenheizung nutzen, da es morgens oft frostig ist.",
                 "hu": "Használja a szélvédőfűtést, mert reggel gyakran fagyos az idő.",
                 "ro": "Folosiți degivrarea, dimineața este adesea îngheț.",
-                "en": "Use the defroster; mornings are often frosty here."
+                "en": "Use the defroster; mornings are often frosty here.",
+                "es": "Usa el desempañador; las mañanas suelen ser heladas aquí."
               }
             },
             {
@@ -1712,7 +1851,8 @@
                 "de": "Parken Sie in der Sonne, um das Auto natürlich aufzuwärmen.",
                 "hu": "Parkoljon a napon, hogy az autó természetes módon felmelegedjen.",
                 "ro": "Parcați la soare pentru a încălzi mașina natural.",
-                "en": "Park in a sunny spot to let the car warm up naturally."
+                "en": "Park in a sunny spot to let the car warm up naturally.",
+                "es": "Aparca en un lugar soleado para que el coche se caliente de forma natural."
               }
             },
             {
@@ -1721,7 +1861,8 @@
                 "de": "Kurze Laufwege minimieren die Kälteexposition.",
                 "hu": "A rövid gyalogutak minimalizálják a hidegnek való kitettséget.",
                 "ro": "Distanțele scurte minimizează expunerea la frig.",
-                "en": "Short walking distances minimize exposure to the cold."
+                "en": "Short walking distances minimize exposure to the cold.",
+                "es": "Las distancias cortas a pie minimizan la exposición al frío."
               }
             },
             {
@@ -1730,7 +1871,8 @@
                 "de": "In der Nähe gibt es oft freie Parkplätze in der Nebensaison.",
                 "hu": "A környéken főszezonon kívül gyakran van szabad parkoló.",
                 "ro": "În zonă se găsesc adesea locuri de parcare în extrasezon.",
-                "en": "Parking is usually easier to find near the Cathedral in winter."
+                "en": "Parking is usually easier to find near the Cathedral in winter.",
+                "es": "Aparcar suele ser más fácil cerca de la Catedral en invierno."
               }
             },
             {
@@ -1739,7 +1881,8 @@
                 "de": "Heizung voll aufdrehen für den nächsten Stopp.",
                 "hu": "Tekerje fel a fűtést a következő megállóhoz.",
                 "ro": "Dați căldura la maximum pentru următoarea oprire.",
-                "en": "Turn up the heat during this short drive."
+                "en": "Turn up the heat during this short drive.",
+                "es": "Súbele la temperatura durante este breve trayecto en coche."
               }
             },
             {
@@ -1748,7 +1891,8 @@
                 "de": "Genießen Sie die Außenansicht, bevor Sie ins warme Innere gehen.",
                 "hu": "Élvezze a külső látványt, mielőtt a meleg belsőbe megy.",
                 "ro": "Admirați exteriorul înainte de a intra la căldură.",
-                "en": "Admire the exterior before heading into the heated interior."
+                "en": "Admire the exterior before heading into the heated interior.",
+                "es": "Admira el exterior antes de entrar al interior calefactado."
               }
             },
             {
@@ -1757,7 +1901,8 @@
                 "de": "Parken Sie nah am Ausgang für einen schnellen Rückzug ins Auto.",
                 "hu": "Parkoljon közel a kijárathoz a gyors visszatéréshez.",
                 "ro": "Parcați aproape de ieșire pentru o revenire rapidă la mașină.",
-                "en": "Park near the exit for a quick dash back to the warm car."
+                "en": "Park near the exit for a quick dash back to the warm car.",
+                "es": "Aparca cerca de la salida para una rápida carrera de vuelta al coche caliente."
               }
             }
           ],
@@ -1785,6 +1930,12 @@
               "Don't leave beverages in the car overnight as they might freeze.",
               "Multi-story car parks are usually less crowded in winter.",
               "Heated seats are a lifesaver for these short urban hops."
+            ],
+            "es": [
+              "Cuidado con el hielo negro en los callejones sombreados durante la madrugada.",
+              "No dejes bebidas en el coche durante la noche; podrían congelarse.",
+              "Los aparcamientos de varias plantas suelen estar menos llenos en invierno.",
+              "Los asientos calefactados son una salvación en estos cortos desplazamientos urbanos."
             ]
           }
         }
@@ -1803,7 +1954,8 @@
             "de": "Plaza de Cervantes & Kaffee",
             "hu": "Cervantes tér és kávé",
             "ro": "Piața Cervantes și cafea",
-            "en": "Cervantes Square & Coffee"
+            "en": "Cervantes Square & Coffee",
+            "es": "Plaza de Cervantes y café"
           },
           "coords": [
             -3.3644,
@@ -1819,7 +1971,8 @@
             "de": "Nehmen Sie einen Bus bis zur 'Vía Complutense' und gehen Sie zum Hauptplatz.",
             "hu": "Buszozzon el a 'Vía Complutense' megállóig, és sétáljon a főtérre.",
             "ro": "Luați un autobuz până la 'Vía Complutense' și mergeți pe jos până în piața principală.",
-            "en": "Take a bus to 'Vía Complutense' and walk to the main square."
+            "en": "Take a bus to 'Vía Complutense' and walk to the main square.",
+            "es": "Toma un autobús hasta la 'Vía Complutense' y camina hasta la plaza principal."
           }
         },
         {
@@ -1827,7 +1980,8 @@
             "de": "Corral de Comedias & Calle Mayor",
             "hu": "Corral de Comedias és Calle Mayor",
             "ro": "Corral de Comedias și Calle Mayor",
-            "en": "Corral de Comedias & Calle Mayor"
+            "en": "Corral de Comedias & Calle Mayor",
+            "es": "Corral de Comedias y Calle Mayor"
           },
           "coords": [
             -3.3675,
@@ -1843,7 +1997,8 @@
             "de": "Diese beiden historischen Orte liegen direkt nebeneinander.",
             "hu": "Ez a két történelmi helyszín közvetlenül egymás mellett található.",
             "ro": "Aceste două situri istorice sunt chiar unul lângă celălalt.",
-            "en": "These two historic sites are right next to each other."
+            "en": "These two historic sites are right next to each other.",
+            "es": "Estos dos lugares históricos están uno junto al otro."
           }
         },
         {
@@ -1851,7 +2006,8 @@
             "de": "Cervantes Geburtshaus",
             "hu": "Cervantes szülőháza",
             "ro": "Casa Natală a lui Cervantes",
-            "en": "Cervantes Birthplace Museum"
+            "en": "Cervantes Birthplace Museum",
+            "es": "Casa Natal de Cervantes (museo)"
           },
           "coords": [
             -3.3688,
@@ -1867,7 +2023,8 @@
             "de": "Ein kurzer Spaziergang entlang der Calle Mayor führt Sie hierher.",
             "hu": "Egy rövid séta a Calle Mayor mentén ide vezet.",
             "ro": "O scurtă plimbare de-a lungul Calle Mayor vă va duce aici.",
-            "en": "A short stroll down Calle Mayor will lead you here."
+            "en": "A short stroll down Calle Mayor will lead you here.",
+            "es": "Un corto paseo por la Calle Mayor te llevará hasta aquí."
           }
         },
         {
@@ -1875,7 +2032,8 @@
             "de": "Bus zum Universitätsviertel & Mittagessen",
             "hu": "Busz az egyetemi negyedbe és ebéd",
             "ro": "Autobuz spre cartierul universitar și prânz",
-            "en": "Bus to University District & Lunch"
+            "en": "Bus to University District & Lunch",
+            "es": "Autobús al barrio universitario y comida"
           },
           "coords": [
             -3.363,
@@ -1891,7 +2049,8 @@
             "de": "Nehmen Sie einen lokalen Bus zum Universitätsgelände. Erkunden Sie die Fassade und finden Sie einen Ort zum Mittagessen.",
             "hu": "Vegyen egy helyi buszt az egyetemi kampuszhoz. Fedezze fel a homlokzatot és keressen egy ebédlőhelyet.",
             "ro": "Luați un autobuz local spre campusul universitar. Explorați fațada și găsiți un loc pentru prânz.",
-            "en": "Take a local bus to the university campus. Explore the facade and find a place for lunch."
+            "en": "Take a local bus to the university campus. Explore the facade and find a place for lunch.",
+            "es": "Toma un autobús local hasta el campus universitario. Recorre la fachada y busca un lugar para comer."
           }
         },
         {
@@ -1899,7 +2058,8 @@
             "de": "Magistralkathedrale",
             "hu": "Magisztrális székesegyház",
             "ro": "Catedrala Magistrală",
-            "en": "Magistral Cathedral"
+            "en": "Magistral Cathedral",
+            "es": "Catedral Magistral"
           },
           "coords": [
             -3.3695,
@@ -1915,7 +2075,8 @@
             "de": "Nehmen Sie den Bus zurück ins Zentrum, um diese beeindruckende Kirche zu besuchen.",
             "hu": "Buszozzon vissza a központba, hogy meglátogassa ezt a lenyűgöző templomot.",
             "ro": "Luați autobuzul înapoi în centru pentru a vizita această biserică impresionantă.",
-            "en": "Take the bus back towards the center to visit this impressive church."
+            "en": "Take the bus back towards the center to visit this impressive church.",
+            "es": "Toma el autobús de regreso al centro para visitar esta impresionante iglesia."
           }
         },
         {
@@ -1923,7 +2084,8 @@
             "de": "Regionales Archäologie-Museum",
             "hu": "Regionális Régészeti Múzeum",
             "ro": "Muzeul Regional de Arheologie",
-            "en": "Regional Archaeological Museum"
+            "en": "Regional Archaeological Museum",
+            "es": "Museo Arqueológico Regional"
           },
           "coords": [
             -3.3705,
@@ -1939,7 +2101,8 @@
             "de": "Der letzte Halt des Tages ist nur einen kurzen Spaziergang von der Kathedrale entfernt.",
             "hu": "A nap utolsó állomása csak egy rövid sétára van a székesegyháztól.",
             "ro": "Ultima oprire a zilei este la o scurtă plimbare de catedrală.",
-            "en": "The last stop of the day is a short walk from the cathedral."
+            "en": "The last stop of the day is a short walk from the cathedral.",
+            "es": "La última parada del día está a un corto paseo desde la catedral."
           }
         }
       ],
@@ -1947,7 +2110,8 @@
         "de": "Ihr Tag beginnt mit einer Busfahrt ins Herz von Alcalá, zur Plaza de Cervantes. Erkunden Sie am Vormittag den historischen Kern zu Fuß: das alte Theater, die Calle Mayor und das Geburtshaus von Cervantes. Nach diesem Spaziergang durch die Literaturgeschichte nehmen Sie einen Bus zum weitläufigen Universitätsgelände, wo Sie die prächtige Architektur bewundern und zu Mittag essen. Am Nachmittag bringt Sie ein weiterer Bus zurück ins Zentrum, um die Magistralkathedrale zu besuchen, bevor Sie den Tag im nahegelegenen Archäologischen Museum ausklingen lassen.",
         "hu": "A nap egy buszúttal kezdődik Alcalá szívébe, a Cervantes térre. Délelőtt fedezze fel gyalog a történelmi központot: a régi színházat, a Calle Mayort és Cervantes szülőházát. E irodalmi séta után szálljon buszra a tágas egyetemi kampuszhoz, ahol megcsodálhatja a csodálatos építészetet és megebédelhet. Délután egy másik busz visszaviszi a központba, hogy meglátogassa a Magisztrális székesegyházat, mielőtt a napot a közeli Régészeti Múzeumban zárná.",
         "ro": "Ziua dumneavoastră începe cu o călătorie cu autobuzul în inima orașului Alcalá, Piața Cervantes. Explorați nucleul istoric pe jos în timpul dimineții: vechiul teatru, Calle Mayor și casa natală a lui Cervantes. După această plimbare prin istoria literară, luați un autobuz spre campusul universitar întins, unde puteți admira arhitectura magnifică și puteți lua prânzul. După-amiaza, un alt autobuz vă duce înapoi în centru pentru a vizita Catedrala Magistrală, înainte de a încheia ziua la Muzeul Arheologic din apropiere.",
-        "en": "Your day begins with a bus ride into the heart of Alcalá, Plaza de Cervantes. Explore the historic core on foot during the morning: the old theatre, Calle Mayor, and Cervantes' birthplace. After this walk through literary history, take a bus to the expansive university campus, where you can admire the magnificent architecture and have lunch. In the afternoon, another bus takes you back to the center to visit the Magistral Cathedral, before ending the day at the nearby Archaeological Museum."
+        "en": "Your day begins with a bus ride into the heart of Alcalá, Plaza de Cervantes. Explore the historic core on foot during the morning: the old theatre, Calle Mayor, and Cervantes' birthplace. After this walk through literary history, take a bus to the expansive university campus, where you can admire the magnificent architecture and have lunch. In the afternoon, another bus takes you back to the center to visit the Magistral Cathedral, before ending the day at the nearby Archaeological Museum.",
+        "es": "Tu día comienza con un viaje en autobús al corazón de Alcalá, la Plaza de Cervantes. Explora el núcleo histórico a pie por la mañana: el antiguo teatro, la Calle Mayor y la casa natal de Cervantes. Tras este paseo por la historia literaria, toma un autobús hasta el amplio campus universitario, donde podrás admirar la magnífica arquitectura y comer. Por la tarde, otro autobús te lleva de vuelta al centro para visitar la Catedral Magistral, antes de terminar el día en el cercano Museo Arqueológico."
       },
       "gastro_picks": {
         "de": [
@@ -2143,6 +2307,12 @@
           "Most central buses run along 'Vía Complutense', a main transport artery.",
           "Validate your ticket every time you board a bus.",
           "Use a transport app like Google Maps to check bus routes and times in real-time."
+        ],
+        "es": [
+          "Compra una 'Tarjeta Multi', una tarjeta recargable para billetes más baratos.",
+          "La mayoría de los autobuses céntricos circulan por la 'Vía Complutense', una arteria principal de transporte.",
+          "Valida tu billete cada vez que subas al autobús.",
+          "Usa una app de transporte como Google Maps para consultar rutas y horarios de autobús en tiempo real."
         ]
       },
       "variants": {
@@ -2151,7 +2321,8 @@
             "de": "Mit dem Bus durch das verregnete Alcalá zu fahren, ist eine komfortable Art, trocken zu bleiben. Starten Sie am Plaza de Cervantes mit einem Kaffee unter den Arkaden. Der Bus bringt Sie bequem zum Universitätsviertel. Mittags bietet die Calle Mayor Schutz vor den Schauern. Der Nachmittag wird im Archäologischen Museum verbracht, bevor Sie der Bus wieder zurück ins Zentrum bringt. So minimieren Sie die Zeit im Regen und genießen die Stadt entspannt.",
             "hu": "Busszal utazni az esős Alcalában kényelmes módja annak, hogy szárazon maradjunk. Indulás a Cervantes tértől egy kávéval az árkádok alatt. A busz kényelmesen elviszi az egyetemi negyedbe. Délben a Calle Mayor védelmet nyújt a záporok elől. A délutánt az Archéológiai Múzeumban töltjük, mielőtt a busz visszavisz a központba. Így minimalizáljuk az esőben töltött időt.",
             "ro": "Călătoria cu autobuzul prin Alcalá pe ploaie este o modalitate confortabilă de a rămâne uscat. Începeți în Plaza de Cervantes cu o cafea sub arcade. Autobuzul vă duce convenabil în zona universitară. La prânz, Calle Mayor oferă adăpost contra averselor. După-amiaza este petrecută la Muzeul Arheologic, înainte ca autobuzul să vă aducă înapoi. Astfel minimizați timpul petrecut în ploaie.",
-            "en": "Taking the bus through rainy Alcalá is a smart and comfortable way to stay dry. Start at Cervantes Square with a coffee under the stone arches. The local bus routes connect you easily to the University district. At midday, retreat to the sheltered Calle Mayor. Spend your afternoon at the Archaeology Museum, then catch a bus back to the center. This approach minimizes your time in the rain while seeing all the sights."
+            "en": "Taking the bus through rainy Alcalá is a smart and comfortable way to stay dry. Start at Cervantes Square with a coffee under the stone arches. The local bus routes connect you easily to the University district. At midday, retreat to the sheltered Calle Mayor. Spend your afternoon at the Archaeology Museum, then catch a bus back to the center. This approach minimizes your time in the rain while seeing all the sights.",
+            "es": "Recorrer Alcalá en autobús con lluvia es una forma inteligente y cómoda de mantenerse seco. Empieza en la Plaza de Cervantes con un café bajo los arcos de piedra. Las rutas locales de autobús te conectan fácilmente con el barrio universitario. Al mediodía, resguárdate en la protegida Calle Mayor. Pasa la tarde en el Museo de Arqueología y luego toma un autobús de vuelta al centro. Este enfoque minimiza el tiempo bajo la lluvia mientras ves todos los monumentos."
           },
           "stops": [
             {
@@ -2160,7 +2331,8 @@
                 "de": "Warten Sie in einem Café, bis der Bus fast da ist.",
                 "hu": "Várjon egy kávézóban, amíg a busz majdnem megérkezik.",
                 "ro": "Așteptați în cafenea până când autobuzul este aproape.",
-                "en": "Wait in a cafe until the bus is about to arrive at the stop."
+                "en": "Wait in a cafe until the bus is about to arrive at the stop.",
+                "es": "Espera en un café hasta que el autobús esté a punto de llegar a la parada."
               }
             },
             {
@@ -2169,7 +2341,8 @@
                 "de": "Die Bushaltestellen sind hier oft überdacht.",
                 "hu": "A buszmegállók itt gyakran fedettek.",
                 "ro": "Stațiile de autobuz sunt adesea acoperite aici.",
-                "en": "Most bus stops in this central area are sheltered."
+                "en": "Most bus stops in this central area are sheltered.",
+                "es": "La mayoría de las paradas en esta zona céntrica están cubiertas."
               }
             },
             {
@@ -2178,7 +2351,8 @@
                 "de": "Nur ein kurzer Sprung von der Haltestelle zum Eingang.",
                 "hu": "Csak egy rövid ugrás a megállótól a bejáratig.",
                 "ro": "Doar o scurtă fugă de la stație până la intrare.",
-                "en": "It's just a quick dash from the stop to the museum entrance."
+                "en": "It's just a quick dash from the stop to the museum entrance.",
+                "es": "Es sólo una rápida carrera de la parada a la entrada del museo."
               }
             },
             {
@@ -2187,7 +2361,8 @@
                 "de": "Genießen Sie die trockene Fahrt durch die historischen Straßen.",
                 "hu": "Élvezze a száraz utazást a történelmi utcákon keresztül.",
                 "ro": "Bucurați-vă de drumul la uscat prin străzile istorice.",
-                "en": "Enjoy the dry ride through the atmospheric historic streets."
+                "en": "Enjoy the dry ride through the atmospheric historic streets.",
+                "es": "Disfruta del viaje seco por las atmosféricas calles históricas."
               }
             },
             {
@@ -2196,7 +2371,8 @@
                 "de": "Die Haltestelle ist fast direkt vor der Tür.",
                 "hu": "A megálló szinte közvetlenül az ajtó előtt van.",
                 "ro": "Stația este aproape direct în fața ușii.",
-                "en": "The bus stop is located almost directly in front of the entrance."
+                "en": "The bus stop is located almost directly in front of the entrance.",
+                "es": "La parada está situada casi directamente frente a la entrada."
               }
             },
             {
@@ -2205,7 +2381,8 @@
                 "de": "Perfekter Ort, um auf den nächsten Bus im Trockenen zu warten.",
                 "hu": "Tökéletes hely a következő buszra való várakozáshoz a szárazon.",
                 "ro": "Locul perfect pentru a aștepta următorul autobuz la uscat.",
-                "en": "The perfect place to wait for your next bus while staying dry."
+                "en": "The perfect place to wait for your next bus while staying dry.",
+                "es": "El lugar perfecto para esperar tu próximo autobús manteniéndote seco."
               }
             }
           ],
@@ -2233,6 +2410,12 @@
               "Stay under the museum porch or cafe awning until the bus is close.",
               "Lines L1 and L2 are most useful for the historic sights.",
               "Have your payment card or exact change ready to board quickly."
+            ],
+            "es": [
+              "Consulta una app de transporte para las llegadas en tiempo real y minimizar la espera.",
+              "Mantente bajo el pórtico del museo o el toldo de la cafetería hasta que el autobús esté cerca.",
+              "Las líneas L1 y L2 son las más útiles para los sitios históricos.",
+              "Ten tu tarjeta de pago o el cambio exacto listo para subir rápidamente."
             ]
           }
         },
@@ -2241,7 +2424,8 @@
             "de": "Alcalá im Winter mit dem Bus zu erkunden, schont die Kräfte und bietet Wärme. Start am Plaza de Cervantes mit einem heißen Getränk. Die Busse sind gut beheizt und bringen Sie schnell zum Universitätsviertel. Mittags lockt die Calle Mayor mit ihren warmen Gaststuben. Nachmittags besuchen Sie die Kathedrale und das Museum, wobei der Bus die frostigen Wege dazwischen abkürzt. Beenden Sie den Tag gemütlich im Zentrum, bevor die Winternacht hereinbricht.",
             "hu": "Alcalát télen busszal felfedezni kíméli az energiát és meleget ad. Indulás a Cervantes térről egy forró itallal. A buszok jól fűtöttek, és gyorsan elvisznek az egyetemi negyedbe. Délben a Calle Mayor meleg vendéglői csábítanak. Délután a katedrális és a múzeum a cél, miközben a busz lerövidíti a fagyos utakat. Zárja a napot kényelmesen a központban, mielőtt leszállna a téli éj.",
             "ro": "Explorarea orașului Alcalá iarna cu autobuzul economisește energia și oferă căldură. Începeți în Plaza de Cervantes cu o băutură caldă. Autobuzele sunt bine încălzite și vă duc rapid la Universitate. La prânz, restaurantele de pe Calle Mayor sunt primitoare. După-amiaza vizitați Catedrala și Muzeul, autobuzul scurtând drumurile înghețate. Încheiați ziua în centru înainte de lăsarea nopții.",
-            "en": "Exploring Alcalá by bus in winter is a great way to save energy and stay warm. Start at Cervantes Square with a hot chocolate before boarding. The buses are well-heated and get you to the University district quickly. At midday, enjoy a warm meal on Calle Mayor. In the afternoon, visit the Cathedral and the Museum, using the bus to bridge the frosty gaps between stops. Finish your day warmly in the center as the winter night sets in."
+            "en": "Exploring Alcalá by bus in winter is a great way to save energy and stay warm. Start at Cervantes Square with a hot chocolate before boarding. The buses are well-heated and get you to the University district quickly. At midday, enjoy a warm meal on Calle Mayor. In the afternoon, visit the Cathedral and the Museum, using the bus to bridge the frosty gaps between stops. Finish your day warmly in the center as the winter night sets in.",
+            "es": "Explorar Alcalá en autobús en invierno es una excelente forma de ahorrar energía y mantenerse caliente. Empieza en la Plaza de Cervantes con un chocolate caliente antes de subir al autobús. Los autobuses están bien calefactados y te llevan rápidamente al barrio universitario. Al mediodía, disfruta de una comida caliente en la Calle Mayor. Por la tarde visita la Catedral y el Museo, usando el autobús para salvar los tramos helados entre paradas. Termina el día cálidamente en el centro mientras cae la noche invernal."
           },
           "stops": [
             {
@@ -2250,7 +2434,8 @@
                 "de": "Haltestelle direkt am Platz, ideal bei kühlem Wind.",
                 "hu": "Megálló közvetlenül a téren, ideális hűvös szélben.",
                 "ro": "Stație direct în piață, ideală când bate vântul rece.",
-                "en": "The stop is right on the square, perfect for dodging the cold wind."
+                "en": "The stop is right on the square, perfect for dodging the cold wind.",
+                "es": "La parada está justo en la plaza, perfecta para esquivar el viento frío."
               }
             },
             {
@@ -2259,7 +2444,8 @@
                 "de": "Die Arkaden bieten auch Schutz vor dem kalten Winterwind.",
                 "hu": "Az árkádok a hideg téli szél ellen is védelmet nyújtanak.",
                 "ro": "Arcadele oferă protecție și împotriva vântului rece de iarnă.",
-                "en": "The arcades provide a great windbreak against the winter chill."
+                "en": "The arcades provide a great windbreak against the winter chill.",
+                "es": "Las arcadas ofrecen una gran protección contra el frío invernal."
               }
             },
             {
@@ -2268,7 +2454,8 @@
                 "de": "Nutzen Sie die Fahrtzeit, um die Hände aufzuwärmen.",
                 "hu": "Használja ki az utazási időt a kezei felmelegítésére.",
                 "ro": "Folosiți timpul de drum pentru a vă încălzi mâinile.",
-                "en": "Use the travel time to warm up your hands between sights."
+                "en": "Use the travel time to warm up your hands between sights.",
+                "es": "Aprovecha el tiempo de viaje para calentar las manos entre visitas."
               }
             },
             {
@@ -2277,7 +2464,8 @@
                 "de": "Busse fahren im Winter oft pünktlicher (weniger Tourismus).",
                 "hu": "A buszok télen gyakran pontosabbak (kevesebb a turista).",
                 "ro": "Autobuzele sunt adesea mai punctuale iarna.",
-                "en": "Buses tend to be punctual in the quieter winter months."
+                "en": "Buses tend to be punctual in the quieter winter months.",
+                "es": "Los autobuses suelen ser puntuales en los tranquilos meses de invierno."
               }
             },
             {
@@ -2286,7 +2474,8 @@
                 "de": "Achten Sie auf die kürzeren Lichtzeiten bei der Rückfahrt.",
                 "hu": "Figyeljen a rövidebb nappalokra a visszautazásnál.",
                 "ro": "Atenție la lumina puțină la întoarcere.",
-                "en": "Be mindful of the early darkness for your return trip."
+                "en": "Be mindful of the early darkness for your return trip.",
+                "es": "Ten en cuenta que la oscuridad llega antes para tu viaje de vuelta."
               }
             },
             {
@@ -2295,7 +2484,8 @@
                 "de": "Die Haltestelle ist gut beleuchtet für die Abendstunden.",
                 "hu": "A megálló jól kivilágított az esti órákra.",
                 "ro": "Stația este bine iluminată pentru orele serii.",
-                "en": "The stop is well-lit for your late afternoon return."
+                "en": "The stop is well-lit for your late afternoon return.",
+                "es": "La parada está bien iluminada para tu regreso a última hora de la tarde."
               }
             }
           ],
@@ -2323,6 +2513,12 @@
               "Check for any winter schedule adjustments before you set out.",
               "Windows can fog up in the cold; sit near the front for the best view.",
               "Alternate between transit rides and warming up in local pastry shops."
+            ],
+            "es": [
+              "Los autobuses son una alternativa acogedora y cálida a caminar con viento.",
+              "Consulta posibles ajustes de horarios de invierno antes de salir.",
+              "Las ventanas pueden empañarse con el frío; si quieres buena vista siéntate cerca delantera.",
+              "Alterna los trayectos en transporte con calentarte en pastelerías locales."
             ]
           }
         }

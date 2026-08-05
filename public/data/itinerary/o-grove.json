@@ -31,7 +31,8 @@
             "de": "Frischer Fisch direkt von den Booten.",
             "hu": "Friss halak közvetlenül a hajókról.",
             "ro": "Pește proaspăt direct de pe bărci.",
-            "en": "Fresh fish straight from the boats."
+            "en": "Fresh fish straight from the boats.",
+            "es": "Pescado fresco directamente de las embarcaciones."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Wunderschöner Blick auf die Bucht.",
             "hu": "Gyönyörű kilátás az öbölre.",
             "ro": "Vedere minunată asupra golfului.",
-            "en": "Beautiful views of the bay."
+            "en": "Beautiful views of the bay.",
+            "es": "Hermosas vistas de la ría."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Heilende Quellen und Luxusvillen.",
             "hu": "Gyógyító források és luxusvillák.",
             "ro": "Izvoare tămăduitoare și vile de lux.",
-            "en": "Healing springs and luxury villas."
+            "en": "Healing springs and luxury villas.",
+            "es": "Aguas termales curativas y villas de lujo."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Ganz mit Jakobsmuscheln bedeckt.",
             "hu": "Teljesen fésűskagylókkal borítva.",
             "ro": "Acoperită complet cu scoici.",
-            "en": "Entirely covered with scallop shells."
+            "en": "Entirely covered with scallop shells.",
+            "es": "Enteramente cubierto de conchas de vieira."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Geschichte der Fischkonservierung.",
             "hu": "A halkonzerválás története.",
             "ro": "Istoria conservării peștelui.",
-            "en": "History of fish preservation."
+            "en": "History of fish preservation.",
+            "es": "Historia de la conservación del pescado."
           }
         }
       ],
@@ -111,7 +116,8 @@
         "de": "Morgens erleben wir das bunte Treiben im Hafen von O Grove. Später spazieren wir entlang der Byron-Promenade zur luxuriösen Insel La Toja. Das Highlight ist die einzigartige, mit Muscheln verzierte Kapelle. Nachmittags erfahren wir im Salzmuseum mehr über die maritime Tradition Galiciens. Ein Tag voller Meeresbrise und Geschichte.",
         "hu": "Reggel az O Grove-i kikötő nyüzsgését élvezzük. Később a Byron-sétányon át sétálunk a fényűző La Toja-szigetre. A nap fénypontja az egyedülálló, kagylókkal borított kápolna. Délután a Sózási Múzeumban ismerkedünk meg Galícia tengeri hagyományaival. Sós levegővel és történelemmel teli nap.",
         "ro": "Dimineața ne bucurăm de forfota portului din O Grove. Mai târziu ne plimbăm pe faleza Byron către luxoasa insulă La Toja. Punctul culminant este capela unică, decorată cu scoici. După-amiaza învățăm despre tradiția maritimă a Galiției la Muzeul Sării. O zi plină de briză marină și istorie.",
-        "en": "Morning starts with the bustle of O Grove port. Later we stroll along the Byron promenade to the luxurious La Toja island. The highlight is the unique chapel covered in shells. Afternoon we learn about Galicia's maritime tradition at the Salting Museum. A day full of sea breeze and history."
+        "en": "Morning starts with the bustle of O Grove port. Later we stroll along the Byron promenade to the luxurious La Toja island. The highlight is the unique chapel covered in shells. Afternoon we learn about Galicia's maritime tradition at the Salting Museum. A day full of sea breeze and history.",
+        "es": "La mañana comienza con el bullicio del puerto de O Grove. Más tarde paseamos por el paseo Byron hasta la lujosa isla de La Toja. El punto culminante es la singular capilla cubierta de conchas. Por la tarde aprendemos sobre la tradición marítima gallega en el Museo de la Salazón. Un día lleno de brisa marina e historia."
       },
       "gastro_picks": {
         "de": [
@@ -211,6 +217,10 @@
         "en": [
           "Wear comfortable shoes for the promenade.",
           "Visit the port early in the morning."
+        ],
+        "es": [
+          "Lleva calzado cómodo para el paseo marítimo.",
+          "Visita el puerto temprano por la mañana."
         ]
       },
       "variants": {
@@ -219,7 +229,8 @@
             "de": "Morgens erleben wir das bunte Treiben im Hafen von O Grove. Später spazieren wir entlang der Byron-Promenade zur luxuriösen Insel La Toja. Das Highlight ist die einzigartige, mit Muscheln verzierte Kapelle. Nachmittags erfahren wir im Salzmuseum mehr über die maritime Tradition Galiciens. Ein Tag voller Meeresbrise und Geschichte.",
             "hu": "Reggel az O Grove-i kikötő nyüzsgését élvezzük. Később a Byron-sétányon át sétálunk a fényűző La Toja-szigetre. A nap fénypontja az egyedülálló, kagylókkal borított kápolna. Délután a Sózási Múzeumban ismerkedünk meg Galícia tengeri hagyományaival. Sós levegővel és történelemmel teli nap.",
             "ro": "Dimineața ne bucurăm de forfota portului din O Grove. Mai târziu ne plimbăm pe faleza Byron către luxoasa insulă La Toja. Punctul culminant este capela unică, decorată cu scoici. După-amiaza învățăm despre tradiția maritimă a Galiției la Muzeul Sării. O zi plină de briză marină și istorie.",
-            "en": "Morning starts with the bustle of O Grove port. Later we stroll along the Byron promenade to the luxurious La Toja island. The highlight is the unique chapel covered in shells. Afternoon we learn about Galicia's maritime tradition at the Salting Museum. A day full of sea breeze and history."
+            "en": "Morning starts with the bustle of O Grove port. Later we stroll along the Byron promenade to the luxurious La Toja island. The highlight is the unique chapel covered in shells. Afternoon we learn about Galicia's maritime tradition at the Salting Museum. A day full of sea breeze and history.",
+            "es": "La mañana comienza con el bullicio del puerto de O Grove. Más tarde paseamos por el paseo Byron hasta la lujosa isla de La Toja. El punto culminante es la singular capilla cubierta de conchas. Por la tarde aprendemos sobre la tradición marítima gallega en el Museo de la Salazón. Un día lleno de brisa marina e historia."
           },
           "stops": [
             {
@@ -228,7 +239,8 @@
                 "de": "Frischer Fisch direkt von den Booten.",
                 "hu": "Friss halak közvetlenül a hajókról.",
                 "ro": "Pește proaspăt direct de pe bărci.",
-                "en": "Fresh fish straight from the boats."
+                "en": "Fresh fish straight from the boats.",
+                "es": "Pescado fresco directamente de las embarcaciones."
               }
             },
             {
@@ -237,7 +249,8 @@
                 "de": "Wunderschöner Blick auf die Bucht.",
                 "hu": "Gyönyörű kilátás az öbölre.",
                 "ro": "Vedere minunată asupra golfului.",
-                "en": "Beautiful views of the bay."
+                "en": "Beautiful views of the bay.",
+                "es": "Hermosas vistas de la ría."
               }
             },
             {
@@ -246,7 +259,8 @@
                 "de": "Heilende Quellen und Luxusvillen.",
                 "hu": "Gyógyító források és luxusvillák.",
                 "ro": "Izvoare tămăduitoare și vile de lux.",
-                "en": "Healing springs and luxury villas."
+                "en": "Healing springs and luxury villas.",
+                "es": "Aguas termales curativas y villas de lujo."
               }
             },
             {
@@ -255,7 +269,8 @@
                 "de": "Ganz mit Jakobsmuscheln bedeckt.",
                 "hu": "Teljesen fésűskagylókkal borítva.",
                 "ro": "Acoperită complet cu scoici.",
-                "en": "Entirely covered with scallop shells."
+                "en": "Entirely covered with scallop shells.",
+                "es": "Enteramente cubierto de conchas de vieira."
               }
             },
             {
@@ -264,7 +279,8 @@
                 "de": "Geschichte der Fischkonservierung.",
                 "hu": "A halkonzerválás története.",
                 "ro": "Istoria conservării peștelui.",
-                "en": "History of fish preservation."
+                "en": "History of fish preservation.",
+                "es": "Historia de la conservación del pescado."
               }
             }
           ],
@@ -366,6 +382,10 @@
             "en": [
               "Wear comfortable shoes for the promenade.",
               "Visit the port early in the morning."
+            ],
+            "es": [
+              "Lleva calzado cómodo para el paseo marítimo.",
+              "Visita el puerto temprano por la mañana."
             ]
           }
         },
@@ -374,7 +394,8 @@
             "de": "Morgens am Hafen von O Grove trotzen wir dem Nieselregen. Mittags führt der Weg über die Brücke zur Isla de La Toja, wo Pinien Schutz bieten. Nachmittags besichtigen wir die Muschelkapelle im Regenmantel. Der Tag endet trocken im Museo de la Salazón, wo wir in die Geschichte der Fischkonservierung eintauchen.",
             "hu": "A reggelt az O Grove-i kikötőben kezdjük az eső ellenére. Délben átkelünk a hídon a La Toja-szigetre, ahol a fák némi védelmet nyújtanak. Délután a kagylókkal borított kápolnát csodáljuk meg esernyő alatt. A napot a Sózási Múzeum fedett tereiben zárjuk, megismerve a helyi ipartörténetet.",
             "ro": "Dimineața în portul O Grove înfruntăm burnița galiciană. La prânz traversăm podul spre Insula La Toja sub protecția pinilor. După-amiaza vizităm Capela Scoicilor cu pelerine de ploaie. Încheiem ziua la adăpost în Muzeul Sării, explorând istoria conservării peștelui în timp ce plouă afară.",
-            "en": "Morning at O Grove port starts under gray skies. At noon, we cross to La Toja Island where pines offer some shelter. In the afternoon, we admire the Shell Chapel under umbrellas. The day ends dry at the Salting Museum, diving into local history while escaping the Atlantic rain."
+            "en": "Morning at O Grove port starts under gray skies. At noon, we cross to La Toja Island where pines offer some shelter. In the afternoon, we admire the Shell Chapel under umbrellas. The day ends dry at the Salting Museum, diving into local history while escaping the Atlantic rain.",
+            "es": "La mañana en el puerto de O Grove comienza bajo cielos grises. Al mediodía cruzamos a la Isla de La Toja donde los pinos ofrecen cierto abrigo. Por la tarde admiramos la Capilla de las Conchas bajo los paraguas. El día termina seco en el Museo de la Salazón, sumergiéndonos en la historia local mientras escapamos de la lluvia atlántica."
           },
           "stops": [
             {
@@ -383,7 +404,8 @@
                 "de": "Suchen Sie Schutz in den Fischmarkthallen.",
                 "hu": "Keressen menedéket a halpiac csarnokaiban.",
                 "ro": "Căutați adăpost în halele pieței de pește.",
-                "en": "Find shelter in the fish market halls."
+                "en": "Find shelter in the fish market halls.",
+                "es": "Busca refugio en las naves del mercado de pescado."
               }
             },
             {
@@ -392,7 +414,8 @@
                 "de": "Vorsicht, die Holzstege können rutschig sein.",
                 "hu": "Vigyázat, a fapadlók csúszósak lehetnek.",
                 "ro": "Atenție, podețele de lemn pot fi alunecoase.",
-                "en": "Careful, the wooden walkways can be slippery."
+                "en": "Careful, the wooden walkways can be slippery.",
+                "es": "Cuidado, las pasarelas de madera pueden estar resbaladizas."
               }
             },
             {
@@ -401,7 +424,8 @@
                 "de": "Die Pinienwälder bieten natürlichen Regenschutz.",
                 "hu": "A fenyőerdők természetes esővédelmet nyújtanak.",
                 "ro": "Pădurile de pini oferă protecție naturală.",
-                "en": "The pine forests provide natural rain cover."
+                "en": "The pine forests provide natural rain cover.",
+                "es": "Los bosques de pinos proporcionan protección natural contra la lluvia."
               }
             },
             {
@@ -410,7 +434,8 @@
                 "de": "Die nassen Muscheln glänzen besonders schön.",
                 "hu": "A nedves kagylók különösen szépen csillognak.",
                 "ro": "Scoicile umede strălucesc deosebit de frumos.",
-                "en": "The wet shells glisten beautifully in the rain."
+                "en": "The wet shells glisten beautifully in the rain.",
+                "es": "Las conchas húmedas brillan hermosamente bajo la lluvia."
               }
             },
             {
@@ -419,7 +444,8 @@
                 "de": "Perfekter Ort, um den starken Regen abzuwarten.",
                 "hu": "Tökéletes hely a heves eső kivárására.",
                 "ro": "Locul perfect pentru a aștepta trecerea ploii.",
-                "en": "Perfect place to wait out the heavy rain."
+                "en": "Perfect place to wait out the heavy rain.",
+                "es": "Lugar perfecto para esperar a que pase la lluvia intensa."
               }
             }
           ],
@@ -447,6 +473,12 @@
               "Waterproof hiking shoes are mandatory on coastal paths.",
               "Visit harbor cafes for a warm break from the drizzle.",
               "The chapel interior is small; expect brief wait times."
+            ],
+            "es": [
+              "Lleva un paraguas resistente para soportar los vientos atlánticos.",
+              "Calzado de senderismo impermeable es obligatorio en los caminos costeros.",
+              "Visita las cafeterías del puerto para un descanso cálido de la llovizna.",
+              "El interior de la capilla es pequeño; espera tiempos de espera breves."
             ]
           }
         },
@@ -455,7 +487,8 @@
             "de": "Ein frischer Wintermorgen am Hafen, die Luft ist klar. Mittags erkunden wir die ruhige Isla de La Toja ohne die Sommermassen. Am Nachmittag leuchten die Muscheln der Kapelle im tiefstehenden Sonnenlicht. Wir beenden die Tour bei früh einsetzender Dämmerung im gemütlichen Salzungsmuseum.",
             "hu": "Friss téli reggel a kikötőben, a levegő tiszta és csípős. Délben a csendes La Toja-szigetet fedezzük fel a nyári tömeg nélkül. Délután a kápolna kagylói ragyognak az alacsony napfényben. A túrát a korai szürkületben fejezzük be a hangulatos Sózási Múzeumban.",
             "ro": "O dimineață răcoroasă de iarnă în port, aerul este curat. La prânz explorăm liniștita Insulă La Toja, fără mulțimile de vară. După-amiaza scoicile capelei strălucesc în lumina joasă a soarelui. Încheiem turul la amurgul timpuriu în atmosfera caldă a Muzeului Sării.",
-            "en": "A crisp winter morning at the port with crystal clear air. At noon, we explore a peaceful La Toja Island without the summer crowds. In the afternoon, the chapel shells glow in the low winter sun. We finish the tour as twilight falls early at the cozy Salting Museum."
+            "en": "A crisp winter morning at the port with crystal clear air. At noon, we explore a peaceful La Toja Island without the summer crowds. In the afternoon, the chapel shells glow in the low winter sun. We finish the tour as twilight falls early at the cozy Salting Museum.",
+            "es": "Una fresca mañana invernal en el puerto con aire cristalino. Al mediodía exploramos una tranquila Isla de La Toja sin las multitudes veraniegas. Por la tarde las conchas de la capilla brillan con el bajo sol invernal. Terminamos el recorrido al caer la tarde en el acogedor Museo de la Salazón."
           },
           "stops": [
             {
@@ -464,7 +497,8 @@
                 "de": "Genießen Sie frische Austern, Hochsaison im Winter.",
                 "hu": "Kóstoljon friss osztrigát, télen van a szezonja.",
                 "ro": "Gustați stridii proaspete, este sezonul lor iarna.",
-                "en": "Enjoy fresh oysters; winter is peak season for them."
+                "en": "Enjoy fresh oysters; winter is peak season for them.",
+                "es": "Disfruta de ostras frescas; el invierno es su temporada alta."
               }
             },
             {
@@ -473,7 +507,8 @@
                 "de": "Warme Kleidung gegen die kalte Meeresbrise.",
                 "hu": "Meleg ruházat ajánlott a hideg tengeri szél ellen.",
                 "ro": "Haine groase necesare împotriva brizelor reci.",
-                "en": "Warm clothing needed against cold sea breezes."
+                "en": "Warm clothing needed against cold sea breezes.",
+                "es": "Ropa abrigada necesaria contra las frías brisas marinas."
               }
             },
             {
@@ -482,7 +517,8 @@
                 "de": "Die Kurhotels bieten im Winter tolle Wellness-Angebote.",
                 "hu": "A gyógyszállók télen remek wellness ajánlatokat kínálnak.",
                 "ro": "Hotelurile balneare au oferte excelente de wellness.",
-                "en": "Spa hotels offer great wellness deals in winter."
+                "en": "Spa hotels offer great wellness deals in winter.",
+                "es": "Los hoteles spa ofrecen excelentes ofertas de bienestar en invierno."
               }
             },
             {
@@ -491,7 +527,8 @@
                 "de": "Das Licht am späten Nachmittag ist ideal für Fotos.",
                 "hu": "A késő délutáni fények ideálisak a fotózáshoz.",
                 "ro": "Lumina de după-amiază târzie este ideală pentru poze.",
-                "en": "Late afternoon light is ideal for photography here."
+                "en": "Late afternoon light is ideal for photography here.",
+                "es": "La luz de última hora de la tarde es ideal para fotografía aquí."
               }
             },
             {
@@ -500,7 +537,8 @@
                 "de": "Beachten Sie die kürzeren Winteröffnungszeiten.",
                 "hu": "Ügyeljen a rövidebb téli nyitvatartási időre.",
                 "ro": "Atenție la programul de iarnă mai scurt.",
-                "en": "Note the shorter winter opening hours."
+                "en": "Note the shorter winter opening hours.",
+                "es": "Ten en cuenta los horarios de apertura reducidos en invierno."
               }
             }
           ],
@@ -528,6 +566,12 @@
               "Layered clothing is best to block the ocean wind.",
               "Try local Albariño wine in a cozy bodega.",
               "Note that many beach bars are closed in winter."
+            ],
+            "es": [
+              "El atardecer ocurre temprano, alrededor de las 18:00.",
+              "La mejor opción es vestir por capas para protegerte del viento del océano.",
+              "Prueba el vino Albariño local en una bodega acogedora.",
+              "Ten en cuenta que muchos chiringuitos están cerrados en invierno."
             ]
           }
         }
@@ -556,7 +600,8 @@
             "de": "Startpunkt für Radtouren.",
             "hu": "Bringás túrák kiindulópontja.",
             "ro": "Punct de plecare pentru ture cu bicicleta.",
-            "en": "Starting point for bike tours."
+            "en": "Starting point for bike tours.",
+            "es": "Punto de partida para rutas en bicicleta."
           }
         },
         {
@@ -574,7 +619,8 @@
             "de": "Flache Wege, ideal zum Radfahren.",
             "hu": "Lapos utak, ideális kerékpározáshoz.",
             "ro": "Drumuri plate, ideale pentru bicicletă.",
-            "en": "Flat paths, ideal for cycling."
+            "en": "Flat paths, ideal for cycling.",
+            "es": "Caminos llanos, ideales para el ciclismo."
           }
         },
         {
@@ -592,7 +638,8 @@
             "de": "Einer der besten Strände Galiciens.",
             "hu": "Galícia egyik legjobb strandja.",
             "ro": "Una dintre cele mai bune plaje din Galiția.",
-            "en": "One of Galicia's best beaches."
+            "en": "One of Galicia's best beaches.",
+            "es": "Una de las mejores playas de Galicia."
           }
         },
         {
@@ -610,7 +657,8 @@
             "de": "Herausfordernder Anstieg, toller Ausblick.",
             "hu": "Kihívást jelentő emelkedő, remek kilátás.",
             "ro": "Urcare provocatoare, vedere superba.",
-            "en": "Challenging climb, great view."
+            "en": "Challenging climb, great view.",
+            "es": "Ascenso exigente, gran vista."
           }
         },
         {
@@ -628,7 +676,8 @@
             "de": "Antike römische Ruinen am Strand.",
             "hu": "Ókori római romok a parton.",
             "ro": "Ruine romane antice pe plajă.",
-            "en": "Ancient Roman ruins on the beach."
+            "en": "Ancient Roman ruins on the beach.",
+            "es": "Restos romanos antiguos en la playa."
           }
         }
       ],
@@ -636,7 +685,8 @@
         "de": "Diese Radtour verbindet Küste und Panorama. Nach der Insel La Toja fahren wir zum weiten Lanzada-Strand. Der Aufstieg zum Monte Siradella belohnt uns mit dem besten Blick über die Rías Baixas. Zum Abschluss besuchen wir die geheimnisvolle Nekropole Adro Vello direkt am Meer.",
         "hu": "Ez a bringatúra ötvözi a partot és a panorámát. A La Toja-sziget után a tágas Lanzada-strandra tekerünk. A Monte Siradella emelkedője a legjobb kilátással jutalmaz a Rías Baixas öbölre. Zárásként a titokzatos Adro Vello nekropoliszt nézzük meg közvetlenül a tengerparton.",
         "ro": "Această tură cu bicicleta combină coasta și panorama. După insula La Toja, pedalăm către plaja vastă Lanzada. Urcarea pe Monte Siradella ne răsplătește cu cea mai bună vedere asupra Rías Baixas. La final, vizităm necropola misterioasă Adro Vello, direct pe malul mării.",
-        "en": "This bike tour combines coast and panorama. After La Toja island, we cycle to the vast Lanzada beach. The climb to Monte Siradella rewards us with the best view over the Rías Baixas. To finish, we visit the mysterious Adro Vello necropolis right on the shore."
+        "en": "This bike tour combines coast and panorama. After La Toja island, we cycle to the vast Lanzada beach. The climb to Monte Siradella rewards us with the best view over the Rías Baixas. To finish, we visit the mysterious Adro Vello necropolis right on the shore.",
+        "es": "Esta ruta en bicicleta combina costa y panoramas. Tras La Toja, pedaleamos hasta la extensa playa de A Lanzada. La subida a Monte Siradella nos recompensa con la mejor vista sobre las Rías Baixas. Para terminar, visitamos la misteriosa necrópolis de Adro Vello junto a la orilla."
       },
       "gastro_picks": {
         "de": [
@@ -736,6 +786,10 @@
         "en": [
           "Take plenty of water for the climb.",
           "Windproof clothing is advisable on the beach."
+        ],
+        "es": [
+          "Lleva abundante agua para la subida.",
+          "Es recomendable ropa cortavientos en la playa."
         ]
       },
       "variants": {
@@ -744,7 +798,8 @@
             "de": "Diese Radtour verbindet Küste und Panorama. Nach der Insel La Toja fahren wir zum weiten Lanzada-Strand. Der Aufstieg zum Monte Siradella belohnt uns mit dem besten Blick über die Rías Baixas. Zum Abschluss besuchen wir die geheimnisvolle Nekropole Adro Vello direkt am Meer.",
             "hu": "Ez a bringatúra ötvözi a partot és a panorámát. A La Toja-sziget után a tágas Lanzada-strandra tekerünk. A Monte Siradella emelkedője a legjobb kilátással jutalmaz a Rías Baixas öbölre. Zárásként a titokzatos Adro Vello nekropoliszt nézzük meg közvetlenül a tengerparton.",
             "ro": "Această tură cu bicicleta combină coasta și panorama. După insula La Toja, pedalăm către plaja vastă Lanzada. Urcarea pe Monte Siradella ne răsplătește cu cea mai bună vedere asupra Rías Baixas. La final, vizităm necropola misterioasă Adro Vello, direct pe malul mării.",
-            "en": "This bike tour combines coast and panorama. After La Toja island, we cycle to the vast Lanzada beach. The climb to Monte Siradella rewards us with the best view over the Rías Baixas. To finish, we visit the mysterious Adro Vello necropolis right on the shore."
+            "en": "This bike tour combines coast and panorama. After La Toja island, we cycle to the vast Lanzada beach. The climb to Monte Siradella rewards us with the best view over the Rías Baixas. To finish, we visit the mysterious Adro Vello necropolis right on the shore.",
+            "es": "Esta ruta en bicicleta combina costa y panoramas. Tras La Toja, pedaleamos hasta la extensa playa de A Lanzada. La subida a Monte Siradella nos recompensa con la mejor vista sobre las Rías Baixas. Para terminar, visitamos la misteriosa necrópolis de Adro Vello junto a la orilla."
           },
           "stops": [
             {
@@ -753,7 +808,8 @@
                 "de": "Startpunkt für Radtouren.",
                 "hu": "Bringás túrák kiindulópontja.",
                 "ro": "Punct de plecare pentru ture cu bicicleta.",
-                "en": "Starting point for bike tours."
+                "en": "Starting point for bike tours.",
+                "es": "Punto de partida para rutas en bicicleta."
               }
             },
             {
@@ -762,7 +818,8 @@
                 "de": "Flache Wege, ideal zum Radfahren.",
                 "hu": "Lapos utak, ideális kerékpározáshoz.",
                 "ro": "Drumuri plate, ideale pentru bicicletă.",
-                "en": "Flat paths, ideal for cycling."
+                "en": "Flat paths, ideal for cycling.",
+                "es": "Caminos llanos, ideales para el ciclismo."
               }
             },
             {
@@ -771,7 +828,8 @@
                 "de": "Einer der besten Strände Galiciens.",
                 "hu": "Galícia egyik legjobb strandja.",
                 "ro": "Una dintre cele mai bune plaje din Galiția.",
-                "en": "One of Galicia's best beaches."
+                "en": "One of Galicia's best beaches.",
+                "es": "Una de las mejores playas de Galicia."
               }
             },
             {
@@ -780,7 +838,8 @@
                 "de": "Herausfordernder Anstieg, toller Ausblick.",
                 "hu": "Kihívást jelentő emelkedő, remek kilátás.",
                 "ro": "Urcare provocatoare, vedere superba.",
-                "en": "Challenging climb, great view."
+                "en": "Challenging climb, great view.",
+                "es": "Ascenso exigente, gran vista."
               }
             },
             {
@@ -789,7 +848,8 @@
                 "de": "Antike römische Ruinen am Strand.",
                 "hu": "Ókori római romok a parton.",
                 "ro": "Ruine romane antice pe plajă.",
-                "en": "Ancient Roman ruins on the beach."
+                "en": "Ancient Roman ruins on the beach.",
+                "es": "Restos romanos antiguos en la playa."
               }
             }
           ],
@@ -891,6 +951,10 @@
             "en": [
               "Take plenty of water for the climb.",
               "Windproof clothing is advisable on the beach."
+            ],
+            "es": [
+              "Lleva abundante agua para la subida.",
+              "Es recomendable ropa cortavientos en la playa."
             ]
           }
         },
@@ -899,7 +963,8 @@
             "de": "Eine nasse Radtour beginnt am Hafen. Wir radeln vorsichtig zur Isla de La Toja und weiter zum stürmischen Strand von A Lanzada. Mittags suchen wir Schutz bei der Nekropole. Nachmittags erklimmen wir den Monte Siradella in Wolken, bevor wir durchnässt, aber zufrieden zurückkehren.",
             "hu": "Vizes kerékpártúra indul a kikötőből. Óvatosan tekerünk a La Toja-szigetre, majd tovább a szeles A Lanzada strandra. Délben az nekropolisznál keresünk menedéket. Délután feltekerünk a felhőbe burkolózó Monte Siradella-ra, mielőtt átázva, de elégedetten visszatérnénk.",
             "ro": "O tură umedă pe bicicletă începe din port. Pedalăm cu grijă spre Insula La Toja și apoi spre plaja A Lanzada. La prânz căutăm adăpost lângă necropolă. După-amiaza urcăm pe Monte Siradella printre nori, înainte de a ne întoarce uzi, dar mulțumiți.",
-            "en": "A wet cycling tour starts at the port. We pedal carefully to La Toja Island and then to the stormy A Lanzada beach. At noon, we find shelter near the necropolis. In the afternoon, we climb Monte Siradella shrouded in clouds before returning soaked but satisfied."
+            "en": "A wet cycling tour starts at the port. We pedal carefully to La Toja Island and then to the stormy A Lanzada beach. At noon, we find shelter near the necropolis. In the afternoon, we climb Monte Siradella shrouded in clouds before returning soaked but satisfied.",
+            "es": "Una ruta ciclista en húmedo comienza en el puerto. Pedaleamos con cuidado hasta la Isla de La Toja y luego hasta la agreste playa de A Lanzada. Al mediodía buscamos refugio junto a la necrópolis. Por la tarde subimos Monte Siradella envuelto en nubes antes de volver empapados pero satisfechos."
           },
           "stops": [
             {
@@ -908,7 +973,8 @@
                 "de": "Vermeiden Sie das Bremsen auf den nassen Markierungen.",
                 "hu": "Kerülje a fékezést a nedves útburkolati jeleken.",
                 "ro": "Evitați frânarea pe marcajele rutiere umede.",
-                "en": "Avoid braking on wet road markings."
+                "en": "Avoid braking on wet road markings.",
+                "es": "Evita frenar sobre las marcas viales mojadas."
               }
             },
             {
@@ -917,7 +983,8 @@
                 "de": "Die Wege unter den Bäumen sind weniger nass.",
                 "hu": "A fák alatti utak kevésbé vizesek.",
                 "ro": "Potecile de sub copaci sunt mai puțin umede.",
-                "en": "Paths under the trees stay drier."
+                "en": "Paths under the trees stay drier.",
+                "es": "Los senderos bajo los árboles se mantienen más secos."
               }
             },
             {
@@ -926,7 +993,8 @@
                 "de": "Der Wind kann hier bei Regen sehr stark sein.",
                 "hu": "Az esőben a szél itt nagyon erős lehet.",
                 "ro": "Vântul poate fi foarte puternic aici pe ploaie.",
-                "en": "Wind can be very strong here during rain."
+                "en": "Wind can be very strong here during rain.",
+                "es": "El viento puede ser muy fuerte aquí durante la lluvia."
               }
             },
             {
@@ -935,7 +1003,8 @@
                 "de": "Die Abfahrt bei Regen erfordert höchste Vorsicht.",
                 "hu": "Az esőben való legurulás fokozott óvatosságot igényel.",
                 "ro": "Coborârea pe ploaie necesită prudență maximă.",
-                "en": "Descending in rain requires extreme caution."
+                "en": "Descending in rain requires extreme caution.",
+                "es": "Descender con lluvia requiere extrema precaución."
               }
             },
             {
@@ -944,7 +1013,8 @@
                 "de": "Unterstand bei den Ausgrabungen nutzen.",
                 "hu": "Használja az ásatásoknál lévő tetőt.",
                 "ro": "Folosiți adăpostul de lângă săpături.",
-                "en": "Use the shelter near the excavations."
+                "en": "Use the shelter near the excavations.",
+                "es": "Utiliza el refugio cerca de las excavaciones."
               }
             }
           ],
@@ -972,6 +1042,12 @@
               "Test your brakes frequently in wet conditions.",
               "Wear high-visibility waterproof gear.",
               "The coastal road may experience sea spray during storms."
+            ],
+            "es": [
+              "Asegúrate de que tu bicicleta tenga guardabarros funcionales.",
+              "Prueba los frenos con frecuencia en condiciones húmedas.",
+              "Lleva equipo impermeable de alta visibilidad.",
+              "La carretera costera puede recibir salpicaduras de mar durante las tormentas."
             ]
           }
         },
@@ -980,7 +1056,8 @@
             "de": "Winterliches Radfahren bei frischer Brise. Wir erkunden die Isla de La Toja am Vormittag. Der Radweg nach A Lanzada ist im Winter herrlich leer. Mittags genießen wir die Aussicht vom Monte Siradella, bevor wir die historische Nekropole besuchen und die Tour vor Sonnenuntergang beenden.",
             "hu": "Téli kerékpározás friss szélben. Délelőtt a La Toja-szigetet fedezzük fel. Az A Lanzada-ba vezető kerékpárút télen csodálatosan üres. Délben élvezzük a kilátást a Monte Siradella-ról, majd meglátogatjuk a történelmi nekropoliszt a naplemente előtt.",
             "ro": "Ciclism de iarnă în briza proaspătă. Explorăm Insula La Toja dimineața. Pista de biciclete spre A Lanzada este minunat de goală iarna. La prânz ne bucurăm de priveliștea de pe Monte Siradella, vizităm necropola și încheiem turul înainte de apus.",
-            "en": "Winter cycling in a fresh breeze. We explore La Toja Island in the morning. The bike path to A Lanzada is wonderfully empty in winter. At noon, we enjoy the views from Monte Siradella, then visit the historical necropolis before sunset."
+            "en": "Winter cycling in a fresh breeze. We explore La Toja Island in the morning. The bike path to A Lanzada is wonderfully empty in winter. At noon, we enjoy the views from Monte Siradella, then visit the historical necropolis before sunset.",
+            "es": "Ciclismo invernal con brisa fresca. Por la mañana exploramos la Isla de La Toja. El carril a A Lanzada está maravillosamente vacío en invierno. Al mediodía disfrutamos de las vistas desde Monte Siradella y luego visitamos la necrópolis histórica antes del atardecer."
           },
           "stops": [
             {
@@ -989,7 +1066,8 @@
                 "de": "Starten Sie spät, wenn der Frost getaut ist.",
                 "hu": "Induljon később, ha már elolvadt a dér.",
                 "ro": "Porniți mai târziu, după ce s-a topit bruma.",
-                "en": "Start later once any morning frost has thawed."
+                "en": "Start later once any morning frost has thawed.",
+                "es": "Comienza más tarde una vez que haya desaparecido la escarcha matinal."
               }
             },
             {
@@ -998,7 +1076,8 @@
                 "de": "Wenig Verkehr, ideal zum entspannten Radeln.",
                 "hu": "Kevés forgalom, ideális a nyugodt tekeréshez.",
                 "ro": "Trafic redus, ideal pentru pedalat relaxat.",
-                "en": "Low traffic, ideal for relaxed cycling."
+                "en": "Low traffic, ideal for relaxed cycling.",
+                "es": "Poco tráfico, ideal para un ciclismo relajado."
               }
             },
             {
@@ -1007,7 +1086,8 @@
                 "de": "Starke Winde aus dem Westen einplanen.",
                 "hu": "Számoljon az erős nyugati széllel.",
                 "ro": "Planificați pentru vânturi puternice din vest.",
-                "en": "Prepare for strong westerly winds."
+                "en": "Prepare for strong westerly winds.",
+                "es": "Prepárate para fuertes vientos del oeste."
               }
             },
             {
@@ -1016,7 +1096,8 @@
                 "de": "Oben ist es deutlich kälter, Handschuhe an!",
                 "hu": "Fent jóval hidegebb van, vegyen fel kesztyűt!",
                 "ro": "Sus este mult mai frig, puneți-vă mănușile!",
-                "en": "It's much colder at the top; wear gloves!"
+                "en": "It's much colder at the top; wear gloves!",
+                "es": "Hace mucho más frío en la cima; ¡lleva guantes!"
               }
             },
             {
@@ -1025,7 +1106,8 @@
                 "de": "Die Ruinen wirken im Winterlicht mystisch.",
                 "hu": "A romok misztikusak a téli fényben.",
                 "ro": "Ruinele par mistice în lumina iernii.",
-                "en": "The ruins look mystical in the winter light."
+                "en": "The ruins look mystical in the winter light.",
+                "es": "Las ruinas se ven místicas con la luz invernal."
               }
             }
           ],
@@ -1053,6 +1135,12 @@
               "Days are short; bike lights are mandatory.",
               "Plan your route to have the wind at your back.",
               "Hot tea in a thermos works wonders for morale."
+            ],
+            "es": [
+              "Lleva guantes térmicos y una cinta para la cabeza bajo el casco.",
+              "Los días son cortos; las luces para bicicleta son obligatorias.",
+              "Planifica la ruta para llevar el viento de espalda.",
+              "El té caliente en un termo hace milagros para la moral."
             ]
           }
         }
@@ -1081,7 +1169,8 @@
             "de": "Parkplätze direkt am Hafen.",
             "hu": "Parkolók közvetlenül a kikötőben.",
             "ro": "Parcare direct în port.",
-            "en": "Parking right at the port."
+            "en": "Parking right at the port.",
+            "es": "Aparcamiento justo en el puerto."
           }
         },
         {
@@ -1099,7 +1188,8 @@
             "de": "Ideal für Familien.",
             "hu": "Ideális családoknak.",
             "ro": "Ideal pentru familii.",
-            "en": "Ideal for families."
+            "en": "Ideal for families.",
+            "es": "Ideal para familias."
           }
         },
         {
@@ -1117,7 +1207,8 @@
             "de": "Alte Fabrik mit Meeresflair.",
             "hu": "Régi gyár tengeri hangulattal.",
             "ro": "Veche fabrică cu atmosferă marină.",
-            "en": "Old factory with sea flair."
+            "en": "Old factory with sea flair.",
+            "es": "Antigua fábrica con ambiente marinero."
           }
         },
         {
@@ -1135,7 +1226,8 @@
             "de": "Großer Parkplatz vorhanden.",
             "hu": "Nagy parkoló áll rendelkezésre.",
             "ro": "Parcare mare disponibilă.",
-            "en": "Large parking available."
+            "en": "Large parking available.",
+            "es": "Amplio aparcamiento disponible."
           }
         },
         {
@@ -1153,7 +1245,8 @@
             "de": "Bequem mit dem Auto erreichbar.",
             "hu": "Autóval kényelmesen elérhető.",
             "ro": "Accesibil confortabil cu mașina.",
-            "en": "Comfortably accessible by car."
+            "en": "Comfortably accessible by car.",
+            "es": "De fácil acceso en coche."
           }
         },
         {
@@ -1171,7 +1264,8 @@
             "de": "Kurzer Stopp auf La Toja.",
             "hu": "Rövid megálló La Toján.",
             "ro": "Scurtă oprire pe La Toja.",
-            "en": "Short stop on La Toja."
+            "en": "Short stop on La Toja.",
+            "es": "Parada corta en La Toja."
           }
         }
       ],
@@ -1179,7 +1273,8 @@
         "de": "Mit dem Auto entdecken wir die Highlights der Halbinsel. Vom Aquarium geht es zum Salzmuseum, dann zum berühmten Lanzada-Strand. Wir fahren hinauf zum Monte Siradella für das Panorama und beenden die Tour auf der Insel La Toja. Perfekt für maximale Flexibilität.",
         "hu": "Autóval fedezzük fel a félsziget fénypontjait. Az Akváriumtól a Sózási Múzeumba, majd a híres Lanzada-strandra megyünk. Felhajtunk a Monte Siradellára a panorámáért, és a La Toja-szigeten fejezzük be a túrát. Tökéletes a maximális rugalmassághoz.",
         "ro": "Cu mașina descoperim punctele forte ale peninsulei. De la Acvariu mergem la Muzeul Sării, apoi la faimoasa plajă Lanzada. Urcăm pe Monte Siradella pentru panoramă și încheiem turul pe insula La Toja. Perfect pentru flexibilitate maximă.",
-        "en": "By car we discover the highlights of the peninsula. From the Aquarium to the Salting Museum, then to the famous Lanzada beach. We drive up Monte Siradella for the panorama and finish the tour on La Toja island. Perfect for maximum flexibility."
+        "en": "By car we discover the highlights of the peninsula. From the Aquarium to the Salting Museum, then to the famous Lanzada beach. We drive up Monte Siradella for the panorama and finish the tour on La Toja island. Perfect for maximum flexibility.",
+        "es": "En coche descubrimos lo más destacado de la península. Desde el Acuario hasta el Museo de la Salazón, pasando por la famosa playa de A Lanzada. Subimos al Monte Siradella para el panorama y terminamos la ruta en la isla de La Toja. Perfecto para máxima flexibilidad."
       },
       "gastro_picks": {
         "de": [
@@ -1279,6 +1374,10 @@
         "en": [
           "Parking in high season can be difficult.",
           "The streets on La Toja are narrow."
+        ],
+        "es": [
+          "El aparcamiento en temporada alta puede ser difícil.",
+          "Las calles de La Toja son estrechas."
         ]
       },
       "variants": {
@@ -1287,7 +1386,8 @@
             "de": "Mit dem Auto entdecken wir die Highlights der Halbinsel. Vom Aquarium geht es zum Salzmuseum, dann zum berühmten Lanzada-Strand. Wir fahren hinauf zum Monte Siradella für das Panorama und beenden die Tour auf der Insel La Toja. Perfekt für maximale Flexibilität.",
             "hu": "Autóval fedezzük fel a félsziget fénypontjait. Az Akváriumtól a Sózási Múzeumba, majd a híres Lanzada-strandra megyünk. Felhajtunk a Monte Siradellára a panorámáért, és a La Toja-szigeten fejezzük be a túrát. Tökéletes a maximális rugalmassághoz.",
             "ro": "Cu mașina descoperim punctele forte ale peninsulei. De la Acvariu mergem la Muzeul Sării, apoi la faimoasa plajă Lanzada. Urcăm pe Monte Siradella pentru panoramă și încheiem turul pe insula La Toja. Perfect pentru flexibilitate maximă.",
-            "en": "By car we discover the highlights of the peninsula. From the Aquarium to the Salting Museum, then to the famous Lanzada beach. We drive up Monte Siradella for the panorama and finish the tour on La Toja island. Perfect for maximum flexibility."
+            "en": "By car we discover the highlights of the peninsula. From the Aquarium to the Salting Museum, then to the famous Lanzada beach. We drive up Monte Siradella for the panorama and finish the tour on La Toja island. Perfect for maximum flexibility.",
+            "es": "En coche descubrimos lo más destacado de la península. Desde el Acuario hasta el Museo de la Salazón, pasando por la famosa playa de A Lanzada. Subimos al Monte Siradella para el panorama y terminamos la ruta en la isla de La Toja. Perfecto para máxima flexibilidad."
           },
           "stops": [
             {
@@ -1296,7 +1396,8 @@
                 "de": "Parkplätze direkt am Hafen.",
                 "hu": "Parkolók közvetlenül a kikötőben.",
                 "ro": "Parcare direct în port.",
-                "en": "Parking right at the port."
+                "en": "Parking right at the port.",
+                "es": "Aparcamiento justo en el puerto."
               }
             },
             {
@@ -1305,7 +1406,8 @@
                 "de": "Ideal für Familien.",
                 "hu": "Ideális családoknak.",
                 "ro": "Ideal pentru familii.",
-                "en": "Ideal for families."
+                "en": "Ideal for families.",
+                "es": "Ideal para familias."
               }
             },
             {
@@ -1314,7 +1416,8 @@
                 "de": "Alte Fabrik mit Meeresflair.",
                 "hu": "Régi gyár tengeri hangulattal.",
                 "ro": "Veche fabrică cu atmosferă marină.",
-                "en": "Old factory with sea flair."
+                "en": "Old factory with sea flair.",
+                "es": "Antigua fábrica con ambiente marinero."
               }
             },
             {
@@ -1323,7 +1426,8 @@
                 "de": "Großer Parkplatz vorhanden.",
                 "hu": "Nagy parkoló áll rendelkezésre.",
                 "ro": "Parcare mare disponibilă.",
-                "en": "Large parking available."
+                "en": "Large parking available.",
+                "es": "Amplio aparcamiento disponible."
               }
             },
             {
@@ -1332,7 +1436,8 @@
                 "de": "Bequem mit dem Auto erreichbar.",
                 "hu": "Autóval kényelmesen elérhető.",
                 "ro": "Accesibil confortabil cu mașina.",
-                "en": "Comfortably accessible by car."
+                "en": "Comfortably accessible by car.",
+                "es": "De fácil acceso en coche."
               }
             },
             {
@@ -1341,7 +1446,8 @@
                 "de": "Kurzer Stopp auf La Toja.",
                 "hu": "Rövid megálló La Toján.",
                 "ro": "Scurtă oprire pe La Toja.",
-                "en": "Short stop on La Toja."
+                "en": "Short stop on La Toja.",
+                "es": "Parada corta en La Toja."
               }
             }
           ],
@@ -1443,6 +1549,10 @@
             "en": [
               "Parking in high season can be difficult.",
               "The streets on La Toja are narrow."
+            ],
+            "es": [
+              "El aparcamiento en temporada alta puede ser difícil.",
+              "Las calles de La Toja son estrechas."
             ]
           }
         },
@@ -1451,7 +1561,8 @@
             "de": "Mit dem Auto erkunden wir O Grove bei Regen ganz entspannt. Vormittags besuchen wir das Aquarium, ein perfekter Zufluchtsort. Mittags geht es zum Salzungsmuseum. Trotz Regen genießen wir den Blick auf A Lanzada aus dem trockenen Auto und beenden den Tag bei der Muschelkapelle auf La Toja.",
             "hu": "Autóval kényelmesen fedezzük fel O Grove-ot esőben is. Délelőtt az akváriumot látogatjuk meg, ami tökéletes menedék. Délben a Sózási Múzeumba megyünk. Az eső ellenére a száraz autóból élvezzük A Lanzada látványát, a napot pedig a La Toja-szigeti kápolnánál zárjuk.",
             "ro": "Cu mașina explorăm O Grove relaxat chiar și pe ploaie. Dimineața vizităm Acvariul, un refugiu perfect. La prânz mergem la Muzeul Sării. În ciuda ploii, admirăm A Lanzada din confortul mașinii și încheiem ziua la Capela Scoicilor de pe La Toja.",
-            "en": "By car, we explore O Grove comfortably despite the rain. In the morning, we visit the Aquarium, a perfect indoor refuge. At noon, we head to the Salting Museum. We enjoy the views of A Lanzada from the dry car and finish the day at the Shell Chapel on La Toja."
+            "en": "By car, we explore O Grove comfortably despite the rain. In the morning, we visit the Aquarium, a perfect indoor refuge. At noon, we head to the Salting Museum. We enjoy the views of A Lanzada from the dry car and finish the day at the Shell Chapel on La Toja.",
+            "es": "En coche, exploramos O Grove cómodamente a pesar de la lluvia. Por la mañana visitamos el Acuario, un refugio perfecto bajo techo. Al mediodía vamos al Museo de la Salazón. Disfrutamos las vistas de A Lanzada desde el coche seco y terminamos el día en la Capilla de las Conchas en La Toja."
           },
           "stops": [
             {
@@ -1460,7 +1571,8 @@
                 "de": "Parken Sie nah an den Restaurants.",
                 "hu": "Parkoljon közel az éttermekhez.",
                 "ro": "Parcați aproape de restaurante.",
-                "en": "Park close to the restaurants."
+                "en": "Park close to the restaurants.",
+                "es": "Aparca cerca de los restaurantes."
               }
             },
             {
@@ -1469,7 +1581,8 @@
                 "de": "Bestes Ziel bei starkem Regen.",
                 "hu": "A legjobb úti cél heves esőben.",
                 "ro": "Cea mai bună destinație pe ploaie torențială.",
-                "en": "Best destination during heavy rain."
+                "en": "Best destination during heavy rain.",
+                "es": "Mejor destino con lluvia intensa."
               }
             },
             {
@@ -1478,7 +1591,8 @@
                 "de": "Parkplatz direkt vor dem Eingang.",
                 "hu": "Parkoló közvetlenül a bejárat előtt.",
                 "ro": "Parcare chiar în fața intrării.",
-                "en": "Parking is available right in front."
+                "en": "Parking is available right in front.",
+                "es": "El aparcamiento está disponible justo en frente."
               }
             },
             {
@@ -1487,7 +1601,8 @@
                 "de": "Beobachten Sie die Wellen vom Parkplatz aus.",
                 "hu": "Figyelje a hullámokat a parkolóból.",
                 "ro": "Observați valurile din parcare.",
-                "en": "Watch the waves from the parking lot."
+                "en": "Watch the waves from the parking lot.",
+                "es": "Mira las olas desde el aparcamiento."
               }
             },
             {
@@ -1496,7 +1611,8 @@
                 "de": "Vorsicht bei Nebel auf der schmalen Straße.",
                 "hu": "Vigyázat köd esetén a szűk úton.",
                 "ro": "Atenție la ceață pe drumul îngust.",
-                "en": "Be careful with fog on the narrow road."
+                "en": "Be careful with fog on the narrow road.",
+                "es": "Ten cuidado con la niebla en la carretera estrecha."
               }
             },
             {
@@ -1505,7 +1621,8 @@
                 "de": "Kurzer Laufweg vom Auto zur Kapelle.",
                 "hu": "Rövid séta az autótól a kápolnáig.",
                 "ro": "Drum scurt de la mașină la chapelă.",
-                "en": "Short walk from the car to the chapel."
+                "en": "Short walk from the car to the chapel.",
+                "es": "Corta caminata desde el coche hasta la capilla."
               }
             }
           ],
@@ -1533,6 +1650,12 @@
               "Watch out for deep puddles on coastal roads.",
               "The Aquarium is ideal for families when it rains.",
               "Keep your windows defogged for the best views."
+            ],
+            "es": [
+              "Utiliza aparcamientos junto a los puntos de interés.",
+              "Cuidado con charcos profundos en las carreteras costeras.",
+              "El Acuario es ideal para familias cuando llueve.",
+              "Mantén los cristales desempañados para las mejores vistas."
             ]
           }
         },
@@ -1541,7 +1664,8 @@
             "de": "Ein winterlicher Roadtrip durch O Grove. Wir starten am Hafen und besuchen das Aquarium am Vormittag. Die Fahrt entlang der Küste nach A Lanzada bietet dramatische Ausblicke auf den Atlantik. Mittags genießen wir das Panorama vom Monte Siradella und beenden den Tag auf der Isla de La Toja.",
             "hu": "Téli autós kirándulás O Grove-ban. A kikötőben kezdünk, majd délelőtt az akváriumot látogatjuk meg. A parti út A Lanzada felé drámai kilátást nyújt az Atlanti-óceánra. Délben a Monte Siradella panorámáját élvezzük, a napot pedig a La Toja-szigeten zárjuk.",
             "ro": "Un roadtrip de iarnă prin O Grove. Începem în port și vizităm Acvariul dimineața. Drumul de coastă spre A Lanzada oferă vederi dramatice asupra Atlanticului. La prânz admirăm panorama de pe Monte Siradella și încheiem ziua pe Insula La Toja.",
-            "en": "A winter road trip through O Grove. We start at the port and visit the Aquarium in the morning. The drive along the coast to A Lanzada offers dramatic Atlantic views. At noon, we enjoy the panorama from Monte Siradella and end the day on La Toja Island."
+            "en": "A winter road trip through O Grove. We start at the port and visit the Aquarium in the morning. The drive along the coast to A Lanzada offers dramatic Atlantic views. At noon, we enjoy the panorama from Monte Siradella and end the day on La Toja Island.",
+            "es": "Un viaje por carretera invernal por O Grove. Empezamos en el puerto y visitamos el Acuario por la mañana. El paseo por la costa hasta A Lanzada ofrece vistas atlánticas espectaculares. Al mediodía disfrutamos del panorama desde el Monte Siradella y terminamos el día en la isla de La Toja."
           },
           "stops": [
             {
@@ -1550,7 +1674,8 @@
                 "de": "Frische Meeresfrüchte ohne Wartezeit.",
                 "hu": "Friss tengeri herentyűk várakozás nélkül.",
                 "ro": "Fructe de mare proaspete fără așteptare.",
-                "en": "Fresh seafood without the typical wait times."
+                "en": "Fresh seafood without the typical wait times.",
+                "es": "Marisco fresco sin las habituales colas."
               }
             },
             {
@@ -1559,7 +1684,8 @@
                 "de": "Drinnen ist es angenehm warm.",
                 "hu": "Odabent kellemesen meleg van.",
                 "ro": "Înăuntru este plăcut și cald.",
-                "en": "It's comfortably warm inside."
+                "en": "It's comfortably warm inside.",
+                "es": "Está cómodamente cálido en el interior."
               }
             },
             {
@@ -1568,7 +1694,8 @@
                 "de": "Interessante Einblicke in die Winterfischerei.",
                 "hu": "Érdekes betekintés a téli halászatba.",
                 "ro": "Perspective interesante asupra pescuitului de iarnă.",
-                "en": "Interesting insights into winter fishing."
+                "en": "Interesting insights into winter fishing.",
+                "es": "Interesantes datos sobre la pesca invernal."
               }
             },
             {
@@ -1577,7 +1704,8 @@
                 "de": "Wildes Meer, toll für Fotos aus dem Auto.",
                 "hu": "Vad tenger, remek fotókhoz az autóból.",
                 "ro": "Mare agitată, excelent pentru poze din mașină.",
-                "en": "Wild sea; great for photos from the car."
+                "en": "Wild sea; great for photos from the car.",
+                "es": "Mar picado; ideal para fotos desde el coche."
               }
             },
             {
@@ -1586,7 +1714,8 @@
                 "de": "Beste Fernsicht bei klarer Winterluft.",
                 "hu": "Legjobb kilátás tiszta téli levegőben.",
                 "ro": "Cea mai bună vizibilitate în aerul curat de iarnă.",
-                "en": "Best long-distance views in clear winter air."
+                "en": "Best long-distance views in clear winter air.",
+                "es": "Mejores vistas de larga distancia con el aire invernal despejado."
               }
             },
             {
@@ -1595,7 +1724,8 @@
                 "de": "Die Kapelle wirkt im Winterlicht sehr still.",
                 "hu": "A kápolna nagyon csendes a téli fényben.",
                 "ro": "Capela pare foarte liniștită în lumina iernii.",
-                "en": "The chapel feels very serene in winter light."
+                "en": "The chapel feels very serene in winter light.",
+                "es": "La capilla se siente muy serena con la luz invernal."
               }
             }
           ],
@@ -1623,6 +1753,12 @@
               "Enjoy the sunset from La Toja Island.",
               "Parking is very easy to find in winter.",
               "Car heating ensures comfort during photo stops."
+            ],
+            "es": [
+              "Revisa la presión de los neumáticos antes del viaje.",
+              "Disfruta del atardecer desde la isla de La Toja.",
+              "Encontrar aparcamiento es muy fácil en invierno.",
+              "La calefacción del coche garantiza confort durante las paradas para fotos."
             ]
           }
         }
@@ -1651,7 +1787,8 @@
             "de": "Zentraler Busstopp.",
             "hu": "Központi buszmegálló.",
             "ro": "Stație centrală de autobuz.",
-            "en": "Central bus stop."
+            "en": "Central bus stop.",
+            "es": "Parada de autobús central."
           }
         },
         {
@@ -1669,7 +1806,8 @@
             "de": "Vom Zentrum aus leicht zu Fuß erreichbar.",
             "hu": "A központból gyalog könnyen elérhető.",
             "ro": "Ușor accesibil pe jos din centru.",
-            "en": "Easily accessible on foot from the center."
+            "en": "Easily accessible on foot from the center.",
+            "es": "De fácil acceso a pie desde el centro."
           }
         },
         {
@@ -1687,7 +1825,8 @@
             "de": "Busse halten direkt am Strandzugang.",
             "hu": "A buszok közvetlenül a strandnál állnak meg.",
             "ro": "Autobuzele opresc direct la intrarea pe plajă.",
-            "en": "Buses stop right at the beach access."
+            "en": "Buses stop right at the beach access.",
+            "es": "Los autobuses paran justo en el acceso a la playa."
           }
         },
         {
@@ -1705,7 +1844,8 @@
             "de": "Nur ein kurzer Fußweg vom Strandbus.",
             "hu": "Csak rövid séta a strandbusztól.",
             "ro": "Doar o scurtă plimbare de la autobuzul plajei.",
-            "en": "Just a short walk from the beach bus."
+            "en": "Just a short walk from the beach bus.",
+            "es": "A solo un corto paseo desde el autobús de la playa."
           }
         }
       ],
@@ -1713,7 +1853,8 @@
         "de": "Nutzen Sie den lokalen Nahverkehr, um entspannt zu reisen. Wir starten im Zentrum, besuchen die berühmte Kapelle auf La Toja und verbringen den Nachmittag am weitläufigen Lanzada-Strand. Ein unkomplizierter Weg, um die Küste zu genießen.",
         "hu": "Használja a helyi közlekedést a gondtalan utazáshoz. A központból indulunk, meglátogatjuk a híres La Toja-i kápolnát, a délutánt pedig a tágas Lanzada-strandon töltjük. Egyszerű módja a part élvezetének.",
         "ro": "Folosiți transportul local pentru o călătorie fără griji. Plecăm din centru, vizităm faimoasa capelă de pe La Toja și petrecem după-amiaza pe vasta plajă Lanzada. O modalitate simplă de a vă bucura de coastă.",
-        "en": "Use local transport for a worry-free journey. We start in the center, visit the famous chapel on La Toja, and spend the afternoon at the extensive Lanzada beach. A simple way to enjoy the coast."
+        "en": "Use local transport for a worry-free journey. We start in the center, visit the famous chapel on La Toja, and spend the afternoon at the extensive Lanzada beach. A simple way to enjoy the coast.",
+        "es": "Usa el transporte local para un viaje sin preocupaciones. Empezamos en el centro, visitamos la famosa capilla de La Toja y pasamos la tarde en la extensa playa de A Lanzada. Una forma sencilla de disfrutar la costa."
       },
       "gastro_picks": {
         "de": [
@@ -1813,6 +1954,10 @@
         "en": [
           "Check bus schedules online beforehand.",
           "Cash only is common on local buses."
+        ],
+        "es": [
+          "Consulta los horarios de los autobuses en línea antes.",
+          "Es común que los autobuses locales acepten solo efectivo."
         ]
       },
       "variants": {
@@ -1821,7 +1966,8 @@
             "de": "Nutzen Sie den lokalen Nahverkehr, um entspannt zu reisen. Wir starten im Zentrum, besuchen die berühmte Kapelle auf La Toja und verbringen den Nachmittag am weitläufigen Lanzada-Strand. Ein unkomplizierter Weg, um die Küste zu genießen.",
             "hu": "Használja a helyi közlekedést a gondtalan utazáshoz. A központból indulunk, meglátogatjuk a híres La Toja-i kápolnát, a délutánt pedig a tágas Lanzada-strandon töltjük. Egyszerű módja a part élvezetének.",
             "ro": "Folosiți transportul local pentru o călătorie fără griji. Plecăm din centru, vizităm faimoasa capelă de pe La Toja și petrecem după-amiaza pe vasta plajă Lanzada. O modalitate simplă de a vă bucura de coastă.",
-            "en": "Use local transport for a worry-free journey. We start in the center, visit the famous chapel on La Toja, and spend the afternoon at the extensive Lanzada beach. A simple way to enjoy the coast."
+            "en": "Use local transport for a worry-free journey. We start in the center, visit the famous chapel on La Toja, and spend the afternoon at the extensive Lanzada beach. A simple way to enjoy the coast.",
+            "es": "Usa el transporte local para un viaje sin preocupaciones. Empezamos en el centro, visitamos la famosa capilla de La Toja y pasamos la tarde en la extensa playa de A Lanzada. Una forma sencilla de disfrutar la costa."
           },
           "stops": [
             {
@@ -1830,7 +1976,8 @@
                 "de": "Zentraler Busstopp.",
                 "hu": "Központi buszmegálló.",
                 "ro": "Stație centrală de autobuz.",
-                "en": "Central bus stop."
+                "en": "Central bus stop.",
+                "es": "Parada de autobús central."
               }
             },
             {
@@ -1839,7 +1986,8 @@
                 "de": "Vom Zentrum aus leicht zu Fuß erreichbar.",
                 "hu": "A központból gyalog könnyen elérhető.",
                 "ro": "Ușor accesibil pe jos din centru.",
-                "en": "Easily accessible on foot from the center."
+                "en": "Easily accessible on foot from the center.",
+                "es": "De fácil acceso a pie desde el centro."
               }
             },
             {
@@ -1848,7 +1996,8 @@
                 "de": "Busse halten direkt am Strandzugang.",
                 "hu": "A buszok közvetlenül a strandnál állnak meg.",
                 "ro": "Autobuzele opresc direct la intrarea pe plajă.",
-                "en": "Buses stop right at the beach access."
+                "en": "Buses stop right at the beach access.",
+                "es": "Los autobuses paran justo en el acceso a la playa."
               }
             },
             {
@@ -1857,7 +2006,8 @@
                 "de": "Nur ein kurzer Fußweg vom Strandbus.",
                 "hu": "Csak rövid séta a strandbusztól.",
                 "ro": "Doar o scurtă plimbare de la autobuzul plajei.",
-                "en": "Just a short walk from the beach bus."
+                "en": "Just a short walk from the beach bus.",
+                "es": "A solo un corto paseo desde el autobús de la playa."
               }
             }
           ],
@@ -1959,6 +2109,10 @@
             "en": [
               "Check bus schedules online beforehand.",
               "Cash only is common on local buses."
+            ],
+            "es": [
+              "Consulta los horarios de los autobuses en línea antes.",
+              "Es común que los autobuses locales acepten solo efectivo."
             ]
           }
         },
@@ -1967,7 +2121,8 @@
             "de": "Mit dem Bus durch das verregnete O Grove. Wir starten am Hafen und fahren zur Muschelkapelle auf La Toja. Mittags bringt uns der Bus zum weiten Strand von A Lanzada, wo wir die Brandung beobachten. Den Nachmittag verbringen wir bei der Nekropole, bevor wir bequem im Trockenen zurückfahren.",
             "hu": "Busszal a ködös O Grove-ban. A kikötőből indulunk a La Toja-szigeti kápolnához. Délben a busz az A Lanzada strandhoz visz, ahol a hullámverést figyeljük. A délutánt a nekropolisznál töltjük, majd kényelmesen, szárazon utazunk vissza.",
             "ro": "Cu autobuzul prin O Grove-ul ploios. Pornim din port spre Capela Scoicilor de pe La Toja. La prânz, autobuzul ne duce la plaja A Lanzada pentru a vedea valurile. După-amiaza o petrecem la necropolă, înainte de a ne întoarce confortabil la adăpost.",
-            "en": "By bus through rainy O Grove. We start at the port and head to the Shell Chapel on La Toja. At noon, the bus takes us to A Lanzada beach to watch the surf. We spend the afternoon near the necropolis before returning comfortably in the dry bus."
+            "en": "By bus through rainy O Grove. We start at the port and head to the Shell Chapel on La Toja. At noon, the bus takes us to A Lanzada beach to watch the surf. We spend the afternoon near the necropolis before returning comfortably in the dry bus.",
+            "es": "En autobús por el lluvioso O Grove. Empezamos en el puerto y nos dirigimos a la Capilla de las Conchas en La Toja. Al mediodía el autobús nos lleva a la playa de A Lanzada para ver el oleaje. Pasamos la tarde cerca de la necrópolis antes de regresar cómodamente en el autobús seco."
           },
           "stops": [
             {
@@ -1976,7 +2131,8 @@
                 "de": "Zentrale Bushaltestelle mit Unterstand.",
                 "hu": "Központi buszmegálló fedett váróval.",
                 "ro": "Stație centrală de autobuz cu adăpost.",
-                "en": "Central bus stop with a rain shelter."
+                "en": "Central bus stop with a rain shelter.",
+                "es": "Parada de autobús central con refugio para la lluvia."
               }
             },
             {
@@ -1985,7 +2141,8 @@
                 "de": "Kurzer Weg von der Bushaltestelle auf La Toja.",
                 "hu": "Rövid séta a La Toja-szigeti buszmegállótól.",
                 "ro": "Drum scurt de la stația de autobuz de pe La Toja.",
-                "en": "Short walk from the bus stop on La Toja."
+                "en": "Short walk from the bus stop on La Toja.",
+                "es": "Corta caminata desde la parada de autobús en La Toja."
               }
             },
             {
@@ -1994,7 +2151,8 @@
                 "de": "Haltestelle liegt direkt an der Straße.",
                 "hu": "A megálló közvetlenül az út mellett van.",
                 "ro": "Stația este chiar lângă drumul principal.",
-                "en": "The stop is right next to the main road."
+                "en": "The stop is right next to the main road.",
+                "es": "La parada está justo al lado de la carretera principal."
               }
             },
             {
@@ -2003,7 +2161,8 @@
                 "de": "Prüfen Sie die Rückfahrzeiten genau.",
                 "hu": "Pontosan ellenőrizze a visszaindulási időket.",
                 "ro": "Verificați exact orele de întoarcere.",
-                "en": "Check return bus times carefully."
+                "en": "Check return bus times carefully.",
+                "es": "Comprueba cuidadosamente los horarios de regreso del autobús."
               }
             }
           ],
@@ -2031,6 +2190,12 @@
               "Wait in the bus shelters to stay dry.",
               "Buses might be less frequent in rain; check schedules.",
               "A rain poncho is more practical than an umbrella on the bus."
+            ],
+            "es": [
+              "Ten el importe exacto listo para la tarifa del autobús.",
+              "Espera en los refugios de autobús para mantenerte seco.",
+              "Los autobuses pueden ser menos frecuentes con lluvia; consulta horarios.",
+              "Un impermeable es más práctico que un paraguas en el autobús."
             ]
           }
         },
@@ -2039,7 +2204,8 @@
             "de": "Öffentlicher Nahverkehr im winterlichen O Grove. Wir starten am Hafen und besuchen die ruhige Isla de La Toja. Mit dem Überlandbus geht es nach A Lanzada, wo wir die frische Winterluft am Strand genießen. Nach dem Besuch der Nekropole kehren wir pünktlich vor der frühen Dunkelheit zurück.",
             "hu": "Tömegközlekedés a téli O Grove-ban. A kikötőből indulunk a csendes La Toja-szigetre. Távolsági busszal megyünk A Lanzada-ba, ahol élvezzük a friss téli levegőt a strandon. A nekropolisz megtekintése után még a korai sötétedés előtt visszatérünk.",
             "ro": "Transport public în O Grove-ul de iarnă. Pornim din port și vizităm liniștita Insulă La Toja. Cu autobuzul interurban mergem la A Lanzada pentru aerul curat de iarnă. După vizitarea necropolei, ne întoarcem înainte de lăsarea serii.",
-            "en": "Public transit in winter O Grove. We start at the port and visit peaceful La Toja Island. We take the intercity bus to A Lanzada to enjoy the fresh winter air. After visiting the necropolis, we return just before the early winter darkness falls."
+            "en": "Public transit in winter O Grove. We start at the port and visit peaceful La Toja Island. We take the intercity bus to A Lanzada to enjoy the fresh winter air. After visiting the necropolis, we return just before the early winter darkness falls.",
+            "es": "Transporte público en el O Grove invernal. Empezamos en el puerto y visitamos la tranquila isla de La Toja. Tomamos el interurbano a A Lanzada para disfrutar del fresco aire invernal. Tras visitar la necrópolis, regresamos justo antes de que caiga la temprana oscuridad invernal."
           },
           "stops": [
             {
@@ -2048,7 +2214,8 @@
                 "de": "Busse sind im Winter meist pünktlich.",
                 "hu": "A buszok télen általában pontosak.",
                 "ro": "Autobuzele sunt de obicei punctuale iarna.",
-                "en": "Buses are usually punctual in winter."
+                "en": "Buses are usually punctual in winter.",
+                "es": "Los autobuses suelen ser puntuales en invierno."
               }
             },
             {
@@ -2057,7 +2224,8 @@
                 "de": "Genießen Sie die Stille ohne Touristenbusse.",
                 "hu": "Élvezze a csendet turistabuszok nélkül.",
                 "ro": "Bucurați-vă de liniște fără autocare de turiști.",
-                "en": "Enjoy the silence without tourist crowds."
+                "en": "Enjoy the silence without tourist crowds.",
+                "es": "Disfruta del silencio sin las multitudes de turistas."
               }
             },
             {
@@ -2066,7 +2234,8 @@
                 "de": "Warme Kleidung für die Wartezeit an der Küste.",
                 "hu": "Meleg ruházat a parti várakozáshoz.",
                 "ro": "Haine groase pentru așteptarea în stația de pe coastă.",
-                "en": "Wear warm layers for waiting at the coastal stop."
+                "en": "Wear warm layers for waiting at the coastal stop.",
+                "es": "Lleva capas abrigadas para esperar en la parada costera."
               }
             },
             {
@@ -2075,7 +2244,8 @@
                 "de": "Letzter Bus fährt oft schon gegen 18:30 Uhr.",
                 "hu": "Az utolsó busz gyakran már 18:30 körül indul.",
                 "ro": "Ultimul buz pleacă adesea în jurul orei 18:30.",
-                "en": "The last bus often departs around 6:30 PM."
+                "en": "The last bus often departs around 6:30 PM.",
+                "es": "El último autobús suele salir alrededor de las 18:30."
               }
             }
           ],
@@ -2103,6 +2273,12 @@
               "Buses are well-heated during the winter months.",
               "Use local apps for real-time departure info.",
               "The connection to Pontevedra remains frequent in winter."
+            ],
+            "es": [
+              "Los horarios de invierno pueden diferir de los de verano.",
+              "Los autobuses están bien calefactados durante los meses de invierno.",
+              "Usa aplicaciones locales para información de salidas en tiempo real.",
+              "La conexión con Pontevedra sigue siendo frecuente en invierno."
             ]
           }
         }
@@ -2116,19 +2292,22 @@
       "de": "Galicisch und Spanisch werden parallel gesprochen, Ortsschilder erscheinen oft nur auf Galicisch (z. B. 'O Grove' statt 'El Grove'). Mit einem freundlichen 'Bos dias' punktet man sofort. Englisch versteht das jüngere Servicepersonal, ältere Marisqueros eher nicht.",
       "hu": "Itt galíciaiul (gallego) és spanyolul is beszélnek, a táblák gyakran csak galíciaiul vannak kiírva. Egy 'Bos dias' köszönéssel rögtön megnyered a helyieket. A halpiacokon és tengerigyümölcs-bárokban érdemes lassan, mutogatva rendelni, mert az angol gyenge.",
       "ro": "Aici se vorbește galiciana (gallego) și spaniola, iar indicatoarele apar adesea doar în galiciană. Un 'Bos dias' la intrare în bar îți deschide ușile imediat. Engleza e limitată în zonele de pescărie, fii pregătit cu poze și gesturi.",
-      "en": "Galician and Spanish run side by side here, with signage often Galician only ('O Grove', not 'El Grove'). A simple 'Bos dias' instantly warms locals. English is patchy in the seafood markets, so point-and-smile ordering works best."
+      "en": "Galician and Spanish run side by side here, with signage often Galician only ('O Grove', not 'El Grove'). A simple 'Bos dias' instantly warms locals. English is patchy in the seafood markets, so point-and-smile ordering works best.",
+      "es": "Aquí conviven el gallego y el español, con carteles a menudo solo en gallego ('O Grove', no 'El Grove'). Un simple 'Bos días' calienta instantáneamente a la gente. El inglés es limitado en las marisquerías, así que señalar y sonreír funciona mejor."
     },
     "best_time_to_visit": {
       "de": "Mai bis Mitte Oktober ist die ideale Zeit, mit warmen 22-25 Grad und ruhiger Ría. Anfang Oktober läuft die berühmte Festa do Marisco - voll, aber unverzichtbar.",
       "hu": "Május és október közepe között érdemes jönni, 22-25 fokos, szelíd időben. Október elején zajlik a Festa do Marisco, tömött, de elképesztő tengergyümölcs-élmény.",
       "ro": "Mai-mijlocul lui octombrie e perioada ideală, cu 22-25 grade și ria liniștită. La început de octombrie e Festa do Marisco, aglomerat dar de neratat pentru fructe de mare.",
-      "en": "May to mid-October is prime time, with mild 22-25C and calm rías. Early October brings the Festa do Marisco - crowded but a must for seafood lovers."
+      "en": "May to mid-October is prime time, with mild 22-25C and calm rías. Early October brings the Festa do Marisco - crowded but a must for seafood lovers.",
+      "es": "De mayo a mediados de octubre es la mejor época, con suaves 22–25 °C y rías calmadas. A principios de octubre llega la Festa do Marisco: abarrotada, pero imprescindible para los amantes del marisco."
     },
     "neighborhood_warnings": {
       "de": "O Grove ist ein ruhiger Badeort ohne nennenswerte Sicherheitsprobleme. Vorsicht nur an der felsigen Küste Richtung A Lanzada bei Hochwasser. In den Marisquerías unbedingt frische Auslage prüfen, nicht alles ist Tagesware.",
       "hu": "O Grove csendes üdülőhely, komoly bűnözés nincs. A Lanzada sziklás partján dagálykor légy óvatos, gyorsan jön a víz. A marisquería kirakatban tedd próbára a frissességet, nem minden napi áru.",
       "ro": "O Grove e o stațiune liniștită, fără probleme de siguranță notabile. Atenție doar pe coasta stâncoasă spre A Lanzada la flux, marea urcă rapid. La marisquerías verifică prospețimea, nu tot ce e expus e proaspăt.",
-      "en": "O Grove is a calm resort town with no real safety concerns. Just watch the rocky coast toward A Lanzada at high tide, water rises fast. At marisquerías check that the display is truly fresh - not everything is daily catch."
+      "en": "O Grove is a calm resort town with no real safety concerns. Just watch the rocky coast toward A Lanzada at high tide, water rises fast. At marisquerías check that the display is truly fresh - not everything is daily catch.",
+      "es": "O Grove es un pueblo turístico tranquilo sin grandes problemas de seguridad. Solo vigila la costa rocosa hacia A Lanzada en pleamar: el agua sube rápido. En las marisquerías comprueba que lo expuesto sea realmente fresco: no todo es captura del día."
     }
   }
 }

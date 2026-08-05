@@ -21,7 +21,8 @@
             "de": "Ei des Kolumbus",
             "hu": "Kolumbusz tojása",
             "ro": "Oul lui Columb",
-            "en": "Egg of Columbus"
+            "en": "Egg of Columbus",
+            "es": "Huevo de Colón"
           },
           "coords": [
             1.3055,
@@ -36,7 +37,8 @@
             "de": "Das Wahrzeichen direkt am Stadteingang.",
             "hu": "A város jelképe közvetlenül a bejáratnál.",
             "ro": "Simbolul orașului chiar la intrare.",
-            "en": "The city's landmark right at the entrance."
+            "en": "The city's landmark right at the entrance.",
+            "es": "El emblema de la ciudad justo a la entrada."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche von Sant Antoni",
             "hu": "Sant Antoni-templom",
             "ro": "Biserica din Sant Antoni",
-            "en": "Church of Sant Antoni"
+            "en": "Church of Sant Antoni",
+            "es": "Iglesia de Sant Antoni"
           },
           "coords": [
             1.3015,
@@ -59,7 +62,8 @@
             "de": "Wehrkirche aus dem 14. Jahrhundert.",
             "hu": "14. századi erődtemplom.",
             "ro": "Biserică fortificată din secolul al XIV-lea.",
-            "en": "14th-century fortified church."
+            "en": "14th-century fortified church.",
+            "es": "Iglesia fortificada del siglo XIV."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Passeig de ses Fonts",
             "hu": "Passeig de ses Fonts",
             "ro": "Passeig de ses Fonts",
-            "en": "Passeig de ses Fonts"
+            "en": "Passeig de ses Fonts",
+            "es": "Passeig de ses Fonts"
           },
           "coords": [
             1.3035,
@@ -82,7 +87,8 @@
             "de": "Fontänen und schattige Bänke.",
             "hu": "Szökőkutak és árnyas padok.",
             "ro": "Fântâni și bănci umbrite.",
-            "en": "Fountains and shaded benches."
+            "en": "Fountains and shaded benches.",
+            "es": "Fuentes y bancos sombreados."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Sa Punta des Molí",
             "hu": "Sa Punta des Molí",
             "ro": "Sa Punta des Molí",
-            "en": "Sa Punta des Molí"
+            "en": "Sa Punta des Molí",
+            "es": "Sa Punta des Molí"
           },
           "coords": [
             1.3015,
@@ -105,7 +112,8 @@
             "de": "Alte Windmühle und Kulturzentrum am Meer.",
             "hu": "Régi szélmalom és kulturális központ a tengerparton.",
             "ro": "Moară de vânt veche și centru cultural la mare.",
-            "en": "Old windmill and cultural center by the sea."
+            "en": "Old windmill and cultural center by the sea.",
+            "es": "Antiguo molino de viento y centro cultural junto al mar."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Sunset Strip",
             "hu": "Naplemente sétány",
             "ro": "Sunset Strip",
-            "en": "Sunset Strip"
+            "en": "Sunset Strip",
+            "es": "Sunset Strip"
           },
           "coords": [
             1.2975,
@@ -128,7 +137,8 @@
             "de": "Heimat des berühmten Café del Mar.",
             "hu": "A híres Café del Mar otthona.",
             "ro": "Locul unde se află faimosul Café del Mar.",
-            "en": "Home of the famous Café del Mar."
+            "en": "Home of the famous Café del Mar.",
+            "es": "Sede del famoso Café del Mar."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Spaziergang am 'Ei des Kolumbus', einem kuriosen Denkmal im Zentrum. Von dort führt der Weg zur historischen Wehrkirche, die einst Schutz vor Piraten bot.\n\nMittags schlendern wir über den Passeig de ses Fonts. Hier sprudeln die Brunnen und die Palmen spenden angenehmen Schatten während der heißesten Zeit des Tages.\n\nNachmittags folgen wir der Bucht zur Landzunge Sa Punta des Molí. Die restaurierte Windmühle erzählt von der landwirtschaftlichen Vergangenheit der Insel.\n\nDer krönende Abschluss ist der Sunset Strip. Hier sammeln sich Menschen aus aller Welt, um bei Chill-out-Musik den spektakulären Sonnenuntergang über dem Meer zu feiern.",
         "hu": "Kezdje a sétát a 'Kolumbusz tojásánál', amely egy különös emlékmű a központban. Innen az út a történelmi erődtemplomhoz vezet, amely egykor a kalózok ellen nyújtott védelmet.\n\nDélben sétáljunk végig a Passeig de ses Fonts sétányon. Itt szökőkutak csobognak, és a pálmák kellemes árnyékot adnak a nap legforróbb szakaszában.\n\nDélután kövessük az öblöt a Sa Punta des Molí félszigetig. A felújított szélmalom a sziget mezőgazdasági múltjáról mesél.\n\nA nap fénypontja a Naplemente sétány (Sunset Strip). Itt a világ minden tájáról érkező emberek gyűlnek össze, hogy chill-out zenére ünnepeljék a tenger feletti látványos naplementét.",
         "ro": "Începeți plimbarea la 'Oul lui Columb', un monument curios din centru. De acolo, drumul duce la biserica fortificată istorică, ce oferea odinioară protecție împotriva piraților.\n\nLa prânz, ne plimbăm pe Passeig de ses Fonts. Aici fântânile țâșnesc, iar palmierii oferă o umbră plăcută în cea mai fierbinte perioadă a zilei.\n\nDupă-amiaza, urmăm golful până la limba de pământ Sa Punta des Molí. Moara de vânt restaurată povestește despre trecutul agricol al insulei.\n\nFinalul perfect este pe Sunset Strip. Aici se adună oameni din toată lumea pentru a celebra spectaculosul apus de soare peste mare, pe muzică chill-out.",
-        "en": "Start your walk at the 'Egg of Columbus', a curious monument in the center. From there, the path leads to the historic fortified church, which once provided protection against pirates.\n\nAt midday, stroll along Passeig de ses Fonts. Here the fountains flow, and palms provide pleasant shade during the hottest time of the day.\n\nIn the afternoon, follow the bay to the Sa Punta des Molí headland. The restored windmill tells of the island's agricultural past.\n\nThe highlight is the Sunset Strip. Here, people from all over the world gather to celebrate the spectacular sunset over the sea to chill-out music."
+        "en": "Start your walk at the 'Egg of Columbus', a curious monument in the center. From there, the path leads to the historic fortified church, which once provided protection against pirates.\n\nAt midday, stroll along Passeig de ses Fonts. Here the fountains flow, and palms provide pleasant shade during the hottest time of the day.\n\nIn the afternoon, follow the bay to the Sa Punta des Molí headland. The restored windmill tells of the island's agricultural past.\n\nThe highlight is the Sunset Strip. Here, people from all over the world gather to celebrate the spectacular sunset over the sea to chill-out music.",
+        "es": "Comienza tu paseo en el 'Huevo de Colón', un curioso monumento en el centro. Desde allí, el camino conduce a la histórica iglesia fortificada, que en su día protegía contra los piratas.\n\nA mediodía, pasea por el Passeig de ses Fonts. Aquí brotan las fuentes y las palmeras ofrecen agradable sombra durante las horas más calurosas.\n\nPor la tarde, sigue la bahía hasta el promontorio de Sa Punta des Molí. El molino restaurado habla del pasado agrícola de la isla.\n\nEl punto culminante es el Sunset Strip. Allí se reúne gente de todo el mundo para celebrar el espectacular atardecer sobre el mar con música chill-out."
       },
       "gastro_picks": {
         "de": [
@@ -296,6 +307,12 @@
           "The city is very lively in the evening.",
           "Wear sunscreen as the sea path offers little shade.",
           "Visit the church during opening hours."
+        ],
+        "es": [
+          "Reserva mesa en el Sunset Strip con bastante antelación.",
+          "La ciudad es muy animada por la noche.",
+          "Usa protector solar porque el sendero junto al mar tiene poca sombra.",
+          "Visita la iglesia dentro del horario de apertura."
         ]
       },
       "variants": {
@@ -304,7 +321,8 @@
             "de": "Beginnen Sie Ihren Spaziergang am 'Ei des Kolumbus', einem kuriosen Denkmal im Zentrum. Von dort führt der Weg zur historischen Wehrkirche, die einst Schutz vor Piraten bot.\n\nMittags schlendern wir über den Passeig de ses Fonts. Hier sprudeln die Brunnen und die Palmen spenden angenehmen Schatten während der heißesten Zeit des Tages.\n\nNachmittags folgen wir der Bucht zur Landzunge Sa Punta des Molí. Die restaurierte Windmühle erzählt von der landwirtschaftlichen Vergangenheit der Insel.\n\nDer krönende Abschluss ist der Sunset Strip. Hier sammeln sich Menschen aus aller Welt, um bei Chill-out-Musik den spektakulären Sonnenuntergang über dem Meer zu feiern.",
             "hu": "Kezdje a sétát a 'Kolumbusz tojásánál', amely egy különös emlékmű a központban. Innen az út a történelmi erődtemplomhoz vezet, amely egykor a kalózok ellen nyújtott védelmet.\n\nDélben sétáljunk végig a Passeig de ses Fonts sétányon. Itt szökőkutak csobognak, és a pálmák kellemes árnyékot adnak a nap legforróbb szakaszában.\n\nDélután kövessük az öblöt a Sa Punta des Molí félszigetig. A felújított szélmalom a sziget mezőgazdasági múltjáról mesél.\n\nA nap fénypontja a Naplemente sétány (Sunset Strip). Itt a világ minden tájáról érkező emberek gyűlnek össze, hogy chill-out zenére ünnepeljék a tenger feletti látványos naplementét.",
             "ro": "Începeți plimbarea la 'Oul lui Columb', un monument curios din centru. De acolo, drumul duce la biserica fortificată istorică, ce oferea odinioară protecție împotriva piraților.\n\nLa prânz, ne plimbăm pe Passeig de ses Fonts. Aici fântânile țâșnesc, iar palmierii oferă o umbră plăcută în cea mai fierbinte perioadă a zilei.\n\nDupă-amiaza, urmăm golful până la limba de pământ Sa Punta des Molí. Moara de vânt restaurată povestește despre trecutul agricol al insulei.\n\nFinalul perfect este pe Sunset Strip. Aici se adună oameni din toată lumea pentru a celebra spectaculosul apus de soare peste mare, pe muzică chill-out.",
-            "en": "Start your walk at the 'Egg of Columbus', a curious monument in the center. From there, the path leads to the historic fortified church, which once provided protection against pirates.\n\nAt midday, stroll along Passeig de ses Fonts. Here the fountains flow, and palms provide pleasant shade during the hottest time of the day.\n\nIn the afternoon, follow the bay to the Sa Punta des Molí headland. The restored windmill tells of the island's agricultural past.\n\nThe highlight is the Sunset Strip. Here, people from all over the world gather to celebrate the spectacular sunset over the sea to chill-out music."
+            "en": "Start your walk at the 'Egg of Columbus', a curious monument in the center. From there, the path leads to the historic fortified church, which once provided protection against pirates.\n\nAt midday, stroll along Passeig de ses Fonts. Here the fountains flow, and palms provide pleasant shade during the hottest time of the day.\n\nIn the afternoon, follow the bay to the Sa Punta des Molí headland. The restored windmill tells of the island's agricultural past.\n\nThe highlight is the Sunset Strip. Here, people from all over the world gather to celebrate the spectacular sunset over the sea to chill-out music.",
+            "es": "Comienza tu paseo en el 'Huevo de Colón', un curioso monumento en el centro. Desde allí, el camino conduce a la histórica iglesia fortificada, que en su día protegía contra los piratas.\n\nA mediodía, pasea por el Passeig de ses Fonts. Aquí brotan las fuentes y las palmeras ofrecen agradable sombra durante las horas más calurosas.\n\nPor la tarde, sigue la bahía hasta el promontorio de Sa Punta des Molí. El molino restaurado habla del pasado agrícola de la isla.\n\nEl punto culminante es el Sunset Strip. Allí se reúne gente de todo el mundo para celebrar el espectacular atardecer sobre el mar con música chill-out."
           },
           "stops": [
             {
@@ -312,13 +330,15 @@
                 "de": "Ei des Kolumbus",
                 "hu": "Kolumbusz tojása",
                 "ro": "Oul lui Columb",
-                "en": "Egg of Columbus"
+                "en": "Egg of Columbus",
+                "es": "Huevo de Colón"
               },
               "tip_5lang": {
                 "de": "Das Wahrzeichen direkt am Stadteingang.",
                 "hu": "A város jelképe közvetlenül a bejáratnál.",
                 "ro": "Simbolul orașului chiar la intrare.",
-                "en": "The city's landmark right at the entrance."
+                "en": "The city's landmark right at the entrance.",
+                "es": "El emblema de la ciudad justo a la entrada."
               }
             },
             {
@@ -326,13 +346,15 @@
                 "de": "Kirche von Sant Antoni",
                 "hu": "Sant Antoni-templom",
                 "ro": "Biserica din Sant Antoni",
-                "en": "Church of Sant Antoni"
+                "en": "Church of Sant Antoni",
+                "es": "Iglesia de Sant Antoni"
               },
               "tip_5lang": {
                 "de": "Wehrkirche aus dem 14. Jahrhundert.",
                 "hu": "14. századi erődtemplom.",
                 "ro": "Biserică fortificată din secolul al XIV-lea.",
-                "en": "14th-century fortified church."
+                "en": "14th-century fortified church.",
+                "es": "Iglesia fortificada del siglo XIV."
               }
             },
             {
@@ -340,13 +362,15 @@
                 "de": "Passeig de ses Fonts",
                 "hu": "Passeig de ses Fonts",
                 "ro": "Passeig de ses Fonts",
-                "en": "Passeig de ses Fonts"
+                "en": "Passeig de ses Fonts",
+                "es": "Passeig de ses Fonts"
               },
               "tip_5lang": {
                 "de": "Fontänen und schattige Bänke.",
                 "hu": "Szökőkutak és árnyas padok.",
                 "ro": "Fântâni și bănci umbrite.",
-                "en": "Fountains and shaded benches."
+                "en": "Fountains and shaded benches.",
+                "es": "Fuentes y bancos sombreados."
               }
             },
             {
@@ -354,13 +378,15 @@
                 "de": "Sa Punta des Molí",
                 "hu": "Sa Punta des Molí",
                 "ro": "Sa Punta des Molí",
-                "en": "Sa Punta des Molí"
+                "en": "Sa Punta des Molí",
+                "es": "Sa Punta des Molí"
               },
               "tip_5lang": {
                 "de": "Alte Windmühle und Kulturzentrum am Meer.",
                 "hu": "Régi szélmalom és kulturális központ a tengerparton.",
                 "ro": "Moară de vânt veche și centru cultural la mare.",
-                "en": "Old windmill and cultural center by the sea."
+                "en": "Old windmill and cultural center by the sea.",
+                "es": "Antiguo molino de viento y centro cultural junto al mar."
               }
             },
             {
@@ -368,13 +394,15 @@
                 "de": "Sunset Strip",
                 "hu": "Naplemente sétány",
                 "ro": "Sunset Strip",
-                "en": "Sunset Strip"
+                "en": "Sunset Strip",
+                "es": "Sunset Strip"
               },
               "tip_5lang": {
                 "de": "Heimat des berühmten Café del Mar.",
                 "hu": "A híres Café del Mar otthona.",
                 "ro": "Locul unde se află faimosul Café del Mar.",
-                "en": "Home of the famous Café del Mar."
+                "en": "Home of the famous Café del Mar.",
+                "es": "Sede del famoso Café del Mar."
               }
             }
           ],
@@ -536,6 +564,12 @@
               "The city is very lively in the evening.",
               "Wear sunscreen as the sea path offers little shade.",
               "Visit the church during opening hours."
+            ],
+            "es": [
+              "Reserva mesa en el Sunset Strip con bastante antelación.",
+              "La ciudad es muy animada por la noche.",
+              "Usa protector solar porque el sendero junto al mar tiene poca sombra.",
+              "Visita la iglesia dentro del horario de apertura."
             ]
           }
         },
@@ -544,7 +578,8 @@
             "hu": "Reggel a Tojásnál kezdünk az esőben, majd a közeli templomban lelünk menedéket.\n\nDélben a kikötői sétányon az ernyők alatt is élvezhetjük a sós tenger illatát.\n\nDélután a Sa Punta des Molí kiállítótermei nyújtanak száraz benti programot.\n\nEste a Sunset Strip egyik fedett teraszán, a viharos tenger morajlását hallgatva pihenünk.",
             "de": "Morgens starten wir im Regen am Ei und suchen Schutz in der nahen Kirche.\n\nMittags flanieren wir mit Schirmen am Hafen und genießen die frische Meeresbrise.\n\nAm Nachmittag bietet das Kulturzentrum Sa Punta des Molí ein trockenes Refugium.\n\nAbends beobachten wir die aufgewühlte See am Sunset Strip von einer Terrasse aus.",
             "ro": "Dimineața începem la Ou în ploaie, apoi ne uscăm în biserica fortificată.\n\nLa prânz ne plimbăm cu umbrela pe faleză, admirând marea sub stropii de ploaie.\n\nDupă-amiaza, centrul cultural Sa Punta des Molí ne oferă un adăpost uscat.\n\nSeara admirăm marea agitată de pe Sunset Strip de pe o terasă acoperită.",
-            "en": "Morning starts at the Egg in the rain, followed by a dry escape in the church.\n\nAt noon we stroll along the harbor with umbrellas, enjoying the fresh sea air.\n\nIn the afternoon, Sa Punta des Molí cultural center provides a dry indoor retreat.\n\nIn the evening, enjoy the dramatic sea views from a covered Sunset Strip terrace."
+            "en": "Morning starts at the Egg in the rain, followed by a dry escape in the church.\n\nAt noon we stroll along the harbor with umbrellas, enjoying the fresh sea air.\n\nIn the afternoon, Sa Punta des Molí cultural center provides a dry indoor retreat.\n\nIn the evening, enjoy the dramatic sea views from a covered Sunset Strip terrace.",
+            "es": "La mañana comienza en el Huevo bajo la lluvia, seguida de un refugio seco en la iglesia.\n\nAl mediodía paseamos por el puerto con paraguas, disfrutando del aire fresco del mar.\n\nPor la tarde, el centro cultural Sa Punta des Molí ofrece un respiro interior seco.\n\nPor la noche, disfruta de las vistas dramáticas al mar desde una terraza cubierta del Sunset Strip."
           },
           "stops": [
             {
@@ -553,7 +588,8 @@
                 "hu": "Gyors fotó az esőben.",
                 "de": "Schnelles Foto im Regen.",
                 "ro": "Poză rapidă în ploaie.",
-                "en": "Quick photo in the rain."
+                "en": "Quick photo in the rain.",
+                "es": "Foto rápida bajo la lluvia."
               }
             },
             {
@@ -562,7 +598,8 @@
                 "hu": "Tökéletes fedett menedék.",
                 "de": "Idealer Zufluchtsort.",
                 "ro": "Refugiu ideal în interior.",
-                "en": "Perfect indoor shelter."
+                "en": "Perfect indoor shelter.",
+                "es": "Perfecto refugio interior."
               }
             },
             {
@@ -571,7 +608,8 @@
                 "hu": "Vigyázz, a kövezet csúszik!",
                 "de": "Vorsicht, rutschige Fliesen!",
                 "ro": "Atenție, pavaj alunecos!",
-                "en": "Careful, tiles are slippery!"
+                "en": "Careful, tiles are slippery!",
+                "es": "¡Cuidado, las baldosas resbalan!"
               }
             },
             {
@@ -580,7 +618,8 @@
                 "hu": "Fedett kiállítások bent.",
                 "de": "Überdachte Ausstellungen.",
                 "ro": "Expoziții în interior.",
-                "en": "Covered indoor exhibits."
+                "en": "Covered indoor exhibits.",
+                "es": "Exposiciones cubiertas en el interior."
               }
             },
             {
@@ -589,7 +628,8 @@
                 "hu": "Keress egy fedett teraszt.",
                 "de": "Such dir eine überdachte Terrasse.",
                 "ro": "Caută o terasă acoperită.",
-                "en": "Find a covered terrace."
+                "en": "Find a covered terrace.",
+                "es": "Busca una terraza cubierta."
               }
             }
           ],
@@ -621,6 +661,13 @@
               "Bring a sturdy umbrella due to the potential wind.",
               "You can find indoor exhibitions inside Sa Punta des Molí.",
               "Choose a venue with a covered terrace on the Sunset Strip."
+            ],
+            "es": [
+              "Ten cuidado con las baldosas resbaladizas del paseo del puerto.",
+              "La iglesia ofrece excelente refugio durante chaparrones repentinos.",
+              "Lleva un paraguas resistente por el posible viento.",
+              "Puedes encontrar exposiciones en el interior de Sa Punta des Molí.",
+              "Elige un local con terraza cubierta en el Sunset Strip."
             ]
           }
         },
@@ -629,7 +676,8 @@
             "hu": "Téli reggelen a Tojásnál kezdjük sétánkat a hűvös, tiszta levegőben.\n\nDélben a kikötőben élvezzük a napsütést és a tömegmentes békét.\n\nDélután a Sa Punta des Molí kertjében pihenünk meg a langyos sugarak alatt.\n\nEste a korai naplemente után a Sunset Strip-en a csendes tengert csodáljuk.",
             "de": "An einem Wintermorgen starten wir am Ei in der kühlen, klaren Luft.\n\nMittags genießen wir den Sonnenschein und die Ruhe ohne Massen am Hafen.\n\nAm Nachmittag entspannen wir im Garten von Sa Punta des Molí unter der Sonne.\n\nAbends, nach dem frühen Sonnenuntergang, bewundern wir am Sunset Strip die stille See.",
             "ro": "Într-o dimineață de iarnă, ne începem plimbarea la Ou, în aerul rece și curat.\n\nLa prânz ne bucurăm de soare și de liniștea portului, fără aglomerație.\n\nDupă-amiaza ne relaxăm în grădina de la Sa Punta des Molí sub razele calde.\n\nSeara, după apusul devreme, admirăm marea liniștită de pe Sunset Strip.",
-            "en": "On a winter morning, we start our walk at the Egg in the crisp, clear air.\n\nAt noon we enjoy the sunshine and crowd-free peace of the harbor.\n\nIn the afternoon we relax in the Sa Punta des Molí gardens under the mild sun.\n\nIn the evening, after the early sunset, we admire the quiet sea from the Sunset Strip."
+            "en": "On a winter morning, we start our walk at the Egg in the crisp, clear air.\n\nAt noon we enjoy the sunshine and crowd-free peace of the harbor.\n\nIn the afternoon we relax in the Sa Punta des Molí gardens under the mild sun.\n\nIn the evening, after the early sunset, we admire the quiet sea from the Sunset Strip.",
+            "es": "En una mañana de invierno, comenzamos el paseo en el Huevo con aire frío y claro.\n\nAl mediodía disfrutamos del sol y la paz sin multitudes del puerto.\n\nPor la tarde descansamos en los jardines de Sa Punta des Molí bajo el sol templado.\n\nPor la noche, tras la puesta de sol temprana, admiramos el mar tranquilo desde el Sunset Strip."
           },
           "stops": [
             {
@@ -638,7 +686,8 @@
                 "hu": "Nincs sorban állás fotóhoz.",
                 "de": "Keine Warteschlange für Fotos.",
                 "ro": "Fără coadă pentru poze.",
-                "en": "No queue for photos."
+                "en": "No queue for photos.",
+                "es": "Sin colas para fotos."
               }
             },
             {
@@ -647,7 +696,8 @@
                 "hu": "Békés, csendes belső tér.",
                 "de": "Friedlicher, ruhiger Innenraum.",
                 "ro": "Interior liniștit și pașnic.",
-                "en": "Peaceful, quiet interior."
+                "en": "Peaceful, quiet interior.",
+                "es": "Interior tranquilo y sosegado."
               }
             },
             {
@@ -656,7 +706,8 @@
                 "hu": "Élvezd a téli napsütést.",
                 "de": "Wintersonne genießen.",
                 "ro": "Bucurați-vă de soarele de iarnă.",
-                "en": "Enjoy the winter sun."
+                "en": "Enjoy the winter sun.",
+                "es": "Disfruta del sol invernal."
               }
             },
             {
@@ -665,7 +716,8 @@
                 "hu": "Rövidebb téli nyitvatartás.",
                 "de": "Kürzere Winteröffnungszeiten.",
                 "ro": "Program de iarnă mai scurt.",
-                "en": "Shorter winter hours."
+                "en": "Shorter winter hours.",
+                "es": "Horarios reducidos en invierno."
               }
             },
             {
@@ -674,7 +726,8 @@
                 "hu": "A naplemente 18:00 előtt van.",
                 "de": "Sonnenuntergang vor 18 Uhr.",
                 "ro": "Apusul este înainte de ora 18.",
-                "en": "Sunset is before 6 PM."
+                "en": "Sunset is before 6 PM.",
+                "es": "La puesta de sol es antes de las 18:00."
               }
             }
           ],
@@ -706,6 +759,13 @@
               "Many beach bars are closed, look for cafes in the town center.",
               "Enjoy the crowd-free promenade and the crisp air.",
               "The cultural center's opening hours may be shorter in winter."
+            ],
+            "es": [
+              "La puesta de sol ocurre antes de las 18:00 durante los meses de invierno.",
+              "Se recomienda ropa de capas, el viento puede ser fresco.",
+              "Muchos chiringuitos están cerrados; busca cafeterías en el centro del pueblo.",
+              "Disfruta del paseo sin multitudes y del aire fresco y crujiente.",
+              "El horario del centro cultural puede ser más corto en invierno."
             ]
           }
         }
@@ -724,7 +784,8 @@
             "de": "Ei des Kolumbus",
             "hu": "Kolumbusz tojása",
             "ro": "Oul lui Columb",
-            "en": "Egg of Columbus"
+            "en": "Egg of Columbus",
+            "es": "Huevo de Colón"
           },
           "coords": [
             1.3055,
@@ -739,7 +800,8 @@
             "de": "Guter Treffpunkt für Radler.",
             "hu": "Jó találkozópont kerékpárosoknak.",
             "ro": "Punct bun de întâlnire pentru bicicliști.",
-            "en": "Good meeting point for cyclists."
+            "en": "Good meeting point for cyclists.",
+            "es": "Buen punto de encuentro para ciclistas."
           }
         },
         {
@@ -747,7 +809,8 @@
             "de": "Passeig de ses Fonts",
             "hu": "Passeig de ses Fonts",
             "ro": "Passeig de ses Fonts",
-            "en": "Passeig de ses Fonts"
+            "en": "Passeig de ses Fonts",
+            "es": "Passeig de ses Fonts"
           },
           "coords": [
             1.3035,
@@ -762,7 +825,8 @@
             "de": "Breiter Weg zum entspannten Rollen.",
             "hu": "Széles út a kényelmes guruláshoz.",
             "ro": "Drum lat pentru o plimbare relaxată.",
-            "en": "Wide path for relaxed rolling."
+            "en": "Wide path for relaxed rolling.",
+            "es": "Camino ancho para rodar con tranquilidad."
           }
         },
         {
@@ -770,7 +834,8 @@
             "de": "Sa Punta des Molí",
             "hu": "Sa Punta des Molí",
             "ro": "Sa Punta des Molí",
-            "en": "Sa Punta des Molí"
+            "en": "Sa Punta des Molí",
+            "es": "Sa Punta des Molí"
           },
           "coords": [
             1.3015,
@@ -785,7 +850,8 @@
             "de": "Fahrradparkplätze vorhanden.",
             "hu": "Kerékpárparkolók rendelkezésre állnak.",
             "ro": "Parcare pentru biciclete disponibilă.",
-            "en": "Bike parking available."
+            "en": "Bike parking available.",
+            "es": "Aparca bicis disponible."
           }
         },
         {
@@ -793,7 +859,8 @@
             "de": "Aquarium Cap Blanc",
             "hu": "Cap Blanc Akvárium",
             "ro": "Acvariul Cap Blanc",
-            "en": "Cap Blanc Aquarium"
+            "en": "Cap Blanc Aquarium",
+            "es": "Acuario Cap Blanc"
           },
           "coords": [
             1.2905,
@@ -808,7 +875,8 @@
             "de": "In einer natürlichen Meereshöhle.",
             "hu": "Egy természetes tengeri barlangban található.",
             "ro": "Într-o peșteră marină naturală.",
-            "en": "Located in a natural sea cave."
+            "en": "Located in a natural sea cave.",
+            "es": "Situado en una cueva marina natural."
           }
         },
         {
@@ -816,7 +884,8 @@
             "de": "Cala Salada",
             "hu": "Cala Salada",
             "ro": "Cala Salada",
-            "en": "Cala Salada"
+            "en": "Cala Salada",
+            "es": "Cala Salada"
           },
           "coords": [
             1.2985,
@@ -831,7 +900,8 @@
             "de": "Anstrengender Anstieg, aber es lohnt sich.",
             "hu": "Fárasztó emelkedő, de megéri.",
             "ro": "Urcare obositoare, dar merită.",
-            "en": "Strenuous climb, but it's worth it."
+            "en": "Strenuous climb, but it's worth it.",
+            "es": "Subida exigente, pero merece la pena."
           }
         },
         {
@@ -839,7 +909,8 @@
             "de": "Sunset Strip",
             "hu": "Naplemente sétány",
             "ro": "Sunset Strip",
-            "en": "Sunset Strip"
+            "en": "Sunset Strip",
+            "es": "Sunset Strip"
           },
           "coords": [
             1.2975,
@@ -854,7 +925,8 @@
             "de": "Gemütliche Rückfahrt bei tiefer Sonne.",
             "hu": "Hangulatos visszaút a lemenő napban.",
             "ro": "Întoarcere plăcută sub soarele care apune.",
-            "en": "Atmospheric ride back in the setting sun."
+            "en": "Atmospheric ride back in the setting sun.",
+            "es": "Regreso en bici con atmósfera al sol poniente."
           }
         }
       ],
@@ -862,7 +934,8 @@
         "de": "Diese Radtour führt Sie entlang der gesamten Bucht von Sant Antoni bis hin zu den unberührten Calas im Norden. Nach dem Start im Zentrum radeln wir zur Sa Punta des Molí.\n\nWeiter geht es zum Aquarium Cap Blanc, das faszinierend in einer Grotte liegt. Es ist ein kühler Zwischenstopp an einem heißen Tag.\n\nDer sportliche Teil führt uns nach Cala Salada. Mit dem Rad umgehen wir die Parkplatzsorgen und erreichen direkt den türkisfarbenen Strand für eine Badepause.\n\nZum Abschluss radeln wir entspannt zurück zum Sunset Strip, um den Tag mit einem Blick auf das Meer zu beenden.",
         "hu": "Ez a kerékpártúra Sant Antoni teljes öblén végigvezet, egészen az északi, érintetlen öblökig (calas). A központból indulva a Sa Punta des Molí felé tekerünk.\n\nFolytatjuk utunkat a Cap Blanc Akváriumba, amely egy barlangban kapott helyet. Frissítő megálló egy forró napon.\n\nA túra sportos része a Cala Salada felé vezet. Kerékpárral elkerüljük a parkolási gondokat, és közvetlenül a türkizkék strandhoz érünk egy fürdőzésre.\n\nA végén kényelmesen visszatekerünk a Naplemente sétányra, hogy a tenger látványával zárjuk a napot.",
         "ro": "Acest tur cu bicicleta vă poartă de-a lungul întregului golf Sant Antoni, până la golfulețele virgine din nord. După startul în centru, pedalăm spre Sa Punta des Molí.\n\nContinuăm spre Acvariul Cap Blanc, situat fascinant într-o grotă. Este o oprire răcoroasă într-o zi fierbinte.\n\nPartea sportivă ne duce spre Cala Salada. Cu bicicleta evităm problemele de parcare și ajungem direct la plaja cu ape turcoaz pentru o baie.\n\nLa final, pedalăm relaxați înapoi spre Sunset Strip pentru a încheia ziua cu o privire asupra mării.",
-        "en": "This bike tour takes you along the entire bay of Sant Antoni to the pristine coves in the north. After starting in the center, we cycle to Sa Punta des Molí.\n\nWe continue to the Cap Blanc Aquarium, which is fascinatingly located in a grotto. It's a cool stop on a hot day.\n\nThe sporty part takes us to Cala Salada. By bike, we bypass parking worries and reach the turquoise beach directly for a swim break.\n\nTo conclude, we cycle back to the Sunset Strip to end the day with a view of the sea."
+        "en": "This bike tour takes you along the entire bay of Sant Antoni to the pristine coves in the north. After starting in the center, we cycle to Sa Punta des Molí.\n\nWe continue to the Cap Blanc Aquarium, which is fascinatingly located in a grotto. It's a cool stop on a hot day.\n\nThe sporty part takes us to Cala Salada. By bike, we bypass parking worries and reach the turquoise beach directly for a swim break.\n\nTo conclude, we cycle back to the Sunset Strip to end the day with a view of the sea.",
+        "es": "Esta ruta en bicicleta recorre toda la bahía de Sant Antoni hasta las calas vírgenes del norte. Tras partir del centro, pedaleamos hasta Sa Punta des Molí.\n\nContinuamos hasta el Acuario Cap Blanc, fascinantemente ubicado en una gruta. Es una parada fresca en un día caluroso.\n\nLa parte más deportiva nos lleva a Cala Salada. En bici evitamos los problemas de aparcamiento y llegamos directamente a la playa turquesa para un descanso y baño.\n\nPara finalizar, volvemos en bicicleta al Sunset Strip para terminar el día con vistas al mar."
       },
       "gastro_picks": {
         "de": [
@@ -970,6 +1043,12 @@
           "Observe the helmet requirement on intercity roads.",
           "Always lock your bike securely.",
           "An e-bike is recommended for the route to Cala Salada."
+        ],
+        "es": [
+          "Utiliza el paseo de la playa para la mayor parte de la ruta.",
+          "Cumple la obligación de casco en las carreteras interurbanas.",
+          "Siempre asegura bien tu bicicleta con candado.",
+          "Se recomienda una e-bike para la ruta a Cala Salada."
         ]
       },
       "variants": {
@@ -978,7 +1057,8 @@
             "de": "Diese Radtour führt Sie entlang der gesamten Bucht von Sant Antoni bis hin zu den unberührten Calas im Norden. Nach dem Start im Zentrum radeln wir zur Sa Punta des Molí.\n\nWeiter geht es zum Aquarium Cap Blanc, das faszinierend in einer Grotte liegt. Es ist ein kühler Zwischenstopp an einem heißen Tag.\n\nDer sportliche Teil führt uns nach Cala Salada. Mit dem Rad umgehen wir die Parkplatzsorgen und erreichen direkt den türkisfarbenen Strand für eine Badepause.\n\nZum Abschluss radeln wir entspannt zurück zum Sunset Strip, um den Tag mit einem Blick auf das Meer zu beenden.",
             "hu": "Ez a kerékpártúra Sant Antoni teljes öblén végigvezet, egészen az északi, érintetlen öblökig (calas). A központból indulva a Sa Punta des Molí felé tekerünk.\n\nFolytatjuk utunkat a Cap Blanc Akváriumba, amely egy barlangban kapott helyet. Frissítő megálló egy forró napon.\n\nA túra sportos része a Cala Salada felé vezet. Kerékpárral elkerüljük a parkolási gondokat, és közvetlenül a türkizkék strandhoz érünk egy fürdőzésre.\n\nA végén kényelmesen visszatekerünk a Naplemente sétányra, hogy a tenger látványával zárjuk a napot.",
             "ro": "Acest tur cu bicicleta vă poartă de-a lungul întregului golf Sant Antoni, până la golfulețele virgine din nord. După startul în centru, pedalăm spre Sa Punta des Molí.\n\nContinuăm spre Acvariul Cap Blanc, situat fascinant într-o grotă. Este o oprire răcoroasă într-o zi fierbinte.\n\nPartea sportivă ne duce spre Cala Salada. Cu bicicleta evităm problemele de parcare și ajungem direct la plaja cu ape turcoaz pentru o baie.\n\nLa final, pedalăm relaxați înapoi spre Sunset Strip pentru a încheia ziua cu o privire asupra mării.",
-            "en": "This bike tour takes you along the entire bay of Sant Antoni to the pristine coves in the north. After starting in the center, we cycle to Sa Punta des Molí.\n\nWe continue to the Cap Blanc Aquarium, which is fascinatingly located in a grotto. It's a cool stop on a hot day.\n\nThe sporty part takes us to Cala Salada. By bike, we bypass parking worries and reach the turquoise beach directly for a swim break.\n\nTo conclude, we cycle back to the Sunset Strip to end the day with a view of the sea."
+            "en": "This bike tour takes you along the entire bay of Sant Antoni to the pristine coves in the north. After starting in the center, we cycle to Sa Punta des Molí.\n\nWe continue to the Cap Blanc Aquarium, which is fascinatingly located in a grotto. It's a cool stop on a hot day.\n\nThe sporty part takes us to Cala Salada. By bike, we bypass parking worries and reach the turquoise beach directly for a swim break.\n\nTo conclude, we cycle back to the Sunset Strip to end the day with a view of the sea.",
+            "es": "Esta ruta en bicicleta recorre toda la bahía de Sant Antoni hasta las calas vírgenes del norte. Tras partir del centro, pedaleamos hasta Sa Punta des Molí.\n\nContinuamos hasta el Acuario Cap Blanc, fascinantemente ubicado en una gruta. Es una parada fresca en un día caluroso.\n\nLa parte más deportiva nos lleva a Cala Salada. En bici evitamos los problemas de aparcamiento y llegamos directamente a la playa turquesa para un descanso y baño.\n\nPara finalizar, volvemos en bicicleta al Sunset Strip para terminar el día con vistas al mar."
           },
           "stops": [
             {
@@ -986,13 +1066,15 @@
                 "de": "Ei des Kolumbus",
                 "hu": "Kolumbusz tojása",
                 "ro": "Oul lui Columb",
-                "en": "Egg of Columbus"
+                "en": "Egg of Columbus",
+                "es": "Huevo de Colón"
               },
               "tip_5lang": {
                 "de": "Guter Treffpunkt für Radler.",
                 "hu": "Jó találkozópont kerékpárosoknak.",
                 "ro": "Punct bun de întâlnire pentru bicicliști.",
-                "en": "Good meeting point for cyclists."
+                "en": "Good meeting point for cyclists.",
+                "es": "Buen punto de encuentro para ciclistas."
               }
             },
             {
@@ -1000,13 +1082,15 @@
                 "de": "Passeig de ses Fonts",
                 "hu": "Passeig de ses Fonts",
                 "ro": "Passeig de ses Fonts",
-                "en": "Passeig de ses Fonts"
+                "en": "Passeig de ses Fonts",
+                "es": "Passeig de ses Fonts"
               },
               "tip_5lang": {
                 "de": "Breiter Weg zum entspannten Rollen.",
                 "hu": "Széles út a kényelmes guruláshoz.",
                 "ro": "Drum lat pentru o plimbare relaxată.",
-                "en": "Wide path for relaxed rolling."
+                "en": "Wide path for relaxed rolling.",
+                "es": "Camino ancho para rodar con tranquilidad."
               }
             },
             {
@@ -1014,13 +1098,15 @@
                 "de": "Sa Punta des Molí",
                 "hu": "Sa Punta des Molí",
                 "ro": "Sa Punta des Molí",
-                "en": "Sa Punta des Molí"
+                "en": "Sa Punta des Molí",
+                "es": "Sa Punta des Molí"
               },
               "tip_5lang": {
                 "de": "Fahrradparkplätze vorhanden.",
                 "hu": "Kerékpárparkolók rendelkezésre állnak.",
                 "ro": "Parcare pentru biciclete disponibilă.",
-                "en": "Bike parking available."
+                "en": "Bike parking available.",
+                "es": "Aparca bicis disponible."
               }
             },
             {
@@ -1028,13 +1114,15 @@
                 "de": "Aquarium Cap Blanc",
                 "hu": "Cap Blanc Akvárium",
                 "ro": "Acvariul Cap Blanc",
-                "en": "Cap Blanc Aquarium"
+                "en": "Cap Blanc Aquarium",
+                "es": "Acuario Cap Blanc"
               },
               "tip_5lang": {
                 "de": "In einer natürlichen Meereshöhle.",
                 "hu": "Egy természetes tengeri barlangban található.",
                 "ro": "Într-o peșteră marină naturală.",
-                "en": "Located in a natural sea cave."
+                "en": "Located in a natural sea cave.",
+                "es": "Situada en una cueva marina natural."
               }
             },
             {
@@ -1042,13 +1130,15 @@
                 "de": "Cala Salada",
                 "hu": "Cala Salada",
                 "ro": "Cala Salada",
-                "en": "Cala Salada"
+                "en": "Cala Salada",
+                "es": "Cala Salada"
               },
               "tip_5lang": {
                 "de": "Anstrengender Anstieg, aber es lohnt sich.",
                 "hu": "Fárasztó emelkedő, de megéri.",
                 "ro": "Urcare obositoare, dar merită.",
-                "en": "Strenuous climb, but it's worth it."
+                "en": "Strenuous climb, but it's worth it.",
+                "es": "Subida exigente, pero merece la pena."
               }
             },
             {
@@ -1056,13 +1146,15 @@
                 "de": "Sunset Strip",
                 "hu": "Naplemente sétány",
                 "ro": "Sunset Strip",
-                "en": "Sunset Strip"
+                "en": "Sunset Strip",
+                "es": "Sunset Strip"
               },
               "tip_5lang": {
                 "de": "Gemütliche Rückfahrt bei tiefer Sonne.",
                 "hu": "Hangulatos visszaút a lemenő napban.",
                 "ro": "Întoarcere plăcută sub soarele care apune.",
-                "en": "Atmospheric ride back in the setting sun."
+                "en": "Atmospheric ride back in the setting sun.",
+                "es": "Regreso atmosférico con el sol poniente."
               }
             }
           ],
@@ -1172,6 +1264,12 @@
               "Observe the helmet requirement on intercity roads.",
               "Always lock your bike securely.",
               "An e-bike is recommended for the route to Cala Salada."
+            ],
+            "es": [
+              "Usa el paseo marítimo para la mayor parte de la ruta.",
+              "Respeta la obligación del casco en carreteras interurbanas.",
+              "Siempre asegura bien tu bicicleta con candado.",
+              "Se recomienda una e-bike para la ruta a Cala Salada."
             ]
           }
         },
@@ -1180,7 +1278,8 @@
             "hu": "Reggel vízálló ruhában vágunk neki a városnak a Tojástól.\n\nDélben a kikötői sétányon óvatosan tekerünk a vizes talajon.\n\nDélután a Sa Punta des Molí fedett részeinél pihentetjük a kerékpárokat.\n\nEste a Sunset Strip fűtött helyei kárpótolnak minket a vizes út után.",
             "de": "Morgens starten wir in wasserfester Kleidung am Ei des Kolumbus.\n\nMittags radeln wir vorsichtig über den nassen Boden der Hafenpromenade.\n\nAm Nachmittag stellen wir die Räder an überdachten Bereichen ab.\n\nAbends wärmen wir uns nach der nassen Fahrt am Sunset Strip auf.",
             "ro": "Dimineața pornim în haine impermeabile de la Ou prin oraș.\n\nLa prânz pedalăm cu grijă pe pavajul umed de pe faleză.\n\nDupă-amiaza lăsăm bicicletele în zonele acoperite de la Sa Punta des Molí.\n\nSeara restaurantele de pe Sunset Strip ne răsplătesc după drumul umed.",
-            "en": "Morning starts in waterproof gear from the Egg through the town.\n\nAt noon we cycle carefully along the wet harbor promenade.\n\nIn the afternoon we park the bikes in the covered areas of the center.\n\nIn the evening, heated venues on the Sunset Strip reward us after the ride."
+            "en": "Morning starts in waterproof gear from the Egg through the town.\n\nAt noon we cycle carefully along the wet harbor promenade.\n\nIn the afternoon we park the bikes in the covered areas of the center.\n\nIn the evening, heated venues on the Sunset Strip reward us after the ride.",
+            "es": "La mañana comienza con ropa impermeable desde el Huevo por el pueblo.\n\nAl mediodía circulamos con cuidado por el húmedo paseo del puerto.\n\nPor la tarde aparcamos las bicicletas en las zonas cubiertas del centro.\n\nPor la noche, locales climatizados en el Sunset Strip nos recompensan tras la ruta."
           },
           "stops": [
             {
@@ -1189,7 +1288,8 @@
                 "hu": "Lassíts a vizes kanyarban.",
                 "de": "In nassen Kurven abbremsen.",
                 "ro": "Încetiniți în curbele umede.",
-                "en": "Slow down in wet corners."
+                "en": "Slow down in wet corners.",
+                "es": "Reduce la velocidad en curvas húmedas."
               }
             },
             {
@@ -1198,7 +1298,8 @@
                 "hu": "Vigyázz, a fém rácsok csúsznak.",
                 "de": "Metallgitter sind rutschig.",
                 "ro": "Grătarele metalice alunecă.",
-                "en": "Watch out, metal grates are slippery."
+                "en": "Watch out, metal grates are slippery.",
+                "es": "Cuidado, las rejillas metálicas son resbaladizas."
               }
             },
             {
@@ -1207,7 +1308,8 @@
                 "hu": "Fedett tároló a bicikliknek.",
                 "de": "Überdachter Abstellplatz.",
                 "ro": "Suport biciclete acoperit.",
-                "en": "Covered bike parking."
+                "en": "Covered bike parking.",
+                "es": "Aparcamiento cubierto para bicicletas."
               }
             },
             {
@@ -1216,7 +1318,8 @@
                 "hu": "Természetes barlang, száraz hely.",
                 "de": "Höhle, trockener Ort.",
                 "ro": "Peșteră, loc uscat.",
-                "en": "Cave, a dry spot."
+                "en": "Cave, a dry spot.",
+                "es": "Cueva, un lugar seco."
               }
             },
             {
@@ -1225,7 +1328,8 @@
                 "hu": "Az út vizesen veszélyes lehet.",
                 "de": "Weg kann nass gefährlich sein.",
                 "ro": "Drumul poate fi periculos umed.",
-                "en": "Path can be dangerous when wet."
+                "en": "Path can be dangerous when wet.",
+                "es": "El sendero puede ser peligroso cuando está mojado."
               }
             },
             {
@@ -1234,7 +1338,8 @@
                 "hu": "Vízálló táska kötelező.",
                 "de": "Wasserdichte Tasche Pflicht.",
                 "ro": "Geantă impermeabilă obligatorie.",
-                "en": "Waterproof bag is a must."
+                "en": "Waterproof bag is a must.",
+                "es": "Bolsa impermeable imprescindible."
               }
             }
           ],
@@ -1266,6 +1371,13 @@
               "The cave aquarium is a great shelter during storms.",
               "Bring waterproof clothing and a change of shoes.",
               "Metal plates in the harbor are extremely dangerous when wet."
+            ],
+            "es": [
+              "Usa guardabarros de buena calidad bajo la lluvia.",
+              "Reduce la velocidad en las curvas, el asfalto mojado resbala.",
+              "El acuario de la cueva es un gran refugio durante las tormentas.",
+              "Lleva ropa impermeable y un cambio de zapatos.",
+              "Las placas metálicas del puerto son extremadamente peligrosas cuando están mojadas."
             ]
           }
         },
@@ -1274,7 +1386,8 @@
             "hu": "Téli reggelen friss szélben tekerünk a Tojástól a part mentén.\n\nDélben a kikötőben pihenünk a téli napsütésben.\n\nDélután a Sa Punta des Molí felé vesszük az irányt a csendes utakon.\n\nEste a korai sötétedés előtt érünk a Sunset Strip-re a bringák mellé.",
             "de": "An einem Wintermorgen radeln wir bei frischem Wind vom Ei am Ufer entlang.\n\nMittags rasten wir im Hafen in der Wintersonne.\n\nAm Nachmittag geht es über ruhige Straßen zum Sa Punta des Molí.\n\nAbends erreichen wir vor Einbruch der Dunkelheit den Sunset Strip.",
             "ro": "Într-o dimineață de iarnă, pedalăm de la Ou în vântul proaspăt.\n\nLa prânz ne odihnim în port sub soarele blând de iarnă.\n\nDupă-amiaza ne îndreptăm spre Sa Punta des Molí pe drumuri liniștite.\n\nSeara ajungem pe Sunset Strip înainte de întuneric.",
-            "en": "On a winter morning, we cycle along the shore from the Egg in the breeze.\n\nAt noon we rest in the harbor under the winter sun.\n\nIn the afternoon we head to Sa Punta des Molí on quiet roads.\n\nIn the evening we reach the Sunset Strip before dark."
+            "en": "On a winter morning, we cycle along the shore from the Egg in the breeze.\n\nAt noon we rest in the harbor under the winter sun.\n\nIn the afternoon we head to Sa Punta des Molí on quiet roads.\n\nIn the evening we reach the Sunset Strip before dark.",
+            "es": "En una mañana de invierno, pedaleamos por la costa desde el Huevo con la brisa.\n\nAl mediodía descansamos en el puerto bajo el sol invernal.\n\nPor la tarde nos dirigimos a Sa Punta des Molí por carreteras tranquilas.\n\nPor la noche llegamos al Sunset Strip antes de que oscurezca."
           },
           "stops": [
             {
@@ -1283,7 +1396,8 @@
                 "hu": "Készülj a hűvös menetszélre.",
                 "de": "Auf kühlen Fahrtwind vorbereiten.",
                 "ro": "Pregătiți-vă pentru vântul rece.",
-                "en": "Prepare for the chilly headwind."
+                "en": "Prepare for the chilly headwind.",
+                "es": "Prepárate para el frío viento en contra."
               }
             },
             {
@@ -1292,7 +1406,8 @@
                 "hu": "Kevés gyalogos, gyors haladás.",
                 "de": "Wenige Fußgänger, schnell.",
                 "ro": "Puțini pietoni, rapid.",
-                "en": "Fewer pedestrians, faster."
+                "en": "Fewer pedestrians, faster.",
+                "es": "Menos peatones, más velocidad."
               }
             },
             {
@@ -1301,7 +1416,8 @@
                 "hu": "A napos padoknál melegedj fel.",
                 "de": "Auf sonnigen Bänken aufwärmen.",
                 "ro": "Încălziți-vă la soare.",
-                "en": "Warm up on the sunny benches."
+                "en": "Warm up on the sunny benches.",
+                "es": "Entrénate en los bancos soleados."
               }
             },
             {
@@ -1310,7 +1426,8 @@
                 "hu": "Ellenőrizd a téli órákat.",
                 "de": "Winteröffnungszeiten prüfen.",
                 "ro": "Verificați programul de iarnă.",
-                "en": "Check winter opening hours."
+                "en": "Check winter opening hours.",
+                "es": "Consulta los horarios de invierno."
               }
             },
             {
@@ -1319,7 +1436,8 @@
                 "hu": "Vigyél meleg teát termoszban.",
                 "de": "Warmen Tee mitnehmen.",
                 "ro": "Luați ceai cald în termos.",
-                "en": "Take warm tea in a thermos."
+                "en": "Take warm tea in a thermos.",
+                "es": "Lleva té caliente en un termo."
               }
             },
             {
@@ -1328,7 +1446,8 @@
                 "hu": "Sötétedés előtt érj vissza.",
                 "de": "Vor der Dunkelheit zurück.",
                 "ro": "Întoarceți-vă înainte de întuneric.",
-                "en": "Return before darkness falls."
+                "en": "Return before darkness falls.",
+                "es": "Vuelve antes de que caiga la oscuridad."
               }
             }
           ],
@@ -1360,6 +1479,13 @@
               "The aquarium has limited winter hours, check in advance.",
               "Cala Salada trails are well-rideable by bike in winter.",
               "Enjoy the traffic-free roads around the town."
+            ],
+            "es": [
+              "Lleva una chaqueta cortaviento por la brisa invernal.",
+              "El atardecer es temprano; planifica la vuelta para las 17:30.",
+              "El acuario tiene horarios reducidos en invierno; compruébalos con antelación.",
+              "Los senderos de Cala Salada son fácilmente ciclables en invierno.",
+              "Disfruta de las carreteras sin tráfico alrededor del pueblo."
             ]
           }
         }
@@ -1378,7 +1504,8 @@
             "de": "Cova de ses Fontanelles",
             "hu": "Ses Fontanelles barlang",
             "ro": "Peștera ses Fontanelles",
-            "en": "Ses Fontanelles Cave"
+            "en": "Ses Fontanelles Cave",
+            "es": "Cueva de Ses Fontanelles"
           },
           "coords": [
             1.2935,
@@ -1393,7 +1520,8 @@
             "de": "Höhlenmalereien aus der Bronzezeit.",
             "hu": "Bronzkori barlangrajzok.",
             "ro": "Picturi rupestre din epoca bronzului.",
-            "en": "Bronze Age cave paintings."
+            "en": "Bronze Age cave paintings.",
+            "es": "Pinturas rupestres de la Edad de Bronce."
           }
         },
         {
@@ -1401,7 +1529,8 @@
             "de": "Cala Salada",
             "hu": "Cala Salada",
             "ro": "Cala Salada",
-            "en": "Cala Salada"
+            "en": "Cala Salada",
+            "es": "Cala Salada"
           },
           "coords": [
             1.2985,
@@ -1416,7 +1545,8 @@
             "de": "Parken Sie weit oben und nutzen Sie den Shuttle.",
             "hu": "Parkoljon fentebb, és használja a transzfert.",
             "ro": "Parcați sus și folosiți autobuzul shuttle.",
-            "en": "Park higher up and use the shuttle bus."
+            "en": "Park higher up and use the shuttle bus.",
+            "es": "Aparca más arriba y usa el bus lanzadera."
           }
         },
         {
@@ -1424,7 +1554,8 @@
             "de": "Sa Punta des Molí",
             "hu": "Sa Punta des Molí",
             "ro": "Sa Punta des Molí",
-            "en": "Sa Punta des Molí"
+            "en": "Sa Punta des Molí",
+            "es": "Sa Punta des Molí"
           },
           "coords": [
             1.3015,
@@ -1439,7 +1570,8 @@
             "de": "Großer Parkplatz in der Nähe.",
             "hu": "Nagy parkoló található a közelben.",
             "ro": "Parcare mare în apropiere.",
-            "en": "Large car park nearby."
+            "en": "Large car park nearby.",
+            "es": "Amplio aparcamiento cercano."
           }
         },
         {
@@ -1447,7 +1579,8 @@
             "de": "Ei des Kolumbus",
             "hu": "Kolumbusz tojása",
             "ro": "Oul lui Columb",
-            "en": "Egg of Columbus"
+            "en": "Egg of Columbus",
+            "es": "Huevo de Colón"
           },
           "coords": [
             1.3055,
@@ -1462,7 +1595,8 @@
             "de": "Kurzer Fotostopp am Kreisverkehr.",
             "hu": "Rövid fotómegálló a körforgalomnál.",
             "ro": "Scurtă oprire pentru poze la sensul giratoriu.",
-            "en": "Short photo stop at the roundabout."
+            "en": "Short photo stop at the roundabout.",
+            "es": "Parada corta para fotos en la rotonda."
           }
         },
         {
@@ -1470,7 +1604,8 @@
             "de": "Sunset Strip",
             "hu": "Naplemente sétány",
             "ro": "Sunset Strip",
-            "en": "Sunset Strip"
+            "en": "Sunset Strip",
+            "es": "Sunset Strip"
           },
           "coords": [
             1.2975,
@@ -1485,7 +1620,8 @@
             "de": "Parkhaus 'Ses Variades' nutzen.",
             "hu": "Használja a 'Ses Variades' parkolóházat.",
             "ro": "Folosiți parcarea 'Ses Variades'.",
-            "en": "Use the 'Ses Variades' parking garage."
+            "en": "Use the 'Ses Variades' parking garage.",
+            "es": "Usa el parking cubierto 'Ses Variades'."
           }
         }
       ],
@@ -1493,7 +1629,8 @@
         "de": "Mit dem Auto erreichen wir am Morgen die entlegene Cova de ses Fontanelles mit ihren antiken Felszeichnungen. Es ist ein stiller Ort hoch über dem Meer.\n\nDen Vormittag verbringen wir an der traumhaften Cala Salada. Das Auto gibt uns die Freiheit, die Bucht früh zu erreichen, bevor der große Andrang kommt.\n\nNach dem Strandbesuch fahren wir zurück in den Ort zum Kulturzentrum Sa Punta des Molí und werfen einen Blick auf das Denkmal des Kolumbus im Zentrum.\n\nZum Abendessen und Sonnenuntergang parken wir nahe dem Sunset Strip. So genießen wir die magischen Stunden ohne Stress bei der Rückfahrt.",
         "hu": "Autóval reggel elérjük a távoli Ses Fontanelles barlangot az ősi sziklarajzaival. Csendes hely magasan a tenger felett.\n\nA délelőttöt a mesés Cala Salada strandon töltjük. Az autó szabadságot ad, hogy korán odaérjünk, mielőtt a nagy tömeg megérkezne.\n\nA strandolás után visszahajtunk a városba a Sa Punta des Molí kulturális központhoz, és megnézzük a Kolumbusz-emlékművet is.\n\nAz vacsorához és a naplementéhez a Naplemente sétány közelében parkolunk le, így stresszmentesen élvezhetjük a mágikus pillanatokat.",
         "ro": "Cu mașina ajungem dimineața la îndepărtata peșteră ses Fontanelles, cu desenele sale rupestre antice. Este un loc liniștit sus deasupra mării.\n\nDimineața o petrecem la superba Cala Salada. Mașina ne oferă libertatea de a ajunge devreme în golf, înainte de marea aglomerație.\n\nDupă plajă, revenim în localitate la centrul cultural Sa Punta des Molí și aruncăm o privire la monumentul lui Columb din centru.\n\nPentru cină și apus, parcăm aproape de Sunset Strip. Astfel ne bucurăm de orele magice fără stresul drumului de întoarcere.",
-        "en": "By car, we reach the remote Ses Fontanelles Cave in the morning with its ancient rock drawings. It's a quiet spot high above the sea.\n\nWe spend the morning at the dreamlike Cala Salada. The car gives us the freedom to reach the cove early before the big crowds arrive.\n\nAfter the beach visit, we drive back to town to the Sa Punta des Molí cultural center and take a look at the Columbus monument in the center.\n\nFor dinner and sunset, we park near the Sunset Strip. This way, we enjoy the magical hours without stress on the return journey."
+        "en": "By car, we reach the remote Ses Fontanelles Cave in the morning with its ancient rock drawings. It's a quiet spot high above the sea.\n\nWe spend the morning at the dreamlike Cala Salada. The car gives us the freedom to reach the cove early before the big crowds arrive.\n\nAfter the beach visit, we drive back to town to the Sa Punta des Molí cultural center and take a look at the Columbus monument in the center.\n\nFor dinner and sunset, we park near the Sunset Strip. This way, we enjoy the magical hours without stress on the return journey.",
+        "es": "En coche, llegamos por la mañana a la remota Cueva de Ses Fontanelles con sus dibujos rupestres. Es un lugar tranquilo, en lo alto sobre el mar.\n\nPasamos la mañana en la soñadora Cala Salada. El coche nos da la libertad de llegar a la cala temprano, antes de que lleguen las grandes multitudes.\n\nTras la visita a la playa, volvemos en coche al pueblo hasta el centro cultural Sa Punta des Molí y echamos un vistazo al monumento a Colón en el centro.\n\nPara cenar y ver la puesta de sol, aparcamos cerca del Sunset Strip. Así disfrutamos de las horas mágicas sin prisas en el regreso."
       },
       "gastro_picks": {
         "de": [
@@ -1601,6 +1738,12 @@
           "Avoid the city center during rush hours.",
           "Parking spaces are scarce on the Sunset Strip.",
           "The road to the cave is partly unpaved."
+        ],
+        "es": [
+          "En temporada alta el acceso en coche a Cala Salada está restringido (usa el lanzadera).",
+          "Evita el centro durante las horas punta.",
+          "Los aparcamientos escasean en el Sunset Strip.",
+          "La carretera hacia la cueva está en parte sin pavimentar."
         ]
       },
       "variants": {
@@ -1609,7 +1752,8 @@
             "de": "Mit dem Auto erreichen wir am Morgen die entlegene Cova de ses Fontanelles mit ihren antiken Felszeichnungen. Es ist ein stiller Ort hoch über dem Meer.\n\nDen Vormittag verbringen wir an der traumhaften Cala Salada. Das Auto gibt uns die Freiheit, die Bucht früh zu erreichen, bevor der große Andrang kommt.\n\nNach dem Strandbesuch fahren wir zurück in den Ort zum Kulturzentrum Sa Punta des Molí und werfen einen Blick auf das Denkmal des Kolumbus im Zentrum.\n\nZum Abendessen und Sonnenuntergang parken wir nahe dem Sunset Strip. So genießen wir die magischen Stunden ohne Stress bei der Rückfahrt.",
             "hu": "Autóval reggel elérjük a távoli Ses Fontanelles barlangot az ősi sziklarajzaival. Csendes hely magasan a tenger felett.\n\nA délelőttöt a mesés Cala Salada strandon töltjük. Az autó szabadságot ad, hogy korán odaérjünk, mielőtt a nagy tömeg megérkezne.\n\nA strandolás után visszahajtunk a városba a Sa Punta des Molí kulturális központhoz, és megnézzük a Kolumbusz-emlékművet is.\n\nAz vacsorához és a naplementéhez a Naplemente sétány közelében parkolunk le, így stresszmentesen élvezhetjük a mágikus pillanatokat.",
             "ro": "Cu mașina ajungem dimineața la îndepărtata peșteră ses Fontanelles, cu desenele sale rupestre antice. Este un loc liniștit sus deasupra mării.\n\nDimineața o petrecem la superba Cala Salada. Mașina ne oferă libertatea de a ajunge devreme în golf, înainte de marea aglomerație.\n\nDupă plajă, revenim în localitate la centrul cultural Sa Punta des Molí și aruncăm o privire la monumentul lui Columb din centru.\n\nPentru cină și apus, parcăm aproape de Sunset Strip. Astfel ne bucurăm de orele magice fără stresul drumului de întoarcere.",
-            "en": "By car, we reach the remote Ses Fontanelles Cave in the morning with its ancient rock drawings. It's a quiet spot high above the sea.\n\nWe spend the morning at the dreamlike Cala Salada. The car gives us the freedom to reach the cove early before the big crowds arrive.\n\nAfter the beach visit, we drive back to town to the Sa Punta des Molí cultural center and take a look at the Columbus monument in the center.\n\nFor dinner and sunset, we park near the Sunset Strip. This way, we enjoy the magical hours without stress on the return journey."
+            "en": "By car, we reach the remote Ses Fontanelles Cave in the morning with its ancient rock drawings. It's a quiet spot high above the sea.\n\nWe spend the morning at the dreamlike Cala Salada. The car gives us the freedom to reach the cove early before the big crowds arrive.\n\nAfter the beach visit, we drive back to town to the Sa Punta des Molí cultural center and take a look at the Columbus monument in the center.\n\nFor dinner and sunset, we park near the Sunset Strip. This way, we enjoy the magical hours without stress on the return journey.",
+            "es": "En coche, llegamos por la mañana a la remota Cueva de Ses Fontanelles con sus dibujos rupestres. Es un lugar tranquilo, en lo alto sobre el mar.\n\nPasamos la mañana en la soñadora Cala Salada. El coche nos da la libertad de llegar a la cala temprano, antes de que lleguen las grandes multitudes.\n\nTras la visita a la playa, volvemos en coche al pueblo hasta el centro cultural Sa Punta des Molí y echamos un vistazo al monumento a Colón en el centro.\n\nPara cenar y ver la puesta de sol, aparcamos cerca del Sunset Strip. Así disfrutamos de las horas mágicas sin prisas en el regreso."
           },
           "stops": [
             {
@@ -1617,13 +1761,15 @@
                 "de": "Cova de ses Fontanelles",
                 "hu": "Ses Fontanelles barlang",
                 "ro": "Peștera ses Fontanelles",
-                "en": "Ses Fontanelles Cave"
+                "en": "Ses Fontanelles Cave",
+                "es": "Cueva de Ses Fontanelles"
               },
               "tip_5lang": {
                 "de": "Höhlenmalereien aus der Bronzezeit.",
                 "hu": "Bronzkori barlangrajzok.",
                 "ro": "Picturi rupestre din epoca bronzului.",
-                "en": "Bronze Age cave paintings."
+                "en": "Bronze Age cave paintings.",
+                "es": "Pinturas rupestres de la Edad de Bronce."
               }
             },
             {
@@ -1631,13 +1777,15 @@
                 "de": "Cala Salada",
                 "hu": "Cala Salada",
                 "ro": "Cala Salada",
-                "en": "Cala Salada"
+                "en": "Cala Salada",
+                "es": "Cala Salada"
               },
               "tip_5lang": {
                 "de": "Parken Sie weit oben und nutzen Sie den Shuttle.",
                 "hu": "Parkoljon fentebb, és használja a transzfert.",
                 "ro": "Parcați sus și folosiți autobuzul shuttle.",
-                "en": "Park higher up and use the shuttle bus."
+                "en": "Park higher up and use the shuttle bus.",
+                "es": "Aparca más arriba y usa el bus lanzadera."
               }
             },
             {
@@ -1645,13 +1793,15 @@
                 "de": "Sa Punta des Molí",
                 "hu": "Sa Punta des Molí",
                 "ro": "Sa Punta des Molí",
-                "en": "Sa Punta des Molí"
+                "en": "Sa Punta des Molí",
+                "es": "Sa Punta des Molí"
               },
               "tip_5lang": {
                 "de": "Großer Parkplatz in der Nähe.",
                 "hu": "Nagy parkoló található a közelben.",
                 "ro": "Parcare mare în apropiere.",
-                "en": "Large car park nearby."
+                "en": "Large car park nearby.",
+                "es": "Amplio aparcamiento cercano."
               }
             },
             {
@@ -1659,13 +1809,15 @@
                 "de": "Ei des Kolumbus",
                 "hu": "Kolumbusz tojása",
                 "ro": "Oul lui Columb",
-                "en": "Egg of Columbus"
+                "en": "Egg of Columbus",
+                "es": "Huevo de Colón"
               },
               "tip_5lang": {
                 "de": "Kurzer Fotostopp am Kreisverkehr.",
                 "hu": "Rövid fotómegálló a körforgalomnál.",
                 "ro": "Scurtă oprire pentru poze la sensul giratoriu.",
-                "en": "Short photo stop at the roundabout."
+                "en": "Short photo stop at the roundabout.",
+                "es": "Parada corta para fotos en la rotonda."
               }
             },
             {
@@ -1673,13 +1825,15 @@
                 "de": "Sunset Strip",
                 "hu": "Naplemente sétány",
                 "ro": "Sunset Strip",
-                "en": "Sunset Strip"
+                "en": "Sunset Strip",
+                "es": "Sunset Strip"
               },
               "tip_5lang": {
                 "de": "Parkhaus 'Ses Variades' nutzen.",
                 "hu": "Használja a 'Ses Variades' parkolóházat.",
                 "ro": "Folosiți parcarea 'Ses Variades'.",
-                "en": "Use the 'Ses Variades' parking garage."
+                "en": "Use the 'Ses Variades' parking garage.",
+                "es": "Usa el parking cubierto 'Ses Variades'."
               }
             }
           ],
@@ -1789,6 +1943,12 @@
               "Avoid the city center during rush hours.",
               "Parking spaces are scarce on the Sunset Strip.",
               "The road to the cave is partly unpaved."
+            ],
+            "es": [
+              "En temporada alta el acceso en coche a Cala Salada está restringido (usa el lanzadera).",
+              "Evita el centro durante las horas punta.",
+              "Los aparcamientos escasean en el Sunset Strip.",
+              "La carretera hacia la cueva está en parte sin pavimentar."
             ]
           }
         },
@@ -1797,7 +1957,8 @@
             "hu": "Az autó kényelméből fedezzük fel a szigetet az esőben.\n\nReggel a barlangnál kezdünk, ahol teljesen szárazon maradhatunk.\n\nDélben Cala Salada öblét nézzük meg a kocsiból az esőfüggönyön át.\n\nEste a Sunset Strip fűtött teraszán vacsorázunk a tenger morajlását hallgatva.",
             "de": "Vom Auto aus erkunden wir die Insel bei Regen.\n\nMorgens starten wir an der Höhle, wo wir völlig trocken bleiben.\n\nMittags betrachten wir die Bucht von Cala Salada aus dem Auto.\n\nAbends essen wir auf einer beheizten Terrasse am Sunset Strip.",
             "ro": "Explorăm insula pe ploaie din confortul mașinii.\n\nDimineața începem la peșteră, unde rămânem complet uscați.\n\nLa prânz admirăm golful Cala Salada din mașină prin ploaie.\n\nSeara cinăm pe o terasă încălzită de pe Sunset Strip.",
-            "en": "Explore the island in the rain from the comfort of your car.\n\nIn the morning, start at the cave where you stay dry.\n\nAt noon, view the Cala Salada bay from the car through the rain.\n\nIn the evening, dine on a heated terrace on the Sunset Strip."
+            "en": "Explore the island in the rain from the comfort of your car.\n\nIn the morning, start at the cave where you stay dry.\n\nAt noon, view the Cala Salada bay from the car through the rain.\n\nIn the evening, dine on a heated terrace on the Sunset Strip.",
+            "es": "Explora la isla bajo la lluvia desde la comodidad del coche.\n\nPor la mañana comienza en la cueva, donde te mantienes seco.\n\nAl mediodía contempla la bahía de Cala Salada desde el coche bajo la lluvia.\n\nPor la noche cena en una terraza climatizada en el Sunset Strip."
           },
           "stops": [
             {
@@ -1806,7 +1967,8 @@
                 "hu": "Bent teljesen száraz maradsz.",
                 "de": "Innen bleiben Sie trocken.",
                 "ro": "Rămâneți uscat în interior.",
-                "en": "You stay dry inside."
+                "en": "You stay dry inside.",
+                "es": "Permanece seco en el interior."
               }
             },
             {
@@ -1815,7 +1977,8 @@
                 "hu": "A parkoló sárga és csúszós.",
                 "de": "Parkplatz matschig.",
                 "ro": "Parcarea este noroioasă.",
-                "en": "Parking can be muddy."
+                "en": "Parking can be muddy.",
+                "es": "El aparcamiento puede estar embarrado."
               }
             },
             {
@@ -1824,7 +1987,8 @@
                 "hu": "Parkolj közel a bejárathoz.",
                 "de": "Nah am Eingang parken.",
                 "ro": "Parcați aproape de intrare.",
-                "en": "Park close to the entrance."
+                "en": "Park close to the entrance.",
+                "es": "Aparca cerca de la entrada."
               }
             },
             {
@@ -1833,7 +1997,8 @@
                 "hu": "Ablakból is jól látható.",
                 "de": "Aus dem Fenster sichtbar.",
                 "ro": "Vizibil bine de pe geam.",
-                "en": "Visible from the window."
+                "en": "Visible from the window.",
+                "es": "Visible desde la ventanilla."
               }
             },
             {
@@ -1842,7 +2007,8 @@
                 "hu": "Fűthető teraszos helyet keress.",
                 "de": "Heizbare Terrasse suchen.",
                 "ro": "Căutați terasă încălzită.",
-                "en": "Look for a heated terrace."
+                "en": "Look for a heated terrace.",
+                "es": "Busca una terraza climatizada."
               }
             }
           ],
@@ -1874,6 +2040,13 @@
               "Take advantage of the car's protection between stops.",
               "Bring an umbrella for the walk from the car to the entrance.",
               "Look for restaurants with their own parking."
+            ],
+            "es": [
+              "Conduce con cuidado, las carreteras pueden resbalar con la lluvia.",
+              "El aparcamiento de Cala Salada está embarrado y es difícil de transitar.",
+              "Aprovecha la protección del coche entre paradas.",
+              "Lleva paraguas para el tramo entre el coche y la entrada.",
+              "Busca restaurantes con aparcamiento propio."
             ]
           }
         },
@@ -1882,7 +2055,8 @@
             "hu": "Téli napsütésben ideális az autós kirándulás a távolabbi öblökhöz.\n\nReggel a barlangot látogatjuk meg, ahol ilyenkor sincs tömeg.\n\nDélben Cala Salada nyugalmát élvezhetjük a napsütésben.\n\nEste a hűvös elől az autóba húzódunk a Sunset Strip naplementéje után.",
             "de": "Im Wintersonnenschein ist ein Automausflug zu den Buchten ideal.\n\nMorgens besuchen wir die Höhle ohne Menschenmassen.\n\nMittags genießen wir die Ruhe in Cala Salada in der Sonne.\n\nAbends flüchten wir nach dem Sonnenuntergang vor der Kälte ins Auto.",
             "ro": "Sub soarele de iarnă, o excursie cu mașina spre golfuri este ideală.\n\nDimineața vizităm peștera, care nu este aglomerată acum.\n\nLa prânz ne bucurăm de liniștea din Cala Salada sub soare.\n\nSeara ne retragem în mașină după apusul de pe Sunset Strip.",
-            "en": "A car trip to the bays is ideal in the winter sunshine.\n\nIn the morning visit the cave, which is uncrowded now.\n\nAt noon enjoy the tranquility of Cala Salada in the sun.\n\nIn the evening retreat to the car after the Sunset Strip sunset."
+            "en": "A car trip to the bays is ideal in the winter sunshine.\n\nIn the morning visit the cave, which is uncrowded now.\n\nAt noon enjoy the tranquility of Cala Salada in the sun.\n\nIn the evening retreat to the car after the Sunset Strip sunset.",
+            "es": "Un viaje en coche a las calas es ideal con el sol de invierno.\n\nPor la mañana visita la cueva, que ahora está poco concurrida.\n\nAl mediodía disfruta de la tranquilidad de Cala Salada al sol.\n\nPor la noche regresa al coche tras la puesta de sol en el Sunset Strip."
           },
           "stops": [
             {
@@ -1891,7 +2065,8 @@
                 "hu": "A barlangban állandó a hőfok.",
                 "de": "Konstante Temperatur.",
                 "ro": "Temperatură constantă.",
-                "en": "Constant temperature."
+                "en": "Constant temperature.",
+                "es": "Temperatura constante."
               }
             },
             {
@@ -1900,7 +2075,8 @@
                 "hu": "Könnyű parkolás télen.",
                 "de": "Einfaches Parken im Winter.",
                 "ro": "Parcare ușoară iarna.",
-                "en": "Easy parking in winter."
+                "en": "Easy parking in winter.",
+                "es": "Aparcamiento fácil en invierno."
               }
             },
             {
@@ -1909,7 +2085,8 @@
                 "hu": "Élvezd a téli délutáni fényt.",
                 "de": "Winterliches Licht genießen.",
                 "ro": "Bucurați-vă de lumina iernii.",
-                "en": "Enjoy the winter light."
+                "en": "Enjoy the winter light.",
+                "es": "Disfruta de la luz invernal."
               }
             },
             {
@@ -1918,7 +2095,8 @@
                 "hu": "Nincs tömeg a fotózáshoz.",
                 "de": "Keine Massen für Fotos.",
                 "ro": "Fără mulțimi pentru poze.",
-                "en": "No crowds for photos."
+                "en": "No crowds for photos.",
+                "es": "Sin multitudes para las fotos."
               }
             },
             {
@@ -1927,7 +2105,8 @@
                 "hu": "Figyeld a korai naplementét.",
                 "de": "Frühen Sonnenuntergang beachten.",
                 "ro": "Atenție la apusul devreme.",
-                "en": "Mind the early sunset."
+                "en": "Mind the early sunset.",
+                "es": "Ten en cuenta el temprano ocaso."
               }
             }
           ],
@@ -1959,6 +2138,13 @@
               "It's worth wearing hiking shoes for the cave visit.",
               "The air cools down quickly after sunset, be prepared.",
               "Check the winter opening hours of restaurants."
+            ],
+            "es": [
+              "Es mucho más fácil aparcar en el centro del pueblo durante el invierno.",
+              "La carretera a Cala Salada está ahora tranquila y pintoresca.",
+              "Merece la pena llevar botas de senderismo para la visita a la cueva.",
+              "El aire se enfría rápido tras el atardecer; ve preparado.",
+              "Consulta los horarios de invierno de los restaurantes."
             ]
           }
         }
@@ -1977,7 +2163,8 @@
             "de": "Ei des Kolumbus",
             "hu": "Kolumbusz tojása",
             "ro": "Oul lui Columb",
-            "en": "Egg of Columbus"
+            "en": "Egg of Columbus",
+            "es": "Huevo de Colón"
           },
           "coords": [
             1.3055,
@@ -1992,7 +2179,8 @@
             "de": "Hauptknotenpunkt für alle Buslinien.",
             "hu": "Minden buszjárat központi csomópontja.",
             "ro": "Nod principal pentru toate liniile de autobuz.",
-            "en": "Main hub for all bus lines."
+            "en": "Main hub for all bus lines.",
+            "es": "Nudo principal de todas las líneas de autobús."
           }
         },
         {
@@ -2000,7 +2188,8 @@
             "de": "Passeig de ses Fonts",
             "hu": "Passeig de ses Fonts",
             "ro": "Passeig de ses Fonts",
-            "en": "Passeig de ses Fonts"
+            "en": "Passeig de ses Fonts",
+            "es": "Passeig de ses Fonts"
           },
           "coords": [
             1.3035,
@@ -2015,7 +2204,8 @@
             "de": "Nur wenige Gehminuten vom Busbahnhof.",
             "hu": "Csak pár perc sétára a buszpályaudvartól.",
             "ro": "La doar câteva minute de mers de la autogară.",
-            "en": "Just a few minutes walk from the bus station."
+            "en": "Just a few minutes walk from the bus station.",
+            "es": "A sólo unos minutos a pie de la estación de autobuses."
           }
         },
         {
@@ -2023,7 +2213,8 @@
             "de": "Aquarium Cap Blanc",
             "hu": "Cap Blanc Akvárium",
             "ro": "Acvariul Cap Blanc",
-            "en": "Cap Blanc Aquarium"
+            "en": "Cap Blanc Aquarium",
+            "es": "Acuario Cap Blanc"
           },
           "coords": [
             1.2905,
@@ -2038,7 +2229,8 @@
             "de": "Bus L1 hält in der Nähe.",
             "hu": "Az L1-es busz a közelben áll meg.",
             "ro": "Autobuzul L1 oprește în apropiere.",
-            "en": "Bus L1 stops nearby."
+            "en": "Bus L1 stops nearby.",
+            "es": "La línea L1 para cerca."
           }
         },
         {
@@ -2046,7 +2238,8 @@
             "de": "Cala Salada",
             "hu": "Cala Salada",
             "ro": "Cala Salada",
-            "en": "Cala Salada"
+            "en": "Cala Salada",
+            "es": "Cala Salada"
           },
           "coords": [
             1.2985,
@@ -2061,7 +2254,8 @@
             "de": "Der 'Bus de la Cala' fährt ab Mai.",
             "hu": "A 'Bus de la Cala' májustól közlekedik.",
             "ro": "„Bus de la Cala” circulă din mai.",
-            "en": "The 'Bus de la Cala' runs from May."
+            "en": "The 'Bus de la Cala' runs from May.",
+            "es": "El «Bus de la Cala» circula desde mayo."
           }
         },
         {
@@ -2069,7 +2263,8 @@
             "de": "Sunset Strip",
             "hu": "Naplemente sétány",
             "ro": "Sunset Strip",
-            "en": "Sunset Strip"
+            "en": "Sunset Strip",
+            "es": "Sunset Strip"
           },
           "coords": [
             1.2975,
@@ -2084,7 +2279,8 @@
             "de": "Endstation für einen perfekten Tag.",
             "hu": "Végállomás egy tökéletes naphoz.",
             "ro": "Stație finală pentru o zi perfectă.",
-            "en": "Final stop for a perfect day."
+            "en": "Final stop for a perfect day.",
+            "es": "Parada final para un día perfecto."
           }
         }
       ],
@@ -2092,7 +2288,8 @@
         "de": "Sant Antoni ist das Drehkreuz für den Busverkehr im Westen Ibizas. Wir starten am Kolumbus-Denkmal, das direkt neben dem modernen Busbahnhof liegt.\n\nNach einem Bummel an den Brunnen des Passeig de ses Fonts bringt uns der lokale Bus zum Aquarium Cap Blanc. Es ist eine entspannte Art, die Küste zu erkunden.\n\nDer spezielle Shuttle-Bus zur Cala Salada ist im Sommer die beste Wahl, um direkt an den Strand zu kommen. Hier genießen wir den Nachmittag im Wasser.\n\nZum Ausklang fahren wir zurück ins Zentrum und laufen zum Sunset Strip, um die Musik und den Ausblick zu genießen, bevor wir den letzten Bus nehmen.",
         "hu": "Sant Antoni a nyugat-ibizai buszközlekedés csomópontja. A Kolumbusz-emlékműnél kezdünk, amely közvetlenül a modern buszpályaudvar mellett található.\n\nA Passeig de ses Fonts szökőkútjai után a helyi busz elvisz minket a Cap Blanc Akváriumba. Ez egy kényelmes módja a partvidék felfedezésének.\n\nA Cala Salada-hoz közlekedő speciális transzferbusz nyáron a legjobb választás, ha közvetlenül a strandra akarunk jutni. Itt töltjük a délutánt a vízben.\n\nA nap végén visszautazunk a központba, és elsétálunk a Naplemente sétányra, hogy élvezzük a zenét és a kilátást az utolsó busz indulása előtt.",
         "ro": "Sant Antoni este nodul principal pentru transportul cu autobuzul în vestul Ibizei. Începem la monumentul lui Columb, situat chiar lângă autogara modernă.\n\nDupă o plimbare pe lângă fântânile de pe Passeig de ses Fonts, autobuzul local ne duce la Acvariul Cap Blanc. Este un mod relaxant de a explora coasta.\n\nAutobuzul shuttle special către Cala Salada este cea mai bună alegere vara pentru a ajunge direct la plajă. Aici ne bucurăm de după-amiază în apă.\n\nLa final, revenim în centru și mergem pe jos la Sunset Strip pentru a ne bucura de muzică și priveliște înainte de a lua ultimul autobuz.",
-        "en": "Sant Antoni is the hub for bus transport in western Ibiza. We start at the Columbus monument, located right next to the modern bus station.\n\nAfter a stroll by the fountains of Passeig de ses Fonts, the local bus takes us to the Cap Blanc Aquarium. It's a relaxed way to explore the coast.\n\nThe special shuttle bus to Cala Salada is the best choice in summer to get directly to the beach. Here we enjoy the afternoon in the water.\n\nTo wrap up, we ride back to the center and walk to the Sunset Strip to enjoy the music and the view before taking the last bus."
+        "en": "Sant Antoni is the hub for bus transport in western Ibiza. We start at the Columbus monument, located right next to the modern bus station.\n\nAfter a stroll by the fountains of Passeig de ses Fonts, the local bus takes us to the Cap Blanc Aquarium. It's a relaxed way to explore the coast.\n\nThe special shuttle bus to Cala Salada is the best choice in summer to get directly to the beach. Here we enjoy the afternoon in the water.\n\nTo wrap up, we ride back to the center and walk to the Sunset Strip to enjoy the music and the view before taking the last bus.",
+        "es": "Sant Antoni es el centro del transporte en autobús del oeste de Ibiza. Empezamos en el monumento a Colón, situado justo al lado de la moderna estación de autobuses.\n\nTras pasear junto a las fuentes del Passeig de ses Fonts, el autobús local nos lleva al Acuario Cap Blanc. Es una forma relajada de explorar la costa.\n\nEl autobús lanzadera especial a Cala Salada es la mejor opción en verano para llegar directamente a la playa. Allí disfrutamos la tarde en el agua.\n\nPara terminar, volvemos al centro y caminamos hasta el Sunset Strip para disfrutar de la música y las vistas antes de tomar el último autobús."
       },
       "gastro_picks": {
         "de": [
@@ -2200,6 +2397,12 @@
           "L34 connects Sant Antoni with the northern beaches.",
           "Validate your ticket directly with the driver.",
           "Night buses (Discobus) run until late at night."
+        ],
+        "es": [
+          "Descarga la app «Ibiza Bus».",
+          "La L34 conecta Sant Antoni con las playas del norte.",
+          "Valida tu billete directamente con el conductor.",
+          "Los autobuses nocturnos (Discobus) funcionan hasta altas horas."
         ]
       },
       "variants": {
@@ -2208,7 +2411,8 @@
             "de": "Sant Antoni ist das Drehkreuz für den Busverkehr im Westen Ibizas. Wir starten am Kolumbus-Denkmal, das direkt neben dem modernen Busbahnhof liegt.\n\nNach einem Bummel an den Brunnen des Passeig de ses Fonts bringt uns der lokale Bus zum Aquarium Cap Blanc. Es ist eine entspannte Art, die Küste zu erkunden.\n\nDer spezielle Shuttle-Bus zur Cala Salada ist im Sommer die beste Wahl, um direkt an den Strand zu kommen. Hier genießen wir den Nachmittag im Wasser.\n\nZum Ausklang fahren wir zurück ins Zentrum und laufen zum Sunset Strip, um die Musik und den Ausblick zu genießen, bevor wir den letzten Bus nehmen.",
             "hu": "Sant Antoni a nyugat-ibizai buszközlekedés csomópontja. A Kolumbusz-emlékműnél kezdünk, amely közvetlenül a modern buszpályaudvar mellett található.\n\nA Passeig de ses Fonts szökőkútjai után a helyi busz elvisz minket a Cap Blanc Akváriumba. Ez egy kényelmes módja a partvidék felfedezésének.\n\nA Cala Salada-hoz közlekedő speciális transzferbusz nyáron a legjobb választás, ha közvetlenül a strandra akarunk jutni. Itt töltjük a délutánt a vízben.\n\nA nap végén visszautazunk a központba, és elsétálunk a Naplemente sétányra, hogy élvezzük a zenét és a kilátást az utolsó busz indulása előtt.",
             "ro": "Sant Antoni este nodul principal pentru transportul cu autobuzul în vestul Ibizei. Începem la monumentul lui Columb, situat chiar lângă autogara modernă.\n\nDupă o plimbare pe lângă fântânile de pe Passeig de ses Fonts, autobuzul local ne duce la Acvariul Cap Blanc. Este un mod relaxant de a explora coasta.\n\nAutobuzul shuttle special către Cala Salada este cea mai bună alegere vara pentru a ajunge direct la plajă. Aici ne bucurăm de după-amiază în apă.\n\nLa final, revenim în centru și mergem pe jos la Sunset Strip pentru a ne bucura de muzică și priveliște înainte de a lua ultimul autobuz.",
-            "en": "Sant Antoni is the hub for bus transport in western Ibiza. We start at the Columbus monument, located right next to the modern bus station.\n\nAfter a stroll by the fountains of Passeig de ses Fonts, the local bus takes us to the Cap Blanc Aquarium. It's a relaxed way to explore the coast.\n\nThe special shuttle bus to Cala Salada is the best choice in summer to get directly to the beach. Here we enjoy the afternoon in the water.\n\nTo wrap up, we ride back to the center and walk to the Sunset Strip to enjoy the music and the view before taking the last bus."
+            "en": "Sant Antoni is the hub for bus transport in western Ibiza. We start at the Columbus monument, located right next to the modern bus station.\n\nAfter a stroll by the fountains of Passeig de ses Fonts, the local bus takes us to the Cap Blanc Aquarium. It's a relaxed way to explore the coast.\n\nThe special shuttle bus to Cala Salada is the best choice in summer to get directly to the beach. Here we enjoy the afternoon in the water.\n\nTo wrap up, we ride back to the center and walk to the Sunset Strip to enjoy the music and the view before taking the last bus.",
+            "es": "Sant Antoni es el centro del transporte en autobús del oeste de Ibiza. Empezamos en el monumento a Colón, situado justo al lado de la moderna estación de autobuses.\n\nTras pasear junto a las fuentes del Passeig de ses Fonts, el autobús local nos lleva al Acuario Cap Blanc. Es una forma relajada de explorar la costa.\n\nEl autobús lanzadera especial a Cala Salada es la mejor opción en verano para llegar directamente a la playa. Allí disfrutamos la tarde en el agua.\n\nPara terminar, volvemos al centro y caminamos hasta el Sunset Strip para disfrutar de la música y las vistas antes de tomar el último autobús."
           },
           "stops": [
             {
@@ -2216,13 +2420,15 @@
                 "de": "Ei des Kolumbus",
                 "hu": "Kolumbusz tojása",
                 "ro": "Oul lui Columb",
-                "en": "Egg of Columbus"
+                "en": "Egg of Columbus",
+                "es": "Huevo de Colón"
               },
               "tip_5lang": {
                 "de": "Hauptknotenpunkt für alle Buslinien.",
                 "hu": "Minden buszjárat központi csomópontja.",
                 "ro": "Nod principal pentru toate liniile de autobuz.",
-                "en": "Main hub for all bus lines."
+                "en": "Main hub for all bus lines.",
+                "es": "Nudo principal de todas las líneas de autobús."
               }
             },
             {
@@ -2230,13 +2436,15 @@
                 "de": "Passeig de ses Fonts",
                 "hu": "Passeig de ses Fonts",
                 "ro": "Passeig de ses Fonts",
-                "en": "Passeig de ses Fonts"
+                "en": "Passeig de ses Fonts",
+                "es": "Passeig de ses Fonts"
               },
               "tip_5lang": {
                 "de": "Nur wenige Gehminuten vom Busbahnhof.",
                 "hu": "Csak pár perc sétára a buszpályaudvartól.",
                 "ro": "La doar câteva minute de mers de la autogară.",
-                "en": "Just a few minutes walk from the bus station."
+                "en": "Just a few minutes walk from the bus station.",
+                "es": "A sólo unos minutos a pie de la estación de autobuses."
               }
             },
             {
@@ -2244,13 +2452,15 @@
                 "de": "Aquarium Cap Blanc",
                 "hu": "Cap Blanc Akvárium",
                 "ro": "Acvariul Cap Blanc",
-                "en": "Cap Blanc Aquarium"
+                "en": "Cap Blanc Aquarium",
+                "es": "Acuario Cap Blanc"
               },
               "tip_5lang": {
                 "de": "Bus L1 hält in der Nähe.",
                 "hu": "Az L1-es busz a közelben áll meg.",
                 "ro": "Autobuzul L1 oprește în apropiere.",
-                "en": "Bus L1 stops nearby."
+                "en": "Bus L1 stops nearby.",
+                "es": "La línea L1 para cerca."
               }
             },
             {
@@ -2258,13 +2468,15 @@
                 "de": "Cala Salada",
                 "hu": "Cala Salada",
                 "ro": "Cala Salada",
-                "en": "Cala Salada"
+                "en": "Cala Salada",
+                "es": "Cala Salada"
               },
               "tip_5lang": {
                 "de": "Der 'Bus de la Cala' fährt ab Mai.",
                 "hu": "A 'Bus de la Cala' májustól közlekedik.",
                 "ro": "„Bus de la Cala” circulă din mai.",
-                "en": "The 'Bus de la Cala' runs from May."
+                "en": "The 'Bus de la Cala' runs from May.",
+                "es": "El «Bus de la Cala» circula desde mayo."
               }
             },
             {
@@ -2272,13 +2484,15 @@
                 "de": "Sunset Strip",
                 "hu": "Naplemente sétány",
                 "ro": "Sunset Strip",
-                "en": "Sunset Strip"
+                "en": "Sunset Strip",
+                "es": "Sunset Strip"
               },
               "tip_5lang": {
                 "de": "Endstation für einen perfekten Tag.",
                 "hu": "Végállomás egy tökéletes naphoz.",
                 "ro": "Stație finală pentru o zi perfectă.",
-                "en": "Final stop for a perfect day."
+                "en": "Final stop for a perfect day.",
+                "es": "Parada final para un día perfecto."
               }
             }
           ],
@@ -2388,6 +2602,12 @@
               "L34 connects Sant Antoni with the northern beaches.",
               "Validate your ticket directly with the driver.",
               "Night buses (Discobus) run until late at night."
+            ],
+            "es": [
+              "Descarga la app «Ibiza Bus».",
+              "La L34 conecta Sant Antoni con las playas del norte.",
+              "Valida tu billete directamente con el conductor.",
+              "Los autobuses nocturnos (Discobus) funcionan hasta altas horas."
             ]
           }
         },
@@ -2396,7 +2616,8 @@
             "hu": "Esőben a busz a legjobb barátunk a városban.\n\nReggel a Tojásnál kezdünk, majd fedett megállókban várakozunk.\n\nDélután az akváriumhoz buszozunk, ami a legjobb benti program.\n\nEste a Sunset Strip környékén várunk száraz helyen az utolsó járatra.",
             "de": "Bei Regen ist der Bus unser bester Freund in der Stadt.\n\nMorgens starten wir am Ei und warten in überdachten Haltestellen.\n\nNachmittags fahren wir zum Aquarium, dem besten Indoor-Programm.\n\nAbends warten wir am Sunset Strip an einem trockenen Ort auf den Bus.",
             "ro": "Pe ploaie, autobuzul este cel mai bun prieten în oraș.\n\nDimineața începem la Ou, apoi așteptăm în stații acoperite.\n\nDupă-amiaza luăm bus-ul spre acvariu, cel mai bun program de interior.\n\nSeara așteptăm ultimul autobuz într-un loc uscat de pe Sunset Strip.",
-            "en": "In the rain, the bus is our best friend in the town.\n\nIn the morning start at the Egg, then wait in covered stops.\n\nIn the afternoon take the bus to the aquarium, the best indoor activity.\n\nIn the evening wait for the last bus in a dry spot near the Sunset Strip."
+            "en": "In the rain, the bus is our best friend in the town.\n\nIn the morning start at the Egg, then wait in covered stops.\n\nIn the afternoon take the bus to the aquarium, the best indoor activity.\n\nIn the evening wait for the last bus in a dry spot near the Sunset Strip.",
+            "es": "Con lluvia, el autobús es nuestro mejor amigo en la localidad.\n\nPor la mañana empieza en el Huevo, luego espera en paradas cubiertas.\n\nPor la tarde toma el autobús al acuario, la mejor actividad bajo techo.\n\nPor la noche espera el último autobús en un lugar seco cerca del Sunset Strip."
           },
           "stops": [
             {
@@ -2405,7 +2626,8 @@
                 "hu": "A buszmegálló nagyon közel van.",
                 "de": "Bushaltestelle ist sehr nah.",
                 "ro": "Stația de autobuz este aproape.",
-                "en": "The bus stop is very close."
+                "en": "The bus stop is very close.",
+                "es": "La parada de autobús está muy cerca."
               }
             },
             {
@@ -2414,7 +2636,8 @@
                 "hu": "Fedett várók a közelben.",
                 "de": "Überdachte Wartehäuschen.",
                 "ro": "Adăposturi acoperite.",
-                "en": "Covered shelters nearby."
+                "en": "Covered shelters nearby.",
+                "es": "Hay marquesinas cubiertas cerca."
               }
             },
             {
@@ -2423,7 +2646,8 @@
                 "hu": "A buszon nem ázol el.",
                 "de": "Im Bus bleiben Sie trocken.",
                 "ro": "Nu vă udă în autobuz.",
-                "en": "You stay dry on the bus."
+                "en": "You stay dry on the bus.",
+                "es": "Te mantienes seco en el autobús."
               }
             },
             {
@@ -2432,7 +2656,8 @@
                 "hu": "Ritkább járatok esőben.",
                 "de": "Seltenerer Bus bei Regen.",
                 "ro": "Autobuze mai rare pe ploaie.",
-                "en": "Rarer bus service in rain."
+                "en": "Rarer bus service in rain.",
+                "es": "Servicio de autobús menos frecuente con lluvia."
               }
             },
             {
@@ -2441,7 +2666,8 @@
                 "hu": "A busz korábban indulhat.",
                 "de": "Bus fährt evtl. früher.",
                 "ro": "Autobuzul poate pleca devreme.",
-                "en": "Bus might leave earlier."
+                "en": "Bus might leave earlier.",
+                "es": "El autobús puede salir antes."
               }
             }
           ],
@@ -2473,6 +2699,13 @@
               "The Cala Salada beach bus might not run in heavy rain.",
               "The path to the aquarium can be muddy on foot.",
               "Watch for the last bus in the evening, as service is limited."
+            ],
+            "es": [
+              "Descarga la app «Ibiza Bus» para seguimiento en directo.",
+              "La mayoría de paradas están cubiertas, pero lleva paraguas igualmente.",
+              "El bus a Cala Salada puede no circular con lluvias fuertes.",
+              "El camino al acuario puede estar embarrado a pie.",
+              "Atento al último autobús por la noche, el servicio es limitado."
             ]
           }
         },
@@ -2481,7 +2714,8 @@
             "hu": "Téli menetrend szerint fedezzük fel a környéket.\n\nReggel a Tojástól indulunk a tiszta téli levegőben.\n\nDélután az akváriumhoz látogatunk a csendes helyi buszokkal.\n\nEste a korai naplemente miatt időben visszabuszozunk a központba.",
             "de": "Nach dem Winterfahrplan erkunden wir die Umgebung.\n\nMorgens starten wir am Ei in der klaren Winterluft.\n\nNachmittags besuchen wir das Aquarium mit den ruhigen lokalen Bussen.\n\nAbends fahren wir wegen des frühen Sonnenuntergangs rechtzeitig zurück.",
             "ro": "Explorăm împrejurimile conform programului de iarnă.\n\nDimineața pornim de la Ou în aerul curat de iarnă.\n\nDupă-amiaza vizităm acvariul cu autobuzele locale liniștite.\n\nSeara revenim în centru înainte de lăsarea frigului de după apus.",
-            "en": "Explore the surroundings following the winter timetable.\n\nIn the morning start from the Egg in the crisp winter air.\n\nIn the afternoon visit the aquarium with quiet local buses.\n\nIn the evening head back to the center before the post-sunset chill."
+            "en": "Explore the surroundings following the winter timetable.\n\nIn the morning start from the Egg in the crisp winter air.\n\nIn the afternoon visit the aquarium with quiet local buses.\n\nIn the evening head back to the center before the post-sunset chill.",
+            "es": "Explora los alrededores siguiendo el horario de invierno.\n\nPor la mañana empieza en el Huevo con el aire frío invernal.\n\nPor la tarde visita el acuario con autobuses locales tranquilos.\n\nPor la noche vuelve al centro antes del frío tras el atardecer."
           },
           "stops": [
             {
@@ -2490,7 +2724,8 @@
                 "hu": "Téli menetrend érvényes.",
                 "de": "Winterfahrplan gilt.",
                 "ro": "Program de iarnă.",
-                "en": "Winter timetable applies."
+                "en": "Winter timetable applies.",
+                "es": "Aplica el horario de invierno."
               }
             },
             {
@@ -2499,7 +2734,8 @@
                 "hu": "Kevesebb ember a váróban.",
                 "de": "Weniger Leute im Wartebereich.",
                 "ro": "Mai puțini oameni în stație.",
-                "en": "Fewer people at the stop."
+                "en": "Fewer people at the stop.",
+                "es": "Menos gente en la parada."
               }
             },
             {
@@ -2508,7 +2744,8 @@
                 "hu": "Csendes út a helyiekkel.",
                 "de": "Ruhige Fahrt mit Einheimischen.",
                 "ro": "Călătorie cu localnicii.",
-                "en": "Quiet ride with locals."
+                "en": "Quiet ride with locals.",
+                "es": "Viaje tranquilo con los locales."
               }
             },
             {
@@ -2517,7 +2754,8 @@
                 "hu": "Csekkold, jár-e a busz.",
                 "de": "Busverkehr prüfen.",
                 "ro": "Verificați dacă circulă bus-ul.",
-                "en": "Check if bus is running."
+                "en": "Check if bus is running.",
+                "es": "Comprueba si el autobús circula."
               }
             },
             {
@@ -2526,7 +2764,8 @@
                 "hu": "Ne késd le az esti buszt.",
                 "de": "Abendbus nicht verpassen.",
                 "ro": "Nu ratați bus-ul de seară.",
-                "en": "Don't miss the evening bus."
+                "en": "Don't miss the evening bus.",
+                "es": "No pierdas el autobús de la tarde."
               }
             }
           ],
@@ -2558,6 +2797,13 @@
               "There is a heated waiting room at the main bus station.",
               "Enjoy the quiet travel with the locals.",
               "Ticket prices might be lower during the winter season."
+            ],
+            "es": [
+              "Los autobuses circulan con menos frecuencia en invierno, planifica con antelación.",
+              "La mayoría de rutas turísticas están suspendidas en invierno.",
+              "Hay sala de espera climatizada en la estación principal de autobuses.",
+              "Disfruta del viaje tranquilo con los locales.",
+              "Los precios de los billetes pueden ser más bajos durante el invierno."
             ]
           }
         }
@@ -2571,19 +2817,22 @@
       "de": "Sant Antoni ist sehr britisch geprägt, Englisch ist Lingua Franca, Spanisch und Katalanisch zweitrangig. Deutsch in einigen Hotels, sonst nicht. 'San An' ist die gängige Abkürzung.",
       "hu": "Sant Antoni nagyon brit beállítottságú, az angol az alap, a spanyol és katalán másodlagos. Német néhány szállodában, máshol nem. Helyiek 'San An'-nak rövidítik.",
       "ro": "Sant Antoni e foarte britanic, engleza e limba comună, spaniola și catalana sunt secundare. Germana doar în câteva hoteluri. Localnicii zic 'San An'.",
-      "en": "Sant Antoni is very British-flavoured, English is the default language; Spanish and Catalan come second. Locals shorten it to 'San An'."
+      "en": "Sant Antoni is very British-flavoured, English is the default language; Spanish and Catalan come second. Locals shorten it to 'San An'.",
+      "es": "Sant Antoni tiene un fuerte sabor británico; el inglés es la lengua por defecto; el español y el catalán vienen después. Los locales lo acortan a «San An»."
     },
     "best_time_to_visit": {
       "de": "Mai und September für den berühmten Sonnenuntergang am Café del Mar ohne Gedränge. Juni-August Party-Hochsaison, sehr laut. Winter wirkt fast wie Geisterstadt.",
       "hu": "Május és szeptember a legjobb a híres Café del Mar naplementéhez tömeg nélkül. Június-augusztus party-csúcs, nagyon hangos. Télen szinte szellemváros.",
       "ro": "Mai și septembrie pentru celebrul apus la Café del Mar fără îmbulzeală. Iunie-august e vârful party, foarte zgomotos. Iarna pare oraș-fantomă.",
-      "en": "May and September for the famous Café del Mar sunset without crowds. June-August is peak party season, very loud. Winter feels nearly deserted."
+      "en": "May and September for the famous Café del Mar sunset without crowds. June-August is peak party season, very loud. Winter feels nearly deserted.",
+      "es": "Mayo y septiembre para el famoso atardecer de Café del Mar sin multitudes. Junio-agosto es temporada alta de fiesta, muy ruidosa. El invierno se siente casi desierto."
     },
     "neighborhood_warnings": {
       "de": "West End-Partyzone nachts: viele Betrunkene, Schlägereien möglich, Taschendiebe aktiv. Familien meiden den West End nach 22 Uhr. Strand und Promenade tagsüber problemlos.",
       "hu": "A West End party-zónában éjjel sok részeg, néha verekedés, zsebtolvajok aktívak. Családok kerüljék a West Endet este 10 után. Strand és sétány nappal teljesen rendben.",
       "ro": "În zona West End noaptea: mulți bețivi, posibile bătăi, hoți activi. Familiile să evite West End după 22:00. Plaja și promenada sunt ok ziua.",
-      "en": "West End party zone at night: many drunks, occasional fights, active pickpockets. Families should skip West End after 10pm. Beach and promenade are fine by day."
+      "en": "West End party zone at night: many drunks, occasional fights, active pickpockets. Families should skip West End after 10pm. Beach and promenade are fine by day.",
+      "es": "Zona de fiesta West End por la noche: muchos borrachos, peleas ocasionales, carteristas activos. Las familias deben evitar West End después de las 22:00. Playa y paseo están bien de día."
     }
   }
 }

@@ -21,7 +21,8 @@
             "de": "Plaza Mayor",
             "hu": "Plaza Mayor (Fő tér)",
             "ro": "Plaza Mayor",
-            "en": "Plaza Mayor"
+            "en": "Plaza Mayor",
+            "es": "Plaza Mayor"
           },
           "coords": [
             -3.9278,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie Ihren Tag mit einem Kaffee in einem der Cafés mit Blick auf das Rathaus.",
             "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában, kilátással a városházára.",
             "ro": "Începeți ziua cu o cafea la una dintre cafenelele cu vedere la primărie.",
-            "en": "Start your day with a coffee at one of the cafes overlooking the town hall."
+            "en": "Start your day with a coffee at one of the cafes overlooking the town hall.",
+            "es": "Empieza el día con un café en una de las cafeterías con vistas al ayuntamiento."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Kathedrale Nuestra Señora del Prado",
             "hu": "Nuestra Señora del Prado-székesegyház",
             "ro": "Catedrala Nuestra Señora del Prado",
-            "en": "Cathedral of Nuestra Señora del Prado"
+            "en": "Cathedral of Nuestra Señora del Prado",
+            "es": "Catedral de Nuestra Señora del Prado"
           },
           "coords": [
             -3.9295,
@@ -61,7 +64,8 @@
             "de": "Bewundern Sie das beeindruckende Barock-Retabel, eines der größten in Spanien.",
             "hu": "Csodálja meg a lenyűgöző barokk oltárképet, Spanyolország egyik legnagyobbját.",
             "ro": "Admirați impresionantul retablu baroc, unul dintre cele mai mari din Spania.",
-            "en": "Admire the impressive Baroque altarpiece, one of the largest in Spain."
+            "en": "Admire the impressive Baroque altarpiece, one of the largest in Spain.",
+            "es": "Admira el imponente retablo barroco, uno de los mayores de España."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Kirche San Pedro",
             "hu": "Szent Péter-templom",
             "ro": "Biserica San Pedro",
-            "en": "Church of San Pedro"
+            "en": "Church of San Pedro",
+            "es": "Iglesia de San Pedro"
           },
           "coords": [
             -3.9262,
@@ -85,7 +90,8 @@
             "de": "Suchen Sie nach dem Grab von 'El Chantre de Calatrava', einem Meisterwerk der gotischen Bildhauerei.",
             "hu": "Keresse meg 'El Chantre de Calatrava' sírját, a gótikus szobrászat mesterművét.",
             "ro": "Căutați mormântul lui 'El Chantre de Calatrava', o capodoperă a sculpturii gotice.",
-            "en": "Look for the tomb of 'El Chantre de Calatrava', a masterpiece of Gothic sculpture."
+            "en": "Look for the tomb of 'El Chantre de Calatrava', a masterpiece of Gothic sculpture.",
+            "es": "Busca la tumba de 'El Chantre de Calatrava', una obra maestra de la escultura gótica."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Puerta de Toledo",
             "hu": "Toledói kapu",
             "ro": "Poarta din Toledo",
-            "en": "Puerta de Toledo"
+            "en": "Puerta de Toledo",
+            "es": "Puerta de Toledo"
           },
           "coords": [
             -3.9221,
@@ -109,7 +116,8 @@
             "de": "Dies ist das einzige verbliebene von acht Toren der mittelalterlichen Stadtmauer.",
             "hu": "Ez az egyetlen megmaradt kapu a középkori városfal nyolc kapuja közül.",
             "ro": "Aceasta este singura poartă rămasă din cele opt ale zidului medieval al orașului.",
-            "en": "This is the only remaining of eight gates from the medieval city wall."
+            "en": "This is the only remaining of eight gates from the medieval city wall.",
+            "es": "Es la única que queda de las ocho puertas de la muralla medieval."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Quijote-Museum",
             "hu": "Don Quijote Múzeum",
             "ro": "Muzeul Don Quijote",
-            "en": "Don Quixote Museum"
+            "en": "Don Quixote Museum",
+            "es": "Museo del Quijote"
           },
           "coords": [
             -3.9351,
@@ -133,7 +142,8 @@
             "de": "Interaktive Exponate machen die Geschichte von Don Quijote auch für Kinder spannend.",
             "hu": "Az interaktív kiállítások Don Quijote történetét a gyerekek számára is élvezetessé teszik.",
             "ro": "Exponatele interactive fac ca povestea lui Don Quijote să fie captivantă chiar și pentru copii.",
-            "en": "Interactive exhibits make the story of Don Quixote engaging even for children."
+            "en": "Interactive exhibits make the story of Don Quixote engaging even for children.",
+            "es": "Las exhibiciones interactivas hacen que la historia del Quijote sea atractiva incluso para los niños."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Museum von Ciudad Real",
             "hu": "Ciudad Real Múzeum",
             "ro": "Muzeul din Ciudad Real",
-            "en": "Ciudad Real Museum"
+            "en": "Ciudad Real Museum",
+            "es": "Museo de Ciudad Real"
           },
           "coords": [
             -3.9329,
@@ -157,7 +168,8 @@
             "de": "Konzentrieren Sie sich auf die archäologische Abteilung mit Funden aus der Bronzezeit.",
             "hu": "Fókuszáljon a régészeti részlegre, ahol bronzkori leleteket is láthat.",
             "ro": "Concentrați-vă pe secțiunea arheologică, cu artefacte din Epoca Bronzului.",
-            "en": "Focus on the archaeology section, featuring findings from the Bronze Age."
+            "en": "Focus on the archaeology section, featuring findings from the Bronze Age.",
+            "es": "Fíjate en la sección de arqueología, con hallazgos de la Edad del Bronce."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Gasset-Park",
             "hu": "Gasset park",
             "ro": "Parcul Gasset",
-            "en": "Gasset Park"
+            "en": "Gasset Park",
+            "es": "Parque Gasset"
           },
           "coords": [
             -3.9372,
@@ -181,7 +194,8 @@
             "de": "Entspannen Sie am Brunnen 'La Talaverana', der mit berühmter Keramik verziert ist.",
             "hu": "Pihenjen a 'La Talaverana' szökőkútnál, melyet híres kerámiák díszítenek.",
             "ro": "Relaxați-vă lângă fântâna 'La Talaverana', decorată cu ceramică faimoasă.",
-            "en": "Relax by the 'La Talaverana' fountain, decorated with famous ceramics."
+            "en": "Relax by the 'La Talaverana' fountain, decorated with famous ceramics.",
+            "es": "Relájate junto a la fuente 'La Talaverana', decorada con cerámica famosa."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen der Stadt, der Plaza Mayor. Am Vormittag erkunden Sie die prächtigen Kirchen, darunter die Kathedrale und San Pedro, die von der reichen Geschichte der Stadt zeugen. Nach dem Mittagessen tauchen Sie in die Welt von Don Quijote im ihm gewidmeten Museum ein, ein Muss in dieser Region. Schließen Sie Ihren Tag mit einem entspannenden Spaziergang durch den grünen Gasset-Park ab, ein perfekter Ort, um die Eindrücke des Tages Revue passieren zu lassen.",
         "hu": "Kezdje a napot a város szívében, a Plaza Mayoron. A délelőtt folyamán fedezze fel a csodálatos templomokat, köztük a katedrálist és a San Pedro-templomot, amelyek a város gazdag történelméről tanúskodnak. Ebéd után merüljön el Don Quijote világában a neki szentelt múzeumban, ami kötelező látnivaló ebben a régióban. Zárja a napot egy pihentető sétával a zöldellő Gasset parkban, amely tökéletes hely a napi benyomások feldolgozására.",
         "ro": "Începeți ziua în inima orașului, Plaza Mayor. În timpul dimineții, explorați bisericile magnifice, inclusiv Catedrala și San Pedro, care mărturisesc istoria bogată a orașului. După prânz, scufundați-vă în lumea lui Don Quijote la muzeul dedicat lui, o vizită obligatorie în această regiune. Încheiați ziua cu o plimbare relaxantă prin Parcul Gasset, un loc perfect pentru a reflecta asupra impresiilor zilei.",
-        "en": "Start your day in the heart of the city, Plaza Mayor. In the morning, explore the magnificent churches, including the Cathedral and San Pedro, which testify to the city's rich history. After lunch, immerse yourself in the world of Don Quixote at the museum dedicated to him, a must-see in this region. Conclude your day with a relaxing stroll through the green Gasset Park, a perfect place to reflect on the day's impressions."
+        "en": "Start your day in the heart of the city, Plaza Mayor. In the morning, explore the magnificent churches, including the Cathedral and San Pedro, which testify to the city's rich history. After lunch, immerse yourself in the world of Don Quixote at the museum dedicated to him, a must-see in this region. Conclude your day with a relaxing stroll through the green Gasset Park, a perfect place to reflect on the day's impressions.",
+        "es": "Comienza el día en el corazón de la ciudad, Plaza Mayor. Por la mañana explora las magníficas iglesias, incluida la Catedral y San Pedro, que muestran la rica historia de la ciudad. Tras el almuerzo, sumérgete en el mundo del Quijote en el museo dedicado a él, imprescindible en la región. Termina el día con un paseo relajante por el verde Parque Gasset, perfecto para reflexionar sobre las impresiones del día."
       },
       "gastro_picks": {
         "de": [
@@ -417,6 +432,12 @@
           "Many smaller shops and museums close for siesta (approx. 2 PM - 5 PM). Plan accordingly.",
           "Summers can be very hot. Carry water and seek shade during midday.",
           "Try the local tapas bars around Plaza Mayor for an authentic culinary experience."
+        ],
+        "es": [
+          "Lleva calzado cómodo, ya que el centro histórico se explora mejor a pie.",
+          "Muchas tiendas y museos pequeños cierran por la siesta (aprox. 14:00 - 17:00). Planifica en consecuencia.",
+          "Los veranos pueden ser muy calurosos. Lleva agua y busca sombra a mediodía.",
+          "Prueba los bares de tapas alrededor de la Plaza Mayor para una experiencia culinaria auténtica."
         ]
       },
       "variants": {
@@ -425,7 +446,8 @@
             "de": "Morgens bieten die Arkaden der Plaza Mayor Schutz vor dem Regen. Mittags erkunden wir die gotische Kathedrale und San Pedro, deren dicke Mauern Stille und Trockenheit garantieren. Nachmittags widmen wir uns den Museen: Don Quijote und das Stadtmuseum sind ideale Rückzugsorte. Abends endet die Tour im Gasset-Park, wo der Duft des Regens auf den Blumen besonders intensiv ist.",
             "hu": "Reggel a Plaza Mayor árkádjai alatt kezdünk, amelyek tökéletes menedéket nyújtanak az eső elől. Délben a katedrális és a San Pedro-templom belső tereit járjuk be, ahol a vastag falak között szárazon maradhatunk. Délután a Don Quijote és a Ciudad Real múzeumok tárlatait nézzük meg. Este a Gasset park friss, eső utáni illata zárja a napot, mielőtt visszatérnénk a központba.",
             "ro": "Dimineața, arcadele din Plaza Mayor oferă adăpost excelent împotriva ploii. La prânz, explorăm Catedrala și Biserica San Pedro, unde interiorul vast ne ferește de umezeală. După-amiaza este dedicată muzeelor: Don Quijote și Muzeul Ciudad Real sunt refugii culturale ideale. Seara se încheie în Parcul Gasset, unde mirosul pământului reavăn după ploaie este deosebit de plăcut.",
-            "en": "In the morning, the arcades of Plaza Mayor provide perfect shelter from the rain. At noon, we explore the Cathedral and San Pedro Church, staying dry within their historic walls. The afternoon is spent indoors at the Don Quixote and Ciudad Real museums. The evening concludes at Gasset Park, where the scent of rain on the gardens creates a refreshing atmosphere."
+            "en": "In the morning, the arcades of Plaza Mayor provide perfect shelter from the rain. At noon, we explore the Cathedral and San Pedro Church, staying dry within their historic walls. The afternoon is spent indoors at the Don Quixote and Ciudad Real museums. The evening concludes at Gasset Park, where the scent of rain on the gardens creates a refreshing atmosphere.",
+            "es": "Por la mañana, los soportales de la Plaza Mayor ofrecen refugio perfecto de la lluvia. Al mediodía visitamos la Catedral y la Iglesia de San Pedro, manteniéndonos secos dentro de sus muros históricos. La tarde se pasa en interiores, en los museos del Quijote y de Ciudad Real. La noche concluye en el Parque Gasset, donde el olor a lluvia en los jardines crea una atmósfera refrescante."
           },
           "stops": [
             {
@@ -434,7 +456,8 @@
                 "de": "Bleiben Sie unter den Arkaden, um trocken zu bleiben.",
                 "hu": "Maradjon az árkádok alatt, ott nem éri az eső.",
                 "ro": "Rămâneți sub arcade pentru a evita ploaia.",
-                "en": "Stay under the arcades to keep dry while exploring."
+                "en": "Stay under the arcades to keep dry while exploring.",
+                "es": "Quédate bajo los soportales para mantenerte seco mientras exploras."
               }
             },
             {
@@ -443,7 +466,8 @@
                 "de": "Ein idealer Ort für eine längere, trockene Besichtigung.",
                 "hu": "Ideális helyszín egy hosszabb, száraz látogatáshoz.",
                 "ro": "Un loc ideal pentru o vizită lungă și uscată.",
-                "en": "A perfect spot for a long, dry indoor visit."
+                "en": "A perfect spot for a long, dry indoor visit.",
+                "es": "Un lugar perfecto para una larga visita en interior y a cubierto."
               }
             },
             {
@@ -452,7 +476,8 @@
                 "de": "Bewundern Sie die gotischen Details im Inneren.",
                 "hu": "Csodálja meg a belső gótikus részleteket szárazon.",
                 "ro": "Admirați detaliile gotice din interior, la adăpost.",
-                "en": "Admire the Gothic details inside while sheltered."
+                "en": "Admire the Gothic details inside while sheltered.",
+                "es": "Admira los detalles góticos del interior mientras estás resguardado."
               }
             },
             {
@@ -461,7 +486,8 @@
                 "de": "Schnelles Foto machen, bevor Sie zum Museum eilen.",
                 "hu": "Készítsen egy gyors fotót, mielőtt a múzeumba indulna.",
                 "ro": "Faceți o fotografie rapidă înainte de a merge la muzeu.",
-                "en": "Take a quick photo before heading to the museum."
+                "en": "Take a quick photo before heading to the museum.",
+                "es": "Haz una foto rápida antes de dirigirte al museo."
               }
             },
             {
@@ -470,7 +496,8 @@
                 "de": "Die beste Wahl bei starkem Regen; nehmen Sie sich Zeit.",
                 "hu": "A legjobb választás szakadó esőben; ne siessen.",
                 "ro": "Cea mai bună alegere în caz de ploaie; nu vă grăbiți.",
-                "en": "The best choice during heavy rain; take your time."
+                "en": "The best choice during heavy rain; take your time.",
+                "es": "La mejor opción durante lluvia intensa; tómate tu tiempo."
               }
             },
             {
@@ -479,7 +506,8 @@
                 "de": "Große Ausstellungsräume bieten viel Schutz.",
                 "hu": "A tágas kiállítótermek remek menedéket nyújtanak.",
                 "ro": "Sălile spațioase oferă mult adăpost contra ploii.",
-                "en": "Spacious exhibition halls offer plenty of shelter."
+                "en": "Spacious exhibition halls offer plenty of shelter.",
+                "es": "Las salas de exposición espaciosas ofrecen mucho refugio."
               }
             },
             {
@@ -488,7 +516,8 @@
                 "de": "Achten Sie auf rutschige Wege unter den Bäumen.",
                 "hu": "Vigyázzon a csúszós utakra a fák alatt.",
                 "ro": "Atenție la aleile alunecoase de sub copaci.",
-                "en": "Watch out for slippery paths under the trees."
+                "en": "Watch out for slippery paths under the trees.",
+                "es": "Ten cuidado con los caminos resbaladizos bajo los árboles."
               }
             }
           ],
@@ -520,6 +549,13 @@
               "A wind-resistant umbrella is essential on the Castilian plateau.",
               "The cathedral offers a quiet and free cultural sanctuary.",
               "Stick to paved paths in Gasset Park to avoid muddy patches."
+            ],
+            "es": [
+              "Los soportales de la plaza principal son el mejor refugio para peatones.",
+              "Programa tus visitas a museos cuando la lluvia sea más persistente.",
+              "Un paraguas resistente al viento es esencial en la meseta castellana.",
+              "La catedral ofrece un santuario cultural tranquilo y gratuito.",
+              "Sigue los caminos pavimentados en el Parque Gasset para evitar zonas embarradas."
             ]
           }
         },
@@ -528,7 +564,8 @@
             "de": "Der Wintermorgen in Ciudad Real ist frisch und klar. Wir beginnen an der Plaza Mayor, wo der Kaffee in den beheizten Cafés besonders gut schmeckt. Mittags wärmen wir uns in den prächtigen Kirchen der Stadt auf. Nachmittags bieten die Museen eine angenehme Temperatur, während wir die Geschichte von Cervantes erkunden. Da die Sonne früh untergeht, genießen wir das goldene Licht am Puerta de Toledo bereits um 17 Uhr.",
             "hu": "A téli reggel Ciudad Realban friss és tiszta. A Plaza Mayoron kezdünk, ahol a fűtött kávézókban jól esik a forró ital. Délben a város díszes templomaiban melegedhetünk fel a vastag falak között. Délután a múzeumok kellemes hőmérsékletet biztosítanak, miközben Cervantes világát fedezzük fel. Mivel korán sötétedik, a Puerta de Toledo arany fényeit már délután 5-kor élvezhetjük.",
             "ro": "Dimineața de iarnă în Ciudad Real este proaspătă și senină. Începem în Plaza Mayor, unde cafenelele încălzite sunt foarte primitoare. La prânz, ne încălzim în bisericile splendide ale orașului. După-amiaza, muzeele oferă o temperatură plăcută în timp ce explorăm istoria lui Cervantes. Deoarece soarele apune devreme, admirăm lumina aurie de la Puerta de Toledo deja la ora 17:00.",
-            "en": "A winter morning in Ciudad Real is crisp and clear. We start at Plaza Mayor, where heated cafes offer a warm welcome. At noon, we find warmth within the city's grand churches. The afternoon is perfect for exploring the indoor comfort of the museums and Cervantes' legacy. Since the sun sets early, we enjoy the golden light at Puerta de Toledo by 5 PM."
+            "en": "A winter morning in Ciudad Real is crisp and clear. We start at Plaza Mayor, where heated cafes offer a warm welcome. At noon, we find warmth within the city's grand churches. The afternoon is perfect for exploring the indoor comfort of the museums and Cervantes' legacy. Since the sun sets early, we enjoy the golden light at Puerta de Toledo by 5 PM.",
+            "es": "Una mañana de invierno en Ciudad Real es fresca y clara. Empezamos en Plaza Mayor, donde las cafeterías con calefacción ofrecen una cálida bienvenida. Al mediodía encontramos calor dentro de las grandes iglesias de la ciudad. La tarde es perfecta para explorar el confort interior de los museos y el legado de Cervantes. Como el sol se pone pronto, disfrutamos de la luz dorada en la Puerta de Toledo sobre las 17:00."
           },
           "stops": [
             {
@@ -537,7 +574,8 @@
                 "de": "Genießen Sie eine 'Chocolate con Churros' zum Aufwärmen.",
                 "hu": "Egy forró csoki és churros segít a bemelegítésben.",
                 "ro": "Savurați o ciocolată caldă cu churros pentru a vă încălzi.",
-                "en": "Enjoy a hot chocolate with churros to warm up."
+                "en": "Enjoy a hot chocolate with churros to warm up.",
+                "es": "Disfruta de un chocolate caliente con churros para entrar en calor."
               }
             },
             {
@@ -546,7 +584,8 @@
                 "de": "Im Winter ist es hier oft wärmer als draußen.",
                 "hu": "Télen itt gyakran melegebb van, mint a nyitott utcákon.",
                 "ro": "Iarna, interiorul este adesea mai cald decât afară.",
-                "en": "In winter, it's often warmer inside than on the streets."
+                "en": "In winter, it's often warmer inside than on the streets.",
+                "es": "En invierno, a menudo hace más calor en los interiores que en la calle."
               }
             },
             {
@@ -555,7 +594,8 @@
                 "de": "Nutzen Sie den Schutz der Mauern vor dem kalten Wind.",
                 "hu": "Használja ki a falak védelmét a hideg szél ellen.",
                 "ro": "Folosiți protecția zidurilor împotriva vântului rece.",
-                "en": "Take advantage of the walls' protection from the cold wind."
+                "en": "Take advantage of the walls' protection from the cold wind.",
+                "es": "Aprovecha la protección de los muros contra el viento frío."
               }
             },
             {
@@ -564,7 +604,8 @@
                 "de": "Das Licht der tiefstehenden Sonne ist ideal für Fotos.",
                 "hu": "Az alacsonyan járó nap fénye tökéletes a fotózáshoz.",
                 "ro": "Lumina soarelui la apus este ideală pentru fotografii.",
-                "en": "The low winter sun provides excellent light for photos."
+                "en": "The low winter sun provides excellent light for photos.",
+                "es": "El bajo sol invernal ofrece excelente luz para fotos."
               }
             },
             {
@@ -573,7 +614,8 @@
                 "de": "Ein gut beheizter Ort für den frühen Nachmittag.",
                 "hu": "Jól fűtött helyszín a kora délutáni órákra.",
                 "ro": "Un loc bine încălzit pentru orele după-amiezii.",
-                "en": "A well-heated venue for the early afternoon hours."
+                "en": "A well-heated venue for the early afternoon hours.",
+                "es": "Un lugar bien calefactado para las primeras horas de la tarde."
               }
             },
             {
@@ -582,7 +624,8 @@
                 "de": "Die Ausstellungen lassen Sie die Kälte draußen vergessen.",
                 "hu": "A kiállítások elfeledtetik a kinti hideget.",
                 "ro": "Expozițiile vă vor face să uitați de frigul de afară.",
-                "en": "The exhibits will make you forget the cold outside."
+                "en": "The exhibits will make you forget the cold outside.",
+                "es": "Las exposiciones te harán olvidar el frío exterior."
               }
             },
             {
@@ -591,7 +634,8 @@
                 "de": "Machen Sie einen zügigen Spaziergang, bevor es dunkel wird.",
                 "hu": "Tegyen egy tempós sétát, mielőtt teljesen besötétedik.",
                 "ro": "Faceți o plimbare rapidă înainte de lăsarea întunericului.",
-                "en": "Take a brisk walk before it gets completely dark."
+                "en": "Take a brisk walk before it gets completely dark.",
+                "es": "Da un paseo enérgico antes de que se haga completamente de noche."
               }
             }
           ],
@@ -623,6 +667,13 @@
               "Look for wind-sheltered corners in Plaza Mayor during midday.",
               "Museums are typically closed on Mondays; check schedules.",
               "Wear layers as the direct sun can feel warm despite the air temp."
+            ],
+            "es": [
+              "Las temperaturas bajan significativamente después del anochecer (alrededor de las 18:00).",
+              "Un viento norte cortante es común en Ciudad Real durante el invierno.",
+              "Busca rincones resguardados del viento en Plaza Mayor al mediodía.",
+              "Los museos suelen estar cerrados los lunes; consulta los horarios.",
+              "Vístete en capas, ya que el sol directo puede resultar cálido pese a la temperatura del aire."
             ]
           }
         }
@@ -641,7 +692,8 @@
             "de": "Gasset-Park",
             "hu": "Gasset park",
             "ro": "Parcul Gasset",
-            "en": "Gasset Park"
+            "en": "Gasset Park",
+            "es": "Parque Gasset"
           },
           "coords": [
             -3.9372,
@@ -657,7 +709,8 @@
             "de": "Machen Sie eine kurze Runde mit dem Rad, bevor Sie sich auf den Weg ins Zentrum machen.",
             "hu": "Tegyen egy rövid kört biciklivel, mielőtt a központ felé veszi az irányt.",
             "ro": "Faceți o scurtă tură cu bicicleta înainte de a vă îndrepta spre centru.",
-            "en": "Do a quick lap on your bike before heading into the center."
+            "en": "Do a quick lap on your bike before heading into the center.",
+            "es": "Da una vuelta rápida en bici antes de dirigirte al centro."
           }
         },
         {
@@ -665,7 +718,8 @@
             "de": "Quijote-Museum",
             "hu": "Don Quijote Múzeum",
             "ro": "Muzeul Don Quijote",
-            "en": "Don Quixote Museum"
+            "en": "Don Quixote Museum",
+            "es": "Museo del Quijote"
           },
           "coords": [
             -3.9351,
@@ -681,7 +735,8 @@
             "de": "Parken Sie Ihr Fahrrad sicher, bevor Sie in die Welt des berühmten Ritters eintauchen.",
             "hu": "Zárja le biztonságosan a kerékpárját, mielőtt elmerül a híres lovag világában.",
             "ro": "Parcați-vă bicicleta în siguranță înainte de a intra în lumea faimosului cavaler.",
-            "en": "Park your bike securely before diving into the world of the famous knight."
+            "en": "Park your bike securely before diving into the world of the famous knight.",
+            "es": "Asegura bien tu bici antes de sumergirte en el mundo del famoso hidalgo."
           }
         },
         {
@@ -689,7 +744,8 @@
             "de": "Plaza Mayor",
             "hu": "Plaza Mayor (Fő tér)",
             "ro": "Plaza Mayor",
-            "en": "Plaza Mayor"
+            "en": "Plaza Mayor",
+            "es": "Plaza Mayor"
           },
           "coords": [
             -3.9278,
@@ -705,7 +761,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie das geschäftige Treiben im Herzen der Stadt.",
             "hu": "Tegye le a biciklit, és élvezze a nyüzsgést a város szívében.",
             "ro": "Lăsați bicicleta și bucurați-vă de agitația din inima orașului.",
-            "en": "Park your bike and enjoy the hustle and bustle in the heart of the city."
+            "en": "Park your bike and enjoy the hustle and bustle in the heart of the city.",
+            "es": "Aparca tu bici y disfruta del bullicio en el corazón de la ciudad."
           }
         },
         {
@@ -713,7 +770,8 @@
             "de": "Kathedrale Nuestra Señora del Prado",
             "hu": "Nuestra Señora del Prado-székesegyház",
             "ro": "Catedrala Nuestra Señora del Prado",
-            "en": "Cathedral of Nuestra Señora del Prado"
+            "en": "Cathedral of Nuestra Señora del Prado",
+            "es": "Catedral de Nuestra Señora del Prado"
           },
           "coords": [
             -3.9295,
@@ -729,7 +787,8 @@
             "de": "Eine kurze Gehdistanz von der Plaza Mayor. Schließen Sie Ihr Rad gut ab.",
             "hu": "Rövid sétatávolságra a Plaza Mayortól. Jól zárja le a kerékpárját.",
             "ro": "La o scurtă plimbare de Plaza Mayor. Asigurați-vă bine bicicleta.",
-            "en": "A short walk from Plaza Mayor. Lock your bike well."
+            "en": "A short walk from Plaza Mayor. Lock your bike well.",
+            "es": "A poca distancia de la Plaza Mayor. Asegura bien tu bici."
           }
         },
         {
@@ -737,7 +796,8 @@
             "de": "Kirche San Pedro",
             "hu": "Szent Péter-templom",
             "ro": "Biserica San Pedro",
-            "en": "Church of San Pedro"
+            "en": "Church of San Pedro",
+            "es": "Iglesia de San Pedro"
           },
           "coords": [
             -3.9262,
@@ -753,7 +813,8 @@
             "de": "Ein weiteres Highlight, das nur wenige Schritte von der Kathedrale entfernt ist.",
             "hu": "Egy másik fénypont, csak pár lépésre a katedrálistól.",
             "ro": "Un alt punct de atracție la doar câțiva pași de catedrală.",
-            "en": "Another highlight just a few steps from the cathedral."
+            "en": "Another highlight just a few steps from the cathedral.",
+            "es": "Otro punto destacado a pocos pasos de la catedral."
           }
         },
         {
@@ -761,7 +822,8 @@
             "de": "Puerta de Toledo",
             "hu": "Toledói kapu",
             "ro": "Poarta din Toledo",
-            "en": "Puerta de Toledo"
+            "en": "Puerta de Toledo",
+            "es": "Puerta de Toledo"
           },
           "coords": [
             -3.9221,
@@ -777,7 +839,8 @@
             "de": "Fahren Sie nach Norden, um dieses historische Wahrzeichen zu sehen. Ideal für ein Foto.",
             "hu": "Tekerjen észak felé, hogy megnézze ezt a történelmi emlékművet. Ideális egy fotóhoz.",
             "ro": "Pedalați spre nord pentru a vedea acest punct de reper istoric. Ideal pentru o fotografie.",
-            "en": "Cycle north to see this historic landmark. Great for a photo stop."
+            "en": "Cycle north to see this historic landmark. Great for a photo stop.",
+            "es": "Cicla hacia el norte para ver este monumento histórico. Ideal para una foto."
           }
         },
         {
@@ -785,7 +848,8 @@
             "de": "Iglesia de Santiago",
             "hu": "Szent Jakab-templom",
             "ro": "Biserica Santiago",
-            "en": "Church of Santiago"
+            "en": "Church of Santiago",
+            "es": "Iglesia de Santiago"
           },
           "coords": [
             -3.9201,
@@ -801,7 +865,8 @@
             "de": "Entdecken Sie diese Kirche aus dem 13. Jahrhundert, die als eine der ältesten der Stadt gilt.",
             "hu": "Fedezze fel ezt a 13. századi templomot, a város egyik legrégebbi épületét.",
             "ro": "Descoperiți această biserică din secolul al XIII-lea, considerată una dintre cele mai vechi din oraș.",
-            "en": "Discover this 13th-century church, considered one of the oldest in the city."
+            "en": "Discover this 13th-century church, considered one of the oldest in the city.",
+            "es": "Descubre esta iglesia del siglo XIII, considerada una de las más antiguas de la ciudad."
           }
         },
         {
@@ -809,7 +874,8 @@
             "de": "Pilar-Viertel",
             "hu": "Pilar negyed",
             "ro": "Cartierul Pilar",
-            "en": "Pilar Neighborhood"
+            "en": "Pilar Neighborhood",
+            "es": "Barrio del Pilar"
           },
           "coords": [
             -3.92,
@@ -825,7 +891,8 @@
             "de": "Fahren Sie durch dieses Viertel für ein Gefühl des lokalen Lebens abseits der Touristenpfade.",
             "hu": "Tekerjen át ezen a negyeden, hogy bepillantást nyerjen a helyi életbe a turistaösvényeken kívül.",
             "ro": "Plimbați-vă cu bicicleta prin acest cartier pentru a simți viața locală, departe de traseele turistice.",
-            "en": "Ride through this neighborhood for a feel of local life away from the tourist tracks."
+            "en": "Ride through this neighborhood for a feel of local life away from the tourist tracks.",
+            "es": "Recorre este barrio para sentir la vida local lejos de las rutas turísticas."
           }
         }
       ],
@@ -833,7 +900,8 @@
         "de": "Starten Sie Ihren Tag mit einer Radtour durch den Gasset-Park, bevor Sie zum Quijote-Museum fahren. Der Vormittag ist der Kultur gewidmet. Mittags erreichen Sie die Plaza Mayor, das pulsierende Herz der Stadt, wo Sie die wichtigsten Kirchen zu Fuß erkunden. Am Nachmittag radeln Sie zum historischen Puerta de Toledo und entdecken die ältere Iglesia de Santiago. Beenden Sie Ihre Tour mit einer Fahrt durch ein authentisches Wohnviertel, um das echte Ciudad Real zu erleben.",
         "hu": "Kezdje a napot egy biciklitúrával a Gasset parkban, mielőtt a Don Quijote Múzeumhoz teker. A délelőtt a kultúráé. Délben éri el a Plaza Mayort, a város lüktető szívét, ahol gyalogosan fedezheti fel a legfontosabb templomokat. Délután tekerjen el a történelmi Puerta de Toledóhoz, és fedezze fel a régebbi Iglesia de Santiago templomot. Fejezze be a túrát egy kerékpározással egy autentikus lakónegyedben, hogy megtapasztalja az igazi Ciudad Realt.",
         "ro": "Începeți ziua cu o plimbare cu bicicleta prin Parcul Gasset înainte de a merge la Muzeul Don Quijote. Dimineața este dedicată culturii. La prânz, ajungeți în Plaza Mayor, inima vibrantă a orașului, unde explorați principalele biserici pe jos. După-amiaza, pedalați spre istorica Puerta de Toledo și descoperiți vechea Biserică Santiago. Încheiați turul cu o plimbare printr-un cartier rezidențial autentic pentru a experimenta adevăratul Ciudad Real.",
-        "en": "Start your day with a bike ride through Gasset Park before heading to the Don Quixote Museum. The morning is dedicated to culture. At noon, you'll reach Plaza Mayor, the vibrant heart of the city, where you explore the main churches on foot. In the afternoon, cycle to the historic Puerta de Toledo and discover the older Church of Santiago. End your tour with a ride through an authentic residential neighborhood to experience the real Ciudad Real."
+        "en": "Start your day with a bike ride through Gasset Park before heading to the Don Quixote Museum. The morning is dedicated to culture. At noon, you'll reach Plaza Mayor, the vibrant heart of the city, where you explore the main churches on foot. In the afternoon, cycle to the historic Puerta de Toledo and discover the older Church of Santiago. End your tour with a ride through an authentic residential neighborhood to experience the real Ciudad Real.",
+        "es": "Comienza el día con un paseo en bici por el Parque Gasset antes de dirigirte al Museo del Quijote. La mañana está dedicada a la cultura. Al mediodía llegarás a la Plaza Mayor, el vibrante corazón de la ciudad, donde explorarás a pie las iglesias principales. Por la tarde, pedalea hasta la histórica Puerta de Toledo y descubre la más antigua iglesia de Santiago. Termina el recorrido con un paseo por un auténtico barrio residencial para experimentar la Ciudad Real real."
       },
       "gastro_picks": {
         "de": [],
@@ -877,6 +945,12 @@
           "Make use of the many bike lanes, especially along the main avenues.",
           "Always lock your bike securely, especially in the city center.",
           "Some one-way streets for cars are open to bikes in both directions – pay attention to the signs."
+        ],
+        "es": [
+          "Ciudad Real es relativamente llana, lo que la hace ideal para el ciclismo.",
+          "Aprovecha los numerosos carriles bici, especialmente a lo largo de las principales avenidas.",
+          "Siempre asegura bien tu bicicleta con candado, sobre todo en el centro.",
+          "Algunas calles de sentido único para coches están abiertas a bicis en ambos sentidos; presta atención a las señales."
         ]
       },
       "variants": {
@@ -885,7 +959,8 @@
             "de": "Eine Radtour im Regen erfordert Vorsicht auf den Pflastersteinen im Zentrum. Wir starten im Gasset-Park, wo die Bäume ersten Schutz bieten. Danach geht es schnell zu den Museen, wo die Fahrräder sicher abgestellt werden können. Mittags erkunden wir die Kirchen, bevor wir den Tag an der Puerta de Toledo beenden. Regenkleidung ist heute Ihr bester Begleiter auf zwei Rädern.",
             "hu": "Az esős bringázás óvatosságot igényel a belvárosi kövön. A Gasset parkban kezdünk, ahol a fák némi védelmet nyújtanak. Ezután gyorsan a múzeumok felé vesszük az irányt, ahol biztonságban lezárhatjuk a gépeket. Délután a templomokat érintjük, majd a napot a Puerta de Toledónál zárjuk. A vízálló ruházat ma elengedhetetlen a két keréken.",
             "ro": "O tură cu bicicleta pe ploaie necesită prudență pe pavajul din centru. Începem în Parcul Gasset, unde copacii oferă o primă protecție. Apoi ne îndreptăm rapid spre muzee, unde bicicletele pot fi parcate în siguranță. La prânz explorăm bisericile, înainte de a încheia ziua la Puerta de Toledo. Echipamentul impermeabil este esențial astăzi.",
-            "en": "Cycling in the rain requires caution on the city center's pavement. We start in Gasset Park, where trees provide some cover. Then, we head quickly towards the museums, where bikes can be safely parked. After visiting the churches at noon, we end the day at Puerta de Toledo. Waterproof gear is your best friend on two wheels today."
+            "en": "Cycling in the rain requires caution on the city center's pavement. We start in Gasset Park, where trees provide some cover. Then, we head quickly towards the museums, where bikes can be safely parked. After visiting the churches at noon, we end the day at Puerta de Toledo. Waterproof gear is your best friend on two wheels today.",
+            "es": "Circular bajo la lluvia requiere precaución en los pavimentos del centro. Empezamos en el Parque Gasset, donde los árboles ofrecen algo de cobertura. Después nos dirigimos rápido hacia los museos, donde se pueden aparcar las bicis con seguridad. Tras visitar las iglesias al mediodía, terminamos el día en la Puerta de Toledo. La ropa impermeable será tu mejor aliada sobre dos ruedas hoy."
           },
           "stops": [
             {
@@ -894,7 +969,8 @@
                 "de": "Vermeiden Sie Pfützen auf den unbefestigten Wegen.",
                 "hu": "Kerülje el a tócsákat a nem aszfaltozott utakon.",
                 "ro": "Evitați bălțile de pe aleile neasfaltate.",
-                "en": "Avoid puddles on the unpaved park paths."
+                "en": "Avoid puddles on the unpaved park paths.",
+                "es": "Evita charcos en los senderos sin pavimentar del parque."
               }
             },
             {
@@ -903,7 +979,8 @@
                 "de": "Fahrradständer befinden sich meist in der Nähe des Eingangs.",
                 "hu": "Bringatárolók általában a bejárat közelében találhatók.",
                 "ro": "Suporturile de biciclete sunt de obicei lângă intrare.",
-                "en": "Bike racks are usually located near the entrance."
+                "en": "Bike racks are usually located near the entrance.",
+                "es": "Los aparcabicicletas suelen estar cerca de las entradas."
               }
             },
             {
@@ -912,7 +989,8 @@
                 "de": "Achtung: Die nassen Fliesen können sehr rutschig sein.",
                 "hu": "Vigyázat: a vizes burkolat nagyon csúszós lehet.",
                 "ro": "Atenție: dalele umede pot fi foarte alunecoase.",
-                "en": "Caution: the wet tiles can be very slippery."
+                "en": "Caution: the wet tiles can be very slippery.",
+                "es": "Precaución: las baldosas mojadas pueden ser muy resbaladizas."
               }
             },
             {
@@ -921,7 +999,8 @@
                 "de": "Parken Sie Ihr Rad und genießen Sie die Stille im Trockenen.",
                 "hu": "Zárja le a bringát, és élvezze a benti csendet.",
                 "ro": "Parcați bicicleta și bucurați-vă de liniștea din interior.",
-                "en": "Lock your bike and enjoy the indoor silence."
+                "en": "Lock your bike and enjoy the indoor silence.",
+                "es": "Cierra con candado tu bici y disfruta del silencio interior."
               }
             },
             {
@@ -930,7 +1009,8 @@
                 "de": "Kurzer Stopp, um die Kleidung kurz auszuschütteln.",
                 "hu": "Rövid megálló, ideális lerázni a vizet a ruháról.",
                 "ro": "Scurt popas, ideal pentru a scutura apa de pe haine.",
-                "en": "Brief stop, ideal to shake off the water from your gear."
+                "en": "Brief stop, ideal to shake off the water from your gear.",
+                "es": "Parada breve, ideal para sacudir el agua del equipo."
               }
             },
             {
@@ -939,7 +1019,8 @@
                 "de": "Bremsen Sie frühzeitig auf dem nassen Asphalt.",
                 "hu": "Fékezzen időben a vizes aszfalton a kapunál.",
                 "ro": "Frânați din timp pe asfaltul umed de lângă poartă.",
-                "en": "Brake early on the wet asphalt near the gate."
+                "en": "Brake early on the wet asphalt near the gate.",
+                "es": "Frena con antelación en el asfalto mojado cerca de la puerta."
               }
             },
             {
@@ -948,7 +1029,8 @@
                 "de": "Ein weiterer ruhiger Ort zum Aufwärmen und Trocknen.",
                 "hu": "Újabb nyugodt helyszín a melegedésre és száradásra.",
                 "ro": "Încă un loc liniștit pentru a vă încălzi și usca.",
-                "en": "Another quiet spot to warm up and dry off."
+                "en": "Another quiet spot to warm up and dry off.",
+                "es": "Otro rincón tranquilo para entrar en calor y secarse."
               }
             },
             {
@@ -957,7 +1039,8 @@
                 "de": "Fahren Sie vorsichtig durch die engen Gassen.",
                 "hu": "Hajtson óvatosan a szűk, vizes utcákon.",
                 "ro": "Conduceți cu atenție pe străzile înguste și umede.",
-                "en": "Cycle carefully through the narrow, wet streets."
+                "en": "Cycle carefully through the narrow, wet streets.",
+                "es": "Circula con cuidado por las calles estrechas y mojadas."
               }
             }
           ],
@@ -989,6 +1072,13 @@
               "Wear a high-visibility raincoat for safety in city traffic.",
               "Avoid road markings as they become extremely slippery when wet.",
               "A plastic saddle cover keeps your seat dry during stops."
+            ],
+            "es": [
+              "Usa guardabarros para evitar salpicaduras de la calzada mojada.",
+              "Los frenos de disco son mucho más fiables con lluvia.",
+              "Lleva un impermeable de alta visibilidad para seguridad en el tráfico urbano.",
+              "Evita las marcas viales porque se vuelven extremadamente resbaladizas cuando están mojadas.",
+              "Una funda de plástico para el sillín mantiene el asiento seco durante las paradas."
             ]
           }
         },
@@ -997,7 +1087,8 @@
             "de": "Die frische Winterluft macht das Radfahren in Ciudad Real belebend. Wir starten im Gasset-Park, wo die Wintersonne durch die kahlen Bäume blitzt. Auf dem Weg zum Don Quijote Museum halten wir uns durch Bewegung warm. Die historische Mitte lässt sich perfekt mit dem Rad erkunden, wobei wir mittags die Kirchen für kleine Aufwärmpausen nutzen. Vor Einbruch der Dunkelheit erreichen wir das Pilar-Viertel.",
             "hu": "A friss téli levegő élénkítővé teszi a bringázást Ciudad Realban. A Gasset parkban kezdünk, ahol a téli nap átsüt a kopár ágak között. A Don Quijote múzeum felé menet a mozgás tart melegen minket. A történelmi központ kiválóan bejárható kerékpárral, délben a templomokat használjuk rövid melegedőnek. Még sötétedés előtt elérjük a Pilar negyedet.",
             "ro": "Aerul proaspăt de iarnă face ciclismul în Ciudad Real foarte revigorant. Începem în Parcul Gasset, unde soarele de iarnă strălucește printre ramurile golașe. În drum spre Muzeul Don Quijote, mișcarea ne menține calzi. Centrul istoric este perfect de explorat pe bicicletă, folosind bisericile pentru scurte pauze de încălzire. Ajungem în cartierul Pilar înainte de lăsarea serii.",
-            "en": "The crisp winter air makes cycling in Ciudad Real invigorating. We start in Gasset Park, with winter sun peeking through bare branches. Movement keeps us warm as we head to the Don Quixote Museum. The historic center is easily accessible by bike, using churches for quick warm-up breaks. We reach the Pilar neighborhood just before the early winter dusk."
+            "en": "The crisp winter air makes cycling in Ciudad Real invigorating. We start in Gasset Park, with winter sun peeking through bare branches. Movement keeps us warm as we head to the Don Quixote Museum. The historic center is easily accessible by bike, using churches for quick warm-up breaks. We reach the Pilar neighborhood just before the early winter dusk.",
+            "es": "El aire invernal y nítido hace que pedalear por Ciudad Real sea vigorizante. Empezamos en el Parque Gasset, con el sol de invierno asomando entre las ramas desnudas. El movimiento nos mantiene calientes mientras nos dirigimos al Museo del Quijote. El casco histórico es fácilmente accesible en bici, usando las iglesias para breves pausas de calentamiento. Llegamos al barrio del Pilar justo antes del temprano crepúsculo invernal."
           },
           "stops": [
             {
@@ -1006,7 +1097,8 @@
                 "de": "Tragen Sie Handschuhe; der Fahrtwind ist im Winter kalt.",
                 "hu": "Viseljen kesztyűt; a menetszél télen nagyon hideg.",
                 "ro": "Purtați mănuși; vântul este tăios iarna pe bicicletă.",
-                "en": "Wear gloves; the wind chill can be biting in winter."
+                "en": "Wear gloves; the wind chill can be biting in winter.",
+                "es": "Lleva guantes; la sensación térmica puede ser muy fría en invierno."
               }
             },
             {
@@ -1015,7 +1107,8 @@
                 "de": "Schließen Sie Ihr Rad gut ab und wärmen Sie sich drinnen auf.",
                 "hu": "Zárja le biztonságosan a bringát, és melegedjen be.",
                 "ro": "Asigurați bicicleta și încălziți-vă în interior.",
-                "en": "Secure your bike and take time to warm up inside."
+                "en": "Secure your bike and take time to warm up inside.",
+                "es": "Asegura tu bici y tómate tiempo para entrar en calor en el interior."
               }
             },
             {
@@ -1024,7 +1117,8 @@
                 "de": "Die Sonne auf dem Platz ist mittags am stärksten.",
                 "hu": "A nap ereje a téren délben a legintenzívebb.",
                 "ro": "Soarele din piață este cel mai puternic la prânz.",
-                "en": "The sun in the square is strongest around midday."
+                "en": "The sun in the square is strongest around midday.",
+                "es": "El sol en la plaza es más fuerte alrededor del mediodía."
               }
             },
             {
@@ -1033,7 +1127,8 @@
                 "de": "Ein ruhiger, windgeschützter Ort für eine Pause.",
                 "hu": "Nyugodt, szélvédett helyszín egy rövid pihenőhöz.",
                 "ro": "Un loc liniștit și ferit de vânt pentru o pauză.",
-                "en": "A quiet, wind-sheltered spot for a short break."
+                "en": "A quiet, wind-sheltered spot for a short break.",
+                "es": "Un lugar tranquilo y resguardado del viento para una breve parada."
               }
             },
             {
@@ -1042,7 +1137,8 @@
                 "de": "Nutzen Sie den Halt, um die Route für den Nachmittag zu prüfen.",
                 "hu": "Használja ki a megállót a délutáni útvonal ellenőrzésére.",
                 "ro": "Folosiți oprirea pentru a verifica traseul de după-amiază.",
-                "en": "Use this stop to re-check your afternoon route."
+                "en": "Use this stop to re-check your afternoon route.",
+                "es": "Usa esta parada para revisar la ruta de la tarde."
               }
             },
             {
@@ -1051,7 +1147,8 @@
                 "de": "Achten Sie auf Reifglätte in schattigen Bereichen.",
                 "hu": "Vigyázzon a zúzmarás, csúszós részekre az árnyékban.",
                 "ro": "Atenție la porțiunile cu polei în zonele umbrite.",
-                "en": "Watch out for frost and slippery spots in shaded areas."
+                "en": "Watch out for frost and slippery spots in shaded areas.",
+                "es": "Cuidado con la escarcha y las zonas resbaladizas en áreas sombreadas."
               }
             },
             {
@@ -1060,7 +1157,8 @@
                 "de": "Ein kleiner Abstecher, der sich auch im Winter lohnt.",
                 "hu": "Rövid kitérő, ami télen is megéri a látogatást.",
                 "ro": "O mică abatere care merită chiar și iarna.",
-                "en": "A small detour that's worth it even in winter."
+                "en": "A small detour that's worth it even in winter.",
+                "es": "Un pequeño desvío que merece la pena incluso en invierno."
               }
             },
             {
@@ -1069,7 +1167,8 @@
                 "de": "Schalten Sie Ihr Licht ein, sobald die Dämmerung beginnt.",
                 "hu": "Kapcsolja be a világítást, amint elkezd szürkülni.",
                 "ro": "Aprindeți luminile imediat ce începe amurgul.",
-                "en": "Turn on your lights as soon as dusk begins."
+                "en": "Turn on your lights as soon as dusk begins.",
+                "es": "Enciende las luces tan pronto empiece el crepúsculo."
               }
             }
           ],
@@ -1101,6 +1200,13 @@
               "Wear thermal socks to keep your feet warm while pedaling.",
               "Avoid shaded streets as they remain significantly colder.",
               "A thermos of hot tea is a great companion for the ride."
+            ],
+            "es": [
+              "Revisa la presión de los neumáticos, ya que tiende a bajar con el frío.",
+              "Las luces son obligatorias desde las 17:30 debido a la oscuridad temprana.",
+              "Usa calcetines térmicos para mantener los pies calientes mientras pedaleas.",
+              "Evita las calles sombreadas, ya que se mantienen considerablemente más frías.",
+              "Un termo con té caliente es un gran compañero para el paseo."
             ]
           }
         }
@@ -1119,7 +1225,8 @@
             "de": "Parkplatz bei Puerta de Toledo",
             "hu": "Parkoló a Puerta de Toledónál",
             "ro": "Parcare la Poarta din Toledo",
-            "en": "Parking near Puerta de Toledo"
+            "en": "Parking near Puerta de Toledo",
+            "es": "Aparcamiento cerca de Puerta de Toledo"
           },
           "coords": [
             -3.9215,
@@ -1135,7 +1242,8 @@
             "de": "Parken Sie hier, um den nördlichen Teil des historischen Zentrums zu erkunden.",
             "hu": "Parkoljon itt, hogy felfedezze a történelmi központ északi részét.",
             "ro": "Parcați aici pentru a explora partea de nord a centrului istoric.",
-            "en": "Park here to explore the northern part of the historic center."
+            "en": "Park here to explore the northern part of the historic center.",
+            "es": "Aparca aquí para explorar la parte norte del casco histórico."
           }
         },
         {
@@ -1143,7 +1251,8 @@
             "de": "Puerta de Toledo",
             "hu": "Toledói kapu",
             "ro": "Poarta din Toledo",
-            "en": "Puerta de Toledo"
+            "en": "Puerta de Toledo",
+            "es": "Puerta de Toledo"
           },
           "coords": [
             -3.9221,
@@ -1159,7 +1268,8 @@
             "de": "Ein kurzer Spaziergang vom Parkplatz zu diesem beeindruckenden Stadttor.",
             "hu": "Rövid séta a parkolótól ehhez a lenyűgöző városkapuhoz.",
             "ro": "O scurtă plimbare de la parcare la această poartă impresionantă a orașului.",
-            "en": "A short walk from the parking lot to this impressive city gate."
+            "en": "A short walk from the parking lot to this impressive city gate.",
+            "es": "A poca distancia a pie desde el aparcamiento hasta esta impresionante puerta de la ciudad."
           }
         },
         {
@@ -1167,7 +1277,8 @@
             "de": "Plaza Mayor & Kathedrale (Cluster)",
             "hu": "Plaza Mayor és Katedrális (Klaszter)",
             "ro": "Plaza Mayor & Catedrală (Cluster)",
-            "en": "Plaza Mayor & Cathedral (Cluster)"
+            "en": "Plaza Mayor & Cathedral (Cluster)",
+            "es": "Plaza Mayor y Catedral (Conjunto)"
           },
           "coords": [
             -3.9275,
@@ -1183,7 +1294,8 @@
             "de": "Fahren Sie zu einem Parkhaus im Zentrum. Von hier aus sind Plaza Mayor, Kathedrale und San Pedro zu Fuß erreichbar.",
             "hu": "Vezessen egy belvárosi parkolóházba. Innen a Plaza Mayor, a katedrális és a San Pedro gyalog is elérhető.",
             "ro": "Conduceți la o parcare din centru. De aici, Plaza Mayor, Catedrala și San Pedro sunt la distanță de mers pe jos.",
-            "en": "Drive to a central parking garage. From here, Plaza Mayor, the Cathedral, and San Pedro are within walking distance."
+            "en": "Drive to a central parking garage. From here, Plaza Mayor, the Cathedral, and San Pedro are within walking distance.",
+            "es": "Conduce hasta un parking subterráneo céntrico. Desde aquí, la Plaza Mayor, la Catedral y San Pedro están a poca distancia a pie."
           }
         },
         {
@@ -1191,7 +1303,8 @@
             "de": "Kirche San Pedro",
             "hu": "Szent Péter-templom",
             "ro": "Biserica San Pedro",
-            "en": "Church of San Pedro"
+            "en": "Church of San Pedro",
+            "es": "Iglesia de San Pedro"
           },
           "coords": [
             -3.9262,
@@ -1207,7 +1320,8 @@
             "de": "Schlendern Sie von der Kathedrale zu dieser gotischen Kirche.",
             "hu": "Sétáljon át a katedrálistól ehhez a gótikus templomhoz.",
             "ro": "Plimbați-vă de la catedrală la această biserică gotică.",
-            "en": "Stroll from the cathedral to this Gothic church."
+            "en": "Stroll from the cathedral to this Gothic church.",
+            "es": "Pasea desde la catedral hasta esta iglesia gótica."
           }
         },
         {
@@ -1215,7 +1329,8 @@
             "de": "Museums-Cluster (Quijote & Ciudad Real)",
             "hu": "Múzeumi Klaszter (Quijote & Ciudad Real)",
             "ro": "Cluster Muzee (Quijote & Ciudad Real)",
-            "en": "Museum Cluster (Quixote & Ciudad Real)"
+            "en": "Museum Cluster (Quixote & Ciudad Real)",
+            "es": "Conjunto de museos (Quijote y Ciudad Real)"
           },
           "coords": [
             -3.935,
@@ -1231,7 +1346,8 @@
             "de": "Parken Sie in der Nähe des Gasset-Parks. Beide Museen sind nur einen kurzen Spaziergang voneinander entfernt.",
             "hu": "Parkoljon a Gasset park közelében. Mindkét múzeum rövid sétatávolságra van egymástól.",
             "ro": "Parcați lângă Parcul Gasset. Ambele muzee sunt la o scurtă plimbare unul de celălalt.",
-            "en": "Park near Gasset Park. Both museums are a short walk from each other."
+            "en": "Park near Gasset Park. Both museums are a short walk from each other.",
+            "es": "Aparca cerca del Parque Gasset. Ambos museos quedan a poca distancia uno del otro."
           }
         },
         {
@@ -1239,7 +1355,8 @@
             "de": "Gasset-Park",
             "hu": "Gasset park",
             "ro": "Parcul Gasset",
-            "en": "Gasset Park"
+            "en": "Gasset Park",
+            "es": "Parque Gasset"
           },
           "coords": [
             -3.9372,
@@ -1255,7 +1372,8 @@
             "de": "Beenden Sie den Tag mit einem entspannten Spaziergang durch den Park, bevor Sie zum Auto zurückkehren.",
             "hu": "Zárja a napot egy pihentető sétával a parkban, mielőtt visszatér az autóhoz.",
             "ro": "Încheiați ziua cu o plimbare relaxantă prin parc înainte de a vă întoarce la mașină.",
-            "en": "End the day with a relaxing walk through the park before returning to the car."
+            "en": "End the day with a relaxing walk through the park before returning to the car.",
+            "es": "Termina el día con un paseo relajante por el parque antes de volver al coche."
           }
         }
       ],
@@ -1263,7 +1381,8 @@
         "de": "Nutzen Sie Ihr Auto, um bequem zwischen den Hauptattraktionen zu wechseln. Beginnen Sie im Norden bei der Puerta de Toledo. Fahren Sie dann ins Zentrum, parken Sie und erkunden Sie den Cluster um die Plaza Mayor und die Kathedrale zu Fuß. Nach dem Mittagessen fahren Sie zum Museums-Cluster, wo Sie in die Kultur eintauchen, bevor Sie den Tag im Gasset-Park ausklingen lassen. Diese Route kombiniert Fahrkomfort mit entspannten Spaziergängen.",
         "hu": "Használja autóját a fő látnivalók közötti kényelmes közlekedéshez. Kezdjen északon, a Puerta de Toledónál. Ezután vezessen a központba, parkoljon le, és fedezze fel gyalog a Plaza Mayor és a katedrális körüli klasztert. Ebéd után irány a múzeumi negyed, ahol elmerülhet a kultúrában, mielőtt a Gasset parkban fejezi be a napot. Ez az útvonal ötvözi a vezetés kényelmét a pihentető sétákkal.",
         "ro": "Folosiți mașina pentru a vă deplasa convenabil între principalele atracții. Începeți în nord, la Puerta de Toledo. Apoi, conduceți spre centru, parcați și explorați pe jos clusterul din jurul Plaza Mayor și al Catedralei. După prânz, mergeți la clusterul de muzee pentru o imersiune culturală, înainte de a încheia ziua în Parcul Gasset. Acest traseu combină confortul condusului cu plimbări relaxante.",
-        "en": "Use your car to conveniently move between the main attractions. Start in the north at the Puerta de Toledo. Then, drive to the center, park, and explore the cluster around Plaza Mayor and the Cathedral on foot. After lunch, drive to the museum cluster for a cultural immersion before ending the day at Gasset Park. This route combines driving comfort with relaxing walks."
+        "en": "Use your car to conveniently move between the main attractions. Start in the north at the Puerta de Toledo. Then, drive to the center, park, and explore the cluster around Plaza Mayor and the Cathedral on foot. After lunch, drive to the museum cluster for a cultural immersion before ending the day at Gasset Park. This route combines driving comfort with relaxing walks.",
+        "es": "Usa el coche para moverte cómodamente entre las principales atracciones. Empieza en el norte, en la Puerta de Toledo. Luego conduce al centro, aparca y explora a pie el conjunto de la Plaza Mayor y la Catedral. Después de comer, conduce hasta el conjunto de museos para una inmersión cultural antes de terminar el día en el Parque Gasset. Esta ruta combina la comodidad de conducir con paseos relajantes."
       },
       "gastro_picks": {
         "de": [],
@@ -1307,6 +1426,12 @@
           "Be aware of the low-emission zones (ZBE) in the center.",
           "Plan extra time for finding a parking spot.",
           "A car is ideal for also visiting nearby attractions like the Tablas de Daimiel National Park (not included in this plan)."
+        ],
+        "es": [
+          "Aparcar en el centro puede ser difícil y caro. Utiliza los parkings subterráneos.",
+          "Ten en cuenta las zonas de bajas emisiones (ZBE) en el centro.",
+          "Planifica tiempo extra para encontrar aparcamiento.",
+          "Un coche es ideal para visitar también atracciones cercanas como el Parque Nacional Tablas de Daimiel (no incluido en este plan)."
         ]
       },
       "variants": {
@@ -1315,7 +1440,8 @@
             "de": "Bei Regen ist das Auto das komfortabelste Mittel, um Ciudad Real zu erkunden. Wir parken nahe der Puerta de Toledo und bewundern das Monument trockenen Fußes. Mittags steuern wir das Zentrum an, wo Parkhäuser direkten Zugang zur Plaza Mayor und der Kathedrale bieten. Der Nachmittag gehört dem Museums-Cluster, bevor wir den Tag mit einer entspannten Fahrt am Gasset-Park abschließen.",
             "hu": "Esőben az autó a legkényelmesebb módja Ciudad Real felfedezésének. A Puerta de Toledo mellett parkolunk, és száraz lábbal csodáljuk meg a műemléket. Délben a központ felé vesszük az irányt, ahol a mélygarázsokból közvetlenül a Plaza Mayorra és a katedrálishoz jutunk. A délután a múzeumoké, a napot pedig egy lassú autózással zárjuk a Gasset park környékén.",
             "ro": "Pe ploaie, mașina este cel mai confortabil mod de a explora Ciudad Real. Parcăm lângă Puerta de Toledo pentru o vizită rapidă fără a ne uda. La prânz ne îndreptăm spre centru, unde parcările oferă acces direct la Plaza Mayor și Catedrală. După-amiaza aparține muzeelor, iar ziua se încheie cu o plimbare relaxantă cu mașina pe lângă Parcul Gasset.",
-            "en": "In the rain, the car is the most comfortable way to see Ciudad Real. We park near Puerta de Toledo to view the monument while staying dry. At noon, we head to the center, where underground parking provides easy access to Plaza Mayor and the Cathedral. The afternoon is dedicated to the museum cluster, followed by a relaxed drive around Gasset Park."
+            "en": "In the rain, the car is the most comfortable way to see Ciudad Real. We park near Puerta de Toledo to view the monument while staying dry. At noon, we head to the center, where underground parking provides easy access to Plaza Mayor and the Cathedral. The afternoon is dedicated to the museum cluster, followed by a relaxed drive around Gasset Park.",
+            "es": "Con lluvia, el coche es la forma más cómoda de ver Ciudad Real. Aparcamos cerca de la Puerta de Toledo para ver el monumento sin mojarnos. Al mediodía nos dirigimos al centro, donde el parking subterráneo facilita el acceso a la Plaza Mayor y la Catedral. La tarde se dedica al conjunto de museos, seguido de un tranquilo paseo en coche alrededor del Parque Gasset."
           },
           "stops": [
             {
@@ -1324,7 +1450,8 @@
                 "de": "Wählen Sie den nächstgelegenen Platz, um den Regen zu meiden.",
                 "hu": "Válassza a legközelebbi helyet, hogy elkerülje az esőt.",
                 "ro": "Alegeți cel mai apropiat loc pentru a evita ploaia.",
-                "en": "Choose the closest spot to minimize time in the rain."
+                "en": "Choose the closest spot to minimize time in the rain.",
+                "es": "Elige la plaza más cercana para minimizar el tiempo bajo la lluvia."
               }
             },
             {
@@ -1333,7 +1460,8 @@
                 "de": "Gut sichtbar vom Auto aus, falls es stark regnet.",
                 "hu": "Jól látható az autóból is, ha nagyon esne.",
                 "ro": "Vizibilă bine din mașină în caz de ploaie torențială.",
-                "en": "Clearly visible from the car if the rain gets heavy."
+                "en": "Clearly visible from the car if the rain gets heavy.",
+                "es": "Claramente visible desde el coche si la lluvia arrecia."
               }
             },
             {
@@ -1342,7 +1470,8 @@
                 "de": "Nutzen Sie Tiefgaragen für einen trockenen Ausstieg.",
                 "hu": "Használja a mélygarázsokat a száraz kiszálláshoz.",
                 "ro": "Utilizați parcările subterane pentru a rămâne uscat.",
-                "en": "Use underground parking for a dry arrival."
+                "en": "Use underground parking for a dry arrival.",
+                "es": "Usa el parking subterráneo para llegar seco."
               }
             },
             {
@@ -1351,7 +1480,8 @@
                 "de": "Kurze Parkdauer am Straßenrand oft möglich.",
                 "hu": "Rövid megállás az utcán gyakran lehetséges.",
                 "ro": "O oprire scurtă pe marginea străzii este adesea posibilă.",
-                "en": "Short-term street parking is often available nearby."
+                "en": "Short-term street parking is often available nearby.",
+                "es": "El estacionamiento en la calle a corto plazo suele estar disponible cerca."
               }
             },
             {
@@ -1360,7 +1490,8 @@
                 "de": "Parken Sie direkt vor den Museen, falls Plätze frei sind.",
                 "hu": "Parkoljon közvetlenül a múzeumok előtt, ha van hely.",
                 "ro": "Parcați direct în fața muzeelor dacă sunt locuri libere.",
-                "en": "Park right in front of the museums if spots are available."
+                "en": "Park right in front of the museums if spots are available.",
+                "es": "Aparca justo delante de los museos si hay plazas disponibles."
               }
             },
             {
@@ -1369,7 +1500,8 @@
                 "de": "Die Ringstraße bietet gute Ausblicke auf den Park.",
                 "hu": "A körgyűrűről szép kilátás nyílik a parkra.",
                 "ro": "Șoseaua de centură oferă vederi bune spre parc.",
-                "en": "The ring road offers good views of the park."
+                "en": "The ring road offers good views of the park.",
+                "es": "La ronda ofrece buenas vistas del parque."
               }
             }
           ],
@@ -1401,6 +1533,13 @@
               "Avoid driving through very narrow, paved old town streets.",
               "Check your windshield wipers' condition before starting.",
               "Watch out for pedestrians stepping out from under the arcades."
+            ],
+            "es": [
+              "La visibilidad puede ser limitada durante fuertes aguaceros en la meseta.",
+              "Se recomienda encarecidamente el parking subterráneo en el centro cuando esté húmedo.",
+              "Evita conducir por calles muy estrechas y empedradas del casco antiguo.",
+              "Revisa el estado de los limpiaparabrisas antes de salir.",
+              "Cuidado con los peatones que salen de debajo de los soportales."
             ]
           }
         },
@@ -1409,7 +1548,8 @@
             "de": "Ein Wintertag in Ciudad Real lässt sich bestens mit dem Auto organisieren, um der Kälte zwischen den Stopps zu entgehen. Wir starten an der Puerta de Toledo im klaren Morgenlicht. Mittags parken wir zentral, um Plaza Mayor und die Kathedrale zu besuchen. Die Museen bieten am Nachmittag wohlige Wärme. Zum Abschluss fahren wir zum Gasset-Park, wo wir das winterliche Ambiente bequem aus dem Auto genießen können.",
             "hu": "Egy téli nap Ciudad Realban autóval a legkényelmesebb, így elkerülhetjük a hideget a megállók között. A Puerta de Toledónál kezdünk a tiszta reggeli fényben. Délben központilag parkolunk, hogy megnézzük a főteret és a katedrálist. A múzeumok délután kellemes meleget nyújtanak. Végül a Gasset parkhoz autózunk, ahol a téli hangulatot az autó kényelméből is élvezhetjük.",
             "ro": "O zi de iarnă în Ciudad Real este cel mai bine organizată cu mașina pentru a evita frigul între opriri. Începem la Puerta de Toledo în lumina clară a dimineții. La prânz parcăm central pentru a vizita Plaza Mayor și Catedrala. Muzeele oferă căldură plăcută după-amiaza. La final, mergem la Parcul Gasset, unde putem admira ambianța de iarnă din confortul mașinii.",
-            "en": "A winter day in Ciudad Real is best managed by car to avoid the chill between stops. We start at Puerta de Toledo in the clear morning light. At noon, we park centrally to visit Plaza Mayor and the Cathedral. The museums offer welcome warmth in the afternoon. Finally, we drive to Gasset Park, enjoying the winter atmosphere from the comfort of the vehicle."
+            "en": "A winter day in Ciudad Real is best managed by car to avoid the chill between stops. We start at Puerta de Toledo in the clear morning light. At noon, we park centrally to visit Plaza Mayor and the Cathedral. The museums offer welcome warmth in the afternoon. Finally, we drive to Gasset Park, enjoying the winter atmosphere from the comfort of the vehicle.",
+            "es": "Un día de invierno en Ciudad Real se gestiona mejor en coche para evitar el frío entre paradas. Comenzamos en la Puerta de Toledo con la luz clara de la mañana. Al mediodía aparcamos en el centro para visitar la Plaza Mayor y la Catedral. Los museos ofrecen un cálido refugio por la tarde. Finalmente, conducimos hasta el Parque Gasset, disfrutando del ambiente invernal desde la comodidad del vehículo."
           },
           "stops": [
             {
@@ -1418,7 +1558,8 @@
                 "de": "Im Winter sind morgens oft Parkplätze direkt an der Straße frei.",
                 "hu": "Télen reggelente gyakran van szabad hely közvetlenül az utcán.",
                 "ro": "Iarna, dimineața se găsesc adesea locuri chiar pe stradă.",
-                "en": "In winter mornings, street parking is often available nearby."
+                "en": "In winter mornings, street parking is often available nearby.",
+                "es": "En las mañanas de invierno suele haber aparcamiento en la calle cerca."
               }
             },
             {
@@ -1427,7 +1568,8 @@
                 "de": "Das Monument leuchtet wunderschön in der tiefen Wintersonne.",
                 "hu": "A műemlék gyönyörűen világít az alacsony téli napsütésben.",
                 "ro": "Monumentul strălucește frumos în soarele slab de iarnă.",
-                "en": "The monument glows beautifully in the low winter sun."
+                "en": "The monument glows beautifully in the low winter sun.",
+                "es": "El monumento luce de forma hermosa con el bajo sol invernal."
               }
             },
             {
@@ -1436,7 +1578,8 @@
                 "de": "Das Auto bleibt in der Tiefgarage frostfrei und warm.",
                 "hu": "Az autó a mélygarázsban fagymentes és meleg marad.",
                 "ro": "Mașina va rămâne ferită de îngheț în parcarea subterană.",
-                "en": "The car will stay frost-free and warm in underground parking."
+                "en": "The car will stay frost-free and warm in underground parking.",
+                "es": "El coche permanecerá sin escarcha y caliente en el parking subterráneo."
               }
             },
             {
@@ -1445,7 +1588,8 @@
                 "de": "Schnelles Aussteigen für einen kurzen Blick ins Innere.",
                 "hu": "Gyors kiszállás egy rövid benti látogatáshoz.",
                 "ro": "Coborâre rapidă pentru o scurtă vizită în interior.",
-                "en": "Quick drop-off for a brief look inside."
+                "en": "Quick drop-off for a brief look inside.",
+                "es": "Bajada rápida para una breve mirada en el interior."
               }
             },
             {
@@ -1454,7 +1598,8 @@
                 "de": "Heizen Sie das Auto vor der Weiterfahrt kurz auf.",
                 "hu": "Melegítse be az autót a továbbindulás előtt.",
                 "ro": "Încălziți puțin mașina înainte de a porni mai departe.",
-                "en": "Warm up the car briefly before heading to the next stop."
+                "en": "Warm up the car briefly before heading to the next stop.",
+                "es": "Calienta el coche brevemente antes de ir al siguiente punto."
               }
             },
             {
@@ -1463,7 +1608,8 @@
                 "de": "Parken Sie am Rand und genießen Sie den Blick auf die Brunnen.",
                 "hu": "Parkoljon a szélen, és élvezze a kilátást a szökőkutakra.",
                 "ro": "Parcați la margine și admirați fântânile din mașină.",
-                "en": "Park on the edge and enjoy the view of the fountains."
+                "en": "Park on the edge and enjoy the view of the fountains.",
+                "es": "Aparca en el borde y disfruta de la vista de las fuentes."
               }
             }
           ],
@@ -1495,6 +1641,13 @@
               "Underground parking is pricier but keeps windows frost-free.",
               "Make the most of the daylight hours between 10 AM and 4 PM.",
               "Ensure you have anti-freeze in your windshield washer fluid."
+            ],
+            "es": [
+              "Atento a placas heladas cuando las temperaturas estén cerca del punto de congelación.",
+              "La calefacción tarda en calentarse en trayectos cortos por la ciudad.",
+              "El parking subterráneo es más caro pero mantiene las lunas sin escarcha.",
+              "Aprovecha al máximo las horas de luz entre las 10:00 y las 16:00.",
+              "Asegúrate de tener anticongelante en el líquido del limpiaparabrisas."
             ]
           }
         }
@@ -1513,7 +1666,8 @@
             "de": "Cluster Zentrum (Plaza Mayor, Kathedrale)",
             "hu": "Központi klaszter (Plaza Mayor, Katedrális)",
             "ro": "Clusterul Central (Plaza Mayor, Catedrală)",
-            "en": "Central Cluster (Plaza Mayor, Cathedral)"
+            "en": "Central Cluster (Plaza Mayor, Cathedral)",
+            "es": "Conjunto central (Plaza Mayor, Catedral)"
           },
           "coords": [
             -3.9278,
@@ -1529,7 +1683,8 @@
             "de": "Nehmen Sie einen Bus zur Plaza Mayor. Die Kathedrale und San Pedro sind von hier aus leicht zu Fuß erreichbar.",
             "hu": "Menjen busszal a Plaza Mayorra. A katedrális és a San Pedro innen könnyen megközelíthető gyalog.",
             "ro": "Luați un autobuz spre Plaza Mayor. Catedrala și San Pedro sunt la o distanță mică de mers pe jos de aici.",
-            "en": "Take a bus to Plaza Mayor. The Cathedral and San Pedro are an easy walk from here."
+            "en": "Take a bus to Plaza Mayor. The Cathedral and San Pedro are an easy walk from here.",
+            "es": "Toma un autobús hasta la Plaza Mayor. La Catedral y San Pedro están a un paseo fácil desde allí."
           }
         },
         {
@@ -1537,7 +1692,8 @@
             "de": "Kirche San Pedro",
             "hu": "Szent Péter-templom",
             "ro": "Biserica San Pedro",
-            "en": "Church of San Pedro"
+            "en": "Church of San Pedro",
+            "es": "Iglesia de San Pedro"
           },
           "coords": [
             -3.9262,
@@ -1553,7 +1709,8 @@
             "de": "Ein kurzer Spaziergang durch die historischen Gassen von der Kathedrale aus.",
             "hu": "Rövid séta a történelmi sikátorokon keresztül a katedrálistól.",
             "ro": "O scurtă plimbare pe străduțele istorice de la catedrală.",
-            "en": "A short walk through the historic alleys from the cathedral."
+            "en": "A short walk through the historic alleys from the cathedral.",
+            "es": "A poca distancia a pie por las callejuelas históricas desde la catedral."
           }
         },
         {
@@ -1561,7 +1718,8 @@
             "de": "Puerta de Toledo",
             "hu": "Toledói kapu",
             "ro": "Poarta din Toledo",
-            "en": "Puerta de Toledo"
+            "en": "Puerta de Toledo",
+            "es": "Puerta de Toledo"
           },
           "coords": [
             -3.9221,
@@ -1577,7 +1735,8 @@
             "de": "Eine kurze Busfahrt vom Zentrum bringt Sie zu diesem nördlichen Wahrzeichen.",
             "hu": "Egy rövid buszút a központból elviszi ehhez az északi nevezetességhez.",
             "ro": "O scurtă călătorie cu autobuzul din centru vă va duce la acest punct de reper nordic.",
-            "en": "A short bus ride from the center takes you to this northern landmark."
+            "en": "A short bus ride from the center takes you to this northern landmark.",
+            "es": "Un corto trayecto en bus desde el centro te lleva a este referente del norte."
           }
         },
         {
@@ -1585,7 +1744,8 @@
             "de": "Cluster Gasset Park & Museen",
             "hu": "Gasset Park és Múzeumok Klaszter",
             "ro": "Cluster Parcul Gasset și Muzee",
-            "en": "Gasset Park & Museums Cluster"
+            "en": "Gasset Park & Museums Cluster",
+            "es": "Parque Gasset y conjunto de museos"
           },
           "coords": [
             -3.936,
@@ -1601,7 +1761,8 @@
             "de": "Nehmen Sie einen Bus in Richtung Südwesten. Steigen Sie in der Nähe des Gasset-Parks aus.",
             "hu": "Menjen busszal délnyugati irányba. Szálljon le a Gasset park közelében.",
             "ro": "Luați un autobuz spre sud-vest. Coborâți lângă Parcul Gasset.",
-            "en": "Take a bus towards the southwest. Get off near Gasset Park."
+            "en": "Take a bus towards the southwest. Get off near Gasset Park.",
+            "es": "Toma un autobús con dirección suroeste y bájate cerca del Parque Gasset."
           }
         },
         {
@@ -1609,7 +1770,8 @@
             "de": "Quijote-Museum",
             "hu": "Don Quijote Múzeum",
             "ro": "Muzeul Don Quijote",
-            "en": "Don Quixote Museum"
+            "en": "Don Quixote Museum",
+            "es": "Museo del Quijote"
           },
           "coords": [
             -3.9351,
@@ -1625,7 +1787,8 @@
             "de": "Das Museum befindet sich direkt neben dem Park.",
             "hu": "A múzeum közvetlenül a park mellett található.",
             "ro": "Muzeul este situat chiar lângă parc.",
-            "en": "The museum is located right next to the park."
+            "en": "The museum is located right next to the park.",
+            "es": "El museo está situado justo al lado del parque."
           }
         },
         {
@@ -1633,7 +1796,8 @@
             "de": "Gasset-Park",
             "hu": "Gasset park",
             "ro": "Parcul Gasset",
-            "en": "Gasset Park"
+            "en": "Gasset Park",
+            "es": "Parque Gasset"
           },
           "coords": [
             -3.9372,
@@ -1649,7 +1813,8 @@
             "de": "Entspannen Sie sich nach dem Museumsbesuch im Park.",
             "hu": "Pihenjen a parkban a múzeumlátogatás után.",
             "ro": "Relaxați-vă în parc după vizita la muzeu.",
-            "en": "Relax in the park after the museum visit."
+            "en": "Relax in the park after the museum visit.",
+            "es": "Relájate en el parque después de la visita al museo."
           }
         }
       ],
@@ -1657,7 +1822,8 @@
         "de": "Das Busnetz von Ciudad Real macht es einfach, die Stadt zu erkunden. Beginnen Sie im zentralen Cluster und besichtigen Sie die Plaza Mayor und die Kirchen. Eine kurze Busfahrt bringt Sie dann zur historischen Puerta de Toledo. Am Nachmittag bringt Sie ein weiterer Bus zum zweiten Cluster, wo Sie die Museen erkunden und im Gasset-Park entspannen können. Diese Methode ist effizient und ermöglicht es Ihnen, verschiedene Teile der Stadt ohne Parkplatzsorgen zu sehen.",
         "hu": "Ciudad Real buszhálózata megkönnyíti a város felfedezését. Kezdje a központi klaszterben, és nézze meg a Plaza Mayort és a templomokat. Egy rövid buszúttal eljuthat a történelmi Puerta de Toledóhoz. Délután egy másik busz elviszi a második klaszterbe, ahol felfedezheti a múzeumokat és pihenhet a Gasset parkban. Ez a módszer hatékony, és lehetővé teszi, hogy a város különböző részeit parkolási gondok nélkül láthassa.",
         "ro": "Rețeaua de autobuze din Ciudad Real facilitează explorarea orașului. Începeți în clusterul central pentru a vedea Plaza Mayor și bisericile. O scurtă călătorie cu autobuzul vă duce apoi la istorica Puerta de Toledo. După-amiaza, un alt autobuz vă va duce la al doilea cluster pentru a explora muzeele și a vă relaxa în Parcul Gasset. Această metodă este eficientă și vă permite să vedeți diferite părți ale orașului fără grija parcării.",
-        "en": "Ciudad Real's bus network makes it easy to explore. Start in the central cluster to see Plaza Mayor and the churches. A short bus ride then takes you to the historic Puerta de Toledo. In the afternoon, another bus will take you to the second cluster to explore the museums and relax in Gasset Park. This method is efficient and allows you to see different parts of the city without parking worries."
+        "en": "Ciudad Real's bus network makes it easy to explore. Start in the central cluster to see Plaza Mayor and the churches. A short bus ride then takes you to the historic Puerta de Toledo. In the afternoon, another bus will take you to the second cluster to explore the museums and relax in Gasset Park. This method is efficient and allows you to see different parts of the city without parking worries.",
+        "es": "La red de autobuses de Ciudad Real facilita la exploración. Empieza en el núcleo central para ver la Plaza Mayor y las iglesias. Un corto trayecto en bus te lleva a la histórica Puerta de Toledo. Por la tarde, otro autobús te llevará al segundo núcleo para visitar los museos y relajarte en el Parque Gasset. Este método es eficiente y te permite ver distintas partes de la ciudad sin preocuparte por el aparcamiento."
       },
       "gastro_picks": {
         "de": [],
@@ -1701,6 +1867,12 @@
           "Bus frequencies may be lower on weekends and in the evening.",
           "Most bus lines run through the central squares, making transfers easy.",
           "Use a public transport app to check routes and timetables in real time."
+        ],
+        "es": [
+          "Compra una tarjeta 'bonobús' para tarifas reducidas si piensas hacer varios viajes.",
+          "La frecuencia de los autobuses puede ser menor los fines de semana y por la noche.",
+          "La mayoría de las líneas pasan por las plazas centrales, lo que facilita los transbordos.",
+          "Usa una app de transporte público para consultar rutas y horarios en tiempo real."
         ]
       },
       "variants": {
@@ -1709,7 +1881,8 @@
             "de": "Der Bus ist bei Regen ein sicheres Transportmittel durch Ciudad Real. Wir beginnen im Zentrum an der Plaza Mayor, wo die Bushaltestellen oft überdacht sind. Mittags besuchen wir die Kirchen und nutzen die kurzen Wege zwischen den Stopps. Der Nachmittag gehört den Museen und dem Gasset-Park, wobei die Busverbindungen uns immer wieder ins Trockene bringen. Ein Tag voller Kultur, ohne nass zu werden.",
             "hu": "Az autóbusz biztonságos közlekedési eszköz Ciudad Realban eső idején. A központban, a Plaza Mayoron kezdünk, ahol a buszmegállók gyakran fedettek. Délben meglátogatjuk a templomokat, kihasználva a megállók közötti rövid távokat. A délután a múzeumoké és a Gasset parké, miközben a buszjáratok mindig szárazon tartanak minket. Kulturális nap, ázás nélkül.",
             "ro": "Autobuzul este un mijloc de transport sigur prin Ciudad Real pe ploaie. Începem în centru, la Plaza Mayor, unde stațiile sunt adesea acoperite. La prânz vizităm bisericile, profitând de distanțele scurte între opriri. După-amiaza aparține muzeelor și Parcului Gasset, conexiunile de autobuz readucându-ne mereu la adăpost. O zi culturală fără a ne uda.",
-            "en": "The bus is a reliable way to get around Ciudad Real in the rain. We start at Plaza Mayor, where many bus stops offer shelter. At noon, we visit the churches, making use of the short distances between stops. The afternoon is for the museums and Gasset Park, with bus routes keeping us dry between locations. A day of culture without getting soaked."
+            "en": "The bus is a reliable way to get around Ciudad Real in the rain. We start at Plaza Mayor, where many bus stops offer shelter. At noon, we visit the churches, making use of the short distances between stops. The afternoon is for the museums and Gasset Park, with bus routes keeping us dry between locations. A day of culture without getting soaked.",
+            "es": "El autobús es una forma fiable de moverse por Ciudad Real con lluvia. Empezamos en la Plaza Mayor, donde muchas paradas de autobús ofrecen refugio. Al mediodía visitamos las iglesias, aprovechando las cortas distancias entre paradas. La tarde es para los museos y el Parque Gasset, con rutas de autobús que nos mantienen secos entre los lugares. Un día de cultura sin acabar empapado."
           },
           "stops": [
             {
@@ -1718,7 +1891,8 @@
                 "de": "Zentraler Knotenpunkt mit vielen überdachten Haltestellen.",
                 "hu": "Központi csomópont sok fedett buszmegállóval.",
                 "ro": "Nod central cu multe stații de autobuz acoperite.",
-                "en": "Central hub with many sheltered bus stops."
+                "en": "Central hub with many sheltered bus stops.",
+                "es": "Nudo central con muchas paradas de autobús con techo."
               }
             },
             {
@@ -1727,7 +1901,8 @@
                 "de": "Kurzer Fußweg von der nächsten Bushaltestelle.",
                 "hu": "Rövid séta a legközelebbi buszmegállótól.",
                 "ro": "Scurtă plimbare de la cea mai apropiată stație.",
-                "en": "Short walk from the nearest bus stop."
+                "en": "Short walk from the nearest bus stop.",
+                "es": "A poca distancia a pie de la parada de autobús más cercana."
               }
             },
             {
@@ -1736,7 +1911,8 @@
                 "de": "Haltestellen befinden sich direkt an der Puerta.",
                 "hu": "A buszmegállók közvetlenül a kapunál találhatók.",
                 "ro": "Stațiile de autobuz sunt chiar lângă poartă.",
-                "en": "Bus stops are located right by the gate."
+                "en": "Bus stops are located right by the gate.",
+                "es": "Las paradas de autobús están situadas junto a la puerta."
               }
             },
             {
@@ -1745,7 +1921,8 @@
                 "de": "Idealer Umsteigepunkt für die Museen.",
                 "hu": "Ideális átszállási pont a múzeumok felé.",
                 "ro": "Punct de transfer ideal pentru vizitarea muzeelor.",
-                "en": "Ideal transfer point for visiting the museums."
+                "en": "Ideal transfer point for visiting the museums.",
+                "es": "Punto ideal de transbordo para visitar los museos."
               }
             },
             {
@@ -1754,7 +1931,8 @@
                 "de": "Nur wenige Schritte von der Haltestelle entfernt.",
                 "hu": "Csak néhány lépésnyire a buszmegállótól.",
                 "ro": "La doar câțiva pași de stația de autobuz.",
-                "en": "Only a few steps away from the bus stop."
+                "en": "Only a few steps away from the bus stop.",
+                "es": "A solo unos pasos de la parada de autobús."
               }
             },
             {
@@ -1763,7 +1941,8 @@
                 "de": "Nutzen Sie den Bus, um direkt zum Parkeingang zu gelangen.",
                 "hu": "Használja a buszt, hogy közvetlenül a park bejáratához jusson.",
                 "ro": "Folosiți autobuzul pentru a ajunge direct la intrare.",
-                "en": "Use the bus to get directly to the park entrance."
+                "en": "Use the bus to get directly to the park entrance.",
+                "es": "Usa el autobús para llegar directamente a la entrada del parque."
               }
             }
           ],
@@ -1795,6 +1974,13 @@
               "Use the mobile app for real-time bus tracking in the rain.",
               "Buses run less frequently on Sundays; plan accordingly.",
               "Keep small change ready for ticket purchases."
+            ],
+            "es": [
+              "Los billetes de autobús muchas veces se pueden comprar directamente al conductor.",
+              "Las líneas 1 y 2 cubren la mayoría de las atracciones turísticas principales.",
+              "Usa la app móvil para el seguimiento en tiempo real del autobús con lluvia.",
+              "Los autobuses circulan con menos frecuencia los domingos; planifica en consecuencia.",
+              "Ten cambio pequeño listo para comprar billetes."
             ]
           }
         },
@@ -1803,7 +1989,8 @@
             "de": "Die Busse in Ciudad Real sind im Winter gut beheizt und bieten eine angenehme Art des Reisens. Wir starten an der Plaza Mayor im Zentrum. Mittags bringen uns die kurzen Busfahrten schnell zu den historischen Kirchen. Der Nachmittag ist den Museen gewidmet, wo wir uns ausgiebig aufwärmen können. Den Tag lassen wir am winterlichen Gasset-Park ausklingen, bevor wir mit dem Bus zurück ins warme Hotel fahren.",
             "hu": "A buszok Ciudad Realban télen jól fűtöttek, így kellemes utazást biztosítanak. A központi Plaza Mayoron kezdünk. Délben a rövid buszutak gyorsan eljuttatnak a történelmi templomokhoz. A délután a múzeumoké, ahol alaposan felmelegedhetünk. A napot a téli Gasset parknál zárjuk, mielőtt visszabuszoznánk a meleg szállásunkra.",
             "ro": "Autobuzele din Ciudad Real sunt bine încălzite iarna și oferă un mod plăcut de a călători. Începem în Plaza Mayor, în centru. La prânz, cursele scurte ne duc rapid la bisericile istorice. După-amiaza este dedicată muzeelor, unde ne putem încălzi bine. Încheiem ziua la Parcul Gasset, înainte de a ne întoarce cu autobuzul la hotel.",
-            "en": "Buses in Ciudad Real are well-heated in winter, providing a cozy way to travel. We start at Plaza Mayor in the center. At noon, short bus rides quickly take us to the historic churches. The afternoon is spent in the warmth of the museums. We finish our day at the wintry Gasset Park before taking the bus back to our warm accommodation."
+            "en": "Buses in Ciudad Real are well-heated in winter, providing a cozy way to travel. We start at Plaza Mayor in the center. At noon, short bus rides quickly take us to the historic churches. The afternoon is spent in the warmth of the museums. We finish our day at the wintry Gasset Park before taking the bus back to our warm accommodation.",
+            "es": "Los autobuses en Ciudad Real están bien calefactados en invierno, ofreciendo una forma acogedora de viajar. Empezamos en la Plaza Mayor, en el centro. Al mediodía, cortos trayectos en autobús nos llevan rápidamente a las iglesias históricas. La tarde se pasa en la calidez de los museos. Terminamos el día en el invernal Parque Gasset antes de volver en autobús a nuestro alojamiento calentito."
           },
           "stops": [
             {
@@ -1812,7 +1999,8 @@
                 "de": "Ein warmer Wartebereich in der Nähe der Cafés.",
                 "hu": "Meleg várakozási lehetőség a közeli kávézókban.",
                 "ro": "Zonă de așteptare călduroasă lângă cafenele.",
-                "en": "A warm place to wait near the local cafes."
+                "en": "A warm place to wait near the local cafes.",
+                "es": "Un lugar cálido para esperar cerca de los cafés locales."
               }
             },
             {
@@ -1821,7 +2009,8 @@
                 "de": "Steigen Sie an der nächstgelegenen Haltestelle aus, um Kälte zu meiden.",
                 "hu": "Szálljon le a legközelebbi megállónál a hideg elkerülésére.",
                 "ro": "Coborâți la cea mai apropiată stație pentru a evita frigul.",
-                "en": "Get off at the nearest stop to minimize time in the cold."
+                "en": "Get off at the nearest stop to minimize time in the cold.",
+                "es": "Baja en la parada más cercana para minimizar el tiempo en el frío."
               }
             },
             {
@@ -1830,7 +2019,8 @@
                 "de": "Im Winter ist der Bus der beste Weg hierher.",
                 "hu": "Télen a busz a legjobb módja az idejutásnak.",
                 "ro": "Iarna, autobuzul este cea mai bună cale de a ajunge aici.",
-                "en": "In winter, the bus is the best way to reach this spot."
+                "en": "In winter, the bus is the best way to reach this spot.",
+                "es": "En invierno, el autobús es la mejor forma de llegar a este punto."
               }
             },
             {
@@ -1839,7 +2029,8 @@
                 "de": "Haltestellen sind gut beleuchtet, auch bei früher Dunkelheit.",
                 "hu": "A megállók jól megvilágítottak a korai sötétedésnél is.",
                 "ro": "Stațiile sunt bine iluminate, chiar și după lăsarea serii.",
-                "en": "Bus stops are well-lit even after the early sunset."
+                "en": "Bus stops are well-lit even after the early sunset.",
+                "es": "Las paradas de autobús están bien iluminadas incluso después del atardecer temprano."
               }
             },
             {
@@ -1848,7 +2039,8 @@
                 "de": "Der Bus hält fast direkt vor der Tür.",
                 "hu": "A busz szinte közvetlenül az ajtó előtt áll meg.",
                 "ro": "Autobuzul oprește aproape direct în fața intrării.",
-                "en": "The bus stops almost right in front of the entrance."
+                "en": "The bus stops almost right in front of the entrance.",
+                "es": "El autobús para casi justo delante de la entrada."
               }
             },
             {
@@ -1857,7 +2049,8 @@
                 "de": "Fahren Sie zurück ins Zentrum, sobald es zu kalt wird.",
                 "hu": "Buszozzon vissza a központba, amint túl hideg lesz.",
                 "ro": "Luați autobuzul înapoi spre centru dacă se face prea frig.",
-                "en": "Take the bus back to the center if it gets too cold."
+                "en": "Take the bus back to the center if it gets too cold.",
+                "es": "Vuelve en autobús al centro si hace demasiado frío."
               }
             }
           ],
@@ -1889,6 +2082,13 @@
               "Onboard displays make it easy to follow the route.",
               "Avoid long waits at unsheltered bus stops.",
               "A day pass is good value if you plan multiple trips."
+            ],
+            "es": [
+              "Los autobuses son puntuales y están cómodamente calefactados en invierno.",
+              "Consulta los horarios de los viajes de regreso después de las 18:00.",
+              "Las pantallas a bordo facilitan seguir la ruta.",
+              "Evita largas esperas en paradas de autobús sin techo.",
+              "Un billete de día tiene buena relación calidad-precio si planeas varios viajes."
             ]
           }
         }

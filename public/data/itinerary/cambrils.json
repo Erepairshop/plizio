@@ -21,7 +21,8 @@
             "de": "Torre de l'Ermita",
             "hu": "Remete-torony",
             "ro": "Torre de l'Ermita",
-            "en": "Ermita Tower"
+            "en": "Ermita Tower",
+            "es": "Torre de la Ermita"
           },
           "coords": [
             1.0535,
@@ -36,7 +37,8 @@
             "de": "Besteigen Sie den Turm für eine tolle Aussicht.",
             "hu": "Mássz fel a toronyba a városi panorámáért.",
             "ro": "Urcați în turn pentru o panoramă superbă.",
-            "en": "Climb the tower for a great view of the town."
+            "en": "Climb the tower for a great view of the town.",
+            "es": "Sube a la torre para una gran vista del pueblo."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Villa Romana de la Llosa",
             "hu": "Llosa római villa",
             "ro": "Vila Romană de la Llosa",
-            "en": "La Llosa Roman Villa"
+            "en": "La Llosa Roman Villa",
+            "es": "Villa romana de La Llosa"
           },
           "coords": [
             1.0555,
@@ -59,7 +62,8 @@
             "de": "Gut erhaltene römische Mosaike.",
             "hu": "Kiváló állapotban maradt római mozaikok.",
             "ro": "Mozaicuri romane bine conservate.",
-            "en": "Well-preserved Roman mosaics."
+            "en": "Well-preserved Roman mosaics.",
+            "es": "Mosaicos romanos bien conservados."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Museu de la Torre del Port",
             "hu": "Kikötői Torony Múzeum",
             "ro": "Muzeul Turnului Portului",
-            "en": "Port Tower Museum"
+            "en": "Port Tower Museum",
+            "es": "Museo Torre del Port"
           },
           "coords": [
             1.0615,
@@ -82,7 +87,8 @@
             "de": "Erfahren Sie mehr über die Fischereigeschichte.",
             "hu": "Ismerd meg a helyi halászat történetét.",
             "ro": "Aflați mai multe despre istoria pescuitului.",
-            "en": "Learn about the local fishing history."
+            "en": "Learn about the local fishing history.",
+            "es": "Conoce la historia pesquera local."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Parc del Pescador",
             "hu": "Halászok parkja",
             "ro": "Parcul Pescarului",
-            "en": "Fisherman's Park"
+            "en": "Fisherman's Park",
+            "es": "Parque del Pescador"
           },
           "coords": [
             1.0635,
@@ -105,7 +112,8 @@
             "de": "Perfekt für eine Mittagspause im Schatten.",
             "hu": "Tökéletes hely egy árnyékos ebédszünethez.",
             "ro": "Locul perfect pentru o pauză de prânz la umbră.",
-            "en": "Perfect spot for a shaded lunch break."
+            "en": "Perfect spot for a shaded lunch break.",
+            "es": "Lugar perfecto para un almuerzo a la sombra."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Port de Cambrils",
             "hu": "Cambrils kikötője",
             "ro": "Portul Cambrils",
-            "en": "Cambrils Port"
+            "en": "Cambrils Port",
+            "es": "Puerto de Cambrils"
           },
           "coords": [
             1.0625,
@@ -128,7 +137,8 @@
             "de": "Beobachten Sie die ankommenden Fischerboote.",
             "hu": "Figyeld meg a kikötőbe érkező halászhajókat.",
             "ro": "Urmăriți bărcile de pescuit care sosesc.",
-            "en": "Watch the fishing boats returning to port."
+            "en": "Watch the fishing boats returning to port.",
+            "es": "Observa las barcas pesqueras regresando al puerto."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Platja del Regueral",
             "hu": "Regueral strand",
             "ro": "Plaja Regueral",
-            "en": "Regueral Beach"
+            "en": "Regueral Beach",
+            "es": "Playa del Regueral"
           },
           "coords": [
             1.0685,
@@ -151,7 +162,8 @@
             "de": "Genießen Sie den Sonnenuntergang am Meer.",
             "hu": "Élvezd a naplementét a tengerparton.",
             "ro": "Bucurați-vă de apusul de soare la malul mării.",
-            "en": "Enjoy the sunset by the sea."
+            "en": "Enjoy the sunset by the sea.",
+            "es": "Disfruta de la puesta de sol junto al mar."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag im historischen Zentrum von Cambrils bei der Torre de l'Ermita, einem Wachturm aus dem 14. Jahrhundert. Danach tauchen Sie in der Villa Romana de la Llosa in die römische Vergangenheit der Region ein. Zum Mittagessen spazieren Sie zum Hafen.\n\nAm Nachmittag erkunden Sie das Schifffahrtsmuseum im Torre del Port und genießen die grüne Oase des Parc del Pescador. Der Hafenbereich ist das pulsierende Herz der Stadt, wo Tradition auf Moderne trifft.\n\nLassen Sie den Tag entspannt an der Platja del Regueral ausklingen, dem Hauptstrand von Cambrils mit feinem Sand und kristallklarem Wasser. Die Promenade bietet zahlreiche Cafés für einen Drink am Abend.",
         "hu": "Kezdje a napot Cambrils történelmi magjában a Torre de l'Ermita toronynál, majd fedezze fel a La Llosa római villa lenyűgöző romjait. Ez a séta bemutatja a város középkori védelmi rendszerét és ókori gyökereit is.\n\nDélután látogasson el a kikötői torony múzeumába, ahol a tengeri életmód emlékeit őrzik, majd pihenjen meg a Halászok parkjának árnyas fái alatt. A kikötői séta során láthatja a helyi halászok mindennapjait.\n\nA napot a Platja del Regueral homokos partján zárja, amely Cambrils legnépszerűbb strandja. Itt megmártózhat a tengerben vagy egy koktéllal a kezében élvezheti a mediterrán alkonyt a sétányon.",
         "ro": "Începeți ziua în centrul istoric la Torre de l'Ermita, un turn de veghe medieval, apoi explorați vestigiile romane de la Villa de la Llosa. Această plimbare vă poartă prin istoria bogată a orașului Cambrils.\n\nDupă-amiaza este dedicată zonei portuare, vizitând muzeul din Torre del Port și relaxându-vă în Parcul Pescarului. Portul este locul ideal pentru a observa viața locală și tradiția pescărească bine păstrată.\n\nÎncheiați ziua pe Platja del Regueral, cea mai populară plajă din oraș. Nisipul fin și apa caldă sunt perfecte pentru o baie târzie, urmată de o cină cu fructe de mare la unul dintre restaurantele de pe faleză.",
-        "en": "Start your day in the historic heart of Cambrils at the Ermita Tower, then explore the ancient Roman ruins of Villa de la Llosa. This walk showcases the transition from ancient history to medieval defense.\n\nIn the afternoon, head to the port to visit the maritime museum in the Port Tower and enjoy the lush greenery of the Fisherman's Park. The harbor area is perfect for feeling the authentic coastal atmosphere.\n\nFinish your journey at Regueral Beach, the city's main stretch of sand. It's the ideal spot for a refreshing swim or simply watching the sunset over the Mediterranean with a drink in hand."
+        "en": "Start your day in the historic heart of Cambrils at the Ermita Tower, then explore the ancient Roman ruins of Villa de la Llosa. This walk showcases the transition from ancient history to medieval defense.\n\nIn the afternoon, head to the port to visit the maritime museum in the Port Tower and enjoy the lush greenery of the Fisherman's Park. The harbor area is perfect for feeling the authentic coastal atmosphere.\n\nFinish your journey at Regueral Beach, the city's main stretch of sand. It's the ideal spot for a refreshing swim or simply watching the sunset over the Mediterranean with a drink in hand.",
+        "es": "Comienza el día en el corazón histórico de Cambrils en la Torre de la Ermita, luego explora las antiguas ruinas romanas de la Villa de la Llosa. Este paseo muestra la transición de la historia antigua a la defensa medieval.\n\nPor la tarde, dirígete al puerto para visitar el museo marítimo en la Torre del Port y disfruta de la frondosidad del Parque del Pescador. La zona del puerto es perfecta para sentir la auténtica atmósfera costera.\n\nTermina tu recorrido en la Playa del Regueral, el principal tramo de arena de la ciudad. Es el lugar ideal para un baño refrescante o simplemente ver la puesta de sol sobre el Mediterráneo con una bebida en la mano."
       },
       "gastro_picks": {
         "de": [
@@ -319,6 +332,12 @@
           "Wear comfortable shoes for the old town streets.",
           "The fish auction at the port is a unique sight.",
           "Book your restaurant table in advance."
+        ],
+        "es": [
+          "Cambrils es la capital culinaria de la Costa Daurada.",
+          "Lleva calzado cómodo para las calles del casco antiguo.",
+          "La subasta de pescado en el puerto es un espectáculo único.",
+          "Reserva tu mesa en el restaurante con antelación."
         ]
       },
       "variants": {
@@ -327,7 +346,8 @@
             "de": "Beginnen Sie Ihren Tag im historischen Zentrum von Cambrils bei der Torre de l'Ermita, einem Wachturm aus dem 14. Jahrhundert. Danach tauchen Sie in der Villa Romana de la Llosa in die römische Vergangenheit der Region ein. Zum Mittagessen spazieren Sie zum Hafen.\n\nAm Nachmittag erkunden Sie das Schifffahrtsmuseum im Torre del Port und genießen die grüne Oase des Parc del Pescador. Der Hafenbereich ist das pulsierende Herz der Stadt, wo Tradition auf Moderne trifft.\n\nLassen Sie den Tag entspannt an der Platja del Regueral ausklingen, dem Hauptstrand von Cambrils mit feinem Sand und kristallklarem Wasser. Die Promenade bietet zahlreiche Cafés für einen Drink am Abend.",
             "hu": "Kezdje a napot Cambrils történelmi magjában a Torre de l'Ermita toronynál, majd fedezze fel a La Llosa római villa lenyűgöző romjait. Ez a séta bemutatja a város középkori védelmi rendszerét és ókori gyökereit is.\n\nDélután látogasson el a kikötői torony múzeumába, ahol a tengeri életmód emlékeit őrzik, majd pihenjen meg a Halászok parkjának árnyas fái alatt. A kikötői séta során láthatja a helyi halászok mindennapjait.\n\nA napot a Platja del Regueral homokos partján zárja, amely Cambrils legnépszerűbb strandja. Itt megmártózhat a tengerben vagy egy koktéllal a kezében élvezheti a mediterrán alkonyt a sétányon.",
             "ro": "Începeți ziua în centrul istoric la Torre de l'Ermita, un turn de veghe medieval, apoi explorați vestigiile romane de la Villa de la Llosa. Această plimbare vă poartă prin istoria bogată a orașului Cambrils.\n\nDupă-amiaza este dedicată zonei portuare, vizitând muzeul din Torre del Port și relaxându-vă în Parcul Pescarului. Portul este locul ideal pentru a observa viața locală și tradiția pescărească bine păstrată.\n\nÎncheiați ziua pe Platja del Regueral, cea mai populară plajă din oraș. Nisipul fin și apa caldă sunt perfecte pentru o baie târzie, urmată de o cină cu fructe de mare la unul dintre restaurantele de pe faleză.",
-            "en": "Start your day in the historic heart of Cambrils at the Ermita Tower, then explore the ancient Roman ruins of Villa de la Llosa. This walk showcases the transition from ancient history to medieval defense.\n\nIn the afternoon, head to the port to visit the maritime museum in the Port Tower and enjoy the lush greenery of the Fisherman's Park. The harbor area is perfect for feeling the authentic coastal atmosphere.\n\nFinish your journey at Regueral Beach, the city's main stretch of sand. It's the ideal spot for a refreshing swim or simply watching the sunset over the Mediterranean with a drink in hand."
+            "en": "Start your day in the historic heart of Cambrils at the Ermita Tower, then explore the ancient Roman ruins of Villa de la Llosa. This walk showcases the transition from ancient history to medieval defense.\n\nIn the afternoon, head to the port to visit the maritime museum in the Port Tower and enjoy the lush greenery of the Fisherman's Park. The harbor area is perfect for feeling the authentic coastal atmosphere.\n\nFinish your journey at Regueral Beach, the city's main stretch of sand. It's the ideal spot for a refreshing swim or simply watching the sunset over the Mediterranean with a drink in hand.",
+            "es": "Comienza el día en el corazón histórico de Cambrils en la Torre de la Ermita, luego explora las antiguas ruinas romanas de la Villa de la Llosa. Este paseo muestra la transición de la historia antigua a la defensa medieval.\n\nPor la tarde, dirígete al puerto para visitar el museo marítimo en la Torre del Port y disfruta de la frondosidad del Parque del Pescador. La zona del puerto es perfecta para sentir la auténtica atmósfera costera.\n\nTermina tu recorrido en la Playa del Regueral, el principal tramo de arena de la ciudad. Es el lugar ideal para un baño refrescante o simplemente ver la puesta de sol sobre el Mediterráneo con una bebida en la mano."
           },
           "stops": [
             {
@@ -335,13 +355,15 @@
                 "de": "Torre de l'Ermita",
                 "hu": "Remete-torony",
                 "ro": "Torre de l'Ermita",
-                "en": "Ermita Tower"
+                "en": "Ermita Tower",
+                "es": "Torre de la Ermita"
               },
               "tip_5lang": {
                 "de": "Besteigen Sie den Turm für eine tolle Aussicht.",
                 "hu": "Mássz fel a toronyba a városi panorámáért.",
                 "ro": "Urcați în turn pentru o panoramă superbă.",
-                "en": "Climb the tower for a great view of the town."
+                "en": "Climb the tower for a great view of the town.",
+                "es": "Sube a la torre para una gran vista del pueblo."
               }
             },
             {
@@ -349,13 +371,15 @@
                 "de": "Villa Romana de la Llosa",
                 "hu": "Llosa római villa",
                 "ro": "Vila Romană de la Llosa",
-                "en": "La Llosa Roman Villa"
+                "en": "La Llosa Roman Villa",
+                "es": "Villa romana de La Llosa"
               },
               "tip_5lang": {
                 "de": "Gut erhaltene römische Mosaike.",
                 "hu": "Kiváló állapotban maradt római mozaikok.",
                 "ro": "Mozaicuri romane bine conservate.",
-                "en": "Well-preserved Roman mosaics."
+                "en": "Well-preserved Roman mosaics.",
+                "es": "Mosaicos romanos bien conservados."
               }
             },
             {
@@ -363,13 +387,15 @@
                 "de": "Museu de la Torre del Port",
                 "hu": "Kikötői Torony Múzeum",
                 "ro": "Muzeul Turnului Portului",
-                "en": "Port Tower Museum"
+                "en": "Port Tower Museum",
+                "es": "Museo Torre del Port"
               },
               "tip_5lang": {
                 "de": "Erfahren Sie mehr über die Fischereigeschichte.",
                 "hu": "Ismerd meg a helyi halászat történetét.",
                 "ro": "Aflați mai multe despre istoria pescuitului.",
-                "en": "Learn about the local fishing history."
+                "en": "Learn about the local fishing history.",
+                "es": "Conoce la historia pesquera local."
               }
             },
             {
@@ -377,13 +403,15 @@
                 "de": "Parc del Pescador",
                 "hu": "Halászok parkja",
                 "ro": "Parcul Pescarului",
-                "en": "Fisherman's Park"
+                "en": "Fisherman's Park",
+                "es": "Parque del Pescador"
               },
               "tip_5lang": {
                 "de": "Perfekt für eine Mittagspause im Schatten.",
                 "hu": "Tökéletes hely egy árnyékos ebédszünethez.",
                 "ro": "Locul perfect pentru o pauză de prânz la umbră.",
-                "en": "Perfect spot for a shaded lunch break."
+                "en": "Perfect spot for a shaded lunch break.",
+                "es": "Lugar perfecto para un almuerzo a la sombra."
               }
             },
             {
@@ -391,13 +419,15 @@
                 "de": "Port de Cambrils",
                 "hu": "Cambrils kikötője",
                 "ro": "Portul Cambrils",
-                "en": "Cambrils Port"
+                "en": "Cambrils Port",
+                "es": "Puerto de Cambrils"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die ankommenden Fischerboote.",
                 "hu": "Figyeld meg a kikötőbe érkező halászhajókat.",
                 "ro": "Urmăriți bărcile de pescuit care sosesc.",
-                "en": "Watch the fishing boats returning to port."
+                "en": "Watch the fishing boats returning to port.",
+                "es": "Observa las barcas pesqueras regresando al puerto."
               }
             },
             {
@@ -405,13 +435,15 @@
                 "de": "Platja del Regueral",
                 "hu": "Regueral strand",
                 "ro": "Plaja Regueral",
-                "en": "Regueral Beach"
+                "en": "Regueral Beach",
+                "es": "Playa del Regueral"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Sonnenuntergang am Meer.",
                 "hu": "Élvezd a naplementét a tengerparton.",
                 "ro": "Bucurați-vă de apusul de soare la malul mării.",
-                "en": "Enjoy the sunset by the sea."
+                "en": "Enjoy the sunset by the sea.",
+                "es": "Disfruta de la puesta de sol junto al mar."
               }
             }
           ],
@@ -573,6 +605,12 @@
               "Wear comfortable shoes for the old town streets.",
               "The fish auction at the port is a unique sight.",
               "Book your restaurant table in advance."
+            ],
+            "es": [
+              "Cambrils es la capital culinaria de la Costa Daurada.",
+              "Lleva calzado cómodo para las calles del casco antiguo.",
+              "La subasta de pescado en el puerto es un espectáculo único.",
+              "Reserva tu mesa en el restaurante con antelación."
             ]
           }
         },
@@ -581,7 +619,8 @@
             "de": "Morgens bietet der Ermita-Turm Schutz vor den ersten Tropfen. Mittags erkunden Sie die überdachten römischen Ausgrabungen der Villa La Llosa, ideal bei Regen.\nNachmittags ist das Turmmuseum am Hafen der perfekte trockene Ort für Geschichte. Abends genießen Sie die maritime Atmosphäre Cambrils' unter dem Regenschirm bei einem Spaziergang am Hafen.",
             "hu": "Reggel az Ermita-torony falai között találunk menedéket a szitáló eső elől. Délben a La Llosa római villa fedett részeit járjuk be, ahol a mozaikok esőben is megtekinthetők.\nDélután a kikötői toronymúzeum zárt terei nyújtanak száraz programot a történelem kedvelőinek. Este a kikötő környékén sétálunk, ahol a vizes aszfalton megcsillannak a parti fények.",
             "ro": "Dimineața, Turnul Ermita oferă un adăpost istoric împotriva ploii de coastă. La prânz, explorăm zonele acoperite ale Vilei Romane La Llosa, feriți de intemperii.\nDupă-amiaza, Muzeul Turnului Portului este refugiul ideal pentru a descoperi trecutul pescăresc. Seara, încheiem ziua cu o plimbare scurtă în port, admirând reflexiile luminilor în apă.",
-            "en": "Morning starts at Ermita Tower, providing a quick escape from coastal showers. At noon, the covered sections of La Llosa Roman Villa keep you dry while exploring ancient ruins.\nAfternoon is best spent inside the Port Tower Museum, safe from the rain. In the evening, the harbor lights create a beautiful atmosphere on the wet pavement near the docks."
+            "en": "Morning starts at Ermita Tower, providing a quick escape from coastal showers. At noon, the covered sections of La Llosa Roman Villa keep you dry while exploring ancient ruins.\nAfternoon is best spent inside the Port Tower Museum, safe from the rain. In the evening, the harbor lights create a beautiful atmosphere on the wet pavement near the docks.",
+            "es": "La mañana comienza en la Torre de la Ermita, ofreciendo un rápido refugio ante chaparrones costeros. Al mediodía, los tramos cubiertos de la Villa romana de La Llosa te mantienen seco mientras exploras las ruinas.\nLa tarde se disfruta mejor en el interior del Museo Torre del Port, a salvo de la lluvia. Por la noche, las luces del puerto crean una hermosa atmósfera en el pavimento mojado cerca de los muelles."
           },
           "stops": [
             {
@@ -590,7 +629,8 @@
                 "de": "Der Turm bietet guten Schutz bei plötzlichen Schauern.",
                 "hu": "A torony belső terei kiváló menedéket nyújtanak zápor esetén.",
                 "ro": "Turnul oferă un adăpost solid în caz de ploaie bruscă.",
-                "en": "The tower interior offers good shelter during sudden showers."
+                "en": "The tower interior offers good shelter during sudden showers.",
+                "es": "El interior de la torre ofrece buen refugio durante chubascos repentinos."
               }
             },
             {
@@ -599,7 +639,8 @@
                 "de": "Die wichtigsten Ausgrabungen sind zum Schutz überdacht.",
                 "hu": "A legfontosabb ásatási területek tetővel védettek.",
                 "ro": "Principalele situri arheologice sunt protejate de acoperiș.",
-                "en": "The main archaeological sites are covered for protection."
+                "en": "The main archaeological sites are covered for protection.",
+                "es": "Los principales yacimientos arqueológicos están cubiertos para su protección."
               }
             },
             {
@@ -608,7 +649,8 @@
                 "de": "Perfekter Ort, um die Regenpause kulturell zu nutzen.",
                 "hu": "Tökéletes helyszín a kulturált esőbeállónak.",
                 "ro": "Locul perfect pentru o pauză culturală ferită de ploaie.",
-                "en": "Perfect spot to wait out the rain while exploring history."
+                "en": "Perfect spot to wait out the rain while exploring history.",
+                "es": "Lugar perfecto para esperar a que pase la lluvia mientras exploras la historia."
               }
             },
             {
@@ -617,7 +659,8 @@
                 "de": "Die dichten Bäume bieten etwas Schutz bei leichtem Regen.",
                 "hu": "A sűrű lombozat némi védelmet nyújt szemerkélő esőben.",
                 "ro": "Copacii deși oferă o protecție parțială împotriva burniței.",
-                "en": "The dense foliage provides some cover during light drizzle."
+                "en": "The dense foliage provides some cover during light drizzle.",
+                "es": "La densa arboleda proporciona cierta cobertura durante lloviznas ligeras."
               }
             },
             {
@@ -626,7 +669,8 @@
                 "de": "Vorsicht, die Hafenmauer kann bei Nässe rutschig sein.",
                 "hu": "Vigyázat, a móló kövezete nedvesen csúszóssá válhat.",
                 "ro": "Atenție, digul portului poate fi alunecos când este ud.",
-                "en": "Careful, the pier surfaces can be slippery when wet."
+                "en": "Careful, the pier surfaces can be slippery when wet.",
+                "es": "Cuidado, las superficies del espigón pueden estar resbaladizas cuando están mojadas."
               }
             },
             {
@@ -635,7 +679,8 @@
                 "de": "Die Cafés an der Promenade bieten trockene Plätze mit Meerblick.",
                 "hu": "A sétány kávézói száraz helyet kínálnak tengeri kilátással.",
                 "ro": "Cafenelele de pe faleză oferă locuri uscate cu vedere la mare.",
-                "en": "Promenade cafes offer dry seating with great sea views."
+                "en": "Promenade cafes offer dry seating with great sea views.",
+                "es": "Los cafés del paseo ofrecen asientos secos con excelentes vistas al mar."
               }
             }
           ],
@@ -663,6 +708,12 @@
               "Local museums are your best bet during persistent rain.",
               "A windproof umbrella is essential due to coastal gusts.",
               "Utilize the old town arcades as natural rain shelters."
+            ],
+            "es": [
+              "Lleva calzado antideslizante para los paseos húmedos del puerto.",
+              "Los museos locales son la mejor opción durante lluvias persistentes.",
+              "Un paraguas resistente al viento es imprescindible por las rachas costeras.",
+              "Aprovecha los soportales del casco antiguo como refugios naturales de la lluvia."
             ]
           }
         },
@@ -671,7 +722,8 @@
             "de": "Morgens erkunden Sie den Ermita-Turm in der klaren, kühlen Winterluft. Mittags wärmt die milde Wintersonne Ihren Besuch der Villa La Llosa.\nNachmittags tauchen Sie im Turmmuseum in die Geschichte ein, bevor es früh dunkel wird. Abends genießen Sie das festlich beleuchtete Cambrils und einen heißen Tee im Hafenviertel.",
             "hu": "Reggel a friss, hűvös téli levegőben látogatjuk meg az Ermita-tornyot. Délben a gyenge téli napsütés kellemesebbé teszi a La Llosa villa romjainak bejárását.\nDélután a kikötői múzeumban melegszünk fel, figyelembe véve a korai naplementét. Este a kikötő fényeiben gyönyörködünk, egy forró ital társaságában valamelyik parti bárban.",
             "ro": "Dimineața, explorăm Turnul Ermita în aerul rece și curat de iarnă. La prânz, soarele blând de iarnă face vizita la Vila La Llosa foarte plăcută.\nDupă-amiaza ne încălzim în Muzeul Turnului înainte de apusul devreme. Seara admirăm luminile festive din port și savurăm o băutură caldă la o terasă încălzită.",
-            "en": "Morning starts with a crisp walk to Ermita Tower in the cool winter air. At noon, the mild Mediterranean sun warms your visit to the Roman ruins of La Llosa.\nAfternoon is perfect for the indoor museum at the port before the early winter dusk. In the evening, enjoy the beautifully lit harbor and a warm drink in the port district."
+            "en": "Morning starts with a crisp walk to Ermita Tower in the cool winter air. At noon, the mild Mediterranean sun warms your visit to the Roman ruins of La Llosa.\nAfternoon is perfect for the indoor museum at the port before the early winter dusk. In the evening, enjoy the beautifully lit harbor and a warm drink in the port district.",
+            "es": "La mañana comienza con una caminata refrescante hasta la Torre de la Ermita en el frío aire invernal. Al mediodía, el suave sol mediterráneo calienta la visita a las ruinas romanas de La Llosa.\nLa tarde es perfecta para el museo cubierto en el puerto antes del anochecer temprano de invierno. Por la noche, disfruta del puerto iluminado y de una bebida caliente en el barrio portuario."
           },
           "stops": [
             {
@@ -680,7 +732,8 @@
                 "de": "Die Aussicht ist bei klarer Winterluft besonders weit.",
                 "hu": "A kilátás a tiszta téli levegőben különösen messzire ér.",
                 "ro": "Vizibilitatea este excelentă în aerul curat de iarnă.",
-                "en": "Visibility is exceptional in the clear winter air."
+                "en": "Visibility is exceptional in the clear winter air.",
+                "es": "La visibilidad es excepcional en el aire claro de invierno."
               }
             },
             {
@@ -689,7 +742,8 @@
                 "de": "Mittags ist es hier durch die direkte Sonne am wärmsten.",
                 "hu": "Délidőben, a közvetlen napsütésben itt a legmelegebb.",
                 "ro": "La prânz este cel mai cald aici datorită expunerii la soare.",
-                "en": "Noontime sun makes this the warmest part of the day here."
+                "en": "Noontime sun makes this the warmest part of the day here.",
+                "es": "El sol del mediodía convierte este momento en la parte más cálida del día aquí."
               }
             },
             {
@@ -698,7 +752,8 @@
                 "de": "Guter Ort, um sich zwischen den Spaziergängen aufzuwärmen.",
                 "hu": "Jó helyszín a felmelegedésre a két séta között.",
                 "ro": "Un loc bun pentru a te încălzi între plimbări.",
-                "en": "A great place to warm up between outdoor segments."
+                "en": "A great place to warm up between outdoor segments.",
+                "es": "Un buen lugar para entrar en calor entre tramos al aire libre."
               }
             },
             {
@@ -707,7 +762,8 @@
                 "de": "Die Wintersonne erreicht hier auch die schattigen Bänke.",
                 "hu": "A téli nap sugarai itt még az árnyékos padokat is elérik.",
                 "ro": "Soarele de iarnă ajunge chiar și pe băncile umbroase.",
-                "en": "Winter sun reaches even the usually shaded benches now."
+                "en": "Winter sun reaches even the usually shaded benches now.",
+                "es": "El sol de invierno llega incluso a los bancos que suelen estar a la sombra."
               }
             },
             {
@@ -716,7 +772,8 @@
                 "de": "Der Sonnenuntergang ist im Winter bereits gegen 17:30 Uhr.",
                 "hu": "A naplemente télen már 17:30 körül bekövetkezik.",
                 "ro": "Apusul de soare are loc deja în jurul orei 17:30 iarna.",
-                "en": "Sunset occurs as early as 5:30 PM during the winter months."
+                "en": "Sunset occurs as early as 5:30 PM during the winter months.",
+                "es": "El atardecer se produce a partir de las 17:30 durante los meses de invierno."
               }
             },
             {
@@ -725,7 +782,8 @@
                 "de": "Perfekt für einen erfrischenden Winterspaziergang am Meer.",
                 "hu": "Tökéletes helyszín egy frissítő téli tengerparti sétához.",
                 "ro": "Locație perfectă pentru o plimbare revigorantă pe plajă.",
-                "en": "Ideal location for a refreshing winter walk by the sea."
+                "en": "Ideal location for a refreshing winter walk by the sea.",
+                "es": "Ubicación ideal para un refrescante paseo invernal junto al mar."
               }
             }
           ],
@@ -753,6 +811,12 @@
               "Many harbor restaurants offer heated terraces even in winter.",
               "Schedule outdoor sightseeing for the warmer midday hours.",
               "The sun sets before 6:00 PM during the winter season."
+            ],
+            "es": [
+              "Vístete por capas para mantenerte abrigado contra la brisa marina.",
+              "Muchos restaurantes del puerto ofrecen terrazas climatizadas incluso en invierno.",
+              "Programa las visitas al aire libre para las horas más cálidas del mediodía.",
+              "El sol se pone antes de las 18:00 durante la temporada de invierno."
             ]
           }
         }
@@ -771,7 +835,8 @@
             "de": "Castell de Vilafortuny",
             "hu": "Vilafortuny kastély",
             "ro": "Castelul Vilafortuny",
-            "en": "Vilafortuny Castle"
+            "en": "Vilafortuny Castle",
+            "es": "Castillo de Vilafortuny"
           },
           "coords": [
             1.1021,
@@ -786,7 +851,8 @@
             "de": "Ein schönes Schloss am Stadtrand.",
             "hu": "Gyönyörű kastély a város szélén.",
             "ro": "Un castel frumos la marginea orașului.",
-            "en": "A beautiful castle on the outskirts."
+            "en": "A beautiful castle on the outskirts.",
+            "es": "Un hermoso castillo en las afueras."
           }
         },
         {
@@ -794,7 +860,8 @@
             "de": "Torre de l'Esquirol",
             "hu": "Mókus-torony",
             "ro": "Torre de l'Esquirol",
-            "en": "Esquirol Tower"
+            "en": "Esquirol Tower",
+            "es": "Torre Esquirol"
           },
           "coords": [
             1.0855,
@@ -809,7 +876,8 @@
             "de": "Historischer Telegrafenturm direkt am Meer.",
             "hu": "Történelmi távírótorony közvetlenül a parton.",
             "ro": "Turn istoric de telegraf chiar pe malul mării.",
-            "en": "Historic telegraph tower right by the sea."
+            "en": "Historic telegraph tower right by the sea.",
+            "es": "Torre telegráfica histórica junto al mar."
           }
         },
         {
@@ -817,7 +885,8 @@
             "de": "Platja del Regueral",
             "hu": "Regueral strand",
             "ro": "Plaja Regueral",
-            "en": "Regueral Beach"
+            "en": "Regueral Beach",
+            "es": "Playa del Regueral"
           },
           "coords": [
             1.0685,
@@ -832,7 +901,8 @@
             "de": "Perfekt für eine Erfrischung während der Tour.",
             "hu": "Tökéletes felfrissülés a túra közben.",
             "ro": "Perfect pentru o răcorire în timpul turului.",
-            "en": "Perfect for a quick swim during the ride."
+            "en": "Perfect for a quick swim during the ride.",
+            "es": "Perfecta para un baño rápido durante la ruta."
           }
         },
         {
@@ -840,7 +910,8 @@
             "de": "Port de Cambrils",
             "hu": "Cambrils kikötője",
             "ro": "Portul Cambrils",
-            "en": "Cambrils Port"
+            "en": "Cambrils Port",
+            "es": "Puerto de Cambrils"
           },
           "coords": [
             1.0625,
@@ -855,7 +926,8 @@
             "de": "Stellen Sie das Rad ab und genießen Sie Tapas.",
             "hu": "Tedd le a biciklit és egyél pár tapast.",
             "ro": "Lăsați bicicleta și savurați câteva tapas.",
-            "en": "Park your bike and enjoy some tapas."
+            "en": "Park your bike and enjoy some tapas.",
+            "es": "Aparca la bici y disfruta de unas tapas."
           }
         },
         {
@@ -863,7 +935,8 @@
             "de": "Mare de Déu del Camí",
             "hu": "Úti Szűzanya templom",
             "ro": "Biserica Mare de Déu del Camí",
-            "en": "Mare de Déu del Camí Church"
+            "en": "Mare de Déu del Camí Church",
+            "es": "Iglesia Mare de Déu del Camí"
           },
           "coords": [
             1.0538,
@@ -878,7 +951,8 @@
             "de": "Wichtiger Wallfahrtsort mit schöner Fassade.",
             "hu": "Fontos zarándokhely szép homlokzattal.",
             "ro": "Loc de pelerinaj important cu fațadă frumoasă.",
-            "en": "Important pilgrimage site with a nice facade."
+            "en": "Important pilgrimage site with a nice facade.",
+            "es": "Lugar importante de peregrinación con una bonita fachada."
           }
         },
         {
@@ -886,7 +960,8 @@
             "de": "Villa Romana de la Llosa",
             "hu": "Llosa római villa",
             "ro": "Vila Romană de la Llosa",
-            "en": "La Llosa Roman Villa"
+            "en": "La Llosa Roman Villa",
+            "es": "Villa Romana de La Llosa"
           },
           "coords": [
             1.0555,
@@ -901,7 +976,8 @@
             "de": "Archäologischer Park im Freien.",
             "hu": "Szabadtéri régészeti park.",
             "ro": "Parc arheologic în aer liber.",
-            "en": "Open-air archaeological park."
+            "en": "Open-air archaeological park.",
+            "es": "Parque arqueológico al aire libre."
           }
         },
         {
@@ -909,7 +985,8 @@
             "de": "Parc del Pescador",
             "hu": "Halászok parkja",
             "ro": "Parcul Pescarului",
-            "en": "Fisherman's Park"
+            "en": "Fisherman's Park",
+            "es": "Parque del Pescador"
           },
           "coords": [
             1.0635,
@@ -924,7 +1001,8 @@
             "de": "Kühler Ausklang der Radtour.",
             "hu": "Hűsítő pihenő a túra végén.",
             "ro": "Final răcoros al turului cu bicicleta.",
-            "en": "Cool finish to your cycling tour."
+            "en": "Cool finish to your cycling tour.",
+            "es": "Final fresco para tu ruta en bicicleta."
           }
         }
       ],
@@ -932,7 +1010,8 @@
         "de": "Erkunden Sie die Küste von Cambrils mit dem Fahrrad auf dem flachen und sicheren Radweg. Starten Sie beim Schloss Vilafortuny im Osten und radeln Sie westwärts vorbei an historischen Wachtürmen.\n\nNach einer Mittagspause am lebhaften Hafen führt die Route landeinwärts zur Wallfahrtskirche Mare de Déu del Camí und den römischen Ruinen. Die Mischung aus Meeresbrise und Geschichte macht diese Tour besonders reizvoll.\n\nBeenden Sie Ihre Fahrt im Fischerpark, wo Sie im Schatten der mediterranen Bäume entspannen können. Cambrils ist ideal für Radfahrer, da fast die gesamte Küste durch Wege verbunden ist.",
         "hu": "Fedezze fel Cambrils partvonalát kerékpárral a lapos és biztonságos kerékpárúton. Kezdje a Vilafortuny kastélynál keleten, majd tekerjen nyugat felé a tengerparti őrtornyok mellett.\n\nA kikötői ebédszünet után az útvonal a szárazföld felé kanyarodik az Úti Szűzanya templomhoz és a római romokhoz. A tengeri szellő és a történelmi látnivalók kombinációja teszi ezt a túrát felejthetetlenné.\n\nA túrát a Halászok parkjában fejezze be, ahol a mediterrán fák árnyékában pihenhet meg. Cambrils ideális a bringásoknak, mivel szinte a teljes part mentén kiépített utak vannak.",
         "ro": "Explorați coasta orașului Cambrils cu bicicleta pe pistele plate și sigure. Începeți de la Castelul Vilafortuny în est și pedalați spre vest, trecând pe lângă turnurile istorice de veghe de pe malul mării.\n\nDupă prânzul în portul plin de viață, traseul se îndreaptă spre interiorul orașului, către biserica Mare de Déu del Camí și vestigiile romane. Briza mării și istoria fac din acest tur o experiență relaxantă.\n\nÎncheiați plimbarea în Parcul Pescarului, unde vă puteți odihni la umbra copacilor mediteraneeni. Cambrils este ideal pentru bicicliști, coasta fiind legată aproape integral prin piste.",
-        "en": "Explore the coast of Cambrils by bike using the flat and safe cycling paths. Start at Vilafortuny Castle in the east and pedal westwards past historic watchtowers along the sea.\n\nAfter a lunch break at the bustling port, the route heads inland to the Mare de Déu del Camí sanctuary and the Roman ruins. The mix of sea breeze and history makes this ride very enjoyable.\n\nFinish your trip at the Fisherman's Park, relaxing in the shade of Mediterranean trees. Cambrils is perfect for cyclists as almost the entire coastline is connected by dedicated paths."
+        "en": "Explore the coast of Cambrils by bike using the flat and safe cycling paths. Start at Vilafortuny Castle in the east and pedal westwards past historic watchtowers along the sea.\n\nAfter a lunch break at the bustling port, the route heads inland to the Mare de Déu del Camí sanctuary and the Roman ruins. The mix of sea breeze and history makes this ride very enjoyable.\n\nFinish your trip at the Fisherman's Park, relaxing in the shade of Mediterranean trees. Cambrils is perfect for cyclists as almost the entire coastline is connected by dedicated paths.",
+        "es": "Explora la costa de Cambrils en bicicleta usando los carriles planos y seguros. Comienza en el Castillo de Vilafortuny al este y pedalea hacia el oeste pasando torres de vigilancia históricas junto al mar.\n\nTras la pausa para comer en el animado puerto, la ruta se dirige hacia el interior al santuario Mare de Déu del Camí y las ruinas romanas. La mezcla de brisa marina e historia hace este paseo muy agradable.\n\nTermina el recorrido en el Parque del Pescador, relajándote a la sombra de los árboles mediterráneos. Cambrils es perfecto para ciclistas, ya que casi toda la costa está conectada por vías dedicadas."
       },
       "gastro_picks": {
         "de": [
@@ -1092,6 +1171,12 @@
           "Watch out for pedestrians in the port area.",
           "Bike rentals are available at the port and many hotels.",
           "Always lock your bike when parking."
+        ],
+        "es": [
+          "Los carriles bici suelen estar separados de las zonas peatonales.",
+          "Ten cuidado con los peatones en la zona del puerto.",
+          "Alquiler de bicicletas disponible en el puerto y en muchos hoteles.",
+          "Siempre asegúrate de candar la bicicleta al aparcar."
         ]
       },
       "variants": {
@@ -1100,7 +1185,8 @@
             "de": "Erkunden Sie die Küste von Cambrils mit dem Fahrrad auf dem flachen und sicheren Radweg. Starten Sie beim Schloss Vilafortuny im Osten und radeln Sie westwärts vorbei an historischen Wachtürmen.\n\nNach einer Mittagspause am lebhaften Hafen führt die Route landeinwärts zur Wallfahrtskirche Mare de Déu del Camí und den römischen Ruinen. Die Mischung aus Meeresbrise und Geschichte macht diese Tour besonders reizvoll.\n\nBeenden Sie Ihre Fahrt im Fischerpark, wo Sie im Schatten der mediterranen Bäume entspannen können. Cambrils ist ideal für Radfahrer, da fast die gesamte Küste durch Wege verbunden ist.",
             "hu": "Fedezze fel Cambrils partvonalát kerékpárral a lapos és biztonságos kerékpárúton. Kezdje a Vilafortuny kastélynál keleten, majd tekerjen nyugat felé a tengerparti őrtornyok mellett.\n\nA kikötői ebédszünet után az útvonal a szárazföld felé kanyarodik az Úti Szűzanya templomhoz és a római romokhoz. A tengeri szellő és a történelmi látnivalók kombinációja teszi ezt a túrát felejthetetlenné.\n\nA túrát a Halászok parkjában fejezze be, ahol a mediterrán fák árnyékában pihenhet meg. Cambrils ideális a bringásoknak, mivel szinte a teljes part mentén kiépített utak vannak.",
             "ro": "Explorați coasta orașului Cambrils cu bicicleta pe pistele plate și sigure. Începeți de la Castelul Vilafortuny în est și pedalați spre vest, trecând pe lângă turnurile istorice de veghe de pe malul mării.\n\nDupă prânzul în portul plin de viață, traseul se îndreaptă spre interiorul orașului, către biserica Mare de Déu del Camí și vestigiile romane. Briza mării și istoria fac din acest tur o experiență relaxantă.\n\nÎncheiați plimbarea în Parcul Pescarului, unde vă puteți odihni la umbra copacilor mediteraneeni. Cambrils este ideal pentru bicicliști, coasta fiind legată aproape integral prin piste.",
-            "en": "Explore the coast of Cambrils by bike using the flat and safe cycling paths. Start at Vilafortuny Castle in the east and pedal westwards past historic watchtowers along the sea.\n\nAfter a lunch break at the bustling port, the route heads inland to the Mare de Déu del Camí sanctuary and the Roman ruins. The mix of sea breeze and history makes this ride very enjoyable.\n\nFinish your trip at the Fisherman's Park, relaxing in the shade of Mediterranean trees. Cambrils is perfect for cyclists as almost the entire coastline is connected by dedicated paths."
+            "en": "Explore the coast of Cambrils by bike using the flat and safe cycling paths. Start at Vilafortuny Castle in the east and pedal westwards past historic watchtowers along the sea.\n\nAfter a lunch break at the bustling port, the route heads inland to the Mare de Déu del Camí sanctuary and the Roman ruins. The mix of sea breeze and history makes this ride very enjoyable.\n\nFinish your trip at the Fisherman's Park, relaxing in the shade of Mediterranean trees. Cambrils is perfect for cyclists as almost the entire coastline is connected by dedicated paths.",
+            "es": "Explora la costa de Cambrils en bicicleta usando los carriles planos y seguros. Comienza en el Castillo de Vilafortuny al este y pedalea hacia el oeste pasando torres de vigilancia históricas junto al mar.\n\nTras la pausa para comer en el animado puerto, la ruta se dirige hacia el interior al santuario Mare de Déu del Camí y las ruinas romanas. La mezcla de brisa marina e historia hace este paseo muy agradable.\n\nTermina el recorrido en el Parque del Pescador, relajándote a la sombra de los árboles mediterráneos. Cambrils es perfecto para ciclistas, ya que casi toda la costa está conectada por vías dedicadas."
           },
           "stops": [
             {
@@ -1108,13 +1194,15 @@
                 "de": "Castell de Vilafortuny",
                 "hu": "Vilafortuny kastély",
                 "ro": "Castelul Vilafortuny",
-                "en": "Vilafortuny Castle"
+                "en": "Vilafortuny Castle",
+                "es": "Castillo de Vilafortuny"
               },
               "tip_5lang": {
                 "de": "Ein schönes Schloss am Stadtrand.",
                 "hu": "Gyönyörű kastély a város szélén.",
                 "ro": "Un castel frumos la marginea orașului.",
-                "en": "A beautiful castle on the outskirts."
+                "en": "A beautiful castle on the outskirts.",
+                "es": "Un hermoso castillo en las afueras."
               }
             },
             {
@@ -1122,13 +1210,15 @@
                 "de": "Torre de l'Esquirol",
                 "hu": "Mókus-torony",
                 "ro": "Torre de l'Esquirol",
-                "en": "Esquirol Tower"
+                "en": "Esquirol Tower",
+                "es": "Torre Esquirol"
               },
               "tip_5lang": {
                 "de": "Historischer Telegrafenturm direkt am Meer.",
                 "hu": "Történelmi távírótorony közvetlenül a parton.",
                 "ro": "Turn istoric de telegraf chiar pe malul mării.",
-                "en": "Historic telegraph tower right by the sea."
+                "en": "Historic telegraph tower right by the sea.",
+                "es": "Torre telegráfica histórica junto al mar."
               }
             },
             {
@@ -1136,13 +1226,15 @@
                 "de": "Platja del Regueral",
                 "hu": "Regueral strand",
                 "ro": "Plaja Regueral",
-                "en": "Regueral Beach"
+                "en": "Regueral Beach",
+                "es": "Playa del Regueral"
               },
               "tip_5lang": {
                 "de": "Perfekt für eine Erfrischung während der Tour.",
                 "hu": "Tökéletes felfrissülés a túra közben.",
                 "ro": "Perfect pentru o răcorire în timpul turului.",
-                "en": "Perfect for a quick swim during the ride."
+                "en": "Perfect for a quick swim during the ride.",
+                "es": "Perfecta para un baño rápido durante la ruta."
               }
             },
             {
@@ -1150,13 +1242,15 @@
                 "de": "Port de Cambrils",
                 "hu": "Cambrils kikötője",
                 "ro": "Portul Cambrils",
-                "en": "Cambrils Port"
+                "en": "Cambrils Port",
+                "es": "Puerto de Cambrils"
               },
               "tip_5lang": {
                 "de": "Stellen Sie das Rad ab und genießen Sie Tapas.",
                 "hu": "Tedd le a biciklit és egyél pár tapast.",
                 "ro": "Lăsați bicicleta și savurați câteva tapas.",
-                "en": "Park your bike and enjoy some tapas."
+                "en": "Park your bike and enjoy some tapas.",
+                "es": "Aparca la bici y disfruta de unas tapas."
               }
             },
             {
@@ -1164,13 +1258,15 @@
                 "de": "Mare de Déu del Camí",
                 "hu": "Úti Szűzanya templom",
                 "ro": "Biserica Mare de Déu del Camí",
-                "en": "Mare de Déu del Camí Church"
+                "en": "Mare de Déu del Camí Church",
+                "es": "Iglesia Mare de Déu del Camí"
               },
               "tip_5lang": {
                 "de": "Wichtiger Wallfahrtsort mit schöner Fassade.",
                 "hu": "Fontos zarándokhely szép homlokzattal.",
                 "ro": "Loc de pelerinaj important cu fațadă frumoasă.",
-                "en": "Important pilgrimage site with a nice facade."
+                "en": "Important pilgrimage site with a nice facade.",
+                "es": "Lugar importante de peregrinación con una bonita fachada."
               }
             },
             {
@@ -1178,13 +1274,15 @@
                 "de": "Villa Romana de la Llosa",
                 "hu": "Llosa római villa",
                 "ro": "Vila Romană de la Llosa",
-                "en": "La Llosa Roman Villa"
+                "en": "La Llosa Roman Villa",
+                "es": "Villa Romana de La Llosa"
               },
               "tip_5lang": {
                 "de": "Archäologischer Park im Freien.",
                 "hu": "Szabadtéri régészeti park.",
                 "ro": "Parc arheologic în aer liber.",
-                "en": "Open-air archaeological park."
+                "en": "Open-air archaeological park.",
+                "es": "Parque arqueológico al aire libre."
               }
             },
             {
@@ -1192,13 +1290,15 @@
                 "de": "Parc del Pescador",
                 "hu": "Halászok parkja",
                 "ro": "Parcul Pescarului",
-                "en": "Fisherman's Park"
+                "en": "Fisherman's Park",
+                "es": "Parque del Pescador"
               },
               "tip_5lang": {
                 "de": "Kühler Ausklang der Radtour.",
                 "hu": "Hűsítő pihenő a túra végén.",
                 "ro": "Final răcoros al turului cu bicicleta.",
-                "en": "Cool finish to your cycling tour."
+                "en": "Cool finish to your cycling tour.",
+                "es": "Final fresco para tu ruta en bicicleta."
               }
             }
           ],
@@ -1360,6 +1460,12 @@
               "Watch out for pedestrians in the port area.",
               "Bike rentals are available at the port and many hotels.",
               "Always lock your bike when parking."
+            ],
+            "es": [
+              "Los carriles bici suelen estar separados de las zonas peatonales.",
+              "Ten cuidado con los peatones en la zona del puerto.",
+              "Alquiler de bicicletas disponible en el puerto y en muchos hoteles.",
+              "Siempre asegúrate de candar la bicicleta al aparcar."
             ]
           }
         },
@@ -1368,7 +1474,8 @@
             "de": "Morgens radeln Sie vorsichtig zum Schloss Vilafortuny auf nassen Wegen. Mittags bietet der Esquirol-Turm einen schnellen Stopp im Trockenen.\nNachmittags führt die Route zum Hafen, wo die Meeresbrise den Regen intensiviert. Abends beenden Sie die Tour an der Villa La Llosa und dem Fischerpark auf asphaltierten Wegen.",
             "hu": "Reggel óvatosan tekerünk a Vilafortuny kastélyhoz a nedves utakon. Délben az Esquirol-torony nyújt gyors, száraz pihenőpontot.\nDélután a kikötő felé vesszük az irányt, ahol a tengeri szél felerősíti az esőt. Este a La Llosa villánál és a Halászpark aszfaltozott útjain fejezzük be a túrát.",
             "ro": "Dimineața pedalăm cu atenție spre Castelul Vilafortuny pe drumuri ude. La prânz, Turnul Esquirol oferă un scurt punct de oprire la adăpost.\nDupă-amiaza traseul ne duce spre port, unde briza mării intensifică ploaia. Seara încheiem turul la Vila La Llosa pe aleile asfaltate ale parcului.",
-            "en": "Morning bike ride to Vilafortuny Castle requires caution on wet paths. At noon, Esquirol Tower serves as a quick dry stopping point.\nAfternoon cycling near the port is windy and rainy, stay focused. Evening ends at La Llosa Villa and Fisherman's Park using the paved, safer routes."
+            "en": "Morning bike ride to Vilafortuny Castle requires caution on wet paths. At noon, Esquirol Tower serves as a quick dry stopping point.\nAfternoon cycling near the port is windy and rainy, stay focused. Evening ends at La Llosa Villa and Fisherman's Park using the paved, safer routes.",
+            "es": "La salida en bicicleta por la mañana hacia el Castillo de Vilafortuny requiere precaución en los caminos mojados. Al mediodía, la Torre Esquirol sirve como un punto de parada seco.\nLa tarde, cerca del puerto, es ventosa y puede llover; mantén la concentración. La noche termina en la Villa de La Llosa y el Parque del Pescador usando rutas pavimentadas y más seguras."
           },
           "stops": [
             {
@@ -1377,7 +1484,8 @@
                 "de": "Vorsicht vor Laub auf den Radwegen zum Schloss.",
                 "hu": "Vigyázat, a kastélyhoz vezető úton a levelek csúszhatnak.",
                 "ro": "Atenție la frunzele ude de pe pistele spre castel.",
-                "en": "Watch out for wet leaves on the bike paths to the castle."
+                "en": "Watch out for wet leaves on the bike paths to the castle.",
+                "es": "Ten cuidado con las hojas mojadas en los carriles hacia el castillo."
               }
             },
             {
@@ -1386,7 +1494,8 @@
                 "de": "Kurzer Stopp unter dem Vordach bei starkem Regen.",
                 "hu": "Rövid megálló az előtető alatt heves esőzéskor.",
                 "ro": "Scurt popas sub streașină în caz de ploaie torențială.",
-                "en": "Quick stop under the overhang if the rain gets heavy."
+                "en": "Quick stop under the overhang if the rain gets heavy.",
+                "es": "Parada rápida bajo el alero si la lluvia se intensifica."
               }
             },
             {
@@ -1395,7 +1504,8 @@
                 "de": "Der Radweg ist gut asphaltiert und bei Regen sicher.",
                 "hu": "A kerékpárút jól aszfaltozott és esőben is biztonságos.",
                 "ro": "Pista de biciclete este bine asfaltată și sigură pe ploaie.",
-                "en": "The bike path is well-paved and remains safe in the rain."
+                "en": "The bike path is well-paved and remains safe in the rain.",
+                "es": "El carril bici está bien pavimentado y se mantiene seguro con lluvia."
               }
             },
             {
@@ -1404,7 +1514,8 @@
                 "de": "Bremshilfen nutzen, der Boden kann sehr rutschig sein.",
                 "hu": "Használja a féket óvatosan, a talaj nagyon csúszós lehet.",
                 "ro": "Folosiți frânele cu grijă, pavajul poate fi alunecos.",
-                "en": "Use brakes carefully as the pavement can be very slippery."
+                "en": "Use brakes carefully as the pavement can be very slippery.",
+                "es": "Usa los frenos con cuidado, el pavimento puede volverse muy resbaladizo."
               }
             },
             {
@@ -1413,7 +1524,8 @@
                 "de": "Fahrradständer befinden sich nahe dem Kircheneingang.",
                 "hu": "A kerékpártárolók a templom bejárata közelében vannak.",
                 "ro": "Suporturile de biciclete sunt aproape de intrarea în biserică.",
-                "en": "Bike racks are located conveniently near the church entrance."
+                "en": "Bike racks are located conveniently near the church entrance.",
+                "es": "Los aparcabicicletas están convenientemente situados cerca de la entrada de la iglesia."
               }
             },
             {
@@ -1422,7 +1534,8 @@
                 "de": "Überdachter Bereich bietet Schutz während der Besichtigung.",
                 "hu": "A fedett rész védelmet nyújt a látogatás ideje alatt.",
                 "ro": "Zona acoperită oferă protecție în timpul vizitei.",
-                "en": "The covered area provides shelter during your exploration."
+                "en": "The covered area provides shelter during your exploration.",
+                "es": "La zona cubierta proporciona refugio durante la exploración."
               }
             },
             {
@@ -1431,7 +1544,8 @@
                 "de": "Vermeiden Sie unbefestigte Wege, sie könnten schlammig sein.",
                 "hu": "Kerülje a földutakat, mert sárosak lehetnek.",
                 "ro": "Evitați potecile de pământ, pot fi noroioase.",
-                "en": "Avoid unpaved trails as they might become muddy."
+                "en": "Avoid unpaved trails as they might become muddy.",
+                "es": "Evita los senderos sin pavimentar, ya que pueden volverse embarrados."
               }
             }
           ],
@@ -1459,6 +1573,12 @@
               "Avoid sharp turns on the slippery harbor tiles.",
               "Wear waterproof gear and ensure your bike has mudguards.",
               "Turn on your lights as visibility is reduced in the rain."
+            ],
+            "es": [
+              "Prueba tus frenos antes de salir por carreteras mojadas.",
+              "Evita giros bruscos sobre las losas resbaladizas del puerto.",
+              "Lleva ropa impermeable y asegúrate de que tu bici tenga guardabarros.",
+              "Enciende las luces ya que la visibilidad se reduce con la lluvia."
             ]
           }
         },
@@ -1467,7 +1587,8 @@
             "de": "Morgens genießen Sie eine frische Fahrt zum Schloss Vilafortuny. Mittags radeln Sie entlang der Strandpromenade unter der milden Wintersonne zum Hafen.\nNachmittags besuchen Sie die geschichtsträchtigen Orte wie die Kirche Mare de Déu. Abends kehren Sie vor dem frühen Einbruch der Dunkelheit über den Fischerpark zurück.",
             "hu": "Reggel frissítő tekeréssel indulunk a Vilafortuny kastély felé. Délben a parti sétányon, a gyenge téli napsütésben biciklizünk a kikötőig.\nDélután meglátogatjuk a történelmi helyszíneket, köztük a Mare de Déu templomot. Este a korai sötétedés előtt érünk vissza a Halászparkon keresztül.",
             "ro": "Dimineața ne bucurăm de o cursă revigorantă spre Castelul Vilafortuny. La prânz pedalăm pe faleză sub soarele blând de iarnă spre port.\nDupă-amiaza vizităm locurile istorice precum Biserica Mare de Déu. Seara revenim prin Parcul Pescăresc înainte de lăsarea timpurie a întunericului.",
-            "en": "Morning offers a crisp, refreshing ride to Vilafortuny Castle. At noon, cycle along the promenade under the gentle winter sun towards the harbor.\nAfternoon is spent visiting historical sites like the Mare de Déu Church. Return through Fisherman's Park in the evening before the early winter dusk."
+            "en": "Morning offers a crisp, refreshing ride to Vilafortuny Castle. At noon, cycle along the promenade under the gentle winter sun towards the harbor.\nAfternoon is spent visiting historical sites like the Mare de Déu Church. Return through Fisherman's Park in the evening before the early winter dusk.",
+            "es": "La mañana ofrece un paseo nítido y refrescante hasta el Castillo de Vilafortuny. Al mediodía, pedalea por el paseo bajo el suave sol invernal hacia el puerto.\nLa tarde se dedica a visitar lugares históricos como la iglesia Mare de Déu. Vuelve pasando por el Parque del Pescador al anochecer temprano de invierno."
           },
           "stops": [
             {
@@ -1476,7 +1597,8 @@
                 "de": "Handschuhe sind für die Fahrt am frühen Morgen ratsam.",
                 "hu": "A kora reggeli tekeréshez kesztyű használata ajánlott.",
                 "ro": "Mănușile sunt recomandate pentru cursa de dimineață.",
-                "en": "Gloves are highly recommended for the early morning ride."
+                "en": "Gloves are highly recommended for the early morning ride.",
+                "es": "Se recomiendan guantes para el paseo de primera hora."
               }
             },
             {
@@ -1485,7 +1607,8 @@
                 "de": "Helles Sonnenlicht kann am Vormittag blenden.",
                 "hu": "A délelőtti erős napsütés elvakíthat biciklizés közben.",
                 "ro": "Lumina puternică a soarelui poate fi orbitoare dimineața.",
-                "en": "Bright morning sunlight can be blinding while cycling."
+                "en": "Bright morning sunlight can be blinding while cycling.",
+                "es": "La intensa luz matinal puede deslumbrar al pedalear."
               }
             },
             {
@@ -1494,7 +1617,8 @@
                 "de": "Weniger Fußgänger machen den Radweg im Winter frei.",
                 "hu": "A kevesebb gyalogos miatt télen szabadabb a kerékpárút.",
                 "ro": "Mai puțini pietoni fac pista de biciclete liberă iarna.",
-                "en": "Fewer pedestrians mean a clearer bike path in winter."
+                "en": "Fewer pedestrians mean a clearer bike path in winter.",
+                "es": "Menos peatones significan un carril bici más despejado en invierno."
               }
             },
             {
@@ -1503,7 +1627,8 @@
                 "de": "Genießen Sie den weiten Blick über das ruhige Meer.",
                 "hu": "Élvezze a tágas kilátást a nyugodt téli tengerre.",
                 "ro": "Bucurați-vă de vederea largă asupra mării liniștite.",
-                "en": "Enjoy the expansive views over the calm winter sea."
+                "en": "Enjoy the expansive views over the calm winter sea.",
+                "es": "Disfruta de las amplias vistas sobre el mar invernal en calma."
               }
             },
             {
@@ -1512,7 +1637,8 @@
                 "de": "Die Kirche bietet einen windgeschützten Rastplatz.",
                 "hu": "A templom környéke szélvédett pihenőhelyet kínál.",
                 "ro": "Zona bisericii oferă un loc de odihnă ferit de vânt.",
-                "en": "The church grounds offer a wind-sheltered resting spot."
+                "en": "The church grounds offer a wind-sheltered resting spot.",
+                "es": "Los terrenos de la iglesia ofrecen un lugar resguardado del viento para descansar."
               }
             },
             {
@@ -1521,7 +1647,8 @@
                 "de": "Nutzen Sie das Tageslicht für die Außenbereiche.",
                 "hu": "Használja ki a nappali fényt a kültéri részekhez.",
                 "ro": "Profitați de lumina zilei pentru zonele exterioare.",
-                "en": "Make the most of the daylight for the outdoor areas."
+                "en": "Make the most of the daylight for the outdoor areas.",
+                "es": "Aprovecha la luz del día para las zonas al aire libre."
               }
             },
             {
@@ -1530,7 +1657,8 @@
                 "de": "Vorder- und Rücklicht für die Rückfahrt prüfen.",
                 "hu": "Ellenőrizze az első és hátsó lámpát a visszautazáshoz.",
                 "ro": "Verificați luminile față și spate pentru drumul de întoarcere.",
-                "en": "Check your front and rear lights for the ride back."
+                "en": "Check your front and rear lights for the ride back.",
+                "es": "Revisa las luces delanteras y traseras para el regreso."
               }
             }
           ],
@@ -1558,6 +1686,12 @@
               "Bike paths are significantly less crowded in winter.",
               "Be aware of the early dusk starting around 5:00 PM.",
               "Warm clothing is vital against the cold sea breeze while riding."
+            ],
+            "es": [
+              "El sol invernal puede estar bajo y deslumbrar; lleva gafas de sol.",
+              "Los carriles bici están considerablemente menos concurridos en invierno.",
+              "Ten en cuenta el anochecer temprano que empieza alrededor de las 17:00.",
+              "La ropa abrigada es vital contra la fría brisa marina mientras pedaleas."
             ]
           }
         }
@@ -1576,7 +1710,8 @@
             "de": "Parc Samà",
             "hu": "Samà park",
             "ro": "Parcul Samà",
-            "en": "Samà Park"
+            "en": "Samà Park",
+            "es": "Parque Samà"
           },
           "coords": [
             1.0221,
@@ -1591,7 +1726,8 @@
             "de": "Wunderschöner botanischer Garten mit Pfauen.",
             "hu": "Gyönyörű botanikus kert pávákkal.",
             "ro": "Grădină botanică superbă cu păuni.",
-            "en": "Beautiful botanical garden with peacocks."
+            "en": "Beautiful botanical garden with peacocks.",
+            "es": "Hermoso jardín botánico con pavos reales."
           }
         },
         {
@@ -1599,7 +1735,8 @@
             "de": "Torre de l'Ermita",
             "hu": "Remete-torony",
             "ro": "Torre de l'Ermita",
-            "en": "Ermita Tower"
+            "en": "Ermita Tower",
+            "es": "Torre de la Ermita"
           },
           "coords": [
             1.0535,
@@ -1614,7 +1751,8 @@
             "de": "Historisches Zentrum von Cambrils.",
             "hu": "Cambrils történelmi központja.",
             "ro": "Centrul istoric al orașului Cambrils.",
-            "en": "Historic center of Cambrils."
+            "en": "Historic center of Cambrils.",
+            "es": "Casco antiguo de Cambrils"
           }
         },
         {
@@ -1622,7 +1760,8 @@
             "de": "Port de Cambrils",
             "hu": "Cambrils kikötője",
             "ro": "Portul Cambrils",
-            "en": "Cambrils Port"
+            "en": "Cambrils Port",
+            "es": "Puerto de Cambrils"
           },
           "coords": [
             1.0625,
@@ -1637,7 +1776,8 @@
             "de": "Mittagessen in den besten Fischrestaurants.",
             "hu": "Ebéd a legjobb haléttermekben.",
             "ro": "Prânz la cele mai bune restaurante de pește.",
-            "en": "Lunch at the best seafood restaurants."
+            "en": "Lunch at the best seafood restaurants.",
+            "es": "Almuerzo en los mejores restaurantes de mariscos."
           }
         },
         {
@@ -1645,7 +1785,8 @@
             "de": "Villa Romana de la Llosa",
             "hu": "Llosa római villa",
             "ro": "Vila Romană de la Llosa",
-            "en": "La Llosa Roman Villa"
+            "en": "La Llosa Roman Villa",
+            "es": "Villa Romana de La Llosa"
           },
           "coords": [
             1.0555,
@@ -1660,7 +1801,8 @@
             "de": "Einfaches Parken in der Nähe.",
             "hu": "Könnyű parkolás a közelben.",
             "ro": "Parcare ușoară în apropiere.",
-            "en": "Easy parking available nearby."
+            "en": "Easy parking available nearby.",
+            "es": "Aparcamiento fácil disponible cerca."
           }
         },
         {
@@ -1668,7 +1810,8 @@
             "de": "Platja del Regueral",
             "hu": "Regueral strand",
             "ro": "Plaja Regueral",
-            "en": "Regueral Beach"
+            "en": "Regueral Beach",
+            "es": "Playa del Regueral"
           },
           "coords": [
             1.0685,
@@ -1683,7 +1826,8 @@
             "de": "Perfekt für den späten Nachmittag.",
             "hu": "Tökéletes késő délutáni pihenő.",
             "ro": "Perfect pentru după-amiaza târzie.",
-            "en": "Perfect for late afternoon relaxation."
+            "en": "Perfect for late afternoon relaxation.",
+            "es": "Perfecto para relajarse al atardecer."
           }
         }
       ],
@@ -1691,7 +1835,8 @@
         "de": "Nutzen Sie das Auto, um das beeindruckende Hinterland von Cambrils zu erkunden. Beginnen Sie im Parc Samà, einem exotischen Gartenjuwel nur wenige Kilometer landeinwärts. Die Kolonialarchitektur und die üppige Flora sind ein Muss.\n\nFahren Sie zurück ins Stadtzentrum für ein Mittagessen am Hafen und besuchen Sie den historischen Turm und die römischen Ausgrabungen. Mit dem Auto erreichen Sie alle Punkte bequem und schnell.\n\nSchließen Sie den Tag am Strand Regueral ab, wo es Parkplätze in der Nähe der Promenade gibt. Ein Auto ermöglicht es Ihnen, auch die abgelegeneren Ecken der Küste flexibel zu besuchen.",
         "hu": "Használja az autót Cambrils lenyűgöző környékének felfedezéséhez. Kezdje a Samà parkban, amely egy egzotikus oázis pár kilométerre a parttól. A koloniális építészet és a dús növényzet lenyűgöző látvány.\n\nTérjen vissza a városközpontba egy kikötői ebédre, majd látogasson el a történelmi toronyhoz és a római romokhoz. Autóval kényelmesen és gyorsan elérheti az összes fontos pontot.\n\nZárja a napot a Regueral strandon, ahol a sétány közelében több parkoló is található. Az autó rugalmasságot ad, hogy a part távolabbi szakaszait is meglátogassa.",
         "ro": "Folosiți mașina pentru a explora împrejurimile impresionante ale orașului Cambrils. Începeți la Parcul Samà, o bijuterie exotică situată la câțiva kilometri în interiorul țării. Arhitectura colonială și flora luxuriantă sunt de neratat.\n\nReveniți în centrul orașului pentru prânz în port și vizitați turnul istoric și vestigiile romane. Cu mașina, ajungeți rapid și confortabil la toate punctele de interes.\n\nÎncheiați ziua pe plaja Regueral, unde există parcări în apropierea falezei. Mașina vă oferă flexibilitatea de a vizita și zonele mai retrase ale coastei.",
-        "en": "Use a car to discover the impressive surroundings of Cambrils. Start at Samà Park, an exotic garden jewel located just a few kilometers inland. The colonial architecture and lush flora are a must-see.\n\nDrive back to the city center for lunch at the port and visit the historic tower and Roman ruins. By car, you can reach all points quickly and comfortably.\n\nEnd your day at Regueral Beach, with parking available near the promenade. Having a car allows you to flexibly visit more remote parts of the coastline as well."
+        "en": "Use a car to discover the impressive surroundings of Cambrils. Start at Samà Park, an exotic garden jewel located just a few kilometers inland. The colonial architecture and lush flora are a must-see.\n\nDrive back to the city center for lunch at the port and visit the historic tower and Roman ruins. By car, you can reach all points quickly and comfortably.\n\nEnd your day at Regueral Beach, with parking available near the promenade. Having a car allows you to flexibly visit more remote parts of the coastline as well.",
+        "es": "Usa coche para descubrir los impresionantes alrededores de Cambrils. Empieza en el Parque Samà, una joya de jardín exótico situada a pocos kilómetros del interior. La arquitectura colonial y la exuberante flora son imprescindibles.\n\nVuelve en coche al centro de la ciudad para comer en el puerto y visitar la torre histórica y las ruinas romanas. En coche puedes llegar a todos los puntos rápida y cómodamente.\n\nTermina el día en la playa del Regueral, con aparcamiento disponible cerca del paseo. Tener coche te permite visitar con flexibilidad partes más remotas de la costa."
       },
       "gastro_picks": {
         "de": [
@@ -1851,6 +1996,12 @@
           "There is a large free underground parking near the port.",
           "Avoid the afternoon rush hour traffic.",
           "GPS devices easily find inland destinations."
+        ],
+        "es": [
+          "El estacionamiento en zona azul es de pago.",
+          "Hay un gran aparcamiento subterráneo gratuito cerca del puerto.",
+          "Evita la hora punta de la tarde.",
+          "Los dispositivos GPS localizan fácilmente los destinos del interior."
         ]
       },
       "variants": {
@@ -1859,7 +2010,8 @@
             "de": "Nutzen Sie das Auto, um das beeindruckende Hinterland von Cambrils zu erkunden. Beginnen Sie im Parc Samà, einem exotischen Gartenjuwel nur wenige Kilometer landeinwärts. Die Kolonialarchitektur und die üppige Flora sind ein Muss.\n\nFahren Sie zurück ins Stadtzentrum für ein Mittagessen am Hafen und besuchen Sie den historischen Turm und die römischen Ausgrabungen. Mit dem Auto erreichen Sie alle Punkte bequem und schnell.\n\nSchließen Sie den Tag am Strand Regueral ab, wo es Parkplätze in der Nähe der Promenade gibt. Ein Auto ermöglicht es Ihnen, auch die abgelegeneren Ecken der Küste flexibel zu besuchen.",
             "hu": "Használja az autót Cambrils lenyűgöző környékének felfedezéséhez. Kezdje a Samà parkban, amely egy egzotikus oázis pár kilométerre a parttól. A koloniális építészet és a dús növényzet lenyűgöző látvány.\n\nTérjen vissza a városközpontba egy kikötői ebédre, majd látogasson el a történelmi toronyhoz és a római romokhoz. Autóval kényelmesen és gyorsan elérheti az összes fontos pontot.\n\nZárja a napot a Regueral strandon, ahol a sétány közelében több parkoló is található. Az autó rugalmasságot ad, hogy a part távolabbi szakaszait is meglátogassa.",
             "ro": "Folosiți mașina pentru a explora împrejurimile impresionante ale orașului Cambrils. Începeți la Parcul Samà, o bijuterie exotică situată la câțiva kilometri în interiorul țării. Arhitectura colonială și flora luxuriantă sunt de neratat.\n\nReveniți în centrul orașului pentru prânz în port și vizitați turnul istoric și vestigiile romane. Cu mașina, ajungeți rapid și confortabil la toate punctele de interes.\n\nÎncheiați ziua pe plaja Regueral, unde există parcări în apropierea falezei. Mașina vă oferă flexibilitatea de a vizita și zonele mai retrase ale coastei.",
-            "en": "Use a car to discover the impressive surroundings of Cambrils. Start at Samà Park, an exotic garden jewel located just a few kilometers inland. The colonial architecture and lush flora are a must-see.\n\nDrive back to the city center for lunch at the port and visit the historic tower and Roman ruins. By car, you can reach all points quickly and comfortably.\n\nEnd your day at Regueral Beach, with parking available near the promenade. Having a car allows you to flexibly visit more remote parts of the coastline as well."
+            "en": "Use a car to discover the impressive surroundings of Cambrils. Start at Samà Park, an exotic garden jewel located just a few kilometers inland. The colonial architecture and lush flora are a must-see.\n\nDrive back to the city center for lunch at the port and visit the historic tower and Roman ruins. By car, you can reach all points quickly and comfortably.\n\nEnd your day at Regueral Beach, with parking available near the promenade. Having a car allows you to flexibly visit more remote parts of the coastline as well.",
+            "es": "Usa coche para descubrir los impresionantes alrededores de Cambrils. Empieza en el Parque Samà, una joya de jardín exótico situada a pocos kilómetros del interior. La arquitectura colonial y la exuberante flora son imprescindibles.\n\nVuelve en coche al centro de la ciudad para comer en el puerto y visitar la torre histórica y las ruinas romanas. En coche puedes llegar a todos los puntos rápida y cómodamente.\n\nTermina el día en la playa del Regueral, con aparcamiento disponible cerca del paseo. Tener coche te permite visitar con flexibilidad partes más remotas de la costa."
           },
           "stops": [
             {
@@ -1867,13 +2019,15 @@
                 "de": "Parc Samà",
                 "hu": "Samà park",
                 "ro": "Parcul Samà",
-                "en": "Samà Park"
+                "en": "Samà Park",
+                "es": "Parque Samà"
               },
               "tip_5lang": {
                 "de": "Wunderschöner botanischer Garten mit Pfauen.",
                 "hu": "Gyönyörű botanikus kert pávákkal.",
                 "ro": "Grădină botanică superbă cu păuni.",
-                "en": "Beautiful botanical garden with peacocks."
+                "en": "Beautiful botanical garden with peacocks.",
+                "es": "Hermoso jardín botánico con pavos reales."
               }
             },
             {
@@ -1881,13 +2035,15 @@
                 "de": "Torre de l'Ermita",
                 "hu": "Remete-torony",
                 "ro": "Torre de l'Ermita",
-                "en": "Ermita Tower"
+                "en": "Ermita Tower",
+                "es": "Torre de la Ermita"
               },
               "tip_5lang": {
                 "de": "Historisches Zentrum von Cambrils.",
                 "hu": "Cambrils történelmi központja.",
                 "ro": "Centrul istoric al orașului Cambrils.",
-                "en": "Historic center of Cambrils."
+                "en": "Historic center of Cambrils.",
+                "es": "Centro histórico de Cambrils."
               }
             },
             {
@@ -1895,13 +2051,15 @@
                 "de": "Port de Cambrils",
                 "hu": "Cambrils kikötője",
                 "ro": "Portul Cambrils",
-                "en": "Cambrils Port"
+                "en": "Cambrils Port",
+                "es": "Puerto de Cambrils"
               },
               "tip_5lang": {
                 "de": "Mittagessen in den besten Fischrestaurants.",
                 "hu": "Ebéd a legjobb haléttermekben.",
                 "ro": "Prânz la cele mai bune restaurante de pește.",
-                "en": "Lunch at the best seafood restaurants."
+                "en": "Lunch at the best seafood restaurants.",
+                "es": "Comer en los mejores restaurantes de mariscos."
               }
             },
             {
@@ -1909,13 +2067,15 @@
                 "de": "Villa Romana de la Llosa",
                 "hu": "Llosa római villa",
                 "ro": "Vila Romană de la Llosa",
-                "en": "La Llosa Roman Villa"
+                "en": "La Llosa Roman Villa",
+                "es": "Villa romana de La Llosa"
               },
               "tip_5lang": {
                 "de": "Einfaches Parken in der Nähe.",
                 "hu": "Könnyű parkolás a közelben.",
                 "ro": "Parcare ușoară în apropiere.",
-                "en": "Easy parking available nearby."
+                "en": "Easy parking available nearby.",
+                "es": "Aparcamiento fácil disponible cerca."
               }
             },
             {
@@ -1923,13 +2083,15 @@
                 "de": "Platja del Regueral",
                 "hu": "Regueral strand",
                 "ro": "Plaja Regueral",
-                "en": "Regueral Beach"
+                "en": "Regueral Beach",
+                "es": "Playa del Regueral"
               },
               "tip_5lang": {
                 "de": "Perfekt für den späten Nachmittag.",
                 "hu": "Tökéletes késő délutáni pihenő.",
                 "ro": "Perfect pentru după-amiaza târzie.",
-                "en": "Perfect for late afternoon relaxation."
+                "en": "Perfect for late afternoon relaxation.",
+                "es": "Perfecto para relajarse al atardecer."
               }
             }
           ],
@@ -2091,6 +2253,12 @@
               "There is a large free underground parking near the port.",
               "Avoid the afternoon rush hour traffic.",
               "GPS devices easily find inland destinations."
+            ],
+            "es": [
+              "El estacionamiento en zona azul es de pago.",
+              "Hay un gran aparcamiento subterráneo gratuito cerca del puerto.",
+              "Evita la hora punta de la tarde.",
+              "Los dispositivos GPS localizan fácilmente los destinos del interior."
             ]
           }
         },
@@ -2099,7 +2267,8 @@
             "de": "Morgens fahren Sie entspannt zum Parc Samà, der bei Regen besonders üppig wirkt. Mittags erreichen Sie Cambrils und parken nahe dem Ermita-Turm.\nNachmittags bietet der Hafen gute Parkmöglichkeiten für einen kurzen Spaziergang im Regen. Abends fahren Sie komfortabel im Trockenen zur Villa La Llosa und zum Strand von Regueral.",
             "hu": "Reggel kényelmesen autózunk a Samà parkba, amely esőben különösen dús látványt nyújt. Délben Cambrilsba érünk, és az Ermita-torony közelében parkolunk.\nDélután a kikötőnél találunk parkolóhelyet egy rövid, esernyős sétához. Este szárazon és kényelemben érjük el a La Llosa villát és a Regueral strandot.",
             "ro": "Dimineața conducem relaxați spre Parcul Samà, care pare luxuriant pe ploaie. La prânz ajungem în Cambrils și parcăm lângă Turnul Ermita.\nDupă-amiaza portul oferă locuri bune de parcare pentru o scurtă plimbare. Seara ajungem confortabil la Vila La Llosa și la plaja Regueral, feriți de ploaie.",
-            "en": "Morning drive to Samà Park is pleasant; the rain makes the gardens look lush. At noon, reach Cambrils and find easy parking near Ermita Tower.\nAfternoon offers convenient parking at the port for a brief rainy walk. In the evening, travel in comfort to La Llosa Villa and Regueral Beach, staying dry inside your car."
+            "en": "Morning drive to Samà Park is pleasant; the rain makes the gardens look lush. At noon, reach Cambrils and find easy parking near Ermita Tower.\nAfternoon offers convenient parking at the port for a brief rainy walk. In the evening, travel in comfort to La Llosa Villa and Regueral Beach, staying dry inside your car.",
+            "es": "La salida matutina hacia el Parque Samà es agradable; la lluvia realza la vegetación del jardín. Al mediodía llega a Cambrils y encuentra aparcamiento fácil cerca de la Torre de la Ermita.\nLa tarde ofrece aparcamiento conveniente en el puerto para un breve paseo bajo la lluvia. Por la noche, viaja cómodamente a la Villa de La Llosa y a la playa del Regueral, manteniéndote seco dentro del coche."
           },
           "stops": [
             {
@@ -2108,7 +2277,8 @@
                 "de": "Die Parkwege können bei starkem Regen matschig sein.",
                 "hu": "A park ösvényei heves esőzéskor sárosak lehetnek.",
                 "ro": "Potecile parcului pot deveni noroioase în caz de ploaie.",
-                "en": "Park trails can get muddy during heavy rainfall."
+                "en": "Park trails can get muddy during heavy rainfall.",
+                "es": "Los senderos del parque pueden embarrarse con lluvias intensas."
               }
             },
             {
@@ -2117,7 +2287,8 @@
                 "de": "Kostenloses Parken ist oft in den Nebenstraßen möglich.",
                 "hu": "Ingyenes parkolás gyakran lehetséges a mellékutcákban.",
                 "ro": "Parcarea gratuită este adesea posibilă pe străzile laterale.",
-                "en": "Free parking is often available in the side streets nearby."
+                "en": "Free parking is often available in the side streets nearby.",
+                "es": "A menudo hay aparcamiento gratuito en las calles laterales cercanas."
               }
             },
             {
@@ -2126,7 +2297,8 @@
                 "de": "Nutzen Sie das Tiefgaragen-Parkhaus direkt am Hafen.",
                 "hu": "Használja a közvetlenül a kikötőnél lévő mélygarázst.",
                 "ro": "Folosiți parcarea subterană situată chiar în port.",
-                "en": "Utilize the underground parking garage right by the harbor."
+                "en": "Utilize the underground parking garage right by the harbor.",
+                "es": "Utiliza el aparcamiento subterráneo justo junto al puerto."
               }
             },
             {
@@ -2135,7 +2307,8 @@
                 "de": "Ein kleiner Parkplatz befindet sich direkt am Eingang.",
                 "hu": "Egy kis parkoló található közvetlenül a bejáratnál.",
                 "ro": "O mică parcare este situată chiar la intrare.",
-                "en": "A small parking area is located right at the entrance."
+                "en": "A small parking area is located right at the entrance.",
+                "es": "Hay una pequeña zona de aparcamiento justo en la entrada."
               }
             },
             {
@@ -2144,7 +2317,8 @@
                 "de": "Die strandnahen Parkplätze sind bei Regen meist leer.",
                 "hu": "A strandközeli parkolók esőben többnyire üresek.",
                 "ro": "Parcările de lângă plajă sunt de obicei goale pe ploaie.",
-                "en": "Beachfront parking spaces are usually empty when it rains."
+                "en": "Beachfront parking spaces are usually empty when it rains.",
+                "es": "Las plazas frente al mar suelen estar vacías cuando llueve."
               }
             }
           ],
@@ -2172,6 +2346,12 @@
               "Use parking garages to access the city center while staying dry.",
               "Visibility may be limited during heavy downpours.",
               "Sturdy shoes are a must for Samà Park in wet weather."
+            ],
+            "es": [
+              "Conduce con precaución por las carreteras costeras por riesgo de aquaplaning.",
+              "Usa aparcamientos cubiertos para acceder al centro y mantenerte seco.",
+              "La visibilidad puede reducirse durante fuertes aguaceros.",
+              "Necesitas calzado resistente para el Parque Samà con tiempo húmedo."
             ]
           }
         },
@@ -2180,7 +2360,8 @@
             "de": "Morgens genießen Sie die Fahrt zum Parc Samà durch die ruhige Winterlandschaft. Mittags besuchen Sie den Ermita-Turm ohne die sommerlichen Touristenströme.\nNachmittags parken Sie bequem am Hafen und spazieren an der frischen Meeresluft. Abends erreichen Sie die Villa La Llosa und den Strand Regueral pünktlich zum frühen Sonnenuntergang.",
             "hu": "Reggel a nyugodt téli tájon keresztül autózunk a Samà parkba. Délben a nyári tömeg nélkül látogatjuk meg az Ermita-tornyot.\nDélután kényelmesen parkolunk a kikötőben, és sétálunk a friss tengeri levegőn. Este a korai naplementére érünk a La Llosa villához és a Regueral strandhoz.",
             "ro": "Dimineața ne bucurăm de drumul spre Parcul Samà prin peisajul liniștit de iarnă. La prânz vizităm Turnul Ermita fără aglomerația de vară.\nDupă-amiaza parcăm ușor în port și ne plimbăm în aerul proaspăt marin. Seara ajungem la Vila La Llosa și plaja Regueral fix pentru apusul devreme.",
-            "en": "Morning drive to Samà Park through the peaceful winter scenery. At noon, visit Ermita Tower without the summer crowds.\nAfternoon parking at the harbor is easy, allowing for a brisk walk in the sea air. In the evening, reach La Llosa Villa and Regueral Beach just in time for the early sunset."
+            "en": "Morning drive to Samà Park through the peaceful winter scenery. At noon, visit Ermita Tower without the summer crowds.\nAfternoon parking at the harbor is easy, allowing for a brisk walk in the sea air. In the evening, reach La Llosa Villa and Regueral Beach just in time for the early sunset.",
+            "es": "Salida matutina al Parque Samà por el paisaje invernal tranquilo. Al mediodía, visita la Torre de la Ermita sin las multitudes veraniegas.\nAparcar en el puerto por la tarde es fácil, lo que permite un breve paseo con el aire del mar. Por la noche, llega a la Villa de La Llosa y a la playa del Regueral justo a tiempo para el atardecer temprano."
           },
           "stops": [
             {
@@ -2189,7 +2370,8 @@
                 "de": "Der Park ist im Winter weniger besucht und sehr friedlich.",
                 "hu": "A park télen kevésbé látogatott és rendkívül békés.",
                 "ro": "Parcul este mai puțin vizitat iarna și foarte liniștit.",
-                "en": "The park is less crowded in winter and very peaceful."
+                "en": "The park is less crowded in winter and very peaceful.",
+                "es": "El parque está menos concurrido en invierno y muy tranquilo."
               }
             },
             {
@@ -2198,7 +2380,8 @@
                 "de": "Im Winter finden Sie problemlos Parkplätze direkt davor.",
                 "hu": "Télen gond nélkül találhat parkolóhelyet közvetlenül előtte.",
                 "ro": "Iarna găsiți ușor locuri de parcare chiar în față.",
-                "en": "In winter, you'll easily find parking spots right in front."
+                "en": "In winter, you'll easily find parking spots right in front.",
+                "es": "En invierno encontrarás fácilmente plazas de aparcamiento justo enfrente."
               }
             },
             {
@@ -2207,7 +2390,8 @@
                 "de": "Die Parkgebühren sind in der Nebensaison oft günstiger.",
                 "hu": "A parkolási díjak főszezonon kívül gyakran alacsonyabbak.",
                 "ro": "Tarifele de parcare sunt adesea mai mici în extrasezon.",
-                "en": "Parking rates are often lower during the off-season."
+                "en": "Parking rates are often lower during the off-season.",
+                "es": "Las tarifas de aparcamiento suelen ser más bajas en temporada baja."
               }
             },
             {
@@ -2216,7 +2400,8 @@
                 "de": "Die tiefstehende Sonne bietet tolles Licht für Fotos.",
                 "hu": "Az alacsonyan járó nap remek fényeket ad a fotózáshoz.",
                 "ro": "Soarele jos oferă o lumină excelentă pentru fotografii.",
-                "en": "The low winter sun provides great lighting for photos."
+                "en": "The low winter sun provides great lighting for photos.",
+                "es": "El sol bajo de invierno ofrece una gran iluminación para fotos."
               }
             },
             {
@@ -2225,7 +2410,8 @@
                 "de": "Ideal, um den Sonnenuntergang direkt vom Auto aus zu sehen.",
                 "hu": "Ideális a naplemente megtekintéséhez közvetlenül az autóból.",
                 "ro": "Ideal pentru a vedea apusul direct din mașină.",
-                "en": "Ideal for watching the sunset directly from your car."
+                "en": "Ideal for watching the sunset directly from your car.",
+                "es": "Ideal para ver el atardecer directamente desde el coche."
               }
             }
           ],
@@ -2253,6 +2439,12 @@
               "Watch out for potential road maintenance closures in winter.",
               "The car heater provides a cozy refuge between stops.",
               "Use beachfront parking for undisturbed views of the Mediterranean."
+            ],
+            "es": [
+              "Aparcar en Cambrils es completamente sin estrés durante el invierno.",
+              "Atento a posibles cierres por mantenimiento de carreteras en invierno.",
+              "La calefacción del coche ofrece un refugio acogedor entre paradas.",
+              "Usa el aparcamiento frente a la playa para vistas despejadas del Mediterráneo."
             ]
           }
         }
@@ -2271,7 +2463,8 @@
             "de": "Torre de l'Ermita",
             "hu": "Remete-torony",
             "ro": "Torre de l'Ermita",
-            "en": "Ermita Tower"
+            "en": "Ermita Tower",
+            "es": "Torre de la Ermita"
           },
           "coords": [
             1.0535,
@@ -2286,7 +2479,8 @@
             "de": "Bushaltestelle in Gehweite.",
             "hu": "Buszmegálló sétatávolságra.",
             "ro": "Stație de autobuz la mică distanță.",
-            "en": "Bus stop within walking distance."
+            "en": "Bus stop within walking distance.",
+            "es": "Parada de autobús a poca distancia a pie."
           }
         },
         {
@@ -2294,7 +2488,8 @@
             "de": "Mare de Déu del Camí",
             "hu": "Úti Szűzanya templom",
             "ro": "Biserica Mare de Déu del Camí",
-            "en": "Mare de Déu del Camí Church"
+            "en": "Mare de Déu del Camí Church",
+            "es": "Iglesia Mare de Déu del Camí"
           },
           "coords": [
             1.0538,
@@ -2309,7 +2504,8 @@
             "de": "Direkt neben dem Turm.",
             "hu": "Közvetlenül a torony mellett.",
             "ro": "Chiar lângă turn.",
-            "en": "Located right next to the tower."
+            "en": "Located right next to the tower.",
+            "es": "Situada justo al lado de la torre."
           }
         },
         {
@@ -2317,7 +2513,8 @@
             "de": "Port de Cambrils",
             "hu": "Cambrils kikötője",
             "ro": "Portul Cambrils",
-            "en": "Cambrils Port"
+            "en": "Cambrils Port",
+            "es": "Puerto de Cambrils"
           },
           "coords": [
             1.0625,
@@ -2332,7 +2529,8 @@
             "de": "Zentraler Umsteigepunkt für Busse.",
             "hu": "Központi buszos csomópont.",
             "ro": "Nod central pentru autobuze.",
-            "en": "Central hub for local buses."
+            "en": "Central hub for local buses.",
+            "es": "Nudo central de los autobuses locales."
           }
         },
         {
@@ -2340,7 +2538,8 @@
             "de": "Museu de la Torre del Port",
             "hu": "Kikötői Torony Múzeum",
             "ro": "Muzeul Turnului Portului",
-            "en": "Port Tower Museum"
+            "en": "Port Tower Museum",
+            "es": "Museo de la Torre del Puerto"
           },
           "coords": [
             1.0615,
@@ -2355,7 +2554,8 @@
             "de": "Ikone des Hafens.",
             "hu": "A kikötő jelképe.",
             "ro": "Simbolul portului.",
-            "en": "Icon of the harbor."
+            "en": "Icon of the harbor.",
+            "es": "Icono del puerto."
           }
         },
         {
@@ -2363,7 +2563,8 @@
             "de": "Villa Romana de la Llosa",
             "hu": "Llosa római villa",
             "ro": "Vila Romană de la Llosa",
-            "en": "La Llosa Roman Villa"
+            "en": "La Llosa Roman Villa",
+            "es": "Villa romana de La Llosa"
           },
           "coords": [
             1.0555,
@@ -2378,7 +2579,8 @@
             "de": "Mit dem Stadtbus gut erreichbar.",
             "hu": "Városi busszal jól elérhető.",
             "ro": "Ușor accesibil cu autobuzul urban.",
-            "en": "Easily accessible by city bus."
+            "en": "Easily accessible by city bus.",
+            "es": "Fácilmente accesible en autobús urbano."
           }
         },
         {
@@ -2386,7 +2588,8 @@
             "de": "Platja del Regueral",
             "hu": "Regueral strand",
             "ro": "Plaja Regueral",
-            "en": "Regueral Beach"
+            "en": "Regueral Beach",
+            "es": "Playa del Regueral"
           },
           "coords": [
             1.0685,
@@ -2401,7 +2604,8 @@
             "de": "Busse nach Salou/Tarragona halten hier.",
             "hu": "Salou/Tarragona felé tartó buszok megállnak itt.",
             "ro": "Autobuzele spre Salou/Tarragona opresc aici.",
-            "en": "Buses towards Salou/Tarragona stop here."
+            "en": "Buses towards Salou/Tarragona stop here.",
+            "es": "Los autobuses hacia Salou/Tarragona paran aquí."
           }
         }
       ],
@@ -2409,7 +2613,8 @@
         "de": "Cambrils verfügt über ein effizientes Bussystem, das die Altstadt mit dem Hafen und den Stränden verbindet. Starten Sie im historischen Zentrum und nutzen Sie den Stadtbus, um zum belebten Hafen zu gelangen.\n\nBesuchen Sie die Museen und Kirchen, ohne sich um Parkplätze sorgen zu müssen. Die Busse verkehren regelmäßig und verbinden alle wichtigen touristischen Punkte der Stadt.\n\nDen Nachmittag verbringen Sie am Strand von Regueral. Von hier aus gibt es hervorragende Verbindungen zurück zu Ihrem Hotel oder in Nachbarstädte wie Salou. Transit ist die entspannteste Art, Cambrils zu erleben.",
         "hu": "Cambrils hatékony buszhálózattal rendelkezik, amely összeköti az óvárost a kikötővel és a strandokkal. Kezdje a történelmi központban, majd használja a városi buszt a nyüzsgő kikötő eléréséhez.\n\nLátogasson el a múzeumokba és templomokba anélkül, hogy a parkolás miatt aggódna. A buszok rendszeresen járnak és minden fontos turisztikai pontot érintenek.\n\nA délutánt a Regueral strandon töltse. Innen kiváló buszközlekedés van vissza a szállodákhoz vagy a szomszédos városokba, mint Salou. A tömegközlekedés a legnyugodtabb módja Cambrils felfedezésének.",
         "ro": "Cambrils are un sistem de autobuze eficient care leagă orașul vechi de port și plaje. Începeți în centrul istoric și folosiți autobuzul urban pentru a ajunge în portul animat.\n\nVizitați muzeele și bisericile fără grija parcării. Autobuzele circulă regulat și conectează toate punctele turistice importante ale orașului.\n\nPetreceți după-amiaza pe plaja Regueral. De aici există conexiuni excelente înapoi spre hotel sau către orașele vecine precum Salou. Transportul în comun este cel mai relaxant mod de a experimenta Cambrils.",
-        "en": "Cambrils has an efficient bus system connecting the old town with the port and the beaches. Start in the historic center and take the city bus to reach the lively harbor area.\n\nVisit the museums and churches without worrying about parking. Buses run regularly and stop at all major tourist points across the city.\n\nSpend your afternoon at Regueral Beach. From here, you have excellent bus connections back to your hotel or to neighboring towns like Salou. Transit is the most relaxed way to experience Cambrils."
+        "en": "Cambrils has an efficient bus system connecting the old town with the port and the beaches. Start in the historic center and take the city bus to reach the lively harbor area.\n\nVisit the museums and churches without worrying about parking. Buses run regularly and stop at all major tourist points across the city.\n\nSpend your afternoon at Regueral Beach. From here, you have excellent bus connections back to your hotel or to neighboring towns like Salou. Transit is the most relaxed way to experience Cambrils.",
+        "es": "Cambrils cuenta con un sistema de autobuses eficiente que conecta el casco antiguo con el puerto y las playas. Empieza en el centro histórico y toma el autobús urbano para llegar a la animada zona del puerto.\n\nVisita los museos y las iglesias sin preocuparte por aparcar. Los autobuses circulan con regularidad y paran en todos los puntos turísticos principales de la ciudad.\n\nPasa la tarde en la playa del Regueral. Desde aquí tienes excelentes conexiones de autobús de vuelta al hotel o a localidades vecinas como Salou. El transporte es la manera más relajada de experimentar Cambrils."
       },
       "gastro_picks": {
         "de": [
@@ -2569,6 +2774,12 @@
           "Schedules are posted at all major bus stops.",
           "Bus Plana is the main service provider.",
           "Stops are clearly marked and easy to find."
+        ],
+        "es": [
+          "Compra una tarjeta de 10 viajes (T-10) para ahorrar.",
+          "Los horarios están publicados en todas las paradas principales.",
+          "Bus Plana es el principal operador.",
+          "Las paradas están claramente señalizadas y son fáciles de encontrar."
         ]
       },
       "variants": {
@@ -2577,7 +2788,8 @@
             "de": "Cambrils verfügt über ein effizientes Bussystem, das die Altstadt mit dem Hafen und den Stränden verbindet. Starten Sie im historischen Zentrum und nutzen Sie den Stadtbus, um zum belebten Hafen zu gelangen.\n\nBesuchen Sie die Museen und Kirchen, ohne sich um Parkplätze sorgen zu müssen. Die Busse verkehren regelmäßig und verbinden alle wichtigen touristischen Punkte der Stadt.\n\nDen Nachmittag verbringen Sie am Strand von Regueral. Von hier aus gibt es hervorragende Verbindungen zurück zu Ihrem Hotel oder in Nachbarstädte wie Salou. Transit ist die entspannteste Art, Cambrils zu erleben.",
             "hu": "Cambrils hatékony buszhálózattal rendelkezik, amely összeköti az óvárost a kikötővel és a strandokkal. Kezdje a történelmi központban, majd használja a városi buszt a nyüzsgő kikötő eléréséhez.\n\nLátogasson el a múzeumokba és templomokba anélkül, hogy a parkolás miatt aggódna. A buszok rendszeresen járnak és minden fontos turisztikai pontot érintenek.\n\nA délutánt a Regueral strandon töltse. Innen kiváló buszközlekedés van vissza a szállodákhoz vagy a szomszédos városokba, mint Salou. A tömegközlekedés a legnyugodtabb módja Cambrils felfedezésének.",
             "ro": "Cambrils are un sistem de autobuze eficient care leagă orașul vechi de port și plaje. Începeți în centrul istoric și folosiți autobuzul urban pentru a ajunge în portul animat.\n\nVizitați muzeele și bisericile fără grija parcării. Autobuzele circulă regulat și conectează toate punctele turistice importante ale orașului.\n\nPetreceți după-amiaza pe plaja Regueral. De aici există conexiuni excelente înapoi spre hotel sau către orașele vecine precum Salou. Transportul în comun este cel mai relaxant mod de a experimenta Cambrils.",
-            "en": "Cambrils has an efficient bus system connecting the old town with the port and the beaches. Start in the historic center and take the city bus to reach the lively harbor area.\n\nVisit the museums and churches without worrying about parking. Buses run regularly and stop at all major tourist points across the city.\n\nSpend your afternoon at Regueral Beach. From here, you have excellent bus connections back to your hotel or to neighboring towns like Salou. Transit is the most relaxed way to experience Cambrils."
+            "en": "Cambrils has an efficient bus system connecting the old town with the port and the beaches. Start in the historic center and take the city bus to reach the lively harbor area.\n\nVisit the museums and churches without worrying about parking. Buses run regularly and stop at all major tourist points across the city.\n\nSpend your afternoon at Regueral Beach. From here, you have excellent bus connections back to your hotel or to neighboring towns like Salou. Transit is the most relaxed way to experience Cambrils.",
+            "es": "Cambrils cuenta con un sistema de autobuses eficiente que conecta el casco antiguo con el puerto y las playas. Empieza en el centro histórico y toma el autobús urbano para llegar a la animada zona del puerto.\n\nVisita los museos y las iglesias sin preocuparte por aparcar. Los autobuses circulan con regularidad y paran en todos los puntos turísticos principales de la ciudad.\n\nPasa la tarde en la playa del Regueral. Desde aquí tienes excelentes conexiones de autobús de vuelta al hotel o a localidades vecinas como Salou. El transporte es la manera más relajada de experimentar Cambrils."
           },
           "stops": [
             {
@@ -2585,13 +2797,15 @@
                 "de": "Torre de l'Ermita",
                 "hu": "Remete-torony",
                 "ro": "Torre de l'Ermita",
-                "en": "Ermita Tower"
+                "en": "Ermita Tower",
+                "es": "Torre de la Ermita"
               },
               "tip_5lang": {
                 "de": "Bushaltestelle in Gehweite.",
                 "hu": "Buszmegálló sétatávolságra.",
                 "ro": "Stație de autobuz la mică distanță.",
-                "en": "Bus stop within walking distance."
+                "en": "Bus stop within walking distance.",
+                "es": "Parada de autobús a poca distancia a pie."
               }
             },
             {
@@ -2599,13 +2813,15 @@
                 "de": "Mare de Déu del Camí",
                 "hu": "Úti Szűzanya templom",
                 "ro": "Biserica Mare de Déu del Camí",
-                "en": "Mare de Déu del Camí Church"
+                "en": "Mare de Déu del Camí Church",
+                "es": "Iglesia Mare de Déu del Camí"
               },
               "tip_5lang": {
                 "de": "Direkt neben dem Turm.",
                 "hu": "Közvetlenül a torony mellett.",
                 "ro": "Chiar lângă turn.",
-                "en": "Located right next to the tower."
+                "en": "Located right next to the tower.",
+                "es": "Situada justo al lado de la torre."
               }
             },
             {
@@ -2613,13 +2829,15 @@
                 "de": "Port de Cambrils",
                 "hu": "Cambrils kikötője",
                 "ro": "Portul Cambrils",
-                "en": "Cambrils Port"
+                "en": "Cambrils Port",
+                "es": "Puerto de Cambrils"
               },
               "tip_5lang": {
                 "de": "Zentraler Umsteigepunkt für Busse.",
                 "hu": "Központi buszos csomópont.",
                 "ro": "Nod central pentru autobuze.",
-                "en": "Central hub for local buses."
+                "en": "Central hub for local buses.",
+                "es": "Nudo central de los autobuses locales."
               }
             },
             {
@@ -2627,13 +2845,15 @@
                 "de": "Museu de la Torre del Port",
                 "hu": "Kikötői Torony Múzeum",
                 "ro": "Muzeul Turnului Portului",
-                "en": "Port Tower Museum"
+                "en": "Port Tower Museum",
+                "es": "Museo de la Torre del Puerto"
               },
               "tip_5lang": {
                 "de": "Ikone des Hafens.",
                 "hu": "A kikötő jelképe.",
                 "ro": "Simbolul portului.",
-                "en": "Icon of the harbor."
+                "en": "Icon of the harbor.",
+                "es": "Icono del puerto."
               }
             },
             {
@@ -2641,13 +2861,15 @@
                 "de": "Villa Romana de la Llosa",
                 "hu": "Llosa római villa",
                 "ro": "Vila Romană de la Llosa",
-                "en": "La Llosa Roman Villa"
+                "en": "La Llosa Roman Villa",
+                "es": "Villa romana de La Llosa"
               },
               "tip_5lang": {
                 "de": "Mit dem Stadtbus gut erreichbar.",
                 "hu": "Városi busszal jól elérhető.",
                 "ro": "Ușor accesibil cu autobuzul urban.",
-                "en": "Easily accessible by city bus."
+                "en": "Easily accessible by city bus.",
+                "es": "Fácilmente accesible en autobús urbano."
               }
             },
             {
@@ -2655,13 +2877,15 @@
                 "de": "Platja del Regueral",
                 "hu": "Regueral strand",
                 "ro": "Plaja Regueral",
-                "en": "Regueral Beach"
+                "en": "Regueral Beach",
+                "es": "Playa del Regueral"
               },
               "tip_5lang": {
                 "de": "Busse nach Salou/Tarragona halten hier.",
                 "hu": "Salou/Tarragona felé tartó buszok megállnak itt.",
                 "ro": "Autobuzele spre Salou/Tarragona opresc aici.",
-                "en": "Buses towards Salou/Tarragona stop here."
+                "en": "Buses towards Salou/Tarragona stop here.",
+                "es": "Los autobuses hacia Salou/Tarragona paran aquí."
               }
             }
           ],
@@ -2823,6 +3047,12 @@
               "Schedules are posted at all major bus stops.",
               "Bus Plana is the main service provider.",
               "Stops are clearly marked and easy to find."
+            ],
+            "es": [
+              "Compra una tarjeta de 10 viajes (T-10) para ahorrar.",
+              "Los horarios están publicados en todas las paradas principales.",
+              "Bus Plana es el principal operador.",
+              "Las paradas están claramente señalizadas y son fáciles de encontrar."
             ]
           }
         },
@@ -2831,7 +3061,8 @@
             "de": "Morgens nutzen Sie den Bus zum Ermita-Turm, um trocken zu bleiben. Mittags bringt Sie der Nahverkehr zur Kirche Mare de Déu.\nNachmittags erreichen Sie den Hafen und das Turmmuseum bequem per Transit. Abends beenden Sie die Tour an der Villa La Llosa und dem Regueral-Strand, geschützt in den Fahrzeugen.",
             "hu": "Reggel busszal megyünk az Ermita-toronyhoz, hogy szárazon maradjunk. Délben a tömegközlekedés elvisz a Mare de Déu templomhoz.\nDélután a kikötőt és a toronymúzeumot kényelmesen érjük el járattal. Este a La Llosa villánál és a Regueral strandnál fejezzük be, a járművek védelmében.",
             "ro": "Dimineața folosim autobuzul spre Turnul Ermita pentru a rămâne uscați. La prânz, transportul public ne duce la Biserica Mare de Déu.\nDupă-amiaza ajungem în port și la muzeu confortabil cu tranzitul. Seara încheiem la Vila La Llosa și plaja Regueral, protejați în interiorul vehiculelor.",
-            "en": "Morning bus ride to Ermita Tower keeps you dry from the start. At noon, use local transit to reach the Mare de Déu Church.\nAfternoon travel to the port and museum is comfortable by public transport. Finish your evening at La Llosa Villa and Regueral Beach, sheltered within the transit system."
+            "en": "Morning bus ride to Ermita Tower keeps you dry from the start. At noon, use local transit to reach the Mare de Déu Church.\nAfternoon travel to the port and museum is comfortable by public transport. Finish your evening at La Llosa Villa and Regueral Beach, sheltered within the transit system.",
+            "es": "La salida en autobús por la mañana hacia la Torre de la Ermita te mantiene seco desde el principio. Al mediodía, usa el transporte local para llegar a la iglesia Mare de Déu.\nEl viaje de la tarde al puerto y al museo es cómodo en transporte público. Termina la noche en la Villa de La Llosa y la playa del Regueral, protegido dentro del sistema de transporte."
           },
           "stops": [
             {
@@ -2840,7 +3071,8 @@
                 "de": "Die Bushaltestelle bietet Schutz bei Regen.",
                 "hu": "A buszmegálló fedett, védelmet nyújt az eső elől.",
                 "ro": "Stația de autobuz este acoperită, oferind protecție.",
-                "en": "The bus stop is sheltered, providing protection from rain."
+                "en": "The bus stop is sheltered, providing protection from rain.",
+                "es": "La parada de autobús tiene marquesina, ofreciendo protección contra la lluvia."
               }
             },
             {
@@ -2849,7 +3081,8 @@
                 "de": "Kurzer Fußweg von der Haltestelle zum Eingang.",
                 "hu": "Rövid séta a megállótól a bejáratig.",
                 "ro": "Drum scurt pe jos de la stație până la intrare.",
-                "en": "Short walk from the transit stop to the entrance."
+                "en": "Short walk from the transit stop to the entrance.",
+                "es": "A poca distancia a pie desde la parada de transporte hasta la entrada."
               }
             },
             {
@@ -2858,7 +3091,8 @@
                 "de": "Zentrale Haltestellen ermöglichen schnellen Zugang zum Hafen.",
                 "hu": "A központi megállók gyors hozzáférést adnak a kikötőhöz.",
                 "ro": "Stațiile centrale permit accesul rapid în port.",
-                "en": "Central stops allow for quick access to the harbor area."
+                "en": "Central stops allow for quick access to the harbor area.",
+                "es": "Las paradas centrales permiten acceso rápido a la zona del puerto."
               }
             },
             {
@@ -2867,7 +3101,8 @@
                 "de": "Ideal erreichbar ohne nass zu werden.",
                 "hu": "Ideálisan elérhető anélkül, hogy eláznánk.",
                 "ro": "Accesibil în mod ideal fără a vă uda.",
-                "en": "Ideally accessible without getting soaked on the way."
+                "en": "Ideally accessible without getting soaked on the way.",
+                "es": "Idealmente accesible sin llegar empapado en el trayecto."
               }
             },
             {
@@ -2876,7 +3111,8 @@
                 "de": "Prüfen Sie die Rückfahrtzeiten bei Regenwetter.",
                 "hu": "Ellenőrizze a visszaindulási időket esős időben.",
                 "ro": "Verificați orele de întoarcere pe vreme ploioasă.",
-                "en": "Check the return transit times during rainy weather."
+                "en": "Check the return transit times during rainy weather.",
+                "es": "Consulta los horarios de regreso durante el tiempo lluvioso."
               }
             },
             {
@@ -2885,7 +3121,8 @@
                 "de": "Haltestellen nahe der Strandcafés nutzen.",
                 "hu": "Használja a strandközeli kávézók melletti megállókat.",
                 "ro": "Folosiți stațiile de lângă cafenelele de pe plajă.",
-                "en": "Use the stops located near the beachfront cafes."
+                "en": "Use the stops located near the beachfront cafes.",
+                "es": "Usa las paradas ubicadas junto a las cafeterías del paseo marítimo."
               }
             }
           ],
@@ -2913,6 +3150,12 @@
               "Buses are the best dry alternative to walking in the rain.",
               "Have small change or a valid ticket ready beforehand.",
               "Watch out for slippery floors when boarding or exiting."
+            ],
+            "es": [
+              "Descarga la app de transporte local para actualizaciones en tiempo real.",
+              "Los autobuses son la mejor alternativa seca frente a caminar bajo la lluvia.",
+              "Ten suelto o un título válido listo antes de subir.",
+              "Tenga cuidado con los suelos resbaladizos al subir o bajar."
             ]
           }
         },
@@ -2921,7 +3164,8 @@
             "de": "Morgens bringt Sie der Bus entspannt zum Ermita-Turm in die kühle Stadt. Mittags nutzen Sie den Transit zur Mare de Déu Kirche.\nNachmittags erreichen Sie den Hafen, wo die Meeresbrise im Winter erfrischt. Abends kehren Sie bequem mit dem Bus von der Villa La Llosa zurück.",
             "hu": "Reggel a busz kényelmesen visz az Ermita-toronyhoz a hűvös városban. Délben a Mare de Déu templomhoz utazunk tömegközlekedéssel.\nDélután érünk a kikötőhöz, ahol a téli tengeri szél frissítő. Este kényelmesen buszozunk vissza a La Llosa villától.",
             "ro": "Dimineața autobuzul ne duce relaxați la Turnul Ermita în orașul răcoros. La prânz folosim tranzitul spre Biserica Mare de Déu.\nDupă-amiaza ajungem în port, unde briza mării este revigorantă iarna. Seara revenim confortabil cu autobuzul de la Vila La Llosa.",
-            "en": "Morning bus ride takes you comfortably to Ermita Tower in the cool city. At noon, use public transit to reach the Mare de Déu Church.\nAfternoon reach the harbor, where the winter sea breeze is refreshing. Return conveniently by bus from La Llosa Villa in the evening."
+            "en": "Morning bus ride takes you comfortably to Ermita Tower in the cool city. At noon, use public transit to reach the Mare de Déu Church.\nAfternoon reach the harbor, where the winter sea breeze is refreshing. Return conveniently by bus from La Llosa Villa in the evening.",
+            "es": "El trayecto en autobús por la mañana te lleva cómodamente a la Torre de la Ermita en la fresca ciudad. Al mediodía, utiliza el transporte público para llegar a la iglesia Mare de Déu. Por la tarde, llega al puerto, donde la brisa invernal del mar resulta refrescante. Vuelve cómodamente en autobús desde La Llosa Villa por la noche."
           },
           "stops": [
             {
@@ -2930,7 +3174,8 @@
                 "de": "Die Busse sind im Winter angenehm geheizt.",
                 "hu": "A buszok télen kellemesen fűtöttek.",
                 "ro": "Autobuzele sunt încălzite plăcut iarna.",
-                "en": "Buses are pleasantly heated during the winter months."
+                "en": "Buses are pleasantly heated during the winter months.",
+                "es": "Los autobuses están agradablemente calefactados durante los meses de invierno."
               }
             },
             {
@@ -2939,7 +3184,8 @@
                 "de": "Transit-Frequenzen sind auch im Winter zuverlässig.",
                 "hu": "A járatok gyakorisága télen is megbízható.",
                 "ro": "Frecvența curselor este fiabilă și iarna.",
-                "en": "Transit frequency remains reliable even in winter."
+                "en": "Transit frequency remains reliable even in winter.",
+                "es": "La frecuencia del transporte se mantiene fiable incluso en invierno."
               }
             },
             {
@@ -2948,7 +3194,8 @@
                 "de": "Die Haltestelle bietet Windschutz durch Glaswände.",
                 "hu": "A megálló üvegfalai védenek a széltől.",
                 "ro": "Pereții de sticlă ai stației protejează de vânt.",
-                "en": "Glass panels at the stop provide protection from wind."
+                "en": "Glass panels at the stop provide protection from wind.",
+                "es": "Los paneles de vidrio en la parada protegen del viento."
               }
             },
             {
@@ -2957,7 +3204,8 @@
                 "de": "Kurze Wege zwischen Bus und Museumseingang.",
                 "hu": "Rövid távolság a busz és a múzeumbemenet között.",
                 "ro": "Distanță scurtă între autobuz și intrarea în muzeu.",
-                "en": "Short distance between the bus and the museum entrance."
+                "en": "Short distance between the bus and the museum entrance.",
+                "es": "Corta distancia entre el autobús y la entrada del museo."
               }
             },
             {
@@ -2966,7 +3214,8 @@
                 "de": "Letzte Busse fahren vor dem Abendessen.",
                 "hu": "Az utolsó buszok vacsoraidő előtt indulnak.",
                 "ro": "Ultimele autobuze pleacă înainte de ora cinei.",
-                "en": "Final bus departures are usually before dinner time."
+                "en": "Final bus departures are usually before dinner time.",
+                "es": "Las últimas salidas de autobús suelen ser antes de la cena."
               }
             },
             {
@@ -2975,7 +3224,8 @@
                 "de": "Winterfahrpläne beachten, sie können abweichen.",
                 "hu": "Ügyeljen a téli menetrendre, eltérhet a nyáritól.",
                 "ro": "Atenție la orarul de iarnă, poate fi diferit.",
-                "en": "Check winter schedules as they may differ from summer."
+                "en": "Check winter schedules as they may differ from summer.",
+                "es": "Consulta los horarios de invierno, ya que pueden diferir de los de verano."
               }
             }
           ],
@@ -3003,6 +3253,12 @@
               "Check for seasonal transit schedule changes in winter.",
               "Central transit hubs are well-lit and safe in the evenings.",
               "Public transport is perfect for getting around after early sunset."
+            ],
+            "es": [
+              "Los autobuses ofrecen un cálido refugio de la fría brisa marina.",
+              "Verifica los cambios estacionales en los horarios del transporte durante el invierno.",
+              "Los principales intercambiadores están bien iluminados y son seguros por la noche.",
+              "El transporte público es perfecto para moverse tras el atardecer temprano."
             ]
           }
         }
@@ -3020,19 +3276,22 @@
       "de": "Cambrils ist gastronomische Hauptstadt der Costa Daurada mit mehreren Michelin-Restaurants. Katalanisch und Spanisch dominieren, das Servicepersonal in Top-Restaurants spricht aber fließend Englisch und Französisch. 'Suquet de peix' ist das Gericht, das Sie probieren müssen.",
       "hu": "Cambrils a Costa Daurada gasztroközpontja, több Michelin-csillagos étteremmel. Katalán és spanyol dominál, a csúcséttermek személyzete folyékonyan beszél angolul és franciául. A 'suquet de peix' (halrazsa) kötelező kóstoló.",
       "ro": "Cambrils este capitala gastronomică a Costei Daurada, cu mai multe restaurante Michelin. Catalana și spaniola domină, dar personalul restaurantelor de top vorbește engleza și franceza fluent. 'Suquet de peix' e felul obligatoriu.",
-      "en": "Cambrils is the gastronomic capital of Costa Daurada with several Michelin restaurants. Catalan and Spanish dominate, but top-restaurant staff speak fluent English and French. 'Suquet de peix' (fish stew) is the dish you must try."
+      "en": "Cambrils is the gastronomic capital of Costa Daurada with several Michelin restaurants. Catalan and Spanish dominate, but top-restaurant staff speak fluent English and French. 'Suquet de peix' (fish stew) is the dish you must try.",
+      "es": "Cambrils es la capital gastronómica de la Costa Daurada con varios restaurantes con estrella Michelin. Predominan el catalán y el español, pero el personal de los mejores restaurantes habla inglés y francés con fluidez. El 'suquet de peix' (guiso de pescado) es el plato que debes probar."
     },
     "best_time_to_visit": {
       "de": "Mai bis Juni und September für Strand und Gastronomie ohne Trubel. Juli und August sind voll, vor allem mit Familien. Im November und Dezember Fischreichtum: 'galera' (Heuschreckenkrebse) sind dann Saison und in den Restaurants Hauptgericht.",
       "hu": "Május-június és szeptember tökéletes strandhoz és gasztronómiához. Júliusban-augusztusban családi tömeg. November-decemberben a 'galera' (sáskarák) szezonja, az éttermek főspecialitása.",
       "ro": "Mai-iunie și septembrie sunt ideale pentru plajă și gastronomie fără aglomerație. În iulie-august vine valul de familii. Noiembrie-decembrie e sezonul 'galera' (creveți-lăcustă), specialitatea momentului în restaurante.",
-      "en": "May-June and September are ideal for beach and food without crowds. July-August fill up with families. November-December bring 'galera' (mantis shrimp) season, the headline dish in restaurants."
+      "en": "May-June and September are ideal for beach and food without crowds. July-August fill up with families. November-December bring 'galera' (mantis shrimp) season, the headline dish in restaurants.",
+      "es": "Mayo-junio y septiembre son ideales para playa y gastronomía sin aglomeraciones. Julio-agosto se llenan de familias. Noviembre-diciembre traen la temporada de 'galera' (cigala mantis), el plato estrella en restaurantes."
     },
     "neighborhood_warnings": {
       "de": "Cambrils ist sehr sicher, familienorientiert und ruhiger als Salou. Im Hafenviertel abends auf Taschendiebe achten. Achten Sie auf den Verkehr auf der Promenade, Radfahrer und Elektroroller sind dort sehr aktiv.",
       "hu": "Cambrils nagyon biztonságos, családbarát, csendesebb mint Salou. A kikötőnegyedben este figyelj a zsebtolvajokra. A sétányon a forgalomra is, sok a bicikli és elektromos roller.",
       "ro": "Cambrils este foarte sigur, prietenos cu familiile și mai liniștit decât Salou. Seara, în zona portului, atenție la buzunare. Pe promenadă, atenție la biciclete și trotinete electrice, sunt foarte active.",
-      "en": "Cambrils is very safe, family-oriented and quieter than Salou. Watch pickpockets in the harbour area at night. On the promenade watch for cyclists and e-scooters, they're very active."
+      "en": "Cambrils is very safe, family-oriented and quieter than Salou. Watch pickpockets in the harbour area at night. On the promenade watch for cyclists and e-scooters, they're very active.",
+      "es": "Cambrils es muy segura, orientada a familias y más tranquila que Salou. Vigila a los carteristas en la zona del puerto por la noche. En el paseo marítimo ojo con ciclistas y patinetes eléctricos, son muy activos."
     }
   }
 }

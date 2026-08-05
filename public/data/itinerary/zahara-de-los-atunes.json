@@ -31,7 +31,8 @@
             "de": "Frühes Erscheinen sichert das beste Kunsthandwerk.",
             "hu": "Érkezzen korán a legjobb kézműves termékekért.",
             "ro": "Veniți devreme pentru cele mai bune produse artizanale.",
-            "en": "Arrive early to get the best local handicrafts."
+            "en": "Arrive early to get the best local handicrafts.",
+            "es": "Llega temprano para conseguir las mejores artesanías locales."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Das Herz der historischen Thunfischverarbeitung.",
             "hu": "A történelmi tonhal-feldolgozás központja.",
             "ro": "Inima procesării istorice a tonului.",
-            "en": "The heart of the historical tuna processing industry."
+            "en": "The heart of the historical tuna processing industry.",
+            "es": "El corazón de la histórica industria de transformación del atún."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Bewundern Sie die Schlichtheit der Fischerkirche.",
             "hu": "Csodálja meg a halásztemplom egyszerűségét.",
             "ro": "Admirați simplitatea bisericii pescarilor.",
-            "en": "Admire the simplicity of this fishermen's church."
+            "en": "Admire the simplicity of this fishermen's church.",
+            "es": "Admira la simplicidad de esta iglesia de pescadores."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Perfekt für ein Mittagessen mit Meerblick.",
             "hu": "Tökéletes egy tengerparti ebédhez.",
             "ro": "Perfect pentru un prânz cu vedere la mare.",
-            "en": "Perfect for a lunch with a sea view."
+            "en": "Perfect for a lunch with a sea view.",
+            "es": "Perfecto para comer con vistas al mar."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Genießen Sie den feinen, goldenen Sand.",
             "hu": "Élvezze a finom, aranyszínű homokot.",
             "ro": "Bucurați-vă de nisipul fin și auriu.",
-            "en": "Enjoy the fine, golden sand of the main beach."
+            "en": "Enjoy the fine, golden sand of the main beach.",
+            "es": "Disfruta de la arena fina y dorada de la playa principal."
           }
         }
       ],
@@ -111,7 +116,8 @@
         "de": "Ein entspannter Spaziergang durch Zahara beginnt am belebten Markt. Danach tauchen Sie im Palacio de la Chanca in die Geschichte des Thunfischfangs ein.\r\nMittags schlendern Sie an der kleinen Kirche vorbei zum Paseo Marítimo für fangfrischen Fisch. Der Nachmittag gehört ganz dem endlosen, kristallklaren Strand.\r\nZum Sonnenuntergang bietet der Sandstrand die perfekte Kulisse für einen ruhigen Ausklang.",
         "hu": "A zahara-i séta a nyüzsgő piacon indul, majd a Palacio de la Chanca falai között megismerheti a tonhalhalászat évszázados titkait.\r\nEbédidőben a parti sétányon kóstolhatja meg a híres helyi fogásokat. A délutánt a végtelen, aranyhomokos strandon töltheti pihenéssel.\r\nAz estét a tenger morajlása és a látványos naplemente teszi felejthetetlenné a parton.",
         "ro": "O plimbare relaxantă prin Zahara începe la piața locală, urmată de o vizită la Palacio de la Chanca pentru a descoperi istoria pescuitului de ton.\r\nLa prânz, faleza vă oferă preparate proaspete din pește. După-amiaza este dedicată relaxării pe plaja vastă cu ape de cristal.\r\nApusul pe plajă oferă decorul perfect pentru a încheia o zi memorabilă în Andaluzia.",
-        "en": "A relaxed walk through Zahara begins at the lively market, followed by a historical dive into tuna fishing at the Palacio de la Chanca.\r\nAt lunchtime, stroll past the church to the promenade for fresh local seafood. Spend the afternoon relaxing on the endless, golden beach.\r\nThe evening is best spent watching the sunset directly from the sand as the day winds down quietly."
+        "en": "A relaxed walk through Zahara begins at the lively market, followed by a historical dive into tuna fishing at the Palacio de la Chanca.\r\nAt lunchtime, stroll past the church to the promenade for fresh local seafood. Spend the afternoon relaxing on the endless, golden beach.\r\nThe evening is best spent watching the sunset directly from the sand as the day winds down quietly.",
+        "es": "Un paseo relajado por Zahara comienza en el animado mercado, seguido de una inmersión histórica en la pesca del atún en el Palacio de la Chanca.\r\nA la hora de comer, pasea junto a la iglesia hasta el paseo marítimo para mariscos frescos. Pasa la tarde relajándote en la interminable playa dorada.\r\nLa mejor manera de terminar el día es viendo la puesta de sol directamente desde la arena mientras la jornada se apaga en silencio."
       },
       "gastro_picks": {
         "de": [
@@ -219,6 +225,12 @@
           "Most shops close for siesta in the afternoon.",
           "Book fish restaurants in advance during summer.",
           "Sun protection is essential on the promenade."
+        ],
+        "es": [
+          "Lleva sandalias cómodas para caminar por la playa.",
+          "La mayoría de las tiendas cierran por la siesta por la tarde.",
+          "Reserva los restaurantes de pescado con antelación en verano.",
+          "La protección solar es esencial en el paseo marítimo."
         ]
       },
       "variants": {
@@ -227,7 +239,8 @@
             "de": "Ein entspannter Spaziergang durch Zahara beginnt am belebten Markt. Danach tauchen Sie im Palacio de la Chanca in die Geschichte des Thunfischfangs ein.\r\nMittags schlendern Sie an der kleinen Kirche vorbei zum Paseo Marítimo für fangfrischen Fisch. Der Nachmittag gehört ganz dem endlosen, kristallklaren Strand.\r\nZum Sonnenuntergang bietet der Sandstrand die perfekte Kulisse für einen ruhigen Ausklang.",
             "hu": "A zahara-i séta a nyüzsgő piacon indul, majd a Palacio de la Chanca falai között megismerheti a tonhalhalászat évszázados titkait.\r\nEbédidőben a parti sétányon kóstolhatja meg a híres helyi fogásokat. A délutánt a végtelen, aranyhomokos strandon töltheti pihenéssel.\r\nAz estét a tenger morajlása és a látványos naplemente teszi felejthetetlenné a parton.",
             "ro": "O plimbare relaxantă prin Zahara începe la piața locală, urmată de o vizită la Palacio de la Chanca pentru a descoperi istoria pescuitului de ton.\r\nLa prânz, faleza vă oferă preparate proaspete din pește. După-amiaza este dedicată relaxării pe plaja vastă cu ape de cristal.\r\nApusul pe plajă oferă decorul perfect pentru a încheia o zi memorabilă în Andaluzia.",
-            "en": "A relaxed walk through Zahara begins at the lively market, followed by a historical dive into tuna fishing at the Palacio de la Chanca.\r\nAt lunchtime, stroll past the church to the promenade for fresh local seafood. Spend the afternoon relaxing on the endless, golden beach.\r\nThe evening is best spent watching the sunset directly from the sand as the day winds down quietly."
+            "en": "A relaxed walk through Zahara begins at the lively market, followed by a historical dive into tuna fishing at the Palacio de la Chanca.\r\nAt lunchtime, stroll past the church to the promenade for fresh local seafood. Spend the afternoon relaxing on the endless, golden beach.\r\nThe evening is best spent watching the sunset directly from the sand as the day winds down quietly.",
+            "es": "Un paseo relajado por Zahara comienza en el animado mercado, seguido de una inmersión histórica en la almadraba en el Palacio de la Chanca.\r\nA la hora de comer, pasea junto a la iglesia hasta el paseo marítimo para degustar marisco local fresco. Pasa la tarde relajándote en la playa interminable de arena dorada.\r\nLa tarde es ideal para ver la puesta de sol directamente desde la arena mientras el día se apaga en calma."
           },
           "stops": [
             {
@@ -236,7 +249,8 @@
                 "de": "Frühes Erscheinen sichert das beste Kunsthandwerk.",
                 "hu": "Érkezzen korán a legjobb kézműves termékekért.",
                 "ro": "Veniți devreme pentru cele mai bune produse artizanale.",
-                "en": "Arrive early to get the best local handicrafts."
+                "en": "Arrive early to get the best local handicrafts.",
+                "es": "Llega temprano para conseguir las mejores artesanías locales."
               }
             },
             {
@@ -245,7 +259,8 @@
                 "de": "Das Herz der historischen Thunfischverarbeitung.",
                 "hu": "A történelmi tonhal-feldolgozás központja.",
                 "ro": "Inima procesării istorice a tonului.",
-                "en": "The heart of the historical tuna processing industry."
+                "en": "The heart of the historical tuna processing industry.",
+                "es": "El corazón de la histórica industria atunera."
               }
             },
             {
@@ -254,7 +269,8 @@
                 "de": "Bewundern Sie die Schlichtheit der Fischerkirche.",
                 "hu": "Csodálja meg a halásztemplom egyszerűségét.",
                 "ro": "Admirați simplitatea bisericii pescarilor.",
-                "en": "Admire the simplicity of this fishermen's church."
+                "en": "Admire the simplicity of this fishermen's church.",
+                "es": "Admira la sencillez de esta iglesia de pescadores."
               }
             },
             {
@@ -263,7 +279,8 @@
                 "de": "Perfekt für ein Mittagessen mit Meerblick.",
                 "hu": "Tökéletes egy tengerparti ebédhez.",
                 "ro": "Perfect pentru un prânz cu vedere la mare.",
-                "en": "Perfect for a lunch with a sea view."
+                "en": "Perfect for a lunch with a sea view.",
+                "es": "Perfecto para comer con vistas al mar."
               }
             },
             {
@@ -272,7 +289,8 @@
                 "de": "Genießen Sie den feinen, goldenen Sand.",
                 "hu": "Élvezze a finom, aranyszínű homokot.",
                 "ro": "Bucurați-vă de nisipul fin și auriu.",
-                "en": "Enjoy the fine, golden sand of the main beach."
+                "en": "Enjoy the fine, golden sand of the main beach.",
+                "es": "Disfruta de la fina arena dorada de la playa principal."
               }
             }
           ],
@@ -382,6 +400,12 @@
               "Most shops close for siesta in the afternoon.",
               "Book fish restaurants in advance during summer.",
               "Sun protection is essential on the promenade."
+            ],
+            "es": [
+              "Lleva sandalias cómodas para caminar por la playa.",
+              "La mayoría de las tiendas cierran por la siesta por la tarde.",
+              "Reserva los restaurantes de pescado con antelación en verano.",
+              "La protección solar es esencial en el paseo marítimo."
             ]
           }
         },
@@ -390,7 +414,8 @@
             "de": "Beginnen Sie den regnerischen Morgen unter den Markisen des Mercadillo. Mittags bieten die Mauern des Palacio de la Chanca Schutz vor dem Nieselregen. Nachmittags ist das Innere der Carmen-Kirche ein trockener Rückzugsort. Der Tag endet mit einem windigen, stimmungsvollen Spaziergang am stürmischen Paseo Marítimo.",
             "hu": "Kezdje az esős reggelt a piac fedettebb árusainál. Délben a Palacio de la Chanca vastag falai nyújtanak menedéket a permetező eső elől. Délután a Carmen-templom csendes belső tere tökéletesen száraz pihenő. A napot egy szeles, hangulatos séta zárja a morajló Atlanti-óceán partján.",
             "ro": "Începeți dimineața ploioasă sub copertinele pieței locale. La prânz, zidurile Palatului la Chanca oferă adăpost împotriva burniței. După-amiaza, interiorul liniștit al bisericii Carmen este un refugiu uscat. Ziua se încheie cu o plimbare atmosferică și vântoasă pe faleza umedă.",
-            "en": "Start the rainy morning under the market awnings. By noon, the thick walls of Palacio de la Chanca provide refuge from the drizzle. In the afternoon, the quiet interior of the Carmen church is perfectly dry. End the day with a moody, wind-swept walk along the promenade as the Atlantic clouds roll in."
+            "en": "Start the rainy morning under the market awnings. By noon, the thick walls of Palacio de la Chanca provide refuge from the drizzle. In the afternoon, the quiet interior of the Carmen church is perfectly dry. End the day with a moody, wind-swept walk along the promenade as the Atlantic clouds roll in.",
+            "es": "Comienza la mañana lluviosa bajo los toldos del mercado. Al mediodía, los muros gruesos del Palacio de la Chanca ofrecen refugio de la llovizna. Por la tarde, el interior silencioso de la iglesia del Carmen está perfectamente seco. Termina el día con un paseo ventoso y melancólico por el paseo marítimo mientras las nubes atlánticas se acercan."
           },
           "stops": [
             {
@@ -399,7 +424,8 @@
                 "de": "Suchen Sie Schutz unter den Markisen der Stände.",
                 "hu": "Keressen menedéket az árusok ponyvái alatt.",
                 "ro": "Căutați adăpost sub copertinele tarabelor.",
-                "en": "Seek shelter under the stall awnings."
+                "en": "Seek shelter under the stall awnings.",
+                "es": "Busca refugio bajo los toldos de los puestos."
               }
             },
             {
@@ -408,7 +434,8 @@
                 "de": "Die historischen Mauern bieten guten Windschutz.",
                 "hu": "A történelmi falak jó szélvédelmet nyújtanak.",
                 "ro": "Zidurile istorice oferă o protecție bună împotriva vântului.",
-                "en": "The historical walls provide good wind protection."
+                "en": "The historical walls provide good wind protection.",
+                "es": "Los muros históricos ofrecen buena protección contra el viento."
               }
             },
             {
@@ -417,7 +444,8 @@
                 "de": "Idealer Ort, um einen starken Schauer abzuwarten.",
                 "hu": "Ideális hely egy erősebb zápor megvárásához.",
                 "ro": "Loc ideal pentru a aștepta trecerea unei averse.",
-                "en": "Ideal place to wait out a heavy downpour."
+                "en": "Ideal place to wait out a heavy downpour.",
+                "es": "Lugar ideal para esperar a que pase un fuerte aguacero."
               }
             },
             {
@@ -426,7 +454,8 @@
                 "de": "Achtung, die Fliesen können bei Nässe rutschig sein.",
                 "hu": "Vigyázat, a burkolat nedvesen csúszós lehet.",
                 "ro": "Atenție, pavajul poate fi alunecos când este umed.",
-                "en": "Caution, the pavement can be slippery when wet."
+                "en": "Caution, the pavement can be slippery when wet.",
+                "es": "Cuidado, el pavimento puede estar resbaladizo cuando está mojado."
               }
             },
             {
@@ -435,7 +464,8 @@
                 "de": "Genießen Sie die dramatische Aussicht auf das stürmische Meer.",
                 "hu": "Élvezze a viharos tenger drámai látványát.",
                 "ro": "Bucurați-vă de vederea dramatică a mării înfuriate.",
-                "en": "Enjoy the dramatic view of the stormy sea."
+                "en": "Enjoy the dramatic view of the stormy sea.",
+                "es": "Disfruta de la vista dramática del mar tormentoso."
               }
             }
           ],
@@ -463,6 +493,12 @@
               "The church and the Palacio offer the best covered retreat spots.",
               "Take advantage of rain breaks for short walks on the sand.",
               "Many cafes along the promenade have glass-enclosed terraces."
+            ],
+            "es": [
+              "Lleva un chubasquero cortaviento, las sombrillas suelen voltearse con la brisa costera.",
+              "La iglesia y el Palacio ofrecen los mejores puntos cubiertos para refugiarse.",
+              "Aprovecha las pausas en la lluvia para breves paseos por la arena.",
+              "Muchos cafés del paseo cuentan con terrazas acristaladas."
             ]
           }
         },
@@ -471,7 +507,8 @@
             "de": "Ein frischer Wintermorgen beginnt auf dem Markt mit heißem Kaffee. Mittags leuchtet der Palacio de la Chanca im klaren, tiefstehenden Sonnenlicht. Nachmittags herrscht in der Kirche eine friedliche Stille. Der Tag endet früh mit einem spektakulären Sonnenuntergang am einsamen, weiten Strand von Zahara.",
             "hu": "A friss téli reggel a piacon kezdődik egy forró kávéval. Délben a Palacio de la Chanca falai ragyognak a tiszta, alacsony téli napsütésben. Délután a templomban békés csend fogadja. A nap korán ér véget egy látványos naplementével Zahara néptelen, tágas strandján.",
             "ro": "O dimineață răcoroasă de iarnă începe la piață cu o cafea fierbinte. La prânz, Palatul la Chanca strălucește în lumina clară a soarelui. După-amiaza, în biserică domnește o liniște deplină. Ziua se termină devreme cu un apus spectaculos pe plaja pustie și vastă.",
-            "en": "A crisp winter morning starts at the market with a hot coffee. At noon, Palacio de la Chanca glows in the clear, low winter sunlight. The afternoon brings peaceful silence inside the church. The day ends early with a spectacular sunset on the deserted, vast beach of Zahara."
+            "en": "A crisp winter morning starts at the market with a hot coffee. At noon, Palacio de la Chanca glows in the clear, low winter sunlight. The afternoon brings peaceful silence inside the church. The day ends early with a spectacular sunset on the deserted, vast beach of Zahara.",
+            "es": "Una fresca mañana invernal comienza en el mercado con un café caliente. Al mediodía, el Palacio de la Chanca resplandece con la fría luz baja del invierno. La tarde trae el silencio pacífico dentro de la iglesia. El día termina pronto con una espectacular puesta de sol en la inmensa y desierta playa de Zahara."
           },
           "stops": [
             {
@@ -480,7 +517,8 @@
                 "de": "Kaufen Sie lokale Winterprodukte und warmes Gebäck.",
                 "hu": "Vásároljon helyi téli termékeket és meleg süteményt.",
                 "ro": "Cumpărați produse locale de iarnă și foietaje calde.",
-                "en": "Buy local winter products and warm pastries."
+                "en": "Buy local winter products and warm pastries.",
+                "es": "Compra productos locales de invierno y bollería caliente."
               }
             },
             {
@@ -489,7 +527,8 @@
                 "de": "Das Licht ist ideal für Fotos ohne Touristenmassen.",
                 "hu": "A fények ideálisak a tömegmentes fotózáshoz.",
                 "ro": "Lumina este ideală pentru fotografii fără mulțimi de turiști.",
-                "en": "The light is ideal for photos without tourist crowds."
+                "en": "The light is ideal for photos without tourist crowds.",
+                "es": "La luz es ideal para fotos sin multitudes de turistas."
               }
             },
             {
@@ -498,7 +537,8 @@
                 "de": "Im Inneren ist es deutlich wärmer als draußen am Meer.",
                 "hu": "Odabent jóval melegebb van, mint kint a tengerparton.",
                 "ro": "În interior este mult mai cald decât afară, lângă mare.",
-                "en": "It is significantly warmer inside than outside by the sea."
+                "en": "It is significantly warmer inside than outside by the sea.",
+                "es": "En el interior hace bastante más calor que fuera junto al mar."
               }
             },
             {
@@ -507,7 +547,8 @@
                 "de": "Perfekt für einen zügigen Spaziergang gegen die Kälte.",
                 "hu": "Tökéletes egy tempós sétához a hideg ellen.",
                 "ro": "Perfect pentru o plimbare vioaie împotriva frigului.",
-                "en": "Perfect for a brisk walk to keep warm."
+                "en": "Perfect for a brisk walk to keep warm.",
+                "es": "Perfecto para una caminata vigorosa para entrar en calor."
               }
             },
             {
@@ -516,7 +557,8 @@
                 "de": "Der Sonnenuntergang findet hier im Winter gegen 18:00 Uhr statt.",
                 "hu": "A naplemente télen 18:00 körül látható itt.",
                 "ro": "Apusul are loc aici în jur de ora 18:00 iarna.",
-                "en": "Sunset occurs here around 18:00 in winter."
+                "en": "Sunset occurs here around 18:00 in winter.",
+                "es": "La puesta de sol aquí ocurre alrededor de las 18:00 en invierno."
               }
             }
           ],
@@ -544,6 +586,12 @@
               "The beaches are nearly empty and ideal for long hikes.",
               "Note that some beach bars (chiringuitos) may be closed in winter.",
               "Landscape photography lighting is at its best during winter months."
+            ],
+            "es": [
+              "Vístete en capas; el sol calienta pero la sombra sigue fría.",
+              "Las playas están casi vacías e ideales para largas caminatas.",
+              "Ten en cuenta que algunos chiringuitos pueden estar cerrados en invierno.",
+              "La iluminación para fotografía de paisaje es mejor durante los meses de invierno."
             ]
           }
         }
@@ -572,7 +620,8 @@
             "de": "Frischer Wind am Morgen.",
             "hu": "Friss reggeli szellő a parton.",
             "ro": "Briză matinală proaspătă.",
-            "en": "Fresh morning breeze by the sea."
+            "en": "Fresh morning breeze by the sea.",
+            "es": "Fresco brisa matinal junto al mar."
           }
         },
         {
@@ -590,7 +639,8 @@
             "de": "Kurzer Stopp für Fotos.",
             "hu": "Rövid megálló fotózáshoz.",
             "ro": "Scurt popas pentru fotografii.",
-            "en": "Short stop for amazing photos."
+            "en": "Short stop for amazing photos.",
+            "es": "Parada corta para fotos increíbles."
           }
         },
         {
@@ -608,7 +658,8 @@
             "de": "Exklusiverer Strandabschnitt.",
             "hu": "Exkluzívabb tengerparti szakasz.",
             "ro": "O zonă de plajă mai exclusivistă.",
-            "en": "A more exclusive beach area."
+            "en": "A more exclusive beach area.",
+            "es": "Una zona de playa más exclusiva."
           }
         },
         {
@@ -626,7 +677,8 @@
             "de": "Spektakuläre Aussicht auf Afrika.",
             "hu": "Látványos kilátás Afrika felé.",
             "ro": "Vedere spectaculoasă spre Africa.",
-            "en": "Spectacular views towards Africa."
+            "en": "Spectacular views towards Africa.",
+            "es": "Vistas espectaculares hacia África."
           }
         },
         {
@@ -644,7 +696,8 @@
             "de": "Der Wendepunkt der Tour.",
             "hu": "A túra legtávolabbi pontja.",
             "ro": "Punctul maxim al traseului.",
-            "en": "The furthest point of the tour."
+            "en": "The furthest point of the tour.",
+            "es": "El punto más alejado del recorrido."
           }
         },
         {
@@ -662,7 +715,8 @@
             "de": "Abschluss im Ortskern.",
             "hu": "Zárás a falu központjában.",
             "ro": "Încheiere în centrul satului.",
-            "en": "Final stop in the village center."
+            "en": "Final stop in the village center.",
+            "es": "Última parada en el centro del pueblo."
           }
         }
       ],
@@ -670,7 +724,8 @@
         "de": "Mit dem Fahrrad erkunden Sie die gesamte Küstenlinie von Zahara bis zum Kap. Die Route führt flach am Meer entlang, bevor es sanft ansteigt.\r\nMittags erreichen Sie Atlanterra für ein entspanntes Bad. Der Weg zum Faro de Camarinal belohnt mit Panoramablicken auf die Straße von Gibraltar.\r\nDie Rückfahrt am späten Nachmittag bietet das beste Licht für die weiten Dünenlandschaften.",
         "hu": "Kerékpárral felfedezheti a teljes partvonalat Zaharától egészen a fokig. Az útvonal a tenger mellett halad, majd enyhén emelkedik.\r\nDélben Atlanterra exkluzív strandján pihenhet. A Camarinal világítótoronyhoz vezető út panorámás kilátást nyújt a Gibraltári-szorosra.\r\nA késő délutáni visszaút során a legszebbek a fények a hatalmas dűnék felett.",
         "ro": "Cu bicicleta veți explora întreaga linie de coastă de la Zahara până la cap. Traseul urmează marea, având apoi o urcare ușoară.\r\nLa prânz ajungeți la Atlanterra pentru o baie relaxantă. Drumul spre Faro de Camarinal oferă vederi panoramice asupra Strâmtorii Gibraltar.\r\nÎntoarcerea de după-amiază oferă cea mai bună lumină pentru peisajul dunelor vaste.",
-        "en": "By bike, you can explore the entire coastline from Zahara to the cape. The route is flat by the sea before a gentle climb begins.\r\nReach Atlanterra at noon for a relaxing swim. The path to Faro de Camarinal rewards you with panoramic views of the Strait of Gibraltar.\r\nThe ride back in the late afternoon provides the best lighting for the vast dune landscapes."
+        "en": "By bike, you can explore the entire coastline from Zahara to the cape. The route is flat by the sea before a gentle climb begins.\r\nReach Atlanterra at noon for a relaxing swim. The path to Faro de Camarinal rewards you with panoramic views of the Strait of Gibraltar.\r\nThe ride back in the late afternoon provides the best lighting for the vast dune landscapes.",
+        "es": "En bicicleta puedes explorar toda la costa desde Zahara hasta el cabo. La ruta es llana junto al mar antes de comenzar una suave subida.\r\nLlega a Atlanterra al mediodía para un baño relajante. El camino al Faro de Camarinal recompensa con vistas panorámicas del Estrecho de Gibraltar.\r\nEl regreso por la tarde ofrece la mejor luz para los vastos paisajes de dunas."
       },
       "gastro_picks": {
         "de": [
@@ -778,6 +833,12 @@
           "Carry plenty of water for the ride.",
           "The route to Atlanterra involves some hills.",
           "Use a bike lock when stopping near beaches."
+        ],
+        "es": [
+          "Ten cuidado con el fuerte viento de Levante.",
+          "Lleva suficiente agua para el recorrido.",
+          "La ruta a Atlanterra incluye algunas colinas.",
+          "Usa un candado para la bici cuando te detengas cerca de las playas."
         ]
       },
       "variants": {
@@ -786,7 +847,8 @@
             "de": "Mit dem Fahrrad erkunden Sie die gesamte Küstenlinie von Zahara bis zum Kap. Die Route führt flach am Meer entlang, bevor es sanft ansteigt.\r\nMittags erreichen Sie Atlanterra für ein entspanntes Bad. Der Weg zum Faro de Camarinal belohnt mit Panoramablicken auf die Straße von Gibraltar.\r\nDie Rückfahrt am späten Nachmittag bietet das beste Licht für die weiten Dünenlandschaften.",
             "hu": "Kerékpárral felfedezheti a teljes partvonalat Zaharától egészen a fokig. Az útvonal a tenger mellett halad, majd enyhén emelkedik.\r\nDélben Atlanterra exkluzív strandján pihenhet. A Camarinal világítótoronyhoz vezető út panorámás kilátást nyújt a Gibraltári-szorosra.\r\nA késő délutáni visszaút során a legszebbek a fények a hatalmas dűnék felett.",
             "ro": "Cu bicicleta veți explora întreaga linie de coastă de la Zahara până la cap. Traseul urmează marea, având apoi o urcare ușoară.\r\nLa prânz ajungeți la Atlanterra pentru o baie relaxantă. Drumul spre Faro de Camarinal oferă vederi panoramice asupra Strâmtorii Gibraltar.\r\nÎntoarcerea de după-amiază oferă cea mai bună lumină pentru peisajul dunelor vaste.",
-            "en": "By bike, you can explore the entire coastline from Zahara to the cape. The route is flat by the sea before a gentle climb begins.\r\nReach Atlanterra at noon for a relaxing swim. The path to Faro de Camarinal rewards you with panoramic views of the Strait of Gibraltar.\r\nThe ride back in the late afternoon provides the best lighting for the vast dune landscapes."
+            "en": "By bike, you can explore the entire coastline from Zahara to the cape. The route is flat by the sea before a gentle climb begins.\r\nReach Atlanterra at noon for a relaxing swim. The path to Faro de Camarinal rewards you with panoramic views of the Strait of Gibraltar.\r\nThe ride back in the late afternoon provides the best lighting for the vast dune landscapes.",
+            "es": "En bicicleta puedes explorar toda la costa desde Zahara hasta el cabo. La ruta es llana junto al mar antes de comenzar una suave subida.\r\nLlega a Atlanterra al mediodía para un baño relajante. El camino al Faro de Camarinal recompensa con vistas panorámicas del Estrecho de Gibraltar.\r\nEl regreso por la tarde ofrece la mejor luz para los vastos paisajes de dunas."
           },
           "stops": [
             {
@@ -795,7 +857,8 @@
                 "de": "Frischer Wind am Morgen.",
                 "hu": "Friss reggeli szellő a parton.",
                 "ro": "Briză matinală proaspătă.",
-                "en": "Fresh morning breeze by the sea."
+                "en": "Fresh morning breeze by the sea.",
+                "es": "Fresco brisa matinal junto al mar."
               }
             },
             {
@@ -804,7 +867,8 @@
                 "de": "Kurzer Stopp für Fotos.",
                 "hu": "Rövid megálló fotózáshoz.",
                 "ro": "Scurt popas pentru fotografii.",
-                "en": "Short stop for amazing photos."
+                "en": "Short stop for amazing photos.",
+                "es": "Parada corta para fotos increíbles."
               }
             },
             {
@@ -813,7 +877,8 @@
                 "de": "Exklusiverer Strandabschnitt.",
                 "hu": "Exkluzívabb tengerparti szakasz.",
                 "ro": "O zonă de plajă mai exclusivistă.",
-                "en": "A more exclusive beach area."
+                "en": "A more exclusive beach area.",
+                "es": "Una zona de playa más exclusiva."
               }
             },
             {
@@ -822,7 +887,8 @@
                 "de": "Spektakuläre Aussicht auf Afrika.",
                 "hu": "Látványos kilátás Afrika felé.",
                 "ro": "Vedere spectaculoasă spre Africa.",
-                "en": "Spectacular views towards Africa."
+                "en": "Spectacular views towards Africa.",
+                "es": "Vistas espectaculares hacia África."
               }
             },
             {
@@ -831,7 +897,8 @@
                 "de": "Der Wendepunkt der Tour.",
                 "hu": "A túra legtávolabbi pontja.",
                 "ro": "Punctul maxim al traseului.",
-                "en": "The furthest point of the tour."
+                "en": "The furthest point of the tour.",
+                "es": "El punto más alejado del recorrido."
               }
             },
             {
@@ -840,7 +907,8 @@
                 "de": "Abschluss im Ortskern.",
                 "hu": "Zárás a falu központjában.",
                 "ro": "Încheiere în centrul satului.",
-                "en": "Final stop in the village center."
+                "en": "Final stop in the village center.",
+                "es": "Última parada en el centro del pueblo."
               }
             }
           ],
@@ -950,6 +1018,12 @@
               "Carry plenty of water for the ride.",
               "The route to Atlanterra involves some hills.",
               "Use a bike lock when stopping near beaches."
+            ],
+            "es": [
+              "Ten cuidado con el fuerte viento de Levante.",
+              "Lleva suficiente agua para el recorrido.",
+              "La ruta a Atlanterra incluye algunas colinas.",
+              "Usa un candado para la bici cuando te detengas cerca de las playas."
             ]
           }
         },
@@ -958,7 +1032,8 @@
             "de": "Trotz Regen bietet die Küstenfahrt am Paseo Marítimo eine wilde Schönheit. Mittags erreichen Sie die Playa de Atlanterra, wo der Sand fest und befahrbar ist. Nachmittags geht es vorsichtig zum windigen Faro de Camarinal. Der Tag endet beim Palacio de la Chanca, wo Sie Ihr Rad abstellen und sich aufwärmen können.",
             "hu": "Az eső ellenére a tengerparti tekerés a Paseo Marítimo mentén vadregényes. Délben érje el az Atlanterra strandot, ahol a homok ilyenkor keményebb és járhatóbb. Délután óvatosan haladjon a szeles Faro de Camarinal felé. A nap a Palacio de la Chanca-nál ér véget, ahol leparkolhat és megpihenhet.",
             "ro": "În ciuda ploii, drumul de coastă pe Paseo Marítimo are o frumusețe sălbatică. La prânz ajungeți la Playa de Atlanterra, unde nisipul este mai ferm. După-amiaza pedalați cu atenție spre Faro de Camarinal. Ziua se încheie la Palacio de la Chanca, unde vă puteți lăsa bicicleta la adăpost.",
-            "en": "Despite the rain, the coastal ride along Paseo Marítimo offers wild beauty. By noon, reach Atlanterra beach where the damp sand is firm for riding. In the afternoon, head carefully toward the windy Faro de Camarinal. The day ends at Palacio de la Chanca, where you can park and warm up."
+            "en": "Despite the rain, the coastal ride along Paseo Marítimo offers wild beauty. By noon, reach Atlanterra beach where the damp sand is firm for riding. In the afternoon, head carefully toward the windy Faro de Camarinal. The day ends at Palacio de la Chanca, where you can park and warm up.",
+            "es": "A pesar de la lluvia, el paseo costero por el Paseo Marítimo ofrece una belleza salvaje. Al mediodía, llega a la playa de Atlanterra donde la arena húmeda está firme para pedalear. Por la tarde, avanza con precaución hacia el ventoso Faro de Camarinal. El día termina en el Palacio de la Chanca, donde puedes aparcar y entrar en calor."
           },
           "stops": [
             {
@@ -967,7 +1042,8 @@
                 "de": "Vermeiden Sie Pfützen, die tiefer sein könnten als gedacht.",
                 "hu": "Kerülje a tócsákat, amik mélyebbek lehetnek a vártnál.",
                 "ro": "Evitați bălțile, pot fi mai adânci decât par.",
-                "en": "Avoid puddles that might be deeper than they look."
+                "en": "Avoid puddles that might be deeper than they look.",
+                "es": "Evita los charcos que pueden ser más profundos de lo que parecen."
               }
             },
             {
@@ -976,7 +1052,8 @@
                 "de": "Fahren Sie nur auf dem festen, nassen Sandstreifen.",
                 "hu": "Csak a kemény, nedves homoksávon tekerjen.",
                 "ro": "Pedalați doar pe fâșia de nisip umed și tare.",
-                "en": "Ride only on the firm, wet strip of sand."
+                "en": "Ride only on the firm, wet strip of sand.",
+                "es": "Pedalea solo por la franja firme de arena húmeda."
               }
             },
             {
@@ -985,7 +1062,8 @@
                 "de": "Starker Seitenwind ist auf diesem offenen Abschnitt möglich.",
                 "hu": "Erős oldalszél várható ezen a nyílt szakaszon.",
                 "ro": "Vânt lateral puternic este posibil pe această secțiune.",
-                "en": "Strong crosswinds are possible on this open section."
+                "en": "Strong crosswinds are possible on this open section.",
+                "es": "En esta sección abierta son posibles rachas fuertes de viento lateral."
               }
             },
             {
@@ -994,7 +1072,8 @@
                 "de": "Der Untergrund kann schlammig und rutschig sein.",
                 "hu": "A talaj sáros és csúszós lehet ezen a részen.",
                 "ro": "Terenul poate fi noroios și alunecos aici.",
-                "en": "The ground can be muddy and slippery here."
+                "en": "The ground can be muddy and slippery here.",
+                "es": "El terreno puede estar embarrado y resbaladizo aquí."
               }
             },
             {
@@ -1003,7 +1082,8 @@
                 "de": "Achtung bei Böen auf der Anhöhe beim Leuchtturm.",
                 "hu": "Vigyázzon a széllökésekkel a világítótoronynál.",
                 "ro": "Atenție la rafalele de vânt lângă far.",
-                "en": "Watch out for wind gusts near the lighthouse."
+                "en": "Watch out for wind gusts near the lighthouse.",
+                "es": "Cuidado con las ráfagas de viento cerca del faro."
               }
             },
             {
@@ -1012,7 +1092,8 @@
                 "de": "Parken Sie das Rad an einem regengeschützten Ort.",
                 "hu": "Parkolja a biciklit esőtől védett helyre.",
                 "ro": "Parcați bicicleta într-un loc ferit de ploaie.",
-                "en": "Park your bike in a spot protected from the rain."
+                "en": "Park your bike in a spot protected from the rain.",
+                "es": "Aparca la bici en un sitio protegido de la lluvia."
               }
             }
           ],
@@ -1040,6 +1121,12 @@
               "Avoid wooden boardwalks as they become extremely slippery in the rain.",
               "Wear glasses to protect your eyes from raindrops and sea spray.",
               "Fenders/mudguards are essential in this weather."
+            ],
+            "es": [
+              "Revisa los frenos antes; las distancias de frenado son mayores cuando está mojado.",
+              "Evita las pasarelas de madera, se vuelven extremadamente resbaladizas con la lluvia.",
+              "Lleva gafas para protegerte los ojos de las gotas de lluvia y la bruma marina.",
+              "Los guardabarros son imprescindibles con este tiempo."
             ]
           }
         },
@@ -1048,7 +1135,8 @@
             "de": "Genießen Sie die kühle Brise bei der morgendlichen Fahrt entlang der Küste. Mittags bieten die weiten Strände von Atlanterra eine ungestörte Kulisse für Radfahrer. Nachmittags erklimmen Sie den Weg zum Leuchtturm bei klarer Fernsicht. Der Tag endet rechtzeitig vor der Dämmerung im historischen Zentrum von Zahara.",
             "hu": "Élvezze a hűvös szellőt a reggeli tengerparti tekerés során. Délben Atlanterra tágas strandjai zavartalan terepet kínálnak a kerékpárosoknak. Délután tekerjen fel a világítótoronyhoz a tiszta téli panorámáért. A nap még szürkület előtt véget ér Zahara történelmi központjában.",
             "ro": "Bucurați-vă de briza răcoroasă în timpul plimbării de dimineață pe coastă. La prânz, plajele vaste din Atlanterra oferă un cadru liniștit. După-amiaza urcați spre far pentru o panoramă clară de iarnă. Ziua se încheie înainte de amurg în centrul istoric.",
-            "en": "Enjoy the cool breeze during your morning ride along the coast. At noon, the wide beaches of Atlanterra provide an undisturbed backdrop for cyclists. In the afternoon, climb the path to the lighthouse for clear winter views. The day ends well before dusk back in the historic center."
+            "en": "Enjoy the cool breeze during your morning ride along the coast. At noon, the wide beaches of Atlanterra provide an undisturbed backdrop for cyclists. In the afternoon, climb the path to the lighthouse for clear winter views. The day ends well before dusk back in the historic center.",
+            "es": "Disfruta de la fresca brisa durante tu paseo matutino en bici por la costa. Al mediodía, las amplias playas de Atlanterra ofrecen un telón de fondo sin perturbaciones para los ciclistas. Por la tarde, sube el camino al faro para vistas claras de invierno. El día termina mucho antes del anochecer de nuevo en el casco histórico."
           },
           "stops": [
             {
@@ -1057,7 +1145,8 @@
                 "de": "Tragen Sie Handschuhe gegen den kalten Fahrtwind.",
                 "hu": "Viseljen kesztyűt a hideg menetszél ellen.",
                 "ro": "Purtați mănuși împotriva vântului rece de mișcare.",
-                "en": "Wear gloves against the cold riding wind."
+                "en": "Wear gloves against the cold riding wind.",
+                "es": "Lleva guantes contra el frío del viento al pedalear."
               }
             },
             {
@@ -1066,7 +1155,8 @@
                 "de": "Der Strand ist im Winter herrlich leer zum Befahren.",
                 "hu": "A strand télen csodálatosan üres a kerékpározáshoz.",
                 "ro": "Plaja este minunat de goală pentru pedalat iarna.",
-                "en": "The beach is wonderfully empty for riding in winter."
+                "en": "The beach is wonderfully empty for riding in winter.",
+                "es": "La playa está maravillosamente vacía para pedalear en invierno."
               }
             },
             {
@@ -1075,7 +1165,8 @@
                 "de": "Nutzen Sie das klare Winterlicht für Panoramafotos.",
                 "hu": "Használja ki a tiszta téli fényt panorámafotókhoz.",
                 "ro": "Profită de lumina clară de iarnă pentru fotografii panoramice.",
-                "en": "Take advantage of the clear winter light for panoramic photos."
+                "en": "Take advantage of the clear winter light for panoramic photos.",
+                "es": "Aprovecha la clara luz invernal para fotos panorámicas."
               }
             },
             {
@@ -1084,7 +1175,8 @@
                 "de": "Ein idealer Ort für eine kurze, aktive Pause.",
                 "hu": "Ideális hely egy rövid, aktív pihenőhöz.",
                 "ro": "Un loc ideal pentru o scurtă pauză activă.",
-                "en": "An ideal spot for a short, active break."
+                "en": "An ideal spot for a short, active break.",
+                "es": "Un lugar ideal para una breve pausa activa."
               }
             },
             {
@@ -1093,7 +1185,8 @@
                 "de": "Die Fernsicht bis Afrika ist im Winter oft am besten.",
                 "hu": "A kilátás Afrikáig télen gyakran a legtisztább.",
                 "ro": "Vizibilitatea până în Africa este adesea cea mai bună iarna.",
-                "en": "Visibility to Africa is often at its best in winter."
+                "en": "Visibility to Africa is often at its best in winter.",
+                "es": "La visibilidad hacia África suele ser mejor en invierno."
               }
             },
             {
@@ -1102,7 +1195,8 @@
                 "de": "Schließen Sie die Tour vor 17:30 Uhr ab.",
                 "hu": "Zárja a túrát 17:30 előtt.",
                 "ro": "Încheiați turul înainte de ora 17:30.",
-                "en": "Finish the tour before 17:30."
+                "en": "Finish the tour before 17:30.",
+                "es": "Termina la ruta antes de las 17:30."
               }
             }
           ],
@@ -1130,6 +1224,12 @@
               "The sun sets early; ensure your bike has working lights.",
               "Choose windproof clothing, especially for the downhill sections.",
               "Stay hydrated even in the cold; it's easy to underestimate fluid needs."
+            ],
+            "es": [
+              "Usa bálsamo labial para protegerte del frío y del viento salino.",
+              "El sol se pone temprano; asegúrate de que tu bici tenga luces en funcionamiento.",
+              "Elige ropa cortaviento, especialmente para las bajadas.",
+              "Mantente hidratado incluso en frío; es fácil subestimar la necesidad de líquidos."
             ]
           }
         }
@@ -1158,7 +1258,8 @@
             "de": "Römische Ruinen direkt am Strand.",
             "hu": "Római romok közvetlenül a tengerparton.",
             "ro": "Ruine romane chiar pe plajă.",
-            "en": "Stunning Roman ruins right by the beach."
+            "en": "Stunning Roman ruins right by the beach.",
+            "es": "Impresionantes ruinas romanas junto a la playa."
           }
         },
         {
@@ -1176,7 +1277,8 @@
             "de": "Bester Fotopunkt der Region.",
             "hu": "A régió legjobb fotópontja.",
             "ro": "Cel mai bun punct foto din regiune.",
-            "en": "The best photo spot in the area."
+            "en": "The best photo spot in the area.",
+            "es": "El mejor lugar para fotos de la zona."
           }
         },
         {
@@ -1194,7 +1296,8 @@
             "de": "Mittagessen in einem Chiringuito.",
             "hu": "Ebéd egy helyi tengerparti bárban.",
             "ro": "Prânz la un chiringuito local.",
-            "en": "Lunch at a local beach bar (chiringuito)."
+            "en": "Lunch at a local beach bar (chiringuito).",
+            "es": "Almuerzo en un chiringuito local."
           }
         },
         {
@@ -1212,7 +1315,8 @@
             "de": "Kulturstopp im Zentrum.",
             "hu": "Kulturális megálló a központban.",
             "ro": "Popas cultural în centru.",
-            "en": "A cultural stop in the village center."
+            "en": "A cultural stop in the village center.",
+            "es": "Una parada cultural en el centro del pueblo."
           }
         },
         {
@@ -1230,7 +1334,8 @@
             "de": "Entspannung vor der Rückfahrt.",
             "hu": "Pihenés a hazaindulás előtt.",
             "ro": "Relaxare înainte de plecare.",
-            "en": "Relaxation before heading back."
+            "en": "Relaxation before heading back.",
+            "es": "Relajación antes de volver."
           }
         }
       ],
@@ -1238,7 +1343,8 @@
         "de": "Die Autotour führt Sie zuerst zum archäologischen Juwel Baelo Claudia in Bolonia. Die Kombination aus Antike und Dünen ist einmalig.\r\nDanach geht es zum Leuchtturm von Camarinal für weite Blicke, bevor Sie in Atlanterra zu Mittag essen. Der Nachmittag gehört der Erkundung von Zahara.\r\nEin Tag, der Geschichte, Natur und erstklassige Gastronomie perfekt verbindet.",
         "hu": "Az autós túra először Bolonia régészeti ékkövéhez, Baelo Claudiához vezet. Az antik romok és a dűnék látványa egyedülálló.\r\nEzután a Camarinal világítótorony következik, majd ebéd Atlanterrában. A délutánt Zahara központjában és strandján töltheti.\r\nEz a nap tökéletesen ötvözi a történelmet, a természetet és a kiváló gasztronómiát.",
         "ro": "Turul cu mașina vă duce mai întâi la perla arheologică Baelo Claudia din Bolonia. Combinația de ruine antice și dune este unică.\r\nUrmează farul Camarinal pentru vederi panoramice, apoi prânzul în Atlanterra. După-amiaza este dedicată explorării centrului Zahara.\r\nO zi care îmbină perfect istoria, natura și gastronomia de top.",
-        "en": "The car tour first takes you to the archaeological gem of Baelo Claudia in Bolonia. The mix of ancient ruins and dunes is unique.\r\nNext, visit the Camarinal lighthouse for expansive views before lunch in Atlanterra. Spend the afternoon exploring Zahara's center and beach.\r\nA day that perfectly blends history, nature, and first-class gastronomy."
+        "en": "The car tour first takes you to the archaeological gem of Baelo Claudia in Bolonia. The mix of ancient ruins and dunes is unique.\r\nNext, visit the Camarinal lighthouse for expansive views before lunch in Atlanterra. Spend the afternoon exploring Zahara's center and beach.\r\nA day that perfectly blends history, nature, and first-class gastronomy.",
+        "es": "El tour en coche te lleva primero a la joya arqueológica de Baelo Claudia en Bolonia. La mezcla de ruinas antiguas y dunas es única.\r\nA continuación, visita el faro de Camarinal para vistas amplias antes de comer en Atlanterra. Pasa la tarde explorando el centro y la playa de Zahara.\r\nUn día que combina a la perfección historia, naturaleza y gastronomía de primer nivel."
       },
       "gastro_picks": {
         "de": [
@@ -1346,6 +1452,12 @@
           "Bolonia gets very crowded on weekends.",
           "The road to the lighthouse is narrow.",
           "Refuel before heading out to Bolonia."
+        ],
+        "es": [
+          "Aparcar en Zahara es difícil en verano.",
+          "Bolonia se llena mucho los fines de semana.",
+          "La carretera hasta el faro es estrecha.",
+          "Repón combustible antes de dirigirte a Bolonia."
         ]
       },
       "variants": {
@@ -1354,7 +1466,8 @@
             "de": "Die Autotour führt Sie zuerst zum archäologischen Juwel Baelo Claudia in Bolonia. Die Kombination aus Antike und Dünen ist einmalig.\r\nDanach geht es zum Leuchtturm von Camarinal für weite Blicke, bevor Sie in Atlanterra zu Mittag essen. Der Nachmittag gehört der Erkundung von Zahara.\r\nEin Tag, der Geschichte, Natur und erstklassige Gastronomie perfekt verbindet.",
             "hu": "Az autós túra először Bolonia régészeti ékkövéhez, Baelo Claudiához vezet. Az antik romok és a dűnék látványa egyedülálló.\r\nEzután a Camarinal világítótorony következik, majd ebéd Atlanterrában. A délutánt Zahara központjában és strandján töltheti.\r\nEz a nap tökéletesen ötvözi a történelmet, a természetet és a kiváló gasztronómiát.",
             "ro": "Turul cu mașina vă duce mai întâi la perla arheologică Baelo Claudia din Bolonia. Combinația de ruine antice și dune este unică.\r\nUrmează farul Camarinal pentru vederi panoramice, apoi prânzul în Atlanterra. După-amiaza este dedicată explorării centrului Zahara.\r\nO zi care îmbină perfect istoria, natura și gastronomia de top.",
-            "en": "The car tour first takes you to the archaeological gem of Baelo Claudia in Bolonia. The mix of ancient ruins and dunes is unique.\r\nNext, visit the Camarinal lighthouse for expansive views before lunch in Atlanterra. Spend the afternoon exploring Zahara's center and beach.\r\nA day that perfectly blends history, nature, and first-class gastronomy."
+            "en": "The car tour first takes you to the archaeological gem of Baelo Claudia in Bolonia. The mix of ancient ruins and dunes is unique.\r\nNext, visit the Camarinal lighthouse for expansive views before lunch in Atlanterra. Spend the afternoon exploring Zahara's center and beach.\r\nA day that perfectly blends history, nature, and first-class gastronomy.",
+            "es": "La ruta en coche te lleva primero a la joya arqueológica de Baelo Claudia en Bolonia. La mezcla de ruinas antiguas y dunas es única.\r\nDespués, visita el faro de Camarinal para disfrutar de amplias vistas antes de almorzar en Atlanterra. Pasa la tarde explorando el centro y la playa de Zahara.\r\nUn día que combina a la perfección historia, naturaleza y gastronomía de primera."
           },
           "stops": [
             {
@@ -1363,7 +1476,8 @@
                 "de": "Römische Ruinen direkt am Strand.",
                 "hu": "Római romok közvetlenül a tengerparton.",
                 "ro": "Ruine romane chiar pe plajă.",
-                "en": "Stunning Roman ruins right by the beach."
+                "en": "Stunning Roman ruins right by the beach.",
+                "es": "Impresionantes ruinas romanas junto a la playa."
               }
             },
             {
@@ -1372,7 +1486,8 @@
                 "de": "Bester Fotopunkt der Region.",
                 "hu": "A régió legjobb fotópontja.",
                 "ro": "Cel mai bun punct foto din regiune.",
-                "en": "The best photo spot in the area."
+                "en": "The best photo spot in the area.",
+                "es": "El mejor lugar para fotografiar de la zona."
               }
             },
             {
@@ -1381,7 +1496,8 @@
                 "de": "Mittagessen in einem Chiringuito.",
                 "hu": "Ebéd egy helyi tengerparti bárban.",
                 "ro": "Prânz la un chiringuito local.",
-                "en": "Lunch at a local beach bar (chiringuito)."
+                "en": "Lunch at a local beach bar (chiringuito).",
+                "es": "Almuerzo en un chiringuito local."
               }
             },
             {
@@ -1390,7 +1506,8 @@
                 "de": "Kulturstopp im Zentrum.",
                 "hu": "Kulturális megálló a központban.",
                 "ro": "Popas cultural în centru.",
-                "en": "A cultural stop in the village center."
+                "en": "A cultural stop in the village center.",
+                "es": "Parada cultural en el centro del pueblo."
               }
             },
             {
@@ -1399,7 +1516,8 @@
                 "de": "Entspannung vor der Rückfahrt.",
                 "hu": "Pihenés a hazaindulás előtt.",
                 "ro": "Relaxare înainte de plecare.",
-                "en": "Relaxation before heading back."
+                "en": "Relaxation before heading back.",
+                "es": "Relajación antes de regresar."
               }
             }
           ],
@@ -1509,6 +1627,12 @@
               "Bolonia gets very crowded on weekends.",
               "The road to the lighthouse is narrow.",
               "Refuel before heading out to Bolonia."
+            ],
+            "es": [
+              "Aparcar en Zahara es difícil en verano.",
+              "Bolonia se llena mucho los fines de semana.",
+              "La carretera hasta el faro es estrecha.",
+              "Repón combustible antes de dirigirte a Bolonia."
             ]
           }
         },
@@ -1517,7 +1641,8 @@
             "de": "Eine Regenfahrt nach Bolonia zeigt die dramatische Seite Andalusiens. Mittags erkunden Sie die römischen Ruinen zwischen den Schauern. Nachmittags bietet die Fahrt zum Leuchtturm tolle Ausblicke aus dem trockenen Auto. Der Tag endet entspannt in Zahara, wo das Palacio de la Chanca auch im Regen beeindruckt.",
             "hu": "Az esős autózás Bolonia felé Andalúzia drámai arcát mutatja. Délben a római romokat a záporok között fedezheti fel. Délután a világítótoronyhoz vezető út pazar kilátást nyújt a száraz autóból. A nap Zaharában ér véget, ahol a Palacio de la Chanca esőben is lenyűgöző látvány.",
             "ro": "O plimbare cu mașina spre Bolonia pe ploaie arată latura dramatică a Andaluziei. La prânz explorați ruinele romane între averse. După-amiaza, drumul spre far oferă vederi superbe din mașina uscată. Ziua se încheie relaxat în Zahara, unde Palatul la Chanca impresionează și pe ploaie.",
-            "en": "A rainy drive to Bolonia shows the dramatic side of Andalusia. Explore the Roman ruins between showers at noon. In the afternoon, the drive to the lighthouse offers great views from the dry car. The day ends relaxed in Zahara, where Palacio de la Chanca remains impressive even in the rain."
+            "en": "A rainy drive to Bolonia shows the dramatic side of Andalusia. Explore the Roman ruins between showers at noon. In the afternoon, the drive to the lighthouse offers great views from the dry car. The day ends relaxed in Zahara, where Palacio de la Chanca remains impressive even in the rain.",
+            "es": "Un día lluvioso hacia Bolonia muestra el lado dramático de Andalucía. Explora las ruinas romanas entre los chaparrones al mediodía. Por la tarde, el trayecto al faro ofrece buenas vistas desde el coche seco. El día termina relajado en Zahara, donde el Palacio de la Chanca sigue siendo impresionante incluso bajo la lluvia."
           },
           "stops": [
             {
@@ -1526,7 +1651,8 @@
                 "de": "Das Besucherzentrum bietet guten Schutz bei starkem Regen.",
                 "hu": "A látogatóközpont jó menedéket nyújt heves esőben.",
                 "ro": "Centrul de vizitare oferă un adăpost bun în caz de ploaie grea.",
-                "en": "The visitor center provides good shelter during heavy rain."
+                "en": "The visitor center provides good shelter during heavy rain.",
+                "es": "El centro de visitantes ofrece buen resguardo durante la lluvia intensa."
               }
             },
             {
@@ -1535,7 +1661,8 @@
                 "de": "Genießen Sie die Aussicht sicher aus dem geparkten Auto.",
                 "hu": "Élvezze a kilátást biztonságban, a leparkolt autóból.",
                 "ro": "Bucurați-vă de priveliște în siguranță din mașina parcată.",
-                "en": "Enjoy the view safely from your parked car."
+                "en": "Enjoy the view safely from your parked car.",
+                "es": "Disfruta de la vista con seguridad desde tu coche aparcado."
               }
             },
             {
@@ -1544,7 +1671,8 @@
                 "de": "Parkplätze in Strandnähe sind bei Regen meist leer.",
                 "hu": "A strandközeli parkolók esőben többnyire üresek.",
                 "ro": "Parcările de lângă plajă sunt de obicei goale pe ploaie.",
-                "en": "Beachfront parking is usually empty during rain."
+                "en": "Beachfront parking is usually empty during rain.",
+                "es": "El aparcamiento frente a la playa suele estar vacío cuando llueve."
               }
             },
             {
@@ -1553,7 +1681,8 @@
                 "de": "Kurze Wege vom Parkplatz zum historischen Eingang.",
                 "hu": "Rövid séta a parkolótól a történelmi bejáratig.",
                 "ro": "Distanță scurtă de la parcare la intrarea istorică.",
-                "en": "Short walk from the parking area to the historic entrance."
+                "en": "Short walk from the parking area to the historic entrance.",
+                "es": "Corto paseo desde la zona de aparcamiento hasta la entrada histórica."
               }
             },
             {
@@ -1562,7 +1691,8 @@
                 "de": "Beobachten Sie die Wellen bequem vom Fahrersitz aus.",
                 "hu": "Figyelje a hullámokat kényelmesen a vezetőülésből.",
                 "ro": "Observați valurile confortabil de pe scaunul șoferului.",
-                "en": "Watch the waves comfortably from the driver's seat."
+                "en": "Watch the waves comfortably from the driver's seat.",
+                "es": "Observa las olas cómodamente desde el asiento del conductor."
               }
             }
           ],
@@ -1590,6 +1720,12 @@
               "Check the condition of your windshield wipers before departing.",
               "In Bolonia, there is a covered museum right next to the ruins.",
               "Drive carefully on coastal roads due to the potential for falling rocks."
+            ],
+            "es": [
+              "Evita los arcenes sin pavimentar, pueden volverse blandos y embarrados.",
+              "Revisa el estado de tus limpiaparabrisas antes de salir.",
+              "En Bolonia hay un museo cubierto justo al lado de las ruinas.",
+              "Conduce con cuidado por las carreteras costeras por posible caída de piedras."
             ]
           }
         },
@@ -1598,7 +1734,8 @@
             "de": "Ein klarer Wintertag ist perfekt für den Ausflug nach Bolonia. Mittags erkunden Sie die antike Stadt unter milder Sonne. Nachmittags bietet die Fahrt zum Faro de Camarinal weite Panoramen. Der Tag endet mit einem privaten Sonnenuntergang-Picknick im Auto am Hauptstrand von Zahara.",
             "hu": "A tiszta téli nap tökéletes a boloniai kiránduláshoz. Délben fedezze fel az ókori várost az enyhe napsütésben. Délután a Faro de Camarinal felé vezető út tágas panorámát nyújt. A nap egy privát naplementés piknikkel zárul az autóban, Zahara főstrandjánál.",
             "ro": "O zi senină de iarnă este perfectă pentru o excursie la Bolonia. La prânz explorați orașul antic sub soarele blând. După-amiaza, drumul spre far oferă panorame vaste. Ziua se încheie cu un picnic privat la apus, în mașină, pe plaja principală.",
-            "en": "A clear winter day is perfect for a trip to Bolonia. At noon, explore the ancient city under the mild sun. In the afternoon, the drive to Faro de Camarinal offers sweeping panoramas. The day ends with a private sunset picnic in your car at the main beach of Zahara."
+            "en": "A clear winter day is perfect for a trip to Bolonia. At noon, explore the ancient city under the mild sun. In the afternoon, the drive to Faro de Camarinal offers sweeping panoramas. The day ends with a private sunset picnic in your car at the main beach of Zahara.",
+            "es": "Un día claro de invierno es perfecto para una excursión a Bolonia. Al mediodía, explora la ciudad antigua bajo el sol templado. Por la tarde, el trayecto al Faro de Camarinal ofrece panorámicas amplias. El día termina con un picnic privado al atardecer en tu coche en la playa principal de Zahara."
           },
           "stops": [
             {
@@ -1607,7 +1744,8 @@
                 "de": "Die Wintersonne macht den Rundgang sehr angenehm.",
                 "hu": "A téli napsütés nagyon kellemessé teszi a körbejárást.",
                 "ro": "Soarele de iarnă face turul foarte plăcut.",
-                "en": "The winter sun makes the walkaround very pleasant."
+                "en": "The winter sun makes the walkaround very pleasant.",
+                "es": "El sol de invierno hace el paseo muy agradable."
               }
             },
             {
@@ -1616,7 +1754,8 @@
                 "de": "Die Parkplätze am Aussichtspunkt sind im Winter leicht zu finden.",
                 "hu": "A kilátónál télen könnyű parkolóhelyet találni.",
                 "ro": "Parcările de la punctul de belvedere sunt ușor de găsit iarna.",
-                "en": "Parking spots at the viewpoint are easy to find in winter."
+                "en": "Parking spots at the viewpoint are easy to find in winter.",
+                "es": "Encontrar aparcamiento en el mirador es fácil en invierno."
               }
             },
             {
@@ -1625,7 +1764,8 @@
                 "de": "Ideal für einen kurzen Stopp ohne die Sommerhitze.",
                 "hu": "Ideális egy rövid megállóra a nyári hőség nélkül.",
                 "ro": "Ideal pentru o scurtă oprire fără căldura verii.",
-                "en": "Ideal for a quick stop without the summer heat."
+                "en": "Ideal for a quick stop without the summer heat.",
+                "es": "Ideal para una parada rápida sin el calor veraniego."
               }
             },
             {
@@ -1634,7 +1774,8 @@
                 "de": "Besuchen Sie die Anlage im warmen Licht des Nachmittags.",
                 "hu": "Látogassa meg az erődöt a délutáni meleg fényekben.",
                 "ro": "Vizitați situl în lumina caldă a după-amiezii.",
-                "en": "Visit the complex in the warm afternoon light."
+                "en": "Visit the complex in the warm afternoon light.",
+                "es": "Visita el conjunto con la luz cálida de la tarde."
               }
             },
             {
@@ -1643,7 +1784,8 @@
                 "de": "Genießen Sie den Sonnenuntergang direkt aus dem Auto.",
                 "hu": "Élvezze a naplementét közvetlenül az autóból.",
                 "ro": "Bucurați-vă de apus direct din mașină.",
-                "en": "Enjoy the sunset directly from your car."
+                "en": "Enjoy the sunset directly from your car.",
+                "es": "Disfruta del atardecer directamente desde tu coche."
               }
             }
           ],
@@ -1671,6 +1813,12 @@
               "Roads are less crowded, making the drive much more relaxed.",
               "Plan your return trip before 18:00 as it gets dark quickly.",
               "Some mountain roads might have light frost in the early morning."
+            ],
+            "es": [
+              "Aprovecha la temporada baja para aparcar sin estrés en todas partes.",
+              "Las carreteras están menos concurridas, lo que hace el viaje mucho más relajado.",
+              "Planea tu vuelta antes de las 18:00, que anochece pronto.",
+              "Algunas carreteras de montaña pueden tener ligera escarcha a primera hora de la mañana."
             ]
           }
         }
@@ -1699,7 +1847,8 @@
             "de": "Zentraler Ankunftspunkt.",
             "hu": "Központi érkezési pont.",
             "ro": "Punct central de sosire.",
-            "en": "Central arrival point in town."
+            "en": "Central arrival point in town.",
+            "es": "Punto de llegada céntrico en el pueblo."
           }
         },
         {
@@ -1717,7 +1866,8 @@
             "de": "Bummeln durch die Marktstände.",
             "hu": "Böngészés a piaci árusok között.",
             "ro": "Plimbare printre tarabele pieței.",
-            "en": "Stroll through the market stalls."
+            "en": "Stroll through the market stalls.",
+            "es": "Pasea entre los puestos del mercado."
           }
         },
         {
@@ -1735,7 +1885,8 @@
             "de": "Meeresfrüchte genießen.",
             "hu": "Tengeri ételek élvezete.",
             "ro": "Savurați fructe de mare.",
-            "en": "Enjoy some local seafood."
+            "en": "Enjoy some local seafood.",
+            "es": "Disfruta de mariscos locales."
           }
         },
         {
@@ -1753,7 +1904,8 @@
             "de": "Langer Strandnachmittag.",
             "hu": "Hosszú délután a strandon.",
             "ro": "După-amiază lungă la plajă.",
-            "en": "Long afternoon at the beach."
+            "en": "Long afternoon at the beach.",
+            "es": "Larga tarde en la playa."
           }
         }
       ],
@@ -1761,7 +1913,8 @@
         "de": "Mit öffentlichen Verkehrsmitteln erreichen Sie direkt das Herz von Zahara. Beginnen Sie beim Palacio de la Chanca, dem Wahrzeichen des Ortes.\r\nNach dem Besuch des Marktes schlendern Sie gemütlich zur Promenade für ein ausgiebiges Mittagessen. Den Rest des Tages verbringen Sie an einem der schönsten Strände Andalusiens.\r\nEin unkomplizierter Tag ohne Parkplatzsorgen.",
         "hu": "Tömegközlekedéssel közvetlenül Zahara szívébe érkezik. Kezdje a Palacio de la Chancánál, a település jelképénél.\r\nA piaci látogatás után kényelmesen elsétálhat a sétányra egy bőséges ebédhez. A nap hátralévő részét Andalúzia egyik legszebb strandján töltheti.\r\nEgyszerű és gondtalan nap parkolási nehézségek nélkül.",
         "ro": "Cu transportul public ajungeți direct în inima localității Zahara. Începeți la Palacio de la Chanca, simbolul localității.\r\nDupă vizita la piață, plimbați-vă agale spre faleză pentru un prânz copios. Restul zilei îl veți petrece pe una dintre cele mai frumoase plaje din Andaluzia.\r\nO zi simplă și fără griji legate de parcare.",
-        "en": "By public transport, you arrive right in the heart of Zahara. Start at the Palacio de la Chanca, the town's most famous landmark.\r\nAfter visiting the market, take a leisurely stroll to the promenade for a hearty lunch. Spend the rest of the day on one of Andalusia's most beautiful beaches.\r\nA simple and worry-free day without any parking issues."
+        "en": "By public transport, you arrive right in the heart of Zahara. Start at the Palacio de la Chanca, the town's most famous landmark.\r\nAfter visiting the market, take a leisurely stroll to the promenade for a hearty lunch. Spend the rest of the day on one of Andalusia's most beautiful beaches.\r\nA simple and worry-free day without any parking issues.",
+        "es": "En transporte público llegas al corazón de Zahara. Comienza en el Palacio de la Chanca, el monumento más famoso del pueblo.\r\nTras visitar el mercado, da un tranquilo paseo hasta el paseo marítimo para un almuerzo contundente. Pasa el resto del día en una de las playas más bonitas de Andalucía.\r\nUn día sencillo y sin preocupaciones sin problemas de aparcamiento."
       },
       "gastro_picks": {
         "de": [
@@ -1869,6 +2022,12 @@
           "The bus stop is located near the center.",
           "Travel light for your beach day.",
           "Water bottles can be refilled in the village."
+        ],
+        "es": [
+          "Consulta los horarios de autobús para el viaje de regreso.",
+          "La parada de autobús está situada cerca del centro.",
+          "Viaja ligero para tu día de playa.",
+          "Se pueden rellenar las botellas de agua en el pueblo."
         ]
       },
       "variants": {
@@ -1877,7 +2036,8 @@
             "de": "Mit öffentlichen Verkehrsmitteln erreichen Sie direkt das Herz von Zahara. Beginnen Sie beim Palacio de la Chanca, dem Wahrzeichen des Ortes.\r\nNach dem Besuch des Marktes schlendern Sie gemütlich zur Promenade für ein ausgiebiges Mittagessen. Den Rest des Tages verbringen Sie an einem der schönsten Strände Andalusiens.\r\nEin unkomplizierter Tag ohne Parkplatzsorgen.",
             "hu": "Tömegközlekedéssel közvetlenül Zahara szívébe érkezik. Kezdje a Palacio de la Chancánál, a település jelképénél.\r\nA piaci látogatás után kényelmesen elsétálhat a sétányra egy bőséges ebédhez. A nap hátralévő részét Andalúzia egyik legszebb strandján töltheti.\r\nEgyszerű és gondtalan nap parkolási nehézségek nélkül.",
             "ro": "Cu transportul public ajungeți direct în inima localității Zahara. Începeți la Palacio de la Chanca, simbolul localității.\r\nDupă vizita la piață, plimbați-vă agale spre faleză pentru un prânz copios. Restul zilei îl veți petrece pe una dintre cele mai frumoase plaje din Andaluzia.\r\nO zi simplă și fără griji legate de parcare.",
-            "en": "By public transport, you arrive right in the heart of Zahara. Start at the Palacio de la Chanca, the town's most famous landmark.\r\nAfter visiting the market, take a leisurely stroll to the promenade for a hearty lunch. Spend the rest of the day on one of Andalusia's most beautiful beaches.\r\nA simple and worry-free day without any parking issues."
+            "en": "By public transport, you arrive right in the heart of Zahara. Start at the Palacio de la Chanca, the town's most famous landmark.\r\nAfter visiting the market, take a leisurely stroll to the promenade for a hearty lunch. Spend the rest of the day on one of Andalusia's most beautiful beaches.\r\nA simple and worry-free day without any parking issues.",
+            "es": "En transporte público llegas al corazón de Zahara. Comienza en el Palacio de la Chanca, el monumento más famoso del pueblo.\r\nTras visitar el mercado, da un tranquilo paseo hasta el paseo marítimo para un almuerzo contundente. Pasa el resto del día en una de las playas más bonitas de Andalucía.\r\nUn día sencillo y sin preocupaciones sin problemas de aparcamiento."
           },
           "stops": [
             {
@@ -1886,7 +2046,8 @@
                 "de": "Zentraler Ankunftspunkt.",
                 "hu": "Központi érkezési pont.",
                 "ro": "Punct central de sosire.",
-                "en": "Central arrival point in town."
+                "en": "Central arrival point in town.",
+                "es": "Punto de llegada céntrico en el pueblo."
               }
             },
             {
@@ -1895,7 +2056,8 @@
                 "de": "Bummeln durch die Marktstände.",
                 "hu": "Böngészés a piaci árusok között.",
                 "ro": "Plimbare printre tarabele pieței.",
-                "en": "Stroll through the market stalls."
+                "en": "Stroll through the market stalls.",
+                "es": "Pasea entre los puestos del mercado."
               }
             },
             {
@@ -1904,7 +2066,8 @@
                 "de": "Meeresfrüchte genießen.",
                 "hu": "Tengeri ételek élvezete.",
                 "ro": "Savurați fructe de mare.",
-                "en": "Enjoy some local seafood."
+                "en": "Enjoy some local seafood.",
+                "es": "Disfruta de mariscos locales."
               }
             },
             {
@@ -1913,7 +2076,8 @@
                 "de": "Langer Strandnachmittag.",
                 "hu": "Hosszú délután a strandon.",
                 "ro": "După-amiază lungă la plajă.",
-                "en": "Long afternoon at the beach."
+                "en": "Long afternoon at the beach.",
+                "es": "Larga tarde en la playa."
               }
             }
           ],
@@ -2023,6 +2187,12 @@
               "The bus stop is located near the center.",
               "Travel light for your beach day.",
               "Water bottles can be refilled in the village."
+            ],
+            "es": [
+              "Consulta los horarios de autobús para el viaje de regreso.",
+              "La parada de autobús está situada cerca del centro.",
+              "Viaja ligero para tu día de playa.",
+              "Se pueden rellenar las botellas de agua en el pueblo."
             ]
           }
         },
@@ -2031,7 +2201,8 @@
             "de": "Nutzen Sie den Bus, um trocken zwischen den Sehenswürdigkeiten zu pendeln. Vormittags erkunden Sie das Palacio de la Chanca. Mittags blicken Sie vom Markt aus auf den Regen. Nachmittags bietet die Fahrt entlang der Küste graue, aber majestätische Ausblicke. Der Tag endet gemütlich im Zentrum von Zahara.",
             "hu": "Használja a buszt, hogy szárazon közlekedjen a látnivalók között. Délelőtt fedezze fel a Palacio de la Chanca-t. Délben a piacról figyelje az esőt. Délután a tengerparti utazás szürke, de fenséges kilátást nyújt. A nap kényelmesen ér véget Zahara központjában.",
             "ro": "Folosiți autobuzul pentru a naviga uscat între obiective. Dimineața explorați Palatul la Chanca. La prânz priviți ploaia din piață. După-amiaza, călătoria pe coastă oferă vederi gri, dar maiestuoase. Ziua se încheie confortabil în centrul localității.",
-            "en": "Use the bus to commute dryly between sights. Spend the morning exploring Palacio de la Chanca. At noon, watch the rain from the market. In the afternoon, the coastal ride offers gray but majestic views. The day ends comfortably in the center of Zahara."
+            "en": "Use the bus to commute dryly between sights. Spend the morning exploring Palacio de la Chanca. At noon, watch the rain from the market. In the afternoon, the coastal ride offers gray but majestic views. The day ends comfortably in the center of Zahara.",
+            "es": "Usa el autobús para desplazarte seco entre los puntos. Pasa la mañana explorando el Palacio de la Chanca. Al mediodía, observa la lluvia desde el mercado. Por la tarde, el trayecto costero ofrece vistas grises pero majestuosas. El día termina cómodamente en el centro de Zahara."
           },
           "stops": [
             {
@@ -2040,7 +2211,8 @@
                 "de": "Die Bushaltestelle liegt in unmittelbarer Nähe.",
                 "hu": "A buszmegálló közvetlen közelben található.",
                 "ro": "Stația de autobuz se află în imediata apropiere.",
-                "en": "The bus stop is located in the immediate vicinity."
+                "en": "The bus stop is located in the immediate vicinity.",
+                "es": "La parada de autobús está en las inmediaciones."
               }
             },
             {
@@ -2049,7 +2221,8 @@
                 "de": "Ideal, um lokale Spezialitäten unter Dach zu kaufen.",
                 "hu": "Ideális helyi különlegességek vásárlására fedél alatt.",
                 "ro": "Ideal pentru a cumpăra specialități locale sub acoperiș.",
-                "en": "Ideal for buying local specialties under cover."
+                "en": "Ideal for buying local specialties under cover.",
+                "es": "Ideal para comprar especialidades locales a cubierto."
               }
             },
             {
@@ -2058,7 +2231,8 @@
                 "de": "Vom Bus aus hat man eine tolle Sicht auf die Gischt.",
                 "hu": "A buszból remek kilátás nyílik a tengeri permetre.",
                 "ro": "Din autobuz aveți o vedere excelentă asupra valurilor.",
-                "en": "From the bus, you get a great view of the sea spray."
+                "en": "From the bus, you get a great view of the sea spray.",
+                "es": "Desde el autobús tienes una gran vista de la espuma del mar."
               }
             },
             {
@@ -2067,7 +2241,8 @@
                 "de": "Bleiben Sie bei starkem Regen lieber im Bus-Wartehäuschen.",
                 "hu": "Heves esőben maradjon inkább a buszváróban.",
                 "ro": "În caz de ploaie torențială, stați mai degrabă în stație.",
-                "en": "Stay in the bus shelter during heavy rain."
+                "en": "Stay in the bus shelter during heavy rain.",
+                "es": "Refúgiate en la marquesina del autobús durante lluvia intensa."
               }
             }
           ],
@@ -2095,6 +2270,12 @@
               "Keep small change ready in case card payment on the bus fails.",
               "Waiting areas are often only partially covered; dress accordingly.",
               "Buses are often crowded during rain; allow for extra buffer time."
+            ],
+            "es": [
+              "Consulta el horario de invierno, los autobuses pueden circular con menos frecuencia.",
+              "Ten cambio preparado por si falla el pago con tarjeta en el autobús.",
+              "Las zonas de espera suelen estar solo parcialmente cubiertas; vístete en consecuencia.",
+              "Los autobuses suelen ir llenos cuando llueve; calcula tiempo extra."
             ]
           }
         },
@@ -2103,7 +2284,8 @@
             "de": "Ein entspannter Wintertag beginnt mit einer Busfahrt zum Palacio. Mittags bummelt man über den ruhigen Markt. Nachmittags genießen Sie die Panoramafahrt entlang des Paseo Marítimo. Der Tag endet mit einem kurzen Spaziergang am weiten Winterstrand, bevor der letzte Bus zurückfährt.",
             "hu": "Egy pihentető téli nap buszos utazással indul a Palacio-hoz. Délben barangoljon a csendes piacon. Délután élvezze a panorámás utazást a Paseo Marítimo mentén. A nap rövid sétával zárul a tágas téli strandon, mielőtt az utolsó busz visszaindul.",
             "ro": "O zi relaxantă de iarnă începe cu o plimbare cu autobuzul spre Palat. La prânz hoinăriți prin piața liniștită. După-amiaza bucurați-vă de drumul panoramic pe lângă faleză. Ziua se încheie cu o scurtă plimbare pe plajă înainte de ultimul autobuz.",
-            "en": "A relaxing winter day starts with a bus ride to the Palacio. At noon, wander through the quiet market. In the afternoon, enjoy the panoramic ride along Paseo Marítimo. The day ends with a short walk on the wide winter beach before the last bus departs."
+            "en": "A relaxing winter day starts with a bus ride to the Palacio. At noon, wander through the quiet market. In the afternoon, enjoy the panoramic ride along Paseo Marítimo. The day ends with a short walk on the wide winter beach before the last bus departs.",
+            "es": "Un relajante día de invierno empieza con un viaje en autobús al Palacio. Al mediodía, pasea por el mercado tranquilo. Por la tarde, disfruta del trayecto panorámico por el Paseo Marítimo. El día termina con un breve paseo por la amplia playa invernal antes de que salga el último autobús."
           },
           "stops": [
             {
@@ -2112,7 +2294,8 @@
                 "de": "Winter-Öffnungszeiten können kürzer sein.",
                 "hu": "A téli nyitvatartási idő rövidebb lehet.",
                 "ro": "Programul de iarnă poate fi mai scurt.",
-                "en": "Winter opening hours may be shorter."
+                "en": "Winter opening hours may be shorter.",
+                "es": "Los horarios de invierno pueden ser más cortos."
               }
             },
             {
@@ -2121,7 +2304,8 @@
                 "de": "Im Winter ist der Markt weniger überlaufen.",
                 "hu": "Télen a piac sokkal kevésbé zsúfolt.",
                 "ro": "Iarna piața este mult mai puțin aglomerată.",
-                "en": "The market is much less crowded in winter."
+                "en": "The market is much less crowded in winter.",
+                "es": "El mercado está mucho menos concurrido en invierno."
               }
             },
             {
@@ -2130,7 +2314,8 @@
                 "de": "Genießen Sie die Aussicht aus dem beheizten Bus.",
                 "hu": "Élvezze a kilátást a fűtött buszból.",
                 "ro": "Bucurați-vă de priveliște din autobuzul încălzit.",
-                "en": "Enjoy the view from the heated bus."
+                "en": "Enjoy the view from the heated bus.",
+                "es": "Disfruta de la vista desde el autobús con calefacción."
               }
             },
             {
@@ -2139,7 +2324,8 @@
                 "de": "Beachten Sie die Zeit für die letzte Busverbindung.",
                 "hu": "Figyeljen az utolsó buszjárat indulási idejére.",
                 "ro": "Atenție la ora ultimei curse de autobuz.",
-                "en": "Note the time for the last bus connection."
+                "en": "Note the time for the last bus connection.",
+                "es": "Anota la hora de la última conexión de autobús."
               }
             }
           ],
@@ -2167,6 +2353,12 @@
               "Schedules often change starting November 1st.",
               "Use the transit provider's app for real-time tracking data.",
               "Heating on the buses is usually very reliable."
+            ],
+            "es": [
+              "Los autobuses están agradablemente vacíos durante los meses de invierno.",
+              "Los horarios a menudo cambian a partir del 1 de noviembre.",
+              "Usa la app del operador de transporte para datos de seguimiento en tiempo real.",
+              "La calefacción en los autobuses suele ser muy fiable."
             ]
           }
         }
@@ -2181,19 +2373,22 @@
       "de": "Zahara ist Fischerdorf-Spanien pur, Englisch nur in Strandchiringuitos verlässlich. Lerne 'atún de almadraba' (Almadraba-Thun) und 'tapa' – das ist hier kulinarische Identität. 'Buenas' reicht als Allzweck-Gruß den ganzen Tag.",
       "hu": "Zahara igazi halász-spanyolország, az angol csak a parti chiringuito-kban megbízható. Az 'atún de almadraba' (almadraba tonhal) és a 'tapa' szót tanuld meg, ez itt szinte vallás. A 'Buenas' egész napos univerzális köszönés.",
       "ro": "Zahara este Spania pescărească autentică, engleza merge sigur doar în chiringuitos pe plajă. Învață 'atún de almadraba' (ton de almadraba) și 'tapa' – aici e identitate culinară. 'Buenas' funcționează ca salut toată ziua.",
-      "en": "Zahara is fishing-village Spain, English is only reliable in beach chiringuitos. Learn 'atún de almadraba' (trap-caught tuna) and 'tapa' – they're cultural identity here. 'Buenas' works as an all-day greeting."
+      "en": "Zahara is fishing-village Spain, English is only reliable in beach chiringuitos. Learn 'atún de almadraba' (trap-caught tuna) and 'tapa' – they're cultural identity here. 'Buenas' works as an all-day greeting.",
+      "es": "Zahara es el España de pueblo pesquero; el inglés solo es fiable en los chiringuitos de playa. Aprende 'atún de almadraba' y 'tapa' —son identidad cultural aquí. 'Buenas' funciona como saludo todo el día."
     },
     "best_time_to_visit": {
       "de": "Mai und Juni für ruhige Strände und die Almadraba-Thunfischsaison. Juli und August sind extrem voll, Unterkünfte Monate im Voraus buchen. Oktober ist überraschend mild und leer.",
       "hu": "Május-június a befutó a csendes strandokért és az almadraba tonhalszezonért. Július-augusztus extrém zsúfolt, szállást hónapokkal előbb foglalj. Október meglepően enyhe és üres.",
       "ro": "Mai și iunie pentru plaje liniștite și sezonul de ton almadraba. Iulie-august sunt extrem de aglomerate, rezervă cazare cu luni înainte. Octombrie e surprinzător de blând și pustiu.",
-      "en": "May and June for quiet beaches and the almadraba tuna season. July–August get extremely crowded; book months ahead. October is surprisingly mild and empty."
+      "en": "May and June for quiet beaches and the almadraba tuna season. July–August get extremely crowded; book months ahead. October is surprisingly mild and empty.",
+      "es": "Mayo y junio para playas tranquilas y temporada del atún de almadraba. Julio–agosto se llenan mucho; reserva con meses de antelación. Octubre es sorprendentemente templado y vacío."
     },
     "neighborhood_warnings": {
       "de": "Sehr sicheres Dorf, kaum Kriminalität. Strandströmungen können stark sein, achte auf Flaggen. Im Sommer Mücken am Río Cachón – Repellent mitnehmen.",
       "hu": "Nagyon biztonságos falu, bűnözés alig. A part menti áramlatok erősek lehetnek, figyeld a zászlókat. Nyáron a Río Cachónnál szúnyogok, vigyél riasztót.",
       "ro": "Sat foarte sigur, criminalitate aproape inexistentă. Curenții la plajă pot fi puternici, urmărește steagurile. Vara, țânțari lângă Río Cachón – ia repelent.",
-      "en": "A very safe village with negligible crime. Beach currents can be strong, watch the flags. Summer mosquitoes near the Río Cachón – bring repellent."
+      "en": "A very safe village with negligible crime. Beach currents can be strong, watch the flags. Summer mosquitoes near the Río Cachón – bring repellent.",
+      "es": "Pueblo muy seguro con delincuencia prácticamente nula. Las corrientes en la playa pueden ser fuertes, vigila las banderas. Mosquitos en verano cerca del Río Cachón: lleva repelente."
     }
   }
 }

@@ -21,7 +21,8 @@
             "de": "Plaza Mayor",
             "hu": "Főtér (Plaza Mayor)",
             "ro": "Plaza Mayor",
-            "en": "Main Square (Plaza Mayor)"
+            "en": "Main Square (Plaza Mayor)",
+            "es": "Plaza Mayor"
           },
           "coords": [
             -7.864,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie den Tag mit einem Kaffee in einem der Cafés und beobachten Sie, wie die Stadt erwacht.",
             "hu": "Indítsa a napot egy kávéval a tér egyik kávézójában, és figyelje a város ébredését.",
             "ro": "Începeți ziua cu o cafea la una dintre terase și priviți cum se trezește orașul.",
-            "en": "Start your day with a coffee at one of the square's cafes and watch the city come to life."
+            "en": "Start your day with a coffee at one of the square's cafes and watch the city come to life.",
+            "es": "Comienza el día con un café en una de las terrazas de la plaza y observa cómo la ciudad cobra vida."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Santa Eufemia",
             "hu": "Santa Eufemia-templom",
             "ro": "Biserica Santa Eufemia",
-            "en": "Church of Santa Eufemia"
+            "en": "Church of Santa Eufemia",
+            "es": "Iglesia de Santa Eufemia"
           },
           "coords": [
             -7.8645,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die beeindruckende Barockfassade, die besonders am Morgen schön beleuchtet ist.",
             "hu": "Csodálja meg a lenyűgöző barokk homlokzatot, amely reggelente különösen szép megvilágítást kap.",
             "ro": "Admirați fațada barocă impresionantă, care este frumos luminată dimineața.",
-            "en": "Admire the impressive Baroque facade, which is beautifully lit in the morning."
+            "en": "Admire the impressive Baroque facade, which is beautifully lit in the morning.",
+            "es": "Admira la impresionante fachada barroca, que se ilumina de forma hermosa por la mañana."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kathedrale von Ourense",
             "hu": "Ourense-i katedrális",
             "ro": "Catedrala din Ourense",
-            "en": "Ourense Cathedral"
+            "en": "Ourense Cathedral",
+            "es": "Catedral de Ourense"
           },
           "coords": [
             -7.866,
@@ -82,7 +87,8 @@
             "de": "Verpassen Sie nicht den Portikus des Paradieses, eine farbenfrohe Nachbildung des Portikus der Herrlichkeit in Santiago.",
             "hu": "Ne hagyja ki a Paradicsom Kapuját, a compostelai Dicsőség Kapujának színes másolatát.",
             "ro": "Nu ratați Porticul Paradisului, o replică colorată a Porticului Gloriei din Santiago.",
-            "en": "Don't miss the Portico of Paradise, a colorful replica of the Portico of Glory in Santiago."
+            "en": "Don't miss the Portico of Paradise, a colorful replica of the Portico of Glory in Santiago.",
+            "es": "No te pierdas el Pórtico del Paraíso, una réplica colorida del Pórtico de la Gloria de Santiago."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "As Burgas",
             "hu": "As Burgas hőforrások",
             "ro": "Izvoarele termale As Burgas",
-            "en": "As Burgas Hot Springs"
+            "en": "As Burgas Hot Springs",
+            "es": "Termas As Burgas"
           },
           "coords": [
             -7.868,
@@ -105,7 +112,8 @@
             "de": "Fühlen Sie die Hitze der Quellen, die mit über 60°C aus dem Boden sprudeln. Es gibt auch ein öffentliches Thermalbad.",
             "hu": "Érezze a több mint 60°C-on feltörő források hőjét. Egy nyilvános termálfürdő is található itt.",
             "ro": "Simțiți căldura izvoarelor care țâșnesc din pământ la peste 60°C. Există și o baie termală publică.",
-            "en": "Feel the heat of the springs gushing from the ground at over 60°C. There is also a public thermal bath."
+            "en": "Feel the heat of the springs gushing from the ground at over 60°C. There is also a public thermal bath.",
+            "es": "Siente el calor de las fuentes que brotan del suelo a más de 60 °C. También hay un balneario público."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Ponte Vella",
             "hu": "Ponte Vella (Öreg híd)",
             "ro": "Ponte Vella (Podul Vechi)",
-            "en": "Ponte Vella (Old Bridge)"
+            "en": "Ponte Vella (Old Bridge)",
+            "es": "Ponte Vella (Puente Viejo)"
           },
           "coords": [
             -7.871,
@@ -128,7 +137,8 @@
             "de": "Überqueren Sie die römische Brücke und genießen Sie den Blick auf den Fluss Miño und die Stadt.",
             "hu": "Sétáljon át a római kori hídon, és élvezze a Miño folyóra és a városra nyíló kilátást.",
             "ro": "Traversați podul roman și bucurați-vă de priveliștea asupra râului Miño și a orașului.",
-            "en": "Cross the Roman bridge and enjoy the views of the Miño river and the city."
+            "en": "Cross the Roman bridge and enjoy the views of the Miño river and the city.",
+            "es": "Cruza el puente romano y disfruta de las vistas del río Miño y de la ciudad."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Millennium-Brücke",
             "hu": "Millennium híd",
             "ro": "Podul Millennium",
-            "en": "Millennium Bridge"
+            "en": "Millennium Bridge",
+            "es": "Puente del Milenio"
           },
           "coords": [
             -7.859,
@@ -151,7 +162,8 @@
             "de": "Der Fußgängersteg in Form einer Schleife bietet spektakuläre Ausblicke, ist aber nichts für Menschen mit Höhenangst.",
             "hu": "A hurok alakú gyalogos feljáró látványos kilátást nyújt, de tériszonyosoknak nem ajánlott.",
             "ro": "Pasarela pietonală în formă de buclă oferă vederi spectaculoase, dar nu este pentru cei cu frică de înălțime.",
-            "en": "The loop-shaped pedestrian walkway offers spectacular views, but it's not for those with a fear of heights."
+            "en": "The loop-shaped pedestrian walkway offers spectacular views, but it's not for those with a fear of heights.",
+            "es": "La pasarela peatonal en forma de bucle ofrece vistas espectaculares, pero no es apta para quienes sufren vértigo."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Ihr Tag in Ourense beginnt im Herzen der Altstadt, auf der Plaza Mayor. Von hier aus erkunden Sie die prächtigen Kirchen Santa Eufemia und die Kathedrale, bevor Sie die berühmten heißen Quellen von As Burgas entdecken. Ein Spaziergang entlang des Flusses Miño führt Sie zu zwei ikonischen Brücken. Genießen Sie die Mischung aus Geschichte, Natur und moderner Architektur, die Ourense zu bieten hat. Nehmen Sie sich Zeit für ein Mittagessen in einer der traditionellen Tavernen.",
         "hu": "Ourense-i napja az óváros szívében, a Plaza Mayoron kezdődik. Innen fedezi fel a csodálatos Santa Eufemia templomot és a katedrálist, mielőtt megnézné a híres As Burgas hőforrásokat. Egy séta a Miño folyó mentén két ikonikus hídhoz vezet. Élvezze a történelem, a természet és a modern építészet keverékét. Szánjon időt egy ebédre az egyik hagyományos tavernában.",
         "ro": "Ziua dvs. în Ourense începe în inima orașului vechi, în Plaza Mayor. De aici, veți explora magnificele biserici Santa Eufemia și Catedrala, înainte de a descoperi faimoasele izvoare termale As Burgas. O plimbare pe malul râului Miño vă va duce la două poduri iconice. Bucurați-vă de amestecul de istorie, natură și arhitectură modernă. Luați-vă timp pentru prânz la una dintre tavernele tradiționale.",
-        "en": "Your day in Ourense begins in the heart of the old town, at Plaza Mayor. From here, you'll explore the magnificent churches of Santa Eufemia and the Cathedral before discovering the famous As Burgas hot springs. A walk along the Miño River will lead you to two iconic bridges. Enjoy the mix of history, nature, and modern architecture. Take time for lunch in one of the traditional taverns."
+        "en": "Your day in Ourense begins in the heart of the old town, at Plaza Mayor. From here, you'll explore the magnificent churches of Santa Eufemia and the Cathedral before discovering the famous As Burgas hot springs. A walk along the Miño River will lead you to two iconic bridges. Enjoy the mix of history, nature, and modern architecture. Take time for lunch in one of the traditional taverns.",
+        "es": "Tu día en Ourense comienza en el corazón del casco antiguo, en la Plaza Mayor. Desde aquí explorarás las magníficas iglesias de Santa Eufemia y la Catedral antes de descubrir las famosas Burgas termales. Un paseo junto al río Miño te llevará a dos puentes icónicos. Disfruta de la mezcla de historia, naturaleza y arquitectura moderna. Tómate tiempo para comer en una de las tabernas tradicionales."
       },
       "gastro_picks": {
         "de": [
@@ -359,6 +372,13 @@
           "Try the local wines from the Ribeiro region.",
           "Most shops have a siesta break in the afternoon.",
           "Plan your lunch around 2:00 PM, as is common in Spain."
+        ],
+        "es": [
+          "Lleva calzado cómodo, ya que los empedrados del casco antiguo pueden ser irregulares.",
+          "Lleva una botella de agua reutilizable; hay muchas fuentes públicas.",
+          "Prueba los vinos locales de la denominación Ribeiro.",
+          "La mayoría de las tiendas hacen la siesta por la tarde.",
+          "Planifica la comida sobre las 14:00, como es habitual en España."
         ]
       },
       "variants": {
@@ -367,7 +387,8 @@
             "de": "Beginnen Sie den Tag unter den schützenden Arkaden der Plaza Mayor, wo der Granit im Regen glänzt. Die verwinkelten Gassen der Altstadt bieten natürlichen Schutz auf dem Weg zur Kathedrale. Mittags finden Sie in den Cafés rund um die Praza do Ferro Zuflucht vor den galicischen Schauern.\n\nAm Nachmittag spazieren Sie zur As Burgas Anlage, wo der aufsteigende Dampf des 60 Grad heißen Wassers eine mystische Atmosphäre schafft. Ein Regenschirm ist auf den Brücken über den Miño unerlässlich, da der Wind hier oft stärker weht.\n\nDen späten Nachmittag verbringen wir an der Millennium-Brücke, deren Architektur auch bei grauem Himmel beeindruckt. Die metallischen Oberflächen können rutschig sein, also ist Vorsicht geboten.\n\nDen Abend lassen wir in einer der traditionellen Weinbars ausklingen, während draußen der Regen gegen die alten Steinmauern peitscht. Die warme Beleuchtung der Altstadt sorgt für eine gemütliche Stimmung.",
             "hu": "A napot a Plaza Mayor árkádjai alatt kezdjük, ahol a gránitfalak védelmet nyújtanak az eső elől. Az óváros szűk utcáin haladva érjük el a katedrálist, amely tökéletes fedett menedék a reggeli záporok idején. Délben a Praza do Ferro környéki kávézókban pihenhetünk meg.\n\nDélután az As Burgas forrásokhoz látogatunk, ahol a 60 fokos víz felett gomolygó pára különleges látványt nyújt a hűvös esőben. A Miño-folyó hídjain való átkeléshez elengedhetetlen egy stabil esernyő a szeles időjárás miatt.\n\nA Millennium-híd spirális feljárói esőben csúszósak lehetnek, így érdemes lassabb tempót választani. A modern mérnöki munka látványa a borús égbolt alatt is lenyűgöző.\n\nAz estét egy hangulatos borbárban zárjuk, élvezve a helyi Ribeiro borokat, miközben az eső kopog az ablakon. Az óváros fényei ilyenkor különlegesen csillognak a vizes macskaköveken.",
             "ro": "Începeți ziua sub arcadele din Plaza Mayor, unde granitul strălucește sub ploaie. Străzile înguste ale centrului vechi oferă adăpost natural în drum spre catedrală. La prânz, cafenelele din jurul Praza do Ferro sunt refugiul perfect împotriva averselor galiciene.\n\nDupă-amiaza, vizitați izvoarele As Burgas, unde aburul apei de 60 de grade creează o atmosferă mistică în ploaie. O umbrelă este esențială pe podurile peste Miño, deoarece vântul tinde să fie mai puternic deasupra apei.\n\nContinuăm spre Podul Millennium, a cărui arhitectură rămâne impresionantă chiar și sub un cer cenușiu. Suprafețele metalice pot fi alunecoase, deci se recomandă prudență la urcare.\n\nSeara se încheie într-unul dintre barurile tradiționale de vinuri, în timp ce ploaia bate în zidurile vechi de piatră. Atmosfera caldă din interior contrastează plăcut cu vremea de afară.",
-            "en": "Start your day under the protective arcades of Plaza Mayor, where the granite stones glisten in the rain. The narrow streets of the old town offer natural shelter on your way to the cathedral. At noon, the cafes around Praza do Ferro provide a perfect escape from the Galician showers.\n\nIn the afternoon, visit the As Burgas springs, where the rising steam from the 60-degree water creates a mystical atmosphere in the rain. A sturdy umbrella is essential on the bridges over the Miño, as the wind picks up over the water.\n\nNext, head to the Millennium Bridge, which remains visually striking even under grey skies. The metal surfaces can be slippery, so watch your step on the walkways.\n\nWrap up the evening in one of the traditional wine bars, listening to the rain against the ancient stone walls. The warm indoor lighting makes for a cozy end to a damp day in Ourense."
+            "en": "Start your day under the protective arcades of Plaza Mayor, where the granite stones glisten in the rain. The narrow streets of the old town offer natural shelter on your way to the cathedral. At noon, the cafes around Praza do Ferro provide a perfect escape from the Galician showers.\n\nIn the afternoon, visit the As Burgas springs, where the rising steam from the 60-degree water creates a mystical atmosphere in the rain. A sturdy umbrella is essential on the bridges over the Miño, as the wind picks up over the water.\n\nNext, head to the Millennium Bridge, which remains visually striking even under grey skies. The metal surfaces can be slippery, so watch your step on the walkways.\n\nWrap up the evening in one of the traditional wine bars, listening to the rain against the ancient stone walls. The warm indoor lighting makes for a cozy end to a damp day in Ourense.",
+            "es": "Comienza el día bajo los soportales protectores de la Plaza Mayor, donde el granito reluce con la lluvia. Las calles estrechas del casco antiguo ofrecen cobijo natural en tu camino a la catedral. Al mediodía, las cafeterías alrededor de la Praza do Ferro son un perfecto refugio de los chaparrones gallegos.\n\nPor la tarde, visita las Burgas, donde el vapor que se eleva del agua a 60 °C crea una atmósfera mística con lluvia. Un paraguas resistente es esencial en los puentes sobre el Miño, ya que el viento se intensifica sobre el agua.\n\nLuego dirígete al Puente del Milenio, que resulta visualmente impactante incluso bajo cielos grises. Las superficies metálicas pueden estar resbaladizas, así que mira dónde pisas en las pasarelas.\n\nTermina la noche en una de las tascas tradicionales, escuchando la lluvia contra los muros de piedra. La cálida iluminación interior es el mejor cierre para un día húmedo en Ourense."
           },
           "stops": [
             {
@@ -376,7 +397,8 @@
                 "de": "Nutzen Sie die Arkaden (Soportales), um trocken zu bleiben.",
                 "hu": "Használja az árkádokat a szárazon maradáshoz.",
                 "ro": "Folosiți arcadele (soportales) pentru a rămâne uscat.",
-                "en": "Use the arcades (soportales) to stay dry while exploring."
+                "en": "Use the arcades (soportales) to stay dry while exploring.",
+                "es": "Usa los soportales para mantenerte seco mientras exploras."
               }
             },
             {
@@ -385,7 +407,8 @@
                 "de": "Bewundern Sie die Barockfassade, bevor Sie im Inneren Schutz suchen.",
                 "hu": "Csodálja meg a barokk homlokzatot, mielőtt bent keresne menedéket.",
                 "ro": "Admirați fațada barocă înainte de a vă adăposti în interior.",
-                "en": "Admire the Baroque facade before seeking shelter inside."
+                "en": "Admire the Baroque facade before seeking shelter inside.",
+                "es": "Admira la fachada barroca antes de buscar refugio en el interior."
               }
             },
             {
@@ -394,7 +417,8 @@
                 "de": "Ideale Zeit für eine ausführliche Besichtigung des Portico del Paraíso.",
                 "hu": "Ideális idő a Portico del Paraíso részletes megtekintéséhez.",
                 "ro": "Moment ideal pentru o vizită detaliată a Porticului Paradisului.",
-                "en": "Perfect time for a detailed visit to the Portico del Paraíso."
+                "en": "Perfect time for a detailed visit to the Portico del Paraíso.",
+                "es": "Momento perfecto para una visita detallada al Pórtico del Paraíso."
               }
             },
             {
@@ -403,7 +427,8 @@
                 "de": "Das 60°C heiße Wasser dampft bei Regen besonders eindrucksvoll.",
                 "hu": "A 60 fokos víz esőben különösen látványosan párolog.",
                 "ro": "Apa de 60°C scoate aburi impresionanți când plouă.",
-                "en": "The 60°C water steams impressively in the cool rain."
+                "en": "The 60°C water steams impressively in the cool rain.",
+                "es": "El agua a 60 °C desprende un vapor impresionante bajo la lluvia fría."
               }
             },
             {
@@ -412,7 +437,8 @@
                 "de": "Achten Sie auf die glatten römischen Steine.",
                 "hu": "Vigyázzon a csúszós római kövekre.",
                 "ro": "Atenție la pietrele romane care devin alunecoase.",
-                "en": "Be careful as the Roman stones can become slippery."
+                "en": "Be careful as the Roman stones can become slippery.",
+                "es": "Ten cuidado, las losas romanas pueden volverse resbaladizas."
               }
             },
             {
@@ -421,7 +447,8 @@
                 "de": "Der Metallboden erfordert bei Nässe festes Schuhwerk.",
                 "hu": "A fém padló nedvesen stabil lábbelit igényel.",
                 "ro": "Podeaua metalică necesită încălțăminte aderentă pe ploaie.",
-                "en": "The metal floor requires sturdy footwear when wet."
+                "en": "The metal floor requires sturdy footwear when wet.",
+                "es": "El suelo metálico requiere calzado resistente cuando está mojado."
               }
             }
           ],
@@ -453,6 +480,13 @@
               "The Cathedral is a great indoor alternative during heavy showers.",
               "The thermal springs are actually most atmospheric during the rain.",
               "A compact umbrella is easier to manage in the narrow historic streets."
+            ],
+            "es": [
+              "Usa zapatos impermeables porque los empedrados tienden a acumular charcos.",
+              "Utiliza los 'soportales' del casco antiguo para mantenerte seco entre paradas.",
+              "La Catedral es una gran alternativa interior durante chaparrones fuertes.",
+              "Las aguas termales son más atmosféricas durante la lluvia.",
+              "Un paraguas compacto es más fácil de manejar en las calles históricas estrechas."
             ]
           }
         },
@@ -461,7 +495,8 @@
             "de": "Ein frischer Wintermorgen in Ourense beginnt mit dem Anblick des gefrorenen Taus auf den Granitstufen der Plaza Mayor. Die kühle Luft macht den Aufstieg zur Kathedrale kurzweilig. In den Cafés wird jetzt dampfende 'Chocolate con Churros' serviert, um die Lebensgeister zu wecken.\n\nMittags steht die Kathedrale von San Martiño im Mittelpunkt, deren dicke Mauern eine konstante Kühle bewahren, während die Wintersonne durch die Fenster bricht. Die historischen Gassen sind weniger belebt, was eine ruhige Erkundung ermöglicht.\n\nAm Nachmittag führt der Weg zu den As Burgas Quellen. Hier ist die Wärme des Wassers im Kontrast zur kalten Winterluft am intensivsten spürbar. Der Spaziergang über die Brücken bietet weite Ausblicke über den Miño, der im Winter oft mehr Wasser führt.\n\nWenn die Sonne früh hinter den Bergen Galiciens verschwindet, leuchten die Lichter der Stadt auf. Die Millennium-Brücke bietet einen perfekten Ort, um den frühen Sonnenuntergang über dem Fluss zu beobachten, bevor man sich in eine warme Taverne zurückzieht.",
             "hu": "A friss téli reggel Ourense-ben a Plaza Mayor gránitlépcsőin megcsillanó fagyos harmattal indul. A hűvös levegőben gyorsabban telik az óvárosi séta. Ilyenkor a kávézókban gőzölgő 'Chocolate con Churros' segít felmelegedni az út előtt.\n\nDélben a San Martiño katedrális vastag falai között teszünk látogatást, ahol a téli napsütés különleges fénybe vonja a belső teret. A turisták hiánya miatt ilyenkor zavartalanul élvezhetjük a történelmi környezet nyugalmát.\n\nDélután az As Burgas forrásoknál a legélvezetesebb a kontraszt a hideg levegő és a forró víz között. A Miño hídjain sétálva láthatjuk a folyó téli, duzzadtabb medrét és a part menti kopár, de látványos fákat.\n\nMivel a nap korán nyugszik a galiciai hegyek mögött, a város fényei már ötkor kigyúlnak. A Millennium-híd ideális helyszín a korai alkonyat megtekintéséhez, mielőtt betérnénk egy fűtött helyi vendéglőbe.",
             "ro": "O dimineață proaspătă de iarnă în Ourense începe cu roua înghețată pe treptele de granit din Plaza Mayor. Aerul rece face plimbarea spre catedrală foarte revigorantă. În cafenele, se servește acum 'Chocolate con Churros' fierbinte pentru a vă încălzi.\n\nLa prânz, Catedrala San Martiño devine centrul atenției, zidurile sale groase oferind o liniște aparte în timp ce soarele de iarnă pătrunde prin ferestre. Străzile istorice sunt mai puțin aglomerate, permițând o explorare calmă.\n\nDupă-amiaza, vizităm izvoarele As Burgas, unde căldura apei se simte cel mai intens în contrast cu aerul rece. Plimbarea pe poduri oferă vederi largi asupra râului Miño, care iarna are adesea un debit mai mare.\n\nPe măsură ce soarele apune devreme după munții Galiciei, luminile orașului se aprind rapid. Podul Millennium oferă un loc perfect pentru a observa apusul timpuriu peste râu, înainte de a vă retrage într-o tavernă călduroasă.",
-            "en": "A crisp winter morning in Ourense starts with frost glistening on the granite steps of Plaza Mayor. The cool air makes the walk up to the Cathedral refreshing. Local cafes are now serving steaming 'Chocolate con Churros' to warm your spirits.\n\nAt midday, focus on the Cathedral of San Martiño, where the thick walls hold a quiet stillness as the winter sun filters through the windows. The historic streets are less crowded, allowing for a peaceful exploration of the architecture.\n\nIn the afternoon, head to the As Burgas springs. The warmth of the water is most palpable now against the cold winter air. Walking across the bridges provides wide views of the Miño river, which often carries more water during the winter months.\n\nAs the sun sets early behind the Galician mountains, the city lights flicker to life. The Millennium Bridge is a perfect spot to watch the early sunset over the river before retreating to a warm local tavern for the evening."
+            "en": "A crisp winter morning in Ourense starts with frost glistening on the granite steps of Plaza Mayor. The cool air makes the walk up to the Cathedral refreshing. Local cafes are now serving steaming 'Chocolate con Churros' to warm your spirits.\n\nAt midday, focus on the Cathedral of San Martiño, where the thick walls hold a quiet stillness as the winter sun filters through the windows. The historic streets are less crowded, allowing for a peaceful exploration of the architecture.\n\nIn the afternoon, head to the As Burgas springs. The warmth of the water is most palpable now against the cold winter air. Walking across the bridges provides wide views of the Miño river, which often carries more water during the winter months.\n\nAs the sun sets early behind the Galician mountains, the city lights flicker to life. The Millennium Bridge is a perfect spot to watch the early sunset over the river before retreating to a warm local tavern for the evening.",
+            "es": "Una fría mañana de invierno en Ourense comienza con escarcha brillando en los peldaños de granito de la Plaza Mayor. El aire fresco hace que la subida a la Catedral sea vigorizante. Las cafeterías locales sirven ahora humeante chocolate con churros para calentar el ánimo.\n\nAl mediodía, céntrate en la Catedral de San Martiño, donde los muros gruesos mantienen una calma íntima mientras el sol invernal se filtra por las ventanas. Las calles históricas están menos concurridas, permitiendo una exploración tranquila de la arquitectura.\n\nPor la tarde, dirígete a las Burgas. El calor del agua se aprecia especialmente frente al aire frío invernal. Cruzar los puentes ofrece amplias vistas del Miño, que suele llevar más caudal en invierno.\n\nAl ponerse el sol temprano tras las montañas gallegas, las luces de la ciudad se encienden. El Puente del Milenio es un lugar perfecto para ver la puesta de sol temprana sobre el río antes de retirarte a una taberna cálida para la noche."
           },
           "stops": [
             {
@@ -470,7 +505,8 @@
                 "de": "Genießen Sie einen heißen Kaffee in den umliegenden Bars.",
                 "hu": "Élvezzen egy forró kávét a környező bárok egyikében.",
                 "ro": "Savurați o cafea fierbinte în barurile din jur.",
-                "en": "Enjoy a hot coffee in one of the surrounding bars."
+                "en": "Enjoy a hot coffee in one of the surrounding bars.",
+                "es": "Disfruta de un café caliente en uno de los bares cercanos."
               }
             },
             {
@@ -479,7 +515,8 @@
                 "de": "Die Kirche bietet einen ruhigen Rückzugsort vor dem Winterwind.",
                 "hu": "A templom csendes menedéket nyújt a téli szél elől.",
                 "ro": "Biserica oferă un refugiu liniștit împotriva vântului de iarnă.",
-                "en": "The church offers a quiet retreat from the winter wind."
+                "en": "The church offers a quiet retreat from the winter wind.",
+                "es": "La iglesia ofrece un tranquilo refugio del viento invernal."
               }
             },
             {
@@ -488,7 +525,8 @@
                 "de": "Warme Kleidung ist im Inneren der Kathedrale ratsam.",
                 "hu": "Meleg ruházat ajánlott a katedrális belsejében.",
                 "ro": "Se recomandă haine groase în interiorul catedralei.",
-                "en": "Warm clothing is advised as the cathedral interior stays cool."
+                "en": "Warm clothing is advised as the cathedral interior stays cool.",
+                "es": "Se aconseja ropa abrigada, ya que el interior de la catedral se mantiene fresco."
               }
             },
             {
@@ -497,7 +535,8 @@
                 "de": "Wärmen Sie Ihre Hände am 60 Grad heißen Quellwasser.",
                 "hu": "Melegítse fel kezeit a 60 fokos forrásvíznél.",
                 "ro": "Încălziți-vă mâinile la apa de izvor de 60 de grade.",
-                "en": "Warm your hands near the 60-degree spring water."
+                "en": "Warm your hands near the 60-degree spring water.",
+                "es": "Calienta las manos junto al agua a 60 °C."
               }
             },
             {
@@ -506,7 +545,8 @@
                 "de": "Bester Blick auf den oft nebligen Miño am Morgen.",
                 "hu": "Legjobb kilátás a reggelente gyakran ködös Miño-ra.",
                 "ro": "Cea mai bună vedere asupra râului Miño, adesea cețos dimineața.",
-                "en": "Best view of the often misty Miño river in the morning."
+                "en": "Best view of the often misty Miño river in the morning.",
+                "es": "Mejor vista del frecuentemente brumoso río Miño por la mañana."
               }
             },
             {
@@ -515,7 +555,8 @@
                 "de": "Windgeschützte Kleidung für die Überquerung einplanen.",
                 "hu": "Szélálló ruházatot tervezzen az átkeléshez.",
                 "ro": "Planificați haine rezistente la vânt pentru traversare.",
-                "en": "Plan for windproof clothing when crossing the bridge."
+                "en": "Plan for windproof clothing when crossing the bridge.",
+                "es": "Planifica ropa cortavientos para cruzar el puente."
               }
             }
           ],
@@ -547,6 +588,13 @@
               "Try the typical Galician broth (Caldo Gallego) to warm up.",
               "The thermal springs are most atmospheric now due to the heavy steam.",
               "Layered clothing is key for moving between cold streets and heated interiors."
+            ],
+            "es": [
+              "Aprovecha las horas del mediodía para actividades al aire libre, cuando hace más calor.",
+              "El sol se pone alrededor de las 18:00 durante los meses de invierno.",
+              "Prueba el típico caldo gallego para entrar en calor.",
+              "Las aguas termales son ahora más atmósferas por el abundante vapor.",
+              "Vestir en capas es clave para moverse entre calles frías e interiores calefactados."
             ]
           }
         }
@@ -565,7 +613,8 @@
             "de": "Plaza Mayor",
             "hu": "Főtér",
             "ro": "Plaza Mayor",
-            "en": "Main Square"
+            "en": "Main Square",
+            "es": "Plaza Mayor"
           },
           "coords": [
             -7.864,
@@ -580,7 +629,8 @@
             "de": "Parken Sie Ihr Fahrrad und genießen Sie die Atmosphäre des zentralen Platzes.",
             "hu": "Parkolja le a biciklit és élvezze a főtér hangulatát.",
             "ro": "Parcați bicicleta și bucurați-vă de atmosfera pieței centrale.",
-            "en": "Park your bike and soak in the atmosphere of the central square."
+            "en": "Park your bike and soak in the atmosphere of the central square.",
+            "es": "Aparca tu bici y empápate del ambiente de la plaza central."
           }
         },
         {
@@ -588,7 +638,8 @@
             "de": "Kathedrale von Ourense",
             "hu": "Ourense-i katedrális",
             "ro": "Catedrala din Ourense",
-            "en": "Ourense Cathedral"
+            "en": "Ourense Cathedral",
+            "es": "Catedral de Ourense"
           },
           "coords": [
             -7.866,
@@ -603,7 +654,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie das beeindruckende Innere erkunden.",
             "hu": "Zárja le biztonságosan a kerékpárt, mielőtt felfedezné a lenyűgöző belső teret.",
             "ro": "Asigurați-vă bicicleta înainte de a explora interiorul impresionant.",
-            "en": "Lock your bike securely before exploring the impressive interior."
+            "en": "Lock your bike securely before exploring the impressive interior.",
+            "es": "Asegura bien la bici antes de explorar el impresionante interior."
           }
         },
         {
@@ -611,7 +663,8 @@
             "de": "Claustro de San Francisco",
             "hu": "Szt. Ferenc kerengő",
             "ro": "Claustrul San Francisco",
-            "en": "Cloister of San Francisco"
+            "en": "Cloister of San Francisco",
+            "es": "Claustro de San Francisco"
           },
           "coords": [
             -7.869,
@@ -626,7 +679,8 @@
             "de": "Ein verstecktes Juwel und ein friedlicher Ort, um dem Trubel der Stadt zu entkommen.",
             "hu": "Rejtett gyöngyszem és békés hely a városi nyüzsgés elől.",
             "ro": "O bijuterie ascunsă și un loc pașnic pentru a scăpa de agitația orașului.",
-            "en": "A hidden gem and a peaceful place to escape the city bustle."
+            "en": "A hidden gem and a peaceful place to escape the city bustle.",
+            "es": "Una joya escondida y un lugar tranquilo para escapar del bullicio."
           }
         },
         {
@@ -634,7 +688,8 @@
             "de": "Ponte Vella",
             "hu": "Ponte Vella (Öreg híd)",
             "ro": "Ponte Vella (Podul Vechi)",
-            "en": "Ponte Vella (Old Bridge)"
+            "en": "Ponte Vella (Old Bridge)",
+            "es": "Ponte Vella (Puente Viejo)"
           },
           "coords": [
             -7.871,
@@ -649,7 +704,8 @@
             "de": "Schieben Sie Ihr Fahrrad über diese historische Brücke, um den alten Steinboden zu schonen.",
             "hu": "Tolja a kerékpárt ezen a történelmi hídon, hogy megóvja a régi kőburkolatot.",
             "ro": "Împingeți bicicleta pe acest pod istoric pentru a proteja pavajul vechi de piatră.",
-            "en": "Walk your bike across this historic bridge to preserve the ancient stone floor."
+            "en": "Walk your bike across this historic bridge to preserve the ancient stone floor.",
+            "es": "Camina con la bici por este puente histórico para preservar el antiguo pavimento de piedra."
           }
         },
         {
@@ -657,7 +713,8 @@
             "de": "Millennium-Brücke",
             "hu": "Millennium híd",
             "ro": "Podul Millennium",
-            "en": "Millennium Bridge"
+            "en": "Millennium Bridge",
+            "es": "Puente del Milenio"
           },
           "coords": [
             -7.859,
@@ -672,7 +729,8 @@
             "de": "Fahren Sie mit dem Fahrrad bis zum Anfang der Fußgängerschleife für einen tollen Fotopunkt.",
             "hu": "Biciklizzen el a gyalogos hurok elejéig egy remek fotóhelyért.",
             "ro": "Mergeți cu bicicleta până la începutul pasarelei pietonale pentru un punct foto excelent.",
-            "en": "Ride your bike to the start of the pedestrian loop for a great photo spot."
+            "en": "Ride your bike to the start of the pedestrian loop for a great photo spot.",
+            "es": "Pedalea hasta el inicio del circuito peatonal para un buen lugar para fotos."
           }
         },
         {
@@ -680,7 +738,8 @@
             "de": "Thermalbad Outariz",
             "hu": "Outariz Termálfürdő",
             "ro": "Băile termale Outariz",
-            "en": "Outariz Thermal Baths"
+            "en": "Outariz Thermal Baths",
+            "es": "Termas de Outariz"
           },
           "coords": [
             -7.915,
@@ -695,7 +754,8 @@
             "de": "Schließen Sie Ihr Fahrrad gut ab und entspannen Sie sich in den japanisch inspirierten Thermalbecken.",
             "hu": "Zárja le jól a kerékpárt, és pihenjen a japán ihletésű termálmedencékben.",
             "ro": "Asigurați-vă bine bicicleta și relaxați-vă în bazinele termale de inspirație japoneză.",
-            "en": "Lock your bike well and relax in the Japanese-inspired thermal pools."
+            "en": "Lock your bike well and relax in the Japanese-inspired thermal pools.",
+            "es": "Asegura bien la bici y relájate en las piscinas termales de inspiración japonesa."
           }
         },
         {
@@ -703,7 +763,8 @@
             "de": "As Burgas",
             "hu": "As Burgas hőforrások",
             "ro": "Izvoarele termale As Burgas",
-            "en": "As Burgas Hot Springs"
+            "en": "As Burgas Hot Springs",
+            "es": "Burgas"
           },
           "coords": [
             -7.868,
@@ -718,7 +779,8 @@
             "de": "Ein letzter Halt, um die Kraft der Thermalquellen im Herzen der Stadt zu sehen.",
             "hu": "Egy utolsó megálló, hogy megnézze a termálforrások erejét a város szívében.",
             "ro": "O ultimă oprire pentru a vedea puterea izvoarelor termale din inima orașului.",
-            "en": "A final stop to see the power of the thermal springs in the heart of the city."
+            "en": "A final stop to see the power of the thermal springs in the heart of the city.",
+            "es": "Una parada final para ver la fuerza de las aguas termales en el corazón de la ciudad."
           }
         }
       ],
@@ -726,7 +788,8 @@
         "de": "Schwingen Sie sich auf Ihr Fahrrad für eine Tour durch Ourense, die das historische Zentrum mit der entspannenden Kraft des Thermalwassers verbindet. Sie starten an der Plaza Mayor, radeln zu den wichtigsten religiösen Stätten und überqueren dann den Fluss Miño, um die beeindruckenden Brücken der Stadt zu sehen. Die Hauptattraktion ist eine längere Fahrt entlang des Flusses zum Thermalbad Outariz, wo Sie sich in den heißen Quellen entspannen können. Der Rückweg führt Sie zu den historischen Burgas-Quellen.",
         "hu": "Pattanjon biciklire egy ourense-i túrára, amely ötvözi a történelmi központot a termálvíz pihentető erejével. A Plaza Mayorról indul, elteker a főbb vallási helyszínekhez, majd átkel a Miño folyón, hogy megnézze a város lenyűgöző hídjait. A fő attrakció egy hosszabb út a folyó mentén az Outariz termálfürdőhöz, ahol a forró forrásokban pihenhet. Visszafelé a történelmi Burgas-forrásokhoz vezet az út.",
         "ro": "Urcați-vă pe bicicletă pentru un tur al orașului Ourense care combină centrul istoric cu puterea relaxantă a apelor termale. Porniți din Plaza Mayor, pedalați spre principalele situri religioase, apoi traversați râul Miño pentru a vedea podurile impresionante ale orașului. Atracția principală este o plimbare mai lungă de-a lungul râului până la băile termale Outariz, unde vă puteți relaxa în izvoarele fierbinți. Drumul de întoarcere vă duce la izvoarele istorice Burgas.",
-        "en": "Hop on your bike for a tour of Ourense that combines the historic center with the relaxing power of thermal waters. You'll start at Plaza Mayor, cycle to the main religious sites, then cross the Miño River to see the city's impressive bridges. The main attraction is a longer ride along the river to the Outariz thermal baths for a relaxing soak. The way back takes you to the historic Burgas springs."
+        "en": "Hop on your bike for a tour of Ourense that combines the historic center with the relaxing power of thermal waters. You'll start at Plaza Mayor, cycle to the main religious sites, then cross the Miño River to see the city's impressive bridges. The main attraction is a longer ride along the river to the Outariz thermal baths for a relaxing soak. The way back takes you to the historic Burgas springs.",
+        "es": "Súbete a la bici para un tour por Ourense que combina el centro histórico con el poder relajante de las aguas termales. Empezarás en la Plaza Mayor, pedalearás hasta los principales lugares religiosos y luego cruzarás el río Miño para ver los puentes impresionantes de la ciudad. La atracción principal es un tramo más largo junto al río hasta las termas de Outariz para un baño relajante. La vuelta te llevará a las históricas Burgas."
       },
       "gastro_picks": {
         "de": [
@@ -926,6 +989,13 @@
           "Use the bike paths along the river for a safe and scenic ride.",
           "Wear a helmet and use lights if riding at dusk.",
           "Bring a lock to secure your bike safely."
+        ],
+        "es": [
+          "Revisa la presión de los neumáticos antes de empezar.",
+          "Algunas partes del casco antiguo son empinadas, así que prepárate para subidas.",
+          "Utiliza los carriles bici junto al río para un recorrido seguro y pintoresco.",
+          "Lleva casco y luces si vas a pedalear al anochecer.",
+          "Lleva un candado para asegurar bien la bici."
         ]
       },
       "variants": {
@@ -934,7 +1004,8 @@
             "de": "Starten Sie vorsichtig am Hauptplatz, wo das nasse Pflaster Rutschgefahr birgt. Die Fahrt zur Kathedrale ist kurz, aber steil. Schützen Sie Ihr Fahrrad vor der Kathedrale, während Sie das trockene Innere besichtigen.\n\nMittags radeln wir zum Kloster San Francisco. Die Auffahrt ist anstrengend, aber die historischen Mauern bieten guten Windschutz. Ein Stopp für einen heißen Tee ist jetzt genau das Richtige.\n\nAm Nachmittag geht es über die Brücken. Die Ponte Vella erfordert bei Regen langsame Fahrt. Ziel sind die Outariz-Thermen – das Baden im heißen Wasser, während es regnet, ist ein unvergessliches Erlebnis.\n\nDer Rückweg erfolgt entlang des Flussufers. Der Radweg ist gut befestigt, aber achten Sie auf Pfützen. Die warmen Lichter von Ourense führen Sie zurück in die Stadt.",
             "hu": "Induljon óvatosan a főtérről, ahol a vizes kövek csúszósak lehetnek. A katedrálishoz vezető út rövid, de meredek. Zárja le a kerékpárt fedett helyen, amíg a belső teret látogatja.\n\nDélben a San Francisco kolostor felé vesszük az irányt. A felfelé vezető út esőben fárasztó, de a történelmi falak jó szélvédelmet nyújtanak. Egy forró tea most sokat segíthet.\n\nDélután a hidakon kelünk át. A Ponte Vella római kövein esőben csak lassan szabad haladni. A cél az Outariz termálfürdő – esőben fürdeni a forró vízben felejthetetlen élmény.\n\nA visszaút a folyóparton vezet. A kerékpárút jól kiépített, de figyeljen a tócsákra. Ourense meleg fényei vezetik vissza a városba.",
             "ro": "Porniți cu prudență din piața centrală, unde pavajul ud poate fi periculos. Drumul spre catedrală este scurt, dar abrupt. Parcați bicicleta într-un loc ferit cât timp vizitați interiorul.\n\nLa prânz, pedalăm spre mănăstirea San Francisco. Urcarea este solicitantă pe ploaie, dar zidurile istorice oferă protecție împotriva vântului. Un ceai fierbinte este binevenit acum.\n\nDupă-amiaza traversăm podurile. Pe Ponte Vella se recomandă viteză redusă pe ploaie. Destinația sunt termele Outariz – baia în apă fierbinte în timp ce plouă este o experiență de neuitat.\n\nDrumul de întoarcere urmează malul râului. Pistă de biciclete este bine amenajată, dar atenție la bălți. Luminile calde ale orașului vă vor ghida înapoi.",
-            "en": "Start cautiously from the Main Square, where wet stones can be slippery. The ride to the Cathedral is short but steep. Park your bike in a sheltered spot while you enjoy the dry interior.\n\nAt midday, pedal towards the San Francisco Cloister. The uphill climb is harder in the rain, but the historic walls offer good wind protection. A hot tea break is highly recommended here.\n\nIn the afternoon, cross the bridges. Ponte Vella requires slow speed on rainy days due to its ancient stones. The destination is Outariz Thermal Baths – soaking in hot water while it rains is an unforgettable experience.\n\nThe return trip follows the riverbank. The bike path is well-paved, but watch out for puddles. The warm lights of Ourense will guide you back to the city center."
+            "en": "Start cautiously from the Main Square, where wet stones can be slippery. The ride to the Cathedral is short but steep. Park your bike in a sheltered spot while you enjoy the dry interior.\n\nAt midday, pedal towards the San Francisco Cloister. The uphill climb is harder in the rain, but the historic walls offer good wind protection. A hot tea break is highly recommended here.\n\nIn the afternoon, cross the bridges. Ponte Vella requires slow speed on rainy days due to its ancient stones. The destination is Outariz Thermal Baths – soaking in hot water while it rains is an unforgettable experience.\n\nThe return trip follows the riverbank. The bike path is well-paved, but watch out for puddles. The warm lights of Ourense will guide you back to the city center.",
+            "es": "Comienza con precaución desde la Plaza Mayor, donde las piedras mojadas pueden ser resbaladizas. El trayecto hasta la Catedral es corto pero empinado. Aparca la bici en un lugar resguardado mientras disfrutas del interior seco.\n\nAl mediodía, pedalea hacia el Claustro de San Francisco. La subida es más dura con lluvia, pero los muros históricos ofrecen buena protección contra el viento. Se recomienda una pausa con té caliente.\n\nPor la tarde, cruza los puentes. Ponte Vella exige velocidad reducida en días de lluvia por sus losas antiguas. El destino son las Termas de Outariz: bañarte en agua caliente bajo la lluvia es una experiencia inolvidable.\n\nLa vuelta sigue la ribera. El carril bici está bien asfaltado, pero vigila los charcos. Las luces cálidas de Ourense te guiarán de regreso al centro."
           },
           "stops": [
             {
@@ -943,7 +1014,8 @@
                 "de": "Vorsicht beim Bremsen auf nassem Kopfsteinpflaster.",
                 "hu": "Vigyázzon a fékezéssel a vizes macskaköveken.",
                 "ro": "Atenție la frânare pe pavajul ud.",
-                "en": "Be careful when braking on wet cobblestones."
+                "en": "Be careful when braking on wet cobblestones.",
+                "es": "Ten cuidado al frenar sobre empedrados mojados."
               }
             },
             {
@@ -952,7 +1024,8 @@
                 "de": "Nutzen Sie den überdachten Bereich am Eingang zum Parken.",
                 "hu": "Használja a bejárat melletti fedett részt a parkoláshoz.",
                 "ro": "Folosiți zona acoperită de lângă intrare pentru parcare.",
-                "en": "Use the sheltered area near the entrance for parking."
+                "en": "Use the sheltered area near the entrance for parking.",
+                "es": "Utiliza la zona cubierta junto a la entrada para aparcar."
               }
             },
             {
@@ -961,7 +1034,8 @@
                 "de": "Der Anstieg ist bei Nässe rutschig, treten Sie gleichmäßig.",
                 "hu": "Az emelkedő nedvesen csúszós, tekerjen egyenletesen.",
                 "ro": "Urcarea este alunecoasă pe ploaie, pedalați constant.",
-                "en": "The uphill is slippery when wet; pedal steadily."
+                "en": "The uphill is slippery when wet; pedal steadily.",
+                "es": "La subida es resbaladiza cuando está mojada; pedalea con constancia."
               }
             },
             {
@@ -970,7 +1044,8 @@
                 "de": "Römische Steine sind extrem glatt, wenn sie nass sind.",
                 "hu": "A római kövek rendkívül csúszósak, ha nedvesek.",
                 "ro": "Pietrele romane sunt extrem de alunecoase când sunt ude.",
-                "en": "Roman stones are extremely slick when wet."
+                "en": "Roman stones are extremely slick when wet.",
+                "es": "Las losas romanas son extremadamente resbaladizas cuando están húmedas."
               }
             },
             {
@@ -979,7 +1054,8 @@
                 "de": "Vermeiden Sie die Metallfugen beim Überfahren.",
                 "hu": "Kerülje el a fém illesztéseket áthaladáskor.",
                 "ro": "Evitați îmbinările metalice la traversare.",
-                "en": "Avoid metal joints while riding across."
+                "en": "Avoid metal joints while riding across.",
+                "es": "Evita los remaches metálicos al cruzar en bici."
               }
             },
             {
@@ -988,7 +1064,8 @@
                 "de": "Belohnung für die Regenfahrt: Ein heißes Bad.",
                 "hu": "Jutalom az esős tekerésért: egy forró fürdő.",
                 "ro": "Recompensa pentru tura pe ploaie: o baie fierbinte.",
-                "en": "The ultimate reward for a rainy ride: a hot soak."
+                "en": "The ultimate reward for a rainy ride: a hot soak.",
+                "es": "La recompensa definitiva tras un paseo bajo la lluvia: un baño caliente."
               }
             },
             {
@@ -997,7 +1074,8 @@
                 "de": "Ideal zum Aufwärmen der Hände nach der Fahrt.",
                 "hu": "Ideális a kezek felmelegítéséhez a tekerés után.",
                 "ro": "Ideal pentru încălzirea mâinilor după tură.",
-                "en": "Ideal for warming your hands after the ride."
+                "en": "Ideal for warming your hands after the ride.",
+                "es": "Ideal para calentar las manos tras el recorrido."
               }
             }
           ],
@@ -1029,6 +1107,13 @@
               "Wear a full waterproof rain suit (jacket and trousers).",
               "Stick to the 'Tren de las Termas' path along the river.",
               "Mudguards are highly recommended for the Galician rain."
+            ],
+            "es": [
+              "Incrementa la distancia de frenado sobre superficies de piedra mojada.",
+              "Evita movimientos bruscos de dirección en los puentes metálicos.",
+              "Lleva un traje impermeable completo (chaqueta y pantalones).",
+              "Sigue la senda 'Tren de las Termas' a lo largo del río.",
+              "Los guardabarros son muy recomendables para la lluvia gallega."
             ]
           }
         },
@@ -1037,7 +1122,8 @@
             "de": "Ein kühler Wintermorgen auf dem Fahrrad beginnt mit klarer Sicht. Die Auffahrt zur Kathedrale wärmt die Muskeln schnell auf. In der Altstadt sind die Schatten im Winter lang, wählen Sie sonnige Plätze für Pausen.\n\nMittags radeln wir zum San Francisco Kloster. Die kühle Luft ist erfrischend und die Aussicht auf die schneebedeckten Berge in der Ferne ist im Winter am besten. Ein schneller Stopp für einen heißen Kaffee ist ratsam.\n\nAm Nachmittag führt die Route entlang des Miño. Der Wind am Fluss kann schneidig sein, Handschuhe sind ein Muss. Die Outariz-Thermen bieten die perfekte Gelegenheit, die Glieder nach der Fahrt im 40 Grad warmen Wasser aufzuwärmen.\n\nDa es früh dunkel wird, sollten Sie den Rückweg gegen 17 Uhr antreten. Die beleuchteten Brücken bieten ein spektakuläres Panorama für den Abschluss der Tour.",
             "hu": "A hűvös téli reggel tiszta látási viszonyokkal indul a nyeregben. A katedrálishoz vezető emelkedő gyorsan bemelegíti az izmokat. Az óvárosban ilyenkor hosszúak az árnyékok, pihenőnek válasszon napos helyet.\n\nDélben a San Francisco kolostorhoz tekerünk. A friss levegő üdítő, és a távoli havas hegyek látványa télen a legszebb. Egy gyors forró kávé segít fenntartani a testhőt.\n\nDélután a Miño mentén haladunk. A folyóparti szél metsző lehet, a kesztyű kötelező. Az Outariz termálfürdő tökéletes alkalom, hogy a tekerés után a 40 fokos vízben felengedjenek a végtagok.\n\nMivel korán sötétedik, 17 óra körül érdemes elindulni visszafelé. A kivilágított hidak látványa látványos lezárása a túrának.",
             "ro": "O dimineață răcoroasă de iarnă pe bicicletă începe cu o vizibilitate clară. Urcarea spre catedrală încălzește rapid mușchii. În centrul vechi umbrele sunt lungi iarna, alegeți locuri însorite pentru pauze.\n\nLa prânz pedalăm spre mănăstirea San Francisco. Aerul rece este revigorant, iar vederea spre munții înzăpeziți din depărtare este cea mai bună iarna. O oprire scurtă pentru o cafea fierbinte este recomandată.\n\nDupă-amiaza traseul urmează malul râului Miño. Vântul de pe râu poate fi tăios, mănușile sunt obligatorii. Termele Outariz oferă ocazia perfectă de a vă încălzi extremitățile în apa de 40 de grade.\n\nDeoarece se întunecă devreme, porniți înapoi în jurul orei 17. Podurile iluminate oferă o panoramă spectaculoasă pentru finalul turului.",
-            "en": "A cool winter morning on the bike starts with clear visibility. The uphill climb to the Cathedral warms up your muscles quickly. Shadows are long in the old town, so choose sunny spots for your breaks.\n\nAt midday, ride up to the San Francisco Cloister. The crisp air is refreshing, and the distant snow-capped mountains are best seen during winter. A quick stop for a hot coffee is recommended to keep warm.\n\nIn the afternoon, follow the route along the Miño. The riverside wind can be biting, so gloves are a must. Outariz Thermal Baths offer the perfect opportunity to thaw out your limbs in 40-degree water after the ride.\n\nSince it gets dark early, aim to start your return around 5 PM. The illuminated bridges provide a spectacular panorama to conclude your winter cycling tour."
+            "en": "A cool winter morning on the bike starts with clear visibility. The uphill climb to the Cathedral warms up your muscles quickly. Shadows are long in the old town, so choose sunny spots for your breaks.\n\nAt midday, ride up to the San Francisco Cloister. The crisp air is refreshing, and the distant snow-capped mountains are best seen during winter. A quick stop for a hot coffee is recommended to keep warm.\n\nIn the afternoon, follow the route along the Miño. The riverside wind can be biting, so gloves are a must. Outariz Thermal Baths offer the perfect opportunity to thaw out your limbs in 40-degree water after the ride.\n\nSince it gets dark early, aim to start your return around 5 PM. The illuminated bridges provide a spectacular panorama to conclude your winter cycling tour.",
+            "es": "Una fresca mañana de invierno en bici comienza con buena visibilidad. La subida a la Catedral calienta pronto los músculos. Las sombras son largas en el casco antiguo, así que elige lugares soleados para las paradas.\n\nAl mediodía, sube hasta el Claustro de San Francisco. El aire fresco es vigorizante y las montañas con cumbres nevadas se ven mejor en invierno. Una parada rápida para un café caliente es recomendable para entrar en calor.\n\nPor la tarde, sigue la ruta junto al Miño. El viento ribereño puede ser cortante, así que los guantes son imprescindibles. Las Termas de Outariz ofrecen la oportunidad perfecta para reconfortar las extremidades en agua a 40 °C tras el trayecto.\n\nAl oscurecer pronto, trata de iniciar el regreso alrededor de las 17:00. Los puentes iluminados ofrecen un panorama espectacular para concluir tu ruta ciclista invernal."
           },
           "stops": [
             {
@@ -1046,7 +1132,8 @@
                 "de": "Achten Sie auf morgendlichen Reif auf den Schattenseiten.",
                 "hu": "Figyeljen a reggeli zúzmarára az árnyékos oldalakon.",
                 "ro": "Atenție la chiciura de dimineață în zonele umbrite.",
-                "en": "Watch out for morning frost in shaded areas."
+                "en": "Watch out for morning frost in shaded areas.",
+                "es": "Cuidado con la escarcha matinal en zonas sombreadas."
               }
             },
             {
@@ -1055,7 +1142,8 @@
                 "de": "Innen ist es kühler als man denkt, Jacke anbehalten.",
                 "hu": "Bent hűvösebb van, mint gondolná, tartsa magán a kabátot.",
                 "ro": "În interior este mai frig decât pare, păstrați jacheta.",
-                "en": "It's cooler inside than you'd think; keep your jacket on."
+                "en": "It's cooler inside than you'd think; keep your jacket on.",
+                "es": "Dentro hace más frío de lo que crees; mantén la chaqueta puesta."
               }
             },
             {
@@ -1064,7 +1152,8 @@
                 "de": "Genießen Sie den weiten Blick auf die winterliche Landschaft.",
                 "hu": "Élvezze a téli tájra nyíló széles kilátást.",
                 "ro": "Bucurați-vă de vederea largă asupra peisajului hibernal.",
-                "en": "Enjoy the expansive views of the winter landscape."
+                "en": "Enjoy the expansive views of the winter landscape.",
+                "es": "Disfruta de las amplias vistas del paisaje invernal."
               }
             },
             {
@@ -1073,7 +1162,8 @@
                 "de": "Der Wind pfeift hier im Winter besonders stark.",
                 "hu": "A szél itt télen különösen erősen fúj.",
                 "ro": "Vântul suflă aici deosebit de tare iarna.",
-                "en": "The wind can be particularly strong here in winter."
+                "en": "The wind can be particularly strong here in winter.",
+                "es": "El viento puede soplar con fuerza aquí en invierno."
               }
             },
             {
@@ -1082,7 +1172,8 @@
                 "de": "Stoppen Sie kurz für Fotos vom tiefen Sonnenstand.",
                 "hu": "Álljon meg egy fotóra az alacsony napállásnál.",
                 "ro": "Opriți-vă pentru fotografii cu soarele la amurg.",
-                "en": "Stop for photos during the low winter sun."
+                "en": "Stop for photos during the low winter sun.",
+                "es": "Para fotos, detente con la luz baja del sol invernal."
               }
             },
             {
@@ -1091,7 +1182,8 @@
                 "de": "Das Thermalbad ist im Winter am entspannendsten.",
                 "hu": "A termálfürdő télen a legpihentetőbb.",
                 "ro": "Băile termale sunt cele mai relaxante iarna.",
-                "en": "The thermal baths are most relaxing during winter."
+                "en": "The thermal baths are most relaxing during winter.",
+                "es": "Las termas son más relajantes en invierno."
               }
             },
             {
@@ -1100,7 +1192,8 @@
                 "de": "Kurzer Stopp zum Händeaufwärmen einplanen.",
                 "hu": "Tervezzen be egy rövid megállót kézmelegítésre.",
                 "ro": "Planificați o scurtă oprire pentru a vă încălzi mâinile.",
-                "en": "Plan a short stop to warm your hands."
+                "en": "Plan a short stop to warm your hands.",
+                "es": "Planifica una breve parada para calentar las manos."
               }
             }
           ],
@@ -1132,6 +1225,13 @@
               "Remember to stay hydrated even in cold weather.",
               "The sun disappears behind the hills around 5:30 PM.",
               "Use the thermal baths as your main reward at the end of the day."
+            ],
+            "es": [
+              "Lleva guantes cortavientos y una ligera gorra bajo el casco.",
+              "Revisa las luces de la bici antes de empezar el recorrido.",
+              "Recuerda hidratarte incluso con frío.",
+              "El sol desaparece tras las colinas alrededor de las 17:30.",
+              "Usa las termas como recompensa principal al final del día."
             ]
           }
         }
@@ -1150,7 +1250,8 @@
             "de": "Parkplatz Zentrum",
             "hu": "Parkoló a központban",
             "ro": "Parcare centrală",
-            "en": "Downtown Parking"
+            "en": "Downtown Parking",
+            "es": "Aparcamiento céntrico"
           },
           "coords": [
             -7.863,
@@ -1166,7 +1267,8 @@
             "de": "Parken Sie hier für den Vormittag. Die Altstadt ist nur wenige Gehminuten entfernt.",
             "hu": "Parkoljon le itt a délelőttre. Az óváros csak néhány perc séta.",
             "ro": "Parcați aici pentru dimineață. Centrul vechi este la câteva minute de mers pe jos.",
-            "en": "Park here for the morning. The old town is a few minutes' walk away."
+            "en": "Park here for the morning. The old town is a few minutes' walk away.",
+            "es": "Aparca aquí por la mañana. El casco antiguo está a pocos minutos a pie."
           }
         },
         {
@@ -1174,7 +1276,8 @@
             "de": "Plaza Mayor & Altstadt",
             "hu": "Plaza Mayor és Óváros",
             "ro": "Plaza Mayor & Centrul Vechi",
-            "en": "Plaza Mayor & Old Town"
+            "en": "Plaza Mayor & Old Town",
+            "es": "Plaza Mayor y Casco Antiguo"
           },
           "coords": [
             -7.864,
@@ -1190,7 +1293,8 @@
             "de": "Erkunden Sie den Platz und die umliegenden Gassen zu Fuß.",
             "hu": "Fedezze fel a teret és a környező sikátorokat gyalog.",
             "ro": "Explorați piața și străduțele înconjurătoare pe jos.",
-            "en": "Explore the square and the surrounding alleys on foot."
+            "en": "Explore the square and the surrounding alleys on foot.",
+            "es": "Explora la plaza y los callejones circundantes a pie."
           }
         },
         {
@@ -1198,7 +1302,8 @@
             "de": "Kathedrale und Santa Eufemia",
             "hu": "Katedrális és Santa Eufemia",
             "ro": "Catedrala și Santa Eufemia",
-            "en": "Cathedral and Santa Eufemia"
+            "en": "Cathedral and Santa Eufemia",
+            "es": "Catedral y Santa Eufemia"
           },
           "coords": [
             -7.8655,
@@ -1214,7 +1319,8 @@
             "de": "Besuchen Sie beide prächtigen Kirchen, die nur wenige Schritte voneinander entfernt sind.",
             "hu": "Látogassa meg mindkét csodálatos templomot, amelyek csak pár lépésre vannak egymástól.",
             "ro": "Vizitați ambele biserici magnifice, aflate la doar câțiva pași una de cealaltă.",
-            "en": "Visit both magnificent churches, which are just a few steps from each other."
+            "en": "Visit both magnificent churches, which are just a few steps from each other.",
+            "es": "Visita ambas iglesias magníficas, que están a pocos pasos una de la otra."
           }
         },
         {
@@ -1222,7 +1328,8 @@
             "de": "Fahrt zum Flussufer",
             "hu": "Utazás a folyóparthoz",
             "ro": "Condus la malul râului",
-            "en": "Drive to the Riverbank"
+            "en": "Drive to the Riverbank",
+            "es": "Conduce hasta la Ribera"
           },
           "coords": [
             -7.871,
@@ -1238,7 +1345,8 @@
             "de": "Finden Sie einen Parkplatz in der Nähe der Ponte Vella, um den zweiten Teil des Tages zu beginnen.",
             "hu": "Keressen parkolóhelyet a Ponte Vella közelében a nap második részének megkezdéséhez.",
             "ro": "Găsiți un loc de parcare lângă Ponte Vella pentru a începe a doua parte a zilei.",
-            "en": "Find a parking spot near Ponte Vella to start the second part of the day."
+            "en": "Find a parking spot near Ponte Vella to start the second part of the day.",
+            "es": "Busca aparcamiento cerca de Ponte Vella para empezar la segunda parte del día."
           }
         },
         {
@@ -1246,7 +1354,8 @@
             "de": "Ponte Vella & Millennium-Brücke",
             "hu": "Ponte Vella és Millennium híd",
             "ro": "Ponte Vella & Podul Millennium",
-            "en": "Ponte Vella & Millennium Bridge"
+            "en": "Ponte Vella & Millennium Bridge",
+            "es": "Ponte Vella y Puente del Milenio"
           },
           "coords": [
             -7.865,
@@ -1262,7 +1371,8 @@
             "de": "Spazieren Sie von der alten römischen Brücke zur modernen Millennium-Brücke.",
             "hu": "Sétáljon át a régi római hídtól a modern Millennium hídig.",
             "ro": "Plimbați-vă de la vechiul pod roman la modernul Pod Millennium.",
-            "en": "Stroll from the old Roman bridge to the modern Millennium Bridge."
+            "en": "Stroll from the old Roman bridge to the modern Millennium Bridge.",
+            "es": "Pasea desde el antiguo puente romano hasta el moderno Puente del Milenio."
           }
         },
         {
@@ -1270,7 +1380,8 @@
             "de": "Thermalbad Outariz",
             "hu": "Outariz Termálfürdő",
             "ro": "Băile termale Outariz",
-            "en": "Outariz Thermal Baths"
+            "en": "Outariz Thermal Baths",
+            "es": "Termas de Outariz"
           },
           "coords": [
             -7.915,
@@ -1286,7 +1397,8 @@
             "de": "Fahren Sie aus der Stadt hinaus, um den Nachmittag in den entspannenden Thermalbädern zu verbringen.",
             "hu": "Hajtson ki a városból, hogy a délutánt a pihentető termálfürdőben töltse.",
             "ro": "Conduceți în afara orașului pentru a petrece după-amiaza la băile termale relaxante.",
-            "en": "Drive out of the city to spend the afternoon at the relaxing thermal baths."
+            "en": "Drive out of the city to spend the afternoon at the relaxing thermal baths.",
+            "es": "Sal de la ciudad en coche para pasar la tarde en las relajantes termas."
           }
         }
       ],
@@ -1294,7 +1406,8 @@
         "de": "Mit dem Auto haben Sie die Freiheit, das Beste von Ourense zu kombinieren. Beginnen Sie mit einem Spaziergang durch die historische Altstadt, nachdem Sie Ihr Auto in der Nähe geparkt haben. Entdecken Sie die Plaza Mayor und die beeindruckenden Kirchen. Am Mittag fahren Sie zum Fluss Miño, um die berühmten Brücken zu Fuß zu erkunden. Der Höhepunkt des Tages ist die Fahrt zum Thermalbad Outariz, einem perfekten Ort, um am Nachmittag zu entspannen. Dies ist eine perfekte Mischung aus Kultur und Wellness.",
         "hu": "Az autó szabadságot ad, hogy Ourense legjobbjait kombinálja. Kezdje egy sétával a történelmi óvárosban, miután leparkolt a közelben. Fedezze fel a Plaza Mayort és a lenyűgöző templomokat. Délben vezessen a Miño folyóhoz, hogy gyalog fedezze fel a híres hidakat. A nap fénypontja az utazás az Outariz termálfürdőbe, amely tökéletes hely a délutáni pihenéshez. Ez a kultúra és a wellness tökéletes keveréke.",
         "ro": "Cu mașina, aveți libertatea de a combina tot ce este mai bun în Ourense. Începeți cu o plimbare prin centrul vechi istoric după ce ați parcat în apropiere. Descoperiți Plaza Mayor și bisericile impresionante. La prânz, conduceți la râul Miño pentru a explora faimoasele poduri pe jos. Punctul culminant al zilei este drumul către băile termale Outariz, un loc perfect pentru a vă relaxa după-amiaza. Acesta este un amestec perfect de cultură și wellness.",
-        "en": "With a car, you have the freedom to combine the best of Ourense. Start with a walk through the historic old town after parking nearby. Discover Plaza Mayor and the impressive churches. At midday, drive to the Miño River to explore the famous bridges on foot. The highlight of the day is the drive to the Outariz thermal baths, a perfect place to relax in the afternoon. This is a perfect blend of culture and wellness."
+        "en": "With a car, you have the freedom to combine the best of Ourense. Start with a walk through the historic old town after parking nearby. Discover Plaza Mayor and the impressive churches. At midday, drive to the Miño River to explore the famous bridges on foot. The highlight of the day is the drive to the Outariz thermal baths, a perfect place to relax in the afternoon. This is a perfect blend of culture and wellness.",
+        "es": "Con coche tienes libertad para combinar lo mejor de Ourense. Empieza con un paseo por el casco histórico después de aparcar cerca. Descubre la Plaza Mayor y las iglesias impresionantes. A mediodía, conduce hasta el río Miño y explora los famosos puentes a pie. El punto culminante es el trayecto hasta las termas de Outariz, un lugar perfecto para relajarse por la tarde. Es una mezcla ideal de cultura y bienestar."
       },
       "gastro_picks": {
         "de": [
@@ -1494,6 +1607,13 @@
           "Pay attention to speed limits, especially near schools and in residential areas.",
           "A GPS is essential for navigating the city and its surroundings.",
           "Do not leave valuables visible in the car."
+        ],
+        "es": [
+          "Aparcar en el centro puede ser difícil; utiliza parkings públicos.",
+          "Planifica la ruta con antelación para evitar calles de sentido único en el casco antiguo.",
+          "Presta atención a los límites de velocidad, especialmente cerca de colegios y en zonas residenciales.",
+          "Un GPS es esencial para moverse por la ciudad y sus alrededores.",
+          "No dejes objetos de valor visibles en el coche."
         ]
       },
       "variants": {
@@ -1502,7 +1622,8 @@
             "de": "Ein regnerischer Tag in Ourense lässt sich bequem mit dem Auto meistern. Parken Sie in der Tiefgarage nahe dem Stadtzentrum, um trocken zur Plaza Mayor zu gelangen. Die kurzen Wege zwischen den Sehenswürdigkeiten der Altstadt sind auch mit Schirm gut machbar.\n\nMittags bietet die Kathedrale einen langen, trockenen Aufenthalt. Danach fahren wir am Flussufer entlang, wo man aus dem trockenen Auto den regenverhangenen Miño beobachten kann. Die Brücken wirken im Dunst besonders dramatisch.\n\nAm Nachmittag ist die Fahrt zu den Outariz-Thermen ideal. Parken Sie auf dem großen Parkplatz und nutzen Sie den kurzen Fußweg. Das Baden im Freien, während der Regen auf die Wasseroberfläche prasselt, ist sehr beruhigend.\n\nDen Abend verbringen wir in einem der Restaurants mit eigener Garage oder nahem Parkplatz. So bleibt man trocken, während man die galicische Küche genießt.",
             "hu": "Egy esős nap Ourense-ben kényelmesen megoldható autóval. Parkoljon a belvároshoz közeli mélygarázsban, így szárazon juthat el a Plaza Mayor-hoz. Az óváros látnivalói közötti rövid távok esernyővel is könnyen teljesíthetők.\n\nDélben a katedrális nyújt hosszú, fedett programot. Ezután a folyóparton autózunk, ahol a száraz kocsiból figyelhetjük az esős Miño-t. A hidak a ködben különösen drámai látványt nyújtanak.\n\nDélután az Outariz termálfürdő felé vesszük az irányt. Parkoljon a nagy parkolóban, ahonnan csak rövid séta a bejárat. A szabadtéri fürdőzés, miközben az eső a vízfelszínre hullik, rendkívül megnyugtató.\n\nAz estét egy saját parkolóval rendelkező étteremben töltjük. Így szárazon maradhatunk, miközben a galíciai konyhát élvezzük.",
             "ro": "O zi ploioasă în Ourense poate fi gestionată confortabil cu mașina. Parcați în garajul subteran de lângă centru pentru a ajunge uscat la Plaza Mayor. Distanțele scurte între obiectivele din zona veche sunt ușor de parcurs cu umbrela.\n\nLa prânz, Catedrala oferă un popas lung și uscat. Ulterior, conducem pe malul râului, unde putem observa din mașină râul Miño acoperit de ploaie. Podurile par deosebit de dramatice în ceață.\n\nDupă-amiaza, drumul spre termele Outariz este ideal. Parcați în parcarea mare și parcurgeți distanța scurtă pe jos. Baia în aer liber, în timp ce ploaia cade pe suprafața apei, este foarte relaxantă.\n\nSeara o petrecem într-un restaurant cu parcare proprie sau apropiată. Astfel rămâneți uscat în timp ce savurați bucătăria galiciană.",
-            "en": "A rainy day in Ourense is best handled by car. Park in an underground garage near the center to reach Plaza Mayor without getting soaked. The short distances between old town sights are manageable even with an umbrella.\n\nAt noon, the Cathedral provides a long, dry sanctuary. Afterward, drive along the riverbank, where you can watch the rain-swept Miño from the comfort of your dry car. The bridges look particularly dramatic in the mist.\n\nIn the afternoon, the drive to Outariz Thermal Baths is ideal. Park in the large lot and take the short walk to the entrance. Soaking outdoors while the rain patters on the water's surface is very soothing.\n\nSpend the evening at a restaurant with its own parking or one nearby. This way you stay dry while enjoying the best of Galician cuisine."
+            "en": "A rainy day in Ourense is best handled by car. Park in an underground garage near the center to reach Plaza Mayor without getting soaked. The short distances between old town sights are manageable even with an umbrella.\n\nAt noon, the Cathedral provides a long, dry sanctuary. Afterward, drive along the riverbank, where you can watch the rain-swept Miño from the comfort of your dry car. The bridges look particularly dramatic in the mist.\n\nIn the afternoon, the drive to Outariz Thermal Baths is ideal. Park in the large lot and take the short walk to the entrance. Soaking outdoors while the rain patters on the water's surface is very soothing.\n\nSpend the evening at a restaurant with its own parking or one nearby. This way you stay dry while enjoying the best of Galician cuisine.",
+            "es": "Un día lluvioso en Ourense se disfruta mejor en coche. Aparca en un garaje subterráneo cerca del centro para llegar a la Plaza Mayor sin mojarte. Las distancias cortas entre los monumentos del casco viejo son manejables aun con paraguas.\n\nAl mediodía, la catedral ofrece un refugio seco y amplio. Después, conduce por la ribera para contemplar el Miño azotado por la lluvia desde la comodidad del coche. Los puentes adquieren un aspecto especialmente dramático entre la niebla.\n\nPor la tarde, el trayecto hasta las termas de Outariz es ideal. Aparca en el amplio aparcamiento y camina poco hasta la entrada. Sumergirse al aire libre mientras la lluvia golpea la superficie del agua resulta muy relajante.\n\nPasa la noche en un restaurante con aparcamiento propio o cercano. Así te mantendrás seco mientras disfrutas de lo mejor de la cocina gallega."
           },
           "stops": [
             {
@@ -1511,7 +1632,8 @@
                 "de": "Nutzen Sie Tiefgaragen, um den Regen beim Aussteigen zu vermeiden.",
                 "hu": "Használja a mélygarázsokat, hogy kiszálláskor elkerülje az esőt.",
                 "ro": "Folosiți parcările subterane pentru a evita ploaia la coborâre.",
-                "en": "Use underground parking to avoid the rain when getting out."
+                "en": "Use underground parking to avoid the rain when getting out.",
+                "es": "Utiliza parkings subterráneos para evitar la lluvia al bajar del coche."
               }
             },
             {
@@ -1520,7 +1642,8 @@
                 "de": "Kurzer Fußweg vom Parkhaus, Schirm bereit halten.",
                 "hu": "Rövid séta a parkolóháztól, készítse elő az esernyőt.",
                 "ro": "Drum scurt pe jos din parcare, țineți umbrela la îndemână.",
-                "en": "Short walk from the parking garage; keep your umbrella ready."
+                "en": "Short walk from the parking garage; keep your umbrella ready.",
+                "es": "Corta caminata desde el aparcamiento; lleva el paraguas a mano."
               }
             },
             {
@@ -1529,7 +1652,8 @@
                 "de": "Ein Besuch der Innenräume füllt die regenreichsten Stunden.",
                 "hu": "A belső terek látogatása kitölti a legesősebb órákat.",
                 "ro": "Vizita în interior ocupă perfect orele cu ploaie abundentă.",
-                "en": "Visiting the interiors is a great way to spend the rainiest hours."
+                "en": "Visiting the interiors is a great way to spend the rainiest hours.",
+                "es": "Visitar los interiores es una buena forma de pasar las horas más lluviosas."
               }
             },
             {
@@ -1538,7 +1662,8 @@
                 "de": "Genießen Sie die Aussicht auf die Brücken aus dem trockenen Auto.",
                 "hu": "Élvezze a kilátást a hidakra a száraz autóból.",
                 "ro": "Bucurați-vă de vederea spre poduri din mașina uscată.",
-                "en": "Enjoy the views of the bridges from the comfort of your car."
+                "en": "Enjoy the views of the bridges from the comfort of your car.",
+                "es": "Disfruta de las vistas de los puentes desde la comodidad del coche."
               }
             },
             {
@@ -1547,7 +1672,8 @@
                 "de": "Parken Sie nah an der Millennium-Brücke für ein schnelles Foto.",
                 "hu": "Parkoljon közel a Millennium-hídhoz egy gyors fotóért.",
                 "ro": "Parcați aproape de podul Millennium pentru o poză rapidă.",
-                "en": "Park near the Millennium Bridge for a quick photo op."
+                "en": "Park near the Millennium Bridge for a quick photo op.",
+                "es": "Aparca cerca del Puente del Milenio para una rápida foto."
               }
             },
             {
@@ -1556,7 +1682,8 @@
                 "de": "Großer Parkplatz vorhanden, kurzer Weg zum Wasser.",
                 "hu": "Nagy parkoló áll rendelkezésre, rövid út a vízig.",
                 "ro": "Parcare mare disponibilă, drum scurt până la apă.",
-                "en": "Large parking lot available; it's a short walk to the baths."
+                "en": "Large parking lot available; it's a short walk to the baths.",
+                "es": "Hay un amplio aparcamiento; está a poca distancia de las termas."
               }
             }
           ],
@@ -1588,6 +1715,13 @@
               "Access roads to the thermal baths can gather water during heavy rain.",
               "Use the drive along the riverbank as a scenic tour.",
               "Keep a change of clothes in the trunk just in case."
+            ],
+            "es": [
+              "Elige parking subterráneo en vez de en la calle para mantenerte seco.",
+              "Cuidado con el empañamiento de las lunas por la alta humedad.",
+              "Los accesos a las termas pueden acumular agua en caso de fuertes lluvias.",
+              "Aprovecha el paseo en coche por la ribera como ruta panorámica.",
+              "Lleva ropa de recambio en el maletero por si acaso."
             ]
           }
         },
@@ -1596,7 +1730,8 @@
             "de": "Ein Wintertag in Ourense mit dem Auto bietet maximalen Komfort. Beginnen Sie mit einer Fahrt zum Stadtzentrum und nutzen Sie die beheizten Parkhäuser. Die kühle Luft in der Altstadt ist nach der Fahrt in der Wärme des Autos sehr belebend.\n\nMittags erkunden wir die Kathedrale. Die dicken Mauern speichern die Kälte, daher ist die Rückkehr zum geheizten Auto eine Wohltat. Die winterliche Fahrt entlang des Miño zeigt den Fluss von seiner wilden Seite.\n\nAm Nachmittag fahren wir zu den Outariz-Thermen. In den Wintermonaten ist das heiße Wasser im Freien besonders wohltuend. Der Kontrast zwischen der frostigen Luft und dem 40 Grad warmen Wasser ist das Highlight des Tages.\n\nDa die Dunkelheit früh einsetzt, genießen wir die beleuchtete Skyline der Stadt aus dem Auto heraus, während wir zu einem gemütlichen Abendessen in der Innenstadt fahren.",
             "hu": "Egy téli nap Ourense-ben autóval maximális kényelmet nyújt. Kezdje a belvárosi autózással, és használja a fűtött parkolóházakat. Az óváros hűvös levegője frissítő lesz a meleg autó után.\n\nDélben a katedrálist fedezzük fel. A vastag falak tartják a hideget, így a fűtött autóba való visszatérés igazi felüdülés. A Miño menti téli autózás megmutatja a folyó vadabb arcát.\n\nDélután az Outariz termálfürdőhöz megyünk. A téli hónapokban a szabadtéri forró víz különösen jólesik. A fagyos levegő és a 40 fokos víz közötti kontraszt a nap fénypontja.\n\nMivel korán sötétedik, az autó ablakán keresztül csodáljuk meg a város kivilágított sziluettjét, miközben egy hangulatos belvárosi vacsorára igyekszünk.",
             "ro": "O zi de iarnă în Ourense cu mașina oferă confort maxim. Începeți cu un drum spre centrul orașului și folosiți parcările încălzite. Aerul rece din zona veche este revigorant după căldura din mașină.\n\nLa prânz explorăm Catedrala. Zidurile groase păstrează frigul, așa că revenirea în mașina încălzită este o binecuvântare. Drumul de iarnă pe malul râului Miño arată fața mai sălbatică a apei.\n\nDupă-amiaza conducem spre termele Outariz. În lunile de iarnă, apa fierbinte în aer liber este deosebit de plăcută. Contrastul dintre aerul geros și apa de 40 de grade este punctul culminant al zilei.\n\nDeoarece se întunecă devreme, ne bucurăm de panorama luminată a orașului din mașină, în timp ce ne îndreptăm spre o cină caldă în centru.",
-            "en": "A winter day in Ourense by car offers maximum comfort. Start with a drive to the city center and use the heated parking garages. The cool air of the old town is invigorating after the warmth of the car.\n\nAt midday, explore the Cathedral. The thick walls trap the cold, so returning to your heated car will be a treat. The winter drive along the Miño shows the river at its wildest.\n\nIn the afternoon, head to the Outariz Thermal Baths. During the winter months, the outdoor hot water is especially enjoyable. The contrast between the frosty air and the 40-degree water is the highlight of the day.\n\nSince darkness falls early, enjoy the illuminated skyline of the city from your car as you drive to a cozy dinner in the city center."
+            "en": "A winter day in Ourense by car offers maximum comfort. Start with a drive to the city center and use the heated parking garages. The cool air of the old town is invigorating after the warmth of the car.\n\nAt midday, explore the Cathedral. The thick walls trap the cold, so returning to your heated car will be a treat. The winter drive along the Miño shows the river at its wildest.\n\nIn the afternoon, head to the Outariz Thermal Baths. During the winter months, the outdoor hot water is especially enjoyable. The contrast between the frosty air and the 40-degree water is the highlight of the day.\n\nSince darkness falls early, enjoy the illuminated skyline of the city from your car as you drive to a cozy dinner in the city center.",
+            "es": "Un día de invierno en Ourense en coche ofrece el máximo confort. Empieza conduciendo al centro y usa los parkings con calefacción. El aire frío del casco antiguo es vigorizante tras el calor del coche.\n\nAl mediodía, visita la catedral; sus gruesos muros retienen el frío, así que volver al coche calentito será un placer. El paseo invernal por la orilla del Miño muestra el río en su estado más bravo.\n\nPor la tarde, dirígete a las termas de Outariz. En invierno, el agua caliente exterior es especialmente placentera. El contraste entre el aire helado y el agua a 40 grados es el punto culminante del día.\n\nComo anochece pronto, disfruta del skyline iluminado desde el coche mientras vas a una cena acogedora en el centro."
           },
           "stops": [
             {
@@ -1605,7 +1740,8 @@
                 "de": "Wählen Sie ein Parkhaus mit direktem Zugang zur Geschäftsstraße.",
                 "hu": "Válasszon közvetlen kijárattal rendelkező parkolóházat a bevásárlóutcához.",
                 "ro": "Alegeți o parcare cu acces direct spre zona comercială.",
-                "en": "Choose a parking garage with direct access to the main streets."
+                "en": "Choose a parking garage with direct access to the main streets.",
+                "es": "Elige un parking con acceso directo a las calles principales."
               }
             },
             {
@@ -1614,7 +1750,8 @@
                 "de": "Die Cafés hier sind im Winter gut beheizt.",
                 "hu": "Az itteni kávézók télen jól fűtöttek.",
                 "ro": "Cafenelele de aici sunt bine încălzite iarna.",
-                "en": "The cafes here are well-heated during the winter."
+                "en": "The cafes here are well-heated during the winter.",
+                "es": "Las cafeterías aquí están bien calentadas en invierno."
               }
             },
             {
@@ -1623,7 +1760,8 @@
                 "de": "Nutzen Sie die Sitzheizung nach dem Besuch der kalten Kathedrale.",
                 "hu": "Használja az ülésfűtést a hideg katedrális meglátogatása után.",
                 "ro": "Folosiți încălzirea în scaune după vizitarea catedralei reci.",
-                "en": "Use your seat heaters after visiting the chilly cathedral."
+                "en": "Use your seat heaters after visiting the chilly cathedral.",
+                "es": "Usa los asientos calefactables después de visitar la fría catedral."
               }
             },
             {
@@ -1632,7 +1770,8 @@
                 "de": "Achten Sie auf Reifglätte auf den Brückenzufahrten.",
                 "hu": "Vigyázzon a jegesedésre a hidak feljáróinál.",
                 "ro": "Atenție la polei pe căile de acces spre poduri.",
-                "en": "Watch out for icy patches on the bridge ramps."
+                "en": "Watch out for icy patches on the bridge ramps.",
+                "es": "Cuidado con placas de hielo en las rampas de los puentes."
               }
             },
             {
@@ -1641,7 +1780,8 @@
                 "de": "Die Beleuchtung der Brücken startet im Winter schon gegen 17:30.",
                 "hu": "A hidak díszkivilágítása télen már 17:30 körül elindul.",
                 "ro": "Iluminatul podurilor începe iarna deja în jurul orei 17:30.",
-                "en": "The bridge lights turn on as early as 5:30 PM in winter."
+                "en": "The bridge lights turn on as early as 5:30 PM in winter.",
+                "es": "Las luces del puente se encienden ya a las 17:30 en invierno."
               }
             },
             {
@@ -1650,7 +1790,8 @@
                 "de": "Der Parkplatz ist im Winter weniger belegt.",
                 "hu": "A parkoló télen kevésbé zsúfolt.",
                 "ro": "Parcarea este mai puțin ocupată iarna.",
-                "en": "The parking lot is usually less crowded in winter."
+                "en": "The parking lot is usually less crowded in winter.",
+                "es": "El aparcamiento suele estar menos concurrido en invierno."
               }
             }
           ],
@@ -1682,6 +1823,13 @@
               "The car's heater provides a nice break between outdoor stops.",
               "Winter sunsets over the Miño are often exceptionally clear.",
               "Pack warm robes for the short walk from the baths back to the car."
+            ],
+            "es": [
+              "Revisa el parabrisas por si hay escarcha a primera hora.",
+              "Evita los empinados callejones del casco antiguo si hay riesgo de hielo.",
+              "La calefacción del coche ofrece un buen descanso entre paradas al aire libre.",
+              "Los atardeceres invernales sobre el Miño suelen ser excepcionalmente nítidos.",
+              "Lleva albornoces cálidos para la corta caminata desde las termas hasta el coche."
             ]
           }
         }
@@ -1700,7 +1848,8 @@
             "de": "Ankunft an der Haltestelle Parque de San Lázaro",
             "hu": "Érkezés a Parque de San Lázaro megállóhoz",
             "ro": "Sosire la stația Parque de San Lázaro",
-            "en": "Arrival at Parque de San Lázaro stop"
+            "en": "Arrival at Parque de San Lázaro stop",
+            "es": "Llegada en la parada Parque de San Lázaro"
           },
           "coords": [
             -7.863,
@@ -1716,7 +1865,8 @@
             "de": "Ein zentraler Knotenpunkt, von dem aus Sie die Erkundung beginnen können.",
             "hu": "Központi csomópont, ahonnan elkezdheti a felfedezést.",
             "ro": "Un nod central de unde puteți începe explorarea.",
-            "en": "A central hub from which to start your exploration."
+            "en": "A central hub from which to start your exploration.",
+            "es": "Un nudo central desde el que empezar tu exploración."
           }
         },
         {
@@ -1724,7 +1874,8 @@
             "de": "Plaza Mayor und Kathedrale",
             "hu": "Plaza Mayor és Katedrális",
             "ro": "Plaza Mayor și Catedrala",
-            "en": "Plaza Mayor and Cathedral"
+            "en": "Plaza Mayor and Cathedral",
+            "es": "Plaza Mayor y Catedral"
           },
           "coords": [
             -7.865,
@@ -1740,7 +1891,8 @@
             "de": "Dieser erste Cluster deckt das Herz der Altstadt ab. Nehmen Sie sich Zeit.",
             "hu": "Ez az első klaszter az óváros szívét fedi le. Szánjon rá időt.",
             "ro": "Acest prim cluster acoperă inima orașului vechi. Luați-vă timp.",
-            "en": "This first cluster covers the heart of the old town. Take your time."
+            "en": "This first cluster covers the heart of the old town. Take your time.",
+            "es": "Este primer conjunto abarca el corazón del casco antiguo. Tómate tu tiempo."
           }
         },
         {
@@ -1748,7 +1900,8 @@
             "de": "As Burgas",
             "hu": "As Burgas hőforrások",
             "ro": "Izvoarele termale As Burgas",
-            "en": "As Burgas Hot Springs"
+            "en": "As Burgas Hot Springs",
+            "es": "Las Burgas"
           },
           "coords": [
             -7.868,
@@ -1764,7 +1917,8 @@
             "de": "Nur ein kurzer Spaziergang von der Kathedrale entfernt, um die Thermalquellen zu sehen.",
             "hu": "Csak egy rövid séta a katedrálistól a hőforrások megtekintéséhez.",
             "ro": "La doar o scurtă plimbare de catedrală pentru a vedea izvoarele termale.",
-            "en": "Just a short walk from the cathedral to see the thermal springs."
+            "en": "Just a short walk from the cathedral to see the thermal springs.",
+            "es": "A poca distancia a pie de la catedral para ver los manantiales termales."
           }
         },
         {
@@ -1772,7 +1926,8 @@
             "de": "Busfahrt zur Ponte Vella",
             "hu": "Buszozás a Ponte Vellához",
             "ro": "Călătorie cu autobuzul la Ponte Vella",
-            "en": "Bus ride to Ponte Vella"
+            "en": "Bus ride to Ponte Vella",
+            "es": "Trayecto en autobús hasta Ponte Vella"
           },
           "coords": [
             -7.871,
@@ -1788,7 +1943,8 @@
             "de": "Nehmen Sie einen lokalen Bus, um den Fluss zu überqueren und das nächste Cluster zu erreichen.",
             "hu": "Menjen helyi busszal a folyón át a következő klaszter eléréséhez.",
             "ro": "Luați un autobuz local pentru a traversa râul și a ajunge la următorul cluster.",
-            "en": "Take a local bus to cross the river and reach the next cluster."
+            "en": "Take a local bus to cross the river and reach the next cluster.",
+            "es": "Toma un autobús local para cruzar el río y llegar al siguiente conjunto."
           }
         },
         {
@@ -1796,7 +1952,8 @@
             "de": "Spaziergang über die Brücken",
             "hu": "Séta a hidakon",
             "ro": "Plimbare pe poduri",
-            "en": "Walk across the bridges"
+            "en": "Walk across the bridges",
+            "es": "Cruza los puentes a pie"
           },
           "coords": [
             -7.865,
@@ -1812,7 +1969,8 @@
             "de": "Genießen Sie die Aussicht vom alten und neuen Wahrzeichen Ourenses.",
             "hu": "Élvezze a kilátást Ourense régi és új jelképeiről.",
             "ro": "Bucurați-vă de priveliștile de pe vechile și noile repere ale Ourensei.",
-            "en": "Enjoy the views from Ourense's old and new landmarks."
+            "en": "Enjoy the views from Ourense's old and new landmarks.",
+            "es": "Disfruta de las vistas desde los hitos antiguos y nuevos de Ourense."
           }
         },
         {
@@ -1820,7 +1978,8 @@
             "de": "Thermal-Zug nach Outariz",
             "hu": "Termálvonat Outarizba",
             "ro": "Trenul termal spre Outariz",
-            "en": "Thermal Train to Outariz"
+            "en": "Thermal Train to Outariz",
+            "es": "Tren Termal hasta Outariz"
           },
           "coords": [
             -7.915,
@@ -1836,7 +1995,8 @@
             "de": "Nehmen Sie den speziellen Touristenzug von der Plaza Mayor für eine malerische Fahrt zu den Bädern.",
             "hu": "Menjen a különleges turista vonattal a Plaza Mayortól a festői útra a fürdőkhöz.",
             "ro": "Luați trenul turistic special din Plaza Mayor pentru o călătorie pitorească la băi.",
-            "en": "Take the special tourist train from Plaza Mayor for a scenic ride to the baths."
+            "en": "Take the special tourist train from Plaza Mayor for a scenic ride to the baths.",
+            "es": "Toma el tren turístico desde la Plaza Mayor para un trayecto panorámico hasta las termas."
           }
         }
       ],
@@ -1844,7 +2004,8 @@
         "de": "Entdecken Sie Ourense bequem mit öffentlichen Verkehrsmitteln. Ihr Tag beginnt mit einem Spaziergang durch den ersten Cluster der Altstadt, der die Plaza Mayor und die Kathedrale umfasst. Nach dem Besuch der As Burgas-Quellen bringt Sie ein kurzer Bus Sie zum Flussufer. Hier erkunden Sie die Brücken zu Fuß. Den Nachmittag verbringen Sie in den Thermalbädern von Outariz, die Sie mit einem speziellen Touristenzug erreichen. Es ist eine stressfreie Möglichkeit, die wichtigsten Sehenswürdigkeiten der Stadt zu sehen.",
         "hu": "Fedezze fel Ourense-t kényelmesen a tömegközlekedéssel. A nap egy sétával kezdődik az óváros első klaszterében, amely magában foglalja a Plaza Mayort és a katedrálist. Az As Burgas-források meglátogatása után egy rövid buszút elviszi a folyóparthoz. Itt gyalogosan fedezi fel a hidakat. A délutánt az Outariz termálfürdőben tölti, ahová egy különleges turista vonattal jut el. Ez egy stresszmentes módja a város főbb látnivalóinak megtekintésének.",
         "ro": "Descoperiți Ourense confortabil cu transportul public. Ziua dvs. începe cu o plimbare prin primul cluster al orașului vechi, incluzând Plaza Mayor și Catedrala. După vizitarea izvoarelor As Burgas, o scurtă călătorie cu autobuzul vă duce la malul râului. Aici, explorați podurile pe jos. După-amiaza o veți petrece la băile termale Outariz, accesibile cu un tren turistic special. Este o modalitate fără stres de a vedea principalele atracții ale orașului.",
-        "en": "Discover Ourense comfortably using public transport. Your day starts with a walk through the first cluster of the old town, including Plaza Mayor and the Cathedral. After visiting the As Burgas springs, a short bus ride takes you to the riverbank. Here, you'll explore the bridges on foot. The afternoon is spent at the Outariz thermal baths, reached by a special tourist train. It's a stress-free way to see the city's main attractions."
+        "en": "Discover Ourense comfortably using public transport. Your day starts with a walk through the first cluster of the old town, including Plaza Mayor and the Cathedral. After visiting the As Burgas springs, a short bus ride takes you to the riverbank. Here, you'll explore the bridges on foot. The afternoon is spent at the Outariz thermal baths, reached by a special tourist train. It's a stress-free way to see the city's main attractions.",
+        "es": "Descubre Ourense cómodamente usando el transporte público. Tu día comienza con un paseo por el primer conjunto del casco antiguo, incluida la Plaza Mayor y la Catedral. Tras visitar las Burgas, un corto trayecto en autobús te lleva a la ribera. Allí explorarás los puentes a pie. La tarde se pasa en las termas de Outariz, a las que se llega en un tren turístico especial. Es una forma sin estrés de ver los principales atractivos de la ciudad."
       },
       "gastro_picks": {
         "de": [
@@ -2044,6 +2205,13 @@
           "The thermal train has its own schedule and stop, check in advance.",
           "Always validate your ticket when you get on.",
           "Plan for extra time for potential waits at the stops."
+        ],
+        "es": [
+          "Compra una tarjeta de autobús recargable para tarifas más baratas.",
+          "Descarga la app de autobuses local para ver horarios y rutas en tiempo real.",
+          "El tren termal tiene su propio horario y parada; comprueba antes.",
+          "Valida siempre tu billete al subir.",
+          "Prevé tiempo extra por posibles esperas en las paradas."
         ]
       },
       "variants": {
@@ -2052,7 +2220,8 @@
             "de": "Mit dem Bus durch Ourense zu fahren, ist bei Regen die klügste Wahl. Der Stopp am Parque de San Lázaro bringt Sie direkt ins Herz der Stadt. Von dort sind es nur wenige Schritte unter die Arkaden der Plaza Mayor.\n\nMittags bietet der Besuch der Kathedrale Schutz. Für den Weg zum Fluss nutzen wir die Stadtbusse, die in kurzen Abständen verkehren. So vermeiden Sie lange Wartezeiten im Regen.\n\nAm Nachmittag ist der 'Tren de las Termas' (Thermalzug) ein Highlight. Er ist überdacht und bringt Sie direkt zu den Outariz-Thermen. Es ist ein besonderes Vergnügen, die regnerische Landschaft aus dem langsam fahrenden Zug zu betrachten.\n\nDen Abend beschließen wir mit einer Busfahrt zurück ins Zentrum. Die beleuchteten nassen Straßen spiegeln die Lichter der Stadt wider und schaffen eine fast filmreife Kulisse.",
             "hu": "Busszal közlekedni Ourense-ben esőben a legokosabb választás. A Parque de San Lázaro megálló közvetlenül a város szívébe repít. Innen csak pár lépés a Plaza Mayor árkádos védelme.\n\nDélben a katedrális látogatása nyújt menedéket. A folyóhoz való kijutáshoz a városi buszokat használjuk, amelyek gyakran közlekednek, így elkerülhető a hosszú várakozás az esőben.\n\nDélután a 'Tren de las Termas' (Termálvonat) a fénypont. Ez a járat fedett, és közvetlenül az Outariz fürdőhöz visz. Különleges élmény a lassú vonatból figyelni az eső áztatta tájat.\n\nAz estét egy belvárosi buszos visszautazással zárjuk. A kivilágított, vizes utak visszaverik a város fényeit, szinte filmszerű díszletet teremtve.",
             "ro": "Utilizarea autobuzului în Ourense este cea mai înțeleaptă alegere pe ploaie. Oprirea la Parque de San Lázaro vă lasă chiar în inima orașului. De acolo sunt doar câțiva pași până sub arcadele din Plaza Mayor.\n\nLa prânz, vizita la Catedrală oferă adăpost. Pentru drumul spre râu folosim autobuzele urbane care circulă la intervale scurte. Astfel evitați așteptarea prelungită în ploaie.\n\nDupă-amiaza, 'Tren de las Termas' (Trenul Termal) este atracția principală. Este acoperit și vă duce direct la termele Outariz. E o plăcere deosebită să privești peisajul ploios din trenul care merge lent.\n\nSeara se încheie cu o călătorie cu autobuzul înapoi în centru. Străzile ude și iluminate reflectă luminile orașului, creând un cadru aproape cinematografic.",
-            "en": "Taking the bus through Ourense is the smartest choice in the rain. The stop at Parque de San Lázaro drops you right in the heart of the city. From there, it's just a few steps to the sheltered arcades of Plaza Mayor.\n\nAt noon, a visit to the Cathedral offers perfect shelter. To get to the river, use the city buses that run at short intervals, helping you avoid long waits in the rain.\n\nIn the afternoon, the 'Tren de las Termas' (Thermal Train) is a highlight. It is covered and takes you directly to the Outariz Thermal Baths. Watching the rainy landscape from the slow-moving train is a unique and pleasant experience.\n\nEnd the evening with a bus ride back to the center. The illuminated wet streets reflect the city lights, creating an almost cinematic backdrop for your return."
+            "en": "Taking the bus through Ourense is the smartest choice in the rain. The stop at Parque de San Lázaro drops you right in the heart of the city. From there, it's just a few steps to the sheltered arcades of Plaza Mayor.\n\nAt noon, a visit to the Cathedral offers perfect shelter. To get to the river, use the city buses that run at short intervals, helping you avoid long waits in the rain.\n\nIn the afternoon, the 'Tren de las Termas' (Thermal Train) is a highlight. It is covered and takes you directly to the Outariz Thermal Baths. Watching the rainy landscape from the slow-moving train is a unique and pleasant experience.\n\nEnd the evening with a bus ride back to the center. The illuminated wet streets reflect the city lights, creating an almost cinematic backdrop for your return.",
+            "es": "Ir en autobús por Ourense es la opción más inteligente bajo la lluvia. La parada de Parque de San Lázaro te deja en pleno corazón de la ciudad. Desde allí hay solo unos pasos hasta los soportales cubiertos de la Plaza Mayor.\n\nAl mediodía, la visita a la Catedral ofrece un refugio perfecto. Para llegar a la orilla, utiliza los autobuses urbanos que pasan con frecuencia, evitando esperas largas bajo la lluvia.\n\nPor la tarde, el 'Tren de las Termas' es un punto destacado. Es cubierto y te lleva directamente a las termas de Outariz. Ver el paisaje lluvioso desde el tren lento es una experiencia agradable y distinta.\n\nTermina la noche con un autobús de regreso al centro. Las calles mojadas e iluminadas reflejan las luces de la ciudad, creando un telón casi cinematográfico para tu retorno."
           },
           "stops": [
             {
@@ -2061,7 +2230,8 @@
                 "de": "Zentraler Knotenpunkt mit vielen überdachten Wartebereichen.",
                 "hu": "Központi csomópont sok fedett várakozóhellyel.",
                 "ro": "Nod central cu multe zone de așteptare acoperite.",
-                "en": "Central hub with many sheltered waiting areas."
+                "en": "Central hub with many sheltered waiting areas.",
+                "es": "Nudo central con muchas zonas de espera cubiertas."
               }
             },
             {
@@ -2070,7 +2240,8 @@
                 "de": "Nur 5 Minuten Fußweg von der Bushaltestelle.",
                 "hu": "Csak 5 perc séta a buszmegállótól.",
                 "ro": "Doar 5 minute de mers pe jos de la stația de autobuz.",
-                "en": "Only a 5-minute walk from the main bus stop."
+                "en": "Only a 5-minute walk from the main bus stop.",
+                "es": "A solo 5 minutos a pie desde la parada principal de autobús."
               }
             },
             {
@@ -2079,7 +2250,8 @@
                 "de": "Buslinie 19 hält ganz in der Nähe der Quellen.",
                 "hu": "A 19-es busz megállója nagyon közel van a forrásokhoz.",
                 "ro": "Linia 19 oprește foarte aproape de izvoare.",
-                "en": "Bus line 19 stops very close to the springs."
+                "en": "Bus line 19 stops very close to the springs.",
+                "es": "La línea 19 para muy cerca de los manantiales."
               }
             },
             {
@@ -2088,7 +2260,8 @@
                 "de": "Nutzen Sie die App 'Ourense Bus' für Echtzeit-Infos.",
                 "hu": "Használja az 'Ourense Bus' appot a valós idejű infókért.",
                 "ro": "Folosiți aplicația 'Ourense Bus' pentru info în timp real.",
-                "en": "Use the 'Ourense Bus' app for real-time arrival info."
+                "en": "Use the 'Ourense Bus' app for real-time arrival info.",
+                "es": "Usa la app 'Ourense Bus' para información de llegadas en tiempo real."
               }
             },
             {
@@ -2097,7 +2270,8 @@
                 "de": "Bushaltestellen an beiden Enden der Brücken vorhanden.",
                 "hu": "Buszmegállók a hidak mindkét végén találhatók.",
                 "ro": "Stații de autobuz disponibile la ambele capete ale podurilor.",
-                "en": "Bus stops are available at both ends of the bridges."
+                "en": "Bus stops are available at both ends of the bridges.",
+                "es": "Hay paradas de autobús en ambos extremos de los puentes."
               }
             },
             {
@@ -2106,7 +2280,8 @@
                 "de": "Der Zug ist überdacht und bietet Schutz vor Regen.",
                 "hu": "A vonat fedett, védelmet nyújt az eső ellen.",
                 "ro": "Trenul este acoperit și ofer định protecție contra ploii.",
-                "en": "The train is covered, providing protection from the rain."
+                "en": "The train is covered, providing protection from the rain.",
+                "es": "El tren está cubierto, ofreciendo protección contra la lluvia."
               }
             }
           ],
@@ -2138,6 +2313,13 @@
               "The 'Tren de las Termas' departs from near Plaza Mayor.",
               "Most city center bus stops have shelters to keep you dry.",
               "Use transit apps to minimize time spent waiting at stops."
+            ],
+            "es": [
+              "Compra una 'Tarxeta Milenio' para tarifas reducidas.",
+              "Los autobuses pueden llenarse cuando llueve; permite tiempo extra en los trayectos.",
+              "El 'Tren de las Termas' sale desde cerca de la Plaza Mayor.",
+              "La mayoría de las paradas del centro tienen marquesinas para mantenerte seco.",
+              "Usa apps de transporte para minimizar el tiempo de espera en las paradas."
             ]
           }
         },
@@ -2146,7 +2328,8 @@
             "de": "Ein klarer Wintertag in Ourense lässt sich hervorragend mit dem öffentlichen Nahverkehr erkunden. Die Busse sind gut geheizt und bieten eine warme Basis für die Fahrt zum Parque de San Lázaro. Der Spaziergang durch die kühle Morgenluft zur Plaza Mayor belebt die Sinne.\n\nMittags erkunden wir die Kathedrale und nutzen danach die Linienbusse, um zum Miño-Ufer zu gelangen. Die Aussicht aus dem Busfenster auf die winterliche Stadt ist sehr entspannend.\n\nAm Nachmittag ist die Fahrt mit dem Thermalzug nach Outariz ein Muss. Auch im Winter verkehrt dieser beliebte Zug und bringt Sie bequem zu den heißen Quellen. Die Fahrt entlang des Flusses ist in der Wintersonne besonders malerisch.\n\nWenn es dunkel wird, bringt Sie der Bus sicher und warm zurück ins Zentrum. Die winterliche Beleuchtung der Stadt lässt sich hervorragend während der Fahrt genießen, bevor man in der Nähe einer Haltestelle in ein Restaurant einkehrt.",
             "hu": "Egy tiszta téli nap Ourense-ben kiválóan felfedezhető tömegközlekedéssel. A buszok jól fűtöttek, kellemes bázist nyújtanak a Parque de San Lázaro felé vezető úton. A hűvös reggeli levegőben tett séta a Plaza Mayor felé frissítőleg hat.\n\nDélben a katedrálist látogatjuk meg, majd menetrend szerinti járatokkal jutunk el a Miño partjára. A busz ablakából nyíló kilátás a téli városra nagyon pihentető.\n\nDélután a termálvonattal Outariz felé vesszük az irányt. Ez a népszerű járat télen is közlekedik, és kényelmesen juttat el a forró forrásokhoz. A folyóparti út a téli napsütésben különösen festői.\n\nAmikor besötétedik, a busz biztonságban és melegben viszi vissza a központba. A város téli díszkivilágítása nagyszerűen élvezhető utazás közben, mielőtt egy megálló közeli étteremben vacsoráznánk.",
             "ro": "O zi senină de iarnă în Ourense poate fi explorată excelent cu transportul public. Autobuzele sunt bine încălzite și oferă o bază caldă pentru drumul spre Parque de San Lázaro. Plimbarea prin aerul rece de dimineață spre Plaza Mayor revigorează simțurile.\n\nLa prânz vizităm Catedrala și apoi folosim liniile de autobuz pentru a ajunge pe malul râului Miño. Vederea din fereastra autobuzului asupra orașului hibernal este foarte relaxantă.\n\nDupă-amiaza, drumul cu trenul termal spre Outariz este obligatoriu. Chiar și iarna, acest tren popular circulă și vă duce confortabil la izvoarele fierbinți. Traseul pe malul râului este deosebit de pitoresc în soarele de iarnă.\n\nCând se întunecă, autobuzul vă aduce în siguranță și la căldură înapoi în centru. Iluminatul festiv al orașului poate fi admirat în timpul călătoriei, înainte de a cina la un restaurant de lângă stație.",
-            "en": "A clear winter day in Ourense is perfect for exploring via public transport. The buses are well-heated, providing a warm base for your trip to Parque de San Lázaro. The walk through the crisp morning air to Plaza Mayor is invigorating.\n\nAt midday, visit the Cathedral and then use the local bus lines to reach the banks of the Miño. Looking out at the winter cityscape from the bus window is a relaxing experience.\n\nIn the afternoon, a ride on the thermal train to Outariz is a must. Even in winter, this popular train runs and takes you comfortably to the hot springs. The route along the river is especially picturesque in the low winter sun.\n\nAs darkness falls, the bus brings you safely and warmly back to the center. You can enjoy the city's winter lights during the ride before heading to a restaurant near one of the stops for dinner."
+            "en": "A clear winter day in Ourense is perfect for exploring via public transport. The buses are well-heated, providing a warm base for your trip to Parque de San Lázaro. The walk through the crisp morning air to Plaza Mayor is invigorating.\n\nAt midday, visit the Cathedral and then use the local bus lines to reach the banks of the Miño. Looking out at the winter cityscape from the bus window is a relaxing experience.\n\nIn the afternoon, a ride on the thermal train to Outariz is a must. Even in winter, this popular train runs and takes you comfortably to the hot springs. The route along the river is especially picturesque in the low winter sun.\n\nAs darkness falls, the bus brings you safely and warmly back to the center. You can enjoy the city's winter lights during the ride before heading to a restaurant near one of the stops for dinner.",
+            "es": "Un día claro de invierno en Ourense es perfecto para explorar en transporte público. Los autobuses están bien calefactados, ofreciendo una base cálida para tu visita a Parque de San Lázaro. El paseo por el aire frío hasta la Plaza Mayor es vigorizante.\n\nAl mediodía, visita la Catedral y luego usa las líneas locales para llegar a la orilla del Miño. Contemplar el paisaje invernal desde la ventanilla del autobús es relajante.\n\nPor la tarde, el viaje en el tren termal hasta Outariz es imprescindible. Incluso en invierno, este tren popular funciona y te lleva cómodamente a las termas. La ruta por la ribera es especialmente pintoresca con el sol bajo.\n\nAl anochecer, el autobús te trae de vuelta al centro de forma segura y cálida. Podrás disfrutar de las luces invernales de la ciudad durante el trayecto antes de cenar cerca de alguna parada."
           },
           "stops": [
             {
@@ -2155,7 +2338,8 @@
                 "de": "Warme Wartehalle in der Nähe für kalte Tage.",
                 "hu": "Meleg várakozóhely a közelben hideg napokra.",
                 "ro": "Sală de așteptare caldă în apropiere pentru zilele reci.",
-                "en": "Warm waiting areas are available nearby for cold days."
+                "en": "Warm waiting areas are available nearby for cold days.",
+                "es": "Hay zonas cálidas para esperar cerca en días fríos."
               }
             },
             {
@@ -2164,7 +2348,8 @@
                 "de": "Die Busse fahren hier alle 10-15 Minuten.",
                 "hu": "A buszok itt 10-15 percenként járnak.",
                 "ro": "Autobuzele trec pe aici la fiecare 10-15 minute.",
-                "en": "Buses run every 10-15 minutes in this area."
+                "en": "Buses run every 10-15 minutes in this area.",
+                "es": "Los autobuses pasan cada 10-15 minutos en esta zona."
               }
             },
             {
@@ -2173,7 +2358,8 @@
                 "de": "Perfekter Ort, um sich zwischen zwei Busfahrten aufzuwärmen.",
                 "hu": "Tökéletes hely a felmelegedéshez két buszút között.",
                 "ro": "Loc perfect pentru încălzire între două călătorii cu autobuzul.",
-                "en": "Perfect spot to warm up between bus rides."
+                "en": "Perfect spot to warm up between bus rides.",
+                "es": "Lugar perfecto para entrar en calor entre trayectos en bus."
               }
             },
             {
@@ -2182,7 +2368,8 @@
                 "de": "Genießen Sie die Heizung im Bus während der Fahrt.",
                 "hu": "Élvezze a fűtést a buszon utazás közben.",
                 "ro": "Bucurați-vă de căldura din autobuz în timpul drumului.",
-                "en": "Enjoy the heating inside the bus during the journey."
+                "en": "Enjoy the heating inside the bus during the journey.",
+                "es": "Disfruta de la calefacción dentro del autobús durante el trayecto."
               }
             },
             {
@@ -2191,7 +2378,8 @@
                 "de": "Die Haltestellen bieten Schutz vor dem kalten Flusswind.",
                 "hu": "A megállók védelmet nyújtanak a hideg folyóparti szél ellen.",
                 "ro": "Stațiile oferă protecție împotriva vântului rece de pe râu.",
-                "en": "Bus shelters provide cover from the cold riverside wind."
+                "en": "Bus shelters provide cover from the cold riverside wind.",
+                "es": "Las marquesinas protegen del frío viento de la ribera."
               }
             },
             {
@@ -2200,7 +2388,8 @@
                 "de": "Prüfen Sie den Winterfahrplan des Thermalzugs.",
                 "hu": "Ellenőrizze a termálvonat téli menetrendjét.",
                 "ro": "Verificați orarul de iarnă al trenului termal.",
-                "en": "Check the winter schedule for the thermal train."
+                "en": "Check the winter schedule for the thermal train.",
+                "es": "Consulta el horario invernal del tren termal."
               }
             }
           ],
@@ -2232,6 +2421,13 @@
               "Buses are a great place to warm up between outdoor sights.",
               "Wear warm clothes specifically for the wait times at stops.",
               "The last return trip from the thermal area is often earlier in winter."
+            ],
+            "es": [
+              "Usa la app 'Ourense Bus' para información de salidas en tiempo real.",
+              "El tren termal circula con menos frecuencia en invierno; comprueba los horarios.",
+              "Los autobuses son un buen lugar para entrar en calor entre visitas al exterior.",
+              "Vístete con ropa abrigada pensando en los tiempos de espera en las paradas.",
+              "El último viaje de regreso desde la zona termal suele ser antes en invierno."
             ]
           }
         }

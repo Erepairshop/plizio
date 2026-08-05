@@ -32,7 +32,8 @@
             "de": "Bewundern Sie die Eisenstruktur dieses modernistischen Marktes.",
             "hu": "Csodálja meg a piac szecessziós vasszerkezetét.",
             "ro": "Admirați structura de fier a acestei piețe moderniste.",
-            "en": "Admire the iron structure of this modernist market."
+            "en": "Admire the iron structure of this modernist market.",
+            "es": "Admira la estructura de hierro de este mercado modernista."
           }
         },
         {
@@ -51,7 +52,8 @@
             "de": "Der einzige erhaltene Turm der Burgpalast von Terrassa.",
             "hu": "Terrassa egykori várkastélyának egyetlen fennmaradt tornya.",
             "ro": "Singurul turn rămas din castelul-palat din Terrassa.",
-            "en": "The only remaining tower of the castle-palace of Terrassa."
+            "en": "The only remaining tower of the castle-palace of Terrassa.",
+            "es": "La única torre que queda del castillo-palacio de Terrassa."
           }
         },
         {
@@ -70,7 +72,8 @@
             "de": "Ein prächtiges bürgerliches Haus mit wunderschönen Gärten.",
             "hu": "Egy pompás polgári ház, lenyűgöző belső kertekkel.",
             "ro": "O casă burgheză magnifică cu grădini minunate.",
-            "en": "A magnificent bourgeois house with beautiful gardens."
+            "en": "A magnificent bourgeois house with beautiful gardens.",
+            "es": "Una magnífica casa burguesa con hermosos jardines."
           }
         },
         {
@@ -89,7 +92,8 @@
             "de": "Technikmuseum in einer beeindruckenden alten Textilfabrik.",
             "hu": "Technológiai múzeum egy lenyűgöző egykori textilgyárban.",
             "ro": "Muzeu de tehnologie într-o veche fabrică textilă impresionantă.",
-            "en": "Science museum in an impressive former textile factory."
+            "en": "Science museum in an impressive former textile factory.",
+            "es": "Museo de ciencia en una impresionante antigua fábrica textil."
           }
         },
         {
@@ -108,7 +112,8 @@
             "de": "Modernistisches Juwel mit markanten weißen Bögen.",
             "hu": "Katalán szecessziós gyöngyszem, jellegzetes fehér ívekkel.",
             "ro": "O bijuterie modernistă cu arcade albe distinctive.",
-            "en": "Modernist jewel with distinctive white arches."
+            "en": "Modernist jewel with distinctive white arches.",
+            "es": "Joya modernista con distintivos arcos blancos."
           }
         },
         {
@@ -127,7 +132,8 @@
             "de": "Einer der größten städtischen Parks in Katalonien.",
             "hu": "Katalónia egyik legnagyobb és leghosszabb városi parkja.",
             "ro": "Unul dintre cele mai mari parcuri urbane din Catalonia.",
-            "en": "One of the largest urban parks in Catalonia."
+            "en": "One of the largest urban parks in Catalonia.",
+            "es": "Uno de los parques urbanos más grandes de Cataluña."
           }
         },
         {
@@ -146,7 +152,8 @@
             "de": "Eine Festung aus dem 12. Jahrhundert im Herzen des Parks.",
             "hu": "Egy 12. századi erődítmény a park szívében.",
             "ro": "O cetate din secolul al XII-lea în inima parcului.",
-            "en": "A 12th-century fortress in the heart of the park."
+            "en": "A 12th-century fortress in the heart of the park.",
+            "es": "Una fortaleza del siglo XII en el corazón del parque."
           }
         },
         {
@@ -165,7 +172,8 @@
             "de": "Einzigartiger romanischer und westgotischer Kirchenkomplex.",
             "hu": "Kivételes román és vizigót templomegyüttes.",
             "ro": "Complex unic de biserici romanice și vizigote.",
-            "en": "Unique Romanesque and Visigothic church complex."
+            "en": "Unique Romanesque and Visigothic church complex.",
+            "es": "Conjunto eclesiástico único de estilo románico y visigodo."
           }
         }
       ],
@@ -173,7 +181,8 @@
         "de": "Beginnen Sie Ihren Tag auf dem modernistischen Markt, gefolgt von historischen Entdeckungen im Zentrum. Mittags fasziniert das Textilmuseum mNACTEC in seiner Industriearchitektur. Am Nachmittag spazieren Sie durch den ausgedehnten Parc de Vallparadís und besuchen die Burg. Den Abschluss bildet der einzigartige Kirchenkomplex Seu d'Ègara.",
         "hu": "Kezdje a napot a nyüzsgő piacon, majd fedezze fel a belváros szecessziós és középkori emlékeit. Délben az egykori textilgyárban kialakított technikatörténeti múzeum, a mNACTEC nyújt különleges élményt. Délután sétáljon végig a zöldellő Vallparadís parkon a várig, majd zárja a napot a lenyűgöző ókeresztény templomegyüttesnél.",
         "ro": "Începeți ziua la piața modernistă, urmată de descoperiri istorice în centru. La prânz, muzeul de tehnologie mNACTEC fascinează prin arhitectura sa industrială. După-amiaza, plimbați-vă prin vastul parc Vallparadís până la castel, terminând turul la complexul monumental de biserici Seu d'Ègara.",
-        "en": "Start your day at the modernist market, followed by historical discoveries in the city center. At noon, the mNACTEC science museum in a former textile factory offers a unique industrial experience. In the afternoon, stroll through the extensive Vallparadís Park to the castle, ending at the remarkable Seu d'Ègara church complex."
+        "en": "Start your day at the modernist market, followed by historical discoveries in the city center. At noon, the mNACTEC science museum in a former textile factory offers a unique industrial experience. In the afternoon, stroll through the extensive Vallparadís Park to the castle, ending at the remarkable Seu d'Ègara church complex.",
+        "es": "Comienza el día en el mercado modernista, seguido de descubrimientos históricos en el centro. Al mediodía, el museo de ciencia mNACTEC en una antigua fábrica textil ofrece una experiencia industrial única. Por la tarde, pasea por el extenso Parc de Vallparadís hasta el castillo, terminando en el notable conjunto de la Seu d'Ègara."
       },
       "gastro_picks": {
         "de": [
@@ -333,6 +342,12 @@
           "The modernist buildings are true architectural highlights.",
           "The mNACTEC is a large museum, so wear comfortable shoes.",
           "Parc de Vallparadís is a great place to cool off on a hot afternoon."
+        ],
+        "es": [
+          "El centro de Terrassa es compacto y muy transitable a pie.",
+          "Los edificios modernistas son auténticos hitos arquitectónicos.",
+          "El mNACTEC es un museo grande, así que lleva calzado cómodo.",
+          "El Parc de Vallparadís es un lugar perfecto para refrescarse en una tarde calurosa."
         ]
       },
       "variants": {
@@ -341,7 +356,8 @@
             "de": "Morgen: Starten Sie den Tag unter dem schützenden Dach des Mercat de la Independència, wo das Treiben trotz Regen lebendig bleibt. \n\nMittag: Besuchen Sie die Casa Alegre und flüchten Sie ins mNACTEC, das in einer ehemaligen Fabrik untergebracht ist und stundenlang trockenes Sightseeing bietet. \n\nNachmittag: Ein kurzer Spaziergang durch den nassen Vallparadís-Park führt Sie zum Castell, einem festen Steinbau, der Geborgenheit vermittelt. \n\nAbend: Beenden Sie die Tour in der spirituellen Stille der Seu d'Ègara, während der Regen leise gegen die jahrhundertealten Mauern trommelt.",
             "hu": "Reggel: Kezdje a napot a Mercat de la Independència védelmező tetője alatt, ahol az eső ellenére is pezseg az élet. \n\nDélben: Látogasson el a Casa Alegre házba, majd meneküljön a mNACTEC múzeumba, amely egy régi gyárban kínál órákon át tartó száraz programot. \n\nDélután: Egy rövid séta a vizes Vallparadís parkon át elvezeti a várba, amelynek vastag falai között biztonságban érezheti magát. \n\nEste: Zárja a túrát a Seu d'Ègara spirituális csendjében, miközben az eső halkan kopog a több száz éves falakon.",
             "ro": "Dimineața: Începeți ziua sub acoperișul protector al pieței Mercat de la Independència, unde atmosfera rămâne plină de viață în ciuda ploii. \n\nPrânz: Vizitați Casa Alegre și refugiați-vă în mNACTEC, situat într-o fostă fabrică, ce oferă ore întregi de vizitare la adăpost. \n\nDupă-amiaza: O scurtă plimbare prin parcul umed Vallparadís vă duce la castel, o construcție solidă de piatră care oferă confort. \n\nSeara: Încheiați turul în liniștea spirituală de la Seu d'Ègara, în timp ce ploaia bate încet în zidurile vechi de secole.",
-            "en": "Morning: Start your day under the protective roof of the Mercat de la Independència, where the hustle and bustle stays vibrant despite the rain. \n\nMidday: Visit Casa Alegre and escape into mNACTEC, housed in a former factory, offering hours of dry sightseeing. \n\nAfternoon: A short walk through the wet Vallparadís Park leads you to the castle, a solid stone building that provides shelter. \n\nEvening: End the tour in the spiritual silence of Seu d'Ègara, as the rain softly taps against the centuries-old walls."
+            "en": "Morning: Start your day under the protective roof of the Mercat de la Independència, where the hustle and bustle stays vibrant despite the rain. \n\nMidday: Visit Casa Alegre and escape into mNACTEC, housed in a former factory, offering hours of dry sightseeing. \n\nAfternoon: A short walk through the wet Vallparadís Park leads you to the castle, a solid stone building that provides shelter. \n\nEvening: End the tour in the spiritual silence of Seu d'Ègara, as the rain softly taps against the centuries-old walls.",
+            "es": "Mañana: Comienza el día bajo la cubierta protectora del Mercat de la Independència, donde el bullicio se mantiene vivo pese a la lluvia. \n\nMediodía: Visita Casa Alegre y resguárdate en el mNACTEC, ubicado en una antigua fábrica, que ofrece horas de turismo en seco. \n\nTarde: Un breve paseo por el húmedo Parc de Vallparadís te lleva hasta el castillo, un sólido edificio de piedra que brinda refugio. \n\nNoche: Termina el recorrido en el silencio espiritual de la Seu d'Ègara, mientras la lluvia golpea suavemente las paredes centenarias."
           },
           "stops": [
             {
@@ -350,7 +366,8 @@
                 "de": "Perfekter Ort für ein zweites Frühstück im Trockenen.",
                 "hu": "Tökéletes hely egy második reggelihez a szárazon.",
                 "ro": "Locul perfect pentru un al doilea mic dejun la adăpost.",
-                "en": "Perfect place for a second breakfast in the dry."
+                "en": "Perfect place for a second breakfast in the dry.",
+                "es": "Lugar perfecto para un segundo desayuno en seco."
               }
             },
             {
@@ -359,7 +376,8 @@
                 "de": "Vorsicht auf den Stufen; sie können bei Nässe rutschig sein.",
                 "hu": "Vigyázzon a lépcsőkön; nedvesen csúszósak lehetnek.",
                 "ro": "Atenție la trepte; pot fi alunecoase când sunt ude.",
-                "en": "Be careful on the steps; they can be slippery when wet."
+                "en": "Be careful on the steps; they can be slippery when wet.",
+                "es": "Ten cuidado en los escalones; pueden resbalar cuando están mojados."
               }
             },
             {
@@ -368,7 +386,8 @@
                 "de": "Prächtiges modernistisches Interieur, ideal bei Regen.",
                 "hu": "Pompás modernista belső tér, ideális esőben.",
                 "ro": "Interior modernist splendid, ideal pe ploaie.",
-                "en": "Magnificent modernist interior, ideal during rain."
+                "en": "Magnificent modernist interior, ideal during rain.",
+                "es": "Magnífico interior modernista, ideal con lluvia."
               }
             },
             {
@@ -377,7 +396,8 @@
                 "de": "Das riesige Sägezahndach bietet perfekten Schutz.",
                 "hu": "A hatalmas fűrészfogas tető tökéletes védelmet nyújt.",
                 "ro": "Acoperișul uriaș oferă protecție perfectă.",
-                "en": "The huge sawtooth roof offers perfect protection."
+                "en": "The huge sawtooth roof offers perfect protection.",
+                "es": "La enorme cubierta en forma de sierra ofrece protección perfecta."
               }
             },
             {
@@ -386,7 +406,8 @@
                 "de": "Betrachten Sie die organischen Formen von der Veranda aus.",
                 "hu": "Csodálja meg az organikus formákat a verandáról.",
                 "ro": "Admirați formele organice de pe verandă.",
-                "en": "Admire the organic shapes from the porch."
+                "en": "Admire the organic shapes from the porch.",
+                "es": "Admira las formas orgánicas desde el porche."
               }
             },
             {
@@ -395,7 +416,8 @@
                 "de": "Nutzen Sie Brücken als Unterstand bei Güssen.",
                 "hu": "Használja a hidakat menedékként zápor esetén.",
                 "ro": "Folosiți podurile ca adăpost în caz de ploaie.",
-                "en": "Use bridges as shelter during downpours."
+                "en": "Use bridges as shelter during downpours.",
+                "es": "Utiliza los puentes como refugio durante los chaparrones."
               }
             },
             {
@@ -404,7 +426,8 @@
                 "de": "Die Ausstellungen im Inneren sind komplett überdacht.",
                 "hu": "A belső kiállítások teljesen fedettek.",
                 "ro": "Expozițiile interioare sunt complet acoperite.",
-                "en": "The indoor exhibitions are completely covered."
+                "en": "The indoor exhibitions are completely covered.",
+                "es": "Las exposiciones interiores están completamente cubiertas."
               }
             },
             {
@@ -413,7 +436,8 @@
                 "de": "Ein mystischer Abschluss im Schein der Kerzen.",
                 "hu": "Misztikus zárás a gyertyák fényében.",
                 "ro": "Un final mistic la lumina lumânărilor.",
-                "en": "A mystical end in the candlelight."
+                "en": "A mystical end in the candlelight.",
+                "es": "Un final místico a la luz de las velas."
               }
             }
           ],
@@ -445,6 +469,13 @@
               "Wear waterproof shoes for the park.",
               "Check museum hours on Mondays.",
               "An umbrella is better than a cape."
+            ],
+            "es": [
+              "Terrassa tiene muchos pasajes que protegen de la lluvia.",
+              "El mNACTEC es un destino ideal para un día lluvioso.",
+              "Lleva calzado impermeable para el parque.",
+              "Consulta los horarios de los museos los lunes.",
+              "Un paraguas es mejor que una capa."
             ]
           }
         },
@@ -453,7 +484,8 @@
             "de": "Morgen: Genießen Sie die klare Winterluft beim Marktbesuch, wo heiße Schokolade lockt. \n\nMittag: Die tiefstehende Wintersonne beleuchtet die Casa Alegre besonders schön. Im mNACTEC wärmen Sie sich auf. \n\nNachmittag: Nutzen Sie das Tageslicht im Park, bevor die Dämmerung das Castell in goldenes Licht taucht. \n\nAbend: Wenn die Kälte anzieht, bieten die dicken Mauern der Seu d'Ègara eine geschützte Atmosphäre für den Ausklang.",
             "hu": "Reggel: Élvezze a friss téli levegőt a piacon, ahol a forró csokoládé csábít. \n\nDélben: Az alacsonyan járó téli nap különösen szépen világítja meg a Casa Alegre homlokzatát. A mNACTEC-ben felmelegedhet. \n\nDélután: Használja ki a nappali fényt a parkban, mielőtt a szürkület arany fénybe vonja a várat. \n\nEste: Ahogy hűl a levegő, a Seu d'Ègara vastag falai védett környezetet nyújtanak a nap zárásához.",
             "ro": "Dimineața: Bucurați-vă de aerul proaspăt de iarnă în piață, unde ciocolata caldă vă atrage. \n\nPrânz: Soarele de iarnă luminează fațadele Casei Alegre. Încălziți-vă în interiorul mNACTEC. \n\nDupă-amiaza: Profită de lumina zilei în parc înainte ca amurgul să scalde castelul în lumină aurie. \n\nSeara: Pe măsură ce se lasă frigul, zidurile groase de la Seu d'Ègara oferă o atmosferă protejată pentru final.",
-            "en": "Morning: Enjoy the crisp winter air at the market, where hot chocolate beckons. \n\nMidday: The low winter sun illuminates the facades of Casa Alegre beautifully. Warm up inside mNACTEC. \n\nAfternoon: Make the most of the daylight in the park before twilight bathes the castle in golden light. \n\nEvening: As the cold sets in, the thick walls of Seu d'Ègara provide a sheltered atmosphere for the end of the day."
+            "en": "Morning: Enjoy the crisp winter air at the market, where hot chocolate beckons. \n\nMidday: The low winter sun illuminates the facades of Casa Alegre beautifully. Warm up inside mNACTEC. \n\nAfternoon: Make the most of the daylight in the park before twilight bathes the castle in golden light. \n\nEvening: As the cold sets in, the thick walls of Seu d'Ègara provide a sheltered atmosphere for the end of the day.",
+            "es": "Mañana: Disfruta del aire fresco invernal en el mercado, donde el chocolate caliente hace su llamada. \n\nMediodía: El bajo sol de invierno ilumina las fachadas de Casa Alegre de forma hermosa. Recalienta en el interior del mNACTEC. \n\nTarde: Aprovecha la luz del día en el parque antes de que el crepúsculo bañe el castillo con luz dorada. \n\nNoche: Cuando llega el frío, los gruesos muros de la Seu d'Ègara ofrecen una atmósfera resguardada para terminar el día."
           },
           "stops": [
             {
@@ -462,7 +494,8 @@
                 "de": "Probieren Sie lokale Winterspezialitäten.",
                 "hu": "Kóstolja meg a helyi téli ételeket.",
                 "ro": "Gustați specialitățile locale de iarnă.",
-                "en": "Try local winter specialties."
+                "en": "Try local winter specialties.",
+                "es": "Prueba las especialidades locales de invierno."
               }
             },
             {
@@ -471,7 +504,8 @@
                 "de": "Die Wintersonne sorgt für weite Sicht.",
                 "hu": "A téli nap tiszta kilátást biztosít.",
                 "ro": "Soarele de iarnă oferă vizibilitate.",
-                "en": "The winter sun provides clear views."
+                "en": "The winter sun provides clear views.",
+                "es": "El sol invernal ofrece vistas claras."
               }
             },
             {
@@ -480,7 +514,8 @@
                 "de": "Licht fällt im Winter weich in die Räume.",
                 "hu": "A fény télen lágyan esik a szobákba.",
                 "ro": "Lumina cade suav în camere iarna.",
-                "en": "Light falls softly into the rooms in winter."
+                "en": "Light falls softly into the rooms in winter.",
+                "es": "La luz entra suavemente en las salas en invierno."
               }
             },
             {
@@ -489,7 +524,8 @@
                 "de": "Große Hallen; Zwiebelprinzip kleiden.",
                 "hu": "Hatalmas csarnokok; réteges öltözködés.",
                 "ro": "Hale mari; îmbrăcați-vă în straturi.",
-                "en": "Large halls; dress in layers."
+                "en": "Large halls; dress in layers.",
+                "es": "Salones amplios; vístete en capas."
               }
             },
             {
@@ -498,7 +534,8 @@
                 "de": "Weiße Fassade leuchtet im Winterlicht.",
                 "hu": "A fehér homlokzat ragyog a téli fényben.",
                 "ro": "Fațada albă strălucește în lumină.",
-                "en": "White facade glows in winter light."
+                "en": "White facade glows in winter light.",
+                "es": "La fachada blanca resplandece con la luz invernal."
               }
             },
             {
@@ -507,7 +544,8 @@
                 "de": "Perfekt für einen zügigen Spaziergang.",
                 "hu": "Tökéletes egy élénk téli sétához.",
                 "ro": "Perfect pentru o plimbare de iarnă.",
-                "en": "Perfect for a brisk winter walk."
+                "en": "Perfect for a brisk winter walk.",
+                "es": "Perfecto para una caminata invernal animada."
               }
             },
             {
@@ -516,7 +554,8 @@
                 "de": "Kürzere Öffnungszeiten im Winter.",
                 "hu": "Rövidebb téli nyitvatartás.",
                 "ro": "Program de iarnă mai scurt.",
-                "en": "Shorter opening hours in winter."
+                "en": "Shorter opening hours in winter.",
+                "es": "Horarios de apertura más cortos en invierno."
               }
             },
             {
@@ -525,7 +564,8 @@
                 "de": "Binnen oft kühler als draußen.",
                 "hu": "Benn hűvösebb lehet, öltözzön fel.",
                 "ro": "Adesea mai răcoare în interior.",
-                "en": "Often cooler inside than outside."
+                "en": "Often cooler inside than outside.",
+                "es": "A menudo hace más frío en el interior que en el exterior."
               }
             }
           ],
@@ -557,6 +597,13 @@
               "Wear a light jacket.",
               "Enjoy churros in the old town.",
               "Visit the Christmas nativity scenes."
+            ],
+            "es": [
+              "La puesta de sol es alrededor de las 17:30.",
+              "Las horas del mediodía son ideales para fotos.",
+              "Lleva una chaqueta ligera.",
+              "Disfruta de churros en el casco antiguo.",
+              "Visita los belenes de Navidad."
             ]
           }
         }
@@ -586,7 +633,8 @@
             "de": "Morgens ist das Licht für Fotos der weißen Bögen am besten.",
             "hu": "Reggel a legjobb a fény a fehér ívek fotózásához.",
             "ro": "Dimineața lumina este perfectă pentru a fotografia arcadele albe.",
-            "en": "Morning light is best for photographing the white arches."
+            "en": "Morning light is best for photographing the white arches.",
+            "es": "La luz de la mañana es mejor para fotografiar los arcos blancos."
           }
         },
         {
@@ -605,7 +653,8 @@
             "de": "Das Museum hat Fahrradständer am Eingang.",
             "hu": "A múzeum bejáratánál kényelmesen leparkolhatja a kerékpárt.",
             "ro": "Muzeul dispune de parcări pentru biciclete la intrare.",
-            "en": "The museum has convenient bike racks at the entrance."
+            "en": "The museum has convenient bike racks at the entrance.",
+            "es": "El museo tiene aparcabicicletas en la entrada."
           }
         },
         {
@@ -624,7 +673,8 @@
             "de": "Kaufen Sie frische Snacks für ein Picknick im Park.",
             "hu": "Vásároljon friss helyi finomságokat egy későbbi piknikhez.",
             "ro": "Cumpărați gustări proaspete pentru un picnic în parc.",
-            "en": "Buy some fresh local snacks for a picnic later in the park."
+            "en": "Buy some fresh local snacks for a picnic later in the park.",
+            "es": "Compra algunas tapas locales frescas para un picnic más tarde en el parque."
           }
         },
         {
@@ -643,7 +693,8 @@
             "de": "Sichern Sie Ihr Rad, um die Innenräume in Ruhe zu genießen.",
             "hu": "Zárja le a biciklit, és élvezze a polgári otthon szépségeit.",
             "ro": "Asigurați-vă bicicleta pentru a vizita interioarele în liniște.",
-            "en": "Lock your bike nearby to explore the lavish interiors in peace."
+            "en": "Lock your bike nearby to explore the lavish interiors in peace.",
+            "es": "Asegura tu bici cerca para explorar los lujosos interiores con tranquilidad."
           }
         },
         {
@@ -662,7 +713,8 @@
             "de": "Ein kurzer Stopp am historischen Turm.",
             "hu": "Rövid megálló a történelmi toronynál.",
             "ro": "O scurtă oprire la turnul istoric.",
-            "en": "A quick photo stop at the historic tower."
+            "en": "A quick photo stop at the historic tower.",
+            "es": "Parada rápida para una foto en la torre histórica."
           }
         },
         {
@@ -681,7 +733,8 @@
             "de": "Rollen Sie hinab in den Park zur alten Burg.",
             "hu": "Guruljon le a parkba a középkori várhoz.",
             "ro": "Coborâți în parc până la vechiul castel.",
-            "en": "Roll down into the park to reach the ancient castle."
+            "en": "Roll down into the park to reach the ancient castle.",
+            "es": "Baja rodando hasta el parque para llegar al castillo antiguo."
           }
         },
         {
@@ -700,7 +753,8 @@
             "de": "Radfahren auf den langen Wegen des Parks ist ein Genuss.",
             "hu": "A park hosszú ösvényein kerékpározni igazi élvezet.",
             "ro": "Mersul cu bicicleta pe potecile lungi ale parcului este o plăcere.",
-            "en": "Cycling along the extensive paths of the park is a delight."
+            "en": "Cycling along the extensive paths of the park is a delight.",
+            "es": "Circular por los amplios senderos del parque es un placer."
           }
         },
         {
@@ -719,7 +773,8 @@
             "de": "Am Nordende des Parks erreichen Sie diesen Kirchenkomplex.",
             "hu": "A park északi végénél éri el ezt a különleges templomegyüttest.",
             "ro": "La capătul nordic al parcului ajungeți la acest complex de biserici.",
-            "en": "At the northern end of the park, you reach this unique church complex."
+            "en": "At the northern end of the park, you reach this unique church complex.",
+            "es": "En el extremo norte del parque se llega a este singular conjunto eclesiástico."
           }
         }
       ],
@@ -727,7 +782,8 @@
         "de": "Ihre Radtour startet am eleganten Masia Freixa und führt zur industriellen Geschichte im mNACTEC. Über den lebhaften Markt fahren Sie durch die historische Altstadt. Der Nachmittag gehört dem Radeln durch den langgezogenen Parc de Vallparadís, vorbei an der Burg, bevor Sie den Tag an den alten Kirchen der Seu d'Ègara ausklingen lassen.",
         "hu": "A kerékpáros túra az elegáns Masia Freixától indul, majd a mNACTEC lenyűgöző ipari csarnokaihoz vezet. A nyüzsgő piacon keresztül a történelmi belvárost érintve halad. A délutánt a kilométereken át nyúló zöld Vallparadís parkban tekerheti végig, a várat érintve, végül a Seu d'Ègara román stílusú falainál fejezheti be a napot.",
         "ro": "Turul cu bicicleta începe de la eleganta Masia Freixa și duce la istoria industrială la mNACTEC. Trecând prin piața animată, explorați centrul istoric. După-amiaza este dedicată plimbării prin lungul parc Vallparadís, trecând pe lângă castel, înainte de a încheia ziua la vechile biserici din Seu d'Ègara.",
-        "en": "Your bike tour starts at the elegant Masia Freixa and leads to the industrial history of mNACTEC. Cruising past the bustling market, you explore the historic old town. The afternoon is dedicated to cycling the long, green paths of Parc de Vallparadís, passing the castle, and ending the day at the ancient churches of Seu d'Ègara."
+        "en": "Your bike tour starts at the elegant Masia Freixa and leads to the industrial history of mNACTEC. Cruising past the bustling market, you explore the historic old town. The afternoon is dedicated to cycling the long, green paths of Parc de Vallparadís, passing the castle, and ending the day at the ancient churches of Seu d'Ègara.",
+        "es": "Tu ruta en bici comienza en la elegante Masia Freixa y conduce a la historia industrial del mNACTEC. Pasando junto al bullicioso mercado, exploras el casco antiguo histórico. La tarde se dedica a recorrer en bicicleta los largos y verdes caminos del Parc de Vallparadís, pasando por el castillo y terminando el día en las antiguas iglesias de la Seu d'Ègara."
       },
       "gastro_picks": {
         "de": [
@@ -871,6 +927,12 @@
           "You can enjoy a long, uninterrupted ride through Parc de Vallparadís.",
           "Be prepared to walk your bike in some of the narrowest historic streets.",
           "Always use a secure lock when visiting museums and sights."
+        ],
+        "es": [
+          "Terrassa cuenta con buena infraestructura para bicicletas, especialmente a lo largo del parque.",
+          "Puedes disfrutar de un largo recorrido ininterrumpido por el Parc de Vallparadís.",
+          "Prepárate para empujar la bicicleta en algunas de las calles históricas más estrechas.",
+          "Siempre usa un candado seguro al visitar museos y monumentos."
         ]
       },
       "variants": {
@@ -879,7 +941,8 @@
             "de": "Morgen: Vorsichtig zur Masia Freixa radeln. Das mNACTEC bietet danach eine lange, trockene Pause für Radfahrer. \n\nMittag: Nach dem Marktbesuch führt die Route zur Casa Alegre, wo Sie die Räder sicher abstellen können. \n\nNachmittag: Die Fahrt durch den Vallparadís-Park erfordert auf nassen Wegen volle Konzentration. \n\nAbend: Ein kurzer Sprint zur Seu d'Ègara schließt den Tag ab, bevor Sie sich im Warmen entspannen.",
             "hu": "Reggel: Tekerjen óvatosan a Masia Freixához. A mNACTEC hosszú, száraz pihenőt kínál. \n\nDélben: A piaci látogatás után a Casa Alegre-hez megyünk, ahol biztonságban hagyhatja a gépet. \n\nDélután: A Vallparadís parkon átvezető út koncentrációt igényel a vizes aszfalton. \n\nEste: Egy rövid sprint a Seu d'Ègara-hoz zárja a napot, mielőtt a melegben megpihenne.",
             "ro": "Dimineața: Pedalați cu prudență spre Masia Freixa. mNACTEC oferă o pauză lungă și uscată. \n\nPrânz: După vizita la piață, mergem la Casa Alegre, unde puteți lăsa bicicleta în siguranță. \n\nDupă-amiaza: Călătoria prin parcul Vallparadís pe drumuri umede necesită concentrare. \n\nSeara: Un sprint scurt până la Seu d'Ègara încheie ziua înainte de a vă relaxa la căldură.",
-            "en": "Morning: Cycle cautiously to Masia Freixa. mNACTEC then offers a long, dry break for cyclists. \n\nMidday: After visiting the market, the route leads to Casa Alegre, where you can park your bikes safely. \n\nAfternoon: Riding through Vallparadís Park requires concentration on wet paths. \n\nEvening: A short sprint to Seu d'Ègara concludes the day before you relax in the warmth."
+            "en": "Morning: Cycle cautiously to Masia Freixa. mNACTEC then offers a long, dry break for cyclists. \n\nMidday: After visiting the market, the route leads to Casa Alegre, where you can park your bikes safely. \n\nAfternoon: Riding through Vallparadís Park requires concentration on wet paths. \n\nEvening: A short sprint to Seu d'Ègara concludes the day before you relax in the warmth.",
+            "es": "Mañana: Ve en bicicleta con precaución hasta la Masia Freixa. El mNACTEC ofrece luego un largo descanso en seco para ciclistas. \n\nMediodía: Tras visitar el mercado, la ruta conduce a Casa Alegre, donde puedes aparcar las bicis de forma segura. \n\nTarde: Circular por el Parc de Vallparadís requiere concentración en caminos mojados. \n\nNoche: Un sprint final hasta la Seu d'Ègara concluye el día antes de que te relajes al calor."
           },
           "stops": [
             {
@@ -888,7 +951,8 @@
                 "de": "Vorsicht vor rutschigen Fliesen.",
                 "hu": "Vigyázzon a csúszós csempékkel.",
                 "ro": "Atenție la plăcile alunecoase.",
-                "en": "Watch out for slippery tiles."
+                "en": "Watch out for slippery tiles.",
+                "es": "Cuidado con las baldosas resbaladizas."
               }
             },
             {
@@ -897,7 +961,8 @@
                 "de": "Fahrradständer direkt am Eingang.",
                 "hu": "Kerékpártárolók a bejáratnál.",
                 "ro": "Rasteluri chiar la intrare.",
-                "en": "Bike racks right at the entrance."
+                "en": "Bike racks right at the entrance.",
+                "es": "Aparcabicis justo en la entrada."
               }
             },
             {
@@ -906,7 +971,8 @@
                 "de": "Rad parken und Markt genießen.",
                 "hu": "Parkoljon le, és élvezze a piacot.",
                 "ro": "Parcați și bucurați-vă de piață.",
-                "en": "Park your bike and enjoy the market."
+                "en": "Park your bike and enjoy the market.",
+                "es": "Aparca la bici y disfruta del mercado."
               }
             },
             {
@@ -915,7 +981,8 @@
                 "de": "Zeit im Inneren zum Aufwärmen nutzen.",
                 "hu": "Használja a benti időt melegedésre.",
                 "ro": "Timp în interior pentru căldură.",
-                "en": "Use the time inside to warm up."
+                "en": "Use the time inside to warm up.",
+                "es": "Aprovecha el tiempo en el interior para entrar en calor."
               }
             },
             {
@@ -924,7 +991,8 @@
                 "de": "Vorsicht auf Kopfsteinpflaster.",
                 "hu": "Vigyázzon a macskaköveken.",
                 "ro": "Atenție pe piatra cubică.",
-                "en": "Be careful on the cobblestones."
+                "en": "Be careful on the cobblestones.",
+                "es": "Ten cuidado con el empedrado."
               }
             },
             {
@@ -933,7 +1001,8 @@
                 "de": "Wege können Pfützen bilden.",
                 "hu": "Az utakon tócsák lehetnek.",
                 "ro": "Potecile pot avea bălți.",
-                "en": "Paths may form puddles."
+                "en": "Paths may form puddles.",
+                "es": "Los senderos pueden formar charcos."
               }
             },
             {
@@ -942,7 +1011,8 @@
                 "de": "Langsam fahren; Laub ist rutschig.",
                 "hu": "Hajtson lassan, a levél csúszik.",
                 "ro": "Mergeți încet, frunzele alunecă.",
-                "en": "Ride slowly; leaves are slippery."
+                "en": "Ride slowly; leaves are slippery.",
+                "es": "Pedalea despacio; las hojas están resbaladizas."
               }
             },
             {
@@ -951,7 +1021,8 @@
                 "de": "Rad im Sichtbereich abstellen.",
                 "hu": "Hagyja a gépet látótávolságban.",
                 "ro": "Lăsați bicicleta la vedere.",
-                "en": "Park your bike within sight."
+                "en": "Park your bike within sight.",
+                "es": "Aparca la bici a la vista."
               }
             }
           ],
@@ -983,6 +1054,13 @@
               "mNACTEC is ideal for a rain break.",
               "Use the tunnels in the park.",
               "Clean your chain after the ride."
+            ],
+            "es": [
+              "Evita frenar sobre las marcas viales.",
+              "Usa alforjas impermeables.",
+              "El mNACTEC es ideal para refugiarse de la lluvia.",
+              "Utiliza los túneles del parque.",
+              "Limpia la cadena después del recorrido."
             ]
           }
         },
@@ -991,7 +1069,8 @@
             "de": "Morgen: Starten Sie bei kühlen Temperaturen an der Masia Freixa. Die Bewegung hält Sie warm. \n\nMittag: Nach dem mNACTEC-Besuch radeln Sie zum Markt für warme Snacks. \n\nNachmittag: Die Wintersonne im Park ist perfekt für eine zügige Fahrt, bevor es dunkel wird. \n\nAbend: Ein letzter Besuch der Seu d'Ègara, dann schnell zurück, bevor die Abendkälte einsetzt.",
             "hu": "Reggel: Induljon hűvös időben a Masia Freixától. A mozgás melegen tartja. \n\nDélben: A mNACTEC után tekerjen a piacra meleg falatokért. \n\nDélután: A téli nap a parkban tökéletes egy tempós tekeréshez sötétedés előtt. \n\nEste: Utolsó látogatás a Seu d'Ègara-hoz, majd vissza az esti fagy előtt.",
             "ro": "Dimineața: Plecare pe frig de la Masia Freixa. Mișcarea vă ține cald. \n\nPrânz: După mNACTEC spre piață pentru gustări calde. \n\nDupă-amiaza: Soare de iarnă în parc, perfect înainte de întuneric. \n\nSeara: Ultima vizită la Seu d'Ègara, apoi înapoi înainte de frig.",
-            "en": "Morning: Start in cool temperatures at Masia Freixa. Movement keeps you warm. \n\nMidday: After visiting mNACTEC, cycle to the market for warm snacks. \n\nAfternoon: The winter sun in the park is perfect for a brisk ride before dark. \n\nEvening: One last visit to Seu d'Ègara, then back quickly before the evening chill."
+            "en": "Morning: Start in cool temperatures at Masia Freixa. Movement keeps you warm. \n\nMidday: After visiting mNACTEC, cycle to the market for warm snacks. \n\nAfternoon: The winter sun in the park is perfect for a brisk ride before dark. \n\nEvening: One last visit to Seu d'Ègara, then back quickly before the evening chill.",
+            "es": "Mañana: Comienza con temperaturas frescas en la Masia Freixa. El movimiento te mantiene caliente. \n\nMediodía: Tras visitar el mNACTEC, pedalea hasta el mercado por bocadillos calentitos. \n\nTarde: El sol invernal en el parque es perfecto para una vuelta enérgica antes del anochecer. \n\nNoche: Una última visita a la Seu d'Ègara y regreso rápido antes del frío nocturno."
           },
           "stops": [
             {
@@ -1000,7 +1079,8 @@
                 "de": "Warme Handschuhe tragen.",
                 "hu": "Viseljen meleg kesztyűt.",
                 "ro": "Purtați mănuși călduroase.",
-                "en": "Wear warm gloves."
+                "en": "Wear warm gloves.",
+                "es": "Lleva guantes calientes."
               }
             },
             {
@@ -1009,7 +1089,8 @@
                 "de": "Museum zum Aufwärmen nutzen.",
                 "hu": "Használja a múzeumot melegedésre.",
                 "ro": "Folosiți muzeul pentru încălzire.",
-                "en": "Use the museum to warm up."
+                "en": "Use the museum to warm up.",
+                "es": "Usa el museo para entrar en calor."
               }
             },
             {
@@ -1018,7 +1099,8 @@
                 "de": "Heißer Kaffee gegen die Kälte.",
                 "hu": "Forró kávé a hideg ellen.",
                 "ro": "O cafea fierbinte contra frigului.",
-                "en": "Hot coffee works against the cold."
+                "en": "Hot coffee works against the cold.",
+                "es": "Un café caliente ayuda contra el frío."
               }
             },
             {
@@ -1027,7 +1109,8 @@
                 "de": "Sonne scheint mittags auf Fassade.",
                 "hu": "A nap délben a homlokzatra süt.",
                 "ro": "Soarele bate pe fațadă la prânz.",
-                "en": "Sun shines on the facade at noon."
+                "en": "Sun shines on the facade at noon.",
+                "es": "El sol incide en la fachada al mediodía."
               }
             },
             {
@@ -1036,7 +1119,8 @@
                 "de": "Klare Fernsicht im Winter.",
                 "hu": "Tiszta kilátás télen.",
                 "ro": "Vizibilitate clară iarna.",
-                "en": "Clear distant views in winter."
+                "en": "Clear distant views in winter.",
+                "es": "Vistas lejanas y claras en invierno."
               }
             },
             {
@@ -1045,7 +1129,8 @@
                 "de": "Besuch vor 16 Uhr planen.",
                 "hu": "Tervezze a látogatást 16 óra elé.",
                 "ro": "Vizitați înainte de ora 16.",
-                "en": "Plan your visit before 4 PM."
+                "en": "Plan your visit before 4 PM.",
+                "es": "Planifica la visita antes de las 16:00."
               }
             },
             {
@@ -1054,7 +1139,8 @@
                 "de": "Beleuchtung prüfen.",
                 "hu": "Ellenőrizze a világítást.",
                 "ro": "Verificați luminile.",
-                "en": "Check your lights."
+                "en": "Check your lights.",
+                "es": "Revisa tus luces."
               }
             },
             {
@@ -1063,7 +1149,8 @@
                 "de": "Stimmungsvoll in blauer Stunde.",
                 "hu": "Hangulatos a kék órában.",
                 "ro": "Atmosferic în ora albastră.",
-                "en": "Atmospheric in the blue hour."
+                "en": "Atmospheric in the blue hour.",
+                "es": "Atmosférico durante la hora azul."
               }
             }
           ],
@@ -1095,6 +1182,13 @@
               "Lights mandatory after 5 PM.",
               "Park paths usually dry.",
               "Hot tea recommended."
+            ],
+            "es": [
+              "Usa gafas de sol.",
+              "Viste ropa cortaviento.",
+              "Luces obligatorias después de las 17:00.",
+              "Los caminos del parque suelen estar secos.",
+              "Se recomienda té caliente."
             ]
           }
         }
@@ -1124,7 +1218,8 @@
             "de": "Parken Sie am Rande des Parc de Sant Jordi.",
             "hu": "Parkoljon le a Sant Jordi park körüli utcákban.",
             "ro": "Parcați la marginea parcului Sant Jordi.",
-            "en": "Park near the edges of Parc de Sant Jordi."
+            "en": "Park near the edges of Parc de Sant Jordi.",
+            "es": "Aparca cerca de los laterales del Parc de Sant Jordi."
           }
         },
         {
@@ -1143,7 +1238,8 @@
             "de": "Spazieren Sie vom Parkhaus zu diesem riesigen Technikmuseum.",
             "hu": "A parkolóból egy rövid sétával elérhető a lenyűgöző ipari múzeum.",
             "ro": "Plimbați-vă de la parcare la acest imens muzeu al tehnologiei.",
-            "en": "Walk from your parking spot to this massive technology museum."
+            "en": "Walk from your parking spot to this massive technology museum.",
+            "es": "Camina desde tu aparcamiento hasta este enorme museo de tecnología."
           }
         },
         {
@@ -1162,7 +1258,8 @@
             "de": "Ideal für ein schnelles, authentisches Mittagessen.",
             "hu": "Ideális egy gyors, autentikus katalán ebédhez.",
             "ro": "Ideal pentru un prânz rapid și autentic.",
-            "en": "Ideal for a quick, authentic Catalan lunch."
+            "en": "Ideal for a quick, authentic Catalan lunch.",
+            "es": "Ideal para un almuerzo catalán rápido y auténtico."
           }
         },
         {
@@ -1181,7 +1278,8 @@
             "de": "Weiter zu Fuß durch die Altstadt zu diesem herrschaftlichen Haus.",
             "hu": "Sétáljon tovább az óvárosban ehhez a polgári palotához.",
             "ro": "Continuați pe jos prin orașul vechi până la această casă impunătoare.",
-            "en": "Walk further through the old town to this stately home."
+            "en": "Walk further through the old town to this stately home.",
+            "es": "Camina más allá por el casco antiguo hasta esta señorial casa."
           }
         },
         {
@@ -1200,7 +1298,8 @@
             "de": "Fahren Sie zum nächsten Cluster und parken Sie am Rand des Parks.",
             "hu": "Autózzon át a Vallparadís parkhoz, és hagyja ott a kocsit a délutáni túrára.",
             "ro": "Conduceți spre următorul cluster și parcați la marginea parcului.",
-            "en": "Drive to the next cluster and park at the edge of the large urban park."
+            "en": "Drive to the next cluster and park at the edge of the large urban park.",
+            "es": "Conduce hasta el siguiente conjunto y aparca en el borde del gran parque urbano."
           }
         },
         {
@@ -1219,7 +1318,8 @@
             "de": "Die Burg liegt direkt im Parkgebiet.",
             "hu": "A középkori vár kényelmesen elérhető a parkban sétálva.",
             "ro": "Castelul este situat chiar în zona parcului.",
-            "en": "The castle is conveniently located within the park."
+            "en": "The castle is conveniently located within the park.",
+            "es": "El castillo está convenientemente situado dentro del parque."
           }
         },
         {
@@ -1238,7 +1338,8 @@
             "de": "Ein Spaziergang zurück in Richtung Zentrum.",
             "hu": "Sétáljon a régi várkastély megmaradt tornyához.",
             "ro": "O plimbare înapoi spre centru către turn.",
-            "en": "A walk back towards the center to see this historic tower."
+            "en": "A walk back towards the center to see this historic tower.",
+            "es": "Camina de regreso hacia el centro para ver esta torre histórica."
           }
         },
         {
@@ -1257,7 +1358,8 @@
             "de": "Nehmen Sie das Auto zum nördlichen Komplex der alten Kirchen.",
             "hu": "Guruljon át az autóval az északabbra fekvő ősi templomegyütteshez.",
             "ro": "Luați mașina spre complexul nordic de biserici vechi.",
-            "en": "Drive slightly north to visit the ancient church complex."
+            "en": "Drive slightly north to visit the ancient church complex.",
+            "es": "Conduce un poco hacia el norte para visitar el antiguo complejo de la iglesia."
           }
         }
       ],
@@ -1265,7 +1367,8 @@
         "de": "Der Tag ist in Cluster aufgeteilt. Zuerst parken Sie nahe der Masia Freixa und erkunden das Industrie-Erbe und die Markthalle zu Fuß. Nachmittags fahren Sie zum Parc de Vallparadís, parken dort und spazieren zur alten Burg. Abschließend bringt Sie das Auto zum monumentalen Seu d'Ègara.",
         "hu": "A nap során klaszterekben fedezzük fel a várost. Először a Masia Freixa közelében parkolva gyalogosan járja be a szecessziós központot és a piacot. Délután átautózik a hatalmas Vallparadís parkhoz, hogy felsétáljon a várhoz, végül kocsival teszi meg a távot a páratlan ókeresztény templomegyüttesig, a Seu d'Ègaráig.",
         "ro": "Ziua este împărțită în clustere. Mai întâi, parcați lângă Masia Freixa și explorați pe jos patrimoniul industrial și piața. După-amiaza, conduceți spre parcul Vallparadís, parcați acolo și mergeți pe jos până la castelul vechi. La final, mașina vă duce la complexul monumental Seu d'Ègara.",
-        "en": "The day is structured in driving clusters. First, park near Masia Freixa and explore the modernist center, museum, and market on foot. In the afternoon, drive to the expansive Parc de Vallparadís to walk up to the medieval castle. Finally, drive to the remarkable Seu d'Ègara church complex."
+        "en": "The day is structured in driving clusters. First, park near Masia Freixa and explore the modernist center, museum, and market on foot. In the afternoon, drive to the expansive Parc de Vallparadís to walk up to the medieval castle. Finally, drive to the remarkable Seu d'Ègara church complex.",
+        "es": "El día se estructura en clusters de conducción. Primero, aparca cerca de la Masia Freixa y explora a pie el centro modernista, el museo y el mercado. Por la tarde, conduce hasta el amplio Parc de Vallparadís para subir al castillo medieval. Finalmente, conduce hasta el notable conjunto de la Seu d'Ègara."
       },
       "gastro_picks": {
         "de": [
@@ -1409,6 +1512,12 @@
           "Use underground parking garages near the pedestrian zones.",
           "Within each cluster, exploring on foot is the easiest and most rewarding way.",
           "Pay attention to the network of one-way streets in the old town."
+        ],
+        "es": [
+          "Conducir entre conjuntos ahorra tiempo y energía.",
+          "Usa aparcamientos subterráneos cerca de las zonas peatonales.",
+          "Dentro de cada cluster, explorar a pie es la forma más fácil y gratificante.",
+          "Presta atención a la red de calles de sentido único en el casco antiguo."
         ]
       },
       "variants": {
@@ -1417,7 +1526,8 @@
             "de": "Morgen: Direkt zur Masia Freixa fahren. Dank Parkplätzen bleiben Sie trocken. \n\nMittag: Nutzen Sie Parkhäuser im Zentrum für mNACTEC und den Markt. \n\nNachmittag: Das Auto bringt Sie bequem zum Castell, ohne lange Wege im Regen. \n\nAbend: Ein kurzer Hopser zur Seu d'Ègara beendet die Tour komfortabel und geschützt.",
             "hu": "Reggel: Hajtson a Masia Freixához. A közeli parkolók szárazon tartják. \n\nDélben: Belvárosi parkolóházak a mNACTEC-hez és a piachoz. \n\nDélután: Az autó kényelmesen a várba viszi esős séták nélkül. \n\nEste: Rövid autózás a Seu d'Ègara-hoz kényelmesen és védve zárja a napot.",
             "ro": "Dimineața: Conduceți la Masia Freixa. Parcările vă țin uscat. \n\nPrânz: Parcare centrală pentru mNACTEC și piață. \n\nDupă-amiaza: Mașina vă duce la castel fără plimbări în ploaie. \n\nSeara: O scurtă deplasare la Seu d'Ègara încheie ziua confortabil.",
-            "en": "Morning: Drive to Masia Freixa. Nearby parking keeps you dry. \n\nMidday: Use parking garages for mNACTEC and the market. \n\nAfternoon: The car takes you to the castle without long rainy walks. \n\nEvening: A short hop to Seu d'Ègara ends the day comfortably and protected."
+            "en": "Morning: Drive to Masia Freixa. Nearby parking keeps you dry. \n\nMidday: Use parking garages for mNACTEC and the market. \n\nAfternoon: The car takes you to the castle without long rainy walks. \n\nEvening: A short hop to Seu d'Ègara ends the day comfortably and protected.",
+            "es": "Mañana: Conduce hasta la Masia Freixa. El aparcamiento cercano te mantiene seco. \n\nMediodía: Usa aparcamientos para mNACTEC y el mercado. \n\nTarde: El coche te lleva al castillo sin largas caminatas bajo la lluvia. \n\nNoche: Un corto desplazamiento a la Seu d'Ègara termina el día cómodamente y protegido."
           },
           "stops": [
             {
@@ -1426,7 +1536,8 @@
                 "de": "Parken Carrer de Galileu.",
                 "hu": "Parkolás a Galileu utcán.",
                 "ro": "Parcare pe Carrer de Galileu.",
-                "en": "Parking on Carrer de Galileu."
+                "en": "Parking on Carrer de Galileu.",
+                "es": "Aparcamiento en Carrer de Galileu."
               }
             },
             {
@@ -1435,7 +1546,8 @@
                 "de": "SABA-Parkhaus Progrés nutzen.",
                 "hu": "Progrés SABA parkoló.",
                 "ro": "Parcare SABA Progrés.",
-                "en": "Use SABA Progrés parking."
+                "en": "Use SABA Progrés parking.",
+                "es": "Usa el aparcamiento SABA Progrés."
               }
             },
             {
@@ -1444,7 +1556,8 @@
                 "de": "Kurze Wege in die Halle.",
                 "hu": "Rövid út a csarnokba.",
                 "ro": "Drum scurt spre hală.",
-                "en": "Short path into the hall."
+                "en": "Short path into the hall.",
+                "es": "Camino corto hacia el vestíbulo."
               }
             },
             {
@@ -1453,7 +1566,8 @@
                 "de": "Zentral parken.",
                 "hu": "Parkoljon központilag.",
                 "ro": "Parcați central.",
-                "en": "Park centrally."
+                "en": "Park centrally.",
+                "es": "Aparca en el centro."
               }
             },
             {
@@ -1462,7 +1576,8 @@
                 "de": "Nicht unter Bäumen parken.",
                 "hu": "Ne parkoljon fák alatt.",
                 "ro": "Nu parcați sub copaci.",
-                "en": "Do not park under trees."
+                "en": "Do not park under trees.",
+                "es": "No aparques bajo los árboles."
               }
             },
             {
@@ -1471,7 +1586,8 @@
                 "de": "Parken oberhalb des Schlosses.",
                 "hu": "Parkolás a vár felett.",
                 "ro": "Parcare deasupra castelului.",
-                "en": "Parking above the castle."
+                "en": "Parking above the castle.",
+                "es": "Aparcamiento por encima del castillo."
               }
             },
             {
@@ -1480,7 +1596,8 @@
                 "de": "Zentrum teils Fußgängerzone.",
                 "hu": "A központ részben sétáló.",
                 "ro": "Centru parțial pietonal.",
-                "en": "Center partly pedestrianized."
+                "en": "Center partly pedestrianized.",
+                "es": "Centro parcialmente peatonalizado."
               }
             },
             {
@@ -1489,7 +1606,8 @@
                 "de": "Parkplatz direkt davor.",
                 "hu": "Parkoló közvetlenül előtte.",
                 "ro": "Parcare chiar în față.",
-                "en": "Parking right in front."
+                "en": "Parking right in front.",
+                "es": "Aparcamiento justo enfrente."
               }
             }
           ],
@@ -1521,6 +1639,13 @@
               "Parking garages fill up fast.",
               "mNACTEC has no own parking.",
               "Watch for one-way streets."
+            ],
+            "es": [
+              "Usa la app SABA.",
+              "Visibilidad limitada con lluvia.",
+              "Los aparcamientos se llenan rápido.",
+              "mNACTEC no tiene aparcamiento propio.",
+              "Atento a las calles de sentido único."
             ]
           }
         },
@@ -1529,7 +1654,8 @@
             "de": "Morgen: Entspannt an der Masia Freixa starten. Autoheizung wärmt. \n\nMittag: mNACTEC und Markt ohne Kälte besuchen. \n\nNachmittag: Fahrt zum Schloss ideal für weite Ausblicke. \n\nAbend: Seu d'Ègara in der Dämmerung stressfrei mit dem Auto.",
             "hu": "Reggel: Kényelmes kezdés a Masia Freixánál fűtéssel. \n\nDélben: mNACTEC és piac hideg nélkül. \n\nDélután: Út a várhoz ideális a kilátáshoz. \n\nEste: Seu d'Ègara szürkületben autóval stresszmentes.",
             "ro": "Dimineața: Start relaxat la Masia Freixa cu căldură. \n\nPrânz: mNACTEC și piața fără frig. \n\nDupă-amiaza: Drum spre castel ideal pentru vederi. \n\nSeara: Seu d'Ègara în amurg cu mașina.",
-            "en": "Morning: Relaxed start at Masia Freixa with heating. \n\nMidday: mNACTEC and market without the cold. \n\nAfternoon: Drive to the castle ideal for views. \n\nEvening: Seu d'Ègara at twilight by car."
+            "en": "Morning: Relaxed start at Masia Freixa with heating. \n\nMidday: mNACTEC and market without the cold. \n\nAfternoon: Drive to the castle ideal for views. \n\nEvening: Seu d'Ègara at twilight by car.",
+            "es": "Mañana: Inicio relajado en la Masia Freixa con calefacción. \n\nMediodía: mNACTEC y mercado sin frío. \n\nTarde: Conduce al castillo, ideal para vistas. \n\nNoche: Seu d'Ègara al anochecer en coche."
           },
           "stops": [
             {
@@ -1538,7 +1664,8 @@
                 "de": "Blick aus dem warmen Auto.",
                 "hu": "Látvány a meleg autóból.",
                 "ro": "Vedere din mașina caldă.",
-                "en": "View from the warm car."
+                "en": "View from the warm car.",
+                "es": "Vista desde el coche caliente."
               }
             },
             {
@@ -1547,7 +1674,8 @@
                 "de": "Parkhaus 2 Min. weg.",
                 "hu": "Parkoló 2 percre.",
                 "ro": "Parcare la 2 min.",
-                "en": "Parking 2 min away."
+                "en": "Parking 2 min away.",
+                "es": "Aparcamiento a 2 min."
               }
             },
             {
@@ -1556,7 +1684,8 @@
                 "de": "Halle angenehm temperiert.",
                 "hu": "Kellemes a hőmérséklet.",
                 "ro": "Temperatură plăcută în hală.",
-                "en": "Pleasant temperature in hall."
+                "en": "Pleasant temperature in hall.",
+                "es": "Temperatura agradable en el vestíbulo."
               }
             },
             {
@@ -1565,7 +1694,8 @@
                 "de": "Zentral parken.",
                 "hu": "Parkoljon központilag.",
                 "ro": "Parcați central.",
-                "en": "Park centrally."
+                "en": "Park centrally.",
+                "es": "Aparca en el centro."
               }
             },
             {
@@ -1574,7 +1704,8 @@
                 "de": "Gute Sicht vom Parkende.",
                 "hu": "Jó kilátás a park végéből.",
                 "ro": "Vedere bună din capătul parcului.",
-                "en": "Good view from park end."
+                "en": "Good view from park end.",
+                "es": "Buena vista desde el extremo del parque."
               }
             },
             {
@@ -1583,7 +1714,8 @@
                 "de": "Ideal für Winterlicht-Fotos.",
                 "hu": "Ideális téli fotókhoz.",
                 "ro": "Ideal pentru poze de iarnă.",
-                "en": "Ideal for winter photos."
+                "en": "Ideal for winter photos.",
+                "es": "Ideal para fotos de invierno."
               }
             },
             {
@@ -1592,7 +1724,8 @@
                 "de": "Außerhalb blauer Zone parken.",
                 "hu": "Parkoljon kék zónán kívül.",
                 "ro": "Parcați în afara zonei albastre.",
-                "en": "Park outside blue zone."
+                "en": "Park outside blue zone.",
+                "es": "Aparca fuera de la zona azul."
               }
             },
             {
@@ -1601,7 +1734,8 @@
                 "de": "Heizung auf Rückweg genießen.",
                 "hu": "Fűtés a visszaúton.",
                 "ro": "Căldură la întoarcere.",
-                "en": "Enjoy heating on return."
+                "en": "Enjoy heating on return.",
+                "es": "Disfruta de la calefacción al volver."
               }
             }
           ],
@@ -1633,6 +1767,13 @@
               "Views are clearest now.",
               "Car for changing clothes.",
               "Check tire pressure."
+            ],
+            "es": [
+              "Escarcha matinal posible.",
+              "SABA protege de la lluvia.",
+              "Las vistas están más claras ahora.",
+              "Coche para cambiar de ropa.",
+              "Revisa la presión de los neumáticos."
             ]
           }
         }
@@ -1662,7 +1803,8 @@
             "de": "Nehmen Sie den Bus bis in die Nähe des Parc de Sant Jordi.",
             "hu": "Busszal könnyen megközelíthető a Sant Jordi park bejárata.",
             "ro": "Luați autobuzul până aproape de parcul Sant Jordi.",
-            "en": "Take the bus close to the entrance of Parc de Sant Jordi."
+            "en": "Take the bus close to the entrance of Parc de Sant Jordi.",
+            "es": "Toma el autobús cerca de la entrada del Parc de Sant Jordi."
           }
         },
         {
@@ -1681,7 +1823,8 @@
             "de": "Ein kurzer Fußweg vom Park zum Museum.",
             "hu": "Egy rövid sétára van a parktól a látványos múzeumépület.",
             "ro": "O scurtă plimbare de la parc la muzeu.",
-            "en": "A short walk from the park to this massive museum."
+            "en": "A short walk from the park to this massive museum.",
+            "es": "A poca distancia a pie desde el parque hasta este museo monumental."
           }
         },
         {
@@ -1700,7 +1843,8 @@
             "de": "Das Zentrum ist sehr fußgängerfreundlich.",
             "hu": "A belváros nagyon sétálóbarát, minden közel van.",
             "ro": "Centrul este foarte prietenos pentru pietoni.",
-            "en": "The city center is highly pedestrian-friendly."
+            "en": "The city center is highly pedestrian-friendly.",
+            "es": "El centro de la ciudad es muy amigable para peatones."
           }
         },
         {
@@ -1719,7 +1863,8 @@
             "de": "Mitten im historischen Shopping-Viertel gelegen.",
             "hu": "A történelmi bevásárlónegyed közepén található.",
             "ro": "Situată în mijlocul cartierului comercial istoric.",
-            "en": "Located right in the middle of the historic shopping district."
+            "en": "Located right in the middle of the historic shopping district.",
+            "es": "Situado en pleno distrito histórico de compras."
           }
         },
         {
@@ -1738,7 +1883,8 @@
             "de": "Nur wenige Schritte von der Casa Alegre entfernt.",
             "hu": "Csak néhány lépésre a Casa Alegre palotájától.",
             "ro": "La doar câțiva pași de Casa Alegre.",
-            "en": "Just a few steps away from the Casa Alegre."
+            "en": "Just a few steps away from the Casa Alegre.",
+            "es": "A pocos pasos de la Casa Alegre."
           }
         },
         {
@@ -1757,7 +1903,8 @@
             "de": "Nehmen Sie einen kurzen Bus-Hop zum Park, um sich Wege zu sparen.",
             "hu": "Egy rövid buszozással kímélheti a lábát a parkig.",
             "ro": "Faceți o scurtă călătorie cu autobuzul până la parc pentru a economisi energie.",
-            "en": "Take a short bus hop to the park to save some walking energy."
+            "en": "Take a short bus hop to the park to save some walking energy.",
+            "es": "Toma un corto trayecto en autobús al parque para ahorrar caminata."
           }
         },
         {
@@ -1776,7 +1923,8 @@
             "de": "Die Burg befindet sich direkt im Gelände des Parks.",
             "hu": "A vár a park területén belül helyezkedik el, kellemes zöld környezetben.",
             "ro": "Castelul este situat chiar în incinta parcului.",
-            "en": "The castle is located right within the green grounds of the park."
+            "en": "The castle is located right within the green grounds of the park.",
+            "es": "El castillo se encuentra dentro de los terrenos verdes del parque."
           }
         },
         {
@@ -1795,7 +1943,8 @@
             "de": "Der Bus FGC verbindet das Zentrum gut mit diesem nördlichen Kirchenkomplex.",
             "hu": "A helyi FGC vonat vagy busz jól összeköti a központot ezzel az északi templomegyüttessel.",
             "ro": "Trenul local sau autobuzul conectează bine centrul cu acest complex nordic.",
-            "en": "Local transit easily connects the center with this northern church complex."
+            "en": "Local transit easily connects the center with this northern church complex.",
+            "es": "El transporte local conecta fácilmente el centro con este complejo de iglesias al norte."
           }
         }
       ],
@@ -1803,7 +1952,8 @@
         "de": "Nutzen Sie den Nahverkehr, um von Ihrem Startpunkt zur Masia Freixa zu gelangen. Danach erkunden Sie das sehr kompakte und fußgängerfreundliche Zentrum, das Museum und den Markt zu Fuß. Später bringt Sie der Bus entspannt zum Parc de Vallparadís. Den krönenden Abschluss bildet eine kurze Fahrt in den Norden zur faszinierenden Seu d'Ègara.",
         "hu": "A tömegközlekedés használatával kényelmesen eljuthat a Masia Freixa épületéhez. Ezután a belvárost és a lenyűgöző ipari múzeumot gyalogosan érdemes bejárni, mivel minden közel van. Később egy busz vagy helyi vonat viszi el a kiterjedt Vallparadís parkba és a várhoz. A napot az északra lévő, ókeresztény Seu d'Ègara együttesnél zárja.",
         "ro": "Folosiți transportul public pentru a ajunge de la punctul de plecare la Masia Freixa. După aceea, explorați pe jos centrul foarte compact, muzeul și piața. Mai târziu, un autobuz vă duce confortabil la parcul Vallparadís. Ziua se încheie cu o scurtă călătorie spre nord până la fascinantul complex Seu d'Ègara.",
-        "en": "Use public transit to reach your starting point at Masia Freixa. Afterwards, you can easily explore the very walkable historic center, the museum, and the market on foot. Later, a short bus ride will take you to the expansive Parc de Vallparadís. Finish your day with a transit hop north to the fascinating Seu d'Ègara complex."
+        "en": "Use public transit to reach your starting point at Masia Freixa. Afterwards, you can easily explore the very walkable historic center, the museum, and the market on foot. Later, a short bus ride will take you to the expansive Parc de Vallparadís. Finish your day with a transit hop north to the fascinating Seu d'Ègara complex.",
+        "es": "Usa el transporte público para llegar a la Masia Freixa como punto de partida. Después, puedes explorar a pie el centro histórico, el museo y el mercado, muy transitable. Más tarde, un corto trayecto en autobús te llevará al amplio Parc de Vallparadís. Termina el día con un desplazamiento en transporte público al norte hasta el fascinante conjunto de la Seu d'Ègara."
       },
       "gastro_picks": {
         "de": [
@@ -1927,6 +2077,12 @@
           "The historic center is so compact that you won't need transit there.",
           "FGC trains are not only good for arriving from Barcelona, but also for getting around.",
           "Consider a day pass (T-Dia) if you plan on hopping on and off frequently."
+        ],
+        "es": [
+          "La red de autobuses de Terrassa es fiable y cubre los principales puntos de interés.",
+          "El casco histórico es tan compacto que no necesitarás transporte allí.",
+          "Los trenes FGC no solo son buenos para llegar desde Barcelona, sino también para moverse por la ciudad.",
+          "Considera un bono de día (T-Dia) si planeas subir y bajar con frecuencia."
         ]
       },
       "variants": {
@@ -1935,7 +2091,8 @@
             "de": "Morgen: FGC-Bahn bis Terrassa Rambla nutzen. Trocken zur Masia Freixa. \n\nMittag: Busse verbinden mNACTEC-Markt; kaum Regenstehen. \n\nNachmittag: Station Vallparadís direkt zum Park. \n\nAbend: Bus zur Seu d'Ègara und zurück Bahnhof.",
             "hu": "Reggel: FGC vonat Terrassa Rambla-ig. Szárazon a Masia Freixához. \n\nDélben: Buszok mNACTEC és piac között eső nélkül. \n\nDélután: Vallparadís állomás közvetlenül a parkhoz. \n\nEste: Busz a Seu d'Ègara-hoz és vissza.",
             "ro": "Dimineața: Tren FGC la Terrassa Rambla. Uscat la Masia Freixa. \n\nPrânz: Autobuz între mNACTEC și piață. \n\nDupă-amiaza: Stația Vallparadís direct la parc. \n\nSeara: Autobuz la Seu d'Ègara și retur.",
-            "en": "Morning: FGC train to Terrassa Rambla. Dry to Masia Freixa. \n\nMidday: Buses between mNACTEC and market. \n\nAfternoon: Vallparadís station directly to the park. \n\nEvening: Bus to Seu d'Ègara and back."
+            "en": "Morning: FGC train to Terrassa Rambla. Dry to Masia Freixa. \n\nMidday: Buses between mNACTEC and market. \n\nAfternoon: Vallparadís station directly to the park. \n\nEvening: Bus to Seu d'Ègara and back.",
+            "es": "Mañana: Tren FGC hasta Terrassa Rambla. Seco hasta la Masia Freixa. \n\nMediodía: Autobuses entre mNACTEC y el mercado. \n\nTarde: La estación Vallparadís directamente al parque. \n\nNoche: Autobús a la Seu d'Ègara y regreso."
           },
           "stops": [
             {
@@ -1944,7 +2101,8 @@
                 "de": "5 Min. von Terrassa Rambla.",
                 "hu": "5 percre Terrassa Rambla-tól.",
                 "ro": "5 min de Terrassa Rambla.",
-                "en": "5 min from Terrassa Rambla."
+                "en": "5 min from Terrassa Rambla.",
+                "es": "A 5 min de Terrassa Rambla."
               }
             },
             {
@@ -1953,7 +2111,8 @@
                 "de": "Bus L1 oder L5 nutzen.",
                 "hu": "L1 vagy L5 busz.",
                 "ro": "Autobuz L1 sau L5.",
-                "en": "Use bus L1 or L5."
+                "en": "Use bus L1 or L5.",
+                "es": "Usa el autobús L1 o L5."
               }
             },
             {
@@ -1962,7 +2121,8 @@
                 "de": "Direkt an der Busroute.",
                 "hu": "Közvetlenül a buszvonalon.",
                 "ro": "Direct pe ruta autobuzului.",
-                "en": "Directly on bus route."
+                "en": "Directly on bus route.",
+                "es": "Directamente en la ruta de autobús."
               }
             },
             {
@@ -1971,7 +2131,8 @@
                 "de": "Kurze Wege zwischen Stopps.",
                 "hu": "Rövid utak a megállók közt.",
                 "ro": "Distanțe scurte între stații.",
-                "en": "Short paths between stops."
+                "en": "Short paths between stops.",
+                "es": "Caminos cortos entre paradas."
               }
             },
             {
@@ -1980,7 +2141,8 @@
                 "de": "Im Café auf Bus warten.",
                 "hu": "Várja a buszt kávézóban.",
                 "ro": "Așteptați în cafenea.",
-                "en": "Wait for bus in a café."
+                "en": "Wait for bus in a café.",
+                "es": "Espera el autobús en una cafetería."
               }
             },
             {
@@ -1989,7 +2151,8 @@
                 "de": "FGC-Station bietet Schutz.",
                 "hu": "FGC állomás védelmet nyújt.",
                 "ro": "Stația FGC oferă protecție.",
-                "en": "FGC station offers shelter."
+                "en": "FGC station offers shelter.",
+                "es": "La estación FGC ofrece refugio."
               }
             },
             {
@@ -1998,7 +2161,8 @@
                 "de": "Metro-Aufzug nutzen.",
                 "hu": "Használja a metróliftet.",
                 "ro": "Folosiți liftul de metrou.",
-                "en": "Use the metro elevator."
+                "en": "Use the metro elevator.",
+                "es": "Usa el ascensor del metro."
               }
             },
             {
@@ -2007,7 +2171,8 @@
                 "de": "Bus L1 hält fast vor Tor.",
                 "hu": "L1 szinte a kapuban áll meg.",
                 "ro": "L1 oprește aproape la poartă.",
-                "en": "L1 stops almost at gate."
+                "en": "L1 stops almost at gate.",
+                "es": "La L1 para casi en la puerta."
               }
             }
           ],
@@ -2039,6 +2204,13 @@
               "Slight bus delays in rain.",
               "Day ticket is worth it.",
               "Wait inside stations."
+            ],
+            "es": [
+              "Usa la app T-Mobilitat.",
+              "Las estaciones son subterráneas.",
+              "Ligeros retrasos de autobús con lluvia.",
+              "El billete de día merece la pena.",
+              "Espera dentro de las estaciones."
             ]
           }
         },
@@ -2047,7 +2219,8 @@
             "de": "Morgen: In beheizten Zügen starten. Warmer Beginn. \n\nMittag: Busse schnell mNACTEC-Markt ohne Kälte. \n\nAfternoon: Station Vallparadís warmer Hub. \n\nAbend: ÖPNV für bequemen Rückweg.",
             "hu": "Reggel: fűtött vonatokkal kezdés. Meleg indulás. \n\nDélben: Buszok mNACTEC és piac között hideg nélkül. \n\nDélután: Vallparadís állomás meleg központ. \n\nEste: Tömegközlekedés a kényelmes visszaúthoz.",
             "ro": "Dimineața: Start în trenuri încălzite. Început cald. \n\nPrânz: Autobuze între mNACTEC și piață fără frig. \n\nDupă-amiaza: Stația Vallparadís nod cald. \n\nSeara: Transport public pentru retur.",
-            "en": "Morning: Start in heated trains. Warm beginning. \n\nMidday: Buses between mNACTEC and market without cold. \n\nAfternoon: Vallparadís station warm hub. \n\nEvening: Public transit for easy return."
+            "en": "Morning: Start in heated trains. Warm beginning. \n\nMidday: Buses between mNACTEC and market without cold. \n\nAfternoon: Vallparadís station warm hub. \n\nEvening: Public transit for easy return.",
+            "es": "Mañana: Empieza en trenes calefactados. Comienzo cálido. \n\nMediodía: Autobuses entre mNACTEC y el mercado sin frío. \n\nTarde: La estación Vallparadís es un núcleo cálido. \n\nNoche: Transporte público para el regreso fácil."
           },
           "stops": [
             {
@@ -2056,7 +2229,8 @@
                 "de": "Bahnstation schützt vor Wind.",
                 "hu": "Állomás véd a széltől.",
                 "ro": "Gara protejează de vânt.",
-                "en": "Station protects from wind."
+                "en": "Station protects from wind.",
+                "es": "La estación protege del viento."
               }
             },
             {
@@ -2065,7 +2239,8 @@
                 "de": "Busse gut beheizt.",
                 "hu": "Jól fűtött buszok.",
                 "ro": "Autobuze bine încălzite.",
-                "en": "Well-heated buses."
+                "en": "Well-heated buses.",
+                "es": "Autobuses bien calefactados."
               }
             },
             {
@@ -2074,7 +2249,8 @@
                 "de": "Kurzer Weg ins Warme.",
                 "hu": "Rövid út a melegbe.",
                 "ro": "Drum scurt la căldură.",
-                "en": "Short path into warmth."
+                "en": "Short path into warmth.",
+                "es": "Camino corto hacia el calor."
               }
             },
             {
@@ -2083,7 +2259,8 @@
                 "de": "Bus spart Energie.",
                 "hu": "Busz energiát spórol.",
                 "ro": "Autobuzul economisește.",
-                "en": "Bus saves energy."
+                "en": "Bus saves energy.",
+                "es": "El autobús ahorra energía."
               }
             },
             {
@@ -2092,7 +2269,8 @@
                 "de": "Kurze Wartezeiten.",
                 "hu": "Rövid várakozás.",
                 "ro": "Așteptare scurtă.",
-                "en": "Short waiting times."
+                "en": "Short waiting times.",
+                "es": "Tiempos de espera cortos."
               }
             },
             {
@@ -2101,7 +2279,8 @@
                 "de": "Unterirdische Station warm.",
                 "hu": "Földalatti állomás meleg.",
                 "ro": "Stație subterană caldă.",
-                "en": "Underground station warm."
+                "en": "Underground station warm.",
+                "es": "Estación subterránea cálida."
               }
             },
             {
@@ -2110,7 +2289,8 @@
                 "de": "Zugige Stopps meiden.",
                 "hu": "Huzatos helyek kerülése.",
                 "ro": "Evitați stațiile cu curent.",
-                "en": "Avoid draughty stops."
+                "en": "Avoid draughty stops.",
+                "es": "Evita paradas con corrientes de aire."
               }
             },
             {
@@ -2119,7 +2299,8 @@
                 "de": "Menetrend ellenőrzése.",
                 "hu": "Menetrend ellenőrzése.",
                 "ro": "Verificați orarul.",
-                "en": "Check the schedule."
+                "en": "Check the schedule.",
+                "es": "Consulta el horario."
               }
             }
           ],
@@ -2151,6 +2332,13 @@
               "Heating for warming up.",
               "Dark at 17:30.",
               "Tickets at machines."
+            ],
+            "es": [
+              "Horario regular de invierno.",
+              "Wi-Fi en las estaciones.",
+              "Calefacción para entrar en calor.",
+              "Oscurece a las 17:30.",
+              "Billetes en las máquinas."
             ]
           }
         }

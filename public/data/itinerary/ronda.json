@@ -21,7 +21,8 @@
             "de": "Alameda del Tajo",
             "hu": "Alameda del Tajo park",
             "ro": "Alameda del Tajo",
-            "en": "Alameda del Tajo"
+            "en": "Alameda del Tajo",
+            "es": "Alameda del Tajo"
           },
           "coords": [
             -5.167,
@@ -36,7 +37,8 @@
             "de": "Spazieren Sie zum Rand für den ersten Panoramablick auf die andalusische Landschaft.",
             "hu": "Sétáljon ki a szikla szélére az első panorámás kilátásért az andalúz vidékre.",
             "ro": "Mergeți până la marginea stâncii pentru prima vedere panoramică asupra câmpiei andaluze.",
-            "en": "Walk to the edge of the cliff for your first panoramic view of the Andalusian countryside."
+            "en": "Walk to the edge of the cliff for your first panoramic view of the Andalusian countryside.",
+            "es": "Camina hasta el borde del precipicio para tu primera vista panorámica del campo andaluz."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Mirador de Ronda",
             "hu": "Rondai kilátópont",
             "ro": "Mirador de Ronda",
-            "en": "Mirador de Ronda"
+            "en": "Mirador de Ronda",
+            "es": "Mirador de Ronda"
           },
           "coords": [
             -5.168,
@@ -59,7 +62,8 @@
             "de": "Ein perfekter Ort für Fotos vom 'Balkon des Wahnsinns' über dem Abgrund.",
             "hu": "Tökéletes hely fotózásra az 'őrület balkonjáról' a mélység felett.",
             "ro": "Un loc perfect pentru fotografii de pe 'balconul nebuniei' deasupra abisului.",
-            "en": "A perfect spot for photos from the 'balcony of madness' over the abyss."
+            "en": "A perfect spot for photos from the 'balcony of madness' over the abyss.",
+            "es": "Un lugar perfecto para fotos desde el 'balcón de la locura' sobre el abismo."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Plaza de Toros de Ronda",
             "hu": "Rondai bikaviadal-aréna",
             "ro": "Plaza de Toros de Ronda",
-            "en": "Plaza de Toros de Ronda"
+            "en": "Plaza de Toros de Ronda",
+            "es": "Plaza de Toros de Ronda"
           },
           "coords": [
             -5.1665,
@@ -82,7 +87,8 @@
             "de": "Besuchen Sie eine der ältesten und schönsten Stierkampf-Arenen ganz Spaniens.",
             "hu": "Látogasson el Spanyolország egyik legrégebbi és legszebb bikaviadal-arénájába.",
             "ro": "Vizitați una dintre cele mai vechi și frumoase arene de coridă din întreaga Spanie.",
-            "en": "Visit one of the oldest and most beautiful bullrings in all of Spain."
+            "en": "Visit one of the oldest and most beautiful bullrings in all of Spain.",
+            "es": "Visita una de las plazas de toros más antiguas y bellas de España."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Puente Nuevo",
             "hu": "Új híd (Puente Nuevo)",
             "ro": "Puente Nuevo",
-            "en": "Puente Nuevo"
+            "en": "Puente Nuevo",
+            "es": "Puente Nuevo"
           },
           "coords": [
             -5.166,
@@ -105,7 +112,8 @@
             "de": "Das Wahrzeichen der Stadt verbindet die Altstadt mit dem modernen Viertel.",
             "hu": "A város jelképe, amely összeköti az óvárost a modern negyeddel.",
             "ro": "Simbolul orașului, care leagă orașul vechi de cartierul modern.",
-            "en": "The symbol of the city, connecting the old town with the modern quarter."
+            "en": "The symbol of the city, connecting the old town with the modern quarter.",
+            "es": "El símbolo de la ciudad, que conecta el casco antiguo con el barrio moderno."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Palacio de Mondragón",
             "hu": "Mondragón palota",
             "ro": "Palacio de Mondragón",
-            "en": "Palacio de Mondragón"
+            "en": "Palacio de Mondragón",
+            "es": "Palacio de Mondragón"
           },
           "coords": [
             -5.1685,
@@ -128,7 +137,8 @@
             "de": "Bewundern Sie die Mudejar-Gärten und die archäologischen Schätze im Inneren.",
             "hu": "Csodálja meg a mudéjar kerteket és a benne található régészeti kincseket.",
             "ro": "Admirați grădinile mudejar și comorile arheologice din interior.",
-            "en": "Admire the Mudejar gardens and the archaeological treasures inside."
+            "en": "Admire the Mudejar gardens and the archaeological treasures inside.",
+            "es": "Admira los jardines mudéjares y los tesoros arqueológicos del interior."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Iglesia de Santa María la Mayor",
             "hu": "Santa María la Mayor templom",
             "ro": "Iglesia de Santa María la Mayor",
-            "en": "Iglesia de Santa María la Mayor"
+            "en": "Iglesia de Santa María la Mayor",
+            "es": "Iglesia de Santa María la Mayor"
           },
           "coords": [
             -5.1668,
@@ -151,7 +162,8 @@
             "de": "Achten Sie auf die Mischung aus gotischen, Renaissance- und Barockstilen.",
             "hu": "Figyelje meg a gótikus, reneszánsz és barokk stílusok keveredését.",
             "ro": "Observați amestecul de stiluri gotic, renascentist și baroc.",
-            "en": "Notice the mixture of Gothic, Renaissance, and Baroque styles."
+            "en": "Notice the mixture of Gothic, Renaissance, and Baroque styles.",
+            "es": "Observa la mezcla de estilos gótico, renacentista y barroco."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Puerta de Almocábar",
             "hu": "Almocábar-kapu",
             "ro": "Puerta de Almocábar",
-            "en": "Puerta de Almocábar"
+            "en": "Puerta de Almocábar",
+            "es": "Puerta de Almocábar"
           },
           "coords": [
             -5.1655,
@@ -174,7 +187,8 @@
             "de": "Die alte Stadtmauer bietet einen tollen Abschluss für den historischen Rundgang.",
             "hu": "A régi városfal tökéletes lezárása a történelmi körútnak.",
             "ro": "Vechiul zid al orașului oferă o încheiere minunată pentru turul istoric.",
-            "en": "The old city wall offers a great conclusion to the historical tour."
+            "en": "The old city wall offers a great conclusion to the historical tour.",
+            "es": "La muralla del casco antiguo ofrece un magnífico cierre al recorrido histórico."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Morgens beginnen wir in der Alameda del Tajo, wo die frische Brise und die weite Sicht auf die andalusischen Ebenen den Geist beleben. Ein kurzer Spaziergang führt uns zum Mirador de Ronda, um das spektakuläre Panorama der Tajo-Schlucht zu genießen.\n\nMittags tauchen wir in die Geschichte des Stierkampfs in der berühmten Plaza de Toros ein, bevor wir die Puente Nuevo überqueren. Die Architektur der Brücke, die 100 Meter über dem Fluss Guadalevín thront, ist das Herzstück unseres Erlebnisses.\n\nNachmittags erkunden wir die verwinkelten Gassen der Altstadt. Im Palacio de Mondragón entdecken wir maurische Erbe, gefolgt von der spirituellen Ruhe in der prächtigen Kirche Santa María la Mayor.\n\nAbends erreichen wir die Puerta de Almocábar. Die massiven Verteidigungsanlagen glühen im goldenen Licht der untergehenden Sonne und lassen uns die einstige Macht dieser Festungsstadt spüren.",
         "hu": "A reggelt az Alameda del Tajo parkban kezdjük, ahol a friss szellő és az andalúz síkságra nyíló kilátás frissíti fel a szellemet. Rövid séta után a Mirador de Ronda kilátópontnál állunk meg, hogy megcsodáljuk a Tajo-szurdok drámai látványát.\n\nDélben elmélyedünk a bikaviadalok történetében a híres arénánál, majd átkelünk a monumentális Puente Nuevo hídon. A Guadalevín-folyó felett 100 méter magasan feszülő építmény a város igazi szíve.\n\nDélután az óváros kanyargós utcáit fedezzük fel. A Mondragón palotában a mór örökséget kutatjuk, majd a Santa María la Mayor templom impozáns belső terében találunk nyugalmat.\n\nEste az Almocábar-kapuhoz érünk. A hatalmas védművek az aranyló napfényben fürdenek, és felidézik e sziklaváros egykori bevehetetlen erejét.",
         "ro": "Dimineața începem în Alameda del Tajo, unde briza proaspătă și vederea largă asupra câmpiilor andaluze înviorează spiritul. O scurtă plimbare ne duce la Mirador de Ronda pentru a ne bucura de panorama spectaculoasă a defileului Tajo.\n\nLa prânz ne scufundăm în istoria coridei la celebra Plaza de Toros, înainte de a traversa Puente Nuevo. Arhitectura podului, suspendat la 100 de metri deasupra râului Guadalevín, este piesa centrală a experienței noastre.\n\nDupă-amiaza explorăm străzile întortocheate ale orașului vechi. La Palacio de Mondragón descoperim moștenirea maură, urmată de liniștea spirituală din magnifica biserică Santa María la Mayor.\n\nSeara ajungem la Puerta de Almocábar. Fortificațiile masive strălucesc în lumina aurie a soarelui la apus, lăsându-ne să simțim fosta putere a acestui oraș-cetate.",
-        "en": "In the morning, we begin at Alameda del Tajo, where the fresh breeze and wide views of the Andalusian plains revive the spirit. A short walk leads us to Mirador de Ronda to enjoy the spectacular panorama of the Tajo gorge.\n\nAt midday, we dive into the history of bullfighting at the famous Plaza de Toros before crossing Puente Nuevo. The bridge's architecture, perched 100 meters above the Guadalevín River, is the centerpiece of our experience.\n\nIn the afternoon, we explore the winding streets of the old town. At Palacio de Mondragón, we discover Moorish heritage, followed by spiritual tranquility in the magnificent Santa María la Mayor church.\n\nIn the evening, we reach the Puerta de Almocábar. The massive defensive walls glow in the golden light of the setting sun, letting us feel the former power of this fortress city."
+        "en": "In the morning, we begin at Alameda del Tajo, where the fresh breeze and wide views of the Andalusian plains revive the spirit. A short walk leads us to Mirador de Ronda to enjoy the spectacular panorama of the Tajo gorge.\n\nAt midday, we dive into the history of bullfighting at the famous Plaza de Toros before crossing Puente Nuevo. The bridge's architecture, perched 100 meters above the Guadalevín River, is the centerpiece of our experience.\n\nIn the afternoon, we explore the winding streets of the old town. At Palacio de Mondragón, we discover Moorish heritage, followed by spiritual tranquility in the magnificent Santa María la Mayor church.\n\nIn the evening, we reach the Puerta de Almocábar. The massive defensive walls glow in the golden light of the setting sun, letting us feel the former power of this fortress city.",
+        "es": "Por la mañana empezamos en la Alameda del Tajo, donde la brisa y las amplias vistas de la campiña andaluza renuevan el ánimo. Una corta caminata nos conduce al Mirador de Ronda para disfrutar del espectacular panorama del desfiladero del Tajo.\n\nA mediodía nos sumergimos en la historia de la tauromaquia en la famosa Plaza de Toros antes de cruzar el Puente Nuevo. La arquitectura del puente, suspendido a 100 metros sobre el río Guadalevín, es el núcleo de nuestra experiencia.\n\nPor la tarde exploramos las calles angostas del casco antiguo. En el Palacio de Mondragón descubrimos la herencia musulmana, seguido de la tranquilidad espiritual en la magnífica iglesia de Santa María la Mayor.\n\nAl anochecer llegamos a la Puerta de Almocábar. Las gruesas murallas defensivas se tiñen de la luz dorada del atardecer, permitiéndonos sentir el poder que tuvo esta ciudad-fortaleza."
       },
       "gastro_picks": {
         "de": [
@@ -342,6 +357,12 @@
           "Most attractions are concentrated in the old town within walking distance.",
           "It is worth booking a table in advance for restaurants overlooking the gorge.",
           "Visit the bridge in the late afternoon for the best light."
+        ],
+        "es": [
+          "Ronda es montañosa; lleva calzado cómodo para caminar.",
+          "La mayoría de las atracciones están concentradas en el casco antiguo y se pueden recorrer a pie.",
+          "Vale la pena reservar mesa con antelación en los restaurantes con vistas al desfiladero.",
+          "Visita el puente a última hora de la tarde para la mejor luz."
         ]
       },
       "variants": {
@@ -350,7 +371,8 @@
             "de": "Morgens beginnen wir in der Alameda del Tajo, wo die frische Brise und die weite Sicht auf die andalusischen Ebenen den Geist beleben. Ein kurzer Spaziergang führt uns zum Mirador de Ronda, um das spektakuläre Panorama der Tajo-Schlucht zu genießen.\n\nMittags tauchen wir in die Geschichte des Stierkampfs in der berühmten Plaza de Toros ein, bevor wir die Puente Nuevo überqueren. Die Architektur der Brücke, die 100 Meter über dem Fluss Guadalevín thront, ist das Herzstück unseres Erlebnisses.\n\nNachmittags erkunden wir die verwinkelten Gassen der Altstadt. Im Palacio de Mondragón entdecken wir maurische Erbe, gefolgt von der spirituellen Ruhe in der prächtigen Kirche Santa María la Mayor.\n\nAbends erreichen wir die Puerta de Almocábar. Die massiven Verteidigungsanlagen glühen im goldenen Licht der untergehenden Sonne und lassen uns die einstige Macht dieser Festungsstadt spüren.",
             "hu": "A reggelt az Alameda del Tajo parkban kezdjük, ahol a friss szellő és az andalúz síkságra nyíló kilátás frissíti fel a szellemet. Rövid séta után a Mirador de Ronda kilátópontnál állunk meg, hogy megcsodáljuk a Tajo-szurdok drámai látványát.\n\nDélben elmélyedünk a bikaviadalok történetében a híres arénánál, majd átkelünk a monumentális Puente Nuevo hídon. A Guadalevín-folyó felett 100 méter magasan feszülő építmény a város igazi szíve.\n\nDélután az óváros kanyargós utcáit fedezzük fel. A Mondragón palotában a mór örökséget kutatjuk, majd a Santa María la Mayor templom impozáns belső terében találunk nyugalmat.\n\nEste az Almocábar-kapuhoz érünk. A hatalmas védművek az aranyló napfényben fürdenek, és felidézik e sziklaváros egykori bevehetetlen erejét.",
             "ro": "Dimineața începem în Alameda del Tajo, unde briza proaspătă și vederea largă asupra câmpiilor andaluze înviorează spiritul. O scurtă plimbare ne duce la Mirador de Ronda pentru a ne bucura de panorama spectaculoasă a defileului Tajo.\n\nLa prânz ne scufundăm în istoria coridei la celebra Plaza de Toros, înainte de a traversa Puente Nuevo. Arhitectura podului, suspendat la 100 de metri deasupra râului Guadalevín, este piesa centrală a experienței noastre.\n\nDupă-amiaza explorăm străzile întortocheate ale orașului vechi. La Palacio de Mondragón descoperim moștenirea maură, urmată de liniștea spirituală din magnifica biserică Santa María la Mayor.\n\nSeara ajungem la Puerta de Almocábar. Fortificațiile masive strălucesc în lumina aurie a soarelui la apus, lăsându-ne să simțim fosta putere a acestui oraș-cetate.",
-            "en": "In the morning, we begin at Alameda del Tajo, where the fresh breeze and wide views of the Andalusian plains revive the spirit. A short walk leads us to Mirador de Ronda to enjoy the spectacular panorama of the Tajo gorge.\n\nAt midday, we dive into the history of bullfighting at the famous Plaza de Toros before crossing Puente Nuevo. The bridge's architecture, perched 100 meters above the Guadalevín River, is the centerpiece of our experience.\n\nIn the afternoon, we explore the winding streets of the old town. At Palacio de Mondragón, we discover Moorish heritage, followed by spiritual tranquility in the magnificent Santa María la Mayor church.\n\nIn the evening, we reach the Puerta de Almocábar. The massive defensive walls glow in the golden light of the setting sun, letting us feel the former power of this fortress city."
+            "en": "In the morning, we begin at Alameda del Tajo, where the fresh breeze and wide views of the Andalusian plains revive the spirit. A short walk leads us to Mirador de Ronda to enjoy the spectacular panorama of the Tajo gorge.\n\nAt midday, we dive into the history of bullfighting at the famous Plaza de Toros before crossing Puente Nuevo. The bridge's architecture, perched 100 meters above the Guadalevín River, is the centerpiece of our experience.\n\nIn the afternoon, we explore the winding streets of the old town. At Palacio de Mondragón, we discover Moorish heritage, followed by spiritual tranquility in the magnificent Santa María la Mayor church.\n\nIn the evening, we reach the Puerta de Almocábar. The massive defensive walls glow in the golden light of the setting sun, letting us feel the former power of this fortress city.",
+            "es": "Por la mañana empezamos en la Alameda del Tajo, donde la brisa y las amplias vistas de la campiña andaluza renuevan el ánimo. Una corta caminata nos conduce al Mirador de Ronda para disfrutar del espectacular panorama del desfiladero del Tajo.\n\nA mediodía nos sumergimos en la historia de la tauromaquia en la famosa Plaza de Toros antes de cruzar el Puente Nuevo. La arquitectura del puente, suspendido a 100 metros sobre el río Guadalevín, es el núcleo de nuestra experiencia.\n\nPor la tarde exploramos las calles angostas del casco antiguo. En el Palacio de Mondragón descubrimos la herencia musulmana, seguido de la tranquilidad espiritual en la magnífica iglesia de Santa María la Mayor.\n\nAl anochecer llegamos a la Puerta de Almocábar. Las gruesas murallas defensivas se tiñen de la luz dorada del atardecer, permitiéndonos sentir el poder que tuvo esta ciudad-fortaleza."
           },
           "stops": [
             {
@@ -358,13 +380,15 @@
                 "de": "Alameda del Tajo",
                 "hu": "Alameda del Tajo park",
                 "ro": "Alameda del Tajo",
-                "en": "Alameda del Tajo"
+                "en": "Alameda del Tajo",
+                "es": "Alameda del Tajo"
               },
               "tip_5lang": {
                 "de": "Spazieren Sie zum Rand für den ersten Panoramablick auf die andalusische Landschaft.",
                 "hu": "Sétáljon ki a szikla szélére az első panorámás kilátásért az andalúz vidékre.",
                 "ro": "Mergeți până la marginea stâncii pentru prima vedere panoramică asupra câmpiei andaluze.",
-                "en": "Walk to the edge of the cliff for your first panoramic view of the Andalusian countryside."
+                "en": "Walk to the edge of the cliff for your first panoramic view of the Andalusian countryside.",
+                "es": "Camina hasta el borde del precipicio para tu primera vista panorámica del campo andaluz."
               }
             },
             {
@@ -372,13 +396,15 @@
                 "de": "Mirador de Ronda",
                 "hu": "Rondai kilátópont",
                 "ro": "Mirador de Ronda",
-                "en": "Mirador de Ronda"
+                "en": "Mirador de Ronda",
+                "es": "Mirador de Ronda"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Ort für Fotos vom 'Balkon des Wahnsinns' über dem Abgrund.",
                 "hu": "Tökéletes hely fotózásra az 'őrület balkonjáról' a mélység felett.",
                 "ro": "Un loc perfect pentru fotografii de pe 'balconul nebuniei' deasupra abisului.",
-                "en": "A perfect spot for photos from the 'balcony of madness' over the abyss."
+                "en": "A perfect spot for photos from the 'balcony of madness' over the abyss.",
+                "es": "Un lugar perfecto para fotos desde el 'balcón de la locura' sobre el abismo."
               }
             },
             {
@@ -386,13 +412,15 @@
                 "de": "Plaza de Toros de Ronda",
                 "hu": "Rondai bikaviadal-aréna",
                 "ro": "Plaza de Toros de Ronda",
-                "en": "Plaza de Toros de Ronda"
+                "en": "Plaza de Toros de Ronda",
+                "es": "Plaza de Toros de Ronda"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie eine der ältesten und schönsten Stierkampf-Arenen ganz Spaniens.",
                 "hu": "Látogasson el Spanyolország egyik legrégebbi és legszebb bikaviadal-arénájába.",
                 "ro": "Vizitați una dintre cele mai vechi și frumoase arene de coridă din întreaga Spanie.",
-                "en": "Visit one of the oldest and most beautiful bullrings in all of Spain."
+                "en": "Visit one of the oldest and most beautiful bullrings in all of Spain.",
+                "es": "Visita una de las plazas de toros más antiguas y bellas de España."
               }
             },
             {
@@ -400,13 +428,15 @@
                 "de": "Puente Nuevo",
                 "hu": "Új híd (Puente Nuevo)",
                 "ro": "Puente Nuevo",
-                "en": "Puente Nuevo"
+                "en": "Puente Nuevo",
+                "es": "Puente Nuevo"
               },
               "tip_5lang": {
                 "de": "Das Wahrzeichen der Stadt verbindet die Altstadt mit dem modernen Viertel.",
                 "hu": "A város jelképe, amely összeköti az óvárost a modern negyeddel.",
                 "ro": "Simbolul orașului, care leagă orașul vechi de cartierul modern.",
-                "en": "The symbol of the city, connecting the old town with the modern quarter."
+                "en": "The symbol of the city, connecting the old town with the modern quarter.",
+                "es": "El símbolo de la ciudad, que conecta el casco antiguo con el barrio moderno."
               }
             },
             {
@@ -414,13 +444,15 @@
                 "de": "Palacio de Mondragón",
                 "hu": "Mondragón palota",
                 "ro": "Palacio de Mondragón",
-                "en": "Palacio de Mondragón"
+                "en": "Palacio de Mondragón",
+                "es": "Palacio de Mondragón"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Mudejar-Gärten und die archäologischen Schätze im Inneren.",
                 "hu": "Csodálja meg a mudéjar kerteket és a benne található régészeti kincseket.",
                 "ro": "Admirați grădinile mudejar și comorile arheologice din interior.",
-                "en": "Admire the Mudejar gardens and the archaeological treasures inside."
+                "en": "Admire the Mudejar gardens and the archaeological treasures inside.",
+                "es": "Admira los jardines mudéjares y los tesoros arqueológicos del interior."
               }
             },
             {
@@ -428,13 +460,15 @@
                 "de": "Iglesia de Santa María la Mayor",
                 "hu": "Santa María la Mayor templom",
                 "ro": "Iglesia de Santa María la Mayor",
-                "en": "Iglesia de Santa María la Mayor"
+                "en": "Iglesia de Santa María la Mayor",
+                "es": "Iglesia de Santa María la Mayor"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf die Mischung aus gotischen, Renaissance- und Barockstilen.",
                 "hu": "Figyelje meg a gótikus, reneszánsz és barokk stílusok keveredését.",
                 "ro": "Observați amestecul de stiluri gotic, renascentist și baroc.",
-                "en": "Notice the mixture of Gothic, Renaissance, and Baroque styles."
+                "en": "Notice the mixture of Gothic, Renaissance, and Baroque styles.",
+                "es": "Observa la mezcla de estilos gótico, renacentista y barroco."
               }
             },
             {
@@ -442,13 +476,15 @@
                 "de": "Puerta de Almocábar",
                 "hu": "Almocábar-kapu",
                 "ro": "Puerta de Almocábar",
-                "en": "Puerta de Almocábar"
+                "en": "Puerta de Almocábar",
+                "es": "Puerta de Almocábar"
               },
               "tip_5lang": {
                 "de": "Die alte Stadtmauer bietet einen tollen Abschluss für den historischen Rundgang.",
                 "hu": "A régi városfal tökéletes lezárása a történelmi körútnak.",
                 "ro": "Vechiul zid al orașului oferă o încheiere minunată pentru turul istoric.",
-                "en": "The old city wall offers a great conclusion to the historical tour."
+                "en": "The old city wall offers a great conclusion to the historical tour.",
+                "es": "La muralla del casco antiguo ofrece un magnífico cierre al recorrido histórico."
               }
             }
           ],
@@ -610,6 +646,12 @@
               "Most attractions are concentrated in the old town within walking distance.",
               "It is worth booking a table in advance for restaurants overlooking the gorge.",
               "Visit the bridge in the late afternoon for the best light."
+            ],
+            "es": [
+              "Ronda es montañosa; lleva calzado cómodo para caminar.",
+              "La mayoría de las atracciones están concentradas en el casco antiguo y se pueden recorrer a pie.",
+              "Vale la pena reservar mesa con antelación en los restaurantes con vistas al desfiladero.",
+              "Visita el puente a última hora de la tarde para la mejor luz."
             ]
           }
         },
@@ -618,7 +660,8 @@
             "de": "Ronda im Regen hat einen mystischen Charme. Der Vormittag beginnt in der Alameda del Tajo, wo der Nebel aus der Schlucht aufsteigt. Mittags bieten die Stierkampfarena und das Palacio de Mondragón trockene Zuflucht und tiefe Einblicke in die Geschichte. Der Nachmittag führt durch die nassen Gassen der Altstadt zur Santa María la Mayor, bevor der Tag an der Puerta de Almocábar endet.",
             "hu": "Ronda esőben is lenyűgöző, a ködbe burkolózó Tajo-szakadék misztikus látványt nyújt. A délelőttöt a park fái alatt kezdjük, majd a fedett Arénában és a Mondragón palotában keresünk menedéket a történelem között. Délután az óváros csúszós macskakövein haladunk a katedrálishoz, végül a városkapunál zárjuk a vizes sétát, élvezve a drámai fényeket.",
             "ro": "Ronda sub ploaie emană o atmosferă mistică, cu ceața ridicându-se din defileul Tajo. Dimineața începe în parcul Alameda, urmată de vizite la Plaza de Toros și Palatul Mondragón pentru a rămâne la adăpost. După-amiaza explorăm străzile umede din La Ciudad până la biserica Santa María, încheind ziua la poarta istorică Almocábar, unde piatra veche strălucește sub stropii de apă.",
-            "en": "Ronda in the rain offers a mystical atmosphere as mist rises from the Tajo gorge. Start your morning under the trees of Alameda del Tajo, then seek shelter in the Bullring and Mondragón Palace. Spend the afternoon exploring the damp, narrow streets of the old town toward Santa María church, and conclude at the Almocábar Gate, where the wet stone enhances the historical ambiance."
+            "en": "Ronda in the rain offers a mystical atmosphere as mist rises from the Tajo gorge. Start your morning under the trees of Alameda del Tajo, then seek shelter in the Bullring and Mondragón Palace. Spend the afternoon exploring the damp, narrow streets of the old town toward Santa María church, and conclude at the Almocábar Gate, where the wet stone enhances the historical ambiance.",
+            "es": "Ronda bajo la lluvia ofrece una atmósfera mística cuando la niebla se eleva del desfiladero del Tajo. Empieza la mañana bajo los árboles de la Alameda del Tajo y luego busca refugio en la Plaza de Toros y el Palacio de Mondragón. Pasa la tarde explorando las húmedas y estrechas calles del casco antiguo hacia la iglesia de Santa María, y concluye en la Puerta de Almocábar, donde la piedra mojada realza el ambiente histórico."
           },
           "stops": [
             {
@@ -627,7 +670,8 @@
                 "de": "Die dichten Bäume bieten natürlichen Schutz vor leichtem Nieselregen.",
                 "hu": "A sűrű fasor természetes ernyőként véd az enyhe szemerkélés ellen.",
                 "ro": "Copacii deși oferă o protecție naturală împotriva burniței ușoare.",
-                "en": "The dense trees provide natural shelter from light drizzle."
+                "en": "The dense trees provide natural shelter from light drizzle.",
+                "es": "Los árboles densos ofrecen refugio natural de la llovizna ligera."
               }
             },
             {
@@ -636,7 +680,8 @@
                 "de": "Vorsicht am Geländer, die Steinplatten können bei Nässe rutschig sein.",
                 "hu": "Vigyázat a korlátnál, a kőlapok nedvesen rendkívül csúszósak lehetnek.",
                 "ro": "Atenție la balustradă, dalele de piatră pot fi alunecoase când sunt ude.",
-                "en": "Careful near the railings, as the stone slabs can be slippery when wet."
+                "en": "Careful near the railings, as the stone slabs can be slippery when wet.",
+                "es": "Ten cuidado cerca de las barandillas: las losas de piedra pueden estar resbaladizas con humedad."
               }
             },
             {
@@ -645,7 +690,8 @@
                 "de": "Das angeschlossene Museum ist perfekt, um einen Regenschauer abzuwarten.",
                 "hu": "A múzeumi rész tökéletes helyszín egy kiadósabb zápor kivárására.",
                 "ro": "Muzeul atașat este locul perfect pentru a aștepta trecerea unei averse.",
-                "en": "The attached museum is perfect for waiting out a heavy rain shower."
+                "en": "The attached museum is perfect for waiting out a heavy rain shower.",
+                "es": "El museo adjunto es perfecto para esperar a que pase un aguacero fuerte."
               }
             },
             {
@@ -654,7 +700,8 @@
                 "de": "Der Wind in der Schlucht kann Regenschirme leicht umknicken; Regenmantel nutzen.",
                 "hu": "A szél könnyen kifordíthatja az esernyőt a szakadéknál, használjon esőkabátot.",
                 "ro": "Vântul din defileu poate rupe umbrelele; folosiți mai degrabă o pelerină.",
-                "en": "Wind in the gorge can flip umbrellas easily; a raincoat is more reliable."
+                "en": "Wind in the gorge can flip umbrellas easily; a raincoat is more reliable.",
+                "es": "El viento en el desfiladero puede voltear los paraguas con facilidad; un impermeable es más fiable."
               }
             },
             {
@@ -663,7 +710,8 @@
                 "de": "Genießen Sie die überdachten Innenhöfe und die archäologischen Ausstellungen.",
                 "hu": "Élvezze a fedett belső udvarokat és a régészeti kiállításokat.",
                 "ro": "Bucurați-vă de curțile interioare acoperite și de expozițiile arheologice.",
-                "en": "Enjoy the covered inner courtyards and the archaeological exhibits."
+                "en": "Enjoy the covered inner courtyards and the archaeological exhibits.",
+                "es": "Disfruta de los patios interiores cubiertos y de las exhibiciones arqueológicas."
               }
             },
             {
@@ -672,7 +720,8 @@
                 "de": "Ein ruhiger, trockener Ort mit beeindruckender Akustik bei Regen.",
                 "hu": "Csendes, száraz menedék, ahol az eső kopogása különleges akusztikát ad.",
                 "ro": "Un refugiu liniștit și uscat, cu o acustică impresionantă în timpul ploii.",
-                "en": "A quiet, dry sanctuary with impressive acoustics during rainfall."
+                "en": "A quiet, dry sanctuary with impressive acoustics during rainfall.",
+                "es": "Un santuario tranquilo y seco con acústica impresionante durante la lluvia."
               }
             },
             {
@@ -681,7 +730,8 @@
                 "de": "Die nahegelegenen Cafés bieten heiße Schokolade nach dem Spaziergang.",
                 "hu": "A közeli kávézók forró csokoládét kínálnak a vizes séta után.",
                 "ro": "Cafenelele din apropiere oferă ciocolată caldă după plimbarea prin ploaie.",
-                "en": "Nearby cafes offer hot chocolate to warm up after the wet walk."
+                "en": "Nearby cafes offer hot chocolate to warm up after the wet walk.",
+                "es": "Las cafeterías cercanas ofrecen chocolate caliente para entrar en calor tras la caminata húmeda."
               }
             }
           ],
@@ -709,6 +759,12 @@
               "Use museums as strategic rest stops to stay dry.",
               "A sturdy umbrella is essential due to Ronda's mountain winds.",
               "Avoid the steep paths down into the gorge during heavy rain."
+            ],
+            "es": [
+              "Lleva calzado impermeable para las calles empedradas e irregulares.",
+              "Usa los museos como paradas estratégicas para mantenerte seco.",
+              "Un paraguas resistente es esencial por los vientos de la sierra.",
+              "Evita los senderos empinados hacia el desfiladero durante fuertes lluvias."
             ]
           }
         },
@@ -717,7 +773,8 @@
             "de": "Winter in Ronda ist klar und erfrischend. Morgens liegt oft Frost auf den Bänken der Alameda. Mittags wärmt die Sonne die Plaza de Toros, während der Blick vom Puente Nuevo schneebedeckte Gipfel in der Ferne offenbart. Nachmittags erkunden wir die geschichtsträchtigen Säle des Mondragón Palastes und beenden den Tag bei Einbruch der frühen Dunkelheit an der beleuchteten Puerta de Almocábar.",
             "hu": "A téli Ronda tiszta levegővel és éles fényekkel várja. Reggel a park padjait zúzmara fedi, délben a nap sugarai melegítik az Aréna köveit. A Puente Nuevo-ról ilyenkor látni a távoli hófedte hegycsúcsokat. Délután a Mondragón palota falai közt bújunk el a hideg elől, a napot pedig a korai sötétedésben kivilágított Almocábar kapunál zárjuk.",
             "ro": "Iarna în Ronda este senină și răcoroasă. Dimineața bruma acoperă băncile din Alameda, iar la prânz soarele încălzește tribunele arenei. Vederea de pe Puente Nuevo dezvăluie culmile înzăpezite ale Sierrei în depărtare. După-amiaza explorăm istoria la Palatul Mondragón și încheiem ziua la poarta Almocábar, iluminată feeric odată cu lăsarea timpurie a serii.",
-            "en": "Winter in Ronda is crisp and refreshing. Mornings often see frost on the Alameda benches, while the midday sun warms the Bullring. From Puente Nuevo, you can spot snow-capped peaks in the distance. Spend the afternoon in the cozy halls of Mondragón Palace, finishing your tour at the Almocábar Gate as the early evening lights begin to twinkle."
+            "en": "Winter in Ronda is crisp and refreshing. Mornings often see frost on the Alameda benches, while the midday sun warms the Bullring. From Puente Nuevo, you can spot snow-capped peaks in the distance. Spend the afternoon in the cozy halls of Mondragón Palace, finishing your tour at the Almocábar Gate as the early evening lights begin to twinkle.",
+            "es": "El invierno en Ronda es fresco y vigorizante. Las mañanas suelen presentar escarcha en los bancos de la Alameda, mientras que el sol del mediodía calienta la Plaza de Toros. Desde el Puente Nuevo se distinguen picos con nieve en la distancia. Pasa la tarde en las salas acogedoras del Palacio de Mondragón y termina el recorrido en la Puerta de Almocábar cuando las luces del atardecer comienzan a brillar."
           },
           "stops": [
             {
@@ -726,7 +783,8 @@
                 "de": "Genießen Sie die klare Sicht auf die Sierra, oft ohne Sommertouristen.",
                 "hu": "Élvezze a tiszta kilátást a Sierrára, a nyári tömeg nélkül.",
                 "ro": "Bucurați-vă de vizibilitatea clară spre Sierra, fără mulțimile de vară.",
-                "en": "Enjoy the clear views of the Sierra, often without the summer crowds."
+                "en": "Enjoy the clear views of the Sierra, often without the summer crowds.",
+                "es": "Disfruta de las vistas claras de la sierra, a menudo sin las multitudes de verano."
               }
             },
             {
@@ -735,7 +793,8 @@
                 "de": "Warme Kleidung ist Pflicht, der Wind hier oben ist im Winter schneidend.",
                 "hu": "Réteges öltözet kötelező, a szél itt télen metsző tud lenni.",
                 "ro": "Îmbrăcămintea groasă e obligatorie; vântul e tăios aici iarna.",
-                "en": "Warm clothing is a must, as the wind here can be biting in winter."
+                "en": "Warm clothing is a must, as the wind here can be biting in winter.",
+                "es": "Es imprescindible ropa de abrigo, ya que el viento puede ser cortante en invierno."
               }
             },
             {
@@ -744,7 +803,8 @@
                 "de": "Nutzen Sie die sonnigen Plätze in der Arena für eine warme Pause.",
                 "hu": "Használja ki az aréna napos részeit egy kis melegedéshez.",
                 "ro": "Căutați zonele însorite din arenă pentru o pauză de încălzire.",
-                "en": "Take advantage of the sunny spots in the arena for a warm break."
+                "en": "Take advantage of the sunny spots in the arena for a warm break.",
+                "es": "Aprovecha los lugares soleados de la plaza para tomar un respiro cálido."
               }
             },
             {
@@ -753,7 +813,8 @@
                 "de": "Das Licht der tiefstehenden Wintersonne ist ideal für Fotos.",
                 "hu": "Az alacsonyan járó téli nap fénye ideális a fotózáshoz.",
                 "ro": "Lumina soarelui de iarnă, aflat jos la orizont, e ideală pentru poze.",
-                "en": "The low winter sun provides perfect lighting for photography."
+                "en": "The low winter sun provides perfect lighting for photography.",
+                "es": "El sol bajo de invierno ofrece una iluminación perfecta para fotografías."
               }
             },
             {
@@ -762,7 +823,8 @@
                 "de": "In den dicken Mauern des Palastes ist es oft wärmer als draußen.",
                 "hu": "A palota vastag falai között gyakran melegebb van, mint kint.",
                 "ro": "Zidurile groase ale palatului mențin o temperatură mai plăcută.",
-                "en": "The thick palace walls often keep the interior warmer than outside."
+                "en": "The thick palace walls often keep the interior warmer than outside.",
+                "es": "Los gruesos muros del palacio suelen mantener el interior más cálido que el exterior."
               }
             },
             {
@@ -771,7 +833,8 @@
                 "de": "Besuchen Sie die Kirche am Nachmittag für ein stimmungsvolles Erlebnis.",
                 "hu": "Látogasson el a templomba délután a hangulatos fények miatt.",
                 "ro": "Vizitați biserica după-amiaza pentru o experiență plină de atmosferă.",
-                "en": "Visit the church in the afternoon for an atmospheric experience."
+                "en": "Visit the church in the afternoon for an atmospheric experience.",
+                "es": "Visita la iglesia por la tarde para una experiencia más atmosférica."
               }
             },
             {
@@ -780,7 +843,8 @@
                 "de": "Ab 18:00 Uhr setzt die Dunkelheit ein; die Beleuchtung ist sehenswert.",
                 "hu": "18:00 után sötétedik, a kivilágított várfal látványa pazar.",
                 "ro": "Se întunecă după ora 18:00; iluminatul cetății merită văzut.",
-                "en": "Darkness sets in after 18:00; the lit-up walls are worth seeing."
+                "en": "Darkness sets in after 18:00; the lit-up walls are worth seeing.",
+                "es": "La oscuridad llega después de las 18:00; las murallas iluminadas merecen la pena."
               }
             }
           ],
@@ -808,6 +872,12 @@
               "Sunset is around 18:00 in winter; plan accordingly.",
               "Warm up with local wine or hot tea in the historic district.",
               "The hiking trails below the bridge can be icy in the shade."
+            ],
+            "es": [
+              "No subestimes el frío a los 750 m de altitud de Ronda.",
+              "El atardecer es alrededor de las 18:00 en invierno; planifica en consecuencia.",
+              "Calienta con vino local o té caliente en el casco histórico.",
+              "Los senderos de senderismo bajo el puente pueden estar helados en las zonas de sombra."
             ]
           }
         }
@@ -826,7 +896,8 @@
             "de": "Alameda del Tajo",
             "hu": "Alameda del Tajo park",
             "ro": "Alameda del Tajo",
-            "en": "Alameda del Tajo"
+            "en": "Alameda del Tajo",
+            "es": "Alameda del Tajo"
           },
           "coords": [
             -5.167,
@@ -841,7 +912,8 @@
             "de": "Beginnen Sie die Tour entspannt im Schatten der Bäume.",
             "hu": "Kezdje a túrát pihentetően a fák árnyékában.",
             "ro": "Începeți turul relaxat la umbra copacilor.",
-            "en": "Start the tour relaxed in the shade of the trees."
+            "en": "Start the tour relaxed in the shade of the trees.",
+            "es": "Comienza el recorrido relajado a la sombra de los árboles."
           }
         },
         {
@@ -849,7 +921,8 @@
             "de": "Mirador de Ronda",
             "hu": "Rondai kilátópont",
             "ro": "Mirador de Ronda",
-            "en": "Mirador de Ronda"
+            "en": "Mirador de Ronda",
+            "es": "Mirador de Ronda"
           },
           "coords": [
             -5.168,
@@ -864,7 +937,8 @@
             "de": "Stellen Sie das Rad kurz ab für den besten Blick auf die Schlucht.",
             "hu": "Támassza le a bringát a legjobb szurdok-kilátásért.",
             "ro": "Lăsați bicicleta pentru scurt timp pentru cea mai bună vedere asupra defileului.",
-            "en": "Park the bike briefly for the best view of the gorge."
+            "en": "Park the bike briefly for the best view of the gorge.",
+            "es": "Aparca la bici brevemente para obtener la mejor vista del desfiladero."
           }
         },
         {
@@ -872,7 +946,8 @@
             "de": "Puente Nuevo",
             "hu": "Új híd (Puente Nuevo)",
             "ro": "Puente Nuevo",
-            "en": "Puente Nuevo"
+            "en": "Puente Nuevo",
+            "es": "Puente Nuevo"
           },
           "coords": [
             -5.166,
@@ -887,7 +962,8 @@
             "de": "Überqueren Sie langsam die Brücke und genießen Sie die Tiefe.",
             "hu": "Lassan guruljon át a hídon, és élvezze a mélységet.",
             "ro": "Traversați încet podul și bucurați-vă de adâncime.",
-            "en": "Slowly roll across the bridge and enjoy the depth."
+            "en": "Slowly roll across the bridge and enjoy the depth.",
+            "es": "Cruza lentamente el puente en bici y disfruta de la sensación de profundidad."
           }
         },
         {
@@ -895,7 +971,8 @@
             "de": "Baños Árabes",
             "hu": "Arab fürdők",
             "ro": "Băile Arabe",
-            "en": "Arab Baths"
+            "en": "Arab Baths",
+            "es": "Baños Árabes"
           },
           "coords": [
             -5.163,
@@ -910,7 +987,8 @@
             "de": "Die Fahrt hinunter ins Tal zu den Bädern ist rasant und lohnenswert.",
             "hu": "A völgybe való leereszkedés a fürdőkhöz gyors és megéri a fáradtságot.",
             "ro": "Coborârea în vale către băi este rapidă și merită efortul.",
-            "en": "The ride down into the valley to the baths is fast and rewarding."
+            "en": "The ride down into the valley to the baths is fast and rewarding.",
+            "es": "La bajada rápida al valle hacia los baños es divertida y gratificante."
           }
         },
         {
@@ -918,7 +996,8 @@
             "de": "Puente Viejo",
             "hu": "Régi híd (Puente Viejo)",
             "ro": "Puente Viejo",
-            "en": "Puente Viejo"
+            "en": "Puente Viejo",
+            "es": "Puente Viejo"
           },
           "coords": [
             -5.1635,
@@ -933,7 +1012,8 @@
             "de": "Ein kleinerer, aber ebenso historischer Übergang über den Tajo.",
             "hu": "Egy kisebb, de hasonlóan történelmi átkelő a Tajo felett.",
             "ro": "O trecere mai mică, dar la fel de istorică peste Tajo.",
-            "en": "A smaller but equally historical crossing over the Tajo."
+            "en": "A smaller but equally historical crossing over the Tajo.",
+            "es": "Un cruce más pequeño pero igualmente histórico sobre el Tajo."
           }
         },
         {
@@ -941,7 +1021,8 @@
             "de": "Puerta de Almocábar",
             "hu": "Almocábar-kapu",
             "ro": "Puerta de Almocábar",
-            "en": "Puerta de Almocábar"
+            "en": "Puerta de Almocábar",
+            "es": "Puerta de Almocábar"
           },
           "coords": [
             -5.1655,
@@ -956,7 +1037,8 @@
             "de": "Beenden Sie die Fahrt an der imposanten südlichen Stadtmauer.",
             "hu": "Fejezze be a tekerést az impozáns déli városfalnál.",
             "ro": "Încheiați plimbarea la impozantul zid sudic al orașului.",
-            "en": "Finish the ride at the imposing southern city wall."
+            "en": "Finish the ride at the imposing southern city wall.",
+            "es": "Termina la ruta en la imponente muralla sur de la ciudad."
           }
         }
       ],
@@ -964,7 +1046,8 @@
         "de": "Der Tag beginnt mit einer entspannten Radtour durch den schattigen Alameda del Tajo Park, bevor wir zum Aussichtspunkt radeln, um die Schlucht zu überblicken.\n\nMittags überqueren wir die Puente Nuevo und spüren den Wind in den Haaren, während wir die Verbindung zwischen den Stadtteilen erleben.\n\nNachmittags führt uns eine rasante Abfahrt hinunter zu den maurischen Baños Árabes und über die Puente Viejo, was die historische Vielfalt Rondas zeigt.\n\nZum Abschluss fordern uns die Steigungen zur Puerta de Almocábar heraus, wo die alten Mauern eine triumphale Kulisse für das Ende unserer Tour bieten.",
         "hu": "A napot egy pihentető kerékpározással kezdjük az árnyas Alameda del Tajo parkban, majd a kilátóhoz tekerünk a szurdok fölé.\n\nDélben átkelünk a Puente Nuevo hídon, érezve a szelet, miközben átszeljük a városrészeket összekötő monumentális építményt.\n\nDélután egy lendületes gurulás vezet le a mór arab fürdőkhöz és a Puente Viejo hídhoz, bemutatva Ronda történelmi sokszínűségét.\n\nZárásként az Almocábar-kapuhoz vezető emelkedők teszik próbára erőnket, ahol a régi falak méltó keretet adnak a túra végének.",
         "ro": "Ziua începe cu o plimbare relaxată cu bicicleta prin parcul umbrit Alameda del Tajo, înainte de a pedala spre punctul de belvedere de deasupra defileului.\n\nLa prânz traversăm Puente Nuevo, simțind vântul în timp ce trecem peste construcția monumentală ce leagă cartierele orașului.\n\nDupă-amiaza, o coborâre rapidă ne duce la băile arabe maure și la Puente Viejo, arătând diversitatea istorică a Rondei.\n\nLa final, pantele care duc spre Puerta de Almocábar ne provoacă forțele, unde zidurile vechi oferă un cadru triumfal pentru sfârșitul turului nostru.",
-        "en": "The day begins with a relaxed bike ride through the shaded Alameda del Tajo park before pedaling to the viewpoint overlooking the gorge.\n\nAt midday, we cross the Puente Nuevo, feeling the wind as we traverse the monumental structure connecting the city districts.\n\nIn the afternoon, a brisk descent leads us to the Moorish Arab Baths and the Puente Viejo, showcasing Ronda's historical diversity.\n\nTo finish, the climbs to the Puerta de Almocábar challenge our strength, where the old walls provide a triumphant backdrop for the end of our tour."
+        "en": "The day begins with a relaxed bike ride through the shaded Alameda del Tajo park before pedaling to the viewpoint overlooking the gorge.\n\nAt midday, we cross the Puente Nuevo, feeling the wind as we traverse the monumental structure connecting the city districts.\n\nIn the afternoon, a brisk descent leads us to the Moorish Arab Baths and the Puente Viejo, showcasing Ronda's historical diversity.\n\nTo finish, the climbs to the Puerta de Almocábar challenge our strength, where the old walls provide a triumphant backdrop for the end of our tour.",
+        "es": "El día comienza con un tranquilo paseo en bicicleta por la arbolada Alameda del Tajo antes de pedalear hasta el mirador con vistas al tajo.\n\nAl mediodía cruzamos el Puente Nuevo, sintiendo el viento al atravesar la monumental estructura que conecta los barrios de la ciudad.\n\nPor la tarde, un descenso enérgico nos lleva a los Baños Árabes y al Puente Viejo, mostrando la diversidad histórica de Ronda.\n\nPara terminar, las subidas a la Puerta de Almocábar ponen a prueba nuestras fuerzas; las antiguas murallas ofrecen un telón de triunfo para el final del recorrido."
       },
       "gastro_picks": {
         "de": [
@@ -1072,6 +1155,12 @@
           "The ride down to the river is steep, check your brakes.",
           "An e-bike is highly recommended for the climbs in Ronda.",
           "Always lock your bike in designated areas."
+        ],
+        "es": [
+          "Cuidado con las calles empedradas del casco antiguo.",
+          "El descenso hacia el río es pronunciado, revisa tus frenos.",
+          "Se recomienda encarecidamente una e-bike para las subidas en Ronda.",
+          "Siempre asegúrate el bici en las zonas habilitadas para ello."
         ]
       },
       "variants": {
@@ -1080,7 +1169,8 @@
             "de": "Der Tag beginnt mit einer entspannten Radtour durch den schattigen Alameda del Tajo Park, bevor wir zum Aussichtspunkt radeln, um die Schlucht zu überblicken.\n\nMittags überqueren wir die Puente Nuevo und spüren den Wind in den Haaren, während wir die Verbindung zwischen den Stadtteilen erleben.\n\nNachmittags führt uns eine rasante Abfahrt hinunter zu den maurischen Baños Árabes und über die Puente Viejo, was die historische Vielfalt Rondas zeigt.\n\nZum Abschluss fordern uns die Steigungen zur Puerta de Almocábar heraus, wo die alten Mauern eine triumphale Kulisse für das Ende unserer Tour bieten.",
             "hu": "A napot egy pihentető kerékpározással kezdjük az árnyas Alameda del Tajo parkban, majd a kilátóhoz tekerünk a szurdok fölé.\n\nDélben átkelünk a Puente Nuevo hídon, érezve a szelet, miközben átszeljük a városrészeket összekötő monumentális építményt.\n\nDélután egy lendületes gurulás vezet le a mór arab fürdőkhöz és a Puente Viejo hídhoz, bemutatva Ronda történelmi sokszínűségét.\n\nZárásként az Almocábar-kapuhoz vezető emelkedők teszik próbára erőnket, ahol a régi falak méltó keretet adnak a túra végének.",
             "ro": "Ziua începe cu o plimbare relaxată cu bicicleta prin parcul umbrit Alameda del Tajo, înainte de a pedala spre punctul de belvedere de deasupra defileului.\n\nLa prânz traversăm Puente Nuevo, simțind vântul în timp ce trecem peste construcția monumentală ce leagă cartierele orașului.\n\nDupă-amiaza, o coborâre rapidă ne duce la băile arabe maure și la Puente Viejo, arătând diversitatea istorică a Rondei.\n\nLa final, pantele care duc spre Puerta de Almocábar ne provoacă forțele, unde zidurile vechi oferă un cadru triumfal pentru sfârșitul turului nostru.",
-            "en": "The day begins with a relaxed bike ride through the shaded Alameda del Tajo park before pedaling to the viewpoint overlooking the gorge.\n\nAt midday, we cross the Puente Nuevo, feeling the wind as we traverse the monumental structure connecting the city districts.\n\nIn the afternoon, a brisk descent leads us to the Moorish Arab Baths and the Puente Viejo, showcasing Ronda's historical diversity.\n\nTo finish, the climbs to the Puerta de Almocábar challenge our strength, where the old walls provide a triumphant backdrop for the end of our tour."
+            "en": "The day begins with a relaxed bike ride through the shaded Alameda del Tajo park before pedaling to the viewpoint overlooking the gorge.\n\nAt midday, we cross the Puente Nuevo, feeling the wind as we traverse the monumental structure connecting the city districts.\n\nIn the afternoon, a brisk descent leads us to the Moorish Arab Baths and the Puente Viejo, showcasing Ronda's historical diversity.\n\nTo finish, the climbs to the Puerta de Almocábar challenge our strength, where the old walls provide a triumphant backdrop for the end of our tour.",
+            "es": "El día comienza con un tranquilo paseo en bicicleta por la arbolada Alameda del Tajo antes de pedalear hasta el mirador con vistas al tajo.\n\nAl mediodía cruzamos el Puente Nuevo, sintiendo el viento al atravesar la monumental estructura que conecta los barrios de la ciudad.\n\nPor la tarde, un descenso enérgico nos lleva a los Baños Árabes y al Puente Viejo, mostrando la diversidad histórica de Ronda.\n\nPara terminar, las subidas a la Puerta de Almocábar ponen a prueba nuestras fuerzas; las antiguas murallas ofrecen un telón de triunfo para el final del recorrido."
           },
           "stops": [
             {
@@ -1088,13 +1178,15 @@
                 "de": "Alameda del Tajo",
                 "hu": "Alameda del Tajo park",
                 "ro": "Alameda del Tajo",
-                "en": "Alameda del Tajo"
+                "en": "Alameda del Tajo",
+                "es": "Alameda del Tajo"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie die Tour entspannt im Schatten der Bäume.",
                 "hu": "Kezdje a túrát pihentetően a fák árnyékában.",
                 "ro": "Începeți turul relaxat la umbra copacilor.",
-                "en": "Start the tour relaxed in the shade of the trees."
+                "en": "Start the tour relaxed in the shade of the trees.",
+                "es": "Comienza el tour relajado a la sombra de los árboles."
               }
             },
             {
@@ -1102,13 +1194,15 @@
                 "de": "Mirador de Ronda",
                 "hu": "Rondai kilátópont",
                 "ro": "Mirador de Ronda",
-                "en": "Mirador de Ronda"
+                "en": "Mirador de Ronda",
+                "es": "Mirador de Ronda"
               },
               "tip_5lang": {
                 "de": "Stellen Sie das Rad kurz ab für den besten Blick auf die Schlucht.",
                 "hu": "Támassza le a bringát a legjobb szurdok-kilátásért.",
                 "ro": "Lăsați bicicleta pentru scurt timp pentru cea mai bună vedere asupra defileului.",
-                "en": "Park the bike briefly for the best view of the gorge."
+                "en": "Park the bike briefly for the best view of the gorge.",
+                "es": "Deja la bici un momento para obtener la mejor vista del tajo."
               }
             },
             {
@@ -1116,13 +1210,15 @@
                 "de": "Puente Nuevo",
                 "hu": "Új híd (Puente Nuevo)",
                 "ro": "Puente Nuevo",
-                "en": "Puente Nuevo"
+                "en": "Puente Nuevo",
+                "es": "Puente Nuevo"
               },
               "tip_5lang": {
                 "de": "Überqueren Sie langsam die Brücke und genießen Sie die Tiefe.",
                 "hu": "Lassan guruljon át a hídon, és élvezze a mélységet.",
                 "ro": "Traversați încet podul și bucurați-vă de adâncime.",
-                "en": "Slowly roll across the bridge and enjoy the depth."
+                "en": "Slowly roll across the bridge and enjoy the depth.",
+                "es": "Cruza lentamente el puente y disfruta de la profundidad del paisaje."
               }
             },
             {
@@ -1130,13 +1226,15 @@
                 "de": "Baños Árabes",
                 "hu": "Arab fürdők",
                 "ro": "Băile Arabe",
-                "en": "Arab Baths"
+                "en": "Arab Baths",
+                "es": "Baños Árabes"
               },
               "tip_5lang": {
                 "de": "Die Fahrt hinunter ins Tal zu den Bädern ist rasant und lohnenswert.",
                 "hu": "A völgybe való leereszkedés a fürdőkhöz gyors és megéri a fáradtságot.",
                 "ro": "Coborârea în vale către băi este rapidă și merită efortul.",
-                "en": "The ride down into the valley to the baths is fast and rewarding."
+                "en": "The ride down into the valley to the baths is fast and rewarding.",
+                "es": "La bajada al valle hasta los baños es rápida y gratificante."
               }
             },
             {
@@ -1144,13 +1242,15 @@
                 "de": "Puente Viejo",
                 "hu": "Régi híd (Puente Viejo)",
                 "ro": "Puente Viejo",
-                "en": "Puente Viejo"
+                "en": "Puente Viejo",
+                "es": "Puente Viejo"
               },
               "tip_5lang": {
                 "de": "Ein kleinerer, aber ebenso historischer Übergang über den Tajo.",
                 "hu": "Egy kisebb, de hasonlóan történelmi átkelő a Tajo felett.",
                 "ro": "O trecere mai mică, dar la fel de istorică peste Tajo.",
-                "en": "A smaller but equally historical crossing over the Tajo."
+                "en": "A smaller but equally historical crossing over the Tajo.",
+                "es": "Un paso más pequeño pero igualmente histórico sobre el Tajo."
               }
             },
             {
@@ -1158,13 +1258,15 @@
                 "de": "Puerta de Almocábar",
                 "hu": "Almocábar-kapu",
                 "ro": "Puerta de Almocábar",
-                "en": "Puerta de Almocábar"
+                "en": "Puerta de Almocábar",
+                "es": "Puerta de Almocábar"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Fahrt an der imposanten südlichen Stadtmauer.",
                 "hu": "Fejezze be a tekerést az impozáns déli városfalnál.",
                 "ro": "Încheiați plimbarea la impozantul zid sudic al orașului.",
-                "en": "Finish the ride at the imposing southern city wall."
+                "en": "Finish the ride at the imposing southern city wall.",
+                "es": "Termina el recorrido junto a la imponente muralla sur de la ciudad."
               }
             }
           ],
@@ -1274,6 +1376,12 @@
               "The ride down to the river is steep, check your brakes.",
               "An e-bike is highly recommended for the climbs in Ronda.",
               "Always lock your bike in designated areas."
+            ],
+            "es": [
+              "Cuidado con las calles empedradas del casco antiguo.",
+              "El descenso hacia el río es pronunciado, revisa tus frenos.",
+              "Se recomienda encarecidamente una e-bike para las subidas en Ronda.",
+              "Siempre asegúrate el bici en las zonas habilitadas para ello."
             ]
           }
         },
@@ -1282,7 +1390,8 @@
             "de": "Radfahren in Ronda bei Regen erfordert Konzentration. Wir starten an der Alameda und fahren vorsichtig zum Mirador. Der Weg hinunter zu den Arabischen Bädern ist bei Nässe rutschig, bietet aber eine erfrischende Perspektive auf die Schlucht. Über die Puente Viejo kehren wir zur Puerta de Almocábar zurück, wobei wir die glänzenden Straßen der Stadt befahren.",
             "hu": "A bringázás esőben Rondában koncentrációt igényel. Az Alamedától indulunk óvatosan a kilátó felé. Az Arab fürdőkhöz vezető lejtő vizesen csúszós, de friss perspektívát ad a szurdokra. A Puente Viejo-n át térünk vissza az Almocábar kapuhoz, figyelve a város csillogó, vizes aszfaltjára.",
             "ro": "Ciclismul în Ronda pe ploaie necesită concentrare. Pornim de la Alameda spre Mirador cu prudență. Coborârea spre Băile Arabe este alunecoasă pe ud, dar oferă o perspectivă proaspătă asupra defileului. Traversăm Puente Viejo înapoi spre poarta Almocábar, navigând pe străzile lucioase ale orașului.",
-            "en": "Cycling in Ronda in the rain requires focus. We start at Alameda and head cautiously to the Mirador. The descent to the Arab Baths is slippery when wet but offers a refreshing perspective of the gorge. We return via Puente Viejo to the Almocábar Gate, carefully navigating the city's glistening streets."
+            "en": "Cycling in Ronda in the rain requires focus. We start at Alameda and head cautiously to the Mirador. The descent to the Arab Baths is slippery when wet but offers a refreshing perspective of the gorge. We return via Puente Viejo to the Almocábar Gate, carefully navigating the city's glistening streets.",
+            "es": "Circular en bicicleta por Ronda bajo la lluvia requiere concentración. Empezamos en la Alameda y nos dirigimos con precaución al Mirador. El descenso hacia los Baños Árabes resulta resbaladizo cuando está mojado, pero ofrece una perspectiva refrescante del tajo. Volvemos por el Puente Viejo hasta la Puerta de Almocábar, navegando con cuidado por las relucientes calles de la ciudad."
           },
           "stops": [
             {
@@ -1291,7 +1400,8 @@
                 "de": "Prüfen Sie Ihre Bremsen vor dem Start auf den nassen Wegen.",
                 "hu": "Indulás előtt ellenőrizze a fékeket a vizes utak miatt.",
                 "ro": "Verificați frânele înainte de a porni pe drumurile ude.",
-                "en": "Check your brakes before starting on the wet paths."
+                "en": "Check your brakes before starting on the wet paths.",
+                "es": "Revisa los frenos antes de empezar por los caminos mojados."
               }
             },
             {
@@ -1300,7 +1410,8 @@
                 "de": "Halten Sie Abstand zum Rand, der Boden kann tückisch sein.",
                 "hu": "Tartson távolságot a peremtől, a talaj csalóka lehet.",
                 "ro": "Păstrați distanța față de margine; solul poate fi înșelător.",
-                "en": "Keep your distance from the edge; the ground can be treacherous."
+                "en": "Keep your distance from the edge; the ground can be treacherous.",
+                "es": "Mantén distancia del borde; el terreno puede ser traicionero."
               }
             },
             {
@@ -1309,7 +1420,8 @@
                 "de": "Fahren Sie langsam über die Fugen der Brücke.",
                 "hu": "Lassan haladjon át a híd illesztésein.",
                 "ro": "Traversați încet peste îmbinările podului.",
-                "en": "Ride slowly over the bridge joints to avoid slipping."
+                "en": "Ride slowly over the bridge joints to avoid slipping.",
+                "es": "Cruza lentamente las juntas del puente para evitar resbalones."
               }
             },
             {
@@ -1318,7 +1430,8 @@
                 "de": "Sicherer Abstellplatz für Räder im Eingangsbereich vorhanden.",
                 "hu": "Biztonságos biciklitároló található a bejáratnál.",
                 "ro": "Există un loc sigur pentru biciclete în zona de intrare.",
-                "en": "Secure bike parking is available near the entrance area."
+                "en": "Secure bike parking is available near the entrance area.",
+                "es": "Hay aparcamiento seguro para bicicletas cerca del área de entrada."
               }
             },
             {
@@ -1327,7 +1440,8 @@
                 "de": "Das alte Pflaster ist bei Regen extrem glatt; Vorsicht!",
                 "hu": "A régi kövezet esőben rendkívül csúszós, vigyázat!",
                 "ro": "Pavajul vechi este extrem de alunecos pe ploaie; atenție!",
-                "en": "The old pavement is extremely slick when raining; be careful!"
+                "en": "The old pavement is extremely slick when raining; be careful!",
+                "es": "El pavimento antiguo resulta extremadamente resbaladizo cuando llueve; ¡ten cuidado!"
               }
             },
             {
@@ -1336,7 +1450,8 @@
                 "de": "Beenden Sie die Tour hier und suchen Sie trockene Kleidung auf.",
                 "hu": "Fejezze be itt a túrát, és keressen száraz ruhát.",
                 "ro": "Încheiați turul aici și căutați haine uscate.",
-                "en": "End your tour here and find a place to dry off."
+                "en": "End your tour here and find a place to dry off.",
+                "es": "Termina tu tour aquí y busca un lugar para secarte."
               }
             }
           ],
@@ -1364,6 +1479,12 @@
               "Wear high-visibility rain gear for safety.",
               "Downhill sections in Ronda are technical when wet.",
               "Keep your belongings in waterproof panniers or bags."
+            ],
+            "es": [
+              "Evita frenar de golpe sobre superficies empedradas.",
+              "Usa ropa de lluvia de alta visibilidad para mayor seguridad.",
+              "Los tramos en descenso en Ronda son técnicos cuando están mojados.",
+              "Guarda tus pertenencias en alforjas o bolsas impermeables."
             ]
           }
         },
@@ -1372,7 +1493,8 @@
             "de": "Eine Wintertour mit dem Rad bietet in Ronda fantastische Fernsichten. Die Luft ist kalt, aber die Anstiege halten warm. Von der Alameda geht es zum Mirador, wo die Wintersonne tief steht. Wir radeln hinab zu den Arabischen Bädern, die im Tal oft im Schatten liegen, und erklimmen dann wieder die Altstadt, um die Tour an der geschichtsträchtigen Puerta de Almocábar abzuschließen.",
             "hu": "A téli bringatúra Rondában fantasztikus kilátással ajándékozza meg. A levegő hideg, de az emelkedők melegen tartják. Az Alamedától a kilátóig tekerünk az alacsony téli napsütésben. Legurulunk az Arab fürdőkhöz, melyek a völgyben gyakran árnyékban vannak, majd visszakapaszkodunk az óvárosba az Almocábar kapuhoz.",
             "ro": "Un tur de iarnă cu bicicleta oferă vederi panoramice fantastice în Ronda. Aerul e rece, dar urcările te mențin cald. De la Alameda mergem la Mirador în soarele palid de iarnă. Coborâm la Băile Arabe, care în vale sunt adesea în umbră, apoi urcăm din nou spre orașul vechi pentru a încheia la poarta Almocábar.",
-            "en": "A winter bike tour in Ronda offers fantastic long-distance views. The air is cold, but the climbs will keep you warm. From Alameda, head to the Mirador in the low winter light. Cycle down to the Arab Baths, which often sit in shade in the valley, and then climb back up to the old town to finish at the historic Almocábar Gate."
+            "en": "A winter bike tour in Ronda offers fantastic long-distance views. The air is cold, but the climbs will keep you warm. From Alameda, head to the Mirador in the low winter light. Cycle down to the Arab Baths, which often sit in shade in the valley, and then climb back up to the old town to finish at the historic Almocábar Gate.",
+            "es": "Un tour en bicicleta por Ronda en invierno ofrece fantásticas vistas de largo alcance. El aire es frío, pero las subidas te mantienen caliente. Desde la Alameda dirígete al Mirador con la baja luz invernal. Baja en bici hasta los Baños Árabes, que a menudo quedan en sombra en el valle, y luego sube de nuevo al casco antiguo para terminar en la histórica Puerta de Almocábar."
           },
           "stops": [
             {
@@ -1381,7 +1503,8 @@
                 "de": "Starten Sie spät am Vormittag, wenn der Frost geschmolzen ist.",
                 "hu": "Késő délelőtt induljon, amikor a zúzmara már elolvadt.",
                 "ro": "Porniți târziu dimineața, după ce s-a topit bruma.",
-                "en": "Start late in the morning once the frost has melted."
+                "en": "Start late in the morning once the frost has melted.",
+                "es": "Empieza más tarde por la mañana, una vez que haya desaparecido la escarcha."
               }
             },
             {
@@ -1390,7 +1513,8 @@
                 "de": "Der Fahrtwind ist hier besonders kalt; Halstuch tragen.",
                 "hu": "A menetszél itt különösen hideg; viseljen sálat.",
                 "ro": "Curentul de aer e foarte rece aici; purtați un fular.",
-                "en": "The wind chill is significant here; wear a neck warmer."
+                "en": "The wind chill is significant here; wear a neck warmer.",
+                "es": "El viento produce una sensación térmica significativa aquí; lleva braga para el cuello."
               }
             },
             {
@@ -1399,7 +1523,8 @@
                 "de": "Kurzer Stopp für Fotos, bevor die Finger zu kalt werden.",
                 "hu": "Rövid fotómegálló, mielőtt megfagynának az ujjai.",
                 "ro": "Oprire scurtă pentru poze înainte să vă înghețe degetele.",
-                "en": "Quick stop for photos before your fingers get too cold."
+                "en": "Quick stop for photos before your fingers get too cold.",
+                "es": "Parada rápida para fotos antes de que los dedos se enfríen demasiado."
               }
             },
             {
@@ -1408,7 +1533,8 @@
                 "de": "Im Tal ist es im Winter deutlich kühler als oben in der Stadt.",
                 "hu": "A völgyben télen jóval hűvösebb van, mint fent a városban.",
                 "ro": "În vale este mult mai răcoare iarna decât sus în oraș.",
-                "en": "The valley is noticeably cooler than the clifftop city in winter."
+                "en": "The valley is noticeably cooler than the clifftop city in winter.",
+                "es": "El valle es notablemente más frío que la ciudad en el borde del acantilado en invierno."
               }
             },
             {
@@ -1417,7 +1543,8 @@
                 "de": "Achten Sie auf Raureif in schattigen Kurven.",
                 "hu": "Ügyeljen a dérre az árnyékos kanyarokban.",
                 "ro": "Atenție la chiciură în curbele umbrite.",
-                "en": "Watch out for hoarfrost in shaded corners."
+                "en": "Watch out for hoarfrost in shaded corners.",
+                "es": "Cuidado con la escarcha blanca en rincones sombreados."
               }
             },
             {
@@ -1426,7 +1553,8 @@
                 "de": "In der Nähe gibt es gute Orte für ein warmes Mittagessen.",
                 "hu": "A közelben kiváló helyek vannak egy meleg ebédhez.",
                 "ro": "Există locuri bune în apropiere pentru un prânz cald.",
-                "en": "There are great spots nearby for a warm recovery meal."
+                "en": "There are great spots nearby for a warm recovery meal.",
+                "es": "Hay buenos lugares cercanos para una comida de recuperación caliente."
               }
             }
           ],
@@ -1454,6 +1582,12 @@
               "Days are short; aim to finish by 17:30.",
               "Be alert for icy patches in the shaded old town alleys.",
               "A thermos with a hot drink is highly recommended."
+            ],
+            "es": [
+              "Lleva ropa por capas y guantes cortaviento.",
+              "Los días son cortos; procura terminar antes de las 17:30.",
+              "Estate alerta ante placas de hielo en los callejones sombreados del casco antiguo.",
+              "Un termo con bebida caliente es muy recomendable."
             ]
           }
         }
@@ -1472,7 +1606,8 @@
             "de": "Mirador de Ronda",
             "hu": "Rondai kilátópont",
             "ro": "Mirador de Ronda",
-            "en": "Mirador de Ronda"
+            "en": "Mirador de Ronda",
+            "es": "Mirador de Ronda"
           },
           "coords": [
             -5.168,
@@ -1487,7 +1622,8 @@
             "de": "Parken Sie im Parkhaus nahe der Stierkampfarena.",
             "hu": "Parkoljon az aréna melletti mélygarázsban.",
             "ro": "Parcați în parcarea subterană de lângă arena de coridă.",
-            "en": "Park in the underground garage near the bullring."
+            "en": "Park in the underground garage near the bullring.",
+            "es": "Aparca en el parking subterráneo cerca de la plaza de toros."
           }
         },
         {
@@ -1495,7 +1631,8 @@
             "de": "Puente Nuevo",
             "hu": "Új híd (Puente Nuevo)",
             "ro": "Puente Nuevo",
-            "en": "Puente Nuevo"
+            "en": "Puente Nuevo",
+            "es": "Puente Nuevo"
           },
           "coords": [
             -5.166,
@@ -1510,7 +1647,8 @@
             "de": "Gehen Sie zu Fuß über die Brücke für den besten Ausblick.",
             "hu": "Sétáljon át a hídon a legjobb panorámáért.",
             "ro": "Traversați podul la pas pentru cea mai bună panoramă.",
-            "en": "Walk across the bridge for the best panorama."
+            "en": "Walk across the bridge for the best panorama.",
+            "es": "Camina por el puente para obtener la mejor panorámica."
           }
         },
         {
@@ -1518,7 +1656,8 @@
             "de": "Casa del Rey Moro",
             "hu": "Mór király háza",
             "ro": "Casa del Rey Moro",
-            "en": "Casa del Rey Moro"
+            "en": "Casa del Rey Moro",
+            "es": "Casa del Rey Moro"
           },
           "coords": [
             -5.164,
@@ -1533,7 +1672,8 @@
             "de": "Steigen Sie die 200 Stufen der Wasseramine hinunter.",
             "hu": "Ereszkedjen le a vízi akna 200 lépcsőfokán.",
             "ro": "Coborâți cele 200 de trepte ale minei de apă.",
-            "en": "Climb down the 200 steps of the water mine."
+            "en": "Climb down the 200 steps of the water mine.",
+            "es": "Baja los 200 escalones de la mina de agua."
           }
         },
         {
@@ -1541,7 +1681,8 @@
             "de": "Baños Árabes",
             "hu": "Arab fürdők",
             "ro": "Băile Arabe",
-            "en": "Arab Baths"
+            "en": "Arab Baths",
+            "es": "Baños Árabes"
           },
           "coords": [
             -5.163,
@@ -1556,7 +1697,8 @@
             "de": "Diese Bäder gehören zu den am besten erhaltenen in Spanien.",
             "hu": "Ezek a fürdők a legjobb állapotban maradtak meg Spanyolországban.",
             "ro": "Aceste băi sunt printre cele mai bine conservate din Spania.",
-            "en": "These baths are among the best preserved in Spain."
+            "en": "These baths are among the best preserved in Spain.",
+            "es": "Estos baños están entre los mejor conservados de España."
           }
         },
         {
@@ -1564,7 +1706,8 @@
             "de": "Puerta de Almocábar",
             "hu": "Almocábar-kapu",
             "ro": "Puerta de Almocábar",
-            "en": "Puerta de Almocábar"
+            "en": "Puerta de Almocábar",
+            "es": "Puerta de Almocábar"
           },
           "coords": [
             -5.1655,
@@ -1579,7 +1722,8 @@
             "de": "Genießen Sie den Blick auf die Stadtmauer vom Auto aus.",
             "hu": "Élvezze a rálátást a városfalra az autóból.",
             "ro": "Bucurați-vă de vederea spre zidul orașului din mașină.",
-            "en": "Enjoy the view of the city wall from the car."
+            "en": "Enjoy the view of the city wall from the car.",
+            "es": "Disfruta de la vista de la muralla desde el coche."
           }
         }
       ],
@@ -1587,7 +1731,8 @@
         "de": "Wir beginnen unseren Tag mit dem Auto am Mirador de Ronda, um einen weiten Blick über die Schlucht zu erhalten, bevor wir ins Stadtzentrum fahren.\n\nMittags bestaunen wir die Puente Nuevo und steigen in die geheimnisvolle Wasseramine des Casa del Rey Moro hinunter.\n\nNachmittags fahren wir in den unteren Teil der Stadt, um die exzellent erhaltenen Baños Árabes zu besichtigen.\n\nZum Abschluss führt uns die Route zur Puerta de Almocábar, wo wir die gewaltigen Befestigungsanlagen bewundern, die Ronda einst schützten.",
         "hu": "A napot autóval kezdjük a Mirador de Ronda kilátópontnál, hogy átfogó képet kapjunk a szurdokról, mielőtt a központba hajtanánk.\n\nDélben megcsodáljuk a Puente Nuevo hidat, majd leereszkedünk a Mór király házának titokzatos vízi aknájába.\n\nDélután a város alsó részébe hajtunk, hogy megtekintsük a kiváló állapotban fennmaradt arab fürdőket.\n\nZárásként az Almocábar-kapu felé vesszük az irányt, megcsodálva a hatalmas erődítményeket, amelyek egykor Rondát védték.",
         "ro": "Începem ziua cu mașina la Mirador de Ronda pentru o vedere de ansamblu asupra defileului, înainte de a conduce spre centru.\n\nLa prânz admirăm Puente Nuevo și coborâm în mina de apă misterioasă de la Casa del Rey Moro.\n\nDupă-amiaza conducem spre partea de jos a orașului pentru a vizita băile arabe excelent conservate.\n\nLa final, traseul ne duce spre Puerta de Almocábar, unde admirăm fortificațiile masive care odinioară protejau Ronda.",
-        "en": "We start our day by car at Mirador de Ronda for an overview of the gorge before driving into the center.\n\nAt midday, we admire Puente Nuevo and descend into the mysterious water mine of Casa del Rey Moro.\n\nIn the afternoon, we drive to the lower part of the town to visit the excellently preserved Arab Baths.\n\nTo finish, the route takes us to the Puerta de Almocábar, admiring the massive fortifications that once protected Ronda."
+        "en": "We start our day by car at Mirador de Ronda for an overview of the gorge before driving into the center.\n\nAt midday, we admire Puente Nuevo and descend into the mysterious water mine of Casa del Rey Moro.\n\nIn the afternoon, we drive to the lower part of the town to visit the excellently preserved Arab Baths.\n\nTo finish, the route takes us to the Puerta de Almocábar, admiring the massive fortifications that once protected Ronda.",
+        "es": "Comenzamos el día en coche en el Mirador de Ronda para obtener una visión general del tajo antes de entrar al centro.\n\nAl mediodía admiramos el Puente Nuevo y descendemos a la misteriosa mina de agua de la Casa del Rey Moro.\n\nPor la tarde conducimos a la parte baja de la ciudad para visitar los excelentemente conservados Baños Árabes.\n\nPara finalizar, la ruta nos lleva a la Puerta de Almocábar, admirando las enormes fortificaciones que una vez protegieron Ronda."
       },
       "gastro_picks": {
         "de": [
@@ -1695,6 +1840,12 @@
           "Use the large parking garages on the edge of the center.",
           "The streets are very narrow in places, drive carefully.",
           "A small rental car is ideal for Ronda."
+        ],
+        "es": [
+          "Aparcar en el casco antiguo es casi imposible.",
+          "Utiliza los grandes parkings en el borde del centro.",
+          "Las calles son muy estrechas en algunos tramos, conduce con cuidado.",
+          "Un coche de alquiler pequeño es ideal para Ronda."
         ]
       },
       "variants": {
@@ -1703,7 +1854,8 @@
             "de": "Wir beginnen unseren Tag mit dem Auto am Mirador de Ronda, um einen weiten Blick über die Schlucht zu erhalten, bevor wir ins Stadtzentrum fahren.\n\nMittags bestaunen wir die Puente Nuevo und steigen in die geheimnisvolle Wasseramine des Casa del Rey Moro hinunter.\n\nNachmittags fahren wir in den unteren Teil der Stadt, um die exzellent erhaltenen Baños Árabes zu besichtigen.\n\nZum Abschluss führt uns die Route zur Puerta de Almocábar, wo wir die gewaltigen Befestigungsanlagen bewundern, die Ronda einst schützten.",
             "hu": "A napot autóval kezdjük a Mirador de Ronda kilátópontnál, hogy átfogó képet kapjunk a szurdokról, mielőtt a központba hajtanánk.\n\nDélben megcsodáljuk a Puente Nuevo hidat, majd leereszkedünk a Mór király házának titokzatos vízi aknájába.\n\nDélután a város alsó részébe hajtunk, hogy megtekintsük a kiváló állapotban fennmaradt arab fürdőket.\n\nZárásként az Almocábar-kapu felé vesszük az irányt, megcsodálva a hatalmas erődítményeket, amelyek egykor Rondát védték.",
             "ro": "Începem ziua cu mașina la Mirador de Ronda pentru o vedere de ansamblu asupra defileului, înainte de a conduce spre centru.\n\nLa prânz admirăm Puente Nuevo și coborâm în mina de apă misterioasă de la Casa del Rey Moro.\n\nDupă-amiaza conducem spre partea de jos a orașului pentru a vizita băile arabe excelent conservate.\n\nLa final, traseul ne duce spre Puerta de Almocábar, unde admirăm fortificațiile masive care odinioară protejau Ronda.",
-            "en": "We start our day by car at Mirador de Ronda for an overview of the gorge before driving into the center.\n\nAt midday, we admire Puente Nuevo and descend into the mysterious water mine of Casa del Rey Moro.\n\nIn the afternoon, we drive to the lower part of the town to visit the excellently preserved Arab Baths.\n\nTo finish, the route takes us to the Puerta de Almocábar, admiring the massive fortifications that once protected Ronda."
+            "en": "We start our day by car at Mirador de Ronda for an overview of the gorge before driving into the center.\n\nAt midday, we admire Puente Nuevo and descend into the mysterious water mine of Casa del Rey Moro.\n\nIn the afternoon, we drive to the lower part of the town to visit the excellently preserved Arab Baths.\n\nTo finish, the route takes us to the Puerta de Almocábar, admiring the massive fortifications that once protected Ronda.",
+            "es": "Comenzamos el día en coche en el Mirador de Ronda para obtener una visión general del tajo antes de entrar al centro.\n\nAl mediodía admiramos el Puente Nuevo y descendemos a la misteriosa mina de agua de la Casa del Rey Moro.\n\nPor la tarde conducimos a la parte baja de la ciudad para visitar los excelentemente conservados Baños Árabes.\n\nPara finalizar, la ruta nos lleva a la Puerta de Almocábar, admirando las enormes fortificaciones que una vez protegieron Ronda."
           },
           "stops": [
             {
@@ -1711,13 +1863,15 @@
                 "de": "Mirador de Ronda",
                 "hu": "Rondai kilátópont",
                 "ro": "Mirador de Ronda",
-                "en": "Mirador de Ronda"
+                "en": "Mirador de Ronda",
+                "es": "Mirador de Ronda"
               },
               "tip_5lang": {
                 "de": "Parken Sie im Parkhaus nahe der Stierkampfarena.",
                 "hu": "Parkoljon az aréna melletti mélygarázsban.",
                 "ro": "Parcați în parcarea subterană de lângă arena de coridă.",
-                "en": "Park in the underground garage near the bullring."
+                "en": "Park in the underground garage near the bullring.",
+                "es": "Aparca en el parking subterráneo cerca de la plaza de toros."
               }
             },
             {
@@ -1725,13 +1879,15 @@
                 "de": "Puente Nuevo",
                 "hu": "Új híd (Puente Nuevo)",
                 "ro": "Puente Nuevo",
-                "en": "Puente Nuevo"
+                "en": "Puente Nuevo",
+                "es": "Puente Nuevo"
               },
               "tip_5lang": {
                 "de": "Gehen Sie zu Fuß über die Brücke für den besten Ausblick.",
                 "hu": "Sétáljon át a hídon a legjobb panorámáért.",
                 "ro": "Traversați podul la pas pentru cea mai bună panoramă.",
-                "en": "Walk across the bridge for the best panorama."
+                "en": "Walk across the bridge for the best panorama.",
+                "es": "Camina por el puente para obtener la mejor panorámica."
               }
             },
             {
@@ -1739,13 +1895,15 @@
                 "de": "Casa del Rey Moro",
                 "hu": "Mór király háza",
                 "ro": "Casa del Rey Moro",
-                "en": "Casa del Rey Moro"
+                "en": "Casa del Rey Moro",
+                "es": "Casa del Rey Moro"
               },
               "tip_5lang": {
                 "de": "Steigen Sie die 200 Stufen der Wasseramine hinunter.",
                 "hu": "Ereszkedjen le a vízi akna 200 lépcsőfokán.",
                 "ro": "Coborâți cele 200 de trepte ale minei de apă.",
-                "en": "Climb down the 200 steps of the water mine."
+                "en": "Climb down the 200 steps of the water mine.",
+                "es": "Baja los 200 escalones de la mina de agua."
               }
             },
             {
@@ -1753,13 +1911,15 @@
                 "de": "Baños Árabes",
                 "hu": "Arab fürdők",
                 "ro": "Băile Arabe",
-                "en": "Arab Baths"
+                "en": "Arab Baths",
+                "es": "Baños Árabes"
               },
               "tip_5lang": {
                 "de": "Diese Bäder gehören zu den am besten erhaltenen in Spanien.",
                 "hu": "Ezek a fürdők a legjobb állapotban maradtak meg Spanyolországban.",
                 "ro": "Aceste băi sunt printre cele mai bine conservate din Spania.",
-                "en": "These baths are among the best preserved in Spain."
+                "en": "These baths are among the best preserved in Spain.",
+                "es": "Estos baños están entre los mejor conservados de España."
               }
             },
             {
@@ -1767,13 +1927,15 @@
                 "de": "Puerta de Almocábar",
                 "hu": "Almocábar-kapu",
                 "ro": "Puerta de Almocábar",
-                "en": "Puerta de Almocábar"
+                "en": "Puerta de Almocábar",
+                "es": "Puerta de Almocábar"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf die Stadtmauer vom Auto aus.",
                 "hu": "Élvezze a rálátást a városfalra az autóból.",
                 "ro": "Bucurați-vă de vederea spre zidul orașului din mașină.",
-                "en": "Enjoy the view of the city wall from the car."
+                "en": "Enjoy the view of the city wall from the car.",
+                "es": "Disfruta de la vista de la muralla desde el coche."
               }
             }
           ],
@@ -1883,6 +2045,12 @@
               "Use the large parking garages on the edge of the center.",
               "The streets are very narrow in places, drive carefully.",
               "A small rental car is ideal for Ronda."
+            ],
+            "es": [
+              "Aparcar en el casco antiguo es casi imposible.",
+              "Utiliza los grandes parkings en el borde del centro.",
+              "Las calles son muy estrechas en algunos tramos, conduce con cuidado.",
+              "Un coche de alquiler pequeño es ideal para Ronda."
             ]
           }
         },
@@ -1891,7 +2059,8 @@
             "de": "Ronda mit dem Auto bei Regen ist komfortabel und bietet tolle Aussichten. Wir beginnen am Mirador und fahren zum Puente Nuevo. Ein Highlight ist die Casa del Rey Moro, wo man die Gärten trotz Regen genießen kann. Danach geht es zu den Arabischen Bädern und schließlich zur Puerta de Almocábar, immer trocken im eigenen Fahrzeug.",
             "hu": "Ronda autóval esőben kényelmes és látványos. A kilátónál kezdünk, majd a Puente Nuevo-hoz hajtunk. A Mór király háza kertjei esőben is különlegesek. Ezután az Arab fürdők felé vesszük az irányt, végül az Almocábar kapunál zárjuk a túrát, szárazon maradva az autóban.",
             "ro": "Ronda cu mașina pe ploaie este confortabilă și oferă panorame superbe. Începem la Mirador și conducem spre Puente Nuevo. Casa del Rey Moro este un punct de atracție chiar și pe ploaie. Urmează Băile Arabe și, în final, poarta Almocábar, totul din confortul uscat al vehiculului.",
-            "en": "Exploring Ronda by car in the rain is comfortable and scenic. Start at the Mirador and drive to Puente Nuevo. A highlight is Casa del Rey Moro, where gardens look lush in the rain. Continue to the Arab Baths and finish at the Almocábar Gate, staying dry throughout your journey."
+            "en": "Exploring Ronda by car in the rain is comfortable and scenic. Start at the Mirador and drive to Puente Nuevo. A highlight is Casa del Rey Moro, where gardens look lush in the rain. Continue to the Arab Baths and finish at the Almocábar Gate, staying dry throughout your journey.",
+            "es": "Explorar Ronda en coche bajo la lluvia es cómodo y pintoresco. Comienza en el Mirador y conduce hasta el Puente Nuevo. Un punto destacado es la Casa del Rey Moro, cuyos jardines se ven exuberantes con lluvia. Continúa hasta los Baños Árabes y termina en la Puerta de Almocábar, manteniéndote seco durante todo el recorrido."
           },
           "stops": [
             {
@@ -1900,7 +2069,8 @@
                 "de": "Parkplatz in der Nähe nutzen, um kurze Laufwege im Regen zu haben.",
                 "hu": "Használja a közeli parkolót, hogy keveset kelljen gyalogolni az esőben.",
                 "ro": "Folosiți parcarea din apropiere pentru a merge puțin prin ploaie.",
-                "en": "Use nearby parking to minimize walking in the rain."
+                "en": "Use nearby parking to minimize walking in the rain.",
+                "es": "Utiliza aparcamientos cercanos para minimizar los paseos bajo la lluvia."
               }
             },
             {
@@ -1909,7 +2079,8 @@
                 "de": "Vorsicht beim Ein- und Aussteigen, der Asphalt kann glatt sein.",
                 "hu": "Vigyázzon a ki- és beszállásnál, az aszfalt csúszós lehet.",
                 "ro": "Atenție la urcare și coborâre, asfaltul poate fi alunecos.",
-                "en": "Be careful when getting in and out; the asphalt can be slick."
+                "en": "Be careful when getting in and out; the asphalt can be slick.",
+                "es": "Ten cuidado al entrar y salir; el asfalto puede estar resbaladizo."
               }
             },
             {
@@ -1918,7 +2089,8 @@
                 "de": "Die Treppen zur Wassermine sind bei Regen sehr rutschig; Vorsicht!",
                 "hu": "A vízaknához vezető lépcsők esőben nagyon csúszósak; vigyázat!",
                 "ro": "Scările spre mina de apă sunt foarte alunecoase pe ploaie; atenție!",
-                "en": "The stairs to the water mine are very slippery when wet; use caution!"
+                "en": "The stairs to the water mine are very slippery when wet; use caution!",
+                "es": "Las escaleras hacia la mina de agua son muy resbaladizas cuando están mojadas; ¡precaución!"
               }
             },
             {
@@ -1927,7 +2099,8 @@
                 "de": "Gute Zufahrt direkt bis zum Eingang möglich.",
                 "hu": "Közvetlen autóút vezet egészen a bejáratig.",
                 "ro": "Acces auto bun chiar până la intrare.",
-                "en": "Good road access right up to the entrance."
+                "en": "Good road access right up to the entrance.",
+                "es": "Buen acceso por carretera hasta la entrada."
               }
             },
             {
@@ -1936,7 +2109,8 @@
                 "de": "Parken Sie auf dem großen Platz vor dem Tor.",
                 "hu": "Parkoljon a kapu előtti tágas téren.",
                 "ro": "Parcați în piața mare din fața porții.",
-                "en": "Park in the large square located in front of the gate."
+                "en": "Park in the large square located in front of the gate.",
+                "es": "Aparca en la amplia plaza situada frente a la puerta."
               }
             }
           ],
@@ -1964,6 +2138,12 @@
               "Be wary of mountain fog surrounding Ronda.",
               "Keep an umbrella in the car for the short walks to sights.",
               "Narrow old town streets are more challenging when wet."
+            ],
+            "es": [
+              "Utiliza el parking subterráneo central (por ejemplo, Plaza del Socorro).",
+              "Cuidado con la niebla de montaña que rodea Ronda.",
+              "Lleva un paraguas en el coche para los cortos paseos a los puntos de interés.",
+              "Las estrechas calles del casco antiguo son más difíciles con humedad."
             ]
           }
         },
@@ -1972,7 +2152,8 @@
             "de": "Winterfahrten durch Ronda bieten klare Horizonte und schneebedeckte Gipfel am Horizont. Wir starten am Mirador und besichtigen den Puente Nuevo im sanften Winterlicht. Die Casa del Rey Moro bietet windgeschützte Gartenwege. Über die kurvigen Straßen geht es hinab zu den Arabischen Bädern und zurück zur imposanten Puerta de Almocábar, während die Heizung für Komfort sorgt.",
             "hu": "Téli autózás Rondában: tiszta látóhatár és távoli havas csúcsok. A kilátótól indulunk, majd a Puente Nuevo-t nézzük meg a lágy téli fényben. A Mór király háza kertjei szélvédettek. A kanyargós utakon legurulunk az Arab fürdőkhöz, majd vissza az impozáns Almocábar kapuhoz, miközben az autóban meleg van.",
             "ro": "Condusul prin Ronda iarna oferă orizonturi limpezi și vârfuri înzăpezite în depărtare. Pornim de la Mirador și vizităm Puente Nuevo în lumina blândă de iarnă. Casa del Rey Moro oferă poteci ferite de vânt. Pe drumurile șerpuite coborâm la Băile Arabe și revenim la poarta Almocábar în confortul termic al mașinii.",
-            "en": "Winter driving in Ronda offers clear horizons and snowy peaks in the distance. Start at the Mirador and see Puente Nuevo in the soft winter sun. Casa del Rey Moro provides wind-sheltered garden paths. Follow the winding roads down to the Arab Baths and return to the imposing Almocábar Gate while staying warm inside."
+            "en": "Winter driving in Ronda offers clear horizons and snowy peaks in the distance. Start at the Mirador and see Puente Nuevo in the soft winter sun. Casa del Rey Moro provides wind-sheltered garden paths. Follow the winding roads down to the Arab Baths and return to the imposing Almocábar Gate while staying warm inside.",
+            "es": "Conducir en Ronda en invierno ofrece horizontes despejados y picos nevados a lo lejos. Comienza en el Mirador y contempla el Puente Nuevo con la suave luz invernal. La Casa del Rey Moro ofrece senderos ajardinados resguardados del viento. Sigue las carreteras sinuosas hasta los Baños Árabes y regresa a la imponente Puerta de Almocábar mientras te mantienes abrigado dentro."
           },
           "stops": [
             {
@@ -1981,7 +2162,8 @@
                 "de": "Beste Zeit für Fotos ist der späte Vormittag.",
                 "hu": "A legjobb időpont a fotózáshoz a késő délelőtt.",
                 "ro": "Cel mai bun moment pentru poze este târziu dimineața.",
-                "en": "The best time for photos is late morning."
+                "en": "The best time for photos is late morning.",
+                "es": "La mejor hora para fotos es a media-mañana."
               }
             },
             {
@@ -1990,7 +2172,8 @@
                 "de": "Das Licht am Nachmittag betont die Textur des Steins.",
                 "hu": "A délutáni fény kiemeli a kőzet textúráját.",
                 "ro": "Lumina de după-amiază subliniază textura pietrei.",
-                "en": "Afternoon light beautifully highlights the stone's texture."
+                "en": "Afternoon light beautifully highlights the stone's texture.",
+                "es": "La luz de la tarde realza maravillosamente la textura de la piedra."
               }
             },
             {
@@ -1999,7 +2182,8 @@
                 "de": "In den Gärten ist es oft wärmer als an den windigen Aussichtspunkten.",
                 "hu": "A kertekben gyakran melegebb van, mint a szeles kilátópontokon.",
                 "ro": "În grădini este adesea mai cald decât la punctele de belvedere expuse.",
-                "en": "The gardens are often warmer than the windy viewpoints."
+                "en": "The gardens are often warmer than the windy viewpoints.",
+                "es": "Los jardines suelen estar más cálidos que los miradores ventosos."
               }
             },
             {
@@ -2008,7 +2192,8 @@
                 "de": "Die Heizung im Auto nach dem Besuch der kühlen Ruinen genießen.",
                 "hu": "Élvezze az autó fűtését a hűvös romok látogatása után.",
                 "ro": "Bucurați-vă de căldura din mașină după vizitarea ruinelor răcoroase.",
-                "en": "Enjoy the car's heater after visiting the cool ruins."
+                "en": "Enjoy the car's heater after visiting the cool ruins.",
+                "es": "Disfruta de la calefacción del coche después de visitar las ruinas frías."
               }
             },
             {
@@ -2017,7 +2202,8 @@
                 "de": "Idealer Ort, um den Sonnenuntergang im Auto sitzend zu beobachten.",
                 "hu": "Ideális hely a naplemente megtekintéséhez az autóból.",
                 "ro": "Loc ideal pentru a privi apusul stând în mașină.",
-                "en": "Ideal spot to watch the sunset from the comfort of your car."
+                "en": "Ideal spot to watch the sunset from the comfort of your car.",
+                "es": "Lugar ideal para ver la puesta de sol desde la comodidad del coche."
               }
             }
           ],
@@ -2045,6 +2231,12 @@
               "Visibility is often exceptional during the winter months.",
               "Parking garages help protect your vehicle from frost.",
               "Check tire pressure as it drops with the temperature."
+            ],
+            "es": [
+              "Cuidado con el hielo negro durante las conducciones a primera hora o de noche.",
+              "La visibilidad suele ser excepcional durante los meses de invierno.",
+              "Los aparcamientos cubiertos ayudan a proteger el vehículo de la escarcha.",
+              "Revisa la presión de los neumáticos, ya que baja con la temperatura."
             ]
           }
         }
@@ -2063,7 +2255,8 @@
             "de": "Alameda del Tajo",
             "hu": "Alameda del Tajo park",
             "ro": "Alameda del Tajo",
-            "en": "Alameda del Tajo"
+            "en": "Alameda del Tajo",
+            "es": "Alameda del Tajo"
           },
           "coords": [
             -5.167,
@@ -2078,7 +2271,8 @@
             "de": "Der Busbahnhof liegt nur wenige Gehminuten vom Park entfernt.",
             "hu": "A buszpályaudvar csak pár perc sétára van a parktól.",
             "ro": "Autogara se află la doar câteva minute de mers pe jos de parc.",
-            "en": "The bus station is just a few minutes' walk from the park."
+            "en": "The bus station is just a few minutes' walk from the park.",
+            "es": "La estación de autobuses está a solo unos minutos a pie del parque."
           }
         },
         {
@@ -2086,7 +2280,8 @@
             "de": "Plaza de Toros de Ronda",
             "hu": "Rondai bikaviadal-aréna",
             "ro": "Plaza de Toros de Ronda",
-            "en": "Plaza de Toros de Ronda"
+            "en": "Plaza de Toros de Ronda",
+            "es": "Plaza de Toros de Ronda"
           },
           "coords": [
             -5.1665,
@@ -2101,7 +2296,8 @@
             "de": "Zentral gelegen und leicht erreichbar.",
             "hu": "Központi fekvésű és könnyen elérhető.",
             "ro": "Situată central și ușor de accesat.",
-            "en": "Centrally located and easy to reach."
+            "en": "Centrally located and easy to reach.",
+            "es": "Ubicado en el centro y de fácil acceso."
           }
         },
         {
@@ -2109,7 +2305,8 @@
             "de": "Puente Nuevo",
             "hu": "Új híd (Puente Nuevo)",
             "ro": "Puente Nuevo",
-            "en": "Puente Nuevo"
+            "en": "Puente Nuevo",
+            "es": "Puente Nuevo"
           },
           "coords": [
             -5.166,
@@ -2124,7 +2321,8 @@
             "de": "Das Wahrzeichen ist von fast jeder Buslinie aus zu sehen.",
             "hu": "A jelkép szinte minden buszjáratról látható.",
             "ro": "Simbolul este vizibil de pe aproape orice linie de autobuz.",
-            "en": "The landmark is visible from almost every bus line."
+            "en": "The landmark is visible from almost every bus line.",
+            "es": "El monumento es visible desde casi todas las líneas de autobús."
           }
         },
         {
@@ -2132,7 +2330,8 @@
             "de": "Palacio de Mondragón",
             "hu": "Mondragón palota",
             "ro": "Palacio de Mondragón",
-            "en": "Palacio de Mondragón"
+            "en": "Palacio de Mondragón",
+            "es": "Palacio de Mondragón"
           },
           "coords": [
             -5.1685,
@@ -2147,7 +2346,8 @@
             "de": "Nutzen Sie den lokalen Bus, um in die Oberstadt zu gelangen.",
             "hu": "Használja a helyi buszt a felsőváros eléréséhez.",
             "ro": "Folosiți autobuzul local pentru a ajunge în orașul de sus.",
-            "en": "Use the local bus to reach the upper town."
+            "en": "Use the local bus to reach the upper town.",
+            "es": "Toma el autobús local para llegar al casco alto."
           }
         },
         {
@@ -2155,7 +2355,8 @@
             "de": "Puerta de Almocábar",
             "hu": "Almocábar-kapu",
             "ro": "Puerta de Almocábar",
-            "en": "Puerta de Almocábar"
+            "en": "Puerta de Almocábar",
+            "es": "Puerta de Almocábar"
           },
           "coords": [
             -5.1655,
@@ -2170,7 +2371,8 @@
             "de": "Die Haltestelle befindet sich direkt vor dem historischen Tor.",
             "hu": "A megálló közvetlenül a történelmi kapu előtt található.",
             "ro": "Stația se află chiar în fața porții istorice.",
-            "en": "The stop is located directly in front of the historical gate."
+            "en": "The stop is located directly in front of the historical gate.",
+            "es": "La parada está situada justo frente a la puerta histórica."
           }
         }
       ],
@@ -2178,7 +2380,8 @@
         "de": "Wir nutzen den öffentlichen Nahverkehr, um entspannt in der Alameda del Tajo zu starten, dem grünen Balkon der Stadt.\n\nMittags besuchen wir die historische Stierkampfarena und bewundern die majestätische Puente Nuevo.\n\nNachmittags bringt uns der Bus zum Palacio de Mondragón, wo wir tief in die Geschichte der Region eintauchen.\n\nZum Ausklang des Tages fahren wir zur Puerta de Almocábar, um die imposanten Stadtmauern zu erkunden, bevor wir die Rückreise antreten.",
         "hu": "A tömegközlekedést használva kényelmesen kezdünk az Alameda del Tajo parkban, a város zöld balkonján.\n\nDélben meglátogatjuk a történelmi bikaviadal-arénát és megcsodáljuk a fenséges Puente Nuevo hidat.\n\nDélután a busz a Mondragón palotához repít minket, ahol elmerülünk a régió gazdag történelmében.\n\nA nap végén az Almocábar-kapuhoz utazunk, hogy felfedezzük az impozáns városfalakat a hazaindulás előtt.",
         "ro": "Folosind transportul public, începem relaxați în parcul Alameda del Tajo, balconul verde al orașului.\n\nLa prânz vizităm arena istorică de coridă și admirăm maiestuosul Puente Nuevo.\n\nDupă-amiaza, autobuzul ne duce la Palacio de Mondragón, unde ne scufundăm în istoria bogată a regiunii.\n\nLa sfârșitul zilei mergem la Puerta de Almocábar pentru a explora zidurile impunătoare ale orașului înainte de plecare.",
-        "en": "Using public transit, we start relaxed at Alameda del Tajo park, the city's green balcony.\n\nAt midday, we visit the historical bullring and admire the majestic Puente Nuevo.\n\nIn the afternoon, the bus takes us to Palacio de Mondragón, where we dive into the region's rich history.\n\nAt the end of the day, we travel to the Puerta de Almocábar to explore the imposing city walls before heading back."
+        "en": "Using public transit, we start relaxed at Alameda del Tajo park, the city's green balcony.\n\nAt midday, we visit the historical bullring and admire the majestic Puente Nuevo.\n\nIn the afternoon, the bus takes us to Palacio de Mondragón, where we dive into the region's rich history.\n\nAt the end of the day, we travel to the Puerta de Almocábar to explore the imposing city walls before heading back.",
+        "es": "Usando el transporte público, comenzamos con calma en el parque Alameda del Tajo, el balcón verde de la ciudad.\n\nAl mediodía, visitamos la histórica plaza de toros y admiramos el majestuoso Puente Nuevo.\n\nPor la tarde, el autobús nos lleva al Palacio de Mondragón, donde nos sumergimos en la rica historia de la región.\n\nAl final del día, nos trasladamos a la Puerta de Almocábar para explorar las imponentes murallas antes de regresar."
       },
       "gastro_picks": {
         "de": [
@@ -2286,6 +2489,12 @@
           "Always check the schedules at the stops.",
           "Tickets can be purchased directly from the driver.",
           "The train station is well connected to other cities."
+        ],
+        "es": [
+          "Los autobuses locales son fiables pero tienen poca frecuencia.",
+          "Consulta siempre los horarios en las paradas.",
+          "Los billetes se pueden comprar directamente al conductor.",
+          "La estación de tren está bien conectada con otras ciudades."
         ]
       },
       "variants": {
@@ -2294,7 +2503,8 @@
             "de": "Wir nutzen den öffentlichen Nahverkehr, um entspannt in der Alameda del Tajo zu starten, dem grünen Balkon der Stadt.\n\nMittags besuchen wir die historische Stierkampfarena und bewundern die majestätische Puente Nuevo.\n\nNachmittags bringt uns der Bus zum Palacio de Mondragón, wo wir tief in die Geschichte der Region eintauchen.\n\nZum Ausklang des Tages fahren wir zur Puerta de Almocábar, um die imposanten Stadtmauern zu erkunden, bevor wir die Rückreise antreten.",
             "hu": "A tömegközlekedést használva kényelmesen kezdünk az Alameda del Tajo parkban, a város zöld balkonján.\n\nDélben meglátogatjuk a történelmi bikaviadal-arénát és megcsodáljuk a fenséges Puente Nuevo hidat.\n\nDélután a busz a Mondragón palotához repít minket, ahol elmerülünk a régió gazdag történelmében.\n\nA nap végén az Almocábar-kapuhoz utazunk, hogy felfedezzük az impozáns városfalakat a hazaindulás előtt.",
             "ro": "Folosind transportul public, începem relaxați în parcul Alameda del Tajo, balconul verde al orașului.\n\nLa prânz vizităm arena istorică de coridă și admirăm maiestuosul Puente Nuevo.\n\nDupă-amiaza, autobuzul ne duce la Palacio de Mondragón, unde ne scufundăm în istoria bogată a regiunii.\n\nLa sfârșitul zilei mergem la Puerta de Almocábar pentru a explora zidurile impunătoare ale orașului înainte de plecare.",
-            "en": "Using public transit, we start relaxed at Alameda del Tajo park, the city's green balcony.\n\nAt midday, we visit the historical bullring and admire the majestic Puente Nuevo.\n\nIn the afternoon, the bus takes us to Palacio de Mondragón, where we dive into the region's rich history.\n\nAt the end of the day, we travel to the Puerta de Almocábar to explore the imposing city walls before heading back."
+            "en": "Using public transit, we start relaxed at Alameda del Tajo park, the city's green balcony.\n\nAt midday, we visit the historical bullring and admire the majestic Puente Nuevo.\n\nIn the afternoon, the bus takes us to Palacio de Mondragón, where we dive into the region's rich history.\n\nAt the end of the day, we travel to the Puerta de Almocábar to explore the imposing city walls before heading back.",
+            "es": "Usando el transporte público, comenzamos con calma en el parque Alameda del Tajo, el balcón verde de la ciudad.\n\nAl mediodía, visitamos la histórica plaza de toros y admiramos el majestuoso Puente Nuevo.\n\nPor la tarde, el autobús nos lleva al Palacio de Mondragón, donde nos sumergimos en la rica historia de la región.\n\nAl final del día, nos trasladamos a la Puerta de Almocábar para explorar las imponentes murallas antes de regresar."
           },
           "stops": [
             {
@@ -2302,13 +2512,15 @@
                 "de": "Alameda del Tajo",
                 "hu": "Alameda del Tajo park",
                 "ro": "Alameda del Tajo",
-                "en": "Alameda del Tajo"
+                "en": "Alameda del Tajo",
+                "es": "Alameda del Tajo"
               },
               "tip_5lang": {
                 "de": "Der Busbahnhof liegt nur wenige Gehminuten vom Park entfernt.",
                 "hu": "A buszpályaudvar csak pár perc sétára van a parktól.",
                 "ro": "Autogara se află la doar câteva minute de mers pe jos de parc.",
-                "en": "The bus station is just a few minutes' walk from the park."
+                "en": "The bus station is just a few minutes' walk from the park.",
+                "es": "La estación de autobuses está a solo unos minutos a pie del parque."
               }
             },
             {
@@ -2316,13 +2528,15 @@
                 "de": "Plaza de Toros de Ronda",
                 "hu": "Rondai bikaviadal-aréna",
                 "ro": "Plaza de Toros de Ronda",
-                "en": "Plaza de Toros de Ronda"
+                "en": "Plaza de Toros de Ronda",
+                "es": "Plaza de Toros de Ronda"
               },
               "tip_5lang": {
                 "de": "Zentral gelegen und leicht erreichbar.",
                 "hu": "Központi fekvésű és könnyen elérhető.",
                 "ro": "Situată central și ușor de accesat.",
-                "en": "Centrally located and easy to reach."
+                "en": "Centrally located and easy to reach.",
+                "es": "Ubicado en el centro y de fácil acceso."
               }
             },
             {
@@ -2330,13 +2544,15 @@
                 "de": "Puente Nuevo",
                 "hu": "Új híd (Puente Nuevo)",
                 "ro": "Puente Nuevo",
-                "en": "Puente Nuevo"
+                "en": "Puente Nuevo",
+                "es": "Puente Nuevo"
               },
               "tip_5lang": {
                 "de": "Das Wahrzeichen ist von fast jeder Buslinie aus zu sehen.",
                 "hu": "A jelkép szinte minden buszjáratról látható.",
                 "ro": "Simbolul este vizibil de pe aproape orice linie de autobuz.",
-                "en": "The landmark is visible from almost every bus line."
+                "en": "The landmark is visible from almost every bus line.",
+                "es": "El monumento es visible desde casi todas las líneas de autobús."
               }
             },
             {
@@ -2344,13 +2560,15 @@
                 "de": "Palacio de Mondragón",
                 "hu": "Mondragón palota",
                 "ro": "Palacio de Mondragón",
-                "en": "Palacio de Mondragón"
+                "en": "Palacio de Mondragón",
+                "es": "Palacio de Mondragón"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den lokalen Bus, um in die Oberstadt zu gelangen.",
                 "hu": "Használja a helyi buszt a felsőváros eléréséhez.",
                 "ro": "Folosiți autobuzul local pentru a ajunge în orașul de sus.",
-                "en": "Use the local bus to reach the upper town."
+                "en": "Use the local bus to reach the upper town.",
+                "es": "Toma el autobús local para llegar al casco alto."
               }
             },
             {
@@ -2358,13 +2576,15 @@
                 "de": "Puerta de Almocábar",
                 "hu": "Almocábar-kapu",
                 "ro": "Puerta de Almocábar",
-                "en": "Puerta de Almocábar"
+                "en": "Puerta de Almocábar",
+                "es": "Puerta de Almocábar"
               },
               "tip_5lang": {
                 "de": "Die Haltestelle befindet sich direkt vor dem historischen Tor.",
                 "hu": "A megálló közvetlenül a történelmi kapu előtt található.",
                 "ro": "Stația se află chiar în fața porții istorice.",
-                "en": "The stop is located directly in front of the historical gate."
+                "en": "The stop is located directly in front of the historical gate.",
+                "es": "La parada está situada justo frente a la puerta histórica."
               }
             }
           ],
@@ -2474,6 +2694,12 @@
               "Always check the schedules at the stops.",
               "Tickets can be purchased directly from the driver.",
               "The train station is well connected to other cities."
+            ],
+            "es": [
+              "Los autobuses locales son fiables pero tienen poca frecuencia.",
+              "Consulta siempre los horarios en las paradas.",
+              "Los billetes se pueden comprar directamente al conductor.",
+              "La estación de tren está bien conectada con otras ciudades."
             ]
           }
         },
@@ -2482,7 +2708,8 @@
             "de": "Mit dem Bus durch das regnerische Ronda zu fahren, ist eine entspannte Art, die Stadt zu sehen. Wir starten an der Alameda und nutzen den Transit zur Plaza de Toros. Kurze Wege führen zum Puente Nuevo und zum Mondragón Palast, wo wir im Trockenen bleiben. Der Tag endet an der Puerta de Almocábar, bequem erreichbar mit den lokalen Linien.",
             "hu": "Busszal utazni az esős Rondában pihentető módja a városnézésnek. Az Alamedától indulunk, és tömegközlekedéssel megyünk az Arénához. Rövid séták vezetnek a Puente Nuevo-hoz és a Mondragón palotához, ahol szárazon maradhatunk. A nap az Almocábar kapunál zárul, mely könnyen elérhető a helyi járatokkal.",
             "ro": "Călătoria cu autobuzul prin Ronda ploioasă este o modalitate relaxantă de a vedea orașul. Pornim de la Alameda și folosim transportul spre Plaza de Toros. Scurte plimbări ne duc la Puente Nuevo și Palatul Mondragón, unde rămânem la adăpost. Ziua se încheie la poarta Almocábar, accesibilă ușor cu liniile locale.",
-            "en": "Taking the bus through rainy Ronda is a relaxed way to see the sights. Start at Alameda and use transit to reach the Bullring. Short walks lead to Puente Nuevo and Mondragón Palace, keeping you mostly dry. Conclude your day at the Almocábar Gate, easily accessible via local bus routes."
+            "en": "Taking the bus through rainy Ronda is a relaxed way to see the sights. Start at Alameda and use transit to reach the Bullring. Short walks lead to Puente Nuevo and Mondragón Palace, keeping you mostly dry. Conclude your day at the Almocábar Gate, easily accessible via local bus routes.",
+            "es": "Recorrer Ronda en autobús con lluvia es una forma relajada de ver los puntos de interés. Empieza en la Alameda y usa el transporte para llegar a la Plaza de Toros. Caminatas cortas conducen al Puente Nuevo y al Palacio de Mondragón, manteniéndote mayormente seco. Concluye el día en la Puerta de Almocábar, fácilmente accesible por las líneas locales de autobús."
           },
           "stops": [
             {
@@ -2491,7 +2718,8 @@
                 "de": "Bushaltestelle direkt am Parkeingang vorhanden.",
                 "hu": "Buszmegálló található közvetlenül a park bejáratánál.",
                 "ro": "Stație de autobuz chiar la intrarea în parc.",
-                "en": "Bus stop is located right at the park entrance."
+                "en": "Bus stop is located right at the park entrance.",
+                "es": "La parada de autobús está justo en la entrada del parque."
               }
             },
             {
@@ -2500,7 +2728,8 @@
                 "de": "Der Bus hält nur wenige Schritte vom Eingang entfernt.",
                 "hu": "A busz csak pár lépésre áll meg a bejárattól.",
                 "ro": "Autobuzul oprește la doar câțiva pași de intrare.",
-                "en": "The bus stops just a few steps from the entrance."
+                "en": "The bus stops just a few steps from the entrance.",
+                "es": "El autobús para a pocos pasos de la entrada."
               }
             },
             {
@@ -2509,7 +2738,8 @@
                 "de": "Nutzen Sie den Transit, um den steilen Rückweg zu vermeiden.",
                 "hu": "Használja a tömegközlekedést a meredek visszautat elkerülve.",
                 "ro": "Folosiți transportul public pentru a evita urcușul abrupt la întoarcere.",
-                "en": "Use transit to avoid the steep climb back up."
+                "en": "Use transit to avoid the steep climb back up.",
+                "es": "Usa el transporte para evitar la empinada subida de regreso."
               }
             },
             {
@@ -2518,7 +2748,8 @@
                 "de": "Die Haltestelle in der Nähe bietet Schutz vor Regen.",
                 "hu": "A közeli megálló védelmet nyújt az eső elől.",
                 "ro": "Stația din apropiere oferă adăpost împotriva ploii.",
-                "en": "The nearby stop provides shelter from the rain."
+                "en": "The nearby stop provides shelter from the rain.",
+                "es": "La parada cercana ofrece refugio de la lluvia."
               }
             },
             {
@@ -2527,7 +2758,8 @@
                 "de": "Gute Anbindung an das Stadtzentrum auch bei schlechtem Wetter.",
                 "hu": "Jó összeköttetés a városközponttal rossz időben is.",
                 "ro": "Conexiuni bune cu centrul orașului chiar și pe vreme rea.",
-                "en": "Good connections to the city center even in poor weather."
+                "en": "Good connections to the city center even in poor weather.",
+                "es": "Buenas conexiones con el centro incluso en mal tiempo."
               }
             }
           ],
@@ -2555,6 +2787,12 @@
               "Check schedules as rain can cause minor traffic delays.",
               "Carry a compact umbrella for the short walks to the bus stops.",
               "Buy tickets directly from the driver (have small change ready)."
+            ],
+            "es": [
+              "Los autobuses están bien calefactados en invierno y días lluviosos.",
+              "Consulta los horarios, la lluvia puede causar pequeños retrasos de tráfico.",
+              "Lleva un paraguas compacto para las cortas caminatas a las paradas.",
+              "Compra los billetes directamente al conductor (lleva cambio pequeño)."
             ]
           }
         },
@@ -2563,7 +2801,8 @@
             "de": "Ronda im Winter mit dem Transit zu erkunden, ist effizient und warm. Wir starten an der Alameda und fahren zur Plaza de Toros, um die Arena im klaren Winterlicht zu sehen. Danach geht es zum Puente Nuevo und zum Mondragón Palast. Der Bus bringt uns bequem zur Puerta de Almocábar, während wir die Aussicht auf die frostige Stadt genießen.",
             "hu": "Rondát télen tömegközlekedéssel felfedezni hatékony és meleg megoldás. Az Alamedától indulunk az Arénához, hogy lássuk a tiszta téli fényeket. Ezután a Puente Nuevo és a Mondragón palota következik. A busz kényelmesen elvisz az Almocábar kapuhoz, miközben csodáljuk a dérlepte várost.",
             "ro": "Explorarea Rondei iarna cu transportul public este eficientă și călduroasă. Pornim de la Alameda spre Plaza de Toros pentru a vedea arena în lumina clară de iarnă. Urmează Puente Nuevo și Palatul Mondragón. Autobuzul ne duce confortabil la poarta Almocábar, oferind vederi spre orașul înghețat.",
-            "en": "Exploring Ronda in winter by transit is efficient and warm. Start at Alameda and take the bus to the Bullring to see it in the crisp winter light. Continue to Puente Nuevo and Mondragón Palace. The bus provides a cozy way to reach the Almocábar Gate while enjoying views of the frosty city."
+            "en": "Exploring Ronda in winter by transit is efficient and warm. Start at Alameda and take the bus to the Bullring to see it in the crisp winter light. Continue to Puente Nuevo and Mondragón Palace. The bus provides a cozy way to reach the Almocábar Gate while enjoying views of the frosty city.",
+            "es": "Explorar Ronda en invierno en transporte público es eficiente y cálido. Empieza en la Alameda y toma el autobús a la Plaza de Toros para verla con la luz invernal. Continúa hacia el Puente Nuevo y el Palacio de Mondragón. El autobús ofrece una forma acogedora de llegar a la Puerta de Almocábar mientras disfrutas de vistas de la ciudad con escarcha."
           },
           "stops": [
             {
@@ -2572,7 +2811,8 @@
                 "de": "Der Busbahnhof von Ronda ist nur 10 Gehminuten entfernt.",
                 "hu": "Ronda buszpályaudvara mindössze 10 perc sétára van.",
                 "ro": "Autogara din Ronda este la doar 10 minute de mers pe jos.",
-                "en": "Ronda's bus station is just a 10-minute walk away."
+                "en": "Ronda's bus station is just a 10-minute walk away.",
+                "es": "La estación de autobuses de Ronda está a solo 10 minutos a pie."
               }
             },
             {
@@ -2581,7 +2821,8 @@
                 "de": "Zentraler Knotenpunkt für viele Buslinien.",
                 "hu": "Számos buszjárat központi csomópontja.",
                 "ro": "Nod central pentru multe linii de autobuz.",
-                "en": "Central hub for many local bus lines."
+                "en": "Central hub for many local bus lines.",
+                "es": "Nudo central para muchas líneas locales de autobús."
               }
             },
             {
@@ -2590,7 +2831,8 @@
                 "de": "Steigen Sie hier aus, um die beste Sicht ohne viel Laufen zu haben.",
                 "hu": "Itt szálljon le a legjobb kilátásért, sok gyaloglás nélkül.",
                 "ro": "Coborâți aici pentru cea mai bună vedere fără mult mers pe jos.",
-                "en": "Get off here for the best views with minimal walking."
+                "en": "Get off here for the best views with minimal walking.",
+                "es": "Baja aquí para las mejores vistas con el mínimo de caminata."
               }
             },
             {
@@ -2599,7 +2841,8 @@
                 "de": "In der Nähe gibt es gemütliche Cafés zum Aufwärmen.",
                 "hu": "A közelben hangulatos kávézók várják a melegedni vágyókat.",
                 "ro": "Există cafenele primitoare în apropiere pentru a vă încălzi.",
-                "en": "There are cozy cafes nearby to warm up after your visit."
+                "en": "There are cozy cafes nearby to warm up after your visit.",
+                "es": "Hay cafés acogedores cerca para entrar en calor tras la visita."
               }
             },
             {
@@ -2608,7 +2851,8 @@
                 "de": "Letzte Haltestelle vor der Rückfahrt ins moderne Stadtzentrum.",
                 "hu": "Az utolsó megálló a modern városközpontba való visszatérés előtt.",
                 "ro": "Ultima stație înainte de întoarcerea în centrul modern al orașului.",
-                "en": "Final stop before heading back to the modern city center."
+                "en": "Final stop before heading back to the modern city center.",
+                "es": "Última parada antes de regresar al centro moderno de la ciudad."
               }
             }
           ],
@@ -2636,6 +2880,12 @@
               "Use wait times to photograph the beautifully lit streets.",
               "Buses offer a unique elevated view of the gorge area.",
               "Combine transit rides with short walks for the best experience."
+            ],
+            "es": [
+              "Los horarios de autobús pueden variar ligeramente en invierno.",
+              "Aprovecha los tiempos de espera para fotografiar las calles bellamente iluminadas.",
+              "Los autobuses ofrecen una vista elevada única del área de la garganta.",
+              "Combina trayectos en transporte con caminatas cortas para la mejor experiencia."
             ]
           }
         }
@@ -2653,19 +2903,22 @@
       "de": "Ronda spricht klares andalusisches Spanisch, aber als beruehmtes Ziel funktionieren Englisch und Deutsch in Restaurants und Hotels meist gut. In den Tapasbars rund um die Plaza del Socorro lohnt ein 'una de rabo de toro' (Ochsenschwanz, Ronda-Spezialitaet).",
       "hu": "Rondában tiszta andalúz spanyolt beszélnek, de a híres turistaváros lévén az éttermekben és hotelekben általában megy az angol és néha a német is. A Plaza del Socorro körüli tapasbárokban próbáld ki: 'una de rabo de toro' - ökörfarokpörkölt, Ronda specialitása.",
       "ro": "Ronda vorbeste spaniola andaluza clara, dar fiind destinatie celebra, engleza si germana merg in restaurante si hoteluri. In tapas barurile din Plaza del Socorro cere 'una de rabo de toro', coada de taur, specialitatea Rondei.",
-      "en": "Ronda speaks clear Andalusian Spanish, but as a famous destination English and even German work fine in restaurants and hotels. In tapas bars around Plaza del Socorro order 'una de rabo de toro', oxtail stew, Ronda's signature dish."
+      "en": "Ronda speaks clear Andalusian Spanish, but as a famous destination English and even German work fine in restaurants and hotels. In tapas bars around Plaza del Socorro order 'una de rabo de toro', oxtail stew, Ronda's signature dish.",
+      "es": "En Ronda se habla un andaluz claro, pero como destino famoso el inglés e incluso el alemán funcionan bien en restaurantes y hoteles. En los bares de tapas alrededor de la Plaza del Socorro pide \"una de rabo de toro\", estofado de rabo, plato emblemático de Ronda."
     },
     "best_time_to_visit": {
       "de": "April bis Juni und September bis Oktober sind ideal: angenehm warm fuer die Wanderung in die Schlucht und die Tagesausflugler aus Marbella sind verteilt. Im August ist es heiss und ueberfuellt, Februar bringt Mandelbluete in den Bergen.",
       "hu": "Április-június és szeptember-október a legjobb: kellemes meleg a szurdoki túrához és a Marbellából érkező napi turisták szétoszlanak. Augusztus forró és tömött, februárban viszont virágzanak a mandulafák a hegyekben.",
       "ro": "Aprilie-iunie si septembrie-octombrie sunt ideale: cald placut pentru drumetia in defileu, iar excursionistii din Marbella sunt mai rari. August e fierbinte si aglomerat, februarie aduce migdali infloriti in munti.",
-      "en": "April to June and September to October are ideal: warm enough for the gorge hike and the Marbella day-trip crowds spread out. August is hot and packed, February brings almond blossoms across the mountains."
+      "en": "April to June and September to October are ideal: warm enough for the gorge hike and the Marbella day-trip crowds spread out. August is hot and packed, February brings almond blossoms across the mountains.",
+      "es": "De abril a junio y de septiembre a octubre son ideales: lo bastante cálido para la caminata por la garganta y las multitudes de Marbella se distribuyen. Agosto es muy caluroso y concurrido; febrero trae la floración del almendro por las montañas."
     },
     "neighborhood_warnings": {
       "de": "Ronda ist sicher, das Stadtbild rund um die Puente Nuevo wirkt aber als Touristen-Magnet, achten Sie auf Taschendiebe in den Mittagsstunden. Die Treppe hinunter ins Tajo ist steil und rutschig, festes Schuhwerk noetig.",
       "hu": "Ronda biztonságos, de a Puente Nuevo környéke turistamágnes, déltájban figyelj a zsebmetszőkre. A szurdokba vezető lépcső meredek és csúszós, masszív cipő szükséges.",
       "ro": "Ronda e sigura, dar zona Puente Nuevo e magnet pentru turisti, atentie la buzunarele la pranz. Scarile spre defileu sunt abrupte si alunecoase, ai nevoie de incaltaminte solida.",
-      "en": "Ronda is safe but the Puente Nuevo area is a tourist magnet, watch for pickpockets at midday. The stairs down into the gorge are steep and slippery, solid shoes are essential."
+      "en": "Ronda is safe but the Puente Nuevo area is a tourist magnet, watch for pickpockets at midday. The stairs down into the gorge are steep and slippery, solid shoes are essential.",
+      "es": "Ronda es segura, pero la zona del Puente Nuevo es un imán turístico; vigila a los carteristas al mediodía. Las escaleras hacia la garganta son empinadas y resbaladizas; son esenciales zapatos firmes."
     }
   }
 }

@@ -21,7 +21,8 @@
             "de": "Casco Antiguo (Altstadt)",
             "hu": "Casco Antiguo (Óváros)",
             "ro": "Casco Antiguo (Orașul Vechi)",
-            "en": "Casco Antiguo (Old Town)"
+            "en": "Casco Antiguo (Old Town)",
+            "es": "Casco Antiguo (Old Town)"
           },
           "coords": [
             -0.1295,
@@ -36,7 +37,8 @@
             "de": "Verlieren Sie sich in den engen Gassen und genießen Sie die Atmosphäre.",
             "hu": "Tévedj el a szűk sikátorokban, és élvezd a hangulatot.",
             "ro": "Pierdeți-vă pe străduțele înguste și bucurați-vă de atmosferă.",
-            "en": "Get lost in the narrow streets and enjoy the atmosphere."
+            "en": "Get lost in the narrow streets and enjoy the atmosphere.",
+            "es": "Piérdete por las calles estrechas y disfruta del ambiente."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Iglesia de San Jaime y Santa Ana",
             "hu": "Szent Jakab és Szent Anna templom",
             "ro": "Biserica San Jaime și Santa Ana",
-            "en": "Church of San Jaime and Santa Ana"
+            "en": "Church of San Jaime and Santa Ana",
+            "es": "Iglesia de San Jaime y Santa Ana"
           },
           "coords": [
             -0.1305,
@@ -59,7 +62,8 @@
             "de": "Achten Sie auf die blauen Kuppeln, ein Wahrzeichen von Benidorm.",
             "hu": "Keresd a kék kupolákat, Benidorm egyik jelképét.",
             "ro": "Observați cupolele albastre, un simbol al Benidormului.",
-            "en": "Look for the blue domes, a landmark of Benidorm."
+            "en": "Look for the blue domes, a landmark of Benidorm.",
+            "es": "Busca las cúpulas azules, un emblema de Benidorm."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Balcón del Mediterráneo",
             "hu": "Balcón del Mediterráneo",
             "ro": "Balcón del Mediterráneo",
-            "en": "Balcón del Mediterráneo"
+            "en": "Balcón del Mediterráneo",
+            "es": "Balcón del Mediterráneo"
           },
           "coords": [
             -0.131,
@@ -82,7 +87,8 @@
             "de": "Der beste Ort für einen Panoramablick auf beide Strände.",
             "hu": "A legjobb hely a panorámás kilátáshoz mindkét strandra.",
             "ro": "Cel mai bun loc pentru o vedere panoramică a ambelor plaje.",
-            "en": "The best spot for a panoramic view of both beaches."
+            "en": "The best spot for a panoramic view of both beaches.",
+            "es": "El mejor lugar para una vista panorámica de ambas playas."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Parque de Elche",
             "hu": "Elche Park",
             "ro": "Parcul Elche",
-            "en": "Parque de Elche"
+            "en": "Parque de Elche",
+            "es": "Parque de Elche"
           },
           "coords": [
             -0.135,
@@ -105,7 +112,8 @@
             "de": "Ein schattiger Ort, um sich auszuruhen und die Tauben zu beobachten.",
             "hu": "Árnyékos hely a pihenésre és a galambok nézésére.",
             "ro": "Un loc umbrit pentru a vă odihni și a privi porumbeii.",
-            "en": "A shady spot to rest and watch the doves."
+            "en": "A shady spot to rest and watch the doves.",
+            "es": "Un lugar sombreado para descansar y observar las palomas."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Playa de Poniente",
             "hu": "Poniente strand",
             "ro": "Plaja Poniente",
-            "en": "Playa de Poniente"
+            "en": "Playa de Poniente",
+            "es": "Playa de Poniente"
           },
           "coords": [
             -0.14,
@@ -128,7 +137,8 @@
             "de": "Ruhiger als Levante, ideal für einen entspannten Nachmittag.",
             "hu": "Csendesebb, mint a Levante, ideális egy pihentető délutánhoz.",
             "ro": "Mai liniștită decât Levante, ideală pentru o după-amiază relaxantă.",
-            "en": "Quieter than Levante, ideal for a relaxing afternoon."
+            "en": "Quieter than Levante, ideal for a relaxing afternoon.",
+            "es": "Más tranquila que Levante, ideal para una tarde de relax."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Playa de Levante",
             "hu": "Levante strand",
             "ro": "Plaja Levante",
-            "en": "Playa de Levante"
+            "en": "Playa de Levante",
+            "es": "Playa de Levante"
           },
           "coords": [
             -0.12,
@@ -151,7 +162,8 @@
             "de": "Der belebteste Strand mit vielen Bars und Wassersportmöglichkeiten.",
             "hu": "A legforgalmasabb strand, tele bárokkal és vízisport lehetőségekkel.",
             "ro": "Cea mai animată plajă, cu multe baruri și sporturi nautice.",
-            "en": "The liveliest beach, full of bars and water sports."
+            "en": "The liveliest beach, full of bars and water sports.",
+            "es": "La playa más animada, llena de bares y deportes acuáticos."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Benidorms Altstadt, dem Casco Antiguo. Schlendern Sie durch die engen Gassen zur Kirche San Jaime y Santa Ana und genießen Sie die atemberaubende Aussicht vom Balcón del Mediterráneo. Am Mittag finden Sie im ruhigen Parque de Elche Schatten, bevor Sie sich am entspannten Poniente-Strand sonnen. Am Nachmittag überqueren Sie die Stadt zum belebten Levante-Strand, wo Sie das pulsierende Leben und die vielen Wassersportmöglichkeiten genießen können. Beenden Sie den Tag in einer der vielen Strandbars bei einem Drink zum Sonnenuntergang.",
         "hu": "Kezdje a napot Benidorm szívében, a Casco Antiguo óvárosban. Sétáljon a szűk utcákon a San Jaime y Santa Ana templomig, majd gyönyörködjön a Balcón del Mediterráneo lélegzetelállító kilátásában. Délben keressen árnyékot a csendes Elche Parkban, mielőtt a nyugodt Poniente strandon napozna. Délután szelje át a várost a nyüzsgő Levante strandra, ahol élvezheti a pezsgő életet és a vízi sportokat. Zárja a napot egy itallal a naplementében az egyik tengerparti bárban.",
         "ro": "Începeți ziua în inima orașului vechi din Benidorm, Casco Antiguo. Plimbați-vă pe străduțele înguste până la Biserica San Jaime y Santa Ana, apoi admirați priveliștea uluitoare de la Balcón del Mediterráneo. La prânz, găsiți umbră în liniștitul Parc Elche înainte de a vă relaxa la soare pe plaja Poniente. După-amiaza, traversați orașul spre animata plajă Levante, unde vă puteți bucura de atmosfera vibrantă și de sporturile nautice. Încheiați ziua cu o băutură la apus la unul dintre numeroasele baruri de pe plajă.",
-        "en": "Start your day in the heart of Benidorm's Old Town, the Casco Antiguo. Wander the narrow streets to the Church of San Jaime and Santa Ana, then take in the breathtaking views from the Balcón del Mediterráneo. At midday, find shade in the tranquil Parque de Elche before sunbathing on the relaxed Poniente beach. In the afternoon, cross the city to the bustling Levante beach, where you can enjoy the vibrant life and water sports. End the day with a sunset drink at one of the many beachside bars."
+        "en": "Start your day in the heart of Benidorm's Old Town, the Casco Antiguo. Wander the narrow streets to the Church of San Jaime and Santa Ana, then take in the breathtaking views from the Balcón del Mediterráneo. At midday, find shade in the tranquil Parque de Elche before sunbathing on the relaxed Poniente beach. In the afternoon, cross the city to the bustling Levante beach, where you can enjoy the vibrant life and water sports. End the day with a sunset drink at one of the many beachside bars.",
+        "es": "Comienza el día en el corazón del Casco Antiguo de Benidorm. Recorre las calles estrechas hasta la Iglesia de San Jaime y Santa Ana, y luego disfruta de las impresionantes vistas desde el Balcón del Mediterráneo. Al mediodía, busca sombra en el tranquilo Parque de Elche antes de tomar el sol en la relajada playa de Poniente. Por la tarde, cruza la ciudad hasta la bulliciosa playa de Levante, donde podrás disfrutar de la vida vibrante y los deportes acuáticos. Termina el día con una copa al atardecer en uno de los muchos bares junto a la playa."
       },
       "gastro_picks": {
         "de": [
@@ -355,6 +368,12 @@
           "Bring plenty of water, especially during the summer months.",
           "The Old Town can get crowded, so be mindful of your belongings.",
           "Plan for a leisurely lunch at one of the tapas restaurants."
+        ],
+        "es": [
+          "Lleva calzado cómodo, ya que caminarás bastante.",
+          "Lleva abundante agua, especialmente en los meses de verano.",
+          "El Casco Antiguo puede llenarse de gente, así que cuida tus pertenencias.",
+          "Planea un almuerzo relajado en uno de los restaurantes de tapas."
         ]
       },
       "variants": {
@@ -363,7 +382,8 @@
             "de": "Beginnen Sie den Morgen in den engen, geschützten Gassen der Altstadt. Mittags bietet die Kirche San Jaime eine trockene Zuflucht vor den Schauern. Der Nachmittagsspaziergang zum Balcón erfordert bei Nässe Vorsicht auf den glatten Fliesen. Beenden Sie den Tag in einem der vielen gemütlichen Cafés an der Levante-Promenade.",
             "hu": "Kezdje a reggelt az óváros szűk, szélvédett utcáin. Délben a San Jaime-templom nyújt száraz menedéket a záporok elől. A délutáni séta a Balcónnál óvatosságot igényel a vizes, csúszós burkolaton. A napot fejezze be a Levante sétány egyik hangulatos, fedett teraszos kávézójában.",
             "ro": "Începeți dimineața pe străzile înguste și protejate ale centrului vechi. La prânz, biserica San Jaime oferă un refugiu uscat împotriva ploii. Plimbarea de după-amiază spre Balcón necesită atenție sporită pe pavajul umed și alunecos. Încheiați ziua într-o cafenea primitoare de pe faleza Levante.",
-            "en": "Start the morning in the narrow, sheltered alleys of the Old Town. By noon, the San Jaime Church provides a dry refuge from the showers. The afternoon walk to the Balcón requires caution on the wet, slippery tiles. End the day in one of the cozy cafes along the Levante promenade."
+            "en": "Start the morning in the narrow, sheltered alleys of the Old Town. By noon, the San Jaime Church provides a dry refuge from the showers. The afternoon walk to the Balcón requires caution on the wet, slippery tiles. End the day in one of the cozy cafes along the Levante promenade.",
+            "es": "Comienza la mañana en los estrechos y resguardados callejones del Casco Antiguo. Al mediodía, la Iglesia de San Jaime ofrece un refugio seco de los chaparrones. La caminata de la tarde al Balcón requiere precaución por los azulejos mojados y resbaladizos. Termina el día en uno de los cafés acogedores a lo largo del paseo de Levante."
           },
           "stops": [
             {
@@ -372,7 +392,8 @@
                 "de": "Die engen Gassen bieten Schutz vor Wind und leichtem Regen.",
                 "hu": "A szűk utcák védelmet nyújtanak a szél és az enyhe eső ellen.",
                 "ro": "Străzile înguste oferă adăpost împotriva vântului și ploii ușoare.",
-                "en": "The narrow streets provide shelter from wind and light rain."
+                "en": "The narrow streets provide shelter from wind and light rain.",
+                "es": "Las calles estrechas proporcionan resguardo del viento y la lluvia ligera."
               }
             },
             {
@@ -381,7 +402,8 @@
                 "de": "Ein idealer Ort, um einen starken Regenschauer im Trockenen abzuwarten.",
                 "hu": "Ideális hely egy erősebb zápor szárazon történő kivárásához.",
                 "ro": "Un loc ideal pentru a aștepta trecerea unei ploi torențiale la adăpost.",
-                "en": "An ideal place to wait out a heavy downpour in the dry."
+                "en": "An ideal place to wait out a heavy downpour in the dry.",
+                "es": "Un lugar ideal para esperar a que pase un fuerte aguacero, en seco."
               }
             },
             {
@@ -390,7 +412,8 @@
                 "de": "Vorsicht: Der weiße Marmor wird bei Nässe extrem rutschig.",
                 "hu": "Vigyázat: a fehér márvány vizesen rendkívül csúszóssá válik.",
                 "ro": "Atenție: marmura albă devine extrem de alunecoasă când este umedă.",
-                "en": "Caution: the white marble becomes extremely slippery when wet."
+                "en": "Caution: the white marble becomes extremely slippery when wet.",
+                "es": "Precaución: el mármol blanco se vuelve extremadamente resbaladizo cuando está mojado."
               }
             },
             {
@@ -399,7 +422,8 @@
                 "de": "Die Palmen bieten nur wenig Schutz; nutzen Sie die nahen Arkaden.",
                 "hu": "A pálmák kevés védelmet adnak; használja a közeli árkádokat.",
                 "ro": "Palmierii oferă puțină protecție; folosiți arcadele din apropiere.",
-                "en": "The palms offer little protection; use the nearby arcades."
+                "en": "The palms offer little protection; use the nearby arcades.",
+                "es": "Las palmeras ofrecen poca protección; utiliza las arcadas cercanas."
               }
             },
             {
@@ -408,7 +432,8 @@
                 "de": "Beobachten Sie das stürmische Meer aus einem der Strandcafés.",
                 "hu": "Figyelje a viharos tengert a parti kávézók üvegfalai mögül.",
                 "ro": "Observați marea agitată din spatele geamurilor unei cafenele de pe plajă.",
-                "en": "Watch the stormy sea from behind the windows of a beach cafe."
+                "en": "Watch the stormy sea from behind the windows of a beach cafe.",
+                "es": "Observa el mar revuelto desde detrás de los ventanales de una cafetería de playa."
               }
             },
             {
@@ -417,7 +442,8 @@
                 "de": "Nutzen Sie die regensicheren Einkaufszonen direkt hinter der Promenade.",
                 "hu": "Használja a sétány mögötti esővédett vásárlóutcákat.",
                 "ro": "Folosiți zonele comerciale protejate de ploaie de lângă faleză.",
-                "en": "Use the rain-protected shopping zones just behind the promenade."
+                "en": "Use the rain-protected shopping zones just behind the promenade.",
+                "es": "Usa las zonas comerciales protegidas de la lluvia justo detrás del paseo."
               }
             }
           ],
@@ -445,6 +471,12 @@
               "Avoid slippery marble surfaces in the Old Town.",
               "The 01 bus line provides a dry connection between the beaches.",
               "Many cafes have heated, awning-covered outdoor areas."
+            ],
+            "es": [
+              "Un paraguas resistente es esencial debido a los vientos costeros.",
+              "Evita las superficies de mármol resbaladizas en el Casco Antiguo.",
+              "La línea de bus 01 ofrece conexión cubierta entre las playas.",
+              "Muchos cafés tienen zonas exteriores cubiertas y calefactadas."
             ]
           }
         },
@@ -453,7 +485,8 @@
             "de": "Genießen Sie den milden Morgen bei einem Spaziergang durch die ruhige Altstadt. Mittags ist die Sonne in der Kirche San Jaime am angenehmsten. Der Nachmittag am Balcón bietet bei klarer Winterluft eine fantastische Fernsicht. Den Abend verbringen Sie am besten vor dem frühen Sonnenuntergang am Poniente-Strand.",
             "hu": "Élvezze az enyhe reggelt a csendes óvárosban sétálva. Délben a San Jaime-templom környékén a legkellemesebb a napsütés. A délutáni látogatás a Balcónnál a tiszta téli levegőben fantasztikus távlatokat nyit. A napot fejezze be a korai naplemente megtekintésével a Poniente strandon.",
             "ro": "Bucurați-vă de dimineața blândă cu o plimbare prin centrul vechi liniștit. La prânz, soarele este cel mai plăcut în zona bisericii San Jaime. După-amiaza la Balcón oferă o vizibilitate excelentă datorită aerului curat de iarnă. Încheiați ziua admirând apusul timpuriu pe plaja Poniente.",
-            "en": "Enjoy the mild morning with a stroll through the quiet Old Town. At noon, the sun is most pleasant around the San Jaime Church. The afternoon visit to the Balcón offers fantastic views in the clear winter air. Finish the day by watching the early sunset on Poniente beach."
+            "en": "Enjoy the mild morning with a stroll through the quiet Old Town. At noon, the sun is most pleasant around the San Jaime Church. The afternoon visit to the Balcón offers fantastic views in the clear winter air. Finish the day by watching the early sunset on Poniente beach.",
+            "es": "Disfruta de la templada mañana con un paseo por el tranquilo Casco Antiguo. Al mediodía, el sol es más agradable alrededor de la Iglesia de San Jaime. La visita vespertina al Balcón ofrece vistas fantásticas con el aire claro de invierno. Termina el día viendo el temprano atardecer en la playa de Poniente."
           },
           "stops": [
             {
@@ -462,7 +495,8 @@
                 "de": "Perfekte Zeit, um die Gassen ohne die Sommerhitze zu erkunden.",
                 "hu": "Tökéletes idő az utcák felfedezésére a nyári hőség nélkül.",
                 "ro": "Momentul perfect pentru a explora străzile fără căldura verii.",
-                "en": "Perfect time to explore the streets without the summer heat."
+                "en": "Perfect time to explore the streets without the summer heat.",
+                "es": "Momento perfecto para explorar las calles sin el calor veraniego."
               }
             },
             {
@@ -471,7 +505,8 @@
                 "de": "Die blauen Kuppeln leuchten im tiefstehenden Winterlicht besonders schön.",
                 "hu": "A kék kupolák különösen szépen ragyognak az alacsony téli napfényben.",
                 "ro": "Cupolele albastre strălucesc frumos în lumina joasă a iernii.",
-                "en": "The blue domes shine beautifully in the low winter sunlight."
+                "en": "The blue domes shine beautifully in the low winter sunlight.",
+                "es": "Las cúpulas azules brillan hermosamente con la baja luz invernal."
               }
             },
             {
@@ -480,7 +515,8 @@
                 "de": "Bringen Sie eine Jacke mit, da der Wind hier im Winter kühl ist.",
                 "hu": "Hozzon kabátot, mert a szél itt télen hűvös lehet.",
                 "ro": "Aduceți o jachetă, deoarece vântul poate fi rece aici iarna.",
-                "en": "Bring a jacket, as the wind can be chilly here in winter."
+                "en": "Bring a jacket, as the wind can be chilly here in winter.",
+                "es": "Lleva una chaqueta, ya que el viento puede ser frío en invierno."
               }
             },
             {
@@ -489,7 +525,8 @@
                 "de": "Die Tauben und die Ruhe im Park sind jetzt besonders entspannend.",
                 "hu": "A galambok és a park csendje most különösen pihentető.",
                 "ro": "Porumbeii și liniștea din parc sunt acum deosebit de relaxante.",
-                "en": "The pigeons and the park's tranquility are especially relaxing now."
+                "en": "The pigeons and the park's tranquility are especially relaxing now.",
+                "es": "Las palomas y la tranquilidad del parque son especialmente relajantes ahora."
               }
             },
             {
@@ -498,7 +535,8 @@
                 "de": "Ideal für lange Spaziergänge; der Sand ist fest und kühl.",
                 "hu": "Ideális hosszú sétákhoz; a homok ilyenkor tömör és hűvös.",
                 "ro": "Ideal pentru plimbări lungi; nisipul este compact și răcoros.",
-                "en": "Ideal for long walks; the sand is firm and cool right now."
+                "en": "Ideal for long walks; the sand is firm and cool right now.",
+                "es": "Ideal para largas caminatas; la arena está firme y fresca en este momento."
               }
             },
             {
@@ -507,7 +545,8 @@
                 "de": "Genießen Sie den Sonnenuntergang gegen 17:50 Uhr von der Promenade.",
                 "hu": "Élvezze a naplementét 17:50 körül a sétányról.",
                 "ro": "Bucurați-vă de apusul de la ora 17:50 de pe faleză.",
-                "en": "Enjoy the sunset around 17:50 from the promenade."
+                "en": "Enjoy the sunset around 17:50 from the promenade.",
+                "es": "Disfruta del atardecer sobre las 17:50 desde el paseo."
               }
             }
           ],
@@ -535,6 +574,12 @@
               "Sunset occurs early, around 17:50.",
               "UV radiation should not be underestimated even in winter.",
               "Many restaurants offer budget-friendly winter menus."
+            ],
+            "es": [
+              "Vístete en capas para la transición entre sol y sombra.",
+              "El sol se pone temprano, alrededor de las 17:50.",
+              "La radiación UV no debe subestimarse ni en invierno.",
+              "Muchos restaurantes ofrecen menús de invierno económicos."
             ]
           }
         }
@@ -553,7 +598,8 @@
             "de": "Parque de Elche",
             "hu": "Elche Park",
             "ro": "Parcul Elche",
-            "en": "Parque de Elche"
+            "en": "Parque de Elche",
+            "es": "Parque de Elche"
           },
           "coords": [
             -0.135,
@@ -568,7 +614,8 @@
             "de": "Ein guter Ausgangspunkt mit Fahrradverleih in der Nähe.",
             "hu": "Jó kiindulópont, a közelben kerékpárkölcsönző található.",
             "ro": "Un punct de plecare bun, cu închirieri de biciclete în apropiere.",
-            "en": "A good starting point with bike rentals available nearby."
+            "en": "A good starting point with bike rentals available nearby.",
+            "es": "Un buen punto de partida con alquiler de bicicletas disponible cerca."
           }
         },
         {
@@ -576,7 +623,8 @@
             "de": "Playa de Poniente",
             "hu": "Poniente strand",
             "ro": "Plaja Poniente",
-            "en": "Playa de Poniente"
+            "en": "Playa de Poniente",
+            "es": "Playa de Poniente"
           },
           "coords": [
             -0.155,
@@ -591,7 +639,8 @@
             "de": "Fahren Sie die lange, moderne Promenade entlang und genießen Sie die Aussicht.",
             "hu": "Tekerj végig a hosszú, modern sétányon, és élvezd a kilátást.",
             "ro": "Plimbați-vă cu bicicleta de-a lungul promenadei lungi și moderne și bucurați-vă de priveliște.",
-            "en": "Cycle along the long, modern promenade and enjoy the views."
+            "en": "Cycle along the long, modern promenade and enjoy the views.",
+            "es": "Pedalea por el largo y moderno paseo y disfruta de las vistas."
           }
         },
         {
@@ -599,7 +648,8 @@
             "de": "Casco Antiguo (Altstadt)",
             "hu": "Casco Antiguo (Óváros)",
             "ro": "Casco Antiguo (Orașul Vechi)",
-            "en": "Casco Antiguo (Old Town)"
+            "en": "Casco Antiguo (Old Town)",
+            "es": "Casco Antiguo (Old Town)"
           },
           "coords": [
             -0.1295,
@@ -614,7 +664,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die engen Gassen zu Fuß.",
             "hu": "Zárd le a biciklidet és fedezd fel gyalog a szűk sikátorokat.",
             "ro": "Parcați-vă bicicleta și explorați străduțele înguste pe jos.",
-            "en": "Park your bike and explore the narrow streets on foot."
+            "en": "Park your bike and explore the narrow streets on foot.",
+            "es": "Aparca tu bicicleta y explora las estrechas calles a pie."
           }
         },
         {
@@ -622,7 +673,8 @@
             "de": "Playa de Levante",
             "hu": "Levante strand",
             "ro": "Plaja Levante",
-            "en": "Playa de Levante"
+            "en": "Playa de Levante",
+            "es": "Playa de Levante"
           },
           "coords": [
             -0.11,
@@ -637,7 +689,8 @@
             "de": "Ideal für ein Mittagessen und um die lebhafte Atmosphäre aufzusaugen.",
             "hu": "Ideális egy ebédhez és a nyüzsgő hangulat magába szívásához.",
             "ro": "Ideal pentru prânz și pentru a absorbi atmosfera plină de viață.",
-            "en": "Ideal for lunch and to soak up the lively atmosphere."
+            "en": "Ideal for lunch and to soak up the lively atmosphere.",
+            "es": "Ideal para almorzar y empaparte del ambiente animado."
           }
         },
         {
@@ -645,7 +698,8 @@
             "de": "Serra Gelada Naturpark (Aussichtspunkt)",
             "hu": "Serra Gelada Natúrpark (kilátó)",
             "ro": "Parcul Natural Serra Gelada (punct de belvedere)",
-            "en": "Serra Gelada Natural Park (Viewpoint)"
+            "en": "Serra Gelada Natural Park (Viewpoint)",
+            "es": "Parque Natural de la Serra Gelada (Mirador)"
           },
           "coords": [
             -0.095,
@@ -660,7 +714,8 @@
             "de": "Der Anstieg ist anspruchsvoll, aber die Aussicht ist es absolut wert.",
             "hu": "Az emelkedő kihívást jelent, de a kilátás mindenért kárpótol.",
             "ro": "Urcușul este solicitant, dar priveliștea merită absolut efortul.",
-            "en": "The climb is challenging, but the view is absolutely worth it."
+            "en": "The climb is challenging, but the view is absolutely worth it.",
+            "es": "La subida es exigente, pero las vistas merecen totalmente la pena."
           }
         }
       ],
@@ -668,7 +723,8 @@
         "de": "Starten Sie Ihre Radtour im Parque de Elche und fahren Sie entlang der eleganten Poniente-Promenade. Genießen Sie die ruhigere Atmosphäre, bevor Sie zurück ins Herz der Stadt radeln, um die Altstadt zu erkunden. Sperren Sie Ihr Rad ab, um zum Balcón del Mediterráneo zu schlendern. Verbringen Sie den Mittag am belebten Levante-Strand, wo unzählige Restaurants auf Sie warten. Am Nachmittag wartet eine Herausforderung: der Anstieg zum Naturpark Serra Gelada, der Sie mit einer spektakulären Aussicht auf die gesamte Küste belohnt.",
         "hu": "Kezdje a biciklitúrát az Elche Parkból, és tekerjen végig az elegáns Poniente sétányon. Élvezze a nyugodtabb hangulatot, mielőtt visszatérne a város szívébe, hogy felfedezze az Óvárost. Zárja le a kerékpárt, hogy elsétálhasson a Balcón del Mediterráneo-hoz. Töltse a délt a nyüzsgő Levante strandon, ahol számos étterem várja. Délután egy kihívás vár: a Serra Gelada Natúrparkba való feljutás, amely a partvonalra nyíló látványos kilátással jutalmazza.",
         "ro": "Începeți turul cu bicicleta din Parcul Elche și pedalați de-a lungul promenadei elegante Poniente. Bucurați-vă de atmosfera mai liniștită înainte de a vă întoarce în inima orașului pentru a explora Orașul Vechi. Parcați bicicleta pentru a vă plimba până la Balcón del Mediterráneo. Petreceți prânzul pe plaja animată Levante, cu nenumăratele sale restaurante. După-amiaza, vă așteaptă o provocare: urcarea în Parcul Natural Serra Gelada, care vă va recompensa cu vederi spectaculoase ale întregii coaste.",
-        "en": "Start your bike tour from Parque de Elche and ride along the elegant Poniente promenade. Enjoy the quieter atmosphere before cycling back to the heart of the city to explore the Old Town. Lock up your bike to stroll to the Balcón del Mediterráneo. Spend midday at the lively Levante beach, with its countless restaurants. In the afternoon, a challenge awaits: the climb up to the Serra Gelada Natural Park, rewarding you with spectacular views of the entire coastline."
+        "en": "Start your bike tour from Parque de Elche and ride along the elegant Poniente promenade. Enjoy the quieter atmosphere before cycling back to the heart of the city to explore the Old Town. Lock up your bike to stroll to the Balcón del Mediterráneo. Spend midday at the lively Levante beach, with its countless restaurants. In the afternoon, a challenge awaits: the climb up to the Serra Gelada Natural Park, rewarding you with spectacular views of the entire coastline.",
+        "es": "Comienza tu ruta en bicicleta desde el Parque de Elche y pedalea por el elegante paseo de Poniente. Disfruta de la atmósfera más tranquila antes de volver al corazón de la ciudad para explorar el Casco Antiguo. Aparca la bici para pasear hasta el Balcón del Mediterráneo. Pasa el mediodía en la animada playa de Levante, con sus numerosos restaurantes. Por la tarde, te espera un reto: la subida a la Serra Gelada, que te recompensará con vistas espectaculares de toda la costa."
       },
       "gastro_picks": {
         "de": [
@@ -864,6 +920,12 @@
           "Always lock your bike securely, especially in busy areas.",
           "Use the designated bike lanes wherever possible.",
           "A sunrise or sunset ride along the coast is particularly beautiful."
+        ],
+        "es": [
+          "Alquila una e-bike para la subida a la Serra Gelada.",
+          "Siempre bloquea bien la bicicleta, especialmente en zonas concurridas.",
+          "Usa los carriles bici señalizados siempre que sea posible.",
+          "Un paseo al amanecer o al atardecer por la costa es especialmente hermoso."
         ]
       },
       "variants": {
@@ -872,7 +934,8 @@
             "de": "Starten Sie vorsichtig am Parque de Elche bei nassen Wegen. Die Fahrt zum Poniente-Strand bietet weite Sicht auf das graue Meer. Mittags bietet die Altstadt kurze Unterstellmöglichkeiten in den Gassen. Die Auffahrt zur Serra Gelada ist bei Regen rutschig und erfordert höchste Konzentration.",
             "hu": "Induljon óvatosan az Elche parkból a vizes utakon. A Poniente strand felé vezető út tágas kilátást nyújt a szürke tengerre. Délben az óváros szűk utcái adnak rövid menedéket. A Serra Gelada felé vezető emelkedő esőben csúszós, maximális koncentrációt igényel.",
             "ro": "Porniți cu atenție din Parcul Elche pe drumurile umede. Drumul spre plaja Poniente oferă vederi largi asupra mării cenușii. La prânz, străzile din orașul vechi oferă scurte momente de adăpost. Urcarea spre Serra Gelada este alunecoasă pe ploaie și necesită concentrare maximă.",
-            "en": "Start carefully from Elche Park on the wet paths. The ride to Poniente Beach offers wide views of the grey sea. At noon, the Old Town's narrow streets provide brief shelter. The climb to Serra Gelada is slippery in the rain and requires maximum concentration."
+            "en": "Start carefully from Elche Park on the wet paths. The ride to Poniente Beach offers wide views of the grey sea. At noon, the Old Town's narrow streets provide brief shelter. The climb to Serra Gelada is slippery in the rain and requires maximum concentration.",
+            "es": "Arranca con cuidado desde Elche Park en los senderos húmedos. El tramo hasta la Playa de Poniente ofrece amplias vistas del mar gris. Al mediodía, las calles estrechas del Casco Antiguo ofrecen un breve refugio. La subida a la Serra Gelada es resbaladiza con lluvia y requiere máxima concentración."
           },
           "stops": [
             {
@@ -881,7 +944,8 @@
                 "de": "Achten Sie auf rutschiges Laub und glatte Fliesen auf den Wegen.",
                 "hu": "Ügyeljen a csúszós levelekre és a sima burkolatra az utakon.",
                 "ro": "Atenție la frunzele alunecoase și pavajul neted de pe alei.",
-                "en": "Watch out for slippery leaves and smooth tiles on the paths."
+                "en": "Watch out for slippery leaves and smooth tiles on the paths.",
+                "es": "Cuidado con las hojas resbaladizas y los azulejos lisos en los caminos."
               }
             },
             {
@@ -890,7 +954,8 @@
                 "de": "Der Radweg ist gut ausgebaut, aber bei Pfützenbildung spritzgefährdet.",
                 "hu": "A kerékpárút jól kiépített, de a tócsák miatt fröccsenésveszélyes.",
                 "ro": "Pista de biciclete este bună, dar există risc de stropire în zonele cu bălți.",
-                "en": "The bike path is well-built but prone to splashing in puddles."
+                "en": "The bike path is well-built but prone to splashing in puddles.",
+                "es": "El carril bici está bien construido pero tiende a salpicar en los charcos."
               }
             },
             {
@@ -899,7 +964,8 @@
                 "de": "Schieben Sie das Rad in den steilen, nassen Gassen der Altstadt.",
                 "hu": "Tolja a kerékpárt az óváros meredek, vizes utcáin.",
                 "ro": "Împingeți bicicleta pe străzile abrupte și umede din centrul vechi.",
-                "en": "Push your bike in the steep, wet alleys of the Old Town."
+                "en": "Push your bike in the steep, wet alleys of the Old Town.",
+                "es": "Empuja la bici en los empinados y mojados callejones del Casco Antiguo."
               }
             },
             {
@@ -908,7 +974,8 @@
                 "de": "Windböen von der See können das Gleichgewicht auf dem Rad stören.",
                 "hu": "A tengerről érkező széllökések megzavarhatják az egyensúlyt.",
                 "ro": "Rafalele de vânt dinspre mare pot afecta echilibrul pe bicicletă.",
-                "en": "Wind gusts from the sea can disturb your balance on the bike."
+                "en": "Wind gusts from the sea can disturb your balance on the bike.",
+                "es": "Las rachas de viento desde el mar pueden desequilibrarte sobre la bici."
               }
             },
             {
@@ -917,7 +984,8 @@
                 "de": "Extreme Vorsicht bei der Abfahrt auf nassem Asphalt.",
                 "hu": "Rendkívüli óvatosság javasolt a lejtőn, a vizes aszfalton.",
                 "ro": "Se recomandă prudență extremă la coborâre pe asfaltul umed.",
-                "en": "Extreme caution is advised during the descent on wet asphalt."
+                "en": "Extreme caution is advised during the descent on wet asphalt.",
+                "es": "Se recomienda extrema precaución en el descenso sobre asfalto mojado."
               }
             }
           ],
@@ -945,6 +1013,12 @@
               "Check your brakes before descending from Serra Gelada.",
               "Avoid abrupt maneuvers on painted bike paths.",
               "Use mudguards to avoid splashes from the road."
+            ],
+            "es": [
+              "Lleva ropa impermeable y casco.",
+              "Revisa tus frenos antes de descender desde la Serra Gelada.",
+              "Evita maniobras bruscas en los carriles pintados.",
+              "Usa guardabarros para evitar salpicaduras de la carretera."
             ]
           }
         },
@@ -953,7 +1027,8 @@
             "de": "Ein erfrischender Morgenstart im Parque de Elche bei kühler Meeresbrise. Die flache Fahrt entlang der Poniente-Playa ist im Winter besonders entspannt. Mittags erkunden Sie die Altstadt, bevor die Sonne tiefer steht. Der sportliche Höhepunkt ist die Serra Gelada am Nachmittag mit kristallklarer Sicht.",
             "hu": "Frissítő reggeli start az Elche parkban a hűvös tengeri szellőben. A sík terep a Poniente strand mentén télen kifejezetten pihentető. Délben fedezze fel az óvárost, mielőtt a nap alacsonyabbra kerül. A nap sportos fénypontja a Serra Gelada délután, kristálytiszta kilátással.",
             "ro": "Un start revigorant în Parcul Elche în briza răcoroasă a mării. Drumul drept de-a lungul plajei Poniente este relaxant iarna. La prânz, explorați centrul vechi înainte ca soarele să coboare. Punctul culminant sportiv este Serra Gelada după-amiaza, cu o vizibilitate clară.",
-            "en": "A refreshing morning start in Elche Park in the cool sea breeze. The flat ride along Poniente Beach is especially relaxing in winter. At noon, explore the Old Town before the sun gets lower. The athletic highlight is Serra Gelada in the afternoon with crystal clear views."
+            "en": "A refreshing morning start in Elche Park in the cool sea breeze. The flat ride along Poniente Beach is especially relaxing in winter. At noon, explore the Old Town before the sun gets lower. The athletic highlight is Serra Gelada in the afternoon with crystal clear views.",
+            "es": "Un refrescante inicio de mañana en Elche Park con la fresca brisa marina. El tramo llano junto a la Playa de Poniente es especialmente relajante en invierno. Al mediodía, explora el Casco Antiguo antes de que el sol baje. El punto culminante atlético es la Serra Gelada por la tarde con vistas cristalinas."
           },
           "stops": [
             {
@@ -962,7 +1037,8 @@
                 "de": "Idealer Startpunkt mit viel Platz auf den Radwegen im Winter.",
                 "hu": "Ideális kiindulópont, télen bőséges hely van a kerékpárutakon.",
                 "ro": "Punct de plecare ideal, cu mult spațiu pe pistele de biciclete iarna.",
-                "en": "Ideal starting point with plenty of space on the bike paths in winter."
+                "en": "Ideal starting point with plenty of space on the bike paths in winter.",
+                "es": "Punto de partida ideal con mucho espacio en los carriles bici en invierno."
               }
             },
             {
@@ -971,7 +1047,8 @@
                 "de": "Genießen Sie die freie Fahrt ohne die sommerlichen Fußgängermassen.",
                 "hu": "Élvezze a szabad haladást a nyári gyalogos tömeg nélkül.",
                 "ro": "Bucurați-vă de drumul liber fără mulțimile de pietoni din vară.",
-                "en": "Enjoy the free ride without the summer pedestrian crowds."
+                "en": "Enjoy the free ride without the summer pedestrian crowds.",
+                "es": "Disfruta del paseo libre sin las multitudes veraniegas."
               }
             },
             {
@@ -980,7 +1057,8 @@
                 "de": "In den schattigen Gassen kann es deutlich kühler sein als am Strand.",
                 "hu": "Az árnyékos utcákban jóval hűvöseval hűvösebb lehet, mint a parton.",
                 "ro": "Pe străzile umbroase poate fi mult mai răcoare decât pe plajă.",
-                "en": "In the shaded alleys, it can be significantly cooler than on the beach."
+                "en": "In the shaded alleys, it can be significantly cooler than on the beach.",
+                "es": "En los callejones sombreados puede hacer bastante más frío que en la playa."
               }
             },
             {
@@ -989,7 +1067,8 @@
                 "de": "Nutzen Sie das helle Mittagslicht für Fotos vom Küstenradweg.",
                 "hu": "Használja ki az erős déli fényt a parti útról készített fotókhoz.",
                 "ro": "Profitați de lumina puternică de la prânz pentru fotografii de pe faleză.",
-                "en": "Take advantage of the bright midday light for photos from the coastal path."
+                "en": "Take advantage of the bright midday light for photos from the coastal path.",
+                "es": "Aprovecha la luz brillante del mediodía para fotos desde el camino costero."
               }
             },
             {
@@ -998,7 +1077,8 @@
                 "de": "Die klare Winterluft ermöglicht Sicht bis nach Alicante.",
                 "hu": "A tiszta téli levegőben akár Alicantéig is elláthat.",
                 "ro": "Aerul curat de iarnă permite vizibilitatea până la Alicante.",
-                "en": "The clear winter air allows views all the way to Alicante."
+                "en": "The clear winter air allows views all the way to Alicante.",
+                "es": "El aire claro de invierno permite ver hasta Alicante."
               }
             }
           ],
@@ -1026,6 +1106,12 @@
               "Sunset is early; ensure you have working bike lights.",
               "Air temperature drops noticeably in the shade.",
               "Drink enough water despite the cold."
+            ],
+            "es": [
+              "Lleva ropa cortavientos, sobre todo para los descensos.",
+              "El sol se pone temprano; asegúrate de llevar luces funcionando en la bici.",
+              "La temperatura del aire baja notablemente en la sombra.",
+              "Bebe suficiente agua a pesar del frío."
             ]
           }
         }
@@ -1044,7 +1130,8 @@
             "de": "Serra Gelada Naturpark (Parkplatz)",
             "hu": "Serra Gelada Natúrpark (Parkoló)",
             "ro": "Parcul Natural Serra Gelada (Parcare)",
-            "en": "Serra Gelada Natural Park (Parking)"
+            "en": "Serra Gelada Natural Park (Parking)",
+            "es": "Parque Natural de la Serra Gelada (Aparcamiento)"
           },
           "coords": [
             -0.09,
@@ -1059,7 +1146,8 @@
             "de": "Parken Sie hier und beginnen Sie Ihre Wanderung zum Kreuz für eine unglaubliche Aussicht.",
             "hu": "Parkolj le itt, és indulj el a túrára a kereszthez a hihetetlen kilátásért.",
             "ro": "Parcați aici și începeți drumeția spre cruce pentru o priveliște incredibilă.",
-            "en": "Park here and start your hike up to the cross for an incredible view."
+            "en": "Park here and start your hike up to the cross for an incredible view.",
+            "es": "Aparca aquí y comienza tu caminata hasta la cruz para una vista increíble."
           }
         },
         {
@@ -1067,7 +1155,8 @@
             "de": "Serra Gelada Aussichtspunkt",
             "hu": "Serra Gelada kilátó",
             "ro": "Punct de belvedere Serra Gelada",
-            "en": "Serra Gelada Viewpoint"
+            "en": "Serra Gelada Viewpoint",
+            "es": "Mirador de la Serra Gelada"
           },
           "coords": [
             -0.095,
@@ -1083,7 +1172,8 @@
             "de": "Der Spaziergang lohnt sich für das Panorama über Benidorm und das Meer.",
             "hu": "A séta megéri a Benidormra és a tengerre nyíló panorámáért.",
             "ro": "Plimbarea merită pentru panorama asupra Benidormului și a mării.",
-            "en": "The walk is worth it for the panorama over Benidorm and the sea."
+            "en": "The walk is worth it for the panorama over Benidorm and the sea.",
+            "es": "La caminata merece la pena por el panorama sobre Benidorm y el mar."
           }
         },
         {
@@ -1091,7 +1181,8 @@
             "de": "Playa de Levante (Parkplatz)",
             "hu": "Levante strand (Parkoló)",
             "ro": "Plaja Levante (Parcare)",
-            "en": "Playa de Levante (Parking)"
+            "en": "Playa de Levante (Parking)",
+            "es": "Playa de Levante (Aparcamiento)"
           },
           "coords": [
             -0.115,
@@ -1107,7 +1198,8 @@
             "de": "Parken Sie in einer der Seitenstraßen und genießen Sie den belebten Strand.",
             "hu": "Parkolj az egyik mellékutcában, és élvezd a nyüzsgő strandot.",
             "ro": "Parcați pe una dintre străzile laterale și bucurați-vă de plaja animată.",
-            "en": "Park in one of the side streets and enjoy the bustling beach."
+            "en": "Park in one of the side streets and enjoy the bustling beach.",
+            "es": "Aparca en una de las calles laterales y disfruta de la animada playa."
           }
         },
         {
@@ -1115,7 +1207,8 @@
             "de": "Casco Antiguo (Tiefgarage)",
             "hu": "Casco Antiguo (Mélygarázs)",
             "ro": "Casco Antiguo (Parcare subterană)",
-            "en": "Casco Antiguo (Underground Parking)"
+            "en": "Casco Antiguo (Underground Parking)",
+            "es": "Casco Antiguo (Aparcamiento subterráneo)"
           },
           "coords": [
             -0.132,
@@ -1131,7 +1224,8 @@
             "de": "Parken Sie hier und erkunden Sie den historischen Kern zu Fuß.",
             "hu": "Parkolj itt, és fedezd fel gyalog a történelmi központot.",
             "ro": "Parcați aici și explorați centrul istoric pe jos.",
-            "en": "Park here and explore the historic core on foot."
+            "en": "Park here and explore the historic core on foot.",
+            "es": "Aparca aquí y explora a pie el núcleo histórico."
           }
         },
         {
@@ -1139,7 +1233,8 @@
             "de": "Balcón del Mediterráneo",
             "hu": "Balcón del Mediterráneo",
             "ro": "Balcón del Mediterráneo",
-            "en": "Balcón del Mediterráneo"
+            "en": "Balcón del Mediterráneo",
+            "es": "Balcón del Mediterráneo"
           },
           "coords": [
             -0.131,
@@ -1155,7 +1250,8 @@
             "de": "Ein kurzer Spaziergang vom Parkhaus zu diesem atemberaubenden Aussichtspunkt.",
             "hu": "Rövid séta a parkolóháztól ehhez a lélegzetelállító kilátóponthoz.",
             "ro": "O scurtă plimbare de la parcare până la acest punct de belvedere uimitor.",
-            "en": "A short walk from the parking garage to this stunning viewpoint."
+            "en": "A short walk from the parking garage to this stunning viewpoint.",
+            "es": "A pocos minutos a pie desde el aparcamiento hasta este impresionante mirador."
           }
         },
         {
@@ -1163,7 +1259,8 @@
             "de": "Playa de Poniente",
             "hu": "Poniente strand",
             "ro": "Plaja Poniente",
-            "en": "Playa de Poniente"
+            "en": "Playa de Poniente",
+            "es": "Playa de Poniente"
           },
           "coords": [
             -0.145,
@@ -1179,7 +1276,8 @@
             "de": "Finden Sie einen Parkplatz und genießen Sie den Sonnenuntergang am ruhigeren Strand.",
             "hu": "Keress egy parkolóhelyet, és élvezd a naplementét a csendesebb strandon.",
             "ro": "Găsiți un loc de parcare și bucurați-vă de apusul de soare pe plaja mai liniștită.",
-            "en": "Find a parking spot and enjoy the sunset on the quieter beach."
+            "en": "Find a parking spot and enjoy the sunset on the quieter beach.",
+            "es": "Busca aparcamiento y disfruta del atardecer en la playa más tranquila."
           }
         }
       ],
@@ -1187,7 +1285,8 @@
         "de": "Beginnen Sie den Tag mit dem Auto zum Naturpark Serra Gelada für eine morgendliche Wanderung mit Panoramablick. Parken Sie Ihr Auto und gehen Sie zu Fuß zum Gipfelkreuz. Fahren Sie mittags zum belebten Levante-Strand, um Sonne zu tanken und die Atmosphäre zu genießen. Am Nachmittag parken Sie im Zentrum und erkunden das historische Herz von Benidorm: die Altstadt und den Balcón del Mediterráneo, alles zu Fuß. Beenden Sie den Tag mit einer kurzen Fahrt zum Poniente-Strand, um einen ruhigen und malerischen Sonnenuntergang zu erleben.",
         "hu": "Kezdje a napot egy autós kirándulással a Serra Gelada Natúrparkba egy reggeli, panorámás túráért. Parkolja le az autót és sétáljon fel a csúcskereszthez. Délben vezessen a nyüzsgő Levante strandra napozni és élvezni a hangulatot. Délután parkoljon le a központban, és fedezze fel gyalog Benidorm történelmi szívét: az Óvárost és a Balcón del Mediterráneo-t. Zárja a napot egy rövid autózással a Poniente strandra, ahol egy békés és festői naplementében gyönyörködhet.",
         "ro": "Începeți ziua cu o excursie cu mașina la Parcul Natural Serra Gelada pentru o drumeție matinală cu vederi panoramice. Parcați mașina și mergeți pe jos până la crucea din vârf. La prânz, conduceți spre plaja animată Levante pentru a vă bucura de soare și atmosferă. După-amiaza, parcați în centru și explorați pe jos inima istorică a Benidormului: Orașul Vechi și Balcón del Mediterráneo. Încheiați ziua cu o scurtă călătorie cu mașina până la plaja Poniente pentru a prinde un apus de soare liniștit și pitoresc.",
-        "en": "Start the day by driving to the Serra Gelada Natural Park for a morning hike with panoramic views. Park the car and walk to the summit cross. For midday, drive to the bustling Levante beach to soak up the sun and atmosphere. In the afternoon, park in the center and explore Benidorm's historic heart on foot: the Old Town and the Balcón del Mediterráneo. End the day with a short drive to Poniente beach to catch a peaceful and scenic sunset."
+        "en": "Start the day by driving to the Serra Gelada Natural Park for a morning hike with panoramic views. Park the car and walk to the summit cross. For midday, drive to the bustling Levante beach to soak up the sun and atmosphere. In the afternoon, park in the center and explore Benidorm's historic heart on foot: the Old Town and the Balcón del Mediterráneo. End the day with a short drive to Poniente beach to catch a peaceful and scenic sunset.",
+        "es": "Empieza el día conduciendo al Parque Natural de la Serra Gelada para una caminata matutina con vistas panorámicas. Aparca el coche y sube a pie hasta la cruz del pico. A mediodía, conduce a la bulliciosa playa de Levante para tomar el sol y empaparte del ambiente. Por la tarde, aparca en el centro y explora a pie el corazón histórico de Benidorm: el Casco Antiguo y el Balcón del Mediterráneo. Termina el día con un corto trayecto hasta la playa de Poniente para contemplar un atardecer tranquilo y pintoresco."
       },
       "gastro_picks": {
         "de": [
@@ -1383,6 +1482,12 @@
           "Pay attention to the blue zones (ORA), where parking is time-limited.",
           "Combine car trips with walks to make the most of your day.",
           "A car allows you to visit more remote beaches and viewpoints."
+        ],
+        "es": [
+          "Aparcar puede ser caro y difícil en verano, así que planifica con antelación.",
+          "Presta atención a las zonas azules (ORA), donde el estacionamiento está limitado por tiempo.",
+          "Combina los trayectos en coche con paseos para aprovechar al máximo el día.",
+          "Un coche te permite visitar playas y miradores más remotos."
         ]
       },
       "variants": {
@@ -1391,7 +1496,8 @@
             "de": "Starten Sie den Tag mit einer Panoramafahrt zur Serra Gelada im Schutze Ihres Wagens. Mittags bietet das Parken am Levante-Strand direkten Zugang zu überdachten Promenaden. Der Besuch der Altstadt gelingt trocken über die Tiefgaragen. Beenden Sie die Tour mit einer Fahrt entlang der beleuchteten Küstenstraße.",
             "hu": "Kezdje a napot egy panoráma-autózással a Serra Gelada felé, az autó védelmében. Délben a Levante strandnál való parkolás közvetlen kijutást ad a fedett sétányokhoz. Az óváros a mélygarázsokon keresztül száraz lábbal elérhető. Zárja a túrát a kivilágított parti út mentén.",
             "ro": "Începeți ziua cu o plimbare panoramică spre Serra Gelada în confortul mașinii. La prânz, parcarea de la plaja Levante oferă acces direct la falezele acoperite. Orașul vechi poate fi vizitat fără a vă uda folosind parcările subterane. Încheiați turul de-a lungul șoselei de coastă iluminate.",
-            "en": "Start the day with a panoramic drive to Serra Gelada in the shelter of your car. At noon, parking at Levante Beach offers direct access to covered promenades. The Old Town can be visited while staying dry via underground parking. End the tour with a drive along the illuminated coastal road."
+            "en": "Start the day with a panoramic drive to Serra Gelada in the shelter of your car. At noon, parking at Levante Beach offers direct access to covered promenades. The Old Town can be visited while staying dry via underground parking. End the tour with a drive along the illuminated coastal road.",
+            "es": "Comienza el día con un recorrido panorámico hasta la Serra Gelada al resguardo de tu coche. Al mediodía, aparcar en la Playa de Levante ofrece acceso directo a paseos cubiertos. El Casco Antiguo se puede visitar manteniéndose seco gracias al aparcamiento subterráneo. Termina el recorrido con un paseo por la carretera costera iluminada."
           },
           "stops": [
             {
@@ -1400,7 +1506,8 @@
                 "de": "Der Parkplatz kann bei starkem Regen matschig sein.",
                 "hu": "A parkoló erős esőben sáros lehet.",
                 "ro": "Parcarea poate fi noroioasă în caz de ploaie puternică.",
-                "en": "The parking lot can be muddy during heavy rain."
+                "en": "The parking lot can be muddy during heavy rain.",
+                "es": "El aparcamiento puede embarrarse durante lluvias intensas."
               }
             },
             {
@@ -1409,7 +1516,8 @@
                 "de": "Bleiben Sie bei Nebel für die Aussicht im Auto oder kurz davor.",
                 "hu": "Köd esetén maradjon az autóban vagy közvetlenül mellette a kilátáshoz.",
                 "ro": "În caz de ceață, rămâneți în mașină pentru vizionarea peisajului.",
-                "en": "In case of fog, stay in the car or right next to it for the view."
+                "en": "In case of fog, stay in the car or right next to it for the view.",
+                "es": "En caso de niebla, quédate en el coche o justo al lado para disfrutar de la vista."
               }
             },
             {
@@ -1418,7 +1526,8 @@
                 "de": "Suchen Sie einen Platz nahe der Ausgänge zur Promenade.",
                 "hu": "Keressen helyet a sétány kijárataihoz közel.",
                 "ro": "Căutați un loc aproape de ieșirile spre faleză.",
-                "en": "Look for a spot near the exits to the promenade."
+                "en": "Look for a spot near the exits to the promenade.",
+                "es": "Busca una plaza cerca de las salidas al paseo marítimo."
               }
             },
             {
@@ -1427,7 +1536,8 @@
                 "de": "Die beste Wahl, um direkt im Herzen der Altstadt trocken anzukommen.",
                 "hu": "A legjobb választás, hogy szárazon érkezzen az óváros szívébe.",
                 "ro": "Cea mai bună alegere pentru a ajunge uscat în inima centrului vechi.",
-                "en": "The best choice to arrive dry right in the heart of the Old Town."
+                "en": "The best choice to arrive dry right in the heart of the Old Town.",
+                "es": "La mejor opción para llegar seco en pleno corazón del Casco Antiguo."
               }
             },
             {
@@ -1436,7 +1546,8 @@
                 "de": "Ein kurzer, nasser Sprint vom Parkhaus zum Aussichtspunkt.",
                 "hu": "Egy rövid, vizes vágta a parkolóháztól a kilátópontig.",
                 "ro": "Un sprint scurt și umed de la parcare până la punctul de belvedere.",
-                "en": "A short, wet dash from the parking garage to the viewpoint."
+                "en": "A short, wet dash from the parking garage to the viewpoint.",
+                "es": "Una carrera corta y húmeda desde el garaje hasta el mirador."
               }
             },
             {
@@ -1445,7 +1556,8 @@
                 "de": "Nutzen Sie die Parkplätze direkt an der Avenida de la Armada Española.",
                 "hu": "Használja a parkolókat közvetlenül az Avenida de la Armada Española mentén.",
                 "ro": "Folosiți parcările direct de pe Avenida de la Armada Española.",
-                "en": "Use the parking spaces directly along Avenida de la Armada Española."
+                "en": "Use the parking spaces directly along Avenida de la Armada Española.",
+                "es": "Utiliza las plazas de aparcamiento directamente en la Avenida de la Armada Española."
               }
             }
           ],
@@ -1473,6 +1585,12 @@
               "Watch out for aquaplaning on the N-332 road.",
               "Visibility on Serra Gelada may be limited by low clouds.",
               "Keep coins or a card ready for the parking meters."
+            ],
+            "es": [
+              "Usa aparcamientos subterráneos para evitar la lluvia al entrar y salir.",
+              "Cuidado con el aquaplaning en la carretera N-332.",
+              "La visibilidad en la Serra Gelada puede verse limitada por nubes bajas.",
+              "Ten monedas o una tarjeta a mano para los parquímetros."
             ]
           }
         },
@@ -1481,7 +1599,8 @@
             "de": "Beginnen Sie den klaren Wintermorgen mit der Auffahrt zur Serra Gelada. Mittags finden Sie am Levante-Strand problemlos einen Parkplatz in der Sonne. Die Altstadt ist im Winter entspannt befahrbar und bietet kurze Wege zum Balcón. Den Tag beschließt eine Fahrt entlang des Poniente-Strandes im goldenen Licht.",
             "hu": "Kezdje a tiszta téli reggelt a Serra Gelada felé autózva. Délben a Levante strandnál könnyen talál parkolóhelyet a napsütésben. Az óváros télen nyugodtan megközelíthető, rövid sétára a Balcóntól. A napot a Poniente strand menti autózás zárja az aranyló fényekben.",
             "ro": "Începeți dimineața senină de iarnă cu urcarea pe Serra Gelada. La prânz, veți găsi ușor parcare la soare lângă plaja Levante. Orașul vechi este ușor de parcurs iarna, oferind acces rapid la Balcón. Ziua se încheie cu o plimbare pe lângă plaja Poniente în lumina aurie.",
-            "en": "Start the clear winter morning with a drive up to Serra Gelada. At noon, you will easily find a parking spot in the sun at Levante Beach. The Old Town is easily accessible in winter, offering short walks to the Balcón. The day ends with a drive along Poniente Beach in the golden light."
+            "en": "Start the clear winter morning with a drive up to Serra Gelada. At noon, you will easily find a parking spot in the sun at Levante Beach. The Old Town is easily accessible in winter, offering short walks to the Balcón. The day ends with a drive along Poniente Beach in the golden light.",
+            "es": "Empieza la clara mañana invernal con un viaje en coche hasta la Serra Gelada. Al mediodía encontrarás fácilmente plaza al sol en la Playa de Levante. El Casco Antiguo es fácilmente accesible en invierno, con cortos paseos hasta el Balcón. El día termina con un trayecto por la Playa de Poniente bajo la luz dorada."
           },
           "stops": [
             {
@@ -1490,7 +1609,8 @@
                 "de": "Im Winter ist es hier oben deutlich kühler als in der Stadt.",
                 "hu": "Télen itt fent jóval hűvösebb van, mint a városban.",
                 "ro": "Iarna este mult mai răcoare aici sus decât în oraș.",
-                "en": "In winter, it's significantly cooler up here than in the city."
+                "en": "In winter, it's significantly cooler up here than in the city.",
+                "es": "En invierno hace mucho más fresco aquí arriba que en la ciudad."
               }
             },
             {
@@ -1499,7 +1619,8 @@
                 "de": "Perfektes Licht für Weitwinkelaufnahmen der gesamten Bucht.",
                 "hu": "Tökéletes fényviszonyok a teljes öböl nagylátószögű fotózásához.",
                 "ro": "Lumină perfectă pentru fotografii panoramice ale întregului golf.",
-                "en": "Perfect light for wide-angle photos of the entire bay."
+                "en": "Perfect light for wide-angle photos of the entire bay.",
+                "es": "Luz perfecta para fotos gran angular de toda la bahía."
               }
             },
             {
@@ -1508,7 +1629,8 @@
                 "de": "Günstige Parkmöglichkeiten in der Nebensaison.",
                 "hu": "Kedvező parkolási lehetőségek a főszezonon kívül.",
                 "ro": "Posibilități de parcare la prețuri bune în afara sezonului.",
-                "en": "Budget-friendly parking options during the off-season."
+                "en": "Budget-friendly parking options during the off-season.",
+                "es": "Opciones de aparcamiento económicas durante la temporada baja."
               }
             },
             {
@@ -1517,7 +1639,8 @@
                 "de": "Parken Sie zentral, um die Winterdekoration der Altstadt zu sehen.",
                 "hu": "Parkoljon központilag, hogy lássa az óváros téli díszítését.",
                 "ro": "Parcați central pentru a vedea decorațiunile de iarnă din orașul vechi.",
-                "en": "Park centrally to see the winter decorations in the Old Town."
+                "en": "Park centrally to see the winter decorations in the Old Town.",
+                "es": "Aparca en el centro para ver las decoraciones invernales del Casco Antiguo."
               }
             },
             {
@@ -1526,7 +1649,8 @@
                 "de": "Kurzer Fußweg; genießen Sie die Sonne auf dem Platz.",
                 "hu": "Rövid séta; élvezze a napsütést a téren.",
                 "ro": "Plimbare scurtă; bucurați-vă de soare în piață.",
-                "en": "Short walk; enjoy the sun in the square."
+                "en": "Short walk; enjoy the sun in the square.",
+                "es": "Corto paseo; disfruta del sol en la plaza."
               }
             },
             {
@@ -1535,7 +1659,8 @@
                 "de": "Die Parkplatzsuche ist hier im Winter sehr entspannt.",
                 "hu": "A parkolóhely-keresés itt télen nagyon egyszerű.",
                 "ro": "Căutarea unui loc de parcare este foarte relaxantă aici iarna.",
-                "en": "Searching for a parking spot is very easy here in winter."
+                "en": "Searching for a parking spot is very easy here in winter.",
+                "es": "Buscar aparcamiento es muy fácil aquí en invierno."
               }
             }
           ],
@@ -1563,6 +1688,12 @@
               "The low sun can be blinding while driving; bring sunglasses.",
               "It can be windy on the coast, hold the car doors firmly when opening.",
               "Watch out for shorter parking times in some zones."
+            ],
+            "es": [
+              "Aprovecha la temporada baja para aparcar sin estrés.",
+              "El sol bajo puede deslumbrar al conducir; trae gafas de sol.",
+              "Puede hacer viento en la costa; sujeta bien las puertas al abrir.",
+              "Atento a tiempos de aparcamiento más cortos en algunas zonas."
             ]
           }
         }
@@ -1581,7 +1712,8 @@
             "de": "Casco Antiguo (Bushaltestelle)",
             "hu": "Casco Antiguo (Buszmegálló)",
             "ro": "Casco Antiguo (Stație de autobuz)",
-            "en": "Casco Antiguo (Bus Stop)"
+            "en": "Casco Antiguo (Bus Stop)",
+            "es": "Casco Antiguo (Parada de autobús)"
           },
           "coords": [
             -0.133,
@@ -1596,7 +1728,8 @@
             "de": "Starten Sie hier, um das historische Zentrum zu erkunden.",
             "hu": "Indulj innen a történelmi központ felfedezéséhez.",
             "ro": "Începeți de aici pentru a explora centrul istoric.",
-            "en": "Start here to explore the historic center."
+            "en": "Start here to explore the historic center.",
+            "es": "Comienza aquí para explorar el centro histórico."
           }
         },
         {
@@ -1604,7 +1737,8 @@
             "de": "Iglesia de San Jaime y Santa Ana",
             "hu": "Szent Jakab és Szent Anna templom",
             "ro": "Biserica San Jaime și Santa Ana",
-            "en": "Church of San Jaime and Santa Ana"
+            "en": "Church of San Jaime and Santa Ana",
+            "es": "Iglesia de San Jaime y Santa Ana"
           },
           "coords": [
             -0.1305,
@@ -1620,7 +1754,8 @@
             "de": "Ein kurzer Spaziergang durch die Altstadt führt Sie zu dieser schönen Kirche.",
             "hu": "Rövid séta az óvárosban elvezet ehhez a gyönyörű templomhoz.",
             "ro": "O scurtă plimbare prin Orașul Vechi vă va duce la această biserică frumoasă.",
-            "en": "A short walk through the old town will lead you to this beautiful church."
+            "en": "A short walk through the old town will lead you to this beautiful church.",
+            "es": "Un corto paseo por el casco antiguo te llevará a esta hermosa iglesia."
           }
         },
         {
@@ -1628,7 +1763,8 @@
             "de": "Balcón del Mediterráneo",
             "hu": "Balcón del Mediterráneo",
             "ro": "Balcón del Mediterráneo",
-            "en": "Balcón del Mediterráneo"
+            "en": "Balcón del Mediterráneo",
+            "es": "Balcón del Mediterráneo"
           },
           "coords": [
             -0.131,
@@ -1644,7 +1780,8 @@
             "de": "Genießen Sie die Aussicht, bevor Sie den Bus zum nächsten Strand nehmen.",
             "hu": "Élvezd a kilátást, mielőtt buszra szállnál a következő strand felé.",
             "ro": "Bucurați-vă de priveliște înainte de a lua autobuzul spre următoarea plajă.",
-            "en": "Enjoy the view before taking the bus to the next beach."
+            "en": "Enjoy the view before taking the bus to the next beach.",
+            "es": "Disfruta de las vistas antes de tomar el autobús hacia la siguiente playa."
           }
         },
         {
@@ -1652,7 +1789,8 @@
             "de": "Playa de Levante",
             "hu": "Levante strand",
             "ro": "Plaja Levante",
-            "en": "Playa de Levante"
+            "en": "Playa de Levante",
+            "es": "Playa de Levante"
           },
           "coords": [
             -0.11,
@@ -1668,7 +1806,8 @@
             "de": "Verbringen Sie den Mittag an diesem belebten, actionreichen Strand.",
             "hu": "Töltsd a délt ezen a nyüzsgő, akciódús strandon.",
             "ro": "Petreceți prânzul pe această plajă plină de viață și acțiune.",
-            "en": "Spend midday at this bustling, action-packed beach."
+            "en": "Spend midday at this bustling, action-packed beach.",
+            "es": "Pasa el mediodía en esta playa bulliciosa y llena de actividad."
           }
         },
         {
@@ -1676,7 +1815,8 @@
             "de": "Playa de Poniente (Bushaltestelle)",
             "hu": "Poniente strand (Buszmegálló)",
             "ro": "Plaja Poniente (Stație de autobuz)",
-            "en": "Playa de Poniente (Bus Stop)"
+            "en": "Playa de Poniente (Bus Stop)",
+            "es": "Playa de Poniente (Parada de autobús)"
           },
           "coords": [
             -0.145,
@@ -1692,7 +1832,8 @@
             "de": "Steigen Sie hier aus für einen ruhigeren Nachmittag.",
             "hu": "Szállj le itt egy csendesebb délutánért.",
             "ro": "Coborâți aici pentru o după-amiază mai liniștită.",
-            "en": "Get off here for a quieter afternoon."
+            "en": "Get off here for a quieter afternoon.",
+            "es": "Bájate aquí para una tarde más tranquila."
           }
         },
         {
@@ -1700,7 +1841,8 @@
             "de": "Parque de Elche",
             "hu": "Elche Park",
             "ro": "Parcul Elche",
-            "en": "Parque de Elche"
+            "en": "Parque de Elche",
+            "es": "Parque de Elche"
           },
           "coords": [
             -0.135,
@@ -1716,7 +1858,8 @@
             "de": "Entspannen Sie sich im Park, der nur einen kurzen Spaziergang vom Strand entfernt ist.",
             "hu": "Pihenj a parkban, ami csak egy rövid sétára van a strandtól.",
             "ro": "Relaxați-vă în parc, la o scurtă plimbare de plajă.",
-            "en": "Relax in the park, just a short walk from the beach."
+            "en": "Relax in the park, just a short walk from the beach.",
+            "es": "Relájate en el parque, a un corto paseo de la playa."
           }
         }
       ],
@@ -1724,7 +1867,8 @@
         "de": "Ihr Tag beginnt mit einer kurzen Busfahrt ins Zentrum, gefolgt von einem Spaziergang durch die Altstadt zur Kirche und zum Balcón del Mediterráneo. Genießen Sie die Aussicht, bevor Sie einen Bus zum belebten Levante-Strand nehmen, wo Sie Ihr Mittagessen genießen können. Am Nachmittag bringt Sie eine weitere Busfahrt zum ruhigeren Poniente-Strand. Schlendern Sie von dort zum nahegelegenen Parque de Elche, um sich im Schatten zu entspannen und den Tag ausklingen zu lassen, bevor Sie den Bus zurück nehmen.",
         "hu": "A nap egy rövid buszozással kezdődik a központba, majd egy sétával az Óvároson keresztül a templomhoz és a Balcón del Mediterráneo-hoz. Élvezze a kilátást, mielőtt buszra szállna a nyüzsgő Levante strandra ebédelni. Délután egy másik buszjárattal a csendesebb Poniente strandra juthat el. Innen sétáljon el a közeli Elche Parkba, hogy árnyékban pihenjen és zárja a napot, mielőtt visszabuszozna.",
         "ro": "Ziua începe cu o scurtă călătorie cu autobuzul spre centru, urmată de o plimbare prin Orașul Vechi până la biserică și Balcón del Mediterráneo. Admirați priveliștea înainte de a lua un autobuz spre plaja animată Levante pentru prânz. După-amiaza, o altă călătorie cu autobuzul vă va duce la plaja mai liniștită Poniente. De acolo, plimbați-vă până la Parcul Elche din apropiere pentru a vă relaxa la umbră și a încheia ziua înainte de a lua autobuzul înapoi.",
-        "en": "Your day starts with a short bus ride to the center, followed by a walk through the Old Town to the church and the Balcón del Mediterráneo. Take in the views before hopping on a bus to the bustling Levante beach for lunch. In the afternoon, another bus ride takes you to the calmer Poniente beach. From there, stroll to the nearby Parque de Elche to relax in the shade and wind down your day before catching the bus back."
+        "en": "Your day starts with a short bus ride to the center, followed by a walk through the Old Town to the church and the Balcón del Mediterráneo. Take in the views before hopping on a bus to the bustling Levante beach for lunch. In the afternoon, another bus ride takes you to the calmer Poniente beach. From there, stroll to the nearby Parque de Elche to relax in the shade and wind down your day before catching the bus back.",
+        "es": "Tu día comienza con un corto viaje en autobús al centro, seguido de un paseo por el Casco Antiguo hasta la iglesia y el Balcón del Mediterráneo. Contempla las vistas antes de subir al autobús hacia la bulliciosa playa de Levante para comer. Por la tarde, otro trayecto en autobús te lleva a la más tranquila playa de Poniente. Desde allí, pasea hasta el cercano Parque de Elche para relajarte a la sombra y terminar el día antes de tomar el autobús de regreso."
       },
       "gastro_picks": {
         "de": [
@@ -1920,6 +2064,12 @@
           "Check the bus schedules in advance, especially in the evening.",
           "Buses can get very crowded in the summer, so be patient.",
           "Use the air conditioning on the bus to cool down on hot days."
+        ],
+        "es": [
+          "Compra una tarjeta recargable de autobús (Tarjeta Bus) para tarifas más baratas.",
+          "Consulta los horarios de autobús con antelación, especialmente por la noche.",
+          "Los autobuses pueden llenarse mucho en verano, así que ten paciencia.",
+          "Usa el aire acondicionado del autobús para refrescarte en días calurosos."
         ]
       },
       "variants": {
@@ -1928,7 +2078,8 @@
             "de": "Nutzen Sie die Busse der Stadt, um trocken ins Casco Antiguo zu gelangen. Mittags bietet die Kirche San Jaime Schutz vor dem Wetter. Fahren Sie am Nachmittag mit der Linie 02 zum Levante-Strand und genießen Sie den Blick aus dem Fenster. Den Tag beenden Sie am besten in der Nähe einer zentralen Bushaltestelle im Parque de Elche.",
             "hu": "Használja a városi buszokat, hogy szárazon jusson el az óvárosba. Délben a San Jaime-templom nyújt menedéket az időjárás elől. Délután utazzon a 02-es vonallal a Levante strandhoz, és élvezze a kilátást az ablakból. A napot fejezze be egy központi megálló közelében az Elche parknál.",
             "ro": "Folosiți autobuzele orașului pentru a ajunge uscați în centrul vechi. La prânz, biserica San Jaime oferă adăpost împotriva vremii. După-amiaza, mergeți cu linia 02 spre plaja Levante și admirați priveliștea pe geam. Încheiați ziua lângă o stație centrală din Parcul Elche.",
-            "en": "Use the city buses to get to the Old Town while staying dry. At noon, the San Jaime Church provides shelter from the weather. In the afternoon, take line 02 to Levante Beach and enjoy the view from the window. End the day near a central bus stop at Elche Park."
+            "en": "Use the city buses to get to the Old Town while staying dry. At noon, the San Jaime Church provides shelter from the weather. In the afternoon, take line 02 to Levante Beach and enjoy the view from the window. End the day near a central bus stop at Elche Park.",
+            "es": "Usa los autobuses urbanos para llegar al Casco Antiguo manteniéndote seco. Al mediodía, la iglesia de San Jaime ofrece resguardo del tiempo. Por la tarde, toma la línea 02 hasta la Playa de Levante y disfruta de las vistas desde la ventana. Termina el día cerca de una parada central en el Parque de Elche."
           },
           "stops": [
             {
@@ -1937,7 +2088,8 @@
                 "de": "Warten Sie unter dem Dach der Haltestelle auf den Anschluss.",
                 "hu": "Várjon a megálló teteje alatt a csatlakozásra.",
                 "ro": "Așteptați sub acoperișul stației pentru legătură.",
-                "en": "Wait under the shelter of the bus stop for your connection."
+                "en": "Wait under the shelter of the bus stop for your connection.",
+                "es": "Espera bajo la marquesina de la parada para tu conexión."
               }
             },
             {
@@ -1946,7 +2098,8 @@
                 "de": "Ein kurzer Fußweg von der Haltestelle durch die schmalen Gassen.",
                 "hu": "Rövid séta a megállótól a szűk utcákon keresztül.",
                 "ro": "O scurtă plimbare de la stație prin străzile înguste.",
-                "en": "A short walk from the stop through the narrow alleys."
+                "en": "A short walk from the stop through the narrow alleys.",
+                "es": "A poca distancia a pie de la parada, atravesando los callejones estrechos."
               }
             },
             {
@@ -1955,7 +2108,8 @@
                 "de": "Beobachten Sie das Regenradar, um eine trockene Lücke zu finden.",
                 "hu": "Figyelje a csapadékradart, hogy kifogjon egy szárazabb időszakot.",
                 "ro": "Urmăriți radarul meteo pentru a găsi un moment fără ploaie.",
-                "en": "Watch the rain radar to find a dry gap for the visit."
+                "en": "Watch the rain radar to find a dry gap for the visit.",
+                "es": "Mira el radar de lluvia para encontrar una ventana seca para la visita."
               }
             },
             {
@@ -1964,7 +2118,8 @@
                 "de": "Viele Buslinien halten direkt an der zweiten Strandreihe.",
                 "hu": "Sok buszvonal közvetlenül a strand második soránál áll meg.",
                 "ro": "Multe linii de autobuz opresc chiar lângă al doilea rând de la plajă.",
-                "en": "Many bus lines stop right by the second row of the beach."
+                "en": "Many bus lines stop right by the second row of the beach.",
+                "es": "Muchas líneas de autobús paran justo junto a la segunda fila de la playa."
               }
             },
             {
@@ -1973,7 +2128,8 @@
                 "de": "Nutzen Sie die App 'Benibus', um die Wartezeit im Regen zu minimieren.",
                 "hu": "Használja a 'Benibus' appot, hogy minimalizálja a várakozást az esőben.",
                 "ro": "Folosiți aplicația 'Benibus' pentru a minimiza așteptarea în ploaie.",
-                "en": "Use the 'Benibus' app to minimize waiting time in the rain."
+                "en": "Use the 'Benibus' app to minimize waiting time in the rain.",
+                "es": "Usa la app 'Benibus' para minimizar el tiempo de espera bajo la lluvia."
               }
             },
             {
@@ -1982,7 +2138,8 @@
                 "de": "Zentraler Knotenpunkt mit vielen überdachten Wartebereichen.",
                 "hu": "Központi csomópont sok fedett várakozóhellyel.",
                 "ro": "Nod central cu multe zone de așteptare acoperite.",
-                "en": "Central hub with many covered waiting areas."
+                "en": "Central hub with many covered waiting areas.",
+                "es": "Nudo central con muchas zonas cubiertas para esperar."
               }
             }
           ],
@@ -2010,6 +2167,12 @@
               "Buses are a reliable option in winter and during rain.",
               "Hold on tight when getting on and off in wet weather.",
               "Watch the digital displays at the main stops."
+            ],
+            "es": [
+              "Compra una tarjeta multipviaje al conductor o en estancos.",
+              "Los autobuses son una opción fiable en invierno y con lluvia.",
+              "Agárrate bien al subir y bajar con tiempo húmedo.",
+              "Mira las pantallas digitales en las paradas principales."
             ]
           }
         },
@@ -2018,7 +2181,8 @@
             "de": "Starten Sie den Wintermorgen mit einer Busfahrt ins ruhige Casco Antiguo. Mittags genießen Sie die Sonne an der Kirche San Jaime. Die Fahrt entlang der Küste zum Levante-Strand ist im Winterlicht besonders malerisch. Beenden Sie den Tag entspannt im Parque de Elche, bevor die Kühle des Abends einsetzt.",
             "hu": "Kezdje a téli reggelt buszozással a nyugodt óvárosba. Délben élvezze a napsütést a San Jaime-templomnál. A parti út a Levante strand felé a téli fényekben különösen festői. Zárja a napot pihentetően az Elche parkban, mielőtt beállna az esti hűvös.",
             "ro": "Începeți dimineața de iarnă cu o călătorie cu autobuzul spre centrul vechi liniștit. La prânz, bucurați-vă de soare la biserica San Jaime. Drumul de-a lungul coastei spre plaja Levante este pitoresc în lumina iernii. Încheiați ziua relaxat în Parcul Elche înainte de lăsarea serii.",
-            "en": "Start the winter morning with a bus ride to the quiet Old Town. At noon, enjoy the sun at the San Jaime Church. The coastal ride to Levante Beach is especially picturesque in the winter light. End the day relaxingly in Elche Park before the evening chill sets in."
+            "en": "Start the winter morning with a bus ride to the quiet Old Town. At noon, enjoy the sun at the San Jaime Church. The coastal ride to Levante Beach is especially picturesque in the winter light. End the day relaxingly in Elche Park before the evening chill sets in.",
+            "es": "Comienza la mañana invernal en autobús hacia el tranquilo Casco Antiguo. Al mediodía, disfruta del sol en la iglesia de San Jaime. El trayecto costero hasta la Playa de Levante es especialmente pintoresco con la luz invernal. Termina el día relajándote en el Parque de Elche antes de que llegue el fresco de la noche."
           },
           "stops": [
             {
@@ -2027,7 +2191,8 @@
                 "de": "Im Winter sind die Busse weniger überfüllt als im Sommer.",
                 "hu": "Télen a buszok kevésbé zsúfoltak, mint nyáron.",
                 "ro": "Iarna, autobuzele sunt mai puțin aglomerate decât vara.",
-                "en": "In winter, buses are less crowded than in summer."
+                "en": "In winter, buses are less crowded than in summer.",
+                "es": "En invierno los autobuses están menos llenos que en verano."
               }
             },
             {
@@ -2036,7 +2201,8 @@
                 "de": "Der Platz vor der Kirche fängt die Mittagssonne perfekt ein.",
                 "hu": "A templom előtti tér tökéletesen befogja a déli napsütést.",
                 "ro": "Piața din fața bisericii captează perfect soarele de la prânz.",
-                "en": "The square in front of the church catches the midday sun perfectly."
+                "en": "The square in front of the church catches the midday sun perfectly.",
+                "es": "La plaza frente a la iglesia recibe perfectamente el sol del mediodía."
               }
             },
             {
@@ -2045,7 +2211,8 @@
                 "de": "Hinter dem Balcón finden Sie windgeschützte Sitzbänke.",
                 "hu": "A Balcón mögött szélvédett padokat találhat.",
                 "ro": "În spatele Balcónului veți găsi bănci protejate de vânt.",
-                "en": "Behind the Balcón, you can find benches sheltered from the wind."
+                "en": "Behind the Balcón, you can find benches sheltered from the wind.",
+                "es": "Detrás del Balcón encontrarás bancos resguardados del viento."
               }
             },
             {
@@ -2054,7 +2221,8 @@
                 "de": "Die Buslinie 02 fährt im 15-Minuten-Takt entlang der Küste.",
                 "hu": "A 02-es buszvonal 15 percenként jár a part mentén.",
                 "ro": "Linia de autobuz 02 circulă la fiecare 15 minute de-a lungul coastei.",
-                "en": "The 02 bus line runs every 15 minutes along the coast."
+                "en": "The 02 bus line runs every 15 minutes along the coast.",
+                "es": "La línea 02 pasa cada 15 minutos a lo largo de la costa."
               }
             },
             {
@@ -2063,7 +2231,8 @@
                 "de": "Nutzen Sie das Tageslicht für die Rückfahrt gegen 17:30 Uhr.",
                 "hu": "Használja ki a nappali fényt a visszautazáshoz 17:30 körül.",
                 "ro": "Profitați de lumina zilei pentru întoarcere în jurul orei 17:30.",
-                "en": "Take advantage of the daylight for the return trip around 17:30."
+                "en": "Take advantage of the daylight for the return trip around 17:30.",
+                "es": "Aprovecha la luz del día para el regreso sobre las 17:30."
               }
             },
             {
@@ -2072,7 +2241,8 @@
                 "de": "Ein schöner Ort, um auf den Bus zu warten und Tauben zu beobachten.",
                 "hu": "Kellemes hely a buszra váráshoz és a galambok figyeléséhez.",
                 "ro": "Un loc plăcut pentru a aștepta autobuzul și a observa porumbeii.",
-                "en": "A nice place to wait for the bus and watch the pigeons."
+                "en": "A nice place to wait for the bus and watch the pigeons.",
+                "es": "Un buen sitio para esperar el autobús y observar a las palomas."
               }
             }
           ],
@@ -2100,6 +2270,12 @@
               "The buses are air-conditioned, which is pleasantly warm in winter.",
               "Senior discounts often require a local residency card.",
               "The stops along the beaches are well-lit."
+            ],
+            "es": [
+              "Consulta el horario de invierno, ya que algunas líneas circulan con menos frecuencia.",
+              "Los autobuses tienen calefacción, lo que resulta agradable en invierno.",
+              "Los descuentos para mayores a menudo requieren tarjeta de residencia local.",
+              "Las paradas a lo largo de las playas están bien iluminadas."
             ]
           }
         }

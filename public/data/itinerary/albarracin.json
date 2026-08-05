@@ -31,7 +31,8 @@
             "de": "Genießen Sie hier den ersten Kaffee des Tages mit Blick auf das Rathaus.",
             "hu": "Igya meg az első kávéját a városháza lenyűgöző látványával.",
             "ro": "Savurați prima cafea a zilei cu vedere spre primăria istorică.",
-            "en": "Enjoy your first coffee of the day overlooking the town hall."
+            "en": "Enjoy your first coffee of the day overlooking the town hall.",
+            "es": "Disfruta de tu primer café del día con vistas al ayuntamiento."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Das am meisten fotografierte Haus der Stadt. Achten Sie auf die schiefen Wände.",
             "hu": "A város legtöbbet fotózott háza, figyelje meg a dőlt falakat.",
             "ro": "Cea mai fotografiată casă. Observați pereții săi înclinați unici.",
-            "en": "The most photographed house in town. Notice the slanted walls."
+            "en": "The most photographed house in town. Notice the slanted walls.",
+            "es": "La casa más fotografiada del pueblo. Fíjate en las paredes inclinadas."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Bewundern Sie die flämischen Wandteppiche im Inneren.",
             "hu": "Csodálja meg a flamand falikárpitokat a belső térben.",
             "ro": "Admirați tapiseriile flamande din interiorul catedralei.",
-            "en": "Admire the 16th-century Flemish tapestries inside."
+            "en": "Admire the 16th-century Flemish tapestries inside.",
+            "es": "Admira los tapices flamencos del siglo XVI en el interior."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Erklimmen Sie die Ruinen für einen tollen Blick über die Schlucht.",
             "hu": "Másszon fel a romokra a szurdokra nyíló pazar kilátásért.",
             "ro": "Urcați pe ruine pentru o vedere excelentă asupra defileului.",
-            "en": "Climb the ruins for an excellent view over the gorge."
+            "en": "Climb the ruins for an excellent view over the gorge.",
+            "es": "Sube a las ruinas para obtener una excelente vista del desfiladero."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Folgen Sie der Mauer bis zum Turm del Andador.",
             "hu": "Kövesse a falat egészen az Andador toronyig.",
             "ro": "Urmați zidul până la Turnul Andador pentru fotografii.",
-            "en": "Follow the wall up to the Andador tower for photos."
+            "en": "Follow the wall up to the Andador tower for photos.",
+            "es": "Sigue la muralla hasta la torre Andador para hacer fotos."
           }
         }
       ],
@@ -111,7 +116,8 @@
         "de": "Beginnen Sie Ihren Morgen entspannt auf der malerischen Plaza Mayor. Schlendern Sie durch die engen Gassen zur berühmten Casa de la Julianeta. Gegen Mittag tauchen Sie in der Kathedrale in die Geschichte ein. Der Nachmittag gehört der Erkundung der alten Burg. Beenden Sie den Tag mit einem Spaziergang entlang der gewaltigen Stadtmauern.",
         "hu": "Kezdje a reggelt kényelmesen a festői Plaza Mayor téren. Sétáljon végig a szűk utcákon a híres Casa de la Julianeta épületéig. Délben merüljön el a történelemben a katedrálisban. A délután az ősi vár felfedezésével telik. Zárja a napot egy sétával a hatalmas városfalak mentén.",
         "ro": "Începeți dimineața relaxant în pitoreasca Plaza Mayor. Plimbați-vă pe străduțele înguste până la faimoasa Casa de la Julianeta. La prânz, scufundați-vă în istorie vizitând catedrala. După-amiaza explorați vechiul castel. Încheiați ziua cu o plimbare de-a lungul zidurilor masive ale orașului.",
-        "en": "Start your morning relaxed at the picturesque Plaza Mayor. Stroll through the narrow streets to the famous Casa de la Julianeta. At midday, dive into history at the cathedral. The afternoon is dedicated to exploring the ancient castle. End your day with a walk along the massive city walls."
+        "en": "Start your morning relaxed at the picturesque Plaza Mayor. Stroll through the narrow streets to the famous Casa de la Julianeta. At midday, dive into history at the cathedral. The afternoon is dedicated to exploring the ancient castle. End your day with a walk along the massive city walls.",
+        "es": "Comienza la mañana con calma en la pintoresca Plaza Mayor. Pasea por las calles estrechas hasta la famosa Casa de la Julianeta. Al mediodía, sumérgete en la historia de la catedral. La tarde está dedicada a explorar el antiguo castillo. Termina el día con un paseo por las imponentes murallas de la ciudad."
       },
       "gastro_picks": {
         "de": [
@@ -307,6 +313,12 @@
           "Some alleys are quite steep.",
           "Start early to avoid the tourist crowds.",
           "Bring water for the climb up to the city walls."
+        ],
+        "es": [
+          "Usa calzado cómodo para el empedrado.",
+          "Algunos callejones son bastante empinados.",
+          "Empieza temprano para evitar las multitudes turísticas.",
+          "Lleva agua para la subida a las murallas de la ciudad."
         ]
       },
       "variants": {
@@ -315,7 +327,8 @@
             "de": "Beginnen Sie Ihren Morgen entspannt auf der malerischen Plaza Mayor. Schlendern Sie durch die engen Gassen zur berühmten Casa de la Julianeta. Gegen Mittag tauchen Sie in der Kathedrale in die Geschichte ein. Der Nachmittag gehört der Erkundung der alten Burg. Beenden Sie den Tag mit einem Spaziergang entlang der gewaltigen Stadtmauern.",
             "hu": "Kezdje a reggelt kényelmesen a festői Plaza Mayor téren. Sétáljon végig a szűk utcákon a híres Casa de la Julianeta épületéig. Délben merüljön el a történelemben a katedrálisban. A délután az ősi vár felfedezésével telik. Zárja a napot egy sétával a hatalmas városfalak mentén.",
             "ro": "Începeți dimineața relaxant în pitoreasca Plaza Mayor. Plimbați-vă pe străduțele înguste până la faimoasa Casa de la Julianeta. La prânz, scufundați-vă în istorie vizitând catedrala. După-amiaza explorați vechiul castel. Încheiați ziua cu o plimbare de-a lungul zidurilor masive ale orașului.",
-            "en": "Start your morning relaxed at the picturesque Plaza Mayor. Stroll through the narrow streets to the famous Casa de la Julianeta. At midday, dive into history at the cathedral. The afternoon is dedicated to exploring the ancient castle. End your day with a walk along the massive city walls."
+            "en": "Start your morning relaxed at the picturesque Plaza Mayor. Stroll through the narrow streets to the famous Casa de la Julianeta. At midday, dive into history at the cathedral. The afternoon is dedicated to exploring the ancient castle. End your day with a walk along the massive city walls.",
+            "es": "Comienza la mañana con calma en la pintoresca Plaza Mayor. Pasea por las calles estrechas hasta la famosa Casa de la Julianeta. Al mediodía, sumérgete en la historia de la catedral. La tarde está dedicada a explorar el antiguo castillo. Termina el día con un paseo por las imponentes murallas de la ciudad."
           },
           "stops": [
             {
@@ -324,7 +337,8 @@
                 "de": "Genießen Sie hier den ersten Kaffee des Tages mit Blick auf das Rathaus.",
                 "hu": "Igya meg az első kávéját a városháza lenyűgöző látványával.",
                 "ro": "Savurați prima cafea a zilei cu vedere spre primăria istorică.",
-                "en": "Enjoy your first coffee of the day overlooking the town hall."
+                "en": "Enjoy your first coffee of the day overlooking the town hall.",
+                "es": "Disfruta de tu primer café del día con vistas al ayuntamiento."
               }
             },
             {
@@ -333,7 +347,8 @@
                 "de": "Das am meisten fotografierte Haus der Stadt. Achten Sie auf die schiefen Wände.",
                 "hu": "A város legtöbbet fotózott háza, figyelje meg a dőlt falakat.",
                 "ro": "Cea mai fotografiată casă. Observați pereții săi înclinați unici.",
-                "en": "The most photographed house in town. Notice the slanted walls."
+                "en": "The most photographed house in town. Notice the slanted walls.",
+                "es": "La casa más fotografiada del pueblo. Fíjate en las paredes inclinadas."
               }
             },
             {
@@ -342,7 +357,8 @@
                 "de": "Bewundern Sie die flämischen Wandteppiche im Inneren.",
                 "hu": "Csodálja meg a flamand falikárpitokat a belső térben.",
                 "ro": "Admirați tapiseriile flamande din interiorul catedralei.",
-                "en": "Admire the 16th-century Flemish tapestries inside."
+                "en": "Admire the 16th-century Flemish tapestries inside.",
+                "es": "Admira los tapices flamencos del siglo XVI en el interior."
               }
             },
             {
@@ -351,7 +367,8 @@
                 "de": "Erklimmen Sie die Ruinen für einen tollen Blick über die Schlucht.",
                 "hu": "Másszon fel a romokra a szurdokra nyíló pazar kilátásért.",
                 "ro": "Urcați pe ruine pentru o vedere excelentă asupra defileului.",
-                "en": "Climb the ruins for an excellent view over the gorge."
+                "en": "Climb the ruins for an excellent view over the gorge.",
+                "es": "Sube a las ruinas para obtener una excelente vista del desfiladero."
               }
             },
             {
@@ -360,7 +377,8 @@
                 "de": "Folgen Sie der Mauer bis zum Turm del Andador.",
                 "hu": "Kövesse a falat egészen az Andador toronyig.",
                 "ro": "Urmați zidul până la Turnul Andador pentru fotografii.",
-                "en": "Follow the wall up to the Andador tower for photos."
+                "en": "Follow the wall up to the Andador tower for photos.",
+                "es": "Sigue la muralla hasta la torre Andador para hacer fotos."
               }
             }
           ],
@@ -558,6 +576,12 @@
               "Some alleys are quite steep.",
               "Start early to avoid the tourist crowds.",
               "Bring water for the climb up to the city walls."
+            ],
+            "es": [
+              "Usa calzado cómodo para el empedrado.",
+              "Algunos callejones son bastante empinados.",
+              "Empieza temprano para evitar las multitudes turísticas.",
+              "Lleva agua para la subida a las murallas de la ciudad."
             ]
           }
         },
@@ -566,7 +590,8 @@
             "de": "Beginnen Sie den Vormittag unter den Arkaden der Plaza Mayor, um trocken zu bleiben. Mittags laden die gemütlichen Tavernen in den engen Gassen zum Aufwärmen ein. Am Nachmittag bietet die Kathedrale Schutz vor dem Regen, während Sie die Kunst bewundern. Abends spiegeln sich die Lichter der Stadt zauberhaft in den nassen Kopfsteinpflastern der mittelalterlichen Wege wider.",
             "hu": "Kezdje a délelőttöt a Plaza Mayor árkádjai alatt, hogy szárazon maradjon. Ebédidőben a szűk utcák hangulatos tavernái kínálnak menedéket a csapadék elől. Délután a katedrális belső tere tökéletes helyszín a művészet élvezetére esőben is. Este a város fényei varázslatosan tükröződnek a középkori utcák nedves macskakövein.",
             "ro": "Începeți dimineața sub arcadele din Plaza Mayor pentru a rămâne uscați. La prânz, tavernele primitoare de pe străzile înguste sunt perfecte pentru a vă încălzi. După-amiaza, catedrala oferă adăpost împotriva ploii în timp ce admirați arta. Seara, luminile orașului se reflectă magic pe pietrele umede ale drumurilor medievale.",
-            "en": "Start the morning under the arches of Plaza Mayor to stay dry. At noon, the cozy taverns in the narrow streets offer a warm escape from the rain. In the afternoon, the cathedral provides shelter while you admire the art. In the evening, the city lights reflect magically on the wet cobblestones of the medieval paths."
+            "en": "Start the morning under the arches of Plaza Mayor to stay dry. At noon, the cozy taverns in the narrow streets offer a warm escape from the rain. In the afternoon, the cathedral provides shelter while you admire the art. In the evening, the city lights reflect magically on the wet cobblestones of the medieval paths.",
+            "es": "Comienza la mañana bajo los arcos de la Plaza Mayor para mantenerte seco. Al mediodía, las tabernas acogedoras en las calles estrechas ofrecen un refugio cálido de la lluvia. Por la tarde, la catedral proporciona cobijo mientras admiras el arte. Por la noche, las luces de la ciudad se reflejan mágicamente en el empedrado húmedo de los caminos medievales."
           },
           "stops": [
             {
@@ -575,7 +600,8 @@
                 "de": "Nutzen Sie die Arkadengänge, um die Architektur ohne Regenschirm zu bewundern.",
                 "hu": "Használja az árkádokat a tér megfigyeléséhez esernyő nélkül is.",
                 "ro": "Folosiți arcadele pentru a admira arhitectura fără umbrelă.",
-                "en": "Use the arcades to admire the architecture without needing an umbrella."
+                "en": "Use the arcades to admire the architecture without needing an umbrella.",
+                "es": "Utiliza las arcadas para admirar la arquitectura sin necesitar paraguas."
               }
             },
             {
@@ -584,7 +610,8 @@
                 "de": "Ein tolles Fotomotiv, das auch bei grauem Himmel durch seine Form besticht.",
                 "hu": "Kiváló fotótéma, amely szürke égbolt mellett is különleges látványt nyújt.",
                 "ro": "Un subiect foto excelent care impresionează chiar și sub un cer gri.",
-                "en": "A great photo spot that stands out even under grey skies due to its shape."
+                "en": "A great photo spot that stands out even under grey skies due to its shape.",
+                "es": "Un gran lugar para fotos que destaca incluso con cielos grises por su forma."
               }
             },
             {
@@ -593,7 +620,8 @@
                 "de": "Perfekter Rückzugsort bei starkem Regen, um die Altarbilder in Ruhe zu sehen.",
                 "hu": "Tökéletes menedék heves esőben az oltárképek nyugodt megtekintéséhez.",
                 "ro": "Refugiul perfect în caz de ploaie torențială pentru a vedea altarele în liniște.",
-                "en": "Perfect sanctuary during heavy rain to view the altarpieces in peace."
+                "en": "Perfect sanctuary during heavy rain to view the altarpieces in peace.",
+                "es": "Santuario perfecto durante lluvias fuertes para ver los retablos en paz."
               }
             },
             {
@@ -602,7 +630,8 @@
                 "de": "Vorsicht auf den Ausgrabungspfaden, die Steine können bei Nässe rutschig sein.",
                 "hu": "Vigyázat az ásatási útvonalakon, a kövek nedvesen csúszósak lehetnek.",
                 "ro": "Atenție pe potecile sitului arheologic, pietrele pot fi alunecoase când sunt ude.",
-                "en": "Be careful on the excavation paths; the stones can be slippery when wet."
+                "en": "Be careful on the excavation paths; the stones can be slippery when wet.",
+                "es": "Ten cuidado en los senderos de excavación; las piedras pueden resbalar cuando están mojadas."
               }
             },
             {
@@ -611,7 +640,8 @@
                 "de": "Gute Wanderschuhe sind bei Regen für den Aufstieg zu den Mauern unerlässlich.",
                 "hu": "Esőben a falakhoz vezető emelkedőhöz elengedhetetlen a jó túrabakancs.",
                 "ro": "Ghete de drumeție bune sunt esențiale pentru urcarea spre ziduri pe ploaie.",
-                "en": "Good hiking boots are essential for the climb to the walls in the rain."
+                "en": "Good hiking boots are essential for the climb to the walls in the rain.",
+                "es": "Es esencial llevar botas de senderismo adecuadas para la subida a las murallas con lluvia."
               }
             }
           ],
@@ -639,6 +669,12 @@
               "The narrow streets often provide natural shelter from light drizzle.",
               "Schedule museum visits for the hours with the heaviest rainfall.",
               "A compact umbrella is more manageable than a large one in the narrow alleys."
+            ],
+            "es": [
+              "Lleva calzado antideslizante, ya que el pavimento medieval se vuelve muy resbaladizo con humedad.",
+              "Las calles estrechas a menudo ofrecen refugio natural ante lloviznas leves.",
+              "Programa las visitas a los museos para las horas de mayor precipitación.",
+              "Un paraguas compacto es más manejable que uno grande en los callejones estrechos."
             ]
           }
         },
@@ -647,7 +683,8 @@
             "de": "Erleben Sie die klare, kalte Morgenluft beim Spaziergang durch die menschenleere Altstadt. Mittags wärmt ein traditioneller Eintopf in einem der Felsenkeller-Restaurants Körper und Seele. Am Nachmittag färbt die tiefstehende Wintersonne den roten Stein der Stadt besonders intensiv. Da es früh dunkel wird, genießen Sie den späten Nachmittag bei heißer Schokolade am Kamin.",
             "hu": "Élje át a tiszta, hideg reggeli levegőt a néptelen óvárosban tett séta során. Ebédre egy hagyományos egytálétel az egyik sziklába vájt étteremben felmelegíti a testet és lelket. Délután az alacsonyan járó téli nap különösen intenzívre festi a város vörös köveit. Mivel korán sötétedik, töltse a késő délutánt forró csokoládéval egy kandalló mellett.",
             "ro": "Experimentați aerul rece și curat al dimineții într-o plimbare prin orașul vechi pustiu. La prânz, o tocană tradițională într-un restaurant săpat în stâncă vă va încălzi sufletul. După-amiaza, soarele de iarnă pictează piatra roșie a orașului în nuanțe intense. Deoarece se întunecă devreme, savurați o ciocolată caldă lângă șemineu spre seară.",
-            "en": "Experience the crisp, cold morning air during a walk through the deserted old town. At noon, a traditional stew in one of the rock-cellar restaurants warms both body and soul. In the afternoon, the low winter sun paints the red stone of the city with special intensity. As it gets dark early, enjoy the late afternoon with hot chocolate by a fireplace."
+            "en": "Experience the crisp, cold morning air during a walk through the deserted old town. At noon, a traditional stew in one of the rock-cellar restaurants warms both body and soul. In the afternoon, the low winter sun paints the red stone of the city with special intensity. As it gets dark early, enjoy the late afternoon with hot chocolate by a fireplace.",
+            "es": "Experimenta el aire frío y nítido de la mañana paseando por el casco antiguo desierto. Al mediodía, un guiso tradicional en una de las bodegas talladas en la roca calienta cuerpo y alma. Por la tarde, el sol bajo invernal pinta la piedra roja de la ciudad con una intensidad especial. Como anochece pronto, disfruta la tarde con chocolate caliente junto a la chimenea."
           },
           "stops": [
             {
@@ -656,7 +693,8 @@
                 "de": "Genießen Sie die Ruhe am Morgen, bevor die Kälte die Besucher in Cafés treibt.",
                 "hu": "Élvezze a reggeli csendet, mielőtt a hideg a kávézókba űzi a látogatókat.",
                 "ro": "Bucurați-vă de liniștea dimineții înainte ca frigul să trimită turiștii în cafenele.",
-                "en": "Enjoy the morning silence before the cold drives visitors into the cafes."
+                "en": "Enjoy the morning silence before the cold drives visitors into the cafes.",
+                "es": "Disfruta del silencio matutino antes de que el frío lleve a los visitantes a los cafés."
               }
             },
             {
@@ -665,7 +703,8 @@
                 "de": "Im Winter ohne Laub an den umliegenden Pflanzen wirkt das Haus noch markanter.",
                 "hu": "Télen, a környező növényzet levelei nélkül a ház még markánsabbnak hat.",
                 "ro": "Iarna, fără frunzișul plantelor din jur, casa pare și mai distinctă.",
-                "en": "In winter, without the foliage of surrounding plants, the house looks even more striking."
+                "en": "In winter, without the foliage of surrounding plants, the house looks even more striking.",
+                "es": "En invierno, sin el follaje de las plantas circundantes, la casa se ve aún más llamativa."
               }
             },
             {
@@ -674,7 +713,8 @@
                 "de": "Drinnen ist es oft wärmer als draußen, ideal für eine Pause vom Wind.",
                 "hu": "Bent gyakran melegebb van, mint kint, ideális szünet a szél elől.",
                 "ro": "În interior este adesea mai cald decât afară, ideal pentru o pauză de la vânt.",
-                "en": "It is often warmer inside than outside, making it an ideal break from the wind."
+                "en": "It is often warmer inside than outside, making it an ideal break from the wind.",
+                "es": "A menudo hace más calor en el interior que en el exterior, por lo que es un descanso ideal del viento."
               }
             },
             {
@@ -683,7 +723,8 @@
                 "de": "Der Wind kann hier oben schneidend kalt sein; Mütze und Handschuhe einpacken.",
                 "hu": "A szél itt fent metsző lehet; vigyen sapkát és kesztyűt.",
                 "ro": "Vântul poate fi tăios aici sus; nu uitați căciula și mănușile.",
-                "en": "The wind can be biting cold up here; pack a hat and gloves."
+                "en": "The wind can be biting cold up here; pack a hat and gloves.",
+                "es": "El viento puede ser cortante aquí arriba; lleva gorro y guantes."
               }
             },
             {
@@ -692,7 +733,8 @@
                 "de": "Bester Ort für Fotos im goldenen Winterlicht gegen 16:30 Uhr.",
                 "hu": "A legjobb hely fotózáshoz az aranyló téli fényben 16:30 körül.",
                 "ro": "Cel mai bun loc pentru fotografii în lumina aurie a iernii în jurul orei 16:30.",
-                "en": "Best spot for photos in the golden winter light around 4:30 PM."
+                "en": "Best spot for photos in the golden winter light around 4:30 PM.",
+                "es": "Mejor lugar para fotos con la cálida luz invernal alrededor de las 16:30."
               }
             }
           ],
@@ -720,6 +762,12 @@
               "Watch out for icy patches on the steep stairways.",
               "The sun disappears behind the mountains earlier in the valley (around 4:00 PM).",
               "Make dinner reservations as many places close earlier in winter."
+            ],
+            "es": [
+              "Vístete en capas: Albarracín está a 1.182 m de altitud.",
+              "Cuidado con los tramos helados en las empinadas escaleras.",
+              "El sol se oculta antes detrás de las montañas en el valle (sobre las 16:00).",
+              "Reserva la cena, muchos locales cierran más temprano en invierno."
             ]
           }
         }
@@ -748,7 +796,8 @@
             "de": "Historisches Stadttor, ideal für ein Erinnerungsfoto.",
             "hu": "Történelmi városkapu, ideális egy fotóhoz.",
             "ro": "Poarta istorică, ideală pentru o fotografie.",
-            "en": "Historical city gate, perfect for a photo op."
+            "en": "Historical city gate, perfect for a photo op.",
+            "es": "Portón histórico, perfecto para una foto."
           }
         },
         {
@@ -766,7 +815,8 @@
             "de": "Stellen Sie Ihr Rad ab und erkunden Sie das Innere.",
             "hu": "Hagyja kint a kerékpárt és fedezze fel a belső teret.",
             "ro": "Lăsați bicicleta și explorați interiorul.",
-            "en": "Park your bike and explore the interior."
+            "en": "Park your bike and explore the interior.",
+            "es": "Aparca la bici y explora el interior a pie."
           }
         },
         {
@@ -784,7 +834,8 @@
             "de": "Der Aufstieg lohnt sich für den Panoramablick.",
             "hu": "A felfelé vezető út megéri a panorámáért.",
             "ro": "Urcușul merită pentru vederea panoramică.",
-            "en": "The climb is worth it for the panoramic views."
+            "en": "The climb is worth it for the panoramic views.",
+            "es": "La subida merece la pena por las vistas panorámicas."
           }
         },
         {
@@ -802,7 +853,8 @@
             "de": "Ein alter Festungsturm mit großartiger Fernsicht.",
             "hu": "Régi erődítmény csodás kilátással a vidékre.",
             "ro": "Un turn vechi cu o vizibilitate minunată.",
-            "en": "An old fortress tower with great long-distance views."
+            "en": "An old fortress tower with great long-distance views.",
+            "es": "Una antigua torre fortificada con excelentes vistas a larga distancia."
           }
         }
       ],
@@ -810,7 +862,8 @@
         "de": "Beginnen Sie die Tour am historischen Portal de Molina. Fahren Sie in Richtung Zentrum zur Kathedrale. Am Mittag bewältigen Sie den Anstieg zur Burg, wo Sie die Geschichte hautnah spüren. Nachmittags führt Sie die Route zum beeindruckenden Turm del Andador.",
         "hu": "Indítsa a túrát a történelmi Portal de Molinánál. Tekerjen a központ felé a katedrálishoz. Délben küzdje le a várhoz vezető emelkedőt, ahol átélheti a történelmet. Délután az útvonal a lenyűgöző Andador toronyhoz vezet.",
         "ro": "Începeți turul la istorica Portal de Molina. Pedalați spre centru către catedrală. La prânz abordați urcarea spre castel, unde istoria este la fiecare pas. După-amiaza, traseul vă duce la impresionantul Turn Andador.",
-        "en": "Start the tour at the historic Portal de Molina. Ride towards the center to the cathedral. At midday, tackle the climb to the castle where you can feel the history. In the afternoon, the route leads you to the impressive Andador tower."
+        "en": "Start the tour at the historic Portal de Molina. Ride towards the center to the cathedral. At midday, tackle the climb to the castle where you can feel the history. In the afternoon, the route leads you to the impressive Andador tower.",
+        "es": "Comienza el recorrido en el histórico Portal de Molina. Ve hacia el centro hasta la catedral. Al mediodía, afronta la subida al castillo donde se palpa la historia. Por la tarde, la ruta te lleva a la imponente torre del Andador."
       },
       "gastro_picks": {
         "de": [
@@ -1006,6 +1059,12 @@
           "The old town is partially closed to cyclists.",
           "Use the river paths for a more relaxed ride.",
           "Beware of loose stones on the unpaved paths."
+        ],
+        "es": [
+          "Revisa los frenos antes de bajar.",
+          "El casco antiguo está parcialmente cerrado a ciclistas.",
+          "Usa los caminos junto al río para un paseo más relajado.",
+          "Atento a las piedras sueltas en los caminos sin pavimentar."
         ]
       },
       "variants": {
@@ -1014,7 +1073,8 @@
             "de": "Beginnen Sie die Tour am historischen Portal de Molina. Fahren Sie in Richtung Zentrum zur Kathedrale. Am Mittag bewältigen Sie den Anstieg zur Burg, wo Sie die Geschichte hautnah spüren. Nachmittags führt Sie die Route zum beeindruckenden Turm del Andador.",
             "hu": "Indítsa a túrát a történelmi Portal de Molinánál. Tekerjen a központ felé a katedrálishoz. Délben küzdje le a várhoz vezető emelkedőt, ahol átélheti a történelmet. Délután az útvonal a lenyűgöző Andador toronyhoz vezet.",
             "ro": "Începeți turul la istorica Portal de Molina. Pedalați spre centru către catedrală. La prânz abordați urcarea spre castel, unde istoria este la fiecare pas. După-amiaza, traseul vă duce la impresionantul Turn Andador.",
-            "en": "Start the tour at the historic Portal de Molina. Ride towards the center to the cathedral. At midday, tackle the climb to the castle where you can feel the history. In the afternoon, the route leads you to the impressive Andador tower."
+            "en": "Start the tour at the historic Portal de Molina. Ride towards the center to the cathedral. At midday, tackle the climb to the castle where you can feel the history. In the afternoon, the route leads you to the impressive Andador tower.",
+            "es": "Comienza el recorrido en el histórico Portal de Molina. Ve hacia el centro hasta la catedral. Al mediodía, afronta la subida al castillo donde se palpa la historia. Por la tarde, la ruta te lleva a la imponente torre del Andador."
           },
           "stops": [
             {
@@ -1023,7 +1083,8 @@
                 "de": "Historisches Stadttor, ideal für ein Erinnerungsfoto.",
                 "hu": "Történelmi városkapu, ideális egy fotóhoz.",
                 "ro": "Poarta istorică, ideală pentru o fotografie.",
-                "en": "Historical city gate, perfect for a photo op."
+                "en": "Historical city gate, perfect for a photo op.",
+                "es": "Portón histórico, perfecto para una foto."
               }
             },
             {
@@ -1032,7 +1093,8 @@
                 "de": "Stellen Sie Ihr Rad ab und erkunden Sie das Innere.",
                 "hu": "Hagyja kint a kerékpárt és fedezze fel a belső teret.",
                 "ro": "Lăsați bicicleta și explorați interiorul.",
-                "en": "Park your bike and explore the interior."
+                "en": "Park your bike and explore the interior.",
+                "es": "Aparca la bici y explora el interior a pie."
               }
             },
             {
@@ -1041,7 +1103,8 @@
                 "de": "Der Aufstieg lohnt sich für den Panoramablick.",
                 "hu": "A felfelé vezető út megéri a panorámáért.",
                 "ro": "Urcușul merită pentru vederea panoramică.",
-                "en": "The climb is worth it for the panoramic views."
+                "en": "The climb is worth it for the panoramic views.",
+                "es": "La subida merece la pena por las vistas panorámicas."
               }
             },
             {
@@ -1050,7 +1113,8 @@
                 "de": "Ein alter Festungsturm mit großartiger Fernsicht.",
                 "hu": "Régi erődítmény csodás kilátással a vidékre.",
                 "ro": "Un turn vechi cu o vizibilitate minunată.",
-                "en": "An old fortress tower with great long-distance views."
+                "en": "An old fortress tower with great long-distance views.",
+                "es": "Una antigua torre fortificada con excelentes vistas a larga distancia."
               }
             }
           ],
@@ -1248,6 +1312,12 @@
               "The old town is partially closed to cyclists.",
               "Use the river paths for a more relaxed ride.",
               "Beware of loose stones on the unpaved paths."
+            ],
+            "es": [
+              "Revisa los frenos antes de bajar.",
+              "El casco antiguo está parcialmente cerrado a ciclistas.",
+              "Usa los caminos junto al río para un paseo más relajado.",
+              "Atento a las piedras sueltas en los caminos sin pavimentar."
             ]
           }
         },
@@ -1256,7 +1326,8 @@
             "de": "Eine nasse Fahrt durch den Canyon bietet dramatische Ausblicke auf die roten Klippen. Vormittags führt der Weg entlang des Flusses Guadalaviar, wo Bäume etwas Schutz bieten. Mittags kehren Sie im Ort ein, um die Ausrüstung zu trocknen. Nachmittags ist Vorsicht auf dem Rückweg geboten, da die Wege schlammig sein können. Der Tag endet entspannt nach einer heißen Dusche.",
             "hu": "Egy vizes tekerés a kanyonban drámai kilátást nyújt a vörös sziklákra. Délelőtt a Guadalaviar folyó mentén haladjon, ahol a fák némi védelmet nyújtanak. Ebédre térjen be a városba megszárítani a felszerelést. Délután legyen óvatos a visszúton, mert az ösvények sárosak lehetnek. A nap egy forró zuhany után ér véget.",
             "ro": "O plimbare umedă prin canion oferă vederi dramatice asupra stâncilor roșii. Dimineața, drumul de-a lungul râului Guadalaviar oferă puțin adăpost datorită copacilor. La prânz, opriți-vă în oraș pentru a vă usca echipamentul. După-amiaza, fiți atenți pe drumul de întoarcere, deoarece potecile pot fi noroioase. Ziua se încheie relaxat după un duș fierbinte.",
-            "en": "A wet ride through the canyon offers dramatic views of the red cliffs. In the morning, follow the path along the Guadalaviar River, where trees provide some cover. At noon, head into town to dry your gear. In the afternoon, use caution on the way back as trails can be muddy. The day ends relaxingly after a hot shower."
+            "en": "A wet ride through the canyon offers dramatic views of the red cliffs. In the morning, follow the path along the Guadalaviar River, where trees provide some cover. At noon, head into town to dry your gear. In the afternoon, use caution on the way back as trails can be muddy. The day ends relaxingly after a hot shower.",
+            "es": "Un recorrido húmedo por el cañón ofrece vistas dramáticas de los acantilados rojos. Por la mañana, sigue la senda junto al río Guadalaviar, donde los árboles dan algo de cobertura. Al mediodía, ve al pueblo para secar el equipo. Por la tarde, precaución en el regreso: los senderos pueden estar enlodados. El día acaba relajándose tras una ducha caliente."
           },
           "stops": [
             {
@@ -1265,7 +1336,8 @@
                 "de": "Stellen Sie Ihr Rad unter dem Tor ab, um Karten trocken zu lesen.",
                 "hu": "Parkoljon a kapu alatt, hogy szárazon nézhesse meg a térképet.",
                 "ro": "Parcați bicicleta sub poartă pentru a citi hărțile la adăpost.",
-                "en": "Park your bike under the gate to read maps while staying dry."
+                "en": "Park your bike under the gate to read maps while staying dry.",
+                "es": "Aparca la bici bajo el arco para consultar mapas y mantenerte seco."
               }
             },
             {
@@ -1274,7 +1346,8 @@
                 "de": "Gute Gelegenheit für eine längere Pause, während ein Schauer vorbeizieht.",
                 "hu": "Jó alkalom egy hosszabb pihenőre, amíg elvonul egy zápor.",
                 "ro": "O oportunitate bună pentru o pauză mai lungă în timp ce trece o aversă.",
-                "en": "A good opportunity for a longer break while a shower passes by."
+                "en": "A good opportunity for a longer break while a shower passes by.",
+                "es": "Buena oportunidad para una pausa más larga mientras pasa el chaparrón."
               }
             },
             {
@@ -1283,7 +1356,8 @@
                 "de": "Vermeiden Sie es, mit Klickschuhen auf den nassen Burgsteinen zu laufen.",
                 "hu": "Kerülje a stoplis cipőben való járást a nedves várköveken.",
                 "ro": "Evitați mersul cu pantofi de ciclism pe pietrele ude ale cetății.",
-                "en": "Avoid walking with cycling cleats on the wet stones of the castle."
+                "en": "Avoid walking with cycling cleats on the wet stones of the castle.",
+                "es": "Evita andar con calas de ciclismo sobre las piedras húmedas del castillo."
               }
             },
             {
@@ -1292,7 +1366,8 @@
                 "de": "Der Anstieg ist anstrengend; achten Sie auf rutschende Reifen bei Nässe.",
                 "hu": "A kaptató fárasztó; ügyeljen a megcsúszó kerekekre a nedves úton.",
                 "ro": "Urcarea este obositoare; atenție la anvelopele care pot aluneca pe ud.",
-                "en": "The climb is strenuous; watch out for tires slipping on the wet ground."
+                "en": "The climb is strenuous; watch out for tires slipping on the wet ground.",
+                "es": "La subida es exigente; cuidado con que los neumáticos patinen en el suelo húmedo."
               }
             }
           ],
@@ -1320,6 +1395,12 @@
               "Slightly reduce tire pressure for better grip on wet stones.",
               "Avoid braking on white road markings or metal grates.",
               "The river route is safer in the rain than the steep mountain trails."
+            ],
+            "es": [
+              "Los guardabarros son imprescindibles en los caminos arcillosos alrededor de Albarracín.",
+              "Reduce ligeramente la presión de los neumáticos para mejor agarre en piedras mojadas.",
+              "Evita frenar sobre las marcas blancas de la calzada o rejillas metálicas.",
+              "La ruta junto al río es más segura con lluvia que los empinados senderos de montaña."
             ]
           }
         },
@@ -1328,7 +1409,8 @@
             "de": "Ein frostiger Start führt Sie durch das stille Tal des Guadalaviar. Vormittags leuchtet der Frost auf den Feldern weiß gegen die roten Felsen. Mittags bietet die Stadt einen windgeschützten Halt für warme Getränke. Nachmittags nutzen Sie die hellsten Stunden für den Aufstieg zum Turm del Andador. Vor Sonnenuntergang kehren Sie zurück, wenn die Temperaturen schnell sinken.",
             "hu": "Egy fagyos kezdés után a Guadalaviar csendes völgyén tekerhet keresztül. Délelőtt a zúzmara fehéren csillog a mezőkön a vörös sziklák előtt. Ebédidőben a város szélvédett helyein melegedhet fel italokkal. Délután használja ki a legvilágosabb órákat a Turm del Andadorhoz való feljutáshoz. Naplemente előtt térjen vissza, mert a hőmérséklet gyorsan zuhan.",
             "ro": "Un început înghețat vă poartă prin valea liniștită a râului Guadalaviar. Dimineața, chiciura de pe câmpuri strălucește alb pe fundalul stâncilor roșii. La prânz, orașul oferă un popas ferit de vânt pentru băuturi calde. După-amiaza, profitați de orele luminoase pentru urcarea la Turnul del Andador. Întoarceți-vă înainte de apus, când temperaturile scad rapid.",
-            "en": "A frosty start takes you through the quiet valley of the Guadalaviar. In the morning, frost shines white on the fields against the red rocks. At noon, the town offers a wind-sheltered stop for warm drinks. In the afternoon, use the brightest hours for the climb to the Tower of Andador. Return before sunset as temperatures drop rapidly."
+            "en": "A frosty start takes you through the quiet valley of the Guadalaviar. In the morning, frost shines white on the fields against the red rocks. At noon, the town offers a wind-sheltered stop for warm drinks. In the afternoon, use the brightest hours for the climb to the Tower of Andador. Return before sunset as temperatures drop rapidly.",
+            "es": "Un inicio helado te lleva por el tranquilo valle del Guadalaviar. Por la mañana la escarcha blanquea los campos frente a las rocas rojas. Al mediodía, el pueblo ofrece un refugio al abrigo del viento para bebidas calientes. Por la tarde, aprovecha las horas más luminosas para la subida a la Torre del Andador. Vuelve antes del ocaso: las temperaturas caen rápido."
           },
           "stops": [
             {
@@ -1337,7 +1419,8 @@
                 "de": "Achten Sie auf Glatteis im Schatten des Torbogens.",
                 "hu": "Ügyeljen a jegesedésre a kapubolt árnyékában.",
                 "ro": "Atenție la porțiunile cu gheață la umbra arcadei porții.",
-                "en": "Watch out for black ice in the shadow of the gateway arch."
+                "en": "Watch out for black ice in the shadow of the gateway arch.",
+                "es": "Cuidado con el hielo negro en la sombra del arco del portal."
               }
             },
             {
@@ -1346,7 +1429,8 @@
                 "de": "Parken Sie Ihr Rad sicher; die Finger werden beim Abschließen schnell kalt.",
                 "hu": "Parkoljon biztonságosan; az ujjai gyorsan lehűlnek a lakatolás közben.",
                 "ro": "Parcați bicicleta în siguranță; degetele îngheață repede când puneți lacătul.",
-                "en": "Park your bike securely; your fingers will get cold quickly while locking it."
+                "en": "Park your bike securely; your fingers will get cold quickly while locking it.",
+                "es": "Asegura bien la bici; los dedos se enfrían rápido al cerrarla."
               }
             },
             {
@@ -1355,7 +1439,8 @@
                 "de": "Die Sonne wärmt hier oben zur Mittagszeit am besten.",
                 "hu": "Itt fent délidőben melegít legjobban a nap.",
                 "ro": "Soarele încălzește cel mai bine aici sus la ora prânzului.",
-                "en": "The sun warms up this spot best around midday."
+                "en": "The sun warms up this spot best around midday.",
+                "es": "El sol calienta mejor este punto hacia el mediodía."
               }
             },
             {
@@ -1364,7 +1449,8 @@
                 "de": "Der Boden kann gefroren und hart sein; ideal für Mountainbikes.",
                 "hu": "A talaj fagyott és kemény lehet; ideális hegyi kerékpárokhoz.",
                 "ro": "Solul poate fi înghețat și tare; ideal pentru mountain bike.",
-                "en": "The ground can be frozen and hard; ideal for mountain bikes."
+                "en": "The ground can be frozen and hard; ideal for mountain bikes.",
+                "es": "El suelo puede estar helado y duro; ideal para bicicletas de montaña."
               }
             }
           ],
@@ -1392,6 +1478,12 @@
               "Take an insulated water bottle so your water doesn't freeze.",
               "Plan shorter stages as the cold reduces physical endurance.",
               "The lighting conditions in winter are perfect for dramatic landscape photos."
+            ],
+            "es": [
+              "Guantes cortaviento y cubrezapatillas son obligatorios en la montaña en invierno.",
+              "Lleva una cantimplora aislante para que el agua no se congele.",
+              "Planifica etapas más cortas: el frío reduce la resistencia física.",
+              "La luz invernal es perfecta para fotos paisajísticas dramáticas."
             ]
           }
         }
@@ -1420,7 +1512,8 @@
             "de": "Parken Sie hier in der Nähe und betreten Sie die Altstadt.",
             "hu": "Parkoljon le a közelben és sétáljon be az óvárosba.",
             "ro": "Parcați în apropiere și intrați în orașul vechi pe jos.",
-            "en": "Park nearby and enter the old town on foot."
+            "en": "Park nearby and enter the old town on foot.",
+            "es": "Aparca cerca y entra al casco antiguo a pie."
           }
         },
         {
@@ -1438,7 +1531,8 @@
             "de": "Umfangreiche Sammlung religiöser Kunst.",
             "hu": "Egyházi műalkotások gazdag gyűjteménye.",
             "ro": "Colecție impresionantă de artă religioasă.",
-            "en": "Extensive collection of religious art."
+            "en": "Extensive collection of religious art.",
+            "es": "Amplia colección de arte religioso."
           }
         },
         {
@@ -1456,7 +1550,8 @@
             "de": "Liegt direkt neben dem Museum.",
             "hu": "Közvetlenül a múzeum mellett található.",
             "ro": "Se află chiar lângă muzeu.",
-            "en": "Located right next to the museum."
+            "en": "Located right next to the museum.",
+            "es": "Situado justo al lado del museo."
           }
         },
         {
@@ -1474,7 +1569,8 @@
             "de": "Fahren Sie zum Aussichtspunkt nahe der Burg.",
             "hu": "Vezessen a vár közelében található kilátóhoz.",
             "ro": "Conduceți spre punctul de belvedere de lângă castel.",
-            "en": "Drive to the viewpoint near the castle."
+            "en": "Drive to the viewpoint near the castle.",
+            "es": "Conduce hasta el mirador junto al castillo."
           }
         },
         {
@@ -1492,7 +1588,8 @@
             "de": "Ein etwas längerer Fußweg vom Parkplatz, aber die Sicht ist fantastisch.",
             "hu": "Hosszabb séta a parkolóból, de a látvány lenyűgöző.",
             "ro": "O plimbare mai lungă de la parcare, dar vederea este fantastică.",
-            "en": "A longer walk from the parking, but the view is fantastic."
+            "en": "A longer walk from the parking, but the view is fantastic.",
+            "es": "Caminata más larga desde el aparcamiento, pero las vistas son fantásticas."
           }
         }
       ],
@@ -1500,7 +1597,8 @@
         "de": "Parken Sie morgens am Portal de Molina und erkunden Sie das Diözesanmuseum. Besuchen Sie anschließend die prächtige Kathedrale. Nachmittags fahren Sie hinauf zur Burg, um die Aussicht zu genießen. Den Abschluss bildet der Turm del Andador, wo das Panorama auf Sie wartet.",
         "hu": "Parkoljon le reggel a Portal de Molinánál és fedezze fel a múzeumot. Ezt követően látogasson el a csodás katedrálisba. Délután vezessen fel a várhoz a szép kilátásért. A napot az Andador torony zárja, ahol elképesztő panoráma várja.",
         "ro": "Parcați dimineața la Portal de Molina și explorați muzeul eparhial. Vizitați apoi magnifica catedrală. După-amiaza conduceți spre castel pentru a vă bucura de priveliște. Ziua se încheie la Turnul Andador cu o panoramă de vis.",
-        "en": "Park your car at the Portal de Molina in the morning and explore the diocesan museum. Then visit the magnificent cathedral. In the afternoon, drive up to the castle to enjoy the view. Finish the day at the Andador tower for a stunning panorama."
+        "en": "Park your car at the Portal de Molina in the morning and explore the diocesan museum. Then visit the magnificent cathedral. In the afternoon, drive up to the castle to enjoy the view. Finish the day at the Andador tower for a stunning panorama.",
+        "es": "Aparca en el Portal de Molina por la mañana y visita el museo diocesano. Luego la magnífica catedral. Por la tarde, sube en coche al castillo para disfrutar de las vistas. Termina el día en la torre del Andador para un panorama espectacular."
       },
       "gastro_picks": {
         "de": [
@@ -1696,6 +1794,12 @@
           "It is best to park in the public parking lots outside.",
           "Driving in the narrow alleys is not recommended.",
           "The street lighting at night is romantic but dim."
+        ],
+        "es": [
+          "El casco antiguo está cerrado al tráfico rodado habitual.",
+          "Es mejor aparcar en los estacionamientos públicos exteriores.",
+          "No se recomienda conducir por los callejones estrechos.",
+          "La iluminación nocturna es romántica pero tenue."
         ]
       },
       "variants": {
@@ -1704,7 +1808,8 @@
             "de": "Parken Sie morgens am Portal de Molina und erkunden Sie das Diözesanmuseum. Besuchen Sie anschließend die prächtige Kathedrale. Nachmittags fahren Sie hinauf zur Burg, um die Aussicht zu genießen. Den Abschluss bildet der Turm del Andador, wo das Panorama auf Sie wartet.",
             "hu": "Parkoljon le reggel a Portal de Molinánál és fedezze fel a múzeumot. Ezt követően látogasson el a csodás katedrálisba. Délután vezessen fel a várhoz a szép kilátásért. A napot az Andador torony zárja, ahol elképesztő panoráma várja.",
             "ro": "Parcați dimineața la Portal de Molina și explorați muzeul eparhial. Vizitați apoi magnifica catedrală. După-amiaza conduceți spre castel pentru a vă bucura de priveliște. Ziua se încheie la Turnul Andador cu o panoramă de vis.",
-            "en": "Park your car at the Portal de Molina in the morning and explore the diocesan museum. Then visit the magnificent cathedral. In the afternoon, drive up to the castle to enjoy the view. Finish the day at the Andador tower for a stunning panorama."
+            "en": "Park your car at the Portal de Molina in the morning and explore the diocesan museum. Then visit the magnificent cathedral. In the afternoon, drive up to the castle to enjoy the view. Finish the day at the Andador tower for a stunning panorama.",
+            "es": "Aparca en el Portal de Molina por la mañana y visita el museo diocesano. Luego la magnífica catedral. Por la tarde, sube en coche al castillo para disfrutar de las vistas. Termina el día en la torre del Andador para un panorama espectacular."
           },
           "stops": [
             {
@@ -1713,7 +1818,8 @@
                 "de": "Parken Sie hier in der Nähe und betreten Sie die Altstadt.",
                 "hu": "Parkoljon le a közelben és sétáljon be az óvárosba.",
                 "ro": "Parcați în apropiere și intrați în orașul vechi pe jos.",
-                "en": "Park nearby and enter the old town on foot."
+                "en": "Park nearby and enter the old town on foot.",
+                "es": "Aparca cerca y entra al casco antiguo a pie."
               }
             },
             {
@@ -1722,7 +1828,8 @@
                 "de": "Umfangreiche Sammlung religiöser Kunst.",
                 "hu": "Egyházi műalkotások gazdag gyűjteménye.",
                 "ro": "Colecție impresionantă de artă religioasă.",
-                "en": "Extensive collection of religious art."
+                "en": "Extensive collection of religious art.",
+                "es": "Amplia colección de arte religioso."
               }
             },
             {
@@ -1731,7 +1838,8 @@
                 "de": "Liegt direkt neben dem Museum.",
                 "hu": "Közvetlenül a múzeum mellett található.",
                 "ro": "Se află chiar lângă muzeu.",
-                "en": "Located right next to the museum."
+                "en": "Located right next to the museum.",
+                "es": "Situado justo al lado del museo."
               }
             },
             {
@@ -1740,7 +1848,8 @@
                 "de": "Fahren Sie zum Aussichtspunkt nahe der Burg.",
                 "hu": "Vezessen a vár közelében található kilátóhoz.",
                 "ro": "Conduceți spre punctul de belvedere de lângă castel.",
-                "en": "Drive to the viewpoint near the castle."
+                "en": "Drive to the viewpoint near the castle.",
+                "es": "Conduce hasta el mirador junto al castillo."
               }
             },
             {
@@ -1749,7 +1858,8 @@
                 "de": "Ein etwas längerer Fußweg vom Parkplatz, aber die Sicht ist fantastisch.",
                 "hu": "Hosszabb séta a parkolóból, de a látvány lenyűgöző.",
                 "ro": "O plimbare mai lungă de la parcare, dar vederea este fantastică.",
-                "en": "A longer walk from the parking, but the view is fantastic."
+                "en": "A longer walk from the parking, but the view is fantastic.",
+                "es": "Caminata más larga desde el aparcamiento, pero las vistas son fantásticas."
               }
             }
           ],
@@ -1947,6 +2057,12 @@
               "It is best to park in the public parking lots outside.",
               "Driving in the narrow alleys is not recommended.",
               "The street lighting at night is romantic but dim."
+            ],
+            "es": [
+              "El casco antiguo está cerrado al tráfico rodado habitual.",
+              "Es mejor aparcar en los estacionamientos públicos exteriores.",
+              "No se recomienda conducir por los callejones estrechos.",
+              "La iluminación nocturna es romántica pero tenue."
             ]
           }
         },
@@ -1955,7 +2071,8 @@
             "de": "Nutzen Sie das Auto, um bequem zwischen den Sehenswürdigkeiten zu pendeln. Vormittags besuchen Sie das Diözesanmuseum, während draußen der Regen prasselt. Mittags parken Sie nahe der Plaza Mayor für ein trockenes Mittagessen. Am Nachmittag bietet die Fahrt zu den Aussichtspunkten außerhalb der Stadt tolle Panoramen ohne nass zu werden. Abends geht es sicher zurück zum Hotel.",
             "hu": "Használja az autót a látnivalók közötti kényelmes közlekedéshez. Délelőtt látogassa meg a Diözesanmuseumot, miközben kint dobol az eső. Ebédidőben parkoljon a Plaza Mayor közelében a száraz étkezéshez. Délután a városon kívüli kilátópontokhoz vezető autóút nagyszerű panorámát nyújt anélkül, hogy elázna. Este biztonságosan térhet vissza a szállásra.",
             "ro": "Folosiți mașina pentru a vă deplasa confortabil între atracții. Dimineața, vizitați Muzeul Diecezan în timp ce afară plouă. La prânz, parcați aproape de Plaza Mayor pentru un prânz la adăpost. După-amiaza, drumul spre punctele de belvedere din afara orașului oferă panorame grozave fără a vă uda. Seara, reveniți în siguranță la hotel.",
-            "en": "Use the car to commute comfortably between the sights. In the morning, visit the Diocesan Museum while the rain patters outside. At noon, park near Plaza Mayor for a dry lunch. In the afternoon, the drive to the viewpoints outside the city offers great panoramas without getting wet. In the evening, return safely to your hotel."
+            "en": "Use the car to commute comfortably between the sights. In the morning, visit the Diocesan Museum while the rain patters outside. At noon, park near Plaza Mayor for a dry lunch. In the afternoon, the drive to the viewpoints outside the city offers great panoramas without getting wet. In the evening, return safely to your hotel.",
+            "es": "Usa el coche para desplazarte cómodamente entre los puntos. Por la mañana visita el Museo Diocesano mientras llueve fuera. Al mediodía aparca cerca de la Plaza Mayor para un almuerzo seco. Por la tarde, el trayecto a los miradores fuera de la ciudad ofrece grandes panoramas sin mojarse. Por la noche vuelve con seguridad al hotel."
           },
           "stops": [
             {
@@ -1964,7 +2081,8 @@
                 "de": "Parken Sie auf dem großen Parkplatz am Ortseingang und nutzen Sie den Schirm.",
                 "hu": "Parkoljon a város bejáratánál lévő nagy parkolóban, és használja az esernyőt.",
                 "ro": "Parcați în parcarea mare de la intrarea în oraș și folosiți umbrela.",
-                "en": "Park in the large parking lot at the town entrance and use your umbrella."
+                "en": "Park in the large parking lot at the town entrance and use your umbrella.",
+                "es": "Aparca en el gran estacionamiento a la entrada del pueblo y usa paraguas."
               }
             },
             {
@@ -1973,7 +2091,8 @@
                 "de": "Idealer Ort für die regnerischste Zeit des Tages; viel Zeit einplanen.",
                 "hu": "Ideális hely a nap legesősebb időszakára; szánjon rá bőven időt.",
                 "ro": "Locul ideal pentru cea mai ploioasă parte a zilei; alocați suficient timp.",
-                "en": "Ideal spot for the rainiest part of the day; plan for plenty of time."
+                "en": "Ideal spot for the rainiest part of the day; plan for plenty of time.",
+                "es": "Lugar ideal para la parte más lluviosa del día; planifica tiempo suficiente."
               }
             },
             {
@@ -1982,7 +2101,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz; halten Sie den Regenschutz bereit.",
                 "hu": "Rövid séta a parkolótól; tartsa készenlétben az esővédőt.",
                 "ro": "Drum scurt pe jos din parcare; țineți umbrela la îndemână.",
-                "en": "Short walk from the parking area; keep your rain gear ready."
+                "en": "Short walk from the parking area; keep your rain gear ready.",
+                "es": "Corto paseo desde el aparcamiento; lleva equipo de lluvia listo."
               }
             },
             {
@@ -1991,7 +2111,8 @@
                 "de": "Prüfen Sie vor dem Aussteigen die Wolkenlage für trockene Besichtigungsmomente.",
                 "hu": "Kiszállás előtt ellenőrizze a felhőket a szárazabb pillanatokhoz.",
                 "ro": "Verificați norii înainte de a coborî pentru momente de vizitare fără ploaie.",
-                "en": "Check the cloud cover before getting out for a dry window of sightseeing."
+                "en": "Check the cloud cover before getting out for a dry window of sightseeing.",
+                "es": "Comprueba la cobertura de nubes antes de salir para aprovechar una ventana seca."
               }
             },
             {
@@ -2000,7 +2121,8 @@
                 "de": "Fahren Sie vorsichtig auf den schmalen Zufahrtswegen bei Sichtbehinderung.",
                 "hu": "Vezessen óvatosan a szűk bekötőutakon korlátozott látási viszonyok mellett.",
                 "ro": "Conduceți cu atenție pe drumurile înguste de acces în caz de vizibilitate redusă.",
-                "en": "Drive carefully on the narrow access roads if visibility is impaired."
+                "en": "Drive carefully on the narrow access roads if visibility is impaired.",
+                "es": "Conduce con cuidado por los accesos estrechos si la visibilidad está reducida."
               }
             }
           ],
@@ -2028,6 +2150,12 @@
               "Use a covered parking spot if available.",
               "Don't leave wet clothes in the car to avoid fogging up the windows.",
               "The city lights during rain are a highlight for drivers as well."
+            ],
+            "es": [
+              "La A-1512 puede tener caída de rocas en lluvias fuertes.",
+              "Usa un aparcamiento cubierto si está disponible.",
+              "No dejes ropa mojada en el coche para evitar que se empañen las ventanas.",
+              "Las luces de la ciudad con lluvia son un atractivo también para los conductores."
             ]
           }
         },
@@ -2036,7 +2164,8 @@
             "de": "Eine Winterfahrt nach Albarracín bietet spektakuläre Blicke auf verschneite Gipfel. Vormittags wärmt die Sitzheizung, während Sie die Panorama-Route wählen. Mittags finden Sie leicht einen Parkplatz, da weniger Touristen da sind. Nachmittags besuchen Sie den Turm del Andador, bevor die Schatten im Tal zu lang werden. Abends genießen Sie die Fahrt durch das beleuchtete, rote Dorf.",
             "hu": "Egy téli autózás Albarracínba látványos kilátást nyújt a havas csúcsokra. Délelőtt az ülésfűtés melegít, miközben a panoráma utat választja. Ebédidőben könnyen talál parkolót, mert kevesebb a turista. Délután látogassa meg a Turm del Andadort, mielőtt az árnyékok túl hosszúra nyúlnának a völgyben. Este élvezze a kivilágított vörös falu látványát.",
             "ro": "O călătorie de iarnă spre Albarracín oferă vederi spectaculoase spre vârfurile înzăpezite. Dimineața, încălzirea în scaune vă răsfață în timp ce alegeți ruta panoramică. La prânz, găsiți ușor loc de parcare, fiind mai puțini turiști. După-amiaza, vizitați Turnul del Andador înainte ca umbrele din vale să devină prea lungi. Seara, bucurați-vă de drumul prin satul roșu iluminat.",
-            "en": "A winter drive to Albarracín offers spectacular views of snowy peaks. In the morning, the seat heating keeps you warm while you take the scenic route. At noon, you'll easily find a parking spot as there are fewer tourists. In the afternoon, visit the Tower of Andador before the shadows in the valley get too long. In the evening, enjoy the drive through the illuminated red village."
+            "en": "A winter drive to Albarracín offers spectacular views of snowy peaks. In the morning, the seat heating keeps you warm while you take the scenic route. At noon, you'll easily find a parking spot as there are fewer tourists. In the afternoon, visit the Tower of Andador before the shadows in the valley get too long. In the evening, enjoy the drive through the illuminated red village.",
+            "es": "Una ruta invernal a Albarracín ofrece vistas espectaculares de picos nevados. Por la mañana la calefacción del asiento te mantiene caliente en la ruta panorámica. Al mediodía hay menos turistas y aparcarás con facilidad. Por la tarde visita la Torre del Andador antes de que las sombras en el valle se alarguen demasiado. Por la noche disfruta del trayecto por el pueblo rojo iluminado."
           },
           "stops": [
             {
@@ -2045,7 +2174,8 @@
                 "de": "Prüfen Sie die Parkplatzbeschaffenheit auf festgefahrenen Schnee.",
                 "hu": "Ellenőrizze a parkoló állapotát a letaposott hó miatt.",
                 "ro": "Verificați starea parcării pentru zăpadă bătătorită.",
-                "en": "Check the parking lot conditions for packed snow."
+                "en": "Check the parking lot conditions for packed snow.",
+                "es": "Revisa el estado del aparcamiento por si hay nieve compactada."
               }
             },
             {
@@ -2054,7 +2184,8 @@
                 "de": "Guter Ort, um die Kälteperiode zwischen den Spaziergängen zu überbrücken.",
                 "hu": "Jó hely a hideg időszak áthidalására a séták között.",
                 "ro": "Un loc bun pentru a face o pauză de la frig între plimbări.",
-                "en": "A good place to bridge the cold spell between walks."
+                "en": "A good place to bridge the cold spell between walks.",
+                "es": "Buen lugar para refugiarte del frío entre paseos."
               }
             },
             {
@@ -2063,7 +2194,8 @@
                 "de": "Achten Sie auf Passanten, die auf glatten Gehwegen nahe der Straße laufen.",
                 "hu": "Ügyeljen a járókelőkre, akik a csúszós járdák miatt az út szélén mehetnek.",
                 "ro": "Atenție la pietonii care merg pe marginea drumului din cauza trotuarelor alunecoase.",
-                "en": "Watch out for pedestrians walking near the road due to slippery sidewalks."
+                "en": "Watch out for pedestrians walking near the road due to slippery sidewalks.",
+                "es": "Cuidado con los peatones que caminan cerca de la calzada por las aceras resbaladizas."
               }
             },
             {
@@ -2072,7 +2204,8 @@
                 "de": "Lassen Sie den Motor nicht unnötig laufen, während Sie den Ausblick genießen.",
                 "hu": "Ne járassa feleslegesen a motort, miközben a kilátásban gyönyörködik.",
                 "ro": "Nu lăsați motorul pornit inutil în timp ce admirați priveliștea.",
-                "en": "Don't leave the engine idling unnecessarily while enjoying the view."
+                "en": "Don't leave the engine idling unnecessarily while enjoying the view.",
+                "es": "No dejes el motor en marcha innecesariamente mientras disfrutas de las vistas."
               }
             },
             {
@@ -2081,7 +2214,8 @@
                 "de": "Winterreifen oder Ketten können für diesen hohen Punkt nötig sein.",
                 "hu": "Téli gumi vagy hólánc szükséges lehet ehhez a magas ponthoz.",
                 "ro": "Anvelopele de iarnă sau lanțurile pot fi necesare pentru acest punct înalt.",
-                "en": "Winter tires or chains might be necessary for this high point."
+                "en": "Winter tires or chains might be necessary for this high point.",
+                "es": "Neumáticos de invierno o cadenas pueden ser necesarios en este alto."
               }
             }
           ],
@@ -2109,6 +2243,12 @@
               "The mountain roads in Teruel can be very slippery in the morning (frost).",
               "Park in a way that allows you to pull out easily even if it snows.",
               "Fill up your tank, as gas stations are less frequent in the mountain region."
+            ],
+            "es": [
+              "Lleva siempre un rascador de hielo y anticongelante en el coche.",
+              "Las carreteras de montaña en Teruel pueden estar muy resbaladizas por la mañana (heladas).",
+              "Aparca de forma que puedas salir con facilidad aunque nieve.",
+              "Llena el depósito: las gasolineras son menos frecuentes en la montaña."
             ]
           }
         }
@@ -2137,7 +2277,8 @@
             "de": "Das Zentrum ist vom Busbahnhof gut zu Fuß erreichbar.",
             "hu": "A központ könnyen elérhető sétálva a buszmegállótól.",
             "ro": "Centrul este ușor accesibil pe jos de la stația de autobuz.",
-            "en": "The center is an easy walk from the bus station."
+            "en": "The center is an easy walk from the bus station.",
+            "es": "El centro está a un paseo fácil desde la estación de autobuses."
           }
         },
         {
@@ -2155,7 +2296,8 @@
             "de": "Eine schöne und oft übersehene Kirche.",
             "hu": "Egy gyönyörű, gyakran mellőzött templom.",
             "ro": "O biserică frumoasă și adesea trecută cu vederea.",
-            "en": "A beautiful and often overlooked church."
+            "en": "A beautiful and often overlooked church.",
+            "es": "Una iglesia bonita y a menudo poco valorada."
           }
         },
         {
@@ -2173,7 +2315,8 @@
             "de": "Die Ausstellungen erzählen viel über die Geschichte.",
             "hu": "A kiállítások sokat mesélnek a hely történetéről.",
             "ro": "Expozițiile spun multe despre istoria locului.",
-            "en": "The exhibits tell a lot about the local history."
+            "en": "The exhibits tell a lot about the local history.",
+            "es": "Las exposiciones cuentan mucho sobre la historia local."
           }
         },
         {
@@ -2191,7 +2334,8 @@
             "de": "Nehmen Sie sich Zeit für den Panoramablick.",
             "hu": "Szánjon időt a panorámára a falakról.",
             "ro": "Luați-vă timp pentru priveliștea de pe ziduri.",
-            "en": "Take your time for the panoramic views from the walls."
+            "en": "Take your time for the panoramic views from the walls.",
+            "es": "Tómate tu tiempo para las vistas panorámicas desde las murallas."
           }
         }
       ],
@@ -2199,7 +2343,8 @@
         "de": "Nach Ankunft im Zentrum geht es zur belebten Plaza Mayor. Entdecken Sie danach die friedliche Kirche Santa Maria. Mittags erwartet Sie das historische Diözesanmuseum. Der Nachmittag ist für einen entspannten Spaziergang entlang der alten Stadtmauern reserviert.",
         "hu": "A központba érkezés után irány a nyüzsgő Plaza Mayor. Ezután fedezze fel a békés Santa Maria templomot. Délben a történelmi múzeum várja. A délután egy laza sétára van fenntartva az ősi városfalak mentén.",
         "ro": "După sosirea în centru mergeți spre animata Plaza Mayor. Descoperiți apoi liniștita biserică Santa Maria. La prânz vă așteaptă muzeul eparhial istoric. După-amiaza este rezervată pentru o plimbare relaxantă de-a lungul vechilor ziduri ale orașului.",
-        "en": "After arriving in the center, head to the bustling Plaza Mayor. Then discover the peaceful Santa Maria church. At midday, the historic diocesan museum awaits. The afternoon is reserved for a relaxing walk along the ancient city walls."
+        "en": "After arriving in the center, head to the bustling Plaza Mayor. Then discover the peaceful Santa Maria church. At midday, the historic diocesan museum awaits. The afternoon is reserved for a relaxing walk along the ancient city walls.",
+        "es": "Al llegar al centro, dirígete a la animada Plaza Mayor. Luego descubre la tranquila iglesia de Santa María. Al mediodía espera el histórico museo diocesano. La tarde está reservada para un paseo relajado por las antiguas murallas."
       },
       "gastro_picks": {
         "de": [
@@ -2395,6 +2540,12 @@
           "Buses run less frequently on weekends.",
           "Take snacks with you for the onward journey.",
           "The bus stop is located just outside the old town."
+        ],
+        "es": [
+          "Consulta el horario del autobús para el viaje de regreso.",
+          "Los autobuses circulan con menos frecuencia los fines de semana.",
+          "Lleva refrigerios para el tramo siguiente.",
+          "La parada de autobús está situada justo fuera del casco antiguo."
         ]
       },
       "variants": {
@@ -2403,7 +2554,8 @@
             "de": "Nach Ankunft im Zentrum geht es zur belebten Plaza Mayor. Entdecken Sie danach die friedliche Kirche Santa Maria. Mittags erwartet Sie das historische Diözesanmuseum. Der Nachmittag ist für einen entspannten Spaziergang entlang der alten Stadtmauern reserviert.",
             "hu": "A központba érkezés után irány a nyüzsgő Plaza Mayor. Ezután fedezze fel a békés Santa Maria templomot. Délben a történelmi múzeum várja. A délután egy laza sétára van fenntartva az ősi városfalak mentén.",
             "ro": "După sosirea în centru mergeți spre animata Plaza Mayor. Descoperiți apoi liniștita biserică Santa Maria. La prânz vă așteaptă muzeul eparhial istoric. După-amiaza este rezervată pentru o plimbare relaxantă de-a lungul vechilor ziduri ale orașului.",
-            "en": "After arriving in the center, head to the bustling Plaza Mayor. Then discover the peaceful Santa Maria church. At midday, the historic diocesan museum awaits. The afternoon is reserved for a relaxing walk along the ancient city walls."
+            "en": "After arriving in the center, head to the bustling Plaza Mayor. Then discover the peaceful Santa Maria church. At midday, the historic diocesan museum awaits. The afternoon is reserved for a relaxing walk along the ancient city walls.",
+            "es": "Al llegar al centro, dirígete a la bulliciosa Plaza Mayor. Luego descubre la tranquila iglesia de Santa María. Al mediodía, te espera el histórico museo diocesano. La tarde está reservada para un paseo relajante por las antiguas murallas."
           },
           "stops": [
             {
@@ -2412,7 +2564,8 @@
                 "de": "Das Zentrum ist vom Busbahnhof gut zu Fuß erreichbar.",
                 "hu": "A központ könnyen elérhető sétálva a buszmegállótól.",
                 "ro": "Centrul este ușor accesibil pe jos de la stația de autobuz.",
-                "en": "The center is an easy walk from the bus station."
+                "en": "The center is an easy walk from the bus station.",
+                "es": "El centro está a un fácil paseo desde la estación de autobuses."
               }
             },
             {
@@ -2421,7 +2574,8 @@
                 "de": "Eine schöne und oft übersehene Kirche.",
                 "hu": "Egy gyönyörű, gyakran mellőzött templom.",
                 "ro": "O biserică frumoasă și adesea trecută cu vederea.",
-                "en": "A beautiful and often overlooked church."
+                "en": "A beautiful and often overlooked church.",
+                "es": "Una iglesia preciosa y a menudo pasada por alto."
               }
             },
             {
@@ -2430,7 +2584,8 @@
                 "de": "Die Ausstellungen erzählen viel über die Geschichte.",
                 "hu": "A kiállítások sokat mesélnek a hely történetéről.",
                 "ro": "Expozițiile spun multe despre istoria locului.",
-                "en": "The exhibits tell a lot about the local history."
+                "en": "The exhibits tell a lot about the local history.",
+                "es": "Las exposiciones cuentan mucho sobre la historia local."
               }
             },
             {
@@ -2439,7 +2594,8 @@
                 "de": "Nehmen Sie sich Zeit für den Panoramablick.",
                 "hu": "Szánjon időt a panorámára a falakról.",
                 "ro": "Luați-vă timp pentru priveliștea de pe ziduri.",
-                "en": "Take your time for the panoramic views from the walls."
+                "en": "Take your time for the panoramic views from the walls.",
+                "es": "Tómate tu tiempo para las vistas panorámicas desde las murallas."
               }
             }
           ],
@@ -2637,6 +2793,12 @@
               "Buses run less frequently on weekends.",
               "Take snacks with you for the onward journey.",
               "The bus stop is located just outside the old town."
+            ],
+            "es": [
+              "Consulta el horario del autobús para el viaje de regreso.",
+              "Los autobuses circulan con menos frecuencia los fines de semana.",
+              "Lleva refrigerios para el tramo siguiente.",
+              "La parada de autobús está situada justo fuera del casco antiguo."
             ]
           }
         },
@@ -2645,7 +2807,8 @@
             "de": "Mit dem Bus erreichen Sie das Zentrum trocken. Vormittags erkunden Sie die Plaza Mayor, wo Cafés Schutz bieten. Mittags besuchen Sie die Kirche Santa Maria für eine besinnliche, trockene Pause. Nachmittags steht das Diözesanmuseum auf dem Programm, perfekt für Regentage. Abends bringt Sie der letzte Bus sicher zurück, während Sie die Regentropfen am Fenster beobachten.",
             "hu": "Busszal szárazon érheti el a központot. Délelőtt fedezze fel a Plaza Mayort, ahol a kávézók menedéket nyújtanak. Ebédidőben látogassa meg a Santa Maria templomot egy meghitt, száraz pihenőre. Délután a Diözesanmuseum van műsoron, amely tökéletes esős napokra. Este az utolsó busz biztonságban viszi vissza, miközben az ablakon lefutó esőcseppeket figyeli.",
             "ro": "Cu autobuzul ajungeți uscați în centru. Dimineața, explorați Plaza Mayor, unde cafenelele oferă adăpost. La prânz, vizitați Biserica Santa Maria pentru o pauză liniștită la adăpost. După-amiaza, Muzeul Diecezan este în program, perfect pentru zilele ploioase. Seara, ultimul autobuz vă aduce înapoi în siguranță în timp ce priviți picăturile de ploaie pe geam.",
-            "en": "Reach the center dry by bus. In the morning, explore Plaza Mayor, where cafes offer shelter. At noon, visit Santa Maria Church for a peaceful, dry break. In the afternoon, the Diocesan Museum is on the agenda, perfect for rainy days. In the evening, the last bus takes you back safely while you watch the raindrops on the window."
+            "en": "Reach the center dry by bus. In the morning, explore Plaza Mayor, where cafes offer shelter. At noon, visit Santa Maria Church for a peaceful, dry break. In the afternoon, the Diocesan Museum is on the agenda, perfect for rainy days. In the evening, the last bus takes you back safely while you watch the raindrops on the window.",
+            "es": "Llega seco al centro en autobús. Por la mañana, explora la Plaza Mayor, donde las cafeterías ofrecen refugio. Al mediodía, visita la iglesia de Santa María para un descanso tranquilo y seco. Por la tarde, el Museo Diocesano está en la agenda, perfecto para los días de lluvia. Por la noche, el último autobús te devuelve con seguridad mientras miras las gotas en la ventana."
           },
           "stops": [
             {
@@ -2654,7 +2817,8 @@
                 "de": "Die Bushaltestelle liegt nahe am Platz; wenig Zeit im Regen verbringen.",
                 "hu": "A buszmegálló közel van a térhez; kevés időt kell az esőben töltenie.",
                 "ro": "Stația de autobuz este aproape de piață; veți petrece puțin timp în ploaie.",
-                "en": "The bus stop is close to the square; you'll spend very little time in the rain."
+                "en": "The bus stop is close to the square; you'll spend very little time in the rain.",
+                "es": "La parada de autobús está cerca de la plaza; pasarás muy poco tiempo bajo la lluvia."
               }
             },
             {
@@ -2663,7 +2827,8 @@
                 "de": "Ein schöner Ort, um zu warten, bis der Regen nachlässt.",
                 "hu": "Szép hely megvárni, amíg alábbhagy az eső.",
                 "ro": "Un loc frumos unde puteți aștepta până se domolește ploaia.",
-                "en": "A beautiful place to wait until the rain lets up."
+                "en": "A beautiful place to wait until the rain lets up.",
+                "es": "Un lugar bonito para esperar hasta que la lluvia amaine."
               }
             },
             {
@@ -2672,7 +2837,8 @@
                 "de": "Überprüfen Sie die Buszeiten drinnen im Warmen über das Smartphone.",
                 "hu": "Ellenőrizze a buszjáratokat bent a melegben az okostelefonján.",
                 "ro": "Verificați programul autobuzelor la căldură, în interior, pe smartphone.",
-                "en": "Check bus times on your smartphone while staying warm inside."
+                "en": "Check bus times on your smartphone while staying warm inside.",
+                "es": "Consulta los horarios de los autobuses en tu smartphone mientras te mantienes caliente dentro."
               }
             },
             {
@@ -2681,7 +2847,8 @@
                 "de": "Nur bei nachlassendem Regen besuchen; die Stufen sind steil.",
                 "hu": "Csak csökkenő esőben látogassa; a lépcsők meredekek.",
                 "ro": "Vizitați doar când ploaia se domolește; treptele sunt abrupte.",
-                "en": "Only visit when the rain eases; the steps are steep."
+                "en": "Only visit when the rain eases; the steps are steep.",
+                "es": "Solo visita cuando la lluvia afloje; los escalones son empinados."
               }
             }
           ],
@@ -2709,6 +2876,12 @@
               "Wear waterproof clothing for the walks between the stop and the museum.",
               "Check for any schedule changes during severe weather.",
               "Use the waiting time in cafes near the bus stops."
+            ],
+            "es": [
+              "Las conexiones de autobús con Teruel suelen ser más puntuales de lo que piensas cuando llueve.",
+              "Lleva ropa impermeable para los paseos entre la parada y el museo.",
+              "Comprueba si hay cambios de horario en caso de tiempo severo.",
+              "Aprovecha el tiempo de espera en las cafeterías cerca de las paradas."
             ]
           }
         },
@@ -2717,7 +2890,8 @@
             "de": "Der Bus bringt Sie direkt ins Herz des winterlichen Dorfes. Vormittags wärmen Sie sich in einem Café an der Plaza Mayor nach der Ankunft auf. Mittags besuchen Sie die Kirche Santa Maria, wo die Stille des Winters spürbar ist. Nachmittags erkunden Sie das Museum, bevor es draußen zu kalt wird. Abends kehren Sie mit dem Bus zurück, wenn die Lichter der Stadt im Frost glitzern.",
             "hu": "A busz egyenesen a téli falu szívébe viszi. Délelőtt melegedjen fel egy kávézóban a Plaza Mayoron érkezés után. Ebédidőben látogassa meg a Santa Maria templomot, ahol érezhető a tél csendje. Délután fedezze fel a múzeumot, mielőtt odakint túl hideg lenne. Este busszal térjen vissza, amikor a város fényei csillognak a zúzmarában.",
             "ro": "Autobuzul vă aduce direct în inima satului hibernal. Dimineața, încălziți-vă într-o cafenea din Plaza Mayor după sosire. La prânz, vizitați Biserica Santa Maria, unde liniștea iernii este perceptibilă. După-amiaza, explorați muzeul înainte să se facă prea frig afară. Seara, reveniți cu autobuzul când luminile orașului sclipesc în chiciură.",
-            "en": "The bus takes you straight to the heart of the winter village. In the morning, warm up in a cafe at Plaza Mayor after your arrival. At noon, visit Santa Maria Church, where the silence of winter is palpable. In the afternoon, explore the museum before it gets too cold outside. In the evening, return by bus as the city lights shimmer in the frost."
+            "en": "The bus takes you straight to the heart of the winter village. In the morning, warm up in a cafe at Plaza Mayor after your arrival. At noon, visit Santa Maria Church, where the silence of winter is palpable. In the afternoon, explore the museum before it gets too cold outside. In the evening, return by bus as the city lights shimmer in the frost.",
+            "es": "El autobús te lleva directamente al corazón del pueblo invernal. Por la mañana, entra en calor en una cafetería de la Plaza Mayor tras tu llegada. Al mediodía, visita la iglesia de Santa María, donde se percibe el silencio del invierno. Por la tarde, explora el museo antes de que haga demasiado frío fuera. Por la noche, regresa en autobús mientras las luces de la ciudad brillan en la escarcha."
           },
           "stops": [
             {
@@ -2726,7 +2900,8 @@
                 "de": "Warten Sie im Inneren eines Cafés auf den Bus; die Haltestelle ist nah.",
                 "hu": "Várja a buszt egy kávézó belsejében; a megálló közel van.",
                 "ro": "Așteptați autobuzul în interiorul unei cafenele; stația este aproape.",
-                "en": "Wait for the bus inside a cafe; the stop is close by."
+                "en": "Wait for the bus inside a cafe; the stop is close by.",
+                "es": "Espera el autobús dentro de una cafetería; la parada está cerca."
               }
             },
             {
@@ -2735,7 +2910,8 @@
                 "de": "Ein Ort der Ruhe, ideal um sich zwischen den Besichtigungen aufzuwärmen.",
                 "hu": "A nyugalom helye, ideális felmelegedni a nézelődés közben.",
                 "ro": "Un loc al liniștii, ideal pentru a vă încălzi între vizite.",
-                "en": "A place of peace, ideal for warming up between sightings."
+                "en": "A place of peace, ideal for warming up between sightings.",
+                "es": "Un lugar de paz, ideal para entrar en calor entre las visitas."
               }
             },
             {
@@ -2744,7 +2920,8 @@
                 "de": "Die Ausstellungen sind im Winter oft weniger besucht; genießen Sie die Stille.",
                 "hu": "A kiállítások télen gyakran kevésbé látogatottak; élvezze a csendet.",
                 "ro": "Expozițiile sunt adesea mai puțin vizitate iarna; bucurați-vă de liniște.",
-                "en": "The exhibitions are often less crowded in winter; enjoy the quiet."
+                "en": "The exhibitions are often less crowded in winter; enjoy the quiet.",
+                "es": "Las exposiciones suelen estar menos concurridas en invierno; disfruta de la tranquilidad."
               }
             },
             {
@@ -2753,7 +2930,8 @@
                 "de": "Der Aufstieg hält warm, aber oben ist es sehr windig; gut einpacken.",
                 "hu": "A feljutás melegen tart, de fent nagyon szeles az idő; öltözzön be jól.",
                 "ro": "Urcarea vă ține de cald, dar sus este foarte vânt; îmbrăcați-vă bine.",
-                "en": "The climb keeps you warm, but it's very windy at the top; wrap up well."
+                "en": "The climb keeps you warm, but it's very windy at the top; wrap up well.",
+                "es": "La subida te mantiene caliente, pero hace mucho viento en la cima; abrígate bien."
               }
             }
           ],
@@ -2781,6 +2959,12 @@
               "Check the winter schedule as some connections may be less frequent.",
               "Have small change ready in case card payment on the bus fails due to the cold.",
               "The stops often provide no shelter from the wind; arrive shortly before departure."
+            ],
+            "es": [
+              "Los autobuses están bien calefactados en invierno; disfruta del viaje.",
+              "Consulta el horario de invierno, ya que algunas conexiones pueden ser menos frecuentes.",
+              "Ten suelto disponible en caso de que falle el pago con tarjeta en el autobús por el frío.",
+              "Las paradas a menudo no ofrecen protección contra el viento; llega poco antes de la salida."
             ]
           }
         }
@@ -2795,19 +2979,22 @@
       "de": "Reines Spanisch, ländliches Aragón. Englisch sehr begrenzt, am ehesten im Hotel Casa de Santiago oder bei den geführten Touren der Fundación Santa María. Geführte Touren sind übrigens fast Pflicht, sonst sind viele Häuser zu.",
       "hu": "Tiszta spanyol, vidéki Aragón. Az angol nagyon korlátozott, leginkább a Casa de Santiago szállodában vagy a Fundación Santa María vezetett túráin. A vezetett séta szinte kötelező, máskülönben sok ház zárva van.",
       "ro": "Spaniolă curată, Aragon rural. Engleza e foarte limitată, doar la Hotel Casa de Santiago sau în tururile ghidate ale Fundación Santa María. Tururile ghidate sunt aproape obligatorii, altfel multe case rămân închise.",
-      "en": "Plain Spanish, rural Aragón. English is very limited - your best bets are Hotel Casa de Santiago or the guided tours by Fundación Santa María. Those tours are basically essential, otherwise most houses stay shut to you."
+      "en": "Plain Spanish, rural Aragón. English is very limited - your best bets are Hotel Casa de Santiago or the guided tours by Fundación Santa María. Those tours are basically essential, otherwise most houses stay shut to you.",
+      "es": "Español llano, Aragón rural. El inglés es muy limitado: tus mejores opciones son el Hotel Casa de Santiago o las visitas guiadas de la Fundación Santa María. Esas visitas son prácticamente imprescindibles; de lo contrario, la mayoría de las casas permanecerán cerradas."
     },
     "best_time_to_visit": {
       "de": "April-Juni und September-Oktober. Im Sommer brennt die Sonne auf den rosa Häusern, Mittagspause unvermeidlich. Winter ist magisch mit Schnee, aber Zugang vereist - Spikes für Winterstiefel mitnehmen.",
       "hu": "Április-június és szeptember-október. Nyáron a nap perzseli a rózsaszín házakat, déli sziesztát ki nem hagyhatod. Tél varázslatos havazással, de az utak jegesek, csúszásgátlót vigyél a bakancsra.",
       "ro": "Aprilie-iunie și septembrie-octombrie. Vara soarele arde casele roz, siesta de prânz e obligatorie. Iarna e magică cu zăpadă, dar drumurile sunt înghețate, ia colțari pentru ghete.",
-      "en": "April-June and September-October are ideal. Summer sun bakes the pink houses and mandates a long siesta. Winter is magical under snow but roads ice up - bring grippers for your boots."
+      "en": "April-June and September-October are ideal. Summer sun bakes the pink houses and mandates a long siesta. Winter is magical under snow but roads ice up - bring grippers for your boots.",
+      "es": "Abril-junio y septiembre-octubre son ideales. El sol de verano cuece las casas rosadas y obliga a una larga siesta. El invierno es mágico bajo la nieve, pero las carreteras se hielan: lleva crampones para las botas."
     },
     "neighborhood_warnings": {
       "de": "Sehr sicher, aber extrem steile Kopfsteinpflastergassen mit Treppen - mit Rollkoffer kämpfst du eine Stunde. Im Sommer Hitze in den engen Gassen ohne Schatten, viel Wasser mitnehmen. Auto im Stadt-Parkhaus lassen, in der Altstadt darfst du eh nicht fahren.",
       "hu": "Nagyon biztonságos, de a meredek macskakő-utcák lépcsősek, gurulós bőrönddel egy órát szenvedsz. Nyáron a szűk utcákban árnyék nélkül forró, sok vizet vigyél. Autót a város parkolójában hagyd, az óvárosba úgyse hajthatsz be.",
       "ro": "Foarte sigur, dar străzile pavate sunt foarte abrupte cu trepte, cu valiza pe roți te chinui o oră. Vara, în străduțele înguste fără umbră e foarte cald, ia multă apă. Mașina o lași în parcarea orașului, în centrul vechi oricum nu intri.",
-      "en": "Very safe, but the steep cobbled lanes with steps will defeat any wheeled suitcase. Summer heat in the narrow shadeless alleys is real - carry plenty of water. Leave the car in the town car park; the old town is closed to traffic anyway."
+      "en": "Very safe, but the steep cobbled lanes with steps will defeat any wheeled suitcase. Summer heat in the narrow shadeless alleys is real - carry plenty of water. Leave the car in the town car park; the old town is closed to traffic anyway.",
+      "es": "Muy seguro, pero las empinadas calles empedradas con escalones derrotarán cualquier maleta con ruedas. El calor veraniego en los estrechos callejones sin sombra es real: lleva abundante agua. Deja el coche en el aparcamiento del pueblo; el casco antiguo está cerrado al tráfico."
     }
   }
 }

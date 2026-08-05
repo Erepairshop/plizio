@@ -21,7 +21,8 @@
             "de": "Casco Antiguo",
             "hu": "Óváros",
             "ro": "Orașul Vechi",
-            "en": "Old Town"
+            "en": "Old Town",
+            "es": "Casco antiguo"
           },
           "coords": [
             0.4075,
@@ -36,7 +37,8 @@
             "de": "Weiße Häuser und enge Gassen.",
             "hu": "Fehér házak és szűk utcák.",
             "ro": "Case albe și străzi înguste.",
-            "en": "White houses and narrow streets."
+            "en": "White houses and narrow streets.",
+            "es": "Casas blancas y calles estrechas."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Castillo de Papa Luna",
             "hu": "Papa Luna vára",
             "ro": "Castelul Papei Luna",
-            "en": "Papa Luna Castle"
+            "en": "Papa Luna Castle",
+            "es": "Castillo del Papa Luna"
           },
           "coords": [
             0.4085,
@@ -59,7 +62,8 @@
             "de": "Drehort von Game of Thrones.",
             "hu": "Trónok harca forgatási helyszín.",
             "ro": "Locul de filmare pentru Game of Thrones.",
-            "en": "Filming location for Game of Thrones."
+            "en": "Filming location for Game of Thrones.",
+            "es": "Localización de rodaje de Juego de Tronos."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Parque Artillería",
             "hu": "Tüzérségi park",
             "ro": "Parcul Artileriei",
-            "en": "Artillery Park"
+            "en": "Artillery Park",
+            "es": "Parque de Artillería"
           },
           "coords": [
             0.4092,
@@ -82,7 +87,8 @@
             "de": "Botanischer Garten an der Stadtmauer.",
             "hu": "Botanikus kert a városfalnál.",
             "ro": "Grădină botanică lângă zidurile cetății.",
-            "en": "Botanical garden by the city walls."
+            "en": "Botanical garden by the city walls.",
+            "es": "Jardín botánico junto a las murallas."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Iglesia de Santa María",
             "hu": "Szent Mária templom",
             "ro": "Biserica Sfânta Maria",
-            "en": "Santa Maria Church"
+            "en": "Santa Maria Church",
+            "es": "Iglesia de Santa María"
           },
           "coords": [
             0.4078,
@@ -105,7 +112,8 @@
             "de": "Gotische Architektur im Inneren.",
             "hu": "Gótikus építészet a belső térben.",
             "ro": "Arhitectură gotică în interior.",
-            "en": "Gothic architecture inside."
+            "en": "Gothic architecture inside.",
+            "es": "Arquitectura gótica en su interior."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "El Bufador",
             "hu": "El Bufador víznyelő",
             "ro": "El Bufador",
-            "en": "El Bufador"
+            "en": "El Bufador",
+            "es": "El Bufador"
           },
           "coords": [
             0.4068,
@@ -128,7 +137,8 @@
             "de": "Natürlicher Felsschacht zum Meer.",
             "hu": "Természetes sziklakürtő a tengerhez.",
             "ro": "Canal natural în stâncă spre mare.",
-            "en": "Natural rock cavity opening to the sea."
+            "en": "Natural rock cavity opening to the sea.",
+            "es": "Oquedad rocosa natural que se abre al mar."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Playa Norte",
             "hu": "Északi strand",
             "ro": "Plaja de Nord",
-            "en": "North Beach"
+            "en": "North Beach",
+            "es": "Playa Norte"
           },
           "coords": [
             0.4035,
@@ -151,7 +162,8 @@
             "de": "Blick auf die Burg vom Wasser aus.",
             "hu": "Kilátás a várra a vízből.",
             "ro": "Vedere spre castel din apă.",
-            "en": "View of the castle from the water."
+            "en": "View of the castle from the water.",
+            "es": "Vista del castillo desde el agua."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Peñíscola, die 'Stadt im Meer', erkundet man am besten zu Fuß. Beginnen Sie in der malerischen Altstadt und steigen Sie hinauf zur beeindruckenden Templerburg, dem Castillo de Papa Luna. Die Aussicht von den Zinnen ist atemberaubend.\n\nNach der Burgbesichtigung schlendern Sie durch den Parque Artillería und besuchen die Kirche Santa María. Vergessen Sie nicht, am 'El Bufador' vorbeizuschauen, wo man bei Wellengang das Meer atmen hören kann.\n\nBeenden Sie Ihren Tag an der Playa Norte, dem breiten Sandstrand mit Blick auf die Festung. Die Promenade lädt zu einem abendlichen Spaziergang ein, wenn die Burg festlich beleuchtet ist.",
         "hu": "Peñíscola, a 'tengerbe épült város' leginkább gyalog fedezhető fel. Kezdje a festői óvárosban, majd másszon fel a lenyűgöző templomos várhoz, a Papa Luna várához. A bástyákról nyíló kilátás lélegzetelállító.\n\nA várlátogatás után sétáljon át a Tüzérségi parkon és nézze meg a Szent Mária templomot. Ne felejtse el útba ejteni az 'El Bufador' sziklahasadékot, ahol hallani a tenger morajlását a kövek alatt.\n\nZárja a napot az Északi strandon, amely egy széles homokos part közvetlenül a vár lábánál. A sétány tökéletes egy esti sétához, amikor a vár díszkivilágításban úszik.",
         "ro": "Peñíscola, 'orașul de pe mare', se explorează cel mai bine la pas. Începeți în centrul istoric pitoresc și urcați la impresionantul castel templier, Castillo de Papa Luna. Vederea de pe zidurile cetății este spectaculoasă.\n\nDupă vizitarea castelului, plimbați-vă prin Parcul Artileriei și vizitați biserica Sfânta Maria. Nu uitați să treceți pe la 'El Bufador', unde puteți auzi marea 'respirând' prin stânci.\n\nÎncheiați ziua pe Playa Norte, plaja lată cu nisip fin și vedere spre cetate. Faleza este ideală pentru o plimbare de seară, când castelul este luminat festiv.",
-        "en": "Peñíscola, the 'city in the sea,' is best explored on foot. Start in the picturesque old town and climb up to the impressive Templar fortress, the Papa Luna Castle. The views from the battlements are breathtaking.\n\nAfter visiting the castle, stroll through the Artillery Park and visit the Santa María Church. Don't forget to stop by 'El Bufador,' where you can hear the sea breathing through the rocks during high surf.\n\nFinish your day at Playa Norte, the wide sandy beach with a view of the fortress. The promenade is perfect for an evening stroll when the castle is beautifully illuminated."
+        "en": "Peñíscola, the 'city in the sea,' is best explored on foot. Start in the picturesque old town and climb up to the impressive Templar fortress, the Papa Luna Castle. The views from the battlements are breathtaking.\n\nAfter visiting the castle, stroll through the Artillery Park and visit the Santa María Church. Don't forget to stop by 'El Bufador,' where you can hear the sea breathing through the rocks during high surf.\n\nFinish your day at Playa Norte, the wide sandy beach with a view of the fortress. The promenade is perfect for an evening stroll when the castle is beautifully illuminated.",
+        "es": "Peñíscola, la «ciudad en el mar», se explora mejor a pie. Comienza en el pintoresco casco antiguo y sube hasta la imponente fortaleza templaria, el Castillo del Papa Luna. Las vistas desde las almenas son impresionantes.\n\nTras visitar el castillo, pasea por el Parque de Artillería y visita la iglesia de Santa María. No olvides acercarte al Bufador, donde se oye el mar respirar entre las rocas cuando hay fuerte oleaje.\n\nTermina el día en la Playa Norte, la amplia playa de arena con vistas a la fortaleza. El paseo marítimo es perfecto para un paseo nocturno cuando el castillo está bellamente iluminado."
       },
       "gastro_picks": {
         "de": [
@@ -319,6 +332,12 @@
           "Visit the castle early to avoid the midday heat.",
           "Parking near the old town is very challenging.",
           "The city has been a filming location for many movies."
+        ],
+        "es": [
+          "Calzado cómodo imprescindible para las calles empedradas.",
+          "Visita el castillo temprano para evitar el calor del mediodía.",
+          "Aparcar cerca del casco antiguo resulta muy difícil.",
+          "La ciudad ha sido escenario de rodajes de muchas películas."
         ]
       },
       "variants": {
@@ -327,7 +346,8 @@
             "de": "Peñíscola, die 'Stadt im Meer', erkundet man am besten zu Fuß. Beginnen Sie in der malerischen Altstadt und steigen Sie hinauf zur beeindruckenden Templerburg, dem Castillo de Papa Luna. Die Aussicht von den Zinnen ist atemberaubend.\n\nNach der Burgbesichtigung schlendern Sie durch den Parque Artillería und besuchen die Kirche Santa María. Vergessen Sie nicht, am 'El Bufador' vorbeizuschauen, wo man bei Wellengang das Meer atmen hören kann.\n\nBeenden Sie Ihren Tag an der Playa Norte, dem breiten Sandstrand mit Blick auf die Festung. Die Promenade lädt zu einem abendlichen Spaziergang ein, wenn die Burg festlich beleuchtet ist.",
             "hu": "Peñíscola, a 'tengerbe épült város' leginkább gyalog fedezhető fel. Kezdje a festői óvárosban, majd másszon fel a lenyűgöző templomos várhoz, a Papa Luna várához. A bástyákról nyíló kilátás lélegzetelállító.\n\nA várlátogatás után sétáljon át a Tüzérségi parkon és nézze meg a Szent Mária templomot. Ne felejtse el útba ejteni az 'El Bufador' sziklahasadékot, ahol hallani a tenger morajlását a kövek alatt.\n\nZárja a napot az Északi strandon, amely egy széles homokos part közvetlenül a vár lábánál. A sétány tökéletes egy esti sétához, amikor a vár díszkivilágításban úszik.",
             "ro": "Peñíscola, 'orașul de pe mare', se explorează cel mai bine la pas. Începeți în centrul istoric pitoresc și urcați la impresionantul castel templier, Castillo de Papa Luna. Vederea de pe zidurile cetății este spectaculoasă.\n\nDupă vizitarea castelului, plimbați-vă prin Parcul Artileriei și vizitați biserica Sfânta Maria. Nu uitați să treceți pe la 'El Bufador', unde puteți auzi marea 'respirând' prin stânci.\n\nÎncheiați ziua pe Playa Norte, plaja lată cu nisip fin și vedere spre cetate. Faleza este ideală pentru o plimbare de seară, când castelul este luminat festiv.",
-            "en": "Peñíscola, the 'city in the sea,' is best explored on foot. Start in the picturesque old town and climb up to the impressive Templar fortress, the Papa Luna Castle. The views from the battlements are breathtaking.\n\nAfter visiting the castle, stroll through the Artillery Park and visit the Santa María Church. Don't forget to stop by 'El Bufador,' where you can hear the sea breathing through the rocks during high surf.\n\nFinish your day at Playa Norte, the wide sandy beach with a view of the fortress. The promenade is perfect for an evening stroll when the castle is beautifully illuminated."
+            "en": "Peñíscola, the 'city in the sea,' is best explored on foot. Start in the picturesque old town and climb up to the impressive Templar fortress, the Papa Luna Castle. The views from the battlements are breathtaking.\n\nAfter visiting the castle, stroll through the Artillery Park and visit the Santa María Church. Don't forget to stop by 'El Bufador,' where you can hear the sea breathing through the rocks during high surf.\n\nFinish your day at Playa Norte, the wide sandy beach with a view of the fortress. The promenade is perfect for an evening stroll when the castle is beautifully illuminated.",
+            "es": "Peñíscola, la «ciudad en el mar», se explora mejor a pie. Comienza en el pintoresco casco antiguo y sube hasta la imponente fortaleza templaria, el Castillo del Papa Luna. Las vistas desde las almenas son impresionantes.\n\nTras visitar el castillo, pasea por el Parque de Artillería y visita la iglesia de Santa María. No olvides acercarte al Bufador, donde se oye el mar respirar entre las rocas cuando hay fuerte oleaje.\n\nTermina el día en la Playa Norte, la amplia playa de arena con vistas a la fortaleza. El paseo marítimo es perfecto para un paseo nocturno cuando el castillo está bellamente iluminado."
           },
           "stops": [
             {
@@ -335,13 +355,15 @@
                 "de": "Casco Antiguo",
                 "hu": "Óváros",
                 "ro": "Orașul Vechi",
-                "en": "Old Town"
+                "en": "Old Town",
+                "es": "Casco antiguo"
               },
               "tip_5lang": {
                 "de": "Weiße Häuser und enge Gassen.",
                 "hu": "Fehér házak és szűk utcák.",
                 "ro": "Case albe și străzi înguste.",
-                "en": "White houses and narrow streets."
+                "en": "White houses and narrow streets.",
+                "es": "Casas blancas y calles estrechas."
               }
             },
             {
@@ -349,13 +371,15 @@
                 "de": "Castillo de Papa Luna",
                 "hu": "Papa Luna vára",
                 "ro": "Castelul Papei Luna",
-                "en": "Papa Luna Castle"
+                "en": "Papa Luna Castle",
+                "es": "Castillo del Papa Luna"
               },
               "tip_5lang": {
                 "de": "Drehort von Game of Thrones.",
                 "hu": "Trónok harca forgatási helyszín.",
                 "ro": "Locul de filmare pentru Game of Thrones.",
-                "en": "Filming location for Game of Thrones."
+                "en": "Filming location for Game of Thrones.",
+                "es": "Localización de rodaje de Juego de Tronos."
               }
             },
             {
@@ -363,13 +387,15 @@
                 "de": "Parque Artillería",
                 "hu": "Tüzérségi park",
                 "ro": "Parcul Artileriei",
-                "en": "Artillery Park"
+                "en": "Artillery Park",
+                "es": "Parque de Artillería"
               },
               "tip_5lang": {
                 "de": "Botanischer Garten an der Stadtmauer.",
                 "hu": "Botanikus kert a városfalnál.",
                 "ro": "Grădină botanică lângă zidurile cetății.",
-                "en": "Botanical garden by the city walls."
+                "en": "Botanical garden by the city walls.",
+                "es": "Jardín botánico junto a las murallas."
               }
             },
             {
@@ -377,13 +403,15 @@
                 "de": "Iglesia de Santa María",
                 "hu": "Szent Mária templom",
                 "ro": "Biserica Sfânta Maria",
-                "en": "Santa Maria Church"
+                "en": "Santa Maria Church",
+                "es": "Iglesia de Santa María"
               },
               "tip_5lang": {
                 "de": "Gotische Architektur im Inneren.",
                 "hu": "Gótikus építészet a belső térben.",
                 "ro": "Arhitectură gotică în interior.",
-                "en": "Gothic architecture inside."
+                "en": "Gothic architecture inside.",
+                "es": "Arquitectura gótica en su interior."
               }
             },
             {
@@ -391,13 +419,15 @@
                 "de": "El Bufador",
                 "hu": "El Bufador víznyelő",
                 "ro": "El Bufador",
-                "en": "El Bufador"
+                "en": "El Bufador",
+                "es": "El Bufador"
               },
               "tip_5lang": {
                 "de": "Natürlicher Felsschacht zum Meer.",
                 "hu": "Természetes sziklakürtő a tengerhez.",
                 "ro": "Canal natural în stâncă spre mare.",
-                "en": "Natural rock cavity opening to the sea."
+                "en": "Natural rock cavity opening to the sea.",
+                "es": "Oquedad rocosa natural que se abre al mar."
               }
             },
             {
@@ -405,13 +435,15 @@
                 "de": "Playa Norte",
                 "hu": "Északi strand",
                 "ro": "Plaja de Nord",
-                "en": "North Beach"
+                "en": "North Beach",
+                "es": "Playa Norte"
               },
               "tip_5lang": {
                 "de": "Blick auf die Burg vom Wasser aus.",
                 "hu": "Kilátás a várra a vízből.",
                 "ro": "Vedere spre castel din apă.",
-                "en": "View of the castle from the water."
+                "en": "View of the castle from the water.",
+                "es": "Vista del castillo desde el agua."
               }
             }
           ],
@@ -573,6 +605,12 @@
               "Visit the castle early to avoid the midday heat.",
               "Parking near the old town is very challenging.",
               "The city has been a filming location for many movies."
+            ],
+            "es": [
+              "Calzado cómodo imprescindible para las calles empedradas.",
+              "Visita el castillo temprano para evitar el calor del mediodía.",
+              "Aparcar cerca del casco antiguo resulta muy difícil.",
+              "La ciudad ha sido escenario de rodajes de muchas películas."
             ]
           }
         },
@@ -581,7 +619,8 @@
             "de": "Beginnen Sie Ihren Tag in den charmanten, engen Gassen der Altstadt, die begrenzten Schutz vor Nieselregen bieten. Mittags finden Sie Zuflucht in den dicken Mauern des Castillo de Papa Luna. Nachmittags besuchen Sie den Artilleriepark und die Kirche Santa Maria, während Sie Schirm und Regenmantel griffbereit halten. Beenden Sie den Tag am El Bufador, wo die Brandung bei Regen besonders dramatisch ist, und einem kurzen, erfrischenden Spaziergang am Nordstrand.",
             "hu": "Kezdje a napot az óváros szűk utcáin, amelyek némi védelmet nyújtanak a szemerkélő esőben. Délben keressen menedéket a Papa Luna-vár vastag falai között. Délután látogasson el a Tüzérségi Parkba és a Santa Maria templomba, esernyővel felszerelkezve. Zárja a napot az El Bufador szikláinál, ahol esős időben a leglátványosabb a hullámtörés, majd tegyen egy rövid, frissítő sétát az esőáztatta északi strandon.",
             "ro": "Începeți ziua pe străzile înguste ale orașului vechi, care oferă o oarecare protecție împotriva burniței. La prânz, refugiați-vă între zidurile groase ale Castelului Papa Luna. După-amiaza, vizitați Parcul de Artilerie și Biserica Santa Maria, având umbrela la îndemână. Încheiați ziua la El Bufador, unde valurile sunt spectaculoase pe ploaie, și cu o scurtă plimbare revigorantă pe plaja de nord.",
-            "en": "Start your day in the narrow alleys of the Old Town, providing some shelter from light rain. At midday, find refuge within the thick walls of Papa Luna Castle. In the afternoon, visit the Artillery Park and Santa Maria Church, keeping your umbrella handy. End the day at El Bufador, where the sea spray is most dramatic in wet weather, followed by a brief, refreshing stroll along the rainy North Beach."
+            "en": "Start your day in the narrow alleys of the Old Town, providing some shelter from light rain. At midday, find refuge within the thick walls of Papa Luna Castle. In the afternoon, visit the Artillery Park and Santa Maria Church, keeping your umbrella handy. End the day at El Bufador, where the sea spray is most dramatic in wet weather, followed by a brief, refreshing stroll along the rainy North Beach.",
+            "es": "Empieza el día en los callejones estrechos del casco antiguo, que ofrecen cierta protección contra la lluvia ligera. Al mediodía, resguárdate dentro de los gruesos muros del Castillo del Papa Luna. Por la tarde, visita el Parque de Artillería y la iglesia de Santa María, llevando el paraguas a mano. Termina el día en El Bufador, donde la espuma del mar es más espectacular con mal tiempo, seguido de un breve y refrescante paseo por la lluviosa Playa Norte."
           },
           "stops": [
             {
@@ -590,7 +629,8 @@
                 "de": "Nutzen Sie die engen Gassen als Windschutz.",
                 "hu": "Használja a szűk utcákat szél elleni védelemként.",
                 "ro": "Folosiți străzile înguste pentru protecție contra vântului.",
-                "en": "Use the narrow alleys as protection against the wind."
+                "en": "Use the narrow alleys as protection against the wind.",
+                "es": "Usa los callejones estrechos como protección frente al viento."
               }
             },
             {
@@ -599,7 +639,8 @@
                 "de": "Idealer Ort, um einen starken Regenschauer abzuwarten.",
                 "hu": "Ideális hely egy nagyobb zápor kivárására.",
                 "ro": "Loc ideal pentru a aștepta trecerea unei averse.",
-                "en": "Ideal place to wait out a heavy rain shower."
+                "en": "Ideal place to wait out a heavy rain shower.",
+                "es": "Lugar ideal para esperar a que pase un chaparrón fuerte."
               }
             },
             {
@@ -608,7 +649,8 @@
                 "de": "Vorsicht auf den gepflasterten Wegen, sie können rutschig sein.",
                 "hu": "Vigyázat a kövezett utakon, csúszósak lehetnek.",
                 "ro": "Atenție pe aleile pavate, pot fi alunecoase.",
-                "en": "Caution on the paved paths, they can be slippery."
+                "en": "Caution on the paved paths, they can be slippery.",
+                "es": "Precaución en los senderos empedrados: pueden estar resbaladizos."
               }
             },
             {
@@ -617,7 +659,8 @@
                 "de": "Ein ruhiger, trockener Ort für eine kurze Pause.",
                 "hu": "Csendes, száraz hely egy rövid pihenőre.",
                 "ro": "Un loc liniștit și uscat pentru o scurtă pauză.",
-                "en": "A quiet, dry place for a short break."
+                "en": "A quiet, dry place for a short break.",
+                "es": "Un lugar tranquilo y seco para tomar un breve descanso."
               }
             },
             {
@@ -626,7 +669,8 @@
                 "de": "Bei Regen und Wind ist das Fauchen des Meeres lauter.",
                 "hu": "Esőben és szélben a tenger zúgása még hangosabb.",
                 "ro": "Pe ploaie și vânt, vuietul mării este mai puternic.",
-                "en": "In rain and wind, the roar of the sea is even louder."
+                "en": "In rain and wind, the roar of the sea is even louder.",
+                "es": "Con lluvia y viento, el rugido del mar se escucha aún más fuerte."
               }
             },
             {
@@ -635,7 +679,8 @@
                 "de": "Die Brandung ist bei schlechtem Wetter sehr fotogen.",
                 "hu": "A hullámverés rossz időben is nagyon fotogén.",
                 "ro": "Valurile sunt foarte fotogenice pe vreme rea.",
-                "en": "The crashing waves are very photogenic in bad weather."
+                "en": "The crashing waves are very photogenic in bad weather.",
+                "es": "Las olas rompiendo son muy fotogénicas en mal tiempo."
               }
             }
           ],
@@ -663,6 +708,12 @@
               "A sturdy umbrella is essential due to coastal winds.",
               "Schedule your castle visit during the heaviest rain.",
               "Old Town cafes offer cozy indoor seating for breaks."
+            ],
+            "es": [
+              "Lleva calzado impermeable, ya que los empedrados se vuelven resbaladizos.",
+              "Un paraguas resistente es esencial por los vientos costeros.",
+              "Programa tu visita al castillo durante la lluvia más intensa.",
+              "Las cafeterías del casco antiguo ofrecen acogedoras zonas interiores para descansar."
             ]
           }
         },
@@ -671,7 +722,8 @@
             "de": "Genießen Sie den klaren Wintermorgen in der ruhigen Altstadt ohne die Sommermassen. Mittags erkunden Sie das geschichtsträchtige Castillo de Papa Luna in der milden Wintersonne. Nachmittags spazieren Sie durch den Artilleriepark und besuchen die Kapelle der Virgen de la Ermitana. Beenden Sie den Tag am El Bufador und bewundern Sie den frühen Sonnenuntergang am fast menschenleeren Nordstrand, während die Meeresbrise erfrischend kühl weht.",
             "hu": "Élvezze a tiszta téli reggelt a csendes óvárosban, a nyári tömeg nélkül. Délben fedezze fel a történelmi Papa Luna-várat az enyhe téli napsütésben. Délután sétáljon a Tüzérségi Parkban és látogasson el a Virgen de la Ermitana kápolnához. Zárja a napot az El Bufadornál, és csodálja meg a korai naplementét a szinte üres északi strandon, miközben a tengeri szellő frissítően hűvös.",
             "ro": "Bucurați-vă de dimineața limpede de iarnă în orașul vechi liniștit, fără mulțimile de vară. La prânz, explorați Castelul Papa Luna în soarele blând al iernii. După-amiaza, plimbați-vă prin Parcul de Artilerie și vizitați capela Virgen de la Ermitana. Încheiați ziua la El Bufador și admirați apusul timpuriu pe plaja de nord aproape pustie, în timp ce briza mării este răcoroasă.",
-            "en": "Enjoy a crisp winter morning in the quiet Old Town, free from summer crowds. At midday, explore the historic Papa Luna Castle in the mild winter sun. In the afternoon, stroll through the Artillery Park and visit the Virgin of the Hermitana Chapel. End your day at El Bufador and admire the early sunset on the almost deserted North Beach, while the sea breeze blows refreshingly cool."
+            "en": "Enjoy a crisp winter morning in the quiet Old Town, free from summer crowds. At midday, explore the historic Papa Luna Castle in the mild winter sun. In the afternoon, stroll through the Artillery Park and visit the Virgin of the Hermitana Chapel. End your day at El Bufador and admire the early sunset on the almost deserted North Beach, while the sea breeze blows refreshingly cool.",
+            "es": "Disfruta de una fresca mañana de invierno en el tranquilo casco antiguo, libre de las multitudes veraniegas. Al mediodía, explora el histórico Castillo del Papa Luna bajo el suave sol invernal. Por la tarde, pasea por el Parque de Artillería y visita la capilla de la Virgen de la Ermita. Termina el día en El Bufador y admira el atardecer temprano en la casi desierta Playa Norte, mientras la brisa marina sopla refrescantemente."
           },
           "stops": [
             {
@@ -680,7 +732,8 @@
                 "de": "Die beste Zeit für Fotos ohne Touristenmassen.",
                 "hu": "A legjobb időpont fotózáshoz tömeg nélkül.",
                 "ro": "Cel mai bun moment pentru poze fără turiști.",
-                "en": "The best time for photos without tourist crowds."
+                "en": "The best time for photos without tourist crowds.",
+                "es": "El mejor momento para fotos sin aglomeraciones de turistas."
               }
             },
             {
@@ -689,7 +742,8 @@
                 "de": "Auf den Mauern kann es windig und kühl sein.",
                 "hu": "A falakon szeles és hűvös lehet az idő.",
                 "ro": "Pe ziduri poate fi vânt și destul de răcoare.",
-                "en": "It can be windy and cool on the ramparts."
+                "en": "It can be windy and cool on the ramparts.",
+                "es": "Puede hacer viento y fresco en las almenas."
               }
             },
             {
@@ -698,7 +752,8 @@
                 "de": "Das Winterlicht hebt die Festungsarchitektur hervor.",
                 "hu": "A téli fény kiemeli az erőd építészetét.",
                 "ro": "Lumina de iarnă scoate în evidență arhitectura cetății.",
-                "en": "The winter light highlights the fortress architecture."
+                "en": "The winter light highlights the fortress architecture.",
+                "es": "La luz invernal realza la arquitectura de la fortaleza."
               }
             },
             {
@@ -707,7 +762,8 @@
                 "de": "Im Inneren ist es oft wärmer als draußen.",
                 "hu": "A belső térben gyakran melegebb van, mint kint.",
                 "ro": "În interior este adesea mai cald decât afară.",
-                "en": "It is often warmer inside than outside."
+                "en": "It is often warmer inside than outside.",
+                "es": "A menudo hace más calor dentro que fuera."
               }
             },
             {
@@ -716,7 +772,8 @@
                 "de": "Idealer Ort für den goldenen Moment vor Sonnenuntergang.",
                 "hu": "Ideális hely a naplemente előtti aranyórához.",
                 "ro": "Loc ideal pentru momentul auriu de dinainte de apus.",
-                "en": "Ideal spot for the golden hour before sunset."
+                "en": "Ideal spot for the golden hour before sunset.",
+                "es": "Lugar ideal para la hora dorada antes del atardecer."
               }
             },
             {
@@ -725,7 +782,8 @@
                 "de": "Perfekt für einen langen, meditativen Strandspaziergang.",
                 "hu": "Tökéletes egy hosszú, meditatív tengerparti sétához.",
                 "ro": "Perfect pentru o plimbare meditativă pe plajă.",
-                "en": "Perfect for a long, meditative beach walk."
+                "en": "Perfect for a long, meditative beach walk.",
+                "es": "Perfecto para una larga y meditativa caminata por la playa."
               }
             }
           ],
@@ -753,6 +811,12 @@
               "Sunset is early, typically around 17:30.",
               "Some restaurants may have limited winter hours.",
               "The cool air makes the climb to the castle less tiring."
+            ],
+            "es": [
+              "Vístete en capas para adaptarte a los cambios de temperatura.",
+              "El atardecer es temprano, suele ser alrededor de las 17:30.",
+              "Algunos restaurantes pueden tener horarios reducidos en invierno.",
+              "El aire fresco hace que la subida al castillo sea menos agotadora."
             ]
           }
         }
@@ -771,7 +835,8 @@
             "de": "Playa Norte",
             "hu": "Északi strand",
             "ro": "Plaja de Nord",
-            "en": "North Beach"
+            "en": "North Beach",
+            "es": "Playa Norte"
           },
           "coords": [
             0.4035,
@@ -786,7 +851,8 @@
             "de": "Langer Radweg entlang der Küste.",
             "hu": "Hosszú kerékpárút a part mentén.",
             "ro": "Pistă lungă de biciclete de-a lungul coastei.",
-            "en": "Long cycling path along the coast."
+            "en": "Long cycling path along the coast.",
+            "es": "Largo carril bici a lo largo de la costa."
           }
         },
         {
@@ -794,7 +860,8 @@
             "de": "Museu de la Mar",
             "hu": "Tengeri Múzeum",
             "ro": "Muzeul Mării",
-            "en": "Museum of the Sea"
+            "en": "Museum of the Sea",
+            "es": "Museo del Mar"
           },
           "coords": [
             0.4082,
@@ -809,7 +876,8 @@
             "de": "Kleines aber feines Museum.",
             "hu": "Kicsi, de igényes múzeum.",
             "ro": "Un muzeu mic dar foarte frumos.",
-            "en": "Small but high-quality museum."
+            "en": "Small but high-quality museum.",
+            "es": "Pequeño pero de gran calidad."
           }
         },
         {
@@ -817,7 +885,8 @@
             "de": "Faro de Peñíscola",
             "hu": "Peñíscola világítótorony",
             "ro": "Farul din Peñíscola",
-            "en": "Peñíscola Lighthouse"
+            "en": "Peñíscola Lighthouse",
+            "es": "Faro de Peñíscola"
           },
           "coords": [
             0.4088,
@@ -832,7 +901,8 @@
             "de": "Wahrzeichen neben der Burg.",
             "hu": "Jellegzetes épület a vár mellett.",
             "ro": "Simbol situat lângă castel.",
-            "en": "Landmark building next to the castle."
+            "en": "Landmark building next to the castle.",
+            "es": "Edificio emblemático junto al castillo."
           }
         },
         {
@@ -840,7 +910,8 @@
             "de": "Casco Antiguo",
             "hu": "Óváros",
             "ro": "Orașul Vechi",
-            "en": "Old Town"
+            "en": "Old Town",
+            "es": "Casco antiguo"
           },
           "coords": [
             0.4075,
@@ -855,7 +926,8 @@
             "de": "Schieben Sie das Rad in den engen Gassen.",
             "hu": "Told a biciklit a szűk utcákban.",
             "ro": "Mergeți pe lângă bicicletă pe străzile înguste.",
-            "en": "Push your bike in the narrow streets."
+            "en": "Push your bike in the narrow streets.",
+            "es": "Empuja la bicicleta en las calles estrechas."
           }
         },
         {
@@ -863,7 +935,8 @@
             "de": "Serra d'Irta",
             "hu": "Serra d'Irta natúrpark",
             "ro": "Serra d'Irta",
-            "en": "Serra d'Irta Natural Park"
+            "en": "Serra d'Irta Natural Park",
+            "es": "Parque Natural de la Serra d'Irta"
           },
           "coords": [
             0.3955,
@@ -878,7 +951,8 @@
             "de": "Natur pur am Meer.",
             "hu": "Tiszta természet a tengerparton.",
             "ro": "Natură pură pe malul mării.",
-            "en": "Pure nature by the seaside."
+            "en": "Pure nature by the seaside.",
+            "es": "Naturaleza pura junto al mar."
           }
         },
         {
@@ -886,7 +960,8 @@
             "de": "El Bufador",
             "hu": "El Bufador víznyelő",
             "ro": "El Bufador",
-            "en": "El Bufador"
+            "en": "El Bufador",
+            "es": "El Bufador"
           },
           "coords": [
             0.4068,
@@ -901,7 +976,8 @@
             "de": "Einzigartiges Naturphänomen.",
             "hu": "Egyedülálló természeti jelenség.",
             "ro": "Fenomen natural unic.",
-            "en": "Unique natural phenomenon."
+            "en": "Unique natural phenomenon.",
+            "es": "Fenómeno natural único."
           }
         }
       ],
@@ -909,7 +985,8 @@
         "de": "Fahren Sie mit dem Rad entlang der Küstenpromenade und erkunden Sie die wildere Seite von Peñíscola im Naturpark Serra d'Irta. Der Radweg an der Playa Norte ist flach und bietet eine tolle Aussicht auf die Silhouette der Burg.\n\nNach einem Abstecher in die Altstadt und zum Leuchtturm führt die Route nach Süden zu einsamen Buchten. Dies ist die perfekte Tour für Naturliebhaber, die Ruhe abseits der Touristenpfade suchen.\n\nBeenden Sie die Tour am El Bufador, bevor Sie den Abend im Hafenbereich ausklingen lassen. Die Kombination aus Küstenradweg und Naturpark-Pisten bietet Abwechslung pur.",
         "hu": "Tekerjen végig a tengerparti sétányon, és fedezze fel Peñíscola vadregényesebb oldalát a Serra d'Irta natúrparkban. Az Északi strand melletti kerékpárút sík, és remek rálátást biztosít a vár sziluettjére.\n\nAz óváros és a világítótorony érintése után az útvonal dél felé kanyarodik az eldugott öblök irányába. Ez a túra tökéletes a természet kedvelőinek, akik csendre vágynak a turisták elől.\n\nA túrát az El Bufador-nál fejezze be, mielőtt az estét a kikötőben töltené. A tengerparti kerékpárút és a natúrpark ösvényeinek kombinációja igazi változatosságot kínál.",
         "ro": "Pedalați de-a lungul falezei și explorați latura mai sălbatică a orașului Peñíscola în parcul natural Serra d'Irta. Pista de biciclete de pe Playa Norte este plată și oferă o vedere superbă spre castel.\n\nDupă o scurtă vizită în orașul vechi și la far, traseul se îndreaptă spre sud, către golfuri izolate. Acesta este turul perfect pentru iubitorii de natură care caută liniște departe de zonele aglomerate.\n\nÎncheiați turul la El Bufador, înainte de a petrece seara în zona portului. Combinația dintre pista de coastă și potecile din parcul natural oferă diversitate maximă.",
-        "en": "Cycle along the coastal promenade and explore the wilder side of Peñíscola in the Serra d'Irta Natural Park. The cycling path at North Beach is flat and provides a great view of the castle's silhouette.\n\nAfter a detour to the old town and the lighthouse, the route leads south toward secluded coves. This is the perfect tour for nature lovers seeking peace away from the tourist crowds.\n\nFinish your journey at El Bufador before enjoying the evening in the harbor area. The combination of coastal paths and natural park trails offers pure variety."
+        "en": "Cycle along the coastal promenade and explore the wilder side of Peñíscola in the Serra d'Irta Natural Park. The cycling path at North Beach is flat and provides a great view of the castle's silhouette.\n\nAfter a detour to the old town and the lighthouse, the route leads south toward secluded coves. This is the perfect tour for nature lovers seeking peace away from the tourist crowds.\n\nFinish your journey at El Bufador before enjoying the evening in the harbor area. The combination of coastal paths and natural park trails offers pure variety.",
+        "es": "Pedalea por el paseo marítimo y explora el lado más salvaje de Peñíscola en el Parque Natural de la Serra d'Irta. El carril bici en la Playa Norte es llano y ofrece una gran vista de la silueta del castillo.\n\nTras un desvío al casco antiguo y al faro, la ruta sigue hacia el sur en dirección a calas apartadas. Es la vuelta perfecta para los amantes de la naturaleza que buscan tranquilidad lejos de las multitudes.\n\nTermina tu recorrido en El Bufador antes de disfrutar la tarde en la zona del puerto. La combinación de senderos costeros y caminos del parque natural ofrece pura variedad."
       },
       "gastro_picks": {
         "de": [
@@ -1069,6 +1146,12 @@
           "Bring plenty of water to the natural park.",
           "Cycling is prohibited inside the castle area.",
           "Watch out for hikers on the shared paths."
+        ],
+        "es": [
+          "Las bicicletas de montaña son mejores para los senderos de la Serra d'Irta.",
+          "Lleva abundante agua para el parque natural.",
+          "Está prohibido circular en bicicleta dentro del recinto del castillo.",
+          "Cuidado con los senderistas en los caminos compartidos."
         ]
       },
       "variants": {
@@ -1077,7 +1160,8 @@
             "de": "Fahren Sie mit dem Rad entlang der Küstenpromenade und erkunden Sie die wildere Seite von Peñíscola im Naturpark Serra d'Irta. Der Radweg an der Playa Norte ist flach und bietet eine tolle Aussicht auf die Silhouette der Burg.\n\nNach einem Abstecher in die Altstadt und zum Leuchtturm führt die Route nach Süden zu einsamen Buchten. Dies ist die perfekte Tour für Naturliebhaber, die Ruhe abseits der Touristenpfade suchen.\n\nBeenden Sie die Tour am El Bufador, bevor Sie den Abend im Hafenbereich ausklingen lassen. Die Kombination aus Küstenradweg und Naturpark-Pisten bietet Abwechslung pur.",
             "hu": "Tekerjen végig a tengerparti sétányon, és fedezze fel Peñíscola vadregényesebb oldalát a Serra d'Irta natúrparkban. Az Északi strand melletti kerékpárút sík, és remek rálátást biztosít a vár sziluettjére.\n\nAz óváros és a világítótorony érintése után az útvonal dél felé kanyarodik az eldugott öblök irányába. Ez a túra tökéletes a természet kedvelőinek, akik csendre vágynak a turisták elől.\n\nA túrát az El Bufador-nál fejezze be, mielőtt az estét a kikötőben töltené. A tengerparti kerékpárút és a natúrpark ösvényeinek kombinációja igazi változatosságot kínál.",
             "ro": "Pedalați de-a lungul falezei și explorați latura mai sălbatică a orașului Peñíscola în parcul natural Serra d'Irta. Pista de biciclete de pe Playa Norte este plată și oferă o vedere superbă spre castel.\n\nDupă o scurtă vizită în orașul vechi și la far, traseul se îndreaptă spre sud, către golfuri izolate. Acesta este turul perfect pentru iubitorii de natură care caută liniște departe de zonele aglomerate.\n\nÎncheiați turul la El Bufador, înainte de a petrece seara în zona portului. Combinația dintre pista de coastă și potecile din parcul natural oferă diversitate maximă.",
-            "en": "Cycle along the coastal promenade and explore the wilder side of Peñíscola in the Serra d'Irta Natural Park. The cycling path at North Beach is flat and provides a great view of the castle's silhouette.\n\nAfter a detour to the old town and the lighthouse, the route leads south toward secluded coves. This is the perfect tour for nature lovers seeking peace away from the tourist crowds.\n\nFinish your journey at El Bufador before enjoying the evening in the harbor area. The combination of coastal paths and natural park trails offers pure variety."
+            "en": "Cycle along the coastal promenade and explore the wilder side of Peñíscola in the Serra d'Irta Natural Park. The cycling path at North Beach is flat and provides a great view of the castle's silhouette.\n\nAfter a detour to the old town and the lighthouse, the route leads south toward secluded coves. This is the perfect tour for nature lovers seeking peace away from the tourist crowds.\n\nFinish your journey at El Bufador before enjoying the evening in the harbor area. The combination of coastal paths and natural park trails offers pure variety.",
+            "es": "Pedalea por el paseo marítimo y explora el lado más salvaje de Peñíscola en el Parque Natural de la Serra d'Irta. El carril bici en la Playa Norte es llano y ofrece una gran vista de la silueta del castillo.\n\nTras un desvío al casco antiguo y al faro, la ruta sigue hacia el sur en dirección a calas apartadas. Es la vuelta perfecta para los amantes de la naturaleza que buscan tranquilidad lejos de las multitudes.\n\nTermina tu recorrido en El Bufador antes de disfrutar la tarde en la zona del puerto. La combinación de senderos costeros y caminos del parque natural ofrece pura variedad."
           },
           "stops": [
             {
@@ -1085,13 +1169,15 @@
                 "de": "Playa Norte",
                 "hu": "Északi strand",
                 "ro": "Plaja de Nord",
-                "en": "North Beach"
+                "en": "North Beach",
+                "es": "Playa Norte"
               },
               "tip_5lang": {
                 "de": "Langer Radweg entlang der Küste.",
                 "hu": "Hosszú kerékpárút a part mentén.",
                 "ro": "Pistă lungă de biciclete de-a lungul coastei.",
-                "en": "Long cycling path along the coast."
+                "en": "Long cycling path along the coast.",
+                "es": "Largo carril bici a lo largo de la costa."
               }
             },
             {
@@ -1099,13 +1185,15 @@
                 "de": "Museu de la Mar",
                 "hu": "Tengeri Múzeum",
                 "ro": "Muzeul Mării",
-                "en": "Museum of the Sea"
+                "en": "Museum of the Sea",
+                "es": "Museo del Mar"
               },
               "tip_5lang": {
                 "de": "Kleines aber feines Museum.",
                 "hu": "Kicsi, de igényes múzeum.",
                 "ro": "Un muzeu mic dar foarte frumos.",
-                "en": "Small but high-quality museum."
+                "en": "Small but high-quality museum.",
+                "es": "Museo pequeño pero de gran calidad."
               }
             },
             {
@@ -1113,13 +1201,15 @@
                 "de": "Faro de Peñíscola",
                 "hu": "Peñíscola világítótorony",
                 "ro": "Farul din Peñíscola",
-                "en": "Peñíscola Lighthouse"
+                "en": "Peñíscola Lighthouse",
+                "es": "Faro de Peñíscola"
               },
               "tip_5lang": {
                 "de": "Wahrzeichen neben der Burg.",
                 "hu": "Jellegzetes épület a vár mellett.",
                 "ro": "Simbol situat lângă castel.",
-                "en": "Landmark building next to the castle."
+                "en": "Landmark building next to the castle.",
+                "es": "Edificio emblemático junto al castillo."
               }
             },
             {
@@ -1127,13 +1217,15 @@
                 "de": "Casco Antiguo",
                 "hu": "Óváros",
                 "ro": "Orașul Vechi",
-                "en": "Old Town"
+                "en": "Old Town",
+                "es": "Casco Antiguo"
               },
               "tip_5lang": {
                 "de": "Schieben Sie das Rad in den engen Gassen.",
                 "hu": "Told a biciklit a szűk utcákban.",
                 "ro": "Mergeți pe lângă bicicletă pe străzile înguste.",
-                "en": "Push your bike in the narrow streets."
+                "en": "Push your bike in the narrow streets.",
+                "es": "Empuja la bicicleta en las calles estrechas."
               }
             },
             {
@@ -1141,13 +1233,15 @@
                 "de": "Serra d'Irta",
                 "hu": "Serra d'Irta natúrpark",
                 "ro": "Serra d'Irta",
-                "en": "Serra d'Irta Natural Park"
+                "en": "Serra d'Irta Natural Park",
+                "es": "Parque Natural de la Serra d'Irta"
               },
               "tip_5lang": {
                 "de": "Natur pur am Meer.",
                 "hu": "Tiszta természet a tengerparton.",
                 "ro": "Natură pură pe malul mării.",
-                "en": "Pure nature by the seaside."
+                "en": "Pure nature by the seaside.",
+                "es": "Naturaleza pura junto al mar."
               }
             },
             {
@@ -1155,13 +1249,15 @@
                 "de": "El Bufador",
                 "hu": "El Bufador víznyelő",
                 "ro": "El Bufador",
-                "en": "El Bufador"
+                "en": "El Bufador",
+                "es": "El Bufador"
               },
               "tip_5lang": {
                 "de": "Einzigartiges Naturphänomen.",
                 "hu": "Egyedülálló természeti jelenség.",
                 "ro": "Fenomen natural unic.",
-                "en": "Unique natural phenomenon."
+                "en": "Unique natural phenomenon.",
+                "es": "Fenómeno natural único."
               }
             }
           ],
@@ -1323,6 +1419,12 @@
               "Bring plenty of water to the natural park.",
               "Cycling is prohibited inside the castle area.",
               "Watch out for hikers on the shared paths."
+            ],
+            "es": [
+              "Las bicicletas de montaña son mejores para los senderos de la Serra d'Irta.",
+              "Lleva abundante agua para el parque natural.",
+              "Está prohibido circular en bicicleta dentro del recinto del castillo.",
+              "Cuidado con los senderistas en los caminos compartidos."
             ]
           }
         },
@@ -1331,7 +1433,8 @@
             "de": "Beginnen Sie Ihre Radtour am Nordstrand, wo die Luft feucht und salzig ist. Mittags bietet das Meeresmuseum einen trockenen Zwischenstopp. Nachmittags fahren Sie am Leuchtturm vorbei zur Altstadt und suchen Schutz in den Gassen. Trotz Regen ist die Fahrt zum Naturpark Serra d'Irta ein Erlebnis für Abenteurer, bevor Sie den Tag am El Bufador beenden, während das Meer gegen die Felsen peitscht.",
             "hu": "Kezdje a kerékpártúrát az északi strandon, ahol a levegő párás és sós. Délben a Tengeri Múzeum kínál száraz pihenőt. Délután tekerjen el a világítótorony mellett az óvárosba, és keressen menedéket a szűk utcákban. Az eső ellenére a Serra d'Irta felé vezető út igazi kaland, majd zárja a napot az El Bufadornál, ahol a tenger a szikláknak csapódik.",
             "ro": "Începeți turul cu bicicleta pe plaja de nord, unde aerul este umed și sărat. La prânz, Muzeul Mării oferă un popas uscat. După-amiaza, treceți pe lângă far spre orașul vechi și căutați adăpost pe străzi. În ciuda ploii, drumul spre Serra d'Irta este o aventură, înainte de a încheia ziua la El Bufador, unde marea se lovește de stânci.",
-            "en": "Start your bike tour at North Beach, where the air is damp and salty. At midday, the Museum of the Sea offers a dry stopover. In the afternoon, cycle past the lighthouse to the Old Town and seek shelter in the alleys. Despite the rain, the ride towards Serra d'Irta is an adventure for the brave, before ending the day at El Bufador as the sea lashes against the rocks."
+            "en": "Start your bike tour at North Beach, where the air is damp and salty. At midday, the Museum of the Sea offers a dry stopover. In the afternoon, cycle past the lighthouse to the Old Town and seek shelter in the alleys. Despite the rain, the ride towards Serra d'Irta is an adventure for the brave, before ending the day at El Bufador as the sea lashes against the rocks.",
+            "es": "Comienza tu ruta en bici en la Playa Norte, donde el aire es húmedo y salino. A mediodía, el Museo del Mar ofrece una parada seca. Por la tarde, pedalea junto al faro hasta el Casco Antiguo y busca refugio en los callejones. A pesar de la lluvia, el tramo hacia la Serra d'Irta es una aventura para los valientes, antes de terminar el día en El Bufador mientras el mar azota las rocas."
           },
           "stops": [
             {
@@ -1340,7 +1443,8 @@
                 "de": "Fahren Sie vorsichtig auf nassen Radwegen.",
                 "hu": "Óvatosan tekerjen a vizes kerékpárutakon.",
                 "ro": "Pedalați cu atenție pe pistele umede.",
-                "en": "Cycle carefully on wet bike paths."
+                "en": "Cycle carefully on wet bike paths.",
+                "es": "Cicla con precaución en los carriles mojados."
               }
             },
             {
@@ -1349,7 +1453,8 @@
                 "de": "Nutzen Sie den Museumsbesuch als Regenpause.",
                 "hu": "Használja a múzeumlátogatást esőszünetnek.",
                 "ro": "Folosiți vizita la muzeu ca pauză de ploaie.",
-                "en": "Use the museum visit as a rain break."
+                "en": "Use the museum visit as a rain break.",
+                "es": "Aprovecha la visita al museo como descanso de la lluvia."
               }
             },
             {
@@ -1358,7 +1463,8 @@
                 "de": "Der Boden um den Leuchtturm kann sehr glatt sein.",
                 "hu": "A világítótorony környéke nagyon csúszós lehet.",
                 "ro": "Solul din jurul farului poate fi foarte alunecos.",
-                "en": "The ground around the lighthouse can be very slick."
+                "en": "The ground around the lighthouse can be very slick.",
+                "es": "El suelo alrededor del faro puede estar muy resbaladizo."
               }
             },
             {
@@ -1367,7 +1473,8 @@
                 "de": "In den engen Gassen ist das Schieben sicherer.",
                 "hu": "A szűk utcákban biztonságosabb tolni a biciklit.",
                 "ro": "Pe străzile înguste este mai sigur să mergeți pe lângă bicicletă.",
-                "en": "Walking your bike is safer in the narrow alleys."
+                "en": "Walking your bike is safer in the narrow alleys.",
+                "es": "Es más seguro empujar la bicicleta en los callejones estrechos."
               }
             },
             {
@@ -1376,7 +1483,8 @@
                 "de": "Die unbefestigten Wege können schlammig sein.",
                 "hu": "A burkolatlan utak sárosak lehetnek.",
                 "ro": "Drumurile neasfaltate pot fi noroioase.",
-                "en": "The unpaved paths can be muddy."
+                "en": "The unpaved paths can be muddy.",
+                "es": "Los caminos sin asfaltar pueden estar embarrados."
               }
             },
             {
@@ -1385,7 +1493,8 @@
                 "de": "Halten Sie Abstand zur Gischt bei starkem Wind.",
                 "hu": "Erős szélben tartson távolságot a hullámfelcsapódástól.",
                 "ro": "Păstrați distanța față de stropii de apă pe vânt puternic.",
-                "en": "Keep distance from the sea spray in strong winds."
+                "en": "Keep distance from the sea spray in strong winds.",
+                "es": "Mantén distancia del salpicado del mar con vientos fuertes."
               }
             }
           ],
@@ -1413,6 +1522,12 @@
               "Check your brakes as they are less effective when wet.",
               "Avoid puddles which might hide deep potholes.",
               "Allow extra time for your journey."
+            ],
+            "es": [
+              "Un chubasquero ofrece mejor protección que una chaqueta.",
+              "Revisa los frenos, funcionan peor en mojado.",
+              "Evita los charcos que pueden ocultar baches profundos.",
+              "Prevé tiempo extra para tu recorrido."
             ]
           }
         },
@@ -1421,7 +1536,8 @@
             "de": "Ein frischer Wintermorgen am Nordstrand ist ideal für eine Radtour. Besuchen Sie mittags das Meeresmuseum und den Leuchtturm bei klarem Himmel. Nachmittags erkunden Sie die ruhige Altstadt und radeln dann zum Naturpark Serra d'Irta, wo die kühlen Temperaturen die steilen Wege angenehmer machen. Beenden Sie den Tag rechtzeitig vor Sonnenuntergang am El Bufador, bevor die Abendkälte einsetzt.",
             "hu": "A friss téli reggel az északi strandon ideális egy kerékpártúrához. Délben látogasson el a Tengeri Múzeumba és a világítótoronyhoz tiszta égbolt mellett. Délután fedezze fel a csendes óvárost, majd tekerjen a Serra d'Irta parkba, ahol a hűvös időben könnyebb a kaptatók leküzdése. Zárja a napot még naplemente előtt az El Bufadornál, mielőtt beállna az esti hideg.",
             "ro": "O dimineață răcoroasă de iarnă pe plaja de nord este ideală pentru ciclism. La prânz, vizitați Muzeul Mării și farul sub cerul senin. După-amiaza, explorați orașul vechi liniștit, apoi pedalați spre Serra d'Irta, unde temperaturile scăzute fac urcările mai ușoare. Încheiați ziua înainte de apus la El Bufador, înainte de venirea frigului serii.",
-            "en": "A crisp winter morning at North Beach is ideal for cycling. At midday, visit the Museum of the Sea and the lighthouse under clear skies. In the afternoon, explore the quiet Old Town and cycle to Serra d'Irta Natural Park, where cool temperatures make the climbs more pleasant. End your day at El Bufador well before sunset, before the evening chill sets in."
+            "en": "A crisp winter morning at North Beach is ideal for cycling. At midday, visit the Museum of the Sea and the lighthouse under clear skies. In the afternoon, explore the quiet Old Town and cycle to Serra d'Irta Natural Park, where cool temperatures make the climbs more pleasant. End your day at El Bufador well before sunset, before the evening chill sets in.",
+            "es": "Una fresca mañana invernal en la Playa Norte es ideal para pedalear. A mediodía, visita el Museo del Mar y el faro con cielos despejados. Por la tarde, explora el tranquilo Casco Antiguo y pedalea hasta el Parque Natural de la Serra d'Irta, donde las temperaturas frescas hacen las subidas más agradables. Termina el día en El Bufador antes del atardecer, antes de que llegue el frío nocturno."
           },
           "stops": [
             {
@@ -1430,7 +1546,8 @@
                 "de": "Tragen Sie Handschuhe gegen den kalten Fahrtwind.",
                 "hu": "Viseljen kesztyűt a hideg menetszél ellen.",
                 "ro": "Purtați mănuși împotriva vântului rece de mișcare.",
-                "en": "Wear gloves to protect against the cold wind."
+                "en": "Wear gloves to protect against the cold wind.",
+                "es": "Lleva guantes para protegerte del viento frío."
               }
             },
             {
@@ -1439,7 +1556,8 @@
                 "de": "Eine gute Gelegenheit, sich kurz aufzuwärmen.",
                 "hu": "Jó alkalom egy rövid bemelegedésre.",
                 "ro": "O bună ocazie pentru a vă încălzi puțin.",
-                "en": "A good opportunity to warm up briefly."
+                "en": "A good opportunity to warm up briefly.",
+                "es": "Buena oportunidad para entrar en calor brevemente."
               }
             },
             {
@@ -1448,7 +1566,8 @@
                 "de": "Hervorragende Fernsicht an klaren Wintertagen.",
                 "hu": "Kiváló látótávolság tiszta téli napokon.",
                 "ro": "Vizibilitate excelentă în zilele senine de iarnă.",
-                "en": "Excellent visibility on clear winter days."
+                "en": "Excellent visibility on clear winter days.",
+                "es": "Excelente visibilidad en días claros de invierno."
               }
             },
             {
@@ -1457,7 +1576,8 @@
                 "de": "Genießen Sie das Radfahren ohne Fußgängermassen.",
                 "hu": "Élvezze a kerékpározást gyalogosforgalom nélkül.",
                 "ro": "Bucurați-vă de ciclism fără mulțimi de pietoni.",
-                "en": "Enjoy cycling without the usual pedestrian crowds."
+                "en": "Enjoy cycling without the usual pedestrian crowds.",
+                "es": "Disfruta de pedalear sin las habituales aglomeraciones de peatones."
               }
             },
             {
@@ -1466,7 +1586,8 @@
                 "de": "Ideale Temperaturen für anstrengende Steigungen.",
                 "hu": "Ideális hőmérséklet a fárasztó emelkedőkhöz.",
                 "ro": "Temperaturi ideale pentru pante solicitante.",
-                "en": "Ideal temperatures for strenuous climbs."
+                "en": "Ideal temperatures for strenuous climbs.",
+                "es": "Temperaturas ideales para subidas exigentes."
               }
             },
             {
@@ -1475,7 +1596,8 @@
                 "de": "Das Licht kurz vor Sonnenuntergang ist magisch.",
                 "hu": "A naplemente előtti fények varázslatosak.",
                 "ro": "Lumina chiar înainte de apus este magică.",
-                "en": "The light just before sunset is magical."
+                "en": "The light just before sunset is magical.",
+                "es": "La luz justo antes del atardecer es mágica."
               }
             }
           ],
@@ -1503,6 +1625,12 @@
               "The natural park paths are very quiet in winter.",
               "Mind the time as it gets dark early.",
               "A hot drink in the Old Town helps fight the chill."
+            ],
+            "es": [
+              "Ropa cortavientos imprescindible a lo largo de la costa.",
+              "Los senderos del parque natural están muy tranquilos en invierno.",
+              "Ten en cuenta la hora, anochece pronto.",
+              "Una bebida caliente en el Casco Antiguo ayuda a combatir el frío."
             ]
           }
         }
@@ -1521,7 +1649,8 @@
             "de": "Playa Norte",
             "hu": "Északi strand",
             "ro": "Plaja de Nord",
-            "en": "North Beach"
+            "en": "North Beach",
+            "es": "Playa Norte"
           },
           "coords": [
             0.4035,
@@ -1536,7 +1665,8 @@
             "de": "Große Parkplätze in der Nähe.",
             "hu": "Nagy parkolók a közelben.",
             "ro": "Parcări mari în apropiere.",
-            "en": "Large parking areas available nearby."
+            "en": "Large parking areas available nearby.",
+            "es": "Amplias zonas de aparcamiento disponibles cerca."
           }
         },
         {
@@ -1544,7 +1674,8 @@
             "de": "Castillo de Papa Luna",
             "hu": "Papa Luna vára",
             "ro": "Castelul Papei Luna",
-            "en": "Papa Luna Castle"
+            "en": "Papa Luna Castle",
+            "es": "Castillo de Papa Luna"
           },
           "coords": [
             0.4085,
@@ -1559,7 +1690,8 @@
             "de": "Parken Sie am Hafen und gehen Sie zu Fuß.",
             "hu": "Parkoljon a kikötőben és menjen gyalog.",
             "ro": "Parcați în port și mergeți pe jos.",
-            "en": "Park at the harbor and walk up."
+            "en": "Park at the harbor and walk up.",
+            "es": "Aparca en el puerto y sube caminando."
           }
         },
         {
@@ -1567,7 +1699,8 @@
             "de": "Ermita de la Virgen de la Ermitana",
             "hu": "Ermitana Szűz kápolnája",
             "ro": "Ermita de la Virgen de la Ermitana",
-            "en": "Hermitana Virgin Chapel"
+            "en": "Hermitana Virgin Chapel",
+            "es": "Ermita de la Virgen de la Hermitana"
           },
           "coords": [
             0.4082,
@@ -1582,7 +1715,8 @@
             "de": "Neben der Burgfestung.",
             "hu": "A várfal mellett található.",
             "ro": "Lângă fortăreața castelului.",
-            "en": "Located next to the castle fortress."
+            "en": "Located next to the castle fortress.",
+            "es": "Situada junto a la fortaleza del castillo."
           }
         },
         {
@@ -1590,7 +1724,8 @@
             "de": "El Bufador",
             "hu": "El Bufador víznyelő",
             "ro": "El Bufador",
-            "en": "El Bufador"
+            "en": "El Bufador",
+            "es": "El Bufador"
           },
           "coords": [
             0.4068,
@@ -1605,7 +1740,8 @@
             "de": "Kurzer Spaziergang vom Hafenparkplatz.",
             "hu": "Rövid séta a kikötői parkolótól.",
             "ro": "Scurtă plimbare de la parcarea din port.",
-            "en": "Short walk from the harbor parking."
+            "en": "Short walk from the harbor parking.",
+            "es": "Corta caminata desde el aparcamiento del puerto."
           }
         },
         {
@@ -1613,7 +1749,8 @@
             "de": "Serra d'Irta",
             "hu": "Serra d'Irta natúrpark",
             "ro": "Serra d'Irta",
-            "en": "Serra d'Irta Natural Park"
+            "en": "Serra d'Irta Natural Park",
+            "es": "Parque Natural de la Serra d'Irta"
           },
           "coords": [
             0.3955,
@@ -1628,7 +1765,8 @@
             "de": "Aussichtspunkte bequem per Auto erreichbar.",
             "hu": "Kilátópontok autóval kényelmesen elérhetők.",
             "ro": "Puncte de belvedere ușor accesibile cu mașina.",
-            "en": "Viewpoints easily accessible by car."
+            "en": "Viewpoints easily accessible by car.",
+            "es": "Miradores fácilmente accesibles en coche."
           }
         }
       ],
@@ -1636,7 +1774,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Zonen von Peñíscola. Starten Sie an der Playa Norte, wo das Parken am einfachsten ist, und besuchen Sie die Burg im Zentrum. Ein Auto ermöglicht es Ihnen, schnell zwischen Strand und Historie zu wechseln.\n\nBesuchen Sie die Kapelle Ermitana und den El Bufador, bevor Sie in den Naturpark Serra d'Irta fahren. Mit dem Auto können Sie die Küstenstraße des Parks befahren und die besten Aussichtspunkte ansteuern.\n\nDies ist die flexibelste Art, Peñíscola zu erkunden, besonders wenn Sie auch die umliegenden Naturlandschaften sehen möchten. Beachten Sie jedoch die begrenzte Zufahrt zur direkten Altstadt.",
         "hu": "Autóval kényelmesen elérheti Peñíscola különböző részeit. Kezdjen az Északi strandon, ahol a parkolás a legegyszerűbb, majd látogassa meg a központi várat. Az autó lehetővé teszi a gyors váltást a strandolás és a városnézés között.\n\nNézze meg az Ermitana kápolnát és az El Bufador víznyelőt, mielőtt a Serra d'Irta natúrparkba indulna. Autóval könnyen bejárhatja a park part menti útjait a legjobb kilátópontokhoz.\n\nEz a legrugalmasabb módja a felfedezésnek, különösen ha a környező természeti tájakat is látni szeretné. Figyeljen azonban arra, hogy az óváros belső részeibe tilos az autóval való behajtás.",
         "ro": "Cu mașina, puteți ajunge confortabil în diversele zone ale orașului Peñíscola. Începeți la Playa Norte, unde parcarea este cea mai facilă, și vizitați castelul din centru. Mașina vă permite să schimbați rapid decorul între plajă și istorie.\n\nVizitați capela Ermitana și El Bufador înainte de a merge spre parcul natural Serra d'Irta. Cu mașina, puteți parcurge drumul de coastă al parcului și opri la cele mai bune puncte de belvedere.\n\nAceasta este cea mai flexibilă modalitate de a explora Peñíscola, mai ales dacă doriți să vedeți și peisajele naturale din jur. Rețineți însă că accesul în centrul istoric propriu-zis este restricționat.",
-        "en": "By car, you can comfortably reach the different areas of Peñíscola. Start at North Beach, where parking is easiest, and visit the castle in the center. A car allows you to quickly switch between the beach and historic sites.\n\nVisit the Ermitana Chapel and El Bufador before heading to the Serra d'Irta Natural Park. By car, you can drive along the park's coastal road to reach the best viewpoints.\n\nThis is the most flexible way to explore Peñíscola, especially if you want to see the surrounding natural landscapes. Note, however, that car access to the direct old town streets is restricted."
+        "en": "By car, you can comfortably reach the different areas of Peñíscola. Start at North Beach, where parking is easiest, and visit the castle in the center. A car allows you to quickly switch between the beach and historic sites.\n\nVisit the Ermitana Chapel and El Bufador before heading to the Serra d'Irta Natural Park. By car, you can drive along the park's coastal road to reach the best viewpoints.\n\nThis is the most flexible way to explore Peñíscola, especially if you want to see the surrounding natural landscapes. Note, however, that car access to the direct old town streets is restricted.",
+        "es": "En coche puedes llegar cómodamente a las distintas zonas de Peñíscola. Empieza en la Playa Norte, donde aparcar es más sencillo, y visita el castillo en el centro. Un coche te permite cambiar rápido entre playa y sitios históricos.\n\nVisita la Ermita de la Hermitana y El Bufador antes de dirigirte al Parque Natural de la Serra d'Irta. En coche puedes conducir por la carretera costera del parque para alcanzar los mejores miradores.\n\nEs la forma más flexible de explorar Peñíscola, especialmente si quieres ver los paisajes naturales cercanos. Ten en cuenta, sin embargo, que el acceso en coche a las calles del casco antiguo está restringido."
       },
       "gastro_picks": {
         "de": [
@@ -1796,6 +1935,12 @@
           "There is a large parking lot located at the harbor.",
           "Streets in the center are extremely narrow.",
           "Traffic can be very heavy during the summer season."
+        ],
+        "es": [
+          "El estacionamiento en zona azul suele ser de pago hasta última hora de la tarde.",
+          "Hay un gran aparcamiento situado en el puerto.",
+          "Las calles del centro son extremadamente estrechas.",
+          "El tráfico puede ser muy intenso durante la temporada de verano."
         ]
       },
       "variants": {
@@ -1804,7 +1949,8 @@
             "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Zonen von Peñíscola. Starten Sie an der Playa Norte, wo das Parken am einfachsten ist, und besuchen Sie die Burg im Zentrum. Ein Auto ermöglicht es Ihnen, schnell zwischen Strand und Historie zu wechseln.\n\nBesuchen Sie die Kapelle Ermitana und den El Bufador, bevor Sie in den Naturpark Serra d'Irta fahren. Mit dem Auto können Sie die Küstenstraße des Parks befahren und die besten Aussichtspunkte ansteuern.\n\nDies ist die flexibelste Art, Peñíscola zu erkunden, besonders wenn Sie auch die umliegenden Naturlandschaften sehen möchten. Beachten Sie jedoch die begrenzte Zufahrt zur direkten Altstadt.",
             "hu": "Autóval kényelmesen elérheti Peñíscola különböző részeit. Kezdjen az Északi strandon, ahol a parkolás a legegyszerűbb, majd látogassa meg a központi várat. Az autó lehetővé teszi a gyors váltást a strandolás és a városnézés között.\n\nNézze meg az Ermitana kápolnát és az El Bufador víznyelőt, mielőtt a Serra d'Irta natúrparkba indulna. Autóval könnyen bejárhatja a park part menti útjait a legjobb kilátópontokhoz.\n\nEz a legrugalmasabb módja a felfedezésnek, különösen ha a környező természeti tájakat is látni szeretné. Figyeljen azonban arra, hogy az óváros belső részeibe tilos az autóval való behajtás.",
             "ro": "Cu mașina, puteți ajunge confortabil în diversele zone ale orașului Peñíscola. Începeți la Playa Norte, unde parcarea este cea mai facilă, și vizitați castelul din centru. Mașina vă permite să schimbați rapid decorul între plajă și istorie.\n\nVizitați capela Ermitana și El Bufador înainte de a merge spre parcul natural Serra d'Irta. Cu mașina, puteți parcurge drumul de coastă al parcului și opri la cele mai bune puncte de belvedere.\n\nAceasta este cea mai flexibilă modalitate de a explora Peñíscola, mai ales dacă doriți să vedeți și peisajele naturale din jur. Rețineți însă că accesul în centrul istoric propriu-zis este restricționat.",
-            "en": "By car, you can comfortably reach the different areas of Peñíscola. Start at North Beach, where parking is easiest, and visit the castle in the center. A car allows you to quickly switch between the beach and historic sites.\n\nVisit the Ermitana Chapel and El Bufador before heading to the Serra d'Irta Natural Park. By car, you can drive along the park's coastal road to reach the best viewpoints.\n\nThis is the most flexible way to explore Peñíscola, especially if you want to see the surrounding natural landscapes. Note, however, that car access to the direct old town streets is restricted."
+            "en": "By car, you can comfortably reach the different areas of Peñíscola. Start at North Beach, where parking is easiest, and visit the castle in the center. A car allows you to quickly switch between the beach and historic sites.\n\nVisit the Ermitana Chapel and El Bufador before heading to the Serra d'Irta Natural Park. By car, you can drive along the park's coastal road to reach the best viewpoints.\n\nThis is the most flexible way to explore Peñíscola, especially if you want to see the surrounding natural landscapes. Note, however, that car access to the direct old town streets is restricted.",
+            "es": "En coche puedes llegar cómodamente a las distintas zonas de Peñíscola. Empieza en la Playa Norte, donde aparcar es más sencillo, y visita el castillo en el centro. Un coche te permite cambiar rápido entre playa y sitios históricos.\n\nVisita la Ermita de la Hermitana y El Bufador antes de dirigirte al Parque Natural de la Serra d'Irta. En coche puedes conducir por la carretera costera del parque para alcanzar los mejores miradores.\n\nEs la forma más flexible de explorar Peñíscola, especialmente si quieres ver los paisajes naturales cercanos. Ten en cuenta, sin embargo, que el acceso en coche a las calles del casco antiguo está restringido."
           },
           "stops": [
             {
@@ -1812,13 +1958,15 @@
                 "de": "Playa Norte",
                 "hu": "Északi strand",
                 "ro": "Plaja de Nord",
-                "en": "North Beach"
+                "en": "North Beach",
+                "es": "Playa Norte"
               },
               "tip_5lang": {
                 "de": "Große Parkplätze in der Nähe.",
                 "hu": "Nagy parkolók a közelben.",
                 "ro": "Parcări mari în apropiere.",
-                "en": "Large parking areas available nearby."
+                "en": "Large parking areas available nearby.",
+                "es": "Amplias zonas de aparcamiento disponibles cerca."
               }
             },
             {
@@ -1826,13 +1974,15 @@
                 "de": "Castillo de Papa Luna",
                 "hu": "Papa Luna vára",
                 "ro": "Castelul Papei Luna",
-                "en": "Papa Luna Castle"
+                "en": "Papa Luna Castle",
+                "es": "Castillo de Papa Luna"
               },
               "tip_5lang": {
                 "de": "Parken Sie am Hafen und gehen Sie zu Fuß.",
                 "hu": "Parkoljon a kikötőben és menjen gyalog.",
                 "ro": "Parcați în port și mergeți pe jos.",
-                "en": "Park at the harbor and walk up."
+                "en": "Park at the harbor and walk up.",
+                "es": "Aparca en el puerto y sube caminando."
               }
             },
             {
@@ -1840,13 +1990,15 @@
                 "de": "Ermita de la Virgen de la Ermitana",
                 "hu": "Ermitana Szűz kápolnája",
                 "ro": "Ermita de la Virgen de la Ermitana",
-                "en": "Hermitana Virgin Chapel"
+                "en": "Hermitana Virgin Chapel",
+                "es": "Ermita de la Virgen de la Hermitana"
               },
               "tip_5lang": {
                 "de": "Neben der Burgfestung.",
                 "hu": "A várfal mellett található.",
                 "ro": "Lângă fortăreața castelului.",
-                "en": "Located next to the castle fortress."
+                "en": "Located next to the castle fortress.",
+                "es": "Situada junto a la fortaleza del castillo."
               }
             },
             {
@@ -1854,13 +2006,15 @@
                 "de": "El Bufador",
                 "hu": "El Bufador víznyelő",
                 "ro": "El Bufador",
-                "en": "El Bufador"
+                "en": "El Bufador",
+                "es": "El Bufador"
               },
               "tip_5lang": {
                 "de": "Kurzer Spaziergang vom Hafenparkplatz.",
                 "hu": "Rövid séta a kikötői parkolótól.",
                 "ro": "Scurtă plimbare de la parcarea din port.",
-                "en": "Short walk from the harbor parking."
+                "en": "Short walk from the harbor parking.",
+                "es": "Corta caminata desde el aparcamiento del puerto."
               }
             },
             {
@@ -1868,13 +2022,15 @@
                 "de": "Serra d'Irta",
                 "hu": "Serra d'Irta natúrpark",
                 "ro": "Serra d'Irta",
-                "en": "Serra d'Irta Natural Park"
+                "en": "Serra d'Irta Natural Park",
+                "es": "Parque Natural de la Serra d'Irta"
               },
               "tip_5lang": {
                 "de": "Aussichtspunkte bequem per Auto erreichbar.",
                 "hu": "Kilátópontok autóval kényelmesen elérhetők.",
                 "ro": "Puncte de belvedere ușor accesibile cu mașina.",
-                "en": "Viewpoints easily accessible by car."
+                "en": "Viewpoints easily accessible by car.",
+                "es": "Miradores fácilmente accesibles en coche."
               }
             }
           ],
@@ -2036,6 +2192,12 @@
               "There is a large parking lot located at the harbor.",
               "Streets in the center are extremely narrow.",
               "Traffic can be very heavy during the summer season."
+            ],
+            "es": [
+              "El estacionamiento en zona azul suele ser de pago hasta última hora de la tarde.",
+              "Hay un gran aparcamiento situado en el puerto.",
+              "Las calles del centro son extremadamente estrechas.",
+              "El tráfico puede ser muy intenso durante la temporada de verano."
             ]
           }
         },
@@ -2044,7 +2206,8 @@
             "de": "Genießen Sie den Regenpanorama am Nordstrand bequem vom Auto aus. Mittags bietet das Castillo de Papa Luna einen trockenen Aufenthalt in historischem Ambiente. Nachmittags besuchen Sie die Kapelle Virgen de la Ermitana und bewundern El Bufador. Trotz Regen ist eine Fahrt durch den Naturpark Serra d'Irta reizvoll, solange Sie auf den befestigten Straßen bleiben und die dramatische Küstenlandschaft genießen.",
             "hu": "Élvezze az északi strand esős panorámáját kényelmesen az autóból. Délben a Papa Luna-vár kínál száraz kikapcsolódást történelmi környezetben. Délután látogasson el a Virgen de la Ermitana kápolnához és nézze meg az El Bufadort. Az eső ellenére a Serra d'Irta parkon átvezető út látványos, amíg a burkolt utakon maradva csodálja a drámai tengerparti tájat.",
             "ro": "Bucurați-vă de panorama ploioasă de pe plaja de nord confortabil din mașină. La prânz, Castelul Papa Luna oferă un sejur uscat în ambianță istorică. După-amiaza, vizitați capela Virgen de la Ermitana și admirați El Bufador. În ciuda ploii, o plimbare prin Serra d'Irta este încântătoare, cât timp rămâneți pe drumurile pavate.",
-            "en": "Enjoy the rainy panorama of North Beach comfortably from your car. At midday, Papa Luna Castle offers a dry stay in a historic setting. In the afternoon, visit the Virgin of the Hermitana Chapel and admire El Bufador. Despite the rain, a drive through Serra d'Irta Natural Park is charming, as long as you stay on the paved roads and enjoy the dramatic coastal scenery."
+            "en": "Enjoy the rainy panorama of North Beach comfortably from your car. At midday, Papa Luna Castle offers a dry stay in a historic setting. In the afternoon, visit the Virgin of the Hermitana Chapel and admire El Bufador. Despite the rain, a drive through Serra d'Irta Natural Park is charming, as long as you stay on the paved roads and enjoy the dramatic coastal scenery.",
+            "es": "Disfruta del panorama lluvioso de la Playa Norte cómodamente desde el coche. A mediodía, el Castillo de Papa Luna ofrece un refugio seco en un entorno histórico. Por la tarde, visita la Ermita de la Virgen de la Hermitana y admira El Bufador. A pesar de la lluvia, un paseo por la Serra d'Irta es encantador si te mantienes en las carreteras asfaltadas y disfrutas del dramático paisaje costero."
           },
           "stops": [
             {
@@ -2053,7 +2216,8 @@
                 "de": "Parken Sie nah am Strand für einen kurzen Blick.",
                 "hu": "Parkoljon közel a parthoz egy rövid nézelődésre.",
                 "ro": "Parcați aproape de plajă pentru o scurtă privire.",
-                "en": "Park close to the beach for a quick look."
+                "en": "Park close to the beach for a quick look.",
+                "es": "Aparca cerca de la playa para una visita breve."
               }
             },
             {
@@ -2062,7 +2226,8 @@
                 "de": "Das Parken im Zentrum kann bei Regen schwierig sein.",
                 "hu": "Az esőben nehézkes lehet a parkolás a központban.",
                 "ro": "Parcarea în centru poate fi dificilă pe ploaie.",
-                "en": "Parking in the center can be tricky in the rain."
+                "en": "Parking in the center can be tricky in the rain.",
+                "es": "Aparcar en el centro puede ser complicado con lluvia."
               }
             },
             {
@@ -2071,7 +2236,8 @@
                 "de": "Ein schöner, geschützter Ort direkt neben der Burg.",
                 "hu": "Szép, védett hely közvetlenül a vár mellett.",
                 "ro": "Un loc frumos și protejat chiar lângă castel.",
-                "en": "A beautiful, sheltered spot right next to the castle."
+                "en": "A beautiful, sheltered spot right next to the castle.",
+                "es": "Un lugar bello y resguardado justo junto al castillo."
               }
             },
             {
@@ -2080,7 +2246,8 @@
                 "de": "Vom Auto aus ist der Zugang nur zu Fuß möglich.",
                 "hu": "Az autótól csak gyalogosan közelíthető meg.",
                 "ro": "Accesul este posibil doar pe jos de la mașină.",
-                "en": "Access is only possible on foot from the car."
+                "en": "Access is only possible on foot from the car.",
+                "es": "El acceso solo es posible a pie desde el coche."
               }
             },
             {
@@ -2089,7 +2256,8 @@
                 "de": "Fahren Sie vorsichtig auf schmalen Küstenstraßen.",
                 "hu": "Óvatosan vezessen a szűk parti utakon.",
                 "ro": "Conduceți cu atenție pe drumurile înguste de coastă.",
-                "en": "Drive carefully on the narrow coastal roads."
+                "en": "Drive carefully on the narrow coastal roads.",
+                "es": "Conduce con cuidado por las estrechas carreteras costeras."
               }
             }
           ],
@@ -2117,6 +2285,12 @@
               "Visibility may be reduced during heavy rain.",
               "Avoid unpaved paths in the natural park when wet.",
               "Turn on the AC to prevent the windshield from fogging up."
+            ],
+            "es": [
+              "Utiliza los aparcamientos cercanos al castillo.",
+              "La visibilidad puede reducirse con lluvia intensa.",
+              "Evita los caminos sin asfaltar del parque natural cuando estén mojados.",
+              "Activa la climatización para evitar que se empañe el parabrisas."
             ]
           }
         },
@@ -2125,7 +2299,8 @@
             "de": "Ein klarer Wintertag beginnt mit einer Fahrt entlang des Nordstrands. Mittags besichtigen Sie das Castillo de Papa Luna ohne Parkplatzsorgen. Nachmittags besuchen Sie die Kapelle Virgen de la Ermitana und El Bufador im milden Licht. Eine Fahrt durch den Naturpark Serra d'Irta bietet spektakuläre Ausblicke auf das winterliche Mittelmeer, bevor Sie den Tag bei einem frühen, malerischen Sonnenuntergang ausklingen lassen.",
             "hu": "Tiszta téli nap indul az északi strand mentén autózva. Délben nézze meg a Papa Luna-várat, ilyenkor könnyebb a parkolás. Délután látogasson el a Virgen de la Ermitana kápolnához és az El Bufadorhoz az enyhe fényben. A Serra d'Irta parkon átvezető út látványos kilátást nyújt a téli Földközi-tengerre, majd zárja a napot a korai, festői naplementével.",
             "ro": "O zi senină de iarnă începe cu o plimbare de-a lungul plajei de nord. La prânz, vizitați Castelul Papa Luna fără grija parcării. După-amiaza, vizitați capela Virgen de la Ermitana și El Bufador în lumina blândă. O plimbare prin Serra d'Irta oferă vederi spectaculoase spre Mediterana, înainte de a încheia ziua cu un apus pitoresc.",
-            "en": "A clear winter day begins with a drive along North Beach. At midday, visit Papa Luna Castle without the usual parking worries. In the afternoon, visit the Virgin of the Hermitana Chapel and El Bufador in the mild light. A drive through Serra d'Irta Natural Park offers spectacular views of the wintry Mediterranean, before ending your day with an early, picturesque sunset."
+            "en": "A clear winter day begins with a drive along North Beach. At midday, visit Papa Luna Castle without the usual parking worries. In the afternoon, visit the Virgin of the Hermitana Chapel and El Bufador in the mild light. A drive through Serra d'Irta Natural Park offers spectacular views of the wintry Mediterranean, before ending your day with an early, picturesque sunset.",
+            "es": "Un día claro de invierno comienza con un paseo por la Playa Norte. A mediodía, visita el Castillo de Papa Luna sin las habituales dificultades de aparcamiento. Por la tarde, recorre la Ermita de la Virgen de la Hermitana y El Bufador con una luz suave. Un trayecto por la Serra d'Irta ofrece vistas espectaculares del Mediterráneo invernal, antes de terminar el día con un atardecer temprano y pintoresco."
           },
           "stops": [
             {
@@ -2134,7 +2309,8 @@
                 "de": "Das Parken ist im Winter oft kostenlos oder günstiger.",
                 "hu": "Télen a parkolás gyakran ingyenes vagy olcsóbb.",
                 "ro": "Parcarea este adesea gratuită sau mai ieftină iarna.",
-                "en": "Parking is often free or cheaper in winter."
+                "en": "Parking is often free or cheaper in winter.",
+                "es": "El aparcamiento suele ser gratuito o más barato en invierno."
               }
             },
             {
@@ -2143,7 +2319,8 @@
                 "de": "Genießen Sie die einfache Anfahrt ohne Staus.",
                 "hu": "Élvezze a könnyű megközelítést dugók nélkül.",
                 "ro": "Bucurați-vă de acces facil fără ambuteiaje.",
-                "en": "Enjoy easy access without the usual traffic jams."
+                "en": "Enjoy easy access without the usual traffic jams.",
+                "es": "Disfruta de un acceso fácil sin los atascos habituales."
               }
             },
             {
@@ -2152,7 +2329,8 @@
                 "de": "Das Licht am Nachmittag ist ideal für Fotos.",
                 "hu": "A délutáni fények ideálisak a fotózáshoz.",
                 "ro": "Lumina de după-amiază este ideală pentru poze.",
-                "en": "The afternoon light is ideal for photography."
+                "en": "The afternoon light is ideal for photography.",
+                "es": "La luz de la tarde es ideal para la fotografía."
               }
             },
             {
@@ -2161,7 +2339,8 @@
                 "de": "Kaltes, klares Wasser bietet eine tolle Optik.",
                 "hu": "A hideg, tiszta víz látványa lenyűgöző.",
                 "ro": "Apa rece și limpede oferă o optică grozavă.",
-                "en": "Cold, clear water looks great in the sunlight."
+                "en": "Cold, clear water looks great in the sunlight.",
+                "es": "El agua fría y cristalina queda muy bien a la luz del sol."
               }
             },
             {
@@ -2170,7 +2349,8 @@
                 "de": "Die Straßen sind im Winter fast menschenleer.",
                 "hu": "Az utak télen szinte teljesen üresek.",
                 "ro": "Drumurile sunt aproape pustii pe timpul iernii.",
-                "en": "The roads are almost deserted in winter."
+                "en": "The roads are almost deserted in winter.",
+                "es": "Las carreteras están casi desiertas en invierno."
               }
             }
           ],
@@ -2198,6 +2378,12 @@
               "Watch the sunset from a scenic viewpoint.",
               "Temperatures drop quickly after the sun goes down.",
               "Perfect time for landscape photography from the car."
+            ],
+            "es": [
+              "Aprovecha la temporada baja para conducir con tranquilidad.",
+              "Contempla la puesta de sol desde un mirador panorámico.",
+              "Las temperaturas bajan rápidamente después de ponerse el sol.",
+              "Momento perfecto para fotografía de paisaje desde el coche."
             ]
           }
         }
@@ -2216,7 +2402,8 @@
             "de": "Castillo de Papa Luna",
             "hu": "Papa Luna vára",
             "ro": "Castelul Papei Luna",
-            "en": "Papa Luna Castle"
+            "en": "Papa Luna Castle",
+            "es": "Castillo de Papa Luna"
           },
           "coords": [
             0.4085,
@@ -2231,7 +2418,8 @@
             "de": "Hauptbusstopp am Eingang zur Altstadt.",
             "hu": "Fő buszmegálló az óváros bejáratánál.",
             "ro": "Stație principală la intrarea în orașul vechi.",
-            "en": "Main bus stop at the old town entrance."
+            "en": "Main bus stop at the old town entrance.",
+            "es": "Parada de bus principal en la entrada del casco antiguo."
           }
         },
         {
@@ -2239,7 +2427,8 @@
             "de": "Iglesia de Santa María",
             "hu": "Szent Mária templom",
             "ro": "Biserica Sfânta Maria",
-            "en": "Santa Maria Church"
+            "en": "Santa Maria Church",
+            "es": "Iglesia de Santa María"
           },
           "coords": [
             0.4078,
@@ -2254,7 +2443,8 @@
             "de": "Zentral im historischen Teil.",
             "hu": "Központi helyen a történelmi részben.",
             "ro": "Central în partea istorică.",
-            "en": "Centrally located in the historic area."
+            "en": "Centrally located in the historic area.",
+            "es": "Situado en el centro del casco histórico."
           }
         },
         {
@@ -2262,7 +2452,8 @@
             "de": "Museu de la Mar",
             "hu": "Tengeri Múzeum",
             "ro": "Muzeul Mării",
-            "en": "Museum of the Sea"
+            "en": "Museum of the Sea",
+            "es": "Museo del Mar"
           },
           "coords": [
             0.4082,
@@ -2277,7 +2468,8 @@
             "de": "Blick auf den Fischerhafen.",
             "hu": "Kilátás a halászkikötőre.",
             "ro": "Vedere spre portul de pescuit.",
-            "en": "View of the fishing harbor."
+            "en": "View of the fishing harbor.",
+            "es": "Vistas al puerto pesquero."
           }
         },
         {
@@ -2285,7 +2477,8 @@
             "de": "Parque Artillería",
             "hu": "Tüzérségi park",
             "ro": "Parcul Artileriei",
-            "en": "Artillery Park"
+            "en": "Artillery Park",
+            "es": "Parque de Artillería"
           },
           "coords": [
             0.4092,
@@ -2300,7 +2493,8 @@
             "de": "Grüne Ruhezone.",
             "hu": "Zöld pihenőhely.",
             "ro": "Zonă verde de odihnă.",
-            "en": "Green relaxation zone."
+            "en": "Green relaxation zone.",
+            "es": "Zona verde para relajarse."
           }
         },
         {
@@ -2308,7 +2502,8 @@
             "de": "Playa Norte",
             "hu": "Északi strand",
             "ro": "Plaja de Nord",
-            "en": "North Beach"
+            "en": "North Beach",
+            "es": "Playa Norte"
           },
           "coords": [
             0.4035,
@@ -2323,7 +2518,8 @@
             "de": "Viele Bushaltestellen entlang der Promenade.",
             "hu": "Számos buszmegálló a sétány mentén.",
             "ro": "Multe stații de autobuz de-a lungul falezei.",
-            "en": "Many bus stops along the promenade."
+            "en": "Many bus stops along the promenade.",
+            "es": "Muchas paradas de autobús a lo largo del paseo."
           }
         },
         {
@@ -2331,7 +2527,8 @@
             "de": "Casco Antiguo",
             "hu": "Óváros",
             "ro": "Orașul Vechi",
-            "en": "Old Town"
+            "en": "Old Town",
+            "es": "Casco Antiguo"
           },
           "coords": [
             0.4075,
@@ -2346,7 +2543,8 @@
             "de": "Abends besonders stimmungsvoll.",
             "hu": "Este különösen hangulatos.",
             "ro": "Foarte atmosferic seara.",
-            "en": "Especially atmospheric in the evening."
+            "en": "Especially atmospheric in the evening.",
+            "es": "Especialmente atmosférico por la noche."
           }
         }
       ],
@@ -2354,7 +2552,8 @@
         "de": "Das Bussystem in Peñíscola verbindet das Stadtzentrum effizient mit den Wohngebieten und Hotels entlang der Küste. Starten Sie direkt an der Burg und erkunden Sie die historischen Sehenswürdigkeiten in der Nähe der Haltestellen.\n\nBesuchen Sie die Museen und Kirchen, und nutzen Sie den Bus, um zur Playa Norte zu gelangen. Die Busse fahren im Sommer in sehr kurzen Abständen, was das Reisen sehr bequem macht.\n\nBeenden Sie Ihren Tag mit einer Fahrt zurück in die Altstadt für ein Abendessen. Transit ist ideal, um die Parkplatzsuche zu vermeiden und die Aussicht auf die Küste entspannt zu genießen.",
         "hu": "Peñíscola buszhálózata hatékonyan köti össze a városközpontot a lakóövezetekkel és a part menti szállodákkal. Kezdje közvetlenül a várnál, és fedezze fel a megállók közelében lévő történelmi látnivalókat.\n\nLátogasson el a múzeumokba és templomokba, majd buszozzon az Északi strandra. Nyáron a buszok nagyon gyakran járnak, ami kényelmessé teszi az utazást.\n\nZárja a napot egy óvárosi buszos utazással egy hangulatos vacsorához. A tömegközlekedés ideális a parkolási nehézségek elkerülésére és a tengerparti kilátás élvezetére.",
         "ro": "Sistemul de autobuze din Peñíscola conectează eficient centrul orașului cu zonele rezidențiale și hotelurile de pe coastă. Începeți chiar de la castel și explorați atracțiile istorice din apropierea stațiilor.\n\nVizitați muzeele și bisericile, apoi luați autobuzul spre Playa Norte. În timpul verii, autobuzele circulă la intervale foarte scurte, făcând călătoria foarte comodă.\n\nÎncheiați ziua cu o cursă înapoi în orașul vechi pentru cină. Transportul în comun este ideal pentru a evita căutarea parcării și pentru a admira coasta relaxat.",
-        "en": "The bus system in Peñíscola efficiently connects the town center with residential areas and hotels along the coast. Start right at the castle and explore the historic sights located near the bus stops.\n\nVisit the museums and churches, then take the bus to reach North Beach. In summer, buses run at very frequent intervals, making travel very convenient.\n\nFinish your day with a bus ride back to the old town for dinner. Transit is ideal for avoiding parking issues and enjoying the coastal views in a relaxed manner."
+        "en": "The bus system in Peñíscola efficiently connects the town center with residential areas and hotels along the coast. Start right at the castle and explore the historic sights located near the bus stops.\n\nVisit the museums and churches, then take the bus to reach North Beach. In summer, buses run at very frequent intervals, making travel very convenient.\n\nFinish your day with a bus ride back to the old town for dinner. Transit is ideal for avoiding parking issues and enjoying the coastal views in a relaxed manner.",
+        "es": "El sistema de autobuses en Peñíscola conecta de forma eficiente el centro con las zonas residenciales y hoteles de la costa. Empieza junto al castillo y explora los sitios históricos situados cerca de las paradas.\n\nVisita los museos y las iglesias, y luego toma el bus para llegar a la Playa Norte. En verano, los autobuses pasan con mucha frecuencia, lo que hace que moverse sea muy cómodo.\n\nTermina el día con un viaje en autobús de vuelta al casco antiguo para cenar. El transporte público es ideal para evitar problemas de aparcamiento y disfrutar de las vistas costeras con calma."
       },
       "gastro_picks": {
         "de": [
@@ -2514,6 +2713,12 @@
           "Have small change ready for the bus driver.",
           "Bus stops are called 'Paradas'.",
           "Night buses are available during the summer season."
+        ],
+        "es": [
+          "La línea de autobús L1 conecta la mayoría de los hoteles con el centro.",
+          "Ten monedero con cambio pequeño listo para el conductor.",
+          "Las paradas de autobús se llaman 'Paradas'.",
+          "Hay autobuses nocturnos durante la temporada de verano."
         ]
       },
       "variants": {
@@ -2522,7 +2727,8 @@
             "de": "Das Bussystem in Peñíscola verbindet das Stadtzentrum effizient mit den Wohngebieten und Hotels entlang der Küste. Starten Sie direkt an der Burg und erkunden Sie die historischen Sehenswürdigkeiten in der Nähe der Haltestellen.\n\nBesuchen Sie die Museen und Kirchen, und nutzen Sie den Bus, um zur Playa Norte zu gelangen. Die Busse fahren im Sommer in sehr kurzen Abständen, was das Reisen sehr bequem macht.\n\nBeenden Sie Ihren Tag mit einer Fahrt zurück in die Altstadt für ein Abendessen. Transit ist ideal, um die Parkplatzsuche zu vermeiden und die Aussicht auf die Küste entspannt zu genießen.",
             "hu": "Peñíscola buszhálózata hatékonyan köti össze a városközpontot a lakóövezetekkel és a part menti szállodákkal. Kezdje közvetlenül a várnál, és fedezze fel a megállók közelében lévő történelmi látnivalókat.\n\nLátogasson el a múzeumokba és templomokba, majd buszozzon az Északi strandra. Nyáron a buszok nagyon gyakran járnak, ami kényelmessé teszi az utazást.\n\nZárja a napot egy óvárosi buszos utazással egy hangulatos vacsorához. A tömegközlekedés ideális a parkolási nehézségek elkerülésére és a tengerparti kilátás élvezetére.",
             "ro": "Sistemul de autobuze din Peñíscola conectează eficient centrul orașului cu zonele rezidențiale și hotelurile de pe coastă. Începeți chiar de la castel și explorați atracțiile istorice din apropierea stațiilor.\n\nVizitați muzeele și bisericile, apoi luați autobuzul spre Playa Norte. În timpul verii, autobuzele circulă la intervale foarte scurte, făcând călătoria foarte comodă.\n\nÎncheiați ziua cu o cursă înapoi în orașul vechi pentru cină. Transportul în comun este ideal pentru a evita căutarea parcării și pentru a admira coasta relaxat.",
-            "en": "The bus system in Peñíscola efficiently connects the town center with residential areas and hotels along the coast. Start right at the castle and explore the historic sights located near the bus stops.\n\nVisit the museums and churches, then take the bus to reach North Beach. In summer, buses run at very frequent intervals, making travel very convenient.\n\nFinish your day with a bus ride back to the old town for dinner. Transit is ideal for avoiding parking issues and enjoying the coastal views in a relaxed manner."
+            "en": "The bus system in Peñíscola efficiently connects the town center with residential areas and hotels along the coast. Start right at the castle and explore the historic sights located near the bus stops.\n\nVisit the museums and churches, then take the bus to reach North Beach. In summer, buses run at very frequent intervals, making travel very convenient.\n\nFinish your day with a bus ride back to the old town for dinner. Transit is ideal for avoiding parking issues and enjoying the coastal views in a relaxed manner.",
+            "es": "El sistema de autobuses en Peñíscola conecta de forma eficiente el centro con las zonas residenciales y hoteles de la costa. Empieza junto al castillo y explora los sitios históricos situados cerca de las paradas.\n\nVisita los museos y las iglesias, y luego toma el bus para llegar a la Playa Norte. En verano, los autobuses pasan con mucha frecuencia, lo que hace que moverse sea muy cómodo.\n\nTermina el día con un viaje en autobús de vuelta al casco antiguo para cenar. El transporte público es ideal para evitar problemas de aparcamiento y disfrutar de las vistas costeras con calma."
           },
           "stops": [
             {
@@ -2530,13 +2736,15 @@
                 "de": "Castillo de Papa Luna",
                 "hu": "Papa Luna vára",
                 "ro": "Castelul Papei Luna",
-                "en": "Papa Luna Castle"
+                "en": "Papa Luna Castle",
+                "es": "Castillo de Papa Luna"
               },
               "tip_5lang": {
                 "de": "Hauptbusstopp am Eingang zur Altstadt.",
                 "hu": "Fő buszmegálló az óváros bejáratánál.",
                 "ro": "Stație principală la intrarea în orașul vechi.",
-                "en": "Main bus stop at the old town entrance."
+                "en": "Main bus stop at the old town entrance.",
+                "es": "Parada de bus principal en la entrada del casco antiguo."
               }
             },
             {
@@ -2544,13 +2752,15 @@
                 "de": "Iglesia de Santa María",
                 "hu": "Szent Mária templom",
                 "ro": "Biserica Sfânta Maria",
-                "en": "Santa Maria Church"
+                "en": "Santa Maria Church",
+                "es": "Iglesia de Santa María"
               },
               "tip_5lang": {
                 "de": "Zentral im historischen Teil.",
                 "hu": "Központi helyen a történelmi részben.",
                 "ro": "Central în partea istorică.",
-                "en": "Centrally located in the historic area."
+                "en": "Centrally located in the historic area.",
+                "es": "Situado en el centro del casco histórico."
               }
             },
             {
@@ -2558,13 +2768,15 @@
                 "de": "Museu de la Mar",
                 "hu": "Tengeri Múzeum",
                 "ro": "Muzeul Mării",
-                "en": "Museum of the Sea"
+                "en": "Museum of the Sea",
+                "es": "Museo del Mar"
               },
               "tip_5lang": {
                 "de": "Blick auf den Fischerhafen.",
                 "hu": "Kilátás a halászkikötőre.",
                 "ro": "Vedere spre portul de pescuit.",
-                "en": "View of the fishing harbor."
+                "en": "View of the fishing harbor.",
+                "es": "Vistas al puerto pesquero."
               }
             },
             {
@@ -2572,13 +2784,15 @@
                 "de": "Parque Artillería",
                 "hu": "Tüzérségi park",
                 "ro": "Parcul Artileriei",
-                "en": "Artillery Park"
+                "en": "Artillery Park",
+                "es": "Parque de Artillería"
               },
               "tip_5lang": {
                 "de": "Grüne Ruhezone.",
                 "hu": "Zöld pihenőhely.",
                 "ro": "Zonă verde de odihnă.",
-                "en": "Green relaxation zone."
+                "en": "Green relaxation zone.",
+                "es": "Zona verde para relajarse."
               }
             },
             {
@@ -2586,13 +2800,15 @@
                 "de": "Playa Norte",
                 "hu": "Északi strand",
                 "ro": "Plaja de Nord",
-                "en": "North Beach"
+                "en": "North Beach",
+                "es": "Playa Norte"
               },
               "tip_5lang": {
                 "de": "Viele Bushaltestellen entlang der Promenade.",
                 "hu": "Számos buszmegálló a sétány mentén.",
                 "ro": "Multe stații de autobuz de-a lungul falezei.",
-                "en": "Many bus stops along the promenade."
+                "en": "Many bus stops along the promenade.",
+                "es": "Muchas paradas de autobús a lo largo del paseo."
               }
             },
             {
@@ -2600,13 +2816,15 @@
                 "de": "Casco Antiguo",
                 "hu": "Óváros",
                 "ro": "Orașul Vechi",
-                "en": "Old Town"
+                "en": "Old Town",
+                "es": "Casco Antiguo"
               },
               "tip_5lang": {
                 "de": "Abends besonders stimmungsvoll.",
                 "hu": "Este különösen hangulatos.",
                 "ro": "Foarte atmosferic seara.",
-                "en": "Especially atmospheric in the evening."
+                "en": "Especially atmospheric in the evening.",
+                "es": "Especialmente atmosférico por la noche."
               }
             }
           ],
@@ -2768,6 +2986,12 @@
               "Have small change ready for the bus driver.",
               "Bus stops are called 'Paradas'.",
               "Night buses are available during the summer season."
+            ],
+            "es": [
+              "La línea L1 conecta la mayoría de los hoteles con el centro.",
+              "Ten cambio pequeño preparado para el conductor.",
+              "Las paradas de bus se llaman 'Paradas'.",
+              "Hay autobuses nocturnos durante la temporada de verano."
             ]
           }
         },
@@ -2776,7 +3000,8 @@
             "de": "Nutzen Sie den Bus, um trocken zum Castillo de Papa Luna zu gelangen. Mittags besuchen Sie die Kirche Santa Maria und das Meeresmuseum, beides ideale Orte bei Regen. Nachmittags besichtigen Sie den Artilleriepark unter dem Schirm und fahren dann zum Nordstrand. Beenden Sie den Tag in der Altstadt, wo Sie nach einem kurzen Spaziergang in einem gemütlichen Lokal einkehren können.",
             "hu": "Használja a buszt, hogy szárazon eljusson a Papa Luna-várhoz. Délben látogasson el a Santa Maria templomba és a Tengeri Múzeumba, mindkettő ideális esőben. Délután nézze meg a Tüzérségi Parkot esernyő alatt, majd utazzon az északi strandhoz. Zárja a napot az óvárosban, ahol egy rövid séta után beülhet egy hangulatos helyre.",
             "ro": "Folosiți autobuzul pentru a ajunge uscat la Castelul Papa Luna. La prânz, vizitați Biserica Santa Maria și Muzeul Mării, ambele ideale pe ploaie. După-amiaza, vizitați Parcul de Artilerie sub umbrelă și mergeți la plaja de nord. Încheiați ziua în orașul vechi, unde puteți intra într-un local primitor.",
-            "en": "Use the bus to reach Papa Luna Castle while staying dry. At midday, visit Santa Maria Church and the Museum of the Sea, both ideal spots during rain. In the afternoon, explore the Artillery Park under an umbrella and take the bus to North Beach. End your day in the Old Town, where you can settle into a cozy spot after a short walk."
+            "en": "Use the bus to reach Papa Luna Castle while staying dry. At midday, visit Santa Maria Church and the Museum of the Sea, both ideal spots during rain. In the afternoon, explore the Artillery Park under an umbrella and take the bus to North Beach. End your day in the Old Town, where you can settle into a cozy spot after a short walk.",
+            "es": "Usa el autobús para llegar al Castillo de Papa Luna y mantenerte seco. Al mediodía, visita la Iglesia de Santa María y el Museo del Mar, ambos buenos lugares para la lluvia. Por la tarde, explora el Parque de Artillería con paraguas y toma el bus hasta la Playa Norte. Termina el día en el Casco Antiguo, donde puedes acomodarte en un sitio acogedor tras una breve caminata."
           },
           "stops": [
             {
@@ -2785,7 +3010,8 @@
                 "de": "Die Bushaltestelle ist nur wenige Gehminuten entfernt.",
                 "hu": "A buszmegálló csak pár perc sétára van.",
                 "ro": "Stația de autobuz este la doar câteva minute de mers.",
-                "en": "The bus stop is only a few minutes' walk away."
+                "en": "The bus stop is only a few minutes' walk away.",
+                "es": "La parada de autobús está a solo unos minutos a pie."
               }
             },
             {
@@ -2794,7 +3020,8 @@
                 "de": "Ein guter Ort, um die Zeit bis zum nächsten Bus zu überbrücken.",
                 "hu": "Jó hely a következő buszig hátralévő idő eltöltésére.",
                 "ro": "Un loc bun pentru a aștepta următorul autobuz.",
-                "en": "A good place to wait for the next bus."
+                "en": "A good place to wait for the next bus.",
+                "es": "Un buen lugar para esperar el siguiente autobús."
               }
             },
             {
@@ -2803,7 +3030,8 @@
                 "de": "Perfektes Timing für einen längeren Aufenthalt bei Regen.",
                 "hu": "Tökéletes időzítés egy hosszabb esős tartózkodáshoz.",
                 "ro": "Moment perfect pentru o vizită prelungită pe ploaie.",
-                "en": "Perfect timing for a longer stay during rain."
+                "en": "Perfect timing for a longer stay during rain.",
+                "es": "Momento perfecto para una estancia más larga durante la lluvia."
               }
             },
             {
@@ -2812,7 +3040,8 @@
                 "de": "Wenig Unterstellmöglichkeiten, Schirm unbedingt nötig.",
                 "hu": "Kevés a fedett hely, az esernyő feltétlenül szükséges.",
                 "ro": "Puține locuri adăpostite, umbrela este indispensabilă.",
-                "en": "Few sheltered spots, an umbrella is absolutely necessary."
+                "en": "Few sheltered spots, an umbrella is absolutely necessary.",
+                "es": "Pocos sitios cubiertos; un paraguas es absolutamente necesario."
               }
             },
             {
@@ -2821,7 +3050,8 @@
                 "de": "Die Busse verkehren auch bei Regen regelmäßig.",
                 "hu": "A buszok esőben is rendszeresen közlekednek.",
                 "ro": "Autobuzele circulă regulat chiar și pe ploaie.",
-                "en": "Buses run regularly even during rain."
+                "en": "Buses run regularly even during rain.",
+                "es": "Los autobuses circulan con regularidad incluso bajo la lluvia."
               }
             },
             {
@@ -2830,7 +3060,8 @@
                 "de": "Viele überdachte Hauseingänge bieten kurzen Schutz.",
                 "hu": "Sok fedett kapualj kínál rövid menedéket.",
                 "ro": "Multe intrări acoperite oferă adăpost temporar.",
-                "en": "Many covered entrances offer brief shelter."
+                "en": "Many covered entrances offer brief shelter.",
+                "es": "Muchas entradas cubiertas ofrecen refugio breve."
               }
             }
           ],
@@ -2858,6 +3089,12 @@
               "Wear a raincoat for the walk between the stop and your destination.",
               "Buy tickets in advance or have exact change ready.",
               "Use apps for real-time transit information."
+            ],
+            "es": [
+              "Consulta el horario, ya que los autobuses pueden ir más llenos con lluvia.",
+              "Lleva chubasquero para el paseo entre la parada y tu destino.",
+              "Compra los billetes por adelantado o lleva el cambio exacto.",
+              "Usa apps para información de tránsito en tiempo real."
             ]
           }
         },
@@ -2866,7 +3103,8 @@
             "de": "Starten Sie Ihren Wintertag mit dem Bus zum Castillo de Papa Luna. Mittags besuchen Sie die Santa Maria Kirche und das Meeresmuseum, um sich zwischendurch aufzuwärmen. Nachmittags erkunden Sie den Artilleriepark im klaren Licht und fahren dann zum Nordstrand. Beenden Sie den Tag in der ruhigen Altstadt, bevor der letzte Bus am frühen Abend zurückfährt.",
             "hu": "Kezdje a téli napot busszal utazva a Papa Luna-várhoz. Délben látogasson el a Santa Maria templomba és a Tengeri Múzeumba, hogy közben felmelegedjen. Délután fedezze fel a Tüzérségi Parkot a tiszta fényekben, majd utazzon az északi strandhoz. Zárja a napot a csendes óvárosban, mielőtt az utolsó busz elindulna kora este.",
             "ro": "Începeți ziua de iarnă cu autobuzul spre Castelul Papa Luna. La prânz, vizitați Biserica Santa Maria și Muzeul Mării pentru a vă încălzi. După-amiaza, explorați Parcul de Artilerie în lumina limpede și mergeți la plaja de nord. Încheiați ziua în orașul vechi liniștit, înainte de ultimul autobuz.",
-            "en": "Start your winter day by taking the bus to Papa Luna Castle. At midday, visit Santa Maria Church and the Museum of the Sea to warm up in between. In the afternoon, explore the Artillery Park in the clear light and then head to North Beach. End your day in the quiet Old Town before the last bus departs in the early evening."
+            "en": "Start your winter day by taking the bus to Papa Luna Castle. At midday, visit Santa Maria Church and the Museum of the Sea to warm up in between. In the afternoon, explore the Artillery Park in the clear light and then head to North Beach. End your day in the quiet Old Town before the last bus departs in the early evening.",
+            "es": "Comienza tu día de invierno tomando el bus hasta el Castillo de Papa Luna. Al mediodía visita la Iglesia de Santa María y el Museo del Mar para entrar en calor entre visitas. Por la tarde explora el Parque de Artillería con la luz clara y luego dirígete a la Playa Norte. Termina el día en el tranquilo Casco Antiguo antes de que salga el último bus a primera hora de la noche."
           },
           "stops": [
             {
@@ -2875,7 +3113,8 @@
                 "de": "Die Burg ist im Winter weniger überlaufen.",
                 "hu": "A vár télen kevésbé zsúfolt.",
                 "ro": "Castelul este mai puțin aglomerat iarna.",
-                "en": "The castle is less crowded in winter."
+                "en": "The castle is less crowded in winter.",
+                "es": "El castillo está menos concurrido en invierno."
               }
             },
             {
@@ -2884,7 +3123,8 @@
                 "de": "Kirchen bieten oft Schutz vor kaltem Wind.",
                 "hu": "A templomok gyakran védelmet nyújtanak a hideg szél ellen.",
                 "ro": "Bisericile oferă adesea protecție contra vântului rece.",
-                "en": "Churches often provide protection against cold winds."
+                "en": "Churches often provide protection against cold winds.",
+                "es": "Las iglesias suelen ofrecer protección contra los vientos fríos."
               }
             },
             {
@@ -2893,7 +3133,8 @@
                 "de": "Ein interessanter, beheizter Ort für die Mittagszeit.",
                 "hu": "Érdekes, fűtött hely a déli órákra.",
                 "ro": "Un loc interesant și încălzit pentru ora prânzului.",
-                "en": "An interesting, heated spot for midday."
+                "en": "An interesting, heated spot for midday.",
+                "es": "Un lugar interesante y calefactado para el mediodía."
               }
             },
             {
@@ -2902,7 +3143,8 @@
                 "de": "Das Licht ist ideal für Architekturfotos.",
                 "hu": "A fények ideálisak építészeti fotókhoz.",
                 "ro": "Lumina este ideală pentru fotografii de arhitectură.",
-                "en": "The light is ideal for architectural photography."
+                "en": "The light is ideal for architectural photography.",
+                "es": "La luz es ideal para fotografía arquitectónica."
               }
             },
             {
@@ -2911,7 +3153,8 @@
                 "de": "Achten Sie auf die selteneren Busverbindungen im Winter.",
                 "hu": "Ügyeljen a télen ritkább buszjáratokra.",
                 "ro": "Atenție la frecvența redusă a autobuzelor iarna.",
-                "en": "Note that buses may run less frequently in winter."
+                "en": "Note that buses may run less frequently in winter.",
+                "es": "Ten en cuenta que los autobuses pueden pasar con menos frecuencia en invierno."
               }
             },
             {
@@ -2920,7 +3163,8 @@
                 "de": "Genießen Sie die Ruhe vor der Rückfahrt.",
                 "hu": "Élvezze a nyugalmat a visszautazás előtt.",
                 "ro": "Bucurați-vă de liniște înainte de plecare.",
-                "en": "Enjoy the tranquility before your return journey."
+                "en": "Enjoy the tranquility before your return journey.",
+                "es": "Disfruta de la tranquilidad antes de tu viaje de regreso."
               }
             }
           ],
@@ -2948,6 +3192,12 @@
               "It cools down quickly in the evening; stops can be drafty.",
               "Buses are reliable in winter but less frequent.",
               "Ideal for solo travelers wanting to avoid traffic."
+            ],
+            "es": [
+              "Los horarios de invierno pueden diferir de los de verano.",
+              "Se enfría rápido por la noche; las paradas pueden ser corrientes.",
+              "Los autobuses son fiables en invierno, pero menos frecuentes.",
+              "Ideal para viajeros en solitario que quieran evitar el tráfico."
             ]
           }
         }
@@ -2965,19 +3215,22 @@
       "de": "Peñíscola liegt in Valencia, hier wird Valencianisch (eine katalanische Varietät) und Spanisch gesprochen. Im Tourismus dominiert Spanisch und Englisch. 'Bon dia' und 'Hasta luego' funktionieren beide perfekt.",
       "hu": "Peñíscola Valenciában van, itt valenciai (a katalán egyik változata) és spanyol nyelvet beszélnek. A turizmusban a spanyol és az angol dominál. 'Bon dia' és 'Hasta luego' is teljesen ok.",
       "ro": "Peñíscola se află în Valencia, unde se vorbește valenciana (variantă a catalanei) și spaniolă. În turism domină spaniola și engleza. Atât 'Bon dia' cât și 'Hasta luego' funcționează perfect.",
-      "en": "Peñíscola sits in Valencia, where Valencian (a Catalan variant) and Spanish are spoken. Tourism runs on Spanish and English. Both 'Bon dia' and 'Hasta luego' work perfectly fine."
+      "en": "Peñíscola sits in Valencia, where Valencian (a Catalan variant) and Spanish are spoken. Tourism runs on Spanish and English. Both 'Bon dia' and 'Hasta luego' work perfectly fine.",
+      "es": "Peñíscola está en la Comunidad Valenciana, donde se habla valenciano (una variante del catalán) y español. El turismo funciona en español e inglés. Tanto 'Bon dia' como 'Hasta luego' funcionan perfectamente."
     },
     "best_time_to_visit": {
       "de": "Mai bis Juni und September sind ideal: warm, kein Trubel, die Altstadt-Burg ohne Schlangen. Im Sommer sind Hauptstrand und Altstadt extrem voll, vor allem nach den Game-of-Thrones-Dreharbeiten. Im August Mittelaltermesse, sehenswert aber sehr touristisch.",
       "hu": "Május-június és szeptember ideális: meleg, nyugodt, az óvárosi vár sor nélkül. Nyáron a főstrand és az óváros zsúfolt, főleg a Trónok Harca forgatás óta. Augusztusban középkori vásár, érdekes de turistás.",
       "ro": "Mai-iunie și septembrie sunt ideale: cald, fără aglomerație, cetatea fără cozi. Vara, plaja principală și orașul vechi sunt foarte pline, mai ales după filmările pentru Game of Thrones. În august, târg medieval, frumos dar foarte turistic.",
-      "en": "May-June and September are ideal: warm, calm, the old-town castle with no queues. In summer the main beach and old town fill up, especially since the Game of Thrones filming. August brings the medieval fair, picturesque but very touristy."
+      "en": "May-June and September are ideal: warm, calm, the old-town castle with no queues. In summer the main beach and old town fill up, especially since the Game of Thrones filming. August brings the medieval fair, picturesque but very touristy.",
+      "es": "Mayo‑junio y septiembre son ideales: cálidos, tranquilos y el castillo del casco antiguo sin colas. En verano la playa principal y el casco antiguo se llenan, especialmente desde el rodaje de Game of Thrones. Agosto trae la feria medieval, pintoresca pero muy turística."
     },
     "neighborhood_warnings": {
       "de": "Peñíscola ist sehr sicher. Die schmalen Kopfsteinpflastergassen der Altstadt sind tückisch bei Regen oder Absätzen, festes Schuhwerk tragen. An den Felsen unterhalb der Burg auf hohen Wellen achten, das Meer kann gefährlich werden.",
       "hu": "Peñíscola nagyon biztonságos. Az óváros macskaköves, szűk utcái esőben vagy magas sarkúban csúsznak, kényelmes cipő kell. A vár alatti sziklákon figyelj a magas hullámokra, a tenger veszélyes tud lenni.",
       "ro": "Peñíscola este foarte sigur. Străduțele înguste cu pavaj din orașul vechi sunt alunecoase pe ploaie sau cu tocuri, poartă încălțări comode. La stâncile de sub cetate, atenție la valuri mari, marea poate fi periculoasă.",
-      "en": "Peñíscola is very safe. The narrow cobblestone old-town lanes get slippery in rain or in heels, wear sturdy shoes. On the rocks below the castle beware of high swells, the sea can turn dangerous fast."
+      "en": "Peñíscola is very safe. The narrow cobblestone old-town lanes get slippery in rain or in heels, wear sturdy shoes. On the rocks below the castle beware of high swells, the sea can turn dangerous fast.",
+      "es": "Peñíscola es muy segura. Las estrechas calles empedradas del casco antiguo se vuelven resbaladizas con lluvia o si vas en tacones; usa calzado resistente. En las rocas bajo el castillo cuidado con los oleajes altos, el mar puede volverse peligroso rápidamente."
     }
   }
 }

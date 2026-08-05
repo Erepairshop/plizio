@@ -32,7 +32,8 @@
             "de": "Der perfekte Startpunkt für die Altstadt.",
             "hu": "Tökéletes kiindulópont az óváros felfedezéséhez.",
             "ro": "Punctul perfect de plecare pentru a explora centrul vechi.",
-            "en": "The perfect starting point to explore the old town."
+            "en": "The perfect starting point to explore the old town.",
+            "es": "El punto de partida perfecto para explorar el casco antiguo."
           }
         },
         {
@@ -51,7 +52,8 @@
             "de": "Erklimmen Sie den Glockenturm für eine tolle Aussicht.",
             "hu": "Másszon fel a harangtoronyba a nagyszerű kilátásért.",
             "ro": "Urcați în turnul clopotniței pentru o priveliște excelentă.",
-            "en": "Climb the bell tower for a great view."
+            "en": "Climb the bell tower for a great view.",
+            "es": "Sube al campanario para obtener una gran vista."
           }
         },
         {
@@ -70,7 +72,8 @@
             "de": "Bewundern Sie die gotische Architektur.",
             "hu": "Csodálja meg a gótikus építészetet.",
             "ro": "Admirați arhitectura gotică impresionantă.",
-            "en": "Admire the impressive Gothic architecture."
+            "en": "Admire the impressive Gothic architecture.",
+            "es": "Admira la impresionante arquitectura gótica."
           }
         },
         {
@@ -89,7 +92,8 @@
             "de": "Historische Hanfbörse mit barocker Fassade.",
             "hu": "Történelmi kenderbörze barokk homlokzattal.",
             "ro": "Fosta bursă de cânepă cu o fațadă barocă.",
-            "en": "Historical hemp exchange with a Baroque facade."
+            "en": "Historical hemp exchange with a Baroque facade.",
+            "es": "Antigua lonja del cáñamo con fachada barroca."
           }
         },
         {
@@ -108,7 +112,8 @@
             "de": "Kostenfreier Eintritt zu regionaler Kunst.",
             "hu": "Ingyenes belépés a regionális művészeti gyűjteménybe.",
             "ro": "Intrare gratuită pentru a vedea arta regională.",
-            "en": "Free entry to view regional art collections."
+            "en": "Free entry to view regional art collections.",
+            "es": "Entrada gratuita para ver colecciones de arte regional."
           }
         },
         {
@@ -127,7 +132,8 @@
             "de": "Entspannen Sie unter alten Bäumen.",
             "hu": "Pihenjen meg az öreg fák árnyékában.",
             "ro": "Relaxați-vă la umbra copacilor seculari.",
-            "en": "Relax under the shade of ancient trees."
+            "en": "Relax under the shade of ancient trees.",
+            "es": "Relájate a la sombra de árboles centenarios."
           }
         }
       ],
@@ -135,7 +141,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen der Altstadt an der Plaza Mayor, wo Geschichte auf modernes Leben trifft. Der Vormittag steht ganz im Zeichen der Architektur mit dem markanten El Fadrí und der Konkathedrale. Mittags schlendern Sie zur Lonja del Cáñamo und tauchen im Museum der Schönen Künste in die Kultur ein. Am späten Nachmittag bietet der idyllische Ribalta-Park die perfekte Kulisse zum Entspannen.",
         "hu": "Kezdje a napot az óváros szívében, a Plaza Mayoron, ahol a történelem és a modern élet találkozik. A délelőttöt az építészetnek szenteljük az ikonikus El Fadrí és a társkatedrális felfedezésével. Délben sétáljon el a Lonja del Cáñamo épületéhez, majd merüljön el a kultúrában a Szépművészeti Múzeumban. A késő délutánt a festői Ribalta-parkban töltheti pihenéssel.",
         "ro": "Începeți ziua în inima centrului vechi, în Plaza Mayor, unde istoria se împletește cu viața modernă. Dimineața este dedicată arhitecturii, explorând emblematicul El Fadrí și concatedrala. La prânz, plimbați-vă până la Lonja del Cáñamo și descoperiți arta la Muzeul de Arte Frumoase. După-amiaza târziu vă puteți relaxa în frumosul Parc Ribalta.",
-        "en": "Start your day in the heart of the old town at Plaza Mayor, where history meets modern life. The morning is dedicated to architecture, exploring the iconic El Fadrí and the Co-Cathedral. Midday, stroll to the Lonja del Cáñamo and immerse yourself in culture at the Museum of Fine Arts. Late afternoon offers the perfect setting to relax in the scenic Ribalta Park."
+        "en": "Start your day in the heart of the old town at Plaza Mayor, where history meets modern life. The morning is dedicated to architecture, exploring the iconic El Fadrí and the Co-Cathedral. Midday, stroll to the Lonja del Cáñamo and immerse yourself in culture at the Museum of Fine Arts. Late afternoon offers the perfect setting to relax in the scenic Ribalta Park.",
+        "es": "Empieza el día en el corazón del casco antiguo, en la Plaza Mayor, donde la historia se mezcla con la vida moderna. La mañana se dedica a la arquitectura, explorando el icónico El Fadrí y la Concatedral. Al mediodía pasea hasta la Lonja del Cáñamo e inmérgete en la cultura en el Museo de Bellas Artes. La tarde es ideal para relajarte en el pintoresco Parque Ribalta."
       },
       "gastro_picks": {
         "de": [
@@ -259,6 +266,12 @@
           "Wear comfortable shoes for the cobblestone streets.",
           "Most museums are closed on Mondays.",
           "Lunch is typically not served until 2:00 PM here."
+        ],
+        "es": [
+          "El casco antiguo es muy amigable para peatones.",
+          "Lleva calzado cómodo para las calles empedradas.",
+          "La mayoría de los museos están cerrados los lunes.",
+          "Aquí normalmente no se sirve la comida hasta las 14:00."
         ]
       },
       "variants": {
@@ -267,7 +280,8 @@
             "de": "Morgens nutzen wir die Arkaden der Plaza Mayor als Schutz vor dem Regen. Mittags bieten die Kathedrale und die Lonja del Cáñamo trockene Zufluchtsorte im Zentrum. Nachmittags vertiefen wir uns in die Kunstschätze des Museums, fernab vom grauen Himmel. Den Abend lassen wir bei einem Spaziergang im Ribalta-Park ausklingen, wo der Regen die Farben der Natur intensiviert.",
             "hu": "Reggel a Plaza Mayor árkádjai alatt keressük az első menedéket az eső elől. Délben a katedrális és a Lonja del Cáñamo belső terei nyújtanak száraz pihenőt a város szívében. Délután a Szépművészeti Múzeum termeiben merülünk el a kultúrában, távol a sötét felhőktől. Estére a Ribalta-park óriási fái alatt sétálunk, ahol a vizes aszfalton megcsillannak a város fényei.",
             "ro": "Dimineața folosim arcadele din Plaza Mayor pentru a ne adăposti de ploaie. La prânz, Catedrala și Lonja del Cáñamo oferă refugii uscate în inima orașului. După-amiaza ne concentrăm pe comorile artistice ale Muzeului de Arte Frumoase, departe de vremea mohorâtă. Seara se încheie cu o plimbare în Parcul Ribalta, unde ploaia scoate în evidență prospețimea vegetației mediteraneene.",
-            "en": "In the morning, we use the arcades of Plaza Mayor as shelter from the rain. At midday, the Cathedral and Lonja del Cáñamo provide dry refuges in the city center. Afternoon is spent immersed in the art treasures of the Fine Arts Museum, away from the grey skies. We end the evening with a walk in Ribalta Park, where the rain intensifies the scents and colors of the greenery."
+            "en": "In the morning, we use the arcades of Plaza Mayor as shelter from the rain. At midday, the Cathedral and Lonja del Cáñamo provide dry refuges in the city center. Afternoon is spent immersed in the art treasures of the Fine Arts Museum, away from the grey skies. We end the evening with a walk in Ribalta Park, where the rain intensifies the scents and colors of the greenery.",
+            "es": "Por la mañana usamos los soportales de la Plaza Mayor como refugio de la lluvia. Al mediodía la Catedral y la Lonja del Cáñamo ofrecen resguardo seco en el centro. La tarde se pasa inmersa en los tesoros del Museo de Bellas Artes, lejos del cielo gris. Terminamos la tarde con un paseo por el Parque Ribalta, donde la lluvia intensifica los aromas y colores del verdor."
           },
           "stops": [
             {
@@ -276,7 +290,8 @@
                 "de": "Nutzen Sie die Arkaden rund um den Platz, um trocken zu bleiben.",
                 "hu": "Használja a tér körüli árkádokat, hogy szárazon maradjon a nézelődés közben.",
                 "ro": "Folosiți arcadele din jurul pieței pentru a rămâne uscat în timp ce admirați zona.",
-                "en": "Use the arcades around the square to stay dry while observing the surroundings."
+                "en": "Use the arcades around the square to stay dry while observing the surroundings.",
+                "es": "Usa los soportales alrededor de la plaza para mantenerte seco mientras observas el entorno."
               }
             },
             {
@@ -285,7 +300,8 @@
                 "de": "Vorsicht beim Aufstieg, die Steinstufen können bei Feuchtigkeit rutschig sein.",
                 "hu": "Vigyázat a felfelé menetnél, a kőlépcsők nedves időben csúszósak lehetnek.",
                 "ro": "Atenție la urcare, treptele de piatră pot fi alunecoase când este umezeală.",
-                "en": "Be careful during the climb, the stone steps can be slippery in wet weather."
+                "en": "Be careful during the climb, the stone steps can be slippery in wet weather.",
+                "es": "Ten cuidado al subir, los escalones de piedra pueden estar resbaladizos con humedad."
               }
             },
             {
@@ -294,7 +310,8 @@
                 "de": "Ein perfekter Ort, um den stärksten Regen im prachtvollen Innenraum abzuwarten.",
                 "hu": "Tökéletes hely a leghevesebb eső kivárására a pompás belső térben.",
                 "ro": "Un loc perfect pentru a aștepta trecerea ploii în interiorul magnific.",
-                "en": "A perfect place to wait out the heaviest rain inside the magnificent interior."
+                "en": "A perfect place to wait out the heaviest rain inside the magnificent interior.",
+                "es": "Un lugar perfecto para esperar el peor de la lluvia dentro de su magnífico interior."
               }
             },
             {
@@ -303,7 +320,8 @@
                 "de": "Die Fassade ist auch unter einem Regenschirm sehr beeindruckend.",
                 "hu": "A homlokzat még esernyő alól nézve is lenyűgöző látványt nyújt.",
                 "ro": "Fațada este impresionantă chiar și privită de sub umbrelă.",
-                "en": "The facade is impressive even when viewed from under an umbrella."
+                "en": "The facade is impressive even when viewed from under an umbrella.",
+                "es": "La fachada impresiona incluso vista bajo un paraguas."
               }
             },
             {
@@ -312,7 +330,8 @@
                 "de": "Ideal für regnerische Stunden, nehmen Sie sich Zeit für die Keramikausstellung.",
                 "hu": "Ideális esős órákra, szánjon időt a kerámiakiállítás megtekintésére.",
                 "ro": "Ideal pentru orele ploioase, vizitați expoziția de ceramică.",
-                "en": "Ideal for rainy hours, take your time visiting the ceramics exhibition."
+                "en": "Ideal for rainy hours, take your time visiting the ceramics exhibition.",
+                "es": "Ideal para horas de lluvia; tómate tu tiempo visitando la exposición de cerámica."
               }
             },
             {
@@ -321,7 +340,8 @@
                 "de": "Suchen Sie Schutz unter den dichten Baumkronen oder im Musikpavillon.",
                 "hu": "Keressen menedéket a sűrű lombkoronák alatt vagy a zenepavilonban.",
                 "ro": "Căutați adăpost sub coroanele dese ale copacilor sau în pavilionul muzical.",
-                "en": "Seek shelter under the thick tree canopies or in the music pavilion."
+                "en": "Seek shelter under the thick tree canopies or in the music pavilion.",
+                "es": "Busca refugio bajo los densos doseles de los árboles o en el templete de la música."
               }
             }
           ],
@@ -349,6 +369,12 @@
               "Plaza Mayor offers the best natural protection with its walkways.",
               "Museums and churches are your best friends during persistent rainfall.",
               "A small folding umbrella is more practical in narrow alleys than a large one."
+            ],
+            "es": [
+              "Lleva calzado impermeable, ya que se forman charcos en las calles del casco antiguo.",
+              "La Plaza Mayor ofrece la mejor protección natural con sus paseos cubiertos.",
+              "Museos y iglesias son tus mejores aliados durante la lluvia persistente.",
+              "Un paraguas plegable pequeño es más práctico en los callejones estrechos que uno grande."
             ]
           }
         },
@@ -357,7 +383,8 @@
             "de": "Am frischen Wintermorgen genießen wir die klare Luft auf der Plaza Mayor. Mittags wärmt uns die milde spanische Sonne beim Besuch des Fadrí-Turms und der Kathedrale. Nachmittags bietet das Museum eine angenehme Wärme, während das Licht draußen bereits weicher wird. Den frühen Abend verbringen wir im Ribalta-Park, um den spektakulären Wintersonnenuntergang zwischen den Palmen zu erleben.",
             "hu": "A friss téli reggelen élvezzük a tiszta levegőt a Plaza Mayoron. Napközben a szelíd spanyol napsütés melenget minket a Fadrí-torony és a katedrális meglátogatásakor. Délután a múzeum kellemes meleget kínál, miközben odakint a fények már lágyabbá válnak. A kora estét a Ribalta-parkban töltjük, hogy megcsodáljuk a látványos téli naplementét a pálmák között.",
             "ro": "În dimineața răcoroasă de iarnă, ne bucurăm de aerul curat din Plaza Mayor. La prânz, soarele blând de Spania ne încălzește în timpul vizitei la turnul El Fadrí și catedrală. După-amiaza, muzeul oferă o căldură plăcută, în timp ce lumina de afară devine tot mai palidă. Seara devreme o petrecem în Parcul Ribalta pentru a vedea apusul spectaculos printre palmieri.",
-            "en": "On a crisp winter morning, we enjoy the clear air at Plaza Mayor. At midday, the mild Spanish sun warms us during our visit to El Fadrí tower and the Cathedral. Afternoon provides a pleasant warmth inside the museum as the light outside grows softer. We spend the early evening in Ribalta Park to witness a spectacular winter sunset among the palm trees."
+            "en": "On a crisp winter morning, we enjoy the clear air at Plaza Mayor. At midday, the mild Spanish sun warms us during our visit to El Fadrí tower and the Cathedral. Afternoon provides a pleasant warmth inside the museum as the light outside grows softer. We spend the early evening in Ribalta Park to witness a spectacular winter sunset among the palm trees.",
+            "es": "En una fresca mañana de invierno disfrutamos del aire claro en la Plaza Mayor. Al mediodía el suave sol español nos calienta durante la visita a la torre de El Fadrí y la Concatedral. La tarde aporta un agradable calor en el interior del museo mientras la luz exterior se vuelve más suave. Pasamos el temprano atardecer en el Parque Ribalta para presenciar una espectacular puesta de sol invernal entre las palmeras."
           },
           "stops": [
             {
@@ -366,7 +393,8 @@
                 "de": "Genießen Sie einen heißen Kaffee in einem der Cafés am Platz.",
                 "hu": "Élvezzen ki egy forró kávét a tér egyik kávézójában a reggeli hűvösben.",
                 "ro": "Savurați o cafea fierbinte la una dintre cafenelele din piață.",
-                "en": "Enjoy a hot coffee at one of the cafes in the square during the morning chill."
+                "en": "Enjoy a hot coffee at one of the cafes in the square during the morning chill.",
+                "es": "Disfruta de un café caliente en alguna de las cafeterías de la plaza durante la fresca mañana."
               }
             },
             {
@@ -375,7 +403,8 @@
                 "de": "Der Aufstieg hält Sie warm, und die Fernsicht ist im Winter oft besser.",
                 "hu": "A lépcsőzés felmelegít, a kilátás pedig télen gyakran tisztább.",
                 "ro": "Urcarea vă va încălzi, iar vizibilitatea este adesea mai bună iarna.",
-                "en": "The climb will keep you warm, and visibility is often better in winter."
+                "en": "The climb will keep you warm, and visibility is often better in winter.",
+                "es": "La subida te mantendrá caliente y la visibilidad suele ser mejor en invierno."
               }
             },
             {
@@ -384,7 +413,8 @@
                 "de": "Achten Sie auf die besonderen Lichtspiele der tiefstehenden Wintersonne.",
                 "hu": "Figyelje meg az alacsonyan járó téli nap különleges fényjátékait.",
                 "ro": "Observați jocurile de lumină create de soarele jos de iarnă.",
-                "en": "Observe the special light patterns created by the low winter sun."
+                "en": "Observe the special light patterns created by the low winter sun.",
+                "es": "Observa los patrones de luz especiales creados por el bajo sol invernal."
               }
             },
             {
@@ -393,7 +423,8 @@
                 "de": "Das Gebäude wirkt im klaren Winterlicht besonders plastisch.",
                 "hu": "Az épület a tiszta téli fényben különösen plasztikusnak hat.",
                 "ro": "Clădirea arată deosebit de bine în lumina clară a iernii.",
-                "en": "The building looks particularly textured in the clear winter light."
+                "en": "The building looks particularly textured in the clear winter light.",
+                "es": "El edificio muestra una textura especialmente marcada con la luz clara del invierno."
               }
             },
             {
@@ -402,7 +433,8 @@
                 "de": "Ein idealer Ort, um sich am Nachmittag aufzuwärmen.",
                 "hu": "Ideális helyszín egy kis délutáni felmelegedéshez a városnézés közben.",
                 "ro": "Un loc ideal pentru a vă încălzi puțin după-amiaza.",
-                "en": "An ideal place to warm up a bit in the afternoon during your tour."
+                "en": "An ideal place to warm up a bit in the afternoon during your tour.",
+                "es": "Un lugar ideal para entrar en calor un poco por la tarde durante tu ruta."
               }
             },
             {
@@ -411,7 +443,8 @@
                 "de": "Der Sonnenuntergang findet hier bereits gegen 17:45 Uhr statt.",
                 "hu": "A naplemente itt már 17:45 körül bekövetkezik.",
                 "ro": "Apusul are loc aici deja în jurul orei 17:45.",
-                "en": "Sunset here occurs as early as around 5:45 PM."
+                "en": "Sunset here occurs as early as around 5:45 PM.",
+                "es": "El atardecer aquí puede ocurrir ya alrededor de las 17:45."
               }
             }
           ],
@@ -439,6 +472,12 @@
               "The sun can be strong even in winter; sun protection might be needed.",
               "Most attractions may close slightly earlier during the winter season.",
               "Use the midday hours for outdoor activities when it is warmest."
+            ],
+            "es": [
+              "Se recomienda ropa por capas, puede hacer frío en la sombra.",
+              "El sol puede pegar fuerte incluso en invierno; puede necesitarse protección solar.",
+              "La mayoría de las atracciones pueden cerrar algo antes durante la temporada de invierno.",
+              "Aprovecha las horas del mediodía para actividades al aire libre, cuando hace más calor."
             ]
           }
         }
@@ -468,7 +507,8 @@
             "de": "Parken Sie Ihr Rad hier für einen kurzen Altstadtrundgang.",
             "hu": "Parkolja le a biciklit egy rövid óvárosi sétához.",
             "ro": "Parcați bicicleta aici pentru o scurtă plimbare prin centru.",
-            "en": "Park your bike here for a short walk around the old town."
+            "en": "Park your bike here for a short walk around the old town.",
+            "es": "Aparca tu bici aquí para un breve paseo por el casco antiguo."
           }
         },
         {
@@ -487,7 +527,8 @@
             "de": "Wunderschöne von Gärten umgebene Basilika.",
             "hu": "Gyönyörű bazilika, amelyet kertek vesznek körül.",
             "ro": "O bazilică frumoasă înconjurată de grădini.",
-            "en": "Beautiful basilica surrounded by gardens."
+            "en": "Beautiful basilica surrounded by gardens.",
+            "es": "Bella basílica rodeada de jardines."
           }
         },
         {
@@ -506,7 +547,8 @@
             "de": "Moderne Architektur und interessante Ausstellungen.",
             "hu": "Modern építészet és érdekes kiállítások.",
             "ro": "Arhitectură modernă și expoziții interesante.",
-            "en": "Modern architecture and interesting exhibitions."
+            "en": "Modern architecture and interesting exhibitions.",
+            "es": "Arquitectura moderna y exposiciones interesantes."
           }
         },
         {
@@ -525,7 +567,8 @@
             "de": "Ideal für eine kurze Pause im Grünen.",
             "hu": "Ideális egy rövid pihenőre a zöldben.",
             "ro": "Ideal pentru o scurtă pauză în natură.",
-            "en": "Ideal for a short break in the greenery."
+            "en": "Ideal for a short break in the greenery.",
+            "es": "Ideal para una breve pausa en la zona verde."
           }
         },
         {
@@ -544,7 +587,8 @@
             "de": "Fahrt zum Hafenviertel El Grao; besuchen Sie das Planetarium.",
             "hu": "Tekerjen el az El Grao kikötőnegyedbe a planetáriumhoz.",
             "ro": "Pedalați spre portul El Grao și vizitați planetariul.",
-            "en": "Ride to the El Grao port district to visit the planetarium."
+            "en": "Ride to the El Grao port district to visit the planetarium.",
+            "es": "Ve en bici hasta el distrito portuario de El Grao para visitar el planetario."
           }
         }
       ],
@@ -552,7 +596,8 @@
         "de": "Erkunden Sie Castellón dynamisch mit dem Fahrrad. Starten Sie an der Plaza Mayor und radeln Sie dann hinaus zur friedlichen Basilika Lledó. Zurück in der Stadt erwartet Sie das Museum der Schönen Künste, gefolgt von einer Erholungspause im Ribalta-Park. Am Nachmittag führt Sie eine längere Etappe hinab an die Küste ins Hafenviertel, wo das Planetarium als perfekter Abschluss wartet.",
         "hu": "Fedezze fel Castellónt dinamikusan, kerékpárral. Induljon a Plaza Mayorról, majd tekerjen ki a békés Lledó bazilikához. Visszatérve a városba várja a Szépművészeti Múzeum, majd egy kis pihenés a Ribalta-parkban. Délután egy hosszabb szakasz vezet le a partra, a kikötőnegyedbe, ahol a planetárium nyújtja a tökéletes befejezést.",
         "ro": "Explorați Castellón în mod dinamic, pe bicicletă. Porniți din Plaza Mayor și pedalați până la liniștita Bazilică Lledó. Întoarceți-vă în oraș pentru a vizita Muzeul de Arte Frumoase, urmat de o pauză în Parcul Ribalta. După-amiaza, o plimbare mai lungă vă duce pe coastă, în cartierul portului, unde planetariul oferă un final perfect.",
-        "en": "Explore Castellón dynamically by bike. Start at Plaza Mayor and cycle out to the peaceful Lledó Basilica. Back in the city, the Museum of Fine Arts awaits, followed by a rest in Ribalta Park. In the afternoon, a longer stretch takes you down to the coast to the port district, where the planetarium provides a perfect finish."
+        "en": "Explore Castellón dynamically by bike. Start at Plaza Mayor and cycle out to the peaceful Lledó Basilica. Back in the city, the Museum of Fine Arts awaits, followed by a rest in Ribalta Park. In the afternoon, a longer stretch takes you down to the coast to the port district, where the planetarium provides a perfect finish.",
+        "es": "Explora Castellón dinámicamente en bicicleta. Comienza en la Plaza Mayor y pedalea hasta la pacífica Basílica de Lledó. De vuelta en la ciudad te espera el Museo de Bellas Artes, seguido de un descanso en el Parque Ribalta. Por la tarde un tramo más largo te lleva a la costa y al distrito portuario, donde el planetario es el cierre perfecto."
       },
       "gastro_picks": {
         "de": [
@@ -676,6 +721,12 @@
           "Watch out for pedestrians in the parks.",
           "The ride to the port is mostly flat and pleasant.",
           "Always lock your bike securely."
+        ],
+        "es": [
+          "Castellón cuenta con una excelente red de carriles bici.",
+          "Ten cuidado con los peatones en los parques.",
+          "El trayecto hasta el puerto es mayormente llano y agradable.",
+          "Siempre asegura bien tu bici con candado."
         ]
       },
       "variants": {
@@ -684,7 +735,8 @@
             "de": "Trotz des Regens starten wir vorsichtig an der Plaza Mayor. Der Weg zur Basilika Lledó führt uns durch erfrischte Alleen, während wir auf rutschige Markierungen achten. Mittags bietet das Museum eine lange, trockene Pause für Kunstliebhaber. Am Nachmittag radeln wir durch den Ribalta-Park zum Planetarium an der Küste, wo wir den Tag im Trockenen unter den Sternen beenden.",
             "hu": "Az eső ellenére óvatosan indulunk a Plaza Mayortól. A Lledó-bazilikához vezető út friss illatú fasorokon át visz, miközben figyelünk a csúszós útburkolati jelekre. Délben a múzeum hosszú, száraz pihenőt kínál a művészetkedvelőknek. Délután a Ribalta-parkon át tekerünk ki a tengerparti Planetáriumhoz, ahol a napot fedél alatt, a csillagok között zárjuk.",
             "ro": "În ciuda ploii, pornim cu atenție de la Plaza Mayor. Drumul spre Basilica Lledó ne poartă prin alei împrospătate, fiind atenți la marcajele alunecoase. La prânz, muzeul oferă o pauză lungă și uscată pentru iubitorii de artă. După-amiaza pedalăm prin Parcul Ribalta spre Planetariul de pe coastă, unde încheiem ziua la adăpost, printre stele.",
-            "en": "Despite the rain, we start carefully from Plaza Mayor. The route to Lledó Basilica takes us through refreshed avenues, while staying alert for slippery road markings. At midday, the museum offers a long, dry break for art lovers. In the afternoon, we cycle through Ribalta Park to the Planetarium on the coast, ending the day indoors under the stars."
+            "en": "Despite the rain, we start carefully from Plaza Mayor. The route to Lledó Basilica takes us through refreshed avenues, while staying alert for slippery road markings. At midday, the museum offers a long, dry break for art lovers. In the afternoon, we cycle through Ribalta Park to the Planetarium on the coast, ending the day indoors under the stars.",
+            "es": "A pesar de la lluvia, salimos con precaución desde la Plaza Mayor. La ruta a la Basílica de Lledó nos lleva por avenidas refrescadas, vigilando las marcas viales resbaladizas. Al mediodía el museo ofrece un amplio descanso seco para los amantes del arte. Por la tarde pedaleamos por el Parque Ribalta hasta el Planetario en la costa, terminando el día en el interior bajo las estrellas."
           },
           "stops": [
             {
@@ -693,7 +745,8 @@
                 "de": "Prüfen Sie Ihre Bremsen, bevor Sie auf das nasse Kopfsteinpflaster fahren.",
                 "hu": "Ellenőrizze a fékeket, mielőtt a vizes macskakövekre hajtana.",
                 "ro": "Verificați frânele înainte de a intra pe pavajul umed.",
-                "en": "Check your brakes before heading onto the wet cobblestones."
+                "en": "Check your brakes before heading onto the wet cobblestones.",
+                "es": "Revisa los frenos antes de enfrentarte a los empedrados mojados."
               }
             },
             {
@@ -702,7 +755,8 @@
                 "de": "Der Vorplatz bietet einige überdachte Bereiche zum Abstellen der Räder.",
                 "hu": "A bazilika előtti téren van néhány fedett rész a biciklik tárolására.",
                 "ro": "Piața din fața basilicii oferü câteva zone acoperite pentru biciclete.",
-                "en": "The square in front of the basilica offers some covered areas for bike parking."
+                "en": "The square in front of the basilica offers some covered areas for bike parking.",
+                "es": "La plaza frente a la basílica ofrece algunas zonas cubiertas para aparcar bicis."
               }
             },
             {
@@ -711,7 +765,8 @@
                 "de": "Nutzen Sie die Zeit für einen ausführlichen Besuch, während es draußen regnet.",
                 "hu": "Használja ki az időt egy alapos látogatásra, amíg odakint esik.",
                 "ro": "Profități de timp pentru o vizită detaliată în timp ce afară plouă.",
-                "en": "Take advantage of the time for a thorough visit while it rains outside."
+                "en": "Take advantage of the time for a thorough visit while it rains outside.",
+                "es": "Aprovecha para una visita a fondo mientras llueve fuera."
               }
             },
             {
@@ -720,7 +775,8 @@
                 "de": "Fahren Sie langsam auf den sandigen Wegen, die bei Regen weich werden können.",
                 "hu": "Hajtson lassan a homokos utakon, amelyek esőben felpuhulhatnak.",
                 "ro": "Pedalați încet pe aleile cu nisip care se pot înmuia la ploaie.",
-                "en": "Ride slowly on the sandy paths, which can soften in the rain."
+                "en": "Ride slowly on the sandy paths, which can soften in the rain.",
+                "es": "Circula despacio por los caminos arenosos, que pueden ablandarse con la lluvia."
               }
             },
             {
@@ -729,7 +785,8 @@
                 "de": "Ein großartiges Ziel am Meer, um dem Regen komplett zu entfliehen.",
                 "hu": "Nagyszerű célpont a tengerparton, hogy teljesen elmeneküljünk az eső elől.",
                 "ro": "O destinație excelentă la malul mării pentru a scăpa complet de ploaie.",
-                "en": "A great seaside destination to completely escape the rain."
+                "en": "A great seaside destination to completely escape the rain.",
+                "es": "Un gran destino junto al mar para escapar por completo de la lluvia."
               }
             }
           ],
@@ -757,6 +814,12 @@
               "Mudguards are essential on your bike in this weather.",
               "Use waterproof bags to protect your valuables.",
               "Castellón is flat, but cobblestones become very slippery when wet."
+            ],
+            "es": [
+              "Evita frenar bruscamente sobre las marcas viales blancas.",
+              "Los guardabarros son esenciales en tu bici con este clima.",
+              "Usa bolsas impermeables para proteger tus objetos de valor.",
+              "Castellón es llano, pero los empedrados se vuelven muy resbaladizos cuando están mojados."
             ]
           }
         },
@@ -765,7 +828,8 @@
             "de": "Wir nutzen die frische Brise für eine morgendliche Fahrt von der Plaza Mayor zur Basilika Lledó. Die Wintersonne begleitet uns auf dem Weg zum Museum, wo wir die Mittagszeit im Warmen verbringen. Am Nachmittag radeln wir durch den Ribalta-Park und weiter Richtung Grao zum Planetarium. Wenn die Sonne früh hinter den Bergen versinkt, genießen wir die beleuchtete Küste am Ende unserer Tour.",
             "hu": "A friss szellőt kihasználva tekerünk reggel a Plaza Mayortól a Lledó-bazilikáig. A téli napsütés kísér minket a múzeum felé, ahol a délidőt a melegben töltjük. Délután a Ribalta-parkon át haladunk tovább a Grao negyed felé a Planetáriumhoz. Ahogy a nap korán a hegyek mögé bukik, a kivilágított tengerpart látványát élvezzük túránk végén.",
             "ro": "Profităm de briza răcoroasă pentru o plimbare matinală de la Plaza Mayor la Basilica Lledó. Soarele de iarnă ne însoțește spre muzeu, unde petrecem amiaza la căldură. După-amiaza pedalăm prin Parcul Ribalta și mai departe spre Grao, la Planetariu. Când soarele apune devreme după munți, ne bucurăm de coasta iluminată la finalul turului.",
-            "en": "We take advantage of the fresh breeze for a morning ride from Plaza Mayor to Lledó Basilica. The winter sun accompanies us on the way to the museum, where we spend midday in the warmth. In the afternoon, we cycle through Ribalta Park and further towards Grao to the Planetarium. As the sun sets early behind the mountains, we enjoy the lit coast at the end of our tour."
+            "en": "We take advantage of the fresh breeze for a morning ride from Plaza Mayor to Lledó Basilica. The winter sun accompanies us on the way to the museum, where we spend midday in the warmth. In the afternoon, we cycle through Ribalta Park and further towards Grao to the Planetarium. As the sun sets early behind the mountains, we enjoy the lit coast at the end of our tour.",
+            "es": "Aprovechamos la brisa fresca para un paseo matutino desde la Plaza Mayor hasta la Basílica de Lledó. El sol invernal nos acompaña camino al museo, donde pasamos el mediodía a resguardo y calor. Por la tarde, pedaleamos por el Parque Ribalta y continuamos hacia El Grao hasta el Planetario. Al ponerse pronto el sol tras las montañas, disfrutamos de la costa iluminada al final del recorrido."
           },
           "stops": [
             {
@@ -774,7 +838,8 @@
                 "de": "Tragen Sie Handschuhe, der Fahrtwind kann morgens recht kühl sein.",
                 "hu": "Viseljen kesztyűt, a menetszél reggelente elég hűvös lehet.",
                 "ro": "Purtați mănuși, vântul poate fi destul de rece dimineața.",
-                "en": "Wear gloves as the headwind can be quite chilly in the mornings."
+                "en": "Wear gloves as the headwind can be quite chilly in the mornings.",
+                "es": "Lleva guantes, el viento en cabeza puede ser bastante frío por las mañanas."
               }
             },
             {
@@ -783,7 +848,8 @@
                 "de": "Die Allee zur Basilika bietet im Winter ein schönes, klares Licht.",
                 "hu": "A bazilikához vezető sugárút télen gyönyörű, tiszta fényeket kínál.",
                 "ro": "Bulevardul către basilică oferă o lumină frumoasă și clară iarna.",
-                "en": "The avenue to the basilica offers beautiful, clear light in winter."
+                "en": "The avenue to the basilica offers beautiful, clear light in winter.",
+                "es": "La avenida hacia la basílica ofrece una luz clara y hermosa en invierno."
               }
             },
             {
@@ -792,7 +858,8 @@
                 "de": "Ein guter Stopp, um die Muskeln im Warmen etwas zu entspannen.",
                 "hu": "Jó megálló, hogy a melegben egy kicsit ellazítsuk az izmainkat.",
                 "ro": "O oprire bună pentru a vă relaxa puțin mușchii la căldură.",
-                "en": "A good stop to relax your muscles a bit in the warmth."
+                "en": "A good stop to relax your muscles a bit in the warmth.",
+                "es": "Una buena parada para relajar un poco los músculos al calor."
               }
             },
             {
@@ -801,7 +868,8 @@
                 "de": "Nutzen Sie das letzte Tageslicht für die Fahrt durch den Park.",
                 "hu": "Használja ki az utolsó nappali fényeket a parkon való áthaladáshoz.",
                 "ro": "Folosiți ultima lumină a zilei pentru plimbarea prin parc.",
-                "en": "Take advantage of the last daylight for your ride through the park."
+                "en": "Take advantage of the last daylight for your ride through the park.",
+                "es": "Aprovecha la última luz del día para tu paseo por el parque."
               }
             },
             {
@@ -810,7 +878,8 @@
                 "de": "Im Winter ist der Blick in den Sternenhimmel hier besonders lohnenswert.",
                 "hu": "Télen a csillagos égbolt megfigyelése itt különösen megéri.",
                 "ro": "Iarna, observarea cerului înstelat aici merită din plin.",
-                "en": "In winter, observing the starry sky here is especially rewarding."
+                "en": "In winter, observing the starry sky here is especially rewarding.",
+                "es": "En invierno, la observación del cielo estrellado aquí es especialmente gratificante."
               }
             }
           ],
@@ -838,6 +907,12 @@
               "It can be windier on the coast in winter than in the city.",
               "A windproof jacket is recommended for the ride to Grao.",
               "Bike paths are emptier in winter and pleasant to ride."
+            ],
+            "es": [
+              "Asegúrate de que las luces de la bicicleta funcionen para la tarde temprana.",
+              "En la costa puede hacer más viento en invierno que en la ciudad.",
+              "Se recomienda una chaqueta cortavientos para el trayecto a El Grao.",
+              "Los carriles bici están más vacíos en invierno y son agradables para rodar."
             ]
           }
         }
@@ -867,7 +942,8 @@
             "de": "Parken Sie im Zentrum und beginnen Sie Ihren Rundgang.",
             "hu": "Parkoljon le a központban, és kezdje meg a sétát.",
             "ro": "Parcați în centru și începeți turul pietonal.",
-            "en": "Park in the center and start your walking tour."
+            "en": "Park in the center and start your walking tour.",
+            "es": "Aparca en el centro y comienza tu recorrido a pie."
           }
         },
         {
@@ -886,7 +962,8 @@
             "de": "Das Wahrzeichen der Stadt; nur wenige Schritte entfernt.",
             "hu": "A város jelképe; csak néhány lépésre.",
             "ro": "Simbolul orașului; la doar câțiva pași distanță.",
-            "en": "The city's landmark; just a few steps away."
+            "en": "The city's landmark; just a few steps away.",
+            "es": "El símbolo de la ciudad; a solo unos pasos."
           }
         },
         {
@@ -905,7 +982,8 @@
             "de": "Gleich neben dem Turm; sehenswerter Innenraum.",
             "hu": "Közvetlenül a torony mellett; érdemes megnézni a belső teret.",
             "ro": "Chiar lângă turn; interiorul merită vizitat.",
-            "en": "Right next to the tower; the interior is worth seeing."
+            "en": "Right next to the tower; the interior is worth seeing.",
+            "es": "Justo al lado de la torre; merece la pena ver el interior."
           }
         },
         {
@@ -924,7 +1002,8 @@
             "de": "Beeindruckendes Gebäude mit Keramik-Sammlung.",
             "hu": "Lenyűgöző épület kerámiagyűjteménnyel.",
             "ro": "Clădire impresionantă cu o colecție de ceramică.",
-            "en": "Impressive building with a ceramics collection."
+            "en": "Impressive building with a ceramics collection.",
+            "es": "Imponente edificio con una colección de cerámica."
           }
         },
         {
@@ -943,7 +1022,8 @@
             "de": "Kurze Fahrt zur Basilika am Stadtrand.",
             "hu": "Rövid autóút a város szélén található bazilikához.",
             "ro": "O scurtă plimbare cu mașina până la bazilica de la periferie.",
-            "en": "A short drive to the basilica on the outskirts."
+            "en": "A short drive to the basilica on the outskirts.",
+            "es": "Un corto trayecto en coche hasta la basílica en las afueras."
           }
         },
         {
@@ -962,7 +1042,8 @@
             "de": "Beenden Sie den Tag am Meer in El Grao.",
             "hu": "Zárja a napot a tengerparton, El Grao negyedben.",
             "ro": "Încheiați ziua pe litoral, în cartierul El Grao.",
-            "en": "End the day by the sea in the El Grao district."
+            "en": "End the day by the sea in the El Grao district.",
+            "es": "Termina el día junto al mar en el barrio de El Grao."
           }
         }
       ],
@@ -970,7 +1051,8 @@
         "de": "Nutzen Sie das Auto, um verschiedene Stadtteile effizient zu verbinden. Der Vormittag ist als Fußweg im historischen Zentrum geplant: Sie parken einmal und erkunden Plaza Mayor, El Fadrí, die Konkathedrale und das Museum. Am Nachmittag fahren Sie zur etwas außerhalb gelegenen Basilika von Lledó und schließlich an die Küste nach El Grao, wo das Planetarium direkt am Meer wartet.",
         "hu": "Használja autóját a különböző városrészek kényelmes összekötésére. A délelőtt egy gyalogos séta a történelmi központban: egyszer parkol le, majd felfedezi a Plaza Mayort, az El Fadrít, a katedrálist és a múzeumot. Délután autózzon el a külső kerületben lévő Lledó bazilikához, majd végül a tengerparti El Grao negyedbe, a planetáriumhoz.",
         "ro": "Folosiți mașina pentru a conecta eficient diferitele zone ale orașului. Dimineața este planificată ca un tur pietonal în centrul istoric: parcați o dată și explorați Plaza Mayor, El Fadrí, concatedrala și muzeul. După-amiaza conduceți către bazilica Lledó de la periferie și, în cele din urmă, pe coastă, în El Grao, unde vă așteaptă planetariul.",
-        "en": "Use the car to efficiently connect different parts of the city. The morning is planned as a walking tour in the historical center: park once and explore Plaza Mayor, El Fadrí, the Co-Cathedral, and the museum. In the afternoon, drive to the Lledó Basilica on the outskirts, and finally to the coast in El Grao, where the planetarium awaits."
+        "en": "Use the car to efficiently connect different parts of the city. The morning is planned as a walking tour in the historical center: park once and explore Plaza Mayor, El Fadrí, the Co-Cathedral, and the museum. In the afternoon, drive to the Lledó Basilica on the outskirts, and finally to the coast in El Grao, where the planetarium awaits.",
+        "es": "Usa el coche para conectar eficientemente las distintas partes de la ciudad. La mañana está pensada como paseo a pie por el casco histórico: aparca una vez y explora Plaza Mayor, El Fadrí, la Concatedral y el museo. Por la tarde, conduce hasta la Basílica de Lledó en las afueras y, por último, a la costa en El Grao, donde espera el planetario."
       },
       "gastro_picks": {
         "de": [
@@ -1094,6 +1176,12 @@
           "There is usually plenty of free parking in El Grao.",
           "Watch out for blue zones (paid) when parking on the street.",
           "The drive to the coast takes about 15 minutes."
+        ],
+        "es": [
+          "Utiliza parking subterráneo en el centro para evitar largos paseos.",
+          "Suele haber bastante aparcamiento gratuito en El Grao.",
+          "Cuidado con las zonas azules (de pago) al aparcar en la calle.",
+          "El trayecto en coche hasta la costa dura unos 15 minutos."
         ]
       },
       "variants": {
@@ -1102,7 +1190,8 @@
             "de": "Wir starten bequem an der Plaza Mayor und parken in der Nähe der Kathedrale, um den Regen zu umgehen. Mittags besuchen wir den Fadrí-Turm und die Santa María, wobei wir kurze Wege zwischen den Standorten wählen. Nachmittags fahren wir zum Museum der Schönen Künste und genießen die Kunst im Trockenen. Den Tag beenden wir am Planetarium, das mit seinem Parkplatz ideal für regnerische Abende ist.",
             "hu": "Kényelmesen indulunk a Plaza Mayortól, a katedrális közelében parkolva, hogy elkerüljük az esőt. Délben meglátogatjuk a Fadrí-tornyot és a Santa Maríát, rövid szakaszokat választva a helyszínek között. Délután a Szépművészeti Múzeumba hajtunk, és fedél alatt élvezzük a művészetet. A napot a Planetáriumnál zárjuk, amely parkolójával ideális az esős estékre.",
             "ro": "Pornim confortabil de la Plaza Mayor și parcăm aproape de catedrală pentru a evita ploaia. La prânz vizităm turnul El Fadrí și Santa María, alegând trasee scurte între obiective. După-amiaza conducem spre Muzeul de Arte Frumoase și ne bucurăm de artă la adăpost. Încheiem ziua la Planetariu, care este ideal pentru serile ploioase datorită parcării proprii.",
-            "en": "We start comfortably at Plaza Mayor, parking near the cathedral to avoid the rain. At midday, we visit El Fadrí tower and Santa María, choosing short walks between sites. In the afternoon, we drive to the Fine Arts Museum and enjoy the art indoors. We end the day at the Planetarium, which is ideal for rainy evenings with its convenient parking."
+            "en": "We start comfortably at Plaza Mayor, parking near the cathedral to avoid the rain. At midday, we visit El Fadrí tower and Santa María, choosing short walks between sites. In the afternoon, we drive to the Fine Arts Museum and enjoy the art indoors. We end the day at the Planetarium, which is ideal for rainy evenings with its convenient parking.",
+            "es": "Comenzamos cómodamente en Plaza Mayor, aparcando cerca de la catedral para evitar la lluvia. Al mediodía visitamos la torre de El Fadrí y Santa María, eligiendo paseos cortos entre lugares. Por la tarde, conducimos al Museo de Bellas Artes y disfrutamos del arte en interiores. Terminamos el día en el Planetario, ideal para las noches lluviosas por su cómodo aparcamiento."
           },
           "stops": [
             {
@@ -1111,7 +1200,8 @@
                 "de": "Nutzen Sie das Parkhaus unter dem Platz, um direkt im Trockenen zu sein.",
                 "hu": "Használja a tér alatti mélygarázst, hogy rögtön fedett helyen legyen.",
                 "ro": "Folosiți parcarea subterană de sub piață pentru a fi direct la adăpost.",
-                "en": "Use the underground parking under the square to stay dry from the start."
+                "en": "Use the underground parking under the square to stay dry from the start.",
+                "es": "Aprovecha el parking subterráneo bajo la plaza para mantenerte seco desde el inicio."
               }
             },
             {
@@ -1120,7 +1210,8 @@
                 "de": "Der Eingang ist nur wenige Meter vom Parkplatz entfernt.",
                 "hu": "A bejárat csak pár méterre van a parkolótól.",
                 "ro": "Intrarea este la doar câțiva metri de parcare.",
-                "en": "The entrance is only a few meters away from the parking area."
+                "en": "The entrance is only a few meters away from the parking area.",
+                "es": "La entrada está a solo unos metros del aparcamiento."
               }
             },
             {
@@ -1129,7 +1220,8 @@
                 "de": "Besuchen Sie den Innenraum, wenn der Regen draußen am stärksten ist.",
                 "hu": "Akkor látogassa meg a belső teret, amikor kint a leghevesebb az eső.",
                 "ro": "Vizitați interiorul când ploaia de afară este cea mai puternică.",
-                "en": "Visit the interior when the rain outside is at its heaviest."
+                "en": "Visit the interior when the rain outside is at its heaviest.",
+                "es": "Visita el interior cuando la lluvia fuera sea más intensa."
               }
             },
             {
@@ -1138,7 +1230,8 @@
                 "de": "Es gibt Parkmöglichkeiten in den umliegenden Straßen des Museums.",
                 "hu": "A múzeum körüli utcákban jól lehet parkolni.",
                 "ro": "Există locuri de parcare în străzile din jurul muzeului.",
-                "en": "There are parking spots available in the streets surrounding the museum."
+                "en": "There are parking spots available in the streets surrounding the museum.",
+                "es": "Hay plazas de aparcamiento en las calles que rodean el museo."
               }
             },
             {
@@ -1147,7 +1240,8 @@
                 "de": "Der Parkplatz direkt an der Basilika spart Ihnen den Weg durch den Regen.",
                 "hu": "A közvetlenül a bazilikánál lévő parkoló megkíméli a vizes sétától.",
                 "ro": "Parcarea direct la basilică vă scutește de mersul prin ploaie.",
-                "en": "The parking lot directly at the basilica saves you from walking in the rain."
+                "en": "The parking lot directly at the basilica saves you from walking in the rain.",
+                "es": "El aparcamiento junto a la basílica te evita caminar bajo la lluvia."
               }
             },
             {
@@ -1156,7 +1250,8 @@
                 "de": "Großer kostenloser Parkplatz direkt vor dem Eingang vorhanden.",
                 "hu": "Nagy ingyenes parkoló áll rendelkezésre közvetlenül a bejárat előtt.",
                 "ro": "Parcare mare gratuită disponibilă chiar în fața intrării.",
-                "en": "Large free parking lot available right in front of the entrance."
+                "en": "Large free parking lot available right in front of the entrance.",
+                "es": "Amplio aparcamiento gratuito disponible justo frente a la entrada."
               }
             }
           ],
@@ -1184,6 +1279,12 @@
               "Avoid low-lying road sections during heavy rainfall.",
               "The main sights are close to each other; use central parking garages.",
               "The drive to Grao is particularly relaxing by car in the rain."
+            ],
+            "es": [
+              "Deja tiempo extra para encontrar aparcamiento en el casco antiguo.",
+              "Evita tramos de carretera bajos durante fuertes lluvias.",
+              "Los principales puntos de interés están cerca; usa aparcamientos céntricos.",
+              "El trayecto a El Grao es especialmente relajante en coche bajo la lluvia."
             ]
           }
         },
@@ -1192,7 +1293,8 @@
             "de": "Wir beginnen unsere Tour an der Plaza Mayor, während die Wintersonne die Fassaden beleuchtet. Mittags besuchen wir bequem den Fadrí und die Basilika Lledó, wobei die Heizung im Auto für Komfort sorgt. Nachmittags genießen wir die Ausstellungen im Museum der Schönen Künste. Den Tag beenden wir am Planetarium im Grao, wo wir pünktlich zum frühen Sonnenuntergang an der Küste eintreffen.",
             "hu": "Túránkat a Plaza Mayornál kezdjük, miközben a téli nap megvilágítja a homlokzatokat. Délben kényelmesen meglátogatjuk a Fadrí-tornyot és a Lledó-bazilikát, az autó fűtése pedig gondoskodik a kényelemről. Délután a Szépművészeti Múzeum kiállításait élvezzük. A napot a Grao negyedben, a Planetáriumnál zárjuk, ahová pontosan a korai tengerparti naplementére érkezünk.",
             "ro": "Începem turul în Plaza Mayor, în timp ce soarele de iarnă luminează fațadele. La prânz vizităm confortabil El Fadrí și Basilica Lledó, căldura din mașină asigurând confortul. După-amiaza ne bucurăm de expozițiile de la Muzeul de Arte Frumoase. Încheiem ziua la Planetariul din Grao, ajungând exact la timp pentru apusul devreme de pe coastă.",
-            "en": "We begin our tour at Plaza Mayor as the winter sun illuminates the facades. At midday, we comfortably visit El Fadrí and Lledó Basilica, with the car's heating ensuring comfort. In the afternoon, we enjoy the exhibitions at the Fine Arts Museum. We end the day at the Planetarium in Grao, arriving just in time for the early coastal sunset."
+            "en": "We begin our tour at Plaza Mayor as the winter sun illuminates the facades. At midday, we comfortably visit El Fadrí and Lledó Basilica, with the car's heating ensuring comfort. In the afternoon, we enjoy the exhibitions at the Fine Arts Museum. We end the day at the Planetarium in Grao, arriving just in time for the early coastal sunset.",
+            "es": "Comenzamos el recorrido en Plaza Mayor mientras el sol invernal ilumina las fachadas. Al mediodía visitamos cómodamente El Fadrí y la Basílica de Lledó, con la calefacción del coche asegurando el confort. Por la tarde disfrutamos de las exposiciones en el Museo de Bellas Artes. Terminamos el día en el Planetario de El Grao, llegando justo a tiempo para el temprano atardecer costero."
           },
           "stops": [
             {
@@ -1201,7 +1303,8 @@
                 "de": "Das Auto kann in der Sonne parken, um sich natürlich aufzuwärmen.",
                 "hu": "Parkoljon a napon, hogy az autó természetes módon felmelegedjen.",
                 "ro": "Parcați mașina la soare pentru a se încălzi natural.",
-                "en": "Park the car in the sun to let it warm up naturally."
+                "en": "Park the car in the sun to let it warm up naturally.",
+                "es": "Aparca el coche al sol para que se caliente de forma natural."
               }
             },
             {
@@ -1210,7 +1313,8 @@
                 "de": "Im Turm kann es kühler sein, behalten Sie Ihre Jacke an.",
                 "hu": "A toronyban hűvösebb lehet, hagyja magán a kabátját.",
                 "ro": "În turn poate fi mai răcoare, păstrați jacheta pe dvs.",
-                "en": "It can be cooler inside the tower; keep your jacket on."
+                "en": "It can be cooler inside the tower; keep your jacket on.",
+                "es": "Puede hacer más fresco dentro de la torre; mantén la chaqueta puesta."
               }
             },
             {
@@ -1219,7 +1323,8 @@
                 "de": "Die dicken Mauern speichern die Kühle, ideal für einen kurzen Besuch.",
                 "hu": "A vastag falak tartják a hűvöset, ideális egy rövid látogatáshoz.",
                 "ro": "Zidurile groase mențin răcoarea, ideal pentru o vizită scurtă.",
-                "en": "The thick walls retain the chill; ideal for a quick visit."
+                "en": "The thick walls retain the chill; ideal for a quick visit.",
+                "es": "Los muros gruesos retienen el frío; ideal para una visita rápida."
               }
             },
             {
@@ -1228,7 +1333,8 @@
                 "de": "Nutzen Sie die Garderobe, um die schweren Wintermäntel abzugeben.",
                 "hu": "Használja a ruhatárat a nehéz téli kabátok leadásához.",
                 "ro": "Folosiți garderoba pentru a lăsa hainele groase de iarnă.",
-                "en": "Use the cloakroom to leave your heavy winter coats while exploring."
+                "en": "Use the cloakroom to leave your heavy winter coats while exploring.",
+                "es": "Usa la consigna para dejar los abrigos de invierno pesados mientras exploras."
               }
             },
             {
@@ -1237,7 +1343,8 @@
                 "de": "Der Spaziergang im Garten der Basilika ist im Winterlicht herrlich.",
                 "hu": "A bazilika kertjében tett séta a téli fényekben csodálatos.",
                 "ro": "O plimbare în grădina basilicii este superbă în lumina iernii.",
-                "en": "A walk in the basilica's garden is wonderful in the winter light."
+                "en": "A walk in the basilica's garden is wonderful in the winter light.",
+                "es": "Un paseo por el jardín de la basílica es maravilloso con la luz invernal."
               }
             },
             {
@@ -1246,7 +1353,8 @@
                 "de": "Der frühe Einbruch der Dunkelheit ist ideal für astronomische Shows.",
                 "hu": "A korai sötétedés ideális az asztronómiai bemutatókhoz.",
                 "ro": "Întunericul care se lasă devreme este ideal pentru spectacolele astronomice.",
-                "en": "The early onset of darkness is ideal for the astronomical shows."
+                "en": "The early onset of darkness is ideal for the astronomical shows.",
+                "es": "La pronta llegada de la oscuridad es ideal para los espectáculos astronómicos."
               }
             }
           ],
@@ -1274,6 +1382,12 @@
               "Use the seat heating when returning to the car after long walks.",
               "Check tire pressure as it can drop slightly in colder weather.",
               "The coastal road to Benicàssim is a beautiful drive even in winter."
+            ],
+            "es": [
+              "Encontrar aparcamiento suele ser más relajado en invierno que en verano.",
+              "Usa la calefacción de los asientos al volver al coche tras largos paseos.",
+              "Revisa la presión de los neumáticos, puede bajar ligeramente con el frío.",
+              "La carretera costera a Benicàssim es un bonito trayecto incluso en invierno."
             ]
           }
         }
@@ -1303,7 +1417,8 @@
             "de": "Vom Hauptbahnhof direkt in diesen wunderschönen Park.",
             "hu": "A főpályaudvarról közvetlenül ebbe a gyönyörű parkba érkezik.",
             "ro": "De la gara principală ajungeți direct în acest parc frumos.",
-            "en": "From the main train station right into this beautiful park."
+            "en": "From the main train station right into this beautiful park.",
+            "es": "Desde la estación de tren principal directo a este hermoso parque."
           }
         },
         {
@@ -1322,7 +1437,8 @@
             "de": "Kurzer Spaziergang ins Zentrum.",
             "hu": "Rövid séta a központba.",
             "ro": "O scurtă plimbare spre centru.",
-            "en": "Short walk to the center."
+            "en": "Short walk to the center.",
+            "es": "Corto paseo hasta el centro."
           }
         },
         {
@@ -1341,7 +1457,8 @@
             "de": "Direkt neben dem Platz.",
             "hu": "Közvetlenül a tér mellett.",
             "ro": "Chiar lângă piață.",
-            "en": "Right next to the square."
+            "en": "Right next to the square.",
+            "es": "Justo al lado de la plaza."
           }
         },
         {
@@ -1360,7 +1477,8 @@
             "de": "Nach dem Turmbesuch ein wenig Kunst und Kultur.",
             "hu": "A torony meglátogatása után egy kis művészet és kultúra.",
             "ro": "După vizitarea turnului, puțină artă și cultură.",
-            "en": "After visiting the tower, a bit of art and culture."
+            "en": "After visiting the tower, a bit of art and culture.",
+            "es": "Después de visitar la torre, un poco de arte y cultura."
           }
         },
         {
@@ -1379,7 +1497,8 @@
             "de": "Nehmen Sie die Tram (TRAM) nach El Grao.",
             "hu": "Szálljon fel a villamosra (TRAM) El Grao felé.",
             "ro": "Luați tramvaiul (TRAM) spre El Grao.",
-            "en": "Take the tram (TRAM) to El Grao."
+            "en": "Take the tram (TRAM) to El Grao.",
+            "es": "Toma el TRAM (tranvía/autobús eléctrico) hasta El Grao."
           }
         }
       ],
@@ -1387,7 +1506,8 @@
         "de": "Der Tag ist in zwei große Cluster unterteilt. Sie beginnen am Bahnhof, spazieren entspannt durch den Ribalta-Park ins Zentrum und erkunden das historische Herz der Stadt rund um die Plaza Mayor und das Museum zu Fuß. Am frühen Nachmittag nutzen Sie dann die hochmoderne TRAM (Oberleitungsbus), die Sie schnell und bequem direkt in das maritime Viertel El Grao zum Planetarium bringt.",
         "hu": "A nap két fő részre oszlik. A vasútállomáson kezd, nyugodtan átsétál a Ribalta-parkon a központba, és gyalog fedezi fel a Plaza Mayor környékét, valamint a múzeumot. Kora délután felszáll a modern TRAM (trolibusz) járatra, amely gyorsan és kényelmesen egyenesen a tengerparti El Grao negyedbe, a planetáriumhoz viszi.",
         "ro": "Ziua este împărțită în două zone principale. Începeți la gară, vă plimbați prin Parcul Ribalta spre centru și explorați pietonal inima istorică a orașului din jurul Plaza Mayor și muzeul. La începutul după-amiezii folosiți sistemul modern TRAM (troleibuz), care vă duce rapid și confortabil direct în cartierul maritim El Grao, la planetariu.",
-        "en": "The day is divided into two main clusters. Start at the train station, take a relaxed walk through Ribalta Park to the center, and explore the historic heart around Plaza Mayor and the museum on foot. In the early afternoon, take the modern TRAM (trolleybus), which quickly and comfortably takes you straight to the maritime district of El Grao to the planetarium."
+        "en": "The day is divided into two main clusters. Start at the train station, take a relaxed walk through Ribalta Park to the center, and explore the historic heart around Plaza Mayor and the museum on foot. In the early afternoon, take the modern TRAM (trolleybus), which quickly and comfortably takes you straight to the maritime district of El Grao to the planetarium.",
+        "es": "El día se divide en dos grandes conjuntos. Comienza en la estación de tren, pasea tranquilamente por el Parque Ribalta hasta el centro y explora a pie el casco histórico alrededor de Plaza Mayor y el museo. A primera hora de la tarde, toma el moderno TRAM, que te lleva rápida y cómodamente hasta el distrito marítimo de El Grao y el planetario."
       },
       "gastro_picks": {
         "de": [
@@ -1511,6 +1631,12 @@
           "Tickets can be purchased directly from the driver.",
           "Buses run very regularly, about every 15 minutes.",
           "The city center is best explored on foot."
+        ],
+        "es": [
+          "El sistema TRAM es en realidad un autobús eléctrico que conecta el centro y el puerto.",
+          "Los billetes se pueden comprar directamente al conductor.",
+          "Los autobuses circulan con mucha regularidad, aproximadamente cada 15 minutos.",
+          "El centro de la ciudad se explora mejor a pie."
         ]
       },
       "variants": {
@@ -1519,7 +1645,8 @@
             "de": "Wir beginnen im Ribalta-Park, der direkt am Bahnhof liegt. Mit dem TRAM gelangen wir schnell zur Plaza Mayor und zum Fadrí-Turm, wobei wir kurze Wege zwischen den Haltestellen und den Sehenswürdigkeiten nutzen. Mittags besuchen wir das Museum, das gut an das Busnetz angebunden ist. Den Nachmittag verbringen wir im Planetarium, das wir bequem mit der Linie nach Grao erreichen, während es draußen regnet.",
             "hu": "A Ribalta-parkban kezdünk, amely közvetlenül a vasútállomás mellett található. A TRAM-mal gyorsan eljutunk a Plaza Mayorhoz és a Fadrí-toronyhoz, kihasználva a megállók és a látnivalók közötti rövid távolságokat. Délben meglátogatjuk a múzeumot, amely jól kapcsolódik a buszhálózathoz. A délutánt a Planetáriumban töltjük, ahová kényelmesen eljutunk a Grao felé tartó járattal.",
             "ro": "Începem în Parcul Ribalta, situat chiar lângă gară. Cu TRAM-ul ajungem rapid la Plaza Mayor și turnul El Fadrí, profitând de distanțele scurte între stații și obiective. La prânz vizităm muzeul, bine conectat la rețeaua de autobuze. După-amiaza o petrecem la Planetariu, unde ajungem confortabil cu linia spre Grao, în timp ce afară plouă.",
-            "en": "We start in Ribalta Park, located right next to the station. Using the TRAM, we quickly reach Plaza Mayor and El Fadrí tower, taking advantage of the short distances between stops and sights. At midday, we visit the museum, which is well-connected to the bus network. We spend the afternoon at the Planetarium, easily reached by the Grao line while it rains outside."
+            "en": "We start in Ribalta Park, located right next to the station. Using the TRAM, we quickly reach Plaza Mayor and El Fadrí tower, taking advantage of the short distances between stops and sights. At midday, we visit the museum, which is well-connected to the bus network. We spend the afternoon at the Planetarium, easily reached by the Grao line while it rains outside.",
+            "es": "Comenzamos en el Parque Ribalta, ubicado junto a la estación. Con el TRAM llegamos rápidamente a Plaza Mayor y la torre de El Fadrí, aprovechando las distancias cortas entre paradas y puntos de interés. Al mediodía visitamos el museo, bien conectado con la red de autobuses. Pasamos la tarde en el Planetario, fácilmente accesible por la línea de El Grao mientras llueve fuera."
           },
           "stops": [
             {
@@ -1528,7 +1655,8 @@
                 "de": "Die Haltestellen bieten gute Unterstände bei plötzlichen Schauern.",
                 "hu": "A megállók jó menedéket nyújtanak hirtelen záporok esetén.",
                 "ro": "Stațiile oferă adăposturi bune în caz de averse bruște.",
-                "en": "The transit stops offer good shelter during sudden showers."
+                "en": "The transit stops offer good shelter during sudden showers.",
+                "es": "Las paradas de transporte ofrecen buen resguardo durante chaparrones repentinos."
               }
             },
             {
@@ -1537,7 +1665,8 @@
                 "de": "Die TRAM-Haltestelle 'Farola' ist nur wenige Minuten entfernt.",
                 "hu": "A 'Farola' TRAM megálló csak pár percre van gyalog.",
                 "ro": "Stația de TRAM 'Farola' este la doar câteva minute distanță.",
-                "en": "The 'Farola' TRAM stop is only a few minutes' walk away."
+                "en": "The 'Farola' TRAM stop is only a few minutes' walk away.",
+                "es": "La parada TRAM 'Farola' está a solo unos minutos a pie."
               }
             },
             {
@@ -1546,7 +1675,8 @@
                 "de": "Nutzen Sie die Zeit im Bus, um die Route für den nächsten trockenen Stopp zu planen.",
                 "hu": "Használja ki az időt a buszon a következő száraz megálló megtervezésére.",
                 "ro": "Folosiți timpul în autobuz pentru a planifica următoarea oprire uscată.",
-                "en": "Use your time on the bus to plan the next dry stop of your tour."
+                "en": "Use your time on the bus to plan the next dry stop of your tour.",
+                "es": "Aprovecha el tiempo en el autobús para planear la siguiente parada seca del recorrido."
               }
             },
             {
@@ -1555,7 +1685,8 @@
                 "de": "Die Buslinie L7 hält in unmittelbarer Nähe des Museums.",
                 "hu": "Az L7-es buszjárat közvetlenül a múzeum közelében áll meg.",
                 "ro": "Linia de autobuz L7 oprește în imediata apropiere a muzeului.",
-                "en": "Bus line L7 stops in the immediate vicinity of the museum."
+                "en": "Bus line L7 stops in the immediate vicinity of the museum.",
+                "es": "La línea de autobús L7 para en las inmediaciones del museo."
               }
             },
             {
@@ -1564,7 +1695,8 @@
                 "de": "Die Fahrt mit der TRAM zum Grao ist auch bei Regen sehr aussichtsreich.",
                 "hu": "A TRAM-mal való utazás a Grao negyedbe esőben is látványos.",
                 "ro": "Călătoria cu TRAM-ul spre Grao este pitorească chiar și pe ploaie.",
-                "en": "The TRAM ride to Grao is scenic even when it's raining."
+                "en": "The TRAM ride to Grao is scenic even when it's raining.",
+                "es": "El paseo en TRAM hasta El Grao es panorámico incluso con lluvia."
               }
             }
           ],
@@ -1592,6 +1724,12 @@
               "The TRAM is electric and provides a smooth ride in any weather.",
               "Use the 'Castelló en Moviment' app for real-time transit information.",
               "Buses may be more crowded on rainy days; allow for some buffer time."
+            ],
+            "es": [
+              "Compra un bono de diez viajes (Bonobús) válido tanto para TRAM como para autobuses.",
+              "El TRAM es eléctrico y ofrece un viaje suave con cualquier clima.",
+              "Usa la app 'Castelló en Moviment' para información de transporte en tiempo real.",
+              "Los autobuses pueden estar más llenos los días de lluvia; deja un margen de tiempo."
             ]
           }
         },
@@ -1600,7 +1738,8 @@
             "de": "Wir beginnen unsere Tour im Ribalta-Park, der im klaren Winterlicht besonders weitläufig wirkt. Mit den öffentlichen Verkehrsmitteln erreichen wir bequem die Plaza Mayor und den Fadrí-Turm. Die Mittagszeit verbringen wir im gut geheizten Museum der Schönen Künste. Am Nachmittag bringt uns die TRAM zum Planetarium im Grao, wo wir den Tag am Meer beenden, während die Lichter des Hafens in der frühen Dämmerung erstrahlen.",
             "hu": "Túránkat a Ribalta-parkban kezdjük, amely a tiszta téli fényben különösen tágasnak hat. Tömegközlekedéssel kényelmesen elérjük a Plaza Mayort és a Fadrí-tornyot. A délidőt a jól fűtött Szépművészeti Múzeumban töltjük. Délután a TRAM kivisz minket a Grao negyedbe a Planetáriumhoz, ahol a napot a tengerparton zárjuk, miközben a kikötő fényei kigyúlnak a korai alkonyatban.",
             "ro": "Începem turul în Parcul Ribalta, care pare foarte vast în lumina clară de iarnă. Cu transportul public ajungem confortabil la Plaza Mayor și turnul El Fadrí. Petrecem amiaza în Muzeul de Arte Frumoase, care este bine încălzit. După-amiaza, TRAM-ul ne duce la Planetariul din Grao, unde încheiem ziua pe malul mării, în timp ce luminile portului se aprind la amurg.",
-            "en": "We begin our tour in Ribalta Park, which feels particularly spacious in the clear winter light. Using public transport, we comfortably reach Plaza Mayor and El Fadrí tower. We spend midday in the well-heated Fine Arts Museum. In the afternoon, the TRAM takes us to the Planetarium in Grao, where we end the day by the sea as the harbor lights shine in the early dusk."
+            "en": "We begin our tour in Ribalta Park, which feels particularly spacious in the clear winter light. Using public transport, we comfortably reach Plaza Mayor and El Fadrí tower. We spend midday in the well-heated Fine Arts Museum. In the afternoon, the TRAM takes us to the Planetarium in Grao, where we end the day by the sea as the harbor lights shine in the early dusk.",
+            "es": "Comenzamos el recorrido en el Parque Ribalta, que se siente especialmente amplio con la luz clara del invierno. Con transporte público llegamos cómodamente a Plaza Mayor y la torre de El Fadrí. Pasamos el mediodía en el bien calefactado Museo de Bellas Artes. Por la tarde, el TRAM nos lleva al Planetario de El Grao, donde terminamos el día junto al mar mientras las luces del puerto brillan en el temprano crepúsculo."
           },
           "stops": [
             {
@@ -1609,7 +1748,8 @@
                 "de": "Der Park liegt direkt gegenüber dem Bahnhof Castelló de la Plana.",
                 "hu": "A park közvetlenül a Castelló de la Plana vasútállomással szemben van.",
                 "ro": "Parcul este situat chiar vizavi de gara Castelló de la Plana.",
-                "en": "The park is located right across from the Castelló de la Plana railway station."
+                "en": "The park is located right across from the Castelló de la Plana railway station.",
+                "es": "El parque está situado justo enfrente de la estación de ferrocarril Castelló de la Plana."
               }
             },
             {
@@ -1618,7 +1758,8 @@
                 "de": "Die TRAM-Verbindung ist im Winter sehr pünktlich und zuverlässig.",
                 "hu": "A TRAM közlekedés télen is nagyon pontos és megbízható.",
                 "ro": "Conexiunea cu TRAM-ul este foarte punctuală și fiabilă iarna.",
-                "en": "The TRAM connection is very punctual and reliable even in winter."
+                "en": "The TRAM connection is very punctual and reliable even in winter.",
+                "es": "La conexión TRAM es muy puntual y fiable incluso en invierno."
               }
             },
             {
@@ -1627,7 +1768,8 @@
                 "de": "Nutzen Sie den TRAM-Stopp 'Rey Don Jaime' für einen kurzen Fußweg.",
                 "hu": "Használja a 'Rey Don Jaime' TRAM megállót a rövid gyalogút érdekében.",
                 "ro": "Folosiți stația de TRAM 'Rey Don Jaime' pentru o plimbare scurtă.",
-                "en": "Use the 'Rey Don Jaime' TRAM stop for a short walk to the site."
+                "en": "Use the 'Rey Don Jaime' TRAM stop for a short walk to the site.",
+                "es": "Usa la parada TRAM 'Rey Don Jaime' para un corto paseo hasta el lugar."
               }
             },
             {
@@ -1636,7 +1778,8 @@
                 "de": "Die klimatisierten Busse bieten eine angenehme Wärme während der Fahrt.",
                 "hu": "A légkondicionált buszok kellemes meleget biztosítanak az utazás alatt.",
                 "ro": "Autobuzele climatizate oferă o căldură plăcută în timpul călătoriei.",
-                "en": "The climate-controlled buses provide pleasant warmth during your journey."
+                "en": "The climate-controlled buses provide pleasant warmth during your journey.",
+                "es": "Los autobuses con climatización proporcionan una agradable calidez durante el viaje."
               }
             },
             {
@@ -1645,7 +1788,8 @@
                 "de": "Die letzte Fahrt zurück in die Stadt bietet tolle Ausblicke auf die Lichter.",
                 "hu": "Az utolsó járat vissza a városba remek kilátást nyújt a fényekre.",
                 "ro": "Ultima cursă înapoi spre oraș oferă vederi superbe asupra luminilor.",
-                "en": "The last ride back to the city offers great views of the evening lights."
+                "en": "The last ride back to the city offers great views of the evening lights.",
+                "es": "El último viaje de vuelta a la ciudad ofrece buenas vistas de las luces nocturnas."
               }
             }
           ],
@@ -1673,6 +1817,12 @@
               "Stops near parks are often less windy during the winter months.",
               "Take advantage of the time on the TRAM to warm up between stations.",
               "In the evenings, the vehicles are usually emptier and offer plenty of space."
+            ],
+            "es": [
+              "El TRAM circula hasta tarde por la noche en dirección al puerto (El Grao).",
+              "Las paradas cerca de parques suelen ser menos ventosas en invierno.",
+              "Aprovecha el tiempo en el TRAM para entrar en calor entre paradas.",
+              "Por la noche los vehículos suelen estar más vacíos y ofrecen mucho espacio."
             ]
           }
         }

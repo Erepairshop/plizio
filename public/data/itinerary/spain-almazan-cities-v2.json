@@ -21,7 +21,8 @@
             "de": "Plaza Mayor",
             "hu": "Főtér (Plaza Mayor)",
             "ro": "Plaza Mayor",
-            "en": "Main Square (Plaza Mayor)"
+            "en": "Main Square (Plaza Mayor)",
+            "es": "Plaza Mayor"
           },
           "coords": [
             -2.5332,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie den Tag mit einem Kaffee in einer der Bars am Platz und beobachten Sie das Leben.",
             "hu": "Kezdje a napot egy kávéval a tér egyik bárjában, és figyelje a város ébredését.",
             "ro": "Începeți ziua cu o cafea la unul dintre barurile din piață și priviți viața locală.",
-            "en": "Start your day with a coffee at one of the bars on the square and watch the town come to life."
+            "en": "Start your day with a coffee at one of the bars on the square and watch the town come to life.",
+            "es": "Empieza el día con un café en alguno de los bares de la plaza y observa cómo despierta el pueblo."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche San Miguel",
             "hu": "Szent Mihály-templom",
             "ro": "Biserica San Miguel",
-            "en": "Church of San Miguel"
+            "en": "Church of San Miguel",
+            "es": "Iglesia de San Miguel"
           },
           "coords": [
             -2.533,
@@ -59,7 +62,8 @@
             "de": "Achten Sie auf den romanischen Stil und die einzigartige achteckige Kuppel.",
             "hu": "Figyelje meg a román stílusjegyeket és az egyedi, nyolcszögletű kupolát.",
             "ro": "Observați stilul romanic și cupola sa octogonală unică.",
-            "en": "Look for the Romanesque style and its unique octagonal dome."
+            "en": "Look for the Romanesque style and its unique octagonal dome.",
+            "es": "Busca el estilo románico y su singular cúpula octogonal."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Palast der Altamira",
             "hu": "Altamira-palota",
             "ro": "Palatul Altamira",
-            "en": "Palace of the Altamira"
+            "en": "Palace of the Altamira",
+            "es": "Palacio de los Altamira"
           },
           "coords": [
             -2.5335,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie die Renaissance-Fassade; der Palast ist heute ein Kulturzentrum.",
             "hu": "Csodálja meg a reneszánsz homlokzatot; a palota ma kulturális központként működik.",
             "ro": "Admirați fațada renascentistă; palatul este acum un centru cultural.",
-            "en": "Admire the Renaissance facade; the palace is now a cultural center."
+            "en": "Admire the Renaissance facade; the palace is now a cultural center.",
+            "es": "Admira la fachada renacentista; el palacio es ahora un centro cultural."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Stadttor Puerta del Mercado",
             "hu": "Piaci kapu (Puerta del Mercado)",
             "ro": "Poarta Pieței (Puerta del Mercado)",
-            "en": "Market Gate (Puerta del Mercado)"
+            "en": "Market Gate (Puerta del Mercado)",
+            "es": "Puerta del Mercado"
           },
           "coords": [
             -2.5315,
@@ -105,7 +112,8 @@
             "de": "Dies ist eines der drei erhaltenen mittelalterlichen Tore. Ein tolles Fotomotiv.",
             "hu": "Ez az egyik a három fennmaradt középkori kapu közül. Nagyszerű fotótéma.",
             "ro": "Aceasta este una dintre cele trei porți medievale care au supraviețuit. Un loc minunat pentru fotografii.",
-            "en": "This is one of the three surviving medieval gates. A great photo opportunity."
+            "en": "This is one of the three surviving medieval gates. A great photo opportunity.",
+            "es": "Una de las tres puertas medievales conservadas. Gran oportunidad para fotos."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Stadtmauern von Almazán",
             "hu": "Almazán városfalai",
             "ro": "Zidurile din Almazán",
-            "en": "Walls of Almazán"
+            "en": "Walls of Almazán",
+            "es": "Murallas de Almazán"
           },
           "coords": [
             -2.531,
@@ -128,7 +137,8 @@
             "de": "Machen Sie einen Spaziergang entlang der erhaltenen Abschnitte für einen Blick in die Vergangenheit.",
             "hu": "Sétáljon végig a fennmaradt falszakaszokon, és pillantson be a múltba.",
             "ro": "Faceți o plimbare de-a lungul secțiunilor conservate pentru o priveliște în trecut.",
-            "en": "Take a walk along the preserved sections for a glimpse into the past."
+            "en": "Take a walk along the preserved sections for a glimpse into the past.",
+            "es": "Pasea por los tramos conservados para asomarte al pasado."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Brücke über den Duero",
             "hu": "Híd a Duero folyón",
             "ro": "Podul peste Duero",
-            "en": "Bridge over the Duero"
+            "en": "Bridge over the Duero",
+            "es": "Puente sobre el Duero"
           },
           "coords": [
             -2.5325,
@@ -151,7 +162,8 @@
             "de": "Genießen Sie hier die Mittagspause mit Blick auf den Fluss und die Stadt.",
             "hu": "Élvezze itt az ebédszünetet a folyóra és a városra nyíló kilátással.",
             "ro": "Savurați pauza de prânz aici, cu vedere la râu și la oraș.",
-            "en": "Enjoy your lunch break here with a view of the river and the town."
+            "en": "Enjoy your lunch break here with a view of the river and the town.",
+            "es": "Disfruta aquí del almuerzo con vistas al río y al pueblo."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Eremitage von Jesús Nazareno",
             "hu": "Názáreti Jézus-kápolna",
             "ro": "Schitul lui Isus Nazarineanul",
-            "en": "Hermitage of Jesús Nazareno"
+            "en": "Hermitage of Jesús Nazareno",
+            "es": "Ermita del Jesús Nazareno"
           },
           "coords": [
             -2.53,
@@ -174,7 +187,8 @@
             "de": "Eine ruhige, barocke Kapelle, perfekt für einen Moment der Besinnung.",
             "hu": "Egy csendes, barokk kápolna, amely tökéletes egy pillanatnyi elmélkedésre.",
             "ro": "O capelă barocă liniștită, perfectă pentru un moment de reflecție.",
-            "en": "A quiet, baroque chapel, perfect for a moment of reflection."
+            "en": "A quiet, baroque chapel, perfect for a moment of reflection.",
+            "es": "Una capilla barroca y tranquila, perfecta para un momento de recogimiento."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Spaziergang im Herzen von Almazán, der Plaza Mayor, umgeben von historischer Architektur. Erklimmen Sie die alten Mauern und Tore, um das mittelalterliche Flair zu spüren. Am Nachmittag überqueren Sie die römische Brücke über den Duero und finden Ruhe am Flussufer und in der nahegelegenen Kapelle. Lassen Sie den Tag mit einem Glas Wein aus der Region ausklingen und genießen Sie die ruhige Atmosphäre der kastilischen Stadt.",
         "hu": "Sétáját Almazán szívében, a történelmi épületekkel körülvett Plaza Mayoron kezdje. Mássza meg a régi falakat és kapukat, hogy átérezze a középkori hangulatot. Délután keljen át a Duero feletti római hídon, és találjon nyugalmat a folyóparton és a közeli kápolnában. Zárja a napot egy pohár helyi borral, élvezve a kasztíliai város csendes légkörét.",
         "ro": "Începeți plimbarea în inima orașului Almazán, Plaza Mayor, înconjurată de arhitectură istorică. Urcați pe zidurile și porțile vechi pentru a simți atmosfera medievală. După-amiaza, traversați podul roman peste Duero și găsiți liniștea pe malul râului și la schitul din apropiere. Încheiați ziua cu un pahar de vin local, bucurându-vă de atmosfera liniștită a orașului castilian.",
-        "en": "Start your walk in the heart of Almazán, the Plaza Mayor, surrounded by historic architecture. Climb the old walls and gates to feel the medieval atmosphere. In the afternoon, cross the Roman bridge over the Duero and find peace on the riverbank and at the nearby hermitage. End the day with a glass of local wine, enjoying the quiet atmosphere of the Castilian town."
+        "en": "Start your walk in the heart of Almazán, the Plaza Mayor, surrounded by historic architecture. Climb the old walls and gates to feel the medieval atmosphere. In the afternoon, cross the Roman bridge over the Duero and find peace on the riverbank and at the nearby hermitage. End the day with a glass of local wine, enjoying the quiet atmosphere of the Castilian town.",
+        "es": "Comienza tu paseo en el corazón de Almazán, la Plaza Mayor, rodeada de arquitectura histórica. Sube por las antiguas murallas y puertas para sentir la atmósfera medieval. Por la tarde cruza el puente romano sobre el Duero y busca la paz en la ribera y la cercana ermita. Termina el día con una copa de vino local, disfrutando del ambiente tranquilo del pueblo castellano."
       },
       "gastro_picks": {
         "de": [
@@ -354,6 +369,11 @@
           "Wear comfortable shoes as the cobblestones can be uneven.",
           "Check the opening hours of the churches, as they are often closed at noon.",
           "Most sights are within easy walking distance of each other."
+        ],
+        "es": [
+          "Lleva calzado cómodo, los empedrados pueden ser irregulares.",
+          "Consulta los horarios de apertura de las iglesias, suelen cerrar al mediodía.",
+          "La mayoría de los puntos de interés están a corta distancia a pie."
         ]
       },
       "variants": {
@@ -362,7 +382,8 @@
             "de": "Der Morgen auf der Plaza Mayor ist von glänzenden nassen Pflastersteinen geprägt. Mittags bietet die Kirche San Miguel einen trockenen Rückzugsort zur Besinnung. Am Nachmittag führt der Weg entlang der Stadtmauern, wo der Regen eine mystische Atmosphäre über dem Duero schafft. Den Abend verbringen wir gemütlich in einer der Gaststätten nahe dem Altamira-Palast.",
             "hu": "A reggeli esőben megcsillannak a Plaza Mayor kövei. Délben a San Miguel-templom belső tere nyújt menedéket a zápor elől. Délután a várfalak mentén sétálva a Duero folyó morajlása kíséri lépteinket a szürke ég alatt. Az estét egy hangulatos helyi étteremben zárjuk a történelmi városfalak védelmében.",
             "ro": "Dimineața pe Plaza Mayor începe cu reflexii pe pavajul umed. La prânz, interiorul bisericii San Miguel oferă un refugiu uscat și liniștit. După-amiaza, plimbarea de-a lungul zidurilor cetății oferă o priveliște dramatică asupra râului Duero sub ploaie. Seara ne bucurăm de gastronomia locală într-un cadru cald, ferit de vremea de afară.",
-            "en": "Morning rain brings a melancholic shine to the Plaza Mayor. By noon, the Romanesque arches of San Miguel provide a perfect dry refuge. The afternoon walk along the ancient walls offers atmospheric views of the misty Duero valley. The day concludes with a warm meal in a traditional tavern near the historic center."
+            "en": "Morning rain brings a melancholic shine to the Plaza Mayor. By noon, the Romanesque arches of San Miguel provide a perfect dry refuge. The afternoon walk along the ancient walls offers atmospheric views of the misty Duero valley. The day concludes with a warm meal in a traditional tavern near the historic center.",
+            "es": "La lluvia matinal aporta un brillo melancólico a la Plaza Mayor. Al mediodía, los arcos románicos de San Miguel ofrecen un refugio seco perfecto. La caminata vespertina por las antiguas murallas ofrece vistas atmosféricas del valle del Duero entre brumas. El día concluye con una comida caliente en una taberna tradicional cerca del centro histórico."
           },
           "stops": [
             {
@@ -371,7 +392,8 @@
                 "de": "Nutzen Sie die Arkaden des Palastes als Regenschutz.",
                 "hu": "Használja a palota árkádjait eső elleni védelemként.",
                 "ro": "Folosiți arcadele palatului pentru a vă adăposti de ploaie.",
-                "en": "Use the palace arcades as a convenient rain shelter."
+                "en": "Use the palace arcades as a convenient rain shelter.",
+                "es": "Usa los soportales del palacio como conveniente refugio contra la lluvia."
               }
             },
             {
@@ -380,7 +402,8 @@
                 "de": "Idealer Ort, um den stärksten Regen im Trockenen abzuwarten.",
                 "hu": "Ideális hely a nagyobb záporok szárazon történő megvárására.",
                 "ro": "Locul ideal pentru a aștepta trecerea ploii la adăpost.",
-                "en": "Ideal spot to wait out heavy showers in a dry setting."
+                "en": "Ideal spot to wait out heavy showers in a dry setting.",
+                "es": "Lugar ideal para esperar a que pase un fuerte aguacero en seco."
               }
             },
             {
@@ -389,7 +412,8 @@
                 "de": "Bewundern Sie die Fassade unter dem Schutz Ihres Schirms.",
                 "hu": "Csodálja meg a homlokzatot az esernyője védelméből.",
                 "ro": "Admirați fațada sub protecția umbrelei dumneavoastră.",
-                "en": "Admire the impressive facade from under your umbrella."
+                "en": "Admire the impressive facade from under your umbrella.",
+                "es": "Admira la impresionante fachada desde bajo tu paraguas."
               }
             },
             {
@@ -398,7 +422,8 @@
                 "de": "Vorsicht, die Steinstufen können bei Nässe rutschig sein.",
                 "hu": "Vigyázat, a kőlépcsők nedvesen csúszósak lehetnek.",
                 "ro": "Atenție, treptele de piatră pot fi alunecoase pe ploaie.",
-                "en": "Be careful, the stone steps can be slippery when wet."
+                "en": "Be careful, the stone steps can be slippery when wet.",
+                "es": "Ten cuidado, los peldaños de piedra pueden resbalar cuando están mojados."
               }
             },
             {
@@ -407,7 +432,8 @@
                 "de": "Feste Schuhe mit gutem Profil sind auf den Mauern wichtig.",
                 "hu": "A falakon fontos a jó tapadású, vízálló lábbeli.",
                 "ro": "Încălțămintea cu aderență bună este esențială pe ziduri.",
-                "en": "Sturdy footwear with good grip is essential on the walls."
+                "en": "Sturdy footwear with good grip is essential on the walls.",
+                "es": "Calzado resistente con buen agarre es esencial en las murallas."
               }
             },
             {
@@ -416,7 +442,8 @@
                 "de": "Bei Wind und Regen ist die Brücke sehr exponiert.",
                 "hu": "Szélben és esőben a híd nagyon kitett terület.",
                 "ro": "Podul este foarte expus în caz de vânt și ploaie.",
-                "en": "The bridge is very exposed during wind and rain."
+                "en": "The bridge is very exposed during wind and rain.",
+                "es": "El puente queda muy expuesto con viento y lluvia."
               }
             },
             {
@@ -425,7 +452,8 @@
                 "de": "Ein ruhiger Endpunkt, um sich vor dem Rückweg zu trocknen.",
                 "hu": "Csendes végpont, ahol megszárítkozhat a visszaút előtt.",
                 "ro": "Un punct final liniștit unde vă puteți usca hainele.",
-                "en": "A quiet final stop to dry off before heading back."
+                "en": "A quiet final stop to dry off before heading back.",
+                "es": "Una parada final tranquila para secarse antes de regresar."
               }
             }
           ],
@@ -453,6 +481,12 @@
               "The main square arcades offer great shelter for taking photos.",
               "Plan for longer indoor stays in churches to stay dry.",
               "A compact umbrella is more practical than a large one in narrow streets."
+            ],
+            "es": [
+              "Lleva calzado impermeable, se forman charcos en los empedrados.",
+              "Los soportales de la plaza mayor ofrecen buen resguardo para hacer fotos.",
+              "Planea estancias más largas en interiores como las iglesias para mantenerte seco.",
+              "Un paraguas compacto es más práctico que uno grande en las calles estrechas."
             ]
           }
         },
@@ -461,7 +495,8 @@
             "de": "Die klare Winterluft am Morgen lässt die Plaza Mayor majestätisch erscheinen. Mittags suchen wir die Wärme der Kirche San Miguel und des Altamira-Palastes. Der Nachmittagsspaziergang an den Stadtmauern endet früh, da die Sonne zeitig hinter dem Duero versinkt. Den Abend genießen wir bei einem kräftigen castilischen Eintopf in der Altstadt.",
             "hu": "A tiszta téli reggelen a Plaza Mayor fenséges látványt nyújt a hidegben. Délben a San Miguel-templom és az Altamira-palota falai között keresünk enyhülést a metsző szél elől. A várfali séta hamar véget ér, ahogy a nap korán nyugovóra tér a Duero felett. Az estét egy tartalmas kasztíliai vacsorával zárjuk.",
             "ro": "Aerul rece de iarnă face ca Plaza Mayor să pară maiestuoasă în lumina dimineții. La prânz căutăm căldura zidurilor bisericii San Miguel. Plimbarea de după-amiază pe zidurile cetății este scurtă, deoarece soarele apune devreme peste râul Duero. Seara se încheie cu o porție caldă de mâncare tradițională castiliană.",
-            "en": "The crisp winter air makes the Plaza Mayor look majestic in the morning light. By noon, the thick walls of San Miguel offer a break from the biting plateau wind. The afternoon walk along the walls is timed with the early sunset over the Duero river. The evening is best spent enjoying a hearty Castilian stew in a warm tavern."
+            "en": "The crisp winter air makes the Plaza Mayor look majestic in the morning light. By noon, the thick walls of San Miguel offer a break from the biting plateau wind. The afternoon walk along the walls is timed with the early sunset over the Duero river. The evening is best spent enjoying a hearty Castilian stew in a warm tavern.",
+            "es": "El aire frío y seco del invierno hace que la Plaza Mayor luzca majestuosa con la luz de la mañana. Al mediodía, los gruesos muros de San Miguel ofrecen un respiro del viento cortante de la meseta. La caminata vespertina por las murallas coincide con la puesta de sol temprana sobre el Duero. La noche es mejor dedicarla a un guiso castellano contundente en una taberna cálida."
           },
           "stops": [
             {
@@ -470,7 +505,8 @@
                 "de": "Die Sonne wärmt hier am Vormittag am besten.",
                 "hu": "Itt délelőtt süti legjobban a nap a teret.",
                 "ro": "Soarele încălzește cel mai bine piața în timpul dimineții.",
-                "en": "The morning sun warms the square best at this time."
+                "en": "The morning sun warms the square best at this time.",
+                "es": "El sol de la mañana calienta mejor la plaza en esta hora."
               }
             },
             {
@@ -479,7 +515,8 @@
                 "de": "Innen ist es oft kühler als draußen, behalten Sie die Jacke an.",
                 "hu": "Odabent gyakran hűvösebb van, ne vegye le a kabátját.",
                 "ro": "În interior este adesea mai rece, păstrați haina pe dumneavoastră.",
-                "en": "It is often colder inside, keep your coat on during the visit."
+                "en": "It is often colder inside, keep your coat on during the visit.",
+                "es": "A menudo hace más frío en el interior, mantén el abrigo puesto durante la visita."
               }
             },
             {
@@ -488,7 +525,8 @@
                 "de": "Windgeschützter Bereich vor dem Haupteingang.",
                 "hu": "Szélvédett terület a főbejárat előtt.",
                 "ro": "Zonă ferită de vânt în fața intrării principale.",
-                "en": "Wind-sheltered area in front of the main entrance."
+                "en": "Wind-sheltered area in front of the main entrance.",
+                "es": "Zona resguardada del viento frente a la entrada principal."
               }
             },
             {
@@ -497,7 +535,8 @@
                 "de": "Achten Sie auf Raureif oder Eis auf den Steinen.",
                 "hu": "Ügyeljen a zúzmarára vagy jégre a köveken.",
                 "ro": "Atenție la chiciură sau gheață pe pietre.",
-                "en": "Watch out for frost or ice patches on the stones."
+                "en": "Watch out for frost or ice patches on the stones.",
+                "es": "Cuidado con las placas de hielo o escarcha en las piedras."
               }
             },
             {
@@ -506,7 +545,8 @@
                 "de": "Tragen Sie Handschuhe, das Geländer kann eiskalt sein.",
                 "hu": "Viseljen kesztyűt, a korlátok jéghidegek lehetnek.",
                 "ro": "Purtați mănuși, balustrada poate fi extrem de rece.",
-                "en": "Wear gloves, as the railings can be freezing cold."
+                "en": "Wear gloves, as the railings can be freezing cold.",
+                "es": "Lleva guantes, las barandillas pueden estar heladas."
               }
             },
             {
@@ -515,7 +555,8 @@
                 "de": "Der Wind vom Fluss her kann im Winter sehr schneidend sein.",
                 "hu": "A folyó felőli szél télen nagyon metsző lehet.",
                 "ro": "Vântul dinspre râu poate fi foarte tăios iarna.",
-                "en": "The wind from the river can be very biting in winter."
+                "en": "The wind from the river can be very biting in winter.",
+                "es": "El viento del río puede ser muy cortante en invierno."
               }
             },
             {
@@ -524,7 +565,8 @@
                 "de": "Besuchen Sie diesen Ort vor dem Sonnenuntergang um 17:30 Uhr.",
                 "hu": "Látogasson el ide a 17:30-as naplemente előtt.",
                 "ro": "Vizitați acest loc înainte de apusul de la ora 17:30.",
-                "en": "Visit this spot before the early sunset at 17:30."
+                "en": "Visit this spot before the early sunset at 17:30.",
+                "es": "Visita este punto antes de la puesta de sol temprana a las 17:30."
               }
             }
           ],
@@ -552,6 +594,12 @@
               "The sun sets as early as 17:30 during the winter months.",
               "Look for cafés with indoor heating for your lunch break.",
               "Watch out for slippery patches on the riverside paths."
+            ],
+            "es": [
+              "Vístete por capas para combatir el viento cortante de la meseta.",
+              "El sol se pone ya a las 17:30 durante los meses de invierno.",
+              "Busca cafeterías con calefacción interior para la parada del almuerzo.",
+              "Cuidado con tramos resbaladizos en los caminos junto al río."
             ]
           }
         }
@@ -570,7 +618,8 @@
             "de": "Plaza Mayor & Fahrradverleih",
             "hu": "Főtér és kerékpárkölcsönző",
             "ro": "Plaza Mayor & închiriere biciclete",
-            "en": "Plaza Mayor & Bike Rental"
+            "en": "Plaza Mayor & Bike Rental",
+            "es": "Plaza Mayor y Alquiler de Bicicletas"
           },
           "coords": [
             -2.5332,
@@ -585,7 +634,8 @@
             "de": "Holen Sie sich Ihr Fahrrad und genießen Sie einen ersten Kaffee am Hauptplatz.",
             "hu": "Vegye át a kerékpárt, és igyon meg egy kávét a főtéren.",
             "ro": "Luați-vă bicicleta și savurați o primă cafea în piața principală.",
-            "en": "Pick up your bike and enjoy a first coffee in the main square."
+            "en": "Pick up your bike and enjoy a first coffee in the main square.",
+            "es": "Recoge tu bicicleta y disfruta de un primer café en la plaza mayor."
           }
         },
         {
@@ -593,7 +643,8 @@
             "de": "Kirche San Miguel & Palast",
             "hu": "Szent Mihály-templom és Palota",
             "ro": "Biserica San Miguel & Palatul",
-            "en": "Church of San Miguel & Palace"
+            "en": "Church of San Miguel & Palace",
+            "es": "Iglesia de San Miguel y Palacio"
           },
           "coords": [
             -2.533,
@@ -608,7 +659,8 @@
             "de": "Schließen Sie Ihr Fahrrad an und erkunden Sie die beiden Hauptgebäude am Platz.",
             "hu": "Zárja le a kerékpárt, és fedezze fel a tér két fő épületét.",
             "ro": "Legați-vă bicicleta și explorați cele două clădiri principale din piață.",
-            "en": "Lock up your bike and explore the two main buildings on the square."
+            "en": "Lock up your bike and explore the two main buildings on the square.",
+            "es": "Asegura la bicicleta y explora los dos edificios principales de la plaza."
           }
         },
         {
@@ -616,7 +668,8 @@
             "de": "Runde entlang der Stadtmauern",
             "hu": "Kör a városfalak mentén",
             "ro": "Tur de-a lungul zidurilor orașului",
-            "en": "Loop along the city walls"
+            "en": "Loop along the city walls",
+            "es": "Recorrido por las murallas"
           },
           "coords": [
             -2.5315,
@@ -631,7 +684,8 @@
             "de": "Fahren Sie eine Runde um den alten Stadtkern, beginnend am Puerta del Mercado.",
             "hu": "Tegyen egy kört az óváros körül, a Puerta del Mercadótól indulva.",
             "ro": "Faceți un tur în jurul centrului vechi, pornind de la Puerta del Mercado.",
-            "en": "Take a loop around the old town center, starting at Puerta del Mercado."
+            "en": "Take a loop around the old town center, starting at Puerta del Mercado.",
+            "es": "Haz un circuito alrededor del casco antiguo, comenzando en la Puerta del Mercado."
           }
         },
         {
@@ -639,7 +693,8 @@
             "de": "Brücke und Flussufer des Duero",
             "hu": "Híd és a Duero partja",
             "ro": "Podul și malul râului Duero",
-            "en": "Bridge and Duero Riverbank"
+            "en": "Bridge and Duero Riverbank",
+            "es": "Puente y ribera del Duero"
           },
           "coords": [
             -2.5325,
@@ -654,7 +709,8 @@
             "de": "Perfekt für eine Mittagspause. Fahren Sie ein Stück am Fluss entlang.",
             "hu": "Tökéletes egy ebédszünetre. Tekerjen egy kicsit a folyó mentén.",
             "ro": "Perfect pentru o pauză de prânz. Pedalați puțin de-a lungul râului.",
-            "en": "Perfect for a lunch break. Cycle a little along the river."
+            "en": "Perfect for a lunch break. Cycle a little along the river.",
+            "es": "Perfecto para una pausa de almuerzo. Pedalea un poco junto al río."
           }
         },
         {
@@ -662,7 +718,8 @@
             "de": "Convento de la Merced",
             "hu": "La Merced-kolostor",
             "ro": "Mănăstirea La Merced",
-            "en": "Convent of La Merced"
+            "en": "Convent of La Merced",
+            "es": "Convento de La Merced"
           },
           "coords": [
             -2.535,
@@ -677,7 +734,8 @@
             "de": "Entdecken Sie dieses ruhige Kloster im Westen der Stadt.",
             "hu": "Fedezze fel ezt a csendes kolostort a város nyugati részén.",
             "ro": "Descoperiți această mănăstire liniștită în partea de vest a orașului.",
-            "en": "Discover this quiet convent in the west of the city."
+            "en": "Discover this quiet convent in the west of the city.",
+            "es": "Descubre este tranquilo convento en el oeste de la ciudad."
           }
         },
         {
@@ -685,7 +743,8 @@
             "de": "Rückkehr zur Plaza Mayor",
             "hu": "Visszatérés a Főtérre",
             "ro": "Întoarcere la Plaza Mayor",
-            "en": "Return to Plaza Mayor"
+            "en": "Return to Plaza Mayor",
+            "es": "Regreso a la Plaza Mayor"
           },
           "coords": [
             -2.5332,
@@ -700,7 +759,8 @@
             "de": "Geben Sie Ihr Fahrrad zurück und genießen Sie ein letztes Getränk auf dem Platz.",
             "hu": "Adja le a kerékpárt, és fogyasszon el egy utolsó italt a téren.",
             "ro": "Returnați bicicleta și bucurați-vă de o ultimă băutură în piață.",
-            "en": "Return your bike and enjoy one last drink in the square."
+            "en": "Return your bike and enjoy one last drink in the square.",
+            "es": "Devuelve la bicicleta y disfruta de una última bebida en la plaza."
           }
         }
       ],
@@ -708,7 +768,8 @@
         "de": "Erkunden Sie Almazán auf zwei Rädern. Beginnen Sie am Hauptplatz, radeln Sie durch die engen Gassen zu den historischen Monumenten. Eine längere Tour führt Sie entlang der alten Stadtmauern und dann hinunter zum Duero-Fluss für eine erfrischende Pause. Am Nachmittag entdecken Sie die ruhigeren Ecken der Stadt, bevor Sie zum Ausgangspunkt zurückkehren. Diese Route verbindet Kultur mit einer leichten sportlichen Aktivität.",
         "hu": "Fedezze fel Almazánt két keréken. Induljon a főtérről, tekerjen a szűk utcákon a történelmi műemlékekhez. Egy hosszabb túra a régi városfalak mentén, majd le a Duero folyóhoz vezet egy frissítő szünetre. Délután fedezze fel a város csendesebb zugait, mielőtt visszatér a kiindulópontra. Ez az útvonal ötvözi a kultúrát a könnyű sporttevékenységgel.",
         "ro": "Explorați Almazán pe două roți. Începeți din piața principală, pedalați pe străzile înguste către monumentele istorice. Un tur mai lung vă duce de-a lungul zidurilor vechi ale orașului și apoi coboară la râul Duero pentru o pauză revigorantă. După-amiaza, descoperiți colțurile mai liniștite ale orașului înainte de a vă întoarce la punctul de plecare. Acest traseu combină cultura cu o activitate sportivă ușoară.",
-        "en": "Explore Almazán on two wheels. Start at the main square, cycle through the narrow streets to the historic monuments. A longer tour takes you along the old city walls and then down to the Duero River for a refreshing break. In the afternoon, discover the quieter corners of the city before returning to the starting point. This route combines culture with light sporting activity."
+        "en": "Explore Almazán on two wheels. Start at the main square, cycle through the narrow streets to the historic monuments. A longer tour takes you along the old city walls and then down to the Duero River for a refreshing break. In the afternoon, discover the quieter corners of the city before returning to the starting point. This route combines culture with light sporting activity.",
+        "es": "Explora Almazán sobre dos ruedas. Comienza en la plaza mayor, recorre las calles estrechas hasta los monumentos históricos. Un tour más largo te lleva por las antiguas murallas y luego hasta el Duero para un descanso refrescante. Por la tarde descubre los rincones más tranquilos de la ciudad antes de volver al punto de partida. Esta ruta combina cultura con una ligera actividad deportiva."
       },
       "gastro_picks": {
         "de": [
@@ -880,6 +941,11 @@
           "Ask for bike paths or quiet streets.",
           "Bring a lock for your bike.",
           "A bottle of water is essential under the Castilian sun."
+        ],
+        "es": [
+          "Pregunta por carriles bici o calles tranquilas.",
+          "Lleva un candado para la bicicleta.",
+          "Una botella de agua es esencial bajo el sol castellano."
         ]
       },
       "variants": {
@@ -888,7 +954,8 @@
             "de": "Die Radtour beginnt vorsichtig auf der nassen Plaza Mayor. Wir radeln zügig zu den überdachten Sehenswürdigkeiten wie der Kirche San Miguel. Die Fahrt entlang der Stadtmauern erfordert bei Regen volle Konzentration auf dem rutschigen Untergrund. Der Tag endet mit der Rückgabe der Räder und einem heißen Getränk zum Aufwärmen.",
             "hu": "A biciklitúra óvatosan indul a vizes Plaza Mayoron. Gyorsan tekerünk a fedett látnivalókhoz, mint a San Miguel-templom. A várfal menti tekerés esőben teljes koncentrációt igényel a csúszós talaj miatt. A nap a biciklik leadásával és egy forró, melengető itallal ér véget.",
             "ro": "Turul cu bicicleta începe cu prudență pe Plaza Mayor umedă. Pedalăm rapid spre obiectivele acoperite, cum ar fi biserica San Miguel. Traseul pe lângă zidurile cetății necesită concentrare maximă pe pavajul alunecos. Ziua se încheie cu returnarea bicicletelor și o băutură fierbinte.",
-            "en": "The bike tour starts cautiously on the wet stones of Plaza Mayor. We cycle quickly between sheltered stops like San Miguel. Riding along the city walls in the rain requires full focus on the slippery ground. The day ends with returning the bikes and enjoying a hot, warming drink."
+            "en": "The bike tour starts cautiously on the wet stones of Plaza Mayor. We cycle quickly between sheltered stops like San Miguel. Riding along the city walls in the rain requires full focus on the slippery ground. The day ends with returning the bikes and enjoying a hot, warming drink.",
+            "es": "El tour en bicicleta comienza con precaución sobre las piedras mojadas de la Plaza Mayor. Pedaleamos rápido entre paradas resguardadas como San Miguel. Circular por las murallas con lluvia exige máxima atención por lo resbaladizo del suelo. El día termina devolviendo las bicicletas y disfrutando de una bebida caliente y reconfortante."
           },
           "stops": [
             {
@@ -897,7 +964,8 @@
                 "de": "Prüfen Sie die Bremsen und verlangen Sie eine Regenabdeckung.",
                 "hu": "Ellenőrizze a fékeket és kérjen esővédő huzatot.",
                 "ro": "Verificați frânele și cereți o protecție pentru ploaie.",
-                "en": "Check your brakes and ask for a rain cover for the seat."
+                "en": "Check your brakes and ask for a rain cover for the seat.",
+                "es": "Revisa los frenos y pide una funda impermeable para el sillín."
               }
             },
             {
@@ -906,7 +974,8 @@
                 "de": "Stellen Sie das Rad an einem überdachten Ort ab.",
                 "hu": "Parkoljon le a biciklivel egy fedett részen.",
                 "ro": "Parcați bicicleta într-un loc ferit de ploaie.",
-                "en": "Park your bike in a sheltered spot while visiting."
+                "en": "Park your bike in a sheltered spot while visiting.",
+                "es": "Aparca la bicicleta en un lugar resguardado mientras visitas."
               }
             },
             {
@@ -915,7 +984,8 @@
                 "de": "Reduzieren Sie die Geschwindigkeit auf dem nassen Kopfsteinpflaster.",
                 "hu": "Csökkentse a sebességet a vizes macskaköveken.",
                 "ro": "Reduceți viteza pe pavajul umed de lângă ziduri.",
-                "en": "Reduce your speed significantly on wet cobblestones."
+                "en": "Reduce your speed significantly on wet cobblestones.",
+                "es": "Reduce considerablemente la velocidad en los adoquines húmedos."
               }
             },
             {
@@ -924,7 +994,8 @@
                 "de": "Vorsicht bei Seitenwind auf der Brücke.",
                 "hu": "Vigyázzon az oldalszélre a hídon való áthaladáskor.",
                 "ro": "Atenție la vântul lateral când traversați podul.",
-                "en": "Watch out for crosswinds while crossing the bridge."
+                "en": "Watch out for crosswinds while crossing the bridge.",
+                "es": "Ten cuidado con los vientos cruzados al cruzar el puente."
               }
             },
             {
@@ -933,7 +1004,8 @@
                 "de": "Nutzen Sie den Halt, um Ihre Regenbekleidung zu richten.",
                 "hu": "Használja ki a megállót az esőruházat megigazítására.",
                 "ro": "Folosiți oprirea pentru a vă ajusta echipamentul de ploaie.",
-                "en": "Use this stop to adjust your rain gear if needed."
+                "en": "Use this stop to adjust your rain gear if needed.",
+                "es": "Usa esta parada para ajustar tu ropa de lluvia si hace falta."
               }
             },
             {
@@ -942,7 +1014,8 @@
                 "de": "Trocknen Sie das Rad kurz ab, bevor Sie es abgeben.",
                 "hu": "Törölje át röviden a biciklit leadás előtt.",
                 "ro": "Ștergeți scurt bicicleta înainte de a o returna.",
-                "en": "Give the bike a quick wipe before returning it."
+                "en": "Give the bike a quick wipe before returning it.",
+                "es": "Da una rápida pasada a la bicicleta antes de devolverla."
               }
             }
           ],
@@ -970,6 +1043,12 @@
               "Wear a bright raincoat to ensure better visibility to others.",
               "Mudguards are essential for cycling in this weather.",
               "Watch out for puddles that might be hiding potholes."
+            ],
+            "es": [
+              "Evita frenar de golpe sobre los adoquines mojados.",
+              "Lleva un chubasquero de color llamativo para mejorar tu visibilidad.",
+              "Los guardabarros son esenciales para pedalear en este tiempo.",
+              "Cuidado con los charcos que puedan ocultar baches."
             ]
           }
         },
@@ -978,7 +1057,8 @@
             "de": "Die Wintertour startet erfrischend auf der Plaza Mayor. Das Treten hält uns warm, während wir die historischen Tore ansteuern. Entlang des Duero weht eine kalte Brise, die die Fahrt belebt. Nach der Besichtigung des Klosters La Merced kehren wir zügig ins Zentrum zurück, bevor die Kälte des Abends einsetzt. Ein heißer Tee bildet den perfekten Abschluss.",
             "hu": "A téli túra frissítően indul a Plaza Mayoron. A tekerés melegen tart, miközben a történelmi kapuk felé vesszük az irányt. A Duero mentén hideg szél fúj, ami élénkítővé teszi az utat. A La Merced-kolostor után gyorsan visszatérünk a központba, mielőtt beállna az esti fagy. Egy forró tea tökéletes befejezés.",
             "ro": "Turul de iarnă începe revigorant pe Plaza Mayor. Pedalarea ne menține calzi în timp ce ne îndreptăm spre porțile istorice. O briză rece suflă de-a lungul râului Duero. După vizitarea mănăstirii La Merced, revenim rapid în centru înainte de lăsarea gerului serii. Un ceai fierbinte este finalul perfect.",
-            "en": "The winter ride starts refreshingly on Plaza Mayor. Cycling keeps us warm as we head towards the historic gates. A cold breeze blows along the Duero, making the ride invigorating. After visiting La Merced, we head back to the center before the evening chill sets in. A hot tea is the perfect reward."
+            "en": "The winter ride starts refreshingly on Plaza Mayor. Cycling keeps us warm as we head towards the historic gates. A cold breeze blows along the Duero, making the ride invigorating. After visiting La Merced, we head back to the center before the evening chill sets in. A hot tea is the perfect reward.",
+            "es": "La ruta invernal comienza de forma refrescante en la Plaza Mayor. El pedaleo nos mantiene calientes mientras nos dirigimos a las puertas históricas. Una brisa fría sopla a lo largo del Duero, haciendo el trayecto vigorizante. Tras visitar La Merced, regresamos al centro antes de que llegue el frío de la tarde. Un té caliente es la recompensa perfecta."
           },
           "stops": [
             {
@@ -987,7 +1067,8 @@
                 "de": "Fragen Sie nach einem Schloss, das bei Frost nicht klemmt.",
                 "hu": "Kérjen olyan lakatot, ami fagyban sem ragad be.",
                 "ro": "Cereți un antifurt care nu îngheață la temperaturi joase.",
-                "en": "Ask for a lock that won't jam in freezing temperatures."
+                "en": "Ask for a lock that won't jam in freezing temperatures.",
+                "es": "Pide un candado que no se quede inmóvil a temperaturas de helada."
               }
             },
             {
@@ -996,7 +1077,8 @@
                 "de": "Bewegung hilft gegen die Kälte beim Warten vor dem Einlass.",
                 "hu": "A mozgás segít a hideg ellen a bejutásra várva.",
                 "ro": "Mișcarea ajută împotriva frigului în timp ce așteptați intrarea.",
-                "en": "Keep moving to stay warm while waiting to enter."
+                "en": "Keep moving to stay warm while waiting to enter.",
+                "es": "Mantente en movimiento para entrar en calor mientras esperas para entrar."
               }
             },
             {
@@ -1005,7 +1087,8 @@
                 "de": "Vorsicht vor vereisten Stellen im Schatten der Mauern.",
                 "hu": "Vigyázzon a jeges foltokra a falak árnyékában.",
                 "ro": "Atenție la porțiunile înghețate la umbra zidurilor.",
-                "en": "Watch out for icy patches in the shadows of the walls."
+                "en": "Watch out for icy patches in the shadows of the walls.",
+                "es": "Cuidado con placas de hielo en las sombras de las murallas."
               }
             },
             {
@@ -1014,7 +1097,8 @@
                 "de": "Starker Windchill-Effekt auf dem Rad am Fluss.",
                 "hu": "Erős szélhűtés hatás a biciklin a folyóparton.",
                 "ro": "Efect de vânt tăios pe bicicletă lângă râu.",
-                "en": "High windchill effect while cycling near the river."
+                "en": "High windchill effect while cycling near the river.",
+                "es": "Efecto de sensación térmica fuerte al pedalear cerca del río."
               }
             },
             {
@@ -1023,7 +1107,8 @@
                 "de": "Guter Ort für eine kurze Aufwärmpause.",
                 "hu": "Jó hely egy rövid melegedő szünetre.",
                 "ro": "Un loc bun pentru o scurtă pauză de încălzire.",
-                "en": "A good spot for a quick warm-up break."
+                "en": "A good spot for a quick warm-up break.",
+                "es": "Un buen lugar para una breve pausa de calentamiento."
               }
             },
             {
@@ -1032,7 +1117,8 @@
                 "de": "Geben Sie das Rad rechtzeitig vor Einbruch der Dunkelheit ab.",
                 "hu": "Adja le a biciklit még sötétedés előtt.",
                 "ro": "Returnați bicicleta înainte de lăsarea întunericului.",
-                "en": "Return the bike well before it gets dark."
+                "en": "Return the bike well before it gets dark.",
+                "es": "Devuelve la bicicleta mucho antes de que anochezca."
               }
             }
           ],
@@ -1060,6 +1146,12 @@
               "Watch out for ice patches in shaded narrow streets.",
               "Always check the bike's lights during the winter months.",
               "Drink something warm occasionally to maintain your body heat."
+            ],
+            "es": [
+              "Guantes calientes son esenciales para sujetar el manillar.",
+              "Cuidado con placas de hielo en calles estrechas y en sombra.",
+              "Revisa siempre las luces de la bicicleta durante los meses de invierno.",
+              "Bebe algo caliente de vez en cuando para mantener el calor corporal."
             ]
           }
         }
@@ -1078,7 +1170,8 @@
             "de": "Parkplatz am historischen Zentrum",
             "hu": "Parkoló a történelmi központnál",
             "ro": "Parcare în centrul istoric",
-            "en": "Parking at the Historic Center"
+            "en": "Parking at the Historic Center",
+            "es": "Aparcamiento en el Casco Histórico"
           },
           "coords": [
             -2.536,
@@ -1094,7 +1187,8 @@
             "de": "Parken Sie hier Ihr Auto für den Vormittag und erkunden Sie den ersten Cluster zu Fuß.",
             "hu": "Parkolja le itt az autót a délelőttre, és fedezze fel gyalog az első látnivaló-csoportot.",
             "ro": "Parcați mașina aici pentru dimineață și explorați primul grup de atracții pe jos.",
-            "en": "Park your car here for the morning and explore the first cluster on foot."
+            "en": "Park your car here for the morning and explore the first cluster on foot.",
+            "es": "Aparca aquí por la mañana y explora el primer conjunto a pie."
           }
         },
         {
@@ -1102,7 +1196,8 @@
             "de": "Plaza Mayor & Palast Altamira",
             "hu": "Főtér és Altamira-palota",
             "ro": "Plaza Mayor & Palatul Altamira",
-            "en": "Plaza Mayor & Altamira Palace"
+            "en": "Plaza Mayor & Altamira Palace",
+            "es": "Plaza Mayor y Palacio de Altamira"
           },
           "coords": [
             -2.5332,
@@ -1118,7 +1213,8 @@
             "de": "Der Platz ist das pulsierende Herz der Stadt.",
             "hu": "A tér a város lüktető szíve.",
             "ro": "Piața este inima vibrantă a orașului.",
-            "en": "The square is the vibrant heart of the city."
+            "en": "The square is the vibrant heart of the city.",
+            "es": "La plaza es el corazón vibrante de la ciudad."
           }
         },
         {
@@ -1126,7 +1222,8 @@
             "de": "Kirche San Miguel",
             "hu": "Szent Mihály-templom",
             "ro": "Biserica San Miguel",
-            "en": "Church of San Miguel"
+            "en": "Church of San Miguel",
+            "es": "Iglesia de San Miguel"
           },
           "coords": [
             -2.533,
@@ -1142,7 +1239,8 @@
             "de": "Ein Meisterwerk der Romanik, nur wenige Schritte vom Platz entfernt.",
             "hu": "A román kor mesterműve, csak pár lépésre a tértől.",
             "ro": "O capodoperă a artei romanice, la doar câțiva pași de piață.",
-            "en": "A masterpiece of Romanesque art, just a few steps from the square."
+            "en": "A masterpiece of Romanesque art, just a few steps from the square.",
+            "es": "Una obra maestra del arte románico, a pocos pasos de la plaza."
           }
         },
         {
@@ -1150,7 +1248,8 @@
             "de": "Puerta del Mercado & Mauern",
             "hu": "Piaci kapu és falak",
             "ro": "Poarta Pieței și Zidurile",
-            "en": "Market Gate & Walls"
+            "en": "Market Gate & Walls",
+            "es": "Puerta del Mercado y Murallas"
           },
           "coords": [
             -2.5315,
@@ -1166,7 +1265,8 @@
             "de": "Spüren Sie die Geschichte, während Sie entlang der mittelalterlichen Befestigungsanlagen spazieren.",
             "hu": "Érezze a történelmet, miközben a középkori erődítmények mentén sétál.",
             "ro": "Simțiți istoria în timp ce vă plimbați de-a lungul fortificațiilor medievale.",
-            "en": "Feel the history as you walk along the medieval fortifications."
+            "en": "Feel the history as you walk along the medieval fortifications.",
+            "es": "Siente la historia mientras caminas por las fortificaciones medievales."
           }
         },
         {
@@ -1174,7 +1274,8 @@
             "de": "Parkplatz am Fluss Duero",
             "hu": "Parkoló a Duero folyónál",
             "ro": "Parcare lângă râul Duero",
-            "en": "Parking by the Duero River"
+            "en": "Parking by the Duero River",
+            "es": "Aparcamiento junto al río Duero"
           },
           "coords": [
             -2.532,
@@ -1190,7 +1291,8 @@
             "de": "Fahren Sie zum zweiten Cluster. Hier können Sie zu Mittag essen und am Fluss spazieren gehen.",
             "hu": "Vezessen a második látnivaló-csoporthoz. Itt ebédelhet és sétálhat a folyóparton.",
             "ro": "Conduceți spre al doilea grup de atracții. Aici puteți lua prânzul și vă puteți plimba pe malul râului.",
-            "en": "Drive to the second cluster. You can have lunch here and walk by the river."
+            "en": "Drive to the second cluster. You can have lunch here and walk by the river.",
+            "es": "Conduce hasta el segundo conjunto. Puedes comer aquí y pasear junto al río."
           }
         },
         {
@@ -1198,7 +1300,8 @@
             "de": "Brücke & Eremitage Jesús Nazareno",
             "hu": "Híd és Názáreti Jézus-kápolna",
             "ro": "Podul & Schitul Isus Nazarineanul",
-            "en": "Bridge & Hermitage of Jesús Nazareno"
+            "en": "Bridge & Hermitage of Jesús Nazareno",
+            "es": "Puente y Ermita de Jesús Nazareno"
           },
           "coords": [
             -2.5325,
@@ -1214,7 +1317,8 @@
             "de": "Schließen Sie Ihren Besuch mit einem Spaziergang über die Brücke und einem Besuch der Kapelle ab.",
             "hu": "Zárja a látogatást egy sétával a hídon és a kápolna megtekintésével.",
             "ro": "Încheiați vizita cu o plimbare peste pod și o vizită la schit.",
-            "en": "Conclude your visit with a walk across the bridge and a visit to the hermitage."
+            "en": "Conclude your visit with a walk across the bridge and a visit to the hermitage.",
+            "es": "Concluye la visita con un paseo por el puente y una visita a la ermita."
           }
         }
       ],
@@ -1222,7 +1326,8 @@
         "de": "Mit dem Auto können Sie Almazán bequem in zwei Clustern erkunden. Parken Sie morgens im historischen Zentrum und entdecken Sie die Plaza Mayor und die umliegenden Kirchen zu Fuß. Nach dem Mittagessen fahren Sie zum Ufer des Duero, parken erneut und genießen die ruhige Atmosphäre am Fluss und an der römischen Brücke. Dieser Ansatz kombiniert die Flexibilität des Autos mit entspannten Spaziergängen.",
         "hu": "Autóval kényelmesen felfedezheti Almazánt két látnivaló-csoportban. Reggel parkoljon a történelmi központban, és fedezze fel gyalog a Plaza Mayort és a környező templomokat. Ebéd után vezessen a Duero partjára, parkoljon le újra, és élvezze a folyó és a római híd nyugodt légkörét. Ez a megközelítés ötvözi az autó rugalmasságát a pihentető sétákkal.",
         "ro": "Cu mașina, puteți explora convenabil Almazán în două grupuri de atracții. Parcați dimineața în centrul istoric și descoperiți pe jos Plaza Mayor și bisericile din jur. După prânz, conduceți spre malurile râului Duero, parcați din nou și bucurați-vă de atmosfera liniștită de lângă râu și podul roman. Această abordare combină flexibilitatea mașinii cu plimbări relaxante.",
-        "en": "By car, you can conveniently explore Almazán in two clusters. Park in the historic center in the morning and discover the Plaza Mayor and surrounding churches on foot. After lunch, drive to the banks of the Duero, park again, and enjoy the peaceful atmosphere by the river and the Roman bridge. This approach combines the flexibility of the car with relaxing walks."
+        "en": "By car, you can conveniently explore Almazán in two clusters. Park in the historic center in the morning and discover the Plaza Mayor and surrounding churches on foot. After lunch, drive to the banks of the Duero, park again, and enjoy the peaceful atmosphere by the river and the Roman bridge. This approach combines the flexibility of the car with relaxing walks.",
+        "es": "En coche puedes explorar cómodamente Almazán en dos conjuntos. Aparca en el centro histórico por la mañana y descubre la Plaza Mayor y las iglesias cercanas a pie. Tras el almuerzo, conduce hasta la orilla del Duero, aparca de nuevo y disfruta de la tranquilidad junto al río y del puente romano. Este enfoque combina la flexibilidad del coche con paseos relajantes."
       },
       "gastro_picks": {
         "de": [
@@ -1394,6 +1499,11 @@
           "Look for public parking lots on the edge of the historic center.",
           "The distances are short, but the car helps to separate the two main areas (center and river).",
           "Plan time for finding a parking space, especially in summer."
+        ],
+        "es": [
+          "Busca aparcamientos públicos en el borde del casco histórico.",
+          "Las distancias son cortas, pero el coche ayuda a separar las dos zonas principales (centro y río).",
+          "Planifica tiempo para encontrar plaza, especialmente en verano."
         ]
       },
       "variants": {
@@ -1402,7 +1512,8 @@
             "de": "Wir parken bequem nahe dem Zentrum und nutzen das Auto als Basis bei Regen. Die kurzen Wege zwischen den Sehenswürdigkeiten wie der Plaza Mayor und der Kirche San Miguel sind ideal für Regentage. Am Nachmittag fahren wir zum Flussufer, um den Duero geschützt aus dem Wagen zu betrachten. Der Tag endet entspannt mit einer kurzen Fahrt zum Abendessen.",
             "hu": "Kényelmesen leparkolunk a központ közelében, az autó bázisként szolgál az esőben. A rövid távolságok a Plaza Mayor és a San Miguel-templom között ideálisak esős napokon. Délután a folyóparthoz hajtunk, hogy az autóból nézzük a Duerót. A nap egy rövid autózással és egy kellemes vacsorával zárul.",
             "ro": "Parcăm confortabil aproape de centru, folosind mașina ca bază pe timp de ploaie. Distanțele scurte între Plaza Mayor și biserica San Miguel sunt ideale pentru zilele ploioase. După-amiaza conducem spre malul râului pentru a vedea Duero din confortul mașinii. Ziua se încheie cu o scurtă plimbare spre restaurant.",
-            "en": "We park conveniently near the center, using the car as a dry base. The short distances between Plaza Mayor and San Miguel are perfect for a rainy day. In the afternoon, we drive to the riverbank to view the Duero while staying dry in the vehicle. The day ends with a short drive to a relaxing dinner."
+            "en": "We park conveniently near the center, using the car as a dry base. The short distances between Plaza Mayor and San Miguel are perfect for a rainy day. In the afternoon, we drive to the riverbank to view the Duero while staying dry in the vehicle. The day ends with a short drive to a relaxing dinner.",
+            "es": "Aparcamos cómodamente cerca del centro, usando el coche como base seca. Las cortas distancias entre la Plaza Mayor y San Miguel son ideales para un día de lluvia. Por la tarde conducimos hasta la ribera para ver el Duero manteniéndonos secos en el vehículo. El día termina con un corto trayecto hasta una cena relajante."
           },
           "stops": [
             {
@@ -1411,7 +1522,8 @@
                 "de": "Wählen Sie einen Platz nahe dem befestigten Weg.",
                 "hu": "Válasszon helyet a szilárd burkolatú út közelében.",
                 "ro": "Alegeți un loc de parcare aproape de drumul asfaltat.",
-                "en": "Choose a spot close to the paved path to avoid mud."
+                "en": "Choose a spot close to the paved path to avoid mud.",
+                "es": "Elige un lugar cerca del camino pavimentado para evitar el barro."
               }
             },
             {
@@ -1420,7 +1532,8 @@
                 "de": "Lassen Sie nasse Schirme im Kofferraum.",
                 "hu": "A vizes esernyőket hagyja a csomagtartóban.",
                 "ro": "Lăsați umbrelele ude în portbagaj.",
-                "en": "Leave wet umbrellas in the trunk to keep the cabin dry."
+                "en": "Leave wet umbrellas in the trunk to keep the cabin dry.",
+                "es": "Deja paraguas mojados en el maletero para mantener seco el habitáculo."
               }
             },
             {
@@ -1429,7 +1542,8 @@
                 "de": "Nur kurzer Fußweg vom Auto, ideal bei Schauern.",
                 "hu": "Csak rövid séta az autótól, ideális zápor esetén.",
                 "ro": "Doar o scurtă plimbare de la mașină, ideal pe ploaie.",
-                "en": "Only a short walk from the car, ideal during showers."
+                "en": "Only a short walk from the car, ideal during showers.",
+                "es": "A sólo un corto paseo desde el coche, ideal durante los chaparrones."
               }
             },
             {
@@ -1438,7 +1552,8 @@
                 "de": "Vermeiden Sie das Parken unter alten Bäumen bei Sturm.",
                 "hu": "Viharos esőben ne parkoljon öreg fák alá.",
                 "ro": "Evitați parcarea sub copaci bătrâni în caz de furtună.",
-                "en": "Avoid parking under old trees during heavy storms."
+                "en": "Avoid parking under old trees during heavy storms.",
+                "es": "Evita aparcar bajo árboles antiguos durante tormentas fuertes."
               }
             },
             {
@@ -1447,7 +1562,8 @@
                 "de": "Achten Sie auf weichen Untergrund am Ufer.",
                 "hu": "Ügyeljen a puha talajra a folyóparton.",
                 "ro": "Atenție la terenul moale de pe malul râului.",
-                "en": "Watch out for soft ground near the riverbank."
+                "en": "Watch out for soft ground near the riverbank.",
+                "es": "Cuidado con el terreno blando cerca de la ribera."
               }
             },
             {
@@ -1456,7 +1572,8 @@
                 "de": "Parken Sie so nah wie möglich am Eingang.",
                 "hu": "Parkoljon a lehető legközelebb a bejárathoz.",
                 "ro": "Parcați cât mai aproape de intrare.",
-                "en": "Park as close to the entrance as possible."
+                "en": "Park as close to the entrance as possible.",
+                "es": "Aparca lo más cerca posible de la entrada."
               }
             }
           ],
@@ -1484,6 +1601,12 @@
               "Some unpaved parking areas may become muddy after rain.",
               "Drive with extra caution on wet cobblestone streets.",
               "Keep a towel in the car to dry off between stops."
+            ],
+            "es": [
+              "Usa el desempañador del parabrisas para mantener la visibilidad clara.",
+              "Algunas zonas de aparcamiento sin pavimentar pueden volverse fangosas tras la lluvia.",
+              "Conduce con precaución extra por calles adoquinadas y mojadas.",
+              "Mantén una toalla en el coche para secarte entre paradas."
             ]
           }
         },
@@ -1492,7 +1615,8 @@
             "de": "Die Wintertour mit dem Wagen bietet Wärme und Komfort zwischen den Stopps. Wir parken zentral, um die Plaza Mayor und den Altamira-Palast zu erkunden. Die Fahrt zum Duero-Ufer am Nachmittag zeigt die winterliche Landschaft in klarem Licht. Bevor die Temperaturen am Abend stark sinken, fahren wir zu einem gemütlichen Restaurant im historischen Kern von Almazán.",
             "hu": "A téli autós túra meleget és kényelmet nyújt a megállók között. Központilag parkolunk, hogy felfedezzük a Plaza Mayort és az Altamira-palotát. A délutáni autózás a Duero-partra tiszta fényben mutatja be a téli tájat. Mielőtt az esti hőmérséklet jelentősen visszaesne, egy hangulatos étteremhez hajtunk a történelmi magban.",
             "ro": "Turul de iarnă cu mașina oferă căldură și confort între opriri. Parcăm central pentru a explora Plaza Mayor și Palatul Altamira. Drumul spre malul râului Duero oferă peisaje hibernale în lumină clară. Înainte ca temperaturile să scadă drastic seara, ne îndreptăm spre un restaurant primitor din centrul istoric.",
-            "en": "The winter car tour provides warmth and comfort between each stop. We park centrally to explore the Plaza Mayor and Altamira Palace. The drive to the Duero riverbank in the afternoon showcases the winter landscape in crisp light. Before temperatures drop sharply in the evening, we head to a cozy restaurant in the heart of town."
+            "en": "The winter car tour provides warmth and comfort between each stop. We park centrally to explore the Plaza Mayor and Altamira Palace. The drive to the Duero riverbank in the afternoon showcases the winter landscape in crisp light. Before temperatures drop sharply in the evening, we head to a cozy restaurant in the heart of town.",
+            "es": "El recorrido en coche de invierno ofrece calor y confort entre cada parada. Aparcamos en el centro para explorar la Plaza Mayor y el Palacio de Altamira. El trayecto hasta la ribera del Duero por la tarde muestra el paisaje invernal con luz clara. Antes de que bajen mucho las temperaturas por la noche, nos dirigimos a un restaurante acogedor en el centro."
           },
           "stops": [
             {
@@ -1501,7 +1625,8 @@
                 "de": "Prüfen Sie, ob die Parkflächen geräumt sind.",
                 "hu": "Ellenőrizze, hogy a parkolóhelyek le vannak-e takarítva.",
                 "ro": "Verificați dacă locurile de parcare sunt curățate de zăpadă.",
-                "en": "Check if the parking spaces are cleared of snow or ice."
+                "en": "Check if the parking spaces are cleared of snow or ice.",
+                "es": "Comprueba si las plazas están despejadas de nieve o hielo."
               }
             },
             {
@@ -1510,7 +1635,8 @@
                 "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
                 "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
                 "ro": "Nu lăsați motorul pornit inutil în timp ce staționați.",
-                "en": "Avoid idling the engine unnecessarily while parked."
+                "en": "Avoid idling the engine unnecessarily while parked.",
+                "es": "Evita dejar el motor en marcha innecesariamente mientras estés aparcado."
               }
             },
             {
@@ -1519,7 +1645,8 @@
                 "de": "Vorsicht beim Aussteigen, es könnte glatt sein.",
                 "hu": "Vigyázzon kiszálláskor, a talaj csúszós lehet.",
                 "ro": "Atenție la coborârea din mașină, poate fi alunecos.",
-                "en": "Watch your step when getting out, it might be icy."
+                "en": "Watch your step when getting out, it might be icy.",
+                "es": "Cuidado al salir del coche, puede haber hielo."
               }
             },
             {
@@ -1528,7 +1655,8 @@
                 "de": "Nutzen Sie die Parkplätze mit Sonneneinstrahlung.",
                 "hu": "Használja a naposabb parkolóhelyeket.",
                 "ro": "Folosiți locurile de parcare expuse la soare.",
-                "en": "Try to use parking spots that get direct sunlight."
+                "en": "Try to use parking spots that get direct sunlight.",
+                "es": "Intenta usar plazas que reciban sol directo."
               }
             },
             {
@@ -1537,7 +1665,8 @@
                 "de": "Achten Sie auf gefrorene Pfützen auf der Fahrbahn.",
                 "hu": "Ügyeljen a befagyott tócsákra az úttesten.",
                 "ro": "Atenție la bălțile înghețate de pe carosabil.",
-                "en": "Watch out for frozen puddles on the road surface."
+                "en": "Watch out for frozen puddles on the road surface.",
+                "es": "Cuidado con charcos helados en la superficie de la calzada."
               }
             },
             {
@@ -1546,7 +1675,8 @@
                 "de": "Heizen Sie den Wagen vor der Rückfahrt kurz auf.",
                 "hu": "Melegítse fel kicsit az autót a visszaút előtt.",
                 "ro": "Încălziți puțin mașina înainte de plecare.",
-                "en": "Warm up the car briefly before the return journey."
+                "en": "Warm up the car briefly before the return journey.",
+                "es": "Calienta el coche brevemente antes del viaje de regreso."
               }
             }
           ],
@@ -1574,6 +1704,12 @@
               "Battery performance may decrease in extreme cold.",
               "Be cautious of black ice on the bridge over the Duero.",
               "Keep an ice scraper handy in the vehicle."
+            ],
+            "es": [
+              "Cuidado con la sal de la carretera que puede empañar el parabrisas.",
+              "El rendimiento de la batería puede disminuir con frío extremo.",
+              "Ten precaución con el hielo negro en el puente sobre el Duero.",
+              "Lleva un rascador de hielo en el vehículo."
             ]
           }
         }
@@ -1592,7 +1728,8 @@
             "de": "Ankunft Plaza Mayor (Bus)",
             "hu": "Érkezés a Főtérre (busszal)",
             "ro": "Sosire în Plaza Mayor (autobuz)",
-            "en": "Arrival at Plaza Mayor (Bus)"
+            "en": "Arrival at Plaza Mayor (Bus)",
+            "es": "Llegada a Plaza Mayor (autobús)"
           },
           "coords": [
             -2.5332,
@@ -1608,7 +1745,8 @@
             "de": "Steigen Sie an der zentralen Haltestelle aus, um Ihre Tour zu beginnen.",
             "hu": "Szálljon le a központi megállónál a túra megkezdéséhez.",
             "ro": "Coborâți la stația centrală pentru a începe turul.",
-            "en": "Get off at the central stop to start your tour."
+            "en": "Get off at the central stop to start your tour.",
+            "es": "Bájate en la parada central para comenzar tu recorrido."
           }
         },
         {
@@ -1616,7 +1754,8 @@
             "de": "Cluster Zentrum: Plaza, San Miguel, Palast",
             "hu": "Központi csoport: Főtér, San Miguel, Palota",
             "ro": "Grupul central: Piața, San Miguel, Palatul",
-            "en": "Center Cluster: Plaza, San Miguel, Palace"
+            "en": "Center Cluster: Plaza, San Miguel, Palace",
+            "es": "Conjunto central: Plaza, San Miguel, Palacio"
           },
           "coords": [
             -2.5333,
@@ -1632,7 +1771,8 @@
             "de": "Erkunden Sie die drei Hauptattraktionen im Herzen der Stadt zu Fuß.",
             "hu": "Fedezze fel gyalog a város szívében található három fő látnivalót.",
             "ro": "Explorați pe jos cele trei atracții principale din inima orașului.",
-            "en": "Explore the three main attractions in the heart of the city on foot."
+            "en": "Explore the three main attractions in the heart of the city on foot.",
+            "es": "Explora las tres principales atracciones del corazón de la ciudad a pie."
           }
         },
         {
@@ -1640,7 +1780,8 @@
             "de": "Busfahrt zum Fluss",
             "hu": "Buszozás a folyóhoz",
             "ro": "Călătorie cu autobuzul spre râu",
-            "en": "Bus ride to the river"
+            "en": "Bus ride to the river",
+            "es": "Trayecto en autobús hasta el río"
           },
           "coords": [
             -2.532,
@@ -1656,7 +1797,8 @@
             "de": "Nehmen Sie einen lokalen Bus, um zum zweiten Cluster am Duero-Ufer zu gelangen.",
             "hu": "Menjen egy helyi busszal a Duero-parton lévő második látnivaló-csoporthoz.",
             "ro": "Luați un autobuz local pentru a ajunge la al doilea grup de atracții de pe malul râului Duero.",
-            "en": "Take a local bus to get to the second cluster on the banks of the Duero."
+            "en": "Take a local bus to get to the second cluster on the banks of the Duero.",
+            "es": "Toma un autobús local para llegar al segundo conjunto en la orilla del Duero."
           }
         },
         {
@@ -1664,7 +1806,8 @@
             "de": "Cluster Fluss: Brücke und Eremitage",
             "hu": "Folyóparti csoport: Híd és kápolna",
             "ro": "Grupul râului: Podul și Schitul",
-            "en": "River Cluster: Bridge and Hermitage"
+            "en": "River Cluster: Bridge and Hermitage",
+            "es": "Conjunto ribereño: Puente y Ermita"
           },
           "coords": [
             -2.5325,
@@ -1680,7 +1823,8 @@
             "de": "Genießen Sie die Ruhe am Fluss, bevor Sie die Brücke überqueren.",
             "hu": "Élvezze a folyóparti csendet, mielőtt átkel a hídon.",
             "ro": "Bucurați-vă de liniștea de lângă râu înainte de a traversa podul.",
-            "en": "Enjoy the peace by the river before crossing the bridge."
+            "en": "Enjoy the peace by the river before crossing the bridge.",
+            "es": "Disfruta de la tranquilidad junto al río antes de cruzar el puente."
           }
         },
         {
@@ -1688,7 +1832,8 @@
             "de": "Rückfahrt zum Zentrum (Bus)",
             "hu": "Visszaút a központba (busszal)",
             "ro": "Întoarcere în centru (autobuz)",
-            "en": "Return to the center (Bus)"
+            "en": "Return to the center (Bus)",
+            "es": "Regreso al centro (autobús)"
           },
           "coords": [
             -2.5332,
@@ -1704,7 +1849,8 @@
             "de": "Nehmen Sie den Bus zurück zum Hauptplatz, um Ihren Tag ausklingen zu lassen.",
             "hu": "Menjen vissza busszal a főtérre, hogy lezárja a napot.",
             "ro": "Luați autobuzul înapoi în piața principală pentru a încheia ziua.",
-            "en": "Take the bus back to the main square to end your day."
+            "en": "Take the bus back to the main square to end your day.",
+            "es": "Toma el autobús de vuelta a la plaza mayor para terminar tu día."
           }
         }
       ],
@@ -1712,7 +1858,8 @@
         "de": "Auch mit öffentlichen Verkehrsmitteln lässt sich Almazán gut entdecken. Starten Sie an der Plaza Mayor, erkunden Sie den historischen Kern zu Fuß. Ein kurzer Bus-Hop bringt Sie dann zum Duero-Ufer, wo Sie zu Mittag essen und die römische Brücke bewundern können. Dieser Plan ist ideal für Reisende, die eine autofreie und entspannte Erkundung bevorzugen und die lokalen Gegebenheiten erleben möchten.",
         "hu": "Almazán tömegközlekedéssel is jól felfedezhető. Induljon a Plaza Mayortól, fedezze fel gyalog a történelmi központot. Egy rövid buszozás elviszi a Duero partjára, ahol megebédelhet és megcsodálhatja a római hidat. Ez a terv ideális azoknak az utazóknak, akik autómentes, pihentető felfedezésre vágynak, és szeretnék megtapasztalni a helyi viszonyokat.",
         "ro": "Almazán poate fi explorat cu ușurință și cu transportul public. Începeți din Plaza Mayor, explorați centrul istoric pe jos. O scurtă călătorie cu autobuzul vă va duce apoi pe malul râului Duero, unde puteți lua prânzul și admira podul roman. Acest plan este ideal pentru călătorii care preferă o explorare relaxată, fără mașină, și doresc să experimenteze condițiile locale.",
-        "en": "Almazán is also easy to explore by public transport. Start at the Plaza Mayor, explore the historic core on foot. A short bus hop will then take you to the banks of the Duero, where you can have lunch and admire the Roman bridge. This plan is ideal for travelers who prefer a car-free, relaxed exploration and want to experience local conditions."
+        "en": "Almazán is also easy to explore by public transport. Start at the Plaza Mayor, explore the historic core on foot. A short bus hop will then take you to the banks of the Duero, where you can have lunch and admire the Roman bridge. This plan is ideal for travelers who prefer a car-free, relaxed exploration and want to experience local conditions.",
+        "es": "Almazán también es fácil de recorrer en transporte público. Empieza en la Plaza Mayor y explora a pie el casco histórico. Un corto trayecto en autobús te llevará a orillas del Duero, donde puedes almorzar y admirar el puente romano. Este plan es ideal para quienes prefieren una exploración relajada sin coche y desean experimentar la vida local."
       },
       "gastro_picks": {
         "de": [
@@ -1884,6 +2031,11 @@
           "Find out about the local bus schedules in advance.",
           "Buy a day ticket if available.",
           "Plan for waiting times at the stops, as buses may run less frequently in small towns."
+        ],
+        "es": [
+          "Infórmate con antelación sobre los horarios de los autobuses locales.",
+          "Compra un billete de día si está disponible.",
+          "Cuenta con tiempos de espera en las paradas, ya que los autobuses pueden pasar con menor frecuencia en pueblos pequeños."
         ]
       },
       "variants": {
@@ -1892,7 +2044,8 @@
             "de": "Mit dem Bus erreichen wir die Plaza Mayor trocken und sicher. Den Vormittag verbringen wir in der Nähe der Haltestelle bei den zentralen Monumenten. Eine kurze Busfahrt bringt uns zum Flussufer, wobei wir die Regenschauer aus dem Fenster beobachten. Am späten Nachmittag kehren wir mit dem öffentlichen Verkehr ins Zentrum zurück und genießen ein gemütliches Abendessen.",
             "hu": "Busszal szárazon és biztonságban érjük el a Plaza Mayort. A délelőttöt a megálló közeli központi műemlékeknél töltjük. Egy rövid buszozás elvisz a folyópartra, miközben az ablakból nézzük az esőt. Késő délután tömegközlekedéssel térünk vissza a központba egy hangulatos vacsorára.",
             "ro": "Cu autobuzul ajungem la Plaza Mayor uscați și în siguranță. Petrecem dimineața la monumentele centrale din apropierea stației. O scurtă călătorie cu autobuzul ne duce la malul râului, privind ploaia pe geam. După-amiaza târziu revenim în centru cu transportul public pentru cină.",
-            "en": "The bus gets us to Plaza Mayor safely and dryly. We spend the morning exploring monuments near the stop. A short bus ride takes us to the riverbank, offering a rainy view from the window. In the late afternoon, we return to the center by public transit for a cozy dinner."
+            "en": "The bus gets us to Plaza Mayor safely and dryly. We spend the morning exploring monuments near the stop. A short bus ride takes us to the riverbank, offering a rainy view from the window. In the late afternoon, we return to the center by public transit for a cozy dinner.",
+            "es": "El autobús nos deja en la Plaza Mayor secos y a salvo. Pasamos la mañana explorando monumentos cerca de la parada. Un corto viaje en autobús nos lleva hasta la ribera, ofreciendo una vista lluviosa desde la ventana. A última hora de la tarde volvemos al centro en transporte público para una cena acogedora."
           },
           "stops": [
             {
@@ -1901,7 +2054,8 @@
                 "de": "Warten Sie unter dem Unterstand der Haltestelle.",
                 "hu": "Várjon a buszmegálló fedett várójában.",
                 "ro": "Așteptați sub copertina stației de autobuz.",
-                "en": "Wait under the bus stop shelter to stay dry."
+                "en": "Wait under the bus stop shelter to stay dry.",
+                "es": "Espera bajo la marquesina de la parada para mantenerte seco."
               }
             },
             {
@@ -1910,7 +2064,8 @@
                 "de": "Alle Ziele sind nah beieinander, kaum Regenzeit im Freien.",
                 "hu": "Minden közel van, minimális időt kell kint tölteni.",
                 "ro": "Toate obiectivele sunt aproape, minimizând expunerea.",
-                "en": "All sites are close together, minimizing time in the rain."
+                "en": "All sites are close together, minimizing time in the rain.",
+                "es": "Todos los lugares están cerca entre sí, minimizando el tiempo bajo la lluvia."
               }
             },
             {
@@ -1919,7 +2074,8 @@
                 "de": "Nutzen Sie die Fahrtzeit, um die Kleidung auszuschütteln.",
                 "hu": "Használja ki az utazási időt a ruházat lerázására.",
                 "ro": "Folosiți timpul călătoriei pentru a vă scutura hainele.",
-                "en": "Use the travel time to shake off excess rain from your coat."
+                "en": "Use the travel time to shake off excess rain from your coat.",
+                "es": "Aprovecha el tiempo de viaje para sacudir el exceso de agua del abrigo."
               }
             },
             {
@@ -1928,7 +2084,8 @@
                 "de": "Prüfen Sie die Rückfahrzeiten bei Regen wegen Verspätungen.",
                 "hu": "Esőben ellenőrizze a visszaindulást az esetleges késések miatt.",
                 "ro": "Verificați orele de întoarcere pentru eventuale întârzieri.",
-                "en": "Check return times as rain might cause minor delays."
+                "en": "Check return times as rain might cause minor delays.",
+                "es": "Consulta las horas de regreso, ya que la lluvia puede causar pequeños retrasos."
               }
             },
             {
@@ -1937,7 +2094,8 @@
                 "de": "Ein trockener Platz im Bus ist nach dem Flussgang ideal.",
                 "hu": "A busz száraz ülése ideális a folyóparti séta után.",
                 "ro": "Un loc uscat în autobuz este ideal după plimbarea la râu.",
-                "en": "A dry seat on the bus is welcome after the riverside walk."
+                "en": "A dry seat on the bus is welcome after the riverside walk.",
+                "es": "Un asiento seco en el autobús se agradece tras el paseo junto al río."
               }
             }
           ],
@@ -1965,6 +2123,12 @@
               "Buses may experience slight delays during heavy downpours.",
               "Bus stops often provide only limited protection from rain.",
               "Watch out for slippery floors inside the buses."
+            ],
+            "es": [
+              "Mantén el billete a mano para evitar buscarlo bajo la lluvia.",
+              "Los autobuses pueden sufrir pequeños retrasos durante fuertes aguaceros.",
+              "Las paradas de autobús suelen ofrecer solo protección limitada contra la lluvia.",
+              "Cuidado con los suelos resbaladizos dentro de los autobuses."
             ]
           }
         },
@@ -1973,7 +2137,8 @@
             "de": "Der Bus bringt uns am klaren Wintermorgen direkt ins Herz von Almazán. Wir erkunden die monumentale Plaza Mayor und wärmen uns in den nahegelegenen Gebäuden auf. Die Fahrt zum Fluss ist kurz und bietet Schutz vor dem kalten Wind. Bevor es dunkel wird, nehmen wir den Bus zurück ins Zentrum für einen warmen Abendausklang.",
             "hu": "A busz közvetlenül Almazán szívébe visz minket a tiszta téli reggelen. Felfedezzük a monumentális Plaza Mayort, és felmelegedünk a közeli épületekben. A folyóhoz vezető út rövid, és védelmet nyújt a hideg szél ellen. Sötétedés előtt busszal térünk vissza a központba egy meleg esti zárásra.",
             "ro": "Autobuzul ne duce direct în inima orașului Almazán în dimineața rece. Explorăm Plaza Mayor și ne încălzim în clădirile din apropiere. Drumul spre râu este scurt și oferă protecție împotriva vântului înghețat. Înainte de lăsarea serii, luăm autobuzul înapoi spre centru.",
-            "en": "The bus takes us straight to the heart of Almazán on a crisp winter morning. We explore the monumental Plaza Mayor and warm up inside nearby buildings. The ride to the river is short and provides shelter from the cold wind. Before dark, we take the bus back to the center for a warm evening."
+            "en": "The bus takes us straight to the heart of Almazán on a crisp winter morning. We explore the monumental Plaza Mayor and warm up inside nearby buildings. The ride to the river is short and provides shelter from the cold wind. Before dark, we take the bus back to the center for a warm evening.",
+            "es": "El autobús nos lleva al corazón de Almazán en una fresca mañana invernal. Recorremos la monumental Plaza Mayor y nos calentamos en los edificios cercanos. El trayecto hasta el río es corto y protege del viento frío. Antes del anochecer, tomamos el autobús de vuelta al centro para una velada cálida."
           },
           "stops": [
             {
@@ -1982,7 +2147,8 @@
                 "de": "Die Busse sind im Winter meist gut beheizt.",
                 "hu": "A buszok télen általában jól fűtöttek.",
                 "ro": "Autobuzele sunt de obicei bine încălzite iarna.",
-                "en": "Buses are usually well-heated during the winter months."
+                "en": "Buses are usually well-heated during the winter months.",
+                "es": "Los autobuses suelen estar bien calefactados durante los meses de invierno."
               }
             },
             {
@@ -1991,7 +2157,8 @@
                 "de": "Kurze Wege verhindern das Auskühlen zwischen den Stopps.",
                 "hu": "A rövid távok megakadályozzák a kihűlést a megállók között.",
                 "ro": "Distanțele scurte previn răcirea între obiective.",
-                "en": "Short distances prevent getting too cold between stops."
+                "en": "Short distances prevent getting too cold between stops.",
+                "es": "Las distancias cortas evitan que pases demasiado frío entre paradas."
               }
             },
             {
@@ -2000,7 +2167,8 @@
                 "de": "Genießen Sie den Blick auf die frostige Landschaft.",
                 "hu": "Élvezze a kilátást a zúzmarás tájra.",
                 "ro": "Bucurați-vă de priveliștea peisajului înghețat.",
-                "en": "Enjoy the view of the frosty landscape from the bus."
+                "en": "Enjoy the view of the frosty landscape from the bus.",
+                "es": "Disfruta de la vista del paisaje helado desde el autobús."
               }
             },
             {
@@ -2009,7 +2177,8 @@
                 "de": "Warten Sie im Windschatten der Gebäude auf den Bus.",
                 "hu": "Várjon a buszra az épületek szélárnyékában.",
                 "ro": "Așteptați autobuzul la adăpostul clădirilor.",
-                "en": "Wait for the bus in the wind shadow of nearby buildings."
+                "en": "Wait for the bus in the wind shadow of nearby buildings.",
+                "es": "Espera el autobús a la sombra del viento de los edificios cercanos."
               }
             },
             {
@@ -2018,7 +2187,8 @@
                 "de": "Nutzen Sie den letzten Bus vor dem frühen Sonnenuntergang.",
                 "hu": "Használja az utolsó buszt a korai naplemente előtt.",
                 "ro": "Folosiți ultimul autobuz înainte de apusul devreme.",
-                "en": "Take the last convenient bus before the early sunset."
+                "en": "Take the last convenient bus before the early sunset.",
+                "es": "Toma el último autobús conveniente antes de la puesta de sol temprana."
               }
             }
           ],
@@ -2046,6 +2216,12 @@
               "Buses may travel more slowly in icy road conditions.",
               "Wear warm boots for the time spent waiting at stops.",
               "Watch out for reduced service schedules during holidays."
+            ],
+            "es": [
+              "Planifica tus trayectos para minimizar el tiempo de espera al aire libre.",
+              "Los autobuses pueden circular más despacio con carreteras heladas.",
+              "Lleva botas calientes para el tiempo de espera en las paradas.",
+              "Atento a los horarios reducidos de servicio en festivos."
             ]
           }
         }

@@ -31,7 +31,8 @@
             "de": "Beobachten Sie die Fischerboote am Morgen.",
             "hu": "Figyeld a halászhajókat reggel.",
             "ro": "Urmăriți bărcile de pescuit dimineața.",
-            "en": "Watch the fishing boats in the morning."
+            "en": "Watch the fishing boats in the morning.",
+            "es": "Observa los barcos de pesca por la mañana."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Perfekt zum Schnorcheln in klarem Wasser.",
             "hu": "Tökéletes hely a sznorkelezéshez.",
             "ro": "Perfect pentru snorkeling în apă limpede.",
-            "en": "Perfect for snorkeling in clear water."
+            "en": "Perfect for snorkeling in clear water.",
+            "es": "Perfecto para buceo con snorkel en aguas limpias."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Besuchen Sie das Open-Air-Kino am Abend.",
             "hu": "Látogass el a szabadtéri moziba este.",
             "ro": "Vizitați cinematograful în aer liber seara.",
-            "en": "Visit the open-air cinema in the evening."
+            "en": "Visit the open-air cinema in the evening.",
+            "es": "Visita el cine al aire libre por la noche."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Der größte und beliebteste Strand der Stadt.",
             "hu": "A város legnagyobb és legnépsérebb strandja.",
             "ro": "Cea mai mare și populară plajă din oraș.",
-            "en": "The city's largest and most popular beach."
+            "en": "The city's largest and most popular beach.",
+            "es": "La playa más grande y popular de la ciudad."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Ein schöner Ort für ein Foto an der Promenade.",
             "hu": "Szép fotóhelyszín a sétányon.",
             "ro": "Un loc frumos pentru fotografii pe faleză.",
-            "en": "A beautiful spot for a photo on the promenade."
+            "en": "A beautiful spot for a photo on the promenade.",
+            "es": "Un lugar precioso para una foto en el paseo."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Genießen Sie die lebendige Atmosphäre beim Gehen.",
             "hu": "Élvezd a nyüzsgő hangulatot séta közben.",
             "ro": "Bucurați-vă de atmosfera vibrantă în timp ce mergeți.",
-            "en": "Enjoy the lively atmosphere as you walk."
+            "en": "Enjoy the lively atmosphere as you walk.",
+            "es": "Disfruta del ambiente animado mientras paseas."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Erkunden Sie Puerto del Carmen zu Fuß, beginnend im charmanten alten Hafenviertel El Varadero. Über die malerische Playa Chica führt der Weg zur Biosfera Plaza und schließlich zur endlosen Playa Grande. Den Tag beenden Sie auf der pulsierenden Avenida de las Playas, dem Herzstück des Tourismus auf Lanzarote.",
         "hu": "Fedezze fel Puerto del Carment gyalogosan, a bájos El Varadero régi kikötőnegyedből indulva. A festői Playa Chicán keresztül az út a Biosfera Plazához, majd a végtelen Playa Grandéhoz vezet. A napot a lüktető Avenida de las Playason zárja, amely Lanzarote turizmusának központja.",
         "ro": "Explorați Puerto del Carmen la pas, începând din cartierul fermecător al portului vechi, El Varadero. Prin pitoreasca Playa Chica, drumul duce la Biosfera Plaza și în final la nesfârșita Playa Grande. Încheiați ziua pe vibranta Avenida de las Playas, inima turismului din Lanzarote.",
-        "en": "Explore Puerto del Carmen on foot, starting in the charming old harbor district of El Varadero. Via the picturesque Playa Chica, the path leads to Biosfera Plaza and finally to the endless Playa Grande. End the day on the pulsing Avenida de las Playas, the heart of tourism in Lanzarote."
+        "en": "Explore Puerto del Carmen on foot, starting in the charming old harbor district of El Varadero. Via the picturesque Playa Chica, the path leads to Biosfera Plaza and finally to the endless Playa Grande. End the day on the pulsing Avenida de las Playas, the heart of tourism in Lanzarote.",
+        "es": "Explora Puerto del Carmen a pie, empezando en el encantador barrio portuario de El Varadero. Por la pintoresca Playa Chica, el camino conduce a Biosfera Plaza y, finalmente, a la extensa Playa Grande. Termina el día en la vibrante Avenida de las Playas, el corazón turístico de Lanzarote."
       },
       "gastro_picks": {
         "de": [
@@ -233,6 +240,11 @@
           "Wear comfortable shoes for the long promenade.",
           "Sun protection is a must, there's little shade.",
           "The Avenida is liveliest in the evening."
+        ],
+        "es": [
+          "Lleva calzado cómodo para el largo paseo.",
+          "La protección solar es imprescindible; hay poca sombra.",
+          "La Avenida está más animada por la noche."
         ]
       },
       "variants": {
@@ -241,7 +253,8 @@
             "de": "Erkunden Sie Puerto del Carmen zu Fuß, beginnend im charmanten alten Hafenviertel El Varadero. Über die malerische Playa Chica führt der Weg zur Biosfera Plaza und schließlich zur endlosen Playa Grande. Den Tag beenden Sie auf der pulsierenden Avenida de las Playas, dem Herzstück des Tourismus auf Lanzarote.",
             "hu": "Fedezze fel Puerto del Carment gyalogosan, a bájos El Varadero régi kikötőnegyedből indulva. A festői Playa Chicán keresztül az út a Biosfera Plazához, majd a végtelen Playa Grandéhoz vezet. A napot a lüktető Avenida de las Playason zárja, amely Lanzarote turizmusának központja.",
             "ro": "Explorați Puerto del Carmen la pas, începând din cartierul fermecător al portului vechi, El Varadero. Prin pitoreasca Playa Chica, drumul duce la Biosfera Plaza și în final la nesfârșita Playa Grande. Încheiați ziua pe vibranta Avenida de las Playas, inima turismului din Lanzarote.",
-            "en": "Explore Puerto del Carmen on foot, starting in the charming old harbor district of El Varadero. Via the picturesque Playa Chica, the path leads to Biosfera Plaza and finally to the endless Playa Grande. End the day on the pulsing Avenida de las Playas, the heart of tourism in Lanzarote."
+            "en": "Explore Puerto del Carmen on foot, starting in the charming old harbor district of El Varadero. Via the picturesque Playa Chica, the path leads to Biosfera Plaza and finally to the endless Playa Grande. End the day on the pulsing Avenida de las Playas, the heart of tourism in Lanzarote.",
+            "es": "Explora Puerto del Carmen a pie, empezando en el encantador barrio portuario de El Varadero. Por la pintoresca Playa Chica, el camino conduce a Biosfera Plaza y, finalmente, a la extensa Playa Grande. Termina el día en la vibrante Avenida de las Playas, el corazón turístico de Lanzarote."
           },
           "stops": [
             {
@@ -250,7 +263,8 @@
                 "de": "Beobachten Sie die Fischerboote am Morgen.",
                 "hu": "Figyeld a halászhajókat reggel.",
                 "ro": "Urmăriți bărcile de pescuit dimineața.",
-                "en": "Watch the fishing boats in the morning."
+                "en": "Watch the fishing boats in the morning.",
+                "es": "Observa los barcos de pesca por la mañana."
               }
             },
             {
@@ -259,7 +273,8 @@
                 "de": "Perfekt zum Schnorcheln in klarem Wasser.",
                 "hu": "Tökéletes hely a sznorkelezéshez.",
                 "ro": "Perfect pentru snorkeling în apă limpede.",
-                "en": "Perfect for snorkeling in clear water."
+                "en": "Perfect for snorkeling in clear water.",
+                "es": "Perfecto para buceo con snorkel en aguas limpias."
               }
             },
             {
@@ -268,7 +283,8 @@
                 "de": "Besuchen Sie das Open-Air-Kino am Abend.",
                 "hu": "Látogass el a szabadtéri moziba este.",
                 "ro": "Vizitați cinematograful în aer liber seara.",
-                "en": "Visit the open-air cinema in the evening."
+                "en": "Visit the open-air cinema in the evening.",
+                "es": "Visita el cine al aire libre por la noche."
               }
             },
             {
@@ -277,7 +293,8 @@
                 "de": "Der größte und beliebteste Strand der Stadt.",
                 "hu": "A város legnagyobb és legnépsérebb strandja.",
                 "ro": "Cea mai mare și populară plajă din oraș.",
-                "en": "The city's largest and most popular beach."
+                "en": "The city's largest and most popular beach.",
+                "es": "La playa más grande y popular de la ciudad."
               }
             },
             {
@@ -286,7 +303,8 @@
                 "de": "Ein schöner Ort für ein Foto an der Promenade.",
                 "hu": "Szép fotóhelyszín a sétányon.",
                 "ro": "Un loc frumos pentru fotografii pe faleză.",
-                "en": "A beautiful spot for a photo on the promenade."
+                "en": "A beautiful spot for a photo on the promenade.",
+                "es": "Un lugar precioso para una foto en el paseo."
               }
             },
             {
@@ -295,7 +313,8 @@
                 "de": "Genießen Sie die lebendige Atmosphäre beim Gehen.",
                 "hu": "Élvezd a nyüzsgő hangulatot séta közben.",
                 "ro": "Bucurați-vă de atmosfera vibrantă în timp ce mergeți.",
-                "en": "Enjoy the lively atmosphere as you walk."
+                "en": "Enjoy the lively atmosphere as you walk.",
+                "es": "Disfruta del ambiente animado mientras paseas."
               }
             }
           ],
@@ -401,6 +420,11 @@
               "Wear comfortable shoes for the long promenade.",
               "Sun protection is a must, there's little shade.",
               "The Avenida is liveliest in the evening."
+            ],
+            "es": [
+              "Lleva calzado cómodo para el largo paseo.",
+              "La protección solar es imprescindible; hay poca sombra.",
+              "La Avenida está más animada por la noche."
             ]
           }
         },
@@ -409,7 +433,8 @@
             "de": "Morgens am El Varadero suchen wir Schutz unter den Arkaden der Fischerhäuser. Die Playa Chica bietet bei Regen eine dramatische Aussicht auf das aufgewühlte Meer. Mittags ist das Biosfera Plaza der ideale Ort, um trocken zu bleiben und die Geschäfte zu erkunden. Nachmittags spazieren wir vorsichtig entlang der Playa Grande, wo viele Cafés überdachte Terrassen bieten. Abends endet die Tour an der Avenida, wo die Lichter der Stadt im nassen Asphalt glänzen.",
             "hu": "Reggel az El Varadero halászházai közötti árkádok alatt találunk menedéket. A Playa Chica esőben is lenyűgöző látványt nyújt a haragos tengerrel. Délben a Biosfera Plaza a legjobb hely, ahol szárazon maradhatunk és vásárolhatunk. Délután óvatosan sétálunk a Playa Grande mentén, kihasználva a kávézók fedett teraszait. Este az Avenida fényei csillognak a vizes aszfalton, zárva a napot.",
             "ro": "Dimineața în El Varadero căutăm adăpost sub arcadele caselor de pescari. Playa Chica oferă o priveliște dramatică asupra mării agitate în timpul ploii. La prânz, Biosfera Plaza este locul ideal pentru a rămâne uscați și a explora magazinele. După-amiaza ne plimbăm cu grijă de-a lungul Playa Grande, profitând de terasele acoperite ale cafenelelor. Seara se încheie pe Avenida, unde luminile orașului strălucesc pe asfaltul umed.",
-            "en": "In the morning at El Varadero, we find shelter under the arches of the fishermen's houses. Playa Chica offers a dramatic view of the choppy sea during the rain. At noon, Biosfera Plaza is the ideal place to stay dry and explore the shops. In the afternoon, we walk carefully along Playa Grande, taking advantage of the cafes' covered terraces. The evening ends at the Avenida, where the city lights glisten on the wet asphalt."
+            "en": "In the morning at El Varadero, we find shelter under the arches of the fishermen's houses. Playa Chica offers a dramatic view of the choppy sea during the rain. At noon, Biosfera Plaza is the ideal place to stay dry and explore the shops. In the afternoon, we walk carefully along Playa Grande, taking advantage of the cafes' covered terraces. The evening ends at the Avenida, where the city lights glisten on the wet asphalt.",
+            "es": "Por la mañana, en El Varadero, nos refugamos bajo los arcos de las casas de los pescadores. Playa Chica ofrece una vista dramática del mar picado durante la lluvia. Al mediodía, Biosfera Plaza es el lugar ideal para resguardarse y explorar tiendas. Por la tarde, caminamos con cuidado por Playa Grande, aprovechando las terrazas cubiertas de las cafeterías. La noche termina en la Avenida, donde las luces de la ciudad brillan sobre el asfalto mojado."
           },
           "stops": [
             {
@@ -418,7 +443,8 @@
                 "de": "Unter den Vordächern der Restaurants bleiben Sie trocken.",
                 "hu": "Az éttermek előtetői alatt szárazon maradhat.",
                 "ro": "Rămâneți uscat sub copertinele restaurantelor.",
-                "en": "Stay dry under the restaurant awnings."
+                "en": "Stay dry under the restaurant awnings.",
+                "es": "Mantente seco bajo los toldos de los restaurantes."
               }
             },
             {
@@ -427,7 +453,8 @@
                 "de": "Die Felsen können bei Nässe sehr rutschig sein.",
                 "hu": "A sziklák nedvesen nagyon csúszósak lehetnek.",
                 "ro": "Stâncile pot fi foarte alunecoase când sunt ude.",
-                "en": "The rocks can be very slippery when wet."
+                "en": "The rocks can be very slippery when wet.",
+                "es": "Las rocas pueden estar muy resbaladizas cuando están mojadas."
               }
             },
             {
@@ -436,7 +463,8 @@
                 "de": "Perfekter Ort für eine längere Pause im Trockenen.",
                 "hu": "Tökéletes hely egy hosszabb szünethez a szárazon.",
                 "ro": "Loc perfect pentru o pauză lungă la uscat.",
-                "en": "Perfect place for a long break in the dry."
+                "en": "Perfect place for a long break in the dry.",
+                "es": "Lugar perfecto para una larga parada en seco."
               }
             },
             {
@@ -445,7 +473,8 @@
                 "de": "Nutzen Sie die Arkaden entlang der Ladenzeile.",
                 "hu": "Használja az üzletsor menti árkádokat.",
                 "ro": "Folosiți arcadele de-a lungul rândului de magazine.",
-                "en": "Use the arches along the shopping row."
+                "en": "Use the arches along the shopping row.",
+                "es": "Utiliza los arcos a lo largo de la zona comercial."
               }
             },
             {
@@ -454,7 +483,8 @@
                 "de": "Kurzer Fotostopp, dann schnell ins nächste Café.",
                 "hu": "Gyors fotó, aztán irány a következő kávézó.",
                 "ro": "O oprire rapidă pentru poze, apoi spre cafenea.",
-                "en": "Quick photo stop, then head to the next cafe."
+                "en": "Quick photo stop, then head to the next cafe.",
+                "es": "Parada rápida para foto y luego al siguiente café."
               }
             },
             {
@@ -463,7 +493,8 @@
                 "de": "Die glitzernde Promenade ist ideal für Regenfotos.",
                 "hu": "A csillogó sétány ideális esős fotókhoz.",
                 "ro": "Promenada strălucitoare este ideală pentru poze.",
-                "en": "The glistening promenade is ideal for rain photos."
+                "en": "The glistening promenade is ideal for rain photos.",
+                "es": "El paseo reluciente es ideal para fotos con lluvia."
               }
             }
           ],
@@ -491,6 +522,12 @@
               "Wear shoes with good grip due to slippery tiles.",
               "Biosfera Plaza shopping center is the best refuge.",
               "Enjoy the sea view from one of the glass-walled cafes."
+            ],
+            "es": [
+              "Lleva un paraguas resistente porque suele hacer viento.",
+              "Usa calzado con buen agarre por losetas resbaladizas.",
+              "El centro comercial Biosfera Plaza es el mejor refugio.",
+              "Disfruta de la vista al mar desde una de las cafeterías con paredes de cristal."
             ]
           }
         },
@@ -499,7 +536,8 @@
             "de": "Der winterliche Morgen im Hafen ist erfrischend, während die Sonne sanft die Boote wärmt. An der Playa Chica genießen wir das klare Wasser, das auch jetzt Taucher anzieht. Mittags bietet das Biosfera Plaza Schutz vor dem kühlen Wind, während wir die Aussicht genießen. Am Nachmittag ist der Sand der Playa Grande ideal für einen ausgiebigen Spaziergang in der milden Wintersonne. Der Tag endet früh mit einem spektakulären Sonnenuntergang an der Avenida.",
             "hu": "A téli reggel a kikötőben frissítő, miközben a nap lágyan melengeti a hajókat. A Playa Chica tiszta vize ilyenkor is vonzza a búvárokat. Délben a Biosfera Plaza védelmet nyújt a hűvös szél ellen, miközben élvezzük a kilátást. Délután a Playa Grande homokja ideális egy hosszú sétához a gyenge téli napsütésben. A nap korán ér véget egy látványos naplementével az Avenidán.",
             "ro": "Dimineața de iarnă în port este revigorantă, în timp ce soarele încălzește blând bărcile. La Playa Chica ne bucurăm de apa limpede care atrage scafandrii și acum. La prânz, Biosfera Plaza oferă protecție împotriva vântului răcoros în timp ce admirăm priveliștea. După-amiaza, nisipul de la Playa Grande este ideal pentru o plimbare lungă în soarele blând de iarnă. Ziua se încheie devreme cu un apus spectaculos pe Avenida.",
-            "en": "The winter morning in the harbor is refreshing as the sun gently warms the boats. At Playa Chica, we enjoy the clear water that still attracts divers even now. At noon, Biosfera Plaza provides shelter from the cool wind while we enjoy the views. In the afternoon, the sand of Playa Grande is ideal for a long walk in the mild winter sun. The day ends early with a spectacular sunset at the Avenida."
+            "en": "The winter morning in the harbor is refreshing as the sun gently warms the boats. At Playa Chica, we enjoy the clear water that still attracts divers even now. At noon, Biosfera Plaza provides shelter from the cool wind while we enjoy the views. In the afternoon, the sand of Playa Grande is ideal for a long walk in the mild winter sun. The day ends early with a spectacular sunset at the Avenida.",
+            "es": "La mañana invernal en el puerto es reconfortante mientras el sol calienta suavemente las embarcaciones. En Playa Chica disfrutamos del agua clara que aún atrae a los buceadores. Al mediodía, Biosfera Plaza ofrece abrigo del viento fresco mientras contemplamos las vistas. Por la tarde, la arena de Playa Grande es ideal para una larga caminata bajo el suave sol invernal. El día termina pronto con un espectacular atardecer en la Avenida."
           },
           "stops": [
             {
@@ -508,7 +546,8 @@
                 "de": "Die Morgensonne im Hafen ist besonders mild.",
                 "hu": "A reggeli nap a kikötőben különösen lágy.",
                 "ro": "Soarele de dimineață în port este deosebit de blând.",
-                "en": "The morning sun in the harbor is particularly mild."
+                "en": "The morning sun in the harbor is particularly mild.",
+                "es": "El sol de la mañana en el puerto es particularmente suave."
               }
             },
             {
@@ -517,7 +556,8 @@
                 "de": "Das Wasser ist klar, ideal zum Beobachten von Fischen.",
                 "hu": "A víz tiszta, ideális a halak megfigyeléséhez.",
                 "ro": "Apa este limpede, ideală pentru observarea peștilor.",
-                "en": "The water is clear, ideal for spotting fish."
+                "en": "The water is clear, ideal for spotting fish.",
+                "es": "El agua es clara, ideal para ver peces."
               }
             },
             {
@@ -526,7 +566,8 @@
                 "de": "Vom Obergeschoss hat man eine windgeschützte Aussicht.",
                 "hu": "A felső emeletről szélvédett kilátás nyílik.",
                 "ro": "De la etajul superior aveți o vedere ferită de vânt.",
-                "en": "From the upper floor, you have a wind-protected view."
+                "en": "From the upper floor, you have a wind-protected view.",
+                "es": "Desde la planta superior tienes una vista protegida del viento."
               }
             },
             {
@@ -535,7 +576,8 @@
                 "de": "Ideal für Barfußspaziergänge im kühlen Sand.",
                 "hu": "Ideális mezítlábas sétákhoz a hűvös homokban.",
                 "ro": "Ideal pentru plimbări desculț în nisipul răcoros.",
-                "en": "Ideal for barefoot walks in the cool sand."
+                "en": "Ideal for barefoot walks in the cool sand.",
+                "es": "Ideal para paseos descalzos en la arena fresca."
               }
             },
             {
@@ -544,7 +586,8 @@
                 "de": "Das goldene Licht am späten Nachmittag nutzen.",
                 "hu": "Használja ki a késő délutáni aranyfényeket.",
                 "ro": "Profitați de lumina aurie de după-amiază târziu.",
-                "en": "Take advantage of the late afternoon golden light."
+                "en": "Take advantage of the late afternoon golden light.",
+                "es": "Aprovecha la luz dorada de la última hora de la tarde."
               }
             },
             {
@@ -553,7 +596,8 @@
                 "de": "Frühzeitiger Sonnenuntergang gegen 18:00 Uhr.",
                 "hu": "Korai naplemente 18:00 óra körül.",
                 "ro": "Apus de soare timpuriu în jur de ora 18:00.",
-                "en": "Early sunset around 18:00."
+                "en": "Early sunset around 18:00.",
+                "es": "Atardecer temprano sobre las 18:00."
               }
             }
           ],
@@ -581,6 +625,12 @@
               "UV radiation is strong even in winter in the Canaries.",
               "Sunset is already around 6 PM.",
               "Look for wind-sheltered spots near the harbor."
+            ],
+            "es": [
+              "Vístete por capas porque puede refrescar en la sombra.",
+              "La radiación UV es intensa incluso en invierno en las Canarias.",
+              "El atardecer ya es sobre las 18:00.",
+              "Busca lugares resguardados del viento cerca del puerto."
             ]
           }
         }
@@ -609,7 +659,8 @@
             "de": "Steiler Anstieg, aber tolle Aussicht.",
             "hu": "Meredek emelkedő, de remek kilátás.",
             "ro": "Urcare abruptă, dar vedere excelentă.",
-            "en": "Steep climb, but great view."
+            "en": "Steep climb, but great view.",
+            "es": "Subida empinada, pero gran panorama."
           }
         },
         {
@@ -627,7 +678,8 @@
             "de": "Machen Sie eine Pause im Schatten am Hafen.",
             "hu": "Tarts egy árnyékos pihenőt a kikötőben.",
             "ro": "Faceți o pauză la umbră în port.",
-            "en": "Take a break in the shade at the harbor."
+            "en": "Take a break in the shade at the harbor.",
+            "es": "Haz una pausa a la sombra en el puerto."
           }
         },
         {
@@ -645,7 +697,8 @@
             "de": "Radeln Sie entspannt über die breite Promenade.",
             "hu": "Tekerj kényelmesen a széles sétányon.",
             "ro": "Pedalați relaxat pe faleza lată.",
-            "en": "Cycle leisurely along the wide promenade."
+            "en": "Cycle leisurely along the wide promenade.",
+            "es": "Pedalea con calma por el amplio paseo."
           }
         },
         {
@@ -663,7 +716,8 @@
             "de": "Ein riesiger, flacher Strand, ideal für Pausen.",
             "hu": "Hatalmas, sík strand, ideális a pihenéshez.",
             "ro": "O plajă uriașă și plată, ideală pentru pauze.",
-            "en": "A huge, flat beach, ideal for breaks."
+            "en": "A huge, flat beach, ideal for breaks.",
+            "es": "Una playa enorme y llana, ideal para descansar."
           }
         },
         {
@@ -681,7 +735,8 @@
             "de": "Bringen Sie das Rad zum Verleih zurück.",
             "hu": "Vidd vissza a biciklit a kölcsönzőbe.",
             "ro": "Duceți bicicleta înapoi la centrul de închirieri.",
-            "en": "Return the bike to the rental shop."
+            "en": "Return the bike to the rental shop.",
+            "es": "Devuelve la bici en la tienda de alquiler."
           }
         }
       ],
@@ -689,7 +744,8 @@
         "de": "Puerto del Carmen ist ideal für Radfahrer, dank des langen, flachen Küstenwegs. Beginnen Sie am Aussichtspunkt im Westen und fahren Sie an den Stränden Playa Chica, Playa Grande und Pocillos vorbei bis fast zum Flughafen. Eine perfekte Mischung aus Bewegung und Meerblick.",
         "hu": "Puerto del Carmen ideális a kerékpárosoknak a hosszú, sík tengerparti útnak köszönhetően. Kezdjen a nyugati kilátópontnál, és tekerjen el a Playa Chica, Playa Grande és Pocillos strandok mellett egészen a repülőtérig. A mozgás és a tengeri kilátás tökéletes keveréke.",
         "ro": "Puerto del Carmen este ideal pentru bicicliști datorită pistei lungi și plate de pe coastă. Începeți la punctul de belvedere din vest și pedalați pe lângă plajele Playa Chica, Playa Grande și Pocillos până aproape de aeroport. Un amestec perfect de mișcare și vedere la mare.",
-        "en": "Puerto del Carmen is ideal for cyclists thanks to the long, flat coastal path. Start at the viewpoint in the west and cycle past Playa Chica, Playa Grande, and Pocillos beaches almost to the airport. A perfect mix of exercise and sea views."
+        "en": "Puerto del Carmen is ideal for cyclists thanks to the long, flat coastal path. Start at the viewpoint in the west and cycle past Playa Chica, Playa Grande, and Pocillos beaches almost to the airport. A perfect mix of exercise and sea views.",
+        "es": "Puerto del Carmen es ideal para ciclistas gracias al largo y llano paseo costero. Comienza en el mirador del oeste y pedalea junto a Playa Chica, Playa Grande y Pocillos casi hasta el aeropuerto. Una mezcla perfecta de ejercicio y vistas al mar."
       },
       "gastro_picks": {
         "de": [
@@ -793,6 +849,11 @@
           "Watch out for pedestrians on the bike path.",
           "The wind can be very strong on the way back.",
           "Rent an e-bike for more comfort."
+        ],
+        "es": [
+          "Cuidado con los peatones en el carril bici.",
+          "El viento puede ser muy fuerte en el regreso.",
+          "Alquila una e-bike para más comodidad."
         ]
       },
       "variants": {
@@ -801,7 +862,8 @@
             "de": "Puerto del Carmen ist ideal für Radfahrer, dank des langen, flachen Küstenwegs. Beginnen Sie am Aussichtspunkt im Westen und fahren Sie an den Stränden Playa Chica, Playa Grande und Pocillos vorbei bis fast zum Flughafen. Eine perfekte Mischung aus Bewegung und Meerblick.",
             "hu": "Puerto del Carmen ideális a kerékpárosoknak a hosszú, sík tengerparti útnak köszönhetően. Kezdjen a nyugati kilátópontnál, és tekerjen el a Playa Chica, Playa Grande és Pocillos strandok mellett egészen a repülőtérig. A mozgás és a tengeri kilátás tökéletes keveréke.",
             "ro": "Puerto del Carmen este ideal pentru bicicliști datorită pistei lungi și plate de pe coastă. Începeți la punctul de belvedere din vest și pedalați pe lângă plajele Playa Chica, Playa Grande și Pocillos până aproape de aeroport. Un amestec perfect de mișcare și vedere la mare.",
-            "en": "Puerto del Carmen is ideal for cyclists thanks to the long, flat coastal path. Start at the viewpoint in the west and cycle past Playa Chica, Playa Grande, and Pocillos beaches almost to the airport. A perfect mix of exercise and sea views."
+            "en": "Puerto del Carmen is ideal for cyclists thanks to the long, flat coastal path. Start at the viewpoint in the west and cycle past Playa Chica, Playa Grande, and Pocillos beaches almost to the airport. A perfect mix of exercise and sea views.",
+            "es": "Puerto del Carmen es ideal para ciclistas gracias al largo y llano paseo costero. Comienza en el mirador del oeste y pedalea junto a Playa Chica, Playa Grande y Pocillos casi hasta el aeropuerto. Una mezcla perfecta de ejercicio y vistas al mar."
           },
           "stops": [
             {
@@ -810,7 +872,8 @@
                 "de": "Steiler Anstieg, aber tolle Aussicht.",
                 "hu": "Meredek emelkedő, de remek kilátás.",
                 "ro": "Urcare abruptă, dar vedere excelentă.",
-                "en": "Steep climb, but great view."
+                "en": "Steep climb, but great view.",
+                "es": "Subida empinada, pero gran panorama."
               }
             },
             {
@@ -819,7 +882,8 @@
                 "de": "Machen Sie eine Pause im Schatten am Hafen.",
                 "hu": "Tarts egy árnyékos pihenőt a kikötőben.",
                 "ro": "Faceți o pauză la umbră în port.",
-                "en": "Take a break in the shade at the harbor."
+                "en": "Take a break in the shade at the harbor.",
+                "es": "Haz una pausa a la sombra en el puerto."
               }
             },
             {
@@ -828,7 +892,8 @@
                 "de": "Radeln Sie entspannt über die breite Promenade.",
                 "hu": "Tekerj kényelmesen a széles sétányon.",
                 "ro": "Pedalați relaxat pe faleza lată.",
-                "en": "Cycle leisurely along the wide promenade."
+                "en": "Cycle leisurely along the wide promenade.",
+                "es": "Pedalea con calma por el amplio paseo."
               }
             },
             {
@@ -837,7 +902,8 @@
                 "de": "Ein riesiger, flacher Strand, ideal für Pausen.",
                 "hu": "Hatalmas, sík strand, ideális a pihenéshez.",
                 "ro": "O plajă uriașă și plată, ideală pentru pauze.",
-                "en": "A huge, flat beach, ideal for breaks."
+                "en": "A huge, flat beach, ideal for breaks.",
+                "es": "Una playa enorme y llana, ideal para descansar."
               }
             },
             {
@@ -846,7 +912,8 @@
                 "de": "Bringen Sie das Rad zum Verleih zurück.",
                 "hu": "Vidd vissza a biciklit a kölcsönzőbe.",
                 "ro": "Duceți bicicleta înapoi la centrul de închirieri.",
-                "en": "Return the bike to the rental shop."
+                "en": "Return the bike to the rental shop.",
+                "es": "Devuelve la bici en la tienda de alquiler."
               }
             }
           ],
@@ -952,6 +1019,11 @@
               "Watch out for pedestrians on the bike path.",
               "The wind can be very strong on the way back.",
               "Rent an e-bike for more comfort."
+            ],
+            "es": [
+              "Cuidado con los peatones en el carril bici.",
+              "El viento puede ser muy fuerte en el regreso.",
+              "Alquila una e-bike para más comodidad."
             ]
           }
         },
@@ -960,7 +1032,8 @@
             "de": "Der Tag beginnt am Mirador del Puerto, wo wir kurz die Aussicht prüfen, bevor der Regen einsetzt. Im Hafen El Varadero finden wir schnell Unterstand für die Räder. Mittags radeln wir vorsichtig zur Playa Grande, wo wir die Fahrt unterbrechen, um den Schauer abzuwarten. Die Playa de los Pocillos erreichen wir am frühen Nachmittag auf nassen, aber leeren Wegen. Zum Abschluss rollen wir entspannt über die Avenida zurück.",
             "hu": "A nap a Mirador del Puerto-nál kezdődik, ahol gyorsan körülnézünk az eső előtt. Az El Varadero kikötőben hamar fedezéket találunk a bringáknak. Délben óvatosan tekerünk a Playa Grande felé, megállva egy kávéra az eső alatt. A Playa de los Pocillos-t kora délután érjük el a vizes, de üres utakon. Végül kényelmesen visszagurulunk az Avenidán.",
             "ro": "Ziua începe la Mirador del Puerto, unde verificăm rapid priveliștea înainte de ploaie. În portul El Varadero găsim repede adăpost pentru biciclete. La prânz pedalăm cu grijă spre Playa Grande, unde întrerupem drumul pentru a aștepta trecerea ploii. Ajungem la Playa de los Pocillos după-amiaza devreme pe drumuri ude, dar libere. La final, rulăm relaxați înapoi pe Avenida.",
-            "en": "The day starts at Mirador del Puerto, where we quickly check the view before the rain starts. In El Varadero harbor, we quickly find shelter for the bikes. At noon, we cycle carefully to Playa Grande, pausing our ride to wait out the shower. We reach Playa de los Pocillos in the early afternoon on wet but empty paths. Finally, we roll back relaxed along the Avenida."
+            "en": "The day starts at Mirador del Puerto, where we quickly check the view before the rain starts. In El Varadero harbor, we quickly find shelter for the bikes. At noon, we cycle carefully to Playa Grande, pausing our ride to wait out the shower. We reach Playa de los Pocillos in the early afternoon on wet but empty paths. Finally, we roll back relaxed along the Avenida.",
+            "es": "El día comienza en el Mirador del Puerto, donde comprobamos la vista antes de que empiece la lluvia. En El Varadero encontramo refugio rápido para las bicicletas. Al mediodía pedaleamos con cuidado hasta Playa Grande, esperando para que pase el chubasco. Llegamos a Playa de los Pocillos a primera hora de la tarde por caminos húmedos pero vacíos. Por último, regresamos relajados por la Avenida."
           },
           "stops": [
             {
@@ -969,7 +1042,8 @@
                 "de": "Vorsicht bei der Abfahrt auf nasser Fahrbahn.",
                 "hu": "Vigyázat a lejtőn a nedves úttest miatt.",
                 "ro": "Atenție la coborâre pe carosabilul umed.",
-                "en": "Be careful on the descent on wet roads."
+                "en": "Be careful on the descent on wet roads.",
+                "es": "Precaución en los descensos sobre carreteras mojadas."
               }
             },
             {
@@ -978,7 +1052,8 @@
                 "de": "Stellen Sie die Räder unter das Vordach der Fischhalle.",
                 "hu": "Állítsa a bringákat a halcsarnok előtetője alá.",
                 "ro": "Lăsați bicicletele sub copertina pieței de pește.",
-                "en": "Park the bikes under the fish market awning."
+                "en": "Park the bikes under the fish market awning.",
+                "es": "Aparca las bicis bajo el toldo del mercado de pescado."
               }
             },
             {
@@ -987,7 +1062,8 @@
                 "de": "Die Promenade ist bei Regen oft rutschig.",
                 "hu": "A sétány esőben gyakran csúszós.",
                 "ro": "Promenada este adesea alunecoasă în ploaie.",
-                "en": "The promenade is often slippery in the rain."
+                "en": "The promenade is often slippery in the rain.",
+                "es": "El paseo suele estar resbaladizo con lluvia."
               }
             },
             {
@@ -996,7 +1072,8 @@
                 "de": "Große Pfützen können auf dem Radweg stehen.",
                 "hu": "Hatalmas tócsák lehetnek a kerékpárúton.",
                 "ro": "Pot exista bălți mari pe pista de biciclete.",
-                "en": "Large puddles can form on the bike path."
+                "en": "Large puddles can form on the bike path.",
+                "es": "Se pueden formar grandes charcos en el carril bici."
               }
             },
             {
@@ -1005,7 +1082,8 @@
                 "de": "Fahren Sie langsam, um Spritzwasser zu vermeiden.",
                 "hu": "Hajtson lassan, hogy elkerülje a felfröccsenő vizet.",
                 "ro": "Mergeți încet pentru a evita stropirea.",
-                "en": "Drive slowly to avoid splashing water."
+                "en": "Drive slowly to avoid splashing water.",
+                "es": "Conduce despacio para evitar salpicaduras."
               }
             }
           ],
@@ -1033,6 +1111,12 @@
               "Check your brakes before descending from the Mirador.",
               "A rain cape is essential for cycling in Lanzarote.",
               "Use the bike racks located under awnings."
+            ],
+            "es": [
+              "Evita las losetas blancas del paseo cuando estén mojadas.",
+              "Revisa los frenos antes de descender desde el Mirador.",
+              "Una capa impermeable es esencial para ciclismo en Lanzarote.",
+              "Utiliza los aparcabicis situados bajo los toldos."
             ]
           }
         },
@@ -1041,7 +1125,8 @@
             "de": "Morgens am Mirador del Puerto ist die Luft klar und perfekt für weite Ausblicke. In El Varadero genießen wir die milde Sonne bei einer kurzen Kaffeepause. Die Fahrt zur Playa Grande ist dank der kühlen Brise sehr angenehm. Mittags erreichen wir die Playa de los Pocillos, wo der Radweg flach und sonnig ist. Den Rückweg über die Avenida de las Playas nutzen wir, um die winterliche Urlaubsatmosphäre aufzusaugen.",
             "hu": "Reggel a Mirador del Puerto-nál a levegő tiszta, tökéletes a távoli kilátáshoz. Az El Varadero-nál élvezzük a lágy napsütést egy rövid kávészünet alatt. A Playa Grande felé vezető út a hűvös szellőnek köszönhetően kellemes. Délben érjük el a Playa de los Pocillos-t, ahol a kerékpárút sík és napos. Az Avenida de las Playas-on visszafelé beszívjuk a téli nyaralás hangulatát.",
             "ro": "Dimineața la Mirador del Puerto aerul este curat, perfect pentru vederi îndepărtate. În El Varadero ne bucurăm de soarele blând la o pauză de cafea. Drumul spre Playa Grande este plăcut datorită adierii răcoroase. La prânz ajungem la Playa de los Pocillos, unde pista de biciclete este plană și însorită. Drumul de întoarcere pe Avenida ne permite să simțim atmosfera de vacanță de iarnă.",
-            "en": "In the morning at Mirador del Puerto, the air is clear and perfect for far-reaching views. In El Varadero, we enjoy the mild sun during a short coffee break. The ride to Playa Grande is very pleasant thanks to the cool breeze. At noon, we reach Playa de los Pocillos, where the bike path is flat and sunny. We use the ride back via Avenida de las Playas to soak up the winter holiday atmosphere."
+            "en": "In the morning at Mirador del Puerto, the air is clear and perfect for far-reaching views. In El Varadero, we enjoy the mild sun during a short coffee break. The ride to Playa Grande is very pleasant thanks to the cool breeze. At noon, we reach Playa de los Pocillos, where the bike path is flat and sunny. We use the ride back via Avenida de las Playas to soak up the winter holiday atmosphere.",
+            "es": "Por la mañana en el Mirador del Puerto el aire está claro y perfecto para vistas lejanas. En El Varadero disfrutamos del sol suave durante un corto café. El trayecto a Playa Grande es muy agradable gracias a la brisa fresca. Al mediodía llegamos a Playa de los Pocillos, donde el carril bici es llano y soleado. Volvemos por la Avenida de las Playas para empaparnos del ambiente vacacional invernal."
           },
           "stops": [
             {
@@ -1050,7 +1135,8 @@
                 "de": "Perfekte Sicht auf Fuerteventura bei klarem Winterwetter.",
                 "hu": "Tökéletes kilátás Fuerteventurára tiszta téli időben.",
                 "ro": "Vedere perfectă spre Fuerteventura pe vreme clară.",
-                "en": "Perfect view of Fuerteventura in clear winter weather."
+                "en": "Perfect view of Fuerteventura in clear winter weather.",
+                "es": "Vista perfecta de Fuerteventura con tiempo invernal despejado."
               }
             },
             {
@@ -1059,7 +1145,8 @@
                 "de": "Die Windjacke nicht vergessen, im Hafen zieht es oft.",
                 "hu": "Ne felejtse a széldzsekit, a kikötőben gyakran fúj.",
                 "ro": "Nu uitați geaca de vânt, în port trage adesea curentul.",
-                "en": "Don't forget your windbreaker; it's often breezy in the harbor."
+                "en": "Don't forget your windbreaker; it's often breezy in the harbor.",
+                "es": "No olvides el cortavientos; suele hacer brisa en el puerto."
               }
             },
             {
@@ -1068,7 +1155,8 @@
                 "de": "Die Mittagssonne ist ideal zum Radfahren.",
                 "hu": "A déli napsütés ideális a kerékpározáshoz.",
                 "ro": "Soarele de la amiază este ideal pentru ciclism.",
-                "en": "The midday sun is ideal for cycling."
+                "en": "The midday sun is ideal for cycling.",
+                "es": "El sol del mediodía es ideal para pedalear."
               }
             },
             {
@@ -1077,7 +1165,8 @@
                 "de": "Achten Sie auf Sandverwehungen auf dem Radweg.",
                 "hu": "Ügyeljen a homokátfúvásokra a kerékpárúton.",
                 "ro": "Atenție la depunerile de nisip pe pista de biciclete.",
-                "en": "Watch out for sand drifts on the bike path."
+                "en": "Watch out for sand drifts on the bike path.",
+                "es": "Cuidado con las acumulaciones de arena en el carril bici."
               }
             },
             {
@@ -1086,7 +1175,8 @@
                 "de": "Genießen Sie die milden Temperaturen am Nachmittag.",
                 "hu": "Élvezze a délutáni enyhe hőmérsékletet.",
                 "ro": "Bucurați-vă de temperaturile blânde de după-amiază.",
-                "en": "Enjoy the mild afternoon temperatures."
+                "en": "Enjoy the mild afternoon temperatures.",
+                "es": "Disfruta de las suaves temperaturas vespertinas."
               }
             }
           ],
@@ -1114,6 +1204,12 @@
               "Use the flat coastal road between the beaches.",
               "Visibility of neighboring islands is often better in winter.",
               "Sunscreen is necessary despite the cooler wind."
+            ],
+            "es": [
+              "Es importante llevar ropa cortavientos para los ciclistas en invierno.",
+              "Utiliza la carretera costera llana entre las playas.",
+              "La visibilidad de las islas vecinas suele ser mejor en invierno.",
+              "Es necesario usar protector solar a pesar del viento fresco."
             ]
           }
         }
@@ -1142,7 +1238,8 @@
             "de": "Parken Sie auf dem großen Parkplatz am Hafen.",
             "hu": "Parkolj a nagy kikötői parkolóban.",
             "ro": "Parcați în parcarea mare de la port.",
-            "en": "Park in the large harbor parking lot."
+            "en": "Park in the large harbor parking lot.",
+            "es": "Aparca en el amplio aparcamiento del puerto."
           }
         },
         {
@@ -1160,7 +1257,8 @@
             "de": "Das Parkhaus ist die ersten Stunden oft günstig.",
             "hu": "A parkolóház az első órákban gyakran olcsó.",
             "ro": "Parcarea este adesea ieftină în primele ore.",
-            "en": "The parking garage is often cheap for the first few hours."
+            "en": "The parking garage is often cheap for the first few hours.",
+            "es": "El parking cubierto suele ser barato las primeras horas."
           }
         },
         {
@@ -1178,7 +1276,8 @@
             "de": "Hier findet man meist leichter einen Parkplatz.",
             "hu": "Itt általában könnyebb parkolóhelyet találni.",
             "ro": "Aici se găsește de obicei parcare mai ușor.",
-            "en": "Parking is usually easier to find here."
+            "en": "Parking is usually easier to find here.",
+            "es": "Suele ser más fácil encontrar aparcamiento aquí."
           }
         },
         {
@@ -1196,7 +1295,8 @@
             "de": "20 Min. Fahrt zu den spektakulären Salzfeldern.",
             "hu": "20 perc autóval a látványos sólepárlókhoz.",
             "ro": "20 minute cu mașina până la salinele spectaculoase.",
-            "en": "20-min drive to the spectacular salt pans."
+            "en": "20-min drive to the spectacular salt pans.",
+            "es": "20 minutos en coche hasta las espectaculares salinas."
           }
         },
         {
@@ -1214,7 +1314,8 @@
             "de": "Perfekter Abschluss mit Sonnenuntergangsblick.",
             "hu": "Tökéletes zárás naplementével.",
             "ro": "Final perfect cu vedere la apus.",
-            "en": "Perfect finish with a sunset view."
+            "en": "Perfect finish with a sunset view.",
+            "es": "Final perfecto con vistas al atardecer."
           }
         }
       ],
@@ -1222,7 +1323,8 @@
         "de": "Mit dem Auto können Sie die Strände von Puerto del Carmen erkunden und einen Abstecher zu den nahegelegenen Salinas de Janubio oder Los Hervideros machen. Besuchen Sie das Biosfera Plaza zum Shoppen und entspannen Sie danach am weiten Pocillos-Strand.",
         "hu": "Autóval felfedezheti Puerto del Carmen strandjait, és tehet egy kitérőt a közeli Salinas de Janubio vagy Los Hervideros felé. Látogasson el a Biosfera Plazába vásárolni, majd lazítson a tágas Pocillos strandon.",
         "ro": "Cu mașina puteți explora plajele din Puerto del Carmen și puteți face o excursie la Salinas de Janubio sau Los Hervideros din apropiere. Vizitați Biosfera Plaza pentru cumpărături și relaxați-vă apoi pe plaja întinsă Pocillos.",
-        "en": "By car, you can explore the beaches of Puerto del Carmen and take a detour to the nearby Salinas de Janubio or Los Hervideros. Visit Biosfera Plaza for shopping and then relax on the wide Pocillos beach."
+        "en": "By car, you can explore the beaches of Puerto del Carmen and take a detour to the nearby Salinas de Janubio or Los Hervideros. Visit Biosfera Plaza for shopping and then relax on the wide Pocillos beach.",
+        "es": "En coche puedes explorar las playas de Puerto del Carmen y hacer una escapada a las cercanas Salinas de Janubio o Los Hervideros. Visita Biosfera Plaza para comprar y luego relájate en la amplia playa de Los Pocillos."
       },
       "gastro_picks": {
         "de": [
@@ -1326,6 +1428,11 @@
           "Parking in the center of PDC is difficult.",
           "The LZ-2 quickly connects the town with the rest of the island.",
           "Do not leave valuables in the car."
+        ],
+        "es": [
+          "Aparcar en el centro de Puerto del Carmen es difícil.",
+          "La LZ-2 conecta rápidamente el pueblo con el resto de la isla.",
+          "No dejes objetos de valor en el coche."
         ]
       },
       "variants": {
@@ -1334,7 +1441,8 @@
             "de": "Mit dem Auto können Sie die Strände von Puerto del Carmen erkunden und einen Abstecher zu den nahegelegenen Salinas de Janubio oder Los Hervideros machen. Besuchen Sie das Biosfera Plaza zum Shoppen und entspannen Sie danach am weiten Pocillos-Strand.",
             "hu": "Autóval felfedezheti Puerto del Carmen strandjait, és tehet egy kitérőt a közeli Salinas de Janubio vagy Los Hervideros felé. Látogasson el a Biosfera Plazába vásárolni, majd lazítson a tágas Pocillos strandon.",
             "ro": "Cu mașina puteți explora plajele din Puerto del Carmen și puteți face o excursie la Salinas de Janubio sau Los Hervideros din apropiere. Vizitați Biosfera Plaza pentru cumpărături și relaxați-vă apoi pe plaja întinsă Pocillos.",
-            "en": "By car, you can explore the beaches of Puerto del Carmen and take a detour to the nearby Salinas de Janubio or Los Hervideros. Visit Biosfera Plaza for shopping and then relax on the wide Pocillos beach."
+            "en": "By car, you can explore the beaches of Puerto del Carmen and take a detour to the nearby Salinas de Janubio or Los Hervideros. Visit Biosfera Plaza for shopping and then relax on the wide Pocillos beach.",
+            "es": "En coche puedes explorar las playas de Puerto del Carmen y hacer una escapada a las cercanas Salinas de Janubio o Los Hervideros. Visita Biosfera Plaza para comprar y luego relájate en la amplia playa de Los Pocillos."
           },
           "stops": [
             {
@@ -1343,7 +1451,8 @@
                 "de": "Parken Sie auf dem großen Parkplatz am Hafen.",
                 "hu": "Parkolj a nagy kikötői parkolóban.",
                 "ro": "Parcați în parcarea mare de la port.",
-                "en": "Park in the large harbor parking lot."
+                "en": "Park in the large harbor parking lot.",
+                "es": "Aparca en el amplio aparcamiento del puerto."
               }
             },
             {
@@ -1352,7 +1461,8 @@
                 "de": "Das Parkhaus ist die ersten Stunden oft günstig.",
                 "hu": "A parkolóház az első órákban gyakran olcsó.",
                 "ro": "Parcarea este adesea ieftină în primele ore.",
-                "en": "The parking garage is often cheap for the first few hours."
+                "en": "The parking garage is often cheap for the first few hours.",
+                "es": "El parking cubierto suele ser barato las primeras horas."
               }
             },
             {
@@ -1361,7 +1471,8 @@
                 "de": "Hier findet man meist leichter einen Parkplatz.",
                 "hu": "Itt általában könnyebb parkolóhelyet találni.",
                 "ro": "Aici se găsește de obicei parcare mai ușor.",
-                "en": "Parking is usually easier to find here."
+                "en": "Parking is usually easier to find here.",
+                "es": "Suele ser más fácil encontrar aparcamiento aquí."
               }
             },
             {
@@ -1370,7 +1481,8 @@
                 "de": "20 Min. Fahrt zu den spektakulären Salzfeldern.",
                 "hu": "20 perc autóval a látványos sólepárlókhoz.",
                 "ro": "20 minute cu mașina până la salinele spectaculoase.",
-                "en": "20-min drive to the spectacular salt pans."
+                "en": "20-min drive to the spectacular salt pans.",
+                "es": "20 minutos en coche hasta las espectaculares salinas."
               }
             },
             {
@@ -1379,7 +1491,8 @@
                 "de": "Perfekter Abschluss mit Sonnenuntergangsblick.",
                 "hu": "Tökéletes zárás naplementével.",
                 "ro": "Final perfect cu vedere la apus.",
-                "en": "Perfect finish with a sunset view."
+                "en": "Perfect finish with a sunset view.",
+                "es": "Final perfecto con vistas al atardecer."
               }
             }
           ],
@@ -1485,6 +1598,11 @@
               "Parking in the center of PDC is difficult.",
               "The LZ-2 quickly connects the town with the rest of the island.",
               "Do not leave valuables in the car."
+            ],
+            "es": [
+              "Aparcar en el centro de PDC es complicado.",
+              "La LZ-2 conecta rápidamente el pueblo con el resto de la isla.",
+              "No dejes objetos de valor en el coche."
             ]
           }
         },
@@ -1493,7 +1611,8 @@
             "de": "Regnerische Tage sind ideal für eine Autotour. Wir starten im Hafen El Varadero und beobachten das Wetter von Bord. Das Biosfera Plaza bietet ein Parkhaus direkt am Geschehen. Mittags fahren wir zur Playa de los Pocillos, wo wir das Meer aus dem trockenen Wagen bewundern. Die Fahrt zum Mirador de las Salinas führt durch mystisch verhangene Vulkanlandschaften. Den Tag beschließen wir am Mirador del Puerto mit Blick auf den regnerischen Atlantik.",
             "hu": "Az esős napok ideálisak egy autós túrához. Az El Varadero kikötőben kezdünk, az autó védelméből figyelve az időjárást. A Biosfera Plaza parkolóháza közvetlen elérést biztosít. Délben a Playa de los Pocillos felé hajtunk, a száraz kocsiból csodálva a tengert. Az út a Mirador de las Salinas felé ködbe vesző vulkáni tájakon át vezet. A napot a Mirador del Puerto-nál zárjuk, nézve az esős Atlanti-óceánt.",
             "ro": "Zilele ploioase sunt ideale pentru un tur cu mașina. Începem în portul El Varadero, observând vremea din mașină. Biosfera Plaza oferă o parcare acoperită chiar lângă magazine. La prânz conducem spre Playa de los Pocillos, admirând marea din confortul mașinii. Drumul spre Mirador de las Salinas trece prin peisaje vulcanice învăluite în ceață. Încheiem ziua la Mirador del Puerto cu vedere la Atlanticul ploios.",
-            "en": "Rainy days are ideal for a car tour. We start at El Varadero harbor, watching the weather from the comfort of the car. Biosfera Plaza offers a parking garage right by the action. At noon, we drive to Playa de los Pocillos, admiring the sea from the dry vehicle. The drive to Mirador de las Salinas leads through mystically shrouded volcanic landscapes. We end the day at Mirador del Puerto with a view of the rainy Atlantic."
+            "en": "Rainy days are ideal for a car tour. We start at El Varadero harbor, watching the weather from the comfort of the car. Biosfera Plaza offers a parking garage right by the action. At noon, we drive to Playa de los Pocillos, admiring the sea from the dry vehicle. The drive to Mirador de las Salinas leads through mystically shrouded volcanic landscapes. We end the day at Mirador del Puerto with a view of the rainy Atlantic.",
+            "es": "Los días de lluvia son ideales para una excursión en coche. Empezamos en el puerto de El Varadero, observando el tiempo desde la comodidad del vehículo. Biosfera Plaza ofrece un parking cubierto junto a la acción. Al mediodía conducimos hasta Playa de los Pocillos, admirando el mar desde el coche seco. El trayecto al Mirador de las Salinas atraviesa paisajes volcánicos envueltos de forma mística. Terminamos el día en el Mirador del Puerto con vistas al Atlántico lluvioso."
           },
           "stops": [
             {
@@ -1502,7 +1621,8 @@
                 "de": "Parken Sie nah am Hafenbecken für kurze Wege.",
                 "hu": "Parkoljon közel a kikötőhöz a rövid séta érdekében.",
                 "ro": "Parcați aproape de port pentru distanțe scurte.",
-                "en": "Park close to the harbor for short walking distances."
+                "en": "Park close to the harbor for short walking distances.",
+                "es": "Aparca cerca del puerto para caminar distancias cortas."
               }
             },
             {
@@ -1511,7 +1631,8 @@
                 "de": "Nutzen Sie das überdachte Parkhaus des Zentrums.",
                 "hu": "Használja a központ fedett parkolóházát.",
                 "ro": "Folosiți parcarea acoperită a centrului.",
-                "en": "Use the center's covered parking garage."
+                "en": "Use the center's covered parking garage.",
+                "es": "Utiliza el parking cubierto del centro."
               }
             },
             {
@@ -1520,7 +1641,8 @@
                 "de": "Große Parkplätze direkt an der Promenade verfügbar.",
                 "hu": "Nagy parkolók közvetlenül a sétány mellett.",
                 "ro": "Parcări mari disponibile chiar lângă faleză.",
-                "en": "Large parking lots available directly at the promenade."
+                "en": "Large parking lots available directly at the promenade.",
+                "es": "Grandes aparcamientos disponibles directamente en el paseo."
               }
             },
             {
@@ -1529,7 +1651,8 @@
                 "de": "Die Farben der Salinen leuchten bei Regen intensiver.",
                 "hu": "A lepárlók színei intenzívebbek esőben.",
                 "ro": "Culorile salinelor sunt mai intense în ploaie.",
-                "en": "The colors of the salt flats are more intense in the rain."
+                "en": "The colors of the salt flats are more intense in the rain.",
+                "es": "Los colores de las salinas son más intensos con lluvia."
               }
             },
             {
@@ -1538,7 +1661,8 @@
                 "de": "Beste Aussicht ohne nass zu werden aus dem Auto.",
                 "hu": "A legjobb kilátás az autóból, anélkül hogy megázna.",
                 "ro": "Cea mai bună vedere din mașină, fără să vă udați.",
-                "en": "Best view from the car without getting wet."
+                "en": "Best view from the car without getting wet.",
+                "es": "Mejor vista desde el coche sin mojarse."
               }
             }
           ],
@@ -1566,6 +1690,12 @@
               "Look for parking garages instead of outdoor lots.",
               "The LZ-2 road can form puddles during heavy rain.",
               "Enjoy the coastal panoramic drive from the dry car."
+            ],
+            "es": [
+              "Conduce con cuidado, el aceite en la calzada la vuelve resbaladiza.",
+              "Busca parkings cubiertos en lugar de aparcamientos al aire libre.",
+              "La LZ-2 puede formar charcos durante lluvias intensas.",
+              "Disfruta del paseo panorámico costero desde el coche seco."
             ]
           }
         },
@@ -1574,7 +1704,8 @@
             "de": "Im Winter ist die Inselrundfahrt besonders angenehm. Wir starten im sonnigen El Varadero. Das Biosfera Plaza bietet mittags einen tollen Blick auf das winterliche Meer. Die Fahrt zur Playa de los Pocillos ist entspannt, da weniger Verkehr herrscht. Ein Highlight ist die Tour zum Mirador de las Salinas, wo die Wintersonne die Salzkristalle glitzern lässt. Zum Sonnenuntergang erreichen wir den Mirador del Puerto für ein perfektes Panorama.",
             "hu": "Télen a szigeti autózás különösen kellemes. A napos El Varadero-ban kezdünk. A Biosfera Plaza délben remek kilátást nyújt a téli tengerre. Az út a Playa de los Pocillos felé nyugodt, mivel kisebb a forgalom. Kiemelkedő pont a Mirador de las Salinas, ahol a téli nap megcsillantja a sókristályokat. Naplementére érünk a Mirador del Puerto-hoz a tökéletes panorámáért.",
             "ro": "Iarna, turul insulei cu mașina este deosebit de plăcut. Începem în însoritul El Varadero. Biosfera Plaza oferă la prânz o vedere superbă spre marea de iarnă. Drumul spre Playa de los Pocillos este relaxat, traficul fiind redus. Un punct culminant este Mirador de las Salinas, unde soarele de iarnă face cristalele de sare să strălucească. La apus ajungem la Mirador del Puerto pentru o panoramă perfectă.",
-            "en": "In winter, the island tour is particularly pleasant. We start in sunny El Varadero. Biosfera Plaza offers a great view of the winter sea at noon. The drive to Playa de los Pocillos is relaxed due to less traffic. A highlight is the trip to Mirador de las Salinas, where the winter sun makes the salt crystals glisten. For sunset, we reach Mirador del Puerto for a perfect panorama."
+            "en": "In winter, the island tour is particularly pleasant. We start in sunny El Varadero. Biosfera Plaza offers a great view of the winter sea at noon. The drive to Playa de los Pocillos is relaxed due to less traffic. A highlight is the trip to Mirador de las Salinas, where the winter sun makes the salt crystals glisten. For sunset, we reach Mirador del Puerto for a perfect panorama.",
+            "es": "En invierno la vuelta a la isla es especialmente agradable. Empezamos en el soleado El Varadero. Biosfera Plaza ofrece una gran vista del mar invernal al mediodía. El trayecto a Playa de los Pocillos es relajado por el menor tráfico. Un punto destacado es la visita al Mirador de las Salinas, donde el sol invernal hace brillar los cristales de sal. Para el atardecer llegamos al Mirador del Puerto para un panorama perfecto."
           },
           "stops": [
             {
@@ -1583,7 +1714,8 @@
                 "de": "Parkplätze im Hafen sind im Winter leichter zu finden.",
                 "hu": "A kikötői parkolók télen könnyebben elérhetőek.",
                 "ro": "Locurile de parcare din port sunt mai ușor de găsit.",
-                "en": "Parking spots in the harbor are easier to find in winter."
+                "en": "Parking spots in the harbor are easier to find in winter.",
+                "es": "En invierno es más fácil encontrar plazas en el puerto."
               }
             },
             {
@@ -1592,7 +1724,8 @@
                 "de": "Perfekter Stopp für einen Kaffee mit Aussicht.",
                 "hu": "Tökéletes megálló egy kávéhoz, kilátással.",
                 "ro": "Oprire perfectă pentru o cafea cu vedere.",
-                "en": "Perfect stop for a coffee with a view."
+                "en": "Perfect stop for a coffee with a view.",
+                "es": "Parada perfecta para un café con vistas."
               }
             },
             {
@@ -1601,7 +1734,8 @@
                 "de": "Die Parkplätze am Strand sind weniger überfüllt.",
                 "hu": "A strand menti parkolók kevésbé zsúfoltak.",
                 "ro": "Parcările de la plajă sunt mai puțin aglomerate.",
-                "en": "The beach parking lots are less crowded."
+                "en": "The beach parking lots are less crowded.",
+                "es": "Los aparcamientos de la playa están menos concurridos."
               }
             },
             {
@@ -1610,7 +1744,8 @@
                 "de": "Das Winterlicht hebt die Kontraste der Salinen hervor.",
                 "hu": "A téli fény kiemeli a lepárlók kontrasztjait.",
                 "ro": "Lumina de iarnă scoate în evidență contrastele salinelor.",
-                "en": "Winter light highlights the contrasts of the salt flats."
+                "en": "Winter light highlights the contrasts of the salt flats.",
+                "es": "La luz invernal realza los contrastes de las salinas."
               }
             },
             {
@@ -1619,7 +1754,8 @@
                 "de": "Idealer Ort, um den frühen Sonnenuntergang zu sehen.",
                 "hu": "Ideális hely a korai naplemente megtekintéséhez.",
                 "ro": "Loc ideal pentru a vedea apusul de soare timpuriu.",
-                "en": "Ideal spot to see the early sunset."
+                "en": "Ideal spot to see the early sunset.",
+                "es": "Lugar ideal para ver el atardecer temprano."
               }
             }
           ],
@@ -1647,6 +1783,12 @@
               "Roads in the island's interior are often foggy, be careful.",
               "The winter sun can be very blinding while driving.",
               "Plan your return before the early onset of darkness."
+            ],
+            "es": [
+              "Los precios de los alquileres de coches suelen ser más bajos en invierno.",
+              "Las carreteras del interior de la isla suelen estar con niebla, ten cuidado.",
+              "El sol invernal puede deslumbra mucho al conducir.",
+              "Planifica tu regreso antes del temprano inicio de la oscuridad."
             ]
           }
         }
@@ -1675,7 +1817,8 @@
             "de": "Linie 03 verbindet alle Strandabschnitte.",
             "hu": "A 03-as járat összeköti az összes strandot.",
             "ro": "Linia 03 conectează toate secțiunile de plajă.",
-            "en": "Line 03 connects all beach sections."
+            "en": "Line 03 connects all beach sections.",
+            "es": "La línea 03 conecta todas las secciones de playa."
           }
         },
         {
@@ -1693,7 +1836,8 @@
             "de": "Steigen Sie an der Haltestelle 'Casino' aus.",
             "hu": "Szállj le a 'Casino' megállónál.",
             "ro": "Coborâți la stația 'Casino'.",
-            "en": "Get off at the 'Casino' stop."
+            "en": "Get off at the 'Casino' stop.",
+            "es": "Bájate en la parada 'Casino'."
           }
         },
         {
@@ -1711,7 +1855,8 @@
             "de": "Zentraler Knotenpunkt für viele Buslinien.",
             "hu": "Számos buszjárat központi csomópontja.",
             "ro": "Nod central pentru multe linii de autobuz.",
-            "en": "Central hub for many bus lines."
+            "en": "Central hub for many bus lines.",
+            "es": "Nudo central para muchas líneas de autobús."
           }
         },
         {
@@ -1729,7 +1874,8 @@
             "de": "Kurzer Fußweg vom Einkaufszentrum hinunter.",
             "hu": "Rövid séta lefelé a bevásárlóközponttól.",
             "ro": "Scurtă plimbare de la centrul comercial în jos.",
-            "en": "Short walk down from the shopping mall."
+            "en": "Short walk down from the shopping mall.",
+            "es": "Corta caminata desde el centro comercial."
           }
         },
         {
@@ -1747,7 +1893,8 @@
             "de": "Bester Platz für den letzten Blick auf den Ozean.",
             "hu": "A legjobb hely az utolsó pillantáshoz az óceánra.",
             "ro": "Cel mai bun loc pentru ultima privire spre ocean.",
-            "en": "Best spot for a final look at the ocean."
+            "en": "Best spot for a final look at the ocean.",
+            "es": "Mejor punto para una última mirada al océano."
           }
         }
       ],
@@ -1755,7 +1902,8 @@
         "de": "Das Bussystem in Puerto del Carmen ist sehr effizient, besonders die Linie 03, die die gesamte Küste abfährt. Starten Sie im ruhigen Pocillos und arbeiten Sie sich in Richtung des belebten Hafens vor, ohne sich um die Parkplatzsuche kümmern zu müssen.",
         "hu": "Puerto del Carmen buszhálózata nagyon hatékony, különösen a 03-as vonal, amely a teljes part mentén halad. Kezdjen a nyugodt Pocillosnál, és haladjon a forgalmas kikötő felé anélkül, hogy aggódnia kellene a parkolás miatt.",
         "ro": "Sistemul de autobuze din Puerto del Carmen este foarte eficient, în special linia 03 care parcurge întreaga coastă. Începeți în liniștitul Pocillos și înaintați spre portul animat, fără să vă faceți griji pentru parcare.",
-        "en": "The bus system in Puerto del Carmen is very efficient, especially line 03, which runs along the entire coast. Start in quiet Pocillos and work your way towards the busy harbor without having to worry about parking."
+        "en": "The bus system in Puerto del Carmen is very efficient, especially line 03, which runs along the entire coast. Start in quiet Pocillos and work your way towards the busy harbor without having to worry about parking.",
+        "es": "El sistema de autobuses en Puerto del Carmen es muy eficiente, especialmente la línea 03, que recorre toda la costa. Comienza en el tranquilo Pocillos y avanza hacia el concurrido puerto sin preocuparte por el aparcamiento."
       },
       "gastro_picks": {
         "de": [
@@ -1859,6 +2007,11 @@
           "Buses run every 20 minutes during the day.",
           "Pay cash to the driver (small bills).",
           "Stops are well marked."
+        ],
+        "es": [
+          "Los autobuses pasan cada 20 minutos durante el día.",
+          "Paga en efectivo al conductor (billetes pequeños).",
+          "Las paradas están bien señalizadas."
         ]
       },
       "variants": {
@@ -1867,7 +2020,8 @@
             "de": "Das Bussystem in Puerto del Carmen ist sehr effizient, besonders die Linie 03, die die gesamte Küste abfährt. Starten Sie im ruhigen Pocillos und arbeiten Sie sich in Richtung des belebten Hafens vor, ohne sich um die Parkplatzsuche kümmern zu müssen.",
             "hu": "Puerto del Carmen buszhálózata nagyon hatékony, különösen a 03-as vonal, amely a teljes part mentén halad. Kezdjen a nyugodt Pocillosnál, és haladjon a forgalmas kikötő felé anélkül, hogy aggódnia kellene a parkolás miatt.",
             "ro": "Sistemul de autobuze din Puerto del Carmen este foarte eficient, în special linia 03 care parcurge întreaga coastă. Începeți în liniștitul Pocillos și înaintați spre portul animat, fără să vă faceți griji pentru parcare.",
-            "en": "The bus system in Puerto del Carmen is very efficient, especially line 03, which runs along the entire coast. Start in quiet Pocillos and work your way towards the busy harbor without having to worry about parking."
+            "en": "The bus system in Puerto del Carmen is very efficient, especially line 03, which runs along the entire coast. Start in quiet Pocillos and work your way towards the busy harbor without having to worry about parking.",
+            "es": "El sistema de autobuses en Puerto del Carmen es muy eficiente, especialmente la línea 03, que recorre toda la costa. Comienza en el tranquilo Pocillos y avanza hacia el concurrido puerto sin preocuparte por el aparcamiento."
           },
           "stops": [
             {
@@ -1876,7 +2030,8 @@
                 "de": "Linie 03 verbindet alle Strandabschnitte.",
                 "hu": "A 03-as járat összeköti az összes strandot.",
                 "ro": "Linia 03 conectează toate secțiunile de plajă.",
-                "en": "Line 03 connects all beach sections."
+                "en": "Line 03 connects all beach sections.",
+                "es": "La línea 03 conecta todas las secciones de playa."
               }
             },
             {
@@ -1885,7 +2040,8 @@
                 "de": "Steigen Sie an der Haltestelle 'Casino' aus.",
                 "hu": "Szállj le a 'Casino' megállónál.",
                 "ro": "Coborâți la stația 'Casino'.",
-                "en": "Get off at the 'Casino' stop."
+                "en": "Get off at the 'Casino' stop.",
+                "es": "Bájate en la parada 'Casino'."
               }
             },
             {
@@ -1894,7 +2050,8 @@
                 "de": "Zentraler Knotenpunkt für viele Buslinien.",
                 "hu": "Számos buszjárat központi csomópontja.",
                 "ro": "Nod central pentru multe linii de autobuz.",
-                "en": "Central hub for many bus lines."
+                "en": "Central hub for many bus lines.",
+                "es": "Nudo central para muchas líneas de autobús."
               }
             },
             {
@@ -1903,7 +2060,8 @@
                 "de": "Kurzer Fußweg vom Einkaufszentrum hinunter.",
                 "hu": "Rövid séta lefelé a bevásárlóközponttól.",
                 "ro": "Scurtă plimbare de la centrul comercial în jos.",
-                "en": "Short walk down from the shopping mall."
+                "en": "Short walk down from the shopping mall.",
+                "es": "Corta caminata desde el centro comercial."
               }
             },
             {
@@ -1912,7 +2070,8 @@
                 "de": "Bester Platz für den letzten Blick auf den Ozean.",
                 "hu": "A legjobb hely az utolsó pillantáshoz az óceánra.",
                 "ro": "Cel mai bun loc pentru ultima privire spre ocean.",
-                "en": "Best spot for a final look at the ocean."
+                "en": "Best spot for a final look at the ocean.",
+                "es": "Mejor punto para una última mirada al océano."
               }
             }
           ],
@@ -2018,6 +2177,11 @@
               "Buses run every 20 minutes during the day.",
               "Pay cash to the driver (small bills).",
               "Stops are well marked."
+            ],
+            "es": [
+              "Los autobuses pasan cada 20 minutos durante el día.",
+              "Paga en efectivo al conductor (billetes pequeños).",
+              "Las paradas están bien señalizadas."
             ]
           }
         },
@@ -2026,7 +2190,8 @@
             "de": "Mit dem Bus trocken durch Puerto del Carmen: Wir starten an der Playa de los Pocillos und fahren bequem zur Playa Grande. Die Haltestellen sind meist überdacht, was das Warten angenehm macht. Mittags erreichen wir das Biosfera Plaza per Bus, wo wir die Zeit im Trockenen verbringen. Nachmittags geht es weiter zum Hafen El Varadero, einem klassischen Knotenpunkt. Den Tag beenden wir mit einer kurzen Fahrt zum Mirador del Puerto.",
             "hu": "Busszal szárazon Puerto del Carmenben: a Playa de los Pocillos-nál kezdünk, kényelmesen utazva a Playa Grande-ig. A megállók többnyire fedettek, így a várakozás is kellemes. Délben busszal érjük el a Biosfera Plaza-t, ahol szárazon tölthetjük az időt. Délután továbbmegyünk az El Varadero kikötőbe, ami egy klasszikus csomópont. A napot egy rövid buszozással zárjuk a Mirador del Puerto felé.",
             "ro": "Cu autobuzul, la adăpost prin Puerto del Carmen: începem la Playa de los Pocillos și călătorim confortabil spre Playa Grande. Stațiile sunt majoritatea acoperite, făcând așteptarea plăcută. La prânz ajungem cu autobuzul la Biosfera Plaza, unde stăm la uscat. După-amiaza continuăm spre portul El Varadero, un nod de transport clasic. Încheiem ziua cu o scurtă călătorie spre Mirador del Puerto.",
-            "en": "By bus, staying dry through Puerto del Carmen: we start at Playa de los Pocillos and travel comfortably to Playa Grande. The bus stops are mostly covered, making the wait pleasant. At noon, we reach Biosfera Plaza by bus, where we spend time in the dry. In the afternoon, we continue to El Varadero harbor, a classic hub. We end the day with a short bus ride to Mirador del Puerto."
+            "en": "By bus, staying dry through Puerto del Carmen: we start at Playa de los Pocillos and travel comfortably to Playa Grande. The bus stops are mostly covered, making the wait pleasant. At noon, we reach Biosfera Plaza by bus, where we spend time in the dry. In the afternoon, we continue to El Varadero harbor, a classic hub. We end the day with a short bus ride to Mirador del Puerto.",
+            "es": "En autobús, manteniéndote seco por Puerto del Carmen: empezamos en Playa de los Pocillos y viajamos cómodamente hasta Playa Grande. Las paradas suelen estar cubiertas, haciendo agradable la espera. Al mediodía llegamos a Biosfera Plaza en autobús, donde pasamos tiempo en seco. Por la tarde continuamos hasta el puerto de El Varadero, un clásico núcleo. Terminamos el día con un corto trayecto en autobús hasta el Mirador del Puerto."
           },
           "stops": [
             {
@@ -2035,7 +2200,8 @@
                 "de": "Die Bushaltestellen bieten guten Schutz vor Regen.",
                 "hu": "A buszmegállók jó védelmet nyújtanak az eső ellen.",
                 "ro": "Stațiile de autobuz oferă protecție bună contra ploii.",
-                "en": "The bus stops offer good protection from the rain."
+                "en": "The bus stops offer good protection from the rain.",
+                "es": "Las paradas de autobús ofrecen buena protección contra la lluvia."
               }
             },
             {
@@ -2044,7 +2210,8 @@
                 "de": "Haltestelle direkt an der Promenade, kurzer Fußweg.",
                 "hu": "Megálló közvetlenül a sétánynál, rövid séta.",
                 "ro": "Stație chiar lângă faleză, distanță scurtă de mers.",
-                "en": "Bus stop directly at the promenade, short walk."
+                "en": "Bus stop directly at the promenade, short walk.",
+                "es": "Parada de autobús directamente en el paseo, corta caminata."
               }
             },
             {
@@ -2053,7 +2220,8 @@
                 "de": "Der Bus hält fast direkt vor dem Haupteingang.",
                 "hu": "A busz szinte közvetlenül a főbejáratnál áll meg.",
                 "ro": "Autobuzul oprește aproape direct în fața intrării.",
-                "en": "The bus stops almost directly in front of the main entrance."
+                "en": "The bus stops almost directly in front of the main entrance.",
+                "es": "El autobús para casi frente a la entrada principal."
               }
             },
             {
@@ -2062,7 +2230,8 @@
                 "de": "Zentraler Umsteigepunkt mit vielen Cafés in der Nähe.",
                 "hu": "Központi átszállóhely sok kávézóval a közelben.",
                 "ro": "Punct central de transfer cu multe cafenele în jur.",
-                "en": "Central transfer point with many cafes nearby."
+                "en": "Central transfer point with many cafes nearby.",
+                "es": "Punto de transbordo central con muchas cafeterías cerca."
               }
             },
             {
@@ -2071,7 +2240,8 @@
                 "de": "Linie 12 verbindet die wichtigsten Punkte im Ort.",
                 "hu": "A 12-es járat összeköti a legfontosabb pontokat.",
                 "ro": "Linia 12 leagă cele mai importante puncte din oraș.",
-                "en": "Line 12 connects the most important points in town."
+                "en": "Line 12 connects the most important points in town.",
+                "es": "La línea 12 conecta los puntos más importantes del pueblo."
               }
             }
           ],
@@ -2099,6 +2269,12 @@
               "Buy a 'Bono' card for cheaper fares.",
               "Buses are often crowded in the rain; plan extra time.",
               "Pay attention to the bus stop announcements."
+            ],
+            "es": [
+              "Usa la app 'IntercityBus' para información en tiempo real.",
+              "Compra una tarjeta 'Bono' para tarifas más baratas.",
+              "Los autobuses suelen estar llenos cuando llueve; planifica tiempo extra.",
+              "Presta atención a los anuncios de las paradas de autobús."
             ]
           }
         },
@@ -2107,7 +2283,8 @@
             "de": "Winterliches Insel-Hopping per Bus: Wir starten an der Playa de los Pocillos und genießen die Fahrt entlang der Küste. An der Playa Grande steigen wir aus, um die milde Sonne zu nutzen. Mittags bringt uns der Bus zum Biosfera Plaza, wo die Aussichtsterrassen auch im Winter ein Muss sind. Am Hafen El Varadero beobachten wir das geschäftige Treiben der Fischer. Zum Abschluss nehmen wir den Bus zum Mirador del Puerto für den Abendblick.",
             "hu": "Téli szigeti kalandozás busszal: a Playa de los Pocillos-nál kezdünk, élvezve a part menti utazást. A Playa Grande-nál szállunk ki, kihasználva az enyhe napsütést. Délben a busz a Biosfera Plaza-hoz visz, ahol a kilátóteraszok télen is kötelezőek. Az El Varadero kikötőben a halászok nyüzsgését figyeljük. Végül busszal megyünk a Mirador del Puerto-hoz az esti kilátásért.",
             "ro": "Explorare de iarnă cu autobuzul: începem la Playa de los Pocillos și admirăm coasta din mers. Coborâm la Playa Grande pentru a profita de soarele blând. La prânz, autobuzul ne duce la Biosfera Plaza, unde terasele sunt un 'must' și iarna. În portul El Varadero observăm activitatea pescarilor. La final, luăm autobuzul spre Mirador del Puerto pentru vederea de seară.",
-            "en": "Winter island hopping by bus: we start at Playa de los Pocillos and enjoy the ride along the coast. We get off at Playa Grande to take advantage of the mild sun. At noon, the bus takes us to Biosfera Plaza, where the observation decks are a must even in winter. At El Varadero harbor, we watch the bustling activity of the fishermen. Finally, we take the bus to Mirador del Puerto for the evening view."
+            "en": "Winter island hopping by bus: we start at Playa de los Pocillos and enjoy the ride along the coast. We get off at Playa Grande to take advantage of the mild sun. At noon, the bus takes us to Biosfera Plaza, where the observation decks are a must even in winter. At El Varadero harbor, we watch the bustling activity of the fishermen. Finally, we take the bus to Mirador del Puerto for the evening view.",
+            "es": "En invierno, recorrer la isla en autobús: empezamos en Playa de los Pocillos y disfrutamos del trayecto costero. Nos bajamos en Playa Grande para aprovechar el sol templado. Al mediodía el autobús nos lleva a Biosfera Plaza, donde las pasarelas son imprescindibles incluso en invierno. En El Varadero observamos la actividad de los pescadores. Finalmente tomamos el autobús hasta el Mirador del Puerto para la panorámica vespertina."
           },
           "stops": [
             {
@@ -2116,7 +2293,8 @@
                 "de": "Die Busse fahren im Winter nach regulärem Fahrplan.",
                 "hu": "A buszok télen a rendes menetrend szerint járnak.",
                 "ro": "Autobuzele circulă iarna după programul obișnuit.",
-                "en": "Buses run on the regular schedule during winter."
+                "en": "Buses run on the regular schedule during winter.",
+                "es": "Los autobuses circulan con el horario regular durante el invierno."
               }
             },
             {
@@ -2125,7 +2303,8 @@
                 "de": "Ein schöner Ort, um auf den nächsten Bus zu warten.",
                 "hu": "Szép hely a következő buszra való várakozáshoz.",
                 "ro": "Un loc frumos pentru a aștepta următorul autobuz.",
-                "en": "A nice place to wait for the next bus."
+                "en": "A nice place to wait for the next bus.",
+                "es": "Un buen lugar para esperar el siguiente autobús."
               }
             },
             {
@@ -2134,7 +2313,8 @@
                 "de": "Holen Sie sich ein Ticket für die Rundfahrt 'Linea 02'.",
                 "hu": "Váltson jegyet a 'Linea 02' körjáratra.",
                 "ro": "Luați un bilet pentru linia circulară 'Linea 02'.",
-                "en": "Get a ticket for the 'Linea 02' circular route."
+                "en": "Get a ticket for the 'Linea 02' circular route.",
+                "es": "Consigue un billete para la ruta circular 'Línea 02'."
               }
             },
             {
@@ -2143,7 +2323,8 @@
                 "de": "Der Hafen ist auch im Winter sehr lebendig.",
                 "hu": "A kikötő télen is nagyon életteli.",
                 "ro": "Portul este foarte plin de viață și iarna.",
-                "en": "The harbor is very lively even in winter."
+                "en": "The harbor is very lively even in winter.",
+                "es": "El puerto está muy animado incluso en invierno."
               }
             },
             {
@@ -2152,7 +2333,8 @@
                 "de": "Letzte Busse fahren kurz nach Sonnenuntergang.",
                 "hu": "Az utolsó buszok röviddel naplemente után indulnak.",
                 "ro": "Ultimele autobuze pleacă scurt după apus.",
-                "en": "The last buses leave shortly after sunset."
+                "en": "The last buses leave shortly after sunset.",
+                "es": "Los últimos autobuses salen poco después del anochecer."
               }
             }
           ],
@@ -2180,6 +2362,12 @@
               "Bus air conditioning is often on even in winter.",
               "Have small change ready for ticket purchases.",
               "Waiting times are pleasant thanks to the mild air."
+            ],
+            "es": [
+              "Las líneas 02 y 03 son ideales para turistas.",
+              "El aire acondicionado del autobús suele estar encendido incluso en invierno.",
+              "Ten cambio pequeño listo para comprar billetes.",
+              "Los tiempos de espera son agradables gracias al aire templado."
             ]
           }
         }
@@ -2194,19 +2382,22 @@
       "de": "Puerto del Carmen ist extrem deutsch- und englischsprachig, viele Speisekarten gibt es sogar in vier Sprachen. Spanisch ist hier fast schon Zweitsprache, dafür hörst du an der Avenida überall britisches Englisch.",
       "hu": "Puerto del Carmen kifejezetten német- és angolnyelvű üdülőhely, az étlapok négy nyelven vannak. A spanyol szinte másodlagos, az Avenidán mindenhol brit angolt fogsz hallani.",
       "ro": "Puerto del Carmen este foarte germano și anglofonă, multe meniuri sunt în patru limbi. Spaniola e aproape secundară aici, iar pe Avenida vei auzi engleză britanică peste tot.",
-      "en": "Puerto del Carmen is heavily geared to German and British tourists, menus often in four languages. Spanish almost feels secondary here, and the Avenida echoes with British English everywhere."
+      "en": "Puerto del Carmen is heavily geared to German and British tourists, menus often in four languages. Spanish almost feels secondary here, and the Avenida echoes with British English everywhere.",
+      "es": "Puerto del Carmen está muy orientado a turistas alemanes y británicos; los menús suelen estar en cuatro idiomas. El español casi se siente secundario aquí, y la avenida resuena con el inglés británico por todas partes."
     },
     "best_time_to_visit": {
       "de": "Ganzjährig Badewetter mit Wassertemperaturen um 19-23 Grad. Februar bis April ist am angenehmsten, im Juli und August wird die Promenade abends laut bis nach Mitternacht.",
       "hu": "Egész éves strandidő, vízhőmérséklet 19-23 fok. Február-április a legjobb, júliusban és augusztusban az este a sétányon éjfél utánig zajos, családdal érdemes hátrébb szállni.",
       "ro": "Vreme de plajă tot anul, apa la 19-23 grade. Februarie-aprilie e cel mai plăcut, în iulie-august promenada e zgomotoasă până după miezul nopții.",
-      "en": "Beach weather year round with sea temperatures 19-23 C. February to April is most pleasant, July and August see the strip noisy past midnight."
+      "en": "Beach weather year round with sea temperatures 19-23 C. February to April is most pleasant, July and August see the strip noisy past midnight.",
+      "es": "Clima de playa todo el año con temperaturas del mar de 19-23 °C. De febrero a abril es lo más agradable; julio y agosto la zona se vuelve ruidosa pasada la medianoche."
     },
     "neighborhood_warnings": {
       "de": "Die Hauptpromenade ist sicher, aber Taschendiebe arbeiten in den vollen Bars am Centro Atlantico. Lass keine Wertsachen am Strand und vorsicht beim Schwimmen, die Strömungen am Playa Grande sind tückischer als sie aussehen.",
       "hu": "A főpromenád biztonságos, de a zsúfolt bárokban (Centro Atlantico környékén) zsebtolvajok dolgoznak. Strandon ne hagyj értéket, és a Playa Grande áramlatai a látszatnál erősebbek, légy óvatos.",
       "ro": "Promenada principală e sigură, dar hoții de buzunare lucrează în barurile aglomerate de la Centro Atlantico. Nu lăsa valori pe plajă și atenție la curenți la Playa Grande, sunt mai puternici decât par.",
-      "en": "The main strip is safe but pickpockets work the crowded Centro Atlantico bars. Never leave valuables on the sand, and respect the Playa Grande currents which are stronger than they look."
+      "en": "The main strip is safe but pickpockets work the crowded Centro Atlantico bars. Never leave valuables on the sand, and respect the Playa Grande currents which are stronger than they look.",
+      "es": "La calle principal es segura, pero los carteristas actúan en los concurridos bares del Centro Atlántico. Nunca dejes objetos de valor en la arena y respeta las corrientes de Playa Grande, que son más fuertes de lo que parecen."
     }
   }
 }

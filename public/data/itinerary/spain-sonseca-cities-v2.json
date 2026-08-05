@@ -21,7 +21,8 @@
             "de": "Ayuntamiento de Sonseca",
             "hu": "Ayuntamiento de Sonseca",
             "ro": "Ayuntamiento de Sonseca",
-            "en": "Ayuntamiento de Sonseca"
+            "en": "Ayuntamiento de Sonseca",
+            "es": "Ayuntamiento de Sonseca"
           },
           "coords": [
             -3.97515,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die klassische Architektur des Rathauses, um die lokale Geschichte zu verstehen, und suchen Sie das Stadtwappen, bevor Sie die angrenzenden Cafés besuchen.",
             "hu": "Csodálja meg a városháza klasszikus építészetét, hogy megértse a helyi történelmet, és keresse meg a városi címert, mielőtt a szomszédos kávézókba látogatna.",
             "ro": "Admirați arhitectura clasică a primăriei pentru a înțelege istoria locală și căutați stema municipală înainte de a verifica cafenelele din piața alăturată.",
-            "en": "Admire the classic architecture of the town hall to understand local history, and look for the municipal crest before checking the adjacent square for cafes."
+            "en": "Admire the classic architecture of the town hall to understand local history, and look for the municipal crest before checking the adjacent square for cafes.",
+            "es": "Admira la arquitectura clásica del ayuntamiento para entender la historia local y busca el escudo municipal antes de consultar la plaza contigua por cafeterías."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Casa de las Cadenas",
             "hu": "Casa de las Cadenas",
             "ro": "Casa de las Cadenas",
-            "en": "Casa de las Cadenas"
+            "en": "Casa de las Cadenas",
+            "es": "Casa de las Cadenas"
           },
           "coords": [
             -3.972599,
@@ -59,7 +62,8 @@
             "de": "Entdecken Sie diese aristokratische Residenz, die für ihre historische Kettenfassade bekannt ist, aber bleiben Sie für das beste Weitwinkelfoto auf dem Bürgersteig.",
             "hu": "Fedezze fel ezt az arisztokrata rezidenciát, amely a történelmi kiváltságokat jelképező láncos homlokzatáról ismert, de a legjobb fotóhoz maradjon a járdán.",
             "ro": "Descoperiți această reședință aristocratică renumită pentru fațada sa cu lanțuri ce reprezintă un privilegiu istoric, dar rămâneți pe trotuar pentru cea mai bună fotografie.",
-            "en": "Discover this aristocratic residence known for its chained façade representing historic privilege, but remember to stay on the sidewalk for the best wide-angle photo."
+            "en": "Discover this aristocratic residence known for its chained façade representing historic privilege, but remember to stay on the sidewalk for the best wide-angle photo.",
+            "es": "Descubre esta residencia aristocrática conocida por su fachada con cadenas que representa privilegio histórico; recuerda mantenerte en la acera para la mejor foto gran angular."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Teatro Cervantes",
             "hu": "Teatro Cervantes",
             "ro": "Teatro Cervantes",
-            "en": "Teatro Cervantes"
+            "en": "Teatro Cervantes",
+            "es": "Teatro Cervantes"
           },
           "coords": [
             -3.972872,
@@ -82,7 +87,8 @@
             "de": "Erleben Sie die lokale Kulturszene in diesem charmanten Theater, das regionale Stücke aufführt, und kaufen Sie Tickets frühzeitig, falls Sie einen Abendbesuch planen.",
             "hu": "Ismerje meg a helyi kulturális életet ebben a bájos színházban, és próbáljon meg korán jegyet venni, ha esti látogatást tervez.",
             "ro": "Explorați scena culturală locală la acest teatru fermecător care găzduiește piese regionale și încercați să cumpărați biletele din timp pentru spectacolele de seară.",
-            "en": "Check out the local cultural scene at this charming theater which hosts regional plays, and try to buy tickets early if you plan an evening visit."
+            "en": "Check out the local cultural scene at this charming theater which hosts regional plays, and try to buy tickets early if you plan an evening visit.",
+            "es": "Descubre la escena cultural local en este encantador teatro que acoge obras regionales; procura comprar entradas con antelación si piensas acudir por la noche."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Ermita del Cristo",
             "hu": "Ermita del Cristo",
             "ro": "Ermita del Cristo",
-            "en": "Ermita del Cristo"
+            "en": "Ermita del Cristo",
+            "es": "Ermita del Cristo"
           },
           "coords": [
             -3.970658,
@@ -105,7 +112,8 @@
             "de": "Betreten Sie diese friedliche Einsiedelei, um die verehrte Christusfigur zu sehen, und respektieren Sie die ruhige Atmosphäre, indem Sie Ihr Telefon stummschalten.",
             "hu": "Lépjen be ebbe a békés remetelakba, hogy megtekintse a tisztelt Krisztus-szobrot, és tisztelje a csendes légkört a telefonja némításával.",
             "ro": "Intrați în acest schit pașnic pentru a vedea figura venerată a lui Hristos și respectați atmosfera liniștită oprind sunetul telefonului dumneavoastră.",
-            "en": "Step inside this peaceful hermitage to view the revered Christ figure, and respect the quiet atmosphere by turning off your phone's sound."
+            "en": "Step inside this peaceful hermitage to view the revered Christ figure, and respect the quiet atmosphere by turning off your phone's sound.",
+            "es": "Entra en esta pacífica ermita para ver la venerada imagen del Cristo y respeta la atmósfera de silencio apagando el sonido del móvil."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Ermita Virgen de los Remedios",
             "hu": "Ermita Virgen de los Remedios",
             "ro": "Ermita Virgen de los Remedios",
-            "en": "Ermita Virgen de los Remedios"
+            "en": "Ermita Virgen de los Remedios",
+            "es": "Ermita Virgen de los Remedios"
           },
           "coords": [
             -3.971091,
@@ -128,7 +137,8 @@
             "de": "Besuchen Sie dieses beliebte, der lokalen Schutzpatronin gewidmete Heiligtum, beachten Sie die Altardetails und tragen Sie beim Eintreten bescheidene Kleidung.",
             "hu": "Látogassa meg ezt a helyi védőszentnek szentelt kedvelt szentélyt, figyelje meg az oltár részleteit, és belépéskor viseljen szerény ruházatot.",
             "ro": "Vizitați acest sanctuar iubit dedicat patroanei locale, observând detaliile complicate ale altarului și purtați haine modeste la intrare.",
-            "en": "Visit this beloved sanctuary dedicated to the local patroness, noticing the intricate altar details, and wear modest clothing when entering."
+            "en": "Visit this beloved sanctuary dedicated to the local patroness, noticing the intricate altar details, and wear modest clothing when entering.",
+            "es": "Visita este querido santuario dedicado a la patrona local, fijándote en los intrincados detalles del altar; viste ropa modesta al entrar."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Auditorio Nelson Mandela",
             "hu": "Auditorio Nelson Mandela",
             "ro": "Auditorio Nelson Mandela",
-            "en": "Auditorio Nelson Mandela"
+            "en": "Auditorio Nelson Mandela",
+            "es": "Auditorio Nelson Mandela"
           },
           "coords": [
             -3.969678,
@@ -151,7 +162,8 @@
             "de": "Schätzen Sie das moderne Design dieses zeitgenössischen Auditoriums für kulturelle Veranstaltungen und überprüfen Sie das schwarze Brett auf kommende Open-Air-Shows.",
             "hu": "Értékelje a kulturális eseményeknek szentelt kortárs előadóterem modern kialakítását, és ellenőrizze a hirdetőtáblán a közelgő ingyenes szabadtéri műsorokat.",
             "ro": "Apreciați designul modern al acestui auditoriu contemporan dedicat evenimentelor culturale și verificați panoul exterior pentru viitoarele spectacole în aer liber.",
-            "en": "Appreciate the modern design of this contemporary auditorium dedicated to cultural events, and check the notice board outside for upcoming free open-air shows."
+            "en": "Appreciate the modern design of this contemporary auditorium dedicated to cultural events, and check the notice board outside for upcoming free open-air shows.",
+            "es": "Aprecia el diseño moderno de este auditorio contemporáneo dedicado a eventos culturales y consulta el tablón de anuncios exterior para próximos espectáculos al aire libre y gratuitos."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Morgen mit der Erkundung des historischen Kerns am berühmten Rathaus. Bewundern Sie mittags die Casa de las Cadenas und die regionale Kultur im Teatro Cervantes.\n\nEntdecken Sie am Nachmittag das spirituelle Herz von Sonseca durch seine Einsiedeleien.\n\nBeenden Sie Ihren Spaziergang am modernen Auditorio Nelson Mandela und reflektieren Sie die Stadtentwicklung.",
         "hu": "Kezdje a reggelt a történelmi központ felfedezésével az ikonikus Városházánál. Délben csodálja meg a Casa de las Cadenas épületét és a Teatro Cervantes kulturális kínálatát.\n\nDélután fedezze fel Sonseca spirituális szívét a bájos remetelakokon keresztül.\n\nVégül fejezze be sétáját a modern Auditorio Nelson Mandela közelében, a város fejlődésén merengve.",
         "ro": "Începeți dimineața explorând nucleul istoric, la emblematica Primărie. Până la prânz, admirați Casa de las Cadenas și bucurați-vă de cultura regională la Teatrul Cervantes.\n\nDupă-amiaza, descoperiți inima spirituală a orașului Sonseca prin schiturile sale fermecătoare.\n\nÎncheiați-vă plimbarea lângă modernul Auditoriu Nelson Mandela, reflectând asupra evoluției orașului.",
-        "en": "Start your morning exploring the historic core, starting with the iconic Town Hall. By midday, marvel at the stately Casa de las Cadenas and enjoy the regional culture at Teatro Cervantes.\n\nIn the afternoon, discover the spiritual heart of Sonseca through its charming hermitages.\n\nFinally, conclude your walk near the modern Auditorio Nelson Mandela, reflecting on the town's evolution."
+        "en": "Start your morning exploring the historic core, starting with the iconic Town Hall. By midday, marvel at the stately Casa de las Cadenas and enjoy the regional culture at Teatro Cervantes.\n\nIn the afternoon, discover the spiritual heart of Sonseca through its charming hermitages.\n\nFinally, conclude your walk near the modern Auditorio Nelson Mandela, reflecting on the town's evolution.",
+        "es": "Comienza la mañana explorando el casco histórico, empezando por el icónico Ayuntamiento. Al mediodía, maravíllate con la señorial Casa de las Cadenas y disfruta de la cultura regional en el Teatro Cervantes.\n\nPor la tarde, descubre el corazón espiritual de Sonseca a través de sus encantadoras ermitas.\n\nFinalmente, concluye tu paseo cerca del moderno Auditorio Nelson Mandela, reflexionando sobre la evolución del pueblo."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Beginnen Sie den regnerischen Morgen am Rathaus mit einem Regenschirm. Mittags bieten die historischen Häuser und das Theater trockenen Unterschlupf. Nachmittags besuchen Sie die Kapellen, achten Sie auf rutschige Wege. Abends erwartet Sie das Auditorium für einen trockenen, kulturellen Abschluss.",
             "hu": "Kezdje az esős reggelt a városházánál, esernyővel a kézben. Délben a történelmi házak és a színház nyújt fedett menedéket. Délután fedezze fel a kápolnákat, vigyázva a csúszós utakon. Este az audítóriumban egy száraz, kulturális program várja.",
             "ro": "Începeți dimineața ploioasă la primărie cu o umbrelă. La prânz, casele istorice și teatrul oferă adăpost uscat. După-amiaza vizitați capelele, având grijă pe aleile alunecoase. Seara, auditoriul vă așteaptă cu un final cultural, la adăpost de ploaie.",
-            "en": "Start your rainy morning at the town hall with an umbrella. At noon, the historic houses and theatre offer dry indoor shelter. In the afternoon, visit the chapels, stepping carefully on slippery paths. Spend the evening at the auditorium for a dry, cultural finish."
+            "en": "Start your rainy morning at the town hall with an umbrella. At noon, the historic houses and theatre offer dry indoor shelter. In the afternoon, visit the chapels, stepping carefully on slippery paths. Spend the evening at the auditorium for a dry, cultural finish.",
+            "es": "Empieza la mañana lluviosa en el ayuntamiento con paraguas. Al mediodía, las casas históricas y el teatro ofrecen refugio interior. Por la tarde, visita las capillas, caminando con cuidado por los senderos resbaladizos. Pasa la noche en el auditorio para un cierre cultural y seco."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Ayuntamiento de Sonseca",
                 "hu": "Ayuntamiento de Sonseca",
                 "ro": "Ayuntamiento de Sonseca",
-                "en": "Ayuntamiento de Sonseca"
+                "en": "Ayuntamiento de Sonseca",
+                "es": "Ayuntamiento de Sonseca"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die städtische Architektur und das lokale Flair. Nutzen Sie die nahegelegenen Arkaden, um im Regen trocken zu bleiben und die Fassade zu sehen.",
                 "hu": "Csodálja meg a városi építészetet és a helyi hangulatot. Használja a közeli árkádokat, hogy száraz maradjon, miközben az esőben figyeli a lenyűgöző homlokzatot.",
                 "ro": "Admirați arhitectura municipală și atmosfera locală. Folosiți arcadele din apropiere pentru a rămâne uscat în timp ce observați fațada impresionantă pe ploaie.",
-                "en": "Admire the town's municipal architecture and local vibe. Use the nearby arcades to stay dry and comfortable while observing the grand facade in the rain."
+                "en": "Admire the town's municipal architecture and local vibe. Use the nearby arcades to stay dry and comfortable while observing the grand facade in the rain.",
+                "es": "Admira la arquitectura municipal y el ambiente local. Usa los soportales cercanos para mantenerte seco y cómodo mientras observas la gran fachada bajo la lluvia."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Casa de las Cadenas",
                 "hu": "Casa de las Cadenas",
                 "ro": "Casa de las Cadenas",
-                "en": "Casa de las Cadenas"
+                "en": "Casa de las Cadenas",
+                "es": "Casa de las Cadenas"
               },
               "tip_5lang": {
                 "de": "Beachten Sie die historische Kettenfassade. Treten Sie nah an den verzierten Eingang, um schweren Regentropfen beim Fotografieren auszuweichen.",
                 "hu": "Figyelje meg a láncos homlokzatot. Lépjen közel a díszes bejárathoz, hogy elkerülje a nehéz esőcseppeket, miközben fotózza ezt a nemesi építészetet.",
                 "ro": "Observați fațada istorică cu lanțuri. Apropiați-vă de intrarea ornamentată pentru a evita picăturile de ploaie în timp ce fotografiați arhitectura.",
-                "en": "Notice the historic chained facade. Step close to the ornate entrance to avoid heavy raindrops while you take photos of this noble architecture."
+                "en": "Notice the historic chained facade. Step close to the ornate entrance to avoid heavy raindrops while you take photos of this noble architecture.",
+                "es": "Fíjate en la histórica fachada con cadenas. Acércate al ornado portal para evitar las fuertes gotas mientras fotografías esta noble arquitectura."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Teatro Cervantes",
                 "hu": "Teatro Cervantes",
                 "ro": "Teatro Cervantes",
-                "en": "Teatro Cervantes"
+                "en": "Teatro Cervantes",
+                "es": "Teatro Cervantes"
               },
               "tip_5lang": {
                 "de": "Genießen Sie lokale Kultur in diesem historischen Theater. Es ist der perfekte Zufluchtsort vor dem regnerischen Wetter, der Sie trocken hält.",
                 "hu": "Élvezze a helyi kultúrát ebben a történelmi színházban. Tökéletes beltéri menedék az esős időjárás elől, szárazon tart és remekül szórakoztat.",
                 "ro": "Bucurați-vă de cultura locală în acest teatru istoric. Este o evadare perfectă în interior din calea vremii ploioase, ținându-vă uscat și relaxat.",
-                "en": "Enjoy local culture inside this historic theatre. It is a perfect indoor escape from the rainy weather outside, keeping you dry and entertained."
+                "en": "Enjoy local culture inside this historic theatre. It is a perfect indoor escape from the rainy weather outside, keeping you dry and entertained.",
+                "es": "Disfruta de la cultura local dentro de este histórico teatro. Es un perfecto refugio interior contra la lluvia, manteniéndote seco y entretenido."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Ermita del Cristo",
                 "hu": "Ermita del Cristo",
                 "ro": "Ermita del Cristo",
-                "en": "Ermita del Cristo"
+                "en": "Ermita del Cristo",
+                "es": "Ermita del Cristo"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie diese ruhige religiöse Stätte. Seien Sie vorsichtig auf den nassen Steinstufen zum Eingang, da sie bei starkem Regen rutschig werden.",
                 "hu": "Fedezze fel ezt a csendes vallási helyszínt. Vigyázzon a bejárathoz vezető nedves kőlépcsőkön, mivel egy felhőszakadás során nagyon csúszóssá válhatnak.",
                 "ro": "Descoperiți acest loc religios liniștit. Fiți atenți pe treptele umede de piatră care duc spre intrare, deoarece pot deveni alunecoase pe ploaie.",
-                "en": "Discover this quiet religious site. Be careful on the wet stone steps leading up to the entrance, as they can become slippery during a downpour."
+                "en": "Discover this quiet religious site. Be careful on the wet stone steps leading up to the entrance, as they can become slippery during a downpour.",
+                "es": "Descubre este tranquilo lugar religioso. Ten cuidado con los escalones de piedra mojados que pueden volverse resbaladizos durante el aguacero."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Ermita Virgen de los Remedios",
                 "hu": "Ermita Virgen de los Remedios",
                 "ro": "Ermita Virgen de los Remedios",
-                "en": "Ermita Virgen de los Remedios"
+                "en": "Ermita Virgen de los Remedios",
+                "es": "Ermita Virgen de los Remedios"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die traditionellen Altarbilder. Bringen Sie einen kompakten Regenschirm mit, da der umliegende Feldweg heute ziemlich schlammig wird.",
                 "hu": "Tekintse meg a gyönyörű hagyományos oltárképeket. Hozzon magával egy kompakt esernyőt, mivel a környező földút ma meglehetősen sáros és nedves lehet.",
                 "ro": "Vizionați altarele tradiționale frumoase. Aduceți o umbrelă compactă cu dumneavoastră, deoarece cărarea de pământ din jur poate deveni destul de noroioasă.",
-                "en": "View the beautiful traditional altarpieces. Bring a compact umbrella with you, as the surrounding dirt path can get quite muddy and wet today."
+                "en": "View the beautiful traditional altarpieces. Bring a compact umbrella with you, as the surrounding dirt path can get quite muddy and wet today.",
+                "es": "Contempla los bellos retablos tradicionales. Lleva un paraguas compacto, ya que el camino de tierra circundante puede embarrarse y mojarse hoy."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Auditorio Nelson Mandela",
                 "hu": "Auditorio Nelson Mandela",
                 "ro": "Auditorio Nelson Mandela",
-                "en": "Auditorio Nelson Mandela"
+                "en": "Auditorio Nelson Mandela",
+                "es": "Auditorio Nelson Mandela"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihren Tag mit moderner Unterhaltung. Die geräumige, überdachte Halle ist der ideale trockene Zufluchtsort für einen regnerischen Nachmittag.",
                 "hu": "Zárja a napot modern szórakozással. A tágas, teljesen fedett beltéri csarnok ideális, száraz menedék egy esős és borongós délutánon a városban.",
                 "ro": "Încheiați-vă ziua cu divertisment modern. Sala spațioasă și complet acoperită este evadarea uscată ideală pentru o după-amiază ploioasă și posomorâtă.",
-                "en": "End your day with modern entertainment. The spacious, fully covered indoor hall is the ideal dry escape for a rainy and gloomy afternoon in town."
+                "en": "End your day with modern entertainment. The spacious, fully covered indoor hall is the ideal dry escape for a rainy and gloomy afternoon in town.",
+                "es": "Termina el día con entretenimiento moderno. La amplia sala cubierta es el escape seco ideal para una tarde lluviosa y gris en el pueblo."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Ein frischer Morgen am Rathaus, warm eingepackt. Mittags historische Touren mit Pausen in gemütlichen Cafés. Nachmittags besuchen Sie die Kapellen vor dem frühen Sonnenuntergang gegen 17 Uhr. Verbringen Sie einen warmen Abend im Auditorium Nelson Mandela.",
             "hu": "Csípős téli reggel a városházánál, öltözzön melegen. Délben történelmi séta, melegedjen fel egy kávézóban. Délután látogassa meg a kápolnákat a korai, 17:00 órás sötétedés előtt. Töltsön egy kényelmes, meleg estét a Nelson Mandela Audítóriumban.",
             "ro": "O dimineață rece de iarnă la primărie, îmbrăcați-vă gros. La prânz explorați centrul cu opriri la cafenele calde. După-amiaza vizitați capelele înainte de apusul devreme, pe la 17:00. Petreceți o seară confortabilă la Auditoriul Nelson Mandela.",
-            "en": "A crisp winter morning at the town hall, bundle up warmly. At noon, enjoy historic sights with warm cafe breaks. In the afternoon, visit the local chapels before the early sunset around 5 PM. Have a cozy, warm evening indoors at the Nelson Mandela Auditorium."
+            "en": "A crisp winter morning at the town hall, bundle up warmly. At noon, enjoy historic sights with warm cafe breaks. In the afternoon, visit the local chapels before the early sunset around 5 PM. Have a cozy, warm evening indoors at the Nelson Mandela Auditorium.",
+            "es": "Una fresca mañana invernal en el ayuntamiento, abrígate bien. Al mediodía, disfruta de los sitios históricos con pausas en cafés cálidos. Por la tarde, visita las capillas antes de la puesta de sol temprano sobre las 17:00. Pasa una acogedora velada interior en el Auditorio Nelson Mandela."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Ayuntamiento de Sonseca",
                 "hu": "Ayuntamiento de Sonseca",
                 "ro": "Ayuntamiento de Sonseca",
-                "en": "Ayuntamiento de Sonseca"
+                "en": "Ayuntamiento de Sonseca",
+                "es": "Ayuntamiento de Sonseca"
               },
               "tip_5lang": {
                 "de": "Sehen Sie die Details des Rathauses. Die Morgenluft ist frisch, tragen Sie also einen dicken Schal, während Sie auf dem Platz stehen.",
                 "hu": "Nézze meg a városháza részleteit. A reggeli levegő friss, ezért viseljen vastag sálat, miközben a téren áll és fényképez.",
                 "ro": "Vedeți detaliile primăriei. Aerul dimineții este rece, așa că purtați un fular gros în timp ce stați în piața publică.",
-                "en": "See the town hall's beautiful details. The morning air is crisp, so make sure to wear a thick scarf while standing out in the grand central square."
+                "en": "See the town hall's beautiful details. The morning air is crisp, so make sure to wear a thick scarf while standing out in the grand central square.",
+                "es": "Observa los bonitos detalles del ayuntamiento. El aire matutino es frío, así que asegúrate de llevar una bufanda gruesa mientras estás en la gran plaza central."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Casa de las Cadenas",
                 "hu": "Casa de las Cadenas",
                 "ro": "Casa de las Cadenas",
-                "en": "Casa de las Cadenas"
+                "en": "Casa de las Cadenas",
+                "es": "Casa de las Cadenas"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die edle Architektur und die Ketten. Die Nachmittagsschatten werden früh lang, perfekt für dramatische Winterfotos vor der Dunkelheit.",
                 "hu": "Fedezze fel a nemesi építészetet és a láncokat. A délutáni árnyékok korán megnyúlnak, ami tökéletes a drámai téli fotókhoz, mielőtt besötétedik.",
                 "ro": "Explorați arhitectura nobilă și lanțurile detaliate. Umbrele după-amiezii se lungesc devreme, perfecte pentru fotografii dramatice de iarnă.",
-                "en": "Explore the noble architecture and detailed chains. The afternoon shadows get long early, perfect for dramatic winter photos before it gets dark."
+                "en": "Explore the noble architecture and detailed chains. The afternoon shadows get long early, perfect for dramatic winter photos before it gets dark.",
+                "es": "Explora la arquitectura noble y las cadenas detalladas. Las sombras de la tarde se alargan pronto, perfectas para fotos invernales dramáticas antes de que oscurezca."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Teatro Cervantes",
                 "hu": "Teatro Cervantes",
                 "ro": "Teatro Cervantes",
-                "en": "Teatro Cervantes"
+                "en": "Teatro Cervantes",
+                "es": "Teatro Cervantes"
               },
               "tip_5lang": {
                 "de": "Erleben Sie Sonsecas kulturelles Herz. Betreten Sie das warme Theaterfoyer, um dem kalten Winterwind zu entfliehen und die Atmosphäre zu genießen.",
                 "hu": "Tapasztalja meg Sonseca kulturális szívét. Lépjen be a meleg színházi előcsarnokba, hogy elmeneküljön a csípős téli szél elől, és élvezze a hangulatot.",
                 "ro": "Experimentați inima culturală a orașului. Pășiți în holul cald al teatrului pentru a scăpa de vântul rece de iarnă și a vă bucura de atmosferă.",
-                "en": "Experience Sonseca's vibrant cultural heart. Step inside the warm theatre lobby to escape the chilly winter wind and enjoy the cozy atmosphere."
+                "en": "Experience Sonseca's vibrant cultural heart. Step inside the warm theatre lobby to escape the chilly winter wind and enjoy the cozy atmosphere.",
+                "es": "Vive el vibrante corazón cultural de Sonseca. Entra al cálido vestíbulo del teatro para resguardarte del viento invernal y disfrutar de un ambiente acogedor."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Ermita del Cristo",
                 "hu": "Ermita del Cristo",
                 "ro": "Ermita del Cristo",
-                "en": "Ermita del Cristo"
+                "en": "Ermita del Cristo",
+                "es": "Ermita del Cristo"
               },
               "tip_5lang": {
                 "de": "Sehen Sie die verehrte Christusfigur. Das friedliche Innere der Kapelle bietet einen ruhigen und bemerkenswert warmen Rückzugsort vor der Eiseskälte.",
                 "hu": "Nézze meg a tisztelt Krisztus-alakot bent. A kápolna békés belső tere nyugodt és figyelemreméltóan meleg menedéket kínál a kinti fagyos hideg elől.",
                 "ro": "Vedeți figura venerată a lui Hristos. Interiorul seren al capelei oferă un refugiu pașnic și remarcabil de cald din calea frigului de afară.",
-                "en": "See the revered Christ figure inside. The chapel's serene interior offers a peaceful and remarkably warm retreat from the freezing cold outside."
+                "en": "See the revered Christ figure inside. The chapel's serene interior offers a peaceful and remarkably warm retreat from the freezing cold outside.",
+                "es": "Contempla la venerada imagen del Cristo en su interior. El sereno interior de la capilla ofrece un refugio pacífico y sorprendentemente cálido frente al frío exterior."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Ermita Virgen de los Remedios",
                 "hu": "Ermita Virgen de los Remedios",
                 "ro": "Ermita Virgen de los Remedios",
-                "en": "Ermita Virgen de los Remedios"
+                "en": "Ermita Virgen de los Remedios",
+                "es": "Ermita Virgen de los Remedios"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie das schöne Heiligtum. Besuchen Sie es vor Sonnenuntergang, da das schwindende Licht die frische Luft hier viel kälter wirken lässt.",
                 "hu": "Csodálja meg a szép szentélyt. Mindenképpen naplemente előtt látogasson el ide, mert a halványuló fény miatt a friss levegő sokkal hidegebbnek hat.",
                 "ro": "Admirați sanctuarul minunat. Asigurați-vă că vizitați înainte de apus, deoarece lumina slabă face ca aerul curat să se simtă mult mai rece.",
-                "en": "Admire the lovely sanctuary. Make sure to visit before sunset, as the fading light makes the crisp evening air feel much colder in this open area."
+                "en": "Admire the lovely sanctuary. Make sure to visit before sunset, as the fading light makes the crisp evening air feel much colder in this open area.",
+                "es": "Admira el bonito santuario. Asegúrate de visitarlo antes del atardecer, ya que la luz menguante hace que el aire de la tarde se sienta mucho más frío en esta zona abierta."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Auditorio Nelson Mandela",
                 "hu": "Auditorio Nelson Mandela",
                 "ro": "Auditorio Nelson Mandela",
-                "en": "Auditorio Nelson Mandela"
+                "en": "Auditorio Nelson Mandela",
+                "es": "Auditorio Nelson Mandela"
               },
               "tip_5lang": {
                 "de": "Genießen Sie eine fantastische kulturelle Vorstellung. Das warme, hell erleuchtete Auditorium ist genau das Richtige nach dem frühen Sonnenuntergang um 17 Uhr.",
                 "hu": "Élvezze a fantasztikus kulturális előadást. A meleg, jól kivilágított modern audítórium pontosan az, amire szüksége van a korai, 17 órás naplemente után.",
                 "ro": "Bucurați-vă de un spectacol cultural fantastic. Auditoriul modern, cald și bine luminat este exact ce aveți nevoie după apusul devreme din timpul iernii.",
-                "en": "Enjoy a fantastic cultural performance. The warm, well-lit modern auditorium is exactly what you need after the winter sun sets so early around 5 PM."
+                "en": "Enjoy a fantastic cultural performance. The warm, well-lit modern auditorium is exactly what you need after the winter sun sets so early around 5 PM.",
+                "es": "Disfruta de una fantástica actuación cultural. El moderno auditorio, cálido y bien iluminado, es justo lo que necesitas tras la puesta temprana del sol alrededor de las 17:00."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Ermita de San Gregorio",
             "hu": "Ermita de San Gregorio",
             "ro": "Ermita de San Gregorio",
-            "en": "Ermita de San Gregorio"
+            "en": "Ermita de San Gregorio",
+            "es": "Ermita de San Gregorio"
           },
           "coords": [
             -4.000527,
@@ -380,7 +420,8 @@
             "de": "Beginnen Sie Ihre Reise an dieser bescheidenen ländlichen Kapelle vor der Landschaftskulisse und bringen Sie Wasser mit, da es keine Geschäfte in der Nähe gibt.",
             "hu": "Kezdje útját ennél a tájba simuló szerény vidéki kápolnánál, és hozzon magával vizet, mivel nincsenek közvetlen boltok a közelben.",
             "ro": "Începeți-vă călătoria la această capelă rurală modestă situată pe fundalul peisajului și aduceți apă, deoarece nu există magazine în apropiere.",
-            "en": "Start your journey at this modest rural chapel set against the landscape, and bring some water as there are no immediate shops nearby."
+            "en": "Start your journey at this modest rural chapel set against the landscape, and bring some water as there are no immediate shops nearby.",
+            "es": "Comienza tu ruta en esta modesta ermita rural situada en el paisaje y lleva agua, ya que no hay tiendas inmediatas cerca."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Ermita de la Virgen de la Salud",
             "hu": "Ermita de la Virgen de la Salud",
             "ro": "Ermita de la Virgen de la Salud",
-            "en": "Ermita de la Virgen de la Salud"
+            "en": "Ermita de la Virgen de la Salud",
+            "es": "Ermita de la Virgen de la Salud"
           },
           "coords": [
             -3.983091,
@@ -403,7 +445,8 @@
             "de": "Beobachten Sie das traditionelle Mauerwerk dieser auf Heilung ausgerichteten Einsiedelei am Stadtrand und kommen Sie morgens für das beste Licht.",
             "hu": "Figyelje meg ennek a gyógyító témájú külvárosi remetelaknak a hagyományos téglafalazatát, és látogasson el a reggeli órákban a legjobb természetes fényviszonyokért.",
             "ro": "Observați zidăria tradițională a acestui schit cu tematică vindecătoare de la periferie și vizitați în timpul orelor dimineții pentru cea mai bună lumină.",
-            "en": "Observe the traditional brickwork of this healing-themed hermitage on the town's outskirts, and visit during morning hours for the best natural lighting."
+            "en": "Observe the traditional brickwork of this healing-themed hermitage on the town's outskirts, and visit during morning hours for the best natural lighting.",
+            "es": "Observa el aparejo tradicional de ladrillo de esta ermita dedicada a la curación, en las afueras del pueblo; visítala por la mañana para obtener la mejor luz natural."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Ayuntamiento de Sonseca",
             "hu": "Ayuntamiento de Sonseca",
             "ro": "Ayuntamiento de Sonseca",
-            "en": "Ayuntamiento de Sonseca"
+            "en": "Ayuntamiento de Sonseca",
+            "es": "Ayuntamiento de Sonseca"
           },
           "coords": [
             -3.97515,
@@ -426,7 +470,8 @@
             "de": "Bewundern Sie die klassische Architektur des Rathauses, um die lokale Geschichte zu verstehen, und suchen Sie das Stadtwappen, bevor Sie die angrenzenden Cafés besuchen.",
             "hu": "Csodálja meg a városháza klasszikus építészetét, hogy megértse a helyi történelmet, és keresse meg a városi címert, mielőtt a szomszédos kávézókba látogatna.",
             "ro": "Admirați arhitectura clasică a primăriei pentru a înțelege istoria locală și căutați stema municipală înainte de a verifica cafenelele din piața alăturată.",
-            "en": "Admire the classic architecture of the town hall to understand local history, and look for the municipal crest before checking the adjacent square for cafes."
+            "en": "Admire the classic architecture of the town hall to understand local history, and look for the municipal crest before checking the adjacent square for cafes.",
+            "es": "Admira la arquitectura clásica del ayuntamiento para entender la historia local y busca el escudo municipal antes de consultar la plaza contigua por cafeterías."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Casa de las Cadenas",
             "hu": "Casa de las Cadenas",
             "ro": "Casa de las Cadenas",
-            "en": "Casa de las Cadenas"
+            "en": "Casa de las Cadenas",
+            "es": "Casa de las Cadenas"
           },
           "coords": [
             -3.972599,
@@ -449,7 +495,8 @@
             "de": "Entdecken Sie diese aristokratische Residenz, die für ihre historische Kettenfassade bekannt ist, aber bleiben Sie für das beste Weitwinkelfoto auf dem Bürgersteig.",
             "hu": "Fedezze fel ezt az arisztokrata rezidenciát, amely a történelmi kiváltságokat jelképező láncos homlokzatáról ismert, de a legjobb fotóhoz maradjon a járdán.",
             "ro": "Descoperiți această reședință aristocratică renumită pentru fațada sa cu lanțuri ce reprezintă un privilegiu istoric, dar rămâneți pe trotuar pentru cea mai bună fotografie.",
-            "en": "Discover this aristocratic residence known for its chained façade representing historic privilege, but remember to stay on the sidewalk for the best wide-angle photo."
+            "en": "Discover this aristocratic residence known for its chained façade representing historic privilege, but remember to stay on the sidewalk for the best wide-angle photo.",
+            "es": "Descubre esta residencia aristocrática conocida por su fachada con cadenas que representa privilegio histórico; recuerda mantenerte en la acera para la mejor foto gran angular."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Ermita del Cristo",
             "hu": "Ermita del Cristo",
             "ro": "Ermita del Cristo",
-            "en": "Ermita del Cristo"
+            "en": "Ermita del Cristo",
+            "es": "Ermita del Cristo"
           },
           "coords": [
             -3.970658,
@@ -472,7 +520,8 @@
             "de": "Betreten Sie diese friedliche Einsiedelei, um die verehrte Christusfigur zu sehen, und respektieren Sie die ruhige Atmosphäre, indem Sie Ihr Telefon stummschalten.",
             "hu": "Lépjen be ebbe a békés remetelakba, hogy megtekintse a tisztelt Krisztus-szobrot, és tisztelje a csendes légkört a telefonja némításával.",
             "ro": "Intrați în acest schit pașnic pentru a vedea figura venerată a lui Hristos și respectați atmosfera liniștită oprind sunetul telefonului dumneavoastră.",
-            "en": "Step inside this peaceful hermitage to view the revered Christ figure, and respect the quiet atmosphere by turning off your phone's sound."
+            "en": "Step inside this peaceful hermitage to view the revered Christ figure, and respect the quiet atmosphere by turning off your phone's sound.",
+            "es": "Entra en esta pacífica ermita para ver la venerada imagen del Cristo y respeta la atmósfera de silencio apagando el sonido del móvil."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Ermita Virgen de los Remedios",
             "hu": "Ermita Virgen de los Remedios",
             "ro": "Ermita Virgen de los Remedios",
-            "en": "Ermita Virgen de los Remedios"
+            "en": "Ermita Virgen de los Remedios",
+            "es": "Ermita Virgen de los Remedios"
           },
           "coords": [
             -3.971091,
@@ -495,7 +545,8 @@
             "de": "Besuchen Sie dieses beliebte, der lokalen Schutzpatronin gewidmete Heiligtum, beachten Sie die Altardetails und tragen Sie beim Eintreten bescheidene Kleidung.",
             "hu": "Látogassa meg ezt a helyi védőszentnek szentelt kedvelt szentélyt, figyelje meg az oltár részleteit, és belépéskor viseljen szerény ruházatot.",
             "ro": "Vizitați acest sanctuar iubit dedicat patroanei locale, observând detaliile complicate ale altarului și purtați haine modeste la intrare.",
-            "en": "Visit this beloved sanctuary dedicated to the local patroness, noticing the intricate altar details, and wear modest clothing when entering."
+            "en": "Visit this beloved sanctuary dedicated to the local patroness, noticing the intricate altar details, and wear modest clothing when entering.",
+            "es": "Visita este querido santuario dedicado a la patrona local, fijándote en los intrincados detalles del altar; viste ropa modesta al entrar."
           }
         },
         {
@@ -503,7 +554,8 @@
             "de": "Auditorio Nelson Mandela",
             "hu": "Auditorio Nelson Mandela",
             "ro": "Auditorio Nelson Mandela",
-            "en": "Auditorio Nelson Mandela"
+            "en": "Auditorio Nelson Mandela",
+            "es": "Auditorio Nelson Mandela"
           },
           "coords": [
             -3.969678,
@@ -518,7 +570,8 @@
             "de": "Schätzen Sie das moderne Design dieses zeitgenössischen Auditoriums für kulturelle Veranstaltungen und überprüfen Sie das schwarze Brett auf kommende Open-Air-Shows.",
             "hu": "Értékelje a kulturális eseményeknek szentelt kortárs előadóterem modern kialakítását, és ellenőrizze a hirdetőtáblán a közelgő ingyenes szabadtéri műsorokat.",
             "ro": "Apreciați designul modern al acestui auditoriu contemporan dedicat evenimentelor culturale și verificați panoul exterior pentru viitoarele spectacole în aer liber.",
-            "en": "Appreciate the modern design of this contemporary auditorium dedicated to cultural events, and check the notice board outside for upcoming free open-air shows."
+            "en": "Appreciate the modern design of this contemporary auditorium dedicated to cultural events, and check the notice board outside for upcoming free open-air shows.",
+            "es": "Aprecia el diseño moderno de este auditorio contemporáneo dedicado a eventos culturales y consulta el tablón de anuncios exterior para próximos espectáculos al aire libre y gratuitos."
           }
         }
       ],
@@ -526,7 +579,8 @@
         "de": "Beginnen Sie Ihre Radtour früh an der friedlichen Ermita de San Gregorio an der frischen Luft. Fahren Sie in Richtung Stadt zur Virgen de la Salud, bevor Sie mittags das historische Zentrum erkunden.\n\nVerbringen Sie den Nachmittag damit, an architektonischen Juwelen und heiligen Einsiedeleien vorbeizugleiten.\n\nIhre Tour endet gegen Abend entspannt am modernen Auditorium.",
         "hu": "Kezdje kerékpártúráját korán a békés Ermita de San Gregorio kápolnánál, élvezve a friss levegőt. Tekerjen a város felé a Virgen de la Salud-hoz, majd délben merüljön el a történelmi központban.\n\nDélután siklik el olyan építészeti gyöngyszemek mellett, mint a Casa de las Cadenas és a remetelakok.\n\nA túra kora este a modern előadóterem környékén ér véget.",
         "ro": "Începeți plimbarea cu bicicleta devreme la pașnica Ermita de San Gregorio. Mergeți spre oraș pentru a vedea Virgen de la Salud înainte de a intra în centrul istoric la prânz.\n\nPetreceți după-amiaza trecând pe lângă bijuterii arhitecturale precum Casa de las Cadenas și schituri sacre.\n\nTurul se termină lin în jurul modernului auditoriu, odată cu lăsarea serii.",
-        "en": "Begin your bike ride early at the peaceful Ermita de San Gregorio, taking in the open air. Ride towards town to see the Virgen de la Salud before delving into the historical center at midday.\n\nSpend the afternoon gliding past architectural gems like Casa de las Cadenas and sacred hermitages.\n\nYour cycling tour ends smoothly around the modern auditorium as evening approaches."
+        "en": "Begin your bike ride early at the peaceful Ermita de San Gregorio, taking in the open air. Ride towards town to see the Virgen de la Salud before delving into the historical center at midday.\n\nSpend the afternoon gliding past architectural gems like Casa de las Cadenas and sacred hermitages.\n\nYour cycling tour ends smoothly around the modern auditorium as evening approaches.",
+        "es": "Comienza tu paseo en bici temprano en la tranquila Ermita de San Gregorio, disfrutando del aire libre. Pedalea hacia el pueblo para ver la Virgen de la Salud antes de adentrarte en el casco histórico al mediodía.\n\nPasa la tarde deslizándote ante joyas arquitectónicas como la Casa de las Cadenas y las ermitas sacras.\n\nTu recorrido ciclista termina junto al moderno auditorio al acercarse la noche."
       },
       "variants": {
         "rainy": {
@@ -534,7 +588,8 @@
             "de": "Starten Sie die nasse Morgenfahrt zu den Kapellen in wasserdichter Kleidung. Mittags radeln Sie vorsichtig über rutschiges Kopfsteinpflaster. Nachmittags nutzen Sie Schutzbleche. Erreichen Sie abends das Auditorium, um sich aufzuwärmen und zu trocknen.",
             "hu": "Kezdje a nedves reggeli tekerést a kápolnákhoz vízálló felszerelésben. Délben óvatosan haladjon a városközpont csúszós macskakövein. Délután használjon sárvédőt a vallási helyszíneken. Este érkezzen meg az audítóriumhoz, ahol megszáradhat.",
             "ro": "Începeți plimbarea umedă de dimineață spre capele cu echipament impermeabil. La prânz, pedalați cu grijă pe piatra cubică alunecoasă. După-amiaza, păstrați apărătorile de noroi. Ajungeți seara la auditoriu pentru a vă usca la un eveniment.",
-            "en": "Start with a wet morning ride to the chapels, wearing good waterproof gear. At noon, carefully pedal through the town center on slippery cobblestones. In the afternoon, keep fenders on for the religious sites. Arrive at the auditorium by evening to dry off."
+            "en": "Start with a wet morning ride to the chapels, wearing good waterproof gear. At noon, carefully pedal through the town center on slippery cobblestones. In the afternoon, keep fenders on for the religious sites. Arrive at the auditorium by evening to dry off.",
+            "es": "Empieza con un tramo matutino húmedo hacia las capillas, llevando buena ropa impermeable. Al mediodía, pedalea con cuidado por los empedrados resbaladizos del centro. Por la tarde, mantén los guardabarros puestos para los sitios religiosos. Llega al auditorio por la noche para secarte."
           },
           "stops": [
             {
@@ -542,13 +597,15 @@
                 "de": "Ermita de San Gregorio",
                 "hu": "Ermita de San Gregorio",
                 "ro": "Ermita de San Gregorio",
-                "en": "Ermita de San Gregorio"
+                "en": "Ermita de San Gregorio",
+                "es": "Ermita de San Gregorio"
               },
               "tip_5lang": {
                 "de": "Sehen Sie sich diese charmante Kapelle an. Bremsen Sie sanft bei der Anfahrt, da nasse Blätter auf dem Weg die Fahrfläche recht rutschig machen können.",
                 "hu": "Tekintse meg ezt a bájos történelmi kápolnát. Óvatosan fékezzen a megközelítéskor, mivel a nedves falevelek az úton eléggé csúszóssá tehetik a felületet.",
                 "ro": "Vizitați această capelă istorică fermecătoare. Frânați ușor la apropiere, deoarece frunzele umede de pe alee pot face suprafața destul de alunecoasă.",
-                "en": "Check out this charming historic chapel. Brake gently on your approach, as the wet leaves on the path can make the cycling surface quite slick."
+                "en": "Check out this charming historic chapel. Brake gently on your approach, as the wet leaves on the path can make the cycling surface quite slick.",
+                "es": "Visita esta encantadora ermita histórica. Frenar con suavidad al acercarte, ya que las hojas mojadas en el camino pueden dejar la superficie resbaladiza para bicicletas."
               }
             },
             {
@@ -556,13 +613,15 @@
                 "de": "Ermita de la Virgen de la Salud",
                 "hu": "Ermita de la Virgen de la Salud",
                 "ro": "Ermita de la Virgen de la Salud",
-                "en": "Ermita de la Virgen de la Salud"
+                "en": "Ermita de la Virgen de la Salud",
+                "es": "Ermita de la Virgen de la Salud"
               },
               "tip_5lang": {
                 "de": "Sehen Sie sich die schöne Architektur an. Versuchen Sie, Ihr Rad unter großen Bäumen zu parken, um den Sattel bei Regenschauern trocken zu halten.",
                 "hu": "Nézze meg a gyönyörű helyi építészetet. Próbálja meg a közeli nagy fák alatt leparkolni a kerékpárját, hogy a nyereg viszonylag száraz maradjon a záporok alatt.",
                 "ro": "Vedeți arhitectura locală frumoasă. Încercați să parcați bicicleta sub copacii mari din apropiere pentru a menține șaua relativ uscată în timpul ploii.",
-                "en": "See the beautiful local architecture. Try to park your bike under the nearby large trees to keep the saddle relatively dry during passing showers."
+                "en": "See the beautiful local architecture. Try to park your bike under the nearby large trees to keep the saddle relatively dry during passing showers.",
+                "es": "Contempla la bella arquitectura local. Intenta aparcar la bici bajo los árboles cercanos para mantener el sillín relativamente seco durante los chubascos."
               }
             },
             {
@@ -570,13 +629,15 @@
                 "de": "Ayuntamiento de Sonseca",
                 "hu": "Ayuntamiento de Sonseca",
                 "ro": "Ayuntamiento de Sonseca",
-                "en": "Ayuntamiento de Sonseca"
+                "en": "Ayuntamiento de Sonseca",
+                "es": "Ayuntamiento de Sonseca"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das lokale Verwaltungszentrum. Steigen Sie hier vorsichtig ab, da das nasse Kopfsteinpflaster für Fahrradreifen berüchtigt rutschig ist.",
                 "hu": "Figyelje meg a helyi közigazgatás központját. Óvatosan szálljon le itt, mivel a központi tér nedves macskakövei hírhedten csúszósak a kerékpárgumik számára.",
                 "ro": "Observați centrul administrației locale. Descălecați cu grijă aici, deoarece piatra cubică umedă din piața centrală este alunecoasă pentru anvelopele de bicicletă.",
-                "en": "Observe the local administration hub. Dismount carefully here, as the central plaza's wet cobblestones are notoriously slippery for bicycle tires."
+                "en": "Observe the local administration hub. Dismount carefully here, as the central plaza's wet cobblestones are notoriously slippery for bicycle tires.",
+                "es": "Observa el centro de la administración local. Desmonta con cuidado aquí, pues los adoquines mojados de la plaza central son notoriamente resbaladizos para las ruedas de bicicleta."
               }
             },
             {
@@ -584,13 +645,15 @@
                 "de": "Casa de las Cadenas",
                 "hu": "Casa de las Cadenas",
                 "ro": "Casa de las Cadenas",
-                "en": "Casa de las Cadenas"
+                "en": "Casa de las Cadenas",
+                "es": "Casa de las Cadenas"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die beeindruckende Kettenfassade. Tragen Sie beim Radfahren Warnkleidung, da starker Regen die Sicht der Autofahrer drastisch einschränkt.",
                 "hu": "Nézze meg a lenyűgöző láncos homlokzatot. Viseljen jól láthatósági felszerelést a közelben, mivel a heves eső drasztikusan csökkenti a látási viszonyokat.",
                 "ro": "Priviți fațada impresionantă cu lanțuri. Purtați echipament de înaltă vizibilitate, deoarece ploaia abundentă reduce drastic vizibilitatea șoferilor.",
-                "en": "Look at the impressive chained facade. Ensure you wear high-visibility gear when cycling nearby, as heavy rain drastically reduces driver visibility."
+                "en": "Look at the impressive chained facade. Ensure you wear high-visibility gear when cycling nearby, as heavy rain drastically reduces driver visibility.",
+                "es": "Fíjate en la impresionante fachada con cadenas. Asegúrate de llevar ropa de alta visibilidad al pedalear por la zona, ya que la lluvia intensa reduce mucho la visibilidad de los conductores."
               }
             },
             {
@@ -598,13 +661,15 @@
                 "de": "Ermita del Cristo",
                 "hu": "Ermita del Cristo",
                 "ro": "Ermita del Cristo",
-                "en": "Ermita del Cristo"
+                "en": "Ermita del Cristo",
+                "es": "Ermita del Cristo"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie diese spirituelle Stätte. Stellen Sie sicher, dass Ihr Fahrrad mit Schutzblechen ausgestattet ist, um Spritzer auf der nassen Fahrt zu vermeiden.",
                 "hu": "Látogasson el erre a mélyen spirituális helyre. Győződjön meg róla, hogy kerékpárja megfelelő sárvédővel van felszerelve, hogy elkerülje a felcsapódó vizet.",
                 "ro": "Vizitați acest loc profund spiritual. Asigurați-vă că bicicleta are apărători de noroi pentru a evita stropirea în timpul călătoriei pe carosabilul umed.",
-                "en": "Visit this deeply spiritual site. Make sure your bicycle is equipped with proper mudguards to avoid splashing yourself on the wet ride over here."
+                "en": "Visit this deeply spiritual site. Make sure your bicycle is equipped with proper mudguards to avoid splashing yourself on the wet ride over here.",
+                "es": "Visita este lugar de profunda espiritualidad. Asegúrate de que tu bicicleta tenga guardabarros adecuados para evitar salpicaduras en el trayecto húmedo."
               }
             },
             {
@@ -612,13 +677,15 @@
                 "de": "Ermita Virgen de los Remedios",
                 "hu": "Ermita Virgen de los Remedios",
                 "ro": "Ermita Virgen de los Remedios",
-                "en": "Ermita Virgen de los Remedios"
+                "en": "Ermita Virgen de los Remedios",
+                "es": "Ermita Virgen de los Remedios"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die friedliche ländliche Umgebung. Stellen Sie sicher, dass Ihre Fahrradlichter bei starken Regengüssen für maximale Sicherheit eingeschaltet sind.",
                 "hu": "Gyönyörködjön a békés vidéki környezetben. A maximális biztonság érdekében erős felhőszakadások idején mindig kapcsolja be az első és hátsó kerékpárlámpákat.",
                 "ro": "Admirați împrejurimile rurale pașnice. Asigurați-vă că luminile bicicletei sunt aprinse în timpul ploilor torențiale pentru o siguranță maximă.",
-                "en": "Take in the peaceful rural surroundings. Always ensure your front and rear bike lights are switched on during heavy downpours for maximum safety."
+                "en": "Take in the peaceful rural surroundings. Always ensure your front and rear bike lights are switched on during heavy downpours for maximum safety.",
+                "es": "Disfruta del tranquilo entorno rural. Asegúrate siempre de llevar las luces delanteras y traseras encendidas durante fuertes aguaceros para máxima seguridad."
               }
             },
             {
@@ -626,13 +693,15 @@
                 "de": "Auditorio Nelson Mandela",
                 "hu": "Auditorio Nelson Mandela",
                 "ro": "Auditorio Nelson Mandela",
-                "en": "Auditorio Nelson Mandela"
+                "en": "Auditorio Nelson Mandela",
+                "es": "Auditorio Nelson Mandela"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihren Radtag an diesem kulturellen Ort. Der überdachte Eingangsbereich ist perfekt, um nasse Radkleidung auszuziehen und auszuschütteln.",
                 "hu": "Fejezze be kerékpáros napját ezen a kulturális helyszínen. A fedett bejárati rész teljesen tökéletes a nedves kerékpáros felszerelés levételére és lerázására.",
                 "ro": "Încheiați ziua de ciclism la acest loc cultural. Zona de intrare acoperită este perfectă pentru a vă scoate și a vă scutura echipamentul umed de ciclism.",
-                "en": "Finish your cycling day at this cultural venue. The covered entrance area is completely perfect for taking off and shaking dry your wet cycling gear."
+                "en": "Finish your cycling day at this cultural venue. The covered entrance area is completely perfect for taking off and shaking dry your wet cycling gear.",
+                "es": "Termina tu jornada ciclista en este espacio cultural. La zona de entrada cubierta es perfecta para quitarte y sacudir la ropa de ciclismo mojada."
               }
             }
           ]
@@ -642,7 +711,8 @@
             "de": "Eine frische Morgenfahrt zu den Kapellen; tragen Sie Thermohandschuhe. Mittags hält Sie das Radeln im Zentrum warm. Nachmittags besuchen Sie die restlichen Orte vor der frühen Dämmerung. Erreichen Sie das Auditorium sicher vor der eiskalten Nacht.",
             "hu": "Frissítő reggeli tekerés a külső kápolnákhoz, viseljen termo kesztyűt. A déli kerékpározás a történelmi központban melegen tartja. Délután nézze meg a többi helyszínt a korai sötétedés előtt. Érjen az audítóriumhoz a fagyos éjszaka beállta előtt.",
             "ro": "O plimbare răcoroasă de dimineață spre capele; purtați mănuși termice. Pedalarea la prânz prin centrul istoric vă încălzește. După-amiaza vizitați restul locurilor înainte de lăsarea întunericului. Ajungeți la auditoriu înainte de noaptea geroasă.",
-            "en": "A brisk morning ride to the outer chapels; wear thermal gloves. Midday cycling through the historic center keeps you warm. In the afternoon, visit the remaining sites before the early dusk. Safely reach the auditorium before the freezing night sets in."
+            "en": "A brisk morning ride to the outer chapels; wear thermal gloves. Midday cycling through the historic center keeps you warm. In the afternoon, visit the remaining sites before the early dusk. Safely reach the auditorium before the freezing night sets in.",
+            "es": "Un enérgico paseo matutino hacia las ermitas exteriores; lleva guantes térmicos. Al mediodía, el ciclismo por el casco histórico te mantiene caliente. Por la tarde, visita los sitios restantes antes del anochecer temprano. Llega al auditorio con seguridad antes de que entre la noche gélida."
           },
           "stops": [
             {
@@ -650,13 +720,15 @@
                 "de": "Ermita de San Gregorio",
                 "hu": "Ermita de San Gregorio",
                 "ro": "Ermita de San Gregorio",
-                "en": "Ermita de San Gregorio"
+                "en": "Ermita de San Gregorio",
+                "es": "Ermita de San Gregorio"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie Ihre Radtour an diesem friedlichen Ort. Radeln Sie von hier aus zügig, um Ihre Muskeln in der frostigen Wintermorgenluft aufzuwärmen.",
                 "hu": "Kezdje a kerékpártúrát ezen a békés helyen. Innentől tekerjen tempósan, hogy gyorsan felmelegítse izmait a meglepően fagyos téli reggeli levegőben.",
                 "ro": "Începeți plimbarea cu bicicleta în acest loc pașnic. Pedalați alert de aici pentru a vă încălzi rapid mușchii în aerul surprinzător de geros al dimineții.",
-                "en": "Start your bike ride at this peaceful spot. Pedal briskly from here to quickly warm up your muscles in the surprisingly frosty morning winter air."
+                "en": "Start your bike ride at this peaceful spot. Pedal briskly from here to quickly warm up your muscles in the surprisingly frosty morning winter air.",
+                "es": "Empieza tu paseo en bici en este lugar tranquilo. Pedalea con energía desde aquí para calentar rápidamente los músculos en el sorprendentemente helado aire matutino de invierno."
               }
             },
             {
@@ -664,13 +736,15 @@
                 "de": "Ermita de la Virgen de la Salud",
                 "hu": "Ermita de la Virgen de la Salud",
                 "ro": "Ermita de la Virgen de la Salud",
-                "en": "Ermita de la Virgen de la Salud"
+                "en": "Ermita de la Virgen de la Salud",
+                "es": "Ermita de la Virgen de la Salud"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie diese ruhige Einsiedelei. Halten Sie Ihre Thermo-Radschichten fest verschlossen, da dieser offene Bereich den bitteren Winterwind einfängt.",
                 "hu": "Fedezze fel ezt a nyugodt és nyitott remetelakot. Tartsa szorosan összehúzva a termo kerékpáros rétegeket, mivel ez a nyílt terület felfogja a metsző téli szelet.",
                 "ro": "Descoperiți acest schit senin și deschis. Păstrați straturile termice de ciclism încheise bine, deoarece această zonă expusă prinde briza amară de iarnă.",
-                "en": "Discover this serene and open hermitage. Keep your thermal cycling layers zipped up tight, as this exposed area catches the bitter winter breeze."
+                "en": "Discover this serene and open hermitage. Keep your thermal cycling layers zipped up tight, as this exposed area catches the bitter winter breeze.",
+                "es": "Descubre esta serena y despejada ermita. Lleva las capas térmicas de ciclismo bien cerradas, ya que esta zona expuesta recibe la amarga brisa invernal."
               }
             },
             {
@@ -678,13 +752,15 @@
                 "de": "Ayuntamiento de Sonseca",
                 "hu": "Ayuntamiento de Sonseca",
                 "ro": "Ayuntamiento de Sonseca",
-                "en": "Ayuntamiento de Sonseca"
+                "en": "Ayuntamiento de Sonseca",
+                "es": "Ayuntamiento de Sonseca"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur des Hauptplatzes. Schließen Sie Ihr Rad sicher ab und holen Sie sich ein Heißgetränk, um Ihre frierenden Hände aufzuwärmen.",
                 "hu": "Csodálja meg a központi tér építészetét. Zárja le biztonságosan a kerékpárt, és igyon egy forró italt egy közeli kávézóban, hogy felmelegítse fagyos kezeit.",
                 "ro": "Admirați arhitectura pieței centrale. Încuiați bicicleta în siguranță și luați o băutură caldă la o cafenea pentru a vă încălzi rapid mâinile înghețate.",
-                "en": "Admire the central square's architecture. Securely lock your bike and grab a hot drink at a nearby cafe to quickly warm your freezing hands."
+                "en": "Admire the central square's architecture. Securely lock your bike and grab a hot drink at a nearby cafe to quickly warm your freezing hands.",
+                "es": "Admira la arquitectura de la plaza central. Asegura bien tu bici y toma una bebida caliente en una cafetería cercana para calentar rápidamente tus manos congeladas."
               }
             },
             {
@@ -692,13 +768,15 @@
                 "de": "Casa de las Cadenas",
                 "hu": "Casa de las Cadenas",
                 "ro": "Casa de las Cadenas",
-                "en": "Casa de las Cadenas"
+                "en": "Casa de las Cadenas",
+                "es": "Casa de las Cadenas"
               },
               "tip_5lang": {
                 "de": "Bestaunen Sie dieses historische Gebäude. Die extrem tief stehende Wintersonne hebt die Steinstrukturen wunderschön hervor, ein lohnender Stopp.",
                 "hu": "Csodálja meg ezt a történelmi láncos épületet. A rendkívül alacsony téli nap gyönyörűen kiemeli a kő textúráját, így hálás kerékpáros megálló.",
                 "ro": "Minunați-vă de această clădire istorică. Soarele extrem de scăzut de iarnă evidențiază frumos texturile de piatră, o oprire plină de satisfacții.",
-                "en": "Marvel at this historic chained building. The extremely low winter sun highlights the stone textures beautifully, making it a rewarding cycling stop."
+                "en": "Marvel at this historic chained building. The extremely low winter sun highlights the stone textures beautifully, making it a rewarding cycling stop.",
+                "es": "Maravíllate con este edificio histórico con cadenas. El sol bajo del invierno realza hermosamente las texturas de la piedra, lo que lo convierte en una parada gratificante para ciclistas."
               }
             },
             {
@@ -706,13 +784,15 @@
                 "de": "Ermita del Cristo",
                 "hu": "Ermita del Cristo",
                 "ro": "Ermita del Cristo",
-                "en": "Ermita del Cristo"
+                "en": "Ermita del Cristo",
+                "es": "Ermita del Cristo"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die heilige Atmosphäre. Versuchen Sie, sich nach dem Besuch zügig weiterzubewegen, um Ihre Körperwärme in der beißenden Kälte zu erhalten.",
                 "hu": "Élvezze a csendes, szent atmoszférát bent. Próbáljon meg gyorsan továbbhaladni a látogatás után, hogy megőrizze értékes testhőjét a harapós hidegben.",
                 "ro": "Bucurați-vă de atmosfera liniștită și sacră din interior. Încercați să vă mișcați rapid după vizită pentru a vă menține căldura corpului în frigul tăios.",
-                "en": "Enjoy the quiet, sacred atmosphere inside. Try to keep moving swiftly right after your visit to maintain your valuable body heat in the biting cold."
+                "en": "Enjoy the quiet, sacred atmosphere inside. Try to keep moving swiftly right after your visit to maintain your valuable body heat in the biting cold.",
+                "es": "Disfruta de la atmósfera tranquila y sagrada en el interior. Intenta mantenerte en movimiento rápidamente después de la visita para conservar el calor corporal en el frío cortante."
               }
             },
             {
@@ -720,13 +800,15 @@
                 "de": "Ermita Virgen de los Remedios",
                 "hu": "Ermita Virgen de los Remedios",
                 "ro": "Ermita Virgen de los Remedios",
-                "en": "Ermita Virgen de los Remedios"
+                "en": "Ermita Virgen de los Remedios",
+                "es": "Ermita Virgen de los Remedios"
               },
               "tip_5lang": {
                 "de": "Schätzen Sie die komplexen traditionellen Details. Die Temperatur fällt hier gegen Abend unglaublich schnell, bereiten Sie sich auf eine kühle Fahrt vor.",
                 "hu": "Értékelje a bonyolult hagyományos részleteket. Ahogy közeledik az este, a hőmérséklet hihetetlenül gyorsan csökken, készüljön fel egy hűvös útra.",
                 "ro": "Apreciați detaliile tradiționale complicate. Temperatura scade incredibil de repede aici odată cu lăsarea serii, așa că pregătiți-vă pentru o plimbare rece.",
-                "en": "Appreciate the intricate traditional details. The temperature drops incredibly fast here as evening approaches, so prepare for a chilly ride ahead."
+                "en": "Appreciate the intricate traditional details. The temperature drops incredibly fast here as evening approaches, so prepare for a chilly ride ahead.",
+                "es": "Aprecia los intrincados detalles tradicionales. La temperatura baja increíblemente rápido aquí al acercarse la noche, así que prepárate para un paseo frío."
               }
             },
             {
@@ -734,13 +816,15 @@
                 "de": "Auditorio Nelson Mandela",
                 "hu": "Auditorio Nelson Mandela",
                 "ro": "Auditorio Nelson Mandela",
-                "en": "Auditorio Nelson Mandela"
+                "en": "Auditorio Nelson Mandela",
+                "es": "Auditorio Nelson Mandela"
               },
               "tip_5lang": {
                 "de": "Schließen Sie Ihre Reise hier bequem ab. Schalten Sie Ihre hellsten Fahrradlichter ein, bevor Sie heimfahren, da Winterabende sehr früh dunkel werden.",
                 "hu": "Zárja le kényelmesen az utazását itt. Kapcsolja be a legfényesebb kerékpárlámpáit, mielőtt hazaindul, mivel a téli esték nagyon korán veszélyesen sötétek lesznek.",
                 "ro": "Încheiați-vă călătoria confortabil aici. Aprindeți cele mai strălucitoare lumini ale bicicletei înainte de a pleca, deoarece serile de iarnă se întunecă devreme.",
-                "en": "Conclude your trip comfortably here. Switch on your brightest bike lights before heading home, since winter evenings get dangerously dark very early."
+                "en": "Conclude your trip comfortably here. Switch on your brightest bike lights before heading home, since winter evenings get dangerously dark very early.",
+                "es": "Concluye tu recorrido con comodidad aquí. Enciende las luces más potentes de tu bici antes de volver a casa, ya que las noches de invierno se oscurecen peligrosamente muy temprano."
               }
             }
           ]
@@ -760,7 +844,8 @@
             "de": "Ermita de San Gregorio",
             "hu": "Ermita de San Gregorio",
             "ro": "Ermita de San Gregorio",
-            "en": "Ermita de San Gregorio"
+            "en": "Ermita de San Gregorio",
+            "es": "Ermita de San Gregorio"
           },
           "coords": [
             -4.000527,
@@ -775,7 +860,8 @@
             "de": "Beginnen Sie Ihre Reise an dieser bescheidenen ländlichen Kapelle vor der Landschaftskulisse und bringen Sie Wasser mit, da es keine Geschäfte in der Nähe gibt.",
             "hu": "Kezdje útját ennél a tájba simuló szerény vidéki kápolnánál, és hozzon magával vizet, mivel nincsenek közvetlen boltok a közelben.",
             "ro": "Începeți-vă călătoria la această capelă rurală modestă situată pe fundalul peisajului și aduceți apă, deoarece nu există magazine în apropiere.",
-            "en": "Start your journey at this modest rural chapel set against the landscape, and bring some water as there are no immediate shops nearby."
+            "en": "Start your journey at this modest rural chapel set against the landscape, and bring some water as there are no immediate shops nearby.",
+            "es": "Comienza tu recorrido en esta modesta capilla rural situada en el paisaje y lleva algo de agua, ya que no hay tiendas inmediatamente cercanas."
           }
         },
         {
@@ -783,7 +869,8 @@
             "de": "Ermita de la Virgen de la Salud",
             "hu": "Ermita de la Virgen de la Salud",
             "ro": "Ermita de la Virgen de la Salud",
-            "en": "Ermita de la Virgen de la Salud"
+            "en": "Ermita de la Virgen de la Salud",
+            "es": "Ermita de la Virgen de la Salud"
           },
           "coords": [
             -3.983091,
@@ -798,7 +885,8 @@
             "de": "Beobachten Sie das traditionelle Mauerwerk dieser auf Heilung ausgerichteten Einsiedelei am Stadtrand und kommen Sie morgens für das beste Licht.",
             "hu": "Figyelje meg ennek a gyógyító témájú külvárosi remetelaknak a hagyományos téglafalazatát, és látogasson el a reggeli órákban a legjobb természetes fényviszonyokért.",
             "ro": "Observați zidăria tradițională a acestui schit cu tematică vindecătoare de la periferie și vizitați în timpul orelor dimineții pentru cea mai bună lumină.",
-            "en": "Observe the traditional brickwork of this healing-themed hermitage on the town's outskirts, and visit during morning hours for the best natural lighting."
+            "en": "Observe the traditional brickwork of this healing-themed hermitage on the town's outskirts, and visit during morning hours for the best natural lighting.",
+            "es": "Observa la obra de ladrillo tradicional de esta ermita de temática sanadora en las afueras del pueblo, y visítala por la mañana para obtener la mejor luz natural."
           }
         },
         {
@@ -806,7 +894,8 @@
             "de": "Ayuntamiento de Sonseca",
             "hu": "Ayuntamiento de Sonseca",
             "ro": "Ayuntamiento de Sonseca",
-            "en": "Ayuntamiento de Sonseca"
+            "en": "Ayuntamiento de Sonseca",
+            "es": "Ayuntamiento de Sonseca"
           },
           "coords": [
             -3.97515,
@@ -821,7 +910,8 @@
             "de": "Bewundern Sie die klassische Architektur des Rathauses, um die lokale Geschichte zu verstehen, und suchen Sie das Stadtwappen, bevor Sie die angrenzenden Cafés besuchen.",
             "hu": "Csodálja meg a városháza klasszikus építészetét, hogy megértse a helyi történelmet, és keresse meg a városi címert, mielőtt a szomszédos kávézókba látogatna.",
             "ro": "Admirați arhitectura clasică a primăriei pentru a înțelege istoria locală și căutați stema municipală înainte de a verifica cafenelele din piața alăturată.",
-            "en": "Admire the classic architecture of the town hall to understand local history, and look for the municipal crest before checking the adjacent square for cafes."
+            "en": "Admire the classic architecture of the town hall to understand local history, and look for the municipal crest before checking the adjacent square for cafes.",
+            "es": "Admira la arquitectura clásica del ayuntamiento para entender la historia local y busca el escudo municipal antes de revisar la plaza adyacente en busca de cafeterías."
           }
         },
         {
@@ -829,7 +919,8 @@
             "de": "Casa de las Cadenas",
             "hu": "Casa de las Cadenas",
             "ro": "Casa de las Cadenas",
-            "en": "Casa de las Cadenas"
+            "en": "Casa de las Cadenas",
+            "es": "Casa de las Cadenas"
           },
           "coords": [
             -3.972599,
@@ -844,7 +935,8 @@
             "de": "Entdecken Sie diese aristokratische Residenz, die für ihre historische Kettenfassade bekannt ist, aber bleiben Sie für das beste Weitwinkelfoto auf dem Bürgersteig.",
             "hu": "Fedezze fel ezt az arisztokrata rezidenciát, amely a történelmi kiváltságokat jelképező láncos homlokzatáról ismert, de a legjobb fotóhoz maradjon a járdán.",
             "ro": "Descoperiți această reședință aristocratică renumită pentru fațada sa cu lanțuri ce reprezintă un privilegiu istoric, dar rămâneți pe trotuar pentru cea mai bună fotografie.",
-            "en": "Discover this aristocratic residence known for its chained façade representing historic privilege, but remember to stay on the sidewalk for the best wide-angle photo."
+            "en": "Discover this aristocratic residence known for its chained façade representing historic privilege, but remember to stay on the sidewalk for the best wide-angle photo.",
+            "es": "Descubre esta residencia aristocrática conocida por su fachada con cadenas que representa el privilegio histórico, pero recuerda mantenerte en la acera para la mejor foto gran angular."
           }
         },
         {
@@ -852,7 +944,8 @@
             "de": "Teatro Cervantes",
             "hu": "Teatro Cervantes",
             "ro": "Teatro Cervantes",
-            "en": "Teatro Cervantes"
+            "en": "Teatro Cervantes",
+            "es": "Teatro Cervantes"
           },
           "coords": [
             -3.972872,
@@ -867,7 +960,8 @@
             "de": "Erleben Sie die lokale Kulturszene in diesem charmanten Theater, das regionale Stücke aufführt, und kaufen Sie Tickets frühzeitig, falls Sie einen Abendbesuch planen.",
             "hu": "Ismerje meg a helyi kulturális életet ebben a bájos színházban, és próbáljon meg korán jegyet venni, ha esti látogatást tervez.",
             "ro": "Explorați scena culturală locală la acest teatru fermecător care găzduiește piese regionale și încercați să cumpărați biletele din timp pentru spectacolele de seară.",
-            "en": "Check out the local cultural scene at this charming theater which hosts regional plays, and try to buy tickets early if you plan an evening visit."
+            "en": "Check out the local cultural scene at this charming theater which hosts regional plays, and try to buy tickets early if you plan an evening visit.",
+            "es": "Conoce la escena cultural local en este encantador teatro que acoge obras regionales; procura comprar entradas pronto si planeas una visita nocturna."
           }
         },
         {
@@ -875,7 +969,8 @@
             "de": "Ermita del Cristo",
             "hu": "Ermita del Cristo",
             "ro": "Ermita del Cristo",
-            "en": "Ermita del Cristo"
+            "en": "Ermita del Cristo",
+            "es": "Ermita del Cristo"
           },
           "coords": [
             -3.970658,
@@ -890,7 +985,8 @@
             "de": "Betreten Sie diese friedliche Einsiedelei, um die verehrte Christusfigur zu sehen, und respektieren Sie die ruhige Atmosphäre, indem Sie Ihr Telefon stummschalten.",
             "hu": "Lépjen be ebbe a békés remetelakba, hogy megtekintse a tisztelt Krisztus-szobrot, és tisztelje a csendes légkört a telefonja némításával.",
             "ro": "Intrați în acest schit pașnic pentru a vedea figura venerată a lui Hristos și respectați atmosfera liniștită oprind sunetul telefonului dumneavoastră.",
-            "en": "Step inside this peaceful hermitage to view the revered Christ figure, and respect the quiet atmosphere by turning off your phone's sound."
+            "en": "Step inside this peaceful hermitage to view the revered Christ figure, and respect the quiet atmosphere by turning off your phone's sound.",
+            "es": "Entra en esta ermita pacífica para contemplar la venerada imagen del Cristo y respeta el ambiente silencioso apagando el sonido del teléfono."
           }
         },
         {
@@ -898,7 +994,8 @@
             "de": "Ermita Virgen de los Remedios",
             "hu": "Ermita Virgen de los Remedios",
             "ro": "Ermita Virgen de los Remedios",
-            "en": "Ermita Virgen de los Remedios"
+            "en": "Ermita Virgen de los Remedios",
+            "es": "Ermita Virgen de los Remedios"
           },
           "coords": [
             -3.971091,
@@ -913,7 +1010,8 @@
             "de": "Besuchen Sie dieses beliebte, der lokalen Schutzpatronin gewidmete Heiligtum, beachten Sie die Altardetails und tragen Sie beim Eintreten bescheidene Kleidung.",
             "hu": "Látogassa meg ezt a helyi védőszentnek szentelt kedvelt szentélyt, figyelje meg az oltár részleteit, és belépéskor viseljen szerény ruházatot.",
             "ro": "Vizitați acest sanctuar iubit dedicat patroanei locale, observând detaliile complicate ale altarului și purtați haine modeste la intrare.",
-            "en": "Visit this beloved sanctuary dedicated to the local patroness, noticing the intricate altar details, and wear modest clothing when entering."
+            "en": "Visit this beloved sanctuary dedicated to the local patroness, noticing the intricate altar details, and wear modest clothing when entering.",
+            "es": "Visita este querido santuario dedicado a la patrona local, observa los intrincados detalles del altar y viste ropa modesta al entrar."
           }
         },
         {
@@ -921,7 +1019,8 @@
             "de": "Auditorio Nelson Mandela",
             "hu": "Auditorio Nelson Mandela",
             "ro": "Auditorio Nelson Mandela",
-            "en": "Auditorio Nelson Mandela"
+            "en": "Auditorio Nelson Mandela",
+            "es": "Auditorio Nelson Mandela"
           },
           "coords": [
             -3.969678,
@@ -936,7 +1035,8 @@
             "de": "Schätzen Sie das moderne Design dieses zeitgenössischen Auditoriums für kulturelle Veranstaltungen und überprüfen Sie das schwarze Brett auf kommende Open-Air-Shows.",
             "hu": "Értékelje a kulturális eseményeknek szentelt kortárs előadóterem modern kialakítását, és ellenőrizze a hirdetőtáblán a közelgő ingyenes szabadtéri műsorokat.",
             "ro": "Apreciați designul modern al acestui auditoriu contemporan dedicat evenimentelor culturale și verificați panoul exterior pentru viitoarele spectacole în aer liber.",
-            "en": "Appreciate the modern design of this contemporary auditorium dedicated to cultural events, and check the notice board outside for upcoming free open-air shows."
+            "en": "Appreciate the modern design of this contemporary auditorium dedicated to cultural events, and check the notice board outside for upcoming free open-air shows.",
+            "es": "Aprecia el diseño moderno de este auditorio contemporáneo dedicado a eventos culturales y consulta el tablón de anuncios exterior para espectáculos al aire libre gratuitos próximos."
           }
         }
       ],
@@ -944,7 +1044,8 @@
         "de": "Eine morgendliche Fahrt verbindet mühelos die entfernten Einsiedeleien San Gregorio und Virgen de la Salud. Parken Sie mittags im Zentrum, um das historische Rathaus und die Casa de las Cadenas zu entdecken.\n\nDer Nachmittag bietet schnelle Stopps an den spirituellen Heiligtümern der Stadt.\n\nBeenden Sie Ihren umfassenden Roadtrip am modernen kulturellen Auditorium.",
         "hu": "A reggeli autózás könnyen összeköti a távoli remetelakokat, kezdve a San Gregorio és a Virgen de la Salud kápolnákkal. Délben parkoljon le a központban a Városháza és a Casa de las Cadenas felfedezéséhez.\n\nA délután gyors megállókat tesz lehetővé a város spirituális szentélyeinél és a színháznál.\n\nFejezze be az átfogó autós kirándulást a modern kulturális előadóteremnél.",
         "ro": "O plimbare matinală cu mașina conectează ușor schiturile îndepărtate, începând cu San Gregorio. La prânz, parcați în centru pentru a descoperi Primăria istorică și Casa de las Cadenas.\n\nDupă-amiaza permite opriri rapide la sanctuarele spirituale ale orașului și la teatrul local.\n\nÎncheiați călătoria dumneavoastră cuprinzătoare la modernul auditoriu cultural.",
-        "en": "A morning drive easily connects the distant hermitages, starting with San Gregorio and Virgen de la Salud. By midday, park in the center to discover the historical Town Hall and the aristocratic Casa de las Cadenas.\n\nThe afternoon allows for quick stops at the town's spiritual sanctuaries and the local theater.\n\nWrap up your comprehensive road trip at the modern cultural auditorium."
+        "en": "A morning drive easily connects the distant hermitages, starting with San Gregorio and Virgen de la Salud. By midday, park in the center to discover the historical Town Hall and the aristocratic Casa de las Cadenas.\n\nThe afternoon allows for quick stops at the town's spiritual sanctuaries and the local theater.\n\nWrap up your comprehensive road trip at the modern cultural auditorium.",
+        "es": "Una mañana en coche conecta fácilmente las ermita alejadas, comenzando por San Gregorio y Virgen de la Salud. Al mediodía, aparca en el centro para descubrir el histórico Ayuntamiento y la aristocrática Casa de las Cadenas.\n\nLa tarde permite paradas rápidas en los santuarios espirituales del pueblo y en el teatro local.\n\nTermina tu completa ruta en carretera en el moderno auditorio cultural."
       },
       "variants": {
         "rainy": {
@@ -952,7 +1053,8 @@
             "de": "Fahren Sie an diesem regnerischen Morgen zu den Kapellen. Mittags parken Sie nahe dem Rathaus und dem Zentrum, um kurze Wege zu haben. Nachmittags navigieren Sie im Regen zu den Schreinen. Verbringen Sie den Abend im trockenen Auditorium.",
             "hu": "Vezessen a kápolnákhoz ezen az esős reggelen, óvatosan a vizes utakon. Délben parkoljon a városháza és a történelmi központ közelében. Délután navigáljon a szentélyekhez az esőben. Az estét töltse az audítóriumban egy teljesen száraz, fedett programmal.",
             "ro": "Conduceți spre capele în această dimineață ploioasă, cu prudență. La prânz, parcați aproape de primărie și centrul istoric pentru a merge mai puțin pe jos. După-amiaza navigați spre sanctuare prin ploaie. Petreceți seara la un eveniment uscat la auditoriu.",
-            "en": "Drive to the chapels this rainy morning, using wipers and driving safely. At noon, park near the town hall and historical center to minimize walking. In the afternoon, navigate to the shrines in the rain. Spend the evening at the auditorium for a dry event."
+            "en": "Drive to the chapels this rainy morning, using wipers and driving safely. At noon, park near the town hall and historical center to minimize walking. In the afternoon, navigate to the shrines in the rain. Spend the evening at the auditorium for a dry event.",
+            "es": "Conduce a las capillas esta mañana lluviosa usando los limpiaparabrisas y conduciendo con seguridad. Al mediodía, aparca cerca del ayuntamiento y el casco histórico para minimizar caminatas. Por la tarde, dirígete a los santuarios bajo la lluvia. Pasa la noche en el auditorio para un evento en seco."
           },
           "stops": [
             {
@@ -960,13 +1062,15 @@
                 "de": "Ermita de San Gregorio",
                 "hu": "Ermita de San Gregorio",
                 "ro": "Ermita de San Gregorio",
-                "en": "Ermita de San Gregorio"
+                "en": "Ermita de San Gregorio",
+                "es": "Ermita de San Gregorio"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die abgelegene historische Kapelle. Stellen Sie sicher, dass die Scheibenheizung eingeschaltet ist, um die Aussicht bequem zu genießen.",
                 "hu": "Csodálja meg az eldugott történelmi kápolnát. Győződjön meg róla, hogy az autó páramentesítője be van kapcsolva, hogy kényelmesen élvezhesse a kilátást.",
                 "ro": "Admirați capela istorică retrasă. Asigurați-vă că dezaburirea mașinii este pornită la maximum pentru a vă bucura confortabil de priveliștea prin ferestre.",
-                "en": "Admire the secluded historical chapel. Ensure your car's window demister is fully on to comfortably enjoy the exterior view through the windows."
+                "en": "Admire the secluded historical chapel. Ensure your car's window demister is fully on to comfortably enjoy the exterior view through the windows.",
+                "es": "Admira la capilla histórica y apartada. Asegúrate de que el desempañador de las ventanillas del coche esté completamente encendido para disfrutar cómodamente de la vista exterior a través de los cristales."
               }
             },
             {
@@ -974,13 +1078,15 @@
                 "de": "Ermita de la Virgen de la Salud",
                 "hu": "Ermita de la Virgen de la Salud",
                 "ro": "Ermita de la Virgen de la Salud",
-                "en": "Ermita de la Virgen de la Salud"
+                "en": "Ermita de la Virgen de la Salud",
+                "es": "Ermita de la Virgen de la Salud"
               },
               "tip_5lang": {
                 "de": "Sehen Sie sich die schöne religiöse Kunst an. Parken Sie so nah wie möglich am Haupteingang, um die Gehzeit im Regen vollständig zu minimieren.",
                 "hu": "Nézze meg a gyönyörű vallási művészetet. Próbáljon meg a lehető legközelebb parkolni a főbejárathoz, hogy minimálisra csökkentse a sétát az esőben.",
                 "ro": "Vedeți arta religioasă frumoasă. Încercați să parcați cât mai aproape de intrarea principală pentru a vă minimiza complet timpul de mers prin ploaie.",
-                "en": "See the beautiful religious art. Try to park as close to the main entrance as legally possible to completely minimize your walking time in the rain."
+                "en": "See the beautiful religious art. Try to park as close to the main entrance as legally possible to completely minimize your walking time in the rain.",
+                "es": "Contempla la bella imaginería religiosa. Intenta aparcar lo más cerca posible de la entrada principal dentro de lo legal para reducir al máximo el tiempo de caminata bajo la lluvia."
               }
             },
             {
@@ -988,13 +1094,15 @@
                 "de": "Ayuntamiento de Sonseca",
                 "hu": "Ayuntamiento de Sonseca",
                 "ro": "Ayuntamiento de Sonseca",
-                "en": "Ayuntamiento de Sonseca"
+                "en": "Ayuntamiento de Sonseca",
+                "es": "Ayuntamiento de Sonseca"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie den zentralen Platz der Stadt. Halten Sie immer einen stabilen Regenschirm griffbereit, wenn Sie bei Platzregen aus dem Auto steigen.",
                 "hu": "Fedezze fel a város központi terét. Mindig tartson kéznél egy masszív esernyőt az autó ajtajában, amikor kilép a járművéből a felhőszakadásba.",
                 "ro": "Descoperiți piața centrală a orașului. Păstrați întotdeauna o umbrelă rezistentă la îndemână în portiera mașinii când coborâți în ploaia torențială.",
-                "en": "Discover the town's central square. Always keep a sturdy umbrella extremely handy in the car door as you step out of your vehicle into the downpour."
+                "en": "Discover the town's central square. Always keep a sturdy umbrella extremely handy in the car door as you step out of your vehicle into the downpour.",
+                "es": "Descubre la plaza central del pueblo. Lleva siempre un paraguas resistente a mano en la puerta del coche al salir de tu vehículo bajo el aguacero."
               }
             },
             {
@@ -1002,13 +1110,15 @@
                 "de": "Casa de las Cadenas",
                 "hu": "Casa de las Cadenas",
                 "ro": "Casa de las Cadenas",
-                "en": "Casa de las Cadenas"
+                "en": "Casa de las Cadenas",
+                "es": "Casa de las Cadenas"
               },
               "tip_5lang": {
                 "de": "Inspizieren Sie die einzigartigen architektonischen Details. Achten Sie beim Aussteigen auf das bemerkenswert rutschige nasse Pflaster auf der Straße.",
                 "hu": "Vizsgálja meg az egyedi építészeti részleteket. Vigyázzon a lépéseire a rendkívül csúszós nedves burkolaton, amikor óvatosan kiszáll a parkoló autóból.",
                 "ro": "Inspectați detaliile arhitecturale unice. Fiți atenți la pavajul umed remarcabil de alunecos când ieșiți cu grijă din mașina parcată pe stradă.",
-                "en": "Inspect the unique architectural details. Watch your step on the remarkably slick wet pavement when carefully exiting your parked car on the street."
+                "en": "Inspect the unique architectural details. Watch your step on the remarkably slick wet pavement when carefully exiting your parked car on the street.",
+                "es": "Inspecciona los singulares detalles arquitectónicos. Ten cuidado con el pavimento sorprendentemente resbaladizo al salir con cuidado del coche aparcado en la calle."
               }
             },
             {
@@ -1016,13 +1126,15 @@
                 "de": "Teatro Cervantes",
                 "hu": "Teatro Cervantes",
                 "ro": "Teatro Cervantes",
-                "en": "Teatro Cervantes"
+                "en": "Teatro Cervantes",
+                "es": "Teatro Cervantes"
               },
               "tip_5lang": {
                 "de": "Erleben Sie lokale Kunst im Inneren. Die nahegelegenen Parkplätze machen es wunderbar einfach, sicher ins Gebäude zu huschen, ohne völlig durchnässt zu werden.",
                 "hu": "Tapasztalja meg a helyi művészeteket bent. A közeli utcai parkolás csodálatosan megkönnyíti, hogy biztonságosan berohanjon az épületbe anélkül, hogy teljesen elázna.",
                 "ro": "Experimentați artele locale în interior. Parcarea stradală vă face minunat de ușor să intrați în siguranță în clădire fără a vă uda complet.",
-                "en": "Experience local arts inside. The nearby street parking makes it wonderfully easy to dash safely inside the building without getting completely soaked."
+                "en": "Experience local arts inside. The nearby street parking makes it wonderfully easy to dash safely inside the building without getting completely soaked.",
+                "es": "Disfruta de las artes locales en el interior. El aparcamiento en la calle cercano facilita entrar rápidamente al edificio sin empaparte por completo."
               }
             },
             {
@@ -1030,13 +1142,15 @@
                 "de": "Ermita del Cristo",
                 "hu": "Ermita del Cristo",
                 "ro": "Ermita del Cristo",
-                "en": "Ermita del Cristo"
+                "en": "Ermita del Cristo",
+                "es": "Ermita del Cristo"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die spirituelle Ruhe. Fahren Sie auf der Zufahrtsstraße extrem langsam, da starker Regen tiefe Pfützen und kleine Schlaglöcher leicht verbergen kann.",
                 "hu": "Adja át magát a mély spirituális nyugalomnak. Rendkívül lassan vezessen a bekötőúton, mivel a heves eső könnyen elrejtheti a mély tócsákat és a kátyúkat.",
                 "ro": "Bucurați-vă de calmul spiritual profund. Conduceți extrem de încet pe drumul de acces, deoarece ploaia poate ascunde cu ușurință bălțile adânci.",
-                "en": "Take in the profound spiritual calm. Drive extremely slowly on the approach road, as heavy rain can easily hide deep puddles and obscure small potholes."
+                "en": "Take in the profound spiritual calm. Drive extremely slowly on the approach road, as heavy rain can easily hide deep puddles and obscure small potholes.",
+                "es": "Percibe la profunda calma espiritual. Conduce muy despacio en la carretera de acceso, ya que la lluvia intensa puede ocultar charcos profundos y disimular baches pequeños."
               }
             },
             {
@@ -1044,13 +1158,15 @@
                 "de": "Ermita Virgen de los Remedios",
                 "hu": "Ermita Virgen de los Remedios",
                 "ro": "Ermita Virgen de los Remedios",
-                "en": "Ermita Virgen de los Remedios"
+                "en": "Ermita Virgen de los Remedios",
+                "es": "Ermita Virgen de los Remedios"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie diesen faszinierenden Ort. Tragen Sie robuste, wasserdichte Schuhe speziell für den kurzen, schlammigen Weg vom geparkten Auto zum Eingang.",
                 "hu": "Fedezze fel ezt a lenyűgöző hagyományos helyszínt. Viseljen masszív, vízálló cipőt kifejezetten a parkoló autótól a bejáratig tartó rövid, sáros sétához.",
                 "ro": "Explorați acest loc tradițional fascinant. Purtați pantofi rezistenți, impermeabili special pentru scurta plimbare noroioasă de la mașina parcată.",
-                "en": "Explore this fascinating traditional site. Wear sturdy, waterproof shoes specifically for the short, muddy walk from your parked car to the entrance."
+                "en": "Explore this fascinating traditional site. Wear sturdy, waterproof shoes specifically for the short, muddy walk from your parked car to the entrance.",
+                "es": "Explora este fascinante lugar tradicional. Usa zapatos resistentes e impermeables específicamente para la corta y embarrada caminata desde el coche aparcado hasta la entrada."
               }
             },
             {
@@ -1058,13 +1174,15 @@
                 "de": "Auditorio Nelson Mandela",
                 "hu": "Auditorio Nelson Mandela",
                 "ro": "Auditorio Nelson Mandela",
-                "en": "Auditorio Nelson Mandela"
+                "en": "Auditorio Nelson Mandela",
+                "es": "Auditorio Nelson Mandela"
               },
               "tip_5lang": {
                 "de": "Schließen Sie mit einer modernen Vorstellung ab. Der große, gepflasterte Parkplatz macht die Ankunft im strömenden Regen bequem und völlig stressfrei.",
                 "hu": "Zárjon egy csúcsminőségű modern előadással. A helyszín nagy, burkolt parkolója kényelmesen, nagyon egyszerűvé és stresszmentessé teszi az érkezést a szakadó esőben.",
                 "ro": "Încheiați cu un spectacol modern de top. Parcarea mare a locației face ca sosirea pe ploaia torențială să fie foarte ușoară și complet lipsită de stres.",
-                "en": "Conclude with a top modern performance. The venue's large, paved parking lot conveniently makes arriving in the pouring rain very easy and stress-free."
+                "en": "Conclude with a top modern performance. The venue's large, paved parking lot conveniently makes arriving in the pouring rain very easy and stress-free.",
+                "es": "Concluye con una actuación moderna de primer nivel. El amplio aparcamiento pavimentado del lugar facilita llegar con facilidad y sin estrés bajo la lluvia torrencial."
               }
             }
           ]
@@ -1074,7 +1192,8 @@
             "de": "Eine warme Morgenfahrt zu den Kapellen am Stadtrand. Mittags erkunden Sie das Zentrum und parken nah, um dem eisigen Wind zu entgehen. Nachmittags genießen Sie das goldene Licht. Erreichen Sie das beheizte Auditorium, wenn die frühe Nacht um 17 Uhr hereinbricht.",
             "hu": "Meleg reggeli autózás a külvárosba a kápolnákhoz. Délben fedezze fel a központot, parkoljon közel, hogy elkerülje a fagyos szelet. Délután csípje el a gyönyörű aranyórát. Érkezzen meg a fűtött audítóriumhoz, ahogy a korai, 17 órás éjszaka leszáll.",
             "ro": "O plimbare caldă cu mașina dimineața spre capelele de la periferie. La prânz explorați centrul, parcând aproape pentru a evita vântul rece. După-amiaza prindeți ora de aur. Ajungeți la auditoriul încălzit odată cu lăsarea întunericului, în jur de ora 17.",
-            "en": "A warm morning drive to the outskirts to see the chapels. Midday, explore the center, parking close to avoid the freezing wind. In the afternoon, your drives catch the beautiful golden hour. Arrive at the heated auditorium as the early night falls around 5 PM."
+            "en": "A warm morning drive to the outskirts to see the chapels. Midday, explore the center, parking close to avoid the freezing wind. In the afternoon, your drives catch the beautiful golden hour. Arrive at the heated auditorium as the early night falls around 5 PM.",
+            "es": "Una cálida mañana en coche a las afueras para ver las capillas. Al mediodía explora el centro, aparcando cerca para evitar el viento helado. Por la tarde, tus trayectos atraparán la hermosa hora dorada. Llega al auditorio climatizado cuando la noche temprana cae alrededor de las 17:00."
           },
           "stops": [
             {
@@ -1082,13 +1201,15 @@
                 "de": "Ermita de San Gregorio",
                 "hu": "Ermita de San Gregorio",
                 "ro": "Ermita de San Gregorio",
-                "en": "Ermita de San Gregorio"
+                "en": "Ermita de San Gregorio",
+                "es": "Ermita de San Gregorio"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie diese hübsche alte Einsiedelei. Eine zuverlässige Autoheizung ist ein absoluter Segen, bevor man in die frostige Morgenluft tritt.",
                 "hu": "Látogasson el ebbe a kedves régi remetelakba. A megbízható autófűtés abszolút áldás, mielőtt kilépne a friss és fagyos reggeli levegőre.",
                 "ro": "Vizitați acest vechi schit minunat. A avea un încălzitor auto de încredere este o binecuvântare absolută înainte de a ieși în aerul geros al dimineții.",
-                "en": "Visit this lovely old hermitage. Having a reliable car heater is an absolute blessing before stepping out into the brisk and frosty morning air."
+                "en": "Visit this lovely old hermitage. Having a reliable car heater is an absolute blessing before stepping out into the brisk and frosty morning air.",
+                "es": "Visita esta hermosa ermita antigua. Contar con un calefactor de coche fiable es una bendición antes de salir al aire matutino fresco y helado."
               }
             },
             {
@@ -1096,13 +1217,15 @@
                 "de": "Ermita de la Virgen de la Salud",
                 "hu": "Ermita de la Virgen de la Salud",
                 "ro": "Ermita de la Virgen de la Salud",
-                "en": "Ermita de la Virgen de la Salud"
+                "en": "Ermita de la Virgen de la Salud",
+                "es": "Ermita de la Virgen de la Salud"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die friedliche Umgebung. Bringen Sie immer einen dicken, warmen Mantel im Kofferraum für den kurzen, aber kalten Weg zum Kapelleneingang mit.",
                 "hu": "Élvezze a békés környezetet. Mindig vigyen magával egy vastag, meleg kabátot a csomagtartóban a kápolna bejáratához vezető rövid, de hihetetlenül fagyos sétához.",
                 "ro": "Bucurați-vă de mediul pașnic. Aduceți o haină groasă în portbagaj pentru plimbarea scurtă, dar incredibil de friguroasă, până la intrarea în capelă.",
-                "en": "Enjoy the peaceful environment. Always bring a thick, warm coat in the trunk for the short but incredibly chilly walk to the chapel entrance."
+                "en": "Enjoy the peaceful environment. Always bring a thick, warm coat in the trunk for the short but incredibly chilly walk to the chapel entrance.",
+                "es": "Disfruta del ambiente tranquilo. Lleva siempre un abrigo grueso y cálido en el maletero para la corta pero increíblemente fría caminata hasta la entrada de la ermita."
               }
             },
             {
@@ -1110,13 +1233,15 @@
                 "de": "Ayuntamiento de Sonseca",
                 "hu": "Ayuntamiento de Sonseca",
                 "ro": "Ayuntamiento de Sonseca",
-                "en": "Ayuntamiento de Sonseca"
+                "en": "Ayuntamiento de Sonseca",
+                "es": "Ayuntamiento de Sonseca"
               },
               "tip_5lang": {
                 "de": "Sehen Sie das historische Verwaltungsgebäude. Das weiche Winterlicht schafft eine gemütliche Atmosphäre; Ihr Auto bietet danach ein warmes Refugium.",
                 "hu": "Nézze meg a történelmi közigazgatási épületet. A lágy téli fény hangulatos légkört teremt a téren, autója pedig gyors, meleg menedéket nyújt.",
                 "ro": "Vedeți clădirea administrativă istorică. Lumina blândă de iarnă creează o atmosferă primitoare în piață, iar mașina vă oferă un refugiu cald și rapid.",
-                "en": "See the historic administrative building. The soft winter light creates a cozy atmosphere in the plaza, and your car provides a quick warm refuge."
+                "en": "See the historic administrative building. The soft winter light creates a cozy atmosphere in the plaza, and your car provides a quick warm refuge.",
+                "es": "Observa el histórico edificio administrativo. La suave luz invernal crea una atmósfera acogedora en la plaza y tu coche ofrece un rápido refugio cálido."
               }
             },
             {
@@ -1124,13 +1249,15 @@
                 "de": "Casa de las Cadenas",
                 "hu": "Casa de las Cadenas",
                 "ro": "Casa de las Cadenas",
-                "en": "Casa de las Cadenas"
+                "en": "Casa de las Cadenas",
+                "es": "Casa de las Cadenas"
               },
               "tip_5lang": {
                 "de": "Beachten Sie die majestätische Fassade. Parken Sie in der Nähe, um nach der Erkundung schnell und einfach in die wohlige Wärme Ihres Fahrzeugs zurückzukehren.",
                 "hu": "Vegye észre a fenséges és történelmi homlokzatot. Parkoljon a közelben, hogy a felfedezés után gyorsan és egyszerűen visszatérhessen járműve megnyugtató melegébe.",
                 "ro": "Observați fațada maiestuoasă și istorică. Parcați aproape pentru a vă putea întoarce rapid și ușor la căldura reconfortantă a vehiculului după explorare.",
-                "en": "Notice the majestic and historic facade. Park close by so you can quickly and easily return to the comforting warmth of your vehicle after exploring."
+                "en": "Notice the majestic and historic facade. Park close by so you can quickly and easily return to the comforting warmth of your vehicle after exploring.",
+                "es": "Fíjate en la majestuosa y histórica fachada. Aparca cerca para poder volver rápida y fácilmente al reconfortante calor de tu vehículo tras la visita."
               }
             },
             {
@@ -1138,13 +1265,15 @@
                 "de": "Teatro Cervantes",
                 "hu": "Teatro Cervantes",
                 "ro": "Teatro Cervantes",
-                "en": "Teatro Cervantes"
+                "en": "Teatro Cervantes",
+                "es": "Teatro Cervantes"
               },
               "tip_5lang": {
                 "de": "Genießen Sie das charmante kulturelle Juwel. Es ist eine fantastische, wärmende Indoor-Aktivität an einem schmerzhaft kühlen und windigen Winternachmittag.",
                 "hu": "Élvezze a város bájos kulturális gyöngyszemét. Ez egy fantasztikus, őszintén meleg beltéri tevékenység egy fájdalmasan hűvös és szeles téli délutánon.",
                 "ro": "Bucurați-vă de bijuteria culturală a orașului. Este o activitate fantastică, caldă în interior, într-o după-amiază de iarnă dureros de rece și cu vânt.",
-                "en": "Enjoy the town's charming cultural gem. It is a fantastic, genuinely warm indoor activity during a painfully chilly and windy winter afternoon."
+                "en": "Enjoy the town's charming cultural gem. It is a fantastic, genuinely warm indoor activity during a painfully chilly and windy winter afternoon.",
+                "es": "Disfruta de la encantadora joya cultural del pueblo. Es una actividad interior fantástica y realmente cálida durante una tarde invernal dolorosamente fría y ventosa."
               }
             },
             {
@@ -1152,13 +1281,15 @@
                 "de": "Ermita del Cristo",
                 "hu": "Ermita del Cristo",
                 "ro": "Ermita del Cristo",
-                "en": "Ermita del Cristo"
+                "en": "Ermita del Cristo",
+                "es": "Ermita del Cristo"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie das historische Interieur. Der frühe Sonnenuntergang lässt die Kapelle dramatisch wirken, während Ihr Automotor Sie angenehm warm hält.",
                 "hu": "Tekintse meg a derűs történelmi belső teret. A korai naplemente kecsesen drámaivá teszi a kápolnát, miközben az autó motorja kellemesen melegen tartja Önt.",
                 "ro": "Vedeți interiorul istoric și seren. Apusul devreme face ca fațada capelei să arate frumos de dramatic, în timp ce motorul mașinii vă menține la căldură.",
-                "en": "View the serene historic interior. The early sunset gracefully makes the chapel look beautifully dramatic while your car engine keeps you toasty warm."
+                "en": "View the serene historic interior. The early sunset gracefully makes the chapel look beautifully dramatic while your car engine keeps you toasty warm.",
+                "es": "Contempla el sereno interior histórico. La puesta de sol temprana hace que la capilla luzca dramáticamente hermosa mientras el motor del coche te mantiene abrigado."
               }
             },
             {
@@ -1166,13 +1297,15 @@
                 "de": "Ermita Virgen de los Remedios",
                 "hu": "Ermita Virgen de los Remedios",
                 "ro": "Ermita Virgen de los Remedios",
-                "en": "Ermita Virgen de los Remedios"
+                "en": "Ermita Virgen de los Remedios",
+                "es": "Ermita Virgen de los Remedios"
               },
               "tip_5lang": {
                 "de": "Sehen Sie sich die charmanten historischen Altäre an. Packen Sie sich warm ein, da das weite Gelände um die Kapelle beim Aussteigen unglaublich windig wird.",
                 "hu": "Nézze meg a bájos történelmi oltárokat. Öltözzön fel rendkívül melegen, mivel a kápolna körüli tágas terület hihetetlenül szeles lesz, amint kiszáll az autóból.",
                 "ro": "Vedeți altarele istorice fermecătoare. Îmbrăcați-vă extrem de cald, deoarece zona larg deschisă din jurul capelei devine incredibil de aerisită când coborâți.",
-                "en": "See the charming historic altars. Wrap up extremely warm, as the wide open area around the chapel gets incredibly breezy when you step out of the car."
+                "en": "See the charming historic altars. Wrap up extremely warm, as the wide open area around the chapel gets incredibly breezy when you step out of the car.",
+                "es": "Observa los encantadores altares históricos. Abrígate muy bien, ya que el amplio entorno abierto alrededor de la ermita se vuelve increíblemente ventoso al salir del coche."
               }
             },
             {
@@ -1180,13 +1313,15 @@
                 "de": "Auditorio Nelson Mandela",
                 "hu": "Auditorio Nelson Mandela",
                 "ro": "Auditorio Nelson Mandela",
-                "en": "Auditorio Nelson Mandela"
+                "en": "Auditorio Nelson Mandela",
+                "es": "Auditorio Nelson Mandela"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihren langen Tag mit einer Show. Das voll beheizte Auditorium ist das absolut perfekte komfortable Refugium vor der eisigen, dunklen Winternacht.",
                 "hu": "Fejezze be hosszú napját egy fantasztikus műsorral. A teljesen fűtött audítórium a tökéletes kényelmes menedék a kinti fagyos, sötét téli éjszaka elől.",
                 "ro": "Încheiați-vă ziua lungă cu un spectacol fantastic. Auditoriul complet încălzit este refugiul perfect confortabil față de noaptea de iarnă înghețată și întunecată.",
-                "en": "End your long day with a fantastic show. The fully heated auditorium is the absolute perfect comfortable refuge from the freezing, dark winter night outside."
+                "en": "End your long day with a fantastic show. The fully heated auditorium is the absolute perfect comfortable refuge from the freezing, dark winter night outside.",
+                "es": "Termina tu largo día con un espectáculo fantástico. El auditorio totalmente climatizado es el refugio perfecto y cómodo frente a la fría y oscura noche invernal exterior."
               }
             }
           ]

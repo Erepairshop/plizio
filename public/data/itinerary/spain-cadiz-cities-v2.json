@@ -21,7 +21,8 @@
             "de": "Plaza de las Flores",
             "hu": "Virágok tere",
             "ro": "Piața Florilor (Plaza de las Flores)",
-            "en": "Square of Flowers (Plaza de las Flores)"
+            "en": "Square of Flowers (Plaza de las Flores)",
+            "es": "Plaza de las Flores"
           },
           "coords": [
             -6.297,
@@ -36,7 +37,8 @@
             "de": "Starten Sie den Tag mit einem Kaffee in einem der Cafés am Platz.",
             "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában!",
             "ro": "Începeți ziua cu o cafea la una dintre cafenelele din piață.",
-            "en": "Start your day with a coffee at one of the square's cafes."
+            "en": "Start your day with a coffee at one of the square's cafes.",
+            "es": "Comienza el día con un café en una de las terrazas de la plaza."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Römisches Theater",
             "hu": "Római színház",
             "ro": "Teatrul Roman",
-            "en": "Roman Theatre"
+            "en": "Roman Theatre",
+            "es": "Teatro Romano"
           },
           "coords": [
             -6.293,
@@ -59,7 +62,8 @@
             "de": "Der Eintritt ist frei, aber überprüfen Sie die Öffnungszeiten.",
             "hu": "A belépés ingyenes, de ellenőrizze a nyitvatartási időt.",
             "ro": "Intrarea este gratuită, dar verificați programul de vizitare.",
-            "en": "Admission is free, but check the opening hours beforehand."
+            "en": "Admission is free, but check the opening hours beforehand.",
+            "es": "La entrada es gratuita, pero consulta los horarios de apertura antes."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kathedrale von Cádiz",
             "hu": "Cádizi katedrális",
             "ro": "Catedrala din Cádiz",
-            "en": "Cádiz Cathedral"
+            "en": "Cádiz Cathedral",
+            "es": "Catedral de Cádiz"
           },
           "coords": [
             -6.295,
@@ -82,7 +87,8 @@
             "de": "Besteigen Sie den Poniente-Turm für eine fantastische Aussicht.",
             "hu": "Másszon fel a Poniente-toronyba a fantasztikus kilátásért!",
             "ro": "Urcați în Turnul Poniente pentru o priveliște fantastică.",
-            "en": "Climb the Poniente Tower for a fantastic view."
+            "en": "Climb the Poniente Tower for a fantastic view.",
+            "es": "Sube a la Torre del Poniente para una vista fantástica."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Torre Tavira",
             "hu": "Tavira-torony",
             "ro": "Turnul Tavira",
-            "en": "Tavira Tower"
+            "en": "Tavira Tower",
+            "es": "Torre Tavira"
           },
           "coords": [
             -6.298,
@@ -105,7 +112,8 @@
             "de": "Erleben Sie die Camera Obscura, die Live-Bilder der Stadt projiziert.",
             "hu": "Próbálja ki a Camera Obscurát, amely élő képeket vetít a városról!",
             "ro": "Experimentați Camera Obscura care proiectează imagini live ale orașului.",
-            "en": "Experience the Camera Obscura which projects live images of the city."
+            "en": "Experience the Camera Obscura which projects live images of the city.",
+            "es": "Disfruta de la Cámara Oscura, que proyecta imágenes en vivo de la ciudad."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Castillo de Santa Catalina",
             "hu": "Szent Katalin-vár",
             "ro": "Castelul Santa Catalina",
-            "en": "Santa Catalina Castle"
+            "en": "Santa Catalina Castle",
+            "es": "Castillo de Santa Catalina"
           },
           "coords": [
             -6.305,
@@ -128,7 +137,8 @@
             "de": "Genießen Sie die kostenlosen Kunstausstellungen und den Meerblick.",
             "hu": "Élvezze az ingyenes művészeti kiállításokat és a tengeri panorámát!",
             "ro": "Bucurați-vă de expozițiile de artă gratuite și de vederea la mare.",
-            "en": "Enjoy the free art exhibitions and the sea views."
+            "en": "Enjoy the free art exhibitions and the sea views.",
+            "es": "Disfruta de las exposiciones de arte gratuitas y de las vistas al mar."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Parque Genovés",
             "hu": "Genovés park",
             "ro": "Parcul Genovés",
-            "en": "Genovés Park"
+            "en": "Genovés Park",
+            "es": "Parque Genovés"
           },
           "coords": [
             -6.303,
@@ -151,7 +162,8 @@
             "de": "Suchen Sie die Grotte mit dem Wasserfall für einen ruhigen Moment.",
             "hu": "Keresse meg a vízeséses barlangot egy csendes pillanatért!",
             "ro": "Căutați grota cu cascada pentru un moment de liniște.",
-            "en": "Look for the grotto with the waterfall for a quiet moment."
+            "en": "Look for the grotto with the waterfall for a quiet moment.",
+            "es": "Busca la gruta con la cascada para un momento de tranquilidad."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Playa de la Caleta",
             "hu": "La Caleta strand",
             "ro": "Plaja La Caleta",
-            "en": "La Caleta Beach"
+            "en": "La Caleta Beach",
+            "es": "Playa de La Caleta"
           },
           "coords": [
             -6.304,
@@ -174,7 +187,8 @@
             "de": "Der perfekte Ort, um den Sonnenuntergang zwischen den beiden Burgen zu beobachten.",
             "hu": "Tökéletes hely a naplemente megtekintéséhez a két vár között.",
             "ro": "Locul perfect pentru a privi apusul între cele două castele.",
-            "en": "The perfect spot to watch the sunset between the two castles."
+            "en": "The perfect spot to watch the sunset between the two castles.",
+            "es": "El lugar perfecto para ver la puesta de sol entre los dos castillos."
           }
         },
         {
@@ -182,7 +196,8 @@
             "de": "Castillo de San Sebastián",
             "hu": "Szent Sebestyén-vár",
             "ro": "Castelul San Sebastián",
-            "en": "San Sebastián Castle"
+            "en": "San Sebastián Castle",
+            "es": "Castillo de San Sebastián"
           },
           "coords": [
             -6.307,
@@ -197,7 +212,8 @@
             "de": "Der Spaziergang auf dem Damm zur Burg ist bei Sonnenuntergang magisch.",
             "hu": "A sétányon végigmenni a várhoz naplementekor varázslatos.",
             "ro": "Plimbarea pe dig spre castel este magică la apus.",
-            "en": "The walk on the causeway to the castle is magical at sunset."
+            "en": "The walk on the causeway to the castle is magical at sunset.",
+            "es": "El paseo por el causeway hasta el castillo es mágico al atardecer."
           }
         }
       ],
@@ -205,7 +221,8 @@
         "de": "Beginnen Sie Ihren Spaziergang auf der lebhaften Plaza de las Flores. Tauchen Sie vormittags in die antike Geschichte im Römischen Theater ein und bewundern Sie die goldene Kuppel der Kathedrale von Cádiz. Am Nachmittag erklimmen Sie den Torre Tavira für einen Panoramablick, bevor Sie die Meeresbrise an der Festung Santa Catalina spüren. Gegen Abend schlendern Sie durch den botanischen Parque Genovés und beenden den Tag mit einem unvergesslichen Sonnenuntergang am Strand La Caleta, eingerahmt von den beiden alten Festungen.",
         "hu": "Kezdje a sétát a nyüzsgő Virágok terén. Délelőtt merüljön el az ókori történelemben a Római színháznál, majd csodálja meg a cádizi katedrális aranykupoláját. Délután másszon fel a Tavira-toronyba a panorámáért, mielőtt megérzi a tengeri szellőt a Santa Catalina-várnál. Estefelé sétáljon át a botanikus Genovés parkon, és zárja a napot egy felejthetetlen naplementével a La Caleta strandon, a két ősi erőd között.",
         "ro": "Începeți plimbarea în vibranta Plaza de las Flores. Dimineața, scufundați-vă în istoria antică la Teatrul Roman și admirați cupola aurie a Catedralei din Cádiz. După-amiaza, urcați în Turnul Tavira pentru vederi panoramice înainte de a simți briza mării la Castelul Santa Catalina. Spre seară, plimbați-vă prin grădina botanică Parcul Genovés și încheiați ziua cu un apus de neuitat la Plaja La Caleta, încadrată de cele două fortărețe antice.",
-        "en": "Start your walk in the vibrant Plaza de las Flores. In the morning, delve into ancient history at the Roman Theatre and admire the golden dome of Cádiz Cathedral. In the afternoon, climb the Tavira Tower for panoramic views before feeling the sea breeze at Santa Catalina Castle. Towards the evening, wander through the botanical Genovés Park and end your day with an unforgettable sunset at La Caleta Beach, framed by the two ancient fortresses."
+        "en": "Start your walk in the vibrant Plaza de las Flores. In the morning, delve into ancient history at the Roman Theatre and admire the golden dome of Cádiz Cathedral. In the afternoon, climb the Tavira Tower for panoramic views before feeling the sea breeze at Santa Catalina Castle. Towards the evening, wander through the botanical Genovés Park and end your day with an unforgettable sunset at La Caleta Beach, framed by the two ancient fortresses.",
+        "es": "Comienza tu paseo en la animada Plaza de las Flores. Por la mañana, adéntrate en la historia antigua en el Teatro Romano y admira la cúpula dorada de la Catedral de Cádiz. Por la tarde, sube a la Torre Tavira para vistas panorámicas antes de recibir la brisa marina en el Castillo de Santa Catalina. Hacia la tarde, pasea por el jardín botánico Genovés y termina el día con una puesta de sol inolvidable en la playa de La Caleta, enmarcada por las dos antiguas fortalezas."
       },
       "gastro_picks": {
         "de": [
@@ -401,6 +418,12 @@
           "The old town is a labyrinth; having an offline map is useful.",
           "Bring plenty of water, especially in summer.",
           "Most sights are within easy walking distance, so don't plan for other transport."
+        ],
+        "es": [
+          "Lleva calzado muy cómodo, ya que los adoquines pueden estar irregulares.",
+          "El casco antiguo es un laberinto; llevar un mapa offline es útil.",
+          "Lleva abundante agua, especialmente en verano.",
+          "La mayoría de los puntos de interés están a poca distancia a pie, así que no planifiques otros transportes."
         ]
       },
       "variants": {
@@ -409,7 +432,8 @@
             "de": "Der Vormittag beginnt unter den schützenden Markisen des Blumenmarktes, wo die Farben trotz des grauen Himmels leuchten. Mittags bietet die gewaltige Kathedrale einen trockenen und ehrwürdigen Rückzugsort vor den atlantischen Schauern. Am Nachmittag erkunden wir die überdachten Räume des Castillo de Santa Catalina. Den Abend lassen wir bei einem melancholischen Blick auf die regnerische La Caleta-Bucht in einer der nahen Tapas-Bars ausklingen.",
             "hu": "A reggelt a virágpiac színes ernyői alatt kezdjük, ahol az eső illata keveredik a friss kelyhek illatával. Délben a katedrális monumentális belső tere és a közeli fedett római színház látogatóközpontja nyújt menedéket a zápor elől. Délután a Santa Catalina vár vastag falai között kalandozunk, elkerülve a szelet. Az estét a La Caleta-öböl partján zárjuk, figyelve az óceán morajlását egy védett teraszról.",
             "ro": "Dimineața începe sub copertinele pieței de flori, unde culorile rămân vii chiar și pe ploaie. La prânz, Catedrala oferă un refugiu uscat și impunător în fața averselor atlantice. După-amiaza explorăm spațiile interioare ale castelului Santa Catalina, feriți de vântul de pe coastă. Seara se încheie cu o privire melancolică spre golful La Caleta, savurând atmosfera orașului de la adăpostul unei taverne locale.",
-            "en": "The morning starts under the protective awnings of the flower market, where colors pop against the grey sky. At noon, the massive Cathedral provides a dry and grand sanctuary from the Atlantic showers. In the afternoon, we explore the indoor chambers of Santa Catalina Castle, shielded from the coastal gusts. We end the evening with a melancholic view of the rainy La Caleta bay from the comfort of a nearby tapas bar."
+            "en": "The morning starts under the protective awnings of the flower market, where colors pop against the grey sky. At noon, the massive Cathedral provides a dry and grand sanctuary from the Atlantic showers. In the afternoon, we explore the indoor chambers of Santa Catalina Castle, shielded from the coastal gusts. We end the evening with a melancholic view of the rainy La Caleta bay from the comfort of a nearby tapas bar.",
+            "es": "La mañana comienza bajo los toldos protectores del mercado de flores, donde los colores resaltan contra el cielo gris. Al mediodía, la imponente Catedral ofrece un refugio seco y grandioso contra los chaparrones atlánticos. Por la tarde, exploramos las cámaras interiores del Castillo de Santa Catalina, protegidas de las rachas costeras. Terminamos la tarde con una vista melancólica de la bahía lluviosa de La Caleta desde la comodidad de un bar de tapas cercano."
           },
           "stops": [
             {
@@ -418,7 +442,8 @@
                 "de": "Nutzen Sie die Markisen der Stände; der angrenzende Zentralmarkt ist komplett überdacht.",
                 "hu": "Használja az árusok ernyőit; a szomszédos központi piac teljesen fedett és száraz.",
                 "ro": "Folosiți copertinele standurilor; piața centrală adiacentă este complet acoperită.",
-                "en": "Use the stall awnings; the adjacent Central Market is completely covered and dry."
+                "en": "Use the stall awnings; the adjacent Central Market is completely covered and dry.",
+                "es": "Utiliza los toldos de los puestos; el Mercado Central contiguo está completamente cubierto y seco."
               }
             },
             {
@@ -427,7 +452,8 @@
                 "de": "Das Besucherzentrum ist modern und trocken; die Ausgrabungen sind von oben gut einsehbar.",
                 "hu": "A látogatóközpont modern és fedett; a romok a galériáról esőben is jól láthatóak.",
                 "ro": "Centrul de vizitare este modern și uscat; ruinele se văd bine de sus, de la adăpost.",
-                "en": "The visitor center is modern and dry; the ruins are clearly visible from the sheltered gallery."
+                "en": "The visitor center is modern and dry; the ruins are clearly visible from the sheltered gallery.",
+                "es": "El centro de visitantes es moderno y está seco; las ruinas son claramente visibles desde la galería protegida."
               }
             },
             {
@@ -436,7 +462,8 @@
                 "de": "Perfekter Ort für starke Schauer; die Krypta und das Museum sind absolut wetterfest.",
                 "hu": "Ideális hely heves esőben; a kripta és a múzeum teljesen védett a kültéri elemektől.",
                 "ro": "Loc perfect pentru ploi torențiale; cripta și muzeul sunt complet protejate de intemperii.",
-                "en": "Perfect spot during heavy rain; the crypt and museum are entirely weatherproof."
+                "en": "Perfect spot during heavy rain; the crypt and museum are entirely weatherproof.",
+                "es": "Lugar perfecto durante lluvia fuerte; la cripta y el museo son totalmente a prueba de intemperie."
               }
             },
             {
@@ -445,7 +472,8 @@
                 "de": "Die Camera Obscura findet drinnen statt; genießen Sie die Vorführung im Trockenen.",
                 "hu": "A Camera Obscura bemutatója beltéri; élvezze a látványt száraz helyen ülve.",
                 "ro": "Prezentarea Camera Obscura are loc în interior; bucurați-vă de spectacol la adăpost.",
-                "en": "The Camera Obscura show takes place indoors; enjoy the view while staying dry."
+                "en": "The Camera Obscura show takes place indoors; enjoy the view while staying dry.",
+                "es": "El espectáculo de la Cámara Oscura se realiza en interior; disfruta de las vistas mientras te mantienes seco."
               }
             },
             {
@@ -454,7 +482,8 @@
                 "de": "Die Ausstellungsräume in den Kasematten bieten guten Schutz vor Wind und Regen.",
                 "hu": "A kazamatákban kialakított kiállítóterek kiváló védelmet nyújtanak a szél és eső elől.",
                 "ro": "Sălile de expoziție din cazeamate oferă o protecție bună împotriva vântului și ploii.",
-                "en": "The exhibition rooms within the casemates provide excellent shelter from wind and rain."
+                "en": "The exhibition rooms within the casemates provide excellent shelter from wind and rain.",
+                "es": "Las salas expositivas dentro de las casamatas ofrecen excelente refugio contra el viento y la lluvia."
               }
             },
             {
@@ -463,7 +492,8 @@
                 "de": "Die dichten Baumkronen bieten etwas Schutz; nutzen Sie die Wege nahe der Gebäude.",
                 "hu": "A sűrű lombozat ad némi védelmet; maradjon az épületekhez közeli ösvényeken.",
                 "ro": "Coroanele dese oferă puțin adăpost; folosiți potecile de lângă clădiri.",
-                "en": "The dense canopy offers some cover; stick to the paths near the park buildings."
+                "en": "The dense canopy offers some cover; stick to the paths near the park buildings.",
+                "es": "El denso dosel ofrece cierta cobertura; mantente en los senderos cercanos a los edificios del parque."
               }
             },
             {
@@ -472,7 +502,8 @@
                 "de": "Das alte Badehaus (Balneario) bietet eine tolle Kulisse für stürmische Fotos.",
                 "hu": "A régi fürdőház (Balneario) épülete drámai hátteret ad a viharos fotókhoz.",
                 "ro": "Vechiul pavilion de băi (Balneario) oferă un decor dramatic pentru fotografii pe furtună.",
-                "en": "The old bathhouse (Balneario) provides a dramatic backdrop for stormy photos."
+                "en": "The old bathhouse (Balneario) provides a dramatic backdrop for stormy photos.",
+                "es": "El antiguo balneario proporciona un telón de fondo dramático para fotos de tormenta."
               }
             },
             {
@@ -481,7 +512,8 @@
                 "de": "Der Damm ist bei Wind extrem exponiert; achten Sie auf hohe Wellen und Gischt.",
                 "hu": "A gát szélben nagyon kitett; vigyázzon a felcsapó hullámokra és a sós permetre.",
                 "ro": "Digul este extrem de expus la vânt; atenție la valurile mari și la spuma mării.",
-                "en": "The causeway is very exposed; watch out for high waves and sea spray during gusts."
+                "en": "The causeway is very exposed; watch out for high waves and sea spray during gusts.",
+                "es": "El paseo está muy expuesto; ten cuidado con olas altas y salpicaduras durante las rachas."
               }
             }
           ],
@@ -513,6 +545,13 @@
               "Be careful on the slippery cobblestones in the old town, especially on inclines.",
               "The Cathedral offers hours of indoor exploration through its museums and crypt.",
               "Seek shelter from sudden gusts under the arches near Plaza de San Juan de Dios."
+            ],
+            "es": [
+              "Lleva un chubasquero cortavientos; los paraguas suelen voltearse en las calles estrechas y ventosas.",
+              "El Mercado Central es el mejor lugar para esperar a que pase un chaparrón con unas tapas locales.",
+              "Ten cuidado con los adoquines resbaladizos en el casco antiguo, especialmente en las pendientes.",
+              "La Catedral ofrece horas de exploración interior a través de sus museos y la cripta.",
+              "Busca refugio de las ráfagas bajo los arcos cerca de la Plaza de San Juan de Dios."
             ]
           }
         },
@@ -521,7 +560,8 @@
             "de": "Die milde Wintersonne taucht die Plaza de las Flores in ein goldenes Licht, ideal für einen ruhigen Start. Mittags wärmen wir uns in der Kathedrale auf, bevor wir die klare Sicht vom Tavira-Turm nutzen. Am Nachmittag genießen wir die kühle Meeresbrise am Castillo de Santa Catalina ohne die sommerlichen Touristenmassen. Der Abend endet spektakulär mit einem frühen Sonnenuntergang hinter den Booten der La Caleta.",
             "hu": "A szelíd téli napsütés aranyfénybe vonja a virágpiacot, tökéletes az évszaktól szokatlan nyugodt kezdéshez. Délben a katedrális falai között keresünk enyhülést a tengeri szél elől, majd élvezzük a tiszta kilátást a Tavira-toronyból. Délután a Santa Catalina vár fokain sétálunk a tömeg nélkül. Az este korán érkezik, látványos naplementével a La Caleta horgászcsónakjai felett.",
             "ro": "Soarele blând de iarnă scaldă piața de flori într-o lumină aurie, perfectă pentru un început liniștit. La prânz ne încălzim în Catedrală, apoi profităm de vizibilitatea clară din turnul Tavira. După-amiaza ne bucurăm de briza răcoroasă la castelul Santa Catalina, fără aglomerația de vară. Seara se încheie spectaculos cu un apus timpuriu peste bărcile din golful La Caleta.",
-            "en": "The mild winter sun bathes the Plaza de las Flores in golden light, ideal for a quiet, unhurried start. At noon, we warm up inside the Cathedral before taking advantage of the clear winter skies at Tavira Tower. In the afternoon, we enjoy the cool sea breeze at Santa Catalina Castle without the summer crowds. The evening ends with a spectacular early sunset behind the boats of La Caleta."
+            "en": "The mild winter sun bathes the Plaza de las Flores in golden light, ideal for a quiet, unhurried start. At noon, we warm up inside the Cathedral before taking advantage of the clear winter skies at Tavira Tower. In the afternoon, we enjoy the cool sea breeze at Santa Catalina Castle without the summer crowds. The evening ends with a spectacular early sunset behind the boats of La Caleta.",
+            "es": "El suave sol invernal baña la Plaza de las Flores con luz dorada, ideal para un comienzo tranquilo. Al mediodía, nos calentamos dentro de la Catedral antes de aprovechar los cielos claros de invierno en la Torre Tavira. Por la tarde, disfrutamos de la fresca brisa marina en el Castillo de Santa Catalina sin las masas veraniegas. La tarde termina con una espectacular puesta de sol temprana tras las embarcaciones de La Caleta."
           },
           "stops": [
             {
@@ -530,7 +570,8 @@
                 "de": "Genießen Sie Churros bei 'La Guapa'; die Wärme ist im kühlen Wintermorgen ideal.",
                 "hu": "Kóstoljon churrost a 'La Guapa'-nál; a forró édesség remek a hűvös téli reggelen.",
                 "ro": "Savurați churros la 'La Guapa'; căldura lor este ideală în diminețile răcoroase de iarnă.",
-                "en": "Enjoy churros at 'La Guapa'; the warmth is perfect for a crisp winter morning."
+                "en": "Enjoy churros at 'La Guapa'; the warmth is perfect for a crisp winter morning.",
+                "es": "Disfruta de churros en 'La Guapa'; el calor es perfecto para una fresca mañana de invierno."
               }
             },
             {
@@ -539,7 +580,8 @@
                 "de": "Wenig Andrang im Winter; nutzen Sie die Stille für bessere Fotos der Anlage.",
                 "hu": "Télen alig van sor; használja ki a csendet a romok zavartalan fotózásához.",
                 "ro": "Puțină aglomerație iarna; profitați de liniște pentru fotografii mai bune.",
-                "en": "Very few crowds in winter; use the quiet time for better photos of the site."
+                "en": "Very few crowds in winter; use the quiet time for better photos of the site.",
+                "es": "Muy poca afluencia en invierno; aprovecha la tranquilidad para mejores fotos del lugar."
               }
             },
             {
@@ -548,7 +590,8 @@
                 "de": "Der Aufstieg auf den Glockenturm ist weniger anstrengend ohne die Sommerhitze.",
                 "hu": "A harangtoronyba vezető séta sokkal kevésbé fárasztó a nyári hőség nélkül.",
                 "ro": "Urcarea în turnul cu clopot este mult mai ușoară fără căldura verii.",
-                "en": "The climb up the bell tower is much less exhausting without the summer heat."
+                "en": "The climb up the bell tower is much less exhausting without the summer heat.",
+                "es": "La subida al campanario es mucho menos agotadora sin el calor veraniego."
               }
             },
             {
@@ -557,7 +600,8 @@
                 "de": "Die Winterluft sorgt für die klarste Fernsicht des ganzen Jahres.",
                 "hu": "A tiszta téli levegő biztosítja az egész év legjobb távoli kilátását.",
                 "ro": "Aerul curat de iarnă oferă cea mai bună vizibilitate la distanță din tot anul.",
-                "en": "The crisp winter air provides the clearest long-distance views of the entire year."
+                "en": "The crisp winter air provides the clearest long-distance views of the entire year.",
+                "es": "El aire frío de invierno ofrece las vistas de larga distancia más nítidas del año."
               }
             },
             {
@@ -566,7 +610,8 @@
                 "de": "Die Westmauern sind ideal, um die letzten warmen Sonnenstrahlen des Tages einzufangen.",
                 "hu": "A nyugati falak tökéletesek a nap utolsó meleg sugárzásának begyűjtéséhez.",
                 "ro": "Zidurile vestice sunt ideale pentru a prinde ultimele raze calde ale soarelui.",
-                "en": "The western walls are ideal for catching the day's last warm rays of sunshine."
+                "en": "The western walls are ideal for catching the day's last warm rays of sunshine.",
+                "es": "Las murallas occidentales son ideales para captar los últimos rayos cálidos del día."
               }
             },
             {
@@ -575,7 +620,8 @@
                 "de": "Einige exotische Pflanzen blühen auch im Winter; achten Sie auf die Kamelien.",
                 "hu": "Néhány egzotikus növény télen is virágzik; keresse a pompás kaméliákat.",
                 "ro": "Unele plante exotice înfloresc și iarna; căutați cameliile din parc.",
-                "en": "Some exotic plants bloom even in winter; look out for the camellias."
+                "en": "Some exotic plants bloom even in winter; look out for the camellias.",
+                "es": "Algunas plantas exóticas florecen incluso en invierno; busca las camelias."
               }
             },
             {
@@ -584,7 +630,8 @@
                 "de": "Der Sonnenuntergang findet hier im Winter bereits gegen 18:00 Uhr statt.",
                 "hu": "A naplemente télen már 18:00 körül bekövetkezik, ne késse le a látványt.",
                 "ro": "Apusul are loc aici iarna în jurul orei 18:00; nu ratați momentul.",
-                "en": "Sunset here happens around 18:00 in winter; don't miss the timing."
+                "en": "Sunset here happens around 18:00 in winter; don't miss the timing.",
+                "es": "La puesta de sol aquí ocurre alrededor de las 18:00 en invierno; no pierdas el momento."
               }
             },
             {
@@ -593,7 +640,8 @@
                 "de": "Perfekt für einen zügigen Spaziergang, um den Kreislauf im Wind anzuregen.",
                 "hu": "Tökéletes hely egy tempós sétához, hogy felélénküljön a friss tengeri szélben.",
                 "ro": "Perfect pentru o plimbare rapidă, pentru a vă revigora în vântul marin.",
-                "en": "Perfect for a brisk walk to get your circulation going in the sea breeze."
+                "en": "Perfect for a brisk walk to get your circulation going in the sea breeze.",
+                "es": "Perfecto para una caminata vigorosa que active la circulación con la brisa marina."
               }
             }
           ],
@@ -625,6 +673,13 @@
               "Make the most of the midday hours for outdoor sights when it's warmest.",
               "Cádiz is windy in winter; a light beanie is useful for the causeway and castle tops.",
               "Enjoy the peace; most landmarks have virtually no waiting times."
+            ],
+            "es": [
+              "Vístete en capas; hace calor al sol pero puede refrescar mucho a la sombra.",
+              "La puesta de sol es sobre las 18:00: sincroniza tu paseo costero para atrapar la hora dorada.",
+              "Aprovecha las horas del mediodía para los lugares al aire libre cuando hace más calor.",
+              "Cádiz es ventoso en invierno; un gorro ligero es útil para el paseo y las torres del castillo.",
+              "Disfruta de la paz; la mayoría de los monumentos prácticamente no tienen tiempos de espera."
             ]
           }
         }
@@ -643,7 +698,8 @@
             "de": "Plaza de las Flores",
             "hu": "Virágok tere",
             "ro": "Piața Florilor",
-            "en": "Square of Flowers"
+            "en": "Square of Flowers",
+            "es": "Plaza de las Flores"
           },
           "coords": [
             -6.297,
@@ -658,7 +714,8 @@
             "de": "Mieten Sie Ihr Fahrrad in der Nähe und beginnen Sie hier Ihre Tour.",
             "hu": "Béreljen kerékpárt a közelben, és kezdje itt a túrát!",
             "ro": "Închiriați bicicleta din apropiere și începeți turul de aici.",
-            "en": "Rent your bike nearby and start your tour here."
+            "en": "Rent your bike nearby and start your tour here.",
+            "es": "Alquila tu bici cerca y comienza tu recorrido aquí."
           }
         },
         {
@@ -666,7 +723,8 @@
             "de": "Römisches Theater",
             "hu": "Római színház",
             "ro": "Teatrul Roman",
-            "en": "Roman Theatre"
+            "en": "Roman Theatre",
+            "es": "Teatro Romano"
           },
           "coords": [
             -6.293,
@@ -681,7 +739,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie das Theater erkunden.",
             "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezi a színházat!",
             "ro": "Legați-vă bine bicicleta înainte de a explora teatrul.",
-            "en": "Lock your bike securely before exploring the theatre."
+            "en": "Lock your bike securely before exploring the theatre.",
+            "es": "Asegura bien tu bici antes de explorar el teatro."
           }
         },
         {
@@ -689,7 +748,8 @@
             "de": "Kathedrale von Cádiz",
             "hu": "Cádizi katedrális",
             "ro": "Catedrala din Cádiz",
-            "en": "Cádiz Cathedral"
+            "en": "Cádiz Cathedral",
+            "es": "Catedral de Cádiz"
           },
           "coords": [
             -6.295,
@@ -704,7 +764,8 @@
             "de": "Der Platz vor der Kathedrale ist ein großartiger Ort für eine kurze Pause.",
             "hu": "A katedrális előtti tér remek hely egy rövid pihenőre.",
             "ro": "Piața din fața catedralei este un loc minunat pentru o scurtă pauză.",
-            "en": "The square in front of the cathedral is a great spot for a short break."
+            "en": "The square in front of the cathedral is a great spot for a short break.",
+            "es": "La plaza frente a la catedral es un gran lugar para una breve pausa."
           }
         },
         {
@@ -712,7 +773,8 @@
             "de": "Radtour entlang der Küste",
             "hu": "Kerékpártúra a part mentén",
             "ro": "Tur cu bicicleta de-a lungul coastei",
-            "en": "Bike ride along the coast"
+            "en": "Bike ride along the coast",
+            "es": "Paseo en bici por la costa"
           },
           "coords": [
             -6.3,
@@ -727,7 +789,8 @@
             "de": "Genießen Sie die Fahrt auf dem Radweg mit Blick auf den Atlantik.",
             "hu": "Élvezze a bicikliutat az Atlanti-óceánra néző kerékpárúton!",
             "ro": "Bucurați-vă de plimbarea pe pista de biciclete cu vedere la Atlantic.",
-            "en": "Enjoy the ride on the bike path overlooking the Atlantic."
+            "en": "Enjoy the ride on the bike path overlooking the Atlantic.",
+            "es": "Disfruta del paseo por el carril bici con vistas al Atlántico."
           }
         },
         {
@@ -735,7 +798,8 @@
             "de": "Parque Genovés",
             "hu": "Genovés park",
             "ro": "Parcul Genovés",
-            "en": "Genovés Park"
+            "en": "Genovés Park",
+            "es": "Parque Genovés"
           },
           "coords": [
             -6.303,
@@ -750,7 +814,8 @@
             "de": "Stellen Sie Ihr Fahrrad am Eingang ab und spazieren Sie durch den Park.",
             "hu": "Hagyja a kerékpárt a bejáratnál, és sétáljon egyet a parkban!",
             "ro": "Parcați bicicleta la intrare și faceți o plimbare prin parc.",
-            "en": "Park your bike at the entrance and take a stroll through the park."
+            "en": "Park your bike at the entrance and take a stroll through the park.",
+            "es": "Aparca tu bici en la entrada y da un paseo por el parque."
           }
         },
         {
@@ -758,7 +823,8 @@
             "de": "Castillo de Santa Catalina",
             "hu": "Szent Katalin-vár",
             "ro": "Castelul Santa Catalina",
-            "en": "Santa Catalina Castle"
+            "en": "Santa Catalina Castle",
+            "es": "Castillo de Santa Catalina"
           },
           "coords": [
             -6.305,
@@ -773,7 +839,8 @@
             "de": "Ein kurzer Abstecher für einen tollen Blick auf den Strand La Caleta.",
             "hu": "Rövid kitérő a La Caleta strandra nyíló nagyszerű kilátásért.",
             "ro": "Un scurt ocol pentru o priveliște superbă asupra plajei La Caleta.",
-            "en": "A quick detour for a great view over La Caleta beach."
+            "en": "A quick detour for a great view over La Caleta beach.",
+            "es": "Un desvío rápido para una gran vista sobre la playa de La Caleta."
           }
         },
         {
@@ -781,7 +848,8 @@
             "de": "Playa de la Caleta",
             "hu": "La Caleta strand",
             "ro": "Plaja La Caleta",
-            "en": "La Caleta Beach"
+            "en": "La Caleta Beach",
+            "es": "Playa de La Caleta"
           },
           "coords": [
             -6.304,
@@ -796,7 +864,8 @@
             "de": "Entspannen Sie am Strand, bevor Sie Ihre Fahrräder zurückgeben.",
             "hu": "Pihenjen a strandon, mielőtt visszavinné a kerékpárokat!",
             "ro": "Relaxați-vă pe plajă înainte de a returna bicicletele.",
-            "en": "Relax on the beach before returning your bikes."
+            "en": "Relax on the beach before returning your bikes.",
+            "es": "Relájate en la playa antes de devolver las bicis."
           }
         }
       ],
@@ -804,7 +873,8 @@
         "de": "Schwingen Sie sich auf Ihr Rad und starten Sie an der Plaza de las Flores. Vormittags radeln Sie durch die Geschichte am Römischen Theater und machen Halt an der beeindruckenden Kathedrale. Mittags genießen Sie eine erfrischende Fahrt entlang der Küstenpromenade. Am Nachmittag erkunden Sie die Gärten des Parque Genovés und genießen die Aussicht vom Castillo de Santa Catalina, bevor Sie Ihren Tag an der goldenen Playa de la Caleta ausklingen lassen.",
         "hu": "Pattanjon kerékpárra, és induljon a Virágok teréről! Délelőtt tekerjen át a történelmen a Római színháznál, és álljon meg a lenyűgöző katedrálisnál. Délben élvezze a frissítő utat a tengerparti sétányon! Délután fedezze fel a Genovés park kertjeit és a kilátást a Santa Catalina-várból, mielőtt az aranyhomokos La Caleta strandon fejezné be a napot.",
         "ro": "Urcați-vă pe bicicletă și porniți din Plaza de las Flores. Dimineața, pedalați prin istorie la Teatrul Roman și opriți-vă la impresionanta Catedrală. La prânz, bucurați-vă de o plimbare revigorantă de-a lungul promenadei de pe coastă. După-amiaza, explorați grădinile din Parcul Genovés și admirați vederea de la Castelul Santa Catalina înainte de a încheia ziua pe plaja aurie La Caleta.",
-        "en": "Hop on your bike and start from Plaza de las Flores. In the morning, cycle through history at the Roman Theatre and stop at the impressive Cathedral. At noon, enjoy a refreshing ride along the coastal promenade. In the afternoon, explore the gardens of Genovés Park and take in the views from Santa Catalina Castle, before ending your day at the golden La Caleta Beach."
+        "en": "Hop on your bike and start from Plaza de las Flores. In the morning, cycle through history at the Roman Theatre and stop at the impressive Cathedral. At noon, enjoy a refreshing ride along the coastal promenade. In the afternoon, explore the gardens of Genovés Park and take in the views from Santa Catalina Castle, before ending your day at the golden La Caleta Beach.",
+        "es": "Súbete a tu bici y parte desde la Plaza de las Flores. Por la mañana, pedalea entre la historia en el Teatro Romano y para en la imponente Catedral. Al mediodía, disfruta de un refrescante paseo por el paseo marítimo. Por la tarde, explora los jardines del Parque Genovés y contempla las vistas desde el Castillo de Santa Catalina, antes de terminar el día en la dorada playa de La Caleta."
       },
       "gastro_picks": {
         "de": [
@@ -1000,6 +1070,12 @@
           "The coastal promenade is great for cycling, but you may need to dismount and walk in the old town.",
           "Be mindful of pedestrians in the narrow streets.",
           "A helmet is recommended."
+        ],
+        "es": [
+          "Siempre asegura bien tu bici, incluso en paradas cortas.",
+          "El paseo marítimo es ideal para ciclar, pero puede que tengas que desmontar y caminar en el casco antiguo.",
+          "Ten cuidado con los peatones en las calles estrechas.",
+          "Se recomienda casco."
         ]
       },
       "variants": {
@@ -1008,7 +1084,8 @@
             "de": "Der Tag beginnt vorsichtig auf den nassen Pflastersteinen der Altstadt. Mittags nutzen wir die breiten, asphaltierten Wege entlang der Küste, die bei Regen weniger rutschig sind. Nachmittags suchen wir Schutz im Castillo de Santa Catalina, während die Räder unter den Torbögen parken. Den Abend beschließen wir mit einer kurzen Fahrt zur La Caleta, bevor die Dämmerung einsetzt.",
             "hu": "Óvatosan kezdjük a napot az óváros vizes macskakövein. Délben a széles, aszfaltozott parti utakat választjuk, amelyek esőben is biztonságosabbak. Délután a Santa Catalina vár belső tereiben pihenünk meg, míg a biciklik a várkapu alatt várnak. Az estét egy rövid, de frissítő gurulással zárjuk a La Caleta-öböl felé.",
             "ro": "Începem ziua cu prudență pe pavajul ud din orașul vechi. La prânz alegem pistele asfaltate de-a lungul coastei, care sunt mai sigure pe ploaie. După-amiaza ne adăpostim în castelul Santa Catalina, lăsând bicicletele sub arcadele porții. Încheiem seara cu o scurtă plimbare spre La Caleta, înainte de lăsarea întunericului.",
-            "en": "We start the day cautiously on the wet cobblestones of the old town. At noon, we stick to the wide, paved coastal paths that are safer in the rain. In the afternoon, we find shelter in Santa Catalina Castle while the bikes wait under the gate's arches. We finish the evening with a short but refreshing ride towards La Caleta as dusk approaches."
+            "en": "We start the day cautiously on the wet cobblestones of the old town. At noon, we stick to the wide, paved coastal paths that are safer in the rain. In the afternoon, we find shelter in Santa Catalina Castle while the bikes wait under the gate's arches. We finish the evening with a short but refreshing ride towards La Caleta as dusk approaches.",
+            "es": "Comenzamos el día con precaución sobre los adoquines mojados del casco antiguo. Al mediodía, nos mantenemos en los amplios senderos pavimentados de la costa que son más seguros con lluvia. Por la tarde, encontramos refugio en el Castillo de Santa Catalina mientras las bicis esperan bajo los arcos de la puerta. Terminamos la tarde con un paseo corto pero vigorizante hacia La Caleta al anochecer."
           },
           "stops": [
             {
@@ -1017,7 +1094,8 @@
                 "de": "Parken Sie Ihr Rad unter den Arkaden der nahen Post, um es trocken zu halten.",
                 "hu": "Parkoljon a közeli posta árkádjai alatt, hogy szárazon tartsa a kerékpárt.",
                 "ro": "Parcați bicicleta sub arcadele poștei din apropiere pentru a o păstra uscată.",
-                "en": "Park your bike under the arches of the nearby post office to keep it dry."
+                "en": "Park your bike under the arches of the nearby post office to keep it dry.",
+                "es": "Aparca tu bici bajo los arcos de la oficina de correos cercana para mantenerla seca."
               }
             },
             {
@@ -1026,7 +1104,8 @@
                 "de": "Nutzen Sie die Fahrradständer direkt am Eingang; das Museum bietet schnellen Schutz.",
                 "hu": "Használja a közvetlenül a bejáratnál lévő támaszokat; a múzeum azonnali menedék.",
                 "ro": "Folosiți rastelele de la intrare; muzeul oferă adăpost rapid de ploaie.",
-                "en": "Use the bike racks right at the entrance; the museum provides immediate shelter."
+                "en": "Use the bike racks right at the entrance; the museum provides immediate shelter.",
+                "es": "Utiliza los aparcabicis justo en la entrada; el museo ofrece refugio inmediato."
               }
             },
             {
@@ -1035,7 +1114,8 @@
                 "de": "Die Plaza de la Catedral ist groß, aber bei Nässe sehr rutschig; steigen Sie lieber ab.",
                 "hu": "A katedrális tere tágas, de vizesen nagyon csúszik; érdemesebb leszállni a nyeregből.",
                 "ro": "Piața Catedralei este mare, dar alunecoasă pe ploaie; e mai bine să mergeți pe lângă.",
-                "en": "The Cathedral square is spacious but very slippery when wet; better to dismount."
+                "en": "The Cathedral square is spacious but very slippery when wet; better to dismount.",
+                "es": "La plaza de la Catedral es espaciosa pero muy resbaladiza cuando está mojada; mejor desmontar."
               }
             },
             {
@@ -1044,7 +1124,8 @@
                 "de": "Der Asphalt bietet hier besseren Grip als das Kopfsteinpflaster im Zentrum.",
                 "hu": "Az itteni aszfalt sokkal jobb tapadást biztosít, mint a belvárosi macskakő.",
                 "ro": "Asfaltul de aici oferă o aderență mai bună decât pavajul din centru.",
-                "en": "The asphalt here offers much better grip than the cobblestones in the center."
+                "en": "The asphalt here offers much better grip than the cobblestones in the center.",
+                "es": "El asfalto aquí ofrece mucho mejor agarre que los adoquines del centro."
               }
             },
             {
@@ -1053,7 +1134,8 @@
                 "de": "Fahren Sie langsam auf den sandigen Wegen; Pfützen bilden sich hier schnell.",
                 "hu": "Hajtson lassan a homokos ösvényeken; a tócsák itt gyorsan mélyülhetnek.",
                 "ro": "Mergeți încet pe aleile cu nisip; aici se formează rapid bălți adânci.",
-                "en": "Ride slowly on the sandy paths; deep puddles can form quickly here."
+                "en": "Ride slowly on the sandy paths; deep puddles can form quickly here.",
+                "es": "Pedalea despacio por los senderos arenosos; se pueden formar charcos profundos rápidamente."
               }
             },
             {
@@ -1062,7 +1144,8 @@
                 "de": "Schließen Sie Ihr Rad im überdachten Eingangsbereich des Schlosses an.",
                 "hu": "Zárja le kerékpárját a várkastély fedett bejárati szakaszán.",
                 "ro": "Legați bicicleta în zona acoperită de la intrarea în castel.",
-                "en": "Lock your bike in the covered entrance area of the castle for protection."
+                "en": "Lock your bike in the covered entrance area of the castle for protection.",
+                "es": "Asegura tu bici en la zona de entrada cubierta del castillo para protección."
               }
             },
             {
@@ -1071,7 +1154,8 @@
                 "de": "Nutzen Sie den befestigten Weg am Balneario; meiden Sie tiefen, nassen Sand.",
                 "hu": "Használja a Balneario melletti szilárd utat; kerülje a mély, vizes homokot.",
                 "ro": "Folosiți drumul pavat de lângă Balneario; evitați nisipul ud și adânc.",
-                "en": "Stick to the paved path by the Balneario; avoid deep, wet sand with your bike."
+                "en": "Stick to the paved path by the Balneario; avoid deep, wet sand with your bike.",
+                "es": "Mantente en el sendero pavimentado junto al Balneario; evita la arena mojada y profunda con la bici."
               }
             }
           ],
@@ -1103,6 +1187,13 @@
               "Mudguards are worth their weight in gold today to keep your back dry.",
               "Use the wide Avenida along the city walls for better safety and visibility.",
               "Wear high-visibility gear; drivers have poor visibility during rainfall."
+            ],
+            "es": [
+              "Revisa tus frenos; los aros mojados aumentan significativamente la distancia de frenado.",
+              "Evita rodar sobre las marcas viales blancas; se vuelven tan resbaladizas como el hielo con lluvia.",
+              "Los guardabarros valen su peso en oro hoy para mantener la espalda seca.",
+              "Utiliza la amplia Avenida junto a las murallas para mayor seguridad y visibilidad.",
+              "Lleva ropa de alta visibilidad; los conductores ven peor durante la lluvia."
             ]
           }
         },
@@ -1111,7 +1202,8 @@
             "de": "Mit dem Rad durch das winterliche Cádiz zu fahren, ist ein Genuss ohne die Hitze. Mittags erkunden wir die Kathedrale und genießen die frische Luft am Tavira-Turm. Nachmittags führt die Tour entlang der sonnigen Küstenstraße zum Genovés Park. Den Abend krönen wir mit einer Fahrt zur La Caleta, um das weiche Winterlicht am Horizont einzufangen.",
             "hu": "Kerékpárral szelni át a téli Cádizt igazi élvezet a perzselő hőség nélkül. Délben a katedrálist érintjük, majd élvezzük a friss szelet a Tavira-torony környékén. Délután a napos parti úton tekerünk a Genovés park felé. Az estét a La Caleta felé vett iránnyal zárjuk, elcsípve a lágy téli fényeket a látóhatáron.",
             "ro": "O plimbare cu bicicleta prin Cádiz iarna este o plăcere fără căldura toridă. La prânz explorăm zona Catedralei și ne bucurăm de aerul curat lângă turnul Tavira. După-amiaza turul continuă pe drumul însorit de pe coastă spre parcul Genovés. Încheiem seara cu o cursă spre La Caleta pentru a surprinde lumina caldă de iarnă.",
-            "en": "Cycling through winter Cádiz is a delight without the scorching heat. At noon, we visit the Cathedral and enjoy the fresh air near Tavira Tower. In the afternoon, our tour follows the sunny coastal road to Genovés Park. We crown the evening with a ride to La Caleta to capture the soft winter light on the horizon."
+            "en": "Cycling through winter Cádiz is a delight without the scorching heat. At noon, we visit the Cathedral and enjoy the fresh air near Tavira Tower. In the afternoon, our tour follows the sunny coastal road to Genovés Park. We crown the evening with a ride to La Caleta to capture the soft winter light on the horizon.",
+            "es": "Ciclar por la Cádiz invernal es un placer sin el calor abrasador. Al mediodía visitamos la Catedral y disfrutamos del aire fresco cerca de la Torre Tavira. Por la tarde, nuestro recorrido sigue la soleada carretera costera hasta el Parque Genovés. Coroamos la tarde con un paseo hasta La Caleta para captar la suave luz invernal en el horizonte."
           },
           "stops": [
             {
@@ -1120,7 +1212,8 @@
                 "de": "Ein idealer Ort für eine kurze Pause in der milden Wintersonne.",
                 "hu": "Ideális hely egy rövid pihenőre a szelíd téli napsütésben.",
                 "ro": "Un loc ideal pentru o scurtă pauză sub soarele blând de iarnă.",
-                "en": "An ideal spot for a short break in the mild winter sun."
+                "en": "An ideal spot for a short break in the mild winter sun.",
+                "es": "Un lugar ideal para una breve parada al sol invernal."
               }
             },
             {
@@ -1129,7 +1222,8 @@
                 "de": "Leichtes Parken im Winter; genießen Sie die historische Stille.",
                 "hu": "Télen könnyű parkolni; élvezze a történelmi helyszín csendjét.",
                 "ro": "Parcare ușoară iarna; bucurați-vă de liniștea istorică a locului.",
-                "en": "Easy parking in winter; enjoy the historical silence of the site."
+                "en": "Easy parking in winter; enjoy the historical silence of the site.",
+                "es": "Fácil aparcamiento en invierno; disfruta del silencio histórico del lugar."
               }
             },
             {
@@ -1138,7 +1232,8 @@
                 "de": "Die Plaza bietet im Winter viel Platz für Manöver mit dem Fahrrad.",
                 "hu": "A tér télen tágasabb, kényelmesen lehet manőverezni a kerékpárral.",
                 "ro": "Piața oferă iarna mult spațiu pentru manevre cu bicicleta.",
-                "en": "The square offers plenty of space for bike maneuvers in the winter."
+                "en": "The square offers plenty of space for bike maneuvers in the winter.",
+                "es": "La plaza ofrece mucho espacio para maniobras con la bici en invierno."
               }
             },
             {
@@ -1147,7 +1242,8 @@
                 "de": "Der kühle Fahrtwind ist erfrischend; tragen Sie Handschuhe gegen die Kälte.",
                 "hu": "A hűvös menetszél frissítő; viseljen kesztyűt a kezei védelmében.",
                 "ro": "Vântul este revigorant; purtați mănuși pentru a vă proteja de frig.",
-                "en": "The cool breeze is refreshing; wear gloves to keep your hands warm."
+                "en": "The cool breeze is refreshing; wear gloves to keep your hands warm.",
+                "es": "La brisa fresca es revitalizante; lleva guantes para mantener las manos calientes."
               }
             },
             {
@@ -1156,7 +1252,8 @@
                 "de": "Schattige Wege können kühl sein; suchen Sie die sonnigen Abschnitte.",
                 "hu": "Az árnyékos utak hűvösek lehetnek; keresse a napsütötte szakaszokat.",
                 "ro": "Aleile umbrite pot fi răcoroase; căutați porțiunile însorite.",
-                "en": "Shaded paths can be chilly; look for the sunny sections of the park."
+                "en": "Shaded paths can be chilly; look for the sunny sections of the park.",
+                "es": "Los senderos sombreados pueden ser fríos; busca las secciones soleadas del parque."
               }
             },
             {
@@ -1165,7 +1262,8 @@
                 "de": "Nutzen Sie das klare Licht für Fotos von der Meeresseite des Schlosses.",
                 "hu": "Használja ki a tiszta fényeket a vár tenger felőli oldalának fotózásához.",
                 "ro": "Profitați de lumina clară pentru poze cu partea dinspre mare a castelului.",
-                "en": "Take advantage of the clear light for photos of the castle's sea side."
+                "en": "Take advantage of the clear light for photos of the castle's sea side.",
+                "es": "Aprovecha la luz nítida para fotos del lado marino del castillo."
               }
             },
             {
@@ -1174,7 +1272,8 @@
                 "de": "Das Winterlicht sorgt hier für eine besonders ruhige, klare Atmosphäre.",
                 "hu": "A téli fények különlegesen nyugodt, tiszta hangulatot árasztanak itt.",
                 "ro": "Lumina de iarnă creează aici o atmosferă deosebit de calmă și clară.",
-                "en": "The winter light creates a particularly peaceful and clear atmosphere here."
+                "en": "The winter light creates a particularly peaceful and clear atmosphere here.",
+                "es": "La luz invernal crea una atmósfera particularmente pacífica y clara aquí."
               }
             }
           ],
@@ -1206,6 +1305,13 @@
               "In the narrow alleys of the old town, it often stays cool even in winter.",
               "Check your tire pressure; cold air can slightly reduce the pressure.",
               "Plan to head back before 18:00 as it gets dark very quickly afterwards."
+            ],
+            "es": [
+              "Los guantes son imprescindibles para el ciclismo costero en invierno.",
+              "El sol está más bajo en invierno y puede deslumbrar; lleva gafas de sol.",
+              "En los callejones estrechos del casco antiguo suele mantenerse fresco incluso en invierno.",
+              "Comprueba la presión de tus neumáticos; el aire frío puede reducirla ligeramente.",
+              "Planea regresar antes de las 18:00 ya que oscurece muy rápido después."
             ]
           }
         }
@@ -1224,7 +1330,8 @@
             "de": "Parken am Campo del Sur",
             "hu": "Parkolás a Campo del Sur-nál",
             "ro": "Parcare la Campo del Sur",
-            "en": "Parking at Campo del Sur"
+            "en": "Parking at Campo del Sur",
+            "es": "Aparcamiento en Campo del Sur"
           },
           "coords": [
             -6.292,
@@ -1240,7 +1347,8 @@
             "de": "Parken Sie hier und erkunden Sie den ersten Teil der Stadt zu Fuß.",
             "hu": "Parkoljon le itt, és fedezze fel a város első részét gyalog!",
             "ro": "Parcați aici și explorați prima parte a orașului pe jos.",
-            "en": "Park here and explore the first part of the city on foot."
+            "en": "Park here and explore the first part of the city on foot.",
+            "es": "Aparca aquí y explora la primera parte de la ciudad a pie."
           }
         },
         {
@@ -1248,7 +1356,8 @@
             "de": "Römisches Theater",
             "hu": "Római színház",
             "ro": "Teatrul Roman",
-            "en": "Roman Theatre"
+            "en": "Roman Theatre",
+            "es": "Teatro Romano"
           },
           "coords": [
             -6.293,
@@ -1264,7 +1373,8 @@
             "de": "Nur ein kurzer Spaziergang vom Parkplatz entfernt.",
             "hu": "Csak egy rövid séta a parkolótól.",
             "ro": "La doar o scurtă plimbare de la parcare.",
-            "en": "Just a short walk from the parking lot."
+            "en": "Just a short walk from the parking lot.",
+            "es": "A solo un corto paseo desde el aparcamiento."
           }
         },
         {
@@ -1272,7 +1382,8 @@
             "de": "Kathedrale von Cádiz",
             "hu": "Cádizi katedrális",
             "ro": "Catedrala din Cádiz",
-            "en": "Cádiz Cathedral"
+            "en": "Cádiz Cathedral",
+            "es": "Catedral de Cádiz"
           },
           "coords": [
             -6.295,
@@ -1288,7 +1399,8 @@
             "de": "Lassen Sie sich von der Größe und der goldenen Kuppel beeindrucken.",
             "hu": "Hagyja, hogy lenyűgözze a mérete és az arany kupolája!",
             "ro": "Lăsați-vă impresionați de măreția și cupola sa aurie.",
-            "en": "Be impressed by its scale and golden dome."
+            "en": "Be impressed by its scale and golden dome.",
+            "es": "Impresiónate con su escala y su cúpula dorada."
           }
         },
         {
@@ -1296,7 +1408,8 @@
             "de": "Torre Tavira",
             "hu": "Tavira-torony",
             "ro": "Turnul Tavira",
-            "en": "Tavira Tower"
+            "en": "Tavira Tower",
+            "es": "Torre Tavira"
           },
           "coords": [
             -6.298,
@@ -1312,7 +1425,8 @@
             "de": "Der höchste Punkt der Altstadt, ein Muss für Fotografen.",
             "hu": "Az óváros legmagasabb pontja, kötelező a fotósoknak.",
             "ro": "Cel mai înalt punct din orașul vechi, un must pentru fotografi.",
-            "en": "The highest point in the old town, a must for photographers."
+            "en": "The highest point in the old town, a must for photographers.",
+            "es": "El punto más alto del casco antiguo, imprescindible para fotógrafos."
           }
         },
         {
@@ -1320,7 +1434,8 @@
             "de": "Fahrt zum Parque Genovés",
             "hu": "Autóút a Genovés parkhoz",
             "ro": "Mers cu mașina la Parcul Genovés",
-            "en": "Drive to Genovés Park"
+            "en": "Drive to Genovés Park",
+            "es": "Conducir hasta el Parque Genovés"
           },
           "coords": [
             -6.303,
@@ -1336,7 +1451,8 @@
             "de": "Fahren Sie zum zweiten Cluster. Suchen Sie einen Parkplatz in der Nähe des Parks.",
             "hu": "Vezessen a második fürthöz. Keressen parkolót a park közelében.",
             "ro": "Conduceți spre al doilea cluster. Căutați parcare lângă parc.",
-            "en": "Drive to the second cluster. Look for parking near the park."
+            "en": "Drive to the second cluster. Look for parking near the park.",
+            "es": "Conduce hasta el segundo conjunto. Busca aparcamiento cerca del parque."
           }
         },
         {
@@ -1344,7 +1460,8 @@
             "de": "Parque Genovés & Castillo de Santa Catalina",
             "hu": "Genovés park és Szent Katalin-vár",
             "ro": "Parcul Genovés & Castelul Santa Catalina",
-            "en": "Genovés Park & Santa Catalina Castle"
+            "en": "Genovés Park & Santa Catalina Castle",
+            "es": "Parque Genovés y Castillo de Santa Catalina"
           },
           "coords": [
             -6.305,
@@ -1360,7 +1477,8 @@
             "de": "Erkunden Sie den Park und gehen Sie dann zum Schloss für die Aussicht.",
             "hu": "Fedezze fel a parkot, majd sétáljon át a várhoz a kilátásért!",
             "ro": "Explorați parcul și apoi mergeți la castel pentru priveliște.",
-            "en": "Explore the park and then walk over to the castle for the views."
+            "en": "Explore the park and then walk over to the castle for the views.",
+            "es": "Explora el parque y luego camina hasta el castillo para las vistas."
           }
         },
         {
@@ -1368,7 +1486,8 @@
             "de": "Playa de la Caleta",
             "hu": "La Caleta strand",
             "ro": "Plaja La Caleta",
-            "en": "La Caleta Beach"
+            "en": "La Caleta Beach",
+            "es": "Playa de La Caleta"
           },
           "coords": [
             -6.304,
@@ -1384,7 +1503,8 @@
             "de": "Beenden Sie den Tag entspannt am berühmtesten Strand der Stadt.",
             "hu": "Zárja a napot pihenéssel a város leghíresebb strandján!",
             "ro": "Încheiați ziua relaxându-vă pe cea mai faimoasă plajă a orașului.",
-            "en": "End the day relaxing on the city's most famous beach."
+            "en": "End the day relaxing on the city's most famous beach.",
+            "es": "Termina el día relajándote en la playa más famosa de la ciudad."
           }
         }
       ],
@@ -1392,7 +1512,8 @@
         "de": "Fahren Sie in die Stadt und parken Sie in der Nähe des Campo del Sur. Ihr erster Spaziergang führt Sie zum Römischen Theater und zur prächtigen Kathedrale. Am Vormittag erklimmen Sie den Torre Tavira. Am Nachmittag fahren Sie zu Ihrem zweiten Stopp, dem Parque Genovés. Von dort aus spazieren Sie zur Festung Santa Catalina und beenden den Tag mit einem langen, entspannten Aufenthalt am berühmten Strand La Caleta.",
         "hu": "Vezessen be a városba, és parkoljon a Campo del Sur közelében. Az első séta a Római színházhoz és a csodálatos katedrálishoz vezet. Délelőtt másszon fel a Tavira-toronyba. Délután vezessen a második megállóhoz, a Genovés parkhoz. Innen sétáljon el a Santa Catalina-várhoz, és fejezze be a napot egy hosszú, pihentető tartózkodással a híres La Caleta strandon.",
         "ro": "Conduceți în oraș și parcați lângă Campo del Sur. Prima plimbare vă duce la Teatrul Roman și la magnifica Catedrală. Dimineața, urcați în Turnul Tavira. După-amiaza, conduceți spre a doua oprire, Parcul Genovés. De acolo, mergeți pe jos la Castelul Santa Catalina și încheiați ziua cu o ședere lungă și relaxantă pe faimoasa plajă La Caleta.",
-        "en": "Drive into the city and park near Campo del Sur. Your first walking cluster takes you to the Roman Theatre and the magnificent Cathedral. In the morning, ascend the Tavira Tower. In the afternoon, drive to your second cluster, Genovés Park. From there, stroll to Santa Catalina Castle and finish with a long, relaxing stay at the famous La Caleta beach."
+        "en": "Drive into the city and park near Campo del Sur. Your first walking cluster takes you to the Roman Theatre and the magnificent Cathedral. In the morning, ascend the Tavira Tower. In the afternoon, drive to your second cluster, Genovés Park. From there, stroll to Santa Catalina Castle and finish with a long, relaxing stay at the famous La Caleta beach.",
+        "es": "Entra en la ciudad en coche y aparca cerca de Campo del Sur. Tu primera zona a pie te lleva al Teatro Romano y a la magnífica Catedral. Por la mañana, sube a la Torre Tavira. Por la tarde, conduce hasta tu segundo conjunto, el Parque Genovés. Desde allí, pasea hasta el Castillo de Santa Catalina y termina con una larga y relajante estancia en la famosa playa de La Caleta."
       },
       "gastro_picks": {
         "de": [
@@ -1588,6 +1709,12 @@
           "Plan your route in advance, as GPS can be unreliable in the narrow streets.",
           "Do not leave valuables in the car.",
           "Respect the 'Zonas de Bajas Emisiones' (Low Emission Zones)."
+        ],
+        "es": [
+          "Aparcar en el casco antiguo es extremadamente difícil y caro. Usa los aparcamientos subterráneos habilitados.",
+          "Planifica tu ruta con antelación, ya que el GPS puede ser poco fiable en las calles estrechas.",
+          "No dejes objetos de valor en el coche.",
+          "Respeta las Zonas de Bajas Emisiones."
         ]
       },
       "variants": {
@@ -1596,7 +1723,8 @@
             "de": "Im Auto erkunden wir Cádiz heute bequem und trocken. Wir parken zentral und nutzen die kurzen Wege zwischen den Sehenswürdigkeiten. Mittags bietet die Kathedrale einen prachtvollen Unterschlupf, während es draußen stürmt. Nachmittags fahren wir zum Genovés Park, wobei wir die Parkplätze direkt am Eingang nutzen. Den Abend lassen wir entspannt bei einem Blick auf die verregnete Küste ausklingen.",
             "hu": "Autóval ma kényelmesen és szárazon fedezzük fel Cádizt. Központi helyen parkolunk, kihasználva a látnivalók közötti rövid távolságokat. Délben a katedrális nyújt pazar menedéket, míg kint tombol a vihar. Délután a Genovés parkhoz hajtunk, közvetlenül a bejáratnál állva meg. Az estét a vízpermetes part látványával zárjuk a szélvédő mögül.",
             "ro": "Cu mașina explorăm astăzi Cádizul confortabil și uscați. Parcăm central și profităm de distanțele scurte dintre obiective. La prânz, Catedrala oferă un adăpost somptuos în timp ce afară e furtună. După-amiaza conducem spre parcul Genovés, folosind parcările de lângă intrare. Încheiem seara relaxați, privind coasta ploioasă din confortul mașinii.",
-            "en": "By car, we explore Cádiz comfortably and dry today. We park centrally and take advantage of the short distances between the sights. At noon, the Cathedral provides a grand refuge while the storm rages outside. In the afternoon, we drive to Genovés Park, using the parking spaces right by the entrance. We end the evening relaxed, watching the rainy coast from the car."
+            "en": "By car, we explore Cádiz comfortably and dry today. We park centrally and take advantage of the short distances between the sights. At noon, the Cathedral provides a grand refuge while the storm rages outside. In the afternoon, we drive to Genovés Park, using the parking spaces right by the entrance. We end the evening relaxed, watching the rainy coast from the car.",
+            "es": "Hoy exploramos Cádiz cómodamente y secos en coche. Aparcamos céntricos y aprovechamos las cortas distancias entre los puntos de interés. Al mediodía, la Catedral ofrece un gran refugio mientras la tormenta arrecia fuera. Por la tarde, conducimos al Parque Genovés, usando las plazas de aparcamiento junto a la entrada. Terminamos la noche relajados, mirando la costa lluviosa desde el coche."
           },
           "stops": [
             {
@@ -1605,7 +1733,8 @@
                 "de": "Achten Sie beim Aussteigen auf starke Windböen direkt am Meer.",
                 "hu": "Kiszálláskor ügyeljen az ajtóra a tenger felől érkező erős széllökések miatt.",
                 "ro": "Atenție la rafalele de vânt când coborâți din mașină lângă mare.",
-                "en": "Watch out for strong wind gusts when getting out of the car by the sea."
+                "en": "Watch out for strong wind gusts when getting out of the car by the sea.",
+                "es": "Cuidado con las rachas de viento fuertes al bajar del coche junto al mar."
               }
             },
             {
@@ -1614,7 +1743,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz; halten Sie den Regenschirm griffbereit.",
                 "hu": "Rövid séta a parkolótól; tartsa készenlétben az esernyőt.",
                 "ro": "Drum scurt pe jos de la parcare; țineți umbrela la îndemână.",
-                "en": "Short walk from the parking; keep your umbrella handy."
+                "en": "Short walk from the parking; keep your umbrella handy.",
+                "es": "Corto paseo desde el aparcamiento; lleva el paraguas a mano."
               }
             },
             {
@@ -1623,7 +1753,8 @@
                 "de": "Nutzen Sie das Parkhaus 'Centro' für einen komplett trockenen Zugang.",
                 "hu": "Használja a 'Centro' parkolóházat a teljesen száraz bejutás érdekében.",
                 "ro": "Folosiți parcarea subterană 'Centro' pentru un acces complet uscat.",
-                "en": "Use the 'Centro' underground parking for a completely dry access to the area."
+                "en": "Use the 'Centro' underground parking for a completely dry access to the area.",
+                "es": "Usa el aparcamiento subterráneo 'Centro' para un acceso totalmente seco a la zona."
               }
             },
             {
@@ -1632,7 +1763,8 @@
                 "de": "Parken in den engen Gassen ist schwierig; nutzen Sie die großen Parkhäuser.",
                 "hu": "A szűk utcákban tilos vagy nehéz parkolni; válassza a nagy parkolóházakat.",
                 "ro": "Parcarea pe străzile înguste e dificilă; folosiți parcările mari etajate.",
-                "en": "Parking in narrow alleys is difficult; stick to the major parking garages."
+                "en": "Parking in narrow alleys is difficult; stick to the major parking garages.",
+                "es": "Aparcar en callejones estrechos es difícil; quédate en los aparcamientos principales."
               }
             },
             {
@@ -1641,7 +1773,8 @@
                 "de": "Die Sicht kann durch Gischt und Regen an der Uferstraße eingeschränkt sein.",
                 "hu": "A látási viszonyok a parti úton a vízpermet és eső miatt korlátozottak lehetnek.",
                 "ro": "Vizibilitatea pe drumul de coastă poate fi redusă din cauza stropilor și ploii.",
-                "en": "Visibility on the coastal road may be limited due to sea spray and heavy rain."
+                "en": "Visibility on the coastal road may be limited due to sea spray and heavy rain.",
+                "es": "La visibilidad en la carretera costera puede verse limitada por el spray marino y la lluvia intensa."
               }
             },
             {
@@ -1650,7 +1783,8 @@
                 "de": "Es gibt Parkplätze direkt an der Mauer, ideal bei Regen.",
                 "hu": "Közvetlenül a falnál vannak parkolóhelyek, ami ideális szakadó esőben.",
                 "ro": "Există locuri de parcare chiar lângă zid, ideale pe timp de ploaie.",
-                "en": "There are parking spots right by the wall, ideal during a downpour."
+                "en": "There are parking spots right by the wall, ideal during a downpour.",
+                "es": "Hay plazas de aparcamiento junto al muro, ideales durante un chaparrón."
               }
             },
             {
@@ -1659,7 +1793,8 @@
                 "de": "Vom Auto aus hat man einen tollen Blick auf die stürmische Brandung.",
                 "hu": "Az autóból remek kilátás nyílik a viharos hullámtörésre.",
                 "ro": "Din mașină aveți o vedere excelentă asupra valurilor în timpul furtunii.",
-                "en": "From the car, you have a great view of the stormy surf breaking on the shore."
+                "en": "From the car, you have a great view of the stormy surf breaking on the shore.",
+                "es": "Desde el coche tienes una gran vista del oleaje tempestuoso rompiendo en la orilla."
               }
             }
           ],
@@ -1691,6 +1826,13 @@
               "The 'Campo del Sur' coastal road can spray sea salt onto the car in high winds.",
               "Ensure your windshield wipers are in top condition for heavy coastal rain.",
               "Old town parking garages are often very narrow; maneuver with care."
+            ],
+            "es": [
+              "Usa aparcamientos subterráneos (p. ej., San Antonio) para mantenerte seco entre paradas.",
+              "Evita aparcar bajo palmeras durante las tormentas por el riesgo de ramas caídas.",
+              "La carretera litoral de Campo del Sur puede salpicar sal marina sobre el coche con vientos fuertes.",
+              "Asegúrate de que los limpiaparabrisas estén en perfecto estado para la lluvia costera intensa.",
+              "Los aparcamientos del casco antiguo suelen ser muy estrechos; maniobra con cuidado."
             ]
           }
         },
@@ -1699,7 +1841,8 @@
             "de": "Im Winter ist Cádiz mit dem Auto besonders entspannt, da die Parkplatzsuche einfacher ist. Mittags erkunden wir die Altstadt und wärmen uns in der Kathedrale auf. Nachmittags genießen wir die Fahrt entlang der klaren Küstenlinie zum Genovés Park. Der Tag endet mit einem herrlichen Blick auf den Sonnenuntergang bei La Caleta, bevor die kühle Nachtluft einsetzt.",
             "hu": "Télen autóval Cádiz különösen pihentető, mivel könnyebb parkolóhelyet találni. Délben az óvárost járjuk be, majd a katedrálisban melegszünk fel. Délután a tiszta parti úton autózunk a Genovés park felé. A napot a La Caleta-nál zárjuk a naplemente látványával, mielőtt beállna a hűvös éjszakai levegő.",
             "ro": "Iarna, Cádizul cu mașina este deosebit de relaxant, parcarea fiind mai ușor de găsit. La prânz explorăm orașul vechi și ne încălzim în Catedrală. După-amiaza savurăm condusul pe linia clară a coastei spre parcul Genovés. Ziua se încheie cu o priveliște superbă a apusului la La Caleta, înainte de lăsarea frigului.",
-            "en": "In winter, Cádiz by car is especially relaxing as parking is much easier to find. At noon, we explore the old town and warm up inside the Cathedral. In the afternoon, we enjoy the drive along the clear coastline to Genovés Park. The day ends with a magnificent sunset view at La Caleta before the chilly night air sets in."
+            "en": "In winter, Cádiz by car is especially relaxing as parking is much easier to find. At noon, we explore the old town and warm up inside the Cathedral. In the afternoon, we enjoy the drive along the clear coastline to Genovés Park. The day ends with a magnificent sunset view at La Caleta before the chilly night air sets in.",
+            "es": "En invierno, Cádiz en coche es especialmente relajante porque aparcar es mucho más fácil. Al mediodía, exploramos el casco antiguo y nos calentamos dentro de la Catedral. Por la tarde, disfrutamos del paseo por la costa hasta el Parque Genovés. El día termina con una magnífica puesta de sol en La Caleta antes de que llegue el aire frío nocturno."
           },
           "stops": [
             {
@@ -1708,7 +1851,8 @@
                 "de": "Im Winter findet man hier oft problemlos einen Platz mit Meerblick.",
                 "hu": "Télen itt gyakran találni problémamentesen tengerre néző helyet.",
                 "ro": "Iarna găsiți aici adesea locuri cu vedere la mare fără probleme.",
-                "en": "In winter, you can often find a spot with a sea view here without any trouble."
+                "en": "In winter, you can often find a spot with a sea view here without any trouble.",
+                "es": "En invierno, a menudo puedes encontrar una plaza con vistas al mar aquí sin problemas."
               }
             },
             {
@@ -1717,7 +1861,8 @@
                 "de": "Die kühle Winterluft macht den kurzen Weg vom Auto sehr angenehm.",
                 "hu": "A hűvös téli levegő kifejezetten kellemessé teszi a rövid sétát az autótól.",
                 "ro": "Aerul rece de iarnă face scurta plimbare de la mașină foarte plăcută.",
-                "en": "The cool winter air makes the short walk from the car very pleasant."
+                "en": "The cool winter air makes the short walk from the car very pleasant.",
+                "es": "El aire fresco invernal hace muy agradable el corto paseo desde el coche."
               }
             },
             {
@@ -1726,7 +1871,8 @@
                 "de": "Parken Sie im Winter oberirdisch, um die sanften Sonnenstrahlen zu genießen.",
                 "hu": "Télen parkoljon a felszínen, hogy élvezhesse a lágy napsugarakat.",
                 "ro": "Iarna parcați la suprafață pentru a vă bucura de razele blânde ale soarelui.",
-                "en": "In winter, try surface parking to enjoy the gentle rays of sunshine."
+                "en": "In winter, try surface parking to enjoy the gentle rays of sunshine.",
+                "es": "En invierno, prueba el aparcamiento en superficie para disfrutar de los suaves rayos de sol."
               }
             },
             {
@@ -1735,7 +1881,8 @@
                 "de": "Nutzen Sie den klaren Wintertag für weite Ausblicke über die Bucht.",
                 "hu": "Használja ki a tiszta téli napot az öbölre nyíló távoli kilátáshoz.",
                 "ro": "Profitați de ziua senină de iarnă pentru vederi largi peste golf.",
-                "en": "Take advantage of the clear winter day for far-reaching views over the bay."
+                "en": "Take advantage of the clear winter day for far-reaching views over the bay.",
+                "es": "Aprovecha el claro día invernal para vistas de gran alcance sobre la bahía."
               }
             },
             {
@@ -1744,7 +1891,8 @@
                 "de": "Die Uferstraße ist im Winter weniger befahren und bietet freie Sicht.",
                 "hu": "A parti út télen kevésbé forgalmas, zavartalan kilátást nyújtva.",
                 "ro": "Drumul de coastă este mai puțin circulat iarna și oferă o vedere liberă.",
-                "en": "The coastal road is less busy in winter and offers unobstructed views."
+                "en": "The coastal road is less busy in winter and offers unobstructed views.",
+                "es": "La carretera costera está menos concurrida en invierno y ofrece vistas sin obstáculos."
               }
             },
             {
@@ -1753,7 +1901,8 @@
                 "de": "Parkplätze sind reichlich vorhanden; genießen Sie den Park ohne Eile.",
                 "hu": "Bőségesen van parkolóhely; élvezze a parkot kapkodás nélkül.",
                 "ro": "Locurile de parcare sunt din abundență; bucurați-vă de parc pe îndelete.",
-                "en": "Parking spaces are plentiful; enjoy the park at a leisurely pace."
+                "en": "Parking spaces are plentiful; enjoy the park at a leisurely pace.",
+                "es": "Las plazas de aparcamiento son abundantes; disfruta del parque con calma."
               }
             },
             {
@@ -1762,7 +1911,8 @@
                 "de": "Parken Sie rechtzeitig vor 18:00 Uhr für den perfekten Sonnenuntergang.",
                 "hu": "Parkoljon le időben 18:00 előtt a tökéletes naplemente látványához.",
                 "ro": "Parcați la timp înainte de ora 18:00 pentru apusul perfect.",
-                "en": "Park your car well before 18:00 to catch the perfect winter sunset."
+                "en": "Park your car well before 18:00 to catch the perfect winter sunset.",
+                "es": "Aparca bien antes de las 18:00 para ver la puesta de sol invernal perfecta."
               }
             }
           ],
@@ -1794,6 +1944,13 @@
               "Use the car's heater to warm up between your walks through the historic center.",
               "Finding a parking spot in the old town is much easier than in the summer peak.",
               "Be aware of potential road closures for local winter festivals or events."
+            ],
+            "es": [
+              "Aprovecha las tarifas de aparcamiento más bajas en algunas zonas durante la temporada de invierno.",
+              "El sol invernal está bajo; las gafas de sol son esenciales al conducir por la ciudad.",
+              "Usa la calefacción del coche para calentarte entre tus paseos por el casco histórico.",
+              "Encontrar plaza en el casco antiguo es mucho más fácil que en pleno verano.",
+              "Ten en cuenta posibles cortes de carretera por festivales o eventos invernales locales."
             ]
           }
         }
@@ -1812,7 +1969,8 @@
             "de": "Ankunft am Busbahnhof",
             "hu": "Érkezés a buszpályaudvarra",
             "ro": "Sosire la stația de autobuz",
-            "en": "Arrival at Bus Station"
+            "en": "Arrival at Bus Station",
+            "es": "Llegada a la estación de autobuses"
           },
           "coords": [
             -6.289,
@@ -1828,7 +1986,8 @@
             "de": "Kaufen Sie eine wiederaufladbare Buskarte für günstigere Fahrten.",
             "hu": "Vásároljon feltölthető buszkártyát az olcsóbb utazásért!",
             "ro": "Cumpărați un card de autobuz reîncărcabil pentru călătorii mai ieftine.",
-            "en": "Buy a rechargeable bus card for cheaper fares."
+            "en": "Buy a rechargeable bus card for cheaper fares.",
+            "es": "Compra una tarjeta recargable de autobús para tarifas más baratas."
           }
         },
         {
@@ -1836,7 +1995,8 @@
             "de": "Römisches Theater & Kathedrale",
             "hu": "Római színház és katedrális",
             "ro": "Teatrul Roman & Catedrală",
-            "en": "Roman Theatre & Cathedral"
+            "en": "Roman Theatre & Cathedral",
+            "es": "Teatro Romano y Catedral"
           },
           "coords": [
             -6.293,
@@ -1852,7 +2012,8 @@
             "de": "Beginnen Sie Ihre Erkundung mit diesen beiden Highlights, die nahe beieinander liegen.",
             "hu": "Kezdje a felfedezést ezzel a két, egymáshoz közeli látványossággal!",
             "ro": "Începeți explorarea cu aceste două atracții principale, apropiate una de cealaltă.",
-            "en": "Start your exploration with these two highlights, located close together."
+            "en": "Start your exploration with these two highlights, located close together.",
+            "es": "Comienza tu exploración con estos dos puntos destacados, situados muy cerca."
           }
         },
         {
@@ -1860,7 +2021,8 @@
             "de": "Plaza de las Flores",
             "hu": "Virágok tere",
             "ro": "Piața Florilor",
-            "en": "Square of Flowers"
+            "en": "Square of Flowers",
+            "es": "Plaza de las Flores"
           },
           "coords": [
             -6.297,
@@ -1876,7 +2038,8 @@
             "de": "Ein schöner Ort für eine Kaffeepause.",
             "hu": "Szép hely egy kávészünetre.",
             "ro": "Un loc frumos pentru o pauză de cafea.",
-            "en": "A lovely spot for a coffee break."
+            "en": "A lovely spot for a coffee break.",
+            "es": "Un lugar encantador para tomar un café."
           }
         },
         {
@@ -1884,7 +2047,8 @@
             "de": "Torre Tavira",
             "hu": "Tavira-torony",
             "ro": "Turnul Tavira",
-            "en": "Tavira Tower"
+            "en": "Tavira Tower",
+            "es": "Torre Tavira"
           },
           "coords": [
             -6.298,
@@ -1900,7 +2064,8 @@
             "de": "Planen Sie Ihren Besuch um die Vorführungszeiten der Camera Obscura.",
             "hu": "Tervezze a látogatást a Camera Obscura bemutatóinak időpontjához!",
             "ro": "Planificați-vă vizita în funcție de orele de spectacol ale Camerei Obscura.",
-            "en": "Plan your visit around the Camera Obscura show times."
+            "en": "Plan your visit around the Camera Obscura show times.",
+            "es": "Planifica tu visita según los horarios del espectáculo de la Cámara Oscura."
           }
         },
         {
@@ -1908,7 +2073,8 @@
             "de": "Busfahrt zum Parque Genovés",
             "hu": "Buszozás a Genovés parkhoz",
             "ro": "Călătorie cu autobuzul la Parcul Genovés",
-            "en": "Bus ride to Genovés Park"
+            "en": "Bus ride to Genovés Park",
+            "es": "Autobús hasta el Parque Genovés"
           },
           "coords": [
             -6.303,
@@ -1924,7 +2090,8 @@
             "de": "Nehmen Sie die Linie 7 für eine schnelle Fahrt entlang der Küste.",
             "hu": "A 7-es busszal gyorsan eljuthat a part mentén.",
             "ro": "Luați linia 7 pentru o călătorie rapidă de-a lungul coastei.",
-            "en": "Take bus line 7 for a quick ride along the coast."
+            "en": "Take bus line 7 for a quick ride along the coast.",
+            "es": "Toma la línea 7 para un trayecto rápido junto a la costa."
           }
         },
         {
@@ -1932,7 +2099,8 @@
             "de": "Parque Genovés & Castillo de Santa Catalina",
             "hu": "Genovés park és Szent Katalin-vár",
             "ro": "Parcul Genovés & Castelul Santa Catalina",
-            "en": "Genovés Park & Santa Catalina Castle"
+            "en": "Genovés Park & Santa Catalina Castle",
+            "es": "Parque Genovés y Castillo de Santa Catalina"
           },
           "coords": [
             -6.305,
@@ -1948,7 +2116,8 @@
             "de": "Ein schöner Spaziergang vom Park zum Schloss.",
             "hu": "Kellemes séta a parktól a várig.",
             "ro": "O plimbare plăcută de la parc la castel.",
-            "en": "A lovely walk from the park to the castle."
+            "en": "A lovely walk from the park to the castle.",
+            "es": "Un agradable paseo desde el parque hasta el castillo."
           }
         },
         {
@@ -1956,7 +2125,8 @@
             "de": "Playa de la Caleta",
             "hu": "La Caleta strand",
             "ro": "Plaja La Caleta",
-            "en": "La Caleta Beach"
+            "en": "La Caleta Beach",
+            "es": "Playa de La Caleta"
           },
           "coords": [
             -6.304,
@@ -1972,7 +2142,8 @@
             "de": "Entspannen Sie sich, bevor Sie den Bus zurück ins Zentrum nehmen.",
             "hu": "Pihenjen, mielőtt visszamenne busszal a központba!",
             "ro": "Relaxați-vă înainte de a lua autobuzul înapoi spre centru.",
-            "en": "Relax before taking the bus back to the center."
+            "en": "Relax before taking the bus back to the center.",
+            "es": "Relájate antes de tomar el autobús de vuelta al centro."
           }
         }
       ],
@@ -1980,7 +2151,8 @@
         "de": "Nehmen Sie einen Bus ins Herz der Altstadt, um Ihren Tag am Römischen Theater zu beginnen. Nach der Erkundung der Kathedrale schlendern Sie zur Plaza de las Flores und zum Torre Tavira. Am Nachmittag bringt Sie eine kurze Busfahrt zum zweiten Erkundungsgebiet. Hier spazieren Sie durch den üppigen Parque Genovés und zum Castillo de Santa Catalina, bevor Sie einen entspannten Abend am berühmten Strand La Caleta verbringen.",
         "hu": "Buszozzon be az óváros szívébe, hogy a Római színháznál kezdje a napot. A katedrális felfedezése után sétáljon el a Virágok terére és a Tavira-toronyhoz. Délután egy rövid buszút visz a második felfedező területre. Itt sétáljon át a buja Genovés parkon és a Santa Catalina-várhoz, mielőtt egy pihentető estét tölt a híres La Caleta strandon.",
         "ro": "Luați un autobuz în inima orașului vechi pentru a începe ziua la Teatrul Roman. După ce explorați Catedrala, plimbați-vă până la Plaza de las Flores și Turnul Tavira. După-amiaza, o scurtă călătorie cu autobuzul vă duce la a doua zonă de explorare. Aici, plimbați-vă prin luxuriantul Parc Genovés și la Castelul Santa Catalina, înainte de a vă bucura de o seară relaxantă pe faimoasa plajă La Caleta.",
-        "en": "Take a bus into the heart of the old town to start your day at the Roman Theatre. After exploring the Cathedral, wander over to Plaza de las Flores and Tavira Tower. In the afternoon, a short bus ride takes you to the second cluster of exploration. Here, stroll through the lush Genovés Park and to Santa Catalina Castle, before enjoying a relaxing evening at the famous La Caleta beach."
+        "en": "Take a bus into the heart of the old town to start your day at the Roman Theatre. After exploring the Cathedral, wander over to Plaza de las Flores and Tavira Tower. In the afternoon, a short bus ride takes you to the second cluster of exploration. Here, stroll through the lush Genovés Park and to Santa Catalina Castle, before enjoying a relaxing evening at the famous La Caleta beach.",
+        "es": "Toma un autobús hacia el corazón del casco antiguo para empezar tu día en el Teatro Romano. Tras explorar la Catedral, pasea por la Plaza de las Flores y la Torre Tavira. Por la tarde, un corto viaje en autobús te lleva al segundo conjunto de exploración. Aquí, pasea por el frondoso Parque Genovés y hasta el Castillo de Santa Catalina, antes de disfrutar de una tarde relajante en la famosa playa de La Caleta."
       },
       "gastro_picks": {
         "de": [
@@ -2176,6 +2348,12 @@
           "Buses can be crowded in the summer, so allow for extra time.",
           "Keep your ticket or card until the end of your journey.",
           "Most drivers speak only Spanish, so have your destination ready."
+        ],
+        "es": [
+          "Descarga la app local de autobuses para horarios y rutas en tiempo real.",
+          "Los autobuses pueden estar llenos en verano, así que permite tiempo extra.",
+          "Conserva tu billete o tarjeta hasta el final del viaje.",
+          "La mayoría de conductores solo habla español, así que ten tu destino listo."
         ]
       },
       "variants": {
@@ -2184,7 +2362,8 @@
             "de": "Mit dem Bus durchqueren wir Cádiz heute geschützt vor dem Regen. Wir starten an der Busstation und erreichen schnell das Herz der Altstadt. Mittags bietet die Kathedrale einen trockenen Unterschlupf, während wir auf den nächsten Bus zum Genovés Park warten. Den Abend verbringen wir gemütlich in der Nähe der La Caleta, bevor wir den Bus zurück zum Bahnhof nehmen.",
             "hu": "Busszal vágunk át ma Cádizon, védve az esőtől. A buszállomástól indulunk, és gyorsan elérjük az óváros szívét. Délben a katedrális falai között várunk a következő járatra a Genovés park felé. Az estét a La Caleta közelében töltjük, mielőtt felszállnánk a pályaudvarra tartó buszra.",
             "ro": "Cu autobuzul traversăm astăzi Cádizul, protejați de ploaie. Pornim de la autogară și ajungem rapid în inima orașului vechi. La prânz, Catedrala ne oferă adăpost în timp ce așteptăm următorul autobuz spre parcul Genovés. Seara o petrecem lângă La Caleta, înainte de a lua autobuzul înapoi spre gară.",
-            "en": "We cross Cádiz by bus today, staying sheltered from the rain. Starting at the bus station, we quickly reach the heart of the old town. At noon, the Cathedral provides shelter while we wait for the next bus to Genovés Park. We spend the evening comfortably near La Caleta before taking the bus back to the station."
+            "en": "We cross Cádiz by bus today, staying sheltered from the rain. Starting at the bus station, we quickly reach the heart of the old town. At noon, the Cathedral provides shelter while we wait for the next bus to Genovés Park. We spend the evening comfortably near La Caleta before taking the bus back to the station.",
+            "es": "Hoy cruzamos Cádiz en autobús, resguardados de la lluvia. Empezando en la estación de autobuses, llegamos rápido al corazón del casco antiguo. Al mediodía, la Catedral ofrece refugio mientras esperamos el siguiente autobús hacia el Parque Genovés. Pasamos la tarde cómodamente cerca de La Caleta antes de volver en autobús a la estación."
           },
           "stops": [
             {
@@ -2193,7 +2372,8 @@
                 "de": "Warten Sie im überdachten Bereich der Station auf Ihren Anschluss.",
                 "hu": "Várjon az állomás fedett várótermében a csatlakozásra.",
                 "ro": "Așteptați în zona acoperită a gării pentru legătura următoare.",
-                "en": "Wait in the sheltered area of the station for your next connection."
+                "en": "Wait in the sheltered area of the station for your next connection.",
+                "es": "Espera en la zona cubierta de la estación tu próxima conexión."
               }
             },
             {
@@ -2202,7 +2382,8 @@
                 "de": "Die Bushaltestellen hier haben meist gute Unterstände gegen den Regen.",
                 "hu": "Az itteni buszmegállók többsége jó védelmet nyújt az eső ellen.",
                 "ro": "Stațiile de autobuz de aici au de obicei adăposturi bune contra ploii.",
-                "en": "The bus stops here mostly have good shelters to keep you dry from the rain."
+                "en": "The bus stops here mostly have good shelters to keep you dry from the rain.",
+                "es": "Las paradas de autobús aquí suelen tener buenos refugios para mantenerte seco de la lluvia."
               }
             },
             {
@@ -2211,7 +2392,8 @@
                 "de": "Nutzen Sie die kurzen Wege zu den Haltestellen, um nicht nass zu werden.",
                 "hu": "Használja a megállókhoz vezető rövid utakat, hogy elkerülje az elázást.",
                 "ro": "Folosiți drumurile scurte spre stații pentru a nu vă uda prea tare.",
-                "en": "Take the short paths to the bus stops to minimize your time in the rain."
+                "en": "Take the short paths to the bus stops to minimize your time in the rain.",
+                "es": "Toma los caminos cortos hacia las paradas para minimizar tu tiempo bajo la lluvia."
               }
             },
             {
@@ -2220,7 +2402,8 @@
                 "de": "Die nächste Haltestelle ist nur wenige Minuten entfernt und bietet Schutz.",
                 "hu": "A legközelebbi megálló csak pár percre van és fedett várója van.",
                 "ro": "Cea mai apropiată stație este la câteva minute și are adăpost.",
-                "en": "The nearest bus stop is just minutes away and features a shelter."
+                "en": "The nearest bus stop is just minutes away and features a shelter.",
+                "es": "La parada de autobús más cercana está a solo minutos y cuenta con refugio."
               }
             },
             {
@@ -2229,7 +2412,8 @@
                 "de": "Genießen Sie den Blick auf die regnerische Stadt aus dem trockenen Bus.",
                 "hu": "Élvezze a vizes város látványát a száraz és meleg busz ablakából.",
                 "ro": "Bucurați-vă de vederea orașului ploios din interiorul autobuzului uscat.",
-                "en": "Enjoy the view of the rainy city from the dry and warm bus interior."
+                "en": "Enjoy the view of the rainy city from the dry and warm bus interior.",
+                "es": "Disfruta de la vista de la ciudad lluviosa desde el interior seco y cálido del autobús."
               }
             },
             {
@@ -2238,7 +2422,8 @@
                 "de": "Die Haltestelle direkt am Park ist ideal für einen schnellen Zugang.",
                 "hu": "A közvetlenül a parknál lévő megálló ideális a gyors bejutáshoz.",
                 "ro": "Stația chiar de lângă parc este ideală pentru un acces rapid.",
-                "en": "The bus stop right by the park is ideal for quick access to the site."
+                "en": "The bus stop right by the park is ideal for quick access to the site.",
+                "es": "La parada junto al parque es ideal para un acceso rápido al sitio."
               }
             },
             {
@@ -2247,7 +2432,8 @@
                 "de": "Warten Sie in einem der Cafés an der Haltestelle auf Ihren Rückbus.",
                 "hu": "Várja a visszatérő buszt a megálló melletti kávézók egyikében.",
                 "ro": "Așteptați autobuzul de întoarcere într-o cafenea de lângă stație.",
-                "en": "Wait for your return bus in one of the cozy cafes near the stop."
+                "en": "Wait for your return bus in one of the cozy cafes near the stop.",
+                "es": "Espera tu autobús de regreso en uno de los cafés acogedores cerca de la parada."
               }
             }
           ],
@@ -2279,6 +2465,13 @@
               "Use the local transit app for real-time information on bus arrivals.",
               "Have your ticket ready before the bus arrives to minimize time in the rain.",
               "Lines 1 and 2 are your best bet for connecting major old town landmarks."
+            ],
+            "es": [
+              "Compra un billete de diez viajes (Bonobús) en un kiosco para ahorrar tiempo y mantenerte seco.",
+              "Los autobuses pueden estar más llenos durante la lluvia o en invierno; permite tiempo extra de viaje.",
+              "Usa la app de transporte local para información en tiempo real sobre la llegada de autobuses.",
+              "Ten tu billete listo antes de que llegue el autobús para minimizar el tiempo bajo la lluvia.",
+              "Las líneas 1 y 2 son tu mejor opción para conectar los principales puntos del casco antiguo."
             ]
           }
         },
@@ -2287,7 +2480,8 @@
             "de": "Mit den öffentlichen Verkehrsmitteln erkunden wir Cádiz im Winter besonders effizient. Mittags erreichen wir die Kathedrale und genießen die klare Luft, bevor wir mit dem Bus zum Tavira-Turm weiterfahren. Nachmittags nutzen wir die Busverbindung entlang der Küste zum Genovés Park. Den Tag lassen wir mit einer entspannten Fahrt zur La Caleta und einem frühen Sonnenuntergang ausklingen.",
             "hu": "Tömegközlekedéssel télen különösen hatékonyan fedezhetjük fel Cádizt. Délben elérjük a katedrálist, majd busszal megyünk tovább a Tavira-toronyhoz. Délután a parti járatot választjuk a Genovés park felé. A napot a La Caleta-hoz tett kirándulással és a korai naplemente megtekintésével zárjuk.",
             "ro": "Cu transportul public explorăm Cádizul iarna foarte eficient. La prânz ajungem la Catedrală, apoi continuăm cu autobuzul spre turnul Tavira. După-amiaza folosim legătura de autobuz de pe coastă spre parcul Genovés. Ziua se încheie cu o plimbare relaxată spre La Caleta și un apus de soare timpuriu.",
-            "en": "Using public transport, we explore Cádiz very efficiently in the winter. At noon, we reach the Cathedral and then continue by bus to Tavira Tower. In the afternoon, we take the coastal bus route to Genovés Park. The day ends with a relaxed ride to La Caleta to catch the early winter sunset."
+            "en": "Using public transport, we explore Cádiz very efficiently in the winter. At noon, we reach the Cathedral and then continue by bus to Tavira Tower. In the afternoon, we take the coastal bus route to Genovés Park. The day ends with a relaxed ride to La Caleta to catch the early winter sunset.",
+            "es": "Usando transporte público, exploramos Cádiz muy eficientemente en invierno. Al mediodía llegamos a la Catedral y luego continuamos en autobús hasta la Torre Tavira. Por la tarde, tomamos la ruta costera en autobús hasta el Parque Genovés. El día termina con un relajado viaje a La Caleta para ver la puesta de sol invernal temprana."
           },
           "stops": [
             {
@@ -2296,7 +2490,8 @@
                 "de": "Nutzen Sie die Informationsschalter für aktuelle Fahrpläne im Winter.",
                 "hu": "Használja az információs pultokat a téli menetrend ellenőrzéséhez.",
                 "ro": "Folosiți ghișeele de informații pentru orarele actualizate de iarnă.",
-                "en": "Use the information desks for the latest winter schedules and routes."
+                "en": "Use the information desks for the latest winter schedules and routes.",
+                "es": "Usa los puntos de información para los últimos horarios y rutas de invierno."
               }
             },
             {
@@ -2305,7 +2500,8 @@
                 "de": "Im Winter sind die Haltestellen weniger überlaufen; genießen Sie die Fahrt.",
                 "hu": "Télen a megállók kevésbé zsúfoltak; élvezze a kényelmes utazást.",
                 "ro": "Iarna stațiile sunt mai puțin aglomerate; bucurați-vă de călătorie.",
-                "en": "In winter, the bus stops are less crowded; enjoy a peaceful ride."
+                "en": "In winter, the bus stops are less crowded; enjoy a peaceful ride.",
+                "es": "En invierno, las paradas de autobús están menos concurridas; disfruta de un viaje tranquilo."
               }
             },
             {
@@ -2314,7 +2510,8 @@
                 "de": "Zentraler Knotenpunkt für viele Buslinien, ideal für Umstiege.",
                 "hu": "Számos buszvonal központi csomópontja, ideális az átszálláshoz.",
                 "ro": "Nod central pentru multe linii de autobuz, ideal pentru transferuri.",
-                "en": "A central hub for many bus lines, making it perfect for transfers."
+                "en": "A central hub for many bus lines, making it perfect for transfers.",
+                "es": "Un núcleo central para muchas líneas de autobús, perfecto para transbordos."
               }
             },
             {
@@ -2323,7 +2520,8 @@
                 "de": "Kurzer Spaziergang von der Haltestelle; die Wintersonne ist hier sehr angenehm.",
                 "hu": "Rövid séta a megállótól; a téli napsütés itt kifejezetten kellemes.",
                 "ro": "Scurtă plimbare de la stație; soarele de iarnă este foarte plăcut aici.",
-                "en": "A short walk from the stop; the winter sun is very pleasant in this area."
+                "en": "A short walk from the stop; the winter sun is very pleasant in this area.",
+                "es": "A poca distancia de la parada; el sol invernal es muy agradable en esta área."
               }
             },
             {
@@ -2332,7 +2530,8 @@
                 "de": "Die Fahrt am Meer entlang bietet im Winter eine wunderbar klare Sicht.",
                 "hu": "A tenger menti buszozás télen csodálatosan tiszta kilátást nyújt.",
                 "ro": "Călătoria pe lângă mare oferă iarna o vedere minunat de clară.",
-                "en": "The coastal bus ride offers wonderfully clear views during the winter."
+                "en": "The coastal bus ride offers wonderfully clear views during the winter.",
+                "es": "El viaje en autobús por la costa ofrece vistas maravillosamente claras durante el invierno."
               }
             },
             {
@@ -2341,7 +2540,8 @@
                 "de": "Die Busse verkehren regelmäßig; prüfen Sie die Abfahrtszeiten für den Rückweg.",
                 "hu": "A buszok rendszeresen járnak; ellenőrizze a visszaindulás pontos idejét.",
                 "ro": "Autobuzele circulă regulat; verificați orele de plecare pentru întoarcere.",
-                "en": "Buses run regularly; check the departure times for your return trip."
+                "en": "Buses run regularly; check the departure times for your return trip.",
+                "es": "Los autobuses circulan regularmente; consulta los horarios de salida para tu regreso."
               }
             },
             {
@@ -2350,7 +2550,8 @@
                 "de": "Nehmen Sie den Bus rechtzeitig vor Sonnenuntergang um 18:00 Uhr.",
                 "hu": "Szálljon buszra időben a 18:00 órakor kezdődő naplemente előtt.",
                 "ro": "Luați autobuzul la timp înainte de apusul de la ora 18:00.",
-                "en": "Board your bus well before the 18:00 sunset to catch the view."
+                "en": "Board your bus well before the 18:00 sunset to catch the view.",
+                "es": "Sube al autobús bien antes de las 18:00 para disfrutar de la vista."
               }
             }
           ],
@@ -2382,6 +2583,13 @@
               "Be mindful of slightly reduced frequencies on some lines during winter evenings.",
               "Station announcements are often easier to hear during the quieter winter season.",
               "A day pass pays for itself if you plan on more than three trips around town."
+            ],
+            "es": [
+              "Céntrate en las líneas 1, 2 y 7 para llegar a los sitios turísticos más populares.",
+              "Los autobuses están cómodamente calefactados en invierno, siendo un buen lugar para entrar en calor.",
+              "Ten en cuenta frecuencias ligeramente reducidas en algunas líneas durante las noches de invierno.",
+              "Los anuncios en la estación suelen escucharse mejor en la tranquila temporada de invierno.",
+              "Un pase diario se amortiza si planeas más de tres viajes por la ciudad."
             ]
           }
         }

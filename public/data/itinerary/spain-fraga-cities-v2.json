@@ -21,7 +21,8 @@
             "de": "Historisches Viertel",
             "hu": "Történelmi negyed",
             "ro": "Cartierul istoric",
-            "en": "Historic Quarter"
+            "en": "Historic Quarter",
+            "es": "Casco histórico"
           },
           "coords": [
             0.3448,
@@ -37,7 +38,8 @@
             "de": "Verlieren Sie sich in den engen Gassen und entdecken Sie die alten Wappen an den Fassaden.",
             "hu": "Tévedjen el a szűk utcácskákban, és fedezze fel a homlokzatokon látható régi címereket.",
             "ro": "Pierdeți-vă pe străduțele înguste pentru a descoperi vechile steme de pe fațade.",
-            "en": "Get lost in the narrow streets and discover the ancient coats of arms on the facades."
+            "en": "Get lost in the narrow streets and discover the ancient coats of arms on the facades.",
+            "es": "Piérdete por las calles estrechas y descubre los antiguos escudos en las fachadas."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Kirche San Pedro",
             "hu": "Szent Péter-templom",
             "ro": "Biserica San Pedro",
-            "en": "Church of San Pedro"
+            "en": "Church of San Pedro",
+            "es": "Iglesia de San Pedro"
           },
           "coords": [
             0.3455,
@@ -61,7 +64,8 @@
             "de": "Beachten Sie die Mischung aus romanischen, gotischen und barocken Stilelementen, die von seiner langen Geschichte zeugen.",
             "hu": "Figyelje meg a román, gótikus és barokk stílusjegyek keveredését, amely a hosszú történelméről tanúskodik.",
             "ro": "Observați amestecul de stiluri romanic, gotic și baroc, o mărturie a istoriei sale lungi.",
-            "en": "Note the mix of Romanesque, Gothic, and Baroque styles, a testament to its long history."
+            "en": "Note the mix of Romanesque, Gothic, and Baroque styles, a testament to its long history.",
+            "es": "Fíjate en la mezcla de estilos románico, gótico y barroco, testigo de su larga historia."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Palast Montcada",
             "hu": "Montcada-palota",
             "ro": "Palatul Montcada",
-            "en": "Montcada Palace"
+            "en": "Montcada Palace",
+            "es": "Palacio Montcada"
           },
           "coords": [
             0.3462,
@@ -85,7 +90,8 @@
             "de": "Heute eine Bibliothek und ein Kulturzentrum, einst die Heimat einer der mächtigsten Familien.",
             "hu": "Ma könyvtár és kulturális központ, egykor a leghatalmasabb családok egyikének otthona volt.",
             "ro": "Astăzi o bibliotecă și un centru cultural, a fost odată casa uneia dintre cele mai puternice familii.",
-            "en": "Now a library and cultural center, it was once the home of one of the most powerful families."
+            "en": "Now a library and cultural center, it was once the home of one of the most powerful families.",
+            "es": "Hoy biblioteca y centro cultural, fue en su día la residencia de una de las familias más poderosas."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Brücke über den Cinca",
             "hu": "Híd a Cinca folyón",
             "ro": "Podul peste râul Cinca",
-            "en": "Bridge over the Cinca River"
+            "en": "Bridge over the Cinca River",
+            "es": "Puente sobre el río Cinca"
           },
           "coords": [
             0.3488,
@@ -109,7 +116,8 @@
             "de": "Ein idealer Ort für eine Mittagspause mit Blick auf den Fluss und die Stadt.",
             "hu": "Ideális hely egy ebédszünethez, kilátással a folyóra és a városra.",
             "ro": "Un loc ideal pentru o pauză de prânz cu vedere la râu și la oraș.",
-            "en": "An ideal spot for a lunch break with views of the river and the town."
+            "en": "An ideal spot for a lunch break with views of the river and the town.",
+            "es": "Un lugar ideal para una pausa para comer con vistas al río y al pueblo."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Burg von Fraga",
             "hu": "Fraga vára",
             "ro": "Castelul din Fraga",
-            "en": "Castle of Fraga"
+            "en": "Castle of Fraga",
+            "es": "Castillo de Fraga"
           },
           "coords": [
             0.342,
@@ -133,7 +142,8 @@
             "de": "Obwohl nur noch Ruinen übrig sind, ist der Panoramablick von hier oben die Wanderung wert.",
             "hu": "Bár már csak romok maradtak, a panorámás kilátás megéri a sétát.",
             "ro": "Deși au mai rămas doar ruine, priveliștea panoramică de sus merită urcușul.",
-            "en": "Although only ruins remain, the panoramic view from the top is worth the hike."
+            "en": "Although only ruins remain, the panoramic view from the top is worth the hike.",
+            "es": "Aunque sólo quedan ruinas, la vista panorámica desde la cima merece la subida."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Museo de la Casa de los Frailes",
             "hu": "Casa de los Frailes Múzeum",
             "ro": "Muzeul Casa de los Frailes",
-            "en": "Museum of the Casa de los Frailes"
+            "en": "Museum of the Casa de los Frailes",
+            "es": "Museo de la Casa de los Frailes"
           },
           "coords": [
             0.344,
@@ -157,7 +168,8 @@
             "de": "Ein kleines Museum, das einen Einblick in das lokale Leben und die Traditionen bietet.",
             "hu": "Egy kis múzeum, amely bepillantást enged a helyi életbe és hagyományokba.",
             "ro": "Un mic muzeu care oferă o perspectivă asupra vieții și tradițiilor locale.",
-            "en": "A small museum offering a glimpse into local life and traditions."
+            "en": "A small museum offering a glimpse into local life and traditions.",
+            "es": "Un pequeño museo que ofrece una visión de la vida y las tradiciones locales."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Fragas historischem Viertel und spüren Sie den Puls der aragonesischen Geschichte. Nach dem Besuch der beeindruckenden San Pedro Kirche und des Montcada Palastes überqueren Sie den Fluss Cinca für eine entspannte Mittagspause. Der Nachmittag ist für den Aufstieg zur Burg reserviert, von wo aus Sie eine herrliche Aussicht genießen, bevor Sie im Casa de los Frailes Museum in die lokalen Traditionen eintauchen. Ein Tag voller Entdeckungen zu Fuß.",
         "hu": "Kezdje a napot Fraga történelmi negyedének szívében, és érezze Aragónia történelmének lüktetését. A lenyűgöző San Pedro-templom és a Montcada-palota megtekintése után keljen át a Cinca folyón egy pihentető ebédszünetre. A délután a várhoz való feljutásé, ahonnan csodálatos kilátás nyílik, mielőtt elmerülne a helyi hagyományokban a Casa de los Frailes Múzeumban. Egy gyalogos felfedezésekkel teli nap.",
         "ro": "Începeți ziua în inima cartierului istoric din Fraga, simțind pulsul istoriei aragoneze. După vizitarea impunătoarei Biserici San Pedro și a Palatului Montcada, traversați râul Cinca pentru o pauză de prânz relaxantă. După-amiaza este rezervată urcării la castel pentru vederi magnifice, înainte de a vă cufunda în tradițiile locale la Muzeul Casa de los Frailes. O zi plină de descoperiri la pas.",
-        "en": "Start your day in the heart of Fraga's historic quarter, feeling the pulse of Aragonese history. After visiting the impressive San Pedro Church and Montcada Palace, cross the Cinca River for a relaxing lunch break. The afternoon is reserved for the climb to the castle for magnificent views, before delving into local traditions at the Casa de los Frailes Museum. A day full of discoveries on foot."
+        "en": "Start your day in the heart of Fraga's historic quarter, feeling the pulse of Aragonese history. After visiting the impressive San Pedro Church and Montcada Palace, cross the Cinca River for a relaxing lunch break. The afternoon is reserved for the climb to the castle for magnificent views, before delving into local traditions at the Casa de los Frailes Museum. A day full of discoveries on foot.",
+        "es": "Comienza el día en el corazón del casco histórico de Fraga, sintiendo el pulso de la historia aragonesa. Tras visitar la impresionante iglesia de San Pedro y el Palacio Montcada, cruza el río Cinca para un relajante almuerzo junto al río. La tarde se reserva para la subida al castillo y sus magníficas vistas, antes de profundizar en las tradiciones locales en el Museo de la Casa de los Frailes. Un día lleno de descubrimientos a pie."
       },
       "gastro_picks": {
         "de": [
@@ -321,6 +334,11 @@
           "Wear comfortable shoes, as the streets in the historic quarter can be steep and cobbled.",
           "Bring water, especially for the climb to the castle.",
           "Most shops close for a siesta in the afternoon, so plan your shopping accordingly."
+        ],
+        "es": [
+          "Lleva calzado cómodo, ya que las calles del casco histórico pueden ser empinadas y empedradas.",
+          "Lleva agua, especialmente para la subida al castillo.",
+          "La mayoría de las tiendas cierran para la siesta por la tarde, así que planifica tus compras en consecuencia."
         ]
       },
       "variants": {
@@ -329,7 +347,8 @@
             "de": "Morgens bieten die engen Gassen des historischen Viertels natürlichen Schutz vor dem Regen. Mittags beobachten wir die graue Cinca von der Brücke aus, bevor wir ins trockene Montcada-Palais flüchten. Nachmittags erkunden wir die Burgruinen unter dem Regenschirm. Abends genießen wir die gemütliche Atmosphäre im Museum Casa de los Frailes, während draußen der Regen auf den Asphalt trommelt.",
             "hu": "Reggel az óváros szűk utcái és ereszei alatt húzódunk meg az eső elől. Délben a Cinca-folyó morajlását hallgatjuk a hídról, majd a Montcada-palota védelmébe vonulunk. Délután esernyővel járjuk be a vár környékét, élvezve a párás kilátást. Az estét a Casa de los Frailes múzeum meleg falai között zárjuk, ahol a történelem elfeledteti a kinti barátságtalan időt.",
             "ro": "Dimineața, străzile înguste ale cartierului istoric oferă adăpost natural împotriva ploii. La prânz, admirăm debitul crescut al râului Cinca de pe pod, apoi ne refugiem în Palatul Montcada. După-amiaza explorăm castelul sub protecția umbrelei, privind orașul prin ceață. Seara se încheie la Muzeul Casa de los Frailes, unde atmosfera liniștită ne face să uităm de vremea de afară.",
-            "en": "Morning starts under the protective eaves of the historic quarter's narrow streets. At noon, we watch the Cinca River's grey waters from the bridge before retreating to the dry Montcada Palace. Afternoon is spent exploring the castle ruins with an umbrella, enjoying the misty views. The evening ends cozily inside the Casa de los Frailes Museum, surrounded by local history while the rain falls."
+            "en": "Morning starts under the protective eaves of the historic quarter's narrow streets. At noon, we watch the Cinca River's grey waters from the bridge before retreating to the dry Montcada Palace. Afternoon is spent exploring the castle ruins with an umbrella, enjoying the misty views. The evening ends cozily inside the Casa de los Frailes Museum, surrounded by local history while the rain falls.",
+            "es": "La mañana comienza bajo los aleros protectores de las estrechas calles del casco histórico. Al mediodía contemplamos las aguas grises del Cinca desde el puente antes de refugiarnos en el seco Palacio Montcada. La tarde se pasa explorando las ruinas del castillo con paraguas, disfrutando de las vistas entre la niebla. La noche termina acogedora dentro del Museo de la Casa de los Frailes, rodeados de historia local mientras llueve."
           },
           "stops": [
             {
@@ -338,7 +357,8 @@
                 "de": "Nutzen Sie die Arkaden und engen Gassen als natürlichen Regenschutz.",
                 "hu": "Használja az árkádokat és a szűk utcákat természetes esővédőként.",
                 "ro": "Folosiți arcadele și străzile înguste ca adăpost natural împotriva ploii.",
-                "en": "Use the arcades and narrow streets as natural shelter from the rain."
+                "en": "Use the arcades and narrow streets as natural shelter from the rain.",
+                "es": "Utiliza los pórticos y calles estrechas como refugio natural de la lluvia."
               }
             },
             {
@@ -347,7 +367,8 @@
                 "de": "Ein idealer Ort, um während eines Schauers die romanische Architektur zu bewundern.",
                 "hu": "Ideális hely a román stílusú építészet megcsodálására egy zápor alatt.",
                 "ro": "Un loc ideal pentru a admira arhitectura romanică în timpul unei averse.",
-                "en": "An ideal spot to admire Romanesque architecture during a heavy shower."
+                "en": "An ideal spot to admire Romanesque architecture during a heavy shower.",
+                "es": "Un lugar ideal para admirar la arquitectura románica durante un aguacero."
               }
             },
             {
@@ -356,7 +377,8 @@
                 "de": "Die Innenausstellungen bieten perfekten Schutz und kulturelle Tiefe.",
                 "hu": "A belső kiállítások tökéletes menedéket és kulturális élményt nyújtanak.",
                 "ro": "Expozițiile interioare oferă adăpost perfect și profunzime culturală.",
-                "en": "The indoor exhibitions offer perfect shelter and cultural depth."
+                "en": "The indoor exhibitions offer perfect shelter and cultural depth.",
+                "es": "Las exposiciones interiores ofrecen un perfecto refugio y profundidad cultural."
               }
             },
             {
@@ -365,7 +387,8 @@
                 "de": "Vorsicht auf dem nassen Metall oder Stein; der Boden kann rutschig sein.",
                 "hu": "Vigyázat a nedves köveken vagy fémen; a talaj csúszós lehet.",
                 "ro": "Atenție pe piatra sau metalul umed; suprafața poate fi alunecoasă.",
-                "en": "Be careful on wet stone or metal; the ground can be slippery."
+                "en": "Be careful on wet stone or metal; the ground can be slippery.",
+                "es": "Ten cuidado con la piedra o el metal mojados; el suelo puede estar resbaladizo."
               }
             },
             {
@@ -374,7 +397,8 @@
                 "de": "Die Aussichtsplattformen sind windanfällig; halten Sie Ihren Schirm fest.",
                 "hu": "A kilátók szelesek lehetnek; fogja erősen az esernyőjét.",
                 "ro": "Platformele de observație sunt expuse vântului; țineți bine umbrela.",
-                "en": "The viewing platforms can be windy; hold your umbrella firmly."
+                "en": "The viewing platforms can be windy; hold your umbrella firmly.",
+                "es": "Las plataformas de observación pueden ser ventosas; sujeta bien el paraguas."
               }
             },
             {
@@ -383,7 +407,8 @@
                 "de": "Hinterlassen Sie nasse Mäntel im Eingangsbereich, um die Exponate zu schonen.",
                 "hu": "A vizes kabátokat hagyja a bejáratnál a kiállítási tárgyak védelmében.",
                 "ro": "Lăsați hainele ude la intrare pentru a proteja obiectele expuse.",
-                "en": "Leave wet coats at the entrance to protect the museum exhibits."
+                "en": "Leave wet coats at the entrance to protect the museum exhibits.",
+                "es": "Deja los abrigos mojados en la entrada para proteger las piezas del museo."
               }
             }
           ],
@@ -411,6 +436,12 @@
               "Wear waterproof walking shoes as puddles tend to form in lower areas.",
               "The bridge over the Cinca is often windy during rain; a raincoat is better than an umbrella.",
               "Utilize the cafes near Plaza España for short dry-off breaks."
+            ],
+            "es": [
+              "Los adoquines del casco antiguo de Fraga se vuelven muy resbaladizos cuando están mojados.",
+              "Usa calzado impermeable para caminar, ya que suelen formarse charcos en las zonas bajas.",
+              "El puente sobre el Cinca suele ser ventoso durante la lluvia; mejor un impermeable que un paraguas.",
+              "Aprovecha las cafeterías cerca de la Plaza España para breves paradas para secarte."
             ]
           }
         },
@@ -419,7 +450,8 @@
             "de": "Der Wintermorgen in Fraga beginnt frisch mit einem klaren Blick auf die fernen Pyrenäen. Mittags wärmt uns die milde aragonesische Sonne beim Spaziergang am Flussufer. Nachmittags suchen wir die Wärme im Montcada-Palais auf, bevor die Dämmerung früh einsetzt. Abends leuchten die Lichter der Burg über der Stadt und wir wärmen uns bei einem lokalen Wein in der Altstadt auf.",
             "hu": "A téli reggel Frágában friss levegővel és a távoli Pireneusok tiszta látványával indul. Délben a szelíd aragóniai napsütés melegít minket a folyóparti séta során. Délután a Montcada-palota fűtött termeiben időzünk, mielőtt korán leszállna az est. Este a vár fényei ragyogják be a várost, mi pedig egy pohár helyi borral melegszünk fel az óvárosban.",
             "ro": "Dimineața de iarnă în Fraga începe cu aer proaspăt și o vedere clară spre Pirineii îndepărtați. La prânz, soarele blând aragonez ne încălzește în timpul plimbării pe malul râului. După-amiaza căutăm căldura Palatului Montcada înainte ca amurgul să vină devreme. Seara, luminile castelului strălucesc peste oraș, iar noi ne încălzim cu un vin local în centrul vechi.",
-            "en": "Winter morning in Fraga starts with crisp air and clear views of the distant Pyrenees. At noon, the gentle Aragonese sun warms our riverside stroll. In the afternoon, we retreat to the warmth of Montcada Palace before the early sunset. By evening, the castle lights glow over the city, and we warm up with a local wine in the old quarter."
+            "en": "Winter morning in Fraga starts with crisp air and clear views of the distant Pyrenees. At noon, the gentle Aragonese sun warms our riverside stroll. In the afternoon, we retreat to the warmth of Montcada Palace before the early sunset. By evening, the castle lights glow over the city, and we warm up with a local wine in the old quarter.",
+            "es": "La mañana invernal en Fraga comienza con aire frío y vistas claras de los Pirineos a lo lejos. Al mediodía, el suave sol aragonés calienta nuestro paseo junto al río. Por la tarde nos refugiamos en el calor del Palacio Montcada antes del ocaso temprano. Al anochecer, las luces del castillo brillan sobre la ciudad y nos abrigamos con un vino local en el casco antiguo."
           },
           "stops": [
             {
@@ -428,7 +460,8 @@
                 "de": "Genießen Sie die klare Winterluft in den schattigen Gassen.",
                 "hu": "Élvezze a friss téli levegőt az árnyékos utcákban.",
                 "ro": "Bucurați-vă de aerul curat de iarnă în ulițele umbrite.",
-                "en": "Enjoy the crisp winter air in the shaded narrow streets."
+                "en": "Enjoy the crisp winter air in the shaded narrow streets.",
+                "es": "Disfruta del aire invernal y fresco en las sombreadas calles estrechas."
               }
             },
             {
@@ -437,7 +470,8 @@
                 "de": "Die dicken Mauern halten die Kälte draußen; ein ruhiger Ort zum Aufwärmen.",
                 "hu": "A vastag falak kint tartják a hideget; nyugodt hely a felmelegedésre.",
                 "ro": "Zidurile groase țin frigul afară; un loc liniștit pentru a vă încălzi.",
-                "en": "The thick walls keep the cold out; a quiet place to warm up."
+                "en": "The thick walls keep the cold out; a quiet place to warm up.",
+                "es": "Los muros gruesos mantienen el frío fuera; un lugar tranquilo para entrar en calor."
               }
             },
             {
@@ -446,7 +480,8 @@
                 "de": "Nutzen Sie den Nachmittag für Innenbesichtigungen, wenn es draußen abkühlt.",
                 "hu": "Használja ki a délutánt belső látogatásra, amikor kint hűlni kezd az idő.",
                 "ro": "Folosiți după-amiaza pentru vizite interioare când se face frig afară.",
-                "en": "Use the afternoon for indoor visits as the outside temperature drops."
+                "en": "Use the afternoon for indoor visits as the outside temperature drops.",
+                "es": "Aprovecha la tarde para visitas en interiores porque la temperatura exterior baja."
               }
             },
             {
@@ -455,7 +490,8 @@
                 "de": "Der Wind vom Fluss kann im Winter schneidend kalt sein; Mütze empfohlen.",
                 "hu": "A folyó felől fújó szél télen metsző lehet; sapka ajánlott.",
                 "ro": "Vântul de pe râu poate fi tăios iarna; se recomandă căciulă.",
-                "en": "The wind from the river can be biting in winter; a hat is recommended."
+                "en": "The wind from the river can be biting in winter; a hat is recommended.",
+                "es": "El viento del río puede ser punzante en invierno; se recomienda gorro."
               }
             },
             {
@@ -464,7 +500,8 @@
                 "de": "Besuchen Sie die Burg vor 17:00 Uhr, um den Sonnenuntergang zu erleben.",
                 "hu": "Látogassa meg a várat 17:00 előtt, hogy lássa a naplementét.",
                 "ro": "Vizitați castelul înainte de ora 17:00 pentru a prinde apusul.",
-                "en": "Visit the castle before 5:00 PM to catch the winter sunset."
+                "en": "Visit the castle before 5:00 PM to catch the winter sunset.",
+                "es": "Visita el castillo antes de las 17:00 para captar el atardecer invernal."
               }
             },
             {
@@ -473,7 +510,8 @@
                 "de": "Ein perfekt temperierter Abschluss für einen kalten Wintertag.",
                 "hu": "Tökéletesen temperált zárása egy hideg téli napnak.",
                 "ro": "Un final cu temperatură plăcută pentru o zi rece de iarnă.",
-                "en": "A perfectly tempered end to a cold winter day."
+                "en": "A perfectly tempered end to a cold winter day.",
+                "es": "Un final perfectamente templado para un frío día de invierno."
               }
             }
           ],
@@ -501,6 +539,12 @@
               "Dress in layers as it remains warm in the sun but gets very cold in the shade.",
               "Watch out for the Cierzo wind, which can significantly drop the perceived temperature.",
               "Try local winter specialties like hearty stews in the old town taverns."
+            ],
+            "es": [
+              "El sol se pone alrededor de las 17:30 detrás de las colinas durante los meses de invierno.",
+              "Vístete en capas: al sol se mantiene templado, pero la sombra es muy fría.",
+              "Ten cuidado con el viento del Cierzo, que puede bajar notablemente la sensación térmica.",
+              "Prueba las especialidades invernales locales, como guisos contundentes en las tabernas del casco antiguo."
             ]
           }
         }
@@ -519,7 +563,8 @@
             "de": "Historisches Viertel",
             "hu": "Történelmi negyed",
             "ro": "Cartierul istoric",
-            "en": "Historic Quarter"
+            "en": "Historic Quarter",
+            "es": "Casco histórico"
           },
           "coords": [
             0.3448,
@@ -535,7 +580,8 @@
             "de": "Schließen Sie Ihr Fahrrad ab und erkunden Sie die engsten Gassen zu Fuß.",
             "hu": "Zárja le a kerékpárt, és fedezze fel a legszűkebb utcákat gyalog.",
             "ro": "Încuiați bicicleta și explorați cele mai înguste alei pe jos.",
-            "en": "Lock up your bike and explore the narrowest alleys on foot."
+            "en": "Lock up your bike and explore the narrowest alleys on foot.",
+            "es": "Asegura la bici y explora a pie los callejones más estrechos."
           }
         },
         {
@@ -543,7 +589,8 @@
             "de": "Kirche San Pedro",
             "hu": "Szent Péter-templom",
             "ro": "Biserica San Pedro",
-            "en": "Church of San Pedro"
+            "en": "Church of San Pedro",
+            "es": "Iglesia de San Pedro"
           },
           "coords": [
             0.3455,
@@ -559,7 +606,8 @@
             "de": "Ein kurzer Halt, um die architektonische Vielfalt dieses historischen Gebäudes zu bewundern.",
             "hu": "Egy rövid megálló, hogy megcsodálja ennek a történelmi épületnek az építészeti sokszínűségét.",
             "ro": "O scurtă oprire pentru a admira diversitatea arhitecturală a acestei clădiri istorice.",
-            "en": "A quick stop to admire the architectural diversity of this historic building."
+            "en": "A quick stop to admire the architectural diversity of this historic building.",
+            "es": "Una parada rápida para admirar la diversidad arquitectónica de este edificio histórico."
           }
         },
         {
@@ -567,7 +615,8 @@
             "de": "Brücke über den Cinca",
             "hu": "Híd a Cinca folyón",
             "ro": "Podul peste râul Cinca",
-            "en": "Bridge over the Cinca River"
+            "en": "Bridge over the Cinca River",
+            "es": "Puente sobre el río Cinca"
           },
           "coords": [
             0.3488,
@@ -583,7 +632,8 @@
             "de": "Genießen Sie die Fahrt über den Fluss und den Blick auf die Stadt.",
             "hu": "Élvezze az utat a folyón át és a városra nyíló kilátást.",
             "ro": "Bucurați-vă de plimbarea peste râu și de priveliștea orașului.",
-            "en": "Enjoy the ride across the river and the view of the town."
+            "en": "Enjoy the ride across the river and the view of the town.",
+            "es": "Disfruta del paseo en bici cruzando el río y de las vistas del pueblo."
           }
         },
         {
@@ -591,7 +641,8 @@
             "de": "Villa Fortunatus",
             "hu": "Villa Fortunatus",
             "ro": "Villa Fortunatus",
-            "en": "Villa Fortunatus"
+            "en": "Villa Fortunatus",
+            "es": "Villa Fortunatus"
           },
           "coords": [
             0.321,
@@ -607,7 +658,8 @@
             "de": "Eine römische Villa mit beeindruckenden Mosaiken. Planen Sie genügend Zeit für die Erkundung ein.",
             "hu": "Egy római kori villa lenyűgöző mozaikokkal. Tervezzen elég időt a felfedezésére.",
             "ro": "O vilă romană cu mozaicuri impresionante. Planificați suficient timp pentru explorare.",
-            "en": "A Roman villa with impressive mosaics. Plan enough time for exploration."
+            "en": "A Roman villa with impressive mosaics. Plan enough time for exploration.",
+            "es": "Una villa romana con mosaicos impresionantes. Reserva tiempo suficiente para explorar."
           }
         },
         {
@@ -615,7 +667,8 @@
             "de": "Ermita de San Salvador",
             "hu": "San Salvador remetelak",
             "ro": "Schitul San Salvador",
-            "en": "Hermitage of San Salvador"
+            "en": "Hermitage of San Salvador",
+            "es": "Ermita de San Salvador"
           },
           "coords": [
             0.355,
@@ -631,7 +684,8 @@
             "de": "Der Anstieg ist anspruchsvoll, aber die Aussicht von der Einsiedelei ist die Mühe absolut wert.",
             "hu": "Az emelkedő kihívást jelent, de a remetelakból nyíló kilátás abszolút megéri a fáradságot.",
             "ro": "Urcușul este dificil, dar priveliștea de la schit merită absolut efortul.",
-            "en": "The climb is challenging, but the view from the hermitage is absolutely worth the effort."
+            "en": "The climb is challenging, but the view from the hermitage is absolutely worth the effort.",
+            "es": "La subida es exigente, pero las vistas desde la ermita merecen totalmente el esfuerzo."
           }
         },
         {
@@ -639,7 +693,8 @@
             "de": "Palast Montcada",
             "hu": "Montcada-palota",
             "ro": "Palatul Montcada",
-            "en": "Montcada Palace"
+            "en": "Montcada Palace",
+            "es": "Palacio de los Montcada"
           },
           "coords": [
             0.3462,
@@ -655,7 +710,8 @@
             "de": "Beenden Sie Ihre Tour mit einem kulturellen Höhepunkt in diesem historischen Palast.",
             "hu": "Fejezze be a túrát egy kulturális fényponttal ebben a történelmi palotában.",
             "ro": "Încheiați turul cu un punct culminant cultural la acest palat istoric.",
-            "en": "End your tour with a cultural highlight at this historic palace."
+            "en": "End your tour with a cultural highlight at this historic palace.",
+            "es": "Termina tu visita con un broche cultural en este palacio histórico."
           }
         }
       ],
@@ -663,7 +719,8 @@
         "de": "Diese Fahrradtour führt Sie durch das historische Herz von Fraga und darüber hinaus. Nach einer Erkundung der Altstadt überqueren Sie den Cinca und radeln zur römischen Villa Fortunatus. Der anspruchsvollste Teil ist der Anstieg zur Ermita de San Salvador, der mit einer atemberaubenden Aussicht belohnt wird. Schließlich kehren Sie ins Zentrum zurück, um den Tag im prächtigen Montcada-Palast ausklingen zu lassen.",
         "hu": "Ez a kerékpártúra Fraga történelmi szívén és azon túl is végigvezeti Önt. Az óváros felfedezése után átkel a Cinca folyón, és elteker a római Villa Fortunatushoz. A legnehezebb rész a San Salvador remetelakhoz való feljutás, amelyet lélegzetelállító kilátás jutalmaz. Végül visszatér a központba, hogy a napot a csodálatos Montcada-palotában zárja.",
         "ro": "Acest tur cu bicicleta vă poartă prin inima istorică a Fragăi și dincolo de ea. După ce explorați orașul vechi, traversați Cinca și pedalați spre vila romană Fortunatus. Cea mai provocatoare parte este urcarea la Schitul San Salvador, recompensată cu priveliști uluitoare. În cele din urmă, vă întoarceți în centru pentru a încheia ziua la splendidul Palat Montcada.",
-        "en": "This bike tour takes you through the historic heart of Fraga and beyond. After exploring the old town, you'll cross the Cinca and cycle to the Roman Villa Fortunatus. The most challenging part is the climb to the Ermita de San Salvador, which is rewarded with breathtaking views. Finally, you'll return to the center to end the day at the splendid Montcada Palace."
+        "en": "This bike tour takes you through the historic heart of Fraga and beyond. After exploring the old town, you'll cross the Cinca and cycle to the Roman Villa Fortunatus. The most challenging part is the climb to the Ermita de San Salvador, which is rewarded with breathtaking views. Finally, you'll return to the center to end the day at the splendid Montcada Palace.",
+        "es": "Esta ruta en bicicleta te lleva por el corazón histórico de Fraga y sus alrededores. Tras explorar el casco antiguo, cruzarás el Cinca y pedalearás hasta la Villa Romana Fortunatus. La parte más dura es la subida a la Ermita de San Salvador, recompensada con vistas espectaculares. Finalmente, volverás al centro para terminar el día en el espléndido Palacio de los Montcada."
       },
       "gastro_picks": {
         "de": [
@@ -819,6 +876,11 @@
           "Check your bike before you leave, especially the brakes and tires.",
           "Some sections can be challenging, a good basic level of fitness is recommended.",
           "Respect traffic rules and be careful on the roads."
+        ],
+        "es": [
+          "Revisa tu bici antes de salir, especialmente frenos y neumáticos.",
+          "Algunos tramos pueden ser exigentes; se recomienda un nivel básico de forma física.",
+          "Respeta las normas de tráfico y ten cuidado en la calzada."
         ]
       },
       "variants": {
@@ -827,7 +889,8 @@
             "de": "Trotz Regen starten wir unsere Tour durch die Unterstadt, wobei wir auf die rutschigen Markierungen achten. Mittags radeln wir vorsichtig über die Cinca-Brücke, während das Spritzwasser von den Reifen spritzt. Nachmittags erkunden wir Villa Fortunatus, wo die Mosaike unter dem nassen Licht glänzen. Der Rückweg führt uns bergauf zur Einsiedelei, wobei uns die kühle Brise erfrischt.",
             "hu": "Az eső ellenére nekivágunk az alsóvárosnak, figyelve a csúszós útburkolati jelekre. Délben óvatosan kelünk át a Cinca-hídon, miközben a kerék felveri a vizet. Délután a Villa Fortunatus mozaikjait csodáljuk meg, melyek különleges fényt kapnak a párás időben. A visszaút a San Salvador remetelakhoz vezet, ahol a hűvös szellő felfrissít a kaptatón.",
             "ro": "În ciuda ploii, începem turul prin orașul de jos, atenți la marcajele rutiere alunecoase. La prânz pedalăm cu grijă peste podul Cinca, în timp ce apa sare de sub roți. După-amiaza explorăm Villa Fortunatus, unde mozaicurile strălucesc sub lumina umedă. Drumul de întoarcere ne duce spre schit, unde briza rece ne revigorează pe urcare.",
-            "en": "Despite the rain, we start our cycling tour through the lower town, watching out for slippery road markings. At noon, we pedal carefully over the Cinca bridge as water splashes from the tires. Afternoon is spent at Villa Fortunatus, where the mosaics glisten in the damp light. The return trip takes us uphill to the hermitage, with a cool breeze refreshing us."
+            "en": "Despite the rain, we start our cycling tour through the lower town, watching out for slippery road markings. At noon, we pedal carefully over the Cinca bridge as water splashes from the tires. Afternoon is spent at Villa Fortunatus, where the mosaics glisten in the damp light. The return trip takes us uphill to the hermitage, with a cool breeze refreshing us.",
+            "es": "A pesar de la lluvia, empezamos nuestro paseo ciclista por la parte baja de la ciudad, cuidando las señales pintadas resbaladizas. Al mediodía cruzamos con precaución el puente sobre el Cinca mientras el agua salpica las ruedas. La tarde se pasa en la Villa Fortunatus, donde los mosaicos brillan con la luz húmeda. La vuelta nos obliga a subir hasta la ermita, con una brisa fresca que nos refresca."
           },
           "stops": [
             {
@@ -836,7 +899,8 @@
                 "de": "Vermeiden Sie abruptes Bremsen auf dem nassen Kopfsteinpflaster.",
                 "hu": "Kerülje a hirtelen fékezést a nedves macskaköveken.",
                 "ro": "Evitați frânarea bruscă pe pavajul umed.",
-                "en": "Avoid abrupt braking on the wet cobblestones."
+                "en": "Avoid abrupt braking on the wet cobblestones.",
+                "es": "Evita frenar bruscamente sobre los adoquines mojados."
               }
             },
             {
@@ -845,7 +909,8 @@
                 "de": "Parken Sie Ihr Rad unter einem Vorsprung, um den Sattel trocken zu halten.",
                 "hu": "Parkoljon egy eresz alatt, hogy a nyereg száraz maradjon.",
                 "ro": "Parcați bicicleta sub o streașină pentru a menține șaua uscată.",
-                "en": "Park your bike under an overhang to keep the saddle dry."
+                "en": "Park your bike under an overhang to keep the saddle dry.",
+                "es": "Aparca la bici bajo un alero para mantener el sillín seco."
               }
             },
             {
@@ -854,7 +919,8 @@
                 "de": "Halten Sie den Lenker fest; Seitenwinde sind auf der Brücke bei Regen stärker.",
                 "hu": "Fogja erősen a kormányt; az oldalszél erősebb a hídon esőben.",
                 "ro": "Țineți bine ghidonul; vântul lateral este mai puternic pe pod pe ploaie.",
-                "en": "Hold the handlebars firmly; crosswinds are stronger on the bridge during rain."
+                "en": "Hold the handlebars firmly; crosswinds are stronger on the bridge during rain.",
+                "es": "Sujeta firme el manillar; los vientos cruzados son más fuertes en el puente con lluvia."
               }
             },
             {
@@ -863,7 +929,8 @@
                 "de": "Nutzen Sie die überdachten Bereiche, um Ihre Ausrüstung zu ordnen.",
                 "hu": "Használja a fedett részeket a felszerelése rendezésére.",
                 "ro": "Folosiți zonele acoperite pentru a vă organiza echipamentul.",
-                "en": "Use the covered areas to organize your cycling gear."
+                "en": "Use the covered areas to organize your cycling gear.",
+                "es": "Utiliza las zonas cubiertas para organizar tu equipo ciclista."
               }
             },
             {
@@ -872,7 +939,8 @@
                 "de": "Der Aufstieg ist bei Regen anstrengend, bietet aber festen Asphalt.",
                 "hu": "Az emelkedő esőben fárasztó, de az aszfalt jól tapad.",
                 "ro": "Urcarea este obositoare pe ploaie, dar asfaltul oferă aderență bună.",
-                "en": "The climb is tiring in the rain but the asphalt provides good grip."
+                "en": "The climb is tiring in the rain but the asphalt provides good grip.",
+                "es": "La subida resulta cansada con lluvia, pero el asfalto ofrece buen agarre."
               }
             },
             {
@@ -881,7 +949,8 @@
                 "de": "Ein sicherer Ort, um das Rad kurz abzustellen und sich aufzuwärmen.",
                 "hu": "Biztonságos hely a bicikli rövid leállítására és a felmelegedésre.",
                 "ro": "Un loc sigur pentru a lăsa bicicleta scurt timp și a vă încălzi.",
-                "en": "A safe place to park the bike briefly and warm up inside."
+                "en": "A safe place to park the bike briefly and warm up inside.",
+                "es": "Un lugar seguro para dejar la bici brevemente y entrar a calentarse."
               }
             }
           ],
@@ -909,6 +978,12 @@
               "Wear a neon rain jacket for better visibility in the gloomy weather.",
               "Fenders are essential in Fraga to avoid mud splashes from the riverbank paths.",
               "The country roads to Villa Fortunatus can have localized flooding during heavy rain."
+            ],
+            "es": [
+              "Comprueba los frenos antes de comenzar; las llantas mojadas aumentan mucho la distancia de frenado.",
+              "Lleva un chubasquero de color neón para mejorar la visibilidad con tiempo gris.",
+              "Los guardabarros son imprescindibles en Fraga para evitar salpicaduras de barro en los caminos junto al río.",
+              "Los caminos rurales hacia Villa Fortunatus pueden inundarse de forma localizada con lluvias fuertes."
             ]
           }
         },
@@ -917,7 +992,8 @@
             "de": "Am kühlen Wintermorgen radeln wir durch die leeren Straßen von Fraga, wobei die Luft in den Lungen brennt. Mittags genießen wir die weite Aussicht von der Cinca-Brücke bei kristallklarem Himmel. Nachmittags führt uns die Route zur Villa Fortunatus, wo die antiken Steine in der tiefstehenden Sonne leuchten. Der finale Anstieg zur Einsiedelei belohnt uns mit einem feurigen Sonnenuntergang über Aragon.",
             "hu": "A hűvös téli reggelen Fraga üres utcáin tekernünk, a friss levegő szinte égeti a tüdőnket. Délben a kristálytiszta égbolt alatt csodáljuk a kilátást a Cinca-hídról. Délután a Villa Fortunatus felé vesszük az irányt, ahol az ókori kövek ragyognak az alacsonyan járó napfényben. A San Salvadorhoz vezető utolsó kaptató tüzes naplementével jutalmaz meg.",
             "ro": "În dimineața rece de iarnă pedalăm pe străzile pustii ale orașului, aerul proaspăt fiind revigorant. La prânz admirăm vederea largă de pe podul Cinca sub un cer de cristal. După-amiaza ruta ne duce spre Villa Fortunatus, unde pietrele antice strălucesc în soarele de iarnă. Urcarea finală spre schit ne răsplătește cu un apus spectaculos peste Aragon.",
-            "en": "On a crisp winter morning, we cycle through Fraga's quiet streets with the cold air invigorating our senses. At noon, we enjoy wide views from the Cinca bridge under crystal clear skies. The afternoon route leads to Villa Fortunatus, where ancient stones glow in the low sun. The final climb to the hermitage rewards us with a fiery sunset over Aragon."
+            "en": "On a crisp winter morning, we cycle through Fraga's quiet streets with the cold air invigorating our senses. At noon, we enjoy wide views from the Cinca bridge under crystal clear skies. The afternoon route leads to Villa Fortunatus, where ancient stones glow in the low sun. The final climb to the hermitage rewards us with a fiery sunset over Aragon.",
+            "es": "En una fresca mañana de invierno pedaleamos por las tranquilas calles de Fraga con el aire frío despertando los sentidos. Al mediodía disfrutamos de amplias vistas desde el puente del Cinca bajo un cielo cristalino. La ruta de la tarde conduce a Villa Fortunatus, donde las piedras antiguas brillan con el sol bajo. La subida final a la ermita nos regala un atardecer encendido sobre Aragón."
           },
           "stops": [
             {
@@ -926,7 +1002,8 @@
                 "de": "Tragen Sie Thermohandschuhe; der Fahrtwind ist in der Altstadt kalt.",
                 "hu": "Viseljen termokesztyűt; a menetszél hideg az óvárosban.",
                 "ro": "Purtați mănuși termice; curentul de aer este rece în centrul vechi.",
-                "en": "Wear thermal gloves; the wind chill is significant in the old streets."
+                "en": "Wear thermal gloves; the wind chill is significant in the old streets.",
+                "es": "Lleva guantes térmicos; la sensación térmica es notable en las calles antiguas."
               }
             },
             {
@@ -935,7 +1012,8 @@
                 "de": "Ein kurzer Stopp im Inneren hilft, die eingefrorenen Finger aufzuwärmen.",
                 "hu": "Egy rövid belső megálló segít felmelegíteni az átfagyott ujjakat.",
                 "ro": "O scurtă oprire în interior ajută la încălzirea degetelor înghețate.",
-                "en": "A short stop inside helps warm up frozen fingers."
+                "en": "A short stop inside helps warm up frozen fingers.",
+                "es": "Una breve parada en el interior ayuda a calentar los dedos congelados."
               }
             },
             {
@@ -944,7 +1022,8 @@
                 "de": "Achten Sie auf Raureif auf der Fahrbahn am frühen Morgen.",
                 "hu": "Figyeljen a kora reggeli dérre az úttesten.",
                 "ro": "Atenție la bruma de pe carosabil la orele dimineții.",
-                "en": "Watch out for morning frost on the road surface."
+                "en": "Watch out for morning frost on the road surface.",
+                "es": "Cuidado con la escarcha matinal en la superficie de la carretera."
               }
             },
             {
@@ -953,7 +1032,8 @@
                 "de": "Die offene Anlage bietet wenig Schutz vor dem kalten Cierzo-Wind.",
                 "hu": "A nyitott terület kevés védelmet nyújt a hideg Cierzo szél ellen.",
                 "ro": "Situl deschis oferă puțină protecție împotriva vântului rece Cierzo.",
-                "en": "The open site offers little protection from the cold Cierzo wind."
+                "en": "The open site offers little protection from the cold Cierzo wind.",
+                "es": "El recinto abierto ofrece poca protección frente al frío viento del Cierzo."
               }
             },
             {
@@ -962,7 +1042,8 @@
                 "de": "Nehmen Sie eine zusätzliche Schicht für die schnelle Abfahrt mit.",
                 "hu": "Vigyen egy extra réteget a gyors lejtmenethez.",
                 "ro": "Luați un strat suplimentar pentru coborârea rapidă.",
-                "en": "Bring an extra layer for the fast and chilly descent."
+                "en": "Bring an extra layer for the fast and chilly descent.",
+                "es": "Trae una capa extra para el descenso rápido y frío."
               }
             },
             {
@@ -971,7 +1052,8 @@
                 "de": "Parken Sie in der Sonne, um das Aufsteigen später angenehmer zu machen.",
                 "hu": "Parkoljon a napon, hogy később kellemesebb legyen visszaszállni.",
                 "ro": "Parcați la soare pentru a face plecarea mai plăcută ulterior.",
-                "en": "Park in the sun to make getting back on the bike more pleasant."
+                "en": "Park in the sun to make getting back on the bike more pleasant.",
+                "es": "Aparca al sol para que subirse a la bici sea más agradable."
               }
             }
           ],
@@ -999,6 +1081,12 @@
               "Stay hydrated even when it's cold; you notice fluid loss less than in summer.",
               "The descent from San Salvador can be extremely chilling due to the winter wind.",
               "Sunscreen is important because of high UV levels under clear winter skies."
+            ],
+            "es": [
+              "La batería de tu e-bike o las luces se agotarán más rápido con temperaturas frías.",
+              "Mantente hidratado incluso con frío; se nota menos la pérdida de líquidos que en verano.",
+              "El descenso desde San Salvador puede ser extremadamente frío debido al viento invernal.",
+              "La crema solar es importante por los altos niveles de UV bajo cielos claros de invierno."
             ]
           }
         }
@@ -1017,7 +1105,8 @@
             "de": "Villa Fortunatus (Cluster A)",
             "hu": "Villa Fortunatus (A csoport)",
             "ro": "Villa Fortunatus (Grupul A)",
-            "en": "Villa Fortunatus (Cluster A)"
+            "en": "Villa Fortunatus (Cluster A)",
+            "es": "Villa Fortunatus (Grupo A)"
           },
           "coords": [
             0.321,
@@ -1033,7 +1122,8 @@
             "de": "Beginnen Sie Ihren Tag mit einer Reise in die römische Vergangenheit. Parken Sie hier für den ersten Teil Ihrer Erkundung.",
             "hu": "Kezdje a napot egy utazással a római múltba. Parkoljon itt a felfedezés első részéhez.",
             "ro": "Începeți ziua cu o călătorie în trecutul roman. Parcați aici pentru prima parte a explorării.",
-            "en": "Start your day with a trip to the Roman past. Park here for the first part of your exploration."
+            "en": "Start your day with a trip to the Roman past. Park here for the first part of your exploration.",
+            "es": "Comienza el día con un viaje al pasado romano. Aparca aquí para la primera parte de la visita."
           }
         },
         {
@@ -1041,7 +1131,8 @@
             "de": "Brücke über den Cinca (Cluster A)",
             "hu": "Híd a Cinca folyón (A csoport)",
             "ro": "Podul peste râul Cinca (Grupul A)",
-            "en": "Bridge over the Cinca River (Cluster A)"
+            "en": "Bridge over the Cinca River (Cluster A)",
+            "es": "Puente sobre el río Cinca (Grupo A)"
           },
           "coords": [
             0.3488,
@@ -1057,7 +1148,8 @@
             "de": "Ein kurzer Spaziergang vom Parkplatz zum Flussufer für eine schöne Aussicht.",
             "hu": "Egy rövid séta a parkolótól a folyópartig a gyönyörű kilátásért.",
             "ro": "O scurtă plimbare de la parcare la malul râului pentru o priveliște frumoasă.",
-            "en": "A short walk from the car park to the riverbank for a nice view."
+            "en": "A short walk from the car park to the riverbank for a nice view.",
+            "es": "Un corto paseo desde el aparcamiento hasta la ribera para una buena vista."
           }
         },
         {
@@ -1065,7 +1157,8 @@
             "de": "Historisches Viertel (Cluster B)",
             "hu": "Történelmi negyed (B csoport)",
             "ro": "Cartierul istoric (Grupul B)",
-            "en": "Historic Quarter (Cluster B)"
+            "en": "Historic Quarter (Cluster B)",
+            "es": "Barrio Histórico (Grupo B)"
           },
           "coords": [
             0.3448,
@@ -1081,7 +1174,8 @@
             "de": "Parken Sie am Rande der Altstadt und erkunden Sie das Labyrinth der Gassen zu Fuß. Hier finden Sie auch gute Restaurants für das Mittagessen.",
             "hu": "Parkoljon az óváros szélén, és fedezze fel a sikátorok labirintusát gyalog. Itt jó éttermeket is talál ebédre.",
             "ro": "Parcați la marginea orașului vechi și explorați labirintul de alei pe jos. Aici veți găsi și restaurante bune pentru prânz.",
-            "en": "Park on the edge of the old town and explore the labyrinth of alleys on foot. You will also find good restaurants for lunch here."
+            "en": "Park on the edge of the old town and explore the labyrinth of alleys on foot. You will also find good restaurants for lunch here.",
+            "es": "Aparca en el borde del casco antiguo y explora el laberinto de callejuelas a pie. También encontrarás buenos restaurantes para comer."
           }
         },
         {
@@ -1089,7 +1183,8 @@
             "de": "Kirche San Pedro (Cluster B)",
             "hu": "Szent Péter-templom (B csoport)",
             "ro": "Biserica San Pedro (Grupul B)",
-            "en": "Church of San Pedro (Cluster B)"
+            "en": "Church of San Pedro (Cluster B)",
+            "es": "Iglesia de San Pedro (Grupo B)"
           },
           "coords": [
             0.3455,
@@ -1105,7 +1200,8 @@
             "de": "Nur einen kurzen Spaziergang vom Hauptplatz des Viertels entfernt.",
             "hu": "Csak egy rövid sétára a negyed főterétől.",
             "ro": "La doar o scurtă plimbare de piața principală a cartierului.",
-            "en": "Just a short walk from the main square of the quarter."
+            "en": "Just a short walk from the main square of the quarter.",
+            "es": "A solo un breve paseo desde la plaza principal del barrio."
           }
         },
         {
@@ -1113,7 +1209,8 @@
             "de": "Palast Montcada (Cluster B)",
             "hu": "Montcada-palota (B csoport)",
             "ro": "Palatul Montcada (Grupul B)",
-            "en": "Montcada Palace (Cluster B)"
+            "en": "Montcada Palace (Cluster B)",
+            "es": "Palacio de los Montcada (Grupo B)"
           },
           "coords": [
             0.3462,
@@ -1129,7 +1226,8 @@
             "de": "Entdecken Sie die reiche Geschichte, die sich in diesem imposanten Gebäude verbirgt.",
             "hu": "Fedezze fel a gazdag történelmet, amely ebben a lenyűgöző épületben rejtőzik.",
             "ro": "Descoperiți istoria bogată ascunsă în această clădire impunătoare.",
-            "en": "Discover the rich history hidden in this imposing building."
+            "en": "Discover the rich history hidden in this imposing building.",
+            "es": "Descubre la rica historia que esconde este imponente edificio."
           }
         },
         {
@@ -1137,7 +1235,8 @@
             "de": "Burg von Fraga (Cluster C)",
             "hu": "Fraga vára (C csoport)",
             "ro": "Castelul din Fraga (Grupul C)",
-            "en": "Castle of Fraga (Cluster C)"
+            "en": "Castle of Fraga (Cluster C)",
+            "es": "Castillo de Fraga (Grupo C)"
           },
           "coords": [
             0.342,
@@ -1153,7 +1252,8 @@
             "de": "Ein kurzer Spaziergang vom Zentrum bergauf bietet die beste Aussicht auf die Stadt.",
             "hu": "Egy rövid séta a központból felfelé a legjobb kilátást nyújtja a városra.",
             "ro": "O scurtă plimbare la deal din centru oferă cea mai bună priveliște asupra orașului.",
-            "en": "A short walk uphill from the center offers the best view of the city."
+            "en": "A short walk uphill from the center offers the best view of the city.",
+            "es": "Una breve caminata cuesta arriba desde el centro ofrece la mejor vista de la ciudad."
           }
         },
         {
@@ -1161,7 +1261,8 @@
             "de": "Ermita de San Salvador",
             "hu": "San Salvador remetelak",
             "ro": "Schitul San Salvador",
-            "en": "Hermitage of San Salvador"
+            "en": "Hermitage of San Salvador",
+            "es": "Ermita de San Salvador"
           },
           "coords": [
             0.355,
@@ -1177,7 +1278,8 @@
             "de": "Fahren Sie zur Einsiedelei für einen spirituellen Abschluss des Tages und einen letzten Panoramablick.",
             "hu": "Vezessen el a remetelakhoz a nap spirituális befejezéseként és egy utolsó panorámás kilátásért.",
             "ro": "Conduceți la schit pentru un final spiritual al zilei și o ultimă priveliște panoramică.",
-            "en": "Drive to the hermitage for a spiritual end to the day and a final panoramic view."
+            "en": "Drive to the hermitage for a spiritual end to the day and a final panoramic view.",
+            "es": "Conduce hasta la ermita para un final espiritual del día y una vista panorámica final."
           }
         }
       ],
@@ -1185,7 +1287,8 @@
         "de": "Mit dem Auto können Sie die weiter entfernten Schätze von Fraga entdecken. Beginnen Sie bei der römischen Villa Fortunatus, bevor Sie ins Zentrum fahren. Parken Sie dort und erkunden Sie das historische Viertel, die Kirche und den Palast zu Fuß. Der Nachmittag führt Sie dann zur Burg und schließlich zur Ermita de San Salvador, die beide spektakuläre Ausblicke bieten. Ein perfekter Mix aus Fahren und Spazierengehen.",
         "hu": "Autóval felfedezheti Fraga távolabbi kincseit. Kezdje a római Villa Fortunatusnál, mielőtt a központba hajtana. Parkoljon le, és fedezze fel a történelmi negyedet, a templomot és a palotát gyalog. A délután a várhoz, végül pedig a San Salvador remetelakhoz vezet, mindkettő látványos kilátást kínál. A vezetés és a séta tökéletes keveréke.",
         "ro": "Cu mașina, puteți descoperi comorile mai îndepărtate ale Fragăi. Începeți la vila romană Fortunatus înainte de a conduce spre centru. Parcați acolo și explorați cartierul istoric, biserica și palatul pe jos. După-amiaza vă va duce apoi la castel și, în final, la Schitul San Salvador, ambele oferind priveliști spectaculoase. Un amestec perfect de condus și plimbare.",
-        "en": "By car, you can discover the more distant treasures of Fraga. Start at the Roman Villa Fortunatus before driving to the center. Park there and explore the historic quarter, the church, and the palace on foot. The afternoon will then take you to the castle and finally to the Ermita de San Salvador, both offering spectacular views. A perfect mix of driving and walking."
+        "en": "By car, you can discover the more distant treasures of Fraga. Start at the Roman Villa Fortunatus before driving to the center. Park there and explore the historic quarter, the church, and the palace on foot. The afternoon will then take you to the castle and finally to the Ermita de San Salvador, both offering spectacular views. A perfect mix of driving and walking.",
+        "es": "En coche puedes descubrir los tesoros más lejanos de Fraga. Empieza en la Villa Romana Fortunatus antes de conducir al centro. Aparca allí y explora a pie el barrio histórico, la iglesia y el palacio. La tarde te llevará luego al castillo y, finalmente, a la Ermita de San Salvador, ambos con vistas espectaculares. Una mezcla perfecta de conducir y caminar."
       },
       "gastro_picks": {
         "de": [
@@ -1341,6 +1444,11 @@
           "Parking can be difficult in the center, use the designated car parks on the edge of the old town.",
           "A GPS is helpful for navigating to the more distant sights.",
           "Respect the speed limits, especially on country roads."
+        ],
+        "es": [
+          "Aparcar puede ser difícil en el centro; usa los aparcamientos señalizados en el borde del casco antiguo.",
+          "Un GPS es útil para llegar a los puntos más alejados.",
+          "Respeta los límites de velocidad, especialmente en carreteras rurales."
         ]
       },
       "variants": {
@@ -1349,7 +1457,8 @@
             "de": "Wir starten unsere Fahrt zur Villa Fortunatus, während die Scheibenwischer den Rhythmus des Morgens vorgeben. Mittags parken wir bequem in Flussnähe und genießen den Blick auf die Brücke aus dem trockenen Innenraum. Nachmittags navigieren wir durch die engen Gassen zur Kirche und zum Palais. Den Tag lassen wir entspannt ausklingen, während der Regen gegen das Autodach trommelt.",
             "hu": "Autós utunkat a Villa Fortunatus felé kezdjük, miközben az ablaktörlők adják a reggel ritmusát. Délben kényelmesen parkolunk a folyóparton, és a száraz utastérből csodáljuk a hidat. Délután az óváros szűk utcáin manőverezünk a templomhoz és a palotához. A napot nyugodtan zárjuk, hallgatva, ahogy az eső kopog az autó tetőlemezén.",
             "ro": "Începem călătoria spre Villa Fortunatus în timp ce ștergătoarele dau ritmul dimineții. La prânz parcăm confortabil lângă râu și admirăm podul din interiorul uscat al mașinii. După-amiaza navigăm pe străzile înguste spre biserică și palat. Încheiem ziua relaxați, ascultând ploaia care bate în plafonul mașinii.",
-            "en": "We start our drive to Villa Fortunatus with wipers setting the morning's rhythm. At noon, we park comfortably near the river, enjoying the bridge views from the dry interior. In the afternoon, we navigate narrow streets toward the church and palace. The day ends peacefully as the rain drums against the car roof."
+            "en": "We start our drive to Villa Fortunatus with wipers setting the morning's rhythm. At noon, we park comfortably near the river, enjoying the bridge views from the dry interior. In the afternoon, we navigate narrow streets toward the church and palace. The day ends peacefully as the rain drums against the car roof.",
+            "es": "Comenzamos la ruta en coche hacia Villa Fortunatus con los limpiaparabrisas marcando el ritmo matinal. Al mediodía aparcamos cómodamente cerca del río, disfrutando las vistas del puente desde el interior seco. Por la tarde navegamos por calles estrechas hacia la iglesia y el palacio. El día termina en calma mientras la lluvia golpea el techo del coche."
           },
           "stops": [
             {
@@ -1358,7 +1467,8 @@
                 "de": "Der Parkplatz kann bei starkem Regen schlammig sein; vorsichtig fahren.",
                 "hu": "A parkoló heves esőzéskor sáros lehet; vezessen óvatosan.",
                 "ro": "Parcarea poate fi noroioasă în caz de ploaie torențială; conduceți cu grijă.",
-                "en": "The parking area can get muddy during heavy rain; drive carefully."
+                "en": "The parking area can get muddy during heavy rain; drive carefully.",
+                "es": "La zona de aparcamiento puede embarrarse con lluvias fuertes; conduce con precaución."
               }
             },
             {
@@ -1367,7 +1477,8 @@
                 "de": "Kurzer Stopp am Straßenrand für Fotos; achten Sie auf die Sichtverhältnisse.",
                 "hu": "Rövid megálló fotózáshoz; figyeljen a látási viszonyokra.",
                 "ro": "Oprire scurtă pentru poze; atenție la condițiile de vizibilitate.",
-                "en": "Short roadside stop for photos; watch out for visibility conditions."
+                "en": "Short roadside stop for photos; watch out for visibility conditions.",
+                "es": "Parada corta en la cuneta para fotos; vigila las condiciones de visibilidad."
               }
             },
             {
@@ -1376,7 +1487,8 @@
                 "de": "Nutzen Sie die Parkhäuser am Rande, um trocken in die Altstadt zu gelangen.",
                 "hu": "Használja a szélső parkolóházakat, hogy szárazon jusson az óvárosba.",
                 "ro": "Folosiți parcările acoperite de la margine pentru a ajunge uscat în centru.",
-                "en": "Use the parking garages at the edge to enter the old town dry."
+                "en": "Use the parking garages at the edge to enter the old town dry.",
+                "es": "Utiliza los garajes en el borde para entrar al casco antiguo sin mojarte."
               }
             },
             {
@@ -1385,7 +1497,8 @@
                 "de": "Achten Sie auf Fußgänger mit Regenschirmen, die die Sicht behindern.",
                 "hu": "Vigyázzon az esernyős gyalogosokra, akik akadályozhatják a kilátást.",
                 "ro": "Atenție la pietonii cu umbrele care pot bloca vizibilitatea.",
-                "en": "Watch out for pedestrians with umbrellas who might block your view."
+                "en": "Watch out for pedestrians with umbrellas who might block your view.",
+                "es": "Cuidado con peatones con paraguas que puedan bloquear tu vista."
               }
             },
             {
@@ -1394,7 +1507,8 @@
                 "de": "Parken Sie so nah wie möglich am Eingang für einen trockenen Übergang.",
                 "hu": "Parkoljon a lehető legközelebb a bejárathoz a száraz bejutásért.",
                 "ro": "Parcați cât mai aproape de intrare pentru un acces uscat.",
-                "en": "Park as close to the entrance as possible for a dry transition."
+                "en": "Park as close to the entrance as possible for a dry transition.",
+                "es": "Aparca lo más cerca posible de la entrada para una transición seca."
               }
             },
             {
@@ -1403,7 +1517,8 @@
                 "de": "Die Auffahrt zur Burg kann bei Nässe rutschig sein; sanft beschleunigen.",
                 "hu": "A várfeljáró nedvesen csúszós lehet; óvatosan gyorsítson.",
                 "ro": "Urcarea spre castel poate fi alunecoasă; accelerați ușor.",
-                "en": "The drive up to the castle can be slippery; accelerate gently."
+                "en": "The drive up to the castle can be slippery; accelerate gently.",
+                "es": "La subida al castillo puede estar resbaladiza; acelera con suavidad."
               }
             },
             {
@@ -1412,7 +1527,8 @@
                 "de": "Schalten Sie bei Nebel oder starkem Regen das Abblendlicht ein.",
                 "hu": "Köd vagy heves esőzés esetén kapcsolja be a tompított fényszórót.",
                 "ro": "Aprindeți faza scurtă în caz de ceață sau ploaie torențială.",
-                "en": "Turn on low-beam headlights during fog or heavy rain."
+                "en": "Turn on low-beam headlights during fog or heavy rain.",
+                "es": "Enciende las luces cortas en caso de niebla o lluvia intensa."
               }
             }
           ],
@@ -1440,6 +1556,12 @@
               "Use the air conditioning to help defog the windows in high humidity.",
               "Allow extra time for finding a parking spot near the historic center.",
               "Check the condition of your windshield wipers before touring Aragon."
+            ],
+            "es": [
+              "Evita charcos profundos en la cuneta para prevenir el aquaplaning.",
+              "Usa el aire acondicionado para desempañar las ventanas con alta humedad.",
+              "Deja tiempo extra para encontrar aparcamiento cerca del centro histórico.",
+              "Revisa el estado de los limpiaparabrisas antes de recorrer Aragón."
             ]
           }
         },
@@ -1448,7 +1570,8 @@
             "de": "Der Wintertag beginnt mit einer Fahrt durch den Morgennebel im Cinca-Tal zur Villa Fortunatus. Mittags reißt der Himmel auf und wir genießen die Fahrt über die Brücke im strahlenden Sonnenschein. Nachmittags erkunden wir das Zentrum, wobei das Auto ein warmer Rückzugsort bleibt. Abends fahren wir hinauf zur Einsiedelei, um das Lichtermeer von Fraga unter uns zu sehen.",
             "hu": "A téli nap a Cinca-völgy reggeli ködében indul a Villa Fortunatus felé. Délben felszakadozik a felhőzet, és ragyogó napsütésben kelünk át a hídon. Délután a belvárost járjuk be, az autó pedig meleg menedékként szolgál a megállók között. Este felhajtunk a remetelakhoz, hogy megcsodáljuk Fraga esti fényeit a lábunk alatt.",
             "ro": "Ziua de iarnă începe cu o călătorie prin ceața dimineții în valea Cinca spre Villa Fortunatus. La prânz cerul se înseninează și ne bucurăm de drumul peste pod sub un soare strălucitor. După-amiaza explorăm centrul, mașina fiind un refugiu cald între opriri. Seara urcăm la schit pentru a vedea marea de lumini a orașului sub noi.",
-            "en": "The winter day begins with a drive through the morning fog in the Cinca valley toward Villa Fortunatus. At noon, the sky clears, and we enjoy crossing the bridge in bright sunshine. In the afternoon, we explore the center, with the car serving as a warm refuge between stops. In the evening, we drive up to the hermitage to see Fraga's lights below."
+            "en": "The winter day begins with a drive through the morning fog in the Cinca valley toward Villa Fortunatus. At noon, the sky clears, and we enjoy crossing the bridge in bright sunshine. In the afternoon, we explore the center, with the car serving as a warm refuge between stops. In the evening, we drive up to the hermitage to see Fraga's lights below.",
+            "es": "El día invernal comienza con un trayecto por la niebla matinal del valle del Cinca hacia Villa Fortunatus. Al mediodía el cielo se despeja y disfrutamos de cruzar el puente con sol brillante. Por la tarde exploramos el centro, con el coche como refugio cálido entre paradas. Por la noche subimos a la ermita para ver las luces de Fraga abajo."
           },
           "stops": [
             {
@@ -1457,7 +1580,8 @@
                 "de": "Lassen Sie den Motor nicht unnötig laufen, während Sie die Ruinen besuchen.",
                 "hu": "Ne járassa feleslegesen a motort, amíg a romokat látogatja.",
                 "ro": "Nu lăsați motorul pornit inutil în timp ce vizitați ruinele.",
-                "en": "Don't leave the engine idling while you visit the ruins."
+                "en": "Don't leave the engine idling while you visit the ruins.",
+                "es": "No dejes el motor en marcha mientras visitas las ruinas."
               }
             },
             {
@@ -1466,7 +1590,8 @@
                 "de": "Vorsicht bei Glätte auf der Brücke in den frühen Morgenstunden.",
                 "hu": "Vigyázat, a híd kora reggel jeges vagy csúszós lehet.",
                 "ro": "Atenție la polei pe pod în orele dimineții.",
-                "en": "Watch out for icy patches on the bridge in the early morning."
+                "en": "Watch out for icy patches on the bridge in the early morning.",
+                "es": "Cuidado con placas de hielo en el puente a primera hora de la mañana."
               }
             },
             {
@@ -1475,7 +1600,8 @@
                 "de": "Parken Sie in der Nähe der Plaza España für kurze Wege in der Kälte.",
                 "hu": "Parkoljon a Plaza España közelében a rövid hidegben való séta érdekében.",
                 "ro": "Parcați lângă Plaza España pentru a merge cât mai puțin prin frig.",
-                "en": "Park near Plaza España to minimize walking in the cold air."
+                "en": "Park near Plaza España to minimize walking in the cold air.",
+                "es": "Aparca cerca de la Plaza España para minimizar caminar con el aire frío."
               }
             },
             {
@@ -1484,7 +1610,8 @@
                 "de": "Nutzen Sie die Sitzheizung nach dem Besuch der kühlen Kirche.",
                 "hu": "Használja az ülésfűtést a hűvös templomlátogatás után.",
                 "ro": "Folosiți încălzirea în scaune după vizitarea bisericii reci.",
-                "en": "Enjoy the seat heaters after visiting the cool interior of the church."
+                "en": "Enjoy the seat heaters after visiting the cool interior of the church.",
+                "es": "Disfruta de los asientos calefactables tras visitar el fresco interior de la iglesia."
               }
             },
             {
@@ -1493,7 +1620,8 @@
                 "de": "Prüfen Sie die Öffnungszeiten; im Winter können diese kürzer sein.",
                 "hu": "Ellenőrizze a nyitvatartást; télen rövidebb lehet.",
                 "ro": "Verificați programul; iarna poate fi mai scurt.",
-                "en": "Check the opening hours as they might be shorter in winter."
+                "en": "Check the opening hours as they might be shorter in winter.",
+                "es": "Comprueba los horarios de apertura, que pueden ser más cortos en invierno."
               }
             },
             {
@@ -1502,7 +1630,8 @@
                 "de": "Genießen Sie den Blick aus dem Auto, wenn der Wind oben zu stark ist.",
                 "hu": "Élvezze a kilátást az autóból, ha fent túl erős a szél.",
                 "ro": "Bucurați-vă de vedere din mașină dacă vântul este prea puternic sus.",
-                "en": "Enjoy the view from the car if the wind is too strong at the top."
+                "en": "Enjoy the view from the car if the wind is too strong at the top.",
+                "es": "Disfruta de la vista desde el coche si el viento es muy fuerte en la cima."
               }
             },
             {
@@ -1511,7 +1640,8 @@
                 "de": "Achten Sie auf Wildwechsel in der Dämmerung auf der Zufahrtsstraße.",
                 "hu": "Figyeljen a vadakra a bekötőúton a szürkületi órákban.",
                 "ro": "Atenție la animalele sălbatice pe drumul de acces la amurg.",
-                "en": "Watch out for wildlife on the access road during twilight hours."
+                "en": "Watch out for wildlife on the access road during twilight hours.",
+                "es": "Atento a la fauna en la vía de acceso durante las horas del crepúsculo."
               }
             }
           ],
@@ -1539,6 +1669,12 @@
               "Carry de-icer spray in case the windshield freezes in the evening.",
               "Be alert for fog banks in the Ebro and Cinca river basins.",
               "Antifreeze in the windshield washer fluid is a must in Aragon in winter."
+            ],
+            "es": [
+              "Revisa la presión de los neumáticos, ya que baja con la caída de las temperaturas.",
+              "Lleva spray descongelante por si el parabrisas se hiela por la noche.",
+              "Estate atento a bancos de niebla en las cuencas de los ríos Ebro y Cinca.",
+              "El líquido limpiaparabrisas con anticongelante es imprescindible en Aragón en invierno."
             ]
           }
         }
@@ -1557,7 +1693,8 @@
             "de": "Historisches Viertel (Cluster A)",
             "hu": "Történelmi negyed (A csoport)",
             "ro": "Cartierul istoric (Grupul A)",
-            "en": "Historic Quarter (Cluster A)"
+            "en": "Historic Quarter (Cluster A)",
+            "es": "Barrio Histórico (Grupo A)"
           },
           "coords": [
             0.3448,
@@ -1573,7 +1710,8 @@
             "de": "Nehmen Sie einen Bus ins Zentrum und beginnen Sie Ihre Erkundung am Hauptplatz.",
             "hu": "Menjen busszal a központba, és kezdje a felfedezést a főtéren.",
             "ro": "Luați un autobuz spre centru și începeți explorarea din piața principală.",
-            "en": "Take a bus to the center and start your exploration in the main square."
+            "en": "Take a bus to the center and start your exploration in the main square.",
+            "es": "Toma un autobús hasta el centro y comienza tu exploración en la plaza principal."
           }
         },
         {
@@ -1581,7 +1719,8 @@
             "de": "Kirche San Pedro (Cluster A)",
             "hu": "Szent Péter-templom (A csoport)",
             "ro": "Biserica San Pedro (Grupul A)",
-            "en": "Church of San Pedro (Cluster A)"
+            "en": "Church of San Pedro (Cluster A)",
+            "es": "Iglesia de San Pedro (Grupo A)"
           },
           "coords": [
             0.3455,
@@ -1597,7 +1736,8 @@
             "de": "Diese beeindruckende Kirche ist nur einen Steinwurf vom Platz entfernt.",
             "hu": "Ez a lenyűgöző templom csak egy kőhajításnyira van a tértől.",
             "ro": "Această biserică impresionantă este la o aruncătură de băț de piață.",
-            "en": "This impressive church is just a stone's throw from the square."
+            "en": "This impressive church is just a stone's throw from the square.",
+            "es": "Esta impresionante iglesia está a un paso de la plaza."
           }
         },
         {
@@ -1605,7 +1745,8 @@
             "de": "Palast Montcada (Cluster A)",
             "hu": "Montcada-palota (A csoport)",
             "ro": "Palatul Montcada (Grupul A)",
-            "en": "Montcada Palace (Cluster A)"
+            "en": "Montcada Palace (Cluster A)",
+            "es": "Palacio de los Montcada (Grupo A)"
           },
           "coords": [
             0.3462,
@@ -1621,7 +1762,8 @@
             "de": "Ein Spaziergang durch die Gassen führt Sie zu diesem historischen Juwel und einem guten Ort für das Mittagessen.",
             "hu": "Egy séta a sikátorokon keresztül elvezeti Önt ehhez a történelmi gyöngyszemhez és egy jó ebédelőhelyhez.",
             "ro": "O plimbare pe alei vă va duce la această bijuterie istorică și la un loc bun pentru prânz.",
-            "en": "A walk through the alleys will lead you to this historical gem and a good place for lunch."
+            "en": "A walk through the alleys will lead you to this historical gem and a good place for lunch.",
+            "es": "Un paseo por las callejuelas te llevará a esta joya histórica y es un buen sitio para comer."
           }
         },
         {
@@ -1629,7 +1771,8 @@
             "de": "Villa Fortunatus (Cluster B)",
             "hu": "Villa Fortunatus (B csoport)",
             "ro": "Villa Fortunatus (Grupul B)",
-            "en": "Villa Fortunatus (Cluster B)"
+            "en": "Villa Fortunatus (Cluster B)",
+            "es": "Villa Fortunatus (Grupo B)"
           },
           "coords": [
             0.321,
@@ -1645,7 +1788,8 @@
             "de": "Nehmen Sie den Bus zur römischen Villa. Erkundigen Sie sich nach dem Fahrplan, um Wartezeiten zu vermeiden.",
             "hu": "Menjen busszal a római villához. Érdeklődjön a menetrendről a várakozási idő elkerülése érdekében.",
             "ro": "Luați autobuzul spre vila romană. Verificați orarul pentru a evita timpii de așteptare.",
-            "en": "Take the bus to the Roman villa. Check the schedule to avoid waiting times."
+            "en": "Take the bus to the Roman villa. Check the schedule to avoid waiting times.",
+            "es": "Toma el autobús hasta la villa romana. Consulta el horario para evitar esperas."
           }
         },
         {
@@ -1653,7 +1797,8 @@
             "de": "Burg von Fraga (Cluster C)",
             "hu": "Fraga vára (C csoport)",
             "ro": "Castelul din Fraga (Grupul C)",
-            "en": "Castle of Fraga (Cluster C)"
+            "en": "Castle of Fraga (Cluster C)",
+            "es": "Castillo de Fraga (Grupo C)"
           },
           "coords": [
             0.342,
@@ -1669,7 +1814,8 @@
             "de": "Ein weiterer Bus bringt Sie in die Nähe der Burg. Der letzte Teil des Weges ist ein kurzer, aber lohnender Spaziergang bergauf.",
             "hu": "Egy másik busz elviszi a vár közelébe. Az út utolsó része egy rövid, de megérő séta felfelé.",
             "ro": "Un alt autobuz vă va duce în apropierea castelului. Ultima parte a drumului este o plimbare scurtă, dar plină de satisfacții, la deal.",
-            "en": "Another bus will take you near the castle. The last part of the way is a short but rewarding walk uphill."
+            "en": "Another bus will take you near the castle. The last part of the way is a short but rewarding walk uphill.",
+            "es": "Otro autobús te dejará cerca del castillo. El último tramo es una corta pero gratificante subida a pie."
           }
         },
         {
@@ -1677,7 +1823,8 @@
             "de": "Museo de la Casa de los Frailes (Cluster C)",
             "hu": "Casa de los Frailes Múzeum (C csoport)",
             "ro": "Muzeul Casa de los Frailes (Grupul C)",
-            "en": "Museum of the Casa de los Frailes (Cluster C)"
+            "en": "Museum of the Casa de los Frailes (Cluster C)",
+            "es": "Museo de la Casa de los Frailes (Grupo C)"
           },
           "coords": [
             0.344,
@@ -1693,7 +1840,8 @@
             "de": "Beenden Sie den Tag mit einem Einblick in die lokale Kultur, nur einen kurzen Spaziergang von der Bushaltestelle entfernt.",
             "hu": "Zárja a napot egy bepillantással a helyi kultúrába, csak egy rövid sétára a buszmegállótól.",
             "ro": "Încheiați ziua cu o incursiune în cultura locală, la o scurtă plimbare de stația de autobuz.",
-            "en": "End the day with a glimpse into local culture, just a short walk from the bus stop."
+            "en": "End the day with a glimpse into local culture, just a short walk from the bus stop.",
+            "es": "Termina el día con una inmersión en la cultura local, a poca distancia a pie de la parada de autobús."
           }
         }
       ],
@@ -1701,7 +1849,8 @@
         "de": "Entdecken Sie Fraga bequem mit öffentlichen Verkehrsmitteln. Beginnen Sie im historischen Zentrum und erkunden Sie die wichtigsten Sehenswürdigkeiten zu Fuß. Ein Bus bringt Sie dann zur faszinierenden römischen Villa Fortunatus. Am Nachmittag bringt Sie ein weiterer Bus zur Burg, von wo aus Sie einen herrlichen Blick über die Stadt genießen, bevor Sie den Tag in einem lokalen Museum ausklingen lassen.",
         "hu": "Fedezze fel Fragát kényelmesen tömegközlekedéssel. Kezdje a történelmi központban, és fedezze fel a főbb látnivalókat gyalog. Egy busz elviszi a lenyűgöző római Villa Fortunatushoz. Délután egy másik busz felvisz a várhoz, ahonnan csodálatos kilátás nyílik a városra, mielőtt egy helyi múzeumban zárná a napot.",
         "ro": "Descoperiți Fraga confortabil cu transportul public. Începeți în centrul istoric și explorați principalele atracții pe jos. Un autobuz vă va duce apoi la fascinanta vilă romană Fortunatus. După-amiaza, un alt autobuz vă va duce la castel, de unde vă veți bucura de priveliști superbe asupra orașului înainte de a încheia ziua la un muzeu local.",
-        "en": "Discover Fraga comfortably using public transport. Start in the historic center and explore the main sights on foot. A bus will then take you to the fascinating Roman Villa Fortunatus. In the afternoon, another bus will take you to the castle, where you can enjoy superb views over the city before ending the day at a local museum."
+        "en": "Discover Fraga comfortably using public transport. Start in the historic center and explore the main sights on foot. A bus will then take you to the fascinating Roman Villa Fortunatus. In the afternoon, another bus will take you to the castle, where you can enjoy superb views over the city before ending the day at a local museum.",
+        "es": "Descubre Fraga cómodamente usando el transporte público. Comienza en el casco histórico y recorre las principales atracciones a pie. Después, un autobús te llevará a la fascinante Villa Romana de Fortunatus. Por la tarde, otro autobús te acercará al castillo, desde donde podrás disfrutar de excelentes vistas de la ciudad antes de terminar el día en un museo local."
       },
       "gastro_picks": {
         "de": [
@@ -1857,6 +2006,11 @@
           "Buy a day pass if available to save money.",
           "Check the bus schedules in advance as frequencies can vary.",
           "Have small change ready for the bus driver in case card payment is not possible."
+        ],
+        "es": [
+          "Compra un pase de día si está disponible para ahorrar dinero.",
+          "Consulta los horarios de los autobuses con antelación, ya que las frecuencias pueden variar.",
+          "Lleva cambio pequeño para el conductor por si no es posible pagar con tarjeta."
         ]
       },
       "variants": {
@@ -1865,7 +2019,8 @@
             "de": "Wir nutzen die Stadtbusse, um trocken zwischen den Clustern zu wechseln. Mittags bietet die Fahrt über den Fluss einen geschützten Blick auf das Regenwetter. Nachmittags verbringen wir viel Zeit in den Museen, während wir die Busverbindungen per App verfolgen. Der Tag endet mit einer kurzen Fahrt zurück zum Zentrum, wobei wir die beleuchteten, nassen Straßen aus dem Busfenster beobachten.",
             "hu": "A helyi buszokat használjuk, hogy szárazon jussunk el a különböző helyszínekre. Délben a folyón való átkelés védett kilátást nyújt az esős tájra. Délután a múzeumokban időzünk, miközben applikáción követjük a buszok érkezését. A napot egy rövid visszaúttal zárjuk a központba, az ablakból figyelve a kivilágított, vizes utcákat.",
             "ro": "Folosim autobuzele locale pentru a ne deplasa uscați între obiective. La prânz, traversarea râului oferă o vedere protejată asupra vremii ploioase. După-amiaza petrecem timp în muzee, urmărind sosirea autobuzelor pe aplicație. Ziua se încheie cu o scurtă călătorie spre centru, privind străzile ude și luminate de la fereastră.",
-            "en": "We use local buses to move dry between the different clusters. At noon, crossing the river provides a sheltered view of the rainy weather. In the afternoon, we spend time in museums while tracking bus arrivals on the app. The day ends with a short trip back to the center, watching the illuminated wet streets from the bus window."
+            "en": "We use local buses to move dry between the different clusters. At noon, crossing the river provides a sheltered view of the rainy weather. In the afternoon, we spend time in museums while tracking bus arrivals on the app. The day ends with a short trip back to the center, watching the illuminated wet streets from the bus window.",
+            "es": "Usamos autobuses locales para desplazarnos entre los distintos puntos. A mediodía, al cruzar el río se disfruta de una vista resguardada del tiempo lluvioso. Por la tarde, pasamos tiempo en museos mientras controlamos las llegadas de los autobuses en la app. El día termina con un breve trayecto de vuelta al centro, viendo las calles húmedas iluminadas desde la ventanilla."
           },
           "stops": [
             {
@@ -1874,7 +2029,8 @@
                 "de": "Die Bushaltestellen bieten oft nur wenig Schutz; Schirm bereit halten.",
                 "hu": "A buszmegállók gyakran kevés védelmet nyújtanak; legyen kéznél esernyő.",
                 "ro": "Stațiile de autobuz oferă adesea puțin adăpost; țineți umbrela la îndemână.",
-                "en": "Bus stops often offer limited shelter; keep your umbrella ready."
+                "en": "Bus stops often offer limited shelter; keep your umbrella ready.",
+                "es": "Las paradas de autobús suelen ofrecer poco resguardo; ten a mano el paraguas."
               }
             },
             {
@@ -1883,7 +2039,8 @@
                 "de": "Kurzer Fußweg von der Haltestelle; nutzen Sie die Vordächer.",
                 "hu": "Rövid séta a megállótól; használja az épületek előtetőit.",
                 "ro": "Scurtă plimbare de la stație; folosiți copertinele clădirilor.",
-                "en": "Short walk from the stop; use building overhangs for cover."
+                "en": "Short walk from the stop; use building overhangs for cover.",
+                "es": "A poca distancia a pie de la parada; usa los aleros de los edificios para cobijarte."
               }
             },
             {
@@ -1892,7 +2049,8 @@
                 "de": "Perfekter Ort, um auf den nächsten Bus im Trockenen zu warten.",
                 "hu": "Tökéletes hely, hogy szárazon várja meg a következő buszt.",
                 "ro": "Locul perfect pentru a aștepta următorul autobuz la adăpost.",
-                "en": "A perfect place to wait for the next bus while staying dry."
+                "en": "A perfect place to wait for the next bus while staying dry.",
+                "es": "Un lugar perfecto para esperar el siguiente autobús manteniéndote seco."
               }
             },
             {
@@ -1901,7 +2059,8 @@
                 "de": "Prüfen Sie den Busfahrplan genau; Fahrten außerhalb sind seltener.",
                 "hu": "Ellenőrizze pontosan a menetrendet; a külső járatok ritkábbak.",
                 "ro": "Verificați atent orarul; cursele spre exterior sunt mai rare.",
-                "en": "Check the bus schedule carefully; out-of-town trips are less frequent."
+                "en": "Check the bus schedule carefully; out-of-town trips are less frequent.",
+                "es": "Revisa el horario del autobús cuidadosamente; los trayectos fuera de la ciudad son menos frecuentes."
               }
             },
             {
@@ -1910,7 +2069,8 @@
                 "de": "Die Haltestelle ist am Fuße des Hügels; Aufstieg im Regen einplanen.",
                 "hu": "A megálló a domb alján van; számoljon az esőben való feljutással.",
                 "ro": "Stația este la baza dealului; planificați urcarea pe ploaie.",
-                "en": "The stop is at the bottom of the hill; plan for an uphill walk in rain."
+                "en": "The stop is at the bottom of the hill; plan for an uphill walk in rain.",
+                "es": "La parada está al pie de la colina; planifica una subida a pie bajo la lluvia."
               }
             },
             {
@@ -1919,7 +2079,8 @@
                 "de": "Die Buslinie verbindet diesen Ort direkt mit dem Stadtzentrum.",
                 "hu": "A buszjárat közvetlenül összeköti ezt a helyet a városközponttal.",
                 "ro": "Linia de autobuz face legătura directă între acest loc și centru.",
-                "en": "The bus line connects this location directly with the city center."
+                "en": "The bus line connects this location directly with the city center.",
+                "es": "La línea de autobús conecta este lugar directamente con el centro de la ciudad."
               }
             }
           ],
@@ -1947,6 +2108,12 @@
               "Buses may be more crowded than usual during rain; allow extra time.",
               "Avoid placing wet umbrellas directly on the seat next to you.",
               "Use real-time transit apps available for Fraga for accurate timing."
+            ],
+            "es": [
+              "Ten tu billete o cambio listo para evitar retrasos al subir.",
+              "Los autobuses pueden ir más llenos de lo habitual cuando llueve; deja tiempo extra.",
+              "Evita colocar paraguas mojados directamente sobre el asiento contiguo.",
+              "Utiliza aplicaciones de transporte en tiempo real disponibles para Fraga para horarios precisos."
             ]
           }
         },
@@ -1955,7 +2122,8 @@
             "de": "Am klaren Wintermorgen nutzen wir die gut beheizten Busse für den Weg zur Villa Fortunatus. Mittags bietet die Fahrt über die Cinca einen spektakulären Blick auf die winterliche Landschaft. Nachmittags erkunden wir die Museen und das Palais, wobei wir die Wartezeiten an den Haltestellen kurz halten. Abends bringt uns der Bus sicher zurück ins Herz der Altstadt, wo wir den Tag gemütlich beenden.",
             "hu": "A tiszta téli reggelen a jól fűtött buszokkal utazunk a Villa Fortunatus felé. Délben a Cinca-hídon való átkelés látványos kilátást nyújt a téli tájra. Délután a múzeumokat és a palotát járjuk be, figyelve rá, hogy a megállókban ne kelljen sokat várnunk. Este a busz biztonságban visszavisz az óváros szívébe, ahol kényelmesen zárjuk a napot.",
             "ro": "În dimineața senină de iarnă folosim autobuzele bine încălzite pentru a merge spre Villa Fortunatus. La prânz, drumul peste Cinca oferă o vedere spectaculoasă asupra peisajului hibernal. După-amiaza vizităm muzeele și palatul, încercând să scurtăm așteptarea în stații. Seara, autobuzul ne aduce în siguranță în inima centrului vechi pentru finalul zilei.",
-            "en": "On a clear winter morning, we take well-heated buses toward Villa Fortunatus. At noon, crossing the Cinca offers spectacular views of the winter landscape. Afternoon is spent at museums and the palace, keeping wait times at stops to a minimum. In the evening, the bus brings us safely back to the heart of the old town to end our day."
+            "en": "On a clear winter morning, we take well-heated buses toward Villa Fortunatus. At noon, crossing the Cinca offers spectacular views of the winter landscape. Afternoon is spent at museums and the palace, keeping wait times at stops to a minimum. In the evening, the bus brings us safely back to the heart of the old town to end our day.",
+            "es": "Una clara mañana invernal nos lleva en autobuses bien calefactados hacia la Villa Fortunatus. Al mediodía, cruzar el Cinca ofrece vistas espectaculares del paisaje invernal. La tarde se dedica a museos y al palacio, minimizando los tiempos de espera en las paradas. Por la noche, el autobús nos trae de vuelta con seguridad al corazón del casco antiguo para finalizar el día."
           },
           "stops": [
             {
@@ -1964,7 +2132,8 @@
                 "de": "Die Haltestellen in der Altstadt liegen oft im kalten Schatten; warm anziehen.",
                 "hu": "Az óvárosi megállók gyakran hideg árnyékban vannak; öltözzön melegen.",
                 "ro": "Stațiile din centrul vechi sunt adesea în umbră rece; îmbrăcați-vă bine.",
-                "en": "Old town bus stops are often in cold shadows; dress warmly."
+                "en": "Old town bus stops are often in cold shadows; dress warmly.",
+                "es": "Las paradas en el casco viejo suelen estar en sombras frías; vístete abrigado."
               }
             },
             {
@@ -1973,7 +2142,8 @@
                 "de": "Ein kurzer Sprint von der Haltestelle bringt Sie schnell ins warme Innere.",
                 "hu": "Egy rövid sprint a megállótól, és máris a meleg belső térben van.",
                 "ro": "Un scurt sprint de la stație vă duce rapid în interiorul cald.",
-                "en": "A quick dash from the stop gets you into the warm interior fast."
+                "en": "A quick dash from the stop gets you into the warm interior fast.",
+                "es": "Una pequeña carrera desde la parada te lleva rápido al interior caldeado."
               }
             },
             {
@@ -1982,7 +2152,8 @@
                 "de": "Prüfen Sie die Abfahrtszeiten im Voraus, um langes Warten in der Kälte zu vermeiden.",
                 "hu": "Ellenőrizze előre az indulást, hogy elkerülje a hosszú várakozást a hidegben.",
                 "ro": "Verificați orele în avans pentru a evita așteptarea lungă în frig.",
-                "en": "Check departure times in advance to avoid long waits in the cold."
+                "en": "Check departure times in advance to avoid long waits in the cold.",
+                "es": "Consulta los horarios de salida con antelación para evitar largas esperas al frío."
               }
             },
             {
@@ -1991,7 +2162,8 @@
                 "de": "Im Winter sind die Busse hierher seltener; planen Sie genau.",
                 "hu": "Télen ritkábbak ide a buszok; tervezzen pontosan.",
                 "ro": "Iarna autobuzele spre această locație sunt mai rare; planificați atent.",
-                "en": "Buses here are less frequent in winter; plan your trip precisely."
+                "en": "Buses here are less frequent in winter; plan your trip precisely.",
+                "es": "Aquí los autobuses son menos frecuentes en invierno; planifica el viaje con precisión."
               }
             },
             {
@@ -2000,7 +2172,8 @@
                 "de": "Der Fußweg von der Haltestelle wärmt den Körper auf dem Weg nach oben auf.",
                 "hu": "A megállótól vezető séta segít felmelegedni a felfelé vezető úton.",
                 "ro": "Plimbarea de la stație vă ajută să vă încălziți pe drumul spre castel.",
-                "en": "The walk from the stop helps warm up your body on the way up."
+                "en": "The walk from the stop helps warm up your body on the way up.",
+                "es": "La caminata desde la parada ayuda a entrar en calor durante la subida."
               }
             },
             {
@@ -2009,7 +2182,8 @@
                 "de": "Nutzen Sie die Wärme im Museum, bis der Bus zur Rückfahrt kommt.",
                 "hu": "Használja ki a múzeum melegét a visszaúti busz érkezéséig.",
                 "ro": "Bucurați-vă de căldura muzeului până la sosirea autobuzului de retur.",
-                "en": "Stay in the warmth of the museum until the return bus arrives."
+                "en": "Stay in the warmth of the museum until the return bus arrives.",
+                "es": "Permanece en el interior del museo hasta que llegue el autobús de regreso."
               }
             }
           ],
@@ -2037,6 +2211,12 @@
               "Bus windows tend to fog up in winter from passengers' breath.",
               "Transit schedules can vary significantly during winter holidays.",
               "Look for bus stops positioned in the sun for more pleasant waiting."
+            ],
+            "es": [
+              "Abre la cremallera del abrigo mientras vas en el autobús para evitar el choque térmico al bajar.",
+              "Los cristales del autobús tienden a empañarse en invierno por el aliento de los pasajeros.",
+              "Los horarios de tránsito pueden variar notablemente durante las vacaciones de invierno.",
+              "Busca paradas de autobús situadas al sol para esperar con más comodidad."
             ]
           }
         }

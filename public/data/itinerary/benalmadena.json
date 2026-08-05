@@ -31,7 +31,8 @@
             "de": "Wurde mehrfach als bester Yachthafen der Welt ausgezeichnet.",
             "hu": "Többször elnyerte a világ legjobb jachtkikötője címet.",
             "ro": "A fost desemnat de mai multe ori cel mai bun port de agrement din lume.",
-            "en": "Voted several times as the best marina in the world."
+            "en": "Voted several times as the best marina in the world.",
+            "es": "Elegido varias veces como el mejor puerto deportivo del mundo."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Ideal für Familien, um die Unterwasserwelt zu entdecken.",
             "hu": "Ideális családoknak a víz alatti világ felfedezéséhez.",
             "ro": "Ideal pentru familii care vor să descopere lumea subacvatică.",
-            "en": "Ideal for families to discover the underwater world."
+            "en": "Ideal for families to discover the underwater world.",
+            "es": "Ideal para familias que quieran descubrir el mundo subacuático."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Verpassen Sie nicht die Delfin- und Seelöwen-Shows.",
             "hu": "Ne hagyd ki a delfin- és fókashow-kat.",
             "ro": "Nu ratați spectacolele cu delfini și lei de mare.",
-            "en": "Don't miss the dolphin and sea lion shows."
+            "en": "Don't miss the dolphin and sea lion shows.",
+            "es": "No te pierdas los espectáculos de delfines y leones marinos."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Hunderte von frei laufenden Kaninchen und Pfauen.",
             "hu": "Több száz szabadon kószáló nyúl és páva vár.",
             "ro": "Sute de iepuri și păuni care umblă liberi.",
-            "en": "Hundreds of free-roaming rabbits and peacocks."
+            "en": "Hundreds of free-roaming rabbits and peacocks.",
+            "es": "Cientos de conejos y pavos reales sueltos."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Ein tropisches Paradies mit über 1.500 exotischen Schmetterlingen.",
             "hu": "Trópusi paradicsom több mint 1500 egzotikus lepkével.",
             "ro": "Un paradis tropical cu peste 1.500 de fluturi exotici.",
-            "en": "A tropical paradise with over 1,500 exotic butterflies."
+            "en": "A tropical paradise with over 1,500 exotic butterflies.",
+            "es": "Un paraíso tropical con más de 1.500 mariposas exóticas."
           }
         }
       ],
@@ -111,7 +116,8 @@
         "de": "Ein Tag an der Küste von Benalmádena beginnt im architektonisch einzigartigen Puerto Marina. Entdecken Sie Meeresbewohner im Sea Life und Selwo Marina, bevor Sie im idyllischen Parque de la Paloma zwischen Tieren entspannen. Den krönenden Abschluss bildet der Besuch im Schmetterlingspark, einer farbenfrohen Oase direkt neben der großen Stupa.",
         "hu": "Egy nap Benalmádena partján az építészetileg egyedülálló Puerto Marinában indul. Fedezd fel a tengeri élőlényeket a Sea Life-ban és a Selwo Marinában, majd pihenj az idilli Parque de la Palomában az állatok között. A napot a lepkeház látogatása koronázza meg, amely egy színes oázis közvetlenül a nagy Sztúpa mellett.",
         "ro": "O zi pe coasta Benalmádena începe în Puerto Marina, unic din punct de vedere arhitectural. Descoperiți creaturile marine la Sea Life și Selwo Marina, înainte de a vă relaxa în idilicul Parque de la Paloma printre animale. Ziua se încheie cu o vizită la casa fluturilor, o oază colorată situată chiar lângă marea Stupa.",
-        "en": "A day on the coast of Benalmádena starts at the architecturally unique Puerto Marina. Discover marine life at Sea Life and Selwo Marina, then relax in the idyllic Parque de la Paloma among the animals. The crowning finish is a visit to the Butterfly Park, a colorful oasis right next to the great Stupa."
+        "en": "A day on the coast of Benalmádena starts at the architecturally unique Puerto Marina. Discover marine life at Sea Life and Selwo Marina, then relax in the idyllic Parque de la Paloma among the animals. The crowning finish is a visit to the Butterfly Park, a colorful oasis right next to the great Stupa.",
+        "es": "Un día en la costa de Benalmádena empieza en el arquitectónicamente único Puerto Marina. Descubre la vida marina en Sea Life y Selwo Marina, luego relájate en el idílico Parque de la Paloma entre los animales. El broche de oro es una visita al Parque de las Mariposas, un oasis colorido junto a la gran Stupa."
       },
       "gastro_picks": {
         "de": [
@@ -219,6 +225,12 @@
           "Shows at Selwo Marina have fixed times, check at the entrance.",
           "Entry to Parque de la Paloma is free.",
           "Wear light clothing in the Butterfly Park as it is very warm inside."
+        ],
+        "es": [
+          "Puerto Marina es muy extenso; calcule suficiente tiempo para caminar.",
+          "Los espectáculos en Selwo Marina tienen horarios fijos; consulte en la entrada.",
+          "La entrada al Parque de la Paloma es gratuita.",
+          "Use ropa ligera en el Mariposario, ya que hace mucho calor en el interior."
         ]
       },
       "variants": {
@@ -227,7 +239,8 @@
             "de": "Ein Tag an der Küste von Benalmádena beginnt im architektonisch einzigartigen Puerto Marina. Entdecken Sie Meeresbewohner im Sea Life und Selwo Marina, bevor Sie im idyllischen Parque de la Paloma zwischen Tieren entspannen. Den krönenden Abschluss bildet der Besuch im Schmetterlingspark, einer farbenfrohen Oase direkt neben der großen Stupa.",
             "hu": "Egy nap Benalmádena partján az építészetileg egyedülálló Puerto Marinában indul. Fedezd fel a tengeri élőlényeket a Sea Life-ban és a Selwo Marinában, majd pihenj az idilli Parque de la Palomában az állatok között. A napot a lepkeház látogatása koronázza meg, amely egy színes oázis közvetlenül a nagy Sztúpa mellett.",
             "ro": "O zi pe coasta Benalmádena începe în Puerto Marina, unic din punct de vedere arhitectural. Descoperiți creaturile marine la Sea Life și Selwo Marina, înainte de a vă relaxa în idilicul Parque de la Paloma printre animale. Ziua se încheie cu o vizită la casa fluturilor, o oază colorată situată chiar lângă marea Stupa.",
-            "en": "A day on the coast of Benalmádena starts at the architecturally unique Puerto Marina. Discover marine life at Sea Life and Selwo Marina, then relax in the idyllic Parque de la Paloma among the animals. The crowning finish is a visit to the Butterfly Park, a colorful oasis right next to the great Stupa."
+            "en": "A day on the coast of Benalmádena starts at the architecturally unique Puerto Marina. Discover marine life at Sea Life and Selwo Marina, then relax in the idyllic Parque de la Paloma among the animals. The crowning finish is a visit to the Butterfly Park, a colorful oasis right next to the great Stupa.",
+            "es": "Un día en la costa de Benalmádena comienza en el arquitectónico Puerto Marina. Descubra la vida marina en Sea Life y Selwo Marina, luego relájese en el idílico Parque de la Paloma entre los animales. La guinda es una visita al Mariposario, un oasis colorido junto a la gran Stupa."
           },
           "stops": [
             {
@@ -236,7 +249,8 @@
                 "de": "Wurde mehrfach als bester Yachthafen der Welt ausgezeichnet.",
                 "hu": "Többször elnyerte a világ legjobb jachtkikötője címet.",
                 "ro": "A fost desemnat de mai multe ori cel mai bun port de agrement din lume.",
-                "en": "Voted several times as the best marina in the world."
+                "en": "Voted several times as the best marina in the world.",
+                "es": "Votado varias veces como la mejor marina del mundo."
               }
             },
             {
@@ -245,7 +259,8 @@
                 "de": "Ideal für Familien, um die Unterwasserwelt zu entdecken.",
                 "hu": "Ideális családoknak a víz alatti világ felfedezéséhez.",
                 "ro": "Ideal pentru familii care vor să descopere lumea subacvatică.",
-                "en": "Ideal for families to discover the underwater world."
+                "en": "Ideal for families to discover the underwater world.",
+                "es": "Ideal para familias que quieran descubrir el mundo submarino."
               }
             },
             {
@@ -254,7 +269,8 @@
                 "de": "Verpassen Sie nicht die Delfin- und Seelöwen-Shows.",
                 "hu": "Ne hagyd ki a delfin- és fókashow-kat.",
                 "ro": "Nu ratați spectacolele cu delfini și lei de mare.",
-                "en": "Don't miss the dolphin and sea lion shows."
+                "en": "Don't miss the dolphin and sea lion shows.",
+                "es": "No se pierda los espectáculos de delfines y leones marinos."
               }
             },
             {
@@ -263,7 +279,8 @@
                 "de": "Hunderte von frei laufenden Kaninchen und Pfauen.",
                 "hu": "Több száz szabadon kószáló nyúl és páva vár.",
                 "ro": "Sute de iepuri și păuni care umblă liberi.",
-                "en": "Hundreds of free-roaming rabbits and peacocks."
+                "en": "Hundreds of free-roaming rabbits and peacocks.",
+                "es": "Cientos de conejos y pavos reales sueltos."
               }
             },
             {
@@ -272,7 +289,8 @@
                 "de": "Ein tropisches Paradies mit über 1.500 exotischen Schmetterlingen.",
                 "hu": "Trópusi paradicsom több mint 1500 egzotikus lepkével.",
                 "ro": "Un paradis tropical cu peste 1.500 de fluturi exotici.",
-                "en": "A tropical paradise with over 1,500 exotic butterflies."
+                "en": "A tropical paradise with over 1,500 exotic butterflies.",
+                "es": "Un paraíso tropical con más de 1.500 mariposas exóticas."
               }
             }
           ],
@@ -382,6 +400,12 @@
               "Shows at Selwo Marina have fixed times, check at the entrance.",
               "Entry to Parque de la Paloma is free.",
               "Wear light clothing in the Butterfly Park as it is very warm inside."
+            ],
+            "es": [
+              "Puerto Marina es muy extenso; calcule suficiente tiempo para caminar.",
+              "Los espectáculos en Selwo Marina tienen horarios fijos; consulte en la entrada.",
+              "La entrada al Parque de la Paloma es gratuita.",
+              "Use ropa ligera en el Mariposario, ya que hace mucho calor en el interior."
             ]
           }
         },
@@ -390,7 +414,8 @@
             "de": "Der Morgen am Hafen von Puerto Marina ist trotz des Regens stimmungsvoll, die Spiegelungen auf dem Wasser sind einzigartig. Mittags bietet das Sea Life Aquarium den perfekten trockenen Zufluchtsort in die Unterwasserwelt.\nNachmittags spazieren wir mit dem Schirm durch den Selwo Marina Park und beobachten die Tiere. Der Parque de la Paloma wirkt im Regen besonders satt und grün.\nAm späten Nachmittag erreichen wir das Mariposario, wo uns tropische Wärme und hunderte Schmetterlinge den grauen Himmel vergessen lassen. Den Abend lassen wir in einem der vielen Cafés an der Küste ausklingen.",
             "hu": "A kikötői reggel esőben is hangulatos, a vizes kövezeten megcsillanó fények különleges látványt nyújtanak. Délben a Sea Life akvárium nyújt tökéletes menedéket és száraz programot a tenger alatt.\nDélután esernyővel vágunk át a Selwo Marina területén, majd a Parque de la Paloma buja, esőtől illatos ösvényein sétálunk. A növényzet ilyenkor a legélénkebb.\nKéső délután a Pillangópark trópusi klímája feledteti velünk a kinti borút. Az estét a tengerparti sétány egyik fedett teraszán, egy forró ital mellett zárjuk.",
             "ro": "Dimineața în Puerto Marina este melancolică sub stropii de ploaie, cu reflexii superbe pe pavaj. La prânz, acvariul Sea Life devine refugiul ideal pentru a explora lumea marină la adăpost.\nDupă-amiaza, o plimbare cu umbrela prin Selwo Marina și apoi prin Parque de la Paloma ne arată o latură verde și proaspătă a orașului. Vegetația este vibrantă după ploaie.\nSpre seară, Mariposario ne întâmpină cu o atmosferă tropicală caldă, plină de fluturi colorați. Încheiem ziua într-o cafenea primitoare de pe faleză, ascultând sunetul mării.",
-            "en": "The morning at Puerto Marina is atmospheric despite the rain, with unique reflections on the wet promenade. At noon, the Sea Life aquarium provides the perfect dry escape into the underwater world.\nIn the afternoon, we stroll with an umbrella through Selwo Marina and the lush Parque de la Paloma. The greenery looks incredibly vibrant in the rain.\nBy late afternoon, the Mariposario offers a warm tropical sanctuary filled with butterflies, making us forget the grey skies. We finish the evening at a cozy waterfront café."
+            "en": "The morning at Puerto Marina is atmospheric despite the rain, with unique reflections on the wet promenade. At noon, the Sea Life aquarium provides the perfect dry escape into the underwater world.\nIn the afternoon, we stroll with an umbrella through Selwo Marina and the lush Parque de la Paloma. The greenery looks incredibly vibrant in the rain.\nBy late afternoon, the Mariposario offers a warm tropical sanctuary filled with butterflies, making us forget the grey skies. We finish the evening at a cozy waterfront café.",
+            "es": "La mañana en Puerto Marina es atmosférica pese a la lluvia, con reflejos únicos en el paseo mojado. Al mediodía, el acuario Sea Life ofrece el refugio seco perfecto en el mundo submarino.\nPor la tarde, paseamos con paraguas por Selwo Marina y el frondoso Parque de la Paloma. La vegetación luce increíblemente vibrante con la lluvia.\nA última hora de la tarde, el Mariposario ofrece un santuario tropical y cálido lleno de mariposas, haciéndonos olvidar el cielo gris. Terminamos la noche en una acogedora cafetería frente al mar."
           },
           "stops": [
             {
@@ -399,7 +424,8 @@
                 "de": "Die überdachten Passagen der Geschäfte bieten guten Schutz vor Schauern.",
                 "hu": "Az üzletsorok fedett árkádjai alatt szárazon nézelődhetünk.",
                 "ro": "Arcadele magazinelor oferă adăpost excelent în caz de aversă.",
-                "en": "The covered shopping arcades offer great shelter during showers."
+                "en": "The covered shopping arcades offer great shelter during showers.",
+                "es": "Las galerías comerciales cubiertas ofrecen un gran refugio durante los chubascos."
               }
             },
             {
@@ -408,7 +434,8 @@
                 "de": "Ideal für Regentage, da die gesamte Ausstellung überdacht ist.",
                 "hu": "Tökéletes esős napra, a teljes bemutatótér fedett és fűtött.",
                 "ro": "Ideal pentru zile ploioase, întreaga expoziție fiind la interior.",
-                "en": "Perfect for rainy days as the entire exhibition is indoors."
+                "en": "Perfect for rainy days as the entire exhibition is indoors.",
+                "es": "Perfecto para días lluviosos, ya que toda la exposición está en interiores."
               }
             },
             {
@@ -417,7 +444,8 @@
                 "de": "Die Delfinshow findet auch bei Regen statt, die Tribünen sind teils überdacht.",
                 "hu": "A delfinshow-t esőben is megtartják, a nézőtér egy része fedett.",
                 "ro": "Spectacolele cu delfini au loc și pe ploaie, tribuna e parțial acoperită.",
-                "en": "Dolphin shows continue in rain; parts of the stands are covered."
+                "en": "Dolphin shows continue in rain; parts of the stands are covered.",
+                "es": "Los espectáculos de delfines continúan con lluvia; parte de las gradas están cubiertas."
               }
             },
             {
@@ -426,7 +454,8 @@
                 "de": "Nutzen Sie die befestigten Wege, um Schlamm auf den Rasenflächen zu vermeiden.",
                 "hu": "Maradjon a kiépített utakon, hogy elkerülje a felázott füves részeket.",
                 "ro": "Rămâneți pe aleile pavate pentru a evita zonele cu noroi din iarbă.",
-                "en": "Stick to the paved paths to avoid muddy grass areas."
+                "en": "Stick to the paved paths to avoid muddy grass areas.",
+                "es": "Circule por los senderos pavimentados para evitar las zonas de césped embarradas."
               }
             },
             {
@@ -435,7 +464,8 @@
                 "de": "Ein Paradies bei Regen: trocken, warm und voller exotischer Farben.",
                 "hu": "Valóságos paradicsom esőben: száraz, meleg és egzotikus színekben pompázik.",
                 "ro": "Un paradis pe ploaie: uscat, cald și plin de culori exotice.",
-                "en": "A true paradise in the rain: dry, warm, and full of exotic colors."
+                "en": "A true paradise in the rain: dry, warm, and full of exotic colors.",
+                "es": "Un verdadero paraíso bajo la lluvia: seco, cálido y lleno de colores exóticos."
               }
             }
           ],
@@ -463,6 +493,12 @@
               "Use the M-103 bus to move between stops if the rain gets too heavy.",
               "The Butterfly Park and Sea Life are your best indoor 'anchor' points.",
               "Bring a sturdy umbrella as coastal winds can easily flip cheaper ones."
+            ],
+            "es": [
+              "Use calzado antideslizante, ya que las losas del puerto se vuelven muy resbaladizas con humedad.",
+              "Use el autobús M-103 para moverse entre paradas si la lluvia se intensifica.",
+              "El Mariposario y Sea Life son sus mejores puntos 'ancla' en interior.",
+              "Lleve un paraguas resistente, ya que los vientos costeros pueden voltear los baratos."
             ]
           }
         },
@@ -471,7 +507,8 @@
             "de": "Der Wintermorgen an der Costa del Sol ist mild und sonnig, perfekt für einen Spaziergang am Yachthafen. Mittags genießen wir die ruhige Atmosphäre im Aquarium, fernab der Sommerhitze.\nDer Nachmittag im Selwo Marina ist angenehm kühl, die Tiere sind oft aktiver als im Hochsommer. Im Parque de la Paloma blühen auch im Winter viele Pflanzen unter der sanften Januarsonne.\nZum Sonnenuntergang besuchen wir das Mariposario, wo die tropische Temperatur besonders wohltuend ist. Der Tag endet früh mit einem Blick auf die beleuchtete Küste bei klarer Winterluft.",
             "hu": "A téli reggel a Costa del Solon enyhe és napos, tökéletes a jachtkikötő bejárásához. Délben az akvárium nyugodt atmoszféráját élvezzük, távol a nyári hőségtől.\nA délután a Selwo Marinában kellemesen hűvös, az állatok gyakran aktívabbak, mint a kánikulában. A Paloma parkban ilyenkor is virítanak a növények a lágy téli napsütésben.\nNaplemente táján a Pillangópark trópusi melege különösen jóleső érzés. A nap korán ér véget, a tiszta téli levegőben messzire ellátni a kivilágított parton.",
             "ro": "Dimineața de iarnă pe Costa del Sol este blândă și însorită, ideală pentru portul de iahturi. La prânz ne bucurăm de liniștea de la Sea Life, fără aglomerația estivală.\nDupă-amiaza la Selwo Marina este răcoroasă și plăcută, animalele fiind mai active decât în arșița verii. În Parque de la Paloma, vegetația rămâne verde sub soarele blând.\nSpre apus vizităm Mariposario, unde căldura tropicală este extrem de reconfortantă. Ziua se încheie devreme cu o panoramă clară asupra coastei luminate în aerul rece.",
-            "en": "A winter morning on the Costa del Sol is mild and sunny, perfect for exploring the marina. At noon, we enjoy the quiet atmosphere of the aquarium, away from the summer heat.\nThe afternoon at Selwo Marina is pleasantly cool, and the animals are often more active than in summer. Parque de la Paloma remains lush even in winter under the gentle sun.\nNear sunset, we visit the Butterfly Park, where the tropical warmth feels especially comforting. The day ends early with clear views of the illuminated coast in the crisp air."
+            "en": "A winter morning on the Costa del Sol is mild and sunny, perfect for exploring the marina. At noon, we enjoy the quiet atmosphere of the aquarium, away from the summer heat.\nThe afternoon at Selwo Marina is pleasantly cool, and the animals are often more active than in summer. Parque de la Paloma remains lush even in winter under the gentle sun.\nNear sunset, we visit the Butterfly Park, where the tropical warmth feels especially comforting. The day ends early with clear views of the illuminated coast in the crisp air.",
+            "es": "Una mañana invernal en la Costa del Sol es templada y soleada, perfecta para explorar la marina. Al mediodía disfrutamos de la atmósfera tranquila del acuario, lejos del calor veraniego.\nLa tarde en Selwo Marina es agradablemente fresca y los animales suelen estar más activos que en verano. El Parque de la Paloma permanece frondoso incluso en invierno bajo el sol suave.\nAl atardecer visitamos el Mariposario, donde el calor tropical resulta especialmente reconfortante. El día termina pronto con vistas nítidas de la costa iluminada en el aire fresco."
           },
           "stops": [
             {
@@ -480,7 +517,8 @@
                 "de": "Die Wintersonne auf den Terrassen ist ideal für ein Frühstück im Freien.",
                 "hu": "A téli napsütés a teraszokon tökéletes egy szabadtéri reggelihez.",
                 "ro": "Soarele de iarnă pe terase este ideal pentru un mic dejun în aer liber.",
-                "en": "The winter sun on the terraces is perfect for an outdoor breakfast."
+                "en": "The winter sun on the terraces is perfect for an outdoor breakfast.",
+                "es": "El sol invernal en las terrazas es perfecto para un desayuno al aire libre."
               }
             },
             {
@@ -489,7 +527,8 @@
                 "de": "Weniger Besucher im Winter bedeuten mehr Zeit vor den Haifischbecken.",
                 "hu": "A téli szezonban kevesebb a látogató, több idő jut a cápák megfigyelésére.",
                 "ro": "Mai puțini vizitatori iarna înseamnă mai mult timp în fața acvariilor.",
-                "en": "Fewer winter crowds mean more time to admire the shark tanks."
+                "en": "Fewer winter crowds mean more time to admire the shark tanks.",
+                "es": "Menos gente en invierno permite más tiempo para admirar los tanques de tiburones."
               }
             },
             {
@@ -498,7 +537,8 @@
                 "de": "Prüfen Sie die Winter-Öffnungszeiten, da diese oft verkürzt sind.",
                 "hu": "Ellenőrizze a téli nyitvatartást, mert ilyenkor korábban zárhatnak.",
                 "ro": "Verificați orarul de iarnă, deoarece programul poate fi redus.",
-                "en": "Check winter opening hours as they are often shorter than in summer."
+                "en": "Check winter opening hours as they are often shorter than in summer.",
+                "es": "Consulte los horarios de invierno, ya que suelen ser más cortos que en verano."
               }
             },
             {
@@ -507,7 +547,8 @@
                 "de": "Bringen Sie ein Picknick mit; die Wintersonne ist im Park herrlich.",
                 "hu": "Hozzon magával pikniket; a téli napsütés csodás a parkban.",
                 "ro": "Luați un pachet pentru picnic; soarele de iarnă e superb în parc.",
-                "en": "Bring a picnic; the winter sun is glorious in the park."
+                "en": "Bring a picnic; the winter sun is glorious in the park.",
+                "es": "Lleve un picnic; el sol de invierno es espléndido en el parque."
               }
             },
             {
@@ -516,7 +557,8 @@
                 "de": "Der wärmste Ort des Tages, perfekt um sich aufzuwärmen.",
                 "hu": "A nap legmelegebb pontja, tökéletes hely a felmelegedéshez.",
                 "ro": "Cel mai cald loc al zilei, perfect pentru a vă încălzi puțin.",
-                "en": "The warmest spot of the day, perfect for warming up."
+                "en": "The warmest spot of the day, perfect for warming up.",
+                "es": "El lugar más cálido del día, perfecto para entrar en calor."
               }
             }
           ],
@@ -544,6 +586,12 @@
               "Sunset is around 18:00, so plan your outdoor activities accordingly.",
               "Take advantage of quiet mornings at the marina for crowd-free photos.",
               "Coastal breezes can be chilly in winter; a light jacket is a must."
+            ],
+            "es": [
+              "Use capas, porque en la sombra hace fresco pero al sol directo se está caliente.",
+              "El atardecer es sobre las 18:00, así que planifique las actividades al aire libre en consecuencia.",
+              "Aproveche las mañanas tranquilas en la marina para fotos sin multitudes.",
+              "Las brisas costeras pueden ser frescas en invierno; una chaqueta ligera es imprescindible."
             ]
           }
         }
@@ -572,7 +620,8 @@
             "de": "Ein schöner Startpunkt für eine Fahrt entlang der Küste.",
             "hu": "Szép indulópont egy tengerparti tekeréshez.",
             "ro": "Un punct de plecare frumos pentru o tură de coastă.",
-            "en": "A beautiful starting point for a coastal ride."
+            "en": "A beautiful starting point for a coastal ride.",
+            "es": "Un bonito punto de partida para un paseo costero en bicicleta."
           }
         },
         {
@@ -590,7 +639,8 @@
             "de": "Fahrradfahren ist auf den Hauptwegen des Parks erlaubt.",
             "hu": "A biciklizés megengedett a park főbb útvonalain.",
             "ro": "Ciclismul este permis pe aleile principale ale parcului.",
-            "en": "Cycling is allowed on the main paths of the park."
+            "en": "Cycling is allowed on the main paths of the park.",
+            "es": "Se permite circular en bicicleta por los caminos principales del parque."
           }
         },
         {
@@ -608,7 +658,8 @@
             "de": "Fahren Sie mit der Seilbahn auf den Gipfel des Monte Calamorro.",
             "hu": "Utazz fel a felvonóval a Monte Calamorro csúcsára.",
             "ro": "Urcați cu telecabina pe vârful Monte Calamorro.",
-            "en": "Take the cable car to the top of Monte Calamorro."
+            "en": "Take the cable car to the top of Monte Calamorro.",
+            "es": "Suba en teleférico hasta la cima del Monte Calamorro."
           }
         },
         {
@@ -626,7 +677,8 @@
             "de": "Vorsicht, der Anstieg zum Dorf ist sehr steil.",
             "hu": "Vigyázat, a faluhoz vezető emelkedő nagyon meredek.",
             "ro": "Atenție, urcarea spre sat este foarte abruptă.",
-            "en": "Watch out, the climb to the village is very steep."
+            "en": "Watch out, the climb to the village is very steep.",
+            "es": "Cuidado, la subida al pueblo es muy empinada."
           }
         },
         {
@@ -644,7 +696,8 @@
             "de": "Einzigartige Sammlung präkolumbianischer Kunst im Herzen des Dorfes.",
             "hu": "Egyedülálló prekolumbán művészeti gyűjtemény a falu szívében.",
             "ro": "Colecție unică de artă precolumbiană în inima satului.",
-            "en": "Unique collection of pre-Columbian art in the heart of the village."
+            "en": "Unique collection of pre-Columbian art in the heart of the village.",
+            "es": "Colección única de arte precolombino en el corazón del pueblo."
           }
         }
       ],
@@ -652,7 +705,8 @@
         "de": "Diese Radtour kombiniert die Brise des Hafens mit dem Charme der Berge. Nach dem Start am Hafen und einem Besuch im grünen Parque de la Paloma führt der Weg hinauf zum alten Dorf Benalmádena Pueblo. Die Anstrengung wird mit atemberaubenden Aussichten und kulturellen Schätzen im Museum für präkolumbianische Kunst belohnt.",
         "hu": "Ez a kerékpártúra ötvözi a kikötői szellőt a hegyek bájával. A kikötői kezdés és a zöldellő Parque de la Paloma után az út felvezet Benalmádena Pueblo ódon falujába. A megerőltetést lélegzetelállító kilátás és a prekolumbán művészeti múzeum kulturális kincsei jutalmazzák.",
         "ro": "Acest tur cu bicicleta combină briza portului cu farmecul munților. După pornirea din port și o vizită în inverzitul Parque de la Paloma, drumul urcă spre satul vechi Benalmádena Pueblo. Efortul este răsplătit cu priveliști uluitoare și comori culturale în muzeul de artă precolumbiană.",
-        "en": "This bike tour combines the sea breeze of the marina with the charm of the mountains. After starting at the port and visiting the lush Parque de la Paloma, the route leads up to the old village of Benalmádena Pueblo. The effort is rewarded with breathtaking views and cultural treasures at the Pre-Columbian Art Museum."
+        "en": "This bike tour combines the sea breeze of the marina with the charm of the mountains. After starting at the port and visiting the lush Parque de la Paloma, the route leads up to the old village of Benalmádena Pueblo. The effort is rewarded with breathtaking views and cultural treasures at the Pre-Columbian Art Museum.",
+        "es": "Esta ruta en bici combina la brisa marina del puerto con el encanto de la montaña. Tras comenzar en el puerto y visitar el frondoso Parque de la Paloma, la ruta asciende hasta el antiguo pueblo de Benalmádena Pueblo. El esfuerzo se recompensa con vistas impresionantes y tesoros culturales en el Museo de Arte Precolombino."
       },
       "gastro_picks": {
         "de": [
@@ -760,6 +814,12 @@
           "An e-bike is highly recommended for the climb to the village.",
           "Stay hydrated, especially during the summer heat.",
           "Always lock your bike securely in the village."
+        ],
+        "es": [
+          "La carretera hacia el Pueblo (A-368) tiene mucho tráfico; intente usar calles laterales.",
+          "Se recomienda encarecidamente una e-bike para la subida al pueblo.",
+          "Manténgase hidratado, especialmente durante el calor veraniego.",
+          "Asegure siempre bien la bicicleta en el pueblo."
         ]
       },
       "variants": {
@@ -768,7 +828,8 @@
             "de": "Diese Radtour kombiniert die Brise des Hafens mit dem Charme der Berge. Nach dem Start am Hafen und einem Besuch im grünen Parque de la Paloma führt der Weg hinauf zum alten Dorf Benalmádena Pueblo. Die Anstrengung wird mit atemberaubenden Aussichten und kulturellen Schätzen im Museum für präkolumbianische Kunst belohnt.",
             "hu": "Ez a kerékpártúra ötvözi a kikötői szellőt a hegyek bájával. A kikötői kezdés és a zöldellő Parque de la Paloma után az út felvezet Benalmádena Pueblo ódon falujába. A megerőltetést lélegzetelállító kilátás és a prekolumbán művészeti múzeum kulturális kincsei jutalmazzák.",
             "ro": "Acest tur cu bicicleta combină briza portului cu farmecul munților. După pornirea din port și o vizită în inverzitul Parque de la Paloma, drumul urcă spre satul vechi Benalmádena Pueblo. Efortul este răsplătit cu priveliști uluitoare și comori culturale în muzeul de artă precolumbiană.",
-            "en": "This bike tour combines the sea breeze of the marina with the charm of the mountains. After starting at the port and visiting the lush Parque de la Paloma, the route leads up to the old village of Benalmádena Pueblo. The effort is rewarded with breathtaking views and cultural treasures at the Pre-Columbian Art Museum."
+            "en": "This bike tour combines the sea breeze of the marina with the charm of the mountains. After starting at the port and visiting the lush Parque de la Paloma, the route leads up to the old village of Benalmádena Pueblo. The effort is rewarded with breathtaking views and cultural treasures at the Pre-Columbian Art Museum.",
+            "es": "Esta ruta en bici combina la brisa marina del puerto con el encanto de la montaña. Tras comenzar en el puerto y visitar el frondoso Parque de la Paloma, la ruta asciende hasta el antiguo pueblo de Benalmádena Pueblo. El esfuerzo se recompensa con vistas impresionantes y tesoros culturales en el Museo de Arte Precolombino."
           },
           "stops": [
             {
@@ -777,7 +838,8 @@
                 "de": "Ein schöner Startpunkt für eine Fahrt entlang der Küste.",
                 "hu": "Szép indulópont egy tengerparti tekeréshez.",
                 "ro": "Un punct de plecare frumos pentru o tură de coastă.",
-                "en": "A beautiful starting point for a coastal ride."
+                "en": "A beautiful starting point for a coastal ride.",
+                "es": "Un bonito punto de partida para un paseo costero en bicicleta."
               }
             },
             {
@@ -786,7 +848,8 @@
                 "de": "Fahrradfahren ist auf den Hauptwegen des Parks erlaubt.",
                 "hu": "A biciklizés megengedett a park főbb útvonalain.",
                 "ro": "Ciclismul este permis pe aleile principale ale parcului.",
-                "en": "Cycling is allowed on the main paths of the park."
+                "en": "Cycling is allowed on the main paths of the park.",
+                "es": "Se permite circular en bicicleta por los caminos principales del parque."
               }
             },
             {
@@ -795,7 +858,8 @@
                 "de": "Fahren Sie mit der Seilbahn auf den Gipfel des Monte Calamorro.",
                 "hu": "Utazz fel a felvonóval a Monte Calamorro csúcsára.",
                 "ro": "Urcați cu telecabina pe vârful Monte Calamorro.",
-                "en": "Take the cable car to the top of Monte Calamorro."
+                "en": "Take the cable car to the top of Monte Calamorro.",
+                "es": "Suba en teleférico hasta la cima del Monte Calamorro."
               }
             },
             {
@@ -804,7 +868,8 @@
                 "de": "Vorsicht, der Anstieg zum Dorf ist sehr steil.",
                 "hu": "Vigyázat, a faluhoz vezető emelkedő nagyon meredek.",
                 "ro": "Atenție, urcarea spre sat este foarte abruptă.",
-                "en": "Watch out, the climb to the village is very steep."
+                "en": "Watch out, the climb to the village is very steep.",
+                "es": "Cuidado, la subida al pueblo es muy empinada."
               }
             },
             {
@@ -813,7 +878,8 @@
                 "de": "Einzigartige Sammlung präkolumbianischer Kunst im Herzen des Dorfes.",
                 "hu": "Egyedülálló prekolumbán művészeti gyűjtemény a falu szívében.",
                 "ro": "Colecție unică de artă precolumbiană în inima satului.",
-                "en": "Unique collection of pre-Columbian art in the heart of the village."
+                "en": "Unique collection of pre-Columbian art in the heart of the village.",
+                "es": "Colección única de arte precolombino en el corazón del pueblo."
               }
             }
           ],
@@ -923,6 +989,12 @@
               "An e-bike is highly recommended for the climb to the village.",
               "Stay hydrated, especially during the summer heat.",
               "Always lock your bike securely in the village."
+            ],
+            "es": [
+              "La carretera hacia el Pueblo (A-368) tiene mucho tráfico; intente usar calles laterales.",
+              "Se recomienda encarecidamente una e-bike para la subida al pueblo.",
+              "Manténgase hidratado, especialmente durante el calor veraniego.",
+              "Asegure siempre bien la bicicleta en el pueblo."
             ]
           }
         },
@@ -931,7 +1003,8 @@
             "de": "Wir starten unsere Radtour am Hafen, wo der Asphalt bei Regen glänzt. Die Fahrt zum Parque de la Paloma ist kurz, aber wir müssen auf Pfützen achten.\nMittags erreichen wir die Seilbahn, die bei starkem Wind den Betrieb einstellen kann – ein guter Moment für eine Pause im Trockenen. Der Anstieg nach Benalmádena Pueblo fordert uns bei feuchtem Wetter heraus.\nIm Dorf angekommen, suchen wir Schutz in den engen Gassen und besuchen das archäologische Museum. Die Rückfahrt bergab zur Küste erfordert volle Konzentration bei nasser Fahrbahn.",
             "hu": "A kikötőben kezdjük a tekerést, ahol az aszfalt csillog az esőben. A Paloma parkig tartó szakasz rövid, de figyelnünk kell a tócsákra.\nDélben érünk a felvonóhoz, ami erős szélben leállhat – ilyenkor tartsunk egy száraz pihenőt. A Pueblo felé tartó emelkedő nedves időben nagyobb kihívás.\nA faluba érve a szűk utcák védelmébe húzódunk, és meglátogatjuk a múzeumot. A tengerpartra való legurulás vizes úton teljes koncentrációt igényel.",
             "ro": "Începem tura cu bicicleta în port, unde asfaltul strălucește sub ploaie. Drumul spre Parque de la Paloma e scurt, dar atenție la bălți.\nLa prânz ajungem la teleferic, care se poate opri la vânt puternic – un moment bun pentru o pauză la adăpost. Urcarea spre Pueblo e solicitantă pe vreme umedă.\nOdată ajunși în sat, căutăm protecția străduțelor înguste și vizităm muzeul. Coborârea spre coastă necesită concentrare maximă pe carosabilul ud.",
-            "en": "We start our bike ride at the harbor, where the asphalt glistens in the rain. The ride to Parque de la Paloma is short, but we must watch out for puddles.\nAt noon we reach the cable car, which might close in high winds—a good time for a dry break. The climb to Benalmádena Pueblo is more challenging in damp weather.\nIn the village, we find shelter in the narrow streets and visit the museum. The downhill ride back to the coast requires full focus on the wet roads."
+            "en": "We start our bike ride at the harbor, where the asphalt glistens in the rain. The ride to Parque de la Paloma is short, but we must watch out for puddles.\nAt noon we reach the cable car, which might close in high winds—a good time for a dry break. The climb to Benalmádena Pueblo is more challenging in damp weather.\nIn the village, we find shelter in the narrow streets and visit the museum. The downhill ride back to the coast requires full focus on the wet roads.",
+            "es": "Comenzamos nuestro recorrido en bici en el puerto, donde el asfalto reluce con la lluvia. La ruta hasta el Parque de la Paloma es corta, pero debemos vigilar los charcos.\nAl mediodía llegamos al teleférico, que podría cerrar con vientos fuertes; es un buen momento para una pausa en seco. La subida a Benalmádena Pueblo es más exigente con la humedad.\nEn el pueblo buscamos refugio en las calles estrechas y visitamos el museo. La bajada hacia la costa requiere máxima atención por las carreteras mojadas."
           },
           "stops": [
             {
@@ -940,7 +1013,8 @@
                 "de": "Vorsicht auf den weißen Fliesen, sie sind bei Nässe extrem rutschig.",
                 "hu": "Vigyázat a fehér kövezeten, nedvesen rendkívül csúszós biciklivel.",
                 "ro": "Atenție pe plăcile albe, sunt extrem de alunecoase când sunt ude.",
-                "en": "Watch out on the white tiles; they are extremely slippery when wet."
+                "en": "Watch out on the white tiles; they are extremely slippery when wet.",
+                "es": "Cuidado con las baldosas blancas; son extremadamente resbaladizas con humedad."
               }
             },
             {
@@ -949,7 +1023,8 @@
                 "de": "Fahren Sie langsam, um Fußgänger mit Regenschirmen nicht zu gefährden.",
                 "hu": "Hajtson lassan, vigyázzon az esernyővel közlekedő gyalogosokra.",
                 "ro": "Circulați cu viteză redusă pentru a nu stropi pietonii cu umbrele.",
-                "en": "Ride slowly and watch out for pedestrians with umbrellas."
+                "en": "Ride slowly and watch out for pedestrians with umbrellas.",
+                "es": "Circule despacio y atienda a los peatones con paraguas."
               }
             },
             {
@@ -958,7 +1033,8 @@
                 "de": "Bei Regen ist die Sicht oben oft durch Wolken eingeschränkt.",
                 "hu": "Esőben a kilátás fentről gyakran korlátozott a felhők miatt.",
                 "ro": "Pe ploaie, vizibilitatea de sus este adesea limitată de nori.",
-                "en": "In rain, the view from the top is often obscured by clouds."
+                "en": "In rain, the view from the top is often obscured by clouds.",
+                "es": "Con lluvia, la vista desde la cima suele quedar cubierta por nubes."
               }
             },
             {
@@ -967,7 +1043,8 @@
                 "de": "Das Kopfsteinpflaster im Dorf erfordert vorsichtiges Bremsen.",
                 "hu": "A faluban a macskaköves utcákon óvatosan használja a fékeket.",
                 "ro": "Pavelele din sat necesită frânări foarte prudente pe ploaie.",
-                "en": "The cobblestones in the village require very careful braking."
+                "en": "The cobblestones in the village require very careful braking.",
+                "es": "Los adoquines del pueblo requieren frenar con mucha precaución."
               }
             },
             {
@@ -976,7 +1053,8 @@
                 "de": "Fahrradständer befinden sich in der Nähe des Eingangs unter Bäumen.",
                 "hu": "A kerékpártárolók a bejárat közelében, fák alatt találhatók.",
                 "ro": "Rastelurile de biciclete sunt lângă intrare, sub copaci.",
-                "en": "Bike racks are located near the entrance under the trees."
+                "en": "Bike racks are located near the entrance under the trees.",
+                "es": "Los aparcabicis están junto a la entrada, bajo los árboles."
               }
             }
           ],
@@ -1004,6 +1082,12 @@
               "The promenade has many smooth, slippery sections; ride extra carefully here.",
               "Benalmádena Pueblo is elevated; it can be noticeably cooler up there in the rain.",
               "Check if the cable car is running before heading there in windy or rainy weather."
+            ],
+            "es": [
+              "Use guardabarros para protegerse del salpicado de la carretera.",
+              "El paseo tiene muchos tramos lisos y resbaladizos; circule con mayor cuidado aquí.",
+              "Benalmádena Pueblo está en altura; puede sentirse notablemente más fresco allí con lluvia.",
+              "Compruebe si el teleférico funciona antes de dirigirse en tiempo ventoso o lluvioso."
             ]
           }
         },
@@ -1012,7 +1096,8 @@
             "de": "Ein strahlender Wintermorgen ist ideal für die Küstenfahrt ab Puerto Marina. Der Wind ist frisch, aber die Sonne wärmt den Rücken auf dem Weg zum Park.\nMittags bringt uns die Seilbahn auf den Mount Calamorro, wo die Winterluft eine unglaubliche Fernsicht bis nach Afrika ermöglicht. Danach radeln wir hinauf zum weißen Dorf.\nIm Pueblo genießen wir die andalusische Sonne in einer windgeschützten Ecke. Der Besuch des Museums rundet den kulturellen Nachmittag ab, bevor wir in der Dämmerung zurückfahren.",
             "hu": "Egy ragyogó téli délelőtt ideális a parti tekeréshez a kikötőtől indulva. A szél friss, de a nap melegíti a hátunkat a park felé vezető úton.\nDélben a felvonó felvisz minket a Calamorro-hegyre, ahol a tiszta téli levegőben ellátni egészen Afrikáig. Ezután feltekerünk a fehér faluba.\nA Pueblóban egy szélvédett sarokban élvezzük az andalúz napsütést. A múzeumlátogatás teszi teljessé a kulturális délutánt, mielőtt szürkületben visszaindulnánk.",
             "ro": "O dimineață senină de iarnă e perfectă pentru o tură pe coastă din port. Vântul e proaspăt, dar soarele ne încălzește spatele în drum spre parc.\nLa prânz, telefericul ne urcă pe muntele Calamorro, unde aerul curat oferă o vizibilitate incredibilă până în Africa. Apoi pedalăm spre satul alb.\nÎn Pueblo savurăm soarele andaluz într-un loc ferit de vânt. Vizita la muzeu completează după-amiaza culturală înainte de a coborî la amurg.",
-            "en": "A bright winter morning is ideal for a coastal ride starting from the marina. The wind is fresh, but the sun warms our backs as we head to the park.\nAt noon, the cable car takes us up Mount Calamorro, where the crisp winter air allows for incredible views across to Africa. Then, we cycle up to the white village.\nIn the Pueblo, we enjoy the Andalusian sun in a sheltered spot. A visit to the museum rounds off the cultural afternoon before we head back at dusk."
+            "en": "A bright winter morning is ideal for a coastal ride starting from the marina. The wind is fresh, but the sun warms our backs as we head to the park.\nAt noon, the cable car takes us up Mount Calamorro, where the crisp winter air allows for incredible views across to Africa. Then, we cycle up to the white village.\nIn the Pueblo, we enjoy the Andalusian sun in a sheltered spot. A visit to the museum rounds off the cultural afternoon before we head back at dusk.",
+            "es": "Una brillante mañana de invierno es ideal para una ruta costera desde la marina. El viento es fresco, pero el sol calienta la espalda mientras vamos hacia el parque.\nAl mediodía, el teleférico nos sube al Monte Calamorro, donde el aire invernal permite vistas increíbles hasta África. Luego, subimos en bici hasta el pueblo blanco.\nEn el Pueblo disfrutamos del sol andaluz en un lugar resguardado. Una visita al museo completa la tarde cultural antes de regresar al anochecer."
           },
           "stops": [
             {
@@ -1021,7 +1106,8 @@
                 "de": "Starten Sie nach 10:00 Uhr, wenn die Sonne die Luft bereits erwärmt hat.",
                 "hu": "Induljon 10:00 után, amikor a nap már kicsit felmelegítette a levegőt.",
                 "ro": "Porniți după ora 10:00, când soarele a început să încălzească aerul.",
-                "en": "Start after 10:00 AM once the sun has warmed up the air a bit."
+                "en": "Start after 10:00 AM once the sun has warmed up the air a bit.",
+                "es": "Empiece después de las 10:00, una vez que el sol haya templado un poco el ambiente."
               }
             },
             {
@@ -1030,7 +1116,8 @@
                 "de": "Sonnige Plätze an der Westseite des Parks sind im Winter am wärmsten.",
                 "hu": "A park nyugati oldalán lévő napos helyek a legmelegebbek télen.",
                 "ro": "Locurile însorite din vestul parcului sunt cele mai calde iarna.",
-                "en": "Sunny spots on the west side of the park are the warmest in winter."
+                "en": "Sunny spots on the west side of the park are the warmest in winter.",
+                "es": "Los puntos soleados en el lado oeste del parque son los más cálidos en invierno."
               }
             },
             {
@@ -1039,7 +1126,8 @@
                 "de": "Oben auf dem Berg ist es deutlich kälter; Handschuhe sind beim Radeln ratsam.",
                 "hu": "A hegytetőn jóval hidegebb van; a lefelé úton a kesztyű ajánlott.",
                 "ro": "Sus pe munte e mult mai frig; mănușile sunt recomandate pentru coborâre.",
-                "en": "It's much colder on the mountain top; gloves are advised for the ride."
+                "en": "It's much colder on the mountain top; gloves are advised for the ride.",
+                "es": "Hace mucho más frío en la cima de la montaña; se recomiendan guantes para el trayecto."
               }
             },
             {
@@ -1048,7 +1136,8 @@
                 "de": "Genießen Sie einen Kaffee in der Sonne auf der Plaza de las Tres Culturas.",
                 "hu": "Igyon meg egy kávét a napon a Plaza de las Tres Culturas téren.",
                 "ro": "Savurați o cafea la soare în Plaza de las Tres Culturas.",
-                "en": "Enjoy a coffee in the sun at Plaza de las Tres Culturas."
+                "en": "Enjoy a coffee in the sun at Plaza de las Tres Culturas.",
+                "es": "Disfrute de un café al sol en la Plaza de las Tres Culturas."
               }
             },
             {
@@ -1057,7 +1146,8 @@
                 "de": "Ein guter Ort, um sich zwischen den Fahrten kulturell aufzuwärmen.",
                 "hu": "Kiváló hely egy kis kulturális felmelegedéshez két tekerés között.",
                 "ro": "Un loc bun pentru o pauză culturală la căldură între drumuri.",
-                "en": "A great place for a cultural warm-up between rides."
+                "en": "A great place for a cultural warm-up between rides.",
+                "es": "Un gran lugar para un calentamiento cultural entre recorridos."
               }
             }
           ],
@@ -1085,6 +1175,12 @@
               "Use the midday sun for the strenuous climb up to the village.",
               "Front and rear lights are essential as it gets dark early in winter.",
               "A neck warmer protects you from the cold wind while cycling along the coast."
+            ],
+            "es": [
+              "Las bajadas desde el Pueblo pueden ser muy frías por el viento invernal.",
+              "Aproveche el sol del mediodía para la subida exigente al pueblo.",
+              "Luces delanteras y traseras son esenciales, ya que anochece pronto en invierno.",
+              "Una braga de cuello le protege del viento frío al pedalear por la costa."
             ]
           }
         }
@@ -1113,7 +1209,8 @@
             "de": "Ein bizarres Denkmal für Kolumbus in Form einer Burg.",
             "hu": "Bizar emlékmű Kolumbusznak, várkastély formájában.",
             "ro": "Un monument bizar dedicat lui Columb sub forma unui castel.",
-            "en": "A bizarre monument to Columbus in the shape of a castle."
+            "en": "A bizarre monument to Columbus in the shape of a castle.",
+            "es": "Un monumento bizantino a Colón con forma de castillo."
           }
         },
         {
@@ -1131,7 +1228,8 @@
             "de": "Parken Sie am Dorfeingang und erkunden Sie die Gassen zu Fuß.",
             "hu": "Parkolj a falu bejáratánál és gyalog fedezd fel a szűk utcákat.",
             "ro": "Parcați la intrarea în sat și explorați străduțele pe jos.",
-            "en": "Park at the village entrance and explore the narrow streets on foot."
+            "en": "Park at the village entrance and explore the narrow streets on foot.",
+            "es": "Aparque en la entrada del pueblo y explore las calles estrechas a pie."
           }
         },
         {
@@ -1149,7 +1247,8 @@
             "de": "Die größte buddhistische Stupa der westlichen Welt.",
             "hu": "A nyugati világ legnagyobb buddhista sztúpája.",
             "ro": "Cea mai mare stupa budistă din lumea occidentală.",
-            "en": "The largest Buddhist stupa in the Western world."
+            "en": "The largest Buddhist stupa in the Western world.",
+            "es": "La estupa budista más grande del mundo occidental."
           }
         },
         {
@@ -1167,7 +1266,8 @@
             "de": "Direkt neben der Stupa gelegen, gemeinsamer Parkplatz.",
             "hu": "Közvetlenül a Sztúpa mellett, közös parkolóval.",
             "ro": "Situat chiar lângă Stupa, parcare comună.",
-            "en": "Located right next to the Stupa, shared parking lot."
+            "en": "Located right next to the Stupa, shared parking lot.",
+            "es": "Situado junto a la Stupa, hay un aparcamiento compartido."
           }
         },
         {
@@ -1185,7 +1285,8 @@
             "de": "Nutzen Sie das Parkhaus unter dem Hafen für stressfreies Parken.",
             "hu": "Használd a kikötő alatti parkolóházat a stresszmentes parkoláshoz.",
             "ro": "Folosiți parcarea subterană din port pentru a evita stresul.",
-            "en": "Use the underground parking garage at the marina for stress-free parking."
+            "en": "Use the underground parking garage at the marina for stress-free parking.",
+            "es": "Use el parking subterráneo de la marina para aparcar sin estrés."
           }
         },
         {
@@ -1203,7 +1304,8 @@
             "de": "Ein schöner Abschluss des Tages am Meer.",
             "hu": "A nap szép lezárása a tengerparton.",
             "ro": "O încheiere frumoasă a zilei la malul mării.",
-            "en": "A nice end to the day by the sea."
+            "en": "A nice end to the day by the sea.",
+            "es": "Un buen final del día junto al mar."
           }
         }
       ],
@@ -1211,7 +1313,8 @@
         "de": "Mit dem Auto erkunden Sie die spektakulären Sehenswürdigkeiten in den Hügeln. Beginnen Sie beim märchenhaften Castillo de Colomares und dem malerischen Dorf. Danach besuchen Sie die majestätische Stupa und den Schmetterlingspark. Den Nachmittag verbringen Sie wieder an der Küste im luxuriösen Yachthafen Puerto Marina und dem Sea Life Aquarium.",
         "hu": "Autóval könnyedén felfedezheted a dombokon fekvő látványosságokat. Kezdj a mesebeli Castillo de Colomaresnél és a festői falunál. Ezután látogasd meg a fenséges Sztúpát és a lepkeházat. A délutánt ismét a parton töltheted, a luxus Puerto Marina kikötőben és a Sea Life akváriumban.",
         "ro": "Cu mașina puteți explora atracțiile spectaculoase din dealuri. Începeți la castelul de poveste Colomares și la satul pitoresc. Apoi vizitați Stupa maiestuoasă și casa fluturilor. După-amiaza vă întoarceți pe coastă, în luxosul port Puerto Marina și la acvariul Sea Life.",
-        "en": "By car, you can easily explore the spectacular sights in the hills. Start at the fairytale Castillo de Colomares and the picturesque village. Then visit the majestic Stupa and the Butterfly Park. Spend the afternoon back on the coast in the luxurious Puerto Marina and the Sea Life aquarium."
+        "en": "By car, you can easily explore the spectacular sights in the hills. Start at the fairytale Castillo de Colomares and the picturesque village. Then visit the majestic Stupa and the Butterfly Park. Spend the afternoon back on the coast in the luxurious Puerto Marina and the Sea Life aquarium.",
+        "es": "En coche puede explorar fácilmente los espectaculares puntos en las colinas. Empiece en el de cuento Castillo de Colomares y el pintoresco pueblo. Luego visite la majestuosa Stupa y el Mariposario. Pase la tarde de nuevo en la costa en el lujoso Puerto Marina y el acuario Sea Life."
       },
       "gastro_picks": {
         "de": [
@@ -1319,6 +1422,12 @@
           "The road from the coast to the village is winding.",
           "Watch out for blue zones (paid on-street parking).",
           "Combine the Stupa and Butterfly Park as they are right next to each other."
+        ],
+        "es": [
+          "Encontrar aparcamiento en el Pueblo puede ser complicado en verano.",
+          "La carretera desde la costa hasta el pueblo es sinuosa.",
+          "Tenga cuidado con las zonas azules (estacionamiento de pago en vía pública).",
+          "Combine la Stupa y el Mariposario, ya que están uno junto al otro."
         ]
       },
       "variants": {
@@ -1327,7 +1436,8 @@
             "de": "Mit dem Auto erkunden Sie die spektakulären Sehenswürdigkeiten in den Hügeln. Beginnen Sie beim märchenhaften Castillo de Colomares und dem malerischen Dorf. Danach besuchen Sie die majestätische Stupa und den Schmetterlingspark. Den Nachmittag verbringen Sie wieder an der Küste im luxuriösen Yachthafen Puerto Marina und dem Sea Life Aquarium.",
             "hu": "Autóval könnyedén felfedezheted a dombokon fekvő látványosságokat. Kezdj a mesebeli Castillo de Colomaresnél és a festői falunál. Ezután látogasd meg a fenséges Sztúpát és a lepkeházat. A délutánt ismét a parton töltheted, a luxus Puerto Marina kikötőben és a Sea Life akváriumban.",
             "ro": "Cu mașina puteți explora atracțiile spectaculoase din dealuri. Începeți la castelul de poveste Colomares și la satul pitoresc. Apoi vizitați Stupa maiestuoasă și casa fluturilor. După-amiaza vă întoarceți pe coastă, în luxosul port Puerto Marina și la acvariul Sea Life.",
-            "en": "By car, you can easily explore the spectacular sights in the hills. Start at the fairytale Castillo de Colomares and the picturesque village. Then visit the majestic Stupa and the Butterfly Park. Spend the afternoon back on the coast in the luxurious Puerto Marina and the Sea Life aquarium."
+            "en": "By car, you can easily explore the spectacular sights in the hills. Start at the fairytale Castillo de Colomares and the picturesque village. Then visit the majestic Stupa and the Butterfly Park. Spend the afternoon back on the coast in the luxurious Puerto Marina and the Sea Life aquarium.",
+            "es": "En coche puedes explorar fácilmente los espectaculares lugares en las colinas. Empieza en el de cuento Castillo de Colomares y el pintoresco pueblo. Luego visita la majestuosa Stupa y el Mariposario. Pasa la tarde de vuelta en la costa en el lujoso Puerto Marina y el acuario Sea Life."
           },
           "stops": [
             {
@@ -1336,7 +1446,8 @@
                 "de": "Ein bizarres Denkmal für Kolumbus in Form einer Burg.",
                 "hu": "Bizar emlékmű Kolumbusznak, várkastély formájában.",
                 "ro": "Un monument bizar dedicat lui Columb sub forma unui castel.",
-                "en": "A bizarre monument to Columbus in the shape of a castle."
+                "en": "A bizarre monument to Columbus in the shape of a castle.",
+                "es": "Un monumento bizarro a Colón con forma de castillo."
               }
             },
             {
@@ -1345,7 +1456,8 @@
                 "de": "Parken Sie am Dorfeingang und erkunden Sie die Gassen zu Fuß.",
                 "hu": "Parkolj a falu bejáratánál és gyalog fedezd fel a szűk utcákat.",
                 "ro": "Parcați la intrarea în sat și explorați străduțele pe jos.",
-                "en": "Park at the village entrance and explore the narrow streets on foot."
+                "en": "Park at the village entrance and explore the narrow streets on foot.",
+                "es": "Aparca en la entrada del pueblo y explora las estrechas calles a pie."
               }
             },
             {
@@ -1354,7 +1466,8 @@
                 "de": "Die größte buddhistische Stupa der westlichen Welt.",
                 "hu": "A nyugati világ legnagyobb buddhista sztúpája.",
                 "ro": "Cea mai mare stupa budistă din lumea occidentală.",
-                "en": "The largest Buddhist stupa in the Western world."
+                "en": "The largest Buddhist stupa in the Western world.",
+                "es": "La stupa budista más grande del mundo occidental."
               }
             },
             {
@@ -1363,7 +1476,8 @@
                 "de": "Direkt neben der Stupa gelegen, gemeinsamer Parkplatz.",
                 "hu": "Közvetlenül a Sztúpa mellett, közös parkolóval.",
                 "ro": "Situat chiar lângă Stupa, parcare comună.",
-                "en": "Located right next to the Stupa, shared parking lot."
+                "en": "Located right next to the Stupa, shared parking lot.",
+                "es": "Situado justo al lado de la Stupa, aparcamiento compartido."
               }
             },
             {
@@ -1372,7 +1486,8 @@
                 "de": "Nutzen Sie das Parkhaus unter dem Hafen für stressfreies Parken.",
                 "hu": "Használd a kikötő alatti parkolóházat a stresszmentes parkoláshoz.",
                 "ro": "Folosiți parcarea subterană din port pentru a evita stresul.",
-                "en": "Use the underground parking garage at the marina for stress-free parking."
+                "en": "Use the underground parking garage at the marina for stress-free parking.",
+                "es": "Utiliza el aparcamiento subterráneo del puerto para aparcar sin estrés."
               }
             },
             {
@@ -1381,7 +1496,8 @@
                 "de": "Ein schöner Abschluss des Tages am Meer.",
                 "hu": "A nap szép lezárása a tengerparton.",
                 "ro": "O încheiere frumoasă a zilei la malul mării.",
-                "en": "A nice end to the day by the sea."
+                "en": "A nice end to the day by the sea.",
+                "es": "Un buen final del día junto al mar."
               }
             }
           ],
@@ -1491,6 +1607,12 @@
               "The road from the coast to the village is winding.",
               "Watch out for blue zones (paid on-street parking).",
               "Combine the Stupa and Butterfly Park as they are right next to each other."
+            ],
+            "es": [
+              "Encontrar aparcamiento en el Pueblo puede ser un reto en verano.",
+              "La carretera desde la costa hasta el pueblo es sinuosa.",
+              "Cuidado con las zonas azules (estacionamiento de pago en la calle).",
+              "Combina la Stupa y el Mariposario porque están justo uno al lado del otro."
             ]
           }
         },
@@ -1499,7 +1621,8 @@
             "de": "Wir starten trocken im Auto und fahren zum Castillo de Colomares, das im Regen fast wie ein verwunschenes Schloss wirkt. Weiter geht es hinauf zum Pueblo, wo wir bequem in der Nähe des Zentrums parken.\nMittags besuchen wir die Erleuchtungs-Stupa und das Mariposario direkt daneben – beide bieten exzellente Möglichkeiten, dem Wetter zu entkommen. Das Auto bleibt auf dem nahen Parkplatz.\nAm Nachmittag fahren wir zurück zur Küste zur Puerto Marina. Ein kurzer Sprint vom Parkhaus bringt uns zum Sea Life, wo wir den restlichen Tag im Trockenen verbringen können.",
             "hu": "Szárazon, autóval indulunk a Colomares várhoz, ami esőben szinte elvarázsolt kastélynak tűnik. Ezután felhajtunk a Pueblóba, ahol kényelmesen parkolunk a központ közelében.\nDélben a Sztúpát és a mellette lévő Pillangóparkot keressük fel – mindkettő remek menedék az eső elől. Az autó a közeli parkolóban vár minket.\nDélután visszatérünk a partra, a kikötőbe. A parkolóházból egy gyors sprinttel elérjük a Sea Life bejáratát, ahol a nap hátralévő részét fedett helyen tölthetjük.",
             "ro": "Pornim confortabil cu mașina spre Castillo de Colomares, care pe ploaie arată ca un castel vrăjit. Continuăm spre Pueblo, unde parcăm aproape de centru.\nLa prânz vizităm Stupa și Mariposario de lângă ea – ambele oferă opțiuni excelente pentru a scăpa de ploaie. Mașina rămâne în parcarea din apropiere.\nDupă-amiaza coborâm la Puerto Marina. Un scurt sprint din parcare ne duce la Sea Life, unde putem petrece restul zilei la adăpost.",
-            "en": "We start dry in the car and drive to Castillo de Colomares, which looks like an enchanted castle in the rain. We continue up to the Pueblo, parking conveniently near the center.\nAt noon, we visit the Stupa and the adjacent Butterfly Park—both offer excellent ways to escape the weather. The car stays in the nearby parking lot.\nIn the afternoon, we drive back to the coast to Puerto Marina. A quick sprint from the parking garage leads to Sea Life, where we can spend the rest of the day indoors."
+            "en": "We start dry in the car and drive to Castillo de Colomares, which looks like an enchanted castle in the rain. We continue up to the Pueblo, parking conveniently near the center.\nAt noon, we visit the Stupa and the adjacent Butterfly Park—both offer excellent ways to escape the weather. The car stays in the nearby parking lot.\nIn the afternoon, we drive back to the coast to Puerto Marina. A quick sprint from the parking garage leads to Sea Life, where we can spend the rest of the day indoors.",
+            "es": "Comenzamos secos en el coche y conducimos hasta Castillo de Colomares, que parece un castillo encantado bajo la lluvia. Seguimos hasta el Pueblo, aparcando cómodamente cerca del centro.\nAl mediodía visitamos la Stupa y el Mariposario adyacente: ambos ofrecen excelentes maneras de refugiarse del mal tiempo. El coche queda en el aparcamiento cercano.\nPor la tarde volvemos a la costa hasta Puerto Marina. Una rápida carrera desde el parking lleva a Sea Life, donde podemos pasar el resto del día en interior."
           },
           "stops": [
             {
@@ -1508,7 +1631,8 @@
                 "de": "Vorsicht auf den Treppen des Schlosses, sie können rutschig sein.",
                 "hu": "Vigyázzon a vár lépcsőin, mert esőben csúszóssá válhatnak.",
                 "ro": "Atenție pe scările castelului, pot fi alunecoase când sunt ude.",
-                "en": "Be careful on the castle stairs; they can be slippery when wet."
+                "en": "Be careful on the castle stairs; they can be slippery when wet.",
+                "es": "Ten cuidado en las escaleras del castillo; pueden estar resbaladizas cuando están mojadas."
               }
             },
             {
@@ -1517,7 +1641,8 @@
                 "de": "Nutzen Sie das öffentliche Parkhaus unter der Plaza de Toros.",
                 "hu": "Használja a Plaza de Toros alatti nyilvános parkolóházat.",
                 "ro": "Folosiți parcarea publică subterană de lângă Plaza de Toros.",
-                "en": "Use the public underground parking garage near Plaza de Toros."
+                "en": "Use the public underground parking garage near Plaza de Toros.",
+                "es": "Usa el aparcamiento público subterráneo cerca de la Plaza de Toros."
               }
             },
             {
@@ -1526,7 +1651,8 @@
                 "de": "Der Innenraum der Stupa ist ein friedlicher und trockener Ort.",
                 "hu": "A Sztúpa belső tere békés és teljesen száraz helyszín.",
                 "ro": "Interiorul Stupei este un loc liniștit și ferit de ploaie.",
-                "en": "The interior of the Stupa is a peaceful and dry sanctuary."
+                "en": "The interior of the Stupa is a peaceful and dry sanctuary.",
+                "es": "El interior de la Stupa es un santuario tranquilo y seco."
               }
             },
             {
@@ -1535,7 +1661,8 @@
                 "de": "Ideales Ziel direkt neben der Stupa, Parkplätze sind direkt davor.",
                 "hu": "Ideális célpont a Sztúpa mellett, parkolók közvetlenül előtte találhatók.",
                 "ro": "Destinație ideală lângă Stupa, locurile de parcare sunt chiar în față.",
-                "en": "Ideal stop right next to the Stupa; parking is available right in front."
+                "en": "Ideal stop right next to the Stupa; parking is available right in front.",
+                "es": "Parada ideal justo al lado de la Stupa; hay aparcamiento justo en frente."
               }
             },
             {
@@ -1544,7 +1671,8 @@
                 "de": "Parken Sie im zentralen Parkhaus, um Regenwege zu minimieren.",
                 "hu": "Parkoljon a központi parkolóházban a gyaloglás lerövidítéséhez.",
                 "ro": "Parcați în garajul central pentru a minimiza mersul prin ploaie.",
-                "en": "Park in the central parking garage to minimize walking in the rain."
+                "en": "Park in the central parking garage to minimize walking in the rain.",
+                "es": "Aparca en el parking central para minimizar caminar bajo la lluvia."
               }
             },
             {
@@ -1553,7 +1681,8 @@
                 "de": "Vom Parkplatz am Hafen sind es nur wenige Schritte bis zum Eingang.",
                 "hu": "A kikötői parkolótól csak pár lépésnyire van a bejárat.",
                 "ro": "De la parcarea din port sunt doar câțiva pași până la intrare.",
-                "en": "It's only a few steps from the harbor parking lot to the entrance."
+                "en": "It's only a few steps from the harbor parking lot to the entrance.",
+                "es": "Solo son unos pasos desde el aparcamiento del puerto hasta la entrada."
               }
             }
           ],
@@ -1581,6 +1710,12 @@
               "Parking garages are often less crowded in winter and keep the car dry.",
               "Visibility on the mountain road to the Pueblo can be limited during rain.",
               "Use the window defroster to prevent the windshield from fogging up."
+            ],
+            "es": [
+              "Evita la N-340 durante lluvias intensas por riesgo de aquaplaning.",
+              "Los parkings suelen estar menos concurridos en invierno y mantienen el coche seco.",
+              "La visibilidad en la carretera de montaña al Pueblo puede ser limitada con lluvia.",
+              "Usa el desempañador de las ventanas para evitar que el parabrisas se empañe."
             ]
           }
         },
@@ -1589,7 +1724,8 @@
             "de": "Wir nutzen den sonnigen Wintermorgen für eine Fahrt zum Castillo de Colomares. Bei klarem Licht kommen die architektonischen Details wunderbar zur Geltung.\nMittags erkunden wir Benalmádena Pueblo. Das Auto parken wir bequem am Rand und spazieren durch die blumengeschmückten Gassen zur Stupa, wo die Aussicht im Winter am schärfsten ist.\nNach dem Besuch im Mariposario fahren wir hinunter zur Puerto Marina. Die Parkplatzsuche am Hafen ist im Winter deutlich entspannter als in der Hochsaison.\nWir beenden den Tag im Sea Life und genießen den Sonnenuntergang über dem Hafen, bevor wir bequem mit dem Auto die Heimreise antreten.",
             "hu": "A napos téli délelőttöt a Colomares vár meglátogatására használjuk. A tiszta fényben az építészeti részletek csodásan érvényesülnek.\nDélben Benalmádena Pueblót fedezzük fel. Az autót kényelmesen a szélen hagyjuk, és a virágos utcákon átsétálunk a Sztúpához, ahonnan a téli kilátás a legélesebb.\nA Pillangópark után lehajtunk a kikötőbe. A parkolóhely-keresés télen sokkal egyszerűbb, mint a főszezonban.\nA napot a Sea Life-ban zárjuk, majd megcsodáljuk a kikötő feletti naplementét, mielőtt autóval kényelmesen hazaindulnánk.",
             "ro": "Profităm de dimineața însorită de iarnă pentru o vizită la Castillo de Colomares. Detaliile arhitecturale se văd superb în lumina clară.\nLa prânz explorăm Benalmádena Pueblo. Parcăm mașina la marginea satului și ne plimbăm spre Stupa, unde vizibilitatea este maximă iarna.\nDupă Mariposario coborâm spre Puerto Marina. Găsirea unui loc de parcare în port este mult mai relaxată iarna decât în plin sezon.\nÎncheiem ziua la Sea Life și admirăm apusul peste port înainte de a porni spre casă cu mașina.",
-            "en": "We take advantage of the sunny winter morning for a drive to Castillo de Colomares. The architectural details stand out beautifully in the crisp light.\nAt noon, we explore Benalmádena Pueblo. We park easily on the outskirts and walk through the flower-lined streets to the Stupa, where winter views are sharpest.\nAfter the Butterfly Park, we drive down to Puerto Marina. Finding a parking spot at the harbor is much more relaxed in winter than in high season.\nWe end the day at Sea Life and enjoy the sunset over the marina before heading home comfortably by car."
+            "en": "We take advantage of the sunny winter morning for a drive to Castillo de Colomares. The architectural details stand out beautifully in the crisp light.\nAt noon, we explore Benalmádena Pueblo. We park easily on the outskirts and walk through the flower-lined streets to the Stupa, where winter views are sharpest.\nAfter the Butterfly Park, we drive down to Puerto Marina. Finding a parking spot at the harbor is much more relaxed in winter than in high season.\nWe end the day at Sea Life and enjoy the sunset over the marina before heading home comfortably by car.",
+            "es": "Aprovechamos la soleada mañana de invierno para un paseo en coche hasta Castillo de Colomares. Los detalles arquitectónicos resaltan maravillosamente con la luz nítida.\nAl mediodía exploramos Benalmádena Pueblo. Aparcamos fácilmente en las afueras y caminamos por las calles llenas de flores hasta la Stupa, donde las vistas invernales son más nítidas.\nTras el Mariposario bajamos a Puerto Marina. Encontrar plaza en el puerto es mucho más relajado en invierno que en temporada alta.\nTerminamos el día en Sea Life y disfrutamos del atardecer sobre la marina antes de volver cómodamente en coche."
           },
           "stops": [
             {
@@ -1598,7 +1734,8 @@
                 "de": "Im Winter ist das Licht für Fotografen am Castillo am besten.",
                 "hu": "Télen a fények ekkor a legjobbak a vár fotózásához.",
                 "ro": "Lumina de iarnă este cea mai potrivită pentru fotografii la castel.",
-                "en": "Winter light is the best for photographers at the castle."
+                "en": "Winter light is the best for photographers at the castle.",
+                "es": "La luz de invierno es la mejor para los fotógrafos en el castillo."
               }
             },
             {
@@ -1607,7 +1744,8 @@
                 "de": "Öffentliche Parkplätze sind im Winter leichter zu finden.",
                 "hu": "Télen sokkal könnyebb közterületi parkolóhelyet találni.",
                 "ro": "Locurile de parcare publice sunt mai ușor de găsit iarna.",
-                "en": "Public parking spots are much easier to find in winter."
+                "en": "Public parking spots are much easier to find in winter.",
+                "es": "Las plazas de aparcamiento público son mucho más fáciles de encontrar en invierno."
               }
             },
             {
@@ -1616,7 +1754,8 @@
                 "de": "Bringen Sie ein Fernglas mit, die Sicht ist im Winter oft glasklar.",
                 "hu": "Hozzon távcsövet, a kilátás télen gyakran kristálytiszta.",
                 "ro": "Luați un binoclu, vizibilitatea este adesea perfectă iarna.",
-                "en": "Bring binoculars; the view is often crystal clear in winter."
+                "en": "Bring binoculars; the view is often crystal clear in winter.",
+                "es": "Lleva prismáticos; la visibilidad suele ser cristalina en invierno."
               }
             },
             {
@@ -1625,7 +1764,8 @@
                 "de": "Lassen Sie dicke Jacken im Auto, da es drinnen sehr warm ist.",
                 "hu": "A vastag kabátokat hagyja az autóban, mert odabent nagyon meleg van.",
                 "ro": "Lăsați jachetele groase în mașină, interiorul este foarte cald.",
-                "en": "Leave heavy jackets in the car as it's very warm inside."
+                "en": "Leave heavy jackets in the car as it's very warm inside.",
+                "es": "Deja los abrigos pesados en el coche, hace mucho calor dentro."
               }
             },
             {
@@ -1634,7 +1774,8 @@
                 "de": "Nutzen Sie den Winterrabatt in einigen Parkhäusern am Hafen.",
                 "hu": "Használja ki a téli kedvezményeket néhány kikötői parkolóházban.",
                 "ro": "Profită de tarifele de iarnă reduse în unele parcări din port.",
-                "en": "Take advantage of winter discounts in some harbor parking garages."
+                "en": "Take advantage of winter discounts in some harbor parking garages.",
+                "es": "Aprovecha los descuentos de invierno en algunos parkings del puerto."
               }
             },
             {
@@ -1643,7 +1784,8 @@
                 "de": "Ein entspannter Abschluss ohne sommerliche Hitze im Auto.",
                 "hu": "Nyugodt zárás, nincs nyári hőség az autóban a visszaúton.",
                 "ro": "Un final relaxat, fără căldura sufocantă din mașină de vara.",
-                "en": "A relaxed end to the day with no summer heat in the car."
+                "en": "A relaxed end to the day with no summer heat in the car.",
+                "es": "Un final del día relajado sin el calor veraniego en el coche."
               }
             }
           ],
@@ -1671,6 +1813,12 @@
               "Parking in Benalmádena Costa is completely hassle-free in winter.",
               "Take advantage of clear days for the scenic drive to Castillo de Colomares.",
               "The sun is low in the sky; sunglasses are essential while driving."
+            ],
+            "es": [
+              "Las carreteras de montaña pueden ser sombrías y frescas por las mañanas.",
+              "Aparcar en Benalmádena Costa es completamente cómodo en invierno.",
+              "Aprovecha los días claros para el recorrido panorámico hasta Castillo de Colomares.",
+              "El sol está bajo; las gafas de sol son esenciales al conducir."
             ]
           }
         }
@@ -1699,7 +1847,8 @@
             "de": "Viele Buslinien (M-110, M-123) halten direkt am Hafen.",
             "hu": "Sok buszjárat (M-110, M-123) közvetlenül a kikötőnél áll meg.",
             "ro": "Multe linii de autobuz (M-110, M-123) opresc chiar la port.",
-            "en": "Many bus lines (M-110, M-123) stop directly at the marina."
+            "en": "Many bus lines (M-110, M-123) stop directly at the marina.",
+            "es": "Muchas líneas de autobús (M-110, M-123) paran directamente en la marina."
           }
         },
         {
@@ -1717,7 +1866,8 @@
             "de": "Die Talstation liegt direkt neben dem Bahnhof Arroyo de la Miel.",
             "hu": "Az alsó állomás közvetlenül az Arroyo de la Miel vasútállomás mellett van.",
             "ro": "Stația de bază este chiar lângă gara Arroyo de la Miel.",
-            "en": "The base station is right next to the Arroyo de la Miel train station."
+            "en": "The base station is right next to the Arroyo de la Miel train station.",
+            "es": "La estación base está justo al lado de la estación de tren Arroyo de la Miel."
           }
         },
         {
@@ -1735,7 +1885,8 @@
             "de": "Nehmen Sie den Bus M-121 oder M-126 vom Zentrum Arroyo zum Dorf.",
             "hu": "Használd az M-121 vagy M-126 buszt Arroyo központjából a faluig.",
             "ro": "Luați autobuzul M-121 sau M-126 din centrul Arroyo spre sat.",
-            "en": "Take the M-121 or M-126 bus from Arroyo center to the village."
+            "en": "Take the M-121 or M-126 bus from Arroyo center to the village.",
+            "es": "Toma el autobús M-121 o M-126 desde el centro de Arroyo hasta el pueblo."
           }
         },
         {
@@ -1753,7 +1904,8 @@
             "de": "Der Bus hält nur wenige Meter vom Eingang entfernt.",
             "hu": "A busz pár méterre a bejárattól áll meg.",
             "ro": "Autobuzul oprește la doar câțiva metri de intrare.",
-            "en": "The bus stops just a few meters from the entrance."
+            "en": "The bus stops just a few meters from the entrance.",
+            "es": "El autobús para a pocos metros de la entrada."
           }
         },
         {
@@ -1771,7 +1923,8 @@
             "de": "Prüfen Sie die Rückfahrtzeiten der Busse sorgfältig.",
             "hu": "Alaposan ellenőrizd a buszok visszaindulási időpontjait.",
             "ro": "Verificați cu atenție orele de întoarcere ale autobuzelor.",
-            "en": "Carefully check the bus return schedules."
+            "en": "Carefully check the bus return schedules.",
+            "es": "Revisa con cuidado los horarios de vuelta del autobús."
           }
         }
       ],
@@ -1779,7 +1932,8 @@
         "de": "Benalmádena ist durch Busse und die S-Bahn hervorragend vernetzt. Starten Sie am Hafen, bevor Sie mit der Bahn zum Arroyo de la Miel fahren, um die Seilbahn zu nutzen. Von dort bringen Sie lokale Busse hinauf in das malerische Pueblo und zur beeindruckenden Stupa. Den Abschluss bildet das Castillo de Colomares, das bequem per Bus erreichbar ist.",
         "hu": "Benalmádena kiválóan megközelíthető buszokkal és a HÉV-vel. Kezdj a kikötőben, majd utazz vonattal Arroyo de la Mielbe a felvonóhoz. Onnan helyi buszok visznek fel a festői Pueblóba és a lenyűgöző Sztúpához. A napot a Castillo de Colomares zárja, amely szintén kényelmesen elérhető busszal.",
         "ro": "Benalmádena este excelent conectată prin autobuze și trenul suburban. Începeți în port, apoi mergeți cu trenul la Arroyo de la Miel pentru telecabină. De acolo, autobuzele locale vă duc în pitorescul Pueblo și la Stupa impresionantă. Ziua se încheie la Castillo de Colomares, accesibil ușor cu autobuzul.",
-        "en": "Benalmádena is excellently connected by buses and the suburban train. Start at the marina before taking the train to Arroyo de la Miel for the cable car. From there, local buses take you up to the picturesque Pueblo and the impressive Stupa. The day concludes at Castillo de Colomares, easily reachable by bus."
+        "en": "Benalmádena is excellently connected by buses and the suburban train. Start at the marina before taking the train to Arroyo de la Miel for the cable car. From there, local buses take you up to the picturesque Pueblo and the impressive Stupa. The day concludes at Castillo de Colomares, easily reachable by bus.",
+        "es": "Benalmádena está excelentemente conectada por autobuses y tren de cercanías. Empieza en la marina antes de tomar el tren a Arroyo de la Miel para el teleférico. Desde ahí, los autobuses locales suben hasta el pintoresco Pueblo y la impresionante Stupa. El día concluye en Castillo de Colomares, fácilmente accesible en autobús."
       },
       "gastro_picks": {
         "de": [
@@ -1887,6 +2041,12 @@
           "Use the 'Consorcio Malaga' app for real-time schedules.",
           "The train station is named 'Benalmádena-Arroyo de la Miel'.",
           "Single tickets can be purchased directly from the bus driver."
+        ],
+        "es": [
+          "El trayecto en autobús desde la costa hasta el pueblo dura unos 20 minutos.",
+          "Usa la app 'Consorcio Malaga' para horarios en tiempo real.",
+          "La estación de tren se llama 'Benalmádena-Arroyo de la Miel'.",
+          "Los billetes sencillos se pueden comprar directamente al conductor del autobús."
         ]
       },
       "variants": {
@@ -1895,7 +2055,8 @@
             "de": "Benalmádena ist durch Busse und die S-Bahn hervorragend vernetzt. Starten Sie am Hafen, bevor Sie mit der Bahn zum Arroyo de la Miel fahren, um die Seilbahn zu nutzen. Von dort bringen Sie lokale Busse hinauf in das malerische Pueblo und zur beeindruckenden Stupa. Den Abschluss bildet das Castillo de Colomares, das bequem per Bus erreichbar ist.",
             "hu": "Benalmádena kiválóan megközelíthető buszokkal és a HÉV-vel. Kezdj a kikötőben, majd utazz vonattal Arroyo de la Mielbe a felvonóhoz. Onnan helyi buszok visznek fel a festői Pueblóba és a lenyűgöző Sztúpához. A napot a Castillo de Colomares zárja, amely szintén kényelmesen elérhető busszal.",
             "ro": "Benalmádena este excelent conectată prin autobuze și trenul suburban. Începeți în port, apoi mergeți cu trenul la Arroyo de la Miel pentru telecabină. De acolo, autobuzele locale vă duc în pitorescul Pueblo și la Stupa impresionantă. Ziua se încheie la Castillo de Colomares, accesibil ușor cu autobuzul.",
-            "en": "Benalmádena is excellently connected by buses and the suburban train. Start at the marina before taking the train to Arroyo de la Miel for the cable car. From there, local buses take you up to the picturesque Pueblo and the impressive Stupa. The day concludes at Castillo de Colomares, easily reachable by bus."
+            "en": "Benalmádena is excellently connected by buses and the suburban train. Start at the marina before taking the train to Arroyo de la Miel for the cable car. From there, local buses take you up to the picturesque Pueblo and the impressive Stupa. The day concludes at Castillo de Colomares, easily reachable by bus.",
+            "es": "Benalmádena está excelentemente conectada por autobuses y tren de cercanías. Empieza en la marina antes de tomar el tren a Arroyo de la Miel para el teleférico. Desde ahí, los autobuses locales suben hasta el pintoresco Pueblo y la impresionante Stupa. El día concluye en Castillo de Colomares, fácilmente accesible en autobús."
           },
           "stops": [
             {
@@ -1904,7 +2065,8 @@
                 "de": "Viele Buslinien (M-110, M-123) halten direkt am Hafen.",
                 "hu": "Sok buszjárat (M-110, M-123) közvetlenül a kikötőnél áll meg.",
                 "ro": "Multe linii de autobuz (M-110, M-123) opresc chiar la port.",
-                "en": "Many bus lines (M-110, M-123) stop directly at the marina."
+                "en": "Many bus lines (M-110, M-123) stop directly at the marina.",
+                "es": "Muchas líneas de autobús (M-110, M-123) paran directamente en la marina."
               }
             },
             {
@@ -1913,7 +2075,8 @@
                 "de": "Die Talstation liegt direkt neben dem Bahnhof Arroyo de la Miel.",
                 "hu": "Az alsó állomás közvetlenül az Arroyo de la Miel vasútállomás mellett van.",
                 "ro": "Stația de bază este chiar lângă gara Arroyo de la Miel.",
-                "en": "The base station is right next to the Arroyo de la Miel train station."
+                "en": "The base station is right next to the Arroyo de la Miel train station.",
+                "es": "La estación base está justo al lado de la estación de tren Arroyo de la Miel."
               }
             },
             {
@@ -1922,7 +2085,8 @@
                 "de": "Nehmen Sie den Bus M-121 oder M-126 vom Zentrum Arroyo zum Dorf.",
                 "hu": "Használd az M-121 vagy M-126 buszt Arroyo központjából a faluig.",
                 "ro": "Luați autobuzul M-121 sau M-126 din centrul Arroyo spre sat.",
-                "en": "Take the M-121 or M-126 bus from Arroyo center to the village."
+                "en": "Take the M-121 or M-126 bus from Arroyo center to the village.",
+                "es": "Toma el autobús M-121 o M-126 desde el centro de Arroyo hasta el pueblo."
               }
             },
             {
@@ -1931,7 +2095,8 @@
                 "de": "Der Bus hält nur wenige Meter vom Eingang entfernt.",
                 "hu": "A busz pár méterre a bejárattól áll meg.",
                 "ro": "Autobuzul oprește la doar câțiva metri de intrare.",
-                "en": "The bus stops just a few meters from the entrance."
+                "en": "The bus stops just a few meters from the entrance.",
+                "es": "El autobús para a pocos metros de la entrada."
               }
             },
             {
@@ -1940,7 +2105,8 @@
                 "de": "Prüfen Sie die Rückfahrtzeiten der Busse sorgfältig.",
                 "hu": "Alaposan ellenőrizd a buszok visszaindulási időpontjait.",
                 "ro": "Verificați cu atenție orele de întoarcere ale autobuzelor.",
-                "en": "Carefully check the bus return schedules."
+                "en": "Carefully check the bus return schedules.",
+                "es": "Revisa con cuidado los horarios de vuelta del autobús."
               }
             }
           ],
@@ -2050,6 +2216,12 @@
               "Use the 'Consorcio Malaga' app for real-time schedules.",
               "The train station is named 'Benalmádena-Arroyo de la Miel'.",
               "Single tickets can be purchased directly from the bus driver."
+            ],
+            "es": [
+              "El trayecto en autobús desde la costa hasta el pueblo dura unos 20 minutos.",
+              "Usa la app 'Consorcio Malaga' para horarios en tiempo real.",
+              "La estación de tren se llama 'Benalmádena-Arroyo de la Miel'.",
+              "Los billetes sencillos se pueden comprar directamente al conductor del autobús."
             ]
           }
         },
@@ -2058,7 +2230,8 @@
             "de": "Wir nutzen die gute Busverbindung von der Puerto Marina aus. Die Haltestellen sind meist überdacht, was das Warten bei Regen angenehm macht.\nMittags fahren wir mit dem Bus zur Seilbahn-Station. Falls der Betrieb wetterbedingt eingestellt ist, bietet das nahegelegene Zentrum von Arroyo de la Miel viele Cafés.\nNachmittags bringt uns die Linie M-103 hinauf nach Benalmádena Pueblo. Von der Haltestelle ist es nur ein kurzer, feuchter Weg zur Stupa und zum Schloss.\nWir beenden den Tag mit der Rückfahrt an die Küste. Die Busse sind im Winter warm und eine trockene Alternative zum langen Laufen.",
             "hu": "A kikötőből indulva kihasználjuk a jó buszközlekedést. A megállók többsége fedett, így az esőben való várakozás is elfogadható.\nDélben busszal megyünk a felvonóhoz. Ha az időjárás miatt nem járna, Arroyo de la Miel központjában rengeteg kávézó vár minket.\nDélután az M-103-as járat visz fel minket a Pueblóba. A megállótól csak rövid, de vizes séta választ el a Sztúpától és a vártól.\nA napot a tengerpartra való visszautazással zárjuk. A buszok télen fűtöttek és száraz alternatívát kínálnak a hosszú gyaloglás helyett.",
             "ro": "Folosim conexiunile bune de autobuz din Puerto Marina. Majoritatea stațiilor sunt acoperite, făcând așteptarea pe ploaie suportabilă.\nLa prânz mergem cu autobuzul la teleferic. Dacă este închis din cauza vremii, centrul Arroyo de la Miel are multe cafenele primitoare.\nDupă-amiaza, linia M-103 ne urcă în Benalmádena Pueblo. De la stație e doar un drum scurt și umed până la Stupa și castel.\nÎncheiem ziua cu drumul înapoi spre coastă. Autobuzele sunt calde iarna și oferă o alternativă uscată la mersul pe jos.",
-            "en": "We use the excellent bus connections from Puerto Marina. Most stops are covered, making the wait in the rain quite manageable.\nAt noon, we take the bus to the cable car station. If it's closed due to weather, the nearby center of Arroyo de la Miel has plenty of cafés.\nIn the afternoon, the M-103 line takes us up to Benalmádena Pueblo. From the stop, it's just a short, damp walk to the Stupa and the castle.\nWe end the day with the bus ride back to the coast. The buses are warm in winter and offer a dry alternative to long walks."
+            "en": "We use the excellent bus connections from Puerto Marina. Most stops are covered, making the wait in the rain quite manageable.\nAt noon, we take the bus to the cable car station. If it's closed due to weather, the nearby center of Arroyo de la Miel has plenty of cafés.\nIn the afternoon, the M-103 line takes us up to Benalmádena Pueblo. From the stop, it's just a short, damp walk to the Stupa and the castle.\nWe end the day with the bus ride back to the coast. The buses are warm in winter and offer a dry alternative to long walks.",
+            "es": "Usamos las excelentes conexiones de autobús desde Puerto Marina. La mayoría de paradas están cubiertas, lo que hace la espera bajo la lluvia bastante llevadera.\nAl mediodía tomamos el autobús hasta la estación del teleférico. Si está cerrada por el tiempo, el cercano centro de Arroyo de la Miel tiene muchos cafés.\nPor la tarde la línea M-103 nos sube a Benalmádena Pueblo. Desde la parada es solo una corta y húmeda caminata hasta la Stupa y el castillo.\nTerminamos el día con el viaje en autobús de regreso a la costa. Los autobuses están calientes en invierno y ofrecen una alternativa seca a las largas caminatas."
           },
           "stops": [
             {
@@ -2067,7 +2240,8 @@
                 "de": "Die Hauptbushaltestelle an der N-340 bietet Schutz vor Regen.",
                 "hu": "Az N-340-es úton lévő fő buszmegálló jól védett az esőtől.",
                 "ro": "Stația principală de pe N-340 oferă protecție bună contra ploii.",
-                "en": "The main bus stop on the N-340 offers good shelter from the rain."
+                "en": "The main bus stop on the N-340 offers good shelter from the rain.",
+                "es": "La parada principal de autobús en la N-340 ofrece buen refugio contra la lluvia."
               }
             },
             {
@@ -2076,7 +2250,8 @@
                 "de": "Direkt an der S-Bahn Station Arroyo de la Miel (C1) gelegen.",
                 "hu": "Közvetlenül az Arroyo de la Miel HÉV-állomás (C1) mellett található.",
                 "ro": "Situat chiar lângă gara de tren suburban Arroyo de la Miel (C1).",
-                "en": "Located right next to the Arroyo de la Miel suburban train station (C1)."
+                "en": "Located right next to the Arroyo de la Miel suburban train station (C1).",
+                "es": "Situado justo al lado de la estación de tren de cercanías Arroyo de la Miel (C1)."
               }
             },
             {
@@ -2085,7 +2260,8 @@
                 "de": "Die Buslinie M-103 verkehrt regelmäßig zwischen Küste und Dorf.",
                 "hu": "Az M-103-as buszjárat rendszeresen közlekedik a part és a falu között.",
                 "ro": "Linia M-103 circulă regulat între coastă și satul vechi.",
-                "en": "Bus line M-103 runs regularly between the coast and the village."
+                "en": "Bus line M-103 runs regularly between the coast and the village.",
+                "es": "La línea de autobús M-103 circula regularmente entre la costa y el pueblo."
               }
             },
             {
@@ -2094,7 +2270,8 @@
                 "de": "Steigen Sie an der Haltestelle 'Mariposario' aus, direkt davor.",
                 "hu": "Szálljon le a 'Mariposario' megállónál, ami közvetlenül előtte van.",
                 "ro": "Coborâți la stația 'Mariposario', situată chiar în fața obiectivului.",
-                "en": "Get off at the 'Mariposario' stop, located right in front."
+                "en": "Get off at the 'Mariposario' stop, located right in front.",
+                "es": "Bájate en la parada 'Mariposario', situada justo enfrente."
               }
             },
             {
@@ -2103,7 +2280,8 @@
                 "de": "Ein 10-minütiger Fußweg bergab von der Bushaltestelle im Pueblo.",
                 "hu": "10 perces séta lefelé a falu buszmegállójától.",
                 "ro": "O plimbare de 10 minute la vale de la stația de autobuz din sat.",
-                "en": "A 10-minute walk downhill from the bus stop in the Pueblo."
+                "en": "A 10-minute walk downhill from the bus stop in the Pueblo.",
+                "es": "A 10 minutos caminando cuesta abajo desde la parada de autobús en el Pueblo."
               }
             }
           ],
@@ -2131,6 +2309,12 @@
               "The 'Consorcio Malaga' app shows real-time departure times.",
               "Use the C1 suburban train for quick travel between coastal towns.",
               "Buses can be more crowded when it rains; plan for some extra time."
+            ],
+            "es": [
+              "Consigue una 'Tarjeta de Transporte' para transferencias más baratas.",
+              "La app 'Consorcio Malaga' muestra las salidas en tiempo real.",
+              "Usa el tren de cercanías C1 para desplazamientos rápidos entre los pueblos costeros.",
+              "Los autobuses pueden llenarse más cuando llueve; planifica algo de tiempo extra."
             ]
           }
         },
@@ -2139,7 +2323,8 @@
             "de": "Wir beginnen den klaren Wintermorgen mit der Busfahrt ab Puerto Marina. In der Wintersonne lässt es sich angenehm an der Haltestelle warten.\nMittags bringt uns der Bus zur Seilbahn. Die Fahrt auf den Berg ist im Winter wegen der klaren Luft ein Muss. Danach nehmen wir die Linie M-103 nach Benalmádena Pueblo.\nIm Pueblo spazieren wir zur Stupa und genießen die Fernsicht. Der Weg zum Castillo de Colomares ist bergab im kühlen Winterwind sehr angenehm.\nDen Tag lassen wir entspannt ausklingen und nehmen den letzten Bus zurück zur Küste, während die Lichter der Stadt in der frühen Dämmerung angehen.",
             "hu": "A tiszta téli reggelt buszozással indítjuk a kikötőtől. A téli napsütésben kellemes a várakozás a megállóban.\nDélben a busz a felvonóhoz visz minket. A hegyi út télen a tiszta levegő miatt kötelező program. Ezután az M-103-as busszal megyünk fel a Pueblóba.\nA Pueblóban elsétálunk a Sztúpához és élvezzük a kilátást. A Colomares várhoz vezető lejtős út nagyon kellemes a hűvös téli szélben.\nA napot nyugodtan zárjuk, és az utolsó busszal megyünk vissza a partra, miközben a város fényei kigyúlnak a korai szürkületben.",
             "ro": "Începem dimineața senină de iarnă cu autobuzul din Puerto Marina. Așteptarea în stație este plăcută sub soarele blând.\nLa prânz autobuzul ne duce la teleferic. Urcarea pe munte e obligatorie iarna datorită aerului curat. Apoi luăm linia M-103 spre Pueblo.\nÎn Pueblo ne plimbăm spre Stupa și admirăm vederea panoramică. Drumul la vale spre Castillo de Colomares e foarte plăcut în vântul rece.\nÎncheiem ziua relaxați și luăm ultimul autobuz spre coastă, în timp ce luminile orașului se aprind în amurgul timpuriu.",
-            "en": "We start the clear winter morning with a bus ride from Puerto Marina. Waiting at the stop is quite pleasant in the winter sun.\nAt noon, the bus takes us to the cable car. The trip up the mountain is a must in winter due to the clear air. Then, we catch the M-103 to Benalmádena Pueblo.\nIn the Pueblo, we walk to the Stupa and enjoy the far-reaching views. The downhill walk to Castillo de Colomares is very pleasant in the cool winter wind.\nWe wrap up the day and take the last bus back to the coast as the city lights come on in the early dusk."
+            "en": "We start the clear winter morning with a bus ride from Puerto Marina. Waiting at the stop is quite pleasant in the winter sun.\nAt noon, the bus takes us to the cable car. The trip up the mountain is a must in winter due to the clear air. Then, we catch the M-103 to Benalmádena Pueblo.\nIn the Pueblo, we walk to the Stupa and enjoy the far-reaching views. The downhill walk to Castillo de Colomares is very pleasant in the cool winter wind.\nWe wrap up the day and take the last bus back to the coast as the city lights come on in the early dusk.",
+            "es": "Comenzamos la clara mañana de invierno con un trayecto en autobús desde Puerto Marina. Esperar en la parada es bastante agradable con el sol invernal.\nAl mediodía el autobús nos lleva al teleférico. El viaje montaña arriba es imprescindible en invierno por el aire limpio. Luego cogemos la M-103 hacia Benalmádena Pueblo.\nEn el Pueblo caminamos hasta la Stupa y disfrutamos de las vistas de largo alcance. La bajada a Castillo de Colomares es muy agradable con la fresca brisa invernal.\nRematamos el día y tomamos el último autobús de vuelta a la costa mientras se encienden las luces de la ciudad en el temprano crepúsculo."
           },
           "stops": [
             {
@@ -2148,7 +2333,8 @@
                 "de": "Fahrpläne im Winter sind oft ausgedünnt, prüfen Sie diese vorab.",
                 "hu": "Télen a menetrend ritkább lehet, ellenőrizze előre az időpontokat.",
                 "ro": "Orarele de iarnă pot fi mai rare, verificați-le în prealabil.",
-                "en": "Winter schedules can be less frequent; check them in advance."
+                "en": "Winter schedules can be less frequent; check them in advance.",
+                "es": "Los horarios de invierno pueden ser menos frecuentes; consúltalos con antelación."
               }
             },
             {
@@ -2157,7 +2343,8 @@
                 "de": "Hinter dem Bahnhof Arroyo de la Miel finden Sie die Talstation.",
                 "hu": "Az Arroyo de la Miel állomás mögött találja az alsó megállót.",
                 "ro": "Stația de bază se află chiar în spatele gării Arroyo de la Miel.",
-                "en": "The base station is located right behind the Arroyo de la Miel station."
+                "en": "The base station is located right behind the Arroyo de la Miel station.",
+                "es": "La estación base está ubicada justo detrás de la estación Arroyo de la Miel."
               }
             },
             {
@@ -2166,7 +2353,8 @@
                 "de": "Die Haltestelle im Dorf bietet eine tolle Aussicht über die Küste.",
                 "hu": "A faluban lévő buszmegállóból remek kilátás nyílik a partra.",
                 "ro": "Stația de autobuz din sat oferă o vedere superbă asupra coastei.",
-                "en": "The bus stop in the village offers a great view over the coast."
+                "en": "The bus stop in the village offers a great view over the coast.",
+                "es": "La parada de autobús en el pueblo ofrece una gran vista sobre la costa."
               }
             },
             {
@@ -2175,7 +2363,8 @@
                 "de": "Busse halten direkt vor dem Mariposario, nur 2 min zur Stupa.",
                 "hu": "A buszok a Mariposario előtt állnak meg, a Sztúpa onnan 2 perc.",
                 "ro": "Autobuzele opresc în fața Mariposario, la 2 minute de Stupa.",
-                "en": "Buses stop right in front of Mariposario, 2 min walk to the Stupa."
+                "en": "Buses stop right in front of Mariposario, 2 min walk to the Stupa.",
+                "es": "Los autobuses paran justo delante del Mariposario, a 2 min a pie de la Stupa."
               }
             },
             {
@@ -2184,7 +2373,8 @@
                 "de": "Vom Schloss aus können Sie den Bus zurück zur Küste nehmen.",
                 "hu": "A vártól busszal közvetlenül is visszatérhet a tengerpartra.",
                 "ro": "De la castel puteți lua autobuzul direct înapoi spre coastă.",
-                "en": "You can take a bus back to the coast directly from near the castle."
+                "en": "You can take a bus back to the coast directly from near the castle.",
+                "es": "Puedes tomar un autobús de regreso a la costa directamente desde cerca del castillo."
               }
             }
           ],
@@ -2212,6 +2402,12 @@
               "Buses are often quite warm in winter; dress in versatile layers.",
               "Plan your last return trip from the Pueblo before 9:00 PM.",
               "Reduced schedules apply on weekends and public holidays."
+            ],
+            "es": [
+              "El tren C1 circula cada 20 minutos hacia Málaga y Fuengirola.",
+              "Los autobuses suelen estar bastante calientes en invierno; vístete por capas versátiles.",
+              "Planifica tu último regreso desde el Pueblo antes de las 21:00.",
+              "Los horarios reducidos se aplican fines de semana y festivos."
             ]
           }
         }
@@ -2229,19 +2425,22 @@
       "de": "Benalmadena ist auf internationale Gaeste eingestellt, Englisch ist ueberall, und viele Geschaefte am Puerto Marina haben deutsche und russische Beschilderung. Im alten Pueblo oben am Berg lohnen ein paar Spanischbrocken, dort ist es traditioneller.",
       "hu": "Benalmádena nemzetközi vendégekre van berendezkedve, az angol mindenhol megy, a Puerto Marina sok boltjának német és orosz felirata is van. A fent a hegyen lévő óvárosban (pueblo) viszont hasznos pár szó spanyol, ott hagyományosabb a hangulat.",
       "ro": "Benalmadena e construita pentru turisti internationali, engleza merge peste tot, multe magazine din Puerto Marina au semne in germana si rusa. In satul vechi de pe deal cateva cuvinte de spaniola ajuta, acolo atmosfera e mai traditionala.",
-      "en": "Benalmadena caters to international visitors, English works everywhere and many Puerto Marina shops display German and Russian signage. Up in the old pueblo on the hill a few Spanish words help, the vibe there is more traditional."
+      "en": "Benalmadena caters to international visitors, English works everywhere and many Puerto Marina shops display German and Russian signage. Up in the old pueblo on the hill a few Spanish words help, the vibe there is more traditional.",
+      "es": "Benalmádena atiende a visitantes internacionales; el inglés funciona en todas partes y muchas tiendas de Puerto Marina exhiben cartelería en alemán y ruso. En el viejo pueblo en la colina, unas pocas palabras en español ayudan; allí el ambiente es más tradicional."
     },
     "best_time_to_visit": {
       "de": "Mai, Juni, September und Oktober sind die beste Zeit, warm aber nicht ueberfuellt. Im Juli und August ist die Costa del Sol voll, der Winter eignet sich fuer den Schmetterlingspark Mariposario, die Seilbahn auf den Calamorro und Tagesausfluege.",
       "hu": "Május, június, szeptember és október a legjobb, meleg de nem zsúfolt. Júliusban és augusztusban tele a Costa del Sol, télen viszont jó a Mariposario lepkepark, a Calamorro hegyi felvonó és kirándulások.",
       "ro": "Mai, iunie, septembrie si octombrie sunt cele mai bune luni, cald dar fara aglomeratie. Iulie-august coasta e plina, iarna e potrivita pentru parcul de fluturi Mariposario, telecabina pe Calamorro si excursii.",
-      "en": "May, June, September and October are best, warm but not packed. July and August fill the Costa del Sol, winter suits the Mariposario butterfly park, the Calamorro cable car and day trips inland."
+      "en": "May, June, September and October are best, warm but not packed. July and August fill the Costa del Sol, winter suits the Mariposario butterfly park, the Calamorro cable car and day trips inland.",
+      "es": "Mayo, junio, septiembre y octubre son los mejores meses: cálidos pero no llenos. Julio y agosto llenan la Costa del Sol; el invierno es adecuado para el Mariposario, el teleférico de Calamorro y excursiones al interior."
     },
     "neighborhood_warnings": {
       "de": "Benalmadena ist sicher, im Puerto Marina abends gut beleuchtet. Achten Sie an der Strandpromenade auf Trickdiebe (Blumenangebot, dann Taschengriff), und parken Sie nicht ueber Nacht mit Wertsachen im Auto am Strand.",
       "hu": "Benalmádena biztonságos, a Puerto Marina este is jól megvilágított. A tengerparti sétányon vigyázz a trükkös tolvajokra (virággal kínálnak, aztán táskáért nyúlnak), és éjszakára ne hagyj értékeket az autóban a strandnál.",
       "ro": "Benalmadena e sigura, Puerto Marina e bine luminat seara. Pe promenada atentie la hotii cu trucuri (iti ofera o floare, apoi iti iau geanta), si nu lasa peste noapte lucruri valoroase in masina la plaja.",
-      "en": "Benalmadena is safe, Puerto Marina stays well-lit at night. Watch for distraction thieves on the promenade (flower offers followed by a bag grab), and never park overnight at the beach with valuables visible."
+      "en": "Benalmadena is safe, Puerto Marina stays well-lit at night. Watch for distraction thieves on the promenade (flower offers followed by a bag grab), and never park overnight at the beach with valuables visible.",
+      "es": "Benalmádena es segura; Puerto Marina está bien iluminada por la noche. Vigila a los carteristas por distracción en el paseo (ofertas de flores seguidas de un tirón de bolso), y nunca aparques en la playa por la noche con objetos de valor a la vista."
     }
   }
 }

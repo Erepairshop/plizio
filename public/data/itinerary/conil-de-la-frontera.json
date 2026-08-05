@@ -31,7 +31,8 @@
             "de": "Herzstück der Stadt mit schönen Cafés.",
             "hu": "A város szíve hangulatos kávézókkal.",
             "ro": "Inima orașului cu cafenele frumoase.",
-            "en": "The heart of the city with lovely cafes."
+            "en": "The heart of the city with lovely cafes.",
+            "es": "El corazón de la ciudad con encantadores cafés."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Das alte Stadttor aus dem Mittelalter.",
             "hu": "Középkori városkapu.",
             "ro": "Vechea poartă a orașului din Evul Mediu.",
-            "en": "The old city gate from the Middle Ages."
+            "en": "The old city gate from the Middle Ages.",
+            "es": "La antigua puerta de la ciudad de la Edad Media."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Frischer Fisch und lokale Spezialitäten.",
             "hu": "Friss halak és helyi finomságok.",
             "ro": "Pește proaspăt și specialități locale.",
-            "en": "Fresh fish and local specialties."
+            "en": "Fresh fish and local specialties.",
+            "es": "Pescado fresco y especialidades locales."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Wahrzeichen von Conil mit toller Aussicht.",
             "hu": "Conil jelképe, pazar kilátással.",
             "ro": "Simbolul orașului Conil cu o priveliște minunată.",
-            "en": "Conil's landmark with great views."
+            "en": "Conil's landmark with great views.",
+            "es": "El emblema de Conil con excelentes vistas."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Heute ein interessantes Kulturzentrum.",
             "hu": "Ma érdekes kulturális központként működik.",
             "ro": "Astăzi este un centru cultural interesant.",
-            "en": "Today it serves as an interesting cultural center."
+            "en": "Today it serves as an interesting cultural center.",
+            "es": "Hoy sirve como un interesante centro cultural."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Breiter Sandstrand direkt vor der Stadt.",
             "hu": "Széles homokos strand közvetlenül a város előtt.",
             "ro": "Plajă largă de nisip chiar în fața orașului.",
-            "en": "Broad sandy beach right in front of the city."
+            "en": "Broad sandy beach right in front of the city.",
+            "es": "Amplia playa de arena justo frente a la ciudad."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Beginnen Sie Ihren Spaziergang an der lebhaften Plaza de España, dem gesellschaftlichen Zentrum von Conil. Durchschreiten Sie die historische Puerta de la Villa.\n\nBesuchen Sie den Mercado de Abastos, um die frischen Farben und Gerüche der lokalen Produkte zu erleben, bevor Sie den Torre de Guzmán erklimmen.\n\nMittags erkunden Sie die ehemalige Kirche Santa Catalina und schlendern durch die weißen Gassen des Fischerviertels.\n\nVerbringen Sie einen entspannten Nachmittag an der Playa de los Bateles und genießen Sie die Sonne der Costa de la Luz.",
         "hu": "Kezdje a sétát a pezsgő Plaza de Españán, Conil közösségi központjában. Haladjon át a történelmi Puerta de la Villa kapun.\n\nLátogasson el a Mercado de Abastos piacra, hogy átélje a helyi termékek színeit és illatait, majd másszon fel a Torre de Guzmán toronyba.\n\nDélben fedezze fel az egykori Santa Catalina templomot, és barangoljon a halásznegyed fehérre meszelt utcáin.\n\nTöltse a délutánt pihenéssel a Playa de los Bateles strandon, élvezve a Costa de la Luz napsütését.",
         "ro": "Începeți plimbarea în animata Plaza de España, centrul social din Conil. Treceți prin istorica Puerta de la Villa.\n\nVizitați Mercado de Abastos pentru a experimenta culorile și mirosurile proaspete ale produselor locale înainte de a urca în Torre de Guzmán.\n\nLa prânz, explorați fosta biserică Santa Catalina și plimbați-vă pe străzile albe ale cartierului pescăresc.\n\nPetreceți o după-amiază relaxantă pe Playa de los Bateles și bucurați-vă de soarele de pe Costa de la Luz.",
-        "en": "Start your walk at the lively Plaza de España, the social heart of Conil. Pass through the historic Puerta de la Villa.\n\nVisit the Mercado de Abastos to experience the fresh colors and scents of local produce before climbing the Torre de Guzmán.\n\nAt midday, explore the former Santa Catalina Church and stroll through the white alleys of the fishermen's quarter.\n\nSpend a relaxing afternoon at Playa de los Bateles and enjoy the sun of the Costa de la Luz."
+        "en": "Start your walk at the lively Plaza de España, the social heart of Conil. Pass through the historic Puerta de la Villa.\n\nVisit the Mercado de Abastos to experience the fresh colors and scents of local produce before climbing the Torre de Guzmán.\n\nAt midday, explore the former Santa Catalina Church and stroll through the white alleys of the fishermen's quarter.\n\nSpend a relaxing afternoon at Playa de los Bateles and enjoy the sun of the Costa de la Luz.",
+        "es": "Comience su paseo en la animada Plaza de España, el corazón social de Conil. Pase por la histórica Puerta de la Villa.\n\nVisite el Mercado de Abastos para experimentar los colores y olores frescos de los productos locales antes de subir a la Torre de Guzmán.\n\nAl mediodía, explore la antigua iglesia de Santa Catalina y pasee por las calles blancas del barrio de pescadores.\n\nPase una tarde relajada en la Playa de los Bateles y disfrute del sol de la Costa de la Luz."
       },
       "gastro_picks": {
         "de": [
@@ -253,6 +260,12 @@
           "The old town is a pedestrian zone, perfect for strolling.",
           "Try the regional Retinto beef.",
           "Pay attention to the tides at the beach."
+        ],
+        "es": [
+          "Evite el intenso sol del mediodía en pleno verano.",
+          "El casco antiguo es zona peatonal, perfecto para pasear.",
+          "Pruebe la carne regional de Retinto.",
+          "Preste atención a las mareas en la playa."
         ]
       },
       "variants": {
@@ -261,7 +274,8 @@
             "de": "Beginnen Sie Ihren Spaziergang an der lebhaften Plaza de España, dem gesellschaftlichen Zentrum von Conil. Durchschreiten Sie die historische Puerta de la Villa.\n\nBesuchen Sie den Mercado de Abastos, um die frischen Farben und Gerüche der lokalen Produkte zu erleben, bevor Sie den Torre de Guzmán erklimmen.\n\nMittags erkunden Sie die ehemalige Kirche Santa Catalina und schlendern durch die weißen Gassen des Fischerviertels.\n\nVerbringen Sie einen entspannten Nachmittag an der Playa de los Bateles und genießen Sie die Sonne der Costa de la Luz.",
             "hu": "Kezdje a sétát a pezsgő Plaza de Españán, Conil közösségi központjában. Haladjon át a történelmi Puerta de la Villa kapun.\n\nLátogasson el a Mercado de Abastos piacra, hogy átélje a helyi termékek színeit és illatait, majd másszon fel a Torre de Guzmán toronyba.\n\nDélben fedezze fel az egykori Santa Catalina templomot, és barangoljon a halásznegyed fehérre meszelt utcáin.\n\nTöltse a délutánt pihenéssel a Playa de los Bateles strandon, élvezve a Costa de la Luz napsütését.",
             "ro": "Începeți plimbarea în animata Plaza de España, centrul social din Conil. Treceți prin istorica Puerta de la Villa.\n\nVizitați Mercado de Abastos pentru a experimenta culorile și mirosurile proaspete ale produselor locale înainte de a urca în Torre de Guzmán.\n\nLa prânz, explorați fosta biserică Santa Catalina și plimbați-vă pe străzile albe ale cartierului pescăresc.\n\nPetreceți o după-amiază relaxantă pe Playa de los Bateles și bucurați-vă de soarele de pe Costa de la Luz.",
-            "en": "Start your walk at the lively Plaza de España, the social heart of Conil. Pass through the historic Puerta de la Villa.\n\nVisit the Mercado de Abastos to experience the fresh colors and scents of local produce before climbing the Torre de Guzmán.\n\nAt midday, explore the former Santa Catalina Church and stroll through the white alleys of the fishermen's quarter.\n\nSpend a relaxing afternoon at Playa de los Bateles and enjoy the sun of the Costa de la Luz."
+            "en": "Start your walk at the lively Plaza de España, the social heart of Conil. Pass through the historic Puerta de la Villa.\n\nVisit the Mercado de Abastos to experience the fresh colors and scents of local produce before climbing the Torre de Guzmán.\n\nAt midday, explore the former Santa Catalina Church and stroll through the white alleys of the fishermen's quarter.\n\nSpend a relaxing afternoon at Playa de los Bateles and enjoy the sun of the Costa de la Luz.",
+            "es": "Comience su paseo en la animada Plaza de España, el corazón social de Conil. Pase por la histórica Puerta de la Villa.\n\nVisite el Mercado de Abastos para experimentar los colores y olores frescos de los productos locales antes de subir a la Torre de Guzmán.\n\nAl mediodía, explore la antigua iglesia de Santa Catalina y pasee por las calles blancas del barrio de pescadores.\n\nPase una tarde relajada en la Playa de los Bateles y disfrute del sol de la Costa de la Luz."
           },
           "stops": [
             {
@@ -411,6 +425,12 @@
               "The old town is a pedestrian zone, perfect for strolling.",
               "Try the regional Retinto beef.",
               "Pay attention to the tides at the beach."
+            ],
+            "es": [
+              "Evite el intenso sol del mediodía en pleno verano.",
+              "El casco antiguo es zona peatonal, perfecto para pasear.",
+              "Pruebe la carne regional de Retinto.",
+              "Preste atención a las mareas en la playa."
             ]
           }
         },
@@ -419,7 +439,8 @@
             "de": "Beginnen Sie Ihren Tag unter den Arkaden der Plaza de España, die Schutz vor dem Regen bieten. Mittags lädt der Mercado de Abastos zu einer kulinarischen Entdeckungstour im Trockenen ein. Am Nachmittag bieten die dicken Mauern des Torre de Guzmán und die Kirche Santa Catalina ideale Rückzugsorte. Den Abend lassen Sie in den gemütlichen Tapas-Bars der Altstadt ausklingen, während der Regen gegen die Fenster prasselt.",
             "hu": "Kezdje a napot a Plaza de España árkádjai alatt, amelyek menedéket nyújtanak az eső elől. Délben a Mercado de Abastos fedett tere hívogat egy gasztronómiai felfedezésre. Délután a Torre de Guzmán vastag falai és a Santa Catalina templom nyújtanak ideális búvóhelyet. Az estét töltse az óváros hangulatos tapas-bárjaiban, miközben az eső kopog az ablakon.",
             "ro": "Începeți ziua sub arcadele din Plaza de España, care oferă adăpost împotriva ploii. La prânz, Mercado de Abastos vă invită la o explorare culinară la adăpost. După-amiaza, zidurile groase ale Torre de Guzmán și Biserica Santa Catalina sunt refugii ideale. Încheiați seara în barurile de tapas primitoare din centrul vechi, ascultând ploaia care bate în geam.",
-            "en": "Start your day under the arches of Plaza de España, providing shelter from the rain. At noon, the Mercado de Abastos invites you for a dry culinary discovery. In the afternoon, the thick walls of Torre de Guzmán and Santa Catalina Church offer ideal retreats. End your evening in the cozy tapas bars of the old town while the rain patters against the windows."
+            "en": "Start your day under the arches of Plaza de España, providing shelter from the rain. At noon, the Mercado de Abastos invites you for a dry culinary discovery. In the afternoon, the thick walls of Torre de Guzmán and Santa Catalina Church offer ideal retreats. End your evening in the cozy tapas bars of the old town while the rain patters against the windows.",
+            "es": "Comience su día bajo los arcos de la Plaza de España, que brindan refugio de la lluvia. Al mediodía, el Mercado de Abastos le invita a un descubrimiento culinario en seco. Por la tarde, los muros gruesos de la Torre de Guzmán y la iglesia de Santa Catalina ofrecen retiros ideales. Termine la noche en las acogedoras barras de tapas del casco antiguo mientras la lluvia golpea las ventanas."
           },
           "stops": [
             {
@@ -428,7 +449,8 @@
                 "de": "Nutzen Sie die umliegenden Cafés mit Markisen für eine trockene Pause.",
                 "hu": "Használja a környező kávézók napellenzőit egy száraz pihenőhöz.",
                 "ro": "Folosiți cafenelele din jur cu copertine pentru o pauză uscată.",
-                "en": "Use the surrounding cafes with awnings for a dry break."
+                "en": "Use the surrounding cafes with awnings for a dry break.",
+                "es": "Utilice los cafés con toldos de los alrededores para una pausa seca."
               }
             },
             {
@@ -437,7 +459,8 @@
                 "de": "Ein schneller Fotostopp unter dem Torbogen schützt vor kurzen Schauern.",
                 "hu": "Egy gyors fotómegálló a boltív alatt megvéd a rövid záporoktól.",
                 "ro": "O oprire rapidă pentru fotografii sub boltă vă protejează de averse.",
-                "en": "A quick photo stop under the archway protects from short showers."
+                "en": "A quick photo stop under the archway protects from short showers.",
+                "es": "Una foto rápida bajo el arco protege de chubascos cortos."
               }
             },
             {
@@ -446,7 +469,8 @@
                 "de": "Perfekt für Regentage: Die Markthalle ist komplett überdacht.",
                 "hu": "Tökéletes esős napokra: a vásárcsarnok teljesen fedett.",
                 "ro": "Perfect pentru zilele ploioase: piața este complet acoperită.",
-                "en": "Perfect for rainy days: the market hall is completely covered."
+                "en": "Perfect for rainy days: the market hall is completely covered.",
+                "es": "Perfecto para días lluviosos: la lonja del mercado está totalmente cubierta."
               }
             },
             {
@@ -455,7 +479,8 @@
                 "de": "Besichtigen Sie die Ausstellungsräume im Inneren des Turms.",
                 "hu": "Látogasson el a torony belsejében található kiállítóterekbe.",
                 "ro": "Vizitați spațiile expoziționale din interiorul turnului.",
-                "en": "Visit the exhibition spaces inside the tower."
+                "en": "Visit the exhibition spaces inside the tower.",
+                "es": "Visite los espacios expositivos dentro de la torre."
               }
             },
             {
@@ -464,7 +489,8 @@
                 "de": "Nutzen Sie das Kulturzentrum für eine längere Pause im Trockenen.",
                 "hu": "Használja a kulturális központot egy hosszabb száraz pihenőre.",
                 "ro": "Folosiți centrul cultural pentru o pauză mai lungă la adăpost.",
-                "en": "Use the cultural center for a longer dry break."
+                "en": "Use the cultural center for a longer dry break.",
+                "es": "Use el centro cultural para una pausa más larga a cubierto."
               }
             },
             {
@@ -473,7 +499,8 @@
                 "de": "Die Strandpromenade bietet Pavillons, um das stürmische Meer zu beobachten.",
                 "hu": "A tengerparti sétány pavilonokat kínál a viharos tenger megfigyeléséhez.",
                 "ro": "Promenada oferă pavilioane pentru a observa marea înfuriată.",
-                "en": "The promenade offers pavilions to watch the stormy sea."
+                "en": "The promenade offers pavilions to watch the stormy sea.",
+                "es": "El paseo marítimo ofrece quioscos para contemplar el mar embravecido."
               }
             }
           ],
@@ -505,6 +532,13 @@
               "Wear a windproof raincoat, as the wind from the Atlantic often blows strongly.",
               "La Chanca museum is an excellent covered alternative for those interested in culture.",
               "Many cafes in Calle Cádiz offer cozy indoor seating with views of the alleys."
+            ],
+            "es": [
+              "Los pavimentos calcáreos del casco antiguo pueden volverse extremadamente resbaladizos cuando están mojados.",
+              "La lonja del mercado es el mejor lugar para esperar a que pase un chaparrón con especialidades locales.",
+              "Lleva un impermeable cortavientos, ya que el viento del Atlántico suele soplar con fuerza.",
+              "El museo La Chanca es una excelente alternativa cubierta para quienes buscan cultura.",
+              "Muchos cafés en la Calle Cádiz ofrecen asientos interiores acogedores con vistas a las callejuelas."
             ]
           }
         },
@@ -513,7 +547,8 @@
             "de": "Erleben Sie die milde Wintersonne bei einem morgendlichen Spaziergang durch die ruhige Altstadt. Mittags lockt der Mercado mit frischen saisonalen Produkten wie Wintergemüse und Wildfisch. Der Nachmittag ist ideal, um die historische Architektur ohne die Sommerhitze zu bewundern. Da die Sonne früh untergeht, bietet der Torre de Guzmán gegen 18:00 Uhr einen spektakulären Blick auf den winterlichen Sonnenuntergang.",
             "hu": "Tapasztalja meg a mély téli napsütést egy reggeli séta során a csendes óvárosban. Délben a piac friss szezonális termékekkel, például téli zöldségekkel és vadhalakkal csábít. A délután ideális a történelmi építészet megcsodálására a nyári hőség nélkül. Mivel a nap korán nyugszik, a Torre de Guzmán 18:00 körül látványos kilátást nyújt a téli naplementére.",
             "ro": "Experimentați soarele blând de iarnă în timpul unei plimbări matinale prin centrul vechi liniștit. La prânz, piața atrage cu produse proaspete de sezon, cum ar fi legumele de iarnă și peștele sălbatic. După-amiaza este ideală pentru a admira arhitectura istorică fără căldura verii. Deoarece soarele apune devreme, Torre de Guzmán oferă la ora 18:00 o vedere spectaculoasă asupra apusului de iarnă.",
-            "en": "Experience the mild winter sun during a morning stroll through the quiet old town. At noon, the market tempts with fresh seasonal products like winter vegetables and wild fish. The afternoon is ideal for admiring historical architecture without the summer heat. Since the sun sets early, Torre de Guzmán offers a spectacular view of the winter sunset around 6:00 PM."
+            "en": "Experience the mild winter sun during a morning stroll through the quiet old town. At noon, the market tempts with fresh seasonal products like winter vegetables and wild fish. The afternoon is ideal for admiring historical architecture without the summer heat. Since the sun sets early, Torre de Guzmán offers a spectacular view of the winter sunset around 6:00 PM.",
+            "es": "Disfruta del suave sol invernal paseando por el tranquilo casco antiguo por la mañana. Al mediodía, el mercado tienta con productos frescos de temporada como hortalizas de invierno y pescado de litoral. La tarde es ideal para admirar la arquitectura histórica sin el calor veraniego. Como el sol se pone temprano, la Torre de Guzmán ofrece una vista espectacular del atardecer invernal alrededor de las 18:00."
           },
           "stops": [
             {
@@ -522,7 +557,8 @@
                 "de": "Genießen Sie die Sonne auf den Bänken, die windgeschützt liegen.",
                 "hu": "Élvezze a napsütést a szélvédett padokon.",
                 "ro": "Bucurați-vă de soare pe băncile protejate de vânt.",
-                "en": "Enjoy the sun on the benches that are sheltered from the wind."
+                "en": "Enjoy the sun on the benches that are sheltered from the wind.",
+                "es": "Disfruta del sol en los bancos resguardados del viento."
               }
             },
             {
@@ -531,7 +567,8 @@
                 "de": "Die Winterbeleuchtung am Abend verleiht dem Tor eine besondere Atmosphäre.",
                 "hu": "Az esti téli kivilágítás különleges hangulatot kölcsönöz a kapunak.",
                 "ro": "Iluminatul de iarnă seara oferă porții o atmosferă deosebită.",
-                "en": "The winter lighting in the evening gives the gate a special atmosphere."
+                "en": "The winter lighting in the evening gives the gate a special atmosphere.",
+                "es": "La iluminación invernal por la noche da a la puerta una atmósfera especial."
               }
             },
             {
@@ -540,7 +577,8 @@
                 "de": "Probieren Sie die typischen Mantecados, die es oft nur im Winter gibt.",
                 "hu": "Kóstolja meg a tipikus mantecadókat, amelyek gyakran csak télen kaphatók.",
                 "ro": "Gustați mantecados tipici, care se găsesc adesea doar iarna.",
-                "en": "Try the typical mantecados, often only available in winter."
+                "en": "Try the typical mantecados, often only available in winter.",
+                "es": "Prueba los típicos mantecados, que suelen estar disponibles solo en invierno."
               }
             },
             {
@@ -549,7 +587,8 @@
                 "de": "Bringen Sie eine Jacke mit, der Wind oben auf dem Turm ist im Winter kühl.",
                 "hu": "Hozzon kabátot, a szél a torony tetején télen hűvös.",
                 "ro": "Aduceți o jachetă, vântul de pe turn este rece iarna.",
-                "en": "Bring a jacket, the wind at the top of the tower is cool in winter."
+                "en": "Bring a jacket, the wind at the top of the tower is cool in winter.",
+                "es": "Lleva una chaqueta; el viento en la cima de la torre es fresco en invierno."
               }
             },
             {
@@ -558,7 +597,8 @@
                 "de": "Die dicken Mauern speichern die Kühle; ein Pullover ist ratsam.",
                 "hu": "A vastag falak tárolják a hideget; pulóver ajánlott.",
                 "ro": "Zidurile groase rețin frigul; un pulover este recomandat.",
-                "en": "The thick walls retain the cold; a sweater is advisable."
+                "en": "The thick walls retain the cold; a sweater is advisable.",
+                "es": "Los muros gruesos conservan el frío; es recomendable un suéter."
               }
             },
             {
@@ -567,7 +607,8 @@
                 "de": "Perfekt für lange Spaziergänge ohne die Touristenmassen.",
                 "hu": "Tökéletes hosszú sétákhoz a turistatömegek nélkül.",
                 "ro": "Perfect pentru plimbări lungi fără mulțimile de turiști.",
-                "en": "Perfect for long walks without the tourist crowds."
+                "en": "Perfect for long walks without the tourist crowds.",
+                "es": "Perfecto para largas caminatas sin las multitudes turísticas."
               }
             }
           ],
@@ -599,6 +640,13 @@
               "Many restaurants have shorter opening hours or closing days in winter.",
               "The air is very clear in winter, providing excellent photo opportunities.",
               "Look for restaurants with a 'Chimenea' (fireplace) for a cozy evening."
+            ],
+            "es": [
+              "El sol se pone alrededor de las 18:15 en invierno; planifica tu tiempo en la playa en consecuencia.",
+              "Vestir en capas es importante, ya que hace bastante más fresco a la sombra.",
+              "Muchos restaurantes tienen horarios reducidos o días de cierre en invierno.",
+              "El aire está muy limpio en invierno, lo que ofrece excelentes oportunidades fotográficas.",
+              "Busca restaurantes con 'chimenea' para una velada acogedora."
             ]
           }
         }
@@ -627,7 +675,8 @@
             "de": "Historisches Zentrum der Thunfischverarbeitung.",
             "hu": "A tonhalfeldolgozás történelmi központja.",
             "ro": "Centrul istoric al procesării tonului.",
-            "en": "Historic center of tuna processing."
+            "en": "Historic center of tuna processing.",
+            "es": "Centro histórico de la conservera de atún."
           }
         },
         {
@@ -645,7 +694,8 @@
             "de": "Gemütliche Fahrt am Strand entlang.",
             "hu": "Kellemes tekerés a tengerpart mentén.",
             "ro": "Plimbare plăcută de-a lungul plajei.",
-            "en": "Pleasant ride along the beach."
+            "en": "Pleasant ride along the beach.",
+            "es": "Paseo agradable a lo largo de la playa."
           }
         },
         {
@@ -663,7 +713,8 @@
             "de": "Wunderschöne versteckte Buchten.",
             "hu": "Gyönyörű rejtett öblök.",
             "ro": "Golfuri ascunse superbe.",
-            "en": "Beautiful hidden coves."
+            "en": "Beautiful hidden coves.",
+            "es": "Hermosas calas escondidas."
           }
         },
         {
@@ -681,7 +732,8 @@
             "de": "Holen Sie sich einen Snack nach der Tour.",
             "hu": "Vegyem egy kis tízórait a túra után.",
             "ro": "Luați o gustare după tur.",
-            "en": "Grab a snack after the tour."
+            "en": "Grab a snack after the tour.",
+            "es": "Toma un tentempié después del recorrido."
           }
         },
         {
@@ -699,7 +751,8 @@
             "de": "Zentraler Ort zum Entspannen.",
             "hu": "Központi hely a pihenéshez.",
             "ro": "Loc central pentru relaxare.",
-            "en": "Central place to relax."
+            "en": "Central place to relax.",
+            "es": "Lugar céntrico para relajarse."
           }
         }
       ],
@@ -707,7 +760,8 @@
         "de": "Erkunden Sie Conil und seine Umgebung mit dem Fahrrad. Starten Sie bei La Chanca und radeln Sie entlang der Küste.\n\nFahren Sie Richtung Norden zu den spektakulären Calas de Roche, wo Sie in kleinen Buchten zwischen den Klippen baden können.\n\nDer Weg führt durch Pinienwälder und bietet immer wieder fantastische Ausblicke auf den Ozean.\n\nKehren Sie am Nachmittag ins Zentrum zurück, besuchen Sie den Markt und beenden Sie den Tag entspannt auf der Plaza de España.",
         "hu": "Fedezze fel Conilt és környékét kerékpárral. Induljon La Chancától, és tekerjen a part mentén.\n\nInduljon észak felé a látványos Calas de Roche öblökhöz, ahol a sziklák közötti kis öblökben fürödhet.\n\nAz út fenyőerdőkön keresztül vezet, és újra meg újra fantasztikus kilátást nyújt az óceánra.\n\nDélután térjen vissza a központba, látogasson el a piacra, és zárja a napot pihentetően a Plaza de Españán.",
         "ro": "Explorați Conil și împrejurimile sale cu bicicleta. Începeți de la La Chanca și pedalați de-a lungul coastei.\n\nMergeți spre nord către spectaculoasele Calas de Roche, unde puteți înota în golfulețe mici între stânci.\n\nDrumul trece prin păduri de pini și oferă constant vederi fantastice asupra oceanului.\n\nÎntoarceți-vă după-amiaza în centru, vizitați piața și încheiați ziua relaxat în Plaza de España.",
-        "en": "Explore Conil and its surroundings by bike. Start at La Chanca and pedal along the coast.\n\nHead north to the spectacular Calas de Roche, where you can swim in small coves tucked between the cliffs.\n\nThe path leads through pine forests and offers fantastic views of the ocean time and again.\n\nReturn to the center in the afternoon, visit the market, and end the day relaxed at Plaza de España."
+        "en": "Explore Conil and its surroundings by bike. Start at La Chanca and pedal along the coast.\n\nHead north to the spectacular Calas de Roche, where you can swim in small coves tucked between the cliffs.\n\nThe path leads through pine forests and offers fantastic views of the ocean time and again.\n\nReturn to the center in the afternoon, visit the market, and end the day relaxed at Plaza de España.",
+        "es": "Explora Conil y sus alrededores en bicicleta. Comienza en La Chanca y pedalea junto a la costa.\n\nDirígete hacia el norte hasta las espectaculares Calas de Roche, donde puedes bañarte en pequeñas calas entre los acantilados.\n\nEl camino atraviesa pinares y ofrece fantásticas vistas del océano una y otra vez.\n\nVuelve al centro por la tarde, visita el mercado y termina el día relajado en la Plaza de España."
       },
       "gastro_picks": {
         "de": [
@@ -815,6 +869,12 @@
           "Take swimwear for the Calas de Roche.",
           "Paths through the pine forest can be sandy in parts.",
           "A lock is essential for stops."
+        ],
+        "es": [
+          "Los alquileres de bicicletas están ubicados cerca de la Plaza de España.",
+          "Lleva bañador para las Calas de Roche.",
+          "Los senderos por el pinar pueden estar arenosos en tramos.",
+          "Un candado es imprescindible para las paradas."
         ]
       },
       "variants": {
@@ -823,7 +883,8 @@
             "de": "Erkunden Sie Conil und seine Umgebung mit dem Fahrrad. Starten Sie bei La Chanca und radeln Sie entlang der Küste.\n\nFahren Sie Richtung Norden zu den spektakulären Calas de Roche, wo Sie in kleinen Buchten zwischen den Klippen baden können.\n\nDer Weg führt durch Pinienwälder und bietet immer wieder fantastische Ausblicke auf den Ozean.\n\nKehren Sie am Nachmittag ins Zentrum zurück, besuchen Sie den Markt und beenden Sie den Tag entspannt auf der Plaza de España.",
             "hu": "Fedezze fel Conilt és környékét kerékpárral. Induljon La Chancától, és tekerjen a part mentén.\n\nInduljon észak felé a látványos Calas de Roche öblökhöz, ahol a sziklák közötti kis öblökben fürödhet.\n\nAz út fenyőerdőkön keresztül vezet, és újra meg újra fantasztikus kilátást nyújt az óceánra.\n\nDélután térjen vissza a központba, látogasson el a piacra, és zárja a napot pihentetően a Plaza de Españán.",
             "ro": "Explorați Conil și împrejurimile sale cu bicicleta. Începeți de la La Chanca și pedalați de-a lungul coastei.\n\nMergeți spre nord către spectaculoasele Calas de Roche, unde puteți înota în golfulețe mici între stânci.\n\nDrumul trece prin păduri de pini și oferă constant vederi fantastice asupra oceanului.\n\nÎntoarceți-vă după-amiaza în centru, vizitați piața și încheiați ziua relaxat în Plaza de España.",
-            "en": "Explore Conil and its surroundings by bike. Start at La Chanca and pedal along the coast.\n\nHead north to the spectacular Calas de Roche, where you can swim in small coves tucked between the cliffs.\n\nThe path leads through pine forests and offers fantastic views of the ocean time and again.\n\nReturn to the center in the afternoon, visit the market, and end the day relaxed at Plaza de España."
+            "en": "Explore Conil and its surroundings by bike. Start at La Chanca and pedal along the coast.\n\nHead north to the spectacular Calas de Roche, where you can swim in small coves tucked between the cliffs.\n\nThe path leads through pine forests and offers fantastic views of the ocean time and again.\n\nReturn to the center in the afternoon, visit the market, and end the day relaxed at Plaza de España.",
+            "es": "Explora Conil y sus alrededores en bicicleta. Comienza en La Chanca y pedalea junto a la costa.\n\nDirígete hacia el norte hasta las espectaculares Calas de Roche, donde puedes bañarte en pequeñas calas entre los acantilados.\n\nEl camino atraviesa pinares y ofrece fantásticas vistas del océano una y otra vez.\n\nVuelve al centro por la tarde, visita el mercado y termina el día relajado en la Plaza de España."
           },
           "stops": [
             {
@@ -953,6 +1014,12 @@
               "Take swimwear for the Calas de Roche.",
               "Paths through the pine forest can be sandy in parts.",
               "A lock is essential for stops."
+            ],
+            "es": [
+              "Los alquileres de bicicletas están ubicados cerca de la Plaza de España.",
+              "Lleva bañador para las Calas de Roche.",
+              "Los senderos por el pinar pueden estar arenosos en tramos.",
+              "Un candado es imprescindible para las paradas."
             ]
           }
         },
@@ -961,7 +1028,8 @@
             "de": "Starten Sie vorsichtig bei La Chanca, wo Sie das Fischereierbe im Trockenen erkunden können. Die Fahrt zum Bateles-Strand ist kurz, nutzen Sie die befestigten Wege. Mittags bietet die Route zu den Calas de Roche eine Herausforderung im Wind, bleiben Sie auf den Hauptwegen. Der Mercado de Abastos ist der ideale Ort, um sich am Nachmittag aufzuwärmen, bevor Sie den Tag an der geschützten Plaza de España beenden.",
             "hu": "Kezdje óvatosan a La Chanca-nál, ahol fedett helyen fedezheti fel a halászati örökséget. A Bateles-partra vezető út rövid, használja a szilárd burkolatú utakat. Délben a Calas de Roche felé vezető útvonal kihívást jelenthet a szélben, maradjon a főutakon. A Mercado de Abastos ideális hely a felmelegedésre délután, mielőtt a napot a védett Plaza de España-n fejezné be.",
             "ro": "Porniți cu prudență de la La Chanca, unde puteți explora moștenirea pescuitului la adăpost. Drumul spre plaja Bateles este scurt, folosiți potecile pavate. La prânz, ruta spre Calas de Roche este o provocare în vânt, rămâneți pe drumurile principale. Mercado de Abastos este locul ideal pentru a vă încălzi după-amiaza, înainte de a încheia ziua în Plaza de España, bine protejată.",
-            "en": "Start carefully at La Chanca, where you can explore the fishing heritage in the dry. The ride to Bateles Beach is short, use the paved paths. At noon, the route to Calas de Roche poses a challenge in the wind, stay on the main roads. Mercado de Abastos is the ideal place to warm up in the afternoon before ending the day at the sheltered Plaza de España."
+            "en": "Start carefully at La Chanca, where you can explore the fishing heritage in the dry. The ride to Bateles Beach is short, use the paved paths. At noon, the route to Calas de Roche poses a challenge in the wind, stay on the main roads. Mercado de Abastos is the ideal place to warm up in the afternoon before ending the day at the sheltered Plaza de España.",
+            "es": "Comienza con calma en La Chanca, donde puedes explorar la herencia pesquera a cubierto. El trayecto hasta la playa de Los Bateles es corto; utiliza los caminos pavimentados. Al mediodía, la ruta hacia las Calas de Roche presenta un desafío con viento; mantente en las carreteras principales. Mercado de Abastos es el lugar ideal para entrar en calor por la tarde antes de terminar el día en la resguardada Plaza de España."
           },
           "stops": [
             {
@@ -970,7 +1038,8 @@
                 "de": "Großzügige Innenbereiche zum Abstellen der Räder und zum Trocknen.",
                 "hu": "Tágas belső terek a kerékpárok tárolására és a száradáshoz.",
                 "ro": "Spații interioare generoase pentru depozitarea bicicletelor și uscare.",
-                "en": "Generous indoor areas for parking bikes and drying off."
+                "en": "Generous indoor areas for parking bikes and drying off.",
+                "es": "Amplias zonas interiores para aparcar bicicletas y secarse."
               }
             },
             {
@@ -979,7 +1048,8 @@
                 "de": "Achten Sie auf sandige, rutschige Stellen auf dem Radweg nach dem Regen.",
                 "hu": "Ügyeljen a homokos, csúszós helyekre a kerékpárúton eső után.",
                 "ro": "Atenție la porțiunile nisipoase și alunecoase de pe pistă după ploaie.",
-                "en": "Watch out for sandy, slippery spots on the bike path after rain."
+                "en": "Watch out for sandy, slippery spots on the bike path after rain.",
+                "es": "Cuidado con los tramos arenosos y resbaladizos en el carril bici después de la lluvia."
               }
             },
             {
@@ -988,7 +1058,8 @@
                 "de": "Die Pinienwälder bieten etwas Schutz vor Wind und leichtem Regen.",
                 "hu": "A fenyőerdők némi védelmet nyújtanak a szél és az enyhe eső ellen.",
                 "ro": "Pădurile de pini oferă oarecare protecție împotriva vântului și ploii ușoare.",
-                "en": "The pine forests offer some shelter from wind and light rain."
+                "en": "The pine forests offer some shelter from wind and light rain.",
+                "es": "Los pinares ofrecen cierto resguardo del viento y la lluvia ligera."
               }
             },
             {
@@ -997,7 +1068,8 @@
                 "de": "Fahrradständer direkt vor dem überdachten Eingang vorhanden.",
                 "hu": "Kerékpártárolók közvetlenül a fedett bejárat előtt találhatók.",
                 "ro": "Rafturi pentru biciclete disponibile chiar în fața intrării acoperite.",
-                "en": "Bike racks available directly in front of the covered entrance."
+                "en": "Bike racks available directly in front of the covered entrance.",
+                "es": "Aparcabicicletas disponibles justo delante de la entrada cubierta."
               }
             },
             {
@@ -1006,7 +1078,8 @@
                 "de": "Das Kopfsteinpflaster hier ist bei Nässe besonders tückisch.",
                 "hu": "A macskakő itt különösen csalóka, ha nedves.",
                 "ro": "Pavajul de aici este deosebit de periculos când este ud.",
-                "en": "The cobblestones here are particularly treacherous when wet."
+                "en": "The cobblestones here are particularly treacherous when wet.",
+                "es": "Los adoquines aquí son especialmente traicioneros cuando están mojados."
               }
             }
           ],
@@ -1038,6 +1111,13 @@
               "Mudguards are essential on the clayey paths around Conil in the rain.",
               "The coastal road to Roche is better drained than the forest paths.",
               "Check your brakes before departing, as sand and water increase wear."
+            ],
+            "es": [
+              "Reduce ligeramente la presión de los neumáticos para mejor agarre en losetas húmedas.",
+              "Evita las pasarelas de madera en la playa; se vuelven extremadamente resbaladizas.",
+              "Los guardabarros son esenciales en los caminos arcillosos alrededor de Conil cuando llueve.",
+              "La carretera costera hacia Roche drena mejor que los senderos del bosque.",
+              "Revisa tus frenos antes de partir, pues la arena y el agua aumentan el desgaste."
             ]
           }
         },
@@ -1046,7 +1126,8 @@
             "de": "Genießen Sie die frische Meeresbrise am Morgen bei La Chanca. Die Fahrt entlang der Playa de los Bateles ist im Winter besonders belebend, da der Strand fast leer ist. Mittags erreichen Sie die Calas de Roche, wo das Licht für Fotos perfekt ist. Nach einer Aufwärmpause im Mercado de Abastos beenden Sie Ihre Tour an der Plaza de España, während die tiefstehende Wintersonne die weißen Häuser in goldenes Licht taucht.",
             "hu": "Élvezze a friss tengeri szellőt reggel a La Chanca-nál. A Playa de los Bateles menti kerékpározás télen különösen frissítő, mivel a strand szinte üres. Délben eléri a Calas de Roche-t, ahol a fények tökéletesek a fotózáshoz. Egy melegítő pihenő után a Mercado de Abastos-ban, fejezze be túráját a Plaza de España-n, miközben az alacsonyan járó téli nap arany fénybe vonja a fehér házakat.",
             "ro": "Bucurați-vă de briza proaspătă a mării dimineața la La Chanca. Călătoria de-a lungul Playa de los Bateles este deosebit de revigorantă iarna, plaja fiind aproape goală. La prânz ajungeți la Calas de Roche, unde lumina este perfectă pentru fotografii. După o pauză de încălzire la Mercado de Abastos, încheiați turul în Plaza de España, în timp ce soarele jos de iarnă scaldă casele albe în lumină aurie.",
-            "en": "Enjoy the fresh sea breeze in the morning at La Chanca. The ride along Playa de los Bateles is especially invigorating in winter as the beach is almost empty. At noon, you reach Calas de Roche, where the light is perfect for photos. After a warming break at Mercado de Abastos, end your tour at Plaza de España as the low winter sun bathes the white houses in golden light."
+            "en": "Enjoy the fresh sea breeze in the morning at La Chanca. The ride along Playa de los Bateles is especially invigorating in winter as the beach is almost empty. At noon, you reach Calas de Roche, where the light is perfect for photos. After a warming break at Mercado de Abastos, end your tour at Plaza de España as the low winter sun bathes the white houses in golden light.",
+            "es": "Disfruta de la brisa marina fresca por la mañana en La Chanca. El paseo por Playa de los Bateles es especialmente vigorizante en invierno, ya que la playa está casi vacía. Al mediodía llegas a las Calas de Roche, donde la luz es perfecta para fotos. Tras una parada para entrar en calor en el Mercado de Abastos, termina tu ruta en la Plaza de España mientras el bajo sol invernal baña las casas blancas con luz dorada."
           },
           "stops": [
             {
@@ -1055,7 +1136,8 @@
                 "de": "Nutzen Sie den windgeschützten Innenhof für die Vorbereitung.",
                 "hu": "Használja a szélvédett belső udvart az előkészületekhez.",
                 "ro": "Folosiți curtea interioară protejată de vânt pentru pregătire.",
-                "en": "Use the wind-sheltered inner courtyard for preparation."
+                "en": "Use the wind-sheltered inner courtyard for preparation.",
+                "es": "Utiliza el patio interior resguardado para los preparativos."
               }
             },
             {
@@ -1064,7 +1146,8 @@
                 "de": "Im Winter kann der Sand durch starke Stürme auf den Radweg geweht sein.",
                 "hu": "Télen a homokot az erős viharok a kerékpárútra fújhatják.",
                 "ro": "Iarna, nisipul poate fi suflat pe pistă de furtunile puternice.",
-                "en": "In winter, sand may be blown onto the bike path by strong storms."
+                "en": "In winter, sand may be blown onto the bike path by strong storms.",
+                "es": "En invierno, la arena puede ser arrastrada al carril bici por fuertes temporales."
               }
             },
             {
@@ -1073,7 +1156,8 @@
                 "de": "Die Klippenpfade sind im Winter oft windig; halten Sie Abstand zum Rand.",
                 "hu": "A sziklaösvények télen gyakran szelesek; tartson távolságot a széltől.",
                 "ro": "Potecile de pe faleză sunt adesea vântoase iarna; păstrați distanța de margine.",
-                "en": "The cliff paths are often windy in winter; stay away from the edge."
+                "en": "The cliff paths are often windy in winter; stay away from the edge.",
+                "es": "Los senderos de los acantilados suelen ser ventosos en invierno; mantente alejado del borde."
               }
             },
             {
@@ -1082,7 +1166,8 @@
                 "de": "Ein heißer Kaffee hier hilft gegen die kühle Winterbrise.",
                 "hu": "Egy forró kávé itt segít a hűvös téli szellő ellen.",
                 "ro": "O cafea fierbinte aici ajută împotriva brizei reci de iarnă.",
-                "en": "A hot coffee here helps against the cool winter breeze."
+                "en": "A hot coffee here helps against the cool winter breeze.",
+                "es": "Un café caliente aquí ayuda contra la fresca brisa invernal."
               }
             },
             {
@@ -1091,7 +1176,8 @@
                 "de": "Genießen Sie das goldene Licht der Abendsonne auf den weißen Fassaden.",
                 "hu": "Élvezze az esti napsütés arany fényét a fehér homlokzatokon.",
                 "ro": "Bucurați-vă de lumina aurie a soarelui de seară pe fațadele albe.",
-                "en": "Enjoy the golden light of the evening sun on the white facades."
+                "en": "Enjoy the golden light of the evening sun on the white facades.",
+                "es": "Disfruta de la luz dorada del sol vespertino en las fachadas blancas."
               }
             }
           ],
@@ -1123,6 +1209,13 @@
               "The wind in winter mostly blows from the northeast (Levante) or southwest (Poniente).",
               "Bring a thermos; picnic spots in Roche are empty in winter.",
               "Bike paths are significantly less crowded in winter; enjoy the freedom."
+            ],
+            "es": [
+              "Se recomiendan guantes para los descensos en las primeras horas de la mañana.",
+              "Los días son cortos; asegúrate de que las luces de tu bicicleta funcionen.",
+              "El viento en invierno sopla mayormente del noreste (Levante) o del suroeste (Poniente).",
+              "Lleva un termo; los miradores en Roche están vacíos en invierno.",
+              "Los carriles bici están mucho menos concurridos en invierno; disfruta de la libertad."
             ]
           }
         }
@@ -1151,7 +1244,8 @@
             "de": "Guter Startpunkt, Parkplatz am Stadtrand nutzen.",
             "hu": "Jó kezdőpont, használja a város széli parkolót.",
             "ro": "Punct bun de start, folosiți parcarea de la marginea orașului.",
-            "en": "Good starting point, use the parking at the city edge."
+            "en": "Good starting point, use the parking at the city edge.",
+            "es": "Buen punto de partida; utiliza el aparcamiento en la periferia de la ciudad."
           }
         },
         {
@@ -1169,7 +1263,8 @@
             "de": "Erfahren Sie mehr über die lokale Geschichte.",
             "hu": "Ismerje meg a helyi történelmet.",
             "ro": "Aflați mai multe despre istoria locală.",
-            "en": "Learn more about local history."
+            "en": "Learn more about local history.",
+            "es": "Descubre más sobre la historia local."
           }
         },
         {
@@ -1187,7 +1282,8 @@
             "de": "Parkplätze sind an den Aussichtspunkten vorhanden.",
             "hu": "Parkolók a kilátópontoknál találhatók.",
             "ro": "Parcările sunt disponibile la punctele de belvedere.",
-            "en": "Parking is available at the viewpoints."
+            "en": "Parking is available at the viewpoints.",
+            "es": "Hay aparcamiento disponible en los miradores."
           }
         },
         {
@@ -1205,7 +1301,8 @@
             "de": "Kleine, charmante Kapelle im Zentrum.",
             "hu": "Kicsi, bájos kápolna a központban.",
             "ro": "Capelă mică și fermecătoare în centru.",
-            "en": "Small, charming chapel in the center."
+            "en": "Small, charming chapel in the center.",
+            "es": "Pequeña y encantadora capilla en el centro."
           }
         },
         {
@@ -1223,7 +1320,8 @@
             "de": "Abschluss am Strand, großer Parkplatz vorhanden.",
             "hu": "Zárás a strandon, tágas parkoló áll rendelkezésre.",
             "ro": "Final pe plajă, parcare mare disponibilă.",
-            "en": "Finish at the beach, large parking available."
+            "en": "Finish at the beach, large parking available.",
+            "es": "Termina en la playa; amplio aparcamiento disponible."
           }
         }
       ],
@@ -1231,7 +1329,8 @@
         "de": "Mit dem Auto erreichen Sie mühelos die schönsten Ecken von Conil. Beginnen Sie im historischen Zentrum bei der Torre de Guzmán.\n\nBesuchen Sie das Heimatmuseum, um ein Gefühl für das alte Conil zu bekommen, bevor Sie zu den beeindruckenden Buchten von Roche fahren.\n\nGenießen Sie die Freiheit, verschiedene Aussichtspunkte an der Küste anzusteuern.\n\nKehren Sie am Nachmittag zurück ins Stadtgebiet, besichtigen Sie die Ermita de la Misericordia und lassen Sie den Tag am Strand ausklingen.",
         "hu": "Autóval könnyedén elérheti Conil legszebb szegleteit. Kezdje a történelmi központban a Torre de Guzmán toronynál.\n\nLátogasson el a helytörténeti múzeumba, hogy megismerje a régi Conil hangulatát, majd induljon a lenyűgöző Roche öblökhöz.\n\nÉlvezze a szabadságot, ahogy felfedezi a part menti különböző kilátópontokat.\n\nDélután térjen vissza a városba, nézze meg az Ermita de la Misericordia kápolnát, és zárja a napot a tengerparton.",
         "ro": "Cu mașina ajungeți fără efort în cele mai frumoase colțuri din Conil. Începeți în centrul istoric la Torre de Guzmán.\n\nVizitați muzeul local pentru a simți atmosfera vechiului Conil înainte de a merge la golfurile impresionante din Roche.\n\nBucurați-vă de libertatea de a vizita diverse puncte de belvedere de pe coastă.\n\nÎntoarceți-vă după-amiaza în oraș, vizitați Ermita de la Misericordia și încheiați ziua pe plajă.",
-        "en": "By car, you can effortlessly reach the most beautiful corners of Conil. Start in the historic center at the Torre de Guzmán.\n\nVisit the local heritage museum to get a feel for old Conil before heading to the impressive coves of Roche.\n\nEnjoy the freedom to visit various viewpoints along the coast.\n\nReturn to the town area in the afternoon, see the Ermita de la Misericordia, and end the day at the beach."
+        "en": "By car, you can effortlessly reach the most beautiful corners of Conil. Start in the historic center at the Torre de Guzmán.\n\nVisit the local heritage museum to get a feel for old Conil before heading to the impressive coves of Roche.\n\nEnjoy the freedom to visit various viewpoints along the coast.\n\nReturn to the town area in the afternoon, see the Ermita de la Misericordia, and end the day at the beach.",
+        "es": "En coche puedes llegar sin esfuerzo a los rincones más bonitos de Conil. Empieza en el casco histórico, en la Torre de Guzmán.\n\nVisita el museo de la memoria local para sentir el Conil de antaño antes de dirigirte a las impresionantes calas de Roche.\n\nDisfruta de la libertad para visitar varios miradores a lo largo de la costa.\n\nVuelve a la zona del pueblo por la tarde, visita la Ermita de la Misericordia y termina el día en la playa."
       },
       "gastro_picks": {
         "de": [
@@ -1339,6 +1438,12 @@
           "The roads to the Roche coves are narrow.",
           "Watch out for one-way streets in the old town.",
           "A rental car also allows for trips to El Palmar."
+        ],
+        "es": [
+          "Aparcar en el centro puede ser difícil; utiliza los grandes estacionamientos.",
+          "Las carreteras hacia las calas de Roche son estrechas.",
+          "Cuidado con las calles de sentido único en el casco antiguo.",
+          "Un coche de alquiler también permite excursiones a El Palmar."
         ]
       },
       "variants": {
@@ -1347,7 +1452,8 @@
             "de": "Mit dem Auto erreichen Sie mühelos die schönsten Ecken von Conil. Beginnen Sie im historischen Zentrum bei der Torre de Guzmán.\n\nBesuchen Sie das Heimatmuseum, um ein Gefühl für das alte Conil zu bekommen, bevor Sie zu den beeindruckenden Buchten von Roche fahren.\n\nGenießen Sie die Freiheit, verschiedene Aussichtspunkte an der Küste anzusteuern.\n\nKehren Sie am Nachmittag zurück ins Stadtgebiet, besichtigen Sie die Ermita de la Misericordia und lassen Sie den Tag am Strand ausklingen.",
             "hu": "Autóval könnyedén elérheti Conil legszebb szegleteit. Kezdje a történelmi központban a Torre de Guzmán toronynál.\n\nLátogasson el a helytörténeti múzeumba, hogy megismerje a régi Conil hangulatát, majd induljon a lenyűgöző Roche öblökhöz.\n\nÉlvezze a szabadságot, ahogy felfedezi a part menti különböző kilátópontokat.\n\nDélután térjen vissza a városba, nézze meg az Ermita de la Misericordia kápolnát, és zárja a napot a tengerparton.",
             "ro": "Cu mașina ajungeți fără efort în cele mai frumoase colțuri din Conil. Începeți în centrul istoric la Torre de Guzmán.\n\nVizitați muzeul local pentru a simți atmosfera vechiului Conil înainte de a merge la golfurile impresionante din Roche.\n\nBucurați-vă de libertatea de a vizita diverse puncte de belvedere de pe coastă.\n\nÎntoarceți-vă după-amiaza în oraș, vizitați Ermita de la Misericordia și încheiați ziua pe plajă.",
-            "en": "By car, you can effortlessly reach the most beautiful corners of Conil. Start in the historic center at the Torre de Guzmán.\n\nVisit the local heritage museum to get a feel for old Conil before heading to the impressive coves of Roche.\n\nEnjoy the freedom to visit various viewpoints along the coast.\n\nReturn to the town area in the afternoon, see the Ermita de la Misericordia, and end the day at the beach."
+            "en": "By car, you can effortlessly reach the most beautiful corners of Conil. Start in the historic center at the Torre de Guzmán.\n\nVisit the local heritage museum to get a feel for old Conil before heading to the impressive coves of Roche.\n\nEnjoy the freedom to visit various viewpoints along the coast.\n\nReturn to the town area in the afternoon, see the Ermita de la Misericordia, and end the day at the beach.",
+            "es": "En coche puedes llegar sin esfuerzo a los rincones más bonitos de Conil. Empieza en el casco histórico, en la Torre de Guzmán.\n\nVisita el museo de la memoria local para sentir el Conil de antaño antes de dirigirte a las impresionantes calas de Roche.\n\nDisfruta de la libertad para visitar varios miradores a lo largo de la costa.\n\nVuelve a la zona del pueblo por la tarde, visita la Ermita de la Misericordia y termina el día en la playa."
           },
           "stops": [
             {
@@ -1477,6 +1583,12 @@
               "The roads to the Roche coves are narrow.",
               "Watch out for one-way streets in the old town.",
               "A rental car also allows for trips to El Palmar."
+            ],
+            "es": [
+              "Aparcar en el centro puede ser difícil; utiliza los grandes estacionamientos.",
+              "Las carreteras hacia las calas de Roche son estrechas.",
+              "Cuidado con las calles de sentido único en el casco antiguo.",
+              "Un coche de alquiler también permite excursiones a El Palmar."
             ]
           }
         },
@@ -1485,7 +1597,8 @@
             "de": "Nutzen Sie den Komfort Ihres Wagens, um den Torre de Guzmán zu besuchen, während die Schauer über das Meer ziehen. Das Museo de Raíces Conileñas bietet danach eine interessante und trockene Zeitreise. Mittags fahren Sie zu den Calas de Roche, wo Sie das Spektakel der Wellen sicher vom Auto aus beobachten können. Nach einem kurzen Stopp an der Ermita de la Misericordia beenden Sie den Tag entspannt am Strand von Los Bateles.",
             "hu": "Használja autója kényelmét a Torre de Guzmán meglátogatásához, miközben a záporok elvonulnak a tenger felett. A Museo de Raíces Conileñas ezután érdekes és száraz időutazást kínál. Délben hajtson a Calas de Roche-hoz, ahol az autóból biztonságban figyelheti a hullámok játékát. Az Ermita de la Misericordia-nál tett rövid megálló után zárja a napot pihentetően a Los Bateles strandon.",
             "ro": "Folosiți confortul mașinii pentru a vizita Torre de Guzmán în timp ce aversele trec peste mare. Museo de Raíces Conileñas oferă apoi o călătorie în timp interesantă și uscată. La prânz, conduceți spre Calas de Roche, unde puteți observa spectacolul valurilor în siguranță din mașină. După o scurtă oprire la Ermita de la Misericordia, încheiați ziua relaxat la plaja Los Bateles.",
-            "en": "Use the comfort of your car to visit Torre de Guzmán while showers pass over the sea. The Museo de Raíces Conileñas then offers an interesting and dry journey through time. At noon, drive to Calas de Roche, where you can safely watch the spectacle of the waves from your car. After a short stop at the Ermita de la Misericordia, end the day in a relaxed manner at Los Bateles beach."
+            "en": "Use the comfort of your car to visit Torre de Guzmán while showers pass over the sea. The Museo de Raíces Conileñas then offers an interesting and dry journey through time. At noon, drive to Calas de Roche, where you can safely watch the spectacle of the waves from your car. After a short stop at the Ermita de la Misericordia, end the day in a relaxed manner at Los Bateles beach.",
+            "es": "Aprovecha la comodidad del coche para visitar la Torre de Guzmán mientras los chubascos pasan sobre el mar. El Museo de Raíces Conileñas ofrece después un viaje interesante y seco a través del tiempo. Al mediodía, conduce hasta las Calas de Roche, donde puedes contemplar con seguridad el espectáculo de las olas desde el coche. Tras una breve parada en la Ermita de la Misericordia, termina el día relajadamente en la playa de Los Bateles."
           },
           "stops": [
             {
@@ -1494,7 +1607,8 @@
                 "de": "Parken Sie am Paseo Marítimo, um den Fußweg im Regen kurz zu halten.",
                 "hu": "Parkoljon a Paseo Marítimo-n, hogy röviden tartsa a gyalogutat az esőben.",
                 "ro": "Parcați la Paseo Marítimo pentru a scurta drumul pe jos prin ploaie.",
-                "en": "Park at Paseo Marítimo to keep the walk in the rain short."
+                "en": "Park at Paseo Marítimo to keep the walk in the rain short.",
+                "es": "Aparca en el Paseo Marítimo para mantener corto el paseo bajo la lluvia."
               }
             },
             {
@@ -1503,7 +1617,8 @@
                 "de": "Ein perfekter Ort, um eine schwere Regenfront im Inneren abzuwarten.",
                 "hu": "Tökéletes hely egy nehéz esőfront kivárására a belső térben.",
                 "ro": "Un loc perfect pentru a aștepta trecerea unui front de ploaie în interior.",
-                "en": "A perfect place to wait out a heavy rain front indoors."
+                "en": "A perfect place to wait out a heavy rain front indoors.",
+                "es": "Un lugar perfecto para esperar un fuerte frente de lluvia en interiores."
               }
             },
             {
@@ -1512,7 +1627,8 @@
                 "de": "Der Parkplatz bietet einen tollen Blick auf die Küste direkt aus dem Fenster.",
                 "hu": "A parkoló remek kilátást nyújt a partra közvetlenül az ablakból.",
                 "ro": "Parcarea oferă o vedere excelentă spre coastă direct de pe geam.",
-                "en": "The parking lot offers a great view of the coast directly from your window."
+                "en": "The parking lot offers a great view of the coast directly from your window.",
+                "es": "El aparcamiento ofrece una gran vista de la costa directamente desde tu ventanilla."
               }
             },
             {
@@ -1521,7 +1637,8 @@
                 "de": "Kurzer Stopp möglich; die Straße davor ist auch bei Regen gut befahrbar.",
                 "hu": "Rövid megálló lehetséges; az előtte lévő út esőben is jól járható.",
                 "ro": "Oprire scurtă posibilă; drumul din față este practicabil și pe ploaie.",
-                "en": "Short stop possible; the road in front is easily navigable even in rain."
+                "en": "Short stop possible; the road in front is easily navigable even in rain.",
+                "es": "Parada breve posible; la carretera de delante es fácilmente transitable incluso con lluvia."
               }
             },
             {
@@ -1530,7 +1647,8 @@
                 "de": "Es gibt viele strandnahe Parkplätze mit Blick auf die Brandung.",
                 "hu": "Számos strandközeli parkoló található kilátással a hullámtörésre.",
                 "ro": "Există multe locuri de parcare lângă plajă cu vedere la valuri.",
-                "en": "There are many parking spaces near the beach with views of the surf."
+                "en": "There are many parking spaces near the beach with views of the surf.",
+                "es": "Hay muchos espacios de aparcamiento cerca de la playa con vistas al oleaje."
               }
             }
           ],
@@ -1562,6 +1680,13 @@
               "The coastal road to Roche offers many lay-bys for photos from the dry car.",
               "Do not leave valuables visible in the car, even if it is raining.",
               "Visibility can be severely limited by sea spray; turn on your lights."
+            ],
+            "es": [
+              "Evita los estacionamientos sin pavimentar, ya que pueden convertirse rápidamente en barro.",
+              "Cuidado con los charcos en los bajíos; el sistema de drenaje puede verse desbordado con lluvia intensa.",
+              "La carretera costera hacia Roche ofrece muchos arcenes para hacer fotos desde el coche en seco.",
+              "No dejes objetos de valor a la vista en el coche, aunque esté lloviendo.",
+              "La visibilidad puede reducirse mucho por la espuma del mar; enciende las luces."
             ]
           }
         },
@@ -1570,7 +1695,8 @@
             "de": "Starten Sie Ihre Wintertour am Torre de Guzmán, wenn die Luft am klarsten ist. Das Museo de Raíces Conileñas bietet einen faszinierenden Einblick in das lokale Leben vergangener Zeiten. Mittags ist die Fahrt zu den Calas de Roche ein Genuss, da die Straßen leer sind und die Aussichtspunkte Ihnen fast alleine gehören. Nach der Ermita de la Misericordia können Sie den Tag mit einem Blick auf den Sonnenuntergang über dem Atlantik bei Los Bateles krönen.",
             "hu": "Kezdje téli túráját a Torre de Guzmán-nál, amikor a legtisztább a levegő. A Museo de Raíces Conileñas lenyűgöző betekintést nyújt a múltbéli helyi életbe. Délben a Calas de Roche felé vezető út élvezet, mivel az utak üresek, és a kilátók szinte csak az Önöké. Az Ermita de la Misericordia után a napot az Atlanti-óceán feletti naplemente látványával koronázhatja meg a Los Bateles-nél.",
             "ro": "Începeți turul de iarnă la Torre de Guzmán când aerul este cel mai clar. Museo de Raíces Conileñas oferă o perspectivă fascinantă asupra vieții locale de altădată. La prânz, drumul spre Calas de Roche este o plăcere, străzile fiind libere, iar punctele de belvedere vă aparțin aproape în totalitate. După Ermita de la Misericordia, puteți încheia ziua cu apusul soarelui peste Atlantic la Los Bateles.",
-            "en": "Start your winter tour at Torre de Guzmán when the air is clearest. The Museo de Raíces Conileñas offers a fascinating insight into local life of times past. At noon, the drive to Calas de Roche is a delight as the roads are empty and the viewpoints are almost yours alone. After Ermita de la Misericordia, you can crown the day with a view of the sunset over the Atlantic at Los Bateles."
+            "en": "Start your winter tour at Torre de Guzmán when the air is clearest. The Museo de Raíces Conileñas offers a fascinating insight into local life of times past. At noon, the drive to Calas de Roche is a delight as the roads are empty and the viewpoints are almost yours alone. After Ermita de la Misericordia, you can crown the day with a view of the sunset over the Atlantic at Los Bateles.",
+            "es": "Comienza tu ruta invernal en la Torre de Guzmán cuando el aire está más limpio. El Museo de Raíces Conileñas ofrece una visión fascinante de la vida local de antaño. Al mediodía, el trayecto hasta las Calas de Roche es un placer, ya que las carreteras están vacías y los miradores casi para ti solo. Tras la Ermita de la Misericordia, puedes coronar el día con la vista del atardecer sobre el Atlántico en Los Bateles."
           },
           "stops": [
             {
@@ -1579,7 +1705,8 @@
                 "de": "Parkplätze sind im Winter direkt in der Nähe problemlos zu finden.",
                 "hu": "Télen a közvetlen közelben probléma nélkül találhatók parkolóhelyek.",
                 "ro": "Locurile de parcare sunt ușor de găsit în apropiere în timpul iernii.",
-                "en": "Parking spaces are easy to find directly nearby in winter."
+                "en": "Parking spaces are easy to find directly nearby in winter.",
+                "es": "En invierno es fácil encontrar plazas de aparcamiento justo cerca."
               }
             },
             {
@@ -1588,7 +1715,8 @@
                 "de": "Prüfen Sie die Winteröffnungszeiten, diese können abweichen.",
                 "hu": "Ellenőrizze a téli nyitvatartást, ezek eltérhetnek.",
                 "ro": "Verificați programul de iarnă, acesta poate varia.",
-                "en": "Check the winter opening hours, as they may differ."
+                "en": "Check the winter opening hours, as they may differ.",
+                "es": "Consulta los horarios de invierno, ya que pueden variar."
               }
             },
             {
@@ -1597,7 +1725,8 @@
                 "de": "Ideal für ein Picknick im Auto mit Blick auf das winterliche Meer.",
                 "hu": "Ideális egy autós piknikhez kilátással a téli tengerre.",
                 "ro": "Ideal pentru un picnic în mașină cu vedere la marea de iarnă.",
-                "en": "Ideal for a car picnic with a view of the winter sea."
+                "en": "Ideal for a car picnic with a view of the winter sea.",
+                "es": "Ideal para un picnic en coche con vistas al mar invernal."
               }
             },
             {
@@ -1606,7 +1735,8 @@
                 "de": "Die Ruhe im Winter lässt diesen Ort besonders andächtig wirken.",
                 "hu": "A téli nyugalom különösen áhítatossá teszi ezt a helyet.",
                 "ro": "Liniștea iernii face ca acest loc să pară deosebit de pios.",
-                "en": "The winter quiet makes this place feel particularly solemn."
+                "en": "The winter quiet makes this place feel particularly solemn.",
+                "es": "La calma invernal hace que este lugar resulte especialmente solemne."
               }
             },
             {
@@ -1615,7 +1745,8 @@
                 "de": "Der große Parkplatz ist im Winter fast leer und perfekt für den Sonnenuntergang.",
                 "hu": "A nagy parkoló télen szinte üres, és tökéletes a naplementéhez.",
                 "ro": "Parcarea mare este aproape goală iarna și perfectă pentru apus.",
-                "en": "The large parking lot is almost empty in winter and perfect for the sunset."
+                "en": "The large parking lot is almost empty in winter and perfect for the sunset.",
+                "es": "El amplio aparcamiento está casi vacío en invierno y es perfecto para ver el atardecer."
               }
             }
           ],
@@ -1647,6 +1778,13 @@
               "Watch out for the low sun in the afternoon; keep sunglasses handy.",
               "Visit the pine forests of Roche for wind-sheltered hikes.",
               "In winter, there's a good chance to see dolphins from the viewpoints."
+            ],
+            "es": [
+              "Aprovecha la temporada baja: el aparcamiento es casi gratuito en todas partes en Conil en invierno.",
+              "Las calles están menos concurridas, lo que hace que conducir por las callejuelas estrechas sea más relajado.",
+              "Cuidado con el sol bajo por la tarde; lleva gafas de sol a mano.",
+              "Visita los pinares de Roche para rutas protegidas del viento.",
+              "En invierno hay buenas posibilidades de ver delfines desde los miradores."
             ]
           }
         }
@@ -1675,7 +1813,8 @@
             "de": "Zentraler Bushalt für Anreisende.",
             "hu": "Központi buszmegálló az érkezőknek.",
             "ro": "Stație centrală de autobuz pentru vizitatori.",
-            "en": "Central bus stop for arrivals."
+            "en": "Central bus stop for arrivals.",
+            "es": "Parada de autobús central para llegadas."
           }
         },
         {
@@ -1693,7 +1832,8 @@
             "de": "Bester Ort für ein zweites Frühstück.",
             "hu": "A legjobb hely egy második reggelihez.",
             "ro": "Cel mai bun loc pentru un al doilea mic dejun.",
-            "en": "Best spot for a late breakfast."
+            "en": "Best spot for a late breakfast.",
+            "es": "Mejor sitio para un desayuno tardío."
           }
         },
         {
@@ -1711,7 +1851,8 @@
             "de": "Eindrucksvolles kulturelles Erbe.",
             "hu": "Lenyűgöző kulturális örökség.",
             "ro": "Moștenire culturală impresionantă.",
-            "en": "Impressive cultural heritage."
+            "en": "Impressive cultural heritage.",
+            "es": "Impresionante patrimonio cultural."
           }
         },
         {
@@ -1729,7 +1870,8 @@
             "de": "Einfach zu Fuß vom Zentrum erreichbar.",
             "hu": "A központból könnyen elérhető gyalog.",
             "ro": "Ușor accesibil pe jos din centru.",
-            "en": "Easily accessible on foot from the center."
+            "en": "Easily accessible on foot from the center.",
+            "es": "Fácilmente accesible a pie desde el centro."
           }
         },
         {
@@ -1747,7 +1889,8 @@
             "de": "Der krönende Abschluss mit Aussicht.",
             "hu": "A nap fénypontja a kilátással.",
             "ro": "Finalul perfect cu o priveliște superbă.",
-            "en": "The crowning finale with a view."
+            "en": "The crowning finale with a view.",
+            "es": "El broche final con vistas."
           }
         }
       ],
@@ -1755,7 +1898,8 @@
         "de": "Erleben Sie Conil stressfrei mit öffentlichen Verkehrsmitteln. Beginnen Sie an der Puerta de la Villa und tauchen Sie in das Leben auf der Plaza de España ein.\n\nErfahren Sie mehr über die Almadraba-Tradition in La Chanca, bevor Sie den Mittag am weitläufigen Strand Playa de los Bateles verbringen.\n\nAlles im Stadtgebiet ist gut vernetzt und fußläufig erreichbar.\n\nBeenden Sie Ihre Tour auf dem Torre de Guzmán und genießen Sie den Blick über die weißen Dächer von Conil.",
         "hu": "Élje át Conil hangulatát stresszmentesen a tömegközlekedéssel. Kezdje a Puerta de la Villánál, és merüljön el az életben a Plaza de Españán.\n\nIsmerje meg az Almadraba hagyományt La Chancában, majd töltse a delet a tágas Playa de los Bateles strandon.\n\nA városközpontban minden jól összekötött és gyalogosan is elérhető.\n\nZárja a túrát a Torre de Guzmán tetején, élvezve a kilátást Conil fehér háztetőire.",
         "ro": "Experimentați Conil fără stres folosind transportul public. Începeți la Puerta de la Villa și intrați în atmosfera din Plaza de España.\n\nAflați mai multe despre tradiția Almadraba la La Chanca înainte de a petrece amiaza pe vasta plajă Playa de los Bateles.\n\nTotul în zona orașului este bine conectat și accesibil pe jos.\n\nÎncheiați turul pe Torre de Guzmán și bucurați-vă de vederea peste acoperișurile albe din Conil.",
-        "en": "Experience Conil stress-free with public transport. Start at Puerta de la Villa and immerse yourself in the life at Plaza de España.\n\nLearn about the Almadraba tradition at La Chanca before spending midday at the expansive Playa de los Bateles beach.\n\nEverything in the town area is well-connected and reachable on foot.\n\nEnd your tour at the Torre de Guzmán and enjoy the view over the white rooftops of Conil."
+        "en": "Experience Conil stress-free with public transport. Start at Puerta de la Villa and immerse yourself in the life at Plaza de España.\n\nLearn about the Almadraba tradition at La Chanca before spending midday at the expansive Playa de los Bateles beach.\n\nEverything in the town area is well-connected and reachable on foot.\n\nEnd your tour at the Torre de Guzmán and enjoy the view over the white rooftops of Conil.",
+        "es": "Disfruta Conil sin estrés con transporte público. Empieza en Puerta de la Villa y sumérgete en la vida de la Plaza de España.\n\nConoce la tradición de la almadraba en La Chanca antes de pasar el mediodía en la extensa Playa de los Bateles.\n\nTodo en el casco urbano está bien conectado y es accesible a pie.\n\nTermina tu recorrido en la Torre de Guzmán y disfruta de las vistas sobre los tejados blancos de Conil."
       },
       "gastro_picks": {
         "de": [
@@ -1863,6 +2007,12 @@
           "Use the local city buses (Urbanos).",
           "Everything in the town core is easily walkable.",
           "Check for combined museum tickets."
+        ],
+        "es": [
+          "Los autobuses de larga distancia paran en el extrarradio (Estación de Autobuses).",
+          "Usa los autobuses urbanos locales (Urbanos).",
+          "Todo el núcleo urbano es fácilmente transitable a pie.",
+          "Consulta entradas combinadas para museos."
         ]
       },
       "variants": {
@@ -1871,7 +2021,8 @@
             "de": "Erleben Sie Conil stressfrei mit öffentlichen Verkehrsmitteln. Beginnen Sie an der Puerta de la Villa und tauchen Sie in das Leben auf der Plaza de España ein.\n\nErfahren Sie mehr über die Almadraba-Tradition in La Chanca, bevor Sie den Mittag am weitläufigen Strand Playa de los Bateles verbringen.\n\nAlles im Stadtgebiet ist gut vernetzt und fußläufig erreichbar.\n\nBeenden Sie Ihre Tour auf dem Torre de Guzmán und genießen Sie den Blick über die weißen Dächer von Conil.",
             "hu": "Élje át Conil hangulatát stresszmentesen a tömegközlekedéssel. Kezdje a Puerta de la Villánál, és merüljön el az életben a Plaza de Españán.\n\nIsmerje meg az Almadraba hagyományt La Chancában, majd töltse a delet a tágas Playa de los Bateles strandon.\n\nA városközpontban minden jól összekötött és gyalogosan is elérhető.\n\nZárja a túrát a Torre de Guzmán tetején, élvezve a kilátást Conil fehér háztetőire.",
             "ro": "Experimentați Conil fără stres folosind transportul public. Începeți la Puerta de la Villa și intrați în atmosfera din Plaza de España.\n\nAflați mai multe despre tradiția Almadraba la La Chanca înainte de a petrece amiaza pe vasta plajă Playa de los Bateles.\n\nTotul în zona orașului este bine conectat și accesibil pe jos.\n\nÎncheiați turul pe Torre de Guzmán și bucurați-vă de vederea peste acoperișurile albe din Conil.",
-            "en": "Experience Conil stress-free with public transport. Start at Puerta de la Villa and immerse yourself in the life at Plaza de España.\n\nLearn about the Almadraba tradition at La Chanca before spending midday at the expansive Playa de los Bateles beach.\n\nEverything in the town area is well-connected and reachable on foot.\n\nEnd your tour at the Torre de Guzmán and enjoy the view over the white rooftops of Conil."
+            "en": "Experience Conil stress-free with public transport. Start at Puerta de la Villa and immerse yourself in the life at Plaza de España.\n\nLearn about the Almadraba tradition at La Chanca before spending midday at the expansive Playa de los Bateles beach.\n\nEverything in the town area is well-connected and reachable on foot.\n\nEnd your tour at the Torre de Guzmán and enjoy the view over the white rooftops of Conil.",
+            "es": "Disfruta Conil sin estrés con transporte público. Empieza en Puerta de la Villa y sumérgete en la vida de la Plaza de España.\n\nConoce la tradición de la almadraba en La Chanca antes de pasar el mediodía en la extensa Playa de los Bateles.\n\nTodo en el casco urbano está bien conectado y es accesible a pie.\n\nTermina tu recorrido en la Torre de Guzmán y disfruta de las vistas sobre los tejados blancos de Conil."
           },
           "stops": [
             {
@@ -2001,6 +2152,12 @@
               "Use the local city buses (Urbanos).",
               "Everything in the town core is easily walkable.",
               "Check for combined museum tickets."
+            ],
+            "es": [
+              "Los autobuses de larga distancia paran en el extrarradio (Estación de Autobuses).",
+              "Usa los autobuses urbanos locales (Urbanos).",
+              "Todo el núcleo urbano es fácilmente transitable a pie.",
+              "Consulta entradas combinadas para museos."
             ]
           }
         },
@@ -2009,7 +2166,8 @@
             "de": "Beginnen Sie Ihren Tag an der Puerta de la Villa, einem zentralen Knotenpunkt mit vielen Unterständen. Ein kurzer Spaziergang bringt Sie zur Plaza de España, wo Cafés zum Verweilen im Trockenen einladen. Mittags bietet La Chanca eine kulturelle Zuflucht. Der Bateles-Strand ist am Nachmittag vom Bus aus beeindruckend, bevor Sie den Tag am Torre de Guzmán beenden, der Schutz hinter dicken Mauern bietet.",
             "hu": "Kezdje a napot a Puerta de la Villa-nál, amely központi csomópont számos fedett résszel. Egy rövid séta elviszi a Plaza de España-hoz, ahol kávézók hívogatnak száraz pihenőre. Délben a La Chanca nyújt kulturális menedéket. A Bateles-part délután a buszból nézve is lenyűgöző, mielőtt a napot a Torre de Guzmán vastag falai mögött fejezné be.",
             "ro": "Începeți ziua la Puerta de la Villa, un nod central cu multe adăposturi. O scurtă plimbare vă duce la Plaza de España, unde cafenelele vă invită la un popas uscat. La prânz, La Chanca oferă un refugiu cultural. Plaja Bateles este impresionantă din autobuz după-amiaza, înainte de a încheia ziua la Torre de Guzmán, care oferă protecție după zidurile groase.",
-            "en": "Start your day at Puerta de la Villa, a central hub with many shelters. A short walk takes you to Plaza de España, where cafes invite you to linger in the dry. At noon, La Chanca offers a cultural refuge. Bateles Beach is impressive from the bus in the afternoon before you end the day at Torre de Guzmán, which provides shelter behind thick walls."
+            "en": "Start your day at Puerta de la Villa, a central hub with many shelters. A short walk takes you to Plaza de España, where cafes invite you to linger in the dry. At noon, La Chanca offers a cultural refuge. Bateles Beach is impressive from the bus in the afternoon before you end the day at Torre de Guzmán, which provides shelter behind thick walls.",
+            "es": "Comienza el día en Puerta de la Villa, un nudo central con muchos refugios. A un corto paseo llegarás a la Plaza de España, donde los cafés invitan a quedarse en seco. Al mediodía, La Chanca ofrece un refugio cultural. Por la tarde, la Playa de los Bateles impresiona desde el autobús antes de acabar el día en la Torre de Guzmán, que protege tras muros gruesos."
           },
           "stops": [
             {
@@ -2018,7 +2176,8 @@
                 "de": "Die Bushaltestelle hier ist überdacht; ideal bei Regen.",
                 "hu": "Az itteni buszmegálló fedett; ideális esőben.",
                 "ro": "Stația de autobuz de aici este acoperită; ideală pe ploaie.",
-                "en": "The bus stop here is covered; ideal in the rain."
+                "en": "The bus stop here is covered; ideal in the rain.",
+                "es": "La parada de autobús aquí está cubierta; ideal con lluvia."
               }
             },
             {
@@ -2027,7 +2186,8 @@
                 "de": "Nur wenige Minuten Fußweg von der Haupthaltestelle entfernt.",
                 "hu": "Csak néhány perc sétára a fő megállótól.",
                 "ro": "La doar câteva minute de mers pe jos de stația principală.",
-                "en": "Only a few minutes' walk from the main bus stop."
+                "en": "Only a few minutes' walk from the main bus stop.",
+                "es": "A solo unos minutos a pie desde la parada principal de autobús."
               }
             },
             {
@@ -2036,7 +2196,8 @@
                 "de": "Der Bus hält fast direkt vor dem Eingang zum Kulturzentrum.",
                 "hu": "A busz szinte közvetlenül a kulturális központ bejárata előtt áll meg.",
                 "ro": "Autobuzul oprește aproape direct în fața intrării în centrul cultural.",
-                "en": "The bus stops almost directly in front of the cultural center entrance."
+                "en": "The bus stops almost directly in front of the cultural center entrance.",
+                "es": "El autobús para casi directamente frente a la entrada del centro cultural."
               }
             },
             {
@@ -2045,7 +2206,8 @@
                 "de": "Bleiben Sie bei starkem Regen im Bus und genießen Sie die Panoramafahrt.",
                 "hu": "Heves esőzéskor maradjon a buszon, és élvezze a panorámás utazást.",
                 "ro": "Rămâneți în autobuz în timpul ploii torențiale și bucurați-vă de traseu.",
-                "en": "Stay on the bus during heavy rain and enjoy the scenic ride."
+                "en": "Stay on the bus during heavy rain and enjoy the scenic ride.",
+                "es": "Quédate en el autobús durante lluvia intensa y disfruta del trayecto con vistas."
               }
             },
             {
@@ -2054,7 +2216,8 @@
                 "de": "Die Haltestellen in der Nähe bieten Schutz für die Wartezeit.",
                 "hu": "A közelben lévő megállók védelmet nyújtanak a várakozási időre.",
                 "ro": "Stațiile din apropiere oferă adăpost pentru timpul de așteptare.",
-                "en": "Stops nearby provide shelter for the waiting time."
+                "en": "Stops nearby provide shelter for the waiting time.",
+                "es": "Paradas cercanas ofrecen refugio durante la espera."
               }
             }
           ],
@@ -2086,6 +2249,13 @@
               "Have small change ready, as cards are not accepted on all local buses.",
               "The 'Puerta de la Villa' stop is the best starting point for errands in the rain.",
               "Covered bus stops are rare in Conil; plan for short walking distances."
+            ],
+            "es": [
+              "Descarga la app 'Consorcio de Transportes' para información en tiempo real.",
+              "Los autobuses pueden retrasarse ligeramente con lluvia intensa.",
+              "Lleva cambio pequeño, ya que no todos los autobuses locales aceptan tarjeta.",
+              "La parada 'Puerta de la Villa' es el mejor punto de partida para gestiones bajo la lluvia.",
+              "Las marquesinas cubiertas son escasas en Conil; planifica trayectos a pie cortos."
             ]
           }
         },
@@ -2094,7 +2264,8 @@
             "de": "Starten Sie Ihren Wintermorgen an der Puerta de la Villa und genießen Sie die klare Luft. Ein kurzer Spaziergang führt Sie zur Plaza de España, die im Winterlicht besonders malerisch wirkt. Mittags erkunden Sie die Geschichte in La Chanca ohne die sommerliche Feuchtigkeit. Am Nachmittag bietet die Busfahrt entlang der Playa de los Bateles weite Blicke auf den Atlantik, bevor Sie am Torre de Guzmán den Sonnenuntergang erwarten.",
             "hu": "Kezdje a téli reggelt a Puerta de la Villa-nál, és élvezze a tiszta levegőt. Egy rövid séta elviszi a Plaza de España-hoz, amely a téli fényben különösen festői. Délben fedezze fel a történelmet a La Chanca-ban a nyári pára nélkül. Délután az Atlanti-óceánra nyíló tágas kilátást kínál a buszos utazás a Playa de los Bateles mentén, mielőtt a Torre de Guzmán-nál várná a naplementét.",
             "ro": "Începeți dimineața de iarnă la Puerta de la Villa și bucurați-vă de aerul curat. O scurtă plimbare vă duce la Plaza de España, care arată deosebit de pitoresc în lumina iernii. La prânz, explorați istoria la La Chanca fără umiditatea verii. După-amiaza, călătoria cu autobuzul de-a lungul Playa de los Bateles oferă vederi largi spre Atlantic, înainte de a aștepta apusul la Torre de Guzmán.",
-            "en": "Start your winter morning at Puerta de la Villa and enjoy the clear air. A short walk leads you to Plaza de España, which looks particularly picturesque in the winter light. At noon, explore history at La Chanca without the summer humidity. In the afternoon, the bus ride along Playa de los Bateles offers wide views of the Atlantic before waiting for the sunset at Torre de Guzmán."
+            "en": "Start your winter morning at Puerta de la Villa and enjoy the clear air. A short walk leads you to Plaza de España, which looks particularly picturesque in the winter light. At noon, explore history at La Chanca without the summer humidity. In the afternoon, the bus ride along Playa de los Bateles offers wide views of the Atlantic before waiting for the sunset at Torre de Guzmán.",
+            "es": "Comienza tu mañana de invierno en Puerta de la Villa y disfruta del aire claro. Un corto paseo te lleva a la Plaza de España, que luce particularmente pintoresca con la luz invernal. Al mediodía, explora la historia en La Chanca sin la humedad del verano. Por la tarde, el trayecto en autobús junto a la Playa de los Bateles ofrece vistas amplias del Atlántico antes de esperar la puesta de sol en la Torre de Guzmán."
           },
           "stops": [
             {
@@ -2103,7 +2274,8 @@
                 "de": "Zentraler Ort, um die verschiedenen Winter-Buslinien zu nehmen.",
                 "hu": "Központi hely a különböző téli buszjáratok igénybevételéhez.",
                 "ro": "Loc central pentru a lua diversele linii de autobuz de iarnă.",
-                "en": "Central place to catch various winter bus lines."
+                "en": "Central place to catch various winter bus lines.",
+                "es": "Lugar central para coger varias líneas de autobús en invierno."
               }
             },
             {
@@ -2112,7 +2284,8 @@
                 "de": "Die Cafés hier haben im Winter oft Heizstrahler im Außenbereich.",
                 "hu": "Az itteni kávézóknak télen gyakran van kültéri hősugárzójuk.",
                 "ro": "Cafenelele de aici au adesea radiatoare în exterior iarna.",
-                "en": "The cafes here often have outdoor heaters in winter."
+                "en": "The cafes here often have outdoor heaters in winter.",
+                "es": "Los cafés aquí suelen tener calefactores exteriores en invierno."
               }
             },
             {
@@ -2121,7 +2294,8 @@
                 "de": "Beachten Sie die eventuell kürzeren Öffnungszeiten im Winter.",
                 "hu": "Ügyeljen az esetlegesen rövidebb téli nyitvatartásra.",
                 "ro": "Atenție la programul de funcționare eventual mai scurt iarna.",
-                "en": "Note the potentially shorter opening hours in winter."
+                "en": "Note the potentially shorter opening hours in winter.",
+                "es": "Ten en cuenta los horarios de apertura potencialmente más cortos en invierno."
               }
             },
             {
@@ -2130,7 +2304,8 @@
                 "de": "Der Bus bietet eine warme Alternative zum windigen Strandspaziergang.",
                 "hu": "A busz meleg alternatívát kínál a szeles tengerparti sétához.",
                 "ro": "Autobuzul oferă o alternativă caldă la plimbarea vântoasă pe plajă.",
-                "en": "The bus offers a warm alternative to a windy beach walk."
+                "en": "The bus offers a warm alternative to a windy beach walk.",
+                "es": "El autobús ofrece una alternativa cálida a una caminata ventosa por la playa."
               }
             },
             {
@@ -2139,7 +2314,8 @@
                 "de": "Nehmen Sie den letzten Bus vor 18 Uhr, um den Sonnenuntergang zu sehen.",
                 "hu": "Szálljon fel az utolsó buszra 18 óra előtt, hogy lássa a naplementét.",
                 "ro": "Luați ultimul autobuz înainte de ora 18 pentru a vedea apusul.",
-                "en": "Take the last bus before 6 PM to catch the sunset."
+                "en": "Take the last bus before 6 PM to catch the sunset.",
+                "es": "Toma el último autobús antes de las 18:00 para ver la puesta de sol."
               }
             }
           ],
@@ -2171,6 +2347,13 @@
               "Buses are usually pleasantly tempered in winter.",
               "Use central stops for short walking distances to attractions.",
               "The bus station (Apeadero) is slightly outside; use local buses to get there."
+            ],
+            "es": [
+              "La frecuencia de autobuses es menor en invierno que en temporada alta.",
+              "La línea 'Urbano Conil' conecta los puntos más importantes del centro urbano.",
+              "Los autobuses suelen estar agradables de temperatura en invierno.",
+              "Usa paradas centrales para caminar poco hasta las atracciones.",
+              "La estación (Apeadero) queda algo fuera; usa autobuses locales para llegar."
             ]
           }
         }
@@ -2185,19 +2368,22 @@
       "de": "In Conil wird ein lebhafter andalusischer Dialekt gesprochen, oft mit verschluckten Endsilben. Englisch funktioniert in Strandbars zur Hochsaison, im Ortskern hilft ein freundliches 'Hola' und 'Por favor' mehr als perfekte Grammatik. Lerne 'la cuenta' (die Rechnung) und 'atún rojo' (Roter Thun) – das öffnet jedes Restaurant.",
       "hu": "Conilban a sebes andalúz spanyolt hallod, gyakran lenyelt szóvégekkel. Nyáron a strandbárokban az angol elboldogul, de a központban egy mosolygós 'Hola' és 'Gracias' többet ér a tankönyvi mondatoknál. Az 'atún rojo' (vörös tonhal) és 'la cuenta' (a számla) szót tedd zsebre, ezzel mindenhol célt érsz.",
       "ro": "În Conil se vorbește o spaniolă andaluză rapidă, cu finaluri de cuvinte mâncate. Vara, în baruri de plajă, engleza merge, dar în centrul vechi un 'Hola' și 'Gracias' zâmbitor face mai mult decât gramatica perfectă. Reține 'atún rojo' (ton roșu) și 'la cuenta' (nota de plată).",
-      "en": "Conil speaks fast Andalusian Spanish with dropped endings. English works in beach bars during summer, but in the old town a smiling 'Hola' and 'Gracias' goes further than perfect grammar. Memorise 'atún rojo' (bluefin tuna) and 'la cuenta' (the bill)."
+      "en": "Conil speaks fast Andalusian Spanish with dropped endings. English works in beach bars during summer, but in the old town a smiling 'Hola' and 'Gracias' goes further than perfect grammar. Memorise 'atún rojo' (bluefin tuna) and 'la cuenta' (the bill).",
+      "es": "En Conil se habla un andaluz veloz con finales a veces elididos. El inglés funciona en chiringuitos en verano, pero en el casco antiguo un sonriente «Hola» y «Gracias» valen más que la gramática perfecta. Aprende 'atún rojo' y 'la cuenta'."
     },
     "best_time_to_visit": {
       "de": "Mai bis Juni und September sind ideal: warmes Wasser, weniger Andrang und milder Levante-Wind. Juli und August sind voll und teuer, Karneval und Semana Santa lohnen sich für Atmosphäre.",
       "hu": "Május-június és szeptember a befutó: meleg víz, kevesebb turista, és a Levante szél sem őrjít meg. Július-augusztus zsúfolt és drága, viszont a Semana Santa és a tonhalfesztivál hangulata felejthetetlen.",
       "ro": "Mai-iunie și septembrie sunt ideale: apă caldă, mai puțini turiști, vânt Levante mai blând. Iulie-august sunt aglomerate și scumpe, dar Semana Santa și festivalul tonului merită pentru atmosferă.",
-      "en": "May–June and September are the sweet spot: warm sea, fewer crowds and a gentler Levante wind. July–August are packed and pricey; Holy Week and the tuna festival reward those who love atmosphere."
+      "en": "May–June and September are the sweet spot: warm sea, fewer crowds and a gentler Levante wind. July–August are packed and pricey; Holy Week and the tuna festival reward those who love atmosphere.",
+      "es": "Mayo–junio y septiembre son la mejor época: mar templado, menos aglomeraciones y un levante más suave. Julio–agosto están llenos y son caros; Semana Santa y la fiesta del atún recompensan a quienes buscan ambiente."
     },
     "neighborhood_warnings": {
       "de": "Conil ist sehr sicher, nur am Strand Wertsachen nie unbeaufsichtigt lassen. Der Levante kann Strandschirme wegreißen – sichere sie gut. Im Sommer Vorsicht beim Schwimmen bei roter Flagge wegen Strömungen.",
       "hu": "Conil nagyon biztonságos, csak a strandon ne hagyd őrizetlenül az értékeidet. A Levante szél elviheti a napernyőt, rögzítsd alaposan. Nyáron piros zászlónál ne menj a vízbe, az áramlatok komolyak.",
       "ro": "Conil este foarte sigur, doar pe plajă nu lăsa lucrurile nesupravegheate. Vântul Levante poate zbura umbrelele, fixează-le bine. Vara, la steag roșu nu intra în apă din cauza curenților.",
-      "en": "Conil is very safe; just don't leave valuables unattended on the beach. The Levante wind can blow parasols away, so anchor them well. In summer, never swim under a red flag – currents are no joke."
+      "en": "Conil is very safe; just don't leave valuables unattended on the beach. The Levante wind can blow parasols away, so anchor them well. In summer, never swim under a red flag – currents are no joke.",
+      "es": "Conil es muy seguro; solo no dejes objetos de valor desatendidos en la playa. El viento de levante puede llevarse las sombrillas, así que fíjalas bien. En verano, nunca nades con bandera roja: las corrientes son peligrosas."
     }
   }
 }

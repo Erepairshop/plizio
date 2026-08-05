@@ -21,7 +21,8 @@
             "de": "Castell de Bétera",
             "hu": "Castell de Bétera",
             "ro": "Castell de Bétera",
-            "en": "Castell de Bétera"
+            "en": "Castell de Bétera",
+            "es": "Castell de Bétera"
           },
           "coords": [
             -0.463148,
@@ -36,7 +37,8 @@
             "de": "Erkunden Sie die restaurierten Türme dieser alten islamischen Festung, um die Geschichte zu verstehen, und besteigen Sie den Bergfried für den Blick.",
             "hu": "Fedezze fel ezen ősi iszlám erőd felújított tornyait a város múltjának megismeréséhez, és másszon fel az öregtoronyba a panorámáért.",
             "ro": "Explorați turnurile restaurate ale acestei vechi fortărețe islamice pentru a înțelege trecutul orașului și urcați în donjon pentru panorame.",
-            "en": "Explore the restored towers of this ancient Islamic fortress to grasp the town's defensive past, and climb the keep for panoramic views."
+            "en": "Explore the restored towers of this ancient Islamic fortress to grasp the town's defensive past, and climb the keep for panoramic views.",
+            "es": "Explora las torres restauradas de esta antigua fortaleza islámica para comprender el pasado defensivo del pueblo y sube al aljibe para vistas panorámicas."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Església Parroquial de la Puríssima Concepció",
             "hu": "Església Parroquial de la Puríssima Concepció",
             "ro": "Església Parroquial de la Puríssima Concepció",
-            "en": "Església Parroquial de la Puríssima Concepció"
+            "en": "Església Parroquial de la Puríssima Concepció",
+            "es": "Església Parroquial de la Puríssima Concepció"
           },
           "coords": [
             -0.461827,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die barocken Details und den markanten Glockenturm dieser Kirche; besuchen Sie sie während der Morgenmesse, um den Altar zu sehen.",
             "hu": "Csodálja meg a központi templom barokk részleteit és harangtornyát, és időzítse látogatását a reggeli misére az oltár megtekintéséhez.",
             "ro": "Admirați detaliile baroce și clopotnița acestei biserici centrale, programând vizita în timpul slujbei de dimineață pentru a vedea altarul.",
-            "en": "Admire the exquisite Baroque details and striking bell tower of this central church, ensuring you visit during morning mass hours to see the altar."
+            "en": "Admire the exquisite Baroque details and striking bell tower of this central church, ensuring you visit during morning mass hours to see the altar.",
+            "es": "Admira los exquisitos detalles barrocos y la llamativa torre del campanario de esta iglesia central; procura visitarla durante la misa matinal para ver el altar."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Plaça Bulevar",
             "hu": "Plaça Bulevar",
             "ro": "Plaça Bulevar",
-            "en": "Plaça Bulevar"
+            "en": "Plaça Bulevar",
+            "es": "Plaça Bulevar"
           },
           "coords": [
             -0.459223,
@@ -82,7 +87,8 @@
             "de": "Entspannen Sie sich auf diesem lebendigen Platz mit charmanten Cafés, die den lokalen Geist einfangen, und trinken Sie einen schnellen Espresso.",
             "hu": "Pihenjen ezen a nyüzsgő, kávézókkal szegélyezett téren, amely tükrözi a helyi szellemet, és igyon egy gyors eszpresszót a feltöltődéshez.",
             "ro": "Relaxați-vă în această piață plină de cafenele care captează spiritul local și savurați un espresso rapid pentru a vă reîncărca energia.",
-            "en": "Relax at this lively square bordered by charming cafes that capture the local spirit, and grab a quick espresso to recharge your walking energy."
+            "en": "Relax at this lively square bordered by charming cafes that capture the local spirit, and grab a quick espresso to recharge your walking energy.",
+            "es": "Relájate en esta animada plaza bordeada de cafés con encanto que reflejan el espíritu local, y toma un espresso rápido para recargar energías para caminar."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Creu inicial del Calvari",
             "hu": "Creu inicial del Calvari",
             "ro": "Creu inicial del Calvari",
-            "en": "Creu inicial del Calvari"
+            "en": "Creu inicial del Calvari",
+            "es": "Creu inicial del Calvari"
           },
           "coords": [
             -0.460665,
@@ -105,7 +112,8 @@
             "de": "Betrachten Sie dieses Steinkreuz, das den historischen Kreuzweg markiert, und schätzen Sie die feinen Schnitzereien im morgendlichen Licht.",
             "hu": "Figyelje meg ezt a kőkeresztet, amely a történelmi kálváriát jelöli, és szánjon egy percet a faragások megcsodálására a reggeli fényben.",
             "ro": "Observați această cruce de piatră care marchează istoricul Drum al Crucii, alocând un moment pentru a aprecia sculpturile în lumina dimineții.",
-            "en": "Observe this stone cross marking the historic Way of the Cross route, taking a moment to appreciate the intricate carvings in the morning light."
+            "en": "Observe this stone cross marking the historic Way of the Cross route, taking a moment to appreciate the intricate carvings in the morning light.",
+            "es": "Observa esta cruz de piedra que marca la histórica Vía Crucis y toma un momento para apreciar las tallas intrincadas a la luz de la mañana."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Ermita de la Divina Pastora",
             "hu": "Ermita de la Divina Pastora",
             "ro": "Ermita de la Divina Pastora",
-            "en": "Ermita de la Divina Pastora"
+            "en": "Ermita de la Divina Pastora",
+            "es": "Ermita de la Divina Pastora"
           },
           "coords": [
             -0.458723,
@@ -128,7 +137,8 @@
             "de": "Entdecken Sie diese friedliche Einsiedelei in einem ruhigen Viertel und bringen Sie eine Kamera mit, um die traditionelle Fassade festzuhalten.",
             "hu": "Fedezze fel ezt a csendes környéken megbúvó békés remetelakot, és hozzon magával fényképezőgépet a hagyományos homlokzat megörökítéséhez.",
             "ro": "Descoperiți acest schit pașnic ascuns într-un cartier liniștit, aducând un aparat foto pentru a surprinde fațada tradițională frumos conservată.",
-            "en": "Discover this peaceful hermitage tucked away in a quiet neighborhood, bringing a camera to capture the beautifully preserved traditional facade."
+            "en": "Discover this peaceful hermitage tucked away in a quiet neighborhood, bringing a camera to capture the beautifully preserved traditional facade.",
+            "es": "Descubre esta ermita apacible escondida en un barrio tranquilo; lleva cámara para captar su fachada tradicional bien conservada."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Monument al Xiquet de Bétera",
             "hu": "Monument al Xiquet de Bétera",
             "ro": "Monument al Xiquet de Bétera",
-            "en": "Monument al Xiquet de Bétera"
+            "en": "Monument al Xiquet de Bétera",
+            "es": "Monument al Xiquet de Bétera"
           },
           "coords": [
             -0.463395,
@@ -151,7 +162,8 @@
             "de": "Erweisen Sie diesem Denkmal für eine lokale Kulturikone die Ehre und lesen Sie die Gedenktafel, um sein musikalisches Erbe zu verstehen.",
             "hu": "Tiszelegjen a helyi kulturális ikon emlékműve előtt, és olvassa el az emléktáblát, hogy megértse tartós zenei örökségének jelentőségét.",
             "ro": "Aduceți un omagiu acestui monument dedicat unei figuri culturale locale și citiți placa pentru a înțelege moștenirea sa muzicală de durată.",
-            "en": "Pay your respects at this tribute to a beloved local cultural figure, reading the inscribed plaque to understand his lasting musical legacy."
+            "en": "Pay your respects at this tribute to a beloved local cultural figure, reading the inscribed plaque to understand his lasting musical legacy.",
+            "es": "Rinde homenaje a esta querida figura cultural local y lee la placa conmemorativa para comprender su legado musical perdurable."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Cuadrado Plaza",
             "hu": "Cuadrado Plaza",
             "ro": "Cuadrado Plaza",
-            "en": "Cuadrado Plaza"
+            "en": "Cuadrado Plaza",
+            "es": "Plaça del Cuadrado"
           },
           "coords": [
             -0.465227,
@@ -174,7 +187,8 @@
             "de": "Beenden Sie Ihren Spaziergang auf diesem historischen Platz mit traditioneller Architektur und suchen Sie sich eine Bank im Schatten zum Ausruhen.",
             "hu": "Zárja sétáját ezen a hagyományos építészettel övezett történelmi téren, és keressen egy árnyékos padot a pihenéshez és a tervezéshez.",
             "ro": "Încheiați plimbarea în această piață istorică înconjurată de arhitectură tradițională, găsind o bancă la umbră pentru a vă odihni.",
-            "en": "Conclude your walk in this historic square surrounded by traditional architecture, finding a shaded bench to rest and plan your next destination."
+            "en": "Conclude your walk in this historic square surrounded by traditional architecture, finding a shaded bench to rest and plan your next destination.",
+            "es": "Concluye tu paseo en esta plaza histórica rodeada de arquitectura tradicional; busca un banco a la sombra para descansar y planear tu siguiente destino."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie den Morgen mit der Erkundung des imposanten Castell de Bétera, gefolgt von der Bewunderung der barocken Details der Kirche Puríssima Concepció.\nGegen Mittag können Sie die lebendige Atmosphäre an der Plaça Bulevar genießen, bevor Sie zum historischen Denkmal Creu inicial del Calvari spazieren.\nBesuchen Sie am Nachmittag die friedliche Ermita de la Divina Pastora und erweisen Sie dem Monument al Xiquet Ihre Ehre.\nBeenden Sie Ihren Rundgang am Abend auf der Cuadrado Plaza und entspannen Sie sich inmitten traditioneller Architektur bei Sonnenuntergang.",
         "hu": "Kezdje a reggelt a lenyűgöző Castell de Bétera felfedezésével, majd csodálja meg a Puríssima Concepció templom barokk részleteit.\nDélben élvezze a Plaça Bulevar nyüzsgő hangulatát, mielőtt elsétálna a történelmi Creu inicial del Calvari emlékműhöz.\nDélután látogasson el a békés Ermita de la Divina Pastora remetelakhoz, és rója le tiszteletét a Monument al Xiquet emlékműnél.\nSétáját este a Cuadrado Plaza téren zárja, és kapcsolódjon ki a hagyományos építészet ölelésében, ahogy a nap lenyugszik a bájos város felett.",
         "ro": "Începeți dimineața explorând impunătorul Castell de Bétera, urmat de un moment liniștit admirând detaliile baroce ale bisericii Puríssima Concepció.\nPână la amiază, absorbiți atmosfera vibrantă din Plaça Bulevar înainte de a merge la monumentul istoric Creu inicial del Calvari.\nDupă-amiaza, vizitați pașnica Ermita de la Divina Pastora și aduceți un omagiu la Monument al Xiquet.\nÎncheiați turul pietonal seara în Cuadrado Plaza, relaxându-vă printre clădiri cu arhitectură tradițională în timp ce soarele apune peste oraș.",
-        "en": "Begin your morning exploring the imposing Castell de Bétera, followed by a quiet moment admiring the Baroque details of the Puríssima Concepció church.\nBy midday, soak up the vibrant atmosphere at Plaça Bulevar before walking to the historic Creu inicial del Calvari monument.\nIn the afternoon, visit the peaceful Ermita de la Divina Pastora and pay respects at the Monument al Xiquet.\nWrap up your walking tour in the evening at Cuadrado Plaza, unwinding amidst traditional architecture as the sun sets over this charming town."
+        "en": "Begin your morning exploring the imposing Castell de Bétera, followed by a quiet moment admiring the Baroque details of the Puríssima Concepció church.\nBy midday, soak up the vibrant atmosphere at Plaça Bulevar before walking to the historic Creu inicial del Calvari monument.\nIn the afternoon, visit the peaceful Ermita de la Divina Pastora and pay respects at the Monument al Xiquet.\nWrap up your walking tour in the evening at Cuadrado Plaza, unwinding amidst traditional architecture as the sun sets over this charming town.",
+        "es": "Comienza la mañana explorando el imponente Castell de Bétera, seguido de un momento de recogimiento admirando los detalles barrocos de la Puríssima Concepció.\nAl mediodía disfruta del ambiente vibrante de la Plaça Bulevar antes de caminar hasta el histórico monumento Creu inicial del Calvari.\nPor la tarde visita la tranquila Ermita de la Divina Pastora y rinde homenaje en el Monument al Xiquet.\nFinaliza tu paseo al anochecer en la Plaça del Cuadrado, relajándote entre la arquitectura tradicional mientras el sol se pone sobre este encantador pueblo."
       },
       "variants": {
         "rainy": {
@@ -190,7 +205,8 @@
             "de": "Beginnen Sie Ihren Tag im Schutz des Castells, während der Regen auf die alten Mauern trommelt. Mittags bieten die Kirchen und Monumente im Zentrum Béteras gute Möglichkeiten, trocken zu bleiben. Am Nachmittag schlendern Sie mit dem Regenschirm durch die historischen Gassen, wo das Pflaster glänzen kann. Den Abend lassen Sie gemütlich ausklingen, sicher vor dem unbeständigen Wetter.",
             "hu": "Kezdje a napot a vár védelmében, miközben az eső dobol az ősi falakon. Délben a templomok és a központi műemlékek jó lehetőséget kínálnak a szárazon maradásra. Délután esernyővel sétáljon Bétera történelmi utcáin, ügyelve a csúszós macskakövekre. Az estét töltse egy fedett helyen, távol a barátságtalan, szeles időjárástól.",
             "ro": "Începeți ziua la adăpostul castelului, în timp ce ploaia bate în zidurile vechi. La prânz, bisericile și monumentele centrale din Bétera oferă ocazii bune de a rămâne uscați. După-amiaza, plimbați-vă cu umbrela pe străzile istorice, având grijă la pavajul care poate deveni alunecos. Încheiați seara într-un loc primitor, ferit de vremea capricioasă.",
-            "en": "Start your day under the protection of the castle as the rain drums on the ancient walls. At noon, the churches and central monuments of Bétera offer good opportunities to stay dry. In the afternoon, stroll through the historical streets with an umbrella, being careful of the potentially slippery stones. End the evening comfortably, safe from the unstable weather."
+            "en": "Start your day under the protection of the castle as the rain drums on the ancient walls. At noon, the churches and central monuments of Bétera offer good opportunities to stay dry. In the afternoon, stroll through the historical streets with an umbrella, being careful of the potentially slippery stones. End the evening comfortably, safe from the unstable weather.",
+            "es": "Comienza el día bajo la protección del castillo mientras la lluvia repica en los muros antiguos. Al mediodía las iglesias y los monumentos centrales de Bétera ofrecen buenas opciones para resguardarte. Por la tarde pasea por las calles históricas con paraguas, teniendo cuidado con las piedras potencialmente resbaladizas. Termina la noche cómodamente, a salvo del tiempo inestable."
           },
           "stops": [
             {
@@ -198,13 +214,15 @@
                 "de": "Castell de Bétera",
                 "hu": "Castell de Bétera",
                 "ro": "Castell de Bétera",
-                "en": "Castell de Bétera"
+                "en": "Castell de Bétera",
+                "es": "Castell de Bétera"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Innenräume der Burg, um die lokale Geschichte zu erkunden und gleichzeitig dem Regen zu entkommen; die dicken Mauern bieten perfekten Schutz.",
                 "hu": "Használja ki a vár belső tereit a helyi történelem felfedezésére, miközben az eső elől is elmenekül; a vastag falak tökéletes menedéket nyújtanak ma.",
                 "ro": "Folosiți spațiile interioare ale castelului pentru a explora istoria locală și pentru a scăpa de ploaie; zidurile groase oferă un adăpost perfect astăzi.",
-                "en": "Take advantage of the castle's interior spaces to explore local history while escaping the rain; the thick walls provide perfect shelter for you today."
+                "en": "Take advantage of the castle's interior spaces to explore local history while escaping the rain; the thick walls provide perfect shelter for you today.",
+                "es": "Aprovecha los espacios interiores del castillo para explorar la historia local y refugiarte de la lluvia; sus muros gruesos son un abrigo perfecto hoy."
               }
             },
             {
@@ -212,13 +230,15 @@
                 "de": "Església Parroquial de la Puríssima Concepció",
                 "hu": "Església Parroquial de la Puríssima Concepció",
                 "ro": "Església Parroquial de la Puríssima Concepció",
-                "en": "Església Parroquial de la Puríssima Concepció"
+                "en": "Església Parroquial de la Puríssima Concepció",
+                "es": "Església Parroquial de la Puríssima Concepció"
               },
               "tip_5lang": {
                 "de": "Die Kirche ist ein idealer Ort für eine trockene Besichtigung der sakralen Kunst; achten Sie beim Betreten auf Ihre nassen Schuhe auf dem glatten Boden.",
                 "hu": "A templom ideális hely a szakrális művészet száraz megtekintéséhez; belépéskor ügyeljen nedves cipőjére a fényes és néhol csúszós padlózaton.",
                 "ro": "Biserica este un loc ideal pentru o vizită uscată a artei sacre; la intrare, aveți grijă la pantofii uzi pe podeaua lucioasă și alunecoasă.",
-                "en": "The church is an ideal place for a dry tour of sacred art; when entering, be careful with your wet shoes on the polished and slippery floor."
+                "en": "The church is an ideal place for a dry tour of sacred art; when entering, be careful with your wet shoes on the polished and slippery floor.",
+                "es": "La iglesia es un lugar ideal para una visita seca de arte sacro; al entrar ten cuidado con los zapatos húmedos en suelos pulidos y resbaladizos."
               }
             },
             {
@@ -226,13 +246,15 @@
                 "de": "Plaça Bulevar",
                 "hu": "Plaça Bulevar",
                 "ro": "Plaça Bulevar",
-                "en": "Plaça Bulevar"
+                "en": "Plaça Bulevar",
+                "es": "Plaça Bulevar"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Schutz unter den Vordächern der umliegenden Gebäude, um das Treiben auf dem Platz trotz des grauen Himmels und Regens kurz zu beobachten.",
                 "hu": "Keressen menedéket a környező épületek előtetői alatt, hogy a szürke ég és az eső ellenére is megfigyelhesse a tér életét egy rövid időre.",
                 "ro": "Căutați adăpost sub streșinile clădirilor din jur pentru a observa viața pieței pentru scurt timp, în ciuda cerului gri și a ploii persistente.",
-                "en": "Seek shelter under the eaves of surrounding buildings to observe the square's life briefly, despite the gray sky and the persistent rain outside."
+                "en": "Seek shelter under the eaves of surrounding buildings to observe the square's life briefly, despite the gray sky and the persistent rain outside.",
+                "es": "Busca resguardo bajo los aleros de los edificios que rodean la plaza para observar su vida brevemente, pese al cielo gris y la lluvia persistente."
               }
             },
             {
@@ -240,13 +262,15 @@
                 "de": "Creu inicial del Calvari",
                 "hu": "Creu inicial del Calvari",
                 "ro": "Creu inicial del Calvari",
-                "en": "Creu inicial del Calvari"
+                "en": "Creu inicial del Calvari",
+                "es": "Creu inicial del Calvari"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie das Kreuz zügig und tragen Sie festes Schuhwerk, da der Boden rund um das Monument bei Nässe besonders tückisch und rutschig sein kann.",
                 "hu": "Tekintse meg gyorsan a keresztet, és viseljen csúszásmentes lábbelit, mivel a műemlék körüli talaj nedvesen különösen trükkös és csúszós lehet.",
                 "ro": "Vizualizați rapid crucea și purtați încălțăminte aderentă, deoarece solul din jurul monumentului poate fi deosebit de înșelător și alunecos când e ud.",
-                "en": "View the cross quickly and wear non-slip footwear, as the ground around the monument can be particularly tricky and slippery when wet today."
+                "en": "View the cross quickly and wear non-slip footwear, as the ground around the monument can be particularly tricky and slippery when wet today.",
+                "es": "Observa la cruz rápidamente y lleva calzado antideslizante, ya que el terreno alrededor del monumento puede volverse especialmente resbaladizo con la lluvia."
               }
             },
             {
@@ -254,13 +278,15 @@
                 "de": "Ermita de la Divina Pastora",
                 "hu": "Ermita de la Divina Pastora",
                 "ro": "Ermita de la Divina Pastora",
-                "en": "Ermita de la Divina Pastora"
+                "en": "Ermita de la Divina Pastora",
+                "es": "Ermita de la Divina Pastora"
               },
               "tip_5lang": {
                 "de": "Die Kapelle bietet eine spirituelle Atmosphäre und ein trockenes Dach; klopfen Sie Ihren Regenschirm draußen gut ab, bevor Sie das Innere betreten.",
                 "hu": "A kápolna spirituális légkört és száraz tetőt kínál; alaposan rázza le esernyőjét kint, mielőtt belépne a meghitt, csendes belső térbe.",
                 "ro": "Capela oferă o atmosferă spirituală și un acoperiș uscat; scuturați bine umbrela afară înainte de a intra în spațiul interior liniștit.",
-                "en": "The chapel offers a spiritual atmosphere and a dry roof; shake your umbrella thoroughly outside before entering the quiet interior space."
+                "en": "The chapel offers a spiritual atmosphere and a dry roof; shake your umbrella thoroughly outside before entering the quiet interior space.",
+                "es": "La capilla ofrece un ambiente espiritual y un techo seco; sacude bien el paraguas fuera antes de entrar en el tranquilo interior."
               }
             },
             {
@@ -268,13 +294,15 @@
                 "de": "Monument al Xiquet de Bétera",
                 "hu": "Monument al Xiquet de Bétera",
                 "ro": "Monument al Xiquet de Bétera",
-                "en": "Monument al Xiquet de Bétera"
+                "en": "Monument al Xiquet de Bétera",
+                "es": "Monument al Xiquet de Bétera"
               },
               "tip_5lang": {
                 "de": "Ein kurzes Foto vom Denkmal reicht aus, bevor Sie wieder ins Trockene flüchten; die Farben des Denkmals wirken im Regen oft besonders intensiv.",
                 "hu": "Egy gyors fotó a műemlékről elég lesz, mielőtt visszatérne a szárazra; a szobor színei az esőben gyakran különösen intenzívnek és mélynek tűnnek.",
                 "ro": "O fotografie rapidă la monument va fi suficientă înainte de a vă retrage la adăpost; culorile statuii par adesea mai intense pe timp de ploaie.",
-                "en": "A quick photo of the monument will suffice before retreating to the dry; the statue's colors often appear particularly intense and deep in the rain."
+                "en": "A quick photo of the monument will suffice before retreating to the dry; the statue's colors often appear particularly intense and deep in the rain.",
+                "es": "Una foto rápida del monumento será suficiente antes de buscar refugio; los colores de la estatua suelen verse más intensos y profundos bajo la lluvia."
               }
             },
             {
@@ -282,13 +310,15 @@
                 "de": "Cuadrado Plaza",
                 "hu": "Cuadrado Plaza",
                 "ro": "Cuadrado Plaza",
-                "en": "Cuadrado Plaza"
+                "en": "Cuadrado Plaza",
+                "es": "Plaza Cuadrado"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Rundgang in einem der Cafés am Platz, um sich aufzuwärmen und die nasse Kleidung zu trocknen, während Sie den Regen beobachten.",
                 "hu": "Fejezze be a túrát a tér egyik kávézójában, hogy felmelegedjen és megszárítsa nedves ruháit, miközben az ablakon keresztül figyeli az esőt.",
                 "ro": "Încheiați turul la una dintre cafenelele din piață pentru a vă încălzi și a vă usca hainele ude în timp ce priviți ploaia prin fereastră.",
-                "en": "End the tour at one of the cafes in the square to warm up and dry your wet clothes while watching the rain through the window."
+                "en": "End the tour at one of the cafes in the square to warm up and dry your wet clothes while watching the rain through the window.",
+                "es": "Termina el recorrido en uno de los cafés de la plaza para entrar en calor y secar la ropa mientras observas la lluvia desde la ventana."
               }
             }
           ]
@@ -298,7 +328,8 @@
             "de": "Nutzen Sie das milde Winterlicht am Vormittag für die Besichtigung des Castells. Da die Sonne gegen 17:00 Uhr untergeht, sollten Sie die wichtigsten Stationen früh besuchen. Mittags wärmen Sie sich in den historischen Zentren auf, während die klare Luft für gute Fernsicht sorgt. Der Abend in Bétera wird kühl, ideal für einen Rückzug in gemütliche, beheizte Innenräume.",
             "hu": "Használja ki a délelőtti lágy téli fényt a vár megtekintéséhez. Mivel a nap 17:00 körül nyugszik, érdemes korán felkeresni a főbb állomásokat. Délben melegedjen fel a történelmi központban, miközben a tiszta levegő távoli kilátást biztosít. A béterai este hűvös lesz, így ideális a visszahúzódásra a hangulatos, fűtött belső terekbe.",
             "ro": "Profitați de lumina blândă de iarnă de dimineață pentru a vizita castelul. Deoarece soarele apune în jur de ora 17:00, merită să vizitați punctele principale devreme. La prânz, încălziți-vă în centrul istoric, în timp ce aerul curat oferă o vizibilitate excelentă. Seara va fi răcoroasă în Bétera, ideală pentru retragerea în spații interioare încălzite.",
-            "en": "Take advantage of the soft winter morning light to visit the castle. As the sun sets around 17:00, it is worth visiting the main stops early. At noon, warm up in the historical center, while the clear air provides excellent distant views. The evening in Bétera will be chilly, making it ideal to retreat into cozy, heated indoor spaces."
+            "en": "Take advantage of the soft winter morning light to visit the castle. As the sun sets around 17:00, it is worth visiting the main stops early. At noon, warm up in the historical center, while the clear air provides excellent distant views. The evening in Bétera will be chilly, making it ideal to retreat into cozy, heated indoor spaces.",
+            "es": "Aprovecha la suave luz de la mañana invernal para visitar el castillo. Como el sol se pone sobre las 17:00, merece la pena ver los puntos principales temprano. Al mediodía, entra en calor en el centro histórico; el aire claro ofrece excelentes vistas lejanas. La tarde en Bétera será fresca, por lo que conviene refugiarse en espacios interiores acogedores y calefactados."
           },
           "stops": [
             {
@@ -306,13 +337,15 @@
                 "de": "Castell de Bétera",
                 "hu": "Castell de Bétera",
                 "ro": "Castell de Bétera",
-                "en": "Castell de Bétera"
+                "en": "Castell de Bétera",
+                "es": "Castell de Bétera"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Burg früh, um das goldene Winterlicht auf den Mauern zu erleben; tragen Sie mehrere Schichten Kleidung gegen den kühlen Wind.",
                 "hu": "Látogassa meg korán a várat, hogy láthassa az aranyló téli fényt a falakon; viseljen réteges öltözetet a bástyákon fújó hűvös szél ellen.",
                 "ro": "Vizitați castelul devreme pentru a vedea lumina aurie de iarnă pe ziduri; purtați haine în mai multe straturi împotriva vântului rece de pe bastioane.",
-                "en": "Visit the castle early to see the golden winter light on the walls; wear layered clothing against the cool wind blowing on the ramparts."
+                "en": "Visit the castle early to see the golden winter light on the walls; wear layered clothing against the cool wind blowing on the ramparts.",
+                "es": "Visita el castillo temprano para ver la luz dorada invernal sobre los muros; viste en capas contra el viento fresco que sopla en las almenas."
               }
             },
             {
@@ -320,13 +353,15 @@
                 "de": "Església Parroquial de la Puríssima Concepció",
                 "hu": "Església Parroquial de la Puríssima Concepció",
                 "ro": "Església Parroquial de la Puríssima Concepció",
-                "en": "Església Parroquial de la Puríssima Concepció"
+                "en": "Església Parroquial de la Puríssima Concepció",
+                "es": "Iglesia Parroquial de la Purísima Concepción"
               },
               "tip_5lang": {
                 "de": "Das Innere der Kirche bietet Schutz vor dem kalten Zugwind; genießen Sie die Ruhe und die milderen Temperaturen in diesem beeindruckenden Bau.",
                 "hu": "A templom belső tere védelmet nyújt a hideg huzat ellen; élvezze a csendet és a kinti hűvösnél enyhébb hőmérsékletet ebben az épületben.",
                 "ro": "Interiorul bisericii oferă protecție împotriva curentului rece; bucurați-vă de liniște și de temperaturile mai blânde din această clădire.",
-                "en": "The interior of the church offers protection from the cold draft; enjoy the silence and the milder temperatures inside this impressive building."
+                "en": "The interior of the church offers protection from the cold draft; enjoy the silence and the milder temperatures inside this impressive building.",
+                "es": "El interior de la iglesia ofrece protección contra las corrientes frías; disfruta del silencio y de una temperatura más templada dentro de este imponente edificio."
               }
             },
             {
@@ -334,13 +369,15 @@
                 "de": "Plaça Bulevar",
                 "hu": "Plaça Bulevar",
                 "ro": "Plaça Bulevar",
-                "en": "Plaça Bulevar"
+                "en": "Plaça Bulevar",
+                "es": "Plaça Bulevar"
               },
               "tip_5lang": {
                 "de": "Suchen Sie sich ein sonniges Plätzchen auf der Plaza, um die Wintersonne aufzusaugen; die Steine speichern die Wärme oft bis in den frühen Nachmittag.",
                 "hu": "Keressen egy napsütötte helyet a téren, hogy magába szívja a téli nap sugarait; a kövek gyakran kora délutánig tárolják a nap melegét.",
                 "ro": "Căutați un loc însorit în piață pentru a absorbi razele soarelui de iarnă; pietrele rețin adesea căldura soarelui până după-amiaza devreme.",
-                "en": "Find a sunny spot in the square to soak up the winter sun's rays; the stones often store the sun's warmth until the early afternoon."
+                "en": "Find a sunny spot in the square to soak up the winter sun's rays; the stones often store the sun's warmth until the early afternoon.",
+                "es": "Busca un rincón soleado en la plaza para absorber los rayos del sol invernal; las piedras suelen guardar el calor hasta bien entrada la tarde."
               }
             },
             {
@@ -348,13 +385,15 @@
                 "de": "Creu inicial del Calvari",
                 "hu": "Creu inicial del Calvari",
                 "ro": "Creu inicial del Calvari",
-                "en": "Creu inicial del Calvari"
+                "en": "Creu inicial del Calvari",
+                "es": "Creu inicial del Calvari"
               },
               "tip_5lang": {
                 "de": "Da dieser Ort exponiert ist, sollten Sie Handschuhe tragen; die klare Winterluft ermöglicht jedoch besonders scharfe Fotos des geschichtsträchtigen Kreuzes.",
                 "hu": "Mivel ez a hely nyitott, viseljen kesztyűt; a tiszta téli levegő azonban különösen éles fotókat tesz lehetővé erről a történelmi keresztről.",
                 "ro": "Deoarece acest loc este expus, ar trebui să purtați mănuși; aerul clar de iarnă permite totuși fotografii foarte clare ale acestei cruci istorice.",
-                "en": "Since this location is exposed, you should wear gloves; however, the clear winter air allows for particularly sharp photos of this historical cross."
+                "en": "Since this location is exposed, you should wear gloves; however, the clear winter air allows for particularly sharp photos of this historical cross.",
+                "es": "Al estar este lugar expuesto, conviene llevar guantes; sin embargo, el aire claro de invierno permite fotografías especialmente nítidas de esta cruz histórica."
               }
             },
             {
@@ -362,13 +401,15 @@
                 "de": "Ermita de la Divina Pastora",
                 "hu": "Ermita de la Divina Pastora",
                 "ro": "Ermita de la Divina Pastora",
-                "en": "Ermita de la Divina Pastora"
+                "en": "Ermita de la Divina Pastora",
+                "es": "Ermita de la Divina Pastora"
               },
               "tip_5lang": {
                 "de": "Ein friedlicher Ort zum Aufwärmen; achten Sie darauf, dass es in der Ermita im Winter oft kühler ist als draußen in der direkten Sonne.",
                 "hu": "Békés hely a lelki feltöltődéshez; ügyeljen arra, hogy az ermitában télen gyakran hűvösebb van, mint kint a közvetlen napsütésben.",
                 "ro": "Un loc liniștit pentru reculegere; rețineți că în ermită este adesea mai răcoare iarna decât afară, direct în bătaia razelor soarelui.",
-                "en": "A peaceful place for spiritual recharge; note that inside the ermita it is often cooler in winter than outside in the direct sunlight."
+                "en": "A peaceful place for spiritual recharge; note that inside the ermita it is often cooler in winter than outside in the direct sunlight.",
+                "es": "Un lugar tranquilo para una recarga espiritual; ten en cuenta que dentro de la ermita suele hacer más fresco en invierno que fuera al sol directo."
               }
             },
             {
@@ -376,13 +417,15 @@
                 "de": "Monument al Xiquet de Bétera",
                 "hu": "Monument al Xiquet de Bétera",
                 "ro": "Monument al Xiquet de Bétera",
-                "en": "Monument al Xiquet de Bétera"
+                "en": "Monument al Xiquet de Bétera",
+                "es": "Monument al Xiquet de Bétera"
               },
               "tip_5lang": {
                 "de": "Machen Sie Ihren Stopp kurz, bevor die Kälte des Schattens einsetzt; die winterliche Abenddämmerung beginnt hier bereits gegen halb fünf.",
                 "hu": "Tartsa rövidre a megállót, mielőtt beállna az árnyék miatti hideg; a téli szürkület itt már fél öt körül elkezdődhet a környező házak közt.",
                 "ro": "Faceți oprirea scurtă înainte ca frigul din umbră să se instaleze; amurgul de iarnă începe aici deja în jurul orei patru și jumătate.",
-                "en": "Keep your stop short before the shade's cold sets in; the winter twilight can begin here as early as half past four among the buildings."
+                "en": "Keep your stop short before the shade's cold sets in; the winter twilight can begin here as early as half past four among the buildings.",
+                "es": "No prolongues la parada antes de que entre el frío de la sombra; el crepúsculo invernal puede empezar aquí ya a las cuatro y media entre los edificios."
               }
             },
             {
@@ -390,13 +433,15 @@
                 "de": "Cuadrado Plaza",
                 "hu": "Cuadrado Plaza",
                 "ro": "Cuadrado Plaza",
-                "en": "Cuadrado Plaza"
+                "en": "Cuadrado Plaza",
+                "es": "Plaza Cuadrado"
               },
               "tip_5lang": {
                 "de": "Suchen Sie ein Lokal mit Heizung, da die Temperaturen nach Sonnenuntergang schnell sinken; ein heißes Getränk ist der perfekte Abschluss.",
                 "hu": "Keressen egy fűtött helyet, mivel a naplemente után a hőmérséklet gyorsan csökken; egy forró ital tökéletes lezárása a téli sétának.",
                 "ro": "Căutați un local încălzit, deoarece temperaturile scad rapid după apusul soarelui; o băutură caldă este finalul perfect pentru plimbare.",
-                "en": "Look for a heated venue as temperatures drop rapidly after sunset; a hot drink is the perfect conclusion to your winter walk here."
+                "en": "Look for a heated venue as temperatures drop rapidly after sunset; a hot drink is the perfect conclusion to your winter walk here.",
+                "es": "Busca un local con calefacción cuando bajen las temperaturas; una bebida caliente es la conclusión perfecta para tu paseo invernal."
               }
             }
           ]
@@ -416,7 +461,8 @@
             "de": "La estrella de Los Vientos",
             "hu": "La estrella de Los Vientos",
             "ro": "La estrella de Los Vientos",
-            "en": "La estrella de Los Vientos"
+            "en": "La estrella de Los Vientos",
+            "es": "La estrella de Los Vientos"
           },
           "coords": [
             -0.465669,
@@ -431,7 +477,8 @@
             "de": "Bestaunen Sie diese Windrose, die das nautische Erbe widerspiegelt, und fotografieren Sie früh, wenn das Sonnenlicht perfekt auf den Stein fällt.",
             "hu": "Csodálja meg ezt a helyi navigációs örökséget tükröző szélrózsa emlékművet, és fotózzon korán, amikor a napfény tökéletesen megvilágítja.",
             "ro": "Admirați acest monument în formă de roza vânturilor ce reflectă moștenirea locală, fotografiind dimineața când lumina soarelui cade perfect pe piatră.",
-            "en": "Marvel at this striking compass rose monument that reflects local navigational heritage, taking photos early when the sunlight hits the stone perfectly."
+            "en": "Marvel at this striking compass rose monument that reflects local navigational heritage, taking photos early when the sunlight hits the stone perfectly.",
+            "es": "Admira esta llamativa rosa de los vientos que refleja la herencia navegante local; haz fotos temprano cuando la luz incida perfectamente sobre la piedra."
           }
         },
         {
@@ -439,7 +486,8 @@
             "de": "Castell de Bétera",
             "hu": "Castell de Bétera",
             "ro": "Castell de Bétera",
-            "en": "Castell de Bétera"
+            "en": "Castell de Bétera",
+            "es": "Castell de Bétera"
           },
           "coords": [
             -0.463148,
@@ -454,7 +502,8 @@
             "de": "Erkunden Sie die restaurierten Türme dieser alten islamischen Festung, um die Geschichte zu verstehen, und besteigen Sie den Bergfried für den Blick.",
             "hu": "Fedezze fel ezen ősi iszlám erőd felújított tornyait a város múltjának megismeréséhez, és másszon fel az öregtoronyba a panorámáért.",
             "ro": "Explorați turnurile restaurate ale acestei vechi fortărețe islamice pentru a înțelege trecutul orașului și urcați în donjon pentru panorame.",
-            "en": "Explore the restored towers of this ancient Islamic fortress to grasp the town's defensive past, and climb the keep for panoramic views."
+            "en": "Explore the restored towers of this ancient Islamic fortress to grasp the town's defensive past, and climb the keep for panoramic views.",
+            "es": "Explora las torres restauradas de esta antigua fortaleza islámica para entender el pasado defensivo del pueblo y sube al aljibe para vistas panorámicas."
           }
         },
         {
@@ -462,7 +511,8 @@
             "de": "Plaça Bulevar",
             "hu": "Plaça Bulevar",
             "ro": "Plaça Bulevar",
-            "en": "Plaça Bulevar"
+            "en": "Plaça Bulevar",
+            "es": "Plaça Bulevar"
           },
           "coords": [
             -0.459223,
@@ -477,7 +527,8 @@
             "de": "Entspannen Sie sich auf diesem lebendigen Platz mit charmanten Cafés, die den lokalen Geist einfangen, und trinken Sie einen schnellen Espresso.",
             "hu": "Pihenjen ezen a nyüzsgő, kávézókkal szegélyezett téren, amely tükrözi a helyi szellemet, és igyon egy gyors eszpresszót a feltöltődéshez.",
             "ro": "Relaxați-vă în această piață plină de cafenele care captează spiritul local și savurați un espresso rapid pentru a vă reîncărca energia.",
-            "en": "Relax at this lively square bordered by charming cafes that capture the local spirit, and grab a quick espresso to recharge your walking energy."
+            "en": "Relax at this lively square bordered by charming cafes that capture the local spirit, and grab a quick espresso to recharge your walking energy.",
+            "es": "Relájate en esta animada plaza bordeada de cafés encantadores que capturan el espíritu local y toma un espresso rápido para recargar energía."
           }
         },
         {
@@ -485,7 +536,8 @@
             "de": "Ermita de la Divina Pastora",
             "hu": "Ermita de la Divina Pastora",
             "ro": "Ermita de la Divina Pastora",
-            "en": "Ermita de la Divina Pastora"
+            "en": "Ermita de la Divina Pastora",
+            "es": "Ermita de la Divina Pastora"
           },
           "coords": [
             -0.458723,
@@ -500,7 +552,8 @@
             "de": "Entdecken Sie diese friedliche Einsiedelei in einem ruhigen Viertel und bringen Sie eine Kamera mit, um die traditionelle Fassade festzuhalten.",
             "hu": "Fedezze fel ezt a csendes környéken megbúvó békés remetelakot, és hozzon magával fényképezőgépet a hagyományos homlokzat megörökítéséhez.",
             "ro": "Descoperiți acest schit pașnic ascuns într-un cartier liniștit, aducând un aparat foto pentru a surprinde fațada tradițională frumos conservată.",
-            "en": "Discover this peaceful hermitage tucked away in a quiet neighborhood, bringing a camera to capture the beautifully preserved traditional facade."
+            "en": "Discover this peaceful hermitage tucked away in a quiet neighborhood, bringing a camera to capture the beautifully preserved traditional facade.",
+            "es": "Descubre esta pacífica ermita escondida en un barrio tranquilo; trae una cámara para capturar la fachada tradicional bien conservada."
           }
         },
         {
@@ -508,7 +561,8 @@
             "de": "Parque La Gerula centro",
             "hu": "Parque La Gerula centro",
             "ro": "Parque La Gerula centro",
-            "en": "Parque La Gerula centro"
+            "en": "Parque La Gerula centro",
+            "es": "Parque La Gerula centro"
           },
           "coords": [
             -0.459941,
@@ -523,7 +577,8 @@
             "de": "Schlendern Sie durch die grünen Wege dieses Parks, der Natur und Geschichte verbindet, und packen Sie ein Picknick für die alten Steinanlagen ein.",
             "hu": "Sétáljon a természetet és történelmet ötvöző központi park zöldellő ösvényein, és vigyen magával egy kis pikniket a régi kőépítmények mellé.",
             "ro": "Plimbați-vă pe aleile înverzite ale acestui parc central ce îmbină natura cu istoria și faceți un mic picnic lângă vechile structuri de piatră.",
-            "en": "Stroll through the leafy pathways of this central park blending nature and history, packing a small picnic to enjoy near the old stone features."
+            "en": "Stroll through the leafy pathways of this central park blending nature and history, packing a small picnic to enjoy near the old stone features.",
+            "es": "Pasea por los senderos arbolados de este parque central que mezcla naturaleza e historia; lleva un pequeño picnic para disfrutar cerca de las antiguas estructuras de piedra."
           }
         },
         {
@@ -531,7 +586,8 @@
             "de": "Casa Azul",
             "hu": "Casa Azul",
             "ro": "Casa Azul",
-            "en": "Casa Azul"
+            "en": "Casa Azul",
+            "es": "Casa Azul"
           },
           "coords": [
             -0.459916,
@@ -546,7 +602,8 @@
             "de": "Bewundern Sie die leuchtend blaue Fassade dieses historischen Hauses, das in der Straße auffällt, und achten Sie auf die schmiedeeisernen Balkone.",
             "hu": "Értékelje az utcából kiemelkedő történelmi ház élénkkék homlokzatát, és figyelje meg az erkélyek bonyolult kovácsoltvas részleteit is.",
             "ro": "Apreciați fațada albastră vibrantă a acestei case istorice emblematice din stradă, remarcând detaliile complexe din fier forjat de pe balcoane.",
-            "en": "Appreciate the vibrant blue facade of this iconic historic house that stands out in the street, noting the intricate ironwork on its balconies."
+            "en": "Appreciate the vibrant blue facade of this iconic historic house that stands out in the street, noting the intricate ironwork on its balconies.",
+            "es": "Aprecia la vibrante fachada azul de esta emblemática casa histórica que destaca en la calle, fijándote en la trabajada rejería de los balcones."
           }
         },
         {
@@ -554,7 +611,8 @@
             "de": "Mural Bétera",
             "hu": "Mural Bétera",
             "ro": "Mural Bétera",
-            "en": "Mural Bétera"
+            "en": "Mural Bétera",
+            "es": "Mural Bétera"
           },
           "coords": [
             -0.466851,
@@ -569,7 +627,8 @@
             "de": "Untersuchen Sie die bunte Straßenkunst, die die Geschichte der Feste der Stadt erzählt, und suchen Sie unten nach den Signaturen der Künstler.",
             "hu": "Vizsgálja meg a város fesztiváljait elbeszélő színes falfestményt, és keresse meg az alsó sarkokban a helyi művészek aláírásait.",
             "ro": "Inspectați arta stradală colorată ce spune povestea festivalurilor locale, căutând în colțurile inferioare semnăturile artiștilor locali.",
-            "en": "Inspect the colorful street art that tells the story of the town's vibrant festivals, scanning the lower corners to find the local artist signatures."
+            "en": "Inspect the colorful street art that tells the story of the town's vibrant festivals, scanning the lower corners to find the local artist signatures.",
+            "es": "Observa el colorido arte urbano que narra las fiestas locales; mira las esquinas bajas para encontrar las firmas de los artistas."
           }
         }
       ],
@@ -577,7 +636,8 @@
         "de": "Beginnen Sie Ihre Fahrt an der symbolischen La estrella de Los Vientos und radeln Sie zum Castell de Bétera, um in die Geschichte einzutauchen.\nMachen Sie gegen Mittag eine Pause an der Plaça Bulevar und radeln Sie dann zur charmanten Ermita de la Divina Pastora mit ihrer klassischen Fassade.\nVerbringen Sie den Nachmittag auf den schattigen Wegen des Parque La Gerula centro, gefolgt von einem Stopp an der auffälligen Casa Azul.\nFahren Sie am Abend zum bunten Mural Bétera, um die zeitgenössische Straßenkunst der Stadt zu bewundern, bevor Sie Ihre Reise beenden.",
         "hu": "Indítsa biciklitúráját a szimbolikus La estrella de Los Vientos-nál, majd tekerjen a fenséges Castell de Bétera erődhöz a helyi történelemért.\nDélben tartson pihenőt a Plaça Bulevar-on, majd kerekezzen a bájos Ermita de la Divina Pastora remetelakhoz, hogy megcsodálja klasszikus homlokzatát.\nDélután élvezze a Parque La Gerula centro árnyékos ösvényeit, majd álljon meg a szemet gyönyörködtető Casa Azul épületénél.\nKora este tekerjen el a színes Mural Bétera falfestményhez, hogy megcsodálja a kortárs utcai művészetet túrája befejezéseként.",
         "ro": "Începeți cursa la simbolica La estrella de Los Vientos, pedalând spre grandiosul Castell de Bétera pentru o incursiune în istoria locală.\nLa amiază, faceți o pauză în Plaça Bulevar, apoi mergeți cu bicicleta la fermecătoarea Ermita de la Divina Pastora pentru a vedea fațada sa clasică.\nPetreceți după-amiaza bucurându-vă de aleile umbrite din Parque La Gerula centro, urmată de o oprire la impresionanta Casa Azul.\nPe măsură ce se lasă seara, mergeți la coloratul Mural Bétera pentru a aprecia arta stradală contemporană înainte de a vă încheia călătoria.",
-        "en": "Kick off your ride at the symbolic La estrella de Los Vientos, pedaling swiftly to the grand Castell de Bétera for a deep dive into local history.\nAround midday, take a break at Plaça Bulevar, then cycle to the charming Ermita de la Divina Pastora to admire its classic facade.\nSpend the afternoon enjoying the shaded paths of Parque La Gerula centro, followed by a stop at the eye-catching Casa Azul.\nAs evening falls, ride over to the colorful Mural Bétera to appreciate the town's contemporary street art before finishing your journey."
+        "en": "Kick off your ride at the symbolic La estrella de Los Vientos, pedaling swiftly to the grand Castell de Bétera for a deep dive into local history.\nAround midday, take a break at Plaça Bulevar, then cycle to the charming Ermita de la Divina Pastora to admire its classic facade.\nSpend the afternoon enjoying the shaded paths of Parque La Gerula centro, followed by a stop at the eye-catching Casa Azul.\nAs evening falls, ride over to the colorful Mural Bétera to appreciate the town's contemporary street art before finishing your journey.",
+        "es": "Comienza tu ruta en La estrella de Los Vientos y pedalea hacia el imponente Castell de Bétera para profundizar en la historia local.\nAl mediodía, haz una pausa en Plaça Bulevar y después ve en bici hasta la encantadora Ermita de la Divina Pastora para contemplar su fachada clásica.\nPasa la tarde disfrutando de los senderos sombreados del Parque La Gerula centro, seguido de una parada en la llamativa Casa Azul.\nAl caer la noche, acércate al colorido Mural Bétera para apreciar el arte contemporáneo antes de finalizar tu recorrido."
       },
       "variants": {
         "rainy": {
@@ -585,7 +645,8 @@
             "de": "Radeln Sie vorsichtig über die nassen Straßen Béteras. Der Morgen beginnt mit einer Tour zu den Denkmälern, wobei Regenbekleidung Pflicht ist. Mittags nutzen Sie die historischen Stopps als Unterstand vor den Schauern. Am Nachmittag geht es durch Parks und Außenviertel, wo Sie auf rutschige Blätter achten sollten. Der Tag endet sicher, bevor die Sicht im Regen zu schlecht wird.",
             "hu": "Kerékpározzon óvatosan Bétera nedves utcáin. A reggel a műemlékek felkeresésével indul, ahol az esőruházat kötelező. Délben használja a történelmi megállókat menedékként a záporok elől. Délután parkokon és külső negyedeken át vezet az út, ahol figyeljen a csúszós levelekre. A nap biztonságban ér véget, még mielőtt a látási viszonyok túlságosan leromlanának.",
             "ro": "Pedalați cu atenție pe străzile umede din Bétera. Dimineața începe cu vizitarea monumentelor, unde costumul de ploaie este obligatoriu. La prânz, folosiți opririle istorice ca adăpost împotriva averselor. După-amiaza, drumul trece prin parcuri și cartiere exterioare, unde trebuie să fiți atenți la frunzele alunecoase. Ziua se încheie în siguranță.",
-            "en": "Cycle carefully through the wet streets of Bétera. The morning starts with a tour of the monuments, where rain gear is mandatory. At noon, use the historical stops as shelter from the showers. In the afternoon, the route goes through parks and outer districts, where you should watch out for slippery leaves. The day ends safely before visibility becomes too poor."
+            "en": "Cycle carefully through the wet streets of Bétera. The morning starts with a tour of the monuments, where rain gear is mandatory. At noon, use the historical stops as shelter from the showers. In the afternoon, the route goes through parks and outer districts, where you should watch out for slippery leaves. The day ends safely before visibility becomes too poor.",
+            "es": "Circula con cuidado por las calles mojadas de Bétera. La mañana empieza con un recorrido por los monumentos, donde el equipo para la lluvia es imprescindible. Al mediodía, usa los enclaves históricos como refugio. Por la tarde, la ruta pasa por parques y distritos exteriores, donde hay que vigilar las hojas resbaladizas. Termina el día antes de que la visibilidad empeore."
           },
           "stops": [
             {
@@ -593,13 +654,15 @@
                 "de": "La estrella de Los Vientos",
                 "hu": "La estrella de Los Vientos",
                 "ro": "La estrella de Los Vientos",
-                "en": "La estrella de Los Vientos"
+                "en": "La estrella de Los Vientos",
+                "es": "La estrella de Los Vientos"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt an diesem exponierten Punkt; die Oberfläche kann bei Nässe extrem rutschig für Fahrradreifen sein.",
                 "hu": "Indulás előtt ellenőrizze a fékeit ezen a nyitott ponton; a burkolat nedvesen rendkívül csúszós lehet a kerékpárgumik számára.",
                 "ro": "Verificați frânele înainte de plecare din acest punct expus; suprafața poate fi extrem de alunecoasă pentru anvelopele de bicicletă când e udă.",
-                "en": "Check your brakes before departing from this exposed point; the surface can be extremely slippery for bicycle tires when wet today."
+                "en": "Check your brakes before departing from this exposed point; the surface can be extremely slippery for bicycle tires when wet today.",
+                "es": "Revisa los frenos antes de salir desde este punto expuesto; hoy la superficie puede estar muy resbaladiza para los neumáticos de la bicicleta."
               }
             },
             {
@@ -607,13 +670,15 @@
                 "de": "Castell de Bétera",
                 "hu": "Castell de Bétera",
                 "ro": "Castell de Bétera",
-                "en": "Castell de Bétera"
+                "en": "Castell de Bétera",
+                "es": "Castell de Bétera"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Rad unter einem Vorsprung ab und erkunden Sie die Burg; die Pflastersteine im Zugangsbereich sind bei Regen sehr tückisch.",
                 "hu": "Parkolja le a bringát egy előtető alatt és fedezze fel a várat; a bejárati részen a macskakő nagyon trükkös és csúszós az esőben.",
                 "ro": "Parcați bicicleta sub o streașină și explorați castelul; pavajul din zona de acces este foarte înșelător și alunecos pe ploaie.",
-                "en": "Park your bike under an overhang and explore the castle; the cobblestones in the access area are very tricky and slippery in the rain."
+                "en": "Park your bike under an overhang and explore the castle; the cobblestones in the access area are very tricky and slippery in the rain.",
+                "es": "Aparca la bici bajo un alero y explora el castillo; los adoquines del acceso son muy delicados y resbaladizos con lluvia."
               }
             },
             {
@@ -621,13 +686,15 @@
                 "de": "Plaça Bulevar",
                 "hu": "Plaça Bulevar",
                 "ro": "Plaça Bulevar",
-                "en": "Plaça Bulevar"
+                "en": "Plaça Bulevar",
+                "es": "Plaça Bulevar"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die kurzen Regenpausen für einen Blick auf den Platz; achten Sie beim Wiederanfahren auf tiefe Pfützen am Straßenrand.",
                 "hu": "Használja ki a rövid esőszüneteket a tér megtekintésére; az újbóli elinduláskor figyeljen az út szélén kialakuló mélyebb tócsákra.",
                 "ro": "Profitați de scurtele pauze de ploaie pentru a vedea piața; la plecare, aveți grijă la bălțile adânci care se formează la marginea drumului.",
-                "en": "Take advantage of short breaks in the rain to view the square; when starting again, watch out for deep puddles at the edge of the road."
+                "en": "Take advantage of short breaks in the rain to view the square; when starting again, watch out for deep puddles at the edge of the road.",
+                "es": "Aprovecha los intervalos de lluvia para ver la plaza; al reemprender la marcha, ten cuidado con los charcos profundos en los márgenes de la calzada."
               }
             },
             {
@@ -635,13 +702,15 @@
                 "de": "Ermita de la Divina Pastora",
                 "hu": "Ermita de la Divina Pastora",
                 "ro": "Ermita de la Divina Pastora",
-                "en": "Ermita de la Divina Pastora"
+                "en": "Ermita de la Divina Pastora",
+                "es": "Ermita de la Divina Pastora"
               },
               "tip_5lang": {
                 "de": "Suchen Sie hier Schutz vor einem starken Schauer; das Dach der Ermita bietet einen sicheren Platz, um die Regenjacke kurz zu richten.",
                 "hu": "Keressen itt menedéket egy erős zápor elől; az ermita tetőzete biztonságos helyet kínál az esőkabát és a felszerelés igazítására.",
                 "ro": "Căutați adăpost aici în caz de aversă puternică; acoperișul ermitei oferă un loc sigur pentru a vă ajusta pelerina de ploaie și echipamentul.",
-                "en": "Seek shelter here from a heavy shower; the ermita's roof offers a safe place to adjust your raincoat and gear before continuing."
+                "en": "Seek shelter here from a heavy shower; the ermita's roof offers a safe place to adjust your raincoat and gear before continuing.",
+                "es": "Busca refugio aquí ante un chubasco; el tejado de la ermita es un lugar seguro para ajustar el impermeable y el equipo antes de continuar."
               }
             },
             {
@@ -649,13 +718,15 @@
                 "de": "Parque La Gerula centro",
                 "hu": "Parque La Gerula centro",
                 "ro": "Parque La Gerula centro",
-                "en": "Parque La Gerula centro"
+                "en": "Parque La Gerula centro",
+                "es": "Parque La Gerula centro"
               },
               "tip_5lang": {
                 "de": "Fahren Sie im Park langsam, da die Wege durch aufgeweichten Boden und Laub schlammig und rutschig sein können; meiden Sie tiefe Pfützen.",
                 "hu": "A parkban haladjon lassan, mivel az utak a felázott talaj és a levelek miatt sarasak lehetnek; kerülje a mély és átláthatatlan tócsákat.",
                 "ro": "În parc, mergeți încet, deoarece aleile pot fi noroioase din cauza solului îmbibat și a frunzelor; evitați bălțile adânce și opace.",
-                "en": "Ride slowly in the park as the paths can be muddy due to soaked soil and leaves; avoid deep and opaque puddles along the way."
+                "en": "Ride slowly in the park as the paths can be muddy due to soaked soil and leaves; avoid deep and opaque puddles along the way.",
+                "es": "Circula despacio por el parque, ya que los caminos pueden estar embarrados por el suelo y las hojas empapadas; evita charcos profundos y opacos."
               }
             },
             {
@@ -663,13 +734,15 @@
                 "de": "Casa Azul",
                 "hu": "Casa Azul",
                 "ro": "Casa Azul",
-                "en": "Casa Azul"
+                "en": "Casa Azul",
+                "es": "Casa Azul"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die Fassade aus der Ferne, um nicht vom Weg abkommen zu müssen; im grauen Regenwetter leuchtet das Blau besonders mystisch.",
                 "hu": "Tekintse meg a homlokzatot távolról, hogy ne kelljen letérnie az aszfaltról; a szürke esős időben a kék szín különösen misztikusan világít.",
                 "ro": "Priviți fațada de la distanță pentru a nu fi nevoit să părăsiți asfaltul; pe vreme gri și ploioasă, culoarea albastră strălucește mistic.",
-                "en": "View the facade from a distance so you don't have to leave the asphalt; in gray rainy weather, the blue color glows particularly mystically."
+                "en": "View the facade from a distance so you don't have to leave the asphalt; in gray rainy weather, the blue color glows particularly mystically.",
+                "es": "Mira la fachada desde la distancia para no salir del asfalto; con tiempo gris y lluvioso, el azul destaca de forma especialmente misteriosa."
               }
             },
             {
@@ -677,13 +750,15 @@
                 "de": "Mural Bétera",
                 "hu": "Mural Bétera",
                 "ro": "Mural Bétera",
-                "en": "Mural Bétera"
+                "en": "Mural Bétera",
+                "es": "Mural Bétera"
               },
               "tip_5lang": {
                 "de": "Ein schneller Blick auf das Wandbild im Vorbeifahren genügt; achten Sie auf die Markierungen auf der Straße, die bei Nässe sehr rutschig sind.",
                 "hu": "Egy gyors pillantás a falfestményre elhaladás közben elég lesz; figyeljen az útburkolati jelekre, amelyek nedvesen nagyon csúszósak.",
                 "ro": "O privire rapidă la pictura murală în trecere va fi suficientă; atenție la marcajele rutiere, care sunt foarte alunecoase pe timp de ploaie.",
-                "en": "A quick look at the mural while passing by will suffice; watch out for road markings, which are very slippery when wet in this rain."
+                "en": "A quick look at the mural while passing by will suffice; watch out for road markings, which are very slippery when wet in this rain.",
+                "es": "Una mirada rápida al mural mientras pasas es suficiente; presta atención a las marcas viales, que resultan muy resbaladizas con la lluvia."
               }
             }
           ]
@@ -693,7 +768,8 @@
             "de": "Ein frischer Wintermorgen auf dem Rad weckt die Lebensgeister. Starten Sie mit der Tour zu den windgeschützten Monumenten. Da die Sonne gegen 17:00 Uhr sinkt, nutzen Sie das Licht für die Außenbezirke. Mittags bieten sonnige Abschnitte etwas Wärme für die Fahrt. Der Abend bricht früh und kühl herein, planen Sie das Ende Ihrer Tour daher rechtzeitig vor Einbruch der Dunkelheit.",
             "hu": "Egy friss téli reggel a bringán felébreszti az érzékeket. Kezdje a túrát a szélvédettebb műemlékek felé. Mivel a nap 17:00 körül nyugszik, használja ki a fényt a külső negyedekhez. Délben a napsütötte szakaszok némi meleget adnak a tekeréshez. Az este korán és hűvösen érkezik, így tervezze meg a túra végét még sötétedés előtt.",
             "ro": "O dimineață proaspătă de iarnă pe bicicletă trezește simțurile. Începeți turul spre monumentele mai ferite de vânt. Deoarece soarele apune în jur de ora 17:00, profitați de lumină pentru cartierele exterioare. La prânz, porțiunile însorite oferă puțină căldură. Seara vine devreme și rece, așa că planificați finalul înainte de întuneric.",
-            "en": "A fresh winter morning on the bike awakens the senses. Start the tour towards the more wind-sheltered monuments. Since the sun sets around 17:00, use the light for the outer districts. At noon, sunny stretches provide some warmth for the ride. Evening arrives early and cold, so plan to end your tour before darkness sets in."
+            "en": "A fresh winter morning on the bike awakens the senses. Start the tour towards the more wind-sheltered monuments. Since the sun sets around 17:00, use the light for the outer districts. At noon, sunny stretches provide some warmth for the ride. Evening arrives early and cold, so plan to end your tour before darkness sets in.",
+            "es": "Una fresca mañana invernal en bici despierta los sentidos. Empieza la ruta hacia los monumentos más protegidos del viento. Como el sol se pone sobre las 17:00, aprovecha la luz para los barrios exteriores. Al mediodía, los tramos soleados ofrecen algo de calor para el paseo. La tarde llega pronto y fría, así que planea terminar antes del anochecer."
           },
           "stops": [
             {
@@ -701,13 +777,15 @@
                 "de": "La estrella de Los Vientos",
                 "hu": "La estrella de Los Vientos",
                 "ro": "La estrella de Los Vientos",
-                "en": "La estrella de Los Vientos"
+                "en": "La estrella de Los Vientos",
+                "es": "La estrella de Los Vientos"
               },
               "tip_5lang": {
                 "de": "Hier weht im Winter ein oft beißender Wind; tragen Sie eine winddichte Jacke und Handschuhe, um die Fahrt ohne Auskühlen genießen zu können.",
                 "hu": "Itt télen gyakran metsző szél fúj; viseljen szélálló kabátot és kesztyűt, hogy a tekerést kihűlés nélkül élvezhesse ezen a nyitott ponton.",
                 "ro": "Aici vântul este adesea tăios iarna; purtați o jachetă rezistentă la vânt și mănuși pentru a vă bucura de plimbare fără să înghețați.",
-                "en": "A biting wind often blows here in winter; wear a windproof jacket and gloves to enjoy the ride without getting chilled at this open point."
+                "en": "A biting wind often blows here in winter; wear a windproof jacket and gloves to enjoy the ride without getting chilled at this open point.",
+                "es": "Aquí sopla a menudo un viento cortante en invierno; lleva chaqueta cortavientos y guantes para disfrutar del paseo sin quedarte helado en este punto abierto."
               }
             },
             {
@@ -715,13 +793,15 @@
                 "de": "Castell de Bétera",
                 "hu": "Castell de Bétera",
                 "ro": "Castell de Bétera",
-                "en": "Castell de Bétera"
+                "en": "Castell de Bétera",
+                "es": "Castell de Bétera"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Burgmauern als Windschutz beim Parken; das Innere der Burg ist oft wärmer als die umliegenden Gassen im Schatten.",
                 "hu": "Használja a várfalakat szélfogóként a parkoláskor; a vár belseje gyakran melegebb, mint a környező árnyékos szűk utcák a téli napokon.",
                 "ro": "Folosiți zidurile castelului ca paravan împotriva vântului la parcare; interiorul castelului este adesea mai cald decât străzile umbrite din jur.",
-                "en": "Use the castle walls as a windbreak when parking; the interior of the castle is often warmer than the surrounding shaded streets in winter."
+                "en": "Use the castle walls as a windbreak when parking; the interior of the castle is often warmer than the surrounding shaded streets in winter.",
+                "es": "Usa los muros del castillo como cortavientos al aparcar; el interior suele estar más cálido que las calles sombreadas en invierno."
               }
             },
             {
@@ -729,13 +809,15 @@
                 "de": "Plaça Bulevar",
                 "hu": "Plaça Bulevar",
                 "ro": "Plaça Bulevar",
-                "en": "Plaça Bulevar"
+                "en": "Plaça Bulevar",
+                "es": "Plaça Bulevar"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort für eine kurze Pause in der Mittagssonne; die umliegenden Gebäude blockieren den kalten Nordwind an vielen Stellen des Platzes.",
                 "hu": "Ideális hely egy rövid pihenőre a déli napsütésben; a környező épületek a tér számos pontján blokkolják a hideg északi szelet.",
                 "ro": "Un loc ideal pentru o scurtă pauză în soarele de la prânz; clădirile din jur blochează vântul rece de nord în multe puncte ale pieței.",
-                "en": "An ideal place for a short break in the midday sun; the surrounding buildings block the cold north wind in many spots of the square."
+                "en": "An ideal place for a short break in the midday sun; the surrounding buildings block the cold north wind in many spots of the square.",
+                "es": "Un lugar ideal para una breve pausa al sol del mediodía; los edificios circundantes bloquean el frío viento norte en muchos puntos de la plaza."
               }
             },
             {
@@ -743,13 +825,15 @@
                 "de": "Ermita de la Divina Pastora",
                 "hu": "Ermita de la Divina Pastora",
                 "ro": "Ermita de la Divina Pastora",
-                "en": "Ermita de la Divina Pastora"
+                "en": "Ermita de la Divina Pastora",
+                "es": "Ermita de la Divina Pastora"
               },
               "tip_5lang": {
                 "de": "Machen Sie eine Pause vom Radfahren und genießen Sie die Stille im Inneren; achten Sie auf die schnelle Auskühlung des Körpers bei Pausen.",
                 "hu": "Tartson szünetet a tekerésben és élvezze a benti csendet; ügyeljen a test gyors lehűlésére a megállók alatt, maradjon mozgásban vagy öltözzön fel.",
                 "ro": "Luați o pauză de la pedalat și bucurați-vă de liniștea din interior; atenție la răcirea rapidă a corpului în timpul pauzelor, rămâneți echipat.",
-                "en": "Take a break from cycling and enjoy the silence inside; watch out for rapid body cooling during breaks, stay layered and keep moving."
+                "en": "Take a break from cycling and enjoy the silence inside; watch out for rapid body cooling during breaks, stay layered and keep moving.",
+                "es": "Toma un descanso de la bici y disfruta del silencio interior; cuidado con el enfriamiento rápido del cuerpo durante las paradas, mantente con capas y en movimiento."
               }
             },
             {
@@ -757,13 +841,15 @@
                 "de": "Parque La Gerula centro",
                 "hu": "Parque La Gerula centro",
                 "ro": "Parque La Gerula centro",
-                "en": "Parque La Gerula centro"
+                "en": "Parque La Gerula centro",
+                "es": "Parque La Gerula centro"
               },
               "tip_5lang": {
                 "de": "Die klaren Wintertage lassen den Park in kühlem Glanz erstrahlen; fahren Sie zügig, um warm zu bleiben, während das Laub unter den Reifen raschelt.",
                 "hu": "A tiszta téli napok hűvös ragyogással töltik meg a parkot; tekerjen tempósan, hogy melegen tartsa magát, miközben az avar zörög a gumik alatt.",
                 "ro": "Zilele senine de iarnă fac parcul să strălucească; pedalați într-un ritm susținut pentru a vă menține cald în timp ce frunzele foșnesc sub roți.",
-                "en": "Clear winter days fill the park with a cool glow; cycle at a steady pace to keep warm while the dry leaves rustle under your tires today."
+                "en": "Clear winter days fill the park with a cool glow; cycle at a steady pace to keep warm while the dry leaves rustle under your tires today.",
+                "es": "Los días claros de invierno llenan el parque de un brillo frío; pedalea a ritmo constante para mantener el calor mientras las hojas secas crujen bajo tus ruedas."
               }
             },
             {
@@ -771,13 +857,15 @@
                 "de": "Casa Azul",
                 "hu": "Casa Azul",
                 "ro": "Casa Azul",
-                "en": "Casa Azul"
+                "en": "Casa Azul",
+                "es": "Casa Azul"
               },
               "tip_5lang": {
                 "de": "Im tiefstehenden Winterlicht kommt das Blau des Hauses fantastisch zur Geltung; halten Sie nur kurz für ein Foto, um nicht zu frieren.",
                 "hu": "Az alacsonyan járó téli napfényben a ház kékje fantasztikusan érvényesül; csak rövid időre álljon meg egy fotóra, hogy ne kezdjen fázni.",
                 "ro": "În lumina joasă a soarelui de iarnă, albastrul casei iese în evidență fantastic; opriți-vă doar scurt pentru o poză ca să nu vă ia frigul.",
-                "en": "In the low winter sunlight, the house's blue stands out fantastically; stop only briefly for a photo to avoid getting too cold while standing."
+                "en": "In the low winter sunlight, the house's blue stands out fantastically; stop only briefly for a photo to avoid getting too cold while standing.",
+                "es": "Con la baja luz invernal, el azul de la casa resalta fantásticamente; detente solo brevemente para una foto y evitar quedarte frío de pie."
               }
             },
             {
@@ -785,13 +873,15 @@
                 "de": "Mural Bétera",
                 "hu": "Mural Bétera",
                 "ro": "Mural Bétera",
-                "en": "Mural Bétera"
+                "en": "Mural Bétera",
+                "es": "Mural Bétera"
               },
               "tip_5lang": {
                 "de": "Da es hier schattig sein kann, ist es im Winter besonders kühl; beeilen Sie sich mit der Besichtigung, bevor die Dämmerung gegen 17:00 Uhr einsetzt.",
                 "hu": "Mivel ez a rész árnyékos lehet, télen különösen hűvös itt; siessen a megtekintéssel, mielőtt 17:00 körül beállna a korai téli szürkület.",
                 "ro": "Deoarece această zonă poate fi umbrită, este deosebit de rece iarna; grăbiți-vă cu vizita înainte de lăsarea amurgului, în jurul orei 17:00.",
-                "en": "Since this area can be shaded, it is particularly cool in winter; hurry with your visit before the early winter twilight sets in around 17:00."
+                "en": "Since this area can be shaded, it is particularly cool in winter; hurry with your visit before the early winter twilight sets in around 17:00.",
+                "es": "Al estar esta zona a la sombra, resulta especialmente fresca en invierno; apresura la visita antes de que el temprano crepúsculo invernal llegue sobre las 17:00."
               }
             }
           ]
@@ -811,7 +901,8 @@
             "de": "Castell de Bétera",
             "hu": "Castell de Bétera",
             "ro": "Castell de Bétera",
-            "en": "Castell de Bétera"
+            "en": "Castell de Bétera",
+            "es": "Castell de Bétera"
           },
           "coords": [
             -0.463148,
@@ -826,7 +917,8 @@
             "de": "Erkunden Sie die restaurierten Türme dieser alten islamischen Festung, um die Geschichte zu verstehen, und besteigen Sie den Bergfried für den Blick.",
             "hu": "Fedezze fel ezen ősi iszlám erőd felújított tornyait a város múltjának megismeréséhez, és másszon fel az öregtoronyba a panorámáért.",
             "ro": "Explorați turnurile restaurate ale acestei vechi fortărețe islamice pentru a înțelege trecutul orașului și urcați în donjon pentru panorame.",
-            "en": "Explore the restored towers of this ancient Islamic fortress to grasp the town's defensive past, and climb the keep for panoramic views."
+            "en": "Explore the restored towers of this ancient Islamic fortress to grasp the town's defensive past, and climb the keep for panoramic views.",
+            "es": "Explora las torres restauradas de esta antigua fortaleza islámica para comprender el pasado defensivo del pueblo y sube al aljibe para vistas panorámicas."
           }
         },
         {
@@ -834,7 +926,8 @@
             "de": "Horta Vella",
             "hu": "Horta Vella",
             "ro": "Horta Vella",
-            "en": "Horta Vella"
+            "en": "Horta Vella",
+            "es": "Horta Vella"
           },
           "coords": [
             -0.44615,
@@ -849,7 +942,8 @@
             "de": "Wandern Sie um die antiken römischen und islamischen landwirtschaftlichen Ruinen vor den Toren, und tragen Sie feste Schuhe für das unebene Gelände.",
             "hu": "Barangoljon a központon kívüli ókori római és iszlám mezőgazdasági romok körül, és viseljen zárt cipőt az egyenetlen ásatási területen.",
             "ro": "Plimbați-vă printre ruinele agricole antice romane și islamice de la periferie, purtând încălțăminte rezistentă pentru a naviga terenul accidentat.",
-            "en": "Wander around the ancient Roman and Islamic agricultural ruins just outside the center, wearing sturdy shoes to navigate the uneven excavated grounds."
+            "en": "Wander around the ancient Roman and Islamic agricultural ruins just outside the center, wearing sturdy shoes to navigate the uneven excavated grounds.",
+            "es": "Pasea por las ruinas agrícolas romanas e islámicas situadas en las afueras del centro; lleva calzado resistente para sortear los terrenos excavados y desnivelados."
           }
         },
         {
@@ -857,7 +951,8 @@
             "de": "Caseta Antigua",
             "hu": "Caseta Antigua",
             "ro": "Caseta Antigua",
-            "en": "Caseta Antigua"
+            "en": "Caseta Antigua",
+            "es": "Caseta Antigua"
           },
           "coords": [
             -0.457285,
@@ -872,7 +967,8 @@
             "de": "Untersuchen Sie diese gut erhaltene traditionelle Feldhütte mit bäuerlicher Architektur und vergleichen Sie das Mauerwerk mit den Stadtgebäuden.",
             "hu": "Vizsgálja meg ezt a vidéki építészetet bemutató, jól megőrzött mezei kunyhót, összehasonlítva kőművesmunkáját a nagyobb városi építményekkel.",
             "ro": "Examinați această colibă de câmp tradițională bine conservată, comparând zidăria ei de piatră cu structurile mai mari din centrul orașului.",
-            "en": "Examine this well-preserved traditional field hut showing rural architectural techniques, comparing its stone masonry to the grander city structures."
+            "en": "Examine this well-preserved traditional field hut showing rural architectural techniques, comparing its stone masonry to the grander city structures.",
+            "es": "Examina esta bien conservada caseta de campo tradicional que muestra técnicas rurales de construcción, comparando su mampostería con las estructuras más monumentales de la ciudad."
           }
         },
         {
@@ -880,7 +976,8 @@
             "de": "Deposito De agua",
             "hu": "Deposito De agua",
             "ro": "Deposito De agua",
-            "en": "Deposito De agua"
+            "en": "Deposito De agua",
+            "es": "Depósito de agua"
           },
           "coords": [
             -0.463995,
@@ -895,7 +992,8 @@
             "de": "Betrachten Sie die beeindruckende Industriearchitektur des alten Wasserdepots der Stadt und suchen Sie nach Tafeln, die den Bau detailliert beschreiben.",
             "hu": "Tekintse meg a várost ellátó régi víztározó lenyűgöző ipari építészetét, és keressen az építést részletező tájékoztató táblákat.",
             "ro": "Vizionați arhitectura industrială impresionantă a vechiului depozit de apă al orașului, căutând plăcile informative ce detaliază construcția sa.",
-            "en": "View the impressive industrial architecture of the old water depot that supplied the town, looking for informational plaques detailing its construction."
+            "en": "View the impressive industrial architecture of the old water depot that supplied the town, looking for informational plaques detailing its construction.",
+            "es": "Observa la impresionante arquitectura industrial del antiguo depósito de agua que abastecía el pueblo, buscando paneles informativos sobre su construcción."
           }
         },
         {
@@ -903,7 +1001,8 @@
             "de": "Mural Bétera",
             "hu": "Mural Bétera",
             "ro": "Mural Bétera",
-            "en": "Mural Bétera"
+            "en": "Mural Bétera",
+            "es": "Mural Bétera"
           },
           "coords": [
             -0.466851,
@@ -918,7 +1017,8 @@
             "de": "Untersuchen Sie die bunte Straßenkunst, die die Geschichte der Feste der Stadt erzählt, und suchen Sie unten nach den Signaturen der Künstler.",
             "hu": "Vizsgálja meg a város fesztiváljait elbeszélő színes falfestményt, és keresse meg az alsó sarkokban a helyi művészek aláírásait.",
             "ro": "Inspectați arta stradală colorată ce spune povestea festivalurilor locale, căutând în colțurile inferioare semnăturile artiștilor locali.",
-            "en": "Inspect the colorful street art that tells the story of the town's vibrant festivals, scanning the lower corners to find the local artist signatures."
+            "en": "Inspect the colorful street art that tells the story of the town's vibrant festivals, scanning the lower corners to find the local artist signatures.",
+            "es": "Inspecciona el colorido arte urbano que cuenta la historia de las festivas locales; revisa las esquinas inferiores para localizar las firmas de los artistas."
           }
         },
         {
@@ -926,7 +1026,8 @@
             "de": "La estrella de Los Vientos",
             "hu": "La estrella de Los Vientos",
             "ro": "La estrella de Los Vientos",
-            "en": "La estrella de Los Vientos"
+            "en": "La estrella de Los Vientos",
+            "es": "La estrella de Los Vientos"
           },
           "coords": [
             -0.465669,
@@ -941,7 +1042,8 @@
             "de": "Bestaunen Sie diese Windrose, die das nautische Erbe widerspiegelt, und fotografieren Sie früh, wenn das Sonnenlicht perfekt auf den Stein fällt.",
             "hu": "Csodálja meg ezt a helyi navigációs örökséget tükröző szélrózsa emlékművet, és fotózzon korán, amikor a napfény tökéletesen megvilágítja.",
             "ro": "Admirați acest monument în formă de roza vânturilor ce reflectă moștenirea locală, fotografiind dimineața când lumina soarelui cade perfect pe piatră.",
-            "en": "Marvel at this striking compass rose monument that reflects local navigational heritage, taking photos early when the sunlight hits the stone perfectly."
+            "en": "Marvel at this striking compass rose monument that reflects local navigational heritage, taking photos early when the sunlight hits the stone perfectly.",
+            "es": "Admira esta impactante rosa de los vientos que refleja la tradición navegante local; fotografía temprano cuando la luz solar golpea la piedra."
           }
         }
       ],
@@ -949,7 +1051,8 @@
         "de": "Beginnen Sie Ihre Fahrt am markanten Castell de Bétera und erkunden Sie dessen Vergangenheit, bevor Sie zur alten Horta Vella weiterfahren.\nMittags fahren Sie kurz zur gut erhaltenen Caseta Antigua, wo Sie traditionelle ländliche Architekturmethoden aus nächster Nähe beobachten können.\nParken Sie nachmittags beim Deposito De agua, um das Industriedesign zu betrachten, und fahren Sie dann zum ausdrucksstarken Mural Bétera.\nBeenden Sie Ihre landschaftlich reizvolle Fahrt am frühen Abend an La estrella de Los Vientos und genießen Sie das Denkmal im schwindenden Licht.",
         "hu": "Kezdje autós útját a Castell de Bétera erődnél, elmélyedve védelmi múltjában, mielőtt a városon kívüli ősi Horta Vella romok felé venné az irányt.\nDélben rövid utazással érje el a jól megőrzött Caseta Antigua épületét, ahol testközelből figyelheti meg a hagyományos vidéki építkezési módszereket.\nDélután parkoljon le a Deposito De agua víztározónál az ipari formatervezés megtekintéséhez, majd vezessen a kifejező Mural Bétera falfestményhez.\nFejezze be festői autózását kora este a La estrella de Los Vientos emlékműnél, élvezve annak finom részleteit a halványuló nappali fényben.",
         "ro": "Începeți traseul auto la impunătorul Castell de Bétera, explorând trecutul său defensiv înainte de a vă îndrepta spre străvechea Horta Vella.\nLa amiază, conduceți scurt până la bine conservata Caseta Antigua, unde puteți observa îndeaproape metodele arhitecturale rurale tradiționale.\nÎn timpul după-amiezii, parcați lângă Deposito De agua pentru designul său industrial, apoi conduceți pentru a vedea expresivul Mural Bétera.\nÎncheiați-vă plimbarea cu mașina seara devreme la La estrella de Los Vientos, bucurându-vă de detaliile fine ale monumentului la lumina asfințitului.",
-        "en": "Start your driving route at the prominent Castell de Bétera, delving into its defensive past before heading out toward the ancient Horta Vella.\nMidday allows for a short drive to the well-preserved Caseta Antigua, where you can observe traditional rural architectural methods up close.\nDuring the afternoon, park near the Deposito De agua to examine its industrial design, then drive to see the expressive Mural Bétera.\nConclude your scenic drive in the early evening at La estrella de Los Vientos, enjoying the monument's fine details in the fading daylight."
+        "en": "Start your driving route at the prominent Castell de Bétera, delving into its defensive past before heading out toward the ancient Horta Vella.\nMidday allows for a short drive to the well-preserved Caseta Antigua, where you can observe traditional rural architectural methods up close.\nDuring the afternoon, park near the Deposito De agua to examine its industrial design, then drive to see the expressive Mural Bétera.\nConclude your scenic drive in the early evening at La estrella de Los Vientos, enjoying the monument's fine details in the fading daylight.",
+        "es": "Comienza la ruta en coche en el destacado Castell de Bétera para explorar su pasado defensivo antes de dirigirte a la antigua Horta Vella.\nAl mediodía, conduce hasta la bien conservada Caseta Antigua para observar de cerca métodos tradicionales de arquitectura rural.\nPor la tarde, aparca cerca del Depósito de agua para examinar su diseño industrial y luego ve a ver el expresivo Mural Bétera.\nConcluye el paseo panorámico al atardecer en La estrella de Los Vientos, disfrutando de los detalles del monumento con la luz menguante."
       },
       "variants": {
         "rainy": {
@@ -957,7 +1060,8 @@
             "de": "Genießen Sie Bétera bequem vom Auto aus, während der Regen gegen die Scheiben prasselt. Der Morgen startet beim Castell mit kurzen Wegen ins Trockene. Mittags erkunden Sie historische Stätten in der Umgebung, wobei Sie direkt vor den Sehenswürdigkeiten parken können. Am Nachmittag geht es zu den Außenbezirken, geschützt vor dem Wind. Der Abend endet entspannt in der Stadt.",
             "hu": "Élvezze Bétera látnivalóit kényelmesen az autóból, miközben az eső kopog a szélvédőn. A reggel a várnál indul, rövid utakkal a száraz terekig. Délben fedezze fel a környék történelmi helyszíneit, ahol közvetlenül a látnivalók közelében parkolhat. Délután a külső negyedek felé veheti az irányt, védve a széltől. Az este pihentetően zárul a városban.",
             "ro": "Bucurați-vă de atracțiile din Bétera confortabil din mașină, în timp ce ploaia bate în parbriz. Dimineața începe la castel, cu distanțe scurte până la spațiile uscate. La prânz, explorați siturile istorice din jur, unde puteți parca direct lângă obiective. După-amiaza vă puteți îndrepta spre cartierele exterioare. Seara se încheie relaxant.",
-            "en": "Enjoy Bétera's sights comfortably from your car while the rain drums on the windshield. The morning starts at the castle with short walks to dry spaces. At noon, explore the surrounding historical sites, where you can park directly near the attractions. In the afternoon, head towards the outer districts, protected from the wind. The evening ends relaxingly."
+            "en": "Enjoy Bétera's sights comfortably from your car while the rain drums on the windshield. The morning starts at the castle with short walks to dry spaces. At noon, explore the surrounding historical sites, where you can park directly near the attractions. In the afternoon, head towards the outer districts, protected from the wind. The evening ends relaxingly.",
+            "es": "Disfruta de los puntos de interés de Bétera cómodamente desde el coche mientras la lluvia golpea el parabrisas. La mañana comienza en el castillo con paseos cortos a zonas secas. Al mediodía, explora los yacimientos históricos, donde puedes aparcar cerca de las atracciones. Por la tarde, dirígete a los distritos exteriores, protegidos del viento. La velada termina de forma relajada."
           },
           "stops": [
             {
@@ -965,13 +1069,15 @@
                 "de": "Castell de Bétera",
                 "hu": "Castell de Bétera",
                 "ro": "Castell de Bétera",
-                "en": "Castell de Bétera"
+                "en": "Castell de Bétera",
+                "es": "Castell de Bétera"
               },
               "tip_5lang": {
                 "de": "Parken Sie so nah wie möglich am Eingang, um den Regenweg zu minimieren; im Inneren der Burg finden Sie zahlreiche Exponate im Trockenen.",
                 "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy minimalizálja az esőben megtett utat; a vár belsejében számos kiállítást talál fedett helyen.",
                 "ro": "Parcați cât mai aproape de intrare pentru a minimiza distanța parcursă prin ploaie; în interiorul castelului veți găsi numeroase exponate la adăpost.",
-                "en": "Park as close to the entrance as possible to minimize the walk in the rain; inside the castle, you will find numerous exhibits in dry areas."
+                "en": "Park as close to the entrance as possible to minimize the walk in the rain; inside the castle, you will find numerous exhibits in dry areas.",
+                "es": "Aparca lo más cerca posible de la entrada para minimizar la caminata bajo la lluvia; dentro del castillo encontrarás numerosas salas secas con exposiciones."
               }
             },
             {
@@ -979,13 +1085,15 @@
                 "de": "Horta Vella",
                 "hu": "Horta Vella",
                 "ro": "Horta Vella",
-                "en": "Horta Vella"
+                "en": "Horta Vella",
+                "es": "Horta Vella"
               },
               "tip_5lang": {
                 "de": "Vermeiden Sie bei starkem Regen unbefestigte Parkflächen, da diese schlammig sein können; betrachten Sie die Ausgrabungen aus dem Auto oder mit Schirm.",
                 "hu": "Heves esőzéskor kerülje a burkolatlan parkolóhelyeket, mert sárosak lehetnek; tekintse meg az ásatásokat az autóból vagy egy erős esernyővel.",
                 "ro": "În caz de ploaie abundentă, evitați parcările neamenajate, deoarece pot fi noroioase; vizualizați excavațiile din mașină sau cu o umbrelă solidă.",
-                "en": "Avoid unpaved parking areas during heavy rain as they can be muddy; view the excavations from the car or with a sturdy umbrella today."
+                "en": "Avoid unpaved parking areas during heavy rain as they can be muddy; view the excavations from the car or with a sturdy umbrella today.",
+                "es": "Evita aparcar en terrenos sin pavimentar durante lluvias fuertes, ya que se encharcan; observa las excavaciones desde el coche o con un paraguas resistente."
               }
             },
             {
@@ -993,13 +1101,15 @@
                 "de": "Caseta Antigua",
                 "hu": "Caseta Antigua",
                 "ro": "Caseta Antigua",
-                "en": "Caseta Antigua"
+                "en": "Caseta Antigua",
+                "es": "Caseta Antigua"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp für ein Foto aus dem Fenster reicht aus; bei Regen wirken die alten Steinmauern oft dunkler und kontrastreicher für Bilder.",
                 "hu": "Egy rövid megálló egy ablakból készült fotóhoz bőven elég lesz; az esőben a régi kőfalak gyakran sötétebbnek és kontrasztosabbnak tűnnek a képeken.",
                 "ro": "O scurtă oprire pentru o fotografie de pe geam va fi suficientă; pe ploaie, zidurile vechi de piatră par adesea mai întunecate și contrastante.",
-                "en": "A short stop for a photo from the window will be plenty; in the rain, the old stone walls often appear darker and more contrasted in pictures."
+                "en": "A short stop for a photo from the window will be plenty; in the rain, the old stone walls often appear darker and more contrasted in pictures.",
+                "es": "Una breve parada para una foto desde la ventana será suficiente; con lluvia, los muros de piedra antigua suelen verse más oscuros y con mayor contraste en las fotos."
               }
             },
             {
@@ -1007,13 +1117,15 @@
                 "de": "Deposito De agua",
                 "hu": "Deposito De agua",
                 "ro": "Deposito De agua",
-                "en": "Deposito De agua"
+                "en": "Deposito De agua",
+                "es": "Depósito de agua"
               },
               "tip_5lang": {
                 "de": "Achten Sie beim Aussteigen auf tiefe Pfützen am Fahrbahnrand; das Bauwerk lässt sich auch gut bei laufendem Scheibenwischer kurz besichtigen.",
                 "hu": "Kiszálláskor ügyeljen az út szélén összegyűlt mély tócsákra; az építményt rövid ideig a járó ablaktörlők mellett is jól meg lehet szemlélni.",
                 "ro": "La coborâre, aveți grijă la bălțile adânci de la marginea drumului; construcția poate fi observată bine și din mașină, prin parbrizul curățat.",
-                "en": "When getting out, watch out for deep puddles at the roadside; the structure can also be viewed well from the car with the wipers running."
+                "en": "When getting out, watch out for deep puddles at the roadside; the structure can also be viewed well from the car with the wipers running.",
+                "es": "Al bajar, cuidado con los charcos profundos en el arcén; la estructura también se puede contemplar bien desde el coche con los limpiaparabrisas en marcha."
               }
             },
             {
@@ -1021,13 +1133,15 @@
                 "de": "Mural Bétera",
                 "hu": "Mural Bétera",
                 "ro": "Mural Bétera",
-                "en": "Mural Bétera"
+                "en": "Mural Bétera",
+                "es": "Mural Bétera"
               },
               "tip_5lang": {
                 "de": "Fahren Sie langsam am Wandbild vorbei, wenn der Regen zu stark zum Aussteigen ist; die Farben leuchten trotz der Nässe sehr intensiv.",
                 "hu": "Hajtson el lassan a falfestmény mellett, ha az eső túl erős a kiszálláshoz; a színek a nedvesség ellenére is nagyon intenzíven ragyognak.",
                 "ro": "Conduceți încet pe lângă pictura murală dacă ploaia este prea puternică pentru a coborî; culorile strălucesc intens în ciuda umidității.",
-                "en": "Drive slowly past the mural if the rain is too heavy to get out; the colors shine very intensely despite the moisture and gray sky today."
+                "en": "Drive slowly past the mural if the rain is too heavy to get out; the colors shine very intensely despite the moisture and gray sky today.",
+                "es": "Pasa despacio con el coche junto al mural si la lluvia es muy intensa para bajar; los colores brillan con gran intensidad pese a la humedad y el cielo gris de hoy."
               }
             },
             {
@@ -1035,13 +1149,15 @@
                 "de": "La estrella de Los Vientos",
                 "hu": "La estrella de Los Vientos",
                 "ro": "La estrella de Los Vientos",
-                "en": "La estrella de Los Vientos"
+                "en": "La estrella de Los Vientos",
+                "es": "La estrella de Los Vientos"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Wagen als Windschutz bei diesem exponierten Stopp; die Sicht auf die Umgebung kann bei Regen dramatisch und wolkenverhangen sein.",
                 "hu": "Használja az autót szélfogóként ennél a nyitott megállónál; a környékre nyíló kilátás esőben drámai és felhőkbe burkolózó lehet ma.",
                 "ro": "Folosiți mașina ca paravan împotriva vântului la această oprire expusă; vederea asupra împrejurimilor poate fi dramatică și înnorată pe ploaie.",
-                "en": "Use the car as a windbreak at this exposed stop; the view of the surroundings can be dramatic and cloud-shrouded in the rain today."
+                "en": "Use the car as a windbreak at this exposed stop; the view of the surroundings can be dramatic and cloud-shrouded in the rain today.",
+                "es": "Usa el coche como parapeto contra el viento en esta parada expuesta; la vista del entorno puede ser dramática y envuelta en nubes con la lluvia de hoy."
               }
             }
           ]
@@ -1051,7 +1167,8 @@
             "de": "Entdecken Sie Bétera im Winter mit dem Komfort einer Sitzheizung. Der Vormittag am Castell bietet klare Fernsichten in der kalten Luft. Da die Sonne gegen 17:00 Uhr untergeht, planen Sie die ländlichen Stopps wie Horta Vella für das helle Mittagslicht ein. Der Nachmittag führt Sie zu interessanten Bauwerken, bevor die Kälte nach Sonnenuntergang spürbar wird. Der Abend endet gemütlich.",
             "hu": "Fedezze fel Béterát télen az ülésfűtés kényelmével. A délelőtt a várnál tiszta tálati kilátást kínál a hideg levegőben. Mivel a nap 17:00 körül nyugszik, a vidéki megállókat, mint Horta Vella, tervezze a fényes déli órákra. A délután érdekes építményekhez vezet, mielőtt a naplemente utáni hideg érezhetővé válna. Az este kellemesen zárul.",
             "ro": "Descoperiți Bétera iarna cu confortul încălzirii în scaune. Dimineața la castel oferă vederi clare în aerul rece. Deoarece soarele apune în jur de ora 17:00, planificați opririle rurale pentru orele luminoase de la prânz. După-amiaza vă duce la construcții interesante, înainte ca frigul de după apus să fie simțit.",
-            "en": "Explore Bétera in winter with the comfort of seat heating. Morning at the castle offers clear distant views in the cold air. As the sun sets around 17:00, plan rural stops like Horta Vella for the bright midday hours. The afternoon leads you to interesting structures before the post-sunset cold becomes noticeable. The evening ends pleasantly."
+            "en": "Explore Bétera in winter with the comfort of seat heating. Morning at the castle offers clear distant views in the cold air. As the sun sets around 17:00, plan rural stops like Horta Vella for the bright midday hours. The afternoon leads you to interesting structures before the post-sunset cold becomes noticeable. The evening ends pleasantly.",
+            "es": "Explora Bétera en invierno con la comodidad del asiento calefactado. La mañana en el castillo ofrece vistas lejanas nítidas con el aire frío. Al ponerse el sol alrededor de las 17:00, planea paradas rurales como Horta Vella para las horas de sol del mediodía. La tarde te lleva a estructuras interesantes antes de que el frío pospuesta al atardecer se haga notar. La velada termina agradablemente."
           },
           "stops": [
             {
@@ -1059,13 +1176,15 @@
                 "de": "Castell de Bétera",
                 "hu": "Castell de Bétera",
                 "ro": "Castell de Bétera",
-                "en": "Castell de Bétera"
+                "en": "Castell de Bétera",
+                "es": "Castell de Bétera"
               },
               "tip_5lang": {
                 "de": "Die Burg bietet im Winter klare Sichtachsen bis zum Meer; im Inneren ist es oft angenehm temperiert im Vergleich zum eisigen Wind auf den Türmen.",
                 "hu": "A vár télen tiszta kilátást kínál egészen a tengerig; a belső terekben gyakran kellemesebb a hőmérséklet, mint a tornyokban fújó jeges szélben.",
                 "ro": "Castelul oferă iarna vederi clare până la mare; în interior temperatura este adesea mai plăcută decât vântul înghețat din turnuri.",
-                "en": "The castle offers clear views all the way to the sea in winter; the interiors are often pleasantly tempered compared to the icy wind on the towers."
+                "en": "The castle offers clear views all the way to the sea in winter; the interiors are often pleasantly tempered compared to the icy wind on the towers.",
+                "es": "El castillo ofrece vistas claras hasta el mar en invierno; los interiores suelen estar agradablemente templados en comparación con el viento helado de las torres."
               }
             },
             {
@@ -1073,13 +1192,15 @@
                 "de": "Horta Vella",
                 "hu": "Horta Vella",
                 "ro": "Horta Vella",
-                "en": "Horta Vella"
+                "en": "Horta Vella",
+                "es": "Horta Vella"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie diesen Ort zur Mittagszeit, wenn die Wintersonne am höchsten steht; die klaren Schatten betonen die antiken Strukturen der Ausgrabung.",
                 "hu": "Látogassa meg ezt a helyet délidőben, amikor a téli nap a legmagasabban jár; a tiszta árnyékok kiemelik az ásatás antik struktúráit a fotókon.",
                 "ro": "Vizitați acest loc la prânz, când soarele de iarnă este cel mai sus; umbrele clare scot în evidență structurile antice ale excavației.",
-                "en": "Visit this place at noon when the winter sun is at its highest; the clear shadows emphasize the ancient structures of the excavation in photos."
+                "en": "Visit this place at noon when the winter sun is at its highest; the clear shadows emphasize the ancient structures of the excavation in photos.",
+                "es": "Visita este lugar al mediodía cuando el sol invernal está en lo alto; las sombras nítidas enfatizan las estructuras antiguas de la excavación en las fotos."
               }
             },
             {
@@ -1087,13 +1208,15 @@
                 "de": "Caseta Antigua",
                 "hu": "Caseta Antigua",
                 "ro": "Caseta Antigua",
-                "en": "Caseta Antigua"
+                "en": "Caseta Antigua",
+                "es": "Caseta Antigua"
               },
               "tip_5lang": {
                 "de": "Ein schneller Halt für ein Foto; das warme Licht der tiefstehenden Wintersonne lässt die alten Steine in einem goldenen Farbton erstrahlen.",
                 "hu": "Egy gyors megálló egy fotóra; az alacsonyan járó téli nap meleg fénye arany tónusban ragyogtatja fel a régi köveket a korai délután során.",
                 "ro": "O oprire rapidă pentru o poză; lumina caldă a soarelui de iarnă face ca pietrele vechi să strălucească într-o nuanță aurie după-amiaza.",
-                "en": "A quick stop for a photo; the warm light of the low winter sun makes the old stones glow in a golden hue during the early afternoon."
+                "en": "A quick stop for a photo; the warm light of the low winter sun makes the old stones glow in a golden hue during the early afternoon.",
+                "es": "Una parada rápida para una foto; la cálida luz del sol bajo invernal hace que las piedras antiguas brillen con un tono dorado durante la primera hora de la tarde."
               }
             },
             {
@@ -1101,13 +1224,15 @@
                 "de": "Deposito De agua",
                 "hu": "Deposito De agua",
                 "ro": "Deposito De agua",
-                "en": "Deposito De agua"
+                "en": "Deposito De agua",
+                "es": "Depósito de agua"
               },
               "tip_5lang": {
                 "de": "Lassen Sie den Motor kurz laufen, um die Wärme im Auto zu halten; die klare Winterluft sorgt für eine sehr gute Sichtbarkeit des Turms.",
                 "hu": "Hagyja járni a motort rövid ideig, hogy megtartsa a meleget az autóban; a tiszta téli levegő kiváló láthatóságot biztosít a torony számára.",
                 "ro": "Lăsați motorul pornit scurt timp pentru a menține căldura în mașină; aerul clar de iarnă asigură o vizibilitate excelentă asupra turnului.",
-                "en": "Leave the engine running briefly to keep the warmth in the car; the clear winter air provides excellent visibility for the tower today."
+                "en": "Leave the engine running briefly to keep the warmth in the car; the clear winter air provides excellent visibility for the tower today.",
+                "es": "Deja el motor en marcha brevemente para mantener el calor en el coche; el aire invernal claro ofrece hoy una excelente visibilidad hacia la torre."
               }
             },
             {
@@ -1115,13 +1240,15 @@
                 "de": "Mural Bétera",
                 "hu": "Mural Bétera",
                 "ro": "Mural Bétera",
-                "en": "Mural Bétera"
+                "en": "Mural Bétera",
+                "es": "Mural Bétera"
               },
               "tip_5lang": {
                 "de": "Besichtigen Sie das Wandbild, bevor es im Schatten der Gebäude zu kalt wird; das Licht am späten Nachmittag ist hier besonders weich.",
                 "hu": "Tekintse meg a falfestményt, mielőtt az épületek árnyékában túl hideg lenne; a késő délutáni fények itt különösen lágyak ilyenkor.",
                 "ro": "Vizualizați pictura murală înainte de a se face prea frig la umbra clădirilor; lumina de după-amiază târziu este deosebit de blândă aici.",
-                "en": "View the mural before it gets too cold in the shadow of the buildings; the late afternoon lights are particularly soft here in winter."
+                "en": "View the mural before it gets too cold in the shadow of the buildings; the late afternoon lights are particularly soft here in winter.",
+                "es": "Mira el mural antes de que haga demasiado frío a la sombra de los edificios; las luces de la tarde son particularmente suaves aquí en invierno."
               }
             },
             {
@@ -1129,13 +1256,15 @@
                 "de": "La estrella de Los Vientos",
                 "hu": "La estrella de Los Vientos",
                 "ro": "La estrella de Los Vientos",
-                "en": "La estrella de Los Vientos"
+                "en": "La estrella de Los Vientos",
+                "es": "La estrella de Los Vientos"
               },
               "tip_5lang": {
                 "de": "Der Sonnenuntergang ist hier gegen 17:00 Uhr spektakulär, aber windig; genießen Sie das Panorama kurz und kehren Sie dann ins warme Auto zurück.",
                 "hu": "A naplemente itt 17:00 körül látványos, de szeles; élvezze a panorámát rövid ideig, majd térjen vissza a fűtött, meleg autóba.",
                 "ro": "Apusul de soare aici este spectaculos în jur de ora 17:00, dar vântos; bucurați-vă de panoramă scurt timp, apoi reveniți în mașina caldă.",
-                "en": "The sunset here is spectacular around 17:00 but windy; enjoy the panorama briefly and then return to the warm, heated car."
+                "en": "The sunset here is spectacular around 17:00 but windy; enjoy the panorama briefly and then return to the warm, heated car.",
+                "es": "El atardecer aquí es espectacular alrededor de las 17:00 pero con viento; disfruta del panorama brevemente y luego vuelve al coche caliente y con la calefacción encendida."
               }
             }
           ]

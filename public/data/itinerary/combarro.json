@@ -21,7 +21,8 @@
             "de": "Plaza de San Roque",
             "hu": "Plaza de San Roque",
             "ro": "Plaza de San Roque",
-            "en": "Plaza de San Roque"
+            "en": "Plaza de San Roque",
+            "es": "Plaza de San Roque"
           },
           "coords": [
             -8.7025,
@@ -36,7 +37,8 @@
             "de": "Sehen Sie die ersten Cruceiros (Steinkreuze) der Stadt.",
             "hu": "Itt láthatja a város első kőkeresztjeit (cruceiros).",
             "ro": "Vedeți primele cruci de piatră (cruceiros) din oraș.",
-            "en": "See the first stone crosses (cruceiros) of the town."
+            "en": "See the first stone crosses (cruceiros) of the town.",
+            "es": "Ve las primeras cruces de piedra (cruceiros) del pueblo."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Iglesia de San Roque",
             "hu": "Szent Rókus-templom",
             "ro": "Iglesia de San Roque",
-            "en": "Iglesia de San Roque"
+            "en": "Iglesia de San Roque",
+            "es": "Iglesia de San Roque"
           },
           "coords": [
             -8.7028,
@@ -59,7 +62,8 @@
             "de": "Eine schlichte, aber charakteristische Fischerkirche.",
             "hu": "Egyszerű, de karakteres halásztemplom.",
             "ro": "O biserică pescărească simplă, dar plină de caracter.",
-            "en": "A simple but characteristic fisherman's church."
+            "en": "A simple but characteristic fisherman's church.",
+            "es": "Una iglesia marinera sencilla pero característica."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Rúa do Mar",
             "hu": "Rúa do Mar",
             "ro": "Rúa do Mar",
-            "en": "Rúa do Mar"
+            "en": "Rúa do Mar",
+            "es": "Rúa do Mar"
           },
           "coords": [
             -8.7035,
@@ -82,7 +87,8 @@
             "de": "Die charmanteste Straße am Meer.",
             "hu": "A legbájosabb tengerparti utca.",
             "ro": "Cea mai fermecătoare stradă de pe malul mării.",
-            "en": "The most charming street by the sea."
+            "en": "The most charming street by the sea.",
+            "es": "La calle más pintoresca junto al mar."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Hórreos de Combarro",
             "hu": "Combarro hórreói",
             "ro": "Hórreos de Combarro",
-            "en": "Hórreos de Combarro"
+            "en": "Hórreos de Combarro",
+            "es": "Hórreos de Combarro"
           },
           "coords": [
             -8.7045,
@@ -105,7 +112,8 @@
             "de": "Über 30 Maisspeicher direkt an der Küstenlinie.",
             "hu": "Több mint 30 magtár (hórreo) közvetlenül a parton.",
             "ro": "Peste 30 de hambare (hórreos) chiar pe malul apei.",
-            "en": "Over 30 traditional granaries (hórreos) right on the coastline."
+            "en": "Over 30 traditional granaries (hórreos) right on the coastline.",
+            "es": "Más de 30 hórreos tradicionales justo en la línea de costa."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Puerto de Combarro",
             "hu": "Combarro kikötője",
             "ro": "Portul Combarro",
-            "en": "Puerto de Combarro"
+            "en": "Puerto de Combarro",
+            "es": "Puerto de Combarro"
           },
           "coords": [
             -8.7015,
@@ -128,7 +137,8 @@
             "de": "Perfekt für ein Mittagessen mit Meerblick.",
             "hu": "Tökéletes hely egy tengerre néző ebédhez.",
             "ro": "Perfect pentru un prânz cu vedere la mare.",
-            "en": "Perfect for a lunch with sea views."
+            "en": "Perfect for a lunch with sea views.",
+            "es": "Perfecto para comer con vistas al mar."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Cruceiros de Combarro",
             "hu": "Combarro kőkeresztjei",
             "ro": "Cruceiros de Combarro",
-            "en": "Cruceiros de Combarro"
+            "en": "Cruceiros de Combarro",
+            "es": "Cruceiros de Combarro"
           },
           "coords": [
             -8.703,
@@ -151,7 +162,8 @@
             "de": "Entdecken Sie die versteckten Kreuze in den Altstadtgassen.",
             "hu": "Fedezze fel az óvárosi utcákban megbújó kereszteket.",
             "ro": "Descoperiți crucile ascunse pe străzile orașului vechi.",
-            "en": "Discover the hidden crosses in the old town streets."
+            "en": "Discover the hidden crosses in the old town streets.",
+            "es": "Descubre las cruces escondidas en las calles del casco antiguo."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Combarro ist eines der malerischsten Dörfer Galiziens. Morgens spazieren Sie durch die Altstadt von der Plaza de San Roque zur Rúa do Mar. Der Höhepunkt sind die berühmten Hórreos (Maisspeicher) direkt am Wasser. Mittags genießen Sie Meeresfrüchte im Hafen und erkunden danach die zahlreichen historischen Steinkreuze in den engen Gassen.",
         "hu": "Combarro Galícia egyik legfestőibb faluja. Reggel az óvároson sétálunk keresztül a Plaza de San Roque-tól a Rúa do Mar-ig. A csúcspont a híres hórreók (hagyományos magtárak) sora közvetlenül a vízparton. Délben tengeri herkentyűket kóstolunk a kikötőben, majd felfedezzük a szűk utcák kőkeresztjeit.",
         "ro": "Combarro este unul dintre cele mai pitorești sate din Galicia. Dimineața vă plimbați prin orașul vechi, de la Plaza de San Roque la Rúa do Mar. Punctul culminant sunt faimoasele hórreos (hambare) chiar pe malul apei. La prânz savurați fructe de mare în port și apoi explorați numeroasele cruci de piatră istorice de pe străzile înguste.",
-        "en": "Combarro is one of Galicia's most picturesque villages. In the morning, stroll through the old town from Plaza de San Roque to Rúa do Mar. The highlight is the row of famous hórreos (granaries) right by the water. At midday, enjoy seafood at the port and then explore the many historic stone crosses in the narrow alleys."
+        "en": "Combarro is one of Galicia's most picturesque villages. In the morning, stroll through the old town from Plaza de San Roque to Rúa do Mar. The highlight is the row of famous hórreos (granaries) right by the water. At midday, enjoy seafood at the port and then explore the many historic stone crosses in the narrow alleys.",
+        "es": "Combarro es uno de los pueblos más pintorescos de Galicia. Por la mañana, pasea por el casco antiguo desde la Plaza de San Roque hasta la Rúa do Mar. El punto culminante es la hilera de famosos hórreos junto al agua. Al mediodía, disfruta de marisco en el puerto y luego explora las numerosas cruces de piedra históricas en los callejones estrechos."
       },
       "gastro_picks": {
         "de": [
@@ -267,6 +280,12 @@
           "Visit at low tide to see the hórreos in their full height.",
           "Rúa do Mar can get very crowded in high season.",
           "Avoid lunchtime for photos if you want quiet."
+        ],
+        "es": [
+          "El pueblo es pequeño y solo accesible a pie.",
+          "Visita con marea baja para ver los hórreos a su altura completa.",
+          "La Rúa do Mar puede llenarse mucho en temporada alta.",
+          "Evita la hora de comer para fotos si prefieres tranquilidad."
         ]
       },
       "variants": {
@@ -275,7 +294,8 @@
             "de": "Combarro ist eines der malerischsten Dörfer Galiziens. Morgens spazieren Sie durch die Altstadt von der Plaza de San Roque zur Rúa do Mar. Der Höhepunkt sind die berühmten Hórreos (Maisspeicher) direkt am Wasser. Mittags genießen Sie Meeresfrüchte im Hafen und erkunden danach die zahlreichen historischen Steinkreuze in den engen Gassen.",
             "hu": "Combarro Galícia egyik legfestőibb faluja. Reggel az óvároson sétálunk keresztül a Plaza de San Roque-tól a Rúa do Mar-ig. A csúcspont a híres hórreók (hagyományos magtárak) sora közvetlenül a vízparton. Délben tengeri herkentyűket kóstolunk a kikötőben, majd felfedezzük a szűk utcák kőkeresztjeit.",
             "ro": "Combarro este unul dintre cele mai pitorești sate din Galicia. Dimineața vă plimbați prin orașul vechi, de la Plaza de San Roque la Rúa do Mar. Punctul culminant sunt faimoasele hórreos (hambare) chiar pe malul apei. La prânz savurați fructe de mare în port și apoi explorați numeroasele cruci de piatră istorice de pe străzile înguste.",
-            "en": "Combarro is one of Galicia's most picturesque villages. In the morning, stroll through the old town from Plaza de San Roque to Rúa do Mar. The highlight is the row of famous hórreos (granaries) right by the water. At midday, enjoy seafood at the port and then explore the many historic stone crosses in the narrow alleys."
+            "en": "Combarro is one of Galicia's most picturesque villages. In the morning, stroll through the old town from Plaza de San Roque to Rúa do Mar. The highlight is the row of famous hórreos (granaries) right by the water. At midday, enjoy seafood at the port and then explore the many historic stone crosses in the narrow alleys.",
+            "es": "Combarro es uno de los pueblos más pintorescos de Galicia. Por la mañana, pasea por el casco antiguo desde la Plaza de San Roque hasta la Rúa do Mar. El punto culminante es la hilera de famosos hórreos junto al agua. Al mediodía, disfruta de marisco en el puerto y luego explora las numerosas cruces de piedra históricas en los callejones estrechos."
           },
           "stops": [
             {
@@ -283,13 +303,15 @@
                 "de": "Plaza de San Roque",
                 "hu": "Plaza de San Roque",
                 "ro": "Plaza de San Roque",
-                "en": "Plaza de San Roque"
+                "en": "Plaza de San Roque",
+                "es": "Plaza de San Roque"
               },
               "tip_5lang": {
                 "de": "Sehen Sie die ersten Cruceiros (Steinkreuze) der Stadt.",
                 "hu": "Itt láthatja a város első kőkeresztjeit (cruceiros).",
                 "ro": "Vedeți primele cruci de piatră (cruceiros) din oraș.",
-                "en": "See the first stone crosses (cruceiros) of the town."
+                "en": "See the first stone crosses (cruceiros) of the town.",
+                "es": "Ve las primeras cruces de piedra (cruceiros) del pueblo."
               }
             },
             {
@@ -297,13 +319,15 @@
                 "de": "Iglesia de San Roque",
                 "hu": "Szent Rókus-templom",
                 "ro": "Iglesia de San Roque",
-                "en": "Iglesia de San Roque"
+                "en": "Iglesia de San Roque",
+                "es": "Iglesia de San Roque"
               },
               "tip_5lang": {
                 "de": "Eine schlichte, aber charakteristische Fischerkirche.",
                 "hu": "Egyszerű, de karakteres halásztemplom.",
                 "ro": "O biserică pescărească simplă, dar plină de caracter.",
-                "en": "A simple but characteristic fisherman's church."
+                "en": "A simple but characteristic fisherman's church.",
+                "es": "Una iglesia marinera sencilla pero característica."
               }
             },
             {
@@ -311,13 +335,15 @@
                 "de": "Rúa do Mar",
                 "hu": "Rúa do Mar",
                 "ro": "Rúa do Mar",
-                "en": "Rúa do Mar"
+                "en": "Rúa do Mar",
+                "es": "Rúa do Mar"
               },
               "tip_5lang": {
                 "de": "Die charmanteste Straße am Meer.",
                 "hu": "A legbájosabb tengerparti utca.",
                 "ro": "Cea mai fermecătoare stradă de pe malul mării.",
-                "en": "The most charming street by the sea."
+                "en": "The most charming street by the sea.",
+                "es": "La calle más pintoresca junto al mar."
               }
             },
             {
@@ -325,13 +351,15 @@
                 "de": "Hórreos de Combarro",
                 "hu": "Combarro hórreói",
                 "ro": "Hórreos de Combarro",
-                "en": "Hórreos de Combarro"
+                "en": "Hórreos de Combarro",
+                "es": "Hórreos de Combarro"
               },
               "tip_5lang": {
                 "de": "Über 30 Maisspeicher direkt an der Küstenlinie.",
                 "hu": "Több mint 30 magtár (hórreo) közvetlenül a parton.",
                 "ro": "Peste 30 de hambare (hórreos) chiar pe malul apei.",
-                "en": "Over 30 traditional granaries (hórreos) right on the coastline."
+                "en": "Over 30 traditional granaries (hórreos) right on the coastline.",
+                "es": "Más de 30 hórreos tradicionales justo en la línea de costa."
               }
             },
             {
@@ -339,13 +367,15 @@
                 "de": "Puerto de Combarro",
                 "hu": "Combarro kikötője",
                 "ro": "Portul Combarro",
-                "en": "Puerto de Combarro"
+                "en": "Puerto de Combarro",
+                "es": "Puerto de Combarro"
               },
               "tip_5lang": {
                 "de": "Perfekt für ein Mittagessen mit Meerblick.",
                 "hu": "Tökéletes hely egy tengerre néző ebédhez.",
                 "ro": "Perfect pentru un prânz cu vedere la mare.",
-                "en": "Perfect for a lunch with sea views."
+                "en": "Perfect for a lunch with sea views.",
+                "es": "Perfecto para comer con vistas al mar."
               }
             },
             {
@@ -353,13 +383,15 @@
                 "de": "Cruceiros de Combarro",
                 "hu": "Combarro kőkeresztjei",
                 "ro": "Cruceiros de Combarro",
-                "en": "Cruceiros de Combarro"
+                "en": "Cruceiros de Combarro",
+                "es": "Cruceiros de Combarro"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie die versteckten Kreuze in den Altstadtgassen.",
                 "hu": "Fedezze fel az óvárosi utcákban megbújó kereszteket.",
                 "ro": "Descoperiți crucile ascunse pe străzile orașului vechi.",
-                "en": "Discover the hidden crosses in the old town streets."
+                "en": "Discover the hidden crosses in the old town streets.",
+                "es": "Descubre las cruces escondidas en las calles del casco antiguo."
               }
             }
           ],
@@ -469,6 +501,12 @@
               "Visit at low tide to see the hórreos in their full height.",
               "Rúa do Mar can get very crowded in high season.",
               "Avoid lunchtime for photos if you want quiet."
+            ],
+            "es": [
+              "El pueblo es pequeño y solo accesible a pie.",
+              "Visita con marea baja para ver los hórreos a su altura completa.",
+              "La Rúa do Mar puede llenarse mucho en temporada alta.",
+              "Evita la hora de comer para fotos si prefieres tranquilidad."
             ]
           }
         },
@@ -477,7 +515,8 @@
             "de": "Regnerischer Morgen am Plaza de San Roque, der glänzende Granit wirkt mystisch. Mittags bieten die Hórreos Schutz vor dem galicischen Nieselregen. Nachmittags spazieren wir am nebligen Hafen entlang. Der Abend endet gemütlich in einer Taverne in der Rúa do Mar bei regionalem Wein und Meeresfrüchten.",
             "hu": "Esős reggel a Plaza de San Roque-n, ahol a fénylő gránit misztikus hangulatot áraszt. Délben a hórreók kőfalai nyújtanak menedéket a galíciai permetező eső elől. Délután a ködös kikötő mentén sétálunk. Az este egy hangulatos Rúa do Mar-i tavernában zárul, helyi borral és tenger gyümölcseivel.",
             "ro": "Dimineață ploioasă în Plaza de San Roque, unde granitul strălucitor pare mistic. La prânz, grânarele hórreos oferă adăpost împotriva burniței galiciene. După-amiaza ne plimbăm de-a lungul portului cețos. Seara se încheie confortabil într-o tavernă de pe Rúa do Mar, cu vin local și fructe de mare.",
-            "en": "Rainy morning at Plaza de San Roque, the shining granite feels mystical. At noon, the stone hórreos provide shelter from the Galician drizzle. In the afternoon, we walk along the misty harbor. The evening ends cozily in a tavern on Rúa do Mar with local wine and seafood."
+            "en": "Rainy morning at Plaza de San Roque, the shining granite feels mystical. At noon, the stone hórreos provide shelter from the Galician drizzle. In the afternoon, we walk along the misty harbor. The evening ends cozily in a tavern on Rúa do Mar with local wine and seafood.",
+            "es": "Mañana lluviosa en la Plaza de San Roque; el granito brillante resulta místico. Al mediodía, los hórreos de piedra ofrecen refugio de la llovizna gallega. Por la tarde, caminamos junto al puerto en la bruma. La velada termina de forma acogedora en una taberna de la Rúa do Mar con vino local y marisco."
           },
           "stops": [
             {
@@ -486,7 +525,8 @@
                 "de": "Vorsicht, der nasse Granitboden kann rutschig sein.",
                 "hu": "Vigyázat, a nedves gránitpadló csúszós lehet.",
                 "ro": "Atenție, podeaua de granit udă poate fi alunecoasă.",
-                "en": "Be careful, the wet granite floor can be slippery."
+                "en": "Be careful, the wet granite floor can be slippery.",
+                "es": "Ten cuidado: el granito mojado puede estar resbaladizo."
               }
             },
             {
@@ -495,7 +535,8 @@
                 "de": "Ein idealer Ort, um kurz trocken zu bleiben.",
                 "hu": "Ideális hely egy rövid ideig szárazon maradni.",
                 "ro": "Un loc ideal pentru a rămâne uscat pentru scurt timp.",
-                "en": "An ideal place to stay dry for a short time."
+                "en": "An ideal place to stay dry for a short time.",
+                "es": "Un lugar ideal para resguardarse un rato."
               }
             },
             {
@@ -504,7 +545,8 @@
                 "de": "Die Arkaden bieten guten Schutz vor Regen.",
                 "hu": "Az árkádok jó védelmet nyújtanak az eső ellen.",
                 "ro": "Arcadele oferă o protecție bună împotriva ploii.",
-                "en": "The arcades provide good protection from rain."
+                "en": "The arcades provide good protection from rain.",
+                "es": "Los pórticos proporcionan buena protección contra la lluvia."
               }
             },
             {
@@ -513,7 +555,8 @@
                 "de": "Regen macht den Stein für Fotos kontrastreicher.",
                 "hu": "Az eső kontrasztosabbá teszi a követ a fotókhoz.",
                 "ro": "Ploaia face piatra mai contrastată pentru fotografii.",
-                "en": "Rain makes the stone more contrasty for photos."
+                "en": "Rain makes the stone more contrasty for photos.",
+                "es": "La lluvia hace que la piedra tenga más contraste para las fotos."
               }
             },
             {
@@ -522,7 +565,8 @@
                 "de": "Ein windfester Schirm ist hier am Meer wichtig.",
                 "hu": "Egy szélálló esernyő itt a tengerparton fontos.",
                 "ro": "O umbrelă rezistentă la vânt e importantă aici.",
-                "en": "A wind-resistant umbrella is important here."
+                "en": "A wind-resistant umbrella is important here.",
+                "es": "Un paraguas resistente al viento es importante aquí."
               }
             },
             {
@@ -531,7 +575,8 @@
                 "de": "Kurzer Stopp, dann schnell ins nächste Café.",
                 "hu": "Gyors megálló, majd irány a legközelebbi kávézó.",
                 "ro": "O scurtă oprire, apoi repede la următoarea cafenea.",
-                "en": "Short stop, then quickly to the nearest cafe."
+                "en": "Short stop, then quickly to the nearest cafe.",
+                "es": "Parada corta; luego rápido al café más cercano."
               }
             }
           ],
@@ -563,6 +608,13 @@
               "Take advantage of the many covered taverns for longer breaks.",
               "The granite crosses look particularly dramatic in photos during rain.",
               "Watch out for puddles in the lower-lying narrow streets."
+            ],
+            "es": [
+              "Lleva calzado impermeable con buena suela para los empedrados.",
+              "Un chubasquero suele ser más práctico que un paraguas con el viento costero.",
+              "Aprovecha las muchas tabernas cubiertas para descansos más largos.",
+              "Las cruces de granito lucen especialmente dramáticas en fotos bajo la lluvia.",
+              "Cuidado con los charcos en las calles estrechas y más bajas."
             ]
           }
         },
@@ -571,7 +623,8 @@
             "de": "Ein frischer Wintermorgen am Plaza de San Roque. Die Hórreos stehen stolz in der klaren, kalten Luft. Mittags genießen wir die Ruhe in den Gassen ohne Touristenströme. Der Nachmittag am Hafen bietet ein fantastisches Licht für Fotos. Abends wärmen wir uns bei einem heißen Eintopf in einem lokalen Restaurant auf.",
             "hu": "Friss téli reggel a Plaza de San Roque-n. A hórreók büszkén állnak a tiszta, hideg levegőben. Délben élvezzük a sikátorok nyugalmát a turisták nélkül. A délutáni kikötő fantasztikus fényeket kínál a fotózáshoz. Este egy forró helyi egytálétellel melegszünk fel egy étteremben.",
             "ro": "O dimineață răcoroasă de iarnă în Plaza de San Roque. Grânarele stau mândre în aerul rece și curat. La prânz ne bucurăm de liniștea străzilor fără turiști. După-amiaza în port oferă o lumină fantastică pentru poze. Seara ne încălzim cu o tocană locală fierbinte într-un restaurant.",
-            "en": "A crisp winter morning at Plaza de San Roque. The hórreos stand proud in the clear, cold air. At noon we enjoy the quiet of the alleys without tourist crowds. The afternoon at the harbor offers fantastic light for photos. In the evening, we warm up with a hot local stew in a restaurant."
+            "en": "A crisp winter morning at Plaza de San Roque. The hórreos stand proud in the clear, cold air. At noon we enjoy the quiet of the alleys without tourist crowds. The afternoon at the harbor offers fantastic light for photos. In the evening, we warm up with a hot local stew in a restaurant.",
+            "es": "Una fresca mañana invernal en la Plaza de San Roque. Los hórreos se alzan orgullosos en el aire claro y frío. Al mediodía disfrutamos del silencio de las callejuelas sin multitudes turísticas. La tarde en el puerto ofrece una luz fantástica para fotos. Por la noche nos reconforta un guiso local caliente en un restaurante."
           },
           "stops": [
             {
@@ -580,7 +633,8 @@
                 "de": "Die Wintersonne steht tief und blendet etwas.",
                 "hu": "A téli nap alacsonyan jár és kissé vakít.",
                 "ro": "Soarele de iarnă este jos și poate fi orbitor.",
-                "en": "The winter sun is low and can be a bit blinding."
+                "en": "The winter sun is low and can be a bit blinding.",
+                "es": "El sol invernal está bajo y puede resultar algo deslumbrante."
               }
             },
             {
@@ -589,7 +643,8 @@
                 "de": "In der Kirche ist es oft kälter als draußen.",
                 "hu": "A templomban gyakran hidegebb van, mint kint.",
                 "ro": "În biserică este adesea mai rece decât afară.",
-                "en": "It is often colder inside the church than outside."
+                "en": "It is often colder inside the church than outside.",
+                "es": "A menudo hace más frío dentro de la iglesia que fuera."
               }
             },
             {
@@ -598,7 +653,8 @@
                 "de": "Perfekt für einen warmen Kaffee zwischendurch.",
                 "hu": "Tökéletes hely egy meleg kávéra útközben.",
                 "ro": "Perfect pentru o cafea caldă pe parcurs.",
-                "en": "Perfect for a warm coffee along the way."
+                "en": "Perfect for a warm coffee along the way.",
+                "es": "Perfecto para un café caliente en el camino."
               }
             },
             {
@@ -607,7 +663,8 @@
                 "de": "Klare Luft sorgt für weite Sicht über die Ría.",
                 "hu": "A tiszta levegő messzi kilátást biztosít a Ría-ra.",
                 "ro": "Aerul curat oferă o vedere clară peste Ría.",
-                "en": "Clear air provides far views over the Ría."
+                "en": "Clear air provides far views over the Ría.",
+                "es": "El aire limpio ofrece vistas lejanas sobre la ría."
               }
             },
             {
@@ -616,7 +673,8 @@
                 "de": "Warme Kleidung wegen der Meeresbrise nötig.",
                 "hu": "Meleg ruházat szükséges a tengeri szél miatt.",
                 "ro": "Haine groase necesare din cauza brizei marine.",
-                "en": "Warm clothing needed due to the sea breeze."
+                "en": "Warm clothing needed due to the sea breeze.",
+                "es": "Se necesita ropa de abrigo por la brisa marina."
               }
             },
             {
@@ -625,7 +683,8 @@
                 "de": "Das Licht am späten Nachmittag ist hier magisch.",
                 "hu": "A késő délutáni fények itt varázslatosak.",
                 "ro": "Lumina de după-amiază târziu este magică aici.",
-                "en": "The late afternoon light is magical here."
+                "en": "The late afternoon light is magical here.",
+                "es": "La luz del atardecer aquí es mágica."
               }
             }
           ],
@@ -657,6 +716,13 @@
               "Many restaurants have shortened opening hours in winter.",
               "Enjoy the peace – Combarro is almost yours alone.",
               "A thermos mug with tea is a good companion at the harbor."
+            ],
+            "es": [
+              "Aprovecha la luz del día; oscurece alrededor de las 18:00.",
+              "Vestir en capas protege contra el viento costero húmedo.",
+              "Muchos restaurantes reducen sus horarios en invierno.",
+              "Disfruta de la paz: Combarro casi será solo para ti.",
+              "Un termo con té es un buen compañero en el puerto."
             ]
           }
         }
@@ -675,7 +741,8 @@
             "de": "Puerto de Combarro",
             "hu": "Combarro kikötője",
             "ro": "Portul Combarro",
-            "en": "Port of Combarro"
+            "en": "Port of Combarro",
+            "es": "Puerto de Combarro"
           },
           "coords": [
             -8.7015,
@@ -690,7 +757,8 @@
             "de": "Guter Startpunkt mit Fahrradstellplätzen.",
             "hu": "Jó kiindulópont kerékpártárolókkal.",
             "ro": "Punct bun de plecare cu locuri de parcare pentru biciclete.",
-            "en": "Good starting point with bike racks."
+            "en": "Good starting point with bike racks.",
+            "es": "Buen punto de partida con aparcabicis."
           }
         },
         {
@@ -698,7 +766,8 @@
             "de": "Paseo Marítimo",
             "hu": "Tengerparti sétány",
             "ro": "Paseo Marítimo",
-            "en": "Paseo Marítimo"
+            "en": "Paseo Marítimo",
+            "es": "Paseo Marítimo"
           },
           "coords": [
             -8.695,
@@ -713,7 +782,8 @@
             "de": "Flacher und angenehmer Weg entlang der Bucht.",
             "hu": "Lapos és kellemes út az öböl mentén.",
             "ro": "Drum plat și plăcut de-a lungul golfului.",
-            "en": "Flat and pleasant path along the bay."
+            "en": "Flat and pleasant path along the bay.",
+            "es": "Camino llano y agradable junto a la bahía."
           }
         },
         {
@@ -721,7 +791,8 @@
             "de": "Playa de Padrón",
             "hu": "Padrón-strand",
             "ro": "Playa de Padrón",
-            "en": "Playa de Padrón"
+            "en": "Playa de Padrón",
+            "es": "Playa de Padrón"
           },
           "coords": [
             -8.707,
@@ -736,7 +807,8 @@
             "de": "Kleiner Sandstrand am westlichen Ende.",
             "hu": "Kis homokos strand a nyugati végen.",
             "ro": "Mică plajă cu nisip la capătul de vest.",
-            "en": "Small sandy beach at the western end."
+            "en": "Small sandy beach at the western end.",
+            "es": "Pequeña playa de arena en el extremo oeste."
           }
         },
         {
@@ -744,7 +816,8 @@
             "de": "Plaza de San Roque",
             "hu": "Plaza de San Roque",
             "ro": "Plaza de San Roque",
-            "en": "Plaza de San Roque"
+            "en": "Plaza de San Roque",
+            "es": "Plaza de San Roque"
           },
           "coords": [
             -8.7025,
@@ -759,7 +832,8 @@
             "de": "Stellen Sie das Rad ab, um die Gassen zu Fuß zu erkunden.",
             "hu": "Tegye le a biciklit, és fedezze fel a szűk utcákat gyalog.",
             "ro": "Lăsați bicicleta pentru a explora străzile pe jos.",
-            "en": "Park your bike to explore the alleys on foot."
+            "en": "Park your bike to explore the alleys on foot.",
+            "es": "Aparca la bici para explorar las callejuelas a pie."
           }
         },
         {
@@ -767,7 +841,8 @@
             "de": "Hórreos de Combarro",
             "hu": "Combarro hórreói",
             "ro": "Hórreos de Combarro",
-            "en": "Hórreos de Combarro"
+            "en": "Hórreos de Combarro",
+            "es": "Hórreos de Combarro"
           },
           "coords": [
             -8.7045,
@@ -782,7 +857,8 @@
             "de": "Abschluss der Tour bei den Wahrzeichen des Dorfes.",
             "hu": "A túra zárása a falu jelképeinél.",
             "ro": "Încheierea turului la simbolurile satului.",
-            "en": "End the tour at the village's landmarks."
+            "en": "End the tour at the village's landmarks.",
+            "es": "Termina la ruta en los hitos del pueblo."
           }
         }
       ],
@@ -790,7 +866,8 @@
         "de": "Da der Ortskern von Combarro sehr eng ist, führt diese Radtour vor allem entlang der Küste. Morgens genießen wir den Paseo Marítimo und fahren zur Playa de Padrón. Mittags kehren wir ins Dorf zurück, stellen die Räder ab und besichtigen die beeindruckenden Hórreos und historischen Plätze zu Fuß.",
         "hu": "Mivel Combarro magja nagyon szűk, ez a túra főként a part mentén halad. Reggel a tengerparti sétányt élvezzük, majd eltekerünk a Padrón-strandig. Délben visszatérünk a faluba, leparkoljuk a bicikliket, és gyalogosan nézzük meg a lenyűgöző hórreókat és a történelmi tereket.",
         "ro": "Deoarece centrul satului Combarro este foarte îngust, acest tur cu bicicleta merge în principal de-a lungul coastei. Dimineața ne bucurăm de Paseo Marítimo și pedalăm spre Playa de Padrón. La prânz revenim în sat, lăsăm bicicletele și vizităm hambarele impresionante și piețele istorice pe jos.",
-        "en": "Since Combarro's core is very narrow, this bike tour mainly stays along the coast. In the morning, enjoy the Paseo Marítimo and ride to Padrón beach. At midday, return to the village, park the bikes, and visit the impressive hórreos and historic squares on foot."
+        "en": "Since Combarro's core is very narrow, this bike tour mainly stays along the coast. In the morning, enjoy the Paseo Marítimo and ride to Padrón beach. At midday, return to the village, park the bikes, and visit the impressive hórreos and historic squares on foot.",
+        "es": "Como el núcleo de Combarro es muy estrecho, este recorrido en bici se mantiene principalmente por la costa. Por la mañana disfruta del Paseo Marítimo y llega hasta la playa de Padrón. Al mediodía vuelve al pueblo, aparca las bicis y visita a pie los impresionantes hórreos y las plazas históricas."
       },
       "gastro_picks": {
         "de": [
@@ -898,6 +975,12 @@
           "The coastal road to Pontevedra offers nice views.",
           "Use the Paseo Marítimo for a safe ride.",
           "There are few bike rental shops directly in the village."
+        ],
+        "es": [
+          "No está permitido circular en bici por el casco antiguo.",
+          "La carretera costera hacia Pontevedra ofrece bonitas vistas.",
+          "Usa el Paseo Marítimo para un trayecto seguro.",
+          "Hay pocas tiendas de alquiler de bicis directamente en el pueblo."
         ]
       },
       "variants": {
@@ -906,7 +989,8 @@
             "de": "Da der Ortskern von Combarro sehr eng ist, führt diese Radtour vor allem entlang der Küste. Morgens genießen wir den Paseo Marítimo und fahren zur Playa de Padrón. Mittags kehren wir ins Dorf zurück, stellen die Räder ab und besichtigen die beeindruckenden Hórreos und historischen Plätze zu Fuß.",
             "hu": "Mivel Combarro magja nagyon szűk, ez a túra főként a part mentén halad. Reggel a tengerparti sétányt élvezzük, majd eltekerünk a Padrón-strandig. Délben visszatérünk a faluba, leparkoljuk a bicikliket, és gyalogosan nézzük meg a lenyűgöző hórreókat és a történelmi tereket.",
             "ro": "Deoarece centrul satului Combarro este foarte îngust, acest tur cu bicicleta merge în principal de-a lungul coastei. Dimineața ne bucurăm de Paseo Marítimo și pedalăm spre Playa de Padrón. La prânz revenim în sat, lăsăm bicicletele și vizităm hambarele impresionante și piețele istorice pe jos.",
-            "en": "Since Combarro's core is very narrow, this bike tour mainly stays along the coast. In the morning, enjoy the Paseo Marítimo and ride to Padrón beach. At midday, return to the village, park the bikes, and visit the impressive hórreos and historic squares on foot."
+            "en": "Since Combarro's core is very narrow, this bike tour mainly stays along the coast. In the morning, enjoy the Paseo Marítimo and ride to Padrón beach. At midday, return to the village, park the bikes, and visit the impressive hórreos and historic squares on foot.",
+            "es": "Como el núcleo de Combarro es muy estrecho, este recorrido en bici se mantiene principalmente por la costa. Por la mañana disfruta del Paseo Marítimo y llega hasta la playa de Padrón. Al mediodía vuelve al pueblo, aparca las bicis y visita a pie los impresionantes hórreos y las plazas históricas."
           },
           "stops": [
             {
@@ -914,13 +998,15 @@
                 "de": "Puerto de Combarro",
                 "hu": "Combarro kikötője",
                 "ro": "Portul Combarro",
-                "en": "Port of Combarro"
+                "en": "Port of Combarro",
+                "es": "Puerto de Combarro"
               },
               "tip_5lang": {
                 "de": "Guter Startpunkt mit Fahrradstellplätzen.",
                 "hu": "Jó kiindulópont kerékpártárolókkal.",
                 "ro": "Punct bun de plecare cu locuri de parcare pentru biciclete.",
-                "en": "Good starting point with bike racks."
+                "en": "Good starting point with bike racks.",
+                "es": "Buen punto de partida con aparcabicis."
               }
             },
             {
@@ -928,13 +1014,15 @@
                 "de": "Paseo Marítimo",
                 "hu": "Tengerparti sétány",
                 "ro": "Paseo Marítimo",
-                "en": "Paseo Marítimo"
+                "en": "Paseo Marítimo",
+                "es": "Paseo Marítimo"
               },
               "tip_5lang": {
                 "de": "Flacher und angenehmer Weg entlang der Bucht.",
                 "hu": "Lapos és kellemes út az öböl mentén.",
                 "ro": "Drum plat și plăcut de-a lungul golfului.",
-                "en": "Flat and pleasant path along the bay."
+                "en": "Flat and pleasant path along the bay.",
+                "es": "Camino llano y agradable junto a la bahía."
               }
             },
             {
@@ -942,13 +1030,15 @@
                 "de": "Playa de Padrón",
                 "hu": "Padrón-strand",
                 "ro": "Playa de Padrón",
-                "en": "Playa de Padrón"
+                "en": "Playa de Padrón",
+                "es": "Playa de Padrón"
               },
               "tip_5lang": {
                 "de": "Kleiner Sandstrand am westlichen Ende.",
                 "hu": "Kis homokos strand a nyugati végen.",
                 "ro": "Mică plajă cu nisip la capătul de vest.",
-                "en": "Small sandy beach at the western end."
+                "en": "Small sandy beach at the western end.",
+                "es": "Pequeña playa de arena en el extremo oeste."
               }
             },
             {
@@ -956,13 +1046,15 @@
                 "de": "Plaza de San Roque",
                 "hu": "Plaza de San Roque",
                 "ro": "Plaza de San Roque",
-                "en": "Plaza de San Roque"
+                "en": "Plaza de San Roque",
+                "es": "Plaza de San Roque"
               },
               "tip_5lang": {
                 "de": "Stellen Sie das Rad ab, um die Gassen zu Fuß zu erkunden.",
                 "hu": "Tegye le a biciklit, és fedezze fel a szűk utcákat gyalog.",
                 "ro": "Lăsați bicicleta pentru a explora străzile pe jos.",
-                "en": "Park your bike to explore the alleys on foot."
+                "en": "Park your bike to explore the alleys on foot.",
+                "es": "Aparca la bici para explorar las callejuelas a pie."
               }
             },
             {
@@ -970,13 +1062,15 @@
                 "de": "Hórreos de Combarro",
                 "hu": "Combarro hórreói",
                 "ro": "Hórreos de Combarro",
-                "en": "Hórreos de Combarro"
+                "en": "Hórreos de Combarro",
+                "es": "Hórreos de Combarro"
               },
               "tip_5lang": {
                 "de": "Abschluss der Tour bei den Wahrzeichen des Dorfes.",
                 "hu": "A túra zárása a falu jelképeinél.",
                 "ro": "Încheierea turului la simbolurile satului.",
-                "en": "End the tour at the village's landmarks."
+                "en": "End the tour at the village's landmarks.",
+                "es": "Termina la ruta en los hitos del pueblo."
               }
             }
           ],
@@ -1086,6 +1180,12 @@
               "The coastal road to Pontevedra offers nice views.",
               "Use the Paseo Marítimo for a safe ride.",
               "There are few bike rental shops directly in the village."
+            ],
+            "es": [
+              "No está permitido circular en bici por el casco antiguo.",
+              "La carretera costera hacia Pontevedra ofrece bonitas vistas.",
+              "Usa el Paseo Marítimo para un trayecto seguro.",
+              "Hay pocas tiendas de alquiler de bicis directamente en el pueblo."
             ]
           }
         },
@@ -1094,7 +1194,8 @@
             "de": "Eine erfrischende Fahrt am Hafen trotz Regen. Die Meeresluft mischt sich mit dem Duft von feuchtem Stein. Mittags radeln wir vorsichtig über den Paseo Marítimo. Am Strand von Padrón machen wir eine kurze, nasse Pause. Der Tag endet nach einer kurzen Runde durch den alten Kern beim Aufwärmen der Muskeln.",
             "hu": "Frissítő tekerés a kikötőben az eső ellenére. A tengeri levegő keveredik a nedves kő illatával. Délben óvatosan biciklizünk a Paseo Marítimo-n. A Padrón-strandon rövid, vizes pihenőt tartunk. A nap az óvárosi kör után az izmok bemelegítésével zárul.",
             "ro": "O plimbare revigorantă în port în ciuda ploii. Aerul mării se amestecă cu mirosul de piatră umedă. La prânz pedalăm cu grijă pe Paseo Marítimo. La plaja Padrón facem o scurtă pauză udă. Ziua se încheie după o tură prin centrul vechi.",
-            "en": "A refreshing ride at the port despite the rain. The sea air mixes with the scent of damp stone. At noon we cycle carefully along Paseo Marítimo. At Padrón beach we take a short, wet break. The day ends after a quick loop through the old core, warming up our muscles."
+            "en": "A refreshing ride at the port despite the rain. The sea air mixes with the scent of damp stone. At noon we cycle carefully along Paseo Marítimo. At Padrón beach we take a short, wet break. The day ends after a quick loop through the old core, warming up our muscles.",
+            "es": "Un paseo refrescante en el puerto a pesar de la lluvia. El aire marino se mezcla con el aroma de la piedra húmeda. Al mediodía pedaleamos con cuidado por el Paseo Marítimo. En la playa de Padrón hacemos una breve y húmeda pausa. El día termina tras un rápido circuito por el casco antiguo, recuperando el calor en los músculos."
           },
           "stops": [
             {
@@ -1103,7 +1204,8 @@
                 "de": "Vorsicht auf Metallgittern am Hafenkai.",
                 "hu": "Vigyázat a kikötő fémrácsaival.",
                 "ro": "Atenție la grătarele metalice de pe chei.",
-                "en": "Be careful on metal grates at the quay."
+                "en": "Be careful on metal grates at the quay.",
+                "es": "Ten cuidado con las rejillas metálicas en el muelle."
               }
             },
             {
@@ -1112,7 +1214,8 @@
                 "de": "Gute Asphaltstrecke, auch bei Regen sicher.",
                 "hu": "Jó aszfaltos út, esőben is biztonságos.",
                 "ro": "Drum asfaltat bun, sigur și pe ploaie.",
-                "en": "Good asphalt path, safe even in the rain."
+                "en": "Good asphalt path, safe even in the rain.",
+                "es": "Buen asfalto, seguro incluso con lluvia."
               }
             },
             {
@@ -1121,7 +1224,8 @@
                 "de": "Meiden Sie den nassen Sand mit dem Rad.",
                 "hu": "Kerülje a vizes homokot a biciklivel.",
                 "ro": "Evitați nisipul ud cu bicicleta.",
-                "en": "Avoid wet sand with your bike."
+                "en": "Avoid wet sand with your bike.",
+                "es": "Evita la arena mojada con la bici."
               }
             },
             {
@@ -1130,7 +1234,8 @@
                 "de": "Hier besser schieben – Stein ist extrem glatt.",
                 "hu": "Itt jobb tolni – a kő rendkívül csúszós.",
                 "ro": "Mai bine împingeți aici – piatra e foarte lucioasă.",
-                "en": "Better to push here – the stone is extremely slick."
+                "en": "Better to push here – the stone is extremely slick.",
+                "es": "Mejor empujar aquí: la piedra es extremadamente resbaladiza."
               }
             },
             {
@@ -1139,7 +1244,8 @@
                 "de": "Stellen Sie das Rad unter einem Vordach ab.",
                 "hu": "Támassza le a biciklit egy előtető alá.",
                 "ro": "Parcați bicicleta sub o streașină.",
-                "en": "Park the bike under an overhang."
+                "en": "Park the bike under an overhang.",
+                "es": "Aparca la bici bajo un alero."
               }
             }
           ],
@@ -1171,6 +1277,13 @@
               "Avoid sharp braking on wet granite.",
               "Wear a high-visibility rain jacket.",
               "Dry off the chain and gears after the ride."
+            ],
+            "es": [
+              "Usa guardabarros para protegerte del salpicado.",
+              "Reduce ligeramente la presión de las ruedas para mayor agarre.",
+              "Evita frenar bruscamente sobre granito mojado.",
+              "Lleva una chaqueta impermeable de alta visibilidad.",
+              "Seca la cadena y los cambios después del paseo."
             ]
           }
         },
@@ -1179,7 +1292,8 @@
             "de": "Ein klarer, kalter Start am Hafen von Combarro. Die Radtour entlang des Paseo Marítimo bietet weite Sicht auf die verschneiten Berge im Hintergrund. Mittags wärmt die Sonne am Strand von Padrón. Nachmittags erkunden wir den Ortseingang. Die Tour endet früh, bevor der kalte Abendwind vom Meer zunimmt.",
             "hu": "Tiszta, hideg kezdés Combarro kikötőjében. A biciklitúra a Paseo Marítimo mentén távoli kilátást nyújt a havas hegyekre. Délben a nap melegít a Padrón-strandon. Délután a település bejáratát fedezzük fel. A túra korán véget ér, mielőtt a hideg esti szél felerősödne.",
             "ro": "Un start clar și rece în portul Combarro. Turul cu bicicleta pe Paseo Marítimo oferă vederi largi spre munții înzăpeziți. La prânz, soarele încălzește plaja Padrón. După-amiaza explorăm intrarea în localitate. Turul se termină devreme, înainte să crească vântul rece de seară.",
-            "en": "A clear, cold start at the port of Combarro. The bike tour along Paseo Marítimo offers wide views of the snowy mountains in the distance. At noon, the sun warms Padrón beach. In the afternoon, we explore the town entrance. The tour ends early before the cold evening wind picks up."
+            "en": "A clear, cold start at the port of Combarro. The bike tour along Paseo Marítimo offers wide views of the snowy mountains in the distance. At noon, the sun warms Padrón beach. In the afternoon, we explore the town entrance. The tour ends early before the cold evening wind picks up.",
+            "es": "Un comienzo claro y frío en el puerto de Combarro. La ruta en bici por el Paseo Marítimo ofrece amplias vistas de las montañas nevadas en la distancia. Al mediodía el sol calienta la playa de Padrón. Por la tarde exploramos la entrada al pueblo. La ruta termina pronto antes de que aumente el frío viento de la noche."
           },
           "stops": [
             {
@@ -1188,7 +1302,8 @@
                 "de": "Handschuhe sind bei der Abfahrt essenziell.",
                 "hu": "A kesztyű elengedhetetlen az induláskor.",
                 "ro": "Mănușile sunt esențiale la plecare.",
-                "en": "Gloves are essential when starting out."
+                "en": "Gloves are essential when starting out.",
+                "es": "Los guantes son imprescindibles al empezar."
               }
             },
             {
@@ -1197,7 +1312,8 @@
                 "de": "Genießen Sie die leere Strecke ohne Fußgänger.",
                 "hu": "Élvezze az üres utat gyalogosok nélkül.",
                 "ro": "Bucurați-vă de drumul liber, fără pietoni.",
-                "en": "Enjoy the empty path without pedestrians."
+                "en": "Enjoy the empty path without pedestrians.",
+                "es": "Disfruta del camino vacío sin peatones."
               }
             },
             {
@@ -1206,7 +1322,8 @@
                 "de": "Die Sonne reflektiert stark auf dem Wasser.",
                 "hu": "A nap erősen tükröződik a vízen.",
                 "ro": "Soarele reflectă puternic pe apă.",
-                "en": "The sun reflects strongly off the water."
+                "en": "The sun reflects strongly off the water.",
+                "es": "El sol se refleja con fuerza sobre el agua."
               }
             },
             {
@@ -1215,7 +1332,8 @@
                 "de": "Die schattigen Ecken sind hier sehr kühl.",
                 "hu": "Az árnyékos sarkok itt nagyon hűvösek.",
                 "ro": "Colțurile umbroase sunt foarte reci aici.",
-                "en": "The shaded corners are very cool here."
+                "en": "The shaded corners are very cool here.",
+                "es": "Las esquinas sombreadas son muy frías aquí."
               }
             },
             {
@@ -1224,7 +1342,8 @@
                 "de": "Perfekter Stopp für ein warmes Getränk.",
                 "hu": "Tökéletes megálló egy meleg italra.",
                 "ro": "Oprire perfectă pentru o băutură caldă.",
-                "en": "Perfect stop for a warm drink."
+                "en": "Perfect stop for a warm drink.",
+                "es": "Parada perfecta para una bebida caliente."
               }
             }
           ],
@@ -1256,6 +1375,13 @@
               "Take lights with you in case you stay out later.",
               "Plan to return by 17:00 at the latest.",
               "A neck buff protects your face from the cold."
+            ],
+            "es": [
+              "Usa calcetines térmicos y guantes cortaviento.",
+              "Atento a las zonas en sombra, puede haber helada.",
+              "Lleva luces por si te retrasas y sigues fuera.",
+              "Planea volver como muy tarde a las 17:00.",
+              "Un braga de cuello protege la cara del frío."
             ]
           }
         }
@@ -1274,7 +1400,8 @@
             "de": "Mirador de la Granxa",
             "hu": "La Granxa kilátó",
             "ro": "Mirador de la Granxa",
-            "en": "Mirador de la Granxa"
+            "en": "Mirador de la Granxa",
+            "es": "Mirador de la Granxa"
           },
           "coords": [
             -8.675,
@@ -1289,7 +1416,8 @@
             "de": "Bester Panoramablick auf Combarro und die Ría.",
             "hu": "A legjobb panoráma Combarróra és az öbölre.",
             "ro": "Cea mai bună vedere panoramică asupra Combarro și a golfului.",
-            "en": "Best panoramic view of Combarro and the estuary."
+            "en": "Best panoramic view of Combarro and the estuary.",
+            "es": "Mejor vista panorámica de Combarro y la ría."
           }
         },
         {
@@ -1297,7 +1425,8 @@
             "de": "Puerto de Combarro",
             "hu": "Combarro kikötője",
             "ro": "Portul Combarro",
-            "en": "Puerto de Combarro"
+            "en": "Puerto de Combarro",
+            "es": "Puerto de Combarro"
           },
           "coords": [
             -8.7015,
@@ -1312,7 +1441,8 @@
             "de": "Großer Parkplatz im Hafenbereich verfügbar.",
             "hu": "Nagy parkoló áll rendelkezésre a kikötőben.",
             "ro": "Parcare mare disponibilă în zona portului.",
-            "en": "Large parking lot available in the port area."
+            "en": "Large parking lot available in the port area.",
+            "es": "Amplio aparcamiento disponible en la zona del puerto."
           }
         },
         {
@@ -1320,7 +1450,8 @@
             "de": "Plaza de San Roque",
             "hu": "Plaza de San Roque",
             "ro": "Plaza de San Roque",
-            "en": "Plaza de San Roque"
+            "en": "Plaza de San Roque",
+            "es": "Plaza de San Roque"
           },
           "coords": [
             -8.7025,
@@ -1335,7 +1466,8 @@
             "de": "Start des Rundgangs durch die Altstadt.",
             "hu": "Az óvárosi séta kezdőpontja.",
             "ro": "Începutul turului prin orașul vechi.",
-            "en": "Start of the walking tour through the old town."
+            "en": "Start of the walking tour through the old town.",
+            "es": "Inicio del paseo a pie por el casco antiguo."
           }
         },
         {
@@ -1343,7 +1475,8 @@
             "de": "Rúa do Mar",
             "hu": "Rúa do Mar",
             "ro": "Rúa do Mar",
-            "en": "Rúa do Mar"
+            "en": "Rúa do Mar",
+            "es": "Rúa do Mar"
           },
           "coords": [
             -8.7035,
@@ -1358,7 +1491,8 @@
             "de": "Enge Gasse mit traditionellen Fischerhäusern.",
             "hu": "Szűk utca hagyományos halászházakkal.",
             "ro": "Stradă îngustă cu case tradiționale de pescari.",
-            "en": "Narrow street with traditional fishermen's houses."
+            "en": "Narrow street with traditional fishermen's houses.",
+            "es": "Calle estrecha con casas tradicionales de pescadores."
           }
         },
         {
@@ -1366,7 +1500,8 @@
             "de": "Hórreos de Combarro",
             "hu": "Combarro hórreói",
             "ro": "Hórreos de Combarro",
-            "en": "Hórreos de Combarro"
+            "en": "Hórreos de Combarro",
+            "es": "Hórreos de Combarro"
           },
           "coords": [
             -8.7045,
@@ -1381,7 +1516,8 @@
             "de": "Die berühmteste Postkartenansicht Galiziens.",
             "hu": "Galícia leghíresebb képeslapra illő látványa.",
             "ro": "Cea mai faimoasă vedere de carte poștală din Galicia.",
-            "en": "The most famous postcard view in Galicia."
+            "en": "The most famous postcard view in Galicia.",
+            "es": "La vista postal más famosa de Galicia."
           }
         },
         {
@@ -1389,7 +1525,8 @@
             "de": "Puerto de Combarro (Essen)",
             "hu": "Combarro kikötője (ebéd)",
             "ro": "Portul Combarro (masă)",
-            "en": "Port of Combarro (lunch)"
+            "en": "Port of Combarro (lunch)",
+            "es": "Puerto de Combarro (almuerzo)"
           },
           "coords": [
             -8.7015,
@@ -1404,7 +1541,8 @@
             "de": "Genießen Sie galizische Gastronomie am Meer.",
             "hu": "Élvezze a galíciai gasztronómiát a tengerparton.",
             "ro": "Bucurați-vă de gastronomia galiciană la malul mării.",
-            "en": "Enjoy Galician gastronomy by the sea."
+            "en": "Enjoy Galician gastronomy by the sea.",
+            "es": "Disfruta de la gastronomía gallega junto al mar."
           }
         }
       ],
@@ -1412,7 +1550,8 @@
         "de": "Diese Autotour beginnt mit einem atemberaubenden Ausblick vom Mirador de la Granxa. Danach parken wir im Hafen und erkunden das historische Zentrum zu Fuß. Wir schlendern durch die Rúa do Mar, bestaunen die Hórreos und beenden den Ausflug mit einem ausgiebigen Mittagessen in einem der hervorragenden Fischrestaurants am Hafen.",
         "hu": "Ez az autós túra lenyűgöző kilátással indul a La Granxa kilátótól. Ezután a kikötőben parkolunk le, és gyalogosan fedezzük fel a történelmi központot. Végigsétálunk a Rúa do Mar-on, megcsodáljuk a hórreókat, és a kirándulást egy bőséges ebéddel zárjuk a kikötő egyik kiváló haléttermében.",
         "ro": "Acest tur cu mașina începe cu o vedere uluitoare de la Mirador de la Granxa. Apoi parcăm în port și explorăm centrul istoric pe jos. Ne plimbăm pe Rúa do Mar, admirăm hambarele și încheiem excursia cu un prânz copios într-unul dintre restaurantele de pește excelente din port.",
-        "en": "This car tour starts with a breathtaking view from Mirador de la Granxa. Then we park at the port and explore the historic center on foot. We stroll through Rúa do Mar, marvel at the hórreos, and finish the trip with a hearty lunch at one of the excellent seafood restaurants at the port."
+        "en": "This car tour starts with a breathtaking view from Mirador de la Granxa. Then we park at the port and explore the historic center on foot. We stroll through Rúa do Mar, marvel at the hórreos, and finish the trip with a hearty lunch at one of the excellent seafood restaurants at the port.",
+        "es": "Este recorrido en coche comienza con una impresionante vista desde el Mirador de la Granxa. Luego aparcamos en el puerto y exploramos el centro histórico a pie. Paseamos por la Rúa do Mar, admiramos los hórreos y terminamos el viaje con un contundente almuerzo en uno de los excelentes restaurantes de marisco del puerto."
       },
       "gastro_picks": {
         "de": [
@@ -1520,6 +1659,12 @@
           "Drive carefully on the winding coastal road.",
           "Combarro is a very popular destination on weekends.",
           "Use Mirador de la Granxa for the best photos of the bay."
+        ],
+        "es": [
+          "Aparcar en el puerto es de pago pero es lo más cómodo.",
+          "Conduce con cuidado en la sinuosa carretera costera.",
+          "Combarro es un destino muy popular los fines de semana.",
+          "Usa el Mirador de la Granxa para las mejores fotos de la bahía."
         ]
       },
       "variants": {
@@ -1528,7 +1673,8 @@
             "de": "Diese Autotour beginnt mit einem atemberaubenden Ausblick vom Mirador de la Granxa. Danach parken wir im Hafen und erkunden das historische Zentrum zu Fuß. Wir schlendern durch die Rúa do Mar, bestaunen die Hórreos und beenden den Ausflug mit einem ausgiebigen Mittagessen in einem der hervorragenden Fischrestaurants am Hafen.",
             "hu": "Ez az autós túra lenyűgöző kilátással indul a La Granxa kilátótól. Ezután a kikötőben parkolunk le, és gyalogosan fedezzük fel a történelmi központot. Végigsétálunk a Rúa do Mar-on, megcsodáljuk a hórreókat, és a kirándulást egy bőséges ebéddel zárjuk a kikötő egyik kiváló haléttermében.",
             "ro": "Acest tur cu mașina începe cu o vedere uluitoare de la Mirador de la Granxa. Apoi parcăm în port și explorăm centrul istoric pe jos. Ne plimbăm pe Rúa do Mar, admirăm hambarele și încheiem excursia cu un prânz copios într-unul dintre restaurantele de pește excelente din port.",
-            "en": "This car tour starts with a breathtaking view from Mirador de la Granxa. Then we park at the port and explore the historic center on foot. We stroll through Rúa do Mar, marvel at the hórreos, and finish the trip with a hearty lunch at one of the excellent seafood restaurants at the port."
+            "en": "This car tour starts with a breathtaking view from Mirador de la Granxa. Then we park at the port and explore the historic center on foot. We stroll through Rúa do Mar, marvel at the hórreos, and finish the trip with a hearty lunch at one of the excellent seafood restaurants at the port.",
+            "es": "Este recorrido en coche comienza con una impresionante vista desde el Mirador de la Granxa. Luego aparcamos en el puerto y exploramos el centro histórico a pie. Paseamos por la Rúa do Mar, admiramos los hórreos y terminamos el viaje con un contundente almuerzo en uno de los excelentes restaurantes de marisco del puerto."
           },
           "stops": [
             {
@@ -1536,13 +1682,15 @@
                 "de": "Mirador de la Granxa",
                 "hu": "La Granxa kilátó",
                 "ro": "Mirador de la Granxa",
-                "en": "Mirador de la Granxa"
+                "en": "Mirador de la Granxa",
+                "es": "Mirador de la Granxa"
               },
               "tip_5lang": {
                 "de": "Bester Panoramablick auf Combarro und die Ría.",
                 "hu": "A legjobb panoráma Combarróra és az öbölre.",
                 "ro": "Cea mai bună vedere panoramică asupra Combarro și a golfului.",
-                "en": "Best panoramic view of Combarro and the estuary."
+                "en": "Best panoramic view of Combarro and the estuary.",
+                "es": "Mejor vista panorámica de Combarro y la ría."
               }
             },
             {
@@ -1550,13 +1698,15 @@
                 "de": "Puerto de Combarro",
                 "hu": "Combarro kikötője",
                 "ro": "Portul Combarro",
-                "en": "Puerto de Combarro"
+                "en": "Puerto de Combarro",
+                "es": "Puerto de Combarro"
               },
               "tip_5lang": {
                 "de": "Großer Parkplatz im Hafenbereich verfügbar.",
                 "hu": "Nagy parkoló áll rendelkezésre a kikötőben.",
                 "ro": "Parcare mare disponibilă în zona portului.",
-                "en": "Large parking lot available in the port area."
+                "en": "Large parking lot available in the port area.",
+                "es": "Amplio aparcamiento disponible en la zona del puerto."
               }
             },
             {
@@ -1564,13 +1714,15 @@
                 "de": "Plaza de San Roque",
                 "hu": "Plaza de San Roque",
                 "ro": "Plaza de San Roque",
-                "en": "Plaza de San Roque"
+                "en": "Plaza de San Roque",
+                "es": "Plaza de San Roque"
               },
               "tip_5lang": {
                 "de": "Start des Rundgangs durch die Altstadt.",
                 "hu": "Az óvárosi séta kezdőpontja.",
                 "ro": "Începutul turului prin orașul vechi.",
-                "en": "Start of the walking tour through the old town."
+                "en": "Start of the walking tour through the old town.",
+                "es": "Inicio del paseo a pie por el casco antiguo."
               }
             },
             {
@@ -1578,13 +1730,15 @@
                 "de": "Rúa do Mar",
                 "hu": "Rúa do Mar",
                 "ro": "Rúa do Mar",
-                "en": "Rúa do Mar"
+                "en": "Rúa do Mar",
+                "es": "Rúa do Mar"
               },
               "tip_5lang": {
                 "de": "Enge Gasse mit traditionellen Fischerhäusern.",
                 "hu": "Szűk utca hagyományos halászházakkal.",
                 "ro": "Stradă îngustă cu case tradiționale de pescari.",
-                "en": "Narrow street with traditional fishermen's houses."
+                "en": "Narrow street with traditional fishermen's houses.",
+                "es": "Calle estrecha con casas tradicionales de pescadores."
               }
             },
             {
@@ -1592,13 +1746,15 @@
                 "de": "Hórreos de Combarro",
                 "hu": "Combarro hórreói",
                 "ro": "Hórreos de Combarro",
-                "en": "Hórreos de Combarro"
+                "en": "Hórreos de Combarro",
+                "es": "Hórreos de Combarro"
               },
               "tip_5lang": {
                 "de": "Die berühmteste Postkartenansicht Galiziens.",
                 "hu": "Galícia leghíresebb képeslapra illő látványa.",
                 "ro": "Cea mai faimoasă vedere de carte poștală din Galicia.",
-                "en": "The most famous postcard view in Galicia."
+                "en": "The most famous postcard view in Galicia.",
+                "es": "La vista postal más famosa de Galicia."
               }
             },
             {
@@ -1606,13 +1762,15 @@
                 "de": "Puerto de Combarro (Essen)",
                 "hu": "Combarro kikötője (ebéd)",
                 "ro": "Portul Combarro (masă)",
-                "en": "Port of Combarro (lunch)"
+                "en": "Port of Combarro (lunch)",
+                "es": "Puerto de Combarro (almuerzo)"
               },
               "tip_5lang": {
                 "de": "Genießen Sie galizische Gastronomie am Meer.",
                 "hu": "Élvezze a galíciai gasztronómiát a tengerparton.",
                 "ro": "Bucurați-vă de gastronomia galiciană la malul mării.",
-                "en": "Enjoy Galician gastronomy by the sea."
+                "en": "Enjoy Galician gastronomy by the sea.",
+                "es": "Disfruta de la gastronomía gallega junto al mar."
               }
             }
           ],
@@ -1722,6 +1880,12 @@
               "Drive carefully on the winding coastal road.",
               "Combarro is a very popular destination on weekends.",
               "Use Mirador de la Granxa for the best photos of the bay."
+            ],
+            "es": [
+              "El aparcamiento en el puerto es de pago pero el más cómodo.",
+              "Conduce con cuidado en la carretera costera sinuosa.",
+              "Combarro es un destino muy popular los fines de semana.",
+              "Usa el Mirador de la Granxa para las mejores fotos de la ría."
             ]
           }
         },
@@ -1730,7 +1894,8 @@
             "de": "Start am nebligen Mirador de la Granxa mit Blick auf die verschwommene Ría. Die Fahrt zum Hafen ist sicher und trocken. Mittags erkunden wir den Plaza de San Roque kurz zu Fuß. Nachmittags bewundern wir die Hórreos im Regen. Der Tag endet entspannt bei einem ausgiebigen Mittagessen am Hafen, während es draußen stürmt.",
             "hu": "Indulás a ködös Mirador de la Granxa-ról, kilátással az elmosódott Ría-ra. Az út a kikötőig biztonságos és száraz. Délben rövid gyalogos felfedezést teszünk a Plaza de San Roque-n. Délután az esőben ázó hórreókat csodáljuk meg. A nap kényelmesen zárul egy bőséges kikötői ebéddel a kinti vihar közepette.",
             "ro": "Pornire de la Mirador de la Granxa cețos, cu vedere spre Ría difuză. Drumul până la port este sigur și uscat. La prânz explorăm Plaza de San Roque pe jos. După-amiaza admirăm grânarele în ploaie. Ziua se încheie relaxat cu un prânz lung în port, în timp ce afară plouă torențial.",
-            "en": "Start at the misty Mirador de la Granxa with views of the blurred Ría. The drive to the port is safe and dry. At noon, we briefly explore Plaza de San Roque on foot. In the afternoon, we admire the hórreos in the rain. The day ends relaxingly with an extensive lunch at the port while it storms outside."
+            "en": "Start at the misty Mirador de la Granxa with views of the blurred Ría. The drive to the port is safe and dry. At noon, we briefly explore Plaza de San Roque on foot. In the afternoon, we admire the hórreos in the rain. The day ends relaxingly with an extensive lunch at the port while it storms outside.",
+            "es": "Comienza en el brumoso Mirador de la Granxa con vistas de la ría difuminada. El trayecto hasta el puerto es seguro y seco. Al mediodía exploramos brevemente la Plaza de San Roque a pie. Por la tarde admiramos los hórreos bajo la lluvia. El día termina relajadamente con un amplio almuerzo en el puerto mientras fuera hay tormenta."
           },
           "stops": [
             {
@@ -1739,7 +1904,8 @@
                 "de": "Die Wolken hängen tief, aber die Sicht ist mystisch.",
                 "hu": "A felhők alacsonyan szállnak, de a látvány misztikus.",
                 "ro": "Norii sunt joși, dar vederea este mistică.",
-                "en": "The clouds hang low, but the view is mystical."
+                "en": "The clouds hang low, but the view is mystical.",
+                "es": "Las nubes cuelgan bajas, pero la vista es mística."
               }
             },
             {
@@ -1748,7 +1914,8 @@
                 "de": "Parken Sie nah am Zentrum, um trocken zu bleiben.",
                 "hu": "Parkoljon közel a központhoz, hogy száraz maradjon.",
                 "ro": "Parcați aproape de centru pentru a rămâne uscat.",
-                "en": "Park close to the center to stay dry."
+                "en": "Park close to the center to stay dry.",
+                "es": "Estaciona cerca del centro para mantenerte seco."
               }
             },
             {
@@ -1757,7 +1924,8 @@
                 "de": "Kurzer Ausstieg, Schirm nicht vergessen.",
                 "hu": "Rövid kiszállás, ne felejtse el az ernyőt.",
                 "ro": "Coborâre scurtă, nu uitați umbrela.",
-                "en": "Short stop, don't forget the umbrella."
+                "en": "Short stop, don't forget the umbrella.",
+                "es": "Parada corta, no olvides el paraguas."
               }
             },
             {
@@ -1766,7 +1934,8 @@
                 "de": "Genießen Sie den Blick aus dem trockenen Auto.",
                 "hu": "Élvezze a kilátást a száraz autóból.",
                 "ro": "Bucurați-vă de vedere din mașina uscată.",
-                "en": "Enjoy the view from the dry car."
+                "en": "Enjoy the view from the dry car.",
+                "es": "Disfruta de la vista desde el coche seco."
               }
             },
             {
@@ -1775,7 +1944,8 @@
                 "de": "Vom Parkplatz sind es nur wenige Meter Fußweg.",
                 "hu": "A parkolótól csak pár méter séta az egész.",
                 "ro": "De la parcare sunt doar câțiva metri de mers.",
-                "en": "It's only a few meters walk from the parking lot."
+                "en": "It's only a few meters walk from the parking lot.",
+                "es": "Está a solo unos metros a pie desde el aparcamiento."
               }
             },
             {
@@ -1784,7 +1954,8 @@
                 "de": "Das Restaurant bietet Schutz vor dem Wetter.",
                 "hu": "Az étterem védelmet nyújt az időjárás ellen.",
                 "ro": "Restaurantul oferă protecție contra vremii.",
-                "en": "The restaurant provides protection from the weather."
+                "en": "The restaurant provides protection from the weather.",
+                "es": "El restaurante ofrece protección contra el clima."
               }
             }
           ],
@@ -1816,6 +1987,13 @@
               "Keep headlights on in fog at the viewpoints.",
               "Use the car as a base for short explorations.",
               "Watch out for aquaplaning during heavy rain."
+            ],
+            "es": [
+              "Revisa la presión de los neumáticos antes de conducir por carreteras costeras mojadas.",
+              "Evita aparcar directamente en los muelles inundados.",
+              "Mantén las luces encendidas en la niebla en los miradores.",
+              "Usa el coche como base para pequeñas exploraciones.",
+              "Cuidado con el aquaplaning durante lluvias intensas."
             ]
           }
         },
@@ -1824,7 +2002,8 @@
             "de": "Ein strahlender Wintermorgen am Mirador de la Granxa mit kristallklarer Sicht. Die Fahrt zum Hafen von Combarro ist entspannt und ohne Verkehr. Mittags erkunden wir die ruhigen Plätze. Nachmittags wirken die Hórreos in der tiefstehenden Sonne golden. Der Tag endet bei einem gemütlichen Essen am warmen Kamin im Hafen.",
             "hu": "Szikrázó téli reggel a Mirador de la Granxa-nál kristálytiszta kilátással. Az út Combarro kikötőjéig pihentető és forgalommentes. Délben felfedezzük a csendes tereket. Délután a hórreók arany színben tündökölnek az alacsonyan járó napban. A nap kényelmes ebéddel zárul a kikötő egyik meleg kandallója mellett.",
             "ro": "O dimineață de iarnă strălucitoare la Mirador de la Granxa cu vedere clară. Drumul spre portul Combarro este relaxat și fără trafic. La prânz explorăm piețele liniștite. După-amiaza grânarele par aurii în soarele jos. Ziua se încheie cu o masă lângă un șemineu cald în port.",
-            "en": "A bright winter morning at Mirador de la Granxa with crystal clear views. The drive to Combarro port is relaxed and traffic-free. At noon, we explore the quiet squares. In the afternoon, the hórreos look golden in the low sun. The day ends with a cozy meal by a warm fireplace at the harbor."
+            "en": "A bright winter morning at Mirador de la Granxa with crystal clear views. The drive to Combarro port is relaxed and traffic-free. At noon, we explore the quiet squares. In the afternoon, the hórreos look golden in the low sun. The day ends with a cozy meal by a warm fireplace at the harbor.",
+            "es": "Una brillante mañana invernal en el Mirador de la Granxa con vistas cristalinas. El trayecto al puerto de Combarro es relajado y sin tráfico. Al mediodía exploramos las plazas tranquilas. Por la tarde, los hórreos se ven dorados con el sol bajo. El día termina con una comida acogedora junto a la chimenea en el puerto."
           },
           "stops": [
             {
@@ -1833,7 +2012,8 @@
                 "de": "Beste Zeit für Fernsicht-Fotos ist am Morgen.",
                 "hu": "A legjobb idő a tájképekhez a reggeli órákban van.",
                 "ro": "Cel mai bun moment pentru poze la distanță e dimineața.",
-                "en": "Best time for long-distance photos is in the morning."
+                "en": "Best time for long-distance photos is in the morning.",
+                "es": "Mejor hora para fotos a larga distancia: por la mañana."
               }
             },
             {
@@ -1842,7 +2022,8 @@
                 "de": "Es gibt viele freie Parkplätze im Winter.",
                 "hu": "Télen sok szabad parkolóhely van.",
                 "ro": "Sunt multe locuri de parcare libere iarna.",
-                "en": "There are many free parking spaces in winter."
+                "en": "There are many free parking spaces in winter.",
+                "es": "Hay muchos aparcamientos gratuitos en invierno."
               }
             },
             {
@@ -1851,7 +2032,8 @@
                 "de": "Achten Sie auf Schattenfrost in engen Gassen.",
                 "hu": "Ügyeljen az árnyékos jegesedésre a szűk utcákban.",
                 "ro": "Atenție la îngheț în zonele umbrite din străzi.",
-                "en": "Watch out for frost in the shaded narrow streets."
+                "en": "Watch out for frost in the shaded narrow streets.",
+                "es": "Cuidado con la escarcha en las calles estrechas y sombreadas."
               }
             },
             {
@@ -1860,7 +2042,8 @@
                 "de": "Die Cafés sind im Winter besonders gemütlich.",
                 "hu": "A kávézók télen különösen barátságosak.",
                 "ro": "Cafenelele sunt deosebit de primitoare iarna.",
-                "en": "The cafes are especially cozy in winter."
+                "en": "The cafes are especially cozy in winter.",
+                "es": "Las cafeterías son especialmente acogedoras en invierno."
               }
             },
             {
@@ -1869,7 +2052,8 @@
                 "de": "Das Licht der tiefen Sonne ist ideal für Details.",
                 "hu": "Az alacsony napfény ideális a részletekhez.",
                 "ro": "Lumina soarelui jos este ideală pentru detalii.",
-                "en": "The light from the low sun is ideal for details."
+                "en": "The light from the low sun is ideal for details.",
+                "es": "La luz del sol bajo es ideal para los detalles."
               }
             },
             {
@@ -1878,7 +2062,8 @@
                 "de": "Fragen Sie nach dem Tisch am Fenster oder Kamin.",
                 "hu": "Kérjen asztalt az ablaknál vagy a kandallónál.",
                 "ro": "Cereți o masă la fereastră sau lângă șemineu.",
-                "en": "Ask for a table by the window or the fireplace."
+                "en": "Ask for a table by the window or the fireplace.",
+                "es": "Pide mesa junto a la ventana o la chimenea."
               }
             }
           ],
@@ -1910,6 +2095,13 @@
               "Park so that you have the winter sun behind you.",
               "Take advantage of the off-season for stress-free driving.",
               "Keep an ice scraper and gloves handy."
+            ],
+            "es": [
+              "Precalienta el coche para evitar cristales empañados.",
+              "La carretera costera puede estar esporádicamente resbaladiza por la mañana.",
+              "Aparca de forma que tengas el sol invernal detrás.",
+              "Aprovecha la temporada baja para conducir sin estrés.",
+              "Mantén a mano un rascador de hielo y guantes."
             ]
           }
         }
@@ -1928,7 +2120,8 @@
             "de": "Bushaltestelle Combarro",
             "hu": "Combarro buszmegálló",
             "ro": "Stație autobuz Combarro",
-            "en": "Combarro Bus Stop"
+            "en": "Combarro Bus Stop",
+            "es": "Parada de autobús de Combarro"
           },
           "coords": [
             -8.701,
@@ -1943,7 +2136,8 @@
             "de": "Bushaltestelle an der Hauptstraße PO-308.",
             "hu": "Buszmegálló a PO-308-as főúton.",
             "ro": "Stație de autobuz pe drumul principal PO-308.",
-            "en": "Bus stop on the main PO-308 road."
+            "en": "Bus stop on the main PO-308 road.",
+            "es": "Parada de autobús en la carretera principal PO-308."
           }
         },
         {
@@ -1951,7 +2145,8 @@
             "de": "Plaza de San Roque",
             "hu": "Plaza de San Roque",
             "ro": "Plaza de San Roque",
-            "en": "Plaza de San Roque"
+            "en": "Plaza de San Roque",
+            "es": "Plaza de San Roque"
           },
           "coords": [
             -8.7025,
@@ -1966,7 +2161,8 @@
             "de": "Nur wenige Gehminuten von der Haltestelle entfernt.",
             "hu": "Csak pár perc séta a megállótól.",
             "ro": "La doar câteva minute de mers pe jos de stație.",
-            "en": "Only a few minutes' walk from the bus stop."
+            "en": "Only a few minutes' walk from the bus stop.",
+            "es": "A solo unos minutos a pie desde la parada de autobús."
           }
         },
         {
@@ -1974,7 +2170,8 @@
             "de": "Rúa do Mar",
             "hu": "Rúa do Mar",
             "ro": "Rúa do Mar",
-            "en": "Rúa do Mar"
+            "en": "Rúa do Mar",
+            "es": "Rúa do Mar"
           },
           "coords": [
             -8.7035,
@@ -1989,7 +2186,8 @@
             "de": "Die Hauptattraktion des Dorfes.",
             "hu": "A falu fő vonzereje.",
             "ro": "Principala atracție a satului.",
-            "en": "The main attraction of the village."
+            "en": "The main attraction of the village.",
+            "es": "La principal atracción del pueblo."
           }
         },
         {
@@ -1997,7 +2195,8 @@
             "de": "Hórreos de Combarro",
             "hu": "Combarro hórreói",
             "ro": "Hórreos de Combarro",
-            "en": "Hórreos de Combarro"
+            "en": "Hórreos de Combarro",
+            "es": "Hórreos de Combarro"
           },
           "coords": [
             -8.7045,
@@ -2012,7 +2211,8 @@
             "de": "Weltberühmte historische Maisspeicher.",
             "hu": "Világhírű történelmi magtárak.",
             "ro": "Hambare istorice faimoase în întreaga lume.",
-            "en": "World-famous historic granaries."
+            "en": "World-famous historic granaries.",
+            "es": "Hórreos históricos de fama mundial."
           }
         },
         {
@@ -2020,7 +2220,8 @@
             "de": "Puerto de Combarro",
             "hu": "Combarro kikötője",
             "ro": "Portul Combarro",
-            "en": "Puerto de Combarro"
+            "en": "Puerto de Combarro",
+            "es": "Puerto de Combarro"
           },
           "coords": [
             -8.7015,
@@ -2035,7 +2236,8 @@
             "de": "Letzter Stopp vor der Rückfahrt mit dem Bus.",
             "hu": "Utolsó megálló a busszal való visszautazás előtt.",
             "ro": "Ultima oprire înainte de întoarcerea cu autobuzul.",
-            "en": "Final stop before returning by bus."
+            "en": "Final stop before returning by bus.",
+            "es": "Parada final antes de volver en autobús."
           }
         }
       ],
@@ -2043,7 +2245,8 @@
         "de": "Combarro ist hervorragend mit dem Bus von Pontevedra aus erreichbar. Morgens kommen wir im Dorf an und besichtigen die Plaza de San Roque. Danach schlendern wir zur Rúa do Mar und zu den berühmten Hórreos. Den Abschluss bildet ein Besuch im Hafen, bevor wir den Bus für die Rückreise nehmen.",
         "hu": "Combarro kiválóan elérhető busszal Pontevedrából. Reggel érkezünk a faluba, és megnézzük a Plaza de San Roque-t. Ezután a Rúa do Mar és a híres hórreók felé vesszük az irányt. A napot a kikötőben zárjuk, mielőtt visszaszállnánk a buszra.",
         "ro": "Combarro este excelent deservit de autobuz dinspre Pontevedra. Dimineața sosim în sat și vizităm Plaza de San Roque. Apoi ne plimbăm spre Rúa do Mar și faimoasele hórreos. Încheiem cu o vizită în port înainte de a lua autobuzul înapoi.",
-        "en": "Combarro is easily accessible by bus from Pontevedra. In the morning, arrive in the village and visit Plaza de San Roque. Then stroll towards Rúa do Mar and the famous hórreos. Finish with a visit to the port before catching the bus back."
+        "en": "Combarro is easily accessible by bus from Pontevedra. In the morning, arrive in the village and visit Plaza de San Roque. Then stroll towards Rúa do Mar and the famous hórreos. Finish with a visit to the port before catching the bus back.",
+        "es": "Combarro es fácilmente accesible en autobús desde Pontevedra. Por la mañana llega al pueblo y visita la Plaza de San Roque. Luego pasea hacia la Rúa do Mar y los famosos hórreos. Termina con una visita al puerto antes de coger el autobús de regreso."
       },
       "gastro_picks": {
         "de": [
@@ -2151,6 +2354,12 @@
           "Buy your ticket directly from the driver.",
           "The bus stop is clearly marked.",
           "Check the return schedule in advance."
+        ],
+        "es": [
+          "Los autobuses desde Pontevedra circulan cada 30-60 minutos.",
+          "Compra el billete directamente al conductor.",
+          "La parada de autobús está claramente señalizada.",
+          "Consulta el horario de regreso con antelación."
         ]
       },
       "variants": {
@@ -2159,7 +2368,8 @@
             "de": "Combarro ist hervorragend mit dem Bus von Pontevedra aus erreichbar. Morgens kommen wir im Dorf an und besichtigen die Plaza de San Roque. Danach schlendern wir zur Rúa do Mar und zu den berühmten Hórreos. Den Abschluss bildet ein Besuch im Hafen, bevor wir den Bus für die Rückreise nehmen.",
             "hu": "Combarro kiválóan elérhető busszal Pontevedrából. Reggel érkezünk a faluba, és megnézzük a Plaza de San Roque-t. Ezután a Rúa do Mar és a híres hórreók felé vesszük az irányt. A napot a kikötőben zárjuk, mielőtt visszaszállnánk a buszra.",
             "ro": "Combarro este excelent deservit de autobuz dinspre Pontevedra. Dimineața sosim în sat și vizităm Plaza de San Roque. Apoi ne plimbăm spre Rúa do Mar și faimoasele hórreos. Încheiem cu o vizită în port înainte de a lua autobuzul înapoi.",
-            "en": "Combarro is easily accessible by bus from Pontevedra. In the morning, arrive in the village and visit Plaza de San Roque. Then stroll towards Rúa do Mar and the famous hórreos. Finish with a visit to the port before catching the bus back."
+            "en": "Combarro is easily accessible by bus from Pontevedra. In the morning, arrive in the village and visit Plaza de San Roque. Then stroll towards Rúa do Mar and the famous hórreos. Finish with a visit to the port before catching the bus back.",
+            "es": "Combarro es fácilmente accesible en autobús desde Pontevedra. Por la mañana llega al pueblo y visita la Plaza de San Roque. Luego pasea hacia la Rúa do Mar y los famosos hórreos. Termina con una visita al puerto antes de coger el autobús de regreso."
           },
           "stops": [
             {
@@ -2167,13 +2377,15 @@
                 "de": "Bushaltestelle Combarro",
                 "hu": "Combarro buszmegálló",
                 "ro": "Stație autobuz Combarro",
-                "en": "Combarro Bus Stop"
+                "en": "Combarro Bus Stop",
+                "es": "Parada de autobús de Combarro"
               },
               "tip_5lang": {
                 "de": "Bushaltestelle an der Hauptstraße PO-308.",
                 "hu": "Buszmegálló a PO-308-as főúton.",
                 "ro": "Stație de autobuz pe drumul principal PO-308.",
-                "en": "Bus stop on the main PO-308 road."
+                "en": "Bus stop on the main PO-308 road.",
+                "es": "Parada de autobús en la carretera principal PO-308."
               }
             },
             {
@@ -2181,13 +2393,15 @@
                 "de": "Plaza de San Roque",
                 "hu": "Plaza de San Roque",
                 "ro": "Plaza de San Roque",
-                "en": "Plaza de San Roque"
+                "en": "Plaza de San Roque",
+                "es": "Plaza de San Roque"
               },
               "tip_5lang": {
                 "de": "Nur wenige Gehminuten von der Haltestelle entfernt.",
                 "hu": "Csak pár perc séta a megállótól.",
                 "ro": "La doar câteva minute de mers pe jos de stație.",
-                "en": "Only a few minutes' walk from the bus stop."
+                "en": "Only a few minutes' walk from the bus stop.",
+                "es": "A solo unos minutos a pie desde la parada de autobús."
               }
             },
             {
@@ -2195,13 +2409,15 @@
                 "de": "Rúa do Mar",
                 "hu": "Rúa do Mar",
                 "ro": "Rúa do Mar",
-                "en": "Rúa do Mar"
+                "en": "Rúa do Mar",
+                "es": "Rúa do Mar"
               },
               "tip_5lang": {
                 "de": "Die Hauptattraktion des Dorfes.",
                 "hu": "A falu fő vonzereje.",
                 "ro": "Principala atracție a satului.",
-                "en": "The main attraction of the village."
+                "en": "The main attraction of the village.",
+                "es": "La principal atracción del pueblo."
               }
             },
             {
@@ -2209,13 +2425,15 @@
                 "de": "Hórreos de Combarro",
                 "hu": "Combarro hórreói",
                 "ro": "Hórreos de Combarro",
-                "en": "Hórreos de Combarro"
+                "en": "Hórreos de Combarro",
+                "es": "Hórreos de Combarro"
               },
               "tip_5lang": {
                 "de": "Weltberühmte historische Maisspeicher.",
                 "hu": "Világhírű történelmi magtárak.",
                 "ro": "Hambare istorice faimoase în întreaga lume.",
-                "en": "World-famous historic granaries."
+                "en": "World-famous historic granaries.",
+                "es": "Hórreos históricos de fama mundial."
               }
             },
             {
@@ -2223,13 +2441,15 @@
                 "de": "Puerto de Combarro",
                 "hu": "Combarro kikötője",
                 "ro": "Portul Combarro",
-                "en": "Puerto de Combarro"
+                "en": "Puerto de Combarro",
+                "es": "Puerto de Combarro"
               },
               "tip_5lang": {
                 "de": "Letzter Stopp vor der Rückfahrt mit dem Bus.",
                 "hu": "Utolsó megálló a busszal való visszautazás előtt.",
                 "ro": "Ultima oprire înainte de întoarcerea cu autobuzul.",
-                "en": "Final stop before returning by bus."
+                "en": "Final stop before returning by bus.",
+                "es": "Parada final antes de volver en autobús."
               }
             }
           ],
@@ -2339,6 +2559,12 @@
               "Buy your ticket directly from the driver.",
               "The bus stop is clearly marked.",
               "Check the return schedule in advance."
+            ],
+            "es": [
+              "Los autobuses desde Pontevedra circulan cada 30-60 minutos.",
+              "Compra el billete directamente al conductor.",
+              "La parada de autobús está claramente señalizada.",
+              "Consulta el horario de regreso con antelación."
             ]
           }
         },
@@ -2347,7 +2573,8 @@
             "de": "Ankunft mit dem Bus in Combarro bei prasselndem Regen. Der Weg zum Plaza de San Roque ist kurz und dank Arkaden teils geschützt. Mittags bewundern wir die Hórreos zwischen zwei Regenschauern. Nachmittags suchen wir Schutz im Hafenviertel. Die Rückfahrt mit dem Bus bietet einen warmen und trockenen Abschluss des Tages.",
             "hu": "Érkezés busszal Combarroba szakadó esőben. A Plaza de San Roque felé vezető út rövid és az árkádoknak köszönhetően részben védett. Délben két zápor között csodáljuk meg a hórreókat. Délután a kikötői negyedben keresünk menedéket. A buszos visszautazás meleg és száraz lezárást nyújt a napnak.",
             "ro": "Sosire cu autobuzul în Combarro pe o ploaie torențială. Drumul spre Plaza de San Roque e scurt și parțial protejat de arcade. La prânz admirăm grânarele între două reprize de ploaie. După-amiaza căutăm adăpost în zona portului. Întoarcerea cu autobuzul oferă un final cald și uscat.",
-            "en": "Arrival by bus in Combarro during heavy rain. The walk to Plaza de San Roque is short and partly protected by arcades. At noon, we admire the hórreos between two showers. In the afternoon, we seek shelter in the harbor district. The bus ride back provides a warm and dry conclusion to the day."
+            "en": "Arrival by bus in Combarro during heavy rain. The walk to Plaza de San Roque is short and partly protected by arcades. At noon, we admire the hórreos between two showers. In the afternoon, we seek shelter in the harbor district. The bus ride back provides a warm and dry conclusion to the day.",
+            "es": "Llegada en autobús a Combarro con lluvia intensa. El paseo hasta la Plaza de San Roque es corto y en parte protegido por lonjas. Al mediodía admiramos los hórreos entre dos chubascos. Por la tarde buscamos refugio en el barrio del puerto. El viaje de vuelta en autobús ofrece un cierre cálido y seco al día."
           },
           "stops": [
             {
@@ -2356,7 +2583,8 @@
                 "de": "Häuschen bietet guten Schutz beim Warten.",
                 "hu": "A megálló jó védelmet nyújt várakozás közben.",
                 "ro": "Stația oferă protecție bună în timpul așteptării.",
-                "en": "The shelter provides good protection while waiting."
+                "en": "The shelter provides good protection while waiting.",
+                "es": "La marquesina ofrece buena protección mientras esperas."
               }
             },
             {
@@ -2365,7 +2593,8 @@
                 "de": "Vorsicht auf dem kurzen Fußweg vom Bus.",
                 "hu": "Vigyázat a busztól vezető rövid gyalogúton.",
                 "ro": "Atenție la scurtul drum pe jos de la autobuz.",
-                "en": "Be careful on the short walk from the bus."
+                "en": "Be careful on the short walk from the bus.",
+                "es": "Ten cuidado en el corto paseo desde la parada."
               }
             },
             {
@@ -2374,7 +2603,8 @@
                 "de": "Enge Gassen wirken im Regen sehr atmosphärisch.",
                 "hu": "A szűk utcák esőben nagyon hangulatosak.",
                 "ro": "Străzile înguste sunt foarte atmosferice pe ploaie.",
-                "en": "The narrow streets are very atmospheric in the rain."
+                "en": "The narrow streets are very atmospheric in the rain.",
+                "es": "Las calles estrechas son muy atmosféricas con lluvia."
               }
             },
             {
@@ -2383,7 +2613,8 @@
                 "de": "Nutzen Sie den Blick von den überdachten Wegen.",
                 "hu": "Használja ki a kilátást a fedett utakról.",
                 "ro": "Folosiți vederea de pe drumurile acoperite.",
-                "en": "Take advantage of the view from the covered paths."
+                "en": "Take advantage of the view from the covered paths.",
+                "es": "Aprovecha las vistas desde los pasos cubiertos."
               }
             },
             {
@@ -2392,7 +2623,8 @@
                 "de": "Planen Sie den Rückweg zur Haltestelle rechtzeitig.",
                 "hu": "Tervezze meg időben a visszautat a megállóhoz.",
                 "ro": "Planificați din timp drumul înapoi spre stație.",
-                "en": "Plan your walk back to the stop in good time."
+                "en": "Plan your walk back to the stop in good time.",
+                "es": "Planifica tu regreso a la parada con tiempo."
               }
             }
           ],
@@ -2424,6 +2656,13 @@
               "Use the bus shelters as protection from wind and wet.",
               "A small travel umbrella fits in any bag.",
               "Watch out for splashes from passing cars."
+            ],
+            "es": [
+              "Consulta horarios online por si hay retrasos de autobús.",
+              "Ten cambio o la app lista para el billete.",
+              "Usa las marquesinas del autobús como protección contra el viento y la humedad.",
+              "Un paraguas de viaje pequeño cabe en cualquier bolso.",
+              "Cuidado con los salpicones de coches que pasan."
             ]
           }
         },
@@ -2432,7 +2671,8 @@
             "de": "Start mit dem Bus in den klaren Wintermorgen von Combarro. Die kurze Fahrt bietet schöne Ausblicke auf die Ría. Mittags schlendern wir entspannt über den Plaza de San Roque. Nachmittags leuchten die Hórreos in der Wintersonne. Die Rückfahrt mit dem geheizten Bus ist der perfekte Ausklang nach einem kühlen Tag an der Küste.",
             "hu": "Indulás busszal Combarro tiszta téli reggelén. A rövid út szép kilátást nyújt a Ría-ra. Délben pihentetően sétálunk a Plaza de San Roque-n. Délután a hórreók ragyognak a téli napsütésben. A fűtött busszal való visszautazás tökéletes lezárás a hűvös parti nap után.",
             "ro": "Start cu autobuzul în dimineața senină de iarnă din Combarro. Drumul scurt oferă vederi frumoase spre Ría. La prânz ne plimbăm relaxați prin Plaza de San Roque. După-amiaza grânarele strălucesc în soarele de iarnă. Întoarcerea cu autobuzul încălzit e finalul perfect după o zi rece.",
-            "en": "Start by bus in the clear winter morning of Combarro. The short ride offers beautiful views of the Ría. At noon, we stroll relaxingly across Plaza de San Roque. In the afternoon, the hórreos shine in the winter sun. The return trip by heated bus is the perfect end to a cool day on the coast."
+            "en": "Start by bus in the clear winter morning of Combarro. The short ride offers beautiful views of the Ría. At noon, we stroll relaxingly across Plaza de San Roque. In the afternoon, the hórreos shine in the winter sun. The return trip by heated bus is the perfect end to a cool day on the coast.",
+            "es": "Comienza en autobús en la clara mañana invernal de Combarro. El corto trayecto ofrece hermosas vistas de la ría. Al mediodía paseamos relajadamente por la Plaza de San Roque. Por la tarde, los hórreos brillan con el sol invernal. El regreso en autobús calefactado es el final perfecto para un día fresco en la costa."
           },
           "stops": [
             {
@@ -2441,7 +2681,8 @@
                 "de": "Im Winter sind die Busse oft leerer.",
                 "hu": "Télen a buszok gyakran üresebbek.",
                 "ro": "Iarna autobuzele sunt adesea mai goale.",
-                "en": "Buses are often emptier in winter."
+                "en": "Buses are often emptier in winter.",
+                "es": "Los autobuses suelen estar más vacíos en invierno."
               }
             },
             {
@@ -2450,7 +2691,8 @@
                 "de": "Nutzen Sie das Licht für Fotos ohne Menschen.",
                 "hu": "Használja ki a fényeket az embermentes fotókhoz.",
                 "ro": "Folosiți lumina pentru poze fără oameni.",
-                "en": "Take advantage of the light for photos without people."
+                "en": "Take advantage of the light for photos without people.",
+                "es": "Aprovecha la luz para fotos sin gente."
               }
             },
             {
@@ -2459,7 +2701,8 @@
                 "de": "Perfekt für einen schnellen Aufwärm-Stopp.",
                 "hu": "Tökéletes egy gyors bemelegítő pihenőhöz.",
                 "ro": "Perfect pentru o oprire rapidă de încălzire.",
-                "en": "Perfect for a quick warming stop."
+                "en": "Perfect for a quick warming stop.",
+                "es": "Perfecto para una parada rápida de calor."
               }
             },
             {
@@ -2468,7 +2711,8 @@
                 "de": "Der Boden ist trocken, aber kalt.",
                 "hu": "A talaj száraz, de hideg.",
                 "ro": "Solul este uscat, dar rece.",
-                "en": "The ground is dry but cold."
+                "en": "The ground is dry but cold.",
+                "es": "El suelo está seco pero frío."
               }
             },
             {
@@ -2477,7 +2721,8 @@
                 "de": "Die Haltestelle ist in wenigen Minuten erreichbar.",
                 "hu": "A megálló pár perc alatt elérhető.",
                 "ro": "Stația este accesibilă în câteva minute.",
-                "en": "The stop is reachable in a few minutes."
+                "en": "The stop is reachable in a few minutes.",
+                "es": "La parada se alcanza en pocos minutos."
               }
             }
           ],
@@ -2509,6 +2754,13 @@
               "Winter schedules may differ from summer times.",
               "Enjoy the sunset from the bus window.",
               "A hot drink before departure warms you up."
+            ],
+            "es": [
+              "Lleva ropa abrigada para esperar en la parada de autobús.",
+              "Los autobuses están bien calefactados y ofrecen confort.",
+              "Los horarios de invierno pueden diferir de los de verano.",
+              "Disfruta del atardecer desde la ventana del autobús.",
+              "Una bebida caliente antes de la salida te calienta."
             ]
           }
         }
@@ -2523,19 +2775,22 @@
       "de": "Combarro ist ein winziges Fischerdorf, die meisten Einheimischen sprechen Galego im Alltag. Spanisch versteht jeder, Englisch nur die jüngeren in den Tapas-Bars an der Promenade.",
       "hu": "Combarro pici halászfalu, a helyiek galego nyelven beszélnek a hétköznapokban. Spanyolul mindenki ért, angolul csak a fiatalabbak a sétányi tapas-bárokban.",
       "ro": "Combarro e un sătuc pescăresc, localnicii vorbesc galega în viața de zi cu zi. Spaniola e înțeleasă peste tot, engleza doar de tinerii din barurile de tapas de pe promenadă.",
-      "en": "Combarro is a tiny fishing village where locals use Galego day to day. Spanish is understood everywhere, English only from younger staff in the promenade tapas bars."
+      "en": "Combarro is a tiny fishing village where locals use Galego day to day. Spanish is understood everywhere, English only from younger staff in the promenade tapas bars.",
+      "es": "Combarro es un diminuto pueblo pesquero donde la gente usa el galego a diario. El español se entiende en todas partes y el inglés solo entre el personal más joven de los bares de tapas del paseo."
     },
     "best_time_to_visit": {
       "de": "Mai bis September ist ideal, das Dorf ist im Hochsommer aber sehr eng und überfüllt mit Bustouristen. Komm früh morgens oder nach 19 Uhr, dann hat man die Hórreos und Steingassen fast für sich allein.",
       "hu": "Május-szeptember ideális, de a falu nyáron busznyi turistától tömött. Reggel korán vagy 19 után érdemes menni, akkor a hórreók és a kőutcák szinte üresek.",
       "ro": "Mai-septembrie e ideal, dar satul e sufocat de turiști în mijlocul verii. Vino dimineața devreme sau după ora 19, când hórreos și ulițele de piatră sunt aproape goale.",
-      "en": "May to September is ideal, but the village gets choked by tour buses at midday. Come early morning or after 7 pm to have the hórreos and stone lanes almost to yourself."
+      "en": "May to September is ideal, but the village gets choked by tour buses at midday. Come early morning or after 7 pm to have the hórreos and stone lanes almost to yourself.",
+      "es": "De mayo a septiembre es ideal, pero el pueblo se colapsa de autobuses turísticos al mediodía. Ven temprano por la mañana o después de las 19:00 para tener los hórreos y las callejas de piedra casi para ti."
     },
     "neighborhood_warnings": {
       "de": "Sehr sicheres Dorf, kaum Probleme. Die schmalen Steingassen sind bei Regen sehr rutschig, festes Schuhwerk ist Pflicht, Flip-Flops bringen dich auf die Nase.",
       "hu": "Nagyon biztonságos falu, alig van baj. A keskeny kőutcák eső után csúszósak, jó cipő kell, papucsban orra fogsz esni.",
       "ro": "Sat foarte sigur, probleme minime. Ulițele înguste de piatră alunecă tare la ploaie, încălțăminte fermă obligatorie, în șlapi cazi sigur.",
-      "en": "Very safe village, virtually no issues. The narrow stone lanes turn slippery in rain, wear firm shoes as flip flops will put you on your face."
+      "en": "Very safe village, virtually no issues. The narrow stone lanes turn slippery in rain, wear firm shoes as flip flops will put you on your face.",
+      "es": "Pueblo muy seguro, prácticamente sin problemas. Las estrechas callejas de piedra se vuelven resbaladizas con lluvia; usa zapatos firmes porque las chanclas te harán caer."
     }
   }
 }

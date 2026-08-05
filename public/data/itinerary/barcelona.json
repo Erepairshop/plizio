@@ -31,7 +31,8 @@
             "de": "Früh ankommen für weniger Menschenmassen.",
             "hu": "Érkezz korán a kisebb tömegért.",
             "ro": "Sosiți devreme pentru mai puțină aglomerație.",
-            "en": "Arrive early for fewer crowds."
+            "en": "Arrive early for fewer crowds.",
+            "es": "Llega temprano para menos gente."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Probieren Sie frische Säfte und Tapas.",
             "hu": "Kóstolj friss gyümölcsleveket és tapast.",
             "ro": "Încercați sucuri proaspete și tapas.",
-            "en": "Try fresh juices and tapas."
+            "en": "Try fresh juices and tapas.",
+            "es": "Prueba zumos naturales y tapas."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Versteckte Gassen entdecken, besonders um Plaça del Rei.",
             "hu": "Fedezd fel a rejtett utcákat, főleg a Plaça del Rei környékét.",
             "ro": "Descoperiți străzile ascunse, în jurul Plaça del Rei.",
-            "en": "Discover hidden alleyways, especially around Plaça del Rei."
+            "en": "Discover hidden alleyways, especially around Plaça del Rei.",
+            "es": "Descubre callejones ocultos, especialmente alrededor de la Plaça del Rei."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Besuchen Sie den Kreuzgang für eine ruhige Oase.",
             "hu": "Látogasd meg a kerengőt a csendes oázisért.",
             "ro": "Vizitați claustrul pentru o oază de liniște.",
-            "en": "Visit the cloister for a peaceful oasis."
+            "en": "Visit the cloister for a peaceful oasis.",
+            "es": "Visita el claustro para encontrar un oasis de paz."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Buchen Sie Tickets online, um Warteschlangen zu vermeiden.",
             "hu": "Foglalj jegyet online a sorok elkerüléséért.",
             "ro": "Rezervați bilete online pentru a evita cozile.",
-            "en": "Book tickets online to avoid queues."
+            "en": "Book tickets online to avoid queues.",
+            "es": "Reserva entradas online para evitar colas."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Nehmen Sie Sonnencreme und genießen Sie das Mittelmeer.",
             "hu": "Vigyél naptejet és élvezd a Földközi-tengert.",
             "ro": "Luați cremă de soare și bucurați-vă de Marea Mediterană.",
-            "en": "Bring sunscreen and enjoy the Mediterranean."
+            "en": "Bring sunscreen and enjoy the Mediterranean.",
+            "es": "Lleva protector solar y disfruta del Mediterráneo."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Spazieren Sie entlang des Yachthafens und machen Sie Fotos.",
             "hu": "Sétálj a yachtkikötő mentén és fényképezz.",
             "ro": "Plimbați-vă de-a lungul portului și faceți fotografii.",
-            "en": "Stroll along the marina and take photos."
+            "en": "Stroll along the marina and take photos.",
+            "es": "Pasea por el puerto deportivo y haz fotos."
           }
         },
         {
@@ -157,7 +164,8 @@
             "de": "Probieren Sie die Paella und den frischen Fisch.",
             "hu": "Kóstold meg a paellát és a friss halat.",
             "ro": "Încercați paella și peștele proaspăt.",
-            "en": "Try the paella and fresh fish."
+            "en": "Try the paella and fresh fish.",
+            "es": "Prueba la paella y el pescado fresco."
           }
         }
       ],
@@ -165,7 +173,8 @@
         "de": "Der Morgen beginnt auf der belebten Plaça de Catalunya. Ein kurzer Spaziergang führt zum Mercat de la Boqueria, wo Sie farbenfrohe Marktstände und Tapas genießen. Danach schlendern Sie durch das gotische Viertel mit seinen engen Gassen und besuchen die Kathedrale. Der Vormittag endet mit Kunst im Picasso-Museum.",
         "hu": "A reggel a nyüzsgő Plaça de Catalunyán kezdődik. Rövid séta a Mercat de la Boqueria piacra, ahol színes standok és tapas várnak. Ezután a gótikus negyed szűk utcáin sétálva érjük el a katedrálist. A délelőttöt a Picasso Múzeumban zárjuk.",
         "ro": "Dimineața începe în animata Plaça de Catalunya. O scurtă plimbare duce la Mercat de la Boqueria, cu tarabe colorate și tapas. Apoi străbateți cartierul gotic cu străzi înguste și vizitați catedrala. Dimineața se încheie cu arta de la Muzeul Picasso.",
-        "en": "The morning starts at lively Plaça de Catalunya. A short walk leads to Mercat de la Boqueria for colorful stalls and tapas. Then wander through the Gothic Quarter with narrow streets and visit the cathedral. The morning ends with art at the Picasso Museum."
+        "en": "The morning starts at lively Plaça de Catalunya. A short walk leads to Mercat de la Boqueria for colorful stalls and tapas. Then wander through the Gothic Quarter with narrow streets and visit the cathedral. The morning ends with art at the Picasso Museum.",
+        "es": "La mañana comienza en la animada Plaça de Catalunya. A poca distancia está el Mercat de la Boqueria con puestos coloridos y tapas. Luego pasea por el Barrio Gótico con sus calles estrechas y visita la catedral. La mañana termina con arte en el Museu Picasso."
       },
       "gastro_picks": {
         "de": [
@@ -361,6 +370,12 @@
           "Allocate enough time for the Gothic Quarter.",
           "Have breakfast at the market.",
           "Avoid main shops for authentic experiences."
+        ],
+        "es": [
+          "Lleva calzado cómodo para los adoquines.",
+          "Reserva tiempo suficiente para el Barrio Gótico.",
+          "Desayuna en el mercado.",
+          "Evita las tiendas principales para experiencias más auténticas."
         ]
       },
       "variants": {
@@ -369,7 +384,8 @@
             "de": "Der Morgen beginnt im Barri Gòtic, wo die schmalen Gassen und Steinmauern einen gewissen Schutz bieten und die nassen Pflastersteine im weichen Licht glänzen.\n\nMittags bietet das Picasso-Museum im Viertel El Born den perfekten, weitläufigen Rückzugsort vor den Regenschauern.\n\nNachmittags erkunden Sie die prächtigen, warm beleuchteten Innenräume der Casa Batlló und Casa Milà, während das Prasseln der Tropfen gegen die kunstvollen Glasfenster eine besondere Atmosphäre schafft.\n\nDer Abend endet trocken und belebt unter dem großen Stahldach des Mercat de la Boqueria, wo Sie lokale Tapas genießen können.",
             "hu": "A reggel a gótikus negyedben indul, ahol a szűk utcák és kőfalak némi fedezéket nyújtanak, a vizes macskakövek pedig különleges fényt kapnak az esőben.\n\nDélben a Picasso Múzeum épületegyüttese válik a tökéletes menedékké, ahol szárazon merülhet el a művészetben.\n\nDélután Gaudí remekműveinek, a Casa Batllónak és a Casa Milának a belső tereit érdemes felfedezni, figyelve az ablakokon kopogó eső ritmusát.\n\nAz estét a Boqueria piac hatalmas tetőszerkezete alatt zárjuk, ahol az eső elől védve kóstolhatjuk meg a friss tengeri fogásokat.",
             "ro": "Dimineața începe în Cartierul Gotic, unde străzile înguste și zidurile vechi oferă un adăpost natural, iar pavajul ud reflectă luminile orașului.\n\nLa prânz, Muzeul Picasso din El Born este refugiul ideal, oferind spații vaste și uscate pentru explorarea artei.\n\nDupă-amiaza este dedicată interioarelor spectaculoase de la Casa Batlló și Casa Milà, unde designul organic al lui Gaudi capătă noi nuanțe sub cerul gri.\n\nSeara se încheie confortabil sub acoperișul generos al pieței Boqueria, savurând delicatese locale fără grija stropilor de ploaie.",
-            "en": "Morning starts in the Gothic Quarter, where narrow alleys provide partial shelter and the wet cobblestones glisten under the soft rainy light.\n\nFor midday, the Picasso Museum in El Born serves as the perfect dry sanctuary, allowing you to stay out of the downpour for hours.\n\nAfternoon is best spent inside the warm interiors of Casa Batlló and Casa Milà, watching the rain beat against the unique stained glass from the comfort of Gaudi's rooms.\n\nEnd your day under the protective canopy of the Boqueria Market, enjoying vibrant food stalls while remaining completely dry."
+            "en": "Morning starts in the Gothic Quarter, where narrow alleys provide partial shelter and the wet cobblestones glisten under the soft rainy light.\n\nFor midday, the Picasso Museum in El Born serves as the perfect dry sanctuary, allowing you to stay out of the downpour for hours.\n\nAfternoon is best spent inside the warm interiors of Casa Batlló and Casa Milà, watching the rain beat against the unique stained glass from the comfort of Gaudi's rooms.\n\nEnd your day under the protective canopy of the Boqueria Market, enjoying vibrant food stalls while remaining completely dry.",
+            "es": "La mañana empieza en el Barrio Gótico, donde los callejones estrechos ofrecen refugio parcial y los adoquines mojados brillan bajo la suave luz de la lluvia.\n\nAl mediodía, el Museu Picasso en El Born es un perfecto santuario seco, donde puedes resguardarte de la lluvia durante horas.\n\nLa tarde es mejor pasarla en los interiores cálidos de Casa Batlló y Casa Milà, observando la lluvia golpear los vitrales únicos desde la comodidad de las estancias de Gaudí.\n\nTermina el día bajo la cubierta protectora de la Boqueria, disfrutando de los vibrantes puestos de comida y permaneciendo completamente a salvo de la lluvia."
           },
           "stops": [
             {
@@ -378,7 +394,8 @@
                 "de": "Vorsicht auf glatten Steinen, schmale Gassen bieten etwas Schutz.",
                 "hu": "Vigyázat, a vizes macskakő csúszhat, a szűk utcák némi fedezéket adnak.",
                 "ro": "Atenție la pavajul alunecos, străzile înguste oferă puțin adăpost.",
-                "en": "Careful on slippery stones; narrow alleys provide some shelter from wind."
+                "en": "Careful on slippery stones; narrow alleys provide some shelter from wind.",
+                "es": "Cuidado con las piedras resbaladizas; los callejones estrechos ofrecen algo de protección contra el viento."
               }
             },
             {
@@ -387,7 +404,8 @@
                 "de": "Idealer Ort für Regenschauer, Garderobe für nasse Schirme vorhanden.",
                 "hu": "Tökéletes menedék esőben, van ruhatár a vizes esernyőknek.",
                 "ro": "Loc ideal pentru ploaie, există garderobă pentru umbrele ude.",
-                "en": "Ideal indoor refuge; cloakroom available for wet umbrellas."
+                "en": "Ideal indoor refuge; cloakroom available for wet umbrellas.",
+                "es": "Refugio interior ideal; guardarropa disponible para paraguas mojados."
               }
             },
             {
@@ -396,7 +414,8 @@
                 "de": "Genießen Sie das Lichtspiel des Regens durch die organischen Fenster.",
                 "hu": "Élvezze az esőcseppek játékát a különleges, organikus ablakokon át.",
                 "ro": "Bucurați-vă de jocul ploii prin ferestrele organice spectaculoase.",
-                "en": "Enjoy the play of light and rain through the unique organic windows."
+                "en": "Enjoy the play of light and rain through the unique organic windows.",
+                "es": "Disfruta del juego de luz y lluvia a través de las ventanas orgánicas únicas."
               }
             },
             {
@@ -405,7 +424,8 @@
                 "de": "Der Dachbesuch ist bei starkem Regen eingeschränkt, Fokus auf Innenräume.",
                 "hu": "Erős esőben a tetőterasz zárva lehet, koncentráljon a lakásbelsőköz.",
                 "ro": "Accesul pe acoperiș poate fi limitat, concentrați-vă pe interior.",
-                "en": "Roof access may be restricted; focus on the stunning apartment interiors."
+                "en": "Roof access may be restricted; focus on the stunning apartment interiors.",
+                "es": "El acceso a la azotea puede estar restringido; centra la visita en los impresionantes interiores del piso."
               }
             },
             {
@@ -414,7 +434,8 @@
                 "de": "Nutzen Sie die Kioske und Markisen als kurze Unterstände.",
                 "hu": "Használja az újságosbódék és kávézók előtetőit rövid pihenőkre.",
                 "ro": "Folosiți chioșcurile și copertinele cafenelelor pentru scurte pauze.",
-                "en": "Use newsstands and cafe awnings as quick stops for shelter."
+                "en": "Use newsstands and cafe awnings as quick stops for shelter.",
+                "es": "Usa quioscos y toldos de cafetería como paradas rápidas para resguardarte."
               }
             },
             {
@@ -423,7 +444,8 @@
                 "de": "Vollständig überdacht, der beste Ort für einen verregneten Abend.",
                 "hu": "Teljesen fedett, a legjobb hely egy esős este eltöltéséhez.",
                 "ro": "Complet acoperită, cel mai bun loc pentru o seară ploioasă.",
-                "en": "Fully covered and dry; the best spot for a rainy evening snack."
+                "en": "Fully covered and dry; the best spot for a rainy evening snack.",
+                "es": "Totalmente cubierto y seco; el mejor sitio para un tentempié en una tarde lluviosa."
               }
             }
           ],
@@ -451,6 +473,12 @@
               "Take advantage of Gothic Quarter cafes for short drying-off breaks.",
               "Museums get crowded when it rains; book your time slots in advance.",
               "Wear waterproof shoes to handle the inevitable puddles on La Rambla."
+            ],
+            "es": [
+              "Un paraguas resistente es clave; los vientos costeros pueden romper los baratos.",
+              "Aprovecha las cafeterías del Barrio Gótico para cortos descansos y secarte.",
+              "Los museos se llenan cuando llueve; reserva tu franja horaria con antelación.",
+              "Lleva calzado impermeable para aguantar los inevitables charcos en La Rambla."
             ]
           }
         },
@@ -459,7 +487,8 @@
             "de": "Der Wintermorgen beginnt frisch im Barri Gòtic, wo die tiefstehende Sonne lange Schatten durch die historischen Bögen wirft.\n\nMittags ist die Luft klar und kühl, ideal für einen Spaziergang zum Picasso-Museum, ohne die Sommerhitze und Menschenmassen.\n\nNachmittags wärmen die Sonnenstrahlen die modernistischen Fassaden der Casa Batlló und Casa Milà, bevor die Dämmerung gegen 17:30 Uhr früh einsetzt.\n\nDer Abend auf der Boqueria ist gemütlich und bietet winterliche Köstlichkeiten wie geröstete Kastanien und dicke, heiße Schokolade.",
             "hu": "A téli reggel friss levegővel köszönt a gótikus negyedben, ahol az alacsonyan járó nap hosszú árnyékokat vet a történelmi árkádok közé.\n\nDélben a levegő tiszta és hűvös, ilyenkor a legkellemesebb a séta a Picasso Múzeum felé, elkerülve a nyári hőséget.\n\nDélután a napfény megvilágítja a Casa Batlló és Casa Milà homlokzatát, mielőtt 17:30 körül korán leszállna az est.\n\nAz este a Boqueria piacon telik, ahol a téli szezon olyan finomságai várnak, mint a sült gesztenye és a sűrű forró csokoládé.",
             "ro": "Dimineața de iarnă începe proaspăt în Cartierul Gotic, cu soarele jos trimițând raze lungi printre arcadele istorice.\n\nLa prânz, aerul este clar și rece, perfect pentru o plimbare spre Muzeul Picasso fără zăpușeala și aglomerația verii.\n\nDupă-amiaza, lumina aurie pune în valoare detaliile de la Casa Batlló și Casa Milà, înainte de apusul care vine devreme, în jur de 17:30.\n\nSeara la Boqueria este plină de viață și oferă arome de iarnă, precum castanele coapte și ciocolata caldă densă.",
-            "en": "Winter mornings are crisp in the Gothic Quarter, with the low sun casting dramatic long shadows through the medieval arches.\n\nBy midday, the air is clear and cool, making the walk to the Picasso Museum much more pleasant than in the stifling summer heat.\n\nIn the afternoon, catch the golden light on the facades of Casa Batlló and Casa Milà before the sun sets early around 5:30 PM.\n\nThe evening at Boqueria is warm and inviting, perfect for trying seasonal winter treats like roasted chestnuts or thick hot chocolate."
+            "en": "Winter mornings are crisp in the Gothic Quarter, with the low sun casting dramatic long shadows through the medieval arches.\n\nBy midday, the air is clear and cool, making the walk to the Picasso Museum much more pleasant than in the stifling summer heat.\n\nIn the afternoon, catch the golden light on the facades of Casa Batlló and Casa Milà before the sun sets early around 5:30 PM.\n\nThe evening at Boqueria is warm and inviting, perfect for trying seasonal winter treats like roasted chestnuts or thick hot chocolate.",
+            "es": "Las mañanas de invierno son crujientes en el Barrio Gótico, con el sol bajo que proyecta largas sombras dramáticas por los arcos medievales.\n\nAl mediodía, el aire está claro y fresco, lo que hace más agradable el paseo al Museu Picasso que el sofocante calor veraniego.\n\nPor la tarde, captura la luz dorada en las fachadas de Casa Batlló y Casa Milà antes de que el sol se ponga temprano, alrededor de las 17:30.\n\nLa noche en la Boqueria es cálida y acogedora, perfecta para probar dulces invernales como castañas asadas o un espeso chocolate caliente."
           },
           "stops": [
             {
@@ -468,7 +497,8 @@
                 "de": "Frühmorgens sehr ruhig, genießen Sie die kühle, klare Luft.",
                 "hu": "Kora reggel nagyon csendes, élvezze a hűvös, tiszta levegőt.",
                 "ro": "Foarte liniștit dimineața devreme, savurați aerul rece și curat.",
-                "en": "Very quiet in the early morning; enjoy the crisp, clear air."
+                "en": "Very quiet in the early morning; enjoy the crisp, clear air.",
+                "es": "Muy tranquilo a primera hora; disfruta del aire fresco y claro."
               }
             },
             {
@@ -477,7 +507,8 @@
                 "de": "Wenig Andrang im Winter, nutzen Sie die ruhigen Säle.",
                 "hu": "Télen kisebb a tömeg, élvezze a csendesebb kiállítótermeket.",
                 "ro": "Mai puțin aglomerat iarna, profitați de sălile liniștite.",
-                "en": "Fewer crowds in winter; take your time in the quiet galleries."
+                "en": "Fewer crowds in winter; take your time in the quiet galleries.",
+                "es": "Menos gente en invierno; tómate tu tiempo en las galerías tranquilas."
               }
             },
             {
@@ -486,7 +517,8 @@
                 "de": "Das Winterlicht hebt die blauen Mosaike im Innenhof hervor.",
                 "hu": "A téli fények gyönyörűen kiemelik a belső udvar kék mozaikjait.",
                 "ro": "Lumina de iarnă scoate în evidență mozaicurile albastre din curte.",
-                "en": "Winter sunlight beautifully highlights the blue courtyard mosaics."
+                "en": "Winter sunlight beautifully highlights the blue courtyard mosaics.",
+                "es": "La luz invernal resalta hermosamente los mosaicos azules del patio."
               }
             },
             {
@@ -495,7 +527,8 @@
                 "de": "Warme Kleidung für die Dachterrasse nötig, tolle Sicht bei klarer Luft.",
                 "hu": "Meleg ruha kell a tetőteraszra, de a kilátás ilyenkor a legtisztább.",
                 "ro": "Haine groase necesare pentru acoperiș, vizibilitate excelentă iarna.",
-                "en": "Warm clothes needed for the roof; enjoy the sharp, clear views."
+                "en": "Warm clothes needed for the roof; enjoy the sharp, clear views.",
+                "es": "Ropa de abrigo necesaria para la azotea; disfruta de vistas nítidas y claras."
               }
             },
             {
@@ -504,7 +537,8 @@
                 "de": "Ab 17:00 Uhr oft festlich beleuchtet, genießen Sie die Atmosphäre.",
                 "hu": "17 óra után gyakran ünnepi fények díszítik, élvezze a hangulatot.",
                 "ro": "Adesea iluminată festiv după ora 17:00, bucurați-vă de atmosferă.",
-                "en": "Often festively lit after 5 PM; soak in the cozy winter atmosphere."
+                "en": "Often festively lit after 5 PM; soak in the cozy winter atmosphere.",
+                "es": "A menudo iluminado con ambiente festivo después de las 17:00; empápate de la atmósfera invernal acogedora."
               }
             },
             {
@@ -513,7 +547,8 @@
                 "de": "Probieren Sie geröstete Kastanien oder heiße Schokolade.",
                 "hu": "Kóstolja meg a sült gesztenyét vagy a forró csokoládét.",
                 "ro": "Încercați castanele coapte sau o ciocolată caldă cu churros.",
-                "en": "Try roasted chestnuts or a thick hot chocolate with churros."
+                "en": "Try roasted chestnuts or a thick hot chocolate with churros.",
+                "es": "Prueba castañas asadas o un chocolate espeso con churros."
               }
             }
           ],
@@ -541,6 +576,12 @@
               "Dress in layers: it's warm in the sun but chilly in the shadows.",
               "Thick hot chocolate with churros is the ultimate winter comfort food.",
               "Coastal humidity can make the air feel colder than the temperature says."
+            ],
+            "es": [
+              "El atardecer es alrededor de las 17:30; termina las visitas al aire libre antes del anochecer.",
+              "Vístete por capas: hace calor al sol pero fresco en las sombras.",
+              "Chocolate espeso con churros es la máxima comida reconfortante de invierno.",
+              "La humedad costera puede hacer que el aire se sienta más frío que la temperatura."
             ]
           }
         }
@@ -569,7 +610,8 @@
             "de": "Startpunkt für eine Fahrradtour durch Barcelona.",
             "hu": "Kezdőpont egy biciklitúrához Barcelonában.",
             "ro": "Punct de plecare pentru un tur cu bicicleta în Barcelona.",
-            "en": "Starting point for a bike tour of Barcelona."
+            "en": "Starting point for a bike tour of Barcelona.",
+            "es": "Punto de partida para un tour en bici por Barcelona."
           }
         },
         {
@@ -587,7 +629,8 @@
             "de": "Geeignet für ein schnelles Foto.",
             "hu": "Gyors fotózásra ideális.",
             "ro": "Potrivit pentru o fotografie rapidă.",
-            "en": "Great for a quick photo."
+            "en": "Great for a quick photo.",
+            "es": "Perfecto para una foto rápida."
           }
         },
         {
@@ -605,7 +648,8 @@
             "de": "Mieten Sie ein Ruderboot auf dem See.",
             "hu": "Bérelj evezős csónakot a tavon.",
             "ro": "Închiriați o barcă cu vâsle pe lac.",
-            "en": "Rent a rowboat on the lake."
+            "en": "Rent a rowboat on the lake.",
+            "es": "Alquila un bote de remos en el lago."
           }
         },
         {
@@ -623,7 +667,8 @@
             "de": "Besuchen Sie den Dachgarten für eine tolle Aussicht.",
             "hu": "Látogasd meg a tetőkertet a remek kilátásért.",
             "ro": "Vizitați grădina de pe acoperiș pentru o vedere excelentă.",
-            "en": "Visit the roof terrace for a great view."
+            "en": "Visit the roof terrace for a great view.",
+            "es": "Visita la terraza de la azotea para una gran vista."
           }
         },
         {
@@ -641,7 +686,8 @@
             "de": "Buchen Sie online und sparen Sie Zeit.",
             "hu": "Foglalj online és időt spórolsz.",
             "ro": "Rezervați online și economisiți timp.",
-            "en": "Book online to save time."
+            "en": "Book online to save time.",
+            "es": "Reserva online para ahorrar tiempo."
           }
         },
         {
@@ -659,7 +705,8 @@
             "de": "Bester Panoramablick auf die Stadt.",
             "hu": "Legjobb panorámakilátás a városra.",
             "ro": "Cea mai bună vedere panoramică asupra orașului.",
-            "en": "Best panoramic view of the city."
+            "en": "Best panoramic view of the city.",
+            "es": "Mejor vista panorámica de la ciudad."
           }
         },
         {
@@ -677,7 +724,8 @@
             "de": "Genießen Sie Paella nach der Radtour.",
             "hu": "Élvezd a paellát a biciklitúra után.",
             "ro": "Bucurați-vă de paella după turul cu bicicleta.",
-            "en": "Enjoy paella after the bike tour."
+            "en": "Enjoy paella after the bike tour.",
+            "es": "Disfruta de una paella después del tour en bici."
           }
         }
       ],
@@ -685,7 +733,8 @@
         "de": "Der Tag beginnt auf der Plaça de Catalunya, von dort radeln Sie zum Arc de Triomf und in den Parc de la Ciutadella. Nach der Kathedrale fahren Sie auf den Montjuïc-Hügel zum Kunstmuseum und zur Burg. Der Tag endet mit einem Strandbesuch und Paella.",
         "hu": "A nap a Plaça de Catalunyán kezdődik, onnan biciklizünk az Arc de Triomfhoz és a Ciutadella parkba. A katedrális után fel a Montjuïc dombra a múzeumba és a várba. A nap egy strandlátogatással és paellával zárul.",
         "ro": "Ziua începe la Plaça de Catalunya, de acolo mergeți cu bicicleta la Arc de Triomf și în Parc de la Ciutadella. După catedrală, urcați pe dealul Montjuïc la muzeu și castel. Ziua se încheie cu o vizită la plajă și paella.",
-        "en": "The day starts at Plaça de Catalunya, then bike to Arc de Triomf and Parc de la Ciutadella. After the cathedral, ride up Montjuïc hill to the art museum and castle. The day ends with a beach visit and paella."
+        "en": "The day starts at Plaça de Catalunya, then bike to Arc de Triomf and Parc de la Ciutadella. After the cathedral, ride up Montjuïc hill to the art museum and castle. The day ends with a beach visit and paella.",
+        "es": "El día comienza en la Plaça de Catalunya, luego en bici al Arc de Triomf y al Parc de la Ciutadella. Tras la catedral, sube en bici a Montjuïc hasta el museo de arte y el castillo. El día termina con visita a la playa y paella."
       },
       "gastro_picks": {
         "de": [
@@ -829,6 +878,12 @@
           "Always lock your bike.",
           "Wear a helmet.",
           "Plan breaks on Montjuïc."
+        ],
+        "es": [
+          "Usa los carriles bici a lo largo de la costa.",
+          "Siempre asegura la bicicleta con candado.",
+          "Lleva casco.",
+          "Planifica descansos en Montjuïc."
         ]
       },
       "variants": {
@@ -837,7 +892,8 @@
             "de": "Trotz des Regens bietet die Sagrada Família am Morgen einen majestätischen Anblick, während die Tropfen an den Steinfiguren herablaufen.\n\nDer Weg zum Park Güell führt über nasse Alleen, doch die Aussicht auf die im Nebel versunkene Stadt ist dramatisch und unvergesslich.\n\nEntlang der Barceloneta peitscht der Wind das Meer auf, was die Fahrt erfrischend und wild macht – wasserfeste Kleidung ist hier Pflicht.\n\nNach einem vorsichtigen Schieben des Rades durch das rutschige Gòtic endet die Tour am Montjuïc, wo die Wolken tief über dem Hafen hängen.",
             "hu": "Az eső ellenére a Sagrada Família fenséges látvány reggel, ahogy a vízcseppek végigfolynak a kőalakokon.\n\nA Park Güell felé vezető út vizes fasorok közt visz, a kilátás pedig a ködbe burkolózó városra drámai és felejthetetlen.\n\nA tengerparton, Barceloneta mentén a szél korbácsolja a hullámokat, ami frissítő és vad élményt nyújt – a vízálló ruha kötelező.\n\nA csúszós gótikus negyeden való óvatos áthaladás után a Montjuïc hegyen zárjuk a napot, ahol a felhők alacsonyan szállnak a kikötő felett.",
             "ro": "În ciuda ploii, Sagrada Família oferă o priveliște maiestuoasă dimineața, cu picăturile de apă prelingându-se pe sculpturile de piatră.\n\nDrumul spre Park Güell prin bulevardele ude oferă o perspectivă dramatică asupra orașului învăluit în ceață.\n\nPe faleză, în Barceloneta, vântul mării face pedalarea o experiență revigorantă și sălbatică – echipamentul impermeabil este esențial.\n\nDupă ce traversați cu grijă pavajul alunecos din Cartierul Gotic, încheiați ziua pe Montjuïc, cu norii atârnând grei peste port.",
-            "en": "Despite the rain, Sagrada Família presents a majestic sight in the morning as water cascades down its intricate stone facades.\n\nThe ride to Park Güell follows wet boulevards, offering dramatic and moody views of the city half-hidden in the mist.\n\nAlong Barceloneta, the wind whips up the sea spray, making for an invigorating and wild coastal dash where waterproof gear is a must.\n\nAfter carefully navigating the slippery stones of the Gothic Quarter, finish at Montjuïc, watching the clouds hang low over the harbor."
+            "en": "Despite the rain, Sagrada Família presents a majestic sight in the morning as water cascades down its intricate stone facades.\n\nThe ride to Park Güell follows wet boulevards, offering dramatic and moody views of the city half-hidden in the mist.\n\nAlong Barceloneta, the wind whips up the sea spray, making for an invigorating and wild coastal dash where waterproof gear is a must.\n\nAfter carefully navigating the slippery stones of the Gothic Quarter, finish at Montjuïc, watching the clouds hang low over the harbor.",
+            "es": "A pesar de la lluvia, la Sagrada Família ofrece una vista majestuosa por la mañana mientras el agua cae por sus intricadas fachadas de piedra.\n\nEl recorrido hacia el Park Güell sigue boulevards mojados, ofreciendo vistas dramáticas y melancólicas de la ciudad medio oculta en la niebla.\n\nA lo largo de la Barceloneta, el viento levanta la bruma marina, en una carrera costera vigorizante donde la ropa impermeable es imprescindible.\n\nTras sortear con cuidado las piedras resbaladizas del Barrio Gótico, termina en Montjuïc observando las nubes bajas sobre el puerto."
           },
           "stops": [
             {
@@ -846,7 +902,8 @@
                 "de": "Fahrradständer sind oft ungeschützt, Regenschutz für den Sattel nutzen.",
                 "hu": "A biciklitárolók fedetlenek, használjon nyeregmelegítőt vagy zacskót.",
                 "ro": "Suporturile de biciclete sunt descoperite, acoperiți șaua cu plastic.",
-                "en": "Bike racks are uncovered; use a saddle cover to keep your seat dry."
+                "en": "Bike racks are uncovered; use a saddle cover to keep your seat dry.",
+                "es": "Los aparca-bicicletas están descubiertos; usa una funda de sillín para mantener el asiento seco."
               }
             },
             {
@@ -855,7 +912,8 @@
                 "de": "Vorsicht auf den sandigen Wegen, diese werden bei Regen matschig.",
                 "hu": "Vigyázat a homokos utakon, esőben ezek sárossá és csúszóssá válnak.",
                 "ro": "Atenție pe potecile de nisip, acestea devin noroioase pe ploaie.",
-                "en": "Be careful on sandy paths; they can become muddy and slippery."
+                "en": "Be careful on sandy paths; they can become muddy and slippery.",
+                "es": "Cuidado en caminos de arena; pueden volverse embarrados y resbaladizos."
               }
             },
             {
@@ -864,7 +922,8 @@
                 "de": "Starker Seitenwind möglich, fest am Lenker halten.",
                 "hu": "Erős oldalszél várható, fogja szorosan a kormányt a parton.",
                 "ro": "Vânt lateral puternic posibil, țineți bine de ghidon pe faleză.",
-                "en": "Strong side winds are common on the coast; keep a firm grip."
+                "en": "Strong side winds are common on the coast; keep a firm grip.",
+                "es": "Vientos laterales fuertes son comunes en la costa; sujeta firme el manillar."
               }
             },
             {
@@ -873,7 +932,8 @@
                 "de": "Extrem rutschiges Pflaster, Absteigen und Schieben empfohlen.",
                 "hu": "Rendkívül csúszós burkolat, javasolt leszállni és tolni a bringát.",
                 "ro": "Pavaj extrem de alunecos, recomandăm să mergeți pe lângă bicicletă.",
-                "en": "Extremely slippery pavement; walking your bike is highly recommended."
+                "en": "Extremely slippery pavement; walking your bike is highly recommended.",
+                "es": "Pavimento extremadamente resbaladizo; se recomienda caminar con la bici."
               }
             },
             {
@@ -882,7 +942,8 @@
                 "de": "Die Abfahrt erfordert gute Bremsen bei nasser Fahrbahn.",
                 "hu": "A lejtőn jó fékek kellenek a vizes aszfalton, óvatosan ereszkedjen.",
                 "ro": "Coborârea necesită frâne bune pe carosabil ud, mergeți cu grijă.",
-                "en": "Descending requires good brakes on wet asphalt; take it slow."
+                "en": "Descending requires good brakes on wet asphalt; take it slow.",
+                "es": "El descenso requiere buenos frenos en asfalto mojado; baja la velocidad."
               }
             }
           ],
@@ -910,6 +971,12 @@
               "Wear a waterproof rain jacket instead of trying to hold an umbrella.",
               "Public bike grips can be slippery when wet; wear gloves if possible.",
               "Avoid deep puddles; they might hide potholes or slippery debris."
+            ],
+            "es": [
+              "Revisa bien los frenos antes del descenso desde Montjuïc.",
+              "Lleva una chaqueta impermeable en vez de intentar sujetar un paraguas.",
+              "Los puños públicos pueden volverse resbaladizos con lluvia; usa guantes si es posible.",
+              "Evita charcos profundos; pueden ocultar baches o restos resbaladizos."
             ]
           }
         },
@@ -918,7 +985,8 @@
             "de": "Ein klarer, sonniger Wintermorgen beginnt an der Sagrada Família, wo die kühle Luft die Sicht auf die Details schärft.\n\nDie Auffahrt zum Park Güell ist in der frischen Brise deutlich weniger anstrengend als im Sommer und die Wege sind angenehm leer.\n\nDie Küstenstraße an der Barceloneta bietet weite, glitzernde Horizonte und eine belebende Meeresbrise, die zum schnellen Fahren einlädt.\n\nNach einer kühlen Passage durch das schattige Gòtic erklimmen wir den Montjuïc rechtzeitig zum Sonnenuntergang gegen 17:30 Uhr.",
             "hu": "Tiszta, napos téli reggel indul a Sagrada Famíliánál, ahol a hűvös levegőben minden építészeti részlet élesen kirajzolódik.\n\nA Park Güellhez való feltekerés a friss szélben jóval kevésbé megerőltető, mint nyáron, az utak pedig kellemesen üresek.\n\nA tengerparti út Barcelonetánál ragyogó horizontot és élénkítő tengeri szellőt kínál, ami gyorsabb tempóra ösztönöz.\n\nA gótikus negyed árnyékos és hűvös utcái után a Montjuïc felé vesszük az irányt, hogy elcsípjük a naplementét 17:30 körül.",
             "ro": "O dimineață senină de iarnă începe la Sagrada Família, unde aerul rece face ca detaliile arhitecturale să pară mult mai clare.\n\nUrcarea spre Park Güell în briză proaspătă este mult mai puțin obositoare decât vara, iar aleile sunt plăcut de libere.\n\nFaleza din Barceloneta oferă orizonturi largi și sclipitoare, cu o briză marină revigorantă care te îndeamnă să pedalezi mai repede.\n\nDupă o traversare răcoroasă prin Cartierul Gotic umbrit, urcăm pe Montjuïc exact la timp pentru apusul de la ora 17:30.",
-            "en": "A bright and sunny winter morning kicks off at Sagrada Família, where the crisp air provides perfect visibility of its towers.\n\nThe climb up to Park Güell is significantly easier in the cool breeze than in summer heat, and the park paths are refreshingly uncrowded.\n\nThe coastal route at Barceloneta offers wide, sparkling horizons and a revitalizing sea breeze that invites a faster pace.\n\nAfter a cool passage through the shaded Gothic Quarter, we climb Montjuïc just in time to catch the golden winter sunset around 5:30 PM."
+            "en": "A bright and sunny winter morning kicks off at Sagrada Família, where the crisp air provides perfect visibility of its towers.\n\nThe climb up to Park Güell is significantly easier in the cool breeze than in summer heat, and the park paths are refreshingly uncrowded.\n\nThe coastal route at Barceloneta offers wide, sparkling horizons and a revitalizing sea breeze that invites a faster pace.\n\nAfter a cool passage through the shaded Gothic Quarter, we climb Montjuïc just in time to catch the golden winter sunset around 5:30 PM.",
+            "es": "Una mañana invernal brillante y soleada arranca en la Sagrada Família, donde el aire fresco ofrece perfecta visibilidad de sus torres.\n\nLa subida a Park Güell es mucho más fácil con la brisa fresca que en el calor del verano, y los senderos del parque están agradablemente poco concurridos.\n\nLa ruta costera por la Barceloneta ofrece horizontes amplios y relucientes y una brisa marina revitalizante que invita a mantener un ritmo más rápido.\n\nTras un paso fresco por el sombreado Barrio Gótico, subimos a Montjuïc justo a tiempo para coger el atardecer invernal dorado alrededor de las 17:30."
           },
           "stops": [
             {
@@ -927,7 +995,8 @@
                 "de": "Frische Brise auf dem Platz, Handschuhe beim Fahren empfohlen.",
                 "hu": "Friss szellő a téren, vezetéshez ajánlott a kesztyű.",
                 "ro": "Briză rece în piață, se recomandă mănuși pentru pedalat.",
-                "en": "Fresh breeze in the square; light gloves recommended for riding."
+                "en": "Fresh breeze in the square; light gloves recommended for riding.",
+                "es": "Brisa fresca en la plaza; se recomiendan guantes ligeros para pedalear."
               }
             },
             {
@@ -936,7 +1005,8 @@
                 "de": "Weniger Radverkehr, genießen Sie die freien Wege bergauf.",
                 "hu": "Kisebb a kerékpáros forgalom, élvezze a szabad utat felfelé.",
                 "ro": "Mai puțin trafic de biciclete, bucurați-vă de drumul liber.",
-                "en": "Less bike traffic in winter; enjoy the clear paths on the ascent."
+                "en": "Less bike traffic in winter; enjoy the clear paths on the ascent.",
+                "es": "Menos tráfico ciclista en invierno; disfruta de los carriles despejados en la subida."
               }
             },
             {
@@ -945,7 +1015,8 @@
                 "de": "Die Wintersonne ist hier am stärksten, Sonnenbrille nicht vergessen.",
                 "hu": "Itt a legerősebb a téli nap, ne felejtse el a napszemüveget.",
                 "ro": "Soarele de iarnă e puternic aici, nu uitați ochelarii de soare.",
-                "en": "Winter sun is strongest on the coast; bring your sunglasses."
+                "en": "Winter sun is strongest on the coast; bring your sunglasses.",
+                "es": "El sol invernal pega más fuerte en la costa; lleva gafas de sol."
               }
             },
             {
@@ -954,7 +1025,8 @@
                 "de": "In den engen Gassen ist es deutlich kühler als am Strand.",
                 "hu": "A szűk utcákban jóval hűvösebb van, mint a tengerparton.",
                 "ro": "Pe străzile înguste este mult mai rece decât pe plajă.",
-                "en": "The narrow alleys are significantly cooler than the beachfront."
+                "en": "The narrow alleys are significantly cooler than the beachfront.",
+                "es": "Los callejones estrechos son mucho más frescos que la zona de la playa."
               }
             },
             {
@@ -963,7 +1035,8 @@
                 "de": "Bester Spot für den frühen Sonnenuntergang gegen 17:30 Uhr.",
                 "hu": "A legjobb hely a korai, 17:30-as naplemente megtekintéséhez.",
                 "ro": "Cel mai bun loc pentru apusul timpuriu de la ora 17:30.",
-                "en": "Prime spot for the early winter sunset around 5:30 PM."
+                "en": "Prime spot for the early winter sunset around 5:30 PM.",
+                "es": "Lugar privilegiado para el temprano atardecer invernal alrededor de las 17:30."
               }
             }
           ],
@@ -991,6 +1064,12 @@
               "On clear winter days, you can often spot the Pyrenees from high points.",
               "Be mindful of early dusk; ensure your bike lights are working.",
               "Take advantage of the significantly less crowded beach bike paths."
+            ],
+            "es": [
+              "Lleva guantes para proteger los dedos del frío viento de cara.",
+              "En días despejados de invierno, a menudo se pueden avistar los Pirineos desde los puntos altos.",
+              "Ten en cuenta el anochecer temprano; comprueba que las luces de la bici funcionen.",
+              "Aprovecha los carriles de la playa, mucho menos concurridos."
             ]
           }
         }
@@ -1019,7 +1098,8 @@
             "de": "Parken Sie in der Tiefgarage unter dem Platz.",
             "hu": "Parkolj a tér alatti mélygarázsban.",
             "ro": "Parcați în garajul subteran de sub piață.",
-            "en": "Park in the underground garage under the square."
+            "en": "Park in the underground garage under the square.",
+            "es": "Aparca en el garaje subterráneo bajo la plaza."
           }
         },
         {
@@ -1037,7 +1117,8 @@
             "de": "Fußweg von der Plaça de Catalunya.",
             "hu": "Gyalog a Plaça de Catalunyától.",
             "ro": "Drum pe jos de la Plaça de Catalunya.",
-            "en": "Walk from Plaça de Catalunya."
+            "en": "Walk from Plaça de Catalunya.",
+            "es": "Camina desde la Plaça de Catalunya."
           }
         },
         {
@@ -1055,7 +1136,8 @@
             "de": "Kurzer Fußweg vom gotischen Viertel.",
             "hu": "Rövid séta a gótikus negyedből.",
             "ro": "Scurtă plimbare de la cartierul gotic.",
-            "en": "Short walk from the Gothic Quarter."
+            "en": "Short walk from the Gothic Quarter.",
+            "es": "A poca distancia del Barrio Gótico."
           }
         },
         {
@@ -1073,7 +1155,8 @@
             "de": "Von der Kathedrale aus südwestlich gehen.",
             "hu": "A katedrálistól délnyugatra sétálj.",
             "ro": "Mergeți spre sud-vest de la catedrală.",
-            "en": "Walk southwest from the cathedral."
+            "en": "Walk southwest from the cathedral.",
+            "es": "Camina hacia el suroeste desde la catedral."
           }
         },
         {
@@ -1091,7 +1174,8 @@
             "de": "Parken am Schlossplatz.",
             "hu": "Parkolj a vár téren.",
             "ro": "Parcați în piața castelului.",
-            "en": "Park at the castle square."
+            "en": "Park at the castle square.",
+            "es": "Aparca en la plaza del castillo."
           }
         },
         {
@@ -1109,7 +1193,8 @@
             "de": "Schöner Spaziergang durch den Skulpturenpark.",
             "hu": "Szép séta a szoborparkban.",
             "ro": "Plimbare frumoasă prin parcul de sculpturi.",
-            "en": "Nice walk through the sculpture park."
+            "en": "Nice walk through the sculpture park.",
+            "es": "Bonito paseo por el parque de esculturas."
           }
         },
         {
@@ -1127,7 +1212,8 @@
             "de": "Parken in der Nähe des Strandes (kostenpflichtig).",
             "hu": "Parkolj a strand közelében (fizetős).",
             "ro": "Parcați lângă plajă (cu plată).",
-            "en": "Park near the beach (paid)."
+            "en": "Park near the beach (paid).",
+            "es": "Aparca cerca de la playa (de pago)."
           }
         },
         {
@@ -1145,7 +1231,8 @@
             "de": "Direkt am Strand, fangfrischer Fisch.",
             "hu": "Közvetlenül a parton, friss hal.",
             "ro": "Direct pe plajă, pește proaspăt.",
-            "en": "Right on the beach, fresh fish."
+            "en": "Right on the beach, fresh fish.",
+            "es": "Justo en la playa, pescado fresco."
           }
         }
       ],
@@ -1153,7 +1240,8 @@
         "de": "Der Morgen startet im Zentrum: Plaça de Catalunya, gotisches Viertel, Kathedrale und Markt – alles zu Fuß erreichbar. Dann fahren Sie mit dem Auto zum Montjuïc für Aussicht und Park. Der Nachmittag gehört dem Strand von Barceloneta, wo Sie den Sonnenuntergang und Paella genießen.",
         "hu": "A reggel a központban indul: Plaça de Catalunya, gótikus negyed, katedrális és piac – mind gyalog elérhető. Aztán autóval a Montjuïc-ra kilátásért és parkért. A délután a Barceloneta strandé, ahol naplementét és paellát élvezhet.",
         "ro": "Dimineața începe în centru: Plaça de Catalunya, cartierul gotic, catedrala și piața – totul accesibil pe jos. Apoi cu mașina la Montjuïc pentru vedere și parc. După-amiaza este pentru plaja Barceloneta, unde vă bucurați de apus și paella.",
-        "en": "Morning starts in the center: Plaça de Catalunya, Gothic Quarter, cathedral, and market – all walkable. Then drive to Montjuïc for views and park. Afternoon belongs to Barceloneta beach, where you enjoy sunset and paella."
+        "en": "Morning starts in the center: Plaça de Catalunya, Gothic Quarter, cathedral, and market – all walkable. Then drive to Montjuïc for views and park. Afternoon belongs to Barceloneta beach, where you enjoy sunset and paella.",
+        "es": "La mañana empieza en el centro: Plaça de Catalunya, Barrio Gótico, catedral y mercado, todo a pie. Luego conduce hasta Montjuïc para vistas y parque. La tarde pertenece a la playa de la Barceloneta, donde disfrutas del atardecer y una paella."
       },
       "gastro_picks": {
         "de": [
@@ -1349,6 +1437,12 @@
           "Don't drive into the old town.",
           "Combine car and walking.",
           "Book parking spots online."
+        ],
+        "es": [
+          "Aparca en las afueras o en parkings.",
+          "No entres en coche en el casco antiguo.",
+          "Combina coche y paseo a pie.",
+          "Reserva plazas de aparcamiento online."
         ]
       },
       "variants": {
@@ -1357,7 +1451,8 @@
             "de": "An Regentagen ist das Auto der ideale Rückzugsort, um Barcelona trocken zu erkunden, beginnend an der Sagrada Família.\n\nDie Auffahrt zum Park Güell führt durch graue Alleen, wobei der Park im Nebel eine fast mystische Aura bekommt.\n\nDie serpentinenreiche Fahrt zum Tibidabo führt Sie mitten durch die tief hängenden Wolken, was die Aussicht auf die Stadt zu einem seltenen Erlebnis macht.\n\nNach einem Abstecher über den Montjuïc endet der Tag an der Barceloneta, wo Sie das stürmische Meer gemütlich aus dem beheizten Wagen beobachten können.",
             "hu": "Esős napokon az autó a legkényelmesebb menedék, amivel szárazon járhatjuk körbe a várost, indulva a Sagrada Famíliától.\n\nA Park Güell felé vezető út szürke fasorokon visz át, maga a park pedig a ködben szinte misztikus arcát mutatja.\n\nA Tibidabo felé vezető kanyargós út során áthaladunk az alacsony felhőkön, ami ritka és különleges vizuális élményt nyújt.\n\nA Montjuïc érintése után a tengerparton, Barcelonetánál zárjuk a napot, a fűtött utastérből figyelve a háborgó tengert.",
             "ro": "În zilele ploioase, mașina este refugiul ideal pentru a explora Barcelona la adăpost, începând de la Sagrada Família.\n\nUrcarea spre Park Güell prin bulevardele gri dezvăluie un parc învăluit în ceață, având o aură aproape mistică.\n\nDrumul sinuos spre Tibidabo vă duce chiar prin norii joși, oferind o perspectivă rară și captivantă asupra orașului de jos.\n\nDupă o oprire pe Montjuïc, încheiați ziua la Barceloneta, unde puteți privi marea agitată din confortul cald al mașinii.",
-            "en": "On rainy days, your car is the perfect sanctuary for exploring Barcelona in comfort, starting dry at Sagrada Família.\n\nThe drive up to Park Güell follows grey, rain-slicked avenues, where the park takes on an almost mystical aura in the mist.\n\nThe winding road to Tibidabo takes you right through the low-hanging clouds, turning the city view into a rare and moody spectacle.\n\nAfter a detour via Montjuïc, end your day at Barceloneta, watching the stormy sea from the warmth of your heated cabin."
+            "en": "On rainy days, your car is the perfect sanctuary for exploring Barcelona in comfort, starting dry at Sagrada Família.\n\nThe drive up to Park Güell follows grey, rain-slicked avenues, where the park takes on an almost mystical aura in the mist.\n\nThe winding road to Tibidabo takes you right through the low-hanging clouds, turning the city view into a rare and moody spectacle.\n\nAfter a detour via Montjuïc, end your day at Barceloneta, watching the stormy sea from the warmth of your heated cabin.",
+            "es": "En días lluviosos, tu coche es el refugio perfecto para explorar Barcelona con comodidad, empezando seco en la Sagrada Família.\n\nLa subida hacia el Park Güell sigue avenidas grisáceas y resbaladizas por la lluvia, donde el parque adquiere un aura casi mística entre la niebla.\n\nLa carretera serpenteante hacia el Tibidabo te atraviesa las nubes bajas, convirtiendo la vista de la ciudad en un espectáculo raro y melancólico.\n\nTras un desvío por Montjuïc, termina el día en la Barceloneta, contemplando el mar tormentoso desde el calor de tu habitáculo calefactado."
           },
           "stops": [
             {
@@ -1366,7 +1461,8 @@
                 "de": "Tiefgarage in der Nähe nutzen, um trocken zum Eingang zu kommen.",
                 "hu": "Használja a közeli mélygarázst, hogy szárazon jusson a bejárathoz.",
                 "ro": "Folosiți parcarea subterană din apropiere pentru a rămâne uscat.",
-                "en": "Use nearby underground parking to stay dry until the entrance."
+                "en": "Use nearby underground parking to stay dry until the entrance.",
+                "es": "Usa los aparcamientos subterráneos cercanos para mantenerte seco hasta la entrada."
               }
             },
             {
@@ -1375,7 +1471,8 @@
                 "de": "Parken am Haupteingang schwierig, nutzen Sie den Bus-Parkplatz.",
                 "hu": "A főbejáratnál nehéz parkolni, használja a kijelölt buszos zónát.",
                 "ro": "Parcarea la intrarea principală e grea, folosiți zona de sus.",
-                "en": "Parking near the main gate is tough; try the upper designated lots."
+                "en": "Parking near the main gate is tough; try the upper designated lots.",
+                "es": "Aparcar cerca de la puerta principal es difícil; prueba los estacionamientos designados superiores."
               }
             },
             {
@@ -1384,7 +1481,8 @@
                 "de": "Vorsicht auf den Serpentinen, die Fahrbahn kann rutschig sein.",
                 "hu": "Vigyázat a szerpentineken, az úttest csúszós és ködös lehet.",
                 "ro": "Atenție la serpentine, carosabilul poate fi foarte alunecos.",
-                "en": "Careful on the switchbacks; the road can be slippery and foggy."
+                "en": "Careful on the switchbacks; the road can be slippery and foggy.",
+                "es": "Cuidado en las curvas cerradas; la carretera puede estar resbaladiza y con niebla."
               }
             },
             {
@@ -1393,7 +1491,8 @@
                 "de": "Gute Parkmöglichkeiten beim Schloss, auch bei Regen.",
                 "hu": "Jó parkolási lehetőség a várnál, esőben is kényelmesen elérhető.",
                 "ro": "Locuri bune de parcare la castel, accesibile ușor pe ploaie.",
-                "en": "Good parking spots near the castle, easy to access even in rain."
+                "en": "Good parking spots near the castle, easy to access even in rain.",
+                "es": "Buenos sitios de aparcamiento cerca del castillo, fáciles de acceder incluso con lluvia."
               }
             },
             {
@@ -1402,7 +1501,8 @@
                 "de": "Parkhäuser am Hafen bieten Schutz vor der Gischt.",
                 "hu": "A kikötői parkolóházak védenek a sós tengeri permettől.",
                 "ro": "Parcările acoperite din port vă feresc de vaporii de sare.",
-                "en": "Covered parking structures at the port keep your car salt-free."
+                "en": "Covered parking structures at the port keep your car salt-free.",
+                "es": "Las estructuras de parking cubiertas en el puerto mantienen tu coche sin salitre."
               }
             }
           ],
@@ -1430,6 +1530,12 @@
               "Visibility from Tibidabo can be near zero if the clouds are low.",
               "Opt for multi-story parking garages instead of street-side spots.",
               "Watch out for window fogging due to high coastal humidity levels."
+            ],
+            "es": [
+              "Espera tráfico y congestión significativamente mayores en el centro.",
+              "La visibilidad desde el Tibidabo puede ser casi nula si las nubes están bajas.",
+              "Opta por aparcamientos en altura en vez de plazas en la calle.",
+              "Cuidado con el empañamiento de las ventanillas por la alta humedad costera."
             ]
           }
         },
@@ -1438,7 +1544,8 @@
             "de": "Ein strahlender Wintermorgen an der Sagrada Família beginnt mit der perfekten Temperatur im Wageninneren.\n\nDie Fahrt hinauf zum Park Güell bietet bei der klaren Winterluft Fernblicke bis weit über das Mittelmeer hinaus.\n\nDer Weg zum Tibidabo ist im Winter ein Highlight, da man oft die schneebedeckten Gipfel der Pyrenäen am Horizont glitzern sieht.\n\nÜber den Montjuïc geht es zum Abendessen an die Barceloneta, während draußen die kühle Meeresbrise weht und die Stadt in festlichem Licht erstrahlt.",
             "hu": "Ragyogó téli reggel a Sagrada Famíliánál, ahol az autóban beállított kellemes meleg várja az utazást.\n\nA Park Güellhez való felhajtás során a tiszta téli levegőben ellátni egészen a Földközi-tenger távoli horizontjáig.\n\nA Tibidabo felé vezető út télen különleges, mivel gyakran látni a Pireneusok havas csúcsait a távolban.\n\nA Montjuïc érintésével érkezünk a tengerpartra a hűvös esti szélben, miközben a város már ünnepi fényekben úszik.",
             "ro": "O dimineață senină de iarnă la Sagrada Família începe cu temperatura perfectă setată în habitaclu.\n\nUrcarea spre Park Güell oferă, datorită aerului clar de iarnă, vederi panoramice spectaculoase până departe peste Mediterană.\n\nDrumul spre Tibidabo este un punct culminant iarna, oferind adesea șansa de a vedea culmile înzăpezite ale Pirineilor la orizont.\n\nCoborâm pe Montjuïc spre faleză pentru cină, în timp ce briza rece a mării aduce un aer proaspăt peste orașul iluminat festiv.",
-            "en": "A brilliant winter morning at Sagrada Família starts with perfect climate control inside your vehicle.\n\nThe drive up to Park Güell rewards you with long-distance views across the Mediterranean, made possible by the crystal-clear winter air.\n\nThe ascent to Tibidabo is a winter highlight, as you can often spot the snowy Pyrenees peaks glistening on the northern horizon.\n\nWind down via Montjuïc to the coast for dinner, as the cool sea breeze sets in and the city lights sparkle in the crisp evening air."
+            "en": "A brilliant winter morning at Sagrada Família starts with perfect climate control inside your vehicle.\n\nThe drive up to Park Güell rewards you with long-distance views across the Mediterranean, made possible by the crystal-clear winter air.\n\nThe ascent to Tibidabo is a winter highlight, as you can often spot the snowy Pyrenees peaks glistening on the northern horizon.\n\nWind down via Montjuïc to the coast for dinner, as the cool sea breeze sets in and the city lights sparkle in the crisp evening air.",
+            "es": "Una mañana invernal brillante en la Sagrada Família comienza con el control climático perfecto dentro de tu vehículo.\n\nLa conducción hasta el Park Güell te recompensa con vistas de larga distancia sobre el Mediterráneo, posibles gracias al aire invernal cristalino.\n\nEl ascenso al Tibidabo es un punto clave del invierno, ya que a menudo se pueden ver los picos nevados de los Pirineos brillando en el horizonte norte.\n\nRelájate pasando por Montjuïc hasta la costa para cenar, cuando la fresca brisa marina entra y las luces de la ciudad brillan en el aire nocturno."
           },
           "stops": [
             {
@@ -1447,7 +1554,8 @@
                 "de": "Klare Sicht auf die Details der Fassade im tiefen Sonnenstand.",
                 "hu": "Tiszta rálátás a homlokzat részleteire az alacsony napállásnál.",
                 "ro": "Vedere clară a detaliilor fațadei sub soarele jos de iarnă.",
-                "en": "Crystal clear views of facade details in the low winter sun."
+                "en": "Crystal clear views of facade details in the low winter sun.",
+                "es": "Vistas nítidas de los detalles de las fachadas con el bajo sol invernal."
               }
             },
             {
@@ -1456,7 +1564,8 @@
                 "de": "Parkplätze sind im Winter leichter zu finden, nutzen Sie die Nähe.",
                 "hu": "Télen könnyebb parkolót találni, használja ki a közeli helyeket.",
                 "ro": "Locuri bune de parcare la castel, parcați aproape iarna.",
-                "en": "Parking spots are easier to find in winter; park as close as possible."
+                "en": "Parking spots are easier to find in winter; park as close as possible.",
+                "es": "Los aparcamientos son más fáciles de encontrar en invierno; aparca lo más cerca posible."
               }
             },
             {
@@ -1465,7 +1574,8 @@
                 "de": "Bester Zeitpunkt für Fotos der fernen Pyrenäen.",
                 "hu": "A legjobb időpont a távoli Pireneusok fotózásához.",
                 "ro": "Cel mai bun moment pentru poze cu Pirineii din depărtare.",
-                "en": "The absolute best time for photos of the distant Pyrenees."
+                "en": "The absolute best time for photos of the distant Pyrenees.",
+                "es": "El mejor momento para fotos de los Pirineos distantes."
               }
             },
             {
@@ -1474,7 +1584,8 @@
                 "de": "Die Burgmauern sind im Winter windanfällig, warm anziehen.",
                 "hu": "A várfalaknál télen erős lehet a szél, öltözzön fel melegen.",
                 "ro": "Zidurile castelului pot fi expuse vântului, îmbrăcați-vă gros.",
-                "en": "The castle walls are very windy in winter; keep your coat on."
+                "en": "The castle walls are very windy in winter; keep your coat on.",
+                "es": "Los muros del castillo son muy ventosos en invierno; mantén tu abrigo puesto."
               }
             },
             {
@@ -1483,7 +1594,8 @@
                 "de": "Genießen Sie den Sonnenuntergang bequem vom Auto aus.",
                 "hu": "Élvezze a naplementét kényelmesen, az autó melegéből.",
                 "ro": "Bucurați-vă de apus confortabil, din interiorul cald al mașinii.",
-                "en": "Enjoy the winter sunset comfortably from the warmth of your car."
+                "en": "Enjoy the winter sunset comfortably from the warmth of your car.",
+                "es": "Disfruta del atardecer invernal cómodamente desde el calor de tu coche."
               }
             }
           ],
@@ -1511,6 +1623,12 @@
               "Take advantage of the clear skies for sweeping city panoramas.",
               "Watch for icy patches on higher roads after rare frosty nights.",
               "Parking fees are sometimes reduced or easier to manage off-season."
+            ],
+            "es": [
+              "Las curvas hacia el Tibidabo suelen estar sombreadas y frías en invierno.",
+              "Aprovecha los cielos despejados para panorámicas amplias de la ciudad.",
+              "Atento a placas de hielo en carreteras altas tras raras noches de helada.",
+              "Las tarifas de estacionamiento a veces se reducen o son más fáciles de gestionar fuera de temporada."
             ]
           }
         }
@@ -1539,7 +1657,8 @@
             "de": "Hier beginnen viele Metrolinien.",
             "hu": "Itt indul több metróvonal.",
             "ro": "Aici încep multe linii de metrou.",
-            "en": "Many metro lines start here."
+            "en": "Many metro lines start here.",
+            "es": "Muchas líneas de metro parten desde aquí."
           }
         },
         {
@@ -1557,7 +1676,8 @@
             "de": "Frühmorgens am besten besuchen.",
             "hu": "Legjobb reggel meglátogatni.",
             "ro": "Cel mai bine de vizitat dimineața devreme.",
-            "en": "Best to visit early morning."
+            "en": "Best to visit early morning.",
+            "es": "Mejor visitar a primera hora de la mañana."
           }
         },
         {
@@ -1575,7 +1695,8 @@
             "de": "Eintritt zu den Dächern nicht verpassen.",
             "hu": "Ne hagyd ki a tetőkre vezető bejáratot.",
             "ro": "Nu ratați intrarea pe acoperișuri.",
-            "en": "Don't miss the roof access."
+            "en": "Don't miss the roof access.",
+            "es": "No te pierdas el acceso a la azotea."
           }
         },
         {
@@ -1593,7 +1714,8 @@
             "de": "Verlieren Sie sich in den Gassen.",
             "hu": "Tévedj el az utcákban.",
             "ro": "Rătăciți-vă pe străzi.",
-            "en": "Get lost in the alleys."
+            "en": "Get lost in the alleys.",
+            "es": "Piérdete por los callejones."
           }
         },
         {
@@ -1611,7 +1733,8 @@
             "de": "U-Bahn-Station Liceu (L3) oder Bus 120.",
             "hu": "Metró Liceu (L3) vagy 120-as busz.",
             "ro": "Stația de metrou Liceu (L3) sau autobuzul 120.",
-            "en": "Metro Liceu (L3) or bus 120."
+            "en": "Metro Liceu (L3) or bus 120.",
+            "es": "Metro Liceu (L3) o autobús 120."
           }
         },
         {
@@ -1629,7 +1752,8 @@
             "de": "Ticket online kaufen für den monumental Bereich.",
             "hu": "Vegyél jegyet online a monumentális részre.",
             "ro": "Cumpărați bilet online pentru zona monumentală.",
-            "en": "Buy ticket online for the monumental area."
+            "en": "Buy ticket online for the monumental area.",
+            "es": "Compra la entrada en línea para el área monumental."
           }
         },
         {
@@ -1647,7 +1771,8 @@
             "de": "Gaudís erstes Haus, weniger überlaufen.",
             "hu": "Gaudí első háza, kevésbé zsúfolt.",
             "ro": "Prima casă a lui Gaudí, mai puțin aglomerată.",
-            "en": "Gaudí's first house, less crowded."
+            "en": "Gaudí's first house, less crowded.",
+            "es": "La primera casa de Gaudí, con menos aglomeraciones."
           }
         },
         {
@@ -1665,7 +1790,8 @@
             "de": "Bus 24 direkt zum Strand.",
             "hu": "24-es busz közvetlenül a strandra.",
             "ro": "Autobuzul 24 direct la plajă.",
-            "en": "Bus 24 direct to the beach."
+            "en": "Bus 24 direct to the beach.",
+            "es": "Autobús 24 directo a la playa."
           }
         },
         {
@@ -1683,7 +1809,8 @@
             "de": "Lokale Spezialität: Fideuà.",
             "hu": "Helyi specialitás: Fideuà.",
             "ro": "Specialitate locală: Fideuà.",
-            "en": "Local specialty: Fideuà."
+            "en": "Local specialty: Fideuà.",
+            "es": "Especialidad local: Fideuà."
           }
         }
       ],
@@ -1691,7 +1818,8 @@
         "de": "Der Tag beginnt zentral: Plaça de Catalunya, Markt, Kathedrale und Gotisches Viertel zu Fuß. Mit der Metro geht es zum Picasso-Museum, dann weiter nach Park Güell und Casa Vicens. Der späte Nachmittag gehört dem Strand – mit dem Bus leicht erreichbar.",
         "hu": "A nap központilag indul: Plaça de Catalunya, piac, katedrális és gótikus negyed gyalog. Metróval a Picasso Múzeum, majd Park Güell és Casa Vicens. A késő délután a strandé – busszal könnyen elérhető.",
         "ro": "Ziua începe central: Plaça de Catalunya, piața, catedrala și cartierul gotic pe jos. Cu metroul la Muzeul Picasso, apoi Parcul Güell și Casa Vicens. După-amiaza târzie este pentru plajă – accesibil cu autobuzul.",
-        "en": "Day starts centrally: Plaça de Catalunya, market, cathedral, and Gothic Quarter on foot. Metro to Picasso Museum, then Park Güell and Casa Vicens. Late afternoon is for the beach – easily reached by bus."
+        "en": "Day starts centrally: Plaça de Catalunya, market, cathedral, and Gothic Quarter on foot. Metro to Picasso Museum, then Park Güell and Casa Vicens. Late afternoon is for the beach – easily reached by bus.",
+        "es": "El día comienza en el centro: Plaça de Catalunya, mercado, catedral y Barri Gòtic a pie. Metro al Museo Picasso, luego Park Güell y Casa Vicens. La tarde es para la playa, fácilmente accesible en autobús."
       },
       "gastro_picks": {
         "de": [
@@ -1887,6 +2015,12 @@
           "Check late evening schedules.",
           "Wear comfortable shoes for walking.",
           "Metro stations are within 10 min."
+        ],
+        "es": [
+          "Compra una tarjeta T10 para el metro.",
+          "Consulta los horarios de tarde-noche.",
+          "Lleva calzado cómodo para caminar.",
+          "Las estaciones de metro están a menos de 10 minutos."
         ]
       },
       "variants": {
@@ -1895,7 +2029,8 @@
             "de": "Die Metro bringt Sie trocken direkt vor die Sagrada Família, wo Sie die Architektur ohne Regenkontakt bewundern können.\n\nEin kurzer Bus-Transfer bringt Sie zum Park Güell; nutzen Sie dort die steinernen Säulengänge als weitläufigen, trockenen Unterstand.\n\nNachmittags bietet die Casa Milà ein warmes, kulturelles Obdach, das nur wenige Schritte von der nächsten Metro-Station entfernt ist.\n\nDurch das nasse Barri Gòtic erreichen Sie schnell die Funicular de Montjuïc, die Sie komplett überdacht zum Gipfel bringt, während draußen der Regen fällt.",
             "hu": "A metró szárazon repít egészen a Sagrada Família bejáratáig, ahol esőmentesen csodálhatja meg az épületet.\n\nEgy rövid buszos átszállással juthat el a Park Güellhez; ott a kőoszlopos folyosók nyújtanak tágas és száraz menedéket.\n\nDélután a Casa Milà meleg kulturális oázisként várja, alig pár lépésre a legközelebbi metróállomástól.\n\nA vizes gótikus negyeden átgyalogolva hamar eléri a Montjuïc siklót, ami teljesen fedett utat biztosít a hegytetőre.",
             "ro": "Metroul vă duce la adăpost direct în fața Sagrada Família, permițându-vă să admirați exteriorul fără să vă udați.\n\nUn scurt transfer cu autobuzul vă lasă la Park Güell; folosiți coloanele de piatră ca pe un adăpost vast și uscat.\n\nDupă-amiaza, Casa Milà oferă un refugiu cultural cald, situat la doar câțiva pași de stația de metrou.\n\nTraversând rapid Cartierul Gotic, ajungeți la Funicularul de Montjuïc, care vă transportă complet acoperit spre culme în timp ce afară plouă.",
-            "en": "The Metro whisks you dry right to the foot of Sagrada Família, allowing you to admire the structure with minimal rain exposure.\n\nA quick bus transfer takes you to Park Güell, where the massive stone colonnades serve as an ideal and dry place to explore.\n\nIn the afternoon, Casa Milà provides a warm cultural escape just a few steps away from the underground Metro entrance.\n\nA dash through the rainy Gothic Quarter leads you to the Montjuïc Funicular, which provides a completely covered ascent while the rain falls outside."
+            "en": "The Metro whisks you dry right to the foot of Sagrada Família, allowing you to admire the structure with minimal rain exposure.\n\nA quick bus transfer takes you to Park Güell, where the massive stone colonnades serve as an ideal and dry place to explore.\n\nIn the afternoon, Casa Milà provides a warm cultural escape just a few steps away from the underground Metro entrance.\n\nA dash through the rainy Gothic Quarter leads you to the Montjuïc Funicular, which provides a completely covered ascent while the rain falls outside.",
+            "es": "El Metro te lleva seco hasta los pies de la Sagrada Família, permitiéndote admirar la estructura con mínima exposición a la lluvia.\n\nUn traslado rápido en bus te lleva al Park Güell, donde las masivas columnatas de piedra sirven como un lugar ideal y seco para explorar.\n\nPor la tarde, Casa Milà ofrece un cálido escape cultural a solo unos pasos de la entrada del Metro subterráneo.\n\nUna carrera por el lluvioso Barri Gòtic te conduce al Funicular de Montjuïc, que proporciona un ascenso completamente cubierto mientras la lluvia cae afuera."
           },
           "stops": [
             {
@@ -1904,7 +2039,8 @@
                 "de": "Direkter Metro-Ausgang vor der Kirche, kaum Regenkontakt.",
                 "hu": "A metrókijárat közvetlenül a templomnál van, alig érheti eső.",
                 "ro": "Ieșire de metrou chiar în fața bisericii, contact minim cu ploaia.",
-                "en": "Metro exit is right in front of the church; minimal rain exposure."
+                "en": "Metro exit is right in front of the church; minimal rain exposure.",
+                "es": "La salida del metro está justo delante de la iglesia; exposición a la lluvia mínima."
               }
             },
             {
@@ -1913,7 +2049,8 @@
                 "de": "Der Bus 24 hält nah am Eingang, minimiert die Gehzeit im Regen.",
                 "hu": "A 24-es busz közel áll meg a bejárathoz, kevés gyaloglás kell.",
                 "ro": "Autobuzul 24 oprește aproape de intrare, minimizând mersul prin ploaie.",
-                "en": "Bus 24 stops very close to the gate, minimizing your time in the rain."
+                "en": "Bus 24 stops very close to the gate, minimizing your time in the rain.",
+                "es": "El autobús 24 para muy cerca de la puerta, minimizando tu tiempo bajo la lluvia."
               }
             },
             {
@@ -1922,7 +2059,8 @@
                 "de": "U-Bahn Station Diagonal ist nur zwei Minuten zu Fuß entfernt.",
                 "hu": "A Diagonal metróállomás mindössze két perc sétára található.",
                 "ro": "Stația de metrou Diagonal este la doar două minute de mers pe jos.",
-                "en": "Diagonal Metro station is just a two-minute walk from the entrance."
+                "en": "Diagonal Metro station is just a two-minute walk from the entrance.",
+                "es": "La estación Diagonal está a solo dos minutos a pie de la entrada."
               }
             },
             {
@@ -1931,7 +2069,8 @@
                 "de": "Nutzen Sie die Metro-Unterführungen als Abkürzung.",
                 "hu": "Használja a metró aluljáróit rövidítésnek és menedéknek.",
                 "ro": "Folosiți pasajele de la metrou ca scurtături și adăpost.",
-                "en": "Use the Metro underground passages as shortcuts and shelter."
+                "en": "Use the Metro underground passages as shortcuts and shelter.",
+                "es": "Usa los pasillos subterráneos del metro como atajos y refugio."
               }
             },
             {
@@ -1940,7 +2079,8 @@
                 "de": "Die Funicular ist komplett überdacht und trocken.",
                 "hu": "A sikló (Funicular) teljesen fedett és száraz utazást biztosít.",
                 "ro": "Funicularul este complet acoperit și oferă o călătorie uscată.",
-                "en": "The Funicular is fully covered and provides a dry ride up the hill."
+                "en": "The Funicular is fully covered and provides a dry ride up the hill.",
+                "es": "El Funicular está totalmente cubierto y ofrece un trayecto seco cuesta arriba."
               }
             }
           ],
@@ -1968,6 +2108,12 @@
               "Buy a T-Casual card at the machines to save time and money.",
               "Buses get crowded during rain; allow for some extra waiting time.",
               "The Montjuïc Funicular is included in the standard integrated ticket."
+            ],
+            "es": [
+              "Las escaleras de la estación de metro pueden estar extremadamente resbaladizas cuando están húmedas; usa el pasamanos.",
+              "Compra una tarjeta T-Casual en las máquinas para ahorrar tiempo y dinero.",
+              "Los autobuses se llenan con lluvia; contempla algo de tiempo de espera extra.",
+              "El Funicular de Montjuïc está incluido en el billete integrado estándar."
             ]
           }
         },
@@ -1976,7 +2122,8 @@
             "de": "Der Wintertag beginnt gemütlich in der warmen Metro auf dem Weg zur Sagrada Família, wo die Morgenluft erfrischend ist.\n\nDer Bus bringt Sie bequem hinauf zum Park Güell, wo Sie die klare Wintersonne genießen können, die den Park in helles Licht taucht.\n\nIn der Casa Milà können Sie sich bei einer Tasse Kaffee im modernistischen Ambiente aufwärmen, bevor es in das belebte Gòtic geht.\n\nZum Abschluss bringt Sie die Funicular de Montjuïc rechtzeitig zum Sonnenuntergang auf den Berg, um das Lichtermeer der Stadt zu bewundern.",
             "hu": "A téli nap kényelmesen indul a fűtött metrón a Sagrada Família felé, ahol a reggeli levegő frissítően hat.\n\nA busz kényelmesen repít fel a Park Güellhez, ahol a tiszta téli napfény ragyogóvá varázsolja a színes mozaikokat.\n\nA Casa Milà épületében egy meleg kávé mellett pihenhet meg a modernista környezetben, mielőtt belevetné magát a gótikus negyedbe.\n\nZárásként a Montjuïc siklóval juthat fel a hegyre pontosan a naplementére, hogy megcsodálja a város esti fényeit.",
             "ro": "Ziua de iarnă începe confortabil în metroul cald spre Sagrada Família, unde aerul dimineții este revigorant.\n\nAutobuzul vă duce comod la Park Güell, permițându-vă să vă bucurați de soarele clar de iarnă care luminează mozaicurile parcului.\n\nLa Casa Milà, vă puteți încălzi cu o cafea în ambianța modernistă înainte de a explora Cartierul Gotic plin de viață.\n\nLa final, Funicularul de Montjuïc vă urcă pe munte exact la timp pentru apus, oferind o panoramă sclipitoare asupra orașului.",
-            "en": "Your winter day begins comfortably inside the heated Metro on the way to Sagrada Família, where the morning air is crisp and fresh.\n\nThe bus whisks you easily up to Park Güell, where you can soak in the brilliant winter sunlight reflecting off the colorful mosaics.\n\nWarm up inside the artistic walls of Casa Milà with a coffee before heading into the bustling, festive streets of the Gothic Quarter.\n\nTo finish, take the Montjuïc Funicular up the hill just in time for sunset to watch the city lights flicker to life far below."
+            "en": "Your winter day begins comfortably inside the heated Metro on the way to Sagrada Família, where the morning air is crisp and fresh.\n\nThe bus whisks you easily up to Park Güell, where you can soak in the brilliant winter sunlight reflecting off the colorful mosaics.\n\nWarm up inside the artistic walls of Casa Milà with a coffee before heading into the bustling, festive streets of the Gothic Quarter.\n\nTo finish, take the Montjuïc Funicular up the hill just in time for sunset to watch the city lights flicker to life far below.",
+            "es": "Tu día invernal comienza cómodamente dentro del Metro climatizado en camino a la Sagrada Família, donde el aire matinal es fresco y nítido.\n\nEl autobús te lleva fácilmente hasta el Park Güell, donde puedes empaparte del brillante sol invernal reflejado en los coloridos mosaicos.\n\nRecalienta con un café dentro de las paredes artísticas de Casa Milà antes de dirigirte a las bulliciosas y festivas calles del Barri Gòtic.\n\nPara terminar, sube en el Funicular de Montjuïc justo a tiempo para el atardecer y ver las luces de la ciudad encenderse abajo."
           },
           "stops": [
             {
@@ -1985,7 +2132,8 @@
                 "de": "In den Metro-Stationen ist es angenehm warm, ideal zum Warten.",
                 "hu": "A metróállomásokon kellemes meleg van, ideális várakozáshoz.",
                 "ro": "În stațiile de metrou este plăcut și cald, ideal pentru așteptare.",
-                "en": "Metro stations are pleasantly warm compared to the outside air."
+                "en": "Metro stations are pleasantly warm compared to the outside air.",
+                "es": "Las estaciones de metro están agradablemente cálidas en comparación con el aire exterior."
               }
             },
             {
@@ -1994,7 +2142,8 @@
                 "de": "Nutzen Sie den Bus 24 ab Passeig de Gràcia für eine warme Fahrt.",
                 "hu": "Használja a 24-es buszt a Passeig de Gràciától a kényelemért.",
                 "ro": "Luați autobuzul 24 de la Passeig de Gràcia pentru un drum cald.",
-                "en": "Take Bus 24 from Passeig de Gràcia for a warm and scenic ride."
+                "en": "Take Bus 24 from Passeig de Gràcia for a warm and scenic ride.",
+                "es": "Toma el autobús 24 desde Passeig de Gràcia para un trayecto cálido y pintoresco."
               }
             },
             {
@@ -2003,7 +2152,8 @@
                 "de": "Nach der Tour im Museum ist ein heißer Kaffee im Café zu empfehlen.",
                 "hu": "A múzeumlátogatás után javasolt egy forró kávé a belső kávézóban.",
                 "ro": "După vizita la muzeu, se recomandă o cafea caldă în cafenea.",
-                "en": "After the museum tour, a hot coffee in the on-site cafe is a must."
+                "en": "After the museum tour, a hot coffee in the on-site cafe is a must.",
+                "es": "Tras la visita al museo, un café caliente en la cafetería es indispensable."
               }
             },
             {
@@ -2012,7 +2162,8 @@
                 "de": "Abends oft festlich beleuchtet, genießen Sie die Stimmung.",
                 "hu": "Este gyakran ünnepi fényekben úszik, élvezze a hangulatot.",
                 "ro": "Adesea iluminat festiv seara, bucurați-vă de atmosferă.",
-                "en": "Often festively lit in the evenings; enjoy the winter charm."
+                "en": "Often festively lit in the evenings; enjoy the winter charm.",
+                "es": "A menudo iluminado festivamente por las noches; disfruta del encanto invernal."
               }
             },
             {
@@ -2021,7 +2172,8 @@
                 "de": "Die Funicular fährt alle 10 Minuten, perfekt getaktet für das Licht.",
                 "hu": "A sikló 10 percenként jár, tökéletes az esti fények eléréséhez.",
                 "ro": "Funicularul circulă la fiecare 10 minute, perfect pentru apus.",
-                "en": "The Funicular runs every 10 minutes; perfectly timed for sunset."
+                "en": "The Funicular runs every 10 minutes; perfectly timed for sunset.",
+                "es": "El Funicular funciona cada 10 minutos; perfectamente sincronizado para el atardecer."
               }
             }
           ],
@@ -2049,6 +2201,12 @@
               "Plan your trips to arrive at outdoor spots before the early sunset.",
               "Public transport is noticeably less crowded during the winter months.",
               "Check the Funicular timetable; it might close earlier in winter."
+            ],
+            "es": [
+              "Utiliza las líneas de Metro climatizadas para tránsitos largos por la ciudad.",
+              "Planifica llegar a los espacios al aire libre antes del temprano ocaso.",
+              "El transporte público está notablemente menos concurrido durante el invierno.",
+              "Consulta el horario del Funicular; puede cerrar antes en invierno."
             ]
           }
         }

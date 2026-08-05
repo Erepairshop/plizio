@@ -21,7 +21,8 @@
             "de": "La Riera",
             "hu": "La Riera",
             "ro": "La Riera",
-            "en": "La Riera"
+            "en": "La Riera",
+            "es": "La Riera"
           },
           "coords": [
             2.4452,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie Ihren Tag mit einem Kaffee in einem der vielen Cafés an dieser Hauptschlagader der Stadt.",
             "hu": "Kezdje a napot egy kávéval a város fő ütőerének számító sétány egyik kávézójában.",
             "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele de pe această arteră principală a orașului.",
-            "en": "Start your day with a coffee at one of the many cafes along this main artery of the city."
+            "en": "Start your day with a coffee at one of the many cafes along this main artery of the city.",
+            "es": "Comienza el día con un café en una de las muchas cafeterías a lo largo de esta arteria principal de la ciudad."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Casa Coll i Regàs",
             "hu": "Casa Coll i Regàs",
             "ro": "Casa Coll i Regàs",
-            "en": "Casa Coll i Regàs"
+            "en": "Casa Coll i Regàs",
+            "es": "Casa Coll i Regàs"
           },
           "coords": [
             2.4468,
@@ -61,7 +64,8 @@
             "de": "Bewundern Sie die modernistischen Details dieses von Josep Puig i Cadafalch entworfenen Juwels.",
             "hu": "Csodálja meg Josep Puig i Cadafalch modernista gyöngyszemének részleteit.",
             "ro": "Admirați detaliile moderniste ale acestei bijuterii proiectate de Josep Puig i Cadafalch.",
-            "en": "Admire the modernist details of this gem designed by Josep Puig i Cadafalch."
+            "en": "Admire the modernist details of this gem designed by Josep Puig i Cadafalch.",
+            "es": "Admira los detalles modernistas de esta joya diseñada por Josep Puig i Cadafalch."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Basílica de Santa Maria",
             "hu": "Santa Maria Bazilika",
             "ro": "Bazilica Santa Maria",
-            "en": "Basilica of Santa Maria"
+            "en": "Basilica of Santa Maria",
+            "es": "Basílica de Santa María"
           },
           "coords": [
             2.4485,
@@ -85,7 +90,8 @@
             "de": "Suchen Sie nach der Kapelle „Capella dels Dolors“, einem Meisterwerk des lokalen Barocks.",
             "hu": "Keresse a „Capella dels Dolors” kápolnát, a helyi barokk mesterművét.",
             "ro": "Căutați Capela Durerilor (Capella dels Dolors), o capodoperă a barocului local.",
-            "en": "Look for the 'Capella dels Dolors' chapel, a masterpiece of local Baroque art."
+            "en": "Look for the 'Capella dels Dolors' chapel, a masterpiece of local Baroque art.",
+            "es": "Busca la capilla 'Capella dels Dolors', una obra maestra del barroco local."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Nau Gaudí",
             "hu": "Nau Gaudí",
             "ro": "Nau Gaudí",
-            "en": "Nau Gaudí"
+            "en": "Nau Gaudí",
+            "es": "Nau Gaudí"
           },
           "coords": [
             2.4421,
@@ -109,7 +116,8 @@
             "de": "Dies war Gaudís erstes Gebäude überhaupt. Es beherbergt heute das Museum für zeitgenössische Kunst.",
             "hu": "Ez volt Gaudí legelső épülete. Ma a Kortárs Művészeti Múzeumnak ad otthont.",
             "ro": "Aceasta a fost prima clădire a lui Gaudí. Acum găzduiește muzeul de artă contemporană.",
-            "en": "This was Gaudí's very first building. It now houses the contemporary art museum."
+            "en": "This was Gaudí's very first building. It now houses the contemporary art museum.",
+            "es": "Este fue el primer edificio de Gaudí. Hoy alberga el museo de arte contemporáneo."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Passeig Marítim",
             "hu": "Passeig Marítim",
             "ro": "Passeig Marítim",
-            "en": "Passeig Marítim"
+            "en": "Passeig Marítim",
+            "es": "Passeig Marítim"
           },
           "coords": [
             2.451,
@@ -133,7 +142,8 @@
             "de": "Zeit für ein spätes Mittagessen mit Meeresfrüchten und Entspannung am Strand.",
             "hu": "Ideje egy késői tengeri herkentyűs ebédnek és egy kis pihenésnek a tengerparton.",
             "ro": "Timpul pentru un prânz târziu cu fructe de mare și relaxare pe plajă.",
-            "en": "Time for a late seafood lunch and some relaxation on the beach."
+            "en": "Time for a late seafood lunch and some relaxation on the beach.",
+            "es": "Tiempo para una comida tardía de mariscos y algo de descanso en la playa."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Villa Romana de Can Llauder",
             "hu": "Can Llauder római villa",
             "ro": "Vila Romană din Can Llauder",
-            "en": "Roman Villa of Can Llauder"
+            "en": "Roman Villa of Can Llauder",
+            "es": "Villa romana de Can Llauder"
           },
           "coords": [
             2.4401,
@@ -157,7 +168,8 @@
             "de": "Ein Sprung zurück in die römische Vergangenheit der Stadt, ein schöner Abschluss für den historischen Teil.",
             "hu": "Egy ugrás vissza a város római múltjába, szép lezárása a történelmi résznek.",
             "ro": "Un salt înapoi în trecutul roman al orașului, un final frumos pentru partea istorică.",
-            "en": "A jump back into the city's Roman past, a nice end to the historical part."
+            "en": "A jump back into the city's Roman past, a nice end to the historical part.",
+            "es": "Un salto al pasado romano de la ciudad, un buen final para la parte histórica."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Ihr Tag in Mataró beginnt im Herzen der Stadt, La Riera, wo Sie die lokale Atmosphäre aufsaugen. Am Vormittag tauchen Sie mit Besuchen der Casa Coll i Regàs und der Basilika Santa Maria in die modernistische und barocke Kunst ein. Der Mittag führt Sie zu Gaudís Anfängen in der Nau Gaudí. Der Nachmittag ist ganz der Entspannung am Passeig Marítim gewidmet, mit Sonne, Sand und Meer. Ihr Tag endet mit einer historischen Note in der römischen Villa Can Llauder und einem Spaziergang bei Sonnenuntergang.",
         "hu": "Matarói napja a város szívében, a La Rierán kezdődik, ahol magába szívhatja a helyi hangulatot. A délelőtt a modernista és barokk művészet jegyében telik a Casa Coll i Regàs és a Santa Maria Bazilika meglátogatásával. Délben Gaudí kezdeteihez utazik a Nau Gaudíban. A délután a Passeig Marítimon való pihenésé, napfénnyel, homokkal és tengerrel. Napja a Can Llauder római villánál zárul egy történelmi érintéssel és egy naplementi sétával.",
         "ro": "Ziua dvs. în Mataró începe în inima orașului, La Riera, absorbind atmosfera locală. Dimineața vă scufundă în arta modernistă și barocă cu vizite la Casa Coll i Regàs și Bazilica Santa Maria. La prânz vă veți întâlni cu începuturile lui Gaudí la Nau Gaudí. După-amiaza este dedicată relaxării pe Passeig Marítim, cu soare, nisip și mare. Ziua se încheie cu o notă istorică la Vila Romană Can Llauder și o plimbare la apus.",
-        "en": "Your day in Mataró begins in the heart of the city, La Riera, soaking up the local atmosphere. The morning immerses you in modernist and baroque art with visits to Casa Coll i Regàs and the Basilica of Santa Maria. Midday takes you to Gaudí's beginnings at Nau Gaudí. The afternoon is all about relaxation on the Passeig Marítim, with sun, sand, and sea. Your day concludes with a historical touch at the Roman Villa of Can Llauder and a sunset stroll."
+        "en": "Your day in Mataró begins in the heart of the city, La Riera, soaking up the local atmosphere. The morning immerses you in modernist and baroque art with visits to Casa Coll i Regàs and the Basilica of Santa Maria. Midday takes you to Gaudí's beginnings at Nau Gaudí. The afternoon is all about relaxation on the Passeig Marítim, with sun, sand, and sea. Your day concludes with a historical touch at the Roman Villa of Can Llauder and a sunset stroll.",
+        "es": "Tu día en Mataró comienza en el corazón de la ciudad, La Riera, empapándote del ambiente local. La mañana te sumerge en el modernismo y el barroco con visitas a la Casa Coll i Regàs y la Basílica de Santa María. Al mediodía te acercas a los inicios de Gaudí en la Nau Gaudí. La tarde es para relajarte en el Passeig Marítim, con sol, arena y mar. El día concluye con un toque histórico en la Villa romana de Can Llauder y un paseo al atardecer."
       },
       "gastro_picks": {
         "de": [
@@ -361,6 +374,12 @@
           "Stay hydrated, especially on warm days.",
           "Most shops observe a siesta, so plan your shopping accordingly.",
           "A light sweater is useful for the evening by the sea."
+        ],
+        "es": [
+          "Lleva calzado cómodo porque caminarás bastante.",
+          "Mantente hidratado, sobre todo en días calurosos.",
+          "La mayoría de las tiendas hacen siesta, así que planifica las compras en consecuencia.",
+          "Un jersey ligero es útil para la noche junto al mar."
         ]
       },
       "variants": {
@@ -369,7 +388,8 @@
             "de": "Der Vormittag an der La Riera bietet Schutz unter den Arkaden der Geschäfte. Mittags erkunden wir das trockene, prächtige Innere der Casa Coll i Regàs. Am Nachmittag dient die Nau Gaudí als perfektes kulturelles Refugium vor dem Regen. Der Abend am Passeig Marítim lässt sich am besten trocken aus einem der vielen Cafés mit Blick auf die stürmische See genießen.",
             "hu": "A reggelt a La Riera üzleteinek védelmező előtetői alatt kezdjük, elkerülve a nagyobb pocsolyákat. Délben a Casa Coll i Regàs belső terei nyújtanak száraz menedéket a modernizmus kedvelőinek. Délután a Nau Gaudí ipari csarnoka ideális helyszín az eső elől való elrejtőzésre. Az estét a Passeig Marítim egyik üvegezett teraszú kávézójában zárjuk a hullámokat figyelve.",
             "ro": "Dimineața pe La Riera oferă protecție sub arcadele magazinelor locale. La prânz, explorăm interiorul uscat și somptuos al Casei Coll i Regàs. După-amiaza, Nau Gaudí servește ca un refugiu cultural perfect împotriva ploii. Seara pe Passeig Marítim se savurează cel mai bine dintr-o cafenea primitoare, admirând marea agitată de la adăpost.",
-            "en": "The morning at La Riera offers shelter under the shop awnings while browsing. At noon, we explore the dry and magnificent interior of Casa Coll i Regàs. In the afternoon, Nau Gaudí serves as a perfect cultural refuge from the rain. The evening at Passeig Marítim is best enjoyed from a cozy cafe, watching the stormy sea from a dry spot."
+            "en": "The morning at La Riera offers shelter under the shop awnings while browsing. At noon, we explore the dry and magnificent interior of Casa Coll i Regàs. In the afternoon, Nau Gaudí serves as a perfect cultural refuge from the rain. The evening at Passeig Marítim is best enjoyed from a cozy cafe, watching the stormy sea from a dry spot.",
+            "es": "La mañana en La Riera ofrece refugio bajo los toldos de las tiendas mientras miras escaparates. Al mediodía exploramos el seco y magnífico interior de la Casa Coll i Regàs. Por la tarde, la Nau Gaudí sirve como perfecto refugio cultural contra la lluvia. La noche en el Passeig Marítim se disfruta mejor desde una cafetería acogedora, observando el mar tempestuoso desde un sitio seco."
           },
           "stops": [
             {
@@ -378,7 +398,8 @@
                 "de": "Nutzen Sie die Arkaden der Geschäfte als Regenschutz.",
                 "hu": "Használja az üzletek árkádjait esernyő helyett.",
                 "ro": "Folosiți arcadele magazinelor ca adăpost de ploaie.",
-                "en": "Use the shop awnings as shelter from the rain."
+                "en": "Use the shop awnings as shelter from the rain.",
+                "es": "Utiliza los toldos de las tiendas como refugio de la lluvia."
               }
             },
             {
@@ -387,7 +408,8 @@
                 "de": "Ideales Ziel, um den Regen im Inneren zu überdauern.",
                 "hu": "Tökéletes beltéri program a záporok idejére.",
                 "ro": "Destinație ideală pentru a sta la adăpost în interior.",
-                "en": "Ideal destination to stay dry while exploring indoors."
+                "en": "Ideal destination to stay dry while exploring indoors.",
+                "es": "Destino ideal para permanecer seco mientras exploras interiores."
               }
             },
             {
@@ -396,7 +418,8 @@
                 "de": "Die dicken Mauern bieten Ruhe und Trockenheit.",
                 "hu": "A vastag falak csendet és száraz pihenőt nyújtanak.",
                 "ro": "Zidurile groase oferă liniște și un loc uscat.",
-                "en": "The thick walls offer peace and a dry resting spot."
+                "en": "The thick walls offer peace and a dry resting spot.",
+                "es": "Los muros gruesos ofrecen paz y un lugar seco para descansar."
               }
             },
             {
@@ -405,7 +428,8 @@
                 "de": "Ein großzügiger überdachter Raum für Kunstgenuss.",
                 "hu": "Tágas, fedett tér a művészet élvezetéhez.",
                 "ro": "Un spațiu acoperit generos pentru iubitorii de artă.",
-                "en": "A spacious covered area for enjoying art safely."
+                "en": "A spacious covered area for enjoying art safely.",
+                "es": "Un amplio espacio cubierto para disfrutar del arte a resguardo."
               }
             },
             {
@@ -414,7 +438,8 @@
                 "de": "Wählen Sie ein Café mit direktem Meerblick.",
                 "hu": "Válasszon egy kávézót közvetlen tengeri kilátással.",
                 "ro": "Alegeți o cafenea cu vedere directă la mare.",
-                "en": "Choose a cafe with a direct view of the waves."
+                "en": "Choose a cafe with a direct view of the waves.",
+                "es": "Elige una cafetería con vista directa a las olas."
               }
             },
             {
@@ -423,7 +448,8 @@
                 "de": "Vorsicht, die antiken Steine können rutschig sein.",
                 "hu": "Vigyázat, az ókori kövek csúszósak lehetnek.",
                 "ro": "Atenție, pietrele antice pot fi alunecoase.",
-                "en": "Caution, the ancient stones can be slippery when wet."
+                "en": "Caution, the ancient stones can be slippery when wet.",
+                "es": "Precaución, las piedras antiguas pueden estar resbaladizas cuando están mojadas."
               }
             }
           ],
@@ -455,6 +481,13 @@
               "Schedule indoor visits like Casa Coll i Regàs for the heaviest rain periods.",
               "A sturdy umbrella is essential due to the coastal wind gusts.",
               "The underpass to Passeig Marítim provides quick shelter from sudden heavy rain."
+            ],
+            "es": [
+              "Usa calzado antideslizante para las calles empedradas del casco antiguo.",
+              "La mayoría de los puntos de interés en Mataró están cerca unos de otros, ideal para paseos cortos entre chaparrones.",
+              "Programa visitas interiores como la Casa Coll i Regàs para los periodos de lluvia más intensa.",
+              "Un paraguas resistente es esencial debido a las rachas de viento costero.",
+              "El paso subterráneo hacia el Passeig Marítim ofrece refugio rápido ante lluvias fuertes repentinas."
             ]
           }
         },
@@ -463,7 +496,8 @@
             "de": "Der frische Wintermorgen an der La Riera ist belebend und klar. Mittags wärmen wir uns bei der Besichtigung der Casa Coll i Regàs auf, während die tiefe Sonne die Fassaden beleuchtet. Da es früh dunkelt, besuchen wir die römische Villa Can Llauder bereits am Nachmittag. Der Tag endet mit einem zügigen Spaziergang am Passeig Marítim, bevor die kühle Abendluft vom Meer herüberzieht.",
             "hu": "A friss téli reggel a La Riera környékén élénkítő és tiszta. Délben a Casa Coll i Regàs látogatása közben melegszünk fel, miközben az alacsonyan járó nap megvilágítja a homlokzatokat. Mivel korán sötétedik, a Can Llauder római villát már délután felkeressük. A napot egy tempós séta zárja a tengerparton, mielőtt a hűvös esti szél felerősödne.",
             "ro": "Dimineața proaspătă de iarnă pe La Riera este revigorantă și senină. La prânz, ne încălzim vizitând Casa Coll i Regàs, în timp ce soarele jos luminează fațadele. Deoarece se întunecă devreme, vizităm Vila Romană Can Llauder încă de după-amiază. Ziua se încheie cu o plimbare alertă pe Passeig Marítim înainte ca aerul rece de seară să se instaleze.",
-            "en": "The crisp winter morning at La Riera is refreshing and clear. At noon, we warm up while touring Casa Coll i Regàs as the low sun illuminates the modernist facades. Since it gets dark early, we visit the Roman Villa of Can Llauder in the mid-afternoon. The day ends with a brisk stroll along Passeig Marítim before the cool evening sea breeze picks up."
+            "en": "The crisp winter morning at La Riera is refreshing and clear. At noon, we warm up while touring Casa Coll i Regàs as the low sun illuminates the modernist facades. Since it gets dark early, we visit the Roman Villa of Can Llauder in the mid-afternoon. The day ends with a brisk stroll along Passeig Marítim before the cool evening sea breeze picks up.",
+            "es": "La fresca mañana invernal en La Riera es refrescante y clara. Al mediodía nos calentamos recorriendo la Casa Coll i Regàs mientras el sol bajo ilumina las fachadas modernistas. Como anochece pronto, visitamos la Villa romana de Can Llauder a media tarde. El día termina con un paseo ágil por el Passeig Marítim antes de que se levante la fresca brisa nocturna del mar."
           },
           "stops": [
             {
@@ -472,7 +506,8 @@
                 "de": "Genießen Sie einen heißen Kaffee in den historischen Bars.",
                 "hu": "Igyon egy forró kávét a történelmi kávézók egyikében.",
                 "ro": "Savurați o cafea fierbinte în barurile istorice.",
-                "en": "Enjoy a hot coffee in one of the historic local bars."
+                "en": "Enjoy a hot coffee in one of the historic local bars.",
+                "es": "Disfruta de un café caliente en uno de los bares históricos locales."
               }
             },
             {
@@ -481,7 +516,8 @@
                 "de": "Die Wintersonne betont die Details der Fassade perfekt.",
                 "hu": "A téli napfény kiemeli a homlokzat finom részleteit.",
                 "ro": "Soarele de iarnă scoate în evidență detaliile fațadei.",
-                "en": "Winter sunlight perfectly highlights the facade details."
+                "en": "Winter sunlight perfectly highlights the facade details.",
+                "es": "La luz invernal realza perfectamente los detalles de las fachadas."
               }
             },
             {
@@ -490,7 +526,8 @@
                 "de": "Im Inneren ist es oft wärmer als in den zugigen Gassen.",
                 "hu": "Bent gyakran melegebb van, mint a huzatos utcákon.",
                 "ro": "În interior este adesea mai cald decât pe străzile înguste.",
-                "en": "It is often warmer inside than in the drafty side streets."
+                "en": "It is often warmer inside than in the drafty side streets.",
+                "es": "A menudo hace más calor en el interior que en las calles laterales con corriente de aire."
               }
             },
             {
@@ -499,7 +536,8 @@
                 "de": "Besuchen Sie die Ausstellung vor dem frühen Sonnenuntergang.",
                 "hu": "Látogassa meg a kiállítást a korai naplemente előtt.",
                 "ro": "Vizitați expoziția înainte de apusul devreme al soarelui.",
-                "en": "Visit the exhibition before the early winter sunset."
+                "en": "Visit the exhibition before the early winter sunset.",
+                "es": "Visita la exposición antes de la pronta puesta de sol invernal."
               }
             },
             {
@@ -508,7 +546,8 @@
                 "de": "Warme Kleidung ist für den windigen Strandspaziergang nötig.",
                 "hu": "Meleg ruházat szükséges a szeles tengerparti sétához.",
                 "ro": "Îmbrăcămintea groasă este necesară pentru faleza vântoasă.",
-                "en": "Warm clothing is essential for the windy beach walk."
+                "en": "Warm clothing is essential for the windy beach walk.",
+                "es": "Ropa abrigada es esencial para la caminata ventosa por la playa."
               }
             },
             {
@@ -517,7 +556,8 @@
                 "de": "Nutzen Sie das letzte Tageslicht für die Außenanlagen.",
                 "hu": "Használja ki az utolsó nappali fényeket a romoknál.",
                 "ro": "Profitați de ultima lumină a zilei pentru situl arheologic.",
-                "en": "Make use of the last daylight to see the outdoor ruins."
+                "en": "Make use of the last daylight to see the outdoor ruins.",
+                "es": "Aprovecha la última luz del día para ver las ruinas al aire libre."
               }
             }
           ],
@@ -549,6 +589,13 @@
               "The narrow streets of the old town remain shady and cool throughout the winter.",
               "Museums are well-heated and provide a welcome break from the outdoor chill.",
               "Clear winter days offer the best lighting for photographing modernist architecture."
+            ],
+            "es": [
+              "El atardecer es sobre las 17:30, así que programa las paradas al aire libre antes de esa hora.",
+              "La humedad costera hace que el frío se sienta más intenso; se recomiendan capas cortaviento.",
+              "Las calles estrechas del casco antiguo se mantienen sombrías y frescas durante todo el invierno.",
+              "Los museos están bien calefactados y suponen un reconfortante descanso del frío exterior.",
+              "Los días invernales despejados ofrecen la mejor luz para fotografiar la arquitectura modernista."
             ]
           }
         }
@@ -567,7 +614,8 @@
             "de": "Parc Central",
             "hu": "Parc Central",
             "ro": "Parc Central",
-            "en": "Parc Central"
+            "en": "Parc Central",
+            "es": "Parc Central"
           },
           "coords": [
             2.436,
@@ -583,7 +631,8 @@
             "de": "Starten Sie mit einer leichten Radtour durch die grüne Lunge der Stadt.",
             "hu": "Kezdje a napot egy könnyű kerékpártúrával a város zöld tüdejében.",
             "ro": "Începeți cu o plimbare ușoară cu bicicleta prin plămânul verde al orașului.",
-            "en": "Start with a light bike ride through the city's green lung."
+            "en": "Start with a light bike ride through the city's green lung.",
+            "es": "Comienza con un paseo en bici ligero por el pulmón verde de la ciudad."
           }
         },
         {
@@ -591,7 +640,8 @@
             "de": "Villa Romana de Can Llauder",
             "hu": "Can Llauder római villa",
             "ro": "Vila Romană din Can Llauder",
-            "en": "Roman Villa of Can Llauder"
+            "en": "Roman Villa of Can Llauder",
+            "es": "Villa romana de Can Llauder"
           },
           "coords": [
             2.4401,
@@ -607,7 +657,8 @@
             "de": "Radeln Sie durch die Geschichte zu den Überresten des römischen Iluro.",
             "hu": "Tekerjen át a történelmen a római Iluro maradványaihoz.",
             "ro": "Pedalați prin istorie până la rămășițele romane din Iluro.",
-            "en": "Cycle through history to the remains of Roman Iluro."
+            "en": "Cycle through history to the remains of Roman Iluro.",
+            "es": "Pedalea a través de la historia hasta los restos de la romana Iluro."
           }
         },
         {
@@ -615,7 +666,8 @@
             "de": "Nau Gaudí",
             "hu": "Nau Gaudí",
             "ro": "Nau Gaudí",
-            "en": "Nau Gaudí"
+            "en": "Nau Gaudí",
+            "es": "Nau Gaudí"
           },
           "coords": [
             2.4421,
@@ -631,7 +683,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und entdecken Sie Gaudís erstes architektonisches Werk.",
             "hu": "Parkolja le a biciklit és fedezze fel Gaudí első építészeti alkotását.",
             "ro": "Parcați bicicleta și explorați prima lucrare arhitecturală a lui Gaudí.",
-            "en": "Park your bike and explore Gaudí's first architectural work."
+            "en": "Park your bike and explore Gaudí's first architectural work.",
+            "es": "Aparca la bicicleta y explora la primera obra arquitectónica de Gaudí."
           }
         },
         {
@@ -639,7 +692,8 @@
             "de": "La Riera",
             "hu": "La Riera",
             "ro": "La Riera",
-            "en": "La Riera"
+            "en": "La Riera",
+            "es": "La Riera"
           },
           "coords": [
             2.4452,
@@ -655,7 +709,8 @@
             "de": "Fahren Sie durch die belebte Hauptstraße, um die Atmosphäre zu spüren.",
             "hu": "Hajtson végig a nyüzsgő főutcán, hogy átérezze a hangulatot.",
             "ro": "Pedalați pe strada principală plină de viață pentru a simți atmosfera.",
-            "en": "Ride down the bustling main street to feel the atmosphere."
+            "en": "Ride down the bustling main street to feel the atmosphere.",
+            "es": "Recorre la bulliciosa calle principal en bici para sentir el ambiente."
           }
         },
         {
@@ -663,7 +718,8 @@
             "de": "Casa Coll i Regàs",
             "hu": "Casa Coll i Regàs",
             "ro": "Casa Coll i Regàs",
-            "en": "Casa Coll i Regàs"
+            "en": "Casa Coll i Regàs",
+            "es": "Casa Coll i Regàs"
           },
           "coords": [
             2.4468,
@@ -679,7 +735,8 @@
             "de": "Ein kurzer Stopp, um dieses modernistische Meisterwerk von außen zu bewundern.",
             "hu": "Egy gyors megálló, hogy kívülről megcsodálhassa ezt a modernista remekművet.",
             "ro": "O scurtă oprire pentru a admira această capodoperă modernistă din exterior.",
-            "en": "A quick stop to admire this modernist masterpiece from the outside."
+            "en": "A quick stop to admire this modernist masterpiece from the outside.",
+            "es": "Parada rápida para admirar este modernista desde el exterior."
           }
         },
         {
@@ -687,7 +744,8 @@
             "de": "Basílica de Santa Maria",
             "hu": "Santa Maria Bazilika",
             "ro": "Bazilica Santa Maria",
-            "en": "Basilica of Santa Maria"
+            "en": "Basilica of Santa Maria",
+            "es": "Basílica de Santa María"
           },
           "coords": [
             2.4485,
@@ -703,7 +761,8 @@
             "de": "Stellen Sie Ihr Rad ab und treten Sie ein, um die beeindruckende barocke Innenausstattung zu sehen.",
             "hu": "Tegye le a kerékpárt, és lépjen be, hogy megnézze a lenyűgöző barokk belső teret.",
             "ro": "Lăsați bicicleta și intrați pentru a vedea interiorul baroc impresionant.",
-            "en": "Lock up your bike and step inside to see the impressive baroque interior."
+            "en": "Lock up your bike and step inside to see the impressive baroque interior.",
+            "es": "Asegura tu bicicleta y entra para ver el impresionante interior barroco."
           }
         },
         {
@@ -711,7 +770,8 @@
             "de": "Passeig Marítim & Strand",
             "hu": "Passeig Marítim és a strand",
             "ro": "Passeig Marítim și Plaja",
-            "en": "Passeig Marítim & Beach"
+            "en": "Passeig Marítim & Beach",
+            "es": "Passeig Marítim y playa"
           },
           "coords": [
             2.455,
@@ -727,7 +787,8 @@
             "de": "Beenden Sie den Tag mit einer langen, entspannten Fahrt entlang der Küste und genießen Sie das Meer.",
             "hu": "Zárja a napot egy hosszú, pihentető tekeréssel a part mentén, élvezve a tengert.",
             "ro": "Încheiați ziua cu o plimbare lungă și relaxantă de-a lungul coastei, bucurându-vă de mare.",
-            "en": "End the day with a long, relaxed ride along the coast, enjoying the sea."
+            "en": "End the day with a long, relaxed ride along the coast, enjoying the sea.",
+            "es": "Termina el día con un largo y tranquilo paseo en bici por la costa, disfrutando del mar."
           }
         }
       ],
@@ -735,7 +796,8 @@
         "de": "Schwingen Sie sich in den Sattel für einen aktiven Tag in Mataró! Der Morgen beginnt grün im Parc Central und führt Sie dann auf eine historische Reise zur römischen Villa. Zur Mittagszeit erkunden Sie das Zentrum mit Gaudís erstem Werk, der belebten Riera und dem modernistischen Casa Coll i Regàs. Nach einem Besuch in der barocken Basilika verbringen Sie den restlichen Nachmittag mit einer erfrischenden Fahrt entlang des Passeig Marítim, wo der Strand zum Verweilen einlädt und ein wohlverdientes spätes Mittagessen wartet.",
         "hu": "Pattanjon nyeregbe egy aktív napért Mataróban! A reggel a Parc Central zöldjében indul, majd egy történelmi utazásra visz a római villához. Délben felfedezheti a központot Gaudí első alkotásával, a nyüzsgő Rierával és a modernista Casa Coll i Regàs-szal. A barokk bazilika meglátogatása után a délután hátralévő részét a Passeig Marítim mentén egy frissítő kerékpártúrával tölti, ahol a strand pihenésre csábít és egy jól megérdemelt késői ebéd várja.",
         "ro": "Urcați în șa pentru o zi activă în Mataró! Dimineața începe în verdele din Parc Central, apoi vă duce într-o călătorie istorică la vila romană. La prânz, explorați centrul cu prima lucrare a lui Gaudí, animata Riera și modernista Casă Coll i Regàs. După o vizită la bazilica barocă, petreceți restul după-amiezii cu o plimbare revigorantă de-a lungul Passeig Marítim, unde plaja vă invită să vă relaxați și vă așteaptă un prânz târziu binemeritat.",
-        "en": "Get in the saddle for an active day in Mataró! The morning starts green in Parc Central, then takes you on a historical journey to the Roman villa. At midday, you'll explore the center with Gaudí's first work, the bustling Riera, and the modernist Casa Coll i Regàs. After a visit to the baroque basilica, you'll spend the rest of the afternoon on a refreshing ride along the Passeig Marítim, where the beach invites you to relax and a well-deserved late lunch awaits."
+        "en": "Get in the saddle for an active day in Mataró! The morning starts green in Parc Central, then takes you on a historical journey to the Roman villa. At midday, you'll explore the center with Gaudí's first work, the bustling Riera, and the modernist Casa Coll i Regàs. After a visit to the baroque basilica, you'll spend the rest of the afternoon on a refreshing ride along the Passeig Marítim, where the beach invites you to relax and a well-deserved late lunch awaits.",
+        "es": "Súbete en la bici para un día activo en Mataró. La mañana comienza en verde en el Parc Central y te lleva después a la villa romana. Al mediodía explorarás el centro con la primera obra de Gaudí, la bulliciosa Riera y la modernista Casa Coll i Regàs. Tras una visita a la basílica barroca, pasarás la tarde en un refrescante paseo por el Passeig Marítim, donde la playa invita a relajarse y te espera un merecido almuerzo tardío."
       },
       "gastro_picks": {
         "de": [
@@ -930,6 +992,12 @@
           "Always lock your bike securely.",
           "Use the designated bike lanes, especially along the coast.",
           "Bring plenty of water."
+        ],
+        "es": [
+          "Alquila una bici cerca de la estación de tren o en el paseo marítimo.",
+          "Siempre asegura bien tu bicicleta con candado.",
+          "Utiliza los carriles bici señalizados, especialmente junto a la costa.",
+          "Lleva abundante agua."
         ]
       },
       "variants": {
@@ -938,7 +1006,8 @@
             "de": "Wir starten am Parc Central, wo die Wege unter den Bäumen etwas Schutz bieten. Die Fahrt zur römischen Villa führt über teils rutschige Straßen, daher ist Vorsicht geboten. Mittags bietet die Nau Gaudí eine willkommene trockene Pause für Radfahrer. Den Nachmittag verbringen wir im Zentrum zwischen Casa Coll i Regàs und der Basilika, bevor wir die Tour vorsichtig am nassen Passeig Marítim beenden.",
             "hu": "A Parc Central fái között kezdünk, ahol a lombok némi védelmet nyújtanak a szemerkélő esőben. A római villához vezető úton óvatosan haladunk a vizes aszfalton. Délben a Nau Gaudí kiváló száraz pihenőhely a kerékpárosoknak. A délutánt a belvárosban töltjük, majd óvatosan fejezzük be a túrát a vizes tengerparti sétányon.",
             "ro": "Începem în Parc Central, unde arborii oferă o oarecare protecție împotriva burniței. Drumul spre vila romană necesită prudență pe asfaltul ud. La prânz, Nau Gaudí oferă o pauză uscată binevenită pentru bicicliști. După-amiaza o petrecem în centru, încheind turul cu atenție pe faleza umedă din Passeig Marítim.",
-            "en": "We start at Parc Central, where the trees offer some cover during a light drizzle. The ride to the Roman Villa requires caution on wet road surfaces. At noon, Nau Gaudí provides a welcome dry break for cyclists. We spend the afternoon in the town center before carefully concluding the tour on the wet Passeig Marítim promenade."
+            "en": "We start at Parc Central, where the trees offer some cover during a light drizzle. The ride to the Roman Villa requires caution on wet road surfaces. At noon, Nau Gaudí provides a welcome dry break for cyclists. We spend the afternoon in the town center before carefully concluding the tour on the wet Passeig Marítim promenade.",
+            "es": "Comenzamos en el Parc Central, donde los árboles ofrecen algo de cobertura durante una llovizna. El trayecto hasta la Villa Romana exige precaución por el pavimento mojado. Al mediodía, Nau Gaudí ofrece un respiro seco para los ciclistas. Pasamos la tarde en el centro de la ciudad antes de concluir con cuidado el recorrido por el húmedo Passeig Marítim."
           },
           "stops": [
             {
@@ -947,7 +1016,8 @@
                 "de": "Vorsicht vor nassen Blättern auf den Radwegen.",
                 "hu": "Vigyázzon a vizes levelekre a kerékpárutakon.",
                 "ro": "Atenție la frunzele ude de pe pistele de biciclete.",
-                "en": "Watch out for wet leaves on the bike paths."
+                "en": "Watch out for wet leaves on the bike paths.",
+                "es": "Cuidado con las hojas mojadas en los carriles bici."
               }
             },
             {
@@ -956,7 +1026,8 @@
                 "de": "Nutzen Sie den überdachten Bereich am Eingang.",
                 "hu": "Használja ki a bejáratnál lévő fedett részt.",
                 "ro": "Folosiți zona acoperită de la intrare.",
-                "en": "Take advantage of the covered area at the entrance."
+                "en": "Take advantage of the covered area at the entrance.",
+                "es": "Aprovecha la zona cubierta en la entrada."
               }
             },
             {
@@ -965,7 +1036,8 @@
                 "de": "Sicherer Abstellplatz für Fahrräder in der Nähe vorhanden.",
                 "hu": "A közelben biztonságos kerékpártárolók találhatók.",
                 "ro": "Există rastele sigure pentru biciclete în apropiere.",
-                "en": "Secure bike parking is available nearby for a dry stop."
+                "en": "Secure bike parking is available nearby for a dry stop.",
+                "es": "Hay aparcamiento seguro para bicicletas cerca para una parada seca."
               }
             },
             {
@@ -974,7 +1046,8 @@
                 "de": "Vermeiden Sie scharfes Bremsen auf dem Kopfsteinpflaster.",
                 "hu": "Kerülje az erős fékezést a macskaköves szakaszon.",
                 "ro": "Evitați frânarea bruscă pe porțiunile cu piatră cubică.",
-                "en": "Avoid sudden braking on the cobblestone sections."
+                "en": "Avoid sudden braking on the cobblestone sections.",
+                "es": "Evita frenar bruscamente en las secciones empedradas."
               }
             },
             {
@@ -983,7 +1056,8 @@
                 "de": "Kurzer Stopp, um die Architektur im Trockenen zu bewundern.",
                 "hu": "Rövid megálló az építészet száraz megcsodálására.",
                 "ro": "O scurtă oprire pentru a admira arhitectura la adăpost.",
-                "en": "A short stop to admire the architecture while staying dry."
+                "en": "A short stop to admire the architecture while staying dry.",
+                "es": "Una breve parada para admirar la arquitectura manteniéndote seco."
               }
             },
             {
@@ -992,7 +1066,8 @@
                 "de": "Stellen Sie Ihr Rad geschützt an der Kirchenmauer ab.",
                 "hu": "Támassza le a biciklit a templomfal védelmében.",
                 "ro": "Parcați bicicleta la adăpostul zidului bisericii.",
-                "en": "Park your bike under the shelter of the church wall."
+                "en": "Park your bike under the shelter of the church wall.",
+                "es": "Aparca la bici bajo el resguardo del muro de la iglesia."
               }
             },
             {
@@ -1001,7 +1076,8 @@
                 "de": "Der Radweg kann bei Regen sehr rutschig sein.",
                 "hu": "A kerékpárút esőben nagyon csúszós lehet.",
                 "ro": "Pista de biciclete poate fi foarte alunecoasă pe ploaie.",
-                "en": "The cycling lane can be very slippery when it rains."
+                "en": "The cycling lane can be very slippery when it rains.",
+                "es": "El carril bici puede ser muy resbaladizo cuando llueve."
               }
             }
           ],
@@ -1033,6 +1109,13 @@
               "Nau Gaudí is a great spot to warm up and dry off briefly.",
               "Mudguards are highly recommended for this weather in Mataró.",
               "Expect strong crosswinds along the coastal road; keep a firm grip."
+            ],
+            "es": [
+              "Revisa los frenos antes de salir; las superficies húmedas aumentan la distancia de frenado.",
+              "Evita las tapas de registro metálicas y las marcas viales blancas cuando estén mojadas.",
+              "Nau Gaudí es un buen lugar para calentarse y secarse brevemente.",
+              "Los guardabarros son muy recomendables con este tiempo en Mataró.",
+              "Espera rachas fuertes de viento cruzado en la carretera costera; mantén un agarre firme."
             ]
           }
         },
@@ -1041,7 +1124,8 @@
             "de": "Ein klarer Wintermorgen beginnt im Parc Central mit einer erfrischenden Fahrt. Wir erkunden die antiken Ruinen von Can Llauder, bevor wir mittags die Nau Gaudí erreichen. Die Fahrt durch die Altstadt zur Casa Coll i Regàs ist dank der kühlen Luft sehr angenehm. Wir beenden die Tour am Passeig Marítim, wo wir den frühen Sonnenuntergang über dem Mittelmeer direkt vom Fahrrad aus erleben.",
             "hu": "A tiszta téli reggel a Parc Centralban kezdődik egy frissítő tekeréssel. Megtekintjük Can Llauder ókori romjait, mielőtt délben elérnénk a Nau Gaudít. A belvárosi gurulás a Casa Coll i Regàs felé a hűvös levegőben kifejezetten kellemes. A túrát a tengerparton zárjuk, ahol a kerékpárról nézhetjük végig a korai naplementét a Földközi-tenger felett.",
             "ro": "O dimineață senină de iarnă începe în Parc Central cu o cursă revigorantă. Explorăm ruinele antice din Can Llauder înainte de a ajunge la prânz la Nau Gaudí. Drumul prin centrul vechi spre Casa Coll i Regàs este plăcut datorită aerului rece. Încheiem turul pe faleză, admirând apusul devreme peste Mediterană.",
-            "en": "A clear winter morning begins at Parc Central with a refreshing ride. We explore the ancient ruins of Can Llauder before reaching Nau Gaudí at noon. The ride through the old town to Casa Coll i Regàs is pleasant in the cool air. We finish at the beach promenade, catching the early winter sunset over the Mediterranean directly from our bikes."
+            "en": "A clear winter morning begins at Parc Central with a refreshing ride. We explore the ancient ruins of Can Llauder before reaching Nau Gaudí at noon. The ride through the old town to Casa Coll i Regàs is pleasant in the cool air. We finish at the beach promenade, catching the early winter sunset over the Mediterranean directly from our bikes.",
+            "es": "Una clara mañana invernal comienza en el Parc Central con un paseo refrescante. Exploramos las antiguas ruinas de Can Llauder antes de llegar a Nau Gaudí al mediodía. El recorrido por el casco antiguo hasta la Casa Coll i Regàs es agradable con el aire fresco. Terminamos en el paseo de la playa, disfrutando del temprano atardecer invernal sobre el Mediterráneo directamente desde nuestras bicis."
           },
           "stops": [
             {
@@ -1050,7 +1134,8 @@
                 "de": "Tragen Sie Handschuhe gegen den kalten Fahrtwind.",
                 "hu": "Viseljen kesztyűt a hideg menetszél ellen.",
                 "ro": "Purtați mănuși împotriva curentului de aer rece.",
-                "en": "Wear gloves to protect against the cold wind chill."
+                "en": "Wear gloves to protect against the cold wind chill.",
+                "es": "Lleva guantes para protegerte del frío y el viento."
               }
             },
             {
@@ -1059,7 +1144,8 @@
                 "de": "Sonnige Abschnitte zum Aufwärmen nutzen.",
                 "hu": "Használja ki a napsütötte részeket a melegedéshez.",
                 "ro": "Folosiți secțiunile însorite pentru a vă încălzi.",
-                "en": "Take advantage of sunny spots to warm up."
+                "en": "Take advantage of sunny spots to warm up.",
+                "es": "Aprovecha los puntos soleados para entrar en calor."
               }
             },
             {
@@ -1068,7 +1154,8 @@
                 "de": "Ideale Pause im Warmen zwischen den Fahrten.",
                 "hu": "Ideális pihenő meleg helyen a tekerések között.",
                 "ro": "Pauză ideală la căldură între etapele de pedalat.",
-                "en": "An ideal warm break between cycling stretches."
+                "en": "An ideal warm break between cycling stretches.",
+                "es": "Una parada cálida e ideal entre tramos de bicicleta."
               }
             },
             {
@@ -1077,7 +1164,8 @@
                 "de": "Die Cafés hier haben oft Heizstrahler im Außenbereich.",
                 "hu": "Az itteni kávézók gyakran használnak hősugárzókat kint.",
                 "ro": "Cafenelele de aici au adesea radiatoare la exterior.",
-                "en": "Cafes here often have outdoor heaters for a quick stop."
+                "en": "Cafes here often have outdoor heaters for a quick stop.",
+                "es": "Los cafés suelen tener calefactores exteriores para una parada rápida."
               }
             },
             {
@@ -1086,7 +1174,8 @@
                 "de": "Genießen Sie die Architektur im klaren Winterlicht.",
                 "hu": "Élvezze az építészetet a tiszta téli fényben.",
                 "ro": "Admirați arhitectura în lumina clară de iarnă.",
-                "en": "Enjoy the architecture in the crisp winter light."
+                "en": "Enjoy the architecture in the crisp winter light.",
+                "es": "Disfruta de la arquitectura con la luz invernal y nítida."
               }
             },
             {
@@ -1095,7 +1184,8 @@
                 "de": "Besichtigung bietet Schutz vor kaltem Wind.",
                 "hu": "A látogatás védelmet nyújt a hideg szél ellen.",
                 "ro": "Vizita oferă protecție împotriva vântului rece.",
-                "en": "A visit inside provides shelter from the cold wind."
+                "en": "A visit inside provides shelter from the cold wind.",
+                "es": "Visitar el interior ofrece refugio del viento frío."
               }
             },
             {
@@ -1104,7 +1194,8 @@
                 "de": "Sonnenuntergang um ca. 17:30 Uhr nicht verpassen.",
                 "hu": "Ne maradjon le a 17:30 körüli naplementéről.",
                 "ro": "Nu ratați apusul soarelui în jurul orei 17:30.",
-                "en": "Don't miss the sunset around 17:30 on the coast."
+                "en": "Don't miss the sunset around 17:30 on the coast.",
+                "es": "No te pierdas el atardecer alrededor de las 17:30 en la costa."
               }
             }
           ],
@@ -1136,6 +1227,13 @@
               "The wind by the sea is significantly colder than in the center.",
               "Plan regular stops at heated cafes to stay warm.",
               "Watch out for shaded areas where the temperature can drop quickly."
+            ],
+            "es": [
+              "Vístete por capas para ajustar la temperatura corporal.",
+              "Los días son cortos; asegúrate de que las luces de la bici funcionen correctamente.",
+              "El viento junto al mar es notablemente más frío que en el centro.",
+              "Planifica paradas regulares en cafés con calefacción para mantenerte caliente.",
+              "Ten cuidado con las zonas sombreadas donde la temperatura puede bajar rápidamente."
             ]
           }
         }
@@ -1154,7 +1252,8 @@
             "de": "Cluster Start: Villa Romana & Nau Gaudí",
             "hu": "Klaszter Kezdete: Római Villa és Nau Gaudí",
             "ro": "Start Cluster: Vila Romană & Nau Gaudí",
-            "en": "Cluster Start: Roman Villa & Nau Gaudí"
+            "en": "Cluster Start: Roman Villa & Nau Gaudí",
+            "es": "Inicio agrupado: Villa Romana y Nau Gaudí"
           },
           "coords": [
             2.4401,
@@ -1170,7 +1269,8 @@
             "de": "Parken Sie hier. Beginnen Sie bei der römischen Villa und gehen Sie dann zu Fuß zu Gaudís erstem Gebäude.",
             "hu": "Parkoljon itt. Kezdje a római villánál, majd sétáljon el Gaudí első épületéhez.",
             "ro": "Parcați aici. Începeți la vila romană, apoi mergeți pe jos până la prima clădire a lui Gaudí.",
-            "en": "Park here. Start at the Roman Villa, then walk to Gaudí's first building."
+            "en": "Park here. Start at the Roman Villa, then walk to Gaudí's first building.",
+            "es": "Aparca aquí. Comienza en la Villa Romana y camina hasta el primer edificio de Gaudí."
           }
         },
         {
@@ -1178,7 +1278,8 @@
             "de": "Nau Gaudí",
             "hu": "Nau Gaudí",
             "ro": "Nau Gaudí",
-            "en": "Nau Gaudí"
+            "en": "Nau Gaudí",
+            "es": "Nau Gaudí"
           },
           "coords": [
             2.4421,
@@ -1194,7 +1295,8 @@
             "de": "Ein kurzer Spaziergang von der Villa. Entdecken Sie die Anfänge des großen Architekten.",
             "hu": "Rövid séta a villától. Fedezze fel a nagy építész kezdeteit.",
             "ro": "O scurtă plimbare de la vilă. Descoperiți începuturile marelui arhitect.",
-            "en": "A short walk from the villa. Discover the great architect's beginnings."
+            "en": "A short walk from the villa. Discover the great architect's beginnings.",
+            "es": "A poca distancia de la villa. Descubre los inicios del gran arquitecto."
           }
         },
         {
@@ -1202,7 +1304,8 @@
             "de": "Cluster Zentrum: La Riera & Modernismus",
             "hu": "Klaszter Központ: La Riera és Modernizmus",
             "ro": "Cluster Centru: La Riera & Modernism",
-            "en": "Cluster Center: La Riera & Modernism"
+            "en": "Cluster Center: La Riera & Modernism",
+            "es": "Centro agrupado: La Riera y Modernismo"
           },
           "coords": [
             2.4452,
@@ -1218,7 +1321,8 @@
             "de": "Fahren Sie ins Zentrum, finden Sie einen Parkplatz und erkunden Sie die Hauptstraße.",
             "hu": "Vezessen a központba, keressen parkolót, és fedezze fel a főutcát.",
             "ro": "Conduceți spre centru, găsiți o parcare și explorați strada principală.",
-            "en": "Drive to the center, find a parking spot, and explore the main street."
+            "en": "Drive to the center, find a parking spot, and explore the main street.",
+            "es": "Ve en coche al centro, busca aparcamiento y explora la calle principal."
           }
         },
         {
@@ -1226,7 +1330,8 @@
             "de": "Casa Coll i Regàs",
             "hu": "Casa Coll i Regàs",
             "ro": "Casa Coll i Regàs",
-            "en": "Casa Coll i Regàs"
+            "en": "Casa Coll i Regàs",
+            "es": "Casa Coll i Regàs"
           },
           "coords": [
             2.4468,
@@ -1242,7 +1347,8 @@
             "de": "Nur wenige Schritte von La Riera entfernt, ein Muss für Architekturliebhaber.",
             "hu": "Csak pár lépésre a La Rierától, kötelező az építészet szerelmeseinek.",
             "ro": "La doar câțiva pași de La Riera, o vizită obligatorie pentru iubitorii de arhitectură.",
-            "en": "Just a few steps from La Riera, a must-see for architecture lovers."
+            "en": "Just a few steps from La Riera, a must-see for architecture lovers.",
+            "es": "A sólo unos pasos de La Riera, imprescindible para amantes de la arquitectura."
           }
         },
         {
@@ -1250,7 +1356,8 @@
             "de": "Basílica de Santa Maria",
             "hu": "Santa Maria Bazilika",
             "ro": "Bazilica Santa Maria",
-            "en": "Basilica of Santa Maria"
+            "en": "Basilica of Santa Maria",
+            "es": "Basílica de Santa María"
           },
           "coords": [
             2.4485,
@@ -1266,7 +1373,8 @@
             "de": "Beenden Sie Ihren Spaziergang durch die Altstadt mit einem Besuch der Hauptkirche.",
             "hu": "Fejezze be óvárosi sétáját a főtemplom meglátogatásával.",
             "ro": "Încheiați plimbarea prin orașul vechi cu o vizită la biserica principală.",
-            "en": "Finish your old town walk with a visit to the main church."
+            "en": "Finish your old town walk with a visit to the main church.",
+            "es": "Termina tu paseo por el casco antiguo con una visita a la iglesia principal."
           }
         },
         {
@@ -1274,7 +1382,8 @@
             "de": "Cluster Küste: Passeig Marítim",
             "hu": "Klaszter Part: Passeig Marítim",
             "ro": "Cluster Coasta: Passeig Marítim",
-            "en": "Coastal Cluster: Passeig Marítim"
+            "en": "Coastal Cluster: Passeig Marítim",
+            "es": "Agrupación costera: Passeig Marítim"
           },
           "coords": [
             2.455,
@@ -1290,7 +1399,8 @@
             "de": "Fahren Sie zum Strand für ein spätes Mittagessen und einen entspannten Nachmittag am Meer.",
             "hu": "Vezessen le a partra egy késői ebédre és egy pihentető délutánra a tengernél.",
             "ro": "Conduceți la plajă pentru un prânz târziu și o după-amiază relaxantă la malul mării.",
-            "en": "Drive down to the beach for a late lunch and a relaxing afternoon by the sea."
+            "en": "Drive down to the beach for a late lunch and a relaxing afternoon by the sea.",
+            "es": "Baja hasta la playa para un almuerzo tardío y una tarde relajada junto al mar."
           }
         }
       ],
@@ -1298,7 +1408,8 @@
         "de": "Ihr Autotag in Mataró ist auf Effizienz ausgelegt. Sie beginnen mit dem historischen Cluster und erkunden zu Fuß die römische Villa und Gaudís erstes Werk. Danach fahren Sie ins Stadtzentrum, parken und entdecken den modernistischen Charme von La Riera und Casa Coll i Regàs. Der Nachmittag gehört ganz der Küste. Eine kurze Fahrt bringt Sie zum Passeig Marítim, wo Sie parken und den Rest des Tages mit Meeresfrüchten, Sonne und Meer verbringen.",
         "hu": "Autós napja Mataróban a hatékonyság jegyében telik. A történelmi klaszterrel kezd, gyalogosan felfedezve a római villát és Gaudí első művét. Ezután a városközpontba hajt, leparkol, és felfedezi a La Riera és a Casa Coll i Regàs modernista báját. A délután a tengerparté. Egy rövid autóút a Passeig Marítimhoz viszi, ahol leparkolhat, és a nap hátralévő részét tengeri ételekkel, napfénnyel és a tengerrel töltheti.",
         "ro": "Ziua cu mașina în Mataró este concepută pentru eficiență. Începeți cu clusterul istoric, explorând pe jos vila romană și prima lucrare a lui Gaudí. Apoi, conduceți spre centrul orașului, parcați și descoperiți farmecul modernist al La Riera și Casei Coll i Regàs. După-amiaza este dedicată coastei. O scurtă călătorie cu mașina vă duce la Passeig Marítim, unde parcați și petreceți restul zilei cu fructe de mare, soare și mare.",
-        "en": "Your car day in Mataró is designed for efficiency. You start with the historical cluster, exploring the Roman villa and Gaudí's first work on foot. Afterwards, you drive to the city center, park, and discover the modernist charm of La Riera and Casa Coll i Regàs. The afternoon is all about the coast. A short drive takes you to the Passeig Marítim, where you park and spend the rest of the day with seafood, sun, and sea."
+        "en": "Your car day in Mataró is designed for efficiency. You start with the historical cluster, exploring the Roman villa and Gaudí's first work on foot. Afterwards, you drive to the city center, park, and discover the modernist charm of La Riera and Casa Coll i Regàs. The afternoon is all about the coast. A short drive takes you to the Passeig Marítim, where you park and spend the rest of the day with seafood, sun, and sea.",
+        "es": "Tu día en coche por Mataró está diseñado para la eficiencia. Comienzas con el conjunto histórico, explorando la villa romana y la primera obra de Gaudí a pie. Después conduces al centro, aparcas y descubres el encanto modernista de La Riera y la Casa Coll i Regàs. La tarde se centra en la costa: un corto trayecto te lleva al Passeig Marítim, donde aparcas y pasas el resto del día entre marisco, sol y playa."
       },
       "gastro_picks": {
         "de": [
@@ -1494,6 +1605,12 @@
           "Underground car parks are the best option in the center.",
           "Plan your route in advance to avoid one-way streets.",
           "The car is ideal for also visiting nearby beaches or villages."
+        ],
+        "es": [
+          "Presta atención a las zonas azules para el aparcamiento de pago en la calle.",
+          "Los aparcamientos subterráneos son la mejor opción en el centro.",
+          "Planifica la ruta con antelación para evitar calles de sentido único.",
+          "El coche es ideal también para visitar playas o pueblos cercanos."
         ]
       },
       "variants": {
@@ -1502,7 +1619,8 @@
             "de": "Wir starten unsere Tour trocken im Auto bei der römischen Villa und der Nau Gaudí. Mittags parken wir in der Nähe der La Riera, um die Architektur der Casa Coll i Regàs ohne weite Fußwege zu genießen. Die Basilika Santa Maria bietet einen ruhigen, überdachten Stopp am Nachmittag. Den Tag lassen wir entspannt an der Küste ausklingen, während der Regen gegen die Windschutzscheibe prasselt.",
             "hu": "A túrát szárazon, az autóban kezdjük a római villánál és a Nau Gaudínál. Délben a La Riera közelében parkolunk, hogy messzi gyaloglás nélkül élvezhessük a Casa Coll i Regàs látványát. A Santa Maria bazilika csendes, fedett megálló délután. A napot a parton fejezzük be, figyelve az autó ablakán kopogó esőt és a tengert.",
             "ro": "Începem turul la adăpost în mașină, vizitând vila romană și Nau Gaudí. La prânz parcăm lângă La Riera pentru a admira Casa Coll i Regàs fără a merge mult pe jos. Bazilica Santa Maria oferă o oprire liniștită după-amiaza. Încheiem ziua relaxați pe coastă, privind ploaia care bate în parbriz și marea.",
-            "en": "We start our tour dry in the car, visiting the Roman Villa and Nau Gaudí. At noon, we park near La Riera to enjoy Casa Coll i Regàs without long walks in the rain. The Santa Maria Basilica provides a quiet, sheltered stop in the afternoon. We wrap up the day at the coast, watching the rain on the windshield and the sea."
+            "en": "We start our tour dry in the car, visiting the Roman Villa and Nau Gaudí. At noon, we park near La Riera to enjoy Casa Coll i Regàs without long walks in the rain. The Santa Maria Basilica provides a quiet, sheltered stop in the afternoon. We wrap up the day at the coast, watching the rain on the windshield and the sea.",
+            "es": "Comenzamos el recorrido secos en el coche, visitando la Villa Romana y Nau Gaudí. Al mediodía aparcamos cerca de La Riera para disfrutar de la Casa Coll i Regàs sin largas caminatas bajo la lluvia. La Basílica de Santa María ofrece una parada tranquila y resguardada por la tarde. Terminamos el día en la costa, viendo la lluvia sobre el parabrisas y el mar."
           },
           "stops": [
             {
@@ -1511,7 +1629,8 @@
                 "de": "Parkplätze sind direkt am Eingang vorhanden.",
                 "hu": "Parkolóhelyek közvetlenül a bejáratnál találhatók.",
                 "ro": "Locuri de parcare disponibile chiar la intrare.",
-                "en": "Parking spaces are available right at the entrance."
+                "en": "Parking spaces are available right at the entrance.",
+                "es": "Hay plazas de aparcamiento justo en la entrada."
               }
             },
             {
@@ -1520,7 +1639,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz zum trockenen Museum.",
                 "hu": "Rövid séta a parkolótól a száraz múzeumig.",
                 "ro": "Scurtă plimbare de la parcare până la muzeu.",
-                "en": "Short walk from the parking area to the dry museum."
+                "en": "Short walk from the parking area to the dry museum.",
+                "es": "Corta caminata desde el aparcamiento hasta el museo seco."
               }
             },
             {
@@ -1529,7 +1649,8 @@
                 "de": "Nutzen Sie das Parkhaus im Stadtzentrum.",
                 "hu": "Használja a városközpontban lévő parkolóházat.",
                 "ro": "Folosiți parcarea subterană din centrul orașului.",
-                "en": "Use the underground parking in the city center."
+                "en": "Use the underground parking in the city center.",
+                "es": "Utiliza el aparcamiento subterráneo en el centro de la ciudad."
               }
             },
             {
@@ -1538,7 +1659,8 @@
                 "de": "Aussteigen direkt vor der Tür für Fotos möglich.",
                 "hu": "Kiszállási lehetőség közvetlenül a bejáratnál.",
                 "ro": "Posibilitate de oprire scurtă chiar în fața porții.",
-                "en": "Possible to drop off passengers right at the door."
+                "en": "Possible to drop off passengers right at the door.",
+                "es": "Posible dejar pasajeros justo en la puerta."
               }
             },
             {
@@ -1547,7 +1669,8 @@
                 "de": "Ideal für einen kurzen, trockenen Kulturstopp.",
                 "hu": "Ideális egy rövid, száraz kulturális megállóhoz.",
                 "ro": "Ideal pentru o scurtă oprire culturală la uscat.",
-                "en": "Ideal for a quick, dry cultural stop during the rain."
+                "en": "Ideal for a quick, dry cultural stop during the rain.",
+                "es": "Ideal para una rápida parada cultural y seca durante la lluvia."
               }
             },
             {
@@ -1556,7 +1679,8 @@
                 "de": "Parken Sie direkt an der Promenade für Meerblick.",
                 "hu": "Parkoljon közvetlenül a sétánynál a kilátásért.",
                 "ro": "Parcați chiar pe faleză pentru vedere la mare.",
-                "en": "Park right by the promenade for a sea view."
+                "en": "Park right by the promenade for a sea view.",
+                "es": "Aparca junto al paseo para tener vistas al mar."
               }
             }
           ],
@@ -1588,6 +1712,13 @@
               "Visibility can be limited along the beach during heavy downpours.",
               "Always keep an umbrella in the car for the walk to the entrances.",
               "Check your windshield wipers before driving through Mataró."
+            ],
+            "es": [
+              "Utiliza los parkings subterráneos del centro para mantenerte seco.",
+              "Evita las carreteras costeras durante lluvias fuertes por posible inundación.",
+              "La visibilidad puede ser limitada en la playa durante fuertes chaparrones.",
+              "Siempre lleva un paraguas en el coche para el tramo a pie hasta las entradas.",
+              "Revisa los limpiaparabrisas antes de conducir por Mataró."
             ]
           }
         },
@@ -1596,7 +1727,8 @@
             "de": "An einem klaren Wintertag beginnen wir komfortabel bei der römischen Villa und der Nau Gaudí. Das Auto ermöglicht uns einen schnellen Wechsel zum Stadtzentrum, wo wir die Casa Coll i Regàs im Mittagslicht besuchen. Nach einem kurzen Stopp an der Basilika Santa Maria fahren wir zum Passeig Marítim. Dort genießen wir den Sonnenuntergang bequem vom warmen Auto aus oder bei einem kurzen Spaziergang am Meer.",
             "hu": "Egy tiszta téli napon kényelmesen kezdünk a római villánál és a Nau Gaudínál. Az autó lehetővé teszi a gyors váltást a városközpontba, ahol a Casa Coll i Regàs-t látogatjuk meg déli fényben. A Santa Maria bazilika után a Passeig Marítim felé vesszük az irányt. Ott a meleg autóból vagy egy rövid sétával élvezzük a naplementét a tenger felett.",
             "ro": "Într-o zi senină de iarnă începem confortabil la vila romană și Nau Gaudí. Mașina ne permite o deplasare rapidă spre centrul orașului pentru a vedea Casa Coll i Regàs în lumina prânzului. După bazilica Santa Maria, mergem spre faleză. Acolo admirăm apusul din mașina caldă sau în timpul unei scurte plimbări pe malul mării.",
-            "en": "On a clear winter day, we begin comfortably at the Roman Villa and Nau Gaudí. The car allows us to quickly move to the city center to see Casa Coll i Regàs in the midday light. After visiting the Santa Maria Basilica, we head to the promenade. There, we enjoy the sunset from the warm car or during a brief walk by the sea."
+            "en": "On a clear winter day, we begin comfortably at the Roman Villa and Nau Gaudí. The car allows us to quickly move to the city center to see Casa Coll i Regàs in the midday light. After visiting the Santa Maria Basilica, we head to the promenade. There, we enjoy the sunset from the warm car or during a brief walk by the sea.",
+            "es": "En un día claro de invierno, comenzamos cómodos en la Villa Romana y Nau Gaudí. El coche nos permite movernos rápido al centro para ver la Casa Coll i Regàs con la luz del mediodía. Tras visitar la Basílica de Santa María, nos dirigimos al paseo, donde disfrutamos del atardecer desde el coche caliente o durante una breve caminata junto al mar."
           },
           "stops": [
             {
@@ -1605,7 +1737,8 @@
                 "de": "Heizung im Auto sorgt für angenehme Pausen.",
                 "hu": "Az autó fűtése kellemes pihenőt biztosít.",
                 "ro": "Încălzirea din mașină oferă pauze plăcute.",
-                "en": "Car heating provides comfortable breaks between stops."
+                "en": "Car heating provides comfortable breaks between stops.",
+                "es": "La calefacción del coche ofrece descansos cómodos entre paradas."
               }
             },
             {
@@ -1614,7 +1747,8 @@
                 "de": "Nutzen Sie den Parkplatz direkt vor dem Gebäude.",
                 "hu": "Használja az épület előtti közvetlen parkolót.",
                 "ro": "Folosiți parcarea din fața clădirii.",
-                "en": "Use the parking lot directly in front of the building."
+                "en": "Use the parking lot directly in front of the building.",
+                "es": "Utiliza el aparcamiento justo delante del edificio."
               }
             },
             {
@@ -1623,7 +1757,8 @@
                 "de": "Parkhäuser sind im Winter weniger überfüllt.",
                 "hu": "A parkolóházak télen kevésbé zsúfoltak.",
                 "ro": "Parcările subterane sunt mai libere iarna.",
-                "en": "Parking garages are generally less crowded in winter."
+                "en": "Parking garages are generally less crowded in winter.",
+                "es": "Los parkings suelen estar menos concurridos en invierno."
               }
             },
             {
@@ -1632,7 +1767,8 @@
                 "de": "Das klare Licht ist ideal für Architekturfotos.",
                 "hu": "A tiszta fény ideális az építészeti fotókhoz.",
                 "ro": "Lumina clară este ideală pentru fotografii.",
-                "en": "The clear light is ideal for architectural photography."
+                "en": "The clear light is ideal for architectural photography.",
+                "es": "La luz clara es ideal para la fotografía arquitectónica."
               }
             },
             {
@@ -1641,7 +1777,8 @@
                 "de": "Kurzer Stopp ohne lange Parkplatzsuche möglich.",
                 "hu": "Rövid megálló hosszú parkolókeresés nélkül.",
                 "ro": "Oprire scurtă fără a căuta mult parcare.",
-                "en": "Quick stop possible without a long search for parking."
+                "en": "Quick stop possible without a long search for parking.",
+                "es": "Parada rápida posible sin buscar mucho aparcamiento."
               }
             },
             {
@@ -1650,7 +1787,8 @@
                 "de": "Bester Platz für den Sonnenuntergang im Warmen.",
                 "hu": "A legjobb hely a naplemente melegben való nézésére.",
                 "ro": "Cel mai bun loc pentru apus la căldură.",
-                "en": "Best spot to watch the sunset while staying warm."
+                "en": "Best spot to watch the sunset while staying warm.",
+                "es": "Mejor lugar para ver el atardecer manteniéndote abrigado."
               }
             }
           ],
@@ -1682,6 +1820,13 @@
               "Plan your return trip before the early darkness sets in.",
               "Keep your defroster active to maintain clear visibility.",
               "The car can cool down quickly near the sea with the engine off."
+            ],
+            "es": [
+              "Aprovecha distancias de paseo más cortas aparcando estratégicamente.",
+              "El sol bajo de invierno puede deslumbrar al conducir por la costa.",
+              "Planifica la vuelta antes de que caiga la oscuridad temprana.",
+              "Mantén el desempañador activado para una visión clara.",
+              "El coche puede enfriarse rápido cerca del mar con el motor apagado."
             ]
           }
         }
@@ -1700,7 +1845,8 @@
             "de": "Start: Bahnhof & Nau Gaudí",
             "hu": "Kezdés: Pályaudvar és Nau Gaudí",
             "ro": "Start: Gară & Nau Gaudí",
-            "en": "Start: Train Station & Nau Gaudí"
+            "en": "Start: Train Station & Nau Gaudí",
+            "es": "Inicio: Estación de tren y Nau Gaudí"
           },
           "coords": [
             2.4421,
@@ -1716,7 +1862,8 @@
             "de": "Beginnen Sie Ihren Tag direkt am Bahnhof, wo sich Gaudís erstes Werk befindet.",
             "hu": "Kezdje a napot közvetlenül a pályaudvarnál, ahol Gaudí első alkotása található.",
             "ro": "Începeți ziua chiar de la gară, unde se află prima lucrare a lui Gaudí.",
-            "en": "Start your day right at the train station, where Gaudí's first work is located."
+            "en": "Start your day right at the train station, where Gaudí's first work is located.",
+            "es": "Comienza bien el día en la estación de tren, donde se ubica la primera obra de Gaudí."
           }
         },
         {
@@ -1724,7 +1871,8 @@
             "de": "Cluster Zentrum: La Riera",
             "hu": "Klaszter Központ: La Riera",
             "ro": "Cluster Centru: La Riera",
-            "en": "Cluster Center: La Riera"
+            "en": "Cluster Center: La Riera",
+            "es": "Centro agrupado: La Riera"
           },
           "coords": [
             2.4452,
@@ -1740,7 +1888,8 @@
             "de": "Nehmen Sie einen lokalen Bus ins Herz der Stadt und steigen Sie an der Riera aus.",
             "hu": "Menjen helyi busszal a város szívébe, és szálljon le a La Rieránál.",
             "ro": "Luați un autobuz local spre inima orașului și coborâți la Riera.",
-            "en": "Take a local bus into the heart of the city and get off at La Riera."
+            "en": "Take a local bus into the heart of the city and get off at La Riera.",
+            "es": "Toma un autobús local al centro de la ciudad y baja en La Riera."
           }
         },
         {
@@ -1748,7 +1897,8 @@
             "de": "Casa Coll i Regàs",
             "hu": "Casa Coll i Regàs",
             "ro": "Casa Coll i Regàs",
-            "en": "Casa Coll i Regàs"
+            "en": "Casa Coll i Regàs",
+            "es": "Casa Coll i Regàs"
           },
           "coords": [
             2.4468,
@@ -1764,7 +1914,8 @@
             "de": "Ein kurzer Spaziergang, um dieses modernistische Juwel zu entdecken.",
             "hu": "Rövid séta e modernista gyöngyszem felfedezéséhez.",
             "ro": "O scurtă plimbare pentru a descoperi această bijuterie modernistă.",
-            "en": "A short walk to discover this modernist gem."
+            "en": "A short walk to discover this modernist gem.",
+            "es": "A poca distancia a pie para descubrir esta joya modernista."
           }
         },
         {
@@ -1772,7 +1923,8 @@
             "de": "Basílica de Santa Maria",
             "hu": "Santa Maria Bazilika",
             "ro": "Bazilica Santa Maria",
-            "en": "Basilica of Santa Maria"
+            "en": "Basilica of Santa Maria",
+            "es": "Basílica de Santa María"
           },
           "coords": [
             2.4485,
@@ -1788,7 +1940,8 @@
             "de": "Setzen Sie Ihren Spaziergang durch die Altstadt zur beeindruckenden Basilika fort.",
             "hu": "Folytassa sétáját az óvárosban a lenyűgöző bazilikáig.",
             "ro": "Continuați plimbarea prin orașul vechi până la impresionanta bazilică.",
-            "en": "Continue your walk through the old town to the impressive basilica."
+            "en": "Continue your walk through the old town to the impressive basilica.",
+            "es": "Continúa tu paseo por el casco antiguo hasta la impresionante basílica."
           }
         },
         {
@@ -1796,7 +1949,8 @@
             "de": "Cluster Küste: Passeig Marítim",
             "hu": "Klaszter Part: Passeig Marítim",
             "ro": "Cluster Coasta: Passeig Marítim",
-            "en": "Coastal Cluster: Passeig Marítim"
+            "en": "Coastal Cluster: Passeig Marítim",
+            "es": "Agrupación costera: Passeig Marítim"
           },
           "coords": [
             2.455,
@@ -1812,7 +1966,8 @@
             "de": "Ein Bus bringt Sie direkt zum Strand, wo Sie den Nachmittag verbringen können.",
             "hu": "Egy busz egyenesen a tengerpartra viszi, ahol a délutánt töltheti.",
             "ro": "Un autobuz vă va duce direct la plajă, unde vă puteți petrece după-amiaza.",
-            "en": "A bus will take you directly to the beach area to spend the afternoon."
+            "en": "A bus will take you directly to the beach area to spend the afternoon.",
+            "es": "Un autobús te llevará directamente a la zona de la playa para pasar la tarde."
           }
         },
         {
@@ -1820,7 +1975,8 @@
             "de": "Villa Romana de Can Llauder",
             "hu": "Can Llauder római villa",
             "ro": "Vila Romană din Can Llauder",
-            "en": "Roman Villa of Can Llauder"
+            "en": "Roman Villa of Can Llauder",
+            "es": "Villa romana de Can Llauder"
           },
           "coords": [
             2.4401,
@@ -1836,7 +1992,8 @@
             "de": "Ein letzter kurzer Spaziergang vom Strand zu den römischen Ruinen, bevor Sie den Zug zurück nehmen.",
             "hu": "Egy utolsó rövid séta a strandról a római romokhoz, mielőtt visszaindulna a vonattal.",
             "ro": "O ultimă plimbare scurtă de la plajă la ruinele romane înainte de a lua trenul înapoi.",
-            "en": "A final short walk from the beach to the Roman ruins before taking the train back."
+            "en": "A final short walk from the beach to the Roman ruins before taking the train back.",
+            "es": "Una última caminata corta desde la playa hasta las ruinas romanas antes de tomar el tren de vuelta."
           }
         }
       ],
@@ -1844,7 +2001,8 @@
         "de": "Mit den öffentlichen Verkehrsmitteln entdecken Sie Mataró ganz entspannt. Sie starten am Bahnhof bei Gaudís Nau, bevor ein Bus Sie ins Zentrum bringt. Dort erkunden Sie zu Fuß La Riera, Casa Coll i Regàs und die Basilika. Ein weiterer Bus bringt Sie am Nachmittag zum Strand für eine ausgedehnte Pause mit Mittagessen. Der Tag endet mit einem Spaziergang zu den römischen Ruinen, günstig gelegen für Ihre Rückfahrt mit dem Zug.",
         "hu": "A tömegközlekedéssel kényelmesen felfedezheti Matarót. A Gaudí Nau-nál, a pályaudvarnál kezd, mielőtt egy busz a központba vinne. Ott gyalogosan fedezi fel a La Rierát, a Casa Coll i Regàs-t és a bazilikát. Délután egy másik busz a tengerpartra viszi egy hosszabb ebédszünetre. A nap a római romokhoz tett sétával zárul, amely kényelmesen helyezkedik el a vonattal való visszautazáshoz.",
         "ro": "Folosind transportul public, explorați Mataró într-un mod relaxat. Începeți la gară, la Nau Gaudí, înainte ca un autobuz să vă ducă în centru. Acolo, explorați pe jos La Riera, Casa Coll i Regàs și bazilica. Un alt autobuz vă duce la plajă după-amiaza pentru o pauză lungă de prânz. Ziua se încheie cu o plimbare până la ruinele romane, convenabil situate pentru călătoria de întoarcere cu trenul.",
-        "en": "Using public transport, you'll discover Mataró in a relaxed way. You start at the train station at Gaudí's Nau before a bus takes you to the center. There, you explore La Riera, Casa Coll i Regàs, and the basilica on foot. Another bus takes you to the beach in the afternoon for a long lunch break. The day ends with a walk to the Roman ruins, conveniently located for your train journey back."
+        "en": "Using public transport, you'll discover Mataró in a relaxed way. You start at the train station at Gaudí's Nau before a bus takes you to the center. There, you explore La Riera, Casa Coll i Regàs, and the basilica on foot. Another bus takes you to the beach in the afternoon for a long lunch break. The day ends with a walk to the Roman ruins, conveniently located for your train journey back.",
+        "es": "Usando transporte público, descubrirás Mataró de forma relajada. Empiezas en la estación de tren junto a la Nau de Gaudí antes de que un autobús te lleve al centro. Allí exploras La Riera, la Casa Coll i Regàs y la basílica a pie. Otro autobús te lleva por la tarde a la playa para una larga pausa para comer. El día termina con una caminata hasta las ruinas romanas, ubicadas de forma conveniente para tu viaje en tren de regreso."
       },
       "gastro_picks": {
         "de": [
@@ -2038,6 +2196,12 @@
           "Check bus schedules in advance, especially on weekends.",
           "Most buses are air-conditioned.",
           "The train from Barcelona is an easy and scenic way to reach Mataró."
+        ],
+        "es": [
+          "Compra una tarjeta T-10 para múltiples viajes.",
+          "Consulta los horarios de los autobuses con antelación, especialmente los fines de semana.",
+          "La mayoría de los autobuses tienen aire acondicionado.",
+          "El tren desde Barcelona es una forma fácil y paisajística de llegar a Mataró."
         ]
       },
       "variants": {
@@ -2046,7 +2210,8 @@
             "de": "Wir starten am Bahnhof und besuchen die nahegelegene Nau Gaudí im Trockenen. Mit dem Bus geht es weiter zur La Riera, wo wir zwischen den Schauern die Casa Coll i Regàs und die Basilika besichtigen. Am Nachmittag bringt uns der Transit zum Passeig Marítim, wo wir den Regen vom Bahnhofscafé aus beobachten. Den Tag beschließen wir mit einer kurzen Busfahrt zur römischen Villa Can Llauder.",
             "hu": "A vasútállomáson kezdünk, és szárazon látogatjuk meg a közeli Nau Gaudít. Busszal megyünk tovább a La Rierához, ahol a záporok között megnézzük a Casa Coll i Regàs-t és a bazilikát. Délután a tömegközlekedés a Passeig Marítimhoz visz, ahol az állomás kávézójából nézzük az esőt. A napot egy rövid buszos úttal zárjuk a Can Llauder római villához.",
             "ro": "Începem la gară și vizităm Nau Gaudí la uscat, fiind foarte aproape. Cu autobuzul mergem la La Riera, vizitând Casa Coll i Regàs și bazilica între reprizele de ploaie. După-amiaza, transportul ne duce la Passeig Marítim, unde privim ploaia din cafeneaua gării. Încheiem ziua cu o scurtă călătorie spre vila romană Can Llauder.",
-            "en": "We start at the train station and visit the nearby Nau Gaudí while staying dry. We take the bus to La Riera, touring Casa Coll i Regàs and the Basilica between showers. In the afternoon, transit takes us to Passeig Marítim, where we watch the rain from the station cafe. We finish the day with a short bus ride to the Roman Villa of Can Llauder."
+            "en": "We start at the train station and visit the nearby Nau Gaudí while staying dry. We take the bus to La Riera, touring Casa Coll i Regàs and the Basilica between showers. In the afternoon, transit takes us to Passeig Marítim, where we watch the rain from the station cafe. We finish the day with a short bus ride to the Roman Villa of Can Llauder.",
+            "es": "Comenzamos en la estación de tren y visitamos la cercana Nau Gaudí permaneciendo secos. Tomamos el autobús a La Riera, recorriendo la Casa Coll i Regàs y la Basílica entre los chubascos. Por la tarde, el transporte nos lleva al Passeig Marítim, donde observamos la lluvia desde la cafetería de la estación. Terminamos el día con un corto trayecto en autobús hasta la Villa romana de Can Llauder."
           },
           "stops": [
             {
@@ -2055,7 +2220,8 @@
                 "de": "Der Bahnhof bietet Schutz beim Warten auf den Bus.",
                 "hu": "A vasútállomás védelmet nyújt a buszra váráskor.",
                 "ro": "Gara oferă adăpost în timp ce așteptați autobuzul.",
-                "en": "The train station provides shelter while waiting for the bus."
+                "en": "The train station provides shelter while waiting for the bus.",
+                "es": "La estación de tren ofrece refugio mientras esperas el autobús."
               }
             },
             {
@@ -2064,7 +2230,8 @@
                 "de": "Die Bushaltestellen im Zentrum sind meist überdacht.",
                 "hu": "A központi buszmegállók többnyire fedettek.",
                 "ro": "Stațiile de autobuz centrale sunt majoritatea acoperite.",
-                "en": "Most central bus stops are covered to protect from rain."
+                "en": "Most central bus stops are covered to protect from rain.",
+                "es": "La mayoría de las paradas céntricas de autobús están cubiertas para proteger de la lluvia."
               }
             },
             {
@@ -2073,7 +2240,8 @@
                 "de": "Nur ein kurzer Fußweg von der Bushaltestelle entfernt.",
                 "hu": "Csak rövid séta a legközelebbi buszmegállótól.",
                 "ro": "La doar o scurtă plimbare de stația de autobuz.",
-                "en": "Only a short walk from the nearest bus stop."
+                "en": "Only a short walk from the nearest bus stop.",
+                "es": "A solo un corto paseo desde la parada de autobús más cercana."
               }
             },
             {
@@ -2082,7 +2250,8 @@
                 "de": "Idealer Ort, um eine Regenpause einzulegen.",
                 "hu": "Ideális helyszín egy rövid esőszünetre.",
                 "ro": "Loc ideal pentru o pauză în timpul ploii.",
-                "en": "An ideal place to wait out a sudden rain shower."
+                "en": "An ideal place to wait out a sudden rain shower.",
+                "es": "Un lugar ideal para esperar a que pase un chaparrón repentino."
               }
             },
             {
@@ -2091,7 +2260,8 @@
                 "de": "Direkte Zugverbindungen nach Barcelona bei Wetteränderung.",
                 "hu": "Közvetlen vonatjáratok Barcelonába időjárásváltozáskor.",
                 "ro": "Conexiuni directe cu trenul spre Barcelona.",
-                "en": "Direct train connections to Barcelona available nearby."
+                "en": "Direct train connections to Barcelona available nearby.",
+                "es": "Conexiones directas en tren con Barcelona disponibles cerca."
               }
             },
             {
@@ -2100,7 +2270,8 @@
                 "de": "Prüfen Sie die Busverbindung für den Rückweg.",
                 "hu": "Ellenőrizze a buszmenetrendet a visszautazáshoz.",
                 "ro": "Verificați orarul autobuzelor pentru întoarcere.",
-                "en": "Check the bus schedule for your return trip."
+                "en": "Check the bus schedule for your return trip.",
+                "es": "Consulta el horario del autobús para tu viaje de regreso."
               }
             }
           ],
@@ -2132,6 +2303,13 @@
               "Keep your ticket handy to avoid searching for it in the rain.",
               "Many central bus stops offer sufficient shelter from the downpour.",
               "Nau Gaudí is very close to the station, making it a perfect rainy start."
+            ],
+            "es": [
+              "Usa la app Mataró Bus para información en tiempo real sobre salidas.",
+              "Trenes y autobuses ofrecen una alternativa cálida y seca para viajar.",
+              "Ten el billete a mano para evitar buscarlo bajo la lluvia.",
+              "Muchas paradas centrales de autobús ofrecen suficiente refugio del aguacero.",
+              "La Nau Gaudí está muy cerca de la estación, por lo que es un comienzo perfecto para un día lluvioso."
             ]
           }
         },
@@ -2140,7 +2318,8 @@
             "de": "Ein klarer Wintermorgen beginnt am Bahnhof von Mataró mit dem Besuch der Nau Gaudí. Mit dem Bus erreichen wir zügig das Zentrum und die Casa Coll i Regàs im hellen Mittagslicht. Nach der Basilika Santa Maria nutzen wir den Transit zum Passeig Marítim, um die Meeresbrise zu genießen. Den Tag lassen wir mit einer Fahrt zur römischen Villa Can Llauder ausklingen, bevor die Dämmerung einsetzt.",
             "hu": "A tiszta téli reggel a matarii vasútállomáson kezdődik a Nau Gaudí meglátogatásával. Busszal gyorsan elérjük a központot és a Casa Coll i Regàs-t a déli fényben. A Santa Maria bazilika után tömegközlekedéssel megyünk a Passeig Marítimhoz a tengeri szellőért. A napot a Can Llauder római villánál zárjuk, még mielőtt leszállna az alkony.",
             "ro": "O dimineață senină de iarnă începe la gara din Mataró cu vizitarea Nau Gaudí. Cu autobuzul ajungem rapid în centru la Casa Coll i Regàs în lumina prânzului. După bazilica Santa Maria, folosim transportul public spre faleză. Încheiem ziua la vila romană Can Llauder înainte de lăsarea serii.",
-            "en": "A clear winter morning begins at Mataró station with a visit to Nau Gaudí. We take the bus to reach the center and Casa Coll i Regàs in the bright midday light. After the Santa Maria Basilica, we use transit to get to Passeig Marítim for the sea breeze. We finish the day with a trip to the Roman Villa of Can Llauder before dusk falls."
+            "en": "A clear winter morning begins at Mataró station with a visit to Nau Gaudí. We take the bus to reach the center and Casa Coll i Regàs in the bright midday light. After the Santa Maria Basilica, we use transit to get to Passeig Marítim for the sea breeze. We finish the day with a trip to the Roman Villa of Can Llauder before dusk falls.",
+            "es": "Una clara mañana de invierno comienza en la estación de Mataró con una visita a la Nau Gaudí. Tomamos el autobús para llegar al centro y a la Casa Coll i Regàs con la luz brillante del mediodía. Tras la Basílica de Santa María, usamos el transporte para llegar al Passeig Marítim y disfrutar de la brisa marina. Terminamos el día con un viaje a la Villa romana de Can Llauder antes del anochecer."
           },
           "stops": [
             {
@@ -2149,7 +2328,8 @@
                 "de": "Innenräume des Bahnhofs sind im Winter beheizt.",
                 "hu": "A vasútállomás belső terei télen fűtöttek.",
                 "ro": "Spațiile interioare ale gării sunt încălzite iarna.",
-                "en": "The indoor areas of the station are heated in winter."
+                "en": "The indoor areas of the station are heated in winter.",
+                "es": "Las zonas interiores de la estación están calefactadas en invierno."
               }
             },
             {
@@ -2158,7 +2338,8 @@
                 "de": "Zentrale Umsteigestelle für viele Buslinien.",
                 "hu": "Központi átszállási pont számos buszjárat számára.",
                 "ro": "Punct central de transfer pentru multe linii de autobuz.",
-                "en": "A central transfer point for many bus lines in the city."
+                "en": "A central transfer point for many bus lines in the city.",
+                "es": "Un punto central de transbordo para muchas líneas de autobús de la ciudad."
               }
             },
             {
@@ -2167,7 +2348,8 @@
                 "de": "Gut zu Fuß von den zentralen Bushaltestellen erreichbar.",
                 "hu": "Gyalogosan könnyen elérhető a központi megállóktól.",
                 "ro": "Ușor accesibil pe jos de la stațiile centrale.",
-                "en": "Easily accessible on foot from central bus stops."
+                "en": "Easily accessible on foot from central bus stops.",
+                "es": "Fácilmente accesible a pie desde las paradas de autobús del centro."
               }
             },
             {
@@ -2176,7 +2358,8 @@
                 "de": "Ein warmer Ort für eine kurze Pause am Nachmittag.",
                 "hu": "Meleg helyszín egy rövid délutáni pihenőhöz.",
                 "ro": "Un loc cald pentru o scurtă pauză după-amiaza.",
-                "en": "A warm location for a short afternoon break."
+                "en": "A warm location for a short afternoon break.",
+                "es": "Un lugar cálido para una breve pausa por la tarde."
               }
             },
             {
@@ -2185,7 +2368,8 @@
                 "de": "Züge fahren im Winter seltener, Fahrplan prüfen.",
                 "hu": "A vonatok télen ritkábban járhatnak, nézze a menetrendet.",
                 "ro": "Trenurile pot circula mai rar iarna, verificați orarul.",
-                "en": "Trains may run less frequently in winter; check schedules."
+                "en": "Trains may run less frequently in winter; check schedules.",
+                "es": "Los trenes pueden circular con menos frecuencia en invierno; consulta los horarios."
               }
             },
             {
@@ -2194,7 +2378,8 @@
                 "de": "Letzte Busfahrt vor Einbruch der Dunkelheit planen.",
                 "hu": "Tervezze az utolsó buszos utat sötétedés előtt.",
                 "ro": "Planificați ultima cursă de autobuz înainte de întuneric.",
-                "en": "Plan your last bus trip before the early darkness."
+                "en": "Plan your last bus trip before the early darkness.",
+                "es": "Planifica tu último viaje en autobús antes de la temprana oscuridad."
               }
             }
           ],
@@ -2226,6 +2411,13 @@
               "Be aware of the winter schedule, which may change on holidays.",
               "Nau Gaudí is a great spot to warm up after your train journey.",
               "Combine bus and train services for efficient city exploration."
+            ],
+            "es": [
+              "Abrígate adecuadamente para los periodos de espera en paradas de autobús al aire libre.",
+              "Los autobuses en Mataró son fiables y están bien calefactados durante el invierno.",
+              "Ten en cuenta el horario de invierno, que puede cambiar en días festivos.",
+              "La Nau Gaudí es un gran lugar para entrar en calor tras tu viaje en tren.",
+              "Combina servicios de autobús y tren para explorar la ciudad de manera eficiente."
             ]
           }
         }

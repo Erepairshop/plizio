@@ -21,7 +21,8 @@
             "de": "Platja dels Capellans",
             "hu": "Platja dels Capellans",
             "ro": "Platja dels Capellans",
-            "en": "Platja dels Capellans"
+            "en": "Platja dels Capellans",
+            "es": "Platja dels Capellans"
           },
           "coords": [
             3.194144,
@@ -36,7 +37,8 @@
             "de": "Genießen Sie das klare Wasser und bringen Sie Badeschuhe mit, da der idyllische Strand kieselig ist.",
             "hu": "Élvezze a tiszta vizet, és hozzon magával fürdőcipőt, mivel az idilli strand kavicsos.",
             "ro": "Bucurați-vă de apa limpede și aduceți încălțăminte de baie, deoarece plaja idilică are pietriș.",
-            "en": "Enjoy the clear water and bring bathing shoes, as the idyllic beach is pebbly."
+            "en": "Enjoy the clear water and bring bathing shoes, as the idyllic beach is pebbly.",
+            "es": "Disfruta del agua transparente y lleva escarpines, ya que la idílica playa es de guijarros."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Platja del Rec de Canet",
             "hu": "Platja del Rec de Canet",
             "ro": "Platja del Rec de Canet",
-            "en": "Platja del Rec de Canet"
+            "en": "Platja del Rec de Canet",
+            "es": "Platja del Rec de Canet"
           },
           "coords": [
             3.190227,
@@ -59,7 +62,8 @@
             "de": "Ein perfekter, ruhiger Ort zum Schnorcheln, also vergessen Sie Ihre Taucherbrille nicht.",
             "hu": "Tökéletes, nyugodt hely sznorkelezéshez, ezért ne felejtse el a búvárszemüvegét.",
             "ro": "Un loc perfect și liniștit pentru snorkeling, deci nu uitați ochelarii de scufundare.",
-            "en": "A perfect, quiet place for snorkeling, so don't forget your diving goggles."
+            "en": "A perfect, quiet place for snorkeling, so don't forget your diving goggles.",
+            "es": "Un lugar perfecto y tranquilo para hacer esnórquel, no olvides las gafas de buceo."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Platja d'en Pere Esteve",
             "hu": "Platja d'en Pere Esteve",
             "ro": "Platja d'en Pere Esteve",
-            "en": "Platja d'en Pere Esteve"
+            "en": "Platja d'en Pere Esteve",
+            "es": "Platja d'en Pere Esteve"
           },
           "coords": [
             3.189456,
@@ -82,7 +87,8 @@
             "de": "Suchen Sie sich frühzeitig einen schattigen Platz unter den Felsen für ein entspanntes Picknick am Meer.",
             "hu": "Keressen korán egy árnyékos helyet a sziklák alatt egy pihentető piknikhez a tengerparton.",
             "ro": "Găsiți devreme un loc umbrit sub stânci pentru un picnic relaxant pe malul mării.",
-            "en": "Find a shady spot under the rocks early on for a relaxing picnic by the sea."
+            "en": "Find a shady spot under the rocks early on for a relaxing picnic by the sea.",
+            "es": "Busca pronto un lugar a la sombra entre las rocas para un picnic relajante junto al mar."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Platja de la Vall",
             "hu": "Platja de la Vall",
             "ro": "Platja de la Vall",
-            "en": "Platja de la Vall"
+            "en": "Platja de la Vall",
+            "es": "Platja de la Vall"
           },
           "coords": [
             3.186172,
@@ -105,7 +112,8 @@
             "de": "Packen Sie ein gutes Buch ein, denn diese kleine Bucht ist meist sehr ruhig und herrlich abgeschieden.",
             "hu": "Csomagoljon be egy jó könyvet, mert ez a kis öböl általában nagyon csendes és csodálatosan elszigetelt.",
             "ro": "Împachetați o carte bună, deoarece acest mic golf este de obicei foarte liniștit și minunat de izolat.",
-            "en": "Pack a good book, because this small bay is usually very quiet and wonderfully secluded."
+            "en": "Pack a good book, because this small bay is usually very quiet and wonderfully secluded.",
+            "es": "Lleva un buen libro, porque esta pequeña cala suele estar muy tranquila y maravillosamente apartada."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Platja de l'Olla",
             "hu": "Platja de l'Olla",
             "ro": "Platja de l'Olla",
-            "en": "Platja de l'Olla"
+            "en": "Platja de l'Olla",
+            "es": "Platja de l'Olla"
           },
           "coords": [
             3.185149,
@@ -128,7 +137,8 @@
             "de": "Bleiben Sie bis zum späten Nachmittag, um das goldene Licht auf dem glitzernden Wasser zu bewundern.",
             "hu": "Maradjon késő délutánig, hogy megcsodálja a csillogó vízen megcsillanó aranyfényt.",
             "ro": "Rămâneți până târziu după-amiaza pentru a admira lumina aurie de pe apa strălucitoare.",
-            "en": "Stay until late afternoon to admire the golden light on the sparkling water."
+            "en": "Stay until late afternoon to admire the golden light on the sparkling water.",
+            "es": "Quédate hasta la tarde para admirar la luz dorada sobre el agua brillante."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Ein entspannter Spaziergang entlang der malerischen Küste von El Port de la Selva beginnt am idyllischen Strand Capellans. Gegen Mittag erreichen wir die ruhige Bucht Rec de Canet für eine kleine Pause. Nachmittags spazieren wir zu den Stränden Pere Esteve und La Vall, die perfekte Fotomotive bieten. Der Tag endet gemütlich am Platja de l'Olla mit einem herrlichen Blick auf das glitzernde Meer.",
         "hu": "Egy pihentető séta El Port de la Selva festői partvidékén, amely az idilli Capellans strandon kezdődik. Délben elérjük a csendes Rec de Canet öblöt egy kis pihenőre. Délután a Pere Esteve és La Vall strandokhoz sétálunk, amelyek tökéletes fotótémákat kínálnak. A nap a Platja de l'Olla strandon ér véget, ahonnan csodálatos kilátás nyílik a csillogó tengerre.",
         "ro": "O plimbare relaxantă de-a lungul coastei pitorești din El Port de la Selva începe la plaja idilică Capellans. La prânz ajungem în golful liniștit Rec de Canet pentru o scurtă pauză. După-amiaza ne plimbăm spre plajele Pere Esteve și La Vall, care oferă oportunități perfecte pentru fotografii. Ziua se încheie confortabil la Platja de l'Olla, cu o vedere minunată asupra mării strălucitoare.",
-        "en": "A relaxing walk along the picturesque coast of El Port de la Selva begins at the idyllic Capellans beach. At noon we reach the quiet Rec de Canet bay for a short break. In the afternoon we walk to the Pere Esteve and La Vall beaches, which offer perfect photo opportunities. The day ends comfortably at Platja de l'Olla with a wonderful view of the sparkling sea."
+        "en": "A relaxing walk along the picturesque coast of El Port de la Selva begins at the idyllic Capellans beach. At noon we reach the quiet Rec de Canet bay for a short break. In the afternoon we walk to the Pere Esteve and La Vall beaches, which offer perfect photo opportunities. The day ends comfortably at Platja de l'Olla with a wonderful view of the sparkling sea.",
+        "es": "Un paseo relajante por la pintoresca costa de El Port de la Selva comienza en la idílica playa de Capellans. Al mediodía llegamos a la tranquila cala del Rec de Canet para un breve descanso. Por la tarde caminamos hacia las playas de Pere Esteve y La Vall, que ofrecen oportunidades fotográficas perfectas. El día termina con tranquilidad en Platja de l'Olla con una maravillosa vista del mar brillante."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Ein nebliger Morgen beginnt an der Küste, wo das sanfte Klopfen des Regens die Ruhe des Hafens untermalt. Mittags folgen wir dem Küstenpfad unter Regenschirmen und beobachten die Kraft der grauen Wellen. Am Nachmittag bieten die einsamen Buchten einen dramatischen Anblick der Natur im Regen. Der Abend klingt in den schmalen Gassen aus, wo sich das Licht der Laternen im nassen Pflaster spiegelt.",
             "hu": "Párás reggel köszönt ránk a kikötőben, az eső halkan kopog a köveken. A parti sétány ilyenkor misztikus ködbe burkolózik. Délben az öblök mentén haladunk, az esernyők alatt figyeljük a tajtékzó vizet. Délután a sziklák között keressük a természet erejét, vigyázva a csúszós talajra. Az este a kikötő fényeiben ér véget, ahogy a lámpák fénye megcsillan a nedves aszfalton, barátságos menedéket kínálva.",
             "ro": "O dimineață cețoasă începe în port, unde sunetul ploii completează liniștea mării. La prânz, urmăm poteca de coastă sub umbrele, observând forța valurilor cenușii. După-amiaza, golful singuratic oferă o privire dramatică asupra naturii sub ploaie. Seara se încheie pe străzile înguste, unde lumina felinarelor se reflectă în pavajul umed, oferind un adăpost primitor în apropierea portului.",
-            "en": "A misty morning begins by the coast, where the gentle patter of rain accompanies the quiet of the harbor. At noon, we follow the coastal path under umbrellas, watching the power of the grey waves. In the afternoon, the lonely bays offer a dramatic view of nature in the rain. The evening ends in the narrow streets, where the light of the lanterns reflects on the wet pavement, offering a cozy retreat."
+            "en": "A misty morning begins by the coast, where the gentle patter of rain accompanies the quiet of the harbor. At noon, we follow the coastal path under umbrellas, watching the power of the grey waves. In the afternoon, the lonely bays offer a dramatic view of nature in the rain. The evening ends in the narrow streets, where the light of the lanterns reflects on the wet pavement, offering a cozy retreat.",
+            "es": "Una mañana brumosa empieza en la costa, donde el suave golpeteo de la lluvia acompaña la quietud del puerto. Al mediodía seguimos el sendero costero bajo los paraguas, observando la fuerza de las olas grises. Por la tarde, las calas solitarias ofrecen una vista dramática de la naturaleza bajo la lluvia. La noche termina en las calles estrechas, donde la luz de las farolas se refleja en el pavimento mojado, ofreciendo un refugio acogedor."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Platja dels Capellans",
                 "hu": "Platja dels Capellans",
                 "ro": "Platja dels Capellans",
-                "en": "Platja dels Capellans"
+                "en": "Platja dels Capellans",
+                "es": "Platja dels Capellans"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das faszinierende Schauspiel der aufgewühlten See von der Ufermauer aus; tragen Sie rutschfeste Schuhe für den nassen Sand.",
                 "hu": "Figyeld meg a felkorbácsolt tenger lenyűgöző látványát a parti gátról; viselj csúszásmentes lábbelit a nedves homok és kövek miatt.",
                 "ro": "Observați spectacolul fascinant al mării agitate de pe dig; purtați încălțăminte antiderapantă pentru nisipul și pietrele umede.",
-                "en": "Watch the fascinating spectacle of the churned-up sea from the sea wall; wear non-slip shoes for the wet sand and stones."
+                "en": "Watch the fascinating spectacle of the churned-up sea from the sea wall; wear non-slip shoes for the wet sand and stones.",
+                "es": "Observa el fascinante espectáculo del mar agitado desde el muro; lleva calzado antideslizante para la arena y las piedras mojadas."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Platja del Rec de Canet",
                 "hu": "Platja del Rec de Canet",
                 "ro": "Platja del Rec de Canet",
-                "en": "Platja del Rec de Canet"
+                "en": "Platja del Rec de Canet",
+                "es": "Platja del Rec de Canet"
               },
               "tip_5lang": {
                 "de": "Die Felsformationen schützen hier ein wenig vor dem Wind; nutzen Sie eine wasserfeste Kamera für dramatische Nahaufnahmen der Gischt.",
                 "hu": "A sziklaalakzatok itt némileg védenek a széltől; használj vízálló kamerát a felcsapó tajték drámai közeli megörökítéséhez.",
                 "ro": "Formațiunile stâncoase oferă puțină protecție împotriva vântului; folosiți o cameră impermeabilă pentru fotografii dramatice ale valurilor.",
-                "en": "The rock formations here provide some shelter from the wind; use a waterproof camera for dramatic close-ups of the sea spray."
+                "en": "The rock formations here provide some shelter from the wind; use a waterproof camera for dramatic close-ups of the sea spray.",
+                "es": "Las formaciones rocosas aquí ofrecen algo de resguardo del viento; usa una cámara impermeable para primeros planos dramáticos de las salpicaduras."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Platja d'en Pere Esteve",
                 "hu": "Platja d'en Pere Esteve",
                 "ro": "Platja d'en Pere Esteve",
-                "en": "Platja d'en Pere Esteve"
+                "en": "Platja d'en Pere Esteve",
+                "es": "Platja d'en Pere Esteve"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Ruhe am Regen-verlassenen Strand; ein Cape schützt besser vor dem Küstenwind als ein gewöhnlicher Regenschirm.",
                 "hu": "Élvezd az eső miatt elnéptelenedett strand nyugalmát; egy esőköpeny jobban véd a parti széltől, mint egy hagyományos esernyő.",
                 "ro": "Bucurați-vă de liniștea plajei pustii din cauza ploii; o pelerină protejează mai bine de vântul de coastă decât o umbrelă obișnuită.",
-                "en": "Enjoy the peace of the beach deserted due to the rain; a rain poncho protects better from the coastal wind than a standard umbrella."
+                "en": "Enjoy the peace of the beach deserted due to the rain; a rain poncho protects better from the coastal wind than a standard umbrella.",
+                "es": "Disfruta de la paz de la playa desierta por la lluvia; un impermeable tipo poncho protege mejor del viento costero que un paraguas normal."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Platja de la Vall",
                 "hu": "Platja de la Vall",
                 "ro": "Platja de la Vall",
-                "en": "Platja de la Vall"
+                "en": "Platja de la Vall",
+                "es": "Platja de la Vall"
               },
               "tip_5lang": {
                 "de": "Die Vegetation leuchtet im Regen besonders intensiv; bleiben Sie auf den befestigten Pfaden, um nicht im Schlamm einzusinken.",
                 "hu": "A növényzet az esőben különösen élénk színekben pompázik; maradj a kijelölt ösvényeken, hogy elkerüld a sárban való elmerülést.",
                 "ro": "Vegetația strălucește intens în ploaie; rămâneți pe potecile marcate pentru a evita noroiul adânc de lângă malul apei.",
-                "en": "The vegetation glows with intense colors in the rain; stay on the paved paths to avoid sinking into the mud near the shore."
+                "en": "The vegetation glows with intense colors in the rain; stay on the paved paths to avoid sinking into the mud near the shore.",
+                "es": "La vegetación brilla con colores intensos bajo la lluvia; mantente en los senderos pavimentados para evitar hundirte en el barro cerca de la orilla."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Platja de l'Olla",
                 "hu": "Platja de l'Olla",
                 "ro": "Platja de l'Olla",
-                "en": "Platja de l'Olla"
+                "en": "Platja de l'Olla",
+                "es": "Platja de l'Olla"
               },
               "tip_5lang": {
                 "de": "Die Bucht wirkt bei Regen besonders mystisch; halten Sie eine Thermoskanne mit Tee bereit, um sich nach dem Spaziergang aufzuwärmen.",
                 "hu": "Az öböl esőben különösen misztikus hangulatot áraszt; tarts magadnál egy termosz meleg teát, hogy felmelegedj a séta végén.",
                 "ro": "Golful emană o atmosferă mistică pe timp de ploaie; păstrați un termos cu ceai cald pentru a vă încălzi după terminarea plimbării.",
-                "en": "The bay has an especially mystical atmosphere in the rain; keep a thermos of warm tea ready to warm up after the walk."
+                "en": "The bay has an especially mystical atmosphere in the rain; keep a thermos of warm tea ready to warm up after the walk.",
+                "es": "La cala tiene una atmósfera especialmente mística con lluvia; lleva un termo de té caliente para entrar en calor después del paseo."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein klarer, kalter Morgen am Meer weckt die Sinne, während die Wintersonne tief steht. Mittags wandern wir durch die Dünen, wo die karge Vegetation einen spröden Charme versprüht. Am Nachmittag färbt das frühe Gold der Sonne die Wellen, bevor sie hinter den Bergen verschwindet. Der Abend beginnt zeitig bei etwa 17 Uhr und lädt in die gemütlichen Cafés am Hafen ein.",
             "hu": "Tiszta, hideg reggel ébreszti a várost, a téli nap alacsonyan jár a horizont felett. Délben a dűnék között sétálunk, ahol a növényzet különleges téli színei dominálnak. Délután a nap korán bukik a hegyek mögé, aranyba vonva az öblöket 17 óra körül. Az este hamar beköszönt, ilyenkor a kikötő meleg fényei és a csendes utcák hívogatnak egy forró italra.",
             "ro": "O dimineață senină și rece trezește orașul, cu soarele de iarnă jos la orizont. La prânz, ne plimbăm prin dune, unde vegetația are un farmec aparte în sezonul rece. După-amiaza, soarele apune devreme după munți, aurind golful în jurul orei 17:00. Seara sosește repede, când luminile calde ale portului vă invită la o băutură fierbinte.",
-            "en": "A clear, cold morning by the sea awakens the senses while the winter sun stays low. At noon, we hike through the dunes where the sparse vegetation exudes a brittle charm. In the afternoon, the early golden light colors the waves before the sun dips behind the mountains. Evening begins early around 5 PM, inviting you into the cozy cafes by the harbor for warmth."
+            "en": "A clear, cold morning by the sea awakens the senses while the winter sun stays low. At noon, we hike through the dunes where the sparse vegetation exudes a brittle charm. In the afternoon, the early golden light colors the waves before the sun dips behind the mountains. Evening begins early around 5 PM, inviting you into the cozy cafes by the harbor for warmth.",
+            "es": "Una mañana fría y clara junto al mar despierta los sentidos mientras el sol invernal permanece bajo. Al mediodía caminamos por las dunas donde la vegetación escasa desprende un encanto frágil. Por la tarde la luz dorada temprana tiñe las olas antes de que el sol se esconda tras las montañas. La noche comienza pronto sobre las 17:00, invitando a los cafés acogedores del puerto para entrar en calor."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Platja dels Capellans",
                 "hu": "Platja dels Capellans",
                 "ro": "Platja dels Capellans",
-                "en": "Platja dels Capellans"
+                "en": "Platja dels Capellans",
+                "es": "Platja dels Capellans"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die klare Winterluft bei einem zügigen Marsch; eine winddichte Jacke ist wegen des kalten Tramuntana-Windes unerlässlich.",
                 "hu": "Élvezd a friss téli levegőt egy tempós séta közben; a szélálló kabát elengedhetetlen a hideg Tramuntana szél miatt.",
                 "ro": "Bucurați-vă de aerul curat de iarnă în timpul unei plimbări rapide; o jachetă rezistentă la vânt este esențială din cauza vântului rece.",
-                "en": "Enjoy the fresh winter air during a brisk walk; a windproof jacket is essential because of the cold Tramuntana wind."
+                "en": "Enjoy the fresh winter air during a brisk walk; a windproof jacket is essential because of the cold Tramuntana wind.",
+                "es": "Disfruta del aire fresco invernal durante una caminata enérgica; una chaqueta cortaviento es esencial por el frío viento de Tramuntana."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Platja del Rec de Canet",
                 "hu": "Platja del Rec de Canet",
                 "ro": "Platja del Rec de Canet",
-                "en": "Platja del Rec de Canet"
+                "en": "Platja del Rec de Canet",
+                "es": "Platja del Rec de Canet"
               },
               "tip_5lang": {
                 "de": "Das Spiel des Lichts auf dem ruhigen Wintermeer ist ideal für Fotos; tragen Sie Handschuhe, um die Kamera bequem bedienen zu können.",
                 "hu": "A fény játéka a nyugodt téli tengeren tökéletes a fotózáshoz; viselj kesztyűt, hogy kényelmesen kezelhesd a fényképezőgépet.",
                 "ro": "Jocul luminii pe marea liniștită de iarnă este ideal pentru fotografii; purtați mănuși pentru a manevra camera confortabil.",
-                "en": "The play of light on the calm winter sea is perfect for photos; wear gloves to operate your camera comfortably in the cold."
+                "en": "The play of light on the calm winter sea is perfect for photos; wear gloves to operate your camera comfortably in the cold.",
+                "es": "El juego de luces sobre el mar invernal calmado es perfecto para fotos; ponte guantes para manejar la cámara cómodamente con frío."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Platja d'en Pere Esteve",
                 "hu": "Platja d'en Pere Esteve",
                 "ro": "Platja d'en Pere Esteve",
-                "en": "Platja d'en Pere Esteve"
+                "en": "Platja d'en Pere Esteve",
+                "es": "Platja d'en Pere Esteve"
               },
               "tip_5lang": {
                 "de": "Suchen Sie einen sonnigen Platz zwischen den Felsen für eine kurze Rast; die Wintersonne wärmt trotz der Kälte überraschend gut.",
                 "hu": "Keress egy napsütötte helyet a sziklák között egy rövid pihenőre; a téli nap a hideg ellenére meglepően jól melegít a védett öblökben.",
                 "ro": "Căutați un loc însorit între stânci pentru un scurt popas; soarele de iarnă încălzește surprinzător de bine în golfurile ferite.",
-                "en": "Find a sunny spot among the rocks for a short rest; the winter sun warms surprisingly well despite the cold in sheltered bays."
+                "en": "Find a sunny spot among the rocks for a short rest; the winter sun warms surprisingly well despite the cold in sheltered bays.",
+                "es": "Busca un rincón soleado entre las rocas para un breve descanso; el sol de invierno calienta sorprendentemente bien en calas resguardadas."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Platja de la Vall",
                 "hu": "Platja de la Vall",
                 "ro": "Platja de la Vall",
-                "en": "Platja de la Vall"
+                "en": "Platja de la Vall",
+                "es": "Platja de la Vall"
               },
               "tip_5lang": {
                 "de": "Die weite Landschaft wirkt im Winterlicht besonders friedlich; achten Sie auf festes Schuhwerk für den harten, gefrorenen Boden.",
                 "hu": "A tágas táj a téli fényben különösen békésnek tűnik; válassz stabil lábbelit a kemény, néhol fagyos talajon való biztonságos járáshoz.",
                 "ro": "Peisajul vast pare deosebit de liniștit în lumina iernii; alegeți încălțăminte stabilă pentru a merge în siguranță pe solul dur.",
-                "en": "The vast landscape looks especially peaceful in the winter light; choose stable footwear for walking safely on the hard ground."
+                "en": "The vast landscape looks especially peaceful in the winter light; choose stable footwear for walking safely on the hard ground.",
+                "es": "El paisaje amplio se ve especialmente pacífico con la luz invernal; elige calzado estable para caminar con seguridad sobre el terreno duro."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Platja de l'Olla",
                 "hu": "Platja de l'Olla",
                 "ro": "Platja de l'Olla",
-                "en": "Platja de l'Olla"
+                "en": "Platja de l'Olla",
+                "es": "Platja de l'Olla"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie den frühen Sonnenuntergang gegen 17 Uhr direkt vom Strand aus; bringen Sie eine Isoliermatte zum Sitzen mit.",
                 "hu": "Figyeld meg a korai, 17 óra körüli naplementét közvetlenül a partról; hozz magaddal hőszigetelő alátétet, ha leülnél a hideg homokba.",
                 "ro": "Observați apusul devreme, în jurul orei 17:00, direct de pe plajă; aduceți un izolir pentru a sta așezați pe nisipul rece.",
-                "en": "Watch the early sunset around 5 PM directly from the beach; bring an insulating mat to sit on the cold sand comfortably."
+                "en": "Watch the early sunset around 5 PM directly from the beach; bring an insulating mat to sit on the cold sand comfortably.",
+                "es": "Observa el atardecer temprano alrededor de las 17:00 directamente desde la playa; lleva una esterilla aislante para sentarte cómodamente sobre la arena fría."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Platja del Rec de Canet",
             "hu": "Platja del Rec de Canet",
             "ro": "Platja del Rec de Canet",
-            "en": "Platja del Rec de Canet"
+            "en": "Platja del Rec de Canet",
+            "es": "Platja del Rec de Canet"
           },
           "coords": [
             3.190227,
@@ -329,7 +363,8 @@
             "de": "Schließen Sie Ihr Fahrrad gut ab und kühlen Sie sich kurz im erfrischenden Meerwasser ab.",
             "hu": "Zárja le jól a kerékpárját, és hűtse le magát egy kicsit a frissítő tengervízben.",
             "ro": "Blocați-vă bine bicicleta și răcoriți-vă puțin în apa mării revigorante.",
-            "en": "Lock your bike securely and cool off briefly in the refreshing sea water."
+            "en": "Lock your bike securely and cool off briefly in the refreshing sea water.",
+            "es": "Asegura bien tu bicicleta y refréscate brevemente en el agua marina."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Platja de la Vall",
             "hu": "Platja de la Vall",
             "ro": "Platja de la Vall",
-            "en": "Platja de la Vall"
+            "en": "Platja de la Vall",
+            "es": "Platja de la Vall"
           },
           "coords": [
             3.186172,
@@ -352,7 +388,8 @@
             "de": "Der feine Sand dieser schönen Bucht lädt zu einer entspannten Pause ein, bevor die Radtour weitergeht.",
             "hu": "A gyönyörű öböl finom homokja egy pihentető szünetre csábít, mielőtt a kerékpártúra folytatódna.",
             "ro": "Nisipul fin al acestui golf frumos vă invită la o pauză relaxantă înainte de a continua traseul.",
-            "en": "The fine sand of this beautiful bay invites you to a relaxing break before the bike tour continues."
+            "en": "The fine sand of this beautiful bay invites you to a relaxing break before the bike tour continues.",
+            "es": "La fina arena de esta hermosa cala invita a un descanso relajante antes de continuar la ruta en bicicleta."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Platja de Sota s'Arenella",
             "hu": "Platja de Sota s'Arenella",
             "ro": "Platja de Sota s'Arenella",
-            "en": "Platja de Sota s'Arenella"
+            "en": "Platja de Sota s'Arenella",
+            "es": "Platja de Sota s'Arenella"
           },
           "coords": [
             3.186155,
@@ -375,7 +413,8 @@
             "de": "Hier ist das Wasser oft sehr ruhig, ideal für ein schnelles Bad an warmen Tagen auf dem Weg zum Leuchtturm.",
             "hu": "Itt a víz gyakran nagyon nyugodt, ideális egy gyors fürdőzéshez meleg napokon a világítótorony felé vezető úton.",
             "ro": "Aici apa este adesea foarte liniștită, ideală pentru o baie rapidă în zilele calde în drum spre far.",
-            "en": "The water here is often very calm, ideal for a quick dip on warm days on the way to the lighthouse."
+            "en": "The water here is often very calm, ideal for a quick dip on warm days on the way to the lighthouse.",
+            "es": "El agua aquí suele estar muy tranquila, ideal para un baño rápido en días calurosos camino al faro."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Far de s'Arenella",
             "hu": "Far de s'Arenella",
             "ro": "Far de s'Arenella",
-            "en": "Far de s'Arenella"
+            "en": "Far de s'Arenella",
+            "es": "Far de s'Arenella"
           },
           "coords": [
             3.187014,
@@ -398,7 +438,8 @@
             "de": "Nutzen Sie die fantastische Aussichtsplattform für atemberaubende Panoramafotos der wilden Felsküste.",
             "hu": "Használja a fantasztikus kilátót a vad sziklás partvidék lélegzetelállító panorámafotóihoz.",
             "ro": "Folosiți platforma fantastică de observare pentru fotografii panoramice uluitoare ale coastei stâncoase sălbatice.",
-            "en": "Use the fantastic observation deck for breathtaking panoramic photos of the wild rocky coast."
+            "en": "Use the fantastic observation deck for breathtaking panoramic photos of the wild rocky coast.",
+            "es": "Aprovecha la fantástica plataforma para fotos panorámicas impresionantes de la costa rocosa salvaje."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Dolmen de la Taula des Lladres",
             "hu": "Dolmen de la Taula des Lladres",
             "ro": "Dolmen de la Taula des Lladres",
-            "en": "Dolmen de la Taula des Lladres"
+            "en": "Dolmen de la Taula des Lladres",
+            "es": "Dolmen de la Taula des Lladres"
           },
           "coords": [
             3.189295,
@@ -421,7 +463,8 @@
             "de": "Achten Sie auf festes Schuhwerk, da der kurze Fußweg zu dieser historischen Steinstätte uneben ist.",
             "hu": "Ügyeljen a masszív lábbelire, mivel a történelmi kőhelyszínre vezető rövid sétaút egyenetlen.",
             "ro": "Asigurați-vă că aveți încălțăminte robustă, deoarece poteca scurtă spre acest sit istoric din piatră este denivelată.",
-            "en": "Make sure you have sturdy shoes, as the short walk to this historical stone site is uneven."
+            "en": "Make sure you have sturdy shoes, as the short walk to this historical stone site is uneven.",
+            "es": "Asegúrate de llevar calzado resistente, ya que la corta caminata hasta este yacimiento de piedra es irregular."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Sant Sebastià",
             "hu": "Sant Sebastià",
             "ro": "Sant Sebastià",
-            "en": "Sant Sebastià"
+            "en": "Sant Sebastià",
+            "es": "Sant Sebastià"
           },
           "coords": [
             3.184637,
@@ -444,7 +488,8 @@
             "de": "Genießen Sie die absolute Stille rund um diese kleine Kapelle, die majestätisch fernab des Trubels liegt.",
             "hu": "Élvezze a fenséges kis kápolna körüli teljes csendet, amely távol van a nyüzsgéstől.",
             "ro": "Bucurați-vă de liniștea absolută în jurul acestei mici capele, care se află maiestuos departe de agitație.",
-            "en": "Enjoy the absolute silence around this small chapel, which majestically lies far away from the hustle and bustle."
+            "en": "Enjoy the absolute silence around this small chapel, which majestically lies far away from the hustle and bustle.",
+            "es": "Disfruta del absoluto silencio alrededor de esta pequeña ermita, que yace majestuosa lejos del bullicio."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Diese Radtour verbindet die Küstenschönheiten mit den historischen Geheimnissen im Landesinneren. Vormittags erkunden wir die herrlichen Buchten wie Rec de Canet und La Vall. Zur Mittagszeit radeln wir weiter zum majestätischen Leuchtturm S'Arenella. Am Nachmittag geht es ins bergige Hinterland zum Dolmen de la Taula des Lladres. Der Ausflug endet mit einer besinnlichen Pause an der Kapelle Sant Sebastià.",
         "hu": "Ez a kerékpártúra összeköti a parti szépségeket a szárazföld történelmi titkaival. Délelőtt olyan csodálatos öblöket fedezünk fel, mint a Rec de Canet és a La Vall. Délben tovább tekerünk a fenséges S'Arenella világítótoronyhoz. Délután a hegyvidéki hátországba megyünk a Dolmen de la Taula des Lladres-hez. A kirándulás egy elmélkedő pihenővel zárul a Sant Sebastià kápolnánál.",
         "ro": "Acest tur cu bicicleta combină frumusețile coastei cu secretele istorice din interior. Dimineața explorăm golfurile minunate precum Rec de Canet și La Vall. La prânz pedalăm mai departe către maiestuosul far S'Arenella. După-amiaza mergem în zona montană interioară la Dolmen de la Taula des Lladres. Excursia se încheie cu o pauză de reflecție la capela Sant Sebastià.",
-        "en": "This bike tour combines coastal beauties with the historical secrets inland. In the morning we explore wonderful bays like Rec de Canet and La Vall. At lunchtime we cycle on to the majestic S'Arenella lighthouse. In the afternoon we head into the mountainous hinterland to the Dolmen de la Taula des Lladres. The excursion ends with a contemplative break at the Sant Sebastià chapel."
+        "en": "This bike tour combines coastal beauties with the historical secrets inland. In the morning we explore wonderful bays like Rec de Canet and La Vall. At lunchtime we cycle on to the majestic S'Arenella lighthouse. In the afternoon we head into the mountainous hinterland to the Dolmen de la Taula des Lladres. The excursion ends with a contemplative break at the Sant Sebastià chapel.",
+        "es": "Esta ruta en bicicleta combina bellezas costeras con secretos históricos del interior. Por la mañana exploramos calas maravillosas como Rec de Canet y La Vall. A mediodía pedaleamos hasta el majestuoso faro de S'Arenella. Por la tarde nos adentramos al interior montañoso hasta el Dolmen de la Taula des Lladres. La excursión termina con un descanso contemplativo en la ermita de Sant Sebastià."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Der Tag beginnt mit einer erfrischenden Fahrt durch den sanften Regen entlang der Küstenstraße. Mittags fordern uns die Anstiege heraus, während der Asphalt glänzt und die Luft rein ist. Am Nachmittag erreichen wir historische Stätten, die im Regen eine besondere Aura besitzen. Der Abend endet im Hafen, wo wir uns nach der nassen Fahrt bei einem warmen Getränk entspannen können.",
             "hu": "A nap frissítő tekeréssel indul a szemerkélő esőben a parti úton. Délben a kapaszkodók próbára teszik kitartásunkat, miközben az aszfalt csillog a víztől. Délután történelmi emlékhelyekhez érünk, melyek az esőben különleges, titokzatos aurát árasztanak. Az este a kikötőben ér véget, ahol a nedves út után végre megszárítkozhatunk egy hangulatos helyen.",
             "ro": "Ziua începe cu o plimbare revigorantă prin ploaia ușoară de-a lungul drumului de coastă. La prânz, urcările ne provoacă, în timp ce asfaltul strălucește sub apă. După-amiaza ajungem la situri istorice care au o aură specială în ploaie. Seara se termină în port, unde ne putem relaxa după drumul ud cu o băutură caldă într-un loc primitor.",
-            "en": "The day begins with a refreshing ride through the gentle rain along the coastal road. At noon, the climbs challenge us while the asphalt glistens and the air is pure. In the afternoon, we reach historical sites that possess a special aura in the rain. The evening ends at the harbor, where we can relax and dry off with a warm drink after the wet ride."
+            "en": "The day begins with a refreshing ride through the gentle rain along the coastal road. At noon, the climbs challenge us while the asphalt glistens and the air is pure. In the afternoon, we reach historical sites that possess a special aura in the rain. The evening ends at the harbor, where we can relax and dry off with a warm drink after the wet ride.",
+            "es": "El día comienza con un refrescante paseo bajo la lluvia a lo largo de la carretera costera. Al mediodía las subidas nos ponen a prueba mientras el asfalto brilla y el aire está puro. Por la tarde llegamos a yacimientos históricos que poseen un aura especial bajo la lluvia. La noche termina en el puerto, donde podemos relajarnos y secarnos con una bebida caliente tras la ruta húmeda."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Platja del Rec de Canet",
                 "hu": "Platja del Rec de Canet",
                 "ro": "Platja del Rec de Canet",
-                "en": "Platja del Rec de Canet"
+                "en": "Platja del Rec de Canet",
+                "es": "Platja del Rec de Canet"
               },
               "tip_5lang": {
                 "de": "Vorsicht beim Bremsen auf der nassen Straße; tragen Sie eine neongelbe Regenjacke, um für Autofahrer besser sichtbar zu sein.",
                 "hu": "Vigyázz a fékezéssel a nedves úton; viselj fényvisszaverő esőkabátot, hogy a ködben és esőben is jól látható maradj az autósoknak.",
                 "ro": "Atenție la frânare pe drumul ud; purtați o pelerină reflectorizantă pentru a fi vizibili șoferilor în condiții de ploaie și ceață.",
-                "en": "Be careful when braking on the wet road; wear a high-visibility rain jacket to stay seen by drivers in the rain and mist."
+                "en": "Be careful when braking on the wet road; wear a high-visibility rain jacket to stay seen by drivers in the rain and mist.",
+                "es": "Ten cuidado al frenar en la carretera mojada; lleva una chaqueta de lluvia de alta visibilidad para ser visto por los coches con lluvia y niebla."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Platja de la Vall",
                 "hu": "Platja de la Vall",
                 "ro": "Platja de la Vall",
-                "en": "Platja de la Vall"
+                "en": "Platja de la Vall",
+                "es": "Platja de la Vall"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie Schutzbleche an Ihrem Fahrrad, um Schlammspritzer zu vermeiden; die Bucht bietet bei Regen eine dramatische Fotokulisse.",
                 "hu": "Használj sárvédőt a kerékpáron, hogy elkerüld a felverődő sarat; az öböl esőben is drámai hátteret biztosít a fotóidhoz.",
                 "ro": "Folosiți apărători la bicicletă pentru a evita stropii de noroi; golful oferă un fundal dramatic pentru fotografii chiar și pe ploaie.",
-                "en": "Use mudguards on your bike to avoid mud splashes; the bay provides a dramatic backdrop for your photos even in the rain."
+                "en": "Use mudguards on your bike to avoid mud splashes; the bay provides a dramatic backdrop for your photos even in the rain.",
+                "es": "Usa guardabarros en tu bici para evitar salpicaduras de barro; la cala ofrece un telón de fondo dramático para tus fotos incluso bajo la lluvia."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Platja de Sota s'Arenella",
                 "hu": "Platja de Sota s'Arenella",
                 "ro": "Platja de Sota s'Arenella",
-                "en": "Platja de Sota s'Arenella"
+                "en": "Platja de Sota s'Arenella",
+                "es": "Platja de Sota s'Arenella"
               },
               "tip_5lang": {
                 "de": "Der Weg zum Strand kann bei Regen rutschig sein; prüfen Sie Ihre Reifenprofile für besseren Grip auf nassem Untergrund.",
                 "hu": "A strandhoz vezető út esőben csúszós lehet; ellenőrizd a gumiabroncsok profilját a jobb tapadás érdekében a vizes aszfalton.",
                 "ro": "Drumul spre plajă poate fi alunecos pe ploaie; verificați profilul anvelopelor pentru o aderență mai bună pe asfaltul ud.",
-                "en": "The path to the beach can be slippery in the rain; check your tire tread for better grip on the wet coastal roads."
+                "en": "The path to the beach can be slippery in the rain; check your tire tread for better grip on the wet coastal roads.",
+                "es": "El sendero a la playa puede estar resbaladizo con lluvia; revisa el dibujo de los neumáticos para mejor agarre en las carreteras costeras mojadas."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Far de s'Arenella",
                 "hu": "Far de s'Arenella",
                 "ro": "Far de s'Arenella",
-                "en": "Far de s'Arenella"
+                "en": "Far de s'Arenella",
+                "es": "Far de s'Arenella"
               },
               "tip_5lang": {
                 "de": "Der Leuchtturm im Nebel ist ein faszinierendes Motiv; sichern Sie Ihr Fahrrad gut gegen den böigen Wind am Kap.",
                 "hu": "A ködbe burkolózó világítótorony lenyűgöző látvány; rögzítsd stabilan a kerékpárt a fokon tapasztalható erős széllökések miatt.",
                 "ro": "Farul învăluit în ceață este o priveliște fascinantă; asigurați bine bicicleta din cauza rafalelor puternice de vânt de la cap.",
-                "en": "The lighthouse shrouded in mist is a fascinating sight; secure your bike firmly due to the strong wind gusts at the cape."
+                "en": "The lighthouse shrouded in mist is a fascinating sight; secure your bike firmly due to the strong wind gusts at the cape.",
+                "es": "El faro envuelto en niebla es un espectáculo fascinante; asegura bien la bicicleta por las fuertes rachas de viento en el cabo."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Dolmen de la Taula des Lladres",
                 "hu": "Dolmen de la Taula des Lladres",
                 "ro": "Dolmen de la Taula des Lladres",
-                "en": "Dolmen de la Taula des Lladres"
+                "en": "Dolmen de la Taula des Lladres",
+                "es": "Dolmen de la Taula des Lladres"
               },
               "tip_5lang": {
                 "de": "Der Anstieg wird durch den Regen anstrengender; tragen Sie atmungsaktive Kleidung, um trotz Nässe nicht zu überhitzen.",
                 "hu": "Az emelkedő az esőben megterhelőbb; viselj légáteresztő esőruházatot, hogy ne izzadj be a felfelé menet során.",
                 "ro": "Urcarea este mai solicitantă pe ploaie; purtați îmbrăcăminte respirabilă pentru a nu transpira excesiv în timpul ascensiunii.",
-                "en": "The climb becomes more strenuous in the rain; wear breathable rain gear to avoid overheating during the uphill stretch."
+                "en": "The climb becomes more strenuous in the rain; wear breathable rain gear to avoid overheating during the uphill stretch.",
+                "es": "La subida se vuelve más dura con lluvia; ponte ropa impermeable transpirable para evitar sobrecalentarte en el tramo cuesta arriba."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Sant Sebastià",
                 "hu": "Sant Sebastià",
                 "ro": "Sant Sebastià",
-                "en": "Sant Sebastià"
+                "en": "Sant Sebastià",
+                "es": "Sant Sebastià"
               },
               "tip_5lang": {
                 "de": "Die Kirche bietet einen ruhigen Ort zum Innehalten bei Regen; wischen Sie die Felgen trocken für eine sichere Abfahrt zurück.",
                 "hu": "A templom csendes helyet kínál az elmélyüléshez esőben; töröld szárazra a felniket a biztonságos leereszkedés érdekében.",
                 "ro": "Biserica oferă un loc liniștit pentru reculegere pe ploaie; ștergeți jantele bicicletei pentru o coborâre în siguranță înapoi.",
-                "en": "The church offers a quiet place for reflection in the rain; wipe your wheel rims dry for a safe descent back to the port."
+                "en": "The church offers a quiet place for reflection in the rain; wipe your wheel rims dry for a safe descent back to the port.",
+                "es": "La iglesia ofrece un lugar tranquilo para la reflexión bajo la lluvia; seca los frenos y aros de la rueda para un descenso seguro de vuelta al puerto."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Ein kühler Wind weht vom Meer, während wir unsere Radtour am Morgen starten. Die Wintersonne wärmt angenehm bei den Anstiegen in das Hinterland. Mittags genießen wir die weiten Ausblicke über die einsamen Buchten und das tiefblaue Meer. Da es gegen 17 Uhr dunkel wird, beenden wir unsere Tour frühzeitig und kehren in das beleuchtete Dorf zurück, wo die Wärme auf uns wartet.",
             "hu": "Hűvös szél fúj a tenger felől, ahogy reggel elindulunk a bringatúrára. A téli nap kellemesen melegít a belső területek felé vezető emelkedőkön. Délben élvezzük a kilátást az elnéptelenedett öblökre és a mélykék vízre. Mivel 17 óra körül sötétedik, túránkat korán fejezzük be, és visszatérünk a falu melegébe.",
             "ro": "Un vânt răcoros suflă dinspre mare la începutul turului cu bicicleta de dimineață. Soarele de iarnă încălzește plăcut pe urcările spre interiorul insulei. La prânz, ne bucurăm de priveliștile vaste asupra golfurilor pustii. Deoarece se întunecă în jurul orei 17:00, încheiem turul devreme și ne întoarcem la căldura satului.",
-            "en": "A cool breeze blows from the sea as we start our bike tour in the morning. The winter sun provides pleasant warmth on the climbs into the hinterland. At noon, we enjoy the wide views over the lonely bays and the deep blue sea. Since it gets dark around 5 PM, we finish our tour early and return to the warmth of the village."
+            "en": "A cool breeze blows from the sea as we start our bike tour in the morning. The winter sun provides pleasant warmth on the climbs into the hinterland. At noon, we enjoy the wide views over the lonely bays and the deep blue sea. Since it gets dark around 5 PM, we finish our tour early and return to the warmth of the village.",
+            "es": "Una brisa fresca sopla desde el mar al iniciar la ruta en bicicleta por la mañana. El sol invernal aporta una agradable calidez en las subidas hacia el interior. Al mediodía disfrutamos de las amplias vistas sobre las calas solitarias y el mar azul profundo. Como anochece sobre las 17:00, finalizamos la ruta temprano y volvemos al calor del pueblo."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Platja del Rec de Canet",
                 "hu": "Platja del Rec de Canet",
                 "ro": "Platja del Rec de Canet",
-                "en": "Platja del Rec de Canet"
+                "en": "Platja del Rec de Canet",
+                "es": "Platja del Rec de Canet"
               },
               "tip_5lang": {
                 "de": "Tragen Sie mehrere Schichten Kleidung (Zwiebelprinzip); der Fahrtwind kann im Winter sehr schneidend sein.",
                 "hu": "Öltözz rétegesen; a menetszél télen nagyon éles lehet, ezért fontos a szélálló alapréteg és a meleg kiegészítők.",
                 "ro": "Îmbrăcați-vă în straturi; vântul creat de viteză poate fi foarte tăios iarna, deci aveți nevoie de un strat exterior solid.",
-                "en": "Dress in layers; the wind chill can be very biting in winter, so a windproof outer layer and warm accessories are key."
+                "en": "Dress in layers; the wind chill can be very biting in winter, so a windproof outer layer and warm accessories are key.",
+                "es": "Vístete por capas; el efecto del viento puede ser muy frío en invierno, así que una capa exterior cortaviento y accesorios cálidos son clave."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Platja de la Vall",
                 "hu": "Platja de la Vall",
                 "ro": "Platja de la Vall",
-                "en": "Platja de la Vall"
+                "en": "Platja de la Vall",
+                "es": "Platja de la Vall"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das klare Licht für Landschaftsaufnahmen; halten Sie die Pausen kurz, um nicht auszukühlen.",
                 "hu": "Használd ki a tiszta téli fényt a tájképekhez; tartsd röviden a pihenőket, hogy ne hűljön le a tested a szélben.",
                 "ro": "Profită de lumina clară de iarnă pentru fotografii de peisaj; păstrează pauzele scurte pentru a nu se răci corpul în vânt.",
-                "en": "Take advantage of the clear winter light for landscape shots; keep breaks short to prevent your body from cooling down."
+                "en": "Take advantage of the clear winter light for landscape shots; keep breaks short to prevent your body from cooling down.",
+                "es": "Aprovecha la luz invernal clara para fotos de paisaje; mantén las pausas cortas para evitar que el cuerpo se enfríe."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Platja de Sota s'Arenella",
                 "hu": "Platja de Sota s'Arenella",
                 "ro": "Platja de Sota s'Arenella",
-                "en": "Platja de Sota s'Arenella"
+                "en": "Platja de Sota s'Arenella",
+                "es": "Platja de Sota s'Arenella"
               },
               "tip_5lang": {
                 "de": "Die Wege sind im Winter staubfrei und griffig; Lippenbalsam schützt vor dem Austrocknen durch den kalten Küstenwind.",
                 "hu": "Az utak télen pormentesek és jól tapadnak; az ajakbalzsam védelmet nyújt a hideg parti szél szárító hatása ellen.",
                 "ro": "Drumurile sunt fără praf și au aderență bună iarna; balsamul de buze oferă protecție împotriva vântului rece de coastă.",
-                "en": "The paths are dust-free and grippy in winter; lip balm provides protection against the drying effect of the cold coastal wind."
+                "en": "The paths are dust-free and grippy in winter; lip balm provides protection against the drying effect of the cold coastal wind.",
+                "es": "Los senderos están libres de polvo y agarrosos en invierno; un bálsamo labial protege contra el efecto desecante del viento costero frío."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Far de s'Arenella",
                 "hu": "Far de s'Arenella",
                 "ro": "Far de s'Arenella",
-                "en": "Far de s'Arenella"
+                "en": "Far de s'Arenella",
+                "es": "Far de s'Arenella"
               },
               "tip_5lang": {
                 "de": "Der Ausblick ist im Winter oft klarer als im Sommer; eine warme Mütze unter dem Helm verhindert Wärmeverlust über den Kopf.",
                 "hu": "A kilátás télen gyakran tisztább, mint nyáron; egy vékony sapka a sisak alatt megakadályozza a fej hőveszteségét.",
                 "ro": "Priveliștea este adesea mai clară iarna decât vara; o căciulă subțire sub cască previne pierderea căldurii prin cap.",
-                "en": "The view is often clearer in winter than in summer; a thin cap under your helmet prevents heat loss through your head."
+                "en": "The view is often clearer in winter than in summer; a thin cap under your helmet prevents heat loss through your head.",
+                "es": "La vista suele estar más clara en invierno que en verano; una gorra fina bajo el casco evita la pérdida de calor por la cabeza."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Dolmen de la Taula des Lladres",
                 "hu": "Dolmen de la Taula des Lladres",
                 "ro": "Dolmen de la Taula des Lladres",
-                "en": "Dolmen de la Taula des Lladres"
+                "en": "Dolmen de la Taula des Lladres",
+                "es": "Dolmen de la Taula des Lladres"
               },
               "tip_5lang": {
                 "de": "Der Anstieg hält Sie warm, doch oben weht es stark; ziehen Sie für die Abfahrt eine zusätzliche Weste über.",
                 "hu": "A felfelé menet melegen tart, de fent erősen fúj a szél; a leereszkedéshez vegyél fel egy plusz mellényt a mellkasod védelmére.",
                 "ro": "Urcarea vă ține de cald, dar sus vântul suflă tare; pentru coborâre, puneți o vestă în plus pentru a vă proteja pieptul.",
-                "en": "The climb keeps you warm, but it's windy at the top; put on an extra vest for the descent to protect your chest."
+                "en": "The climb keeps you warm, but it's windy at the top; put on an extra vest for the descent to protect your chest.",
+                "es": "La subida te mantiene caliente, pero hace viento en la cima; ponte un chaleco extra para el descenso y proteger el pecho."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Sant Sebastià",
                 "hu": "Sant Sebastià",
                 "ro": "Sant Sebastià",
-                "en": "Sant Sebastià"
+                "en": "Sant Sebastià",
+                "es": "Sant Sebastià"
               },
               "tip_5lang": {
                 "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert; die Dämmerung setzt im Winter bereits vor 17 Uhr ein.",
                 "hu": "Győződj meg róla, hogy a kerékpár lámpái működnek; a szürkület télen már 17 óra előtt elkezdődik a hegyek árnyékában.",
                 "ro": "Asigurați-vă că luminile bicicletei funcționează; amurgul începe iarna deja înainte de ora 17:00 în umbra munților.",
-                "en": "Make sure your bike lights are working; twilight starts before 5 PM in winter due to the shadows of the mountains."
+                "en": "Make sure your bike lights are working; twilight starts before 5 PM in winter due to the shadows of the mountains.",
+                "es": "Asegúrate de que las luces de la bici funcionen; el crepúsculo empieza antes de las 17:00 en invierno por las sombras de las montañas."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Puig de l'Oratori",
             "hu": "Puig de l'Oratori",
             "ro": "Puig de l'Oratori",
-            "en": "Puig de l'Oratori"
+            "en": "Puig de l'Oratori",
+            "es": "Puig de l'Oratori"
           },
           "coords": [
             3.214128,
@@ -673,7 +746,8 @@
             "de": "Fahren Sie vorsichtig die kurvige Straße hinauf und genießen Sie den weiten, unberührten Blick über die Berge.",
             "hu": "Vezessen óvatosan a kanyargós úton felfelé, és élvezze a hegyekre nyíló széles, érintetlen kilátást.",
             "ro": "Conduceți cu atenție pe drumul sinuos și bucurați-vă de vederea largă, neatinsă asupra munților.",
-            "en": "Drive carefully up the winding road and enjoy the wide, untouched view over the mountains."
+            "en": "Drive carefully up the winding road and enjoy the wide, untouched view over the mountains.",
+            "es": "Conduce con cuidado por la carretera sinuosa y disfruta de la amplia e intacta vista sobre las montañas."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Dolmen de la Taula des Lladres",
             "hu": "Dolmen de la Taula des Lladres",
             "ro": "Dolmen de la Taula des Lladres",
-            "en": "Dolmen de la Taula des Lladres"
+            "en": "Dolmen de la Taula des Lladres",
+            "es": "Dolmen de la Taula des Lladres"
           },
           "coords": [
             3.189295,
@@ -696,7 +771,8 @@
             "de": "Parken Sie am Wegesrand und spazieren Sie die letzten Meter zu diesem beeindruckenden prähistorischen Steingrab.",
             "hu": "Parkoljon le az út szélén, és sétáljon el ehhez a lenyűgöző történelem előtti kősírhoz az utolsó métereken.",
             "ro": "Parcați pe marginea drumului și mergeți pe jos ultimii metri până la acest mormânt preistoric impresionant de piatră.",
-            "en": "Park on the roadside and walk the last few meters to this impressive prehistoric stone tomb."
+            "en": "Park on the roadside and walk the last few meters to this impressive prehistoric stone tomb.",
+            "es": "Aparca en la cuneta y recorre los últimos metros a pie hasta este impresionante sepulcro megalítico."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Dolmen de la Mora",
             "hu": "Dolmen de la Mora",
             "ro": "Dolmen de la Mora",
-            "en": "Dolmen de la Mora"
+            "en": "Dolmen de la Mora",
+            "es": "Dolmen de la Mora"
           },
           "coords": [
             3.18827,
@@ -719,7 +796,8 @@
             "de": "Verbinden Sie den Besuch dieses Dolmens mit einem kurzen Spaziergang durch die duftende mediterrane Macchia.",
             "hu": "Kösse össze a dolmen látogatását egy rövid sétával az illatos mediterrán macchián keresztül.",
             "ro": "Combinați vizita acestui dolmen cu o scurtă plimbare prin tufișurile mediteraneene parfumate.",
-            "en": "Combine the visit to this dolmen with a short walk through the fragrant Mediterranean scrub."
+            "en": "Combine the visit to this dolmen with a short walk through the fragrant Mediterranean scrub.",
+            "es": "Combina la visita a este dolmen con un breve paseo entre el fragante matorral mediterráneo."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Sant Sebastià",
             "hu": "Sant Sebastià",
             "ro": "Sant Sebastià",
-            "en": "Sant Sebastià"
+            "en": "Sant Sebastià",
+            "es": "Sant Sebastià"
           },
           "coords": [
             3.184637,
@@ -742,7 +821,8 @@
             "de": "Ein toller Ort, um die historische Architektur der Region zu bewundern; das mystische Innere ist oft verschlossen.",
             "hu": "Remek hely a régió történelmi építészetének megcsodálására; a misztikus belső tér gyakran zárva van.",
             "ro": "Un loc minunat pentru a admira arhitectura istorică a regiunii; interiorul mistic este adesea închis.",
-            "en": "A great place to admire the region's historical architecture; the mystical interior is often locked."
+            "en": "A great place to admire the region's historical architecture; the mystical interior is often locked.",
+            "es": "Un lugar ideal para admirar la arquitectura histórica de la región; el interior místico suele estar cerrado con llave."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Platja dels Capellans",
             "hu": "Platja dels Capellans",
             "ro": "Platja dels Capellans",
-            "en": "Platja dels Capellans"
+            "en": "Platja dels Capellans",
+            "es": "Platja dels Capellans"
           },
           "coords": [
             3.194144,
@@ -765,7 +846,8 @@
             "de": "Ein idealer, gut erreichbarer Strand für Familien, an dem Sie entspannt in die Nachmittagssonne blinzeln können.",
             "hu": "Ideális, könnyen megközelíthető strand családok számára, ahol nyugodtan hunyoroghat a délutáni napsütésben.",
             "ro": "O plajă ideală, ușor accesibilă pentru familii, unde vă puteți relaxa în soarele de după-amiază.",
-            "en": "An ideal, easily accessible beach for families where you can relax and blink into the afternoon sun."
+            "en": "An ideal, easily accessible beach for families where you can relax and blink into the afternoon sun.",
+            "es": "Una playa ideal y de fácil acceso para familias donde relajarse y entrecerrar los ojos al sol de la tarde."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Platja de Vaquers",
             "hu": "Platja de Vaquers",
             "ro": "Platja de Vaquers",
-            "en": "Platja de Vaquers"
+            "en": "Platja de Vaquers",
+            "es": "Platja de Vaquers"
           },
           "coords": [
             3.182293,
@@ -788,7 +871,8 @@
             "de": "Nutzen Sie die späten Sonnenstrahlen in dieser geschützten Bucht für ein ruhiges, letztes Bad im Meer.",
             "hu": "Használja ki a késői napsugarakat ebben a védett öbölben egy csendes, utolsó fürdőzésre a tengerben.",
             "ro": "Folosiți ultimele raze de soare în acest golf protejat pentru o ultimă baie liniștită în mare.",
-            "en": "Use the late sun rays in this protected bay for a quiet, final swim in the sea."
+            "en": "Use the late sun rays in this protected bay for a quiet, final swim in the sea.",
+            "es": "Aprovecha los últimos rayos de sol en esta bahía resguardada para un tranquilo baño final en el mar."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Far de s'Arenella",
             "hu": "Far de s'Arenella",
             "ro": "Far de s'Arenella",
-            "en": "Far de s'Arenella"
+            "en": "Far de s'Arenella",
+            "es": "Far de s'Arenella"
           },
           "coords": [
             3.187014,
@@ -811,7 +896,8 @@
             "de": "Warten Sie hier auf den schönen Sonnenuntergang, der den Himmel über dem Leuchtturm in bunte Farben taucht.",
             "hu": "Várja meg itt a gyönyörű naplementét, amely színesre festi az eget a világítótorony felett.",
             "ro": "Așteptați aici apusul frumos, care scaldă cerul de deasupra farului în culori vibrante.",
-            "en": "Wait here for the beautiful sunset, which bathes the sky above the lighthouse in colorful hues."
+            "en": "Wait here for the beautiful sunset, which bathes the sky above the lighthouse in colorful hues.",
+            "es": "Espera aquí la hermosa puesta de sol, que tiñe el cielo sobre el faro con tonos coloridos."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Mit dem Auto entdecken wir mühelos die landschaftlichen und historischen Extreme der Region. Der Morgen beginnt mit einem atemberaubenden Panoramablick vom Puig de l'Oratori. Danach besuchen wir die faszinierenden prähistorischen Dolmen. Nachmittags entspannen wir an den Stränden Capellans und Vaquers. Der Tag findet seinen perfekten Abschluss am legendären Leuchtturm S'Arenella im weichen Abendlicht.",
         "hu": "Autóval könnyedén felfedezhetjük a régió festői és történelmi végleteit. A reggel egy lélegzetelállító panorámával kezdődik a Puig de l'Oratori-ról. Ezután ellátogatunk a lenyűgöző történelem előtti dolmenekhez. Délután a Capellans és Vaquers strandokon pihenünk. A nap tökéletes befejezése a legendás S'Arenella világítótoronynál vár ránk a lágy esti fényben.",
         "ro": "Cu mașina descoperim fără efort extremele pitorești și istorice ale regiunii. Dimineața începe cu o priveliște panoramică uluitoare de la Puig de l'Oratori. Apoi vizităm fascinantele dolmene preistorice. După-amiaza ne relaxăm pe plajele Capellans și Vaquers. Ziua se încheie perfect la legendarul far S'Arenella în lumina blândă a serii.",
-        "en": "By car, we effortlessly discover the scenic and historical extremes of the region. The morning begins with a breathtaking panoramic view from Puig de l'Oratori. Then we visit the fascinating prehistoric dolmens. In the afternoon we relax on the Capellans and Vaquers beaches. The day finds its perfect conclusion at the legendary S'Arenella lighthouse in the soft evening light."
+        "en": "By car, we effortlessly discover the scenic and historical extremes of the region. The morning begins with a breathtaking panoramic view from Puig de l'Oratori. Then we visit the fascinating prehistoric dolmens. In the afternoon we relax on the Capellans and Vaquers beaches. The day finds its perfect conclusion at the legendary S'Arenella lighthouse in the soft evening light.",
+        "es": "En coche descubrimos sin esfuerzo los extremos paisajísticos e históricos de la región. La mañana comienza con una vista panorámica sobrecogedora desde el Puig de l'Oratori. Luego visitamos los fascinantes dolmenes prehistóricos. Por la tarde nos relajamos en las playas de Capellans y Vaquers. El día encuentra su conclusión perfecta en el legendario faro de S'Arenella, con la suave luz vespertina."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Wir starten unsere Panoramafahrt am Morgen, geschützt vor dem Regen im Auto. Die Serpentinen bieten spektakuläre Ausblicke auf das aufgepeitschte Meer. Mittags besichtigen wir historische Dolmen, während die Wolken tief hängen. Am Nachmittag laden die Strände zu kurzen Fotostopps ein, bevor wir den Tag am Leuchtturm beenden. Der Abend verspricht Gemütlichkeit im Hafen nach einer wetterfesten Rundreise.",
             "hu": "A reggelt panorámaautózással kezdjük, védve az esőtől. A szerpentinek lenyűgöző kilátást nyújtanak a felkorbácsolt tengerre. Délben a dolmenek misztikus látványát élvezzük az alacsonyan szálló felhők között. Délután a strandoknál teszünk rövid fotómegállókat, majd a világítótoronynál zárjuk a napot. Az este a kikötőben kényelmes pihenést ígér a száraz autóban tett túra után.",
             "ro": "Începem dimineața cu o plimbare panoramică, protejați de ploaie în mașină. Serpentinele oferă vederi spectaculoase asupra mării agitate. La prânz, admirăm dolmenele mistice printre norii joși. După-amiaza oprim scurt la plaje pentru fotografii, apoi încheiem ziua la far. Seara promite relaxare în port după un tur confortabil făcut la adăpostul mașinii.",
-            "en": "We start the morning with a panoramic drive, protected from the rain inside the car. The serpentines offer spectacular views of the whipped-up sea. At noon, we admire the mystical dolmens while the clouds hang low. In the afternoon, the beaches invite short photo stops before we end the day at the lighthouse. The evening promises coziness at the harbor after a weather-proof tour."
+            "en": "We start the morning with a panoramic drive, protected from the rain inside the car. The serpentines offer spectacular views of the whipped-up sea. At noon, we admire the mystical dolmens while the clouds hang low. In the afternoon, the beaches invite short photo stops before we end the day at the lighthouse. The evening promises coziness at the harbor after a weather-proof tour.",
+            "es": "Comenzamos la mañana con un recorrido panorámico, protegidos de la lluvia dentro del coche. Las serpentinas ofrecen vistas espectaculares del mar agitado. Al mediodía admiramos los dolmenes místicos mientras las nubes cuelgan bajas. Por la tarde las playas invitan a breves paradas fotográficas antes de acabar el día en el faro. La noche promete acogimiento en el puerto tras un recorrido a prueba de tiempo."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Puig de l'Oratori",
                 "hu": "Puig de l'Oratori",
                 "ro": "Puig de l'Oratori",
-                "en": "Puig de l'Oratori"
+                "en": "Puig de l'Oratori",
+                "es": "Puig de l'Oratori"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Aussicht direkt aus dem Auto; achten Sie auf Nebel, der die Sicht auf den Serpentinen einschränken kann.",
                 "hu": "Élvezd a kilátást közvetlenül az autóból; ügyelj a ködre, amely jelentősen korlátozhatja a látótávolságot a szerpentineken.",
                 "ro": "Bucurați-vă de priveliște direct din mașină; atenție la ceața care poate limita vizibilitatea pe serpentinele strânse.",
-                "en": "Enjoy the view directly from the car; watch out for mist that can significantly limit visibility on the tight serpentines."
+                "en": "Enjoy the view directly from the car; watch out for mist that can significantly limit visibility on the tight serpentines.",
+                "es": "Disfruta de la vista directamente desde el coche; ten cuidado con la niebla que puede limitar mucho la visibilidad en las curvas cerradas."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Dolmen de la Taula des Lladres",
                 "hu": "Dolmen de la Taula des Lladres",
                 "ro": "Dolmen de la Taula des Lladres",
-                "en": "Dolmen de la Taula des Lladres"
+                "en": "Dolmen de la Taula des Lladres",
+                "es": "Dolmen de la Taula des Lladres"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Sprint vom Parkplatz zum Dolmen reicht aus; halten Sie einen stabilen Regenschirm gegen den Wind bereit.",
                 "hu": "Elegendő egy rövid sprint a parkolótól a dolmenig; tarts készenlétben egy erős, szélálló esernyőt a hirtelen széllökések ellen.",
                 "ro": "Un scurt sprint de la parcare la dolmen este suficient; aveți pregătită o umbrelă solidă împotriva vântului brusc.",
-                "en": "A short sprint from the parking lot to the dolmen is enough; keep a sturdy windproof umbrella ready for sudden gusts."
+                "en": "A short sprint from the parking lot to the dolmen is enough; keep a sturdy windproof umbrella ready for sudden gusts.",
+                "es": "Un corto sprint desde el aparcamiento al dolmen es suficiente; ten a mano un paraguas resistente al viento para rachas súbitas."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Dolmen de la Mora",
                 "hu": "Dolmen de la Mora",
                 "ro": "Dolmen de la Mora",
-                "en": "Dolmen de la Mora"
+                "en": "Dolmen de la Mora",
+                "es": "Dolmen de la Mora"
               },
               "tip_5lang": {
                 "de": "Die feuchten Steine wirken im Regen besonders dunkel und ehrwürdig; nutzen Sie die Sitzheizung für wohlige Wärme zwischen den Stopps.",
                 "hu": "A nedves kövek az esőben különösen sötétek és méltóságteljesek; használd az ülésfűtést a kellemes melegért a megállók között.",
                 "ro": "Pietrele umede par deosebit de întunecate și solemne în ploaie; folosiți încălzirea în scaune pentru confort între opriri.",
-                "en": "The wet stones look especially dark and venerable in the rain; use the seat heating for cozy warmth between the stops."
+                "en": "The wet stones look especially dark and venerable in the rain; use the seat heating for cozy warmth between the stops.",
+                "es": "Las piedras mojadas se ven especialmente oscuras y venerables con lluvia; usa la calefacción de los asientos para mantener el calor entre paradas."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Sant Sebastià",
                 "hu": "Sant Sebastià",
                 "ro": "Sant Sebastià",
-                "en": "Sant Sebastià"
+                "en": "Sant Sebastià",
+                "es": "Sant Sebastià"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah am Eingang, um trocken in die Kirche zu gelangen; der Ausblick von hier oben ist auch bei Regen fantastisch.",
                 "hu": "Parkolj közel a bejárathoz, hogy szárazon juss be a templomba; a kilátás innen fentről esőben is fantasztikus és drámai.",
                 "ro": "Parcați aproape de intrare pentru a ajunge uscați în biserică; priveliștea de aici de sus este fantastică și pe timp de ploaie.",
-                "en": "Park close to the entrance to get into the church dry; the view from up here is fantastic and dramatic even in the rain."
+                "en": "Park close to the entrance to get into the church dry; the view from up here is fantastic and dramatic even in the rain.",
+                "es": "Aparca cerca de la entrada para entrar en la iglesia sin mojarte; la vista desde aquí es fantástica y dramática incluso con lluvia."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Platja dels Capellans",
                 "hu": "Platja dels Capellans",
                 "ro": "Platja dels Capellans",
-                "en": "Platja dels Capellans"
+                "en": "Platja dels Capellans",
+                "es": "Platja dels Capellans"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das Meer durch die Windschutzscheibe; ein Mikrofasertuch hilft gegen beschlagene Scheiben im Innenraum.",
                 "hu": "Figyeld a tengert a szélvédőn keresztül; egy mikroszálas kendő segíthet a párásodó szélvédő gyors páramentesítésében.",
                 "ro": "Observați marea prin parbriz; o lavetă din microfibră vă poate ajuta să dezaburiți rapid geamurile în interiorul mașinii.",
-                "en": "Watch the sea through the windshield; a microfiber cloth helps to quickly defog the windows inside the car."
+                "en": "Watch the sea through the windshield; a microfiber cloth helps to quickly defog the windows inside the car.",
+                "es": "Observa el mar a través del parabrisas; un paño de microfibra ayuda a desempañar rápidamente las ventanas del coche."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Platja de Vaquers",
                 "hu": "Platja de Vaquers",
                 "ro": "Platja de Vaquers",
-                "en": "Platja de Vaquers"
+                "en": "Platja de Vaquers",
+                "es": "Platja de Vaquers"
               },
               "tip_5lang": {
                 "de": "Die Brandung ist hier oft besonders stark bei Regen; bleiben Sie im Fahrzeug, um die Wellen ohne nass zu werden zu genießen.",
                 "hu": "A hullámtörés itt gyakran különösen erős esőben; maradj az autóban, hogy megázás nélkül élvezhesd a hullámok látványát.",
                 "ro": "Valurile sunt adesea foarte puternice aici pe ploaie; rămâneți în vehicul pentru a vă bucura de marea agitată fără a vă uda.",
-                "en": "The surf is often particularly strong here in the rain; stay in the vehicle to enjoy the waves without getting wet."
+                "en": "The surf is often particularly strong here in the rain; stay in the vehicle to enjoy the waves without getting wet.",
+                "es": "El oleaje suele ser especialmente fuerte aquí con lluvia; quédate en el vehículo para disfrutar de las olas sin mojarte."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Far de s'Arenella",
                 "hu": "Far de s'Arenella",
                 "ro": "Far de s'Arenella",
-                "en": "Far de s'Arenella"
+                "en": "Far de s'Arenella",
+                "es": "Far de s'Arenella"
               },
               "tip_5lang": {
                 "de": "Der Parkplatz bietet eine gute Sicht auf den Leuchtturm; achten Sie beim Aussteigen auf starke Windböen von der Seeseite.",
                 "hu": "A parkolóból jó rálátás nyílik a világítótoronyra; kiszálláskor ügyelj az ajtóra a tenger felől érkező erős széllökések miatt.",
                 "ro": "Parcarea oferă o vedere bună spre far; la coborâre, aveți grijă la portieră din cauza rafalelor de vânt dinspre mare.",
-                "en": "The parking lot offers a good view of the lighthouse; watch the door when getting out due to strong wind gusts from the sea."
+                "en": "The parking lot offers a good view of the lighthouse; watch the door when getting out due to strong wind gusts from the sea.",
+                "es": "El aparcamiento ofrece buena vista del faro; vigila la puerta al salir por las fuertes rachas de viento del mar."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Am Morgen führt uns die Fahrt durch die klare Winterluft zu den besten Aussichtspunkten. Die tiefstehende Sonne beleuchtet die Küste in warmen Farbtönen. Mittags besichtigen wir prähistorische Dolmen im Hinterland, wo die Stille des Winters greifbar ist. Am Nachmittag besuchen wir die einsamen Strände, bevor uns der frühe Sonnenuntergang gegen 17 Uhr zurück in das beleuchtete Dorf führt.",
             "hu": "Reggel a tiszta téli levegőben indulunk a legjobb kilátópontok felé. Az alacsonyan járó nap meleg tónusokkal világítja meg a partot. Délben a dolmeneket keressük fel a belső területeken, ahol érezhető a téli csend. Délután az elnéptelenedett strandokat látogatjuk meg, mielőtt a korai, 17 óra körüli naplemente visszavezetne minket a faluba.",
             "ro": "Dimineața, drumul ne poartă prin aerul curat de iarnă spre cele mai bune puncte de observație. Soarele jos luminează coasta în tonuri calde. La prânz, vizităm dolmenele din interior, unde liniștea iernii este palpabilă. După-amiaza vizităm plajele pustii, înainte ca apusul devreme de la ora 17:00 să ne conducă înapoi în sat.",
-            "en": "In the morning, the drive through the clear winter air leads us to the best viewpoints. The low sun illuminates the coast in warm hues. At noon, we visit prehistoric dolmens in the hinterland where the silence of winter is palpable. In the afternoon, we visit the lonely beaches before the early sunset around 5 PM leads us back to the village."
+            "en": "In the morning, the drive through the clear winter air leads us to the best viewpoints. The low sun illuminates the coast in warm hues. At noon, we visit prehistoric dolmens in the hinterland where the silence of winter is palpable. In the afternoon, we visit the lonely beaches before the early sunset around 5 PM leads us back to the village.",
+            "es": "Por la mañana, el recorrido por el aire invernal claro nos conduce a los mejores miradores. El sol bajo ilumina la costa con tonos cálidos. Al mediodía visitamos dolmenes prehistóricos en el interior donde se percibe el silencio del invierno. Por la tarde pasamos por playas solitarias antes de que la puesta de sol temprana sobre las 17:00 nos devuelva al pueblo."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Puig de l'Oratori",
                 "hu": "Puig de l'Oratori",
                 "ro": "Puig de l'Oratori",
-                "en": "Puig de l'Oratori"
+                "en": "Puig de l'Oratori",
+                "es": "Puig de l'Oratori"
               },
               "tip_5lang": {
                 "de": "Die Fernsicht ist im Winter oft brillant; nutzen Sie die Klimaanlage des Autos, um die Scheiben eisfrei und klar zu halten.",
                 "hu": "A látótávolság télen gyakran kiváló; használd az autó klímáját a szélvédők jégmentesen és tisztán tartásához a jobb kilátásért.",
                 "ro": "Vizibilitatea la distanță este adesea excelentă iarna; folosiți climatizarea mașinii pentru a menține parbrizul curat și fără gheață.",
-                "en": "The long-distance visibility is often brilliant in winter; use the car's AC to keep the windows ice-free and clear for the view."
+                "en": "The long-distance visibility is often brilliant in winter; use the car's AC to keep the windows ice-free and clear for the view.",
+                "es": "La visibilidad a larga distancia suele ser brillante en invierno; usa el aire acondicionado del coche para mantener las ventanas sin hielo y claras para la vista."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Dolmen de la Taula des Lladres",
                 "hu": "Dolmen de la Taula des Lladres",
                 "ro": "Dolmen de la Taula des Lladres",
-                "en": "Dolmen de la Taula des Lladres"
+                "en": "Dolmen de la Taula des Lladres",
+                "es": "Dolmen de la Taula des Lladres"
               },
               "tip_5lang": {
                 "de": "Der Weg vom Auto ist kurz, aber windig; ziehen Sie eine warme Mütze auf, bevor Sie das warme Fahrzeug verlassen.",
                 "hu": "Az út az autótól rövid, de szeles; vegyél fel meleg sapkát, mielőtt kiszállnál a fűtött járműből a nyílt terepre.",
                 "ro": "Drumul de la mașină este scurt, dar bătut de vânt; puneți o căciulă caldă înainte de a părăsi vehiculul încălzit.",
-                "en": "The path from the car is short but windy; put on a warm hat before leaving the heated vehicle for the open field."
+                "en": "The path from the car is short but windy; put on a warm hat before leaving the heated vehicle for the open field.",
+                "es": "El camino desde el coche es corto pero ventoso; ponte un gorro cálido antes de salir del vehículo calentado hacia el campo abierto."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Dolmen de la Mora",
                 "hu": "Dolmen de la Mora",
                 "ro": "Dolmen de la Mora",
-                "en": "Dolmen de la Mora"
+                "en": "Dolmen de la Mora",
+                "es": "Dolmen de la Mora"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Einsamkeit an diesem geschichtsträchtigen Ort; im Winter haben Sie die Dolmen fast ganz für sich allein.",
                 "hu": "Élvezd a magányt ezen a történelmi helyen; télen szinte teljesen egyedül lehetsz a dolmeneknél, zavartalanul fotózhatsz.",
                 "ro": "Bucurați-vă de singurătate în acest loc istoric; iarna puteți fi aproape singuri la dolmene, fotografiind fără întreruperi.",
-                "en": "Enjoy the solitude at this historic site; in winter, you'll have the dolmens almost entirely to yourself for peaceful photos."
+                "en": "Enjoy the solitude at this historic site; in winter, you'll have the dolmens almost entirely to yourself for peaceful photos.",
+                "es": "Disfruta de la soledad en este yacimiento histórico; en invierno tendrás los dolmenes casi para ti para fotos tranquilas."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Sant Sebastià",
                 "hu": "Sant Sebastià",
                 "ro": "Sant Sebastià",
-                "en": "Sant Sebastià"
+                "en": "Sant Sebastià",
+                "es": "Sant Sebastià"
               },
               "tip_5lang": {
                 "de": "Die Wintersonne strahlt direkt auf den Vorplatz; ein toller Ort für ein kurzes Sonnenbad im Schutz der Kirchenmauer.",
                 "hu": "A téli nap közvetlenül süti a templom előtti teret; remek hely egy rövid napfürdőzésre a templomfal szélárnyékában.",
                 "ro": "Soarele de iarnă strălucește direct pe esplanadă; un loc excelent pentru o scurtă baie de soare la adăpostul zidului bisericii.",
-                "en": "The winter sun shines directly on the forecourt; a great spot for a short sunbath in the shelter of the church wall."
+                "en": "The winter sun shines directly on the forecourt; a great spot for a short sunbath in the shelter of the church wall.",
+                "es": "El sol invernal incide directamente en el atrio; un gran sitio para un breve baño de sol resguardado por el muro de la iglesia."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Platja dels Capellans",
                 "hu": "Platja dels Capellans",
                 "ro": "Platja dels Capellans",
-                "en": "Platja dels Capellans"
+                "en": "Platja dels Capellans",
+                "es": "Platja dels Capellans"
               },
               "tip_5lang": {
                 "de": "Der nahegelegene Parkplatz ermöglicht einen schnellen Zugang zum Strand; ideal für einen kurzen Winterspaziergang am Wasser.",
                 "hu": "A közeli parkoló gyors hozzáférést biztosít a parthoz; ideális egy rövid, frissítő téli sétához közvetlenül a vízparton.",
                 "ro": "Parcarea apropiată permite accesul rapid la plajă; ideal pentru o scurtă plimbare revigorantă de iarnă pe malul apei.",
-                "en": "The nearby parking lot allows quick access to the beach; ideal for a short, refreshing winter walk right by the water."
+                "en": "The nearby parking lot allows quick access to the beach; ideal for a short, refreshing winter walk right by the water.",
+                "es": "El aparcamiento cercano permite un acceso rápido a la playa; ideal para un paseo invernal corto y refrescante junto al agua."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Platja de Vaquers",
                 "hu": "Platja de Vaquers",
                 "ro": "Platja de Vaquers",
-                "en": "Platja de Vaquers"
+                "en": "Platja de Vaquers",
+                "es": "Platja de Vaquers"
               },
               "tip_5lang": {
                 "de": "Die raue Wintersee ist von hier aus beeindruckend; bringen Sie eine Decke mit, um es im Auto beim Beobachten gemütlich zu haben.",
                 "hu": "A vad téli tenger innen nézve lenyűgöző; hozz magaddal takarót, hogy az autóban ülve kényelmesen figyeld a hullámokat.",
                 "ro": "Marea agitată de iarnă este impresionantă de aici; aduceți o pătură pentru a sta confortabil în mașină în timp ce priviți valurile.",
-                "en": "The rough winter sea is impressive from here; bring a blanket to stay cozy in the car while watching the powerful waves."
+                "en": "The rough winter sea is impressive from here; bring a blanket to stay cozy in the car while watching the powerful waves.",
+                "es": "El bravo mar invernal impresiona desde aquí; lleva una manta para mantenerte abrigado en el coche mientras observas las potentes olas."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Far de s'Arenella",
                 "hu": "Far de s'Arenella",
                 "ro": "Far de s'Arenella",
-                "en": "Far de s'Arenella"
+                "en": "Far de s'Arenella",
+                "es": "Far de s'Arenella"
               },
               "tip_5lang": {
                 "de": "Erleben Sie den Sonnenuntergang gegen 17 Uhr direkt aus dem Fahrzeug; die Parkposition bietet einen perfekten Panoramablick.",
                 "hu": "Éld át a 17 óra körüli naplementét közvetlenül az autóból; a parkolóhely tökéletes panorámát kínál a búcsúzó napsugarakhoz.",
                 "ro": "Experimentați apusul de la ora 17:00 direct din vehicul; locul de parcare oferă o panoramă perfectă pentru razele soarelui.",
-                "en": "Experience the sunset around 5 PM directly from the vehicle; the parking position offers a perfect panoramic view of the bay."
+                "en": "Experience the sunset around 5 PM directly from the vehicle; the parking position offers a perfect panoramic view of the bay.",
+                "es": "Disfruta la puesta de sol sobre las 17:00 directamente desde el vehículo; la posición de aparcamiento ofrece una vista panorámica perfecta de la bahía."
               }
             }
           ]

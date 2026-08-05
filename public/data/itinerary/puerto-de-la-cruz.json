@@ -31,7 +31,8 @@
             "de": "Frühstücken Sie unter den Palmen.",
             "hu": "Reggelizzen a pálmák árnyékában.",
             "ro": "Luați micul dejun sub palmieri.",
-            "en": "Have breakfast under the palm trees."
+            "en": "Have breakfast under the palm trees.",
+            "es": "Desayuna bajo las palmeras."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Bewundern Sie die hölzerne Mudéjar-Decke.",
             "hu": "Csodálja meg a mudéjar stílusú fafödémet.",
             "ro": "Admirați tavanul de lemn în stil Mudéjar.",
-            "en": "Admire the wooden Mudéjar ceiling."
+            "en": "Admire the wooden Mudéjar ceiling.",
+            "es": "Admira el artesonado mudéjar de madera."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Besuchen Sie den ältesten Garten Teneriffas.",
             "hu": "Látogassa meg Tenerife legrégebbi kertjét.",
             "ro": "Vizitați cea mai veche grădină din Tenerife.",
-            "en": "Visit the oldest garden in Tenerife."
+            "en": "Visit the oldest garden in Tenerife.",
+            "es": "Visita el jardín más antiguo de Tenerife."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Baden in der Architektur von César Manrique.",
             "hu": "Fürödjön César Manrique építészeti remekében.",
             "ro": "Înotați în arhitectura lui César Manrique.",
-            "en": "Swim in César Manrique's architectural masterpiece."
+            "en": "Swim in César Manrique's architectural masterpiece.",
+            "es": "Nada en la obra arquitectónica de César Manrique."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Oft finden hier kostenlose Ausstellungen statt.",
             "hu": "Gyakran tartanak itt ingyenes kiállításokat.",
             "ro": "Aici au loc adesea expoziții gratuite.",
-            "en": "Free exhibitions are often held here."
+            "en": "Free exhibitions are often held here.",
+            "es": "Aquí se celebran con frecuencia exposiciones gratuitas."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Der schwarze Sand ist ideal für den Sonnenuntergang.",
             "hu": "A fekete homok ideális a naplementéhez.",
             "ro": "Nisipul negru este ideal pentru apus.",
-            "en": "The black sand is ideal for sunset."
+            "en": "The black sand is ideal for sunset.",
+            "es": "La arena negra es ideal para el atardecer."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Beginnen Sie Ihren Tag im pulsierenden Herzen der Stadt an der Plaza del Charco. Nach einer spirituellen Pause in der Kirche Peña de Francia tauchen Sie in die üppigen Gärten von Sitio Litre ein. Den Mittag verbringen Sie in der spektakulären Poolanlage Lago Martiánez. Der Nachmittag gehört der Geschichte am Castillo de San Felipe, bevor Sie den Tag am schwarzen Strand von Playa Jardín ausklingen lassen.",
         "hu": "Kezdje a napot a város lüktető szívében, a Plaza del Charco téren. A Peña de Francia templom után merüljön el a Sitio Litre kert buja növényzetében. A délutánt töltse a Lago Martiánez látványos medencerendszerében. Ismerje meg a történelmet a Castillo de San Felipe erődnél, majd élvezze a naplementét a fekete homokos Playa Jardín strandon.",
         "ro": "Începeți ziua în inima vibrantă a orașului, în Plaza del Charco. După o pauză spirituală la biserica Peña de Francia, scufundați-vă în vegetația luxuriantă a grădinii Sitio Litre. Amiaza o veți petrece în spectaculosul complex de piscine Lago Martiánez. După-amiaza aparține istoriei la Castillo de San Felipe, înainte de a încheia ziua pe nisipul negru de la Playa Jardín.",
-        "en": "Start your day in the vibrant heart of the city at Plaza del Charco. After a spiritual break at the Peña de Francia church, immerse yourself in the lush greenery of the Sitio Litre garden. Spend midday in the spectacular pool complex of Lago Martiánez. The afternoon belongs to history at Castillo de San Felipe, before ending the day on the black sand beach of Playa Jardín."
+        "en": "Start your day in the vibrant heart of the city at Plaza del Charco. After a spiritual break at the Peña de Francia church, immerse yourself in the lush greenery of the Sitio Litre garden. Spend midday in the spectacular pool complex of Lago Martiánez. The afternoon belongs to history at Castillo de San Felipe, before ending the day on the black sand beach of Playa Jardín.",
+        "es": "Comienza el día en el vibrante corazón de la ciudad, Plaza del Charco. Tras una pausa espiritual en la iglesia de la Peña de Francia, sumérgete en la intensa vegetación del jardín Sitio Litre. Pasa el mediodía en el espectacular complejo de piscinas de Lago Martiánez. La tarde es para la historia en el Castillo de San Felipe, y termina el día en la playa de arena negra de Playa Jardín."
       },
       "gastro_picks": {
         "de": [
@@ -229,6 +236,10 @@
         "en": [
           "Wear comfortable shoes for the cobblestone streets.",
           "Lago Martiánez requires an entrance fee, but it's worth it."
+        ],
+        "es": [
+          "Lleva calzado cómodo para las calles empedradas.",
+          "Lago Martiánez tiene tarifa de entrada, pero vale la pena."
         ]
       },
       "variants": {
@@ -237,7 +248,8 @@
             "de": "Beginnen Sie Ihren Tag im pulsierenden Herzen der Stadt an der Plaza del Charco. Nach einer spirituellen Pause in der Kirche Peña de Francia tauchen Sie in die üppigen Gärten von Sitio Litre ein. Den Mittag verbringen Sie in der spektakulären Poolanlage Lago Martiánez. Der Nachmittag gehört der Geschichte am Castillo de San Felipe, bevor Sie den Tag am schwarzen Strand von Playa Jardín ausklingen lassen.",
             "hu": "Kezdje a napot a város lüktető szívében, a Plaza del Charco téren. A Peña de Francia templom után merüljön el a Sitio Litre kert buja növényzetében. A délutánt töltse a Lago Martiánez látványos medencerendszerében. Ismerje meg a történelmet a Castillo de San Felipe erődnél, majd élvezze a naplementét a fekete homokos Playa Jardín strandon.",
             "ro": "Începeți ziua în inima vibrantă a orașului, în Plaza del Charco. După o pauză spirituală la biserica Peña de Francia, scufundați-vă în vegetația luxuriantă a grădinii Sitio Litre. Amiaza o veți petrece în spectaculosul complex de piscine Lago Martiánez. După-amiaza aparține istoriei la Castillo de San Felipe, înainte de a încheia ziua pe nisipul negru de la Playa Jardín.",
-            "en": "Start your day in the vibrant heart of the city at Plaza del Charco. After a spiritual break at the Peña de Francia church, immerse yourself in the lush greenery of the Sitio Litre garden. Spend midday in the spectacular pool complex of Lago Martiánez. The afternoon belongs to history at Castillo de San Felipe, before ending the day on the black sand beach of Playa Jardín."
+            "en": "Start your day in the vibrant heart of the city at Plaza del Charco. After a spiritual break at the Peña de Francia church, immerse yourself in the lush greenery of the Sitio Litre garden. Spend midday in the spectacular pool complex of Lago Martiánez. The afternoon belongs to history at Castillo de San Felipe, before ending the day on the black sand beach of Playa Jardín.",
+            "es": "Comienza el día en el vibrante corazón de la ciudad, Plaza del Charco. Tras una pausa espiritual en la iglesia de la Peña de Francia, sumérgete en la intensa vegetación del jardín Sitio Litre. Pasa el mediodía en el espectacular complejo de piscinas de Lago Martiánez. La tarde es para la historia en el Castillo de San Felipe, y termina el día en la playa de arena negra de Playa Jardín."
           },
           "stops": [
             {
@@ -246,7 +258,8 @@
                 "de": "Frühstücken Sie unter den Palmen.",
                 "hu": "Reggelizzen a pálmák árnyékában.",
                 "ro": "Luați micul dejun sub palmieri.",
-                "en": "Have breakfast under the palm trees."
+                "en": "Have breakfast under the palm trees.",
+                "es": "Desayuna bajo las palmeras."
               }
             },
             {
@@ -255,7 +268,8 @@
                 "de": "Bewundern Sie die hölzerne Mudéjar-Decke.",
                 "hu": "Csodálja meg a mudéjar stílusú fafödémet.",
                 "ro": "Admirați tavanul de lemn în stil Mudéjar.",
-                "en": "Admire the wooden Mudéjar ceiling."
+                "en": "Admire the wooden Mudéjar ceiling.",
+                "es": "Admira el artesonado mudéjar de madera."
               }
             },
             {
@@ -264,7 +278,8 @@
                 "de": "Besuchen Sie den ältesten Garten Teneriffas.",
                 "hu": "Látogassa meg Tenerife legrégebbi kertjét.",
                 "ro": "Vizitați cea mai veche grădină din Tenerife.",
-                "en": "Visit the oldest garden in Tenerife."
+                "en": "Visit the oldest garden in Tenerife.",
+                "es": "Visita el jardín más antiguo de Tenerife."
               }
             },
             {
@@ -273,7 +288,8 @@
                 "de": "Baden in der Architektur von César Manrique.",
                 "hu": "Fürödjön César Manrique építészeti remekében.",
                 "ro": "Înotați în arhitectura lui César Manrique.",
-                "en": "Swim in César Manrique's architectural masterpiece."
+                "en": "Swim in César Manrique's architectural masterpiece.",
+                "es": "Nada en la obra arquitectónica de César Manrique."
               }
             },
             {
@@ -282,7 +298,8 @@
                 "de": "Oft finden hier kostenlose Ausstellungen statt.",
                 "hu": "Gyakran tartanak itt ingyenes kiállításokat.",
                 "ro": "Aici au loc adesea expoziții gratuite.",
-                "en": "Free exhibitions are often held here."
+                "en": "Free exhibitions are often held here.",
+                "es": "Aquí se celebran con frecuencia exposiciones gratuitas."
               }
             },
             {
@@ -291,7 +308,8 @@
                 "de": "Der schwarze Sand ist ideal für den Sonnenuntergang.",
                 "hu": "A fekete homok ideális a naplementéhez.",
                 "ro": "Nisipul negru este ideal pentru apus.",
-                "en": "The black sand is ideal for sunset."
+                "en": "The black sand is ideal for sunset.",
+                "es": "La arena negra es ideal para el atardecer."
               }
             }
           ],
@@ -393,6 +411,10 @@
             "en": [
               "Wear comfortable shoes for the cobblestone streets.",
               "Lago Martiánez requires an entrance fee, but it's worth it."
+            ],
+            "es": [
+              "Lleva calzado cómodo para las calles empedradas.",
+              "Lago Martiánez tiene tarifa de entrada, pero vale la pena."
             ]
           }
         },
@@ -401,7 +423,8 @@
             "de": "Beginnen Sie den Morgen unter den schützenden Lorbeerbäumen der Plaza del Charco, wo Cafés trockene Plätze bieten. Mittags dient die Iglesia als stiller, trockener Zufluchtsort vor den Schauern. Nachmittags entfaltet der Sitio Litre Garten im Regen seine volle tropische Pracht, gefolgt von der dramatischen Meereskulisse am Lago Martiánez. Abends bieten die dicken Mauern des Castillo Schutz, während Sie den Wellen lauschen.",
             "hu": "Kezdje a reggelt a Plaza del Charco babérfái és árkádjai alatt, ahol a kávézók fedett teraszt kínálnak. Délben a templom hűvös és száraz menedéket nyújt az eső elől. Délután a Sitio Litre kert trópusi illatai felerősödnek a párás időben, a Lago Martiánez pedig vadregényes arcát mutatja. Este a Castillo de San Felipe falai között várhatja be a zápor végét, mielőtt a sötét homokos partra látogatna.",
             "ro": "Începeți dimineața sub arcadele din Plaza del Charco, unde cafenelele oferă adăpost împotriva ploii. La prânz, biserica Peña de Francia este un refugiu liniștit și uscat. După-amiaza, grădina Sitio Litre devine o mini-junglă luxuriantă sub picăturile de ploaie, iar Lago Martiánez oferă un spectacol dramatic al valurilor. Seara, zidurile fortăreței vă protejează în timp ce admirați oceanul învolburat.",
-            "en": "Start your morning under the protective laurel trees of Plaza del Charco, where cafes offer dry seating. At noon, the Iglesia serves as a quiet, dry sanctuary from the tropical showers. In the afternoon, the Sitio Litre garden reveals its tropical intensity in the rain, followed by the dramatic sea views at Lago Martiánez. In the evening, the thick walls of the Castillo provide shelter while you listen to the crashing waves."
+            "en": "Start your morning under the protective laurel trees of Plaza del Charco, where cafes offer dry seating. At noon, the Iglesia serves as a quiet, dry sanctuary from the tropical showers. In the afternoon, the Sitio Litre garden reveals its tropical intensity in the rain, followed by the dramatic sea views at Lago Martiánez. In the evening, the thick walls of the Castillo provide shelter while you listen to the crashing waves.",
+            "es": "Empieza la mañana bajo los laurales protectores de Plaza del Charco, donde las cafeterías ofrecen asientos secos. Al mediodía, la iglesia sirve de refugio tranquilo de los chubascos tropicales. Por la tarde, el jardín Sitio Litre revela su intensidad tropical bajo la lluvia, seguido de las vistas dramáticas al mar en Lago Martiánez. Por la noche, los muros gruesos del Castillo ofrecen cobijo mientras escuchas el choque de las olas."
           },
           "stops": [
             {
@@ -410,7 +433,8 @@
                 "de": "Nutzen Sie die Markisen der Cafés am Nordrand.",
                 "hu": "Használja az északi oldali kávézók napellenzőit.",
                 "ro": "Folosiți copertinele cafenelelor din latura de nord.",
-                "en": "Use the awnings of the cafes on the north side."
+                "en": "Use the awnings of the cafes on the north side.",
+                "es": "Utiliza los toldos de las cafeterías del lado norte."
               }
             },
             {
@@ -419,7 +443,8 @@
                 "de": "Ideal, um schwere Regengüsse trocken abzuwarten.",
                 "hu": "Tökéletes hely a hevesebb záporok átvészelésére.",
                 "ro": "Loc ideal pentru a aștepta trecerea ploii torențiale.",
-                "en": "Ideal place to wait out heavy downpours in the dry."
+                "en": "Ideal place to wait out heavy downpours in the dry.",
+                "es": "Lugar ideal para esperar grandes chaparrones a cubierto."
               }
             },
             {
@@ -428,7 +453,8 @@
                 "de": "Die dichte Vegetation bietet natürlichen Regenschutz.",
                 "hu": "A sűrű növényzet természetes esernyőként funkcionál.",
                 "ro": "Vegetația densă oferă o protecție naturală contra ploii.",
-                "en": "Dense vegetation provides natural protection from rain."
+                "en": "Dense vegetation provides natural protection from rain.",
+                "es": "La densa vegetación proporciona protección natural contra la lluvia."
               }
             },
             {
@@ -437,7 +463,8 @@
                 "de": "Genießen Sie den Blick auf die Brandung vom Café aus.",
                 "hu": "Élvezze a hullámverés látványát a fedett kávézóból.",
                 "ro": "Admirați spectacolul valurilor din cafeneaua acoperită.",
-                "en": "Enjoy the view of the surf from the indoor cafe."
+                "en": "Enjoy the view of the surf from the indoor cafe.",
+                "es": "Disfruta de las vistas del oleaje desde la cafetería interior."
               }
             },
             {
@@ -446,7 +473,8 @@
                 "de": "Die Innenräume der Festung sind komplett regensicher.",
                 "hu": "Az erőd belső terei teljesen esőbiztosak.",
                 "ro": "Interiorul fortăreței este complet ferit de ploaie.",
-                "en": "The interior of the fortress is completely rainproof."
+                "en": "The interior of the fortress is completely rainproof.",
+                "es": "El interior de la fortaleza es totalmente impermeable."
               }
             },
             {
@@ -455,7 +483,8 @@
                 "de": "Vorsicht, der schwarze Sand wird bei Regen sehr fest.",
                 "hu": "Vigyázat, a fekete homok esőben nagyon megtapad.",
                 "ro": "Atenție, nisipul negru devine foarte compact la ploaie.",
-                "en": "Caution, the black sand becomes very firm when wet."
+                "en": "Caution, the black sand becomes very firm when wet.",
+                "es": "Precaución: la arena negra se compacta mucho cuando está mojada."
               }
             }
           ],
@@ -487,6 +516,13 @@
               "Take advantage of the many arcades as natural shelters.",
               "Schedule museum visits during periods with the highest rain probability.",
               "Waterproof shoes are recommended on the volcanic soil."
+            ],
+            "es": [
+              "Un paraguas ligero es imprescindible durante los chubascos tropicales.",
+              "Los pavimentos del casco antiguo pueden volverse muy resbaladizos al mojarse.",
+              "Aprovecha los numerosos soportales como refugios naturales.",
+              "Programa las visitas a museos en los periodos con más probabilidad de lluvia.",
+              "Se recomiendan zapatos impermeables por el suelo volcánico."
             ]
           }
         },
@@ -495,7 +531,8 @@
             "de": "Genießen Sie die milde Wintersonne bei einem Kaffee auf der Plaza del Charco. Mittags ist die Temperatur perfekt für einen Spaziergang zur Kirche und durch die Gärten, ohne die Sommerhitze. Nachmittags leuchtet das Castillo im sanften Licht der tiefstehenden Sonne. Der Tag endet früh mit einem spektakulären Sonnenuntergang am Playa Jardín, bevor die kühle Meeresbrise einsetzt.",
             "hu": "Élvezze az enyhe téli napsütést egy kávé mellett a Plaza del Charcón. Délben a hőmérséklet ideális egy sétához a templomhoz és a kertekbe, a nyári hőség nélkül. Délután a Castillo falaiba vágódó hullámok az alacsonyan járó nap fényében ragyognak. A nap korán ér véget a Playa Jardín feletti látványos naplementével, mielőtt feltámadna a hűvös esti szellő.",
             "ro": "Bucurați-se de soarele blând de iarnă la o cafea în Plaza del Charco. La prânz, temperatura este perfectă pentru o plimbare spre biserică și grădini, fără canicula verii. După-amiaza, fortăreața strălucește în lumina caldă a soarelui care apune mai devreme. Ziua se încheie cu un apus spectaculos la Playa Jardín, înainte ca briza mării să devină răcoroasă.",
-            "en": "Enjoy the mild winter sun with a coffee at Plaza del Charco. At noon, the temperature is perfect for a stroll to the church and through the gardens, without the summer heat. In the afternoon, the Castillo glows in the soft light of the low-hanging sun. The day ends early with a spectacular sunset at Playa Jardín before the cool sea breeze sets in."
+            "en": "Enjoy the mild winter sun with a coffee at Plaza del Charco. At noon, the temperature is perfect for a stroll to the church and through the gardens, without the summer heat. In the afternoon, the Castillo glows in the soft light of the low-hanging sun. The day ends early with a spectacular sunset at Playa Jardín before the cool sea breeze sets in.",
+            "es": "Disfruta del suave sol invernal con un café en Plaza del Charco. Al mediodía la temperatura es perfecta para pasear hasta la iglesia y los jardines, sin el calor veraniego. Por la tarde el Castillo se ilumina con la luz suave del sol bajo. El día termina pronto con un espectacular atardecer en Playa Jardín antes de que entre la brisa fresca del mar."
           },
           "stops": [
             {
@@ -504,7 +541,8 @@
                 "de": "Sonnige Plätze sind im Winter sehr begehrt.",
                 "hu": "A napsütötte asztalok télen hamar elfogynak.",
                 "ro": "Mesele la soare sunt foarte căutate în timpul iernii.",
-                "en": "Sunny spots are highly sought after in winter."
+                "en": "Sunny spots are highly sought after in winter.",
+                "es": "Los lugares soleados se buscan mucho en invierno."
               }
             },
             {
@@ -513,7 +551,8 @@
                 "de": "Im Inneren ist es im Winter angenehm mild.",
                 "hu": "A templombelső télen is kellemesen enyhe.",
                 "ro": "Interiorul bisericii este plăcut și blând iarna.",
-                "en": "The interior is pleasantly mild during winter."
+                "en": "The interior is pleasantly mild during winter.",
+                "es": "El interior es agradablemente templado durante el invierno."
               }
             },
             {
@@ -522,7 +561,8 @@
                 "de": "Die Orchideen blühen hier auch im Winter prächtig.",
                 "hu": "Az orchideák itt télen is pompásan virágoznak.",
                 "ro": "Orhideele înfloresc superb aici chiar și iarna.",
-                "en": "Orchids bloom magnificently here even in winter."
+                "en": "Orchids bloom magnificently here even in winter.",
+                "es": "Las orquídeas florecen magníficamente aquí incluso en invierno."
               }
             },
             {
@@ -531,7 +571,8 @@
                 "de": "Das Meerwasser ist erfrischend, aber oft windig.",
                 "hu": "A tengervíz frissítő, de a szél gyakran feltámad.",
                 "ro": "Apa mării este revigorantă, dar adesea bate vântul.",
-                "en": "The seawater is refreshing, but it's often windy."
+                "en": "The seawater is refreshing, but it's often windy.",
+                "es": "El agua del mar es refrescante, pero a menudo hace viento."
               }
             },
             {
@@ -540,7 +581,8 @@
                 "de": "Bester Ort für Fotos in der goldenen Stunde.",
                 "hu": "A legjobb hely fotózáshoz az aranyórában.",
                 "ro": "Cel mai bun loc pentru poze la ora aurie.",
-                "en": "Best spot for photos during the golden hour."
+                "en": "Best spot for photos during the golden hour.",
+                "es": "Mejor punto para fotos durante la hora dorada."
               }
             },
             {
@@ -549,7 +591,8 @@
                 "de": "Sonnenuntergang findet bereits gegen 18:00 Uhr statt.",
                 "hu": "A naplemente már 18:00 óra körül bekövetkezik.",
                 "ro": "Apusul are loc deja în jurul orei 18:00.",
-                "en": "Sunset occurs as early as around 6:00 PM."
+                "en": "Sunset occurs as early as around 6:00 PM.",
+                "es": "El atardecer puede darse ya alrededor de las 18:00."
               }
             }
           ],
@@ -581,6 +624,13 @@
               "UV radiation remains high despite the mild temperatures.",
               "The waves are often higher and more spectacular in winter.",
               "Ideal for walking tours as the summer heat is absent."
+            ],
+            "es": [
+              "En invierno el sol se pone alrededor de las 18:15.",
+              "Necesitarás una chaqueta ligera o un jersey por la noche.",
+              "La radiación UV sigue siendo alta pese a las temperaturas suaves.",
+              "Las olas suelen ser más altas y espectaculares en invierno.",
+              "Ideal para rutas a pie ya que falta el calor veraniego."
             ]
           }
         }
@@ -609,7 +659,8 @@
             "de": "Perfekt für eine morgendliche Fahrt.",
             "hu": "Tökéletes reggeli tekeréshez.",
             "ro": "Perfect pentru o plimbare de dimineață.",
-            "en": "Perfect for a morning ride."
+            "en": "Perfect for a morning ride.",
+            "es": "Perfecto para un paseo matutino en bici."
           }
         },
         {
@@ -627,7 +678,8 @@
             "de": "Sperren Sie Ihr Fahrrad sicher am Eingang ab.",
             "hu": "Zárja le biztonságosan a biciklit a bejáratnál.",
             "ro": "Încuiați bicicleta în siguranță la intrare.",
-            "en": "Lock your bike securely at the entrance."
+            "en": "Lock your bike securely at the entrance.",
+            "es": "Asegura bien la bici en la entrada."
           }
         },
         {
@@ -645,7 +697,8 @@
             "de": "Großer Fahrradparkplatz in der Nähe.",
             "hu": "Nagy kerékpárparkoló a közelben.",
             "ro": "Parcare mare pentru biciclete în apropiere.",
-            "en": "Large bike parking nearby."
+            "en": "Large bike parking nearby.",
+            "es": "Hay un gran aparcabicis cerca."
           }
         },
         {
@@ -663,7 +716,8 @@
             "de": "Zeit für ein lokales Mittagessen.",
             "hu": "Ideje egy helyi ebédnek.",
             "ro": "Timpul pentru un prânz local.",
-            "en": "Time for a local lunch."
+            "en": "Time for a local lunch.",
+            "es": "Hora de probar un almuerzo local."
           }
         },
         {
@@ -681,7 +735,8 @@
             "de": "Entlang des Strandes gibt es Radwege.",
             "hu": "A strand mentén kerékpárút vezet.",
             "ro": "Există piste de biciclete de-a lungul plajei.",
-            "en": "There are bike paths along the beach."
+            "en": "There are bike paths along the beach.",
+            "es": "Hay carriles bici a lo largo de la playa."
           }
         }
       ],
@@ -689,7 +744,8 @@
         "de": "Erkunden Sie die Küste auf zwei Rädern. Starten Sie am Paseo Marítimo und fahren Sie hinauf zum Botanischen Garten, um exotische Pflanzen zu sehen. Kühlen Sie sich im Lago Martiánez ab, bevor Sie zum historischen Zentrum radeln. Beenden Sie Ihre Tour mit einer Fahrt entlang der malerischen Playa Jardín.",
         "hu": "Fedezze fel a partvonalat két keréken. Kezdje a Paseo Marítimo sétányon, majd tekerjen fel a Botanikus kertbe az egzotikus növényekhez. Frissüljön fel a Lago Martiánezben, mielőtt a történelmi belvárosba kerekezne. Zárja túráját a festői Playa Jardín mentén.",
         "ro": "Explorați coasta pe două roți. Începeți de pe Paseo Marítimo și pedalați până la Grădina Botanică pentru plante exotice. Răcoriți-vă la Lago Martiánez înainte de a pedala spre centrul istoric. Încheiați turul cu o plimbare de-a lungul pitoreștii Playa Jardín.",
-        "en": "Explore the coastline on two wheels. Start at Paseo Marítimo and ride up to the Botanical Garden for exotic plants. Refresh yourself at Lago Martiánez before cycling to the historic center. End your tour with a ride along the scenic Playa Jardín."
+        "en": "Explore the coastline on two wheels. Start at Paseo Marítimo and ride up to the Botanical Garden for exotic plants. Refresh yourself at Lago Martiánez before cycling to the historic center. End your tour with a ride along the scenic Playa Jardín.",
+        "es": "Explora la costa en dos ruedas. Empieza en el Paseo Marítimo y sube hasta el Jardín Botánico para ver plantas exóticas. Refresca en Lago Martiánez antes de pedalear hasta el centro histórico. Termina la ruta con un paseo junto a la pintoresca Playa Jardín."
       },
       "gastro_picks": {
         "de": [
@@ -789,6 +845,10 @@
         "en": [
           "The road to the Botanical Garden is steep.",
           "Watch out for pedestrians in the old town."
+        ],
+        "es": [
+          "La carretera hacia el Jardín Botánico es empinada.",
+          "Cuidado con los peatones en el casco antiguo."
         ]
       },
       "variants": {
@@ -797,7 +857,8 @@
             "de": "Erkunden Sie die Küste auf zwei Rädern. Starten Sie am Paseo Marítimo und fahren Sie hinauf zum Botanischen Garten, um exotische Pflanzen zu sehen. Kühlen Sie sich im Lago Martiánez ab, bevor Sie zum historischen Zentrum radeln. Beenden Sie Ihre Tour mit einer Fahrt entlang der malerischen Playa Jardín.",
             "hu": "Fedezze fel a partvonalat két keréken. Kezdje a Paseo Marítimo sétányon, majd tekerjen fel a Botanikus kertbe az egzotikus növényekhez. Frissüljön fel a Lago Martiánezben, mielőtt a történelmi belvárosba kerekezne. Zárja túráját a festői Playa Jardín mentén.",
             "ro": "Explorați coasta pe două roți. Începeți de pe Paseo Marítimo și pedalați până la Grădina Botanică pentru plante exotice. Răcoriți-vă la Lago Martiánez înainte de a pedala spre centrul istoric. Încheiați turul cu o plimbare de-a lungul pitoreștii Playa Jardín.",
-            "en": "Explore the coastline on two wheels. Start at Paseo Marítimo and ride up to the Botanical Garden for exotic plants. Refresh yourself at Lago Martiánez before cycling to the historic center. End your tour with a ride along the scenic Playa Jardín."
+            "en": "Explore the coastline on two wheels. Start at Paseo Marítimo and ride up to the Botanical Garden for exotic plants. Refresh yourself at Lago Martiánez before cycling to the historic center. End your tour with a ride along the scenic Playa Jardín.",
+            "es": "Explora la costa en dos ruedas. Empieza en el Paseo Marítimo y sube hasta el Jardín Botánico para ver plantas exóticas. Refresca en Lago Martiánez antes de pedalear hasta el centro histórico. Termina la ruta con un paseo junto a la pintoresca Playa Jardín."
           },
           "stops": [
             {
@@ -806,7 +867,8 @@
                 "de": "Perfekt für eine morgendliche Fahrt.",
                 "hu": "Tökéletes reggeli tekeréshez.",
                 "ro": "Perfect pentru o plimbare de dimineață.",
-                "en": "Perfect for a morning ride."
+                "en": "Perfect for a morning ride.",
+                "es": "Perfecto para un paseo matutino en bici."
               }
             },
             {
@@ -815,7 +877,8 @@
                 "de": "Sperren Sie Ihr Fahrrad sicher am Eingang ab.",
                 "hu": "Zárja le biztonságosan a biciklit a bejáratnál.",
                 "ro": "Încuiați bicicleta în siguranță la intrare.",
-                "en": "Lock your bike securely at the entrance."
+                "en": "Lock your bike securely at the entrance.",
+                "es": "Asegura bien la bici en la entrada."
               }
             },
             {
@@ -824,7 +887,8 @@
                 "de": "Großer Fahrradparkplatz in der Nähe.",
                 "hu": "Nagy kerékpárparkoló a közelben.",
                 "ro": "Parcare mare pentru biciclete în apropiere.",
-                "en": "Large bike parking nearby."
+                "en": "Large bike parking nearby.",
+                "es": "Hay un gran aparcabicis cerca."
               }
             },
             {
@@ -833,7 +897,8 @@
                 "de": "Zeit für ein lokales Mittagessen.",
                 "hu": "Ideje egy helyi ebédnek.",
                 "ro": "Timpul pentru un prânz local.",
-                "en": "Time for a local lunch."
+                "en": "Time for a local lunch.",
+                "es": "Hora de probar un almuerzo local."
               }
             },
             {
@@ -842,7 +907,8 @@
                 "de": "Entlang des Strandes gibt es Radwege.",
                 "hu": "A strand mentén kerékpárút vezet.",
                 "ro": "Există piste de biciclete de-a lungul plajei.",
-                "en": "There are bike paths along the beach."
+                "en": "There are bike paths along the beach.",
+                "es": "Hay carriles bici a lo largo de la playa."
               }
             }
           ],
@@ -944,6 +1010,10 @@
             "en": [
               "The road to the Botanical Garden is steep.",
               "Watch out for pedestrians in the old town."
+            ],
+            "es": [
+              "La carretera hacia el Jardín Botánico es empinada.",
+              "Cuidado con los peatones en el casco antiguo."
             ]
           }
         },
@@ -952,7 +1022,8 @@
             "de": "Eine Radtour am Paseo Marítimo erfordert bei Regen Vorsicht auf den Fliesen. Der Botanische Garten bietet dichte Baumkronen, die Schutz gewähren. Mittags laden die überdachten Bereiche am Lago Martiánez zur Pause ein. Nachmittags ist die Plaza del Charco ein guter Ort, um unter Markisen zu parken. Die Tour endet an der Playa Jardín, wo die Gischt mit dem Regen verschmilzt.",
             "hu": "A Paseo Marítimo menti bringázás esőben óvatosságot igényel a csúszós kövön. A Botanikus kert sűrű lombkoronái természetes védelmet nyújtanak a záporok elől. Délben a Lago Martiánez fedett részei kínálnak pihenőt. Délután a Plaza del Charco napellenzői alatt parkolhatunk le. A túra a Playa Jardínnál ér véget, ahol a tengeri permet keveredik az esővel.",
             "ro": "O plimbare cu bicicleta pe Paseo Marítimo necesită atenție pe dalele umede. Grădina Botanică oferă coronamente dese care vă protejează de ploaie. La prânz, zonele acoperite de la Lago Martiánez sunt ideale pentru pauză. După-amiaza, Plaza del Charco e un loc bun pentru parcare sub copertine. Turul se încheie la Playa Jardín, unde spray-ul mării se îmbină cu ploaia.",
-            "en": "A bike ride along Paseo Marítimo requires caution on the wet tiles during rain. The Botanical Garden offers dense canopies that provide natural shelter. At noon, the covered areas at Lago Martiánez invite you for a break. In the afternoon, Plaza del Charco is a good spot to park under awnings. The tour ends at Playa Jardín, where the sea spray merges with the rain."
+            "en": "A bike ride along Paseo Marítimo requires caution on the wet tiles during rain. The Botanical Garden offers dense canopies that provide natural shelter. At noon, the covered areas at Lago Martiánez invite you for a break. In the afternoon, Plaza del Charco is a good spot to park under awnings. The tour ends at Playa Jardín, where the sea spray merges with the rain.",
+            "es": "Un paseo en bici por el Paseo Marítimo requiere precaución por las baldosas mojadas cuando llueve. El Jardín Botánico ofrece copas densas que sirven de refugio natural. Al mediodía las zonas cubiertas de Lago Martiánez invitan a un descanso. Por la tarde Plaza del Charco es un buen lugar para aparcar bajo los toldos. La ruta termina en Playa Jardín, donde la bruma marina se mezcla con la lluvia."
           },
           "stops": [
             {
@@ -961,7 +1032,8 @@
                 "de": "Vorsicht, die hellen Gehwegplatten sind extrem rutschig.",
                 "hu": "Vigyázat, a világos járdalapok rendkívül csúszósak.",
                 "ro": "Atenție, dalele deschise de pe trotuar sunt extrem de alunecoase.",
-                "en": "Caution, the light pavement tiles are extremely slippery."
+                "en": "Caution, the light pavement tiles are extremely slippery.",
+                "es": "Precaución: las baldosas claras son extremadamente resbaladizas."
               }
             },
             {
@@ -970,7 +1042,8 @@
                 "de": "Fahrräder müssen draußen im überdachten Bereich bleiben.",
                 "hu": "A bicikliket kint, fedett tárolóban kell hagyni.",
                 "ro": "Bicicletele trebuie lăsate afară în zona acoperită.",
-                "en": "Bikes must stay outside in the covered parking area."
+                "en": "Bikes must stay outside in the covered parking area.",
+                "es": "Las bicicletas deben quedarse fuera en el aparcamiento cubierto."
               }
             },
             {
@@ -979,7 +1052,8 @@
                 "de": "Suchen Sie den Fahrradständer nahe des Eingangs.",
                 "hu": "Keresse a bejárathoz közeli kerékpártámaszokat.",
                 "ro": "Căutați rastelul de biciclete de lângă intrare.",
-                "en": "Look for the bike racks near the entrance."
+                "en": "Look for the bike racks near the entrance.",
+                "es": "Busca los anclajes para bicicletas cerca de la entrada."
               }
             },
             {
@@ -988,7 +1062,8 @@
                 "de": "Bester Platz für eine Pause im Trockenen.",
                 "hu": "A legjobb hely egy száraz pihenőhöz.",
                 "ro": "Cel mai bun loc pentru o pauză la adăpost.",
-                "en": "Best spot for a break in the dry."
+                "en": "Best spot for a break in the dry.",
+                "es": "Mejor lugar para descansar en seco."
               }
             },
             {
@@ -997,7 +1072,8 @@
                 "de": "Der Radweg entlang der Küste ist bei Wind exponiert.",
                 "hu": "A parti kerékpárút szeles időben nagyon kitett.",
                 "ro": "Pista de biciclete de-a lungul coastei este expusă vântului.",
-                "en": "The bike path along the coast is exposed during wind."
+                "en": "The bike path along the coast is exposed during wind.",
+                "es": "El carril bici junto a la costa queda expuesto con viento."
               }
             }
           ],
@@ -1029,6 +1105,13 @@
               "Avoid sharp turns on the slippery pavement tiles.",
               "Mudguards on the bike prevent splashes from the rear wheel.",
               "The route is flat, but wind gusts can come from the sea."
+            ],
+            "es": [
+              "Revisa los frenos para eficacia en tiempo húmedo antes de empezar.",
+              "Lleva ropa impermeable y de colores vivos para mejor visibilidad.",
+              "Evita giros cerrados sobre los adoquines resbaladizos.",
+              "Los guardabarros en la bici evitan salpicaduras de la rueda trasera.",
+              "La ruta es llana, pero pueden soplar rachas de mar."
             ]
           }
         },
@@ -1037,7 +1120,8 @@
             "de": "Winter ist die beste Zeit zum Radfahren in Puerto de la Cruz, da die Luft erfrischend ist. Starten Sie am Paseo Marítimo und genießen Sie die warme Mittagssonne im Botanischen Garten. Am Lago Martiánez ist es ruhig und ideal für eine Pause. Die Plaza del Charco bietet nachmittags lebendige Atmosphäre. Beenden Sie die Fahrt am Playa Jardín pünktlich zum frühen Sonnenuntergang.",
             "hu": "A tél a legjobb időszak a kerékpározásra Puerto de la Cruzban a frissítő levegő miatt. Kezdje a Paseo Marítimón, és élvezze a meleg déli napsütést a Botanikus kertben. A Lago Martiánez ilyenkor nyugodt és ideális egy pihenőhöz. A Plaza del Charco délutánonként pezsgő hangulatot áraszt. Fejezze be a túrát a Playa Jardínnál, pontosan a korai naplementére érkezve.",
             "ro": "Iarna este cel mai bun moment pentru ciclism în Puerto de la Cruz datorită aerului revigorant. Începeți pe Paseo Marítimo și bucurați-se de soarele cald de prânz în Grădina Botanică. La Lago Martiánez este liniște și ideal pentru o pauză. Plaza del Charco oferă o atmosferă vibrantă după-amiaza. Încheiați plimbarea la Playa Jardín exact la timp pentru apusul devreme.",
-            "en": "Winter is the best time for cycling in Puerto de la Cruz as the air is refreshing. Start at Paseo Marítimo and enjoy the warm midday sun in the Botanical Garden. Lago Martiánez is quiet and ideal for a break. Plaza del Charco offers a lively atmosphere in the afternoon. End your ride at Playa Jardín just in time for the early sunset."
+            "en": "Winter is the best time for cycling in Puerto de la Cruz as the air is refreshing. Start at Paseo Marítimo and enjoy the warm midday sun in the Botanical Garden. Lago Martiánez is quiet and ideal for a break. Plaza del Charco offers a lively atmosphere in the afternoon. End your ride at Playa Jardín just in time for the early sunset.",
+            "es": "El invierno es la mejor época para pedalear en Puerto de la Cruz por el aire refrescante. Comienza en el Paseo Marítimo y disfruta del cálido sol del mediodía en el Jardín Botánico. Lago Martiánez es tranquilo e ideal para una pausa. Plaza del Charco ofrece un ambiente animado por la tarde. Termina tu ruta en Playa Jardín justo a tiempo para el atardecer temprano."
           },
           "stops": [
             {
@@ -1046,7 +1130,8 @@
                 "de": "Angenehme Temperaturen für eine lockere Fahrt.",
                 "hu": "Kellemes hőmérséklet egy könnyed tekeréshez.",
                 "ro": "Temperaturi plăcute pentru o plimbare relaxată.",
-                "en": "Pleasant temperatures for a relaxed ride."
+                "en": "Pleasant temperatures for a relaxed ride.",
+                "es": "Temperaturas agradables para un paseo relajado."
               }
             },
             {
@@ -1055,7 +1140,8 @@
                 "de": "Mittagssonne hier besonders intensiv nutzen.",
                 "hu": "Használja ki itt a különösen intenzív déli napot.",
                 "ro": "Profitați de soarele de prânz, care e intens aici.",
-                "en": "Take advantage of the especially intense midday sun here."
+                "en": "Take advantage of the especially intense midday sun here.",
+                "es": "Aprovecha el sol del mediodía, especialmente intenso aquí."
               }
             },
             {
@@ -1064,7 +1150,8 @@
                 "de": "Im Winter weniger überlaufen, mehr Platz für Räder.",
                 "hu": "Télen kevésbé zsúfolt, több hely van a bringáknak.",
                 "ro": "Mai puțin aglomerat iarna, mai mult loc pentru biciclete.",
-                "en": "Less crowded in winter, more space for bikes."
+                "en": "Less crowded in winter, more space for bikes.",
+                "es": "Menos concurrido en invierno, más espacio para bicicletas."
               }
             },
             {
@@ -1073,7 +1160,8 @@
                 "de": "Perfekt für einen Kaffee in der Nachmittagssonne.",
                 "hu": "Tökéletes egy kávéhoz a délutáni napsütésben.",
                 "ro": "Perfect pentru o cafea sub soarele după-amiezii.",
-                "en": "Perfect for a coffee in the afternoon sun."
+                "en": "Perfect for a coffee in the afternoon sun.",
+                "es": "Perfecto para un café al sol de la tarde."
               }
             },
             {
@@ -1082,7 +1170,8 @@
                 "de": "Frühe Dämmerung beachten, Licht am Rad prüfen.",
                 "hu": "Figyeljen a korai sötétedésre, ellenőrizze a lámpákat.",
                 "ro": "Atenție la amurgul devreme, verificați luminile.",
-                "en": "Mind the early dusk, check your bike lights."
+                "en": "Mind the early dusk, check your bike lights.",
+                "es": "Atento al anochecer temprano; comprueba las luces de la bici."
               }
             }
           ],
@@ -1114,6 +1203,13 @@
               "Check the lighting system of your rental bike for the return trip.",
               "Humidity is lower and more pleasant in winter.",
               "A thin long-sleeve shirt protects against the cool riding wind."
+            ],
+            "es": [
+              "Aprovecha las frescas horas de la mañana para tramos más largos.",
+              "El protector solar es obligatorio incluso con 20 grados en invierno.",
+              "Revisa el sistema de iluminación de la bici de alquiler para la vuelta.",
+              "La humedad es más baja y agradable en invierno.",
+              "Una camiseta fina de manga larga protege del viento fresco al pedalear."
             ]
           }
         }
@@ -1142,7 +1238,8 @@
             "de": "Kommen Sie früh, um die Orca-Show zu sehen.",
             "hu": "Érkezzen korán a kardszárnyú delfin show-ra.",
             "ro": "Veniți devreme pentru spectacolul cu orca.",
-            "en": "Arrive early for the orca show."
+            "en": "Arrive early for the orca show.",
+            "es": "Llega pronto al espectáculo de orcas."
           }
         },
         {
@@ -1160,7 +1257,8 @@
             "de": "Parkplätze sind in der Hochsaison begrenzt.",
             "hu": "A parkolóhelyek száma szezonban korlátozott.",
             "ro": "Locurile de parcare sunt limitate în sezon.",
-            "en": "Parking is limited during high season."
+            "en": "Parking is limited during high season.",
+            "es": "El aparcamiento es limitado en temporada alta."
           }
         },
         {
@@ -1178,7 +1276,8 @@
             "de": "Nutzen Sie das Parkhaus am Einkaufszentrum.",
             "hu": "Használja a közeli pláza parkolóházát.",
             "ro": "Folosiți parcarea de la centrul comercial.",
-            "en": "Use the parking garage at the shopping center."
+            "en": "Use the parking garage at the shopping center.",
+            "es": "Usa el parking del centro comercial."
           }
         },
         {
@@ -1196,7 +1295,8 @@
             "de": "Ideal für einen Drink am Abend.",
             "hu": "Ideális egy esti italhoz.",
             "ro": "Ideal pentru o băutură seara.",
-            "en": "Ideal for an evening drink."
+            "en": "Ideal for an evening drink.",
+            "es": "Ideal para una copa por la tarde."
           }
         }
       ],
@@ -1204,7 +1304,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die großen Highlights. Beginnen Sie den Tag im weltberühmten Loro Parque. Danach fahren Sie zum Botanischen Garten für ein ruhigeres Naturerlebnis. Der Nachmittag gehört dem Lago Martiánez, bevor Sie den Wagen abstellen und das Ambiente der Plaza del Charco genießen.",
         "hu": "Autóval kényelmesen elérheti a legnagyobb látnivalókat. Kezdje a napot a világhírű Loro Parque-ban. Utána hajtson el a Botanikus kertbe egy nyugodtabb élményért. A délutánt töltse a Lago Martiánezben, majd parkoljon le és élvezze a Plaza del Charco hangulatát.",
         "ro": "Cu mașina puteți ajunge ușor la atracțiile principale. Începeți ziua la celebrul Loro Parque. Apoi conduceți spre Grădina Botanică pentru o experiență mai liniștită. După-amiaza aparține complexului Lago Martiánez, înainte de a parca și a savura atmosfera din Plaza del Charco.",
-        "en": "By car, you can easily reach the major highlights. Start the day at the world-famous Loro Parque. Then drive to the Botanical Garden for a quieter nature experience. Spend the afternoon at Lago Martiánez before parking and enjoying the vibe of Plaza del Charco."
+        "en": "By car, you can easily reach the major highlights. Start the day at the world-famous Loro Parque. Then drive to the Botanical Garden for a quieter nature experience. Spend the afternoon at Lago Martiánez before parking and enjoying the vibe of Plaza del Charco.",
+        "es": "En coche puedes llegar fácilmente a los puntos principales. Empieza el día en el mundialmente famoso Loro Parque. Luego conduce al Jardín Botánico para una experiencia natural más tranquila. Pasa la tarde en Lago Martiánez antes de aparcar y disfrutar el ambiente de Plaza del Charco."
       },
       "gastro_picks": {
         "de": [
@@ -1304,6 +1405,10 @@
         "en": [
           "Finding parking in the center can be tricky.",
           "Book Loro Parque tickets in advance."
+        ],
+        "es": [
+          "Encontrar aparcamiento en el centro puede ser complicado.",
+          "Reserva las entradas de Loro Parque con antelación."
         ]
       },
       "variants": {
@@ -1312,7 +1417,8 @@
             "de": "Mit dem Auto erreichen Sie bequem die großen Highlights. Beginnen Sie den Tag im weltberühmten Loro Parque. Danach fahren Sie zum Botanischen Garten für ein ruhigeres Naturerlebnis. Der Nachmittag gehört dem Lago Martiánez, bevor Sie den Wagen abstellen und das Ambiente der Plaza del Charco genießen.",
             "hu": "Autóval kényelmesen elérheti a legnagyobb látnivalókat. Kezdje a napot a világhírű Loro Parque-ban. Utána hajtson el a Botanikus kertbe egy nyugodtabb élményért. A délutánt töltse a Lago Martiánezben, majd parkoljon le és élvezze a Plaza del Charco hangulatát.",
             "ro": "Cu mașina puteți ajunge ușor la atracțiile principale. Începeți ziua la celebrul Loro Parque. Apoi conduceți spre Grădina Botanică pentru o experiență mai liniștită. După-amiaza aparține complexului Lago Martiánez, înainte de a parca și a savura atmosfera din Plaza del Charco.",
-            "en": "By car, you can easily reach the major highlights. Start the day at the world-famous Loro Parque. Then drive to the Botanical Garden for a quieter nature experience. Spend the afternoon at Lago Martiánez before parking and enjoying the vibe of Plaza del Charco."
+            "en": "By car, you can easily reach the major highlights. Start the day at the world-famous Loro Parque. Then drive to the Botanical Garden for a quieter nature experience. Spend the afternoon at Lago Martiánez before parking and enjoying the vibe of Plaza del Charco.",
+            "es": "En coche puedes llegar fácilmente a los puntos principales. Empieza el día en el mundialmente famoso Loro Parque. Luego conduce al Jardín Botánico para una experiencia natural más tranquila. Pasa la tarde en Lago Martiánez antes de aparcar y disfrutar el ambiente de Plaza del Charco."
           },
           "stops": [
             {
@@ -1321,7 +1427,8 @@
                 "de": "Kommen Sie früh, um die Orca-Show zu sehen.",
                 "hu": "Érkezzen korán a kardszárnyú delfin show-ra.",
                 "ro": "Veniți devreme pentru spectacolul cu orca.",
-                "en": "Arrive early for the orca show."
+                "en": "Arrive early for the orca show.",
+                "es": "Llega pronto al espectáculo de orcas."
               }
             },
             {
@@ -1330,7 +1437,8 @@
                 "de": "Parkplätze sind in der Hochsaison begrenzt.",
                 "hu": "A parkolóhelyek száma szezonban korlátozott.",
                 "ro": "Locurile de parcare sunt limitate în sezon.",
-                "en": "Parking is limited during high season."
+                "en": "Parking is limited during high season.",
+                "es": "El aparcamiento es limitado en temporada alta."
               }
             },
             {
@@ -1339,7 +1447,8 @@
                 "de": "Nutzen Sie das Parkhaus am Einkaufszentrum.",
                 "hu": "Használja a közeli pláza parkolóházát.",
                 "ro": "Folosiți parcarea de la centrul comercial.",
-                "en": "Use the parking garage at the shopping center."
+                "en": "Use the parking garage at the shopping center.",
+                "es": "Usa el parking del centro comercial."
               }
             },
             {
@@ -1348,7 +1457,8 @@
                 "de": "Ideal für einen Drink am Abend.",
                 "hu": "Ideális egy esti italhoz.",
                 "ro": "Ideal pentru o băutură seara.",
-                "en": "Ideal for an evening drink."
+                "en": "Ideal for an evening drink.",
+                "es": "Ideal para una copa por la tarde."
               }
             }
           ],
@@ -1450,6 +1560,10 @@
             "en": [
               "Finding parking in the center can be tricky.",
               "Book Loro Parque tickets in advance."
+            ],
+            "es": [
+              "Encontrar aparcamiento en el centro puede ser complicado.",
+              "Reserva las entradas de Loro Parque con antelación."
             ]
           }
         },
@@ -1458,7 +1572,8 @@
             "de": "Der Loro Parque ist perfekt für Regentage, da viele Tiershows überdacht sind. Mittags bietet die Fahrt zum Botanischen Garten Schutz im Auto, während der Garten selbst dicht bewachsen ist. Der Lago Martiánez hat ein großartiges Restaurant im Trockenen. Beenden Sie den Tag an der Plaza del Charco, wo Sie nahe der Parkhäuser viele Cafés finden.",
             "hu": "A Loro Parque tökéletes esős napokra, mivel a legtöbb állatbemutató fedett nézőtérrel rendelkezik. Délben az autó védelmében utazhat a Botanikus kerthez, amely sűrű lombjaival óv az esőtől. A Lago Martiánez kiváló éttermet kínál fedett helyen. A napot a Plaza del Charcónál zárja, ahol a parkolóházak közelében számos kávézót talál.",
             "ro": "Loro Parque este perfect pentru zilele ploioase, multe spectacole fiind acoperite. La prânz, călătoria spre Grădina Botanică vă oferă adăpost în mașină, iar grădina e densă. Lago Martiánez are un restaurant excelent ferit de ploaie. Încheiați ziua la Plaza del Charco, unde găsiți multe cafenele lângă parcările etajate.",
-            "en": "Loro Parque is perfect for rainy days as many animal shows are covered. At noon, the drive to the Botanical Garden provides shelter in the car, while the garden itself is densely grown. Lago Martiánez has a great restaurant in the dry. End the day at Plaza del Charco, where you'll find many cafes near the parking garages."
+            "en": "Loro Parque is perfect for rainy days as many animal shows are covered. At noon, the drive to the Botanical Garden provides shelter in the car, while the garden itself is densely grown. Lago Martiánez has a great restaurant in the dry. End the day at Plaza del Charco, where you'll find many cafes near the parking garages.",
+            "es": "Loro Parque es perfecto para días de lluvia porque muchos espectáculos están cubiertos. Al mediodía, el trayecto al Jardín Botánico ofrece refugio en el coche, mientras que el propio jardín está densamente arbolado. Lago Martiánez tiene un buen restaurante en seco. Termina el día en Plaza del Charco, donde hay muchas cafeterías cerca de los aparcamientos."
           },
           "stops": [
             {
@@ -1467,7 +1582,8 @@
                 "de": "Pinguinarium und Aquarium sind komplett indoor.",
                 "hu": "A pingvinárium és az akvárium teljesen fedett.",
                 "ro": "Pinguinariul și acvariul sunt complet în interior.",
-                "en": "The Penguinarium and Aquarium are completely indoors."
+                "en": "The Penguinarium and Aquarium are completely indoors.",
+                "es": "El pingüinario y el acuario están completamente bajo techo."
               }
             },
             {
@@ -1476,7 +1592,8 @@
                 "de": "Parken Sie direkt am Eingang, um nass zu werden zu vermeiden.",
                 "hu": "Parkoljon közvetlenül a bejáratnál a száraz bejutáshoz.",
                 "ro": "Parcați direct la intrare pentru a nu vă uda.",
-                "en": "Park directly at the entrance to avoid getting wet."
+                "en": "Park directly at the entrance to avoid getting wet.",
+                "es": "Aparca junto a la entrada para evitar mojarte."
               }
             },
             {
@@ -1485,7 +1602,8 @@
                 "de": "Das Restaurant Alisios ist ein guter Rückzugsort.",
                 "hu": "Az Alisios étterem kiváló menedékhely.",
                 "ro": "Restaurantul Alisios este un loc bun de retragere.",
-                "en": "The Alisios restaurant is a good retreat."
+                "en": "The Alisios restaurant is a good retreat.",
+                "es": "El restaurante Alisios es un buen refugio."
               }
             },
             {
@@ -1494,7 +1612,8 @@
                 "de": "Nutzen Sie das Parkhaus 'Plaza de Europa'.",
                 "hu": "Használja a 'Plaza de Europa' parkolóházat.",
                 "ro": "Folosiți parcarea etajată 'Plaza de Europa'.",
-                "en": "Use the 'Plaza de Europa' parking garage."
+                "en": "Use the 'Plaza de Europa' parking garage.",
+                "es": "Usa el parking 'Plaza de Europa'."
               }
             }
           ],
@@ -1526,6 +1645,13 @@
               "Check the condition of the windshield wipers on your rental car.",
               "Allow more time to find parking near indoor facilities.",
               "Use parking garages instead of open roadside parking."
+            ],
+            "es": [
+              "Evita aparcar bajo palmeras con viento fuerte.",
+              "Las carreteras pueden ponerse muy resbaladizas con la primera lluvia.",
+              "Comprueba el estado de los limpiaparabrisas del coche de alquiler.",
+              "Deja más tiempo para encontrar aparcamiento cerca de instalaciones cubiertas.",
+              "Usa parkings cubiertos en lugar de estacionamiento en vía abierta."
             ]
           }
         },
@@ -1534,7 +1660,8 @@
             "de": "Eine Wintertour mit dem Auto ermöglicht es Ihnen, flexibel auf das wechselnde Licht zu reagieren. Starten Sie im Loro Parque, der im Winter weniger überfüllt ist. Mittags fahren Sie zum Botanischen Garten, wenn die Sonne am höchsten steht. Der Lago Martiánez bietet im Winter eine entspannte Atmosphäre. Beenden Sie den Tag an der Plaza del Charco für ein gemütliches Abendessen.",
             "hu": "A téli autós túra lehetővé teszi, hogy rugalmasan alkalmazkodjon a változó fényekhez. Kezdjen a Loro Parque-ban, amely télen kevésbé zsúfolt. Délben látogasson el a Botanikus kertbe, amikor a legmagasabb a napállás. A Lago Martiánez télen pihentető hangulatot áraszt. A napot a Plaza del Charcónál zárja egy kellemes vacsorával.",
             "ro": "Un tur auto de iarnă vă permite să reacționați flexibil la lumina schimbătoare. Începeți la Loro Parque, care este mai puțin aglomerat iarna. La prânz, mergeți la Grădina Botanică când soarele este sus. Lago Martiánez oferă o atmosferă relaxată iarna. Încheiați ziua la Plaza del Charco pentru o cină primitoare.",
-            "en": "A winter tour by car allows you to react flexibly to the changing light. Start at Loro Parque, which is less crowded in winter. At noon, head to the Botanical Garden when the sun is highest. Lago Martiánez offers a relaxed atmosphere in winter. End the day at Plaza del Charco for a cozy dinner."
+            "en": "A winter tour by car allows you to react flexibly to the changing light. Start at Loro Parque, which is less crowded in winter. At noon, head to the Botanical Garden when the sun is highest. Lago Martiánez offers a relaxed atmosphere in winter. End the day at Plaza del Charco for a cozy dinner.",
+            "es": "Un recorrido invernal en coche permite reaccionar con flexibilidad a la luz cambiante. Empieza en Loro Parque, que está menos concurrido en invierno. Al mediodía, dirígete al Jardín Botánico cuando el sol está más alto. Lago Martiánez ofrece una atmósfera relajada en invierno. Termina el día en Plaza del Charco para una cena acogedora."
           },
           "stops": [
             {
@@ -1543,7 +1670,8 @@
                 "de": "Ideale Zeit für Orca-Shows ohne pralle Sonne.",
                 "hu": "Ideális időpont az orca-showhoz a tűző nap nélkül.",
                 "ro": "Moment ideal pentru spectacolele cu orci, fără soare arzător.",
-                "en": "Ideal time for orca shows without the scorching sun."
+                "en": "Ideal time for orca shows without the scorching sun.",
+                "es": "Momento ideal para los shows de orcas sin el sol abrasador."
               }
             },
             {
@@ -1552,7 +1680,8 @@
                 "de": "Tiefstehende Sonne wirft hier lange, schöne Schatten.",
                 "hu": "Az alacsony napállás gyönyörű hosszú árnyékokat vet.",
                 "ro": "Soarele de joasă altitudine aruncă umbre lungi și frumoase.",
-                "en": "Low-lying sun casts long, beautiful shadows here."
+                "en": "Low-lying sun casts long, beautiful shadows here.",
+                "es": "El sol bajo proyecta sombras largas y bonitas aquí."
               }
             },
             {
@@ -1561,7 +1690,8 @@
                 "de": "Die Wassertemperatur ist konstant bei ca. 18-20 Grad.",
                 "hu": "A víz hőmérséklete állandó 18-20 fok körül van.",
                 "ro": "Temperatura apei este constantă, în jur de 18-20 grade.",
-                "en": "Seawater temperature is constant at around 18-20 degrees."
+                "en": "Seawater temperature is constant at around 18-20 degrees.",
+                "es": "La temperatura del agua del mar se mantiene constante alrededor de 18–20 grados."
               }
             },
             {
@@ -1570,7 +1700,8 @@
                 "de": "Am Abend wird es hier im Winter schnell kühl.",
                 "hu": "Este télen itt hamar lehűl a levegő.",
                 "ro": "Seara se răcește rapid aici în timpul iernii.",
-                "en": "It cools down quickly here in the evening during winter."
+                "en": "It cools down quickly here in the evening during winter.",
+                "es": "Por la noche baja la temperatura rápidamente en invierno."
               }
             }
           ],
@@ -1602,6 +1733,13 @@
               "Air conditioning serves more as a heater in the evening during winter.",
               "Days are shorter, so start your tour on time.",
               "Use the car for trips to the higher elevations towards Teide."
+            ],
+            "es": [
+              "Es más fácil encontrar plazas de aparcamiento en el centro durante el invierno.",
+              "Ten en cuenta los cambios en la hora del atardecer al planear el trayecto.",
+              "El aire acondicionado actúa más como calefacción por la noche en invierno.",
+              "Los días son más cortos, así que empieza la ruta a tiempo.",
+              "Usa el coche para excursiones a cotas más altas hacia el Teide."
             ]
           }
         }
@@ -1630,7 +1768,8 @@
             "de": "Nutzen Sie den gelben Expresszug von der Stadt.",
             "hu": "Használja a városból induló sárga kisvonatot.",
             "ro": "Folosiți trenulețul galben expres din oraș.",
-            "en": "Use the yellow express train from town."
+            "en": "Use the yellow express train from town.",
+            "es": "Usa el tren exprés amarillo desde el pueblo."
           }
         },
         {
@@ -1648,7 +1787,8 @@
             "de": "Verkehrsknotenpunkt für viele Buslinien.",
             "hu": "Számos buszjárat csomópontja.",
             "ro": "Nod de transport pentru multe linii de autobuz.",
-            "en": "Transport hub for many bus lines."
+            "en": "Transport hub for many bus lines.",
+            "es": "Nudo de transporte para muchas líneas de autobús."
           }
         },
         {
@@ -1666,7 +1806,8 @@
             "de": "Bus 345 oder 348 halten direkt hier.",
             "hu": "A 345-ös vagy 348-as busz itt áll meg.",
             "ro": "Autobuzele 345 sau 348 opresc chiar aici.",
-            "en": "Bus 345 or 348 stops right here."
+            "en": "Bus 345 or 348 stops right here.",
+            "es": "Los autobuses 345 o 348 paran justo aquí."
           }
         },
         {
@@ -1684,7 +1825,8 @@
             "de": "Wenige Gehminuten von der Strandpromenade.",
             "hu": "Pár perc séta a tengerparti sétánytól.",
             "ro": "La câteva minute de mers pe jos de faleză.",
-            "en": "A few minutes walk from the promenade."
+            "en": "A few minutes walk from the promenade.",
+            "es": "A pocos minutos a pie del paseo."
           }
         }
       ],
@@ -1692,7 +1834,8 @@
         "de": "Nutzen Sie das effiziente TITSA-Busnetz. Beginnen Sie im Loro Parque, den Sie bequem mit dem Touristen-Bähnchen erreichen. Kehren Sie zum Mittagessen zur Plaza del Charco zurück. Am Nachmittag bringt Sie der Bus zum Botanischen Garten und später zum Schwimmen im Lago Martiánez.",
         "hu": "Használja a hatékony TITSA buszhálózatot. Kezdjen a Loro Parque-ban, amit a turistavonattal könnyen elérhet. Térjen vissza ebédelni a Plaza del Charco-ra. Délután a busz elviszi a Botanikus kertbe, majd végül a Lago Martiánezbe egy fürdőzésre.",
         "ro": "Folosiți rețeaua eficientă de autobuze TITSA. Începeți la Loro Parque, unde puteți ajunge ușor cu trenulețul turistic. Întoarceți-vă pentru prânz în Plaza del Charco. După-amiaza, autobuzul vă duce la Grădina Botanică și apoi la înot în Lago Martiánez.",
-        "en": "Use the efficient TITSA bus network. Start at Loro Parque, easily reachable by the tourist train. Return to Plaza del Charco for lunch. In the afternoon, the bus takes you to the Botanical Garden and finally to Lago Martiánez for a swim."
+        "en": "Use the efficient TITSA bus network. Start at Loro Parque, easily reachable by the tourist train. Return to Plaza del Charco for lunch. In the afternoon, the bus takes you to the Botanical Garden and finally to Lago Martiánez for a swim.",
+        "es": "Usa la eficiente red de autobuses TITSA. Empieza en Loro Parque, accesible con el tren turístico. Vuelve a Plaza del Charco para comer. Por la tarde, el autobús te lleva al Jardín Botánico y finalmente a Lago Martiánez para un baño."
       },
       "gastro_picks": {
         "de": [
@@ -1792,6 +1935,10 @@
         "en": [
           "Get a Ten+ card for discounts.",
           "Buses are very punctual."
+        ],
+        "es": [
+          "Hazte con una tarjeta Ten+ para descuentos.",
+          "Los autobuses son muy puntuales."
         ]
       },
       "variants": {
@@ -1800,7 +1947,8 @@
             "de": "Nutzen Sie das effiziente TITSA-Busnetz. Beginnen Sie im Loro Parque, den Sie bequem mit dem Touristen-Bähnchen erreichen. Kehren Sie zum Mittagessen zur Plaza del Charco zurück. Am Nachmittag bringt Sie der Bus zum Botanischen Garten und später zum Schwimmen im Lago Martiánez.",
             "hu": "Használja a hatékony TITSA buszhálózatot. Kezdjen a Loro Parque-ban, amit a turistavonattal könnyen elérhet. Térjen vissza ebédelni a Plaza del Charco-ra. Délután a busz elviszi a Botanikus kertbe, majd végül a Lago Martiánezbe egy fürdőzésre.",
             "ro": "Folosiți rețeaua eficientă de autobuze TITSA. Începeți la Loro Parque, unde puteți ajunge ușor cu trenulețul turistic. Întoarceți-vă pentru prânz în Plaza del Charco. După-amiaza, autobuzul vă duce la Grădina Botanică și apoi la înot în Lago Martiánez.",
-            "en": "Use the efficient TITSA bus network. Start at Loro Parque, easily reachable by the tourist train. Return to Plaza del Charco for lunch. In the afternoon, the bus takes you to the Botanical Garden and finally to Lago Martiánez for a swim."
+            "en": "Use the efficient TITSA bus network. Start at Loro Parque, easily reachable by the tourist train. Return to Plaza del Charco for lunch. In the afternoon, the bus takes you to the Botanical Garden and finally to Lago Martiánez for a swim.",
+            "es": "Usa la eficiente red de autobuses TITSA. Empieza en Loro Parque, accesible con el tren turístico. Vuelve a Plaza del Charco para comer. Por la tarde, el autobús te lleva al Jardín Botánico y finalmente a Lago Martiánez para un baño."
           },
           "stops": [
             {
@@ -1809,7 +1957,8 @@
                 "de": "Nutzen Sie den gelben Expresszug von der Stadt.",
                 "hu": "Használja a városból induló sárga kisvonatot.",
                 "ro": "Folosiți trenulețul galben expres din oraș.",
-                "en": "Use the yellow express train from town."
+                "en": "Use the yellow express train from town.",
+                "es": "Usa el tren exprés amarillo desde el pueblo."
               }
             },
             {
@@ -1818,7 +1967,8 @@
                 "de": "Verkehrsknotenpunkt für viele Buslinien.",
                 "hu": "Számos buszjárat csomópontja.",
                 "ro": "Nod de transport pentru multe linii de autobuz.",
-                "en": "Transport hub for many bus lines."
+                "en": "Transport hub for many bus lines.",
+                "es": "Nudo de transporte para muchas líneas de autobús."
               }
             },
             {
@@ -1827,7 +1977,8 @@
                 "de": "Bus 345 oder 348 halten direkt hier.",
                 "hu": "A 345-ös vagy 348-as busz itt áll meg.",
                 "ro": "Autobuzele 345 sau 348 opresc chiar aici.",
-                "en": "Bus 345 or 348 stops right here."
+                "en": "Bus 345 or 348 stops right here.",
+                "es": "Los autobuses 345 o 348 paran justo aquí."
               }
             },
             {
@@ -1836,7 +1987,8 @@
                 "de": "Wenige Gehminuten von der Strandpromenade.",
                 "hu": "Pár perc séta a tengerparti sétánytól.",
                 "ro": "La câteva minute de mers pe jos de faleză.",
-                "en": "A few minutes walk from the promenade."
+                "en": "A few minutes walk from the promenade.",
+                "es": "A pocos minutos a pie del paseo."
               }
             }
           ],
@@ -1938,6 +2090,10 @@
             "en": [
               "Get a Ten+ card for discounts.",
               "Buses are very punctual."
+            ],
+            "es": [
+              "Hazte con una tarjeta Ten+ para descuentos.",
+              "Los autobuses son muy puntuales."
             ]
           }
         },
@@ -1946,7 +2102,8 @@
             "de": "Nutzen Sie die Buslinie 381 zum Loro Parque, um trocken anzukommen. Die Station an der Plaza del Charco ist ein zentraler Umsteigepunkt mit vielen Cafés. Mittags bringt Sie der Bus schnell zum Botanischen Garten. Den Tag beenden Sie am Lago Martiánez, der gut an das Busnetz angebunden ist, sodass Sie nie lange im Regen warten müssen.",
             "hu": "Használja a 381-es buszt a Loro Parque-hoz, hogy szárazon érkezzen meg. A Plaza del Charco megállója központi csomópont, számos közeli kávézóval. Délben a busz gyorsan elviszi a Botanikus kerthez. A napot a Lago Martiánez-nél zárja, amely kiválóan kapcsolódik a buszhálózathoz, így sosem kell sokat várnia az esőben.",
             "ro": "Folosiți linia de autobuz 381 spre Loro Parque pentru a ajunge uscat. Stația din Plaza del Charco este un nod central cu multe cafenele. La prânz, autobuzul vă duce rapid la Grădina Botanică. Încheiați ziua la Lago Martiánez, care este bine conectat la rețea, astfel încât să nu așteptați mult în ploaie.",
-            "en": "Use bus line 381 to Loro Parque to arrive dry. The station at Plaza del Charco is a central hub with many nearby cafes. At noon, the bus quickly takes you to the Botanical Garden. End the day at Lago Martiánez, which is well connected to the bus network, so you never have to wait long in the rain."
+            "en": "Use bus line 381 to Loro Parque to arrive dry. The station at Plaza del Charco is a central hub with many nearby cafes. At noon, the bus quickly takes you to the Botanical Garden. End the day at Lago Martiánez, which is well connected to the bus network, so you never have to wait long in the rain.",
+            "es": "Toma la línea 381 a Loro Parque para llegar seco. La estación de Plaza del Charco es un nudo central con muchas cafeterías cercanas. Al mediodía, el bus te lleva rápido al Jardín Botánico. Termina el día en Lago Martiánez, bien conectado, para no esperar mucho bajo la lluvia."
           },
           "stops": [
             {
@@ -1955,7 +2112,8 @@
                 "de": "Der kostenlose 'Express Train' ist bei Regen überdacht.",
                 "hu": "Az ingyenes 'Express Train' esőben is fedett.",
                 "ro": "Trenulețul gratuit 'Express Train' este acoperit.",
-                "en": "The free 'Express Train' is covered during rain."
+                "en": "The free 'Express Train' is covered during rain.",
+                "es": "El 'Tren Exprés' gratuito está cubierto en caso de lluvia."
               }
             },
             {
@@ -1964,7 +2122,8 @@
                 "de": "Warten Sie in den Arkaden, bis der Bus einfährt.",
                 "hu": "Várjon az árkádok alatt, amíg a busz beérkezik.",
                 "ro": "Așteptați sub arcade până când sosește autobuzul.",
-                "en": "Wait under the arcades until the bus arrives."
+                "en": "Wait under the arcades until the bus arrives.",
+                "es": "Espera bajo los soportales hasta que llegue el autobús."
               }
             },
             {
@@ -1973,7 +2132,8 @@
                 "de": "Die Bushaltestelle bietet nur begrenzten Regenschutz.",
                 "hu": "A buszmegálló csak korlátozott esővédelmet nyújt.",
                 "ro": "Stația de autobuz oferă protecție limitată contra ploii.",
-                "en": "The bus stop provides only limited rain protection."
+                "en": "The bus stop provides only limited rain protection.",
+                "es": "La parada ofrece protección limitada contra la lluvia."
               }
             },
             {
@@ -1982,7 +2142,8 @@
                 "de": "Prüfen Sie die Abfahrtzeiten per App im Trockenen.",
                 "hu": "Ellenőrizze az indulást az appban még a fedett helyen.",
                 "ro": "Verificați orele de plecare în aplicație de la adăpost.",
-                "en": "Check departure times in the app while still in the dry."
+                "en": "Check departure times in the app while still in the dry.",
+                "es": "Consulta los horarios en la app mientras sigues en seco."
               }
             }
           ],
@@ -2014,6 +2175,13 @@
               "You can see real-time arrival times in the Titsa app.",
               "Central bus stops often have digital displays.",
               "A small umbrella is needed for the walk to the bus stop."
+            ],
+            "es": [
+              "Usa la tarjeta 'Ten+' para pago contactless en el autobús.",
+              "Los autobuses Titsa están climatizados y protegen de la humedad.",
+              "Puedes ver los tiempos de llegada en tiempo real en la app de Titsa.",
+              "Las paradas centrales suelen tener pantallas digitales.",
+              "Se necesita un paraguas pequeño para caminar a la parada."
             ]
           }
         },
@@ -2022,7 +2190,8 @@
             "de": "Winter ist die ideale Zeit für den Bus, um bequem die Stadt zu erkunden. Der Loro Parque ist morgens bei milden Temperaturen angenehm. Mittags bringt Sie der Transit zur Plaza del Charco für eine sonnige Mittagspause. Der Botanische Garten ist nachmittags ein ruhiger Ort. Beenden Sie die Tour am Lago Martiánez, wenn die Lichter der Stadt im Winter früher angehen.",
             "hu": "A tél ideális időszak a buszos városnézéshez. A Loro Parque reggel az enyhe hőmérséklet mellett nagyon kellemes. Délben a tömegközlekedés elviszi a Plaza del Charcóhoz egy napsütötte pihenőre. A Botanikus kert délutánonként nyugalmas hely. Zárja a túrát a Lago Martiánez-nél, amikor a város fényei télen korábban gyúlnak fel.",
             "ro": "Iarna este timpul ideal pentru autobuz pentru a explora orașul confortabil. Loro Parque este plăcut dimineața la temperaturi blânde. La prânz, transportul vă duce în Plaza del Charco pentru o pauză însorită. Grădina Botanică este un loc liniștit după-amiaza. Încheiați turul la Lago Martiánez, când luminile orașului se aprind mai devreme iarna.",
-            "en": "Winter is the ideal time for the bus to explore the city comfortably. Loro Parque is pleasant in the morning with mild temperatures. At noon, transit takes you to Plaza del Charco for a sunny lunch break. The Botanical Garden is a quiet place in the afternoon. End the tour at Lago Martiánez, when the city lights come on earlier in winter."
+            "en": "Winter is the ideal time for the bus to explore the city comfortably. Loro Parque is pleasant in the morning with mild temperatures. At noon, transit takes you to Plaza del Charco for a sunny lunch break. The Botanical Garden is a quiet place in the afternoon. End the tour at Lago Martiánez, when the city lights come on earlier in winter.",
+            "es": "El invierno es ideal para explorar la ciudad en autobús con comodidad. Loro Parque es agradable por la mañana con temperaturas suaves. Al mediodía, el tránsito te lleva a Plaza del Charco para una comida al sol. El Jardín Botánico es un lugar tranquilo por la tarde. Termina la ruta en Lago Martiánez cuando las luces de la ciudad se encienden antes en invierno."
           },
           "stops": [
             {
@@ -2031,7 +2200,8 @@
                 "de": "Weniger Warteschlangen an den Bushaltestellen im Winter.",
                 "hu": "Télen rövidebbek a sorok a buszmegállókban.",
                 "ro": "Coadă mai mică la stațiile de autobuz în timpul iernii.",
-                "en": "Shorter queues at the bus stops in winter."
+                "en": "Shorter queues at the bus stops in winter.",
+                "es": "Colas más cortas en las paradas de autobús en invierno."
               }
             },
             {
@@ -2040,7 +2210,8 @@
                 "de": "Zentraler Punkt, um schnell in jede Richtung zu fahren.",
                 "hu": "Központi pont, ahonnan bármely irányba gyorsan eljuthat.",
                 "ro": "Punct central pentru a merge rapid în orice direcție.",
-                "en": "Central point to quickly go in any direction."
+                "en": "Central point to quickly go in any direction.",
+                "es": "Punto central para ir rápidamente en cualquier dirección."
               }
             },
             {
@@ -2049,7 +2220,8 @@
                 "de": "Bushaltestelle direkt gegenüber dem Haupteingang.",
                 "hu": "A buszmegálló közvetlenül a főbejárattal szemben van.",
                 "ro": "Stația de autobuz este direct vizavi de intrarea principală.",
-                "en": "The bus stop is directly opposite the main entrance."
+                "en": "The bus stop is directly opposite the main entrance.",
+                "es": "La parada de autobús está justo enfrente de la entrada principal."
               }
             },
             {
@@ -2058,7 +2230,8 @@
                 "de": "Im Winter sind die Busse oft pünktlicher als im Sommer.",
                 "hu": "A buszok télen gyakran pontosabbak, mint nyáron.",
                 "ro": "Autobuzele sunt adesea mai punctuale iarna decât vara.",
-                "en": "Buses are often more punctual in winter than in summer."
+                "en": "Buses are often more punctual in winter than in summer.",
+                "es": "Los autobuses suelen ser más puntuales en invierno que en verano."
               }
             }
           ],
@@ -2090,6 +2263,13 @@
               "Buses run late into the night to all parts of the city.",
               "Use the front seats for the best view of the route.",
               "Buses run less frequently on weekends, plan ahead."
+            ],
+            "es": [
+              "Los horarios apenas cambian en invierno, pero revísalos de todas formas.",
+              "La tarjeta Ten+ se puede recargar en muchos kioscos.",
+              "Los autobuses circulan hasta tarde a todos los barrios de la ciudad.",
+              "Usa los asientos delanteros para la mejor vista del recorrido.",
+              "Los autobuses circulan con menos frecuencia los fines de semana; planifica con antelación."
             ]
           }
         }
@@ -2105,19 +2285,22 @@
       "de": "Puerto de la Cruz ist sehr deutsch geprägt, Sie kommen mit Deutsch fast überall durch. Spanisch wird natürlich gesprochen, Englisch ist Standard im Tourismus. Älteres Publikum, alles entspannt.",
       "hu": "Puerto de la Cruz nagyon német beállítottságú, németül szinte bárhol elboldogulsz. Spanyol természetesen megy, angol a turizmusban alap. Idősebb közönség, minden nyugis.",
       "ro": "Puerto de la Cruz e foarte germanizat, te descurci cu germana aproape oriunde. Spaniola e firească, engleza e standard în turism. Public mai în vârstă, totul lejer.",
-      "en": "Puerto de la Cruz has a strong German feel, German works almost everywhere. Spanish is natural, English standard in tourism. Older crowd, very relaxed pace."
+      "en": "Puerto de la Cruz has a strong German feel, German works almost everywhere. Spanish is natural, English standard in tourism. Older crowd, very relaxed pace.",
+      "es": "Puerto de la Cruz tiene un marcado ambiente alemán; el alemán se usa casi por todas partes. El español es habitual y el inglés es estándar en el turismo. Público mayor, ritmo muy relajado."
     },
     "best_time_to_visit": {
       "de": "Ganzjährig 18-26°C, daher beliebtes Winterziel der Deutschen. Februar Karneval ist spektakulär. April-Juni und Oktober-November mildes Wetter ohne Hauptsaison-Preise.",
       "hu": "Egész évben 18-26°C, ezért népszerű német téli úti cél. Februári karnevál látványos. Április-június és október-november kellemes idő főszezon-árak nélkül.",
       "ro": "Tot anul 18-26°C, de aceea e destinație populară de iarnă pentru germani. Carnavalul din februarie e spectaculos. Aprilie-iunie și octombrie-noiembrie au vreme blândă fără prețuri de vârf.",
-      "en": "Year-round 18-26°C, so it's a favourite German winter destination. February carnival is spectacular. April-June and October-November offer mild weather without peak prices."
+      "en": "Year-round 18-26°C, so it's a favourite German winter destination. February carnival is spectacular. April-June and October-November offer mild weather without peak prices.",
+      "es": "18-26 °C todo el año, por eso es un destino invernal favorito de los alemanes. El carnaval de febrero es espectacular. Abril-junio y octubre-noviembre ofrecen clima suave sin precios pico."
     },
     "neighborhood_warnings": {
       "de": "Sehr sicher, eine der ruhigsten Touristenstädte der Kanaren. Taschendiebe nur an Hauptbushaltestellen. Vorsicht bei Calima (Saharastaub) wegen Atemwegen. Atlantik hat Strömung, Flaggen beachten.",
       "hu": "Nagyon biztonságos, a Kanári-szigetek egyik legnyugodtabb turistavárosa. Zsebtolvajok csak fő buszmegállóknál. Calima (szaharai por) idején légúti vigyázat. Az Atlanti-óceán sodró, figyeld a zászlókat.",
       "ro": "Foarte sigur, unul din cele mai liniștite orașe turistice din Canare. Hoți doar la stații principale. Atenție la Calima (praf saharian) pentru respirație. Atlanticul are curenți, urmărește steagurile.",
-      "en": "Very safe, one of the Canaries' calmest tourist towns. Pickpockets only at main bus stops. Watch for Calima (Saharan dust) if you have breathing issues. The Atlantic has currents, follow flag warnings."
+      "en": "Very safe, one of the Canaries' calmest tourist towns. Pickpockets only at main bus stops. Watch for Calima (Saharan dust) if you have breathing issues. The Atlantic has currents, follow flag warnings.",
+      "es": "Muy seguro, una de las localidades turísticas más tranquilas de Canarias. Los carteristas aparecen solo en las paradas principales de autobús. Vigila la calima si tienes problemas respiratorios. El Atlántico tiene corrientes: sigue las banderas de advertencia."
     }
   }
 }

@@ -21,7 +21,8 @@
             "de": "Plaza de la Constitución & Iglesia de la Inmaculada Concepción",
             "hu": "Alkotmány tér és a Szeplőtlen Fogantatás temploma",
             "ro": "Piața Constituției și Biserica Neprihănita Zămislire",
-            "en": "Constitution Square & Church of the Immaculate Conception"
+            "en": "Constitution Square & Church of the Immaculate Conception",
+            "es": "Plaza de la Constitución y Parroquia de la Inmaculada Concepción"
           },
           "coords": [
             -0.676,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie den Tag mit einem Kaffee auf dem belebten Platz.",
             "hu": "Kezdje a napot egy kávéval a nyüzsgő téren.",
             "ro": "Începeți ziua cu o cafea în piața animată.",
-            "en": "Start your day with a coffee in the bustling square."
+            "en": "Start your day with a coffee in the bustling square.",
+            "es": "Empieza tu día con un café en la bulliciosa plaza."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Meeres- und Salzmuseum",
             "hu": "Tenger- és Só Múzeum",
             "ro": "Muzeul Mării și Sării",
-            "en": "Sea and Salt Museum"
+            "en": "Sea and Salt Museum",
+            "es": "Museo del Mar y la Sal"
           },
           "coords": [
             -0.678,
@@ -59,7 +62,8 @@
             "de": "Interaktive Ausstellungen zeigen die Geschichte der Salzgewinnung.",
             "hu": "Interaktív kiállítások mutatják be a sóbányászat történetét.",
             "ro": "Expozițiile interactive prezintă istoria fabricării sării.",
-            "en": "Interactive exhibits showcase the history of salt-making."
+            "en": "Interactive exhibits showcase the history of salt-making.",
+            "es": "Exposiciones interactivas muestran la historia de la extracción de sal."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "U-Boot S-61 Delfín Museum",
             "hu": "S-61 Delfin Tengeralattjáró Múzeum",
             "ro": "Muzeul Submarinului S-61 Delfin",
-            "en": "S-61 Delfin Submarine Museum"
+            "en": "S-61 Delfin Submarine Museum",
+            "es": "Museo Submarino S-61 Delfín"
           },
           "coords": [
             -0.6715,
@@ -82,7 +87,8 @@
             "de": "Ein echtes U-Boot zum Erkunden! Einzigartig in Spanien.",
             "hu": "Egy igazi tengeralattjáró, amit felfedezhetsz! Egyedülálló Spanyolországban.",
             "ro": "Un submarin real de explorat! Unic în Spania.",
-            "en": "A real submarine to explore! Unique in Spain."
+            "en": "A real submarine to explore! Unique in Spain.",
+            "es": "¡Un submarino real para explorar! Único en España."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Paseo Juan Aparicio & Mittagessen",
             "hu": "Juan Aparicio sétány és ebéd",
             "ro": "Promenada Juan Aparicio & Prânz",
-            "en": "Juan Aparicio Promenade & Lunch"
+            "en": "Juan Aparicio Promenade & Lunch",
+            "es": "Paseo Juan Aparicio y almuerzo"
           },
           "coords": [
             -0.668,
@@ -105,7 +112,8 @@
             "de": "Wählen Sie ein Restaurant mit Meerblick für frischen Fisch.",
             "hu": "Válasszon egy tengerre néző éttermet friss halételekért.",
             "ro": "Alegeți un restaurant cu vedere la mare pentru pește proaspăt.",
-            "en": "Choose a restaurant with a sea view for fresh fish."
+            "en": "Choose a restaurant with a sea view for fresh fish.",
+            "es": "Elige un restaurante con vistas al mar para comer pescado fresco."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Dique de Levante",
             "hu": "Dique de Levante (Keleti móló)",
             "ro": "Digul de Levante",
-            "en": "Dique de Levante (Eastern Pier)"
+            "en": "Dique de Levante (Eastern Pier)",
+            "es": "Dique de Levante"
           },
           "coords": [
             -0.66,
@@ -128,7 +137,8 @@
             "de": "Ein langer Spaziergang über dem Meer mit fantastischer Aussicht.",
             "hu": "Hosszú séta a tenger felett, fantasztikus kilátással.",
             "ro": "O plimbare lungă deasupra mării, cu vederi fantastice.",
-            "en": "A long walk over the sea with fantastic views."
+            "en": "A long walk over the sea with fantastic views.",
+            "es": "Un largo paseo sobre el mar con vistas fantásticas."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Parque de las Naciones",
             "hu": "Nemzetek Parkja",
             "ro": "Parcul Națiunilor",
-            "en": "Park of Nations"
+            "en": "Park of Nations",
+            "es": "Parque de las Naciones"
           },
           "coords": [
             -0.678,
@@ -151,7 +162,8 @@
             "de": "Suchen Sie nach der Nachbildung einer europäischen Landkarte im See.",
             "hu": "Keresse meg a tóban lévő Európa-térkép másolatát.",
             "ro": "Căutați replica hărții Europei din lac.",
-            "en": "Look for the replica map of Europe in the lake."
+            "en": "Look for the replica map of Europe in the lake.",
+            "es": "Busca el mapa réplica de Europa en el lago."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Torre del Moro",
             "hu": "Torre del Moro (Mór torony)",
             "ro": "Torre del Moro",
-            "en": "Torre del Moro (Moorish Tower)"
+            "en": "Torre del Moro (Moorish Tower)",
+            "es": "Torre del Moro"
           },
           "coords": [
             -0.642,
@@ -174,7 +187,8 @@
             "de": "Der beste Ort in der Stadt, um den Sonnenuntergang zu beobachten.",
             "hu": "A legjobb hely a városban a naplemente megtekintésére.",
             "ro": "Cel mai bun loc din oraș pentru a privi apusul.",
-            "en": "The best spot in town to watch the sunset."
+            "en": "The best spot in town to watch the sunset.",
+            "es": "El mejor lugar de la ciudad para ver la puesta de sol."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Ihr Tag beginnt im Herzen von Torrevieja, an der Plaza de la Constitución, wo Sie die lokale Atmosphäre aufsaugen. Am Vormittag tauchen Sie im Meeres- und Salzmuseum und an Bord des U-Boots Delfín in die maritime Geschichte ein. Nach einem Mittagessen mit Meerblick am Paseo Juan Aparicio spazieren Sie am Nachmittag auf dem Dique de Levante und entspannen im grünen Parque de las Naciones. Der Tag endet mit einem spektakulären Sonnenuntergang vom historischen Torre del Moro aus.",
         "hu": "A nap Torrevieja szívében, a Plaza de la Constitución téren indul, ahol magába szívhatja a helyi hangulatot. Délelőtt a Tenger- és Só Múzeumban és a Delfin tengeralattjáró fedélzetén merülhet el a tengerészeti történelemben. A Juan Aparicio sétányon elköltött tengerparti ebéd után délután a Dique de Levante mólón sétálhat, majd a zöld Parque de las Naciones parkban pihenhet. A napot a történelmi Torre del Moro toronyból nyíló látványos naplemente zárja.",
         "ro": "Ziua începe în inima orașului Torrevieja, în Plaza de la Constitución, absorbind atmosfera locală. Dimineața vă scufundați în istoria maritimă la Muzeul Mării și Sării și la bordul submarinului Delfin. După un prânz cu vedere la mare pe Paseo Juan Aparicio, după-amiaza este pentru o plimbare pe Dique de Levante și relaxare în verdele Parque de las Naciones. Ziua se încheie cu un apus spectaculos de la istoricul Torre del Moro.",
-        "en": "Your day starts in the heart of Torrevieja at Plaza de la Constitución, soaking up the local vibe. The morning is for diving into maritime history at the Sea and Salt Museum and aboard the Delfin submarine. After a sea-view lunch on Paseo Juan Aparicio, the afternoon is for a walk on the Dique de Levante and relaxing in the green Parque de las Naciones. The day concludes with a spectacular sunset from the historic Torre del Moro."
+        "en": "Your day starts in the heart of Torrevieja at Plaza de la Constitución, soaking up the local vibe. The morning is for diving into maritime history at the Sea and Salt Museum and aboard the Delfin submarine. After a sea-view lunch on Paseo Juan Aparicio, the afternoon is for a walk on the Dique de Levante and relaxing in the green Parque de las Naciones. The day concludes with a spectacular sunset from the historic Torre del Moro.",
+        "es": "Tu día comienza en el corazón de Torrevieja, en la Plaza de la Constitución, empapándote del ambiente local. La mañana está dedicada a la historia marítima en el Museo del Mar y la Sal y a bordo del submarino Delfín. Tras un almuerzo con vistas al mar en el Paseo Juan Aparicio, la tarde es para pasear por el Dique de Levante y relajarse en el verde Parque de las Naciones. El día concluye con una espectacular puesta de sol desde la histórica Torre del Moro."
       },
       "gastro_picks": {
         "de": [
@@ -378,6 +393,12 @@
           "Bring water, especially during the summer months.",
           "Sun protection is a must – hat, sunscreen, and sunglasses.",
           "Most museums close for a siesta, so plan your visit accordingly."
+        ],
+        "es": [
+          "Lleva calzado cómodo, harás mucho camino.",
+          "Lleva agua, especialmente en los meses de verano.",
+          "Protección solar imprescindible: sombrero, crema y gafas de sol.",
+          "La mayoría de los museos cierran por la siesta, planifica las visitas en consecuencia."
         ]
       },
       "variants": {
@@ -386,7 +407,8 @@
             "de": "Beginnen Sie den Tag in der Kirche und im geschützten Salzmuseum. Mittags bietet die Promenade trotz Regen eine dramatische Aussicht auf das Meer. Das U-Boot-Museum ist ein trockenes Highlight für den Nachmittag. Der Tag endet am Torre del Moro, wo der Wind die Gischt gegen die Felsen peitscht.",
             "hu": "Kezdje a napot a templom falai között, majd a Sómúzeum fedett kiállításaiban. Délben a parti sétány esőben is hangulatos, a tenger látványa ilyenkor a legdrámaibb. A tengeralattjáró-múzeum száraz menedék délutánra. A nap a Torre del Morónál zárul, ahol a szél a szikláknak csapja a sós permetet.",
             "ro": "Începeți ziua în biserică și în spațiile protejate ale Muzeului Sării. La prânz, faleza oferă o priveliște dramatică asupra mării, chiar și pe ploaie. Muzeul submarin este un punct de atracție uscat pentru după-amiază. Ziua se încheie la Torre del Moro, unde vântul izbește valurile de stânci.",
-            "en": "Start the day inside the church and the sheltered Salt Museum. At noon, the promenade offers a dramatic sea view despite the rain. The submarine museum is a dry highlight for the afternoon. The day ends at Torre del Moro, where the wind whips the salt spray against the cliffs."
+            "en": "Start the day inside the church and the sheltered Salt Museum. At noon, the promenade offers a dramatic sea view despite the rain. The submarine museum is a dry highlight for the afternoon. The day ends at Torre del Moro, where the wind whips the salt spray against the cliffs.",
+            "es": "Comienza el día en la iglesia y en el resguardado Museo de la Sal. Al mediodía, el paseo ofrece una vista dramática del mar pese a la lluvia. El museo submarino es un punto seco destacado por la tarde. El día termina en la Torre del Moro, donde el viento lanza la bruma salina contra los acantilados."
           },
           "stops": [
             {
@@ -395,7 +417,8 @@
                 "de": "Achten Sie auf die glatten Marmorfliesen auf dem Platz.",
                 "hu": "Vigyázzon a téren a csúszós márványburkolatra.",
                 "ro": "Atenție la plăcile de marmură alunecoase din piață.",
-                "en": "Watch out for the slippery marble tiles in the square."
+                "en": "Watch out for the slippery marble tiles in the square.",
+                "es": "Cuidado con las baldosas de mármol resbaladizas en la plaza."
               }
             },
             {
@@ -404,7 +427,8 @@
                 "de": "Ideal bei Regen, die gesamte Ausstellung ist überdacht.",
                 "hu": "Ideális esőben, a teljes kiállítás fedett térben van.",
                 "ro": "Ideal pe ploaie, întreaga expoziție este acoperită.",
-                "en": "Ideal for rain, the entire exhibition is indoors."
+                "en": "Ideal for rain, the entire exhibition is indoors.",
+                "es": "Ideal para la lluvia, toda la exposición está en interior."
               }
             },
             {
@@ -413,7 +437,8 @@
                 "de": "Im Inneren des U-Boots bleiben Sie garantiert trocken.",
                 "hu": "A tengeralattjáró belsejében garantáltan száraz marad.",
                 "ro": "În interiorul submarinului veți rămâne cu siguranță uscat.",
-                "en": "Inside the submarine, you are guaranteed to stay dry."
+                "en": "Inside the submarine, you are guaranteed to stay dry.",
+                "es": "Dentro del submarino te aseguras mantenerte seco."
               }
             },
             {
@@ -422,7 +447,8 @@
                 "de": "Wählen Sie ein Restaurant mit verglaster Terrasse.",
                 "hu": "Válasszon üvegezett terasszal rendelkező éttermet.",
                 "ro": "Alegeți un restaurant cu terasă vitrată.",
-                "en": "Choose a restaurant with a glazed terrace."
+                "en": "Choose a restaurant with a glazed terrace.",
+                "es": "Elige un restaurante con terraza acristalada."
               }
             },
             {
@@ -431,7 +457,8 @@
                 "de": "Vorsicht vor Gischt und starken Windböen auf der Mole.",
                 "hu": "Vigyázzon a hullámpermetre és az erős széllökésekre a gáton.",
                 "ro": "Atenție la spray-ul marin și la rafalele puternice de vânt.",
-                "en": "Watch out for sea spray and strong wind gusts on the pier."
+                "en": "Watch out for sea spray and strong wind gusts on the pier.",
+                "es": "Cuidado con la salpicadura y las rachas de viento en el dique."
               }
             },
             {
@@ -440,7 +467,8 @@
                 "de": "Die Pavillons bieten Schutz vor plötzlichen Schauern.",
                 "hu": "A pavilonok menedéket nyújtanak a hirtelen záporok elől.",
                 "ro": "Pavilioanele oferă adăpost împotriva averselor bruște.",
-                "en": "The pavilions offer shelter from sudden showers."
+                "en": "The pavilions offer shelter from sudden showers.",
+                "es": "Los pabellones ofrecen cobijo frente a chubascos repentinos."
               }
             },
             {
@@ -449,7 +477,8 @@
                 "de": "Halten Sie den Schirm gut fest, hier ist es sehr windig.",
                 "hu": "Tartsa erősen az esernyőt, itt rendkívül szeles az idő.",
                 "ro": "Țineți bine umbrela, aici este foarte vânt.",
-                "en": "Hold your umbrella tight, it's extremely windy here."
+                "en": "Hold your umbrella tight, it's extremely windy here.",
+                "es": "Sujeta bien el paraguas, aquí hace mucho viento."
               }
             }
           ],
@@ -481,6 +510,13 @@
               "A rain poncho is often more practical than an umbrella in gusty wind.",
               "Many cafes on the Paseo have heated outdoor areas with awnings.",
               "Check the submarine's opening hours; it may close during stormy weather."
+            ],
+            "es": [
+              "Lleva calzado con buen agarre, los pavimentos claros se vuelven resbaladizos.",
+              "Los museos del puerto son excelentes puntos de refugio durante los chaparrones.",
+              "Un chubasquero a menudo es más práctico que un paraguas con viento racheado.",
+              "Muchas cafeterías del Paseo tienen zonas exteriores calefactadas y toldos.",
+              "Consulta los horarios del submarino; puede cerrar en tiempo tormentoso."
             ]
           }
         },
@@ -489,7 +525,8 @@
             "de": "Genießen Sie die milde Wintersonne bei einem Stadtrundgang. Die Museen sind in der Nebensaison angenehm leer. Die Mittagspause an der Promenade ist perfekt, um Vitamin D zu tanken. Da es früh dunkel wird, bietet der Torre del Moro zum Abschluss einen klaren Sternenhimmel über dem Mittelmeer.",
             "hu": "Élvezze az enyhe téli napsütést egy városi séta során. A múzeumok a főszezonon kívül kellemesen üresek. Az ebédszünet a sétányon tökéletes a D-vitamin gyűjtéséhez. Mivel korán sötétedik, a napot a Torre del Morónál zárhatja a tenger feletti tiszta csillagos égbolttal.",
             "ro": "Bucurați-vă de soarele blând de iarnă în timpul unei plimbări prin oraș. Muzeele sunt plăcut de libere în extrasezon. Pauza de prânz pe faleză este perfectă pentru a acumula vitamina D. Deoarece se întunecă devreme, Torre del Moro oferă un cer înstelat clar deasupra Mediteranei.",
-            "en": "Enjoy the mild winter sun during a city walk. Museums are pleasantly uncrowded in the low season. The lunch break on the promenade is perfect for soaking up Vitamin D. Since it gets dark early, end the day at Torre del Moro with a clear starry sky over the Mediterranean."
+            "en": "Enjoy the mild winter sun during a city walk. Museums are pleasantly uncrowded in the low season. The lunch break on the promenade is perfect for soaking up Vitamin D. Since it gets dark early, end the day at Torre del Moro with a clear starry sky over the Mediterranean.",
+            "es": "Disfruta del suave sol invernal durante un paseo urbano. Los museos están agradablemente poco concurridos en temporada baja. La pausa para comer en el paseo es perfecta para absorber vitamina D. Al oscurecer temprano, termina el día en la Torre del Moro con un cielo estrellado sobre el Mediterráneo."
           },
           "stops": [
             {
@@ -498,7 +535,8 @@
                 "de": "Im Winter ist der Platz oft festlich beleuchtet.",
                 "hu": "Télen a tér gyakran ünnepi díszkivilágítást kap.",
                 "ro": "Iarna, piața este adesea iluminată festiv.",
-                "en": "In winter, the square is often festively illuminated."
+                "en": "In winter, the square is often festively illuminated.",
+                "es": "En invierno la plaza suele estar iluminada festivamente."
               }
             },
             {
@@ -507,7 +545,8 @@
                 "de": "Keine Warteschlangen, genießen Sie die Ruhe im Museum.",
                 "hu": "Nincsenek sorok, élvezze a múzeum nyugalmát.",
                 "ro": "Fără cozi, bucurați-vă de liniștea din muzeu.",
-                "en": "No queues, enjoy the peace inside the museum."
+                "en": "No queues, enjoy the peace inside the museum.",
+                "es": "Sin colas, disfruta de la tranquilidad dentro del museo."
               }
             },
             {
@@ -516,7 +555,8 @@
                 "de": "Das Metall im Inneren kann recht kühl sein, tragen Sie eine Jacke.",
                 "hu": "A belső fémfelületek hűvösek lehetnek, viseljen kabátot.",
                 "ro": "Metalul din interior poate fi destul de rece, purtați o jachetă.",
-                "en": "The metal inside can be quite cool, wear a jacket."
+                "en": "The metal inside can be quite cool, wear a jacket.",
+                "es": "El metal del interior puede estar bastante frío, lleva una chaqueta."
               }
             },
             {
@@ -525,7 +565,8 @@
                 "de": "Die Mittagssonne ist hier im Winter am intensivsten.",
                 "hu": "A déli napsütés itt télen a legintenzívebb.",
                 "ro": "Soarele de la amiază este cel mai intens aici în timpul iernii.",
-                "en": "The midday sun is most intense here during winter."
+                "en": "The midday sun is most intense here during winter.",
+                "es": "El sol de mediodía es más intenso aquí durante el invierno."
               }
             },
             {
@@ -534,7 +575,8 @@
                 "de": "Die Winterluft ist hier besonders klar und erfrischend.",
                 "hu": "A téli levegő itt különösen tiszta és frissítő.",
                 "ro": "Aerul de iarnă este deosebit de clar și revigorant aici.",
-                "en": "The winter air is particularly clear and refreshing here."
+                "en": "The winter air is particularly clear and refreshing here.",
+                "es": "El aire invernal es particularmente claro y refrescante aquí."
               }
             },
             {
@@ -543,7 +585,8 @@
                 "de": "Füttern Sie die Enten, sie sind im Winter sehr aktiv.",
                 "hu": "Etessen kacsákat, télen is nagyon aktívak a parkban.",
                 "ro": "Hrăniți rațele, sunt foarte active în timpul iernii.",
-                "en": "Feed the ducks, they are very active during winter."
+                "en": "Feed the ducks, they are very active during winter.",
+                "es": "Alimenta a los patos, están muy activos en invierno."
               }
             },
             {
@@ -552,7 +595,8 @@
                 "de": "Der Sonnenuntergang ist bereits gegen 18:00 Uhr.",
                 "hu": "A naplemente már 18:00 óra körül bekövetkezik.",
                 "ro": "Apusul are loc deja în jurul orei 18:00.",
-                "en": "Sunset occurs as early as around 6:00 PM."
+                "en": "Sunset occurs as early as around 6:00 PM.",
+                "es": "La puesta de sol ocurre ya sobre las 18:00."
               }
             }
           ],
@@ -584,6 +628,13 @@
               "Enjoy the peace in the parks, which are often overcrowded in summer.",
               "Hot chocolate and churros are the perfect winter snack on the promenade.",
               "The lighting conditions for photos are softer and more beautiful in winter."
+            ],
+            "es": [
+              "Aprovecha las horas centrales para actividades al aire libre cuando hace más calor.",
+              "Vístete por capas: en cuanto se pone el sol, refresca notablemente.",
+              "Disfruta de la tranquilidad en los parques, que suelen estar abarrotados en verano.",
+              "Chocolate caliente y churros son el snack invernal perfecto en el paseo.",
+              "Las condiciones de luz para fotos son más suaves y bellas en invierno."
             ]
           }
         }
@@ -602,7 +653,8 @@
             "de": "Fahrradverleih & Parque de las Naciones",
             "hu": "Kerékpárkölcsönzés és a Nemzetek Parkja",
             "ro": "Închiriere biciclete și Parcul Națiunilor",
-            "en": "Bike Rental & Park of Nations"
+            "en": "Bike Rental & Park of Nations",
+            "es": "Alquiler de bicicletas y Parque de las Naciones"
           },
           "coords": [
             -0.679,
@@ -617,7 +669,8 @@
             "de": "Beginnen Sie Ihren Tag mit einer entspannten Radtour durch diesen charmanten Park.",
             "hu": "Kezdje a napot egy laza biciklizéssel ebben a bájos parkban.",
             "ro": "Începeți ziua cu o plimbare relaxantă cu bicicleta prin acest parc fermecător.",
-            "en": "Start your day with a relaxed cycle through this charming park."
+            "en": "Start your day with a relaxed cycle through this charming park.",
+            "es": "Comienza el día con un relajado paseo en bici por este encantador parque."
           }
         },
         {
@@ -625,7 +678,8 @@
             "de": "Fahrt entlang der Küste zum Paseo Juan Aparicio",
             "hu": "Tekerés a part mentén a Juan Aparicio sétányig",
             "ro": "Plimbare pe coastă până la Paseo Juan Aparicio",
-            "en": "Ride along the coast to Paseo Juan Aparicio"
+            "en": "Ride along the coast to Paseo Juan Aparicio",
+            "es": "Pedalea junto a la costa hasta el Paseo Juan Aparicio"
           },
           "coords": [
             -0.668,
@@ -640,7 +694,8 @@
             "de": "Genießen Sie die Meeresbrise, während Sie auf dem Radweg fahren.",
             "hu": "Élvezze a tengeri szellőt a bicikliúton.",
             "ro": "Bucurați-vă de briza mării în timp ce pedalați pe pista de biciclete.",
-            "en": "Enjoy the sea breeze as you pedal along the cycle path."
+            "en": "Enjoy the sea breeze as you pedal along the cycle path.",
+            "es": "Disfruta de la brisa marina mientras pedaleas por el carril bici."
           }
         },
         {
@@ -648,7 +703,8 @@
             "de": "Dique de Levante",
             "hu": "Dique de Levante",
             "ro": "Digul de Levante",
-            "en": "Dique de Levante"
+            "en": "Dique de Levante",
+            "es": "Dique de Levante"
           },
           "coords": [
             -0.66,
@@ -663,7 +719,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und spazieren Sie bis zum Ende des Piers, um eine großartige Aussicht zu genießen.",
             "hu": "Parkolja le a biciklit, és sétáljon el a móló végéig a nagyszerű kilátásért.",
             "ro": "Parcați bicicleta și mergeți până la capătul digului pentru o priveliște superbă.",
-            "en": "Park your bike and walk to the end of the pier for a great view."
+            "en": "Park your bike and walk to the end of the pier for a great view.",
+            "es": "Aparca la bici y camina hasta el final del espigón para una gran vista."
           }
         },
         {
@@ -671,7 +728,8 @@
             "de": "Mittagessen in der Nähe des Hafens",
             "hu": "Ebéd a kikötő közelében",
             "ro": "Prânz lângă port",
-            "en": "Lunch near the Marina"
+            "en": "Lunch near the Marina",
+            "es": "Almuerzo cerca de la Marina"
           },
           "coords": [
             -0.673,
@@ -686,7 +744,8 @@
             "de": "Viele Restaurants bieten 'Menu del Dia' (Tagesmenü) an.",
             "hu": "Sok étterem kínál 'Menu del Dia'-t (napi menü).",
             "ro": "Multe restaurante oferă 'Menu del Dia' (meniul zilei).",
-            "en": "Many restaurants offer a 'Menu del Dia' (menu of the day)."
+            "en": "Many restaurants offer a 'Menu del Dia' (menu of the day).",
+            "es": "Muchos restaurantes ofrecen un 'Menu del Día'."
           }
         },
         {
@@ -694,7 +753,8 @@
             "de": "Torre del Moro",
             "hu": "Torre del Moro",
             "ro": "Torre del Moro",
-            "en": "Torre del Moro"
+            "en": "Torre del Moro",
+            "es": "Torre del Moro"
           },
           "coords": [
             -0.642,
@@ -709,7 +769,8 @@
             "de": "Ein kleiner Anstieg, aber die Aussicht ist es wert!",
             "hu": "Kicsit meredek, de a kilátás megéri!",
             "ro": "O mică urcare, dar priveliștea merită!",
-            "en": "A bit of a climb, but the view is worth it!"
+            "en": "A bit of a climb, but the view is worth it!",
+            "es": "Un poco de subida, ¡pero la vista merece la pena!"
           }
         },
         {
@@ -717,7 +778,8 @@
             "de": "Entspannen am Playa de la Mata",
             "hu": "Pihenés a Playa de la Mata strandon",
             "ro": "Relaxare la Playa de la Mata",
-            "en": "Relax at Playa de la Mata"
+            "en": "Relax at Playa de la Mata",
+            "es": "Relájate en la Playa de la Mata"
           },
           "coords": [
             -0.638,
@@ -732,7 +794,8 @@
             "de": "Ein langer Sandstrand, ideal für eine Pause nach dem Radfahren.",
             "hu": "Hosszú homokos strand, ideális egy kis pihenésre a biciklizés után.",
             "ro": "O plajă lungă cu nisip, perfectă pentru o pauză după pedalat.",
-            "en": "A long sandy beach, perfect for a break after cycling."
+            "en": "A long sandy beach, perfect for a break after cycling.",
+            "es": "Una larga playa de arena, perfecta para descansar después de pedalear."
           }
         }
       ],
@@ -740,7 +803,8 @@
         "de": "Schnappen Sie sich ein Fahrrad und beginnen Sie den Tag im Parque de las Naciones. Radeln Sie entlang der Küste, genießen Sie die Meeresbrise auf dem Weg zum Paseo Juan Aparicio und dem Dique de Levante. Nach einem entspannten Mittagessen in der Nähe des Hafens wartet am Nachmittag die Herausforderung des Anstiegs zum Torre del Moro, belohnt durch eine atemberaubende Aussicht. Beenden Sie den Tag mit verdienter Entspannung am weitläufigen Sandstrand von Playa de la Mata.",
         "hu": "Pattanjon biciklire, és kezdje a napot a Parque de las Naciones parkban. Tekerjen végig a tengerparton, élvezze a tengeri szellőt a Juan Aparicio sétány és a Dique de Levante felé vezető úton. A kikötő közelében elköltött laza ebéd után délután a Torre del Moro megmászásának kihívása várja, amit lenyűgöző kilátás jutalmaz. A napot a Playa de la Mata tágas homokos strandján való megérdemelt pihenéssel zárja.",
         "ro": "Luați o bicicletă și începeți ziua în Parcul Națiunilor. Pedalați de-a lungul coastei, bucurându-vă de briza mării în drum spre Paseo Juan Aparicio și Dique de Levante. După un prânz relaxat lângă port, după-amiaza vă așteaptă provocarea urcării la Torre del Moro, recompensată cu o priveliște uluitoare. Încheiați ziua cu o relaxare meritată pe plaja lungă cu nisip de la Playa de la Mata.",
-        "en": "Grab a bike and start the day at the Park of Nations. Cycle along the coast, enjoying the sea breeze on your way to Paseo Juan Aparicio and the Dique de Levante. After a relaxed lunch near the marina, the afternoon challenge is the climb to Torre del Moro, rewarded with a stunning view. End the day with a well-deserved rest on the long, sandy beach of Playa de la Mata."
+        "en": "Grab a bike and start the day at the Park of Nations. Cycle along the coast, enjoying the sea breeze on your way to Paseo Juan Aparicio and the Dique de Levante. After a relaxed lunch near the marina, the afternoon challenge is the climb to Torre del Moro, rewarded with a stunning view. End the day with a well-deserved rest on the long, sandy beach of Playa de la Mata.",
+        "es": "Coge una bicicleta y comienza el día en el Parque de las Naciones. Pedalea junto a la costa, disfrutando de la brisa marina en el Paseo Juan Aparicio y el Dique de Levante. Tras un almuerzo tranquilo cerca del puerto, el reto de la tarde es la subida a la Torre del Moro, recompensada con una vista espectacular. Termina el día con un merecido descanso en la amplia playa de La Mata."
       },
       "gastro_picks": {
         "de": [
@@ -936,6 +1000,12 @@
           "Wear a helmet and use bike lights if you're out late.",
           "Always lock your bike, even for short stops.",
           "Respect pedestrians on shared pathways."
+        ],
+        "es": [
+          "Revisa los frenos y las ruedas antes de salir.",
+          "Lleva casco y usa luces si vas a volver tarde.",
+          "Siempre cierra la bici con candado, aunque sea una parada corta.",
+          "Respeta a los peatones en las vías compartidas."
         ]
       },
       "variants": {
@@ -944,7 +1014,8 @@
             "de": "Eine Radtour im Regen erfordert Vorsicht, bietet aber leere Wege. Nach dem Park der Nationen führt die Route entlang der Küste, wo die salzige Gischt auf den Regen trifft. Ein langes Mittagessen im Hafen lässt Sie trocknen, bevor Sie zum Torre del Moro aufbrechen. Den Abschluss bildet die raue Schönheit des Strandes von La Mata.",
             "hu": "Az esős kerékpározás óvatosságot igényel, de cserébe üres utakat kínál. A Nemzetek Parkja után az út a part mentén halad, ahol a sós permet keveredik az esővel. Egy hosszú ebéd a kikötőben segít megszáradni a Torre del Moro felé indulás előtt. A napot a La Mata strand vad szépsége zárja.",
             "ro": "O tură cu bicicleta pe ploaie necesită prudență, dar oferă trasee libere. După Parcul Națiunilor, traseul urmează coasta, unde spray-ul sărat se întâlnește cu ploaia. Un prânz lung în port vă permite să vă uscați înainte de a porni spre Torre del Moro. Finalul este marcat de frumusețea brută a plajei La Mata.",
-            "en": "Cycling in the rain requires caution but offers empty paths. After the Park of Nations, the route follows the coast where salty spray meets the rain. A long lunch in the harbor lets you dry off before heading to Torre del Moro. The day ends with the raw beauty of La Mata beach."
+            "en": "Cycling in the rain requires caution but offers empty paths. After the Park of Nations, the route follows the coast where salty spray meets the rain. A long lunch in the harbor lets you dry off before heading to Torre del Moro. The day ends with the raw beauty of La Mata beach.",
+            "es": "Ciclar bajo la lluvia requiere precaución pero ofrece caminos vacíos. Tras el Parque de las Naciones, la ruta sigue la costa donde la salpicadura se mezcla con la lluvia. Un largo almuerzo en el puerto te permite secarte antes de ir a la Torre del Moro. El día termina con la belleza bruta de la playa de La Mata."
           },
           "stops": [
             {
@@ -953,7 +1024,8 @@
                 "de": "Fragen Sie nach einem Rad mit Schutzblechen.",
                 "hu": "Kérjen sárvédővel felszerelt kerékpárt.",
                 "ro": "Cereți o bicicletă cu apărători de noroi.",
-                "en": "Ask for a bike with mudguards."
+                "en": "Ask for a bike with mudguards.",
+                "es": "Pide una bici con guardabarros."
               }
             },
             {
@@ -962,7 +1034,8 @@
                 "de": "Vermeiden Sie die weißen Fliesen, sie sind extrem rutschig.",
                 "hu": "Kerülje a fehér burkolólapokat, rendkívül csúszósak.",
                 "ro": "Evitați plăcile albe, sunt extrem de alunecoase.",
-                "en": "Avoid the white tiles, they are extremely slippery."
+                "en": "Avoid the white tiles, they are extremely slippery.",
+                "es": "Evita las baldosas blancas; son extremadamente resbaladizas."
               }
             },
             {
@@ -971,7 +1044,8 @@
                 "de": "Halten Sie Abstand zur Kante, Böen sind hier unberechenbar.",
                 "hu": "Tartson távolságot a szélétől, a széllökések kiszámíthatatlanok.",
                 "ro": "Păstrați distanța de margine, rafalele sunt imprevizibile.",
-                "en": "Keep distance from the edge, gusts are unpredictable here."
+                "en": "Keep distance from the edge, gusts are unpredictable here.",
+                "es": "Mantente alejado del borde; las rachas son impredecibles aquí."
               }
             },
             {
@@ -980,7 +1054,8 @@
                 "de": "Nutzen Sie die Zeit zum Trocknen Ihrer Regenbekleidung.",
                 "hu": "Használja ki az időt az esőruházat megszárítására.",
                 "ro": "Folosiți timpul pentru a vă usca echipamentul de ploaie.",
-                "en": "Use the time to dry your rain gear."
+                "en": "Use the time to dry your rain gear.",
+                "es": "Aprovecha para secar tu ropa de lluvia."
               }
             },
             {
@@ -989,7 +1064,8 @@
                 "de": "Der Boden um den Turm kann schlammig sein.",
                 "hu": "A torony körüli talaj sáros lehet.",
                 "ro": "Solul din jurul turnului poate fi noroios.",
-                "en": "The ground around the tower can be muddy."
+                "en": "The ground around the tower can be muddy.",
+                "es": "El terreno alrededor de la torre puede estar embarrado."
               }
             },
             {
@@ -998,7 +1074,8 @@
                 "de": "Die Cafés am Strand bieten Schutz und warme Getränke.",
                 "hu": "A strand menti kávézók menedéket és meleg italokat kínálnak.",
                 "ro": "Cafenelele de pe plajă oferă adăpost și băuturi calde.",
-                "en": "Beachfront cafes offer shelter and warm drinks."
+                "en": "Beachfront cafes offer shelter and warm drinks.",
+                "es": "Las cafeterías frente al mar ofrecen refugio y bebidas calientes."
               }
             }
           ],
@@ -1030,6 +1107,13 @@
               "Wear a high-visibility rain jacket or a vest.",
               "Paseo Juan Aparicio might be slippery; use side streets when necessary.",
               "Keep a small towel handy to wipe the saddle dry."
+            ],
+            "es": [
+              "Revisa los frenos con más cuidado antes de empezar.",
+              "Evita los charcos; pueden ser más profundos de lo que parecen.",
+              "Lleva una chaqueta o chaleco de alta visibilidad para la lluvia.",
+              "Paseo Juan Aparicio puede estar resbaladizo; usa calles laterales cuando sea necesario.",
+              "Mantén una pequeña toalla a mano para secar el sillín."
             ]
           }
         },
@@ -1038,7 +1122,8 @@
             "de": "Das Winterklima ist ideal für eine längere Radtour ohne die Sommerhitze. Starten Sie im Park der Nationen und genießen Sie die frische Meeresbrise entlang der Promenade. Ein sonniges Mittagessen in der Marina gibt Kraft für die Fahrt zum Torre del Moro. Der Tag endet am weiten Strand von La Mata, wo die Wintersonne spektakulär versinkt.",
             "hu": "A téli éghajlat ideális egy hosszabb kerékpártúrához a nyári hőség nélkül. Induljon a Nemzetek Parkjából, és élvezze a friss tengeri szellőt a sétányon. Egy napsütéses ebéd a kikötőben erőt ad a Torre del Moro felé vezető úthoz. A nap a tágas La Mata strandon ér véget, ahol a téli naplemente látványos.",
             "ro": "Climatul de iarnă este ideal pentru o tură mai lungă cu bicicleta, fără căldura verii. Începeți din Parcul Națiunilor și bucurați-vă de briza proaspătă a mării de-a lungul falezei. Un prânz însorit în marină vă oferă energie pentru drumul spre Torre del Moro. Ziua se încheie pe plaja vastă La Mata, unde apusul de iarnă este spectaculos.",
-            "en": "The winter climate is ideal for a longer bike ride without the summer heat. Start at the Park of Nations and enjoy the fresh sea breeze along the promenade. A sunny lunch in the marina gives strength for the ride to Torre del Moro. The day ends at the wide La Mata beach, where the winter sun sets spectacularly."
+            "en": "The winter climate is ideal for a longer bike ride without the summer heat. Start at the Park of Nations and enjoy the fresh sea breeze along the promenade. A sunny lunch in the marina gives strength for the ride to Torre del Moro. The day ends at the wide La Mata beach, where the winter sun sets spectacularly.",
+            "es": "El clima invernal es ideal para una ruta ciclista más larga sin el calor veraniego. Comienza en el Parque de las Naciones y disfruta de la fresca brisa marina por el paseo. Un almuerzo al sol en el puerto da fuerzas para la subida a la Torre del Moro. El día termina en la amplia playa de La Mata, donde el sol invernal se pone de forma espectacular."
           },
           "stops": [
             {
@@ -1047,7 +1132,8 @@
                 "de": "Prüfen Sie die Beleuchtung für die frühe Dämmerung.",
                 "hu": "Ellenőrizze a világítást a korai sötétedés miatt.",
                 "ro": "Verificați luminile pentru amurgul timpuriu.",
-                "en": "Check the lights for the early dusk."
+                "en": "Check the lights for the early dusk.",
+                "es": "Revisa las luces por el anochecer temprano."
               }
             },
             {
@@ -1056,7 +1142,8 @@
                 "de": "Tragen Sie ein Stirnband unter dem Helm gegen den Wind.",
                 "hu": "Viseljen fejpántot a sisak alatt a szél ellen.",
                 "ro": "Purtați o bentiță sub cască împotriva vântului.",
-                "en": "Wear a headband under your helmet against the wind."
+                "en": "Wear a headband under your helmet against the wind.",
+                "es": "Lleva una cinta o banda en la cabeza bajo el casco contra el viento."
               }
             },
             {
@@ -1065,7 +1152,8 @@
                 "de": "Im Schatten der Mauer kann es recht kühl sein.",
                 "hu": "A fal árnyékában hűvös lehet a levegő.",
                 "ro": "În umbra zidului poate fi destul de răcoare.",
-                "en": "It can be quite cool in the shadow of the wall."
+                "en": "It can be quite cool in the shadow of the wall.",
+                "es": "Puede hacer bastante fresco a la sombra del muro."
               }
             },
             {
@@ -1074,7 +1162,8 @@
                 "de": "Suchen Sie sich einen windgeschützten Platz in der Sonne.",
                 "hu": "Keressen szélvédett helyet a napsütésben.",
                 "ro": "Căutați un loc ferit de vânt în soare.",
-                "en": "Find a wind-sheltered spot in the sun."
+                "en": "Find a wind-sheltered spot in the sun.",
+                "es": "Busca un lugar resguardado del viento al sol."
               }
             },
             {
@@ -1083,7 +1172,8 @@
                 "de": "Perfekter Ort für Fotos in der goldenen Stunde.",
                 "hu": "Tökéletes hely a fotózáshoz az 'aranyórában'.",
                 "ro": "Loc perfect pentru fotografii în 'ora de aur'.",
-                "en": "Perfect spot for photos during the golden hour."
+                "en": "Perfect spot for photos during the golden hour.",
+                "es": "Lugar perfecto para fotos durante la hora dorada."
               }
             },
             {
@@ -1092,7 +1182,8 @@
                 "de": "Genießen Sie die Ruhe am Strand ohne die Sommermassen.",
                 "hu": "Élvezze a strand nyugalmát a nyári tömeg nélkül.",
                 "ro": "Bucurați-vă de liniștea plajei fără mulțimile de vară.",
-                "en": "Enjoy the beach's peace without the summer crowds."
+                "en": "Enjoy the beach's peace without the summer crowds.",
+                "es": "Disfruta de la tranquilidad de la playa sin las multitudes veraniegas."
               }
             }
           ],
@@ -1124,6 +1215,13 @@
               "Take a thermos with a warm drink with you.",
               "Watch out for pedestrians on the promenade enjoying the winter sun.",
               "Aim to be back by 5:30 PM as it gets dark quickly."
+            ],
+            "es": [
+              "Guantes finos protegen del viento frío al montar.",
+              "La ruta hacia La Mata es llana y muy relajada para pedalear en invierno.",
+              "Lleva un termo con una bebida caliente.",
+              "Cuidado con los peatones en el paseo que disfrutan del sol invernal.",
+              "Procura volver antes de las 17:30, que anochece pronto."
             ]
           }
         }
@@ -1142,7 +1240,8 @@
             "de": "Ankunft & Parken: Laguna Rosa (Besucherzentrum)",
             "hu": "Érkezés és parkolás: Laguna Rosa (Látogatóközpont)",
             "ro": "Sosire și Parcare: Laguna Rosa (Centrul de vizitatori)",
-            "en": "Arrival & Parking: Laguna Rosa (Visitor Center)"
+            "en": "Arrival & Parking: Laguna Rosa (Visitor Center)",
+            "es": "Llegada y aparcamiento: Laguna Rosa (Centro de Visitantes)"
           },
           "coords": [
             -0.725,
@@ -1157,7 +1256,8 @@
             "de": "Parken Sie hier und machen Sie einen Spaziergang, um das einzigartige rosa Wasser zu bewundern.",
             "hu": "Parkoljon itt, és tegyen egy sétát, hogy megcsodálja az egyedülálló rózsaszín vizet.",
             "ro": "Parcați aici și faceți o plimbare pentru a admira apa roz unică.",
-            "en": "Park here and take a walk to admire the unique pink water."
+            "en": "Park here and take a walk to admire the unique pink water.",
+            "es": "Aparca aquí y da un paseo para admirar el agua rosada única."
           }
         },
         {
@@ -1165,7 +1265,8 @@
             "de": "Fahrt und Parken im Zentrum: Hafenbereich",
             "hu": "Autózás és parkolás a központban: Kikötő területe",
             "ro": "Condus și parcare în centru: Zona portuară",
-            "en": "Drive & Park in Center: Marina Area"
+            "en": "Drive & Park in Center: Marina Area",
+            "es": "Conduce y aparca en el centro: Zona de la Marina"
           },
           "coords": [
             -0.675,
@@ -1180,7 +1281,8 @@
             "de": "Finden Sie einen Parkplatz für den Tag. Von hier aus erkunden Sie zu Fuß.",
             "hu": "Keressen egy parkolóhelyet a napra. Innen gyalogosan fedezze fel a környéket.",
             "ro": "Găsiți un loc de parcare pentru o zi. De aici veți explora pe jos.",
-            "en": "Find a day parking spot. You'll explore on foot from here."
+            "en": "Find a day parking spot. You'll explore on foot from here.",
+            "es": "Encuentra un aparcamiento de día. Desde aquí explorarás a pie."
           }
         },
         {
@@ -1188,7 +1290,8 @@
             "de": "Meeres- und Salzmuseum",
             "hu": "Tenger- és Só Múzeum",
             "ro": "Muzeul Mării și Sării",
-            "en": "Sea and Salt Museum"
+            "en": "Sea and Salt Museum",
+            "es": "Museo del Mar y de la Sal"
           },
           "coords": [
             -0.678,
@@ -1203,7 +1306,8 @@
             "de": "Ein kurzer Spaziergang vom Parkplatz, um die lokale Geschichte zu entdecken.",
             "hu": "Rövid séta a parkolótól a helyi történelem felfedezéséhez.",
             "ro": "O scurtă plimbare de la parcare pentru a descoperi istoria locală.",
-            "en": "A short walk from the parking lot to discover the local history."
+            "en": "A short walk from the parking lot to discover the local history.",
+            "es": "A poca distancia del aparcamiento para descubrir la historia local."
           }
         },
         {
@@ -1211,7 +1315,8 @@
             "de": "Iglesia de la Inmaculada Concepción",
             "hu": "Szeplőtlen Fogantatás temploma",
             "ro": "Biserica Neprihănita Zămislire",
-            "en": "Church of the Immaculate Conception"
+            "en": "Church of the Immaculate Conception",
+            "es": "Iglesia de la Inmaculada Concepción"
           },
           "coords": [
             -0.676,
@@ -1226,7 +1331,8 @@
             "de": "Das Herz der Altstadt, nur wenige Gehminuten vom Museum entfernt.",
             "hu": "Az óváros szíve, pár perces sétára a múzeumtól.",
             "ro": "Inima orașului vechi, la câteva minute de mers pe jos de muzeu.",
-            "en": "The heart of the old town, a few minutes' walk from the museum."
+            "en": "The heart of the old town, a few minutes' walk from the museum.",
+            "es": "El corazón del casco antiguo, a pocos minutos a pie del museo."
           }
         },
         {
@@ -1234,7 +1340,8 @@
             "de": "Mittagessen am Paseo Juan Aparicio",
             "hu": "Ebéd a Juan Aparicio sétányon",
             "ro": "Prânz pe Paseo Juan Aparicio",
-            "en": "Lunch on Paseo Juan Aparicio"
+            "en": "Lunch on Paseo Juan Aparicio",
+            "es": "Almuerzo en Paseo Juan Aparicio"
           },
           "coords": [
             -0.669,
@@ -1249,7 +1356,8 @@
             "de": "Finden Sie ein Restaurant mit Terrasse, um die Sonne und die Meeresbrise zu genießen.",
             "hu": "Keressen egy teraszos éttermet, hogy élvezze a napot és a tengeri szellőt.",
             "ro": "Găsiți un restaurant cu terasă pentru a vă bucura de soare și de briza mării.",
-            "en": "Find a restaurant with a terrace to enjoy the sun and sea breeze."
+            "en": "Find a restaurant with a terrace to enjoy the sun and sea breeze.",
+            "es": "Busca un restaurante con terraza para disfrutar del sol y la brisa."
           }
         },
         {
@@ -1257,7 +1365,8 @@
             "de": "Fahrt zum Torre del Moro",
             "hu": "Autózás a Torre del Moro-hoz",
             "ro": "Condus la Torre del Moro",
-            "en": "Drive to Torre del Moro"
+            "en": "Drive to Torre del Moro",
+            "es": "Conduce hasta la Torre del Moro"
           },
           "coords": [
             -0.642,
@@ -1272,7 +1381,8 @@
             "de": "Holen Sie Ihr Auto und fahren Sie zu diesem historischen Wachturm.",
             "hu": "Vegye fel az autót, és hajtson ehhez a történelmi őrtoronyhoz.",
             "ro": "Luați mașina și conduceți la acest turn de veghe istoric.",
-            "en": "Get your car and drive to this historic watchtower."
+            "en": "Get your car and drive to this historic watchtower.",
+            "es": "Coge el coche y conduce hasta esta histórica torre de vigilancia."
           }
         },
         {
@@ -1280,7 +1390,8 @@
             "de": "Entspannen am Playa de los Locos",
             "hu": "Pihenés a Playa de los Locos strandon",
             "ro": "Relaxare la Playa de los Locos",
-            "en": "Relax at Playa de los Locos"
+            "en": "Relax at Playa de los Locos",
+            "es": "Relájate en la Playa de los Locos"
           },
           "coords": [
             -0.655,
@@ -1295,7 +1406,8 @@
             "de": "Ein kurzer Spaziergang vom Turm entfernt, um den Tag am Strand ausklingen zu lassen.",
             "hu": "Egy rövid sétára a toronytól, hogy a strandon fejezze be a napot.",
             "ro": "La o scurtă plimbare de turn pentru a încheia ziua pe plajă.",
-            "en": "A short walk down from the tower to end the day at the beach."
+            "en": "A short walk down from the tower to end the day at the beach.",
+            "es": "Baja a pie desde la torre para acabar el día en la playa."
           }
         }
       ],
@@ -1303,7 +1415,8 @@
         "de": "Beginnen Sie Ihren Tag mit dem Auto bei der surrealen Laguna Rosa. Nach diesem Naturwunder fahren Sie ins Stadtzentrum, parken in der Nähe des Hafens und erkunden den ersten Cluster zu Fuß: das Salzmuseum und die Hauptkirche. Nach einem gemütlichen Mittagessen am Meer am Paseo Juan Aparicio holen Sie Ihr Auto für eine kurze Fahrt zum zweiten Cluster. Erklimmen Sie den historischen Torre del Moro für eine weite Aussicht und beenden Sie den Tag entspannt am nahegelegenen Strand Playa de los Locos.",
         "hu": "Kezdje a napot autóval a szürreális Laguna Rosánál. E természeti csoda után hajtson be a városközpontba, parkoljon a kikötő közelében, és fedezze fel gyalog az első látnivalócsoportot: a Sómúzeumot és a főtemplomot. A Juan Aparicio sétányon elköltött kellemes tengerparti ebéd után vegye fel az autóját egy rövid útra a második látnivalócsoporthoz. Másszon fel a történelmi Torre del Moro toronyba a pazar kilátásért, majd fejezze be a napot pihenéssel a közeli Playa de los Locos strandon.",
         "ro": "Începeți ziua cu mașina la suprarealista Laguna Rosa. După această minune naturală, conduceți în centrul orașului, parcați lângă port și explorați primul grup de atracții pe jos: Muzeul Sării și biserica principală. După un prânz pe îndelete la malul mării, pe Paseo Juan Aparicio, luați mașina pentru o scurtă călătorie către al doilea grup. Urcați în istoricul Torre del Moro pentru priveliști ample și încheiați ziua relaxându-vă pe plaja din apropiere, Playa de los Locos.",
-        "en": "Start your day by car at the surreal Laguna Rosa. After this natural wonder, drive to the city center, park near the marina, and explore the first cluster on foot: the Salt Museum and the main church. After a leisurely seaside lunch on Paseo Juan Aparicio, get your car for a short drive to the second cluster. Climb the historic Torre del Moro for sweeping views and end the day relaxing on the nearby Playa de los Locos beach."
+        "en": "Start your day by car at the surreal Laguna Rosa. After this natural wonder, drive to the city center, park near the marina, and explore the first cluster on foot: the Salt Museum and the main church. After a leisurely seaside lunch on Paseo Juan Aparicio, get your car for a short drive to the second cluster. Climb the historic Torre del Moro for sweeping views and end the day relaxing on the nearby Playa de los Locos beach.",
+        "es": "Comienza el día en coche en la surreal Laguna Rosa. Tras esta maravilla natural, conduce al centro, aparca junto a la marina y explora a pie el primer conjunto: el Museo de la Sal y la iglesia principal. Después de un almuerzo tranquilo junto al mar en el Paseo Juan Aparicio, coge el coche para un corto trayecto hasta el segundo conjunto. Sube a la histórica Torre del Moro para vistas panorámicas y termina el día relajándote en la cercana playa de Los Locos."
       },
       "gastro_picks": {
         "de": [
@@ -1499,6 +1612,12 @@
           "The streets in the old town are narrow, drive carefully.",
           "Check the opening hours for Laguna Rosa as access can be restricted.",
           "A GPS is helpful for navigating the area."
+        ],
+        "es": [
+          "Aparcar en el centro puede ser difícil en verano. Ten paciencia o usa parkings de pago.",
+          "Las calles del casco antiguo son estrechas; conduce con cuidado.",
+          "Consulta los horarios de apertura de la Laguna Rosa, el acceso puede estar restringido.",
+          "Un GPS es útil para orientarse por la zona."
         ]
       },
       "variants": {
@@ -1507,7 +1626,8 @@
             "de": "Das Auto ist bei Regen der ideale Begleiter. Beginnen Sie an der Laguna Rosa, die bei bedecktem Himmel fast mystisch wirkt. Im Zentrum bieten Parkhäuser trockenen Zugang zum Salzmuseum und zur Kirche. Nach einem entspannten Mittagessen führt die Fahrt zum Torre del Moro und schließlich zum Strand von Los Locos, wo Sie die Wellen vom Auto aus beobachten können.",
             "hu": "Az autó ideális társ esőben. Kezdje a Laguna Rosánál, amely borult égbolt mellett szinte misztikus látványt nyújt. A központban a parkolóházak száraz hozzáférést biztosítanak a Sómúzeumhoz és a templomhoz. Egy pihentető ebéd után az út a Torre del Moróhoz, majd a Los Locos strandhoz vezet, ahol az autóból is figyelheti a hullámokat.",
             "ro": "Mașina este partenerul ideal pe ploaie. Începeți la Laguna Rosa, care pare aproape mistică sub cerul înnorat. În centru, parcările oferă acces uscat la Muzeul Sării și la biserică. După un prânz relaxat, drumul duce la Torre del Moro și, în final, la plaja Los Locos, unde puteți observa valurile din mașină.",
-            "en": "The car is the ideal companion in the rain. Start at Laguna Rosa, which looks almost mystical under overcast skies. In the center, parking garages offer dry access to the Salt Museum and the church. After a relaxed lunch, the drive leads to Torre del Moro and finally to Los Locos beach, where you can watch the waves from the car."
+            "en": "The car is the ideal companion in the rain. Start at Laguna Rosa, which looks almost mystical under overcast skies. In the center, parking garages offer dry access to the Salt Museum and the church. After a relaxed lunch, the drive leads to Torre del Moro and finally to Los Locos beach, where you can watch the waves from the car.",
+            "es": "El coche es el compañero ideal bajo la lluvia. Comienza en la Laguna Rosa, que parece casi mística con cielo cubierto. En el centro, los parkings ofrecen acceso seco al Museo de la Sal y la iglesia. Tras un almuerzo relajado, la ruta en coche lleva a la Torre del Moro y finalmente a la playa de Los Locos, donde puedes ver las olas desde el vehículo."
           },
           "stops": [
             {
@@ -1516,7 +1636,8 @@
                 "de": "Vorsicht vor schlammigen Wegen am Ufer der Lagune.",
                 "hu": "Vigyázzon a sáros utakra a lagúna partján.",
                 "ro": "Atenție la drumurile noroioase de pe malul lagunei.",
-                "en": "Watch out for muddy paths along the lagoon shore."
+                "en": "Watch out for muddy paths along the lagoon shore.",
+                "es": "Cuidado con los senderos embarrados junto a la orilla de la laguna."
               }
             },
             {
@@ -1525,7 +1646,8 @@
                 "de": "Nutzen Sie ein überdachtes Parkhaus in Hafennähe.",
                 "hu": "Használjon fedett parkolóházat a kikötő közelében.",
                 "ro": "Folosiți o parcare acoperită lângă port.",
-                "en": "Use a covered parking garage near the harbor."
+                "en": "Use a covered parking garage near the harbor.",
+                "es": "Usa un parking cubierto cerca del puerto."
               }
             },
             {
@@ -1534,7 +1656,8 @@
                 "de": "Der kurze Fußweg vom Parkhaus ist meist überdacht.",
                 "hu": "A parkolóháztól vezető rövid út nagyrészt fedett.",
                 "ro": "Scurta plimbare de la parcare este în mare parte acoperită.",
-                "en": "The short walk from the parking garage is mostly sheltered."
+                "en": "The short walk from the parking garage is mostly sheltered.",
+                "es": "La corta caminata desde el parking está mayormente resguardada."
               }
             },
             {
@@ -1543,7 +1666,8 @@
                 "de": "Ein ruhiger Ort, um einen heftigen Schauer abzuwarten.",
                 "hu": "Csendes hely egy heves zápor kivárásához.",
                 "ro": "Un loc liniștit pentru a aștepta trecerea unei averse puternice.",
-                "en": "A quiet place to wait out a heavy shower."
+                "en": "A quiet place to wait out a heavy shower.",
+                "es": "Un lugar tranquilo para esperar a que pase un fuerte aguacero."
               }
             },
             {
@@ -1552,7 +1676,8 @@
                 "de": "Parken Sie so nah wie möglich am Restaurant.",
                 "hu": "Parkoljon a lehető legközelebb az étteremhez.",
                 "ro": "Parcați cât mai aproape de restaurant.",
-                "en": "Park as close to the restaurant as possible."
+                "en": "Park as close to the restaurant as possible.",
+                "es": "Aparca lo más cerca posible del restaurante."
               }
             },
             {
@@ -1561,7 +1686,8 @@
                 "de": "Genießen Sie den Panoramablick direkt aus dem Auto.",
                 "hu": "Élvezze a panorámát közvetlenül az autóból.",
                 "ro": "Bucurați-vă de panorama direct din mașină.",
-                "en": "Enjoy the panoramic view directly from the car."
+                "en": "Enjoy the panoramic view directly from the car.",
+                "es": "Disfruta de la vista panorámica directamente desde el coche."
               }
             },
             {
@@ -1570,7 +1696,8 @@
                 "de": "Die Gischt kann den Wagen mit Salz überziehen.",
                 "hu": "A tengeri permet sóréteggel vonhatja be az autót.",
                 "ro": "Spray-ul marin poate acoperi mașina cu o peliculă de sare.",
-                "en": "Sea spray can coat the car with a layer of salt."
+                "en": "Sea spray can coat the car with a layer of salt.",
+                "es": "La bruma marina puede cubrir el coche con una capa de sal."
               }
             }
           ],
@@ -1602,6 +1729,13 @@
               "Parking lots at Laguna Rosa can become muddy during heavy rain.",
               "Use the driving time to dry your clothes.",
               "A car wash after the tour removes the aggressive sea salt."
+            ],
+            "es": [
+              "Espera más tráfico en el centro durante la lluvia.",
+              "Mantén las ventanillas desempañadas usando el aire acondicionado.",
+              "Los aparcamientos de la Laguna Rosa pueden volverse embarrados con lluvia fuerte.",
+              "Aprovecha el tiempo de conducción para secar la ropa.",
+              "Un lavado del coche después del tour elimina la sal marina agresiva."
             ]
           }
         },
@@ -1610,7 +1744,8 @@
             "de": "Der Winter ist perfekt, um Torrevieja stressfrei mit dem Auto zu erkunden. Die Laguna Rosa zeigt sich in sanften Pastelltönen. Im Zentrum finden Sie problemlos Parkplätze, um das Salzmuseum und die Kirche zu besuchen. Ein ausgiebiges Mittagessen an der Küste leitet den Nachmittag ein. Über den Torre del Moro geht es zum Strand von Los Locos für den winterlichen Sonnenuntergang.",
             "hu": "A tél tökéletes Torrevieja stresszmentes felfedezéséhez autóval. A Laguna Rosa lágy pasztell színekben pompázik. A központban könnyen talál parkolóhelyet a Sómúzeum és a templom meglátogatásához. Egy bőséges ebéd a parton vezeti fel a délutánt. A Torre del Morón keresztül érkezik a Los Locos strandhoz a téli naplementére.",
             "ro": "Iarna este perfectă pentru a explora Torrevieja fără stres cu mașina. Laguna Rosa se prezintă în nuanțe pale de pastel. În centru veți găsi cu ușurință locuri de parcare pentru a vizita Muzeul Sării și biserica. Un prânz copios pe coastă introduce după-amiaza. Via Torre del Moro ajungeți la plaja Los Locos pentru apusul de iarnă.",
-            "en": "Winter is perfect for exploring Torrevieja stress-free by car. Laguna Rosa shows itself in soft pastel tones. In the center, you will easily find parking spots to visit the Salt Museum and the church. A hearty lunch on the coast introduces the afternoon. Via Torre del Moro, you head to Los Locos beach for the winter sunset."
+            "en": "Winter is perfect for exploring Torrevieja stress-free by car. Laguna Rosa shows itself in soft pastel tones. In the center, you will easily find parking spots to visit the Salt Museum and the church. A hearty lunch on the coast introduces the afternoon. Via Torre del Moro, you head to Los Locos beach for the winter sunset.",
+            "es": "El invierno es perfecto para explorar Torrevieja sin estrés en coche. La Laguna Rosa muestra tonos pastel suaves. En el centro encontrarás fácilmente plazas para visitar el Museo de la Sal y la iglesia. Un almuerzo contundente en la costa prepara la tarde. Vía Torre del Moro, te diriges a la playa de Los Locos para el atardecer invernal."
           },
           "stops": [
             {
@@ -1619,7 +1754,8 @@
                 "de": "Im Winter ist das Licht hier mittags am schönsten.",
                 "hu": "Télen a fények itt délben a legszebbek.",
                 "ro": "Iarna, lumina este cea mai frumoasă aici la amiază.",
-                "en": "In winter, the light is most beautiful here at noon."
+                "en": "In winter, the light is most beautiful here at noon.",
+                "es": "En invierno, la luz es más bonita aquí al mediodía."
               }
             },
             {
@@ -1628,7 +1764,8 @@
                 "de": "Viele Parkplätze an der Oberfläche sind im Winter kostenfrei.",
                 "hu": "Sok felszíni parkoló télen ingyenes.",
                 "ro": "Multe parcări la suprafață sunt gratuite iarna.",
-                "en": "Many surface parking lots are free in winter."
+                "en": "Many surface parking lots are free in winter.",
+                "es": "Muchos aparcamientos en superficie son gratuitos en invierno."
               }
             },
             {
@@ -1637,7 +1774,8 @@
                 "de": "Genießen Sie die angenehme Temperatur im Inneren.",
                 "hu": "Élvezze a kellemes benti hőmérsékletet.",
                 "ro": "Bucurați-vă de temperatura plăcută din interior.",
-                "en": "Enjoy the pleasant indoor temperature."
+                "en": "Enjoy the pleasant indoor temperature.",
+                "es": "Disfruta de la temperatura agradable en el interior."
               }
             },
             {
@@ -1646,7 +1784,8 @@
                 "de": "Besuchen Sie die Kirche für einen Moment der Stille.",
                 "hu": "Látogasson el a templomba egy pillanatnyi csendért.",
                 "ro": "Vizitați biserica pentru un moment de liniște.",
-                "en": "Visit the church for a moment of silence."
+                "en": "Visit the church for a moment of silence.",
+                "es": "Visita la iglesia para un momento de silencio."
               }
             },
             {
@@ -1655,7 +1794,8 @@
                 "de": "Parken Sie direkt an der Promenade, Plätze sind reichlich vorhanden.",
                 "hu": "Parkoljon közvetlenül a sétánynál, rengeteg a hely.",
                 "ro": "Parcați direct pe faleză, locurile sunt din abundență.",
-                "en": "Park directly at the promenade; spots are plentiful."
+                "en": "Park directly at the promenade; spots are plentiful.",
+                "es": "Aparca directamente en el paseo; hay muchas plazas."
               }
             },
             {
@@ -1664,7 +1804,8 @@
                 "de": "Die Fernsicht bis zum Mar Menor ist im Winter oft klarer.",
                 "hu": "A kilátás a Mar Menorig télen gyakran tisztább.",
                 "ro": "Vizibilitatea până la Mar Menor este adesea mai clară iarna.",
-                "en": "The view as far as Mar Menor is often clearer in winter."
+                "en": "The view as far as Mar Menor is often clearer in winter.",
+                "es": "La vista hasta el Mar Menor suele estar más clara en invierno."
               }
             },
             {
@@ -1673,7 +1814,8 @@
                 "de": "Ideal für einen winterlichen Strandspaziergang.",
                 "hu": "Ideális egy téli tengerparti sétához.",
                 "ro": "Ideal pentru o plimbare de iarnă pe plajă.",
-                "en": "Ideal for a winter beach stroll."
+                "en": "Ideal for a winter beach stroll.",
+                "es": "Ideal para un paseo invernal por la playa."
               }
             }
           ],
@@ -1705,6 +1847,13 @@
               "Use the car as a base for warm clothes during beach walks.",
               "Visit the local markets that also take place in winter.",
               "The coastal road N-332 is free of traffic jams during winter."
+            ],
+            "es": [
+              "Encontrar aparcamiento en el centro es mucho más relajado en invierno.",
+              "Laguna Rosa: el color es menos intenso en invierno que en verano.",
+              "Usa el coche como base para llevar ropa abrigada durante los paseos por la playa.",
+              "Visita los mercados locales que también se celebran en invierno.",
+              "La carretera costera N-332 está libre de atascos durante el invierno."
             ]
           }
         }
@@ -1723,7 +1872,8 @@
             "de": "Ankunft Busbahnhof & Spaziergang zur Kirche",
             "hu": "Érkezés a buszpályaudvarra és séta a templomhoz",
             "ro": "Sosire la stația de autobuz și plimbare la biserică",
-            "en": "Arrive at Bus Station & Walk to Church"
+            "en": "Arrive at Bus Station & Walk to Church",
+            "es": "Llega a la estación de autobuses y camina hasta la iglesia"
           },
           "coords": [
             -0.676,
@@ -1738,7 +1888,8 @@
             "de": "Der Hauptbusbahnhof ist zentral gelegen und ein guter Ausgangspunkt.",
             "hu": "A központi buszpályaudvar központi helyen van, jó kiindulópont.",
             "ro": "Stația principală de autobuz este situată central, un bun punct de plecare.",
-            "en": "The main bus station is centrally located, a good starting point."
+            "en": "The main bus station is centrally located, a good starting point.",
+            "es": "La estación principal de autobuses está céntrica, buen punto de partida."
           }
         },
         {
@@ -1746,7 +1897,8 @@
             "de": "Meeres- und Salzmuseum",
             "hu": "Tenger- és Só Múzeum",
             "ro": "Muzeul Mării și Sării",
-            "en": "Sea and Salt Museum"
+            "en": "Sea and Salt Museum",
+            "es": "Museo del Mar y de la Sal"
           },
           "coords": [
             -0.678,
@@ -1761,7 +1913,8 @@
             "de": "Ein kurzer Spaziergang durch die Innenstadt.",
             "hu": "Rövid séta a belvároson keresztül.",
             "ro": "O scurtă plimbare prin centrul orașului.",
-            "en": "A short walk through the town center."
+            "en": "A short walk through the town center.",
+            "es": "A un corto paseo por el centro de la ciudad."
           }
         },
         {
@@ -1769,7 +1922,8 @@
             "de": "Paseo Juan Aparicio & U-Boot Delfin",
             "hu": "Paseo Juan Aparicio & Delfin tengeralattjáró",
             "ro": "Paseo Juan Aparicio & Submarinul Delfin",
-            "en": "Paseo Juan Aparicio & Delfin Submarine"
+            "en": "Paseo Juan Aparicio & Delfin Submarine",
+            "es": "Paseo Juan Aparicio y submarino Delfín"
           },
           "coords": [
             -0.67,
@@ -1784,7 +1938,8 @@
             "de": "Spazieren Sie die Promenade entlang und besichtigen Sie das U-Boot.",
             "hu": "Sétáljon végig a sétányon és nézze meg a tengeralattjárót.",
             "ro": "Plimbați-vă de-a lungul promenadei și vizitați submarinul.",
-            "en": "Stroll along the promenade and visit the submarine."
+            "en": "Stroll along the promenade and visit the submarine.",
+            "es": "Pasea por el paseo marítimo y visita el submarino."
           }
         },
         {
@@ -1792,7 +1947,8 @@
             "de": "Mittagessen und Busfahrt zum Parque de las Naciones",
             "hu": "Ebéd és buszozás a Parque de las Naciones-ba",
             "ro": "Prânz și călătorie cu autobuzul la Parque de las Naciones",
-            "en": "Lunch & Bus to Parque de las Naciones"
+            "en": "Lunch & Bus to Parque de las Naciones",
+            "es": "Almuerzo y autobús al Parque de las Naciones"
           },
           "coords": [
             -0.678,
@@ -1807,7 +1963,8 @@
             "de": "Nehmen Sie einen lokalen Bus für eine kurze Fahrt in diese grüne Oase.",
             "hu": "Menjen egy helyi busszal egy rövid útra ebbe a zöld oázisba.",
             "ro": "Luați un autobuz local pentru o scurtă călătorie spre această oază verde.",
-            "en": "Take a local bus for a short ride to this green oasis."
+            "en": "Take a local bus for a short ride to this green oasis.",
+            "es": "Toma un autobús local para un corto trayecto hasta este oasis verde."
           }
         },
         {
@@ -1815,7 +1972,8 @@
             "de": "Busfahrt zum Torre del Moro",
             "hu": "Buszozás a Torre del Moro-hoz",
             "ro": "Călătorie cu autobuzul la Torre del Moro",
-            "en": "Bus to Torre del Moro"
+            "en": "Bus to Torre del Moro",
+            "es": "Autobús a Torre del Moro"
           },
           "coords": [
             -0.642,
@@ -1830,7 +1988,8 @@
             "de": "Die Buslinie 'A' bringt Sie in die Nähe des Turms.",
             "hu": "Az 'A' jelzésű buszjárattal eljuthat a torony közelébe.",
             "ro": "Linia de autobuz 'A' vă va duce aproape de turn.",
-            "en": "The 'A' bus line will get you close to the tower."
+            "en": "The 'A' bus line will get you close to the tower.",
+            "es": "La línea A te dejará cerca de la torre."
           }
         },
         {
@@ -1838,7 +1997,8 @@
             "de": "Sonnenuntergang am Strand von La Mata",
             "hu": "Naplemente a La Mata strandon",
             "ro": "Apus de soare la Plaja La Mata",
-            "en": "Sunset at La Mata Beach"
+            "en": "Sunset at La Mata Beach",
+            "es": "Atardecer en la playa de La Mata"
           },
           "coords": [
             -0.638,
@@ -1853,7 +2013,8 @@
             "de": "Vom Turm aus ist es nur ein kurzer Spaziergang zu diesem riesigen Strand.",
             "hu": "A toronytól csak egy rövid sétára van ez a hatalmas strand.",
             "ro": "Este o scurtă plimbare de la turn până la această plajă imensă.",
-            "en": "It's a short walk from the tower to this huge beach."
+            "en": "It's a short walk from the tower to this huge beach.",
+            "es": "Se llega caminando desde la torre hasta esta extensa playa."
           }
         }
       ],
@@ -1861,7 +2022,8 @@
         "de": "Beginnen Sie am zentralen Busbahnhof und erkunden Sie den ersten Cluster – das historische Zentrum – zu Fuß. Besuchen Sie die Kirche und das Salzmuseum, bevor Sie am Hafen entlang spazieren. Nach dem Mittagessen bringt Sie ein kurzer Bus zu Ihrem zweiten Cluster, dem Parque de las Naciones. Ein weiterer Bus bringt Sie am Nachmittag zum dritten Cluster, dem Torre del Moro, für einen Panoramablick. Beenden Sie Ihren Tag mit einem kurzen Spaziergang zu einem Drink bei Sonnenuntergang am weitläufigen Strand von La Mata.",
         "hu": "Kezdje a központi buszpályaudvaron, és fedezze fel gyalog az első látnivalócsoportot – a történelmi központot. Látogassa meg a templomot és a Sómúzeumot, mielőtt a kikötő mentén sétálna. Ebéd után egy rövid buszút viszi a második látnivalócsoporthoz, a Parque de las Naciones-hoz. Délután egy másik busz viszi a harmadik látnivalócsoporthoz, a Torre del Moro-hoz, ahonnan panorámás kilátás nyílik. Fejezze be a napot egy rövid sétával egy naplementés italra a tágas La Mata strandon.",
         "ro": "Începeți de la stația centrală de autobuz și explorați primul grup de atracții – centrul istoric – pe jos. Vizitați biserica și muzeul sării înainte de a vă plimba de-a lungul portului. După prânz, un autobuz scurt vă va duce la al doilea grup, Parcul Națiunilor. Un alt autobuz vă va duce după-amiaza la al treilea grup, Torre del Moro, pentru priveliști panoramice. Încheiați ziua cu o scurtă plimbare pentru o băutură la apus pe plaja întinsă La Mata.",
-        "en": "Start at the central bus station and explore the first cluster – the historic center – on foot. Visit the church and salt museum before strolling along the marina. After lunch, a short bus will take you to your second cluster, the Parque de las Naciones. Another bus in the afternoon takes you to the third cluster, Torre del Moro, for panoramic views. End your day with a short walk for a sunset drink on the vast La Mata beach."
+        "en": "Start at the central bus station and explore the first cluster – the historic center – on foot. Visit the church and salt museum before strolling along the marina. After lunch, a short bus will take you to your second cluster, the Parque de las Naciones. Another bus in the afternoon takes you to the third cluster, Torre del Moro, for panoramic views. End your day with a short walk for a sunset drink on the vast La Mata beach.",
+        "es": "Comienza en la estación de autobuses central y explora a pie el primer conjunto: el casco histórico. Visita la iglesia y el museo de la sal antes de pasear por el puerto. Tras el almuerzo, un corto trayecto en autobús te llevará al segundo conjunto, el Parque de las Naciones. Otro autobús por la tarde te lleva al tercer conjunto, Torre del Moro, para vistas panorámicas. Termina el día con un paseo corto para tomar algo al atardecer en la amplia playa de La Mata."
       },
       "gastro_picks": {
         "de": [
@@ -2057,6 +2219,12 @@
           "Bus schedules can vary, check the times at the stop.",
           "Signal the driver when your bus is arriving, or it might not stop.",
           "Have small change ready for the bus ticket."
+        ],
+        "es": [
+          "Compra una tarjeta 'Bono Bus' para tarifas más baratas si planeas hacer varios trayectos.",
+          "Los horarios de los autobuses pueden variar; consulta las horas en la parada.",
+          "Haz señas al conductor cuando llegue tu autobús, o puede que no pare.",
+          "Ten monedas a mano para el billete del autobús."
         ]
       },
       "variants": {
@@ -2065,7 +2233,8 @@
             "de": "Nutzen Sie das dichte Busnetz, um im Trockenen zu bleiben. Vom Busbahnhof erreichen Sie schnell die Kirche und das Salzmuseum. Der Hafenbereich mit dem U-Boot-Museum bietet auch bei Regen maritime Erlebnisse. Nach dem Mittagessen bringt Sie der Bus zum Park der Nationen und weiter zum Torre del Moro, bevor der Tag am Strand von La Mata endet.",
             "hu": "Használja a sűrű buszhálózatot, hogy szárazon maradjon. A buszpályaudvarról gyorsan elérheti a templomot és a Sómúzeumot. A kikötő a tengeralattjáróval esőben is tengeri élményeket kínál. Ebéd után a busz a Nemzetek Parkjához, majd a Torre del Moróhoz viszi, mielőtt a nap a La Mata strandon véget érne.",
             "ro": "Folosiți rețeaua densă de autobuze pentru a rămâne uscați. De la autogară puteți ajunge rapid la biserică și la Muzeul Sării. Zona portului cu submarinul oferă experiențe maritime chiar și pe ploaie. După prânz, autobuzul vă duce la Parcul Națiunilor și apoi la Torre del Moro, înainte ca ziua să se încheie pe plaja La Mata.",
-            "en": "Use the dense bus network to stay dry. From the bus station, you can quickly reach the church and the Salt Museum. The harbor area with the submarine museum offers maritime experiences even in the rain. After lunch, the bus takes you to the Park of Nations and on to Torre del Moro before the day ends at La Mata beach."
+            "en": "Use the dense bus network to stay dry. From the bus station, you can quickly reach the church and the Salt Museum. The harbor area with the submarine museum offers maritime experiences even in the rain. After lunch, the bus takes you to the Park of Nations and on to Torre del Moro before the day ends at La Mata beach.",
+            "es": "Usa la densa red de autobuses para mantenerte seco. Desde la estación puedes llegar rápidamente a la iglesia y al Museo de la Sal. La zona del puerto con el museo del submarino ofrece experiencias marítimas incluso con lluvia. Tras el almuerzo, el autobús te lleva al Parque de las Naciones y luego a Torre del Moro antes de acabar el día en la playa de La Mata."
           },
           "stops": [
             {
@@ -2074,7 +2243,8 @@
                 "de": "Der Busbahnhof hat einen überdachten Wartebereich.",
                 "hu": "A buszpályaudvar fedett váróteremmel rendelkezik.",
                 "ro": "Autogara are o zonă de așteptare acoperită.",
-                "en": "The bus station has a covered waiting area."
+                "en": "The bus station has a covered waiting area.",
+                "es": "La estación de autobuses tiene una zona de espera cubierta."
               }
             },
             {
@@ -2083,7 +2253,8 @@
                 "de": "Vom Busbahnhof sind es nur 5 Minuten Fußweg im Regen.",
                 "hu": "A buszpályaudvartól csak 5 perc séta esőben.",
                 "ro": "De la autogară sunt doar 5 minute de mers pe jos prin ploaie.",
-                "en": "It's only a 5-minute walk from the bus station in the rain."
+                "en": "It's only a 5-minute walk from the bus station in the rain.",
+                "es": "Está a solo 5 minutos a pie desde la estación de autobuses aun con lluvia."
               }
             },
             {
@@ -2092,7 +2263,8 @@
                 "de": "Die Bushaltestellen hier haben meist Unterstände.",
                 "hu": "Az itteni buszmegállók többsége rendelkezik esővédővel.",
                 "ro": "Majoritatea stațiilor de autobuz de aici au adăposturi.",
-                "en": "Most bus stops here have shelters."
+                "en": "Most bus stops here have shelters.",
+                "es": "La mayoría de las paradas de autobús aquí tienen marquesinas."
               }
             },
             {
@@ -2101,7 +2273,8 @@
                 "de": "Nutzen Sie die App 'Moovit' für Echtzeit-Infos bei Regenverzögerungen.",
                 "hu": "Használja a 'Moovit' alkalmazást a buszok valós idejű követéséhez.",
                 "ro": "Folosiți aplicația 'Moovit' pentru informații în timp real.",
-                "en": "Use the 'Moovit' app for real-time bus info."
+                "en": "Use the 'Moovit' app for real-time bus info.",
+                "es": "Usa la app 'Moovit' para información de autobuses en tiempo real."
               }
             },
             {
@@ -2110,7 +2283,8 @@
                 "de": "Die Linie A bringt Sie direkt in die Nähe des Turms.",
                 "hu": "Az A jelzésű busz közvetlenül a torony közelébe viszi.",
                 "ro": "Linia A vă duce direct în apropierea turnului.",
-                "en": "Bus line A takes you directly near the tower."
+                "en": "Bus line A takes you directly near the tower.",
+                "es": "La línea A te lleva directamente cerca de la torre."
               }
             },
             {
@@ -2119,7 +2293,8 @@
                 "de": "Warten Sie im Café auf den Bus für die Rückfahrt.",
                 "hu": "Várja a visszatérő buszt egy kávézóban.",
                 "ro": "Așteptați autobuzul de întoarcere într-o cafenea.",
-                "en": "Wait for the return bus inside a cafe."
+                "en": "Wait for the return bus inside a cafe.",
+                "es": "Espera el autobús de vuelta dentro de un café."
               }
             }
           ],
@@ -2151,6 +2326,13 @@
               "Expect fogged-up windows and slightly more crowding on the bus.",
               "The central stops at Eras de la Sal are well sheltered.",
               "Don't wear slippery flip-flops on the bus during rain."
+            ],
+            "es": [
+              "Compra un bono de diez viajes para agilizar el embarque con lluvia.",
+              "La línea A conecta de forma fiable el centro con La Mata.",
+              "Espera ventanas empañadas y algo más de aglomeración en el autobús.",
+              "Las paradas centrales en Eras de la Sal están bien protegidas.",
+              "No lleves chanclas resbaladizas en el autobús cuando llueve."
             ]
           }
         },
@@ -2159,7 +2341,8 @@
             "de": "Entdecken Sie Torrevieja im Winter entspannt mit dem Bus. Besuchen Sie die Kirche und das Salzmuseum, wenn weniger Touristen unterwegs sind. Die Fahrt entlang der Küste bietet tolle Ausblicke auf das winterliche Meer. Nach einem sonnigen Mittagessen führt die Route zum Park der Nationen und zum Torre del Moro, um den frühen Sonnenuntergang über La Mata zu erleben.",
             "hu": "Fedezze fel Torrevieját télen kényelmesen, busszal. Látogassa meg a templomot és a Sómúzeumot, amikor kevesebb a turista. A part menti buszozás nagyszerű kilátást nyújt a téli tengerre. Egy napsütéses ebéd után az út a Nemzetek Parkjához és a Torre del Moróhoz vezet, hogy átélje a korai naplementét La Mata felett.",
             "ro": "Descoperiți Torrevieja iarna, relaxat, cu autobuzul. Vizitați biserica și Muzeul Sării când sunt mai puțini turiști. Călătoria de-a lungul coastei oferă vederi superbe asupra mării de iarnă. După un prânz însorit, traseul duce la Parcul Națiunilor și la Torre del Moro pentru a experimenta apusul devreme peste La Mata.",
-            "en": "Discover Torrevieja in winter relaxed by bus. Visit the church and the Salt Museum when there are fewer tourists. The bus ride along the coast offers great views of the winter sea. After a sunny lunch, the route leads to the Park of Nations and Torre del Moro to experience the early sunset over La Mata."
+            "en": "Discover Torrevieja in winter relaxed by bus. Visit the church and the Salt Museum when there are fewer tourists. The bus ride along the coast offers great views of the winter sea. After a sunny lunch, the route leads to the Park of Nations and Torre del Moro to experience the early sunset over La Mata.",
+            "es": "Descubre Torrevieja en invierno con tranquilidad en autobús. Visita la iglesia y el Museo de la Sal cuando hay menos turistas. El trayecto en autobús a lo largo de la costa ofrece buenas vistas del mar invernal. Tras un almuerzo soleado, la ruta conduce al Parque de las Naciones y a Torre del Moro para ver el atardecer temprano sobre La Mata."
           },
           "stops": [
             {
@@ -2168,7 +2351,8 @@
                 "de": "Die Wintersonne wärmt den Platz vor der Kirche angenehm auf.",
                 "hu": "A téli nap kellemesen felmelegíti a templom előtti teret.",
                 "ro": "Soarele de iarnă încălzește plăcut piața din fața bisericii.",
-                "en": "The winter sun pleasantly warms the square in front of the church."
+                "en": "The winter sun pleasantly warms the square in front of the church.",
+                "es": "El sol invernal calienta agradablemente la plaza frente a la iglesia."
               }
             },
             {
@@ -2177,7 +2361,8 @@
                 "de": "Ein warmer Ort für einen Zwischenstopp am Vormittag.",
                 "hu": "Meleg hely egy délelőtti megállóhoz.",
                 "ro": "Un loc cald pentru o oprire în timpul dimineții.",
-                "en": "A warm spot for a mid-morning stop."
+                "en": "A warm spot for a mid-morning stop.",
+                "es": "Un lugar cálido para una parada a media mañana."
               }
             },
             {
@@ -2186,7 +2371,8 @@
                 "de": "An der Hafenmauer bricht sich die tiefstehende Wintersonne schön.",
                 "hu": "A kikötőfalon szépen törik meg az alacsonyan járó téli napfény.",
                 "ro": "Soarele de iarnă se reflectă frumos pe zidul portului.",
-                "en": "The low winter sun reflects beautifully off the harbor wall."
+                "en": "The low winter sun reflects beautifully off the harbor wall.",
+                "es": "El bajo sol invernal se refleja hermosamente en el muro del puerto."
               }
             },
             {
@@ -2195,7 +2381,8 @@
                 "de": "Die Busse fahren im Winter nach dem regulären Fahrplan.",
                 "hu": "A buszok télen a normál menetrend szerint közlekednek.",
                 "ro": "Autobuzele circulă iarna conform programului normal.",
-                "en": "Buses run according to the regular schedule in winter."
+                "en": "Buses run according to the regular schedule in winter.",
+                "es": "En invierno los autobuses circulan según el horario habitual."
               }
             },
             {
@@ -2204,7 +2391,8 @@
                 "de": "Planen Sie die Fahrt so, dass Sie 30 Minuten vor Sonnenuntergang dort sind.",
                 "hu": "Úgy tervezze az utat, hogy 30 perccel naplemente előtt ott legyen.",
                 "ro": "Planificați călătoria astfel încât să ajungeți cu 30 de minute înainte de apus.",
-                "en": "Plan the trip to arrive 30 minutes before sunset."
+                "en": "Plan the trip to arrive 30 minutes before sunset.",
+                "es": "Planifica el viaje para llegar 30 minutos antes del atardecer."
               }
             },
             {
@@ -2213,7 +2401,8 @@
                 "de": "Die Linie A fährt bis spät am Abend zurück ins Zentrum.",
                 "hu": "Az A vonal késő estig jár vissza a központba.",
                 "ro": "Linia A circulă până târziu seara înapoi spre centru.",
-                "en": "Line A runs back to the center until late in the evening."
+                "en": "Line A runs back to the center until late in the evening.",
+                "es": "La línea A regresa al centro hasta tarde por la noche."
               }
             }
           ],
@@ -2245,6 +2434,13 @@
               "It's often very warm inside the buses in winter due to heating.",
               "Bus frequencies remain reliable even in the low season.",
               "Bring a jacket for the return trip in the evening as it cools down fast."
+            ],
+            "es": [
+              "La estación de autobuses es un buen punto de referencia incluso en invierno.",
+              "Toma la línea hacia La Mata para un paseo costero económico.",
+              "A menudo hace bastante calor dentro de los autobuses en invierno por la calefacción.",
+              "La frecuencia de los autobuses sigue siendo fiable incluso en temporada baja.",
+              "Lleva una chaqueta para el regreso por la noche, ya que enfría rápidamente."
             ]
           }
         }

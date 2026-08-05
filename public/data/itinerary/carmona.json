@@ -21,7 +21,8 @@
             "de": "Necrópolis Romana",
             "hu": "Római nekropolisz",
             "ro": "Necropola Romană",
-            "en": "Roman Necropolis"
+            "en": "Roman Necropolis",
+            "es": "Necrópolis romana"
           },
           "coords": [
             -5.655,
@@ -36,7 +37,8 @@
             "de": "Eines der bedeutendsten römischen Gräberfelder Spaniens.",
             "hu": "Spanyolország egyik legjelentősebb római kori sírkertje.",
             "ro": "Una dintre cele mai importante necropole romane din Spania.",
-            "en": "One of the most important Roman burial sites in Spain."
+            "en": "One of the most important Roman burial sites in Spain.",
+            "es": "Uno de los yacimientos funerarios romanos más importantes de España."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Alcázar de la Puerta de Sevilla",
             "hu": "Sevillai kapu erőd",
             "ro": "Alcázar de la Puerta de Sevilla",
-            "en": "Alcázar de la Puerta de Sevilla"
+            "en": "Alcázar de la Puerta de Sevilla",
+            "es": "Alcázar de la Puerta de Sevilla"
           },
           "coords": [
             -5.6425,
@@ -59,7 +62,8 @@
             "de": "Steigen Sie auf den Goldturm für einen Blick über die Ebene.",
             "hu": "Mássz fel az Aranytoronyba a síkságra nyíló kilátásért.",
             "ro": "Urcați în Turnul de Aur pentru o vedere asupra câmpiei.",
-            "en": "Climb the Gold Tower for views over the plains."
+            "en": "Climb the Gold Tower for views over the plains.",
+            "es": "Sube a la Torre del Oro para ver las llanuras."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Plaza de Abastos",
             "hu": "Piac tér",
             "ro": "Plaza de Abastos",
-            "en": "Plaza de Abastos"
+            "en": "Plaza de Abastos",
+            "es": "Plaza de Abastos"
           },
           "coords": [
             -5.641,
@@ -82,7 +87,8 @@
             "de": "Ein schöner Markt in einem ehemaligen Klosterhof.",
             "hu": "Gyönyörű piac egy egykori kolostor udvarán.",
             "ro": "O piață frumoasă într-o fostă curte de mănăstire.",
-            "en": "A beautiful market in a former convent courtyard."
+            "en": "A beautiful market in a former convent courtyard.",
+            "es": "Un bonito mercado en el patio de un antiguo convento."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Iglesia de Santa María",
             "hu": "Mária templom",
             "ro": "Iglesia de Santa María",
-            "en": "Church of Santa María"
+            "en": "Church of Santa María",
+            "es": "Iglesia de Santa María"
           },
           "coords": [
             -5.639,
@@ -105,7 +112,8 @@
             "de": "Eine spätgotische Kirche auf dem Gelände einer ehemaligen Moschee.",
             "hu": "Késő gótikus templom egy egykori mecset helyén.",
             "ro": "O biserică gotică târzie pe locul unei foste moschei.",
-            "en": "A late Gothic church built on the site of a former mosque."
+            "en": "A late Gothic church built on the site of a former mosque.",
+            "es": "Iglesia gótica tardía construida sobre el emplazamiento de una antigua mezquita."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Museo de la Ciudad",
             "hu": "Városi Múzeum",
             "ro": "Muzeul Orașului",
-            "en": "City Museum"
+            "en": "City Museum",
+            "es": "Museo de la Ciudad"
           },
           "coords": [
             -5.6385,
@@ -128,7 +137,8 @@
             "de": "Erfahren Sie mehr über die 5000-jährige Geschichte Carmonas.",
             "hu": "Ismerd meg Carmona 5000 éves történelmét.",
             "ro": "Aflați mai multe despre istoria de 5000 de ani a Carmonei.",
-            "en": "Learn about the 5000-year history of Carmona."
+            "en": "Learn about the 5000-year history of Carmona.",
+            "es": "Aprende sobre los 5.000 años de historia de Carmona."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Convento de Santa Clara",
             "hu": "Szent Klára kolostor",
             "ro": "Convento de Santa Clara",
-            "en": "Convent of Santa Clara"
+            "en": "Convent of Santa Clara",
+            "es": "Convento de Santa Clara"
           },
           "coords": [
             -5.6375,
@@ -151,7 +162,8 @@
             "de": "Kaufen Sie hausgemachtes Gebäck von den Nonnen.",
             "hu": "Vegyél házi készítésű süteményeket az apácáktól.",
             "ro": "Cumpărați produse de patiserie de casă de la călugărițe.",
-            "en": "Buy homemade pastries from the nuns."
+            "en": "Buy homemade pastries from the nuns.",
+            "es": "Compra pasteles caseros hechos por las monjas."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Puerta de Córdoba",
             "hu": "Cordobai kapu",
             "ro": "Puerta de Córdoba",
-            "en": "Puerta de Córdoba"
+            "en": "Puerta de Córdoba",
+            "es": "Puerta de Córdoba"
           },
           "coords": [
             -5.635,
@@ -174,7 +187,8 @@
             "de": "Ein römisches Tor, das später barock umgestaltet wurde.",
             "hu": "Római kapu, amelyet később barokk stílusban alakítottak át.",
             "ro": "O poartă romană care a fost transformată ulterior în stil baroc.",
-            "en": "A Roman gate that was later remodeled in Baroque style."
+            "en": "A Roman gate that was later remodeled in Baroque style.",
+            "es": "Una puerta romana que fue remodelada posteriormente en estilo barroco."
           }
         },
         {
@@ -182,7 +196,8 @@
             "de": "Alcázar del Rey Don Pedro",
             "hu": "Don Pedro király erődje",
             "ro": "Alcázar del Rey Don Pedro",
-            "en": "Alcázar del Rey Don Pedro"
+            "en": "Alcázar del Rey Don Pedro",
+            "es": "Alcázar del Rey Don Pedro"
           },
           "coords": [
             -5.632,
@@ -197,7 +212,8 @@
             "de": "Heute ein Parador-Hotel mit spektakulärer Aussicht.",
             "hu": "Ma Parador szálloda, látványos kilátással a vidékre.",
             "ro": "Astăzi este un hotel Parador cu o vedere spectaculoasă.",
-            "en": "Now a Parador hotel with spectacular views over the Vega."
+            "en": "Now a Parador hotel with spectacular views over the Vega.",
+            "es": "Hoy es un Parador con vistas espectaculares sobre la vega."
           }
         }
       ],
@@ -205,7 +221,8 @@
         "de": "Carmona ist eine der ältesten Städte Europas. Beginnen Sie Ihren Tag in der beeindruckenden römischen Nekropole, bevor Sie durch das gewaltige Stadttor Puerta de Sevilla eintreten. Mittags erkunden Sie den lokalen Markt und die gotische Kirche Santa María. Der Nachmittag führt Sie durch das historische Museum und zum Kloster Santa Clara, wo Sie süßes Gebäck probieren können. Den Abschluss bildet der Alcázar del Rey Don Pedro, von wo aus Sie den Sonnenuntergang über der andalusischen Ebene bewundern können.",
         "hu": "Carmona Európa egyik legrégebbi városa. Kezdd a napot a lenyűgöző római nekropoliszban, majd lépj be a hatalmas Sevillai kapun a városba. Délben fedezd fel a helyi piacot és a gótikus Santa María templomot. Délután a Városi Múzeum és a Santa Clara kolostor vár, ahol érdemes megkóstolni az apácák süteményeit. A napot a Don Pedro király erődjénél zárod, ahonnan csodás naplemente nyílik az andalúz síkságra.",
         "ro": "Carmona este unul dintre cele mai vechi orașe din Europa. Începeți ziua la impresionanta necropolă romană, înainte de a intra prin poarta masivă Puerta de Sevilla. La prânz, explorați piața locală și biserica gotică Santa María. După-amiaza vă conduce prin muzeul istoric și la mănăstirea Santa Clara, unde puteți gusta produse de patiserie dulci. Finalul este la Alcázar del Rey Don Pedro, de unde puteți admira apusul peste câmpia andaluză.",
-        "en": "Carmona is one of the oldest cities in Europe. Start your day at the impressive Roman Necropolis before entering the town through the massive Puerta de Sevilla. At noon, explore the local market and the Gothic Santa María church. The afternoon leads you through the City Museum and to the Santa Clara convent, where you can try sweet pastries. Finish at the Alcázar del Rey Don Pedro, where you can admire the sunset over the Andalusian plain."
+        "en": "Carmona is one of the oldest cities in Europe. Start your day at the impressive Roman Necropolis before entering the town through the massive Puerta de Sevilla. At noon, explore the local market and the Gothic Santa María church. The afternoon leads you through the City Museum and to the Santa Clara convent, where you can try sweet pastries. Finish at the Alcázar del Rey Don Pedro, where you can admire the sunset over the Andalusian plain.",
+        "es": "Carmona es una de las ciudades más antiguas de Europa. Empieza el día en la impresionante Necrópolis romana antes de entrar en la ciudad por la imponente Puerta de Sevilla. Al mediodía, explora el mercado local y la iglesia gótica de Santa María. Por la tarde visita el Museo de la Ciudad y el convento de Santa Clara, donde puedes probar dulces. Termina en el Alcázar del Rey Don Pedro y admira el atardecer sobre la llanura andaluza."
       },
       "gastro_picks": {
         "de": [
@@ -329,6 +346,12 @@
           "The Roman Necropolis is located a bit outside the town center.",
           "The view from the Parador is a must for every visitor.",
           "Try the local 'Puerto de Indias' gin, which originated here."
+        ],
+        "es": [
+          "Carmona tiene muchas cuestas, así que lleva calzado cómodo.",
+          "La Necrópolis romana está situada un poco fuera del centro del pueblo.",
+          "La vista desde el Parador es imprescindible para todo visitante.",
+          "Prueba la ginebra local «Puerto de Indias», que se originó aquí."
         ]
       },
       "variants": {
@@ -337,7 +360,8 @@
             "de": "Carmona ist eine der ältesten Städte Europas. Beginnen Sie Ihren Tag in der beeindruckenden römischen Nekropole, bevor Sie durch das gewaltige Stadttor Puerta de Sevilla eintreten. Mittags erkunden Sie den lokalen Markt und die gotische Kirche Santa María. Der Nachmittag führt Sie durch das historische Museum und zum Kloster Santa Clara, wo Sie süßes Gebäck probieren können. Den Abschluss bildet der Alcázar del Rey Don Pedro, von wo aus Sie den Sonnenuntergang über der andalusischen Ebene bewundern können.",
             "hu": "Carmona Európa egyik legrégebbi városa. Kezdd a napot a lenyűgöző római nekropoliszban, majd lépj be a hatalmas Sevillai kapun a városba. Délben fedezd fel a helyi piacot és a gótikus Santa María templomot. Délután a Városi Múzeum és a Santa Clara kolostor vár, ahol érdemes megkóstolni az apácák süteményeit. A napot a Don Pedro király erődjénél zárod, ahonnan csodás naplemente nyílik az andalúz síkságra.",
             "ro": "Carmona este unul dintre cele mai vechi orașe din Europa. Începeți ziua la impresionanta necropolă romană, înainte de a intra prin poarta masivă Puerta de Sevilla. La prânz, explorați piața locală și biserica gotică Santa María. După-amiaza vă conduce prin muzeul istoric și la mănăstirea Santa Clara, unde puteți gusta produse de patiserie dulci. Finalul este la Alcázar del Rey Don Pedro, de unde puteți admira apusul peste câmpia andaluză.",
-            "en": "Carmona is one of the oldest cities in Europe. Start your day at the impressive Roman Necropolis before entering the town through the massive Puerta de Sevilla. At noon, explore the local market and the Gothic Santa María church. The afternoon leads you through the City Museum and to the Santa Clara convent, where you can try sweet pastries. Finish at the Alcázar del Rey Don Pedro, where you can admire the sunset over the Andalusian plain."
+            "en": "Carmona is one of the oldest cities in Europe. Start your day at the impressive Roman Necropolis before entering the town through the massive Puerta de Sevilla. At noon, explore the local market and the Gothic Santa María church. The afternoon leads you through the City Museum and to the Santa Clara convent, where you can try sweet pastries. Finish at the Alcázar del Rey Don Pedro, where you can admire the sunset over the Andalusian plain.",
+            "es": "Carmona es una de las ciudades más antiguas de Europa. Empieza el día en la impresionante Necrópolis romana antes de entrar en la ciudad por la imponente Puerta de Sevilla. Al mediodía, explora el mercado local y la iglesia gótica de Santa María. Por la tarde visita el Museo de la Ciudad y el convento de Santa Clara, donde puedes probar dulces. Termina en el Alcázar del Rey Don Pedro y admira el atardecer sobre la llanura andaluza."
           },
           "stops": [
             {
@@ -345,13 +369,15 @@
                 "de": "Necrópolis Romana",
                 "hu": "Római nekropolisz",
                 "ro": "Necropola Romană",
-                "en": "Roman Necropolis"
+                "en": "Roman Necropolis",
+                "es": "Necrópolis romana"
               },
               "tip_5lang": {
                 "de": "Eines der bedeutendsten römischen Gräberfelder Spaniens.",
                 "hu": "Spanyolország egyik legjelentősebb római kori sírkertje.",
                 "ro": "Una dintre cele mai importante necropole romane din Spania.",
-                "en": "One of the most important Roman burial sites in Spain."
+                "en": "One of the most important Roman burial sites in Spain.",
+                "es": "Uno de los yacimientos funerarios romanos más importantes de España."
               }
             },
             {
@@ -359,13 +385,15 @@
                 "de": "Alcázar de la Puerta de Sevilla",
                 "hu": "Sevillai kapu erőd",
                 "ro": "Alcázar de la Puerta de Sevilla",
-                "en": "Alcázar de la Puerta de Sevilla"
+                "en": "Alcázar de la Puerta de Sevilla",
+                "es": "Alcázar de la Puerta de Sevilla"
               },
               "tip_5lang": {
                 "de": "Steigen Sie auf den Goldturm für einen Blick über die Ebene.",
                 "hu": "Mássz fel az Aranytoronyba a síkságra nyíló kilátásért.",
                 "ro": "Urcați în Turnul de Aur pentru o vedere asupra câmpiei.",
-                "en": "Climb the Gold Tower for views over the plains."
+                "en": "Climb the Gold Tower for views over the plains.",
+                "es": "Sube a la Torre del Oro para ver las llanuras."
               }
             },
             {
@@ -373,13 +401,15 @@
                 "de": "Plaza de Abastos",
                 "hu": "Piac tér",
                 "ro": "Plaza de Abastos",
-                "en": "Plaza de Abastos"
+                "en": "Plaza de Abastos",
+                "es": "Plaza de Abastos"
               },
               "tip_5lang": {
                 "de": "Ein schöner Markt in einem ehemaligen Klosterhof.",
                 "hu": "Gyönyörű piac egy egykori kolostor udvarán.",
                 "ro": "O piață frumoasă într-o fostă curte de mănăstire.",
-                "en": "A beautiful market in a former convent courtyard."
+                "en": "A beautiful market in a former convent courtyard.",
+                "es": "Un bonito mercado en el patio de un antiguo convento."
               }
             },
             {
@@ -387,13 +417,15 @@
                 "de": "Iglesia de Santa María",
                 "hu": "Mária templom",
                 "ro": "Iglesia de Santa María",
-                "en": "Church of Santa María"
+                "en": "Church of Santa María",
+                "es": "Iglesia de Santa María"
               },
               "tip_5lang": {
                 "de": "Eine spätgotische Kirche auf dem Gelände einer ehemaligen Moschee.",
                 "hu": "Késő gótikus templom egy egykori mecset helyén.",
                 "ro": "O biserică gotică târzie pe locul unei foste moschei.",
-                "en": "A late Gothic church built on the site of a former mosque."
+                "en": "A late Gothic church built on the site of a former mosque.",
+                "es": "Iglesia gótica tardía construida sobre el emplazamiento de una antigua mezquita."
               }
             },
             {
@@ -401,13 +433,15 @@
                 "de": "Museo de la Ciudad",
                 "hu": "Városi Múzeum",
                 "ro": "Muzeul Orașului",
-                "en": "City Museum"
+                "en": "City Museum",
+                "es": "Museo de la Ciudad"
               },
               "tip_5lang": {
                 "de": "Erfahren Sie mehr über die 5000-jährige Geschichte Carmonas.",
                 "hu": "Ismerd meg Carmona 5000 éves történelmét.",
                 "ro": "Aflați mai multe despre istoria de 5000 de ani a Carmonei.",
-                "en": "Learn about the 5000-year history of Carmona."
+                "en": "Learn about the 5000-year history of Carmona.",
+                "es": "Aprende sobre los 5.000 años de historia de Carmona."
               }
             },
             {
@@ -415,13 +449,15 @@
                 "de": "Convento de Santa Clara",
                 "hu": "Szent Klára kolostor",
                 "ro": "Convento de Santa Clara",
-                "en": "Convent of Santa Clara"
+                "en": "Convent of Santa Clara",
+                "es": "Convento de Santa Clara"
               },
               "tip_5lang": {
                 "de": "Kaufen Sie hausgemachtes Gebäck von den Nonnen.",
                 "hu": "Vegyél házi készítésű süteményeket az apácáktól.",
                 "ro": "Cumpărați produse de patiserie de casă de la călugărițe.",
-                "en": "Buy homemade pastries from the nuns."
+                "en": "Buy homemade pastries from the nuns.",
+                "es": "Compra pasteles caseros hechos por las monjas."
               }
             },
             {
@@ -429,13 +465,15 @@
                 "de": "Puerta de Córdoba",
                 "hu": "Cordobai kapu",
                 "ro": "Puerta de Córdoba",
-                "en": "Puerta de Córdoba"
+                "en": "Puerta de Córdoba",
+                "es": "Puerta de Córdoba"
               },
               "tip_5lang": {
                 "de": "Ein römisches Tor, das später barock umgestaltet wurde.",
                 "hu": "Római kapu, amelyet később barokk stílusban alakítottak át.",
                 "ro": "O poartă romană care a fost transformată ulterior în stil baroc.",
-                "en": "A Roman gate that was later remodeled in Baroque style."
+                "en": "A Roman gate that was later remodeled in Baroque style.",
+                "es": "Una puerta romana que fue remodelada posteriormente en estilo barroco."
               }
             },
             {
@@ -443,13 +481,15 @@
                 "de": "Alcázar del Rey Don Pedro",
                 "hu": "Don Pedro király erődje",
                 "ro": "Alcázar del Rey Don Pedro",
-                "en": "Alcázar del Rey Don Pedro"
+                "en": "Alcázar del Rey Don Pedro",
+                "es": "Alcázar del Rey Don Pedro"
               },
               "tip_5lang": {
                 "de": "Heute ein Parador-Hotel mit spektakulärer Aussicht.",
                 "hu": "Ma Parador szálloda, látványos kilátással a vidékre.",
                 "ro": "Astăzi este un hotel Parador cu o vedere spectaculoasă.",
-                "en": "Now a Parador hotel with spectacular views over the Vega."
+                "en": "Now a Parador hotel with spectacular views over the Vega.",
+                "es": "Hoy es un Parador con vistas espectaculares sobre la vega."
               }
             }
           ],
@@ -575,6 +615,12 @@
               "The Roman Necropolis is located a bit outside the town center.",
               "The view from the Parador is a must for every visitor.",
               "Try the local 'Puerto de Indias' gin, which originated here."
+            ],
+            "es": [
+              "Carmona tiene muchas cuestas, así que lleva calzado cómodo.",
+              "La Necrópolis romana está situada un poco fuera del centro del pueblo.",
+              "La vista desde el Parador es imprescindible para todo visitante.",
+              "Prueba la ginebra local «Puerto de Indias», que se originó aquí."
             ]
           }
         },
@@ -583,7 +629,8 @@
             "de": "Ein regnerischer Tag in Carmona lädt dazu ein, die reiche Innengeschichte zu erkunden. Der Morgen beginnt geschützt in der Nekropole, gefolgt von einem Besuch der massiven Puerta de Sevilla. Mittags bietet der überdachte Markt einen trockenen Rückzugsort für Tapas. Den Nachmittag verbringen wir in den prächtigen Kirchen und Museen der Altstadt, bevor wir den Tag gemütlich im Parador ausklingen lassen.",
             "hu": "Carmona esőben is tartogat kincseket, ilyenkor a hangsúly a belső terekre terelődik. A reggelt a Nekropolisz fedett kiállításai között kezdjük, majd a Puerta de Sevilla védelmében folytatjuk. Délben a fedett piac (Plaza de Abastos) nyújt menedéket a kóstoláshoz. Délután a városi múzeum és a templomok nyújtanak száraz kulturális élményt, az estét pedig a várkastély panorámás termeiben zárjuk.",
             "ro": "O zi ploioasă în Carmona este o ocazie perfectă pentru a descoperi interioarele sale monumentale. Dimineața începe la adăpostul Necropolei, urmată de fortăreața Puerta de Sevilla. La prânz, piața acoperită oferă un refugiu uscat pentru gastronomie. După-amiaza este dedicată muzeelor și bisericilor impunătoare, iar seara se încheie în ambianța caldă a vechiului Alcázar, acum Parador.",
-            "en": "A rainy day in Carmona is the perfect excuse to dive into its indoor treasures. Start sheltered at the Necropolis museum, then move to the sturdy Alcázar de la Puerta de Sevilla. At noon, the covered market provides a dry spot for local flavors. Spend the afternoon in the city's museums and churches, finishing the day with a cozy evening at the Parador overlooking the misty plains."
+            "en": "A rainy day in Carmona is the perfect excuse to dive into its indoor treasures. Start sheltered at the Necropolis museum, then move to the sturdy Alcázar de la Puerta de Sevilla. At noon, the covered market provides a dry spot for local flavors. Spend the afternoon in the city's museums and churches, finishing the day with a cozy evening at the Parador overlooking the misty plains.",
+            "es": "Un día lluvioso en Carmona es la excusa perfecta para descubrir sus tesoros bajo techo. Empieza resguardado en el museo de la Necrópolis, luego visita el sólido Alcázar de la Puerta de Sevilla. Al mediodía, el mercado cubierto ofrece un lugar seco para probar productos locales. Pasa la tarde en los museos y las iglesias de la ciudad y termina con una velada acogedora en el Parador con vistas a las llanuras entre la niebla."
           },
           "stops": [
             {
@@ -592,7 +639,8 @@
                 "de": "Nutzen Sie das Museumszentrum, um während der Regengüsse trocken zu bleiben.",
                 "hu": "Használja a múzeumi központot, hogy száraz maradjon a záporok alatt.",
                 "ro": "Folosiți centrul muzeal pentru a rămâne uscat în timpul ploii.",
-                "en": "Use the museum center to stay dry during heavier showers."
+                "en": "Use the museum center to stay dry during heavier showers.",
+                "es": "Utiliza el centro de museos para mantenerte seco durante lluvias fuertes."
               }
             },
             {
@@ -601,7 +649,8 @@
                 "de": "Die dicken Mauern bieten hervorragenden Schutz; genießen Sie die Aussicht von den überdachten Bereichen.",
                 "hu": "A vastag falak kiváló védelmet nyújtanak; élvezze a kilátást a fedett részekről.",
                 "ro": "Zidurile groase oferă protecție excelentă; bucurați-vă de vedere din zonele acoperite.",
-                "en": "The thick walls offer excellent shelter; enjoy the views from covered sections."
+                "en": "The thick walls offer excellent shelter; enjoy the views from covered sections.",
+                "es": "Los muros gruesos ofrecen excelente refugio; disfruta de las vistas desde las zonas cubiertas."
               }
             },
             {
@@ -610,7 +659,8 @@
                 "de": "Ein vollkommen überdachter Markt, ideal für eine Pause bei Regen.",
                 "hu": "Teljesen fedett piac, ideális pihenőhely esős időben.",
                 "ro": "O piață complet acoperită, ideală pentru o pauză pe timp de ploaie.",
-                "en": "A fully covered market, ideal for a break when it's raining."
+                "en": "A fully covered market, ideal for a break when it's raining.",
+                "es": "Un mercado totalmente cubierto, ideal para descansar cuando llueve."
               }
             },
             {
@@ -619,7 +669,8 @@
                 "de": "Bewundern Sie das prächtige Innere, während es draußen regnet.",
                 "hu": "Csodálja meg a pompás belsőt, amíg odakint esik.",
                 "ro": "Admirați interiorul magnific în timp ce afară plouă.",
-                "en": "Admire the magnificent interior while it rains outside."
+                "en": "Admire the magnificent interior while it rains outside.",
+                "es": "Admira el magnífico interior mientras llueve afuera."
               }
             },
             {
@@ -628,7 +679,8 @@
                 "de": "Perfekt für eine lange Erkundung im Trockenen.",
                 "hu": "Tökéletes helyszín egy hosszú, száraz felfedezéshez.",
                 "ro": "Perfect pentru o explorare lungă la adăpost.",
-                "en": "Perfect for a long exploration in the dry."
+                "en": "Perfect for a long exploration in the dry.",
+                "es": "Perfecto para una larga exploración en seco."
               }
             },
             {
@@ -637,7 +689,8 @@
                 "de": "Die ruhigen Kreuzgänge bieten Schutz und eine mystische Atmosphäre bei Regen.",
                 "hu": "A csendes kolostorfolyosók védelmet és misztikus hangulatot árasztanak esőben.",
                 "ro": "Clopotnițele liniștite oferă adăpost și o atmosferă mistică pe ploaie.",
-                "en": "The quiet cloisters offer shelter and a mystical atmosphere in the rain."
+                "en": "The quiet cloisters offer shelter and a mystical atmosphere in the rain.",
+                "es": "Los claustros tranquilos ofrecen refugio y una atmósfera mística bajo la lluvia."
               }
             },
             {
@@ -646,7 +699,8 @@
                 "de": "Ein kurzes Foto unter dem Bogen schützt vor den Tropfen.",
                 "hu": "Egy gyors fotó a boltív alatt megvéd a vízcseppektől.",
                 "ro": "O fotografie rapidă sub arc vă protejează de picături.",
-                "en": "A quick photo under the arch protects you from the drops."
+                "en": "A quick photo under the arch protects you from the drops.",
+                "es": "Una foto rápida bajo el arco te protege de las gotas."
               }
             },
             {
@@ -655,7 +709,8 @@
                 "de": "Beenden Sie den Tag in der Panoramabar des Parador.",
                 "hu": "Zárja a napot a Parador panorámás bárjában.",
                 "ro": "Încheiați ziua în barul panoramic de la Parador.",
-                "en": "Finish the day in the panoramic bar of the Parador."
+                "en": "Finish the day in the panoramic bar of the Parador.",
+                "es": "Termina el día en el bar panorámico del Parador."
               }
             }
           ],
@@ -683,6 +738,12 @@
               "Use the narrow streets of the Jewish quarter as natural wind and rain protection.",
               "Churches often close in the early afternoon; check opening times before visiting.",
               "An umbrella is more practical than a raincoat for the short distances between monuments."
+            ],
+            "es": [
+              "Los adoquines pueden estar resbaladizos; lleva zapatos con buen agarre.",
+              "Usa las calles estrechas del barrio judío como protección natural contra el viento y la lluvia.",
+              "Las iglesias suelen cerrar a primera hora de la tarde; consulta los horarios antes de visitar.",
+              "Un paraguas es más práctico que un impermeable para las cortas distancias entre monumentos."
             ]
           }
         },
@@ -691,7 +752,8 @@
             "de": "Wintertage in Carmona sind hell und erfrischend. Der Morgen in der Nekropole beginnt mit kühler, klarer Luft. Mittags wärmt die andalusische Sonne die Plaza de Abastos und die umliegenden Gassen. Da die Sonne gegen 18:00 Uhr untergeht, nutzen wir den Nachmittag für die Museen und Kirchen. Der Abend endet mit einem spektakulären goldenen Sonnenuntergang vom Alcázar del Rey Don Pedro.",
             "hu": "A téli Carmona világos és frissítő. A reggelt a Nekropolisz hűvös, tiszta levegőjén kezdjük. Délben az andalúz napsütés kellemesen felmelegíti a piacot és a sikátorokat. Mivel 18:00 körül sötétedik, a délutánt a múzeumokra és templomokra szánjuk. Az este a várkastélynál ér minket, ahol a téli naplemente aranyba vonja az egész tájat.",
             "ro": "Zilele de iarnă în Carmona sunt luminoase și revigorante. Dimineața la Necropolă începe cu aer rece și curat. La prânz, soarele andaluz încălzește piața și străzile lăturalnice. Deoarece soarele apune în jurul orei 18:00, folosim după-amiaza pentru muzee și biserici. Seara se încheie cu un apus auriu spectaculos de la Alcázar del Rey Don Pedro.",
-            "en": "Winter days in Carmona are bright and crisp. The morning at the Necropolis starts with cool, clear air. At noon, the Andalusian sun warms the Plaza de Abastos and the surrounding alleys. With sunset around 6:00 PM, use the afternoon for museums and churches. The evening culminates with a spectacular golden sunset from the Alcázar del Rey Don Pedro."
+            "en": "Winter days in Carmona are bright and crisp. The morning at the Necropolis starts with cool, clear air. At noon, the Andalusian sun warms the Plaza de Abastos and the surrounding alleys. With sunset around 6:00 PM, use the afternoon for museums and churches. The evening culminates with a spectacular golden sunset from the Alcázar del Rey Don Pedro.",
+            "es": "Los inviernos en Carmona son luminosos y frescos. La mañana en la Necrópolis comienza con aire frío y limpio. Al mediodía, el sol andaluz calienta la Plaza de Abastos y las calles cercanas. Con la puesta de sol sobre las 18:00, utiliza la tarde para museos e iglesias. La noche culmina con un espectacular atardecer dorado desde el Alcázar del Rey Don Pedro."
           },
           "stops": [
             {
@@ -700,7 +762,8 @@
                 "de": "Bringen Sie eine Schicht Kleidung für die kühle Morgenluft in den Ruinen mit.",
                 "hu": "Réteges öltözködés ajánlott a romok közötti hűvös reggeli levegőhöz.",
                 "ro": "Purtați haine în straturi pentru aerul răcoros de dimineață printre ruine.",
-                "en": "Wear layers for the cool morning air among the ruins."
+                "en": "Wear layers for the cool morning air among the ruins.",
+                "es": "Vístete por capas: fresco por la mañana entre las ruinas."
               }
             },
             {
@@ -709,7 +772,8 @@
                 "de": "Genießen Sie die wärmende Sonne auf den oberen Terrassen.",
                 "hu": "Élvezze a melengető napsütést a felső teraszokon.",
                 "ro": "Bucurați-vă de soarele cald pe terasele superioare.",
-                "en": "Enjoy the warming sun on the upper terraces."
+                "en": "Enjoy the warming sun on the upper terraces.",
+                "es": "Disfruta del calor del sol en las terrazas superiores."
               }
             },
             {
@@ -718,7 +782,8 @@
                 "de": "Ein sonniger Platz für einen warmen Kaffee im Freien.",
                 "hu": "Napsütötte helyszín egy meleg kávéhoz a szabadban.",
                 "ro": "Un loc însorit pentru o cafea caldă în aer liber.",
-                "en": "A sunny spot for a warm coffee outdoors."
+                "en": "A sunny spot for a warm coffee outdoors.",
+                "es": "Un rincón soleado para un café caliente al aire libre."
               }
             },
             {
@@ -727,7 +792,8 @@
                 "de": "In den Kirchen kann es kühler sein als draußen; behalten Sie die Jacke an.",
                 "hu": "A templomokban hűvösebb lehet, mint kint; ne vegye le a kabátját.",
                 "ro": "Poate fi mai răcoare în biserici decât afară; păstrați jacheta pe dvs.",
-                "en": "It can be cooler inside churches than outside; keep your jacket on."
+                "en": "It can be cooler inside churches than outside; keep your jacket on.",
+                "es": "Puede hacer más fresco dentro de las iglesias que en la calle; lleva la chaqueta puesta."
               }
             },
             {
@@ -736,7 +802,8 @@
                 "de": "Perfekter Ort, um sich am späten Nachmittag aufzuwärmen.",
                 "hu": "Tökéletes hely a felmelegedéshez késő délután.",
                 "ro": "Locul perfect pentru a vă încălzi după-amiaza târziu.",
-                "en": "Perfect place to warm up in the late afternoon."
+                "en": "Perfect place to warm up in the late afternoon.",
+                "es": "Lugar perfecto para entrar en calor a última hora de la tarde."
               }
             },
             {
@@ -745,7 +812,8 @@
                 "de": "Das Licht am Nachmittag erzeugt wunderschöne Schatten im Kloster.",
                 "hu": "A délutáni fények gyönyörű árnyékokat vetnek a kolostorban.",
                 "ro": "Lumina de după-amiază creează umbre superbe în mănăstire.",
-                "en": "Afternoon light creates beautiful shadows in the convent."
+                "en": "Afternoon light creates beautiful shadows in the convent.",
+                "es": "La luz de la tarde crea sombras hermosas en el convento."
               }
             },
             {
@@ -754,7 +822,8 @@
                 "de": "Das flache Winterlicht ist ideal für Fotos dieses römischen Tors.",
                 "hu": "A lapos téli fények ideálisak a római kapu fotózásához.",
                 "ro": "Lumina joasă de iarnă este ideală pentru fotografiile cu această poartă romană.",
-                "en": "The low winter light is ideal for photos of this Roman gate."
+                "en": "The low winter light is ideal for photos of this Roman gate.",
+                "es": "La baja luz invernal es ideal para fotos de esta puerta romana."
               }
             },
             {
@@ -763,7 +832,8 @@
                 "de": "Der Sonnenuntergang hier ist im Winter gegen 18:00 Uhr am schönsten.",
                 "hu": "A naplemente itt télen 18:00 körül a legszebb.",
                 "ro": "Apusul de aici este cel mai frumos iarna, în jurul orei 18:00.",
-                "en": "The sunset here is most beautiful in winter around 6:00 PM."
+                "en": "The sunset here is most beautiful in winter around 6:00 PM.",
+                "es": "El atardecer aquí es más bello en invierno alrededor de las 18:00."
               }
             }
           ],
@@ -791,6 +861,12 @@
               "Sun protection is important even in winter, as the Andalusian sun stays strong.",
               "Cafés often serve churros with chocolate now – a winter must-try.",
               "Schedule outdoor activities before 5:30 PM before the light fades."
+            ],
+            "es": [
+              "Abrígate por capas: fresco por la mañana, agradable y cálido al sol al mediodía.",
+              "La protección solar es importante incluso en invierno, ya que el sol andaluz sigue siendo intenso.",
+              "Los cafés suelen servir churros con chocolate ahora; un imprescindible invernal.",
+              "Programa las actividades al aire libre antes de las 17:30, antes de que la luz decaiga."
             ]
           }
         }
@@ -809,7 +885,8 @@
             "de": "Necrópolis Romana",
             "hu": "Római nekropolisz",
             "ro": "Necropola Romană",
-            "en": "Roman Necropolis"
+            "en": "Roman Necropolis",
+            "es": "Necrópolis romana"
           },
           "coords": [
             -5.655,
@@ -824,7 +901,8 @@
             "de": "Großes Gelände, ideal mit dem Rad erreichbar.",
             "hu": "Nagy terület, biciklivel könnyen elérhető.",
             "ro": "Zonă mare, ușor accesibilă cu bicicleta.",
-            "en": "Large site, easily reached by bike."
+            "en": "Large site, easily reached by bike.",
+            "es": "Extenso y de fácil acceso en bicicleta."
           }
         },
         {
@@ -832,7 +910,8 @@
             "de": "Alcázar de la Puerta de Sevilla",
             "hu": "Sevillai kapu erőd",
             "ro": "Alcázar de la Puerta de Sevilla",
-            "en": "Alcázar de la Puerta de Sevilla"
+            "en": "Alcázar de la Puerta de Sevilla",
+            "es": "Alcázar de la Puerta de Sevilla"
           },
           "coords": [
             -5.6425,
@@ -847,7 +926,8 @@
             "de": "Schließen Sie das Rad am Eingang ab.",
             "hu": "Zárd le a biciklit a bejáratnál.",
             "ro": "Încuiați bicicleta la intrare.",
-            "en": "Lock your bike at the entrance."
+            "en": "Lock your bike at the entrance.",
+            "es": "Asegura tu bicicleta en la entrada."
           }
         },
         {
@@ -855,7 +935,8 @@
             "de": "Plaza de Abastos",
             "hu": "Piac tér",
             "ro": "Plaza de Abastos",
-            "en": "Plaza de Abastos"
+            "en": "Plaza de Abastos",
+            "es": "Plaza de Abastos"
           },
           "coords": [
             -5.641,
@@ -870,7 +951,8 @@
             "de": "Guter Ort für eine Pause.",
             "hu": "Jó hely egy pihenőre.",
             "ro": "Loc bun pentru o pauză.",
-            "en": "Good place for a break."
+            "en": "Good place for a break.",
+            "es": "Buen lugar para hacer una pausa."
           }
         },
         {
@@ -878,7 +960,8 @@
             "de": "Iglesia de Santa María",
             "hu": "Mária templom",
             "ro": "Iglesia de Santa María",
-            "en": "Church of Santa María"
+            "en": "Church of Santa María",
+            "es": "Iglesia de Santa María"
           },
           "coords": [
             -5.639,
@@ -893,7 +976,8 @@
             "de": "Architektonisches Highlight.",
             "hu": "Építészeti fénypont.",
             "ro": "Punct culminant arhitectural.",
-            "en": "Architectural highlight."
+            "en": "Architectural highlight.",
+            "es": "Un atractivo arquitectónico."
           }
         },
         {
@@ -901,7 +985,8 @@
             "de": "Museo de la Ciudad",
             "hu": "Városi Múzeum",
             "ro": "Muzeul Orașului",
-            "en": "City Museum"
+            "en": "City Museum",
+            "es": "Museo de la Ciudad"
           },
           "coords": [
             -5.6385,
@@ -916,7 +1001,8 @@
             "de": "Sehr informativ.",
             "hu": "Nagyon informatív.",
             "ro": "Foarte informativ.",
-            "en": "Very informative."
+            "en": "Very informative.",
+            "es": "Muy informativo."
           }
         },
         {
@@ -924,7 +1010,8 @@
             "de": "Puerta de Córdoba",
             "hu": "Cordobai kapu",
             "ro": "Puerta de Córdoba",
-            "en": "Puerta de Córdoba"
+            "en": "Puerta de Córdoba",
+            "es": "Puerta de Córdoba"
           },
           "coords": [
             -5.635,
@@ -939,7 +1026,8 @@
             "de": "Das Tor zum Osten.",
             "hu": "A keleti kapu.",
             "ro": "Poarta către est.",
-            "en": "The gate to the east."
+            "en": "The gate to the east.",
+            "es": "La puerta hacia el este."
           }
         },
         {
@@ -947,7 +1035,8 @@
             "de": "Alcázar del Rey Don Pedro",
             "hu": "Don Pedro király erődje",
             "ro": "Alcázar del Rey Don Pedro",
-            "en": "Alcázar del Rey Don Pedro"
+            "en": "Alcázar del Rey Don Pedro",
+            "es": "Alcázar del Rey Don Pedro"
           },
           "coords": [
             -5.632,
@@ -962,7 +1051,8 @@
             "de": "Anspruchsvolle Auffahrt.",
             "hu": "Kihívást jelentő emelkedő.",
             "ro": "Urcare solicitantă.",
-            "en": "Challenging uphill ride."
+            "en": "Challenging uphill ride.",
+            "es": "Ascenso exigente."
           }
         }
       ],
@@ -970,7 +1060,8 @@
         "de": "Erkunden Sie Carmona mit dem Fahrrad, von der antiken Nekropole bis zum höchstgelegenen Alcázar.",
         "hu": "Fedezd fel Carmonát biciklivel, az antik nekropolisztól a legmagasabban fekvő erődítményig.",
         "ro": "Explorați Carmona cu bicicleta, de la necropola antică până la cel mai înalt Alcázar.",
-        "en": "Explore Carmona by bike, from the ancient necropolis to the highest fortress."
+        "en": "Explore Carmona by bike, from the ancient necropolis to the highest fortress.",
+        "es": "Explora Carmona en bicicleta, desde la antigua necrópolis hasta la fortaleza más alta."
       },
       "gastro_picks": {
         "de": [
@@ -1070,6 +1161,10 @@
         "en": [
           "The old town has many steep sections.",
           "Pay attention to one-way streets."
+        ],
+        "es": [
+          "El casco antiguo tiene muchas pendientes pronunciadas.",
+          "Presta atención a las calles de sentido único."
         ]
       },
       "variants": {
@@ -1078,7 +1173,8 @@
             "de": "Erkunden Sie Carmona mit dem Fahrrad, von der antiken Nekropole bis zum höchstgelegenen Alcázar.",
             "hu": "Fedezd fel Carmonát biciklivel, az antik nekropolisztól a legmagasabban fekvő erődítményig.",
             "ro": "Explorați Carmona cu bicicleta, de la necropola antică până la cel mai înalt Alcázar.",
-            "en": "Explore Carmona by bike, from the ancient necropolis to the highest fortress."
+            "en": "Explore Carmona by bike, from the ancient necropolis to the highest fortress.",
+            "es": "Explora Carmona en bicicleta, desde la antigua necrópolis hasta la fortaleza más alta."
           },
           "stops": [
             {
@@ -1086,13 +1182,15 @@
                 "de": "Necrópolis Romana",
                 "hu": "Római nekropolisz",
                 "ro": "Necropola Romană",
-                "en": "Roman Necropolis"
+                "en": "Roman Necropolis",
+                "es": "Necrópolis romana"
               },
               "tip_5lang": {
                 "de": "Großes Gelände, ideal mit dem Rad erreichbar.",
                 "hu": "Nagy terület, biciklivel könnyen elérhető.",
                 "ro": "Zonă mare, ușor accesibilă cu bicicleta.",
-                "en": "Large site, easily reached by bike."
+                "en": "Large site, easily reached by bike.",
+                "es": "Gran yacimiento, de fácil acceso en bicicleta."
               }
             },
             {
@@ -1100,13 +1198,15 @@
                 "de": "Alcázar de la Puerta de Sevilla",
                 "hu": "Sevillai kapu erőd",
                 "ro": "Alcázar de la Puerta de Sevilla",
-                "en": "Alcázar de la Puerta de Sevilla"
+                "en": "Alcázar de la Puerta de Sevilla",
+                "es": "Alcázar de la Puerta de Sevilla"
               },
               "tip_5lang": {
                 "de": "Schließen Sie das Rad am Eingang ab.",
                 "hu": "Zárd le a biciklit a bejáratnál.",
                 "ro": "Încuiați bicicleta la intrare.",
-                "en": "Lock your bike at the entrance."
+                "en": "Lock your bike at the entrance.",
+                "es": "Asegura tu bicicleta en la entrada."
               }
             },
             {
@@ -1114,13 +1214,15 @@
                 "de": "Plaza de Abastos",
                 "hu": "Piac tér",
                 "ro": "Plaza de Abastos",
-                "en": "Plaza de Abastos"
+                "en": "Plaza de Abastos",
+                "es": "Plaza de Abastos"
               },
               "tip_5lang": {
                 "de": "Guter Ort für eine Pause.",
                 "hu": "Jó hely egy pihenőre.",
                 "ro": "Loc bun pentru o pauză.",
-                "en": "Good place for a break."
+                "en": "Good place for a break.",
+                "es": "Buen lugar para descansar."
               }
             },
             {
@@ -1128,13 +1230,15 @@
                 "de": "Iglesia de Santa María",
                 "hu": "Mária templom",
                 "ro": "Iglesia de Santa María",
-                "en": "Church of Santa María"
+                "en": "Church of Santa María",
+                "es": "Iglesia de Santa María"
               },
               "tip_5lang": {
                 "de": "Architektonisches Highlight.",
                 "hu": "Építészeti fénypont.",
                 "ro": "Punct culminant arhitectural.",
-                "en": "Architectural highlight."
+                "en": "Architectural highlight.",
+                "es": "Recurso arquitectónico destacado."
               }
             },
             {
@@ -1142,13 +1246,15 @@
                 "de": "Museo de la Ciudad",
                 "hu": "Városi Múzeum",
                 "ro": "Muzeul Orașului",
-                "en": "City Museum"
+                "en": "City Museum",
+                "es": "Museo de la Ciudad"
               },
               "tip_5lang": {
                 "de": "Sehr informativ.",
                 "hu": "Nagyon informatív.",
                 "ro": "Foarte informativ.",
-                "en": "Very informative."
+                "en": "Very informative.",
+                "es": "Muy informativo."
               }
             },
             {
@@ -1156,13 +1262,15 @@
                 "de": "Puerta de Córdoba",
                 "hu": "Cordobai kapu",
                 "ro": "Puerta de Córdoba",
-                "en": "Puerta de Córdoba"
+                "en": "Puerta de Córdoba",
+                "es": "Puerta de Córdoba"
               },
               "tip_5lang": {
                 "de": "Das Tor zum Osten.",
                 "hu": "A keleti kapu.",
                 "ro": "Poarta către est.",
-                "en": "The gate to the east."
+                "en": "The gate to the east.",
+                "es": "La puerta del este."
               }
             },
             {
@@ -1170,13 +1278,15 @@
                 "de": "Alcázar del Rey Don Pedro",
                 "hu": "Don Pedro király erődje",
                 "ro": "Alcázar del Rey Don Pedro",
-                "en": "Alcázar del Rey Don Pedro"
+                "en": "Alcázar del Rey Don Pedro",
+                "es": "Alcázar del Rey Don Pedro"
               },
               "tip_5lang": {
                 "de": "Anspruchsvolle Auffahrt.",
                 "hu": "Kihívást jelentő emelkedő.",
                 "ro": "Urcare solicitantă.",
-                "en": "Challenging uphill ride."
+                "en": "Challenging uphill ride.",
+                "es": "Ascenso exigente."
               }
             }
           ],
@@ -1278,6 +1388,10 @@
             "en": [
               "The old town has many steep sections.",
               "Pay attention to one-way streets."
+            ],
+            "es": [
+              "El casco antiguo tiene muchas pendientes pronunciadas.",
+              "Presta atención a las calles de sentido único."
             ]
           }
         },
@@ -1286,7 +1400,8 @@
             "de": "Radfahren in Carmona bei Regen erfordert Vorsicht auf dem Kopfsteinpflaster. Der Morgen führt zur Nekropole auf asphaltierten Straßen. Mittags suchen wir Schutz in der Puerta de Sevilla. Der Nachmittag wird ruhiger mit Besuchen von Museen, während das Fahrrad sicher geparkt ist. Wir beenden die Tour vorsichtig am Parador.",
             "hu": "A kerékpározás esőben Carmonában óvatosságot igényel a macskaköveken. A reggel aszfaltozott utakon vezet a Nekropoliszhoz. Délben a Puerta de Sevilla ívei alatt pihenünk meg. A délutánt múzeumlátogatással töltjük, miközben a bringák biztonságban pihennek. A túrát óvatosan zárjuk a várkastélynál.",
             "ro": "Mersul pe bicicletă în Carmona pe ploaie necesită prudență pe pavaj. Dimineața duce la Necropolă pe drumuri asfaltate. La prânz căutăm adăpost la Puerta de Sevilla. După-amiaza este mai liniștită, cu vizite la muzee în timp ce bicicleta este parcată în siguranță. Încheiem turul cu atenție la Parador.",
-            "en": "Cycling in Carmona during rain requires caution on the cobblestones. The morning leads to the Necropolis on paved roads. At noon, we find shelter under the arches of Puerta de Sevilla. The afternoon is calmer with museum visits while bikes are safely parked. We finish the tour carefully at the Parador."
+            "en": "Cycling in Carmona during rain requires caution on the cobblestones. The morning leads to the Necropolis on paved roads. At noon, we find shelter under the arches of Puerta de Sevilla. The afternoon is calmer with museum visits while bikes are safely parked. We finish the tour carefully at the Parador.",
+            "es": "Circular por Carmona con lluvia exige precaución en los empedrados. Por la mañana se llega a la Necrópolis por carreteras asfaltadas. Al mediodía, buscamos refugio bajo los arcos de la Puerta de Sevilla. La tarde es más tranquila con visitas a museos mientras las bicicletas quedan aparcadas con seguridad. Terminamos el recorrido con cuidado en el Parador."
           },
           "stops": [
             {
@@ -1295,7 +1410,8 @@
                 "de": "Vorsicht auf dem unbefestigten Weg zum Eingang; es kann matschig sein.",
                 "hu": "Vigyázat a bejárat felé vezető úton; sáros lehet.",
                 "ro": "Atenție pe drumul neasfaltat spre intrare; poate fi noroios.",
-                "en": "Caution on the unpaved path to the entrance; it can be muddy."
+                "en": "Caution on the unpaved path to the entrance; it can be muddy.",
+                "es": "Precaución en el camino sin pavimentar hasta la entrada; puede estar embarrado."
               }
             },
             {
@@ -1304,7 +1420,8 @@
                 "de": "Parken Sie das Rad im Windschatten der Mauern.",
                 "hu": "Parkolja a bringát a falak szélvédett oldalán.",
                 "ro": "Parcați bicicleta la adăpostul zidurilor.",
-                "en": "Park your bike in the lee of the walls."
+                "en": "Park your bike in the lee of the walls.",
+                "es": "Aparca tu bici resguardada por los muros."
               }
             },
             {
@@ -1313,7 +1430,8 @@
                 "de": "Fahren Sie auf den Fliesen besonders langsam.",
                 "hu": "A csempézett részeken közlekedjen különösen lassan.",
                 "ro": "Conduceți foarte încet pe zonele cu gresie.",
-                "en": "Ride extra slowly on the tiled areas."
+                "en": "Ride extra slowly on the tiled areas.",
+                "es": "Circula muy despacio en las zonas enlosadas."
               }
             },
             {
@@ -1322,7 +1440,8 @@
                 "de": "Gute Gelegenheit für eine längere Pause im Trockenen.",
                 "hu": "Jó alkalom egy hosszabb száraz pihenőre.",
                 "ro": "O bună ocazie pentru o pauză mai lungă la adăpost.",
-                "en": "A good opportunity for a longer dry break."
+                "en": "A good opportunity for a longer dry break.",
+                "es": "Buena oportunidad para una pausa larga y seca."
               }
             },
             {
@@ -1331,7 +1450,8 @@
                 "de": "Nutzen Sie die Fahrradständer in der Nähe des Eingangs.",
                 "hu": "Használja a bejárat közeli kerékpártárolókat.",
                 "ro": "Folosiți rastelele de biciclete de lângă intrare.",
-                "en": "Use the bike racks near the entrance."
+                "en": "Use the bike racks near the entrance.",
+                "es": "Utiliza los aparcabicicletas cerca de la entrada."
               }
             },
             {
@@ -1340,7 +1460,8 @@
                 "de": "Der Abstieg hierhin kann bei Nässe rutschig sein.",
                 "hu": "Az idevezető lejtő nedvesen csúszós lehet.",
                 "ro": "Coborârea spre acest punct poate fi alunecoasă pe umiditate.",
-                "en": "The descent to this point can be slippery when wet."
+                "en": "The descent to this point can be slippery when wet.",
+                "es": "El descenso hasta este punto puede resbalar con humedad."
               }
             },
             {
@@ -1349,7 +1470,8 @@
                 "de": "Die Auffahrt zum Parador ist steil; bei Regen rutschfest treten.",
                 "hu": "A Paradorhoz vezető út meredek; esőben figyeljen a tapadásra.",
                 "ro": "Urcarea spre Parador este abruptă; atenție la tracțiune pe ploaie.",
-                "en": "The climb to the Parador is steep; watch your traction in the rain."
+                "en": "The climb to the Parador is steep; watch your traction in the rain.",
+                "es": "La subida al Parador es empinada; controla la tracción con lluvia."
               }
             }
           ],
@@ -1377,6 +1499,12 @@
               "Avoid white road markings and metal manhole covers on the street.",
               "Wear a bright raincoat for better visibility to cars.",
               "The narrow alleys can be dark in the rain; keep your lights on."
+            ],
+            "es": [
+              "Frena con antelación, los frenos mojados requieren más distancia de parada.",
+              "Evita las marcas viales blancas y las tapas de registro metálicas en la calzada.",
+              "Lleva un impermeable de color llamativo para ser más visible a los coches.",
+              "Los callejones estrechos pueden estar oscuros con lluvia; mantén las luces encendidas."
             ]
           }
         },
@@ -1385,7 +1513,8 @@
             "de": "Eine Wintertour mit dem Rad bietet herrliche Weitblicke. Die kühle Brise am Morgen zur Nekropole wird durch die Bewegung schnell vergessen. Mittags genießen wir die Sonne auf der Plaza. Nachmittags erkunden wir die historischen Tore, bevor wir pünktlich zum Sonnenuntergang am Parador ankommen, um das goldene Licht über der Vega zu sehen.",
             "hu": "A téli kerékpártúra Carmonában gyönyörű kilátást kínál. A Nekropolisz felé vezető hűvös reggeli szelet a mozgás feledteti. Délben a főtéren sütkérezünk. Délután a történelmi kapukat fedezzük fel, majd pontosan naplementére érünk a várkastélyhoz, hogy lássuk a Vega feletti arany fényeket.",
             "ro": "Un tur de iarnă cu bicicleta oferă vederi superbe. Briza răcoroasă de dimineață spre Necropolă este uitată repede prin mișcare. La prânz ne bucurăm de soare în piață. După-amiaza explorăm porțile istorice, ajungând la Parador exact la apus pentru lumina aurie peste Vega.",
-            "en": "A winter bike tour offers magnificent wide views. The cool morning breeze to the Necropolis is quickly forgotten with movement. At noon, we soak up the sun in the plaza. In the afternoon, explore the historic gates before arriving at the Parador exactly for sunset to see the golden light over the Vega."
+            "en": "A winter bike tour offers magnificent wide views. The cool morning breeze to the Necropolis is quickly forgotten with movement. At noon, we soak up the sun in the plaza. In the afternoon, explore the historic gates before arriving at the Parador exactly for sunset to see the golden light over the Vega.",
+            "es": "Un paseo en bici en invierno ofrece vistas amplias magníficas. La brisa fresca matutina hacia la Necrópolis se olvida pronto con el movimiento. Al mediodía tomamos el sol en la plaza. Por la tarde, explora las puertas históricas antes de llegar al Parador justo para el atardecer y ver la luz dorada sobre la Vega."
           },
           "stops": [
             {
@@ -1394,7 +1523,8 @@
                 "de": "Handschuhe sind für die morgendliche Fahrt unerlässlich.",
                 "hu": "A kesztyű elengedhetetlen a reggeli tekeréshez.",
                 "ro": "Mănușile sunt esențiale pentru plimbarea de dimineață.",
-                "en": "Gloves are essential for the early morning ride."
+                "en": "Gloves are essential for the early morning ride.",
+                "es": "Los guantes son imprescindibles para la salida temprana."
               }
             },
             {
@@ -1403,7 +1533,8 @@
                 "de": "Parken Sie das Rad in der Sonne, um den Sattel warm zu halten.",
                 "hu": "Parkolja a bringát a napon, hogy a nyereg meleg maradjon.",
                 "ro": "Parcați bicicleta la soare pentru a păstra șaua caldă.",
-                "en": "Park your bike in the sun to keep the saddle warm."
+                "en": "Park your bike in the sun to keep the saddle warm.",
+                "es": "Aparca la bici al sol para mantener el sillín caliente."
               }
             },
             {
@@ -1412,7 +1543,8 @@
                 "de": "Perfekt für eine Pause in der Mittagssonne.",
                 "hu": "Tökéletes pihenőhely a déli napsütésben.",
                 "ro": "Perfect pentru o pauză în soarele de la amiază.",
-                "en": "Perfect for a break in the midday sun."
+                "en": "Perfect for a break in the midday sun.",
+                "es": "Perfecto para una pausa al mediodía bajo el sol."
               }
             },
             {
@@ -1421,7 +1553,8 @@
                 "de": "Im Inneren ist es oft wärmer als im Schatten der Gassen.",
                 "hu": "Benn gyakran melegebb van, mint a sikátorok árnyékában.",
                 "ro": "În interior este adesea mai cald decât la umbra străzilor.",
-                "en": "It is often warmer inside than in the shadows of the alleys."
+                "en": "It is often warmer inside than in the shadows of the alleys.",
+                "es": "A menudo hace más calor en el interior que en las sombras de los callejones."
               }
             },
             {
@@ -1430,7 +1563,8 @@
                 "de": "Guter Stopp, wenn die Nachmittagskälte einsetzt.",
                 "hu": "Jó megálló, amikor a délutáni lehűlés megkezdődik.",
                 "ro": "O oprire bună când începe răcoarea de după-amiază.",
-                "en": "Good stop when the afternoon chill sets in."
+                "en": "Good stop when the afternoon chill sets in.",
+                "es": "Buen punto de parada cuando llega el fresco de la tarde."
               }
             },
             {
@@ -1439,7 +1573,8 @@
                 "de": "Genießen Sie den weiten Blick über die winterliche Ebene.",
                 "hu": "Élvezze a távoli kilátást a téli síkságra.",
                 "ro": "Bucurați-vă de vederea largă peste câmpia de iarnă.",
-                "en": "Enjoy the wide view over the winter plains."
+                "en": "Enjoy the wide view over the winter plains.",
+                "es": "Disfruta de la amplia vista sobre las llanuras invernales."
               }
             },
             {
@@ -1448,7 +1583,8 @@
                 "de": "Nach 17:30 Uhr sinkt die Temperatur schnell; Jacke bereithalten.",
                 "hu": "17:30 után a hőmérséklet gyorsan süllyed; készítse a kabátot.",
                 "ro": "După ora 17:30 temperatura scade rapid; pregătiți jacheta.",
-                "en": "After 5:30 PM, the temperature drops quickly; have your jacket ready."
+                "en": "After 5:30 PM, the temperature drops quickly; have your jacket ready.",
+                "es": "Después de las 17:30 la temperatura baja rápidamente; lleva la chaqueta lista."
               }
             }
           ],
@@ -1476,6 +1612,12 @@
               "The winter sun is low; sunglasses are important while riding.",
               "Check tire pressure, as it can drop slightly in the cold.",
               "Take a thermos with a warm drink for your breaks."
+            ],
+            "es": [
+              "Lleva un buff para el cuello contra el viento frío al rodar.",
+              "El sol invernal está bajo; las gafas de sol son importantes al circular.",
+              "Revisa la presión de los neumáticos, ya que puede bajar ligeramente con el frío.",
+              "Lleva un termo con bebida caliente para las pausas."
             ]
           }
         }
@@ -1494,7 +1636,8 @@
             "de": "Necrópolis Romana",
             "hu": "Római nekropolisz",
             "ro": "Necropola Romană",
-            "en": "Roman Necropolis"
+            "en": "Roman Necropolis",
+            "es": "Necrópolis romana"
           },
           "coords": [
             -5.655,
@@ -1509,7 +1652,8 @@
             "de": "Eigener Parkplatz vorhanden.",
             "hu": "Saját parkoló áll rendelkezésre.",
             "ro": "Parcare proprie disponibilă.",
-            "en": "Own parking available."
+            "en": "Own parking available.",
+            "es": "Aparcamiento propio disponible."
           }
         },
         {
@@ -1517,7 +1661,8 @@
             "de": "Alcázar de la Puerta de Sevilla",
             "hu": "Sevillai kapu erőd",
             "ro": "Alcázar de la Puerta de Sevilla",
-            "en": "Alcázar de la Puerta de Sevilla"
+            "en": "Alcázar de la Puerta de Sevilla",
+            "es": "Alcázar de la Puerta de Sevilla"
           },
           "coords": [
             -5.6425,
@@ -1532,7 +1677,8 @@
             "de": "Parken Sie am Paseo del Estatuto.",
             "hu": "Parkolj a Paseo del Estatuto mentén.",
             "ro": "Parcați la Paseo del Estatuto.",
-            "en": "Park at Paseo del Estatuto."
+            "en": "Park at Paseo del Estatuto.",
+            "es": "Aparca en Paseo del Estatuto."
           }
         },
         {
@@ -1540,7 +1686,8 @@
             "de": "Iglesia de Santa María",
             "hu": "Mária templom",
             "ro": "Iglesia de Santa María",
-            "en": "Church of Santa María"
+            "en": "Church of Santa María",
+            "es": "Iglesia de Santa María"
           },
           "coords": [
             -5.639,
@@ -1555,7 +1702,8 @@
             "de": "Sehr enge Straßen im Umkreis.",
             "hu": "Nagyon szűk utcák a környéken.",
             "ro": "Străzi foarte înguste în zonă.",
-            "en": "Very narrow streets in the area."
+            "en": "Very narrow streets in the area.",
+            "es": "Calles muy estrechas en la zona."
           }
         },
         {
@@ -1563,7 +1711,8 @@
             "de": "Museo de la Ciudad",
             "hu": "Városi Múzeum",
             "ro": "Muzeul Orașului",
-            "en": "City Museum"
+            "en": "City Museum",
+            "es": "Museo de la Ciudad"
           },
           "coords": [
             -5.6385,
@@ -1578,7 +1727,8 @@
             "de": "Historisches Herrenhaus.",
             "hu": "Történelmi kúria épülete.",
             "ro": "Clădire conac istoric.",
-            "en": "Historic manor house building."
+            "en": "Historic manor house building.",
+            "es": "Casa señorial histórica."
           }
         },
         {
@@ -1586,7 +1736,8 @@
             "de": "Convento de Santa Clara",
             "hu": "Szent Klára kolostor",
             "ro": "Convento de Santa Clara",
-            "en": "Convent of Santa Clara"
+            "en": "Convent of Santa Clara",
+            "es": "Convento de Santa Clara"
           },
           "coords": [
             -5.6375,
@@ -1601,7 +1752,8 @@
             "de": "Halt für Süßigkeiten.",
             "hu": "Állj meg egy kis édességért.",
             "ro": "Oprire pentru dulciuri.",
-            "en": "Stop for some sweets."
+            "en": "Stop for some sweets.",
+            "es": "Para a tomar algún dulce."
           }
         },
         {
@@ -1609,7 +1761,8 @@
             "de": "Puerta de Córdoba",
             "hu": "Cordobai kapu",
             "ro": "Puerta de Córdoba",
-            "en": "Puerta de Córdoba"
+            "en": "Puerta de Córdoba",
+            "es": "Puerta de Córdoba"
           },
           "coords": [
             -5.635,
@@ -1624,7 +1777,8 @@
             "de": "Fahrt durch das antike Tor.",
             "hu": "Hajts át az antik kapun.",
             "ro": "Conduceți prin poarta antică.",
-            "en": "Drive through the ancient gate."
+            "en": "Drive through the ancient gate.",
+            "es": "Circula a través de la puerta antigua."
           }
         },
         {
@@ -1632,7 +1786,8 @@
             "de": "Alcázar del Rey Don Pedro",
             "hu": "Don Pedro király erődje",
             "ro": "Alcázar del Rey Don Pedro",
-            "en": "Alcázar del Rey Don Pedro"
+            "en": "Alcázar del Rey Don Pedro",
+            "es": "Alcázar del Rey Don Pedro"
           },
           "coords": [
             -5.632,
@@ -1647,7 +1802,8 @@
             "de": "Beste Aussicht zum Abschluss.",
             "hu": "A legjobb kilátás a végére.",
             "ro": "Cea mai bună vedere la final.",
-            "en": "Best view to finish."
+            "en": "Best view to finish.",
+            "es": "Mejor mirador para terminar."
           }
         }
       ],
@@ -1655,7 +1811,8 @@
         "de": "Mit dem Auto können Sie die Nekropole und die verschiedenen Alcázares Carmonas bequem an einem Tag besuchen.",
         "hu": "Autóval kényelmesen bejárhatod a nekropoliszt és Carmona különböző erődítményeit egyetlen nap alatt.",
         "ro": "Cu mașina puteți vizita confortabil necropola și diferitele Alcázares din Carmona într-o singură zi.",
-        "en": "By car, you can comfortably visit the Necropolis and Carmona's various fortresses in a single day."
+        "en": "By car, you can comfortably visit the Necropolis and Carmona's various fortresses in a single day.",
+        "es": "En coche se puede visitar cómodamente la Necrópolis y las diversas fortalezas de Carmona en un solo día."
       },
       "gastro_picks": {
         "de": [
@@ -1755,6 +1912,10 @@
         "en": [
           "Park near the Puerta de Sevilla.",
           "Driving inside the old town is very challenging."
+        ],
+        "es": [
+          "Aparca cerca de la Puerta de Sevilla.",
+          "Conducir dentro del casco antiguo es muy complicado."
         ]
       },
       "variants": {
@@ -1763,7 +1924,8 @@
             "de": "Mit dem Auto können Sie die Nekropole und die verschiedenen Alcázares Carmonas bequem an einem Tag besuchen.",
             "hu": "Autóval kényelmesen bejárhatod a nekropoliszt és Carmona különböző erődítményeit egyetlen nap alatt.",
             "ro": "Cu mașina puteți vizita confortabil necropola și diferitele Alcázares din Carmona într-o singură zi.",
-            "en": "By car, you can comfortably visit the Necropolis and Carmona's various fortresses in a single day."
+            "en": "By car, you can comfortably visit the Necropolis and Carmona's various fortresses in a single day.",
+            "es": "En coche se puede visitar cómodamente la Necrópolis y las diversas fortalezas de Carmona en un solo día."
           },
           "stops": [
             {
@@ -1771,13 +1933,15 @@
                 "de": "Necrópolis Romana",
                 "hu": "Római nekropolisz",
                 "ro": "Necropola Romană",
-                "en": "Roman Necropolis"
+                "en": "Roman Necropolis",
+                "es": "Necrópolis romana"
               },
               "tip_5lang": {
                 "de": "Eigener Parkplatz vorhanden.",
                 "hu": "Saját parkoló áll rendelkezésre.",
                 "ro": "Parcare proprie disponibilă.",
-                "en": "Own parking available."
+                "en": "Own parking available.",
+                "es": "Aparcamiento propio disponible."
               }
             },
             {
@@ -1785,13 +1949,15 @@
                 "de": "Alcázar de la Puerta de Sevilla",
                 "hu": "Sevillai kapu erőd",
                 "ro": "Alcázar de la Puerta de Sevilla",
-                "en": "Alcázar de la Puerta de Sevilla"
+                "en": "Alcázar de la Puerta de Sevilla",
+                "es": "Alcázar de la Puerta de Sevilla"
               },
               "tip_5lang": {
                 "de": "Parken Sie am Paseo del Estatuto.",
                 "hu": "Parkolj a Paseo del Estatuto mentén.",
                 "ro": "Parcați la Paseo del Estatuto.",
-                "en": "Park at Paseo del Estatuto."
+                "en": "Park at Paseo del Estatuto.",
+                "es": "Aparca en Paseo del Estatuto."
               }
             },
             {
@@ -1799,13 +1965,15 @@
                 "de": "Iglesia de Santa María",
                 "hu": "Mária templom",
                 "ro": "Iglesia de Santa María",
-                "en": "Church of Santa María"
+                "en": "Church of Santa María",
+                "es": "Iglesia de Santa María"
               },
               "tip_5lang": {
                 "de": "Sehr enge Straßen im Umkreis.",
                 "hu": "Nagyon szűk utcák a környéken.",
                 "ro": "Străzi foarte înguste în zonă.",
-                "en": "Very narrow streets in the area."
+                "en": "Very narrow streets in the area.",
+                "es": "Calles muy estrechas en la zona."
               }
             },
             {
@@ -1813,13 +1981,15 @@
                 "de": "Museo de la Ciudad",
                 "hu": "Városi Múzeum",
                 "ro": "Muzeul Orașului",
-                "en": "City Museum"
+                "en": "City Museum",
+                "es": "Museo de la Ciudad"
               },
               "tip_5lang": {
                 "de": "Historisches Herrenhaus.",
                 "hu": "Történelmi kúria épülete.",
                 "ro": "Clădire conac istoric.",
-                "en": "Historic manor house building."
+                "en": "Historic manor house building.",
+                "es": "Casa señorial histórica."
               }
             },
             {
@@ -1827,13 +1997,15 @@
                 "de": "Convento de Santa Clara",
                 "hu": "Szent Klára kolostor",
                 "ro": "Convento de Santa Clara",
-                "en": "Convent of Santa Clara"
+                "en": "Convent of Santa Clara",
+                "es": "Convento de Santa Clara"
               },
               "tip_5lang": {
                 "de": "Halt für Süßigkeiten.",
                 "hu": "Állj meg egy kis édességért.",
                 "ro": "Oprire pentru dulciuri.",
-                "en": "Stop for some sweets."
+                "en": "Stop for some sweets.",
+                "es": "Para a tomar algún dulce."
               }
             },
             {
@@ -1841,13 +2013,15 @@
                 "de": "Puerta de Córdoba",
                 "hu": "Cordobai kapu",
                 "ro": "Puerta de Córdoba",
-                "en": "Puerta de Córdoba"
+                "en": "Puerta de Córdoba",
+                "es": "Puerta de Córdoba"
               },
               "tip_5lang": {
                 "de": "Fahrt durch das antike Tor.",
                 "hu": "Hajts át az antik kapun.",
                 "ro": "Conduceți prin poarta antică.",
-                "en": "Drive through the ancient gate."
+                "en": "Drive through the ancient gate.",
+                "es": "Circula a través de la puerta antigua."
               }
             },
             {
@@ -1855,13 +2029,15 @@
                 "de": "Alcázar del Rey Don Pedro",
                 "hu": "Don Pedro király erődje",
                 "ro": "Alcázar del Rey Don Pedro",
-                "en": "Alcázar del Rey Don Pedro"
+                "en": "Alcázar del Rey Don Pedro",
+                "es": "Alcázar del Rey Don Pedro"
               },
               "tip_5lang": {
                 "de": "Beste Aussicht zum Abschluss.",
                 "hu": "A legjobb kilátás a végére.",
                 "ro": "Cea mai bună vedere la final.",
-                "en": "Best view to finish."
+                "en": "Best view to finish.",
+                "es": "Mejor mirador para terminar."
               }
             }
           ],
@@ -1963,6 +2139,10 @@
             "en": [
               "Park near the Puerta de Sevilla.",
               "Driving inside the old town is very challenging."
+            ],
+            "es": [
+              "Aparca cerca de la Puerta de Sevilla.",
+              "Conducir dentro del casco antiguo es muy complicado."
             ]
           }
         },
@@ -1971,7 +2151,8 @@
             "de": "Im Auto ist Carmona bei Regen sehr komfortabel. Wir fahren direkt zur Nekropole und parken nah am Eingang. Danach geht es zur Altstadt, wo wir das Auto abstellen und die monumentalen Innenräume erkunden. Die kurzen Fahrten zwischen den Sehenswürdigkeiten halten uns trocken. Der Tag endet sicher am Parador.",
             "hu": "Autóval Carmona esőben is kényelmes. Közvetlenül a Nekropoliszhoz hajtunk, közel parkolva a bejárathoz. Ezután az óváros felé vesszük az irányt, ahol leparkolunk és felfedezzük a monumentális belső tereket. A látnivalók közötti rövid utak szárazon tartanak minket. A nap a várkastélynál zárul.",
             "ro": "Cu mașina, Carmona este foarte confortabilă pe ploaie. Mergem direct la Necropolă, parcând aproape de intrare. Apoi ne îndreptăm spre centrul vechi, unde lăsăm mașina și explorăm interioarele monumentale. Călătoriile scurte între obiective ne mențin uscați. Ziua se încheie în siguranță la Parador.",
-            "en": "By car, Carmona is very comfortable in the rain. We drive directly to the Necropolis, parking close to the entrance. Then we head to the old town, where we park and explore the monumental interiors. Short drives between sights keep us dry. The day ends safely at the Parador."
+            "en": "By car, Carmona is very comfortable in the rain. We drive directly to the Necropolis, parking close to the entrance. Then we head to the old town, where we park and explore the monumental interiors. Short drives between sights keep us dry. The day ends safely at the Parador.",
+            "es": "En coche, Carmona resulta muy cómoda con lluvia. Conducimos directamente a la Necrópolis, aparcando cerca de la entrada. Luego nos dirigimos al casco antiguo, donde aparcamos y exploramos los interiores monumentales. Los desplazamientos cortos entre puntos de interés nos mantienen secos. El día termina de forma segura en el Parador."
           },
           "stops": [
             {
@@ -1980,7 +2161,8 @@
                 "de": "Der Parkplatz ist bei Regen oft weniger voll; nutzen Sie die Nähe.",
                 "hu": "A parkoló esőben gyakran kevésbé foglalt; használja ki a közelséget.",
                 "ro": "Parcarea este adesea mai liberă pe ploaie; profitați de proximitate.",
-                "en": "The parking lot is often less crowded in the rain; take advantage of the proximity."
+                "en": "The parking lot is often less crowded in the rain; take advantage of the proximity.",
+                "es": "El aparcamiento suele estar menos concurrido con lluvia; aprovecha la proximidad."
               }
             },
             {
@@ -1989,7 +2171,8 @@
                 "de": "Parken Sie auf dem Paseo del Estatuto für einen kurzen Fußweg.",
                 "hu": "Parkoljon a Paseo del Estatuto úton a rövid séta érdekében.",
                 "ro": "Parcați pe Paseo del Estatuto pentru o plimbare scurtă.",
-                "en": "Park on Paseo del Estatuto for a short walk to the entrance."
+                "en": "Park on Paseo del Estatuto for a short walk to the entrance.",
+                "es": "Aparca en Paseo del Estatuto para caminar poco hasta la entrada."
               }
             },
             {
@@ -1998,7 +2181,8 @@
                 "de": "Lassen Sie den Schirm im Auto, wenn Sie nur schnell reinspringen.",
                 "hu": "Hagyja az ernyőt az autóban, ha csak gyorsan beugrik.",
                 "ro": "Lăsați umbrela în mașină dacă intrați doar rapid.",
-                "en": "Leave the umbrella in the car if you're just popping in quickly."
+                "en": "Leave the umbrella in the car if you're just popping in quickly.",
+                "es": "Deja el paraguas en el coche si solo vas a entrar rápidamente."
               }
             },
             {
@@ -2007,7 +2191,8 @@
                 "de": "Gute Gelegenheit, das Auto für eine längere Zeit sicher abzustellen.",
                 "hu": "Jó alkalom az autó hosszabb idejű biztonságos leállítására.",
                 "ro": "O bună ocazie de a lăsa mașina în siguranță pentru mai mult timp.",
-                "en": "Good opportunity to leave the car safely for a longer period."
+                "en": "Good opportunity to leave the car safely for a longer period.",
+                "es": "Buena oportunidad para dejar el coche con seguridad por más tiempo."
               }
             },
             {
@@ -2016,7 +2201,8 @@
                 "de": "Die Anfahrt durch die engen Gassen erfordert bei Nässe Vorsicht.",
                 "hu": "A szűk utcákon való közlekedés nedves úton óvatosságot igényel.",
                 "ro": "Accesul prin străzile înguste necesită prudență pe carosabil umed.",
-                "en": "Driving through narrow alleys requires caution when wet."
+                "en": "Driving through narrow alleys requires caution when wet.",
+                "es": "Conducir por los callejones estrechos requiere precaución con humedad."
               }
             },
             {
@@ -2025,7 +2211,8 @@
                 "de": "Fahren Sie vorsichtig unter dem Bogen hindurch; Boden ist rutschig.",
                 "hu": "Hajtson óvatosan a boltív alatt; az út csúszós lehet.",
                 "ro": "Conduceți cu atenție pe sub arc; carosabilul este alunecos.",
-                "en": "Drive carefully under the arch; the ground can be slippery."
+                "en": "Drive carefully under the arch; the ground can be slippery.",
+                "es": "Conduce con cuidado bajo el arco; el suelo puede estar resbaladizo."
               }
             },
             {
@@ -2034,7 +2221,8 @@
                 "de": "Nutzen Sie den Gästeparkplatz des Parador direkt am Ziel.",
                 "hu": "Használja a Parador vendégparkolóját közvetlenül a célnál.",
                 "ro": "Folosiți parcarea pentru oaspeți de la Parador chiar la destinație.",
-                "en": "Use the Parador guest parking right at the destination."
+                "en": "Use the Parador guest parking right at the destination.",
+                "es": "Utiliza el aparcamiento de huéspedes del Parador, justo en el destino."
               }
             }
           ],
@@ -2062,6 +2250,12 @@
               "Old town parking is very limited; use public parking lots just outside the walls.",
               "Watch out for pedestrians who might cross the street hurriedly in the rain.",
               "Keep your low beams on even during the day for better visibility."
+            ],
+            "es": [
+              "La visibilidad en callejones estrechos puede ser limitada durante fuertes lluvias.",
+              "El aparcamiento en el casco antiguo es muy limitado; usa los parkings públicos fuera de las murallas.",
+              "Cuidado con los peatones que pueden cruzar la calle con prisa bajo la lluvia.",
+              "Mantén las luces cortas encendidas incluso de día para mejorar la visibilidad."
             ]
           }
         },
@@ -2070,7 +2264,8 @@
             "de": "Winterfahrten nach Carmona bieten klare Sichten und einfache Anreise. Die Heizung im Auto sorgt für Komfort zwischen den kühlen Ruinen der Nekropole und den sonnigen Plätzen. Wir nutzen das Auto, um die verschiedenen Stadttore effizient zu besuchen, bevor wir den Tag beim Sonnenuntergang am Parador-Aussichtspunkt beenden.",
             "hu": "A téli autózás Carmonába tiszta látási viszonyokat és könnyű utat ígér. Az autó fűtése kényelmet nyújt a Nekropolisz hűvös romjai és a napsütötte terek között. Az autóval hatékonyan látogatjuk meg a különböző városkapukat, majd a napot a Parador kilátójánál zárjuk naplementekor.",
             "ro": "Călătoriile de iarnă spre Carmona oferă vizibilitate clară și acces ușor. Încălzirea din mașină asigură confort între ruinele reci și piețele însorite. Folosim mașina pentru a vizita eficient porțile orașului, înainte de a încheia ziua la punctul de belvedere de la Parador.",
-            "en": "Winter drives to Carmona offer clear views and easy access. The car's heater provides comfort between the cool ruins of the Necropolis and the sunny plazas. We use the car to efficiently visit the various city gates before ending the day at the Parador viewpoint for sunset."
+            "en": "Winter drives to Carmona offer clear views and easy access. The car's heater provides comfort between the cool ruins of the Necropolis and the sunny plazas. We use the car to efficiently visit the various city gates before ending the day at the Parador viewpoint for sunset.",
+            "es": "Las escapadas invernales a Carmona ofrecen vistas claras y acceso fácil. La calefacción del coche proporciona confort entre las frescas ruinas de la Necrópolis y las plazas soleadas. Usamos el coche para visitar con eficiencia las distintas puertas de la ciudad antes de terminar el día en el mirador del Parador para el atardecer."
           },
           "stops": [
             {
@@ -2079,7 +2274,8 @@
                 "de": "Das Auto wärmt sich in der Morgensonne schnell auf.",
                 "hu": "Az autó a reggeli napsütésben gyorsan felmelegszik.",
                 "ro": "Mașina se încălzește rapid în soarele de dimineață.",
-                "en": "The car warms up quickly in the morning sun."
+                "en": "The car warms up quickly in the morning sun.",
+                "es": "El coche se calienta rápido al sol de la mañana."
               }
             },
             {
@@ -2088,7 +2284,8 @@
                 "de": "Parken Sie im Schatten, wenn Sie empfindliche Gegenstände im Auto lassen.",
                 "hu": "Parkoljon árnyékban, ha érzékeny tárgyakat hagy az autóban.",
                 "ro": "Parcați la umbră dacă lăsați obiecte sensibile în mașină.",
-                "en": "Park in the shade if leaving sensitive items in the car."
+                "en": "Park in the shade if leaving sensitive items in the car.",
+                "es": "Aparca a la sombra si dejas objetos sensibles en el coche."
               }
             },
             {
@@ -2097,7 +2294,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz; genießen Sie die kühle Winterbrise.",
                 "hu": "Rövid séta a parkolótól; élvezze a hűvös téli szellőt.",
                 "ro": "Plimbare scurtă de la parcare; bucurați-vă de briza rece de iarnă.",
-                "en": "Short walk from the parking; enjoy the cool winter breeze."
+                "en": "Short walk from the parking; enjoy the cool winter breeze.",
+                "es": "Corto paseo desde el aparcamiento; disfruta de la fresca brisa invernal."
               }
             },
             {
@@ -2106,7 +2304,8 @@
                 "de": "Idealer Stopp, um die Mittagszeit im Warmen zu verbringen.",
                 "hu": "Ideális megálló a délidő melegben való töltéséhez.",
                 "ro": "Oprire ideală pentru a petrece amiaza la căldură.",
-                "en": "Ideal stop to spend the midday in the warmth."
+                "en": "Ideal stop to spend the midday in the warmth.",
+                "es": "Parada ideal para pasar el mediodía al calor."
               }
             },
             {
@@ -2115,7 +2314,8 @@
                 "de": "Die Zufahrt ist im Winter oft weniger durch Touristen blockiert.",
                 "hu": "A behajtást télen gyakran kevésbé akadályozzák a turisták.",
                 "ro": "Accesul este adesea mai puțin blocat de turiști iarna.",
-                "en": "Driving through is often less blocked by tourists in winter."
+                "en": "Driving through is often less blocked by tourists in winter.",
+                "es": "Conducir suele estar menos bloqueado por turistas en invierno."
               }
             },
             {
@@ -2124,7 +2324,8 @@
                 "de": "Halten Sie kurz für ein Foto; das Winterlicht ist perfekt.",
                 "hu": "Álljon meg egy fotóra; a téli fények tökéletesek.",
                 "ro": "Opriți scurt pentru o fotografie; lumina de iarnă este perfectă.",
-                "en": "Stop briefly for a photo; the winter light is perfect."
+                "en": "Stop briefly for a photo; the winter light is perfect.",
+                "es": "Para brevemente para una foto; la luz invernal es perfecta."
               }
             },
             {
@@ -2133,7 +2334,8 @@
                 "de": "Prüfen Sie die Sonnenuntergangszeit; parken Sie vor 17:45 Uhr.",
                 "hu": "Ellenőrizze a naplemente idejét; parkoljon le 17:45 előtt.",
                 "ro": "Verificați ora apusului; parcați înainte de ora 17:45.",
-                "en": "Check the sunset time; park before 5:45 PM."
+                "en": "Check the sunset time; park before 5:45 PM.",
+                "es": "Consulta la hora del atardecer; aparca antes de las 17:45."
               }
             }
           ],
@@ -2161,6 +2363,12 @@
               "The winter sun can be blinding while driving; use your sun visor.",
               "Use fog lights if there is morning mist over the Vega.",
               "Parking fees are sometimes lower during the off-season."
+            ],
+            "es": [
+              "La helada es rara, pero las carreteras pueden estar húmedas por la mañana.",
+              "El sol invernal puede deslumbrar al conducir; usa la visera.",
+              "Usa las luces antiniebla si hay niebla matutina sobre la Vega.",
+              "Las tarifas de aparcamiento a veces son más bajas en temporada baja."
             ]
           }
         }
@@ -2179,7 +2387,8 @@
             "de": "Necrópolis Romana",
             "hu": "Római nekropolisz",
             "ro": "Necropola Romană",
-            "en": "Roman Necropolis"
+            "en": "Roman Necropolis",
+            "es": "Necrópolis romana"
           },
           "coords": [
             -5.655,
@@ -2194,7 +2403,8 @@
             "de": "Bus hält direkt vor dem Eingang.",
             "hu": "A busz közvetlenül a bejárat előtt áll meg.",
             "ro": "Autobuzul oprește chiar în fața intrării.",
-            "en": "Bus stops right in front of the entrance."
+            "en": "Bus stops right in front of the entrance.",
+            "es": "El autobús para justo delante de la entrada."
           }
         },
         {
@@ -2202,7 +2412,8 @@
             "de": "Alcázar de la Puerta de Sevilla",
             "hu": "Sevillai kapu erőd",
             "ro": "Alcázar de la Puerta de Sevilla",
-            "en": "Alcázar de la Puerta de Sevilla"
+            "en": "Alcázar de la Puerta de Sevilla",
+            "es": "Alcázar de la Puerta de Sevilla"
           },
           "coords": [
             -5.6425,
@@ -2217,7 +2428,8 @@
             "de": "Wichtiger Verkehrsknotenpunkt.",
             "hu": "Fontos közlekedési csomópont.",
             "ro": "Nod important de transport.",
-            "en": "Important transit hub."
+            "en": "Important transit hub.",
+            "es": "Importante nudo de comunicaciones."
           }
         },
         {
@@ -2225,7 +2437,8 @@
             "de": "Iglesia de San Pedro",
             "hu": "Szent Péter templom",
             "ro": "Biserica San Pedro",
-            "en": "Church of San Pedro"
+            "en": "Church of San Pedro",
+            "es": "Iglesia de San Pedro"
           },
           "coords": [
             -5.642,
@@ -2240,7 +2453,8 @@
             "de": "Der Turm ähnelt der Giralda.",
             "hu": "A tornya a Giraldára hasonlít.",
             "ro": "Turnul său seamănă cu Giralda.",
-            "en": "The tower resembles the Giralda."
+            "en": "The tower resembles the Giralda.",
+            "es": "La torre recuerda a la Giralda."
           }
         },
         {
@@ -2248,7 +2462,8 @@
             "de": "Plaza de Abastos",
             "hu": "Piac tér",
             "ro": "Plaza de Abastos",
-            "en": "Plaza de Abastos"
+            "en": "Plaza de Abastos",
+            "es": "Plaza de Abastos"
           },
           "coords": [
             -5.641,
@@ -2263,7 +2478,8 @@
             "de": "Lokales Leben pur.",
             "hu": "Helyi élet a javából.",
             "ro": "Viața locală pură.",
-            "en": "Pure local life."
+            "en": "Pure local life.",
+            "es": "Vida local auténtica."
           }
         },
         {
@@ -2271,7 +2487,8 @@
             "de": "Iglesia de Santa María",
             "hu": "Mária templom",
             "ro": "Iglesia de Santa María",
-            "en": "Church of Santa María"
+            "en": "Church of Santa María",
+            "es": "Iglesia de Santa María"
           },
           "coords": [
             -5.639,
@@ -2286,7 +2503,8 @@
             "de": "Besuchen Sie den Innenhof.",
             "hu": "Látogasd meg a belső udvart.",
             "ro": "Vizitați curtea interioară.",
-            "en": "Visit the interior courtyard."
+            "en": "Visit the interior courtyard.",
+            "es": "Visita el patio interior."
           }
         },
         {
@@ -2294,7 +2512,8 @@
             "de": "Museo de la Stadt",
             "hu": "Városi Múzeum",
             "ro": "Muzeul Orașului",
-            "en": "City Museum"
+            "en": "City Museum",
+            "es": "Museo de la Ciudad"
           },
           "coords": [
             -5.6385,
@@ -2309,7 +2528,8 @@
             "de": "Wichtige Ausstellungen.",
             "hu": "Fontos kiállítások.",
             "ro": "Expoziții importante.",
-            "en": "Important exhibitions."
+            "en": "Important exhibitions.",
+            "es": "Exposiciones importantes."
           }
         },
         {
@@ -2317,7 +2537,8 @@
             "de": "Alcázar del Rey Don Pedro",
             "hu": "Don Pedro király erődje",
             "ro": "Alcázar del Rey Don Pedro",
-            "en": "Alcázar del Rey Don Pedro"
+            "en": "Alcázar del Rey Don Pedro",
+            "es": "Alcázar del Rey Don Pedro"
           },
           "coords": [
             -5.632,
@@ -2332,7 +2553,8 @@
             "de": "Letzter Stopp vor der Rückreise.",
             "hu": "Utolsó állomás a visszautazás előtt.",
             "ro": "Ultima oprire înainte de întoarcere.",
-            "en": "Last stop before the return trip."
+            "en": "Last stop before the return trip.",
+            "es": "Última parada antes del viaje de regreso."
           }
         }
       ],
@@ -2340,7 +2562,8 @@
         "de": "Die lokalen Busse verbinden die Außenbezirke mit dem Zentrum von Carmona.",
         "hu": "A helyi buszok összekötik a külvárost Carmona központjával.",
         "ro": "Autobuzele locale conectează periferia cu centrul orașului Carmona.",
-        "en": "Local buses connect the outskirts with the center of Carmona."
+        "en": "Local buses connect the outskirts with the center of Carmona.",
+        "es": "Los autobuses locales conectan las afueras con el centro de Carmona."
       },
       "gastro_picks": {
         "de": [
@@ -2440,6 +2663,10 @@
         "en": [
           "The bus from the station stops at the Puerta de Sevilla.",
           "Carmona is well-connected to Seville by bus."
+        ],
+        "es": [
+          "El autobús desde la estación para en la Puerta de Sevilla.",
+          "Carmona está bien comunicada con Sevilla en autobús."
         ]
       },
       "variants": {
@@ -2448,7 +2675,8 @@
             "de": "Die lokalen Busse verbinden die Außenbezirke mit dem Zentrum von Carmona.",
             "hu": "A helyi buszok összekötik a külvárost Carmona központjával.",
             "ro": "Autobuzele locale conectează periferia cu centrul orașului Carmona.",
-            "en": "Local buses connect the outskirts with the center of Carmona."
+            "en": "Local buses connect the outskirts with the center of Carmona.",
+            "es": "Los autobuses locales conectan las afueras con el centro de Carmona."
           },
           "stops": [
             {
@@ -2456,13 +2684,15 @@
                 "de": "Necrópolis Romana",
                 "hu": "Római nekropolisz",
                 "ro": "Necropola Romană",
-                "en": "Roman Necropolis"
+                "en": "Roman Necropolis",
+                "es": "Necrópolis romana"
               },
               "tip_5lang": {
                 "de": "Bus hält direkt vor dem Eingang.",
                 "hu": "A busz közvetlenül a bejárat előtt áll meg.",
                 "ro": "Autobuzul oprește chiar în fața intrării.",
-                "en": "Bus stops right in front of the entrance."
+                "en": "Bus stops right in front of the entrance.",
+                "es": "El autobús para justo delante de la entrada."
               }
             },
             {
@@ -2470,13 +2700,15 @@
                 "de": "Alcázar de la Puerta de Sevilla",
                 "hu": "Sevillai kapu erőd",
                 "ro": "Alcázar de la Puerta de Sevilla",
-                "en": "Alcázar de la Puerta de Sevilla"
+                "en": "Alcázar de la Puerta de Sevilla",
+                "es": "Alcázar de la Puerta de Sevilla"
               },
               "tip_5lang": {
                 "de": "Wichtiger Verkehrsknotenpunkt.",
                 "hu": "Fontos közlekedési csomópont.",
                 "ro": "Nod important de transport.",
-                "en": "Important transit hub."
+                "en": "Important transit hub.",
+                "es": "Importante nudo de comunicaciones."
               }
             },
             {
@@ -2484,13 +2716,15 @@
                 "de": "Iglesia de San Pedro",
                 "hu": "Szent Péter templom",
                 "ro": "Biserica San Pedro",
-                "en": "Church of San Pedro"
+                "en": "Church of San Pedro",
+                "es": "Iglesia de San Pedro"
               },
               "tip_5lang": {
                 "de": "Der Turm ähnelt der Giralda.",
                 "hu": "A tornya a Giraldára hasonlít.",
                 "ro": "Turnul său seamănă cu Giralda.",
-                "en": "The tower resembles the Giralda."
+                "en": "The tower resembles the Giralda.",
+                "es": "La torre recuerda a la Giralda."
               }
             },
             {
@@ -2498,13 +2732,15 @@
                 "de": "Plaza de Abastos",
                 "hu": "Piac tér",
                 "ro": "Plaza de Abastos",
-                "en": "Plaza de Abastos"
+                "en": "Plaza de Abastos",
+                "es": "Plaza de Abastos"
               },
               "tip_5lang": {
                 "de": "Lokales Leben pur.",
                 "hu": "Helyi élet a javából.",
                 "ro": "Viața locală pură.",
-                "en": "Pure local life."
+                "en": "Pure local life.",
+                "es": "Vida local auténtica."
               }
             },
             {
@@ -2512,13 +2748,15 @@
                 "de": "Iglesia de Santa María",
                 "hu": "Mária templom",
                 "ro": "Iglesia de Santa María",
-                "en": "Church of Santa María"
+                "en": "Church of Santa María",
+                "es": "Iglesia de Santa María"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie den Innenhof.",
                 "hu": "Látogasd meg a belső udvart.",
                 "ro": "Vizitați curtea interioară.",
-                "en": "Visit the interior courtyard."
+                "en": "Visit the interior courtyard.",
+                "es": "Visita el patio interior."
               }
             },
             {
@@ -2526,13 +2764,15 @@
                 "de": "Museo de la Stadt",
                 "hu": "Városi Múzeum",
                 "ro": "Muzeul Orașului",
-                "en": "City Museum"
+                "en": "City Museum",
+                "es": "Museo de la Ciudad"
               },
               "tip_5lang": {
                 "de": "Wichtige Ausstellungen.",
                 "hu": "Fontos kiállítások.",
                 "ro": "Expoziții importante.",
-                "en": "Important exhibitions."
+                "en": "Important exhibitions.",
+                "es": "Exposiciones importantes."
               }
             },
             {
@@ -2540,13 +2780,15 @@
                 "de": "Alcázar del Rey Don Pedro",
                 "hu": "Don Pedro király erődje",
                 "ro": "Alcázar del Rey Don Pedro",
-                "en": "Alcázar del Rey Don Pedro"
+                "en": "Alcázar del Rey Don Pedro",
+                "es": "Alcázar del Rey Don Pedro"
               },
               "tip_5lang": {
                 "de": "Letzter Stopp vor der Rückreise.",
                 "hu": "Utolsó állomás a visszautazás előtt.",
                 "ro": "Ultima oprire înainte de întoarcere.",
-                "en": "Last stop before the return trip."
+                "en": "Last stop before the return trip.",
+                "es": "Última parada antes del viaje de regreso."
               }
             }
           ],
@@ -2648,6 +2890,10 @@
             "en": [
               "The bus from the station stops at the Puerta de Sevilla.",
               "Carmona is well-connected to Seville by bus."
+            ],
+            "es": [
+              "El autobús desde la estación para en la Puerta de Sevilla.",
+              "Carmona está bien comunicada con Sevilla en autobús."
             ]
           }
         },
@@ -2656,7 +2902,8 @@
             "de": "Mit dem Bus durch Carmona bei Regen ist eine trockene Alternative. Wir starten an der Nekropole und nehmen den Bus zur Puerta de Sevilla. Mittags wärmen wir uns auf dem Markt auf. Den Nachmittag verbringen wir in den zentralen Kirchen und Museen, bevor uns der Transit sicher in die Nähe des Paradors bringt.",
             "hu": "Busszal közlekedni Carmonában esőben száraz alternatíva. A Nekropolisznál kezdünk, majd busszal megyünk a Puerta de Sevillához. Délben a piacon melegszünk fel. A délutánt a központi templomokban és múzeumokban töltjük, mielőtt a járat a várkastély közelébe vinne minket.",
             "ro": "Cu autobuzul prin Carmona pe ploaie este o alternativă uscată. Începem la Necropolă și luăm autobuzul spre Puerta de Sevilla. La prânz ne încălzim în piață. După-amiaza o petrecem în bisericile și muzeele centrale, înainte ca transportul să ne ducă aproape de Parador.",
-            "en": "Taking the bus through Carmona in the rain is a dry alternative. We start at the Necropolis and take the bus to Puerta de Sevilla. At noon, we warm up at the market. Spend the afternoon in the central churches and museums before transit takes us near the Parador."
+            "en": "Taking the bus through Carmona in the rain is a dry alternative. We start at the Necropolis and take the bus to Puerta de Sevilla. At noon, we warm up at the market. Spend the afternoon in the central churches and museums before transit takes us near the Parador.",
+            "es": "Tomar el autobús por Carmona con lluvia es una alternativa seca. Empezamos en la Necrópolis y tomamos el autobús hasta la Puerta de Sevilla. Al mediodía, nos calentamos en el mercado. Pasamos la tarde en las iglesias y museos centrales antes de que el transporte nos acerque al Parador."
           },
           "stops": [
             {
@@ -2665,7 +2912,8 @@
                 "de": "Warten Sie im Unterstand der Bushaltestelle auf den Bus.",
                 "hu": "Várja a buszt a megálló fedett várójában.",
                 "ro": "Așteptați autobuzul în adăpostul stației.",
-                "en": "Wait for the bus in the shelter of the bus stop."
+                "en": "Wait for the bus in the shelter of the bus stop.",
+                "es": "Espera el autobús bajo la marquesina de la parada."
               }
             },
             {
@@ -2674,7 +2922,8 @@
                 "de": "Die Haltestelle ist fast direkt vor dem Eingang.",
                 "hu": "A megálló szinte közvetlenül a bejárat előtt van.",
                 "ro": "Stația este aproape direct în fața intrării.",
-                "en": "The stop is almost directly in front of the entrance."
+                "en": "The stop is almost directly in front of the entrance.",
+                "es": "La parada está casi directamente frente a la entrada."
               }
             },
             {
@@ -2683,7 +2932,8 @@
                 "de": "Ein kurzer Sprint vom Bus ins Innere hält Sie trocken.",
                 "hu": "Egy rövid sprint a busztól a bejáratig szárazon tartja.",
                 "ro": "Un sprint scurt de la autobuz spre interior vă menține uscat.",
-                "en": "A short sprint from the bus to the interior keeps you dry."
+                "en": "A short sprint from the bus to the interior keeps you dry.",
+                "es": "Un pequeño sprint desde el autobús al interior te mantiene seco."
               }
             },
             {
@@ -2692,7 +2942,8 @@
                 "de": "Ideal zum Aufwärmen zwischen den Fahrten.",
                 "hu": "Ideális a felmelegedéshez két utazás között.",
                 "ro": "Ideal pentru încălzire între călătorii.",
-                "en": "Ideal for warming up between rides."
+                "en": "Ideal for warming up between rides.",
+                "es": "Ideal para entrar en calor entre trayectos."
               }
             },
             {
@@ -2701,7 +2952,8 @@
                 "de": "In der Nähe gibt es viele überdachte Cafés.",
                 "hu": "A közelben sok fedett kávézó található.",
                 "ro": "Există multe cafenele acoperite în apropiere.",
-                "en": "There are many covered cafés nearby."
+                "en": "There are many covered cafés nearby.",
+                "es": "Hay muchos cafés cubiertos cerca."
               }
             },
             {
@@ -2710,7 +2962,8 @@
                 "de": "Prüfen Sie die Buszeiten für die Weiterfahrt im Museum.",
                 "hu": "Ellenőrizze a buszmenetrendet a múzeumban a továbbúthoz.",
                 "ro": "Verificați orarul autobuzelor pentru continuarea drumului în muzeu.",
-                "en": "Check bus times for your onward journey while in the museum."
+                "en": "Check bus times for your onward journey while in the museum.",
+                "es": "Consulta los horarios de autobús para tu siguiente trayecto mientras estés en el museo."
               }
             },
             {
@@ -2719,7 +2972,8 @@
                 "de": "Der Bus hält am Fuße des Hügels; Schirm bereithalten.",
                 "hu": "A busz a domb lábánál áll meg; készítse az ernyőt.",
                 "ro": "Autobuzul oprește la baza dealului; pregătiți umbrela.",
-                "en": "The bus stops at the foot of the hill; have your umbrella ready."
+                "en": "The bus stops at the foot of the hill; have your umbrella ready.",
+                "es": "El autobús para al pie de la colina; ten la sombrilla lista."
               }
             }
           ],
@@ -2747,6 +3001,12 @@
               "Have small change or your ticket ready to avoid delays at boarding.",
               "Bus stops don't always offer perfect rain shelter; be prepared.",
               "Buses may have slight delays during rain due to increased traffic."
+            ],
+            "es": [
+              "Los autobuses pueden tener las ventanas empañadas durante la lluvia.",
+              "Ten cambio pequeño o el billete listo para evitar retrasos al subir.",
+              "Las paradas de autobús no siempre ofrecen una protección perfecta contra la lluvia; ve preparado.",
+              "Los autobuses pueden sufrir pequeños retrasos con lluvia por el incremento del tráfico."
             ]
           }
         },
@@ -2755,7 +3015,8 @@
             "de": "Winterlicher Transit in Carmona ist effizient und warm. Der Morgenbus bringt uns zur kühlen Nekropole. Mittags nutzen wir die Verbindungen zu den sonnigen Plätzen. Nachmittags erkunden wir Museen und beenden den Tag pünktlich zum Sonnenuntergang an den höchsten Punkten der Stadt, bequem mit dem lokalen Transit erreichbar.",
             "hu": "A téli közlekedés Carmonában hatékony és meleg. A reggeli busz a hűvös Nekropoliszhoz visz minket. Délben a napsütötte terek felé vesszük az irányt. Délután múzeumokat látogatunk, a napot pedig naplementekor a város legmagasabb pontján zárjuk, kényelmesen elérve a helyi járatokkal.",
             "ro": "Transportul de iarnă în Carmona este eficient și cald. Autobuzul de dimineață ne duce la Necropola rece. La prânz folosim conexiunile spre piețele însorite. După-amiaza explorăm muzeele și încheiem ziua la apus în cele mai înalte puncte ale orașului, accesibile ușor cu transportul local.",
-            "en": "Winter transit in Carmona is efficient and warm. The morning bus takes us to the cool Necropolis. At noon, we use connections to reach the sunny plazas. In the afternoon, visit museums and end the day at sunset at the city's highest points, easily reachable by local transit."
+            "en": "Winter transit in Carmona is efficient and warm. The morning bus takes us to the cool Necropolis. At noon, we use connections to reach the sunny plazas. In the afternoon, visit museums and end the day at sunset at the city's highest points, easily reachable by local transit.",
+            "es": "El transporte invernal en Carmona es eficiente y cálido. El autobús de la mañana nos lleva a la fresca Necrópolis. Al mediodía, usamos conexiones para llegar a las plazas soleadas. Por la tarde, visita museos y termina el día al atardecer en los puntos más altos de la ciudad, fácilmente accesibles en transporte local."
           },
           "stops": [
             {
@@ -2764,7 +3025,8 @@
                 "de": "Der Bus ist morgens angenehm beheizt.",
                 "hu": "A busz reggel kellemesen fűtött.",
                 "ro": "Autobuzul este încălzit plăcut dimineața.",
-                "en": "The bus is pleasantly heated in the morning."
+                "en": "The bus is pleasantly heated in the morning.",
+                "es": "El autobús está agradablemente calefactado por la mañana."
               }
             },
             {
@@ -2773,7 +3035,8 @@
                 "de": "Ein sonniger Wartebereich an der Haltestelle.",
                 "hu": "Napsütötte várakozóhely a megállónál.",
                 "ro": "O zonă de așteptare însorită la stație.",
-                "en": "A sunny waiting area at the stop."
+                "en": "A sunny waiting area at the stop.",
+                "es": "Área de espera soleada en la parada."
               }
             },
             {
@@ -2782,7 +3045,8 @@
                 "de": "Das Innere bietet Schutz vor dem kühlen Winterwind.",
                 "hu": "A belső tér védelmet nyújt a hűvös téli szél ellen.",
                 "ro": "Interiorul oferă protecție împotriva vântului rece de iarnă.",
-                "en": "The interior offers protection from the cool winter wind."
+                "en": "The interior offers protection from the cool winter wind.",
+                "es": "El interior ofrece protección contra el fresco viento invernal."
               }
             },
             {
@@ -2791,7 +3055,8 @@
                 "de": "Genießen Sie einen warmen Snack vor der nächsten Fahrt.",
                 "hu": "Élvezzen egy meleg ételt a következő utazás előtt.",
                 "ro": "Bucurați-vă de o gustare caldă înainte de următoarea călătorie.",
-                "en": "Enjoy a warm snack before your next ride."
+                "en": "Enjoy a warm snack before your next ride.",
+                "es": "Disfruta de un tentempié caliente antes de tu próximo trayecto."
               }
             },
             {
@@ -2800,7 +3065,8 @@
                 "de": "Die Haltestellen sind im Winter weniger überlaufen.",
                 "hu": "A megállók télen kevésbé zsúfoltak.",
                 "ro": "Stațiile sunt mai puțin aglomerate iarna.",
-                "en": "The bus stops are less crowded in winter."
+                "en": "The bus stops are less crowded in winter.",
+                "es": "Las paradas de autobús están menos concurridas en invierno."
               }
             },
             {
@@ -2809,7 +3075,8 @@
                 "de": "Nutzen Sie die Wärme des Museums am späten Nachmittag.",
                 "hu": "Használja ki a múzeum melegét késő délután.",
                 "ro": "Profitați de căldura muzeului după-amiaza târziu.",
-                "en": "Take advantage of the museum's warmth in the late afternoon."
+                "en": "Take advantage of the museum's warmth in the late afternoon.",
+                "es": "Aprovecha la calidez del museo a última hora de la tarde."
               }
             },
             {
@@ -2818,7 +3085,8 @@
                 "de": "Letzte Busverbindung vor Einbruch der Dunkelheit prüfen.",
                 "hu": "Ellenőrizze az utolsó buszjáratot sötétedés előtt.",
                 "ro": "Verificați ultima conexiune de autobuz înainte de lăsarea întunericului.",
-                "en": "Check the last bus connection before it gets dark."
+                "en": "Check the last bus connection before it gets dark.",
+                "es": "Consulta la última conexión de autobús antes de que anochezca."
               }
             }
           ],
@@ -2846,6 +3114,12 @@
               "Waiting in the sun is very pleasant during the winter months.",
               "A warm scarf is important while waiting at exposed bus stops.",
               "Use the travel time to take photos of the winter landscape."
+            ],
+            "es": [
+              "Los autobuses funcionan con el horario estándar en invierno; consulta los festivos locales.",
+              "Esperar al sol es muy agradable durante los meses de invierno.",
+              "Una bufanda cálida es importante mientras esperas en paradas expuestas.",
+              "Aprovecha el tiempo de viaje para fotografiar el paisaje invernal."
             ]
           }
         }
@@ -2860,19 +3134,22 @@
       "de": "In Carmona spricht man andalusisches Spanisch mit kräftigem sevillanischen Akzent, das 'c' und 'z' werden oft wie 's' ausgesprochen. Im Zentrum verstehen einige Restaurants Englisch, aber die Bedienung freut sich über jeden spanischen Versuch. 'Una cerveza, por favor' funktioniert immer.",
       "hu": "Carmonában andalúz spanyolt beszélnek erős sevillai akcentussal, a 'c' és 'z' gyakran 's'-ként hangzik. A központi éttermek egy része ért angolul, de a pincérek hálásan értékelik a spanyol próbálkozást. Egy 'una cerveza, por favor' mindig célba talál.",
       "ro": "În Carmona se vorbește spaniola andaluză cu accent sevillan puternic, 'c' și 'z' sună adesea ca 's'. În centru, unele restaurante înțeleg engleza, dar chelnerii apreciază orice încercare în spaniolă. 'Una cerveza, por favor' funcționează întotdeauna.",
-      "en": "Carmona speaks Andalusian Spanish with a strong Sevillan accent, where 'c' and 'z' often sound like 's'. Some restaurants in the centre understand English, but waiters appreciate any Spanish attempt. 'Una cerveza, por favor' always works."
+      "en": "Carmona speaks Andalusian Spanish with a strong Sevillan accent, where 'c' and 'z' often sound like 's'. Some restaurants in the centre understand English, but waiters appreciate any Spanish attempt. 'Una cerveza, por favor' always works.",
+      "es": "En Carmona se habla español andaluz con fuerte acento sevillano, donde la 'c' y la 'z' suelen sonar como 's'. Algunos restaurantes del centro entienden inglés, pero los camareros aprecian cualquier intento en español. 'Una cerveza, por favor' siempre funciona."
     },
     "best_time_to_visit": {
       "de": "März bis Mai und Oktober bis November sind perfekt mit angenehmen 18-26°C und weniger Touristen aus Sevilla. Im Hochsommer steigt die Temperatur auf 38-42°C, die Stadtmauern reflektieren die Hitze brutal. Die Semana Santa und die Feria im September sind unvergesslich, aber Unterkünfte früh buchen.",
       "hu": "Március-május és október-november kínálja a legkellemesebb 18-26°C-os időt, és kevesebb a Sevillából érkező turista. A nyár közepén 38-42°C-ot is mérnek, a városfalak brutálisan visszaverik a hőt. A Semana Santa és a szeptemberi Feria felejthetetlen, de a szállást jó előre foglald.",
       "ro": "Martie-mai și octombrie-noiembrie sunt perfecte, cu 18-26°C plăcute și mai puțini turiști din Sevilla. La mijlocul verii temperaturile ajung la 38-42°C, iar zidurile orașului reflectă căldura brutal. Semana Santa și Feria din septembrie sunt de neuitat, dar cazările trebuie rezervate din timp.",
-      "en": "March to May and October to November offer pleasant 18-26°C and fewer day-trippers from Seville. Midsummer brings 38-42°C heat, with the town walls brutally reflecting the sun. Semana Santa and the September Feria are unforgettable, but book accommodation well ahead."
+      "en": "March to May and October to November offer pleasant 18-26°C and fewer day-trippers from Seville. Midsummer brings 38-42°C heat, with the town walls brutally reflecting the sun. Semana Santa and the September Feria are unforgettable, but book accommodation well ahead.",
+      "es": "De marzo a mayo y de octubre a noviembre se disfrutan agradables 18-26°C y hay menos excursionistas desde Sevilla. En pleno verano hace 38-42°C, con las murallas reflejando brutalmente el sol. Semana Santa y la Feria de septiembre son inolvidables, pero reserva alojamiento con antelación."
     },
     "neighborhood_warnings": {
       "de": "Die Altstadt ist sehr sicher, achten Sie nur auf das holprige Kopfsteinpflaster und die engen Gehwege an stark befahrenen Straßen wie der Calle San Pedro. Taschendiebe gibt es kaum, aber an Markttagen empfiehlt sich der übliche Schutz für Wertsachen. Nachts ist die Stadt ruhig, ein kleiner Trupp Jugendlicher am Alcázar-Aussichtspunkt ist normal und ungefährlich.",
       "hu": "Az óváros nagyon biztonságos, csak a göröngyös macskakőre és a forgalmas Calle San Pedro szűk járdáira figyelj. Zsebtolvajok ritkán fordulnak elő, de piacnapokon a szokásos óvatosság ajánlott. Éjszaka csendes a város, az Alcázar kilátónál összegyűlő fiatalok teljesen ártalmatlanok.",
       "ro": "Centrul vechi este foarte sigur, atenție doar la pavajul denivelat și trotuarele înguste de pe străzi aglomerate precum Calle San Pedro. Hoții de buzunare sunt rari, dar în zilele de piață fii atent la valori. Noaptea orașul este liniștit, grupurile de tineri de la belvedere Alcázar sunt complet inofensive.",
-      "en": "The old town is very safe, just watch for uneven cobblestones and narrow sidewalks along busy streets like Calle San Pedro. Pickpockets are rare, but normal vigilance applies on market days. Nights are quiet, with small groups of youths at the Alcázar viewpoint being entirely harmless."
+      "en": "The old town is very safe, just watch for uneven cobblestones and narrow sidewalks along busy streets like Calle San Pedro. Pickpockets are rare, but normal vigilance applies on market days. Nights are quiet, with small groups of youths at the Alcázar viewpoint being entirely harmless.",
+      "es": "El casco antiguo es muy seguro; solo vigila los adoquines irregulares y las aceras estrechas en calles concurridas como la Calle San Pedro. Los carteristas son raros, pero aplica la vigilancia normal los días de mercado. Las noches son tranquilas; los pequeños grupos de jóvenes en el mirador del Alcázar son totalmente inofensivos."
     }
   }
 }

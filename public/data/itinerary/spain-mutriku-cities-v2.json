@@ -21,7 +21,8 @@
             "de": "Nautilus",
             "hu": "Nautilus",
             "ro": "Nautilus",
-            "en": "Nautilus"
+            "en": "Nautilus",
+            "es": "Nautilus"
           },
           "coords": [
             -2.3895,
@@ -36,7 +37,8 @@
             "de": "Entdecken Sie im Nautilus faszinierende Ammonitenfossilien und die Geologie des Flyschs, und kommen Sie früh, um den Besuchermassen zu entgehen.",
             "hu": "Fedezze fel a lenyűgöző ammonitesz kövületeket a Nautilusban, és érkezzen korán, hogy elkerülje a dél körüli nagyobb turistacsoportokat.",
             "ro": "Descoperiți fosile fascinante de amoniți la Nautilus, aflând despre formațiunile de fliș, și vizitați devreme pentru a evita aglomerația.",
-            "en": "Discover fascinating ammonite fossils at Nautilus, learning about flysch geological formations, and visit early to avoid the midday tourist crowds."
+            "en": "Discover fascinating ammonite fossils at Nautilus, learning about flysch geological formations, and visit early to avoid the midday tourist crowds.",
+            "es": "Descubre fascinantes fósiles de ammonites en Nautilus, aprende sobre las formaciones geológicas de flysch y visítalo temprano para evitar las multitudes del mediodía."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Jasokundeko Andre Mari eliza",
             "hu": "Jasokundeko Andre Mari eliza",
             "ro": "Jasokundeko Andre Mari eliza",
-            "en": "Jasokundeko Andre Mari eliza"
+            "en": "Jasokundeko Andre Mari eliza",
+            "es": "Iglesia de Jasokundeko Andre Mari"
           },
           "coords": [
             -2.387715,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die markante neoklassizistische Architektur dieser historischen Kirche und achten Sie besonders auf das beeindruckende Altarbild im Inneren.",
             "hu": "Csodálja meg e történelmi templom neoklasszicista építészetét, és mindenképpen szánjon időt a lenyűgöző belső oltárkép alapos megtekintésére.",
             "ro": "Admirați arhitectura neoclasică a acestei biserici istorice, un simbol al orașului Mutriku, și acordați atenție altarului său impresionant.",
-            "en": "Admire the striking neoclassical architecture of this historic church, a symbol of Mutriku, while noting the impressive altarpiece inside."
+            "en": "Admire the striking neoclassical architecture of this historic church, a symbol of Mutriku, while noting the impressive altarpiece inside.",
+            "es": "Admira la llamativa arquitectura neoclásica de esta iglesia histórica, símbolo de Mutriku, y fíjate en el impresionante retablo interior."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Arrietakua jauregia",
             "hu": "Arrietakua jauregia",
             "ro": "Arrietakua jauregia",
-            "en": "Arrietakua jauregia"
+            "en": "Arrietakua jauregia",
+            "es": "Palacio Arrietakua"
           },
           "coords": [
             -2.386139,
@@ -82,7 +87,8 @@
             "de": "Erkunden Sie diesen gut erhaltenen maritimen Palast aus dem 18. Jahrhundert, aber prüfen Sie vorab die variierenden Zeiten für Führungen.",
             "hu": "Fedezze fel ezt a jól megőrzött 18. századi tengerészeti palotát, de előzetesen ellenőrizze a tárlatvezetések változó időpontjait a bejutáshoz.",
             "ro": "Explorați acest palat maritim din secolul al XVIII-lea, dar verificați în prealabil programul tururilor ghidate, deoarece acestea pot varia zilnic.",
-            "en": "Explore this well-preserved 18th-century maritime palace to understand local naval history, but check guided tour times in advance as they vary."
+            "en": "Explore this well-preserved 18th-century maritime palace to understand local naval history, but check guided tour times in advance as they vary.",
+            "es": "Explora este palacio marítimo del siglo XVIII bien conservado para entender la historia naval local; consulta los horarios de las visitas guiadas, que varían."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Montalibet jauregia",
             "hu": "Montalibet jauregia",
             "ro": "Montalibet jauregia",
-            "en": "Montalibet jauregia"
+            "en": "Montalibet jauregia",
+            "es": "Palacio Montalibet"
           },
           "coords": [
             -2.38478,
@@ -105,7 +112,8 @@
             "de": "Beachten Sie die beeindruckenden Dachgesimse und das Wappen dieses baskischen Adelshauses, dessen Fassade im Morgenlicht am besten wirkt.",
             "hu": "Figyelje meg ennek a baszk nemesi háznak a lenyűgöző ereszét és címerét, amelynek klasszikus homlokzata a délelőtti fényekben mutat a legjobban.",
             "ro": "Remarcați streșinile și blazonul acestei case nobiliare basce de pe stradă, fațada sa clasică fiind cel mai bine fotografiată în lumina dimineții.",
-            "en": "Notice the impressive eaves and coat of arms of this Basque noble house from the street, as its classic facade is best photographed in morning light."
+            "en": "Notice the impressive eaves and coat of arms of this Basque noble house from the street, as its classic facade is best photographed in morning light.",
+            "es": "Observa los impresionantes aleros y el escudo de esta casa noble vasca desde la calle; su fachada clásica se fotografía mejor con la luz de la mañana."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Portu gaineko ikuspegia",
             "hu": "Portu gaineko ikuspegia",
             "ro": "Portu gaineko ikuspegia",
-            "en": "Portu gaineko ikuspegia"
+            "en": "Portu gaineko ikuspegia",
+            "es": "Mirador sobre el puerto"
           },
           "coords": [
             -2.384902,
@@ -128,7 +137,8 @@
             "de": "Genießen Sie den Panoramablick über den Hafen und das Kantabrische Meer, und bringen Sie eine Windjacke mit, da die Küstenbrise hier stark ist.",
             "hu": "Élvezze a kikötőre és a Kantábriai-tengerre nyíló panorámát, és hozzon magával széldzsekit, mert a parti szél itt meglehetősen erős lehet.",
             "ro": "Bucurați-vă de vederile panoramice asupra portului și Mării Cantabrice, și luați o jachetă de vânt, deoarece briza de coastă poate fi puternică.",
-            "en": "Take in sweeping panoramic views over the harbor and the Cantabrian Sea, and bring a windbreaker as the coastal breezes here can be quite strong."
+            "en": "Take in sweeping panoramic views over the harbor and the Cantabrian Sea, and bring a windbreaker as the coastal breezes here can be quite strong.",
+            "es": "Disfruta de panorámicas del puerto y del mar Cantábrico; lleva cortavientos porque las brisas costeras pueden ser fuertes."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "San Nikolas ermita",
             "hu": "San Nikolas ermita",
             "ro": "San Nikolas ermita",
-            "en": "San Nikolas ermita"
+            "en": "San Nikolas ermita",
+            "es": "Ermita de San Nicolás"
           },
           "coords": [
             -2.383133,
@@ -151,7 +162,8 @@
             "de": "Besuchen Sie diese bescheidene, aber kulturell bedeutsame Küsteneinsiedelei der Seeleute, die einen ruhigen Moment nahe der Küste bietet.",
             "hu": "Látogasson el a tengerészeknek szentelt szerény, de kulturálisan jelentős parti remetelakhoz, amely csendes elmélkedést kínál a part közelében.",
             "ro": "Vizitați acest schit de coastă dedicat marinarilor, o structură modestă, dar semnificativă, care oferă un moment de liniște lângă țărm.",
-            "en": "Visit this modest yet culturally significant coastal hermitage dedicated to sailors, offering a quiet moment of reflection near the shoreline."
+            "en": "Visit this modest yet culturally significant coastal hermitage dedicated to sailors, offering a quiet moment of reflection near the shoreline.",
+            "es": "Visita esta modesta pero significativa ermita costera dedicada a los marineros, que ofrece un momento de recogimiento junto al litoral."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Burumendi hondartza",
             "hu": "Burumendi hondartza",
             "ro": "Burumendi hondartza",
-            "en": "Burumendi hondartza"
+            "en": "Burumendi hondartza",
+            "es": "Playa de Burumendi"
           },
           "coords": [
             -2.380174,
@@ -174,7 +187,8 @@
             "de": "Entspannen Sie am Sandstrand oder erkunden Sie die Felsformationen dieses malerischen Strandes, ideal für ein Nachmittagsschwimmen bei Flut.",
             "hu": "Pihenjen a homokban, vagy fedezze fel a parti sziklaalakzatokat ezen a festői strandon, amely tökéletes egy frissítő délutáni úszáshoz.",
             "ro": "Relaxați-vă pe nisip sau explorați formațiunile stâncoase la această plajă pitorească, ideală pentru o baie revigorantă după-amiaza.",
-            "en": "Relax on the sand or explore the coastal rock formations at this scenic local beach, perfect for a refreshing afternoon swim when the tide allows."
+            "en": "Relax on the sand or explore the coastal rock formations at this scenic local beach, perfect for a refreshing afternoon swim when the tide allows.",
+            "es": "Relájate en la arena o explora las formaciones rocosas costeras en esta pintoresca playa local, ideal para un baño refrescante por la tarde cuando la marea lo permita."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Der Morgen beginnt mit faszinierenden Fossilien im Nautilus, wo wir tief in die Flysch-Geologie eintauchen. Danach spazieren wir zur majestätischen Kirche. / Mittags erreichen wir die historischen Paläste Arrietakua und Montalibet, die das reiche maritime Erbe der Stadt zeigen. / Am Nachmittag führt der Weg zum Hafen, wo wir atemberaubende Panoramablicke auf das Meer und die raue Küste genießen. / Am Abend bietet die Einsiedelei San Nikolas Ruhe, bevor der Tag mit einem entspannten Strandspaziergang in Burumendi ausklingt.",
         "hu": "A reggel a Nautilus lenyűgöző fosszíliáival kezdődik, elmerülve a flis geológiában. Ezután elsétálunk a fenséges templomhoz, hogy megcsodáljuk az építészetét. / Délben a történelmi Arrietakua és Montalibet paloták következnek, bemutatva a város gazdag tengerészeti és nemesi örökségét. / Délután a kikötő felé vesszük az irányt, ahonnan lélegzetelállító panoráma nyílik a tengerre és a sziklás partvidékre. / Estefelé a San Nikolas remetelak nyújt békés pillanatot, mielőtt a napot egy lazító sétával zárnánk a Burumendi strandon.",
         "ro": "Dimineața începe cu fosile fascinante la Nautilus, explorând geologia flișului. Apoi ne plimbăm spre inima orașului Mutriku pentru a admira biserica maiestuoasă. / La amiază ajungem la palatele istorice Arrietakua și Montalibet, care prezintă bogatul patrimoniu naval și nobiliar al orașului. / După-amiaza ne îndreptăm spre port pentru a ne bucura de vederi panoramice uluitoare asupra mării și a coastei abrupte. / Pe măsură ce se lasă seara, schitul San Nikolas oferă un moment de liniște, urmat de o relaxare pe plaja Burumendi.",
-        "en": "Morning begins with fascinating fossils at Nautilus, diving deep into the Flysch geology. We then stroll into the heart of Mutriku to admire the majestic church. / Midday brings us to the historic Arrietakua and Montalibet palaces, showcasing the town's rich naval and noble heritage. / In the afternoon, we head toward the port for breathtaking panoramic views of the sea, taking in the rugged coastline. / As evening approaches, a peaceful moment at San Nikolas hermitage transitions into a relaxing sunset stroll along the beautiful Burumendi beach."
+        "en": "Morning begins with fascinating fossils at Nautilus, diving deep into the Flysch geology. We then stroll into the heart of Mutriku to admire the majestic church. / Midday brings us to the historic Arrietakua and Montalibet palaces, showcasing the town's rich naval and noble heritage. / In the afternoon, we head toward the port for breathtaking panoramic views of the sea, taking in the rugged coastline. / As evening approaches, a peaceful moment at San Nikolas hermitage transitions into a relaxing sunset stroll along the beautiful Burumendi beach.",
+        "es": "La mañana comienza con fósiles fascinantes en Nautilus, profundizando en la geología del Flysch. Luego paseamos por el centro de Mutriku para admirar la majestuosa iglesia. / Al mediodía visitamos los históricos palacios Arrietakua y Montalibet, que muestran la rica herencia naval y nobiliaria de la localidad. / Por la tarde nos dirigimos hacia el puerto para disfrutar de vistas panorámicas al mar y contemplar la costa escarpada. / Al llegar la noche, un momento tranquilo en la ermita de San Nikolas da paso a un relajante paseo al atardecer por la hermosa playa de Burumendi."
       },
       "variants": {
         "rainy": {
@@ -190,7 +205,8 @@
             "de": "Der Tag beginnt im trockenen Nautilus-Museum. Mittags erkunden wir die Paläste der Altstadt, die Schutz vor den Schauern bieten. Nachmittags genießen wir den Blick auf den Hafen unter einem Regenschirm. Den Abend lassen wir bei der Meeresbrise und dem Rauschen der Wellen ausklingen, während die nassen Gassen im Laternenlicht glänzen.",
             "hu": "A nap a Nautilus múzeumban indul, védve az esőtől. Délben az óváros palotái között sétálunk, ahol az eresz alatt találunk menedéket. Délután az esernyők alatt csodáljuk meg a kikötői panorámát. Az estét a sós tengeri levegő és a hullámok morajlása zárja, miközben a nedves kövek csillognak a lámpafényben.",
             "ro": "Ziua începe la muzeul Nautilus, feriți de ploaie. La prânz explorăm palatele centrului vechi, folosind porțile monumentale ca adăpost. După-amiaza admirăm portul de sub umbrelă. Seara se încheie cu briza mării și sunetul valurilor, în timp ce străzile umede reflectă luminile orașului.",
-            "en": "The day starts at the Nautilus Museum, safely sheltered from the rain. At noon, we explore the old town's palaces, finding cover under grand stone arches. In the afternoon, we enjoy harbor views from beneath our umbrellas. The evening ends with the salty sea breeze and the sound of waves, as the wet cobblestones glisten under the streetlights."
+            "en": "The day starts at the Nautilus Museum, safely sheltered from the rain. At noon, we explore the old town's palaces, finding cover under grand stone arches. In the afternoon, we enjoy harbor views from beneath our umbrellas. The evening ends with the salty sea breeze and the sound of waves, as the wet cobblestones glisten under the streetlights.",
+            "es": "El día comienza en el Museo Nautilus, bien resguardado de la lluvia. Al mediodía exploramos los palacios del casco antiguo, buscando abrigo bajo sus grandes arcos de piedra. Por la tarde disfrutamos de las vistas al puerto desde debajo de los paraguas. La noche termina con la brisa salina y el sonido de las olas, mientras los empedrados mojados brillan bajo las farolas."
           },
           "stops": [
             {
@@ -198,13 +214,15 @@
                 "de": "Nautilus",
                 "hu": "Nautilus",
                 "ro": "Nautilus",
-                "en": "Nautilus"
+                "en": "Nautilus",
+                "es": "Nautilus"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Ammonitenfossilien im Trockenen; ein Regenschirm ist für den kurzen Weg vom Parkplatz zum Eingang trotzdem sehr empfehlenswert.",
                 "hu": "Csodáld meg az ammonitesz fosszíliákat fedett helyen; egy esernyő a parkolótól a bejáratig tartó rövid útra is mindenképpen javasolt.",
                 "ro": "Admirați fosilele de amoniți la adăpost; o umbrelă este totuși recomandată pentru drumul scurt de la parcare până la intrare.",
-                "en": "Admire the ammonite fossils indoors; an umbrella is still highly recommended for the short walk from the parking area to the entrance."
+                "en": "Admire the ammonite fossils indoors; an umbrella is still highly recommended for the short walk from the parking area to the entrance.",
+                "es": "Admira los fósiles de amonites en el interior; aun así, se recomienda llevar paraguas para el corto paseo desde el parking hasta la entrada."
               }
             },
             {
@@ -212,13 +230,15 @@
                 "de": "Jasokundeko Andre Mari eliza",
                 "hu": "Jasokundeko Andre Mari eliza",
                 "ro": "Jasokundeko Andre Mari eliza",
-                "en": "Jasokundeko Andre Mari eliza"
+                "en": "Jasokundeko Andre Mari eliza",
+                "es": "Iglesia de Jasokundeko Andre Mari"
               },
               "tip_5lang": {
                 "de": "Die massive neoklassizistische Kirche bietet einen perfekten Unterschlupf vor dem Regen und beeindruckende Stille im Inneren.",
                 "hu": "A masszív neoklasszicista templom tökéletes menedéket nyújt az eső elől, belül pedig lenyűgöző csend fogadja a látogatót.",
                 "ro": "Biserica neoclasică masivă oferă un adăpost perfect împotriva ploii și o liniște impresionantă în interior.",
-                "en": "The massive neoclassical church offers a perfect shelter from the rain and impressive silence inside."
+                "en": "The massive neoclassical church offers a perfect shelter from the rain and impressive silence inside.",
+                "es": "La enorme iglesia neoclásica ofrece un refugio perfecto contra la lluvia y un impresionante silencio en su interior."
               }
             },
             {
@@ -226,13 +246,15 @@
                 "de": "Arrietakua jauregia",
                 "hu": "Arrietakua jauregia",
                 "ro": "Arrietakua jauregia",
-                "en": "Arrietakua jauregia"
+                "en": "Arrietakua jauregia",
+                "es": "Palacio Arrietakua"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die geführte Innenbesichtigung des Palastes, um die Geschichte Mutrikus ohne nasse Füße zu erleben.",
                 "hu": "Vegyen részt a palota vezetett belső bejárásán, hogy száraz lábbal ismerhesse meg Mutriku történelmét.",
                 "ro": "Profită de vizita ghidată în interiorul palatului pentru a descoperi istoria locală fără a te uda la picioare.",
-                "en": "Take advantage of the guided indoor tour of the palace to learn about Mutriku's history while staying dry."
+                "en": "Take advantage of the guided indoor tour of the palace to learn about Mutriku's history while staying dry.",
+                "es": "Aprovecha la visita guiada interior del palacio para conocer la historia de Mutriku mientras te mantienes seco."
               }
             },
             {
@@ -240,13 +262,15 @@
                 "de": "Montalibet jauregia",
                 "hu": "Montalibet jauregia",
                 "ro": "Montalibet jauregia",
-                "en": "Montalibet jauregia"
+                "en": "Montalibet jauregia",
+                "es": "Palacio Montalibet"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die barocke Fassade von den gegenüberliegenden Torbögen aus, um trocken zu bleiben.",
                 "hu": "Csodáld meg a barokk homlokzatot a szemközti árkádok alól, így elkerülheted a zuhét a nézelődés közben.",
                 "ro": "Admiră fațada barocă de sub arcadele de peste drum pentru a rămâne uscat în timpul observației.",
-                "en": "Admire the Baroque facade from the arches across the street to stay dry while observing the architecture."
+                "en": "Admire the Baroque facade from the arches across the street to stay dry while observing the architecture.",
+                "es": "Admirar la fachada barroca desde los arcos de enfrente te permite observar la arquitectura sin mojarte."
               }
             },
             {
@@ -254,13 +278,15 @@
                 "de": "Portu gaineko ikuspegia",
                 "hu": "Portu gaineko ikuspegia",
                 "ro": "Portu gaineko ikuspegia",
-                "en": "Portu gaineko ikuspegia"
+                "en": "Portu gaineko ikuspegia",
+                "es": "Mirador sobre el puerto"
               },
               "tip_5lang": {
                 "de": "Der Nebel über dem Hafen verleiht der Szenerie eine mystische Atmosphäre; halten Sie die Kamera unter dem Schirm bereit.",
                 "hu": "A kikötő feletti köd misztikus hangulatot áraszt; tartsd a fényképezőgépet az esernyő oltalma alatt.",
                 "ro": "Ceața de deasupra portului oferă o atmosferă mistică; ține aparatul foto pregătit sub protecția umbrelei.",
-                "en": "The mist over the harbor creates a mystical atmosphere; keep your camera ready under the protection of an umbrella."
+                "en": "The mist over the harbor creates a mystical atmosphere; keep your camera ready under the protection of an umbrella.",
+                "es": "La niebla sobre el puerto crea una atmósfera mística; mantén la cámara lista bajo la protección de un paraguas."
               }
             },
             {
@@ -268,13 +294,15 @@
                 "de": "San Nikolas ermita",
                 "hu": "San Nikolas ermita",
                 "ro": "San Nikolas ermita",
-                "en": "San Nikolas ermita"
+                "en": "San Nikolas ermita",
+                "es": "Ermita de San Nikolas"
               },
               "tip_5lang": {
                 "de": "Die kleine Kapelle dient als kurzer Unterstand; Vorsicht auf den Pflastersteinen, die bei Nässe sehr rutschig werden können.",
                 "hu": "A kis kápolna rövid menedékként szolgálhat; vigyázz a macskaköveken, mert esőben rendkívül csúszóssá válnak.",
                 "ro": "Mica capelă poate servi ca scurt adăpost; atenție pe pavaj, deoarece devine foarte alunecos când este ud.",
-                "en": "The small chapel can serve as a brief shelter; be careful on the cobblestones, as they become very slippery when wet."
+                "en": "The small chapel can serve as a brief shelter; be careful on the cobblestones, as they become very slippery when wet.",
+                "es": "La pequeña capilla puede servir como refugio breve; ten cuidado con los empedrados, que se vuelven muy resbaladizos cuando están mojados."
               }
             },
             {
@@ -282,13 +310,15 @@
                 "de": "Burumendi hondartza",
                 "hu": "Burumendi hondartza",
                 "ro": "Burumendi hondartza",
-                "en": "Burumendi hondartza"
+                "en": "Burumendi hondartza",
+                "es": "Playa de Burumendi"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die Brandung aus sicherer Entfernung; die Felsen sind bei Regen gefährlich glatt.",
                 "hu": "Figyeld a tajtékzó hullámokat biztonságos távolságból; a sziklák esőben veszélyesen csúszósak lehetnek.",
                 "ro": "Observă valurile de la o distanță sigură; stâncile pot fi periculos de alunecoase pe timp de ploaie.",
-                "en": "Watch the crashing waves from a safe distance; the rocks can be dangerously slippery during rain."
+                "en": "Watch the crashing waves from a safe distance; the rocks can be dangerously slippery during rain.",
+                "es": "Observa las olas rompientes desde una distancia segura; las rocas pueden estar peligrosamente resbaladizas con lluvia."
               }
             }
           ]
@@ -298,7 +328,8 @@
             "de": "Ein klarer Wintermorgen führt uns zur Fossilienausstellung. Mittags wärmen wir uns in den beeindruckenden Kirchen und Palästen auf. Da die Sonne bereits gegen 17:00 Uhr sinkt, nutzen wir das goldene Licht für einen Strandspaziergang. Der Abend in der kühlen Meeresluft ist erfrischend und friedlich.",
             "hu": "A tiszta téli reggel a fosszília-kiállításhoz hív. Délben a templomok és paloták vastag falai között melegszünk fel. Mivel a nap már 17:00 körül nyugovóra tér, a rövid délutánt egy tengerparti sétára szánjuk az aranyló fényben. Az este frissítően hűvös és békés a parton.",
             "ro": "O dimineață senină de iarnă ne conduce la expoziția de fosile. La prânz ne încălzim în interiorul bisericilor și palatelor impunătoare. Deoarece soarele apune deja în jur de ora 17:00, profităm de lumina aurie pentru o plimbare pe plajă. Seara este revigorant de răcoroasă și liniștită.",
-            "en": "A crisp winter morning leads us to the fossil exhibition. At noon, we warm up inside the massive walls of churches and palaces. Since the sun sets around 5:00 PM, we use the golden afternoon light for a beach walk. The evening is refreshingly cool and peaceful by the sea."
+            "en": "A crisp winter morning leads us to the fossil exhibition. At noon, we warm up inside the massive walls of churches and palaces. Since the sun sets around 5:00 PM, we use the golden afternoon light for a beach walk. The evening is refreshingly cool and peaceful by the sea.",
+            "es": "Una crujiente mañana de invierno nos lleva a la exposición de fósiles. Al mediodía nos refugiamos dentro de los muros macizos de iglesias y palacios. Dado que el sol se pone alrededor de las 17:00, aprovechamos la luz dorada de la tarde para un paseo por la playa. La noche es refrescantemente fresca y tranquila junto al mar."
           },
           "stops": [
             {
@@ -306,13 +337,15 @@
                 "de": "Nautilus",
                 "hu": "Nautilus",
                 "ro": "Nautilus",
-                "en": "Nautilus"
+                "en": "Nautilus",
+                "es": "Nautilus"
               },
               "tip_5lang": {
                 "de": "Das Museum ist im Winter angenehm temperiert; ideal, um die Geologie der Küste ohne Winterjacke zu studieren.",
                 "hu": "A múzeum télen kellemesen fűtött; ideális hely a partvidék geológiájának tanulmányozására kabát nélkül.",
                 "ro": "Muzeul este încălzit plăcut iarna; locul ideal pentru a studia geologia coastei fără geaca de iarnă.",
-                "en": "The museum is pleasantly heated in winter; an ideal spot to study coastal geology without your winter coat."
+                "en": "The museum is pleasantly heated in winter; an ideal spot to study coastal geology without your winter coat.",
+                "es": "El museo está agradablemente calefactado en invierno; un lugar ideal para estudiar la geología costera sin necesidad del abrigo invernal."
               }
             },
             {
@@ -320,13 +353,15 @@
                 "de": "Jasokundeko Andre Mari eliza",
                 "hu": "Jasokundeko Andre Mari eliza",
                 "ro": "Jasokundeko Andre Mari eliza",
-                "en": "Jasokundeko Andre Mari eliza"
+                "en": "Jasokundeko Andre Mari eliza",
+                "es": "Iglesia de Jasokundeko Andre Mari"
               },
               "tip_5lang": {
                 "de": "Ziehen Sie sich warm an, da die großen Kirchenschiffe im Winter recht kühl bleiben können; bewundern Sie das Lichtspiel.",
                 "hu": "Öltözzön rétegesen, mert a hatalmas templomhajó télen hűvös maradhat; csodálja meg a téli fények játékát.",
                 "ro": "Îmbrăcați-vă gros, deoarece interiorul bisericii poate fi destul de rece iarna; admirați jocurile de lumini.",
-                "en": "Dress warmly, as the large church interior can remain quite cool in winter; admire the play of winter light."
+                "en": "Dress warmly, as the large church interior can remain quite cool in winter; admire the play of winter light.",
+                "es": "Abrígate bien, ya que el interior de la gran iglesia puede permanecer bastante frío en invierno; admira el juego de la luz invernal."
               }
             },
             {
@@ -334,13 +369,15 @@
                 "de": "Arrietakua jauregia",
                 "hu": "Arrietakua jauregia",
                 "ro": "Arrietakua jauregia",
-                "en": "Arrietakua jauregia"
+                "en": "Arrietakua jauregia",
+                "es": "Palacio Arrietakua"
               },
               "tip_5lang": {
                 "de": "Ein Besuch im Inneren des Palastes bietet Schutz vor dem kalten Wind vom Meer her.",
                 "hu": "A palota belső tereinek meglátogatása kiváló védelmet nyújt a tenger felől érkező hideg szél ellen.",
                 "ro": "O vizită în interiorul palatului oferă o protecție excelentă împotriva vântului rece de pe mare.",
-                "en": "A visit inside the palace provides excellent protection from the cold wind blowing in from the sea."
+                "en": "A visit inside the palace provides excellent protection from the cold wind blowing in from the sea.",
+                "es": "Una visita al interior del palacio ofrece excelente protección contra el frío viento procedente del mar."
               }
             },
             {
@@ -348,13 +385,15 @@
                 "de": "Montalibet jauregia",
                 "hu": "Montalibet jauregia",
                 "ro": "Montalibet jauregia",
-                "en": "Montalibet jauregia"
+                "en": "Montalibet jauregia",
+                "es": "Palacio Montalibet"
               },
               "tip_5lang": {
                 "de": "Die tiefe Wintersonne beleuchtet die Fassade am frühen Nachmittag besonders dramatisch.",
                 "hu": "Az alacsony téli napállás kora délután különösen drámai módon világítja meg az épület homlokzatát.",
                 "ro": "Soarele jos de iarnă luminează fațada într-un mod deosebit de dramatic la începutul după-amiezii.",
-                "en": "The low winter sun illuminates the facade in a particularly dramatic way in the early afternoon."
+                "en": "The low winter sun illuminates the facade in a particularly dramatic way in the early afternoon.",
+                "es": "El bajo sol invernal ilumina la fachada de forma particularmente dramática a primeras horas de la tarde."
               }
             },
             {
@@ -362,13 +401,15 @@
                 "de": "Portu gaineko ikuspegia",
                 "hu": "Portu gaineko ikuspegia",
                 "ro": "Portu gaineko ikuspegia",
-                "en": "Portu gaineko ikuspegia"
+                "en": "Portu gaineko ikuspegia",
+                "es": "Mirador sobre el puerto"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Panoramablick vor dem frühen Sonnenuntergang um 17:00 Uhr; die Farben sind im Winter oft klarer.",
                 "hu": "Élvezd a panorámát a korai, 17:00 órai napnyugta előtt; a színek télen gyakran sokkal tisztábbak.",
                 "ro": "Bucură-te de panoramă înainte de apusul timpuriu de la ora 17:00; culorile sunt adesea mai clare iarna.",
-                "en": "Enjoy the panorama before the early 5:00 PM sunset; colors are often much clearer in winter."
+                "en": "Enjoy the panorama before the early 5:00 PM sunset; colors are often much clearer in winter.",
+                "es": "Disfruta del panorama antes del temprano atardecer de las 17:00; los colores suelen verse más nítidos en invierno."
               }
             },
             {
@@ -376,13 +417,15 @@
                 "de": "San Nikolas ermita",
                 "hu": "San Nikolas ermita",
                 "ro": "San Nikolas ermita",
-                "en": "San Nikolas ermita"
+                "en": "San Nikolas ermita",
+                "es": "Ermita de San Nikolas"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp hier ist ideal, um die raue Schönheit der winterlichen Küste zu fotografieren.",
                 "hu": "Egy rövid megálló itt ideális a téli tengerpart vad szépségének megörökítéséhez.",
                 "ro": "O scurtă oprire aici este ideală pentru a fotografia frumusețea sălbatică a coastei pe timp de iarnă.",
-                "en": "A short stop here is ideal for photographing the wild beauty of the winter coastline."
+                "en": "A short stop here is ideal for photographing the wild beauty of the winter coastline.",
+                "es": "Una breve parada aquí es ideal para fotografiar la salvaje belleza de la costa invernal."
               }
             },
             {
@@ -390,13 +433,15 @@
                 "de": "Burumendi hondartza",
                 "hu": "Burumendi hondartza",
                 "ro": "Burumendi hondartza",
-                "en": "Burumendi hondartza"
+                "en": "Burumendi hondartza",
+                "es": "Playa de Burumendi"
               },
               "tip_5lang": {
                 "de": "Ein zügiger Strandspaziergang in der Wintersonne wirkt belebend; Mütze und Handschuhe sind wegen der Brise ratsam.",
                 "hu": "Egy tempós tengerparti séta a téli napsütésben felfrissít; a szél miatt sapka és kesztyű viselése ajánlott.",
                 "ro": "O plimbare vioaie pe plajă în soarele de iarnă este revigorantă; căciula și mănușile sunt recomandate din cauza brizei.",
-                "en": "A brisk beach walk in the winter sun is invigorating; a hat and gloves are advisable due to the breeze."
+                "en": "A brisk beach walk in the winter sun is invigorating; a hat and gloves are advisable due to the breeze.",
+                "es": "Un enérgico paseo por la playa bajo el sol invernal resulta vigorizante; se recomienda gorro y guantes debido a la brisa."
               }
             }
           ]
@@ -416,7 +461,8 @@
             "de": "Santa Catalina Komendua",
             "hu": "Santa Catalina Komendua",
             "ro": "Santa Catalina Komendua",
-            "en": "Santa Catalina Komendua"
+            "en": "Santa Catalina Komendua",
+            "es": "Comendadora de Santa Catalina"
           },
           "coords": [
             -2.385183,
@@ -431,7 +477,8 @@
             "de": "Beginnen Sie Ihre Fahrt an diesem ruhigen, geschichtsträchtigen Kloster und nehmen Sie sich Zeit, den ruhigen Innenhof und die Architektur zu schätzen.",
             "hu": "Kezdje útját ennél a békés, történelmi gyökerű kolostornál, és szánjon egy percet a nyugodt udvar és a környező építészet megcsodálására.",
             "ro": "Începeți plimbarea la această mănăstire pașnică cu rădăcini istorice adânci, luându-vă un moment pentru a aprecia curtea liniștită.",
-            "en": "Begin your ride at this peaceful convent with deep roots in local history, taking a moment to appreciate the tranquil courtyard and surrounding architecture."
+            "en": "Begin your ride at this peaceful convent with deep roots in local history, taking a moment to appreciate the tranquil courtyard and surrounding architecture.",
+            "es": "Comienza tu ruta en este pacífico convento con profundas raíces en la historia local, toma un momento para apreciar el tranquilo patio y la arquitectura circundante."
           }
         },
         {
@@ -439,7 +486,8 @@
             "de": "Jasokundeko Andre Mari eliza",
             "hu": "Jasokundeko Andre Mari eliza",
             "ro": "Jasokundeko Andre Mari eliza",
-            "en": "Jasokundeko Andre Mari eliza"
+            "en": "Jasokundeko Andre Mari eliza",
+            "es": "Iglesia de Jasokundeko Andre Mari"
           },
           "coords": [
             -2.387715,
@@ -454,7 +502,8 @@
             "de": "Radeln Sie zum Stadtplatz, um die monumentale Kirchenfassade zu sehen, und nutzen Sie die Fahrradständer, während Sie den Altar betrachten.",
             "hu": "Kerekezzen a főtérre, hogy megnézze e monumentális templom homlokzatát, és használja a közeli tárolókat, amíg bemegy megnézni az oltárt.",
             "ro": "Mergeți cu bicicleta în piața orașului pentru a vedea fațada monumentală a bisericii, folosind rastelele din apropiere cât vizitați interiorul.",
-            "en": "Cycle to the town square to view this monumental church's facade, using the nearby bike racks while you step inside to see the grand altar."
+            "en": "Cycle to the town square to view this monumental church's facade, using the nearby bike racks while you step inside to see the grand altar.",
+            "es": "Pedalea hasta la plaza del pueblo para ver la fachada de esta monumental iglesia, usando los aparcamientos para bicicletas cercanos mientras entras a ver el grandioso altar."
           }
         },
         {
@@ -462,7 +511,8 @@
             "de": "Portu gaineko ikuspegia",
             "hu": "Portu gaineko ikuspegia",
             "ro": "Portu gaineko ikuspegia",
-            "en": "Portu gaineko ikuspegia"
+            "en": "Portu gaineko ikuspegia",
+            "es": "Mirador sobre el puerto"
           },
           "coords": [
             -2.384902,
@@ -477,7 +527,8 @@
             "de": "Unterbrechen Sie Ihre Radtour für atemberaubende Fotos der Mole von diesem Aussichtspunkt, und bleiben Sie sicher hinter den Geländern.",
             "hu": "Szakítsa meg útját lenyűgöző fotókért a hullámtörőről erről a magaslati pontról, ügyelve arra, hogy biztonságban maradjon a korlátok mögött.",
             "ro": "Faceți o pauză pentru fotografii uimitoare ale digului din acest punct de observație, asigurându-vă că rămâneți în siguranță în spatele balustradelor.",
-            "en": "Pause your bike ride for stunning photos of the breakwater from this high vantage point, ensuring you stay safely behind the safety railings."
+            "en": "Pause your bike ride for stunning photos of the breakwater from this high vantage point, ensuring you stay safely behind the safety railings.",
+            "es": "Haz una pausa en tu ruta para tomar fotos impresionantes del espigón desde este alto mirador, manteniéndote siempre detrás de las barandillas de seguridad."
           }
         },
         {
@@ -485,7 +536,8 @@
             "de": "Kristozulo",
             "hu": "Kristozulo",
             "ro": "Kristozulo",
-            "en": "Kristozulo"
+            "en": "Kristozulo",
+            "es": "Kristozulo"
           },
           "coords": [
             -2.379986,
@@ -500,7 +552,8 @@
             "de": "Entdecken Sie diesen versteckten Naturort an der Küste für einen kurzen Spaziergang, aber tragen Sie festes Schuhwerk wegen unebener Wege.",
             "hu": "Fedezze fel ezt a rejtett tengerparti természeti helyet, amely tökéletes egy rövid sétához, de viseljen erős cipőt az egyenetlen ösvények miatt.",
             "ro": "Descoperiți acest loc natural ascuns de pe coastă, perfect pentru o scurtă plimbare, dar purtați încălțăminte robustă pentru potecile inegale.",
-            "en": "Discover this hidden natural spot along the coast, perfect for a short nature walk, but wear sturdy shoes as the paths can be quite uneven."
+            "en": "Discover this hidden natural spot along the coast, perfect for a short nature walk, but wear sturdy shoes as the paths can be quite uneven.",
+            "es": "Descubre este rincón natural escondido a lo largo de la costa, perfecto para una corta caminata por la naturaleza; lleva calzado resistente porque los senderos pueden ser muy irregulares."
           }
         },
         {
@@ -508,7 +561,8 @@
             "de": "Hirugarren hondartza",
             "hu": "Hirugarren hondartza",
             "ro": "Hirugarren hondartza",
-            "en": "Hirugarren hondartza"
+            "en": "Hirugarren hondartza",
+            "es": "Tercera playa (Hirugarren hondartza)"
           },
           "coords": [
             -2.382038,
@@ -523,7 +577,8 @@
             "de": "Genießen Sie die abgeschiedene Atmosphäre dieses kleineren Strandes, ein idealer Ort, um die Beine auszuruhen und frische Meeresluft zu atmen.",
             "hu": "Élvezze e kisebb strand elszigetelt hangulatát, amely kiváló megálló, hogy megpihenjen és friss óceáni levegőt szívjon a továbbindulás előtt.",
             "ro": "Bucurați-vă de atmosfera retrasă a acestei plaje mai mici, o oprire excelentă pentru a vă odihni picioarele și a respira aer proaspăt de ocean.",
-            "en": "Enjoy the secluded atmosphere of this smaller beach, an excellent midway stop to rest your legs and breathe in the fresh ocean air before continuing."
+            "en": "Enjoy the secluded atmosphere of this smaller beach, an excellent midway stop to rest your legs and breathe in the fresh ocean air before continuing.",
+            "es": "Disfruta de la atmósfera recogida de esta playa más pequeña, una excelente parada intermedia para descansar las piernas y respirar el aire fresco del océano antes de continuar."
           }
         },
         {
@@ -531,7 +586,8 @@
             "de": "Saturraran naturista",
             "hu": "Saturraran naturista",
             "ro": "Saturraran naturista",
-            "en": "Saturraran naturista"
+            "en": "Saturraran naturista",
+            "es": "Saturraran naturista"
           },
           "coords": [
             -2.408607,
@@ -546,7 +602,8 @@
             "de": "Beenden Sie Ihre Radtour an dieser schönen Sandbucht mit dramatischen Klippen, und bringen Sie ein Handtuch mit, da die Einrichtungen begrenzt sind.",
             "hu": "Fejezze be kerékpáros útját ezen a drámai sziklákkal szegélyezett gyönyörű homokos öbölben, és hozzon törölközőt a korlátozott létesítmények miatt.",
             "ro": "Încheiați traseul la acest frumos golf de nisip mărginit de stânci dramatice și aduceți un prosop, deoarece facilitățile locale sunt limitate.",
-            "en": "End your biking route at this beautiful sandy cove bordered by dramatic cliffs, bringing a towel to relax as there are limited facilities on site."
+            "en": "End your biking route at this beautiful sandy cove bordered by dramatic cliffs, bringing a towel to relax as there are limited facilities on site.",
+            "es": "Termina tu ruta ciclista en esta hermosa cala de arena bordeada por acantilados dramáticos; lleva una toalla para relajarte, ya que las instalaciones son limitadas."
           }
         }
       ],
@@ -554,7 +611,8 @@
         "de": "Beginnen Sie den Morgen entspannt am Kloster Santa Catalina, bevor Sie zum belebten Stadtplatz radeln, um die imposante Kirche zu bewundern. / Der Mittag belohnt Sie mit einer Fahrt zum Hafenaussichtspunkt, der spektakuläre Ausblicke auf das Kantabrische Meer und die Mole bietet. / Am Nachmittag wagen wir uns in die felsige Natur von Kristozulo und an den ruhigen Sand des Hirugarren-Strandes. / Beenden Sie Ihren aktiven Tag mit einer abendlichen Fahrt nach Saturraran und genießen Sie die dramatischen Klippen im Sonnenuntergang.",
         "hu": "Kezdje a reggelt kellemesen a Santa Catalina kolostornál, mielőtt a nyüzsgő főtérre kerekezne, hogy megcsodálja az impozáns neoklasszicista templomot. / A dél egy frissítő tekeréssel jutalmaz a kikötői kilátóhoz, amely látványos kilátást nyújt a Kantábriai-tengerre és a hullámtörőre. / Délután merészkedjen ki Kristozulo sziklás természeti szépségéhez és a csendes Hirugarren strand homokjához. / Zárja aktív napját egy esti túrával Saturraranba, élvezve a drámai sziklákat a naplementében és a hűs tengeri szellőt.",
         "ro": "Începeți dimineața lin la mănăstirea Santa Catalina, înainte de a pedala spre piața vibrantă a orașului pentru a admira biserica neoclasică impunătoare. / Amiaza vă răsplătește cu o plimbare până la punctul de observație al portului, oferind priveliști spectaculoase asupra Mării Cantabrice. / După-amiaza vă aventurați spre frumusețea naturală stâncoasă a Kristozulo și nisipurile liniștite ale plajei Hirugarren. / Încheiați ziua activă cu o plimbare de seară la Saturraran, bucurându-vă de stâncile dramatice la apus.",
-        "en": "Start your morning gently at the Santa Catalina convent before pedaling into the vibrant town square to admire the imposing neoclassical church. / Midday rewards you with an invigorating ride up to the port viewpoint, offering spectacular vistas of the Cantabrian Sea and the town's breakwater. / In the afternoon, venture out to the rocky, natural beauty of Kristozulo and the quiet sands of Hirugarren beach. / Conclude your active day with an evening ride to Saturraran, enjoying the dramatic sunset cliffs and the refreshing ocean breeze."
+        "en": "Start your morning gently at the Santa Catalina convent before pedaling into the vibrant town square to admire the imposing neoclassical church. / Midday rewards you with an invigorating ride up to the port viewpoint, offering spectacular vistas of the Cantabrian Sea and the town's breakwater. / In the afternoon, venture out to the rocky, natural beauty of Kristozulo and the quiet sands of Hirugarren beach. / Conclude your active day with an evening ride to Saturraran, enjoying the dramatic sunset cliffs and the refreshing ocean breeze.",
+        "es": "Comienza la mañana con calma en el convento de Santa Catalina antes de pedalear hasta la vibrante plaza del pueblo para admirar la imponente iglesia neoclásica. / Al mediodía recompensa el esfuerzo con un estimulante ascenso hasta el mirador del puerto, que ofrece vistas espectaculares del mar Cantábrico y del espigón. / Por la tarde, aventúrate hacia la belleza rocosa y natural de Kristozulo y las tranquilas arenas de la playa Hirugarren. / Concluye tu activo día con un paseo vespertino hasta Saturraran, disfrutando de los acantilados al atardecer y la refrescante brisa marina."
       },
       "variants": {
         "rainy": {
@@ -562,7 +620,8 @@
             "de": "Mit wasserfester Kleidung erkunden wir Mutriku auf zwei Rädern. Morgens besuchen wir das Kloster, mittags die Kirche. Die Wege am Hafen können rutschig sein, daher fahren wir vorsichtig. Am Nachmittag genießen wir die Meeresluft an den Stränden, bevor wir den Tag gemütlich ausklingen lassen.",
             "hu": "Vízálló ruházatban két keréken fedezzük fel Mutrikut. Reggel a kolostort, délben a templomot látogatjuk meg. A kikötő környéki utak csúszósak lehetnek, így óvatosan tekerünk. Délután a strandok mentén élvezzük a sós levegőt, mielőtt befejeznénk a túrát.",
             "ro": "Cu echipament impermeabil, explorăm Mutriku pe două roți. Dimineața vizităm mănăstirea, la prânz biserica. Drumurile din port pot fi alunecoase, așa că pedalăm cu grijă. După-amiaza ne bucurăm de aerul marin la plaje, înainte de a încheia turul.",
-            "en": "With waterproof gear, we explore Mutriku on two wheels. In the morning we visit the convent, at noon the church. Harbor paths can be slippery, so we cycle carefully. In the afternoon we enjoy the sea air along the beaches before finishing our tour."
+            "en": "With waterproof gear, we explore Mutriku on two wheels. In the morning we visit the convent, at noon the church. Harbor paths can be slippery, so we cycle carefully. In the afternoon we enjoy the sea air along the beaches before finishing our tour.",
+            "es": "Con ropa impermeable exploramos Mutriku en dos ruedas. Por la mañana visitamos el convento y al mediodía la iglesia. Los caminos del puerto pueden estar resbaladizos, así que pedaleamos con cuidado. Por la tarde disfrutamos del aire del mar a lo largo de las playas antes de terminar la ruta."
           },
           "stops": [
             {
@@ -570,13 +629,15 @@
                 "de": "Santa Catalina Komendua",
                 "hu": "Santa Catalina Komendua",
                 "ro": "Santa Catalina Komendua",
-                "en": "Santa Catalina Komendua"
+                "en": "Santa Catalina Komendua",
+                "es": "Comendadora de Santa Catalina"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf die Abfahrt zum Kloster; die Straße kann bei Regen schmierig sein. Schutzbleche sind heute Ihr bester Freund.",
                 "hu": "Vigyázz a kolostorhoz vezető lejtőn; az út esőben csúszós lehet. A sárvédő ma a legjobb barátod lesz.",
                 "ro": "Atenție la coborârea spre mănăstire; drumul poate fi alunecos pe ploaie. Apărătorile de noroi sunt esențiale astăzi.",
-                "en": "Be careful on the descent to the convent; the road can be greasy in the rain. Mudguards are your best friend today."
+                "en": "Be careful on the descent to the convent; the road can be greasy in the rain. Mudguards are your best friend today.",
+                "es": "Ten cuidado en el descenso hacia el convento; la carretera puede volverse resbaladiza con lluvia. Los guardabarros serán tus mejores aliados hoy."
               }
             },
             {
@@ -584,13 +645,15 @@
                 "de": "Jasokundeko Andre Mari eliza",
                 "hu": "Jasokundeko Andre Mari eliza",
                 "ro": "Jasokundeko Andre Mari eliza",
-                "en": "Jasokundeko Andre Mari eliza"
+                "en": "Jasokundeko Andre Mari eliza",
+                "es": "Iglesia de Jasokundeko Andre Mari"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Fahrrad unter einem Vorsprung und nutzen Sie die Kirchenbesichtigung für eine Pause im Trockenen.",
                 "hu": "Parkold a biciklit egy eresz alá, és használd ki a templomlátogatást egy száraz pihenőre.",
                 "ro": "Parchează bicicleta sub o streașină și profită de vizita la biserică pentru o pauză la adăpost.",
-                "en": "Park your bike under an overhang and use the church visit for a break in the dry."
+                "en": "Park your bike under an overhang and use the church visit for a break in the dry.",
+                "es": "Aparca la bicicleta bajo un alero y aprovecha la visita a la iglesia para hacer una pausa en seco."
               }
             },
             {
@@ -598,13 +661,15 @@
                 "de": "Portu gaineko ikuspegia",
                 "hu": "Portu gaineko ikuspegia",
                 "ro": "Portu gaineko ikuspegia",
-                "en": "Portu gaineko ikuspegia"
+                "en": "Portu gaineko ikuspegia",
+                "es": "Mirador sobre el puerto"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Fotostopp; wischen Sie die Linse nach dem Bild sofort trocken, um Wasserschäden zu vermeiden.",
                 "hu": "Csak egy rövid fotómegálló; a kép elkészítése után azonnal töröld szárazra a lencsét a károk elkerülése érdekében.",
                 "ro": "Doar o scurtă oprire foto; șterge imediat lentila după ce faci poza pentru a evita deteriorarea camerei.",
-                "en": "Just a quick photo stop; wipe your lens dry immediately after the shot to prevent water damage."
+                "en": "Just a quick photo stop; wipe your lens dry immediately after the shot to prevent water damage.",
+                "es": "Solo una parada rápida para foto; seca la lente inmediatamente tras la toma para evitar daños por agua."
               }
             },
             {
@@ -612,13 +677,15 @@
                 "de": "Kristozulo",
                 "hu": "Kristozulo",
                 "ro": "Kristozulo",
-                "en": "Kristozulo"
+                "en": "Kristozulo",
+                "es": "Kristozulo"
               },
               "tip_5lang": {
                 "de": "Die natürliche Felsformation bietet begrenzten Schutz vor Schauern; genießen Sie das Schauspiel der Wellen im Regen.",
                 "hu": "A természetes sziklaalakzat korlátozott védelmet nyújt a záporok elől; élvezd a hullámok látványát az esőben.",
                 "ro": "Formațiunea stâncoasă oferă adăpost limitat; bucură-te de spectacolul valurilor pe timp de ploaie.",
-                "en": "The natural rock formation offers limited shelter; enjoy the sight of the waves in the rain."
+                "en": "The natural rock formation offers limited shelter; enjoy the sight of the waves in the rain.",
+                "es": "La formación rocosa natural ofrece refugio limitado; disfruta de la vista de las olas bajo la lluvia."
               }
             },
             {
@@ -626,13 +693,15 @@
                 "de": "Hirugarren hondartza",
                 "hu": "Hirugarren hondartza",
                 "ro": "Hirugarren hondartza",
-                "en": "Hirugarren hondartza"
+                "en": "Hirugarren hondartza",
+                "es": "Tercera playa (Hirugarren hondartza)"
               },
               "tip_5lang": {
                 "de": "Meiden Sie die nassen Felsen direkt am Wasser; der Blick auf die graue Biskaya ist vom Radweg aus am sichersten.",
                 "hu": "Kerüld a nedves sziklákat a vízparton; a szürke Vizcayai-öböl látványa a kerékpárútról a legbiztonságosabb.",
                 "ro": "Evită stâncile ude de lângă apă; priveliștea Golfului Biscaya este cea mai sigură de pe pista de biciclete.",
-                "en": "Avoid the wet rocks near the water; the view of the grey Bay of Biscay is safest from the bike path."
+                "en": "Avoid the wet rocks near the water; the view of the grey Bay of Biscay is safest from the bike path.",
+                "es": "Evita las rocas húmedas junto al agua; la vista de la gris Bahía de Vizcaya es más segura desde el carril bici."
               }
             },
             {
@@ -640,13 +709,15 @@
                 "de": "Saturraran naturista",
                 "hu": "Saturraran naturista",
                 "ro": "Saturraran naturista",
-                "en": "Saturraran naturista"
+                "en": "Saturraran naturista",
+                "es": "Saturraran naturista"
               },
               "tip_5lang": {
                 "de": "Der Strand wirkt im Regen fast verlassen und friedlich; eine gute Regenjacke ist für diesen Abschnitt unerlässlich.",
                 "hu": "A strand esőben szinte elhagyatott és békés; egy jó esőkabát elengedhetetlen ehhez a szakaszhoz.",
                 "ro": "Plaja pare aproape pustie și liniștită pe ploaie; o pelerină bună este esențială pentru această porțiune.",
-                "en": "The beach feels almost deserted and peaceful in the rain; a good raincoat is essential for this stretch."
+                "en": "The beach feels almost deserted and peaceful in the rain; a good raincoat is essential for this stretch.",
+                "es": "La playa se siente casi desierta y tranquila bajo la lluvia; un buen impermeable es esencial para este tramo."
               }
             }
           ]
@@ -656,7 +727,8 @@
             "de": "Die kühle Winterluft macht die Radtour durch Mutriku besonders erfrischend. Morgens besichtigen wir das Kloster, mittags wärmen wir uns in der Stadt auf. Wegen des frühen Sonnenuntergangs gegen 17:00 Uhr radeln wir zügig zu den Stränden, um das letzte Tageslicht zu nutzen.",
             "hu": "A hűvös téli levegő különösen felfrissíti a mutrikui kerékpártúrát. Reggel a kolostort nézzük meg, délben a városban melegszünk fel. A korai, 17:00 órás napnyugta miatt tempósan tekerünk a strandok felé, hogy kihasználjuk az utolsó fényeket.",
             "ro": "Aerul rece de iarnă face turul cu bicicleta prin Mutriku deosebit de revigorant. Dimineața vizităm mănăstirea, la prânz ne încălzim în oraș. Din cauza apusului devreme de la ora 17:00, pedalăm rapid spre plaje pentru a profita de ultima lumină.",
-            "en": "The cool winter air makes the bike tour through Mutriku especially refreshing. In the morning we visit the convent, at noon we warm up in town. Due to the early 5:00 PM sunset, we cycle briskly towards the beaches to use the last daylight."
+            "en": "The cool winter air makes the bike tour through Mutriku especially refreshing. In the morning we visit the convent, at noon we warm up in town. Due to the early 5:00 PM sunset, we cycle briskly towards the beaches to use the last daylight.",
+            "es": "El fresco aire invernal hace que la ruta en bici por Mutriku sea especialmente vigorizante. Por la mañana visitamos el convento y al mediodía nos abrigamos en el pueblo. Debido al temprano atardecer a las 17:00, pedalamos con rapidez hacia las playas para aprovechar la última luz del día."
           },
           "stops": [
             {
@@ -664,13 +736,15 @@
                 "de": "Santa Catalina Komendua",
                 "hu": "Santa Catalina Komendua",
                 "ro": "Santa Catalina Komendua",
-                "en": "Santa Catalina Komendua"
+                "en": "Santa Catalina Komendua",
+                "es": "Comendadora de Santa Catalina"
               },
               "tip_5lang": {
                 "de": "Tragen Sie winddichte Handschuhe, da der Fahrtwind an der Küste im Winter sehr beißend sein kann.",
                 "hu": "Viselj szélálló kesztyűt, mert a tengerparti menetszél télen nagyon metsző tud lenni.",
                 "ro": "Poartă mănuși rezistente la vânt, deoarece curentul de aer de pe coastă poate fi foarte tăios iarna.",
-                "en": "Wear windproof gloves, as the coastal headwind can be very biting in winter."
+                "en": "Wear windproof gloves, as the coastal headwind can be very biting in winter.",
+                "es": "Usa guantes cortaviento, ya que la brisa costera puede ser muy mordiente en invierno."
               }
             },
             {
@@ -678,13 +752,15 @@
                 "de": "Jasokundeko Andre Mari eliza",
                 "hu": "Jasokundeko Andre Mari eliza",
                 "ro": "Jasokundeko Andre Mari eliza",
-                "en": "Jasokundeko Andre Mari eliza"
+                "en": "Jasokundeko Andre Mari eliza",
+                "es": "Iglesia de Jasokundeko Andre Mari"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort für eine Pause, um die gefrorenen Finger in der windgeschützten Kirche aufzuwärmen.",
                 "hu": "Ideális hely egy szünetre, hogy a szélvédett templomban felmelegítsd átfagyott ujjaidat.",
                 "ro": "Un loc ideal pentru o pauză, pentru a-ți încălzi degetele înghețate în biserica ferită de vânt.",
-                "en": "An ideal place for a break to warm up frozen fingers in the wind-sheltered church."
+                "en": "An ideal place for a break to warm up frozen fingers in the wind-sheltered church.",
+                "es": "Un lugar ideal para una pausa y calentar dedos entumecidos en la iglesia, resguardada del viento."
               }
             },
             {
@@ -692,13 +768,15 @@
                 "de": "Portu gaineko ikuspegia",
                 "hu": "Portu gaineko ikuspegia",
                 "ro": "Portu gaineko ikuspegia",
-                "en": "Portu gaineko ikuspegia"
+                "en": "Portu gaineko ikuspegia",
+                "es": "Mirador sobre el puerto"
               },
               "tip_5lang": {
                 "de": "Die Wintersonne steht tief und bietet hervorragende Lichtverhältnisse für Fotos vom Hafenbecken.",
                 "hu": "A téli nap alacsonyan jár, ami kiváló fényviszonyokat teremt a kikötő fotózásához.",
                 "ro": "Soarele de iarnă este jos, oferind condiții de lumină excelente pentru fotografii ale portului.",
-                "en": "The winter sun is low, providing excellent lighting conditions for photos of the harbor basin."
+                "en": "The winter sun is low, providing excellent lighting conditions for photos of the harbor basin.",
+                "es": "El sol bajo de invierno proporciona excelentes condiciones de iluminación para fotos del vaso del puerto."
               }
             },
             {
@@ -706,13 +784,15 @@
                 "de": "Kristozulo",
                 "hu": "Kristozulo",
                 "ro": "Kristozulo",
-                "en": "Kristozulo"
+                "en": "Kristozulo",
+                "es": "Kristozulo"
               },
               "tip_5lang": {
                 "de": "Das Meer ist im Winter oft rau; halten Sie Abstand zur Gischt, um nicht nass und ausgekühlt zu werden.",
                 "hu": "A tenger télen gyakran haragos; tarts távolságot a tajtéktól, hogy ne ázz el és ne hűlj le túlságosan.",
                 "ro": "Marea este adesea agitată iarna; păstrează distanța față de valuri pentru a nu te uda și răci.",
-                "en": "The sea is often rough in winter; keep your distance from the spray to avoid getting wet and chilled."
+                "en": "The sea is often rough in winter; keep your distance from the spray to avoid getting wet and chilled.",
+                "es": "El mar suele estar picado en invierno; mantén distancia de las olas para evitar mojarte y quedarte frío."
               }
             },
             {
@@ -720,13 +800,15 @@
                 "de": "Hirugarren hondartza",
                 "hu": "Hirugarren hondartza",
                 "ro": "Hirugarren hondartza",
-                "en": "Hirugarren hondartza"
+                "en": "Hirugarren hondartza",
+                "es": "Tercera playa (Hirugarren hondartza)"
               },
               "tip_5lang": {
                 "de": "Der Radweg ist im Winter leerer; nutzen Sie die Ruhe, aber achten Sie auf weggewehten Sand auf der Fahrbahn.",
                 "hu": "A kerékpárút télen üresebb; élvezd a nyugalmat, de vigyázz az útra fújt homokra.",
                 "ro": "Pista de biciclete este mai liberă iarna; bucură-te de liniște, dar atenție la nisipul suflat pe drum.",
-                "en": "The bike path is emptier in winter; enjoy the peace, but watch out for wind-blown sand on the path."
+                "en": "The bike path is emptier in winter; enjoy the peace, but watch out for wind-blown sand on the path.",
+                "es": "El carril bici está más vacío en invierno; disfruta de la tranquilidad, pero ojo con la arena que el viento pueda arrastrar sobre la senda."
               }
             },
             {
@@ -734,13 +816,15 @@
                 "de": "Saturraran naturista",
                 "hu": "Saturraran naturista",
                 "ro": "Saturraran naturista",
-                "en": "Saturraran naturista"
+                "en": "Saturraran naturista",
+                "es": "Saturraran naturista"
               },
               "tip_5lang": {
                 "de": "Die Winterdämmerung beginnt hier früh; stellen Sie sicher, dass Ihre Fahrradbeleuchtung einwandfrei funktioniert.",
                 "hu": "A téli szürkület itt korán kezdődik; győződj meg róla, hogy a kerékpáros világításod tökéletesen működik.",
                 "ro": "Amurgul de iarnă începe devreme aici; asigură-te că luminile bicicletei funcționează impecabil.",
-                "en": "Winter twilight starts early here; make sure your bike lights are functioning perfectly."
+                "en": "Winter twilight starts early here; make sure your bike lights are functioning perfectly.",
+                "es": "El crepúsculo invernal comienza temprano aquí; asegúrate de que las luces de la bici funcionen perfectamente."
               }
             }
           ]
@@ -760,7 +844,8 @@
             "de": "Arrikrutzeko hilarria",
             "hu": "Arrikrutzeko hilarria",
             "ro": "Arrikrutzeko hilarria",
-            "en": "Arrikrutzeko hilarria"
+            "en": "Arrikrutzeko hilarria",
+            "es": "Arrikrutzeko hilarria"
           },
           "coords": [
             -2.399311,
@@ -775,7 +860,8 @@
             "de": "Fahren Sie zu dieser faszinierenden antiken Stele, einem Zeugnis früher baskischer Bestattungspraktiken, und nutzen Sie den kleinen Schotterparkplatz.",
             "hu": "Vezessen ki ehhez az ősi sztéléhez, amely a korai baszk temetkezési szokások bizonyítéka, és használja a közeli kis kavicsos parkolót a megálláshoz.",
             "ro": "Conduceți până la această stelă antică, o dovadă a practicilor funerare basce timpurii, folosind mica parcare cu pietriș din apropiere.",
-            "en": "Drive out to this intriguing ancient stele, a testament to early Basque funerary practices, using the small gravel pull-off nearby for parking."
+            "en": "Drive out to this intriguing ancient stele, a testament to early Basque funerary practices, using the small gravel pull-off nearby for parking.",
+            "es": "Conduce hasta esta intrigante estela ancestral, testigo de las prácticas funerarias vascas antiguas; aparca en la pequeña área de grava habilitada."
           }
         },
         {
@@ -783,7 +869,8 @@
             "de": "Ziñuako karobia",
             "hu": "Ziñuako karobia",
             "ro": "Ziñuako karobia",
-            "en": "Ziñuako karobia"
+            "en": "Ziñuako karobia",
+            "es": "Horno de cal de Ziñua (Ziñuako karobia)"
           },
           "coords": [
             -2.409176,
@@ -798,7 +885,8 @@
             "de": "Besichtigen Sie diesen historischen Kalkofen in der ländlichen Landschaft, der einen einzigartigen Einblick in die traditionellen Industrien bietet.",
             "hu": "Tekintse meg ezt a vidéki tájba illeszkedő történelmi mészégetőt, amely egyedülálló bepillantást enged a régió hagyományos iparába.",
             "ro": "Inspectați acest cuptor istoric de var integrat în peisajul rural, care oferă o privire unică asupra industriilor tradiționale ale regiunii.",
-            "en": "Inspect this historic lime kiln structure integrated into the rural landscape, offering a unique glimpse into the region's traditional industries."
+            "en": "Inspect this historic lime kiln structure integrated into the rural landscape, offering a unique glimpse into the region's traditional industries.",
+            "es": "Inspecciona esta histórica estructura de horno de cal integrada en el paisaje rural, que ofrece una visión única de las industrias tradicionales de la región."
           }
         },
         {
@@ -806,7 +894,8 @@
             "de": "Jentiletxetako haitzuloak",
             "hu": "Jentiletxetako haitzuloak",
             "ro": "Jentiletxetako haitzuloak",
-            "en": "Jentiletxetako haitzuloak"
+            "en": "Jentiletxetako haitzuloak",
+            "es": "Cuevas de Jentiletxe (Jentiletxetako haitzuloak)"
           },
           "coords": [
             -2.409876,
@@ -821,7 +910,8 @@
             "de": "Parken Sie sicher und wandern Sie kurz zu diesen mythischen Höhlen der baskischen Riesenlegenden, und bringen Sie eine Taschenlampe mit.",
             "hu": "Parkoljon le, és tegyen egy rövid túrát a baszk óriáslegendákhoz kapcsolódó mitikus barlangokhoz, és vigyen magával zseblámpát a bejáratnál.",
             "ro": "Parcați în siguranță și faceți o scurtă drumeție către aceste peșteri mitice legate de legendele basce, luând o lanternă pentru vizibilitate.",
-            "en": "Park safely and take a short hike to these mythical caves linked to Basque legends of giants, carrying a flashlight to see the entrance details."
+            "en": "Park safely and take a short hike to these mythical caves linked to Basque legends of giants, carrying a flashlight to see the entrance details.",
+            "es": "Aparca de forma segura y realiza una corta caminata hasta estas cuevas míticas vinculadas a leyendas vascas de gigantes; lleva una linterna para ver los detalles de la entrada."
           }
         },
         {
@@ -829,7 +919,8 @@
             "de": "Nautilus",
             "hu": "Nautilus",
             "ro": "Nautilus",
-            "en": "Nautilus"
+            "en": "Nautilus",
+            "es": "Nautilus"
           },
           "coords": [
             -2.3895,
@@ -844,7 +935,8 @@
             "de": "Kehren Sie in die Stadt zurück, um den Nautilus zu erkunden, und parken Sie auf dem öffentlichen Parkplatz, da Straßenparkplätze selten sind.",
             "hu": "Térjen vissza a városba, hogy felfedezze a Nautilus geológiai csodáit, és parkoljon a közeli nyilvános parkolóban, mert az utcai hely ritka.",
             "ro": "Întoarceți-vă în oraș pentru a explora minunile geologice la Nautilus, parcând în lotul public din apropiere, deoarece locurile stradale sunt rare.",
-            "en": "Return to town to explore the geological wonders at Nautilus, parking at the nearby public lot as street spots in the center are extremely rare."
+            "en": "Return to town to explore the geological wonders at Nautilus, parking at the nearby public lot as street spots in the center are extremely rare.",
+            "es": "Regresa al pueblo para explorar las maravillas geológicas en Nautilus; deja el coche en el aparcamiento público cercano, ya que las plazas en la calle del centro son extremadamente escasas."
           }
         },
         {
@@ -852,7 +944,8 @@
             "de": "Arrietakua jauregia",
             "hu": "Arrietakua jauregia",
             "ro": "Arrietakua jauregia",
-            "en": "Arrietakua jauregia"
+            "en": "Arrietakua jauregia",
+            "es": "Palacio Arrietakua"
           },
           "coords": [
             -2.386139,
@@ -867,7 +960,8 @@
             "de": "Beenden Sie Ihre Fahrt mit einem Besuch in diesem majestätischen Marinepalast und erfahren Sie in einer Führung mehr über die seefahrenden Besitzer.",
             "hu": "Fejezze be az autózást ennek a fenséges tengerészeti palotának a meglátogatásával, ahol egy vezetés során megismerheti tengerész tulajdonosait.",
             "ro": "Încheiați plimbarea cu o vizită la acest palat naval maiestuos, aflând despre proprietarii săi navigatori prin intermediul unui tur ghidat detaliat.",
-            "en": "Conclude your drive with a visit to this majestic naval palace, learning about its famous seafaring owners through an insightful guided tour."
+            "en": "Conclude your drive with a visit to this majestic naval palace, learning about its famous seafaring owners through an insightful guided tour.",
+            "es": "Concluye tu ruta en coche con una visita a este majestuoso palacio naval, conociendo a través de una visita guiada a sus famosos propietarios marineros."
           }
         }
       ],
@@ -875,7 +969,8 @@
         "de": "Wir brechen morgens aufs Land auf, um die antike Arrikrutzeko hilarria und den rustikalen Kalkofen Ziñuako karobia zu entdecken. / Gegen Mittag bringt uns eine kurze Fahrt zu den mythischen Höhlen von Jentiletxetako haitzuloak, die in den baskischen Legenden verwurzelt sind. / Am Nachmittag kehren wir ins Küstenstädtchen zurück, um die bemerkenswerten Fossilien im Nautilus-Museum zu erkunden. / Der Abend schließt unsere Reise mit einem majestätischen Besuch im Arrietakua-Palast ab, der den maritimen Ruhm Mutrikus zeigt.",
         "hu": "Reggel a vidékre indulunk, hogy felfedezzük az ősi Arrikrutzeko hilarriát és a rusztikus Ziñuako karobia mészégetőt. / Délre egy rövid út elvisz minket a Jentiletxetako haitzuloak mitikus barlangjaihoz, amelyek a Baszkföld lenyűgöző óriáslegendáiban gyökereznek. / Délután visszatérünk a tengerparti városközpontba, hogy felfedezzük a Nautilus múzeumban kiállított figyelemre méltó fosszíliákat. / Az este az Arrietakua palota fejedelmi meglátogatásával zárul, amely tökéletesen foglalja össze Mutriku történelmi dicsőségét.",
         "ro": "Plecăm dimineața spre mediul rural pentru a descoperi vechea Arrikrutzeko hilarria și cuptorul rustic de var Ziñuako karobia. / Până la amiază, un scurt drum ne duce la peșterile mitice din Jentiletxetako haitzuloak, pline de fascinantele legende basce. / După-amiaza, ne întoarcem în centrul orașului de coastă pentru a explora fosilele remarcabile expuse la muzeul Nautilus. / Seara se încheie cu o vizită regală la palatul Arrietakua, rezumând perfect gloria maritimă a orașului istoric Mutriku.",
-        "en": "We set off into the countryside this morning to discover the ancient Arrikrutzeko hilarria and the rustic Ziñuako karobia lime kiln. / By midday, a short drive brings us to the mythical caves of Jentiletxetako haitzuloak, steeped in the fascinating giant legends of the Basque Country. / In the afternoon, we return to the coastal town center to explore the remarkable ammonite fossils displayed at the Nautilus museum. / Evening concludes our journey with a regal visit to the Arrietakua palace, perfectly summarizing the maritime glory of historic Mutriku."
+        "en": "We set off into the countryside this morning to discover the ancient Arrikrutzeko hilarria and the rustic Ziñuako karobia lime kiln. / By midday, a short drive brings us to the mythical caves of Jentiletxetako haitzuloak, steeped in the fascinating giant legends of the Basque Country. / In the afternoon, we return to the coastal town center to explore the remarkable ammonite fossils displayed at the Nautilus museum. / Evening concludes our journey with a regal visit to the Arrietakua palace, perfectly summarizing the maritime glory of historic Mutriku.",
+        "es": "Esta mañana nos adentramos en el campo para descubrir la antigua Arrikrutzeko hilarria y el rústico horno de cal Ziñuako karobia. / Al mediodía, un corto trayecto nos lleva a las míticas cuevas de Jentiletxe, impregnadas de las fascinantes leyendas de gigantes del País Vasco. / Por la tarde volvemos al centro costero para explorar los notables fósiles de amonites expuestos en el museo Nautilus. / La noche concluye nuestro recorrido con una visita señorial al palacio Arrietakua, que resume a la perfección la gloria marítima de la histórica Mutriku."
       },
       "variants": {
         "rainy": {
@@ -883,7 +978,8 @@
             "de": "Mit dem Auto erkunden wir Mutrikus Umland wetterunabhängig. Vormittags besuchen wir historische Stätten, mittags flüchten wir in das Nautilus-Museum. Die Fahrt durch die grüne, regenverhangene Küstenlandschaft ist sehr stimmungsvoll. Den Tag beenden wir sicher und trocken im Stadtzentrum.",
             "hu": "Autóval az időjárástól függetlenül fedezzük fel Mutriku környékét. Délelőtt történelmi helyszíneket látogatunk, délben a Nautilus múzeumba menekülünk. Az eső áztatta zöld tengerparti táj látványa rendkívül hangulatos. A napot biztonságban és szárazon zárjuk a városközpontban.",
             "ro": "Cu mașina, explorăm împrejurimile orașului Mutriku indiferent de vreme. Dimineața vizităm situri istorice, la prânz ne adăpostim la muzeul Nautilus. Peisajul de coastă verde și ploios este foarte atmosferic. Încheiem ziua la adăpost în centrul orașului.",
-            "en": "By car, we explore Mutriku's surroundings regardless of the weather. In the morning we visit historical sites, at noon we retreat to the Nautilus Museum. The drive through the green, rainy coastal landscape is very atmospheric. We end the day safe and dry in the city center."
+            "en": "By car, we explore Mutriku's surroundings regardless of the weather. In the morning we visit historical sites, at noon we retreat to the Nautilus Museum. The drive through the green, rainy coastal landscape is very atmospheric. We end the day safe and dry in the city center.",
+            "es": "En coche exploramos los alrededores de Mutriku sin importar el tiempo. Por la mañana visitamos sitios históricos y al mediodía nos refugiamos en el Museo Nautilus. El viaje por el verde y lluvioso paisaje costero es muy atmosférico. Terminamos el día seguros y secos en el centro de la ciudad."
           },
           "stops": [
             {
@@ -891,13 +987,15 @@
                 "de": "Arrikrutzeko hilarria",
                 "hu": "Arrikrutzeko hilarria",
                 "ro": "Arrikrutzeko hilarria",
-                "en": "Arrikrutzeko hilarria"
+                "en": "Arrikrutzeko hilarria",
+                "es": "Arrikrutzeko hilarria"
               },
               "tip_5lang": {
                 "de": "Stoppen Sie nah am Denkmal; so können Sie die Stele auch bei kurzen Regenpausen schnell besichtigen.",
                 "hu": "Állj meg közel az emlékműhöz; így a rövid esőszünetekben is gyorsan megtekintheted a sztélét.",
                 "ro": "Oprește aproape de monument; astfel poți vizita rapid steaua chiar și în scurte pauze de ploaie.",
-                "en": "Stop close to the monument; this way you can quickly visit the stele even during short breaks in the rain."
+                "en": "Stop close to the monument; this way you can quickly visit the stele even during short breaks in the rain.",
+                "es": "Detente cerca del monumento; así podrás visitar rápidamente la estela incluso durante breves claros en la lluvia."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Ziñuako karobia",
                 "hu": "Ziñuako karobia",
                 "ro": "Ziñuako karobia",
-                "en": "Ziñuako karobia"
+                "en": "Ziñuako karobia",
+                "es": "Karobia de Ziña"
               },
               "tip_5lang": {
                 "de": "Der Kalkofen liegt etwas abseits; feste Schuhe sind wegen des matschigen Bodens heute ein Muss.",
                 "hu": "A mészégető kemence kicsit félreesik; a sáros talaj miatt ma elengedhetetlen a zárt, vízálló cipő.",
                 "ro": "Cuptorul de var este puțin retras; încălțămintea rezistentă este obligatorie astăzi din cauza noroiului.",
-                "en": "The lime kiln is a bit off the path; sturdy shoes are a must today due to the muddy ground."
+                "en": "The lime kiln is a bit off the path; sturdy shoes are a must today due to the muddy ground.",
+                "es": "El horno de cal queda un poco apartado del camino; hoy son imprescindibles unas botas resistentes por el barro."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Jentiletxetako haitzuloak",
                 "hu": "Jentiletxetako haitzuloak",
                 "ro": "Jentiletxetako haitzuloak",
-                "en": "Jentiletxetako haitzuloak"
+                "en": "Jentiletxetako haitzuloak",
+                "es": "Cueva de Jentiletxe"
               },
               "tip_5lang": {
                 "de": "Die Höhlen bieten natürlichen Schutz vor Regen; genießen Sie die Kühle und die Legenden dieses Ortes.",
                 "hu": "A barlangok természetes védelmet nyújtanak az eső ellen; élvezd a hűvöst és a helyi legendákat.",
                 "ro": "Peșterile oferă protecție naturală împotriva ploii; bucură-te de răcoare și de legendele acestui loc.",
-                "en": "The caves provide natural protection from the rain; enjoy the cool air and the legends of this place."
+                "en": "The caves provide natural protection from the rain; enjoy the cool air and the legends of this place.",
+                "es": "Las cuevas ofrecen protección natural contra la lluvia; disfruta del aire fresco y de las leyendas del lugar."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Nautilus",
                 "hu": "Nautilus",
                 "ro": "Nautilus",
-                "en": "Nautilus"
+                "en": "Nautilus",
+                "es": "Nautilus"
               },
               "tip_5lang": {
                 "de": "Der perfekte Stopp während eines starken Schauers; Parkplätze finden Sie in unmittelbarer Nähe des Museums.",
                 "hu": "Tökéletes megálló egy nagyobb zápor idején; parkolóhelyet közvetlenül a múzeum mellett találsz.",
                 "ro": "Oprirea perfectă în timpul unei ploi torențiale; vei găsi locuri de parcare chiar lângă muzeu.",
-                "en": "The perfect stop during a heavy downpour; you can find parking spaces directly next to the museum."
+                "en": "The perfect stop during a heavy downpour; you can find parking spaces directly next to the museum.",
+                "es": "Parada perfecta durante un fuerte aguacero; hay aparcamiento justo al lado del museo."
               }
             },
             {
@@ -947,13 +1051,15 @@
                 "de": "Arrietakua jauregia",
                 "hu": "Arrietakua jauregia",
                 "ro": "Arrietakua jauregia",
-                "en": "Arrietakua jauregia"
+                "en": "Arrietakua jauregia",
+                "es": "Palacio Arrietakua"
               },
               "tip_5lang": {
                 "de": "Buchen Sie die Tour im Voraus, um die Wartezeit im Regen zu minimieren und direkt ins Warme zu gelangen.",
                 "hu": "Foglalja le előre a túrát, hogy minimálisra csökkentse az esőben való várakozást és rögtön bejuthasson.",
                 "ro": "Rezervă turul în avans pentru a minimiza timpul de așteptare în ploaie și pentru a intra direct la căldură.",
-                "en": "Book the tour in advance to minimize waiting time in the rain and get straight into the warmth."
+                "en": "Book the tour in advance to minimize waiting time in the rain and get straight into the warmth.",
+                "es": "Reserva la visita con antelación para reducir el tiempo de espera bajo la lluvia y entrar directamente al calor."
               }
             }
           ]
@@ -963,7 +1069,8 @@
             "de": "Im beheizten Auto genießen wir die winterliche Küstenlandschaft von Mutriku. Vormittags besichtigen wir historische Monumente im Freien, mittags wärmen wir uns in Museen und Palästen auf. Da es gegen 17:00 Uhr dunkel wird, planen wir die Aussichtspunkte für den frühen Nachmittag ein.",
             "hu": "A fűtött autó kényelméből csodáljuk Mutriku téli tengerparti tájait. Délelőtt a szabadtéri műemlékeket nézzük meg, délben a múzeumok és paloták falai között melegszünk fel. Mivel 17:00 körül sötétedik, a kilátópontokat kora délutánra időzítjük.",
             "ro": "Din confortul mașinii încălzite, admirăm peisajele de iarnă ale coastei Mutriku. Dimineața vizităm monumentele în aer liber, la prânz ne încălzim în muzeu și palate. Deoarece se întunecă în jur de ora 17:00, planificăm punctele de belvedere pentru începutul după-amiezii.",
-            "en": "From the comfort of a heated car, we admire Mutriku's winter coastal landscapes. In the morning we visit outdoor monuments, at noon we warm up inside museums and palaces. Since it gets dark around 5:00 PM, we schedule viewpoints for the early afternoon."
+            "en": "From the comfort of a heated car, we admire Mutriku's winter coastal landscapes. In the morning we visit outdoor monuments, at noon we warm up inside museums and palaces. Since it gets dark around 5:00 PM, we schedule viewpoints for the early afternoon.",
+            "es": "Desde la comodidad de un coche climatizado admiramos los paisajes costeros invernales de Mutriku. Por la mañana visitamos monumentos al aire libre; al mediodía nos calentamos en museos y palacios. Como anochece sobre las 17:00, programamos los miradores para primeras horas de la tarde."
           },
           "stops": [
             {
@@ -971,13 +1078,15 @@
                 "de": "Arrikrutzeko hilarria",
                 "hu": "Arrikrutzeko hilarria",
                 "ro": "Arrikrutzeko hilarria",
-                "en": "Arrikrutzeko hilarria"
+                "en": "Arrikrutzeko hilarria",
+                "es": "Sepulcro de Arrikrutze"
               },
               "tip_5lang": {
                 "de": "Die klare Winterluft ermöglicht weite Blicke in die umliegende Berglandschaft vom Auto aus.",
                 "hu": "A tiszta téli levegő messzi kilátást enged a környező hegyvidékre közvetlenül az autóból.",
                 "ro": "Aerul clar de iarnă permite vederi îndepărtate spre peisajul montan înconjurător chiar din mașină.",
-                "en": "The clear winter air allows for distant views of the surrounding mountain landscape right from the car."
+                "en": "The clear winter air allows for distant views of the surrounding mountain landscape right from the car.",
+                "es": "El aire claro del invierno permite ver a lo lejos el paisaje montañoso desde el propio coche."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Ziñuako karobia",
                 "hu": "Ziñuako karobia",
                 "ro": "Ziñuako karobia",
-                "en": "Ziñuako karobia"
+                "en": "Ziñuako karobia",
+                "es": "Karobia de Ziña"
               },
               "tip_5lang": {
                 "de": "Ein kurzer, knackiger Spaziergang zum Ofen hilft, den Kreislauf in der kühlen Winterluft in Schwung zu bringen.",
                 "hu": "Egy rövid, tempós séta a kemencéhez segít felpezsdíteni a vérkeringést a hűvös téli levegőben.",
                 "ro": "O scurtă plimbare vioaie până la cuptor ajută la punerea sângelui în mișcare în aerul rece de iarnă.",
-                "en": "A short, brisk walk to the kiln helps get your circulation going in the cool winter air."
+                "en": "A short, brisk walk to the kiln helps get your circulation going in the cool winter air.",
+                "es": "Un paseo breve y enérgico hasta el horno ayuda a activar la circulación con el fresco invernal."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Jentiletxetako haitzuloak",
                 "hu": "Jentiletxetako haitzuloak",
                 "ro": "Jentiletxetako haitzuloak",
-                "en": "Jentiletxetako haitzuloak"
+                "en": "Jentiletxetako haitzuloak",
+                "es": "Cueva de Jentiletxe"
               },
               "tip_5lang": {
                 "de": "In den Höhlen ist es im Winter oft wärmer als draußen; ein guter Ort, um kurz der Kälte zu entfliehen.",
                 "hu": "A barlangokban télen gyakran melegebb van, mint odakint; jó hely egy rövid menekülésre a hideg elől.",
                 "ro": "În peșteri este adesea mai cald iarna decât afară; un loc bun pentru o scurtă evadare din frig.",
-                "en": "Inside the caves, it's often warmer in winter than outside; a good spot for a brief escape from the cold."
+                "en": "Inside the caves, it's often warmer in winter than outside; a good spot for a brief escape from the cold.",
+                "es": "Dentro de las cuevas suele hacer más calor en invierno que en el exterior; un buen refugio breve contra el frío."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Nautilus",
                 "hu": "Nautilus",
                 "ro": "Nautilus",
-                "en": "Nautilus"
+                "en": "Nautilus",
+                "es": "Nautilus"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den beheizten Innenraum des Museums, um sich vor der Weiterfahrt gründlich aufzuwärmen.",
                 "hu": "Használd ki a múzeum fűtött belterét, hogy alaposan felmelegedj a továbbút előtt.",
                 "ro": "Profită de interiorul încălzit al muzeului pentru a te încălzi bine înainte de a porni mai departe.",
-                "en": "Take advantage of the museum's heated interior to warm up thoroughly before continuing your drive."
+                "en": "Take advantage of the museum's heated interior to warm up thoroughly before continuing your drive.",
+                "es": "Aprovecha el interior calefactado del museo para calentarte bien antes de reanudar la ruta."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Arrietakua jauregia",
                 "hu": "Arrietakua jauregia",
                 "ro": "Arrietakua jauregia",
-                "en": "Arrietakua jauregia"
+                "en": "Arrietakua jauregia",
+                "es": "Palacio Arrietakua"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Komfort einer Innenbesichtigung; die tiefstehende Sonne sorgt für tolle Schatteneffekte im Hof.",
                 "hu": "Élvezd a belső bejárás kényelmét; az alacsonyan járó nap remek árnyékhatásokat kelt az udvaron.",
                 "ro": "Bucură-te de confortul unei vizite în interior; soarele jos creează efecte de umbră superbe în curte.",
-                "en": "Enjoy the comfort of an indoor tour; the low sun creates great shadow effects in the courtyard."
+                "en": "Enjoy the comfort of an indoor tour; the low sun creates great shadow effects in the courtyard.",
+                "es": "Disfruta del confort de una visita interior; el sol bajo crea grandes efectos de sombra en el patio."
               }
             }
           ]

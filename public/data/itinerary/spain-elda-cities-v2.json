@@ -21,7 +21,8 @@
             "de": "Auditorium der Plaza Castelar",
             "hu": "Plaza Castelar Auditórium",
             "ro": "Auditoriul din Plaza Castelar",
-            "en": "Auditorio de la Plaza Castelar"
+            "en": "Auditorio de la Plaza Castelar",
+            "es": "Auditorio de la Plaza Castelar"
           },
           "coords": [
             -0.789228,
@@ -36,7 +37,8 @@
             "de": "Überprüfen Sie vor Ihrem Besuch den lokalen Veranstaltungskalender, um diesen lebendigen Kulturort voll zu würdigen, und holen Sie sich einen Kaffee in der Nähe.",
             "hu": "A látogatás előtt ellenőrizze a helyi eseménynaptárt, hogy teljes mértékben értékelni tudja ezt a kulturális központot, és igyon egy kávét a közelben.",
             "ro": "Verificați programul evenimentelor locale înainte de vizită pentru a aprecia pe deplin acest centru cultural vibrant și savurați o cafea la o terasă din apropiere.",
-            "en": "Check the local event schedule before your morning visit to fully appreciate this vibrant cultural hub, and grab a freshly brewed coffee at a nearby cafe."
+            "en": "Check the local event schedule before your morning visit to fully appreciate this vibrant cultural hub, and grab a freshly brewed coffee at a nearby cafe.",
+            "es": "Consulte la programación local de eventos antes de su visita matutina para disfrutar plenamente de este vibrante centro cultural y tómese un café recién hecho en una cafetería cercana."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Santa Ana",
             "hu": "Santa Ana Templom",
             "ro": "Biserica Santa Ana",
-            "en": "Santa Ana Church"
+            "en": "Santa Ana Church",
+            "es": "Iglesia de Santa Ana"
           },
           "coords": [
             -0.795884,
@@ -59,7 +62,8 @@
             "de": "Treten Sie in diese Pfarrkirche ein, um die wunderschön restaurierten Altarbilder zu bewundern, aber denken Sie aus Respekt an angemessene, bedeckte Kleidung.",
             "hu": "Lépjen be ebbe a plébániatemplomba, hogy megcsodálja a gyönyörűen restaurált oltárképeket, de a tisztelet jeléül öltözzön visszafogottan.",
             "ro": "Intrați în această biserică parohială pentru a admira altarele frumos restaurate, dar nu uitați să vă îmbrăcați decent în semn de respect pentru lăcaș.",
-            "en": "Step inside this iconic parish church to admire its beautifully restored altarpieces, but remember to dress modestly out of respect for the religious site."
+            "en": "Step inside this iconic parish church to admire its beautifully restored altarpieces, but remember to dress modestly out of respect for the religious site.",
+            "es": "Entre en esta iglesia parroquial icónica para admirar sus retablos restaurados; recuerde vestir con modestia por respeto al lugar religioso."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Burg von Elda",
             "hu": "Elda Vára",
             "ro": "Castelul din Elda",
-            "en": "Castillo de Elda"
+            "en": "Castillo de Elda",
+            "es": "Castillo de Elda"
           },
           "coords": [
             -0.797038,
@@ -82,7 +87,8 @@
             "de": "Gehen Sie um die alten Festungsmauern herum, um ihre mittelalterliche Bedeutung zu verstehen, und tragen Sie festes Schuhwerk für die unebenen und steilen Wege.",
             "hu": "Sétáljon körbe az ősi erődfalakon, hogy megértse középkori jelentőségét, és viseljen kényelmes, masszív cipőt az egyenetlen és meredek utakon.",
             "ro": "Plimbați-vă pe lângă vechile ziduri ale cetății pentru a înțelege importanța sa medievală și purtați încălțăminte solidă pentru potecile inegale și abrupte.",
-            "en": "Walk around the ancient fortress walls to understand its strategic medieval importance, and wear sturdy shoes for navigating the uneven and steep pathways."
+            "en": "Walk around the ancient fortress walls to understand its strategic medieval importance, and wear sturdy shoes for navigating the uneven and steep pathways.",
+            "es": "Recorra los antiguos muros de la fortaleza para entender su importancia estratégica medieval y lleve calzado resistente para las sendas irregulares y empinadas."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Schuhmacherdenkmal",
             "hu": "Cipész Emlékmű",
             "ro": "Monumentul Pantofarului",
-            "en": "Monumento al Zapatero"
+            "en": "Monumento al Zapatero",
+            "es": "Monumento al Zapatero"
           },
           "coords": [
             -0.793911,
@@ -105,7 +112,8 @@
             "de": "Machen Sie ein schnelles Foto mit dieser bronzenen Hommage an die Handwerker der Stadt, die leicht an einer belebten Kreuzung im Stadtzentrum zu finden ist.",
             "hu": "Készítsen egy gyors fotót a város kézműveseinek emléket állító bronz szoborral, amely a városközpont egyik forgalmas kereszteződésében található.",
             "ro": "Faceți o fotografie rapidă cu acest omagiu de bronz adus meșterilor orașului, aflat ușor la o intersecție aglomerată chiar din centrul localității.",
-            "en": "Snap a quick photo with this bronze tribute to the city's shoe artisans, easily found at a busy intersection directly in the bustling town center."
+            "en": "Snap a quick photo with this bronze tribute to the city's shoe artisans, easily found at a busy intersection directly in the bustling town center.",
+            "es": "Hazte una foto rápida junto a este homenaje de bronce a los artesanos del calzado, fácilmente visible en una intersección concurrida en el centro urbano."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Ethnologisches Museum von Elda",
             "hu": "Elda Néprajzi Múzeuma",
             "ro": "Muzeul Etnologic din Elda",
-            "en": "Museo Etnológico de Elda"
+            "en": "Museo Etnológico de Elda",
+            "es": "Museo Etnológico de Elda"
           },
           "coords": [
             -0.792646,
@@ -128,7 +137,8 @@
             "de": "Erkunden Sie das Alltagsleben vergangener Jahrhunderte durch faszinierende Artefakte; es wird jedoch dringend empfohlen, die genauen Öffnungszeiten vorab zu prüfen.",
             "hu": "Fedezze fel az elmúlt évszázadok mindennapi életét lenyűgöző háztartási tárgyakon keresztül, de erősen ajánlott előre ellenőrizni a pontos nyitvatartást.",
             "ro": "Explorați viața de zi cu zi din secolele trecute prin artefacte domestice fascinante, deși verificarea prealabilă a orelor exacte de program este recomandată.",
-            "en": "Explore everyday life from centuries past through fascinating domestic artifacts, though checking the exact opening hours in advance is highly recommended."
+            "en": "Explore everyday life from centuries past through fascinating domestic artifacts, though checking the exact opening hours in advance is highly recommended.",
+            "es": "Explora la vida cotidiana de siglos pasados a través de fascinantes objetos domésticos; se recomienda comprobar los horarios exactos de apertura con antelación."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Schuhmuseum",
             "hu": "Cipőmúzeum",
             "ro": "Muzeul Încălțămintei",
-            "en": "Museo del Calzado"
+            "en": "Museo del Calzado",
+            "es": "Museo del Calzado"
           },
           "coords": [
             -0.795348,
@@ -151,7 +162,8 @@
             "de": "Planen Sie mindestens zwei Stunden für die riesigen Schuhsammlungen ein und verpassen Sie keinesfalls die beeindruckende internationale Designerabteilung im Obergeschoss.",
             "hu": "Szánjon legalább két órát a hatalmas cipőgyűjteményekre, és semmiképpen se hagyja ki a lenyűgöző nemzetközi tervezői részleget a felső emeleten.",
             "ro": "Alocați cel puțin două ore pentru a vedea vastele colecții de pantofi și nu ratați impresionanta secțiune a designerilor internaționali de la etajul superior.",
-            "en": "Allocate at least two hours to see the vast shoe collections and historic machinery, and definitely don't miss the impressive international designer section."
+            "en": "Allocate at least two hours to see the vast shoe collections and historic machinery, and definitely don't miss the impressive international designer section.",
+            "es": "Reserva al menos dos horas para ver las amplias colecciones de calzado y la maquinaria histórica; no te pierdas la impresionante sección de diseñadores internacionales."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Morgen im kulturellen Zentrum der Plaza Castelar, bevor Sie zur historischen Kirche Santa Ana spazieren. Mittags erreichen Sie das imposante Castillo de Elda, das Einblicke in die mittelalterliche Vergangenheit bietet. Am Nachmittag entdecken Sie das einzigartige industrielle Erbe am Schuhmacherdenkmal und im faszinierenden ethnologischen Museum. Beenden Sie Ihren Tag mit der Erkundung des renommierten Schuhmuseums, das Eldas berühmtestes Handwerk feiert.",
         "hu": "Kezdje a reggelt a Plaza Castelar kulturális központjában, mielőtt átsétálna a történelmi Santa Ana templomhoz. Délben az impozáns Castillo de Elda várja, amely bepillantást enged a régió középkori múltjába. Délután fedezze fel a város egyedi ipari örökségét a cipész emlékműnél és a lenyűgöző néprajzi múzeumban. Zárja a napot a híres Cipőmúzeum felfedezésével, amely Elda legismertebb mesterségét ünnepli.",
         "ro": "Începeți dimineața în centrul cultural din Plaza Castelar, înainte de o plimbare plăcută spre biserica istorică Santa Ana. La prânz ajungeți la impunătorul Castillo de Elda, care oferă o privire în trecutul medieval al regiunii. După-amiaza, descoperiți patrimoniul industrial unic la monumentul pantofarului și la fascinantul muzeu etnologic. Încheiați ziua explorând renumitul Muzeu al Încălțămintei, care celebrează meșteșugul din Elda.",
-        "en": "Start your morning at the cultural heart of Plaza Castelar, soaking in the local atmosphere before a pleasant stroll to the historic Santa Ana church. Midday brings you to the imposing Castillo de Elda, offering a glimpse into the region's medieval past. In the afternoon, discover the city's unique industrial heritage at the shoemaker monument and the fascinating ethnological museum. Conclude your day exploring the renowned Footwear Museum."
+        "en": "Start your morning at the cultural heart of Plaza Castelar, soaking in the local atmosphere before a pleasant stroll to the historic Santa Ana church. Midday brings you to the imposing Castillo de Elda, offering a glimpse into the region's medieval past. In the afternoon, discover the city's unique industrial heritage at the shoemaker monument and the fascinating ethnological museum. Conclude your day exploring the renowned Footwear Museum.",
+        "es": "Comienza la mañana en el corazón cultural de la Plaza Castelar, empapándote del ambiente local antes de un agradable paseo hasta la iglesia histórica de Santa Ana. Al mediodía visita el imponente Castillo de Elda para asomarte al pasado medieval de la región. Por la tarde descubre la singular herencia industrial de la ciudad en el monumento al zapatero y el fascinante museo etnológico. Concluye el día explorando el renombrado Museo del Calzado."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Morgens bietet die Plaza Castelar Schutz unter den Arkaden vor dem Regen.\n\nMittags erkunden wir die Kirche und die Burg, wobei Vorsicht auf den rutschigen Steinen geboten ist.\n\nNachmittags sind die Museen perfekte Zufluchtsorte, um die lokale Kultur im Trockenen zu genießen.\n\nAbends endet die Tour im gemütlichen Stadtzentrum, geschützt durch Regenjacke und Schirm.",
             "hu": "Reggel a Plaza Castelar árkádjai alatt kezdünk, amely kiváló menedéket nyújt az eső elől.\n\nDélben a templom és a vár kövei csúszósak lehetnek, így csak óvatosan haladjunk az utakon.\n\nDélután a néprajzi és a cipőmúzeum nyújt fedett menedéket a városnézés folytatásához.\n\nEste a városközpont fényeiben, ernyő alatt zárjuk a sétát a hangulatos utcák egyikén.",
             "ro": "Dimineața oferă adăpost sub arcadele din Plaza Castelar pentru a evita ploaia de afară.\n\nLa prânz explorăm biserica și castelul, având grijă sporită pe treptele de piatră alunecoase.\n\nDupă-amiaza, muzeele orașului sunt refugii ideale pentru a descoperi cultura locală la uscat.\n\nSeara se încheie în centrul orașului, protejați de umbrele și de atmosfera caldă a străzilor.",
-            "en": "Morning starts under the arches of Plaza Castelar to stay dry during the first showers.\n\nAt noon, the church and castle require extra caution as the ancient stones become very slippery.\n\nAfternoon is best spent in the museums, which serve as perfect indoor shelters for tourists.\n\nEvening ends in the city center where a sturdy rain jacket will keep you comfortable and dry."
+            "en": "Morning starts under the arches of Plaza Castelar to stay dry during the first showers.\n\nAt noon, the church and castle require extra caution as the ancient stones become very slippery.\n\nAfternoon is best spent in the museums, which serve as perfect indoor shelters for tourists.\n\nEvening ends in the city center where a sturdy rain jacket will keep you comfortable and dry.",
+            "es": "La mañana comienza bajo los arcos de la Plaza Castelar para mantenerse seco durante los primeros chubascos.\n\nAl mediodía, la iglesia y el castillo requieren precaución extra, ya que las piedras antiguas se vuelven muy resbaladizas.\n\nLa tarde es mejor pasarla en los museos, que sirven como refugios interiores perfectos para los visitantes.\n\nLa noche termina en el centro donde una chaqueta impermeable resistente te mantendrá cómodo y seco."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Auditorium der Plaza Castelar",
                 "hu": "Plaza Castelar Auditórium",
                 "ro": "Auditoriul din Plaza Castelar",
-                "en": "Auditorio de la Plaza Castelar"
+                "en": "Auditorio de la Plaza Castelar",
+                "es": "Auditorio de la Plaza Castelar"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die moderne Architektur unter dem schützenden Dach des Auditoriums; es ist der ideale Ort, um den ersten Regenschauer trocken abzuwarten.",
                 "hu": "Élvezze a modern építészetet az auditórium védelmet nyújtó tetőszerkezete alatt; ez a legjobb hely a reggeli záporok szárazon történő megvárására.",
                 "ro": "Bucurați-vă de arhitectura modernă sub acoperișul protector al auditoriului; este locul ideal pentru a aștepta trecerea primei averse de ploaie.",
-                "en": "Enjoy the modern architecture under the protective roof of the auditorium; it is the ideal spot to wait out the first rain showers while staying dry."
+                "en": "Enjoy the modern architecture under the protective roof of the auditorium; it is the ideal spot to wait out the first rain showers while staying dry.",
+                "es": "Disfruta de la arquitectura moderna bajo el techo protector del auditorio; es el lugar ideal para esperar los primeros chaparrones sin mojarte."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Kirche Santa Ana",
                 "hu": "Santa Ana Templom",
                 "ro": "Biserica Santa Ana",
-                "en": "Santa Ana Church"
+                "en": "Santa Ana Church",
+                "es": "Iglesia de Santa Ana"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die kunstvollen Altäre in der Stille des Kirchenschiffs, das einen sicheren Schutz vor dem nassen Wetter und Wind im Freien bietet.",
                 "hu": "Csodálja meg a művészi oltárokat a templomhajó csendjében, amely biztonságos menedéket nyújt a kinti nedves időjárás és a kellemetlen szél elől.",
                 "ro": "Admirați altarele artistice în liniștea navei bisericii, care oferă un adăpost sigur împotriva vremii umede și a vântului de afară.",
-                "en": "Admire the artistic altars in the silence of the church nave, which provides a safe shelter from the wet weather and unpleasant winds outside."
+                "en": "Admire the artistic altars in the silence of the church nave, which provides a safe shelter from the wet weather and unpleasant winds outside.",
+                "es": "Admira los altares artísticos en el silencio de la nave, que ofrece un refugio seguro contra la lluvia y los vientos desagradables del exterior."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Burg von Elda",
                 "hu": "Elda Vára",
                 "ro": "Castelul din Elda",
-                "en": "Castillo de Elda"
+                "en": "Castillo de Elda",
+                "es": "Castillo de Elda"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die historischen Ruinen vorsichtig, da die alten Wege bei Regen rutschig sind; festes Schuhwerk mit gutem Profil ist hier unbedingt erforderlich.",
                 "hu": "Fedezze fel óvatosan a történelmi romokat, mivel az ősi utak esőben csúszósak; a jó tapadású, stabil lábbeli itt mindenképpen elengedhetetlen.",
                 "ro": "Explorați cu prudență ruinele istorice, deoarece drumurile vechi sunt alunecoase pe ploaie; încălțămintea stabilă cu aderență bună este esențială aici.",
-                "en": "Explore the historic ruins carefully, as the ancient paths become slippery in the rain; sturdy footwear with good grip is absolutely essential here."
+                "en": "Explore the historic ruins carefully, as the ancient paths become slippery in the rain; sturdy footwear with good grip is absolutely essential here.",
+                "es": "Explora las ruinas históricas con cuidado, pues los caminos antiguos se vuelven resbaladizos con la lluvia; un calzado resistente con buena suela es absolutamente esencial aquí."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Schuhmacherdenkmal",
                 "hu": "Cipész Emlékmű",
                 "ro": "Monumentul Pantofarului",
-                "en": "Monumento al Zapatero"
+                "en": "Monumento al Zapatero",
+                "es": "Monumento al Zapatero"
               },
               "tip_5lang": {
                 "de": "Machen Sie ein schnelles Foto von dieser Hommage an das lokale Handwerk und suchen Sie dann schnell wieder Schutz unter den nahegelegenen Vordächern.",
                 "hu": "Készítsen egy gyors fotót a helyi mesterség előtt tisztelgő emlékműnél, majd keressen hamar menedéket a közeli épületek ereszaljai alatt.",
                 "ro": "Faceți o fotografie rapidă la monumentul dedicat meșteșugului local, apoi căutați repede adăpost sub streșinile clădirilor din apropiere.",
-                "en": "Take a quick photo at the monument honoring the local craft, then quickly seek shelter again under the eaves of the nearby buildings."
+                "en": "Take a quick photo at the monument honoring the local craft, then quickly seek shelter again under the eaves of the nearby buildings.",
+                "es": "Hazte una foto rápida en el monumento que honra la artesanía local y luego busca refugio bajo los aleros de los edificios cercanos."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Ethnologisches Museum von Elda",
                 "hu": "Elda Néprajzi Múzeuma",
                 "ro": "Muzeul Etnologic din Elda",
-                "en": "Museo Etnológico de Elda"
+                "en": "Museo Etnológico de Elda",
+                "es": "Museo Etnológico de Elda"
               },
               "tip_5lang": {
                 "de": "Tauchen Sie in die Volkskunde ein, während die Regentropfen gegen die Fenster trommeln; das Museum ist perfekt für einen längeren, trockenen Aufenthalt.",
                 "hu": "Merüljön el a néprajzi kincsek között, miközben az eső kopog az ablakokon; a múzeum tökéletes helyszín egy hosszabb, száraz látogatáshoz.",
                 "ro": "Explorați comorile etnografice în timp ce ploaia bate în ferestre; muzeul este locația perfectă pentru o vizită prelungită la adăpost.",
-                "en": "Immerse yourself in ethnographic treasures while rain taps on the windows; the museum is the perfect location for a longer, dry visit."
+                "en": "Immerse yourself in ethnographic treasures while rain taps on the windows; the museum is the perfect location for a longer, dry visit.",
+                "es": "Sumérgete en los tesoros etnográficos mientras la lluvia golpea las ventanas; el museo es el lugar perfecto para una visita larga y seca."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Schuhmuseum",
                 "hu": "Cipőmúzeum",
                 "ro": "Muzeul Încălțămintei",
-                "en": "Museo del Calzado"
+                "en": "Museo del Calzado",
+                "es": "Museo del Calzado"
               },
               "tip_5lang": {
                 "de": "Verbringen Sie den Nachmittag in den beheizten Hallen voller Schuhgeschichte; nutzen Sie den Schirmständer im Eingangsbereich für Ihr nasses Equipment.",
                 "hu": "Töltse a délutánt a cipőtörténelemmel teli fűtött csarnokokban; használja a bejáratnál kihelyezett esernyőtartót a vizes felszerelései számára.",
                 "ro": "Petreceți după-amiaza în sălile încălzite pline de istoria încălțămintei; folosiți suportul de umbrele de la intrare pentru echipamentul ud.",
-                "en": "Spend the afternoon in the heated halls full of footwear history; use the umbrella stand at the entrance for your wet gear."
+                "en": "Spend the afternoon in the heated halls full of footwear history; use the umbrella stand at the entrance for your wet gear.",
+                "es": "Pasa la tarde en las salas climatizadas llenas de historia del calzado; utiliza el paragüero en la entrada para tu equipo mojado."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Der Morgen beginnt frisch auf der Plaza Castelar unter der klaren Wintersonne.\n\nMittags bietet der Aufstieg zur Burg eine tolle Aussicht, aber die Winde wehen hier oben kräftig.\n\nNachmittags wärmen wir uns in den interessanten Museen auf, die einen tiefen Einblick in die Stadtgeschichte geben.\n\nDa die Sonne gegen 17:00 Uhr untergeht, genießen wir den frühen Abend in den beleuchteten Gassen.",
             "hu": "A reggel friss és hűvös a Plaza Castelar terén a tiszta téli napsütésben.\n\nDélben a vár látogatása lenyűgöző kilátást nyújt, de a szél miatt érdemes rétegesen öltözni.\n\nDélután a múzeumok fűtött termeiben melegedhetünk fel, megismerve a város ipari múltját.\n\nA korai, 17 órai napnyugta miatt az estét már a hangulatosan kivilágított utcákon töltjük.",
             "ro": "Dimineața începe cu aer rece și proaspăt în Plaza Castelar sub soarele clar de iarnă.\n\nLa prânz, vizita la castel oferă o panoramă superbă, dar vântul suflă cu putere la înălțime.\n\nDupă-amiaza ne încălzim în muzeele interesante care oferă o perspectivă asupra istoriei orașului.\n\nDeoarece soarele apune pe la ora 17:00, ne bucurăm de seară pe străzile luminate feeric.",
-            "en": "The morning starts crisp and cool at Plaza Castelar under the clear winter sun.\n\nAt noon, the castle visit offers stunning views, but expect cold winds at the top of the hill.\n\nAfternoon is perfect for warming up inside the museums while learning about the city's industrial past.\n\nAs the sun sets around 17:00, we enjoy the early evening atmosphere in the brightly lit streets."
+            "en": "The morning starts crisp and cool at Plaza Castelar under the clear winter sun.\n\nAt noon, the castle visit offers stunning views, but expect cold winds at the top of the hill.\n\nAfternoon is perfect for warming up inside the museums while learning about the city's industrial past.\n\nAs the sun sets around 17:00, we enjoy the early evening atmosphere in the brightly lit streets.",
+            "es": "La mañana empieza fresca y fría en la Plaza Castelar bajo el claro sol invernal.\n\nAl mediodía, la visita al castillo ofrece vistas impresionantes, pero espera vientos fríos en la cima de la colina.\n\nLa tarde es perfecta para calentarse dentro de los museos mientras aprendes sobre el pasado industrial de la ciudad.\n\nAl ponerse el sol alrededor de las 17:00, disfrutamos del ambiente del atardecer en las calles iluminadas."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Auditorium der Plaza Castelar",
                 "hu": "Plaza Castelar Auditórium",
                 "ro": "Auditoriul din Plaza Castelar",
-                "en": "Auditorio de la Plaza Castelar"
+                "en": "Auditorio de la Plaza Castelar",
+                "es": "Auditorio de la Plaza Castelar"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das winterliche Treiben auf dem Platz; ein heißes Getränk in der Nähe hilft Ihnen, die kühle Morgenluft besser zu genießen.",
                 "hu": "Figyelje meg a tér téli nyüzsgését; egy közeli forró ital segít, hogy jobban élvezhesse a hűvös reggeli levegőt a séta kezdetén.",
                 "ro": "Observați agitația de iarnă din piață; o băutură caldă din apropiere vă va ajuta să vă bucurați mai bine de aerul rece de dimineață.",
-                "en": "Observe the winter bustle in the square; a hot drink from nearby will help you better enjoy the cool morning air as you start."
+                "en": "Observe the winter bustle in the square; a hot drink from nearby will help you better enjoy the cool morning air as you start.",
+                "es": "Observa el bullicio invernal en la plaza; una bebida caliente de los alrededores te ayudará a disfrutar mejor del fresco matutino."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Kirche Santa Ana",
                 "hu": "Santa Ana Templom",
                 "ro": "Biserica Santa Ana",
-                "en": "Santa Ana Church"
+                "en": "Santa Ana Church",
+                "es": "Iglesia de Santa Ana"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die stille und geschützte Atmosphäre der Kirche, um sich kurz aufzuwärmen, bevor Sie den Weg zum windigen Burgberg fortsetzen.",
                 "hu": "Használja ki a templom csendes és védett környezetét egy rövid melegedésre, mielőtt folytatná útját a szeles várhegy felé.",
                 "ro": "Profitați de atmosfera liniștită și protejată a bisericii pentru a vă încălzi puțin înainte de a continua drumul spre dealul castelului.",
-                "en": "Take advantage of the quiet and sheltered atmosphere of the church to warm up briefly before continuing to the windy castle hill."
+                "en": "Take advantage of the quiet and sheltered atmosphere of the church to warm up briefly before continuing to the windy castle hill.",
+                "es": "Aprovecha el ambiente tranquilo y resguardado de la iglesia para entrar en calor brevemente antes de continuar hacia la ventosa colina del castillo."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Burg von Elda",
                 "hu": "Elda Vára",
                 "ro": "Castelul din Elda",
-                "en": "Castillo de Elda"
+                "en": "Castillo de Elda",
+                "es": "Castillo de Elda"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie das klare Winterpanorama der Stadt von den alten Mauern aus; eine windfeste Jacke ist für den Aufenthalt auf dem Hügel ratsam.",
                 "hu": "Csodálja meg a város tiszta téli panorámáját a régi falakról; a dombtetőn való tartózkodáshoz egy szélálló kabát viselése javasolt.",
                 "ro": "Admirați panorama clară de iarnă a orașului de pe zidurile vechi; o jachetă rezistentă la vânt este recomandată pentru vizita pe deal.",
-                "en": "Admire the clear winter panorama of the city from the old walls; a windproof jacket is recommended for your stay on the hilltop."
+                "en": "Admire the clear winter panorama of the city from the old walls; a windproof jacket is recommended for your stay on the hilltop.",
+                "es": "Admira el claro panorama invernal de la ciudad desde las murallas; se recomienda una chaqueta cortavientos para tu estancia en la cima."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Schuhmacherdenkmal",
                 "hu": "Cipész Emlékmű",
                 "ro": "Monumentul Pantofarului",
-                "en": "Monumento al Zapatero"
+                "en": "Monumento al Zapatero",
+                "es": "Monumento al Zapatero"
               },
               "tip_5lang": {
                 "de": "Das Metall des Denkmals glänzt in der tiefstehenden Wintersonne; halten Sie den Moment kurz fest, bevor Sie wieder in die Wärme gehen.",
                 "hu": "Az emlékmű fémfelülete szépen csillog az alacsonyan járó téli napsütésben; örökítse meg a pillanatot, mielőtt visszatérne a melegbe.",
                 "ro": "Suprafața metalică a monumentului strălucește frumos în soarele de iarnă; surprindeți momentul rapid înainte de a vă întoarce la căldură.",
-                "en": "The metal surface of the monument shines beautifully in the low winter sun; capture the moment quickly before returning to the warmth."
+                "en": "The metal surface of the monument shines beautifully in the low winter sun; capture the moment quickly before returning to the warmth.",
+                "es": "La superficie metálica del monumento brilla maravillosamente con el bajo sol invernal; captura el momento rápido antes de volver al calor."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Ethnologisches Museum von Elda",
                 "hu": "Elda Néprajzi Múzeuma",
                 "ro": "Muzeul Etnologic din Elda",
-                "en": "Museo Etnológico de Elda"
+                "en": "Museo Etnológico de Elda",
+                "es": "Museo Etnológico de Elda"
               },
               "tip_5lang": {
                 "de": "Erfahren Sie in den angenehm temperierten Räumen mehr über das traditionelle Leben in Elda; ideal, um der Kälte für eine Weile zu entfliehen.",
                 "hu": "Ismerje meg Elda hagyományos életét a kellemes hőmérsékletű termekben; ideális helyszín, hogy egy időre elmeneküljön a kinti hideg elől.",
                 "ro": "Aflați mai multe despre viața tradițională din Elda în sălile cu temperatură plăcută; ideal pentru a scăpa de frig pentru o vreme.",
-                "en": "Learn more about traditional life in Elda in the pleasantly tempered rooms; an ideal spot to escape the cold for a while."
+                "en": "Learn more about traditional life in Elda in the pleasantly tempered rooms; an ideal spot to escape the cold for a while.",
+                "es": "Conoce más sobre la vida tradicional en Elda en las salas con temperatura agradable; un lugar ideal para escapar del frío por un rato."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Schuhmuseum",
                 "hu": "Cipőmúzeum",
                 "ro": "Muzeul Încălțămintei",
-                "en": "Museo del Calzado"
+                "en": "Museo del Calzado",
+                "es": "Museo del Calzado"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie das Museum vor dem frühen Sonnenuntergang um 17 Uhr; die gut geheizten Ausstellungsräume bieten höchsten Komfort im Winter.",
                 "hu": "Látogassa meg a múzeumot a korai, 17 órai napnyugta előtt; a jól fűtött kiállítóterek maximális kényelmet nyújtanak a téli hidegben.",
                 "ro": "Vizitați muzeul înainte de apusul timpuriu de la ora 17:00; spațiile de expoziție bine încălzite oferă confort maxim în timpul iernii.",
-                "en": "Visit the museum before the early sunset at 17:00; the well-heated exhibition spaces offer maximum comfort during the winter cold."
+                "en": "Visit the museum before the early sunset at 17:00; the well-heated exhibition spaces offer maximum comfort during the winter cold.",
+                "es": "Visita el museo antes de la puesta de sol a las 17:00; los espacios de exposición bien calefactados ofrecen máximo confort durante el frío invernal."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Stierkampfarena von Elda",
             "hu": "Elda Bikaviadal-aréna",
             "ro": "Arena de Tauri din Elda",
-            "en": "Plaza de Toros de Elda"
+            "en": "Plaza de Toros de Elda",
+            "es": "Plaza de Toros de Elda"
           },
           "coords": [
             -0.79754,
@@ -380,7 +420,8 @@
             "de": "Radeln Sie um die historische Arena herum, um ihre Architektur zu schätzen, beachten Sie jedoch, dass der Zugang zum Innenraum oft für die Öffentlichkeit beschränkt ist.",
             "hu": "Tekerjen körbe a történelmi aréna körül, hogy értékelje az építészetét, de vegye figyelembe, hogy a belső térbe való bejutás gyakran korlátozott lehet.",
             "ro": "Pedalați în jurul arenei istorice pentru a-i aprecia arhitectura, dar rețineți că accesul în interior poate fi adesea restricționat pentru publicul larg.",
-            "en": "Cycle around the perimeter of this historic bullring to appreciate its grand architecture, but note that interior access is often restricted for general public viewing."
+            "en": "Cycle around the perimeter of this historic bullring to appreciate its grand architecture, but note that interior access is often restricted for general public viewing.",
+            "es": "Recorre en bicicleta el perímetro de esta histórica plaza de toros para apreciar su gran arquitectura; ten en cuenta que el acceso interior suele estar restringido al público en general."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Schuhmuseum",
             "hu": "Cipőmúzeum",
             "ro": "Muzeul Încălțămintei",
-            "en": "Museo del Calzado"
+            "en": "Museo del Calzado",
+            "es": "Museo del Calzado"
           },
           "coords": [
             -0.795348,
@@ -403,7 +445,8 @@
             "de": "Nutzen Sie die Fahrradständer am Eingang und verbringen Sie genügend Zeit, um die erstaunliche Geschichte der lokalen Schuhindustrie in Ruhe zu erkunden.",
             "hu": "Használja a bejárat melletti kerékpártárolókat, és töltsön elegendő időt a helyi cipőipar lenyűgöző történetének nyugodt felfedezésével.",
             "ro": "Folosiți suporturile pentru biciclete de la intrare și petreceți suficient timp explorând în liniște istoria uimitoare a industriei locale de încălțăminte.",
-            "en": "Utilize the bike racks near the entrance and spend ample time exploring the amazing history of the local shoe manufacturing industry at your own pace."
+            "en": "Utilize the bike racks near the entrance and spend ample time exploring the amazing history of the local shoe manufacturing industry at your own pace.",
+            "es": "Utiliza los aparcabicis cerca de la entrada y dedica tiempo a explorar con calma la asombrosa historia de la industria local del calzado."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Kirche San Francisco de Sales",
             "hu": "San Francisco de Sales Templom",
             "ro": "Biserica San Francisco de Sales",
-            "en": "Iglesia de San Francisco de Sales"
+            "en": "Iglesia de San Francisco de Sales",
+            "es": "Iglesia de San Francisco de Sales"
           },
           "coords": [
             -0.792553,
@@ -426,7 +470,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie hineingehen, um die farbenfrohen modernen Buntglasfenster dieser sehr beliebten lokalen Kirche zu bewundern.",
             "hu": "Biztonságosan zárja le kerékpárját, mielőtt bemegy megcsodálni ennek a szeretett helyi templomnak a színes, modern ólomüveg ablakait.",
             "ro": "Încuiați-vă bicicleta în siguranță înainte de a intra pentru a admira vitraliile moderne și colorate ale acestei biserici locale foarte iubite.",
-            "en": "Lock your bike securely at the adjacent square before heading in to admire the colorful modern stained glass windows of this beloved local church."
+            "en": "Lock your bike securely at the adjacent square before heading in to admire the colorful modern stained glass windows of this beloved local church.",
+            "es": "Asegura bien la bicicleta en la plaza contigua antes de entrar a admirar las coloridas vidrieras modernistas de esta querida iglesia local."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Auditorium der Plaza Castelar",
             "hu": "Plaza Castelar Auditórium",
             "ro": "Auditoriul din Plaza Castelar",
-            "en": "Auditorio de la Plaza Castelar"
+            "en": "Auditorio de la Plaza Castelar",
+            "es": "Auditorio de la Plaza Castelar"
           },
           "coords": [
             -0.789228,
@@ -449,7 +495,8 @@
             "de": "Legen Sie hier eine Pause von Ihrer Radtour ein und genießen Sie den offenen Platz, an dem abends oft Open-Air-Konzerte stattfinden.",
             "hu": "Tartson egy kis szünetet a kerékpártúrából ezen a nyitott téren, amely gyakran ad otthont kellemes esti szabadtéri koncerteknek is.",
             "ro": "Faceți o pauză de la plimbarea cu bicicleta în această piață deschisă, care găzduiește adesea concerte plăcute în aer liber în timpul serilor.",
-            "en": "Take a refreshing break from your cycling tour here in the open plaza, which frequently hosts lively open-air concerts during the pleasant evenings."
+            "en": "Take a refreshing break from your cycling tour here in the open plaza, which frequently hosts lively open-air concerts during the pleasant evenings.",
+            "es": "Toma un descanso refrescante de tu ruta ciclista en esta plaza abierta, que frecuentemente acoge conciertos al aire libre en las agradables tardes."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Kirche Santa Ana",
             "hu": "Santa Ana Templom",
             "ro": "Biserica Santa Ana",
-            "en": "Santa Ana"
+            "en": "Santa Ana",
+            "es": "Santa Ana"
           },
           "coords": [
             -0.795884,
@@ -472,7 +520,8 @@
             "de": "Parken Sie an der Plaza und werfen Sie einen kurzen Blick in das Innere, um die elegante Architektur dieses religiösen Wahrzeichens zu bewundern.",
             "hu": "Parkoljon le a téren, és vessen egy pillantást a belső térre, hogy megcsodálhassa e vallási nevezetesség igazán elegáns építészetét.",
             "ro": "Parcați în piață și aruncați o privire în interior pentru a admira arhitectura elegantă a acestui important punct de reper religios local.",
-            "en": "Park your bicycle briefly at the plaza and take a look inside to appreciate the remarkably elegant architecture of this central religious landmark."
+            "en": "Park your bicycle briefly at the plaza and take a look inside to appreciate the remarkably elegant architecture of this central religious landmark.",
+            "es": "Aparca la bicicleta brevemente en la plaza y entra a apreciar la arquitectura notablemente elegante de este emblemático templo."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Burg von Elda",
             "hu": "Elda Vára",
             "ro": "Castelul din Elda",
-            "en": "Castillo de Elda"
+            "en": "Castillo de Elda",
+            "es": "Castillo de Elda"
           },
           "coords": [
             -0.797038,
@@ -495,7 +545,8 @@
             "de": "Schieben Sie Ihr Fahrrad den letzten steilen Abschnitt zur Burg hinauf, um die historischen Ruinen aus nächster Nähe zu inspizieren.",
             "hu": "Tolja fel kerékpárját az utolsó meredek szakaszon a várhoz, hogy egészen közelről vehesse szemügyre a történelmi romokat.",
             "ro": "Împingeți bicicleta pe ultima porțiune abruptă spre castel pentru a inspecta îndeaproape și în siguranță aceste ruine istorice impresionante.",
-            "en": "Push your bike up the final steep approach to the castle grounds so you can safely and closely inspect these dramatic historic ruins."
+            "en": "Push your bike up the final steep approach to the castle grounds so you can safely and closely inspect these dramatic historic ruins.",
+            "es": "Empuja la bicicleta en el último tramo empinado hasta los terrenos del castillo para poder inspeccionar de cerca estas dramáticas ruinas históricas de forma segura."
           }
         },
         {
@@ -503,7 +554,8 @@
             "de": "Aussichtspunkt von Elda",
             "hu": "Elda Kilátó",
             "ro": "Punctul de Belvedere din Elda",
-            "en": "Mirador de Elda"
+            "en": "Mirador de Elda",
+            "es": "Mirador de Elda"
           },
           "coords": [
             -0.809438,
@@ -518,7 +570,8 @@
             "de": "Radeln Sie die leichte Steigung zu diesem Aussichtspunkt hinauf und bringen Sie Ihre Kamera mit, um den atemberaubenden Blick über das Vinalopó-Tal einzufangen.",
             "hu": "Tekerjen fel az enyhe emelkedőn ehhez a kilátóhoz, és hozzon fényképezőgépet, hogy megörökítse a Vinalopó-völgy lélegzetelállító panorámáját.",
             "ro": "Pedalați pe panta ușoară până la acest punct de belvedere și aduceți aparatul foto pentru a surprinde vederea panoramică uluitoare a văii Vinalopó.",
-            "en": "Pedal up the gentle incline to reach this scenic overlook, bringing your camera along to capture breathtaking panoramic views of the entire Vinalopó valley."
+            "en": "Pedal up the gentle incline to reach this scenic overlook, bringing your camera along to capture breathtaking panoramic views of the entire Vinalopó valley.",
+            "es": "Pedalea la suave pendiente para alcanzar este mirador escénico; lleva la cámara para captar vistas panorámicas impresionantes de todo el valle del Vinalopó."
           }
         }
       ],
@@ -526,7 +579,8 @@
         "de": "Starten Sie Ihre Radtour an der großen Plaza de Toros und tauchen Sie in die Traditionen der Stadt ein, bevor Sie zum berühmten Schuhmuseum radeln. Mittags fahren Sie zur charmanten Kirche San Francisco de Sales und machen eine erfrischende Pause an der Plaza Castelar. Nachmittags führen Sie die Wege durch das Stadtzentrum zum monumentalen Castillo de Elda. Lassen Sie den Tag mit einer malerischen Fahrt zum Mirador ausklingen, um den Sonnenuntergang zu genießen.",
         "hu": "Kezdje kerékpártúráját a lenyűgöző Plaza de Torosnál, majd tekerjen el a híres Cipőmúzeumhoz, hogy megismerje a helyi hagyományokat. Délben kerekezzen a bájos San Francisco de Sales templom felé, és tartson egy frissítő pihenőt a Plaza Castelarnál. Délután az utak a városközponton át a monumentális Castillo de Elda várához vezetnek. Zárja a napot egy festői esti tekeréssel a Miradorhoz, ahonnan csodás panoráma nyílik.",
         "ro": "Începeți turul cu bicicleta la marea Plaza de Toros, explorând tradițiile orașului înainte de a pedala spre celebrul Muzeu al Încălțămintei. La prânz, îndreptați-vă spre fermecătoarea biserică San Francisco de Sales și faceți o pauză la Plaza Castelar. După-amiaza, traseele vă duc prin centrul orașului la monumentalul Castillo de Elda. Încheiați ziua cu o plimbare pitorească spre Mirador, admirând priveliștile superbe deasupra văii.",
-        "en": "Kick off your cycling tour at the grand Plaza de Toros, diving right into the city's passionate traditions before rolling over to the celebrated Footwear Museum. Midday finds you pedaling towards the charming San Francisco de Sales church and taking a refreshing break at Plaza Castelar. Afternoon trails lead you through the city core to the monumental Castillo de Elda. Wind down with a scenic evening ride to the Mirador, capturing the best sunset views."
+        "en": "Kick off your cycling tour at the grand Plaza de Toros, diving right into the city's passionate traditions before rolling over to the celebrated Footwear Museum. Midday finds you pedaling towards the charming San Francisco de Sales church and taking a refreshing break at Plaza Castelar. Afternoon trails lead you through the city core to the monumental Castillo de Elda. Wind down with a scenic evening ride to the Mirador, capturing the best sunset views.",
+        "es": "Comienza tu ruta ciclista en la grandiosa Plaza de Toros, sumergiéndote en las tradiciones de la ciudad antes de dirigirte al celebrado Museo del Calzado. Al mediodía pedalea hasta la encantadora iglesia de San Francisco de Sales y toma un descanso en la Plaza Castelar. Por la tarde sigue por el núcleo urbano hasta el monumental Castillo de Elda. Termina con un paseo vespertino hasta el Mirador para capturar las mejores vistas del atardecer."
       },
       "variants": {
         "rainy": {
@@ -534,7 +588,8 @@
             "de": "Morgens suchen wir beim Radfahren Schutz an der Arena, da der Asphalt bei Regen rutschig sein kann.\n\nMittags bietet das Schuhmuseum eine lange Pause im Trockenen, während wir die Räder sicher abstellen.\n\nNachmittags sind die Kirchen gute Ziele, aber achten Sie auf Pfützen und verminderte Sicht.\n\nAbends verleiht der Nebel am Aussichtspunkt der Stadt eine mystische Atmosphäre unter dem Regenschutz.",
             "hu": "Reggel a bikaviadal-aréna falai mellett keressünk szélvédett helyet, mert az aszfalt esőben csúszós lehet.\n\nDélben a cipőmúzeumban tartsunk hosszabb pihenőt, amíg a legnagyobb zápor elvonul a város felett.\n\nDélután a templomok látogatása kiváló fedett program, de a vizes úton csak óvatosan kanyarodjunk.\n\nEste a kilátónál a párás idő misztikus hangulatot ad a város fényeinek, miközben az esőfelhők elvonulnak.",
             "ro": "Dimineața căutăm locuri ferite de vânt lângă arenă, deoarece asfaltul poate fi alunecos pe ploaie.\n\nLa prânz facem o pauză lungă la muzeul încălțămintei până când trece cea mai mare aversă de ploaie.\n\nDupă-amiaza vizitarea bisericilor este un program excelent la interior, dar virați cu grijă pe drumul ud.\n\nSeara, atmosfera umedă de la punctul de belvedere oferă o notă mistică luminilor orașului sub ploaie.",
-            "en": "In the morning, find sheltered spots near the arena as the asphalt can be quite slippery in the rain.\n\nAt noon, take a long break at the footwear museum while waiting for the heaviest showers to pass over.\n\nAfternoon visits to the churches are excellent indoor activities, but corner carefully on the wet roads.\n\nIn the evening, the misty weather at the viewpoint gives a mystical feel to the city lights under the rain."
+            "en": "In the morning, find sheltered spots near the arena as the asphalt can be quite slippery in the rain.\n\nAt noon, take a long break at the footwear museum while waiting for the heaviest showers to pass over.\n\nAfternoon visits to the churches are excellent indoor activities, but corner carefully on the wet roads.\n\nIn the evening, the misty weather at the viewpoint gives a mystical feel to the city lights under the rain.",
+            "es": "Por la mañana, encuentra lugares resguardados cerca de la plaza, ya que el asfalto puede estar bastante resbaladizo con la lluvia.\n\nAl mediodía, toma un largo descanso en el Museo del Calzado mientras pasan los chaparrones más fuertes.\n\nLas visitas a las iglesias por la tarde son excelentes actividades bajo techo, pero toma las curvas con cuidado en las calles mojadas.\n\nPor la noche, la niebla en el mirador da un toque místico a las luces de la ciudad bajo la lluvia."
           },
           "stops": [
             {
@@ -542,13 +597,15 @@
                 "de": "Stierkampfarena von Elda",
                 "hu": "Elda Bikaviadal-aréna",
                 "ro": "Arena de Tauri din Elda",
-                "en": "Plaza de Toros de Elda"
+                "en": "Plaza de Toros de Elda",
+                "es": "Plaza de Toros de Elda"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die beeindruckende Fassade der Arena von einem geschützten Platz aus; achten Sie beim Radfahren auf rutschige Markierungen auf der Straße.",
                 "hu": "Csodálja meg az aréna lenyűgöző homlokzatát egy szélvédett helyről; kerékpározás közben ügyeljen az úttest csúszós felfestéseire az esőben.",
                 "ro": "Admirați fațada impresionantă a arenei dintr-un loc protejat; în timp ce mergeți cu bicicleta, atenție la marcajele alunecoase de pe drum.",
-                "en": "Admire the impressive facade of the arena from a sheltered spot; while cycling, watch out for slippery road markings in the rainy weather."
+                "en": "Admire the impressive facade of the arena from a sheltered spot; while cycling, watch out for slippery road markings in the rainy weather.",
+                "es": "Admira la imponente fachada de la plaza desde un lugar resguardado; al circular en bici, ten cuidado con las señales viales resbaladizas en tiempo de lluvia."
               }
             },
             {
@@ -556,13 +613,15 @@
                 "de": "Schuhmuseum",
                 "hu": "Cipőmúzeum",
                 "ro": "Muzeul Încălțămintei",
-                "en": "Museo del Calzado"
+                "en": "Museo del Calzado",
+                "es": "Museo del Calzado"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Rad sicher unter und nutzen Sie die Zeit für eine ausführliche Besichtigung; ein Handtuch zum Trocknen des Sattels ist sehr nützlich.",
                 "hu": "Parkolja le biztonságos helyen a kerékpárt, és használja ki az időt egy alapos tárlatvezetésre; egy törölköző a nyereg megszárításához jól jöhet.",
                 "ro": "Parcați bicicleta într-un loc sigur și profitați de timp pentru un tur detaliat; un prosop pentru uscarea șeii va fi foarte util după ploaie.",
-                "en": "Park your bike in a safe spot and use the time for a thorough tour; a towel to dry your saddle will be very useful after the rain."
+                "en": "Park your bike in a safe spot and use the time for a thorough tour; a towel to dry your saddle will be very useful after the rain.",
+                "es": "Aparca la bicicleta en un lugar seguro y aprovecha para una visita a fondo; una toalla para secar el sillín te será muy útil después de la lluvia."
               }
             },
             {
@@ -570,13 +629,15 @@
                 "de": "Kirche San Francisco de Sales",
                 "hu": "San Francisco de Sales Templom",
                 "ro": "Biserica San Francisco de Sales",
-                "en": "Iglesia de San Francisco de Sales"
+                "en": "Iglesia de San Francisco de Sales",
+                "es": "Iglesia de San Francisco de Sales"
               },
               "tip_5lang": {
                 "de": "Dieser moderne Bau bietet eine hervorragende Zuflucht vor einem plötzlichen Schauer; prüfen Sie Ihre Bremsen, bevor Sie die Fahrt im Regen fortsetzen.",
                 "hu": "Ez a modern épület kiváló menedéket nyújt egy hirtelen zápor elől; ellenőrizze a fékeket, mielőtt folytatná a kerékpározást a nedves úton.",
                 "ro": "Această clădire modernă oferă un refugiu excelent în fața unei averse bruște; verificați frânele înainte de a continua drumul pe asfaltul ud.",
-                "en": "This modern building provides an excellent refuge from a sudden shower; check your brakes before continuing your ride on the wet asphalt."
+                "en": "This modern building provides an excellent refuge from a sudden shower; check your brakes before continuing your ride on the wet asphalt.",
+                "es": "Este edificio moderno ofrece un excelente refugio ante un chubasco inesperado; revisa los frenos antes de continuar por el asfalto mojado."
               }
             },
             {
@@ -584,13 +645,15 @@
                 "de": "Auditorium der Plaza Castelar",
                 "hu": "Plaza Castelar Auditórium",
                 "ro": "Auditoriul din Plaza Castelar",
-                "en": "Auditorio de la Plaza Castelar"
+                "en": "Auditorio de la Plaza Castelar",
+                "es": "Auditorio de la Plaza Castelar"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die überdachten Bereiche des Auditoriums für eine kurze Rast; achten Sie auf Fußgänger, die bei Regen oft unvorhersehbar ausweichen.",
                 "hu": "Használja az auditórium fedett részeit egy rövid pihenőre; figyeljen a gyalogosokra, akik esőben gyakran kiszámíthatatlanul próbálnak félrehúzódni.",
                 "ro": "Folosiți zonele acoperite ale auditoriului pentru o scurtă odihnă; atenție la pietonii care tind să se miște imprevizibil pentru a evita ploaia.",
-                "en": "Use the covered areas of the auditorium for a short rest; watch out for pedestrians who often move unpredictably to avoid the rain."
+                "en": "Use the covered areas of the auditorium for a short rest; watch out for pedestrians who often move unpredictably to avoid the rain.",
+                "es": "Utiliza las zonas cubiertas del auditorio para un breve descanso; ten cuidado con los peatones que a menudo se mueven de forma impredecible para evitar la lluvia."
               }
             },
             {
@@ -598,13 +661,15 @@
                 "de": "Kirche Santa Ana",
                 "hu": "Santa Ana Templom",
                 "ro": "Biserica Santa Ana",
-                "en": "Santa Ana"
+                "en": "Santa Ana",
+                "es": "Santa Ana"
               },
               "tip_5lang": {
                 "de": "Die gepflasterten Wege rund um die Kirche sind extrem rutschig; steigen Sie im Zweifel vom Rad ab und schieben Sie es ein kurzes Stück.",
                 "hu": "A templom körüli kövezett utak rendkívül csúszósak; kétség esetén szálljon le a kerékpárról, és tolja azt egy rövid szakaszon a biztonságért.",
                 "ro": "Drumurile pavate din jurul bisericii sunt extrem de alunecoase; dacă aveți dubii, coborâți de pe bicicletă și împingeți-o pe o distanță scurtă.",
-                "en": "The paved roads around the church are extremely slippery; if in doubt, get off your bike and push it for a short distance for safety."
+                "en": "The paved roads around the church are extremely slippery; if in doubt, get off your bike and push it for a short distance for safety.",
+                "es": "Las calles empedradas alrededor de la iglesia son extremadamente resbaladizas; si dudas, bájate de la bici y empújala un tramo corto por seguridad."
               }
             },
             {
@@ -612,13 +677,15 @@
                 "de": "Burg von Elda",
                 "hu": "Elda Vára",
                 "ro": "Castelul din Elda",
-                "en": "Castillo de Elda"
+                "en": "Castillo de Elda",
+                "es": "Castillo de Elda"
               },
               "tip_5lang": {
                 "de": "Der Anstieg kann bei Regen schlammig und anstrengend sein; fahren Sie langsam bergab, um die volle Kontrolle über Ihr Fahrrad zu behalten.",
                 "hu": "Az emelkedő esőben sáros és fárasztó lehet; ereszkedjen lassan a lejtőn, hogy megőrizze a teljes kontrollt a kerékpár felett a vizes úton.",
                 "ro": "Urcarea poate fi noroioasă și obositoare pe ploaie; coborâți încet pe pantă pentru a menține controlul deplin asupra bicicletei pe drumul ud.",
-                "en": "The climb can be muddy and tiring in the rain; descend slowly on the slope to maintain full control over the bike on the wet surface."
+                "en": "The climb can be muddy and tiring in the rain; descend slowly on the slope to maintain full control over the bike on the wet surface.",
+                "es": "La subida puede estar embarrada y resultar agotadora con lluvia; baja despacio por la pendiente para mantener el control total de la bicicleta sobre la superficie mojada."
               }
             },
             {
@@ -626,13 +693,15 @@
                 "de": "Aussichtspunkt von Elda",
                 "hu": "Elda Kilátó",
                 "ro": "Punctul de Belvedere din Elda",
-                "en": "Mirador de Elda"
+                "en": "Mirador de Elda",
+                "es": "Mirador de Elda"
               },
               "tip_5lang": {
                 "de": "Trotz der Wolken ist der Blick auf das regnerische Tal stimmungsvoll; tragen Sie eine wasserdichte Schicht, um die kühle Brise zu genießen.",
                 "hu": "A felhők ellenére az esős völgy látványa hangulatos; viseljen vízhatlan réteget, hogy élvezhesse a hűvös fuvallatot a kerékpártúra végén.",
                 "ro": "În ciuda norilor, vederea spre valea ploioasă este atmosferică; purți un strat impermeabil pentru a vă bucura de briza răcoroasă la final.",
-                "en": "Despite the clouds, the view of the rainy valley is atmospheric; wear a waterproof layer to enjoy the cool breeze at the end of your ride."
+                "en": "Despite the clouds, the view of the rainy valley is atmospheric; wear a waterproof layer to enjoy the cool breeze at the end of your ride.",
+                "es": "A pesar de las nubes, la vista del valle lluvioso es atmosférica; lleva una capa impermeable para disfrutar de la brisa fresca al final de tu ruta."
               }
             }
           ]
@@ -642,7 +711,8 @@
             "de": "Morgens hilft die Bewegung beim Radfahren gegen die Kälte auf dem Weg zur Arena.\n\nMittags ist das beheizte Schuhmuseum der ideale Ort, um die Hände aufzuwärmen und neue Energie zu tanken.\n\nNachmittags nutzen wir das letzte Tageslicht für die Burg, bevor die Dämmerung früh einsetzt.\n\nAbends erreichen wir den Aussichtspunkt rechtzeitig zum Sonnenuntergang vor 17:00 Uhr und radeln dann schnell zurück.",
             "hu": "Reggel a csípős szélben tekerjünk az arénához, a folyamatos mozgás segít megőrizni a testhőt.\n\nDélben a fűtött cipőmúzeum ideális hely a felmelegedésre és egy rövid pihenőre a túra felénél.\n\nDélután a vár megtekintése után készüljünk a korai szürkületre, használjuk a kerékpár világítását.\n\nEste a kilátónál csodáljuk meg a naplementét 17 óra előtt, majd siessünk vissza a város melegébe.",
             "ro": "Dimineața, mișcarea pe bicicletă ajută la combaterea frigului în drum spre arena de tauri.\n\nLa prânz, muzeul încălțămintei încălzit este locul ideal pentru a vă încălzi mâinile și a vă relaxa.\n\nDupă-amiaza profităm de ultima lumină a zilei pentru castel, înainte ca amurgul să se instaleze devreme.\n\nSeara ajungem la punctul de belvedere la timp pentru apusul de dinainte de ora 17:00, apoi pedalăm rapid.",
-            "en": "In the morning, the movement of cycling helps fight the cold on your way to the bullring.\n\nAt noon, the heated footwear museum is the ideal spot to warm up your hands and recharge your energy.\n\nAfternoon is for using the last daylight at the castle before dusk sets in quite early in winter.\n\nIn the evening, reach the viewpoint in time for the sunset before 17:00, then cycle back quickly."
+            "en": "In the morning, the movement of cycling helps fight the cold on your way to the bullring.\n\nAt noon, the heated footwear museum is the ideal spot to warm up your hands and recharge your energy.\n\nAfternoon is for using the last daylight at the castle before dusk sets in quite early in winter.\n\nIn the evening, reach the viewpoint in time for the sunset before 17:00, then cycle back quickly.",
+            "es": "Por la mañana, el movimiento al pedalear ayuda a combatir el frío en el camino hacia la plaza de toros.\n\nAl mediodía, el calefactado Museo del Calzado es el lugar ideal para calentar las manos y recargar energía.\n\nLa tarde es para aprovechar la última luz en el castillo antes de que anochezca temprano en invierno.\n\nPor la noche, llega al mirador a tiempo para el atardecer antes de las 17:00 y vuelve en bici rápidamente."
           },
           "stops": [
             {
@@ -650,13 +720,15 @@
                 "de": "Stierkampfarena von Elda",
                 "hu": "Elda Bikaviadal-aréna",
                 "ro": "Arena de Tauri din Elda",
-                "en": "Plaza de Toros de Elda"
+                "en": "Plaza de Toros de Elda",
+                "es": "Plaza de Toros de Elda"
               },
               "tip_5lang": {
                 "de": "Die Arena steht stolz in der kalten Morgenluft; tragen Sie warme Handschuhe, um den Lenker auch bei niedrigen Temperaturen sicher zu halten.",
                 "hu": "Az aréna büszkén áll a hideg reggeli levegőben; viseljen meleg kesztyűt, hogy alacsony hőmérséklet mellett is biztosan tartsa a kormányt.",
                 "ro": "Arena stă mândră în aerul rece de dimineață; purtați mănuși groase pentru a ține ghidonul în siguranță chiar și la temperaturi scăzute.",
-                "en": "The arena stands proud in the cold morning air; wear warm gloves to hold the handlebars securely even in low temperatures."
+                "en": "The arena stands proud in the cold morning air; wear warm gloves to hold the handlebars securely even in low temperatures.",
+                "es": "La plaza se yergue orgullosa en el frío matinal; usa guantes cálidos para sujetar el manillar con seguridad incluso en bajas temperaturas."
               }
             },
             {
@@ -664,13 +736,15 @@
                 "de": "Schuhmuseum",
                 "hu": "Cipőmúzeum",
                 "ro": "Muzeul Încălțămintei",
-                "en": "Museo del Calzado"
+                "en": "Museo del Calzado",
+                "es": "Museo del Calzado"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Wärme der Ausstellungsräume nach der Fahrt; prüfen Sie vor der Weiterfahrt den Reifendruck, da dieser bei Kälte sinken kann.",
                 "hu": "Élvezze a kiállítótermek melegét a tekerés után; indulás előtt ellenőrizze a guminyomást, mert a hidegben az érték lecsökkenhet.",
                 "ro": "Bucurați-vă de căldura sălilor de expoziție după drum; verificați presiunea în pneuri înainte de a pleca, deoarece aceasta scade la frig.",
-                "en": "Enjoy the warmth of the exhibition rooms after your ride; check your tire pressure before leaving, as it can drop in the cold weather."
+                "en": "Enjoy the warmth of the exhibition rooms after your ride; check your tire pressure before leaving, as it can drop in the cold weather.",
+                "es": "Disfruta del calor de las salas de exposición tras tu recorrido; revisa la presión de los neumáticos antes de partir, ya que puede bajar con el frío."
               }
             },
             {
@@ -678,13 +752,15 @@
                 "de": "Kirche San Francisco de Sales",
                 "hu": "San Francisco de Sales Templom",
                 "ro": "Biserica San Francisco de Sales",
-                "en": "Iglesia de San Francisco de Sales"
+                "en": "Iglesia de San Francisco de Sales",
+                "es": "Iglesia de San Francisco de Sales"
               },
               "tip_5lang": {
                 "de": "Die moderne Architektur wirkt im klaren Winterlicht besonders scharf; nutzen Sie den Stopp für eine kurze Trinkpause mit warmem Tee.",
                 "hu": "A modern építészet különösen élesen hat a tiszta téli fényben; használja ki a megállót egy rövid pihenőre és egy korty meleg teára.",
                 "ro": "Arhitectura modernă pare deosebit de clară în lumina de iarnă; profitați de oprire pentru o scurtă pauză cu un ceai cald.",
-                "en": "The modern architecture looks particularly sharp in the clear winter light; use the stop for a short break with some warm tea."
+                "en": "The modern architecture looks particularly sharp in the clear winter light; use the stop for a short break with some warm tea.",
+                "es": "La arquitectura moderna luce especialmente definida con la luz clara del invierno; aprovecha la parada para un breve descanso con té caliente."
               }
             },
             {
@@ -692,13 +768,15 @@
                 "de": "Auditorium der Plaza Castelar",
                 "hu": "Plaza Castelar Auditórium",
                 "ro": "Auditoriul din Plaza Castelar",
-                "en": "Auditorio de la Plaza Castelar"
+                "en": "Auditorio de la Plaza Castelar",
+                "es": "Auditorio de la Plaza Castelar"
               },
               "tip_5lang": {
                 "de": "Ein belebter Ort auch im Winter, ideal für eine Pause in der Sonne; achten Sie auf tiefstehende Sonnenstrahlen, die beim Radfahren blenden können.",
                 "hu": "Élettel teli hely télen is, ideális egy napsütötte pihenőre; ügyeljen az alacsonyan járó napra, amely kerékpározás közben elvakíthatja.",
                 "ro": "Un loc plin de viață și iarna, ideal pentru o pauză la soare; atenție la razele soarelui jos care vă pot orbi în timp ce pedalați.",
-                "en": "A lively spot even in winter, ideal for a break in the sun; watch out for the low sun which can be blinding while you are cycling."
+                "en": "A lively spot even in winter, ideal for a break in the sun; watch out for the low sun which can be blinding while you are cycling.",
+                "es": "Un lugar animado incluso en invierno, ideal para descansar al sol; ten cuidado con el sol bajo que puede deslumbrar mientras pedaleas."
               }
             },
             {
@@ -706,13 +784,15 @@
                 "de": "Kirche Santa Ana",
                 "hu": "Santa Ana Templom",
                 "ro": "Biserica Santa Ana",
-                "en": "Santa Ana"
+                "en": "Santa Ana",
+                "es": "Santa Ana"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie diesen geschichtsträchtigen Ort bei abnehmendem Licht; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Rückweg funktioniert.",
                 "hu": "Látogassa meg ezt a történelmi helyszínt a fogyatkozó fényben; győződjön meg róla, hogy a kerékpár világítása megfelelően működik a visszaútra.",
                 "ro": "Vizitați acest loc istoric în lumina care scade; asigurați-vă că luminile bicicletei funcționează corect pentru drumul de întoarcere.",
-                "en": "Visit this historic site in the waning light; make sure your bike lights are working properly for the journey back to the city."
+                "en": "Visit this historic site in the waning light; make sure your bike lights are working properly for the journey back to the city.",
+                "es": "Visita este lugar histórico con la luz menguante; asegúrate de que las luces de la bicicleta funcionen correctamente para el regreso."
               }
             },
             {
@@ -720,13 +800,15 @@
                 "de": "Burg von Elda",
                 "hu": "Elda Vára",
                 "ro": "Castelul din Elda",
-                "en": "Castillo de Elda"
+                "en": "Castillo de Elda",
+                "es": "Castillo de Elda"
               },
               "tip_5lang": {
                 "de": "Vom Hügel aus haben Sie eine hervorragende Sicht auf die schneebedeckten Berge in der Ferne; ziehen Sie sich für die Abfahrt eine Windjacke über.",
                 "hu": "A dombról kiváló kilátás nyílik a távoli, hófödte hegyekre; a lejtőn való leguruláshoz vegyen fel egy szélálló dzsekit a hideg ellen.",
                 "ro": "De pe deal aveți o vedere excelentă asupra munților înzăpeziți din depărtare; purtați o jachetă de vânt pentru coborârea rapidă.",
-                "en": "From the hill, you have an excellent view of the snow-capped mountains in the distance; put on a windbreaker for the descent."
+                "en": "From the hill, you have an excellent view of the snow-capped mountains in the distance; put on a windbreaker for the descent.",
+                "es": "Desde la colina tienes una excelente vista de las montañas nevadas en la distancia; ponte un cortavientos para el descenso."
               }
             },
             {
@@ -734,13 +816,15 @@
                 "de": "Aussichtspunkt von Elda",
                 "hu": "Elda Kilátó",
                 "ro": "Punctul de Belvedere din Elda",
-                "en": "Mirador de Elda"
+                "en": "Mirador de Elda",
+                "es": "Mirador de Elda"
               },
               "tip_5lang": {
                 "de": "Genießen Sie das spektakuläre Panorama kurz vor 17:00 Uhr; die Kälte zieht nach Sonnenuntergang schnell an, planen Sie eine rasche Rückkehr ein.",
                 "hu": "Élvezze a látványos panorámát közvetlenül 17 óra előtt; a hideg napnyugta után gyorsan fokozódik, tervezze meg a mielőbbi visszatérést.",
                 "ro": "Bucurați-vă de panorama spectaculoasă chiar înainte de ora 17:00; frigul se intensifică rapid după apus, planificați o întoarcere rapidă.",
-                "en": "Enjoy the spectacular panorama just before 17:00; the cold intensifies quickly after sunset, so plan for a swift return to the town."
+                "en": "Enjoy the spectacular panorama just before 17:00; the cold intensifies quickly after sunset, so plan for a swift return to the town.",
+                "es": "Disfruta del espectacular panorama justo antes de las 17:00; el frío se intensifica rápidamente tras el ocaso, así que planea un regreso ágil al pueblo."
               }
             }
           ]
@@ -760,7 +844,8 @@
             "de": "Kalkofen am Stausee",
             "hu": "Pantano Mészégető",
             "ro": "Cuptorul de var de la Pantano",
-            "en": "Calera del Pantano"
+            "en": "Calera del Pantano",
+            "es": "Calera del Pantano"
           },
           "coords": [
             -0.798334,
@@ -775,7 +860,8 @@
             "de": "Parken Sie abseits der Hauptstraße, um diese historischen Kalköfen aus der Nähe zu inspizieren, die einen Einblick in frühe industrielle Methoden bieten.",
             "hu": "Parkoljon le a főútról lehajtva, hogy közelről is szemügyre vehesse ezeket a történelmi mészégetőket, amelyek bepillantást nyújtanak a korai iparba.",
             "ro": "Parcați pe marginea drumului principal pentru a inspecta de aproape aceste cuptoare istorice de var, care oferă o perspectivă asupra metodelor industriale timpurii.",
-            "en": "Park safely off the main road to inspect these historic lime kilns up close, which offer a truly unique glimpse into the area's early industrial methods."
+            "en": "Park safely off the main road to inspect these historic lime kilns up close, which offer a truly unique glimpse into the area's early industrial methods.",
+            "es": "Aparca con seguridad fuera de la carretera principal para inspeccionar de cerca estos hornos de cal históricos, que ofrecen una visión única de los primeros métodos industriales de la zona."
           }
         },
         {
@@ -783,7 +869,8 @@
             "de": "Wachturm La Torreta",
             "hu": "La Torreta Őrtorony",
             "ro": "Turnul de veghe La Torreta",
-            "en": "La Torreta"
+            "en": "La Torreta",
+            "es": "La Torreta"
           },
           "coords": [
             -0.805402,
@@ -798,7 +885,8 @@
             "de": "Fahren Sie vorsichtig auf der Zufahrtsstraße zu dieser alten Wachturmruine, die als stummer Wächter über die wunderschöne historische Landschaft wacht.",
             "hu": "Vezessen óvatosan a bekötőúton ehhez az ősi őrtoronyromhoz, amely néma őrszemként magasodik a gyönyörű történelmi táj fölé.",
             "ro": "Conduceți cu atenție pe drumul de acces către această veche ruină a turnului de veghe, care stă ca un santinelă tăcută peste peisajul istoric local.",
-            "en": "Drive carefully on the approach road to this ancient watchtower ruin, which majestically stands as a silent sentinel over the surrounding historic landscape."
+            "en": "Drive carefully on the approach road to this ancient watchtower ruin, which majestically stands as a silent sentinel over the surrounding historic landscape.",
+            "es": "Conduce con precaución por la carretera de acceso a esta antigua torre vigía en ruinas, que se alza majestuosa como centinela silencioso sobre el paisaje histórico circundante."
           }
         },
         {
@@ -806,7 +894,8 @@
             "de": "Kalkofen La Torreta",
             "hu": "La Torreta Mészégető",
             "ro": "Cuptorul de var La Torreta",
-            "en": "Calera de la Torreta"
+            "en": "Calera de la Torreta",
+            "es": "Calera de la Torreta"
           },
           "coords": [
             -0.796383,
@@ -821,7 +910,8 @@
             "de": "Kombinieren Sie diesen Stopp mit dem nahegelegenen Turm und nutzen Sie den unbefestigten Parkplatz, um die industrielle Vergangenheit der Region zu erkunden.",
             "hu": "Kombinálja ezt a megállót a közeli toronnyal, és használja a földes parkolót, hogy tovább fedezze a régió izgalmas ipari múltját.",
             "ro": "Combinați această oprire cu turnul din apropiere și folosiți parcarea neasfaltată pentru a explora mai departe trecutul industrial fascinant al regiunii.",
-            "en": "Combine this quick stop with the nearby tower, using the unpaved parking pull-off to explore even more of the region's fascinating industrial past."
+            "en": "Combine this quick stop with the nearby tower, using the unpaved parking pull-off to explore even more of the region's fascinating industrial past.",
+            "es": "Combina esta breve parada con la torre cercana, utilizando la zona de aparcamiento sin asfaltar para explorar aún más el fascinante pasado industrial de la región."
           }
         },
         {
@@ -829,7 +919,8 @@
             "de": "Ausstellungshalle Vicente Poveda",
             "hu": "Vicente Poveda Kiállítóterem",
             "ro": "Sala de expoziții Vicente Poveda",
-            "en": "Sala de exposiciones Vicente Poveda"
+            "en": "Sala de exposiciones Vicente Poveda",
+            "es": "Sala de exposiciones Vicente Poveda"
           },
           "coords": [
             -0.771662,
@@ -844,7 +935,8 @@
             "de": "Nutzen Sie die Parkplätze an der Straße, um diese moderne Galerie zu besuchen, die beeindruckende und wechselnde zeitgenössische Kunstausstellungen zeigt.",
             "hu": "Használja az utcai parkolókat e modern galéria meglátogatásához, amely lenyűgöző és folyamatosan változó kortárs művészeti kiállításokat mutat be.",
             "ro": "Utilizați parcarea stradală din apropiere pentru a vizita această galerie modernă, care prezintă expoziții de artă contemporană impresionante și în schimbare.",
-            "en": "Utilize the convenient nearby street parking to visit this modern gallery space, which showcases impressive rotating contemporary art exhibitions."
+            "en": "Utilize the convenient nearby street parking to visit this modern gallery space, which showcases impressive rotating contemporary art exhibitions.",
+            "es": "Aprovecha el aparcamiento en la calle cercano para visitar este espacio de galería moderna, que exhibe impresionantes exposiciones contemporáneas temporales."
           }
         },
         {
@@ -852,7 +944,8 @@
             "de": "Städtisches Schwimmbad",
             "hu": "Városi Uszoda",
             "ro": "Piscina Municipală",
-            "en": "Piscina Municipal"
+            "en": "Piscina Municipal",
+            "es": "Piscina Municipal"
           },
           "coords": [
             -0.77458,
@@ -867,7 +960,8 @@
             "de": "Machen Sie einen gemütlichen Spaziergang in den Parkanlagen rund um das städtische Schwimmbad, perfekt, um sich nach der Fahrt die Beine zu vertreten.",
             "hu": "Tegyen egy kellemes sétát a városi uszodát körülvevő parkosított területeken, amely tökéletes a lábak kinyújtóztatására a hosszas vezetés után.",
             "ro": "Faceți o plimbare relaxantă prin zonele de parc din jurul complexului piscinei municipale, locul perfect pentru a vă dezmorți picioarele după condus.",
-            "en": "Take a leisurely stroll around the lovely park areas surrounding the municipal pool complex, perfect for stretching your legs after a long drive."
+            "en": "Take a leisurely stroll around the lovely park areas surrounding the municipal pool complex, perfect for stretching your legs after a long drive.",
+            "es": "Da un paseo tranquilo por las agradables zonas ajardinadas que rodean el complejo de la piscina municipal, perfecto para estirar las piernas tras un largo viaje."
           }
         },
         {
@@ -875,7 +969,8 @@
             "de": "Schuhmuseum",
             "hu": "Cipőmúzeum",
             "ro": "Muzeul Încălțămintei",
-            "en": "Museo del Calzado"
+            "en": "Museo del Calzado",
+            "es": "Museo del Calzado"
           },
           "coords": [
             -0.795348,
@@ -890,7 +985,8 @@
             "de": "Parken Sie auf dem ausgewiesenen Museumsparkplatz und verbringen Sie den Nachmittag damit, den immensen Einfluss von Elda auf das Schuhdesign zu entdecken.",
             "hu": "Parkoljon a múzeum kijelölt parkolójában, és töltse a délutánt Elda cipőtervezésre gyakorolt óriási hatásának megismerésével és felfedezésével.",
             "ro": "Parcați în zona desemnată a muzeului și petreceți după-amiaza descoperind impactul imens pe care orașul Elda l-a avut asupra designului de încălțăminte.",
-            "en": "Park comfortably in the designated museum lot and spend your afternoon discovering the immense global impact Elda has had on luxury shoe design."
+            "en": "Park comfortably in the designated museum lot and spend your afternoon discovering the immense global impact Elda has had on luxury shoe design.",
+            "es": "Aparca cómodamente en el parking del museo y pasa la tarde descubriendo el enorme impacto global de Elda en el diseño de calzado de lujo."
           }
         },
         {
@@ -898,7 +994,8 @@
             "de": "Aussichtspunkt von Elda",
             "hu": "Elda Kilátó",
             "ro": "Punctul de Belvedere din Elda",
-            "en": "Mirador de Elda"
+            "en": "Mirador de Elda",
+            "es": "Mirador de Elda"
           },
           "coords": [
             -0.809438,
@@ -913,7 +1010,8 @@
             "de": "Fahren Sie den gewundenen Weg zu diesem Aussichtspunkt hinauf, um Ihre Reise mit einem spektakulären Panoramablick auf die gesamte Stadt abzuschließen.",
             "hu": "Kövessen a kanyargós úton ehhez a kilátóhoz, hogy autós utazását egy látványos panorámaképpel zárja az egész völgyre és a városra.",
             "ro": "Conduceți pe drumul șerpuit până la acest punct de belvedere pentru a vă încheia călătoria cu o priveliște panoramică spectaculoasă asupra întregului oraș.",
-            "en": "Drive up the winding path right to this elevated viewpoint to conclude your road trip with a truly spectacular panoramic view of the entire city below."
+            "en": "Drive up the winding path right to this elevated viewpoint to conclude your road trip with a truly spectacular panoramic view of the entire city below.",
+            "es": "Sube por la sinuosa carretera hasta este mirador elevado para concluir tu ruta con una vista panorámica espectacular de toda la ciudad."
           }
         }
       ],
@@ -921,7 +1019,8 @@
         "de": "Beginnen Sie Ihren Roadtrip mit der Erkundung der nördlichen Außenbezirke an der Calera del Pantano und tauchen Sie in die historischen Überreste ein. Mittags bringt Sie eine kurze Fahrt zur La Torreta und der benachbarten Calera, wo Sie alte architektonische Wahrzeichen bewundern können. Nachmittags fahren Sie zurück in die Stadt, um die Ausstellungshalle Vicente Poveda zu besuchen. Beenden Sie Ihre Reise im Schuhmuseum vor einem letzten Panoramastopp am Mirador.",
         "hu": "Kezdje autós utazását az északi külvárosban, a Calera del Pantano felfedezésével, amely a helyi történelmi infrastruktúra lenyűgöző maradványa. Délben egy rövid vezetés után a La Torreta és a szomszédos Calera ősi építészeti nevezetességeit csodálhatja meg. Délután térjen vissza a városba, hogy megnézze a Vicente Poveda kiállítótermet és sétáljon egyet a városi medence közelében. Zárja az utazást a Cipőmúzeum megtekintésével, majd a Miradornál.",
         "ro": "Începeți călătoria explorând periferia nordică la Calera del Pantano, admirând rămășițele fascinante ale infrastructurii istorice locale. La prânz, o scurtă plimbare vă duce la La Torreta și Calera vecină, oferind repere arhitecturale străvechi. După-amiaza vă întoarceți spre oraș pentru a vă bucura de sala de expoziții Vicente Poveda și o scurtă plimbare lângă piscina municipală. Încheiați-vă călătoria la Muzeul Încălțămintei și un popas la Mirador.",
-        "en": "Start your road trip by exploring the northern outskirts at Calera del Pantano, diving into the fascinating remnants of local historic infrastructure. Midday brings a short drive to La Torreta and its neighboring Calera, offering a deep dive into ancient architectural landmarks. Afternoon routes take you back towards the city to enjoy the Vicente Poveda exhibition hall and a quick stroll near the municipal pool. Finish your journey marveling at the Footwear Museum before the Mirador."
+        "en": "Start your road trip by exploring the northern outskirts at Calera del Pantano, diving into the fascinating remnants of local historic infrastructure. Midday brings a short drive to La Torreta and its neighboring Calera, offering a deep dive into ancient architectural landmarks. Afternoon routes take you back towards the city to enjoy the Vicente Poveda exhibition hall and a quick stroll near the municipal pool. Finish your journey marveling at the Footwear Museum before the Mirador.",
+        "es": "Comienza tu ruta explorando las afueras norte en la Calera del Pantano, adentrándote en los fascinantes restos de la antigua infraestructura local. Al mediodía, realiza un corto trayecto hasta La Torreta y su Calera vecina, que ofrecen un profundo vistazo a monumentos arquitectónicos antiguos. Por la tarde regresa hacia la ciudad para disfrutar de la sala de exposiciones Vicente Poveda y un breve paseo cerca de la piscina municipal. Termina el recorrido maravillándote en el Museo del Calzado antes de subir al mirador."
       },
       "variants": {
         "rainy": {
@@ -929,7 +1028,8 @@
             "de": "Morgens kann die Straße zum Stausee bei Regen schlammig sein, fahren Sie vorsichtig.\n\nMittags bieten die Ausstellungshalle und das Schwimmbad erstklassige Indoor-Alternativen im Trockenen.\n\nNachmittags parken wir direkt am Schuhmuseum, um den Regen auf dem Weg zum Eingang zu minimieren.\n\nAbends bietet der Aussichtspunkt vom Auto aus einen glitzernden Blick auf die Stadt durch die Regentropfen.",
             "hu": "Reggel a víztározóhoz vezető út esőben sáros lehet, vezessen óvatosan a mészégetők felé.\n\nDélben a kiállítóterem és az uszoda garantáltan száraz és kényelmes kikapcsolódást nyújt a családnak.\n\nDélután a cipőmúzeum parkolójában álljunk meg minél közelebb, így elkerülhetjük az ázást a bejáratig.\n\nEste a kilátóból a város fényei az esőcseppeken keresztül különleges, csillogó látványt nyújtanak a kocsiból.",
             "ro": "Dimineața, drumul spre lacul de acumulare poate fi noroios pe ploaie, conduceți cu atenție sporită.\n\nLa prânz, sala de expoziții și piscina oferă alternative excelente la interior pentru a rămâne uscați.\n\nDupă-amiaza parcăm chiar lângă muzeul încălțămintei pentru a minimiza expunerea la ploaie până la intrare.\n\nSeara, punctul de belvedere oferă o vedere sclipitoare a orașului prin picăturile de ploaie de pe parbriz.",
-            "en": "In the morning, the road to the reservoir can be muddy in the rain, so drive carefully toward the kilns.\n\nAt noon, the exhibition hall and the pool offer top-quality indoor alternatives to stay warm and dry.\n\nAfternoon is best spent by parking close to the footwear museum to minimize walking in the rain to the entrance.\n\nIn the evening, the viewpoint provides a glittering view of the city through the raindrops from the comfort of your car."
+            "en": "In the morning, the road to the reservoir can be muddy in the rain, so drive carefully toward the kilns.\n\nAt noon, the exhibition hall and the pool offer top-quality indoor alternatives to stay warm and dry.\n\nAfternoon is best spent by parking close to the footwear museum to minimize walking in the rain to the entrance.\n\nIn the evening, the viewpoint provides a glittering view of the city through the raindrops from the comfort of your car.",
+            "es": "Por la mañana, el camino al embalse puede estar embarrado con lluvia, así que conduce con cuidado hacia los hornos.\n\nAl mediodía, la sala de exposiciones y la piscina ofrecen excelentes alternativas interiores para mantenerte caliente y seco.\n\nPor la tarde es mejor aparcar cerca del Museo del Calzado para minimizar caminar bajo la lluvia hasta la entrada.\n\nPor la noche, el mirador ofrece una vista brillante de la ciudad a través de las gotas desde la comodidad de tu coche."
           },
           "stops": [
             {
@@ -937,13 +1037,15 @@
                 "de": "Kalkofen am Stausee",
                 "hu": "Pantano Mészégető",
                 "ro": "Cuptorul de var de la Pantano",
-                "en": "Calera del Pantano"
+                "en": "Calera del Pantano",
+                "es": "Calera del Pantano"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die historischen Öfen bei Regen am besten aus der Nähe Ihres Fahrzeugs; die unbefestigten Wege können sehr rutschig und aufgeweicht sein.",
                 "hu": "A történelmi égetőket esőben leginkább a járműve közeléből csodálja meg; a burkolatlan utak nagyon csúszósak és felázottak lehetnek ilyenkor.",
                 "ro": "Admirați cuptoarele istorice pe ploaie cel mai bine din apropierea vehiculului; drumurile neasfaltate pot fi foarte alunecoase și moi acum.",
-                "en": "Admire the historic kilns in the rain preferably from near your vehicle; the unpaved paths can be very slippery and muddy at this time."
+                "en": "Admire the historic kilns in the rain preferably from near your vehicle; the unpaved paths can be very slippery and muddy at this time.",
+                "es": "Admira los hornos históricos bajo la lluvia preferiblemente desde cerca de tu vehículo; los caminos sin pavimentar pueden estar muy resbaladizos y embarrados en este momento."
               }
             },
             {
@@ -951,13 +1053,15 @@
                 "de": "Wachturm La Torreta",
                 "hu": "La Torreta Őrtorony",
                 "ro": "Turnul de veghe La Torreta",
-                "en": "La Torreta"
+                "en": "La Torreta",
+                "es": "La Torreta"
               },
               "tip_5lang": {
                 "de": "Der Turm wirkt im Nebel besonders geheimnisvoll; nutzen Sie eine Regenpause für einen kurzen Rundgang, aber achten Sie auf Pfützen auf dem Weg.",
                 "hu": "A torony különösen titokzatosnak tűnik a ködben; használjon ki egy esőszünetet egy rövid körsétára, de ügyeljen az úton lévő tócsákra.",
                 "ro": "Turnul pare deosebit de misterios în ceață; profitați de o pauză de ploaie pentru o scurtă plimbare, dar atenție la bălțile de pe drum.",
-                "en": "The tower looks particularly mysterious in the fog; take advantage of a break in the rain for a short walk, but watch out for puddles on the path."
+                "en": "The tower looks particularly mysterious in the fog; take advantage of a break in the rain for a short walk, but watch out for puddles on the path.",
+                "es": "La torre luce especialmente misteriosa con niebla; aprovecha un claro en la lluvia para una breve caminata, pero cuidado con los charcos en el camino."
               }
             },
             {
@@ -965,13 +1069,15 @@
                 "de": "Kalkofen La Torreta",
                 "hu": "La Torreta Mészégető",
                 "ro": "Cuptorul de var La Torreta",
-                "en": "Calera de la Torreta"
+                "en": "Calera de la Torreta",
+                "es": "Calera de la Torreta"
               },
               "tip_5lang": {
                 "de": "Diese Stätte lässt sich gut bei nasskaltem Wetter besichtigen, da sie leicht erreichbar ist; halten Sie die Scheibenheizung bereit, um klare Sicht zu behalten.",
                 "hu": "Ez a helyszín jól megtekinthető hűvös időben is, mivel könnyen megközelíthető; tartsa készenlétben a szélvédőfűtést a folyamatos kilátás érdekében.",
                 "ro": "Acest sit poate fi vizitat bine și pe vreme rece, fiind ușor accesibil; păstrați încălzirea parbrizului pornită pentru o vizibilitate clară.",
-                "en": "This site can be visited easily even in cool weather as it is accessible; keep the windshield heating ready for constant visibility while driving."
+                "en": "This site can be visited easily even in cool weather as it is accessible; keep the windshield heating ready for constant visibility while driving.",
+                "es": "Este sitio se puede visitar fácilmente incluso con tiempo fresco, ya que es accesible; mantén la calefacción del parabrisas lista para garantizar la visibilidad constante al conducir."
               }
             },
             {
@@ -979,13 +1085,15 @@
                 "de": "Ausstellungshalle Vicente Poveda",
                 "hu": "Vicente Poveda Kiállítóterem",
                 "ro": "Sala de expoziții Vicente Poveda",
-                "en": "Sala de exposiciones Vicente Poveda"
+                "en": "Sala de exposiciones Vicente Poveda",
+                "es": "Sala de exposiciones Vicente Poveda"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort, um der Nässe zu entfliehen und lokale Kunst zu genießen; nutzen Sie die Parkplätze in unmittelbarer Nähe zum Haupteingang.",
                 "hu": "Ideális hely, hogy elmeneküljön a nedves idő elől és élvezze a helyi művészetet; használja a főbejárathoz legközelebbi parkolóhelyeket.",
                 "ro": "Locul ideal pentru a scăpa de umezeală și a savura arta locală; folosiți locurile de parcare din imediata apropiere a intrării principale.",
-                "en": "An ideal place to escape the wet weather and enjoy local art; use the parking spaces in the immediate vicinity of the main entrance."
+                "en": "An ideal place to escape the wet weather and enjoy local art; use the parking spaces in the immediate vicinity of the main entrance.",
+                "es": "Un lugar ideal para escapar del mal tiempo y disfrutar del arte local; utiliza los espacios de aparcamiento en las inmediaciones de la entrada principal."
               }
             },
             {
@@ -993,13 +1101,15 @@
                 "de": "Städtisches Schwimmbad",
                 "hu": "Városi Uszoda",
                 "ro": "Piscina Municipală",
-                "en": "Piscina Municipal"
+                "en": "Piscina Municipal",
+                "es": "Piscina Municipal"
               },
               "tip_5lang": {
                 "de": "Nichts entspannt an einem Regentag mehr als ein Besuch im Hallenbad; packen Sie zusätzliche trockene Kleidung für die Zeit nach dem Schwimmen ein.",
                 "hu": "Semmi sem lazít el jobban egy esős napon, mint egy látogatás a fedett uszodában; csomagoljon extra száraz ruhát az úszás utáni időre.",
                 "ro": "Nimic nu relaxează mai mult într-o zi ploioasă decât o vizită la piscina acoperită; împachetați haine uscate de schimb pentru după înot.",
-                "en": "Nothing relaxes you more on a rainy day than a visit to the indoor pool; pack extra dry clothes for the time after your swim."
+                "en": "Nothing relaxes you more on a rainy day than a visit to the indoor pool; pack extra dry clothes for the time after your swim.",
+                "es": "Nada relaja más en un día lluvioso que una visita a la piscina cubierta; lleva ropa seca extra para después del baño."
               }
             },
             {
@@ -1007,13 +1117,15 @@
                 "de": "Schuhmuseum",
                 "hu": "Cipőmúzeum",
                 "ro": "Muzeul Încălțămintei",
-                "en": "Museo del Calzado"
+                "en": "Museo del Calzado",
+                "es": "Museo del Calzado"
               },
               "tip_5lang": {
                 "de": "Dieses weitläufige Museum ist die beste Wahl bei Dauerregen; lassen Sie nasse Mäntel an der Garderobe, um die Ausstellung unbeschwert zu sehen.",
                 "hu": "Ez a tágas múzeum a legjobb választás tartós esőben; hagyja a vizes kabátokat a ruhatárban, hogy gondtalanul nézhesse végig a kiállítást.",
                 "ro": "Acest muzeu spațios este cea mai bună alegere pe ploaie de durată; lăsați hainele ude la garderobă pentru a vedea expoziția fără griji.",
-                "en": "This spacious museum is the best choice during persistent rain; leave wet coats at the cloakroom to enjoy the exhibition comfortably."
+                "en": "This spacious museum is the best choice during persistent rain; leave wet coats at the cloakroom to enjoy the exhibition comfortably.",
+                "es": "Este espacioso museo es la mejor opción durante la lluvia persistente; deja los abrigos mojados en la consigna para disfrutar cómodamente de la exposición."
               }
             },
             {
@@ -1021,13 +1133,15 @@
                 "de": "Aussichtspunkt von Elda",
                 "hu": "Elda Kilátó",
                 "ro": "Punctul de Belvedere din Elda",
-                "en": "Mirador de Elda"
+                "en": "Mirador de Elda",
+                "es": "Mirador de Elda"
               },
               "tip_5lang": {
                 "de": "Genießen Sie das Panorama der beleuchteten Stadt sicher und trocken aus Ihrem Auto; die reflektierenden Lichter auf dem nassen Asphalt sind ein Highlight.",
                 "hu": "Élvezze a kivilágított város panorámáját biztonságban és szárazon a kocsijából; a vizes aszfalton tükröződő fények különleges látványt nyújtanak.",
                 "ro": "Bucurați-vă de panorama orașului luminat în siguranță și la uscat din mașină; luminile reflectate pe asfaltul ud sunt un punct culminant.",
-                "en": "Enjoy the panorama of the lit city safely and dry from your car; the lights reflecting on the wet asphalt are a visual highlight of the trip."
+                "en": "Enjoy the panorama of the lit city safely and dry from your car; the lights reflecting on the wet asphalt are a visual highlight of the trip.",
+                "es": "Disfruta del panorama de la ciudad iluminada de forma segura y seco desde tu coche; las luces reflejadas en el asfalto mojado son un punto visual destacado del viaje."
               }
             }
           ]
@@ -1037,7 +1151,8 @@
             "de": "Morgens weht am Stausee ein kalter Wind, daher ist eine dicke Jacke für kurze Stopps ratsam.\n\nMittags bieten das beheizte Schwimmbad und die Galerien wohlige Wärme fernab der winterlichen Kälte.\n\nNachmittags nutzen wir die Heizung im Auto zwischen den historischen Sehenswürdigkeiten für maximalen Komfort.\n\nAbends bietet der Aussichtspunkt bei klarer Winterluft eine fantastische Fernsicht, bevor es um 17:00 Uhr dunkel wird.",
             "hu": "Reggel a víztározó melletti mészégetőnél hideg szél fújhat, viseljen bélelt kabátot a rövid sétákhoz.\n\nDélben a beltéri uszoda és a galéria kellemes hőmérséklete feledteti a kinti fagyos időt.\n\nDélután élvezze az autó fűtését a történelmi helyszínek közötti utazás során a maximális kényelemért.\n\nEste a kilátónál a tiszta téli levegőben messzire ellátni, de a sötétedés 17 óra körül hamar beköszönt.",
             "ro": "Dimineața la cuptorul de var de lângă lac suflă un vânt rece, deci purtați o jachetă groasă pentru opriri.\n\nLa prânz, piscina acoperită și galeriile oferă o căldură plăcută, departe de frigul iernii de afară.\n\nDupă-amiaza folosim încălzirea din mașină între obiectivele istorice pentru un confort maxim pe traseu.\n\nSeara, punctul de belvedere oferă o vizibilitate excelentă în aerul clar, înainte de lăsarea serii la ora 17:00.",
-            "en": "In the morning at the reservoir kiln, a cold wind may blow, so wear a padded jacket for short stops.\n\nAt noon, the indoor pool and the galleries offer pleasant temperatures, making you forget the frost outside.\n\nAfternoon is for enjoying the car's heating between historic sites for maximum comfort during your journey.\n\nIn the evening at the viewpoint, the clear winter air allows for great views before it gets dark around 17:00."
+            "en": "In the morning at the reservoir kiln, a cold wind may blow, so wear a padded jacket for short stops.\n\nAt noon, the indoor pool and the galleries offer pleasant temperatures, making you forget the frost outside.\n\nAfternoon is for enjoying the car's heating between historic sites for maximum comfort during your journey.\n\nIn the evening at the viewpoint, the clear winter air allows for great views before it gets dark around 17:00.",
+            "es": "Por la mañana en el horno del embalse puede soplar un viento frío, así que lleva una chaqueta acolchada para las paradas breves.\n\nAl mediodía, la piscina cubierta y las galerías ofrecen temperaturas agradables que te harán olvidar la helada exterior.\n\nLa tarde es para disfrutar de la calefacción del coche entre los sitios históricos para mayor confort durante el trayecto.\n\nPor la noche en el mirador, el aire limpio de invierno permite vistas excelentes antes de que oscurezca alrededor de las 17:00."
           },
           "stops": [
             {
@@ -1045,13 +1160,15 @@
                 "de": "Kalkofen am Stausee",
                 "hu": "Pantano Mészégető",
                 "ro": "Cuptorul de var de la Pantano",
-                "en": "Calera del Pantano"
+                "en": "Calera del Pantano",
+                "es": "Calera del Pantano"
               },
               "tip_5lang": {
                 "de": "Die frostige Luft am Stausee ist erfrischend; halten Sie den Aufenthalt kurz und kehren Sie schnell in das vorgewärmte Auto zurück.",
                 "hu": "A fagyos levegő a víztározónál frissítő; tartsa röviden a kintlétet, és térjen vissza hamar az előmelegített autóba a kényelemért.",
                 "ro": "Aerul înghețat de la lacul de acumulare este revigorant; păstrați vizita scurtă și reveniți rapid în mașina preîncălzită.",
-                "en": "The frosty air at the reservoir is refreshing; keep your stay outside short and return quickly to the pre-heated car for comfort."
+                "en": "The frosty air at the reservoir is refreshing; keep your stay outside short and return quickly to the pre-heated car for comfort.",
+                "es": "El aire helado en el embalse es vigorizante; mantén las estancias fuera cortas y vuelve pronto al coche precalentado para mayor comodidad."
               }
             },
             {
@@ -1059,13 +1176,15 @@
                 "de": "Wachturm La Torreta",
                 "hu": "La Torreta Őrtorony",
                 "ro": "Turnul de veghe La Torreta",
-                "en": "La Torreta"
+                "en": "La Torreta",
+                "es": "La Torreta"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die klare Sicht vom Turm aus, die im Winter oft besser ist; eine warme Mütze schützt Sie vor dem kühlen Wind auf dem Hügel.",
                 "hu": "Élvezze a tiszta kilátást a toronyból, amely télen gyakran sokkal jobb; egy meleg sapka megvédi önt a dombtetőn fújó hűvös széltől.",
                 "ro": "Bucurați-vă de vederea clară de la turn, care iarna este adesea mai bună; o căciulă groasă vă va proteja de vântul rece de pe deal.",
-                "en": "Enjoy the clear view from the tower, which is often much better in winter; a warm hat will protect you from the cool wind on the hill."
+                "en": "Enjoy the clear view from the tower, which is often much better in winter; a warm hat will protect you from the cool wind on the hill.",
+                "es": "Disfruta de la vista clara desde la torre, que suele ser mejor en invierno; un gorro caliente te protegerá del viento frío en la colina."
               }
             },
             {
@@ -1073,13 +1192,15 @@
                 "de": "Kalkofen La Torreta",
                 "hu": "La Torreta Mészégető",
                 "ro": "Cuptorul de var La Torreta",
-                "en": "Calera de la Torreta"
+                "en": "Calera de la Torreta",
+                "es": "Calera de la Torreta"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das Winterlicht für eindrucksvolle Fotos der Steinstrukturen; achten Sie auf mögliche Glätte auf den Parkplatzflächen in Schattenbereichen.",
                 "hu": "Használja ki a téli fényeket a kőszerkezetek látványos fotózásához; ügyeljen az esetleges jegesedésre a parkoló árnyékosabb részein.",
                 "ro": "Profitați de lumina iernii pentru fotografii impresionante ale structurilor de piatră; atenție la gheața din zonele umbrite ale parcării.",
-                "en": "Take advantage of the winter light for impressive photos of the stone structures; watch out for potential icy spots in shaded parking areas."
+                "en": "Take advantage of the winter light for impressive photos of the stone structures; watch out for potential icy spots in shaded parking areas.",
+                "es": "Aprovecha la luz invernal para fotos impresionantes de las estructuras de piedra; ojo con posibles zonas heladas en los aparcamientos sombreados."
               }
             },
             {
@@ -1087,13 +1208,15 @@
                 "de": "Ausstellungshalle Vicente Poveda",
                 "hu": "Vicente Poveda Kiállítóterem",
                 "ro": "Sala de expoziții Vicente Poveda",
-                "en": "Sala de exposiciones Vicente Poveda"
+                "en": "Sala de exposiciones Vicente Poveda",
+                "es": "Sala de exposiciones Vicente Poveda"
               },
               "tip_5lang": {
                 "de": "Die beheizten Galerieräume laden zum Verweilen und Aufwärmen ein; nehmen Sie sich Zeit für die Kunst, während es draußen am kältesten ist.",
                 "hu": "A fűtött galériaterek maradásra és melegedésre csábítanak; szánjon időt a művészetre, amíg odakint a leghidegebb az időjárás.",
                 "ro": "Sălile de galerie încălzite vă invită să zăboviți și să vă încălziți; acordați timp artei în timp ce afară este cel mai frig.",
-                "en": "The heated gallery spaces invite you to linger and warm up; take your time with the art while it is coldest outside during the day."
+                "en": "The heated gallery spaces invite you to linger and warm up; take your time with the art while it is coldest outside during the day.",
+                "es": "Los espacios calefactados de la galería invitan a quedarse y entrar en calor; tómate tu tiempo con el arte mientras hace más frío afuera."
               }
             },
             {
@@ -1101,13 +1224,15 @@
                 "de": "Städtisches Schwimmbad",
                 "hu": "Városi Uszoda",
                 "ro": "Piscina Municipală",
-                "en": "Piscina Municipal"
+                "en": "Piscina Municipal",
+                "es": "Piscina Municipal"
               },
               "tip_5lang": {
                 "de": "Ein Bad im warmen Wasser ist der ideale Kontrast zur Winterluft; trocknen Sie sich gut ab, bevor Sie wieder ins Freie zum Auto gehen.",
                 "hu": "Egy fürdő a meleg vízben ideális kontraszt a téli levegővel; alaposan szárítkozzon meg, mielőtt visszatérne a szabadba az autóhoz.",
                 "ro": "O baie în apa caldă este contrastul ideal pentru aerul de iarnă; uscați-vă bine înainte de a ieși din nou afară spre mașină.",
-                "en": "A swim in the warm water is the ideal contrast to the winter air; dry yourself thoroughly before heading back outside to your car."
+                "en": "A swim in the warm water is the ideal contrast to the winter air; dry yourself thoroughly before heading back outside to your car.",
+                "es": "Un baño en agua caliente es el contraste ideal con el aire invernal; sécate bien antes de volver al exterior hacia tu coche."
               }
             },
             {
@@ -1115,13 +1240,15 @@
                 "de": "Schuhmuseum",
                 "hu": "Cipőmúzeum",
                 "ro": "Muzeul Încălțămintei",
-                "en": "Museo del Calzado"
+                "en": "Museo del Calzado",
+                "es": "Museo del Calzado"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie die Schuhmode in den wohltemperierten Hallen; planen Sie den Besuch so, dass Sie vor Einbruch der frühen Dunkelheit fertig sind.",
                 "hu": "Fedezze fel a cipődivatot a kellemes hőmérsékletű csarnokokban; tervezze a látogatást úgy, hogy a korai sötétedés előtt végezzen.",
                 "ro": "Descoperiți moda încălțămintei în sălile bine climatizate; planificați vizita astfel încât să terminați înainte de lăsarea întunericului.",
-                "en": "Discover footwear fashion in the well-tempered halls; plan your visit to finish before the early darkness sets in during winter."
+                "en": "Discover footwear fashion in the well-tempered halls; plan your visit to finish before the early darkness sets in during winter.",
+                "es": "Descubre la moda del calzado en los salones bien climatizados; planifica tu visita para terminar antes de que anochezca temprano en invierno."
               }
             },
             {
@@ -1129,13 +1256,15 @@
                 "de": "Aussichtspunkt von Elda",
                 "hu": "Elda Kilátó",
                 "ro": "Punctul de Belvedere din Elda",
-                "en": "Mirador de Elda"
+                "en": "Mirador de Elda",
+                "es": "Mirador de Elda"
               },
               "tip_5lang": {
                 "de": "Das Winterpanorama bei Sonnenuntergang um 17:00 Uhr ist unvergesslich; lassen Sie den Motor kurz laufen, um die Innenraumwärme zu halten.",
                 "hu": "A téli panoráma a 17 órai naplementekor felejthetetlen; járassa a motort rövid ideig, hogy megőrizze az utastér melegét a nézelődés alatt.",
                 "ro": "Panorama de iarnă la apusul de la ora 17:00 este de neuitat; lăsați motorul pornit scurt timp pentru a menține căldura în interior.",
-                "en": "The winter panorama at sunset at 17:00 is unforgettable; keep the engine running briefly to maintain interior warmth while viewing."
+                "en": "The winter panorama at sunset at 17:00 is unforgettable; keep the engine running briefly to maintain interior warmth while viewing.",
+                "es": "El panorama invernal al atardecer a las 17:00 es inolvidable; mantén el motor en marcha brevemente para conservar el calor interior mientras observas."
               }
             }
           ]

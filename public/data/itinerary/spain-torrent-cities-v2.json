@@ -21,7 +21,8 @@
             "de": "Kirche Mariä Himmelfahrt",
             "hu": "Nagyboldogasszony-templom",
             "ro": "Biserica Adormirea Maicii Domnului",
-            "en": "Church of the Assumption of Our Lady"
+            "en": "Church of the Assumption of Our Lady",
+            "es": "Iglesia de la Asunción de Nuestra Señora"
           },
           "coords": [
             -0.465,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie den barocken Altaraufsatz und die beeindruckenden Deckenfresken.",
             "hu": "Csodálja meg a barokk oltárképet és a lenyűgöző mennyezeti freskókat.",
             "ro": "Admirați altarul baroc și frescele impresionante de pe tavan.",
-            "en": "Admire the Baroque altarpiece and the impressive ceiling frescoes."
+            "en": "Admire the Baroque altarpiece and the impressive ceiling frescoes.",
+            "es": "Admira el retablo barroco y los impresionantes frescos del techo."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Turm von Torrent",
             "hu": "Torrenti torony",
             "ro": "Turnul din Torrent",
-            "en": "Tower of Torrent"
+            "en": "Tower of Torrent",
+            "es": "Torre de Torrent"
           },
           "coords": [
             -0.4665,
@@ -59,7 +62,8 @@
             "de": "Erklimmen Sie die Spitze für einen Panoramablick über die Altstadt.",
             "hu": "Másszon fel a tetejére, ahonnan panorámás kilátás nyílik az óvárosra.",
             "ro": "Urcați în vârf pentru o vedere panoramică asupra orașului vechi.",
-            "en": "Climb to the top for a panoramic view over the old town."
+            "en": "Climb to the top for a panoramic view over the old town.",
+            "es": "Sube hasta la cima para una vista panorámica del casco antiguo."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Ethnologisches Museum",
             "hu": "Néprajzi Múzeum",
             "ro": "Muzeul Etnologic",
-            "en": "Ethnological Museum"
+            "en": "Ethnological Museum",
+            "es": "Museo Etnológico"
           },
           "coords": [
             -0.467,
@@ -82,7 +87,8 @@
             "de": "Entdecken Sie die landwirtschaftliche Vergangenheit von Torrent und die Orangenanbau-Tradition.",
             "hu": "Fedezze fel Torrent mezőgazdasági múltját és a narancstermesztés hagyományát.",
             "ro": "Descoperiți trecutul agricol al orașului Torrent și tradiția cultivării portocalelor.",
-            "en": "Discover Torrent's agricultural past and the tradition of orange cultivation."
+            "en": "Discover Torrent's agricultural past and the tradition of orange cultivation.",
+            "es": "Descubre el pasado agrícola de Torrent y la tradición del cultivo de naranjas."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Mittagessen in der Nähe des Museums",
             "hu": "Ebéd a múzeum közelében",
             "ro": "Prânz lângă muzeu",
-            "en": "Lunch near the museum"
+            "en": "Lunch near the museum",
+            "es": "Almuerzo cerca del museo"
           },
           "coords": [
             -0.4672,
@@ -105,7 +112,8 @@
             "de": "Probieren Sie 'Rossejat torrentí', ein lokales Reisgericht.",
             "hu": "Kóstolja meg a 'Rossejat torrentí'-t, egy helyi rizsételt.",
             "ro": "Încercați 'Rossejat torrentí', un preparat local din orez.",
-            "en": "Try 'Rossejat torrentí', a local rice dish."
+            "en": "Try 'Rossejat torrentí', a local rice dish.",
+            "es": "Prueba el 'Rossejat torrentí', un arroz local."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Kirche San Luis Beltrán",
             "hu": "Szent Lluís Beltrán-templom",
             "ro": "Biserica San Luis Beltrán",
-            "en": "Church of San Luis Beltrán"
+            "en": "Church of San Luis Beltrán",
+            "es": "Iglesia de San Luis Beltrán"
           },
           "coords": [
             -0.462,
@@ -128,7 +137,8 @@
             "de": "Beachten Sie die neugotische Architektur, eine Seltenheit in dieser Region.",
             "hu": "Figyelje meg a neogótikus építészetet, amely ritkaságnak számít ebben a régióban.",
             "ro": "Observați arhitectura neogotică, o raritate în această regiune.",
-            "en": "Note the neo-Gothic architecture, a rarity in this region."
+            "en": "Note the neo-Gothic architecture, a rarity in this region.",
+            "es": "Fíjate en la arquitectura neogótica, una rareza en esta región."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Hort de Trénor",
             "hu": "Hort de Trénor kert",
             "ro": "Grădina Hort de Trénor",
-            "en": "Hort de Trénor Garden"
+            "en": "Hort de Trénor Garden",
+            "es": "Jardín Hort de Trénor"
           },
           "coords": [
             -0.458,
@@ -151,7 +162,8 @@
             "de": "Ein perfekter Ort für einen entspannten Spaziergang am Nachmittag. Suchen Sie nach dem Chalet.",
             "hu": "Tökéletes hely egy pihentető délutáni sétához. Keresse meg a villát.",
             "ro": "Un loc perfect pentru o plimbare relaxantă de după-amiază. Căutați cabana.",
-            "en": "A perfect spot for a relaxing afternoon walk. Look for the Chalet."
+            "en": "A perfect spot for a relaxing afternoon walk. Look for the Chalet.",
+            "es": "Un lugar perfecto para un paseo relajante por la tarde. Busca el Chalet."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag im historischen Herzen von Torrent mit einem Besuch der prächtigen Kirche Mariä Himmelfahrt. Steigen Sie anschließend auf den mittelalterlichen Turm, um eine atemberaubende Aussicht zu genießen. Am Nachmittag tauchen Sie im Ethnologischen Museum in die lokale Kultur ein, bevor Sie in den ruhigen Gärten von Hort de Trénor entspannen. Beenden Sie den Tag mit der Entdeckung weiterer architektonischer Juwelen.",
         "hu": "Kezdje a napot Torrent történelmi szívében a csodálatos Nagyboldogasszony-templom meglátogatásával. Ezután másszon fel a középkori toronyba a lélegzetelállító kilátásért. Délután merüljön el a helyi kultúrában a Néprajzi Múzeumban, mielőtt kikapcsolódna a Hort de Trénor csendes kertjeiben. Zárja a napot további építészeti gyöngyszemek felfedezésével.",
         "ro": "Începeți ziua în inima istorică a orașului Torrent vizitând magnifica Biserică a Adormirii Maicii Domnului. Apoi, urcați în turnul medieval pentru priveliști uluitoare. După-amiaza, pătrundeți în cultura locală la Muzeul Etnologic înainte de a vă relaxa în grădinile liniștite din Hort de Trénor. Încheiați ziua descoperind mai multe bijuterii arhitecturale.",
-        "en": "Start your day in the historic heart of Torrent by visiting the magnificent Church of the Assumption. Then, climb the medieval tower for breathtaking views. In the afternoon, immerse yourself in local culture at the Ethnological Museum before relaxing in the quiet gardens of Hort de Trénor. End the day discovering more architectural gems."
+        "en": "Start your day in the historic heart of Torrent by visiting the magnificent Church of the Assumption. Then, climb the medieval tower for breathtaking views. In the afternoon, immerse yourself in local culture at the Ethnological Museum before relaxing in the quiet gardens of Hort de Trénor. End the day discovering more architectural gems.",
+        "es": "Comienza tu día en el corazón histórico de Torrent visitando la magnífica Iglesia de la Asunción. Luego sube a la torre medieval para vistas impresionantes. Por la tarde, sumérgete en la cultura local en el Museo Etnológico antes de relajarte en los tranquilos jardines del Hort de Trénor. Termina el día descubriendo más joyas arquitectónicas."
       },
       "gastro_picks": {
         "de": [
@@ -315,6 +328,11 @@
           "Wear comfortable shoes as the center has cobblestones.",
           "Many shops observe a 'siesta' from 2 PM to 5 PM.",
           "Bring plenty of water, especially in summer."
+        ],
+        "es": [
+          "Lleva calzado cómodo porque el centro tiene empedrado.",
+          "Muchas tiendas hacen 'siesta' de 14:00 a 17:00.",
+          "Lleva abundante agua, especialmente en verano."
         ]
       },
       "variants": {
@@ -323,7 +341,8 @@
             "de": "Beginnen Sie Ihren Tag in der kühlen Stille der Gemeindekirche, während der Regen draußen sanft auf die Pflastersteine fällt. Der massive Torre de Torrent bietet kurz darauf idealen Schutz vor den Schauern. Mittags genießen Sie die lokale Gastronomie in einem gemütlichen Restaurant, fernab der feuchten Gassen. Den Nachmittag verbringen Sie im Museu de l'Horta, wo Sie trocken in die Landwirtschaftsgeschichte eintauchen, bevor Sie den Tag im Hort de Trénor unter dem Blätterdach ausklingen lassen.",
             "hu": "Kezdje a napot a plébániatemplom hűvös csendjében, miközben odakint az eső veri a macskaköveket. A masszív mór torony, a Torre de Torrent, tökéletes menedéket nyújt a záporok elől. Délben egy hangulatos étteremben kóstolhatja meg a helyi ízeket, távol a nedves utcáktól. Délután a Museu de l'Horta fedett kiállításai között ismerheti meg a vidék múltját, végül az esernyők alatt tehet egy frissítő sétát az Hort de Trénor kertjében.",
             "ro": "Începeți ziua în liniștea bisericii parohiale, în timp ce ploaia cade ușor pe străzile înguste. Turnul islamic, Torre de Torrent, oferă un adăpost solid împotriva averselor trecătoare. La prânz, savurați preparate locale într-un restaurant primitor, ferit de umezeală. După-amiaza este dedicată vizitării Museu de l'Horta, unde puteți explora istoria agricolă la adăpost, încheind ziua cu o plimbare revigorantă sub umbrelă în grădina Hort de Trénor.",
-            "en": "Start your day in the cool silence of the parish church as the rain gently hits the cobblestones. The massive Islamic tower, Torre de Torrent, provides perfect shelter from passing showers. At noon, enjoy local flavors in a cozy restaurant, far from the damp streets. Spend the afternoon inside the Museu de l'Horta, exploring agricultural history while staying dry, before ending the day with a refreshing walk under an umbrella in the Hort de Trénor garden."
+            "en": "Start your day in the cool silence of the parish church as the rain gently hits the cobblestones. The massive Islamic tower, Torre de Torrent, provides perfect shelter from passing showers. At noon, enjoy local flavors in a cozy restaurant, far from the damp streets. Spend the afternoon inside the Museu de l'Horta, exploring agricultural history while staying dry, before ending the day with a refreshing walk under an umbrella in the Hort de Trénor garden.",
+            "es": "Empieza tu día en el silencio fresco de la iglesia parroquial mientras la lluvia golpea suavemente el empedrado. La masiva torre islámica, Torre de Torrent, ofrece perfecto refugio de los chaparrones. Al mediodía, disfruta de sabores locales en un restaurante acogedor, lejos de las calles húmedas. Pasa la tarde en el Museu de l'Horta explorando la historia agrícola mientras te mantienes seco, y termina el día con un refrescante paseo bajo el paraguas en el jardín Hort de Trénor."
           },
           "stops": [
             {
@@ -332,7 +351,8 @@
                 "de": "Bewundern Sie die Barockdetails, während Sie auf das Ende des Schauers warten.",
                 "hu": "Csodálja meg a barokk részleteket, amíg eláll a zápor.",
                 "ro": "Admirați detaliile baroce în timp ce așteptați să treacă ploaia.",
-                "en": "Admire the Baroque details while waiting for the shower to pass."
+                "en": "Admire the Baroque details while waiting for the shower to pass.",
+                "es": "Admira los detalles barrocos mientras esperas a que pase el aguacero."
               }
             },
             {
@@ -341,7 +361,8 @@
                 "de": "Die dicken Mauern halten Sie absolut trocken.",
                 "hu": "A vastag falak teljesen szárazon tartják.",
                 "ro": "Zidurile groase vă vor menține complet uscat.",
-                "en": "The thick walls will keep you perfectly dry."
+                "en": "The thick walls will keep you perfectly dry.",
+                "es": "Los muros gruesos te mantendrán perfectamente seco."
               }
             },
             {
@@ -350,7 +371,8 @@
                 "de": "Ein idealer Zufluchtsort für Kulturinteressierte bei Regen.",
                 "hu": "Ideális kulturális menedék esős időben.",
                 "ro": "Un refugiu cultural ideal pe timp de ploaie.",
-                "en": "An ideal cultural refuge during rainy weather."
+                "en": "An ideal cultural refuge during rainy weather.",
+                "es": "Un refugio cultural ideal en días de lluvia."
               }
             },
             {
@@ -359,7 +381,8 @@
                 "de": "Wärmen Sie sich mit einer heißen Paella oder einem Eintopf auf.",
                 "hu": "Melegedjen fel egy forró paellával vagy egytálétellel.",
                 "ro": "Încălziți-vă cu o paella fierbinte sau un ghiveci local.",
-                "en": "Warm up with a hot paella or a local stew."
+                "en": "Warm up with a hot paella or a local stew.",
+                "es": "Entrénate con una paella caliente o un guiso local."
               }
             },
             {
@@ -368,7 +391,8 @@
                 "de": "Ein ruhiger Ort, um den prasselnden Regen draußen zu hören.",
                 "hu": "Nyugodt hely, ahol hallgathatja a kinti eső kopogását.",
                 "ro": "Un loc liniștit pentru a asculta ploaia de afară.",
-                "en": "A peaceful spot to listen to the rain outside."
+                "en": "A peaceful spot to listen to the rain outside.",
+                "es": "Un lugar tranquilo para escuchar la lluvia afuera."
               }
             },
             {
@@ -377,7 +401,8 @@
                 "de": "Die Vegetation wirkt im Regen besonders intensiv und grün.",
                 "hu": "A növényzet esőben különösen intenzívnek és zöldnek tűnik.",
                 "ro": "Vegetația pare extrem de intensă și verde pe ploaie.",
-                "en": "The vegetation looks especially intense and green in the rain."
+                "en": "The vegetation looks especially intense and green in the rain.",
+                "es": "La vegetación se ve especialmente intensa y verde con la lluvia."
               }
             }
           ],
@@ -405,6 +430,12 @@
               "Use churches and museums as tactical rest stops.",
               "A sturdy umbrella is better than a light one due to potential wind.",
               "Enjoy the scent of wet earth in the gardens."
+            ],
+            "es": [
+              "Lleva calzado impermeable porque el pavimento del casco antiguo puede estar resbaladizo.",
+              "Usa iglesias y museos como paradas tácticas para descansar.",
+              "Un paraguas resistente es mejor que uno ligero por el posible viento.",
+              "Disfruta del olor a tierra mojada en los jardines."
             ]
           }
         },
@@ -413,7 +444,8 @@
             "de": "Der Wintermorgen in Torrent ist klar und erfrischend kühl. Beginnen Sie Ihren Spaziergang an der Kirche und genießen Sie die milde mediterrane Sonne auf dem Weg zum markanten Turm. Mittags laden die sonnigen Plätze zum Verweilen ein, bevor Sie das Museu de l'Horta besuchen. Da die Sonne gegen 17:45 Uhr untergeht, planen Sie Ihren Besuch im Hort de Trénor für den frühen Nachmittag, um das goldene Licht zwischen den exotischen Pflanzen voll auszukosten.",
             "hu": "A téli reggel Torrentben tiszta és frissítően hűvös. Kezdje a sétát a templomnál, élvezve a lágy mediterrán napsütést a torony felé menet. Délben a napsütötte terek hívogatnak egy rövid pihenőre, mielőtt betérne a Museu de l'Horta épületébe. Mivel a nap 17:45 körül nyugszik, az Hort de Trénor látogatását időzítse kora délutánra, hogy elcsípje az egzotikus növények között átszűrődő aranyló fényeket.",
             "ro": "Dimineața de iarnă în Torrent este clară și revigorant de răcoroasă. Începeți plimbarea la biserică, bucurându-vă de soarele blând mediteranean în drum spre turn. La prânz, piețele însorite sunt perfecte pentru o pauză înainte de a vizita Museu de l'Horta. Deoarece soarele apune în jur de 17:45, programați vizita la Hort de Trénor devreme, pentru a vedea lumina aurie printre plantele exotice.",
-            "en": "The winter morning in Torrent is clear and refreshingly cool. Start your walk at the church, enjoying the mild Mediterranean sun on your way to the tower. At noon, the sunny squares are perfect for a break before heading to Museu de l'Horta. Since sunset is around 17:45, schedule your visit to Hort de Trénor for the early afternoon to catch the golden light filtering through the exotic plants."
+            "en": "The winter morning in Torrent is clear and refreshingly cool. Start your walk at the church, enjoying the mild Mediterranean sun on your way to the tower. At noon, the sunny squares are perfect for a break before heading to Museu de l'Horta. Since sunset is around 17:45, schedule your visit to Hort de Trénor for the early afternoon to catch the golden light filtering through the exotic plants.",
+            "es": "La mañana invernal en Torrent es clara y refrescantemente fresca. Comienza tu paseo en la iglesia, disfrutando del suave sol mediterráneo camino a la torre. Al mediodía, las plazas soleadas son perfectas para un descanso antes de dirigirte al Museu de l'Horta. Como el atardecer es sobre las 17:45, programa tu visita al Hort de Trénor a primera hora de la tarde para captar la luz dorada filtrándose entre las plantas exóticas."
           },
           "stops": [
             {
@@ -422,7 +454,8 @@
                 "de": "Das Innere ist angenehm temperiert im Vergleich zur Außenluft.",
                 "hu": "A belső tér kellemes hőmérsékletű a kinti levegőhöz képest.",
                 "ro": "Interiorul are o temperatură plăcută față de aerul de afară.",
-                "en": "The interior is pleasantly tempered compared to the outside air."
+                "en": "The interior is pleasantly tempered compared to the outside air.",
+                "es": "El interior está agradablemente templado en comparación con el aire exterior."
               }
             },
             {
@@ -431,7 +464,8 @@
                 "de": "Nutzen Sie die klare Winterluft für tolle Fotos vom Mauerwerk.",
                 "hu": "Használja ki a tiszta téli levegőt a falak fotózásához.",
                 "ro": "Profitați de aerul curat de iarnă pentru fotografii clare cu turnul.",
-                "en": "Take advantage of the clear winter air for great photos of the tower."
+                "en": "Take advantage of the clear winter air for great photos of the tower.",
+                "es": "Aprovecha el aire claro del invierno para excelentes fotos de la torre."
               }
             },
             {
@@ -440,7 +474,8 @@
                 "de": "Ein warmer Ort, um mehr über die Traditionen der Region zu erfahren.",
                 "hu": "Meleg helyszín a régió hagyományainak megismeréséhez.",
                 "ro": "Un loc călduros pentru a învăța despre tradițiile regiunii.",
-                "en": "A warm venue to learn about the region's traditions."
+                "en": "A warm venue to learn about the region's traditions.",
+                "es": "Un lugar cálido para aprender sobre las tradiciones de la región."
               }
             },
             {
@@ -449,7 +484,8 @@
                 "de": "Fragen Sie nach saisonalen Wintergerichten aus dem Umland.",
                 "hu": "Kérjen szezonális téli ételeket a környékről.",
                 "ro": "Cereți preparate sezoniere de iarnă din împrejurimi.",
-                "en": "Ask for seasonal winter dishes from the surrounding area."
+                "en": "Ask for seasonal winter dishes from the surrounding area.",
+                "es": "Pregunta por los platos de temporada del entorno en invierno."
               }
             },
             {
@@ -458,7 +494,8 @@
                 "de": "Die tiefstehende Sonne erzeugt oft schönes Licht im Kirchenschiff.",
                 "hu": "Az alacsonyan járó nap szép fényeket fest a templomhajóba.",
                 "ro": "Soarele jos creează adesea lumini frumoase în naos.",
-                "en": "The low sun often creates beautiful light in the nave."
+                "en": "The low sun often creates beautiful light in the nave.",
+                "es": "El sol bajo suele crear una luz hermosa en la nave."
               }
             },
             {
@@ -467,7 +504,8 @@
                 "de": "Der Garten schließt im Winter meist früher, planen Sie 16:30 Uhr ein.",
                 "hu": "A kert télen korábban zár, tervezzen 16:30-as érkezéssel.",
                 "ro": "Grădina se închide mai devreme iarna, planificați vizita pentru 16:30.",
-                "en": "The garden closes earlier in winter, plan to arrive by 16:30."
+                "en": "The garden closes earlier in winter, plan to arrive by 16:30.",
+                "es": "El jardín cierra antes en invierno; planea llegar antes de las 16:30."
               }
             }
           ],
@@ -495,6 +533,12 @@
               "Sunset is around 17:45, after which it cools down quickly.",
               "Enjoy the peace as there are fewer tourists around.",
               "A hot coffee at Plaza Mayor is especially pleasant in winter."
+            ],
+            "es": [
+              "Vístete en capas: hace calor al sol pero fresco a la sombra.",
+              "El atardecer es sobre las 17:45; después refresca rápido.",
+              "Disfruta de la paz, hay menos turistas.",
+              "Un café caliente en la Plaza Mayor es especialmente agradable en invierno."
             ]
           }
         }
@@ -513,7 +557,8 @@
             "de": "Hort de Trénor",
             "hu": "Hort de Trénor kert",
             "ro": "Grădina Hort de Trénor",
-            "en": "Hort de Trénor Garden"
+            "en": "Hort de Trénor Garden",
+            "es": "Jardín Hort de Trénor"
           },
           "coords": [
             -0.458,
@@ -528,7 +573,8 @@
             "de": "Beginnen Sie Ihren Tag mit einer entspannten Radtour durch diesen wunderschönen Garten.",
             "hu": "Kezdje a napot egy pihentető biciklizéssel ebben a gyönyörű kertben.",
             "ro": "Începeți ziua cu o plimbare relaxantă cu bicicleta prin această grădină frumoasă.",
-            "en": "Start your day with a relaxing bike ride through this beautiful garden."
+            "en": "Start your day with a relaxing bike ride through this beautiful garden.",
+            "es": "Comienza el día con un relajante paseo en bici por este hermoso jardín."
           }
         },
         {
@@ -536,7 +582,8 @@
             "de": "Kirche Mariä Himmelfahrt",
             "hu": "Nagyboldogasszony-templom",
             "ro": "Biserica Adormirea Maicii Domnului",
-            "en": "Church of the Assumption of Our Lady"
+            "en": "Church of the Assumption of Our Lady",
+            "es": "Iglesia de la Asunción de Nuestra Señora"
           },
           "coords": [
             -0.465,
@@ -551,7 +598,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab und nehmen Sie sich Zeit, das Innere zu erkunden.",
             "hu": "Zárja le biztonságosan a kerékpárját, és szánjon időt a belső tér felfedezésére.",
             "ro": "Legați-vă bicicleta în siguranță și luați-vă timp să explorați interiorul.",
-            "en": "Lock your bike securely and take time to explore the interior."
+            "en": "Lock your bike securely and take time to explore the interior.",
+            "es": "Asegura bien tu bicicleta y tómate tiempo para explorar el interior."
           }
         },
         {
@@ -559,7 +607,8 @@
             "de": "Turm von Torrent",
             "hu": "Torrenti torony",
             "ro": "Turnul din Torrent",
-            "en": "Tower of Torrent"
+            "en": "Tower of Torrent",
+            "es": "Torre de Torrent"
           },
           "coords": [
             -0.4665,
@@ -574,7 +623,8 @@
             "de": "Lassen Sie Ihr Fahrrad unten und genießen Sie die Aussicht von oben.",
             "hu": "Hagyja lent a kerékpárját, és élvezze a kilátást fentről.",
             "ro": "Lăsați bicicleta jos și bucurați-vă de priveliștea de sus.",
-            "en": "Leave your bike at the bottom and enjoy the view from the top."
+            "en": "Leave your bike at the bottom and enjoy the view from the top.",
+            "es": "Deja la bici abajo y disfruta de la vista desde arriba."
           }
         },
         {
@@ -582,7 +632,8 @@
             "de": "Mittagessen im Stadtzentrum",
             "hu": "Ebéd a városközpontban",
             "ro": "Prânz în centrul orașului",
-            "en": "Lunch in the city center"
+            "en": "Lunch in the city center",
+            "es": "Almuerzo en el centro de la ciudad"
           },
           "coords": [
             -0.466,
@@ -597,7 +648,8 @@
             "de": "Suchen Sie nach einem Restaurant mit einer Terrasse, um Ihr Fahrrad im Auge zu behalten.",
             "hu": "Keressen egy teraszos éttermet, hogy szemmel tarthassa a kerékpárját.",
             "ro": "Căutați un restaurant cu terasă pentru a vă putea supraveghea bicicleta.",
-            "en": "Look for a restaurant with a terrace to keep an eye on your bike."
+            "en": "Look for a restaurant with a terrace to keep an eye on your bike.",
+            "es": "Busca un restaurante con terraza para poder vigilar tu bici."
           }
         },
         {
@@ -605,7 +657,8 @@
             "de": "Radtour nach El Vedat de Torrent",
             "hu": "Kerékpártúra El Vedat de Torrentbe",
             "ro": "Tur cu bicicleta la El Vedat de Torrent",
-            "en": "Bike ride to El Vedat de Torrent"
+            "en": "Bike ride to El Vedat de Torrent",
+            "es": "Ruta en bici hasta El Vedat de Torrent"
           },
           "coords": [
             -0.49,
@@ -620,7 +673,8 @@
             "de": "Dies ist ein hügeliges Gebiet; stellen Sie sicher, dass Ihr Fahrrad Gänge hat. Genießen Sie die Natur.",
             "hu": "Ez egy dombos terület; győződjön meg róla, hogy a kerékpárján van sebességváltó. Élvezze a természetet.",
             "ro": "Aceasta este o zonă deluroasă; asigurați-vă că bicicleta dvs. are viteze. Bucurați-vă de natură.",
-            "en": "This is a hilly area; make sure your bike has gears. Enjoy nature."
+            "en": "This is a hilly area; make sure your bike has gears. Enjoy nature.",
+            "es": "Es una zona con cuestas; asegúrate de que tu bici tenga marchas. Disfruta de la naturaleza."
           }
         },
         {
@@ -628,7 +682,8 @@
             "de": "Rückfahrt und Eremitage San Vicente Ferrer",
             "hu": "Visszaút és a San Vicente Ferrer remetelak",
             "ro": "Întoarcere și Schitul San Vicente Ferrer",
-            "en": "Return ride and Hermitage of San Vicente Ferrer"
+            "en": "Return ride and Hermitage of San Vicente Ferrer",
+            "es": "Regreso y Ermita de San Vicente Ferrer"
           },
           "coords": [
             -0.469,
@@ -643,7 +698,8 @@
             "de": "Ein kurzer Halt, um dieses kleine, charmante Heiligtum am Ende Ihrer Tour zu sehen.",
             "hu": "Egy rövid megálló, hogy megnézze ezt a kicsi, bájos szentélyt a túra végén.",
             "ro": "O oprire scurtă pentru a vedea acest mic și fermecător sanctuar la sfârșitul turului.",
-            "en": "A brief stop to see this small, charming sanctuary at the end of your tour."
+            "en": "A brief stop to see this small, charming sanctuary at the end of your tour.",
+            "es": "Una breve parada para ver este pequeño y encantador santuario al final de tu recorrido."
           }
         }
       ],
@@ -651,7 +707,8 @@
         "de": "Starten Sie Ihre Radtour in den grünen Hort de Trénor-Gärten, bevor Sie ins historische Zentrum radeln. Erkunden Sie die Hauptkirche und den mittelalterlichen Turm. Nach einem stärkenden Mittagessen nehmen Sie die Herausforderung an und radeln in die hügelige Landschaft von El Vedat. Der Nachmittag ist der Natur gewidmet, bevor Sie auf dem Rückweg für einen kurzen besinnlichen Moment an der Eremitage San Vicente Ferrer anhalten.",
         "hu": "Kezdje a kerékpártúrát a zöld Hort de Trénor kertekben, mielőtt a történelmi központba teker. Fedezze fel a főtemplomot és a középkori tornyot. Egy kiadós ebéd után vállalja a kihívást, és tekerjen El Vedat dombos vidékére. A délután a természeté, mielőtt visszafelé megállna egy rövid, elmélkedő pillanatra a San Vicente Ferrer remetelaknál.",
         "ro": "Începeți turul cu bicicleta în grădinile verzi Hort de Trénor înainte de a pedala spre centrul istoric. Explorați biserica principală și turnul medieval. După un prânz consistent, acceptați provocarea de a pedala spre peisajul deluros din El Vedat. După-amiaza este dedicată naturii, înainte de a vă opri pentru un scurt moment de reflecție la Schitul San Vicente Ferrer pe drumul de întoarcere.",
-        "en": "Start your bike tour in the green Hort de Trénor gardens before cycling to the historic center. Explore the main church and the medieval tower. After a hearty lunch, take on the challenge of cycling to the hilly landscape of El Vedat. The afternoon is dedicated to nature before stopping for a brief moment of reflection at the Hermitage of San Vicente Ferrer on the way back."
+        "en": "Start your bike tour in the green Hort de Trénor gardens before cycling to the historic center. Explore the main church and the medieval tower. After a hearty lunch, take on the challenge of cycling to the hilly landscape of El Vedat. The afternoon is dedicated to nature before stopping for a brief moment of reflection at the Hermitage of San Vicente Ferrer on the way back.",
+        "es": "Comienza tu ruta en bici en los verdes jardines del Hort de Trénor antes de pedalear hacia el centro histórico. Explora la iglesia principal y la torre medieval. Tras un contundente almuerzo, asume el reto de subir en bici al paisaje montañoso de El Vedat. La tarde está dedicada a la naturaleza antes de detenerte para un breve momento de reflexión en la Ermita de San Vicente Ferrer de camino de regreso."
       },
       "gastro_picks": {
         "de": [
@@ -807,6 +864,11 @@
           "Check your tire pressure before you leave.",
           "Use a strong lock, especially in the city center.",
           "A helmet is highly recommended, especially for the ride to El Vedat."
+        ],
+        "es": [
+          "Revisa la presión de los neumáticos antes de salir.",
+          "Usa un candado resistente, especialmente en el centro.",
+          "Se recomienda casco, sobre todo para la ruta a El Vedat."
         ]
       },
       "variants": {
@@ -815,7 +877,8 @@
             "de": "Starten Sie vorsichtig am Hort de Trénor, wo die nassen Blätter den Boden schmücken. Die Fahrt zur Kirche und zum Turm erfordert auf dem glatten Asphalt Aufmerksamkeit. Mittags bietet eine längere Pause in einem Restaurant Zeit zum Trocknen. Die geplante Tour zur Sierra Perenchiza sollte bei starkem Regen gekürzt werden, da die Naturwege schlammig sein können. Kehren Sie am späten Nachmittag über befestigte Straßen zur Stadtkirche zurück.",
             "hu": "Induljon óvatosan az Hort de Trénortól, ahol nedves levelek borítják az utat. A templomhoz és a toronyhoz vezető út a csúszós aszfalton figyelmet igényel. Délben egy hosszabb éttermi szünet időt ad a száradásra. A Sierra Perenchiza túrát erős esőben érdemes lerövidíteni a sáros ösvények miatt. Késő délután szilárd burkolatú utakon térjen vissza a városi templomhoz.",
             "ro": "Porniți cu prudență de la Hort de Trénor, unde frunzele umede acoperă drumul. Drumul spre biserică și turn necesită atenție sporită pe asfaltul ud. La prânz, o pauză prelungită la restaurant oferă timp pentru uscare. Traseul spre Sierra Perenchiza ar trebui scurtat în caz de ploaie torențială din cauza noroiului. Reveniți la biserica orașului pe drumuri asfaltate spre seară.",
-            "en": "Start cautiously from Hort de Trénor, where wet leaves cover the path. The ride to the church and tower requires extra attention on the slippery asphalt. At noon, a longer restaurant break provides time to dry off. The Sierra Perenchiza route should be shortened during heavy rain due to muddy trails. Return to the town church via paved roads in the late afternoon."
+            "en": "Start cautiously from Hort de Trénor, where wet leaves cover the path. The ride to the church and tower requires extra attention on the slippery asphalt. At noon, a longer restaurant break provides time to dry off. The Sierra Perenchiza route should be shortened during heavy rain due to muddy trails. Return to the town church via paved roads in the late afternoon.",
+            "es": "Sal con precaución desde Hort de Trénor, donde hojas húmedas cubren el camino. La ruta hacia la iglesia y la torre requiere atención extra por el asfalto resbaladizo. Al mediodía, una pausa larga en un restaurante da tiempo para secarse. Acorta la ruta Sierra Perenchiza en caso de lluvia intensa por senderos embarrados. Regresa a la iglesia del pueblo por carreteras pavimentadas al final de la tarde."
           },
           "stops": [
             {
@@ -824,7 +887,8 @@
                 "de": "Achtung vor rutschigen Blättern auf den Wegen.",
                 "hu": "Vigyázat, a levelek csúszósak lehetnek az utakon.",
                 "ro": "Atenție la frunzele alunecoase de pe alei.",
-                "en": "Watch out for slippery leaves on the paths."
+                "en": "Watch out for slippery leaves on the paths.",
+                "es": "Ten cuidado con las hojas resbaladizas en los caminos."
               }
             },
             {
@@ -833,7 +897,8 @@
                 "de": "Stellen Sie Ihr Rad unter einem Vordach unter.",
                 "hu": "Parkolja le a biciklit egy előtető alatt.",
                 "ro": "Parcați bicicleta sub un acoperiș de protecție.",
-                "en": "Park your bike under a protective overhang."
+                "en": "Park your bike under a protective overhang.",
+                "es": "Aparca la bici bajo un alero protector."
               }
             },
             {
@@ -842,7 +907,8 @@
                 "de": "Kurze Pause im Trockenen hinter den alten Mauern.",
                 "hu": "Rövid pihenő szárazon a régi falak mögött.",
                 "ro": "Scurtă pauză la uscat în spatele zidurilor vechi.",
-                "en": "A short dry break behind the ancient walls."
+                "en": "A short dry break behind the ancient walls.",
+                "es": "Una breve pausa para secarse tras los antiguos muros."
               }
             },
             {
@@ -851,7 +917,8 @@
                 "de": "Nutzen Sie die Zeit, um die Kleidung etwas zu lüften.",
                 "hu": "Használja ki az időt a ruházat szárítására.",
                 "ro": "Folosiți timpul pentru a vă usca puțin hainele.",
-                "en": "Use the time to dry your clothes a bit."
+                "en": "Use the time to dry your clothes a bit.",
+                "es": "Aprovecha para secar un poco la ropa."
               }
             },
             {
@@ -860,7 +927,8 @@
                 "de": "Vorsicht auf unbefestigten Wegen, es besteht Rutschgefahr.",
                 "hu": "Vigyázat a nem aszfaltozott utakon, csúszásveszély van.",
                 "ro": "Atenție pe drumurile neasfaltate, există risc de alunecare.",
-                "en": "Careful on unpaved paths, there is a risk of slipping."
+                "en": "Careful on unpaved paths, there is a risk of slipping.",
+                "es": "Cuidado en caminos sin pavimentar; hay riesgo de caída."
               }
             },
             {
@@ -869,7 +937,8 @@
                 "de": "Ein ruhiger Endpunkt nach einer feuchten Fahrt.",
                 "hu": "Nyugodt végállomás egy vizes tekerés után.",
                 "ro": "Un punct final liniștit după o cursă umedă.",
-                "en": "A peaceful final stop after a wet ride."
+                "en": "A peaceful final stop after a wet ride.",
+                "es": "Una parada final tranquila tras un paseo húmedo."
               }
             }
           ],
@@ -897,6 +966,12 @@
               "Wear a bright raincoat for better visibility.",
               "Avoid deep puddles, they might hide potholes.",
               "Mudguards are worth their weight in gold in this weather."
+            ],
+            "es": [
+              "Revisa los frenos antes de empezar; reaccionan más lento en mojado.",
+              "Lleva un chubasquero de color llamativo para mejor visibilidad.",
+              "Evita charcos profundos; pueden ocultar baches.",
+              "Los guardabarros valen su peso en oro con este tiempo."
             ]
           }
         },
@@ -905,7 +980,8 @@
             "de": "Genießen Sie die frische Winterbrise bei der Fahrt durch den Hort de Trénor am Morgen. Die Route führt Sie durch das historische Zentrum, wo die tiefstehende Sonne lange Schatten wirft. Mittags können Sie Kraft für den Anstieg zum El Vedat tanken, wo die Luft im Winter besonders klar ist und weite Ausblicke ermöglicht. Beenden Sie Ihre Tour rechtzeitig vor Einbruch der Dunkelheit an der Kirche Sant Lluís Beltrán.",
             "hu": "Élvezze a friss téli szellőt, miközben reggel átteker az Hort de Trénor kertjén. Az útvonal a történelmi központon vezet keresztül, ahol az alacsony nap hosszú árnyékokat vet. Délben gyűjtsön erőt az El Vedat dombra való feltekeréshez, ahol télen különösen tiszta a levegő és messzire ellátni. Fejezze be a túrát időben, még sötétedés előtt a Sant Lluís Beltrán templomnál.",
             "ro": "Bucurați-vă de briza proaspătă de iarnă în timp ce traversați Hort de Trénor dimineața. Traseul vă poartă prin centrul istoric, unde soarele jos aruncă umbre lungi. La prânz, prindeți puteri pentru urcarea spre El Vedat, unde aerul este extrem de clar iarna, oferind panorame vaste. Încheiați tura la timp, înainte de lăsarea întunericului, la biserica Sant Lluís Beltrán.",
-            "en": "Enjoy the fresh winter breeze while cycling through Hort de Trénor in the morning. The route takes you through the historical center, where the low sun casts long shadows. At noon, recharge for the climb to El Vedat, where the air is especially clear in winter, offering vast views. Finish your tour well before dark at the Sant Lluís Beltrán church."
+            "en": "Enjoy the fresh winter breeze while cycling through Hort de Trénor in the morning. The route takes you through the historical center, where the low sun casts long shadows. At noon, recharge for the climb to El Vedat, where the air is especially clear in winter, offering vast views. Finish your tour well before dark at the Sant Lluís Beltrán church.",
+            "es": "Disfruta de la fresca brisa invernal mientras pedaleas por Hort de Trénor por la mañana. La ruta te lleva por el centro histórico, donde el sol bajo proyecta sombras largas. Al mediodía, recarga fuerzas para la subida a El Vedat, donde el aire está especialmente claro en invierno, ofreciendo vistas amplias. Termina la ruta mucho antes de que oscurezca en la iglesia de Sant Lluís Beltrán."
           },
           "stops": [
             {
@@ -914,7 +990,8 @@
                 "de": "Die kühle Morgenluft ist perfekt für einen aktiven Start.",
                 "hu": "A hűvös reggeli levegő tökéletes az aktív kezdéshez.",
                 "ro": "Aerul răcoros de dimineață este perfect pentru un start activ.",
-                "en": "The cool morning air is perfect for an active start."
+                "en": "The cool morning air is perfect for an active start.",
+                "es": "El aire fresco de la mañana es perfecto para comenzar con actividad."
               }
             },
             {
@@ -923,7 +1000,8 @@
                 "de": "Sonniger Platz vor der Kirche zum Aufwärmen.",
                 "hu": "Napsütötte tér a templom előtt a bemelegedéshez.",
                 "ro": "Piață însorită în fața bisericii pentru încălzire.",
-                "en": "Sunny square in front of the church to warm up."
+                "en": "Sunny square in front of the church to warm up.",
+                "es": "Plaza soleada frente a la iglesia para calentarse."
               }
             },
             {
@@ -932,7 +1010,8 @@
                 "de": "Das Mauerwerk speichert etwas Wärme der Wintersonne.",
                 "hu": "A falak tárolják a téli nap melegének egy részét.",
                 "ro": "Zidăria reține puțin din căldura soarelui de iarnă.",
-                "en": "The stonework retains some warmth from the winter sun."
+                "en": "The stonework retains some warmth from the winter sun.",
+                "es": "La piedra conserva algo de calor del sol invernal."
               }
             },
             {
@@ -941,7 +1020,8 @@
                 "de": "Ein heißer Tee oder Kakao bringt die Energie zurück.",
                 "hu": "Egy forró tea vagy kakaó visszahozza az energiát.",
                 "ro": "Un ceai fierbinte sau o cacao vă va reda energia.",
-                "en": "A hot tea or cocoa will restore your energy."
+                "en": "A hot tea or cocoa will restore your energy.",
+                "es": "Un té o cacao caliente te recuperará la energía."
               }
             },
             {
@@ -950,7 +1030,8 @@
                 "de": "Beste Sichtweiten des Jahres bei klarem Winterhimmel.",
                 "hu": "Az év legjobb látási viszonyai tiszta téli égbolt mellett.",
                 "ro": "Cea mai bună vizibilitate din an sub cerul senin de iarnă.",
-                "en": "Best visibility of the year under clear winter skies."
+                "en": "Best visibility of the year under clear winter skies.",
+                "es": "La mejor visibilidad del año bajo cielos claros de invierno."
               }
             },
             {
@@ -959,7 +1040,8 @@
                 "de": "Planen Sie die Ankunft hier für 17:15 Uhr ein.",
                 "hu": "Tervezze az érkezést 17:15-re.",
                 "ro": "Planificați sosirea aici pentru ora 17:15.",
-                "en": "Plan to arrive here by 17:15."
+                "en": "Plan to arrive here by 17:15.",
+                "es": "Planea llegar aquí antes de las 17:15."
               }
             }
           ],
@@ -987,6 +1069,12 @@
               "Humidity is often lower in winter, stay hydrated.",
               "A headlamp is advisable if the tour runs late.",
               "Warm socks protect against the cold from the pedals."
+            ],
+            "es": [
+              "Lleva guantes; la sensación térmica puede entumecer pronto los dedos.",
+              "La humedad suele ser menor en invierno; mantente hidratado.",
+              "Se aconseja llevar una linterna frontal si la ruta se alarga.",
+              "Calcetines cálidos protegen del frío que transmite el pedalear."
             ]
           }
         }
@@ -1005,7 +1093,8 @@
             "de": "Parken und Erkunden von El Vedat",
             "hu": "Parkolás és El Vedat felfedezése",
             "ro": "Parcați și explorați El Vedat",
-            "en": "Park and explore El Vedat"
+            "en": "Park and explore El Vedat",
+            "es": "Aparca y explora El Vedat"
           },
           "coords": [
             -0.49,
@@ -1021,7 +1110,8 @@
             "de": "Beginnen Sie mit einem Naturspaziergang. Parken Sie in der Nähe eines Wanderwegs.",
             "hu": "Kezdje egy természetjáró sétával. Parkoljon egy turistaút közelében.",
             "ro": "Începeți cu o plimbare în natură. Parcați lângă un traseu de drumeție.",
-            "en": "Start with a nature walk. Park near a hiking trail."
+            "en": "Start with a nature walk. Park near a hiking trail.",
+            "es": "Comienza con una caminata por la naturaleza. Aparca cerca de un sendero."
           }
         },
         {
@@ -1029,7 +1119,8 @@
             "de": "Eremitage San Vicente Ferrer",
             "hu": "San Vicente Ferrer remetelak",
             "ro": "Schitul San Vicente Ferrer",
-            "en": "Hermitage of San Vicente Ferrer"
+            "en": "Hermitage of San Vicente Ferrer",
+            "es": "Ermita de San Vicente Ferrer"
           },
           "coords": [
             -0.485,
@@ -1045,7 +1136,8 @@
             "de": "Ein kurzer Spaziergang vom Parkplatz zum ruhigen Heiligtum.",
             "hu": "Rövid séta a parkolótól a csendes szentélyig.",
             "ro": "O scurtă plimbare de la parcare la sanctuarul liniștit.",
-            "en": "A short walk from your parking spot to the quiet sanctuary."
+            "en": "A short walk from your parking spot to the quiet sanctuary.",
+            "es": "Una breve caminata desde tu aparcamiento hasta el santuario tranquilo."
           }
         },
         {
@@ -1053,7 +1145,8 @@
             "de": "Fahrt zum historischen Zentrum & Parken",
             "hu": "Utazás a történelmi központba és parkolás",
             "ro": "Conduceți spre centrul istoric și parcați",
-            "en": "Drive to historic center & Park"
+            "en": "Drive to historic center & Park",
+            "es": "Conduce hasta el centro histórico y aparca"
           },
           "coords": [
             -0.468,
@@ -1069,7 +1162,8 @@
             "de": "Finden Sie einen öffentlichen Parkplatz; das Zentrum ist zu Fuß erreichbar.",
             "hu": "Keressen egy nyilvános parkolót; a központ gyalogosan is elérhető.",
             "ro": "Găsiți o parcare publică; centrul este accesibil pe jos.",
-            "en": "Find a public parking garage; the center is walkable."
+            "en": "Find a public parking garage; the center is walkable.",
+            "es": "Encuentra un aparcamiento público; el centro es para recorrer a pie."
           }
         },
         {
@@ -1077,7 +1171,8 @@
             "de": "Turm von Torrent",
             "hu": "Torrenti torony",
             "ro": "Turnul din Torrent",
-            "en": "Tower of Torrent"
+            "en": "Tower of Torrent",
+            "es": "Torre de Torrent"
           },
           "coords": [
             -0.4665,
@@ -1093,7 +1188,8 @@
             "de": "Vom Parkplatz aus ist es nur ein kurzer Spaziergang zu diesem Wahrzeichen.",
             "hu": "A parkolótól csak egy rövid séta ez a nevezetesség.",
             "ro": "Este la o scurtă plimbare de parcare până la acest punct de reper.",
-            "en": "It's a short walk from the parking garage to this landmark."
+            "en": "It's a short walk from the parking garage to this landmark.",
+            "es": "Hay un corto paseo desde el aparcamiento hasta este monumento."
           }
         },
         {
@@ -1101,7 +1197,8 @@
             "de": "Kirche Mariä Himmelfahrt & Mittagessen",
             "hu": "Nagyboldogasszony-templom és ebéd",
             "ro": "Biserica Adormirea Maicii Domnului și prânzul",
-            "en": "Church of the Assumption & Lunch"
+            "en": "Church of the Assumption & Lunch",
+            "es": "Iglesia de la Asunción y almuerzo"
           },
           "coords": [
             -0.465,
@@ -1117,7 +1214,8 @@
             "de": "Besichtigen Sie die Kirche und finden Sie dann ein Restaurant in der Nähe zum Mittagessen.",
             "hu": "Nézze meg a templomot, majd keressen egy közeli éttermet ebédre.",
             "ro": "Vizitați biserica și apoi găsiți un restaurant în apropiere pentru prânz.",
-            "en": "Visit the church and then find a nearby restaurant for lunch."
+            "en": "Visit the church and then find a nearby restaurant for lunch.",
+            "es": "Visita la iglesia y luego busca un restaurante cercano para almorzar."
           }
         },
         {
@@ -1125,7 +1223,8 @@
             "de": "Ethnologisches Museum",
             "hu": "Néprajzi Múzeum",
             "ro": "Muzeul Etnologic",
-            "en": "Ethnological Museum"
+            "en": "Ethnological Museum",
+            "es": "Museo Etnológico"
           },
           "coords": [
             -0.467,
@@ -1141,7 +1240,8 @@
             "de": "Der letzte Halt in diesem Rundgang, bevor es zurück zum Auto geht.",
             "hu": "Az utolsó megálló ezen a sétaúton, mielőtt visszatérne az autóhoz.",
             "ro": "Ultima oprire în acest tur pietonal înainte de a vă întoarce la mașină.",
-            "en": "The last stop on this walking cluster before heading back to the car."
+            "en": "The last stop on this walking cluster before heading back to the car.",
+            "es": "La última parada de este recorrido a pie antes de volver al coche."
           }
         },
         {
@@ -1149,7 +1249,8 @@
             "de": "Hort de Trénor und Chalet",
             "hu": "Hort de Trénor és a villa",
             "ro": "Hort de Trénor și cabana",
-            "en": "Hort de Trénor and Chalet"
+            "en": "Hort de Trénor and Chalet",
+            "es": "Hort de Trénor y Chalet"
           },
           "coords": [
             -0.458,
@@ -1165,7 +1266,8 @@
             "de": "Fahren Sie zum Garten für einen entspannten Ausklang des Tages. Suchen Sie nach einem Parkplatz in der Nähe.",
             "hu": "Vezessen el a kertbe egy pihentető nap lezárásaként. Keressen parkolót a közelben.",
             "ro": "Conduceți spre grădină pentru un final de zi relaxant. Căutați parcare în apropiere.",
-            "en": "Drive to the garden for a relaxing end to the day. Look for nearby parking."
+            "en": "Drive to the garden for a relaxing end to the day. Look for nearby parking.",
+            "es": "Conduce hasta el jardín para terminar el día relajándote. Busca aparcamiento cercano."
           }
         }
       ],
@@ -1173,7 +1275,8 @@
         "de": "Beginnen Sie Ihren Tag mit dem Auto im ruhigen El Vedat für einen Morgenspaziergang. Fahren Sie dann ins Zentrum von Torrent, parken Sie Ihr Auto und erkunden Sie den historischen Kern zu Fuß: den Turm, die Kirche und das Museum. Nach dem Mittagessen fahren Sie zu Ihrem letzten Ziel, den schönen Gärten von Hort de Trénor, um sich vor der Heimfahrt zu entspannen.",
         "hu": "Kezdje a napot autóval a csendes El Vedatban egy reggeli sétával. Ezután vezessen Torrent központjába, parkolja le az autót, és fedezze fel gyalog a történelmi magot: a tornyot, a templomot és a múzeumot. Ebéd után vezessen az utolsó állomáshoz, a gyönyörű Hort de Trénor kertekhez, hogy pihenjen a hazaút előtt.",
         "ro": "Începeți ziua cu mașina în liniștitul El Vedat pentru o plimbare de dimineață. Apoi, conduceți spre centrul orașului Torrent, parcați mașina și explorați nucleul istoric pe jos: turnul, biserica și muzeul. După prânz, conduceți spre destinația finală, frumoasele grădini Hort de Trénor, pentru a vă relaxa înainte de a pleca acasă.",
-        "en": "Start your day by car in the tranquil El Vedat for a morning walk. Then, drive to the center of Torrent, park your car, and explore the historic core on foot: the tower, the church, and the museum. After lunch, drive to your final destination, the beautiful Hort de Trénor gardens, to relax before heading home."
+        "en": "Start your day by car in the tranquil El Vedat for a morning walk. Then, drive to the center of Torrent, park your car, and explore the historic core on foot: the tower, the church, and the museum. After lunch, drive to your final destination, the beautiful Hort de Trénor gardens, to relax before heading home.",
+        "es": "Empieza el día en coche en el tranquilo El Vedat para un paseo matutino. Después, conduce al centro de Torrent, aparca y explora a pie el núcleo histórico: la torre, la iglesia y el museo. Tras el almuerzo, conduce hasta tu destino final, los bellos jardines Hort de Trénor, para relajarte antes de volver a casa."
       },
       "gastro_picks": {
         "de": [
@@ -1329,6 +1432,11 @@
           "Parking can be difficult in the center; underground garages are your best bet.",
           "Be aware of one-way streets in the old town.",
           "Plan your route in advance to avoid traffic."
+        ],
+        "es": [
+          "Aparcar puede ser difícil en el centro; los parkings subterráneos son tu mejor opción.",
+          "Ten en cuenta las calles de sentido único en el casco antiguo.",
+          "Planifica tu ruta con antelación para evitar el tráfico."
         ]
       },
       "variants": {
@@ -1337,7 +1445,8 @@
             "de": "Mit dem Auto erkunden Sie Torrent auch bei Regen komfortabel. Starten Sie in der Sierra Perenchiza, wo der Wald im Nebel mystisch wirkt. Besuchen Sie anschließend die historischen Kirchen und den Turm, während Sie zwischen den Stopps im Trockenen sitzen. Das Museu de l'Horta bietet ein langes Indoor-Programm für den Nachmittag. Den Tag schließen Sie mit einer kurzen Fahrt zum Hort de Trénor ab, den Sie bequem vom Parkplatz aus erreichen.",
             "hu": "Autóval esőben is kényelmesen felfedezheti Torrentet. Kezdjen a Sierra Perenchizánál, ahol az erdő ködben misztikus látványt nyújt. Látogassa meg a történelmi templomokat és a toronyt, miközben a megállók között szárazon marad. A Museu de l'Horta hosszú fedett programot kínál délutánra. A napot egy rövid autózással zárja az Hort de Trénorhoz, amely a parkolóból könnyen elérhető.",
             "ro": "Cu mașina, puteți explora Torrent confortabil chiar și pe ploaie. Începeți la Sierra Perenchiza, unde pădurea pare mistică în ceață. Vizitați bisericile istorice și turnul, rămânând la uscat între opriri. Museu de l'Horta oferă un program interior lung pentru după-amiază. Încheiați ziua cu o scurtă cursă spre Hort de Trénor, ușor accesibil din parcare.",
-            "en": "By car, you can explore Torrent comfortably even in the rain. Start at Sierra Perenchiza, where the forest looks mystical in the mist. Visit the historical churches and the tower, staying dry between stops. Museu de l'Horta offers a long indoor program for the afternoon. End the day with a short drive to Hort de Trénor, easily accessible from the parking lot."
+            "en": "By car, you can explore Torrent comfortably even in the rain. Start at Sierra Perenchiza, where the forest looks mystical in the mist. Visit the historical churches and the tower, staying dry between stops. Museu de l'Horta offers a long indoor program for the afternoon. End the day with a short drive to Hort de Trénor, easily accessible from the parking lot.",
+            "es": "En coche puedes recorrer Torrent cómodamente incluso con lluvia. Empieza en Sierra Perenchiza, donde el bosque parece místico con la niebla. Visita las iglesias históricas y la torre, manteniéndote seco entre paradas. El Museu de l'Horta ofrece una larga propuesta en interiores para la tarde. Termina el día con un corto trayecto hasta Hort de Trénor, de fácil acceso desde el aparcamiento."
           },
           "stops": [
             {
@@ -1346,7 +1455,8 @@
                 "de": "Genießen Sie den Blick auf die regenverhangene Ebene vom Auto aus.",
                 "hu": "Élvezze az eső áztatta síkság látványát az autóból.",
                 "ro": "Bucurați-vă de vederea câmpiei cu ceață direct din mașină.",
-                "en": "Enjoy the view of the rain-shrouded plain from the car."
+                "en": "Enjoy the view of the rain-shrouded plain from the car.",
+                "es": "Disfruta de la vista de la llanura envuelta en lluvia desde el coche."
               }
             },
             {
@@ -1355,7 +1465,8 @@
                 "de": "Suchen Sie einen Parkplatz nah am Eingang.",
                 "hu": "Keressen parkolót közel a bejárathoz.",
                 "ro": "Căutați un loc de parcare aproape de intrare.",
-                "en": "Look for a parking spot close to the entrance."
+                "en": "Look for a parking spot close to the entrance.",
+                "es": "Busca una plaza de aparcamiento cerca de la entrada."
               }
             },
             {
@@ -1364,7 +1475,8 @@
                 "de": "Idealer Moment für eine kurze Kaffeepause im Auto.",
                 "hu": "Ideális pillanat egy rövid kávészünetre az autóban.",
                 "ro": "Moment ideal pentru o scurtă pauză de cafea în mașină.",
-                "en": "Ideal moment for a short coffee break in the car."
+                "en": "Ideal moment for a short coffee break in the car.",
+                "es": "Momento ideal para una breve pausa para un café dentro del coche."
               }
             },
             {
@@ -1373,7 +1485,8 @@
                 "de": "Parken Sie in der nahegelegenen Tiefgarage.",
                 "hu": "Parkoljon a közeli mélygarázsban.",
                 "ro": "Parcați în parcarea subterană din apropiere.",
-                "en": "Park in the nearby underground parking lot."
+                "en": "Park in the nearby underground parking lot.",
+                "es": "Aparca en el parking subterráneo cercano."
               }
             },
             {
@@ -1382,7 +1495,8 @@
                 "de": "Ein schneller Sprint vom Auto zur Kirche spart den Schirm.",
                 "hu": "Egy gyors sprint az autótól a templomig megspórolja az ernyőt.",
                 "ro": "Un sprint rapid de la mașină la biserică vă scutește de umbrelă.",
-                "en": "A quick sprint from the car to the church saves the umbrella."
+                "en": "A quick sprint from the car to the church saves the umbrella.",
+                "es": "Una carrera rápida desde el coche hasta la iglesia te ahorra usar el paraguas."
               }
             },
             {
@@ -1391,7 +1505,8 @@
                 "de": "Perfekt, um das Auto während des Regens länger stehen zu lassen.",
                 "hu": "Tökéletes hely az autó hosszabb leállítására az esőben.",
                 "ro": "Perfect pentru a lăsa mașina mai mult timp în timp ce plouă.",
-                "en": "Perfect for leaving the car parked for longer during the rain."
+                "en": "Perfect for leaving the car parked for longer during the rain.",
+                "es": "Perfecto para dejar el coche aparcado más tiempo durante la lluvia."
               }
             },
             {
@@ -1400,7 +1515,8 @@
                 "de": "Der Parkplatz ist direkt am Eingang, ideal bei Schauern.",
                 "hu": "A parkoló közvetlenül a bejáratnál van, ideális záporokkor.",
                 "ro": "Parcarea este chiar la intrare, ideală în caz de averse.",
-                "en": "The parking lot is right at the entrance, ideal during showers."
+                "en": "The parking lot is right at the entrance, ideal during showers.",
+                "es": "El aparcamiento está justo en la entrada, ideal durante los chaparrones."
               }
             }
           ],
@@ -1428,6 +1544,12 @@
               "Central underground car parks keep the car dry and safe.",
               "Windows can fog up quickly, use the air conditioning.",
               "Always keep an emergency umbrella in the trunk."
+            ],
+            "es": [
+              "Cuidado con el aquaplaning en las vías de acceso principales.",
+              "Los parkings subterráneos del centro mantienen el coche seco y seguro.",
+              "Las lunetas pueden empañarse rápido; usa el aire acondicionado.",
+              "Lleva siempre un paraguas de emergencia en el maletero."
             ]
           }
         },
@@ -1436,7 +1558,8 @@
             "de": "Eine winterliche Spritztour beginnt mit der Auffahrt zum El Vedat, um das Panorama im klaren Licht zu genießen. Das Auto ermöglicht es Ihnen, flexibel zwischen den historischen Sehenswürdigkeiten im Zentrum zu wechseln. Mittags genießen Sie die lokale Küche und nutzen den Nachmittag für das Museu de l'Horta. Beenden Sie Ihre Erkundung am Hort de Trénor, wo Sie den Sonnenuntergang bequem erleben können, bevor Sie die Heizung im Auto wieder aufdrehen.",
             "hu": "Egy téli autós kirándulás az El Vedat dombra való felhajtással kezdődik, hogy megcsodálja a panorámát a tiszta fényben. Az autó lehetővé teszi a rugalmas váltást a központi történelmi látnivalók között. Délben élvezze a helyi konyhát, a délutánt pedig szánja a Museu de l'Horta látogatására. Zárja a felfedezést az Hort de Trénornál, ahol kényelmesen nézheti meg a naplementét, mielőtt visszakapcsolná a fűtést.",
             "ro": "O plimbare de iarnă începe cu urcarea pe El Vedat pentru a admira panorama în lumina clară. Mașina vă permite să schimbați flexibil obiectivele istorice din centru. La prânz, savurați bucătăria locală și rezervați după-amiaza pentru Museu de l'Horta. Încheiați explorarea la Hort de Trénor, unde puteți vedea apusul confortabil înainte de a porni iar căldura în mașină.",
-            "en": "A winter drive begins with the ascent to El Vedat to admire the panorama in the clear light. The car allows you to flexibly switch between historical sites in the center. At noon, enjoy local cuisine and dedicate the afternoon to Museu de l'Horta. End your exploration at Hort de Trénor, where you can comfortably watch the sunset before turning the heat back up."
+            "en": "A winter drive begins with the ascent to El Vedat to admire the panorama in the clear light. The car allows you to flexibly switch between historical sites in the center. At noon, enjoy local cuisine and dedicate the afternoon to Museu de l'Horta. End your exploration at Hort de Trénor, where you can comfortably watch the sunset before turning the heat back up.",
+            "es": "Una ruta invernal empieza subiendo a El Vedat para admirar el panorama con luz clara. El coche permite cambiar con flexibilidad entre los sitios históricos del centro. A mediodía, disfruta de la cocina local y dedica la tarde al Museu de l'Horta. Termina tu recorrido en Hort de Trénor, donde puedes ver cómodamente la puesta de sol antes de volver a subir la calefacción."
           },
           "stops": [
             {
@@ -1445,7 +1568,8 @@
                 "de": "Die Fernsicht reicht im Winter oft bis zum Meer.",
                 "hu": "A távoli kilátás télen gyakran a tengerig ér.",
                 "ro": "Vizibilitatea ajunge iarna adesea până la mare.",
-                "en": "The distant view often reaches the sea in winter."
+                "en": "The distant view often reaches the sea in winter.",
+                "es": "La vista lejana suele llegar al mar en invierno."
               }
             },
             {
@@ -1454,7 +1578,8 @@
                 "de": "Das Auto bleibt in der Wintersonne angenehm warm.",
                 "hu": "Az autó a téli napsütésben kellemesen meleg marad.",
                 "ro": "Mașina rămâne plăcut de caldă sub soarele de iarnă.",
-                "en": "The car stays pleasantly warm in the winter sun."
+                "en": "The car stays pleasantly warm in the winter sun.",
+                "es": "El coche se mantiene agradablemente cálido bajo el sol invernal."
               }
             },
             {
@@ -1463,7 +1588,8 @@
                 "de": "Prüfen Sie kurz die Verkehrsinfo für die Rückfahrt.",
                 "hu": "Ellenőrizze röviden a forgalmi híreket a visszaúthoz.",
                 "ro": "Verificați rapid informațiile de trafic pentru retur.",
-                "en": "Briefly check traffic info for the return trip."
+                "en": "Briefly check traffic info for the return trip.",
+                "es": "Consulta brevemente la información de tráfico para el regreso."
               }
             },
             {
@@ -1472,7 +1598,8 @@
                 "de": "Die tiefstehende Sonne betont die Textur der Turmmauern.",
                 "hu": "Az alacsonyan járó nap kiemeli a torony falainak textúráját.",
                 "ro": "Soarele jos scoate în evidență textura zidurilor turnului.",
-                "en": "The low sun emphasizes the texture of the tower walls."
+                "en": "The low sun emphasizes the texture of the tower walls.",
+                "es": "El sol bajo realza la textura de los muros de la torre."
               }
             },
             {
@@ -1481,7 +1608,8 @@
                 "de": "Besuchen Sie die Kirche für einen Moment der Stille.",
                 "hu": "Látogassa meg a templomot egy pillanatnyi csendért.",
                 "ro": "Vizitați biserica pentru un moment de liniște.",
-                "en": "Visit the church for a moment of silence."
+                "en": "Visit the church for a moment of silence.",
+                "es": "Visita la iglesia para un momento de silencio."
               }
             },
             {
@@ -1490,7 +1618,8 @@
                 "de": "Ein guter Stopp, wenn es draußen schattig wird.",
                 "hu": "Jó megálló, amikor odakint árnyékosabbá válik az idő.",
                 "ro": "O oprire bună când afară devine umbros.",
-                "en": "A good stop when it gets shady outside."
+                "en": "A good stop when it gets shady outside.",
+                "es": "Buena parada cuando la sombra se hace intensa en el exterior."
               }
             },
             {
@@ -1499,7 +1628,8 @@
                 "de": "Goldene Stunde gegen 17:00 Uhr perfekt für Fotos.",
                 "hu": "Az aranyóra 17:00 körül tökéletes a fotózáshoz.",
                 "ro": "Ora de aur în jur de 17:00 este perfectă pentru fotografii.",
-                "en": "Golden hour around 17:00 is perfect for photos."
+                "en": "Golden hour around 17:00 is perfect for photos.",
+                "es": "La hora dorada sobre las 17:00 es perfecta para fotos."
               }
             }
           ],
@@ -1527,6 +1657,12 @@
               "The winter sun is low, sunglasses are important for driving.",
               "Avoid parking under trees if frost is expected.",
               "Plan the return trip before 18:00 to start while it's light."
+            ],
+            "es": [
+              "Revisa la presión de los neumáticos, baja ligeramente con el frío.",
+              "El sol invernal está bajo; las gafas de sol son importantes al conducir.",
+              "Evita aparcar bajo los árboles si se esperan heladas.",
+              "Planifica el regreso antes de las 18:00 para salir todavía con luz."
             ]
           }
         }
@@ -1545,7 +1681,8 @@
             "de": "Ankunft im Zentrum (Bus/Metro)",
             "hu": "Érkezés a központba (busz/metró)",
             "ro": "Sosire în centru (autobuz/metrou)",
-            "en": "Arrive in Center (Bus/Metro)"
+            "en": "Arrive in Center (Bus/Metro)",
+            "es": "Llegar al centro (Bus/Metro)"
           },
           "coords": [
             -0.466,
@@ -1561,7 +1698,8 @@
             "de": "Kaufen Sie eine Tageskarte für unbegrenzte Fahrten.",
             "hu": "Vásároljon napijegyet a korlátlan utazáshoz.",
             "ro": "Cumpărați un abonament de o zi pentru călătorii nelimitate.",
-            "en": "Buy a day pass for unlimited travel."
+            "en": "Buy a day pass for unlimited travel.",
+            "es": "Compra un billete de día para viajar sin límite."
           }
         },
         {
@@ -1569,7 +1707,8 @@
             "de": "Kirche Mariä Himmelfahrt",
             "hu": "Nagyboldogasszony-templom",
             "ro": "Biserica Adormirea Maicii Domnului",
-            "en": "Church of the Assumption of Our Lady"
+            "en": "Church of the Assumption of Our Lady",
+            "es": "Iglesia de la Asunción de Nuestra Señora"
           },
           "coords": [
             -0.465,
@@ -1585,7 +1724,8 @@
             "de": "Nur einen kurzen Spaziergang von der Haltestelle entfernt.",
             "hu": "Csak egy rövid séta a megállótól.",
             "ro": "La o scurtă plimbare de stație.",
-            "en": "Just a short walk from the stop."
+            "en": "Just a short walk from the stop.",
+            "es": "A solo un corto paseo desde la parada."
           }
         },
         {
@@ -1593,7 +1733,8 @@
             "de": "Turm von Torrent",
             "hu": "Torrenti torony",
             "ro": "Turnul din Torrent",
-            "en": "Tower of Torrent"
+            "en": "Tower of Torrent",
+            "es": "Torre de Torrent"
           },
           "coords": [
             -0.4665,
@@ -1609,7 +1750,8 @@
             "de": "Folgen Sie den Schildern durch die engen Gassen.",
             "hu": "Kövesse a táblákat a szűk utcákon.",
             "ro": "Urmați indicatoarele pe străzile înguste.",
-            "en": "Follow the signs through the narrow streets."
+            "en": "Follow the signs through the narrow streets.",
+            "es": "Sigue las indicaciones por las calles estrechas."
           }
         },
         {
@@ -1617,7 +1759,8 @@
             "de": "Ethnologisches Museum und Mittagessen",
             "hu": "Néprajzi Múzeum és ebéd",
             "ro": "Muzeul Etnologic și prânzul",
-            "en": "Ethnological Museum and Lunch"
+            "en": "Ethnological Museum and Lunch",
+            "es": "Museo Etnológico y almuerzo"
           },
           "coords": [
             -0.467,
@@ -1633,7 +1776,8 @@
             "de": "Kombinieren Sie den Museumsbesuch mit einem Mittagessen in einem nahegelegenen Restaurant.",
             "hu": "Kombinálja a múzeumlátogatást egy ebéddel egy közeli étteremben.",
             "ro": "Combinați vizita la muzeu cu prânzul la un restaurant din apropiere.",
-            "en": "Combine the museum visit with lunch at a nearby restaurant."
+            "en": "Combine the museum visit with lunch at a nearby restaurant.",
+            "es": "Combina la visita al museo con el almuerzo en un restaurante cercano."
           }
         },
         {
@@ -1641,7 +1785,8 @@
             "de": "Fahrt zum Hort de Trénor",
             "hu": "Utazás a Hort de Trénorhoz",
             "ro": "Călătorie spre Hort de Trénor",
-            "en": "Trip to Hort de Trénor"
+            "en": "Trip to Hort de Trénor",
+            "es": "Excursión a Hort de Trénor"
           },
           "coords": [
             -0.458,
@@ -1657,7 +1802,8 @@
             "de": "Nehmen Sie einen Bus, der in der Nähe des Gartens hält, für einen entspannten Nachmittag.",
             "hu": "Vegyen egy buszt, amely a kert közelében áll meg egy pihentető délutánhoz.",
             "ro": "Luați un autobuz care oprește lângă grădină pentru o după-amiază relaxantă.",
-            "en": "Take a bus that stops near the garden for a relaxing afternoon."
+            "en": "Take a bus that stops near the garden for a relaxing afternoon.",
+            "es": "Toma un autobús que pare cerca del jardín para una tarde relajante."
           }
         },
         {
@@ -1665,7 +1811,8 @@
             "de": "Chalet de Trénor",
             "hu": "Chalet de Trénor",
             "ro": "Cabana de Trénor",
-            "en": "Chalet de Trénor"
+            "en": "Chalet de Trénor",
+            "es": "Chalet de Trénor"
           },
           "coords": [
             -0.457,
@@ -1681,7 +1828,8 @@
             "de": "Ein kurzer Spaziergang innerhalb des Gartens, um dieses historische Gebäude zu sehen.",
             "hu": "Rövid séta a kerten belül, hogy megnézze ezt a történelmi épületet.",
             "ro": "O scurtă plimbare în interiorul grădinii pentru a vedea această clădire istorică.",
-            "en": "A short walk within the garden to see this historic building."
+            "en": "A short walk within the garden to see this historic building.",
+            "es": "Un corto paseo dentro del jardín para ver este edificio histórico."
           }
         }
       ],
@@ -1689,7 +1837,8 @@
         "de": "Nutzen Sie die öffentlichen Verkehrsmittel, um direkt ins Herz von Torrent zu gelangen. Verbringen Sie den Vormittag damit, das historische Zentrum zu Fuß zu erkunden, einschließlich der Kirche, des Turms und des Museums. Nach dem Mittagessen bringt Sie ein kurzer Bus Sie zu den ruhigen Gärten von Hort de Trénor, wo Sie einen entspannten Nachmittag verbringen, bevor Sie Ihre Rückreise antreten.",
         "hu": "Használja a tömegközlekedést, hogy közvetlenül Torrent szívébe jusson. Töltse a délelőttöt a történelmi központ gyalogos felfedezésével, beleértve a templomot, a tornyot és a múzeumot. Ebéd után egy rövid buszozás elviszi a csendes Hort de Trénor kertekhez, ahol egy pihentető délutánt tölthet, mielőtt visszaindulna.",
         "ro": "Folosiți transportul public pentru a ajunge direct în inima orașului Torrent. Petreceți dimineața explorând centrul istoric pe jos, inclusiv biserica, turnul și muzeul. După prânz, o scurtă călătorie cu autobuzul vă va duce la grădinile liniștite Hort de Trénor pentru o după-amiază relaxantă înainte de a vă întoarce.",
-        "en": "Use public transport to get directly to the heart of Torrent. Spend the morning exploring the historic center on foot, including the church, tower, and museum. After lunch, a short bus ride will take you to the peaceful Hort de Trénor gardens for a relaxing afternoon before you head back."
+        "en": "Use public transport to get directly to the heart of Torrent. Spend the morning exploring the historic center on foot, including the church, tower, and museum. After lunch, a short bus ride will take you to the peaceful Hort de Trénor gardens for a relaxing afternoon before you head back.",
+        "es": "Usa el transporte público para llegar directamente al corazón de Torrent. Pasa la mañana explorando el centro histórico a pie, incluyendo la iglesia, la torre y el museo. Tras el almuerzo, un corto viaje en autobús te llevará a los tranquilos jardines Hort de Trénor para una tarde relajante antes de regresar."
       },
       "gastro_picks": {
         "de": [
@@ -1845,6 +1994,11 @@
           "Validate your ticket each time you ride.",
           "The Metrovalencia app is useful for planning routes and checking schedules.",
           "Be mindful of the last departure time to avoid getting stranded."
+        ],
+        "es": [
+          "Valida tu billete cada vez que viajes.",
+          "La app Metrovalencia es útil para planificar rutas y consultar horarios.",
+          "Ten en cuenta la última hora de salida para evitar quedarte tirado."
         ]
       },
       "variants": {
@@ -1853,7 +2007,8 @@
             "de": "Nutzen Sie die Metro Valencia, um Torrent bei Regen trocken zu erreichen. Von der Station ist es nur ein kurzer Weg zu den Kirchen und zum Torre de Torrent, der Sie vor Schauern schützt. Mittags finden Sie in Bahnhofsnähe viele überdachte Gastronomie-Optionen. Den Nachmittag verbringen Sie im Museu de l'Horta, bevor Sie mit dem Bus oder der Metro zum Hort de Trénor fahren. Schließen Sie den Tag mit dem Besuch einer berühmten Residenz ab, bevor Sie die Heimreise im Warmen antreten.",
             "hu": "Használja a valenciai metrót, hogy Torrentet esőben is szárazon érje el. Az állomástól csak rövid séta a templomok és a Torre de Torrent, amely megvédi a záporoktól. Délben az állomás közelében számos fedett étkezési lehetőséget talál. A délutánt töltse a Museu de l'Hortában, majd busszal vagy metróval menjen az Hort de Trénorhoz. Zárja a napot egy híres rezidencia megtekintésével, mielőtt melegben hazautazna.",
             "ro": "Folosiți metroul din Valencia pentru a ajunge la Torrent la uscat. De la stație sunt doar câțiva pași până la biserici și Torre de Torrent, care vă va proteja de ploaie. La prânz, veți găsi multe opțiuni gastronomice acoperite lângă gară. Petreceți după-amiaza la Museu de l'Horta, apoi mergeți cu autobuzul sau metroul spre Hort de Trénor. Încheiați ziua vizitând o reședință faimoasă înainte de drumul de întoarcere.",
-            "en": "Use the Valencia Metro to reach Torrent while staying dry. From the station, it's just a short walk to the churches and Torre de Torrent, which will protect you from showers. At noon, you'll find many covered dining options near the station. Spend the afternoon at Museu de l'Horta, then take a bus or metro to Hort de Trénor. End the day visiting a famous residence before heading home in the warmth."
+            "en": "Use the Valencia Metro to reach Torrent while staying dry. From the station, it's just a short walk to the churches and Torre de Torrent, which will protect you from showers. At noon, you'll find many covered dining options near the station. Spend the afternoon at Museu de l'Horta, then take a bus or metro to Hort de Trénor. End the day visiting a famous residence before heading home in the warmth.",
+            "es": "Usa el Metro de Valencia para llegar a Torrent y mantenerte seco. Desde la estación son solo unos minutos a pie hasta las iglesias y la Torre de Torrent, que te protegerán de los chaparrones. A mediodía encontrarás muchas opciones de restauración cubiertas cerca de la estación. Dedica la tarde al Museu de l'Horta y luego toma un bus o metro hasta Hort de Trénor. Termina el día visitando una residencia famosa antes de volver a casa con calor."
           },
           "stops": [
             {
@@ -1862,7 +2017,8 @@
                 "de": "Die Station ist modern und bietet guten Schutz vor Regen.",
                 "hu": "Az állomás modern és jó védelmet nyújt az eső ellen.",
                 "ro": "Stația este modernă și oferă protecție bună împotriva ploii.",
-                "en": "The station is modern and offers good protection from the rain."
+                "en": "The station is modern and offers good protection from the rain.",
+                "es": "La estación es moderna y ofrece buena protección contra la lluvia."
               }
             },
             {
@@ -1871,7 +2027,8 @@
                 "de": "Nur 5 Minuten Fußweg von der Metro entfernt.",
                 "hu": "Csak 5 perc séta a metrótól.",
                 "ro": "La doar 5 minute de mers pe jos de metrou.",
-                "en": "Only a 5-minute walk from the metro."
+                "en": "Only a 5-minute walk from the metro.",
+                "es": "A solo 5 minutos a pie desde el metro."
               }
             },
             {
@@ -1880,7 +2037,8 @@
                 "de": "Der Turm ist ein massiver Regenschutz im Stadtzentrum.",
                 "hu": "A torony masszív esővédő a városközpontban.",
                 "ro": "Turnul este un adăpost solid în centrul orașului.",
-                "en": "The tower is a solid rain shelter in the city center."
+                "en": "The tower is a solid rain shelter in the city center.",
+                "es": "La torre es un buen refugio contra la lluvia en el centro."
               }
             },
             {
@@ -1889,7 +2047,8 @@
                 "de": "Nutzen Sie den Bus, um direkt vor das Museum zu kommen.",
                 "hu": "Használja a buszt, hogy közvetlenül a múzeum elé érkezzen.",
                 "ro": "Folosiți autobuzul pentru a ajunge direct în fața muzeului.",
-                "en": "Use the bus to arrive directly in front of the museum."
+                "en": "Use the bus to arrive directly in front of the museum.",
+                "es": "Usa el autobús para llegar directamente frente al museo."
               }
             },
             {
@@ -1898,7 +2057,8 @@
                 "de": "Buslinien halten oft nah am Parkeingang.",
                 "hu": "A buszjáratok gyakran a park bejárata közelében állnak meg.",
                 "ro": "Liniile de autobuz opresc adesea aproape de intrarea în parc.",
-                "en": "Bus lines often stop near the park entrance."
+                "en": "Bus lines often stop near the park entrance.",
+                "es": "Las líneas de autobús suelen parar cerca de la entrada del parque."
               }
             },
             {
@@ -1907,7 +2067,8 @@
                 "de": "Ein schöner Abschluss im Trockenen.",
                 "hu": "Szép lezárás száraz helyen.",
                 "ro": "Un final frumos la adăpost.",
-                "en": "A nice conclusion in a dry place."
+                "en": "A nice conclusion in a dry place.",
+                "es": "Un bonito cierre en un lugar seco."
               }
             }
           ],
@@ -1935,6 +2096,12 @@
               "Keep your ticket handy so you don't have to look for it in the rain.",
               "Some bus stops are not covered, an umbrella is a must.",
               "Use the Metrovalencia app for real-time info during rain."
+            ],
+            "es": [
+              "El metro pasa cada 15-20 minutos, ideal para trayectos cortos.",
+              "Ten el billete a mano para no tener que buscarlo bajo la lluvia.",
+              "Algunas paradas de autobús no están cubiertas; el paraguas es imprescindible.",
+              "Usa la app Metrovalencia para información en tiempo real cuando llueva."
             ]
           }
         },
@@ -1943,7 +2110,8 @@
             "de": "Beginnen Sie Ihren Wintertag mit einer entspannten Metrofahrt nach Torrent. Die klare Luft am Morgen ist ideal für den kurzen Spaziergang zu den Kirchen. Mittags laden die Cafés im Zentrum zur Pause ein. Den Nachmittag nutzen Sie für Kultur im Museu de l'Horta, bevor Sie zum Hort de Trénor weiterfahren. Beachten Sie, dass die Busse im Winter evtl. nach einem leicht veränderten Plan fahren und kehren Sie vor Einbruch der Dunkelheit zur Metrostation zurück.",
             "hu": "Kezdje a téli napot egy pihentető metrózással Torrentbe. A tiszta reggeli levegő ideális a templomokhoz vezető rövid sétához. Délben a központi kávézók hívogatnak egy kis pihenőre. A délutánt töltse kulturálódással a Museu de l'Hortában, mielőtt továbbutazna az Hort de Trénorhoz. Vegye figyelembe, hogy a buszok télen esetleg módosított menetrend szerint járnak, és térjen vissza a metróhoz sötétedés előtt.",
             "ro": "Începeți ziua de iarnă cu o călătorie relaxantă cu metroul spre Torrent. Aerul clar de dimineață este ideal pentru scurta plimbare spre biserici. La prânz, cafenelele centrale sunt perfecte pentru o pauză. Rezervați după-amiaza pentru cultură la Museu de l'Horta înainte de a merge spre Hort de Trénor. Rețineți că autobuzele pot avea orar modificat iarna și reveniți la metrou înainte de lăsarea serii.",
-            "en": "Start your winter day with a relaxing metro ride to Torrent. The clear morning air is ideal for the short walk to the churches. At noon, central cafes invite you for a break. Spend the afternoon with culture at Museu de l'Horta before continuing to Hort de Trénor. Note that buses might run on a slightly different schedule in winter, and return to the metro station before dark."
+            "en": "Start your winter day with a relaxing metro ride to Torrent. The clear morning air is ideal for the short walk to the churches. At noon, central cafes invite you for a break. Spend the afternoon with culture at Museu de l'Horta before continuing to Hort de Trénor. Note that buses might run on a slightly different schedule in winter, and return to the metro station before dark.",
+            "es": "Comienza tu día invernal con un relajante viaje en metro hasta Torrent. El aire claro de la mañana es ideal para el corto paseo hasta las iglesias. Al mediodía, las cafeterías centrales invitan a una pausa. Dedica la tarde al Museu de l'Horta antes de continuar hacia Hort de Trénor. Ten en cuenta que los autobuses pueden tener horarios algo distintos en invierno y vuelve a la estación de metro antes de que oscurezca."
           },
           "stops": [
             {
@@ -1952,7 +2120,8 @@
                 "de": "In der Station ist es windgeschützt und wärmer.",
                 "hu": "Az állomáson szélvédett és melegebb az idő.",
                 "ro": "În stație este ferit de vânt și mai cald.",
-                "en": "It's sheltered from the wind and warmer inside the station."
+                "en": "It's sheltered from the wind and warmer inside the station.",
+                "es": "Dentro de la estación estás resguardado del viento y hace más calor."
               }
             },
             {
@@ -1961,7 +2130,8 @@
                 "de": "Ein schöner Spaziergang durch die klare Wintersonne.",
                 "hu": "Szép séta a tiszta téli napsütésben.",
                 "ro": "O plimbare frumoasă prin soarele clar de iarnă.",
-                "en": "A lovely walk through the clear winter sun."
+                "en": "A lovely walk through the clear winter sun.",
+                "es": "Un agradable paseo con el claro sol invernal."
               }
             },
             {
@@ -1970,7 +2140,8 @@
                 "de": "Der Platz vor dem Turm ist oft sonnig und hell.",
                 "hu": "A torony előtti tér gyakran napsütötte és világos.",
                 "ro": "Piața din fața turnului este adesea însorită și luminoasă.",
-                "en": "The square in front of the tower is often sunny and bright."
+                "en": "The square in front of the tower is often sunny and bright.",
+                "es": "La plaza frente a la torre suele estar soleada y luminosa."
               }
             },
             {
@@ -1979,7 +2150,8 @@
                 "de": "Perfekt temperierte Räume für den Winternachmittag.",
                 "hu": "Tökéletesen temperált termek a téli délutánra.",
                 "ro": "Săli cu temperatură perfectă pentru după-amiaza de iarnă.",
-                "en": "Perfectly tempered rooms for the winter afternoon."
+                "en": "Perfectly tempered rooms for the winter afternoon.",
+                "es": "Salas perfectamente climatizadas para la tarde invernal."
               }
             },
             {
@@ -1988,7 +2160,8 @@
                 "de": "Besuchen Sie den Park vor 16:30 Uhr für das beste Licht.",
                 "hu": "Látogassa meg a parkot 16:30 előtt a legjobb fényekért.",
                 "ro": "Vizitați parcul înainte de 16:30 pentru cea mai bună lumină.",
-                "en": "Visit the park before 16:30 for the best light."
+                "en": "Visit the park before 16:30 for the best light.",
+                "es": "Visita el parque antes de las 16:30 para la mejor luz."
               }
             },
             {
@@ -1997,7 +2170,8 @@
                 "de": "Beachten Sie die kürzeren Öffnungszeiten im Winter.",
                 "hu": "Ügyeljen a téli rövidebb nyitvatartásra.",
                 "ro": "Atenție la programul mai scurt de iarnă.",
-                "en": "Note the shorter opening hours in winter."
+                "en": "Note the shorter opening hours in winter.",
+                "es": "Ten en cuenta los horarios de apertura reducidos en invierno."
               }
             }
           ],
@@ -2025,6 +2199,12 @@
               "Twilight starts early, plan your return for 17:30.",
               "Wait inside the metro stations where it's not drafty.",
               "Buy a 10-trip ticket for more flexibility."
+            ],
+            "es": [
+              "El metro suele estar caliente; viste prendas que puedas desabrochar fácilmente.",
+              "El crepúsculo empieza pronto; planifica tu regreso para las 17:30.",
+              "Espera dentro de las estaciones de metro donde no haya corrientes de aire.",
+              "Compra un bono de 10 viajes para mayor flexibilidad."
             ]
           }
         }

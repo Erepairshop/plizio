@@ -31,7 +31,8 @@
             "de": "Perfekt für einen morgendlichen Kaffee.",
             "hu": "Tökéletes hely egy reggeli kávéhoz.",
             "ro": "Perfect pentru o cafea de dimineață.",
-            "en": "Perfect for a morning coffee."
+            "en": "Perfect for a morning coffee.",
+            "es": "Perfecto para un café matutino."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Bewundern Sie die barocke Fassade.",
             "hu": "Csodálja meg a barokk homlokzatot.",
             "ro": "Admirați fațada în stil baroc.",
-            "en": "Admire the stunning baroque facade."
+            "en": "Admire the stunning baroque facade.",
+            "es": "Admira la impresionante fachada barroca."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Spannende Einblicke in die baskische Kultur.",
             "hu": "Izgalmas betekintés a baszk kultúrába.",
             "ro": "Informații captivante despre cultura bască.",
-            "en": "Fascinating insights into Basque culture."
+            "en": "Fascinating insights into Basque culture.",
+            "es": "Perspectivas fascinantes sobre la cultura vasca."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Das größte religiöse Gebäude der Stadt.",
             "hu": "A város legnagyobb vallási épülete.",
             "ro": "Cea mai mare clădire religioasă din oraș.",
-            "en": "The largest religious building in the city."
+            "en": "The largest religious building in the city.",
+            "es": "El edificio religioso más grande de la ciudad."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Einer der schönsten Stadtstrände Europas.",
             "hu": "Európa egyik legszebb városi strandja.",
             "ro": "Una dintre cele mai frumoase plaje urbane din Europa.",
-            "en": "One of the most beautiful urban beaches in Europe."
+            "en": "One of the most beautiful urban beaches in Europe.",
+            "es": "Una de las playas urbanas más bellas de Europa."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Moderne Architektur am Meer.",
             "hu": "Modern építészet közvetlenül a tengerparton.",
             "ro": "Arhitectură modernă chiar pe malul mării.",
-            "en": "Modern architecture right on the seafront."
+            "en": "Modern architecture right on the seafront.",
+            "es": "Arquitectura moderna justo en el paseo marítimo."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Beginnen Sie den Morgen in den engen Gassen der Altstadt und besichtigen Sie historische Kirchen. Mittags bietet das San Telmo Museum tiefe Einblicke in die baskische Geschichte. Am Nachmittag schlendern Sie zur majestätischen Buen Pastor Kathedrale und entspannen am goldenen Sand der La Concha Bucht. Der Abend führt Sie zum modernen Kursaal.",
         "hu": "Kezdje a reggelt az óváros szűk utcáin, és fedezze fel a történelmi templomokat. Délben a San Telmo Múzeum nyújt betekintést a baszk kultúrába. Délután sétáljon el a fenséges Buen Pastor katedrálishoz, majd pihenjen a La Concha öböl aranyhomokos partján. Az estét a modern Kursaal épületénél zárhatja.",
         "ro": "Începeți dimineața pe străduțele înguste din Orașul Vechi și vizitați bisericile istorice. La prânz, Muzeul San Telmo oferă o incursiune în istoria bască. După-amiaza, plimbați-vă spre maiestuoasa Catedrală Buen Pastor și relaxați-vă pe nisipul auriu din golful La Concha. Seara vă poartă la modernul Kursaal.",
-        "en": "Start your morning exploring the narrow streets of the Old Town and its historic churches. Midday, visit the San Telmo Museum to understand Basque culture. In the afternoon, stroll past the magnificent Buen Pastor Cathedral and relax on the golden sands of La Concha. Evening brings you to the modern Kursaal area."
+        "en": "Start your morning exploring the narrow streets of the Old Town and its historic churches. Midday, visit the San Telmo Museum to understand Basque culture. In the afternoon, stroll past the magnificent Buen Pastor Cathedral and relax on the golden sands of La Concha. Evening brings you to the modern Kursaal area.",
+        "es": "Comienza la mañana explorando las calles estrechas de la Parte Vieja y sus iglesias históricas. A mediodía, visita el Museo San Telmo para comprender la cultura vasca. Por la tarde, pasea junto a la magnífica Catedral del Buen Pastor y relájate en las arenas doradas de La Concha. Por la noche, dirígete a la moderna zona del Kursaal."
       },
       "gastro_picks": {
         "de": [
@@ -325,6 +332,12 @@
           "Wear comfortable shoes for the cobbled streets of the Old Town.",
           "The beach promenade is flat and very easy to navigate.",
           "Pintxos bars fill up quickly in the evening, so arrive early."
+        ],
+        "es": [
+          "San Sebastián es idealmente compacto para recorrer a pie.",
+          "Lleva calzado cómodo para las calles empedradas de la Parte Vieja.",
+          "El paseo de la playa es llano y muy fácil de recorrer.",
+          "Los bares de pintxos se llenan rápido por la tarde, así que llega temprano."
         ]
       },
       "variants": {
@@ -333,7 +346,8 @@
             "de": "Beginnen Sie den Morgen in den engen Gassen der Altstadt und besichtigen Sie historische Kirchen. Mittags bietet das San Telmo Museum tiefe Einblicke in die baskische Geschichte. Am Nachmittag schlendern Sie zur majestätischen Buen Pastor Kathedrale und entspannen am goldenen Sand der La Concha Bucht. Der Abend führt Sie zum modernen Kursaal.",
             "hu": "Kezdje a reggelt az óváros szűk utcáin, és fedezze fel a történelmi templomokat. Délben a San Telmo Múzeum nyújt betekintést a baszk kultúrába. Délután sétáljon el a fenséges Buen Pastor katedrálishoz, majd pihenjen a La Concha öböl aranyhomokos partján. Az estét a modern Kursaal épületénél zárhatja.",
             "ro": "Începeți dimineața pe străduțele înguste din Orașul Vechi și vizitați bisericile istorice. La prânz, Muzeul San Telmo oferă o incursiune în istoria bască. După-amiaza, plimbați-vă spre maiestuoasa Catedrală Buen Pastor și relaxați-vă pe nisipul auriu din golful La Concha. Seara vă poartă la modernul Kursaal.",
-            "en": "Start your morning exploring the narrow streets of the Old Town and its historic churches. Midday, visit the San Telmo Museum to understand Basque culture. In the afternoon, stroll past the magnificent Buen Pastor Cathedral and relax on the golden sands of La Concha. Evening brings you to the modern Kursaal area."
+            "en": "Start your morning exploring the narrow streets of the Old Town and its historic churches. Midday, visit the San Telmo Museum to understand Basque culture. In the afternoon, stroll past the magnificent Buen Pastor Cathedral and relax on the golden sands of La Concha. Evening brings you to the modern Kursaal area.",
+            "es": "Comienza la mañana explorando las calles estrechas de la Parte Vieja y sus iglesias históricas. A mediodía, visita el Museo San Telmo para comprender la cultura vasca. Por la tarde, pasea junto a la magnífica Catedral del Buen Pastor y relájate en las arenas doradas de La Concha. Por la noche, dirígete a la moderna zona del Kursaal."
           },
           "stops": [
             {
@@ -342,7 +356,8 @@
                 "de": "Perfekt für einen morgendlichen Kaffee.",
                 "hu": "Tökéletes hely egy reggeli kávéhoz.",
                 "ro": "Perfect pentru o cafea de dimineață.",
-                "en": "Perfect for a morning coffee."
+                "en": "Perfect for a morning coffee.",
+                "es": "Perfecto para un café matutino."
               }
             },
             {
@@ -351,7 +366,8 @@
                 "de": "Bewundern Sie die barocke Fassade.",
                 "hu": "Csodálja meg a barokk homlokzatot.",
                 "ro": "Admirați fațada în stil baroc.",
-                "en": "Admire the stunning baroque facade."
+                "en": "Admire the stunning baroque facade.",
+                "es": "Admira la impresionante fachada barroca."
               }
             },
             {
@@ -360,7 +376,8 @@
                 "de": "Spannende Einblicke in die baskische Kultur.",
                 "hu": "Izgalmas betekintés a baszk kultúrába.",
                 "ro": "Informații captivante despre cultura bască.",
-                "en": "Fascinating insights into Basque culture."
+                "en": "Fascinating insights into Basque culture.",
+                "es": "Perspectivas fascinantes sobre la cultura vasca."
               }
             },
             {
@@ -369,7 +386,8 @@
                 "de": "Das größte religiöse Gebäude der Stadt.",
                 "hu": "A város legnagyobb vallási épülete.",
                 "ro": "Cea mai mare clădire religioasă din oraș.",
-                "en": "The largest religious building in the city."
+                "en": "The largest religious building in the city.",
+                "es": "El edificio religioso más grande de la ciudad."
               }
             },
             {
@@ -378,7 +396,8 @@
                 "de": "Einer der schönsten Stadtstrände Europas.",
                 "hu": "Európa egyik legszebb városi strandja.",
                 "ro": "Una dintre cele mai frumoase plaje urbane din Europa.",
-                "en": "One of the most beautiful urban beaches in Europe."
+                "en": "One of the most beautiful urban beaches in Europe.",
+                "es": "Una de las playas urbanas más bellas de Europa."
               }
             },
             {
@@ -387,7 +406,8 @@
                 "de": "Moderne Architektur am Meer.",
                 "hu": "Modern építészet közvetlenül a tengerparton.",
                 "ro": "Arhitectură modernă chiar pe malul mării.",
-                "en": "Modern architecture right on the seafront."
+                "en": "Modern architecture right on the seafront.",
+                "es": "Arquitectura moderna justo en el paseo marítimo."
               }
             }
           ],
@@ -585,6 +605,12 @@
               "Wear comfortable shoes for the cobbled streets of the Old Town.",
               "The beach promenade is flat and very easy to navigate.",
               "Pintxos bars fill up quickly in the evening, so arrive early."
+            ],
+            "es": [
+              "San Sebastián es idealmente compacto para recorrer a pie.",
+              "Lleva calzado cómodo para las calles empedradas de la Parte Vieja.",
+              "El paseo junto a la playa es llano y muy fácil de transitar.",
+              "Los bares de pintxos se llenan rápidamente por la tarde; llega con antelación."
             ]
           }
         },
@@ -593,7 +619,8 @@
             "de": "Beginnen Sie Ihren Tag in der Altstadt, wo die engen Gassen Schutz vor dem typischen 'Sirimiri'-Regen bieten. Vormittags bieten die Basilika und das San-Telmo-Museum trockene Zufluchtsorte voller Kultur.\n\nIn der Mittagszeit laden die Pintxos-Bars der Parte Vieja zum Verweilen ein. Der Weg zur Kathedrale führt durch das Stadtzentrum, wo viele Geschäfte überdachte Eingänge haben.\n\nNachmittags bietet der Spaziergang an der Playa de la Concha ein dramatisches Schauspiel der Wellen. Nutzen Sie die Unterstände an der Promenade, um den Blick auf das Meer trocken zu genießen.\n\nDer Abend klingt am Kursaal aus. Die leuchtenden Glaswürfel wirken bei Regen besonders atmosphärisch, während Sie im Inneren moderne Architektur und Ausstellungen entdecken.",
             "hu": "Kezdje a napot az óvárosban, ahol a szűk utcák némi védelmet nyújtanak a baszk eső ellen. Délelőtt a Bazilika és a San Telmo Múzeum kínál száraz és kulturált menedéket.\n\nDélben az óváros pintxos bárjai tökéletesek egy hosszabb ebédszünethez. A katedrálishoz vezető úton a belváros boltívei és üzletei alatt haladhatunk tovább.\n\nDélután a La Concha strand mentén tett séta során megcsodálhatjuk a viharos öblöt. A sétány fedett részei lehetővé teszik a tenger látványának élvezetét anélkül, hogy eláznánk.\n\nAz este a Kursaalnál ér véget. Az üvegkockák fénye visszatükröződik a vizes aszfalton, a belső terek pedig menedéket nyújtanak a nap végére.",
             "ro": "Începeți ziua în centrul vechi, unde străzile înguste oferă protecție împotriva ploii basce fine. Dimineața, Basilica și Muzeul San Telmo oferă refugii culturale uscate.\n\nLa prânz, barurile de pintxos din Parte Vieja sunt ideale pentru o pauză lungă. Drumul spre catedrală trece prin centrul orașului, unde vitrinele magazinelor oferă adăpost.\n\nDupă-amiaza, o plimbare pe lângă Playa de la Concha oferă un spectacol dramatic al valurilor. Folosiți adăposturile de pe faleză pentru a admira marea fără a vă uda.\n\nSeara se încheie la Kursaal. Cuburile de sticlă iluminate arată spectaculos în ploaie, iar interiorul oferă un spațiu modern și cald pentru finalul zilei.",
-            "en": "Start your day in the Old Town, where narrow alleys provide some cover from the typical 'sirimiri' rain. Spend your morning exploring the Basilica and San Telmo Museum to stay dry.\n\nAt midday, the pintxos bars of Parte Vieja are perfect refuges. The walk to the Cathedral takes you through the city center, where shop awnings offer extra protection.\n\nIn the afternoon, enjoy the dramatic view of the Bay of Biscay from the promenade shelters at La Concha beach. Watching the waves in the rain is a classic San Sebastian experience.\n\nFinish your evening at the Kursaal. The glowing glass cubes reflect beautifully on the wet pavement, while the interior provides a dry space for culture and relaxation."
+            "en": "Start your day in the Old Town, where narrow alleys provide some cover from the typical 'sirimiri' rain. Spend your morning exploring the Basilica and San Telmo Museum to stay dry.\n\nAt midday, the pintxos bars of Parte Vieja are perfect refuges. The walk to the Cathedral takes you through the city center, where shop awnings offer extra protection.\n\nIn the afternoon, enjoy the dramatic view of the Bay of Biscay from the promenade shelters at La Concha beach. Watching the waves in the rain is a classic San Sebastian experience.\n\nFinish your evening at the Kursaal. The glowing glass cubes reflect beautifully on the wet pavement, while the interior provides a dry space for culture and relaxation.",
+            "es": "Empieza el día en la Parte Vieja, donde los callejones estrechos ofrecen algo de resguardo de la típica lluvia de 'sirimiri'. Pasa la mañana explorando la Basílica y el Museo San Telmo para mantenerte seco.\n\nA mediodía, los bares de pintxos de la Parte Vieja son un refugio perfecto. El paseo hasta la Catedral te lleva por el centro, donde los toldos de las tiendas ofrecen protección adicional.\n\nPor la tarde, disfruta de la vista dramática de la Bahía de Vizcaya desde los refugios del paseo de La Concha. Ver las olas bajo la lluvia es una experiencia clásica donostiarra.\n\nTermina la noche en el Kursaal. Los cubos de cristal iluminados se reflejan hermosamente en el pavimento mojado, mientras el interior ofrece un espacio seco para cultura y relax."
           },
           "stops": [
             {
@@ -602,7 +629,8 @@
                 "de": "Nutzen Sie die tiefen Türschwellen der Bars als Regenschutz.",
                 "hu": "Használja a bárok mély bejáratait és ereszalját esővédőként.",
                 "ro": "Folosiți intrările adânci ale barurilor ca adăpost împotriva ploii.",
-                "en": "Use the deep doorways of the bars as shelter from the rain."
+                "en": "Use the deep doorways of the bars as shelter from the rain.",
+                "es": "Usa las profundas puertas de los bares como refugio de la lluvia."
               }
             },
             {
@@ -611,7 +639,8 @@
                 "de": "Ein idealer Ort, um die stärksten Regenschauer trocken abzuwarten.",
                 "hu": "Ideális hely a nagyobb záporok szárazon történő átvészelésére.",
                 "ro": "Un loc ideal pentru a aștepta trecerea averselor puternice.",
-                "en": "An ideal place to wait out the heaviest rain showers in peace."
+                "en": "An ideal place to wait out the heaviest rain showers in peace.",
+                "es": "Un lugar ideal para esperar a que pase el chaparrón en paz."
               }
             },
             {
@@ -620,7 +649,8 @@
                 "de": "Planen Sie hier mehr Zeit ein, wenn es draußen stark regnet.",
                 "hu": "Töltsön itt több időt, ha kint éppen vigasztalanul esik.",
                 "ro": "Planificați mai mult timp aici dacă afară plouă torențial.",
-                "en": "Plan for extra time here if it is raining heavily outside."
+                "en": "Plan for extra time here if it is raining heavily outside.",
+                "es": "Planifica tiempo extra aquí si está lloviendo fuerte fuera."
               }
             },
             {
@@ -629,7 +659,8 @@
                 "de": "Die umliegenden Cafés bieten tolle Ausblicke auf die nasse Fassade.",
                 "hu": "A környékbeli kávézók fedett teraszairól szép a rálátás a templomra.",
                 "ro": "Cafenelele din jur oferă vederi frumoase spre fațada udă a catedralei.",
-                "en": "Nearby cafes offer great views of the wet facade from their porches."
+                "en": "Nearby cafes offer great views of the wet facade from their porches.",
+                "es": "Las cafeterías cercanas ofrecen buenas vistas de la fachada mojada desde sus porches."
               }
             },
             {
@@ -638,7 +669,8 @@
                 "de": "Die Arkaden unter der Promenade bieten perfekten Schutz beim Gehen.",
                 "hu": "A sétány alatti árkádok tökéletes védelmet nyújtanak séta közben.",
                 "ro": "Arcadele de sub faleză oferă protecție perfectă în timpul mersului.",
-                "en": "The arcades under the promenade provide perfect cover while walking."
+                "en": "The arcades under the promenade provide perfect cover while walking.",
+                "es": "Las arcadas bajo el paseo ofrecen un perfecto resguardo mientras caminas."
               }
             },
             {
@@ -647,7 +679,8 @@
                 "de": "Genießen Sie den Blick auf die Wellen aus den großen Glasfenstern.",
                 "hu": "Élvezze a hullámok látványát a hatalmas üvegablakok mögül.",
                 "ro": "Bucurați-vă de vederea valurilor prin ferestrele mari de sticlă.",
-                "en": "Enjoy the view of the waves from behind the large glass windows."
+                "en": "Enjoy the view of the waves from behind the large glass windows.",
+                "es": "Disfruta de la vista de las olas desde detrás de los grandes ventanales."
               }
             }
           ],
@@ -675,6 +708,12 @@
               "Visit the La Bretxa market to stay dry while exploring local products.",
               "Take advantage of the many arcades and passages throughout the city.",
               "Hot chocolate with churros is the perfect treat for a rainy afternoon."
+            ],
+            "es": [
+              "Un paraguas resistente es imprescindible por las fuertes rachas de viento costero.",
+              "Visita el mercado de La Bretxa para mantenerte seco mientras exploras productos locales.",
+              "Aprovecha las numerosas arcadas y pasajes de la ciudad.",
+              "El chocolate caliente con churros es el capricho perfecto para una tarde lluviosa."
             ]
           }
         },
@@ -683,7 +722,8 @@
             "de": "Die Wintermorgen in der Altstadt sind ruhig und klar. Die kühle Meeresbrise weht durch die Gassen, während Sie die sakrale Stille der Basilika genießen.\n\nMittags wärmen Pintxos und lokale Weine Körper und Seele. Das San-Telmo-Museum bietet einen faszinierenden Einblick in die baschische Geschichte in wohliger Wärme.\n\nNachmittags ist die Kathedrale ein Ort der Ruhe. Der Strandspaziergang an der Concha ist bei Wintersonne besonders belebend, mit einem malerischen Sonnenuntergang gegen 17:30 Uhr.\n\nDer Abend endet am Kursaal, der wie ein Eiskristall in der Dunkelheit leuchtet. Die Stadtlichter spiegeln sich im kalten Wasser des Urumea-Flusses.",
             "hu": "A téli reggelek az óvárosban csendesek és frissek. A hűvös tengeri szél átfúj a sikátorokon, miközben a Bazilika szakrális csendjét élvezzük.\n\nDélben a pintxos bárok és a helyi borok melengetik meg a testet. A San Telmo Múzeum fűtött tereiben elmerülhetünk a baszk történelemben.\n\nDélután a katedrális nyugalma után a La Concha mentén tett séta különösen frissítő, a naplemente pedig már fél hat körül bekövetkezik.\n\nAz este a Kursaalnál zárul, amely jégkristályként ragyog a sötétben. A város fényei gyönyörűen tükröződnek az Urumea folyó hideg vizében.",
             "ro": "Diminețile de iarnă în centrul vechi sunt liniștite și clare. Briza rece a mării străbate străduțele în timp ce vă bucurați de liniștea din Basilica.\n\nLa prânz, pintxos și vinurile locale vă vor încălzi. Muzeul San Telmo oferă o incursiune fascinantă în istoria bască într-o atmosferă caldă.\n\nDupă-amiaza, după liniștea catedralei, o plimbare pe Playa de la Concha este revigorantă, cu un apus pitoresc în jurul orei 17:30.\n\nSeara se încheie la Kursaal, care luminează ca un cristal de gheață în întuneric. Luminile orașului se oglindesc în apa rece a râului Urumea.",
-            "en": "Winter mornings in the Old Town are quiet and crisp. The cool sea breeze flows through the narrow streets as you enjoy the peaceful silence of the Basilica.\n\nAt midday, warm up with hot pintxos in the cozy bars. The San Telmo Museum offers a fascinating and heated refuge to explore Basque history.\n\nIn the afternoon, visit the Cathedral before taking a bracing walk along La Concha. The winter sunset at 5:30 PM is often spectacular over the bay.\n\nFinish your day at the Kursaal, which glows like an ice crystal in the dark. The city lights reflect beautifully in the cold waters of the Urumea river."
+            "en": "Winter mornings in the Old Town are quiet and crisp. The cool sea breeze flows through the narrow streets as you enjoy the peaceful silence of the Basilica.\n\nAt midday, warm up with hot pintxos in the cozy bars. The San Telmo Museum offers a fascinating and heated refuge to explore Basque history.\n\nIn the afternoon, visit the Cathedral before taking a bracing walk along La Concha. The winter sunset at 5:30 PM is often spectacular over the bay.\n\nFinish your day at the Kursaal, which glows like an ice crystal in the dark. The city lights reflect beautifully in the cold waters of the Urumea river.",
+            "es": "Las mañanas de invierno en la Parte Vieja son tranquilas y nítidas. La brisa marina fresca recorre las calles estrechas mientras disfrutas del silencio de la Basílica.\n\nA mediodía, caliéntate con pintxos calientes en los bares acogedores. El Museo San Telmo ofrece un refugio fascinante y climatizado para explorar la historia vasca.\n\nPor la tarde, visita la Catedral antes de dar un paseo vigorizante por La Concha. El atardecer invernal a las 17:30 suele ser espectacular sobre la bahía.\n\nTermina el día en el Kursaal, que brilla como un cristal helado en la oscuridad. Las luces de la ciudad se reflejan hermosamente en las frías aguas del río Urumea."
           },
           "stops": [
             {
@@ -692,7 +732,8 @@
                 "de": "Die engen Gassen bieten guten Schutz vor dem kalten Seewind.",
                 "hu": "A szűk utcák jó védelmet nyújtanak a hideg tengeri szél ellen.",
                 "ro": "Străzile înguste oferă o bună protecție împotriva vântului rece.",
-                "en": "The narrow streets provide good shelter from the cold sea wind."
+                "en": "The narrow streets provide good shelter from the cold sea wind.",
+                "es": "Las calles estrechas ofrecen buen resguardo del frío viento marino."
               }
             },
             {
@@ -701,7 +742,8 @@
                 "de": "Ein Ort der Stille und Wärme abseits der kühlen Meeresbrise.",
                 "hu": "A csend és a meleg szigete a hűvös tengerparti szél után.",
                 "ro": "Un loc de liniște și căldură departe de briza rece a mării.",
-                "en": "A place of silence and warmth away from the chilly sea breeze."
+                "en": "A place of silence and warmth away from the chilly sea breeze.",
+                "es": "Un lugar de silencio y calor alejado de la fresca brisa marina."
               }
             },
             {
@@ -710,7 +752,8 @@
                 "de": "Besuchen Sie den Kreuzgang, der im Winter besonders mystisch wirkt.",
                 "hu": "Nézze meg a kerengőt, amely télen különösen misztikus hangulatú.",
                 "ro": "Vizitați claustrul, care are o atmosferă mistică pe timp de iarnă.",
-                "en": "Visit the cloister, which has a particularly mystical feel in winter."
+                "en": "Visit the cloister, which has a particularly mystical feel in winter.",
+                "es": "Visita el claustro, que tiene un aire particularmente místico en invierno."
               }
             },
             {
@@ -719,7 +762,8 @@
                 "de": "Perfekt für eine kurze Pause im Warmen während des Stadtbummels.",
                 "hu": "Tökéletes egy rövid melegedőre a városnézés közben.",
                 "ro": "Perfect pentru o scurtă pauză la căldură în timpul plimbării.",
-                "en": "Perfect for a short warm break during your city exploration."
+                "en": "Perfect for a short warm break during your city exploration.",
+                "es": "Perfecto para una breve pausa cálida durante la exploración urbana."
               }
             },
             {
@@ -728,7 +772,8 @@
                 "de": "Warme Kleidung ist für den windigen Spaziergang unerlässlich.",
                 "hu": "Meleg ruházat elengedhetetlen a szeles tengerparti sétához.",
                 "ro": "Îmbrăcămintea groasă este esențială pentru plimbarea cu vânt.",
-                "en": "Warm clothing is essential for this windy seaside stroll."
+                "en": "Warm clothing is essential for this windy seaside stroll.",
+                "es": "Ropa de abrigo es esencial para este paseo ventoso junto al mar."
               }
             },
             {
@@ -737,7 +782,8 @@
                 "de": "Die Beleuchtung ist in den langen Winternächten besonders hell.",
                 "hu": "A kivilágítás különösen látványos a hosszú téli éjszakákon.",
                 "ro": "Iluminatul este deosebit de spectaculos în nopțile lungi de iarnă.",
-                "en": "The lighting is particularly bright during the long winter nights."
+                "en": "The lighting is particularly bright during the long winter nights.",
+                "es": "La iluminación es especialmente brillante durante las largas noches de invierno."
               }
             }
           ],
@@ -765,6 +811,12 @@
               "Dressing in layers is the best way to handle the damp coastal cold.",
               "Try the traditional 'caldo' (hot broth) available in most bars.",
               "Popular pintxos bars can be very cozy and crowded in the evenings."
+            ],
+            "es": [
+              "El sol se pone tan pronto como a las 17:30 en invierno, planea en consecuencia.",
+              "Vestir en capas es la mejor manera de afrontar el frío costero húmedo.",
+              "Prueba el tradicional caldo disponible en la mayoría de los bares.",
+              "Los bares de pintxos populares pueden ser muy acogedores y concurridos por la noche."
             ]
           }
         }
@@ -793,7 +845,8 @@
             "de": "Guter Startpunkt mit breiten Radwegen.",
             "hu": "Jó kiindulópont széles kerékpárutakkal.",
             "ro": "Punct de plecare excelent, cu piste largi.",
-            "en": "Great starting point with wide bike lanes."
+            "en": "Great starting point with wide bike lanes.",
+            "es": "Excelente punto de partida con amplios carriles bici."
           }
         },
         {
@@ -811,7 +864,8 @@
             "de": "Schieben Sie das Rad in den engsten Gassen.",
             "hu": "A legszűkebb utcákban tolja a kerékpárt.",
             "ro": "Mergeți pe lângă bicicletă pe străzile foarte înguste.",
-            "en": "Walk your bike through the narrowest streets."
+            "en": "Walk your bike through the narrowest streets.",
+            "es": "Camina con la bici por las calles más estrechas."
           }
         },
         {
@@ -829,7 +883,8 @@
             "de": "Herrliche Aussicht entlang der Promenade.",
             "hu": "Csodálatos kilátás a sétány mentén.",
             "ro": "Vedere superbă de-a lungul promenadei.",
-            "en": "Gorgeous views along the promenade."
+            "en": "Gorgeous views along the promenade.",
+            "es": "Vistas preciosas a lo largo del paseo."
           }
         },
         {
@@ -847,7 +902,8 @@
             "de": "Perfekter Ort für ein Picknick.",
             "hu": "Tökéletes hely egy piknikhez.",
             "ro": "Locul perfect pentru un picnic.",
-            "en": "Perfect spot for a picnic rest."
+            "en": "Perfect spot for a picnic rest.",
+            "es": "Lugar perfecto para descansar y hacer un picnic."
           }
         },
         {
@@ -865,7 +921,8 @@
             "de": "Die Skulpturen am Ende der Bucht.",
             "hu": "Szobrok az öböl legvégén.",
             "ro": "Sculpturile de la capătul golfului.",
-            "en": "The sculptures at the end of the bay."
+            "en": "The sculptures at the end of the bay.",
+            "es": "Las esculturas al final de la bahía."
           }
         },
         {
@@ -883,7 +940,8 @@
             "de": "Stellen Sie das Rad unten an der Bahn ab.",
             "hu": "Hagyja a biciklit a sikló aljánál.",
             "ro": "Lăsați bicicleta la baza funicularului.",
-            "en": "Park your bike at the funicular base."
+            "en": "Park your bike at the funicular base.",
+            "es": "Aparca la bicicleta en la base del funicular."
           }
         }
       ],
@@ -891,7 +949,8 @@
         "de": "Eine perfekte Radtour beginnt am Kursaal und führt entlang der berühmten La Concha Promenade. Mittags bietet sich ein malerischer Stopp in den Gärten des Miramar-Palastes an. Am Nachmittag erreichen Sie die ikonischen Peine del Viento Skulpturen. Beenden Sie die Tour mit einer Fahrt auf den Monte Igueldo für eine spektakuläre Aussicht.",
         "hu": "Egy tökéletes tengerparti tekerés a Kursaalnál kezdődik, és a híres La Concha sétányon halad végig. Délben érdemes megállni a Miramar palota kertjeiben. Délután eléri az ikonikus Peine del Viento szobrokat. Zárja a túrát a Monte Igueldo hegyen a lenyűgöző panorámáért.",
         "ro": "O plimbare perfectă cu bicicleta începe la Kursaal, pedalând pe faimoasa promenadă La Concha. La prânz, faceți o oprire pitorească în grădinile Palatului Miramar. După-amiaza veți ajunge la emblematicele sculpturi Peine del Viento. Încheiați traseul urcând pe Monte Igueldo pentru o priveliște spectaculoasă.",
-        "en": "A perfect coastal ride begins at the Kursaal, pedaling along the famous La Concha promenade. Midday offers a scenic stop at the Miramar Palace gardens. By afternoon, you will reach the iconic Peine del Viento sculptures. End your ride with a trip up Monte Igueldo for spectacular views."
+        "en": "A perfect coastal ride begins at the Kursaal, pedaling along the famous La Concha promenade. Midday offers a scenic stop at the Miramar Palace gardens. By afternoon, you will reach the iconic Peine del Viento sculptures. End your ride with a trip up Monte Igueldo for spectacular views.",
+        "es": "Un paseo costero perfecto comienza en el Kursaal, pedaleando por el famoso paseo de La Concha. A mediodía, haz una parada panorámica en los jardines del Palacio de Miramar. Por la tarde llegarás a las icónicas esculturas del Peine del Viento. Termina la ruta subiendo al Monte Igueldo para vistas espectaculares."
       },
       "gastro_picks": {
         "de": [
@@ -1087,6 +1146,12 @@
           "The promenade along the bay is the highlight.",
           "Avoid cycling in the pedestrian-only zones of the Old Town.",
           "Make use of the public bike-sharing system (Dbizi)."
+        ],
+        "es": [
+          "San Sebastián tiene una excelente red de carriles bici.",
+          "El paseo a lo largo de la bahía es el gran atractivo.",
+          "Evita circular en las zonas peatonales de la Parte Vieja.",
+          "Aprovecha el sistema público de bicicletas compartidas (Dbizi)."
         ]
       },
       "variants": {
@@ -1095,7 +1160,8 @@
             "de": "Eine perfekte Radtour beginnt am Kursaal und führt entlang der berühmten La Concha Promenade. Mittags bietet sich ein malerischer Stopp in den Gärten des Miramar-Palastes an. Am Nachmittag erreichen Sie die ikonischen Peine del Viento Skulpturen. Beenden Sie die Tour mit einer Fahrt auf den Monte Igueldo für eine spektakuläre Aussicht.",
             "hu": "Egy tökéletes tengerparti tekerés a Kursaalnál kezdődik, és a híres La Concha sétányon halad végig. Délben érdemes megállni a Miramar palota kertjeiben. Délután eléri az ikonikus Peine del Viento szobrokat. Zárja a túrát a Monte Igueldo hegyen a lenyűgöző panorámáért.",
             "ro": "O plimbare perfectă cu bicicleta începe la Kursaal, pedalând pe faimoasa promenadă La Concha. La prânz, faceți o oprire pitorească în grădinile Palatului Miramar. După-amiaza veți ajunge la emblematicele sculpturi Peine del Viento. Încheiați traseul urcând pe Monte Igueldo pentru o priveliște spectaculoasă.",
-            "en": "A perfect coastal ride begins at the Kursaal, pedaling along the famous La Concha promenade. Midday offers a scenic stop at the Miramar Palace gardens. By afternoon, you will reach the iconic Peine del Viento sculptures. End your ride with a trip up Monte Igueldo for spectacular views."
+            "en": "A perfect coastal ride begins at the Kursaal, pedaling along the famous La Concha promenade. Midday offers a scenic stop at the Miramar Palace gardens. By afternoon, you will reach the iconic Peine del Viento sculptures. End your ride with a trip up Monte Igueldo for spectacular views.",
+            "es": "Un paseo costero perfecto comienza en el Kursaal, pedaleando por el famoso paseo de La Concha. A mediodía, haz una parada panorámica en los jardines del Palacio de Miramar. Por la tarde llegarás a las icónicas esculturas del Peine del Viento. Termina la ruta subiendo al Monte Igueldo para vistas espectaculares."
           },
           "stops": [
             {
@@ -1104,7 +1170,8 @@
                 "de": "Guter Startpunkt mit breiten Radwegen.",
                 "hu": "Jó kiindulópont széles kerékpárutakkal.",
                 "ro": "Punct de plecare excelent, cu piste largi.",
-                "en": "Great starting point with wide bike lanes."
+                "en": "Great starting point with wide bike lanes.",
+                "es": "Excelente punto de partida con amplios carriles bici."
               }
             },
             {
@@ -1113,7 +1180,8 @@
                 "de": "Schieben Sie das Rad in den engsten Gassen.",
                 "hu": "A legszűkebb utcákban tolja a kerékpárt.",
                 "ro": "Mergeți pe lângă bicicletă pe străzile foarte înguste.",
-                "en": "Walk your bike through the narrowest streets."
+                "en": "Walk your bike through the narrowest streets.",
+                "es": "Camina con la bici por las calles más estrechas."
               }
             },
             {
@@ -1122,7 +1190,8 @@
                 "de": "Herrliche Aussicht entlang der Promenade.",
                 "hu": "Csodálatos kilátás a sétány mentén.",
                 "ro": "Vedere superbă de-a lungul promenadei.",
-                "en": "Gorgeous views along the promenade."
+                "en": "Gorgeous views along the promenade.",
+                "es": "Vistas preciosas a lo largo del paseo."
               }
             },
             {
@@ -1131,7 +1200,8 @@
                 "de": "Perfekter Ort für ein Picknick.",
                 "hu": "Tökéletes hely egy piknikhez.",
                 "ro": "Locul perfect pentru un picnic.",
-                "en": "Perfect spot for a picnic rest."
+                "en": "Perfect spot for a picnic rest.",
+                "es": "Lugar perfecto para descansar y hacer un picnic."
               }
             },
             {
@@ -1140,7 +1210,8 @@
                 "de": "Die Skulpturen am Ende der Bucht.",
                 "hu": "Szobrok az öböl legvégén.",
                 "ro": "Sculpturile de la capătul golfului.",
-                "en": "The sculptures at the end of the bay."
+                "en": "The sculptures at the end of the bay.",
+                "es": "Las esculturas al final de la bahía."
               }
             },
             {
@@ -1149,7 +1220,8 @@
                 "de": "Stellen Sie das Rad unten an der Bahn ab.",
                 "hu": "Hagyja a biciklit a sikló aljánál.",
                 "ro": "Lăsați bicicleta la baza funicularului.",
-                "en": "Park your bike at the funicular base."
+                "en": "Park your bike at the funicular base.",
+                "es": "Aparca la bicicleta en la base del funicular."
               }
             }
           ],
@@ -1347,6 +1419,12 @@
               "The promenade along the bay is the highlight.",
               "Avoid cycling in the pedestrian-only zones of the Old Town.",
               "Make use of the public bike-sharing system (Dbizi)."
+            ],
+            "es": [
+              "San Sebastián tiene una excelente red de carriles bici.",
+              "El paseo a lo largo de la bahía es el gran atractivo.",
+              "Evita circular en las zonas peatonales de la Parte Vieja.",
+              "Aprovecha el sistema público de bicicletas compartidas (Dbizi)."
             ]
           }
         },
@@ -1355,7 +1433,8 @@
             "de": "Eine Radtour im Regen erfordert Vorsicht, bietet aber leere Wege. Beginnen Sie am Kursaal und fahren Sie vorsichtig zur Altstadt, wo die nassen Pflastersteine glatt sein können.\n\nMittags führt die Route entlang der Playa de la Concha. Die Gischt mischt sich mit dem Regen und sorgt für ein erfrischendes, wenn auch nasses Erlebnis.\n\nNachmittags geht es zum Palacio de Miramar und zum Peine del Viento. Die Skulpturen wirken in der stürmischen Brandung besonders kraftvoll.\n\nDer Tag endet mit der Auffahrt zum Monte Igueldo. Oben angekommen, bietet sich trotz Wolken ein dramatischer Ausblick auf das graue Meer, bevor Sie die Abfahrt antreten.",
             "hu": "A kerékpározás esőben óvatosságot igényel, de cserébe üres utakat kínál. Kezdjen a Kursaalnál, majd hajtson az óvárosba, vigyázva a csúszós macskakövekre.\n\nDélben az út a La Concha mentén vezet. A tenger permete keveredik az esővel, ami frissítő, bár vizes élményt nyújt.\n\nDélután a Miramar palota és a Peine del Viento a cél. A szobrok a viharos tengerben különösen erőteljes látványt nyújtanak.\n\nA nap a Monte Igueldo megmászásával zárul. A felhők ellenére a kilátás drámai, a ködös öböl látványa pedig felejthetetlen a nap végén.",
             "ro": "O plimbare cu bicicleta în ploaie necesită atenție, dar oferă trasee libere. Începeți la Kursaal și pedalați spre centrul vechi, atenți la pavajul alunecos.\n\nLa prânz, traseul continuă pe lângă Playa de la Concha. Briza mării se amestecă cu ploaia, oferind o experiență revigorantă, deși umedă.\n\nDupă-amiaza vizitați Palatul Miramar și Peine del Viento. Sculpturile par și mai impunătoare în mijlocul valurilor înspumate.\n\nZiua se încheie cu urcarea pe Monte Igueldo. Chiar și cu nori, priveliștea asupra mării gri este dramatică înainte de coborâre.",
-            "en": "Cycling in the rain requires caution but rewards you with empty paths. Start at Kursaal and head to the Old Town, being careful on the slippery cobblestones.\n\nAt midday, follow the red bidegorri (bike path) along La Concha. The sea spray mixes with the rain for a truly refreshing, if wet, coastal experience.\n\nIn the afternoon, visit Miramar Palace and Peine del Viento. The sculptures look particularly powerful amidst the crashing stormy waves.\n\nFinish your day with a climb to Monte Igueldo. Despite the clouds, the dramatic view of the grey sea is spectacular before your final descent."
+            "en": "Cycling in the rain requires caution but rewards you with empty paths. Start at Kursaal and head to the Old Town, being careful on the slippery cobblestones.\n\nAt midday, follow the red bidegorri (bike path) along La Concha. The sea spray mixes with the rain for a truly refreshing, if wet, coastal experience.\n\nIn the afternoon, visit Miramar Palace and Peine del Viento. The sculptures look particularly powerful amidst the crashing stormy waves.\n\nFinish your day with a climb to Monte Igueldo. Despite the clouds, the dramatic view of the grey sea is spectacular before your final descent.",
+            "es": "Ciclismo bajo la lluvia requiere precaución pero te recompensa con caminos vacíos. Comienza en el Kursaal y dirígete a la Parte Vieja, teniendo cuidado con los empedrados resbaladizos.\n\nA mediodía, sigue el bidegorri rojo a lo largo de La Concha. La bruma marina se mezcla con la lluvia para una experiencia costera verdaderamente refrescante, aunque húmeda.\n\nPor la tarde, visita el Palacio de Miramar y el Peine del Viento. Las esculturas parecen especialmente poderosas entre las olas embravecidas.\n\nTermina el día subiendo al Monte Igueldo. A pesar de las nubes, la vista dramática del mar gris es espectacular antes del descenso final."
           },
           "stops": [
             {
@@ -1364,7 +1443,8 @@
                 "de": "Vermeiden Sie das Bremsen auf den nassen Metallgittern am Boden.",
                 "hu": "Kerülje a fékezést a vizes fémrácsokon az épület körül.",
                 "ro": "Evitați frânarea pe grătarele metalice umede de pe sol.",
-                "en": "Avoid braking on the wet metal grates around the building."
+                "en": "Avoid braking on the wet metal grates around the building.",
+                "es": "Evita frenar sobre las rejillas metálicas mojadas alrededor del edificio."
               }
             },
             {
@@ -1373,7 +1453,8 @@
                 "de": "Schieben Sie das Rad in den engen, nassen Gassen lieber.",
                 "hu": "A szűk, vizes utcákban érdemesebb tolni a kerékpárt.",
                 "ro": "Este mai sigur să mergeți pe lângă bicicletă în zonele pietonale ude.",
-                "en": "It is safer to walk your bike through the narrow, wet alleys."
+                "en": "It is safer to walk your bike through the narrow, wet alleys.",
+                "es": "Es más seguro caminar con la bici por los callejones estrechos y húmedos."
               }
             },
             {
@@ -1382,7 +1463,8 @@
                 "de": "Der Radweg (Bidegorri) ist gut markiert, aber bei Nässe rutschig.",
                 "hu": "A kerékpárút (bidegorri) jól jelzett, de vizesen csúszós lehet.",
                 "ro": "Pista de biciclete (bidegorri) este bine marcată, dar alunecoasă.",
-                "en": "The bike path (bidegorri) is well-marked but slippery when wet."
+                "en": "The bike path (bidegorri) is well-marked but slippery when wet.",
+                "es": "El bidegorri está bien señalizado pero resbaladizo cuando está mojado."
               }
             },
             {
@@ -1391,7 +1473,8 @@
                 "de": "Nutzen Sie die Tunneldurchfahrt, um kurz im Trockenen zu sein.",
                 "hu": "Használja az alagutat, hogy rövid időre fedett helyen legyen.",
                 "ro": "Folosiți tunelul pentru a fi la adăpost pentru scurt timp.",
-                "en": "Use the tunnel passage to stay dry for a short moment."
+                "en": "Use the tunnel passage to stay dry for a short moment.",
+                "es": "Usa el paso por el túnel para mantenerte seco por un momento."
               }
             },
             {
@@ -1400,7 +1483,8 @@
                 "de": "Vorsicht vor den Wasserfontänen, die durch Löcher im Boden schießen.",
                 "hu": "Vigyázzon a lyukakon keresztül felszökő vízsugarakra.",
                 "ro": "Atenție la jeturile de apă care țâșnesc prin orificiile din pavaj.",
-                "en": "Watch out for the water fountains shooting through the floor holes."
+                "en": "Watch out for the water fountains shooting through the floor holes.",
+                "es": "Ten cuidado con las fuentes de agua que brotan por los huecos del suelo."
               }
             },
             {
@@ -1409,7 +1493,8 @@
                 "de": "Fahren Sie bei der nassen Abfahrt besonders kontrolliert und langsam.",
                 "hu": "A vizes úton lefelé menet legyen különösen óvatos és lassú.",
                 "ro": "Coborâți foarte încet și controlat pe drumul ud.",
-                "en": "Ride very carefully and slowly on the wet downhill road."
+                "en": "Ride very carefully and slowly on the wet downhill road.",
+                "es": "Circula con mucha precaución y despacio en la bajada húmeda."
               }
             }
           ],
@@ -1437,6 +1522,12 @@
               "Check your brakes before starting; wetness reduces stopping power.",
               "Use the blue 'Dbizi' electric bikes to make the climbs easier.",
               "Avoid riding too close to the railings during high tide or big waves."
+            ],
+            "es": [
+              "Equipo totalmente impermeable, incluidas fundas para zapatos, es muy recomendable.",
+              "Revisa tus frenos antes de salir; la humedad reduce la capacidad de frenado.",
+              "Usa las bicicletas eléctricas 'Dbizi' para facilitar las subidas.",
+              "Evita circular demasiado cerca de las barandillas durante la marea alta o con olas grandes."
             ]
           }
         },
@@ -1445,7 +1536,8 @@
             "de": "Ein klarer Wintermorgen am Kursaal ist perfekt für den Start. Die kühle Luft weckt die Geister, während Sie zur Altstadt radeln.\n\nMittags genießen Sie die weite Sicht entlang der Concha. Das Licht ist im Winter flacher und taucht die Bucht in silberne Farben.\n\nNachmittags führt die Tour zum Miramar-Palast und zum Peine del Viento. Die Meeresluft ist erfrischend kalt, und die Skulpturen wirken einsam und majestätisch.\n\nDer Höhepunkt ist die Auffahrt zum Monte Igueldo vor dem frühen Sonnenuntergang. Von oben sehen Sie die Lichter der Stadt nach und nach angehen, bevor es kühl wird.",
             "hu": "Egy tiszta téli reggel a Kursaalnál tökéletes a kezdéshez. A hűvös levegő felfrissít, miközben az óváros felé kerékpározik.\n\nDélben élvezze a tágas kilátást a La Concha mentén. A téli fények ezüstös színbe öltöztetik az öblöt.\n\nDélután a Miramar palota és a Peine del Viento a cél. A tengeri levegő frissítően hideg, a szobrok pedig fenségesek a téli magányban.\n\nA csúcspont a Monte Igueldo megmászása a korai naplemente előtt. Felülről nézheti, ahogy a város fényei kigyúlnak a hűvös alkonyatban.",
             "ro": "O dimineață senină de iarnă la Kursaal este perfectă pentru start. Aerul rece vă va trezi simțurile în timp ce pedalați spre centrul vechi.\n\nLa prânz, bucurați-vă de vizibilitatea excelentă de-a lungul plajei Concha. Lumina de iarnă scaldă golful în nuanțe argintii.\n\nDupă-amiaza, vizitați Miramar și Peine del Viento. Aerul marin este revigorant de rece, iar sculpturile par și mai impunătoare.\n\nPunctul culminant este urcarea pe Monte Igueldo înainte de apusul timpuriu. De sus veți vedea cum se aprind luminile orașului.",
-            "en": "A clear winter morning at Kursaal is a great way to start. The cool air is invigorating as you pedal toward the Old Town.\n\nAt midday, enjoy the wide views along La Concha. The low winter sun gives the bay a beautiful silvery glow.\n\nIn the afternoon, head to Miramar Palace and Peine del Viento. The sea air is refreshingly cold, and the sculptures feel majestic in the winter quiet.\n\nThe highlight is the ride up Monte Igueldo before the early sunset. Watch the city lights flicker on as the air turns chilly."
+            "en": "A clear winter morning at Kursaal is a great way to start. The cool air is invigorating as you pedal toward the Old Town.\n\nAt midday, enjoy the wide views along La Concha. The low winter sun gives the bay a beautiful silvery glow.\n\nIn the afternoon, head to Miramar Palace and Peine del Viento. The sea air is refreshingly cold, and the sculptures feel majestic in the winter quiet.\n\nThe highlight is the ride up Monte Igueldo before the early sunset. Watch the city lights flicker on as the air turns chilly.",
+            "es": "Una mañana clara de invierno en el Kursaal es una gran forma de empezar. El aire fresco activa mientras pedaleas hacia la Parte Vieja.\n\nA mediodía, disfruta de las amplias vistas por La Concha. El sol bajo de invierno da a la bahía un bello brillo plateado.\n\nPor la tarde, dirígete al Palacio de Miramar y al Peine del Viento. El aire marino es refrescantemente frío y las esculturas se sienten majestuosas en la calma invernal.\n\nLo más destacable es la subida al Monte Igueldo antes del atardecer temprano. Observa cómo se encienden las luces de la ciudad mientras el aire se enfría."
           },
           "stops": [
             {
@@ -1454,7 +1546,8 @@
                 "de": "In der Morgensonne glänzen die Glasfassaden besonders schön.",
                 "hu": "A reggeli napsütésben az üveghomlokzat gyönyörűen csillog.",
                 "ro": "Fațada de sticlă strălucește spectaculos în soarele dimineții.",
-                "en": "The glass facade glows beautifully in the crisp morning sun."
+                "en": "The glass facade glows beautifully in the crisp morning sun.",
+                "es": "La fachada de vidrio brilla hermosamente con el sol matinal nítido."
               }
             },
             {
@@ -1463,7 +1556,8 @@
                 "de": "Nutzen Sie die Fahrradständer am Rand der Altstadt.",
                 "hu": "Használja az óváros szélén található kerékpártárolókat.",
                 "ro": "Folosiți suporturile de biciclete de la marginea centrului vechi.",
-                "en": "Use the bike racks located at the edge of the Old Town."
+                "en": "Use the bike racks located at the edge of the Old Town.",
+                "es": "Utiliza los aparcabicis situados en el borde de la Parte Vieja."
               }
             },
             {
@@ -1472,7 +1566,8 @@
                 "de": "Tragen Sie Handschuhe gegen den kalten Fahrtwind am Meer.",
                 "hu": "Viseljen kesztyűt a hideg menetszél ellen a parton.",
                 "ro": "Purtați mănuși împotriva vântului rece de pe faleză.",
-                "en": "Wear gloves to protect your hands from the cold coastal wind."
+                "en": "Wear gloves to protect your hands from the cold coastal wind.",
+                "es": "Lleva guantes para proteger las manos del frío viento costero."
               }
             },
             {
@@ -1481,7 +1576,8 @@
                 "de": "Die Gärten bieten im Winter eine klare Sicht auf die Insel Santa Clara.",
                 "hu": "A kertekből télen tiszta rálátás nyílik a Santa Clara-szigetre.",
                 "ro": "Grădinile oferă iarna o vedere clară spre insula Santa Clara.",
-                "en": "The gardens offer a very clear view of Santa Clara Island in winter."
+                "en": "The gardens offer a very clear view of Santa Clara Island in winter.",
+                "es": "Los jardines ofrecen una vista muy clara de la Isla de Santa Clara en invierno."
               }
             },
             {
@@ -1490,7 +1586,8 @@
                 "de": "Bei Winterstürmen kann das Meer die Wege überspülen.",
                 "hu": "Téli viharok idején a hullámok átcsaphatnak az úton.",
                 "ro": "În timpul furtunilor de iarnă, valurile pot acoperi aleile.",
-                "en": "During winter storms, waves can sometimes wash over the paths."
+                "en": "During winter storms, waves can sometimes wash over the paths.",
+                "es": "Durante las tormentas invernales, a veces las olas pueden cubrir los caminos."
               }
             },
             {
@@ -1499,7 +1596,8 @@
                 "de": "Planen Sie die Auffahrt so, dass Sie vor Einbruch der Dunkelheit oben sind.",
                 "hu": "Tervezze úgy az utat, hogy sötétedés előtt érjen fel.",
                 "ro": "Planificați urcarea astfel încât să ajungeți sus înainte de întuneric.",
-                "en": "Plan your ride to reach the summit before it gets dark."
+                "en": "Plan your ride to reach the summit before it gets dark.",
+                "es": "Planifica la ruta para alcanzar la cima antes de que oscurezca."
               }
             }
           ],
@@ -1527,6 +1625,12 @@
               "Dbizi rental bikes are usually readily available during the winter.",
               "Bike lights are critical as the sun sets early in the afternoon.",
               "Stop at cafes frequently to warm up your hands and face."
+            ],
+            "es": [
+              "Guantes calientes y gorro son esenciales para el ciclismo invernal.",
+              "Las bicicletas de alquiler Dbizi suelen estar disponibles durante el invierno.",
+              "Las luces para bicicleta son cruciales ya que el sol se pone temprano por la tarde.",
+              "Para entrar en calor, para con frecuencia en cafeterías y calienta manos y rostro."
             ]
           }
         }
@@ -1555,7 +1659,8 @@
             "de": "Mautstraße nach oben, fantastische Aussicht.",
             "hu": "Fizetős út vezet fel, a kilátás fantasztikus.",
             "ro": "Drum cu taxă până sus, priveliște fantastică.",
-            "en": "Toll road to the top, fantastic views."
+            "en": "Toll road to the top, fantastic views.",
+            "es": "Carretera de peaje hasta la cima, vistas fantásticas."
           }
         },
         {
@@ -1573,7 +1678,8 @@
             "de": "Parken Sie am Strand von Ondarreta.",
             "hu": "Parkoljon az Ondarreta strandnál.",
             "ro": "Parcați la plaja Ondarreta.",
-            "en": "Park near Ondarreta beach."
+            "en": "Park near Ondarreta beach.",
+            "es": "Aparca cerca de la playa de Ondarreta."
           }
         },
         {
@@ -1591,7 +1697,8 @@
             "de": "Toller Blick auf die Concha-Bucht.",
             "hu": "Nagyszerű kilátás a Concha öbölre.",
             "ro": "Vedere excelentă spre golful Concha.",
-            "en": "Great view of La Concha bay."
+            "en": "Great view of La Concha bay.",
+            "es": "Excelente vista de la bahía de La Concha."
           }
         },
         {
@@ -1609,7 +1716,8 @@
             "de": "Parken Sie am Hafen und wandern Sie hoch.",
             "hu": "Parkoljon a kikötőben és sétáljon fel.",
             "ro": "Parcați în port și urcați pe jos.",
-            "en": "Park at the port and walk up."
+            "en": "Park at the port and walk up.",
+            "es": "Aparca en el puerto y sube a pie."
           }
         },
         {
@@ -1627,7 +1735,8 @@
             "de": "Tiefgaragen im Zentrum nutzen.",
             "hu": "Használja a központi mélygarázsokat.",
             "ro": "Folosiți parcările subterane din centru.",
-            "en": "Use the underground parking in the center."
+            "en": "Use the underground parking in the center.",
+            "es": "Usa el parking subterráneo del centro."
           }
         },
         {
@@ -1645,7 +1754,8 @@
             "de": "Architektonisches Highlight am Abend.",
             "hu": "Építészeti látványosság az esti órákban.",
             "ro": "Atracție arhitecturală pe timp de seară.",
-            "en": "Architectural highlight in the evening."
+            "en": "Architectural highlight in the evening.",
+            "es": "Elemento arquitectónico destacado por la noche."
           }
         }
       ],
@@ -1653,7 +1763,8 @@
         "de": "Fahren Sie früh auf den Monte Igueldo, um die spektakuläre Bucht ohne Menschenmassen zu bewundern. Mittags bieten sich Stopps am Peine del Viento und beim Miramar-Palast an. Nachmittags parken Sie in der Nähe des Zentrums, um den Monte Urgull und die majestätische Kathedrale Buen Pastor zu besichtigen. Den Abschluss bildet ein Spaziergang beim auffälligen Kursaal.",
         "hu": "Autózzon fel korán a Monte Igueldóra, hogy elkerülje a tömeget és élvezze a látványos panorámát. Délben álljon meg a Peine del Viento szobroknál és a Miramar palotánál. Délután parkoljon le a központban, látogassa meg a Monte Urgullt és a Buen Pastor katedrálist. A napot a modern Kursaal épületénél zárhatja.",
         "ro": "Conduceți devreme pe Monte Igueldo pentru a admira priveliștea spectaculoasă fără aglomerație. La prânz, opriți la Peine del Viento și la Palatul Miramar. După-amiaza, parcați aproape de centru pentru a vizita Monte Urgull și maiestuoasa Catedrală Buen Pastor. Încheiați cu o plimbare pe lângă Kursaal.",
-        "en": "Drive up to Monte Igueldo early to beat the crowds and enjoy the spectacular bay panorama. Midday, stop by the Peine del Viento and the Miramar Palace. In the afternoon, park near the center to visit Monte Urgull and the majestic Buen Pastor Cathedral. Conclude with an evening walk near the striking Kursaal."
+        "en": "Drive up to Monte Igueldo early to beat the crowds and enjoy the spectacular bay panorama. Midday, stop by the Peine del Viento and the Miramar Palace. In the afternoon, park near the center to visit Monte Urgull and the majestic Buen Pastor Cathedral. Conclude with an evening walk near the striking Kursaal.",
+        "es": "Sube en coche a Monte Igueldo pronto para evitar multitudes y disfrutar del espectacular panorama de la bahía. A mediodía, pasa por el Peine del Viento y el Palacio de Miramar. Por la tarde, aparca cerca del centro para visitar Monte Urgull y la majestuosa Catedral del Buen Pastor. Termina con un paseo nocturno cerca del llamativo Kursaal."
       },
       "gastro_picks": {
         "de": [
@@ -1849,6 +1960,12 @@
           "Use underground parking garages (e.g., Boulevard or La Concha).",
           "Traffic can be very heavy during peak season.",
           "A car is perfect for day trips to surrounding Basque towns."
+        ],
+        "es": [
+          "El estacionamiento en la calle del centro está estrictamente regulado (OTA).",
+          "Usa aparcamientos subterráneos (p. ej., Boulevard o La Concha).",
+          "El tráfico puede ser muy intenso en temporada alta.",
+          "El coche es perfecto para excursiones de un día a los pueblos vascos cercanos."
         ]
       },
       "variants": {
@@ -1857,7 +1974,8 @@
             "de": "Fahren Sie früh auf den Monte Igueldo, um die spektakuläre Bucht ohne Menschenmassen zu bewundern. Mittags bieten sich Stopps am Peine del Viento und beim Miramar-Palast an. Nachmittags parken Sie in der Nähe des Zentrums, um den Monte Urgull und die majestätische Kathedrale Buen Pastor zu besichtigen. Den Abschluss bildet ein Spaziergang beim auffälligen Kursaal.",
             "hu": "Autózzon fel korán a Monte Igueldóra, hogy elkerülje a tömeget és élvezze a látványos panorámát. Délben álljon meg a Peine del Viento szobroknál és a Miramar palotánál. Délután parkoljon le a központban, látogassa meg a Monte Urgullt és a Buen Pastor katedrálist. A napot a modern Kursaal épületénél zárhatja.",
             "ro": "Conduceți devreme pe Monte Igueldo pentru a admira priveliștea spectaculoasă fără aglomerație. La prânz, opriți la Peine del Viento și la Palatul Miramar. După-amiaza, parcați aproape de centru pentru a vizita Monte Urgull și maiestuoasa Catedrală Buen Pastor. Încheiați cu o plimbare pe lângă Kursaal.",
-            "en": "Drive up to Monte Igueldo early to beat the crowds and enjoy the spectacular bay panorama. Midday, stop by the Peine del Viento and the Miramar Palace. In the afternoon, park near the center to visit Monte Urgull and the majestic Buen Pastor Cathedral. Conclude with an evening walk near the striking Kursaal."
+            "en": "Drive up to Monte Igueldo early to beat the crowds and enjoy the spectacular bay panorama. Midday, stop by the Peine del Viento and the Miramar Palace. In the afternoon, park near the center to visit Monte Urgull and the majestic Buen Pastor Cathedral. Conclude with an evening walk near the striking Kursaal.",
+            "es": "Sube en coche a Monte Igueldo pronto para evitar multitudes y disfrutar del espectacular panorama de la bahía. A mediodía, pasa por el Peine del Viento y el Palacio de Miramar. Por la tarde, aparca cerca del centro para visitar Monte Urgull y la majestuosa Catedral del Buen Pastor. Termina con un paseo nocturno cerca del llamativo Kursaal."
           },
           "stops": [
             {
@@ -1866,7 +1984,8 @@
                 "de": "Mautstraße nach oben, fantastische Aussicht.",
                 "hu": "Fizetős út vezet fel, a kilátás fantasztikus.",
                 "ro": "Drum cu taxă până sus, priveliște fantastică.",
-                "en": "Toll road to the top, fantastic views."
+                "en": "Toll road to the top, fantastic views.",
+                "es": "Carretera con peaje hasta la cima, vistas fantásticas."
               }
             },
             {
@@ -1875,7 +1994,8 @@
                 "de": "Parken Sie am Strand von Ondarreta.",
                 "hu": "Parkoljon az Ondarreta strandnál.",
                 "ro": "Parcați la plaja Ondarreta.",
-                "en": "Park near Ondarreta beach."
+                "en": "Park near Ondarreta beach.",
+                "es": "Aparca cerca de la playa de Ondarreta."
               }
             },
             {
@@ -1884,7 +2004,8 @@
                 "de": "Toller Blick auf die Concha-Bucht.",
                 "hu": "Nagyszerű kilátás a Concha öbölre.",
                 "ro": "Vedere excelentă spre golful Concha.",
-                "en": "Great view of La Concha bay."
+                "en": "Great view of La Concha bay.",
+                "es": "Excelente vista de la bahía de La Concha."
               }
             },
             {
@@ -1893,7 +2014,8 @@
                 "de": "Parken Sie am Hafen und wandern Sie hoch.",
                 "hu": "Parkoljon a kikötőben és sétáljon fel.",
                 "ro": "Parcați în port și urcați pe jos.",
-                "en": "Park at the port and walk up."
+                "en": "Park at the port and walk up.",
+                "es": "Aparca en el puerto y sube a pie."
               }
             },
             {
@@ -1902,7 +2024,8 @@
                 "de": "Tiefgaragen im Zentrum nutzen.",
                 "hu": "Használja a központi mélygarázsokat.",
                 "ro": "Folosiți parcările subterane din centru.",
-                "en": "Use the underground parking in the center."
+                "en": "Use the underground parking in the center.",
+                "es": "Usa el parking subterráneo del centro."
               }
             },
             {
@@ -1911,7 +2034,8 @@
                 "de": "Architektonisches Highlight am Abend.",
                 "hu": "Építészeti látványosság az esti órákban.",
                 "ro": "Atracție arhitecturală pe timp de seară.",
-                "en": "Architectural highlight in the evening."
+                "en": "Architectural highlight in the evening.",
+                "es": "Elemento arquitectónico destacado por la noche."
               }
             }
           ],
@@ -2109,6 +2233,12 @@
               "Use underground parking garages (e.g., Boulevard or La Concha).",
               "Traffic can be very heavy during peak season.",
               "A car is perfect for day trips to surrounding Basque towns."
+            ],
+            "es": [
+              "El estacionamiento en la calle del centro está estrictamente regulado (OTA).",
+              "Usa aparcamientos subterráneos (p. ej., Boulevard o La Concha).",
+              "El tráfico puede ser muy intenso en temporada alta.",
+              "El coche es perfecto para excursiones de un día a los pueblos vascos cercanos."
             ]
           }
         },
@@ -2117,7 +2247,8 @@
             "de": "Mit dem Auto sind Sie perfekt vor dem Regen geschützt. Beginnen Sie auf dem Monte Igueldo, wo Sie den Sturm sicher aus dem Wagen oder vom Aussichtspunkt beobachten können.\n\nMittags führt die Fahrt zum Peine del Viento und zum Palacio de Miramar. Parkplätze in der Nähe erlauben kurze Wege im Freien.\n\nNachmittags parken Sie nahe dem Monte Urgull. Ein kurzer, schattiger Spaziergang unter Bäumen bietet etwas Schutz, bevor es zur Kathedrale geht.\n\nDer Tag endet am Kursaal. Das nahegelegene Parkhaus ermöglicht einen trockenen Zugang zu den Glaswürfeln und der umliegenden Architektur.",
             "hu": "Autóval tökéletes védelmet élvezhet az eső ellen. Kezdjen a Monte Igueldón, ahol a kocsiból is figyelheti a viharos öblöt.\n\nDélben hajtson a Peine del Viento és a Miramar palota felé. A közeli parkolók lehetővé teszik a rövid, száraz sétákat.\n\nDélután parkoljon a Monte Urgull lábánál. A fák lombja némi védelmet nyújt a katedrálishoz vezető úton.\n\nA nap a Kursaalnál ér véget. A közeli mélygarázs garantálja, hogy száraz lábbal érkezzen az üvegkockákhoz és a nap végére.",
             "ro": "Cu mașina sunteți perfect protejat de ploaie. Începeți pe Monte Igueldo, unde puteți admira golful agitat direct din mașină.\n\nLa prânz, conduceți spre Peine del Viento și Palatul Miramar. Parcarea în apropiere vă scutește de plimbări lungi prin ploaie.\n\nDupă-amiaza parcați lângă Monte Urgull. Copacii oferă oarecare protecție pe drumul spre catedrală.\n\nZiua se încheie la Kursaal. Parcarea subterană din apropiere permite accesul uscat către interiorul modern al clădirii.",
-            "en": "Traveling by car provides the best protection from the rain. Start at Monte Igueldo, where you can watch the stormy bay from the comfort of your vehicle.\n\nAt midday, drive to Peine del Viento and Miramar Palace. Parking nearby allows for quick, dry transitions between sights.\n\nIn the afternoon, park near Monte Urgull. The tree cover provides some natural shelter before you continue to the Cathedral.\n\nFinish your day at the Kursaal. The large underground parking nearby ensures a dry arrival to the illuminated glass cubes."
+            "en": "Traveling by car provides the best protection from the rain. Start at Monte Igueldo, where you can watch the stormy bay from the comfort of your vehicle.\n\nAt midday, drive to Peine del Viento and Miramar Palace. Parking nearby allows for quick, dry transitions between sights.\n\nIn the afternoon, park near Monte Urgull. The tree cover provides some natural shelter before you continue to the Cathedral.\n\nFinish your day at the Kursaal. The large underground parking nearby ensures a dry arrival to the illuminated glass cubes.",
+            "es": "Viajar en coche ofrece la mejor protección contra la lluvia. Comienza en Monte Igueldo, desde donde puedes contemplar la bahía tormentosa desde la comodidad del vehículo.\n\nAl mediodía, conduce hasta el Peine del Viento y el Palacio de Miramar. Aparcar cerca permite transiciones rápidas y secas entre los puntos de interés.\n\nPor la tarde, aparca cerca de Monte Urgull. La cobertura de árboles proporciona cierto refugio natural antes de continuar hacia la Catedral.\n\nFinaliza el día en el Kursaal. El amplio parking subterráneo cercano asegura una llegada seca a los cubos de cristal iluminados."
           },
           "stops": [
             {
@@ -2126,7 +2257,8 @@
                 "de": "Nutzen Sie den Parkplatz direkt am Aussichtspunkt.",
                 "hu": "Használja a közvetlenül a kilátópontnál lévő parkolót.",
                 "ro": "Folosiți parcarea situată chiar lângă punctul de observație.",
-                "en": "Use the parking lot located directly at the viewpoint."
+                "en": "Use the parking lot located directly at the viewpoint.",
+                "es": "Usa el aparcamiento situado directamente en el mirador."
               }
             },
             {
@@ -2135,7 +2267,8 @@
                 "de": "Parken Sie am Ende der Ondarreta-Strandpromenade.",
                 "hu": "Parkoljon az Ondarreta strand sétányának végénél.",
                 "ro": "Parcați la capătul falezei plajei Ondarreta.",
-                "en": "Park at the very end of the Ondarreta beach promenade."
+                "en": "Park at the very end of the Ondarreta beach promenade.",
+                "es": "Aparca al final del paseo de la playa de Ondarreta."
               }
             },
             {
@@ -2144,7 +2277,8 @@
                 "de": "Kurzparkzonen befinden sich in der Nähe des Haupteingangs.",
                 "hu": "A főbejárat közelében találhatók rövid idejű parkolóhelyek.",
                 "ro": "Există locuri de parcare pe termen scurt lângă intrarea principală.",
-                "en": "Short-term parking zones are available near the main entrance."
+                "en": "Short-term parking zones are available near the main entrance.",
+                "es": "Zonas de aparcamiento de corta estancia disponibles cerca de la entrada principal."
               }
             },
             {
@@ -2153,7 +2287,8 @@
                 "de": "Parken Sie im Parkhaus am Hafen für kurzen Zugang zum Berg.",
                 "hu": "Parkoljon a kikötő melletti garázsban a könnyű feljutáshoz.",
                 "ro": "Parcați în garajul din port pentru acces rapid la munte.",
-                "en": "Park in the harbor garage for easy access to the hill paths."
+                "en": "Park in the harbor garage for easy access to the hill paths.",
+                "es": "Aparca en el garaje del puerto para acceder fácilmente a los senderos de la colina."
               }
             },
             {
@@ -2162,7 +2297,8 @@
                 "de": "Das Parkhaus 'Buen Pastor' liegt direkt unter dem Platz.",
                 "hu": "A 'Buen Pastor' mélygarázs közvetlenül a tér alatt található.",
                 "ro": "Parcarea subterană 'Buen Pastor' este chiar sub piață.",
-                "en": "The 'Buen Pastor' underground parking is directly under the square."
+                "en": "The 'Buen Pastor' underground parking is directly under the square.",
+                "es": "El parking subterráneo 'Buen Pastor' está justo debajo de la plaza."
               }
             },
             {
@@ -2171,7 +2307,8 @@
                 "de": "Das angeschlossene Parkhaus bietet direkten, trockenen Zugang.",
                 "hu": "A kapcsolódó mélygarázsból közvetlen, száraz út vezet be.",
                 "ro": "Parcarea subterană oferă acces direct și uscat în interior.",
-                "en": "The connected underground garage provides direct, dry access."
+                "en": "The connected underground garage provides direct, dry access.",
+                "es": "El garaje conectado ofrece acceso directo y seco."
               }
             }
           ],
@@ -2199,6 +2336,12 @@
               "Avoid trying to drive into the restricted Old Town streets.",
               "The viewpoints at Igueldo and Urgull are mystical in the rain.",
               "Watch out for deep puddles on the lower riverside roads."
+            ],
+            "es": [
+              "Usa la app 'Telpark' para pagar el aparcamiento fácilmente bajo la lluvia.",
+              "Evita intentar entrar con coche a las calles restringidas de la Parte Vieja.",
+              "Los miradores de Igueldo y Urgull son místicos bajo la lluvia.",
+              "Ten cuidado con los charcos profundos en las carreteras bajas del río."
             ]
           }
         },
@@ -2207,7 +2350,8 @@
             "de": "Ein Wintermorgen beginnt bequem mit der Fahrt zum Monte Igueldo. Genießen Sie die klare Sicht auf die winterliche Bucht aus der Wärme Ihres Wagens.\n\nMittags steuern Sie den Peine del Viento und Miramar an. Die klare Luft ermöglicht weite Blicke auf den stürmischen Ozean.\n\nNachmittags parken Sie nahe Monte Urgull und der Kathedrale. Die Stadt ist im Winter entspannter, und die Parkplatzsuche gestaltet sich einfacher.\n\nDer Abend endet am hell erleuchteten Kursaal. Die kurzen Wege von den Parkhäusern sorgen dafür, dass Sie die Kälte nur kurz spüren, bevor Sie die Abendstimmung genießen.",
             "hu": "A téli reggel kényelmesen kezdődik a Monte Igueldóra való felhajtással. Élvezze a tiszta kilátást a téli öbölre az autó melegéből.\n\nDélben látogasson el a Peine del Viento és Miramar helyszínekre. A tiszta levegő messzire enged látni a hullámzó óceánon.\n\nDélután parkoljon az Urgull-hegy és a katedrális közelében. A város télen nyugodtabb, a parkolás is egyszerűbb.\n\nAz este a Kursaalnál zárul. A mélygarázsok közelsége miatt csak rövid ideig kell a hidegben lennie a nap végén.",
             "ro": "O dimineață de iarnă începe confortabil cu urcarea pe Monte Igueldo. Bucurați-vă de vederea clară asupra golfului din căldura mașinii.\n\nLa prânz, vizitați Peine del Viento și Miramar. Aerul clar oferă o vizibilitate excelentă asupra oceanului agitat.\n\nDupă-amiaza parcați lângă Monte Urgull și catedrală. Orașul este mai relaxat iarna, iar găsirea unui loc de parcare este mai ușoară.\n\nSeara se încheie la Kursaal. Proximitatea parcărilor vă scutește de frigul de afară înainte de a vă bucura de seară.",
-            "en": "Start your winter morning with a comfortable drive up to Monte Igueldo. Enjoy the crisp views over the bay from the warmth of your car.\n\nAt midday, visit Peine del Viento and Miramar Palace. The clear winter air provides stunning long-distance views over the ocean.\n\nIn the afternoon, park near Monte Urgull and the Cathedral. The city is much quieter in winter, making parking easier than in summer.\n\nFinish your day at the brightly lit Kursaal. Short walks from the underground parking mean you stay warm while moving between attractions."
+            "en": "Start your winter morning with a comfortable drive up to Monte Igueldo. Enjoy the crisp views over the bay from the warmth of your car.\n\nAt midday, visit Peine del Viento and Miramar Palace. The clear winter air provides stunning long-distance views over the ocean.\n\nIn the afternoon, park near Monte Urgull and the Cathedral. The city is much quieter in winter, making parking easier than in summer.\n\nFinish your day at the brightly lit Kursaal. Short walks from the underground parking mean you stay warm while moving between attractions.",
+            "es": "Comienza tu mañana invernal con un cómodo paseo en coche hasta Monte Igueldo. Disfruta de las vistas nítidas de la bahía desde el calor del vehículo.\n\nA mediodía, visita el Peine del Viento y el Palacio de Miramar. El aire claro de invierno ofrece vistas de gran distancia sobre el océano.\n\nPor la tarde, aparca cerca de Monte Urgull y la Catedral. La ciudad está mucho más tranquila en invierno, lo que facilita encontrar aparcamiento en comparación con el verano.\n\nTermina el día en el Kursaal, brillantemente iluminado. Las cortas caminatas desde los parkings subterráneos te permiten mantener el calor entre atracciones."
           },
           "stops": [
             {
@@ -2216,7 +2360,8 @@
                 "de": "Die Zufahrtsstraße bietet tolle Blicke, aber Vorsicht bei Raureif.",
                 "hu": "Az út gyönyörű kilátást nyújt, de legyen óvatos a faggyal.",
                 "ro": "Drumul de acces oferă vederi superbe, dar atenție la polei.",
-                "en": "The access road offers great views, but be careful of morning frost."
+                "en": "The access road offers great views, but be careful of morning frost.",
+                "es": "La carretera de acceso ofrece buenas vistas, pero ten cuidado con la escarcha matinal."
               }
             },
             {
@@ -2225,7 +2370,8 @@
                 "de": "Nutzen Sie den windgeschützten Parkbereich am Ondarreta-Ende.",
                 "hu": "Használja a szélvédett parkolót az Ondarreta végénél.",
                 "ro": "Folosiți zona de parcare protejată de vânt de la capătul plajei.",
-                "en": "Use the wind-protected parking area at the end of Ondarreta."
+                "en": "Use the wind-protected parking area at the end of Ondarreta.",
+                "es": "Usa la zona de aparcamiento protegida del viento al final de Ondarreta."
               }
             },
             {
@@ -2234,7 +2380,8 @@
                 "de": "Die Parkplätze sind im Winter oft weniger belegt.",
                 "hu": "A parkolóhelyek télen általában kevésbé zsúfoltak.",
                 "ro": "Locurile de parcare sunt mai ușor de găsit în timpul iernii.",
-                "en": "Parking spaces are usually easier to find during the winter months."
+                "en": "Parking spaces are usually easier to find during the winter months.",
+                "es": "Normalmente es más fácil encontrar plazas de aparcamiento durante los meses de invierno."
               }
             },
             {
@@ -2243,7 +2390,8 @@
                 "de": "Parken Sie im Viertel 'Parte Vieja' nur in den Parkhäusern.",
                 "hu": "Az óváros környékén csak a mélygarázsokat használja.",
                 "ro": "În zona centrului vechi, folosiți doar parcările subterane.",
-                "en": "In the Old Town area, strictly stick to the underground garages."
+                "en": "In the Old Town area, strictly stick to the underground garages.",
+                "es": "En la zona de la Parte Vieja, fíjate estrictamente en usar los garajes subterráneos."
               }
             },
             {
@@ -2252,7 +2400,8 @@
                 "de": "Vom Parkhaus gelangen Sie direkt in das Einkaufszentrum.",
                 "hu": "A garázsból közvetlenül egy fűtött bevásárlónegyedbe ér.",
                 "ro": "Din parcare ajungeți direct într-o zonă comercială încălzită.",
-                "en": "The garage leads you directly into a heated shopping district."
+                "en": "The garage leads you directly into a heated shopping district.",
+                "es": "El garaje te conduce directamente a una zona comercial climatizada."
               }
             },
             {
@@ -2261,7 +2410,8 @@
                 "de": "Idealer Parkplatz, um das Stadtzentrum beleuchtet zu erkunden.",
                 "hu": "Ideális parkoló a kivilágított belváros felfedezéséhez.",
                 "ro": "Parcare ideală pentru a explora centrul luminat al orașului.",
-                "en": "Ideal parking spot to explore the illuminated city center."
+                "en": "Ideal parking spot to explore the illuminated city center.",
+                "es": "Lugar de aparcamiento ideal para explorar el centro iluminado."
               }
             }
           ],
@@ -2289,6 +2439,12 @@
               "Parking fees remain the same in winter as they are in summer.",
               "Check your tire pressure during sudden cold snaps.",
               "The best natural light for photography is between 11 AM and 2 PM."
+            ],
+            "es": [
+              "Los lugares altos como Igueldo pueden ser extremadamente ventosos en invierno.",
+              "Las tarifas de aparcamiento se mantienen iguales en invierno y en verano.",
+              "Revisa la presión de los neumáticos durante las bruscas bajadas de temperatura.",
+              "La mejor luz natural para fotografía es entre las 11:00 y las 14:00."
             ]
           }
         }
@@ -2317,7 +2473,8 @@
             "de": "Zentraler Knotenpunkt für Busse.",
             "hu": "A buszok központi csomópontja.",
             "ro": "Nod central pentru autobuze.",
-            "en": "Central hub for city buses."
+            "en": "Central hub for city buses.",
+            "es": "Nudo central de las líneas de autobús de la ciudad."
           }
         },
         {
@@ -2335,7 +2492,8 @@
             "de": "Die Bushaltestelle Boulevard ist ganz in der Nähe.",
             "hu": "A Boulevard buszmegálló nagyon közel van.",
             "ro": "Stația de autobuz Boulevard este foarte aproape.",
-            "en": "The Boulevard bus stop is very close by."
+            "en": "The Boulevard bus stop is very close by.",
+            "es": "La parada Boulevard está muy cerca."
           }
         },
         {
@@ -2353,7 +2511,8 @@
             "de": "Zeit für ein Pintxo-Mittagessen.",
             "hu": "Ideje egy pintxo ebédnek.",
             "ro": "Timpul pentru un prânz cu pintxos.",
-            "en": "Time for a pintxo lunch."
+            "en": "Time for a pintxo lunch.",
+            "es": "Hora de un almuerzo de pintxos."
           }
         },
         {
@@ -2371,7 +2530,8 @@
             "de": "Mehrere Buslinien fahren entlang der Promenade.",
             "hu": "Számos buszjárat közlekedik a sétány mentén.",
             "ro": "Mai multe linii de autobuz circulă pe promenadă.",
-            "en": "Multiple bus lines run along the promenade."
+            "en": "Multiple bus lines run along the promenade.",
+            "es": "Varias líneas de autobús circulan por el paseo."
           }
         },
         {
@@ -2389,7 +2549,8 @@
             "de": "Nehmen Sie den Bus bis zur Haltestelle Ondarreta.",
             "hu": "Utazzon busszal az Ondarreta megállóig.",
             "ro": "Luați autobuzul până la stația Ondarreta.",
-            "en": "Take the bus to the Ondarreta stop."
+            "en": "Take the bus to the Ondarreta stop.",
+            "es": "Toma el autobús hasta la parada Ondarreta."
           }
         },
         {
@@ -2407,7 +2568,8 @@
             "de": "Fahren Sie mit der historischen Standseilbahn hoch.",
             "hu": "Menjen fel a történelmi siklóval.",
             "ro": "Urcați cu funicularul istoric.",
-            "en": "Ride the historic funicular up to the top."
+            "en": "Ride the historic funicular up to the top.",
+            "es": "Sube en el funicular histórico hasta la cima."
           }
         }
       ],
@@ -2415,7 +2577,8 @@
         "de": "Nutzen Sie die effizienten lokalen Busse ab der Kathedrale Buen Pastor. Mittags fahren Sie in die Altstadt, um das San Telmo Museum zu besuchen und Pintxos zu probieren. Am Nachmittag bringt Sie der Bus entlang der La Concha Bucht zu den Skulpturen Peine del Viento. Nehmen Sie danach die Standseilbahn auf den Monte Igueldo für eine spektakuläre Abendansicht.",
         "hu": "Használja a hatékony helyi buszokat a Buen Pastor katedrálistól indulva. Délben menjen az óvárosba, látogassa meg a San Telmo Múzeumot és kóstoljon pintxosokat. Délután utazzon busszal a La Concha öböl mentén a Peine del Viento szobrokhoz. Ezután a történelmi siklóval menjen fel a Monte Igueldóra az esti panorámáért.",
         "ro": "Folosiți autobuzele locale eficiente, începând de la Catedrala Buen Pastor. La prânz, mergeți în Orașul Vechi pentru a vizita Muzeul San Telmo și a gusta pintxos. După-amiaza, luați un autobuz de-a lungul golfului La Concha până la sculpturile Peine del Viento. Apoi, urcați cu funicularul pe Monte Igueldo pentru o priveliște de seară.",
-        "en": "Use the efficient local buses starting at the Buen Pastor Cathedral. Midday, head to the Old Town to explore the San Telmo Museum and grab some pintxos. In the afternoon, catch a bus along La Concha to the Peine del Viento sculptures. Finally, ride the historic funicular up Monte Igueldo for a spectacular evening view."
+        "en": "Use the efficient local buses starting at the Buen Pastor Cathedral. Midday, head to the Old Town to explore the San Telmo Museum and grab some pintxos. In the afternoon, catch a bus along La Concha to the Peine del Viento sculptures. Finally, ride the historic funicular up Monte Igueldo for a spectacular evening view.",
+        "es": "Usa los eficientes autobuses locales empezando en la Catedral del Buen Pastor. A mediodía, dirígete a la Parte Vieja para visitar el Museo San Telmo y probar pintxos. Por la tarde, toma un autobús por La Concha hasta las esculturas del Peine del Viento. Finalmente, sube en el funicular histórico a Monte Igueldo para una vista espectacular al atardecer."
       },
       "gastro_picks": {
         "de": [
@@ -2611,6 +2774,12 @@
           "Buy a Mugi card for discounts if you are staying longer.",
           "Buses run late into the night as well (Búhos).",
           "The funicular to Monte Igueldo is a must-do and runs every 15 minutes."
+        ],
+        "es": [
+          "La red de autobuses (Dbus) es muy fiable y económica.",
+          "Compra una tarjeta Mugi para descuentos si te quedas varios días.",
+          "Los autobuses funcionan también hasta altas horas (Búhos).",
+          "El funicular a Monte Igueldo es imprescindible y sale cada 15 minutos."
         ]
       },
       "variants": {
@@ -2619,7 +2788,8 @@
             "de": "Nutzen Sie die effizienten lokalen Busse ab der Kathedrale Buen Pastor. Mittags fahren Sie in die Altstadt, um das San Telmo Museum zu besuchen und Pintxos zu probieren. Am Nachmittag bringt Sie der Bus entlang der La Concha Bucht zu den Skulpturen Peine del Viento. Nehmen Sie danach die Standseilbahn auf den Monte Igueldo für eine spektakuläre Abendansicht.",
             "hu": "Használja a hatékony helyi buszokat a Buen Pastor katedrálistól indulva. Délben menjen az óvárosba, látogassa meg a San Telmo Múzeumot és kóstoljon pintxosokat. Délután utazzon busszal a La Concha öböl mentén a Peine del Viento szobrokhoz. Ezután a történelmi siklóval menjen fel a Monte Igueldóra az esti panorámáért.",
             "ro": "Folosiți autobuzele locale eficiente, începând de la Catedrala Buen Pastor. La prânz, mergeți în Orașul Vechi pentru a vizita Muzeul San Telmo și a gusta pintxos. După-amiaza, luați un autobuz de-a lungul golfului La Concha până la sculpturile Peine del Viento. Apoi, urcați cu funicularul pe Monte Igueldo pentru o priveliște de seară.",
-            "en": "Use the efficient local buses starting at the Buen Pastor Cathedral. Midday, head to the Old Town to explore the San Telmo Museum and grab some pintxos. In the afternoon, catch a bus along La Concha to the Peine del Viento sculptures. Finally, ride the historic funicular up Monte Igueldo for a spectacular evening view."
+            "en": "Use the efficient local buses starting at the Buen Pastor Cathedral. Midday, head to the Old Town to explore the San Telmo Museum and grab some pintxos. In the afternoon, catch a bus along La Concha to the Peine del Viento sculptures. Finally, ride the historic funicular up Monte Igueldo for a spectacular evening view.",
+            "es": "Usa los eficientes autobuses locales empezando en la Catedral del Buen Pastor. A mediodía, dirígete a la Parte Vieja para visitar el Museo San Telmo y probar pintxos. Por la tarde, toma un autobús por La Concha hasta las esculturas del Peine del Viento. Finalmente, sube en el funicular histórico a Monte Igueldo para una vista espectacular al atardecer."
           },
           "stops": [
             {
@@ -2628,7 +2798,8 @@
                 "de": "Zentraler Knotenpunkt für Busse.",
                 "hu": "A buszok központi csomópontja.",
                 "ro": "Nod central pentru autobuze.",
-                "en": "Central hub for city buses."
+                "en": "Central hub for city buses.",
+                "es": "Nudo central de las líneas de autobús de la ciudad."
               }
             },
             {
@@ -2637,7 +2808,8 @@
                 "de": "Die Bushaltestelle Boulevard ist ganz in der Nähe.",
                 "hu": "A Boulevard buszmegálló nagyon közel van.",
                 "ro": "Stația de autobuz Boulevard este foarte aproape.",
-                "en": "The Boulevard bus stop is very close by."
+                "en": "The Boulevard bus stop is very close by.",
+                "es": "La parada Boulevard está muy cerca."
               }
             },
             {
@@ -2646,7 +2818,8 @@
                 "de": "Zeit für ein Pintxo-Mittagessen.",
                 "hu": "Ideje egy pintxo ebédnek.",
                 "ro": "Timpul pentru un prânz cu pintxos.",
-                "en": "Time for a pintxo lunch."
+                "en": "Time for a pintxo lunch.",
+                "es": "Hora de un almuerzo de pintxos."
               }
             },
             {
@@ -2655,7 +2828,8 @@
                 "de": "Mehrere Buslinien fahren entlang der Promenade.",
                 "hu": "Számos buszjárat közlekedik a sétány mentén.",
                 "ro": "Mai multe linii de autobuz circulă pe promenadă.",
-                "en": "Multiple bus lines run along the promenade."
+                "en": "Multiple bus lines run along the promenade.",
+                "es": "Varias líneas de autobús circulan por el paseo."
               }
             },
             {
@@ -2664,7 +2838,8 @@
                 "de": "Nehmen Sie den Bus bis zur Haltestelle Ondarreta.",
                 "hu": "Utazzon busszal az Ondarreta megállóig.",
                 "ro": "Luați autobuzul până la stația Ondarreta.",
-                "en": "Take the bus to the Ondarreta stop."
+                "en": "Take the bus to the Ondarreta stop.",
+                "es": "Toma el autobús hasta la parada Ondarreta."
               }
             },
             {
@@ -2673,7 +2848,8 @@
                 "de": "Fahren Sie mit der historischen Standseilbahn hoch.",
                 "hu": "Menjen fel a történelmi siklóval.",
                 "ro": "Urcați cu funicularul istoric.",
-                "en": "Ride the historic funicular up to the top."
+                "en": "Ride the historic funicular up to the top.",
+                "es": "Sube en el funicular histórico hasta la cima."
               }
             }
           ],
@@ -2871,6 +3047,12 @@
               "Buy a Mugi card for discounts if you are staying longer.",
               "Buses run late into the night as well (Búhos).",
               "The funicular to Monte Igueldo is a must-do and runs every 15 minutes."
+            ],
+            "es": [
+              "La red de autobuses (Dbus) es muy fiable y económica.",
+              "Compra una tarjeta Mugi para descuentos si te quedas varios días.",
+              "Los autobuses funcionan también hasta altas horas (Búhos).",
+              "El funicular a Monte Igueldo es imprescindible y sale cada 15 minutos."
             ]
           }
         },
@@ -2879,7 +3061,8 @@
             "de": "Die Dbus-Linien bringen Sie trocken durch die Stadt. Starten Sie an der Kathedrale und nehmen Sie den Bus zum San-Telmo-Museum, um die ersten Regenschauer im Inneren zu verbringen.\n\nMittags erreichen Sie die Altstadt bequem mit dem Bus. Die kurzen Wege zwischen den Haltestellen und den Pintxos-Bars halten Sie weitgehend trocken.\n\nNachmittags führt die Route zur Playa de la Concha und zum Peine del Viento. Die Busfahrt bietet einen tollen Blick auf die stürmische See, während Sie im Warmen sitzen.\n\nDer Tag endet mit der Fahrt zum Monte Igueldo. Nutzen Sie die Standseilbahn (Funicular), um den Gipfel trocken zu erreichen und die Aussicht auf die wolkenverhangene Bucht zu genießen.",
             "hu": "A Dbus járatai szárazon repítik át a városon. Kezdjen a katedrálisnál, majd buszozzon a San Telmo Múzeumhoz, hogy bent vészelje át az első záporokat.\n\nDélben a busz kényelmesen leteszi az óváros szélén. A megállók és a pintxos bárok közötti rövid távolság segít szárazon maradni.\n\nDélután a La Concha és a Peine del Viento következik. A busz ablakából csodálhatja a viharos tengert, miközben Ön a melegben utazik.\n\nA nap a Monte Igueldónál zárul. Használja a siklót (funicular), hogy szárazon érjen fel a tetőre és élvezze a ködös öböl látványát.",
             "ro": "Liniile Dbus vă poartă prin oraș fără să vă udați. Începeți la catedrală și luați autobuzul spre San Telmo pentru a petrece primele reprize de ploaie la interior.\n\nLa prânz, ajungeți rapid în centrul vechi. Distanțele mici între stații și barurile de pintxos vă ajută să rămâneți uscați.\n\nDupă-amiaza vizitați Playa de la Concha și Peine del Viento. Călătoria cu autobuzul oferă vederi frumoase spre marea agitată de la adăpost.\n\nZiua se încheie la Monte Igueldo. Folosiți funicularul pentru a ajunge pe culme uscat și pentru a admira priveliștea dramatică.",
-            "en": "San Sebastian's Dbus network keeps you dry as you explore. Start at the Cathedral and take a bus to San Telmo Museum to shelter from the morning rain.\n\nAt midday, buses drop you off right at the edge of the Old Town. Short walks between stops and pintxos bars mean you won't get too wet.\n\nIn the afternoon, head to La Concha and Peine del Viento. The bus ride offers great views of the stormy sea while you stay warm inside.\n\nFinish your day at Monte Igueldo. Use the classic funicular to reach the summit dry and enjoy the moody views over the clouded bay."
+            "en": "San Sebastian's Dbus network keeps you dry as you explore. Start at the Cathedral and take a bus to San Telmo Museum to shelter from the morning rain.\n\nAt midday, buses drop you off right at the edge of the Old Town. Short walks between stops and pintxos bars mean you won't get too wet.\n\nIn the afternoon, head to La Concha and Peine del Viento. The bus ride offers great views of the stormy sea while you stay warm inside.\n\nFinish your day at Monte Igueldo. Use the classic funicular to reach the summit dry and enjoy the moody views over the clouded bay.",
+            "es": "La red Dbus de San Sebastián te mantiene seco mientras exploras. Comienza en la Catedral y toma un autobús hasta el Museo San Telmo para refugiarte de la lluvia de la mañana.\n\nA mediodía, los autobuses te dejan en el borde de la Parte Vieja. Las cortas caminatas entre paradas y bares de pintxos hacen que no te mojes demasiado.\n\nPor la tarde, dirígete a La Concha y al Peine del Viento. El trayecto en autobús ofrece buenas vistas del mar agitado mientras te mantienes calentito dentro.\n\nTermina el día en Monte Igueldo. Usa el clásico funicular para subir a la cima seco y disfrutar de las vistas melancólicas sobre la bahía nublada."
           },
           "stops": [
             {
@@ -2888,7 +3071,8 @@
                 "de": "Zentrale Bushaltestellen befinden sich direkt an der Kathedrale.",
                 "hu": "Központi buszmegállók találhatók közvetlenül a katedrálisnál.",
                 "ro": "Stațiile centrale de autobuz sunt situate chiar lângă catedrală.",
-                "en": "Central bus stops are located right next to the Cathedral."
+                "en": "Central bus stops are located right next to the Cathedral.",
+                "es": "Las paradas centrales de autobús están junto a la Catedral."
               }
             },
             {
@@ -2897,7 +3081,8 @@
                 "de": "Die Haltestelle 'San Telmo' wird von mehreren Linien angefahren.",
                 "hu": "A 'San Telmo' megállót több buszjárat is érinti.",
                 "ro": "Stația 'San Telmo' este deservită de mai multe linii.",
-                "en": "The 'San Telmo' stop is served by several bus lines."
+                "en": "The 'San Telmo' stop is served by several bus lines.",
+                "es": "La parada 'San Telmo' está servida por varias líneas."
               }
             },
             {
@@ -2906,7 +3091,8 @@
                 "de": "Steigen Sie an der Haltestelle 'Boulevard' aus.",
                 "hu": "Szálljon le a 'Boulevard' megállónál, az óváros kapujában.",
                 "ro": "Coborâți la stația 'Boulevard' pentru acces rapid.",
-                "en": "Get off at the 'Boulevard' stop for the easiest access."
+                "en": "Get off at the 'Boulevard' stop for the easiest access.",
+                "es": "Bájate en la parada 'Boulevard' para el acceso más fácil."
               }
             },
             {
@@ -2915,7 +3101,8 @@
                 "de": "Busse halten entlang der gesamten Strandpromenade.",
                 "hu": "A buszok a teljes strandpromenád mentén megállnak.",
                 "ro": "Autobuzele opresc de-a lungul întregii faleze.",
-                "en": "Buses stop at various points along the entire beach promenade."
+                "en": "Buses stop at various points along the entire beach promenade.",
+                "es": "Los autobuses paran en varios puntos a lo largo de todo el paseo de la playa."
               }
             },
             {
@@ -2924,7 +3111,8 @@
                 "de": "Nehmen Sie die Linie 5 oder 25 bis zur Endstation.",
                 "hu": "Használja az 5-ös vagy 25-ös járatot a végállomásig.",
                 "ro": "Luați linia 5 sau 25 până la capătul traseului.",
-                "en": "Take line 5 or 25 all the way to the end of the line."
+                "en": "Take line 5 or 25 all the way to the end of the line.",
+                "es": "Toma la línea 5 o la 25 hasta el final de la línea."
               }
             },
             {
@@ -2933,7 +3121,8 @@
                 "de": "Die Talstation der Standseilbahn bietet Schutz vor Regen.",
                 "hu": "A sikló völgyállomása jó menedék az eső elől.",
                 "ro": "Stația de bază a funicularului oferă adăpost de ploaie.",
-                "en": "The lower funicular station provides good shelter from rain."
+                "en": "The lower funicular station provides good shelter from rain.",
+                "es": "La estación inferior del funicular ofrece buen refugio de la lluvia."
               }
             }
           ],
@@ -2961,6 +3150,12 @@
               "The Dbus app provides real-time arrival information.",
               "The funicular is the driest and most scenic way up Monte Igueldo.",
               "Pets are only allowed on buses if they are in small carriers."
+            ],
+            "es": [
+              "Usa una tarjeta 'Lurraldebus' o 'Mugi' para tarifas reducidas.",
+              "La app Dbus ofrece información de llegadas en tiempo real.",
+              "El funicular es la forma más seca y pintoresca de subir a Monte Igueldo.",
+              "Las mascotas solo se permiten en los autobuses si van en transportín pequeño."
             ]
           }
         },
@@ -2969,7 +3164,8 @@
             "de": "Ein klarer Wintermorgen lädt zur Fahrt zur Kathedrale ein. Die Busse sind gut beheizt und bringen Sie komfortabel zum San-Telmo-Museum.\n\nMittags erreichen Sie die Altstadt ohne Parkplatzsorgen. Genießen Sie die winterliche Atmosphäre der Parte Vieja, bevor Sie wieder in den Bus steigen.\n\nNachmittags geht es entlang der Concha zum Peine del Viento. Die tiefstehende Wintersonne sorgt für tolles Licht während der Fahrt entlang der Bucht.\n\nDer Tag endet mit einer romantischen Fahrt in der historischen Standseilbahn zum Monte Igueldo. Der Sonnenuntergang über der winterlichen Stadt ist von hier oben unvergesslich.",
             "hu": "A tiszta téli reggelen induljon buszozni a katedrálishoz. A járatok fűtöttek és kényelmesen repítik a San Telmo Múzeumhoz.\n\nDélben parkolási gondok nélkül érheti el az óvárost. Élvezze a Parte Vieja téli hangulatát, mielőtt visszaszállna a buszra.\n\nDélután a La Concha mentén haladva éri el a Peine del Viento szobrait. Az alacsonyan járó nap csodás fényeket vet az öbölre.\n\nA nap a Monte Igueldóra tartó nosztalgikus siklózással zárul. A téli város feletti naplemente innen fentről felejthetetlen élmény.",
             "ro": "O dimineață senină de iarnă vă invită la o plimbare spre catedrală. Autobuzele sunt bine încălzite și vă duc confortabil spre San Telmo.\n\nLa prânz, ajungeți în centrul vechi fără grija parcării. Bucurați-vă de atmosfera de iarnă din Parte Vieja înainte de a lua următorul autobuz.\n\nDupă-amiaza parcurgeți faleza spre Peine del Viento. Soarele jos de iarnă oferă o lumină superbă în timpul călătoriei de-a lungul golfului.\n\nZiua se încheie cu o călătorie romantică cu funicularul spre Monte Igueldo. Apusul peste orașul înghețat în timp este de neuitat.",
-            "en": "A clear winter morning is perfect for a bus ride to the Cathedral. The vehicles are well-heated, taking you comfortably to San Telmo Museum.\n\nAt midday, arrive in the Old Town without any parking stress. Enjoy the winter vibe of Parte Vieja before hopping back on a bus.\n\nIn the afternoon, travel along La Concha toward Peine del Viento. The low winter sun creates beautiful light effects across the bay during the ride.\n\nFinish your day with a nostalgic funicular ride up to Monte Igueldo. The winter sunset over the city from this height is truly unforgettable."
+            "en": "A clear winter morning is perfect for a bus ride to the Cathedral. The vehicles are well-heated, taking you comfortably to San Telmo Museum.\n\nAt midday, arrive in the Old Town without any parking stress. Enjoy the winter vibe of Parte Vieja before hopping back on a bus.\n\nIn the afternoon, travel along La Concha toward Peine del Viento. The low winter sun creates beautiful light effects across the bay during the ride.\n\nFinish your day with a nostalgic funicular ride up to Monte Igueldo. The winter sunset over the city from this height is truly unforgettable.",
+            "es": "Una mañana invernal despejada es perfecta para un viaje en autobús a la Catedral. Los vehículos están bien calefactados y te llevan cómodamente al Museo San Telmo.\n\nA mediodía, llega a la Parte Vieja sin preocuparte por aparcar. Disfruta del ambiente invernal antes de volver a subirte al autobús.\n\nPor la tarde, recorre La Concha hacia el Peine del Viento. El bajo sol invernal crea efectos de luz hermosos sobre la bahía durante el trayecto.\n\nTermina el día con un nostálgico viaje en funicular hasta Monte Igueldo. La puesta de sol invernal sobre la ciudad desde esta altura es inolvidable."
           },
           "stops": [
             {
@@ -2978,7 +3174,8 @@
                 "de": "Die Bushaltestellen sind im Winter weniger überfüllt.",
                 "hu": "A buszmegállók télen sokkal kevésbé zsúfoltak.",
                 "ro": "Stațiile de autobuz sunt mai libere în timpul iernii.",
-                "en": "Bus stops are much less crowded during the winter months."
+                "en": "Bus stops are much less crowded during the winter months.",
+                "es": "Las paradas de autobús están mucho menos concurridas en invierno."
               }
             },
             {
@@ -2987,7 +3184,8 @@
                 "de": "Ein kurzer Fußweg von der Haltestelle Boulevard führt hierher.",
                 "hu": "Rövid séta a Boulevard megállótól a múzeum bejárata.",
                 "ro": "O scurtă plimbare de la stația Boulevard vă duce la muzeu.",
-                "en": "A very short walk from the Boulevard stop leads to the museum."
+                "en": "A very short walk from the Boulevard stop leads to the museum.",
+                "es": "Una caminata muy corta desde la parada Boulevard conduce al museo."
               }
             },
             {
@@ -2996,7 +3194,8 @@
                 "de": "Busse fahren bis spät in die Nacht zurück in die Wohnviertel.",
                 "hu": "A buszok késő estig járnak a lakónegyedek felé.",
                 "ro": "Autobuzele circulă până târziu spre cartierele rezidențiale.",
-                "en": "Buses run until late at night back to the residential areas."
+                "en": "Buses run until late at night back to the residential areas.",
+                "es": "Los autobuses circulan hasta altas horas de la noche hacia las zonas residenciales."
               }
             },
             {
@@ -3005,7 +3204,8 @@
                 "de": "Genießen Sie die Aussicht von der beheizten oberen Etage mancher Busse.",
                 "hu": "Élvezze a kilátást egyes buszok fűtött felső szintjéről.",
                 "ro": "Bucurați-vă de priveliște de la etajul încălzit al unor autobuze.",
-                "en": "Enjoy the seaside view from the heated upper deck of some buses."
+                "en": "Enjoy the seaside view from the heated upper deck of some buses.",
+                "es": "Disfruta de la vista al mar desde la cubierta superior climatizada de algunos autobuses."
               }
             },
             {
@@ -3014,7 +3214,8 @@
                 "de": "Der Fußweg von der Haltestelle ist im Winter sehr belebend.",
                 "hu": "A megállótól vezető séta télen kifejezetten frissítő.",
                 "ro": "Plimbarea de la stație este foarte revigorantă iarna.",
-                "en": "The walk from the bus stop is very invigorating in winter."
+                "en": "The walk from the bus stop is very invigorating in winter.",
+                "es": "La caminata desde la parada de autobús es muy vigorizante en invierno."
               }
             },
             {
@@ -3023,7 +3224,8 @@
                 "de": "Prüfen Sie die Winter-Fahrpläne der Standseilbahn vorab.",
                 "hu": "Előre ellenőrizze a sikló téli menetrendjét.",
                 "ro": "Verificați orarul de iarnă al funicularului în prealabil.",
-                "en": "Check the funicular's winter schedule before you head out."
+                "en": "Check the funicular's winter schedule before you head out.",
+                "es": "Consulta el horario invernal del funicular antes de salir."
               }
             }
           ],
@@ -3051,6 +3253,12 @@
               "Service is more punctual due to less tourist traffic on the roads.",
               "Look for winter discounts on multi-trip transport passes.",
               "Use the enclosed bus shelters to hide from the freezing wind."
+            ],
+            "es": [
+              "Los autobuses suelen decorarse festivamente durante las fiestas.",
+              "El servicio es más puntual debido al menor tráfico turístico en las carreteras.",
+              "Busca descuentos de invierno en abonos de transporte para varios viajes.",
+              "Refúgiate del viento helado en los paradas de bus con marquesina."
             ]
           }
         }
@@ -3066,19 +3274,22 @@
       "de": "San Sebastian (Donostia auf Baskisch) ist zweisprachig: Baskisch und Spanisch sind offiziell, viele Schilder beidsprachig. Spanisch reicht ueberall, ein 'eskerrik asko' (danke auf Baskisch) erntet aber breite Laecheln. Englisch klappt sehr gut, Tourismus ist Profi-Level.",
       "hu": "San Sebastian (baszkul Donostia) ketnyelvu: a baszk es spanyol egyarant hivatalos, sok tabla ketnyelvu. A spanyol mindenhol elegseges, de egy 'eskerrik asko' (koszonom baszkul) szeles mosolyokat hoz. Az angol nagyon jol megy, a turizmus profi szinvonalu.",
       "ro": "San Sebastian (Donostia in basca) e bilingv: basca si spaniola sunt amandoua oficiale, multe semne sunt bilingve. Spaniola e suficienta peste tot, dar un 'eskerrik asko' (multumesc in basca) provoaca zambete largi. Engleza merge foarte bine, turismul e la nivel profesionist.",
-      "en": "San Sebastian (Donostia in Basque) is bilingual: Basque and Spanish are both official, with many bilingual signs. Spanish is enough everywhere, but an 'eskerrik asko' (Basque for thanks) earns broad smiles. English works very well — tourism is at professional level."
+      "en": "San Sebastian (Donostia in Basque) is bilingual: Basque and Spanish are both official, with many bilingual signs. Spanish is enough everywhere, but an 'eskerrik asko' (Basque for thanks) earns broad smiles. English works very well — tourism is at professional level.",
+      "es": "San Sebastián (Donostia en euskera) es bilingüe: euskera y español son oficiales, con muchos rótulos bilingües. El español basta en todas partes, pero un «eskerrik asko» (gracias en euskera) arranca amplias sonrisas. El inglés funciona muy bien: el turismo está a nivel profesional."
     },
     "best_time_to_visit": {
       "de": "Juni bis September fuer Strand und 22-26 Grad — aber August ist sehr voll wegen Filmfestival und Ferien. Mai und Oktober ruhiger, perfekt fuer Pintxos-Touren ohne Schlangen. Im Winter regnerisch und stuermisch, aber Surfer-Saison und Spas in vollem Betrieb.",
       "hu": "Junius-szeptember strandnak es 22-26 foknak — de augusztus nagyon zsufolt a filmfesztival es a szunet miatt. Majus es oktober csendesebb, tokeletes pintxos-turakra sorbanallas nelkul. Telen esos es viharos, de szorferszezon es a spak teljes uzemben.",
       "ro": "Iunie-septembrie pentru plaja si 22-26 grade, dar august e foarte aglomerat din cauza festivalului de film si vacantelor. Mai si octombrie sunt mai linistite, perfecte pentru tururi de pintxos fara cozi. Iarna ploioasa si vijelioasa, dar sezon de surf si spa-uri in plina activitate.",
-      "en": "June-September for the beach and 22-26°C — but August is very crowded thanks to the Film Festival and holidays. May and October are quieter, perfect for pintxos crawls without queues. Winter is rainy and stormy but surfer season, with spas in full swing."
+      "en": "June-September for the beach and 22-26°C — but August is very crowded thanks to the Film Festival and holidays. May and October are quieter, perfect for pintxos crawls without queues. Winter is rainy and stormy but surfer season, with spas in full swing.",
+      "es": "Junio-septiembre para la playa y 22-26°C, aunque agosto está muy concurrido por el Festival de Cine y las vacaciones. Mayo y octubre son más tranquilos, perfectos para recorrer pintxos sin colas. El invierno es lluvioso y tempestuoso, pero es temporada de surf y los balnearios están en pleno uso."
     },
     "neighborhood_warnings": {
       "de": "Eine der sichersten Staedte Spaniens, auch nachts entspannt. In der Parte Vieja (Altstadt) auf Pintxos-Touren am Wochenende auf Taschen achten — voll und Touristen-Hotspot. Strand La Concha vor Strömungen vorsichtig sein, bei rotem Wimpel nicht ins Wasser.",
       "hu": "Spanyolorszag egyik legbiztonsagosabb varosa, ejjel is laza. A Parte Vieja-ban (obvaros) hetvegi pintxos-turakon a taskara figyelj — tomott es turista-hotspot. A La Concha strandon az aramlatokra vigyazz, piros zaszlonal ne menj a vizbe.",
       "ro": "Unul din cele mai sigure orase din Spania, relaxat si noaptea. In Parte Vieja (centrul vechi) la tururi de pintxos in weekend atentie la genti, aglomerat si zona turistica. La plaja La Concha atentie la curenti, cand e steag rosu nu intra in apa.",
-      "en": "One of Spain's safest cities, relaxed even at night. In the Parte Vieja (old town) on weekend pintxos crawls, watch your bag — packed and a tourist hotspot. At La Concha beach mind the currents: don't enter the water on a red flag."
+      "en": "One of Spain's safest cities, relaxed even at night. In the Parte Vieja (old town) on weekend pintxos crawls, watch your bag — packed and a tourist hotspot. At La Concha beach mind the currents: don't enter the water on a red flag.",
+      "es": "Una de las ciudades más seguras de España, relajada incluso de noche. En la Parte Vieja durante los recorridos de pintxos de fin de semana, vigila tu bolso: se llena de gente y es zona turística. En la playa de La Concha, cuidado con las corrientes: no entres al agua con bandera roja."
     }
   }
 }

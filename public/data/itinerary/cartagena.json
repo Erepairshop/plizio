@@ -21,7 +21,8 @@
             "de": "Calle Mayor",
             "hu": "Calle Mayor",
             "ro": "Calle Mayor",
-            "en": "Calle Mayor"
+            "en": "Calle Mayor",
+            "es": "Calle Mayor"
           },
           "coords": [
             -0.9842,
@@ -36,7 +37,8 @@
             "de": "Achten Sie auf die blauen Fliesen am Boden.",
             "hu": "Figyeld a kék csempéket a burkolaton.",
             "ro": "Observați plăcile albastre de pe pavaj.",
-            "en": "Look for the blue tiles on the pavement."
+            "en": "Look for the blue tiles on the pavement.",
+            "es": "Busca los azulejos azules en el pavimento."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Palacio Consistorial",
             "hu": "Palacio Consistorial",
             "ro": "Palacio Consistorial",
-            "en": "Palacio Consistorial"
+            "en": "Palacio Consistorial",
+            "es": "Palacio Consistorial"
           },
           "coords": [
             -0.9835,
@@ -59,7 +62,8 @@
             "de": "Die Fassade ist nachts wunderschön beleuchtet.",
             "hu": "A homlokzat éjszaka kivilágítva a legszebb.",
             "ro": "Fațada este superb iluminată noaptea.",
-            "en": "The facade is beautifully lit at night."
+            "en": "The facade is beautifully lit at night.",
+            "es": "La fachada se ilumina maravillosamente por la noche."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Teatro Romano",
             "hu": "Teatro Romano",
             "ro": "Teatru Roman",
-            "en": "Roman Theatre"
+            "en": "Roman Theatre",
+            "es": "Teatro Romano"
           },
           "coords": [
             -0.9818,
@@ -82,7 +87,8 @@
             "de": "Der Eingang erfolgt über das moderne Museum.",
             "hu": "A bejárat a modern múzeumon keresztül van.",
             "ro": "Intrarea se face prin muzeul modern.",
-            "en": "Entrance is through the modern museum."
+            "en": "Entrance is through the modern museum.",
+            "es": "La entrada se realiza a través del museo moderno."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Catedral de Santa María la Vieja",
             "hu": "Catedral de Santa María la Vieja",
             "ro": "Catedrala Santa María la Vieja",
-            "en": "Cathedral of Santa María la Vieja"
+            "en": "Cathedral of Santa María la Vieja",
+            "es": "Catedral de Santa María la Vieja"
           },
           "coords": [
             -0.9812,
@@ -105,7 +112,8 @@
             "de": "Diese Ruine stammt aus dem 13. Jahrhundert.",
             "hu": "Ez a rom a 13. századból származik.",
             "ro": "Această ruină datează din secolul al XIII-lea.",
-            "en": "This ruin dates back to the 13th century."
+            "en": "This ruin dates back to the 13th century.",
+            "es": "Esta ruina data del siglo XIII."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Forum Romano Molinete",
             "hu": "Forum Romano Molinete",
             "ro": "Forum Roman Molinete",
-            "en": "Roman Forum Molinete"
+            "en": "Roman Forum Molinete",
+            "es": "Foro Romano Molinete"
           },
           "coords": [
             -0.9855,
@@ -128,7 +137,8 @@
             "de": "Besuchen Sie die antiken Thermalbäder.",
             "hu": "Nézd meg az antik termálfürdőket.",
             "ro": "Vizitați băile termale antice.",
-            "en": "Visit the ancient thermal baths."
+            "en": "Visit the ancient thermal baths.",
+            "es": "Visita los antiguos baños termales."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Castillo de la Concepción",
             "hu": "Castillo de la Concepción",
             "ro": "Castillo de la Concepción",
-            "en": "Concepción Castle"
+            "en": "Concepción Castle",
+            "es": "Castillo de la Concepción"
           },
           "coords": [
             -0.9785,
@@ -151,7 +162,8 @@
             "de": "Der Panoramalift erspart den steilen Aufstieg.",
             "hu": "A panorámalift megkímél a meredek lépcsőzéstől.",
             "ro": "Liftul panoramic vă scutește de urcarea abruptă.",
-            "en": "The panoramic lift saves you the steep climb."
+            "en": "The panoramic lift saves you the steep climb.",
+            "es": "El ascensor panorámico evita la subida empinada."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Muralla del Mar",
             "hu": "Muralla del Mar",
             "ro": "Zidul Mării",
-            "en": "Sea Wall"
+            "en": "Sea Wall",
+            "es": "Muro marítimo"
           },
           "coords": [
             -0.9822,
@@ -174,7 +187,8 @@
             "de": "Perfekt für einen Spaziergang im Sonnenuntergang.",
             "hu": "Tökéletes helyszín egy naplementés sétához.",
             "ro": "Perfect pentru o plimbare la apus.",
-            "en": "Perfect for a sunset stroll."
+            "en": "Perfect for a sunset stroll.",
+            "es": "Perfecto para pasear al atardecer."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Der Morgen beginnt in der Calle Mayor, dem Herzstück der modernistischen Architektur der Stadt. Mittags tauchen wir im römischen Theater tief in die antike Geschichte ein, bevor wir die Ruinen der alten Kathedrale besichtigen. Der Nachmittag gehört den Ausgrabungen des Forums und dem Aufstieg zur Burg für den besten Ausblick. Den Abend lassen wir an der massiven Seemauer am Hafen ausklingen.",
         "hu": "A reggel a Calle Mayor elegáns épületei között indul, ahol a városháza homlokzata uralja a teret. Délben a római színház monumentális lépcsőin pihenünk meg, majd a katedrális romjait érintve érjük el a Molinete fórumot. A délutáni kaptató a várhegyre kifizetődik a kikötői panorámáért. Az estét a tengeri fal mentén, a sós levegőt élvezve zárjuk, figyelve a hajók mozgását.",
         "ro": "Dimineața începe pe Calle Mayor, inima arhitecturii moderniste a orașului. La prânz, ne scufundăm în istoria antică la teatrul roman, înainte de a vizita ruinele vechii catedrale. După-amiaza este dedicată excavărilor din forum și urcării la castel pentru cea mai bună vedere. Seara se încheie la zidul masiv al mării, lângă port, unde briza mediteraneană răcorește străzile istorice.",
-        "en": "The morning begins on Calle Mayor, the heart of the city's modernist architecture. At noon, we dive deep into ancient history at the Roman Theatre before visiting the ruins of the old cathedral. The afternoon is dedicated to the excavations of the Forum and the climb to the castle for the best viewpoint. We end the evening by the massive Sea Wall at the harbor, watching the naval activity."
+        "en": "The morning begins on Calle Mayor, the heart of the city's modernist architecture. At noon, we dive deep into ancient history at the Roman Theatre before visiting the ruins of the old cathedral. The afternoon is dedicated to the excavations of the Forum and the climb to the castle for the best viewpoint. We end the evening by the massive Sea Wall at the harbor, watching the naval activity.",
+        "es": "La mañana empieza en la Calle Mayor, corazón de la arquitectura modernista de la ciudad. Al mediodía nos sumergimos en la historia antigua en el Teatro Romano antes de visitar las ruinas de la antigua catedral. La tarde se dedica a las excavaciones del Foro y a la subida al castillo para obtener las mejores vistas. Terminamos la noche junto al enorme muro marítimo en el puerto, observando la actividad naval."
       },
       "gastro_picks": {
         "de": [
@@ -326,6 +341,12 @@
           "Buy the combined ticket for all archaeological sites.",
           "Avoid siesta hours (2-5 PM) for shopping.",
           "The lift to the castle has a small fee."
+        ],
+        "es": [
+          "Lleva calzado cómodo para los adoquines.",
+          "Compra la entrada combinada para todos los yacimientos arqueológicos.",
+          "Evita las horas de siesta (14:00-17:00) para ir de compras.",
+          "El ascensor al castillo tiene un pequeño coste."
         ]
       },
       "variants": {
@@ -334,7 +355,8 @@
             "de": "Der Morgen beginnt in der Calle Mayor, dem Herzstück der modernistischen Architektur der Stadt. Mittags tauchen wir im römischen Theater tief in die antike Geschichte ein, bevor wir die Ruinen der alten Kathedrale besichtigen. Der Nachmittag gehört den Ausgrabungen des Forums und dem Aufstieg zur Burg für den besten Ausblick. Den Abend lassen wir an der massiven Seemauer am Hafen ausklingen.",
             "hu": "A reggel a Calle Mayor elegáns épületei között indul, ahol a városháza homlokzata uralja a teret. Délben a római színház monumentális lépcsőin pihenünk meg, majd a katedrális romjait érintve érjük el a Molinete fórumot. A délutáni kaptató a várhegyre kifizetődik a kikötői panorámáért. Az estét a tengeri fal mentén, a sós levegőt élvezve zárjuk, figyelve a hajók mozgását.",
             "ro": "Dimineața începe pe Calle Mayor, inima arhitecturii moderniste a orașului. La prânz, ne scufundăm în istoria antică la teatrul roman, înainte de a vizita ruinele vechii catedrale. După-amiaza este dedicată excavărilor din forum și urcării la castel pentru cea mai bună vedere. Seara se încheie la zidul masiv al mării, lângă port, unde briza mediteraneană răcorește străzile istorice.",
-            "en": "The morning begins on Calle Mayor, the heart of the city's modernist architecture. At noon, we dive deep into ancient history at the Roman Theatre before visiting the ruins of the old cathedral. The afternoon is dedicated to the excavations of the Forum and the climb to the castle for the best viewpoint. We end the evening by the massive Sea Wall at the harbor, watching the naval activity."
+            "en": "The morning begins on Calle Mayor, the heart of the city's modernist architecture. At noon, we dive deep into ancient history at the Roman Theatre before visiting the ruins of the old cathedral. The afternoon is dedicated to the excavations of the Forum and the climb to the castle for the best viewpoint. We end the evening by the massive Sea Wall at the harbor, watching the naval activity.",
+            "es": "La mañana comienza en la Calle Mayor, corazón de la arquitectura modernista de la ciudad. Al mediodía nos sumergimos en la historia antigua en el Teatro Romano antes de visitar las ruinas de la antigua catedral. La tarde se dedica a las excavaciones del Foro y a la subida al castillo para obtener las mejores vistas. Terminamos la noche junto al enorme muro marítimo en el puerto, observando la actividad naval."
           },
           "stops": [
             {
@@ -342,13 +364,15 @@
                 "de": "Calle Mayor",
                 "hu": "Calle Mayor",
                 "ro": "Calle Mayor",
-                "en": "Calle Mayor"
+                "en": "Calle Mayor",
+                "es": "Calle Mayor"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf die blauen Fliesen am Boden.",
                 "hu": "Figyeld a kék csempéket a burkolaton.",
                 "ro": "Observați plăcile albastre de pe pavaj.",
-                "en": "Look for the blue tiles on the pavement."
+                "en": "Look for the blue tiles on the pavement.",
+                "es": "Busca los azulejos azules en el pavimento."
               }
             },
             {
@@ -356,13 +380,15 @@
                 "de": "Palacio Consistorial",
                 "hu": "Palacio Consistorial",
                 "ro": "Palacio Consistorial",
-                "en": "Palacio Consistorial"
+                "en": "Palacio Consistorial",
+                "es": "Palacio Consistorial"
               },
               "tip_5lang": {
                 "de": "Die Fassade ist nachts wunderschön beleuchtet.",
                 "hu": "A homlokzat éjszaka kivilágítva a legszebb.",
                 "ro": "Fațada este superb iluminată noaptea.",
-                "en": "The facade is beautifully lit at night."
+                "en": "The facade is beautifully lit at night.",
+                "es": "La fachada se ilumina maravillosamente por la noche."
               }
             },
             {
@@ -370,13 +396,15 @@
                 "de": "Teatro Romano",
                 "hu": "Teatro Romano",
                 "ro": "Teatru Roman",
-                "en": "Roman Theatre"
+                "en": "Roman Theatre",
+                "es": "Teatro Romano"
               },
               "tip_5lang": {
                 "de": "Der Eingang erfolgt über das moderne Museum.",
                 "hu": "A bejárat a modern múzeumon keresztül van.",
                 "ro": "Intrarea se face prin muzeul modern.",
-                "en": "Entrance is through the modern museum."
+                "en": "Entrance is through the modern museum.",
+                "es": "La entrada se realiza a través del museo moderno."
               }
             },
             {
@@ -384,13 +412,15 @@
                 "de": "Catedral de Santa María la Vieja",
                 "hu": "Catedral de Santa María la Vieja",
                 "ro": "Catedrala Santa María la Vieja",
-                "en": "Cathedral of Santa María la Vieja"
+                "en": "Cathedral of Santa María la Vieja",
+                "es": "Catedral de Santa María la Vieja"
               },
               "tip_5lang": {
                 "de": "Diese Ruine stammt aus dem 13. Jahrhundert.",
                 "hu": "Ez a rom a 13. századból származik.",
                 "ro": "Această ruină datează din secolul al XIII-lea.",
-                "en": "This ruin dates back to the 13th century."
+                "en": "This ruin dates back to the 13th century.",
+                "es": "Esta ruina data del siglo XIII."
               }
             },
             {
@@ -398,13 +428,15 @@
                 "de": "Forum Romano Molinete",
                 "hu": "Forum Romano Molinete",
                 "ro": "Forum Roman Molinete",
-                "en": "Roman Forum Molinete"
+                "en": "Roman Forum Molinete",
+                "es": "Foro Romano Molinete"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die antiken Thermalbäder.",
                 "hu": "Nézd meg az antik termálfürdőket.",
                 "ro": "Vizitați băile termale antice.",
-                "en": "Visit the ancient thermal baths."
+                "en": "Visit the ancient thermal baths.",
+                "es": "Visita los antiguos baños termales."
               }
             },
             {
@@ -412,13 +444,15 @@
                 "de": "Castillo de la Concepción",
                 "hu": "Castillo de la Concepción",
                 "ro": "Castillo de la Concepción",
-                "en": "Concepción Castle"
+                "en": "Concepción Castle",
+                "es": "Castillo de la Concepción"
               },
               "tip_5lang": {
                 "de": "Der Panoramalift erspart den steilen Aufstieg.",
                 "hu": "A panorámalift megkímél a meredek lépcsőzéstől.",
                 "ro": "Liftul panoramic vă scutește de urcarea abruptă.",
-                "en": "The panoramic lift saves you the steep climb."
+                "en": "The panoramic lift saves you the steep climb.",
+                "es": "El ascensor panorámico evita la subida empinada."
               }
             },
             {
@@ -426,13 +460,15 @@
                 "de": "Muralla del Mar",
                 "hu": "Muralla del Mar",
                 "ro": "Zidul Mării",
-                "en": "Sea Wall"
+                "en": "Sea Wall",
+                "es": "Muro marítimo"
               },
               "tip_5lang": {
                 "de": "Perfekt für einen Spaziergang im Sonnenuntergang.",
                 "hu": "Tökéletes helyszín egy naplementés sétához.",
                 "ro": "Perfect pentru o plimbare la apus.",
-                "en": "Perfect for a sunset stroll."
+                "en": "Perfect for a sunset stroll.",
+                "es": "Perfecto para pasear al atardecer."
               }
             }
           ],
@@ -578,6 +614,12 @@
               "Buy the combined ticket for all archaeological sites.",
               "Avoid siesta hours (2-5 PM) for shopping.",
               "The lift to the castle has a small fee."
+            ],
+            "es": [
+              "Lleva calzado cómodo para los adoquines.",
+              "Compra la entrada combinada para todos los yacimientos arqueológicos.",
+              "Evita las horas de siesta (14:00-17:00) para ir de compras.",
+              "El ascensor al castillo tiene un pequeño coste."
             ]
           }
         },
@@ -586,7 +628,8 @@
             "de": "Morgens bietet die Calle Mayor Schutz unter den Balkonen. Mittags erkunden Sie den überdachten Teil des Römischen Forums Molinete. Der Nachmittag gehört dem geschützten Museum des Römischen Theaters. Abends genießen Sie den Blick auf den Hafen vom überdachten Besucherzentrum der Burg aus, während der Regen auf die alten Mauern peitscht.",
             "hu": "Reggel a Calle Mayor erkélyei alatt vagy egy hangulatos kávézóban kezdjük. Délben a Molinete régészeti park modern védőtetője alatt maradunk szárazon. Délután a Római Színház múzeumi része kínál menedéket a csapadék elől. Estére a vár látogatóközpontjából csodáljuk a kikötőt, elkerülve a csúszós szabadtéri lépcsőket.",
             "ro": "Dimineața, Calle Mayor oferă adăpost sub balcoanele sale elegante. La prânz, explorăm parcul arheologic Molinete, protejat de un acoperiș modern vast. După-amiaza este dedicată muzeului interior al Teatrului Roman. Seara, centrul de vizitatori al castelului oferă o priveliște superbă asupra portului, ferindu-vă de ploaia de coastă.",
-            "en": "Morning starts under the balconies of Calle Mayor. At noon, the massive canopy of the Roman Forum Molinete keeps you dry while exploring ruins. Afternoon is spent inside the excellent Roman Theatre Museum. In the evening, the castle's visitor center provides a sheltered vantage point to watch the rain over the Mediterranean port."
+            "en": "Morning starts under the balconies of Calle Mayor. At noon, the massive canopy of the Roman Forum Molinete keeps you dry while exploring ruins. Afternoon is spent inside the excellent Roman Theatre Museum. In the evening, the castle's visitor center provides a sheltered vantage point to watch the rain over the Mediterranean port.",
+            "es": "La mañana comienza bajo los balcones de la Calle Mayor. Al mediodía, la gran cubierta del Foro Romano Molinete te resguarda mientras exploras las ruinas. La tarde se pasa en el excelente Museo del Teatro Romano. Por la noche, el centro de visitantes del castillo ofrece un mirador cubierto para ver la lluvia sobre el puerto mediterráneo."
           },
           "stops": [
             {
@@ -595,7 +638,8 @@
                 "de": "Nutzen Sie die Arkaden und Cafés als Regenschutz.",
                 "hu": "Használja az erkélyeket és kávézókat esernyő helyett.",
                 "ro": "Folosiți arcadele și cafenelele pentru a evita ploaia.",
-                "en": "Use the shop awnings and cafes to stay dry."
+                "en": "Use the shop awnings and cafes to stay dry.",
+                "es": "Usa los toldos de las tiendas y las cafeterías para cubrirte de la lluvia."
               }
             },
             {
@@ -604,7 +648,8 @@
                 "de": "Besichtigung des prächtigen Innenraums ist ideal bei Regen.",
                 "hu": "A pompás belső terek látogatása tökéletes esős időben.",
                 "ro": "Vizitarea interiorului somptuos este ideală pe ploaie.",
-                "en": "Touring the grand interior is perfect for rainy days."
+                "en": "Touring the grand interior is perfect for rainy days.",
+                "es": "Recorrer el grandioso interior es perfecto para los días de lluvia."
               }
             },
             {
@@ -613,7 +658,8 @@
                 "de": "Der Großteil des Museums ist unterirdisch und trocken.",
                 "hu": "A múzeum nagy része a föld alatt van, teljesen száraz.",
                 "ro": "Cea mai mare parte a muzeului este subterană și uscată.",
-                "en": "Most of the museum is underground and stay dry."
+                "en": "Most of the museum is underground and stay dry.",
+                "es": "La mayor parte del museo está bajo tierra y se mantiene seca."
               }
             },
             {
@@ -622,7 +668,8 @@
                 "de": "Vorsicht, die Ruinen haben keinen Regenschutz.",
                 "hu": "Vigyázat, a romok felett nincs tető, gyors megálló.",
                 "ro": "Atenție, ruinele nu au acoperiș, vizită rapidă.",
-                "en": "Warning: the ruins have no roof; keep the visit brief."
+                "en": "Warning: the ruins have no roof; keep the visit brief.",
+                "es": "Aviso: las ruinas no tienen techo; mantén la visita breve."
               }
             },
             {
@@ -631,7 +678,8 @@
                 "de": "Ein riesiges Dach schützt die Ausgrabungen vor Regen.",
                 "hu": "Hatalmas védőtető óvja a romokat az esőtől.",
                 "ro": "Un acoperiș gigant protejează ruinele de ploaie.",
-                "en": "A massive canopy protects the excavations from rain."
+                "en": "A massive canopy protects the excavations from rain.",
+                "es": "Una gran cubierta protege las excavaciones de la lluvia."
               }
             },
             {
@@ -640,7 +688,8 @@
                 "de": "Nutzen Sie den Panoramalift, um nasse Wege zu vermeiden.",
                 "hu": "Használja a panorámaliftet a vizes emelkedők helyett.",
                 "ro": "Folosiți liftul panoramic pentru a evita potecile ude.",
-                "en": "Take the panoramic lift to avoid slippery outdoor paths."
+                "en": "Take the panoramic lift to avoid slippery outdoor paths.",
+                "es": "Toma el ascensor panorámico para evitar los senderos exteriores resbaladizos."
               }
             },
             {
@@ -649,7 +698,8 @@
                 "de": "Die Mauer ist exponiert, kurzer Blick auf die Gischt.",
                 "hu": "A fal mentén erős lehet a szél, csak rövid séta.",
                 "ro": "Zidul este expus, faceți doar o scurtă plimbare.",
-                "en": "The wall is very exposed; watch the waves briefly."
+                "en": "The wall is very exposed; watch the waves briefly.",
+                "es": "El muro está muy expuesto; observa las olas brevemente."
               }
             }
           ],
@@ -681,6 +731,13 @@
               "Stop at Calle Mayor cafes to wait out heavy showers.",
               "Be careful on the polished marble floors in the old town.",
               "Raincoats are better than umbrellas due to coastal winds."
+            ],
+            "es": [
+              "Usa el ascensor panorámico al castillo para evitar escaleras húmedas y resbaladizas.",
+              "El Foro del Molinete es ideal para la lluvia, ya que está mayoritariamente cubierto.",
+              "Detente en las cafeterías de la Calle Mayor para esperar los chubascos fuertes.",
+              "Ten cuidado con los suelos de mármol pulido en el casco antiguo.",
+              "Los impermeables son mejores que los paraguas por los vientos costeros."
             ]
           }
         },
@@ -689,7 +746,8 @@
             "de": "Der Morgen beginnt frisch auf der Calle Mayor bei mildem Winterlicht. Mittags wärmt die Sonne die antiken Steine des Römischen Forums. Nachmittags erkunden Sie die Burg Concepción, wenn die Luft kristallklar ist. Abends bietet die Stadtmauer einen spektakulären Blick auf den frühen Sonnenuntergang über dem Mittelmeer.",
             "hu": "A reggel frissen indul a Calle Mayoron a téli napsütésben. Délben a Római Fórum kövei magukba szívják a déli hőt, kellemessé téve a sétát. Délután a Concepción-várat keressük fel a tiszta téli levegőben. Este a városfalról csodáljuk meg a korai naplementét, amely ilyenkor különösen narancssárga.",
             "ro": "Dimineața începe cu aer proaspăt pe Calle Mayor în lumina blândă a iernii. La prânz, soarele încălzește pietrele antice ale Forumului Roman. După-amiaza explorăm Castelul Concepción în aerul curat de coastă. Seara oferă o priveliște spectaculoasă a apusului timpuriu de pe zidul vechi al orașului.",
-            "en": "Morning begins with crisp air on Calle Mayor under soft winter light. At noon, the sun warms the ancient stones of the Roman Forum. Afternoon is perfect for the climb to Concepción Castle in the clear Mediterranean air. In the evening, the sea wall provides a front-row seat for the early, vivid winter sunset."
+            "en": "Morning begins with crisp air on Calle Mayor under soft winter light. At noon, the sun warms the ancient stones of the Roman Forum. Afternoon is perfect for the climb to Concepción Castle in the clear Mediterranean air. In the evening, the sea wall provides a front-row seat for the early, vivid winter sunset.",
+            "es": "La mañana empieza con el aire fresco en la Calle Mayor bajo una suave luz invernal. Al mediodía, el sol calienta las antiguas piedras del Foro Romano. La tarde es perfecta para la subida al Castillo de la Concepción con el claro aire mediterráneo. Por la noche, el muro marítimo ofrece un asiento de primera fila para el temprano y vívido atardecer invernal."
           },
           "stops": [
             {
@@ -698,7 +756,8 @@
                 "de": "Genießen Sie die Sonne in den Straßencafés.",
                 "hu": "Élvezze a téli napsütést a teraszokon.",
                 "ro": "Bucurați-vă de soarele iernii la terase.",
-                "en": "Enjoy the winter sun at the outdoor terraces."
+                "en": "Enjoy the winter sun at the outdoor terraces.",
+                "es": "Disfruta del sol invernal en las terrazas al aire libre."
               }
             },
             {
@@ -707,7 +766,8 @@
                 "de": "Die Fassade leuchtet besonders schön im Winterlicht.",
                 "hu": "A homlokzat gyönyörűen csillog a téli fényben.",
                 "ro": "Fațada strălucește frumos în lumina iernii.",
-                "en": "The facade glows beautifully in the winter light."
+                "en": "The facade glows beautifully in the winter light.",
+                "es": "La fachada brilla hermosamente con la luz invernal."
               }
             },
             {
@@ -716,7 +776,8 @@
                 "de": "Ideal zur Mittagszeit, wenn es draußen mild ist.",
                 "hu": "Ideális délidőben, amikor kint is enyhe az idő.",
                 "ro": "Ideal la prânz, când vremea este blândă afară.",
-                "en": "Great at midday when the temperature is mild."
+                "en": "Great at midday when the temperature is mild.",
+                "es": "Excelente al mediodía cuando la temperatura es suave."
               }
             },
             {
@@ -725,7 +786,8 @@
                 "de": "Windgeschützte Ecken in den Ruinen suchen.",
                 "hu": "Keressen szélvédett sarkokat a romok között.",
                 "ro": "Căutați colțuri ferite de vânt printre ruine.",
-                "en": "Look for wind-sheltered spots among the ruins."
+                "en": "Look for wind-sheltered spots among the ruins.",
+                "es": "Busca lugares resguardados del viento entre las ruinas."
               }
             },
             {
@@ -734,7 +796,8 @@
                 "de": "Die Wintersonne erreicht viele Bereiche des Forums.",
                 "hu": "A téli nap jól bevilágítja a fórum területét.",
                 "ro": "Soarele de iarnă luminează bine zona forumului.",
-                "en": "Winter sun reaches many parts of the forum site."
+                "en": "Winter sun reaches many parts of the forum site.",
+                "es": "El sol invernal alcanza muchas zonas del yacimiento del foro."
               }
             },
             {
@@ -743,7 +806,8 @@
                 "de": "Bester Ort für den Sonnenuntergang gegen 17:50 Uhr.",
                 "hu": "A legjobb hely a naplemente nézéséhez 17:50 körül.",
                 "ro": "Cel mai bun loc pentru apus în jurul orei 17:50.",
-                "en": "Best spot for the sunset around 17:50."
+                "en": "Best spot for the sunset around 17:50.",
+                "es": "Mejor lugar para el atardecer alrededor de las 17:50."
               }
             },
             {
@@ -752,7 +816,8 @@
                 "de": "Warme Jacke nötig wegen der kühlen Meeresbrise.",
                 "hu": "Meleg kabát kell a hűvös tengeri szél miatt.",
                 "ro": "Geacă groasă necesară din cauza vântului marin.",
-                "en": "Warm jacket needed for the cool sea breeze."
+                "en": "Warm jacket needed for the cool sea breeze.",
+                "es": "Se necesita chaqueta caliente por la fresca brisa marina."
               }
             }
           ],
@@ -784,6 +849,13 @@
               "Dress in layers for the varying sun and shade temperatures.",
               "Museums are well-heated and perfect for warming up.",
               "The sea breeze in the port can be biting in winter."
+            ],
+            "es": [
+              "El sol pega fuerte al mediodía, pero las sombras siguen frías.",
+              "El atardecer ocurre temprano, alrededor de las 17:45 en pleno invierno.",
+              "Vístete en capas por las diferencias de temperatura entre sol y sombra.",
+              "Los museos están bien calefactados y son perfectos para entrar en calor.",
+              "La brisa marina en el puerto puede ser cortante en invierno."
             ]
           }
         }
@@ -802,7 +874,8 @@
             "de": "Museo Naval",
             "hu": "Museo Naval",
             "ro": "Museo Naval",
-            "en": "Naval Museum"
+            "en": "Naval Museum",
+            "es": "Museo Naval"
           },
           "coords": [
             -0.9855,
@@ -817,7 +890,8 @@
             "de": "Das Isaac-Peral-U-Boot ist das Highlight.",
             "hu": "Az Isaac Peral tengeralattjáró a fő látványosság.",
             "ro": "Submarinul Isaac Peral este atracția principală.",
-            "en": "The Isaac Peral submarine is the highlight."
+            "en": "The Isaac Peral submarine is the highlight.",
+            "es": "El submarino Isaac Peral es lo más destacado."
           }
         },
         {
@@ -825,7 +899,8 @@
             "de": "ARQUA",
             "hu": "ARQUA",
             "ro": "ARQUA",
-            "en": "ARQUA"
+            "en": "ARQUA",
+            "es": "ARQUA"
           },
           "coords": [
             -0.9795,
@@ -840,7 +915,8 @@
             "de": "Museum für Unterwasserarchäologie.",
             "hu": "Víz alatti régészeti múzeum.",
             "ro": "Muzeu de arheologie subacvatică.",
-            "en": "National Museum of Underwater Archaeology."
+            "en": "National Museum of Underwater Archaeology.",
+            "es": "Museo Nacional de Arqueología Subacuática."
           }
         },
         {
@@ -848,7 +924,8 @@
             "de": "Muralla del Mar",
             "hu": "Muralla del Mar",
             "ro": "Muralla del Mar",
-            "en": "Sea Wall"
+            "en": "Sea Wall",
+            "es": "Muro marítimo"
           },
           "coords": [
             -0.9822,
@@ -863,7 +940,8 @@
             "de": "Breiter Weg entlang des Hafens.",
             "hu": "Széles sétány a kikötő mentén.",
             "ro": "Cale largă de-a lungul portului.",
-            "en": "Wide path along the harbor."
+            "en": "Wide path along the harbor.",
+            "es": "Ancho paseo junto al puerto."
           }
         },
         {
@@ -871,7 +949,8 @@
             "de": "Punic Wall",
             "hu": "Pun fal",
             "ro": "Zidul Punic",
-            "en": "Punic Wall"
+            "en": "Punic Wall",
+            "es": "Muralla púnica"
           },
           "coords": [
             -0.9785,
@@ -886,7 +965,8 @@
             "de": "Reste der Stadtmauer aus dem Jahr 227 v. Chr.",
             "hu": "A városfal maradványai i.e. 227-ből.",
             "ro": "Resturi ale zidului orașului din 227 î.Hr.",
-            "en": "Remains of the city wall from 227 BC."
+            "en": "Remains of the city wall from 227 BC.",
+            "es": "Restos de la muralla de la ciudad desde el 227 a. C."
           }
         },
         {
@@ -894,7 +974,8 @@
             "de": "Forum Romano Molinete",
             "hu": "Forum Romano Molinete",
             "ro": "Forum Romano Molinete",
-            "en": "Roman Forum Molinete"
+            "en": "Roman Forum Molinete",
+            "es": "Foro Romano Molinete"
           },
           "coords": [
             -0.9855,
@@ -909,7 +990,8 @@
             "de": "Gut mit dem Fahrrad erreichbar.",
             "hu": "Kerékpárral könnyen megközelíthető.",
             "ro": "Ușor accesibil cu bicicleta.",
-            "en": "Easily accessible by bike."
+            "en": "Easily accessible by bike.",
+            "es": "Fácilmente accesible en bicicleta."
           }
         }
       ],
@@ -917,7 +999,8 @@
         "de": "Mit dem Fahrrad erkunden wir die maritime Geschichte, beginnend im Marinemuseum. Die Route führt entlang der Hafenmauer zum ARQUA und weiter zu den punischen Befestigungen. Es ist ein effizienter Weg, um die verstreuten archäologischen Stätten und Museen zu verbinden.",
         "hu": "Bringával fedezzük fel a tengerészeti múltat, kezdve a haditengerészeti múzeumnál. Az útvonal a kikötői fal mentén halad az ARQUA-hoz, majd a pun védművekhez. Ez a leghatékonyabb módja a távolabb eső régészeti helyszínek és múzeumok összekötésének.",
         "ro": "Cu bicicleta explorăm istoria maritimă, începând de la muzeul naval. Traseul duce de-a lungul zidului portului către ARQUA și mai departe către fortificațiile punice. Este un mod eficient de a conecta siturile arheologice și muzeele împrăștiate.",
-        "en": "By bike, we explore the maritime history, starting at the Naval Museum. The route follows the harbor wall to ARQUA and continues to the Punic fortifications. It's an efficient way to connect the scattered archaeological sites and museums."
+        "en": "By bike, we explore the maritime history, starting at the Naval Museum. The route follows the harbor wall to ARQUA and continues to the Punic fortifications. It's an efficient way to connect the scattered archaeological sites and museums.",
+        "es": "En bicicleta exploramos la historia marítima, comenzando en el Museo Naval. La ruta sigue el muro del puerto hasta ARQUA y continúa hasta las fortificaciones púnicas. Es una forma eficiente de conectar los dispersos yacimientos arqueológicos y museos."
       },
       "gastro_picks": {
         "de": [
@@ -1017,6 +1100,10 @@
         "en": [
           "Use the cycling lanes at the harbor.",
           "Watch out for pedestrians in the old town."
+        ],
+        "es": [
+          "Usa los carriles bici del puerto.",
+          "Cuidado con los peatones en el casco antiguo."
         ]
       },
       "variants": {
@@ -1025,7 +1112,8 @@
             "de": "Mit dem Fahrrad erkunden wir die maritime Geschichte, beginnend im Marinemuseum. Die Route führt entlang der Hafenmauer zum ARQUA und weiter zu den punischen Befestigungen. Es ist ein effizienter Weg, um die verstreuten archäologischen Stätten und Museen zu verbinden.",
             "hu": "Bringával fedezzük fel a tengerészeti múltat, kezdve a haditengerészeti múzeumnál. Az útvonal a kikötői fal mentén halad az ARQUA-hoz, majd a pun védművekhez. Ez a leghatékonyabb módja a távolabb eső régészeti helyszínek és múzeumok összekötésének.",
             "ro": "Cu bicicleta explorăm istoria maritimă, începând de la muzeul naval. Traseul duce de-a lungul zidului portului către ARQUA și mai departe către fortificațiile punice. Este un mod eficient de a conecta siturile arheologice și muzeele împrăștiate.",
-            "en": "By bike, we explore the maritime history, starting at the Naval Museum. The route follows the harbor wall to ARQUA and continues to the Punic fortifications. It's an efficient way to connect the scattered archaeological sites and museums."
+            "en": "By bike, we explore the maritime history, starting at the Naval Museum. The route follows the harbor wall to ARQUA and continues to the Punic fortifications. It's an efficient way to connect the scattered archaeological sites and museums.",
+            "es": "En bicicleta exploramos la historia marítima, comenzando en el Museo Naval. La ruta sigue el muro del puerto hasta ARQUA y continúa hasta las fortificaciones púnicas. Es una forma eficiente de conectar los dispersos yacimientos arqueológicos y museos."
           },
           "stops": [
             {
@@ -1033,13 +1121,15 @@
                 "de": "Museo Naval",
                 "hu": "Museo Naval",
                 "ro": "Museo Naval",
-                "en": "Naval Museum"
+                "en": "Naval Museum",
+                "es": "Museo Naval"
               },
               "tip_5lang": {
                 "de": "Das Isaac-Peral-U-Boot ist das Highlight.",
                 "hu": "Az Isaac Peral tengeralattjáró a fő látványosság.",
                 "ro": "Submarinul Isaac Peral este atracția principală.",
-                "en": "The Isaac Peral submarine is the highlight."
+                "en": "The Isaac Peral submarine is the highlight.",
+                "es": "El submarino Isaac Peral es lo más destacado."
               }
             },
             {
@@ -1047,13 +1137,15 @@
                 "de": "ARQUA",
                 "hu": "ARQUA",
                 "ro": "ARQUA",
-                "en": "ARQUA"
+                "en": "ARQUA",
+                "es": "ARQUA"
               },
               "tip_5lang": {
                 "de": "Museum für Unterwasserarchäologie.",
                 "hu": "Víz alatti régészeti múzeum.",
                 "ro": "Muzeu de arheologie subacvatică.",
-                "en": "National Museum of Underwater Archaeology."
+                "en": "National Museum of Underwater Archaeology.",
+                "es": "Museo Nacional de Arqueología Subacuática."
               }
             },
             {
@@ -1061,13 +1153,15 @@
                 "de": "Muralla del Mar",
                 "hu": "Muralla del Mar",
                 "ro": "Muralla del Mar",
-                "en": "Sea Wall"
+                "en": "Sea Wall",
+                "es": "Muro marítimo"
               },
               "tip_5lang": {
                 "de": "Breiter Weg entlang des Hafens.",
                 "hu": "Széles sétány a kikötő mentén.",
                 "ro": "Cale largă de-a lungul portului.",
-                "en": "Wide path along the harbor."
+                "en": "Wide path along the harbor.",
+                "es": "Ancho paseo junto al puerto."
               }
             },
             {
@@ -1075,13 +1169,15 @@
                 "de": "Punic Wall",
                 "hu": "Pun fal",
                 "ro": "Zidul Punic",
-                "en": "Punic Wall"
+                "en": "Punic Wall",
+                "es": "Muralla púnica"
               },
               "tip_5lang": {
                 "de": "Reste der Stadtmauer aus dem Jahr 227 v. Chr.",
                 "hu": "A városfal maradványai i.e. 227-ből.",
                 "ro": "Resturi ale zidului orașului din 227 î.Hr.",
-                "en": "Remains of the city wall from 227 BC."
+                "en": "Remains of the city wall from 227 BC.",
+                "es": "Restos de la muralla de la ciudad desde el 227 a. C."
               }
             },
             {
@@ -1089,13 +1185,15 @@
                 "de": "Forum Romano Molinete",
                 "hu": "Forum Romano Molinete",
                 "ro": "Forum Romano Molinete",
-                "en": "Roman Forum Molinete"
+                "en": "Roman Forum Molinete",
+                "es": "Foro Romano Molinete"
               },
               "tip_5lang": {
                 "de": "Gut mit dem Fahrrad erreichbar.",
                 "hu": "Kerékpárral könnyen megközelíthető.",
                 "ro": "Ușor accesibil cu bicicleta.",
-                "en": "Easily accessible by bike."
+                "en": "Easily accessible by bike.",
+                "es": "Fácilmente accesible en bicicleta."
               }
             }
           ],
@@ -1197,6 +1295,10 @@
             "en": [
               "Use the cycling lanes at the harbor.",
               "Watch out for pedestrians in the old town."
+            ],
+            "es": [
+              "Usa los carriles bici del puerto.",
+              "Cuidado con los peatones en el casco antiguo."
             ]
           }
         },
@@ -1205,7 +1307,8 @@
             "de": "Am Morgen radeln Sie vorsichtig zum Marinemuseum. Mittags bietet das ARQUA-Museum ein langes, trockenes Erlebnis unter der Erde. Nachmittags geht es entlang der Stadtmauer, wobei Sie Pfützen meiden. Abends beenden Sie die Tour am überdachten Molinete-Forum, um den letzten Schauern zu entgehen.",
             "hu": "Reggel óvatosan tekerünk a Haditengerészeti Múzeumhoz. Délben az ARQUA múzeum föld alatti kiállítása nyújt hosszú és száraz programot. Délután a városfal mellett haladunk, kerülve a tócsákat. Estére a Molinete-fórum fedett romjaihoz érünk, ahol az eső nem zavarja a nézelődést.",
             "ro": "Dimineața pedalăm cu grijă spre Muzeul Naval. La prânz, muzeul ARQUA oferă o experiență lungă și uscată sub nivelul mării. După-amiaza continuăm pe lângă zidul mării, evitând bălțile. Seara încheiem turul la Forumul Molinete, protejat de ploaie de acoperișul său.",
-            "en": "Morning involves a cautious ride to the Naval Museum. At noon, the ARQUA museum offers a long, dry experience below ground level. In the afternoon, cycle along the sea wall avoiding puddles. In the evening, end your tour at the sheltered Roman Forum Molinete to stay out of the final showers."
+            "en": "Morning involves a cautious ride to the Naval Museum. At noon, the ARQUA museum offers a long, dry experience below ground level. In the afternoon, cycle along the sea wall avoiding puddles. In the evening, end your tour at the sheltered Roman Forum Molinete to stay out of the final showers.",
+            "es": "La mañana incluye un recorrido cauteloso hasta el Museo Naval. Al mediodía, el ARQUA ofrece una larga y seca experiencia bajo el nivel del suelo. Por la tarde, pedalea a lo largo del muro marítimo evitando los charcos. Por la noche, termina tu ruta en el resguardado Foro Romano Molinete para evitar los últimos chaparrones."
           },
           "stops": [
             {
@@ -1214,7 +1317,8 @@
                 "de": "Sicheres Abstellen der Räder am Eingang möglich.",
                 "hu": "A kerékpárok biztonságosan lezárhatók a bejáratnál.",
                 "ro": "Bicicletele pot fi parcate în siguranță la intrare.",
-                "en": "Bikes can be safely locked near the entrance."
+                "en": "Bikes can be safely locked near the entrance.",
+                "es": "Las bicicletas se pueden asegurar con candado cerca de la entrada."
               }
             },
             {
@@ -1223,7 +1327,8 @@
                 "de": "Perfekter Ort, um starken Regen abzuwarten.",
                 "hu": "Tökéletes hely egy nagyobb zápor kivárására.",
                 "ro": "Loc perfect pentru a aștepta trecerea unei ploi.",
-                "en": "Perfect place to wait out a heavy downpour."
+                "en": "Perfect place to wait out a heavy downpour.",
+                "es": "Lugar perfecto para resguardarse de un aguacero intenso."
               }
             },
             {
@@ -1232,7 +1337,8 @@
                 "de": "Vorsicht vor Gischt und rutschigem Asphalt.",
                 "hu": "Vigyázzon a felcsapó hullámokra és a csúszós útra.",
                 "ro": "Atenție la valuri și la asfaltul alunecos.",
-                "en": "Watch out for sea spray and slippery asphalt."
+                "en": "Watch out for sea spray and slippery asphalt.",
+                "es": "Cuidado con la salpicadura del mar y el asfalto resbaladizo."
               }
             },
             {
@@ -1241,7 +1347,8 @@
                 "de": "Das Museum ist komplett überdacht und trocken.",
                 "hu": "A múzeum teljesen fedett és száraz helyszín.",
                 "ro": "Muzeul este complet acoperit și uscat.",
-                "en": "The museum is completely indoors and dry."
+                "en": "The museum is completely indoors and dry.",
+                "es": "El museo está completamente en interior y seco."
               }
             },
             {
@@ -1250,7 +1357,8 @@
                 "de": "Stellen Sie das Rad unter das Vordach am Eingang.",
                 "hu": "Tegye a biciklit a bejárat melletti előtető alá.",
                 "ro": "Lăsați bicicleta sub copertina de la intrare.",
-                "en": "Park your bike under the canopy at the entrance."
+                "en": "Park your bike under the canopy at the entrance.",
+                "es": "Estaciona tu bici bajo el toldo de la entrada."
               }
             }
           ],
@@ -1282,6 +1390,13 @@
               "The port promenade can be very windy and exposed.",
               "Test your brakes frequently in wet conditions.",
               "Plan for longer museum breaks to stay dry."
+            ],
+            "es": [
+              "Evita las losas de mármol pulido de la Calle Mayor cuando estén mojadas.",
+              "Usa alforjas impermeables para proteger tu equipo.",
+              "El paseo del puerto puede ser muy ventoso y expuesto.",
+              "Prueba los frenos con frecuencia en condiciones de humedad.",
+              "Planifica pausas más largas en los museos para mantenerte seco."
             ]
           }
         },
@@ -1290,7 +1405,8 @@
             "de": "Ein frischer Wintermorgen am Hafen führt Sie zum Marinemuseum. Mittags genießen Sie die Fahrt entlang der sonnigen Hafenmauer zum ARQUA. Nachmittags radeln Sie zur Punischen Mauer, wobei das milde Licht die antiken Steine betont. Abends beenden Sie die Tour am Forum Molinete vor der frühen Dämmerung.",
             "hu": "Friss téli reggel a kikötőben, cél a Haditengerészeti Múzeum. Délben a napos rakparton tekerünk az ARQUA felé. Délután a Pún falhoz látogatunk, ahol a téli fények kiemelik a romok szépségét. Este a Molinete-fórumnál fejezzük be a kört, még a korai sötétedés előtt.",
             "ro": "O dimineață răcoroasă în port vă conduce spre Muzeul Naval. La prânz, pedalați pe faleza însorită spre ARQUA. După-amiaza vizităm Zidul Punic, lumina iernii fiind perfectă pentru poze. Seara încheiem la Forumul Molinete înainte de lăsarea întunerikuil.",
-            "en": "A crisp winter morning by the port leads you to the Naval Museum. At noon, enjoy cycling along the sunny sea wall towards ARQUA. In the afternoon, ride to the Punic Wall as the low sun highlights the ancient textures. End your tour at the Molinete Forum before the early winter dusk sets in."
+            "en": "A crisp winter morning by the port leads you to the Naval Museum. At noon, enjoy cycling along the sunny sea wall towards ARQUA. In the afternoon, ride to the Punic Wall as the low sun highlights the ancient textures. End your tour at the Molinete Forum before the early winter dusk sets in.",
+            "es": "Una fresca mañana invernal junto al puerto te lleva al Museo Naval. Al mediodía, disfruta de un paseo en bici por el muro del mar soleado hacia ARQUA. Por la tarde, pedalea hasta el Muro Púnico mientras el sol bajo realza las texturas antiguas. Termina tu ruta en el Foro del Molinete antes de que caiga el temprano crepúsculo invernal."
           },
           "stops": [
             {
@@ -1299,7 +1415,8 @@
                 "de": "Angenehme Kühle im Museum, ideal nach der Fahrt.",
                 "hu": "Kellemes hűvös a múzeumban, jól esik a tekerés után.",
                 "ro": "Răcoare plăcută în muzeu, ideală după pedalat.",
-                "en": "Pleasant cool temperature inside after the ride."
+                "en": "Pleasant cool temperature inside after the ride.",
+                "es": "Temperatura agradable y fresca en el interior después del paseo."
               }
             },
             {
@@ -1308,7 +1425,8 @@
                 "de": "Die Glasfassade fängt die warme Wintersonne ein.",
                 "hu": "Az üveghomlokzat összegyűjti a téli napfényt.",
                 "ro": "Fațada de sticlă captează soarele cald de iarnă.",
-                "en": "The glass facade captures the warm winter sun."
+                "en": "The glass facade captures the warm winter sun.",
+                "es": "La fachada de cristal captura el cálido sol invernal."
               }
             },
             {
@@ -1317,7 +1435,8 @@
                 "de": "Windfeste Kleidung für den Küstenabschnitt wählen.",
                 "hu": "Szélálló öltözet ajánlott a tengerparti szakaszon.",
                 "ro": "Îmbrăcăminte rezistentă la vânt pentru zona de coastă.",
-                "en": "Wear windproof clothing for the coastal stretch."
+                "en": "Wear windproof clothing for the coastal stretch.",
+                "es": "Lleva ropa cortaviento para el tramo costero."
               }
             },
             {
@@ -1326,7 +1445,8 @@
                 "de": "Drinnen ist es deutlich wärmer als draußen.",
                 "hu": "Bent jóval melegebb van, mint a szabadban.",
                 "ro": "În interior este mult mai cald decât afară.",
-                "en": "The indoor site is much warmer than the outdoors."
+                "en": "The indoor site is much warmer than the outdoors.",
+                "es": "El interior del recinto está mucho más cálido que el exterior."
               }
             },
             {
@@ -1335,7 +1455,8 @@
                 "de": "Besuch vor 17:30 Uhr planen wegen der Helligkeit.",
                 "hu": "Látogatás 17:30 előtt javasolt a fényviszonyok miatt.",
                 "ro": "Vizitați înainte de 17:30 pentru lumină bună.",
-                "en": "Plan your visit before 17:30 for good light."
+                "en": "Plan your visit before 17:30 for good light.",
+                "es": "Planifica tu visita antes de las 17:30 para buena luz."
               }
             }
           ],
@@ -1367,6 +1488,13 @@
               "Aim to finish your cycling route by 18:00.",
               "Winter air is very clear, offering great distant views.",
               "It feels colder at the port than in the city center."
+            ],
+            "es": [
+              "Se recomiendan guantes para el fresco inicio de la mañana.",
+              "El sol bajo de invierno puede deslumbrar al circular en bici.",
+              "Procura terminar tu ruta ciclista antes de las 18:00.",
+              "El aire invernal es muy claro, ofreciendo excelentes vistas lejanas.",
+              "Se siente más frío en el puerto que en el centro de la ciudad."
             ]
           }
         }
@@ -1385,7 +1513,8 @@
             "de": "Batería de Castillitos",
             "hu": "Batería de Castillitos",
             "ro": "Batería de Castillitos",
-            "en": "Castillitos Battery"
+            "en": "Castillitos Battery",
+            "es": "Batería de Castillitos"
           },
           "coords": [
             -1.1215,
@@ -1400,7 +1529,8 @@
             "de": "Riesige Kanonen mit Disney-Schloss-Architektur.",
             "hu": "Hatalmas ágyúk Disney-kastély stílusban.",
             "ro": "Tunuri uriașe cu arhitectură de castel Disney.",
-            "en": "Huge cannons with Disney-castle architecture."
+            "en": "Huge cannons with Disney-castle architecture.",
+            "es": "Cañones gigantes con arquitectura de castillo de cuento."
           }
         },
         {
@@ -1408,7 +1538,8 @@
             "de": "Castillo de la Concepción",
             "hu": "Castillo de la Concepción",
             "ro": "Castillo de la Concepción",
-            "en": "Concepción Castle"
+            "en": "Concepción Castle",
+            "es": "Castillo de la Concepción"
           },
           "coords": [
             -0.9785,
@@ -1423,7 +1554,8 @@
             "de": "Parken Sie im Parkhaus am Hafen.",
             "hu": "Parkolj a kikötői parkolóházban.",
             "ro": "Parcați în parcarea din port.",
-            "en": "Park in the harbor parking garage."
+            "en": "Park in the harbor parking garage.",
+            "es": "Aparca en el parking del puerto."
           }
         },
         {
@@ -1431,7 +1563,8 @@
             "de": "Teatro Romano",
             "hu": "Teatro Romano",
             "ro": "Teatru Roman",
-            "en": "Roman Theatre"
+            "en": "Roman Theatre",
+            "es": "Teatro Romano"
           },
           "coords": [
             -0.9818,
@@ -1446,7 +1579,8 @@
             "de": "Hinterausgang zur Kathedrale nutzen.",
             "hu": "Használd a hátsó kijáratot a katedrálishoz.",
             "ro": "Folosiți ieșirea din spate către catedrală.",
-            "en": "Use the back exit towards the cathedral."
+            "en": "Use the back exit towards the cathedral.",
+            "es": "Utiliza la salida trasera hacia la catedral."
           }
         }
       ],
@@ -1454,7 +1588,8 @@
         "de": "Mit dem Auto erreichen wir die spektakuläre Batería de Castillitos außerhalb der Stadt, eine Festung mit gigantischen Kanonen. Danach kehren wir ins Zentrum zurück, um das Schloss und das römische Theater zu besichtigen. Diese Route verbindet wilde Küstenpanoramen mit städtischer Geschichte.",
         "hu": "Autóval elérjük a városon kívüli, látványos Batería de Castillitost, egy hatalmas ágyúkkal felszerelt erődöt. Ezután visszatérünk a központba a vár és a római színház megtekintésére. Ez az útvonal ötvözi a vad tengerparti panorámát a városi történelemmel.",
         "ro": "Cu mașina ajungem la spectaculoasa Batería de Castillitos din afara orașului, o fortăreață cu tunuri gigantice. Apoi revenim în centru pentru a vizita castelul și teatrul roman. Acest traseu combină panoramele de coastă sălbatice cu istoria urbană.",
-        "en": "By car, we reach the spectacular Batería de Castillitos outside the city, a fortress with gigantic cannons. Then we return to the center to visit the castle and the Roman Theatre. This route combines wild coastal panoramas with urban history."
+        "en": "By car, we reach the spectacular Batería de Castillitos outside the city, a fortress with gigantic cannons. Then we return to the center to visit the castle and the Roman Theatre. This route combines wild coastal panoramas with urban history.",
+        "es": "En coche, llegamos a la espectacular Batería de Castillitos fuera de la ciudad, una fortaleza con cañones gigantescos. Luego volvemos al centro para visitar el castillo y el Teatro Romano. Esta ruta combina panoramas costeros salvajes con historia urbana."
       },
       "gastro_picks": {
         "de": [
@@ -1554,6 +1689,10 @@
         "en": [
           "The road to Castillitos is very winding.",
           "Parking in the center is difficult; use underground parking."
+        ],
+        "es": [
+          "La carretera hacia Castillitos es muy sinuosa.",
+          "Aparcar en el centro es difícil; utiliza aparcamientos subterráneos."
         ]
       },
       "variants": {
@@ -1562,7 +1701,8 @@
             "de": "Mit dem Auto erreichen wir die spektakuläre Batería de Castillitos außerhalb der Stadt, eine Festung mit gigantischen Kanonen. Danach kehren wir ins Zentrum zurück, um das Schloss und das römische Theater zu besichtigen. Diese Route verbindet wilde Küstenpanoramen mit städtischer Geschichte.",
             "hu": "Autóval elérjük a városon kívüli, látványos Batería de Castillitost, egy hatalmas ágyúkkal felszerelt erődöt. Ezután visszatérünk a központba a vár és a római színház megtekintésére. Ez az útvonal ötvözi a vad tengerparti panorámát a városi történelemmel.",
             "ro": "Cu mașina ajungem la spectaculoasa Batería de Castillitos din afara orașului, o fortăreață cu tunuri gigantice. Apoi revenim în centru pentru a vizita castelul și teatrul roman. Acest traseu combină panoramele de coastă sălbatice cu istoria urbană.",
-            "en": "By car, we reach the spectacular Batería de Castillitos outside the city, a fortress with gigantic cannons. Then we return to the center to visit the castle and the Roman Theatre. This route combines wild coastal panoramas with urban history."
+            "en": "By car, we reach the spectacular Batería de Castillitos outside the city, a fortress with gigantic cannons. Then we return to the center to visit the castle and the Roman Theatre. This route combines wild coastal panoramas with urban history.",
+            "es": "En coche, llegamos a la espectacular Batería de Castillitos fuera de la ciudad, una fortaleza con cañones gigantescos. Luego volvemos al centro para visitar el castillo y el Teatro Romano. Esta ruta combina panoramas costeros salvajes con historia urbana."
           },
           "stops": [
             {
@@ -1570,13 +1710,15 @@
                 "de": "Batería de Castillitos",
                 "hu": "Batería de Castillitos",
                 "ro": "Batería de Castillitos",
-                "en": "Castillitos Battery"
+                "en": "Castillitos Battery",
+                "es": "Batería de Castillitos"
               },
               "tip_5lang": {
                 "de": "Riesige Kanonen mit Disney-Schloss-Architektur.",
                 "hu": "Hatalmas ágyúk Disney-kastély stílusban.",
                 "ro": "Tunuri uriașe cu arhitectură de castel Disney.",
-                "en": "Huge cannons with Disney-castle architecture."
+                "en": "Huge cannons with Disney-castle architecture.",
+                "es": "Cañones gigantes con arquitectura de castillo de cuento."
               }
             },
             {
@@ -1584,13 +1726,15 @@
                 "de": "Castillo de la Concepción",
                 "hu": "Castillo de la Concepción",
                 "ro": "Castillo de la Concepción",
-                "en": "Concepción Castle"
+                "en": "Concepción Castle",
+                "es": "Castillo de la Concepción"
               },
               "tip_5lang": {
                 "de": "Parken Sie im Parkhaus am Hafen.",
                 "hu": "Parkolj a kikötői parkolóházban.",
                 "ro": "Parcați în parcarea din port.",
-                "en": "Park in the harbor parking garage."
+                "en": "Park in the harbor parking garage.",
+                "es": "Aparca en el parking del puerto."
               }
             },
             {
@@ -1598,13 +1742,15 @@
                 "de": "Teatro Romano",
                 "hu": "Teatro Romano",
                 "ro": "Teatru Roman",
-                "en": "Roman Theatre"
+                "en": "Roman Theatre",
+                "es": "Teatro Romano"
               },
               "tip_5lang": {
                 "de": "Hinterausgang zur Kathedrale nutzen.",
                 "hu": "Használd a hátsó kijáratot a katedrálishoz.",
                 "ro": "Folosiți ieșirea din spate către catedrală.",
-                "en": "Use the back exit towards the cathedral."
+                "en": "Use the back exit towards the cathedral.",
+                "es": "Utiliza la salida trasera hacia la catedral."
               }
             }
           ],
@@ -1706,6 +1852,10 @@
             "en": [
               "The road to Castillitos is very winding.",
               "Parking in the center is difficult; use underground parking."
+            ],
+            "es": [
+              "La carretera hacia Castillitos es muy sinuosa.",
+              "Aparcar en el centro es difícil; utiliza aparcamientos subterráneos."
             ]
           }
         },
@@ -1714,7 +1864,8 @@
             "de": "Morgens fahren Sie zur Bateria de Castillitos, wobei Sie vorsichtig auf der kurvigen Küstenstraße navigieren. Mittags parken Sie nahe der Burg Concepción und nutzen den Aufzug. Nachmittags bietet das Römische Theater ein geschütztes Kulturhighlight. Abends genießen Sie ein Abendessen in der Stadt, während der Regen draußen nachlässt.",
             "hu": "Reggel a Castillitos üteghez hajtunk, óvatosan a kanyargós parti úton. Délben a Concepción-vár közelében parkolunk, és lifttel megyünk fel. Délután a Római Színház fedett múzeuma a legjobb választás. Este a belvárosban vacsorázunk, biztonságban az esőtől.",
             "ro": "Dimineața conduceți spre Bateria de Castillitos, cu atenție pe drumul sinuos de coastă. La prânz, parcați lângă Castelul Concepción și folosiți liftul. După-amiaza, Teatrul Roman oferă un refugiu cultural uscat. Seara, vă bucurați de cină în oraș în timp ce ploaia se potolește.",
-            "en": "Morning starts with a drive to Castillitos Battery; take care on the winding coastal road in the rain. At noon, park near Concepción Castle and use the lift to stay dry. Afternoon is perfect for the sheltered Roman Theatre Museum. In the evening, enjoy dinner in the city center as the rain fades."
+            "en": "Morning starts with a drive to Castillitos Battery; take care on the winding coastal road in the rain. At noon, park near Concepción Castle and use the lift to stay dry. Afternoon is perfect for the sheltered Roman Theatre Museum. In the evening, enjoy dinner in the city center as the rain fades.",
+            "es": "La mañana empieza con un viaje en coche a la Batería de Castillitos; ten cuidado en la sinuosa carretera costera con lluvia. Al mediodía, aparca cerca del Castillo de la Concepción y usa el ascensor para mantenerte seco. La tarde es perfecta para el recogido Museo del Teatro Romano. Por la noche, disfruta de la cena en el centro a medida que la lluvia amaina."
           },
           "stops": [
             {
@@ -1723,7 +1874,8 @@
                 "de": "Vorsicht auf der schmalen Straße bei Nässe.",
                 "hu": "Vigyázzon a keskeny, vizes úton a kanyarokban.",
                 "ro": "Atenție pe drumul îngust și ud în curbe.",
-                "en": "Exercise caution on the narrow, wet road."
+                "en": "Exercise caution on the narrow, wet road.",
+                "es": "Precaución en la carretera estrecha y mojada."
               }
             },
             {
@@ -1732,7 +1884,8 @@
                 "de": "Parkhaus in der Nähe nutzen, um trocken zu bleiben.",
                 "hu": "Használja a közeli parkolóházat, hogy száraz maradjon.",
                 "ro": "Folosiți parcarea subterană din apropiere.",
-                "en": "Use the nearby underground parking to stay dry."
+                "en": "Use the nearby underground parking to stay dry.",
+                "es": "Utiliza el aparcamiento subterráneo cercano para mantenerte seco."
               }
             },
             {
@@ -1741,7 +1894,8 @@
                 "de": "Der Eingangsbereich bietet guten Regenschutz.",
                 "hu": "A bejárati rész jó védelmet nyújt az eső ellen.",
                 "ro": "Zona de intrare oferă protecție bună contra ploii.",
-                "en": "The entrance area provides good rain shelter."
+                "en": "The entrance area provides good rain shelter.",
+                "es": "La zona de entrada ofrece buen resguardo de la lluvia."
               }
             }
           ],
@@ -1773,6 +1927,13 @@
               "Watch out for deep puddles in low-lying city streets.",
               "Coastal visibility might be reduced during storms.",
               "The car is your best refuge during sudden downpours."
+            ],
+            "es": [
+              "La carretera hacia Castillitos puede volverse resbaladiza con fuertes lluvias.",
+              "Prefiere aparcamientos subterráneos (p. ej., en el puerto).",
+              "Cuidado con charcos profundos en calles bajas de la ciudad.",
+              "La visibilidad costera puede reducirse durante las tormentas.",
+              "El coche es tu mejor refugio ante chaparrones repentinos."
             ]
           }
         },
@@ -1781,7 +1942,8 @@
             "de": "Ein klarer Wintermorgen führt Sie zur spektakulären Bateria de Castillitos mit Fernsicht. Mittags erreichen Sie die Burg Concepción unter strahlend blauem Himmel. Nachmittags besuchen Sie das Römische Theater, wenn die Schatten länger werden. Abends erleben Sie die beleuchtete Altstadt, bevor die Winterkälte einsetzt.",
             "hu": "Tiszta téli reggel, irány a Castillitos üteg a lenyűgöző panorámáért. Délben a Concepción-várat látogatjuk meg a ragyogó kék ég alatt. Délután a Római Színház romjai között sétálunk a hosszú árnyékokban. Este a kivilágított óvárosban gyönyörködünk, mielőtt lehűlne az idő.",
             "ro": "O dimineață senină de iarnă vă duce la Bateria de Castillitos pentru panorame vaste. La prânz ajungeți la Castelul Concepción sub un cer albastru strălucitor. După-amiaza vizitați Teatrul Roman în lumina caldă a soarelui jos. Seara explorați centrul iluminat înainte de lăsarea frigului.",
-            "en": "A clear winter morning takes you to the spectacular Castillitos Battery for endless views. At noon, reach Concepción Castle under a brilliant blue sky. In the afternoon, explore the Roman Theatre as the winter shadows lengthen. In the evening, enjoy the illuminated old town before the nightly chill sets in."
+            "en": "A clear winter morning takes you to the spectacular Castillitos Battery for endless views. At noon, reach Concepción Castle under a brilliant blue sky. In the afternoon, explore the Roman Theatre as the winter shadows lengthen. In the evening, enjoy the illuminated old town before the nightly chill sets in.",
+            "es": "Una clara mañana invernal te lleva a la espectacular Batería de Castillitos para vistas infinitas. Al mediodía, llega al Castillo de la Concepción bajo un brillante cielo azul. Por la tarde, explora el Teatro Romano mientras las sombras invernales se alargan. Por la noche, disfruta del casco antiguo iluminado antes de que llegue el frío nocturno."
           },
           "stops": [
             {
@@ -1790,7 +1952,8 @@
                 "de": "Perfekte Fernsicht bei klarer Winterluft.",
                 "hu": "Tökéletes kilátás a tiszta téli levegőben.",
                 "ro": "Vizibilitate perfectă în aerul curat de iarnă.",
-                "en": "Perfect long-distance views in the clear winter air."
+                "en": "Perfect long-distance views in the clear winter air.",
+                "es": "Vistas de gran distancia perfectas con el aire claro invernal."
               }
             },
             {
@@ -1799,7 +1962,8 @@
                 "de": "Sonnige Plätze auf den Mauern zum Aufwärmen.",
                 "hu": "Napos helyek a falakon a felmelegedéshez.",
                 "ro": "Locuri însorite pe ziduri pentru încălzire.",
-                "en": "Sunny spots on the walls are great for warming up."
+                "en": "Sunny spots on the walls are great for warming up.",
+                "es": "Los lugares soleados en las murallas son ideales para entrar en calor."
               }
             },
             {
@@ -1808,7 +1972,8 @@
                 "de": "Das Museum ist angenehm temperiert.",
                 "hu": "A múzeumban kellemes a hőmérséklet.",
                 "ro": "Muzeul are o temperatură foarte plăcută.",
-                "en": "The museum interior is comfortably tempered."
+                "en": "The museum interior is comfortably tempered.",
+                "es": "El interior del museo está confortablemente templado."
               }
             }
           ],
@@ -1840,6 +2005,13 @@
               "Plan your photography for the limited daylight hours.",
               "Temperatures drop quickly once the sun goes down.",
               "Coastal roads are much quieter and more enjoyable in winter."
+            ],
+            "es": [
+              "La visibilidad desde Castillitos suele ser mejor en invierno.",
+              "Aparcar en el puerto suele ser más fácil fuera de temporada.",
+              "Planifica tu fotografía por las horas limitadas de luz.",
+              "Las temperaturas bajan rápido cuando el sol se pone.",
+              "Las carreteras costeras están mucho más tranquilas y agradables en invierno."
             ]
           }
         }
@@ -1858,7 +2030,8 @@
             "de": "Calle Mayor",
             "hu": "Calle Mayor",
             "ro": "Calle Mayor",
-            "en": "Calle Mayor"
+            "en": "Calle Mayor",
+            "es": "Calle Mayor"
           },
           "coords": [
             -0.9842,
@@ -1873,7 +2046,8 @@
             "de": "Zentraler Ausstiegspunkt.",
             "hu": "Központi leszállóhely.",
             "ro": "Punct central de coborâre.",
-            "en": "Central drop-off point."
+            "en": "Central drop-off point.",
+            "es": "Punto de bajada central."
           }
         },
         {
@@ -1881,7 +2055,8 @@
             "de": "Teatro Romano",
             "hu": "Teatro Romano",
             "ro": "Teatru Roman",
-            "en": "Roman Theatre"
+            "en": "Roman Theatre",
+            "es": "Teatro Romano"
           },
           "coords": [
             -0.9818,
@@ -1896,7 +2071,8 @@
             "de": "Kurzer Fußweg von der Bushaltestelle.",
             "hu": "Rövid séta a buszmegállótól.",
             "ro": "Scurtă plimbare de la stația de autobuz.",
-            "en": "Short walk from the bus stop."
+            "en": "Short walk from the bus stop.",
+            "es": "Corta caminata desde la parada de autobús."
           }
         }
       ],
@@ -1904,7 +2080,8 @@
         "de": "Mit dem öffentlichen Nahverkehr erreichen wir bequem die Hauptsehenswürdigkeiten. Wir starten im historischen Zentrum und nutzen den Bus, um zwischen dem Hafen und den Museen zu pendeln. Es ist eine stressfreie Art, die Stadt ohne Parkplatzsorgen zu erleben.",
         "hu": "Tömegközlekedéssel kényelmesen elérjük a fő látnivalókat. A történelmi központból indulunk, és busszal ingázunk a kikötő és a múzeumok között. Stresszmentes módja a város felfedezésének parkolási gondok nélkül.",
         "ro": "Cu transportul public ajungem confortabil la principalele atracții. Începem în centrul istoric și folosim autobuzul pentru a face naveta între port și muzee. Este un mod fără stres de a experimenta orașul fără grija parcării.",
-        "en": "With public transit, we comfortably reach the main sights. We start in the historic center and use the bus to shuttle between the harbor and the museums. It's a stress-free way to experience the city without parking worries."
+        "en": "With public transit, we comfortably reach the main sights. We start in the historic center and use the bus to shuttle between the harbor and the museums. It's a stress-free way to experience the city without parking worries.",
+        "es": "Con el transporte público, llegamos cómodamente a los principales lugares. Empezamos en el centro histórico y usamos el bus para desplazarnos entre el puerto y los museos. Es una forma sin estrés de conocer la ciudad sin preocuparse por aparcar."
       },
       "gastro_picks": {
         "de": [
@@ -2004,6 +2181,10 @@
         "en": [
           "Lines 1, 2, and 7 connect the most important points.",
           "Tickets can be bought from the driver."
+        ],
+        "es": [
+          "Las líneas 1, 2 y 7 conectan los puntos más importantes.",
+          "Los billetes se pueden comprar al conductor."
         ]
       },
       "variants": {
@@ -2012,7 +2193,8 @@
             "de": "Mit dem öffentlichen Nahverkehr erreichen wir bequem die Hauptsehenswürdigkeiten. Wir starten im historischen Zentrum und nutzen den Bus, um zwischen dem Hafen und den Museen zu pendeln. Es ist eine stressfreie Art, die Stadt ohne Parkplatzsorgen zu erleben.",
             "hu": "Tömegközlekedéssel kényelmesen elérjük a fő látnivalókat. A történelmi központból indulunk, és busszal ingázunk a kikötő és a múzeumok között. Stresszmentes módja a város felfedezésének parkolási gondok nélkül.",
             "ro": "Cu transportul public ajungem confortabil la principalele atracții. Începem în centrul istoric și folosim autobuzul pentru a face naveta între port și muzee. Este un mod fără stres de a experimenta orașul fără grija parcării.",
-            "en": "With public transit, we comfortably reach the main sights. We start in the historic center and use the bus to shuttle between the harbor and the museums. It's a stress-free way to experience the city without parking worries."
+            "en": "With public transit, we comfortably reach the main sights. We start in the historic center and use the bus to shuttle between the harbor and the museums. It's a stress-free way to experience the city without parking worries.",
+            "es": "Con el transporte público, llegamos cómodamente a los principales lugares. Empezamos en el centro histórico y usamos el bus para desplazarnos entre el puerto y los museos. Es una forma sin estrés de conocer la ciudad sin preocuparse por aparcar."
           },
           "stops": [
             {
@@ -2020,13 +2202,15 @@
                 "de": "Calle Mayor",
                 "hu": "Calle Mayor",
                 "ro": "Calle Mayor",
-                "en": "Calle Mayor"
+                "en": "Calle Mayor",
+                "es": "Calle Mayor"
               },
               "tip_5lang": {
                 "de": "Zentraler Ausstiegspunkt.",
                 "hu": "Központi leszállóhely.",
                 "ro": "Punct central de coborâre.",
-                "en": "Central drop-off point."
+                "en": "Central drop-off point.",
+                "es": "Punto de bajada central."
               }
             },
             {
@@ -2034,13 +2218,15 @@
                 "de": "Teatro Romano",
                 "hu": "Teatro Romano",
                 "ro": "Teatru Roman",
-                "en": "Roman Theatre"
+                "en": "Roman Theatre",
+                "es": "Teatro Romano"
               },
               "tip_5lang": {
                 "de": "Kurzer Fußweg von der Bushaltestelle.",
                 "hu": "Rövid séta a buszmegállótól.",
                 "ro": "Scurtă plimbare de la stația de autobuz.",
-                "en": "Short walk from the bus stop."
+                "en": "Short walk from the bus stop.",
+                "es": "Corta caminata desde la parada de autobús."
               }
             }
           ],
@@ -2142,6 +2328,10 @@
             "en": [
               "Lines 1, 2, and 7 connect the most important points.",
               "Tickets can be bought from the driver."
+            ],
+            "es": [
+              "Las líneas 1, 2 y 7 conectan los puntos más importantes.",
+              "Los billetes se pueden comprar al conductor."
             ]
           }
         },
@@ -2150,7 +2340,8 @@
             "de": "Morgens nutzen Sie den Bus zur Calle Mayor und bleiben im Schutz der Geschäfte. Mittags bietet das Römische Theater eine lange, trockene Besichtigung. Nachmittags fahren Sie mit der Linie 7 zu weiteren überdachten Zielen. Abends beenden Sie den Tag in einem gemütlichen Restaurant nahe einer Bushaltestelle.",
             "hu": "Reggel busszal érkezünk a Calle Mayorhoz, az üzletek védelmében maradva. Délben a Római Színház kínál hosszú, száraz programot. Délután a 7-es busszal utazunk más fedett látnivalók felé. Estére egy buszmegállóhoz közeli, barátságos éttermet választunk a vacsorához.",
             "ro": "Dimineața luați autobuzul spre Calle Mayor și rămâneți sub protecția magazinelor. La prânz, Teatrul Roman oferă o vizită lungă și uscată. După-amiaza folosiți linia 7 spre alte obiective acoperite. Seara se încheie într-un restaurant primitor situat lângă o stație de autobuz.",
-            "en": "Morning starts with a bus ride to Calle Mayor, keeping under the shop awnings. At noon, the Roman Theatre provides a long and dry indoor visit. In the afternoon, use line 7 to reach other sheltered spots. End your evening in a cozy restaurant conveniently located near a bus stop."
+            "en": "Morning starts with a bus ride to Calle Mayor, keeping under the shop awnings. At noon, the Roman Theatre provides a long and dry indoor visit. In the afternoon, use line 7 to reach other sheltered spots. End your evening in a cozy restaurant conveniently located near a bus stop.",
+            "es": "La mañana comienza con un viaje en bus a la Calle Mayor, manteniéndote bajo los toldos de las tiendas. Al mediodía, el Teatro Romano ofrece una larga y seca visita en interior. Por la tarde, toma la línea 7 para alcanzar otros puntos resguardados. Termina la noche en un restaurante acogedor, convenientemente cerca de una parada de bus."
           },
           "stops": [
             {
@@ -2159,7 +2350,8 @@
                 "de": "Bushaltestelle 'Plaza de España' ist nah und zentral.",
                 "hu": "A 'Plaza de España' megálló közel van és központi.",
                 "ro": "Stația 'Plaza de España' este aproape și centrală.",
-                "en": "The 'Plaza de España' bus stop is central and close by."
+                "en": "The 'Plaza de España' bus stop is central and close by.",
+                "es": "La parada 'Plaza de España' es céntrica y está cerca."
               }
             },
             {
@@ -2168,7 +2360,8 @@
                 "de": "Vom Busbahnhof sind es nur wenige Gehminuten.",
                 "hu": "A buszpályaudvartól csak pár perc séta.",
                 "ro": "De la autogară sunt doar câteva minute de mers.",
-                "en": "Only a few minutes' walk from the bus station."
+                "en": "Only a few minutes' walk from the bus station.",
+                "es": "A solo unos minutos a pie de la estación de autobuses."
               }
             }
           ],
@@ -2200,6 +2393,13 @@
               "Try to time your transfers at larger, sheltered stations.",
               "Buses are perfect for skipping long walks in heavy rain.",
               "Purchase a 10-trip pass (Bonobús) to save money."
+            ],
+            "es": [
+              "Usa la app 'Cartagena Bus' para información de llegadas en tiempo real.",
+              "Las paradas de autobús suelen ofrecer refugio limitado de la lluvia.",
+              "Intenta sincronizar tus transbordos en estaciones más grandes y cubiertas.",
+              "Los autobuses son perfectos para evitar largas caminatas bajo la lluvia intensa.",
+              "Compra un bono de 10 viajes (Bonobús) para ahorrar dinero."
             ]
           }
         },
@@ -2208,7 +2408,8 @@
             "de": "Ein sonniger Wintermorgen beginnt mit einer Busfahrt ins Zentrum zur Calle Mayor. Mittags besuchen Sie das Römische Theater, wenn die Sonne die Steine erwärmt. Nachmittags nutzen Sie den Transit zum Hafen, um die Winterbrise zu genießen. Abends bringt Sie der Bus sicher zurück, bevor es draußen richtig abkühlt.",
             "hu": "Napsütéses téli reggel, busszal utazunk a belvárosba, a Calle Mayorhoz. Délben a Római Színházat látogatjuk meg, miközben a nap melegíti a köveket. Délután a kikötő felé vesszük az irányt tömegközlekedéssel. Este a busz kényelmesen visszavisz, mielőtt igazán lehűlne a levegő.",
             "ro": "O dimineață însorită de iarnă începe cu un drum cu autobuzul spre Calle Mayor. La prânz vizitați Teatrul Roman în timp ce soarele încălzește ruinele. După-amiaza folosiți transportul spre port pentru a simți briza iernii. Seara, autobuzul vă duce înapoi confortabil înainte de lăsarea frigului.",
-            "en": "A sunny winter morning begins with a bus ride to the center and Calle Mayor. At noon, visit the Roman Theatre as the sun warms the ancient stones. In the afternoon, take transit to the port area to enjoy the brisk winter air. In the evening, the bus gets you back warmly before the night chill sets in."
+            "en": "A sunny winter morning begins with a bus ride to the center and Calle Mayor. At noon, visit the Roman Theatre as the sun warms the ancient stones. In the afternoon, take transit to the port area to enjoy the brisk winter air. In the evening, the bus gets you back warmly before the night chill sets in.",
+            "es": "Una soleada mañana invernal comienza con un bus al centro y la Calle Mayor. Al mediodía, visita el Teatro Romano mientras el sol calienta las piedras antiguas. Por la tarde, toma el transporte al área del puerto para disfrutar del fresco aire invernal. Por la noche, el bus te devuelve a resguardo antes de que llegue el frío."
           },
           "stops": [
             {
@@ -2217,7 +2418,8 @@
                 "de": "Busse sind im Winter gut beheizt.",
                 "hu": "A buszok télen jól fűtöttek.",
                 "ro": "Autobuzele sunt bine încălzite iarna.",
-                "en": "Buses are well-heated during the winter months."
+                "en": "Buses are well-heated during the winter months.",
+                "es": "Los autobuses están bien calefactados durante los meses de invierno."
               }
             },
             {
@@ -2226,7 +2428,8 @@
                 "de": "Sonnige Haltestellen zum Warten bevorzugen.",
                 "hu": "Várjon a napsütötte megállókban a buszra.",
                 "ro": "Așteptați autobuzul în stațiile însorite.",
-                "en": "Wait for your bus at the sunnier stops."
+                "en": "Wait for your bus at the sunnier stops.",
+                "es": "Espera el autobús en las paradas más soleadas."
               }
             }
           ],
@@ -2258,6 +2461,13 @@
               "Be prepared for the bus heating to be quite warm.",
               "Use transit to explore residential districts further out.",
               "Buses are a great refuge if the coastal wind gets too strong."
+            ],
+            "es": [
+              "Los autobuses operan con su horario habitual durante el invierno.",
+              "Los autobuses se llenan significativamente después de las 18:30.",
+              "Prepárate porque la calefacción del autobús puede ser bastante cálida.",
+              "Usa el transporte público para explorar los barrios residenciales más alejados.",
+              "Los autobuses son un buen refugio si el viento costero se vuelve demasiado fuerte."
             ]
           }
         }
@@ -2272,19 +2482,22 @@
       "de": "Cartagena ist eine echte spanische Hafenstadt, ausserhalb der Hauptattraktionen ist Spanisch fast unverzichtbar. Die Murcianer schlucken Endungen ('grasia' statt 'gracias'), nicht erschrecken. Mit einem 'mijico' (mein Lieber) wird man oft angesprochen, das ist freundlich gemeint.",
       "hu": "Cartagena igazi spanyol kikotovaros, a fo latvanyossagokon kivul a spanyol tudas szinte kotelezo. A murciaiak lenyelik a szovegi vegzodest ('grasia' a 'gracias' helyett), ne lepodj meg. Gyakran 'mijico'-nak (kedvesem) szolitanak, ez baratsagos szandekkal van.",
       "ro": "Cartagena e un port spaniol autentic, in afara atractiilor principale spaniola devine aproape obligatorie. Murcienii inghit terminatiile ('grasia' in loc de 'gracias'), sa nu te miri. Te vor striga des 'mijico' (draga), e doar prietenos.",
-      "en": "Cartagena is a real Spanish port city, with Spanish nearly essential outside the main sights. Locals from Murcia drop word endings ('grasia' for 'gracias'), don't be alarmed. You'll often be addressed as 'mijico' (my dear), which is a friendly term."
+      "en": "Cartagena is a real Spanish port city, with Spanish nearly essential outside the main sights. Locals from Murcia drop word endings ('grasia' for 'gracias'), don't be alarmed. You'll often be addressed as 'mijico' (my dear), which is a friendly term.",
+      "es": "Cartagena es una verdadera ciudad portuaria española; el español es casi imprescindible fuera de los principales puntos turísticos. La gente de Murcia omite finales de palabra («grasia» por «gracias»), no te alarmes. A menudo te llamarán «mijico», un término afectuoso."
     },
     "best_time_to_visit": {
       "de": "Maerz bis Juni und September bis Oktober sind perfekt: 18 bis 28 Grad und gute Sicht im Roemischen Theater. Mitte September laeuft das Festival Cartagena Jazz und im November die Carthaginienses-y-Romanos-Spektakel. Juli und August sind druckend heiss, der Innenhafen wirkt dann wie ein Backofen.",
       "hu": "Marcius-junius es szeptember-oktober a topido: 18-28 fok, jo lathatosag a romai szinhaznal. Szeptember kozepen a Cartagena Jazz fesztival, novemberben a Carthaginienses y Romanos jatekok zajlanak. Julius-augusztus nyomaszto, a belso kikoto akar a sutoke melc.",
       "ro": "Martie-iunie si septembrie-octombrie sunt ideale: 18-28 grade si vizibilitate buna la Teatrul Roman. La mijlocul lui septembrie are loc festivalul Cartagena Jazz, iar in noiembrie spectacolele Carthaginienses y Romanos. Iulie-august sunt apasator de calde, portul interior devine cuptor.",
-      "en": "March-June and September-October are perfect: 18-28C with clear views of the Roman Theatre. Mid-September brings the Cartagena Jazz festival and November the Carthaginienses y Romanos pageant. July-August get oppressively hot, with the inner harbour baking like an oven."
+      "en": "March-June and September-October are perfect: 18-28C with clear views of the Roman Theatre. Mid-September brings the Cartagena Jazz festival and November the Carthaginienses y Romanos pageant. July-August get oppressively hot, with the inner harbour baking like an oven.",
+      "es": "Marzo-junio y septiembre-octubre son perfectos: 18-28 °C con vistas claras al Teatro Romano. A mediados de septiembre se celebra el festival Cartagena Jazz y en noviembre la recreación Carthagineses y Romanos. Julio-agosto resulta agobiante, con el puerto interior como un horno."
     },
     "neighborhood_warnings": {
       "de": "Das Zentrum und der Hafen sind sicher, das Viertel Lo Campano im Westen sollte man als Tourist meiden. Am Bahnhof Cartagena gibt es vereinzelt Trickdiebe, die nach dem Weg fragen. Beim Aufstieg zum Conception-Schloss am Abend wenig Beleuchtung, lieber tagsueber.",
       "hu": "A belvaros es a kikoto biztonsagos, a Lo Campano negyedet nyugaton turistakent kerulendo. A cartagenai palyaudvaron felbukkanhatnak utbaigazitos trukk-tolvajok. A Conception varhoz estere kevesbe kivilagitott az ut, jobb napkozben felmenni.",
       "ro": "Centrul si portul sunt sigure, cartierul Lo Campano de la vest e de evitat ca turist. La gara Cartagena apar uneori hoti care cer indicatii. Urcusul la castelul Conception e slab iluminat seara, mai bine in timpul zilei.",
-      "en": "The centre and port are safe, but tourists should avoid the western Lo Campano district. Petty con-thieves occasionally work Cartagena train station asking for directions. The climb to Conception Castle is poorly lit after dark, so do it by day."
+      "en": "The centre and port are safe, but tourists should avoid the western Lo Campano district. Petty con-thieves occasionally work Cartagena train station asking for directions. The climb to Conception Castle is poorly lit after dark, so do it by day.",
+      "es": "El centro y el puerto son seguros, pero los turistas deben evitar el barrio occidental de Lo Campano. Hurtos menores ocurren ocasionalmente en la estación de tren, con timadores pidiendo direcciones. La subida al Castillo de la Concepción está mal iluminada de noche, hazla de día."
     }
   }
 }

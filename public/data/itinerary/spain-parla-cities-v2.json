@@ -21,7 +21,8 @@
             "de": "Plaza de la Constitución",
             "hu": "Alkotmány tér",
             "ro": "Plaza de la Constitución",
-            "en": "Constitution Square"
+            "en": "Constitution Square",
+            "es": "Plaza de la Constitución"
           },
           "coords": [
             -3.7731,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee in einem der örtlichen Cafés.",
             "hu": "Kezdje a napot egy kávéval a helyi kávézók egyikében.",
             "ro": "Începeți-vă ziua aici cu o cafea la una dintre cafenelele locale.",
-            "en": "Start your day here with a coffee at one of the local cafes."
+            "en": "Start your day here with a coffee at one of the local cafes.",
+            "es": "Empieza el día aquí con un café en uno de los bares locales."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Kirche Nuestra Señora de la Asunción",
             "hu": "Nuestra Señora de la Asunción templom",
             "ro": "Biserica Nuestra Señora de la Asunción",
-            "en": "Church of Nuestra Señora de la Asunción"
+            "en": "Church of Nuestra Señora de la Asunción",
+            "es": "Iglesia de Nuestra Señora de la Asunción"
           },
           "coords": [
             -3.7745,
@@ -61,7 +64,8 @@
             "de": "Beachten Sie den barocken Altaraufsatz im Inneren.",
             "hu": "Figyelje meg a barokk oltárképet a templom belsejében.",
             "ro": "Observați altarul baroc din interior.",
-            "en": "Note the Baroque altarpiece inside."
+            "en": "Note the Baroque altarpiece inside.",
+            "es": "Fíjate en el retablo barroco del interior."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Einsiedelei der Soledad",
             "hu": "Soledad remetelak",
             "ro": "Schitul Soledad",
-            "en": "Hermitage of Solitude"
+            "en": "Hermitage of Solitude",
+            "es": "Ermita de la Soledad"
           },
           "coords": [
             -3.7788,
@@ -85,7 +90,8 @@
             "de": "Ein Ort der Ruhe, etwas abseits des Hauptplatzes.",
             "hu": "Egy csendes hely, kissé távolabb a főtértől.",
             "ro": "Un loc de liniște, puțin retras față de piața principală.",
-            "en": "A place of peace, slightly away from the main square."
+            "en": "A place of peace, slightly away from the main square.",
+            "es": "Un lugar de paz, algo apartado de la plaza principal."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Kulturhaus",
             "hu": "Kultúrház",
             "ro": "Casa de Cultură",
-            "en": "House of Culture"
+            "en": "House of Culture",
+            "es": "Casa de la Cultura"
           },
           "coords": [
             -3.7699,
@@ -109,7 +116,8 @@
             "de": "Prüfen Sie den Veranstaltungsplan für lokale Ausstellungen oder Aufführungen.",
             "hu": "Nézze meg a programot helyi kiállításokért vagy előadásokért.",
             "ro": "Verificați programul pentru expoziții sau spectacole locale.",
-            "en": "Check the schedule for local exhibitions or performances."
+            "en": "Check the schedule for local exhibitions or performances.",
+            "es": "Consulta la programación de exposiciones y espectáculos locales."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Parque de las Comunidades de España",
             "hu": "Spanyol Közösségek Parkja",
             "ro": "Parcul Comunităților din Spania",
-            "en": "Park of the Communities of Spain"
+            "en": "Park of the Communities of Spain",
+            "es": "Parque de las Comunidades de España"
           },
           "coords": [
             -3.7712,
@@ -133,7 +142,8 @@
             "de": "Ideal für ein Mittagspicknick. Der Park hat große Grünflächen.",
             "hu": "Ideális egy ebédpiknikhez. A park nagy zöld területekkel rendelkezik.",
             "ro": "Ideal pentru un picnic la prânz. Parcul are zone verzi extinse.",
-            "en": "Ideal for a lunch picnic. The park has large green areas."
+            "en": "Ideal for a lunch picnic. The park has large green areas.",
+            "es": "Ideal para un picnic de mediodía. El parque tiene amplias zonas verdes."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Boulevard von Parla",
             "hu": "Parlai körút",
             "ro": "Bulevardul din Parla",
-            "en": "Boulevard of Parla"
+            "en": "Boulevard of Parla",
+            "es": "Bulevar de Parla"
           },
           "coords": [
             -3.7651,
@@ -157,7 +168,8 @@
             "de": "Ein schöner Spaziergang am Nachmittag, gesäumt von Geschäften und Cafés.",
             "hu": "Egy kellemes délutáni séta, üzletekkel és kávézókkal szegélyezve.",
             "ro": "O plimbare plăcută după-amiaza, mărginită de magazine și cafenele.",
-            "en": "A nice afternoon stroll, lined with shops and cafes."
+            "en": "A nice afternoon stroll, lined with shops and cafes.",
+            "es": "Un agradable paseo vespertino, flanqueado por tiendas y cafeterías."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Botanischer Garten und Bonsai-Museum",
             "hu": "Botanikus Kert és Bonszai Múzeum",
             "ro": "Grădina Botanică și Muzeul Bonsai",
-            "en": "Botanical Garden and Bonsai Museum"
+            "en": "Botanical Garden and Bonsai Museum",
+            "es": "Jardín Botánico y Museo del Bonsái"
           },
           "coords": [
             -3.785,
@@ -181,7 +194,8 @@
             "de": "Eine beeindruckende Sammlung. Nehmen Sie sich Zeit, die komplizierten Details zu bewundern.",
             "hu": "Lenyűgöző gyűjtemény. Szánjon időt a bonyolult részletek megcsodálására.",
             "ro": "O colecție impresionantă. Luați-vă timp pentru a admira detaliile complexe.",
-            "en": "An impressive collection. Take your time to admire the intricate details."
+            "en": "An impressive collection. Take your time to admire the intricate details.",
+            "es": "Una colección impresionante. Tómate tu tiempo para admirar los detalles."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Ihr Tag in Parla beginnt am belebten Plaza de la Constitución, dem Herz der Stadt. Von dort aus erkunden Sie das reiche religiöse Erbe, beginnend mit der Hauptkirche und der ruhigen Ermita de la Soledad, die einen Einblick in die lokale Geschichte und Architektur bieten. Am Mittag tauchen Sie in die lokale Kultur im Kulturhaus ein, gefolgt von einer entspannenden Pause im weitläufigen Parque de las Comunidades, perfekt für ein Picknick. Der Nachmittag ist einem gemütlichen Spaziergang entlang des von Geschäften gesäumten Boulevards gewidmet, der zu einem einzigartigen botanischen Erlebnis im Bonsai-Museum führt und einen ruhigen Abschluss Ihres Tages darstellt.",
         "hu": "Parlai napja a nyüzsgő Plaza de la Constitución-on, a város szívében kezdődik. Innen felfedezheti a gazdag vallási örökséget, kezdve a főtemplommal és a békés Ermita de la Soledad-dal, betekintést nyerve a helyi történelembe és építészetbe. Délben elmerülhet a helyi kultúrában a Kultúrházban, majd egy pihentető szünetet tarthat a tágas Parque de las Comunidades-ban, amely tökéletes egy piknikhez. A délután egy kellemes sétával telik a boltokkal szegélyezett körúton, amely egy egyedülálló botanikai élményhez vezet a Bonszai Múzeumban, nyugodt lezárást biztosítva a napnak.",
         "ro": "Ziua dvs. în Parla începe în vibranta Plaza de la Constitución, inima orașului. De acolo, explorați bogata moștenire religioasă, începând cu biserica principală și liniștitul schit Ermita de la Soledad, oferind o privire asupra istoriei și arhitecturii locale. La prânz, vă veți cufunda în cultura locală la Casa de Cultură, urmată de o pauză relaxantă în vastul Parque de las Comunidades, perfect pentru un picnic. După-amiaza este dedicată unei plimbări agale pe bulevardul plin de magazine, care duce la o experiență botanică unică la Muzeul Bonsai, încheind ziua într-o notă de liniște.",
-        "en": "Your day in Parla begins at the bustling Plaza de la Constitución, the heart of the town. From there, explore the rich religious heritage starting with the main church and the tranquil Ermita de la Soledad, offering a glimpse into local history and architecture. At midday, immerse yourself in local culture at the House of Culture, followed by a relaxing break in the expansive Parque de las Comunidades, perfect for a picnic. The afternoon is dedicated to a leisurely stroll along the shop-lined boulevard, leading to a unique botanical experience at the Bonsai Museum, providing a serene end to your day."
+        "en": "Your day in Parla begins at the bustling Plaza de la Constitución, the heart of the town. From there, explore the rich religious heritage starting with the main church and the tranquil Ermita de la Soledad, offering a glimpse into local history and architecture. At midday, immerse yourself in local culture at the House of Culture, followed by a relaxing break in the expansive Parque de las Comunidades, perfect for a picnic. The afternoon is dedicated to a leisurely stroll along the shop-lined boulevard, leading to a unique botanical experience at the Bonsai Museum, providing a serene end to your day.",
+        "es": "Tu día en Parla comienza en la bulliciosa Plaza de la Constitución, el corazón del pueblo. Desde allí, explora el rico patrimonio religioso empezando por la iglesia principal y la tranquila Ermita de la Soledad, que ofrecen una visión de la historia y la arquitectura local. Al mediodía, sumérgete en la cultura local en la Casa de la Cultura, seguido de un descanso relajante en el amplio Parque de las Comunidades, perfecto para un picnic. La tarde se dedica a un paseo pausado por el bulevar lleno de tiendas, que termina en la experiencia botánica única del Museo del Bonsái, proporcionando un final sereno a tu día."
       },
       "gastro_picks": {
         "de": [
@@ -385,6 +400,12 @@
           "Carry water with you, especially on hot days.",
           "Most shops close for a siesta in the afternoon.",
           "A light lunch is recommended to stay active in the afternoon."
+        ],
+        "es": [
+          "Lleva calzado cómodo, ya que caminarás bastante.",
+          "Lleva agua contigo, especialmente en días calurosos.",
+          "La mayoría de las tiendas cierran por la siesta por la tarde.",
+          "Se recomienda un almuerzo ligero para mantener la energía por la tarde."
         ]
       },
       "variants": {
@@ -393,7 +414,8 @@
             "de": "Ein regnerischer Morgen in Parla beginnt auf der Plaza de la Constitución, wo die Arkaden des Rathauses Schutz bieten. Mittags dienen die Kirche Nuestra Señora de la Asunción und die Casa de la Cultura als trockene, warme Zufluchtsorte für Kulturinteressierte.\n\nAm Nachmittag glänzen der Park der Gemeinschaften und der Boulevard im Regen, was der Stadt eine melancholische Schönheit verleiht. Ein langer Aufenthalt im Kulturhaus hilft, den stärksten Güssen zu entgehen.\n\nDer späte Nachmittag führt zum Botanischen Garten, wo das Bonsai-Museum teilweise überdachte Bereiche bietet. Trotz des grauen Himmels bleibt die Route kompakt und gut begehbar.\n\nDer Abend klingt in den gemütlichen Cafés rund um das Stadtzentrum aus. Ein Regenschirm ist heute Ihr wichtigster Begleiter, während Sie die urbanen Schätze von Parla entdecken.",
             "hu": "Parla esős reggele a Plaza de la Constituciónon kezdődik, ahol a városháza körüli fedett részek nyújtanak menedéket. Délben a Nuestra Señora de la Asunción templom és a Casa de la Cultura nyújt száraz, meleg pihenőt a látogatóknak.\n\nDélután a vizes aszfalton csillogó fények kísérik utunkat a Park of the Communities és a sugárút mentén. A kulturális központ kiállításai tökéletesek arra, hogy kivárjuk a nagyobb záporok végét.\n\nA nap későbbi szakaszában a Botanikus Kert és a Bonsai Múzeum felé vesszük az irányt, ahol a pavilonok védelmet nyújtanak. Az eső ellenére a városi séta kényelmes marad a közeli megállók miatt.\n\nAz este a központ hangulatos kávézóiban ér véget, ahol megmelegedhetünk a séta után. Egy jó esernyővel Parla ilyenkor is barátságos és felfedezhető arcát mutatja.",
             "ro": "O dimineață ploioasă în Parla începe în Plaza de la Constitución, unde arcadele primăriei oferă un adăpost excelent. La prânz, Biserica Nuestra Señora de la Asunción și Casa de Cultură devin refugii ideale împotriva umezelii.\n\nDupă-amiaza, parcul și bulevardul strălucesc sub ploaie, oferind o perspectivă urbană inedită și reflexii spectaculoase. Vizita prelungită la centrul cultural este strategia perfectă pentru a evita aversele.\n\nSpre seară, ne îndreptăm către Grădina Botanică și Muzeul Bonsai, unde zonele parțial acoperite permit vizitarea în siguranță. Traseul rămâne accesibil datorită distanțelor mici dintre obiective.\n\nZiua se încheie în cafenelele primitoare din centru, savurând o băutură caldă. Cu o umbrelă la îndemână, farmecul orașului Parla rămâne intact chiar și pe vreme instabilă.",
-            "en": "A rainy morning in Parla starts at Constitution Square, using the historic arches for cover. By noon, the Church of Nuestra Señora de la Asunción and the House of Culture provide warm, dry sanctuaries for art and history lovers.\n\nIn the afternoon, the glistening streets of the Park of the Communities and the Boulevard offer a unique, moody atmosphere. Spending extra time at the cultural center is the best way to stay dry during heavy showers.\n\nThe tour continues towards the Botanical Garden and Bonsai Museum, where covered sections help you enjoy the greenery. The compact nature of the city center makes walking manageable even with an umbrella.\n\nYour day concludes in the cozy bars and cafes near the main square. Don't let the rain stop you; Parla’s indoor gems are just a short, wet walk away."
+            "en": "A rainy morning in Parla starts at Constitution Square, using the historic arches for cover. By noon, the Church of Nuestra Señora de la Asunción and the House of Culture provide warm, dry sanctuaries for art and history lovers.\n\nIn the afternoon, the glistening streets of the Park of the Communities and the Boulevard offer a unique, moody atmosphere. Spending extra time at the cultural center is the best way to stay dry during heavy showers.\n\nThe tour continues towards the Botanical Garden and Bonsai Museum, where covered sections help you enjoy the greenery. The compact nature of the city center makes walking manageable even with an umbrella.\n\nYour day concludes in the cozy bars and cafes near the main square. Don't let the rain stop you; Parla’s indoor gems are just a short, wet walk away.",
+            "es": "Una mañana lluviosa en Parla comienza en la Plaza de la Constitución, usando los arcos históricos como cobertura. Al mediodía, la Iglesia de Nuestra Señora de la Asunción y la Casa de la Cultura ofrecen refugio cálido y seco para los amantes del arte y la historia.\n\nPor la tarde, las calles brillantes del Parque de las Comunidades y el Bulevar ofrecen una atmósfera única y melancólica. Pasar más tiempo en el centro cultural es la mejor manera de mantenerse seco durante lluvias fuertes.\n\nEl recorrido continúa hacia el Jardín Botánico y el Museo del Bonsái, donde las zonas cubiertas te ayudan a disfrutar del verde. La naturaleza compacta del centro hace que caminar sea manejable incluso con paraguas.\n\nTu día concluye en los acogedores bares y cafeterías cerca de la plaza principal. No dejes que la lluvia te detenga; los tesoros interiores de Parla están a una corta y húmeda caminata."
           },
           "stops": [
             {
@@ -402,7 +424,8 @@
                 "de": "Nutzen Sie die Arkaden des Rathauses als Regenschutz.",
                 "hu": "Használja a városháza árkádjait eső elleni menedékként.",
                 "ro": "Folosiți arcadele primăriei pentru a vă feri de ploaie.",
-                "en": "Use the Town Hall arches as a convenient rain shelter."
+                "en": "Use the Town Hall arches as a convenient rain shelter.",
+                "es": "Usa los arcos del Ayuntamiento como refugio práctico de la lluvia."
               }
             },
             {
@@ -411,7 +434,8 @@
                 "de": "Ein ruhiger und trockener Ort für eine Pause.",
                 "hu": "Csendes és száraz helyszín egy rövid pihenőhöz.",
                 "ro": "Un loc liniștit și uscat pentru o pauză scurtă.",
-                "en": "A quiet and dry spot for a spiritual break."
+                "en": "A quiet and dry spot for a spiritual break.",
+                "es": "Un lugar tranquilo y seco para una pausa espiritual."
               }
             },
             {
@@ -420,7 +444,8 @@
                 "de": "Vorsicht vor rutschigen Steinen am Eingang.",
                 "hu": "Vigyázzon a csúszós kövekre a bejáratnál.",
                 "ro": "Atenție la pietrele alunecoase de la intrare.",
-                "en": "Watch out for slippery stones near the entrance."
+                "en": "Watch out for slippery stones near the entrance.",
+                "es": "Cuidado con las piedras resbaladizas cerca de la entrada."
               }
             },
             {
@@ -429,7 +454,8 @@
                 "de": "Ideal, um eine längere Regenpause einzulegen.",
                 "hu": "Ideális helyszín egy hosszabb esőszünet tartására.",
                 "ro": "Locul ideal pentru a aștepta trecerea ploii.",
-                "en": "Perfect place to wait out a heavy downpour."
+                "en": "Perfect place to wait out a heavy downpour.",
+                "es": "Perfecto para esperar a que pase un aguacero intenso."
               }
             },
             {
@@ -438,7 +464,8 @@
                 "de": "Bleiben Sie auf den befestigten Wegen.",
                 "hu": "Maradjon a kövezett utakon a sár elkerülésére.",
                 "ro": "Rămâneți pe aleile pavate pentru a evita noroiul.",
-                "en": "Stick to paved paths to avoid mud and puddles."
+                "en": "Stick to paved paths to avoid mud and puddles.",
+                "es": "Sigue los caminos pavimentados para evitar barro y charcos."
               }
             },
             {
@@ -447,7 +474,8 @@
                 "de": "Die Cafés am Boulevard bieten trockene Sitzplätze.",
                 "hu": "A sugárút kávézói fedett ülőhelyeket kínálnak.",
                 "ro": "Cafenelele de pe bulevard oferă locuri acoperite.",
-                "en": "Boulevard cafes offer dry indoor seating areas."
+                "en": "Boulevard cafes offer dry indoor seating areas.",
+                "es": "Las cafeterías del bulevar ofrecen asientos interiores secos."
               }
             },
             {
@@ -456,7 +484,8 @@
                 "de": "Besuchen Sie die überdachte Bonsai-Ausstellung.",
                 "hu": "Látogassa meg a fedett bonsai kiállítást.",
                 "ro": "Vizitați expoziția de bonsai din zona acoperită.",
-                "en": "Visit the covered sections of the bonsai museum."
+                "en": "Visit the covered sections of the bonsai museum.",
+                "es": "Visita las zonas cubiertas del museo del bonsái."
               }
             }
           ],
@@ -488,6 +517,13 @@
               "Central cafes are close together, perfect for a quick dry-off break.",
               "The Parla Tram is a reliable backup if the rain gets too heavy for walking.",
               "A compact umbrella is ideal for navigating the short gaps between stops."
+            ],
+            "es": [
+              "Lleva calzado impermeable, ya que pueden formarse charcos rápidamente en los parques.",
+              "La Casa de la Cultura suele acoger exposiciones interiores gratuitas en días lluviosos.",
+              "Las cafeterías del centro están cerca unas de otras, perfectas para una rápida pausa para secarse.",
+              "El Tranvía de Parla es una alternativa fiable si la lluvia dificulta caminar.",
+              "Un paraguas compacto es ideal para salvar los cortos tramos entre paradas."
             ]
           }
         },
@@ -496,7 +532,8 @@
             "de": "Ein klarer Wintermorgen in Parla empfängt Sie mit frischer, kühler Luft auf der Plaza de la Constitución. Die Sonne steht tief, taucht die Kirche Nuestra Señora de la Asunción in ein goldenes Licht und lädt zu einem ersten wärmenden Kaffee ein.\n\nZur Mittagszeit bietet die Casa de la Cultura ein angenehmes Klima, um lokale Kunst zu bewundern. Die trockene Kälte der Meseta ist spürbar, aber die Wege im Zentrum sind kurz und sonnig.\n\nAm Nachmittag führt der Weg durch den Park der Gemeinschaften, wo die kahlen Bäume weite Ausblicke ermöglichen. Da die Sonne gegen 18:00 Uhr untergeht, sollte man den Boulevard frühzeitig besuchen.\n\nDer Tag endet im Botanischen Garten, bevor die Abendkälte einsetzt. Danach locken die gemütlichen Bars im Zentrum mit Tapas und regionalen Weinen, um sich nach dem winterlichen Spaziergang aufzuwärmen.",
             "hu": "A friss téli reggel Parla főterén, a Plaza de la Constituciónon kezdődik, ahol a hideg levegőt gyakran ragyogó napsütés kíséri. A Nuestra Señora de la Asunción templom ilyenkor különösen szép a lapos téli fényekben.\n\nDélben a Casa de la Cultura fűtött tereiben böngészhetjük a helyi kiállításokat, elkerülve a kinti szelet. A belvárosi utcák szélvédett részei kellemes sétát biztosítanak a száraz hidegben is.\n\nDélután a Park of the Communities kopár fái között nagyot sétálhatunk a lemenő nap sugaraiban. Mivel 18:00 körül már sötétedik, érdemes a sugárutat még világosban bejárni.\n\nA napot a Botanikus Kertben zárjuk, majd a központ nyüzsgő bárjaiba vonulunk vissza. A helyi tapas-bárok melegsége tökéletes lezárása a téli városnézésnek.",
             "ro": "O dimineață senină de iarnă în Parla vă întâmpină cu aer curat în Plaza de la Constitución. Soarele blând luminează Biserica Nuestra Señora de la Asunción, oferind cadrul perfect pentru a începe explorarea cu o cafea fierbinte.\n\nLa prânz, interiorul Casei de Cultură este locul ideal pentru a vă încălzi în timp ce descoperiți viața culturală locală. Frigul uscat specific zonei Madridului face ca plimbările scurte să fie revigorante.\n\nDupă-amiaza este dedicată Parcului Comunităților, unde vizibilitatea este maximă prin coroanele golașe ale arborilor. Având în vedere că soarele apune devreme, în jur de ora 18:00, profitați de lumină pe bulevard.\n\nVizita se încheie la Muzeul Bonsai înainte de lăsarea serii. Ulterior, barurile primitoare din centrul orașului vă așteaptă cu tapas și o atmosferă caldă, perfectă după o zi de iarnă.",
-            "en": "A crisp winter morning in Parla begins at Constitution Square, where the cool air is often met with bright Spanish sunshine. The Church of Nuestra Señora de la Asunción looks majestic in the low winter light, perfect for photography.\n\nAt midday, retreat to the heated interiors of the House of Culture to explore local exhibitions. The dry winter chill of the plateau makes the short walking distances between city center sites very pleasant.\n\nIn the afternoon, enjoy a brisk walk through the Park of the Communities before the early sunset around 6:00 PM. The Boulevard is lively in the afternoon as locals enjoy the winter sun.\n\nThe day concludes at the Bonsai Museum just before the evening chill sets in. Afterwards, head to the bustling central bars for warm tapas and a cozy end to your winter urban trek."
+            "en": "A crisp winter morning in Parla begins at Constitution Square, where the cool air is often met with bright Spanish sunshine. The Church of Nuestra Señora de la Asunción looks majestic in the low winter light, perfect for photography.\n\nAt midday, retreat to the heated interiors of the House of Culture to explore local exhibitions. The dry winter chill of the plateau makes the short walking distances between city center sites very pleasant.\n\nIn the afternoon, enjoy a brisk walk through the Park of the Communities before the early sunset around 6:00 PM. The Boulevard is lively in the afternoon as locals enjoy the winter sun.\n\nThe day concludes at the Bonsai Museum just before the evening chill sets in. Afterwards, head to the bustling central bars for warm tapas and a cozy end to your winter urban trek.",
+            "es": "Una fresca mañana invernal en Parla comienza en la Plaza de la Constitución, donde el aire frío suele encontrarse con un brillante sol español. La Iglesia de Nuestra Señora de la Asunción luce majestuosa con la baja luz invernal, perfecta para fotografiar.\n\nAl mediodía, resguárdate en el interior climatizado de la Casa de la Cultura para ver exposiciones locales. La sequedad del aire de la meseta hace que las cortas distancias a pie entre los lugares del centro sean muy agradables.\n\nPor la tarde, disfruta de un paseo enérgico por el Parque de las Comunidades antes de la puesta de sol temprana alrededor de las 18:00. El Bulevar está animado por la tarde, cuando la gente local disfruta del sol invernal.\n\nEl día concluye en el Museo del Bonsái justo antes de que entre el frío nocturno. Después, dirígete a los bares centrales para tapas calientes y un cierre acogedor de tu paseo urbano invernal."
           },
           "stops": [
             {
@@ -505,7 +542,8 @@
                 "de": "Genießen Sie die Morgensonne auf den Bänken am Platz.",
                 "hu": "Élvezze a reggeli napsütést a tér padjain.",
                 "ro": "Bucurați-vă de soarele dimineții pe băncile din piață.",
-                "en": "Enjoy the morning sun on the square's benches."
+                "en": "Enjoy the morning sun on the square's benches.",
+                "es": "Disfruta del sol de la mañana en los bancos de la plaza."
               }
             },
             {
@@ -514,7 +552,8 @@
                 "de": "Die dicken Mauern halten im Winter eine milde Temperatur.",
                 "hu": "A vastag falak télen is tartják az enyhe hőmérsékletet.",
                 "ro": "Zidurile groase mențin o temperatură blândă iarna.",
-                "en": "The thick walls keep the interior relatively mild in winter."
+                "en": "The thick walls keep the interior relatively mild in winter.",
+                "es": "Los muros gruesos mantienen el interior relativamente templado en invierno."
               }
             },
             {
@@ -523,7 +562,8 @@
                 "de": "Ein kurzer Stopp reicht bei winterlichem Wind aus.",
                 "hu": "Egy rövid megálló elég a téli szélben.",
                 "ro": "O oprire scurtă este suficientă dacă bate vântul.",
-                "en": "A short stop is sufficient if the winter wind is blowing."
+                "en": "A short stop is sufficient if the winter wind is blowing.",
+                "es": "Una parada corta es suficiente si sopla el viento invernal."
               }
             },
             {
@@ -532,7 +572,8 @@
                 "de": "Ein warmer Ort für eine ausgiebige Mittagspause.",
                 "hu": "Fűtött helyszín egy kiadós déli pihenőhöz.",
                 "ro": "Un spațiu încălzit pentru o pauză lungă la prânz.",
-                "en": "A warm indoor venue for an extended midday break."
+                "en": "A warm indoor venue for an extended midday break.",
+                "es": "Un lugar interior cálido para un descanso prolongado al mediodía."
               }
             },
             {
@@ -541,7 +582,8 @@
                 "de": "Tragen Sie einen Schal gegen den Wind im offenen Park.",
                 "hu": "Viseljen sálat a szél ellen a nyílt parkban.",
                 "ro": "Purtați un fular împotriva vântului în spațiile deschise.",
-                "en": "Wear a scarf to shield against the wind in open areas."
+                "en": "Wear a scarf to shield against the wind in open areas.",
+                "es": "Lleva una bufanda para protegerte del viento en las zonas abiertas."
               }
             },
             {
@@ -550,7 +592,8 @@
                 "de": "Perfekt für einen warmen 'Café con leche' am Nachmittag.",
                 "hu": "Tökéletes hely egy délutáni tejeskávéhoz.",
                 "ro": "Ideal pentru un 'café con leche' fierbinte după-amiaza.",
-                "en": "Perfect for a warm afternoon 'café con leche'."
+                "en": "Perfect for a warm afternoon 'café con leche'.",
+                "es": "Perfecto para un cálido 'café con leche' por la tarde."
               }
             },
             {
@@ -559,7 +602,8 @@
                 "de": "Besuchen Sie diesen Ort vor dem frühen Sonnenuntergang.",
                 "hu": "Látogasson el ide a korai naplemente előtt.",
                 "ro": "Vizitați acest obiectiv înainte de apusul devreme.",
-                "en": "Visit here before the early sunset around 6 PM."
+                "en": "Visit here before the early sunset around 6 PM.",
+                "es": "Visita este lugar antes de la puesta de sol temprana, alrededor de las 18:00."
               }
             }
           ],
@@ -591,6 +635,13 @@
               "Parla is on a high plateau, so winter winds can be quite sharp and cold.",
               "Try hot chocolate with churros at central cafes for a classic winter treat.",
               "The hours between 12:00 and 3:00 PM are the warmest for walking between stops."
+            ],
+            "es": [
+              "Vístete por capas; puede dar calor al sol pero bastante frío a la sombra.",
+              "La puesta de sol es sobre las 18:00; prioriza las visitas a parques durante las horas de luz.",
+              "Parla está en una meseta alta, por lo que los vientos invernales pueden ser bastante cortantes y fríos.",
+              "Prueba el chocolate caliente con churros en las cafeterías centrales para un clásico dulce invernal.",
+              "Las horas entre las 12:00 y las 15:00 son las más cálidas para caminar entre paradas."
             ]
           }
         }
@@ -609,7 +660,8 @@
             "de": "Plaza de la Constitución",
             "hu": "Alkotmány tér",
             "ro": "Plaza de la Constitución",
-            "en": "Constitution Square"
+            "en": "Constitution Square",
+            "es": "Plaza de la Constitución"
           },
           "coords": [
             -3.7731,
@@ -625,7 +677,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie den Platz erkunden.",
             "hu": "Zárja le biztonságosan a kerékpárját, mielőtt felfedezné a teret.",
             "ro": "Asigurați-vă bicicleta înainte de a explora piața.",
-            "en": "Lock your bike securely before exploring the square."
+            "en": "Lock your bike securely before exploring the square.",
+            "es": "Asegura bien tu bici antes de explorar la plaza."
           }
         },
         {
@@ -633,7 +686,8 @@
             "de": "Kirche Nuestra Señora de la Asunción",
             "hu": "Nuestra Señora de la Asunción templom",
             "ro": "Biserica Nuestra Señora de la Asunción",
-            "en": "Church of Nuestra Señora de la Asunción"
+            "en": "Church of Nuestra Señora de la Asunción",
+            "es": "Iglesia de Nuestra Señora de la Asunción"
           },
           "coords": [
             -3.7745,
@@ -649,7 +703,8 @@
             "de": "Ein kurzer Halt, um die beeindruckende Fassade zu bewundern.",
             "hu": "Egy rövid megálló a lenyűgöző homlokzat megcsodálására.",
             "ro": "O oprire scurtă pentru a admira fațada impresionantă.",
-            "en": "A quick stop to admire the impressive facade."
+            "en": "A quick stop to admire the impressive facade.",
+            "es": "Una parada rápida para admirar la impresionante fachada."
           }
         },
         {
@@ -657,7 +712,8 @@
             "de": "Einsiedelei der Soledad",
             "hu": "Soledad remetelak",
             "ro": "Schitul Soledad",
-            "en": "Hermitage of Solitude"
+            "en": "Hermitage of Solitude",
+            "es": "Ermita de la Soledad"
           },
           "coords": [
             -3.7788,
@@ -673,7 +729,8 @@
             "de": "Genießen Sie die ruhige Atmosphäre abseits der belebteren Straßen.",
             "hu": "Élvezze a csendes légkört a forgalmasabb utcáktól távol.",
             "ro": "Bucurați-vă de atmosfera liniștită, departe de străzile mai aglomerate.",
-            "en": "Enjoy the quiet atmosphere away from the busier streets."
+            "en": "Enjoy the quiet atmosphere away from the busier streets.",
+            "es": "Disfruta de la atmósfera tranquila, lejos de las calles más concurridas."
           }
         },
         {
@@ -681,7 +738,8 @@
             "de": "Kulturhaus",
             "hu": "Kultúrház",
             "ro": "Casa de Cultură",
-            "en": "House of Culture"
+            "en": "House of Culture",
+            "es": "Casa de la Cultura"
           },
           "coords": [
             -3.7699,
@@ -697,7 +755,8 @@
             "de": "Ein großartiger Ort, um lokale Kunst und Kultur kennenzulernen.",
             "hu": "Nagyszerű hely a helyi művészet és kultúra megismerésére.",
             "ro": "Un loc minunat pentru a experimenta arta și cultura locală.",
-            "en": "A great place to experience local art and culture."
+            "en": "A great place to experience local art and culture.",
+            "es": "Un lugar ideal para disfrutar del arte y la cultura local."
           }
         },
         {
@@ -705,7 +764,8 @@
             "de": "Parque de las Comunidades de España",
             "hu": "Spanyol Közösségek Parkja",
             "ro": "Parcul Comunităților din Spania",
-            "en": "Park of the Communities of Spain"
+            "en": "Park of the Communities of Spain",
+            "es": "Parque de las Comunidades de España"
           },
           "coords": [
             -3.7712,
@@ -721,7 +781,8 @@
             "de": "Fahren Sie um den See herum und machen Sie eine lange Mittagspause.",
             "hu": "Kerülje meg a tavat és tartson egy hosszú ebédszünetet.",
             "ro": "Plimbați-vă cu bicicleta în jurul lacului și luați o pauză lungă de prânz.",
-            "en": "Cycle around the lake and take a long lunch break."
+            "en": "Cycle around the lake and take a long lunch break.",
+            "es": "Haz un recorrido en bici alrededor del lago y toma un almuerzo largo."
           }
         },
         {
@@ -729,7 +790,8 @@
             "de": "Botanischer Garten und Bonsai-Museum",
             "hu": "Botanikus Kert és Bonszai Múzeum",
             "ro": "Grădina Botanică și Muzeul Bonsai",
-            "en": "Botanical Garden and Bonsai Museum"
+            "en": "Botanical Garden and Bonsai Museum",
+            "es": "Jardín Botánico y Museo del Bonsái"
           },
           "coords": [
             -3.785,
@@ -745,7 +807,8 @@
             "de": "Parken Sie Ihr Fahrrad und erkunden Sie diesen einzigartigen Garten zu Fuß.",
             "hu": "Parkolja le a kerékpárját, és fedezze fel ezt az egyedülálló kertet gyalog.",
             "ro": "Parcați bicicleta și explorați pe jos această grădină unică.",
-            "en": "Park your bike and explore this unique garden on foot."
+            "en": "Park your bike and explore this unique garden on foot.",
+            "es": "Aparca la bici y explora este jardín único a pie."
           }
         },
         {
@@ -753,7 +816,8 @@
             "de": "Boulevard von Parla",
             "hu": "Parlai körút",
             "ro": "Bulevardul din Parla",
-            "en": "Boulevard of Parla"
+            "en": "Boulevard of Parla",
+            "es": "Bulevar de Parla"
           },
           "coords": [
             -3.7651,
@@ -769,7 +833,8 @@
             "de": "Beenden Sie Ihre Radtour mit einer entspannten Fahrt und einem Kaffee.",
             "hu": "Fejezze be a kerékpártúrát egy pihentető tekeréssel és egy kávéval.",
             "ro": "Încheiați-vă turul cu bicicleta cu o plimbare relaxantă și o cafea.",
-            "en": "End your bike tour with a relaxing ride and a coffee."
+            "en": "End your bike tour with a relaxing ride and a coffee.",
+            "es": "Termina tu ruta en bici con un paseo relajado y un café."
           }
         }
       ],
@@ -777,7 +842,8 @@
         "de": "Ihre Radtour durch Parla beginnt am zentralen Platz, von wo aus Sie schnell zu den historischen Kirchen gelangen. Der Morgen ist eine Mischung aus kulturellem Sightseeing und gemütlichem Radeln durch die alten Straßen. Gegen Mittag fahren Sie zum Kulturhaus und machen sich dann auf den Weg zum weitläufigen Parque de las Comunidades, wo Sie eine lange Pause einlegen und am See zu Mittag essen können. Am Nachmittag fahren Sie durch ruhigere Gegenden zum einzigartigen Bonsai-Museum, einem wahren versteckten Juwel. Die Tour endet mit einer entspannten Fahrt entlang des Hauptboulevards, wo Sie die lokale Atmosphäre aufsaugen können.",
         "hu": "Parlai kerékpártúrája a központi téren kezdődik, ahonnan gyorsan elérheti a történelmi templomokat. A délelőtt a kulturális látnivalók és a régi utcákon való kellemes kerékpározás keveréke. Dél felé a Kultúrházhoz teker, majd a tágas Parque de las Comunidades felé veszi az irányt egy hosszú szünetre és tóparti ebédre. A délután folyamán csendesebb környékeken keresztül jut el az egyedülálló Bonszai Múzeumhoz, egy igazi rejtett gyöngyszemhez. A túra a fő körúton tett pihentető tekeréssel ér véget, ahol magába szívhatja a helyi hangulatot.",
         "ro": "Turul dvs. cu bicicleta prin Parla începe din piața centrală, de unde ajungeți rapid la bisericile istorice. Dimineața este un amestec de vizitare culturală și pedalat lejer pe străzile vechi. Spre prânz, vă îndreptați spre Casa de Cultură, apoi spre vastul Parque de las Comunidades pentru o pauză lungă și prânz lângă lac. După-amiaza vă poartă prin cartiere mai liniștite până la unicul Muzeu Bonsai, o adevărată bijuterie ascunsă. Turul se încheie cu o plimbare relaxantă pe bulevardul principal, absorbind atmosfera locală.",
-        "en": "Your bike tour of Parla starts at the central square, from where you can quickly reach the historic churches. The morning is a mix of cultural sightseeing and leisurely cycling through the old streets. Towards midday, you'll head to the House of Culture, then make your way to the expansive Parque de las Comunidades for a long break and lunch by the lake. The afternoon takes you through quieter neighbourhoods to the unique Bonsai Museum, a true hidden gem. The tour concludes with a relaxed ride along the main boulevard, soaking up the local atmosphere."
+        "en": "Your bike tour of Parla starts at the central square, from where you can quickly reach the historic churches. The morning is a mix of cultural sightseeing and leisurely cycling through the old streets. Towards midday, you'll head to the House of Culture, then make your way to the expansive Parque de las Comunidades for a long break and lunch by the lake. The afternoon takes you through quieter neighbourhoods to the unique Bonsai Museum, a true hidden gem. The tour concludes with a relaxed ride along the main boulevard, soaking up the local atmosphere.",
+        "es": "Tu ruta en bici por Parla comienza en la plaza central, desde donde puedes llegar rápidamente a las iglesias históricas. La mañana combina visitas culturales con un ciclismo tranquilo por las calles antiguas. Hacia el mediodía, te dirigirás a la Casa de la Cultura y luego al amplio Parque de las Comunidades para un largo descanso y almuerzo junto al lago. La tarde te lleva por barrios más tranquilos hasta el singular Museo del Bonsái, una verdadera joya escondida. El recorrido concluye con un paseo relajado por el bulevar principal, empapándote del ambiente local."
       },
       "gastro_picks": {
         "de": [
@@ -973,6 +1039,12 @@
           "Bring a lock to secure your bike at stops.",
           "Use bike lanes where available.",
           "Plan your route in advance, but be flexible."
+        ],
+        "es": [
+          "Revisa la presión de los neumáticos antes de salir.",
+          "Lleva un candado para asegurar la bicicleta en las paradas.",
+          "Utiliza los carriles bici cuando estén disponibles.",
+          "Planifica la ruta con antelación, pero sé flexible."
         ]
       },
       "variants": {
@@ -981,7 +1053,8 @@
             "de": "Ein regnerischer Tag auf dem Fahrrad in Parla erfordert gute Ausrüstung, bietet aber leere Wege. Wir starten an der Plaza de la Constitución, wobei wir auf dem nassen Pflaster vorsichtig fahren. Die Kirche und das Kulturhaus dienen als wichtige Haltepunkte zum Aufwärmen und Trocknen.\n\nAm Mittag geht die Fahrt durch den Park der Gemeinschaften. Die Radwege sind befahrbar, aber Pfützen in Kurven erfordern Aufmerksamkeit. Ein längerer Aufenthalt in der Casa de la Cultura bietet Schutz vor dem stärksten Regen.\n\nDer Nachmittag führt zum Bonsai-Museum und zurück über den Boulevard. Die glatten Oberflächen der Radstreifen im Stadtzentrum glänzen unter den Straßenlaternen.\n\nDer Tag endet mit einer schnellen Fahrt zurück ins Zentrum. Ein warmes Getränk nach der Tour belohnt den Mut des Alltagsradlers, der Parla bei jedem Wetter erkundet.",
             "hu": "Az esős bringázás Parlában jó felszerelést igényel, de cserébe üres utakat kínál. A Plaza de la Constituciónról indulunk, óvatosan manőverezve a vizes köveken. A templom és a kultúrház remek megállóhelyek a száradáshoz.\n\nDélben a Park of the Communities kerékpárútjain tekerünk, ahol a kanyarokban lévő tócsákra figyelni kell. A Casa de la Cultura tökéletes menedék a felhőszakadás idejére.\n\nDélután a Bonsai Múzeum és a sugárút felé vesszük az irányt. A városi biciklis sávok festései ilyenkor csúszósak lehetnek, így mérsékelt tempó javasolt.\n\nA túra a központba való gyors visszatekeréssel zárul. Egy forró tea a nap végén kárpótolja a bátor kerékpárost, aki esőben is felfedezte Parla értékeit.",
             "ro": "O zi ploioasă pe bicicletă în Parla necesită echipament adecvat, dar oferă trasee libere. Pornim din Plaza de la Constitución, pedalând cu atenție pe pavajul umed. Biserica și Casa de Cultură sunt puncte cheie pentru a ne usca echipamentul.\n\nLa prânz, traversăm Parcul Comunităților, unde pistele sunt practicabile, dar necesită atenție sporită la bălți. O oprire prelungită la Casa de Cultură ne ferește de reprizele de ploaie torențială.\n\nDupă-amiaza ne îndreptăm spre Muzeul Bonsai și bulevard. Marcajele pistelor de biciclete din oraș pot deveni alunecoase, deci viteza trebuie adaptată.\n\nZiua se încheie cu o pedalare rapidă spre centru. O băutură caldă la finalul turei răsplătește efortul ciclistului care nu s-a lăsat descurajat de vremea din Parla.",
-            "en": "A rainy bike day in Parla calls for waterproof gear but offers blissfully empty paths. We start at Constitution Square, riding carefully on the wet tiles. The Church and the House of Culture serve as essential drying-off points.\n\nAt midday, we cycle through the Park of the Communities. The bike paths are open, but puddles in the bends require extra focus. A long break at the House of Culture helps avoid the heaviest showers.\n\nIn the afternoon, we head to the Bonsai Museum and the Boulevard. The painted surfaces of the city's bike lanes can be slippery, so a moderate pace is advised.\n\nThe tour ends with a quick ride back to the city center. A warm drink after the trip rewards the bold cyclist who explored Parla despite the damp conditions."
+            "en": "A rainy bike day in Parla calls for waterproof gear but offers blissfully empty paths. We start at Constitution Square, riding carefully on the wet tiles. The Church and the House of Culture serve as essential drying-off points.\n\nAt midday, we cycle through the Park of the Communities. The bike paths are open, but puddles in the bends require extra focus. A long break at the House of Culture helps avoid the heaviest showers.\n\nIn the afternoon, we head to the Bonsai Museum and the Boulevard. The painted surfaces of the city's bike lanes can be slippery, so a moderate pace is advised.\n\nThe tour ends with a quick ride back to the city center. A warm drink after the trip rewards the bold cyclist who explored Parla despite the damp conditions.",
+            "es": "Un día lluvioso para bici en Parla exige ropa impermeable pero ofrece caminos prácticamente vacíos. Empezamos en la Plaza de la Constitución, circulando con cuidado sobre losetas mojadas. La Iglesia y la Casa de la Cultura sirven como puntos esenciales para secarse.\n\nAl mediodía, pedaleamos por el Parque de las Comunidades. Los carriles están abiertos, pero los charcos en las curvas requieren atención. Un descanso largo en la Casa de la Cultura ayuda a evitar los chaparrones más intensos.\n\nPor la tarde, nos dirigimos al Museo del Bonsái y al Bulevar. Las superficies pintadas de los carriles bici pueden estar resbaladizas, así que conviene mantener un ritmo moderado.\n\nEl recorrido termina con un regreso rápido al centro. Una bebida caliente después de la ruta recompensa al ciclista valiente que exploró Parla pese a la humedad."
           },
           "stops": [
             {
@@ -990,7 +1063,8 @@
                 "de": "Vorsicht auf dem nassen Pflaster beim Anfahren.",
                 "hu": "Vigyázzon az elindulásnál a vizes díszburkolaton.",
                 "ro": "Atenție la pornirea de pe loc pe pavajul umed.",
-                "en": "Be careful when starting off on the wet pavement tiles."
+                "en": "Be careful when starting off on the wet pavement tiles.",
+                "es": "Ten cuidado al arrancar sobre las losetas mojadas."
               }
             },
             {
@@ -999,7 +1073,8 @@
                 "de": "Nutzen Sie die Kirchenmauern als Wind- und Regenschutz.",
                 "hu": "Használja a templomfalakat szél- és esővédelemnek.",
                 "ro": "Folosiți zidurile bisericii ca paravan împotriva ploii.",
-                "en": "Use the church walls as a shield against wind and rain."
+                "en": "Use the church walls as a shield against wind and rain.",
+                "es": "Usa los muros de la iglesia como escudo contra el viento y la lluvia."
               }
             },
             {
@@ -1008,7 +1083,8 @@
                 "de": "Sichern Sie Ihr Fahrrad an einem überdachten Ort.",
                 "hu": "Lakatolja le a biciklit fedett helyen, ha lehetséges.",
                 "ro": "Asigurați bicicleta într-un loc acoperit, dacă se poate.",
-                "en": "Lock your bike in a covered spot if possible."
+                "en": "Lock your bike in a covered spot if possible.",
+                "es": "Asegura la bici en un lugar cubierto si es posible."
               }
             },
             {
@@ -1017,7 +1093,8 @@
                 "de": "Hinterlegen Sie nasse Regenkleidung im Eingangsbereich.",
                 "hu": "A vizes esőkabátot a bejáratnál hagyhatja.",
                 "ro": "Lăsați pelerina de ploaie umedă la intrare.",
-                "en": "Leave your wet rain gear at the entrance area."
+                "en": "Leave your wet rain gear at the entrance area.",
+                "es": "Deja la ropa de lluvia mojada en el área de entrada."
               }
             },
             {
@@ -1026,7 +1103,8 @@
                 "de": "Vermeiden Sie Pfützen auf unbefestigten Wegen.",
                 "hu": "Kerülje a tócsákat a nem aszfaltozott utakon.",
                 "ro": "Evitați bălțile de pe aleile neasfaltate.",
-                "en": "Avoid deep puddles on unpaved sections of the park."
+                "en": "Avoid deep puddles on unpaved sections of the park.",
+                "es": "Evita charcos profundos en tramos sin pavimentar del parque."
               }
             },
             {
@@ -1035,7 +1113,8 @@
                 "de": "Die Fahrradständer sind hier teilweise geschützt.",
                 "hu": "A biciklitárolók itt részben védettek az esőtől.",
                 "ro": "Suporturile de biciclete sunt parțial protejate aici.",
-                "en": "The bike racks here offer some protection from rain."
+                "en": "The bike racks here offer some protection from rain.",
+                "es": "Los aparcamientos para bicicletas aquí ofrecen cierta protección contra la lluvia."
               }
             },
             {
@@ -1044,7 +1123,8 @@
                 "de": "Fahren Sie langsam auf dem glatten Boulevard-Belag.",
                 "hu": "Hajtson lassan a sugárút csúszós burkolatán.",
                 "ro": "Pedalați încet pe suprafața lucioasă a bulevardului.",
-                "en": "Ride slowly on the Boulevard's smooth, wet surface."
+                "en": "Ride slowly on the Boulevard's smooth, wet surface.",
+                "es": "Pedalea despacio por la superficie lisa y mojada del bulevar."
               }
             }
           ],
@@ -1076,6 +1156,13 @@
               "Mudguards are essential today to keep your back dry from splashes.",
               "Check your brake pads before starting; stopping distance is increased.",
               "Use the covered tram station areas for quick shelter during heavy rain."
+            ],
+            "es": [
+              "Lleva traje de agua completo y cubre-pantalones impermeables para máxima comodidad.",
+              "Evita frenar sobre las marcas viales blancas; se vuelven muy resbaladizas cuando están mojadas.",
+              "Los guardabarros son esenciales hoy para mantener la espalda seca de los salpicones.",
+              "Revisa las pastillas de freno antes de empezar; la distancia de frenado aumenta.",
+              "Usa las zonas cubiertas de la estación de tranvía para refugiarte rápidamente durante lluvia intensa."
             ]
           }
         },
@@ -1084,7 +1171,8 @@
             "de": "Ein frostiger Wintertag in Parla ist ideal für eine belebende Radtour unter blauem Himmel. Wir starten an der Plaza de la Constitución, wobei Handschuhe gegen den kalten Fahrtwind unerlässlich sind. Die Sonne wärmt die historischen Mauern der Kirche Nuestra Señora de la Asunción.\n\nMittags radeln wir zur Casa de la Cultura, wo wir uns kurz aufwärmen können. Die Luft ist trocken und klar, was die Fahrt durch das Stadtzentrum sehr angenehm macht.\n\nDer Nachmittag gehört dem Park der Gemeinschaften. Auf den weiten Wegen ist wenig Betrieb, und die Wintersonne glitzert auf dem See. Der Boulevard bietet windgeschützte Abschnitte für die Weiterfahrt.\n\nDie Tour endet am Bonsai-Museum, bevor die Temperaturen nach Sonnenuntergang rapide sinken. Eine schnelle Fahrt zum Ausgangspunkt schließt den Tag ab, gefolgt von einer wohlverdienten warmen Mahlzeit in einer lokalen Bodega.",
             "hu": "A fagyos, de napsütéses téli nap tökéletes egy frissítő tekeréshez Parla utcáin. A Plaza de la Constituciónról indulunk, ahol a kesztyű kötelező a hideg menetszél ellen. A Nuestra Señora de la Asunción templom falaiba kapaszkodik a bágyadt téli napfény.\n\nDélben a Casa de la Cultura felé vesszük az irányt, ahol a fűtött belső térben kicsit kiolvadhatunk. A száraz téli levegőben a tekerés könnyű, a forgalom pedig mérsékeltebb ilyenkor.\n\nDélután a Park of the Communities tágas útjait élvezzük. A téli nap alacsonyan jár, gyönyörű fényeket vetve a tóra. A sugárút épületei némi szélvédelmet nyújtanak az utolsó kilométereken.\n\nA túra a Bonsai Múzeumnál zárul, mielőtt a naplemente után hirtelen lehűlne az idő. Egy gyors sprint vissza a központba, majd egy tál forró leves a legjobb befejezés.",
             "ro": "O zi de iarnă geroasă, dar însorită, este ideală pentru o tură revigorantă cu bicicleta prin Parla. Pornim din Plaza de la Constitución, mănușile fiind obligatorii împotriva curentului de aer rece. Soarele iernii mângâie zidurile vechi ale Bisericii Nuestra Señora de la Asunción.\n\nLa prânz pedalăm spre Casa de Cultură, unde ne putem încălzi puțin la interior. Aerul este uscat și curat, ceea ce face ca efortul fizic să fie foarte plăcut.\n\nDupă-amiaza este dedicată Parcului Comunităților. Pistele sunt libere, iar soarele reflectat în lac oferă o atmosferă deosebită. Bulevardul oferă secțiuni protejate de vânt pentru ultima parte a traseului.\n\nTurul se încheie la Muzeul Bonsai înainte de căderea serii. O pedalare rapidă spre punctul de start încheie ziua, urmată de o masă caldă binemeritată într-o tavernă locală.",
-            "en": "A frosty but sunny winter day is perfect for an invigorating bike ride through Parla. We start at Constitution Square, where gloves are mandatory against the biting wind. The Church of Nuestra Señora de la Asunción looks brilliant in the crisp winter light.\n\nAt midday, we cycle to the House of Culture, taking a short break to warm up indoors. The dry, clear air makes for excellent riding conditions through the city center.\n\nIn the afternoon, enjoy the wide-open paths of the Park of the Communities. The winter sun creates beautiful reflections on the park's lake. The Boulevard provides some wind protection for the final leg of the journey.\n\nThe ride concludes at the Bonsai Museum before the temperatures drop sharply after sunset. A brisk pedal back to the start finishes the day, followed by a cozy meal in a local eatery."
+            "en": "A frosty but sunny winter day is perfect for an invigorating bike ride through Parla. We start at Constitution Square, where gloves are mandatory against the biting wind. The Church of Nuestra Señora de la Asunción looks brilliant in the crisp winter light.\n\nAt midday, we cycle to the House of Culture, taking a short break to warm up indoors. The dry, clear air makes for excellent riding conditions through the city center.\n\nIn the afternoon, enjoy the wide-open paths of the Park of the Communities. The winter sun creates beautiful reflections on the park's lake. The Boulevard provides some wind protection for the final leg of the journey.\n\nThe ride concludes at the Bonsai Museum before the temperatures drop sharply after sunset. A brisk pedal back to the start finishes the day, followed by a cozy meal in a local eatery.",
+            "es": "Un día invernal helado pero soleado es perfecto para una ruta en bici vigorizante por Parla. Comenzamos en la Plaza de la Constitución, donde los guantes son imprescindibles contra el viento cortante. La Iglesia de Nuestra Señora de la Asunción brilla con la luz invernal nítida.\n\nAl mediodía, pedaleamos hasta la Casa de la Cultura, haciendo una pausa breve para entrar en calor. El aire seco y claro favorece unas excelentes condiciones para rodar por el centro.\n\nPor la tarde, disfruta de los amplios senderos del Parque de las Comunidades. El sol invernal crea reflejos hermosos en el lago del parque. El Bulevar ofrece cierto resguardo del viento para la última etapa del recorrido.\n\nLa ruta concluye en el Museo del Bonsái antes de que las temperaturas bajen bruscamente al ponerse el sol. Un pedal enérgico de regreso al inicio remata el día, seguido de una comida reconfortante en un local cercano."
           },
           "stops": [
             {
@@ -1093,7 +1181,8 @@
                 "de": "Tragen Sie winddichte Handschuhe für die Abfahrt.",
                 "hu": "Viseljen szélálló kesztyűt az induláshoz.",
                 "ro": "Purtați mănuși rezistente la vânt pentru start.",
-                "en": "Wear windproof gloves for the start of the ride."
+                "en": "Wear windproof gloves for the start of the ride.",
+                "es": "Lleva guantes cortaviento para el inicio del recorrido."
               }
             },
             {
@@ -1102,7 +1191,8 @@
                 "de": "Parken Sie Ihr Rad in der Sonne, um den Sattel warm zu halten.",
                 "hu": "Parkoljon a napon, hogy ne hűljön ki teljesen a nyereg.",
                 "ro": "Parcați bicicleta la soare pentru a menține șaua caldă.",
-                "en": "Park your bike in the sun to keep the seat from freezing."
+                "en": "Park your bike in the sun to keep the seat from freezing.",
+                "es": "Aparca la bici al sol para evitar que el sillín se congele."
               }
             },
             {
@@ -1111,7 +1201,8 @@
                 "de": "Kürzen Sie den Aufenthalt im zugigen Außenbereich ab.",
                 "hu": "Rövidítse le a megállót a huzatos kültéri részen.",
                 "ro": "Scurtați oprirea în zonele expuse curentului.",
-                "en": "Keep this stop short if the area is too breezy."
+                "en": "Keep this stop short if the area is too breezy.",
+                "es": "Mantén corta esta parada si el lugar está demasiado ventoso."
               }
             },
             {
@@ -1120,7 +1211,8 @@
                 "de": "Nutzen Sie den Stop zum Aufwärmen der Finger.",
                 "hu": "Használja ki a megállót az ujjai felmelegítésére.",
                 "ro": "Folosiți oprirea pentru a vă încălzi degetele la interior.",
-                "en": "Use this stop to warm up your fingers indoors."
+                "en": "Use this stop to warm up your fingers indoors.",
+                "es": "Usa esta parada para entrar en calor y recuperar sensibilidad en los dedos en un interior."
               }
             },
             {
@@ -1129,7 +1221,8 @@
                 "de": "Vorsicht vor vereisten Stellen im Schatten der Bäume.",
                 "hu": "Vigyázzon a jeges foltokra a fák árnyékában.",
                 "ro": "Atenție la porțiunile înghețate de la umbra copacilor.",
-                "en": "Watch out for icy patches in shaded areas of the park."
+                "en": "Watch out for icy patches in shaded areas of the park.",
+                "es": "Cuidado con placas de hielo en las zonas sombreadas del parque."
               }
             },
             {
@@ -1138,7 +1231,8 @@
                 "de": "Besuchen Sie das Museum vor 17:30 Uhr.",
                 "hu": "Látogasson el a múzeumba 17:30 előtt.",
                 "ro": "Vizitați muzeul înainte de ora 17:30.",
-                "en": "Visit the museum before 5:30 PM due to early darkness."
+                "en": "Visit the museum before 5:30 PM due to early darkness.",
+                "es": "Visite el museo antes de las 17:30 debido a la temprana caída de la noche."
               }
             },
             {
@@ -1147,7 +1241,8 @@
                 "de": "Fahren Sie zügig, um die Körperwärme zu halten.",
                 "hu": "Tekerjen tempósan a testhőmérséklet megőrzéséhez.",
                 "ro": "Pedalați susținut pentru a menține căldura corpului.",
-                "en": "Keep a steady pace to maintain your body heat."
+                "en": "Keep a steady pace to maintain your body heat.",
+                "es": "Mantenga un ritmo constante para conservar el calor corporal."
               }
             }
           ],
@@ -1179,6 +1274,13 @@
               "Avoid shaded cycle paths in the early morning due to possible frost.",
               "Stay hydrated; warm tea in a thermos is your best friend today.",
               "Check tire pressure; cold temperatures can cause it to drop slightly."
+            ],
+            "es": [
+              "Use una chaqueta cortavientos y una gorra térmica fina bajo el casco.",
+              "La humedad es baja, pero el factor de sensación térmica por viento puede ser importante.",
+              "Evite los carriles bici sombreados por la mañana temprano debido a posibles heladas.",
+              "Manténgase hidratado; un té caliente en un termo es su mejor aliado hoy.",
+              "Compruebe la presión de los neumáticos; el frío puede hacer que baje ligeramente."
             ]
           }
         }
@@ -1197,7 +1299,8 @@
             "de": "Parkplatz im Stadtzentrum",
             "hu": "Parkoló a városközpontban",
             "ro": "Parcare în centrul orașului",
-            "en": "City Center Parking"
+            "en": "City Center Parking",
+            "es": "Aparcamiento en el centro de la ciudad"
           },
           "coords": [
             -3.7725,
@@ -1213,7 +1316,8 @@
             "de": "Parken Sie hier, um das historische Zentrum zu Fuß zu erkunden.",
             "hu": "Parkoljon itt, hogy gyalog fedezze fel a történelmi központot.",
             "ro": "Parcați aici pentru a explora centrul istoric pe jos.",
-            "en": "Park here to explore the historic center on foot."
+            "en": "Park here to explore the historic center on foot.",
+            "es": "Estacione aquí para explorar el casco histórico a pie."
           }
         },
         {
@@ -1221,7 +1325,8 @@
             "de": "Plaza de la Constitución",
             "hu": "Alkotmány tér",
             "ro": "Plaza de la Constitución",
-            "en": "Constitution Square"
+            "en": "Constitution Square",
+            "es": "Plaza de la Constitución"
           },
           "coords": [
             -3.7731,
@@ -1237,7 +1342,8 @@
             "de": "Genießen Sie die Morgenstimmung auf dem Hauptplatz der Stadt.",
             "hu": "Élvezze a reggeli hangulatot a város főterén.",
             "ro": "Bucurați-vă de atmosfera de dimineață în piața principală a orașului.",
-            "en": "Enjoy the morning atmosphere in the town's main square."
+            "en": "Enjoy the morning atmosphere in the town's main square.",
+            "es": "Disfrute del ambiente matutino en la plaza principal del pueblo."
           }
         },
         {
@@ -1245,7 +1351,8 @@
             "de": "Kirche Nuestra Señora de la Asunción",
             "hu": "Nuestra Señora de la Asunción templom",
             "ro": "Biserica Nuestra Señora de la Asunción",
-            "en": "Church of Nuestra Señora de la Asunción"
+            "en": "Church of Nuestra Señora de la Asunción",
+            "es": "Iglesia de Nuestra Señora de la Asunción"
           },
           "coords": [
             -3.7745,
@@ -1261,7 +1368,8 @@
             "de": "Ein kurzer Spaziergang vom Platz entfernt, bewundern Sie die Architektur.",
             "hu": "Rövid séta a térről, csodálja meg az építészetet.",
             "ro": "O scurtă plimbare din piață, admirați arhitectura.",
-            "en": "A short walk from the square, admire the architecture."
+            "en": "A short walk from the square, admire the architecture.",
+            "es": "A un corto paseo desde la plaza, admire la arquitectura."
           }
         },
         {
@@ -1269,7 +1377,8 @@
             "de": "Parque de las Comunidades de España",
             "hu": "Spanyol Közösségek Parkja",
             "ro": "Parcul Comunităților din Spania",
-            "en": "Park of the Communities of Spain"
+            "en": "Park of the Communities of Spain",
+            "es": "Parque de las Comunidades de España"
           },
           "coords": [
             -3.7712,
@@ -1285,7 +1394,8 @@
             "de": "Fahren Sie zum Park für eine lange Mittagspause. Es gibt genügend Parkplätze.",
             "hu": "Vezessen a parkba egy hosszú ebédszünetre. Elegendő parkolóhely van.",
             "ro": "Conduceți până la parc pentru o pauză lungă de prânz. Există parcare amplă.",
-            "en": "Drive to the park for a long lunch break. There is ample parking."
+            "en": "Drive to the park for a long lunch break. There is ample parking.",
+            "es": "Conduzca hasta el parque para una larga pausa para comer. Hay amplio aparcamiento."
           }
         },
         {
@@ -1293,7 +1403,8 @@
             "de": "Kulturhaus",
             "hu": "Kultúrház",
             "ro": "Casa de Cultură",
-            "en": "House of Culture"
+            "en": "House of Culture",
+            "es": "Casa de la Cultura"
           },
           "coords": [
             -3.7699,
@@ -1309,7 +1420,8 @@
             "de": "Fahren Sie zurück ins Zentrum und parken Sie in der Nähe, um das Kulturzentrum zu besuchen.",
             "hu": "Vezessen vissza a központba, és parkoljon a közelben a kulturális központ meglátogatásához.",
             "ro": "Conduceți înapoi spre centru și parcați în apropiere pentru a vizita centrul cultural.",
-            "en": "Drive back towards the center and park nearby to visit the cultural hub."
+            "en": "Drive back towards the center and park nearby to visit the cultural hub.",
+            "es": "Vuelva hacia el centro y aparque cerca para visitar este núcleo cultural."
           }
         },
         {
@@ -1317,7 +1429,8 @@
             "de": "Botanischer Garten und Bonsai-Museum",
             "hu": "Botanikus Kert és Bonszai Múzeum",
             "ro": "Grădina Botanică și Muzeul Bonsai",
-            "en": "Botanical Garden and Bonsai Museum"
+            "en": "Botanical Garden and Bonsai Museum",
+            "es": "Jardín Botánico y Museo del Bonsái"
           },
           "coords": [
             -3.785,
@@ -1333,7 +1446,8 @@
             "de": "Der letzte Halt des Tages. Ein ruhiger Ort, um sich zu entspannen.",
             "hu": "A nap utolsó állomása. Egy békés hely a kikapcsolódásra.",
             "ro": "Ultima oprire a zilei. Un loc liniștit pentru a vă relaxa.",
-            "en": "The last main stop of the day. A peaceful place to unwind."
+            "en": "The last main stop of the day. A peaceful place to unwind.",
+            "es": "La última parada principal del día. Un lugar tranquilo para relajarse."
           }
         },
         {
@@ -1341,7 +1455,8 @@
             "de": "Boulevard von Parla",
             "hu": "Parlai körút",
             "ro": "Bulevardul din Parla",
-            "en": "Boulevard of Parla"
+            "en": "Boulevard of Parla",
+            "es": "Bulevar de Parla"
           },
           "coords": [
             -3.7651,
@@ -1357,7 +1472,8 @@
             "de": "Parken Sie in der Nähe des Gartens und spazieren Sie zum Boulevard für einen Kaffee.",
             "hu": "Parkoljon a kert közelében, és sétáljon el a körútra egy kávéra.",
             "ro": "Parcați lângă grădină și faceți o plimbare până la bulevard pentru o cafea.",
-            "en": "Park near the garden and take a walk to the boulevard for a coffee."
+            "en": "Park near the garden and take a walk to the boulevard for a coffee.",
+            "es": "Aparque cerca del jardín y pasee hasta el bulevar para tomar un café."
           }
         }
       ],
@@ -1365,7 +1481,8 @@
         "de": "Mit dem Auto können Sie Parla effizient erkunden. Beginnen Sie mit dem Parken im Zentrum, um den historischen Kern zu Fuß zu entdecken, einschließlich des Hauptplatzes und der Kirchen. Dies bildet Ihren ersten 'Geh-Cluster'. Anschließend fahren Sie zum Parque de las Comunidades, einem idealen Ort für eine lange Mittagspause. Am Nachmittag fahren Sie zum Kulturhaus und dann zum faszinierenden Bonsai-Museum, das den letzten großen Halt des Tages darstellt. Dieser Ansatz minimiert die Parkplatzsuche und maximiert die Zeit, die Sie an jedem Ort verbringen.",
         "hu": "Autóval hatékonyan fedezheti fel Parlát. Kezdje a parkolással a központban, hogy gyalogosan fedezze fel a történelmi magot, beleértve a főteret és a templomokat. Ez alkotja az első „séta-klasztert”. Ezután vezessen a Parque de las Comunidades-be, amely ideális hely egy hosszú ebédszünetre. Délután látogasson el a Kultúrházhoz, majd a lenyűgöző Bonszai Múzeumhoz, amely a nap utolsó fő megállója. Ez a megközelítés minimalizálja a parkolóhely-keresést és maximalizálja az egyes helyszíneken eltöltött időt.",
         "ro": "Cu mașina, puteți explora Parla eficient. Începeți prin a parca în centru pentru a descoperi nucleul istoric pe jos, inclusiv piața principală și bisericile. Acesta formează primul dvs. 'cluster de mers'. Apoi, conduceți la Parque de las Comunidades, un loc ideal pentru o pauză lungă de prânz. După-amiaza, vizitați Casa de Cultură și apoi fascinantul Muzeu Bonsai, care este ultima oprire majoră a zilei. Această abordare minimizează căutarea parcării și maximizează timpul petrecut la fiecare locație.",
-        "en": "With a car, you can explore Parla efficiently. Start by parking in the center to discover the historic core on foot, including the main square and churches. This forms your first 'walking cluster'. Then, drive to Parque de las Comunidades, an ideal spot for a long lunch break. In the afternoon, visit the House of Culture and then the fascinating Bonsai Museum, which is the last major stop of the day. This approach minimizes parking searches and maximizes your time at each location."
+        "en": "With a car, you can explore Parla efficiently. Start by parking in the center to discover the historic core on foot, including the main square and churches. This forms your first 'walking cluster'. Then, drive to Parque de las Comunidades, an ideal spot for a long lunch break. In the afternoon, visit the House of Culture and then the fascinating Bonsai Museum, which is the last major stop of the day. This approach minimizes parking searches and maximizes your time at each location.",
+        "es": "Con coche, puede explorar Parla de forma eficiente. Empiece aparcando en el centro para descubrir el casco histórico a pie, incluyendo la plaza principal y las iglesias. Esto constituye su primer \"núcleo a pie\". Luego, conduzca al Parque de las Comunidades, un lugar ideal para una larga pausa para comer. Por la tarde, visite la Casa de la Cultura y después el fascinante Museo del Bonsái, que es la última gran parada del día. Este enfoque minimiza la búsqueda de aparcamiento y maximiza su tiempo en cada lugar."
       },
       "gastro_picks": {
         "de": [
@@ -1561,6 +1678,12 @@
           "Be aware of parking restrictions in the city center.",
           "A car gives you the flexibility to explore nearby attractions as well.",
           "Plan your drives outside of peak traffic hours."
+        ],
+        "es": [
+          "Use el GPS para una navegación sencilla.",
+          "Tenga en cuenta las restricciones de aparcamiento en el centro.",
+          "Un coche le da la flexibilidad de explorar atracciones cercanas también.",
+          "Planifique sus desplazamientos fuera de las horas punta."
         ]
       },
       "variants": {
@@ -1569,7 +1692,8 @@
             "de": "Ein regnerischer Tag in Parla lässt sich am besten mit dem Auto bewältigen. Wir starten am zentralen Parkplatz, von wo aus die Plaza de la Constitución nur ein kurzer, trockener Sprint ist. Die Parkplatzsuche in der Nähe der Kirche Nuestra Señora de la Asunción erfordert etwas Geduld.\n\nMittags bietet die Fahrt zum Park der Gemeinschaften einen trockenen Rückzugsort. Aus dem Fenster betrachtet hat der Regen eine beruhigende Wirkung auf die Parklandschaft. Das Kulturhaus ist das nächste Ziel mit guter Erreichbarkeit.\n\nAm Nachmittag fahren wir zum Botanischen Garten. Das Auto dient als Basis für Kleidungwechsel und Regenschirm-Depot. Der Boulevard lässt sich gut im Vorbeifahren oder mit einem kurzen Stopp erkunden.\n\nDer Tag endet entspannt mit der Rückfahrt zum Hotel oder Restaurant. Trotz des Wetters ermöglicht das Auto eine flexible Besichtigung aller Highlights ohne nasse Füße.",
             "hu": "Az esős nap Parlában autóval a legkényelmesebb. A központi parkolóból indulunk, ahonnan csak egy rövid sprint a Plaza de la Constitución. A templom környékén a parkolóhely keresése igényelhet némi türelmet.\n\nDélben a Park of the Communities felé autózunk, élvezve a száraz utasteret. Az ablakon át figyelve a park esőáztatta látványa megnyugtató. A Casa de la Cultura következik, ahol könnyen megállhatunk a közelben.\n\nDélután a Botanikus Kert az úti cél. Az autó remek bázis az esernyők és váltóruhák tárolására. A sugárutat akár lassú hajtással, vagy egy gyors megállással is felfedezhetjük.\n\nA napot egy kényelmes autózással zárjuk a választott étteremig. Az autó rugalmasságot ad, így az eső sem szabhat gátat a városnézésnek.",
             "ro": "O zi ploioasă în Parla este mult mai ușoară cu mașina. Începem de la parcarea centrală, de unde Plaza de la Constitución este la doar câțiva pași. Găsirea unui loc de parcare lângă Biserică poate dura puțin mai mult pe ploaie.\n\nLa prânz, drumul spre Parcul Comunităților oferă un refugiu uscat. Privit prin parbriz, peisajul umed al parcului are un farmec aparte. Casa de Cultură este următoarea oprire, având acces facil.\n\nDupă-amiaza ne îndreptăm spre Grădina Botanică. Mașina servește ca bază pentru umbrele și haine de schimb. Bulevardul poate fi explorat rapid, făcând o scurtă oprire în zonele permise.\n\nZiua se încheie relaxat cu un drum scurt spre restaurant. Mașina oferă flexibilitate totală, permițând vizitarea orașului Parla fără disconfortul ploii.",
-            "en": "A rainy day in Parla is best tackled by car. We start at the City Center Parking, making a quick dash to Constitution Square. Finding parking near the Church of Nuestra Señora de la Asunción might require some patience today.\n\nAt midday, the drive to the Park of the Communities provides a dry haven. Watching the rain fall over the park from the warmth of the car is quite peaceful. The House of Culture is easily reachable for our next indoor stop.\n\nIn the afternoon, we head to the Botanical Garden. The car acts as a great base for storing umbrellas and dry clothes. The Boulevard can be enjoyed with a quick stop-and-look approach.\n\nThe day concludes with a comfortable drive to your dinner location. The car ensures you can see all of Parla’s highlights without worrying about getting soaked."
+            "en": "A rainy day in Parla is best tackled by car. We start at the City Center Parking, making a quick dash to Constitution Square. Finding parking near the Church of Nuestra Señora de la Asunción might require some patience today.\n\nAt midday, the drive to the Park of the Communities provides a dry haven. Watching the rain fall over the park from the warmth of the car is quite peaceful. The House of Culture is easily reachable for our next indoor stop.\n\nIn the afternoon, we head to the Botanical Garden. The car acts as a great base for storing umbrellas and dry clothes. The Boulevard can be enjoyed with a quick stop-and-look approach.\n\nThe day concludes with a comfortable drive to your dinner location. The car ensures you can see all of Parla’s highlights without worrying about getting soaked.",
+            "es": "Un día de lluvia en Parla se afronta mejor en coche. Empezamos en el aparcamiento del centro, con una rápida visita a la Plaza de la Constitución. Encontrar aparcamiento cerca de la Iglesia de Nuestra Señora de la Asunción puede requerir paciencia hoy.\n\nAl mediodía, el viaje al Parque de las Comunidades ofrece un refugio seco. Ver la lluvia sobre el parque desde el calor del coche es muy apacible. La Casa de la Cultura es fácilmente accesible para nuestra siguiente parada cubierta.\n\nPor la tarde, nos dirigimos al Jardín Botánico. El coche actúa como base para guardar paraguas y ropa seca. El Bulevar puede disfrutarse con paradas rápidas.\n\nEl día concluye con un cómodo trayecto hasta el lugar de la cena. El coche le permite ver todos los puntos destacados de Parla sin preocuparse por mojarse."
           },
           "stops": [
             {
@@ -1578,7 +1702,8 @@
                 "de": "Wählen Sie einen Parkplatz nah am Ausgang.",
                 "hu": "Válasszon kijárathoz közeli helyet a rövidebb kinti útért.",
                 "ro": "Alegeți un loc aproape de ieșire pentru a evita ploaia.",
-                "en": "Pick a spot near the exit to minimize walking in the rain."
+                "en": "Pick a spot near the exit to minimize walking in the rain.",
+                "es": "Elija un sitio cerca de la salida para minimizar caminatas bajo la lluvia."
               }
             },
             {
@@ -1587,7 +1712,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz, nehmen Sie den Schirm mit.",
                 "hu": "Rövid séta a parkolótól, vigye magával az esernyőt.",
                 "ro": "Drum scurt de la parcare, luați umbrela cu voi.",
-                "en": "Short walk from the car; keep your umbrella handy."
+                "en": "Short walk from the car; keep your umbrella handy.",
+                "es": "Corto paseo desde el coche; lleve el paraguas a mano."
               }
             },
             {
@@ -1596,7 +1722,8 @@
                 "de": "Nutzen Sie Parkhäuser in der Nähe, um trocken zu bleiben.",
                 "hu": "Használja a közeli parkolóházakat a szárazabb bejutásért.",
                 "ro": "Folosiți parcările acoperite din apropiere.",
-                "en": "Use nearby parking garages to stay dry while entering."
+                "en": "Use nearby parking garages to stay dry while entering.",
+                "es": "Use aparcamientos cercanos cubiertos para mantenerse seco al entrar."
               }
             },
             {
@@ -1605,7 +1732,8 @@
                 "de": "Der Parkplatz direkt am Eingang ist bei Regen oft frei.",
                 "hu": "A bejáratnál lévő parkoló esőben gyakran üres.",
                 "ro": "Parcarea de la intrare este adesea liberă când plouă.",
-                "en": "The parking lot by the entrance is often available in the rain."
+                "en": "The parking lot by the entrance is often available in the rain.",
+                "es": "El aparcamiento junto a la entrada suele estar disponible cuando llueve."
               }
             },
             {
@@ -1614,7 +1742,8 @@
                 "de": "Lassen Sie Passagiere direkt vor dem Eingang aussteigen.",
                 "hu": "Az utasok kiszállhatnak közvetlenül a bejáratnál.",
                 "ro": "Lăsați pasagerii chiar în fața intrării principale.",
-                "en": "Drop off passengers right at the main entrance."
+                "en": "Drop off passengers right at the main entrance.",
+                "es": "Baje a los pasajeros justo en la entrada principal."
               }
             },
             {
@@ -1623,7 +1752,8 @@
                 "de": "Suchen Sie einen Parkplatz mit kurzem Weg zum Museum.",
                 "hu": "Keressen parkolót közvetlenül a múzeum mellett.",
                 "ro": "Căutați un loc de parcare cât mai aproape de muzeu.",
-                "en": "Look for a parking spot closest to the museum gate."
+                "en": "Look for a parking spot closest to the museum gate.",
+                "es": "Busque plaza lo más cercana posible a la puerta del museo."
               }
             },
             {
@@ -1632,7 +1762,8 @@
                 "de": "Halten Sie nur kurz zum Fotografieren an.",
                 "hu": "Csak egy rövid fotómegállóra álljon meg.",
                 "ro": "Opriți doar pentru o scurtă sesiune foto.",
-                "en": "Make a quick stop for photos only to avoid getting wet."
+                "en": "Make a quick stop for photos only to avoid getting wet.",
+                "es": "Haga una parada rápida solo para fotos para evitar mojarse."
               }
             }
           ],
@@ -1664,6 +1795,13 @@
               "Keep a small towel in the car to wipe down wet clothes or seats.",
               "Visibility can be poor during downpours; keep your headlights on.",
               "Most central parking spots in Parla are paid 'blue zones'; have change ready."
+            ],
+            "es": [
+              "Evite aparcar en zonas bajas por posibles inundaciones localizadas.",
+              "Consulte apps de tráfico en vivo; la lluvia a menudo provoca congestión en Parla.",
+              "Mantenga una pequeña toalla en el coche para secar ropa o asientos mojados.",
+              "La visibilidad puede ser mala durante los aguaceros; lleve las luces encendidas.",
+              "La mayoría de plazas centrales en Parla son zona azul de pago; lleve cambio."
             ]
           }
         },
@@ -1672,7 +1810,8 @@
             "de": "Ein Wintertag in Parla mit dem Auto beginnt oft mit einer frostigen Windschutzscheibe, aber klarem Himmel. Nach dem Start am zentralen Parkplatz erkunden wir die Plaza de la Constitución. Die Heizung sorgt für wohlige Wärme zwischen den Stopps.\n\nMittags führt die Fahrt zur Kirche und zur Casa de la Cultura. Da es draußen trocken-kalt ist, schätzt man den Komfort des Fahrzeugs umso mehr. Parkplätze sind in den Wintermonaten meist gut verfügbar.\n\nDer Nachmittag bringt uns zum Park der Gemeinschaften. Die tiefstehende Wintersonne kann beim Fahren blenden, daher ist eine Sonnenbrille wichtig. Danach geht es weiter zum Boulevard.\n\nDer Tag endet am Botanischen Garten, bevor die Abendkälte einsetzt. Mit dem Auto ist man schnell wieder im warmen Zentrum, um den Tag bei traditionellen spanischen Gerichten in einer gemütlichen Atmosphäre ausklingen zu lassen.",
             "hu": "A téli nap Parlában gyakran fagyos szélvédővel indul, de tiszta égbolttal. A központi parkolótól indulva fedezzük fel a Plaza de la Constituciónt. Az autó fűtése kellemes átmenetet biztosít a látnivalók között.\n\nDélben a templom és a Casa de la Cultura következik. Mivel kint száraz, csípős hideg van, nagyra értékeljük a jármű kényelmét. Télen a parkolóhelyek is könnyebben elérhetőek a belvárosban.\n\nDélután a Park of the Communities felé tartunk. Az alacsonyan járó téli nap elvakíthat vezetés közben, így a napszemüveg kötelező. Ezután a sugárút mentén haladunk tovább.\n\nA látogatást a Botanikus Kerttel zárjuk, mielőtt leszállna az est. Autóval percek alatt visszaérünk a fűtött éttermek közé, ahol egy forró vacsora vár ránk.",
             "ro": "O zi de iarnă în Parla începe adesea cu gheață pe parbriz, dar cu un cer senin. După plecarea din parcarea centrală, explorăm Plaza de la Constitución. Căldura din mașină face tranzitul între obiective foarte confortabil.\n\nLa prânz, drumul ne poartă spre Biserică și Casa de Cultură. Deoarece afară este un frig pătrunzător, confortul mașinii este foarte apreciat. Locurile de parcare sunt mai ușor de găsit în acest sezon.\n\nDupă-amiaza ne îndreptăm spre Parcul Comunităților. Soarele jos de iarnă poate fi orbitor la volan, deci ochelarii de soare sunt esențiali. Continuăm apoi spre bulevard.\n\nVizita se încheie la Grădina Botanică înainte de lăsarea serii. Cu mașina ajungem rapid înapoi în centrul călduros pentru a încheia ziua cu o cină spaniolă tradițională.",
-            "en": "A winter day in Parla by car often starts with a frost-covered windshield but clear blue skies. After leaving the central parking, we explore Constitution Square. The car’s heater provides cozy warmth between each stop.\n\nAt midday, head to the Church and the House of Culture. Since the air is dry and cold, you'll appreciate the vehicle's comfort even more. Parking spots are generally more available during the winter months.\n\nIn the afternoon, drive to the Park of the Communities. The low winter sun can be quite blinding while driving, so sunglasses are a must. Next, continue your tour along the Boulevard.\n\nThe day concludes at the Botanical Garden just before the temperature drops at dusk. By car, you're only minutes away from the warm city center and its inviting restaurants."
+            "en": "A winter day in Parla by car often starts with a frost-covered windshield but clear blue skies. After leaving the central parking, we explore Constitution Square. The car’s heater provides cozy warmth between each stop.\n\nAt midday, head to the Church and the House of Culture. Since the air is dry and cold, you'll appreciate the vehicle's comfort even more. Parking spots are generally more available during the winter months.\n\nIn the afternoon, drive to the Park of the Communities. The low winter sun can be quite blinding while driving, so sunglasses are a must. Next, continue your tour along the Boulevard.\n\nThe day concludes at the Botanical Garden just before the temperature drops at dusk. By car, you're only minutes away from the warm city center and its inviting restaurants.",
+            "es": "Un día de invierno en Parla en coche suele empezar con el parabrisas cubierto de escarcha pero cielos despejados. Tras salir del aparcamiento central, exploramos la Plaza de la Constitución. La calefacción del coche ofrece comodidad entre cada parada.\n\nAl mediodía, diríjase a la Iglesia y a la Casa de la Cultura. Dado que el aire es seco y frío, apreciará aún más el confort del vehículo. Los aparcamientos suelen estar más disponibles en invierno.\n\nPor la tarde, conduzca al Parque de las Comunidades. El sol bajo de invierno puede deslumbrar al conducir, así que las gafas de sol son imprescindibles. Después, continúe por el Bulevar.\n\nEl día termina en el Jardín Botánico justo antes de que la temperatura baje al anochecer. En coche, está a solo minutos del cálido centro y sus restaurantes acogedores."
           },
           "stops": [
             {
@@ -1681,7 +1820,8 @@
                 "de": "Lassen Sie den Motor kurz warmlaufen, falls nötig.",
                 "hu": "Hagyja az autót kicsit bemelegedni indulás előtt.",
                 "ro": "Lăsați motorul să se încălzească puțin înainte de plecare.",
-                "en": "Let the car warm up for a minute before heading out."
+                "en": "Let the car warm up for a minute before heading out.",
+                "es": "Deje que el coche se caliente un minuto antes de salir."
               }
             },
             {
@@ -1690,7 +1830,8 @@
                 "de": "Verstauen Sie dicke Jacken während der kurzen Fahrt.",
                 "hu": "A rövid utakon leveheti a vastag kabátot az autóban.",
                 "ro": "Puteți lăsa hainele groase în mașină între opriri.",
-                "en": "You can leave heavy coats in the car between stops."
+                "en": "You can leave heavy coats in the car between stops.",
+                "es": "Puede dejar abrigos pesados en el coche entre paradas."
               }
             },
             {
@@ -1699,7 +1840,8 @@
                 "de": "Parkplätze in der Sonne wärmen den Innenraum auf.",
                 "hu": "A napos helyen való parkolás felmelegíti az utasteret.",
                 "ro": "Parcarea la soare ajută la încălzirea interiorului.",
-                "en": "Parking in sunny spots helps keep the car interior warm."
+                "en": "Parking in sunny spots helps keep the car interior warm.",
+                "es": "Aparcar en zonas soleadas ayuda a mantener el interior del coche caliente."
               }
             },
             {
@@ -1708,7 +1850,8 @@
                 "de": "Nutzen Sie die Sonnenblende gegen die tiefstehende Sonne.",
                 "hu": "Használja a napellenzőt az alacsony téli nap ellen.",
                 "ro": "Folosiți parasolarul împotriva soarelui de iarnă.",
-                "en": "Use the sun visor against the low-hanging winter sun."
+                "en": "Use the sun visor against the low-hanging winter sun.",
+                "es": "Use el parasol contra el sol invernal bajo."
               }
             },
             {
@@ -1717,7 +1860,8 @@
                 "de": "Das Parken ist im Winter direkt davor oft möglich.",
                 "hu": "Télen gyakran lehet közvetlenül az épület előtt parkolni.",
                 "ro": "Parcarea chiar în față este adesea posibilă iarna.",
-                "en": "Direct parking in front is often possible in winter."
+                "en": "Direct parking in front is often possible in winter.",
+                "es": "Aparcar directamente en la puerta suele ser posible en invierno."
               }
             },
             {
@@ -1726,7 +1870,8 @@
                 "de": "Schalten Sie das Licht beim Verlassen des Parkplatzes ein.",
                 "hu": "A parkolót elhagyva kapcsolja be a fényszórókat.",
                 "ro": "Aprindeți farurile la plecarea din parcare spre seară.",
-                "en": "Turn on your headlights when leaving as dusk nears."
+                "en": "Turn on your headlights when leaving as dusk nears.",
+                "es": "Encienda las luces al salir cuando se acerque el crepúsculo."
               }
             },
             {
@@ -1735,7 +1880,8 @@
                 "de": "Genießen Sie den Blick auf die beleuchteten Straßen.",
                 "hu": "Élvezze a kivilágított utcák látványát az autóból.",
                 "ro": "Bucurați-vă de străzile luminate din confortul mașinii.",
-                "en": "Enjoy the view of the illuminated streets from your car."
+                "en": "Enjoy the view of the illuminated streets from your car.",
+                "es": "Disfrute de las vistas de las calles iluminadas desde su coche."
               }
             }
           ],
@@ -1767,6 +1913,13 @@
               "Keep sunglasses handy to combat glare from the low winter sun.",
               "Roads in Parla are mostly dry in winter, but watch for frost in corners.",
               "Aim to head back by 6:30 PM to avoid driving in complete darkness."
+            ],
+            "es": [
+              "Compruebe que el líquido limpiaparabrisas tenga anticongelante.",
+              "El rendimiento de la batería puede bajar con el frío; asegúrese de que esté en buen estado.",
+              "Lleve gafas de sol para combatir el deslumbramiento del sol invernal bajo.",
+              "Las carreteras en Parla suelen estar secas en invierno, pero vigile las heladas en las curvas.",
+              "Procure regresar antes de las 18:30 para evitar conducir con total oscuridad."
             ]
           }
         }
@@ -1785,7 +1938,8 @@
             "de": "Plaza de la Constitución (Bushaltestelle)",
             "hu": "Plaza de la Constitución (buszmegálló)",
             "ro": "Plaza de la Constitución (stație de autobuz)",
-            "en": "Plaza de la Constitución (Bus Stop)"
+            "en": "Plaza de la Constitución (Bus Stop)",
+            "es": "Plaza de la Constitución (Parada de autobús)"
           },
           "coords": [
             -3.7731,
@@ -1801,7 +1955,8 @@
             "de": "Nehmen Sie einen Bus zum Hauptplatz, um Ihren Tag zu beginnen.",
             "hu": "Vegyen egy buszt a főtérre a nap kezdéséhez.",
             "ro": "Luați un autobuz până în piața principală pentru a vă începe ziua.",
-            "en": "Take a bus to the main square to start your day."
+            "en": "Take a bus to the main square to start your day.",
+            "es": "Tome un autobús hasta la plaza principal para comenzar el día."
           }
         },
         {
@@ -1809,7 +1964,8 @@
             "de": "Kirche Nuestra Señora de la Asunción",
             "hu": "Nuestra Señora de la Asunción templom",
             "ro": "Biserica Nuestra Señora de la Asunción",
-            "en": "Church of Nuestra Señora de la Asunción"
+            "en": "Church of Nuestra Señora de la Asunción",
+            "es": "Iglesia de Nuestra Señora de la Asunción"
           },
           "coords": [
             -3.7745,
@@ -1825,7 +1981,8 @@
             "de": "Leicht zu Fuß vom Platz aus erreichbar.",
             "hu": "Könnyen megközelíthető gyalog a térről.",
             "ro": "Ușor accesibil pe jos din piață.",
-            "en": "Easily walkable from the square."
+            "en": "Easily walkable from the square.",
+            "es": "Fácilmente accesible a pie desde la plaza."
           }
         },
         {
@@ -1833,7 +1990,8 @@
             "de": "Ermita de la Soledad",
             "hu": "Soledad remetelak",
             "ro": "Schitul Soledad",
-            "en": "Hermitage of Solitude"
+            "en": "Hermitage of Solitude",
+            "es": "Ermita de la Soledad"
           },
           "coords": [
             -3.7788,
@@ -1849,7 +2007,8 @@
             "de": "Setzen Sie Ihren Spaziergang durch das historische Zentrum fort.",
             "hu": "Folytassa sétáját a történelmi központban.",
             "ro": "Continuați plimbarea prin centrul istoric.",
-            "en": "Continue your walk through the historic center."
+            "en": "Continue your walk through the historic center.",
+            "es": "Continúe su paseo por el casco histórico."
           }
         },
         {
@@ -1857,7 +2016,8 @@
             "de": "Parque de las Comunidades (Bushaltestelle)",
             "hu": "Parque de las Comunidades (buszmegálló)",
             "ro": "Parque de las Comunidades (stație de autobuz)",
-            "en": "Parque de las Comunidades (Bus Stop)"
+            "en": "Parque de las Comunidades (Bus Stop)",
+            "es": "Parque de las Comunidades (Parada de autobús)"
           },
           "coords": [
             -3.7712,
@@ -1873,7 +2033,8 @@
             "de": "Nehmen Sie einen Bus zum Park für ein Picknick und eine Pause.",
             "hu": "Vegyen egy buszt a parkba egy piknikre és egy kis pihenésre.",
             "ro": "Luați un autobuz spre parc pentru un picnic și o pauză.",
-            "en": "Take a bus to the park for a picnic and a break."
+            "en": "Take a bus to the park for a picnic and a break.",
+            "es": "Tome un autobús al parque para un picnic y un descanso."
           }
         },
         {
@@ -1881,7 +2042,8 @@
             "de": "Kulturhaus (Bushaltestelle)",
             "hu": "Kultúrház (buszmegálló)",
             "ro": "Casa de Cultură (stație de autobuz)",
-            "en": "House of Culture (Bus Stop)"
+            "en": "House of Culture (Bus Stop)",
+            "es": "Casa de la Cultura (Parada de autobús)"
           },
           "coords": [
             -3.7699,
@@ -1897,7 +2059,8 @@
             "de": "Eine kurze Busfahrt bringt Sie zurück ins kulturelle Zentrum der Stadt.",
             "hu": "Egy rövid buszút visszaviszi Önt a város kulturális központjába.",
             "ro": "O scurtă călătorie cu autobuzul vă duce înapoi în centrul cultural al orașului.",
-            "en": "A short bus ride takes you back to the city's cultural hub."
+            "en": "A short bus ride takes you back to the city's cultural hub.",
+            "es": "Un corto trayecto en autobús le devuelve al núcleo cultural de la ciudad."
           }
         },
         {
@@ -1905,7 +2068,8 @@
             "de": "Botanischer Garten (Bushaltestelle)",
             "hu": "Botanikus Kert (buszmegálló)",
             "ro": "Grădina Botanică (stație de autobuz)",
-            "en": "Botanical Garden (Bus Stop)"
+            "en": "Botanical Garden (Bus Stop)",
+            "es": "Jardín Botánico (Parada de autobús)"
           },
           "coords": [
             -3.785,
@@ -1921,7 +2085,8 @@
             "de": "Beenden Sie den Tag mit einem Besuch des einzigartigen Bonsai-Gartens.",
             "hu": "Fejezze be a napot az egyedülálló Bonszai Kert meglátogatásával.",
             "ro": "Încheiați ziua cu o vizită la grădina unică de bonsai.",
-            "en": "End your day with a visit to the unique bonsai garden."
+            "en": "End your day with a visit to the unique bonsai garden.",
+            "es": "Termine el día con una visita al singular jardín de bonsáis."
           }
         }
       ],
@@ -1929,7 +2094,8 @@
         "de": "Mit den öffentlichen Verkehrsmitteln von Parla können Sie die Stadt wie ein Einheimischer erleben. Beginnen Sie Ihren Tag mit einer Busfahrt zum Plaza de la Constitución. Von dort aus ist das historische Zentrum mit seinen Kirchen leicht zu Fuß erreichbar. Am Mittag bringt Sie ein weiterer Bus zum Parque de las Comunidades, einem perfekten Ort zum Entspannen. Am Nachmittag nutzen Sie den Bus, um das Kulturhaus und schließlich das ruhige Bonsai-Museum zu erreichen, wodurch Sie verschiedene Stadtteile ohne Parkplatzsorgen erkunden können.",
         "hu": "Parla tömegközlekedésével úgy élheti át a várost, mint egy helyi. Kezdje a napot egy buszúttal a Plaza de la Constitución-ra. Innen a történelmi központ és templomai könnyen megközelíthetők gyalog. Délben egy másik busz elviszi a Parque de las Comunidades-be, amely tökéletes hely a pihenésre. Délután a busz segítségével eljuthat a Kultúrházhoz és végül a békés Bonszai Múzeumhoz, lehetővé téve a különböző városrészek felfedezését parkolási gondok nélkül.",
         "ro": "Folosind transportul public din Parla, puteți experimenta orașul ca un localnic. Începeți ziua cu o călătorie cu autobuzul până la Plaza de la Constitución. De acolo, centrul istoric cu bisericile sale este ușor de explorat pe jos. La prânz, un alt autobuz vă va duce la Parque de las Comunidades, un loc perfect pentru relaxare. După-amiaza, folosiți autobuzul pentru a ajunge la Casa de Cultură și în final la liniștitul Muzeu Bonsai, permițându-vă să explorați diferite cartiere fără grija parcării.",
-        "en": "Using Parla's public transport allows you to experience the city like a local. Start your day with a bus ride to Plaza de la Constitución. From there, the historic center with its churches is easily walkable. At midday, another bus will take you to Parque de las Comunidades, a perfect spot for relaxation. In the afternoon, use the bus to get to the House of Culture and finally the tranquil Bonsai Museum, allowing you to explore different neighborhoods without the hassle of parking."
+        "en": "Using Parla's public transport allows you to experience the city like a local. Start your day with a bus ride to Plaza de la Constitución. From there, the historic center with its churches is easily walkable. At midday, another bus will take you to Parque de las Comunidades, a perfect spot for relaxation. In the afternoon, use the bus to get to the House of Culture and finally the tranquil Bonsai Museum, allowing you to explore different neighborhoods without the hassle of parking.",
+        "es": "Usar el transporte público de Parla le permite experimentar la ciudad como un local. Empiece el día en autobús hasta la Plaza de la Constitución. Desde allí, el casco histórico con sus iglesias es fácilmente accesible a pie. Al mediodía, otro autobús le llevará al Parque de las Comunidades, perfecto para relajarse. Por la tarde, use el autobús para llegar a la Casa de la Cultura y finalmente al tranquilo Museo del Bonsái, lo que le permite explorar distintos barrios sin preocuparse por el aparcamiento."
       },
       "gastro_picks": {
         "de": [
@@ -2125,6 +2291,12 @@
           "Download the local public transport app for real-time schedules.",
           "Be mindful of peak hours.",
           "Keep your ticket ready."
+        ],
+        "es": [
+          "Compre un bono diario para viajes ilimitados.",
+          "Descargue la app de transporte público local para horarios en tiempo real.",
+          "Tenga en cuenta las horas punta.",
+          "Tenga su billete preparado."
         ]
       },
       "variants": {
@@ -2133,7 +2305,8 @@
             "de": "Ein regnerischer Tag mit öffentlichen Verkehrsmitteln in Parla ist dank der Tranvía sehr komfortabel. Wir starten an der Haltestelle Plaza de la Constitución, wobei die Wartehäuschen guten Schutz bieten. Die Fahrt zur Kirche und zum Kulturhaus erfolgt in beheizten Wagen.\n\nMittags erreichen wir den Park der Gemeinschaften mit dem Bus. Kurze Sprints zwischen Haltestelle und Eingang minimieren den Kontakt mit dem Regen. Das Kulturhaus bietet danach ein langes, trockenes Programm.\n\nDer Nachmittag führt uns zum Botanischen Garten. Die Verbindungen sind auch bei schlechtem Wetter pünktlich. Das Beobachten der verregneten Stadt aus der Tram hat eine ganz eigene Ästhetik.\n\nDer Tag endet sicher und trocken an der Endstation im Zentrum. Mit den öffentlichen Verkehrsmitteln erkundet man Parla stressfrei, ohne sich um nasse Sitze oder Parkplätze sorgen zu müssen.",
             "hu": "Az esős nap Parlában tömegközlekedéssel, különösen a villamossal (Tranvía) nagyon kényelmes. A Plaza de la Constitución megállóból indulunk, ahol a fedett várók védenek az esőtől. A templom és a kultúrház könnyen elérhető a fűtött kocsikkal.\n\nDélben busszal utazunk a Park of the Communities felé. A megállók és a bejárat közötti rövid távokon minimális az esőnek való kitettség. A Casa de la Cultura tökéletes helyszín a délutáni záporok idejére.\n\nDélután a Botanikus Kert következik. A közlekedés rossz időben is pontos marad. A párás ablakon át figyelni az esős várost különleges hangulatot áraszt.\n\nA nap biztonságban és szárazon ér véget a központi csomópontnál. A tömegközlekedés stresszmentes módja Parla felfedezésének, még a legborúsabb időben is.",
             "ro": "O zi ploioasă în Parla folosind transportul public este foarte confortabilă datorită tramvaiului (Tranvía). Începem din stația Plaza de la Constitución, unde adăposturile oferă protecție bună. Călătoria spre Biserică și Casa de Cultură se face în vagoane încălzite.\n\nLa prânz ajungem la Parcul Comunităților cu autobuzul. Distanțele scurte între stație și intrare minimizează contactul cu ploaia. Casa de Cultură oferă apoi un program lung și uscat la interior.\n\nDupă-amiaza ne îndreptăm spre Grădina Botanică. Conexiunile rămân punctuale chiar și pe vreme rea. Privitul orașului prin geamul aburit al tramvaiului are o estetică aparte.\n\nZiua se încheie în siguranță și uscat la stația centrală. Transportul public este o metodă fără stres de a vedea Parla fără a vă face griji de ploaie.",
-            "en": "A rainy day using public transit in Parla is very convenient thanks to the modern Tranvía. We start at the Plaza de la Constitución stop, where covered shelters keep you dry. The ride to the Church and House of Culture is warm and comfortable.\n\nAt midday, we reach the Park of the Communities by bus. The short distance from the stop to the entrance means very little time spent in the rain. The House of Culture is our main afternoon shelter.\n\nIn the afternoon, head to the Botanical Garden. Transit connections are reliable even in bad weather. Watching the rain-soaked city from the tram window offers a unique perspective.\n\nYour day ends safely and dryly at the central transit hub. Public transport is a stress-free way to explore Parla without worrying about the weather or parking."
+            "en": "A rainy day using public transit in Parla is very convenient thanks to the modern Tranvía. We start at the Plaza de la Constitución stop, where covered shelters keep you dry. The ride to the Church and House of Culture is warm and comfortable.\n\nAt midday, we reach the Park of the Communities by bus. The short distance from the stop to the entrance means very little time spent in the rain. The House of Culture is our main afternoon shelter.\n\nIn the afternoon, head to the Botanical Garden. Transit connections are reliable even in bad weather. Watching the rain-soaked city from the tram window offers a unique perspective.\n\nYour day ends safely and dryly at the central transit hub. Public transport is a stress-free way to explore Parla without worrying about the weather or parking.",
+            "es": "Un día lluvioso usando transporte público en Parla es muy cómodo gracias al moderno Tranvía. Empezamos en la parada de Plaza de la Constitución, donde las marquesinas le mantienen seco. El viaje a la Iglesia y a la Casa de la Cultura es cálido y confortable.\n\nAl mediodía llegamos al Parque de las Comunidades en autobús. La corta distancia desde la parada hasta la entrada implica apenas tiempo bajo la lluvia. La Casa de la Cultura es nuestro principal refugio por la tarde.\n\nPor la tarde, diríjase al Jardín Botánico. Las conexiones de transporte son fiables incluso con mal tiempo. Ver la ciudad empapada desde la ventana del tranvía ofrece una perspectiva única.\n\nSu día termina seguro y seco en el núcleo de transporte central. El transporte público es una forma sin estrés de explorar Parla sin preocuparse por el tiempo o el aparcamiento."
           },
           "stops": [
             {
@@ -2142,7 +2315,8 @@
                 "de": "Warten Sie im hinteren Bereich des Unterstands.",
                 "hu": "Várjon a megálló fedett részének belső felén.",
                 "ro": "Așteptați în zona din spate a adăpostului din stație.",
-                "en": "Wait in the back of the shelter to avoid wind-blown rain."
+                "en": "Wait in the back of the shelter to avoid wind-blown rain.",
+                "es": "Espere en la parte trasera de la marquesina para evitar la lluvia arrastrada por el viento."
               }
             },
             {
@@ -2151,7 +2325,8 @@
                 "de": "Die Haltestelle ist nur wenige Schritte entfernt.",
                 "hu": "A megálló csak néhány lépésre van a bejárattól.",
                 "ro": "Stația este la doar câțiva pași de intrare.",
-                "en": "The stop is only a few steps away from the entrance."
+                "en": "The stop is only a few steps away from the entrance.",
+                "es": "La parada está a solo unos pasos de la entrada."
               }
             },
             {
@@ -2160,7 +2335,8 @@
                 "de": "Halten Sie den Schirm beim Aussteigen bereit.",
                 "hu": "Készítse elő az esernyőt már a leszállás előtt.",
                 "ro": "Pregătiți umbrela înainte de a coborî din vehicul.",
-                "en": "Have your umbrella ready before stepping off the bus."
+                "en": "Have your umbrella ready before stepping off the bus.",
+                "es": "Tenga el paraguas listo antes de bajar del autobús."
               }
             },
             {
@@ -2169,7 +2345,8 @@
                 "de": "Nutzen Sie den überdachten Wartebereich.",
                 "hu": "Használja a megálló fedett várakozóhelyét.",
                 "ro": "Folosiți zona de așteptare acoperită din stație.",
-                "en": "Use the covered waiting area at the bus stop."
+                "en": "Use the covered waiting area at the bus stop.",
+                "es": "Use la zona de espera cubierta en la parada de autobús."
               }
             },
             {
@@ -2178,7 +2355,8 @@
                 "de": "Die Tram-Station bietet hier exzellenten Schutz.",
                 "hu": "A villamosmegálló itt kiváló védelmet nyújt.",
                 "ro": "Stația de tramvai de aici oferă protecție excelentă.",
-                "en": "The tram station here offers excellent rain protection."
+                "en": "The tram station here offers excellent rain protection.",
+                "es": "La estación de tranvía aquí ofrece excelente protección contra la lluvia."
               }
             },
             {
@@ -2187,7 +2365,8 @@
                 "de": "Prüfen Sie die Abfahrtszeiten per App im Trockenen.",
                 "hu": "Ellenőrizze az indulásokat az appban még bentről.",
                 "ro": "Verificați orele de plecare pe aplicație stând la adăpost.",
-                "en": "Check departure times on your app while still inside."
+                "en": "Check departure times on your app while still inside.",
+                "es": "Consulte las horas de salida en la app mientras aún está dentro."
               }
             }
           ],
@@ -2219,6 +2398,13 @@
               "Most stops in Parla feature electronic displays showing wait times.",
               "Download the 'Consorcio Transportes' app for real-time bus and tram data.",
               "A compact umbrella is easier to manage on crowded public transport."
+            ],
+            "es": [
+              "El Tranvía de Parla circula en ruta circular y es muy fiable con mal tiempo.",
+              "Tenga la tarjeta de transporte lista para no buscarla en la puerta bajo la lluvia.",
+              "La mayoría de paradas en Parla cuentan con paneles electrónicos que muestran los tiempos de espera.",
+              "Descargue la app 'Consorcio Transportes' para datos de buses y tranvía en tiempo real.",
+              "Un paraguas compacto es más manejable en el transporte público atestado."
             ]
           }
         },
@@ -2227,7 +2413,8 @@
             "de": "Ein frostiger, klarer Wintertag in Parla ist perfekt für die Erkundung mit der Tranvía. Wir starten an der Plaza de la Constitución, wo die Morgensonne die Haltestelle aufwärmt. Die Fahrt in der beheizten Tram zur Kirche ist ein sanfter Start in den Tag.\n\nMittags nehmen wir den Bus zum Park der Gemeinschaften. Die trockene Kälte macht die kurzen Wege zwischen den Haltestellen angenehm. Die Casa de la Cultura bietet danach eine perfekte Möglichkeit, sich bei einer Ausstellung aufzuwärmen.\n\nAm Nachmittag geht es weiter zum Botanischen Garten. Die tiefstehende Sonne beleuchtet die Stadtlandschaft durch die großen Fenster der Tram. Die Pünktlichkeit der Verkehrsmittel hilft, die Zeit im Freien optimal zu planen.\n\nDer Tag endet gemütlich im Zentrum. Da die Temperaturen nach 18:00 Uhr sinken, ist die kurze Fahrt zur zentralen Haltestelle sehr willkommen, bevor man den Abend in einer der warmen lokalen Bodegas genießt.",
             "hu": "A fagyos, tiszta téli nap tökéletes Parla felfedezésére a helyi villamossal. A Plaza de la Constitución megállóból indulunk, ahol a reggeli nap már kezdi felmelegíteni a várót. A fűtött villamoskocsikban kényelmesen utazhatunk a templomig.\n\nDélben busszal megyünk a Park of the Communities felé. A száraz hidegben a megállók közötti rövid séta frissítő. A Casa de la Cultura fűtött terei ideálisak a déli pihenőhöz és a kiállítások megtekintéséhez.\n\nDélután a Botanikus Kert következik. A villamos hatalmas ablakain át csodálhatjuk a téli fényekben úszó várost. A menetrend szerinti közlekedés segít, hogy ne kelljen sokat várnunk a hidegben.\n\nA nap a központban zárul. Mivel 18:00 után gyorsan hűl a levegő, a gyors villamosút a főtérig nagyon hálás dolog, mielőtt beülnénk egy hangulatos helyi borozóba.",
             "ro": "O zi de iarnă geroasă și senină în Parla este perfectă pentru a folosi tramvaiul local. Pornim din stația Plaza de la Constitución, unde soarele dimineții începe să încălzească peronul. Călătoria cu tramvaiul încălzit spre Biserică este un început relaxant de zi.\n\nLa prânz luăm autobuzul spre Parcul Comunităților. Frigul uscat face ca plimbările între stații să fie revigorante. Casa de Cultură oferă apoi o oportunitate excelentă de a ne încălzi la interior în timp ce vizităm expozițiile.\n\nDupă-amiaza ne continuăm drumul spre Grădina Botanică. Soarele jos luminează orașul prin ferestrele mari ale tramvaiului. Punctualitatea transportului ne ajută să nu stăm mult în frigul de afară.\n\nZiua se încheie în centru. Deoarece temperaturile scad brusc după ora 18:00, drumul scurt spre stația centrală este foarte apreciat înainte de a savura cina într-o bodegă călduroasă.",
-            "en": "A frosty, clear winter day in Parla is ideal for exploring via the Tranvía. We start at the Plaza de la Constitución stop, where the morning sun warms the platform. Riding the heated tram to the Church is a gentle and cozy start to the day.\n\nAt midday, take the bus to the Park of the Communities. The dry winter air makes the short walks between stops quite refreshing. The House of Culture then offers a great chance to warm up while enjoying local art.\n\nIn the afternoon, continue to the Botanical Garden. The low winter sun illuminates the urban landscape through the tram’s large windows. Reliable transit schedules help you minimize your time spent waiting in the cold.\n\nYour day ends comfortably back in the city center. As temperatures drop after 6:00 PM, the quick tram ride to the main hub is very welcome before heading to a warm local tavern for dinner."
+            "en": "A frosty, clear winter day in Parla is ideal for exploring via the Tranvía. We start at the Plaza de la Constitución stop, where the morning sun warms the platform. Riding the heated tram to the Church is a gentle and cozy start to the day.\n\nAt midday, take the bus to the Park of the Communities. The dry winter air makes the short walks between stops quite refreshing. The House of Culture then offers a great chance to warm up while enjoying local art.\n\nIn the afternoon, continue to the Botanical Garden. The low winter sun illuminates the urban landscape through the tram’s large windows. Reliable transit schedules help you minimize your time spent waiting in the cold.\n\nYour day ends comfortably back in the city center. As temperatures drop after 6:00 PM, the quick tram ride to the main hub is very welcome before heading to a warm local tavern for dinner.",
+            "es": "Un día invernal y helado en Parla es ideal para explorar en Tranvía. Empezamos en la parada de Plaza de la Constitución, donde el sol matutino calienta el andén. Viajar en el tranvía calefactado hasta la Iglesia es un inicio amable y acogedor.\n\nAl mediodía tome el autobús al Parque de las Comunidades. El aire seco de invierno hace que los cortos paseos entre paradas sean refrescantes. La Casa de la Cultura ofrece una buena oportunidad para entrar en calor mientras disfruta del arte local.\n\nPor la tarde continúe al Jardín Botánico. El sol bajo de invierno ilumina el paisaje urbano a través de las grandes ventanas del tranvía. Los horarios fiables ayudan a minimizar el tiempo de espera en el frío.\n\nSu día termina cómodamente de regreso al centro. Al bajar las temperaturas después de las 18:00, el rápido viaje en tranvía hasta el núcleo principal es muy bienvenido antes de dirigirse a una taberna cálida para cenar."
           },
           "stops": [
             {
@@ -2236,7 +2423,8 @@
                 "de": "Stellen Sie sich in die Sonne, während Sie warten.",
                 "hu": "Álljon a napos részre várakozás közben.",
                 "ro": "Stați în zona însorită a peronului în timp ce așteptați.",
-                "en": "Stand in the sunny part of the platform while waiting."
+                "en": "Stand in the sunny part of the platform while waiting.",
+                "es": "Espere en la parte soleada del andén mientras aguarda."
               }
             },
             {
@@ -2245,7 +2433,8 @@
                 "de": "Die Tram hält fast direkt vor dem historischen Viertel.",
                 "hu": "A villamos szinte közvetlenül a történelmi negyednél áll meg.",
                 "ro": "Tramvaiul oprește aproape de centrul istoric.",
-                "en": "The tram stops very close to the historic district entrance."
+                "en": "The tram stops very close to the historic district entrance.",
+                "es": "El tranvía para muy cerca de la entrada al distrito histórico."
               }
             },
             {
@@ -2254,7 +2443,8 @@
                 "de": "Nutzen Sie die App, um die Wartezeit im Freien zu kürzen.",
                 "hu": "Használja az appot, hogy keveset kelljen kint várnia.",
                 "ro": "Folosiți aplicația pentru a minimiza timpul de așteptare afară.",
-                "en": "Use the transit app to minimize waiting time outdoors."
+                "en": "Use the transit app to minimize waiting time outdoors.",
+                "es": "Use la app de transporte para minimizar el tiempo de espera al aire libre."
               }
             },
             {
@@ -2263,7 +2453,8 @@
                 "de": "Wählen Sie die sonnigste Haltestelle für den Rückweg.",
                 "hu": "A visszaúthoz a legnaposabb megállót válassza.",
                 "ro": "Alegeți stația cea mai însorită pentru drumul de întoarcere.",
-                "en": "Choose the sunniest side of the road for your return stop."
+                "en": "Choose the sunniest side of the road for your return stop.",
+                "es": "Elige el lado más soleado de la carretera para tu parada de regreso."
               }
             },
             {
@@ -2272,7 +2463,8 @@
                 "de": "Die beheizte Tram ist nur einen kurzen Weg entfernt.",
                 "hu": "A fűtött villamos csak egy rövid sétára van innen.",
                 "ro": "Tramvaiul încălzit este la doar o scurtă plimbare de aici.",
-                "en": "The heated tram is just a short walk from the entrance."
+                "en": "The heated tram is just a short walk from the entrance.",
+                "es": "El tranvía calefactado está a pocos minutos a pie de la entrada."
               }
             },
             {
@@ -2281,7 +2473,8 @@
                 "de": "Achten Sie auf die früheren Abfahrtszeiten im Winter.",
                 "hu": "Figyeljen a téli menetrend szerinti korábbi indulásokra.",
                 "ro": "Verificați orele de plecare, se întunecă devreme iarna.",
-                "en": "Check departure times; it gets dark and cold quickly here."
+                "en": "Check departure times; it gets dark and cold quickly here.",
+                "es": "Consulta los horarios de salida; aquí oscurece y enfría rápido."
               }
             }
           ],
@@ -2313,6 +2506,13 @@
               "Tram stations are often open-air; look for wind-shielded corners.",
               "Use the travel time between stops to warm up your hands and feet.",
               "Tickets can be easily purchased from machines at each station."
+            ],
+            "es": [
+              "Los vagones del Tranvía de Parla están bien calefactados y son muy cómodos en invierno.",
+              "Los tiempos de espera son cortos (10-15 min), pero se recomienda una bufanda caliente.",
+              "Las estaciones de tranvía suelen ser al aire libre; busca esquinas protegidas del viento.",
+              "Aprovecha el tiempo de viaje entre paradas para calentar manos y pies.",
+              "Los billetes se compran fácilmente en máquinas en cada estación."
             ]
           }
         }

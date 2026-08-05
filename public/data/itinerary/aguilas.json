@@ -31,7 +31,8 @@
             "de": "Bewundern Sie die jahrhundertealten Gummibäume und den Springbrunnen.",
             "hu": "Csodálja meg a százéves gumifákat és a díszes szökőkutat.",
             "ro": "Admirați arborii de cauciuc seculari și fântâna arteziană.",
-            "en": "Admire the century-old rubber trees and the ornate fountain."
+            "en": "Admire the century-old rubber trees and the ornate fountain.",
+            "es": "Admira los árboles de caucho centenarios y la fuente ornamentada."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Eine neoklassizistische Kirche direkt an der Plaza.",
             "hu": "Egy neoklasszicista stílusú templom közvetlenül a főtéren.",
             "ro": "O biserică neoclasică situată chiar în piața principală.",
-            "en": "A neoclassical style church located right on the main square."
+            "en": "A neoclassical style church located right on the main square.",
+            "es": "Una iglesia de estilo neoclásico situada justo en la plaza principal."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Entdecken Sie die Geschichte der Stadt von der Jungsteinzeit bis zur Römerzeit.",
             "hu": "Fedezze fel a város történetét az újkőkorszaktól a római korig.",
             "ro": "Descoperiți istoria orașului din neolitic până în perioada romană.",
-            "en": "Discover the city's history from the Neolithic to the Roman period."
+            "en": "Discover the city's history from the Neolithic to the Roman period.",
+            "es": "Descubre la historia de la ciudad desde el Neolítico hasta la época romana."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Der Aufstieg ist steil, aber die Aussicht auf die Bucht ist unbezahlbar.",
             "hu": "A felfelé vezető út meredek, de az öbölre nyíló kilátás megfizethetetlen.",
             "ro": "Urcarea este abruptă, dar vederea spre golf este neprețuită.",
-            "en": "The climb is steep, but the view of the bay is priceless."
+            "en": "The climb is steep, but the view of the bay is priceless.",
+            "es": "La subida es empinada, pero la vista de la bahía no tiene precio."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Ein Denkmal für das wichtigste Fest der Stadt im Februar.",
             "hu": "Emlékmű a város legfontosabb, februári ünnepének tiszteletére.",
             "ro": "Un monument dedicat celei mai importante sărbători a orașului din februarie.",
-            "en": "A monument dedicated to the city's most important festival in February."
+            "en": "A monument dedicated to the city's most important festival in February.",
+            "es": "Un monumento dedicado a la fiesta más importante de la ciudad en febrero."
           }
         }
       ],
@@ -111,7 +116,8 @@
         "de": "Starten Sie Ihren Tag an der Plaza de España, dem grünen Herzen von Águilas. Besuchen Sie die Kirche San José und tauchen Sie im Archäologischen Museum in die Vergangenheit ein. Am späten Vormittag erklimmen Sie die Festung San Juan für einen atemberaubenden Rundblick und beenden den Rundgang am Hafen beim Karnevalsdenkmal.",
         "hu": "Kezdje a napot az águilasi Plaza de Españán, a város zöld szívében. Látogassa meg a San José-templomot, majd merüljön el a múltban a Régészeti Múzeumban. A délelőtt folyamán másszon fel a San Juan-erődbe a lélegzetelállító körpanorámáért, végül fejezze be a sétát a kikötőben a Karnevál-emlékműnél.",
         "ro": "Începeți ziua în Plaza de España, inima verde a orașului Águilas. Vizitați biserica San José și pătrundeți în trecut la Muzeul Arheologic. În timpul dimineții, urcați la cetatea San Juan pentru o vedere panoramică uluitoare și încheiați turul în port, la monumentul Carnavalului.",
-        "en": "Start your day at Plaza de España, the green heart of Águilas. Visit San José Church and dive into the past at the Archaeological Museum. During the morning, climb up to the San Juan fortress for a breathtaking 360-degree view, and finish your walk by the harbor at the Carnival monument."
+        "en": "Start your day at Plaza de España, the green heart of Águilas. Visit San José Church and dive into the past at the Archaeological Museum. During the morning, climb up to the San Juan fortress for a breathtaking 360-degree view, and finish your walk by the harbor at the Carnival monument.",
+        "es": "Comienza el día en la Plaza de España, el corazón verde de Águilas. Visita la iglesia de San José y sumérgete en el pasado en el Museo Arqueológico. Durante la mañana, sube al castillo de San Juan para disfrutar de una vista panorámica de 360 grados y termina el paseo junto al puerto en el monumento al Carnaval."
       },
       "gastro_picks": {
         "de": [
@@ -235,6 +241,12 @@
           "Plaza de España is the ideal place for a coffee in the shade.",
           "Combine the visit with a swim at Playa de la Colonia beach.",
           "In February, one of Spain's most spectacular carnivals is held here."
+        ],
+        "es": [
+          "Hay un ascensor disponible para personas con movilidad reducida que da acceso al castillo.",
+          "La Plaza de España es el lugar ideal para tomar un café a la sombra.",
+          "Combina la visita con un baño en la playa de la Colonia.",
+          "En febrero se celebra aquí uno de los carnavales más espectaculares de España."
         ]
       },
       "variants": {
@@ -243,7 +255,8 @@
             "de": "Starten Sie Ihren Tag an der Plaza de España, dem grünen Herzen von Águilas. Besuchen Sie die Kirche San José und tauchen Sie im Archäologischen Museum in die Vergangenheit ein. Am späten Vormittag erklimmen Sie die Festung San Juan für einen atemberaubenden Rundblick und beenden den Rundgang am Hafen beim Karnevalsdenkmal.",
             "hu": "Kezdje a napot az águilasi Plaza de Españán, a város zöld szívében. Látogassa meg a San José-templomot, majd merüljön el a múltban a Régészeti Múzeumban. A délelőtt folyamán másszon fel a San Juan-erődbe a lélegzetelállító körpanorámáért, végül fejezze be a sétát a kikötőben a Karnevál-emlékműnél.",
             "ro": "Începeți ziua în Plaza de España, inima verde a orașului Águilas. Vizitați biserica San José și pătrundeți în trecut la Muzeul Arheologic. În timpul dimineții, urcați la cetatea San Juan pentru o vedere panoramică uluitoare și încheiați turul în port, la monumentul Carnavalului.",
-            "en": "Start your day at Plaza de España, the green heart of Águilas. Visit San José Church and dive into the past at the Archaeological Museum. During the morning, climb up to the San Juan fortress for a breathtaking 360-degree view, and finish your walk by the harbor at the Carnival monument."
+            "en": "Start your day at Plaza de España, the green heart of Águilas. Visit San José Church and dive into the past at the Archaeological Museum. During the morning, climb up to the San Juan fortress for a breathtaking 360-degree view, and finish your walk by the harbor at the Carnival monument.",
+            "es": "Comienza el día en la Plaza de España, el corazón verde de Águilas. Visita la iglesia de San José y sumérgete en el pasado en el Museo Arqueológico. Durante la mañana, sube al castillo de San Juan para disfrutar de una vista panorámica de 360 grados y termina el paseo junto al puerto en el monumento al Carnaval."
           },
           "stops": [
             {
@@ -252,7 +265,8 @@
                 "de": "Bewundern Sie die jahrhundertealten Gummibäume und den Springbrunnen.",
                 "hu": "Csodálja meg a százéves gumifákat és a díszes szökőkutat.",
                 "ro": "Admirați arborii de cauciuc seculari și fântâna arteziană.",
-                "en": "Admire the century-old rubber trees and the ornate fountain."
+                "en": "Admire the century-old rubber trees and the ornate fountain.",
+                "es": "Admira los árboles de caucho centenarios y la fuente ornamentada."
               }
             },
             {
@@ -261,7 +275,8 @@
                 "de": "Eine neoklassizistische Kirche direkt an der Plaza.",
                 "hu": "Egy neoklasszicista stílusú templom közvetlenül a főtéren.",
                 "ro": "O biserică neoclasică situată chiar în piața principală.",
-                "en": "A neoclassical style church located right on the main square."
+                "en": "A neoclassical style church located right on the main square.",
+                "es": "Una iglesia de estilo neoclásico situada justo en la plaza principal."
               }
             },
             {
@@ -270,7 +285,8 @@
                 "de": "Entdecken Sie die Geschichte der Stadt von der Jungsteinzeit bis zur Römerzeit.",
                 "hu": "Fedezze fel a város történetét az újkőkorszaktól a római korig.",
                 "ro": "Descoperiți istoria orașului din neolitic până în perioada romană.",
-                "en": "Discover the city's history from the Neolithic to the Roman period."
+                "en": "Discover the city's history from the Neolithic to the Roman period.",
+                "es": "Descubre la historia de la ciudad desde el Neolítico hasta la época romana."
               }
             },
             {
@@ -279,7 +295,8 @@
                 "de": "Der Aufstieg ist steil, aber die Aussicht auf die Bucht ist unbezahlbar.",
                 "hu": "A felfelé vezető út meredek, de az öbölre nyíló kilátás megfizethetetlen.",
                 "ro": "Urcarea este abruptă, dar vederea spre golf este neprețuită.",
-                "en": "The climb is steep, but the view of the bay is priceless."
+                "en": "The climb is steep, but the view of the bay is priceless.",
+                "es": "La subida es empinada, pero la vista de la bahía no tiene precio."
               }
             },
             {
@@ -288,7 +305,8 @@
                 "de": "Ein Denkmal für das wichtigste Fest der Stadt im Februar.",
                 "hu": "Emlékmű a város legfontosabb, februári ünnepének tiszteletére.",
                 "ro": "Un monument dedicat celei mai importante sărbători a orașului din februarie.",
-                "en": "A monument dedicated to the city's most important festival in February."
+                "en": "A monument dedicated to the city's most important festival in February.",
+                "es": "Un monumento dedicado a la fiesta más importante de la ciudad en febrero."
               }
             }
           ],
@@ -414,6 +432,12 @@
               "Plaza de España is the ideal place for a coffee in the shade.",
               "Combine the visit with a swim at Playa de la Colonia beach.",
               "In February, one of Spain's most spectacular carnivals is held here."
+            ],
+            "es": [
+              "Hay un ascensor disponible para personas con movilidad reducida que da acceso al castillo.",
+              "La Plaza de España es el lugar ideal para tomar un café a la sombra.",
+              "Combina la visita con un baño en la playa de la Colonia.",
+              "En febrero se celebra aquí uno de los carnavales más espectaculares de España."
             ]
           }
         },
@@ -422,7 +446,8 @@
             "de": "Der Morgen in Águilas beginnt grau, aber die riesigen Ficus-Bäume auf der Plaza de España bieten natürlichen Schutz vor den ersten Tropfen. Es ist die perfekte Zeit, um die barocke Architektur der San-José-Kirche zu bewundern, während der Regen auf das Dach trommelt.\n\nMittags suchen wir Zuflucht im Archäologischen Museum. In den klimatisierten Räumen vergeht die Zeit wie im Flug, während man die römischen Relikte und die Geschichte des Bergbaus studiert, ohne nass zu werden.\n\nAm Nachmittag lässt der Schauer etwas nach, was den Aufstieg zur Burg ermöglicht. Die nassen Pflastersteine glänzen, und der Blick auf die Bucht wirkt durch den Dunst fast mystisch.\n\nDer Abend endet in einer gemütlichen Bar in der Nähe des Karnevals-Monuments. Die Lichter der Stadt spiegeln sich in den Pfützen auf der Promenade, und der Duft von frischen Churros liegt in der feuchten Meeresluft.",
             "hu": "A reggel borúsan indul Águilasban, de a Plaza de España óriási fikuszai természetes ernyőként védenek az első cseppek elől. Ideális időpont a San José-templom barokk belső terének felfedezésére, miközben kint kopog az eső.\n\nDélben az Régészeti Múzeumba menekülünk. A fedett termekben gyorsan repül az idő a római kori leletek és a bányászati emlékek között, teljesen szárazon maradva.\n\nDélutánra enyhül a csapadék, így megkockáztathatjuk a várba vezető utat. A vizes macskakövek csillognak, az öbölre nyíló kilátás pedig a pára miatt különleges, melankolikus hangulatot áraszt.\n\nAz este a Karnevál-emlékmű közeli bárok egyikében ér véget. A város fényei visszatükröződnek a parti sétány tócsáiban, a tenger sós illata pedig intenzívebbé válik az eső után.",
             "ro": "Dimineața în Águilas începe cenușie, dar ficușii uriași din Plaza de España oferă un adăpost natural împotriva primilor stropi. Este momentul perfect pentru a admira interiorul bisericii San José, în timp ce ploaia bate în geamuri.\n\nLa prânz, ne refugiem în Muzeul Arheologic. În sălile acoperite, timpul trece repede studiind vestigiile romane și istoria minieră a zonei, stând la adăpost de intemperii.\n\nDupă-amiaza, precipitațiile se domolesc, permițând urcarea spre castel. Pietrele cubice umede strălucesc, iar vederea asupra golfului pare aproape mistică prin ceața ușoară.\n\nSeara se încheie într-un bar primitor lângă Monumentul Carnavalului. Luminile orașului se oglindesc în bălțile de pe faleză, iar mirosul mării devine mai pătrunzător în aerul umed.",
-            "en": "The morning in Águilas starts grey, but the giant ficus trees of Plaza de España provide natural shelter from the first drops. It's the perfect time to admire the Baroque architecture of San José Church while the rain drums on the roof.\n\nAt midday, we seek refuge in the Archaeological Museum. Inside the covered galleries, time flies while studying Roman relics and mining history, staying completely dry.\n\nBy afternoon, the rain eases off, allowing for the climb to the castle. The wet cobblestones glisten, and the view over the bay looks almost mystical through the haze.\n\nThe evening ends in a cozy bar near the Carnival Monument. The city lights reflect in the puddles along the promenade, and the scent of the sea is intensified by the fresh rain."
+            "en": "The morning in Águilas starts grey, but the giant ficus trees of Plaza de España provide natural shelter from the first drops. It's the perfect time to admire the Baroque architecture of San José Church while the rain drums on the roof.\n\nAt midday, we seek refuge in the Archaeological Museum. Inside the covered galleries, time flies while studying Roman relics and mining history, staying completely dry.\n\nBy afternoon, the rain eases off, allowing for the climb to the castle. The wet cobblestones glisten, and the view over the bay looks almost mystical through the haze.\n\nThe evening ends in a cozy bar near the Carnival Monument. The city lights reflect in the puddles along the promenade, and the scent of the sea is intensified by the fresh rain.",
+            "es": "La mañana en Águilas comienza gris, pero los gigantescos ficus de la Plaza de España ofrecen refugio natural de las primeras gotas. Es el momento perfecto para admirar la arquitectura barroca de la iglesia de San José mientras la lluvia golpea el tejado.\n\nAl mediodía, nos refugiamos en el Museo Arqueológico. En las galerías cubiertas el tiempo pasa rápido mientras se estudian restos romanos y la historia minera, permaneciendo completamente a cubierto.\n\nPor la tarde, la lluvia cede y permite subir al castillo. Los empedrados mojados brillan y la vista sobre la bahía se vuelve casi mística entre la bruma.\n\nLa noche termina en un bar acogedor cerca del Monumento al Carnaval. Las luces de la ciudad se reflejan en los charcos del paseo y el olor del mar se intensifica con la lluvia fresca."
           },
           "stops": [
             {
@@ -431,7 +456,8 @@
                 "de": "Die Marmorfliesen sind extrem rutschig; nutzen Sie die überdachten Arkaden am Rand.",
                 "hu": "A márványlapok rendkívül csúszósak; használja a széleken lévő árkádos folyosókat.",
                 "ro": "Plăcile de marmură sunt foarte alunecoase; folosiți arcadele acoperite de pe margini.",
-                "en": "The marble tiles are extremely slippery; use the covered arcades along the edges."
+                "en": "The marble tiles are extremely slippery; use the covered arcades along the edges.",
+                "es": "Los suelos de mármol son extremadamente resbaladizos; utiliza las arcadas cubiertas a lo largo de los bordes."
               }
             },
             {
@@ -440,7 +466,8 @@
                 "de": "Ein idealer Ort, um einen heftigen Schauer trocken abzuwarten.",
                 "hu": "Ideális helyszín egy intenzívebb zápor szárazon történő átvészeléséhez.",
                 "ro": "Un loc ideal pentru a aștepta trecerea unei averse puternice la adăpost.",
-                "en": "An ideal spot to wait out a heavy downpour while staying dry."
+                "en": "An ideal spot to wait out a heavy downpour while staying dry.",
+                "es": "Un lugar ideal para esperar a que pase un aguacero sin mojarse."
               }
             },
             {
@@ -449,7 +476,8 @@
                 "de": "Planen Sie hier bei Regen mehr Zeit ein; die römischen Mosaike sind beeindruckend.",
                 "hu": "Esőben érdemes több időt tölteni itt; a római mozaikok lenyűgözőek.",
                 "ro": "Planificați mai mult timp aici pe ploaie; mozaicurile romane sunt impresionante.",
-                "en": "Plan more time here during rain; the Roman mosaics are truly impressive."
+                "en": "Plan more time here during rain; the Roman mosaics are truly impressive.",
+                "es": "Planifica más tiempo aquí con lluvia; los mosaicos romanos son realmente impresionantes."
               }
             },
             {
@@ -458,7 +486,8 @@
                 "de": "Achtung beim Abstieg; die steilen Wege können bei Nässe tückisch sein.",
                 "hu": "Vigyázat a lefelé úton; a meredek ösvények vizesen veszélyesek lehetnek.",
                 "ro": "Atenție la coborâre; potecile abrupte pot fi înșelătoare când sunt ude.",
-                "en": "Be careful on the way down; the steep paths can be tricky when wet."
+                "en": "Be careful on the way down; the steep paths can be tricky when wet.",
+                "es": "Ten cuidado al bajar; los caminos empinados pueden ser complicados cuando están mojados."
               }
             },
             {
@@ -467,7 +496,8 @@
                 "de": "Ein schneller Fotostopp unter dem Regenschirm ist ausreichend.",
                 "hu": "Egy gyors fotómegálló esernyő alatt is bőven elegendő.",
                 "ro": "O scurtă oprire pentru fotografii sub umbrelă este suficientă.",
-                "en": "A quick photo stop under your umbrella is more than enough."
+                "en": "A quick photo stop under your umbrella is more than enough.",
+                "es": "Una breve parada para una foto bajo el paraguas suele ser más que suficiente."
               }
             }
           ],
@@ -495,6 +525,12 @@
               "The large ficus trees in the main square offer surprisingly good shelter during light drizzle.",
               "Take advantage of any break in the rain to climb to the castle, as the view is often clearer then.",
               "Carry a sturdy umbrella, as rain on the coast is often accompanied by strong winds."
+            ],
+            "es": [
+              "Lleva calzado con buena suela, ya que la ciudad tiene muchas superficies de mármol resbaladizas.",
+              "Los grandes ficus de la plaza principal ofrecen un refugio sorprendentemente bueno durante lloviznas ligeras.",
+              "Aprovecha cualquier pausa en la lluvia para subir al castillo, ya que la vista suele estar más clara entonces.",
+              "Lleva un paraguas resistente, ya que la lluvia en la costa suele venir acompañada de rachas de viento fuertes."
             ]
           }
         },
@@ -503,7 +539,8 @@
             "de": "Der Wintermorgen in Águilas ist mild, aber die Brise vom Meer ist kühl. Die Plaza de España wirkt im sanften Winterlicht fast golden, während die Einheimischen ihren ersten Kaffee in der Morgensonne genießen.\n\nMittags ist die Luft angenehm frisch. Es ist die beste Zeit, um die Geschichte der Stadt in der Kirche und im Museum zu erkunden, wo die kühlen Mauern einen angenehmen Kontrast zur hellen Wintersonne bilden.\n\nDer Nachmittag sollte für den Castillo genutzt werden. Da die Sonne bereits gegen 18:00 Uhr untergeht, taucht das flache Licht die Festung in dramatische Schatten, bevor der Himmel in Lila-Tönen erstrahlt.\n\nDen Abend verbringen wir an der Uferpromenade. Auch wenn es kühler wird, ist die Atmosphäre ruhig, und der Blick auf das Monumento al Carnaval erinnert an die kommenden Festlichkeiten im Februar.",
             "hu": "A téli reggel Águilasban enyhe, de a tenger felől érkező szellő frissítő. A Plaza de España szinte aranylik a lágy téli fényben, miközben a helyiek a reggeli napsütésben kortyolgatják kávéjukat.\n\nDélben a levegő kellemesen tiszta. Ez a legjobb időszak a város történelmének felfedezésére a templomban és a múzeumban, ahol a hűvös falak kontrasztot alkotnak a ragyogó téli nappal.\n\nA délutánt érdemes a várban tölteni. Mivel a nap már 18:00 körül lenyugszik, az alacsony fények drámai árnyékokat vetnek az erődre, mielőtt az ég lila árnyalatokba öltözne.\n\nAz estét a tengerparti sétányon töltjük. Bár lehűl az idő, a hangulat nyugodt, és a Karnevál-emlékmű látványa már a közelgő februári ünnepségeket idézi.",
             "ro": "Dimineața de iarnă în Águilas este blândă, dar briza mării este răcoroasă. Plaza de España pare aproape aurie în lumina palidă a iernii, în timp ce localnicii își savurează cafeaua în soarele dimineții.\n\nLa prânz, aerul este plăcut și curat. Este cel mai bun moment pentru a explora istoria orașului în biserică și muzeu, unde zidurile răcoroase contrastează cu soarele strălucitor de iarnă.\n\nDupă-amiaza trebuie dedicată castelului. Deoarece soarele apune deja în jur de ora 18:00, lumina joasă creează umbre dramatice asupra fortăreței înainte ca cerul să devină violet.\n\nSeara o petrecem pe faleză. Deși se răcește, atmosfera este calmă, iar vederea Monumentului Carnavalului amintește de festivitățile care vor avea loc în februarie.",
-            "en": "The winter morning in Águilas is mild, but the sea breeze is crisp. Plaza de España looks almost golden in the soft winter light, while locals enjoy their coffee in the morning sun.\n\nAt midday, the air is pleasantly fresh. It’s the best time to explore the city's history in the church and museum, where the cool walls contrast with the bright winter sun.\n\nAfternoon should be dedicated to the Castillo. Since the sun sets around 18:00, the low light casts dramatic shadows over the fortress before the sky turns shades of purple.\n\nWe spend the evening on the promenade. Even as it gets cooler, the atmosphere is calm, and the view of the Carnival Monument hints at the upcoming February festivities."
+            "en": "The winter morning in Águilas is mild, but the sea breeze is crisp. Plaza de España looks almost golden in the soft winter light, while locals enjoy their coffee in the morning sun.\n\nAt midday, the air is pleasantly fresh. It’s the best time to explore the city's history in the church and museum, where the cool walls contrast with the bright winter sun.\n\nAfternoon should be dedicated to the Castillo. Since the sun sets around 18:00, the low light casts dramatic shadows over the fortress before the sky turns shades of purple.\n\nWe spend the evening on the promenade. Even as it gets cooler, the atmosphere is calm, and the view of the Carnival Monument hints at the upcoming February festivities.",
+            "es": "La mañana invernal en Águilas es suave, pero la brisa marina es fresca. La Plaza de España parece casi dorada con la luz invernal suave, mientras los locales disfrutan de su café matutino.\n\nAl mediodía el aire es agradablemente fresco. Es el mejor momento para explorar la historia en la iglesia y el museo, donde los muros fríos contrastan con el brillante sol invernal.\n\nLa tarde debe dedicarse al Castillo. Como el sol se pone sobre las 18:00, la luz baja proyecta sombras dramáticas sobre la fortaleza antes de que el cielo tome tonos violetas.\n\nPasamos la noche en el paseo marítimo. Aunque refresca, la atmósfera es tranquila y la vista del Monumento al Carnaval anuncia las próximas fiestas de febrero."
           },
           "stops": [
             {
@@ -512,7 +549,8 @@
                 "de": "Genießen Sie die Morgensonne; im Schatten der Ficus-Bäume kann es kühl sein.",
                 "hu": "Élvezze a reggeli napsütést; a fikuszfák árnyékában hűvös lehet.",
                 "ro": "Bucurați-vă de soarele dimineții; la umbra ficușilor poate fi destul de răcoare.",
-                "en": "Enjoy the morning sun; it can be quite chilly in the shade of the ficus trees."
+                "en": "Enjoy the morning sun; it can be quite chilly in the shade of the ficus trees.",
+                "es": "Disfruta del sol de la mañana; puede refrescar mucho a la sombra de los ficus."
               }
             },
             {
@@ -521,7 +559,8 @@
                 "de": "Tragen Sie eine leichte Jacke, da das Kirchenschiff im Winter recht kühl ist.",
                 "hu": "Viseljen vékony dzsekit, mert a templomhajó télen meglehetősen hűvös.",
                 "ro": "Purtați o jachetă subțire, deoarece naosul bisericii este destul de rece iarna.",
-                "en": "Wear a light jacket, as the church interior can be quite cool in winter."
+                "en": "Wear a light jacket, as the church interior can be quite cool in winter.",
+                "es": "Lleva una chaqueta ligera, ya que el interior de la iglesia puede estar bastante fresco en invierno."
               }
             },
             {
@@ -530,7 +569,8 @@
                 "de": "Ein guter Ort, um sich für eine Stunde vor dem Seewind aufzuwärmen.",
                 "hu": "Kiváló helyszín, hogy egy órára felmelegedjen a tengeri szél elől.",
                 "ro": "Un loc bun pentru a vă încălzi timp de o oră, ferit de vântul mării.",
-                "en": "A good place to warm up for an hour, away from the coastal breeze."
+                "en": "A good place to warm up for an hour, away from the coastal breeze.",
+                "es": "Un buen lugar para entrar en calor durante una hora, alejado de la brisa costera."
               }
             },
             {
@@ -539,7 +579,8 @@
                 "de": "Seien Sie bis 17:30 Uhr hier, um den besten Winter-Sonnenuntergang zu erleben.",
                 "hu": "Érkezzen meg 17:30-ig, hogy elcsípje a legszebb téli naplementét.",
                 "ro": "Fiți aici până la ora 17:30 pentru a prinde cel mai frumos apus de iarnă.",
-                "en": "Be here by 17:30 to catch the best winter sunset views."
+                "en": "Be here by 17:30 to catch the best winter sunset views.",
+                "es": "Llega antes de las 17:30 para disfrutar de las mejores vistas del atardecer invernal."
               }
             },
             {
@@ -548,7 +589,8 @@
                 "de": "Die Vorbereitungen für das große Fest im Februar sind oft schon spürbar.",
                 "hu": "A februári nagy ünnepség előkészületei gyakran már érezhetőek a környéken.",
                 "ro": "Pregătirile pentru marea sărbătoare din februarie sunt adesea resimțite deja.",
-                "en": "Preparations for the big February festival are often already noticeable here."
+                "en": "Preparations for the big February festival are often already noticeable here.",
+                "es": "Los preparativos para la gran fiesta de febrero suelen notarse ya aquí."
               }
             }
           ],
@@ -576,6 +618,12 @@
               "The sun sets early (around 18:00), so plan outdoor activities accordingly.",
               "Winter is the best time for photography without tourist crowds in the main square.",
               "Try the local cuisine; hearty stews are very popular during the winter months."
+            ],
+            "es": [
+              "La ropa a capas es clave; el sol te calienta, pero el viento refresca a la sombra.",
+              "El sol se pone temprano (sobre las 18:00), así que planifica las actividades al aire libre en consecuencia.",
+              "El invierno es la mejor época para fotografiar sin las multitudes turísticas en la plaza mayor.",
+              "Prueba la cocina local; los guisos contundentes son muy populares durante los meses de invierno."
             ]
           }
         }
@@ -604,7 +652,8 @@
             "de": "Parken Sie am Fuße des Hügels oder nehmen Sie den Aufzug.",
             "hu": "Parkoljon a domb lábánál, vagy vegye igénybe a liftet.",
             "ro": "Parcați la poalele dealului sau folosiți liftul.",
-            "en": "Park at the foot of the hill or take the elevator."
+            "en": "Park at the foot of the hill or take the elevator.",
+            "es": "Aparca al pie del cerro o toma el ascensor."
           }
         },
         {
@@ -622,7 +671,8 @@
             "de": "Kleiner weiß-blauer Leuchtturm mit Blick auf den Hafen.",
             "hu": "Kicsi, fehér-kék világítótorony kilátással a kikötőre.",
             "ro": "Far mic alb-albastru cu vedere la port.",
-            "en": "Small white and blue lighthouse with views of the harbor."
+            "en": "Small white and blue lighthouse with views of the harbor.",
+            "es": "Pequeño faro blanco y azul con vistas al puerto."
           }
         },
         {
@@ -640,7 +690,8 @@
             "de": "Ein modernes architektonisches Juwel direkt am Meer.",
             "hu": "Modern építészeti remekmű közvetlenül a tengerparton.",
             "ro": "O bijuterie arhitecturală modernă chiar pe malul mării.",
-            "en": "A modern architectural gem located right on the seafront."
+            "en": "A modern architectural gem located right on the seafront.",
+            "es": "Una joya de la arquitectura moderna situada en primera línea de mar."
           }
         },
         {
@@ -658,7 +709,8 @@
             "de": "Treppe mit bunten Mosaiken, inspiriert von Gaudí.",
             "hu": "Gaudí stílusa által ihletett, színes mozaikokkal díszített lépcsősor.",
             "ro": "Scări cu mozaicuri colorate inspirate de stilul lui Gaudí.",
-            "en": "Staircase with colorful mosaics inspired by Gaudí's style."
+            "en": "Staircase with colorful mosaics inspired by Gaudí's style.",
+            "es": "Escalinata con mosaicos coloridos inspirados en el estilo de Gaudí."
           }
         },
         {
@@ -676,7 +728,8 @@
             "de": "Ein beeindruckendes altes Eisenverladeterminal aus dem 19. Jahrhundert.",
             "hu": "Lenyűgöző, 19. századi vasérckikötő és rakodóhely.",
             "ro": "Un terminal vechi de încărcare a fierului din secolul al XIX-lea.",
-            "en": "An impressive 19th-century iron ore loading pier."
+            "en": "An impressive 19th-century iron ore loading pier.",
+            "es": "Un impresionante muelle de carga de mineral del siglo XIX."
           }
         },
         {
@@ -694,7 +747,8 @@
             "de": "Genießen Sie den Sonnenuntergang von diesem ikonischen Felsen.",
             "hu": "Élvezze a naplementét erről az ikonikus sziklaformációról.",
             "ro": "Bucurați-vă de apus de pe această stâncă iconică.",
-            "en": "Enjoy the sunset from this iconic rock formation."
+            "en": "Enjoy the sunset from this iconic rock formation.",
+            "es": "Disfruta del atardecer desde esta formación rocosa icónica."
           }
         }
       ],
@@ -702,7 +756,8 @@
         "de": "Mit dem Auto entdecken Sie sowohl das historische Zentrum als auch die industriellen Schätze von Águilas. Beginnen Sie bei der Festung und fahren Sie dann entlang der Küste zum modernen Auditorium. Besuchen Sie das farbenfrohe Rincón del Hornillo und den historischen Eisensteg, bevor Sie den Tag am Pico de la Aguilica ausklingen lassen.",
         "hu": "Autóval felfedezheti Águilas történelmi központját és ipari örökségét is. Kezdjen az erődnél, majd hajtson végig a parton a modern Auditóriumig. Látogassa meg a színes Rincón del Hornillót és a történelmi vasrakodót, végül zárja a napot a Pico de la Aguilica sziklájánál.",
         "ro": "Cu mașina veți descoperi atât centrul istoric, cât și comorile industriale din Águilas. Începeți la cetate și apoi conduceți de-a lungul coastei spre auditoriul modern. Vizitați coloratul Rincón del Hornillo și vechiul doc de fier înainte de a încheia ziua la Pico de la Aguilica.",
-        "en": "By car, you can discover both the historic center and the industrial treasures of Águilas. Start at the fortress and then drive along the coast to the modern Auditorium. Visit the colorful Rincón del Hornillo and the historic iron pier before ending the day at Pico de la Aguilica."
+        "en": "By car, you can discover both the historic center and the industrial treasures of Águilas. Start at the fortress and then drive along the coast to the modern Auditorium. Visit the colorful Rincón del Hornillo and the historic iron pier before ending the day at Pico de la Aguilica.",
+        "es": "En coche puedes descubrir tanto el casco histórico como los tesoros industriales de Águilas. Empieza en la fortaleza y luego recorre la costa hasta el moderno Auditorio. Visita el colorido Rincón del Hornillo y el histórico muelle de hierro antes de terminar el día en el Pico de la Aguilica."
       },
       "gastro_picks": {
         "de": [
@@ -826,6 +881,12 @@
           "The coastal road offers wonderful views; drive carefully.",
           "Visit the Auditorium in the evening as well for illuminated photos.",
           "The castle might close during siesta time; check the exact hours."
+        ],
+        "es": [
+          "Hay buenos aparcamientos cerca del Hornillo, en el centro comercial.",
+          "La carretera costera ofrece vistas maravillosas; conduce con cuidado.",
+          "Visita el Auditorio también por la noche para fotos iluminadas.",
+          "El castillo puede cerrar durante la siesta; consulta los horarios exactos."
         ]
       },
       "variants": {
@@ -834,7 +895,8 @@
             "de": "Mit dem Auto entdecken Sie sowohl das historische Zentrum als auch die industriellen Schätze von Águilas. Beginnen Sie bei der Festung und fahren Sie dann entlang der Küste zum modernen Auditorium. Besuchen Sie das farbenfrohe Rincón del Hornillo und den historischen Eisensteg, bevor Sie den Tag am Pico de la Aguilica ausklingen lassen.",
             "hu": "Autóval felfedezheti Águilas történelmi központját és ipari örökségét is. Kezdjen az erődnél, majd hajtson végig a parton a modern Auditóriumig. Látogassa meg a színes Rincón del Hornillót és a történelmi vasrakodót, végül zárja a napot a Pico de la Aguilica sziklájánál.",
             "ro": "Cu mașina veți descoperi atât centrul istoric, cât și comorile industriale din Águilas. Începeți la cetate și apoi conduceți de-a lungul coastei spre auditoriul modern. Vizitați coloratul Rincón del Hornillo și vechiul doc de fier înainte de a încheia ziua la Pico de la Aguilica.",
-            "en": "By car, you can discover both the historic center and the industrial treasures of Águilas. Start at the fortress and then drive along the coast to the modern Auditorium. Visit the colorful Rincón del Hornillo and the historic iron pier before ending the day at Pico de la Aguilica."
+            "en": "By car, you can discover both the historic center and the industrial treasures of Águilas. Start at the fortress and then drive along the coast to the modern Auditorium. Visit the colorful Rincón del Hornillo and the historic iron pier before ending the day at Pico de la Aguilica.",
+            "es": "En coche puedes descubrir tanto el casco histórico como los tesoros industriales de Águilas. Empieza en la fortaleza y luego recorre la costa hasta el moderno Auditorio. Visita el colorido Rincón del Hornillo y el histórico muelle de hierro antes de terminar el día en el Pico de la Aguilica."
           },
           "stops": [
             {
@@ -843,7 +905,8 @@
                 "de": "Parken Sie am Fuße des Hügels oder nehmen Sie den Aufzug.",
                 "hu": "Parkoljon a domb lábánál, vagy vegye igénybe a liftet.",
                 "ro": "Parcați la poalele dealului sau folosiți liftul.",
-                "en": "Park at the foot of the hill or take the elevator."
+                "en": "Park at the foot of the hill or take the elevator.",
+                "es": "Aparca al pie del cerro o toma el ascensor."
               }
             },
             {
@@ -852,7 +915,8 @@
                 "de": "Kleiner weiß-blauer Leuchtturm mit Blick auf den Hafen.",
                 "hu": "Kicsi, fehér-kék világítótorony kilátással a kikötőre.",
                 "ro": "Far mic alb-albastru cu vedere la port.",
-                "en": "Small white and blue lighthouse with views of the harbor."
+                "en": "Small white and blue lighthouse with views of the harbor.",
+                "es": "Pequeño faro blanco y azul con vistas al puerto."
               }
             },
             {
@@ -861,7 +925,8 @@
                 "de": "Ein modernes architektonisches Juwel direkt am Meer.",
                 "hu": "Modern építészeti remekmű közvetlenül a tengerparton.",
                 "ro": "O bijuterie arhitecturală modernă chiar pe malul mării.",
-                "en": "A modern architectural gem located right on the seafront."
+                "en": "A modern architectural gem located right on the seafront.",
+                "es": "Una joya de la arquitectura moderna situada en primera línea de mar."
               }
             },
             {
@@ -870,7 +935,8 @@
                 "de": "Treppe mit bunten Mosaiken, inspiriert von Gaudí.",
                 "hu": "Gaudí stílusa által ihletett, színes mozaikokkal díszített lépcsősor.",
                 "ro": "Scări cu mozaicuri colorate inspirate de stilul lui Gaudí.",
-                "en": "Staircase with colorful mosaics inspired by Gaudí's style."
+                "en": "Staircase with colorful mosaics inspired by Gaudí's style.",
+                "es": "Escalinata con mosaicos coloridos inspirados en el estilo de Gaudí."
               }
             },
             {
@@ -879,7 +945,8 @@
                 "de": "Ein beeindruckendes altes Eisenverladeterminal aus dem 19. Jahrhundert.",
                 "hu": "Lenyűgöző, 19. századi vasérckikötő és rakodóhely.",
                 "ro": "Un terminal vechi de încărcare a fierului din secolul al XIX-lea.",
-                "en": "An impressive 19th-century iron ore loading pier."
+                "en": "An impressive 19th-century iron ore loading pier.",
+                "es": "Un impresionante muelle de carga de mineral del siglo XIX."
               }
             },
             {
@@ -888,7 +955,8 @@
                 "de": "Genießen Sie den Sonnenuntergang von diesem ikonischen Felsen.",
                 "hu": "Élvezze a naplementét erről az ikonikus sziklaformációról.",
                 "ro": "Bucurați-vă de apus de pe această stâncă iconică.",
-                "en": "Enjoy the sunset from this iconic rock formation."
+                "en": "Enjoy the sunset from this iconic rock formation.",
+                "es": "Disfruta del atardecer desde esta formación rocosa icónica."
               }
             }
           ],
@@ -1014,6 +1082,12 @@
               "The coastal road offers wonderful views; drive carefully.",
               "Visit the Auditorium in the evening as well for illuminated photos.",
               "The castle might close during siesta time; check the exact hours."
+            ],
+            "es": [
+              "Hay buenos aparcamientos cerca del Hornillo, en el centro comercial.",
+              "La carretera costera ofrece vistas maravillosas; conduce con cuidado.",
+              "Visita el Auditorio también por la noche para fotos iluminadas.",
+              "El castillo puede cerrar durante la siesta; consulta los horarios exactos."
             ]
           }
         },
@@ -1022,7 +1096,8 @@
             "de": "Ein Regentag in Águilas mit dem Auto ist komfortabel. Wir starten am Castillo, wo wir fast bis zum Tor fahren können, um den Wind zu vermeiden.\n\nMittags bietet die Fahrt zum Faro de Punta Negra dramatische Ausblicke auf die aufgewühlte See, während wir im trockenen Auto sitzen.\n\nAm Nachmittag besuchen wir das Auditorio. Die moderne Architektur spiegelt das graue Licht wunderschön wider, bevor wir zum Hornillo weiterfahren.\n\nDer Abend endet am Pico de la Aguilica. Der Regen hat aufgehört und die Stadtlichter funkeln besonders hell in der sauberen Luft.",
             "hu": "Egy esős nap Águilasban autóval kényelmes. A várnál kezdünk, ahol majdnem a kapuig hajthatunk, elkerülve az erős szelet.\n\nDélben a Faro de Punta Negra felé vezető út drámai kilátást nyújt a felkorbácsolt tengerre, miközben mi a száraz autóban ülünk.\n\nDélután meglátogatjuk az Auditóriumot. A modern építészet gyönyörűen veri vissza a szürke fényeket, mielőtt továbbindulnánk a Hornillo felé.\n\nAz este a Pico de la Aguilica-nál zárul. Az eső elállt, és a város fényei különösen fényesen ragyognak a tiszta levegőben.",
             "ro": "O zi ploioasă în Águilas cu mașina este confortabilă. Începem la Castillo, unde putem conduce aproape până la poartă pentru a evita vântul.\n\nLa prânz, drumul spre Faro de Punta Negra oferă vederi dramatice asupra mării agitate, în timp ce stăm în mașina uscată.\n\nDupă-amiaza vizităm Auditorio. Arhitectura modernă reflectă frumos lumina gri înainte de a continua spre Hornillo.\n\nSeara se încheie la Pico de la Aguilica. Ploaia s-a oprit, iar luminile orașului strălucesc deosebit de tare în aerul curat.",
-            "en": "A rainy day in Águilas by car is comfortable. We start at the Castillo, where we can drive almost to the gate to avoid the wind.\n\nAt midday, the drive to Faro de Punta Negra offers dramatic views of the turbulent sea while we stay dry in the car.\n\nIn the afternoon, we visit the Auditorio. The modern architecture reflects the grey light beautifully before we move on to Hornillo.\n\nThe evening ends at Pico de la Aguilica. The rain has stopped, and the city lights sparkle especially bright in the clean air."
+            "en": "A rainy day in Águilas by car is comfortable. We start at the Castillo, where we can drive almost to the gate to avoid the wind.\n\nAt midday, the drive to Faro de Punta Negra offers dramatic views of the turbulent sea while we stay dry in the car.\n\nIn the afternoon, we visit the Auditorio. The modern architecture reflects the grey light beautifully before we move on to Hornillo.\n\nThe evening ends at Pico de la Aguilica. The rain has stopped, and the city lights sparkle especially bright in the clean air.",
+            "es": "Un día lluvioso en Águilas en coche es cómodo. Empezamos en el Castillo, donde se puede conducir casi hasta la puerta para evitar el viento.\n\nAl mediodía, el trayecto hasta el Faro de Punta Negra ofrece vistas dramáticas del mar agitado mientras nos quedamos secos en el coche.\n\nPor la tarde, visitamos el Auditorio. La arquitectura moderna refleja la luz gris de forma muy fotogénica antes de continuar hacia Hornillo.\n\nLa noche termina en el Pico de la Aguilica. Ha cesado la lluvia y las luces de la ciudad brillan con especial intensidad en el aire limpio."
           },
           "stops": [
             {
@@ -1031,7 +1106,8 @@
                 "de": "Parken Sie oben am Hang, um den Fußweg im Regen zu verkürzen.",
                 "hu": "Parkoljon fent a lejtőn, hogy lerövidítse a gyalogutat az esőben.",
                 "ro": "Parcați sus pe coastă pentru a scurta drumul pe jos prin ploaie.",
-                "en": "Park up on the slope to shorten the walk in the rain."
+                "en": "Park up on the slope to shorten the walk in the rain.",
+                "es": "Aparca en la ladera para acortar la caminata bajo la lluvia."
               }
             },
             {
@@ -1040,7 +1116,8 @@
                 "de": "Bleiben Sie im Auto für den besten Blick auf die Brandung.",
                 "hu": "Maradjon az autóban a legjobb kilátásért a hullámtörésre.",
                 "ro": "Rămâneți în mașină pentru cea mai bună vedere asupra valurilor.",
-                "en": "Stay in the car for the best view of the breaking waves."
+                "en": "Stay in the car for the best view of the breaking waves.",
+                "es": "Quédate en el coche para la mejor vista de las olas rompiendo."
               }
             },
             {
@@ -1049,7 +1126,8 @@
                 "de": "Überdachte Parkplätze sind in der Nähe vorhanden.",
                 "hu": "Fedett parkolók találhatók a közelben.",
                 "ro": "Există locuri de parcare acoperite în apropiere.",
-                "en": "Covered parking spaces are available nearby."
+                "en": "Covered parking spaces are available nearby.",
+                "es": "Hay plazas de parking cubiertas disponibles cerca."
               }
             },
             {
@@ -1058,7 +1136,8 @@
                 "de": "Die bunten Mosaike leuchten auch bei grauem Himmel.",
                 "hu": "A színes mozaikok még szürke égbolt mellett is ragyognak.",
                 "ro": "Mozaicurile colorate strălucesc chiar și sub un cer gri.",
-                "en": "The colorful mosaics glow even under a grey sky."
+                "en": "The colorful mosaics glow even under a grey sky.",
+                "es": "Los mosaicos coloridos brillan incluso bajo un cielo gris."
               }
             },
             {
@@ -1067,7 +1146,8 @@
                 "de": "Besuchen Sie das nahegelegene Einkaufszentrum, wenn es zu stark regnet.",
                 "hu": "Látogassa meg a közeli bevásárlóközpontot, ha túl erősen esne.",
                 "ro": "Vizitați centrul comercial din apropiere dacă plouă prea tare.",
-                "en": "Visit the nearby shopping center if the rain gets too heavy."
+                "en": "Visit the nearby shopping center if the rain gets too heavy.",
+                "es": "Visita el centro comercial cercano si la lluvia se intensifica."
               }
             },
             {
@@ -1076,7 +1156,8 @@
                 "de": "Vorsicht auf der schmalen Straße bei Nässe.",
                 "hu": "Vigyázat a szűk úton vizes körülmények között.",
                 "ro": "Atenție pe drumul îngust în condiții de umiditate.",
-                "en": "Be careful on the narrow road in wet conditions."
+                "en": "Be careful on the narrow road in wet conditions.",
+                "es": "Ten cuidado en la carretera estrecha con condiciones de humedad."
               }
             }
           ],
@@ -1104,6 +1185,12 @@
               "Use the multi-story car parks in the city center to stay dry while visiting sights.",
               "Visibility at the lighthouse is often limited in the rain; drive carefully.",
               "Check your windshield wipers before setting off."
+            ],
+            "es": [
+              "Algunas carreteras costeras pueden inundarse brevemente con lluvia intensa.",
+              "Utiliza los aparcamientos de varias plantas del centro para mantenerte seco mientras visitas los puntos de interés.",
+              "La visibilidad en el faro suele ser limitada con lluvia; conduce con precaución.",
+              "Revisa los limpiaparabrisas antes de ponerse en marcha."
             ]
           }
         },
@@ -1112,7 +1199,8 @@
             "de": "Winterfahrten in Águilas bieten klare Horizonte. Der Morgen am Castillo ist kühl, aber die Sicht reicht bis weit über das Mittelmeer.\n\nMittags ist die Fahrt zum Leuchtturm angenehm, da keine Touristenbusse die engen Straßen blockieren.\n\nAm Nachmittag bietet das Auditorio im tiefen Sonnenlicht ein perfektes Fotomotiv. Die Fahrt zum Hornillo zeigt die industrielle Geschichte im sanften Licht.\n\nDer Tag endet am Pico de la Aguilica. Da die Sonne früh untergeht, erleben wir das Farbspektakel bequem vom Fahrersitz aus.",
             "hu": "A téli autózás Águilasban tiszta horizontokat kínál. A reggel a várnál hűvös, de a kilátás messze túlnyúlik a Földközi-tengeren.\n\nDélben a világítótoronyhoz vezető út kellemes, mivel nincsenek turistabuszok, amik elállnák a szűk utakat.\n\nDélután az Auditórium a mélyen járó napfényben tökéletes fotótéma. A Hornillo felé vezető út a lágy fényekben mutatja be az ipari múltat.\n\nA nap a Pico de la Aguilica-nál zárul. Mivel a nap korán nyugszik, a színpompás látványt kényelmesen, a vezetőülésből élvezhetjük.",
             "ro": "Plimbările cu mașina iarna în Águilas oferă orizonturi limpezi. Dimineața la castel este răcoroasă, dar vederea se întinde mult peste Marea Mediterană.\n\nLa prânz, drumul spre far este plăcut, deoarece nu există autocare de turiști care să blocheze străzile înguste.\n\nDupă-amiaza, Auditorio oferă un subiect perfect pentru fotografii în lumina joasă a soarelui. Drumul spre Hornillo dezvăluie istoria industrială în lumină blândă.\n\nZiua se încheie la Pico de la Aguilica. Deoarece soarele apune devreme, experimentăm spectacolul de culori confortabil de pe scaunul șoferului.",
-            "en": "Winter drives in Águilas offer clear horizons. The morning at the Castillo is cool, but the view extends far across the Mediterranean.\n\nAt midday, the drive to the lighthouse is pleasant as no tourist buses block the narrow roads.\n\nIn the afternoon, the Auditorio in the low sunlight provides a perfect photo opportunity. The drive to Hornillo showcases industrial history in soft light.\n\nThe day ends at Pico de la Aguilica. Since the sun sets early, we experience the spectacle of colors comfortably from the driver's seat."
+            "en": "Winter drives in Águilas offer clear horizons. The morning at the Castillo is cool, but the view extends far across the Mediterranean.\n\nAt midday, the drive to the lighthouse is pleasant as no tourist buses block the narrow roads.\n\nIn the afternoon, the Auditorio in the low sunlight provides a perfect photo opportunity. The drive to Hornillo showcases industrial history in soft light.\n\nThe day ends at Pico de la Aguilica. Since the sun sets early, we experience the spectacle of colors comfortably from the driver's seat.",
+            "es": "Las rutas invernales en Águilas ofrecen horizontes despejados. La mañana en el Castillo es fresca, pero la vista se extiende lejos sobre el Mediterráneo.\n\nAl mediodía, el trayecto al faro es agradable ya que no hay autobuses turísticos que bloqueen las carreteras estrechas.\n\nPor la tarde, el Auditorio con la luz baja ofrece una oportunidad fotográfica perfecta. El trayecto a Hornillo muestra la historia industrial con una luz suave.\n\nEl día termina en el Pico de la Aguilica. Como el sol se pone pronto, disfrutamos cómodamente del espectáculo de colores desde el coche."
           },
           "stops": [
             {
@@ -1121,7 +1209,8 @@
                 "de": "Die Luft oben ist im Winter sehr frisch; nehmen Sie eine Jacke mit.",
                 "hu": "Fent a levegő télen nagyon friss; vigyen magával kabátot.",
                 "ro": "Aerul de sus este foarte proaspăt iarna; luați o jachetă cu voi.",
-                "en": "The air up there is very fresh in winter; take a jacket with you."
+                "en": "The air up there is very fresh in winter; take a jacket with you.",
+                "es": "El aire allí arriba es muy fresco en invierno; lleva una chaqueta."
               }
             },
             {
@@ -1130,7 +1219,8 @@
                 "de": "Idealer Ort für einen windgeschützten Blick auf das Meer.",
                 "hu": "Ideális helyszín a szélvédett kilátáshoz a tengerre.",
                 "ro": "Loc ideal pentru o vedere spre mare protejată de vânt.",
-                "en": "Ideal spot for a wind-protected view of the sea."
+                "en": "Ideal spot for a wind-protected view of the sea.",
+                "es": "Lugar ideal para una vista del mar protegida del viento."
               }
             },
             {
@@ -1139,7 +1229,8 @@
                 "de": "Beste Zeit für Außenaufnahmen ohne harte Mittagsschatten.",
                 "hu": "A legjobb időszak külső fotókhoz az erős déli árnyékok nélkül.",
                 "ro": "Cel mai bun moment pentru fotografii exterioare fără umbre dure la prânz.",
-                "en": "Best time for exterior shots without harsh midday shadows."
+                "en": "Best time for exterior shots without harsh midday shadows.",
+                "es": "Mejor momento para fotos exteriores sin sombras duras del mediodía."
               }
             },
             {
@@ -1148,7 +1239,8 @@
                 "de": "Die Farben wirken im Winterlicht besonders weich.",
                 "hu": "A színek a téli fényben különösen lágyak.",
                 "ro": "Culorile par deosebit de catifelate în lumina iernii.",
-                "en": "The colors look especially soft in the winter light."
+                "en": "The colors look especially soft in the winter light.",
+                "es": "Los colores se ven especialmente suaves con la luz invernal."
               }
             },
             {
@@ -1157,7 +1249,8 @@
                 "de": "Weniger Besucher bedeuten bessere Parkmöglichkeiten direkt vor Ort.",
                 "hu": "A kevesebb látogató jobb parkolási lehetőségeket jelent közvetlenül a helyszínen.",
                 "ro": "Mai puțini vizitatori înseamnă locuri de parcare mai bune chiar la fața locului.",
-                "en": "Fewer visitors mean better parking options right on-site."
+                "en": "Fewer visitors mean better parking options right on-site.",
+                "es": "Menos visitantes significan mejores opciones de aparcamiento justo en el sitio."
               }
             },
             {
@@ -1166,7 +1259,8 @@
                 "de": "Planen Sie die Ankunft für 17:45 Uhr ein, um das letzte Licht zu sehen.",
                 "hu": "Tervezze az érkezést 17:45-re, hogy lássa az utolsó fényeket.",
                 "ro": "Planificați sosirea pentru ora 17:45 pentru a vedea ultima lumină.",
-                "en": "Plan to arrive by 17:45 to catch the last rays of light."
+                "en": "Plan to arrive by 17:45 to catch the last rays of light.",
+                "es": "Planea llegar a las 17:45 para atrapar los últimos rayos de luz."
               }
             }
           ],
@@ -1194,6 +1288,12 @@
               "Take advantage of the clear weather for drives to the lookout points.",
               "The sun is lower and more blinding in winter; keep your sun visor ready.",
               "Using the car's AC helps with fogged-up windows in the morning."
+            ],
+            "es": [
+              "Encontrar aparcamiento en el centro es mucho más relajado en invierno.",
+              "Aprovecha el buen tiempo para conducir a los miradores.",
+              "El sol está más bajo y deslumbra más en invierno; ten listo el parasol.",
+              "Usar el aire acondicionado del coche ayuda con los cristales empañados por la mañana."
             ]
           }
         }
@@ -1207,19 +1307,22 @@
       "de": "Aguilas ist authentisch spanisch, Englisch sprechen nur die hotelangestellten und einige Restaurant-Inhaber. Der murcianische Akzent kann fuer Sprachstudenten verwirrend sein. Im Februar lohnt sich 'Vamos al carnaval' als Gespraechsoeffner, die Stadt hat einen der wichtigsten Karnevale Spaniens.",
       "hu": "Aguilas hamisitatlan spanyol, csak a szallodasok es nehany etteremtulaj ert angolul. A murciai akcentus a spanyolt tanulokat is megzavarhatja. Februarban a 'Vamos al carnaval' nyitvanyitas, a varos Spanyolorszag egyik legnagyobb karnevaljat tartja.",
       "ro": "Aguilas e autentic spaniol, doar personalul hotelier si cativa proprietari de restaurante stiu engleza. Accentul murcian deruteaza chiar si pe studentii de spaniola. In februarie 'Vamos al carnaval' e expresia magica, orasul are unul din cele mai importante carnavaluri din Spania.",
-      "en": "Aguilas is authentically Spanish, with English limited to hotel staff and a few restaurant owners. The Murcian accent can confuse even Spanish learners. In February, 'Vamos al carnaval' is the perfect ice-breaker, since the town hosts one of Spain's top carnivals."
+      "en": "Aguilas is authentically Spanish, with English limited to hotel staff and a few restaurant owners. The Murcian accent can confuse even Spanish learners. In February, 'Vamos al carnaval' is the perfect ice-breaker, since the town hosts one of Spain's top carnivals.",
+      "es": "Águilas es auténticamente española, con inglés limitado al personal de hoteles y algunos propietarios de restaurantes. El acento murciano puede confundir incluso a los estudiantes de español. En febrero, 'Vamos al carnaval' es la frase perfecta para romper el hielo, ya que la localidad acoge uno de los principales carnavales de España."
     },
     "best_time_to_visit": {
       "de": "Februar fuer den weltberuehmten Karneval (drei Wochen lang), aber Hotels rechtzeitig buchen. April bis Juni und September sind ideal zum Baden ohne Hochsaison-Stress. August ist die heisseste und vollste Zeit, dann lieber morgens an die Cuatro Calas Buchten.",
       "hu": "Februarban a vilaghiru karnaval (harom hetes), de a hotelekt elore le kell foglalni. Aprilis-junius es szeptember tokeletes furdesre csucsszezoni stressz nelkul. Augusztus a legforrobb es a legtelibb, ilyenkor a Cuatro Calas oblokhoz reggel erkezz.",
       "ro": "Februarie pentru carnavalul renumit mondial (trei saptamani), dar rezerva hotelul devreme. Aprilie-iunie si septembrie sunt ideale pentru plaja fara stresul varfului. August e cea mai fierbinte si aglomerata perioada, mergi dimineata la golfurile Cuatro Calas.",
-      "en": "February for the world-famous three-week carnival, but book hotels early. April-June and September are ideal for swimming without peak-season stress. August is the hottest and busiest, so reach the Cuatro Calas coves first thing in the morning."
+      "en": "February for the world-famous three-week carnival, but book hotels early. April-June and September are ideal for swimming without peak-season stress. August is the hottest and busiest, so reach the Cuatro Calas coves first thing in the morning.",
+      "es": "Febrero para el célebre carnaval de tres semanas, pero reserva hoteles con antelación. Abril-junio y septiembre son ideales para nadar sin el estrés de la temporada alta. Agosto es el más caluroso y concurrido, así que llega temprano a las calas de Cuatro Calas."
     },
     "neighborhood_warnings": {
       "de": "Aguilas ist sehr sicher, waehrend des Karnevals steigen aber Taschendiebstaehle im Hauptumzug spuerbar an. Die Bucht Calarreona hat starke Stroemungen, Schwimmer mit Vorerfahrung empfohlen. Auf der Strasse zum Castillo de San Juan ist Vorsicht geboten, die Brueche sind nicht durchgehend gesichert.",
       "hu": "Aguilas nagyon biztonsagos, de a karnevali fovonulasnal megno a zsebmetszes. A Calarreona obol erocs aramlatu, csak gyakorlott uszoknak. A Castillo de San Juan-hoz vezeto uton a sziklatorscereszett szakaszok nem mindenutt biztositottak.",
       "ro": "Aguilas e foarte sigur, dar in timpul carnavalului cresc furturile la parada principala. Golful Calarreona are curenti puternici, recomandat doar inotatorilor experimentati. Pe drumul spre Castillo de San Juan, ruperile de stanca nu sunt complet asigurate.",
-      "en": "Aguilas is very safe, but pickpocketing spikes during the carnival's main parade. Calarreona cove has strong currents, only experienced swimmers should venture in. The path up to Castillo de San Juan has unsecured rockfall stretches, so step carefully."
+      "en": "Aguilas is very safe, but pickpocketing spikes during the carnival's main parade. Calarreona cove has strong currents, only experienced swimmers should venture in. The path up to Castillo de San Juan has unsecured rockfall stretches, so step carefully.",
+      "es": "Águilas es muy segura, pero los carteristas aumentan durante el desfile principal del carnaval. La cala Calarreona tiene corrientes fuertes; solo nadadores experimentados deberían internarse. El sendero hasta el Castillo de San Juan tiene tramos con desprendimientos sin asegurar, así que pisa con cuidado."
     }
   }
 }

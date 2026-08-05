@@ -21,7 +21,8 @@
             "de": "Plaza Mayor",
             "hu": "Főtér",
             "ro": "Plaza Mayor",
-            "en": "Main Square"
+            "en": "Main Square",
+            "es": "Plaza Mayor"
           },
           "coords": [
             -2.4668,
@@ -37,7 +38,8 @@
             "de": "Starten Sie den Tag mit einem Kaffee und beobachten Sie das Erwachen der Stadt.",
             "hu": "Kezdje a napot egy kávéval, és figyelje, ahogy a város ébredezik.",
             "ro": "Începeți ziua cu o cafea și priviți cum se trezește orașul.",
-            "en": "Start your day with a coffee and watch the city come to life."
+            "en": "Start your day with a coffee and watch the city come to life.",
+            "es": "Empieza el día con un café y observa cómo la ciudad cobra vida."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Iglesia de Santo Domingo",
             "hu": "Santo Domingo-templom",
             "ro": "Biserica Santo Domingo",
-            "en": "Church of Santo Domingo"
+            "en": "Church of Santo Domingo",
+            "es": "Iglesia de Santo Domingo"
           },
           "coords": [
             -2.4715,
@@ -61,7 +64,8 @@
             "de": "Bewundern Sie die Fassade, ein Meisterwerk der romanischen Bildhauerei.",
             "hu": "Csodálja meg a homlokzatot, a román kori szobrászat mesterművét.",
             "ro": "Admirați fațada, o capodoperă a sculpturii romanice.",
-            "en": "Admire the facade, a masterpiece of Romanesque sculpture."
+            "en": "Admire the facade, a masterpiece of Romanesque sculpture.",
+            "es": "Admira la fachada, una obra maestra de la escultura románica."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Palacio de los Condes de Gómara",
             "hu": "Gómara grófjainak palotája",
             "ro": "Palatul Conților de Gómara",
-            "en": "Palace of the Counts of Gómara"
+            "en": "Palace of the Counts of Gómara",
+            "es": "Palacio de los Condes de Gómara"
           },
           "coords": [
             -2.4691,
@@ -85,7 +90,8 @@
             "de": "Beachten Sie den imposanten Turm und die Renaissance-Fassade.",
             "hu": "Figyelje meg a lenyűgöző tornyot és a reneszánsz homlokzatot.",
             "ro": "Observați turnul impunător și fațada renascentistă.",
-            "en": "Note the imposing tower and the Renaissance facade."
+            "en": "Note the imposing tower and the Renaissance facade.",
+            "es": "Fíjate en la imponente torre y en la fachada renacentista."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Museo Numantino",
             "hu": "Numantino Múzeum",
             "ro": "Muzeul Numantino",
-            "en": "Numantino Museum"
+            "en": "Numantino Museum",
+            "es": "Museo Numantino"
           },
           "coords": [
             -2.4647,
@@ -109,7 +116,8 @@
             "de": "Konzentrieren Sie sich auf die keltiberischen Artefakte aus Numantia.",
             "hu": "Koncentráljon a Numantiából származó keltibér leletekre.",
             "ro": "Concentrați-vă pe artefactele celtiberice din Numantia.",
-            "en": "Focus on the Celtiberian artifacts from Numantia."
+            "en": "Focus on the Celtiberian artifacts from Numantia.",
+            "es": "Concéntrate en los objetos celtíberos de Numancia."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Konkathedrale San Pedro",
             "hu": "Szent Péter-társszékesegyház",
             "ro": "Concatedrala San Pedro",
-            "en": "Co-cathedral of San Pedro"
+            "en": "Co-cathedral of San Pedro",
+            "es": "Cocatedral de San Pedro"
           },
           "coords": [
             -2.4628,
@@ -133,7 +142,8 @@
             "de": "Verpassen Sie nicht den gotischen Kreuzgang und die flämischen Wandteppiche.",
             "hu": "Ne hagyja ki a gótikus kerengőt és a flamand faliszőnyegeket.",
             "ro": "Nu ratați claustrul gotic și tapiseriile flamande.",
-            "en": "Don't miss the Gothic cloister and the Flemish tapestries."
+            "en": "Don't miss the Gothic cloister and the Flemish tapestries.",
+            "es": "No te pierdas el claustro gótico y los tapices flamencos."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Monasterio de San Juan de Duero",
             "hu": "San Juan de Duero-kolostor",
             "ro": "Mănăstirea San Juan de Duero",
-            "en": "Monastery of San Juan de Duero"
+            "en": "Monastery of San Juan de Duero",
+            "es": "Monasterio de San Juan de Duero"
           },
           "coords": [
             -2.4571,
@@ -157,7 +168,8 @@
             "de": "Die ineinander verschlungenen Bögen des Kreuzgangs sind einzigartig in Spanien.",
             "hu": "A kerengő egymásba fonódó ívei egyedülállóak Spanyolországban.",
             "ro": "Arcurile împletite ale claustrului sunt unice în Spania.",
-            "en": "The interlaced arches of the cloister are unique in Spain."
+            "en": "The interlaced arches of the cloister are unique in Spain.",
+            "es": "Los arcos entrelazados del claustro son únicos en España."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Einsiedelei San Saturio",
             "hu": "San Saturio remetelak",
             "ro": "Schitul San Saturio",
-            "en": "Hermitage of San Saturio"
+            "en": "Hermitage of San Saturio",
+            "es": "Ermita de San Saturio"
           },
           "coords": [
             -2.4522,
@@ -181,7 +194,8 @@
             "de": "Genießen Sie die Aussicht auf den Fluss Duero von diesem Felsenheiligtum.",
             "hu": "Élvezze a Duero folyóra nyíló kilátást ebből a sziklaszentélyből.",
             "ro": "Bucurați-vă de priveliștea râului Duero de la acest sanctuar de pe stâncă.",
-            "en": "Enjoy the views of the Duero River from this rock-hewn sanctuary."
+            "en": "Enjoy the views of the Duero River from this rock-hewn sanctuary.",
+            "es": "Disfruta de las vistas del río Duero desde este santuario excavado en la roca."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Ihr Tag in Soria beginnt auf der belebten Plaza Mayor. Von dort führt Sie ein Spaziergang durch die romanische Geschichte zur Iglesia de Santo Domingo und zum prächtigen Palacio de los Condes de Gómara. Am Vormittag tauchen Sie im Museo Numantino tief in die antike Vergangenheit der Region ein. Nach dem Mittagessen überqueren Sie den Fluss Duero. Sie erkunden die ruhige Konkathedrale San Pedro und die einzigartigen Bögen des Klosters San Juan de Duero. Der Nachmittag findet seinen Höhepunkt in der Ermita de San Saturio, die malerisch in die Felsen gehauen ist und einen atemberaubenden Blick auf den Fluss bietet. Genießen Sie die friedliche Atmosphäre, bevor Sie in die Stadt zurückkehren.",
         "hu": "Soriai napja a nyüzsgő Plaza Mayoron kezdődik. Innen egy séta vezet a román kori történelembe a Santo Domingo-templomhoz és a csodálatos Gómara grófi palotához. Délelőtt a Numantino Múzeumban mélyedhet el a régió ókori múltjában. Ebéd után átkel a Duero folyón. Felfedezi a csendes Szent Péter-társszékesegyházat és a San Juan de Duero-kolostor egyedi íveit. A délután csúcspontja a festői sziklába vájt San Saturio remetelak, ahonnan lélegzetelállító kilátás nyílik a folyóra. Élvezze a békés hangulatot, mielőtt visszatérne a városba.",
         "ro": "Ziua dvs. în Soria începe în animata Plaza Mayor. De acolo, o plimbare vă poartă prin istoria romanică la Biserica Santo Domingo și la magnificul Palat al Conților de Gómara. Dimineața, vă veți cufunda în trecutul antic al regiunii la Muzeul Numantino. După prânz, traversați râul Duero. Explorați liniștita Concatedrală San Pedro și arcadele unice ale Mănăstirii San Juan de Duero. După-amiaza culminează cu Schitul San Saturio, sculptat pitoresc în stâncă, oferind vederi impresionante asupra râului. Bucurați-vă de atmosfera pașnică înainte de a vă întoarce în oraș.",
-        "en": "Your day in Soria begins in the bustling Plaza Mayor. From there, a walk takes you through Romanesque history to the Church of Santo Domingo and the magnificent Palace of the Counts of Gómara. In the morning, you'll delve deep into the region's ancient past at the Numantino Museum. After lunch, you cross the Duero River. You explore the tranquil Co-cathedral of San Pedro and the unique arches of the Monastery of San Juan de Duero. The afternoon culminates at the Hermitage of San Saturio, picturesquely carved into the rock and offering breathtaking views of the river. Enjoy the peaceful atmosphere before returning to the city."
+        "en": "Your day in Soria begins in the bustling Plaza Mayor. From there, a walk takes you through Romanesque history to the Church of Santo Domingo and the magnificent Palace of the Counts of Gómara. In the morning, you'll delve deep into the region's ancient past at the Numantino Museum. After lunch, you cross the Duero River. You explore the tranquil Co-cathedral of San Pedro and the unique arches of the Monastery of San Juan de Duero. The afternoon culminates at the Hermitage of San Saturio, picturesquely carved into the rock and offering breathtaking views of the river. Enjoy the peaceful atmosphere before returning to the city.",
+        "es": "Tu día en Soria comienza en la concurrida Plaza Mayor. Desde allí, un paseo te lleva por la historia románica hasta la Iglesia de Santo Domingo y el magnífico Palacio de los Condes de Gómara. Por la mañana profundizarás en el pasado antiguo de la región en el Museo Numantino. Tras el almuerzo, cruzas el río Duero. Explorarás la tranquila Cocatedral de San Pedro y los arcos singulares del Monasterio de San Juan de Duero. La tarde culmina en la Ermita de San Saturio, excavada en la roca y con impresionantes vistas al río. Disfruta de la atmósfera tranquila antes de volver a la ciudad."
       },
       "gastro_picks": {
         "de": [
@@ -385,6 +400,12 @@
           "Many sights are near the Duero river, a walk there is highly recommended.",
           "Check the opening hours of the churches, as they may close for a siesta at midday.",
           "Soria is known for its poets; look for statues and plaques dedicated to them."
+        ],
+        "es": [
+          "Lleva calzado cómodo, ya que los adoquines del casco antiguo pueden ser irregulares.",
+          "Muchas atracciones están cerca del río Duero; se recomienda caminar hasta allí.",
+          "Consulta los horarios de apertura de las iglesias, ya que pueden cerrar por la siesta al mediodía.",
+          "Soria es conocida por sus poetas; busca estatuas y placas dedicadas a ellos."
         ]
       }
     },
@@ -401,7 +422,8 @@
             "de": "Alameda de Cervantes",
             "hu": "Alameda de Cervantes",
             "ro": "Alameda de Cervantes",
-            "en": "Alameda de Cervantes"
+            "en": "Alameda de Cervantes",
+            "es": "Alameda de Cervantes"
           },
           "coords": [
             -2.4725,
@@ -417,7 +439,8 @@
             "de": "Mieten Sie ein Fahrrad in der Nähe und beginnen Sie den Tag mit einer Runde durch den Park.",
             "hu": "Béreljen kerékpárt a közelben, és kezdje a napot egy körrel a parkban.",
             "ro": "Închiriați o bicicletă din apropiere și începeți ziua cu o tură prin parc.",
-            "en": "Rent a bike nearby and start your day with a loop around the park."
+            "en": "Rent a bike nearby and start your day with a loop around the park.",
+            "es": "Alquila una bici cerca y comienza el día con una ruta alrededor del parque."
           }
         },
         {
@@ -425,7 +448,8 @@
             "de": "Museo Numantino",
             "hu": "Numantino Múzeum",
             "ro": "Muzeul Numantino",
-            "en": "Numantino Museum"
+            "en": "Numantino Museum",
+            "es": "Museo Numantino"
           },
           "coords": [
             -2.4647,
@@ -441,7 +465,8 @@
             "de": "Erfahren Sie mehr über die heldenhafte Geschichte von Numantia, bevor Sie die Stätte besuchen.",
             "hu": "Tudjon meg többet Numantia hősies történetéről, mielőtt meglátogatná a helyszínt.",
             "ro": "Aflați despre istoria eroică a Numantiei înainte de a vizita situl.",
-            "en": "Learn about the heroic history of Numantia before visiting the site."
+            "en": "Learn about the heroic history of Numantia before visiting the site.",
+            "es": "Infórmate sobre la historia heroica de Numancia antes de visitar el yacimiento."
           }
         },
         {
@@ -449,7 +474,8 @@
             "de": "Iglesia de Santo Domingo",
             "hu": "Santo Domingo-templom",
             "ro": "Biserica Santo Domingo",
-            "en": "Church of Santo Domingo"
+            "en": "Church of Santo Domingo",
+            "es": "Iglesia de Santo Domingo"
           },
           "coords": [
             -2.4715,
@@ -465,7 +491,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und bewundern Sie die Details der romanischen Fassade.",
             "hu": "Tegye le a biciklit, és csodálja meg a román kori homlokzat részleteit.",
             "ro": "Parcați-vă bicicleta și admirați detaliile fațadei romanice.",
-            "en": "Park your bike and admire the details of the Romanesque facade."
+            "en": "Park your bike and admire the details of the Romanesque facade.",
+            "es": "Aparca tu bici y admira los detalles de la fachada románica."
           }
         },
         {
@@ -473,7 +500,8 @@
             "de": "Plaza Mayor",
             "hu": "Főtér",
             "ro": "Plaza Mayor",
-            "en": "Main Square"
+            "en": "Main Square",
+            "es": "Plaza Mayor"
           },
           "coords": [
             -2.4668,
@@ -489,7 +517,8 @@
             "de": "Ein schneller Stopp, um die Atmosphäre des Herzens der Stadt aufzusaugen.",
             "hu": "Egy gyors megálló, hogy magába szívja a város szívének hangulatát.",
             "ro": "O oprire rapidă pentru a absorbi atmosfera din inima orașului.",
-            "en": "A quick stop to soak up the atmosphere in the heart of the city."
+            "en": "A quick stop to soak up the atmosphere in the heart of the city.",
+            "es": "Una parada rápida para empaparte del ambiente en el corazón de la ciudad."
           }
         },
         {
@@ -497,7 +526,8 @@
             "de": "Konkathedrale San Pedro",
             "hu": "Szent Péter-társszékesegyház",
             "ro": "Concatedrala San Pedro",
-            "en": "Co-cathedral of San Pedro"
+            "en": "Co-cathedral of San Pedro",
+            "es": "Cocatedral de San Pedro"
           },
           "coords": [
             -2.4628,
@@ -513,7 +543,8 @@
             "de": "Suchen Sie nach dem Fahrradständer in der Nähe des Eingangs.",
             "hu": "Keresse a kerékpártárolót a bejárat közelében.",
             "ro": "Căutați suportul pentru biciclete de lângă intrare.",
-            "en": "Look for the bike rack near the entrance."
+            "en": "Look for the bike rack near the entrance.",
+            "es": "Busca el aparcamiento para bicicletas cerca de la entrada."
           }
         },
         {
@@ -521,7 +552,8 @@
             "de": "Monasterio de San Juan de Duero",
             "hu": "San Juan de Duero-kolostor",
             "ro": "Mănăstirea San Juan de Duero",
-            "en": "Monastery of San Juan de Duero"
+            "en": "Monastery of San Juan de Duero",
+            "es": "Monasterio de San Juan de Duero"
           },
           "coords": [
             -2.4571,
@@ -537,7 +569,8 @@
             "de": "Der perfekte Ort für eine Mittagspause im Schatten der einzigartigen Bögen.",
             "hu": "Tökéletes hely egy ebédszünetre az egyedi ívek árnyékában.",
             "ro": "Locul perfect pentru o pauză de prânz la umbra arcadelor unice.",
-            "en": "The perfect spot for a lunch break in the shade of the unique arches."
+            "en": "The perfect spot for a lunch break in the shade of the unique arches.",
+            "es": "El lugar perfecto para una pausa para comer a la sombra de los arcos únicos."
           }
         },
         {
@@ -545,7 +578,8 @@
             "de": "Einsiedelei San Saturio",
             "hu": "San Saturio remetelak",
             "ro": "Schitul San Saturio",
-            "en": "Hermitage of San Saturio"
+            "en": "Hermitage of San Saturio",
+            "es": "Ermita de San Saturio"
           },
           "coords": [
             -2.4522,
@@ -561,7 +595,8 @@
             "de": "Der Weg ist asphaltiert, aber seien Sie auf einen kurzen Anstieg vorbereitet.",
             "hu": "Az út aszfaltozott, de készüljön egy rövid emelkedőre.",
             "ro": "Calea este asfaltată, dar fiți pregătiți pentru o urcare scurtă.",
-            "en": "The path is paved but be prepared for a short uphill climb."
+            "en": "The path is paved but be prepared for a short uphill climb.",
+            "es": "El sendero está pavimentado, pero prepárate para una breve subida."
           }
         },
         {
@@ -569,7 +604,8 @@
             "de": "Rückfahrt entlang des Duero",
             "hu": "Visszaút a Duero mentén",
             "ro": "Plimbare înapoi de-a lungul râului Duero",
-            "en": "Ride back along the Duero"
+            "en": "Ride back along the Duero",
+            "es": "Regreso en bicicleta por el Duero"
           },
           "coords": [
             -2.465,
@@ -585,7 +621,8 @@
             "de": "Genießen Sie die ruhige Fahrt zurück ins Stadtzentrum am Flussufer.",
             "hu": "Élvezze a nyugodt utat vissza a városközpontba a folyóparton.",
             "ro": "Bucurați-vă de plimbarea liniștită înapoi în centrul orașului de-a lungul malului râului.",
-            "en": "Enjoy the tranquil ride back to the city center along the riverbank."
+            "en": "Enjoy the tranquil ride back to the city center along the riverbank.",
+            "es": "Disfruta del tranquilo regreso al centro siguiendo la ribera del río."
           }
         }
       ],
@@ -593,7 +630,8 @@
         "de": "Beginnen Sie Ihren Radtag im grünen Herzen von Soria, der Alameda de Cervantes. Von dort radeln Sie zum Museo Numantino, um in die Geschichte einzutauchen. Am Vormittag erkunden Sie das historische Zentrum mit Stopps an der romanischen Iglesia de Santo Domingo und der lebhaften Plaza Mayor. Nach einem Besuch der Konkathedrale San Pedro überqueren Sie den Fluss Duero. Am Nachmittag erwarten Sie die architektonischen Wunder des Klosters San Juan de Duero und der in den Fels gehauenen Ermita de San Saturio. Der Tag endet mit einer entspannten Radtour entlang des malerischen Flussufers zurück ins Zentrum.",
         "hu": "Kezdje kerékpáros napját Soria zöld szívében, az Alameda de Cervantes parkban. Innen tekerjen el a Numantino Múzeumba, hogy elmerüljön a történelemben. Délelőtt fedezze fel a történelmi központot, megállva a román kori Santo Domingo-templomnál és a nyüzsgő Plaza Mayoron. A Szent Péter-társszékesegyház meglátogatása után keljen át a Duero folyón. Délután a San Juan de Duero-kolostor és a sziklába vájt San Saturio remetelak építészeti csodái várják. A nap egy pihentető kerékpártúrával zárul a festői folyóparton vissza a központba.",
         "ro": "Începeți ziua pe bicicletă în inima verde a Sorici, Alameda de Cervantes. De acolo, pedalați spre Muzeul Numantino pentru o doză de istorie. Dimineața, explorați centrul istoric cu opriri la romanica Biserică Santo Domingo și la animata Plaza Mayor. După o vizită la Concatedrala San Pedro, traversați râul Duero. După-amiaza, vă așteaptă minunile arhitecturale ale Mănăstirii San Juan de Duero și ale Schitului San Saturio, sculptat în stâncă. Ziua se încheie cu o plimbare relaxantă cu bicicleta de-a lungul malului pitoresc al râului, înapoi în centru.",
-        "en": "Start your cycling day in the green heart of Soria, the Alameda de Cervantes. From there, pedal to the Numantino Museum for a dose of history. In the morning, explore the historic center with stops at the Romanesque Church of Santo Domingo and the lively Plaza Mayor. After a visit to the Co-cathedral of San Pedro, you'll cross the Duero River. In the afternoon, the architectural wonders of the Monastery of San Juan de Duero and the rock-hewn Hermitage of San Saturio await. The day concludes with a relaxing bike ride along the scenic riverbank back to the center."
+        "en": "Start your cycling day in the green heart of Soria, the Alameda de Cervantes. From there, pedal to the Numantino Museum for a dose of history. In the morning, explore the historic center with stops at the Romanesque Church of Santo Domingo and the lively Plaza Mayor. After a visit to the Co-cathedral of San Pedro, you'll cross the Duero River. In the afternoon, the architectural wonders of the Monastery of San Juan de Duero and the rock-hewn Hermitage of San Saturio await. The day concludes with a relaxing bike ride along the scenic riverbank back to the center.",
+        "es": "Comienza tu día ciclista en el corazón verde de Soria, la Alameda de Cervantes. Desde allí, pedalea hasta el Museo Numantino para una dosis de historia. Por la mañana explora el centro histórico con paradas en la Iglesia románica de Santo Domingo y la animada Plaza Mayor. Después de visitar la Cocatedral de San Pedro, cruzarás el río Duero. Por la tarde te esperan las maravillas arquitectónicas del Monasterio de San Juan de Duero y la Ermita excavada en la roca de San Saturio. El día concluye con un relajante paseo en bici por la pintoresca ribera hasta el centro."
       },
       "gastro_picks": {
         "de": [
@@ -789,6 +827,12 @@
           "Bring a water bottle, especially for the stretch along the river.",
           "Most central sights are easily reachable by bike, but you'll need to dismount for the churches.",
           "Always lock your bike securely, even for short stops."
+        ],
+        "es": [
+          "Alquila una bici por todo el día para tener flexibilidad.",
+          "Lleva una botella de agua, sobre todo para el tramo junto al río.",
+          "La mayoría de los puntos centrales se alcanzan fácilmente en bici, pero tendrás que apearte en las iglesias.",
+          "Siempre asegura bien tu bici, incluso en paradas cortas."
         ]
       }
     },
@@ -805,7 +849,8 @@
             "de": "Parkplatz nahe San Juan de Duero",
             "hu": "Parkoló a San Juan de Duero közelében",
             "ro": "Parcare lângă San Juan de Duero",
-            "en": "Parking near San Juan de Duero"
+            "en": "Parking near San Juan de Duero",
+            "es": "Aparcamiento cerca de San Juan de Duero"
           },
           "coords": [
             -2.456,
@@ -821,7 +866,8 @@
             "de": "Beginnen Sie am Fluss, wo es morgens einfacher ist, einen Parkplatz zu finden.",
             "hu": "Kezdje a folyónál, ahol reggel könnyebb parkolóhelyet találni.",
             "ro": "Începeți de la râu, unde este mai ușor să găsiți parcare dimineața.",
-            "en": "Start by the river where parking is easier to find in the morning."
+            "en": "Start by the river where parking is easier to find in the morning.",
+            "es": "Comienza junto al río, donde es más fácil encontrar aparcamiento por la mañana."
           }
         },
         {
@@ -829,7 +875,8 @@
             "de": "Monasterio de San Juan de Duero",
             "hu": "San Juan de Duero-kolostor",
             "ro": "Mănăstirea San Juan de Duero",
-            "en": "Monastery of San Juan de Duero"
+            "en": "Monastery of San Juan de Duero",
+            "es": "Monasterio de San Juan de Duero"
           },
           "coords": [
             -2.4571,
@@ -845,7 +892,8 @@
             "de": "Der erste Stopp ist ein kurzer Spaziergang vom Parkplatz entfernt.",
             "hu": "Az első megálló egy rövid sétára van a parkolótól.",
             "ro": "Prima oprire este la o scurtă plimbare de parcare.",
-            "en": "The first stop is a short walk from where you parked."
+            "en": "The first stop is a short walk from where you parked.",
+            "es": "La primera parada está a un corto paseo desde donde aparcaste."
           }
         },
         {
@@ -853,7 +901,8 @@
             "de": "Einsiedelei San Saturio",
             "hu": "San Saturio remetelak",
             "ro": "Schitul San Saturio",
-            "en": "Hermitage of San Saturio"
+            "en": "Hermitage of San Saturio",
+            "es": "Ermita de San Saturio"
           },
           "coords": [
             -2.4522,
@@ -869,7 +918,8 @@
             "de": "Ein schöner Spaziergang entlang des Flusses führt Sie zur Einsiedelei.",
             "hu": "Egy szép séta a folyó mentén vezet a remetelakhoz.",
             "ro": "O plimbare frumoasă de-a lungul râului vă duce la schit.",
-            "en": "A beautiful walk along the river takes you to the hermitage."
+            "en": "A beautiful walk along the river takes you to the hermitage.",
+            "es": "Un bonito paseo por la orilla del río te lleva hasta la ermita."
           }
         },
         {
@@ -877,7 +927,8 @@
             "de": "Parkplatz im Stadtzentrum",
             "hu": "Parkoló a városközpontban",
             "ro": "Parcare în centrul orașului",
-            "en": "Parking in the City Center"
+            "en": "Parking in the City Center",
+            "es": "Aparcamiento en el centro de la ciudad"
           },
           "coords": [
             -2.469,
@@ -893,7 +944,8 @@
             "de": "Fahren Sie ins Zentrum und suchen Sie einen Tiefgaragenparkplatz.",
             "hu": "Vezessen be a központba, és keressen egy mélygarázst.",
             "ro": "Conduceți spre centru și căutați o parcare subterană.",
-            "en": "Drive to the center and look for an underground parking garage."
+            "en": "Drive to the center and look for an underground parking garage.",
+            "es": "Conduce al centro y busca un parking subterráneo."
           }
         },
         {
@@ -901,7 +953,8 @@
             "de": "Museo Numantino",
             "hu": "Numantino Múzeum",
             "ro": "Muzeul Numantino",
-            "en": "Numantino Museum"
+            "en": "Numantino Museum",
+            "es": "Museo Numantino"
           },
           "coords": [
             -2.4647,
@@ -917,7 +970,8 @@
             "de": "Das Museum ist ein idealer Ort, um die heißesten Stunden des Tages zu verbringen.",
             "hu": "A múzeum ideális hely a nap legforróbb óráinak eltöltésére.",
             "ro": "Muzeul este un loc ideal pentru a petrece cele mai calde ore ale zilei.",
-            "en": "The museum is an ideal place to spend the hottest hours of the day."
+            "en": "The museum is an ideal place to spend the hottest hours of the day.",
+            "es": "El museo es un lugar ideal para pasar las horas de más calor."
           }
         },
         {
@@ -925,7 +979,8 @@
             "de": "Plaza Mayor & Mittagessen",
             "hu": "Plaza Mayor és ebéd",
             "ro": "Plaza Mayor și prânz",
-            "en": "Plaza Mayor & Lunch"
+            "en": "Plaza Mayor & Lunch",
+            "es": "Plaza Mayor y almuerzo"
           },
           "coords": [
             -2.4668,
@@ -941,7 +996,8 @@
             "de": "Wählen Sie eines der vielen Restaurants rund um den Platz für ein authentisches Mittagessen.",
             "hu": "Válasszon a tér körüli számos étterem közül egy autentikus ebédhez.",
             "ro": "Alegeți unul dintre multele restaurante din jurul pieței pentru un prânz autentic.",
-            "en": "Choose one of the many restaurants around the square for an authentic lunch."
+            "en": "Choose one of the many restaurants around the square for an authentic lunch.",
+            "es": "Elige uno de los muchos restaurantes de la plaza para un almuerzo auténtico."
           }
         },
         {
@@ -949,7 +1005,8 @@
             "de": "Alameda de Cervantes",
             "hu": "Alameda de Cervantes",
             "ro": "Alameda de Cervantes",
-            "en": "Alameda de Cervantes"
+            "en": "Alameda de Cervantes",
+            "es": "Alameda de Cervantes"
           },
           "coords": [
             -2.4725,
@@ -965,7 +1022,8 @@
             "de": "Fahren Sie zum Park für einen entspannten Nachmittag. Es gibt genügend Parkplätze in der Umgebung.",
             "hu": "Vezessen el a parkba egy pihentető délutánra. A környéken rengeteg parkolóhely van.",
             "ro": "Conduceți la parc pentru o după-amiază relaxantă. Există suficiente locuri de parcare în zonă.",
-            "en": "Drive to the park for a relaxing afternoon. There's plenty of parking around."
+            "en": "Drive to the park for a relaxing afternoon. There's plenty of parking around.",
+            "es": "Conduce al parque para una tarde relajante. Hay abundante aparcamiento alrededor."
           }
         }
       ],
@@ -973,7 +1031,8 @@
         "de": "Ihr Autotag beginnt entspannt am Ufer des Duero. Parken Sie Ihr Auto und erkunden Sie zu Fuß das Cluster aus Kloster San Juan und der Einsiedelei San Saturio. Genießen Sie die morgendliche Ruhe und die spirituelle Atmosphäre. Gegen Mittag fahren Sie ins Herz der Stadt. Parken Sie in einer Tiefgarage und entdecken Sie das zweite Cluster: Tauchen Sie im Museo Numantino in die Geschichte ein und genießen Sie anschließend ein Mittagessen auf der belebten Plaza Mayor. Den Nachmittag verbringen Sie im dritten Cluster, dem weitläufigen Park Alameda de Cervantes, wo Sie sich entspannen und das lokale Leben beobachten können, bevor Sie den Tag beenden.",
         "hu": "Autós napja nyugodtan kezdődik a Duero partján. Parkolja le autóját, és fedezze fel gyalog a San Juan-kolostor és a San Saturio remetelak alkotta csoportot. Élvezze a reggeli csendet és a spirituális hangulatot. Dél körül hajtson be a város szívébe. Parkoljon le egy mélygarázsban, és fedezze fel a második csoportot: merüljön el a történelemben a Numantino Múzeumban, majd ebédeljen a nyüzsgő Plaza Mayoron. A délutánt a harmadik csoportban, a tágas Alameda de Cervantes parkban tölti, ahol pihenhet és figyelheti a helyi életet, mielőtt befejezné a napot.",
         "ro": "Ziua dvs. cu mașina începe relaxat pe malurile râului Duero. Parcați mașina și explorați pe jos grupul format din Mănăstirea San Juan și Schitul San Saturio. Bucurați-vă de liniștea dimineții și de atmosfera spirituală. Spre prânz, conduceți în inima orașului. Parcați într-o parcare subterană și descoperiți al doilea grup: scufundați-vă în istorie la Muzeul Numantino, apoi bucurați-vă de prânz în animata Plaza Mayor. Petreceți după-amiaza în al treilea grup, parcul întins Alameda de Cervantes, unde vă puteți relaxa și observa viața locală înainte de a încheia ziua.",
-        "en": "Your car day begins relaxed on the banks of the Duero River. Park your car and explore the cluster of the Monastery of San Juan and the Hermitage of San Saturio on foot. Enjoy the morning tranquility and spiritual atmosphere. Around noon, drive into the heart of the city. Park in an underground garage and discover the second cluster: delve into history at the Numantino Museum, then enjoy lunch in the bustling Plaza Mayor. Spend the afternoon in the third cluster, the spacious Alameda de Cervantes park, where you can relax and observe local life before ending your day."
+        "en": "Your car day begins relaxed on the banks of the Duero River. Park your car and explore the cluster of the Monastery of San Juan and the Hermitage of San Saturio on foot. Enjoy the morning tranquility and spiritual atmosphere. Around noon, drive into the heart of the city. Park in an underground garage and discover the second cluster: delve into history at the Numantino Museum, then enjoy lunch in the bustling Plaza Mayor. Spend the afternoon in the third cluster, the spacious Alameda de Cervantes park, where you can relax and observe local life before ending your day.",
+        "es": "Tu día en coche comienza relajado en las orillas del río Duero. Aparca y explora a pie el conjunto del Monasterio de San Juan y la Ermita de San Saturio. Disfruta de la tranquilidad matinal y de la atmósfera espiritual. Sobre el mediodía, conduce hacia el corazón de la ciudad. Aparca en un garaje subterráneo y descubre el segundo conjunto: sumérgete en la historia en el Museo Numantino y luego almuerza en la bulliciosa Plaza Mayor. Pasa la tarde en el tercer conjunto, el espacioso parque de la Alameda de Cervantes, donde podrás relajarte y observar la vida local antes de terminar el día."
       },
       "gastro_picks": {
         "de": [
@@ -1169,6 +1228,12 @@
           "Be aware of one-way streets in the old town.",
           "A car allows you to easily visit nearby attractions like Laguna Negra or Cañón del Río Lobos.",
           "The cluster strategy saves time and nerves when looking for parking."
+        ],
+        "es": [
+          "El aparcamiento puede ser un reto en el centro; usa garajes subterráneos.",
+          "Ten en cuenta las calles de un solo sentido en el casco antiguo.",
+          "Un coche te permite visitar fácilmente atractivos cercanos como la Laguna Negra o el Cañón del Río Lobos.",
+          "La estrategia de conjuntos ahorra tiempo y nervios al buscar aparcamiento."
         ]
       }
     },
@@ -1185,7 +1250,8 @@
             "de": "Alameda de Cervantes",
             "hu": "Alameda de Cervantes",
             "ro": "Alameda de Cervantes",
-            "en": "Alameda de Cervantes"
+            "en": "Alameda de Cervantes",
+            "es": "Alameda de Cervantes"
           },
           "coords": [
             -2.4725,
@@ -1201,7 +1267,8 @@
             "de": "Nehmen Sie einen Bus zu diesem zentralen Park, um den Tag zu beginnen.",
             "hu": "Menjen busszal ehhez a központi parkhoz a nap kezdéséhez.",
             "ro": "Luați un autobuz până la acest parc central pentru a începe ziua.",
-            "en": "Take a bus to this central park to start your day."
+            "en": "Take a bus to this central park to start your day.",
+            "es": "Toma un autobús hasta este parque céntrico para comenzar el día."
           }
         },
         {
@@ -1209,7 +1276,8 @@
             "de": "Museo Numantino",
             "hu": "Numantino Múzeum",
             "ro": "Muzeul Numantino",
-            "en": "Numantino Museum"
+            "en": "Numantino Museum",
+            "es": "Museo Numantino"
           },
           "coords": [
             -2.4647,
@@ -1225,7 +1293,8 @@
             "de": "Vom Park aus ist es ein kurzer Spaziergang zum Museum.",
             "hu": "A parkból egy rövid séta vezet a múzeumhoz.",
             "ro": "De la parc, este o scurtă plimbare până la muzeu.",
-            "en": "From the park, it's a short walk to the museum."
+            "en": "From the park, it's a short walk to the museum.",
+            "es": "Desde el parque hay un corto paseo hasta el museo."
           }
         },
         {
@@ -1233,7 +1302,8 @@
             "de": "Plaza Mayor & Palast",
             "hu": "Főtér és Palota",
             "ro": "Plaza Mayor și Palatul",
-            "en": "Main Square & Palace"
+            "en": "Main Square & Palace",
+            "es": "Plaza Mayor y Palacio"
           },
           "coords": [
             -2.4668,
@@ -1249,7 +1319,8 @@
             "de": "Erkunden Sie den Platz und den nahegelegenen Palacio de los Condes de Gómara.",
             "hu": "Fedezze fel a teret és a közeli Gómara grófi palotát.",
             "ro": "Explorați piața și Palatul Conților de Gómara din apropiere.",
-            "en": "Explore the square and the nearby Palace of the Counts of Gómara."
+            "en": "Explore the square and the nearby Palace of the Counts of Gómara.",
+            "es": "Explora la plaza y el cercano Palacio de los Condes de Gómara."
           }
         },
         {
@@ -1257,7 +1328,8 @@
             "de": "Konkathedrale San Pedro",
             "hu": "Szent Péter-társszékesegyház",
             "ro": "Concatedrala San Pedro",
-            "en": "Co-cathedral of San Pedro"
+            "en": "Co-cathedral of San Pedro",
+            "es": "Cocatedral de San Pedro"
           },
           "coords": [
             -2.4628,
@@ -1273,7 +1345,8 @@
             "de": "Nehmen Sie einen kurzen Bus, um zum Flussufer-Cluster zu gelangen.",
             "hu": "Menjen egy rövid buszúttal a folyóparti csoporthoz.",
             "ro": "Luați un autobuz scurt pentru a ajunge la grupul de pe malul râului.",
-            "en": "Take a short bus ride to get to the riverside cluster."
+            "en": "Take a short bus ride to get to the riverside cluster.",
+            "es": "Toma un corto trayecto en autobús para llegar al conjunto junto al río."
           }
         },
         {
@@ -1281,7 +1354,8 @@
             "de": "Monasterio de San Juan de Duero",
             "hu": "San Juan de Duero-kolostor",
             "ro": "Mănăstirea San Juan de Duero",
-            "en": "Monastery of San Juan de Duero"
+            "en": "Monastery of San Juan de Duero",
+            "es": "Monasterio de San Juan de Duero"
           },
           "coords": [
             -2.4571,
@@ -1297,7 +1371,8 @@
             "de": "Ein Spaziergang von der Konkathedrale entlang des Flusses.",
             "hu": "Séta a társszékesegyháztól a folyó mentén.",
             "ro": "O plimbare de la concatedrală de-a lungul râului.",
-            "en": "A walk from the co-cathedral along the river."
+            "en": "A walk from the co-cathedral along the river.",
+            "es": "Un paseo desde la cocatedral a lo largo del río."
           }
         },
         {
@@ -1305,7 +1380,8 @@
             "de": "Einsiedelei San Saturio",
             "hu": "San Saturio remetelak",
             "ro": "Schitul San Saturio",
-            "en": "Hermitage of San Saturio"
+            "en": "Hermitage of San Saturio",
+            "es": "Ermita de San Saturio"
           },
           "coords": [
             -2.4522,
@@ -1321,7 +1397,8 @@
             "de": "Für den letzten Abschnitt können Sie einen Bus nehmen, der Sie näher an die Einsiedelei bringt.",
             "hu": "Az utolsó szakaszra busszal is mehet, ami közelebb visz a remetelakhoz.",
             "ro": "Pentru ultima secțiune, puteți lua un autobuz care vă va duce mai aproape de schit.",
-            "en": "For the final leg, you can take a bus that gets you closer to the hermitage."
+            "en": "For the final leg, you can take a bus that gets you closer to the hermitage.",
+            "es": "Para el tramo final puedes tomar un autobús que te acerque a la ermita."
           }
         }
       ],
@@ -1329,7 +1406,8 @@
         "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Park Alameda de Cervantes. Von dort aus bildet das historische Zentrum Ihr erstes Wandercluster, das das Museo Numantino und die Plaza Mayor umfasst. Nach Erkundung dieses Bereichs nehmen Sie einen Bus zum zweiten Cluster am Fluss Duero. Dort erwarten Sie die Konkathedrale, die ruhigen Bögen des Klosters San Juan und schließlich die malerische Ermita de San Saturio. Diese effiziente Kombination aus Busfahrten und Spaziergängen ermöglicht es Ihnen, die wichtigsten Sehenswürdigkeiten Sorias entspannt zu erleben.",
         "hu": "Tömegközlekedéssel töltött napja az Alameda de Cervantes parkban kezdődik. Innen a történelmi központ alkotja az első gyalogos csoportot, amely a Numantino Múzeumot és a Plaza Mayort foglalja magában. Miután felfedezte ezt a területet, busszal utazik a második csoporthoz a Duero folyó mellett. Ott várja a társszékesegyház, a San Juan-kolostor csendes ívei és végül a festői San Saturio remetelak. A buszozás és a séták hatékony kombinációja lehetővé teszi, hogy Soria legfontosabb látnivalóit nyugodtan megtapasztalja.",
         "ro": "Ziua dvs. cu transportul public începe în parcul Alameda de Cervantes. De acolo, centrul istoric formează primul dvs. grup de mers pe jos, cuprinzând Muzeul Numantino și Plaza Mayor. După ce explorați această zonă, luați un autobuz către al doilea grup de pe malul râului Duero. Acolo, vă așteaptă concatedrala, arcadele liniștite ale Mănăstirii San Juan și, în final, pitorescul Schit San Saturio. Această combinație eficientă de călătorii cu autobuzul și plimbări vă permite să experimentați relaxat principalele atracții ale Sorici.",
-        "en": "Your day using public transit begins in Alameda de Cervantes park. From there, the historic center forms your first walking cluster, encompassing the Numantino Museum and Plaza Mayor. After exploring this area, you take a bus to the second cluster by the Duero River. There, the co-cathedral, the tranquil arches of the Monastery of San Juan, and finally the picturesque Hermitage of San Saturio await. This efficient combination of bus rides and walks allows you to experience Soria's main attractions in a relaxed manner."
+        "en": "Your day using public transit begins in Alameda de Cervantes park. From there, the historic center forms your first walking cluster, encompassing the Numantino Museum and Plaza Mayor. After exploring this area, you take a bus to the second cluster by the Duero River. There, the co-cathedral, the tranquil arches of the Monastery of San Juan, and finally the picturesque Hermitage of San Saturio await. This efficient combination of bus rides and walks allows you to experience Soria's main attractions in a relaxed manner.",
+        "es": "Tu día en transporte público comienza en el parque Alameda de Cervantes. Desde allí, el centro histórico forma tu primer conjunto a pie, que incluye el Museo Numantino y la Plaza Mayor. Tras explorar esta zona, tomas un autobús hasta el segundo conjunto junto al río Duero. Allí te esperan la cocatedral, los tranquilos arcos del Monasterio de San Juan y, finalmente, la pintoresca Ermita de San Saturio. Esta combinación eficiente de autobuses y paseos te permite disfrutar de los principales atractivos de Soria con calma."
       },
       "gastro_picks": {
         "de": [
@@ -1525,6 +1603,12 @@
           "Bus schedules may be less frequent on weekends and holidays.",
           "Most bus lines run through the center, making transfers easy.",
           "Download the local public transport app for real-time schedules."
+        ],
+        "es": [
+          "Compra un bono diario de autobús si piensas hacer varios trayectos.",
+          "Los horarios de autobús pueden ser menos frecuentes fines de semana y festivos.",
+          "La mayoría de las líneas de autobús pasan por el centro, lo que facilita los transbordos.",
+          "Descarga la app de transporte público local para horarios en tiempo real."
         ]
       }
     }

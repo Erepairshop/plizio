@@ -21,7 +21,8 @@
             "de": "Plaza Mayor",
             "hu": "Fő tér (Plaza Mayor)",
             "ro": "Plaza Mayor",
-            "en": "Main Square (Plaza Mayor)"
+            "en": "Main Square (Plaza Mayor)",
+            "es": "Plaza Mayor"
           },
           "coords": [
             -7.5567,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie den Tag mit einem Kaffee in einem der vielen Cafés am Platz.",
             "hu": "Kezdje a napot egy kávéval a tér egyik kávézójában!",
             "ro": "Începeți ziua cu o cafea la una dintre numeroasele cafenele din piață.",
-            "en": "Start your day with a coffee at one of the many cafés in the square."
+            "en": "Start your day with a coffee at one of the many cafés in the square.",
+            "es": "Comienza el día con un café en uno de los muchos cafés de la plaza."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kathedrale von Lugo",
             "hu": "Lugói székesegyház",
             "ro": "Catedrala din Lugo",
-            "en": "Lugo Cathedral"
+            "en": "Lugo Cathedral",
+            "es": "Catedral de Lugo"
           },
           "coords": [
             -7.5583,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die Mischung aus romanischen, gotischen und barocken Stilen.",
             "hu": "Csodálja meg a román, gótikus és barokk stílusok keveredését.",
             "ro": "Admirați amestecul de stiluri romanic, gotic și baroc.",
-            "en": "Admire the mix of Romanesque, Gothic, and Baroque styles."
+            "en": "Admire the mix of Romanesque, Gothic, and Baroque styles.",
+            "es": "Admira la mezcla de estilos románico, gótico y barroco."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Römische Mauern von Lugo",
             "hu": "Lugói római falak",
             "ro": "Zidurile romane din Lugo",
-            "en": "Roman Walls of Lugo"
+            "en": "Roman Walls of Lugo",
+            "es": "Murallas Romanas de Lugo"
           },
           "coords": [
             -7.559,
@@ -82,7 +87,8 @@
             "de": "Gehen Sie den gesamten Umfang der Mauern ab, um die beste Aussicht zu genießen.",
             "hu": "Sétálja körbe a teljes falat a legjobb kilátásért.",
             "ro": "Parcurgeți întregul perimetru al zidurilor pentru cele mai bune priveliști.",
-            "en": "Walk the entire perimeter of the walls for the best views."
+            "en": "Walk the entire perimeter of the walls for the best views.",
+            "es": "Camina todo el perímetro de la muralla para las mejores vistas."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Domus do Mitreo",
             "hu": "Domus do Mitreo",
             "ro": "Domus do Mitreo",
-            "en": "Domus do Mitreo"
+            "en": "Domus do Mitreo",
+            "es": "Domus do Mitreo"
           },
           "coords": [
             -7.5579,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie die römischen Überreste unter der Kathedrale.",
             "hu": "Fedezze fel a katedrális alatti római kori maradványokat.",
             "ro": "Descoperiți vestigiile romane de sub catedrală.",
-            "en": "Discover the Roman remains underneath the cathedral."
+            "en": "Discover the Roman remains underneath the cathedral.",
+            "es": "Descubre los restos romanos bajo la catedral."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Provinzialmuseum von Lugo",
             "hu": "Lugói Tartományi Múzeum",
             "ro": "Muzeul Provincial din Lugo",
-            "en": "Provincial Museum of Lugo"
+            "en": "Provincial Museum of Lugo",
+            "es": "Museo Provincial de Lugo"
           },
           "coords": [
             -7.555,
@@ -128,7 +137,8 @@
             "de": "Verpassen Sie nicht die galicischen Gold- und Silberschmiedearbeiten.",
             "hu": "Ne hagyja ki a galíciai arany- és ezüstműves munkákat bemutató részt.",
             "ro": "Nu ratați secțiunea de orfevrărie galiciană din aur și argint.",
-            "en": "Don't miss the Galician gold and silverwork section."
+            "en": "Don't miss the Galician gold and silverwork section.",
+            "es": "No te pierdas la sección de orfebrería gallega en oro y plata."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Römische Brücke",
             "hu": "Római híd",
             "ro": "Podul Roman",
-            "en": "Roman Bridge"
+            "en": "Roman Bridge",
+            "es": "Puente Romano"
           },
           "coords": [
             -7.5612,
@@ -151,7 +162,8 @@
             "de": "Ein perfekter Ort für Fotos, besonders am späten Nachmittag.",
             "hu": "Tökéletes hely a fotózásra, különösen késő délután.",
             "ro": "Un loc perfect pentru fotografii, mai ales după-amiaza târziu.",
-            "en": "A perfect spot for photos, especially in the late afternoon."
+            "en": "A perfect spot for photos, especially in the late afternoon.",
+            "es": "Un lugar perfecto para fotos, sobre todo a última hora de la tarde."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Parque de Rosalía de Castro",
             "hu": "Rosalía de Castro Park",
             "ro": "Parcul Rosalía de Castro",
-            "en": "Rosalía de Castro Park"
+            "en": "Rosalía de Castro Park",
+            "es": "Parque Rosalía de Castro"
           },
           "coords": [
             -7.5528,
@@ -174,7 +187,8 @@
             "de": "Entspannen Sie sich und genießen Sie die Aussicht auf den Fluss Miño.",
             "hu": "Pihenjen és élvezze a Miño folyóra nyíló kilátást.",
             "ro": "Relaxați-vă și bucurați-vă de priveliștea asupra râului Miño.",
-            "en": "Relax and enjoy the views over the Miño river."
+            "en": "Relax and enjoy the views over the Miño river.",
+            "es": "Relájate y disfruta de las vistas sobre el río Miño."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Ihr Tag in Lugo beginnt im Herzen der Stadt, an der Plaza Mayor, bevor Sie die prächtige Kathedrale erkunden. Am Vormittag erleben Sie Geschichte hautnah bei einem Spaziergang auf den vollständig erhaltenen römischen Mauern, einem UNESCO-Weltkulturerbe. Nach dem Mittagessen tauchen Sie in die tiefere Vergangenheit ein, mit Besuchen im Domus do Mitreo und dem Provinzialmuseum, die beide faszinierende Einblicke in die römische und galicische Kultur bieten. Der Nachmittag wird ruhiger mit einem Spaziergang zur alten römischen Brücke und entspannten Momenten im Parque de Rosalía de Castro, wo Sie den Tag mit Blick auf den Fluss Miño ausklingen lassen.",
         "hu": "Lugói napja a város szívében, a Plaza Mayoron kezdődik, mielőtt felfedezné a csodálatos katedrálist. A délelőtt folyamán testközelből élheti át a történelmet egy sétán a teljesen megmaradt római falakon, mely az UNESCO Világörökség része. Ebéd után mélyebbre merül a múltban a Domus do Mitreo és a Tartományi Múzeum meglátogatásával, melyek lenyűgöző betekintést nyújtanak a római és galíciai kultúrába. A délután nyugodtabban telik egy sétával az ősi római hídhoz és pihentető percekkel a Rosalía de Castro parkban, ahol a Miño folyóra nyíló kilátással zárhatja a napot.",
         "ro": "Ziua dvs. în Lugo începe în inima orașului, la Plaza Mayor, înainte de a explora magnifica catedrală. Dimineața veți experimenta istoria de aproape cu o plimbare pe zidurile romane complet intacte, un sit al Patrimoniului Mondial UNESCO. După prânz, vă veți scufunda într-un trecut mai adânc, cu vizite la Domus do Mitreo și Muzeul Provincial, ambele oferind perspective fascinante asupra culturii romane și galiciene. După-amiaza devine mai liniștită cu o plimbare până la vechiul pod roman și momente de relaxare în Parcul Rosalía de Castro, unde puteți încheia ziua admirând râul Miño.",
-        "en": "Your day in Lugo begins in the heart of the city at Plaza Mayor before exploring the magnificent cathedral. In the morning, you'll experience history up close with a walk on the fully intact Roman walls, a UNESCO World Heritage site. After lunch, you'll delve into a deeper past with visits to the Domus do Mitreo and the Provincial Museum, both offering fascinating insights into Roman and Galician culture. The afternoon becomes more tranquil with a stroll to the ancient Roman bridge and relaxing moments in Rosalía de Castro Park, where you can end the day overlooking the Miño River."
+        "en": "Your day in Lugo begins in the heart of the city at Plaza Mayor before exploring the magnificent cathedral. In the morning, you'll experience history up close with a walk on the fully intact Roman walls, a UNESCO World Heritage site. After lunch, you'll delve into a deeper past with visits to the Domus do Mitreo and the Provincial Museum, both offering fascinating insights into Roman and Galician culture. The afternoon becomes more tranquil with a stroll to the ancient Roman bridge and relaxing moments in Rosalía de Castro Park, where you can end the day overlooking the Miño River.",
+        "es": "Tu día en Lugo comienza en el corazón de la ciudad, en la Plaza Mayor, antes de explorar la magnífica catedral. Por la mañana vivirás la historia de cerca con un paseo por la muralla romana totalmente intacta, Patrimonio de la Humanidad por la UNESCO. Tras el almuerzo, profundizarás en el pasado con visitas a la Domus do Mitreo y al Museo Provincial, que ofrecen interesantes perspectivas sobre la cultura romana y gallega. La tarde se vuelve más tranquila con un paseo al antiguo puente romano y momentos de relax en el Parque Rosalía de Castro, donde puedes terminar el día contemplando el río Miño."
       },
       "gastro_picks": {
         "de": [
@@ -378,6 +393,12 @@
           "The walk on the Roman walls is free and open 24/7.",
           "Many shops and museums have a lunch break (siesta), so plan accordingly.",
           "Experience the tapas culture: you get a free tapa with every drink you order."
+        ],
+        "es": [
+          "Lleva calzado cómodo, ya que caminarás mucho por adoquines.",
+          "El paseo por la muralla romana es gratuito y está abierto 24/7.",
+          "Muchas tiendas y museos hacen la pausa de comida (siesta), así que planifica en consecuencia.",
+          "Disfruta de la cultura del tapeo: te sirven una tapa gratuita con cada bebida."
         ]
       },
       "variants": {
@@ -386,7 +407,8 @@
             "de": "Der Vormittag beginnt unter den schützenden Arkaden der Plaza Mayor, während der Regen auf das Kopfsteinpflaster peitscht. Die Kathedrale bietet einen prachtvollen, trockenen Rückzugsort zur Besichtigung.\n\nMittags führt der Weg zu den römischen Mauern. Trotz Nässe ist der Rundgang auf der UNESCO-Anlage möglich, erfordert aber Trittsicherheit auf den glatten Granitstufen.\n\nDer Nachmittag steht im Zeichen der Museen. Das Domus do Mitreo und das Provinzmuseum sind ideale Orte, um tief in die Geschichte einzutauchen, ohne nass zu werden.\n\nZum Abschluss führt der Weg hinunter zum Fluss. Der Blick auf die römische Brücke im Regen hat eine besondere, melancholische Atmosphäre, bevor der Tag im Park endet.",
             "hu": "A délelőtt a Plaza Mayor védelmet nyújtó árkádjai alatt indul, miközben az eső a macskaköveket veri. A katedrális pompás és száraz menedéket kínál a nézelődéshez.\n\nDélben az út a római falakhoz vezet. A nedvesség ellenére az UNESCO-helyszín bejárható, de a csúszós gránitlépcsőkön óvatosságot igényel a haladás.\n\nA délután a múzeumoké. A Domus do Mitreo és a Tartományi Múzeum ideális helyszínek a történelemben való elmélyüléshez anélkül, hogy bőrig áznánk.\n\nZárásként az út levezet a folyóhoz. A római híd látványa az esőben különleges, melankolikus hangulatot áraszt, mielőtt a nap a parkban véget érne.",
             "ro": "Dimineața începe sub arcadele protectoare din Plaza Mayor, în timp ce ploaia bate pe pavaj. Catedrala oferă un refugiu magnific și uscat pentru vizitare.\n\nLa prânz, drumul duce la zidurile romane. În ciuda umidității, circuitul pe situl UNESCO este posibil, dar necesită atenție pe treptele de granit alunecoase.\n\nDupă-amiaza este dedicată muzeelor. Domus do Mitreo și Muzeul Provincial sunt locuri ideale pentru a explora istoria fără a te uda.\n\nLa final, drumul coboară spre râu. Vederea podului roman în ploaie are o atmosferă specială, melancolică, înainte ca ziua să se încheie în parc.",
-            "en": "The morning begins under the protective arcades of Plaza Mayor as rain beats down on the cobblestones. The Cathedral offers a grand, dry sanctuary for exploration.\n\nAt midday, the path leads to the Roman walls. Despite the wetness, the UNESCO loop is accessible but requires steady footing on the slick granite steps.\n\nThe afternoon is focused on museums. Domus do Mitreo and the Provincial Museum are ideal spots to dive into history without getting soaked.\n\nTo wrap up, the route heads down to the river. The view of the Roman Bridge in the rain holds a uniquely melancholic atmosphere before the day ends in the park."
+            "en": "The morning begins under the protective arcades of Plaza Mayor as rain beats down on the cobblestones. The Cathedral offers a grand, dry sanctuary for exploration.\n\nAt midday, the path leads to the Roman walls. Despite the wetness, the UNESCO loop is accessible but requires steady footing on the slick granite steps.\n\nThe afternoon is focused on museums. Domus do Mitreo and the Provincial Museum are ideal spots to dive into history without getting soaked.\n\nTo wrap up, the route heads down to the river. The view of the Roman Bridge in the rain holds a uniquely melancholic atmosphere before the day ends in the park.",
+            "es": "La mañana comienza bajo los soportales protectores de la Plaza Mayor mientras la lluvia golpea los adoquines. La Catedral ofrece un gran refugio seco para explorar.\n\nAl mediodía, el recorrido lleva a la muralla romana. A pesar de la humedad, el circuito de la UNESCO es accesible, pero requiere buen equilibrio en los resbaladizos escalones de granito.\n\nLa tarde se centra en los museos. La Domus do Mitreo y el Museo Provincial son lugares ideales para sumergirse en la historia sin mojarse.\n\nPara concluir, la ruta baja al río. La vista del Puente Romano bajo la lluvia tiene una atmósfera melancólica única antes de terminar el día en el parque."
           },
           "stops": [
             {
@@ -395,7 +417,8 @@
                 "de": "Nutzen Sie die Arkadengänge rund um den Platz, um trocken zu bleiben.",
                 "hu": "Használja a tér körüli árkádos folyosókat, hogy száraz maradjon.",
                 "ro": "Folosiți arcadele din jurul pieței pentru a rămâne uscat.",
-                "en": "Use the arcaded walkways around the square to stay dry."
+                "en": "Use the arcaded walkways around the square to stay dry.",
+                "es": "Utiliza los paseos con arcadas alrededor de la plaza para mantenerte seco."
               }
             },
             {
@@ -404,7 +427,8 @@
                 "de": "Perfekter Ort für eine ausführliche Innenbesichtigung bei starkem Regen.",
                 "hu": "Tökéletes helyszín egy alapos belső látogatáshoz heves esőzéskor.",
                 "ro": "Locul perfect pentru o vizită interioară detaliată în caz de ploaie torențială.",
-                "en": "Perfect place for a detailed indoor visit during heavy rain."
+                "en": "Perfect place for a detailed indoor visit during heavy rain.",
+                "es": "Lugar perfecto para una visita interior detallada durante lluvia intensa."
               }
             },
             {
@@ -413,7 +437,8 @@
                 "de": "Vorsicht auf den Aufstiegsrampen, der Granit kann bei Nässe sehr rutschig sein.",
                 "hu": "Vigyázat a feljárókon, a gránit nedvesen nagyon csúszós lehet.",
                 "ro": "Atenție pe rampele de acces, granitul poate fi foarte alunecos când este ud.",
-                "en": "Be careful on the access ramps; the granite can be very slippery when wet."
+                "en": "Be careful on the access ramps; the granite can be very slippery when wet.",
+                "es": "Ten cuidado en las rampas de acceso; el granito puede ser muy resbaladizo cuando está mojado."
               }
             },
             {
@@ -422,7 +447,8 @@
                 "de": "Diese unterirdische Ausgrabungsstätte ist komplett überdacht und trocken.",
                 "hu": "Ez a föld alatti ásatási terület teljesen fedett és száraz.",
                 "ro": "Acest sit arheologic subteran este complet acoperit și uscat.",
-                "en": "This underground archaeological site is completely covered and dry."
+                "en": "This underground archaeological site is completely covered and dry.",
+                "es": "Este yacimiento arqueológico subterráneo está completamente cubierto y seco."
               }
             },
             {
@@ -431,7 +457,8 @@
                 "de": "Besuchen Sie den Kreuzgang; er bietet Schutz vor dem Wetter bei gutem Licht.",
                 "hu": "Látogassa meg a kolostorfolyosót; védelmet nyújt az időjárás ellen jó fényviszonyok mellett.",
                 "ro": "Vizitați claustrul; oferă protecție împotriva vremii și lumină bună.",
-                "en": "Visit the cloister; it offers shelter from the weather with good light."
+                "en": "Visit the cloister; it offers shelter from the weather with good light.",
+                "es": "Visita el claustro; ofrece abrigo de la lluvia con buena iluminación."
               }
             },
             {
@@ -440,7 +467,8 @@
                 "de": "Kurzer Fotostopp; der Weg zum Fluss ist bei Regen oft windanfällig.",
                 "hu": "Rövid fotómegálló; a folyóhoz vezető út esőben gyakran szeles.",
                 "ro": "Oprire scurtă pentru poze; drumul spre râu este adesea expus vântului pe ploaie.",
-                "en": "Quick photo stop; the path to the river is often windy during rain."
+                "en": "Quick photo stop; the path to the river is often windy during rain.",
+                "es": "Parada rápida para fotos; el camino hacia el río suele ser ventoso cuando llueve."
               }
             },
             {
@@ -449,7 +477,8 @@
                 "de": "Die dichten Bäume bieten einen gewissen natürlichen Regenschutz.",
                 "hu": "A sűrű lombozat bizonyos mértékű természetes védelmet nyújt az eső ellen.",
                 "ro": "Copacii deși oferă o anumită protecție naturală împotriva ploii.",
-                "en": "The dense tree canopy offers some natural protection from the rain."
+                "en": "The dense tree canopy offers some natural protection from the rain.",
+                "es": "El denso dosel de árboles ofrece cierta protección natural contra la lluvia."
               }
             }
           ],
@@ -481,6 +510,13 @@
               "Dedicate extra time to the Provincial Museum, one of Galicia's best.",
               "Waterproof footwear is essential due to the extensive granite paving.",
               "Cafes at Plaza de Santa María provide cozy indoor retreats."
+            ],
+            "es": [
+              "Lugo tiene muchas calles con soportales (Rúa Nova) ideales para días lluviosos.",
+              "La muralla romana no tiene cobertura superior; sujeta bien el paraguas con viento.",
+              "Dedica tiempo extra al Museo Provincial, uno de los mejores de Galicia.",
+              "Un calzado impermeable es esencial debido al extenso pavimento de granito.",
+              "Las cafeterías de la Plaza de Santa María ofrecen acogedores refugios interiores."
             ]
           }
         },
@@ -489,7 +525,8 @@
             "de": "Ein kühler Wintermorgen an der Plaza Mayor beginnt mit dem Duft von gerösteten Kastanien. Die Kathedrale wirkt in der klaren Winterluft besonders majestätisch.\n\nZur Mittagszeit bietet der Rundgang auf der Stadtmauer weite Ausblicke über das neblige Umland. Die tiefstehende Sonne taucht den antiken Stein in warmes Gold.\n\nNachmittags laden die Museen zum Aufwärmen ein. Die römischen Ruinen im Domus do Mitreo sind bei künstlicher Beleuchtung besonders atmosphärisch.\n\nWenn die Dämmerung gegen 18:00 Uhr einsetzt, wird die römische Brücke beleuchtet. Ein kurzer Spaziergang durch den winterlichen Park rundet den Tag ab.",
             "hu": "A hűvös téli reggel a Plaza Mayoron sült gesztenye illatával indul. A katedrális különösen fenséges a tiszta téli levegőben.\n\nDélidőben a városfalon tett séta széles kilátást nyújt a ködös környékre. Az alacsonyan járó nap meleg aranyfénybe öltözteti az antik köveket.\n\nDélután a múzeumok hívogatnak melegedni. A Domus do Mitreo római romjai a mesterséges megvilágításban különösen hangulatosak.\n\nAmikor 18:00 körül leszáll az alkony, a római hidat kivilágítják. Egy rövid séta a téli parkban teszi teljessé a napot.",
             "ro": "O dimineață răcoroasă de iarnă în Plaza Mayor începe cu mirosul de castane coapte. Catedrala pare deosebit de maiestuoasă în aerul curat al iernii.\n\nLa prânz, plimbarea pe zidurile orașului oferă vederi largi asupra împrejurimilor cețoase. Soarele jos îmbracă piatra antică în auriu cald.\n\nDupă-amiaza, muzeele vă invită la căldură. Ruinele romane din Domus do Mitreo sunt deosebit de atmosferice sub lumina artificială.\n\nCând amurgul se lasă în jur de ora 18:00, podul roman este iluminat. O scurtă plimbare prin parcul de iarnă completează ziua.",
-            "en": "A crisp winter morning at Plaza Mayor starts with the scent of roasted chestnuts. The Cathedral looks particularly majestic in the clear winter air.\n\nAt midday, the walk along the city walls offers sweeping views of the misty surroundings. The low sun bathes the ancient stones in warm gold.\n\nIn the afternoon, the museums invite you to warm up. The Roman ruins in Domus do Mitreo are especially atmospheric under artificial lighting.\n\nAs dusk sets in around 18:00, the Roman Bridge is illuminated. A short walk through the winter park rounds off the day perfectly."
+            "en": "A crisp winter morning at Plaza Mayor starts with the scent of roasted chestnuts. The Cathedral looks particularly majestic in the clear winter air.\n\nAt midday, the walk along the city walls offers sweeping views of the misty surroundings. The low sun bathes the ancient stones in warm gold.\n\nIn the afternoon, the museums invite you to warm up. The Roman ruins in Domus do Mitreo are especially atmospheric under artificial lighting.\n\nAs dusk sets in around 18:00, the Roman Bridge is illuminated. A short walk through the winter park rounds off the day perfectly.",
+            "es": "Una fresca mañana de invierno en la Plaza Mayor comienza con el aroma a castañas asadas. La Catedral luce especialmente majestuosa con el aire claro invernal.\n\nAl mediodía, el paseo por la muralla ofrece vistas amplias de los alrededores envueltos en niebla. El sol bajo baña las piedras antiguas con un tono dorado cálido.\n\nPor la tarde, los museos invitan a entrar en calor. Las ruinas romanas en la Domus do Mitreo resultan muy atmosféricas con iluminación artificial.\n\nAl anochecer, alrededor de las 18:00, el Puente Romano se ilumina. Un breve paseo por el parque invernal cierra el día a la perfección."
           },
           "stops": [
             {
@@ -498,7 +535,8 @@
                 "de": "Genießen Sie eine heiße Schokolade in den Cafés unter den Arkaden.",
                 "hu": "Élvezzen egy forró csokoládét az árkádok alatti kávézókban.",
                 "ro": "Savurați o ciocolată caldă în cafenelele de sub arcade.",
-                "en": "Enjoy a hot chocolate in the cafes under the arcades."
+                "en": "Enjoy a hot chocolate in the cafes under the arcades.",
+                "es": "Disfruta de un chocolate caliente en las cafeterías bajo los soportales."
               }
             },
             {
@@ -507,7 +545,8 @@
                 "de": "Achten Sie auf die kühlen Innentemperaturen; warme Kleidung ist ratsam.",
                 "hu": "Ügyeljen a hűvös belső hőmérsékletre; meleg ruházat ajánlott.",
                 "ro": "Atenție la temperaturile scăzute din interior; se recomandă haine groase.",
-                "en": "Note the cool indoor temperatures; warm clothing is advised."
+                "en": "Note the cool indoor temperatures; warm clothing is advised.",
+                "es": "Ten en cuenta las bajas temperaturas interiores; se recomienda ropa abrigada."
               }
             },
             {
@@ -516,7 +555,8 @@
                 "de": "Der Wind auf der Mauer kann schneidend sein; Schal und Mütze einpacken.",
                 "hu": "A szél a falon metsző lehet; sálat és sapkát készítsen be.",
                 "ro": "Vântul de pe zid poate fi tăios; luați fular și căciulă.",
-                "en": "The wind on the wall can be biting; pack a scarf and hat."
+                "en": "The wind on the wall can be biting; pack a scarf and hat.",
+                "es": "El viento en la muralla puede ser cortante; lleva bufanda y gorro."
               }
             },
             {
@@ -525,7 +565,8 @@
                 "de": "Gut beheizter Ausstellungsbereich, ideal zur Aufwärmpause.",
                 "hu": "Jól fűtött kiállítótér, ideális egy melegedő szünetre.",
                 "ro": "Zonă de expoziție bine încălzită, ideală pentru o pauză de încălzire.",
-                "en": "Well-heated exhibition area, ideal for a warm-up break."
+                "en": "Well-heated exhibition area, ideal for a warm-up break.",
+                "es": "Sala de exposiciones bien climatizada, ideal para entrar en calor."
               }
             },
             {
@@ -534,7 +575,8 @@
                 "de": "Die historischen Säle sind im Winter stimmungsvoll beleuchtet.",
                 "hu": "A történelmi termek télen hangulatos megvilágítást kapnak.",
                 "ro": "Sălile istorice sunt luminate atmosferic în timpul iernii.",
-                "en": "The historical halls are atmospherically lit during winter."
+                "en": "The historical halls are atmospherically lit during winter.",
+                "es": "Los pasillos históricos están iluminados de forma atmosférica en invierno."
               }
             },
             {
@@ -543,7 +585,8 @@
                 "de": "Besuch kurz vor Sonnenuntergang (ca. 17:45) für die beste Lichtstimmung.",
                 "hu": "Látogatás közvetlenül naplemente előtt (kb. 17:45) a legjobb fényekért.",
                 "ro": "Vizitați chiar înainte de apus (aprox. 17:45) pentru cea mai bună lumină.",
-                "en": "Visit just before sunset (approx. 17:45) for the best lighting."
+                "en": "Visit just before sunset (approx. 17:45) for the best lighting.",
+                "es": "Visita justo antes del atardecer (aprox. 17:45) para la mejor iluminación."
               }
             },
             {
@@ -552,7 +595,8 @@
                 "de": "Die Teiche können morgens mit einer dünnen Eisschicht bedeckt sein.",
                 "hu": "A tavakat reggelente vékony jégréteg boríthatja.",
                 "ro": "Iazurile pot fi acoperite cu un strat subțire de gheață dimineața.",
-                "en": "The ponds may be covered with a thin layer of ice in the mornings."
+                "en": "The ponds may be covered with a thin layer of ice in the mornings.",
+                "es": "Los estanques pueden estar cubiertos por una fina capa de hielo por las mañanas."
               }
             }
           ],
@@ -584,6 +628,13 @@
               "The city wall is illuminated at night and remains accessible in winter.",
               "The humidity often makes the cold feel more biting.",
               "Many churches have limited heating during the winter months."
+            ],
+            "es": [
+              "Los días de invierno en Lugo son cortos; planifica actividades al aire libre antes de las 17:00.",
+              "Prueba el caldo gallego para entrar en calor.",
+              "La muralla se ilumina por la noche y permanece accesible en invierno.",
+              "La humedad a menudo hace que el frío se sienta más intenso.",
+              "Muchas iglesias tienen calefacción limitada durante los meses de invierno."
             ]
           }
         }
@@ -602,7 +653,8 @@
             "de": "Römische Brücke",
             "hu": "Római híd",
             "ro": "Podul Roman",
-            "en": "Roman Bridge"
+            "en": "Roman Bridge",
+            "es": "Puente Romano"
           },
           "coords": [
             -7.5612,
@@ -617,7 +669,8 @@
             "de": "Starten Sie Ihre Radtour mit einer tollen Aussicht auf den Fluss Miño.",
             "hu": "Kezdje a biciklitúrát a Miño folyóra nyíló remek kilátással.",
             "ro": "Începeți turul cu bicicleta cu o priveliște minunată asupra râului Miño.",
-            "en": "Start your bike tour with a great view of the Miño river."
+            "en": "Start your bike tour with a great view of the Miño river.",
+            "es": "Empieza tu ruta en bici con una gran vista del río Miño."
           }
         },
         {
@@ -625,7 +678,8 @@
             "de": "Römische Thermen",
             "hu": "Római fürdők",
             "ro": "Termele Romane",
-            "en": "Roman Baths"
+            "en": "Roman Baths",
+            "es": "Termas Romanas"
           },
           "coords": [
             -7.563,
@@ -640,7 +694,8 @@
             "de": "Parken Sie Ihr Fahrrad und erkunden Sie die antiken Bäder am Flussufer.",
             "hu": "Parkolja le a biciklit és fedezze fel az antik fürdőket a folyóparton.",
             "ro": "Parcați bicicleta și explorați băile antice de pe malul râului.",
-            "en": "Park your bike and explore the ancient baths on the riverbank."
+            "en": "Park your bike and explore the ancient baths on the riverbank.",
+            "es": "Aparca la bici y explora las antiguas termas junto al río."
           }
         },
         {
@@ -648,7 +703,8 @@
             "de": "Parque de Rosalía de Castro",
             "hu": "Rosalía de Castro Park",
             "ro": "Parcul Rosalía de Castro",
-            "en": "Rosalía de Castro Park"
+            "en": "Rosalía de Castro Park",
+            "es": "Parque Rosalía de Castro"
           },
           "coords": [
             -7.5528,
@@ -663,7 +719,8 @@
             "de": "Ein schöner Ort für eine kurze Pause mit Blick auf die Stadt.",
             "hu": "Szép hely egy rövid pihenőre, kilátással a városra.",
             "ro": "Un loc frumos pentru o scurtă pauză cu vedere la oraș.",
-            "en": "A nice place for a short break with a view of the city."
+            "en": "A nice place for a short break with a view of the city.",
+            "es": "Un buen lugar para un breve descanso con vistas a la ciudad."
           }
         },
         {
@@ -671,7 +728,8 @@
             "de": "Römische Mauern von Lugo",
             "hu": "Lugói római falak",
             "ro": "Zidurile romane din Lugo",
-            "en": "Roman Walls of Lugo"
+            "en": "Roman Walls of Lugo",
+            "es": "Muralla Romana de Lugo"
           },
           "coords": [
             -7.559,
@@ -686,7 +744,8 @@
             "de": "Es ist nicht erlaubt, auf den Mauern Rad zu fahren, aber Sie können Ihr Rad unten abstellen und zu Fuß gehen.",
             "hu": "A falakon nem szabad biciklizni, de lent leparkolhatja és felsétálhat.",
             "ro": "Nu este permis ciclismul pe ziduri, dar puteți parca bicicleta jos și merge pe jos.",
-            "en": "It's not allowed to cycle on the walls, but you can park your bike below and walk it."
+            "en": "It's not allowed to cycle on the walls, but you can park your bike below and walk it.",
+            "es": "No está permitido circular en bicicleta por la muralla, pero puedes aparcarla abajo y recorrerla a pie."
           }
         },
         {
@@ -694,7 +753,8 @@
             "de": "Kathedrale von Lugo",
             "hu": "Lugói székesegyház",
             "ro": "Catedrala din Lugo",
-            "en": "Lugo Cathedral"
+            "en": "Lugo Cathedral",
+            "es": "Catedral de Lugo"
           },
           "coords": [
             -7.5583,
@@ -709,7 +769,8 @@
             "de": "Schließen Sie Ihr Fahrrad in der Nähe ab, um dieses architektonische Juwel zu besichtigen.",
             "hu": "Zárja le a biciklit a közelben, hogy megnézhesse ezt az építészeti gyöngyszemet.",
             "ro": "Legați-vă bicicleta în apropiere pentru a vizita această bijuterie arhitecturală.",
-            "en": "Lock your bike nearby to visit this architectural gem."
+            "en": "Lock your bike nearby to visit this architectural gem.",
+            "es": "Asegura tu bicicleta cerca para visitar esta joya arquitectónica."
           }
         },
         {
@@ -717,7 +778,8 @@
             "de": "Plaza Mayor (Mittagessen)",
             "hu": "Plaza Mayor (ebéd)",
             "ro": "Plaza Mayor (prânz)",
-            "en": "Plaza Mayor (Lunch)"
+            "en": "Plaza Mayor (Lunch)",
+            "es": "Plaza Mayor (Almuerzo)"
           },
           "coords": [
             -7.5567,
@@ -732,7 +794,8 @@
             "de": "Der perfekte Ort, um eine Pause einzulegen und galicische Spezialitäten zu genießen.",
             "hu": "Tökéletes hely a pihenésre és a galíciai specialitások megkóstolására.",
             "ro": "Locul perfect pentru a lua o pauză și a savura specialități galiciene.",
-            "en": "The perfect place to take a break and enjoy Galician specialties."
+            "en": "The perfect place to take a break and enjoy Galician specialties.",
+            "es": "El lugar perfecto para descansar y disfrutar de especialidades gallegas."
           }
         },
         {
@@ -740,7 +803,8 @@
             "de": "Provinzialmuseum von Lugo",
             "hu": "Lugói Tartományi Múzeum",
             "ro": "Muzeul Provincial din Lugo",
-            "en": "Provincial Museum of Lugo"
+            "en": "Provincial Museum of Lugo",
+            "es": "Museo Provincial de Lugo"
           },
           "coords": [
             -7.555,
@@ -755,7 +819,8 @@
             "de": "Radle zum Museum für eine Dosis Kultur am Nachmittag.",
             "hu": "Tekerjen el a múzeumhoz egy délutáni kulturális feltöltődésért.",
             "ro": "Pedalați până la muzeu pentru o doză de cultură de după-amiază.",
-            "en": "Cycle to the museum for a dose of afternoon culture."
+            "en": "Cycle to the museum for a dose of afternoon culture.",
+            "es": "Ve en bici al museo para una dosis de cultura por la tarde."
           }
         }
       ],
@@ -763,7 +828,8 @@
         "de": "Ihre Radtour durch Lugo startet an der historischen Römischen Brücke und führt Sie entlang des Flusses Miño zu den antiken Thermen. Nach einer erfrischenden Pause im Parque de Rosalía de Castro erklimmen Sie den Hügel zur Altstadt. Dort stellen Sie Ihr Fahrrad ab, um auf den berühmten Römischen Mauern zu spazieren und die beeindruckende Kathedrale zu besichtigen. Zur Mittagszeit erwartet Sie die lebhafte Plaza Mayor mit kulinarischen Genüssen. Der Nachmittag ist der Kultur gewidmet, mit einer letzten Etappe zum Provinzialmuseum, bevor Sie Ihre Tour beenden.",
         "hu": "Lugói kerékpártúrája a történelmi római hídnál kezdődik, és a Miño folyó mentén az ókori fürdőkhöz vezet. A Rosalía de Castro parkban tartott frissítő szünet után felteker az óvárosba. Itt leparkolja a kerékpárt, hogy sétáljon a híres római falakon és megcsodálja a lenyűgöző katedrálist. Ebédidőben a nyüzsgő Plaza Mayor várja kulináris élvezetekkel. A délután a kultúráé, egy utolsó szakasszal a Tartományi Múzeumhoz, mielőtt befejezi a túrát.",
         "ro": "Turul dvs. cu bicicleta prin Lugo începe de la istoricul Pod Roman, ducându-vă de-a lungul râului Miño până la termele antice. După o pauză revigorantă în Parcul Rosalía de Castro, urcați dealul spre orașul vechi. Acolo, parcați bicicleta pentru a vă plimba pe faimoasele Ziduri Romane și pentru a vizita impunătoarea catedrală. La prânz, vibranta Plaza Mayor vă așteaptă cu delicii culinare. După-amiaza este dedicată culturii, cu o ultimă etapă la Muzeul Provincial înainte de a încheia turul.",
-        "en": "Your bike tour of Lugo starts at the historic Roman Bridge, leading you along the Miño River to the ancient baths. After a refreshing break in Rosalía de Castro Park, you'll climb the hill to the old town. There, you'll park your bike to walk the famous Roman Walls and visit the impressive cathedral. At lunchtime, the vibrant Plaza Mayor awaits you with culinary delights. The afternoon is dedicated to culture, with a final leg to the Provincial Museum before finishing your tour."
+        "en": "Your bike tour of Lugo starts at the historic Roman Bridge, leading you along the Miño River to the ancient baths. After a refreshing break in Rosalía de Castro Park, you'll climb the hill to the old town. There, you'll park your bike to walk the famous Roman Walls and visit the impressive cathedral. At lunchtime, the vibrant Plaza Mayor awaits you with culinary delights. The afternoon is dedicated to culture, with a final leg to the Provincial Museum before finishing your tour.",
+        "es": "Tu ruta en bici por Lugo comienza en el histórico Puente Romano, llevándote a lo largo del río Miño hasta las antiguas termas. Tras un descanso en el Parque Rosalía de Castro, subirás la colina hacia el casco antiguo. Allí aparcarás la bici para recorrer las famosas murallas romanas y visitar la imponente catedral. A la hora de comer, la animada Plaza Mayor te espera con delicias culinarias. La tarde se dedica a la cultura, con la última etapa hasta el Museo Provincial antes de concluir el recorrido."
       },
       "gastro_picks": {
         "de": [
@@ -959,6 +1025,12 @@
           "Lugo is hilly, so be prepared for some climbs, especially from the river to the old town.",
           "Bring a good lock to secure your bike while you explore the sights.",
           "A water bottle is essential to stay hydrated."
+        ],
+        "es": [
+          "Revisa tu bici antes de salir, especialmente frenos y neumáticos.",
+          "Lugo es montañoso, así que prepárate para algunas subidas, especialmente desde el río hasta el casco antiguo.",
+          "Lleva un buen candado para asegurar la bici mientras visitas los lugares.",
+          "Una botella de agua es esencial para mantenerte hidratado."
         ]
       },
       "variants": {
@@ -967,7 +1039,8 @@
             "de": "Der Tag startet an der römischen Brücke. Der Regen macht die Granitsteine rutschig, was volle Konzentration beim Anfahren erfordert.\n\nNach dem Besuch der Bäder geht es hinauf zum Rosalía-Park. Die Wege sind fest, aber Pfützen bilden sich schnell in den Senken.\n\nMittags erreichen wir die Stadtmauer. Das Radfahren direkt auf der Mauer ist nicht gestattet, die Umfahrung bietet jedoch tolle Perspektiven.\n\nDer Nachmittag endet im Provinzmuseum. Das Fahrrad kann in der Nähe sicher und hoffentlich unter einem Vordach geparkt werden.",
             "hu": "A nap a római hídnál indul. Az eső csúszóssá teszi a gránitköveket, ami teljes koncentrációt igényel az indulásnál.\n\nA fürdők meglátogatása után irány a Rosalía park. Az utak stabilak, de a mélyedésekben gyorsan összegyűlnek a tócsák.\n\nDélben elérjük a városfalat. A kerékpározás közvetlenül a falon nem megengedett, de a fal menti körút remek perspektívákat kínál.\n\nA délután a Tartományi Múzeumban ér véget. A kerékpárt a közelben biztonságban, remélhetőleg egy előtető alatt lehet leállítani.",
             "ro": "Ziua începe la podul roman. Ploaia face pietrele de granit alunecoase, ceea ce necesită concentrare maximă la plecare.\n\nDupă vizitarea băilor, urcăm spre parcul Rosalía. Aleile sunt ferme, dar bălțile se formează rapid în zonele joase.\n\nLa prânz ajungem la zidul orașului. Mersul pe bicicletă direct pe zid nu este permis, dar ocolirea oferă perspective excelente.\n\nDupă-amiaza se încheie la Muzeul Provincial. Bicicleta poate fi parcată în siguranță în apropiere, sperăm sub un acoperiș.",
-            "en": "The day starts at the Roman Bridge. The rain makes the granite stones slippery, requiring full concentration when starting off.\n\nAfter visiting the baths, head up to Rosalía Park. The paths are solid, but puddles form quickly in low spots.\n\nAt midday, we reach the city walls. Cycling directly on the wall is not permitted, but the perimeter road offers great perspectives.\n\nThe afternoon ends at the Provincial Museum. The bike can be parked safely nearby, hopefully under a canopy."
+            "en": "The day starts at the Roman Bridge. The rain makes the granite stones slippery, requiring full concentration when starting off.\n\nAfter visiting the baths, head up to Rosalía Park. The paths are solid, but puddles form quickly in low spots.\n\nAt midday, we reach the city walls. Cycling directly on the wall is not permitted, but the perimeter road offers great perspectives.\n\nThe afternoon ends at the Provincial Museum. The bike can be parked safely nearby, hopefully under a canopy.",
+            "es": "El día comienza en el Puente Romano. La lluvia hace que las losas de granito estén resbaladizas, lo que exige máxima concentración al arrancar.\n\nTras visitar las termas, sube al Parque Rosalía. Los caminos son firmes, pero los charcos se forman rápidamente en las zonas bajas.\n\nAl mediodía llegamos a la muralla. No se permite circular en bici por la muralla, pero la carretera periférica ofrece excelentes perspectivas.\n\nLa tarde termina en el Museo Provincial. La bici puede aparcarse de forma segura cerca, con suerte bajo alguna cobertura."
           },
           "stops": [
             {
@@ -976,7 +1049,8 @@
                 "de": "Vorsicht beim Bremsen auf den nassen Steinplatten der Brücke.",
                 "hu": "Vigyázat a fékezéssel a híd nedves kőlapjain.",
                 "ro": "Atenție la frânare pe dalele de piatră umede ale podului.",
-                "en": "Be careful when braking on the wet stone slabs of the bridge."
+                "en": "Be careful when braking on the wet stone slabs of the bridge.",
+                "es": "Ten cuidado al frenar sobre las losas de piedra mojadas del puente."
               }
             },
             {
@@ -985,7 +1059,8 @@
                 "de": "Ein idealer Ort, um das Rad kurz abzustellen und im Trockenen zu staunen.",
                 "hu": "Ideális hely a bicikli rövid leállítására és a fedett ámulatba ejtő látványra.",
                 "ro": "Un loc ideal pentru a lăsa bicicleta scurt și a admira la adăpost.",
-                "en": "An ideal place to park the bike briefly and marvel in the dry."
+                "en": "An ideal place to park the bike briefly and marvel in the dry.",
+                "es": "Un lugar ideal para aparcar la bici brevemente y admirar a cubierto."
               }
             },
             {
@@ -994,7 +1069,8 @@
                 "de": "Die asphaltierten Hauptwege sind sicherer als die Erdpfade.",
                 "hu": "Az aszfaltozott főutak biztonságosabbak, mint a földutak.",
                 "ro": "Aleile principale asfaltate sunt mai sigure decât cărările de pământ.",
-                "en": "The paved main paths are safer than the dirt trails."
+                "en": "The paved main paths are safer than the dirt trails.",
+                "es": "Los caminos principales pavimentados son más seguros que las veredas de tierra."
               }
             },
             {
@@ -1003,7 +1079,8 @@
                 "de": "Fahren Sie die 'Ronda da Muralla' außen entlang; Vorsicht vor Pfützen am Rand.",
                 "hu": "Hajtson kívül a 'Ronda da Muralla' mentén; vigyázzon a széleken lévő tócsákra.",
                 "ro": "Mergeți pe exterior de-a lungul 'Ronda da Muralla'; atenție la bălțile de pe margine.",
-                "en": "Ride along the 'Ronda da Muralla' on the outside; watch for puddles at the edge."
+                "en": "Ride along the 'Ronda da Muralla' on the outside; watch for puddles at the edge.",
+                "es": "Circula por la 'Ronda da Muralla' por fuera; vigila los charcos en el borde."
               }
             },
             {
@@ -1012,7 +1089,8 @@
                 "de": "Parken Sie das Rad am Praza de Santa María; dort gibt es teils überdachte Plätze.",
                 "hu": "Parkoljon a Praza de Santa Maríán; ott vannak részben fedett helyek.",
                 "ro": "Parcați bicicleta în Praza de Santa María; există locuri parțial acoperite.",
-                "en": "Park the bike at Praza de Santa María; there are some partially covered spots."
+                "en": "Park the bike at Praza de Santa María; there are some partially covered spots.",
+                "es": "Aparca la bici en la Praza de Santa María; hay algunas zonas parcialmente cubiertas."
               }
             },
             {
@@ -1021,7 +1099,8 @@
                 "de": "Viele Restaurants haben Fahrradständer in Sichtweite der Arkaden.",
                 "hu": "Sok étterem rendelkezik kerékpártárolóval az árkádok látótávolságában.",
                 "ro": "Multe restaurante au suporturi de biciclete vizibile de sub arcade.",
-                "en": "Many restaurants have bike racks within sight of the arcades."
+                "en": "Many restaurants have bike racks within sight of the arcades.",
+                "es": "Muchos restaurantes tienen aparcabicis a la vista desde los soportales."
               }
             },
             {
@@ -1030,7 +1109,8 @@
                 "de": "Endstation; nutzen Sie die Zeit für eine lange Aufwärm- und Trockenpause.",
                 "hu": "Végállomás; használja ki az időt egy hosszú melegedő és száradó szünetre.",
                 "ro": "Stație finală; folosiți timpul pentru o pauză lungă de încălzire și uscare.",
-                "en": "Final stop; use the time for a long warm-up and drying break."
+                "en": "Final stop; use the time for a long warm-up and drying break.",
+                "es": "Última parada; aprovecha para entrar en calor y secarte con calma."
               }
             }
           ],
@@ -1062,6 +1142,13 @@
               "Ronda da Muralla is the best route to circle the city in the rain.",
               "Braking distance on wet granite paving doubles.",
               "Mudguards are a must given the many puddles by the riverbank."
+            ],
+            "es": [
+              "Equipo completo de lluvia es imprescindible en Lugo (Galicia).",
+              "Evita circular por las rampas de acceso resbaladizas a la muralla.",
+              "La Ronda da Muralla es la mejor ruta para bordear la ciudad con lluvia.",
+              "La distancia de frenado sobre pavimento de granito mojado se dobla.",
+              "Los guardabarros son imprescindibles por los numerosos charcos junto al río."
             ]
           }
         },
@@ -1070,7 +1157,8 @@
             "de": "Ein frostiger Start am Flussufer. Der Morgennebel über dem Miño verleiht der römischen Brücke ein mystisches Aussehen.\n\nNach dem Anstieg zum Park wärmt die Bewegung auf dem Rad auf. Die klaren Wege im Rosalía-Park bieten gute Bodenhaftung.\n\nMittags umrunden wir die Stadtmauer. Die Wintersonne steht tief und blendet manchmal, sorgt aber für fantastische Fotos der Muralla.\n\nNach der Kathedrale und einem stärkenden Mittagessen endet die Tour am Provinzmuseum, bevor die Kälte gegen Abend spürbar zunimmt.",
             "hu": "Fagyos kezdés a folyóparton. A Miño feletti reggeli köd misztikus megjelenést kölcsönöz a római hídnak.\n\nA parkba való felkapaszkodás után a mozgás felmelegít a biciklin. A tiszta utak a Rosalía parkban jó tapadást biztosítanak.\n\nDélben megkerüljük a városfalat. A téli nap alacsonyan jár és néha vakít, de fantasztikus fotókat eredményez a Muralláról.\n\nA katedrális és egy erősítő ebéd után a túra a Tartományi Múzeumnál ér véget, mielőtt este felé a hideg érezhetően fokozódna.",
             "ro": "Un început înghețat pe malul râului. Ceața de dimineață peste Miño oferă podului roman un aspect mistic.\n\nDupă urcarea spre parc, mișcarea pe bicicletă te încălzește. Aleile curate din parcul Rosalía oferă o aderență bună.\n\nLa prânz înconjurăm zidul orașului. Soarele de iarnă este jos și uneori orbește, dar oferă poze fantastice cu Muralla.\n\nDupă catedrală și un prânz consistent, turul se încheie la Muzeul Provincial, înainte ca frigul să crească simțitor spre seară.",
-            "en": "A frosty start by the riverbank. The morning mist over the Miño gives the Roman Bridge a mystical appearance.\n\nAfter the climb to the park, the physical activity on the bike warms you up. The clear paths in Rosalía Park offer good traction.\n\nAt midday, we circle the city walls. The winter sun is low and sometimes blinding, but it makes for fantastic photos of the Muralla.\n\nFollowing the Cathedral and a hearty lunch, the tour ends at the Provincial Museum before the cold noticeably intensifies toward evening."
+            "en": "A frosty start by the riverbank. The morning mist over the Miño gives the Roman Bridge a mystical appearance.\n\nAfter the climb to the park, the physical activity on the bike warms you up. The clear paths in Rosalía Park offer good traction.\n\nAt midday, we circle the city walls. The winter sun is low and sometimes blinding, but it makes for fantastic photos of the Muralla.\n\nFollowing the Cathedral and a hearty lunch, the tour ends at the Provincial Museum before the cold noticeably intensifies toward evening.",
+            "es": "Un inicio helado junto a la orilla del río. La niebla matinal sobre el Miño da al Puente Romano una apariencia mística.\n\nTras la subida al parque, el ejercicio en bici te calienta. Los senderos limpios del Parque Rosalía ofrecen buena tracción.\n\nAl mediodía, rodeamos la muralla. El sol bajo de invierno a veces deslumbra, pero permite fantásticas fotos de la Muralla.\n\nTras la visita a la Catedral y un abundante almuerzo, la ruta termina en el Museo Provincial antes de que el frío aumente notablemente hacia la noche."
           },
           "stops": [
             {
@@ -1079,7 +1167,8 @@
                 "de": "Morgens können die Steine mit Raureif bedeckt sein; langsam fahren.",
                 "hu": "Reggelente a köveket dér boríthatja; haladjon lassan.",
                 "ro": "Dimineața, pietrele pot fi acoperite cu chiciură; mergeți încet.",
-                "en": "Stones may be covered with frost in the morning; ride slowly."
+                "en": "Stones may be covered with frost in the morning; ride slowly.",
+                "es": "Las piedras pueden estar cubiertas de escarcha por la mañana; circula despacio."
               }
             },
             {
@@ -1088,7 +1177,8 @@
                 "de": "Die feuchte Luft am Fluss fühlt sich im Winter besonders kalt an.",
                 "hu": "A folyómenti párás levegő télen különösen hidegnek érződik.",
                 "ro": "Aerul umed de lângă râu se simte deosebit de rece iarna.",
-                "en": "The humid air by the river feels particularly cold in winter."
+                "en": "The humid air by the river feels particularly cold in winter.",
+                "es": "El aire húmedo junto al río se siente especialmente frío en invierno."
               }
             },
             {
@@ -1097,7 +1187,8 @@
                 "de": "Genießen Sie die winterliche Ruhe; der Park ist nun fast menschenleer.",
                 "hu": "Élvezze a téli nyugalmat; a park ilyenkor szinte néptelen.",
                 "ro": "Bucurați-vă de liniștea iernii; parcul este acum aproape pustiu.",
-                "en": "Enjoy the winter tranquility; the park is almost deserted now."
+                "en": "Enjoy the winter tranquility; the park is almost deserted now.",
+                "es": "Disfruta de la tranquilidad invernal; el parque está casi desierto ahora."
               }
             },
             {
@@ -1106,7 +1197,8 @@
                 "de": "Tragen Sie winddichte Handschuhe für die Fahrt entlang der Ronda.",
                 "hu": "Viseljen szélálló kesztyűt a Ronda menti tekeréshez.",
                 "ro": "Purtați mănuși rezistente la vânt pentru plimbarea de-a lungul Rondei.",
-                "en": "Wear windproof gloves for the ride along the Ronda."
+                "en": "Wear windproof gloves for the ride along the Ronda.",
+                "es": "Lleva guantes cortaviento para el tramo por la Ronda."
               }
             },
             {
@@ -1115,7 +1207,8 @@
                 "de": "Gute Abstellmöglichkeiten vorhanden, nutzen Sie das Schloss.",
                 "hu": "Jó leállítási lehetőségek, használja a lakatot.",
                 "ro": "Există bune posibilități de parcare, folosiți antifurtul.",
-                "en": "Good parking options available; be sure to use your lock."
+                "en": "Good parking options available; be sure to use your lock.",
+                "es": "Buenas opciones de aparcamiento; asegúrate de usar tu candado."
               }
             },
             {
@@ -1124,7 +1217,8 @@
                 "de": "Suchen Sie Plätze mit Heizstrahlern in den Außenbereichen.",
                 "hu": "Keressen hősugárzóval felszerelt helyeket a kültéri részeken.",
                 "ro": "Căutați locuri cu încălzitoare în zonele exterioare.",
-                "en": "Look for spots with outdoor heaters in the seating areas."
+                "en": "Look for spots with outdoor heaters in the seating areas.",
+                "es": "Busca sitios con calefactores exteriores en las zonas de descanso."
               }
             },
             {
@@ -1133,7 +1227,8 @@
                 "de": "Das Museum schließt im Winter oft etwas früher; Zeiten prüfen.",
                 "hu": "A múzeum télen gyakran kicsit korábban zár; ellenőrizze az időpontokat.",
                 "ro": "Muzeul se închide adesea puțin mai devreme iarna; verificați programul.",
-                "en": "The museum often closes a bit earlier in winter; check the hours."
+                "en": "The museum often closes a bit earlier in winter; check the hours.",
+                "es": "El museo suele cerrar un poco antes en invierno; consulta los horarios."
               }
             }
           ],
@@ -1165,6 +1260,13 @@
               "Make the most of the midday hours for the riverside ride.",
               "Bike lights are mandatory due to the early sunset.",
               "Avoid shaded alleys, as frost tends to linger there longer."
+            ],
+            "es": [
+              "Vestir a capas es importante por los cambios de temperatura.",
+              "Las bajadas del puente pueden ser peligrosamente resbaladizas en invierno.",
+              "Aprovecha las horas del mediodía para el paseo junto al río.",
+              "Las luces de la bici son obligatorias por el temprano ocaso.",
+              "Evita callejones sombríos, ya que la escarcha suele permanecer más tiempo allí."
             ]
           }
         }
@@ -1183,7 +1285,8 @@
             "de": "Parkplatz bei der Römischen Brücke",
             "hu": "Parkoló a római hídnál",
             "ro": "Parcare lângă Podul Roman",
-            "en": "Parking near the Roman Bridge"
+            "en": "Parking near the Roman Bridge",
+            "es": "Aparcamiento cerca del Puente Romano"
           },
           "coords": [
             -7.561,
@@ -1199,7 +1302,8 @@
             "de": "Beginnen Sie Ihren Tag hier, wo es normalerweise einfacher ist, einen Parkplatz zu finden.",
             "hu": "Kezdje a napot itt, általában könnyebb parkolóhelyet találni.",
             "ro": "Începeți-vă ziua de aici, unde este de obicei mai ușor să găsiți parcare.",
-            "en": "Start your day here, where it's usually easier to find parking."
+            "en": "Start your day here, where it's usually easier to find parking.",
+            "es": "Empieza aquí el día; normalmente es más fácil encontrar aparcamiento."
           }
         },
         {
@@ -1207,7 +1311,8 @@
             "de": "Römische Brücke & Thermen",
             "hu": "Római híd és fürdők",
             "ro": "Podul Roman și Termele",
-            "en": "Roman Bridge & Baths"
+            "en": "Roman Bridge & Baths",
+            "es": "Puente Romano y Termas"
           },
           "coords": [
             -7.5612,
@@ -1223,7 +1328,8 @@
             "de": "Erkunden Sie den Bereich am Flussufer zu Fuß. Die Thermen sind nur einen kurzen Spaziergang entfernt.",
             "hu": "Fedezze fel gyalog a folyóparti területet. A fürdők csak egy rövid sétára vannak.",
             "ro": "Explorați pe jos zona de pe malul râului. Termele sunt la o scurtă plimbare.",
-            "en": "Explore the riverside area on foot. The baths are just a short walk away."
+            "en": "Explore the riverside area on foot. The baths are just a short walk away.",
+            "es": "Explora la zona ribereña a pie. Las termas están a un corto paseo."
           }
         },
         {
@@ -1231,7 +1337,8 @@
             "de": "Parkhaus im Stadtzentrum",
             "hu": "Parkolóház a központban",
             "ro": "Parcare subterană în centru",
-            "en": "City Center Parking Garage"
+            "en": "City Center Parking Garage",
+            "es": "Aparcamiento cubierto en el centro"
           },
           "coords": [
             -7.5545,
@@ -1247,7 +1354,8 @@
             "de": "Parken Sie hier für den Rest des Tages, um die Altstadt zu erkunden.",
             "hu": "Parkoljon le itt a nap hátralévő részére, és fedezze fel az óvárost.",
             "ro": "Parcați aici pentru restul zilei pentru a explora orașul vechi.",
-            "en": "Park here for the rest of the day to explore the old town."
+            "en": "Park here for the rest of the day to explore the old town.",
+            "es": "Aparca aquí para el resto del día y explorar el casco antiguo."
           }
         },
         {
@@ -1255,7 +1363,8 @@
             "de": "Römische Mauern & Kathedrale",
             "hu": "Római falak és székesegyház",
             "ro": "Zidurile Romane și Catedrala",
-            "en": "Roman Walls & Cathedral"
+            "en": "Roman Walls & Cathedral",
+            "es": "Murallas Romanas y Catedral"
           },
           "coords": [
             -7.5583,
@@ -1271,7 +1380,8 @@
             "de": "Ein kurzer Spaziergang vom Parkhaus. Planen Sie genügend Zeit für beides ein.",
             "hu": "Rövid séta a parkolóháztól. Tervezzen elég időt mindkettőre.",
             "ro": "O scurtă plimbare de la parcare. Planificați suficient timp pentru ambele.",
-            "en": "A short walk from the parking garage. Plan enough time for both."
+            "en": "A short walk from the parking garage. Plan enough time for both.",
+            "es": "A un corto paseo desde el aparcamiento. Planea tiempo suficiente para ambos."
           }
         },
         {
@@ -1279,7 +1389,8 @@
             "de": "Plaza Mayor & Mittagessen",
             "hu": "Plaza Mayor és ebéd",
             "ro": "Plaza Mayor și prânz",
-            "en": "Plaza Mayor & Lunch"
+            "en": "Plaza Mayor & Lunch",
+            "es": "Plaza Mayor y comida"
           },
           "coords": [
             -7.5567,
@@ -1295,7 +1406,8 @@
             "de": "Entspannen Sie sich auf dem Hauptplatz und genießen Sie die lokale Küche.",
             "hu": "Pihenjen a főtéren, és élvezze a helyi konyhát.",
             "ro": "Relaxați-vă în piața principală și bucurați-vă de bucătăria locală.",
-            "en": "Relax in the main square and enjoy the local cuisine."
+            "en": "Relax in the main square and enjoy the local cuisine.",
+            "es": "Relájate en la plaza principal y disfruta de la gastronomía local."
           }
         },
         {
@@ -1303,7 +1415,8 @@
             "de": "Provinzialmuseum & Parque Rosalía",
             "hu": "Tartományi Múzeum és Rosalía Park",
             "ro": "Muzeul Provincial și Parcul Rosalía",
-            "en": "Provincial Museum & Rosalía Park"
+            "en": "Provincial Museum & Rosalía Park",
+            "es": "Museo Provincial y Parque Rosalía"
           },
           "coords": [
             -7.555,
@@ -1319,7 +1432,8 @@
             "de": "Das Museum und der Park liegen nahe beieinander für einen kulturellen und entspannten Nachmittag.",
             "hu": "A múzeum és a park közel van egymáshoz egy kulturális és pihentető délutánhoz.",
             "ro": "Muzeul și parcul sunt aproape unul de celălalt pentru o după-amiază culturală și relaxantă.",
-            "en": "The museum and park are close to each other for a cultural and relaxing afternoon."
+            "en": "The museum and park are close to each other for a cultural and relaxing afternoon.",
+            "es": "El museo y el parque están cerca uno del otro para una tarde cultural y relajante."
           }
         }
       ],
@@ -1327,7 +1441,8 @@
         "de": "Mit dem Auto erkunden Sie Lugo effizient, indem Sie zwei Cluster anfahren. Beginnen Sie am Stadtrand bei der Römischen Brücke, parken Sie und erkunden Sie die Thermen zu Fuß. Anschließend fahren Sie ins Zentrum und parken in einem Parkhaus. Von dort aus beginnt Ihr Rundgang: Vormittags erobern Sie die Römischen Mauern und die Kathedrale. Nach einem Mittagessen an der Plaza Mayor widmen Sie den Nachmittag der Kunst im Provinzialmuseum und der Entspannung im nahegelegenen Rosalía-de-Castro-Park, alles bequem zu Fuß erreichbar.",
         "hu": "Autóval hatékonyan fedezheti fel Lugót két központot megcélozva. Kezdje a város szélén, a római hídnál, parkoljon le, és fedezze fel gyalog a fürdőket. Ezután hajtson be a központba, és parkoljon le egy parkolóházban. Innen indul a gyalogtúra: délelőtt meghódítja a római falakat és a katedrálist. A Plaza Mayoron elköltött ebéd után a délutánt a Tartományi Múzeum művészetének és a közeli Rosalía de Castro park pihenésének szentelheti, mindent kényelmesen, gyalogosan elérve.",
         "ro": "Cu mașina, explorați Lugo eficient vizitând două grupuri de obiective. Începeți la marginea orașului, la Podul Roman, parcați și explorați termele pe jos. Apoi, conduceți spre centru și parcați într-o parcare subterană. De acolo, începe turul pietonal: dimineața, cuceriți Zidurile Romane și catedrala. După un prânz în Plaza Mayor, dedicați după-amiaza artei la Muzeul Provincial și relaxării în Parcul Rosalía de Castro din apropiere, toate accesibile confortabil pe jos.",
-        "en": "By car, you can explore Lugo efficiently by targeting two clusters. Start on the outskirts at the Roman Bridge, park, and explore the baths on foot. Then, drive to the center and park in a garage. Your walking tour begins from there: in the morning, conquer the Roman Walls and the cathedral. After lunch in Plaza Mayor, dedicate the afternoon to art at the Provincial Museum and relaxation in the nearby Rosalía de Castro Park, all comfortably within walking distance."
+        "en": "By car, you can explore Lugo efficiently by targeting two clusters. Start on the outskirts at the Roman Bridge, park, and explore the baths on foot. Then, drive to the center and park in a garage. Your walking tour begins from there: in the morning, conquer the Roman Walls and the cathedral. After lunch in Plaza Mayor, dedicate the afternoon to art at the Provincial Museum and relaxation in the nearby Rosalía de Castro Park, all comfortably within walking distance.",
+        "es": "En coche puedes recorrer Lugo de forma eficiente apuntando a dos grupos. Empieza en las afueras en el Puente Romano, aparca y descubre las termas a pie. Luego, conduce al centro y aparca en un garaje. Tu recorrido a pie comienza desde allí: por la mañana, recorre las Murallas Romanas y la catedral. Tras la comida en la Plaza Mayor, dedica la tarde al arte en el Museo Provincial y a relajarte en el cercano Parque Rosalía de Castro, todo cómodamente a distancia de paseo."
       },
       "gastro_picks": {
         "de": [
@@ -1523,6 +1638,12 @@
           "Use public parking garages, as street parking can be difficult.",
           "Plan your drives between clusters outside of peak traffic hours.",
           "Have change ready for parking meters."
+        ],
+        "es": [
+          "El casco antiguo de Lugo es zona de tráfico restringido (ZTL). Aparca fuera y entra andando.",
+          "Usa aparcamientos públicos, ya que el estacionamiento en calle puede ser difícil.",
+          "Planifica tus trayectos entre los grupos fuera de las horas punta.",
+          "Ten cambio preparado para los parquímetros."
         ]
       },
       "variants": {
@@ -1531,7 +1652,8 @@
             "de": "Bequemer Start im Regen: Parken direkt an der römischen Brücke ermöglicht einen schnellen Zugang zu den Bädern, ohne lange im Nassen zu stehen.\n\nDie Fahrt zum Stadtzentrum führt durch das graue, aber stimmungsvolle Lugo. Das Parkhaus bietet trockenen Zugang zur Muralla.\n\nMittags genießen wir die Kathedrale und ein gemütliches Essen an der Plaza Mayor, während draußen der galicische Regen fällt.\n\nDer Nachmittag wird im Provinzmuseum verbracht. Die kurzen Wege vom Parkplatz zum Eingang minimieren den Kontakt mit dem Wetter.",
             "hu": "Kényelmes kezdés az esőben: parkolás közvetlenül a római hídnál, ami gyors kijutást tesz lehetővé a fürdőkhöz anélkül, hogy sokat áznánk.\n\nA városközpontba vezető út a szürke, de hangulatos Lugón át vezet. A parkolóház száraz feljutást biztosít a Murallához.\n\nDélben élvezzük a katedrálist és egy kellemes ebédet a Plaza Mayoron, miközben kint esik a galíciai eső.\n\nA délután a Tartományi Múzeumban telik. A parkolótól a bejáratig tartó rövid utak minimalizálják az időjárással való érintkezést.",
             "ro": "Început confortabil pe ploaie: parcarea direct la podul roman permite accesul rapid la băi, fără a sta mult în ploaie.\n\nDrumul spre centrul orașului trece prin Lugoul gri, dar plin de atmosferă. Parcarea subterană oferă acces uscat la Muralla.\n\nLa prânz ne bucurăm de catedrală și de o masă plăcută în Plaza Mayor, în timp ce afară cade ploaia galiciană.\n\nDupă-amiaza este petrecută la Muzeul Provincial. Distanțele scurte de la parcare la intrare minimizează contactul cu vremea.",
-            "en": "A comfortable start in the rain: parking right by the Roman Bridge allows quick access to the baths without standing in the wet for long.\n\nThe drive to the city center passes through gray but atmospheric Lugo. The parking garage provides dry access to the Muralla.\n\nAt midday, enjoy the Cathedral and a pleasant lunch at Plaza Mayor while the Galician rain falls outside.\n\nThe afternoon is spent at the Provincial Museum. The short distances from the parking lot to the entrance minimize exposure to the elements."
+            "en": "A comfortable start in the rain: parking right by the Roman Bridge allows quick access to the baths without standing in the wet for long.\n\nThe drive to the city center passes through gray but atmospheric Lugo. The parking garage provides dry access to the Muralla.\n\nAt midday, enjoy the Cathedral and a pleasant lunch at Plaza Mayor while the Galician rain falls outside.\n\nThe afternoon is spent at the Provincial Museum. The short distances from the parking lot to the entrance minimize exposure to the elements.",
+            "es": "Un comienzo cómodo con lluvia: aparcar junto al Puente Romano permite acceder rápido a las termas sin mojarse mucho.\n\nEl trayecto al centro atraviesa un Lugo gris pero atmosférico. El garaje ofrece acceso seco a la Muralla.\n\nAl mediodía, disfruta de la Catedral y de una agradable comida en la Plaza Mayor mientras la lluvia gallega cae fuera.\n\nLa tarde se pasa en el Museo Provincial. Las cortas distancias desde el aparcamiento a la entrada minimizan la exposición a los elementos."
           },
           "stops": [
             {
@@ -1540,7 +1662,8 @@
                 "de": "Wählen Sie Plätze nah am Aufgang, um Regengüsse zu vermeiden.",
                 "hu": "Válasszon a feljáróhoz közeli helyet, hogy elkerülje a záporokat.",
                 "ro": "Alegeți locuri aproape de scară pentru a evita aversele.",
-                "en": "Choose spots close to the stairs to avoid heavy downpours."
+                "en": "Choose spots close to the stairs to avoid heavy downpours.",
+                "es": "Elige plazas cerca de las escaleras para evitar aguaceros fuertes."
               }
             },
             {
@@ -1549,7 +1672,8 @@
                 "de": "Die Bäder sind teils überdacht und bieten guten Schutz.",
                 "hu": "A fürdők részben fedettek és jó védelmet nyújtanak.",
                 "ro": "Băile sunt parțial acoperite și oferă un adăpost bun.",
-                "en": "The baths are partially covered and offer good shelter."
+                "en": "The baths are partially covered and offer good shelter.",
+                "es": "Las termas están parcialmente cubiertas y ofrecen buen refugio."
               }
             },
             {
@@ -1558,7 +1682,8 @@
                 "de": "Nutzen Sie ein unterirdisches Parkhaus für maximalen Komfort.",
                 "hu": "Használjon föld alatti parkolóházat a maximális kényelemért.",
                 "ro": "Folosiți o parcare subterană pentru confort maxim.",
-                "en": "Use an underground parking garage for maximum comfort."
+                "en": "Use an underground parking garage for maximum comfort.",
+                "es": "Usa un aparcamiento subterráneo para mayor comodidad."
               }
             },
             {
@@ -1567,7 +1692,8 @@
                 "de": "Direkter Zugang vom Parkhaus zum Innenstadtbereich möglich.",
                 "hu": "Közvetlen kijutás a parkolóházból a belvárosi részre lehetséges.",
                 "ro": "Acces direct din parcare către zona centrală a orașului.",
-                "en": "Direct access from the parking garage to the city center is possible."
+                "en": "Direct access from the parking garage to the city center is possible.",
+                "es": "Es posible el acceso directo desde el garaje al centro urbano."
               }
             },
             {
@@ -1576,7 +1702,8 @@
                 "de": "Parkservice einiger Restaurants in der Nähe nutzen.",
                 "hu": "Használja ki néhány közeli étterem parkolási szolgáltatását.",
                 "ro": "Folosiți serviciul de parcare al unor restaurante din apropiere.",
-                "en": "Take advantage of parking services offered by some nearby restaurants."
+                "en": "Take advantage of parking services offered by some nearby restaurants.",
+                "es": "Aprovecha los servicios de aparcamiento que ofrecen algunos restaurantes cercanos."
               }
             },
             {
@@ -1585,7 +1712,8 @@
                 "de": "Parken Sie am Plaza de Santo Domingo für kurze Wege.",
                 "hu": "Parkoljon a Plaza de Santo Domingón a rövid utakért.",
                 "ro": "Parcați în Plaza de Santo Domingo pentru distanțe scurte.",
-                "en": "Park at Plaza de Santo Domingo for shorter walking distances."
+                "en": "Park at Plaza de Santo Domingo for shorter walking distances.",
+                "es": "Aparca en la Plaza de Santo Domingo para distancias a pie más cortas."
               }
             }
           ],
@@ -1617,6 +1745,13 @@
               "Don't leave valuables visible in the car (fogging risk).",
               "Keep an umbrella ready in the trunk for the walk to the Muralla.",
               "Ronda da Muralla can be congested during heavy rain."
+            ],
+            "es": [
+              "Utiliza los garajes 'Interparking Muralla' o 'Santo Domingo'.",
+              "Conduce con cuidado sobre los empedrados mojados en el casco antiguo.",
+              "No dejes objetos de valor a la vista en el coche (riesgo de vaho y curiosos).",
+              "Lleva un paraguas listo en el maletero para el paseo hasta la Muralla.",
+              "Ronda da Muralla puede congestinarse durante lluvia intensa."
             ]
           }
         },
@@ -1625,7 +1760,8 @@
             "de": "Ein klarer Wintertag beginnt. Die Heizung im Auto sorgt für einen angenehmen Start, während wir zur römischen Brücke fahren.\n\nNach der Besichtigung der antiken Stätten geht es ins Stadtzentrum. Die Parkhäuser sind im Winter eine gute Wahl, um das Auto eisfrei zu halten.\n\nMittags erkunden wir die Muralla. Die Wintersonne lässt die Stadtmauer in hellem Licht erstrahlen, bevor wir uns in einem Restaurant aufwärmen.\n\nDer Nachmittag endet im Museum und im winterlichen Park, bevor die Fahrt durch das beleuchtete Lugo zurückführt.",
             "hu": "Tiszta téli nap indul. Az autó fűtése kellemes kezdést biztosít, miközben a római hídhoz hajtunk.\n\nAz antik helyszínek megtekintése után irány a városközpont. A parkolóházak télen jó választást jelentenek az autó jégmentesen tartásához.\n\nDélben felfedezzük a Murallát. A téli nap fényes világosságba öltözteti a városfalat, mielőtt felmelegednénk egy étteremben.\n\nA délután a múzeumban és a téli parkban zárul, mielőtt a kivilágított Lugón át hazahajtanánk.",
             "ro": "Începe o zi senină de iarnă. Încălzirea din mașină asigură un start plăcut în timp ce mergem spre podul roman.\n\nDupă vizitarea siturilor antice, pornim spre centrul orașului. Parcările subterane sunt o alegere bună iarna pentru a menține mașina fără gheață.\n\nLa prânz explorăm Muralla. Soarele de iarnă face ca zidul orașului să strălucească în lumină puternică, înainte de a ne încălzi într-un restaurant.\n\nDupă-amiaza se încheie la muzeu și în parcul de iarnă, înainte ca drumul să ne ducă înapoi prin Lugoul iluminat.",
-            "en": "A clear winter day begins. The car heater ensures a pleasant start as we drive to the Roman Bridge.\n\nAfter visiting the ancient sites, head to the city center. Parking garages are a good choice in winter to keep the car ice-free.\n\nAt midday, explore the Muralla. The winter sun makes the city walls shine in bright light before we warm up in a restaurant.\n\nThe afternoon ends at the museum and in the winter park before the drive back through illuminated Lugo."
+            "en": "A clear winter day begins. The car heater ensures a pleasant start as we drive to the Roman Bridge.\n\nAfter visiting the ancient sites, head to the city center. Parking garages are a good choice in winter to keep the car ice-free.\n\nAt midday, explore the Muralla. The winter sun makes the city walls shine in bright light before we warm up in a restaurant.\n\nThe afternoon ends at the museum and in the winter park before the drive back through illuminated Lugo.",
+            "es": "Comienza un día claro de invierno. El climatizador del coche asegura un inicio agradable mientras conducimos al Puente Romano.\n\nTras visitar los yacimientos, dirígete al centro. Los garajes son buena opción en invierno para mantener el coche libre de hielo.\n\nAl mediodía, explora la Muralla. El sol invernal hace brillar las murallas antes de entrar a comer en un restaurante para entrar en calor.\n\nLa tarde termina en el museo y en el parque invernal antes de volver conduciendo por un Lugo iluminado."
           },
           "stops": [
             {
@@ -1634,7 +1770,8 @@
                 "de": "Achten Sie auf mögliche Glätte auf den Zufahrtswegen zum Fluss.",
                 "hu": "Ügyeljen az esetleges jegesedésre a folyóhoz vezető utakon.",
                 "ro": "Atenție la posibila polei pe drumurile de acces către râu.",
-                "en": "Watch out for potential ice on the access roads to the river."
+                "en": "Watch out for potential ice on the access roads to the river.",
+                "es": "Cuidado con posibles placas de hielo en los accesos al río."
               }
             },
             {
@@ -1643,7 +1780,8 @@
                 "de": "Der Aufenthalt im Freien ist kurz; nutzen Sie die Wärme des Autos danach.",
                 "hu": "A kinti tartózkodás rövid; használja utána az autó melegét.",
                 "ro": "Șederea afară este scurtă; folosiți căldura mașinii după aceea.",
-                "en": "Outdoor stay is brief; enjoy the warmth of the car afterward."
+                "en": "Outdoor stay is brief; enjoy the warmth of the car afterward.",
+                "es": "La estancia al aire libre es breve; disfruta del calor del coche después."
               }
             },
             {
@@ -1652,7 +1790,8 @@
                 "de": "Tiefgaragen sind oft etwas wärmer als Außenparkplätze.",
                 "hu": "A mélygarázsok gyakran kicsit melegebbek, mint a kültéri parkolók.",
                 "ro": "Parcările subterane sunt adesea ceva mai calde decât cele exterioare.",
-                "en": "Underground garages are often slightly warmer than outdoor lots."
+                "en": "Underground garages are often slightly warmer than outdoor lots.",
+                "es": "Los garajes subterráneos suelen estar algo más cálidos que los aparcamientos al aire libre."
               }
             },
             {
@@ -1661,7 +1800,8 @@
                 "de": "Planen Sie den Mauerbesuch um die Mittagszeit (ca. 13 Uhr) für Wärme.",
                 "hu": "Tervezze a fallátogatást délidőre (kb. 13 óra) a meleg miatt.",
                 "ro": "Planificați vizita pe zid în jurul prânzului (aprox. ora 13) pentru căldură.",
-                "en": "Plan the wall visit around midday (approx. 1 PM) for maximum warmth."
+                "en": "Plan the wall visit around midday (approx. 1 PM) for maximum warmth.",
+                "es": "Programa la visita a la muralla sobre el mediodía (aprox. 13:00) para aprovechar el calor."
               }
             },
             {
@@ -1670,7 +1810,8 @@
                 "de": "In der Innenstadt gibt es viele beheizte Gasträume.",
                 "hu": "A belvárosban sok fűtött vendégtér található.",
                 "ro": "În centrul orașului există multe spații de luat masa încălzite.",
-                "en": "There are many heated dining areas in the city center."
+                "en": "There are many heated dining areas in the city center.",
+                "es": "Hay muchas zonas de restauración calefactadas en el centro."
               }
             },
             {
@@ -1679,7 +1820,8 @@
                 "de": "Kurzer Spaziergang im Park, dann Rückkehr zum vorgewärmten Auto.",
                 "hu": "Rövid séta a parkban, majd visszatérés az előmelegített autóhoz.",
                 "ro": "O scurtă plimbare în parc, apoi revenirea la mașina preîncălzită.",
-                "en": "A quick walk in the park, then return to the pre-warmed car."
+                "en": "A quick walk in the park, then return to the pre-warmed car.",
+                "es": "Un paseo rápido por el parque y luego vuelve al coche ya precalentado."
               }
             }
           ],
@@ -1711,6 +1853,13 @@
               "Battery performance can drop in the cold; carry charging cables.",
               "Ensure you have anti-freeze windshield washer fluid.",
               "Old town parking garages are tight; maneuver with care."
+            ],
+            "es": [
+              "Se aconsejan neumáticos de invierno en Galicia cuando hay riesgo de heladas.",
+              "Evita aparcar bajo árboles en el parque (riesgo de hielo caído).",
+              "El rendimiento de la batería puede bajar con el frío; lleva cables de carga.",
+              "Asegúrate de llevar líquido limpiaparabrisas con antiheladas.",
+              "Los garajes del casco antiguo son estrechos; maniobra con cuidado."
             ]
           }
         }
@@ -1729,7 +1878,8 @@
             "de": "Ankunft im Stadtzentrum (Bushaltestelle Ronda da Muralla)",
             "hu": "Érkezés a központba (Ronda da Muralla buszmegálló)",
             "ro": "Sosire în centrul orașului (stația de autobuz Ronda da Muralla)",
-            "en": "Arrival at City Center (Ronda da Muralla bus stop)"
+            "en": "Arrival at City Center (Ronda da Muralla bus stop)",
+            "es": "Llegada al Centro (parada de bus Ronda da Muralla)"
           },
           "coords": [
             -7.554,
@@ -1745,7 +1895,8 @@
             "de": "Viele Buslinien halten hier, ein idealer Ausgangspunkt.",
             "hu": "Számos buszjárat megáll itt, ideális kiindulópont.",
             "ro": "Multe linii de autobuz opresc aici, un punct de plecare ideal.",
-            "en": "Many bus lines stop here, making it an ideal starting point."
+            "en": "Many bus lines stop here, making it an ideal starting point.",
+            "es": "Muchas líneas de autobús paran aquí, lo que lo convierte en un punto de partida ideal."
           }
         },
         {
@@ -1753,7 +1904,8 @@
             "de": "Plaza Mayor & Kathedrale",
             "hu": "Plaza Mayor és székesegyház",
             "ro": "Plaza Mayor și Catedrala",
-            "en": "Plaza Mayor & Cathedral"
+            "en": "Plaza Mayor & Cathedral",
+            "es": "Plaza Mayor y Catedral"
           },
           "coords": [
             -7.5567,
@@ -1769,7 +1921,8 @@
             "de": "Beginnen Sie Ihren Rundgang im Herzen der Altstadt.",
             "hu": "Kezdje a gyalogtúrát az óváros szívében.",
             "ro": "Începeți turul pietonal în inima orașului vechi.",
-            "en": "Start your walking tour in the heart of the old town."
+            "en": "Start your walking tour in the heart of the old town.",
+            "es": "Comienza tu paseo a pie en el corazón del casco antiguo."
           }
         },
         {
@@ -1777,7 +1930,8 @@
             "de": "Römische Mauern & Provinzialmuseum",
             "hu": "Római falak és Tartományi Múzeum",
             "ro": "Zidurile Romane și Muzeul Provincial",
-            "en": "Roman Walls & Provincial Museum"
+            "en": "Roman Walls & Provincial Museum",
+            "es": "Murallas Romanas y Museo Provincial"
           },
           "coords": [
             -7.555,
@@ -1793,7 +1947,8 @@
             "de": "Erklimmen Sie die Mauern für eine großartige Aussicht, bevor Sie das Museum besuchen.",
             "hu": "Másszon fel a falakra a remek kilátásért, mielőtt meglátogatja a múzeumot.",
             "ro": "Urcați pe ziduri pentru o priveliște minunată înainte de a vizita muzeul.",
-            "en": "Climb the walls for a great view before visiting the museum."
+            "en": "Climb the walls for a great view before visiting the museum.",
+            "es": "Sube a las murallas para una gran vista antes de visitar el museo."
           }
         },
         {
@@ -1801,7 +1956,8 @@
             "de": "Busfahrt zum Fluss",
             "hu": "Buszozás a folyóhoz",
             "ro": "Călătorie cu autobuzul spre râu",
-            "en": "Bus ride to the river"
+            "en": "Bus ride to the river",
+            "es": "Trayecto en autobús hacia el río"
           },
           "coords": [
             -7.56,
@@ -1817,7 +1973,8 @@
             "de": "Nehmen Sie einen Bus von der Ronda da Muralla in Richtung des Flusses Miño.",
             "hu": "Menjen busszal a Ronda da Murallától a Miño folyó irányába.",
             "ro": "Luați un autobuz de la Ronda da Muralla spre râul Miño.",
-            "en": "Take a bus from Ronda da Muralla towards the Miño river."
+            "en": "Take a bus from Ronda da Muralla towards the Miño river.",
+            "es": "Toma un autobús desde Ronda da Muralla hacia el río Miño."
           }
         },
         {
@@ -1825,7 +1982,8 @@
             "de": "Römische Brücke & Thermen",
             "hu": "Római híd és fürdők",
             "ro": "Podul Roman și Termele",
-            "en": "Roman Bridge & Baths"
+            "en": "Roman Bridge & Baths",
+            "es": "Puente Romano y Termas"
           },
           "coords": [
             -7.5612,
@@ -1841,7 +1999,8 @@
             "de": "Erkunden Sie die antiken Stätten am Flussufer.",
             "hu": "Fedezze fel a folyóparti ókori helyszíneket.",
             "ro": "Explorați siturile antice de pe malul râului.",
-            "en": "Explore the ancient sites on the riverbank."
+            "en": "Explore the ancient sites on the riverbank.",
+            "es": "Explora los antiguos yacimientos en la orilla del río."
           }
         },
         {
@@ -1849,7 +2008,8 @@
             "de": "Parque de Rosalía de Castro",
             "hu": "Rosalía de Castro Park",
             "ro": "Parcul Rosalía de Castro",
-            "en": "Rosalía de Castro Park"
+            "en": "Rosalía de Castro Park",
+            "es": "Parque Rosalía de Castro"
           },
           "coords": [
             -7.5528,
@@ -1865,7 +2025,8 @@
             "de": "Ein entspannender Spaziergang den Hügel hinauf zum Park, um den Tag ausklingen zu lassen.",
             "hu": "Egy pihentető séta fel a dombra a parkba a nap lezárásaként.",
             "ro": "O plimbare relaxantă pe deal până la parc pentru a încheia ziua.",
-            "en": "A relaxing walk up the hill to the park to end the day."
+            "en": "A relaxing walk up the hill to the park to end the day.",
+            "es": "Un paseo relajante cuesta arriba hasta el parque para terminar el día."
           }
         }
       ],
@@ -1873,7 +2034,8 @@
         "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Lugo in zwei Etappen. Sie starten im Zentrum, wo Sie die Plaza Mayor, die Kathedrale, die Römischen Mauern und das Provinzialmuseum bequem zu Fuß erreichen. Nach dem Mittagessen in der Altstadt nehmen Sie einen Bus zum Fluss Miño. Dort erwartet Sie der zweite Teil Ihres Tages: ein Spaziergang zur Römischen Brücke und den Thermen, gefolgt von einem entspannten Aufstieg zum Parque de Rosalía de Castro mit seiner herrlichen Aussicht.",
         "hu": "Tömegközlekedéssel két szakaszban fedezheti fel Lugót. A központban kezdi, ahol gyalogosan kényelmesen elérhető a Plaza Mayor, a katedrális, a római falak és a Tartományi Múzeum. Az óvárosban elköltött ebéd után buszra száll a Miño folyóhoz. Ott várja a nap második része: séta a római hídhoz és a fürdőkhöz, majd egy pihentető séta fel a csodálatos kilátást nyújtó Rosalía de Castro parkba.",
         "ro": "Folosind transportul public, explorați Lugo în două etape. Începeți în centru, unde puteți ajunge cu ușurință pe jos la Plaza Mayor, catedrală, Zidurile Romane și Muzeul Provincial. După prânz în orașul vechi, luați un autobuz spre râul Miño. Acolo vă așteaptă a doua parte a zilei: o plimbare la Podul Roman și la terme, urmată de o urcare relaxantă spre Parcul Rosalía de Castro, cu priveliștile sale magnifice.",
-        "en": "Using public transport, you'll explore Lugo in two stages. You start in the center, where you can easily walk to Plaza Mayor, the cathedral, the Roman Walls, and the Provincial Museum. After lunch in the old town, you take a bus to the Miño River. There, the second part of your day awaits: a walk to the Roman Bridge and baths, followed by a relaxing climb to Rosalía de Castro Park with its magnificent views."
+        "en": "Using public transport, you'll explore Lugo in two stages. You start in the center, where you can easily walk to Plaza Mayor, the cathedral, the Roman Walls, and the Provincial Museum. After lunch in the old town, you take a bus to the Miño River. There, the second part of your day awaits: a walk to the Roman Bridge and baths, followed by a relaxing climb to Rosalía de Castro Park with its magnificent views.",
+        "es": "Usando transporte público, explorarás Lugo en dos etapas. Empiezas en el centro, desde donde puedes caminar fácilmente a la Plaza Mayor, la catedral, las Murallas Romanas y el Museo Provincial. Tras comer en el casco antiguo, tomas un autobús al río Miño. Allí te espera la segunda parte del día: paseo hasta el Puente Romano y las termas, seguido de una relajada subida al Parque Rosalía de Castro con sus magníficas vistas."
       },
       "gastro_picks": {
         "de": [
@@ -2069,6 +2231,12 @@
           "Check bus schedules in advance, especially for late evening services.",
           "The Google Maps app usually provides reliable public transport information for Lugo.",
           "Be prepared to walk between sights within a cluster."
+        ],
+        "es": [
+          "Compra una tarjeta de autobús recargable para tarifas más económicas.",
+          "Consulta los horarios de autobús con antelación, especialmente para servicios nocturnos.",
+          "La aplicación Google Maps suele ofrecer información fiable de transporte público en Lugo.",
+          "Prepárate para caminar entre los puntos de interés dentro de cada grupo."
         ]
       },
       "variants": {
@@ -2077,7 +2245,8 @@
             "de": "Ankunft an der Ronda da Muralla. Die überdachten Bushaltestellen bieten Schutz, während wir auf die Altstadt blicken.\n\nMittags erkunden wir die Kathedrale. Die kurzen Wege zwischen den Sehenswürdigkeiten im Zentrum minimieren die Zeit im Regen.\n\nNachmittags nutzen wir den Bus zum Flussufer. Die Fahrt bietet einen trockenen Blick auf die Stadtmauer, bevor wir die Brücke und Bäder besichtigen.\n\nDer Tag endet mit einer Busfahrt zurück ins Zentrum, wobei wir den Rosalía-Park nur kurz streifen, um trocken zu bleiben.",
             "hu": "Érkezés a Ronda da Murallához. A fedett buszmegállók védelmet nyújtanak, miközben az óvárosra tekintünk.\n\nDélben felfedezzük a katedrálist. A központi látnivalók közötti rövid távolságok minimalizálják az esőben töltött időt.\n\nDélután busszal megyünk a folyópartra. Az utazás száraz kilátást biztosít a városfalra, mielőtt megnéznénk a hidat és a fürdőket.\n\nA nap buszos visszatéréssel zárul a központba, a Rosalía parkot csak érintjük, hogy szárazon maradjunk.",
             "ro": "Sosire la Ronda da Muralla. Stațiile de autobuz acoperite oferă adăpost în timp ce privim spre centrul vechi.\n\nLa prânz explorăm catedrala. Distanțele scurte între obiectivele din centru minimizează timpul petrecut în ploaie.\n\nDupă-amiaza folosim autobuzul către malul râului. Călătoria oferă o vedere uscată asupra zidului orașului, înainte de a vizita podul și băile.\n\nZiua se încheie cu o călătorie cu autobuzul înapoi în centru, trecând doar scurt prin parcul Rosalía pentru a rămâne uscați.",
-            "en": "Arrival at Ronda da Muralla. The sheltered bus stops provide cover while we look toward the old town.\n\nAt midday, explore the Cathedral. The short distances between central sights minimize time spent in the rain.\n\nIn the afternoon, take the bus to the riverbank. The ride offers a dry view of the city walls before visiting the bridge and baths.\n\nThe day ends with a bus ride back to the center, only briefly passing through Rosalía Park to stay dry."
+            "en": "Arrival at Ronda da Muralla. The sheltered bus stops provide cover while we look toward the old town.\n\nAt midday, explore the Cathedral. The short distances between central sights minimize time spent in the rain.\n\nIn the afternoon, take the bus to the riverbank. The ride offers a dry view of the city walls before visiting the bridge and baths.\n\nThe day ends with a bus ride back to the center, only briefly passing through Rosalía Park to stay dry.",
+            "es": "Llegada a Ronda da Muralla. Las marquesinas de la parada ofrecen cobijo mientras miramos hacia el casco antiguo.\n\nAl mediodía, explora la Catedral. Las cortas distancias entre los monumentos centrales reducen el tiempo bajo la lluvia.\n\nPor la tarde, toma el autobús al paseo ribereño. El trayecto ofrece una vista seca de las murallas antes de visitar el puente y las termas.\n\nEl día termina con el regreso en autobús al centro, pasando brevemente por el Parque Rosalía para permanecer lo más seco posible."
           },
           "stops": [
             {
@@ -2086,7 +2255,8 @@
                 "de": "Warten Sie unter dem Haltestellendach auf den Anschluss.",
                 "hu": "Várja a csatlakozást a megálló fedele alatt.",
                 "ro": "Așteptați legătura sub copertina stației.",
-                "en": "Wait for your connection under the bus stop shelter."
+                "en": "Wait for your connection under the bus stop shelter.",
+                "es": "Espera la conexión bajo la marquesina de la parada."
               }
             },
             {
@@ -2095,7 +2265,8 @@
                 "de": "Sehr kurze Wege zwischen den Bushaltestellen und den Gebäuden.",
                 "hu": "Nagyon rövid utak a buszmegállók és az épületek között.",
                 "ro": "Distanțe foarte scurte între stațiile de autobuz și clădiri.",
-                "en": "Very short distances between the bus stops and the buildings."
+                "en": "Very short distances between the bus stops and the buildings.",
+                "es": "Distancias muy cortas entre las paradas de bus y los edificios."
               }
             },
             {
@@ -2104,7 +2275,8 @@
                 "de": "Haltestelle direkt am Museumseingang vorhanden.",
                 "hu": "Buszmegálló közvetlenül a múzeumbemenetnél.",
                 "ro": "Stație de autobuz disponibilă chiar la intrarea în muzeu.",
-                "en": "A bus stop is available right at the museum entrance."
+                "en": "A bus stop is available right at the museum entrance.",
+                "es": "Hay una parada justo en la entrada del museo."
               }
             },
             {
@@ -2113,7 +2285,8 @@
                 "de": "Nutzen Sie die Linie 4 oder 5 für den Weg zum Fluss.",
                 "hu": "Használja a 4-es vagy 5-ös vonalat a folyóhoz jutáshoz.",
                 "ro": "Folosiți linia 4 sau 5 pentru a ajunge la râu.",
-                "en": "Use line 4 or 5 for the journey to the river."
+                "en": "Use line 4 or 5 for the journey to the river.",
+                "es": "Usa la línea 4 o 5 para el trayecto al río."
               }
             },
             {
@@ -2122,7 +2295,8 @@
                 "de": "Die Haltestelle ist nah an den Thermen, wenig Gehzeit im Regen.",
                 "hu": "A megálló közel van a termálfürdőhöz, kevés gyaloglás az esőben.",
                 "ro": "Stația este aproape de terme, puțin de mers pe jos prin ploaie.",
-                "en": "The stop is close to the thermal baths, minimizing walking in the rain."
+                "en": "The stop is close to the thermal baths, minimizing walking in the rain.",
+                "es": "La parada está cerca de las termas, minimizando la caminata bajo la lluvia."
               }
             },
             {
@@ -2131,7 +2305,8 @@
                 "de": "Einige Buslinien halten direkt am Parkeingang.",
                 "hu": "Néhány buszvonal közvetlenül a parkbejáratnál áll meg.",
                 "ro": "Unele linii de autobuz opresc chiar la intrarea în parc.",
-                "en": "Some bus lines stop right at the park entrance."
+                "en": "Some bus lines stop right at the park entrance.",
+                "es": "Algunas líneas paran justo en la entrada del parque."
               }
             }
           ],
@@ -2163,6 +2338,13 @@
               "Buses are well-heated and comfortable in winter.",
               "Buses may be slightly delayed due to traffic on rainy days.",
               "Stops along the Muralla are the most well-equipped."
+            ],
+            "es": [
+              "Consigue la 'Tarjeta Ciudadana' para tarifas más baratas.",
+              "La app 'LugoBus' muestra llegadas en tiempo real durante la lluvia.",
+              "Los autobuses están bien calefactados y son cómodos en invierno.",
+              "Los autobuses pueden sufrir ligeros retrasos por tráfico en días lluviosos.",
+              "Las paradas a lo largo de la Muralla están mejor equipadas."
             ]
           }
         },
@@ -2171,7 +2353,8 @@
             "de": "Start an der verschneiten oder frostigen Ronda da Muralla. Der Bus bringt uns bequem in die Nähe der Plaza Mayor.\n\nMittags erkunden wir die historischen Stätten. Die kurzen Busintervalle ermöglichen es, die Zeit im Freien gering zu halten.\n\nNachmittags führt die Fahrt hinunter zum Fluss. Die beheizten Busse sind ein Segen nach dem windigen Rundgang auf der Stadtmauer.\n\nZum Abschluss genießen wir die Aussicht auf die beleuchtete römische Brücke, bevor uns der Bus zurück in die warme Unterkunft bringt.",
             "hu": "Kezdés a havas vagy fagyos Ronda da Murallánál. A busz kényelmesen a Plaza Mayor közelébe visz minket.\n\nDélben felfedezzük a történelmi helyszíneket. A gyakori buszjáratok lehetővé teszik a kint töltött idő minimalizálását.\n\nDélután az út levezet a folyóhoz. A fűtött buszok áldást jelentenek a szeles városfali séta után.\n\nZárásként élvezzük a kivilágított római híd látványát, mielőtt a busz visszavisz a meleg szállásunkra.",
             "ro": "Început la Ronda da Muralla înzăpezită sau înghețată. Autobuzul ne duce confortabil aproape de Plaza Mayor.\n\nLa prânz explorăm siturile istorice. Intervalele scurte ale autobuzelor permit reducerea timpului petrecut afară.\n\nDupă-amiaza drumul duce jos la râu. Autobuzele încălzite sunt o binecuvântare după plimbarea vântoasă pe zidul orașului.\n\nLa final ne bucurăm de vederea podului roman iluminat, înainte ca autobuzul să ne ducă înapoi la cazarea călduroasă.",
-            "en": "Start at the snowy or frosty Ronda da Muralla. The bus takes us comfortably close to Plaza Mayor.\n\nAt midday, explore the historical sites. Frequent bus intervals allow us to keep outdoor time to a minimum.\n\nIn the afternoon, the route leads down to the river. Heated buses are a blessing after a windy walk along the city walls.\n\nTo conclude, enjoy the view of the illuminated Roman Bridge before the bus takes us back to our warm accommodation."
+            "en": "Start at the snowy or frosty Ronda da Muralla. The bus takes us comfortably close to Plaza Mayor.\n\nAt midday, explore the historical sites. Frequent bus intervals allow us to keep outdoor time to a minimum.\n\nIn the afternoon, the route leads down to the river. Heated buses are a blessing after a windy walk along the city walls.\n\nTo conclude, enjoy the view of the illuminated Roman Bridge before the bus takes us back to our warm accommodation.",
+            "es": "Comienza en la nevada o helada Ronda da Muralla. El autobús nos acerca cómodamente a la Plaza Mayor.\n\nAl mediodía, explora los sitios históricos. La frecuencia de paso permite minimizar el tiempo al aire libre.\n\nPor la tarde, la ruta baja hasta el río. Los autobuses calefactados son una bendición tras un paseo ventoso por las murallas.\n\nPara acabar, disfruta de la vista del Puente Romano iluminado antes de que el autobús nos lleve de vuelta a nuestro alojamiento cálido."
           },
           "stops": [
             {
@@ -2180,7 +2363,8 @@
                 "de": "Tragen Sie warme Kleidung für die Wartezeit an der Haltestelle.",
                 "hu": "Viseljen meleg ruhát a megállóban való várakozáshoz.",
                 "ro": "Purtați haine groase pentru timpul de așteptare în stație.",
-                "en": "Wear warm clothing for the wait at the bus stop."
+                "en": "Wear warm clothing for the wait at the bus stop.",
+                "es": "Viste ropa abrigada para la espera en la parada de autobús."
               }
             },
             {
@@ -2189,7 +2373,8 @@
                 "de": "Die Busse halten zentral; wenig Gehzeit in der Kälte.",
                 "hu": "A buszok központilag állnak meg; kevés gyaloglás a hidegben.",
                 "ro": "Autobuzele opresc central; puțin de mers pe jos prin frig.",
-                "en": "Buses stop centrally, so there's little walking in the cold."
+                "en": "Buses stop centrally, so there's little walking in the cold.",
+                "es": "Los autobuses paran en el centro, por lo que hay poca caminata en frío."
               }
             },
             {
@@ -2198,7 +2383,8 @@
                 "de": "Nutzen Sie den Bus, um zwischen den Maueraufgängen zu wechseln.",
                 "hu": "Használja a buszt a falfeljárók közötti váltáshoz.",
                 "ro": "Folosiți autobuzul pentru a vă deplasa între rampele de acces la zid.",
-                "en": "Use the bus to move between different access points of the wall."
+                "en": "Use the bus to move between different access points of the wall.",
+                "es": "Usa el autobús para moverte entre diferentes accesos a la muralla."
               }
             },
             {
@@ -2207,7 +2393,8 @@
                 "de": "Die Fahrt bergab ist im warmen Bus sehr entspannend.",
                 "hu": "A lefelé menet a meleg buszban nagyon pihentető.",
                 "ro": "Călătoria la vale în autobuzul încălzit este foarte relaxantă.",
-                "en": "The downhill ride in a warm bus is very relaxing."
+                "en": "The downhill ride in a warm bus is very relaxing.",
+                "es": "El viaje cuesta abajo en un autobús caliente es muy relajante."
               }
             },
             {
@@ -2216,7 +2403,8 @@
                 "de": "Prüfen Sie die Rückfahrzeiten vorab; abends fahren Busse seltener.",
                 "hu": "Ellenőrizze előre a visszautat; este a buszok ritkábban járnak.",
                 "ro": "Verificați din timp orele de întoarcere; seara autobuzele circulă mai rar.",
-                "en": "Check return times in advance; buses run less frequently in the evening."
+                "en": "Check return times in advance; buses run less frequently in the evening.",
+                "es": "Comprueba los horarios de regreso con antelación; los autobuses pasan menos por la noche."
               }
             },
             {
@@ -2225,7 +2413,8 @@
                 "de": "Haltestellen sind gut beleuchtet und sicher.",
                 "hu": "A megállók jól megvilágítottak és biztonságosak.",
                 "ro": "Stațiile sunt bine luminate și sigure.",
-                "en": "Bus stops are well-lit and safe."
+                "en": "Bus stops are well-lit and safe.",
+                "es": "Las paradas de autobús están bien iluminadas y son seguras."
               }
             }
           ],
@@ -2257,6 +2446,13 @@
               "Keep small change ready in case your card doesn't work.",
               "Use the seats in the rear of the bus for more warmth.",
               "The 'Porta de Santiago' stop is ideal for the Cathedral."
+            ],
+            "es": [
+              "Tomar el autobús es la opción más cálida en Lugo durante el invierno.",
+              "Consulta los horarios de fin de semana; la frecuencia puede disminuir en invierno.",
+              "Lleva cambio por si la tarjeta no funciona.",
+              "Usa los asientos de la parte trasera del autobús para más calor.",
+              "La parada 'Porta de Santiago' es ideal para la Catedral."
             ]
           }
         }

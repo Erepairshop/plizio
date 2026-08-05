@@ -21,7 +21,8 @@
             "de": "Pasaje de Lodares",
             "hu": "Pasaje de Lodares",
             "ro": "Pasajul Lodares",
-            "en": "Pasaje de Lodares"
+            "en": "Pasaje de Lodares",
+            "es": "Pasaje de Lodares"
           },
           "coords": [
             -1.855,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Jugendstilarchitektur und die Eisen- und Glaskonstruktion.",
             "hu": "Csodálja meg a szecessziós építészetet és a vas-üveg szerkezetet.",
             "ro": "Admirați arhitectura Art Nouveau și structura sa de fier și sticlă.",
-            "en": "Admire the Art Nouveau architecture and its iron and glass structure."
+            "en": "Admire the Art Nouveau architecture and its iron and glass structure.",
+            "es": "Admira la arquitectura modernista y su estructura de hierro y vidrio."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kathedrale San Juan Bautista",
             "hu": "Keresztelő Szent János-katedrális",
             "ro": "Catedrala San Juan Bautista",
-            "en": "Cathedral of San Juan Bautista"
+            "en": "Cathedral of San Juan Bautista",
+            "es": "Catedral de San Juan Bautista"
           },
           "coords": [
             -1.858,
@@ -59,7 +62,8 @@
             "de": "Suchen Sie nach den einzigartigen Ölgemälden an den Wänden anstelle von traditionellen Buntglasfenstern.",
             "hu": "Keresse a falakon lévő egyedi olajfestményeket a hagyományos ólomüveg ablakok helyett.",
             "ro": "Căutați picturile unice în ulei de pe pereți, în locul vitraliilor tradiționale.",
-            "en": "Look for the unique oil paintings on the walls instead of traditional stained glass."
+            "en": "Look for the unique oil paintings on the walls instead of traditional stained glass.",
+            "es": "Busca las pinturas al óleo únicas en las paredes en lugar de las tradicionales vidrieras."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Messer-Museum (Museo de la Cuchillería)",
             "hu": "Késmúzeum (Museo de la Cuchillería)",
             "ro": "Muzeul Cuțitelor (Museo de la Cuchillería)",
-            "en": "Museum of Cutlery (Museo de la Cuchillería)"
+            "en": "Museum of Cutlery (Museo de la Cuchillería)",
+            "es": "Museo de la Cuchillería"
           },
           "coords": [
             -1.859,
@@ -82,7 +87,8 @@
             "de": "Verpassen Sie nicht die Vorführungen der Messerschmiedekunst, falls verfügbar.",
             "hu": "Ne hagyja ki a késkészítő bemutatókat, ha elérhetők.",
             "ro": "Nu ratați demonstrațiile de făurire a cuțitelor, dacă sunt disponibile.",
-            "en": "Don't miss the cutlery-making demonstrations if available."
+            "en": "Don't miss the cutlery-making demonstrations if available.",
+            "es": "No te pierdas las demostraciones de fabricación de cuchillos si están disponibles."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Depósitos del Sol",
             "hu": "Depósitos del Sol",
             "ro": "Depósitos del Sol",
-            "en": "Depósitos del Sol"
+            "en": "Depósitos del Sol",
+            "es": "Depósitos del Sol"
           },
           "coords": [
             -1.861,
@@ -105,7 +112,8 @@
             "de": "Heute ein Kulturzentrum; prüfen Sie den Veranstaltungskalender für Ausstellungen.",
             "hu": "Ma kulturális központ; nézze meg a programnaptárt a kiállításokért.",
             "ro": "Acum este un centru cultural; verificați programul pentru expoziții.",
-            "en": "Now a cultural center; check the schedule for exhibitions."
+            "en": "Now a cultural center; check the schedule for exhibitions.",
+            "es": "Ahora centro cultural; consulta la programación de exposiciones."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Teatro Circo",
             "hu": "Teatro Circo",
             "ro": "Teatro Circo",
-            "en": "Teatro Circo"
+            "en": "Teatro Circo",
+            "es": "Teatro Circo"
           },
           "coords": [
             -1.865,
@@ -128,7 +137,8 @@
             "de": "Bewundern Sie die neo-mudéjarische Architektur, auch wenn Sie keine Vorstellung besuchen.",
             "hu": "Csodálja meg a neo-mudéjar építészetet, még ha nem is megy előadásra.",
             "ro": "Admirați arhitectura neo-mudéjară chiar dacă nu participați la un spectacol.",
-            "en": "Admire the Neo-Mudéjar architecture even if not attending a show."
+            "en": "Admire the Neo-Mudéjar architecture even if not attending a show.",
+            "es": "Admira la arquitectura neo-mudéjar aunque no asistas a una función."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Abelardo-Sánchez-Park",
             "hu": "Abelardo Sánchez park",
             "ro": "Parcul Abelardo Sánchez",
-            "en": "Abelardo Sánchez Park"
+            "en": "Abelardo Sánchez Park",
+            "es": "Parque Abelardo Sánchez"
           },
           "coords": [
             -1.86,
@@ -151,7 +162,8 @@
             "de": "Der perfekte Ort für eine Mittagspause oder um dem Stadttrubel zu entfliehen.",
             "hu": "Tökéletes hely egy déli pihenőre vagy a városi nyüzsgésből való elmenekülésre.",
             "ro": "Locul perfect pentru o pauză de prânz sau pentru a scăpa de agitația orașului.",
-            "en": "The perfect spot for a midday break or to escape the city bustle."
+            "en": "The perfect spot for a midday break or to escape the city bustle.",
+            "es": "El lugar perfecto para un descanso al mediodía o para escapar del bullicio urbano."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Plaza de Toros",
             "hu": "Plaza de Toros",
             "ro": "Plaza de Toros",
-            "en": "Plaza de Toros"
+            "en": "Plaza de Toros",
+            "es": "Plaza de Toros"
           },
           "coords": [
             -1.847,
@@ -174,7 +187,8 @@
             "de": "Auch außerhalb der Stierkampfsaison wegen seiner einzigartigen Architektur einen Besuch wert.",
             "hu": "A bikaviadal-szezonon kívül is érdemes megnézni egyedi építészete miatt.",
             "ro": "Merită vizitată și în afara sezonului coridelor pentru arhitectura sa unică.",
-            "en": "Worth visiting even outside the bullfighting season for its unique architecture."
+            "en": "Worth visiting even outside the bullfighting season for its unique architecture.",
+            "es": "Vale la pena visitarla fuera de la temporada taurina por su arquitectura única."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Ihr Tag in Albacete beginnt in der eleganten Pasaje de Lodares, die Sie zur beeindruckenden Kathedrale führt. Nach einem tiefen Einblick in die berühmte Messertradition der Stadt im Museo de la Cuchillería erkunden Sie das kulturelle Erbe im Depósitos del Sol und am Teatro Circo. Am Nachmittag entspannen Sie im grünen Abelardo-Sánchez-Park, bevor Sie Ihren Spaziergang an der historischen Stierkampfarena ausklingen lassen.",
         "hu": "Az albacetei napja az elegáns Pasaje de Lodares-ben kezdődik, amely a lenyűgöző katedrálishoz vezet. Miután elmélyült a város híres késműves hagyományaiban a Késmúzeumban, felfedezi a Depósitos del Sol és a Teatro Circo kulturális örökségét. Délután az Abelardo Sánchez park zöldjében pihenhet, mielőtt sétáját a történelmi bikaviadal-arénánál fejezi be.",
         "ro": "Ziua dvs. în Albacete începe în elegantul Pasaj Lodares, care vă duce la impresionanta Catedrală. După o incursiune în faimoasa tradiție a cuțitelor din oraș la Muzeul Cuțitelor, explorați moștenirea culturală la Depósitos del Sol și Teatro Circo. După-amiaza vă relaxați în verdele Parc Abelardo Sánchez înainte de a încheia plimbarea la istorica arenă de coride.",
-        "en": "Your day in Albacete begins at the elegant Pasaje de Lodares, leading you to the impressive Cathedral. After a deep dive into the city's famous cutlery tradition at the Museum of Cutlery, you'll explore the cultural heritage at Depósitos del Sol and Teatro Circo. In the afternoon, relax in the green Abelardo Sánchez Park before ending your walk at the historic bullring."
+        "en": "Your day in Albacete begins at the elegant Pasaje de Lodares, leading you to the impressive Cathedral. After a deep dive into the city's famous cutlery tradition at the Museum of Cutlery, you'll explore the cultural heritage at Depósitos del Sol and Teatro Circo. In the afternoon, relax in the green Abelardo Sánchez Park before ending your walk at the historic bullring.",
+        "es": "Tu día en Albacete comienza en el elegante Pasaje de Lodares y te lleva a la imponente Catedral. Tras profundizar en la famosa tradición cuchillera en el Museo de la Cuchillería, explorarás el patrimonio cultural en Depósitos del Sol y el Teatro Circo. Por la tarde, relájate en el verde Parque Abelardo Sánchez antes de terminar la caminata en la histórica plaza de toros."
       },
       "gastro_picks": {
         "de": [
@@ -358,6 +373,12 @@
           "Most central sights are within easy walking distance.",
           "Plan for a longer lunch break as many shops observe a siesta.",
           "Keep an eye on your belongings in busy squares."
+        ],
+        "es": [
+          "Lleva calzado cómodo, estarás de pie todo el día.",
+          "La mayoría de los principales puntos están a poca distancia a pie.",
+          "Planifica una comida larga; muchas tiendas observan la siesta.",
+          "Vigila tus pertenencias en plazas concurridas."
         ]
       },
       "variants": {
@@ -366,7 +387,8 @@
             "de": "Beginnen Sie den Tag in der Pasaje de Lodares, deren Glasdach perfekten Schutz bietet. Mittags finden Sie in der Kathedrale trockene Stille. Den Nachmittag verbringen Sie im Messer-Museum, weit weg vom Regen. Abends leuchten die nassen Straßen rund um die Plaza de Toros besonders stimmungsvoll im Licht der Laternen.",
             "hu": "A napot a Pasaje de Lodares üvegtetős passzázsában kezdje, ahol az eső nem érheti el. Délben a katedrális belső tere nyújt menedéket. A délutánt a Késmúzeum száraz falai között töltse, ismerkedve a helyi iparral. Este az esőáztatta utcák és a Bikaviadal-tér fényei különleges, csillogó hangulatot árasztanak.",
             "ro": "Începeți ziua în Pasaje de Lodares, unde acoperișul de sticlă oferă protecție perfectă. La prânz, interiorul catedralei oferă un refugiu uscat. Petreceți după-amiaza în Muzeul de Cuțite, ferit de ploaie. Seara, străzile ude din jurul Plaza de Toros strălucesc spectaculos sub luminile felinarelor.",
-            "en": "Start your day in Pasaje de Lodares, where the glass roof provides perfect shelter. At noon, find dry sanctuary inside the Cathedral. Spend the afternoon within the dry walls of the Cutlery Museum. In the evening, the rain-slicked streets around the Plaza de Toros glow beautifully under the streetlights."
+            "en": "Start your day in Pasaje de Lodares, where the glass roof provides perfect shelter. At noon, find dry sanctuary inside the Cathedral. Spend the afternoon within the dry walls of the Cutlery Museum. In the evening, the rain-slicked streets around the Plaza de Toros glow beautifully under the streetlights.",
+            "es": "Comienza el día en el Pasaje de Lodares, donde la cubierta de vidrio ofrece un refugio perfecto. Al mediodía, encuentra un santuario seco dentro de la Catedral. Pasa la tarde dentro de las paredes secas del Museo de la Cuchillería. Por la noche, las calles empapadas alrededor de la Plaza de Toros brillan hermosamente bajo las farolas."
           },
           "stops": [
             {
@@ -375,7 +397,8 @@
                 "de": "Perfekter Ort, um den ersten Regenschauer trocken zu überstehen.",
                 "hu": "Tökéletes hely az első eső elől való menekülésre.",
                 "ro": "Locul perfect pentru a scăpa de prima rafală de ploaie.",
-                "en": "The perfect spot to stay dry during the first rain shower."
+                "en": "The perfect spot to stay dry during the first rain shower.",
+                "es": "El lugar perfecto para mantenerse seco durante el primer chubasco."
               }
             },
             {
@@ -384,7 +407,8 @@
                 "de": "Nutzen Sie die Innenbesichtigung für eine Regenpause.",
                 "hu": "Használja ki a belső látogatást egy esőszünetre.",
                 "ro": "Folosiți vizita în interior pentru o pauză de ploaie.",
-                "en": "Use the indoor visit as a break from the rain."
+                "en": "Use the indoor visit as a break from the rain.",
+                "es": "Utiliza la visita interior como descanso de la lluvia."
               }
             },
             {
@@ -393,7 +417,8 @@
                 "de": "Ein großzügiger Innenbereich, ideal für regnerische Stunden.",
                 "hu": "Tágas belső tér, ideális a borús, esős órákra.",
                 "ro": "Spațiu interior generos, ideal pentru orele ploioase.",
-                "en": "Spacious interior, ideal for rainy hours."
+                "en": "Spacious interior, ideal for rainy hours.",
+                "es": "Interior espacioso, ideal para horas lluviosas."
               }
             },
             {
@@ -402,7 +427,8 @@
                 "de": "Die Bibliothek im Inneren ist ein wunderbarer Rückzugsort.",
                 "hu": "A belső könyvtár remek menedék a víz elől.",
                 "ro": "Biblioteca din interior este un refugiu minunat.",
-                "en": "The library inside is a wonderful retreat from the wet."
+                "en": "The library inside is a wonderful retreat from the wet.",
+                "es": "La biblioteca en su interior es un maravilloso refugio del mojado."
               }
             },
             {
@@ -411,7 +437,8 @@
                 "de": "Genießen Sie die Architektur unter festem Dach.",
                 "hu": "Élvezze az építészetet szilárd tető alatt.",
                 "ro": "Bucurați-vă de arhitectură sub un acoperiș solid.",
-                "en": "Enjoy the architecture under a solid roof."
+                "en": "Enjoy the architecture under a solid roof.",
+                "es": "Disfruta la arquitectura bajo un techo sólido."
               }
             },
             {
@@ -420,7 +447,8 @@
                 "de": "Die dichten Bäume bieten begrenzten Schutz vor Nieselregen.",
                 "hu": "A sűrű fák korlátozott védelmet nyújtanak a szemerkélő esőben.",
                 "ro": "Copacii deși oferă protecție limitată împotriva burniței.",
-                "en": "The dense trees offer limited protection from light drizzle."
+                "en": "The dense trees offer limited protection from light drizzle.",
+                "es": "Los árboles densos ofrecen protección limitada contra lloviznas ligeras."
               }
             },
             {
@@ -429,7 +457,8 @@
                 "de": "Vorsicht auf dem bei Nässe rutschigen Vorplatz.",
                 "hu": "Vigyázat, a tér burkolata vizesen csúszóssá válhat.",
                 "ro": "Atenție pe esplanadă, poate deveni alunecoasă când e udă.",
-                "en": "Careful on the plaza, the tiles can be slippery when wet."
+                "en": "Careful on the plaza, the tiles can be slippery when wet.",
+                "es": "Cuidado en la plaza: los azulejos pueden estar resbaladizos cuando están mojados."
               }
             }
           ],
@@ -461,6 +490,13 @@
               "Watch out for puddles in the lower streets of the old town.",
               "Wear waterproof shoes for the park paths.",
               "The cafés at Altozano offer cozy shelters to warm up."
+            ],
+            "es": [
+              "Pasaje de Lodares es tu mejor aliado cuando llueve.",
+              "Utiliza los museos para periodos más largos de resguardo.",
+              "Atento a los charcos en las calles bajas del casco antiguo.",
+              "Lleva calzado impermeable para los senderos del parque.",
+              "Las cafeterías en Altozano ofrecen acogedores refugios para entrar en calor."
             ]
           }
         },
@@ -469,7 +505,8 @@
             "de": "Atmen Sie die frische Winterluft in der Pasaje de Lodares ein. Mittags wärmt die Sonne die Kathedrale, während die Luft draußen klar bleibt. Nachmittags bietet das Klingenmuseum eine warme Pause von der Brise der La Mancha. Der Tag endet an der Plaza de Toros, wenn die Winterdämmerung Albacete in goldenes Licht taucht.",
             "hu": "Lélegezze be a friss téli levegőt a Pasaje de Lodares környékén. Délben a nap sugarai megvilágítják a katedrálist, míg a levegő csípős marad. Délután a Késmúzeum nyújt meleg pihenőt a manchai szél elől. A nap a Bikaviadal-térnél ér véget, ahogy a téli szürkület arany fénybe vonja a várost.",
             "ro": "Respirați aerul proaspăt de iarnă în Pasaje de Lodares. La prânz, soarele încălzește catedrala, deși aerul rămâne tăios. După-amiaza, Muzeul de Cuțite oferă o pauză caldă de la briza de La Mancha. Ziua se încheie la Plaza de Toros, când amurgul de iarnă scaldă orașul în lumină aurie.",
-            "en": "Breathe in the fresh winter air around Pasaje de Lodares. At noon, the sun warms the Cathedral while the air remains crisp. In the afternoon, the Cutlery Museum offers a warm break from the La Mancha breeze. The day ends at the Plaza de Toros as the winter dusk bathes the city in golden light."
+            "en": "Breathe in the fresh winter air around Pasaje de Lodares. At noon, the sun warms the Cathedral while the air remains crisp. In the afternoon, the Cutlery Museum offers a warm break from the La Mancha breeze. The day ends at the Plaza de Toros as the winter dusk bathes the city in golden light.",
+            "es": "Respira el aire fresco invernal alrededor del Pasaje de Lodares. Al mediodía, el sol calienta la Catedral mientras el ambiente sigue siendo fresco. Por la tarde, el Museo de la Cuchillería ofrece un descanso cálido del viento manchego. El día termina en la Plaza de Toros mientras el crepúsculo invernal baña la ciudad con luz dorada."
           },
           "stops": [
             {
@@ -478,7 +515,8 @@
                 "de": "Windgeschützter Durchgang, ideal für kalte Vormittage.",
                 "hu": "Szélvédett átjáró, ideális a hideg délelőttökre.",
                 "ro": "Pasaj protejat de vânt, ideal pentru diminețile reci.",
-                "en": "Wind-protected passage, ideal for cold mornings."
+                "en": "Wind-protected passage, ideal for cold mornings.",
+                "es": "Pasaje protegido del viento, ideal para mañanas frías."
               }
             },
             {
@@ -487,7 +525,8 @@
                 "de": "Drinnen ist es oft wärmer als in den windigen Gassen.",
                 "hu": "Bent gyakran melegebb van, mint a szeles utcákon.",
                 "ro": "În interior e adesea mai cald decât pe străzile vântoase.",
-                "en": "It is often warmer inside than in the windy alleys."
+                "en": "It is often warmer inside than in the windy alleys.",
+                "es": "A menudo hace más calor en el interior que en los callejones ventosos."
               }
             },
             {
@@ -496,7 +535,8 @@
                 "de": "Perfekter Ort, um sich zwischen den Besichtigungen aufzuwärmen.",
                 "hu": "Tökéletes hely a felmelegedésre a városnézés közben.",
                 "ro": "Loc perfect pentru încălzire între vizite.",
-                "en": "Perfect place to warm up between sightseeing stops."
+                "en": "Perfect place to warm up between sightseeing stops.",
+                "es": "Lugar perfecto para entrar en calor entre visitas turísticas."
               }
             },
             {
@@ -505,7 +545,8 @@
                 "de": "Genießen Sie die Wintersonne auf dem Vorplatz.",
                 "hu": "Élvezze a téli napsütést az épület előtti téren.",
                 "ro": "Bucurați-vă de soarele de iarnă în piața din față.",
-                "en": "Enjoy the winter sun in the front plaza."
+                "en": "Enjoy the winter sun in the front plaza.",
+                "es": "Disfruta del sol invernal en la plaza frontal."
               }
             },
             {
@@ -514,7 +555,8 @@
                 "de": "Abends kühlt es hier schnell ab, Jacke bereit halten.",
                 "hu": "Este gyorsan lehűl a levegő, készüljön meleg kabáttal.",
                 "ro": "Seara se răcește rapid, aveți haina pregătită.",
-                "en": "It cools down fast in the evening, have a jacket ready."
+                "en": "It cools down fast in the evening, have a jacket ready.",
+                "es": "Se enfría rápido por la noche; lleva una chaqueta."
               }
             },
             {
@@ -523,7 +565,8 @@
                 "de": "Ein schöner Winterspaziergang, aber meiden Sie den Schatten.",
                 "hu": "Szép téli sétahely, de kerülje az árnyékos részeket.",
                 "ro": "O plimbare frumoasă de iarnă, dar evitați umbra.",
-                "en": "A beautiful winter walk, but avoid the shady areas."
+                "en": "A beautiful winter walk, but avoid the shady areas.",
+                "es": "Un hermoso paseo invernal, pero evita las zonas sombreadas."
               }
             },
             {
@@ -532,7 +575,8 @@
                 "de": "Kurz vor Sonnenuntergang ist das Licht hier fantastisch.",
                 "hu": "Közvetlenül naplemente előtt fantasztikusak itt a fények.",
                 "ro": "Lumina este fantastică aici chiar înainte de apus.",
-                "en": "The light is fantastic here just before sunset."
+                "en": "The light is fantastic here just before sunset.",
+                "es": "La luz es fantástica aquí justo antes del atardecer."
               }
             }
           ],
@@ -564,6 +608,13 @@
               "A hot drink on Calle Ancha is a must.",
               "Shady sides of the streets are significantly colder.",
               "Wear layers to handle the transition between indoor and outdoor."
+            ],
+            "es": [
+              "Albacete está en altura; el viento invernal puede ser penetrante.",
+              "La puesta de sol es alrededor de las 17:30, planifica el final en consecuencia.",
+              "Una bebida caliente en la Calle Ancha es imprescindible.",
+              "Los lados sombreados de las calles son significativamente más fríos.",
+              "Vístete por capas para manejar la transición entre interior y exterior."
             ]
           }
         }
@@ -582,7 +633,8 @@
             "de": "Pasaje de Lodares",
             "hu": "Pasaje de Lodares",
             "ro": "Pasajul Lodares",
-            "en": "Pasaje de Lodares"
+            "en": "Pasaje de Lodares",
+            "es": "Pasaje de Lodares"
           },
           "coords": [
             -1.855,
@@ -597,7 +649,8 @@
             "de": "Schließen Sie Ihr Fahrrad ab und spazieren Sie durch diese wunderschöne Passage.",
             "hu": "Zárja le a kerékpárt, és sétáljon végig ezen a gyönyörű passzázson.",
             "ro": "Legați-vă bicicleta și plimbați-vă prin acest pasaj frumos.",
-            "en": "Lock up your bike and stroll through this beautiful passage."
+            "en": "Lock up your bike and stroll through this beautiful passage.",
+            "es": "Asegura tu bicicleta y pasea por este hermoso pasaje."
           }
         },
         {
@@ -605,7 +658,8 @@
             "de": "Kathedrale San Juan Bautista",
             "hu": "Keresztelő Szent János-katedrális",
             "ro": "Catedrala San Juan Bautista",
-            "en": "Cathedral of San Juan Bautista"
+            "en": "Cathedral of San Juan Bautista",
+            "es": "Catedral de San Juan Bautista"
           },
           "coords": [
             -1.858,
@@ -620,7 +674,8 @@
             "de": "Ein ruhiger Ort, um die Kunst und Architektur zu bewundern.",
             "hu": "Csendes hely a művészet és az építészet megcsodálására.",
             "ro": "Un loc liniștit pentru a admira arta și arhitectura.",
-            "en": "A quiet place to admire the art and architecture."
+            "en": "A quiet place to admire the art and architecture.",
+            "es": "Un lugar tranquilo para admirar el arte y la arquitectura."
           }
         },
         {
@@ -628,7 +683,8 @@
             "de": "Messer-Museum (Museo de la Cuchillería)",
             "hu": "Késmúzeum (Museo de la Cuchillería)",
             "ro": "Muzeul Cuțitelor (Museo de la Cuchillería)",
-            "en": "Museum of Cutlery (Museo de la Cuchillería)"
+            "en": "Museum of Cutlery (Museo de la Cuchillería)",
+            "es": "Museo de la Cuchillería (Museum of Cutlery)"
           },
           "coords": [
             -1.859,
@@ -643,7 +699,8 @@
             "de": "Planen Sie genügend Zeit ein, die umfangreiche Sammlung ist beeindruckend.",
             "hu": "Tervezzen elég időt, a kiterjedt gyűjtemény lenyűgöző.",
             "ro": "Planificați suficient timp, colecția extinsă este impresionantă.",
-            "en": "Plan enough time, the extensive collection is impressive."
+            "en": "Plan enough time, the extensive collection is impressive.",
+            "es": "Reserva tiempo suficiente, la extensa colección impresiona."
           }
         },
         {
@@ -651,7 +708,8 @@
             "de": "Recinto Ferial",
             "hu": "Recinto Ferial",
             "ro": "Recinto Ferial",
-            "en": "Recinto Ferial"
+            "en": "Recinto Ferial",
+            "es": "Recinto Ferial"
           },
           "coords": [
             -1.848,
@@ -666,7 +724,8 @@
             "de": "Dieses Messegelände ist einzigartig und hat die Form einer Bratpfanne. Am besten während der Septembermesse belebt.",
             "hu": "Ez a vásárterület egyedi, serpenyő alakú. Leginkább a szeptemberi vásár idején nyüzsög.",
             "ro": "Acest târg este unic, în formă de tigaie. Cel mai animat în timpul târgului din septembrie.",
-            "en": "This fairground is unique, shaped like a frying pan. Most lively during the September Fair."
+            "en": "This fairground is unique, shaped like a frying pan. Most lively during the September Fair.",
+            "es": "Este recinto ferial es único, con forma de sartén. Muy animado durante la Feria de septiembre."
           }
         },
         {
@@ -674,7 +733,8 @@
             "de": "Plaza de Toros",
             "hu": "Plaza de Toros",
             "ro": "Plaza de Toros",
-            "en": "Plaza de Toros"
+            "en": "Plaza de Toros",
+            "es": "Plaza de Toros"
           },
           "coords": [
             -1.847,
@@ -689,7 +749,8 @@
             "de": "Ein kurzer Stopp, um die beeindruckende Fassade zu fotografieren.",
             "hu": "Egy rövid megálló, hogy lefényképezze a lenyűgöző homlokzatot.",
             "ro": "O oprire scurtă pentru a fotografia fațada impresionantă.",
-            "en": "A quick stop to photograph the impressive facade."
+            "en": "A quick stop to photograph the impressive facade.",
+            "es": "Una parada rápida para fotografiar la impresionante fachada."
           }
         },
         {
@@ -697,7 +758,8 @@
             "de": "Abelardo-Sánchez-Park",
             "hu": "Abelardo Sánchez park",
             "ro": "Parcul Abelardo Sánchez",
-            "en": "Abelardo Sánchez Park"
+            "en": "Abelardo Sánchez Park",
+            "es": "Parque Abelardo Sánchez"
           },
           "coords": [
             -1.86,
@@ -712,7 +774,8 @@
             "de": "Fahren Sie auf den Wegen und genießen Sie die grüne Lunge der Stadt.",
             "hu": "Kerékpározzon az utakon és élvezze a város zöld tüdejét.",
             "ro": "Mergeți cu bicicleta pe alei și bucurați-vă de plămânul verde al orașului.",
-            "en": "Cycle the pathways and enjoy the green lung of the city."
+            "en": "Cycle the pathways and enjoy the green lung of the city.",
+            "es": "Recorre los senderos en bici y disfruta del pulmón verde de la ciudad."
           }
         },
         {
@@ -720,7 +783,8 @@
             "de": "Teatro Circo",
             "hu": "Teatro Circo",
             "ro": "Teatro Circo",
-            "en": "Teatro Circo"
+            "en": "Teatro Circo",
+            "es": "Teatro Circo"
           },
           "coords": [
             -1.865,
@@ -735,7 +799,8 @@
             "de": "Beenden Sie Ihre Radtour mit einem Blick auf dieses architektonische Juwel.",
             "hu": "Fejezze be a kerékpártúrát ennek az építészeti gyöngyszemnek a megtekintésével.",
             "ro": "Încheiați-vă turul cu bicicleta cu o priveliște a acestei bijuterii arhitecturale.",
-            "en": "End your bike tour with a view of this architectural gem."
+            "en": "End your bike tour with a view of this architectural gem.",
+            "es": "Termina tu ruta en bici con la vista de esta joya arquitectónica."
           }
         }
       ],
@@ -743,7 +808,8 @@
         "de": "Mit dem Fahrrad erkunden Sie Albacete flexibel. Starten Sie im Herzen der Stadt, an der Pasaje de Lodares und der Kathedrale. Nach dem Besuch des Messer-Museums radeln Sie zum einzigartigen Recinto Ferial. Anschließend führt Ihre Tour zur Plaza de Toros und dann in den Süden zum entspannten Abelardo-Sánchez-Park für eine ausgiebige Pause. Ihre Tour endet mit der Bewunderung des Teatro Circo, bevor Sie den Abend einläuten.",
         "hu": "Kerékpárral rugalmasan fedezheti fel Albacetét. Induljon a város szívéből, a Pasaje de Lodares-től és a katedrálistól. A Késmúzeum meglátogatása után tekerjen el az egyedi Recinto Ferial-hoz. Ezután a túra a Plaza de Toros-hoz, majd délre, a pihentető Abelardo Sánchez parkhoz vezet egy kiadós szünetre. A túra a Teatro Circo megcsodálásával ér véget, mielőtt az estét elkezdené.",
         "ro": "Cu bicicleta, explorați Albacete în mod flexibil. Începeți din inima orașului, la Pasajul Lodares și Catedrală. După vizitarea Muzeului Cuțitelor, pedalați spre unicul Recinto Ferial. Apoi, turul vă duce la Plaza de Toros și apoi spre sud, la relaxantul Parc Abelardo Sánchez pentru o pauză binemeritată. Turul se încheie cu admirarea Teatrului Circo înainte de a începe seara.",
-        "en": "By bike, you can explore Albacete flexibly. Start in the heart of the city, at Pasaje de Lodares and the Cathedral. After visiting the Museum of Cutlery, cycle to the unique Recinto Ferial. Your tour then takes you to the Plaza de Toros and then south to the relaxing Abelardo Sánchez Park for a proper break. Your tour ends with admiring the Teatro Circo before starting your evening."
+        "en": "By bike, you can explore Albacete flexibly. Start in the heart of the city, at Pasaje de Lodares and the Cathedral. After visiting the Museum of Cutlery, cycle to the unique Recinto Ferial. Your tour then takes you to the Plaza de Toros and then south to the relaxing Abelardo Sánchez Park for a proper break. Your tour ends with admiring the Teatro Circo before starting your evening.",
+        "es": "En bicicleta puedes explorar Albacete con flexibilidad. Empieza en el centro, en el Pasaje de Lodares y la Catedral. Tras visitar el Museo de la Cuchillería, pedalea hasta el singular Recinto Ferial. Luego continúa hacia la Plaza de Toros y después al sur, hacia el relajante Parque Abelardo Sánchez para una buena pausa. Tu recorrido termina contemplando el Teatro Circo antes de comenzar la velada."
       },
       "gastro_picks": {
         "de": [
@@ -919,6 +985,12 @@
           "Lock your bike in secure locations, especially in the city center.",
           "A water bottle is essential on warm days.",
           "Check museum opening times in advance."
+        ],
+        "es": [
+          "Usa los carriles bici siempre que sea posible.",
+          "Asegura la bici en lugares seguros, especialmente en el centro.",
+          "Una botella de agua es esencial en los días calurosos.",
+          "Consulta los horarios de los museos con antelación."
         ]
       },
       "variants": {
@@ -927,7 +999,8 @@
             "de": "Radeln Sie vorsichtig zur Pasaje de Lodares, wo Sie kurz verschnaufen können. Mittags bietet die Kathedrale Schutz, während Ihr Rad draußen im Regen wartet. Der Nachmittag im Museum ist die ideale Pause vom nassen Wetter. Den Tag beenden Sie mit einer zügigen Fahrt durch die glitzernden Straßen zurück zum Ausgangspunkt.",
             "hu": "Óvatosan kerekezzen a Pasaje de Lodareshez, ahol egy pillanatra megpihenhet. Délben a katedrális nyújt menedéket, amíg a bicikli kint vár az esőben. A délutáni múzeumlátogatás ideális szünet a vizes időben. A napot egy tempós tekeréssel zárja a csillogó utcákon át a kiindulópontig.",
             "ro": "Pedalați cu atenție spre Pasaje de Lodares pentru o scurtă pauză. La prânz, catedrala oferă adăpost în timp ce bicicleta așteaptă afară în ploaie. După-amiaza la muzeu este pauza ideală de vremea umedă. Încheiați ziua cu o cursă rapidă prin străzile strălucitoare înapoi la start.",
-            "en": "Cycle carefully to Pasaje de Lodares for a brief breather. At noon, the Cathedral provides shelter while your bike waits in the rain. An afternoon at the museum is the ideal break from the wet weather. End the day with a brisk ride through the glistening streets back to your starting point."
+            "en": "Cycle carefully to Pasaje de Lodares for a brief breather. At noon, the Cathedral provides shelter while your bike waits in the rain. An afternoon at the museum is the ideal break from the wet weather. End the day with a brisk ride through the glistening streets back to your starting point.",
+            "es": "Pedalea con cuidado hasta el Pasaje de Lodares para tomar un breve respiro. Al mediodía, la Catedral te protege mientras la bici espera bajo la lluvia. Una tarde en el museo es el descanso ideal del tiempo húmedo. Termina el día con un rápido paseo por las calles relucientes de vuelta al punto de inicio."
           },
           "stops": [
             {
@@ -936,7 +1009,8 @@
                 "de": "Vorsicht beim Absteigen auf nassem Steinboden.",
                 "hu": "Vigyázzon a leszálláskor a vizes kőburkolaton.",
                 "ro": "Atenție la descălecare pe pavajul umed.",
-                "en": "Be careful when dismounting on wet stone floors."
+                "en": "Be careful when dismounting on wet stone floors.",
+                "es": "Ten cuidado al bajar en suelos de piedra mojados."
               }
             },
             {
@@ -945,7 +1019,8 @@
                 "de": "Suchen Sie einen geschützten Fahrradständer in der Nähe.",
                 "hu": "Keressen egy védett biciklitárolót a közelben.",
                 "ro": "Căutați un suport de biciclete protejat în apropiere.",
-                "en": "Look for a sheltered bike rack nearby."
+                "en": "Look for a sheltered bike rack nearby.",
+                "es": "Busca un aparcabicicletas techado cercano."
               }
             },
             {
@@ -954,7 +1029,8 @@
                 "de": "Ein langer Stopp hilft, die Regenjacke zu trocknen.",
                 "hu": "Egy hosszabb megálló segít megszárítani az esőkabátot.",
                 "ro": "O oprire lungă ajută la uscarea pelerinei de ploaie.",
-                "en": "A long stop helps your raincoat dry out."
+                "en": "A long stop helps your raincoat dry out.",
+                "es": "Una larga parada ayuda a que el chubasquero se seque."
               }
             },
             {
@@ -963,7 +1039,8 @@
                 "de": "Große offene Flächen können bei Wind und Regen ungemütlich sein.",
                 "hu": "A nagy nyitott terek szélben és esőben kellemetlenek lehetnek.",
                 "ro": "Spațiile deschise mari pot fi inconfortabile pe vânt și ploaie.",
-                "en": "Large open areas can be uncomfortable in wind and rain."
+                "en": "Large open areas can be uncomfortable in wind and rain.",
+                "es": "Las zonas abiertas pueden ser incómodas con viento y lluvia."
               }
             },
             {
@@ -972,7 +1049,8 @@
                 "de": "Nutzen Sie die Arkaden für einen kurzen Check der Route.",
                 "hu": "Használja az árkádokat az útvonal gyors ellenőrzéséhez.",
                 "ro": "Folosiți arcadele pentru o verificare rapidă a rutei.",
-                "en": "Use the arcades for a quick route check."
+                "en": "Use the arcades for a quick route check.",
+                "es": "Usa los soportales para comprobar la ruta rápidamente."
               }
             },
             {
@@ -981,7 +1059,8 @@
                 "de": "Vermeiden Sie Pfützen auf den unbefestigten Wegen.",
                 "hu": "Kerülje el a tócsákat a burkolatlan utakon.",
                 "ro": "Evitați bălțile de pe potecile neasfaltate.",
-                "en": "Avoid puddles on the unpaved paths."
+                "en": "Avoid puddles on the unpaved paths.",
+                "es": "Evita los charcos en los caminos sin pavimentar."
               }
             },
             {
@@ -990,7 +1069,8 @@
                 "de": "Letzter Stopp, bevor Sie sich ins Trockene begeben.",
                 "hu": "Utolsó megálló, mielőtt fedett helyre vonulna.",
                 "ro": "Ultima oprire înainte de a merge la adăpost.",
-                "en": "Final stop before heading to a dry indoor spot."
+                "en": "Final stop before heading to a dry indoor spot.",
+                "es": "Parada final antes de dirigirte a un lugar seco en interior."
               }
             }
           ],
@@ -1022,6 +1102,13 @@
               "Use mudguards to avoid mud splashes.",
               "A poncho is more practical than a jacket while cycling.",
               "Park the bike under overhangs whenever possible."
+            ],
+            "es": [
+              "Revisa los frenos, el asfalto mojado es traicionero.",
+              "Evita las marcas viales: se vuelven muy resbaladizas.",
+              "Usa guardabarros para evitar salpicaduras de barro.",
+              "Un poncho es más práctico que una chaqueta mientras pedaleas.",
+              "Aparca la bici bajo aleros siempre que sea posible."
             ]
           }
         },
@@ -1030,7 +1117,8 @@
             "de": "Starten Sie Ihre Radtour durch die kühle Morgenluft von Albacete. Die Fahrt zur Kathedrale belebt den Geist, während die Wintersonne tief steht. Nachmittags wärmen Sie sich im Klingenmuseum auf, bevor Sie den Park durchqueren. Der Tag endet am Teatro Circo, wenn die Lichter der Stadt in der klaren Winternacht erstrahlen.",
             "hu": "Kezdje kerékpártúráját Albacete hűvös reggeli levegőjében. A katedrálishoz vezető út frissítő, miközben a téli nap alacsonyan jár. Délután melegedjen fel a Késmúzeumban, mielőtt átvágná a parkon. A nap a Teatro Circo-nál ér véget, ahogy a város fényei felgyulladnak a tiszta téli éjszakában.",
             "ro": "Începeți tura cu bicicleta în aerul răcoros al dimineții din Albacete. Drumul spre catedrală este revigorant, cu soarele de iarnă jos pe cer. După-amiaza, încălziți-vă la Muzeul de Cuțite înainte de a traversa parcul. Ziua se încheie la Teatro Circo, când luminile orașului se aprind în noaptea senină.",
-            "en": "Start your bike tour in the cool morning air of Albacete. The ride to the Cathedral is refreshing with the low winter sun. In the afternoon, warm up at the Cutlery Museum before crossing the park. The day ends at Teatro Circo as the city lights shine in the clear winter night."
+            "en": "Start your bike tour in the cool morning air of Albacete. The ride to the Cathedral is refreshing with the low winter sun. In the afternoon, warm up at the Cutlery Museum before crossing the park. The day ends at Teatro Circo as the city lights shine in the clear winter night.",
+            "es": "Comienza tu ruta en bici con el fresco matutino de Albacete. El trayecto hasta la Catedral es revitalizante con el sol bajo de invierno. Por la tarde, entra en calor en el Museo de la Cuchillería antes de cruzar el parque. El día termina en el Teatro Circo mientras las luces de la ciudad brillan en la clara noche invernal."
           },
           "stops": [
             {
@@ -1039,7 +1127,8 @@
                 "de": "Guter Ort, um die Handschuhe kurz auszuziehen.",
                 "hu": "Jó hely a kesztyűk rövid levételére.",
                 "ro": "Loc bun pentru a scoate mănușile scurt.",
-                "en": "Good spot to briefly take off your gloves."
+                "en": "Good spot to briefly take off your gloves.",
+                "es": "Buen lugar para quitarse brevemente los guantes."
               }
             },
             {
@@ -1048,7 +1137,8 @@
                 "de": "Parken Sie in der Sonne, um den Sattel warm zu halten.",
                 "hu": "Parkoljon a napon, hogy a nyereg meleg maradjon.",
                 "ro": "Parcați la soare pentru a păstra șaua caldă.",
-                "en": "Park in the sun to keep the saddle warm."
+                "en": "Park in the sun to keep the saddle warm.",
+                "es": "Estaciona al sol para mantener el sillín caliente."
               }
             },
             {
@@ -1057,7 +1147,8 @@
                 "de": "Nutzen Sie die Pause für ein heißes Getränk im Café gegenüber.",
                 "hu": "Használja ki a szünetet egy forró italra a szemközti kávézóban.",
                 "ro": "Folosiți pauza pentru o băutură caldă la cafeneaua de vizavi.",
-                "en": "Use the break for a hot drink at the café opposite."
+                "en": "Use the break for a hot drink at the café opposite.",
+                "es": "Aprovecha la parada para tomar una bebida caliente en la cafetería de enfrente."
               }
             },
             {
@@ -1066,7 +1157,8 @@
                 "de": "Bei Winterwind kann es hier sehr zugig sein.",
                 "hu": "Téli szélben itt nagyon huzatos lehet a levegő.",
                 "ro": "Pe vânt de iarnă poate fi foarte mult curent aici.",
-                "en": "It can be very draughty here in the winter wind."
+                "en": "It can be very draughty here in the winter wind.",
+                "es": "Aquí puede hacer mucho aire con el viento invernal."
               }
             },
             {
@@ -1075,7 +1167,8 @@
                 "de": "Achten Sie auf die kürzer werdenden Schatten.",
                 "hu": "Figyeljen a gyorsan nyúló árnyékokra.",
                 "ro": "Fiți atenți la umbrele care se lungesc rapid.",
-                "en": "Watch the shadows lengthening quickly."
+                "en": "Watch the shadows lengthening quickly.",
+                "es": "Observa cómo las sombras se alargan rápidamente."
               }
             },
             {
@@ -1084,7 +1177,8 @@
                 "de": "Zügiges Radeln hält die Körpertemperatur stabil.",
                 "hu": "A tempós tekerés segít megőrizni a testhőt.",
                 "ro": "Pedalarea viguroasă ajută la menținerea căldurii corporale.",
-                "en": "Vigorous cycling helps maintain body heat."
+                "en": "Vigorous cycling helps maintain body heat.",
+                "es": "Un ciclismo vigoroso ayuda a mantener el calor corporal."
               }
             },
             {
@@ -1093,7 +1187,8 @@
                 "de": "Vorsicht vor Reifbildung auf Brücken oder Metallteilen.",
                 "hu": "Vigyázzon a zúzmarára a hidakon vagy fémfelületeken.",
                 "ro": "Atenție la chiciura de pe poduri sau elemente metalice.",
-                "en": "Watch out for frost on bridges or metal surfaces."
+                "en": "Watch out for frost on bridges or metal surfaces.",
+                "es": "Cuidado con la escarcha en puentes o superficies metálicas."
               }
             }
           ],
@@ -1125,6 +1220,13 @@
               "Light conditions change drastically after 16:30.",
               "Check tire pressure, it often drops in the cold.",
               "Take short breaks in heated spaces more frequently."
+            ],
+            "es": [
+              "Lleva guantes cortaviento, la sensación térmica es fuerte.",
+              "Un braga para el cuello protege el rostro del frío.",
+              "La luz cambia drásticamente después de las 16:30.",
+              "Revisa la presión de los neumáticos, suele bajar con el frío.",
+              "Haz descansos cortos en espacios calefactados con más frecuencia."
             ]
           }
         }
@@ -1143,7 +1245,8 @@
             "de": "Cluster 1: Historisches Zentrum",
             "hu": "1. klaszter: Történelmi központ",
             "ro": "Cluster 1: Centrul Istoric",
-            "en": "Cluster 1: Historic Center"
+            "en": "Cluster 1: Historic Center",
+            "es": "Clúster 1: Casco Histórico"
           },
           "coords": [
             -1.856,
@@ -1159,7 +1262,8 @@
             "de": "Parken Sie in einem Parkhaus in der Nähe der Kathedrale und beginnen Sie Ihren Spaziergang am Pasaje de Lodares.",
             "hu": "Parkoljon egy parkolóházban a katedrális közelében, és kezdje sétáját a Pasaje de Lodares-nél.",
             "ro": "Parcați într-o parcare subterană lângă catedrală și începeți plimbarea la Pasajul Lodares.",
-            "en": "Park in a garage near the cathedral and start your walk at Pasaje de Lodares."
+            "en": "Park in a garage near the cathedral and start your walk at Pasaje de Lodares.",
+            "es": "Aparca en un garaje cerca de la catedral y comienza tu paseo en el Pasaje de Lodares."
           }
         },
         {
@@ -1167,7 +1271,8 @@
             "de": "Kathedrale San Juan Bautista",
             "hu": "Keresztelő Szent János-katedrális",
             "ro": "Catedrala San Juan Bautista",
-            "en": "Cathedral of San Juan Bautista"
+            "en": "Cathedral of San Juan Bautista",
+            "es": "Catedral de San Juan Bautista"
           },
           "coords": [
             -1.858,
@@ -1183,7 +1288,8 @@
             "de": "Ein kurzer Spaziergang vom Pasaje entfernt, das Herz des Clusters.",
             "hu": "Rövid séta a Pasaje-től, a klaszter szíve.",
             "ro": "O scurtă plimbare de la Pasaj, inima clusterului.",
-            "en": "A short walk from the Pasaje, the heart of the cluster."
+            "en": "A short walk from the Pasaje, the heart of the cluster.",
+            "es": "A un corto paseo del Pasaje, el corazón del clúster."
           }
         },
         {
@@ -1191,7 +1297,8 @@
             "de": "Messer-Museum (Museo de la Cuchillería)",
             "hu": "Késmúzeum (Museo de la Cuchillería)",
             "ro": "Muzeul Cuțitelor (Museo de la Cuchillería)",
-            "en": "Museum of Cutlery (Museo de la Cuchillería)"
+            "en": "Museum of Cutlery (Museo de la Cuchillería)",
+            "es": "Museo de la Cuchillería (Museum of Cutlery)"
           },
           "coords": [
             -1.859,
@@ -1207,7 +1314,8 @@
             "de": "Gleich um die Ecke der Kathedrale, ein Muss für Technik- und Geschichtsliebhaber.",
             "hu": "A katedrális sarkánál, kötelező a technika és a történelem szerelmeseinek.",
             "ro": "Chiar la colțul catedralei, un must pentru pasionații de tehnică și istorie.",
-            "en": "Just around the corner from the cathedral, a must-see for tech and history buffs."
+            "en": "Just around the corner from the cathedral, a must-see for tech and history buffs.",
+            "es": "Justo a la vuelta de la catedral, una visita obligada para aficionados a la técnica y la historia."
           }
         },
         {
@@ -1215,7 +1323,8 @@
             "de": "Cluster 2: Kultur & Park",
             "hu": "2. klaszter: Kultúra és park",
             "ro": "Cluster 2: Cultură și Parc",
-            "en": "Cluster 2: Culture & Park"
+            "en": "Cluster 2: Culture & Park",
+            "es": "Clúster 2: Cultura y Parque"
           },
           "coords": [
             -1.865,
@@ -1231,7 +1340,8 @@
             "de": "Fahren Sie zum Teatro Circo. Suchen Sie einen Parkplatz in der Umgebung, um dieses Gebiet zu erkunden.",
             "hu": "Vezessen a Teatro Circo-hoz. Keressen parkolóhelyet a környéken a terület felfedezéséhez.",
             "ro": "Conduceți la Teatro Circo. Căutați un loc de parcare în zonă pentru a explora.",
-            "en": "Drive to the Teatro Circo area. Find parking nearby to explore this cluster."
+            "en": "Drive to the Teatro Circo area. Find parking nearby to explore this cluster.",
+            "es": "Conduce hasta la zona del Teatro Circo. Encuentra aparcamiento cercano para explorar este clúster."
           }
         },
         {
@@ -1239,7 +1349,8 @@
             "de": "Abelardo-Sánchez-Park",
             "hu": "Abelardo Sánchez park",
             "ro": "Parcul Abelardo Sánchez",
-            "en": "Abelardo Sánchez Park"
+            "en": "Abelardo Sánchez Park",
+            "es": "Parque Abelardo Sánchez"
           },
           "coords": [
             -1.86,
@@ -1255,7 +1366,8 @@
             "de": "Ein Spaziergang durch den Park ist ideal für die Mittagszeit. Hier befindet sich auch das Stadtmuseum.",
             "hu": "Egy séta a parkban ideális ebédidőben. Itt található a városi múzeum is.",
             "ro": "O plimbare prin parc este ideală pentru pauza de prânz. Muzeul orașului se află tot aici.",
-            "en": "A walk through the park is ideal for lunchtime. The city museum is also located here."
+            "en": "A walk through the park is ideal for lunchtime. The city museum is also located here.",
+            "es": "Un paseo por el parque es ideal para la hora de comer. Aquí también está el museo de la ciudad."
           }
         },
         {
@@ -1263,7 +1375,8 @@
             "de": "Cluster 3: Messe & Arena",
             "hu": "3. klaszter: Vásár és Aréna",
             "ro": "Cluster 3: Târg și Arenă",
-            "en": "Cluster 3: Fair & Arena"
+            "en": "Cluster 3: Fair & Arena",
+            "es": "Clúster 3: Feria y Plaza"
           },
           "coords": [
             -1.848,
@@ -1279,7 +1392,8 @@
             "de": "Fahren Sie zum Recinto Ferial. Hier gibt es normalerweise genügend Parkplätze, außer während der Messe.",
             "hu": "Vezessen a Recinto Ferial-hoz. Általában van elég parkoló, kivéve a vásár idején.",
             "ro": "Conduceți la Recinto Ferial. De obicei, există suficientă parcare, cu excepția perioadei târgului.",
-            "en": "Drive to the Recinto Ferial. There's usually ample parking here, except during the fair."
+            "en": "Drive to the Recinto Ferial. There's usually ample parking here, except during the fair.",
+            "es": "Conduce hasta el Recinto Ferial. Suele haber amplio aparcamiento aquí, excepto durante la feria."
           }
         },
         {
@@ -1287,7 +1401,8 @@
             "de": "Plaza de Toros",
             "hu": "Plaza de Toros",
             "ro": "Plaza de Toros",
-            "en": "Plaza de Toros"
+            "en": "Plaza de Toros",
+            "es": "Plaza de Toros"
           },
           "coords": [
             -1.847,
@@ -1303,7 +1418,8 @@
             "de": "Vom Messegelände aus ist die Stierkampfarena leicht zu Fuß erreichbar.",
             "hu": "A vásárterületről a bikaviadal-aréna könnyen megközelíthető gyalog.",
             "ro": "Arena de coride este la o scurtă plimbare de târg.",
-            "en": "The bullring is an easy walk from the fairgrounds."
+            "en": "The bullring is an easy walk from the fairgrounds.",
+            "es": "La plaza está a un corto paseo del recinto ferial."
           }
         }
       ],
@@ -1311,7 +1427,8 @@
         "de": "Mit dem Auto erkunden Sie Albacete in bequemen Clustern. Morgens parken Sie im Zentrum und entdecken zu Fuß die Pasaje de Lodares, die Kathedrale und das Messer-Museum. Mittags fahren Sie zum Kulturcluster um das Teatro Circo und den Abelardo-Sánchez-Park, ideal für eine ausgedehnte Mittagspause. Am Nachmittag steuern Sie den letzten Cluster an: das einzigartige Messegelände Recinto Ferial und die nahegelegene Plaza de Toros, die den Tag abrunden.",
         "hu": "Autóval kényelmes klaszterekben fedezheti fel Albacetét. Reggel parkoljon a központban, és fedezze fel gyalog a Pasaje de Lodares-t, a katedrálist és a Késmúzeumot. Délben vezessen a kulturális klaszterhez a Teatro Circo és az Abelardo Sánchez park körül, amely ideális egy kiadós ebédszünetre. Délután az utolsó klasztert célozza meg: az egyedi Recinto Ferial vásárterületet és a közeli Plaza de Toros-t, amelyek lezárják a napot.",
         "ro": "Cu mașina, explorați Albacete în clustere confortabile. Dimineața, parcați în centru și descoperiți pe jos Pasajul Lodares, Catedrala și Muzeul Cuțitelor. La prânz, conduceți spre clusterul cultural din jurul Teatro Circo și Parcului Abelardo Sánchez, ideal pentru o pauză de masă prelungită. După-amiaza, vă îndreptați spre ultimul cluster: unicul târg Recinto Ferial și Plaza de Toros din apropiere, care încheie ziua.",
-        "en": "With a car, you explore Albacete in convenient clusters. In the morning, park in the center and discover Pasaje de Lodares, the Cathedral, and the Museum of Cutlery on foot. At midday, drive to the cultural cluster around Teatro Circo and Abelardo Sánchez Park, perfect for an extended lunch break. In the afternoon, head to the final cluster: the unique Recinto Ferial fairground and the nearby Plaza de Toros to round off the day."
+        "en": "With a car, you explore Albacete in convenient clusters. In the morning, park in the center and discover Pasaje de Lodares, the Cathedral, and the Museum of Cutlery on foot. At midday, drive to the cultural cluster around Teatro Circo and Abelardo Sánchez Park, perfect for an extended lunch break. In the afternoon, head to the final cluster: the unique Recinto Ferial fairground and the nearby Plaza de Toros to round off the day.",
+        "es": "Con coche, exploras Albacete en cómodos clústeres. Por la mañana, aparca en el centro y descubre a pie el Pasaje de Lodares, la Catedral y el Museo de la Cuchillería. Al mediodía, conduce al clúster cultural alrededor del Teatro Circo y el Parque Abelardo Sánchez, perfecto para un almuerzo largo. Por la tarde, dirígete al clúster final: el singular Recinto Ferial y la cercana Plaza de Toros para cerrar el día."
       },
       "gastro_picks": {
         "de": [
@@ -1487,6 +1604,12 @@
           "Plan driving times between clusters outside of peak hours.",
           "A GPS is helpful for navigating the city.",
           "Do not leave valuables visible in the car."
+        ],
+        "es": [
+          "Usa los garajes públicos en el centro, el aparcamiento en calle es limitado.",
+          "Planifica los tiempos de conducción entre clústeres fuera de las horas punta.",
+          "Un GPS es de ayuda para navegar por la ciudad.",
+          "No dejes objetos de valor a la vista en el coche."
         ]
       },
       "variants": {
@@ -1495,7 +1618,8 @@
             "de": "Genießen Sie die Fahrt durch das verregnete Albacete, gut geschützt im Auto. Am historischen Zentrum finden Sie nahe Parkmöglichkeiten. Mittags und nachmittags bieten Kathedrale und Museum trockenes Programm. Den Abend lassen Sie entspannt ausklingen, während die Scheibenwischer den Takt zur beleuchteten Stadt vorgeben.",
             "hu": "Élvezze az autózást az esős Albacetében, biztonságban a kocsi belsejében. A történelmi központnál talál közeli parkolókat. Délben és délután a katedrális és a múzeum kínál száraz programot. Az estét kényelmesen zárja, miközben az ablaktörlők ütemére figyeli a kivilágított várost.",
             "ro": "Bucurați-vă de drum prin Albacete-ul ploios, bine protejat în mașină. Lângă centrul istoric veți găsi parcări apropiate. La prânz și după-amiază, catedrala și muzeul oferă program uscat. Încheiați seara relaxat, în timp ce ștergătoarele bat ritmul orașului iluminat.",
-            "en": "Enjoy driving through rainy Albacete, well protected inside your car. You'll find nearby parking at the historic center. At noon and in the afternoon, the Cathedral and museum offer a dry itinerary. End the evening relaxed while the wipers set the beat to the illuminated city."
+            "en": "Enjoy driving through rainy Albacete, well protected inside your car. You'll find nearby parking at the historic center. At noon and in the afternoon, the Cathedral and museum offer a dry itinerary. End the evening relaxed while the wipers set the beat to the illuminated city.",
+            "es": "Disfruta de conducir por la lluviosa Albacete, bien protegido dentro del coche. Encontrarás aparcamiento cercano en el casco histórico. Al mediodía y por la tarde, la Catedral y el museo ofrecen un itinerario seco. Termina la noche relajado mientras los limpiaparabrisas marcan el ritmo sobre la ciudad iluminada."
           },
           "stops": [
             {
@@ -1504,7 +1628,8 @@
                 "de": "Nutzen Sie Parkhäuser, um direkt im Trockenen auszusteigen.",
                 "hu": "Használja a parkolóházakat, hogy közvetlenül fedett helyre érkezzen.",
                 "ro": "Folosiți parcările etajate pentru a coborî direct la adăpost.",
-                "en": "Use parking garages to exit directly into a dry area."
+                "en": "Use parking garages to exit directly into a dry area.",
+                "es": "Usa garajes para salir directamente a un área seca."
               }
             },
             {
@@ -1513,7 +1638,8 @@
                 "de": "Kurzer Sprint vom Parkplatz zum Kircheneingang.",
                 "hu": "Gyors vágta a parkolótól a templom bejáratáig.",
                 "ro": "Sprint scurt de la parcare la intrarea în biserică.",
-                "en": "Short sprint from the parking spot to the church entrance."
+                "en": "Short sprint from the parking spot to the church entrance.",
+                "es": "Sprint corto desde el aparcamiento hasta la entrada de la iglesia."
               }
             },
             {
@@ -1522,7 +1648,8 @@
                 "de": "Ideales Ziel, wenn der Regen draußen am stärksten ist.",
                 "hu": "Ideális célpont, amikor kint a legerősebben esik.",
                 "ro": "Destinație ideală când ploaia e cea mai puternică afară.",
-                "en": "Ideal destination when the rain is heaviest outside."
+                "en": "Ideal destination when the rain is heaviest outside.",
+                "es": "Destino ideal cuando fuera llueve con intensidad."
               }
             },
             {
@@ -1531,7 +1658,8 @@
                 "de": "Bleiben Sie bei starkem Guss länger in den Gebäuden.",
                 "hu": "Erős felhőszakadás esetén maradjon tovább az épületekben.",
                 "ro": "Rămâneți mai mult în clădiri în caz de aversă puternică.",
-                "en": "Stay longer inside buildings during heavy downpours."
+                "en": "Stay longer inside buildings during heavy downpours.",
+                "es": "Permanece más tiempo dentro de los edificios durante los aguaceros fuertes."
               }
             },
             {
@@ -1540,7 +1668,8 @@
                 "de": "Parken Sie nah am Museum, um Wege zu verkürzen.",
                 "hu": "Parkoljon közel a múzeumhoz, hogy rövidítse a gyaloglást.",
                 "ro": "Parcați aproape de muzeu pentru a scurta drumul.",
-                "en": "Park close to the museum to shorten the walking distance."
+                "en": "Park close to the museum to shorten the walking distance.",
+                "es": "Aparca cerca del museo para acortar la distancia a pie."
               }
             },
             {
@@ -1549,7 +1678,8 @@
                 "de": "Die Ringstraße bietet gute Sicht auf die Monumente im Regen.",
                 "hu": "A körgyűrűről esőben is jól láthatók a műemlékek.",
                 "ro": "Șoseaua de centură oferă o vedere bună spre monumente pe ploaie.",
-                "en": "The ring road offers good views of the monuments in the rain."
+                "en": "The ring road offers good views of the monuments in the rain.",
+                "es": "La ronda ofrece buenas vistas de los monumentos con lluvia."
               }
             },
             {
@@ -1558,7 +1688,8 @@
                 "de": "Genießen Sie den Anblick kurz aus dem warmen Auto.",
                 "hu": "Élvezze a látványt egy pillanatra a meleg autóból.",
                 "ro": "Bucurați-vă de priveliște scurt din mașina caldă.",
-                "en": "Enjoy the view briefly from the warm car."
+                "en": "Enjoy the view briefly from the warm car.",
+                "es": "Disfruta brevemente de la vista desde el coche caliente."
               }
             }
           ],
@@ -1590,6 +1721,13 @@
               "Keep the windshield defogged for better visibility.",
               "Use the underground parking near Abelardo Sánchez Park.",
               "Allow a bit more time for city traffic."
+            ],
+            "es": [
+              "Cuidado con el aquaplaning en las vías principales.",
+              "Los garajes centrales se llenan antes cuando llueve.",
+              "Mantén el parabrisas desempañado para mejor visibilidad.",
+              "Usa el aparcamiento subterráneo cerca del Parque Abelardo Sánchez.",
+              "Permite un poco más de tiempo por el tráfico urbano."
             ]
           }
         },
@@ -1598,7 +1736,8 @@
             "de": "Starten Sie gemütlich im beheizten Auto in Ihren Wintertag in Albacete. Die Kathedrale und das Museum sind angenehme Zwischenstopps, wenn die Außentemperaturen sinken. Nachmittags lockt der Park für einen kurzen, frischen Spaziergang. Am Abend bietet die Plaza de Toros eine stimmungsvolle Kulisse für Ihre Fahrt durch die klare Winternacht.",
             "hu": "Kezdje kényelmesen, fűtött autóval a téli napot Albacetében. A katedrális és a múzeum kellemes megállóhelyek, amikor kint csökken a hőmérséklet. Délután a park hívogat egy rövid, frissítő sétára. Este a Bikaviadal-tér hangulatos díszletet nyújt a tiszta téli éjszakai autózáshoz.",
             "ro": "Începeți confortabil, cu mașina încălzită, ziua de iarnă în Albacete. Catedrala și muzeul sunt opriri plăcute când temperaturile scad afară. După-amiaza, parcul vă invită la o plimbare scurtă și proaspătă. Seara, Plaza de Toros oferă un cadru atmosferic pentru drumul prin noaptea senină.",
-            "en": "Start your winter day in Albacete comfortably in a heated car. The Cathedral and museum are pleasant stops when outside temperatures drop. In the afternoon, the park invites you for a short, fresh walk. In the evening, the Plaza de Toros provides an atmospheric backdrop for your drive through the clear winter night."
+            "en": "Start your winter day in Albacete comfortably in a heated car. The Cathedral and museum are pleasant stops when outside temperatures drop. In the afternoon, the park invites you for a short, fresh walk. In the evening, the Plaza de Toros provides an atmospheric backdrop for your drive through the clear winter night.",
+            "es": "Comienza tu día invernal en Albacete cómodamente en un coche calefactado. La Catedral y el museo son paradas agradables cuando las temperaturas exteriores bajan. Por la tarde, el parque invita a un breve paseo refrescante. Por la noche, la Plaza de Toros aporta un telón de fondo con atmósfera para tu paseo en coche bajo la clara noche invernal."
           },
           "stops": [
             {
@@ -1607,7 +1746,8 @@
                 "de": "Lassen Sie das Auto kurz warm laufen, bevor Sie starten.",
                 "hu": "Hagyja kicsit bemelegedni az autót indulás előtt.",
                 "ro": "Lăsați mașina să se încălzească puțin înainte de start.",
-                "en": "Let the car warm up briefly before you start."
+                "en": "Let the car warm up briefly before you start.",
+                "es": "Deja que el coche se caliente brevemente antes de comenzar."
               }
             },
             {
@@ -1616,7 +1756,8 @@
                 "de": "Parkplätze im direkten Umfeld sind im Winter oft frei.",
                 "hu": "A közvetlen környezetben télen gyakran van szabad parkoló.",
                 "ro": "Locurile de parcare din proximitate sunt adesea libere iarna.",
-                "en": "Parking spots in the immediate vicinity are often available in winter."
+                "en": "Parking spots in the immediate vicinity are often available in winter.",
+                "es": "En invierno suelen estar disponibles plazas en las inmediaciones."
               }
             },
             {
@@ -1625,7 +1766,8 @@
                 "de": "Ein warmer Zwischenstopp ist im Winter Gold wert.",
                 "hu": "Egy meleg pihenő télen aranyat ér.",
                 "ro": "O oprire la căldură valorează aur iarna.",
-                "en": "A warm stop is worth its weight in gold in winter."
+                "en": "A warm stop is worth its weight in gold in winter.",
+                "es": "Una parada para entrar en calor merece oro en invierno."
               }
             },
             {
@@ -1634,7 +1776,8 @@
                 "de": "Die Parkplatzsuche geht im Winter meist schneller.",
                 "hu": "Télen általában gyorsabb a parkolóhely-keresés.",
                 "ro": "Căutarea locului de parcare e de obicei mai rapidă iarna.",
-                "en": "Finding a parking spot is usually faster in winter."
+                "en": "Finding a parking spot is usually faster in winter.",
+                "es": "Encontrar plaza suele ser más rápido en invierno."
               }
             },
             {
@@ -1643,7 +1786,8 @@
                 "de": "Hinterlassen Sie keine Wertsachen sichtbar im Auto.",
                 "hu": "Ne hagyjon értéket látható helyen az autóban.",
                 "ro": "Nu lăsați obiecte de valoare la vedere în mașină.",
-                "en": "Don't leave valuables visible in the car."
+                "en": "Don't leave valuables visible in the car.",
+                "es": "No dejes objetos de valor a la vista en el coche."
               }
             },
             {
@@ -1652,7 +1796,8 @@
                 "de": "Die Abendbeleuchtung ist im Winter besonders klar.",
                 "hu": "Az esti kivilágítás télen különösen élesen látszik.",
                 "ro": "Iluminatul de seară este deosebit de clar iarna.",
-                "en": "Evening illumination is especially clear in winter."
+                "en": "Evening illumination is especially clear in winter.",
+                "es": "La iluminación nocturna es especialmente clara en invierno."
               }
             },
             {
@@ -1661,7 +1806,8 @@
                 "de": "Perfekter Ort für ein letztes Foto im Abendlicht.",
                 "hu": "Tökéletes hely egy utolsó fotóhoz az esti fényekben.",
                 "ro": "Locul perfect pentru o ultimă poză în lumina serii.",
-                "en": "Perfect spot for one last photo in the evening light."
+                "en": "Perfect spot for one last photo in the evening light.",
+                "es": "Lugar perfecto para una última foto con la luz de la tarde."
               }
             }
           ],
@@ -1693,6 +1839,13 @@
               "Parking in the center is generally more relaxed in winter.",
               "Watch for ice in shady curves on the outskirts.",
               "Use seat heating for maximum coziness."
+            ],
+            "es": [
+              "Revisa el anticongelante del líquido del limpiaparabrisas.",
+              "Las baterías se debilitan con el frío; vigila problemas de arranque.",
+              "Aparcar en el centro suele ser más tranquilo en invierno.",
+              "Cuidado con el hielo en las curvas sombreadas de las afueras.",
+              "Usa la calefacción de los asientos para mayor comodidad."
             ]
           }
         }
@@ -1711,7 +1864,8 @@
             "de": "Bezirk 1: Zentrum",
             "hu": "1. kerület: Központ",
             "ro": "Districtul 1: Centru",
-            "en": "District 1: Center"
+            "en": "District 1: Center",
+            "es": "Distrito 1: Centro"
           },
           "coords": [
             -1.855,
@@ -1727,7 +1881,8 @@
             "de": "Nehmen Sie einen Bus zur Plaza del Altozano und starten Sie am Pasaje de Lodares.",
             "hu": "Menjen busszal a Plaza del Altozano-ra és induljon a Pasaje de Lodares-től.",
             "ro": "Luați un autobuz până la Plaza del Altozano și începeți la Pasajul Lodares.",
-            "en": "Take a bus to Plaza del Altozano and start at Pasaje de Lodares."
+            "en": "Take a bus to Plaza del Altozano and start at Pasaje de Lodares.",
+            "es": "Toma un autobús hasta la Plaza del Altozano y comienza en el Pasaje de Lodares."
           }
         },
         {
@@ -1735,7 +1890,8 @@
             "de": "Kathedrale San Juan Bautista",
             "hu": "Keresztelő Szent János-katedrális",
             "ro": "Catedrala San Juan Bautista",
-            "en": "Cathedral of San Juan Bautista"
+            "en": "Cathedral of San Juan Bautista",
+            "es": "Catedral de San Juan Bautista"
           },
           "coords": [
             -1.858,
@@ -1751,7 +1907,8 @@
             "de": "Das Herz des Stadtzentrums, nur wenige Schritte entfernt.",
             "hu": "A városközpont szíve, csak néhány lépésre.",
             "ro": "Inima centrului orașului, la doar câțiva pași.",
-            "en": "The heart of the city center, just a few steps away."
+            "en": "The heart of the city center, just a few steps away.",
+            "es": "El corazón del centro, a pocos pasos."
           }
         },
         {
@@ -1759,7 +1916,8 @@
             "de": "Messer-Museum (Museo de la Cuchillería)",
             "hu": "Késmúzeum (Museo de la Cuchillería)",
             "ro": "Muzeul Cuțitelor (Museo de la Cuchillería)",
-            "en": "Museum of Cutlery (Museo de la Cuchillería)"
+            "en": "Museum of Cutlery (Museo de la Cuchillería)",
+            "es": "Museo de la Cuchillería"
           },
           "coords": [
             -1.859,
@@ -1775,7 +1933,8 @@
             "de": "Entdecken Sie die reiche Geschichte dieses Handwerks.",
             "hu": "Fedezze fel ennek a mesterségnek a gazdag történelmét.",
             "ro": "Descoperiți istoria bogată a acestei meserii.",
-            "en": "Discover the rich history of this craft."
+            "en": "Discover the rich history of this craft.",
+            "es": "Descubre la rica historia de este oficio."
           }
         },
         {
@@ -1783,7 +1942,8 @@
             "de": "Bezirk 2: Park & Kultur",
             "hu": "2. kerület: Park és Kultúra",
             "ro": "Districtul 2: Parc și Cultură",
-            "en": "District 2: Park & Culture"
+            "en": "District 2: Park & Culture",
+            "es": "Distrito 2: Parque y Cultura"
           },
           "coords": [
             -1.86,
@@ -1799,7 +1959,8 @@
             "de": "Nehmen Sie einen Bus zum Abelardo-Sánchez-Park. Genießen Sie eine lange Pause.",
             "hu": "Menjen busszal az Abelardo Sánchez parkhoz. Élvezzen egy hosszú szünetet.",
             "ro": "Luați un autobuz spre Parcul Abelardo Sánchez. Bucurați-vă de o pauză lungă.",
-            "en": "Take a bus to Abelardo Sánchez Park. Enjoy a long break."
+            "en": "Take a bus to Abelardo Sánchez Park. Enjoy a long break.",
+            "es": "Toma un autobús hasta el Parque Abelardo Sánchez. Disfruta de un largo descanso."
           }
         },
         {
@@ -1807,7 +1968,8 @@
             "de": "Bezirk 3: Arena & Messe",
             "hu": "3. kerület: Aréna és Vásár",
             "ro": "Districtul 3: Arenă și Târg",
-            "en": "District 3: Arena & Fair"
+            "en": "District 3: Arena & Fair",
+            "es": "Distrito 3: Plaza de Toros y Feria"
           },
           "coords": [
             -1.847,
@@ -1823,7 +1985,8 @@
             "de": "Eine weitere Busfahrt bringt Sie in die Nähe der Plaza de Toros.",
             "hu": "Egy újabb buszút visz a Plaza de Toros közelébe.",
             "ro": "O altă călătorie cu autobuzul vă duce în apropierea Plaza de Toros.",
-            "en": "Another bus ride will take you near the Plaza de Toros."
+            "en": "Another bus ride will take you near the Plaza de Toros.",
+            "es": "Otro trayecto en autobús te acercará a la Plaza de Toros."
           }
         },
         {
@@ -1831,7 +1994,8 @@
             "de": "Recinto Ferial",
             "hu": "Recinto Ferial",
             "ro": "Recinto Ferial",
-            "en": "Recinto Ferial"
+            "en": "Recinto Ferial",
+            "es": "Recinto Ferial"
           },
           "coords": [
             -1.848,
@@ -1847,7 +2011,8 @@
             "de": "Ein kurzer Spaziergang, um das einzigartige Messegelände zu sehen.",
             "hu": "Rövid séta az egyedi vásárterület megtekintéséhez.",
             "ro": "O scurtă plimbare pentru a vedea târgul unic.",
-            "en": "A short walk to see the unique fairground."
+            "en": "A short walk to see the unique fairground.",
+            "es": "A poca distancia a pie para ver el singular recinto ferial."
           }
         }
       ],
@@ -1855,7 +2020,8 @@
         "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Albacete in drei Etappen. Sie starten im Zentrum und besichtigen zu Fuß die Pasaje de Lodares, die Kathedrale und das Messer-Museum. Mittags bringt Sie ein Bus zum Abelardo-Sánchez-Park für eine entspannte Pause. Am Nachmittag fahren Sie mit dem Bus weiter zum Bezirk der Plaza de Toros und des Recinto Ferial, um die architektonischen Besonderheiten der Stadt zu entdecken.",
         "hu": "Tömegközlekedéssel három szakaszban fedezheti fel Albacetét. A központban indul, és gyalog fedezi fel a Pasaje de Lodares-t, a katedrálist és a Késmúzeumot. Délben egy busz viszi az Abelardo Sánchez parkhoz egy pihentető szünetre. Délután busszal utazik tovább a Plaza de Toros és a Recinto Ferial negyedébe, hogy felfedezze a város építészeti különlegességeit.",
         "ro": "Cu transportul public, explorați Albacete în trei etape. Începeți în centru și vizitați pe jos Pasajul Lodares, Catedrala și Muzeul Cuțitelor. La prânz, un autobuz vă duce la Parcul Abelardo Sánchez pentru o pauză relaxantă. După-amiaza, continuați cu autobuzul spre cartierul Plaza de Toros și Recinto Ferial pentru a descoperi particularitățile arhitecturale ale orașului.",
-        "en": "Using public transport, you'll explore Albacete in three stages. You start in the center, visiting Pasaje de Lodares, the Cathedral, and the Museum of Cutlery on foot. At noon, a bus takes you to Abelardo Sánchez Park for a relaxing break. In the afternoon, you'll continue by bus to the district of Plaza de Toros and Recinto Ferial to discover the city's architectural peculiarities."
+        "en": "Using public transport, you'll explore Albacete in three stages. You start in the center, visiting Pasaje de Lodares, the Cathedral, and the Museum of Cutlery on foot. At noon, a bus takes you to Abelardo Sánchez Park for a relaxing break. In the afternoon, you'll continue by bus to the district of Plaza de Toros and Recinto Ferial to discover the city's architectural peculiarities.",
+        "es": "Usando el transporte público explorarás Albacete en tres etapas. Comienzas en el centro visitando a pie el Pasaje de Lodares, la Catedral y el Museo de la Cuchillería. Al mediodía, un autobús te lleva al Parque Abelardo Sánchez para un descanso relajante. Por la tarde continúas en autobús hacia la zona de la Plaza de Toros y el Recinto Ferial para descubrir las peculiaridades arquitectónicas de la ciudad."
       },
       "gastro_picks": {
         "de": [
@@ -2031,6 +2197,12 @@
           "Check bus routes and schedules in advance online or with an app.",
           "Have small change ready for tickets bought from the driver.",
           "Be aware that bus frequency may be lower in the evenings and on weekends."
+        ],
+        "es": [
+          "Compra un bono diario de autobús para ahorrar.",
+          "Consulta las rutas y horarios de los autobuses con antelación en línea o con una app.",
+          "Ten cambio a mano para los billetes comprados al conductor.",
+          "Ten en cuenta que la frecuencia de los autobuses puede ser menor por la noche y los fines de semana."
         ]
       },
       "variants": {
@@ -2039,7 +2211,8 @@
             "de": "Nutzen Sie das Busnetz von Albacete, um trocken von Viertel zu Viertel zu gelangen. Das Zentrum bietet viele überdachte Wartehallen. Mittags und nachmittags sind Kathedrale und Museum ideale Indoor-Ziele. Abends bringt Sie der Bus sicher und bequem durch den Regen zurück, während Sie die Aussicht auf die nasse Stadt genießen.",
             "hu": "Használja Albacete buszhálózatát, hogy szárazon jusson el negyedről negyedre. A központban sok a fedett buszváró. Délben és délután a katedrális és a múzeum ideális beltéri úticélok. Este a busz biztonságosan és kényelmesen visz át az esőn, miközben az ablakból csodálhatja a vizes várost.",
             "ro": "Folosiți rețeaua de autobuze din Albacete pentru a ajunge uscat dintr-un cartier în altul. Centrul oferă multe stații acoperite. La prânz și după-amiază, catedrala și muzeul sunt destinații ideale de interior. Seara, autobuzul vă aduce în siguranță prin ploaie, în timp ce admirați orașul ud.",
-            "en": "Use Albacete's bus network to travel dry from district to district. The center offers many covered shelters. At noon and in the afternoon, the Cathedral and museum are ideal indoor destinations. In the evening, the bus takes you safely through the rain while you enjoy the view of the wet city."
+            "en": "Use Albacete's bus network to travel dry from district to district. The center offers many covered shelters. At noon and in the afternoon, the Cathedral and museum are ideal indoor destinations. In the evening, the bus takes you safely through the rain while you enjoy the view of the wet city.",
+            "es": "Usa la red de autobuses de Albacete para moverte seco de un distrito a otro. El centro ofrece muchas marquesinas cubiertas. Al mediodía y por la tarde, la Catedral y el museo son destinos interiores ideales. Por la noche, el autobús te lleva con seguridad bajo la lluvia mientras disfrutas de la ciudad húmeda."
           },
           "stops": [
             {
@@ -2048,7 +2221,8 @@
                 "de": "Warten Sie in der Pasaje de Lodares auf den nächsten Bus.",
                 "hu": "Várjon a Pasaje de Lodaresben a következő buszra.",
                 "ro": "Așteptați în Pasaje de Lodares următorul autobuz.",
-                "en": "Wait in Pasaje de Lodares for the next bus."
+                "en": "Wait in Pasaje de Lodares for the next bus.",
+                "es": "Espera en el Pasaje de Lodares al siguiente autobús."
               }
             },
             {
@@ -2057,7 +2231,8 @@
                 "de": "Die Bushaltestellen hier haben meist gute Unterstände.",
                 "hu": "Az itteni buszmegállók általában jó fedéllel rendelkeznek.",
                 "ro": "Stațiile de autobuz de aici au de obicei copertine bune.",
-                "en": "Bus stops here usually have good shelters."
+                "en": "Bus stops here usually have good shelters.",
+                "es": "Las paradas de autobús aquí suelen tener buenas marquesinas."
               }
             },
             {
@@ -2066,7 +2241,8 @@
                 "de": "Perfekt getaktet mit den Buslinien der Innenstadt.",
                 "hu": "Kiválóan összehangolva a belvárosi buszjáratokkal.",
                 "ro": "Perfect sincronizat cu liniile de autobuz din centru.",
-                "en": "Perfectly timed with the downtown bus lines."
+                "en": "Perfectly timed with the downtown bus lines.",
+                "es": "Perfectamente sincronizada con las líneas de autobús del centro."
               }
             },
             {
@@ -2075,7 +2251,8 @@
                 "de": "Nutzen Sie die App, um die Wartezeit im Regen zu minimieren.",
                 "hu": "Használja az appot, hogy minimálisra csökkentse a várakozást.",
                 "ro": "Folosiți aplicația pentru a minimiza așteptarea în ploaie.",
-                "en": "Use the app to minimize waiting time in the rain."
+                "en": "Use the app to minimize waiting time in the rain.",
+                "es": "Usa la app para minimizar el tiempo de espera bajo la lluvia."
               }
             },
             {
@@ -2084,7 +2261,8 @@
                 "de": "Große Haltestellen bieten hier oft guten Windschutz.",
                 "hu": "A nagy megállók itt gyakran jó szélvédelmet nyújtanak.",
                 "ro": "Stațiile mari oferă adesea protecție bună la vânt.",
-                "en": "Large stops here often offer good wind protection."
+                "en": "Large stops here often offer good wind protection.",
+                "es": "Las grandes paradas aquí suelen ofrecer buena protección contra el viento."
               }
             },
             {
@@ -2093,7 +2271,8 @@
                 "de": "Der Bus hält direkt am Eingang, ideal bei Guss.",
                 "hu": "A busz közvetlenül a bejáratnál áll meg, ideális esőben.",
                 "ro": "Autobuzul oprește chiar la intrare, ideal pe aversă.",
-                "en": "The bus stops right at the entrance, ideal during a downpour."
+                "en": "The bus stops right at the entrance, ideal during a downpour.",
+                "es": "El autobús para justo en la entrada, ideal durante un chaparrón."
               }
             }
           ],
@@ -2125,6 +2304,13 @@
               "Lines A and B cover the center well.",
               "Try not to board with heavily dripping umbrellas.",
               "Check real-time info, as rain can slow down traffic."
+            ],
+            "es": [
+              "Ten listo el cambio o la tarjeta.",
+              "En los autobuses hace agradable calor y es seco.",
+              "Las líneas A y B cubren bien el centro.",
+              "Procura no subir con paraguas muy goteando.",
+              "Consulta información en tiempo real, la lluvia puede ralentizar el tráfico."
             ]
           }
         },
@@ -2133,7 +2319,8 @@
             "de": "Genießen Sie Albacete im Winter mit dem komfortablen Nahverkehr. Die Busse bieten Schutz vor der kühlen Brise während Ihrer Tour zwischen Kathedrale und Museum. Nachmittags ist der Park schnell erreichbar, bevor die Kälte anzieht. Am Abend bringt Sie der Bus bequem durch die beleuchtete Winternacht zurück zu Ihrer Unterkunft.",
             "hu": "Élvezze Albacetét télen a kényelmes tömegközlekedéssel. A buszok védelmet nyújtanak a hűvös szél ellen a katedrális és a múzeum közötti úton. Délután a park gyorsan elérhető, mielőtt beállna az igazi hideg. Este a busz kényelmesen visz át a kivilágított téli éjszakán a szálláshelyére.",
             "ro": "Bucurați-vă de Albacete iarna cu transportul public confortabil. Autobuzele oferă protecție împotriva brizei reci în drumul dintre catedrală și muzeu. După-amiaza, parcul este rapid accesibil înainte de lăsarea frigului. Seara, autobuzul vă duce confortabil prin noaptea de iarnă iluminată.",
-            "en": "Enjoy Albacete in winter with comfortable public transport. The buses provide protection from the cool breeze during your tour between the Cathedral and museum. In the afternoon, the park is quickly reachable before the cold sets in. In the evening, the bus takes you comfortably through the illuminated winter night back to your stay."
+            "en": "Enjoy Albacete in winter with comfortable public transport. The buses provide protection from the cool breeze during your tour between the Cathedral and museum. In the afternoon, the park is quickly reachable before the cold sets in. In the evening, the bus takes you comfortably through the illuminated winter night back to your stay.",
+            "es": "Disfruta Albacete en invierno con el transporte público cómodo. Los autobuses te protegen de la brisa fría durante el recorrido entre la Catedral y el museo. Por la tarde el parque es rápido de alcanzar antes de que haga más frío. Por la noche, el autobús te devuelve cómodamente a tu alojamiento a través de la noche invernal iluminada."
           },
           "stops": [
             {
@@ -2142,7 +2329,8 @@
                 "de": "Warten Sie im Warmen, bis der Bus laut App fast da ist.",
                 "hu": "Várjon bent, amíg a busz az app szerint majdnem odaér.",
                 "ro": "Așteptați la căldură până autobuzul e aproape, conform aplicației.",
-                "en": "Wait indoors until the bus is almost there according to the app."
+                "en": "Wait indoors until the bus is almost there according to the app.",
+                "es": "Espera en el interior hasta que el autobús esté casi llegando según la app."
               }
             },
             {
@@ -2151,7 +2339,8 @@
                 "de": "Die Haltestellen in der Sonne sind im Winter beliebter.",
                 "hu": "A napos megállók télen népszerűbbek.",
                 "ro": "Stațiile însorite sunt mai populare iarna.",
-                "en": "Sunny bus stops are more popular in winter."
+                "en": "Sunny bus stops are more popular in winter.",
+                "es": "Las paradas soleadas son más populares en invierno."
               }
             },
             {
@@ -2160,7 +2349,8 @@
                 "de": "Kurze Wege zwischen Haltestelle und Museumseingang.",
                 "hu": "Rövid séta a megálló és a múzeumbemenet között.",
                 "ro": "Drum scurt între stație și intrarea în muzeu.",
-                "en": "Short distance between the stop and the museum entrance."
+                "en": "Short distance between the stop and the museum entrance.",
+                "es": "Corta distancia entre la parada y la entrada del museo."
               }
             },
             {
@@ -2169,7 +2359,8 @@
                 "de": "Beheizte Busse machen den Weg zum Park sehr angenehm.",
                 "hu": "A fűtött buszok kényelmessé teszik az utat a parkig.",
                 "ro": "Autobuzele încălzite fac drumul spre parc foarte plăcut.",
-                "en": "Heated buses make the trip to the park very pleasant."
+                "en": "Heated buses make the trip to the park very pleasant.",
+                "es": "Los autobuses con calefacción hacen muy agradable el viaje al parque."
               }
             },
             {
@@ -2178,7 +2369,8 @@
                 "de": "Abends sind die Busse hier oft weniger voll.",
                 "hu": "Este a buszok itt gyakran kevésbé zsúfoltak.",
                 "ro": "Seara autobuzele sunt adesea mai puțin aglomerate aici.",
-                "en": "Buses are often less crowded here in the evening."
+                "en": "Buses are often less crowded here in the evening.",
+                "es": "Los autobuses suelen estar menos concurridos por la noche."
               }
             },
             {
@@ -2187,7 +2379,8 @@
                 "de": "Letzter Bus-Check, bevor es in die kalte Nacht geht.",
                 "hu": "Utolsó buszellenőrzés a hideg éjszaka előtt.",
                 "ro": "Ultima verificare a autobuzului înainte de noaptea rece.",
-                "en": "Final bus check before heading out into the cold night."
+                "en": "Final bus check before heading out into the cold night.",
+                "es": "Chequeo final de autobuses antes de salir a la fría noche."
               }
             }
           ],
@@ -2219,6 +2412,13 @@
               "Use the bus shelters as windbreaks.",
               "Window seats offer great views of the winter lights.",
               "Avoid standing for long at windy street corners."
+            ],
+            "es": [
+              "Los autobuses son la forma más cálida de cruzar la ciudad en invierno.",
+              "Los horarios son muy fiables incluso en invierno.",
+              "Usa las marquesinas como rompevientos.",
+              "Los asientos junto a la ventana ofrecen buenas vistas de las luces invernales.",
+              "Evita permanecer mucho tiempo en esquinas de calles ventosas."
             ]
           }
         }

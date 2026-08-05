@@ -21,7 +21,8 @@
             "de": "Puente de la Maza",
             "hu": "Maza-híd",
             "ro": "Podul Maza",
-            "en": "Maza Bridge"
+            "en": "Maza Bridge",
+            "es": "Puente de Maza"
           },
           "coords": [
             -4.3915,
@@ -36,7 +37,8 @@
             "de": "Einst bekannt als Brücke mit den meisten Bögen Spaniens.",
             "hu": "Egykor Spanyolország legtöbb ívével rendelkező hídjaként ismerték.",
             "ro": "Cunoscut cândva ca podul cu cele mai multe arcade din Spania.",
-            "en": "Once known as the bridge with the most arches in Spain."
+            "en": "Once known as the bridge with the most arches in Spain.",
+            "es": "En su día conocido como el puente con más arcos de España."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Castillo del Rey",
             "hu": "Királyi Vár",
             "ro": "Castelul Regelui",
-            "en": "King's Castle"
+            "en": "King's Castle",
+            "es": "Castillo del Rey"
           },
           "coords": [
             -4.3985,
@@ -59,7 +62,8 @@
             "de": "Bietet einen hervorragenden Blick auf die Picos de Europa.",
             "hu": "Kiváló kilátást nyújt a Picos de Europa hegyeire.",
             "ro": "Oferă o vedere excelentă asupra munților Picos de Europa.",
-            "en": "Offers an excellent view of the Picos de Europa mountains."
+            "en": "Offers an excellent view of the Picos de Europa mountains.",
+            "es": "Ofrece una vista excelente de los Picos de Europa."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Iglesia de Santa María de los Ángeles",
             "hu": "Angyalok Boldogasszonya templom",
             "ro": "Biserica Santa Maria de los Ángeles",
-            "en": "Santa María de los Ángeles Church"
+            "en": "Santa María de los Ángeles Church",
+            "es": "Iglesia de Santa María de los Ángeles"
           },
           "coords": [
             -4.3995,
@@ -82,7 +87,8 @@
             "de": "Ein prächtiges Beispiel gotischer Architektur auf dem Hügel.",
             "hu": "A gótikus építészet pompás példája a dombtetőn.",
             "ro": "Un exemplu splendid de arhitectură gotică pe deal.",
-            "en": "A magnificent example of Gothic architecture on the hill."
+            "en": "A magnificent example of Gothic architecture on the hill.",
+            "es": "Un magnífico ejemplo de arquitectura gótica en la colina."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Palacio del Corro",
             "hu": "Corro palota",
             "ro": "Palatul Corro",
-            "en": "Corro Palace"
+            "en": "Corro Palace",
+            "es": "Palacio del Corro"
           },
           "coords": [
             -4.3975,
@@ -105,7 +112,8 @@
             "de": "Heute Sitz des Rathauses, bewundern Sie die Fassade.",
             "hu": "Ma a városháza székhelye, csodálja meg a homlokzatát.",
             "ro": "Astăzi sediul primăriei, admiră fațada.",
-            "en": "Today the town hall seat, admire the facade."
+            "en": "Today the town hall seat, admire the facade.",
+            "es": "Hoy sede del ayuntamiento; admira la fachada."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Mittelalterliche Stadtmauer",
             "hu": "Középkori városfal",
             "ro": "Zidul medieval al orașului",
-            "en": "Medieval City Wall"
+            "en": "Medieval City Wall",
+            "es": "Muralla medieval"
           },
           "coords": [
             -4.398,
@@ -128,7 +137,8 @@
             "de": "Folgen Sie dem befestigten Pfad für historische Einblicke.",
             "hu": "Kövesse a megerősített ösvényt a történelmi betekintésért.",
             "ro": "Urmează calea fortificată pentru perspective istorice.",
-            "en": "Follow the fortified path for historical insights."
+            "en": "Follow the fortified path for historical insights.",
+            "es": "Sigue el camino fortificado para conocer la historia."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Convento de San Luis",
             "hu": "Szent Lajos kolostor",
             "ro": "Mănăstirea San Luis",
-            "en": "San Luis Convent"
+            "en": "San Luis Convent",
+            "es": "Convento de San Luis"
           },
           "coords": [
             -4.394,
@@ -151,7 +162,8 @@
             "de": "Wunderschöne Ruinen in einer grünen Umgebung.",
             "hu": "Gyönyörű romok zöld környezetben.",
             "ro": "Ruine frumoase într-un cadru verde.",
-            "en": "Beautiful ruins in a green setting."
+            "en": "Beautiful ruins in a green setting.",
+            "es": "Hermosas ruinas en un entorno verde."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Ihr Spaziergang beginnt an der historischen Puente de la Maza, die über die Mündung führt. Steigen Sie zur Altstadt hinauf, um das Castillo del Rey und die beeindruckende Kirche Santa María zu besichtigen. Mittags erkunden Sie den Palacio del Corro und die alten Stadtmauern. Beenden Sie den Tag bei den friedlichen Ruinen des San Luis Konvents, während Sie die Aussicht auf die Küste genießen.",
         "hu": "Sétája a történelmi Maza-hídon kezdődik, amely az öblön ível át. Másszon fel az óvárosba, hogy megtekintse a Királyi Várat és a lenyűgöző Santa María-templomot. Délben fedezze fel a Corro-palotát és a régi városfalakat. A napot a Szent Lajos-kolostor békés romjainál fejezze be, miközben a tengerparti kilátásban gyönyörködik.",
         "ro": "Plimbarea începe la istoricul Pod Maza, care traversează estuarul. Urcați spre orașul vechi pentru a vizita Castelul Regelui și impresionanta biserică Santa María. La prânz, explorați Palatul Corro și zidurile vechi ale orașului. Încheiați ziua la ruinele liniștite ale mănăstirii San Luis, bucurându-vă de vederea spre coastă.",
-        "en": "Your walk begins at the historical Maza Bridge, crossing the estuary. Climb to the old town to visit the King's Castle and the impressive Santa María Church. At midday, explore the Corro Palace and the old city walls. End the day at the peaceful ruins of San Luis Convent while enjoying the coastal views."
+        "en": "Your walk begins at the historical Maza Bridge, crossing the estuary. Climb to the old town to visit the King's Castle and the impressive Santa María Church. At midday, explore the Corro Palace and the old city walls. End the day at the peaceful ruins of San Luis Convent while enjoying the coastal views.",
+        "es": "Tu paseo comienza en el histórico Puente de Maza, cruzando el estuario. Sube al casco antiguo para visitar el Castillo del Rey y la imponente iglesia de Santa María. Al mediodía, explora el Palacio del Corro y las antiguas murallas. Termina el día en las tranquilas ruinas del Convento de San Luis disfrutando de las vistas costeras."
       },
       "gastro_picks": {
         "de": [
@@ -275,6 +288,10 @@
         "en": [
           "The old town is steep, wear non-slip shoes.",
           "Watch the tides under the bridge."
+        ],
+        "es": [
+          "El casco antiguo es empinado; lleva calzado antideslizante.",
+          "Vigila las mareas bajo el puente."
         ]
       },
       "variants": {
@@ -283,7 +300,8 @@
             "de": "Ihr Spaziergang beginnt an der historischen Puente de la Maza, die über die Mündung führt. Steigen Sie zur Altstadt hinauf, um das Castillo del Rey und die beeindruckende Kirche Santa María zu besichtigen. Mittags erkunden Sie den Palacio del Corro und die alten Stadtmauern. Beenden Sie den Tag bei den friedlichen Ruinen des San Luis Konvents, während Sie die Aussicht auf die Küste genießen.",
             "hu": "Sétája a történelmi Maza-hídon kezdődik, amely az öblön ível át. Másszon fel az óvárosba, hogy megtekintse a Királyi Várat és a lenyűgöző Santa María-templomot. Délben fedezze fel a Corro-palotát és a régi városfalakat. A napot a Szent Lajos-kolostor békés romjainál fejezze be, miközben a tengerparti kilátásban gyönyörködik.",
             "ro": "Plimbarea începe la istoricul Pod Maza, care traversează estuarul. Urcați spre orașul vechi pentru a vizita Castelul Regelui și impresionanta biserică Santa María. La prânz, explorați Palatul Corro și zidurile vechi ale orașului. Încheiați ziua la ruinele liniștite ale mănăstirii San Luis, bucurându-vă de vederea spre coastă.",
-            "en": "Your walk begins at the historical Maza Bridge, crossing the estuary. Climb to the old town to visit the King's Castle and the impressive Santa María Church. At midday, explore the Corro Palace and the old city walls. End the day at the peaceful ruins of San Luis Convent while enjoying the coastal views."
+            "en": "Your walk begins at the historical Maza Bridge, crossing the estuary. Climb to the old town to visit the King's Castle and the impressive Santa María Church. At midday, explore the Corro Palace and the old city walls. End the day at the peaceful ruins of San Luis Convent while enjoying the coastal views.",
+            "es": "Tu paseo comienza en el histórico Puente de Maza, cruzando el estuario. Sube al casco antiguo para visitar el Castillo del Rey y la imponente iglesia de Santa María. Al mediodía, explora el Palacio del Corro y las antiguas murallas. Termina el día en las tranquilas ruinas del Convento de San Luis disfrutando de las vistas costeras."
           },
           "stops": [
             {
@@ -291,13 +309,15 @@
                 "de": "Puente de la Maza",
                 "hu": "Maza-híd",
                 "ro": "Podul Maza",
-                "en": "Maza Bridge"
+                "en": "Maza Bridge",
+                "es": "Puente de Maza"
               },
               "tip_5lang": {
                 "de": "Einst bekannt als Brücke mit den meisten Bögen Spaniens.",
                 "hu": "Egykor Spanyolország legtöbb ívével rendelkező hídjaként ismerték.",
                 "ro": "Cunoscut cândva ca podul cu cele mai multe arcade din Spania.",
-                "en": "Once known as the bridge with the most arches in Spain."
+                "en": "Once known as the bridge with the most arches in Spain.",
+                "es": "En su día conocido como el puente con más arcos de España."
               }
             },
             {
@@ -305,13 +325,15 @@
                 "de": "Castillo del Rey",
                 "hu": "Királyi Vár",
                 "ro": "Castelul Regelui",
-                "en": "King's Castle"
+                "en": "King's Castle",
+                "es": "Castillo del Rey"
               },
               "tip_5lang": {
                 "de": "Bietet einen hervorragenden Blick auf die Picos de Europa.",
                 "hu": "Kiváló kilátást nyújt a Picos de Europa hegyeire.",
                 "ro": "Oferă o vedere excelentă asupra munților Picos de Europa.",
-                "en": "Offers an excellent view of the Picos de Europa mountains."
+                "en": "Offers an excellent view of the Picos de Europa mountains.",
+                "es": "Ofrece una vista excelente de los Picos de Europa."
               }
             },
             {
@@ -319,13 +341,15 @@
                 "de": "Iglesia de Santa María de los Ángeles",
                 "hu": "Angyalok Boldogasszonya templom",
                 "ro": "Biserica Santa Maria de los Ángeles",
-                "en": "Santa María de los Ángeles Church"
+                "en": "Santa María de los Ángeles Church",
+                "es": "Iglesia de Santa María de los Ángeles"
               },
               "tip_5lang": {
                 "de": "Ein prächtiges Beispiel gotischer Architektur auf dem Hügel.",
                 "hu": "A gótikus építészet pompás példája a dombtetőn.",
                 "ro": "Un exemplu splendid de arhitectură gotică pe deal.",
-                "en": "A magnificent example of Gothic architecture on the hill."
+                "en": "A magnificent example of Gothic architecture on the hill.",
+                "es": "Un magnífico ejemplo de arquitectura gótica en la colina."
               }
             },
             {
@@ -333,13 +357,15 @@
                 "de": "Palacio del Corro",
                 "hu": "Corro palota",
                 "ro": "Palatul Corro",
-                "en": "Corro Palace"
+                "en": "Corro Palace",
+                "es": "Palacio del Corro"
               },
               "tip_5lang": {
                 "de": "Heute Sitz des Rathauses, bewundern Sie die Fassade.",
                 "hu": "Ma a városháza székhelye, csodálja meg a homlokzatát.",
                 "ro": "Astăzi sediul primăriei, admiră fațada.",
-                "en": "Today the town hall seat, admire the facade."
+                "en": "Today the town hall seat, admire the facade.",
+                "es": "Hoy sede del ayuntamiento; admira la fachada."
               }
             },
             {
@@ -347,13 +373,15 @@
                 "de": "Mittelalterliche Stadtmauer",
                 "hu": "Középkori városfal",
                 "ro": "Zidul medieval al orașului",
-                "en": "Medieval City Wall"
+                "en": "Medieval City Wall",
+                "es": "Muralla medieval"
               },
               "tip_5lang": {
                 "de": "Folgen Sie dem befestigten Pfad für historische Einblicke.",
                 "hu": "Kövesse a megerősített ösvényt a történelmi betekintésért.",
                 "ro": "Urmează calea fortificată pentru perspective istorice.",
-                "en": "Follow the fortified path for historical insights."
+                "en": "Follow the fortified path for historical insights.",
+                "es": "Sigue el camino fortificado para conocer la historia."
               }
             },
             {
@@ -361,13 +389,15 @@
                 "de": "Convento de San Luis",
                 "hu": "Szent Lajos kolostor",
                 "ro": "Mănăstirea San Luis",
-                "en": "San Luis Convent"
+                "en": "San Luis Convent",
+                "es": "Convento de San Luis"
               },
               "tip_5lang": {
                 "de": "Wunderschöne Ruinen in einer grünen Umgebung.",
                 "hu": "Gyönyörű romok zöld környezetben.",
                 "ro": "Ruine frumoase într-un cadru verde.",
-                "en": "Beautiful ruins in a green setting."
+                "en": "Beautiful ruins in a green setting.",
+                "es": "Hermosas ruinas en un entorno verde."
               }
             }
           ],
@@ -485,6 +515,10 @@
             "en": [
               "The old town is steep, wear non-slip shoes.",
               "Watch the tides under the bridge."
+            ],
+            "es": [
+              "El casco antiguo es empinado; lleva calzado antideslizante.",
+              "Vigila las mareas bajo el puente."
             ]
           }
         },
@@ -493,7 +527,8 @@
             "de": "Der Morgen beginnt auf der Brücke von Maza, wo Regen und Wind vom Meer her peitschen. Wir suchen Schutz in den engen Gassen der Oberstadt.\nZu Mittag essen wir gemütlich unter den Arkaden am Marktplatz.\nDer Nachmittag gehört der Kirche und dem Schloss, deren massive Mauern uns trocken halten.\nAbends erzeugt das Plätschern des Regens bei den Ruinen von San Luis eine mystische Stille.",
             "hu": "A reggel a Maza-hídon indul, ahol az eső és a szél a tenger felől ostorozza a partot. Az óváros szűk utcáin keresünk menedéket.\nEbédünket a főtér árkádjai alatt található hangulatos étteremben költjük el.\nA délutánt a templomnak és a várnak szenteljük, melyek falai szárazon tartanak.\nAz estét San Luis romjainál zárjuk, ahol az eső kopogása misztikus csendet teremt.",
             "ro": "Dimineața începe pe podul Maza, unde ploaia și vântul dinspre mare biciuiesc țărmul. Căutăm adăpost pe străzile înguste ale orașului vechi.\nPrânzim într-un restaurant primitor sub arcadele din piața centrală.\nDupă-amiaza este dedicată bisericii și castelului, ale căror ziduri ne țin uscați.\nSeara se încheie la ruinele San Luis, unde ropotul ploii creează o liniște mistică.",
-            "en": "Morning starts on the windy Maza Bridge as rain whips the shore. We seek shelter in the upper town's narrow streets.\nLunch is in a cozy restaurant under the main square's arches.\nThe afternoon is for the church and castle; their walls keep us dry while we explore.\nThe evening ends at the ruins of San Luis, where the rain creates a mystical silence."
+            "en": "Morning starts on the windy Maza Bridge as rain whips the shore. We seek shelter in the upper town's narrow streets.\nLunch is in a cozy restaurant under the main square's arches.\nThe afternoon is for the church and castle; their walls keep us dry while we explore.\nThe evening ends at the ruins of San Luis, where the rain creates a mystical silence.",
+            "es": "La mañana empieza en el ventoso Puente de Maza mientras la lluvia golpea la costa. Buscamos refugio en las calles estrechas del barrio alto.\nLa comida es en un restaurante acogedor bajo los arcos de la plaza principal.\nPor la tarde visitamos la iglesia y el castillo; sus muros nos protegen de la lluvia mientras exploramos.\nLa noche termina en las ruinas de San Luis, donde la lluvia crea un silencio misterioso."
           },
           "stops": [
             {
@@ -502,7 +537,8 @@
                 "de": "Regenschirm fest halten, der Wind vom Meer ist stark.",
                 "hu": "Fogd erősen az esernyőt, a tengeri szél erős.",
                 "ro": "Ține bine umbrela, vântul de pe mare este puternic.",
-                "en": "Hold your umbrella tight; the sea breeze is strong."
+                "en": "Hold your umbrella tight; the sea breeze is strong.",
+                "es": "Sujeta bien el paraguas; la brisa marina es fuerte."
               }
             },
             {
@@ -511,7 +547,8 @@
                 "de": "Idealer Ort, um der Nässe zu entfliehen und Geschichte zu erleben.",
                 "hu": "Ideális hely az eső elől való menekülésre és a történelemre.",
                 "ro": "Loc ideal pentru a scăpa de ploaie și a explora istoria.",
-                "en": "Ideal place to escape the wet and explore history."
+                "en": "Ideal place to escape the wet and explore history.",
+                "es": "Lugar ideal para escapar del agua y explorar la historia."
               }
             },
             {
@@ -520,7 +557,8 @@
                 "de": "Die dicken Mauern bieten perfekten Schutz vor dem Regen.",
                 "hu": "A vastag falak tökéletes védelmet nyújtanak az eső ellen.",
                 "ro": "Zidurile groase oferă protecție perfectă împotriva ploii.",
-                "en": "The thick walls provide perfect protection from the rain."
+                "en": "The thick walls provide perfect protection from the rain.",
+                "es": "Los muros gruesos ofrecen perfecta protección contra la lluvia."
               }
             },
             {
@@ -529,7 +567,8 @@
                 "de": "Bewundern Sie die Fassade schnell von den gegenüberliegenden Arkaden.",
                 "hu": "Csodálja meg a homlokzatot a szemközti árkádok alól.",
                 "ro": "Admirați fațada rapid de sub arcadele de vis-à-vis.",
-                "en": "Admire the facade quickly from the arches opposite."
+                "en": "Admire the facade quickly from the arches opposite.",
+                "es": "Admira rápidamente la fachada desde los arcos de enfrente."
               }
             },
             {
@@ -538,7 +577,8 @@
                 "de": "Vorsicht auf dem Kopfsteinpflaster, es kann rutschig sein.",
                 "hu": "Vigyázzon a macskaköveken, csúszósak lehetnek.",
                 "ro": "Atenție pe piatra cubică, poate fi alunecoasă.",
-                "en": "Be careful on the cobblestones; they can be slippery."
+                "en": "Be careful on the cobblestones; they can be slippery.",
+                "es": "Ten cuidado con los empedrados; pueden resbalar."
               }
             },
             {
@@ -547,7 +587,8 @@
                 "de": "Ein ruhiger, überdachter Ort für das Ende des Spaziergangs.",
                 "hu": "Csendes, fedett hely a séta végére.",
                 "ro": "Un loc liniștit și acoperit pentru finalul plimbării.",
-                "en": "A quiet, covered spot for the end of the walk."
+                "en": "A quiet, covered spot for the end of the walk.",
+                "es": "Un rincón tranquilo y cubierto para terminar el paseo."
               }
             }
           ],
@@ -579,6 +620,13 @@
               "A sturdy umbrella is better than a cape.",
               "Visit the castle during the heaviest showers.",
               "Stone steps can be very slippery when wet."
+            ],
+            "es": [
+              "Lleva botas de senderismo impermeables por los charcos.",
+              "Usa los soportales para descansar a cubierto.",
+              "Un paraguas resistente es mejor que una capa.",
+              "Visita el castillo durante los chaparrones más fuertes.",
+              "Los peldaños de piedra pueden estar muy resbaladizos cuando están mojados."
             ]
           }
         },
@@ -587,7 +635,8 @@
             "de": "Die klare Winterluft macht den Spaziergang über die Brücke erfrischend. Bei blauem Himmel glänzen die schneebedeckten Picos de Europa.\nZu Mittag wärmen wir uns in einer Bodega bei einem heißen Eintopf auf.\nNachmittags erkunden wir die historischen Mauern in der kühlen Brise.\nDie Sonne verschwindet früh hinter dem Horizont und taucht die Stadt in goldenes Licht.",
             "hu": "A tiszta téli levegő frissítővé teszi a sétát a hídon. Kék égbolt mellett a távolban a Picos de Europa hófödte csúcsai csillognak.\nDélben egy bodegában melegszünk fel egy forró egytálétellel.\nDélután a történelmi falakat fedezzük fel a hűvös szélben.\nA nap korán eltűnik a horizont mögött, és aranyló fénybe öltözteti a várost.",
             "ro": "Aerul curat de iarnă face plimbarea peste pod revigorantă. Sub cerul albastru, vârfurile înzăpezite din Picos de Europa strălucesc.\nLa prânz ne încălzim într-o bodegă cu o tocană fierbinte.\nDupă-amiaza explorăm zidurile istorice în briza răcoroasă.\nSoarele apune devreme, scăldând orașul într-o lumină aurie înainte de seară.",
-            "en": "The clear winter morning air makes the walk across the bridge refreshing. Under blue skies, the snow-capped Picos de Europa shine.\nAt noon, we warm up in a local bodega with a hot stew.\nIn the afternoon, we explore the historical walls in the crisp air.\nThe sun sets early behind the horizon, bathing the town in golden light."
+            "en": "The clear winter morning air makes the walk across the bridge refreshing. Under blue skies, the snow-capped Picos de Europa shine.\nAt noon, we warm up in a local bodega with a hot stew.\nIn the afternoon, we explore the historical walls in the crisp air.\nThe sun sets early behind the horizon, bathing the town in golden light.",
+            "es": "El claro aire de la mañana invernal hace que el paseo por el puente sea revitalizante. Bajo cielos azules, los Picos de Europa nevados brillan.\nAl mediodía nos reconfortamos en una bodega local con un cocido caliente.\nPor la tarde exploramos las murallas históricas con el aire fresco.\nEl sol se pone pronto tras el horizonte, bañando el pueblo con luz dorada."
           },
           "stops": [
             {
@@ -596,7 +645,8 @@
                 "de": "Genießen Sie den Blick auf die schneebedeckten Berge.",
                 "hu": "Élvezze a kilátást a hófödte hegyekre.",
                 "ro": "Bucurați-vă de vederea spre munții înzăpeziți.",
-                "en": "Enjoy the view of the snow-capped mountains."
+                "en": "Enjoy the view of the snow-capped mountains.",
+                "es": "Disfruta de la vista de las montañas nevadas."
               }
             },
             {
@@ -605,7 +655,8 @@
                 "de": "Ziehen Sie sich warm an, die Steinmauern sind im Winter kalt.",
                 "hu": "Öltözzön melegen, a kőfalak télen hidegek.",
                 "ro": "Îmbrăcați-vă gros, zidurile de piatră sunt reci iarna.",
-                "en": "Dress warmly; the stone walls are cold in winter."
+                "en": "Dress warmly; the stone walls are cold in winter.",
+                "es": "Abrígate; las paredes de piedra están frías en invierno."
               }
             },
             {
@@ -614,7 +665,8 @@
                 "de": "Die Kirche ist kühl; die gotische Kunst wärmt das Herz.",
                 "hu": "A templom hűvös, de a gótikus művészet melenget.",
                 "ro": "Biserica este răcoroasă, dar arta gotică încălzește.",
-                "en": "The church is chilly, but the gothic art warms the heart."
+                "en": "The church is chilly, but the gothic art warms the heart.",
+                "es": "La iglesia está fría, pero el arte gótico calienta el alma."
               }
             },
             {
@@ -623,7 +675,8 @@
                 "de": "Das Gebäude dient heute als Rathaus; ein kurzer Stopp.",
                 "hu": "Az épület ma városháza; egy rövid külső megálló.",
                 "ro": "Clădirea servește azi ca primărie; o scurtă oprire.",
-                "en": "The building serves as the town hall; a short stop."
+                "en": "The building serves as the town hall; a short stop.",
+                "es": "El edificio funciona como ayuntamiento; una parada breve."
               }
             },
             {
@@ -632,7 +685,8 @@
                 "de": "Erleben Sie die Atmosphäre in der frühen Dämmerung.",
                 "hu": "Tapaszalja meg a hangulatot a korai szürkületben.",
                 "ro": "Experimentați atmosfera în amurgul timpuriu.",
-                "en": "Experience the atmosphere in the early twilight."
+                "en": "Experience the atmosphere in the early twilight.",
+                "es": "Vive la atmósfera en el crepúsculo temprano."
               }
             },
             {
@@ -641,7 +695,8 @@
                 "de": "Besuchen Sie die Ruinen, bevor es um 17:30 Uhr dunkel wird.",
                 "hu": "Látogassa meg a romokat, mielőtt 17:30-kor besötétedik.",
                 "ro": "Vizitați ruinele înainte de a se întuneca la 17:30.",
-                "en": "Visit the ruins before it gets dark at 17:30."
+                "en": "Visit the ruins before it gets dark at 17:30.",
+                "es": "Visita las ruinas antes de que anochezca a las 17:30."
               }
             }
           ],
@@ -673,6 +728,13 @@
               "The view of the Picos de Europa is fantastic in winter.",
               "Dress in layers against the cold sea wind.",
               "Try a warming traditional Cocido Montañés stew."
+            ],
+            "es": [
+              "El sol se pone tan temprano como a las 17:30 en diciembre.",
+              "Programa las visitas al castillo para las horas cálidas del mediodía.",
+              "La vista de los Picos de Europa es fantástica en invierno.",
+              "Vístete por capas contra el frío viento marino.",
+              "Prueba un reconfortante cocido montañés tradicional."
             ]
           }
         }
@@ -691,7 +753,8 @@
             "de": "Puente de la Maza",
             "hu": "Maza-híd",
             "ro": "Podul Maza",
-            "en": "Maza Bridge"
+            "en": "Maza Bridge",
+            "es": "Puente de Maza"
           },
           "coords": [
             -4.3915,
@@ -706,7 +769,8 @@
             "de": "Ein flacher Start mit Blick auf das Wasser.",
             "hu": "Lapos kezdés vízparti kilátással.",
             "ro": "Un început plat cu vedere la apă.",
-            "en": "A flat start with waterfront views."
+            "en": "A flat start with waterfront views.",
+            "es": "Un comienzo llano con vistas al mar."
           }
         },
         {
@@ -714,7 +778,8 @@
             "de": "Playa del Merón",
             "hu": "Merón-strand",
             "ro": "Plaja Merón",
-            "en": "Merón Beach"
+            "en": "Merón Beach",
+            "es": "Playa de Merón"
           },
           "coords": [
             -4.385,
@@ -729,7 +794,8 @@
             "de": "Langer Sandstrand, ideal für eine Pause am Meer.",
             "hu": "Hosszú homokos strand, ideális egy tengerparti szünethez.",
             "ro": "Plajă lungă de nisip, ideală pentru o pauză la mare.",
-            "en": "Long sandy beach, ideal for a seaside break."
+            "en": "Long sandy beach, ideal for a seaside break.",
+            "es": "Extensa playa de arena, ideal para un descanso junto al mar."
           }
         },
         {
@@ -737,7 +803,8 @@
             "de": "Faro de Punta de la Silla",
             "hu": "Punta de la Silla világítótorony",
             "ro": "Farul Punta de la Silla",
-            "en": "Punta de la Silla Lighthouse"
+            "en": "Punta de la Silla Lighthouse",
+            "es": "Faro de Punta de la Silla"
           },
           "coords": [
             -4.39,
@@ -752,7 +819,8 @@
             "de": "Genießen Sie den Wind und die Aussicht auf den Golf von Biskaya.",
             "hu": "Élvezze a szelet és a kilátást a Vizcayai-öbölre.",
             "ro": "Bucură-te de vânt și de vederea spre Golful Biscaia.",
-            "en": "Enjoy the wind and the views over the Bay of Biscay."
+            "en": "Enjoy the wind and the views over the Bay of Biscay.",
+            "es": "Disfruta del viento y las vistas sobre la costa del Cantábrico."
           }
         },
         {
@@ -760,7 +828,8 @@
             "de": "Parque Natural de Oyambre",
             "hu": "Oyambre Természeti Park",
             "ro": "Parcul Natural Oyambre",
-            "en": "Oyambre Natural Park"
+            "en": "Oyambre Natural Park",
+            "es": "Parque Natural de Oyambre"
           },
           "coords": [
             -4.35,
@@ -775,7 +844,8 @@
             "de": "Radeln Sie durch Wiesen und Dünen in diesem Schutzgebiet.",
             "hu": "Kerékpározzon réteken és dűnéken keresztül ebben a védett övezetben.",
             "ro": "Pedalează prin pajiști și dune în această arie protejată.",
-            "en": "Cycle through meadows and dunes in this protected area."
+            "en": "Cycle through meadows and dunes in this protected area.",
+            "es": "Pedalea entre praderas y dunas en esta zona protegida."
           }
         },
         {
@@ -783,7 +853,8 @@
             "de": "Castillo del Rey",
             "hu": "Királyi Vár",
             "ro": "Castelul Regelui",
-            "en": "King's Castle"
+            "en": "King's Castle",
+            "es": "Castillo del Rey"
           },
           "coords": [
             -4.3985,
@@ -798,7 +869,8 @@
             "de": "Ein letzter Anstieg zur Burg für den goldenen Sonnenuntergang.",
             "hu": "Egy utolsó emelkedő a várhoz az aranyló naplementéhez.",
             "ro": "O ultimă urcare spre castel pentru apusul auriu.",
-            "en": "A final climb to the castle for the golden sunset."
+            "en": "A final climb to the castle for the golden sunset.",
+            "es": "Una última subida al castillo para el atardecer dorado."
           }
         }
       ],
@@ -806,7 +878,8 @@
         "de": "Diese Radtour führt Sie entlang der Küste von San Vicente zum weitläufigen Strand von Merón und weiter zum Leuchtturm. Der Höhepunkt ist die Fahrt durch den Naturpark Oyambre, eine Oase der Ruhe mit Klippen und Dünen. Die Route kehrt zur Altstadt zurück, wo Sie den Tag mit einem Besuch der mittelalterlichen Burg und einem Panoramablick abschließen.",
         "hu": "Ez a kerékpártúra San Vicente partja mentén vezet a tágas Merón-strandhoz, majd tovább a világítótoronyhoz. A csúcspont az Oyambre Természeti Parkon való áthaladás, amely a nyugalom oázisa sziklákkal és dűnékkel. Az útvonal visszatér az óvárosba, ahol a napot a középkori vár meglátogatásával és panorámás kilátással zárja.",
         "ro": "Acest tur cu bicicleta te poartă de-a lungul coastei din San Vicente spre plaja întinsă Merón și mai departe spre far. Punctul culminant este traversarea Parcului Natural Oyambre, o oază de liniște cu stânci și dune. Traseul revine în orașul vechi, unde închei ziua cu o vizită la castelul medieval și o vedere panoramică.",
-        "en": "This bike tour takes you along San Vicente's coast to the vast Merón Beach and further to the lighthouse. The highlight is cycling through Oyambre Natural Park, an oasis of calm with cliffs and dunes. The route returns to the old town, where you close the day with a visit to the medieval castle and a panoramic view."
+        "en": "This bike tour takes you along San Vicente's coast to the vast Merón Beach and further to the lighthouse. The highlight is cycling through Oyambre Natural Park, an oasis of calm with cliffs and dunes. The route returns to the old town, where you close the day with a visit to the medieval castle and a panoramic view.",
+        "es": "Esta ruta en bicicleta recorre la costa de San Vicente hasta la amplia playa de Merón y continúa hasta el faro. El punto culminante es pedalear por el Parque Natural de Oyambre, un oasis de calma con acantilados y dunas. La ruta vuelve al casco antiguo, donde cierras el día con la visita al castillo medieval y una vista panorámica."
       },
       "gastro_picks": {
         "de": [
@@ -906,6 +979,10 @@
         "en": [
           "It can be windy in Oyambre, bring a light jacket.",
           "The bridge has a narrow walkway, push your bike if needed."
+        ],
+        "es": [
+          "En Oyambre puede hacer viento; lleva una chaqueta ligera.",
+          "El puente tiene pasarela estrecha; empuja la bici si es necesario."
         ]
       },
       "variants": {
@@ -914,7 +991,8 @@
             "de": "Diese Radtour führt Sie entlang der Küste von San Vicente zum weitläufigen Strand von Merón und weiter zum Leuchtturm. Der Höhepunkt ist die Fahrt durch den Naturpark Oyambre, eine Oase der Ruhe mit Klippen und Dünen. Die Route kehrt zur Altstadt zurück, wo Sie den Tag mit einem Besuch der mittelalterlichen Burg und einem Panoramablick abschließen.",
             "hu": "Ez a kerékpártúra San Vicente partja mentén vezet a tágas Merón-strandhoz, majd tovább a világítótoronyhoz. A csúcspont az Oyambre Természeti Parkon való áthaladás, amely a nyugalom oázisa sziklákkal és dűnékkel. Az útvonal visszatér az óvárosba, ahol a napot a középkori vár meglátogatásával és panorámás kilátással zárja.",
             "ro": "Acest tur cu bicicleta te poartă de-a lungul coastei din San Vicente spre plaja întinsă Merón și mai departe spre far. Punctul culminant este traversarea Parcului Natural Oyambre, o oază de liniște cu stânci și dune. Traseul revine în orașul vechi, unde închei ziua cu o vizită la castelul medieval și o vedere panoramică.",
-            "en": "This bike tour takes you along San Vicente's coast to the vast Merón Beach and further to the lighthouse. The highlight is cycling through Oyambre Natural Park, an oasis of calm with cliffs and dunes. The route returns to the old town, where you close the day with a visit to the medieval castle and a panoramic view."
+            "en": "This bike tour takes you along San Vicente's coast to the vast Merón Beach and further to the lighthouse. The highlight is cycling through Oyambre Natural Park, an oasis of calm with cliffs and dunes. The route returns to the old town, where you close the day with a visit to the medieval castle and a panoramic view.",
+            "es": "Esta ruta en bicicleta recorre la costa de San Vicente hasta la amplia playa de Merón y continúa hasta el faro. El punto culminante es pedalear por el Parque Natural de Oyambre, un oasis de calma con acantilados y dunas. La ruta vuelve al casco antiguo, donde cierras el día con la visita al castillo medieval y una vista panorámica."
           },
           "stops": [
             {
@@ -922,13 +1000,15 @@
                 "de": "Puente de la Maza",
                 "hu": "Maza-híd",
                 "ro": "Podul Maza",
-                "en": "Maza Bridge"
+                "en": "Maza Bridge",
+                "es": "Puente de Maza"
               },
               "tip_5lang": {
                 "de": "Ein flacher Start mit Blick auf das Wasser.",
                 "hu": "Lapos kezdés vízparti kilátással.",
                 "ro": "Un început plat cu vedere la apă.",
-                "en": "A flat start with waterfront views."
+                "en": "A flat start with waterfront views.",
+                "es": "Un comienzo llano con vistas al mar."
               }
             },
             {
@@ -936,13 +1016,15 @@
                 "de": "Playa del Merón",
                 "hu": "Merón-strand",
                 "ro": "Plaja Merón",
-                "en": "Merón Beach"
+                "en": "Merón Beach",
+                "es": "Playa de Merón"
               },
               "tip_5lang": {
                 "de": "Langer Sandstrand, ideal für eine Pause am Meer.",
                 "hu": "Hosszú homokos strand, ideális egy tengerparti szünethez.",
                 "ro": "Plajă lungă de nisip, ideală pentru o pauză la mare.",
-                "en": "Long sandy beach, ideal for a seaside break."
+                "en": "Long sandy beach, ideal for a seaside break.",
+                "es": "Extensa playa de arena, ideal para un descanso junto al mar."
               }
             },
             {
@@ -950,13 +1032,15 @@
                 "de": "Faro de Punta de la Silla",
                 "hu": "Punta de la Silla világítótorony",
                 "ro": "Farul Punta de la Silla",
-                "en": "Punta de la Silla Lighthouse"
+                "en": "Punta de la Silla Lighthouse",
+                "es": "Faro de Punta de la Silla"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Wind und die Aussicht auf den Golf von Biskaya.",
                 "hu": "Élvezze a szelet és a kilátást a Vizcayai-öbölre.",
                 "ro": "Bucură-te de vânt și de vederea spre Golful Biscaia.",
-                "en": "Enjoy the wind and the views over the Bay of Biscay."
+                "en": "Enjoy the wind and the views over the Bay of Biscay.",
+                "es": "Disfruta del viento y las vistas sobre la costa del Cantábrico."
               }
             },
             {
@@ -964,13 +1048,15 @@
                 "de": "Parque Natural de Oyambre",
                 "hu": "Oyambre Természeti Park",
                 "ro": "Parcul Natural Oyambre",
-                "en": "Oyambre Natural Park"
+                "en": "Oyambre Natural Park",
+                "es": "Parque Natural de Oyambre"
               },
               "tip_5lang": {
                 "de": "Radeln Sie durch Wiesen und Dünen in diesem Schutzgebiet.",
                 "hu": "Kerékpározzon réteken és dűnéken keresztül ebben a védett övezetben.",
                 "ro": "Pedalează prin pajiști și dune în această arie protejată.",
-                "en": "Cycle through meadows and dunes in this protected area."
+                "en": "Cycle through meadows and dunes in this protected area.",
+                "es": "Pedalea entre praderas y dunas en esta zona protegida."
               }
             },
             {
@@ -978,13 +1064,15 @@
                 "de": "Castillo del Rey",
                 "hu": "Királyi Vár",
                 "ro": "Castelul Regelui",
-                "en": "King's Castle"
+                "en": "King's Castle",
+                "es": "Castillo del Rey"
               },
               "tip_5lang": {
                 "de": "Ein letzter Anstieg zur Burg für den goldenen Sonnenuntergang.",
                 "hu": "Egy utolsó emelkedő a várhoz az aranyló naplementéhez.",
                 "ro": "O ultimă urcare spre castel pentru apusul auriu.",
-                "en": "A final climb to the castle for the golden sunset."
+                "en": "A final climb to the castle for the golden sunset.",
+                "es": "Una última subida al castillo para el atardecer dorado."
               }
             }
           ],
@@ -1086,6 +1174,10 @@
             "en": [
               "It can be windy in Oyambre, bring a light jacket.",
               "The bridge has a narrow walkway, push your bike if needed."
+            ],
+            "es": [
+              "En Oyambre puede hacer viento; lleva una chaqueta ligera.",
+              "El puente tiene pasarela estrecha; empuja la bici si es necesario."
             ]
           }
         },
@@ -1094,7 +1186,8 @@
             "de": "Eine sportliche Fahrt über die lange Brücke im Regen eröffnet den Tag. Die Gischt mischt sich mit den Tropfen.\nAm Merón-Strand spüren wir die Kraft der stürmischen Brandung.\nNachmittags führt der Weg zum Leuchtturm, wo der Wind kräftig weht.\nWir beenden die Tour am Schloss, wo wir uns unterstellen und den Blick genießen.",
             "hu": "Egy sportos tekerés a hosszú hídon az esőben nyitja a napot. A tengeri permet keveredik az esőcseppekkel.\nA Merón-strandon érezzük a viharos hullámverés erejét.\nDélután az út a világítótoronyhoz vezet, ahol a szél erősen fúj.\nA túrát a várnál fejezzük be, ahol behúzódhatunk a fedél alá.",
             "ro": "O plimbare sportivă pe podul lung în ploaie deschide ziua. Pulverizarea mării se amestecă cu picăturile de ploaie.\nPe plaja Merón simțim forța valurilor învolburate.\nDupă-amiaza drumul ne duce la far, unde vântul suflă tare.\nÎncheiem turul la castel, unde ne putem adăposti și admira vederea.",
-            "en": "A sporty ride across the long bridge in the rain opens the day. Sea spray mixes with raindrops as we pedal.\nAt Merón beach, we feel the power of the stormy surf.\nIn the afternoon, the route leads to the lighthouse with strong winds.\nWe finish at the castle, taking cover while enjoying the bay view."
+            "en": "A sporty ride across the long bridge in the rain opens the day. Sea spray mixes with raindrops as we pedal.\nAt Merón beach, we feel the power of the stormy surf.\nIn the afternoon, the route leads to the lighthouse with strong winds.\nWe finish at the castle, taking cover while enjoying the bay view.",
+            "es": "Una ruta enérgica cruzando el largo puente bajo la lluvia abre el día. El rocío del mar se mezcla con las gotas mientras pedaleamos.\nEn la playa de Merón sentimos la fuerza del oleaje tormentoso.\nPor la tarde, la ruta lleva al faro con vientos fuertes.\nTerminamos en el castillo, refugiándonos mientras disfrutamos de la vista de la bahía."
           },
           "stops": [
             {
@@ -1103,7 +1196,8 @@
                 "de": "Vorsicht bei den Metallfugen, Rutschgefahr bei Nässe.",
                 "hu": "Vigyázzon a fém illesztéseknél, csúszásveszély.",
                 "ro": "Atenție la îmbinările metalice, risc de alunecare.",
-                "en": "Watch out for the metal joints; slipping hazard when wet."
+                "en": "Watch out for the metal joints; slipping hazard when wet.",
+                "es": "Cuidado con las juntas metálicas; resbalan cuando están mojadas."
               }
             },
             {
@@ -1112,7 +1206,8 @@
                 "de": "Ein kurzer Blick auf die tosende, graue See.",
                 "hu": "Egy rövid pillantás a háborgó, szürke tengerre.",
                 "ro": "O scurtă privire spre marea agitată și gri.",
-                "en": "A quick look at the crashing, grey sea."
+                "en": "A quick look at the crashing, grey sea.",
+                "es": "Una mirada rápida al mar gris y embravecido."
               }
             },
             {
@@ -1121,7 +1216,8 @@
                 "de": "Der Weg kann matschig sein; Schutzbleche empfohlen.",
                 "hu": "Az út sáros lehet; sárvédő használata javasolt.",
                 "ro": "Drumul poate fi noroios; se recomandă apărători.",
-                "en": "The path can be muddy; fenders are recommended."
+                "en": "The path can be muddy; fenders are recommended.",
+                "es": "El sendero puede estar embarrado; se recomiendan guardabarros."
               }
             },
             {
@@ -1130,7 +1226,8 @@
                 "de": "Die Dünen wirken im Regen wild und unberührt.",
                 "hu": "A dűnék vadnak és érintetlennek tűnnek az esőben.",
                 "ro": "Dunele par sălbatice și neatinse în ploaie.",
-                "en": "The dunes look wild and untouched in the rain."
+                "en": "The dunes look wild and untouched in the rain.",
+                "es": "Las dunas lucen salvajes e intactas bajo la lluvia."
               }
             },
             {
@@ -1139,7 +1236,8 @@
                 "de": "Der perfekte Abschluss, um das Rad sicher abzustellen.",
                 "hu": "Tökéletes befejezés a bicikli biztonságos tárolásához.",
                 "ro": "Finalul perfect pentru a lăsa bicicleta în siguranță.",
-                "en": "The perfect finish to lock your bike safely."
+                "en": "The perfect finish to lock your bike safely.",
+                "es": "El final perfecto para asegurar bien tu bicicleta."
               }
             }
           ],
@@ -1171,6 +1269,13 @@
               "Wear bright rain gear for better visibility.",
               "Check your brakes; they react slower when wet.",
               "Use covered harbor areas for short breaks."
+            ],
+            "es": [
+              "Los guardabarros son imprescindibles en las carreteras costeras mojadas.",
+              "Ten cuidado con las partes metálicas del puente cuando estén mojadas.",
+              "Lleva ropa de lluvia de colores vivos para mejor visibilidad.",
+              "Revisa tus frenos; reaccionan más despacio en mojado.",
+              "Utiliza las zonas cubiertas del puerto para descansos cortos."
             ]
           }
         },
@@ -1179,7 +1284,8 @@
             "de": "Ein zügiger Ritt gegen die frische Winterbrise entlang der Küste. Die Landschaft wirkt im Licht schärfer.\nWir radeln durch die Dünen von Oyambre, die nun ruhig und einsam sind.\nDer Aufstieg zum Leuchtturm bringt den Kreislauf in Schwung.\nDen Tag beenden wir in der Altstadt mit einer heißen Schokolade.",
             "hu": "Gyors tekerés a friss téli szellőben a part mentén. A táj a téli fényben tisztábbnak és élesebbnek tűnik.\nAz Oyambre dűnéi között biciklizünk a csendes magányban.\nA világítótoronyhoz vezető emelkedő felmelegít.\nA napot az óvárosban zárjuk egy forró csokoládéval.",
             "ro": "O plimbare rapidă în briza proaspătă de iarnă. Peisajul pare mai clar în lumina sezonului.\nPedalăm prin dunele din Oyambre în liniște deplină.\nUrcarea spre far pune circulația în mișcare.\nÎncheiem ziua în orașul vechi cu o ciocolată caldă.",
-            "en": "A brisk ride against the fresh winter breeze. The landscape appears sharper in the winter light.\nWe cycle through the dunes of Oyambre in peaceful solitude.\nThe climb to the lighthouse gets your blood pumping.\nWe end the day in the old town with a rewarding hot chocolate."
+            "en": "A brisk ride against the fresh winter breeze. The landscape appears sharper in the winter light.\nWe cycle through the dunes of Oyambre in peaceful solitude.\nThe climb to the lighthouse gets your blood pumping.\nWe end the day in the old town with a rewarding hot chocolate.",
+            "es": "Un paseo animado contra la fresca brisa invernal. El paisaje se ve más nítido con la luz de invierno.\nPedaleamos por las dunas de Oyambre en solitario y en paz.\nLa subida al faro acelera el pulso.\nAcabamos el día en el casco antiguo con un merecido chocolate caliente."
           },
           "stops": [
             {
@@ -1188,7 +1294,8 @@
                 "de": "Der kalte Wind ist erfrischend; Handschuhe tragen.",
                 "hu": "A hideg szél frissítő; viseljen kesztyűt.",
                 "ro": "Vântul rece este revigorant; purtați mănuși.",
-                "en": "The cold wind is refreshing; wear gloves."
+                "en": "The cold wind is refreshing; wear gloves.",
+                "es": "El viento frío es vigorizante; lleva guantes."
               }
             },
             {
@@ -1197,7 +1304,8 @@
                 "de": "Die leere Promenade gehört im Winter ganz Ihnen.",
                 "hu": "A néptelen sétány télen teljesen az Öné.",
                 "ro": "Promenada goală vă aparține în întregime iarna.",
-                "en": "The empty promenade is all yours in winter."
+                "en": "The empty promenade is all yours in winter.",
+                "es": "El paseo vacío es todo tuyo en invierno."
               }
             },
             {
@@ -1206,7 +1314,8 @@
                 "de": "Klare Winterluft bietet die beste Sicht auf die Küste.",
                 "hu": "A tiszta téli levegő biztosítja a legjobb kilátást.",
                 "ro": "Aerul curat oferă cea mai bună vedere spre coastă.",
-                "en": "Clear winter air provides the best view of the coast."
+                "en": "Clear winter air provides the best view of the coast.",
+                "es": "El aire invernal claro ofrece las mejores vistas de la costa."
               }
             },
             {
@@ -1215,7 +1324,8 @@
                 "de": "Die grünen Wiesen leuchten auch im milden Winter.",
                 "hu": "A zöld mezők a lágy télben is ragyognak.",
                 "ro": "Câmpiile verzi strălucesc și în iarna blândă.",
-                "en": "The green fields shine even in the mild winter."
+                "en": "The green fields shine even in the mild winter.",
+                "es": "Los campos verdes brillan incluso en el suave invierno."
               }
             },
             {
@@ -1224,7 +1334,8 @@
                 "de": "Wärmen Sie sich nach der Fahrt im Café auf.",
                 "hu": "Melegedjen fel a tekerés után egy kávézóban.",
                 "ro": "Încălziți-vă după plimbare la o cafenea.",
-                "en": "Warm up after the ride at a nearby cafe."
+                "en": "Warm up after the ride at a nearby cafe.",
+                "es": "Entrad a calentarse tras el paseo en un café cercano."
               }
             }
           ],
@@ -1256,6 +1367,13 @@
               "Roads can be damp and slippery in the morning.",
               "The wind chill makes it feel colder than it is.",
               "Make sure to be back before it gets dark."
+            ],
+            "es": [
+              "Guantes cálidos son imprescindibles en los descensos.",
+              "Asegúrate de que las luces de la bici funcionen perfectamente.",
+              "Las carreteras pueden estar húmedas y resbaladizas por la mañana.",
+              "La sensación térmica por el viento hace que parezca más frío de lo que es.",
+              "Procura volver antes de que anochezca."
             ]
           }
         }
@@ -1274,7 +1392,8 @@
             "de": "Puente de la Maza",
             "hu": "Maza-híd",
             "ro": "Podul Maza",
-            "en": "Maza Bridge"
+            "en": "Maza Bridge",
+            "es": "Puente de Maza"
           },
           "coords": [
             -4.3915,
@@ -1289,7 +1408,8 @@
             "de": "Bester Halt für ein Foto der Stadt vom Wasser aus.",
             "hu": "A legjobb megálló a város víz felőli fotózásához.",
             "ro": "Cea mai bună oprire pentru o poză a orașului de pe apă.",
-            "en": "Best stop for a photo of the town from the water."
+            "en": "Best stop for a photo of the town from the water.",
+            "es": "Mejor parada para una foto del pueblo desde el agua."
           }
         },
         {
@@ -1297,7 +1417,8 @@
             "de": "Castillo del Rey",
             "hu": "Királyi Vár",
             "ro": "Castelul Regelui",
-            "en": "King's Castle"
+            "en": "King's Castle",
+            "es": "Castillo del Rey"
           },
           "coords": [
             -4.3985,
@@ -1312,7 +1433,8 @@
             "de": "Parkplatz in der Nähe des Schlosses vorhanden.",
             "hu": "Parkoló elérhető a vár közelében.",
             "ro": "Parcare disponibilă lângă castel.",
-            "en": "Parking available near the castle."
+            "en": "Parking available near the castle.",
+            "es": "Aparcamiento disponible cerca del castillo."
           }
         },
         {
@@ -1320,7 +1442,8 @@
             "de": "Iglesia de Santa María de los Ángeles",
             "hu": "Angyalok Boldogasszonya templom",
             "ro": "Biserica Santa Maria de los Ángeles",
-            "en": "Santa María de los Ángeles Church"
+            "en": "Santa María de los Ángeles Church",
+            "es": "Iglesia de Santa María de los Ángeles"
           },
           "coords": [
             -4.3995,
@@ -1335,7 +1458,8 @@
             "de": "Besuchen Sie das Grabmal des Inquisitors Antonio del Corro.",
             "hu": "Látogassa meg Antonio del Corro inkvizítor síremlékét.",
             "ro": "Vizitează mormântul inchizitorului Antonio del Corro.",
-            "en": "Visit the tomb of the Inquisitor Antonio del Corro."
+            "en": "Visit the tomb of the Inquisitor Antonio del Corro.",
+            "es": "Visita la tumba del inquisidor Antonio del Corro."
           }
         },
         {
@@ -1343,7 +1467,8 @@
             "de": "Playa del Merón",
             "hu": "Merón-strand",
             "ro": "Plaja Merón",
-            "en": "Merón Beach"
+            "en": "Merón Beach",
+            "es": "Playa de Merón"
           },
           "coords": [
             -4.385,
@@ -1358,7 +1483,8 @@
             "de": "Großer Parkplatz direkt am Strandzugang.",
             "hu": "Nagy parkoló közvetlenül a strandbejáratnál.",
             "ro": "Parcare mare chiar la intrarea pe plajă.",
-            "en": "Large parking lot right at the beach access."
+            "en": "Large parking lot right at the beach access.",
+            "es": "Amplio aparcamiento justo en el acceso a la playa."
           }
         },
         {
@@ -1366,7 +1492,8 @@
             "de": "Faro de Punta de la Silla",
             "hu": "Punta de la Silla világítótorony",
             "ro": "Farul Punta de la Silla",
-            "en": "Punta de la Silla Lighthouse"
+            "en": "Punta de la Silla Lighthouse",
+            "es": "Faro de Punta de la Silla"
           },
           "coords": [
             -4.39,
@@ -1381,7 +1508,8 @@
             "de": "Kleiner Parkplatz mit toller Aussicht auf die Klippen.",
             "hu": "Kis parkoló remek kilátással a sziklákra.",
             "ro": "Parcare mică cu o vedere excelentă asupra stâncilor.",
-            "en": "Small parking lot with a great view of the cliffs."
+            "en": "Small parking lot with a great view of the cliffs.",
+            "es": "Pequeño aparcamiento con gran vista de los acantilados."
           }
         },
         {
@@ -1389,7 +1517,8 @@
             "de": "Parque Natural de Oyambre",
             "hu": "Oyambre Természeti Park",
             "ro": "Parcul Natural Oyambre",
-            "en": "Oyambre Natural Park"
+            "en": "Oyambre Natural Park",
+            "es": "Parque Natural de Oyambre"
           },
           "coords": [
             -4.35,
@@ -1404,7 +1533,8 @@
             "de": "Fahren Sie die Küstenstraße für die beste Aussicht.",
             "hu": "Vezessen a tengerparti úton a legjobb kilátásért.",
             "ro": "Condu pe drumul de coastă pentru cele mai bune vederi.",
-            "en": "Drive the coastal road for the best views."
+            "en": "Drive the coastal road for the best views.",
+            "es": "Conduce por la carretera costera para las mejores vistas."
           }
         }
       ],
@@ -1412,7 +1542,8 @@
         "de": "Erkunden Sie San Vicente bequem mit dem Auto. Beginnen Sie mit der majestätischen Brücke und der historischen Altstadt. Nach der Besichtigung der Burg und der Kirche können Sie den Vormittag am Strand von Merón verbringen. Am Nachmittag führt die Fahrt zum Leuchtturm und durch die atemberaubenden Landschaften des Oyambre-Naturparks, bevor Sie zurück in die Stadt fahren.",
         "hu": "Fedezze fel San Vicentét kényelmesen autóval. Kezdje a fenséges híddal és a történelmi óvárossal. A vár és a templom megtekintése után töltse a délelőttöt a Merón-strandon. Délután az út a világítótoronyhoz és az Oyambre Természeti Park lélegzetelállító tájain vezet keresztül, mielőtt visszatérne a városba.",
         "ro": "Explorează San Vicente confortabil cu mașina. Începe cu podul maiestuos și orașul vechi istoric. După vizitarea castelului și a bisericii, poți petrece dimineața pe plaja Merón. După-amiaza, drumul duce spre far și prin peisajele uluitoare ale Parcului Natural Oyambre, înainte de a reveni în oraș.",
-        "en": "Explore San Vicente comfortably by car. Start with the majestic bridge and the historical old town. After visiting the castle and church, spend the morning at Merón Beach. In the afternoon, the drive takes you to the lighthouse and through the breathtaking landscapes of Oyambre Natural Park before returning to town."
+        "en": "Explore San Vicente comfortably by car. Start with the majestic bridge and the historical old town. After visiting the castle and church, spend the morning at Merón Beach. In the afternoon, the drive takes you to the lighthouse and through the breathtaking landscapes of Oyambre Natural Park before returning to town.",
+        "es": "Explora San Vicente cómodamente en coche. Comienza por el majestuoso puente y el casco histórico. Tras visitar el castillo y la iglesia, pasa la mañana en la playa de Merón. Por la tarde, la ruta te lleva al faro y por los impresionantes paisajes del Parque Natural de Oyambre antes de volver al pueblo."
       },
       "gastro_picks": {
         "de": [
@@ -1512,6 +1643,10 @@
         "en": [
           "Park outside the center during peak season.",
           "Roads in the natural park are narrow, drive carefully."
+        ],
+        "es": [
+          "Aparca fuera del centro en temporada alta.",
+          "Las carreteras dentro del parque natural son estrechas, conduce con precaución."
         ]
       },
       "variants": {
@@ -1520,7 +1655,8 @@
             "de": "Erkunden Sie San Vicente bequem mit dem Auto. Beginnen Sie mit der majestätischen Brücke und der historischen Altstadt. Nach der Besichtigung der Burg und der Kirche können Sie den Vormittag am Strand von Merón verbringen. Am Nachmittag führt die Fahrt zum Leuchtturm und durch die atemberaubenden Landschaften des Oyambre-Naturparks, bevor Sie zurück in die Stadt fahren.",
             "hu": "Fedezze fel San Vicentét kényelmesen autóval. Kezdje a fenséges híddal és a történelmi óvárossal. A vár és a templom megtekintése után töltse a délelőttöt a Merón-strandon. Délután az út a világítótoronyhoz és az Oyambre Természeti Park lélegzetelállító tájain vezet keresztül, mielőtt visszatérne a városba.",
             "ro": "Explorează San Vicente confortabil cu mașina. Începe cu podul maiestuos și orașul vechi istoric. După vizitarea castelului și a bisericii, poți petrece dimineața pe plaja Merón. După-amiaza, drumul duce spre far și prin peisajele uluitoare ale Parcului Natural Oyambre, înainte de a reveni în oraș.",
-            "en": "Explore San Vicente comfortably by car. Start with the majestic bridge and the historical old town. After visiting the castle and church, spend the morning at Merón Beach. In the afternoon, the drive takes you to the lighthouse and through the breathtaking landscapes of Oyambre Natural Park before returning to town."
+            "en": "Explore San Vicente comfortably by car. Start with the majestic bridge and the historical old town. After visiting the castle and church, spend the morning at Merón Beach. In the afternoon, the drive takes you to the lighthouse and through the breathtaking landscapes of Oyambre Natural Park before returning to town.",
+            "es": "Explora San Vicente cómodamente en coche. Comienza por el majestuoso puente y el casco histórico. Tras visitar el castillo y la iglesia, pasa la mañana en la playa de Merón. Por la tarde, la ruta te lleva al faro y por los impresionantes paisajes del Parque Natural de Oyambre antes de volver al pueblo."
           },
           "stops": [
             {
@@ -1528,13 +1664,15 @@
                 "de": "Puente de la Maza",
                 "hu": "Maza-híd",
                 "ro": "Podul Maza",
-                "en": "Maza Bridge"
+                "en": "Maza Bridge",
+                "es": "Puente de Maza"
               },
               "tip_5lang": {
                 "de": "Bester Halt für ein Foto der Stadt vom Wasser aus.",
                 "hu": "A legjobb megálló a város víz felőli fotózásához.",
                 "ro": "Cea mai bună oprire pentru o poză a orașului de pe apă.",
-                "en": "Best stop for a photo of the town from the water."
+                "en": "Best stop for a photo of the town from the water.",
+                "es": "Mejor parada para una foto del pueblo desde el agua."
               }
             },
             {
@@ -1542,13 +1680,15 @@
                 "de": "Castillo del Rey",
                 "hu": "Királyi Vár",
                 "ro": "Castelul Regelui",
-                "en": "King's Castle"
+                "en": "King's Castle",
+                "es": "Castillo del Rey"
               },
               "tip_5lang": {
                 "de": "Parkplatz in der Nähe des Schlosses vorhanden.",
                 "hu": "Parkoló elérhető a vár közelében.",
                 "ro": "Parcare disponibilă lângă castel.",
-                "en": "Parking available near the castle."
+                "en": "Parking available near the castle.",
+                "es": "Aparcamiento disponible cerca del castillo."
               }
             },
             {
@@ -1556,13 +1696,15 @@
                 "de": "Iglesia de Santa María de los Ángeles",
                 "hu": "Angyalok Boldogasszonya templom",
                 "ro": "Biserica Santa Maria de los Ángeles",
-                "en": "Santa María de los Ángeles Church"
+                "en": "Santa María de los Ángeles Church",
+                "es": "Iglesia de Santa María de los Ángeles"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie das Grabmal des Inquisitors Antonio del Corro.",
                 "hu": "Látogassa meg Antonio del Corro inkvizítor síremlékét.",
                 "ro": "Vizitează mormântul inchizitorului Antonio del Corro.",
-                "en": "Visit the tomb of the Inquisitor Antonio del Corro."
+                "en": "Visit the tomb of the Inquisitor Antonio del Corro.",
+                "es": "Visita la tumba del inquisidor Antonio del Corro."
               }
             },
             {
@@ -1570,13 +1712,15 @@
                 "de": "Playa del Merón",
                 "hu": "Merón-strand",
                 "ro": "Plaja Merón",
-                "en": "Merón Beach"
+                "en": "Merón Beach",
+                "es": "Playa de Merón"
               },
               "tip_5lang": {
                 "de": "Großer Parkplatz direkt am Strandzugang.",
                 "hu": "Nagy parkoló közvetlenül a strandbejáratnál.",
                 "ro": "Parcare mare chiar la intrarea pe plajă.",
-                "en": "Large parking lot right at the beach access."
+                "en": "Large parking lot right at the beach access.",
+                "es": "Amplio aparcamiento justo en el acceso a la playa."
               }
             },
             {
@@ -1584,13 +1728,15 @@
                 "de": "Faro de Punta de la Silla",
                 "hu": "Punta de la Silla világítótorony",
                 "ro": "Farul Punta de la Silla",
-                "en": "Punta de la Silla Lighthouse"
+                "en": "Punta de la Silla Lighthouse",
+                "es": "Faro de Punta de la Silla"
               },
               "tip_5lang": {
                 "de": "Kleiner Parkplatz mit toller Aussicht auf die Klippen.",
                 "hu": "Kis parkoló remek kilátással a sziklákra.",
                 "ro": "Parcare mică cu o vedere excelentă asupra stâncilor.",
-                "en": "Small parking lot with a great view of the cliffs."
+                "en": "Small parking lot with a great view of the cliffs.",
+                "es": "Pequeño aparcamiento con gran vista de los acantilados."
               }
             },
             {
@@ -1598,13 +1744,15 @@
                 "de": "Parque Natural de Oyambre",
                 "hu": "Oyambre Természeti Park",
                 "ro": "Parcul Natural Oyambre",
-                "en": "Oyambre Natural Park"
+                "en": "Oyambre Natural Park",
+                "es": "Parque Natural de Oyambre"
               },
               "tip_5lang": {
                 "de": "Fahren Sie die Küstenstraße für die beste Aussicht.",
                 "hu": "Vezessen a tengerparti úton a legjobb kilátásért.",
                 "ro": "Condu pe drumul de coastă pentru cele mai bune vederi.",
-                "en": "Drive the coastal road for the best views."
+                "en": "Drive the coastal road for the best views.",
+                "es": "Conduce por la carretera costera para las mejores vistas."
               }
             }
           ],
@@ -1706,6 +1854,10 @@
             "en": [
               "Park outside the center during peak season.",
               "Roads in the natural park are narrow, drive carefully."
+            ],
+            "es": [
+              "Aparca fuera del centro en temporada alta.",
+              "Las carreteras dentro del parque natural son estrechas, conduce con precaución."
             ]
           }
         },
@@ -1714,7 +1866,8 @@
             "de": "Bequem und trocken überqueren wir die Ria im Auto. Der Regen untermalt die Fahrt zum Schloss.\nMittags genießen wir die lokale Küche sicher im Trockenen.\nSpäter fahren wir zum Oyambre-Park und beobachten die dramatische Küste aus dem Fahrzeug.\nWir legen einen kurzen Stopp am Leuchtturm ein, bevor der Tag endet.",
             "hu": "Kényelmesen és szárazon kelünk át az öblön autóval. Az eső festi alá az utat a vár felé.\nDélben a helyi konyhát élvezzük biztonságban, szárazon.\nKésőbb az Oyambre-parkba hajtunk, a tengerpartot a járműből figyelve.\nA világítótoronynál teszünk egy rövid megállót a nap végén.",
             "ro": "Traversăm estuarul confortabil și uscați în mașină. Ploaia acompaniază drumul spre castel.\nLa prânz ne bucurăm de bucătăria locală la adăpost.\nMai târziu conducem spre parcul Oyambre și observăm coasta din vehicul.\nFacem o scurtă oprire la far înainte de finalul zilei.",
-            "en": "We cross the estuary comfortably and dry in the car. Rain on the window underscores the drive to the castle.\nAt noon, we enjoy local cuisine safely indoors.\nLater, we drive to Oyambre Park, observing the dramatic coast from the vehicle.\nWe make a short stop at the lighthouse before the day ends."
+            "en": "We cross the estuary comfortably and dry in the car. Rain on the window underscores the drive to the castle.\nAt noon, we enjoy local cuisine safely indoors.\nLater, we drive to Oyambre Park, observing the dramatic coast from the vehicle.\nWe make a short stop at the lighthouse before the day ends.",
+            "es": "Cruzamos el estuario cómodos y secos en el coche. La lluvia en la ventanilla subraya el viaje hacia el castillo.\nAl mediodía disfrutamos de la cocina local a cubierto y con seguridad.\nMás tarde conducimos al Parque de Oyambre, observando la costa dramática desde el vehículo.\nHacemos una breve parada en el faro antes de que termine el día."
           },
           "stops": [
             {
@@ -1723,7 +1876,8 @@
                 "de": "Genießen Sie die Überquerung bequem im trockenen Auto.",
                 "hu": "Élvezze az átkelést kényelmesen a száraz autóból.",
                 "ro": "Bucurați-vă de traversare din mașina uscată.",
-                "en": "Enjoy the crossing comfortably from the dry car."
+                "en": "Enjoy the crossing comfortably from the dry car.",
+                "es": "Disfruta del cruce cómodamente desde el coche seco."
               }
             },
             {
@@ -1732,7 +1886,8 @@
                 "de": "Parken Sie nah am Eingang, um den Regenweg zu kürzen.",
                 "hu": "Parkoljon közel a bejárathoz az eső miatt.",
                 "ro": "Parcați aproape de intrare pentru a evita ploaia.",
-                "en": "Park close to the entrance to keep the wet walk short."
+                "en": "Park close to the entrance to keep the wet walk short.",
+                "es": "Aparca cerca de la entrada para acortar el paseo bajo la lluvia."
               }
             },
             {
@@ -1741,7 +1896,8 @@
                 "de": "Nutzen Sie den Innenraum für eine ausführliche Besichtigung.",
                 "hu": "Használja ki a benti időt egy alapos látogatásra.",
                 "ro": "Folosiți timpul în interior pentru o vizită lungă.",
-                "en": "Use the time spent indoors for a detailed visit."
+                "en": "Use the time spent indoors for a detailed visit.",
+                "es": "Aprovecha el tiempo en interiores para una visita más detallada."
               }
             },
             {
@@ -1750,7 +1906,8 @@
                 "de": "Beobachten Sie die Wellen sicher vom Parkplatz aus.",
                 "hu": "Figyelje a hullámokat biztonságban a parkolóból.",
                 "ro": "Observați valurile în siguranță din parcare.",
-                "en": "Watch the waves safely from the parking lot."
+                "en": "Watch the waves safely from the parking lot.",
+                "es": "Observa las olas con seguridad desde el aparcamiento."
               }
             },
             {
@@ -1759,7 +1916,8 @@
                 "de": "Ein kurzer Sprint zum Turm lohnt für das Panorama.",
                 "hu": "Egy rövid sprint a toronyhoz megéri a panorámáért.",
                 "ro": "Un sprint scurt spre turn merită pentru panoramă.",
-                "en": "A short sprint to the tower is worth it for the view."
+                "en": "A short sprint to the tower is worth it for the view.",
+                "es": "Un sprint corto hasta la torre merece la vista."
               }
             },
             {
@@ -1768,7 +1926,8 @@
                 "de": "Die Küstenstraße bietet auch bei Regen tolle Ausblicke.",
                 "hu": "A parti út esőben is látványos kilátást nyújt.",
                 "ro": "Drumul de coastă oferă priveliști superbe pe ploaie.",
-                "en": "The coastal road offers great views even in the rain."
+                "en": "The coastal road offers great views even in the rain.",
+                "es": "La carretera costera ofrece grandes vistas incluso bajo la lluvia."
               }
             }
           ],
@@ -1800,6 +1959,13 @@
               "Keep a towel in the car to dry off after stops.",
               "Use the car as a viewpoint at the beach.",
               "Check your wipers for full functionality before starting."
+            ],
+            "es": [
+              "Cuidado con el aquaplaning en la carretera hacia Oyambre.",
+              "Aparca lo más cerca posible de los puntos de interés.",
+              "Lleva una toalla en el coche para secarte tras las paradas.",
+              "Usa el coche como mirador en la playa.",
+              "Revisa los limpiaparabrisas para asegurarte de su correcto funcionamiento antes de salir."
             ]
           }
         },
@@ -1808,7 +1974,8 @@
             "de": "Eine Panoramafahrt unter der tiefstehenden Wintersonne. Das Auto ist unsere warme Basis.\nWir besuchen das Schloss und den abgelegenen Naturpark ohne Sommertrubel.\nDie Sicht auf die verschneiten Berge ist im Winter am besten.\nWir genießen die leeren Straßen und die Ruhe der Nebensaison.",
             "hu": "Panorámás autózás az alacsonyan járó téli nap alatt. Az autó meleg bázist nyújt kirándulásainkhoz.\nA várat és a natúrparkot a nyári tömeg nélkül látogatjuk meg.\nA havas hegyekre nyíló kilátás télen a legszebb.\nÉlvezzük az üres utakat és a holtszezon nyugalmát.",
             "ro": "O plimbare panoramică sub soarele jos de iarnă. Mașina oferă o bază caldă pentru explorare.\nVizităm castelul și parcul natural fără aglomerația de vară.\nVederea spre munții înzăpeziți este cea mai bună acum.\nNe bucurăm de drumurile goale și de liniștea sezonului.",
-            "en": "A scenic drive under the low winter sun. The car provides a warm base for our excursions.\nWe visit the castle and the natural park without the summer crowds.\nThe view of the snowy mountains is at its best in winter.\nWe enjoy the empty roads and the peace of the off-season."
+            "en": "A scenic drive under the low winter sun. The car provides a warm base for our excursions.\nWe visit the castle and the natural park without the summer crowds.\nThe view of the snowy mountains is at its best in winter.\nWe enjoy the empty roads and the peace of the off-season.",
+            "es": "Un paseo escénico bajo el bajo sol invernal. El coche ofrece una base cálida para nuestras excursiones.\nVisitamos el castillo y el parque natural sin las multitudes veraniegas.\nLa vista de las montañas con algo de nieve está en su mejor momento en invierno.\nDisfrutamos de las carreteras vacías y la paz de la temporada baja."
           },
           "stops": [
             {
@@ -1817,7 +1984,8 @@
                 "de": "Perfekter Fotostopp mit Auto für die Berge.",
                 "hu": "Tökéletes fotómegálló az autóval a hegyekhez.",
                 "ro": "Oprire foto perfectă cu mașina pentru munți.",
-                "en": "Perfect photo stop with the car for mountain views."
+                "en": "Perfect photo stop with the car for mountain views.",
+                "es": "Parada perfecta para fotos con el coche y vistas a la montaña."
               }
             },
             {
@@ -1826,7 +1994,8 @@
                 "de": "Im Winter sind Parkplätze in der Nähe meist frei.",
                 "hu": "Télen a közeli parkolóhelyek általában szabadok.",
                 "ro": "Iarna, locurile de parcare sunt de obicei libere.",
-                "en": "In winter, nearby parking spots are usually free."
+                "en": "In winter, nearby parking spots are usually free.",
+                "es": "En invierno, los aparcamientos cercanos suelen estar libres."
               }
             },
             {
@@ -1835,7 +2004,8 @@
                 "de": "Besuchen Sie die Kirche vormittags für das beste Licht.",
                 "hu": "Látogassa meg a templomot délelőtt a legjobb fényért.",
                 "ro": "Vizitați biserica dimineața pentru cea mai bună lumină.",
-                "en": "Visit the church in the morning for the best light."
+                "en": "Visit the church in the morning for the best light.",
+                "es": "Visita la iglesia por la mañana para la mejor luz."
               }
             },
             {
@@ -1844,7 +2014,8 @@
                 "de": "Die raue Brise ist vom Fenster aus am schönsten.",
                 "hu": "A nyers téli szellő az ablakból a legszebb.",
                 "ro": "Briza aspră e cea mai frumoasă de la geam.",
-                "en": "The raw winter breeze is best enjoyed from the window."
+                "en": "The raw winter breeze is best enjoyed from the window.",
+                "es": "La brisa invernal cruda se disfruta mejor desde la ventanilla."
               }
             },
             {
@@ -1853,7 +2024,8 @@
                 "de": "Atemberaubende Sonnenuntergänge schon am Nachmittag.",
                 "hu": "Lélegzetelállító naplementék már délután.",
                 "ro": "Apusuri uluitoare încă de după-amiaza târziu.",
-                "en": "Breathtaking sunsets as early as late afternoon."
+                "en": "Breathtaking sunsets as early as late afternoon.",
+                "es": "Atardeceres impresionantes ya desde media tarde."
               }
             },
             {
@@ -1862,7 +2034,8 @@
                 "de": "Machen Sie eine gemütliche Rundfahrt durch den Park.",
                 "hu": "Tegyen egy kellemes körutazást a natúrparkban.",
                 "ro": "Faceți un tur relaxant cu mașina prin parc.",
-                "en": "Take a pleasant driving tour through the park."
+                "en": "Take a pleasant driving tour through the park.",
+                "es": "Haz un agradable recorrido en coche por el parque."
               }
             }
           ],
@@ -1894,6 +2067,13 @@
               "Avoid driving by the sea during storm warnings.",
               "Use the heater to reduce humidity inside.",
               "The low sun can be blinding; bring sunglasses."
+            ],
+            "es": [
+              "Los puertos de montaña del interior pueden estar cerrados.",
+              "Disfruta del fácil aparcamiento en temporada baja.",
+              "Evita conducir junto al mar durante avisos de tormenta.",
+              "Usa la calefacción para reducir la humedad interior.",
+              "El sol bajo puede deslumbrar; lleva gafas de sol."
             ]
           }
         }
@@ -1912,7 +2092,8 @@
             "de": "Castillo del Rey",
             "hu": "Királyi Vár",
             "ro": "Castelul Regelui",
-            "en": "King's Castle"
+            "en": "King's Castle",
+            "es": "Castillo del Rey"
           },
           "coords": [
             -4.3985,
@@ -1927,7 +2108,8 @@
             "de": "Ganz oben im Dorf, ein Muss für jeden Besucher.",
             "hu": "A falu legtetején, minden látogató számára kötelező.",
             "ro": "Chiar în vârful satului, o vizită obligatorie pentru oricine.",
-            "en": "At the very top of the village, a must-visit for everyone."
+            "en": "At the very top of the village, a must-visit for everyone.",
+            "es": "En lo más alto del pueblo, una visita obligada para todos."
           }
         },
         {
@@ -1935,7 +2117,8 @@
             "de": "Iglesia de Santa María de los Ángeles",
             "hu": "Angyalok Boldogasszonya templom",
             "ro": "Biserica Santa Maria de los Ángeles",
-            "en": "Santa María de los Ángeles Church"
+            "en": "Santa María de los Ángeles Church",
+            "es": "Iglesia de Santa María de los Ángeles"
           },
           "coords": [
             -4.3995,
@@ -1950,7 +2133,8 @@
             "de": "Kombinieren Sie den Besuch mit der Burg.",
             "hu": "Kombinálja a látogatást a várral.",
             "ro": "Combină vizita cu cea de la castel.",
-            "en": "Combine the visit with the castle."
+            "en": "Combine the visit with the castle.",
+            "es": "Combina la visita con el castillo."
           }
         },
         {
@@ -1958,7 +2142,8 @@
             "de": "Puente de la Maza",
             "hu": "Maza-híd",
             "ro": "Podul Maza",
-            "en": "Maza Bridge"
+            "en": "Maza Bridge",
+            "es": "Puente de Maza"
           },
           "coords": [
             -4.3915,
@@ -1973,7 +2158,8 @@
             "de": "Vom Zentrum aus leicht mit dem Bus oder zu Fuß erreichbar.",
             "hu": "A központból könnyen elérhető busszal vagy gyalog.",
             "ro": "Ușor de ajuns din centru cu autobuzul sau pe jos.",
-            "en": "Easily accessible from the center by bus or on foot."
+            "en": "Easily accessible from the center by bus or on foot.",
+            "es": "Fácilmente accesible desde el centro en autobús o a pie."
           }
         },
         {
@@ -1981,7 +2167,8 @@
             "de": "Playa del Merón",
             "hu": "Merón-strand",
             "ro": "Plaja Merón",
-            "en": "Merón Beach"
+            "en": "Merón Beach",
+            "es": "Playa de Merón"
           },
           "coords": [
             -4.385,
@@ -1996,7 +2183,8 @@
             "de": "Es gibt regelmäßige Busverbindungen vom Hafen zum Strand.",
             "hu": "Rendszeres buszjáratok indulnak a kikötőtől a strandhoz.",
             "ro": "Există autobuze regulate de la port la plajă.",
-            "en": "There are regular bus connections from the harbor to the beach."
+            "en": "There are regular bus connections from the harbor to the beach.",
+            "es": "Hay conexiones de autobús regulares desde el puerto hasta la playa."
           }
         },
         {
@@ -2004,7 +2192,8 @@
             "de": "Convento de San Luis",
             "hu": "Szent Lajos kolostor",
             "ro": "Mănăstirea San Luis",
-            "en": "San Luis Convent"
+            "en": "San Luis Convent",
+            "es": "Convento de San Luis"
           },
           "coords": [
             -4.394,
@@ -2019,7 +2208,8 @@
             "de": "Ruhiger Abschluss in der Nähe der Bushaltestelle.",
             "hu": "Csendes befejezés a buszmegálló közelében.",
             "ro": "Final liniștit aproape de stația de autobuz.",
-            "en": "Quiet finish near the bus stop."
+            "en": "Quiet finish near the bus stop.",
+            "es": "Final tranquilo cerca de la parada de autobús."
           }
         }
       ],
@@ -2027,7 +2217,8 @@
         "de": "Dank des lokalen Transports können Sie die Altstadt und den Strand von Merón nahtlos miteinander verbinden. Beginnen Sie oben auf dem Hügel bei der Burg und der Kirche und nehmen Sie dann den Shuttle-Bus über die Brücke zum Strand. Genießen Sie die Sonne und kehren Sie am späten Nachmittag zurück, um die Ruinen des San Luis Konvents zu besichtigen.",
         "hu": "A helyi közlekedésnek köszönhetően zökkenőmentesen összekötheti az óvárost és a Merón-strandot. Kezdje a dombtetőn a várnál és a templomnál, majd vegye igénybe a híd felett átjáró buszjáratot a strandhoz. Élvezze a napsütést, és térjen vissza késő délután a Szent Lajos-kolostor romjaihoz.",
         "ro": "Datorită transportului local, poți conecta perfect orașul vechi și plaja Merón. Începe în vârful dealului la castel și biserică, apoi ia autobuzul care traversează podul spre plajă. Bucură-te de soare și revino după-amiaza târziu pentru a vizita ruinele mănăstirii San Luis.",
-        "en": "Thanks to local transport, you can seamlessly connect the old town and Merón Beach. Start on top of the hill at the castle and church, then take the shuttle bus over the bridge to the beach. Enjoy the sun and return in the late afternoon to visit the ruins of San Luis Convent."
+        "en": "Thanks to local transport, you can seamlessly connect the old town and Merón Beach. Start on top of the hill at the castle and church, then take the shuttle bus over the bridge to the beach. Enjoy the sun and return in the late afternoon to visit the ruins of San Luis Convent.",
+        "es": "Gracias al transporte local, puedes conectar sin problemas el casco antiguo y la playa de Merón. Comienza en lo alto del cerro en el castillo y la iglesia, luego toma el autobús lanzadera por el puente hasta la playa. Disfruta del sol y regresa por la tarde para visitar las ruinas del Convento de San Luis."
       },
       "gastro_picks": {
         "de": [
@@ -2127,6 +2318,10 @@
         "en": [
           "Use the Cantabrian transport service app.",
           "Buses to the beach run more frequently in summer."
+        ],
+        "es": [
+          "Usa la app del servicio de transporte cántabro.",
+          "Los autobuses a la playa circulan con más frecuencia en verano."
         ]
       },
       "variants": {
@@ -2135,7 +2330,8 @@
             "de": "Dank des lokalen Transports können Sie die Altstadt und den Strand von Merón nahtlos miteinander verbinden. Beginnen Sie oben auf dem Hügel bei der Burg und der Kirche und nehmen Sie dann den Shuttle-Bus über die Brücke zum Strand. Genießen Sie die Sonne und kehren Sie am späten Nachmittag zurück, um die Ruinen des San Luis Konvents zu besichtigen.",
             "hu": "A helyi közlekedésnek köszönhetően zökkenőmentesen összekötheti az óvárost és a Merón-strandot. Kezdje a dombtetőn a várnál és a templomnál, majd vegye igénybe a híd felett átjáró buszjáratot a strandhoz. Élvezze a napsütést, és térjen vissza késő délután a Szent Lajos-kolostor romjaihoz.",
             "ro": "Datorită transportului local, poți conecta perfect orașul vechi și plaja Merón. Începe în vârful dealului la castel și biserică, apoi ia autobuzul care traversează podul spre plajă. Bucură-te de soare și revino după-amiaza târziu pentru a vizita ruinele mănăstirii San Luis.",
-            "en": "Thanks to local transport, you can seamlessly connect the old town and Merón Beach. Start on top of the hill at the castle and church, then take the shuttle bus over the bridge to the beach. Enjoy the sun and return in the late afternoon to visit the ruins of San Luis Convent."
+            "en": "Thanks to local transport, you can seamlessly connect the old town and Merón Beach. Start on top of the hill at the castle and church, then take the shuttle bus over the bridge to the beach. Enjoy the sun and return in the late afternoon to visit the ruins of San Luis Convent.",
+            "es": "Gracias al transporte local, puedes conectar sin problemas el casco antiguo y la playa de Merón. Comienza en lo alto del cerro en el castillo y la iglesia, luego toma el autobús lanzadera por el puente hasta la playa. Disfruta del sol y regresa por la tarde para visitar las ruinas del Convento de San Luis."
           },
           "stops": [
             {
@@ -2143,13 +2339,15 @@
                 "de": "Castillo del Rey",
                 "hu": "Királyi Vár",
                 "ro": "Castelul Regelui",
-                "en": "King's Castle"
+                "en": "King's Castle",
+                "es": "Castillo del Rey"
               },
               "tip_5lang": {
                 "de": "Ganz oben im Dorf, ein Muss für jeden Besucher.",
                 "hu": "A falu legtetején, minden látogató számára kötelező.",
                 "ro": "Chiar în vârful satului, o vizită obligatorie pentru oricine.",
-                "en": "At the very top of the village, a must-visit for everyone."
+                "en": "At the very top of the village, a must-visit for everyone.",
+                "es": "En la cima del pueblo; visita obligada para todos."
               }
             },
             {
@@ -2157,13 +2355,15 @@
                 "de": "Iglesia de Santa María de los Ángeles",
                 "hu": "Angyalok Boldogasszonya templom",
                 "ro": "Biserica Santa Maria de los Ángeles",
-                "en": "Santa María de los Ángeles Church"
+                "en": "Santa María de los Ángeles Church",
+                "es": "Iglesia de Santa María de los Ángeles"
               },
               "tip_5lang": {
                 "de": "Kombinieren Sie den Besuch mit der Burg.",
                 "hu": "Kombinálja a látogatást a várral.",
                 "ro": "Combină vizita cu cea de la castel.",
-                "en": "Combine the visit with the castle."
+                "en": "Combine the visit with the castle.",
+                "es": "Combina la visita con el castillo."
               }
             },
             {
@@ -2171,13 +2371,15 @@
                 "de": "Puente de la Maza",
                 "hu": "Maza-híd",
                 "ro": "Podul Maza",
-                "en": "Maza Bridge"
+                "en": "Maza Bridge",
+                "es": "Puente de Maza"
               },
               "tip_5lang": {
                 "de": "Vom Zentrum aus leicht mit dem Bus oder zu Fuß erreichbar.",
                 "hu": "A központból könnyen elérhető busszal vagy gyalog.",
                 "ro": "Ușor de ajuns din centru cu autobuzul sau pe jos.",
-                "en": "Easily accessible from the center by bus or on foot."
+                "en": "Easily accessible from the center by bus or on foot.",
+                "es": "Fácilmente accesible desde el centro en autobús o a pie."
               }
             },
             {
@@ -2185,13 +2387,15 @@
                 "de": "Playa del Merón",
                 "hu": "Merón-strand",
                 "ro": "Plaja Merón",
-                "en": "Merón Beach"
+                "en": "Merón Beach",
+                "es": "Playa de Merón"
               },
               "tip_5lang": {
                 "de": "Es gibt regelmäßige Busverbindungen vom Hafen zum Strand.",
                 "hu": "Rendszeres buszjáratok indulnak a kikötőtől a strandhoz.",
                 "ro": "Există autobuze regulate de la port la plajă.",
-                "en": "There are regular bus connections from the harbor to the beach."
+                "en": "There are regular bus connections from the harbor to the beach.",
+                "es": "Hay conexiones regulares de autobús desde el puerto hasta la playa."
               }
             },
             {
@@ -2199,13 +2403,15 @@
                 "de": "Convento de San Luis",
                 "hu": "Szent Lajos kolostor",
                 "ro": "Mănăstirea San Luis",
-                "en": "San Luis Convent"
+                "en": "San Luis Convent",
+                "es": "Convento de San Luis"
               },
               "tip_5lang": {
                 "de": "Ruhiger Abschluss in der Nähe der Bushaltestelle.",
                 "hu": "Csendes befejezés a buszmegálló közelében.",
                 "ro": "Final liniștit aproape de stația de autobuz.",
-                "en": "Quiet finish near the bus stop."
+                "en": "Quiet finish near the bus stop.",
+                "es": "Final tranquilo cerca de la parada de autobús."
               }
             }
           ],
@@ -2307,6 +2513,10 @@
             "en": [
               "Use the Cantabrian transport service app.",
               "Buses to the beach run more frequently in summer."
+            ],
+            "es": [
+              "Usa la app del servicio de transporte cántabro.",
+              "Los autobuses a la playa circulan con más frecuencia en verano."
             ]
           }
         },
@@ -2315,7 +2525,8 @@
             "de": "Mit dem Bus geht es trocken über die Maza-Brücke. Wir pendeln geschützt zwischen den Sehenswürdigkeiten.\nBei Regen ist die massive Steinkirche ein idealer Rückzugsort.\nNachmittags fahren wir zum Merón-Strand, um das Meer sicher zu betrachten.\nWir kehren zum San Luis Konvent zurück, bevor der Abend kommt.",
             "hu": "Busszal szárazon kelünk át a Maza-hídon. Védve ingázunk a látnivalók között.\nEsőben a masszív kőtemplom ideális menedékhely.\nDélután a Merón-strandhoz utazunk a viharos tengerért.\nVisszatérünk a San Luis kolostorhoz az este beállta előtt.",
             "ro": "Cu autobuzul traversăm podul Maza la adăpost. Navetăm protejați între obiective.\nPe ploaie, biserica de piatră este un refugiu ideal.\nDupă-amiaza mergem la plaja Merón pentru marea învolburată.\nNe întoarcem la mănăstirea San Luis înainte de seară.",
-            "en": "By bus, we cross the Maza Bridge sheltered from the rain. We commute protected between the sights.\nIn the rain, the massive stone church is an ideal retreat.\nIn the afternoon, we travel to Merón beach for the stormy sea views.\nWe return to the San Luis Convent before the evening sets in."
+            "en": "By bus, we cross the Maza Bridge sheltered from the rain. We commute protected between the sights.\nIn the rain, the massive stone church is an ideal retreat.\nIn the afternoon, we travel to Merón beach for the stormy sea views.\nWe return to the San Luis Convent before the evening sets in.",
+            "es": "En autobús cruzamos el Puente de Maza protegidos de la lluvia. Nos desplazamos con abrigo entre los puntos de interés.\nCon lluvia, la maciza iglesia de piedra es un refugio ideal.\nPor la tarde viajamos a la playa de Merón para ver el mar embravecido.\nRegresamos al Convento de San Luis antes de que caiga la noche."
           },
           "stops": [
             {
@@ -2324,7 +2535,8 @@
                 "de": "Die Haltestellen im Zentrum sind nah an der Burg.",
                 "hu": "A központi megállók közel vannak a várhoz.",
                 "ro": "Stațiile din centru sunt aproape de castel.",
-                "en": "The central stops are close to the castle."
+                "en": "The central stops are close to the castle.",
+                "es": "Las paradas céntricas están cerca del castillo."
               }
             },
             {
@@ -2333,7 +2545,8 @@
                 "de": "Planen Sie den Besuch zwischen den Busankünften.",
                 "hu": "Tervezze a látogatást a buszok érkezése közé.",
                 "ro": "Planificați vizita între sosirile autobuzelor.",
-                "en": "Plan the visit between bus arrivals."
+                "en": "Plan the visit between bus arrivals.",
+                "es": "Planifica la visita entre las llegadas de autobuses."
               }
             },
             {
@@ -2342,7 +2555,8 @@
                 "de": "Die Fahrt über die Brücke bietet Schutz vor Wind.",
                 "hu": "A hídon való átutazás védelmet nyújt a szél ellen.",
                 "ro": "Călătoria peste pod oferă protecție la vânt.",
-                "en": "Riding across the bridge provides protection from wind."
+                "en": "Riding across the bridge provides protection from wind.",
+                "es": "Viajar por el puente ofrece protección contra el viento."
               }
             },
             {
@@ -2351,7 +2565,8 @@
                 "de": "Achten Sie auf den Plan, da Wartehallen rar sind.",
                 "hu": "Figyelje a menetrendet, kevés itt a váróterem.",
                 "ro": "Verificați orarul, adăposturile sunt rare aici.",
-                "en": "Check the schedule, as shelters are rare here."
+                "en": "Check the schedule, as shelters are rare here.",
+                "es": "Consulta el horario, ya que hay pocos refugios aquí."
               }
             },
             {
@@ -2360,7 +2575,8 @@
                 "de": "Beenden Sie die Tour an einer Haltestelle mit Schutz.",
                 "hu": "Fejezze be a túrát egy esővédett megállóban.",
                 "ro": "Încheiați turul la o stație protejată.",
-                "en": "End the tour at a stop protected from the rain."
+                "en": "End the tour at a stop protected from the rain.",
+                "es": "Termina el recorrido en una parada protegida de la lluvia."
               }
             }
           ],
@@ -2392,6 +2608,13 @@
               "Use the ALSA app for real-time information.",
               "Central stops often don't have shelters.",
               "Minimize walking in the rain by clever bus choices."
+            ],
+            "es": [
+              "Los autobuses circulan con menor frecuencia; consulta el horario en línea.",
+              "Espera en cafeterías cerca de las paradas si llueve con fuerza.",
+              "Usa la app de ALSA para información en tiempo real.",
+              "Las paradas céntricas a menudo no tienen refugios.",
+              "Minimiza los desplazamientos a pie bajo la lluvia eligiendo bien los autobuses."
             ]
           }
         },
@@ -2400,7 +2623,8 @@
             "de": "Wir nutzen die beheizten Busse, um die Umgebung im Winter zu entdecken. Die Fahrt bietet tolle Ausblicke.\nÜber die Ria beobachten wir die Vögel, die hier überwintern.\nNachmittags besuchen wir den Strand für einen knackigen Spaziergang.\nMit dem Bus geht es zurück in die warme Altstadt.",
             "hu": "A fűtött buszokat használjuk a környék felfedezéséhez télen. Az utazás remek kilátást nyújt.\nAz öblön át az itt telelő madarakat figyelhetjük meg.\nDélután ellátogatunk a strandra egy frissítő sétára.\nBusszal térünk vissza a meleg óvárosba.",
             "ro": "Folosim autobuzele încălzite pentru a descoperi zona iarna. Călătoria oferă vederi superbe.\nPeste estuar observăm păsările care iernează aici.\nDupă-amiaza vizităm plaja pentru o plimbare revigorantă.\nCu autobuzul ne întoarcem în orașul vechi călduros.",
-            "en": "We use heated buses to discover the area in winter. The ride offers great scenic views.\nAcross the estuary, we observe the wintering birds.\nIn the afternoon, we visit the beach for a brisk walk.\nThen we take the bus back to the cozy old town."
+            "en": "We use heated buses to discover the area in winter. The ride offers great scenic views.\nAcross the estuary, we observe the wintering birds.\nIn the afternoon, we visit the beach for a brisk walk.\nThen we take the bus back to the cozy old town.",
+            "es": "Usamos autobuses calefactados para descubrir la zona en invierno. El viaje ofrece grandes vistas panorámicas.\nAl otro lado de la ría observamos las aves invernantes.\nPor la tarde visitamos la playa para un paseo vigoroso.\nLuego tomamos el autobús de regreso al acogedor casco antiguo."
           },
           "stops": [
             {
@@ -2409,7 +2633,8 @@
                 "de": "Nutzen Sie den beheizten Bus für den Weg nach oben.",
                 "hu": "Használja a fűtött buszt a felfelé vezető úthoz.",
                 "ro": "Folosiți autobuzul încălzit pentru drumul în sus.",
-                "en": "Use the heated bus for the way up."
+                "en": "Use the heated bus for the way up.",
+                "es": "Usa el autobús calefactado para la subida."
               }
             },
             {
@@ -2418,7 +2643,8 @@
                 "de": "Die Wege sind steil; der Bus spart Energie.",
                 "hu": "Az utak meredekek; a busz energiát takarít meg.",
                 "ro": "Drumurile sunt abrupte; autobuzul ajută mult.",
-                "en": "The roads are steep; the bus saves energy."
+                "en": "The roads are steep; the bus saves energy.",
+                "es": "Las carreteras son empinadas; el autobús ahorra energía."
               }
             },
             {
@@ -2427,7 +2653,8 @@
                 "de": "Toller Ausblick auf die Lagune ohne die Kälte.",
                 "hu": "Remek kilátás a lagúnára a kinti hideg nélkül.",
                 "ro": "Vedere excelentă spre lagună fără frig.",
-                "en": "Great view of the lagoon without the cold."
+                "en": "Great view of the lagoon without the cold.",
+                "es": "Gran vista de la laguna sin el frío."
               }
             },
             {
@@ -2436,7 +2663,8 @@
                 "de": "Kurze Tage bedeuten weniger Busse am Abend.",
                 "hu": "A rövid nappalok kevesebb esti buszt jelentenek.",
                 "ro": "Zilele scurte înseamnă mai puține autobuze seara.",
-                "en": "Short days mean fewer buses in the evening."
+                "en": "Short days mean fewer buses in the evening.",
+                "es": "Los días cortos implican menos autobuses por la noche."
               }
             },
             {
@@ -2445,7 +2673,8 @@
                 "de": "Kurzer Fußweg von der Haltestelle in der Sonne.",
                 "hu": "Rövid séta a megállótól a téli napsütésben.",
                 "ro": "O scurtă plimbare de la stație în soare.",
-                "en": "A short walk from the stop in the winter sun."
+                "en": "A short walk from the stop in the winter sun.",
+                "es": "A poca distancia de la parada, bajo el sol invernal."
               }
             }
           ],
@@ -2477,6 +2706,13 @@
               "Some natural park lines have limited winter service.",
               "Wear warm clothes for waiting at exposed stops.",
               "Ask at the tourist office for the winter schedule."
+            ],
+            "es": [
+              "Atento al último autobús de la noche.",
+              "Los autobuses están bien calefactados y ofrecen un respiro.",
+              "Algunas líneas de parques naturales tienen servicio limitado en invierno.",
+              "Lleva ropa de abrigo para esperar en paradas expuestas.",
+              "Pregunta en la oficina de turismo por el horario de invierno."
             ]
           }
         }
@@ -2489,19 +2725,22 @@
       "de": "Reines Spanisch, kaum Dialekt. Hafen-Restaurants haben Englisch-Karten, weiter ins Landesinnere Richtung Picos eher nicht. 'Sorropotún' bestellen (lokaler Thunfisch-Eintopf) - das öffnet jedes Wirtsherz.",
       "hu": "Tiszta spanyol, alig van dialektus. A kikötői éttermekben van angol menü, beljebb a Picos felé már nem. Rendelj 'sorropotún'-t (helyi tonhal-pörkölt), minden vendéglős megolvad tőle.",
       "ro": "Spaniolă curată, fără dialect. Restaurantele din port au meniuri în engleză, dar spre interior, către Picos, nu prea. Comandă 'sorropotún' (tocană locală de ton), îți câștigi imediat ospătarul.",
-      "en": "Plain Spanish, almost no dialect. Harbour restaurants have English menus; inland toward the Picos, not so much. Order 'sorropotún' (the local tuna stew) and you'll win any waiter over."
+      "en": "Plain Spanish, almost no dialect. Harbour restaurants have English menus; inland toward the Picos, not so much. Order 'sorropotún' (the local tuna stew) and you'll win any waiter over.",
+      "es": "Español llano, casi sin dialecto. Los restaurantes del puerto tienen cartas en inglés; hacia el interior y los Picos, menos. Pide 'sorropotún' (el guiso local de atún) y conquistarás al camarero."
     },
     "best_time_to_visit": {
       "de": "Juni bis September für Strand und Bootsausflüge. Ende April La Folía - Prozession mit Madonnenboot, eines der schönsten Volksfeste Kantabriens. Im August voll mit Madrilenen, also Reservierung vorab.",
       "hu": "Június-szeptember strandhoz, hajós kirándulásokhoz. Április végén a La Folía hajós Mária-körmenet, Kantábria egyik legszebb népünnepe. Augusztusban madridiakkal tele, foglalj előre.",
       "ro": "Iunie-septembrie pentru plajă și excursii cu barca. La sfârșit de aprilie La Folía, procesiune cu barca Madonei, una dintre cele mai frumoase sărbători din Cantabria. În august e plin de madrileni, rezervă.",
-      "en": "June to September for beach and boat trips. Late April brings La Folía, the Madonna-on-a-boat procession - one of Cantabria's loveliest festivals. August fills with Madrid crowds, so book ahead."
+      "en": "June to September for beach and boat trips. Late April brings La Folía, the Madonna-on-a-boat procession - one of Cantabria's loveliest festivals. August fills with Madrid crowds, so book ahead.",
+      "es": "De junio a septiembre para playa y paseos en barco. Finales de abril trae La Folía, la procesión de la Virgen en barca, uno de los festivales más bonitos de Cantabria. Agosto se llena de gente de Madrid, así que reserva con antelación."
     },
     "neighborhood_warnings": {
       "de": "Sehr sicher, aber die Brücke (Puente de la Maza) ist windig, festhalten und Hut nicht verlieren. Bei Sturm fährt der Hafen nicht aus, gebuchte Boote werden gestrichen. Strand bei Ebbe weit, Strömungen am Mündungseingang ernst.",
       "hu": "Nagyon biztonságos, de a Puente de la Maza híd szeles, kapaszkodj, kalapot tartsd. Viharban a kikötőből nem indulnak hajók, a foglalásokat törlik. Apálykor a strand kitárul, a torkolatnál komoly áramlatok vannak.",
       "ro": "Foarte sigur, dar podul Puente de la Maza e foarte vântos, ține-te bine și de pălărie. Pe furtună portul nu trimite bărci, rezervările se anulează. Plaja se extinde la reflux, curenții la gura estuarului sunt serioși.",
-      "en": "Very safe, but the Puente de la Maza bridge is windy - hold on and mind your hat. In storms the harbour cancels boat trips outright. The beach widens at low tide, but currents at the estuary mouth are serious."
+      "en": "Very safe, but the Puente de la Maza bridge is windy - hold on and mind your hat. In storms the harbour cancels boat trips outright. The beach widens at low tide, but currents at the estuary mouth are serious.",
+      "es": "Muy seguro, pero el Puente de la Maza es ventoso: sujétate y cuida el sombrero. En temporales el puerto cancela las salidas de barcos. La playa se ensancha con la marea baja, pero las corrientes en la boca de la ría son peligrosas."
     }
   }
 }

@@ -21,7 +21,8 @@
             "de": "Plaza Mayor",
             "hu": "Főtér",
             "ro": "Plaza Mayor",
-            "en": "Main Square"
+            "en": "Main Square",
+            "es": "Plaza Mayor"
           },
           "coords": [
             -3.7645,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie den Tag hier mit einem Kaffee und beobachten Sie das morgendliche Treiben.",
             "hu": "Indítsa a napot egy kávéval, és figyelje a város ébredését.",
             "ro": "Începeți ziua aici cu o cafea, privind agitația de dimineață.",
-            "en": "Start your day here with a coffee, watching the morning bustle."
+            "en": "Start your day here with a coffee, watching the morning bustle.",
+            "es": "Comienza el día aquí con un café, observando el bullicio matinal."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche San Salvador",
             "hu": "San Salvador templom",
             "ro": "Biserica San Salvador",
-            "en": "Church of San Salvador"
+            "en": "Church of San Salvador",
+            "es": "Iglesia de San Salvador"
           },
           "coords": [
             -3.764,
@@ -59,7 +62,8 @@
             "de": "Achten Sie auf den beeindruckenden Glockenturm, ein Werk von Churriguera.",
             "hu": "Figyelje meg a lenyűgöző harangtornyot, Churriguera munkáját.",
             "ro": "Observați clopotnița impresionantă, o operă a lui Churriguera.",
-            "en": "Look out for the impressive bell tower, a work by Churriguera."
+            "en": "Look out for the impressive bell tower, a work by Churriguera.",
+            "es": "Fíjate en el impresionante campanario, obra de Churriguera."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kaserne der Reales Guardias de Corps",
             "hu": "A Királyi Testőrség Laktanyája",
             "ro": "Cazarma Gărzilor Regale",
-            "en": "Barracks of the Royal Guards"
+            "en": "Barracks of the Royal Guards",
+            "es": "Cuartel de la Guardia Real"
           },
           "coords": [
             -3.7658,
@@ -82,7 +87,8 @@
             "de": "Heute beherbergt es einen Teil der Universität, aber die historische Fassade ist erhalten.",
             "hu": "Ma az egyetem egy részének ad otthont, de a történelmi homlokzat megmaradt.",
             "ro": "Astăzi găzduiește o parte a universității, dar fațada istorică este conservată.",
-            "en": "Today it houses part of the university, but the historic facade is preserved."
+            "en": "Today it houses part of the university, but the historic facade is preserved.",
+            "es": "Hoy alberga parte de la universidad, pero se conserva la fachada histórica."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Skulpturenmuseum von Leganés",
             "hu": "Leganési Szobormúzeum",
             "ro": "Muzeul de Sculptură din Leganés",
-            "en": "Sculpture Museum of Leganés"
+            "en": "Sculpture Museum of Leganés",
+            "es": "Museo de Esculturas de Leganés"
           },
           "coords": [
             -3.769,
@@ -105,7 +112,8 @@
             "de": "Ein Freilichtmuseum, ideal für einen Spaziergang zwischen moderner Kunst.",
             "hu": "Szabadtéri múzeum, ideális egy sétához a modern művészetek között.",
             "ro": "Un muzeu în aer liber, perfect pentru o plimbare printre opere de artă modernă.",
-            "en": "An open-air museum, perfect for a stroll among modern art pieces."
+            "en": "An open-air museum, perfect for a stroll among modern art pieces.",
+            "es": "Un museo al aire libre, perfecto para un paseo entre piezas de arte moderno."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Park de los Frailes",
             "hu": "Frailes Park",
             "ro": "Parcul de los Frailes",
-            "en": "Park de los Frailes"
+            "en": "Park de los Frailes",
+            "es": "Parque de los Frailes"
           },
           "coords": [
             -3.7581,
@@ -128,7 +137,8 @@
             "de": "Ein schöner Ort für eine Mittagspause im Schatten der Bäume.",
             "hu": "Remek hely egy ebédszünetre a fák árnyékában.",
             "ro": "Un loc frumos pentru o pauză de prânz la umbra copacilor.",
-            "en": "A lovely spot for a lunch break in the shade of the trees."
+            "en": "A lovely spot for a lunch break in the shade of the trees.",
+            "es": "Un lugar encantador para hacer una pausa para comer a la sombra de los árboles."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Einsiedelei von San Nicasio",
             "hu": "San Nicasio Remetelak",
             "ro": "Schitul San Nicasio",
-            "en": "Hermitage of San Nicasio"
+            "en": "Hermitage of San Nicasio",
+            "es": "Ermita de San Nicasio"
           },
           "coords": [
             -3.7788,
@@ -151,7 +162,8 @@
             "de": "Dem Schutzpatron der Stadt gewidmet, ist dies ein Ort der lokalen Verehrung.",
             "hu": "A város védőszentjének szentelték, a helyi tisztelet egyik központja.",
             "ro": "Dedicat sfântului patron al orașului, acesta este un loc de venerație locală.",
-            "en": "Dedicated to the city's patron saint, this is a place of local devotion."
+            "en": "Dedicated to the city's patron saint, this is a place of local devotion.",
+            "es": "Dedicada al patrón de la ciudad, es un lugar de devoción local."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Teatro Egaleo",
             "hu": "Egaleo Színház",
             "ro": "Teatrul Egaleo",
-            "en": "Egaleo Theatre"
+            "en": "Egaleo Theatre",
+            "es": "Teatro Egaleo"
           },
           "coords": [
             -3.7662,
@@ -174,7 +187,8 @@
             "de": "Prüfen Sie das Programm für Abendveranstaltungen, es ist ein Freilichttheater.",
             "hu": "Nézze meg az esti programot; ez egy szabadtéri színház.",
             "ro": "Verificați programul pentru evenimente de seară; este un teatru în aer liber.",
-            "en": "Check the schedule for evening events; it's an open-air theatre."
+            "en": "Check the schedule for evening events; it's an open-air theatre.",
+            "es": "Consulta la programación para eventos nocturnos; es un teatro al aire libre."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Ihr Tag in Leganés beginnt auf der belebten Plaza Mayor und führt Sie durch historische Straßen zur Kirche San Salvador. Der Vormittag ist der Kunst gewidmet, mit einem Spaziergang durch das einzigartige Freilicht-Skulpturenmuseum. Am Nachmittag entspannen Sie im Park de los Frailes, bevor Sie die spirituelle Atmosphäre der Einsiedelei San Nicasio erleben. Der Tag endet kulturell im griechisch inspirierten Teatro Egaleo.",
         "hu": "A leganési nap a nyüzsgő Főtéren kezdődik, majd történelmi utcákon át a San Salvador-templomhoz vezet. A délelőtt a művészeté, egy sétával az egyedülálló szabadtéri szoborparkban. Délután a Frailes Parkban pihenhet, mielőtt megtapasztalná a San Nicasio remetelak spirituális hangulatát. A nap kulturális élménnyel, a görög ihletésű Egaleo Színházban zárul.",
         "ro": "Ziua dvs. în Leganés începe în animata Plaza Mayor și vă poartă pe străzi istorice până la Biserica San Salvador. Dimineața este dedicată artei, cu o plimbare prin Muzeul de Sculptură în aer liber. După-amiaza vă relaxați în Parcul de los Frailes înainte de a experimenta atmosfera spirituală a Schitului San Nicasio. Ziua se încheie cultural la Teatrul Egaleo, de inspirație grecească.",
-        "en": "Your day in Leganés starts in the bustling Plaza Mayor, leading you through historic streets to the Church of San Salvador. The morning is dedicated to art with a walk through the unique open-air Sculpture Museum. In the afternoon, you'll relax in the Park de los Frailes before experiencing the spiritual atmosphere of the Hermitage of San Nicasio. The day concludes culturally at the Greek-inspired Egaleo Theatre."
+        "en": "Your day in Leganés starts in the bustling Plaza Mayor, leading you through historic streets to the Church of San Salvador. The morning is dedicated to art with a walk through the unique open-air Sculpture Museum. In the afternoon, you'll relax in the Park de los Frailes before experiencing the spiritual atmosphere of the Hermitage of San Nicasio. The day concludes culturally at the Greek-inspired Egaleo Theatre.",
+        "es": "Tu día en Leganés comienza en la animada Plaza Mayor y te guía por calles históricas hasta la Iglesia de San Salvador. La mañana está dedicada al arte con un paseo por el singular Museo de Esculturas al aire libre. Por la tarde te relajarás en el Parque de los Frailes antes de experimentar la atmósfera espiritual de la Ermita de San Nicasio. El día concluye culturalmente en el Teatro Egaleo, de inspiración griega."
       },
       "gastro_picks": {
         "de": [
@@ -378,6 +393,12 @@
           "Many shops observe a siesta in the early afternoon.",
           "Take advantage of the many small squares for a short break.",
           "A 'Menú del Día' at lunchtime is often the cheapest and most authentic option."
+        ],
+        "es": [
+          "Lleva calzado cómodo, ya que los adoquines del centro pueden ser irregulares.",
+          "Muchas tiendas guardan la siesta a primera hora de la tarde.",
+          "Aprovecha las muchas plazas pequeñas para una breve pausa.",
+          "Un 'Menú del Día' en el almuerzo suele ser la opción más barata y auténtica."
         ]
       },
       "variants": {
@@ -386,7 +407,8 @@
             "de": "Beginnen Sie Ihren Tag auf der Plaza Mayor, wo die Arkaden Schutz vor dem Regen bieten. Der Vormittag gehört der Kirche San Salvador, einem perfekten Rückzugsort mit beeindruckender Kunst.\n\nMittags erkunden Sie die historischen Kasernen der Königsgarde, deren massive Mauern Geborgenheit ausstrahlen. Ein kurzer Sprint bringt Sie zum Museum.\n\nDer Nachmittag im Skulpturenmuseum ist zwar teilweise im Freien, aber die Innenbereiche bieten genug Abwechslung. Der Regen verleiht den Statuen einen besonderen Glanz.\n\nDen Abend lassen Sie im Egaleo-Theater ausklingen. Die nasse Stadt spiegelt die Lichter von Leganés wunderschön wider, während Sie im Trockenen entspannen.",
             "hu": "Kezdje a napot a Fő téren, ahol az árkádok védelmet nyújtanak az eső ellen. A délelőtt a San Salvador templomé, amely lenyűgöző oltárával tökéletes menedék a zivatar elől.\n\nDélben látogasson el a Királyi Gárda laktanyájához, ahol a történelmi falak között elfelejtheti a kinti időjárást. Egy rövid séta vezet a múzeum felé.\n\nA Szobormúzeum délutáni látogatása során az eső különleges csillogást ad az alkotásoknak. A belső terekben bármikor meghúzódhat a nagyobb záporok elől.\n\nAz estét az Egaleo Színházban zárja. Az eső áztatta utcák fényei csodásan tükröződnek vissza, miközben Ön a kultúra mellett piheni ki a napot.",
             "ro": "Începeți ziua în Piața Mare, profitând de zonele acoperite pentru a evita ploaia. Dimineața este dedicată Bisericii San Salvador, un adăpost spiritual cu un altar baroc spectaculos.\n\nLa prânz, explorați fostele cazărmi ale Gărzii Regale, unde zidurile groase oferă protecție împotriva umezelii. Drumul spre muzeu necesită o umbrelă solidă.\n\nDupă-amiaza la Muzeul de Sculptură capătă o atmosferă melancolică sub picăturile de ploaie, oferind perspective unice asupra operelor. Căutați secțiunile interioare.\n\nÎncheiați seara la Teatrul Egaleo. Orașul ud reflectă luminile nocturne ale Leganés-ului într-un mod fascinant, oferind un final de zi relaxant și uscat.",
-            "en": "Start your day at the Main Square, using the nearby arcades to stay dry. The morning belongs to the Church of San Salvador, a magnificent indoor retreat from the rain.\n\nAt midday, visit the Barracks of the Royal Guards, where history provides a solid roof over your head. A quick dash with an umbrella leads you toward the museum district.\n\nIn the afternoon, the Sculpture Museum takes on a unique sheen in the rain. While partly outdoors, its layout allows for quick transitions between covered areas.\n\nEnd your evening at the Egaleo Theatre. The rain-slicked streets reflect the city lights beautifully as you enjoy a dry, cultural finish to your walk."
+            "en": "Start your day at the Main Square, using the nearby arcades to stay dry. The morning belongs to the Church of San Salvador, a magnificent indoor retreat from the rain.\n\nAt midday, visit the Barracks of the Royal Guards, where history provides a solid roof over your head. A quick dash with an umbrella leads you toward the museum district.\n\nIn the afternoon, the Sculpture Museum takes on a unique sheen in the rain. While partly outdoors, its layout allows for quick transitions between covered areas.\n\nEnd your evening at the Egaleo Theatre. The rain-slicked streets reflect the city lights beautifully as you enjoy a dry, cultural finish to your walk.",
+            "es": "Empieza el día en la Plaza Mayor, usando las arcadas cercanas para resguardarte de la lluvia. La mañana pertenece a la Iglesia de San Salvador, un magnífico refugio interior.\n\nAl mediodía visita el Cuartel de la Guardia Real, donde la historia ofrece un sólido techo. Un rápido paseo con paraguas te llevará hacia el distrito de museos.\n\nPor la tarde, el Museo de Esculturas adquiere un brillo particular bajo la lluvia. Aunque en parte al aire libre, su distribución permite transiciones rápidas entre zonas cubiertas.\n\nTermina la velada en el Teatro Egaleo. Las calles mojadas reflejan las luces de la ciudad de forma hermosa mientras disfrutas de un final cultural y seco a tu paseo."
           },
           "stops": [
             {
@@ -395,7 +417,8 @@
                 "de": "Nutzen Sie die Arkaden an den Seitenwänden der Plaza Mayor.",
                 "hu": "Használja a tér oldalsó árkádjait az eső elleni védekezéshez.",
                 "ro": "Folosiți arcadele din jurul pieței pentru a rămâne uscați.",
-                "en": "Use the arcades around the square to find shelter from the rain."
+                "en": "Use the arcades around the square to find shelter from the rain.",
+                "es": "Usa las arcadas alrededor de la plaza para cobijarte de la lluvia."
               }
             },
             {
@@ -404,7 +427,8 @@
                 "de": "Bewundern Sie das Altarbild im trockenen und warmen Kirchenschiff.",
                 "hu": "Csodálja meg a főoltárt a száraz és meleg templombelsőben.",
                 "ro": "Admirați altarul principal în interiorul cald și uscat.",
-                "en": "Admire the main altarpiece inside the dry and warm nave."
+                "en": "Admire the main altarpiece inside the dry and warm nave.",
+                "es": "Admira el retablo mayor dentro de la nave, seca y cálida."
               }
             },
             {
@@ -413,7 +437,8 @@
                 "de": "Idealer Ort, um die schwersten Regengüsse im Inneren abzuwarten.",
                 "hu": "Ideális hely a nagyobb záporok átvészelésére a falak között.",
                 "ro": "Loc perfect pentru a aștepta trecerea ploii între zidurile istorice.",
-                "en": "An ideal place to wait out heavy showers within historical walls."
+                "en": "An ideal place to wait out heavy showers within historical walls.",
+                "es": "Un lugar ideal para esperar a que pase un aguacero dentro de muros históricos."
               }
             },
             {
@@ -422,7 +447,8 @@
                 "de": "Regenschutz ist hier unerlässlich, da viele Exponate im Freien stehen.",
                 "hu": "Az esernyő kötelező, mivel sok szobor a szabad ég alatt van.",
                 "ro": "Umbrela este obligatorie, multe exponate fiind în aer liber.",
-                "en": "An umbrella is essential as many sculptures are in the open air."
+                "en": "An umbrella is essential as many sculptures are in the open air.",
+                "es": "Un paraguas es esencial ya que muchas esculturas están al aire libre."
               }
             },
             {
@@ -431,7 +457,8 @@
                 "de": "Die asphaltierten Wege meiden Pfützen besser als die Grasflächen.",
                 "hu": "Az aszfaltozott utak jobban járhatóak ilyenkor, mint a fű.",
                 "ro": "Drumurile asfaltate sunt mai bune decât zonele cu iarbă acum.",
-                "en": "Paved paths are better for walking than the grass in wet weather."
+                "en": "Paved paths are better for walking than the grass in wet weather.",
+                "es": "Los caminos pavimentados son mejores para caminar que el césped con tiempo húmedo."
               }
             },
             {
@@ -440,7 +467,8 @@
                 "de": "Ein kurzer Stopp im Inneren schützt vor dem nassen Wind.",
                 "hu": "Rövid pihenő odabent megvéd a nedves szél ellen.",
                 "ro": "O scurtă oprire în interior vă protejează de vântul umed.",
-                "en": "A brief stop inside protects you from the damp wind."
+                "en": "A brief stop inside protects you from the damp wind.",
+                "es": "Una breve parada en el interior te protege del viento húmedo."
               }
             },
             {
@@ -449,7 +477,8 @@
                 "de": "Der perfekte, trockene Abschluss für einen regnerischen Tag.",
                 "hu": "A tökéletes, száraz lezárása egy esős napnak.",
                 "ro": "Finalul perfect și uscat pentru o zi ploioasă.",
-                "en": "The perfect, dry conclusion to a rainy day exploration."
+                "en": "The perfect, dry conclusion to a rainy day exploration.",
+                "es": "La conclusión perfecta y seca para una exploración en día lluvioso."
               }
             }
           ],
@@ -477,6 +506,12 @@
               "The Main Square's arcades offer great shelter during sudden downpours.",
               "The Sculpture Museum is spread out; be ready to dash between covered spots.",
               "Cafés near Calle Juan Muñoz are perfect for a warm indoor break."
+            ],
+            "es": [
+              "Lleva calzado impermeable porque los charcos pueden formarse rápidamente en las aceras.",
+              "Las arcadas de la Plaza Mayor ofrecen un gran refugio durante chaparrones súbitos.",
+              "El Museo de Esculturas está repartido; prepárate para correr entre puntos cubiertos.",
+              "Las cafeterías cerca de la calle Juan Muñoz son perfectas para una pausa caliente en interiores."
             ]
           }
         },
@@ -485,7 +520,8 @@
             "de": "Ein frischer Wintermorgen in Leganés beginnt auf der belebten Plaza Mayor. Die klare Luft macht den Blick auf die Kirche San Salvador besonders scharf.\n\nMittags suchen Sie die Wärme der historischen Kasernen. Die Sonne steht tief, taucht die Backsteinfassaden aber in ein wunderschönes goldenes Licht.\n\nDer Nachmittag im Park de los Frailes ist kurz, da die Sonne früh untergeht. Die kahlen Bäume im Skulpturenmuseum wirken wie moderne Kunstwerke.\n\nAbends bietet das Egaleo-Theater einen gemütlichen Rückzugsort vor der Kälte der kastilischen Hochebene. Ein warmer Tee rundet den Tag perfekt ab.",
             "hu": "A friss téli reggel a Fő téren kezdődik, ahol a hideg levegőben tisztábban látszanak a San Salvador templom tornyai. Érdemes rétegesen öltözni.\n\nDélben a Királyi Gárda laktanyájának történelmi falai között keresünk menedéket a szél elől. A nap alacsonyan jár, de aranyba vonja az épületeket.\n\nA délután a Frailes parkban telik, sietve, mert a nap már 18:00 előtt lemegy. A Szobormúzeum csupasz fái között az alkotások még hangsúlyosabbak.\n\nEste az Egaleo Színház nyújt meleg menedéket a kasztíliai fennsík hideg szele elől. A napot egy forró itallal zárjuk a belvárosban.",
             "ro": "O dimineață răcoroasă de iarnă începe în Piața Mare, unde aerul curat face ca detaliile Bisericii San Salvador să pară și mai clare.\n\nLa prânz, căutați căldura între zidurile vechilor cazărmi. Soarele de iarnă stă jos pe cer, dar scaldă fațadele în nuanțe aurii superbe.\n\nDupă-amiaza în Parcul Frailes este limitată de apusul care vine devreme, în jur de ora 18:00. Muzeul de Sculptură capătă un aspect minimalist și fascinant.\n\nSeara, Teatrul Egaleo oferă un refugiu primitor împotriva frigului tăios de pe podișul castilian. Un ceai cald în centru este finalul ideal.",
-            "en": "A crisp winter morning starts at the Main Square, where the cold air makes the sight of San Salvador Church particularly sharp and clear.\n\nAt midday, enjoy the sheltered areas of the historic barracks. The low winter sun casts long, beautiful shadows across the brick facades.\n\nAfternoon in Park de los Frailes is brief as the sun sets early, around 6 PM. The Sculpture Museum's outdoor pieces stand out against the bare trees.\n\nIn the evening, the Egaleo Theatre provides a cozy escape from the biting winds of the Castilian plateau. A warm drink in a local cafe is a must."
+            "en": "A crisp winter morning starts at the Main Square, where the cold air makes the sight of San Salvador Church particularly sharp and clear.\n\nAt midday, enjoy the sheltered areas of the historic barracks. The low winter sun casts long, beautiful shadows across the brick facades.\n\nAfternoon in Park de los Frailes is brief as the sun sets early, around 6 PM. The Sculpture Museum's outdoor pieces stand out against the bare trees.\n\nIn the evening, the Egaleo Theatre provides a cozy escape from the biting winds of the Castilian plateau. A warm drink in a local cafe is a must.",
+            "es": "Una fría mañana de invierno comienza en la Plaza Mayor, donde el aire helado hace que la vista de la Iglesia de San Salvador sea particularmente nítida.\n\nAl mediodía disfruta de las zonas resguardadas del histórico cuartel. El sol bajo de invierno proyecta sombras largas y hermosas sobre las fachadas de ladrillo.\n\nLa tarde en el Parque de los Frailes es breve porque el sol se pone temprano, sobre las 18:00. Las piezas del Museo de Esculturas destacan junto a los árboles desnudos.\n\nPor la noche, el Teatro Egaleo ofrece un refugio acogedor frente a los vientos cortantes de la meseta castellana. Una bebida caliente en una cafetería local es imprescindible."
           },
           "stops": [
             {
@@ -494,7 +530,8 @@
                 "de": "Suchen Sie die sonnigen Plätze auf dem Platz, um sich aufzuwärmen.",
                 "hu": "Keresse a napsütötte pontokat a téren a felmelegedéshez.",
                 "ro": "Căutați locurile însorite din piață pentru a vă încălzi puțin.",
-                "en": "Look for the sunny spots in the square to warm up in the morning."
+                "en": "Look for the sunny spots in the square to warm up in the morning.",
+                "es": "Busca los lugares soleados en la plaza para entrar en calor por la mañana."
               }
             },
             {
@@ -503,7 +540,8 @@
                 "de": "Der Innenraum ist meist kühler als draußen; behalten Sie den Mantel an.",
                 "hu": "A templombelső gyakran hűvösebb a kinti levegőnél; ne vegye le a kabátot.",
                 "ro": "Interiorul este adesea mai rece decât afară; păstrați haina pe dvs.",
-                "en": "The interior is often colder than outside; keep your coat on."
+                "en": "The interior is often colder than outside; keep your coat on.",
+                "es": "El interior suele estar más frío que el exterior; mantén el abrigo puesto."
               }
             },
             {
@@ -512,7 +550,8 @@
                 "de": "Die dicken Mauern schützen gut vor dem kalten Winterwind.",
                 "hu": "A vastag falak jól védenek a metsző téli szél ellen.",
                 "ro": "Zidurile groase oferă protecție bună împotriva vântului rece de iarnă.",
-                "en": "The thick walls provide good shelter from the biting winter wind."
+                "en": "The thick walls provide good shelter from the biting winter wind.",
+                "es": "Los muros gruesos proporcionan buen refugio contra el viento invernal cortante."
               }
             },
             {
@@ -521,7 +560,8 @@
                 "de": "Besuchen Sie diesen Ort vor 17:00 Uhr, um das Tageslicht zu nutzen.",
                 "hu": "Látogasson ide 17:00 előtt, hogy még lásson a természetes fényben.",
                 "ro": "Vizitați înainte de ora 17:00 pentru a profita de lumina naturală.",
-                "en": "Visit before 5 PM to make the most of the remaining daylight."
+                "en": "Visit before 5 PM to make the most of the remaining daylight.",
+                "es": "Visita antes de las 17:00 para aprovechar la luz restante del día."
               }
             },
             {
@@ -530,7 +570,8 @@
                 "de": "Perfekt für einen schnellen Spaziergang in der Nachmittagssonne.",
                 "hu": "Tökéletes egy gyors sétához a délutáni napsütésben.",
                 "ro": "Perfect pentru o plimbare scurtă în soarele de după-amiază.",
-                "en": "Perfect for a brisk walk in the low afternoon sun."
+                "en": "Perfect for a brisk walk in the low afternoon sun.",
+                "es": "Perfecto para un paseo enérgico con el sol bajo de la tarde."
               }
             },
             {
@@ -539,7 +580,8 @@
                 "de": "Ein ruhiger Ort für eine kurze Pause abseits der Kälte.",
                 "hu": "Csendes hely egy rövid pihenőre a hideg elől.",
                 "ro": "Un loc liniștit pentru o scurtă pauză ferit de frig.",
-                "en": "A quiet spot for a brief break away from the cold air."
+                "en": "A quiet spot for a brief break away from the cold air.",
+                "es": "Un lugar tranquilo para una breve pausa alejada del aire frío."
               }
             },
             {
@@ -548,7 +590,8 @@
                 "de": "Genießen Sie die warme Atmosphäre und das Abendprogramm.",
                 "hu": "Élvezze a meleg belső teret és az esti kulturális programot.",
                 "ro": "Bucurați-vă de atmosfera caldă și de programul serii.",
-                "en": "Enjoy the warm indoor atmosphere and the evening program."
+                "en": "Enjoy the warm indoor atmosphere and the evening program.",
+                "es": "Disfruta del ambiente cálido interior y de la programación nocturna."
               }
             }
           ],
@@ -576,6 +619,12 @@
               "Sun sets around 6 PM in winter; plan outdoor stops for earlier in the day.",
               "Gloves and a scarf are essential for the walk to the Sculpture Museum.",
               "Hot chocolate with churros is a local winter specialty you must try."
+            ],
+            "es": [
+              "No subestimes el viento frío de la meseta castellana.",
+              "El sol se pone alrededor de las 18:00 en invierno; planifica las paradas al aire libre para primeras horas del día.",
+              "Guantes y bufanda son esenciales para el paseo hasta el Museo de Esculturas.",
+              "El chocolate caliente con churros es una especialidad invernal local que debes probar."
             ]
           }
         }
@@ -594,7 +643,8 @@
             "de": "Plaza Mayor",
             "hu": "Főtér",
             "ro": "Plaza Mayor",
-            "en": "Main Square"
+            "en": "Main Square",
+            "es": "Plaza Mayor"
           },
           "coords": [
             -3.7645,
@@ -609,7 +659,8 @@
             "de": "Schließen Sie Ihr Rad sicher ab und genießen Sie die Atmosphäre, bevor die Stadt erwacht.",
             "hu": "Zárja le biztonságosan a kerékpárját, és élvezze a hangulatot, mielőtt a város felébred.",
             "ro": "Asigurați-vă bicicleta și bucurați-vă de atmosferă înainte ca orașul să se trezească.",
-            "en": "Lock your bike securely and enjoy the atmosphere before the city wakes up."
+            "en": "Lock your bike securely and enjoy the atmosphere before the city wakes up.",
+            "es": "Asegura bien tu bicicleta y disfruta del ambiente antes de que la ciudad despierte."
           }
         },
         {
@@ -617,7 +668,8 @@
             "de": "Kirche San Salvador",
             "hu": "San Salvador templom",
             "ro": "Biserica San Salvador",
-            "en": "Church of San Salvador"
+            "en": "Church of San Salvador",
+            "es": "Iglesia de San Salvador"
           },
           "coords": [
             -3.764,
@@ -632,7 +684,8 @@
             "de": "Ein kurzer Stopp, um die barocke Fassade und den markanten Turm zu bewundern.",
             "hu": "Egy rövid megálló a barokk homlokzat és a jellegzetes torony megcsodálására.",
             "ro": "O oprire scurtă pentru a admira fațada barocă și turnul distinctiv.",
-            "en": "A quick stop to admire the baroque facade and the distinctive tower."
+            "en": "A quick stop to admire the baroque facade and the distinctive tower.",
+            "es": "Una parada rápida para admirar la fachada barroca y la torre distintiva."
           }
         },
         {
@@ -640,7 +693,8 @@
             "de": "Park de los Frailes",
             "hu": "Frailes Park",
             "ro": "Parcul de los Frailes",
-            "en": "Park de los Frailes"
+            "en": "Park de los Frailes",
+            "es": "Parque de los Frailes"
           },
           "coords": [
             -3.7581,
@@ -655,7 +709,8 @@
             "de": "Ideal für eine erste Radpause, mit schönen Wegen und viel Grün.",
             "hu": "Ideális egy első kerékpáros pihenőhöz, szép utakkal és sok zölddel.",
             "ro": "Ideal pentru o primă pauză de ciclism, cu poteci frumoase și multă verdeață.",
-            "en": "Ideal for a first cycling break, with nice paths and plenty of green."
+            "en": "Ideal for a first cycling break, with nice paths and plenty of green.",
+            "es": "Ideal para la primera parada en bici, con buenos caminos y abundante vegetación."
           }
         },
         {
@@ -663,7 +718,8 @@
             "de": "Skulpturenmuseum von Leganés",
             "hu": "Leganési Szobormúzeum",
             "ro": "Muzeul de Sculptură din Leganés",
-            "en": "Sculpture Museum of Leganés"
+            "en": "Sculpture Museum of Leganés",
+            "es": "Museo de Esculturas de Leganés"
           },
           "coords": [
             -3.769,
@@ -678,7 +734,8 @@
             "de": "Fahren Sie langsam durch den Park, die Skulpturen sind über ein weites Gebiet verteilt.",
             "hu": "Lassan haladjon át a parkon, a szobrok nagy területen vannak szétszórva.",
             "ro": "Pedalați încet prin parc, sculpturile sunt răspândite pe o arie largă.",
-            "en": "Cycle slowly through the park; the sculptures are spread over a wide area."
+            "en": "Cycle slowly through the park; the sculptures are spread over a wide area.",
+            "es": "Pedalea despacio por el parque; las esculturas están repartidas en una amplia zona."
           }
         },
         {
@@ -686,7 +743,8 @@
             "de": "Polvoranca-Park",
             "hu": "Polvoranca Park",
             "ro": "Parcul Polvoranca",
-            "en": "Polvoranca Park"
+            "en": "Polvoranca Park",
+            "es": "Parque de Polvoranca"
           },
           "coords": [
             -3.795,
@@ -701,7 +759,8 @@
             "de": "Der größte Park der Gegend. Perfekt für ein Picknick und eine lange Radtour um den See.",
             "hu": "A környék legnagyobb parkja. Tökéletes egy piknikhez és egy hosszú kerékpártúrához a tó körül.",
             "ro": "Cel mai mare parc din zonă. Perfect pentru un picnic și o plimbare lungă cu bicicleta în jurul lacului.",
-            "en": "The largest park in the area. Perfect for a picnic and a long bike ride around the lake."
+            "en": "The largest park in the area. Perfect for a picnic and a long bike ride around the lake.",
+            "es": "El parque más grande de la zona. Perfecto para un picnic y una larga ruta en bici alrededor del lago."
           }
         },
         {
@@ -709,7 +768,8 @@
             "de": "Einsiedelei von San Nicasio",
             "hu": "San Nicasio Remetelak",
             "ro": "Schitul San Nicasio",
-            "en": "Hermitage of San Nicasio"
+            "en": "Hermitage of San Nicasio",
+            "es": "Ermita de San Nicasio"
           },
           "coords": [
             -3.7788,
@@ -724,7 +784,8 @@
             "de": "Ein ruhiger Ort, um nach der langen Fahrt im Park innezuhalten.",
             "hu": "Csendes hely a parkban tett hosszú út utáni megpihenéshez.",
             "ro": "Un loc liniștit pentru a face o pauză după lunga plimbare din parc.",
-            "en": "A quiet place to pause after the long ride in the park."
+            "en": "A quiet place to pause after the long ride in the park.",
+            "es": "Un lugar tranquilo para descansar tras la larga ruta por el parque."
           }
         },
         {
@@ -732,7 +793,8 @@
             "de": "Teatro Egaleo",
             "hu": "Egaleo Színház",
             "ro": "Teatrul Egaleo",
-            "en": "Egaleo Theatre"
+            "en": "Egaleo Theatre",
+            "es": "Teatro Egaleo"
           },
           "coords": [
             -3.7662,
@@ -747,7 +809,8 @@
             "de": "Bewundern Sie die Architektur dieses von der griechischen Antike inspirierten Theaters.",
             "hu": "Csodálja meg ennek az ókori görög színház ihlette épületnek az építészetét.",
             "ro": "Admirați arhitectura acestui teatru inspirat de Grecia antică.",
-            "en": "Admire the architecture of this theater inspired by ancient Greece."
+            "en": "Admire the architecture of this theater inspired by ancient Greece.",
+            "es": "Admira la arquitectura de este teatro inspirada en la antigua Grecia."
           }
         },
         {
@@ -755,7 +818,8 @@
             "de": "Kaserne der Reales Guardias de Corps",
             "hu": "A Királyi Testőrség Laktanyája",
             "ro": "Cazarma Gărzilor Regale",
-            "en": "Barracks of the Royal Guards"
+            "en": "Barracks of the Royal Guards",
+            "es": "Cuartel de la Guardia Real"
           },
           "coords": [
             -3.7658,
@@ -770,7 +834,8 @@
             "de": "Beenden Sie Ihre Tour mit einem Blick auf dieses historische Gebäude, das heute universitäres Leben beherbergt.",
             "hu": "Fejezze be a túrát ennek a történelmi épületnek a megtekintésével, amely ma egyetemi életnek ad otthont.",
             "ro": "Încheiați-vă turul cu o privire la această clădire istorică, care astăzi găzduiește viața universitară.",
-            "en": "End your tour with a look at this historic building, which now hosts university life."
+            "en": "End your tour with a look at this historic building, which now hosts university life.",
+            "es": "Termina tu ruta con una mirada a este edificio histórico, que ahora acoge vida universitaria."
           }
         }
       ],
@@ -778,7 +843,8 @@
         "de": "Schwingen Sie sich aufs Rad und starten Sie an der Plaza Mayor. Eine kurze Fahrt führt Sie zu den zentralen Highlights, bevor Sie im Park de los Frailes eine grüne Pause einlegen. Der Vormittag steht im Zeichen der Kunst, während Sie durch das Skulpturenmuseum radeln. Am Nachmittag erwartet Sie die Weite des Polvoranca-Parks für eine ausgedehnte Tour. Auf dem Rückweg entdecken Sie die ruhige Einsiedelei San Nicasio und beenden den Tag mit Eindrücken von Theater und Geschichte im Stadtzentrum.",
         "hu": "Pattanjon kerékpárra és induljon a Főtérről. Egy rövid tekerés elvezeti a központi látnivalókhoz, mielőtt a Frailes Parkban tartanánk egy zöld pihenőt. A délelőtt a művészet jegyében telik a Szobormúzeumon keresztül. Délután a Polvoranca Park hatalmas területe vár egy hosszabb túrára. Visszafelé felfedezheti a csendes San Nicasio remetelakot, és a napot a városközpontban, színházi és történelmi benyomásokkal zárhatja.",
         "ro": "Urcați-vă pe bicicletă și porniți din Plaza Mayor. O scurtă plimbare vă duce la atracțiile centrale înainte de o pauză verde în Parcul de los Frailes. Dimineața este dedicată artei, pedalând prin Muzeul de Sculptură. După-amiaza, întinderea Parcului Polvoranca vă așteaptă pentru un tur extins. Pe drumul de întoarcere, descoperiți liniștitul Schit San Nicasio și încheiați ziua cu impresii de teatru și istorie în centrul orașului.",
-        "en": "Get on your bike and start at Plaza Mayor. A short ride takes you to the central highlights before a green break in the Park de los Frailes. The morning is dedicated to art as you cycle through the Sculpture Museum. In the afternoon, the vastness of Polvoranca Park awaits you for an extended tour. On the way back, discover the quiet Hermitage of San Nicasio and end the day with impressions of theatre and history in the city center."
+        "en": "Get on your bike and start at Plaza Mayor. A short ride takes you to the central highlights before a green break in the Park de los Frailes. The morning is dedicated to art as you cycle through the Sculpture Museum. In the afternoon, the vastness of Polvoranca Park awaits you for an extended tour. On the way back, discover the quiet Hermitage of San Nicasio and end the day with impressions of theatre and history in the city center.",
+        "es": "Súbete a la bicicleta y empieza en la Plaza Mayor. Un corto recorrido te lleva a los puntos centrales antes de una pausa verde en el Parque de los Frailes. La mañana está dedicada al arte mientras recorres el Museo de Esculturas. Por la tarde te espera la inmensidad del Parque de Polvoranca para una ruta extendida. De regreso descubre la tranquila Ermita de San Nicasio y termina el día con impresiones de teatro e historia en el centro."
       },
       "gastro_picks": {
         "de": [
@@ -974,6 +1040,12 @@
           "A bottle of water is essential.",
           "Use bike lanes wherever possible.",
           "Be mindful of pedestrians in parks and the city center."
+        ],
+        "es": [
+          "Revisa la presión de los neumáticos antes de salir.",
+          "Una botella de agua es esencial.",
+          "Usa los carriles bici siempre que sea posible.",
+          "Respeta a los peatones en parques y el centro urbano."
         ]
       },
       "variants": {
@@ -982,7 +1054,8 @@
             "de": "Radeln Sie vorsichtig über die Plaza Mayor, da das Pflaster rutschig sein kann. Der Vormittag bietet bei San Salvador eine gute Pause im Trockenen.\n\nMittags geht es weiter zum Park de los Frailes. Der Regen macht die Wege weich, aber die frische Luft ist belebend. Ein Cape ist hier Pflicht.\n\nDer Nachmittag im Polvoranca-Park ist ein Abenteuer. Der See wirkt unter dem grauen Himmel mystisch, aber meiden Sie unbefestigte Schlammwege.\n\nAbends kehren Sie in die Stadt zurück. Die Lichter von Leganés leiten Sie sicher zum Theater, wo Sie Ihr Rad abstellen und sich aufwärmen können.",
             "hu": "Óvatosan tekerjen a Fő téren, a díszburkolat csúszós lehet az esőben. A délelőtt a San Salvador templomnál ad esélyt a száradásra.\n\nDélben irány a Frailes park. Az eső felfrissíti a levegőt, de a sárvédő és az esőköpeny elengedhetetlen a sár ellen.\n\nA délután a Polvoranca parkban igazi kaland. A tó misztikus a szürke ég alatt, de kerülje a kivilágítatlan, sáros földutakat.\n\nEste térjen vissza a központba. A város fényei visszakalauzolják a színházhoz, ahol biztonságban lezárhatja a bringát a pihenés előtt.",
             "ro": "Pedalați cu atenție prin Piața Mare, pavajul poate deveni alunecos. Dimineața oferă o pauză binemeritată și uscată la Biserica San Salvador.\n\nLa prânz, parcurgeți drumul spre Parcul Frailes. Ploaia împrospătează aerul, dar aveți nevoie de apărători de noroi și pelerină.\n\nDupă-amiaza în Parcul Polvoranca este o aventură. Lacul pare mistic sub cerul gri, dar evitați potecile de pământ care devin noroioase.\n\nSeara reveniți în oraș. Luminile stradale vă ghidează spre teatru, unde puteți lăsa bicicleta pentru o seară culturală la căldură.",
-            "en": "Cycle carefully across the Main Square as the tiles can be slippery. The morning offers a dry respite at the San Salvador Church.\n\nAt midday, head towards Park de los Frailes. The rain is refreshing, but mudguards and a waterproof cape are essential for comfort.\n\nAfternoon in Polvoranca Park is an adventure. The lake looks mystical under grey skies, but stay on paved paths to avoid getting stuck in mud.\n\nIn the evening, head back to the center. The city lights will guide you to the theatre, where you can park your bike and warm up inside."
+            "en": "Cycle carefully across the Main Square as the tiles can be slippery. The morning offers a dry respite at the San Salvador Church.\n\nAt midday, head towards Park de los Frailes. The rain is refreshing, but mudguards and a waterproof cape are essential for comfort.\n\nAfternoon in Polvoranca Park is an adventure. The lake looks mystical under grey skies, but stay on paved paths to avoid getting stuck in mud.\n\nIn the evening, head back to the center. The city lights will guide you to the theatre, where you can park your bike and warm up inside.",
+            "es": "Pedalea con cuidado por la Plaza Mayor porque las losas pueden estar resbaladizas. Por la mañana ofrece un respiro seco en la Iglesia de San Salvador.\n\nAl mediodía dirígete al Parque de los Frailes. La lluvia es refrescante, pero guardabarros y una capa impermeable son esenciales para la comodidad.\n\nLa tarde en el Parque de Polvoranca es una aventura. El lago se ve místico bajo cielos grises, pero mantente en los caminos pavimentados para evitar quedarte atascado en el barro.\n\nPor la noche vuelve al centro. Las luces de la ciudad te guiarán hasta el teatro, donde podrás aparcar la bici y entrar a calentar."
           },
           "stops": [
             {
@@ -991,7 +1064,8 @@
                 "de": "Vorsicht beim Bremsen auf den nassen Fliesen des Platzes.",
                 "hu": "Vigyázzon a fékezéssel a tér nedves burkolatán.",
                 "ro": "Atenție la frânare pe dalele umede din piață.",
-                "en": "Be careful when braking on the wet tiles of the square."
+                "en": "Be careful when braking on the wet tiles of the square.",
+                "es": "Ten cuidado al frenar sobre las losas húmedas de la plaza."
               }
             },
             {
@@ -1000,7 +1074,8 @@
                 "de": "Nutzen Sie den Stopp, um Ihre Regenbekleidung kurz zu lüften.",
                 "hu": "Használja ki a megállót az esőruházat rövid szárítására.",
                 "ro": "Folosiți oprirea pentru a vă scutura pelerina de ploaie.",
-                "en": "Use this stop to briefly dry off your rain gear."
+                "en": "Use this stop to briefly dry off your rain gear.",
+                "es": "Utiliza esta parada para secar brevemente tu ropa de lluvia."
               }
             },
             {
@@ -1009,7 +1084,8 @@
                 "de": "Bleiben Sie auf den Hauptwegen, um Schlamm zu vermeiden.",
                 "hu": "Maradjon a főutakon, hogy elkerülje a nagyobb sarat.",
                 "ro": "Rămâneți pe aleile principale pentru a evita noroiul.",
-                "en": "Stick to the main paved paths to avoid the mud."
+                "en": "Stick to the main paved paths to avoid the mud.",
+                "es": "Mantente en los caminos principales pavimentados para evitar el barro."
               }
             },
             {
@@ -1018,7 +1094,8 @@
                 "de": "Fahrradständer sind vorhanden; achten Sie auf rutschigen Boden beim Absteigen.",
                 "hu": "Vannak tárolók; vigyázzon a csúszós talajra leszálláskor.",
                 "ro": "Există suporturi de biciclete; atenție la solul alunecos când coborâți.",
-                "en": "Bike racks are available; watch for slippery ground when dismounting."
+                "en": "Bike racks are available; watch for slippery ground when dismounting.",
+                "es": "Hay aparca-bicicletas; cuidado con el suelo resbaladizo al desmontar."
               }
             },
             {
@@ -1027,7 +1104,8 @@
                 "de": "Die Wege um den See können bei starkem Regen überschwemmt sein.",
                 "hu": "A tó körüli utak heves esőben víz alá kerülhetnek.",
                 "ro": "Aleile din jurul lacului pot fi inundate după ploi grele.",
-                "en": "The paths around the lake can get flooded after heavy rain."
+                "en": "The paths around the lake can get flooded after heavy rain.",
+                "es": "Los senderos alrededor del lago pueden inundarse tras lluvias intensas."
               }
             },
             {
@@ -1036,7 +1114,8 @@
                 "de": "Ein kurzer Unterstand am Eingang schützt vor Schauern.",
                 "hu": "A bejáratnál talált fedett rész védelmet nyújt a záporoktól.",
                 "ro": "Zona acoperită de la intrare vă protejează de aversă.",
-                "en": "The covered area at the entrance offers protection from showers."
+                "en": "The covered area at the entrance offers protection from showers.",
+                "es": "La zona cubierta en la entrada ofrece protección ante los chubascos."
               }
             },
             {
@@ -1045,7 +1124,8 @@
                 "de": "Guter Ort, um das Fahrrad sicher für den Abend abzustellen.",
                 "hu": "Jó hely a bicikli biztonságos lezárásához az este előtt.",
                 "ro": "Loc bun pentru a parca bicicleta în siguranță înainte de spectacol.",
-                "en": "A good spot to securely lock your bike before the evening show."
+                "en": "A good spot to securely lock your bike before the evening show.",
+                "es": "Un buen sitio para asegurar la bicicleta antes del espectáculo nocturno."
               }
             },
             {
@@ -1054,7 +1134,8 @@
                 "de": "Stellen Sie sich unter die historischen Mauervorsprünge.",
                 "hu": "Álljon a történelmi falak kiszögellései alá az eső elől.",
                 "ro": "Adăpostiți-vă sub cornișele zidurilor istorice.",
-                "en": "Take shelter under the overhangs of the historic walls."
+                "en": "Take shelter under the overhangs of the historic walls.",
+                "es": "Busca refugio bajo los aleros de las murallas históricas."
               }
             }
           ],
@@ -1082,6 +1163,12 @@
               "Avoid metal grates on the road; they become extremely slippery when wet.",
               "A waterproof phone mount is essential for navigating in the rain.",
               "Brake earlier than usual as stopping distances increase on wet roads."
+            ],
+            "es": [
+              "Usa guardabarros para protegerte del agua del asfalto.",
+              "Evita las rejillas metálicas en la calzada; son extremadamente resbaladizas cuando están mojadas.",
+              "Un soporte impermeable para el móvil es esencial para navegar bajo la lluvia.",
+              "Frena antes de lo habitual ya que la distancia de parada aumenta en carreteras mojadas."
             ]
           }
         },
@@ -1090,7 +1177,8 @@
             "de": "Der Wintermorgen beginnt frisch auf der Plaza Mayor. Die kühle Luft ist perfekt für eine zügige Fahrt, um warm zu werden. San Salvador bietet einen ersten Kulturstopp.\n\nMittags geht es zum Polvoranca-Park. Die weite Landschaft unter der tiefstehenden Sonne ist atemberaubend, aber der Wind kann hier scharf wehen.\n\nDer Nachmittag im Skulpturenmuseum zeigt die Kunstwerke ohne Laub in einem klaren Licht. Achten Sie auf die Zeit, das Licht verschwindet schnell.\n\nAbends radeln Sie durch das beleuchtete Zentrum zum Egaleo-Theater. Die Bewegung hält Sie warm, bis Sie den gemütlichen Innenraum erreichen.",
             "hu": "A téli reggel frissen indul a Fő téren. A hideg levegő tökéletes a gyors tekeréshez, hogy bemelegedjen. A San Salvador templom az első kulturális állomás.\n\nDélben irány a Polvoranca park. A nyílt táj felett alacsonyan járó nap látványa gyönyörű, de a szél itt metsző lehet.\n\nA délután a Szobormúzeumban a lombok nélküli fák között tiszta fénybe vonja az alkotásokat. Ügyeljen az időre, a fény gyorsan fogy.\n\nEste a kivilágított központon át tekerjen az Egaleo Színházhoz. A mozgás melegen tartja, amíg el nem éri a hangulatos belső teret.",
             "ro": "Dimineața de iarnă începe proaspăt în Piața Mare. Aerul rece este perfect pentru o pedalare rapidă care să vă încălzească. San Salvador este prima oprire.\n\nLa prânz, mergeți spre Parcul Polvoranca. Peisajul deschis sub soarele de iarnă este superb, dar vântul poate fi tăios aici.\n\nDupă-amiaza la Muzeul de Sculptură oferă o lumină clară asupra operelor, fără frunzișul copacilor. Atenție la timp, lumina dispare repede.\n\nSeara pedalați prin centrul iluminat spre Teatrul Egaleo. Mișcarea vă va ține de cald până când veți ajunge în interiorul primitor.",
-            "en": "A fresh winter morning starts at the Main Square. The chilly air is perfect for a brisk ride to warm up. San Salvador is your first cultural stop.\n\nAt midday, head to Polvoranca Park. The vast landscape under the low sun is stunning, but be prepared for sharp winds in open areas.\n\nAfternoon at the Sculpture Museum shows the artworks in clear light without tree foliage. Keep an eye on the clock as daylight fades fast.\n\nIn the evening, cycle through the illuminated city center to the Egaleo Theatre. The physical activity will keep you warm until you get inside."
+            "en": "A fresh winter morning starts at the Main Square. The chilly air is perfect for a brisk ride to warm up. San Salvador is your first cultural stop.\n\nAt midday, head to Polvoranca Park. The vast landscape under the low sun is stunning, but be prepared for sharp winds in open areas.\n\nAfternoon at the Sculpture Museum shows the artworks in clear light without tree foliage. Keep an eye on the clock as daylight fades fast.\n\nIn the evening, cycle through the illuminated city center to the Egaleo Theatre. The physical activity will keep you warm until you get inside.",
+            "es": "Una fresca mañana de invierno comienza en la Plaza Mayor. El aire frío es perfecto para un paseo enérgico que entre en calor. San Salvador es tu primera parada cultural.\n\nAl mediodía, dirígete al Parque Polvoranca. El vasto paisaje bajo el sol bajo es impresionante, pero prepárate para vientos fuertes en las zonas abiertas.\n\nLa tarde en el Museo de Escultura muestra las obras con luz clara sin el follaje de los árboles. Vigila el reloj porque la luz del día cae rápido.\n\nPor la noche, pedalea por el centro iluminado hasta el Teatro Egaleo. La actividad física te mantendrá caliente hasta que entres."
           },
           "stops": [
             {
@@ -1099,7 +1187,8 @@
                 "de": "Tragen Sie winddichte Handschuhe für den Start am Morgen.",
                 "hu": "Viseljen szélálló kesztyűt a reggeli induláshoz.",
                 "ro": "Purtați mănuși rezistente la vânt pentru startul zilei.",
-                "en": "Wear windproof gloves for the chilly morning start."
+                "en": "Wear windproof gloves for the chilly morning start.",
+                "es": "Lleva guantes cortaviento para el fresco inicio de la mañana."
               }
             },
             {
@@ -1108,7 +1197,8 @@
                 "de": "Ketten Sie das Rad in Sichtweite an und genießen Sie die Wärme drinnen.",
                 "hu": "Zárja le a biciklit látható helyen, és élvezze a benti meleget.",
                 "ro": "Lăsați bicicleta la vedere și bucurați-vă de căldura din interior.",
-                "en": "Lock your bike within sight and enjoy the warmth inside."
+                "en": "Lock your bike within sight and enjoy the warmth inside.",
+                "es": "Asegura tu bicicleta a la vista y disfruta del calor del interior."
               }
             },
             {
@@ -1117,7 +1207,8 @@
                 "de": "Sonnige Wege bevorzugen, um dem Bodenfrost zu entgehen.",
                 "hu": "Válassza a napsütötte utakat a talajmenti fagy elkerülésére.",
                 "ro": "Alegeți aleile însorite pentru a evita porțiunile cu îngheț.",
-                "en": "Prefer sunny paths to avoid any early ground frost."
+                "en": "Prefer sunny paths to avoid any early ground frost.",
+                "es": "Prefiere los caminos soleados para evitar las heladas tempranas en el suelo."
               }
             },
             {
@@ -1126,7 +1217,8 @@
                 "de": "Perfektes Licht für Fotos, bevor die Sonne untergeht.",
                 "hu": "Tökéletes fények a fotózáshoz, mielőtt a nap lemegy.",
                 "ro": "Lumină perfectă pentru fotografii înainte de apus.",
-                "en": "Perfect lighting for photos before the sun goes down."
+                "en": "Perfect lighting for photos before the sun goes down.",
+                "es": "Iluminación perfecta para fotos antes de la puesta de sol."
               }
             },
             {
@@ -1135,7 +1227,8 @@
                 "de": "Vorsicht vor starkem Wind auf den offenen Flächen am See.",
                 "hu": "Vigyázzon az erős széllel a tó körüli nyílt részeken.",
                 "ro": "Atenție la vântul puternic în zonele deschise de lângă lac.",
-                "en": "Watch out for strong winds in the open areas near the lake."
+                "en": "Watch out for strong winds in the open areas near the lake.",
+                "es": "Cuidado con los vientos fuertes en las zonas abiertas cerca del lago."
               }
             },
             {
@@ -1144,7 +1237,8 @@
                 "de": "Ein ruhiger Ort, um die Finger kurz aufzuwärmen.",
                 "hu": "Csendes hely az ujjak rövid felmelegítésére.",
                 "ro": "Un loc liniștit pentru a vă încălzi puțin mâinile.",
-                "en": "A quiet spot to briefly warm up your fingers."
+                "en": "A quiet spot to briefly warm up your fingers.",
+                "es": "Un lugar tranquilo para calentar brevemente los dedos."
               }
             },
             {
@@ -1153,7 +1247,8 @@
                 "de": "Parken Sie unter der Straßenbeleuchtung für mehr Sicherheit.",
                 "hu": "Parkoljon az utcai lámpák alatt a nagyobb biztonságért.",
                 "ro": "Parcați sub luminile stradale pentru mai multă siguranță.",
-                "en": "Park under the street lights for better visibility and safety."
+                "en": "Park under the street lights for better visibility and safety.",
+                "es": "Estaciona bajo las farolas para mejor visibilidad y seguridad."
               }
             },
             {
@@ -1162,7 +1257,8 @@
                 "de": "Die Backsteinmauern strahlen mittags etwas gespeicherte Wärme ab.",
                 "hu": "A téglafalak délben sugároznak némi tárolt meleget.",
                 "ro": "Zidurile de cărămidă emană puțină căldură la prânz.",
-                "en": "The brick walls radiate a bit of stored warmth at midday."
+                "en": "The brick walls radiate a bit of stored warmth at midday.",
+                "es": "Los muros de ladrillo irradian algo de calor acumulado al mediodía."
               }
             }
           ],
@@ -1190,6 +1286,12 @@
               "The low winter sun can be blinding; sunglasses are very helpful.",
               "Check your tire pressure as cold air reduces its volume.",
               "Park paths can be icy in some spots during the early morning."
+            ],
+            "es": [
+              "Vístete en capas para evitar sobrecalentarte mientras pedaleas.",
+              "El sol bajo de invierno puede deslumbrar; unas gafas de sol son muy útiles.",
+              "Revisa la presión de los neumáticos porque el aire frío reduce su volumen.",
+              "Los caminos del parque pueden estar helados en algunos puntos durante la madrugada."
             ]
           }
         }
@@ -1208,7 +1310,8 @@
             "de": "Cluster A: Historisches Zentrum",
             "hu": "A klaszter: Történelmi központ",
             "ro": "Cluster A: Centrul Istoric",
-            "en": "Cluster A: Historic Center"
+            "en": "Cluster A: Historic Center",
+            "es": "Conjunto A: Centro Histórico"
           },
           "coords": [
             -3.7645,
@@ -1224,7 +1327,8 @@
             "de": "Parken Sie in einem der öffentlichen Parkhäuser nahe der Plaza Mayor für diesen Cluster.",
             "hu": "Parkoljon a Plaza Mayor közelében található nyilvános parkolóházak egyikében ehhez a klaszterhez.",
             "ro": "Parcați într-una dintre parcările publice de lângă Plaza Mayor pentru acest cluster.",
-            "en": "Park in one of the public car parks near Plaza Mayor for this cluster."
+            "en": "Park in one of the public car parks near Plaza Mayor for this cluster.",
+            "es": "Aparca en uno de los parkings públicos cerca de la Plaza Mayor para este conjunto."
           }
         },
         {
@@ -1232,7 +1336,8 @@
             "de": "Plaza Mayor",
             "hu": "Főtér",
             "ro": "Plaza Mayor",
-            "en": "Main Square"
+            "en": "Main Square",
+            "es": "Plaza Mayor"
           },
           "coords": [
             -3.7645,
@@ -1248,7 +1353,8 @@
             "de": "Der Ausgangspunkt Ihres Spaziergangs durch das Zentrum.",
             "hu": "A központon átvezető sétájának kiindulópontja.",
             "ro": "Punctul de plecare al plimbării dvs. prin centru.",
-            "en": "The starting point of your walk through the center."
+            "en": "The starting point of your walk through the center.",
+            "es": "El punto de inicio de tu paseo por el centro."
           }
         },
         {
@@ -1256,7 +1362,8 @@
             "de": "Kirche San Salvador",
             "hu": "San Salvador templom",
             "ro": "Biserica San Salvador",
-            "en": "Church of San Salvador"
+            "en": "Church of San Salvador",
+            "es": "Iglesia de San Salvador"
           },
           "coords": [
             -3.764,
@@ -1272,7 +1379,8 @@
             "de": "Nur einen kurzen Spaziergang von der Plaza entfernt, ein architektonisches Juwel.",
             "hu": "Csak egy rövid sétára a tértől, egy építészeti gyöngyszem.",
             "ro": "La doar o scurtă plimbare de piață, o bijuterie arhitecturală.",
-            "en": "Just a short walk from the plaza, an architectural gem."
+            "en": "Just a short walk from the plaza, an architectural gem.",
+            "es": "A poca distancia de la plaza, una joya arquitectónica."
           }
         },
         {
@@ -1280,7 +1388,8 @@
             "de": "Kaserne der Reales Guardias de Corps",
             "hu": "A Királyi Testőrség Laktanyája",
             "ro": "Cazarma Gărzilor Regale",
-            "en": "Barracks of the Royal Guards"
+            "en": "Barracks of the Royal Guards",
+            "es": "Cuartel de la Guardia Real"
           },
           "coords": [
             -3.7658,
@@ -1296,7 +1405,8 @@
             "de": "Bewundern Sie die Fassade auf dem Weg zurück zum Auto.",
             "hu": "Csodálja meg a homlokzatot a visszaúton az autóhoz.",
             "ro": "Admirați fațada pe drumul de întoarcere la mașină.",
-            "en": "Admire the facade on your way back to the car."
+            "en": "Admire the facade on your way back to the car.",
+            "es": "Admira la fachada de camino de vuelta al coche."
           }
         },
         {
@@ -1304,7 +1414,8 @@
             "de": "Cluster B: Kunst & Natur",
             "hu": "B klaszter: Művészet és természet",
             "ro": "Cluster B: Artă și Natură",
-            "en": "Cluster B: Art & Nature"
+            "en": "Cluster B: Art & Nature",
+            "es": "Conjunto B: Arte y Naturaleza"
           },
           "coords": [
             -3.795,
@@ -1320,7 +1431,8 @@
             "de": "Fahren Sie zum Polvoranca-Park. Hier gibt es ausreichend Parkplätze.",
             "hu": "Vezessen a Polvoranca Parkhoz. Itt bőséges parkolóhely található.",
             "ro": "Conduceți spre Parcul Polvoranca. Există suficiente locuri de parcare aici.",
-            "en": "Drive to Polvoranca Park. There is ample parking here."
+            "en": "Drive to Polvoranca Park. There is ample parking here.",
+            "es": "Conduce hasta el Parque Polvoranca. Hay amplio aparcamiento."
           }
         },
         {
@@ -1328,7 +1440,8 @@
             "de": "Polvoranca-Park",
             "hu": "Polvoranca Park",
             "ro": "Parcul Polvoranca",
-            "en": "Polvoranca Park"
+            "en": "Polvoranca Park",
+            "es": "Parque Polvoranca"
           },
           "coords": [
             -3.795,
@@ -1344,7 +1457,8 @@
             "de": "Nehmen Sie sich Zeit für einen langen Spaziergang, ein Picknick und die botanischen Gärten.",
             "hu": "Szánjon időt egy hosszú sétára, piknikre és a botanikus kertekre.",
             "ro": "Luați-vă timp pentru o plimbare lungă, un picnic și grădinile botanice.",
-            "en": "Take your time for a long walk, a picnic, and the botanical gardens."
+            "en": "Take your time for a long walk, a picnic, and the botanical gardens.",
+            "es": "Tómate tiempo para una larga caminata, un picnic y los jardines botánicos."
           }
         },
         {
@@ -1352,7 +1466,8 @@
             "de": "Cluster C: Kultur & Skulptur",
             "hu": "C klaszter: Kultúra és szobrászat",
             "ro": "Cluster C: Cultură și Sculptură",
-            "en": "Cluster C: Culture & Sculpture"
+            "en": "Cluster C: Culture & Sculpture",
+            "es": "Conjunto C: Cultura y Escultura"
           },
           "coords": [
             -3.769,
@@ -1368,7 +1483,8 @@
             "de": "Parken Sie in der Nähe des Skulpturenmuseums. Von hier aus können Sie das Theater zu Fuß erreichen.",
             "hu": "Parkoljon a Szobormúzeum közelében. Innen gyalogosan is elérheti a színházat.",
             "ro": "Parcați lângă Muzeul de Sculptură. De aici puteți ajunge la teatru pe jos.",
-            "en": "Park near the Sculpture Museum. From here you can walk to the theatre."
+            "en": "Park near the Sculpture Museum. From here you can walk to the theatre.",
+            "es": "Aparca cerca del Museo de Escultura. Desde allí puedes caminar hasta el teatro."
           }
         }
       ],
@@ -1376,7 +1492,8 @@
         "de": "Ihr Autotag beginnt mit einem Spaziergang durch das historische Herz von Leganés, nachdem Sie bequem in der Nähe der Plaza Mayor geparkt haben. Der Vormittag führt Sie dann in die Weite des Polvoranca-Parks, einer grünen Lunge, die perfekt für eine ausgedehnte Mittagspause ist. Am Nachmittag fahren Sie zum Kultur-Cluster, wo Sie zwischen den beeindruckenden Installationen des Skulpturenmuseums wandeln und den Tag mit einem Gefühl für die moderne Seele der Stadt ausklingen lassen.",
         "hu": "Autós napja egy sétával kezdődik Leganés történelmi szívében, miután kényelmesen leparkolt a Plaza Mayor közelében. A délelőtt a Polvoranca Park hatalmas területére vezet, egy zöld tüdőbe, amely tökéletes egy hosszabb ebédszünethez. Délután a kulturális klaszterhez hajt, ahol a Szobormúzeum lenyűgöző installációi között sétálhat, és a város modern lelkét megérezve zárhatja a napot.",
         "ro": "Ziua dvs. cu mașina începe cu o plimbare prin inima istorică a orașului Leganés, după ce ați parcat convenabil lângă Plaza Mayor. Dimineața vă duce apoi în întinderea Parcului Polvoranca, un plămân verde perfect pentru o pauză de prânz prelungită. După-amiaza, conduceți spre clusterul cultural, unde vă plimbați printre instalațiile impresionante ale Muzeului de Sculptură și încheiați ziua cu un sentiment al sufletului modern al orașului.",
-        "en": "Your car day begins with a walk through the historic heart of Leganés after parking conveniently near Plaza Mayor. The morning then takes you to the vastness of Polvoranca Park, a green lung perfect for an extended lunch break. In the afternoon, you'll drive to the cultural cluster, where you can wander among the impressive installations of the Sculpture Museum and end the day with a sense of the city's modern soul."
+        "en": "Your car day begins with a walk through the historic heart of Leganés after parking conveniently near Plaza Mayor. The morning then takes you to the vastness of Polvoranca Park, a green lung perfect for an extended lunch break. In the afternoon, you'll drive to the cultural cluster, where you can wander among the impressive installations of the Sculpture Museum and end the day with a sense of the city's modern soul.",
+        "es": "Tu día en coche comienza con un paseo por el corazón histórico de Leganés tras aparcar junto a la Plaza Mayor. Por la mañana irás al vasto Parque Polvoranca, un pulmón verde perfecto para un descanso largo a mediodía. Por la tarde conducirás al conjunto cultural, donde podrás pasear entre las impresionantes instalaciones del Museo de Escultura y terminar el día con una sensación de la alma moderna de la ciudad."
       },
       "gastro_picks": {
         "de": [
@@ -1572,6 +1689,12 @@
           "Check parking fees before entering a car park.",
           "Keep coins handy for parking meters.",
           "Plan extra time for finding parking in popular areas."
+        ],
+        "es": [
+          "Usa una app de navegación para evitar atascos.",
+          "Consulta las tarifas antes de entrar en un aparcamiento.",
+          "Lleva monedas a mano para los parquímetros.",
+          "Planea tiempo extra para encontrar aparcamiento en zonas concurridas."
         ]
       },
       "variants": {
@@ -1580,7 +1703,8 @@
             "de": "Starten Sie Ihre Autotour im Zentrum. Parken Sie in der Nähe der Plaza Mayor und nutzen Sie die kurzen Wege. San Salvador bietet Schutz vor dem Wetter.\n\nMittags fahren Sie zu den Kasernen. Der Wagen bleibt Ihr trockener Rückzugsort zwischen den historischen Sehenswürdigkeiten von Leganés.\n\nNachmittags geht es zum Polvoranca-Park. Genießen Sie den Blick auf den See gemütlich aus dem Auto, bevor Sie einen kurzen Spaziergang wagen.\n\nDer Abend endet im Skulpturenmuseum. Parkplätze direkt am Eingang minimieren die Zeit im Regen, bevor Sie die beleuchtete Stadt genießen.",
             "hu": "Kezdje az autós túrát a központban. Parkoljon a Fő tér közelében, és használja ki a rövid sétákat. San Salvador védelmet nyújt.\n\nDélben hajtson a laktanyákhoz. Az autó a száraz bázisa marad a történelmi látnivalók felfedezése közben.\n\nDélután irány a Polvoranca park. Élvezze a tó látványát kényelmesen az autóból, mielőtt egy rövid, esernyős sétára indulna.\n\nAz este a Szobormúzeumnál zárul. A közvetlen parkolóhelyek segítenek minimalizálni az esőben töltött időt a városnézés végén.",
             "ro": "Începeți turul cu mașina în centru. Parcați lângă Piața Mare pentru a avea distanțe scurte de mers. San Salvador vă protejează de ploaie.\n\nLa prânz conduceți spre cazărmi. Mașina rămâne refugiul dvs. uscat între punctele de interes istoric din Leganés.\n\nDupă-amiaza mergeți la Parcul Polvoranca. Admirați lacul confortabil din mașină înainte de a încerca o scurtă plimbare.\n\nSeara se încheie la Muzeul de Sculptură. Parcarea de lângă intrare minimizează timpul petrecut în ploaie înainte de a admira orașul.",
-            "en": "Start your driving tour in the city center. Park near the Main Square to keep walking distances short. San Salvador provides excellent shelter.\n\nAt midday, drive to the barracks. Your car remains a dry base while you explore the historical highlights of Leganés.\n\nIn the afternoon, head to Polvoranca Park. Enjoy the lake views from the comfort of your car before venturing out for a quick dash.\n\nFinish the evening at the Sculpture Museum. Parking right by the entrance minimizes rain exposure before enjoying the night lights."
+            "en": "Start your driving tour in the city center. Park near the Main Square to keep walking distances short. San Salvador provides excellent shelter.\n\nAt midday, drive to the barracks. Your car remains a dry base while you explore the historical highlights of Leganés.\n\nIn the afternoon, head to Polvoranca Park. Enjoy the lake views from the comfort of your car before venturing out for a quick dash.\n\nFinish the evening at the Sculpture Museum. Parking right by the entrance minimizes rain exposure before enjoying the night lights.",
+            "es": "Comienza tu ruta en coche en el centro histórico. Aparca cerca de la Plaza Mayor para reducir las distancias a pie. San Salvador ofrece un excelente refugio.\n\nAl mediodía, conduce hasta el cuartel. Tu coche sigue siendo una base seca mientras exploras los hitos históricos de Leganés.\n\nPor la tarde, dirígete al Parque Polvoranca. Disfruta de las vistas al lago desde la comodidad del vehículo antes de salir para una breve visita.\n\nTermina la noche en el Museo de Escultura. Aparcar junto a la entrada minimiza la exposición a la lluvia antes de disfrutar de las luces nocturnas."
           },
           "stops": [
             {
@@ -1589,7 +1713,8 @@
                 "de": "Parken Sie im Parkhaus Plaza Mayor, um trocken ins Zentrum zu kommen.",
                 "hu": "Használja a Plaza Mayor mélygarázst a száraz bejutáshoz.",
                 "ro": "Parcați în parcarea subterană Plaza Mayor pentru acces uscat.",
-                "en": "Use the Plaza Mayor underground parking for dry access to the center."
+                "en": "Use the Plaza Mayor underground parking for dry access to the center.",
+                "es": "Usa el parking subterráneo de la Plaza Mayor para acceder al centro sin mojarte."
               }
             },
             {
@@ -1598,7 +1723,8 @@
                 "de": "Die Cafés rund um den Platz sind ideal für eine Regenpause.",
                 "hu": "A tér körüli kávézók ideálisak egy esőszünetre.",
                 "ro": "Cafenelele din jurul pieței sunt ideale pentru o pauză de ploaie.",
-                "en": "The cafés around the square are ideal for a break from the rain."
+                "en": "The cafés around the square are ideal for a break from the rain.",
+                "es": "Las cafeterías alrededor de la plaza son ideales para refugiarse de la lluvia."
               }
             },
             {
@@ -1607,7 +1733,8 @@
                 "de": "Kurzer Fußweg vom Parkplatz; halten Sie den Schirm bereit.",
                 "hu": "Rövid séta a parkolótól; tartsa készenlétben az esernyőt.",
                 "ro": "Distanță scurtă de mers din parcare; țineți umbrela pregătită.",
-                "en": "Short walk from the parking area; keep your umbrella ready."
+                "en": "Short walk from the parking area; keep your umbrella ready.",
+                "es": "Corta caminata desde el aparcamiento; ten el paraguas a mano."
               }
             },
             {
@@ -1616,7 +1743,8 @@
                 "de": "Gute Haltemöglichkeiten in der Nähe für schnelle Fotos.",
                 "hu": "Jó megállási lehetőség a közelben a gyors fotókhoz.",
                 "ro": "Opțiuni bune de parcare scurtă în apropiere pentru fotografii.",
-                "en": "Good short-stay parking nearby for quick photos."
+                "en": "Good short-stay parking nearby for quick photos.",
+                "es": "Buen aparcamiento de corta estancia cerca para fotos rápidas."
               }
             },
             {
@@ -1625,7 +1753,8 @@
                 "de": "Der Parkplatz Polvoranca bietet einen guten Blick auf das Gelände.",
                 "hu": "A Polvoranca parkolója jó rálátást biztosít a területre.",
                 "ro": "Parcarea Polvoranca oferă o vedere bună asupra parcului.",
-                "en": "Polvoranca's parking lot offers a good overview of the area."
+                "en": "Polvoranca's parking lot offers a good overview of the area.",
+                "es": "El aparcamiento de Polvoranca ofrece una buena vista general de la zona."
               }
             },
             {
@@ -1634,7 +1763,8 @@
                 "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie das Panorama.",
                 "hu": "Heves esőben maradjon a kocsiban, és élvezze a panorámát.",
                 "ro": "Rămâneți în mașină pe ploaie torențială și admirați peisajul.",
-                "en": "Stay in the car during heavy rain and enjoy the lakeside views."
+                "en": "Stay in the car during heavy rain and enjoy the lakeside views.",
+                "es": "Permanece en el coche durante lluvias intensas y disfruta de las vistas al lago."
               }
             },
             {
@@ -1643,7 +1773,8 @@
                 "de": "Nutzen Sie den Parkplatz direkt am Museumseingang.",
                 "hu": "Használja közvetlenül a múzeumi bejáratnál lévő parkolót.",
                 "ro": "Folosiți parcarea aflată chiar la intrarea în muzeu.",
-                "en": "Use the parking lot located right at the museum entrance."
+                "en": "Use the parking lot located right at the museum entrance.",
+                "es": "Utiliza el aparcamiento situado justo en la entrada del museo."
               }
             }
           ],
@@ -1671,6 +1802,12 @@
               "Central parking garages (like Plaza Mayor) keep your car dry.",
               "Check your windshield wipers before starting the journey.",
               "Visibility might decrease due to fogged windows; use the AC to defog."
+            ],
+            "es": [
+              "Cuidado con el aquaplaning en la carretera M-406 durante lluvias fuertes.",
+              "Los parkings cubiertos (como Plaza Mayor) mantienen tu coche seco.",
+              "Revisa los limpiaparabrisas antes de iniciar el trayecto.",
+              "La visibilidad puede disminuir por ventanas empañadas; usa el clima para desempañar."
             ]
           }
         },
@@ -1679,7 +1816,8 @@
             "de": "Starten Sie Ihre Wintertour bequem im beheizten Wagen. Die Plaza Mayor ist am Morgen belebt, und San Salvador bietet einen warmen, kulturellen Rückzugsort.\n\nMittags führt die Fahrt zum Polvoranca-Park. Die Wintersonne lässt den See glitzern, während Sie im Auto vor dem Wind geschützt sind.\n\nDer Nachmittag im Skulpturenmuseum ist bei klarem Winterlicht besonders reizvoll. Besuchen Sie es früh, da es nach 17:30 Uhr dunkel wird.\n\nDen Abend genießen Sie in der beleuchteten Innenstadt. Kurze Wege vom Parkplatz zum Egaleo-Theater machen den Besuch auch bei klirrender Kälte angenehm.",
             "hu": "Indítsa téli túráját kényelmesen a fűtött autóban. A Fő tér reggel élettel teli, a San Salvador templom pedig meleg kulturális menedéket nyújt.\n\nDélben a Polvoranca park felé vezet az út. A téli napsütés megcsillan a tavon, miközben Ön az autóban védve van a széltől.\n\nA délután a Szobormúzeumnál a tiszta téli fények miatt különleges. Érkezzen korán, mert 17:30 után már sötétedik.\n\nAz estét a kivilágított belvárosban élvezheti. A parkolótól az Egaleo Színházig tartó rövid séta még fagyos időben is kellemes.",
             "ro": "Începeți turul de iarnă confortabil în mașina încălzită. Piața Mare este animată dimineața, iar San Salvador oferă un refugiu cultural cald.\n\nLa prânz, drumul vă duce spre Parcul Polvoranca. Soarele de iarnă face lacul să sclipească, în timp ce sunteți protejați de vânt în mașină.\n\nDupă-amiaza la Muzeul de Sculptură este specială datorită luminii clare de iarnă. Vizitați-l devreme, se întunecă după 17:30.\n\nBucurați-vă de seară în centrul iluminat. Distanțele scurte de la parcare la Teatrul Egaleo fac vizita plăcută chiar și pe ger.",
-            "en": "Start your winter tour comfortably in your heated car. The Main Square is lively in the morning, and San Salvador Church offers a warm cultural retreat.\n\nAt midday, drive to Polvoranca Park. The winter sun makes the lake sparkle while you stay shielded from the wind inside your vehicle.\n\nAfternoon at the Sculpture Museum is striking in the clear winter light. Visit early, as it gets dark quickly after 5:30 PM.\n\nEnjoy the evening in the brightly lit city center. Short walks from parking to the Egaleo Theatre make the visit pleasant even in the cold."
+            "en": "Start your winter tour comfortably in your heated car. The Main Square is lively in the morning, and San Salvador Church offers a warm cultural retreat.\n\nAt midday, drive to Polvoranca Park. The winter sun makes the lake sparkle while you stay shielded from the wind inside your vehicle.\n\nAfternoon at the Sculpture Museum is striking in the clear winter light. Visit early, as it gets dark quickly after 5:30 PM.\n\nEnjoy the evening in the brightly lit city center. Short walks from parking to the Egaleo Theatre make the visit pleasant even in the cold.",
+            "es": "Comienza tu ruta de invierno cómodamente en tu coche con calefacción. La Plaza Mayor está animada por la mañana, y la Iglesia de San Salvador ofrece un cálido refugio cultural.\n\nAl mediodía, conduce al Parque Polvoranca. El sol invernal hace brillar el lago mientras te proteges del viento dentro del vehículo.\n\nLa tarde en el Museo de Escultura es impactante con la luz clara de invierno. Visítalo temprano, ya que oscurece rápido después de las 17:30.\n\nDisfruta de la noche en el centro iluminado. Las cortas caminatas desde el aparcamiento hasta el Teatro Egaleo hacen la visita agradable incluso con frío."
           },
           "stops": [
             {
@@ -1688,7 +1826,8 @@
                 "de": "Das Auto heizt sich auf der Fahrt zwischen den Stopps schnell auf.",
                 "hu": "Az autó gyorsan bemelegszik a megállók közötti rövid utakon.",
                 "ro": "Mașina se încălzește rapid între opririle scurte din centru.",
-                "en": "The car will warm up quickly during the short drives between stops."
+                "en": "The car will warm up quickly during the short drives between stops.",
+                "es": "El coche se calienta rápido durante los cortos desplazamientos entre paradas."
               }
             },
             {
@@ -1697,7 +1836,8 @@
                 "de": "Genießen Sie den Anblick der Weihnachtsbeleuchtung (Saisonal).",
                 "hu": "Élvezze a karácsonyi fények látványát (szezonális).",
                 "ro": "Bucurați-vă de luminile de Crăciun (dacă este sezonul).",
-                "en": "Enjoy the sight of the holiday lights if visiting during the season."
+                "en": "Enjoy the sight of the holiday lights if visiting during the season.",
+                "es": "Disfruta de las luces festivas si visitas en temporada."
               }
             },
             {
@@ -1706,7 +1846,8 @@
                 "de": "Bewundern Sie die Architektur, bevor Sie zurück ins warme Auto huschen.",
                 "hu": "Csodálja meg az építészetet, mielőtt visszasietne a meleg autóba.",
                 "ro": "Admirați arhitectura înainte de a vă întoarce rapid la mașină.",
-                "en": "Admire the architecture before heading back to the warm car."
+                "en": "Admire the architecture before heading back to the warm car.",
+                "es": "Admira la arquitectura antes de volver al cálido coche."
               }
             },
             {
@@ -1715,7 +1856,8 @@
                 "de": "Ein schöner Fotostopp im weichen Licht der Wintersonne.",
                 "hu": "Szép fotómegálló a téli nap lágy fényeiben.",
                 "ro": "O oprire foto frumoasă în lumina blândă a soarelui de iarnă.",
-                "en": "A beautiful photo stop in the soft winter afternoon light."
+                "en": "A beautiful photo stop in the soft winter afternoon light.",
+                "es": "Una bonita parada para fotos con la suave luz de la tarde invernal."
               }
             },
             {
@@ -1724,7 +1866,8 @@
                 "de": "Parken Sie windgeschützt hinter den Gebäuden am Polvoranca-See.",
                 "hu": "Parkoljon szélvédett helyen az épületek mögött a Polvoranca-tónál.",
                 "ro": "Parcați ferit de vânt în spatele clădirilor de lângă lac.",
-                "en": "Park in a spot sheltered from the wind near the Polvoranca lake."
+                "en": "Park in a spot sheltered from the wind near the Polvoranca lake.",
+                "es": "Aparca en un lugar resguardado del viento cerca del lago de Polvoranca."
               }
             },
             {
@@ -1733,7 +1876,8 @@
                 "de": "Ein warmer Kaffee im Auto wertet das Panorama auf.",
                 "hu": "Egy meleg kávé az autóban ülve még szebbé teszi a panorámát.",
                 "ro": "O cafea caldă în mașină face panorama și mai plăcută.",
-                "en": "A warm coffee while sitting in the car enhances the lakeside view."
+                "en": "A warm coffee while sitting in the car enhances the lakeside view.",
+                "es": "Un café caliente dentro del coche realza la vista al lago."
               }
             },
             {
@@ -1742,7 +1886,8 @@
                 "de": "Achten Sie auf die Öffnungszeiten im Winter (oft kürzer).",
                 "hu": "Ügyeljen a téli nyitvatartásra (gyakran rövidebb).",
                 "ro": "Atenție la programul de iarnă (adesea mai scurt).",
-                "en": "Check the winter opening hours as they are often shorter."
+                "en": "Check the winter opening hours as they are often shorter.",
+                "es": "Consulta los horarios de apertura invernales porque suelen ser más cortos."
               }
             }
           ],
@@ -1770,6 +1915,12 @@
               "Roads can be icy in some spots during the early morning hours.",
               "Avoid idling the engine for too long just to warm up the car.",
               "Use seat heaters for quick comfort after returning from outdoor stops."
+            ],
+            "es": [
+              "Revisa el nivel de anticongelante del líquido del limpiaparabrisas.",
+              "Las carreteras pueden helarse en algunos tramos durante las primeras horas de la mañana.",
+              "Evita tener el motor en marcha demasiado tiempo solo para calentar el coche.",
+              "Usa los asientos calefactables para sentir confort rápido tras las paradas al aire libre."
             ]
           }
         }
@@ -1788,7 +1939,8 @@
             "de": "Cluster A: Zentral-Leganés",
             "hu": "A klaszter: Leganés központ",
             "ro": "Cluster A: Centrul Leganés",
-            "en": "Cluster A: Central Leganés"
+            "en": "Cluster A: Central Leganés",
+            "es": "Conjunto A: Leganés Central"
           },
           "coords": [
             -3.7645,
@@ -1804,7 +1956,8 @@
             "de": "Nehmen Sie die Cercanías-Bahn oder Metro bis zur Station Leganés Central.",
             "hu": "Utazzon a Cercanías vonattal vagy metróval a Leganés Central állomásig.",
             "ro": "Luați trenul Cercanías sau metroul până la stația Leganés Central.",
-            "en": "Take the Cercanías train or Metro to Leganés Central station."
+            "en": "Take the Cercanías train or Metro to Leganés Central station.",
+            "es": "Toma el Cercanías o el Metro hasta la estación Leganés Central."
           }
         },
         {
@@ -1812,7 +1965,8 @@
             "de": "Plaza Mayor",
             "hu": "Főtér",
             "ro": "Plaza Mayor",
-            "en": "Main Square"
+            "en": "Main Square",
+            "es": "Plaza Mayor"
           },
           "coords": [
             -3.7645,
@@ -1828,7 +1982,8 @@
             "de": "Ein kurzer Spaziergang von der Station, um Ihren Tag zu beginnen.",
             "hu": "Egy rövid séta az állomástól a nap megkezdéséhez.",
             "ro": "O scurtă plimbare de la stație pentru a vă începe ziua.",
-            "en": "A short walk from the station to start your day."
+            "en": "A short walk from the station to start your day.",
+            "es": "A poca distancia de la estación para comenzar el día."
           }
         },
         {
@@ -1836,7 +1991,8 @@
             "de": "Kirche San Salvador",
             "hu": "San Salvador templom",
             "ro": "Biserica San Salvador",
-            "en": "Church of San Salvador"
+            "en": "Church of San Salvador",
+            "es": "Iglesia de San Salvador"
           },
           "coords": [
             -3.764,
@@ -1852,7 +2008,8 @@
             "de": "Das historische Zentrum lässt sich am besten zu Fuß erkunden.",
             "hu": "A történelmi központot a legjobb gyalog felfedezni.",
             "ro": "Centrul istoric este cel mai bine explorat pe jos.",
-            "en": "The historic center is best explored on foot."
+            "en": "The historic center is best explored on foot.",
+            "es": "El centro histórico se explora mejor a pie."
           }
         },
         {
@@ -1860,7 +2017,8 @@
             "de": "Cluster B: Kulturbezirk",
             "hu": "B klaszter: Kulturális negyed",
             "ro": "Cluster B: Districtul Cultural",
-            "en": "Cluster B: Cultural District"
+            "en": "Cluster B: Cultural District",
+            "es": "Conjunto B: Distrito Cultural"
           },
           "coords": [
             -3.769,
@@ -1876,7 +2034,8 @@
             "de": "Nehmen Sie einen lokalen Bus in Richtung des Universitätsgeländes.",
             "hu": "Vegyen egy helyi buszt az egyetemi kampusz irányába.",
             "ro": "Luați un autobuz local spre campusul universitar.",
-            "en": "Take a local bus towards the university campus area."
+            "en": "Take a local bus towards the university campus area.",
+            "es": "Toma un autobús local hacia la zona del campus universitario."
           }
         },
         {
@@ -1884,7 +2043,8 @@
             "de": "Skulpturenmuseum von Leganés",
             "hu": "Leganési Szobormúzeum",
             "ro": "Muzeul de Sculptură din Leganés",
-            "en": "Sculpture Museum of Leganés"
+            "en": "Sculpture Museum of Leganés",
+            "es": "Museo de Escultura de Leganés"
           },
           "coords": [
             -3.769,
@@ -1900,7 +2060,8 @@
             "de": "Genießen Sie die Kunst im Freien.",
             "hu": "Élvezze a szabadtéri művészetet.",
             "ro": "Bucurați-vă de arta în aer liber.",
-            "en": "Enjoy the art in the open air."
+            "en": "Enjoy the art in the open air.",
+            "es": "Disfruta del arte al aire libre."
           }
         },
         {
@@ -1908,7 +2069,8 @@
             "de": "Teatro Egaleo",
             "hu": "Egaleo Színház",
             "ro": "Teatrul Egaleo",
-            "en": "Egaleo Theatre"
+            "en": "Egaleo Theatre",
+            "es": "Teatro Egaleo"
           },
           "coords": [
             -3.7662,
@@ -1924,7 +2086,8 @@
             "de": "Ein kurzer Spaziergang vom Museum, um die einzigartige Architektur zu sehen.",
             "hu": "Egy rövid séta a múzeumtól, hogy megnézze az egyedi építészetet.",
             "ro": "O scurtă plimbare de la muzeu pentru a vedea arhitectura unică.",
-            "en": "A short walk from the museum to see the unique architecture."
+            "en": "A short walk from the museum to see the unique architecture.",
+            "es": "A poca distancia del museo para ver la arquitectura única."
           }
         },
         {
@@ -1932,7 +2095,8 @@
             "de": "Cluster C: Grüne Lunge",
             "hu": "C klaszter: Zöld tüdő",
             "ro": "Clusterul C: Plămânul Verde",
-            "en": "Cluster C: Green Lung"
+            "en": "Cluster C: Green Lung",
+            "es": "Conjunto C: Pulmón Verde"
           },
           "coords": [
             -3.795,
@@ -1948,7 +2112,8 @@
             "de": "Eine Busfahrt bringt Sie zum weitläufigen Polvoranca-Park für den Nachmittag.",
             "hu": "Egy buszozás elviszi a tágas Polvoranca Parkba délutánra.",
             "ro": "O călătorie cu autobuzul vă duce la vastul Parc Polvoranca pentru după-amiază.",
-            "en": "A bus ride will take you to the expansive Polvoranca Park for the afternoon."
+            "en": "A bus ride will take you to the expansive Polvoranca Park for the afternoon.",
+            "es": "Un autobús te llevará al extenso Parque Polvoranca para la tarde."
           }
         }
       ],
@@ -1956,7 +2121,8 @@
         "de": "Ihr Tag mit öffentlichen Verkehrsmitteln startet im Herzen von Leganés, leicht erreichbar mit der Bahn. Nach einem Spaziergang durch den historischen Kern bringt Sie ein Bus zum Kultur-Cluster, wo das Skulpturenmuseum auf Sie wartet. Erkunden Sie diesen Bereich zu Fuß, bevor Sie am Nachmittag mit dem Bus in die grüne Oase des Polvoranca-Parks fahren. Dort können Sie entspannen, spazieren gehen und die Natur genießen, bevor Sie die Rückreise antreten.",
         "hu": "Tömegközlekedéssel töltött napja Leganés szívében kezdődik, amely vonattal könnyen megközelíthető. A történelmi központban tett séta után egy busz viszi a kulturális negyedbe, ahol a Szobormúzeum várja. Fedezze fel ezt a területet gyalog, mielőtt délután busszal a Polvoranca Park zöld oázisába utazik. Ott pihenhet, sétálhat és élvezheti a természetet, mielőtt visszaindulna.",
         "ro": "Ziua dvs. cu transportul public începe în inima orașului Leganés, ușor accesibil cu trenul. După o plimbare prin centrul istoric, un autobuz vă duce la clusterul cultural, unde vă așteaptă Muzeul de Sculptură. Explorați această zonă pe jos înainte de a lua autobuzul spre oaza verde a Parcului Polvoranca după-amiaza. Acolo vă puteți relaxa, plimba și bucura de natură înainte de a vă întoarce.",
-        "en": "Your day using public transport starts in the heart of Leganés, easily reached by train. After a walk through the historic core, a bus takes you to the cultural cluster, where the Sculpture Museum awaits. Explore this area on foot before taking a bus to the green oasis of Polvoranca Park in the afternoon. There you can relax, walk, and enjoy nature before heading back."
+        "en": "Your day using public transport starts in the heart of Leganés, easily reached by train. After a walk through the historic core, a bus takes you to the cultural cluster, where the Sculpture Museum awaits. Explore this area on foot before taking a bus to the green oasis of Polvoranca Park in the afternoon. There you can relax, walk, and enjoy nature before heading back.",
+        "es": "Tu día en transporte público comienza en el corazón de Leganés, de fácil acceso en tren. Tras un paseo por el casco histórico, un autobús te lleva al conjunto cultural, donde espera el Museo de Escultura. Explora esa zona a pie antes de coger un autobús al oasis verde del Parque Polvoranca por la tarde. Allí puedes relajarte, pasear y disfrutar de la naturaleza antes de volver."
       },
       "gastro_picks": {
         "de": [
@@ -2152,6 +2318,12 @@
           "Check bus schedules in advance, especially for the return trip from the park.",
           "Be aware of your belongings at busy stations.",
           "Have the Google Maps app ready to track bus routes in real time."
+        ],
+        "es": [
+          "Compra un bono de día o un billete multiviaje para ahorrar dinero.",
+          "Consulta los horarios de los autobuses con antelación, sobre todo para la vuelta desde el parque.",
+          "Mantén tus pertenencias controladas en estaciones concurridas.",
+          "Ten la app de Google Maps lista para seguir las rutas de autobús en tiempo real."
         ]
       },
       "variants": {
@@ -2160,7 +2332,8 @@
             "de": "Nutzen Sie die Metrosur (Linie 12), um trocken durch Leganés zu kommen. Die Plaza Mayor ist nur einen kurzen Fußweg von der Station Leganés Central entfernt.\n\nMittags bietet die Metro schnellen Schutz auf dem Weg zum Skulpturenmuseum. Die Stationen sind hell und bieten Schutz vor dem Regen.\n\nNachmittags bringt Sie der Bus näher zum Polvoranca-Park. Achten Sie auf den Fahrplan, um die Wartezeit im Freien zu minimieren.\n\nAbends kehren Sie mit dem Transit ins Zentrum zurück. Das Egaleo-Theater ist gut angebunden, sodass Sie fast direkt vor der Tür im Trockenen aussteigen können.",
             "hu": "Használja a Metrosur-t (12-es vonal), hogy szárazon közlekedjen Leganésben. A Fő tér csak egy rövid séta a Leganés Central állomástól.\n\nDélben a metró gyors menedéket nyújt a Szobormúzeum felé menet. Az állomások világosak és védenek a zuhitól.\n\nDélután a busz közelebb visz a Polvoranca parkhoz. Figyelje a menetrendet, hogy minimálisra csökkentse a kinti várakozást.\n\nEste térjen vissza tömegközlekedéssel a központba. Az Egaleo Színház jól megközelíthető, szinte a kapuban szállhat ki a szárazba.",
             "ro": "Utilizați Metrosur (Linia 12) pentru a călători uscat prin Leganés. Piața Mare este la mică distanță de stația Leganés Central.\n\nLa prânz, metroul oferă un adăpost rapid în drum spre Muzeul de Sculptură. Stațiile sunt luminoase și vă feresc de ploaie.\n\nDupă-amiaza, autobuzul vă apropie de Parcul Polvoranca. Urmăriți orarul pentru a minimiza așteptarea în ploaie.\n\nSeara reveniți cu transportul public în centru. Teatrul Egaleo este bine conectat, permițându-vă să coborâți aproape de intrare.",
-            "en": "Use the Metrosur (Line 12) to stay dry while moving around Leganés. The Main Square is just a short walk from Leganés Central station.\n\nAt midday, the metro provides a quick escape from the rain on your way to the Sculpture Museum. Stations are well-lit and dry.\n\nIn the afternoon, local buses bring you closer to Polvoranca Park. Check the live schedule to minimize waiting time outdoors.\n\nReturn to the center by transit in the evening. The Egaleo Theatre is well-connected, letting you disembark very close to the dry entrance."
+            "en": "Use the Metrosur (Line 12) to stay dry while moving around Leganés. The Main Square is just a short walk from Leganés Central station.\n\nAt midday, the metro provides a quick escape from the rain on your way to the Sculpture Museum. Stations are well-lit and dry.\n\nIn the afternoon, local buses bring you closer to Polvoranca Park. Check the live schedule to minimize waiting time outdoors.\n\nReturn to the center by transit in the evening. The Egaleo Theatre is well-connected, letting you disembark very close to the dry entrance.",
+            "es": "Utiliza el Metrosur (Línea 12) para moverte seco por Leganés. La Plaza Mayor está a un corto paseo desde la estación de Leganés Central.\n\nA mediodía, el metro es una salida rápida de la lluvia camino del Museo de Escultura. Las estaciones están bien iluminadas y secas.\n\nPor la tarde, los autobuses locales te acercan al Parque Polvoranca. Consulta el horario en directo para minimizar el tiempo de espera a la intemperie.\n\nVuelve al centro en transporte por la noche. El Teatro Egaleo está bien comunicado, lo que te permite bajarte muy cerca de la entrada cubierta."
           },
           "stops": [
             {
@@ -2169,7 +2342,8 @@
                 "de": "Leganés Central ist der ideale Knotenpunkt bei Regen.",
                 "hu": "Leganés Central a legjobb csomópont eső esetén.",
                 "ro": "Leganés Central este nodul ideal de transport pe ploaie.",
-                "en": "Leganés Central is the ideal transit hub for rainy days."
+                "en": "Leganés Central is the ideal transit hub for rainy days.",
+                "es": "Leganés Central es el hub de transporte ideal para los días de lluvia."
               }
             },
             {
@@ -2178,7 +2352,8 @@
                 "de": "Kurzer Sprint von der U-Bahn-Station zur Plaza Mayor.",
                 "hu": "Rövid futás a metrómegállótól a Fő térig.",
                 "ro": "Scurtă alergare de la gura de metrou până în piață.",
-                "en": "A quick dash from the metro exit to the Main Square."
+                "en": "A quick dash from the metro exit to the Main Square.",
+                "es": "Una rápida carrera desde la salida del metro hasta la Plaza Mayor."
               }
             },
             {
@@ -2187,7 +2362,8 @@
                 "de": "Vom Bahnhof Casa del Reloj aus fast komplett im Trockenen erreichbar.",
                 "hu": "A Casa del Reloj megállótól szinte végig fedett úton elérhető.",
                 "ro": "Accesibil aproape complet la adăpost de la stația Casa del Reloj.",
-                "en": "Accessible almost entirely under cover from Casa del Reloj station."
+                "en": "Accessible almost entirely under cover from Casa del Reloj station.",
+                "es": "Accesible casi por completo bajo cubierta desde la estación Casa del Reloj."
               }
             },
             {
@@ -2196,7 +2372,8 @@
                 "de": "Nutzen Sie die Metro-Station El Carrascal für diesen Bereich.",
                 "hu": "Használja az El Carrascal metróállomást ehhez a környékhez.",
                 "ro": "Folosiți stația de metrou El Carrascal pentru această zonă.",
-                "en": "Use the El Carrascal metro station to access this district."
+                "en": "Use the El Carrascal metro station to access this district.",
+                "es": "Utiliza la estación de metro El Carrascal para acceder a este distrito."
               }
             },
             {
@@ -2205,7 +2382,8 @@
                 "de": "Die Bushaltestellen in der Nähe haben meist Unterstände.",
                 "hu": "A közeli buszmegállók többsége fedett.",
                 "ro": "Majoritatea stațiilor de autobuz din apropiere au copertine.",
-                "en": "Most bus stops in the vicinity have shelters to keep you dry."
+                "en": "Most bus stops in the vicinity have shelters to keep you dry.",
+                "es": "La mayoría de las paradas de autobús de la zona tienen marquesinas para mantenerte seco."
               }
             },
             {
@@ -2214,7 +2392,8 @@
                 "de": "Direkt an der Metro-Linie 12 (Station San Nicasio) gelegen.",
                 "hu": "Közvetlenül a 12-es metró (San Nicasio állomás) mellett található.",
                 "ro": "Situat chiar lângă Linia 12 de metrou (stația San Nicasio).",
-                "en": "Located right next to Metro Line 12 (San Nicasio station)."
+                "en": "Located right next to Metro Line 12 (San Nicasio station).",
+                "es": "Situado justo junto a la Línea 12 de Metro (estación San Nicasio)."
               }
             },
             {
@@ -2223,7 +2402,8 @@
                 "de": "Der Cercanías-Bahnhof Parque Polvoranca bietet guten Schutz.",
                 "hu": "A Parque Polvoranca hév-állomás (Cercanías) jó menedék.",
                 "ro": "Stația de tren Cercanías Parque Polvoranca oferă adăpost bun.",
-                "en": "The Parque Polvoranca train station offers good shelter."
+                "en": "The Parque Polvoranca train station offers good shelter.",
+                "es": "La estación de tren Parque Polvoranca ofrece buena protección contra la lluvia."
               }
             }
           ],
@@ -2251,6 +2431,12 @@
               "Use the 'Consorcio Transportes Madrid' app for real-time arrival info.",
               "Avoid buses during rush hour as they get very crowded when it rains.",
               "Carry a compact umbrella for the segments between stations."
+            ],
+            "es": [
+              "El metro (Metrosur) es tu opción más fiable en días de lluvia.",
+              "Usa la app 'Consorcio Transportes Madrid' para información de llegadas en tiempo real.",
+              "Evita los autobuses en hora punta, ya que se llenan mucho cuando llueve.",
+              "Lleva un paraguas compacto para los tramos entre estaciones."
             ]
           }
         },
@@ -2259,7 +2445,8 @@
             "de": "Ein klarer Wintermorgen beginnt mit einer Fahrt in der warmen Metro zur Plaza Mayor. Die Station Leganés Central ist ein guter Ausgangspunkt.\n\nMittags nutzen Sie den Transit, um zum Polvoranca-Park zu gelangen. Die Züge der Cercanías sind beheizt und bieten einen tollen Blick auf die Landschaft.\n\nDer Nachmittag im Skulpturenmuseum profitiert vom klaren Licht. Mit dem Bus kommen Sie schnell zurück in die Stadt, bevor es nach 17:30 Uhr dunkel wird.\n\nAbends bietet die Metro-Station San Nicasio direkten Zugang zum Egaleo-Theater. So minimieren Sie die Zeit in der kalten Abendluft der Meseta.",
             "hu": "A tiszta téli reggel a meleg metróban indul a Fő tér felé. A Leganés Central állomás kiváló kiindulópont.\n\nDélben használja a tömegközlekedést a Polvoranca parkhoz. A Cercanías vonatok fűtöttek, és szép kilátást nyújtanak a tájra.\n\nA délután a Szobormúzeumnál a tiszta fények miatt remek. Busszal gyorsan visszaér a városba, mielőtt 17:30 után besötétedne.\n\nEste a San Nicasio metróállomás közvetlen elérést biztosít az Egaleo Színházhoz. Így minimális időt kell a Meseta hideg esti levegőjén töltenie.",
             "ro": "O dimineață senină de iarnă începe cu o călătorie în metroul cald spre Piața Mare. Stația Leganés Central este un punct de plecare excelent.\n\nLa prânz, folosiți transportul public pentru a ajunge la Parcul Polvoranca. Trenurile Cercanías sunt încălzite și oferă o vedere frumoasă.\n\nDupă-amiaza la Muzeul de Sculptură este ideală datorită luminii clare. Cu autobuzul reveniți rapid în oraș înainte de apusul de la ora 17:30.\n\nSeara, stația de metrou San Nicasio oferă acces direct la Teatrul Egaleo, minimizând timpul petrecut în aerul rece de pe podiș.",
-            "en": "A clear winter morning begins with a warm metro ride towards the Main Square. Leganés Central station is your perfect starting point.\n\nAt midday, use the transit system to reach Polvoranca Park. Cercanías trains are heated and offer great views of the winter landscape.\n\nAfternoon at the Sculpture Museum is wonderful in the sharp light. Take a bus back to the center before the sun sets around 5:30 PM.\n\nIn the evening, San Nicasio metro station provides direct access to the Egaleo Theatre, keeping your time in the cold night air to a minimum."
+            "en": "A clear winter morning begins with a warm metro ride towards the Main Square. Leganés Central station is your perfect starting point.\n\nAt midday, use the transit system to reach Polvoranca Park. Cercanías trains are heated and offer great views of the winter landscape.\n\nAfternoon at the Sculpture Museum is wonderful in the sharp light. Take a bus back to the center before the sun sets around 5:30 PM.\n\nIn the evening, San Nicasio metro station provides direct access to the Egaleo Theatre, keeping your time in the cold night air to a minimum.",
+            "es": "Una fresca mañana de invierno empieza con un cálido viaje en metro hacia la Plaza Mayor. La estación de Leganés Central es tu punto de partida perfecto.\n\nA mediodía, utiliza el transporte para llegar al Parque Polvoranca. Los trenes de Cercanías están calefactados y ofrecen buenas vistas del paisaje invernal.\n\nLa tarde en el Museo de Escultura es maravillosa con la luz nítida. Toma un autobús de regreso al centro antes de que el sol se ponga alrededor de las 17:30.\n\nPor la noche, la estación de metro San Nicasio ofrece acceso directo al Teatro Egaleo, reduciendo al mínimo tu tiempo en el frío nocturno."
           },
           "stops": [
             {
@@ -2268,7 +2455,8 @@
                 "de": "Der Bahnhof ist gut beheizt und ein idealer Treffpunkt.",
                 "hu": "Az állomás jól fűtött, ideális találkozópont télen.",
                 "ro": "Gara este bine încălzită și un punct de întâlnire ideal.",
-                "en": "The station is well-heated and serves as an ideal meeting point."
+                "en": "The station is well-heated and serves as an ideal meeting point.",
+                "es": "La estación está bien calefactada y sirve como punto de encuentro ideal."
               }
             },
             {
@@ -2277,7 +2465,8 @@
                 "de": "Nutzen Sie die Ausgänge der Metro, um so lange wie möglich im Warmen zu bleiben.",
                 "hu": "Használja a metrókijáratokat, hogy ameddig lehet, bent maradjon a melegben.",
                 "ro": "Folosiți ieșirile de metrou pentru a rămâne la căldură cât mai mult.",
-                "en": "Use the metro exits strategically to stay indoors as long as possible."
+                "en": "Use the metro exits strategically to stay indoors as long as possible.",
+                "es": "Usa las salidas del metro estratégicamente para permanecer en interiores el mayor tiempo posible."
               }
             },
             {
@@ -2286,7 +2475,8 @@
                 "de": "Kurze Transitwege halten die Kälteeinwirkung gering.",
                 "hu": "A rövid tömegközlekedési útvonalak csökkentik a hidegben töltött időt.",
                 "ro": "Traseele scurte cu transportul public reduc expunerea la frig.",
-                "en": "Short transit routes help minimize your time out in the cold air."
+                "en": "Short transit routes help minimize your time out in the cold air.",
+                "es": "Los trayectos cortos en transporte ayudan a minimizar el tiempo fuera en el aire frío."
               }
             },
             {
@@ -2295,7 +2485,8 @@
                 "de": "Die Metro-Stationen sind im Winter angenehm warm.",
                 "hu": "A metróállomások télen kellemesen melegek.",
                 "ro": "Stațiile de metrou sunt plăcut de calde în timpul iernii.",
-                "en": "The metro stations provide a pleasant warmth during the winter."
+                "en": "The metro stations provide a pleasant warmth during the winter.",
+                "es": "Las estaciones de metro ofrecen una agradable calidez durante el invierno."
               }
             },
             {
@@ -2304,7 +2495,8 @@
                 "de": "Busse fahren hier regelmäßig und bringen Sie schnell ins Zentrum.",
                 "hu": "A buszok rendszeresen járnak, és gyorsan a központba visznek.",
                 "ro": "Autobuzele circulă regulat și vă duc rapid în centru.",
-                "en": "Buses run regularly here and will take you back to the center quickly."
+                "en": "Buses run regularly here and will take you back to the center quickly.",
+                "es": "Los autobuses circulan con regularidad aquí y te devolverán al centro rápidamente."
               }
             },
             {
@@ -2313,7 +2505,8 @@
                 "de": "Nur wenige Schritte von der Metro San Nicasio entfernt.",
                 "hu": "Csak pár lépésre van a San Nicasio metróállomástól.",
                 "ro": "La doar câțiva pași de stația de metrou San Nicasio.",
-                "en": "Located just a few steps from the San Nicasio metro station."
+                "en": "Located just a few steps from the San Nicasio metro station.",
+                "es": "Situado a pocos pasos de la estación de metro San Nicasio."
               }
             },
             {
@@ -2322,7 +2515,8 @@
                 "de": "Züge der Linie C-5 verkehren auch im Winter zuverlässig.",
                 "hu": "A C-5-ös hév vonal télen is megbízhatóan közlekedik.",
                 "ro": "Trenurile liniei C-5 circulă constant și în timpul iernii.",
-                "en": "Line C-5 trains run reliably even during the winter months."
+                "en": "Line C-5 trains run reliably even during the winter months.",
+                "es": "Los trenes de la línea C-5 circulan de forma fiable incluso en invierno."
               }
             }
           ],
@@ -2350,6 +2544,12 @@
               "Be aware of reduced transit schedules during winter holidays.",
               "Dress so you can easily unbutton your coat in the warm metro cars.",
               "The sun sets early; rely on transit for safer travel after dark."
+            ],
+            "es": [
+              "Estaciones como Leganés Central son ideales para una pausa rápida y entrar en calor.",
+              "Ten en cuenta los horarios reducidos de transporte durante las fiestas de invierno.",
+              "Vístete de forma que puedas desabrocharte el abrigo fácilmente en los cálidos vagones del metro.",
+              "El sol se pone temprano; confía en el transporte para viajar con más seguridad después del anochecer."
             ]
           }
         }

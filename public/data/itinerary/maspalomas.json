@@ -21,7 +21,8 @@
             "de": "Faro de Maspalomas",
             "hu": "Maspalomas Világítótorony",
             "ro": "Farul din Maspalomas",
-            "en": "Maspalomas Lighthouse"
+            "en": "Maspalomas Lighthouse",
+            "es": "Faro de Maspalomas"
           },
           "coords": [
             -15.6001,
@@ -36,7 +37,8 @@
             "de": "Besuchen Sie das kleine Museum im Inneren.",
             "hu": "Nézze meg a torony belsejében lévő kis múzeumot.",
             "ro": "Vizitați micul muzeu din interior.",
-            "en": "Check out the small museum inside the tower."
+            "en": "Check out the small museum inside the tower.",
+            "es": "Visita el pequeño museo dentro de la torre."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "La Charca de Maspalomas",
             "hu": "La Charca lagúna",
             "ro": "La Charca de Maspalomas",
-            "en": "La Charca Lagoon"
+            "en": "La Charca Lagoon",
+            "es": "La Charca"
           },
           "coords": [
             -15.5975,
@@ -59,7 +62,8 @@
             "de": "Bringen Sie ein Fernglas zur Vogelbeobachtung mit.",
             "hu": "Vigyen magával távcsövet a madármegfigyeléshez.",
             "ro": "Aduceți binoclul pentru observarea păsărilor.",
-            "en": "Bring binoculars for birdwatching at the lagoon."
+            "en": "Bring binoculars for birdwatching at the lagoon.",
+            "es": "Lleva prismáticos para observar aves en la laguna."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Paseo Costa Canaria",
             "hu": "Paseo Costa Canaria sétány",
             "ro": "Paseo Costa Canaria",
-            "en": "Paseo Costa Canaria"
+            "en": "Paseo Costa Canaria",
+            "es": "Paseo Costa Canaria"
           },
           "coords": [
             -15.585,
@@ -82,7 +87,8 @@
             "de": "Genießen Sie den Panoramablick auf den Ozean.",
             "hu": "Élvezze a panorámás kilátást az óceánra.",
             "ro": "Bucurați-vă de vederea panoramică asupra oceanului.",
-            "en": "Enjoy the panoramic ocean views along the cliff."
+            "en": "Enjoy the panoramic ocean views along the cliff.",
+            "es": "Disfruta de las vistas panorámicas al océano a lo largo del acantilado."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Dunas de Maspalomas",
             "hu": "Maspalomas dűnék",
             "ro": "Dunele din Maspalomas",
-            "en": "Maspalomas Dunes"
+            "en": "Maspalomas Dunes",
+            "es": "Dunas de Maspalomas"
           },
           "coords": [
             -15.58,
@@ -105,7 +112,8 @@
             "de": "Bleiben Sie auf den markierten Wegen zum Schutz der Natur.",
             "hu": "A természet védelme érdekében maradjon a kijelölt utakon.",
             "ro": "Rămâneți pe traseele marcate pentru protecția naturii.",
-            "en": "Stay on marked trails to protect the fragile ecosystem."
+            "en": "Stay on marked trails to protect the fragile ecosystem.",
+            "es": "Permanece en los senderos marcados para proteger el frágil ecosistema."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Playa de Maspalomas",
             "hu": "Maspalomas strand",
             "ro": "Plaja Maspalomas",
-            "en": "Maspalomas Beach"
+            "en": "Maspalomas Beach",
+            "es": "Playa de Maspalomas"
           },
           "coords": [
             -15.59,
@@ -128,7 +137,8 @@
             "de": "Mieten Sie eine Liege für maximalen Komfort.",
             "hu": "Béreljen nyugágyat a maximális kényelem érdekében.",
             "ro": "Închiriați un șezlong pentru confort maxim.",
-            "en": "Rent a sunbed for maximum relaxation by the shore."
+            "en": "Rent a sunbed for maximum relaxation by the shore.",
+            "es": "Alquila una hamaca para máxima relajación junto al mar."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Mirador de las Dunas",
             "hu": "Dűnék kilátó",
             "ro": "Mirador de las Dunas",
-            "en": "Dunes Viewpoint"
+            "en": "Dunes Viewpoint",
+            "es": "Mirador de las Dunas"
           },
           "coords": [
             -15.578,
@@ -151,7 +162,8 @@
             "de": "Der perfekte Ort für Fotos zum Sonnenuntergang.",
             "hu": "Tökéletes hely naplementés fotók készítéséhez.",
             "ro": "Locul perfect pentru fotografii la apus.",
-            "en": "The perfect spot for sunset photography."
+            "en": "The perfect spot for sunset photography.",
+            "es": "El lugar perfecto para fotografiar la puesta de sol."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag am majestätischen Leuchtturm, bevor Sie die ruhige Lagune La Charca erkunden. Ein Spaziergang entlang der Küstenpromenade führt Sie zu den spektakulären Wanderdünen. Nachmittags genießen Sie die Sonne am weiten Sandstrand. Den krönenden Abschluss bildet der Panoramablick vom Mirador über das goldene Dünenmeer im Abendlicht.",
         "hu": "Kezdje a napot a fenséges világítótoronynál, majd fedezze fel a La Charca lagúna nyugalmát. A tengerparti sétányon végighaladva elérheti a látványos vándorló dűnéket. Délután élvezze a napsütést a széles homokos strandon. A napot a kilátópontról nyíló panoráma koronázza meg az esti fényben úszó aranyló dűnetenger felett.",
         "ro": "Începeți ziua la farul maiestuos, apoi explorați liniștea lagunei La Charca. O plimbare pe faleza de coastă vă va duce la spectaculoasele dune mișcătoare. După-amiaza, bucurați-vă de soare pe plaja întinsă cu nisip. Ziua se încheie cu panorama de la Mirador peste marea de dune aurii în lumina serii.",
-        "en": "Start your day at the majestic lighthouse before exploring the calm waters of La Charca lagoon. A stroll along the coastal promenade leads you to the spectacular shifting dunes. Spend your afternoon soaking up the sun on the vast sandy beach. Finish with a breathtaking view from the Mirador over the golden sea of dunes at sunset."
+        "en": "Start your day at the majestic lighthouse before exploring the calm waters of La Charca lagoon. A stroll along the coastal promenade leads you to the spectacular shifting dunes. Spend your afternoon soaking up the sun on the vast sandy beach. Finish with a breathtaking view from the Mirador over the golden sea of dunes at sunset.",
+        "es": "Empieza el día en el majestuoso faro antes de explorar las aguas tranquilas de La Charca. Un paseo por el paseo costero te lleva hasta las espectaculares dunas móviles. Pasa la tarde tomando el sol en la extensa playa de arena. Termina con una vista impresionante desde el mirador sobre el mar dorado de dunas al atardecer."
       },
       "gastro_picks": {
         "de": [
@@ -295,6 +308,10 @@
         "en": [
           "Wear plenty of sunscreen as there is no shade in the dunes.",
           "Bring enough water for the walk across the sand fields."
+        ],
+        "es": [
+          "Usa abundante protector solar, no hay sombra en las dunas.",
+          "Lleva suficiente agua para la caminata por los campos de arena."
         ]
       },
       "variants": {
@@ -303,7 +320,8 @@
             "de": "Beginnen Sie Ihren Tag am majestätischen Leuchtturm, bevor Sie die ruhige Lagune La Charca erkunden. Ein Spaziergang entlang der Küstenpromenade führt Sie zu den spektakulären Wanderdünen. Nachmittags genießen Sie die Sonne am weiten Sandstrand. Den krönenden Abschluss bildet der Panoramablick vom Mirador über das goldene Dünenmeer im Abendlicht.",
             "hu": "Kezdje a napot a fenséges világítótoronynál, majd fedezze fel a La Charca lagúna nyugalmát. A tengerparti sétányon végighaladva elérheti a látványos vándorló dűnéket. Délután élvezze a napsütést a széles homokos strandon. A napot a kilátópontról nyíló panoráma koronázza meg az esti fényben úszó aranyló dűnetenger felett.",
             "ro": "Începeți ziua la farul maiestuos, apoi explorați liniștea lagunei La Charca. O plimbare pe faleza de coastă vă va duce la spectaculoasele dune mișcătoare. După-amiaza, bucurați-vă de soare pe plaja întinsă cu nisip. Ziua se încheie cu panorama de la Mirador peste marea de dune aurii în lumina serii.",
-            "en": "Start your day at the majestic lighthouse before exploring the calm waters of La Charca lagoon. A stroll along the coastal promenade leads you to the spectacular shifting dunes. Spend your afternoon soaking up the sun on the vast sandy beach. Finish with a breathtaking view from the Mirador over the golden sea of dunes at sunset."
+            "en": "Start your day at the majestic lighthouse before exploring the calm waters of La Charca lagoon. A stroll along the coastal promenade leads you to the spectacular shifting dunes. Spend your afternoon soaking up the sun on the vast sandy beach. Finish with a breathtaking view from the Mirador over the golden sea of dunes at sunset.",
+            "es": "Empieza el día en el majestuoso faro antes de explorar las aguas tranquilas de La Charca. Un paseo por el paseo costero te lleva hasta las espectaculares dunas móviles. Pasa la tarde tomando el sol en la extensa playa de arena. Termina con una vista impresionante desde el mirador sobre el mar dorado de dunas al atardecer."
           },
           "stops": [
             {
@@ -311,7 +329,8 @@
                 "de": "Faro de Maspalomas",
                 "hu": "Maspalomas Világítótorony",
                 "ro": "Farul din Maspalomas",
-                "en": "Maspalomas Lighthouse"
+                "en": "Maspalomas Lighthouse",
+                "es": "Faro de Maspalomas"
               },
               "tip_5lang": null
             },
@@ -320,7 +339,8 @@
                 "de": "La Charca de Maspalomas",
                 "hu": "La Charca lagúna",
                 "ro": "La Charca de Maspalomas",
-                "en": "La Charca Lagoon"
+                "en": "La Charca Lagoon",
+                "es": "La Charca"
               },
               "tip_5lang": null
             },
@@ -329,7 +349,8 @@
                 "de": "Paseo Costa Canaria",
                 "hu": "Paseo Costa Canaria sétány",
                 "ro": "Paseo Costa Canaria",
-                "en": "Paseo Costa Canaria"
+                "en": "Paseo Costa Canaria",
+                "es": "Paseo Costa Canaria"
               },
               "tip_5lang": null
             },
@@ -338,7 +359,8 @@
                 "de": "Dunas de Maspalomas",
                 "hu": "Maspalomas dűnék",
                 "ro": "Dunele din Maspalomas",
-                "en": "Maspalomas Dunes"
+                "en": "Maspalomas Dunes",
+                "es": "Dunas de Maspalomas"
               },
               "tip_5lang": null
             },
@@ -347,7 +369,8 @@
                 "de": "Playa de Maspalomas",
                 "hu": "Maspalomas strand",
                 "ro": "Plaja Maspalomas",
-                "en": "Maspalomas Beach"
+                "en": "Maspalomas Beach",
+                "es": "Playa de Maspalomas"
               },
               "tip_5lang": null
             },
@@ -356,7 +379,8 @@
                 "de": "Mirador de las Dunas",
                 "hu": "Dűnék kilátó",
                 "ro": "Mirador de las Dunas",
-                "en": "Dunes Viewpoint"
+                "en": "Dunes Viewpoint",
+                "es": "Mirador de las Dunas"
               },
               "tip_5lang": null
             }
@@ -495,6 +519,10 @@
             "en": [
               "Wear plenty of sunscreen as there is no shade in the dunes.",
               "Bring enough water for the walk across the sand fields."
+            ],
+            "es": [
+              "Usa abundante protector solar, ya que no hay sombra en las dunas.",
+              "Lleva suficiente agua para la caminata por las extensiones de arena."
             ]
           }
         },
@@ -503,7 +531,8 @@
             "de": "Beginnen Sie am Leuchtturm, dessen Museum Schutz vor den ersten Tropfen bietet. Ein Spaziergang entlang der Lagune wirkt im Regen mystisch und ruhig.\n\nMittags bietet die Promenade viele Cafés zum Unterstellen. Die Dünen glänzen silbern unter den Wolken, was einen seltenen Anblick bietet.\n\nNachmittags am Strand ist die Luft frisch. Nutzen Sie die überdachten Bereiche der Strandbars für eine Pause mit Meerblick.\n\nAbends bietet der Aussichtspunkt trotz Wolken eine dramatische Lichtstimmung über den feuchten Dünen von Maspalomas.",
             "hu": "Kezdje a világítótoronynál, ahol a belső kiállítás menedéket nyújt az eső elől. A lagúna partja ilyenkor csendes és misztikus hangulatot áraszt.\n\nDélben a sétány menti kávézók tökéletesek egy pihenőre. A dűnék vizes homokja sötétebb, különleges textúrát mutat az égi áldás alatt.\n\nDélután a tengerparton a sós pára és az eső illata keveredik. Keressen egy fedett teraszt a parton a hullámok megfigyeléséhez.\n\nEste a kilátópontnál a felhők közül átszűrődő fények drámai látványt nyújtanak a nedves homoktenger felett.",
             "ro": "Începeți la far, unde muzeul oferă adăpost împotriva ploii. Laguna La Charca are un aspect mistic și liniștit sub picăturile de apă.\n\nLa prânz, promenada oferă numeroase cafenele unde vă puteți adăposti. Dunele par argintii sub cerul înnorat, oferind un peisaj rar.\n\nDupă-amiaza pe plajă, aerul este proaspăt și răcoros. Folosiți zonele acoperite ale teraselor pentru a admira oceanul în siguranță.\n\nSeara, punctul de observare oferă o lumină dramatică peste dunele umede, creând un contrast vizual impresionant sub nori.",
-            "en": "Start at the lighthouse, where the interior museum provides shelter from the rain. The lagoon walk feels mystical and quiet in the drizzle.\n\nAt noon, the promenade cafes are perfect for staying dry. The dunes take on a dark, silvery sheen under the clouds, a rare sight.\n\nIn the afternoon at the beach, the air is fresh and crisp. Use the covered beach bars to enjoy the sound of the waves while staying dry.\n\nIn the evening, the viewpoint offers dramatic lighting over the wet sands as the sun sets behind the rain clouds."
+            "en": "Start at the lighthouse, where the interior museum provides shelter from the rain. The lagoon walk feels mystical and quiet in the drizzle.\n\nAt noon, the promenade cafes are perfect for staying dry. The dunes take on a dark, silvery sheen under the clouds, a rare sight.\n\nIn the afternoon at the beach, the air is fresh and crisp. Use the covered beach bars to enjoy the sound of the waves while staying dry.\n\nIn the evening, the viewpoint offers dramatic lighting over the wet sands as the sun sets behind the rain clouds.",
+            "es": "Comienza en el faro, donde el museo interior ofrece refugio de la lluvia. El paseo por la charca se siente místico y silencioso bajo la llovizna.\n\nAl mediodía, las cafeterías del paseo son perfectas para mantenerse seco. Las dunas adquieren un brillo oscuro y plateado bajo las nubes, una vista rara.\n\nPor la tarde en la playa, el aire es fresco y nítido. Usa los chiringuitos cubiertos para disfrutar del sonido de las olas mientras te mantienes seco.\n\nPor la noche, el mirador ofrece una iluminación dramática sobre las arenas húmedas mientras el sol se pone tras las nubes de lluvia."
           },
           "stops": [
             {
@@ -512,7 +541,8 @@
                 "de": "Besuchen Sie die Ausstellung im Inneren, um trocken zu bleiben.",
                 "hu": "Nézze meg a belső kiállítást, amíg eláll az eső.",
                 "ro": "Vizitați expoziția din interior pentru a rămâne uscat.",
-                "en": "Visit the interior exhibition to stay dry during showers."
+                "en": "Visit the interior exhibition to stay dry during showers.",
+                "es": "Visita la exposición interior para mantenerte seco durante los chaparrones."
               }
             },
             {
@@ -521,7 +551,8 @@
                 "de": "Die Vogelbeobachtungshütte bietet guten Schutz vor Regen.",
                 "hu": "A madármegfigyelő kunyhó jó menedék az eső elől.",
                 "ro": "Observatorul de păsări oferă un adăpost bun împotriva ploii.",
-                "en": "The bird-watching hut provides good shelter from the rain."
+                "en": "The bird-watching hut provides good shelter from the rain.",
+                "es": "La caseta de observación de aves ofrece buen refugio de la lluvia."
               }
             },
             {
@@ -530,7 +561,8 @@
                 "de": "Vorsicht, die Fliesen können bei Nässe rutschig sein.",
                 "hu": "Vigyázat, a burkolat vizesen csúszós lehet a sétányon.",
                 "ro": "Atenție, plăcile pot fi alunecoase când sunt ude.",
-                "en": "Be careful, the tiles can be slippery when wet."
+                "en": "Be careful, the tiles can be slippery when wet.",
+                "es": "Ten cuidado, las baldosas pueden estar resbaladizas cuando están mojadas."
               }
             },
             {
@@ -539,7 +571,8 @@
                 "de": "Nasser Sand ist fester und leichter zu begehen.",
                 "hu": "A vizes homok keményebb és könnyebb rajta járni.",
                 "ro": "Nisipul umed este mai compact și mai ușor de parcurs.",
-                "en": "Wet sand is firmer and much easier to walk on."
+                "en": "Wet sand is firmer and much easier to walk on.",
+                "es": "La arena mojada está más firme y es mucho más fácil de caminar."
               }
             },
             {
@@ -548,7 +581,8 @@
                 "de": "Die Kioske am Strand haben oft überdachte Sitzplätze.",
                 "hu": "A strandkioszkok gyakran rendelkeznek fedett résszel.",
                 "ro": "Kioșcurile de pe plajă au adesea locuri acoperite.",
-                "en": "Beach kiosks often have covered seating areas available."
+                "en": "Beach kiosks often have covered seating areas available.",
+                "es": "Los quioscos de la playa suelen tener zonas de asiento cubiertas."
               }
             },
             {
@@ -557,7 +591,8 @@
                 "de": "Ein Regenschirm ist wegen des Windes hier weniger ideal.",
                 "hu": "Az erős szél miatt az esernyő itt kevésbé használható.",
                 "ro": "Umbrela este mai puțin utilă aici din cauza vântului.",
-                "en": "An umbrella is less effective here due to the wind."
+                "en": "An umbrella is less effective here due to the wind.",
+                "es": "Un paraguas es menos efectivo aquí debido al viento."
               }
             }
           ],
@@ -585,6 +620,12 @@
               "A rain poncho is more practical than an umbrella in windy conditions.",
               "Seek shelter in the Faro 2 shopping center during heavy downpours.",
               "Temperatures remain mild, so a light waterproof layer is enough."
+            ],
+            "es": [
+              "Lleva calzado impermeable con buena adherencia para el paseo resbaladizo.",
+              "Un chubasquero es más práctico que un paraguas en condiciones de viento.",
+              "Busca refugio en el centro comercial Faro 2 durante los aguaceros fuertes.",
+              "Las temperaturas se mantienen suaves, así que una ligera capa impermeable es suficiente."
             ]
           }
         },
@@ -593,7 +634,8 @@
             "de": "Der Wintermorgen am Leuchtturm ist erfrischend mild. Die Sonne steht tief und taucht das Meer in ein glitzerndes Blau.\n\nMittags sind die Dünen ideal zum Wandern, da der Sand nicht brennt. Die milde Brise macht den Spaziergang an der Lagune sehr angenehm.\n\nNachmittags am Strand ist die beste Zeit für lange Wanderungen bis Playa del Inglés. Das Licht ist weich und perfekt für Fotos.\n\nAbends sollten Sie früh am Aussichtspunkt sein, da die Sonne im Winter bereits gegen 18 Uhr untergeht und die Dünen golden färbt.",
             "hu": "A téli reggel a világítótoronynál frissítően enyhe. Az alacsonyan járó nap csillogó kékbe öltözteti az óceánt.\n\nDélben a dűnék tökéletesek a túrázásra, mert a homok nem forró. A lágy szellő kellemessé teszi a lagúna körüli sétát.\n\nDélután a tengerparton ideális az idő a hosszú sétákhoz. A fények lágyak, ilyenkor készülhetnek a legjobb fotók.\n\nEste érdemes korán a kilátóhoz érni, mert télen a nap már 18 óra körül lemegy, aranyba vonva a homokbuckákat.",
             "ro": "Dimineața de iarnă la far este revigorant de blândă. Soarele jos pe cer face ca marea să strălucească într-un albastru intens.\n\nLa prânz, dunele sunt ideale pentru explorat deoarece nisipul nu frige. Briza ușoară face plimbarea pe lângă lagună foarte plăcută.\n\nDupă-amiaza pe plajă este momentul perfect pentru plimbări lungi. Lumina este caldă și ideală pentru fotografii spectaculoase.\n\nSeara, ajungeți devreme la punctul de observare, deoarece soarele apune în jur de ora 18:00 în timpul iernii.",
-            "en": "The winter morning at the lighthouse is refreshingly mild. The low sun turns the sea into a glittering blue expanse.\n\nAt noon, the dunes are perfect for hiking as the sand isn't scorching. The gentle breeze makes the lagoon walk very pleasant.\n\nIn the afternoon, the beach is ideal for long walks towards Playa del Inglés. The soft winter light is perfect for photography.\n\nIn the evening, arrive early at the viewpoint; the winter sun sets around 6 PM, painting the dunes in deep gold."
+            "en": "The winter morning at the lighthouse is refreshingly mild. The low sun turns the sea into a glittering blue expanse.\n\nAt noon, the dunes are perfect for hiking as the sand isn't scorching. The gentle breeze makes the lagoon walk very pleasant.\n\nIn the afternoon, the beach is ideal for long walks towards Playa del Inglés. The soft winter light is perfect for photography.\n\nIn the evening, arrive early at the viewpoint; the winter sun sets around 6 PM, painting the dunes in deep gold.",
+            "es": "La mañana invernal en el faro es refrescantemente templada. El sol bajo convierte el mar en una extensión azul brillante.\n\nAl mediodía, las dunas son perfectas para caminar ya que la arena no está abrasadora. La brisa suave hace muy agradable el paseo por la charca.\n\nPor la tarde, la playa es ideal para largas caminatas hacia Playa del Inglés. La luz suave del invierno es perfecta para la fotografía.\n\nPor la noche, llega temprano al mirador; el sol de invierno se pone alrededor de las 18:00, pintando las dunas de un oro intenso."
           },
           "stops": [
             {
@@ -602,7 +644,8 @@
                 "de": "Die tiefstehende Sonne bietet morgens tolles Fotolicht.",
                 "hu": "Az alacsony napállás reggel kiváló fotófényeket ad.",
                 "ro": "Soarele jos oferă o lumină excelentă pentru fotografii dimineața.",
-                "en": "The low sun provides excellent morning light for photos."
+                "en": "The low sun provides excellent morning light for photos.",
+                "es": "El sol bajo proporciona excelente luz matutina para fotos."
               }
             },
             {
@@ -611,7 +654,8 @@
                 "de": "Viele Zugvögel überwintern hier in den Wintermonaten.",
                 "hu": "Számos vándormadár telel itt a téli hónapokban.",
                 "ro": "Multe păsări migratoare iernează aici în lunile de iarnă.",
-                "en": "Many migratory birds winter here during the cooler months."
+                "en": "Many migratory birds winter here during the cooler months.",
+                "es": "Muchas aves migratorias pasan el invierno aquí durante los meses más fríos."
               }
             },
             {
@@ -620,7 +664,8 @@
                 "de": "Ideal zum Wandern ohne die extreme Sommerhitze.",
                 "hu": "Ideális sétára a szélsőséges nyári hőség nélkül.",
                 "ro": "Ideal pentru plimbări fără căldura extremă a verii.",
-                "en": "Ideal for walking without the extreme summer heat."
+                "en": "Ideal for walking without the extreme summer heat.",
+                "es": "Ideal para caminar sin el calor extremo del verano."
               }
             },
             {
@@ -629,7 +674,8 @@
                 "de": "Barfußlaufen ist jetzt den ganzen Tag über möglich.",
                 "hu": "A mezítlábas járás most egész nap lehetséges.",
                 "ro": "Mersul desculț este posibil acum pe tot parcursul zilei.",
-                "en": "Walking barefoot is possible all day long in winter."
+                "en": "Walking barefoot is possible all day long in winter.",
+                "es": "Es posible caminar descalzo todo el día en invierno."
               }
             },
             {
@@ -638,7 +684,8 @@
                 "de": "Das Wasser ist kühl, aber für Mutige noch erfrischend.",
                 "hu": "A víz hűvös, de a bátrak számára még frissítő.",
                 "ro": "Apa este răcoroasă, dar încă revigorantă pentru cei curajoși.",
-                "en": "The water is cool but still refreshing for brave swimmers."
+                "en": "The water is cool but still refreshing for brave swimmers.",
+                "es": "El agua está fría pero sigue siendo refrescante para los bañistas valientes."
               }
             },
             {
@@ -647,7 +694,8 @@
                 "de": "Achtung: Der Sonnenuntergang ist bereits gegen 18:00 Uhr.",
                 "hu": "Figyelem: a naplemente már 18:00 körül bekövetkezik.",
                 "ro": "Atenție: apusul are loc deja în jurul orei 18:00.",
-                "en": "Note: the sunset occurs much earlier, around 6 PM."
+                "en": "Note: the sunset occurs much earlier, around 6 PM.",
+                "es": "Nota: la puesta de sol ocurre mucho antes, alrededor de las 18:00."
               }
             }
           ],
@@ -675,6 +723,12 @@
               "UV radiation is strong even in winter, so use sunscreen.",
               "Plan to finish your walk before 6 PM to enjoy the daylight.",
               "Cafes near the lighthouse are especially cozy in the winter sun."
+            ],
+            "es": [
+              "Lleva una chaqueta ligera para la brisa marina de la tarde.",
+              "La radiación UV es fuerte incluso en invierno, así que usa protector solar.",
+              "Planifica terminar tu paseo antes de las 18:00 para disfrutar de la luz del día.",
+              "Las cafeterías cercanas al faro son especialmente acogedoras con el sol de invierno."
             ]
           }
         }
@@ -693,7 +747,8 @@
             "de": "Paseo Costa Canaria",
             "hu": "Paseo Costa Canaria",
             "ro": "Paseo Costa Canaria",
-            "en": "Paseo Costa Canaria"
+            "en": "Paseo Costa Canaria",
+            "es": "Paseo Costa Canaria"
           },
           "coords": [
             -15.57,
@@ -708,7 +763,8 @@
             "de": "Radfahren ist hier nur in ausgewiesenen Zonen erlaubt.",
             "hu": "A kerékpározás csak a kijelölt szakaszokon megengedett.",
             "ro": "Ciclismul este permis doar în zonele desemnate.",
-            "en": "Cycling is only permitted in designated zones."
+            "en": "Cycling is only permitted in designated zones.",
+            "es": "El ciclismo solo está permitido en las zonas señalizadas."
           }
         },
         {
@@ -716,7 +772,8 @@
             "de": "Monumento a Cristóbal Colón",
             "hu": "Kolumbusz Kristóf emlékmű",
             "ro": "Monumentul lui Columb",
-            "en": "Columbus Monument"
+            "en": "Columbus Monument",
+            "es": "Monumento a Colón"
           },
           "coords": [
             -15.592,
@@ -731,7 +788,8 @@
             "de": "Ein geschichtsträchtiger Stopp auf der Route.",
             "hu": "Történelmi megálló az útvonalon.",
             "ro": "O oprire istorică pe traseul tău.",
-            "en": "A brief historical stop on your cycling route."
+            "en": "A brief historical stop on your cycling route.",
+            "es": "Una breve parada histórica en tu ruta ciclista."
           }
         },
         {
@@ -739,7 +797,8 @@
             "de": "Holiday World Maspalomas",
             "hu": "Holiday World Maspalomas",
             "ro": "Holiday World Maspalomas",
-            "en": "Holiday World Maspalomas"
+            "en": "Holiday World Maspalomas",
+            "es": "Holiday World Maspalomas"
           },
           "coords": [
             -15.5856,
@@ -754,7 +813,8 @@
             "de": "Der Park öffnet meist erst am späten Vormittag.",
             "hu": "A vidámpark általában csak késő délelőtt nyit.",
             "ro": "Parcul se deschide de obicei mai târziu dimineața.",
-            "en": "The amusement park usually opens later in the day."
+            "en": "The amusement park usually opens later in the day.",
+            "es": "El parque de atracciones suele abrir más tarde en el día."
           }
         },
         {
@@ -762,7 +822,8 @@
             "de": "Faro de Maspalomas",
             "hu": "Világítótorony",
             "ro": "Farul Maspalomas",
-            "en": "Maspalomas Lighthouse"
+            "en": "Maspalomas Lighthouse",
+            "es": "Faro de Maspalomas"
           },
           "coords": [
             -15.6001,
@@ -777,7 +838,8 @@
             "de": "Sichere Fahrradständer befinden sich in der Nähe.",
             "hu": "Biztonságos kerékpártárolók találhatók a közelben.",
             "ro": "Există suporturi sigure pentru biciclete în apropiere.",
-            "en": "Secure bike racks are located near the promenade."
+            "en": "Secure bike racks are located near the promenade.",
+            "es": "Hay aparcabicicletas seguros cerca del paseo."
           }
         },
         {
@@ -785,7 +847,8 @@
             "de": "Playa de Maspalomas",
             "hu": "Maspalomas strand",
             "ro": "Plaja Maspalomas",
-            "en": "Maspalomas Beach"
+            "en": "Maspalomas Beach",
+            "es": "Playa de Maspalomas"
           },
           "coords": [
             -15.59,
@@ -800,7 +863,8 @@
             "de": "Ein erfrischendes Bad nach der Radtour.",
             "hu": "Frissítő csobbanás a kerékpártúra után.",
             "ro": "O baie revigorantă după turul cu bicicleta.",
-            "en": "A refreshing swim after your cycling journey."
+            "en": "A refreshing swim after your cycling journey.",
+            "es": "Un chapuzón refrescante tras tu recorrido en bici."
           }
         }
       ],
@@ -808,7 +872,8 @@
         "de": "Erkunden Sie Maspalomas auf zwei Rädern! Starten Sie an der malerischen Küstenpromenade und radeln Sie am Kolumbus-Denkmal vorbei zum Unterhaltungszentrum Holiday World. Nach einer kurzen Pause geht es zurück zum ikonischen Leuchtturm, bevor Sie den Nachmittag entspannt am Strand ausklingen lassen.",
         "hu": "Fedezze fel Maspalomast két keréken! Kezdje a festői tengerparti sétányon, majd tekerjen el a Kolumbusz-emlékmű mellett a Holiday World szórakoztató központig. Rövid pihenő után irány vissza az ikonikus világítótoronyhoz, végül zárja a délutánt a strandon.",
         "ro": "Explorați Maspalomas pe două roți! Începeți pe faleza pitorească, apoi pedalați pe lângă monumentul lui Columb până la centrul de divertisment Holiday World. După o scurtă pauză, reveniți la farul iconic, iar după-amiaza relaxați-vă pe plajă.",
-        "en": "Explore Maspalomas on two wheels! Start along the scenic coastal promenade and bike past the Columbus Monument to the Holiday World entertainment hub. After a break, head back to the iconic lighthouse and finish your ride with a relaxing afternoon at the beach."
+        "en": "Explore Maspalomas on two wheels! Start along the scenic coastal promenade and bike past the Columbus Monument to the Holiday World entertainment hub. After a break, head back to the iconic lighthouse and finish your ride with a relaxing afternoon at the beach.",
+        "es": "Explora Maspalomas sobre dos ruedas. Comienza por el pintoresco paseo costero y pedalea junto al Monumento a Colón hasta el centro de ocio Holiday World. Tras una pausa, vuelve al icónico faro y termina la ruta con una tarde relajante en la playa."
       },
       "gastro_picks": {
         "de": [
@@ -908,6 +973,10 @@
         "en": [
           "Use the flat cycling paths along the canal.",
           "Avoid cycling directly on the sand of the dunes."
+        ],
+        "es": [
+          "Usa los carriles bici llanos a lo largo del canal.",
+          "Evita pedalear directamente sobre la arena de las dunas."
         ]
       },
       "variants": {
@@ -916,7 +985,8 @@
             "de": "Erkunden Sie Maspalomas auf zwei Rädern! Starten Sie an der malerischen Küstenpromenade und radeln Sie am Kolumbus-Denkmal vorbei zum Unterhaltungszentrum Holiday World. Nach einer kurzen Pause geht es zurück zum ikonischen Leuchtturm, bevor Sie den Nachmittag entspannt am Strand ausklingen lassen.",
             "hu": "Fedezze fel Maspalomast két keréken! Kezdje a festői tengerparti sétányon, majd tekerjen el a Kolumbusz-emlékmű mellett a Holiday World szórakoztató központig. Rövid pihenő után irány vissza az ikonikus világítótoronyhoz, végül zárja a délutánt a strandon.",
             "ro": "Explorați Maspalomas pe două roți! Începeți pe faleza pitorească, apoi pedalați pe lângă monumentul lui Columb până la centrul de divertisment Holiday World. După o scurtă pauză, reveniți la farul iconic, iar după-amiaza relaxați-vă pe plajă.",
-            "en": "Explore Maspalomas on two wheels! Start along the scenic coastal promenade and bike past the Columbus Monument to the Holiday World entertainment hub. After a break, head back to the iconic lighthouse and finish your ride with a relaxing afternoon at the beach."
+            "en": "Explore Maspalomas on two wheels! Start along the scenic coastal promenade and bike past the Columbus Monument to the Holiday World entertainment hub. After a break, head back to the iconic lighthouse and finish your ride with a relaxing afternoon at the beach.",
+            "es": "Explora Maspalomas sobre dos ruedas. Comienza por el pintoresco paseo costero y pedalea junto al Monumento a Colón hasta el centro de ocio Holiday World. Tras una pausa, vuelve al icónico faro y termina la ruta con una tarde relajante en la playa."
           },
           "stops": [
             {
@@ -924,7 +994,8 @@
                 "de": "Paseo Costa Canaria",
                 "hu": "Paseo Costa Canaria",
                 "ro": "Paseo Costa Canaria",
-                "en": "Paseo Costa Canaria"
+                "en": "Paseo Costa Canaria",
+                "es": "Paseo Costa Canaria"
               },
               "tip_5lang": null
             },
@@ -933,7 +1004,8 @@
                 "de": "Monumento a Cristóbal Colón",
                 "hu": "Kolumbusz Kristóf emlékmű",
                 "ro": "Monumentul lui Columb",
-                "en": "Columbus Monument"
+                "en": "Columbus Monument",
+                "es": "Monumento a Colón"
               },
               "tip_5lang": null
             },
@@ -942,7 +1014,8 @@
                 "de": "Holiday World Maspalomas",
                 "hu": "Holiday World Maspalomas",
                 "ro": "Holiday World Maspalomas",
-                "en": "Holiday World Maspalomas"
+                "en": "Holiday World Maspalomas",
+                "es": "Holiday World Maspalomas"
               },
               "tip_5lang": null
             },
@@ -951,7 +1024,8 @@
                 "de": "Faro de Maspalomas",
                 "hu": "Világítótorony",
                 "ro": "Farul Maspalomas",
-                "en": "Maspalomas Lighthouse"
+                "en": "Maspalomas Lighthouse",
+                "es": "Faro de Maspalomas"
               },
               "tip_5lang": null
             },
@@ -960,7 +1034,8 @@
                 "de": "Playa de Maspalomas",
                 "hu": "Maspalomas strand",
                 "ro": "Plaja Maspalomas",
-                "en": "Maspalomas Beach"
+                "en": "Maspalomas Beach",
+                "es": "Playa de Maspalomas"
               },
               "tip_5lang": null
             }
@@ -1063,6 +1138,10 @@
             "en": [
               "Use the flat cycling paths along the canal.",
               "Avoid cycling directly on the sand of the dunes."
+            ],
+            "es": [
+              "Usa los carriles bici llanos a lo largo del canal.",
+              "Evita pedalear directamente sobre la arena de las dunas."
             ]
           }
         },
@@ -1071,7 +1150,8 @@
             "de": "Radfahren an der Küste im Regen bietet eine ganz eigene Dynamik. Die Promenade ist leerer, und die Luft riecht intensiv nach Meer.\n\nMittags bietet Holiday World viele Indoor-Aktivitäten, um den stärksten Schauern zu entgehen. Ein Stopp am Columbus-Denkmal ist kurz, aber geschichtsträchtig.\n\nNachmittags am Leuchtturm glänzt der Stein im Regen. Die Fahrt zurück zum Strand erfordert Vorsicht auf den nassen Wegen.\n\nDer Tag endet entspannt; die kühle Brise nach dem Regen macht die Rückfahrt erfrischend und angenehm.",
             "hu": "A parti kerékpározás esőben sajátos dinamikát ad. A sétány üresebb, a levegő pedig intenzív tengerillatot áraszt.\n\nDélben a Holiday World rengeteg beltéri programot kínál a záporok idejére. A Kolumbusz-emlékműnél tett megálló rövid, de tartalmas.\n\nDélután a világítótoronynál a kövek csillognak az esőtől. A strand felé vezető út óvatosságot igényel a vizes aszfalton.\n\nA nap nyugodtan zárul; az eső utáni hűvös szellő frissítővé és kellemessé teszi a visszautat.",
             "ro": "Ciclismul pe coastă în ploaie oferă o dinamică aparte. Promenada este mai goală, iar aerul miroase intens a mare.\n\nLa prânz, Holiday World oferă multe activități de interior pentru a evita ploile. Oprirea la Monumentul lui Columb este scurtă, dar plină de istorie.\n\nDupă-amiaza la far, piatra strălucește sub ploaie. Drumul de întoarcere spre plajă necesită prudență pe pistele ude.\n\nZiua se încheie relaxat; briza răcoroasă de după ploaie face drumul de întoarcere revigorant și plăcut.",
-            "en": "Cycling along the coast in the rain offers a unique dynamic. The promenade is emptier, and the air smells intensely of the sea.\n\nAt noon, Holiday World provides plenty of indoor activities to escape the heaviest showers. A stop at the Columbus Monument is brief but historic.\n\nIn the afternoon at the lighthouse, the stones glisten in the rain. The ride back to the beach requires caution on the wet paths.\n\nThe day ends on a relaxed note; the cool breeze after the rain makes the return journey refreshing and pleasant."
+            "en": "Cycling along the coast in the rain offers a unique dynamic. The promenade is emptier, and the air smells intensely of the sea.\n\nAt noon, Holiday World provides plenty of indoor activities to escape the heaviest showers. A stop at the Columbus Monument is brief but historic.\n\nIn the afternoon at the lighthouse, the stones glisten in the rain. The ride back to the beach requires caution on the wet paths.\n\nThe day ends on a relaxed note; the cool breeze after the rain makes the return journey refreshing and pleasant.",
+            "es": "Ciclar por la costa bajo la lluvia ofrece una dinámica única. El paseo está más vacío y el aire huele intensamente a mar.\n\nAl mediodía, Holiday World ofrece muchas actividades interiores para escapar de los chaparrones más fuertes. Una parada en el Monumento a Colón es breve pero histórica.\n\nPor la tarde en el faro, las piedras brillan con la lluvia. El regreso a la playa requiere precaución por los caminos mojados.\n\nEl día termina en nota relajada; la brisa fresca tras la lluvia hace que el regreso sea refrescante y agradable."
           },
           "stops": [
             {
@@ -1080,7 +1160,8 @@
                 "de": "Reduzieren Sie die Geschwindigkeit auf nassen Fliesen.",
                 "hu": "Csökkentse a sebességet a vizes burkolaton.",
                 "ro": "Reduceți viteza pe plăcile ude ale promenadei.",
-                "en": "Reduce your speed on the wet promenade tiles."
+                "en": "Reduce your speed on the wet promenade tiles.",
+                "es": "Reduce la velocidad en las baldosas mojadas del paseo."
               }
             },
             {
@@ -1089,7 +1170,8 @@
                 "de": "Ein schneller Fotostopp unter dem Regenschutz.",
                 "hu": "Gyors fotómegálló az eső elleni védelem alatt.",
                 "ro": "O oprire rapidă pentru poze sub protecția de ploaie.",
-                "en": "A quick photo stop under rain protection."
+                "en": "A quick photo stop under rain protection.",
+                "es": "Una parada rápida para foto bajo protección contra la lluvia."
               }
             },
             {
@@ -1098,7 +1180,8 @@
                 "de": "Perfekter Ort, um eine längere Regenpause einzulegen.",
                 "hu": "Tökéletes hely egy hosszabb esőszünet tartására.",
                 "ro": "Locul perfect pentru o pauză mai lungă în caz de ploaie.",
-                "en": "Perfect place for a longer break to wait out the rain."
+                "en": "Perfect place for a longer break to wait out the rain.",
+                "es": "Lugar perfecto para una pausa más larga y esperar a que amaine la lluvia."
               }
             },
             {
@@ -1107,7 +1190,8 @@
                 "de": "Nutzen Sie den überdachten Fahrradständer am Eingang.",
                 "hu": "Használja a bejáratnál lévő fedett biciklitárolót.",
                 "ro": "Folosiți suportul de biciclete acoperit de la intrare.",
-                "en": "Use the covered bike rack near the entrance."
+                "en": "Use the covered bike rack near the entrance.",
+                "es": "Usa el aparcabicicletas cubierto cerca de la entrada."
               }
             },
             {
@@ -1116,7 +1200,8 @@
                 "de": "Fahren Sie nicht zu nah an den aufgeweichten Sand.",
                 "hu": "Ne menjen túl közel a felázott homokos részekhez.",
                 "ro": "Nu pedalați prea aproape de nisipul înmuiat.",
-                "en": "Don't cycle too close to the softened sandy areas."
+                "en": "Don't cycle too close to the softened sandy areas.",
+                "es": "No circules demasiado cerca de las zonas arenosas ablandadas."
               }
             }
           ],
@@ -1144,6 +1229,12 @@
               "Avoid abrupt steering maneuvers on painted road markings.",
               "A bike with mudguards will prevent splashes of dirty water.",
               "Use the underground parking at Holiday World for shelter."
+            ],
+            "es": [
+              "Revisa tus frenos para asegurarte de la adherencia antes de salir.",
+              "Evita maniobras bruscas de dirección sobre las señales pintadas en la calzada.",
+              "Una bici con guardabarros evitará salpicaduras de agua sucia.",
+              "Usa el parking subterráneo de Holiday World como refugio."
             ]
           }
         },
@@ -1152,7 +1243,8 @@
             "de": "Winter ist die ideale Zeit zum Radfahren auf Gran Canaria. Die milde Sonne macht die Fahrt entlang der Costa Canaria zum Vergnügen.\n\nMittags ist das Licht am Columbus-Denkmal klar und scharf. In der Holiday World können Sie die angenehmen Temperaturen im Freien genießen.\n\nNachmittags am Leuchtturm weht oft eine kräftige Brise. Die flache Strecke zum Strand lässt sich ohne große Anstrengung bewältigen.\n\nZum Abend hin kühlt es merklich ab; die Fahrt durch die beleuchteten Straßen von Maspalomas ist ein schöner Abschluss des Tages.",
             "hu": "A tél a legalkalmasabb idő a kerékpározásra Gran Canarián. Az enyhe napsütés élménnyé teszi a tekerést a Costa Canaria mentén.\n\nDélben a fények tiszták a Kolumbusz-emlékműnél. A Holiday World szabadtéri részein is élvezhető a kellemes hőmérséklet.\n\nDélután a világítótoronynál gyakran fúj élénk szél. A strand felé vezető sík terep megerőltetés nélkül teljesíthető.\n\nEste felé érezhetően lehűl az idő; a kivilágított Maspalomas utcáin való tekerés szép lezárása a napnak.",
             "ro": "Iarna este timpul ideal pentru ciclism în Gran Canaria. Soarele blând face din tura pe Costa Canaria o adevărată plăcere.\n\nLa prânz, lumina la Monumentul lui Columb este clară. La Holiday World puteți profita de temperaturile plăcute în exterior.\n\nDupă-amiaza la far suflă adesea o briză puternică. Traseul plat spre plajă se parcurge fără efort mare.\n\nSpre seară se răcorește simțitor; plimbarea prin străzile iluminate din Maspalomas este o încheiere frumoasă a zilei.",
-            "en": "Winter is the perfect time for cycling in Gran Canaria. The mild sun makes riding along Costa Canaria a pure joy.\n\nAt noon, the light at the Columbus Monument is crisp and clear. At Holiday World, you can enjoy the pleasant outdoor temperatures.\n\nIn the afternoon at the lighthouse, a strong breeze often blows. The flat route to the beach is easily managed without much effort.\n\nAs evening approaches, it cools down noticeably; riding through the illuminated streets of Maspalomas is a great way to end the day."
+            "en": "Winter is the perfect time for cycling in Gran Canaria. The mild sun makes riding along Costa Canaria a pure joy.\n\nAt noon, the light at the Columbus Monument is crisp and clear. At Holiday World, you can enjoy the pleasant outdoor temperatures.\n\nIn the afternoon at the lighthouse, a strong breeze often blows. The flat route to the beach is easily managed without much effort.\n\nAs evening approaches, it cools down noticeably; riding through the illuminated streets of Maspalomas is a great way to end the day.",
+            "es": "El invierno es el momento perfecto para pedalear en Gran Canaria. El sol templado hace que rodar por la Costa Canaria sea un puro placer.\n\nAl mediodía, la luz en el Monumento a Colón es nítida y clara. En Holiday World puedes disfrutar de agradables temperaturas al aire libre.\n\nPor la tarde en el faro, suele soplar una brisa fuerte. La ruta llana hacia la playa se gestiona sin mucho esfuerzo.\n\nAl acercarse la noche, refresca notablemente; recorrer las calles iluminadas de Maspalomas es una buena forma de terminar el día."
           },
           "stops": [
             {
@@ -1161,7 +1253,8 @@
                 "de": "Genießen Sie die kühle Meeresbrise beim Fahren.",
                 "hu": "Élvezze a hűvös tengeri szellőt tekerés közben.",
                 "ro": "Bucurați-vă de briza răcoroasă a mării în timp ce pedalați.",
-                "en": "Enjoy the cool sea breeze as you ride along the coast."
+                "en": "Enjoy the cool sea breeze as you ride along the coast.",
+                "es": "Disfruta de la fresca brisa marina mientras pedaleas por la costa."
               }
             },
             {
@@ -1170,7 +1263,8 @@
                 "de": "Ein schöner Ort für eine kurze Trinkpause im Schatten.",
                 "hu": "Kellemes hely egy rövid ivószünetre az árnyékban.",
                 "ro": "Un loc plăcut pentru o scurtă pauză de hidratare la umbră.",
-                "en": "A pleasant spot for a short water break in the shade."
+                "en": "A pleasant spot for a short water break in the shade.",
+                "es": "Un lugar agradable para una breve parada de hidratación a la sombra."
               }
             },
             {
@@ -1179,7 +1273,8 @@
                 "de": "Im Winter sind die Warteschlangen im Außenbereich kürzer.",
                 "hu": "Télen rövidebbek a sorok a szabadtéri attrakcióknál.",
                 "ro": "Iarna cozile la atracțiile în aer liber sunt mai scurte.",
-                "en": "In winter, queues for outdoor attractions are much shorter."
+                "en": "In winter, queues for outdoor attractions are much shorter.",
+                "es": "En invierno, las colas para atracciones exteriores son mucho más cortas."
               }
             },
             {
@@ -1188,7 +1283,8 @@
                 "de": "Die Cafés hier sind perfekt für einen Kaffee in der Sonne.",
                 "hu": "Az itteni kávézók tökéletesek egy napsütéses kávézáshoz.",
                 "ro": "Cafenelele de aici sunt perfecte pentru o cafea la soare.",
-                "en": "The cafes here are perfect for a coffee in the sun."
+                "en": "The cafes here are perfect for a coffee in the sun.",
+                "es": "Las cafeterías aquí son perfectas para un café al sol."
               }
             },
             {
@@ -1197,7 +1293,8 @@
                 "de": "Parken Sie das Rad an den Ständern nahe der Promenade.",
                 "hu": "Parkolja a biciklit a sétány melletti tárolókhoz.",
                 "ro": "Parcați bicicleta la suporturile de lângă promenadă.",
-                "en": "Park your bike at the racks near the promenade."
+                "en": "Park your bike at the racks near the promenade.",
+                "es": "Aparca tu bici en los racks junto al paseo."
               }
             }
           ],
@@ -1225,6 +1322,12 @@
               "The sun sets earlier, so make sure your lights are working.",
               "Winter is peak season; watch out for many pedestrians on paths.",
               "Use the bike lanes along the Barranco de Maspalomas."
+            ],
+            "es": [
+              "Un chaleco cortaviento te protege de la fresca brisa marina.",
+              "El sol se pone antes, así que asegúrate de que tus luces funcionen.",
+              "El invierno es temporada alta; ten cuidado con muchos peatones en los caminos.",
+              "Usa los carriles bici a lo largo del Barranco de Maspalomas."
             ]
           }
         }
@@ -1243,7 +1346,8 @@
             "de": "Mirador de las Dunas",
             "hu": "Dűnék kilátó",
             "ro": "Mirador de las Dunas",
-            "en": "Dunes Viewpoint"
+            "en": "Dunes Viewpoint",
+            "es": "Mirador de las Dunas"
           },
           "coords": [
             -15.578,
@@ -1258,7 +1362,8 @@
             "de": "Parkplätze finden Sie am Hotel Riu Palace.",
             "hu": "Parkolóhelyet a Hotel Riu Palace-nál talál.",
             "ro": "Găsiți parcare lângă Hotel Riu Palace.",
-            "en": "Parking is available near the Hotel Riu Palace."
+            "en": "Parking is available near the Hotel Riu Palace.",
+            "es": "Hay aparcamiento disponible cerca del Hotel Riu Palace."
           }
         },
         {
@@ -1266,7 +1371,8 @@
             "de": "Holiday World Maspalomas",
             "hu": "Holiday World Maspalomas",
             "ro": "Holiday World Maspalomas",
-            "en": "Holiday World Maspalomas"
+            "en": "Holiday World Maspalomas",
+            "es": "Holiday World Maspalomas"
           },
           "coords": [
             -15.5856,
@@ -1281,7 +1387,8 @@
             "de": "Ideal für Familien mit Kindern.",
             "hu": "Ideális családoknak gyerekekkel.",
             "ro": "Ideal pentru familii cu copii.",
-            "en": "Perfect for families with children."
+            "en": "Perfect for families with children.",
+            "es": "Perfecto para familias con niños."
           }
         },
         {
@@ -1289,7 +1396,8 @@
             "de": "Faro de Maspalomas",
             "hu": "Világítótorony",
             "ro": "Farul Maspalomas",
-            "en": "Maspalomas Lighthouse"
+            "en": "Maspalomas Lighthouse",
+            "es": "Faro de Maspalomas"
           },
           "coords": [
             -15.6001,
@@ -1304,7 +1412,8 @@
             "de": "Nutzen Sie das öffentliche Parkhaus unter der Plaza.",
             "hu": "Használja a tér alatti nyilvános mélygarázst.",
             "ro": "Folosiți parcarea publică subterană din piață.",
-            "en": "Use the public underground parking garage."
+            "en": "Use the public underground parking garage.",
+            "es": "Utiliza el aparcamiento subterráneo público."
           }
         },
         {
@@ -1312,7 +1421,8 @@
             "de": "Playa de Maspalomas",
             "hu": "Maspalomas strand",
             "ro": "Plaja Maspalomas",
-            "en": "Maspalomas Beach"
+            "en": "Maspalomas Beach",
+            "es": "Playa de Maspalomas"
           },
           "coords": [
             -15.59,
@@ -1327,7 +1437,8 @@
             "de": "Ein kurzer Fußweg vom Parkplatz zum Wasser.",
             "hu": "Rövid séta a parkolótól a vízig.",
             "ro": "O scurtă plimbare de la parcare la apă.",
-            "en": "A short walk from the parking area to the water."
+            "en": "A short walk from the parking area to the water.",
+            "es": "A poca distancia a pie desde la zona de aparcamiento hasta el agua."
           }
         },
         {
@@ -1335,7 +1446,8 @@
             "de": "La Charca de Maspalomas",
             "hu": "La Charca lagúna",
             "ro": "La Charca de Maspalomas",
-            "en": "La Charca Lagoon"
+            "en": "La Charca Lagoon",
+            "es": "La Charca"
           },
           "coords": [
             -15.5975,
@@ -1350,7 +1462,8 @@
             "de": "Besuch am späten Nachmittag für weiches Licht.",
             "hu": "Késő délutáni látogatás a lágy fényekért.",
             "ro": "Vizită după-amiaza târziu pentru lumină caldă.",
-            "en": "Late afternoon visit for the best light."
+            "en": "Late afternoon visit for the best light.",
+            "es": "Visita a última hora de la tarde para obtener la mejor luz."
           }
         }
       ],
@@ -1358,7 +1471,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die Highlights von Maspalomas. Beginnen Sie am Dünen-Kilometerpunkt für das perfekte Foto, besuchen Sie das Freizeitzentrum Holiday World und fahren Sie dann zum Leuchtturm-Viertel. Den Nachmittag verbringen Sie am Strand und beenden die Tour an der friedlichen Lagune.",
         "hu": "Autóval kényelmesen elérheti Maspalomas nevezetességeit. Kezdje a dűnék kilátópontjánál a tökéletes fotóért, látogasson el a Holiday Worldbe, majd hajtson a világítótorony negyedébe. A délutánt töltse a strandon, a túrát pedig a békés lagúnánál zárja.",
         "ro": "Cu mașina puteți ajunge confortabil la atracțiile din Maspalomas. Începeți la punctul de belvedere al dunelor pentru fotografia perfectă, vizitați Holiday World, apoi mergeți spre zona farului. Petreceți după-amiaza pe plajă și încheiați turul la laguna liniștită.",
-        "en": "Driving allows you to visit Maspalomas' highlights with ease. Start at the famous dunes viewpoint, head to Holiday World for some fun, and then move to the lighthouse area. Spend your afternoon by the sea and finish the day at the peaceful lagoon."
+        "en": "Driving allows you to visit Maspalomas' highlights with ease. Start at the famous dunes viewpoint, head to Holiday World for some fun, and then move to the lighthouse area. Spend your afternoon by the sea and finish the day at the peaceful lagoon.",
+        "es": "Conducir te permite visitar cómodamente los puntos de interés de Maspalomas. Comienza en el famoso mirador de las dunas, dirígete a Holiday World para divertirte y luego ve hacia la zona del faro. Pasa la tarde junto al mar y termina el día en la tranquila charca."
       },
       "gastro_picks": {
         "de": [
@@ -1458,6 +1572,10 @@
         "en": [
           "Parking in Meloneras is often paid.",
           "Watch out for one-way streets in the tourist center."
+        ],
+        "es": [
+          "El estacionamiento en Meloneras suele ser de pago.",
+          "Cuidado con las calles de sentido único en el centro turístico."
         ]
       },
       "variants": {
@@ -1466,7 +1584,8 @@
             "de": "Mit dem Auto erreichen Sie bequem die Highlights von Maspalomas. Beginnen Sie am Dünen-Kilometerpunkt für das perfekte Foto, besuchen Sie das Freizeitzentrum Holiday World und fahren Sie dann zum Leuchtturm-Viertel. Den Nachmittag verbringen Sie am Strand und beenden die Tour an der friedlichen Lagune.",
             "hu": "Autóval kényelmesen elérheti Maspalomas nevezetességeit. Kezdje a dűnék kilátópontjánál a tökéletes fotóért, látogasson el a Holiday Worldbe, majd hajtson a világítótorony negyedébe. A délutánt töltse a strandon, a túrát pedig a békés lagúnánál zárja.",
             "ro": "Cu mașina puteți ajunge confortabil la atracțiile din Maspalomas. Începeți la punctul de belvedere al dunelor pentru fotografia perfectă, vizitați Holiday World, apoi mergeți spre zona farului. Petreceți după-amiaza pe plajă și încheiați turul la laguna liniștită.",
-            "en": "Driving allows you to visit Maspalomas' highlights with ease. Start at the famous dunes viewpoint, head to Holiday World for some fun, and then move to the lighthouse area. Spend your afternoon by the sea and finish the day at the peaceful lagoon."
+            "en": "Driving allows you to visit Maspalomas' highlights with ease. Start at the famous dunes viewpoint, head to Holiday World for some fun, and then move to the lighthouse area. Spend your afternoon by the sea and finish the day at the peaceful lagoon.",
+            "es": "Conducir te permite visitar cómodamente los puntos de interés de Maspalomas. Comienza en el famoso mirador de las dunas, dirígete a Holiday World para divertirte y luego ve hacia la zona del faro. Pasa la tarde junto al mar y termina el día en la tranquila charca."
           },
           "stops": [
             {
@@ -1474,7 +1593,8 @@
                 "de": "Mirador de las Dunas",
                 "hu": "Dűnék kilátó",
                 "ro": "Mirador de las Dunas",
-                "en": "Dunes Viewpoint"
+                "en": "Dunes Viewpoint",
+                "es": "Mirador de las Dunas"
               },
               "tip_5lang": null
             },
@@ -1483,7 +1603,8 @@
                 "de": "Holiday World Maspalomas",
                 "hu": "Holiday World Maspalomas",
                 "ro": "Holiday World Maspalomas",
-                "en": "Holiday World Maspalomas"
+                "en": "Holiday World Maspalomas",
+                "es": "Holiday World Maspalomas"
               },
               "tip_5lang": null
             },
@@ -1492,7 +1613,8 @@
                 "de": "Faro de Maspalomas",
                 "hu": "Világítótorony",
                 "ro": "Farul Maspalomas",
-                "en": "Maspalomas Lighthouse"
+                "en": "Maspalomas Lighthouse",
+                "es": "Faro de Maspalomas"
               },
               "tip_5lang": null
             },
@@ -1501,7 +1623,8 @@
                 "de": "Playa de Maspalomas",
                 "hu": "Maspalomas strand",
                 "ro": "Plaja Maspalomas",
-                "en": "Maspalomas Beach"
+                "en": "Maspalomas Beach",
+                "es": "Playa de Maspalomas"
               },
               "tip_5lang": null
             },
@@ -1510,7 +1633,8 @@
                 "de": "La Charca de Maspalomas",
                 "hu": "La Charca lagúna",
                 "ro": "La Charca de Maspalomas",
-                "en": "La Charca Lagoon"
+                "en": "La Charca Lagoon",
+                "es": "La Charca"
               },
               "tip_5lang": null
             }
@@ -1613,6 +1737,10 @@
             "en": [
               "Parking in Meloneras is often paid.",
               "Watch out for one-way streets in the tourist center."
+            ],
+            "es": [
+              "Aparcar en Meloneras suele ser de pago.",
+              "Cuidado con las calles de un solo sentido en el centro turístico."
             ]
           }
         },
@@ -1621,7 +1749,8 @@
             "de": "Mit dem Auto sind Sie bestens für einen regnerischen Tag gerüstet. Der Aussichtspunkt bietet auch aus dem Wagen einen tollen Blick.\n\nMittags ist die Holiday World das perfekte Ziel, da Parken und Entertainment wetterfest sind. Die Fahrt zum Leuchtturm ist kurz und trocken.\n\nNachmittags können Sie nahe am Strand parken und das stürmische Meer aus einem der gemütlichen Restaurants beobachten.\n\nDer Abend endet entspannt mit einer Fahrt entlang der beleuchteten Küstenstraße, während die Wischer den Rhythmus des Regens vorgeben.",
             "hu": "Autóval remekül felkészülhet egy esős napra. A kilátópontról akár a kocsiból is élvezheti a dűnék látványát.\n\nDélben a Holiday World a tökéletes célpont, mivel a parkolás és a szórakozás is esőbiztos. Az út a világítótoronyhoz rövid és száraz.\n\nDélután közvetlenül a strand mellett parkolhat, és egy hangulatos étteremből figyelheti a viharos óceánt.\n\nAz este nyugodtan zárul a kivilágított parti úton való vezetéssel, miközben az ablaktörlők ütemesen járnak az esőben.",
             "ro": "Cu mașina sunteți bine pregătiți pentru o zi ploioasă. Punctul de observare oferă o priveliște excelentă chiar și din interior.\n\nLa prânz, Holiday World este destinația perfectă, parcarea și distracția fiind protejate. Drumul spre far este scurt și uscat.\n\nDupă-amiaza puteți parca aproape de plajă și puteți observa marea agitată dintr-un restaurant primitor.\n\nSeara se încheie relaxat cu o plimbare de-a lungul coastei iluminate, în timp ce ștergătoarele bat ritmul ploii.",
-            "en": "By car, you are perfectly equipped for a rainy day. The viewpoint offers a great sight of the dunes even from inside the vehicle.\n\nAt noon, Holiday World is the perfect destination as both parking and entertainment are weatherproof. The drive to the lighthouse is short and dry.\n\nIn the afternoon, park close to the beach and watch the stormy sea from the comfort of a cozy restaurant.\n\nThe evening ends with a relaxed drive along the illuminated coastal road as the wipers sync with the rhythm of the rain."
+            "en": "By car, you are perfectly equipped for a rainy day. The viewpoint offers a great sight of the dunes even from inside the vehicle.\n\nAt noon, Holiday World is the perfect destination as both parking and entertainment are weatherproof. The drive to the lighthouse is short and dry.\n\nIn the afternoon, park close to the beach and watch the stormy sea from the comfort of a cozy restaurant.\n\nThe evening ends with a relaxed drive along the illuminated coastal road as the wipers sync with the rhythm of the rain.",
+            "es": "En coche estás perfectamente preparado para un día de lluvia. El mirador ofrece una gran vista de las dunas incluso desde el interior del vehículo.\n\nA mediodía, Holiday World es el destino perfecto ya que tanto el aparcamiento como el entretenimiento están a prueba de lluvia. El trayecto hasta el faro es corto y seco.\n\nPor la tarde, aparca cerca de la playa y contempla el mar tempestuoso desde la comodidad de un restaurante acogedor.\n\nLa noche termina con un relajado paseo por la carretera costera iluminada mientras los limpiaparabrisas marcan el ritmo de la lluvia."
           },
           "stops": [
             {
@@ -1630,7 +1759,8 @@
                 "de": "Bleiben Sie bei starkem Regen für die Aussicht im Auto.",
                 "hu": "Heves esőben maradjon az autóban a kilátás élvezetéhez.",
                 "ro": "Rămâneți în mașină pentru priveliște în caz de ploaie grea.",
-                "en": "Stay in the car for the view if the rain is very heavy."
+                "en": "Stay in the car for the view if the rain is very heavy.",
+                "es": "Quédate en el coche para disfrutar de las vistas si la lluvia es muy intensa."
               }
             },
             {
@@ -1639,7 +1769,8 @@
                 "de": "Nutzen Sie das Parkhaus, um trocken ins Gebäude zu kommen.",
                 "hu": "Használja a parkolóházat, hogy szárazon jusson az épületbe.",
                 "ro": "Folosiți parcarea acoperită pentru a intra uscat în clădire.",
-                "en": "Use the parking garage to enter the building while staying dry."
+                "en": "Use the parking garage to enter the building while staying dry.",
+                "es": "Usa el parking subterráneo para entrar al edificio sin mojarte."
               }
             },
             {
@@ -1648,7 +1779,8 @@
                 "de": "Parken Sie im Parkhaus 'Faro' direkt am Leuchtturm.",
                 "hu": "Parkoljon a közvetlenül a toronynál lévő 'Faro' parkolóban.",
                 "ro": "Parcați în garajul 'Faro' chiar lângă far.",
-                "en": "Park in the 'Faro' parking garage right next to the lighthouse."
+                "en": "Park in the 'Faro' parking garage right next to the lighthouse.",
+                "es": "Aparca en el aparcamiento 'Faro' justo junto al faro."
               }
             },
             {
@@ -1657,7 +1789,8 @@
                 "de": "Parkplätze nahe dem Strand sind bei Regen leichter zu finden.",
                 "hu": "Esőben könnyebb parkolót találni a strand közelében.",
                 "ro": "Locurile de parcare lângă plajă sunt mai ușor de găsit.",
-                "en": "Parking spaces near the beach are easier to find in the rain."
+                "en": "Parking spaces near the beach are easier to find in the rain.",
+                "es": "En la lluvia es más fácil encontrar plazas cerca de la playa."
               }
             },
             {
@@ -1666,7 +1799,8 @@
                 "de": "Kurzer Stopp am Straßenrand ist für ein schnelles Foto okay.",
                 "hu": "Rövid megállás az út szélén egy gyors fotóra belefér.",
                 "ro": "O oprire scurtă pe marginea drumului este ok pentru o poză.",
-                "en": "A short roadside stop is fine for a quick photo."
+                "en": "A short roadside stop is fine for a quick photo.",
+                "es": "Una breve parada en la cuneta está bien para una foto rápida."
               }
             }
           ],
@@ -1694,6 +1828,12 @@
               "Use indoor parking garages (Indigo) to avoid walking in the rain.",
               "Avoid parking under palm trees due to the risk of falling branches.",
               "Turn on your headlights during the day if visibility is poor."
+            ],
+            "es": [
+              "Cuidado con los charcos en las zonas más hundidas de la carretera.",
+              "Usa los aparcamientos cubiertos (Indigo) para evitar caminar bajo la lluvia.",
+              "Evita aparcar bajo las palmeras por riesgo de ramas caídas.",
+              "Enciende las luces de cruce durante el día si la visibilidad es mala."
             ]
           }
         },
@@ -1702,7 +1842,8 @@
             "de": "Das Auto bietet im Winter die Freiheit, die Küste von Maspalomas bequem zu erkunden. Der Morgen am Aussichtspunkt ist klar und weit.\n\nMittags ist die Holiday World gut besucht; die Temperaturen sind perfekt für Aktivitäten im Freien. Die Fahrt zum Faro ist entspannt.\n\nNachmittags am Strand finden Sie leichter einen Parkplatz als im Hochsommer. Genießen Sie den Sonnenuntergang direkt an der Küste.\n\nAbends ist die Fahrt durch das beleuchtete Meloneras besonders schön, da die Winterbeleuchtung für eine festliche Stimmung sorgt.",
             "hu": "Az autó télen szabadságot ad Maspalomas partvidékének kényelmes felfedezéséhez. A reggel a kilátónál tiszta és messzire látni.\n\nDélben a Holiday World népszerű; a hőmérséklet ideális a szabadtéri programokhoz. Az út a Faro-hoz nyugodt.\n\nDélután a strandnál könnyebben talál parkolót, mint főszezonban. Élvezze a naplementét közvetlenül a parton.\n\nEste a kivilágított Meloneras menti autózás különösen szép, a téli fények ünnepi hangulatot árasztanak.",
             "ro": "Mașina oferă iarna libertatea de a explora coasta Maspalomas confortabil. Dimineața la punctul de observare este clară.\n\nLa prânz, Holiday World este animat; temperaturile sunt perfecte pentru activități externe. Drumul spre Faro este relaxant.\n\nDupă-amiaza la plajă găsiți loc de parcare mai ușor decât în plină vară. Bucurați-vă de apus direct la malul mării.\n\nSeara, plimbarea prin Meloneras iluminat este deosebită, luminile de iarnă creând o atmosferă festivă.",
-            "en": "The car gives you the freedom to explore the Maspalomas coast comfortably in winter. The morning at the viewpoint is clear and wide.\n\nAt noon, Holiday World is lively; temperatures are ideal for outdoor fun. The drive to the lighthouse is smooth and easy.\n\nIn the afternoon at the beach, you'll find parking more easily than in mid-summer. Enjoy the sunset right by the shore.\n\nIn the evening, driving through the illuminated Meloneras area is lovely, with winter lights adding a festive mood."
+            "en": "The car gives you the freedom to explore the Maspalomas coast comfortably in winter. The morning at the viewpoint is clear and wide.\n\nAt noon, Holiday World is lively; temperatures are ideal for outdoor fun. The drive to the lighthouse is smooth and easy.\n\nIn the afternoon at the beach, you'll find parking more easily than in mid-summer. Enjoy the sunset right by the shore.\n\nIn the evening, driving through the illuminated Meloneras area is lovely, with winter lights adding a festive mood.",
+            "es": "El coche te da la libertad de explorar cómodamente la costa de Maspalomas en invierno. La mañana en el mirador es despejada y amplia.\n\nA mediodía, Holiday World está animado; las temperaturas son ideales para divertirse al aire libre. El trayecto hasta el faro es suave y fácil.\n\nPor la tarde en la playa encontrarás aparcamiento más fácilmente que en pleno verano. Disfruta del atardecer junto a la orilla.\n\nPor la noche, conducir por la iluminada zona de Meloneras es encantador, con las luces invernales que añaden un ambiente festivo."
           },
           "stops": [
             {
@@ -1711,7 +1852,8 @@
                 "de": "Früh kommen, um den besten Parkplatz für den Ausblick zu ergattern.",
                 "hu": "Érkezzen korán a legjobb panorámás parkolóhelyért.",
                 "ro": "Veniți devreme pentru a prinde cel mai bun loc de parcare.",
-                "en": "Arrive early to snag the best parking spot for the view."
+                "en": "Arrive early to snag the best parking spot for the view.",
+                "es": "Llega temprano para coger la mejor plaza de aparcamiento con vistas."
               }
             },
             {
@@ -1720,7 +1862,8 @@
                 "de": "Das Parken im Freien ist bei der milden Wintersonne kein Problem.",
                 "hu": "A szabadtéri parkolás az enyhe téli napon nem gond.",
                 "ro": "Parcarea în aer liber este ok datorită soarelui blând de iarnă.",
-                "en": "Outdoor parking is fine thanks to the mild winter sun."
+                "en": "Outdoor parking is fine thanks to the mild winter sun.",
+                "es": "El aparcamiento al aire libre está bien gracias al suave sol invernal."
               }
             },
             {
@@ -1729,7 +1872,8 @@
                 "de": "In den Nebenstraßen gibt es im Winter oft freie Parkplätze.",
                 "hu": "A mellékutcákban télen gyakran találni szabad helyet.",
                 "ro": "În străzile secundare se găsesc adesea locuri libere iarna.",
-                "en": "You can often find free parking in the side streets in winter."
+                "en": "You can often find free parking in the side streets in winter.",
+                "es": "A menudo se puede encontrar aparcamiento gratuito en las calles laterales en invierno."
               }
             },
             {
@@ -1738,7 +1882,8 @@
                 "de": "Nutzen Sie den großen Parkplatz am Ende der Avenida de Colon.",
                 "hu": "Használja az Avenida de Colon végén lévő nagy parkolót.",
                 "ro": "Folosiți parcarea mare de la capătul Avenida de Colon.",
-                "en": "Use the large parking lot at the end of Avenida de Colon."
+                "en": "Use the large parking lot at the end of Avenida de Colon.",
+                "es": "Usa el gran aparcamiento al final de la Avenida de Colón."
               }
             },
             {
@@ -1747,7 +1892,8 @@
                 "de": "Gute Wendemöglichkeit am Ende der Sackgasse nahe der Lagune.",
                 "hu": "Jó megfordulási lehetőség a lagúna közeli zsákutca végén.",
                 "ro": "Posibilitate bună de întoarcere la capătul străzii de lângă lagună.",
-                "en": "Good turning point at the end of the cul-de-sac near the lagoon."
+                "en": "Good turning point at the end of the cul-de-sac near the lagoon.",
+                "es": "Buen punto para dar la vuelta al final del callejón cerca de la laguna."
               }
             }
           ],
@@ -1775,6 +1921,12 @@
               "Parking fees in Meloneras are often more moderate in winter.",
               "Plan drives into the interior of the island while it's still light.",
               "Check tire pressure as temperature fluctuations can occur."
+            ],
+            "es": [
+              "Alquila un descapotable para disfrutar plenamente del suave sol invernal.",
+              "Las tarifas de aparcamiento en Meloneras suelen ser más moderadas en invierno.",
+              "Planifica excursiones al interior de la isla mientras todavía haya luz.",
+              "Revisa la presión de los neumáticos, ya que pueden producirse fluctuaciones de temperatura."
             ]
           }
         }
@@ -1793,7 +1945,8 @@
             "de": "Faro de Maspalomas",
             "hu": "Világítótorony",
             "ro": "Farul Maspalomas",
-            "en": "Maspalomas Lighthouse"
+            "en": "Maspalomas Lighthouse",
+            "es": "Faro de Maspalomas"
           },
           "coords": [
             -15.6001,
@@ -1808,7 +1961,8 @@
             "de": "Der Busbahnhof liegt direkt hinter dem Leuchtturm.",
             "hu": "A buszpályaudvar közvetlenül a világítótorony mögött van.",
             "ro": "Stația de autobuz este chiar în spatele farului.",
-            "en": "The bus station is located right behind the lighthouse."
+            "en": "The bus station is located right behind the lighthouse.",
+            "es": "La estación de autobuses está justo detrás del faro."
           }
         },
         {
@@ -1816,7 +1970,8 @@
             "de": "Holiday World Maspalomas",
             "hu": "Holiday World Maspalomas",
             "ro": "Holiday World Maspalomas",
-            "en": "Holiday World Maspalomas"
+            "en": "Holiday World Maspalomas",
+            "es": "Holiday World Maspalomas"
           },
           "coords": [
             -15.5856,
@@ -1831,7 +1986,8 @@
             "de": "Mehrere Linien verbinden Faro mit San Fernando.",
             "hu": "Számos buszjárat köti össze Farót San Fernandóval.",
             "ro": "Mai multe linii leagă Faro de San Fernando.",
-            "en": "Multiple bus lines connect Faro with San Fernando."
+            "en": "Multiple bus lines connect Faro with San Fernando.",
+            "es": "Varias líneas de autobús conectan el Faro con San Fernando."
           }
         },
         {
@@ -1839,7 +1995,8 @@
             "de": "Paseo Costa Canaria",
             "hu": "Paseo Costa Canaria",
             "ro": "Paseo Costa Canaria",
-            "en": "Paseo Costa Canaria"
+            "en": "Paseo Costa Canaria",
+            "es": "Paseo Costa Canaria"
           },
           "coords": [
             -15.57,
@@ -1854,7 +2011,8 @@
             "de": "Steigen Sie in Playa del Inglés aus.",
             "hu": "Szálljon le Playa del Inglésnél.",
             "ro": "Coborâți la Playa del Inglés.",
-            "en": "Get off at the Playa del Inglés stop."
+            "en": "Get off at the Playa del Inglés stop.",
+            "es": "Baja en la parada Playa del Inglés."
           }
         },
         {
@@ -1862,7 +2020,8 @@
             "de": "Playa de Maspalomas",
             "hu": "Maspalomas strand",
             "ro": "Plaja Maspalomas",
-            "en": "Maspalomas Beach"
+            "en": "Maspalomas Beach",
+            "es": "Playa de Maspalomas"
           },
           "coords": [
             -15.59,
@@ -1877,7 +2036,8 @@
             "de": "Der Bus 30 ist die schnellste Verbindung.",
             "hu": "A 30-as busz a leggyorsabb járat.",
             "ro": "Autobuzul 30 este cea mai rapidă legătură.",
-            "en": "Bus line 30 is the fastest connection."
+            "en": "Bus line 30 is the fastest connection.",
+            "es": "La línea 30 es la conexión más rápida."
           }
         },
         {
@@ -1885,7 +2045,8 @@
             "de": "La Charca de Maspalomas",
             "hu": "La Charca lagúna",
             "ro": "La Charca de Maspalomas",
-            "en": "La Charca Lagoon"
+            "en": "La Charca Lagoon",
+            "es": "La Charca"
           },
           "coords": [
             -15.5975,
@@ -1900,7 +2061,8 @@
             "de": "Zurück zum Busbahnhof Faro für die Heimreise.",
             "hu": "Térjen vissza a Faro buszpályaudvarra a hazautazáshoz.",
             "ro": "Reveniți la stația Faro pentru întoarcere.",
-            "en": "Return to the Faro bus station for your trip back."
+            "en": "Return to the Faro bus station for your trip back.",
+            "es": "Vuelve a la estación de autobuses Faro para el regreso."
           }
         }
       ],
@@ -1908,7 +2070,8 @@
         "de": "Nutzen Sie das ausgezeichnete Busnetz (Global), um Maspalomas stressfrei zu erkunden. Beginnen Sie am Leuchtturm, machen Sie einen Abstecher zum Holiday World und genießen Sie die Küstenatmosphäre in Playa del Inglés. Der Nachmittag gehört dem Strand, bevor Sie an der Lagune entspannen.",
         "hu": "Használja a kiváló buszhálózatot (Global), hogy stresszmentesen fedezze fel Maspalomast. Kezdje a világítótoronynál, tegyen egy kitérőt a Holiday Worldbe, és élvezze a tengerparti hangulatot Playa del Inglésben. A délutánt a strandon töltse, majd pihenjen a lagúnánál.",
         "ro": "Folosiți rețeaua excelentă de autobuze (Global) pentru a explora Maspalomas fără stres. Începeți la far, faceți o oprire la Holiday World și bucurați-vă de atmosfera de pe coastă în Playa del Inglés. După-amiaza este pentru plajă, înainte de relaxarea la lagună.",
-        "en": "Use the efficient local bus network (Global) to explore Maspalomas. Start at the lighthouse, head north to Holiday World, and enjoy the coastal vibe of Playa del Inglés. Spend your afternoon at the beach and finish with a peaceful visit to the lagoon."
+        "en": "Use the efficient local bus network (Global) to explore Maspalomas. Start at the lighthouse, head north to Holiday World, and enjoy the coastal vibe of Playa del Inglés. Spend your afternoon at the beach and finish with a peaceful visit to the lagoon.",
+        "es": "Usa la eficiente red de autobuses local (Global) para explorar Maspalomas. Comienza en el faro, dirígete al norte hasta Holiday World y disfruta del ambiente costero de Playa del Inglés. Pasa la tarde en la playa y termina con una visita tranquila a la charca."
       },
       "gastro_picks": {
         "de": [
@@ -2008,6 +2171,10 @@
         "en": [
           "Buy a travel card for discounts on fares.",
           "Buses are air-conditioned and generally on time."
+        ],
+        "es": [
+          "Compra una tarjeta de viaje para obtener descuentos en los billetes.",
+          "Los autobuses tienen aire acondicionado y suelen ser puntuales."
         ]
       },
       "variants": {
@@ -2016,7 +2183,8 @@
             "de": "Nutzen Sie das ausgezeichnete Busnetz (Global), um Maspalomas stressfrei zu erkunden. Beginnen Sie am Leuchtturm, machen Sie einen Abstecher zum Holiday World und genießen Sie die Küstenatmosphäre in Playa del Inglés. Der Nachmittag gehört dem Strand, bevor Sie an der Lagune entspannen.",
             "hu": "Használja a kiváló buszhálózatot (Global), hogy stresszmentesen fedezze fel Maspalomast. Kezdje a világítótoronynál, tegyen egy kitérőt a Holiday Worldbe, és élvezze a tengerparti hangulatot Playa del Inglésben. A délutánt a strandon töltse, majd pihenjen a lagúnánál.",
             "ro": "Folosiți rețeaua excelentă de autobuze (Global) pentru a explora Maspalomas fără stres. Începeți la far, faceți o oprire la Holiday World și bucurați-vă de atmosfera de pe coastă în Playa del Inglés. După-amiaza este pentru plajă, înainte de relaxarea la lagună.",
-            "en": "Use the efficient local bus network (Global) to explore Maspalomas. Start at the lighthouse, head north to Holiday World, and enjoy the coastal vibe of Playa del Inglés. Spend your afternoon at the beach and finish with a peaceful visit to the lagoon."
+            "en": "Use the efficient local bus network (Global) to explore Maspalomas. Start at the lighthouse, head north to Holiday World, and enjoy the coastal vibe of Playa del Inglés. Spend your afternoon at the beach and finish with a peaceful visit to the lagoon.",
+            "es": "Usa la eficiente red de autobuses local (Global) para explorar Maspalomas. Comienza en el faro, dirígete al norte hasta Holiday World y disfruta del ambiente costero de Playa del Inglés. Pasa la tarde en la playa y termina con una visita tranquila a la charca."
           },
           "stops": [
             {
@@ -2024,7 +2192,8 @@
                 "de": "Faro de Maspalomas",
                 "hu": "Világítótorony",
                 "ro": "Farul Maspalomas",
-                "en": "Maspalomas Lighthouse"
+                "en": "Maspalomas Lighthouse",
+                "es": "Faro de Maspalomas"
               },
               "tip_5lang": null
             },
@@ -2033,7 +2202,8 @@
                 "de": "Holiday World Maspalomas",
                 "hu": "Holiday World Maspalomas",
                 "ro": "Holiday World Maspalomas",
-                "en": "Holiday World Maspalomas"
+                "en": "Holiday World Maspalomas",
+                "es": "Holiday World Maspalomas"
               },
               "tip_5lang": null
             },
@@ -2042,7 +2212,8 @@
                 "de": "Paseo Costa Canaria",
                 "hu": "Paseo Costa Canaria",
                 "ro": "Paseo Costa Canaria",
-                "en": "Paseo Costa Canaria"
+                "en": "Paseo Costa Canaria",
+                "es": "Paseo Costa Canaria"
               },
               "tip_5lang": null
             },
@@ -2051,7 +2222,8 @@
                 "de": "Playa de Maspalomas",
                 "hu": "Maspalomas strand",
                 "ro": "Plaja Maspalomas",
-                "en": "Maspalomas Beach"
+                "en": "Maspalomas Beach",
+                "es": "Playa de Maspalomas"
               },
               "tip_5lang": null
             },
@@ -2060,7 +2232,8 @@
                 "de": "La Charca de Maspalomas",
                 "hu": "La Charca lagúna",
                 "ro": "La Charca de Maspalomas",
-                "en": "La Charca Lagoon"
+                "en": "La Charca Lagoon",
+                "es": "La Charca"
               },
               "tip_5lang": null
             }
@@ -2163,6 +2336,10 @@
             "en": [
               "Buy a travel card for discounts on fares.",
               "Buses are air-conditioned and generally on time."
+            ],
+            "es": [
+              "Compra una tarjeta de viaje para obtener descuentos en los billetes.",
+              "Los autobuses tienen aire acondicionado y suelen ser puntuales."
             ]
           }
         },
@@ -2171,7 +2348,8 @@
             "de": "Die Busse in Maspalomas sind bei Regen eine trockene und zuverlässige Alternative. Die Fahrt zum Faro endet direkt am überdachten Terminal.\n\nMittags erreichen Sie die Holiday World bequem mit der Linie 30. Die klimatisierten Busse bieten eine willkommene Pause vom nassen Wetter.\n\nNachmittags bringt Sie der Transit schnell zum Strand. Die großen Fenster erlauben einen tollen Blick auf die aufgewühlte Brandung.\n\nAbends ist die Rückfahrt im beleuchteten Bus sicher und trocken. Die Fahrpläne sind auch bei Regen meist pünktlich.",
             "hu": "Maspalomas buszai esőben száraz és megbízható alternatívát kínálnak. Az út a Faro-hoz közvetlenül a fedett terminálnál ér véget.\n\nDélben a 30-as vonallal kényelmesen elérheti a Holiday World-öt. A légkondicionált buszok pihenőt adnak a vizes időben.\n\nDélután a tömegközlekedés gyorsan a strandhoz viszi. A nagy ablakokon át remek kilátás nyílik a hullámzó óceánra.\n\nEste a visszautazás a kivilágított buszon biztonságos és száraz. A menetrendek esőben is többnyire pontosak.",
             "ro": "Autobuzele din Maspalomas sunt o alternativă uscată și sigură pe ploaie. Drumul spre Faro se termină direct la terminalul acoperit.\n\nLa prânz, ajungeți la Holiday World ușor cu linia 30. Autobuzele climatizate oferă o pauză binemeritată de la vremea umedă.\n\nDupă-amiaza tranzitul vă duce rapid la plajă. Ferestrele mari permit o vedere excelentă spre valurile agitate.\n\nSeara, întoarcerea cu autobuzul iluminat este sigură și uscată. Orarele sunt de obicei respectate chiar și pe ploaie.",
-            "en": "Buses in Maspalomas are a dry and reliable alternative when it rains. The trip to the lighthouse ends right at the covered terminal.\n\nAt noon, you can easily reach Holiday World with line 30. The air-conditioned buses offer a welcome break from the wet weather.\n\nIn the afternoon, transit takes you quickly to the beach. The large windows provide a great view of the churning surf.\n\nIn the evening, the return trip in an illuminated bus is safe and dry. Schedules are mostly punctual even in the rain."
+            "en": "Buses in Maspalomas are a dry and reliable alternative when it rains. The trip to the lighthouse ends right at the covered terminal.\n\nAt noon, you can easily reach Holiday World with line 30. The air-conditioned buses offer a welcome break from the wet weather.\n\nIn the afternoon, transit takes you quickly to the beach. The large windows provide a great view of the churning surf.\n\nIn the evening, the return trip in an illuminated bus is safe and dry. Schedules are mostly punctual even in the rain.",
+            "es": "Los autobuses en Maspalomas son una alternativa seca y fiable cuando llueve. El viaje hasta el faro termina justo en la terminal cubierta.\n\nA mediodía, puedes llegar fácilmente a Holiday World con la línea 30. Los autobuses con aire acondicionado son un alivio frente al mal tiempo.\n\nPor la tarde, el transporte te lleva rápidamente a la playa. Los amplios ventanales ofrecen una gran vista del mar agitado.\n\nPor la noche, el viaje de regreso en un autobús iluminado es seguro y seco. Los horarios suelen ser puntuales incluso bajo la lluvia."
           },
           "stops": [
             {
@@ -2180,7 +2358,8 @@
                 "de": "Der Busbahnhof Faro ist komplett überdacht.",
                 "hu": "A Faro buszpályaudvar teljesen fedett.",
                 "ro": "Autogara Faro este complet acoperită.",
-                "en": "The Faro bus station is completely covered."
+                "en": "The Faro bus station is completely covered.",
+                "es": "La estación de autobuses del Faro está completamente cubierta."
               }
             },
             {
@@ -2189,7 +2368,8 @@
                 "de": "Die Haltestelle ist nur wenige Meter vom Haupteingang entfernt.",
                 "hu": "A megálló csak pár méterre van a főbejárattól.",
                 "ro": "Stația este la doar câțiva metri de intrarea principală.",
-                "en": "The bus stop is just a few meters from the main entrance."
+                "en": "The bus stop is just a few meters from the main entrance.",
+                "es": "La parada de autobús está a pocos metros de la entrada principal."
               }
             },
             {
@@ -2198,7 +2378,8 @@
                 "de": "Nutzen Sie die Unterstände an der Avenida de Tirajana.",
                 "hu": "Használja az Avenida de Tirajana menti esőbeállókat.",
                 "ro": "Folosiți adăposturile de pe Avenida de Tirajana.",
-                "en": "Use the bus shelters along Avenida de Tirajana."
+                "en": "Use the bus shelters along Avenida de Tirajana.",
+                "es": "Utiliza las marquesinas de autobús a lo largo de la Avenida de Tirajana."
               }
             },
             {
@@ -2207,7 +2388,8 @@
                 "de": "Die Haltestellen nahe dem Strand haben oft Sitzbänke.",
                 "hu": "A strand közeli megállókban gyakran vannak padok.",
                 "ro": "Stațiile de lângă plajă au adesea bănci.",
-                "en": "The bus stops near the beach often have benches."
+                "en": "The bus stops near the beach often have benches.",
+                "es": "Las paradas cerca de la playa suelen tener bancos."
               }
             },
             {
@@ -2216,7 +2398,8 @@
                 "de": "Kurzer Fußweg vom Faro-Terminal zur Lagune.",
                 "hu": "Rövid séta a Faro termináltól a lagúnáig.",
                 "ro": "Plimbare scurtă de la terminalul Faro până la lagună.",
-                "en": "A short walk from the Faro terminal to the lagoon."
+                "en": "A short walk from the Faro terminal to the lagoon.",
+                "es": "La laguna está a un corto paseo desde la terminal del Faro."
               }
             }
           ],
@@ -2244,6 +2427,12 @@
               "Keep some cash handy in case card payments on the bus fail.",
               "Bus stations provide the best protection against heavy rain.",
               "Try to board at covered stops to avoid getting wet while waiting."
+            ],
+            "es": [
+              "Usa la app 'Global' para información en tiempo real en caso de retrasos.",
+              "Lleva algo de efectivo por si falla el pago con tarjeta en el autobús.",
+              "Las estaciones de autobús ofrecen la mejor protección contra la lluvia intensa.",
+              "Intenta subir en paradas cubiertas para evitar mojarte mientras esperas."
             ]
           }
         },
@@ -2252,7 +2441,8 @@
             "de": "Im Winter sind die Busse ein entspanntes Transportmittel für Touristen. Der Morgen beginnt mit einer kurzen Fahrt zum Faro-Terminal.\n\nMittags ist die Linie 30 ideal, um schnell zwischen den Attraktionen zu wechseln. Das milde Wetter macht das Warten an den Haltestellen angenehm.\n\nNachmittags am Strand ist der Transit die stressfreieste Option. Sie müssen sich keine Sorgen um volle Parkplätze machen.\n\nAbends bringen Sie die beleuchteten Busse sicher zurück zu Ihrer Unterkunft, während Sie den Ausblick auf die Abenddämmerung genießen.",
             "hu": "Télen a buszok pihentető közlekedési módot jelentenek a turistáknak. A reggel egy rövid úttal indul a Faro terminálhoz.\n\nDélben a 30-as vonal ideális a látnivalók közötti gyors váltáshoz. Az enyhe idő miatt a megállókban való várakozás is kellemes.\n\nDélután a strandnál a tömegközlekedés a legstresszmentesebb opció. Nem kell aggódnia a telített parkolók miatt.\n\nEste a kivilágított buszok biztonságban repítik vissza a szálláshoz, miközben élvezheti a szürkületi panorámát.",
             "ro": "Iarna autobuzele sunt un mijloc de transport relaxant pentru turiști. Dimineața începe cu o scurtă călătorie spre terminalul Faro.\n\nLa prânz, linia 30 este ideală pentru a schimba rapid între atracții. Vremea blândă face așteptarea în stații plăcută.\n\nDupă-amiaza la plajă tranzitul este opțiunea fără stres. Nu trebuie să vă faceți griji pentru parcările ocupate.\n\nSeara, autobuzele iluminate vă duc în siguranță înapoi la cazare, în timp ce admirați amurgul.",
-            "en": "In winter, buses are a relaxed mode of transport for tourists. Your morning starts with a quick trip to the Faro terminal.\n\nAt noon, line 30 is ideal for hopping between attractions. The mild weather makes waiting at bus stops quite pleasant.\n\nIn the afternoon, transit is the stress-free way to reach the beach. You won't have to worry about finding parking spots.\n\nIn the evening, illuminated buses carry you safely back to your stay while you enjoy the twilight views of the coast."
+            "en": "In winter, buses are a relaxed mode of transport for tourists. Your morning starts with a quick trip to the Faro terminal.\n\nAt noon, line 30 is ideal for hopping between attractions. The mild weather makes waiting at bus stops quite pleasant.\n\nIn the afternoon, transit is the stress-free way to reach the beach. You won't have to worry about finding parking spots.\n\nIn the evening, illuminated buses carry you safely back to your stay while you enjoy the twilight views of the coast.",
+            "es": "En invierno, los autobuses son un medio de transporte relajado para turistas. Tu mañana comienza con un rápido viaje a la terminal del Faro.\n\nA mediodía, la línea 30 es ideal para saltar entre atracciones. El clima templado hace que esperar en las paradas sea agradable.\n\nPor la tarde, el transporte es la forma sin estrés de llegar a la playa. No tendrás que preocuparte por buscar aparcamiento.\n\nPor la noche, los autobuses iluminados te llevan de vuelta con seguridad mientras disfrutas de las vistas crepusculares de la costa."
           },
           "stops": [
             {
@@ -2261,7 +2451,8 @@
                 "de": "Zentraler Knotenpunkt für fast alle Linien im Süden.",
                 "hu": "Központi csomópont szinte minden déli járat számára.",
                 "ro": "Nod central pentru aproape toate liniile din sud.",
-                "en": "Central hub for almost all bus lines in the south."
+                "en": "Central hub for almost all bus lines in the south.",
+                "es": "Nudo central para casi todas las líneas de autobús del sur."
               }
             },
             {
@@ -2270,7 +2461,8 @@
                 "de": "Wird von vielen Expresslinien angefahren.",
                 "hu": "Számos expressz járat érinti ezt a megállót.",
                 "ro": "Multe linii expres opresc aici.",
-                "en": "Served by many express bus lines."
+                "en": "Served by many express bus lines.",
+                "es": "Atendido por muchas líneas exprés."
               }
             },
             {
@@ -2279,7 +2471,8 @@
                 "de": "Idealer Ausstiegspunkt für einen Winterspaziergang.",
                 "hu": "Ideális leszállóhely egy téli sétához.",
                 "ro": "Punct ideal de coborâre pentru o plimbare de iarnă.",
-                "en": "Ideal drop-off point for a winter promenade walk."
+                "en": "Ideal drop-off point for a winter promenade walk.",
+                "es": "Punto ideal para bajarse y dar un paseo invernal."
               }
             },
             {
@@ -2288,7 +2481,8 @@
                 "de": "Busse verkehren hier bis spät in die Nacht.",
                 "hu": "A buszok itt késő éjszakáig közlekednek.",
                 "ro": "Autobuzele circulă aici până târziu în noapte.",
-                "en": "Buses run here until late at night."
+                "en": "Buses run here until late at night.",
+                "es": "Los autobuses circulan aquí hasta altas horas de la noche."
               }
             },
             {
@@ -2297,7 +2491,8 @@
                 "de": "Von der Haltestelle Faro sind es nur 5 Minuten zu Fuß.",
                 "hu": "A Faro megállótól mindössze 5 perc gyalog.",
                 "ro": "Sunt doar 5 minute de mers de la stația Faro.",
-                "en": "It's only a 5-minute walk from the Faro bus stop."
+                "en": "It's only a 5-minute walk from the Faro bus stop.",
+                "es": "Está a solo 5 minutos a pie desde la parada del Faro."
               }
             }
           ],
@@ -2325,6 +2520,12 @@
               "Buses can be crowded in winter, so allow extra travel time.",
               "Sit near the front for the best views during the drive.",
               "The last buses towards Playa del Inglés are often very busy."
+            ],
+            "es": [
+              "Compra una tarjeta 'Bono' para ahorrar en viajes múltiples.",
+              "Los autobuses pueden llenarse en invierno, así que deja tiempo extra para los desplazamientos.",
+              "Siéntate cerca de la parte delantera para las mejores vistas durante el trayecto.",
+              "Los últimos autobuses hacia Playa del Inglés suelen estar muy concurridos."
             ]
           }
         }
@@ -2340,19 +2541,22 @@
       "de": "Maspalomas und Playa del Inglés sind extrem deutsch geprägt, Deutsch funktioniert wirklich überall, sogar im Supermarkt. Englisch zweitwichtigste Sprache. Spanisch wirkt fast wie Fremdsprache hier.",
       "hu": "Maspalomas és Playa del Inglés rendkívül német, németül tényleg bárhol elboldogulsz, akár a szupermarketben is. Angol a második. A spanyol szinte külön nyelvnek tűnik itt.",
       "ro": "Maspalomas și Playa del Inglés sunt extrem de germanizate, germana funcționează cu adevărat oriunde, chiar și la supermarket. Engleza vine pe locul doi. Spaniola pare aproape limbă străină aici.",
-      "en": "Maspalomas and Playa del Inglés are heavily German-flavoured, German truly works everywhere, even in supermarkets. English second. Spanish almost feels like a foreign language here."
+      "en": "Maspalomas and Playa del Inglés are heavily German-flavoured, German truly works everywhere, even in supermarkets. English second. Spanish almost feels like a foreign language here.",
+      "es": "Maspalomas y Playa del Inglés tienen una fuerte presencia alemana; el alemán funciona prácticamente en todas partes, incluso en los supermercados. El inglés es lo segundo. El español casi se siente como lengua extranjera aquí."
     },
     "best_time_to_visit": {
       "de": "Ganzjährig 19-28°C, klassisches Wintersonnenziel. Hochsaison November-März und Juli-August. Mai-Juni und September-Oktober haben weniger Wind, beste Strand-Bedingungen. Karneval im Februar/März spektakulär.",
       "hu": "Egész évben 19-28°C, klasszikus téli napsütés-úti cél. Főszezon november-március és július-augusztus. Május-június és szeptember-október kevésbé szeles, legjobb strandidő. Február-márciusi karnevál látványos.",
       "ro": "Tot anul 19-28°C, destinație clasică de soare de iarnă. Sezon principal noiembrie-martie și iulie-august. Mai-iunie și septembrie-octombrie au mai puțin vânt, plaje optime. Carnaval în februarie-martie spectaculos.",
-      "en": "Year-round 19-28°C, the classic winter-sun spot. Peak season November-March and July-August. May-June and September-October have less wind, best beach conditions. February-March carnival is spectacular."
+      "en": "Year-round 19-28°C, the classic winter-sun spot. Peak season November-March and July-August. May-June and September-October have less wind, best beach conditions. February-March carnival is spectacular.",
+      "es": "Año entero 19-28°C, el clásico destino de sol invernal. Temporada alta noviembre-marzo y julio-agosto. Mayo-junio y septiembre-octubre tienen menos viento, mejores condiciones de playa. El carnaval de febrero-marzo es espectacular."
     },
     "neighborhood_warnings": {
       "de": "Sicher, aber Playa del Inglés Nachtleben kann ruppig sein, Yumbo Center Taschendiebe. Dünen sind Naturschutzgebiet, NICHT übernachten, hohe Bußgelder. FKK- und Schwulen-Bereiche klar markiert, respektieren.",
       "hu": "Biztonságos, de a Playa del Inglés éjszakai élete durva lehet, Yumbo Centerben zsebtolvajok. A dűnék védettek, NE alvj ott, magas a bírság. Naturista és meleg részek kijelölve, tartsd tiszteletben.",
       "ro": "Sigur, dar viața de noapte din Playa del Inglés poate fi dură, hoți la Yumbo Center. Dunele sunt rezervație, NU dormi acolo, amenzi mari. Zonele naturist și gay sunt marcate clar, respectă-le.",
-      "en": "Safe, but Playa del Inglés nightlife can get rough, pickpockets at Yumbo Center. The dunes are a protected reserve - do NOT sleep there, fines are heavy. Nudist and gay zones are clearly marked, please respect them."
+      "en": "Safe, but Playa del Inglés nightlife can get rough, pickpockets at Yumbo Center. The dunes are a protected reserve - do NOT sleep there, fines are heavy. Nudist and gay zones are clearly marked, please respect them.",
+      "es": "Seguro, pero la vida nocturna de Playa del Inglés puede volverse dura; hay carteristas en Yumbo Center. Las dunas son una reserva protegida: NO duermas allí, las multas son elevadas. Las zonas nudista y gay están claramente señalizadas; por favor, respétalas."
     }
   }
 }

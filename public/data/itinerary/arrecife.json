@@ -31,7 +31,8 @@
             "de": "Frühstücken Sie in einer der Bars am Wasser.",
             "hu": "Reggelizz az egyik vízparti bárban.",
             "ro": "Luați micul dejun la unul dintre barurile de pe mal.",
-            "en": "Have breakfast at one of the waterfront bars."
+            "en": "Have breakfast at one of the waterfront bars.",
+            "es": "Desayune en uno de los bares junto al mar."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Bewundern Sie die Decke im Mudéjar-Stil.",
             "hu": "Csodáld meg a mudéjar stílusú mennyezetet.",
             "ro": "Admirați tavanul în stil mudéjar.",
-            "en": "Admire the Mudéjar-style ceiling."
+            "en": "Admire the Mudéjar-style ceiling.",
+            "es": "Admire el techo de estilo mudéjar."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Besuchen Sie die wechselnden Fotoausstellungen.",
             "hu": "Nézd meg az időszaki fotókiállításokat.",
             "ro": "Vizitați expozițiile temporare de fotografie.",
-            "en": "Visit the temporary photography exhibitions."
+            "en": "Visit the temporary photography exhibitions.",
+            "es": "Visite las exposiciones temporales de fotografía."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Gehen Sie über die Puente de las Bolas.",
             "hu": "Sétálj át a Puente de las Bolas hídon.",
             "ro": "Treceți peste Puente de las Bolas.",
-            "en": "Walk across the Puente de las Bolas."
+            "en": "Walk across the Puente de las Bolas.",
+            "es": "Crucé el Puente de las Bolas."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Perfekter Ort für eine kurze Pause im Schatten.",
             "hu": "Tökéletes hely egy rövid árnyékos pihenőhöz.",
             "ro": "Loc perfect pentru o scurtă pauză la umbră.",
-            "en": "Perfect spot for a short break in the shade."
+            "en": "Perfect spot for a short break in the shade.",
+            "es": "Lugar perfecto para un breve descanso a la sombra."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Genießen Sie das ruhige Wasser der Bucht.",
             "hu": "Élvezd az öböl nyugodt vizét.",
             "ro": "Bucurați-vă de apele liniștite ale golfului.",
-            "en": "Enjoy the calm waters of the bay."
+            "en": "Enjoy the calm waters of the bay.",
+            "es": "Disfruta de las aguas tranquilas de la bahía."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Beginnen Sie Ihren Tag am malerischen Charco de San Ginés, der Seele der Stadt. Besuchen Sie die nahegelegene Kirche und das Kulturzentrum Casa Amarilla im alten Rathaus. Am Mittag spazieren Sie über die historische Brücke zur Festung San Gabriel, umringt vom Ozean. Den Nachmittag verbringen Sie entspannt am Stadtstrand Playa del Reducto, bevor der Abend in den Gassen der Altstadt ausklingt.",
         "hu": "Kezdje a napot a festői Charco de San Ginésnél, a város szívében. Látogasson el a közeli templomba és a Casa Amarilla kulturális központba. Délben sétáljon át a történelmi hídon a San Gabriel erődhöz, amelyet az óceán vesz körül. A délutánt töltse pihenéssel a Playa del Reducto városi strandon, mielőtt az este az óváros szűk utcáiban érne véget.",
         "ro": "Începeți ziua la pitorescul Charco de San Ginés, sufletul orașului. Vizitați biserica din apropiere și centrul cultural Casa Amarilla. La prânz, plimbați-vă pe podul istoric către fortăreața San Gabriel, înconjurată de ocean. Petreceți după-amiaza relaxându-vă pe plaja orașului Playa del Reducto, înainte ca seara să se încheie pe străduțele centrului vechi.",
-        "en": "Start your day at the picturesque Charco de San Ginés, the soul of the city. Visit the nearby church and the Casa Amarilla cultural center. At noon, stroll across the historic bridge to the San Gabriel fortress, surrounded by the ocean. Spend the afternoon relaxing at the Playa del Reducto city beach before the evening winds down in the narrow streets of the old town."
+        "en": "Start your day at the picturesque Charco de San Ginés, the soul of the city. Visit the nearby church and the Casa Amarilla cultural center. At noon, stroll across the historic bridge to the San Gabriel fortress, surrounded by the ocean. Spend the afternoon relaxing at the Playa del Reducto city beach before the evening winds down in the narrow streets of the old town.",
+        "es": "Comienza el día en el pintoresco Charco de San Ginés, el alma de la ciudad. Visita la iglesia cercana y el centro cultural Casa Amarilla. Al mediodía, pasea por el puente histórico hasta el castillo de San Gabriel, rodeado por el mar. Pasa la tarde relajándote en la Playa del Reducto antes de que la noche baje por las estrechas calles del casco antiguo."
       },
       "gastro_picks": {
         "de": [
@@ -233,6 +240,11 @@
           "Arrecife is very windy, bring a light jacket.",
           "Most museums are closed on Mondays.",
           "Parking is difficult in the center, use the underground parking near the park."
+        ],
+        "es": [
+          "En Arrecife suele hacer mucho viento; lleva una chaqueta ligera.",
+          "La mayoría de los museos están cerrados los lunes.",
+          "Aparcar en el centro es difícil; usa el parking subterráneo junto al parque."
         ]
       },
       "variants": {
@@ -241,7 +253,8 @@
             "de": "Beginnen Sie Ihren Tag am malerischen Charco de San Ginés, der Seele der Stadt. Besuchen Sie die nahegelegene Kirche und das Kulturzentrum Casa Amarilla im alten Rathaus. Am Mittag spazieren Sie über die historische Brücke zur Festung San Gabriel, umringt vom Ozean. Den Nachmittag verbringen Sie entspannt am Stadtstrand Playa del Reducto, bevor der Abend in den Gassen der Altstadt ausklingt.",
             "hu": "Kezdje a napot a festői Charco de San Ginésnél, a város szívében. Látogasson el a közeli templomba és a Casa Amarilla kulturális központba. Délben sétáljon át a történelmi hídon a San Gabriel erődhöz, amelyet az óceán vesz körül. A délutánt töltse pihenéssel a Playa del Reducto városi strandon, mielőtt az este az óváros szűk utcáiban érne véget.",
             "ro": "Începeți ziua la pitorescul Charco de San Ginés, sufletul orașului. Vizitați biserica din apropiere și centrul cultural Casa Amarilla. La prânz, plimbați-vă pe podul istoric către fortăreața San Gabriel, înconjurată de ocean. Petreceți după-amiaza relaxându-vă pe plaja orașului Playa del Reducto, înainte ca seara să se încheie pe străduțele centrului vechi.",
-            "en": "Start your day at the picturesque Charco de San Ginés, the soul of the city. Visit the nearby church and the Casa Amarilla cultural center. At noon, stroll across the historic bridge to the San Gabriel fortress, surrounded by the ocean. Spend the afternoon relaxing at the Playa del Reducto city beach before the evening winds down in the narrow streets of the old town."
+            "en": "Start your day at the picturesque Charco de San Ginés, the soul of the city. Visit the nearby church and the Casa Amarilla cultural center. At noon, stroll across the historic bridge to the San Gabriel fortress, surrounded by the ocean. Spend the afternoon relaxing at the Playa del Reducto city beach before the evening winds down in the narrow streets of the old town.",
+            "es": "Comienza el día en el pintoresco Charco de San Ginés, el alma de la ciudad. Visita la iglesia cercana y el centro cultural Casa Amarilla. Al mediodía, pasea por el puente histórico hasta el castillo de San Gabriel, rodeado por el mar. Pasa la tarde relajándote en la Playa del Reducto antes de que la noche baje por las estrechas calles del casco antiguo."
           },
           "stops": [
             {
@@ -250,7 +263,8 @@
                 "de": "Frühstücken Sie in einer der Bars am Wasser.",
                 "hu": "Reggelizz az egyik vízparti bárban.",
                 "ro": "Luați micul dejun la unul dintre barurile de pe mal.",
-                "en": "Have breakfast at one of the waterfront bars."
+                "en": "Have breakfast at one of the waterfront bars.",
+                "es": "Desayuna en uno de los bares frente al mar."
               }
             },
             {
@@ -259,7 +273,8 @@
                 "de": "Bewundern Sie die Decke im Mudéjar-Stil.",
                 "hu": "Csodáld meg a mudéjar stílusú mennyezetet.",
                 "ro": "Admirați tavanul în stil mudéjar.",
-                "en": "Admire the Mudéjar-style ceiling."
+                "en": "Admire the Mudéjar-style ceiling.",
+                "es": "Admira el techo de estilo mudéjar."
               }
             },
             {
@@ -268,7 +283,8 @@
                 "de": "Besuchen Sie die wechselnden Fotoausstellungen.",
                 "hu": "Nézd meg az időszaki fotókiállításokat.",
                 "ro": "Vizitați expozițiile temporare de fotografie.",
-                "en": "Visit the temporary photography exhibitions."
+                "en": "Visit the temporary photography exhibitions.",
+                "es": "Visita las exposiciones temporales de fotografía."
               }
             },
             {
@@ -277,7 +293,8 @@
                 "de": "Gehen Sie über die Puente de las Bolas.",
                 "hu": "Sétálj át a Puente de las Bolas hídon.",
                 "ro": "Treceți peste Puente de las Bolas.",
-                "en": "Walk across the Puente de las Bolas."
+                "en": "Walk across the Puente de las Bolas.",
+                "es": "Cruza el Puente de las Bolas."
               }
             },
             {
@@ -286,7 +303,8 @@
                 "de": "Perfekter Ort für eine kurze Pause im Schatten.",
                 "hu": "Tökéletes hely egy rövid árnyékos pihenőhöz.",
                 "ro": "Loc perfect pentru o scurtă pauză la umbră.",
-                "en": "Perfect spot for a short break in the shade."
+                "en": "Perfect spot for a short break in the shade.",
+                "es": "Lugar perfecto para un breve descanso a la sombra."
               }
             },
             {
@@ -295,7 +313,8 @@
                 "de": "Genießen Sie das ruhige Wasser der Bucht.",
                 "hu": "Élvezd az öböl nyugodt vizét.",
                 "ro": "Bucurați-vă de apele liniștite ale golfului.",
-                "en": "Enjoy the calm waters of the bay."
+                "en": "Enjoy the calm waters of the bay.",
+                "es": "Disfruta de las aguas tranquilas de la bahía."
               }
             }
           ],
@@ -401,6 +420,11 @@
               "Arrecife is very windy, bring a light jacket.",
               "Most museums are closed on Mondays.",
               "Parking is difficult in the center, use the underground parking near the park."
+            ],
+            "es": [
+              "En Arrecife suele hacer mucho viento; lleva una chaqueta ligera.",
+              "La mayoría de los museos están cerrados los lunes.",
+              "Aparcar en el centro es difícil; usa el parking subterráneo junto al parque."
             ]
           }
         },
@@ -409,7 +433,8 @@
             "de": "Morgens am Charco de San Ginés suchen wir Schutz in den Cafés. Mittags bieten die Iglesia und die Casa Amarilla trockene Kulturmomente. Nachmittags erkunden wir das Castillo de San Gabriel, bevor wir den Tag windgeschützt in der Nähe des Parque Islas Canarias ausklingen lassen. Abends genießen wir die Atmosphäre in den überdachten Arkaden der Innenstadt.",
             "hu": "Reggel a Charco de San Ginés menti kávézók fedezékében kezdünk. Délben az Iglesia és a Casa Amarilla nyújt száraz kulturális élményt. Délután a Castillo de San Gabriel bástyái között kalandozunk, majd a szél elől behúzódunk a Parque Islas Canarias környékére. Az estét a belváros fedett árkádjai alatt, a tenger sós illatát élvezve zárjuk.",
             "ro": "Dimineața căutăm adăpost în cafenelele de lângă Charco de San Ginés. La prânz, Iglesia și Casa Amarilla oferă momente culturale ferite de ploaie. După-amiaza explorăm Castillo de San Gabriel, apoi ne retragem lângă Parque Islas Canarias. Seara ne bucurăm de atmosferă sub arcadele acoperite din centrul orașului, ascultând ritmul ploii pe ocean.",
-            "en": "In the morning, we seek shelter in the cafes by Charco de San Ginés. At noon, the Iglesia and Casa Amarilla offer dry cultural escapes. In the afternoon, we explore Castillo de San Gabriel before finding cover near Parque Islas Canarias. We end the evening under the covered arcades of the city center, enjoying the refreshing island rain."
+            "en": "In the morning, we seek shelter in the cafes by Charco de San Ginés. At noon, the Iglesia and Casa Amarilla offer dry cultural escapes. In the afternoon, we explore Castillo de San Gabriel before finding cover near Parque Islas Canarias. We end the evening under the covered arcades of the city center, enjoying the refreshing island rain.",
+            "es": "Por la mañana nos refugiamos en las cafeterías junto al Charco de San Ginés. Al mediodía, la Iglesia y la Casa Amarilla ofrecen escapadas culturales secas. Por la tarde exploramos el Castillo de San Gabriel antes de buscar cobijo cerca del Parque Islas Canarias. Terminamos la noche bajo los soportales del centro, disfrutando de la refrescante lluvia isleña."
           },
           "stops": [
             {
@@ -418,7 +443,8 @@
                 "de": "Wählen Sie ein Café mit Markise am Ufer.",
                 "hu": "Válassz egy ponyvás teraszú kávézót a parton.",
                 "ro": "Alegeți o cafenea cu terasă acoperită pe mal.",
-                "en": "Choose a cafe with a canopy along the shore."
+                "en": "Choose a cafe with a canopy along the shore.",
+                "es": "Elige una cafetería con toldo junto al mar."
               }
             },
             {
@@ -427,7 +453,8 @@
                 "de": "Idealer Ort, um einen heftigen Schauer abzuwarten.",
                 "hu": "Ideális hely egy hirtelen zápor átvészelésére.",
                 "ro": "Locul ideal pentru a aștepta trecerea unei averse.",
-                "en": "Ideal place to wait out a sudden downpour."
+                "en": "Ideal place to wait out a sudden downpour.",
+                "es": "Lugar ideal para esperar a que pase un chaparrón repentino."
               }
             },
             {
@@ -436,7 +463,8 @@
                 "de": "Genießen Sie die Ausstellungen im trockenen Innenraum.",
                 "hu": "Élvezd a kiállításokat a száraz belső térben.",
                 "ro": "Bucurați-vă de expoziții în interiorul uscat.",
-                "en": "Enjoy the exhibitions in the dry interior."
+                "en": "Enjoy the exhibitions in the dry interior.",
+                "es": "Disfruta de las exposiciones en el interior, a resguardo."
               }
             },
             {
@@ -445,7 +473,8 @@
                 "de": "Der Steinboden auf der Brücke kann rutschig sein.",
                 "hu": "A kőburkolat a hídon csúszós lehet esőben.",
                 "ro": "Podeaua de piatră de pe pod poate fi alunecoasă.",
-                "en": "The stone floor on the bridge can be slippery."
+                "en": "The stone floor on the bridge can be slippery.",
+                "es": "El suelo de piedra del puente puede estar resbaladizo."
               }
             },
             {
@@ -454,7 +483,8 @@
                 "de": "Unter den Bäumen oder Arkaden finden Sie Schutz.",
                 "hu": "A fák vagy az árkádok alatt keress menedéket.",
                 "ro": "Găsiți adăpost sub copaci sau sub arcade.",
-                "en": "Find shelter under the trees or the nearby arcades."
+                "en": "Find shelter under the trees or the nearby arcades.",
+                "es": "Refúgiate bajo los árboles o en los soportales cercanos."
               }
             },
             {
@@ -463,7 +493,8 @@
                 "de": "Das Meer ist bei Regen besonders dramatisch.",
                 "hu": "A tenger esőben különösen látványos és drámai.",
                 "ro": "Marea este deosebit de dramatică pe ploaie.",
-                "en": "The sea looks especially dramatic during the rain."
+                "en": "The sea looks especially dramatic during the rain.",
+                "es": "El mar tiene un aspecto especialmente dramático durante la lluvia."
               }
             }
           ],
@@ -495,6 +526,13 @@
               "Be careful on the paved paths near Charco; they get slippery.",
               "Wear a light raincoat to block the damp sea breeze.",
               "Harborside cafes provide cozy and dry vantage points."
+            ],
+            "es": [
+              "La lluvia en Lanzarote es rara y suele ser muy breve.",
+              "Usa la Casa Amarilla como retiro cultural durante los chaparrones.",
+              "Ten cuidado en los caminos empedrados cerca del Charco; se vuelven resbaladizos.",
+              "Lleva un chubasquero ligero para bloquear la humedad marina.",
+              "Las cafeterías junto al puerto ofrecen puntos acogedores y secos con buenas vistas."
             ]
           }
         },
@@ -503,7 +541,8 @@
             "de": "Der Wintermorgen am Charco ist mild und erfrischend. Mittags leuchtet die Stadt unter der sanften Januarsonne, perfekt für Museumsbesuche. Nachmittags weht eine kühle Brise am Castillo, während der Sonnenuntergang gegen 18 Uhr den Strand in goldenes Licht taucht. Abends genießen wir die festliche Beleuchtung in den Gassen von Arrecife.",
             "hu": "A téli reggel a Charco-nál enyhe és frissítő. Délben a város a szelíd januári napsütésben ragyog, ideális a múzeumlátogatáshoz. Délután hűvös szél fúj a Castillo-nál, a 18 óra körüli naplemente pedig aranyba öltözteti a strandot. Az estét Arrecife ünnepi fényeiben és a hangulatos tengerparti sétányon zárjuk.",
             "ro": "Dimineața de iarnă la Charco este blândă și revigorantă. La prânz, orașul strălucește sub soarele blând de ianuarie, perfect pentru muzee. După-amiaza aduce o briză răcoroasă la Castillo, iar apusul de la ora 18 scaldă plaja în lumină aurie. Seara ne bucurăm de luminile festive de pe străzile din Arrecife.",
-            "en": "The winter morning at Charco is mild and refreshing. At noon, the city glows under the gentle January sun, perfect for museum visits. The afternoon brings a cool breeze at the Castillo, while the 6 PM sunset bathes the beach in golden light. We end the evening enjoying the festive atmosphere in Arrecife's narrow streets."
+            "en": "The winter morning at Charco is mild and refreshing. At noon, the city glows under the gentle January sun, perfect for museum visits. The afternoon brings a cool breeze at the Castillo, while the 6 PM sunset bathes the beach in golden light. We end the evening enjoying the festive atmosphere in Arrecife's narrow streets.",
+            "es": "La mañana invernal en el Charco es suave y refrescante. Al mediodía, la ciudad brilla bajo el suave sol de enero, perfecto para visitar museos. Por la tarde sopla una brisa fresca en el Castillo, mientras que el atardecer de las 18:00 baña la playa con luz dorada. Terminamos la noche disfrutando del ambiente festivo en las calles estrechas de Arrecife."
           },
           "stops": [
             {
@@ -512,7 +551,8 @@
                 "de": "Genießen Sie das sanfte Licht am Morgen.",
                 "hu": "Élvezd a reggeli napfény lágy csillogását.",
                 "ro": "Bucurați-vă de lumina blândă a dimineții.",
-                "en": "Enjoy the gentle morning light on the water."
+                "en": "Enjoy the gentle morning light on the water.",
+                "es": "Disfruta de la suave luz matinal sobre el agua."
               }
             },
             {
@@ -521,7 +561,8 @@
                 "de": "Ein ruhiger Rückzugsort vor dem Winterwind.",
                 "hu": "Csendes menedék a hűvös téli szél elől.",
                 "ro": "Un refugiu liniștit împotriva vântului de iarnă.",
-                "en": "A quiet retreat from the cool winter wind."
+                "en": "A quiet retreat from the cool winter wind.",
+                "es": "Un retiro tranquilo del fresco viento invernal."
               }
             },
             {
@@ -530,7 +571,8 @@
                 "de": "Perfekt für die Mittagshitze, auch im Winter.",
                 "hu": "Tökéletes pihenő a téli délutáni napsütésben.",
                 "ro": "Perfect pentru soarele de la prânz, chiar și iarna.",
-                "en": "Perfect for the midday sun, even in winter."
+                "en": "Perfect for the midday sun, even in winter.",
+                "es": "Perfecto para el sol del mediodía, incluso en invierno."
               }
             },
             {
@@ -539,7 +581,8 @@
                 "de": "Ziehen Sie eine Jacke für den windigen Damm an.",
                 "hu": "Vegyél fel egy kabátot a szeles gáton.",
                 "ro": "Luați o jachetă pentru digul vântos.",
-                "en": "Wear a jacket for the windy causeway."
+                "en": "Wear a jacket for the windy causeway.",
+                "es": "Lleva una chaqueta por el viento en el paso elevado."
               }
             },
             {
@@ -548,7 +591,8 @@
                 "de": "Ideal, um die milde Wintersonne zu tanken.",
                 "hu": "Ideális hely a téli napsütés élvezetére.",
                 "ro": "Ideal pentru a vă bucura de soarele blând de iarnă.",
-                "en": "Ideal for soaking up the mild winter sun."
+                "en": "Ideal for soaking up the mild winter sun.",
+                "es": "Ideal para tomar el suave sol invernal."
               }
             },
             {
@@ -557,7 +601,8 @@
                 "de": "Beobachten Sie den frühen Sonnenuntergang um 18 Uhr.",
                 "hu": "Nézd meg a korai naplementét 18 óra körül.",
                 "ro": "Urmăriți apusul timpuriu în jurul orei 18.",
-                "en": "Watch the early sunset around 6 PM."
+                "en": "Watch the early sunset around 6 PM.",
+                "es": "Observa el atardecer temprano, alrededor de las 18:00."
               }
             }
           ],
@@ -589,6 +634,13 @@
               "The Alisios wind can feel quite cool in the shade.",
               "Layered clothing is highly recommended for the day.",
               "The sea temperature stays around 18-19 degrees."
+            ],
+            "es": [
+              "El invierno en Lanzarote se asemeja a una eterna primavera.",
+              "El atardecer ocurre temprano, alrededor de las 18:00.",
+              "El viento alisio puede sentirse bastante fresco en la sombra.",
+              "Se recomienda llevar ropa en capas durante el día.",
+              "La temperatura del mar se mantiene alrededor de 18-19 grados."
             ]
           }
         }
@@ -617,7 +669,8 @@
             "de": "Genießen Sie den Blick auf den Hafen von Naos.",
             "hu": "Élvezd a kilátást a Puerto de los Mármolesre.",
             "ro": "Bucurați-vă de vederea spre portul Naos.",
-            "en": "Enjoy the view of Naos harbor."
+            "en": "Enjoy the view of Naos harbor.",
+            "es": "Disfruta de la vista del puerto de Naos."
           }
         },
         {
@@ -635,7 +688,8 @@
             "de": "Parken Sie das Rad sicher am Eingang zum Charco.",
             "hu": "Zárd le a biciklit a Charco bejáratánál.",
             "ro": "Parcați bicicleta în siguranță la intrarea în Charco.",
-            "en": "Park your bike securely at the Charco entrance."
+            "en": "Park your bike securely at the Charco entrance.",
+            "es": "Asegura bien tu bici en la entrada del Charco."
           }
         },
         {
@@ -653,7 +707,8 @@
             "de": "Fahren Sie vorsichtig über die gepflasterte Brücke.",
             "hu": "Óvatosan tekerj át a macskaköves hídon.",
             "ro": "Mergeți cu atenție pe podul pavat.",
-            "en": "Ride carefully across the cobbled bridge."
+            "en": "Ride carefully across the cobbled bridge.",
+            "es": "Cruza con cuidado el puente empedrado."
           }
         },
         {
@@ -671,7 +726,8 @@
             "de": "Die Promenade führt direkt am Strand entlang.",
             "hu": "A sétány közvetlenül a strand mellett fut.",
             "ro": "Promenada trece chiar pe lângă plajă.",
-            "en": "The promenade runs right alongside the beach."
+            "en": "The promenade runs right alongside the beach.",
+            "es": "El paseo marítimo discurre justo al lado de la playa."
           }
         },
         {
@@ -689,7 +745,8 @@
             "de": "Ideal für ein Eis zum Abschluss der Tour.",
             "hu": "Ideális egy fagyira a túra végén.",
             "ro": "Ideal pentru o înghețată la finalul turului.",
-            "en": "Ideal for an ice cream at the end of the tour."
+            "en": "Ideal for an ice cream at the end of the tour.",
+            "es": "Ideal para un helado al final del recorrido."
           }
         }
       ],
@@ -697,7 +754,8 @@
         "de": "Diese Radtour verbindet die beiden Festungen der Stadt über die Uferpromenade. Beginnen Sie im Norden am MIAC (San José) und radeln Sie am Hafen vorbei zum Charco. Nach einer Pause geht es weiter zur Seefestung San Gabriel und schließlich zum Reducto-Strand, wo der Radweg flach und breit ist.",
         "hu": "Ez a kerékpáros túra a város két erődjét köti össze a tengerparti sétányon keresztül. Kezdjen északon a MIAC-nál (San José), majd tekerjen el a kikötő mellett a Charcóhoz. Egy pihenő után folytassa útját a San Gabriel tengeri erődhöz, végül a Reducto strandhoz.",
         "ro": "Acest tur cu bicicleta leagă cele două fortărețe ale orașului prin faleză. Începeți în nord la MIAC (San José) și pedalați pe lângă port spre Charco. După o pauză, continuați spre fortăreața San Gabriel și în final spre plaja Reducto.",
-        "en": "This bike tour connects the city's two fortresses via the waterfront promenade. Start in the north at MIAC (San José) and cycle past the harbor to the Charco. After a break, continue to the San Gabriel sea fortress and finally to Reducto beach."
+        "en": "This bike tour connects the city's two fortresses via the waterfront promenade. Start in the north at MIAC (San José) and cycle past the harbor to the Charco. After a break, continue to the San Gabriel sea fortress and finally to Reducto beach.",
+        "es": "Este recorrido en bici conecta las dos fortalezas de la ciudad por el paseo marítimo. Empieza al norte en el MIAC (San José) y pedalea junto al puerto hasta el Charco. Tras una pausa, continúa hasta la fortaleza marina de San Gabriel y, finalmente, hasta la playa del Reducto."
       },
       "gastro_picks": {
         "de": [
@@ -801,6 +859,11 @@
           "Use the marked bike paths on the promenade.",
           "On windy days, riding north is more strenuous.",
           "Take plenty of water with you."
+        ],
+        "es": [
+          "Utiliza los carriles bici señalizados en el paseo.",
+          "Los días ventosos, pedalear hacia el norte es más exigente.",
+          "Lleva abundante agua."
         ]
       },
       "variants": {
@@ -809,7 +872,8 @@
             "de": "Diese Radtour verbindet die beiden Festungen der Stadt über die Uferpromenade. Beginnen Sie im Norden am MIAC (San José) und radeln Sie am Hafen vorbei zum Charco. Nach einer Pause geht es weiter zur Seefestung San Gabriel und schließlich zum Reducto-Strand, wo der Radweg flach und breit ist.",
             "hu": "Ez a kerékpáros túra a város két erődjét köti össze a tengerparti sétányon keresztül. Kezdjen északon a MIAC-nál (San José), majd tekerjen el a kikötő mellett a Charcóhoz. Egy pihenő után folytassa útját a San Gabriel tengeri erődhöz, végül a Reducto strandhoz.",
             "ro": "Acest tur cu bicicleta leagă cele două fortărețe ale orașului prin faleză. Începeți în nord la MIAC (San José) și pedalați pe lângă port spre Charco. După o pauză, continuați spre fortăreața San Gabriel și în final spre plaja Reducto.",
-            "en": "This bike tour connects the city's two fortresses via the waterfront promenade. Start in the north at MIAC (San José) and cycle past the harbor to the Charco. After a break, continue to the San Gabriel sea fortress and finally to Reducto beach."
+            "en": "This bike tour connects the city's two fortresses via the waterfront promenade. Start in the north at MIAC (San José) and cycle past the harbor to the Charco. After a break, continue to the San Gabriel sea fortress and finally to Reducto beach.",
+            "es": "Este recorrido en bici conecta las dos fortalezas de la ciudad por el paseo marítimo. Empieza al norte en el MIAC (San José) y pedalea junto al puerto hasta el Charco. Tras una pausa, continúa hasta la fortaleza marina de San Gabriel y, finalmente, hasta la playa del Reducto."
           },
           "stops": [
             {
@@ -818,7 +882,8 @@
                 "de": "Genießen Sie den Blick auf den Hafen von Naos.",
                 "hu": "Élvezd a kilátást a Puerto de los Mármolesre.",
                 "ro": "Bucurați-vă de vederea spre portul Naos.",
-                "en": "Enjoy the view of Naos harbor."
+                "en": "Enjoy the view of Naos harbor.",
+                "es": "Disfruta de la vista del puerto de Naos."
               }
             },
             {
@@ -827,7 +892,8 @@
                 "de": "Parken Sie das Rad sicher am Eingang zum Charco.",
                 "hu": "Zárd le a biciklit a Charco bejáratánál.",
                 "ro": "Parcați bicicleta în siguranță la intrarea în Charco.",
-                "en": "Park your bike securely at the Charco entrance."
+                "en": "Park your bike securely at the Charco entrance.",
+                "es": "Asegura bien tu bici en la entrada del Charco."
               }
             },
             {
@@ -836,7 +902,8 @@
                 "de": "Fahren Sie vorsichtig über die gepflasterte Brücke.",
                 "hu": "Óvatosan tekerj át a macskaköves hídon.",
                 "ro": "Mergeți cu atenție pe podul pavat.",
-                "en": "Ride carefully across the cobbled bridge."
+                "en": "Ride carefully across the cobbled bridge.",
+                "es": "Cruza con cuidado el puente empedrado."
               }
             },
             {
@@ -845,7 +912,8 @@
                 "de": "Die Promenade führt direkt am Strand entlang.",
                 "hu": "A sétány közvetlenül a strand mellett fut.",
                 "ro": "Promenada trece chiar pe lângă plajă.",
-                "en": "The promenade runs right alongside the beach."
+                "en": "The promenade runs right alongside the beach.",
+                "es": "El paseo marítimo discurre justo al lado de la playa."
               }
             },
             {
@@ -854,7 +922,8 @@
                 "de": "Ideal für ein Eis zum Abschluss der Tour.",
                 "hu": "Ideális egy fagyira a túra végén.",
                 "ro": "Ideal pentru o înghețată la finalul turului.",
-                "en": "Ideal for an ice cream at the end of the tour."
+                "en": "Ideal for an ice cream at the end of the tour.",
+                "es": "Ideal para un helado al final del recorrido."
               }
             }
           ],
@@ -960,6 +1029,11 @@
               "Use the marked bike paths on the promenade.",
               "On windy days, riding north is more strenuous.",
               "Take plenty of water with you."
+            ],
+            "es": [
+              "Utiliza los carriles bici señalizados en el paseo.",
+              "Los días ventosos, pedalear hacia el norte es más exigente.",
+              "Lleva abundante agua."
             ]
           }
         },
@@ -968,7 +1042,8 @@
             "de": "Wir starten am Castillo de San José und nutzen die Küstenstraße. Mittags bietet der Charco de San Ginés Schutz, während wir die Räder sicher abstellen. Nachmittags fahren wir vorsichtig zum Castillo de San Gabriel und beenden die Tour windgeschützt am Playa del Reducto. Abends wärmen wir uns in den Cafés am Parque Islas Canarias auf.",
             "hu": "A Castillo de San José-tól indulunk a parti úton. Délben a Charco de San Ginés ad menedéket, ahol biztonságban lezárhatjuk a gépeket. Délután óvatosan tekerünk a Castillo de San Gabriel felé, majd a Playa del Reducto szélvédett részén zárunk. Este a Parque Islas Canarias kávézóiban melegszünk fel.",
             "ro": "Pornim de la Castillo de San José pe drumul de coastă. La prânz, Charco de San Ginés oferă adăpost pentru noi și biciclete. După-amiaza pedalăm cu atenție spre Castillo de San Gabriel și încheiem la Playa del Reducto. Seara ne încălzim în cafenelele de lângă Parque Islas Canarias.",
-            "en": "We start at Castillo de San José using the coastal path. At noon, Charco de San Ginés offers shelter where we can safely park the bikes. In the afternoon, we cycle carefully to Castillo de San Gabriel and finish at Playa del Reducto. In the evening, we warm up in the cafes near Parque Islas Canarias."
+            "en": "We start at Castillo de San José using the coastal path. At noon, Charco de San Ginés offers shelter where we can safely park the bikes. In the afternoon, we cycle carefully to Castillo de San Gabriel and finish at Playa del Reducto. In the evening, we warm up in the cafes near Parque Islas Canarias.",
+            "es": "Comenzamos en el Castillo de San José usando el camino costero. Al mediodía, el Charco de San Ginés ofrece refugio donde podemos aparcar las bicis con seguridad. Por la tarde, pedaleamos con cuidado hasta el Castillo de San Gabriel y finalizamos en la Playa del Reducto. Por la noche, nos calentamos en las cafeterías cerca del Parque Islas Canarias."
           },
           "stops": [
             {
@@ -977,7 +1052,8 @@
                 "de": "Parken Sie die Räder im überdachten Bereich.",
                 "hu": "Parkold a bicikliket a fedett területen.",
                 "ro": "Parcați bicicletele în zona acoperită.",
-                "en": "Park your bikes in the covered area of the museum."
+                "en": "Park your bikes in the covered area of the museum.",
+                "es": "Aparca tus bicis en la zona cubierta del museo."
               }
             },
             {
@@ -986,7 +1062,8 @@
                 "de": "Vorsicht bei nassen Holzteilen am Hafenbecken.",
                 "hu": "Vigyázz a vizes fafelületeken a kikötőnél.",
                 "ro": "Atenție la porțiunile de lemn ude de lângă bazin.",
-                "en": "Watch out for wet wooden decks near the basin."
+                "en": "Watch out for wet wooden decks near the basin.",
+                "es": "Cuidado con las tarimas de madera mojadas cerca del vaso."
               }
             },
             {
@@ -995,7 +1072,8 @@
                 "de": "Fahren Sie langsam über die nasse Steinbrücke.",
                 "hu": "Hajts lassan a vizes kőhídon.",
                 "ro": "Mergeți încet pe podul de piatră ud.",
-                "en": "Ride slowly across the wet stone bridge."
+                "en": "Ride slowly across the wet stone bridge.",
+                "es": "Cruza despacio el puente de piedra mojado."
               }
             },
             {
@@ -1004,7 +1082,8 @@
                 "de": "Der Radweg entlang des Strandes ist gut asphaltiert.",
                 "hu": "A strand menti kerékpárút jól aszfaltozott.",
                 "ro": "Pista de biciclete de lângă plajă este bine asfaltată.",
-                "en": "The bike path along the beach has good grip."
+                "en": "The bike path along the beach has good grip.",
+                "es": "El carril bici junto a la playa tiene buen agarre."
               }
             },
             {
@@ -1013,7 +1092,8 @@
                 "de": "Suchen Sie Schutz unter dem Pavillon.",
                 "hu": "Keress menedéket a pavilon alatt.",
                 "ro": "Căutați adăpost sub pavilion.",
-                "en": "Find shelter under the park pavilion."
+                "en": "Find shelter under the park pavilion.",
+                "es": "Refúgiate bajo el pabellón del parque."
               }
             }
           ],
@@ -1045,6 +1125,13 @@
               "Winds can be unpredictable during rain showers.",
               "Check your brakes thoroughly before starting.",
               "Seek solid building shelter if the rain gets too heavy."
+            ],
+            "es": [
+              "Evita frenar bruscamente sobre asfalto mojado.",
+              "Lleva ropa impermeable para mantenerte seco por el agua de la carretera.",
+              "Los vientos pueden ser impredecibles durante los chubascos.",
+              "Revisa bien los frenos antes de empezar.",
+              "Busca refugio en un edificio sólido si la lluvia se intensifica."
             ]
           }
         },
@@ -1053,7 +1140,8 @@
             "de": "Ein Wintermorgen auf dem Rad ist belebend. Mittags erkunden wir das MIAC und radeln dann entspannt zum Hafenbecken. Nachmittags genießen wir die kühle Brise auf dem Weg zum Castillo und erreichen den Strand pünktlich zum Sonnenuntergang. Abends schlendern wir mit den Rädern durch die beleuchtete Uferpromenade.",
             "hu": "A téli reggel a kerékpáron igazán élénkítő. Délben felfedezzük a MIAC-ot, majd kényelmesen legurulunk a kikötőhöz. Délután élvezzük a hűvös szellőt a Castillo felé, és pontosan naplementére érünk a strandra. Este a kivilágított parton toljuk a bringákat a sétány mentén.",
             "ro": "O dimineață de iarnă pe bicicletă este revigorantă. La prânz explorăm MIAC, apoi pedalăm relaxat spre port. După-amiaza ne bucurăm de briza răcoroasă spre Castillo și ajungem la plajă exact la apus. Seara ne plimbăm cu bicicletele pe faleza iluminată.",
-            "en": "A winter morning on the bike is truly invigorating. At noon, we explore MIAC and then cycle down to the harbor. In the afternoon, we enjoy the cool breeze on the way to the Castillo, reaching the beach just in time for sunset. In the evening, we walk the bikes along the illuminated promenade."
+            "en": "A winter morning on the bike is truly invigorating. At noon, we explore MIAC and then cycle down to the harbor. In the afternoon, we enjoy the cool breeze on the way to the Castillo, reaching the beach just in time for sunset. In the evening, we walk the bikes along the illuminated promenade.",
+            "es": "Una mañana invernal en bici es verdaderamente vigorizante. Al mediodía exploramos el MIAC y luego bajamos hasta el puerto. Por la tarde disfrutamos de la brisa en la ruta hacia el Castillo, llegando a la playa justo a tiempo para el atardecer. Por la noche, paseamos las bicis por el paseo iluminado."
           },
           "stops": [
             {
@@ -1062,7 +1150,8 @@
                 "de": "Perfekte Zeit für Fotos ohne die sommerliche Dunstglocke.",
                 "hu": "Tökéletes idő fotózáshoz a nyári pára nélkül.",
                 "ro": "Moment perfect pentru poze fără pâcla verii.",
-                "en": "Perfect time for photos without the summer haze."
+                "en": "Perfect time for photos without the summer haze.",
+                "es": "Momento perfecto para fotos sin la neblina veraniega."
               }
             },
             {
@@ -1071,7 +1160,8 @@
                 "de": "Mittagssonne auf dem Rad genießen.",
                 "hu": "Élvezd a déli napsütést a bringán.",
                 "ro": "Bucurați-vă de soarele de prânz pe bicicletă.",
-                "en": "Enjoy the mild midday sun while cycling."
+                "en": "Enjoy the mild midday sun while cycling.",
+                "es": "Disfruta del suave sol del mediodía mientras pedaleas."
               }
             },
             {
@@ -1080,7 +1170,8 @@
                 "de": "Achtung, der Wind am Damm ist im Winter stärker.",
                 "hu": "Vigyázz, a szél a gáton télen erősebb lehet.",
                 "ro": "Atenție, vântul pe dig este mai puternic iarna.",
-                "en": "Note that the wind on the causeway is stronger in winter."
+                "en": "Note that the wind on the causeway is stronger in winter.",
+                "es": "Ten en cuenta que el viento en el paso elevado es más fuerte en invierno."
               }
             },
             {
@@ -1089,7 +1180,8 @@
                 "de": "Ideales Licht für den frühen Abend.",
                 "hu": "Ideális fények a kora esti órákban.",
                 "ro": "Lumină ideală pentru orele serii devreme.",
-                "en": "Ideal lighting for early evening photos."
+                "en": "Ideal lighting for early evening photos.",
+                "es": "Iluminación ideal para fotos del anochecer temprano."
               }
             },
             {
@@ -1098,7 +1190,8 @@
                 "de": "Guter Ort für eine Pause vor der Dunkelheit.",
                 "hu": "Jó hely egy pihenőre a sötétedés előtt.",
                 "ro": "Loc bun pentru o pauză înainte de lăsarea întunericului.",
-                "en": "A good spot for a break before it gets dark."
+                "en": "A good spot for a break before it gets dark.",
+                "es": "Buen lugar para descansar antes de que oscurezca."
               }
             }
           ],
@@ -1130,6 +1223,13 @@
               "Watch out for early twilight starting from 5:30 PM.",
               "Bike lights are mandatory for the ride back.",
               "The bike path to Arrecife is flat and pleasant."
+            ],
+            "es": [
+              "Lleva ropa cortavientos mientras pedaleas.",
+              "El sol invernal es engañosamente intenso; usa protector solar.",
+              "Atento al ocaso temprano a partir de las 17:30.",
+              "Las luces de la bici son obligatorias para el regreso.",
+              "El carril bici hacia Arrecife es llano y agradable."
             ]
           }
         }
@@ -1158,7 +1258,8 @@
             "de": "Parken Sie kostenlos auf dem Gelände.",
             "hu": "Ingyenes parkolás a múzeum területén.",
             "ro": "Parcare gratuită în incinta muzeului.",
-            "en": "Free parking on the museum grounds."
+            "en": "Free parking on the museum grounds.",
+            "es": "Aparcamiento gratuito en los terrenos del museo."
           }
         },
         {
@@ -1176,7 +1277,8 @@
             "de": "Nutzen Sie das Parkhaus 'Islas Canarias' in der Nähe.",
             "hu": "Használd az 'Islas Canarias' közeli parkolóházat.",
             "ro": "Folosiți parcarea 'Islas Canarias' din apropiere.",
-            "en": "Use the 'Islas Canarias' parking garage nearby."
+            "en": "Use the 'Islas Canarias' parking garage nearby.",
+            "es": "Utiliza el aparcamiento 'Islas Canarias' cercano."
           }
         },
         {
@@ -1194,7 +1296,8 @@
             "de": "Perfekt für ein ausgedehntes Mittagessen.",
             "hu": "Tökéletes egy kiadós ebédhez.",
             "ro": "Perfect pentru un prânz prelungit.",
-            "en": "Perfect for a long lunch."
+            "en": "Perfect for a long lunch.",
+            "es": "Perfecto para un almuerzo largo."
           }
         },
         {
@@ -1212,7 +1315,8 @@
             "de": "Nur 10 Min. Fahrt von Arrecife, ein Muss.",
             "hu": "Csak 10 perc autóval Arrecifétől, kötelező látnivaló.",
             "ro": "La doar 10 minute de Arrecife, de neratat.",
-            "en": "Just a 10-min drive from Arrecife, a must-see."
+            "en": "Just a 10-min drive from Arrecife, a must-see.",
+            "es": "A solo 10 minutos en coche desde Arrecife, imprescindible."
           }
         },
         {
@@ -1230,7 +1334,8 @@
             "de": "Letzter Stopp zum Entspannen vor der Rückfahrt.",
             "hu": "Utolsó megálló pihenéshez a visszaindulás előtt.",
             "ro": "Ultima oprire pentru relaxare înainte de plecare.",
-            "en": "Final stop for relaxing before heading back."
+            "en": "Final stop for relaxing before heading back.",
+            "es": "Última parada para relajarse antes de regresar."
           }
         }
       ],
@@ -1238,7 +1343,8 @@
         "de": "Mit dem Auto können Sie die Kunst von César Manrique in der Stadt und im nahegelegenen Tahíche verbinden. Besuchen Sie das MIAC in der alten Burg, das historische Zentrum und machen Sie einen Abstecher zur Fundación César Manrique, die in Lavablasen gebaut wurde.",
         "hu": "Autóval összekötheti César Manrique művészetét a városban és a közeli Tahíche-ben. Látogassa meg a MIAC-ot a régi várban, a történelmi központot, és tegyen kitérőt a César Manrique Alapítványhoz, amely lávabuborékokba épült.",
         "ro": "Cu mașina puteți combina arta lui César Manrique din oraș cu cea din apropiere, din Tahíche. Vizitați MIAC în vechiul castel, centrul istoric și faceți o excursie la Fundația César Manrique, construită în bule de lavă.",
-        "en": "By car, you can combine César Manrique's art in the city and nearby Tahíche. Visit MIAC in the old castle, the historic center, and take a detour to the César Manrique Foundation, built in lava bubbles."
+        "en": "By car, you can combine César Manrique's art in the city and nearby Tahíche. Visit MIAC in the old castle, the historic center, and take a detour to the César Manrique Foundation, built in lava bubbles.",
+        "es": "En coche puedes combinar el arte de César Manrique en la ciudad y en el cercano Tahíche. Visita el MIAC en el antiguo castillo, el casco histórico y haz una escapada a la Fundación César Manrique, construida en burbujas de lava."
       },
       "gastro_picks": {
         "de": [
@@ -1342,6 +1448,11 @@
           "Avoid rush hour (around 2:00 PM).",
           "Blue zones require a parking ticket.",
           "Refuel in Arrecife, it's often cheaper here."
+        ],
+        "es": [
+          "Evita la hora punta (alrededor de las 14:00).",
+          "Las zonas azules requieren ticket de estacionamiento.",
+          "Repostar en Arrecife: suele ser más barato aquí."
         ]
       },
       "variants": {
@@ -1350,7 +1461,8 @@
             "de": "Mit dem Auto können Sie die Kunst von César Manrique in der Stadt und im nahegelegenen Tahíche verbinden. Besuchen Sie das MIAC in der alten Burg, das historische Zentrum und machen Sie einen Abstecher zur Fundación César Manrique, die in Lavablasen gebaut wurde.",
             "hu": "Autóval összekötheti César Manrique művészetét a városban és a közeli Tahíche-ben. Látogassa meg a MIAC-ot a régi várban, a történelmi központot, és tegyen kitérőt a César Manrique Alapítványhoz, amely lávabuborékokba épült.",
             "ro": "Cu mașina puteți combina arta lui César Manrique din oraș cu cea din apropiere, din Tahíche. Vizitați MIAC în vechiul castel, centrul istoric și faceți o excursie la Fundația César Manrique, construită în bule de lavă.",
-            "en": "By car, you can combine César Manrique's art in the city and nearby Tahíche. Visit MIAC in the old castle, the historic center, and take a detour to the César Manrique Foundation, built in lava bubbles."
+            "en": "By car, you can combine César Manrique's art in the city and nearby Tahíche. Visit MIAC in the old castle, the historic center, and take a detour to the César Manrique Foundation, built in lava bubbles.",
+            "es": "En coche puedes combinar el arte de César Manrique en la ciudad y el cercano Tahíche. Visita el MIAC en el castillo antiguo, el casco histórico y haz un desvío a la Fundación César Manrique, construida en burbujas de lava."
           },
           "stops": [
             {
@@ -1359,7 +1471,8 @@
                 "de": "Parken Sie kostenlos auf dem Gelände.",
                 "hu": "Ingyenes parkolás a múzeum területén.",
                 "ro": "Parcare gratuită în incinta muzeului.",
-                "en": "Free parking on the museum grounds."
+                "en": "Free parking on the museum grounds.",
+                "es": "Aparcamiento gratuito en los terrenos del museo."
               }
             },
             {
@@ -1368,7 +1481,8 @@
                 "de": "Nutzen Sie das Parkhaus 'Islas Canarias' in der Nähe.",
                 "hu": "Használd az 'Islas Canarias' közeli parkolóházat.",
                 "ro": "Folosiți parcarea 'Islas Canarias' din apropiere.",
-                "en": "Use the 'Islas Canarias' parking garage nearby."
+                "en": "Use the 'Islas Canarias' parking garage nearby.",
+                "es": "Usa el parking 'Islas Canarias' cercano."
               }
             },
             {
@@ -1377,7 +1491,8 @@
                 "de": "Perfekt für ein ausgedehntes Mittagessen.",
                 "hu": "Tökéletes egy kiadós ebédhez.",
                 "ro": "Perfect pentru un prânz prelungit.",
-                "en": "Perfect for a long lunch."
+                "en": "Perfect for a long lunch.",
+                "es": "Perfecto para una comida larga."
               }
             },
             {
@@ -1386,7 +1501,8 @@
                 "de": "Nur 10 Min. Fahrt von Arrecife, ein Muss.",
                 "hu": "Csak 10 perc autóval Arrecifétől, kötelező látnivaló.",
                 "ro": "La doar 10 minute de Arrecife, de neratat.",
-                "en": "Just a 10-min drive from Arrecife, a must-see."
+                "en": "Just a 10-min drive from Arrecife, a must-see.",
+                "es": "A solo 10 minutos en coche desde Arrecife, imprescindible."
               }
             },
             {
@@ -1395,7 +1511,8 @@
                 "de": "Letzter Stopp zum Entspannen vor der Rückfahrt.",
                 "hu": "Utolsó megálló pihenéshez a visszaindulás előtt.",
                 "ro": "Ultima oprire pentru relaxare înainte de plecare.",
-                "en": "Final stop for relaxing before heading back."
+                "en": "Final stop for relaxing before heading back.",
+                "es": "Última parada para relajarse antes de regresar."
               }
             }
           ],
@@ -1501,6 +1618,11 @@
               "Avoid rush hour (around 2:00 PM).",
               "Blue zones require a parking ticket.",
               "Refuel in Arrecife, it's often cheaper here."
+            ],
+            "es": [
+              "Evita la hora punta (alrededor de las 14:00).",
+              "Las zonas azules requieren ticket de estacionamiento.",
+              "Repostar en Arrecife: suele ser más barato aquí."
             ]
           }
         },
@@ -1509,7 +1631,8 @@
             "de": "Mit dem Auto erkunden wir bequem das Castillo de San José. Mittags fahren wir zum Castillo de San Gabriel und parken nah am Zentrum. Nachmittags besuchen wir den Charco de San Ginés und die Fundación César Manrique, wo wir trocken bleiben. Abends parken wir am Playa del Reducto und genießen den Blick aus dem Wagen.",
             "hu": "Autóval kényelmesen fedezzük fel a Castillo de San José-t. Délben a Castillo de San Gabriel felé hajtunk, a központ közelében parkolva. Délután a Charco de San Ginés és a Fundación César Manrique vár, ahol szárazon maradunk. Este a Playa del Reducto-nál állunk meg, és az autóból nézzük a hullámokat.",
             "ro": "Cu mașina explorăm confortabil Castillo de San José. La prânz mergem spre Castillo de San Gabriel, parcând aproape de centru. După-amiaza vizităm Charco de San Ginés și Fundación César Manrique. Seara parcăm la Playa del Reducto și admirăm marea din interiorul mașinii.",
-            "en": "By car, we comfortably explore Castillo de San José. At noon, we drive to Castillo de San Gabriel, parking close to the center. In the afternoon, Charco de San Ginés and Fundación César Manrique keep us dry. In the evening, we park at Playa del Reducto and enjoy the ocean view from the car."
+            "en": "By car, we comfortably explore Castillo de San José. At noon, we drive to Castillo de San Gabriel, parking close to the center. In the afternoon, Charco de San Ginés and Fundación César Manrique keep us dry. In the evening, we park at Playa del Reducto and enjoy the ocean view from the car.",
+            "es": "En coche exploramos cómodamente el Castillo de San José. Al mediodía, nos dirigimos al Castillo de San Gabriel, aparcando cerca del centro. Por la tarde, Charco de San Ginés y la Fundación César Manrique nos mantienen secos. Por la noche, aparcamos en Playa del Reducto y disfrutamos de la vista al mar desde el coche."
           },
           "stops": [
             {
@@ -1518,7 +1641,8 @@
                 "de": "Der Parkplatz ist direkt vor dem Eingang.",
                 "hu": "A parkoló közvetlenül a bejárat előtt található.",
                 "ro": "Parcarea este chiar în fața intrării.",
-                "en": "The parking lot is right in front of the entrance."
+                "en": "The parking lot is right in front of the entrance.",
+                "es": "El aparcamiento está justo enfrente de la entrada."
               }
             },
             {
@@ -1527,7 +1651,8 @@
                 "de": "Parken Sie im unterirdischen Parkhaus am Gran Hotel.",
                 "hu": "Parkolj a Gran Hotel alatti mélygarázsban.",
                 "ro": "Parcați în parcarea subterană de la Gran Hotel.",
-                "en": "Park in the underground lot at Gran Hotel for dry access."
+                "en": "Park in the underground lot at Gran Hotel for dry access.",
+                "es": "Aparca en el estacionamiento subterráneo del Gran Hotel para acceder sin mojarte."
               }
             },
             {
@@ -1536,7 +1661,8 @@
                 "de": "Viele Restaurants haben überdachte Eingänge.",
                 "hu": "Számos étterem rendelkezik fedett bejárattal.",
                 "ro": "Multe restaurante au intrări acoperite.",
-                "en": "Many restaurants have covered entrances nearby."
+                "en": "Many restaurants have covered entrances nearby.",
+                "es": "Muchos restaurantes tienen entradas cubiertas cercanas."
               }
             },
             {
@@ -1545,7 +1671,8 @@
                 "de": "Ein idealer Indoor-Besuch bei Regen.",
                 "hu": "Ideális beltéri program esős időben.",
                 "ro": "O vizită de interior ideală pe timp de ploaie.",
-                "en": "An ideal indoor visit during rainy weather."
+                "en": "An ideal indoor visit during rainy weather.",
+                "es": "Una visita interior ideal en caso de lluvia."
               }
             },
             {
@@ -1554,7 +1681,8 @@
                 "de": "Die Parkplätze am Ufer bieten gute Sicht aufs Meer.",
                 "hu": "A parti parkolók jó kilátást nyújtanak a tengerre.",
                 "ro": "Parcările de pe mal oferă o vedere bună spre mare.",
-                "en": "The shorefront parking spots offer great sea views."
+                "en": "The shorefront parking spots offer great sea views.",
+                "es": "Las plazas frente al litoral ofrecen excelentes vistas al mar."
               }
             }
           ],
@@ -1586,6 +1714,13 @@
               "Drive with headlights on if sea spray is heavy.",
               "Fundación César Manrique has an ample, easy parking lot.",
               "Visibility can drop quickly during heavy downpours."
+            ],
+            "es": [
+              "Cuidado con las primeras gotas; las carreteras se vuelven muy resbaladizas.",
+              "Usa parkings para entrar al centro sin mojarte.",
+              "Conduce con las luces encendidas si hay fuerte salpicadura marina.",
+              "La Fundación César Manrique tiene un amplio y cómodo aparcamiento.",
+              "La visibilidad puede caer rápidamente con fuertes aguaceros."
             ]
           }
         },
@@ -1594,7 +1729,8 @@
             "de": "Wintersonne im Auto ist herrlich. Morgens besuchen wir das MIAC, mittags das Castillo de San Gabriel im klaren Winterlicht. Nachmittags genießen wir die Fahrt zur Fundación César Manrique und beenden den Tag bei einem spektakulären Sonnenuntergang am Playa del Reducto. Abends nutzen wir die gute Erreichbarkeit der beleuchteten Innenstadt.",
             "hu": "A téli napsütés az autóban csodás. Reggel a MIAC-ot látogatjuk meg, délben a Castillo de San Gabriel vár a tiszta téli fényben. Délután a Fundación César Manrique felé autózunk, majd a napot látványos naplementével zárjuk a Playa del Reducto-nál. Este kihasználjuk a kivilágított belváros könnyű elérhetőségét.",
             "ro": "Soarele de iarnă în mașină este minunat. Dimineața vizităm MIAC, la prânz Castillo de San Gabriel în lumina clară. După-amiaza ne bucurăm de drumul spre Fundación César Manrique și încheiem ziua cu un apus spectaculos la Playa del Reducto. Seara profităm de accesul ușor spre centrul iluminat.",
-            "en": "Winter sun through the windshield is lovely. In the morning we visit MIAC, at noon Castillo de San Gabriel in the clear winter light. In the afternoon we drive to Fundación César Manrique and end the day with a spectacular sunset at Playa del Reducto. In the evening, we enjoy easy access to the lit-up city center."
+            "en": "Winter sun through the windshield is lovely. In the morning we visit MIAC, at noon Castillo de San Gabriel in the clear winter light. In the afternoon we drive to Fundación César Manrique and end the day with a spectacular sunset at Playa del Reducto. In the evening, we enjoy easy access to the lit-up city center.",
+            "es": "El sol de invierno a través del parabrisas es encantador. Por la mañana visitamos el MIAC, al mediodía el Castillo de San Gabriel con la clara luz invernal. Por la tarde conducimos a la Fundación César Manrique y terminamos el día con un espectacular atardecer en Playa del Reducto. Por la noche disfrutamos del fácil acceso al centro iluminado."
           },
           "stops": [
             {
@@ -1603,7 +1739,8 @@
                 "de": "Das Licht am Vormittag ist perfekt für Architekturfotos.",
                 "hu": "A délelőtti fény tökéletes az építészeti fotókhoz.",
                 "ro": "Lumina de dimineață este perfectă pentru poze de arhitectură.",
-                "en": "The morning light is perfect for architectural shots."
+                "en": "The morning light is perfect for architectural shots.",
+                "es": "La luz de la mañana es perfecta para fotos de arquitectura."
               }
             },
             {
@@ -1612,7 +1749,8 @@
                 "de": "Parken Sie an der Promenade für einen kurzen Spaziergang.",
                 "hu": "Parkolj a sétányon egy rövid téli sétához.",
                 "ro": "Parcați pe faleză pentru o scurtă plimbare.",
-                "en": "Park on the promenade for a refreshing winter walk."
+                "en": "Park on the promenade for a refreshing winter walk.",
+                "es": "Aparca en el paseo para un agradable paseo invernal."
               }
             },
             {
@@ -1621,7 +1759,8 @@
                 "de": "In der Wintersonne im Auto aufzuwärmen ist angenehm.",
                 "hu": "A téli napon felmelegedni az autóban kellemes.",
                 "ro": "E plăcut să te încălzești în mașină la soarele de iarnă.",
-                "en": "Warming up in the car under the winter sun is pleasant."
+                "en": "Warming up in the car under the winter sun is pleasant.",
+                "es": "Entrar en calor en el coche bajo el sol de invierno es agradable."
               }
             },
             {
@@ -1630,7 +1769,8 @@
                 "de": "Besuchen Sie die Gärten, solange die Sonne scheint.",
                 "hu": "Látogasd meg a kerteket, amíg süt a nap.",
                 "ro": "Vizitați grădinile cât timp strălucește soarele.",
-                "en": "Visit the gardens while the sun is still up."
+                "en": "Visit the gardens while the sun is still up.",
+                "es": "Visita los jardines mientras el sol aún brilla."
               }
             },
             {
@@ -1639,7 +1779,8 @@
                 "de": "Bester Platz für den Sonnenuntergang im Wagen.",
                 "hu": "A legjobb hely a naplemente megtekintéséhez az autóból.",
                 "ro": "Cel mai bun loc pentru apus, văzut din mașină.",
-                "en": "The best spot for watching the sunset from your car."
+                "en": "The best spot for watching the sunset from your car.",
+                "es": "El mejor lugar para ver el atardecer desde tu coche."
               }
             }
           ],
@@ -1671,6 +1812,13 @@
               "Schedule the Fundación visit before the early sunset.",
               "Be careful of the glare from the low winter sun.",
               "Coastal roads offer exceptionally clear views in winter."
+            ],
+            "es": [
+              "Usa el aire acondicionado para desempañar las lunas si es necesario.",
+              "Aparcar es generalmente más fácil en invierno que en verano.",
+              "Programa la visita a la Fundación antes del temprano ocaso.",
+              "Cuidado con el deslumbramiento del sol bajo invernal.",
+              "Las carreteras costeras ofrecen vistas excepcionalmente claras en invierno."
             ]
           }
         }
@@ -1699,7 +1847,8 @@
             "de": "Haltestelle 'Parque Viejo' nutzen.",
             "hu": "Használd a 'Parque Viejo' megállót.",
             "ro": "Folosiți stația 'Parque Viejo'.",
-            "en": "Use the 'Parque Viejo' stop."
+            "en": "Use the 'Parque Viejo' stop.",
+            "es": "Usa la parada 'Parque Viejo'."
           }
         },
         {
@@ -1717,7 +1866,8 @@
             "de": "Mitten in der Fußgängerzone.",
             "hu": "A sétálóutca közepén.",
             "ro": "În mijlocul zonei pietonale.",
-            "en": "In the middle of the pedestrian zone."
+            "en": "In the middle of the pedestrian zone.",
+            "es": "En medio de la zona peatonal."
           }
         },
         {
@@ -1735,7 +1885,8 @@
             "de": "Blick auf das Wahrzeichen der Stadt.",
             "hu": "Kilátás a város jelképére.",
             "ro": "Vedere spre simbolul orașului.",
-            "en": "View of the city's landmark."
+            "en": "View of the city's landmark.",
+            "es": "Vista del emblema de la ciudad."
           }
         },
         {
@@ -1753,7 +1904,8 @@
             "de": "Haltestelle 'Intercambiador' ist ganz nah.",
             "hu": "Az 'Intercambiador' megálló nagyon közel van.",
             "ro": "Stația 'Intercambiador' este foarte aproape.",
-            "en": "The 'Intercambiador' stop is very close."
+            "en": "The 'Intercambiador' stop is very close.",
+            "es": "La parada 'Intercambiador' está muy cerca."
           }
         },
         {
@@ -1771,7 +1923,8 @@
             "de": "Bester Ort zum Warten auf den Bus.",
             "hu": "A legjobb hely a buszra váráshoz.",
             "ro": "Cel mai bun loc pentru a aștepta autobuzul.",
-            "en": "Best place to wait for the bus."
+            "en": "Best place to wait for the bus.",
+            "es": "Mejor lugar para esperar el autobús."
           }
         }
       ],
@@ -1779,7 +1932,8 @@
         "de": "Nutzen Sie den praktischen Stadtbus (Guagua) von Arrecife, um zwischen der Altstadt und dem modernen Strandviertel zu pendeln. Die Linien verbinden den Busbahnhof am Reducto direkt mit dem Charco-Viertel.",
         "hu": "Használja Arrecife praktikus városi buszait (Guagua) az óváros és a modern strandnegyed közötti közlekedéshez. A vonalak közvetlenül összekötik a Reducto melletti buszpályaudvart a Charco negyeddel.",
         "ro": "Folosiți autobuzele locale practice (Guagua) din Arrecife pentru a naviga între centrul vechi și zona modernă a plajei. Liniile conectează autogara de lângă Reducto direct cu cartierul Charco.",
-        "en": "Use Arrecife's practical local buses (Guagua) to navigate between the old town and the modern beach district. The lines connect the bus station near Reducto directly with the Charco district."
+        "en": "Use Arrecife's practical local buses (Guagua) to navigate between the old town and the modern beach district. The lines connect the bus station near Reducto directly with the Charco district.",
+        "es": "Usa los prácticos autobuses locales de Arrecife (guagua) para moverte entre el casco antiguo y el distrito moderno de la playa. Las líneas conectan la estación junto a Reducto directamente con el barrio del Charco."
       },
       "gastro_picks": {
         "de": [
@@ -1883,6 +2037,11 @@
           "Buy a bonus card for cheaper fares.",
           "Buses often don't follow the schedule.",
           "Most lines meet at the Intercambiador."
+        ],
+        "es": [
+          "Compra una tarjeta bono para tarifas más baratas.",
+          "Los autobuses a menudo no respetan el horario.",
+          "La mayoría de las líneas confluyen en el Intercambiador."
         ]
       },
       "variants": {
@@ -1891,7 +2050,8 @@
             "de": "Nutzen Sie den praktischen Stadtbus (Guagua) von Arrecife, um zwischen der Altstadt und dem modernen Strandviertel zu pendeln. Die Linien verbinden den Busbahnhof am Reducto direkt mit dem Charco-Viertel.",
             "hu": "Használja Arrecife praktikus városi buszait (Guagua) az óváros és a modern strandnegyed közötti közlekedéshez. A vonalak közvetlenül összekötik a Reducto melletti buszpályaudvart a Charco negyeddel.",
             "ro": "Folosiți autobuzele locale practice (Guagua) din Arrecife pentru a naviga între centrul vechi și zona modernă a plajei. Liniile conectează autogara de lângă Reducto direct cu cartierul Charco.",
-            "en": "Use Arrecife's practical local buses (Guagua) to navigate between the old town and the modern beach district. The lines connect the bus station near Reducto directly with the Charco district."
+            "en": "Use Arrecife's practical local buses (Guagua) to navigate between the old town and the modern beach district. The lines connect the bus station near Reducto directly with the Charco district.",
+            "es": "Usa los prácticos autobuses locales de Arrecife (guagua) para moverte entre el casco antiguo y el distrito moderno de la playa. Las líneas conectan la estación junto a Reducto directamente con el barrio del Charco."
           },
           "stops": [
             {
@@ -1900,7 +2060,8 @@
                 "de": "Haltestelle 'Parque Viejo' nutzen.",
                 "hu": "Használd a 'Parque Viejo' megállót.",
                 "ro": "Folosiți stația 'Parque Viejo'.",
-                "en": "Use the 'Parque Viejo' stop."
+                "en": "Use the 'Parque Viejo' stop.",
+                "es": "Usa la parada 'Parque Viejo'."
               }
             },
             {
@@ -1909,7 +2070,8 @@
                 "de": "Mitten in der Fußgängerzone.",
                 "hu": "A sétálóutca közepén.",
                 "ro": "În mijlocul zonei pietonale.",
-                "en": "In the middle of the pedestrian zone."
+                "en": "In the middle of the pedestrian zone.",
+                "es": "En medio de la zona peatonal."
               }
             },
             {
@@ -1918,7 +2080,8 @@
                 "de": "Blick auf das Wahrzeichen der Stadt.",
                 "hu": "Kilátás a város jelképére.",
                 "ro": "Vedere spre simbolul orașului.",
-                "en": "View of the city's landmark."
+                "en": "View of the city's landmark.",
+                "es": "Vista del emblema de la ciudad."
               }
             },
             {
@@ -1927,7 +2090,8 @@
                 "de": "Haltestelle 'Intercambiador' ist ganz nah.",
                 "hu": "Az 'Intercambiador' megálló nagyon közel van.",
                 "ro": "Stația 'Intercambiador' este foarte aproape.",
-                "en": "The 'Intercambiador' stop is very close."
+                "en": "The 'Intercambiador' stop is very close.",
+                "es": "La parada 'Intercambiador' está muy cerca."
               }
             },
             {
@@ -1936,7 +2100,8 @@
                 "de": "Bester Ort zum Warten auf den Bus.",
                 "hu": "A legjobb hely a buszra váráshoz.",
                 "ro": "Cel mai bun loc pentru a aștepta autobuzul.",
-                "en": "Best place to wait for the bus."
+                "en": "Best place to wait for the bus.",
+                "es": "Mejor lugar para esperar el autobús."
               }
             }
           ],
@@ -2042,6 +2207,11 @@
               "Buy a bonus card for cheaper fares.",
               "Buses often don't follow the schedule.",
               "Most lines meet at the Intercambiador."
+            ],
+            "es": [
+              "Compra una tarjeta bono para tarifas más baratas.",
+              "Los autobuses a menudo no respetan el horario.",
+              "La mayoría de las líneas confluyen en el Intercambiador."
             ]
           }
         },
@@ -2050,7 +2220,8 @@
             "de": "Morgens nutzen wir den Bus zum Charco de San Ginés und bleiben trocken. Mittags erkunden wir die Casa Amarilla und das Castillo de San Gabriel zwischen den Schauern. Nachmittags fahren wir mit dem Transit zum Playa del Reducto und suchen Schutz in den nahen Arkaden. Abends bringt uns der Bus sicher durch den Regen zurück zum Hotel.",
             "hu": "Reggel busszal megyünk a Charco de San Ginés-hez, így szárazon maradunk. Délben a Casa Amarilla és a Castillo de San Gabriel következik két zápor között. Délután tömegközlekedéssel jutunk a Playa del Reducto-hoz, a közeli árkádok alatt pihenve. Este a busz biztonságban visz vissza a szállásra az esőben.",
             "ro": "Dimineața luăm autobuzul spre Charco de San Ginés pentru a rămâne uscați. La prânz explorăm Casa Amarilla și Castillo între averse. După-amiaza mergem cu transportul public spre Playa del Reducto. Seara, autobuzul ne duce în siguranță înapoi prin ploaie.",
-            "en": "In the morning, we take the bus to Charco de San Ginés to stay dry. At noon, we explore Casa Amarilla and Castillo de San Gabriel between showers. In the afternoon, we use transit to reach Playa del Reducto, sheltering under nearby arcades. In the evening, the bus safely carries us back through the rain."
+            "en": "In the morning, we take the bus to Charco de San Ginés to stay dry. At noon, we explore Casa Amarilla and Castillo de San Gabriel between showers. In the afternoon, we use transit to reach Playa del Reducto, sheltering under nearby arcades. In the evening, the bus safely carries us back through the rain.",
+            "es": "Por la mañana tomamos el autobús al Charco de San Ginés para mantenernos secos. Al mediodía exploramos la Casa Amarilla y el Castillo de San Gabriel entre chubascos. Por la tarde usamos el transporte para llegar a Playa del Reducto, refugiándonos bajo los pórticos cercanos. Por la noche el autobús nos devuelve con seguridad a través de la lluvia."
           },
           "stops": [
             {
@@ -2059,7 +2230,8 @@
                 "de": "Die Bushaltestelle liegt nur wenige Gehminuten entfernt.",
                 "hu": "A buszmegálló mindössze pár perc sétára van.",
                 "ro": "Stația de autobuz este la doar câteva minute de mers.",
-                "en": "The bus stop is just a few minutes' walk away."
+                "en": "The bus stop is just a few minutes' walk away.",
+                "es": "La parada de autobús está a solo unos minutos a pie."
               }
             },
             {
@@ -2068,7 +2240,8 @@
                 "de": "Warten Sie den Regen im Museum ab.",
                 "hu": "Várják meg az eső végét a múzeumban.",
                 "ro": "Așteptați încetarea ploii în muzeu.",
-                "en": "Wait out the rain inside the museum."
+                "en": "Wait out the rain inside the museum.",
+                "es": "Espera a que pase la lluvia dentro del museo."
               }
             },
             {
@@ -2077,7 +2250,8 @@
                 "de": "Nehmen Sie den Bus bis zur Haltestelle 'Gran Hotel'.",
                 "hu": "Szállj le a buszról a 'Gran Hotel' megállónál.",
                 "ro": "Coborâți la stația 'Gran Hotel' pentru acces facil.",
-                "en": "Get off at 'Gran Hotel' stop for the shortest walk."
+                "en": "Get off at 'Gran Hotel' stop for the shortest walk.",
+                "es": "Baja en la parada 'Gran Hotel' para la caminata más corta."
               }
             },
             {
@@ -2086,7 +2260,8 @@
                 "de": "Die Haltestellen bieten oft guten Regenschutz.",
                 "hu": "A buszmegállók gyakran jó esővédelmet nyújtanak.",
                 "ro": "Stațiile de autobuz oferă adesea protecție bună.",
-                "en": "Bus shelters usually provide good rain protection."
+                "en": "Bus shelters usually provide good rain protection.",
+                "es": "Las marquesinas de autobús suelen proteger bien de la lluvia."
               }
             },
             {
@@ -2095,7 +2270,8 @@
                 "de": "Ein zentraler Knotenpunkt für den Rückweg.",
                 "hu": "Központi csomópont a visszaúthoz.",
                 "ro": "Un nod central pentru drumul de întoarcere.",
-                "en": "A central hub for your return journey."
+                "en": "A central hub for your return journey.",
+                "es": "Un nudo central para tu viaje de regreso."
               }
             }
           ],
@@ -2127,6 +2303,13 @@
               "Keep small change ready for the bus driver.",
               "Buses are air-conditioned and keep you perfectly dry.",
               "Allow extra time as rain might cause minor bus delays."
+            ],
+            "es": [
+              "Usa la app 'Lanzarote Bus' para horarios en tiempo real.",
+              "Las marquesinas pueden ser correntosas durante chaparrones con viento.",
+              "Lleva cambio pequeño listo para el conductor.",
+              "Los autobuses están climatizados y te mantienen perfectamente seco.",
+              "Deja tiempo extra: la lluvia puede causar pequeños retrasos."
             ]
           }
         },
@@ -2135,7 +2318,8 @@
             "de": "Wintertage in Arrecife sind ideal für den Transit. Morgens fahren wir zum Charco, mittags besuchen wir die Casa Amarilla im weichen Licht. Nachmittags bringt uns der Bus zum Castillo und weiter zum Playa del Reducto für den frühen Sonnenuntergang. Abends genießen wir die beleuchtete Stadt und kehren bequem mit dem Transit zurück.",
             "hu": "Az Arrecifében töltött téli napok ideálisak a tömegközlekedéshez. Reggel a Charco-hoz megyünk, délben a Casa Amarilla vár lágy fényben. Délután a busz a Castillo-hoz, majd a Playa del Reducto-hoz visz a korai naplementére. Este a kivilágított várost élvezzük, majd kényelmesen térünk vissza.",
             "ro": "Zilele de iarnă în Arrecife sunt ideale pentru transportul public. Dimineața mergem la Charco, la prânz la Casa Amarilla. După-amiaza autobuzul ne duce la Castillo și la Playa del Reducto pentru apus. Seara ne bucurăm de orașul iluminat și revenim confortabil.",
-            "en": "Winter days in Arrecife are perfect for using transit. In the morning we head to Charco, at noon we visit Casa Amarilla in the soft light. In the afternoon, the bus takes us to Castillo and on to Playa del Reducto for the early sunset. We end the evening in the lit-up city and return comfortably."
+            "en": "Winter days in Arrecife are perfect for using transit. In the morning we head to Charco, at noon we visit Casa Amarilla in the soft light. In the afternoon, the bus takes us to Castillo and on to Playa del Reducto for the early sunset. We end the evening in the lit-up city and return comfortably.",
+            "es": "Los días de invierno en Arrecife son ideales para usar el transporte. Por la mañana vamos al Charco, al mediodía visitamos la Casa Amarilla con la luz suave. Por la tarde el autobús nos lleva al Castillo y a Playa del Reducto para el ocaso temprano. Terminamos la noche en la ciudad iluminada y regresamos cómodamente."
           },
           "stops": [
             {
@@ -2144,7 +2328,8 @@
                 "de": "Die Wintersonne macht das Warten an der Haltestelle angenehm.",
                 "hu": "A téli napsütésben kellemes a várakozás a megállóban.",
                 "ro": "Soarele de iarnă face așteptarea în stație plăcută.",
-                "en": "The winter sun makes waiting at the stop pleasant."
+                "en": "The winter sun makes waiting at the stop pleasant.",
+                "es": "El sol invernal hace agradable esperar en la parada."
               }
             },
             {
@@ -2153,7 +2338,8 @@
                 "de": "Zentraler Ort, gut vernetzt mit dem Liniennetz.",
                 "hu": "Központi hely, jól kapcsolódik a vonalhálózathoz.",
                 "ro": "Loc central, bine conectat la rețeaua de linii.",
-                "en": "Central location, well connected to the bus network."
+                "en": "Central location, well connected to the bus network.",
+                "es": "Ubicación céntrica, bien conectada con la red de autobuses."
               }
             },
             {
@@ -2162,7 +2348,8 @@
                 "de": "Der Spaziergang von der Haltestelle ist im Winter erfrischend.",
                 "hu": "A séta a megállótól télen igazán frissítő.",
                 "ro": "Plimbarea de la stație este revigorantă iarna.",
-                "en": "The walk from the stop is refreshing in winter."
+                "en": "The walk from the stop is refreshing in winter.",
+                "es": "La caminata desde la parada es refrescante en invierno."
               }
             },
             {
@@ -2171,7 +2358,8 @@
                 "de": "Letzter Bus für den Rückweg vor 21 Uhr prüfen.",
                 "hu": "Ellenőrizd az utolsó buszt a visszaútra 21 óra előtt.",
                 "ro": "Verificați ultimul autobuz de întoarcere înainte de ora 21.",
-                "en": "Check the last return bus schedule before 9 PM."
+                "en": "Check the last return bus schedule before 9 PM.",
+                "es": "Consulta el último horario de regreso antes de las 21:00."
               }
             },
             {
@@ -2180,7 +2368,8 @@
                 "de": "Perfekter Ort, um die Abendbeleuchtung zu sehen.",
                 "hu": "Tökéletes hely az esti kivilágítás megtekintéséhez.",
                 "ro": "Loc perfect pentru a vedea iluminatul de seară.",
-                "en": "Perfect spot to watch the evening lights come on."
+                "en": "Perfect spot to watch the evening lights come on.",
+                "es": "Lugar perfecto para ver cómo se encienden las luces nocturnas."
               }
             }
           ],
@@ -2212,6 +2401,13 @@
               "Oceanfront stops can get quite chilly in the evening.",
               "The main bus station (Estación) is within easy walking distance.",
               "Tickets are purchased directly from the driver on board."
+            ],
+            "es": [
+              "La frecuencia de los autobuses se mantiene estable durante el invierno.",
+              "Usa líneas interurbanas para trayectos fuera de Arrecife.",
+              "Las paradas frente al mar pueden refrescar bastante por la noche.",
+              "La estación principal de autobuses (Estación) está a un cómodo paseo.",
+              "Los billetes se compran directamente al conductor a bordo."
             ]
           }
         }
@@ -2226,19 +2422,22 @@
       "de": "Arrecife ist eine richtige spanische Inselhauptstadt, weniger touristisch als Puerto del Carmen, also lohnen sich ein paar Brocken Spanisch. In Bars und Behörden sprechen ältere Einheimische oft kein Englisch, jüngere schon.",
       "hu": "Arrecife valódi spanyol szigetfőváros, nem nyaralótelep, úgyhogy pár szó spanyol jól jön. A bárokban és hivatalokban az idősebbek nem nagyon beszélnek angolul, a fiatalok már igen.",
       "ro": "Arrecife este capitala reală a insulei, mai puțin turistică decât Puerto del Carmen, deci câteva cuvinte spaniole ajută. În baruri și instituții, vârstnicii rar vorbesc engleză, tinerii da.",
-      "en": "Arrecife is a working Spanish capital rather than a resort, so a few words of Spanish help a lot. Older locals in bars and offices rarely speak English, younger ones usually do."
+      "en": "Arrecife is a working Spanish capital rather than a resort, so a few words of Spanish help a lot. Older locals in bars and offices rarely speak English, younger ones usually do.",
+      "es": "Arrecife es una capital española trabajadora más que un resort, así que unas palabras de español ayudan mucho. Los locales mayores en bares y oficinas raramente hablan inglés; los jóvenes, por lo general, sí."
     },
     "best_time_to_visit": {
       "de": "Klima ist ganzjährig mild, 18-28 Grad. Im März feiert die Stadt Karneval mit Umzügen, dann sind Hotels voll und teuer, sonst ist Lanzarote auch im Sommer angenehm windig.",
       "hu": "Az időjárás végig kíméletes, 18-28 fok. Márciusban karneválozik a város, akkor a szállás drága és telt, egyébként Lanzarote nyáron is kellemesen szellős, nem olyan tikkasztó mint Andalúzia.",
       "ro": "Climă blândă tot anul, 18-28 grade. În martie orașul ține carnavalul cu parade, hotelurile sunt pline și scumpe; altfel Lanzarote rămâne plăcut și vântos chiar vara.",
-      "en": "Mild climate year round, 18-28 C. The March carnival packs out hotels with parades and high prices, otherwise Lanzarote stays pleasantly breezy even in summer, never as stifling as mainland Spain."
+      "en": "Mild climate year round, 18-28 C. The March carnival packs out hotels with parades and high prices, otherwise Lanzarote stays pleasantly breezy even in summer, never as stifling as mainland Spain.",
+      "es": "Clima templado todo el año, 18–28 °C. El carnaval de marzo llena los hoteles con desfiles y precios altos; fuera de eso Lanzarote se mantiene agradablemente ventosa incluso en verano, nunca tan bochornosa como la España peninsular."
     },
     "neighborhood_warnings": {
       "de": "Arrecife ist insgesamt sicher, der Hafen und das Zentrum nachts gut beleuchtet. Meide am späten Abend die unbeleuchteten Strände östlich der Stadt, dort gab es vereinzelt Diebstähle.",
       "hu": "Arrecife alapvetően biztonságos, a kikötő és a központ éjjel is jól megvilágított. Késő este viszont kerüld a várostól keletre eső sötét strandokat, ott előfordultak lopások.",
       "ro": "Arrecife e în general sigur, portul și centrul sunt bine luminate noaptea. Evită seara târziu plajele neluminate de la est de oraș, au existat furturi izolate acolo.",
-      "en": "Arrecife is generally safe, harbour and centre well lit at night. Avoid the unlit beaches east of town late evening, a few thefts have been reported there."
+      "en": "Arrecife is generally safe, harbour and centre well lit at night. Avoid the unlit beaches east of town late evening, a few thefts have been reported there.",
+      "es": "Arrecife es generalmente segura; el puerto y el centro están bien iluminados por la noche. Evita las playas sin iluminación al este de la ciudad a altas horas: se han denunciado algunos robos allí."
     }
   }
 }

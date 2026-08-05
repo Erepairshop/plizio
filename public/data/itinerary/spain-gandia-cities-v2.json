@@ -21,7 +21,8 @@
             "de": "Rathaus von Gandia (Ajuntament)",
             "hu": "Gandia városháza (Ajuntament)",
             "ro": "Primăria din Gandia (Ajuntament)",
-            "en": "Gandia Town Hall (Ajuntament)"
+            "en": "Gandia Town Hall (Ajuntament)",
+            "es": "Ayuntamiento de Gandia (Ajuntament)"
           },
           "coords": [
             -0.183,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die neoklassizistische Fassade, ein beliebter Treffpunkt für Einheimische.",
             "hu": "Csodálja meg a neoklasszikus homlokzatot, a helyiek kedvelt találkozóhelyét.",
             "ro": "Admirați fațada neoclasică, un loc de întâlnire popular pentru localnici.",
-            "en": "Admire the neoclassical facade, a popular meeting point for locals."
+            "en": "Admire the neoclassical facade, a popular meeting point for locals.",
+            "es": "Admira la fachada neoclásica, un punto de encuentro popular para los locales."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Antigua Universidad (Escuelas Pías)",
             "hu": "Régi Egyetem (Escuelas Pías)",
             "ro": "Universitatea Veche (Escuelas Pías)",
-            "en": "Old University (Escuelas Pías)"
+            "en": "Old University (Escuelas Pías)",
+            "es": "Antigua Universidad (Escuelas Pías)"
           },
           "coords": [
             -0.182,
@@ -59,7 +62,8 @@
             "de": "Dies ist eine der ersten Universitäten Europas, gegründet von der Familie Borgia.",
             "hu": "Ez Európa egyik első egyeteme, amelyet a Borgia család alapított.",
             "ro": "Aceasta este una dintre primele universități din Europa, fondată de familia Borgia.",
-            "en": "This is one of Europe's first universities, founded by the Borgia family."
+            "en": "This is one of Europe's first universities, founded by the Borgia family.",
+            "es": "Esta es una de las primeras universidades de Europa, fundada por la familia Borgia."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Stiftskirche Santa Maria",
             "hu": "Santa Maria társkáptalani templom",
             "ro": "Colegiata Santa Maria",
-            "en": "Collegiate Church of Santa Maria"
+            "en": "Collegiate Church of Santa Maria",
+            "es": "Colegiata de Santa María"
           },
           "coords": [
             -0.18,
@@ -82,7 +87,8 @@
             "de": "Achten Sie auf die Mischung aus valencianischer Gotik und späteren barocken Elementen.",
             "hu": "Figyelje meg a valenciai gótika és a későbbi barokk elemek keveredését.",
             "ro": "Observați amestecul de stil gotic valencian și elemente baroce ulterioare.",
-            "en": "Look for the mix of Valencian Gothic style and later Baroque additions."
+            "en": "Look for the mix of Valencian Gothic style and later Baroque additions.",
+            "es": "Busca la mezcla del estilo gótico valenciano con añadidos barrocos posteriores."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Palau Ducal dels Borja",
             "hu": "Borgia hercegi palota",
             "ro": "Palatul Ducal al familiei Borja",
-            "en": "Ducal Palace of the Borja"
+            "en": "Ducal Palace of the Borja",
+            "es": "Palacio Ducal de los Borja"
           },
           "coords": [
             -0.181,
@@ -105,7 +112,8 @@
             "de": "Nehmen Sie an einer Führung teil, um den prunkvollen Goldenen Saal zu sehen.",
             "hu": "Vegyen részt egy vezetett túrán, hogy megnézze a pazar Aranytermet.",
             "ro": "Participați la un tur ghidat pentru a vedea opulenta Sală de Aur.",
-            "en": "Join a guided tour to see the opulent Golden Hall."
+            "en": "Join a guided tour to see the opulent Golden Hall.",
+            "es": "Únete a una visita guiada para ver la opulenta Sala Dorada."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "MAGa - Archäologisches Museum von Gandia",
             "hu": "MAGa - Gandia Régészeti Múzeuma",
             "ro": "MAGa - Muzeul Arheologic din Gandia",
-            "en": "MAGa - Archaeological Museum of Gandia"
+            "en": "MAGa - Archaeological Museum of Gandia",
+            "es": "MAGa - Museo Arqueológico de Gandia"
           },
           "coords": [
             -0.179,
@@ -128,7 +137,8 @@
             "de": "Das Museum befindet sich im alten Krankenhaus des Heiligen Markus und zeigt paläolithische Funde.",
             "hu": "A múzeum a régi Szent Márk kórházban található, és paleolit leleteket mutat be.",
             "ro": "Muzeul este găzduit în vechiul spital Sf. Marcu și prezintă descoperiri din paleolitic.",
-            "en": "The museum is housed in the old Saint Marc's Hospital and showcases Paleolithic findings."
+            "en": "The museum is housed in the old Saint Marc's Hospital and showcases Paleolithic findings.",
+            "es": "El museo ocupa el antiguo Hospital de San Marc y exhibe hallazgos paleolíticos."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Casa de Cultura Marqués de González de Quirós",
             "hu": "Marqués de González de Quirós Kultúrház",
             "ro": "Casa de Cultură Marqués de González de Quirós",
-            "en": "Marqués de González de Quirós House of Culture"
+            "en": "Marqués de González de Quirós House of Culture",
+            "es": "Casa de Cultura Marqués de González de Quirós"
           },
           "coords": [
             -0.178,
@@ -151,7 +162,8 @@
             "de": "Prüfen Sie den Veranstaltungsplan für kostenlose Ausstellungen oder Konzerte.",
             "hu": "Nézze meg a programfüzetet ingyenes kiállításokért vagy koncertekért.",
             "ro": "Verificați programul pentru expoziții sau concerte gratuite.",
-            "en": "Check the event schedule for free exhibitions or concerts."
+            "en": "Check the event schedule for free exhibitions or concerts.",
+            "es": "Consulta la programación de eventos para exposiciones o conciertos gratuitos."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen der Altstadt von Gandia, rund um den von der neoklassizistischen Fassade des Rathauses dominierten Platz. Tauchen Sie am Vormittag in die Geschichte der Borgia ein und besuchen Sie die Alte Universität und die Stiftskirche, die die Macht der Familie demonstrieren. Verbringen Sie den Nachmittag damit, die opulenten Räume des Herzogspalastes zu erkunden, gefolgt von einem tiefen Einblick in die prähistorische Vergangenheit der Region im Archäologischen Museum. Schließen Sie Ihren Tag mit einem kulturellen Ausklang im Kulturhaus ab und genießen Sie die lebendige Atmosphäre dieser historischen Stadt.",
         "hu": "Kezdje a napot Gandia óvárosának szívében, a városháza neoklasszikus homlokzata által uralt téren. Délelőtt merüljön el a Borgiák történelmében a Régi Egyetem és a társkáptalani templom meglátogatásával, amelyek a család hatalmát tükrözik. Töltse a délutánt a hercegi palota pazar termeinek felfedezésével, majd mélyedjen el a régió őskori múltjában a Régészeti Múzeumban. Zárja a napot egy kulturális programmal a Kultúrházban, élvezve ennek a történelmi városnak a vibráló hangulatát.",
         "ro": "Începeți ziua în inima orașului vechi din Gandia, în jurul pieței dominate de fațada neoclasică a Primăriei. Dimineața, cufundați-vă în istoria familiei Borgia vizitând Universitatea Veche și Colegiata, care demonstrează puterea familiei. Petreceți după-amiaza explorând încăperile opulente ale Palatului Ducal, urmată de o incursiune în trecutul preistoric al regiunii la Muzeul Arheologic. Încheiați ziua cu o notă culturală la Casa de Cultură, bucurându-vă de atmosfera vibrantă a acestui oraș istoric.",
-        "en": "Start your day in the heart of Gandia's old town, around the square dominated by the Town Hall's neoclassical facade. In the morning, immerse yourself in the history of the Borgias by visiting the Old University and the Collegiate Church, showcasing the family's power. Spend the afternoon exploring the opulent rooms of the Ducal Palace, followed by a deep dive into the region's prehistoric past at the Archaeological Museum. Conclude your day with a cultural touch at the House of Culture, soaking in the vibrant atmosphere of this historic city."
+        "en": "Start your day in the heart of Gandia's old town, around the square dominated by the Town Hall's neoclassical facade. In the morning, immerse yourself in the history of the Borgias by visiting the Old University and the Collegiate Church, showcasing the family's power. Spend the afternoon exploring the opulent rooms of the Ducal Palace, followed by a deep dive into the region's prehistoric past at the Archaeological Museum. Conclude your day with a cultural touch at the House of Culture, soaking in the vibrant atmosphere of this historic city.",
+        "es": "Comienza el día en el corazón del casco antiguo de Gandia, alrededor de la plaza dominada por la fachada neoclásica del Ayuntamiento. Por la mañana, sumérgete en la historia de los Borja visitando la Antigua Universidad y la Colegiata, que muestran el poder de la familia. Pasa la tarde explorando las estancias opulentas del Palacio Ducal y, después, profundiza en el pasado prehistórico de la región en el Museo Arqueológico. Concluye el día con un toque cultural en la Casa de Cultura, empapándote del ambiente vibrante de esta ciudad histórica."
       },
       "gastro_picks": {
         "de": [
@@ -299,6 +312,11 @@
           "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
           "Many shops observe a siesta, so plan your shopping for the morning or late afternoon.",
           "Bring plenty of water, especially during the summer months."
+        ],
+        "es": [
+          "Usa calzado cómodo, ya que los empedrados del casco antiguo pueden ser irregulares.",
+          "Muchas tiendas respetan la siesta, así que planifica tus compras por la mañana o al final de la tarde.",
+          "Lleva abundante agua, especialmente durante los meses de verano."
         ]
       },
       "variants": {
@@ -307,7 +325,8 @@
             "de": "Morgens erkunden wir das Rathaus unter den Arkaden. Mittags bietet der Borja-Palast trockenen Unterschlupf in prächtigen Sälen. Nachmittags ist Museumszeit im MAGa, perfekt für Regentage. Den Abend lassen wir gemütlich in den überdachten Gassen der Altstadt ausklingen, wo Cafés zum Verweilen einladen.",
             "hu": "Reggel az arkádok alatt fedezzük fel a városházát. Délben a Borja-palota dísztermei nyújtanak száraz menedéket a zord idő elől. Délután a MAGa múzeum kiállításai ideálisak esős időre. Az estét az óváros fedett teraszain és hangulatos kávézóiban zárjuk, figyelve az eső kopogását a régi köveken.",
             "ro": "Dimineața explorăm primăria la adăpostul arcadelor. La prânz, Palatul Ducal Borja oferă refugiu uscat în sălile sale magnifice. După-amiaza este dedicată muzeului MAGa, perfect pentru zilele ploioase. Seara se încheie confortabil în cafenelele din centrul vechi, unde atmosfera rămâne primitoare.",
-            "en": "Morning starts at the Town Hall, utilizing the nearby arcades for cover. Midday is spent inside the magnificent Ducal Palace, a perfect dry retreat. Afternoon continues at the Archaeological Museum, ideal for rainy weather. The evening concludes in the cozy indoor cafes of the historic center."
+            "en": "Morning starts at the Town Hall, utilizing the nearby arcades for cover. Midday is spent inside the magnificent Ducal Palace, a perfect dry retreat. Afternoon continues at the Archaeological Museum, ideal for rainy weather. The evening concludes in the cozy indoor cafes of the historic center.",
+            "es": "La mañana comienza en el Ayuntamiento, utilizando los pórticos cercanos como refugio. El mediodía se pasa dentro del magnífico Palacio Ducal, un perfecto retiro seco. La tarde continúa en el Museo Arqueológico, ideal para días lluviosos. La velada concluye en las acogedoras cafeterías interiores del centro histórico."
           },
           "stops": [
             {
@@ -316,7 +335,8 @@
                 "de": "Die Arkaden des Platzes bieten guten Schutz vor Regenschauern.",
                 "hu": "A tér árkádjai kiváló védelmet nyújtanak a hirtelen záporok ellen.",
                 "ro": "Arcadele pieței oferă o protecție bună împotriva ploii.",
-                "en": "The square's arcades offer excellent shelter during sudden rain showers."
+                "en": "The square's arcades offer excellent shelter during sudden rain showers.",
+                "es": "Los pórticos de la plaza ofrecen excelente resguardo durante chaparrones repentinos."
               }
             },
             {
@@ -325,7 +345,8 @@
                 "de": "Nutzen Sie den Innenhof und die Ausstellungsräume als trockene Station.",
                 "hu": "Használja a belső udvart és a kiállítótereket száraz pihenőként.",
                 "ro": "Folosiți curtea interioară și sălile ca punct de oprire uscat.",
-                "en": "Use the inner courtyard and exhibition spaces as a dry stopover."
+                "en": "Use the inner courtyard and exhibition spaces as a dry stopover.",
+                "es": "Utiliza el patio interior y las salas de exposiciones como parada seca."
               }
             },
             {
@@ -334,7 +355,8 @@
                 "de": "Ein ruhiger, trockener Ort, um den stärksten Regen abzuwarten.",
                 "hu": "Csendes és száraz helyszín a nagyobb eső kivárásához.",
                 "ro": "Un loc liniștit și uscat pentru a aștepta trecerea ploii torențiale.",
-                "en": "A quiet, dry location to wait out the heaviest rainfall."
+                "en": "A quiet, dry location to wait out the heaviest rainfall.",
+                "es": "Un lugar tranquilo y seco para esperar a que escampe la lluvia más intensa."
               }
             },
             {
@@ -343,7 +365,8 @@
                 "de": "Perfekt für Regentage: Die Tour findet komplett im Innenbereich statt.",
                 "hu": "Ideális esőben: a látogatás végig fedett belső terekben zajlik.",
                 "ro": "Perfect pentru ploaie: vizita are loc integral în interior.",
-                "en": "Perfect for rainy days: the tour takes place entirely indoors."
+                "en": "Perfect for rainy days: the tour takes place entirely indoors.",
+                "es": "Perfecto para días lluviosos: el recorrido se realiza íntegramente en interiores."
               }
             },
             {
@@ -352,7 +375,8 @@
                 "de": "Große Garderobe vorhanden, um nasse Schirme und Mäntel abzugeben.",
                 "hu": "Tágas ruhatár áll rendelkezésre a vizes esernyők és kabátok leadásához.",
                 "ro": "Garderobă disponibilă pentru a lăsa umbrelele și haina udă.",
-                "en": "Spacious cloakroom available to leave wet umbrellas and coats."
+                "en": "Spacious cloakroom available to leave wet umbrellas and coats.",
+                "es": "Guardarropa espacioso disponible para dejar paraguas y abrigos mojados."
               }
             },
             {
@@ -361,7 +385,8 @@
                 "de": "Das Café im Inneren ist ein wunderbarer Ort für eine Pause im Trockenen.",
                 "hu": "A belső kávézó remek hely egy száraz pihenőhöz a nap végén.",
                 "ro": "Cafeneaua interioară este un loc excelent pentru o pauză la uscat.",
-                "en": "The indoor cafe is a wonderful spot for a dry break at the end of the day."
+                "en": "The indoor cafe is a wonderful spot for a dry break at the end of the day.",
+                "es": "La cafetería interior es un lugar estupendo para un descanso seco al final del día."
               }
             }
           ],
@@ -389,6 +414,12 @@
               "The arcades around Plaça Major are strategic points to take cover from showers.",
               "Take advantage of the extensive indoor tours at the palace and museum during rain.",
               "A compact umbrella is more practical than a poncho in narrow museum corridors."
+            ],
+            "es": [
+              "Lleva calzado impermeable, ya que el pavimento del casco antiguo puede volverse resbaladizo con la lluvia.",
+              "Los pórticos alrededor de la Plaça Major son puntos estratégicos para resguardarse de los chaparrones.",
+              "Aprovecha las amplias visitas interiores en el palacio y el museo durante la lluvia.",
+              "Un paraguas compacto es más práctico que un chubasquero en los estrechos pasillos del museo."
             ]
           }
         },
@@ -397,7 +428,8 @@
             "de": "Im Winter beginnt der Morgen frisch am Rathaus. Mittags wärmen wir uns im prächtigen Borja-Palast auf, der auch an kühlen Tagen Glanz versprüht. Nachmittags bietet das MAGa-Museum Kultur ohne kalten Wind. Der frühe Sonnenuntergang taucht die Altstadt in ein warmes Licht, bevor wir uns in ein gemütliches Restaurant zurückziehen.",
             "hu": "Télen a reggel frissen indul a városházánál. Délben a Borja-palota pazar termeiben melegszünk fel, amelyek hűvösebb napokon is ragyognak. Délután a MAGa múzeum kínál kultúrát szélvédett helyen. A korai naplemente aranyba vonja az óvárost, mielőtt behúzódnánk egy barátságos étterembe.",
             "ro": "Iarna, dimineața începe răcoros la primărie. La prânz ne încălzim în sălile somptuoase ale Palatului Borja. După-amiaza, muzeul MAGa oferă cultură la adăpost de vântul rece. Apusul timpuriu scaldă centrul vechi în lumină caldă înainte de a ne retrage la un restaurant primitor.",
-            "en": "Winter mornings start crisp at the Town Hall. Midday is perfect for warming up inside the Borja Palace's grand halls. Afternoon is spent sheltered from the breeze at the MAGa museum. The early sunset casts a golden glow over the old town before we retreat to a cozy local restaurant."
+            "en": "Winter mornings start crisp at the Town Hall. Midday is perfect for warming up inside the Borja Palace's grand halls. Afternoon is spent sheltered from the breeze at the MAGa museum. The early sunset casts a golden glow over the old town before we retreat to a cozy local restaurant.",
+            "es": "Las mañanas invernales empiezan nítidas en el Ayuntamiento. El mediodía es perfecto para calentarse en los grandes salones del Palacio Borja. La tarde se pasa resguardada del viento en el museo MAGa. El atardecer temprano proyecta un brillo dorado sobre el casco antiguo antes de retirarnos a un restaurante local acogedor."
           },
           "stops": [
             {
@@ -406,7 +438,8 @@
                 "de": "Genießen Sie die klare Winterluft auf dem noch ruhigen Platz.",
                 "hu": "Élvezze a friss téli levegőt a még csendes főtéren.",
                 "ro": "Bucurați-vă de aerul curat de iarnă în piața încă liniștită.",
-                "en": "Enjoy the crisp winter air in the still-quiet main square."
+                "en": "Enjoy the crisp winter air in the still-quiet main square.",
+                "es": "Disfruta del aire invernal y nítido en la plácida plaza principal."
               }
             },
             {
@@ -415,7 +448,8 @@
                 "de": "Die massiven Mauern halten die Kälte draußen; ideal zum Aufwärmen.",
                 "hu": "A vaskos falak kint tartják a hideget; ideális hely a felmelegedésre.",
                 "ro": "Zidurile masive țin frigul afară; ideal pentru a vă încălzi puțin.",
-                "en": "The thick walls keep the chill out; an ideal spot to warm up."
+                "en": "The thick walls keep the chill out; an ideal spot to warm up.",
+                "es": "Los muros gruesos mantienen el frío fuera; un lugar ideal para entrar en calor."
               }
             },
             {
@@ -424,7 +458,8 @@
                 "de": "Achten Sie auf die besonderen Lichtspiele der tiefstehenden Wintersonne.",
                 "hu": "Figyelje meg az alacsonyan járó téli nap különleges fényjátékát.",
                 "ro": "Observați jocurile de lumină ale soarelui de iarnă pe vitralii.",
-                "en": "Observe the unique light patterns from the low winter sun."
+                "en": "Observe the unique light patterns from the low winter sun.",
+                "es": "Observa los patrones de luz únicos del sol bajo de invierno."
               }
             },
             {
@@ -433,7 +468,8 @@
                 "de": "Ein Highlight im Winter, da die Innenräume angenehm temperiert sind.",
                 "hu": "Téli csúcspont, mivel a belső terek kellemesen temperáltak.",
                 "ro": "Un punct forte iarna, interioarele fiind menținute la o temperatură plăcută.",
-                "en": "A winter highlight, as the interiors are kept at a comfortable temperature."
+                "en": "A winter highlight, as the interiors are kept at a comfortable temperature.",
+                "es": "Un punto culminante invernal, ya que los interiores se mantienen a una temperatura confortable."
               }
             },
             {
@@ -442,7 +478,8 @@
                 "de": "Perfekt für den kühlen Nachmittag, bevor es früh dunkel wird.",
                 "hu": "Tökéletes hűvös délutáni program, mielőtt korán besötétedik.",
                 "ro": "Perfect pentru după-amiaza răcoroasă, înainte de lăsarea întunericului.",
-                "en": "Perfect for a chilly afternoon before it gets dark early."
+                "en": "Perfect for a chilly afternoon before it gets dark early.",
+                "es": "Perfecto para una tarde fría antes de que caiga la noche temprano."
               }
             },
             {
@@ -451,7 +488,8 @@
                 "de": "Wärmen Sie sich mit einer heißen Schokolade im Kulturzentrum auf.",
                 "hu": "Melegedjen fel egy forró csokoládéval a kulturális központban.",
                 "ro": "Încălziți-vă cu o ciocolată caldă în centrul cultural.",
-                "en": "Warm up with a hot chocolate inside the cultural center."
+                "en": "Warm up with a hot chocolate inside the cultural center.",
+                "es": "Entrégate a un chocolate caliente dentro del centro cultural para entrar en calor."
               }
             }
           ],
@@ -479,6 +517,12 @@
               "Sunset is around 5:30 PM, so plan your outdoor photography accordingly.",
               "Try typical winter sweets like turrón in the local pastry shops.",
               "The shade in narrow streets can be chilly, so stick to sunny squares for breaks."
+            ],
+            "es": [
+              "Vístete por capas, ya que los museos suelen estar mucho más calentitos que las calles sombreadas.",
+              "El atardecer es alrededor de las 17:30, así que planifica la fotografía exterior en consecuencia.",
+              "Prueba dulces típicos de invierno como el turrón en las pastelerías locales.",
+              "La sombra en las calles estrechas puede ser fresca; busca plazas soleadas para descansar."
             ]
           }
         }
@@ -497,7 +541,8 @@
             "de": "Rathaus und Plaça Major",
             "hu": "Városháza és Plaça Major",
             "ro": "Primăria și Plaça Major",
-            "en": "Town Hall and Plaça Major"
+            "en": "Town Hall and Plaça Major",
+            "es": "Casa Consistorial y Plaça Major"
           },
           "coords": [
             -0.183,
@@ -512,7 +557,8 @@
             "de": "Starten Sie Ihren Tag im Herzen der Stadt, ideal für einen Morgenkaffee.",
             "hu": "Kezdje a napot a város szívében, ideális egy reggeli kávéhoz.",
             "ro": "Începeți ziua în inima orașului, ideal pentru o cafea de dimineață.",
-            "en": "Start your day in the heart of the city, perfect for a morning coffee."
+            "en": "Start your day in the heart of the city, perfect for a morning coffee.",
+            "es": "Empieza el día en el corazón de la ciudad, perfecto para un café matutino."
           }
         },
         {
@@ -520,7 +566,8 @@
             "de": "Palau Ducal dels Borja",
             "hu": "Borgia hercegi palota",
             "ro": "Palatul Ducal al familiei Borja",
-            "en": "Ducal Palace of the Borja"
+            "en": "Ducal Palace of the Borja",
+            "es": "Palacio Ducal de los Borja"
           },
           "coords": [
             -0.181,
@@ -535,7 +582,8 @@
             "de": "Schließen Sie Ihr Fahrrad in der Nähe ab und nehmen Sie sich Zeit, die beeindruckenden Innenräume zu erkunden.",
             "hu": "Zárja le a kerékpárját a közelben, és szánjon időt a lenyűgöző belső terek felfedezésére.",
             "ro": "Încuiați bicicleta în apropiere și acordați-vă timp pentru a explora interioarele impresionante.",
-            "en": "Lock your bike nearby and take your time exploring the impressive interiors."
+            "en": "Lock your bike nearby and take your time exploring the impressive interiors.",
+            "es": "Asegura tu bici cerca y tómate tu tiempo para explorar los impresionantes interiores."
           }
         },
         {
@@ -543,7 +591,8 @@
             "de": "Stiftskirche Santa Maria",
             "hu": "Santa Maria társkáptalani templom",
             "ro": "Colegiata Santa Maria",
-            "en": "Collegiate Church of Santa Maria"
+            "en": "Collegiate Church of Santa Maria",
+            "es": "Colegiata de Santa María"
           },
           "coords": [
             -0.18,
@@ -558,7 +607,8 @@
             "de": "Ein kurzer Halt, um die valencianische Gotik dieses historischen Schatzes zu bewundern.",
             "hu": "Egy rövid megálló, hogy megcsodálhassa ennek a történelmi kincsnek a valenciai gótikáját.",
             "ro": "O oprire scurtă pentru a admira stilul gotic valencian al acestei comori istorice.",
-            "en": "A quick stop to admire the Valencian Gothic style of this historic gem."
+            "en": "A quick stop to admire the Valencian Gothic style of this historic gem.",
+            "es": "Una parada rápida para admirar el gótico valenciano de esta joya histórica."
           }
         },
         {
@@ -566,7 +616,8 @@
             "de": "Hafen von Gandia (El Grau)",
             "hu": "Gandia kikötője (El Grau)",
             "ro": "Portul din Gandia (El Grau)",
-            "en": "Port of Gandia (El Grau)"
+            "en": "Port of Gandia (El Grau)",
+            "es": "Puerto de Gandia (El Grau)"
           },
           "coords": [
             -0.155,
@@ -581,7 +632,8 @@
             "de": "Beobachten Sie die Fischerboote und genießen Sie die Meeresbrise. Ein guter Ort für ein Mittagessen mit Meeresfrüchten.",
             "hu": "Nézze a halászhajókat és élvezze a tengeri szellőt. Jó hely egy tengeri herkentyűs ebédhez.",
             "ro": "Priviți bărcile de pescuit și bucurați-vă de briza mării. Un loc bun pentru un prânz cu fructe de mare.",
-            "en": "Watch the fishing boats and enjoy the sea breeze. A great spot for a seafood lunch."
+            "en": "Watch the fishing boats and enjoy the sea breeze. A great spot for a seafood lunch.",
+            "es": "Observa los barcos pesqueros y disfruta de la brisa marina. Ideal para un almuerzo de mariscos."
           }
         },
         {
@@ -589,7 +641,8 @@
             "de": "Playa de Gandia",
             "hu": "Gandia strandja",
             "ro": "Plaja din Gandia",
-            "en": "Playa de Gandia"
+            "en": "Playa de Gandia",
+            "es": "Playa de Gandia"
           },
           "coords": [
             -0.16,
@@ -604,7 +657,8 @@
             "de": "Entspannen Sie sich am goldenen Sandstrand oder machen Sie einen Spaziergang entlang der langen Promenade. Perfekt für einen langen Nachmittag.",
             "hu": "Pihenjen az aranyhomokos strandon vagy sétáljon egyet a hosszú sétányon. Tökéletes egy hosszú délutánra.",
             "ro": "Relaxați-vă pe nisipul auriu sau faceți o plimbare de-a lungul promenadei lungi. Perfect pentru o după-amiază lungă.",
-            "en": "Relax on the golden sands or take a stroll along the long promenade. Perfect for a long afternoon."
+            "en": "Relax on the golden sands or take a stroll along the long promenade. Perfect for a long afternoon.",
+            "es": "Relájate en las arenas doradas o pasea por el largo paseo marítimo. Perfecta para una tarde larga."
           }
         },
         {
@@ -612,7 +666,8 @@
             "de": "Sonnenuntergang am Strand",
             "hu": "Naplemente a tengerparton",
             "ro": "Apus de soare pe plajă",
-            "en": "Sunset at the Beach"
+            "en": "Sunset at the Beach",
+            "es": "Atardecer en la playa"
           },
           "coords": [
             -0.162,
@@ -627,7 +682,8 @@
             "de": "Fahren Sie zum nördlichen Ende des Strandes für eine ungestörte Aussicht, während die Sonne untergeht.",
             "hu": "Kerékpározzon a strand északi végére a zavartalan kilátásért, miközben a nap lenyugszik.",
             "ro": "Mergeți cu bicicleta la capătul de nord al plajei pentru o priveliște neobstrucționată la apus.",
-            "en": "Cycle to the northern end of the beach for an unobstructed view as the sun sets."
+            "en": "Cycle to the northern end of the beach for an unobstructed view as the sun sets.",
+            "es": "Pedalea hasta el extremo norte de la playa para una vista sin obstáculos al ponerse el sol."
           }
         }
       ],
@@ -635,7 +691,8 @@
         "de": "Starten Sie Ihre Radtour im historischen Zentrum von Gandia und genießen Sie die Atmosphäre der Plaça Major. Besuchen Sie am Vormittag den prächtigen Herzogspalast der Borgia, bevor Sie einen kurzen Halt an der Stiftskirche Santa Maria einlegen. Am späten Vormittag radeln Sie zum geschäftigen Hafen, El Grau, wo Sie die Fischer bei der Arbeit beobachten können. Der gesamte Nachmittag ist dem goldenen Sand der Playa de Gandia gewidmet. Entspannen Sie sich, schwimmen Sie oder schlendern Sie die Promenade entlang, bevor Sie Ihren Tag mit einem malerischen Sonnenuntergang am Meer beenden.",
         "hu": "Kezdje a kerékpártúrát Gandia történelmi központjában, élvezve a Plaça Major hangulatát. Délelőtt látogasson el a Borgiák pazar hercegi palotájába, mielőtt rövid megállót tenne a Santa Maria társkáptalani templomnál. Késő délelőtt tekerjen a nyüzsgő kikötőbe, El Grau-ba, ahol megnézheti a halászokat munka közben. Az egész délutánt a Playa de Gandia aranyhomokos partján töltse. Pihenjen, ússzon vagy sétáljon a sétányon, mielőtt egy festői naplementével zárja a napot a tengerparton.",
         "ro": "Începeți turul cu bicicleta în centrul istoric al Gandiei, bucurându-vă de atmosfera din Plaça Major. Dimineața, vizitați magnificul Palat Ducal al familiei Borgia înainte de o oprire rapidă la Colegiata Santa Maria. Spre sfârșitul dimineții, pedalați spre portul aglomerat, El Grau, unde puteți urmări pescarii la lucru. Întreaga după-amiază este dedicată nisipurilor aurii de la Playa de Gandia. Relaxați-vă, înotați sau plimbați-vă pe promenadă înainte de a încheia ziua cu un apus pitoresc pe malul mării.",
-        "en": "Start your bike tour in the historic center of Gandia, soaking up the atmosphere of Plaça Major. In the morning, visit the magnificent Ducal Palace of the Borja before a quick stop at the Collegiate Church of Santa Maria. In the late morning, cycle to the bustling port, El Grau, where you can watch the fishermen at work. The entire afternoon is dedicated to the golden sands of Playa de Gandia. Relax, swim, or stroll along the promenade before ending your day with a picturesque sunset by the sea."
+        "en": "Start your bike tour in the historic center of Gandia, soaking up the atmosphere of Plaça Major. In the morning, visit the magnificent Ducal Palace of the Borja before a quick stop at the Collegiate Church of Santa Maria. In the late morning, cycle to the bustling port, El Grau, where you can watch the fishermen at work. The entire afternoon is dedicated to the golden sands of Playa de Gandia. Relax, swim, or stroll along the promenade before ending your day with a picturesque sunset by the sea.",
+        "es": "Comienza tu ruta en bici en el casco histórico de Gandia, empapándote del ambiente de la Plaça Major. Por la mañana visita el magnífico Palacio Ducal de los Borja antes de una parada rápida en la Colegiata de Santa María. A última hora de la mañana pedalea hasta el animado puerto, El Grau, donde podrás ver a los pescadores en su faena. Toda la tarde está dedicada a las arenas doradas de la Playa de Gandia. Relájate, nada o pasea por el paseo antes de terminar el día con un pintoresco atardecer junto al mar."
       },
       "gastro_picks": {
         "de": [
@@ -775,6 +832,11 @@
           "Use the bike lanes, especially along the coast.",
           "Some streets in the old town are narrow, you might need to dismount and walk.",
           "Always lock your bike, even for short stops."
+        ],
+        "es": [
+          "Utiliza los carriles bici, especialmente a lo largo de la costa.",
+          "Algunas calles del casco antiguo son estrechas; puede que tengas que bajar de la bici y caminar.",
+          "Siempre asegura tu bici con candado, incluso en paradas cortas."
         ]
       },
       "variants": {
@@ -783,7 +845,8 @@
             "de": "Am Vormittag radeln wir vorsichtig durch die Altstadt zum Borja-Palast. Mittags bietet die Fahrt zum Hafen eine frische Brise, trotz Regen. Den Nachmittag verbringen wir in Strandnähe, wo wir die Räder sicher abstellen und den Blick auf das stürmische Meer aus einem Café genießen. Abends geht es zügig zurück ins Stadtzentrum.",
             "hu": "Délelőtt óvatosan kerekezünk az óvároson át a palotáig. Délben a kikötő felé tartó út frissítő, az eső ellenére is. A délutánt a tengerpart közelében töltjük, ahol biztonságban lelakatoljuk a gépeket, és egy kávézóból nézzük a viharos tengert. Este tempósan tekerünk vissza a központba.",
             "ro": "Dimineața pedalăm cu atenție prin centrul vechi spre palat. La prânz, drumul spre port oferă o briză proaspătă, în ciuda ploii. După-amiaza o petrecem lângă plajă, unde parcăm bicicletele și admirăm marea agitată dintr-o cafenea. Seara revenim rapid spre centrul orașului.",
-            "en": "Morning bike ride through the old town requires care on wet stones. Midday ride to the port is refreshing despite the rain. Afternoon is spent near the beach, where we lock up the bikes and watch the stormy sea from a cozy cafe. Evening involves a brisk ride back to the city center."
+            "en": "Morning bike ride through the old town requires care on wet stones. Midday ride to the port is refreshing despite the rain. Afternoon is spent near the beach, where we lock up the bikes and watch the stormy sea from a cozy cafe. Evening involves a brisk ride back to the city center.",
+            "es": "El paseo matutino por el casco antiguo requiere cuidado por las piedras mojadas. El trayecto al puerto al mediodía resulta refrescante pese a la lluvia. La tarde se pasa cerca de la playa, donde dejamos las bicis y miramos el mar tormentoso desde un café acogedor. Por la noche toca un rápido regreso al centro de la ciudad."
           },
           "stops": [
             {
@@ -792,7 +855,8 @@
                 "de": "Vorsicht beim Anfahren: Das nasse Pflaster kann sehr rutschig sein.",
                 "hu": "Vigyázat induláskor: a vizes kövezet nagyon csúszós lehet.",
                 "ro": "Atenție la plecare: pavajul umed poate fi foarte alunecos.",
-                "en": "Caution when starting: the wet pavement can be very slippery."
+                "en": "Caution when starting: the wet pavement can be very slippery.",
+                "es": "Precaución al empezar: el pavimento mojado puede ser muy resbaladizo."
               }
             },
             {
@@ -801,7 +865,8 @@
                 "de": "Stellen Sie Ihr Rad unter den Vorsprüngen in der Nähe ab.",
                 "hu": "Parkolja le a kerékpárt a közeli ereszaljak védelmében.",
                 "ro": "Parcați bicicleta sub streșinile clădirilor din apropiere.",
-                "en": "Park your bike under the building overhangs nearby for protection."
+                "en": "Park your bike under the building overhangs nearby for protection.",
+                "es": "Aparca la bici bajo los aleros de los edificios cercanos para protegerla."
               }
             },
             {
@@ -810,7 +875,8 @@
                 "de": "Nutzen Sie den Stopp für einen kurzen Check Ihrer Bremsen.",
                 "hu": "Használja ki a megállót a fékek rövid ellenőrzésére.",
                 "ro": "Folosiți oprirea pentru o verificare rapidă a frânelor.",
-                "en": "Use the stop for a quick check of your brakes in the wet."
+                "en": "Use the stop for a quick check of your brakes in the wet.",
+                "es": "Aprovecha la parada para revisar rápidamente los frenos en mojado."
               }
             },
             {
@@ -819,7 +885,8 @@
                 "de": "Die Radwege am Hafen sind gut asphaltiert und bei Regen griffig.",
                 "hu": "A kikötői kerékpárutak jól aszfaltozottak és esőben is tapadnak.",
                 "ro": "Pistele de biciclete din port sunt bine asfaltate și au aderență pe ploaie.",
-                "en": "Port bike paths are well-paved and maintain good grip in the rain."
+                "en": "Port bike paths are well-paved and maintain good grip in the rain.",
+                "es": "Los carriles del puerto están bien pavimentados y mantienen buen agarre bajo la lluvia."
               }
             },
             {
@@ -828,7 +895,8 @@
                 "de": "Suchen Sie sich ein Strandcafé mit Blick auf die Räder.",
                 "hu": "Keressen egy parti kávézót, ahonnan rálát a kerékpárokra.",
                 "ro": "Căutați o cafenea pe plajă cu vedere directă spre biciclete.",
-                "en": "Find a beach cafe with a clear view of your parked bikes."
+                "en": "Find a beach cafe with a clear view of your parked bikes.",
+                "es": "Busca un chiringuito con vista clara a tus bicis aparcadas."
               }
             },
             {
@@ -837,7 +905,8 @@
                 "de": "Regenschleier über dem Meer bieten dramatische Fotomotive.",
                 "hu": "Az esőfüggöny a tenger felett drámai fotótémát kínál.",
                 "ro": "Perdeaua de ploaie peste mare oferă motive fotografice dramatice.",
-                "en": "Rain curtains over the sea provide dramatic photo opportunities."
+                "en": "Rain curtains over the sea provide dramatic photo opportunities.",
+                "es": "Las cortinas de lluvia sobre el mar ofrecen oportunidades fotográficas dramáticas."
               }
             }
           ],
@@ -865,6 +934,12 @@
               "Front and rear lights are essential for visibility during rain showers.",
               "Use the bike paths along the avenue to Grau; they are safer in wet conditions.",
               "A saddle cover will keep your seat dry while you are exploring indoors."
+            ],
+            "es": [
+              "Evita frenar bruscamente sobre las piedras resbaladizas del casco histórico.",
+              "Luces delanteras y traseras son esenciales para ser visto durante los chubascos.",
+              "Usa los carriles bici a lo largo de la avenida hacia El Grau; son más seguros con mojado.",
+              "Una funda de sillín mantendrá seco el asiento mientras exploras en interiores."
             ]
           }
         },
@@ -873,7 +948,8 @@
             "de": "Ein klarer Wintertag ist ideal für eine Radtour zum Meer. Morgens geht es durch die historische Mitte, mittags am breiten Boulevard entlang zum Hafen von Grau. Den Nachmittag genießen wir am fast leeren Strand, wo die milde Sonne zum Verweilen einlädt. Bevor es abends kühl wird, radeln wir zurück ins lebendige Gandia.",
             "hu": "Egy tiszta téli nap ideális egy bringatúrához a tengerig. Reggel a történelmi központon vágunk át, délben a széles sugárúton tekerünk a Grau kikötőjéig. A délutánt a szinte üres strandon töltjük, ahol a szelíd napfény hívogat. Mielőtt este lehűlne, visszakerekezünk a nyüzsgő Gandiába.",
             "ro": "O zi senină de iarnă este ideală pentru o tură cu bicicleta la mare. Dimineața traversăm centrul istoric, iar la prânz pedalăm pe bulevardul larg spre portul Grau. După-amiaza ne bucurăm de plaja aproape goală sub soarele blând. Înainte de răcoarea serii, revenim în Gandia.",
-            "en": "A clear winter day is perfect for a bike trip to the sea. Morning ride through the historic center leads to a midday cruise down the boulevard to Grau Port. Enjoy the nearly empty beach in the afternoon sun. Before the evening chill sets in, we bike back to lively Gandia."
+            "en": "A clear winter day is perfect for a bike trip to the sea. Morning ride through the historic center leads to a midday cruise down the boulevard to Grau Port. Enjoy the nearly empty beach in the afternoon sun. Before the evening chill sets in, we bike back to lively Gandia.",
+            "es": "Un día claro de invierno es perfecto para una excursión en bici al mar. El paseo matutino por el casco histórico conduce a un recorrido al mediodía por el bulevar hasta el Puerto de El Grau. Disfruta de la playa casi vacía bajo el sol de la tarde. Antes de que llegue el frío nocturno, volvemos en bici a la animada Gandia."
           },
           "stops": [
             {
@@ -882,7 +958,8 @@
                 "de": "Handschuhe sind für die erste Etappe am Morgen sehr zu empfehlen.",
                 "hu": "Kesztyű viselése erősen ajánlott a reggeli első szakaszhoz.",
                 "ro": "Mănușile sunt recomandate pentru prima etapă a dimineții.",
-                "en": "Wearing gloves is highly recommended for the first leg in the morning."
+                "en": "Wearing gloves is highly recommended for the first leg in the morning.",
+                "es": "Se recomienda llevar guantes para el primer tramo de la mañana."
               }
             },
             {
@@ -891,7 +968,8 @@
                 "de": "Nutzen Sie die Besichtigung, um Ihre Hände aufzuwärmen.",
                 "hu": "Használja ki a látogatást a kezei felmelegítésére.",
                 "ro": "Profitați de vizită pentru a vă încălzi mâinile în interior.",
-                "en": "Take advantage of the indoor visit to warm up your hands."
+                "en": "Take advantage of the indoor visit to warm up your hands.",
+                "es": "Aprovecha las visitas interiores para calentar las manos."
               }
             },
             {
@@ -900,7 +978,8 @@
                 "de": "Ein kurzer Stopp im windgeschützten Bereich der Kirche.",
                 "hu": "Rövid megálló a templom szélvédett környezetében.",
                 "ro": "O scurtă oprire în zona ferită de vânt a bisericii.",
-                "en": "A short stop in the wind-sheltered area around the church."
+                "en": "A short stop in the wind-sheltered area around the church.",
+                "es": "Una breve parada en la zona protegida del viento alrededor de la iglesia."
               }
             },
             {
@@ -909,7 +988,8 @@
                 "de": "Der Seewind kann im Winter frisch sein; Windjacke einplanen.",
                 "hu": "A tengeri szél télen hűvös lehet; készüljön szélkabáttal.",
                 "ro": "Vântul marin poate fi tăios iarna; asigurați-vă că aveți o jachetă.",
-                "en": "The sea breeze can be chilly in winter; bring a windbreaker."
+                "en": "The sea breeze can be chilly in winter; bring a windbreaker.",
+                "es": "La brisa marina puede ser fría en invierno; lleva una cortavientos."
               }
             },
             {
@@ -918,7 +998,8 @@
                 "de": "Ideal für ein Picknick in der Sonne am windgeschützten Dünenrand.",
                 "hu": "Ideális egy piknikhez a napon, a szélvédett dűnék tövében.",
                 "ro": "Ideal pentru un picnic la soare, la adăpostul dunelor de nisip.",
-                "en": "Ideal for a picnic in the sun, sheltered by the edge of the dunes."
+                "en": "Ideal for a picnic in the sun, sheltered by the edge of the dunes.",
+                "es": "Ideal para un picnic al sol, protegido por el borde de las dunas."
               }
             },
             {
@@ -927,7 +1008,8 @@
                 "de": "Die Sonne verschwindet früh; Licht für den Rückweg bereithalten.",
                 "hu": "A nap korán lemegy; legyen készenlétben a világítás a visszaúthoz.",
                 "ro": "Soarele apune devreme; aveți luminile pregătite pentru retur.",
-                "en": "The sun sets early; have your lights ready for the ride back."
+                "en": "The sun sets early; have your lights ready for the ride back.",
+                "es": "El sol se pone temprano; ten las luces listas para el regreso."
               }
             }
           ],
@@ -955,6 +1037,12 @@
               "Check your tire pressure; cold air can cause it to drop slightly.",
               "The route to Grau is flat and easy to ride even with a winter breeze.",
               "Plan your return journey before 5:00 PM to arrive in daylight."
+            ],
+            "es": [
+              "La sensación térmica al pedalear hace que la temperatura parezca mucho más baja.",
+              "Revisa la presión de los neumáticos; el aire frío puede reducirla ligeramente.",
+              "La ruta hacia El Grau es llana y fácil de pedalear incluso con la brisa invernal.",
+              "Planifica el regreso antes de las 17:00 para llegar con luz diurna."
             ]
           }
         }
@@ -973,7 +1061,8 @@
             "de": "Parken & Erkundung des historischen Zentrums",
             "hu": "Parkolás és a történelmi központ felfedezése",
             "ro": "Parcare și explorarea centrului istoric",
-            "en": "Park & Explore Historic Center"
+            "en": "Park & Explore Historic Center",
+            "es": "Aparca y explora el casco histórico"
           },
           "coords": [
             -0.184,
@@ -989,7 +1078,8 @@
             "de": "Parken Sie in der Tiefgarage Plaça del Prado. Der erste Halt ist der Rathausplatz.",
             "hu": "Parkoljon a Plaça del Prado mélygarázsában. Az első megálló a városháza tere.",
             "ro": "Parcați în parcarea subterană Plaça del Prado. Prima oprire este piața primăriei.",
-            "en": "Park in the Plaça del Prado underground parking. The first stop is the town hall square."
+            "en": "Park in the Plaça del Prado underground parking. The first stop is the town hall square.",
+            "es": "Aparca en el parking subterráneo de la Plaça del Prado. La primera parada es la plaza del ayuntamiento."
           }
         },
         {
@@ -997,7 +1087,8 @@
             "de": "Palau Ducal und Stiftskirche",
             "hu": "Hercegi Palota és Társkáptalani Templom",
             "ro": "Palatul Ducal și Colegiata",
-            "en": "Ducal Palace and Collegiate Church"
+            "en": "Ducal Palace and Collegiate Church",
+            "es": "Palacio Ducal y Colegiata"
           },
           "coords": [
             -0.181,
@@ -1013,7 +1104,8 @@
             "de": "Diese beiden Hauptattraktionen liegen nebeneinander. Kaufen Sie ein Kombiticket, wenn verfügbar.",
             "hu": "Ez a két fő látnivaló egymás mellett található. Ha van, vegyen kombinált jegyet.",
             "ro": "Aceste două atracții principale sunt una lângă cealaltă. Cumpărați un bilet combinat, dacă este disponibil.",
-            "en": "These two main attractions are next to each other. Buy a combination ticket if available."
+            "en": "These two main attractions are next to each other. Buy a combination ticket if available.",
+            "es": "Estas dos atracciones principales están una junto a la otra. Compra una entrada combinada si está disponible."
           }
         },
         {
@@ -1021,7 +1113,8 @@
             "de": "Archäologisches Museum von Gandia (MAGa)",
             "hu": "Gandia Régészeti Múzeuma (MAGa)",
             "ro": "Muzeul Arheologic din Gandia (MAGa)",
-            "en": "Archaeological Museum of Gandia (MAGa)"
+            "en": "Archaeological Museum of Gandia (MAGa)",
+            "es": "Museo Arqueológico de Gandia (MAGa)"
           },
           "coords": [
             -0.179,
@@ -1037,7 +1130,8 @@
             "de": "Ein kurzer Spaziergang vom Palast entfernt. Ein Muss für Geschichtsliebhaber.",
             "hu": "Rövid sétára a palotától. A történelem kedvelőinek kötelező.",
             "ro": "La o scurtă plimbare de palat. O vizită obligatorie pentru pasionații de istorie.",
-            "en": "A short walk from the palace. A must-see for history enthusiasts."
+            "en": "A short walk from the palace. A must-see for history enthusiasts.",
+            "es": "A poca distancia del palacio. Imprescindible para los amantes de la historia."
           }
         },
         {
@@ -1045,7 +1139,8 @@
             "de": "Fahrt und Parken am Strand von Gandia",
             "hu": "Autózás és parkolás a Gandia strandnál",
             "ro": "Conduceți și parcați la plaja Gandia",
-            "en": "Drive & Park at Gandia Beach"
+            "en": "Drive & Park at Gandia Beach",
+            "es": "Conduce y aparca en la playa de Gandia"
           },
           "coords": [
             -0.165,
@@ -1061,7 +1156,8 @@
             "de": "Fahren Sie zum Strandbereich. Suchen Sie nach gebührenpflichtigen Parkplätzen in der Nähe der Promenade für leichten Zugang.",
             "hu": "Vezessen a strand területére. Keressen fizetős parkolóhelyeket a sétány közelében a könnyű hozzáférés érdekében.",
             "ro": "Conduceți spre zona plajei. Căutați parcare cu plată aproape de promenadă pentru acces facil.",
-            "en": "Drive to the beach area. Look for paid parking near the promenade for easy access."
+            "en": "Drive to the beach area. Look for paid parking near the promenade for easy access.",
+            "es": "Conduce hasta la zona de la playa. Busca aparcamiento de pago cerca del paseo para un acceso fácil."
           }
         },
         {
@@ -1069,7 +1165,8 @@
             "de": "Mittagessen und Entspannung am Strand",
             "hu": "Ebéd és pihenés a tengerparton",
             "ro": "Prânz și relaxare pe plajă",
-            "en": "Lunch and Beach Relaxation"
+            "en": "Lunch and Beach Relaxation",
+            "es": "Almuerzo y relax en la playa"
           },
           "coords": [
             -0.16,
@@ -1085,7 +1182,8 @@
             "de": "Genießen Sie ein Mittagessen mit Fideuà in einem Chiringuito (Strandrestaurant) und entspannen Sie sich am Nachmittag am Meer.",
             "hu": "Ebédeljen egy Fideuà-t egy chiringuitóban (tengerparti étterem), és pihenjen délután a tengerparton.",
             "ro": "Savurați un prânz cu fideuà la un chiringuito (restaurant pe plajă) și relaxați-vă pe malul mării după-amiaza.",
-            "en": "Enjoy a Fideuà lunch at a chiringuito (beach restaurant) and relax by the sea for the afternoon."
+            "en": "Enjoy a Fideuà lunch at a chiringuito (beach restaurant) and relax by the sea for the afternoon.",
+            "es": "Disfruta de una fideuà en un chiringuito y relájate junto al mar por la tarde."
           }
         }
       ],
@@ -1093,7 +1191,8 @@
         "de": "Beginnen Sie Ihren Tag, indem Sie im historischen Zentrum von Gandia parken. Der Vormittag ist der Erkundung des Erbes der Borgia gewidmet, mit einem Spaziergang, der den Herzogspalast, die Stiftskirche und das Archäologische Museum umfasst. Nach dem Eintauchen in die Geschichte fahren Sie zum berühmten Strand von Gandia. Verbringen Sie den Rest des Tages entspannt: Genießen Sie ein authentisches Mittagessen am Meer, schwimmen Sie im Mittelmeer und sonnen Sie sich an den goldenen Sandstränden, ganz ohne Stress durch Parkplatzsuche.",
         "hu": "Kezdje a napot a történelmi központban való parkolással. A délelőttöt a Borgia-örökség felfedezésének szentelje, egy sétával, amely magában foglalja a hercegi palotát, a társkáptalani templomot és a Régészeti Múzeumot. A történelemben való elmélyülés után autózzon el Gandia híres strandjára. Töltse a nap hátralévő részét pihenéssel: ebédeljen egy autentikus tengerparti ebédet, ússzon a Földközi-tengerben, és napozzon az aranyhomokos parton, mindezt a parkolási gondok nélkül.",
         "ro": "Începeți ziua parcând în centrul istoric al Gandiei. Dimineața este dedicată explorării moștenirii Borgia, cu o plimbare care acoperă Palatul Ducal, Colegiata și Muzeul Arheologic. După imersiunea în istorie, conduceți spre faimoasa plajă din Gandia. Petreceți restul zilei în modul de relaxare: savurați un prânz autentic pe malul mării, înotați în Mediterană și bucurați-vă de soare pe nisipul auriu, totul fără stresul de a căuta parcare.",
-        "en": "Start your day by parking in the historic center of Gandia. The morning is dedicated to exploring the Borgia heritage with a walking tour covering the Ducal Palace, the Collegiate Church, and the Archaeological Museum. After immersing yourself in history, drive to Gandia's famous beach. Spend the rest of the day in full relaxation mode: enjoy an authentic seaside lunch, swim in the Mediterranean, and soak up the sun on the golden sands, all without the stress of finding parking."
+        "en": "Start your day by parking in the historic center of Gandia. The morning is dedicated to exploring the Borgia heritage with a walking tour covering the Ducal Palace, the Collegiate Church, and the Archaeological Museum. After immersing yourself in history, drive to Gandia's famous beach. Spend the rest of the day in full relaxation mode: enjoy an authentic seaside lunch, swim in the Mediterranean, and soak up the sun on the golden sands, all without the stress of finding parking.",
+        "es": "Comienza el día aparcando en el casco histórico de Gandia. La mañana está dedicada a explorar el legado Borgia con una ruta a pie que incluye el Palacio Ducal, la Colegiata y el Museo Arqueológico. Tras empaparte de historia, conduce hasta la famosa playa de Gandia. Pasa el resto del día en modo relax: disfruta de un almuerzo costero auténtico, báñate en el Mediterráneo y toma el sol en las arenas doradas, todo sin el estrés de buscar aparcamiento."
       },
       "gastro_picks": {
         "de": [
@@ -1233,6 +1332,11 @@
           "Underground car parks are the best option in the historic center.",
           "Traffic to the beach can be heavy in summer, so allow extra time.",
           "Be aware of blue zones (Zona Azul) for paid on-street parking."
+        ],
+        "es": [
+          "Los parkings subterráneos son la mejor opción en el casco histórico.",
+          "El tráfico hacia la playa puede ser intenso en verano, así que calcula tiempo extra.",
+          "Ten en cuenta las zonas azules para el estacionamiento de pago en la calle."
         ]
       },
       "variants": {
@@ -1241,7 +1345,8 @@
             "de": "Mit dem Auto erreichen wir Gandia bequem trotz Regen. Vormittags parken wir nahe der Altstadt für kurze Wege zum Palast. Mittags fahren wir geschützt an die Küste. Den Nachmittag verbringen wir entspannt am Strand von Gandia, wo wir vom Auto aus oder in einem nahen Restaurant das Meer beobachten, bevor wir abends trocken zurückkehren.",
             "hu": "Autóval az eső ellenére is kényelmesen érjük el Gandiát. Délelőtt az óváros közelében parkolunk, hogy csak rövid utat kelljen gyalog megtenni a palotáig. Délben védett autóval hajtunk ki a partra. A délutánt a strandon töltjük, az autóból vagy egy közeli étteremből figyelve a tengert, majd este szárazon térünk vissza.",
             "ro": "Cu mașina ajungem confortabil în Gandia în ciuda ploii. Dimineața parcăm lângă centrul vechi pentru acces rapid la palat. La prânz conducem spre coastă feriți de intemperii. După-amiaza o petrecem la plajă, admirând marea din mașină sau dintr-un restaurant, înainte de a reveni seara la uscat.",
-            "en": "By car, we reach Gandia comfortably despite the rain. Morning parking near the old town allows for short walks to the palace. Midday drive to the coast keeps us sheltered. Afternoon is spent at Gandia Beach, watching the waves from the car or a nearby restaurant before a dry drive back."
+            "en": "By car, we reach Gandia comfortably despite the rain. Morning parking near the old town allows for short walks to the palace. Midday drive to the coast keeps us sheltered. Afternoon is spent at Gandia Beach, watching the waves from the car or a nearby restaurant before a dry drive back.",
+            "es": "En coche, llegamos a Gandia cómodamente a pesar de la lluvia. El aparcamiento matutino cerca del casco antiguo permite paseos cortos hasta el palacio. El viaje al mediodía a la costa nos mantiene resguardados. La tarde se pasa en la Playa de Gandia, viendo las olas desde el coche o un restaurante cercano antes de un regreso seco en coche."
           },
           "stops": [
             {
@@ -1250,7 +1355,8 @@
                 "de": "Nutzen Sie Parkhäuser, um trockenen Fußes ins Zentrum zu gelangen.",
                 "hu": "Használja a parkolóházakat, hogy száraz lábbal jusson a központba.",
                 "ro": "Folosiți parcările subterane pentru a ajunge în centru fără a vă uda.",
-                "en": "Use parking garages to reach the center with dry feet."
+                "en": "Use parking garages to reach the center with dry feet.",
+                "es": "Usa los parkings para llegar al centro con los pies secos."
               }
             },
             {
@@ -1259,7 +1365,8 @@
                 "de": "Lassen Sie Schirme im Auto, falls der Weg vom Parkplatz kurz ist.",
                 "hu": "Hagyja az ernyőket az autóban, ha a parkolótól rövid az út.",
                 "ro": "Lăsați umbrelele în mașină dacă distanța de la parcare este mică.",
-                "en": "Leave umbrellas in the car if the walk from the parking is short."
+                "en": "Leave umbrellas in the car if the walk from the parking is short.",
+                "es": "Deja los paraguas en el coche si la caminata desde el parking es corta."
               }
             },
             {
@@ -1268,7 +1375,8 @@
                 "de": "Zentrale Lage ermöglicht schnelles Umparken bei starkem Regen.",
                 "hu": "A központi elhelyezkedés lehetővé teszi a gyors átparkolást nagy esőben.",
                 "ro": "Locația centrală permite mutarea rapidă a mașinii în caz de ploaie torențială.",
-                "en": "Central location allows for quick re-parking during heavy rain."
+                "en": "Central location allows for quick re-parking during heavy rain.",
+                "es": "La ubicación céntrica permite volver a aparcar rápidamente en lluvia intensa."
               }
             },
             {
@@ -1277,7 +1385,8 @@
                 "de": "Parkplätze direkt am Paseo Marítimo bieten beste Aussicht.",
                 "hu": "A közvetlenül a Paseo Marítimo melletti parkolók kínálják a legjobb kilátást.",
                 "ro": "Locurile de parcare direct pe Paseo Marítimo oferă cea mai bună vedere.",
-                "en": "Parking spots directly on Paseo Marítimo offer the best views."
+                "en": "Parking spots directly on Paseo Marítimo offer the best views.",
+                "es": "Las plazas junto al Paseo Marítimo ofrecen las mejores vistas."
               }
             },
             {
@@ -1286,7 +1395,8 @@
                 "de": "Genießen Sie das Meeresrauschen geschützt in Ihrem Fahrzeug.",
                 "hu": "Élvezze a tenger morajlását biztonságban a járművéből.",
                 "ro": "Bucurați-vă de sunetul mării protejat în interiorul vehiculului.",
-                "en": "Enjoy the sound of the sea protected inside your vehicle."
+                "en": "Enjoy the sound of the sea protected inside your vehicle.",
+                "es": "Disfruta del sonido del mar protegido dentro de tu vehículo."
               }
             }
           ],
@@ -1314,6 +1424,12 @@
               "Old town parking garages like 'Prado' are ideal for rainy days.",
               "Use the drive between town and beach to warm up the car interior.",
               "Keep a towel in the car to dry off the seats if you get wet."
+            ],
+            "es": [
+              "La carretera costera puede formar grandes charcos con lluvias fuertes.",
+              "Los parkings del casco antiguo como 'Prado' son ideales para días lluviosos.",
+              "Aprovecha el trayecto entre la ciudad y la playa para calentar el interior del coche.",
+              "Ten una toalla en el coche para secar los asientos si te mojas."
             ]
           }
         },
@@ -1322,7 +1438,8 @@
             "de": "Im Winter bietet das Auto maximale Flexibilität für Gandia. Morgens erkunden wir die Altstadt, mittags fahren wir zum sonnigen Hafen. Den Nachmittag genießen wir am weiten Strand, wobei das Auto als Basis für Decken und warme Getränke dient. Zum Abendessen geht es zurück ins beleuchtete Zentrum, bequem und warm.",
             "hu": "Télen az autó maximális rugalmasságot ad Gandiában. Reggel az óvárost fedezzük fel, délben a napfényes kikötőbe hajtunk. A délutánt a tágas strandon töltjük, ahol az autó bázisként szolgál a takaróknak és meleg italoknak. Vacsorához kényelmesen és melegben térünk vissza a kivilágított központba.",
             "ro": "Iarna, mașina oferă flexibilitate maximă în Gandia. Dimineața explorăm centrul vechi, iar la prânz conducem spre portul însorit. După-amiaza o petrecem pe plaja vastă, mașina fiind baza pentru pături și băuturi calde. Revenim seara în centrul luminat, confortabil și la căldură.",
-            "en": "Winter car travel offers maximum flexibility for Gandia. Morning exploration of the old town is followed by a midday drive to the sunny port. Afternoon is enjoyed at the wide beach, with the car acting as a base for blankets and warm drinks. Return to the lit center for dinner in comfort."
+            "en": "Winter car travel offers maximum flexibility for Gandia. Morning exploration of the old town is followed by a midday drive to the sunny port. Afternoon is enjoyed at the wide beach, with the car acting as a base for blankets and warm drinks. Return to the lit center for dinner in comfort.",
+            "es": "Viajar en coche en invierno ofrece máxima flexibilidad en Gandia. La exploración matutina del casco antiguo va seguida de un viaje al mediodía al puerto soleado. La tarde se disfruta en la amplia playa, con el coche como base para mantas y bebidas calientes. Vuelve al centro iluminado para cenar con comodidad."
           },
           "stops": [
             {
@@ -1331,7 +1448,8 @@
                 "de": "Sonnige Parkplätze wählen, um das Auto natürlich aufzuwärmen.",
                 "hu": "Válasszon napos parkolóhelyet, hogy az autó természetes módon felmelegedjen.",
                 "ro": "Alegeți locuri de parcare însorite pentru a încălzi natural mașina.",
-                "en": "Choose sunny parking spots to warm up the car naturally."
+                "en": "Choose sunny parking spots to warm up the car naturally.",
+                "es": "Elige plazas al sol para calentar el coche de forma natural."
               }
             },
             {
@@ -1340,7 +1458,8 @@
                 "de": "Nutzen Sie den Kofferraum für die Aufbewahrung schwerer Wintermäntel.",
                 "hu": "Használja a csomagtartót a nehéz téli kabátok tárolására a séta alatt.",
                 "ro": "Folosiți portbagajul pentru a depozita hainele groase de iarnă în timpul vizitei.",
-                "en": "Use the trunk to store heavy winter coats during your walk."
+                "en": "Use the trunk to store heavy winter coats during your walk.",
+                "es": "Usa el maletero para guardar abrigos pesados durante la caminata."
               }
             },
             {
@@ -1349,7 +1468,8 @@
                 "de": "Kurze Wege zwischen den Sehenswürdigkeiten minimieren die Kälteexposition.",
                 "hu": "A látnivalók közötti rövid utak minimalizálják a hidegnek való kitettséget.",
                 "ro": "Distanțele scurte între obiective minimizează expunerea la frig.",
-                "en": "Short distances between sights minimize exposure to the cold air."
+                "en": "Short distances between sights minimize exposure to the cold air.",
+                "es": "Las cortas distancias entre puntos de interés minimizan la exposición al aire frío."
               }
             },
             {
@@ -1358,7 +1478,8 @@
                 "de": "Im Winter sind die Parkplätze direkt am Strand meist kostenfrei.",
                 "hu": "Télen a strand közvetlen közelében lévő parkolók általában ingyenesek.",
                 "ro": "Iarna, locurile de parcare de lângă plajă sunt de obicei gratuite.",
-                "en": "In winter, parking spots directly by the beach are usually free of charge."
+                "en": "In winter, parking spots directly by the beach are usually free of charge.",
+                "es": "En invierno, las plazas junto a la playa suelen ser gratuitas."
               }
             },
             {
@@ -1367,7 +1488,8 @@
                 "de": "Idealer Ort für einen 'Tailgate'-Kaffee mit Blick auf die Dünen.",
                 "hu": "Ideális hely egy csomagtartóból elfogyasztott kávéhoz a dűnék mellett.",
                 "ro": "Locul ideal pentru o cafea lângă mașină, cu vedere spre dune.",
-                "en": "Ideal spot for a coffee by the car with a view of the dunes."
+                "en": "Ideal spot for a coffee by the car with a view of the dunes.",
+                "es": "Lugar ideal para tomar un café junto al coche con vistas a las dunas."
               }
             }
           ],
@@ -1395,6 +1517,12 @@
               "Check tire pressure in cold weather for optimal safety and grip.",
               "Parking fees near the beach are often reduced or suspended in winter.",
               "Take advantage of seat heaters after long walks on the beach."
+            ],
+            "es": [
+              "Cuidado con el sol bajo de invierno al conducir hacia la costa.",
+              "Revisa la presión de los neumáticos en tiempo frío para seguridad y agarre óptimos.",
+              "Las tarifas de aparcamiento cerca de la playa suelen reducirse o suspenderse en invierno.",
+              "Aprovecha los asientos calefactados tras largas caminatas por la playa."
             ]
           }
         }
@@ -1413,7 +1541,8 @@
             "de": "Ankunft im historischen Zentrum",
             "hu": "Érkezés a történelmi központba",
             "ro": "Sosire în centrul istoric",
-            "en": "Arrival at Historic Center"
+            "en": "Arrival at Historic Center",
+            "es": "Llegada al casco histórico"
           },
           "coords": [
             -0.1835,
@@ -1429,7 +1558,8 @@
             "de": "Nehmen Sie einen lokalen Bus zur Haltestelle 'Passeig de les Germanies'. Der Rathausplatz ist nur einen kurzen Spaziergang entfernt.",
             "hu": "Vegyen egy helyi buszt a 'Passeig de les Germanies' megállóig. A Városháza tér rövid sétára található.",
             "ro": "Luați un autobuz local până la stația 'Passeig de les Germanies'. Piața Primăriei este la o scurtă plimbare.",
-            "en": "Take a local bus to the 'Passeig de les Germanies' stop. The Town Hall square is a short walk away."
+            "en": "Take a local bus to the 'Passeig de les Germanies' stop. The Town Hall square is a short walk away.",
+            "es": "Toma un autobús local hasta la parada 'Passeig de les Germanies'. La plaza del ayuntamiento está a un corto paseo."
           }
         },
         {
@@ -1437,7 +1567,8 @@
             "de": "Palau Ducal dels Borja",
             "hu": "Borgia hercegi palota",
             "ro": "Palatul Ducal al familiei Borja",
-            "en": "Ducal Palace of the Borja"
+            "en": "Ducal Palace of the Borja",
+            "es": "Palacio Ducal de los Borja"
           },
           "coords": [
             -0.181,
@@ -1453,7 +1584,8 @@
             "de": "Erkunden Sie den beeindruckendsten Palast der Stadt, ein Zeugnis der Macht der Borgia.",
             "hu": "Fedezze fel a város legimpozánsabb palotáját, a Borgiák hatalmának tanúbizonyságát.",
             "ro": "Explorați cel mai impresionant palat din oraș, o mărturie a puterii familiei Borgia.",
-            "en": "Explore the city's most impressive palace, a testament to the Borgia's power."
+            "en": "Explore the city's most impressive palace, a testament to the Borgia's power.",
+            "es": "Explora el palacio más imponente de la ciudad, testigo del poder de los Borja."
           }
         },
         {
@@ -1461,7 +1593,8 @@
             "de": "Stiftskirche und Antigua Universidad",
             "hu": "Társkáptalani templom és Régi Egyetem",
             "ro": "Colegiata și Universitatea Veche",
-            "en": "Collegiate Church and Old University"
+            "en": "Collegiate Church and Old University",
+            "es": "Colegiata y Antigua Universidad"
           },
           "coords": [
             -0.1815,
@@ -1477,7 +1610,8 @@
             "de": "Beide Stätten sind eng mit der Familie Borgia verbunden und liegen nur wenige Schritte voneinander entfernt.",
             "hu": "Mindkét helyszín szorosan kapcsolódik a Borgia családhoz, és csak néhány lépésre vannak egymástól.",
             "ro": "Ambele situri sunt strâns legate de familia Borgia și sunt la doar câțiva pași unul de celălalt.",
-            "en": "Both sites are closely linked to the Borgia family and are just steps apart."
+            "en": "Both sites are closely linked to the Borgia family and are just steps apart.",
+            "es": "Ambos lugares están estrechamente ligados a la familia Borja y quedan a pocos pasos."
           }
         },
         {
@@ -1485,7 +1619,8 @@
             "de": "Busfahrt zum Strand (Playa de Gandia)",
             "hu": "Buszozás a strandra (Playa de Gandia)",
             "ro": "Călătorie cu autobuzul spre plajă (Playa de Gandia)",
-            "en": "Bus to the Beach (Playa de Gandia)"
+            "en": "Bus to the Beach (Playa de Gandia)",
+            "es": "Autobús a la playa (Playa de Gandia)"
           },
           "coords": [
             -0.165,
@@ -1501,7 +1636,8 @@
             "de": "Nehmen Sie die L2 (La Marina) Linie von der Stadt zum Strand. Steigen Sie in der Nähe der Promenade aus.",
             "hu": "Vegye az L2-es (La Marina) vonalat a városból a strandra. Szálljon le a sétány közelében.",
             "ro": "Luați linia L2 (La Marina) din oraș spre plajă. Coborâți lângă promenadă.",
-            "en": "Take the L2 (La Marina) line from the city to the beach. Get off near the promenade."
+            "en": "Take the L2 (La Marina) line from the city to the beach. Get off near the promenade.",
+            "es": "Toma la línea L2 (La Marina) desde la ciudad hasta la playa. Baja cerca del paseo."
           }
         },
         {
@@ -1509,7 +1645,8 @@
             "de": "Hafen, Mittagessen und Strandzeit",
             "hu": "Kikötő, ebéd és strandolás",
             "ro": "Port, prânz și timp pe plajă",
-            "en": "Port, Lunch, and Beach Time"
+            "en": "Port, Lunch, and Beach Time",
+            "es": "Puerto, almuerzo y tiempo de playa"
           },
           "coords": [
             -0.158,
@@ -1525,7 +1662,8 @@
             "de": "Spazieren Sie zum Hafen, essen Sie in einem Restaurant zu Mittag und verbringen Sie den Nachmittag mit Entspannung am goldenen Sandstrand.",
             "hu": "Sétáljon le a kikötőbe, ebédeljen egy étteremben, majd töltse a délutánt pihenéssel az aranyhomokos tengerparton.",
             "ro": "Plimbați-vă până la port, luați prânzul la un restaurant și petreceți după-amiaza relaxându-vă pe nisipul auriu.",
-            "en": "Stroll to the port, have lunch at a restaurant, and spend the afternoon relaxing on the golden sand."
+            "en": "Stroll to the port, have lunch at a restaurant, and spend the afternoon relaxing on the golden sand.",
+            "es": "Pasea hasta el puerto, almuerza en un restaurante y pasa la tarde relajándote en la arena dorada."
           }
         }
       ],
@@ -1533,7 +1671,8 @@
         "de": "Nutzen Sie das effiziente Bussystem von Gandia, um Ihre Erkundung zu beginnen. Verbringen Sie den Vormittag im historischen Zentrum, wo Sie auf einem kurzen Rundgang das Erbe der Borgia, einschließlich des Palastes und der Universität, entdecken können. Am Mittag bringt Sie ein direkter Bus an die Küste. Der Nachmittag ist für die Freuden des Mittelmeers reserviert: Schlendern Sie durch den Hafen, genießen Sie ein köstliches Mittagessen mit Meeresfrüchten und entspannen Sie sich stundenlang am berühmten Strand von Gandia.",
         "hu": "Használja Gandia hatékony buszrendszerét a felfedezés megkezdéséhez. Töltse a délelőttöt a történelmi központban, ahol egy rövid gyalogtúrán fedezheti fel a Borgia-örökséget, beleértve a palotát és az egyetemet. Délben egy közvetlen buszjárattal eljuthat a tengerpartra. A délután a Földközi-tenger örömeire van fenntartva: sétáljon a kikötőben, élvezzen egy finom tengeri herkentyűs ebédet, és pihenjen órákig Gandia híres strandján.",
         "ro": "Folosiți sistemul eficient de autobuze din Gandia pentru a vă începe explorarea. Petreceți dimineața în centrul istoric, unde un scurt tur pietonal vă va dezvălui moștenirea Borgia, inclusiv palatul și universitatea. La prânz, un autobuz direct vă va duce la coastă. După-amiaza este rezervată plăcerilor Mediteranei: plimbați-vă prin port, savurați un prânz delicios cu fructe de mare și relaxați-vă ore în șir pe faimoasa plajă din Gandia.",
-        "en": "Use Gandia's efficient bus system to start your exploration. Spend the morning in the historic center, where a short walking tour will reveal the Borgia heritage, including the palace and university. At midday, a direct bus will take you to the coast. The afternoon is reserved for Mediterranean pleasures: stroll through the port, enjoy a delicious seafood lunch, and relax for hours on Gandia's famous beach."
+        "en": "Use Gandia's efficient bus system to start your exploration. Spend the morning in the historic center, where a short walking tour will reveal the Borgia heritage, including the palace and university. At midday, a direct bus will take you to the coast. The afternoon is reserved for Mediterranean pleasures: stroll through the port, enjoy a delicious seafood lunch, and relax for hours on Gandia's famous beach.",
+        "es": "Usa el eficiente sistema de autobuses de Gandia para empezar la exploración. Pasa la mañana en el casco histórico, donde una breve ruta a pie te mostrará el legado Borgia, incluido el palacio y la universidad. Al mediodía, un autobús directo te llevará a la costa. La tarde está reservada para los placeres mediterráneos: pasea por el puerto, disfruta de un delicioso almuerzo de mariscos y relájate durante horas en la famosa playa de Gandia."
       },
       "gastro_picks": {
         "de": [
@@ -1673,6 +1812,11 @@
           "Buy a 'SUMA 10' card for discounted bus trips.",
           "Buses to the beach (Line L2) are frequent, especially in summer.",
           "Validate your ticket when you board the bus."
+        ],
+        "es": [
+          "Compra una tarjeta 'SUMA 10' para viajes en autobús con descuento.",
+          "Los autobuses a la playa (Línea L2) son frecuentes, sobre todo en verano.",
+          "Valida tu billete al subir al autobús."
         ]
       },
       "variants": {
@@ -1681,7 +1825,8 @@
             "de": "Öffentliche Verkehrsmittel sind perfekt für Gandia bei Regen. Vormittags nutzen wir den Bus zum historischen Zentrum. Mittags bringt uns die 'Marina Gandiense' trocken zum Hafen und Strand. Den Nachmittag verbringen wir in den überdachten Bereichen am Port, bevor wir abends entspannt mit dem Bus zurück in die Stadt fahren.",
             "hu": "A tömegközlekedés tökéletes esőben Gandiában. Délelőtt busszal érjük el a történelmi központot. Délben a 'Marina Gandiense' járat szárazon visz a kikötőhöz és a strandhoz. A délutánt a kikötő fedett részein töltjük, majd este kényelmesen buszozunk vissza a városba.",
             "ro": "Transportul public este perfect pentru Gandia pe ploaie. Dimineața luăm autobuzul spre centrul istoric. La prânz, 'Marina Gandiense' ne duce la port și plajă feriți de udătură. După-amiaza o petrecem în zonele acoperite ale portului, iar seara revenim relaxați cu autobuzul.",
-            "en": "Public transit is perfect for Gandia in the rain. Morning bus ride takes us to the historic center. Midday, the 'Marina Gandiense' bus carries us dry to the port and beach. Afternoon is spent in sheltered areas by the port before a relaxed evening bus ride back."
+            "en": "Public transit is perfect for Gandia in the rain. Morning bus ride takes us to the historic center. Midday, the 'Marina Gandiense' bus carries us dry to the port and beach. Afternoon is spent in sheltered areas by the port before a relaxed evening bus ride back.",
+            "es": "El transporte público es ideal en Gandia cuando llueve. Por la mañana el autobús nos lleva al casco histórico. A mediodía, el autobús 'Marina Gandiense' nos lleva secos al puerto y a la playa. Por la tarde pasamos en zonas cubiertas junto al puerto antes de un tranquilo viaje en autobús de vuelta por la noche."
           },
           "stops": [
             {
@@ -1690,7 +1835,8 @@
                 "de": "Warten Sie unter den überdachten Haltestellen auf den Anschluss.",
                 "hu": "Várja a csatlakozást a fedett buszmegállók védelmében.",
                 "ro": "Așteptați legătura sub adăpostul stațiilor de autobuz acoperite.",
-                "en": "Wait for your connection under the shelter of covered bus stops."
+                "en": "Wait for your connection under the shelter of covered bus stops.",
+                "es": "Espera tu conexión bajo la cobertura de las marquesinas de las paradas."
               }
             },
             {
@@ -1699,7 +1845,8 @@
                 "de": "Die Bushaltestelle liegt nur wenige Schritte vom Eingang entfernt.",
                 "hu": "A buszmegálló mindössze pár lépésre található a bejárattól.",
                 "ro": "Stația de autobuz se află la doar câțiva pași de intrare.",
-                "en": "The bus stop is located just a few steps away from the entrance."
+                "en": "The bus stop is located just a few steps away from the entrance.",
+                "es": "La parada de autobús está situada a pocos pasos de la entrada."
               }
             },
             {
@@ -1708,7 +1855,8 @@
                 "de": "Kurze Fußwege zwischen den Stationen im Zentrum einplanen.",
                 "hu": "Tervezzen rövid gyalogos szakaszokat a központi megállók között.",
                 "ro": "Planificați distanțe scurte de mers pe jos între stațiile din centru.",
-                "en": "Plan for short walking distances between the central bus stops."
+                "en": "Plan for short walking distances between the central bus stops.",
+                "es": "Planea distancias de caminata cortas entre las paradas centrales."
               }
             },
             {
@@ -1717,7 +1865,8 @@
                 "de": "Häufige Verbindungen minimieren die Wartezeit im Regen.",
                 "hu": "A sűrű járatok minimalizálják az esőben való várakozást.",
                 "ro": "Frecvența mare a curselor minimizează așteptarea în ploaie.",
-                "en": "Frequent bus services minimize waiting time in the rain."
+                "en": "Frequent bus services minimize waiting time in the rain.",
+                "es": "Los servicios frecuentes de autobús reducen el tiempo de espera bajo la lluvia."
               }
             },
             {
@@ -1726,7 +1875,8 @@
                 "de": "Suchen Sie sich einen Platz nahe der Haltestelle für die Rückfahrt.",
                 "hu": "Keressen egy helyet a megálló közelében a visszainduláshoz.",
                 "ro": "Căutați un loc aproape de stație pentru drumul de întoarcere.",
-                "en": "Find a spot near the bus stop for your return journey."
+                "en": "Find a spot near the bus stop for your return journey.",
+                "es": "Find a spot near the bus stop for your return journey."
               }
             }
           ],
@@ -1754,6 +1904,12 @@
               "Use the official app for real-time info to minimize time spent in the rain.",
               "Have small change or your transit card ready for quick boarding.",
               "Bus stops in the city center often provide good shelter from the rain."
+            ],
+            "es": [
+              "Yellow buses (Marina Gandiense) run every 15-20 minutes.",
+              "Use the official app for real-time info to minimize time spent in the rain.",
+              "Have small change or your transit card ready for quick boarding.",
+              "Bus stops in the city center often provide good shelter from the rain."
             ]
           }
         },
@@ -1762,7 +1918,8 @@
             "de": "Wintertage in Gandia sind entspannt mit dem Bus zu erleben. Morgens fahren wir ins geschäftige Zentrum, mittags bringt uns der Bus zum sonnigen Grau. Den Nachmittag verbringen wir am ruhigen Winterstrand, bevor wir pünktlich zum frühen Sonnenuntergang den Rückweg mit den öffentlichen Verkehrsmitteln antreten.",
             "hu": "A téli Gandia kényelmesen felfedezhető busszal. Reggel a forgalmas központba utazunk, délben a busz a napsütötte Grau negyedbe visz. A délutánt a csendes téli strandon töltjük, majd pontosan a korai naplementére indulunk vissza a tömegközlekedéssel.",
             "ro": "Zilele de iarnă în Gandia sunt relaxante cu autobuzul. Dimineața mergem în centrul animat, iar la prânz autobuzul ne duce în însoritul Grau. După-amiaza o petrecem pe plaja liniștită, înainte de a reveni cu transportul public la apus.",
-            "en": "Winter days in Gandia are relaxing by bus. Morning transit to the busy center is followed by a midday trip to sunny Grau. Spend the afternoon at the quiet winter beach before heading back via public transport right at early sunset."
+            "en": "Winter days in Gandia are relaxing by bus. Morning transit to the busy center is followed by a midday trip to sunny Grau. Spend the afternoon at the quiet winter beach before heading back via public transport right at early sunset.",
+            "es": "Winter days in Gandia are relaxing by bus. Morning transit to the busy center is followed by a midday trip to sunny Grau. Spend the afternoon at the quiet winter beach before heading back via public transport right at early sunset."
           },
           "stops": [
             {
@@ -1771,7 +1928,8 @@
                 "de": "Genießen Sie den Blick auf die Weihnachtsbeleuchtung im Winter.",
                 "hu": "Élvezze a téli ünnepi fények látványát a buszablakból.",
                 "ro": "Admirați luminile de sărbători iarna direct din autobuz.",
-                "en": "Enjoy the view of winter festive lights from the bus window."
+                "en": "Enjoy the view of winter festive lights from the bus window.",
+                "es": "Enjoy the view of winter festive lights from the bus window."
               }
             },
             {
@@ -1780,7 +1938,8 @@
                 "de": "Im Winter sind die Busse angenehm beheizt.",
                 "hu": "Télen a buszok kellemesen fűtöttek.",
                 "ro": "Iarna, autobuzele sunt încălzite corespunzător.",
-                "en": "In winter, the buses are kept at a comfortable warm temperature."
+                "en": "In winter, the buses are kept at a comfortable warm temperature.",
+                "es": "In winter, the buses are kept at a comfortable warm temperature."
               }
             },
             {
@@ -1789,7 +1948,8 @@
                 "de": "Nutzen Sie die kurzen Intervalle der Busse zwischen den Stadtteilen.",
                 "hu": "Használja ki a városrészek közötti buszok sűrű járatsűrűségét.",
                 "ro": "Profitați de intervalele scurte ale autobuzelor între cartiere.",
-                "en": "Take advantage of the frequent bus intervals between city districts."
+                "en": "Take advantage of the frequent bus intervals between city districts.",
+                "es": "Take advantage of the frequent bus intervals between city districts."
               }
             },
             {
@@ -1798,7 +1958,8 @@
                 "de": "Die Fahrt bietet schöne Ausblicke auf die winterliche Allee.",
                 "hu": "Az utazás szép kilátást nyújt a téli sugárútra.",
                 "ro": "Călătoria oferă vederi frumoase asupra bulevardului de iarnă.",
-                "en": "The ride offers beautiful views of the winter avenue towards the sea."
+                "en": "The ride offers beautiful views of the winter avenue towards the sea.",
+                "es": "The ride offers beautiful views of the winter avenue towards the sea."
               }
             },
             {
@@ -1807,7 +1968,8 @@
                 "de": "Prüfen Sie den Fahrplan für die letzte Fahrt vor der Abendkühle.",
                 "hu": "Ellenőrizze az utolsó járatot az esti lehűlés előtt.",
                 "ro": "Verificați orarul pentru ultima cursă înainte de răcoarea serii.",
-                "en": "Check the schedule for the last convenient bus before the evening chill."
+                "en": "Check the schedule for the last convenient bus before the evening chill.",
+                "es": "Check the schedule for the last convenient bus before the evening chill."
               }
             }
           ],
@@ -1831,6 +1993,12 @@
               "Stațiile sunt puncte bune de întâlnire dacă grupul se separă."
             ],
             "en": [
+              "Schedules may vary during winter holidays and festivals.",
+              "Buses are much less crowded in winter compared to the summer season.",
+              "The bus ride to the beach takes approximately 15-20 minutes.",
+              "Bus stops serve as good meeting points if your group decides to split up."
+            ],
+            "es": [
               "Schedules may vary during winter holidays and festivals.",
               "Buses are much less crowded in winter compared to the summer season.",
               "The bus ride to the beach takes approximately 15-20 minutes.",

@@ -31,7 +31,8 @@
             "de": "Genießen Sie den Panoramablick auf die Küste.",
             "hu": "Élvezze a tengerpartra nyíló panorámát.",
             "ro": "Bucurați-vă de panorama coastei.",
-            "en": "Enjoy the panoramic view of the coast."
+            "en": "Enjoy the panoramic view of the coast.",
+            "es": "Disfruta de la vista panorámica de la costa."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Die einzige funktionierende Rohrgoldfabrik in Europa.",
             "hu": "Európa egyetlen működő nádcukorszirup-gyára.",
             "ro": "Singura fabrică de melasă de trestie activă din Europa.",
-            "en": "The only active cane syrup factory in Europe."
+            "en": "The only active cane syrup factory in Europe.",
+            "es": "La única fábrica de miel de caña activa en Europa."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Verlaufen Sie sich in den blumengeschmückten Gassen.",
             "hu": "Vesszen el a virágokkal díszített fehér sikátorokban.",
             "ro": "Pierdeți-vă pe străduțele albe pline de flori.",
-            "en": "Get lost in the flower-filled whitewashed alleys."
+            "en": "Get lost in the flower-filled whitewashed alleys.",
+            "es": "Piérdete por los callejones encalados llenos de flores."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Beachten Sie die Mudejar-Holzdecke.",
             "hu": "Figyelje meg a mudejár stílusú fagerendás mennyezetet.",
             "ro": "Observați tavanul de lemn în stil mudejar.",
-            "en": "Notice the Mudejar style wooden ceiling."
+            "en": "Notice the Mudejar style wooden ceiling.",
+            "es": "Fíjate en el artesonado mudéjar de madera."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Perfekter Ort für Fotos über die Dächer.",
             "hu": "Tökéletes hely fotózáshoz a háztetők felett.",
             "ro": "Locul perfect pentru fotografii deasupra acoperișurilor.",
-            "en": "Perfect spot for photos over the rooftops."
+            "en": "Perfect spot for photos over the rooftops.",
+            "es": "Lugar perfecto para fotos sobre los tejados."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Erfahren Sie mehr über die maurische Rebellion.",
             "hu": "Tudjon meg többet a mór lázadás történetéről.",
             "ro": "Aflați mai multe despre rebeliunea maură.",
-            "en": "Learn more about the Moorish rebellion."
+            "en": "Learn more about the Moorish rebellion.",
+            "es": "Aprende más sobre la rebelión musulmana."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Beginnen Sie Ihren Tag am lebhaften Plaza de las Tres Culturas, dem Tor zum historischen Zentrum. Danach besuchen Sie El Ingenio, wo seit Jahrhunderten Zuckerrohrhonig hergestellt wird. Der Mittag gehört dem Barribarto-Viertel mit seinen steilen, weißen Gassen. Nach einer Pause im Schatten der San Antonio Kirche genießen Sie die Aussicht vom Mirador. Beenden Sie die Tour im Museum, um die tiefe Geschichte dieses andalusischen Juwels zu verstehen.",
         "hu": "Kezdje a napot a nyüzsgő Három Kultúra terén, amely az óváros kapuja. Ezután látogasson el az El Ingenióba, ahol évszázadok óta nádmézet készítenek. A délutánt töltse Barribarto negyedében, a meredek, fehérre meszelt utcák között. A San Antonio templom árnyékában tett pihenő után csodálja meg a kilátást a Miradorról. A túrát a múzeumban zárja, hogy megértse ezen andalúz ékszerdoboz mély történelmét.",
         "ro": "Începeți ziua în Plaza de las Tres Culturas, poarta către centrul istoric. Vizitați apoi El Ingenio, unde se produce miere de trestie de secole. Amiaza aparține cartierului Barribarto, cu străzile sale albe și abrupte. După o pauză la umbra bisericii San Antonio, admirați vederea de la Mirador. Încheiați turul la muzeu pentru a înțelege istoria profundă a acestei bijuterii andaluze.",
-        "en": "Start your day at the lively Plaza de las Tres Culturas, the gateway to the historic center. Then visit El Ingenio, where cane honey has been produced for centuries. Midday belongs to the Barribarto district with its steep, white alleys. After a break in the shade of San Antonio Church, enjoy the views from the Mirador. End the tour at the museum to understand the deep history of this Andalusian jewel."
+        "en": "Start your day at the lively Plaza de las Tres Culturas, the gateway to the historic center. Then visit El Ingenio, where cane honey has been produced for centuries. Midday belongs to the Barribarto district with its steep, white alleys. After a break in the shade of San Antonio Church, enjoy the views from the Mirador. End the tour at the museum to understand the deep history of this Andalusian jewel.",
+        "es": "Comienza el día en la animada Plaza de las Tres Culturas, puerta del casco histórico. Luego visita El Ingenio, donde se ha producido miel de caña durante siglos. El mediodía pertenece al barrio de Barribarto con sus empinadas calles blancas. Tras un descanso a la sombra de la iglesia de San Antonio, disfruta de las vistas desde el mirador. Termina la ruta en el museo para entender la profunda historia de esta joya andaluza."
       },
       "gastro_picks": {
         "de": [
@@ -245,6 +252,10 @@
         "en": [
           "Wear comfortable shoes for the steep streets.",
           "Visit the town early to avoid the heat."
+        ],
+        "es": [
+          "Lleva calzado cómodo para las calles empinadas.",
+          "Visita el pueblo temprano para evitar el calor."
         ]
       },
       "variants": {
@@ -253,7 +264,8 @@
             "de": "Beginnen Sie Ihren Tag am lebhaften Plaza de las Tres Culturas, dem Tor zum historischen Zentrum. Danach besuchen Sie El Ingenio, wo seit Jahrhunderten Zuckerrohrhonig hergestellt wird. Der Mittag gehört dem Barribarto-Viertel mit seinen steilen, weißen Gassen. Nach einer Pause im Schatten der San Antonio Kirche genießen Sie die Aussicht vom Mirador. Beenden Sie die Tour im Museum, um die tiefe Geschichte dieses andalusischen Juwels zu verstehen.",
             "hu": "Kezdje a napot a nyüzsgő Három Kultúra terén, amely az óváros kapuja. Ezután látogasson el az El Ingenióba, ahol évszázadok óta nádmézet készítenek. A délutánt töltse Barribarto negyedében, a meredek, fehérre meszelt utcák között. A San Antonio templom árnyékában tett pihenő után csodálja meg a kilátást a Miradorról. A túrát a múzeumban zárja, hogy megértse ezen andalúz ékszerdoboz mély történelmét.",
             "ro": "Începeți ziua în Plaza de las Tres Culturas, poarta către centrul istoric. Vizitați apoi El Ingenio, unde se produce miere de trestie de secole. Amiaza aparține cartierului Barribarto, cu străzile sale albe și abrupte. După o pauză la umbra bisericii San Antonio, admirați vederea de la Mirador. Încheiați turul la muzeu pentru a înțelege istoria profundă a acestei bijuterii andaluze.",
-            "en": "Start your day at the lively Plaza de las Tres Culturas, the gateway to the historic center. Then visit El Ingenio, where cane honey has been produced for centuries. Midday belongs to the Barribarto district with its steep, white alleys. After a break in the shade of San Antonio Church, enjoy the views from the Mirador. End the tour at the museum to understand the deep history of this Andalusian jewel."
+            "en": "Start your day at the lively Plaza de las Tres Culturas, the gateway to the historic center. Then visit El Ingenio, where cane honey has been produced for centuries. Midday belongs to the Barribarto district with its steep, white alleys. After a break in the shade of San Antonio Church, enjoy the views from the Mirador. End the tour at the museum to understand the deep history of this Andalusian jewel.",
+            "es": "Comienza el día en la animada Plaza de las Tres Culturas, puerta del casco histórico. Luego visita El Ingenio, donde se ha producido miel de caña durante siglos. El mediodía pertenece al barrio de Barribarto con sus empinadas calles blancas. Tras un descanso a la sombra de la iglesia de San Antonio, disfruta de las vistas desde el mirador. Termina la ruta en el museo para entender la profunda historia de esta joya andaluza."
           },
           "stops": [
             {
@@ -262,7 +274,8 @@
                 "de": "Genießen Sie den Panoramablick auf die Küste.",
                 "hu": "Élvezze a tengerpartra nyíló panorámát.",
                 "ro": "Bucurați-vă de panorama coastei.",
-                "en": "Enjoy the panoramic view of the coast."
+                "en": "Enjoy the panoramic view of the coast.",
+                "es": "Disfruta de la vista panorámica de la costa."
               }
             },
             {
@@ -271,7 +284,8 @@
                 "de": "Die einzige funktionierende Rohrgoldfabrik in Europa.",
                 "hu": "Európa egyetlen működő nádcukorszirup-gyára.",
                 "ro": "Singura fabrică de melasă de trestie activă din Europa.",
-                "en": "The only active cane syrup factory in Europe."
+                "en": "The only active cane syrup factory in Europe.",
+                "es": "La única fábrica de miel de caña activa en Europa."
               }
             },
             {
@@ -280,7 +294,8 @@
                 "de": "Verlaufen Sie sich in den blumengeschmückten Gassen.",
                 "hu": "Vesszen el a virágokkal díszített fehér sikátorokban.",
                 "ro": "Pierdeți-vă pe străduțele albe pline de flori.",
-                "en": "Get lost in the flower-filled whitewashed alleys."
+                "en": "Get lost in the flower-filled whitewashed alleys.",
+                "es": "Piérdete por los callejones encalados llenos de flores."
               }
             },
             {
@@ -289,7 +304,8 @@
                 "de": "Beachten Sie die Mudejar-Holzdecke.",
                 "hu": "Figyelje meg a mudejár stílusú fagerendás mennyezetet.",
                 "ro": "Observați tavanul de lemn în stil mudejar.",
-                "en": "Notice the Mudejar style wooden ceiling."
+                "en": "Notice the Mudejar style wooden ceiling.",
+                "es": "Fíjate en el artesonado mudéjar de madera."
               }
             },
             {
@@ -298,7 +314,8 @@
                 "de": "Perfekter Ort für Fotos über die Dächer.",
                 "hu": "Tökéletes hely fotózáshoz a háztetők felett.",
                 "ro": "Locul perfect pentru fotografii deasupra acoperișurilor.",
-                "en": "Perfect spot for photos over the rooftops."
+                "en": "Perfect spot for photos over the rooftops.",
+                "es": "Lugar perfecto para fotos sobre los tejados."
               }
             },
             {
@@ -307,7 +324,8 @@
                 "de": "Erfahren Sie mehr über die maurische Rebellion.",
                 "hu": "Tudjon meg többet a mór lázadás történetéről.",
                 "ro": "Aflați mai multe despre rebeliunea maură.",
-                "en": "Learn more about the Moorish rebellion."
+                "en": "Learn more about the Moorish rebellion.",
+                "es": "Aprende más sobre la rebelión musulmana."
               }
             }
           ],
@@ -425,6 +443,10 @@
             "en": [
               "Wear comfortable shoes for the steep streets.",
               "Visit the town early to avoid the heat."
+            ],
+            "es": [
+              "Lleva calzado cómodo para las calles empinadas.",
+              "Visita el pueblo temprano para evitar el calor."
             ]
           }
         },
@@ -433,7 +455,8 @@
             "de": "Wir beginnen den Morgen auf dem zentralen Platz. Trotz des Regens hat das weiße Dorf einen besonderen Charme; die feuchte Luft trägt den Duft des Meeres. Mittags besuchen wir die alte Zuckerfabrik, ein idealer Ort, um trocken zu bleiben und etwas über die Industrie zu lernen. Nachmittags erkunden wir die engen Gassen; das nasse Kopfsteinpflaster spiegelt die weißen Wände wider. Den Abend verbringen wir geschützt in der Kirche oder im Museum.",
             "hu": "Reggel a központi téren kezdünk. Az eső ellenére a fehér falu különleges bájjal bír, a párás levegőben intenzívebb a tenger illata. Délben az egykori cukorgyárat keressük fel, ahol fedett helyen ismerhetjük meg az ipari múltat. Délután a Barribarto szűk utcáit járjuk; a vizes macskaköveken megcsillannak a fehér falak. Estére a múzeum és a templom nyújt menedéket a hűvösödő időben.",
             "ro": "Începem dimineața în piața centrală. În ciuda ploii, satul alb are un farmec unic, iar aerul umed scoate la iveală parfumul Mediteranei. La prânz, vizităm vechea fabrică de zahăr, un loc perfect pentru a rămâne la adăpost și a învăța despre trecutul industrial. După-amiază, explorăm străzile înguste; pavajul umed strălucește, reflectând pereții albi. Seara ne găsește la muzeu sau în biserică, feriți de ploaie.",
-            "en": "Start the morning at the central square. Despite the rain, the white village has a unique charm; the humid air brings out the scent of the Mediterranean. At noon, visit the old sugar factory, a great place to stay dry and learn about the industrial past. In the afternoon, explore the narrow streets; the wet cobblestones shine, reflecting the white walls. Spend the evening sheltered in the church or museum."
+            "en": "Start the morning at the central square. Despite the rain, the white village has a unique charm; the humid air brings out the scent of the Mediterranean. At noon, visit the old sugar factory, a great place to stay dry and learn about the industrial past. In the afternoon, explore the narrow streets; the wet cobblestones shine, reflecting the white walls. Spend the evening sheltered in the church or museum.",
+            "es": "Comienza la mañana en la plaza central. A pesar de la lluvia, el pueblo blanco tiene un encanto único; el aire húmedo realza el aroma mediterráneo. Al mediodía, visita la antigua fábrica de azúcar, un gran lugar para resguardarse y aprender sobre el pasado industrial. Por la tarde, explora las calles estrechas; los empedrados mojados brillan, reflejando las paredes blancas. Pasa la noche resguardado en la iglesia o en el museo."
           },
           "stops": [
             {
@@ -442,7 +465,8 @@
                 "de": "Suchen Sie unter den Balkonen Schutz, falls ein starker Schauer niedergeht.",
                 "hu": "Keressen menedéket az erkélyek alatt, ha hirtelen elered az eső.",
                 "ro": "Căutați adăpost sub balcoane dacă începe o ploaie torențială.",
-                "en": "Seek shelter under the balconies if a heavy shower hits."
+                "en": "Seek shelter under the balconies if a heavy shower hits.",
+                "es": "Refúgiate bajo los balcones si cae un chaparrón fuerte."
               }
             },
             {
@@ -451,7 +475,8 @@
                 "de": "Ein perfekter Zufluchtsort im Freien, um die Melassefabrik zu besichtigen.",
                 "hu": "Tökéletes fedett helyszín a nádcukorszirup-gyár megtekintéséhez.",
                 "ro": "Un refugiu interior perfect pentru a vedea fabrica de melasă.",
-                "en": "A perfect indoor refuge to see the molasses factory."
+                "en": "A perfect indoor refuge to see the molasses factory.",
+                "es": "Un refugio interior perfecto para ver la fábrica de melaza."
               }
             },
             {
@@ -460,7 +485,8 @@
                 "de": "Das Kopfsteinpflaster kann bei Nässe sehr rutschig sein; Vorsicht beim Gehen.",
                 "hu": "A macskakő nagyon csúszós lehet nedvesen; vigyázzon a lépteire.",
                 "ro": "Pavajul poate fi foarte alunecos când este umed; atenție la pași.",
-                "en": "Cobblestones can be very slippery when wet; watch your step."
+                "en": "Cobblestones can be very slippery when wet; watch your step.",
+                "es": "Los empedrados pueden ser muy resbaladizos cuando están mojados; vigila donde pisas."
               }
             },
             {
@@ -469,7 +495,8 @@
                 "de": "Ein ruhiger, trockener Ort zum Nachdenken und Bewundern des Altarbildes.",
                 "hu": "Csendes, száraz hely az elmélkedésre és az oltárkép megcsodálására.",
                 "ro": "Un loc liniștit și uscat pentru reflecție și admirarea altarului.",
-                "en": "A quiet, dry place for reflection and admiring the altarpiece."
+                "en": "A quiet, dry place for reflection and admiring the altarpiece.",
+                "es": "Un lugar tranquilo y seco para la reflexión y admirar el retablo."
               }
             },
             {
@@ -478,7 +505,8 @@
                 "de": "Der Nebel über dem Tal erzeugt eine mystische, stimmungsvolle Atmosphäre.",
                 "hu": "A völgy feletti köd misztikus, hangulatos légkört teremt.",
                 "ro": "Ceața de deasupra văii creează o atmosferă mistică și melancolică.",
-                "en": "The mist over the valley creates a mystical, moody atmosphere."
+                "en": "The mist over the valley creates a mystical, moody atmosphere.",
+                "es": "La niebla sobre el valle crea una atmósfera mística y melancólica."
               }
             },
             {
@@ -487,7 +515,8 @@
                 "de": "Bleiben Sie länger hier, um trocken zu bleiben und Geschichte zu lernen.",
                 "hu": "Töltsön itt több időt, hogy szárazon maradjon a helytörténet tanulmányozása közben.",
                 "ro": "Petreceți mai mult timp aici pentru a rămâne uscat în timp ce învățați istoria.",
-                "en": "Spend extra time here to stay dry while learning local history."
+                "en": "Spend extra time here to stay dry while learning local history.",
+                "es": "Pasa más tiempo aquí para mantenerte seco mientras aprendes la historia local."
               }
             }
           ],
@@ -515,6 +544,12 @@
               "Utilize the many cafes in Barribarto for short breaks in the dry.",
               "The church and the museum are ideal shelters during heavy downpours.",
               "An umbrella can be impractical in narrow, windy streets; rain ponchos are better."
+            ],
+            "es": [
+              "Lleva calzado con buena suela, ya que las calles empinadas se vuelven muy resbaladizas con lluvia.",
+              "Utiliza los numerosos cafés en Barribarto para breves descansos a cubierto.",
+              "La iglesia y el museo son refugios ideales durante fuertes aguaceros.",
+              "Un paraguas puede ser poco práctico en calles estrechas y ventosas; los chubasqueros son mejor opción."
             ]
           }
         },
@@ -523,7 +558,8 @@
             "de": "Die Luft am Morgen auf dem Hauptplatz ist frisch und klar, ideal um die Ruhe der Nebensaison zu genießen. Mittags wärmt die milde Sonne die weißen Wände; perfektes Wetter, um die steilen Gassen ohne die Sommerhitze zu erklimmen. Nachmittags genießen wir die Aussicht von den Miradors; die Sicht ist im Winter oft besser als im Sommer. Wenn die Sonne früh untergeht, erzeugen die Lichter des Dorfes eine magische Atmosphäre.",
             "hu": "Friss és tiszta a levegő reggel a főtéren, élvezzük a főszezonon kívüli nyugalmat. Délben az enyhe napsütés melegíti a fehér falakat, tökéletes az idő a meredek utcák megmászásához a nyári hőség nélkül. Délután a kilátók felé vesszük az irányt, a téli látási viszonyok gyakran jobbak, mint nyáron. Ahogy korán lemegy a nap, a falu fényei varázslatos és meghitt hangulatot árasztanak.",
             "ro": "Aerul este proaspăt și clar dimineața în piața principală, bucurându-ne de liniștea din afara sezonului. La prânz, soarele blând încălzește pereții albi, fiind vremea perfectă pentru a urca străzile abrupte fără căldura verii. După-amiază, admirăm priveliștea de la punctele de belvedere; vizibilitatea iarna este adesea mai bună. Pe măsură ce soarele apune devreme, luminile satului creează o atmosferă magică.",
-            "en": "The air is crisp and clear in the morning at the main square. At noon, the mild sun warms the white walls, making it perfect for climbing the steep streets without the summer heat. In the afternoon, take in the views from the miradors; winter visibility is often better than in summer. As the sun sets early, the village lights come on, creating a magical atmosphere."
+            "en": "The air is crisp and clear in the morning at the main square. At noon, the mild sun warms the white walls, making it perfect for climbing the steep streets without the summer heat. In the afternoon, take in the views from the miradors; winter visibility is often better than in summer. As the sun sets early, the village lights come on, creating a magical atmosphere.",
+            "es": "El aire está fresco y claro por la mañana en la plaza principal. Al mediodía, el sol suave calienta las paredes blancas, perfecto para subir las empinadas calles sin el calor veraniego. Por la tarde, disfruta de las vistas desde los miradores; la visibilidad invernal suele ser mejor que en verano. Al ponerse el sol temprano, se encienden las luces del pueblo, creando una atmósfera mágica."
           },
           "stops": [
             {
@@ -532,7 +568,8 @@
                 "de": "Genießen Sie die frische Luft; beste Zeit für Fotos ohne Menschenmassen.",
                 "hu": "Élvezze a friss levegőt; a legjobb időpont a tömeg nélküli fotózáshoz.",
                 "ro": "Bucurați-vă de aerul proaspăt; cel mai bun moment pentru poze fără mulțime.",
-                "en": "Enjoy the crisp air; it's the best time for photos without crowds."
+                "en": "Enjoy the crisp air; it's the best time for photos without crowds.",
+                "es": "Disfruta del aire fresco; es el mejor momento para fotos sin multitudes."
               }
             },
             {
@@ -541,7 +578,8 @@
                 "de": "Die Industriegeschichte fühlt sich an einem kühlen Wintermorgen gemütlich an.",
                 "hu": "Az ipartörténeti helyszín hangulatos egy hűvös téli reggelen.",
                 "ro": "Istoria industrială se simte primitoare într-o dimineață răcoroasă de iarnă.",
-                "en": "The industrial history feels cozy on a cool winter morning."
+                "en": "The industrial history feels cozy on a cool winter morning.",
+                "es": "La historia industrial se siente acogedora en una fresca mañana de invierno."
               }
             },
             {
@@ -550,7 +588,8 @@
                 "de": "Der steile Aufstieg ist bei den milden Wintertemperaturen viel einfacher.",
                 "hu": "A meredek emelkedő sokkal könnyebb az enyhe téli hőmérsékletben.",
                 "ro": "Urcarea abruptă este mult mai ușoară la temperaturile blânde de iarnă.",
-                "en": "The steep climb is much easier in the mild winter temperatures."
+                "en": "The steep climb is much easier in the mild winter temperatures.",
+                "es": "La subida empinada es mucho más fácil con las temperaturas suaves de invierno."
               }
             },
             {
@@ -559,7 +598,8 @@
                 "de": "Gehen Sie hinein, um die ruhige Atmosphäre fernab der Brise zu genießen.",
                 "hu": "Lépjen be, és élvezze a nyugodt légkört, távol a széltől.",
                 "ro": "Intrați pentru a vă bucura de atmosfera calmă, feriți de briză.",
-                "en": "Step inside to enjoy the calm atmosphere away from the breeze."
+                "en": "Step inside to enjoy the calm atmosphere away from the breeze.",
+                "es": "Entra para disfrutar de la atmósfera tranquila lejos de la brisa."
               }
             },
             {
@@ -568,7 +608,8 @@
                 "de": "Die winterliche Klarheit bietet die beste Sicht auf die Küste und Nerja.",
                 "hu": "A téli tisztaság a legjobb kilátást nyújtja a partra és Nerjára.",
                 "ro": "Claritatea iernii oferă cele mai bune priveliști spre coastă și Nerja.",
-                "en": "Winter clarity offers the best views of the coast and Nerja."
+                "en": "Winter clarity offers the best views of the coast and Nerja.",
+                "es": "La claridad invernal ofrece las mejores vistas de la costa y Nerja."
               }
             },
             {
@@ -577,7 +618,8 @@
                 "de": "Wärmen Sie sich in diesem Gebäude aus dem 17. Jahrhundert auf.",
                 "hu": "Melegedjen fel ebben a 17. századi épületben, ahogy közeleg az este.",
                 "ro": "Încălziți-vă în această clădire din secolul XVII pe măsură ce se seară.",
-                "en": "Warm up inside this 17th-century building as evening approaches."
+                "en": "Warm up inside this 17th-century building as evening approaches.",
+                "es": "Entra en calor dentro de este edificio del siglo XVII al acercarse la noche."
               }
             }
           ],
@@ -605,6 +647,12 @@
               "Sunset is around 18:00; plan your return journey before then.",
               "Winter days are often sunny and ideal for hikes in the surrounding area.",
               "Enjoy the local specialty 'Miel de Caña' in one of the cozy shops."
+            ],
+            "es": [
+              "Vístete por capas, hace fresco a la sombra pero calor al sol.",
+              "El atardecer es alrededor de las 18:00; planifica tu regreso antes de esa hora.",
+              "Los días de invierno suelen ser soleados e ideales para rutas por los alrededores.",
+              "Disfruta de la especialidad local «Miel de Caña» en una de las tiendas acogedoras."
             ]
           }
         }
@@ -633,7 +681,8 @@
             "de": "Parken Sie Ihr Rad sicher am Platz.",
             "hu": "Parkolja le biztonságosan a biciklit a téren.",
             "ro": "Parcați bicicleta în siguranță în piață.",
-            "en": "Park your bike safely in the square."
+            "en": "Park your bike safely in the square.",
+            "es": "Aparca tu bici de forma segura en la plaza."
           }
         },
         {
@@ -651,7 +700,8 @@
             "de": "Historisches Getreidelager aus dem 18. Jahrhundert.",
             "hu": "18. századi királyi magtár épülete.",
             "ro": "Depozit istoric de cereale din secolul XVIII.",
-            "en": "Historic 18th-century grain storehouse."
+            "en": "Historic 18th-century grain storehouse.",
+            "es": "Antiguo granero del siglo XVIII."
           }
         },
         {
@@ -669,7 +719,8 @@
             "de": "Frisches Quellwasser zum Auffüllen der Flaschen.",
             "hu": "Friss forrásvíz a palackok megtöltéséhez.",
             "ro": "Apă proaspătă de izvor pentru umplerea sticlelor.",
-            "en": "Fresh spring water to refill your bottles."
+            "en": "Fresh spring water to refill your bottles.",
+            "es": "Agua fresca de manantial para rellenar tus botellas."
           }
         },
         {
@@ -687,7 +738,8 @@
             "de": "Kleine Kapelle am Rande des Dorfes.",
             "hu": "Kis kápolna a falu szélén.",
             "ro": "Mică capelă la marginea satului.",
-            "en": "Small chapel on the outskirts of the village."
+            "en": "Small chapel on the outskirts of the village.",
+            "es": "Pequeña capilla en las afueras del pueblo."
           }
         },
         {
@@ -705,7 +757,8 @@
             "de": "Ein steiler Anstieg, aber die Aussicht lohnt sich.",
             "hu": "Meredek emelkedő, de a kilátás megéri.",
             "ro": "O urcare abruptă, dar vederea merită.",
-            "en": "A steep climb, but the view is worth it."
+            "en": "A steep climb, but the view is worth it.",
+            "es": "Una subida empinada, pero la vista merece la pena."
           }
         }
       ],
@@ -713,7 +766,8 @@
         "de": "Diese Radtour führt Sie zu den Außenposten von Frigiliana. Beginnen Sie im Zentrum und radeln Sie zu den historischen Pósitos. Die Route zur Fuente Vieja bietet kühlendes Wasser. Nach einem Besuch der abgelegenen Ermita fordern Sie sich mit dem Aufstieg zum Castillo de Lizar heraus, von wo aus Sie das gesamte Tal überblicken können.",
         "hu": "Ez a kerékpáros túra Frigiliana külső pontjaihoz vezet. Kezdjen a központban, majd tekerjen a történelmi Pósitos-hoz. A Fuente Vieja felé vezető út hűsítő vizet kínál. A távoli Ermita meglátogatása után hívja ki magát a Castillo de Lizar megmászásával, ahonnan az egész völgyet belátni.",
         "ro": "Acest tur cu bicicleta vă poartă spre punctele exterioare ale localității Frigiliana. Începeți în centru și pedalați spre istoricele Pósitos. Traseul spre Fuente Vieja oferă apă răcoritoare. După o vizită la Ermita izolată, provocați-vă cu urcarea la Castillo de Lizar, de unde puteți vedea întreaga vale.",
-        "en": "This bike tour takes you to the outposts of Frigiliana. Start in the center and cycle to the historic Pósitos. The route to Fuente Vieja offers cooling water. After visiting the remote Ermita, challenge yourself with the climb to Castillo de Lizar, where you can overlook the entire valley."
+        "en": "This bike tour takes you to the outposts of Frigiliana. Start in the center and cycle to the historic Pósitos. The route to Fuente Vieja offers cooling water. After visiting the remote Ermita, challenge yourself with the climb to Castillo de Lizar, where you can overlook the entire valley.",
+        "es": "Esta ruta en bici te lleva a los puestos avanzados de Frigiliana. Empieza en el centro y pedalea hasta los históricos Pósitos. La ruta a Fuente Vieja ofrece agua refrescante. Tras visitar la ermita remota, desafíate con la subida al Castillo de Lizar, desde donde podrás dominar todo el valle."
       },
       "gastro_picks": {
         "de": [
@@ -813,6 +867,10 @@
         "en": [
           "Central alleys are often too steep and narrow for bikes.",
           "Use the main roads to bypass the center."
+        ],
+        "es": [
+          "Los callejones centrales suelen ser demasiado empinados y estrechos para bicicletas.",
+          "Utiliza las carreteras principales para evitar el centro."
         ]
       },
       "variants": {
@@ -821,7 +879,8 @@
             "de": "Diese Radtour führt Sie zu den Außenposten von Frigiliana. Beginnen Sie im Zentrum und radeln Sie zu den historischen Pósitos. Die Route zur Fuente Vieja bietet kühlendes Wasser. Nach einem Besuch der abgelegenen Ermita fordern Sie sich mit dem Aufstieg zum Castillo de Lizar heraus, von wo aus Sie das gesamte Tal überblicken können.",
             "hu": "Ez a kerékpáros túra Frigiliana külső pontjaihoz vezet. Kezdjen a központban, majd tekerjen a történelmi Pósitos-hoz. A Fuente Vieja felé vezető út hűsítő vizet kínál. A távoli Ermita meglátogatása után hívja ki magát a Castillo de Lizar megmászásával, ahonnan az egész völgyet belátni.",
             "ro": "Acest tur cu bicicleta vă poartă spre punctele exterioare ale localității Frigiliana. Începeți în centru și pedalați spre istoricele Pósitos. Traseul spre Fuente Vieja oferă apă răcoritoare. După o vizită la Ermita izolată, provocați-vă cu urcarea la Castillo de Lizar, de unde puteți vedea întreaga vale.",
-            "en": "This bike tour takes you to the outposts of Frigiliana. Start in the center and cycle to the historic Pósitos. The route to Fuente Vieja offers cooling water. After visiting the remote Ermita, challenge yourself with the climb to Castillo de Lizar, where you can overlook the entire valley."
+            "en": "This bike tour takes you to the outposts of Frigiliana. Start in the center and cycle to the historic Pósitos. The route to Fuente Vieja offers cooling water. After visiting the remote Ermita, challenge yourself with the climb to Castillo de Lizar, where you can overlook the entire valley.",
+            "es": "Esta ruta en bici te lleva a los puestos avanzados de Frigiliana. Empieza en el centro y pedalea hasta los históricos Pósitos. La ruta a Fuente Vieja ofrece agua refrescante. Tras visitar la ermita remota, desafíate con la subida al Castillo de Lizar, desde donde podrás dominar todo el valle."
           },
           "stops": [
             {
@@ -830,7 +889,8 @@
                 "de": "Parken Sie Ihr Rad sicher am Platz.",
                 "hu": "Parkolja le biztonságosan a biciklit a téren.",
                 "ro": "Parcați bicicleta în siguranță în piață.",
-                "en": "Park your bike safely in the square."
+                "en": "Park your bike safely in the square.",
+                "es": "Aparca tu bici de forma segura en la plaza."
               }
             },
             {
@@ -839,7 +899,8 @@
                 "de": "Historisches Getreidelager aus dem 18. Jahrhundert.",
                 "hu": "18. századi királyi magtár épülete.",
                 "ro": "Depozit istoric de cereale din secolul XVIII.",
-                "en": "Historic 18th-century grain storehouse."
+                "en": "Historic 18th-century grain storehouse.",
+                "es": "Antiguo granero del siglo XVIII."
               }
             },
             {
@@ -848,7 +909,8 @@
                 "de": "Frisches Quellwasser zum Auffüllen der Flaschen.",
                 "hu": "Friss forrásvíz a palackok megtöltéséhez.",
                 "ro": "Apă proaspătă de izvor pentru umplerea sticlelor.",
-                "en": "Fresh spring water to refill your bottles."
+                "en": "Fresh spring water to refill your bottles.",
+                "es": "Agua fresca de manantial para rellenar tus botellas."
               }
             },
             {
@@ -857,7 +919,8 @@
                 "de": "Kleine Kapelle am Rande des Dorfes.",
                 "hu": "Kis kápolna a falu szélén.",
                 "ro": "Mică capelă la marginea satului.",
-                "en": "Small chapel on the outskirts of the village."
+                "en": "Small chapel on the outskirts of the village.",
+                "es": "Pequeña capilla en las afueras del pueblo."
               }
             },
             {
@@ -866,7 +929,8 @@
                 "de": "Ein steiler Anstieg, aber die Aussicht lohnt sich.",
                 "hu": "Meredek emelkedő, de a kilátás megéri.",
                 "ro": "O urcare abruptă, dar vederea merită.",
-                "en": "A steep climb, but the view is worth it."
+                "en": "A steep climb, but the view is worth it.",
+                "es": "Una subida empinada, pero la vista merece la pena."
               }
             }
           ],
@@ -968,6 +1032,10 @@
             "en": [
               "Central alleys are often too steep and narrow for bikes.",
               "Use the main roads to bypass the center."
+            ],
+            "es": [
+              "Los callejones centrales suelen ser demasiado empinados y estrechos para bicicletas.",
+              "Utiliza las carreteras principales para evitar el centro."
             ]
           }
         },
@@ -976,7 +1044,8 @@
             "de": "Eine Radtour im Regen erfordert Vorsicht, bietet aber eine erfrischende Perspektive. Start am Platz, dann zu den historischen Speichern. Die weißen Fassaden glänzen silbrig im Regen. Mittags suchen wir Schutz bei der Fuente Vieja und der Kapelle. Der Aufstieg zum Schloss ist bei Regen anspruchsvoll, aber die Aussicht auf das wolkenverhangene Meer ist dramatisch.",
             "hu": "A kerékpározás esőben óvatosságot igényel, de frissítő élményt nyújt. A tértől indulva a történelmi magtárakat érintjük. A fehér homlokzatok ezüstösen csillognak az esőben. Délben a Fuente Viejánál és a kápolnánál keresünk menedéket. A várba vezető út esőben kihívást jelent, de a felhős tenger látványa drámai.",
             "ro": "O tură cu bicicleta în ploaie necesită atenție, dar oferă o perspectivă revigorantă. Plecăm din piață spre depozitele istorice. Fațadele albe strălucesc argintiu în ploaie. La prânz căutăm adăpost lângă Fuente Vieja și capelă. Urcarea spre castel este grea pe ploaie, dar marea acoperită de nori arată dramatic.",
-            "en": "Cycling in the rain requires caution but offers a refreshing perspective. Start at the square, then visit the historic granaries. The white facades shine silvery in the rain. At noon, seek shelter near Fuente Vieja and the chapel. The climb to the castle is challenging in the wet, but the view of the cloudy sea is dramatic."
+            "en": "Cycling in the rain requires caution but offers a refreshing perspective. Start at the square, then visit the historic granaries. The white facades shine silvery in the rain. At noon, seek shelter near Fuente Vieja and the chapel. The climb to the castle is challenging in the wet, but the view of the cloudy sea is dramatic.",
+            "es": "Ciclar bajo la lluvia requiere precaución pero ofrece una perspectiva refrescante. Empieza en la plaza, luego visita los históricos graneros. Las fachadas blancas brillan plateadas con la lluvia. Al mediodía, busca refugio cerca de Fuente Vieja y la capilla. La subida al castillo es exigente en mojado, pero la vista del mar nublado es dramática."
           },
           "stops": [
             {
@@ -985,7 +1054,8 @@
                 "de": "Prüfen Sie Ihre Bremsen, bevor Sie die Abfahrt im Regen beginnen.",
                 "hu": "Ellenőrizze a fékeket, mielőtt megkezdi az ereszkedést az esőben.",
                 "ro": "Verificați frânele înainte de a începe coborârea pe ploaie.",
-                "en": "Check your brakes before starting the descent in the rain."
+                "en": "Check your brakes before starting the descent in the rain.",
+                "es": "Revisa los frenos antes de comenzar el descenso bajo la lluvia."
               }
             },
             {
@@ -994,7 +1064,8 @@
                 "de": "Diese historische Stätte bietet eine kurze Pause vom Wind.",
                 "hu": "Ez a történelmi helyszín rövid pihenőt kínál a szél elől.",
                 "ro": "Acest sit istoric oferă o scurtă pauză de vânt.",
-                "en": "This historical site offers a quick break from the wind."
+                "en": "This historical site offers a quick break from the wind.",
+                "es": "Este sitio histórico ofrece un descanso rápido del viento."
               }
             },
             {
@@ -1003,7 +1074,8 @@
                 "de": "Der alte Brunnen sieht auch unter grauem Himmel wunderschön aus.",
                 "hu": "A régi kút szürke égbolt alatt is gyönyörűen mutat.",
                 "ro": "Vechea fântână arată minunat chiar și sub cerul gri.",
-                "en": "The old fountain looks beautiful even under grey skies."
+                "en": "The old fountain looks beautiful even under grey skies.",
+                "es": "La fuente antigua luce hermosa incluso bajo cielos grises."
               }
             },
             {
@@ -1012,7 +1084,8 @@
                 "de": "Ein kleiner, aber trockener Stopp, um kurz durchzuatmen.",
                 "hu": "Egy kicsi, de száraz megálló, ahol kifújhatja magát.",
                 "ro": "O oprire mică, dar uscată, pentru a vă trage sufletul.",
-                "en": "A small but dry stop to catch your breath."
+                "en": "A small but dry stop to catch your breath.",
+                "es": "Una parada pequeña pero seca para recuperar el aliento."
               }
             },
             {
@@ -1021,7 +1094,8 @@
                 "de": "Der Weg kann schlammig sein; schieben Sie das Rad eventuell.",
                 "hu": "Az út saras lehet; szükség esetén tolja a kerékpárt.",
                 "ro": "Poteca poate fi noroioasă; luați în calcul să mergeți pe lângă bicicletă.",
-                "en": "The path up can be muddy; consider walking the bike."
+                "en": "The path up can be muddy; consider walking the bike.",
+                "es": "El camino de subida puede estar embarrado; considera bajar la bicicleta y caminar."
               }
             }
           ],
@@ -1049,6 +1123,12 @@
               "Use mudguards to protect yourself from road spray.",
               "A waterproof backpack cover is essential for your gear.",
               "The descents in Frigiliana are steep; ride slowly and anticipate turns."
+            ],
+            "es": [
+              "Evita frenar sobre marcas viales mojadas o rejillas metálicas.",
+              "Usa guardabarros para protegerte del salpicado de la carretera.",
+              "Una funda impermeable para la mochila es esencial para tu equipo.",
+              "Los descensos en Frigiliana son pronunciados; conduce despacio y anticipa las curvas."
             ]
           }
         },
@@ -1057,7 +1137,8 @@
             "de": "Winter ist die beste Zeit zum Radfahren in Andalusien. Keine Hitze, klare Luft. Wir starten am Platz und radeln zu den Reales Pósitos. Die milde Mittagssonne macht die Tour zur Fuente Vieja angenehm. Nachmittags geht es zur Ermita und hinauf zum Schloss. Das Licht kurz vor Sonnenuntergang färbt die weißen Häuser in warmen Tönen.",
             "hu": "A tél a legjobb időszak a kerékpározáshoz Andalúziában. Nincs hőség, tiszta a levegő. A tértől indulva a Reales Pósitos felé tekerünk. Az enyhe déli napsütés kellemessé teszi a túrát a Fuente Viejához. Délután az Ermita és a vár a cél. A naplemente előtti fények meleg tónusokra festik a fehér házakat.",
             "ro": "Iarna este cel mai bun moment pentru ciclism în Andaluzia. Fără căldură, aer curat. Plecăm din piață spre Reales Pósitos. Soarele blând de la prânz face tura spre Fuente Vieja plăcută. După-amiază mergem spre Ermita și sus la castel. Lumina de dinainte de apus colorează casele albe în tonuri calde.",
-            "en": "Winter is the best time for cycling in Andalusia. No heat, clear air. Start at the square and ride to Reales Pósitos. The mild noon sun makes the tour to Fuente Vieja pleasant. In the afternoon, head to the Ermita and up to the castle. The light just before sunset paints the white houses in warm tones."
+            "en": "Winter is the best time for cycling in Andalusia. No heat, clear air. Start at the square and ride to Reales Pósitos. The mild noon sun makes the tour to Fuente Vieja pleasant. In the afternoon, head to the Ermita and up to the castle. The light just before sunset paints the white houses in warm tones.",
+            "es": "El invierno es la mejor época para ciclismo en Andalucía. Sin calor y con aire claro. Empieza en la plaza y pedalea hasta los Reales Pósitos. El suave sol del mediodía hace agradable el paseo a Fuente Vieja. Por la tarde, dirígete a la Ermita y sube al castillo. La luz justo antes del atardecer pinta las casas blancas con tonos cálidos."
           },
           "stops": [
             {
@@ -1066,7 +1147,8 @@
                 "de": "Ziehen Sie sich warm an; der Fahrtwind kann kühl sein.",
                 "hu": "Öltözzön melegen; a menetszél hűvös lehet.",
                 "ro": "Îmbrăcați-vă bine; vântul în timpul mersului poate fi rece.",
-                "en": "Layer up; the wind can be biting during the initial ride."
+                "en": "Layer up; the wind can be biting during the initial ride.",
+                "es": "Vístete por capas; el viento puede ser cortante durante la salida."
               }
             },
             {
@@ -1075,7 +1157,8 @@
                 "de": "Ein großartiger Ort, um die Architektur des Dorfes zu bewundern.",
                 "hu": "Nagyszerű hely a falu építészetének megcsodálására.",
                 "ro": "Un loc excelent pentru a aprecia arhitectura satului.",
-                "en": "A great spot to stop and appreciate the village architecture."
+                "en": "A great spot to stop and appreciate the village architecture.",
+                "es": "Un gran lugar para detenerse y apreciar la arquitectura del pueblo."
               }
             },
             {
@@ -1084,7 +1167,8 @@
                 "de": "Das Wasser ist kalt, aber die Geschichte ist faszinierend.",
                 "hu": "A víz hideg, de a hely történelme lenyűgöző.",
                 "ro": "Apa este rece, dar istoria este fascinantă.",
-                "en": "The water is cold, but the history is fascinating."
+                "en": "The water is cold, but the history is fascinating.",
+                "es": "El agua está fría, pero la historia es fascinante."
               }
             },
             {
@@ -1093,7 +1177,8 @@
                 "de": "Die Wintersonne trifft die Kapelle am späten Vormittag wunderschön.",
                 "hu": "A téli nap délelőtt gyönyörűen világítja meg a kápolnát.",
                 "ro": "Soarele de iarnă luminează frumos capela spre sfârșitul dimineții.",
-                "en": "The winter sun hits the chapel beautifully in the late morning."
+                "en": "The winter sun hits the chapel beautifully in the late morning.",
+                "es": "El sol invernal ilumina la capilla de forma hermosa a media mañana."
               }
             },
             {
@@ -1102,7 +1187,8 @@
                 "de": "Planen Sie den Abstieg vor Einbruch der Dunkelheit ein.",
                 "hu": "Tervezze meg az ereszkedést még sötétedés előtt.",
                 "ro": "Asigurați-vă că începeți coborârea înainte de lăsarea întunericului.",
-                "en": "Sunset comes early; ensure you descend before dark."
+                "en": "Sunset comes early; ensure you descend before dark.",
+                "es": "El atardecer llega temprano; asegúrate de descender antes de que oscurezca."
               }
             }
           ],
@@ -1130,6 +1216,12 @@
               "UV radiation is strong even in winter; don't forget sun protection.",
               "Check your lights as dusk sets in quickly.",
               "Take breaks in sunny sections to stay warm."
+            ],
+            "es": [
+              "Lleva guantes cortaviento para los descensos.",
+              "La radiación UV es fuerte incluso en invierno; no olvides protección solar.",
+              "Revisa las luces ya que el crepúsculo llega rápido.",
+              "Haz pausas en tramos soleados para mantenerte caliente."
             ]
           }
         }
@@ -1158,7 +1250,8 @@
             "de": "Großer Parkplatz in der Nähe vorhanden.",
             "hu": "Nagy parkoló található a közelben.",
             "ro": "Parcare mare disponibilă în apropiere.",
-            "en": "Large parking lot available nearby."
+            "en": "Large parking lot available nearby.",
+            "es": "Aparcamiento amplio disponible cerca."
           }
         },
         {
@@ -1176,7 +1269,8 @@
             "de": "Ein schönes Fotomotiv von der Straße aus.",
             "hu": "Szép fotótéma az útról nézve.",
             "ro": "Un motiv fotografic frumos de pe drum.",
-            "en": "A beautiful photo motive from the road."
+            "en": "A beautiful photo motive from the road.",
+            "es": "Un bonito motivo fotográfico desde la carretera."
           }
         },
         {
@@ -1194,7 +1288,8 @@
             "de": "Nur 15 Minuten Fahrt, beeindruckende Tropfsteinhöhlen.",
             "hu": "Csak 15 perc autóút, lenyűgöző cseppkőbarlangok.",
             "ro": "Doar 15 minute de mers, peșteri impresionante.",
-            "en": "Only 15 mins drive, impressive stalactite caves."
+            "en": "Only 15 mins drive, impressive stalactite caves.",
+            "es": "A sólo 15 minutos en coche, impresionantes cuevas de estalactitas."
           }
         },
         {
@@ -1212,7 +1307,8 @@
             "de": "Bester Ausgangspunkt für einen Spaziergang.",
             "hu": "A legjobb kiindulópont egy sétához.",
             "ro": "Cel mai bun punct de plecare pentru o plimbare.",
-            "en": "Best starting point for a walk."
+            "en": "Best starting point for a walk.",
+            "es": "Mejor punto de partida para una caminata."
           }
         },
         {
@@ -1230,7 +1326,8 @@
             "de": "Leicht erreichbar mit dem Auto.",
             "hu": "Autóval könnyen megközelíthető.",
             "ro": "Ușor accesibil cu mașina.",
-            "en": "Easily accessible by car."
+            "en": "Easily accessible by car.",
+            "es": "Fácilmente accesible en coche."
           }
         }
       ],
@@ -1238,7 +1335,8 @@
         "de": "Nutzen Sie das Auto, um Frigiliana mit den nahen Naturwundern zu verbinden. Nach dem Besuch der historischen Fabrik El Ingenio fahren Sie zu den berühmten Höhlen von Nerja. Kehren Sie nach Frigiliana zurück, um den Nachmittag am Plaza de las Tres Culturas zu verbringen und den Tag an der friedlichen Ermita ausklingen zu lassen.",
         "hu": "Használja az autót, hogy Frigilianát összekösse a közeli természeti csodákkal. Az El Ingenio gyár után látogasson el a híres nerjai barlangokhoz. Térjen vissza Frigilianába, töltse a délutánt a Három Kultúra terén, majd zárja a napot a békés Ermitánál.",
         "ro": "Folosiți mașina pentru a combina Frigiliana cu minunile naturale din apropiere. După fabrica El Ingenio, vizitați celebrele peșteri din Nerja. Reveniți în Frigiliana pentru a petrece după-amiaza în Plaza de las Tres Culturas și încheiați ziua la liniștita Ermita.",
-        "en": "Use the car to combine Frigiliana with nearby natural wonders. After visiting the El Ingenio factory, drive to the famous Nerja caves. Return to Frigiliana to spend the afternoon at the Plaza de las Tres Culturas and end the day at the peaceful Ermita."
+        "en": "Use the car to combine Frigiliana with nearby natural wonders. After visiting the El Ingenio factory, drive to the famous Nerja caves. Return to Frigiliana to spend the afternoon at the Plaza de las Tres Culturas and end the day at the peaceful Ermita.",
+        "es": "Usa el coche para combinar Frigiliana con maravillas naturales cercanas. Tras visitar la fábrica El Ingenio, conduce hasta las famosas cuevas de Nerja. Vuelve a Frigiliana para pasar la tarde en la Plaza de las Tres Culturas y terminar el día en la tranquila Ermita."
       },
       "gastro_picks": {
         "de": [
@@ -1338,6 +1436,10 @@
         "en": [
           "Park in the public parking garage at the entrance of the village.",
           "The mountain roads can be very curvy."
+        ],
+        "es": [
+          "Aparca en el parking público en la entrada del pueblo.",
+          "Las carreteras de montaña pueden ser muy sinuosas."
         ]
       },
       "variants": {
@@ -1346,7 +1448,8 @@
             "de": "Nutzen Sie das Auto, um Frigiliana mit den nahen Naturwundern zu verbinden. Nach dem Besuch der historischen Fabrik El Ingenio fahren Sie zu den berühmten Höhlen von Nerja. Kehren Sie nach Frigiliana zurück, um den Nachmittag am Plaza de las Tres Culturas zu verbringen und den Tag an der friedlichen Ermita ausklingen zu lassen.",
             "hu": "Használja az autót, hogy Frigilianát összekösse a közeli természeti csodákkal. Az El Ingenio gyár után látogasson el a híres nerjai barlangokhoz. Térjen vissza Frigilianába, töltse a délutánt a Három Kultúra terén, majd zárja a napot a békés Ermitánál.",
             "ro": "Folosiți mașina pentru a combina Frigiliana cu minunile naturale din apropiere. După fabrica El Ingenio, vizitați celebrele peșteri din Nerja. Reveniți în Frigiliana pentru a petrece după-amiaza în Plaza de las Tres Culturas și încheiați ziua la liniștita Ermita.",
-            "en": "Use the car to combine Frigiliana with nearby natural wonders. After visiting the El Ingenio factory, drive to the famous Nerja caves. Return to Frigiliana to spend the afternoon at the Plaza de las Tres Culturas and end the day at the peaceful Ermita."
+            "en": "Use the car to combine Frigiliana with nearby natural wonders. After visiting the El Ingenio factory, drive to the famous Nerja caves. Return to Frigiliana to spend the afternoon at the Plaza de las Tres Culturas and end the day at the peaceful Ermita.",
+            "es": "Usa el coche para combinar Frigiliana con maravillas naturales cercanas. Tras visitar la fábrica El Ingenio, conduce hasta las famosas cuevas de Nerja. Vuelve a Frigiliana para pasar la tarde en la Plaza de las Tres Culturas y terminar el día en la tranquila Ermita."
           },
           "stops": [
             {
@@ -1355,7 +1458,8 @@
                 "de": "Großer Parkplatz in der Nähe vorhanden.",
                 "hu": "Nagy parkoló található a közelben.",
                 "ro": "Parcare mare disponibilă în apropiere.",
-                "en": "Large parking lot available nearby."
+                "en": "Large parking lot available nearby.",
+                "es": "Aparcamiento amplio disponible cerca."
               }
             },
             {
@@ -1364,7 +1468,8 @@
                 "de": "Ein schönes Fotomotiv von der Straße aus.",
                 "hu": "Szép fotótéma az útról nézve.",
                 "ro": "Un motiv fotografic frumos de pe drum.",
-                "en": "A beautiful photo motive from the road."
+                "en": "A beautiful photo motive from the road.",
+                "es": "Un bonito motivo fotográfico desde la carretera."
               }
             },
             {
@@ -1373,7 +1478,8 @@
                 "de": "Nur 15 Minuten Fahrt, beeindruckende Tropfsteinhöhlen.",
                 "hu": "Csak 15 perc autóút, lenyűgöző cseppkőbarlangok.",
                 "ro": "Doar 15 minute de mers, peșteri impresionante.",
-                "en": "Only 15 mins drive, impressive stalactite caves."
+                "en": "Only 15 mins drive, impressive stalactite caves.",
+                "es": "A sólo 15 minutos en coche, impresionantes cuevas de estalactitas."
               }
             },
             {
@@ -1382,7 +1488,8 @@
                 "de": "Bester Ausgangspunkt für einen Spaziergang.",
                 "hu": "A legjobb kiindulópont egy sétához.",
                 "ro": "Cel mai bun punct de plecare pentru o plimbare.",
-                "en": "Best starting point for a walk."
+                "en": "Best starting point for a walk.",
+                "es": "Mejor punto de partida para una caminata."
               }
             },
             {
@@ -1391,7 +1498,8 @@
                 "de": "Leicht erreichbar mit dem Auto.",
                 "hu": "Autóval könnyen megközelíthető.",
                 "ro": "Ușor accesibil cu mașina.",
-                "en": "Easily accessible by car."
+                "en": "Easily accessible by car.",
+                "es": "Fácilmente accesible en coche."
               }
             }
           ],
@@ -1493,6 +1601,10 @@
             "en": [
               "Park in the public parking garage at the entrance of the village.",
               "The mountain roads can be very curvy."
+            ],
+            "es": [
+              "Aparca en el parking público en la entrada del pueblo.",
+              "Las carreteras de montaña pueden ser muy sinuosas."
             ]
           }
         },
@@ -1501,7 +1613,8 @@
             "de": "Mit dem Auto lässt sich die Region Frigiliana auch bei Regen bequem erkunden. Start an der Fabrik, dann zu den Speichern. Ein Highlight sind die Höhlen von Nerja – unter Tage spielt das Wetter keine Rolle. Zurück in Frigiliana genießen wir die Atmosphäre auf dem Platz vom Auto oder einem nahen Café aus, bevor wir die Ermita besuchen.",
             "hu": "Autóval esőben is kényelmesen felfedezhető Frigiliana környéke. A gyárnál kezdünk, majd a magtárakat nézzük meg. A nap fénypontja a Nerja-barlang, ahol az időjárás nem számít. Visszatérve a faluba, a téren egy közeli kávézóból csodáljuk a tájat, mielőtt a kápolnához hajtanánk.",
             "ro": "Cu mașina, regiunea Frigiliana poate fi explorată confortabil chiar și pe ploaie. Începem la fabrică, apoi la depozite. Punctul culminant sunt Peșterile din Nerja – sub pământ vremea nu contează. Reveniți în Frigiliana, savurăm atmosfera din piață dintr-o cafenea, înainte de a vizita Ermita.",
-            "en": "By car, the Frigiliana region can be comfortably explored even in the rain. Start at the factory, then visit the granaries. A highlight is the Nerja Caves – weather doesn't matter underground. Back in Frigiliana, enjoy the square's atmosphere from a nearby cafe before visiting the Ermita."
+            "en": "By car, the Frigiliana region can be comfortably explored even in the rain. Start at the factory, then visit the granaries. A highlight is the Nerja Caves – weather doesn't matter underground. Back in Frigiliana, enjoy the square's atmosphere from a nearby cafe before visiting the Ermita.",
+            "es": "En coche, la zona de Frigiliana se puede explorar cómodamente incluso con lluvia. Empieza en la fábrica, luego visita los pósitos. Un punto destacado son las Cuevas de Nerja: el tiempo no importa bajo tierra. De vuelta en Frigiliana, disfruta del ambiente de la plaza desde un café cercano antes de visitar la Ermita."
           },
           "stops": [
             {
@@ -1510,7 +1623,8 @@
                 "de": "Parkplätze in der Nähe machen dies zu einem guten Startpunkt.",
                 "hu": "A közeli parkolóhelyek miatt ez egy jó kezdőpont esőben.",
                 "ro": "Parcarea ușoară din apropiere face din asta un punct de plecare bun.",
-                "en": "Easy parking nearby makes this a great rainy day start."
+                "en": "Easy parking nearby makes this a great rainy day start.",
+                "es": "Fácil aparcamiento cercano hace de este un buen inicio en días de lluvia."
               }
             },
             {
@@ -1519,7 +1633,8 @@
                 "de": "Ein kurzer Sprint vom Auto zum historischen Silo.",
                 "hu": "Rövid séta az autótól a történelmi magtárig.",
                 "ro": "O scurtă fugă de la mașină până la silozul istoric.",
-                "en": "A short dash from the car to the historical silo."
+                "en": "A short dash from the car to the historical silo.",
+                "es": "Un corto tramo desde el coche hasta el silo histórico."
               }
             },
             {
@@ -1528,7 +1643,8 @@
                 "de": "Das ultimative Regenziel; drinnen ist es trocken und warm.",
                 "hu": "A tökéletes úti cél esőben; odabent száraz és meleg az idő.",
                 "ro": "Destinația supremă pe ploaie; în interior este uscat și cald.",
-                "en": "The ultimate rainy day destination; it's dry and warm inside."
+                "en": "The ultimate rainy day destination; it's dry and warm inside.",
+                "es": "El destino perfecto para un día lluvioso; está seco y cálido en el interior."
               }
             },
             {
@@ -1537,7 +1653,8 @@
                 "de": "Die Cafés am Platz sind ideal, um den Regen bei einem Kaffee zu beobachten.",
                 "hu": "A téri kávézók tökéletesek az eső nézéséhez egy kávé mellett.",
                 "ro": "Cafenelele din piață sunt ideale pentru a privi ploaia cu o cafea.",
-                "en": "The square's cafes are perfect for watching the rain with a coffee."
+                "en": "The square's cafes are perfect for watching the rain with a coffee.",
+                "es": "Los cafés de la plaza son perfectos para ver la lluvia con un café."
               }
             },
             {
@@ -1546,7 +1663,8 @@
                 "de": "Nutzen Sie den unteren Parkplatz, um den Fußweg im Regen zu minimieren.",
                 "hu": "Használja az alsó parkolót, hogy kevesebbet kelljen gyalogolnia az esőben.",
                 "ro": "Folosiți parcarea de jos pentru a minimiza mersul pe jos prin ploaie.",
-                "en": "Use the lower parking area to minimize walking in the wet."
+                "en": "Use the lower parking area to minimize walking in the wet.",
+                "es": "Usa la zona de aparcamiento inferior para minimizar el paseo bajo la lluvia."
               }
             }
           ],
@@ -1574,6 +1692,12 @@
               "The parking garage at the village entrance is ideal for keeping the car dry.",
               "Check your windshield wipers before heading into the mountains.",
               "Some access roads can be briefly flooded during heavy rain."
+            ],
+            "es": [
+              "Conduce con más cuidado en carreteras sinuosas cuando están mojadas.",
+              "El aparcamiento cubierto en la entrada del pueblo es ideal para mantener el coche seco.",
+              "Revisa los limpiaparabrisas antes de dirigirte a la montaña.",
+              "Algunos accesos pueden inundarse brevemente durante lluvias intensas."
             ]
           }
         },
@@ -1582,7 +1706,8 @@
             "de": "Winter ist ideal für eine Autotour rund um Frigiliana. Die Straßen sind leerer und das Licht perfekt. Start an der Fabrik, dann zu den Pósitos. Die Höhlen von Nerja bieten eine angenehme Wärme. Am Nachmittag genießen wir den Blick vom Platz und besuchen die Ermita. Das klare Winterlicht lässt die Küste zum Greifen nah erscheinen.",
             "hu": "A tél ideális egy autós túrához Frigiliana környékén. Az utak üresebbek, a fények pedig tökéletesek. A gyárnál kezdünk, majd a Pósitos következik. A Nerja-barlang kellemes meleget kínál. Délután a téren élvezzük a kilátást, és ellátogatunk a kápolnához. A tiszta téli fényben a part karnyújtásnyira tűnik.",
             "ro": "Iarna este ideală pentru un tur cu mașina în jurul localității Frigiliana. Drumurile sunt mai libere, iar lumina este perfectă. Începem la fabrică, apoi la Pósitos. Peșterile din Nerja oferă o căldură plăcută. După-amiază admirăm vederea din piață și vizităm Ermita. Lumina clară de iarnă face coasta să pară foarte aproape.",
-            "en": "Winter is ideal for a car tour around Frigiliana. Roads are emptier and the light is perfect. Start at the factory, then visit the Pósitos. The Nerja Caves offer a pleasant warmth. In the afternoon, enjoy the view from the square and visit the Ermita. The clear winter light makes the coast seem within reach."
+            "en": "Winter is ideal for a car tour around Frigiliana. Roads are emptier and the light is perfect. Start at the factory, then visit the Pósitos. The Nerja Caves offer a pleasant warmth. In the afternoon, enjoy the view from the square and visit the Ermita. The clear winter light makes the coast seem within reach.",
+            "es": "El invierno es ideal para una ruta en coche por Frigiliana. Las carreteras están más vacías y la luz es perfecta. Empieza en la fábrica, luego visita los Pósitos. Las Cuevas de Nerja ofrecen un agradable calor. Por la tarde, disfruta de las vistas desde la plaza y visita la Ermita. La luz invernal clara hace que la costa parezca al alcance."
           },
           "stops": [
             {
@@ -1591,7 +1716,8 @@
                 "de": "Das Winterlicht betont das rote Mauerwerk der Fabrik.",
                 "hu": "A téli fény kiemeli a gyár vörös téglafalait.",
                 "ro": "Lumina de iarnă scoate în evidență cărămida roșie a fabricii.",
-                "en": "The winter light highlights the red brickwork of the factory."
+                "en": "The winter light highlights the red brickwork of the factory.",
+                "es": "La luz invernal realza la mampostería de ladrillo rojo de la fábrica."
               }
             },
             {
@@ -1600,7 +1726,8 @@
                 "de": "Genießen Sie die ruhige Jahreszeit mit vielen freien Parkplätzen.",
                 "hu": "Élvezze a csendes szezont a rengeteg szabad parkolóhellyel.",
                 "ro": "Bucurați-vă de sezonul liniștit, cu multe locuri de parcare disponibile.",
-                "en": "Enjoy the quiet season with plenty of parking available."
+                "en": "Enjoy the quiet season with plenty of parking available.",
+                "es": "Disfruta de la temporada baja con abundante aparcamiento disponible."
               }
             },
             {
@@ -1609,7 +1736,8 @@
                 "de": "Die Höhlentemperatur ist konstant und fühlt sich im Winter warm an.",
                 "hu": "A barlang hőmérséklete állandó, és télen melegnek érződik.",
                 "ro": "Temperatura peșterii este constantă și se simte caldă iarna.",
-                "en": "The cave temperature is constant and feels warm in winter."
+                "en": "The cave temperature is constant and feels warm in winter.",
+                "es": "La temperatura de la cueva es constante y resulta cálida en invierno."
               }
             },
             {
@@ -1618,7 +1746,8 @@
                 "de": "Das weiße Dorf leuchtet am Nachmittag unter der tiefstehenden Sonne.",
                 "hu": "A fehér falu délután ragyog az alacsonyan járó téli nap alatt.",
                 "ro": "Satul alb strălucește sub soarele jos de iarnă în cursul după-amiezii.",
-                "en": "The white village glows under the low winter sun in the afternoon."
+                "en": "The white village glows under the low winter sun in the afternoon.",
+                "es": "El pueblo blanco brilla bajo el bajo sol invernal por la tarde."
               }
             },
             {
@@ -1627,7 +1756,8 @@
                 "de": "Ein friedlicher Ort für einen letzten Blick vor dem frühen Sonnenuntergang.",
                 "hu": "Békés hely egy utolsó pillantásra a korai naplemente előtt.",
                 "ro": "Un loc liniștit pentru o ultimă priveliște înainte de apusul devreme.",
-                "en": "A peaceful spot for a final view before the early sunset."
+                "en": "A peaceful spot for a final view before the early sunset.",
+                "es": "Un lugar tranquilo para una última vista antes del temprano ocaso."
               }
             }
           ],
@@ -1655,6 +1785,12 @@
               "Mountain roads can be slippery in the morning; drive carefully.",
               "Ensure your headlights are clean for the early darkness.",
               "Andalusian winter evenings can get chilly quickly in the car; check heating."
+            ],
+            "es": [
+              "Aprovecha la temporada baja para conducir a miradores remotos.",
+              "Las carreteras de montaña pueden estar resbaladizas por la mañana; conduce con cuidado.",
+              "Asegúrate de que los faros estén limpios para la oscuridad temprana.",
+              "Las noches invernales andaluzas pueden enfriarse rápido dentro del coche; revisa la calefacción."
             ]
           }
         }
@@ -1683,7 +1819,8 @@
             "de": "Buslinie von Nerja kommt hier an.",
             "hu": "Ide érkezik a Nerjából induló busz.",
             "ro": "Autobuzul de la Nerja sosește aici.",
-            "en": "The bus from Nerja arrives here."
+            "en": "The bus from Nerja arrives here.",
+            "es": "El autobús desde Nerja llega aquí."
           }
         },
         {
@@ -1701,7 +1838,8 @@
             "de": "Nur wenige Gehminuten vom Bus entfernt.",
             "hu": "Csak pár perc séta a buszmegállótól.",
             "ro": "La doar câteva minute de mers de la autobuz.",
-            "en": "Just a few minutes' walk from the bus."
+            "en": "Just a few minutes' walk from the bus.",
+            "es": "A solo unos minutos a pie desde el autobús."
           }
         },
         {
@@ -1719,7 +1857,8 @@
             "de": "Zentrum für Mittagessen und Orientierung.",
             "hu": "Központi hely ebédhez és tájékozódáshoz.",
             "ro": "Centru pentru prânz și orientare.",
-            "en": "Center for lunch and orientation."
+            "en": "Center for lunch and orientation.",
+            "es": "Centro para comer y orientarse."
           }
         },
         {
@@ -1737,7 +1876,8 @@
             "de": "Das Herz des Dorfes, zu Fuß erkunden.",
             "hu": "A falu szíve, gyalogosan fedezze fel.",
             "ro": "Inima satului, explorați la pas.",
-            "en": "The heart of the village, explore on foot."
+            "en": "The heart of the village, explore on foot.",
+            "es": "El corazón del pueblo, explóralo a pie."
           }
         },
         {
@@ -1755,7 +1895,8 @@
             "de": "Letzter Halt vor der Rückreise zum Bus.",
             "hu": "Utolsó állomás a buszhoz való visszatérés előtt.",
             "ro": "Ultima oprire înainte de întoarcerea la autobuz.",
-            "en": "Last stop before returning to the bus."
+            "en": "Last stop before returning to the bus.",
+            "es": "Última parada antes de volver al autobús."
           }
         }
       ],
@@ -1763,7 +1904,8 @@
         "de": "Reisen Sie entspannt mit dem Bus aus Nerja an. Beginnen Sie mit dem Museum direkt an der Haltestelle. Nach dem Plaza de las Tres Culturas tauchen Sie in das weiße Labyrinth von Barribarto ein. Besuchen Sie die Kirche San Antonio, bevor Sie pünktlich zur Rückfahrt wieder an der Haltestelle eintreffen.",
         "hu": "Érkezzen kényelmesen busszal Nerjából. Kezdjen a múzeumban, amely közel van a megállóhoz. A Három Kultúra tere után merüljön el Barribarto fehér labirintusában. Látogasson el a San Antonio templomba, mielőtt időben visszaérne a buszhoz a hazautazáshoz.",
         "ro": "Călătoriți relaxat cu autobuzul din Nerja. Începeți cu muzeul de lângă stație. După Plaza de las Tres Culturas, scufundați-vă în labirintul alb din Barribarto. Vizitați biserica San Antonio înainte de a reveni la timp la stație pentru plecare.",
-        "en": "Travel relaxed by bus from Nerja. Start with the museum right by the stop. After Plaza de las Tres Culturas, dive into the white labyrinth of Barribarto. Visit San Antonio Church before arriving back at the stop in time for the return trip."
+        "en": "Travel relaxed by bus from Nerja. Start with the museum right by the stop. After Plaza de las Tres Culturas, dive into the white labyrinth of Barribarto. Visit San Antonio Church before arriving back at the stop in time for the return trip.",
+        "es": "Viaja relajado en autobús desde Nerja. Empieza con el museo junto a la parada. Tras la Plaza de las Tres Culturas, adéntrate en el laberinto blanco de Barribarto. Visita la iglesia de San Antonio antes de volver a la parada a tiempo para el regreso."
       },
       "gastro_picks": {
         "de": [
@@ -1863,6 +2005,10 @@
         "en": [
           "Check the bus schedules (ALSA) in advance.",
           "Buy your ticket from the driver or the machine in Nerja."
+        ],
+        "es": [
+          "Consulta los horarios de autobús (ALSA) con antelación.",
+          "Compra el billete al conductor o en la máquina en Nerja."
         ]
       },
       "variants": {
@@ -1871,7 +2017,8 @@
             "de": "Reisen Sie entspannt mit dem Bus aus Nerja an. Beginnen Sie mit dem Museum direkt an der Haltestelle. Nach dem Plaza de las Tres Culturas tauchen Sie in das weiße Labyrinth von Barribarto ein. Besuchen Sie die Kirche San Antonio, bevor Sie pünktlich zur Rückfahrt wieder an der Haltestelle eintreffen.",
             "hu": "Érkezzen kényelmesen busszal Nerjából. Kezdjen a múzeumban, amely közel van a megállóhoz. A Három Kultúra tere után merüljön el Barribarto fehér labirintusában. Látogasson el a San Antonio templomba, mielőtt időben visszaérne a buszhoz a hazautazáshoz.",
             "ro": "Călătoriți relaxat cu autobuzul din Nerja. Începeți cu muzeul de lângă stație. După Plaza de las Tres Culturas, scufundați-vă în labirintul alb din Barribarto. Vizitați biserica San Antonio înainte de a reveni la timp la stație pentru plecare.",
-            "en": "Travel relaxed by bus from Nerja. Start with the museum right by the stop. After Plaza de las Tres Culturas, dive into the white labyrinth of Barribarto. Visit San Antonio Church before arriving back at the stop in time for the return trip."
+            "en": "Travel relaxed by bus from Nerja. Start with the museum right by the stop. After Plaza de las Tres Culturas, dive into the white labyrinth of Barribarto. Visit San Antonio Church before arriving back at the stop in time for the return trip.",
+            "es": "Viaja relajado en autobús desde Nerja. Empieza con el museo junto a la parada. Tras la Plaza de las Tres Culturas, adéntrate en el laberinto blanco de Barribarto. Visita la iglesia de San Antonio antes de volver a la parada a tiempo para el regreso."
           },
           "stops": [
             {
@@ -1880,7 +2027,8 @@
                 "de": "Buslinie von Nerja kommt hier an.",
                 "hu": "Ide érkezik a Nerjából induló busz.",
                 "ro": "Autobuzul de la Nerja sosește aici.",
-                "en": "The bus from Nerja arrives here."
+                "en": "The bus from Nerja arrives here.",
+                "es": "El autobús desde Nerja llega aquí."
               }
             },
             {
@@ -1889,7 +2037,8 @@
                 "de": "Nur wenige Gehminuten vom Bus entfernt.",
                 "hu": "Csak pár perc séta a buszmegállótól.",
                 "ro": "La doar câteva minute de mers de la autobuz.",
-                "en": "Just a few minutes' walk from the bus."
+                "en": "Just a few minutes' walk from the bus.",
+                "es": "A solo unos minutos a pie desde el autobús."
               }
             },
             {
@@ -1898,7 +2047,8 @@
                 "de": "Zentrum für Mittagessen und Orientierung.",
                 "hu": "Központi hely ebédhez és tájékozódáshoz.",
                 "ro": "Centru pentru prânz și orientare.",
-                "en": "Center for lunch and orientation."
+                "en": "Center for lunch and orientation.",
+                "es": "Centro para comer y orientarse."
               }
             },
             {
@@ -1907,7 +2057,8 @@
                 "de": "Das Herz des Dorfes, zu Fuß erkunden.",
                 "hu": "A falu szíve, gyalogosan fedezze fel.",
                 "ro": "Inima satului, explorați la pas.",
-                "en": "The heart of the village, explore on foot."
+                "en": "The heart of the village, explore on foot.",
+                "es": "El corazón del pueblo, explóralo a pie."
               }
             },
             {
@@ -1916,7 +2067,8 @@
                 "de": "Letzter Halt vor der Rückreise zum Bus.",
                 "hu": "Utolsó állomás a buszhoz való visszatérés előtt.",
                 "ro": "Ultima oprire înainte de întoarcerea la autobuz.",
-                "en": "Last stop before returning to the bus."
+                "en": "Last stop before returning to the bus.",
+                "es": "Última parada antes de volver al autobús."
               }
             }
           ],
@@ -2018,6 +2170,10 @@
             "en": [
               "Check the bus schedules (ALSA) in advance.",
               "Buy your ticket from the driver or the machine in Nerja."
+            ],
+            "es": [
+              "Consulta los horarios de autobús (ALSA) con antelación.",
+              "Compra el billete al conductor o en la máquina en Nerja."
             ]
           }
         },
@@ -2026,7 +2182,8 @@
             "de": "Busfahren ist eine gute Wahl, wenn es in Frigiliana regnet. Wir kommen an der Haltestelle an und gehen direkt zum Museum – der perfekte Ort für einen langen, trockenen Besuch. Mittags erkunden wir den Platz und suchen Schutz in den Gassen des Barribarto. Die Kirche San Antonio bietet am Nachmittag einen friedlichen, trockenen Abschluss der Tour.",
             "hu": "A buszozás jó választás, ha esik Frigilianában. Megérkezés után egyenesen a múzeumba megyünk – tökéletes hely egy hosszú, száraz látogatáshoz. Délben a teret fedezzük fel, és a Barribarto utcáin keresünk oltalmat. A San Antonio templom békés és száraz lezárást kínál délután.",
             "ro": "Autobuzul este o alegere bună când plouă în Frigiliana. Ajungem în stație și mergem direct la muzeu – locul perfect pentru o vizită lungă și uscată. La prânz explorăm piața și căutăm adăpost pe străzile din Barribarto. Biserica San Antonio oferă un final liniștit și uscat turului.",
-            "en": "Taking the bus is a great choice when it rains in Frigiliana. Arrive at the stop and head straight to the museum – the perfect place for a long, dry visit. At noon, explore the square and seek shelter in the alleys of Barribarto. San Antonio church offers a peaceful, dry end to the afternoon."
+            "en": "Taking the bus is a great choice when it rains in Frigiliana. Arrive at the stop and head straight to the museum – the perfect place for a long, dry visit. At noon, explore the square and seek shelter in the alleys of Barribarto. San Antonio church offers a peaceful, dry end to the afternoon.",
+            "es": "Tomar el autobús es una gran opción cuando llueve en Frigiliana. Llega a la parada y dirígete directamente al museo: el lugar perfecto para una visita larga y seca. Al mediodía, explora la plaza y busca refugio en las callejuelas de Barribarto. La iglesia de San Antonio ofrece un final tranquilo y seco para la tarde."
           },
           "stops": [
             {
@@ -2035,7 +2192,8 @@
                 "de": "Warten Sie im nahen Café, falls der Bus wetterbedingt Verspätung hat.",
                 "hu": "Várjon a közeli kávézóban, ha a busz az eső miatt késne.",
                 "ro": "Așteptați în cafeneaua de lângă dacă autobuzul întârzie din cauza ploii.",
-                "en": "Wait inside the nearby cafe if the bus is delayed by rain."
+                "en": "Wait inside the nearby cafe if the bus is delayed by rain.",
+                "es": "Espera dentro del café cercano si el autobús se retrasa por la lluvia."
               }
             },
             {
@@ -2044,7 +2202,8 @@
                 "de": "Ein langer Museumsbesuch ist ideal, um dem Mittagsregen zu entgehen.",
                 "hu": "A hosszú múzeumlátogatás ideális a déli eső elkerülésére.",
                 "ro": "O vizită lungă la muzeu este ideală pentru a scăpa de ploaia de la prânz.",
-                "en": "A long indoor visit is ideal for escaping the midday downpour."
+                "en": "A long indoor visit is ideal for escaping the midday downpour.",
+                "es": "Una larga visita interior es ideal para escapar del aguacero del mediodía."
               }
             },
             {
@@ -2053,7 +2212,8 @@
                 "de": "Die zentrale Lage ermöglicht einen schnellen Zugang zu vielen Unterständen.",
                 "hu": "A központi elhelyezkedés gyors hozzáférést biztosít sok fedett helyhez.",
                 "ro": "Locația centrală permite acces rapid la multe locuri cu adăpost.",
-                "en": "The central location means quick access to many sheltered spots."
+                "en": "The central location means quick access to many sheltered spots.",
+                "es": "La ubicación central permite rápido acceso a muchos puntos cubiertos."
               }
             },
             {
@@ -2062,7 +2222,8 @@
                 "de": "Nutzen Sie die kleineren, überdachten Passagen, um trocken zu bleiben.",
                 "hu": "Használja a kisebb, fedett átjárókat, hogy száraz maradjon.",
                 "ro": "Folosiți pasajele mai mici și acoperite pentru a rămâne cât mai uscat.",
-                "en": "Take the smaller, covered passages to stay as dry as possible."
+                "en": "Take the smaller, covered passages to stay as dry as possible.",
+                "es": "Toma los pasajes pequeños y cubiertos para mantenerte lo más seco posible."
               }
             },
             {
@@ -2071,7 +2232,8 @@
                 "de": "Ein friedlicher Abschluss Ihres verregneten Erkundungstages im Trockenen.",
                 "hu": "Békés, fedett lezárása az esős felfedezőútnak.",
                 "ro": "Un final liniștit la adăpost pentru ziua voastră de explorare ploioasă.",
-                "en": "A peaceful indoor end to your rainy day exploration."
+                "en": "A peaceful indoor end to your rainy day exploration.",
+                "es": "Un final tranquilo en interior para tu jornada de exploración bajo la lluvia."
               }
             }
           ],
@@ -2099,6 +2261,12 @@
               "Buses may be more crowded than usual during heavy rain.",
               "Have small change or your ticket ready to avoid standing in the rain.",
               "The walk from the bus stop to the village center is short but steep."
+            ],
+            "es": [
+              "Consulta la app de transporte en tiempo real durante mal tiempo.",
+              "Los autobuses pueden estar más llenos de lo habitual durante fuertes lluvias.",
+              "Ten cambio pequeño o el billete listo para evitar esperar bajo la lluvia.",
+              "La caminata desde la parada de autobús hasta el centro es corta pero empinada."
             ]
           }
         },
@@ -2107,7 +2275,8 @@
             "de": "Mit dem Bus nach Frigiliana ist auch im Winter stressfrei. Wir starten an der Haltestelle und besuchen das Museum, dessen dicke Mauern angenehm temperiert sind. Mittags genießen wir die Sonne auf dem Platz. Im Barribarto schützen die engen Gassen vor dem Winterwind. Den Abschluss bildet die Kirche San Antonio, in der das Abendlicht besonders schön fällt.",
             "hu": "Busszal Frigilianába utazni télen is stresszmentes. A megállótól indulva a múzeumot látogatjuk meg, melynek falai kellemes hőmérsékletet tartanak. Délben a téren élvezzük a napsütést. A Barribarto szűk utcái védenek a téli széltől. A napot a San Antonio templom zárja, ahol az esti fények gyönyörűek.",
             "ro": "Călătoria cu autobuzul spre Frigiliana este relaxantă și iarna. Plecăm din stație și vizităm muzeul, ale cărui ziduri groase mențin o temperatură plăcută. La prânz ne bucurăm de soare în piață. În Barribarto, străzile înguste protejează de vântul de iarnă. Încheiem la biserica San Antonio, unde lumina serii este superbă.",
-            "en": "Taking the bus to Frigiliana is stress-free even in winter. Start at the stop and visit the museum, where thick walls keep the interior tempered. At noon, enjoy the sun at the square. In Barribarto, narrow streets protect from the winter wind. Finish at San Antonio church, where the evening light is particularly beautiful."
+            "en": "Taking the bus to Frigiliana is stress-free even in winter. Start at the stop and visit the museum, where thick walls keep the interior tempered. At noon, enjoy the sun at the square. In Barribarto, narrow streets protect from the winter wind. Finish at San Antonio church, where the evening light is particularly beautiful.",
+            "es": "Ir en autobús a Frigiliana es sin estrés incluso en invierno. Empieza en la parada y visita el museo, cuyas paredes gruesas mantienen el interior templado. Al mediodía, disfruta del sol en la plaza. En Barribarto, las calles estrechas protegen del viento invernal. Termina en la iglesia de San Antonio, donde la luz del atardecer es especialmente hermosa."
           },
           "stops": [
             {
@@ -2116,7 +2285,8 @@
                 "de": "Prüfen Sie den Winterfahrplan, da die Frequenzen niedriger sein können.",
                 "hu": "Ellenőrizze a téli menetrendet, mert a járatok ritkábbak lehetnek.",
                 "ro": "Verificați orarul de iarnă, deoarece frecvențele pot fi mai mici.",
-                "en": "Check the winter schedule as frequencies might be slightly lower."
+                "en": "Check the winter schedule as frequencies might be slightly lower.",
+                "es": "Consulta el horario de invierno, ya que la frecuencia puede ser algo menor."
               }
             },
             {
@@ -2125,7 +2295,8 @@
                 "de": "Die dicken Mauern halten das Innere angenehm temperiert.",
                 "hu": "A vastag falak kellemesen tartják a benti hőmérsékletet.",
                 "ro": "Zidurile groase mențin interiorul la o temperatură plăcută.",
-                "en": "The thick walls keep the interior comfortably tempered."
+                "en": "The thick walls keep the interior comfortably tempered.",
+                "es": "Las paredes gruesas mantienen el interior cómodamente templado."
               }
             },
             {
@@ -2134,7 +2305,8 @@
                 "de": "Ideal für einen zügigen Spaziergang, bevor man ein sonniges Plätzchen sucht.",
                 "hu": "Ideális egy tempós sétához, mielőtt benapozott helyet keresne ebédhez.",
                 "ro": "Perfect pentru o plimbare rapidă înainte de a găsi un loc însorit pentru prânz.",
-                "en": "Perfect for a brisk walk before finding a sunny spot for lunch."
+                "en": "Perfect for a brisk walk before finding a sunny spot for lunch.",
+                "es": "Perfecto para un paseo enérgico antes de buscar un sitio soleado para comer."
               }
             },
             {
@@ -2143,7 +2315,8 @@
                 "de": "Die engen Gassen bieten guten Schutz vor dem Winterwind.",
                 "hu": "A szűk utcák jó védelmet nyújtanak a téli szél ellen.",
                 "ro": "Străzile înguste oferă o protecție bună împotriva vântului de iarnă.",
-                "en": "The narrow streets provide good protection from winter winds."
+                "en": "The narrow streets provide good protection from winter winds.",
+                "es": "Las calles estrechas protegen bien de los vientos invernales."
               }
             },
             {
@@ -2152,7 +2325,8 @@
                 "de": "Das Abendlicht durch die Fenster ist besonders reizvoll.",
                 "hu": "Az ablakokon beszűrődő esti fény különösen vonzó.",
                 "ro": "Lumina serii prin ferestre este deosebit de frumoasă.",
-                "en": "The evening light through the windows is particularly lovely."
+                "en": "The evening light through the windows is particularly lovely.",
+                "es": "La luz de la tarde a través de las ventanas es especialmente encantadora."
               }
             }
           ],
@@ -2180,6 +2354,12 @@
               "The bus ride from Nerja offers great views of the winter coast.",
               "Bring a jacket as it's warm on the bus but cool outside.",
               "On winter weekends, buses can be popular with day-trippers."
+            ],
+            "es": [
+              "Fíjate en los horarios de salida más tempranos para volver de noche.",
+              "El trayecto en autobús desde Nerja ofrece excelentes vistas de la costa invernal.",
+              "Lleva una chaqueta: hace calor en el autobús pero fresco fuera.",
+              "Los fines de semana de invierno los autobuses pueden llenarse de excursionistas de un día."
             ]
           }
         }
@@ -2196,19 +2376,22 @@
       "de": "Frigiliana ist als 'schoenstes Dorf Andalusiens' bekannt, viele Auslaender leben hier, daher kommen Sie mit Englisch durch. Im alten maurischen Viertel mit den bemalten Bodenfliesen wird traditionelles Spanisch gesprochen, ein 'que bonito pueblo' ist Musik in den Ohren der Einheimischen.",
       "hu": "Frigiliana 'Andalúzia legszebb falujaként' ismert, sok külföldi lakik itt, így angollal elboldogulsz. A mór negyedben a festett kőburkolat fölött hagyományos spanyolt beszélnek, egy 'que bonito pueblo' (milyen szép falu) zene a helyiek fülének.",
       "ro": "Frigiliana e cunoscuta ca 'cel mai frumos sat din Andaluzia', multi straini locuiesc aici, deci te descurci cu engleza. In cartierul maur cu pavajul pictat se vorbeste spaniola traditionala, un 'que bonito pueblo' e muzica pentru localnici.",
-      "en": "Frigiliana is famed as 'Andalusia's prettiest village' and many foreigners live here, so English works fine. In the Moorish quarter with its painted floor tiles traditional Spanish dominates, and 'que bonito pueblo' is music to locals' ears."
+      "en": "Frigiliana is famed as 'Andalusia's prettiest village' and many foreigners live here, so English works fine. In the Moorish quarter with its painted floor tiles traditional Spanish dominates, and 'que bonito pueblo' is music to locals' ears.",
+      "es": "Frigiliana es famosa como «el pueblo más bonito de Andalucía» y viven aquí muchos extranjeros, así que el inglés funciona bien. En el barrio moro con sus azulejos pintados domina el español tradicional; «¡qué bonito pueblo!» encanta a los locales."
     },
     "best_time_to_visit": {
       "de": "April, Mai, September und Oktober sind perfekt fuer Spaziergaenge durch die weissen Gassen. Im August ist es heiss und das Dorf voll mit Tagesausflueglern aus Nerja, im Winter mild und ruhig, das Festival Tres Culturas findet Ende August statt.",
       "hu": "Április, május, szeptember és október tökéletes a fehér sikátorokba sétáláshoz. Augusztusban forróság és Nerjából érkező napi turisták, télen csendes és enyhe, a Tres Culturas fesztivál augusztus végén van.",
       "ro": "Aprilie, mai, septembrie si octombrie sunt perfecte pentru plimbari pe ulitele albe. In august e cald si satul e plin de excursionisti din Nerja, iarna e linistita si blanda, festivalul Tres Culturas e la finalul lui august.",
-      "en": "April, May, September and October are perfect for wandering the white lanes. August brings heat and day-trippers from Nerja, winter stays quiet and mild, the Tres Culturas festival happens in late August."
+      "en": "April, May, September and October are perfect for wandering the white lanes. August brings heat and day-trippers from Nerja, winter stays quiet and mild, the Tres Culturas festival happens in late August.",
+      "es": "Abril, mayo, septiembre y octubre son perfectos para recorrer las callejuelas blancas. Agosto trae calor y visitantes de día desde Nerja; el invierno permanece tranquilo y templado; el festival Tres Culturas tiene lugar a finales de agosto."
     },
     "neighborhood_warnings": {
       "de": "Frigiliana ist sehr sicher, kein Stadtverkehr, kein Nachtleben-Risiko. Hauptproblem sind die extrem engen steilen Treppengassen, gutes Schuhwerk und nicht im Dunkeln laufen, parken Sie unten am grossen Aparcamiento.",
       "hu": "Frigiliana nagyon biztonságos, nincs városi forgalom, nincs éjszakai rizikó. A fő probléma a rendkívül szűk meredek lépcsős sikátorok, jó cipő kell és ne sétálj sötétben, lent a nagy parkolóban hagyd az autót.",
       "ro": "Frigiliana e foarte sigura, fara trafic urban, fara risc nocturn. Principala problema sunt ulitele cu trepte extrem de inguste si abrupte, ai nevoie de incaltaminte buna si nu te plimba pe intuneric, parcheaza la parcarea mare de jos.",
-      "en": "Frigiliana is very safe, no city traffic, no nightlife risks. The main hazard is the extremely steep stepped lanes, wear proper shoes and don't wander in the dark, park down at the main car park and walk up."
+      "en": "Frigiliana is very safe, no city traffic, no nightlife risks. The main hazard is the extremely steep stepped lanes, wear proper shoes and don't wander in the dark, park down at the main car park and walk up.",
+      "es": "Frigiliana es muy segura: no hay tráfico urbano ni riesgos nocturnos. El principal peligro son las empinadas calles con escalones; lleva calzado adecuado, no deambules de noche, aparca en el parking principal y sube a pie."
     }
   }
 }

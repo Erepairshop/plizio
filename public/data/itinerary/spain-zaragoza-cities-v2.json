@@ -21,7 +21,8 @@
             "de": "Plaza del Justicia",
             "hu": "Igazságügyi tér",
             "ro": "Piața Justiției",
-            "en": "Justice Square"
+            "en": "Justice Square",
+            "es": "Plaza de la Justicia"
           },
           "coords": [
             -0.8812,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Fassade der Santa Isabel Kirche.",
             "hu": "Csodálja meg a Santa Isabel templom barokk homlokzatát.",
             "ro": "Admirați fațada barocă a bisericii Santa Isabel.",
-            "en": "Admire the baroque facade of the Santa Isabel church."
+            "en": "Admire the baroque facade of the Santa Isabel church.",
+            "es": "Admira la fachada barroca de la iglesia de Santa Isabel."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Mercado Central",
             "hu": "Központi Piac",
             "ro": "Piața Centrală",
-            "en": "Central Market"
+            "en": "Central Market",
+            "es": "Mercado Central"
           },
           "coords": [
             -0.8824,
@@ -59,7 +62,8 @@
             "de": "Probieren Sie lokalen Käse und Schinken.",
             "hu": "Kóstolja meg a helyi sajtokat és sonkákat.",
             "ro": "Gustați brânzeturile și șunca locală.",
-            "en": "Try some local cheeses and cured hams."
+            "en": "Try some local cheeses and cured hams.",
+            "es": "Prueba algunos quesos locales y jamones curados."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Basílica del Pilar",
             "hu": "Pilar-bazilika",
             "ro": "Bazilica del Pilar",
-            "en": "Basilica of Our Lady of the Pillar"
+            "en": "Basilica of Our Lady of the Pillar",
+            "es": "Basílica de Nuestra Señora del Pilar"
           },
           "coords": [
             -0.8785,
@@ -82,7 +87,8 @@
             "de": "Fahren Sie mit dem Lift auf den Turm für Panoramafotos.",
             "hu": "Menjen fel a lifttel a toronyba a panorámáért.",
             "ro": "Urcați cu liftul în turn pentru poze panoramice.",
-            "en": "Take the elevator up the tower for panoramic photos."
+            "en": "Take the elevator up the tower for panoramic photos.",
+            "es": "Sube en el ascensor a la torre para fotos panorámicas."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Puente de Piedra",
             "hu": "Kőhíd",
             "ro": "Podul de Piatră",
-            "en": "Stone Bridge"
+            "en": "Stone Bridge",
+            "es": "Puente de Piedra"
           },
           "coords": [
             -0.8765,
@@ -105,7 +112,8 @@
             "de": "Der beste Ort für Fotos der Basilika vom Flussufer.",
             "hu": "A legjobb hely a bazilika fotózására a folyó felől.",
             "ro": "Cel mai bun loc pentru poze cu bazilica de pe râu.",
-            "en": "The best spot for photos of the Basilica from the river."
+            "en": "The best spot for photos of the Basilica from the river.",
+            "es": "El mejor lugar para fotografiar la Basílica desde el río."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "La Seo Kathedrale",
             "hu": "La Seo székesegyház",
             "ro": "Catedrala La Seo",
-            "en": "La Seo Cathedral"
+            "en": "La Seo Cathedral",
+            "es": "Catedral de La Seo"
           },
           "coords": [
             -0.8755,
@@ -128,7 +137,8 @@
             "de": "Besuchen Sie das Gobelin-Museum im Inneren.",
             "hu": "Látogassa meg a belső falikárpit-múzeumot.",
             "ro": "Vizitați muzeul de tapiserie din interior.",
-            "en": "Visit the tapestry museum inside the cathedral."
+            "en": "Visit the tapestry museum inside the cathedral.",
+            "es": "Visita el museo de tapices dentro de la catedral."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Römisches Theater",
             "hu": "Római színház",
             "ro": "Teatrul Roman",
-            "en": "Roman Theatre"
+            "en": "Roman Theatre",
+            "es": "Teatro Romano"
           },
           "coords": [
             -0.8782,
@@ -151,7 +162,8 @@
             "de": "Entdecken Sie die antiken Ruinen von Caesaraugusta.",
             "hu": "Fedezze fel Caesaraugusta ókori romjait.",
             "ro": "Descoperiți ruinele antice din Caesaraugusta.",
-            "en": "Discover the ancient ruins of Caesaraugusta."
+            "en": "Discover the ancient ruins of Caesaraugusta.",
+            "es": "Descubre las antiguas ruinas de Caesaraugusta."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Aljafería-Palast",
             "hu": "Aljafería-palota",
             "ro": "Palatul Aljafería",
-            "en": "Aljafería Palace"
+            "en": "Aljafería Palace",
+            "es": "Palacio de la Aljafería"
           },
           "coords": [
             -0.8972,
@@ -174,7 +187,8 @@
             "de": "Buchen Sie Tickets im Voraus, oft ausverkauft.",
             "hu": "Foglaljon jegyet előre, gyakran teltházas.",
             "ro": "Rezervați bilete în avans, se vând rapid.",
-            "en": "Book tickets in advance, often sold out."
+            "en": "Book tickets in advance, often sold out.",
+            "es": "Reserva entradas con antelación, a menudo se agotan."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Ein Spaziergang durch Saragossa offenbart Schichten der Geschichte, von römischen Ruinen bis hin zu maurischer Pracht. Der Vormittag ist dem spirituellen Herzen gewidmet: der prächtigen Basilika und der Kathedrale La Seo. Nach einem Bummel über den lebhaften Markt führt der Weg zu den antiken Steinen des römischen Theaters. Der krönende Abschluss ist der Besuch des Aljafería-Palastes, ein Juwel islamischer Kunst im Norden Spaniens.",
         "hu": "Zaragozai sétánk feltárja a történelem rétegeit a római romoktól a mór pompáig. A délelőtt a spirituális központé: a monumentális Pilar-bazilikáé és a La Seo katedrálisé. A nyüzsgő piacon tett látogatás után az út a római színház ősi köveihez vezet. A nap fénypontja az Aljafería-palota, amely az iszlám építészet egyik legszebb példája Észak-Spanyolországban.",
         "ro": "O plimbare prin Zaragoza dezvăluie straturi de istorie, de la ruine romane la splendoarea maură. Dimineața este dedicată inimii spirituale: magnifica Bazilică Pilar și Catedrala La Seo. După o vizită în piața centrală vibrantă, drumul duce la pietrele antice ale teatrului roman. Încheierea perfectă este vizita la Palatul Aljafería, o bijuterie a artei islamice în nordul Spaniei.",
-        "en": "A walk through Zaragoza reveals layers of history, from Roman ruins to Moorish splendor. The morning is dedicated to the spiritual heart: the magnificent Basilica of the Pillar and La Seo Cathedral. After a stroll through the lively central market, the path leads to the ancient stones of the Roman theater. The crowning moment is the visit to the Aljafería Palace, a jewel of Islamic art in northern Spain."
+        "en": "A walk through Zaragoza reveals layers of history, from Roman ruins to Moorish splendor. The morning is dedicated to the spiritual heart: the magnificent Basilica of the Pillar and La Seo Cathedral. After a stroll through the lively central market, the path leads to the ancient stones of the Roman theater. The crowning moment is the visit to the Aljafería Palace, a jewel of Islamic art in northern Spain.",
+        "es": "Un paseo por Zaragoza revela capas de historia, desde restos romanos hasta el esplendor musulmán. La mañana se dedica al corazón espiritual: la magnífica Basílica del Pilar y la Catedral de La Seo. Tras un paseo por el animado mercado central, el camino conduce a las antiguas piedras del teatro romano. El momento culminante es la visita al Palacio de la Aljafería, una joya del arte islámico en el norte de España."
       },
       "gastro_picks": {
         "de": [
@@ -302,6 +317,11 @@
           "Most attractions are concentrated in the historic city center.",
           "Zaragoza is famous for its wind (Cierzo), a light jacket is often needed.",
           "Mind the siesta: small shops usually close between 2 PM and 5 PM."
+        ],
+        "es": [
+          "La mayoría de las atracciones están concentradas en el casco histórico.",
+          "Zaragoza es famosa por su viento (Cierzo); suele necesitarse una chaqueta ligera.",
+          "Cuidado con la siesta: las tiendas pequeñas suelen cerrar entre las 14:00 y las 17:00."
         ]
       }
     },
@@ -318,7 +338,8 @@
             "de": "Aljafería-Palast",
             "hu": "Aljafería-palota",
             "ro": "Palatul Aljafería",
-            "en": "Aljafería Palace"
+            "en": "Aljafería Palace",
+            "es": "Palacio de la Aljafería"
           },
           "coords": [
             -0.8972,
@@ -333,7 +354,8 @@
             "de": "Fahrradständer direkt vor dem Haupteingang.",
             "hu": "Kerékpártárolók közvetlenül a főbejáratnál.",
             "ro": "Rastele de biciclete direct în fața intrării.",
-            "en": "Bike racks available right in front of the entrance."
+            "en": "Bike racks available right in front of the entrance.",
+            "es": "Aparcabicicletas disponibles justo delante de la entrada."
           }
         },
         {
@@ -341,7 +363,8 @@
             "de": "Mercado Central",
             "hu": "Központi Piac",
             "ro": "Piața Centrală",
-            "en": "Central Market"
+            "en": "Central Market",
+            "es": "Mercado Central"
           },
           "coords": [
             -0.8824,
@@ -356,7 +379,8 @@
             "de": "Perfekt für einen schnellen gesunden Snack.",
             "hu": "Tökéletes hely egy gyors és egészséges tízóraira.",
             "ro": "Perfect pentru o gustare rapidă și sănătoasă.",
-            "en": "Perfect for a quick healthy snack."
+            "en": "Perfect for a quick healthy snack.",
+            "es": "Perfecto para un tentempié saludable y rápido."
           }
         },
         {
@@ -364,7 +388,8 @@
             "de": "Basílica del Pilar",
             "hu": "Pilar-bazilika",
             "ro": "Bazilica del Pilar",
-            "en": "Basilica of Our Lady of the Pillar"
+            "en": "Basilica of Our Lady of the Pillar",
+            "es": "Basílica de Nuestra Señora del Pilar"
           },
           "coords": [
             -0.8785,
@@ -379,7 +404,8 @@
             "de": "Auf der Plaza del Pilar herrscht Fahrverbot, bitte schieben.",
             "hu": "A Plaza del Pilar téren tilos tekerni, kérjük tolja a bringát.",
             "ro": "Ciclismul este interzis în piață, vă rugăm mergeți pe lângă.",
-            "en": "Cycling is forbidden on the main square, please push your bike."
+            "en": "Cycling is forbidden on the main square, please push your bike.",
+            "es": "Está prohibido circular en bicicleta por la plaza principal; por favor, empuja la bici."
           }
         },
         {
@@ -387,7 +413,8 @@
             "de": "Puente de Piedra",
             "hu": "Kőhíd",
             "ro": "Podul de Piatră",
-            "en": "Stone Bridge"
+            "en": "Stone Bridge",
+            "es": "Puente de Piedra"
           },
           "coords": [
             -0.8765,
@@ -402,7 +429,8 @@
             "de": "Genießen Sie die Brise während der Überfahrt.",
             "hu": "Élvezze a friss fuvallatot az átkelés közben.",
             "ro": "Bucurați-vă de briză în timp ce traversați.",
-            "en": "Enjoy the breeze while crossing the bridge."
+            "en": "Enjoy the breeze while crossing the bridge.",
+            "es": "Disfruta de la brisa al cruzar el puente."
           }
         },
         {
@@ -410,7 +438,8 @@
             "de": "La Seo Kathedrale",
             "hu": "La Seo székesegyház",
             "ro": "Catedrala La Seo",
-            "en": "La Seo Cathedral"
+            "en": "La Seo Cathedral",
+            "es": "Catedral de La Seo"
           },
           "coords": [
             -0.8755,
@@ -425,7 +454,8 @@
             "de": "Die Mudéjar-Wand an der Außenseite ist ein Muss.",
             "hu": "A külső mudéjar falat mindenképpen nézze meg.",
             "ro": "Zidul Mudéjar din exterior este de neratat.",
-            "en": "The Mudéjar wall on the exterior is a must-see."
+            "en": "The Mudéjar wall on the exterior is a must-see.",
+            "es": "La muralla mudéjar en el exterior es de visita obligada."
           }
         },
         {
@@ -433,7 +463,8 @@
             "de": "Römisches Theater",
             "hu": "Római színház",
             "ro": "Teatrul Roman",
-            "en": "Roman Theatre"
+            "en": "Roman Theatre",
+            "es": "Teatro Romano"
           },
           "coords": [
             -0.8782,
@@ -448,7 +479,8 @@
             "de": "Sicherer Parkplatz für Räder in der Nähe.",
             "hu": "Biztonságos kerékpárparkoló a közelben.",
             "ro": "Parcare sigură pentru biciclete în apropiere.",
-            "en": "Safe bike parking available nearby."
+            "en": "Safe bike parking available nearby.",
+            "es": "Aparcamiento seguro para bicicletas disponible cerca."
           }
         },
         {
@@ -456,7 +488,8 @@
             "de": "Parque Grande José Antonio Labordeta",
             "hu": "José Antonio Labordeta nagy park",
             "ro": "Parcul Mare José Antonio Labordeta",
-            "en": "Grande José Antonio Labordeta Park"
+            "en": "Grande José Antonio Labordeta Park",
+            "es": "Parque Grande José Antonio Labordeta"
           },
           "coords": [
             -0.8935,
@@ -471,7 +504,8 @@
             "de": "Viele Radwege innerhalb des Parks, ideal zum Entspannen.",
             "hu": "Sok kerékpárút a parkon belül, ideális pihenésre.",
             "ro": "Multe piste de biciclete în interiorul parcului.",
-            "en": "Plenty of bike paths inside the park, ideal for relaxing."
+            "en": "Plenty of bike paths inside the park, ideal for relaxing.",
+            "es": "Muchos carriles bici dentro del parque, ideal para relajarse."
           }
         }
       ],
@@ -479,7 +513,8 @@
         "de": "Erkunden Sie Saragossa auf zwei Rädern. Diese Tour verbindet die majestätische Architektur des Stadtzentrums mit der grünen Lunge im Süden. Radeln Sie entlang des Ebro, bewundern Sie die Mudéjar-Details der Kathedralen und beenden Sie den Tag im weitläufigen Parque Grande, wo breite Alleen und Gärten zum Entspannen einladen.",
         "hu": "Fedezze fel Zaragozát két keréken. Ez a túra ötvözi a belváros fenséges építészetét a déli zöldövezettel. Tekerjen az Ebro mentén, csodálja meg a katedrálisok mudéjar részleteit, és fejezze be a napot a tágas Nagy Parkban, ahol széles sétányok és kertek várják a pihenni vágyókat.",
         "ro": "Explorați Zaragoza pe două roți. Acest tur combină arhitectura maiestuoasă a centrului cu zona verde din sud. Pedalați de-a lungul Ebrului, admirați detaliile Mudéjar ale catedralelor și încheiați ziua în vastul Parc Mare, unde aleile largi și grădinile invită la relaxare.",
-        "en": "Explore Zaragoza on two wheels. This tour combines the majestic architecture of the city center with the green lung in the south. Cycle along the Ebro, admire the Mudéjar details of the cathedrals, and finish the day in the spacious Grande Park, where wide avenues and gardens invite you to relax."
+        "en": "Explore Zaragoza on two wheels. This tour combines the majestic architecture of the city center with the green lung in the south. Cycle along the Ebro, admire the Mudéjar details of the cathedrals, and finish the day in the spacious Grande Park, where wide avenues and gardens invite you to relax.",
+        "es": "Explora Zaragoza sobre dos ruedas. Este recorrido combina la majestuosa arquitectura del centro con el pulmón verde del sur. Pedalea junto al Ebro, admira los detalles mudéjares de las catedrales y termina el día en el amplio Parque Grande, donde anchas avenidas y jardines invitan a relajarse."
       },
       "gastro_picks": {
         "de": [
@@ -583,6 +618,11 @@
           "Use the Bizi public bike-sharing system.",
           "The bike paths along the river are excellent.",
           "Be careful with strong winds, cycling can become quite a workout."
+        ],
+        "es": [
+          "Usa el sistema público de bicicletas Bizi.",
+          "Los carriles bici a lo largo del río son excelentes.",
+          "Ten cuidado con los vientos fuertes; pedalear puede convertirse en un buen ejercicio."
         ]
       }
     },
@@ -599,7 +639,8 @@
             "de": "Basílica del Pilar (Parkcluster)",
             "hu": "Pilar-bazilika (parkoló)",
             "ro": "Bazilica del Pilar (parcare)",
-            "en": "Basilica del Pilar (Parking)"
+            "en": "Basilica del Pilar (Parking)",
+            "es": "Basílica del Pilar (Aparcamiento)"
           },
           "coords": [
             -0.8785,
@@ -614,7 +655,8 @@
             "de": "Nutzen Sie das unterirdische Parkhaus an der Plaza del Pilar.",
             "hu": "Használja a Plaza del Pilar alatti mélygarázst.",
             "ro": "Folosiți parcarea subterană din Plaza del Pilar.",
-            "en": "Use the underground parking at Plaza del Pilar."
+            "en": "Use the underground parking at Plaza del Pilar.",
+            "es": "Utiliza el parking subterráneo de la Plaza del Pilar."
           }
         },
         {
@@ -622,7 +664,8 @@
             "de": "La Seo Kathedrale",
             "hu": "La Seo székesegyház",
             "ro": "Catedrala La Seo",
-            "en": "La Seo Cathedral"
+            "en": "La Seo Cathedral",
+            "es": "Catedral de La Seo"
           },
           "coords": [
             -0.8755,
@@ -637,7 +680,8 @@
             "de": "Kurzer Spaziergang vom Parkhaus.",
             "hu": "Rövid séta a parkolótól.",
             "ro": "Scurtă plimbare de la parcare.",
-            "en": "Short walk from the parking lot."
+            "en": "Short walk from the parking lot.",
+            "es": "A poca distancia a pie desde el aparcamiento."
           }
         },
         {
@@ -645,7 +689,8 @@
             "de": "Puente de Piedra",
             "hu": "Kőhíd",
             "ro": "Podul de Piatră",
-            "en": "Stone Bridge"
+            "en": "Stone Bridge",
+            "es": "Puente de Piedra"
           },
           "coords": [
             -0.8765,
@@ -660,7 +705,8 @@
             "de": "Nur zu Fuß vom Pilar-Cluster erreichbar.",
             "hu": "Gyalogosan érhető el a Pilar-csoporttól.",
             "ro": "Accesibil doar pe jos din clusterul Pilar.",
-            "en": "Accessible only on foot from the Pilar cluster."
+            "en": "Accessible only on foot from the Pilar cluster.",
+            "es": "Accesible solo a pie desde el conjunto del Pilar."
           }
         },
         {
@@ -668,7 +714,8 @@
             "de": "Aljafería-Palast",
             "hu": "Aljafería-palota",
             "ro": "Palatul Aljafería",
-            "en": "Aljafería Palace"
+            "en": "Aljafería Palace",
+            "es": "Palacio de la Aljafería"
           },
           "coords": [
             -0.8972,
@@ -683,7 +730,8 @@
             "de": "Es gibt begrenzte kostenlose Parkplätze in der Nähe.",
             "hu": "A közelben korlátozott számban ingyenes parkolóhelyek is vannak.",
             "ro": "Există locuri de parcare gratuite limitate în apropiere.",
-            "en": "Limited free parking spots are available nearby."
+            "en": "Limited free parking spots are available nearby.",
+            "es": "Hay plazas de aparcamiento gratuitas limitadas cerca."
           }
         },
         {
@@ -691,7 +739,8 @@
             "de": "Parque Grande José Antonio Labordeta",
             "hu": "José Antonio Labordeta nagy park",
             "ro": "Parcul Mare José Antonio Labordeta",
-            "en": "Grande José Antonio Labordeta Park"
+            "en": "Grande José Antonio Labordeta Park",
+            "es": "Parque Grande José Antonio Labordeta"
           },
           "coords": [
             -0.8935,
@@ -706,7 +755,8 @@
             "de": "Großer Parkplatz am Eingang zur Avenida de los Bearneses.",
             "hu": "Nagy parkoló az Avenida de los Bearneses bejáratnál.",
             "ro": "Parcare mare la intrarea dinspre Avenida de los Bearneses.",
-            "en": "Large parking area at the Avenida de los Bearneses entrance."
+            "en": "Large parking area at the Avenida de los Bearneses entrance.",
+            "es": "Amplio aparcamiento en la entrada de la Avenida de los Bearneses."
           }
         }
       ],
@@ -714,7 +764,8 @@
         "de": "Diese Autotour nutzt das Cluster-Prinzip: Parken Sie im Zentrum für die Kathedralen und fahren Sie dann bequem zum Aljafería-Palast und zum weitläufigen Parque Grande. So sparen Sie Zeit und Energie für die Besichtigungen selbst.",
         "hu": "Ez az autós túra a klaszter-elvet követi: parkoljon le a központban a katedrálisok megtekintéséhez, majd hajtson kényelmesen az Aljafería-palotához és a hatalmas Nagy Parkhoz. Így időt és energiát spórol a látnivalókra.",
         "ro": "Acest tur cu mașina folosește principiul clusterelor: parcați în centru pentru catedrale și apoi conduceți confortabil spre Palatul Aljafería și Parcul Mare. Astfel economisiți timp și energie pentru vizitele propriu-zise.",
-        "en": "This car tour follows the cluster principle: park in the center for the cathedrals, then drive comfortably to the Aljafería Palace and the vast Grande Park. This saves time and energy for the sights themselves."
+        "en": "This car tour follows the cluster principle: park in the center for the cathedrals, then drive comfortably to the Aljafería Palace and the vast Grande Park. This saves time and energy for the sights themselves.",
+        "es": "Este recorrido en coche sigue el principio de clúster: aparca en el centro para las catedrales y luego conduce cómodamente hasta la Aljafería y el amplio Parque Grande. Así se ahorra tiempo y energía para las visitas."
       },
       "gastro_picks": {
         "de": [
@@ -818,6 +869,11 @@
           "Avoid rush hour in the city center.",
           "Blue zones (Zona Azul) require payment for parking.",
           "Parking garages in the center can be tight, maneuver carefully."
+        ],
+        "es": [
+          "Evita la hora punta en el centro de la ciudad.",
+          "Las zonas azules requieren pago para estacionar.",
+          "Los parkings subterráneos del centro pueden ser estrechos; maniobra con cuidado."
         ]
       }
     },
@@ -834,7 +890,8 @@
             "de": "Plaza del Pilar",
             "hu": "Pilar tér",
             "ro": "Plaza del Pilar",
-            "en": "Pilar Square"
+            "en": "Pilar Square",
+            "es": "Plaza del Pilar"
           },
           "coords": [
             -0.8785,
@@ -849,7 +906,8 @@
             "de": "Straßenbahnhaltestelle 'Plaza de España' ist 5 Min. zu Fuß entfernt.",
             "hu": "A 'Plaza de España' villamosmegálló 5 perc séta.",
             "ro": "Stația de tramvai 'Plaza de España' este la 5 min distanță.",
-            "en": "The 'Plaza de España' tram stop is a 5-minute walk away."
+            "en": "The 'Plaza de España' tram stop is a 5-minute walk away.",
+            "es": "La parada de tranvía 'Plaza de España' está a 5 minutos a pie."
           }
         },
         {
@@ -857,7 +915,8 @@
             "de": "La Seo Kathedrale",
             "hu": "La Seo székesegyház",
             "ro": "Catedrala La Seo",
-            "en": "La Seo Cathedral"
+            "en": "La Seo Cathedral",
+            "es": "Catedral de La Seo"
           },
           "coords": [
             -0.8755,
@@ -872,7 +931,8 @@
             "de": "Gleicher Transit-Cluster wie Pilar.",
             "hu": "Ugyanaz a tömegközlekedési csomópont, mint a Pilarnál.",
             "ro": "Același cluster de transport ca și Pilar.",
-            "en": "Same transit cluster as the Pilar."
+            "en": "Same transit cluster as the Pilar.",
+            "es": "Mismo clúster de transporte que el Pilar."
           }
         },
         {
@@ -880,7 +940,8 @@
             "de": "Aljafería-Palast",
             "hu": "Aljafería-palota",
             "ro": "Palatul Aljafería",
-            "en": "Aljafería Palace"
+            "en": "Aljafería Palace",
+            "es": "Palacio de la Aljafería"
           },
           "coords": [
             -0.8972,
@@ -895,7 +956,8 @@
             "de": "Buslinien 32, 33 oder 52 halten direkt vor dem Palast.",
             "hu": "A 32, 33 vagy 52-es buszok közvetlenül a palotánál állnak meg.",
             "ro": "Liniile de autobuz 32, 33 sau 52 opresc chiar lângă palat.",
-            "en": "Bus lines 32, 33, or 52 stop right by the palace."
+            "en": "Bus lines 32, 33, or 52 stop right by the palace.",
+            "es": "Las líneas de autobús 32, 33 y 52 paran junto al palacio."
           }
         },
         {
@@ -903,7 +965,8 @@
             "de": "Parque Grande José Antonio Labordeta",
             "hu": "José Antonio Labordeta nagy park",
             "ro": "Parcul Mare José Antonio Labordeta",
-            "en": "Grande José Antonio Labordeta Park"
+            "en": "Grande José Antonio Labordeta Park",
+            "es": "Parque Grande José Antonio Labordeta"
           },
           "coords": [
             -0.8935,
@@ -918,7 +981,8 @@
             "de": "Nehmen Sie die Straßenbahn Linie 1 bis zur Haltestelle 'Emperador Carlos V'.",
             "hu": "Vegyék az 1-es villamost az 'Emperador Carlos V' megállóig.",
             "ro": "Luați tramvaiul linia 1 până la stația 'Emperador Carlos V'.",
-            "en": "Take tram line 1 to the 'Emperador Carlos V' stop."
+            "en": "Take tram line 1 to the 'Emperador Carlos V' stop.",
+            "es": "Toma la línea 1 de tranvía hasta la parada 'Emperador Carlos V'."
           }
         }
       ],
@@ -926,7 +990,8 @@
         "de": "Nutzen Sie das effiziente Straßenbahn- und Busnetz von Saragossa. Die Tour verbindet die wichtigsten historischen Viertel mit modernen Transportmitteln, sodass Sie stressfrei zwischen dem Zentrum, dem maurischen Palast und dem südlichen Park pendeln können.",
         "hu": "Használja ki Zaragoza hatékony villamos- és buszhálózatát. A túra összeköti a legfontosabb történelmi negyedeket modern közlekedési eszközökkel, így stresszmentesen ingázhat a központ, a mór palota és a déli park között.",
         "ro": "Profitați de rețeaua eficientă de tramvaie și autobuze din Zaragoza. Turul conectează principalele cartiere istorice cu mijloace de transport moderne, permițându-vă să circulați fără stres între centru, palatul maur și parcul din sud.",
-        "en": "Take advantage of Zaragoza's efficient tram and bus network. The tour connects the most important historical districts with modern transport, allowing you to commute stress-free between the center, the Moorish palace, and the southern park."
+        "en": "Take advantage of Zaragoza's efficient tram and bus network. The tour connects the most important historical districts with modern transport, allowing you to commute stress-free between the center, the Moorish palace, and the southern park.",
+        "es": "Aprovecha la eficaz red de tranvía y autobús de Zaragoza. El recorrido conecta los distritos históricos más importantes con transporte moderno, permitiéndote desplazarte sin estrés entre el centro, el palacio musulmán y el parque del sur."
       },
       "gastro_picks": {
         "de": [
@@ -1030,6 +1095,11 @@
           "Buy a rechargeable 'Tarjeta Lazo' for cheaper fares.",
           "The tram (Tranvía) is very reliable and modern.",
           "Google Maps works well for real-time bus information."
+        ],
+        "es": [
+          "Compra una 'Tarjeta Lazo' recargable para tarifas más económicas.",
+          "El tranvía es muy fiable y moderno.",
+          "Google Maps funciona bien para información de autobuses en tiempo real."
         ]
       }
     }

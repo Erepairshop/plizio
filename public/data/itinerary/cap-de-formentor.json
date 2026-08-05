@@ -31,7 +31,8 @@
             "de": "Früh morgens ist die Sicht auf die Klippen am klarsten.",
             "hu": "Kora reggel a legtisztább a kilátás a sziklákra.",
             "ro": "Dimineața devreme vizibilitatea asupra stâncilor este maximă.",
-            "en": "Early morning offers the clearest views of the cliffs."
+            "en": "Early morning offers the clearest views of the cliffs.",
+            "es": "La primera hora de la mañana ofrece las vistas más claras de los acantilados."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Der steile Aufstieg wird mit einem 360-Grad-Panorama belohnt.",
             "hu": "A meredek emelkedőt 360 fokos panoráma jutalmazza.",
             "ro": "Urcarea abruptă este răsplătită cu o panoramă de 360 de grade.",
-            "en": "The steep climb is rewarded with a 360-degree panorama."
+            "en": "The steep climb is rewarded with a 360-degree panorama.",
+            "es": "La empinada subida se recompensa con un panorama de 360 grados."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Schattenplätze unter den Pinien suchen.",
             "hu": "Keressünk árnyékos helyet a fenyők alatt.",
             "ro": "Căutați locuri umbrite sub pini.",
-            "en": "Look for shaded spots under the pine trees."
+            "en": "Look for shaded spots under the pine trees.",
+            "es": "Busca zonas sombreadas bajo los pinos."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Legendäres Hotel, in dem schon Winston Churchill residierte.",
             "hu": "Legendás hotel, ahol Winston Churchill is megszállt.",
             "ro": "Hotel legendar unde a locuit Winston Churchill.",
-            "en": "Legendary hotel where Winston Churchill once stayed."
+            "en": "Legendary hotel where Winston Churchill once stayed.",
+            "es": "Hotel legendario donde Winston Churchill se alojó una vez."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Ein kurzer Waldweg führt zu dieser versteckten Bucht.",
             "hu": "Rövid erdei út vezet ehhez a rejtett öbölhöz.",
             "ro": "O scurtă potecă prin pădure duce la acest golf ascuns.",
-            "en": "A short forest path leads to this hidden cove."
+            "en": "A short forest path leads to this hidden cove.",
+            "es": "Un corto sendero forestal conduce a esta cala escondida."
           }
         }
       ],
@@ -111,7 +116,8 @@
         "de": "Der Tag beginnt am spektakulären Mirador Es Colomer mit Blick auf die Steilküste. Ein Aufstieg zur Talaia d'Albercutx bietet weite Ausblicke über die Halbinsel. Mittags entspannen Sie am kristallklaren Wasser der Platja de Formentor. Danach bewundern Sie das historische Hotel El Pi de la Posada. Der Tag endet ruhig in der abgelegenen Bucht Cala Murta.",
         "hu": "A nap a látványos Mirador Es Colomer kilátónál kezdődik. A Talaia d'Albercutx toronyhoz vezető túra pazar kilátást nyújt az egész félszigetre. Délben a Platja de Formentor kristálytiszta vizében pihenhetünk meg. Később megcsodáljuk a történelmi El Pi de la Posada szállodát, majd a napot a távoli Cala Murta öböl nyugalmában zárjuk.",
         "ro": "Ziua începe la spectaculosul Mirador Es Colomer, cu vedere la coasta abruptă. O urcare la Talaia d'Albercutx oferă priveliști vaste peste peninsulă. La prânz vă relaxați în apa de cristal a Platja de Formentor. Apoi admirați istoricul hotel El Pi de la Posada. Ziua se încheie liniștit în golful izolat Cala Murta.",
-        "en": "The day starts at the spectacular Mirador Es Colomer with views of the steep coast. A climb to Talaia d'Albercutx offers vast views over the peninsula. At noon, relax in the crystal-clear water of Platja de Formentor. Later, admire the historic El Pi de la Posada hotel. The day ends quietly in the secluded Cala Murta bay."
+        "en": "The day starts at the spectacular Mirador Es Colomer with views of the steep coast. A climb to Talaia d'Albercutx offers vast views over the peninsula. At noon, relax in the crystal-clear water of Platja de Formentor. Later, admire the historic El Pi de la Posada hotel. The day ends quietly in the secluded Cala Murta bay.",
+        "es": "El día comienza en el espectacular Mirador Es Colomer con vistas de la costa escarpada. Una subida a la Talaia d'Albercutx ofrece amplias vistas sobre la península. Al mediodía, relájate en el agua cristalina de la Platja de Formentor. Más tarde, admira el histórico hotel El Pi de la Posada. El día termina tranquilamente en la apartada bahía de Cala Murta."
       },
       "gastro_picks": {
         "de": [
@@ -255,6 +261,12 @@
           "Carry plenty of water as there is little shade.",
           "Parking at the Mirador fills up very quickly.",
           "Watch out for the wild mountain goats."
+        ],
+        "es": [
+          "Lleva calzado resistente para la subida a la Talaia.",
+          "Lleva abundante agua, hay poca sombra.",
+          "El aparcamiento en el Mirador se llena muy rápido.",
+          "Ten cuidado con las cabras montesas salvajes."
         ]
       },
       "variants": {
@@ -263,7 +275,8 @@
             "de": "Der Tag beginnt am spektakulären Mirador Es Colomer mit Blick auf die Steilküste. Ein Aufstieg zur Talaia d'Albercutx bietet weite Ausblicke über die Halbinsel. Mittags entspannen Sie am kristallklaren Wasser der Platja de Formentor. Danach bewundern Sie das historische Hotel El Pi de la Posada. Der Tag endet ruhig in der abgelegenen Bucht Cala Murta.",
             "hu": "A nap a látványos Mirador Es Colomer kilátónál kezdődik. A Talaia d'Albercutx toronyhoz vezető túra pazar kilátást nyújt az egész félszigetre. Délben a Platja de Formentor kristálytiszta vizében pihenhetünk meg. Később megcsodáljuk a történelmi El Pi de la Posada szállodát, majd a napot a távoli Cala Murta öböl nyugalmában zárjuk.",
             "ro": "Ziua începe la spectaculosul Mirador Es Colomer, cu vedere la coasta abruptă. O urcare la Talaia d'Albercutx oferă priveliști vaste peste peninsulă. La prânz vă relaxați în apa de cristal a Platja de Formentor. Apoi admirați istoricul hotel El Pi de la Posada. Ziua se încheie liniștit în golful izolat Cala Murta.",
-            "en": "The day starts at the spectacular Mirador Es Colomer with views of the steep coast. A climb to Talaia d'Albercutx offers vast views over the peninsula. At noon, relax in the crystal-clear water of Platja de Formentor. Later, admire the historic El Pi de la Posada hotel. The day ends quietly in the secluded Cala Murta bay."
+            "en": "The day starts at the spectacular Mirador Es Colomer with views of the steep coast. A climb to Talaia d'Albercutx offers vast views over the peninsula. At noon, relax in the crystal-clear water of Platja de Formentor. Later, admire the historic El Pi de la Posada hotel. The day ends quietly in the secluded Cala Murta bay.",
+            "es": "El día comienza en el espectacular Mirador Es Colomer con vistas de la costa escarpada. Una subida a la Talaia d'Albercutx ofrece amplias vistas sobre la península. Al mediodía, relájate en el agua cristalina de la Platja de Formentor. Más tarde, admira el histórico hotel El Pi de la Posada. El día termina tranquilamente en la apartada bahía de Cala Murta."
           },
           "stops": [
             {
@@ -272,7 +285,8 @@
                 "de": "Früh morgens ist die Sicht auf die Klippen am klarsten.",
                 "hu": "Kora reggel a legtisztább a kilátás a sziklákra.",
                 "ro": "Dimineața devreme vizibilitatea asupra stâncilor este maximă.",
-                "en": "Early morning offers the clearest views of the cliffs."
+                "en": "Early morning offers the clearest views of the cliffs.",
+                "es": "La primera hora de la mañana ofrece las vistas más claras de los acantilados."
               }
             },
             {
@@ -281,7 +295,8 @@
                 "de": "Der steile Aufstieg wird mit einem 360-Grad-Panorama belohnt.",
                 "hu": "A meredek emelkedőt 360 fokos panoráma jutalmazza.",
                 "ro": "Urcarea abruptă este răsplătită cu o panoramă de 360 de grade.",
-                "en": "The steep climb is rewarded with a 360-degree panorama."
+                "en": "The steep climb is rewarded with a 360-degree panorama.",
+                "es": "La empinada subida se recompensa con un panorama de 360 grados."
               }
             },
             {
@@ -290,7 +305,8 @@
                 "de": "Schattenplätze unter den Pinien suchen.",
                 "hu": "Keressünk árnyékos helyet a fenyők alatt.",
                 "ro": "Căutați locuri umbrite sub pini.",
-                "en": "Look for shaded spots under the pine trees."
+                "en": "Look for shaded spots under the pine trees.",
+                "es": "Busca zonas sombreadas bajo los pinos."
               }
             },
             {
@@ -299,7 +315,8 @@
                 "de": "Legendäres Hotel, in dem schon Winston Churchill residierte.",
                 "hu": "Legendás hotel, ahol Winston Churchill is megszállt.",
                 "ro": "Hotel legendar unde a locuit Winston Churchill.",
-                "en": "Legendary hotel where Winston Churchill once stayed."
+                "en": "Legendary hotel where Winston Churchill once stayed.",
+                "es": "Hotel legendario donde Winston Churchill se alojó una vez."
               }
             },
             {
@@ -308,7 +325,8 @@
                 "de": "Ein kurzer Waldweg führt zu dieser versteckten Bucht.",
                 "hu": "Rövid erdei út vezet ehhez a rejtett öbölhöz.",
                 "ro": "O scurtă potecă prin pădure duce la acest golf ascuns.",
-                "en": "A short forest path leads to this hidden cove."
+                "en": "A short forest path leads to this hidden cove.",
+                "es": "Un corto sendero forestal conduce a esta cala escondida."
               }
             }
           ],
@@ -454,6 +472,12 @@
               "Carry plenty of water as there is little shade.",
               "Parking at the Mirador fills up very quickly.",
               "Watch out for the wild mountain goats."
+            ],
+            "es": [
+              "Lleva calzado resistente para la subida a la Talaia.",
+              "Lleva abundante agua, hay poca sombra.",
+              "El aparcamiento en el Mirador se llena muy rápido.",
+              "Ten cuidado con las cabras montesas salvajes."
             ]
           }
         },
@@ -462,7 +486,8 @@
             "de": "Der Morgen am Mirador beginnt in dichten Nebelschwaden, die dramatisch über die Klippen ziehen. Mittags bietet der dichte Pinienwald am Formentor-Strand natürlichen Schutz vor dem prasselnden Regen. Nachmittags wirkt der Pfad zur Cala Murta wild und ursprünglich, während die Gischt der Wellen hochspritzt. Abends hüllt der graue Himmel die gesamte Halbinsel in eine mystische Stille.",
             "hu": "A reggel ködfátyolba burkolózik a kilátónál, az esőfelhők alacsonyan szállnak a sziklák felett. Délben a strand óriási fenyőfái nyújtanak természetes ernyőt a zuhé elől. Délután a Cala Murta felé vezető ösvény vadregényessé válik a sár és a morajló tenger mellett. Estére a félsziget elcsendesedik, a vizes aszfalton megcsillan a világítótorony távoli fénye.",
             "ro": "Dimineața la Mirador începe sub un cer plumburiu, cu nori ce mângâie crestele abrupte. La prânz, pinii de pe plaja Formentor oferă un adăpost natural excelent împotriva ploii trecătoare. După-amiaza, drumeția spre Cala Murta devine o aventură sălbatică printre stâncile ude. Seara se așterne peste peninsulă într-o liniște melancolică, întreruptă doar de sunetul picăturilor pe mare.",
-            "en": "The morning starts with mist swirling around the Mirador cliffs as rain clouds roll in. At noon, the ancient pines at Formentor beach serve as a perfect natural umbrella during the downpour. The afternoon hike to Cala Murta feels raw and dramatic with the grey sea crashing nearby. By evening, the entire peninsula is draped in a moody, atmospheric silence under the rain."
+            "en": "The morning starts with mist swirling around the Mirador cliffs as rain clouds roll in. At noon, the ancient pines at Formentor beach serve as a perfect natural umbrella during the downpour. The afternoon hike to Cala Murta feels raw and dramatic with the grey sea crashing nearby. By evening, the entire peninsula is draped in a moody, atmospheric silence under the rain.",
+            "es": "La mañana comienza con niebla arremolinándose alrededor de los acantilados del Mirador mientras avanzan nubes de lluvia. Al mediodía, los pinos milenarios de la playa de Formentor sirven como perfecto paraguas natural durante el aguacero. La caminata vespertina a Cala Murta se siente cruda y dramática con el mar gris chocando cerca. Al anochecer, toda la península queda envuelta en un silencio atmosférico y melancólico bajo la lluvia."
           },
           "stops": [
             {
@@ -471,7 +496,8 @@
                 "de": "Vorsicht vor Windböen; das Geländer bietet Halt, aber der Boden ist rutschig.",
                 "hu": "Vigyázz a széllökésekkel; a korlát stabil, de a kövezet csúszós lehet.",
                 "ro": "Atenție la rafalele de vânt; balustrada este sigură, dar pavajul devine alunecos.",
-                "en": "Watch out for wind gusts; the railings are sturdy but the stone floor gets slick."
+                "en": "Watch out for wind gusts; the railings are sturdy but the stone floor gets slick.",
+                "es": "Cuidado con las ráfagas de viento; las barandillas son robustas pero el suelo de piedra se vuelve resbaladizo."
               }
             },
             {
@@ -480,7 +506,8 @@
                 "de": "Der Aufstieg ist steinig; festes, wasserdichtes Schuhwerk ist bei Nässe unerlässlich.",
                 "hu": "A felvezető út köves; esőben a vízálló, tapadós talpú bakancs kötelező.",
                 "ro": "Urcarea este pietroasă; încălțămintea impermeabilă este esențială pe timp de ploaie.",
-                "en": "The climb is rocky; waterproof boots with good grip are essential in the wet."
+                "en": "The climb is rocky; waterproof boots with good grip are essential in the wet.",
+                "es": "La subida es rocosa; las botas impermeables con buen agarre son esenciales en mojado."
               }
             },
             {
@@ -489,7 +516,8 @@
                 "de": "Suchen Sie Schutz unter den dichten Bäumen oder im Café nahe dem Hotel.",
                 "hu": "Keress menedéket a sűrű fenyők alatt vagy a hotel közeli kávézóban.",
                 "ro": "Adăpostiți-vă sub pinii deși sau la cafeneaua din apropierea hotelului.",
-                "en": "Seek shelter under the thick pines or at the cafe near the hotel area."
+                "en": "Seek shelter under the thick pines or at the cafe near the hotel area.",
+                "es": "Busca refugio bajo los pinos densos o en la cafetería cercana a la zona del hotel."
               }
             },
             {
@@ -498,7 +526,8 @@
                 "de": "Ein historischer Ort, der auch bei Regen seinen mediterranen Charme bewahrt.",
                 "hu": "Történelmi helyszín, amely esőben is megőrzi mediterrán eleganciáját.",
                 "ro": "Locație istorică ce își păstrează farmecul mediteranean chiar și pe ploaie.",
-                "en": "A historic spot that keeps its Mediterranean elegance even under grey skies."
+                "en": "A historic spot that keeps its Mediterranean elegance even under grey skies.",
+                "es": "Un lugar histórico que mantiene su elegancia mediterránea incluso bajo cielos grises."
               }
             },
             {
@@ -507,7 +536,8 @@
                 "de": "Der Pfad kann schlammig sein; meiden Sie die Felsvorsprünge direkt am Wasser.",
                 "hu": "Az ösvény sáros lehet; kerüld a közvetlenül a vízparti, csúszós sziklákat.",
                 "ro": "Poteca poate fi noroioasă; evitați stâncile de la marginea apei.",
-                "en": "The path can get muddy; stay away from the slippery rock edges by the sea."
+                "en": "The path can get muddy; stay away from the slippery rock edges by the sea.",
+                "es": "El sendero puede embarrarse; aléjate de los bordes rocosos resbaladizos junto al mar."
               }
             }
           ],
@@ -539,6 +569,13 @@
               "Use the dense pine forests as natural umbrellas during heavy showers.",
               "Keep your electronics in waterproof dry bags inside your backpack.",
               "The diffused light under rain clouds creates incredibly dramatic photo ops."
+            ],
+            "es": [
+              "Lleva un chubasquero de alta calidad, pues los vientos de la península pueden ser bastante fuertes.",
+              "Los caminos de piedra se vuelven extremadamente resbaladizos cuando están mojados; vigila bien tus pasos.",
+              "Usa los bosques densos de pinos como paraguas natural durante fuertes chaparrones.",
+              "Mantén tus electrónicos en bolsas secas impermeables dentro de la mochila.",
+              "La luz difusa bajo nubes de lluvia crea oportunidades fotográficas increíblemente dramáticas."
             ]
           }
         },
@@ -547,7 +584,8 @@
             "de": "Die klare Winterluft am Morgen lässt die Nachbarinsel Menorca am Horizont erscheinen. Mittags ist die Sonne angenehm mild, ideal für den Aufstieg zur Talaia ohne die Hitze des Sommers. Nachmittags liegt der Strand fast verlassen da, perfekt für eine meditative Ruhepause. Der frühe Sonnenuntergang färbt die Klippen bereits um 17:30 Uhr in tiefes Orange.",
             "hu": "A tiszta téli levegőben reggel még Menorca körvonalai is felsejlenek a láthatáron. Délben a nap kellemesen melegít, pont ideális a túrázáshoz a nyári hőség nélkül. Délután a néptelen tengerparton csak a hullámok zaja hallatszik, tökéletes a nyugodt pihenéshez. A korai naplemente már fél hatkor lángba borítja a függőleges sziklafalakat.",
             "ro": "Aerul curat de iarnă permite observarea insulei Menorca la orizont încă de dimineață. La prânz, soarele blând este ideal pentru urcarea spre Talaia, fără arșița verii. După-amiaza, plaja pustie oferă o liniște profundă și regeneratoare. Apusul devreme colorează stâncile în nuanțe intense de portocaliu încă de la ora 17:30.",
-            "en": "The crisp winter morning air reveals the distant silhouette of Menorca on the horizon. At noon, the mild sun is perfect for the climb to the tower without the summer heat. In the afternoon, the deserted beach offers a meditative space for a quiet break. The early sunset begins to paint the cliffs in deep orange hues as early as 17:30."
+            "en": "The crisp winter morning air reveals the distant silhouette of Menorca on the horizon. At noon, the mild sun is perfect for the climb to the tower without the summer heat. In the afternoon, the deserted beach offers a meditative space for a quiet break. The early sunset begins to paint the cliffs in deep orange hues as early as 17:30.",
+            "es": "El aire frío de la mañana invernal revela la silueta distante de Menorca en el horizonte. Al mediodía, el sol templado es perfecto para subir a la torre sin el calor veraniego. Por la tarde, la playa desierta ofrece un espacio meditativo para un descanso tranquilo. La puesta de sol temprana comienza a pintar los acantilados de tonos naranja intenso ya alrededor de las 17:30."
           },
           "stops": [
             {
@@ -556,7 +594,8 @@
                 "de": "Bringen Sie eine Windjacke mit; der Nordwind kann hier im Winter sehr kühl sein.",
                 "hu": "Vigyél szélkabátot; az északi szél télen nagyon metsző tud lenni a sziklán.",
                 "ro": "Aduceți o jachetă de vânt; vântul de nord poate fi foarte tăios iarna.",
-                "en": "Bring a windbreaker; the north wind can be very chilly here in winter."
+                "en": "Bring a windbreaker; the north wind can be very chilly here in winter.",
+                "es": "Lleva cortavientos; el viento del norte puede ser muy frío aquí en invierno."
               }
             },
             {
@@ -565,7 +604,8 @@
                 "de": "Beste Sichtweite des Jahres; oft kann man die gesamte Nordküste Mallorcas sehen.",
                 "hu": "Az év legjobb látási viszonyai; gyakran az egész északi part belátható innen.",
                 "ro": "Cea mai bună vizibilitate din an; adesea se vede întreaga coastă de nord.",
-                "en": "Best visibility of the year; you can often see the entire north coast of Mallorca."
+                "en": "Best visibility of the year; you can often see the entire north coast of Mallorca.",
+                "es": "Mejor visibilidad del año; a menudo se puede ver toda la costa norte de Mallorca."
               }
             },
             {
@@ -574,7 +614,8 @@
                 "de": "Perfekt für ein Picknick, da es kaum Touristen gibt. Das Wasser ist aber kalt.",
                 "hu": "Tökéletes hely egy piknikhez, mert nincs tömeg. A víz viszont jéghideg.",
                 "ro": "Ideal pentru un picnic, fiind foarte puțină lume. Apa este însă rece.",
-                "en": "Perfect for a picnic as there are no crowds. The water is freezing, though."
+                "en": "Perfect for a picnic as there are no crowds. The water is freezing, though.",
+                "es": "Perfecto para un picnic porque no hay multitudes. El agua, eso sí, está helada."
               }
             },
             {
@@ -583,7 +624,8 @@
                 "de": "Die Gärten strahlen im Winter eine besondere, vornehme Ruhe aus.",
                 "hu": "A kertek télen különleges, előkelő nyugalmat árasztanak.",
                 "ro": "Grădinile emană o liniște nobilă și deosebită în timpul iernii.",
-                "en": "The gardens exude a special, sophisticated calm during the winter months."
+                "en": "The gardens exude a special, sophisticated calm during the winter months.",
+                "es": "Los jardines emanan una calma especial y sofisticada durante los meses de invierno."
               }
             },
             {
@@ -592,7 +634,8 @@
                 "de": "Idealer Ort, um die Wintersonne in einer geschützten Bucht zu genießen.",
                 "hu": "Ideális hely a téli napsütés élvezetére ebben a védett öbölben.",
                 "ro": "Locul ideal pentru a savura soarele de iarnă într-un golf adăpostit.",
-                "en": "Ideal spot to enjoy the winter sun in a well-protected cove."
+                "en": "Ideal spot to enjoy the winter sun in a well-protected cove.",
+                "es": "Lugar ideal para disfrutar del sol invernal en una cala bien protegida."
               }
             }
           ],
@@ -624,6 +667,13 @@
               "Take advantage of the empty paths for photos without tourist crowds.",
               "Bring a warm drink in a thermos for your rest stops.",
               "The clarity of the view is often much better in winter than in hazy summer."
+            ],
+            "es": [
+              "Vístete en capas, ya que refresca mucho en cuanto entras en la sombra.",
+              "La puesta de sol es temprana (alrededor de las 17:30), así que planifica tu regreso en consecuencia.",
+              "Aprovecha los senderos vacíos para hacer fotos sin las multitudes de turistas.",
+              "Lleva una bebida caliente en un termo para tus paradas de descanso.",
+              "La claridad de las vistas suele ser mucho mejor en invierno que en el bochorno veraniego."
             ]
           }
         }
@@ -652,7 +702,8 @@
             "de": "Kurzer Stopp vor dem großen Anstieg.",
             "hu": "Rövid megálló a nagy emelkedő előtt.",
             "ro": "Scurtă oprire înainte de marea urcare.",
-            "en": "Short stop before the big climb."
+            "en": "Short stop before the big climb.",
+            "es": "Parada corta antes de la gran subida."
           }
         },
         {
@@ -670,7 +721,8 @@
             "de": "Vorsicht, im Tunnel ist es dunkel und eng.",
             "hu": "Vigyázat, az alagút sötét és szűk.",
             "ro": "Atenție, tunelul este întunecat și îngust.",
-            "en": "Caution, the tunnel is dark and narrow."
+            "en": "Caution, the tunnel is dark and narrow.",
+            "es": "Precaución, el túnel es oscuro y estrecho."
           }
         },
         {
@@ -688,7 +740,8 @@
             "de": "Steiler Pfad hinunter zur Bucht, Bike oben lassen.",
             "hu": "Meredek ösvény az öbölhöz, hagyjuk fent a bringát.",
             "ro": "Potecă abruptă spre golf, lăsați bicicleta sus.",
-            "en": "Steep path down to the bay, leave your bike at the top."
+            "en": "Steep path down to the bay, leave your bike at the top.",
+            "es": "Camino empinado hacia la bahía; deja la bici en la cima."
           }
         },
         {
@@ -706,7 +759,8 @@
             "de": "Genießen Sie ein Kaltgetränk am Ende der Welt.",
             "hu": "Igyunk egy hűsítőt a világ végén.",
             "ro": "Savurați o băutură rece la capătul lumii.",
-            "en": "Enjoy a cold drink at the end of the world."
+            "en": "Enjoy a cold drink at the end of the world.",
+            "es": "Disfruta de una bebida fría en el fin del mundo."
           }
         },
         {
@@ -724,7 +778,8 @@
             "de": "Verdiente Abkühlung nach der Rückfahrt.",
             "hu": "Megérdemelt hűsölés a visszaút után.",
             "ro": "Răcorire meritată după drumul de întoarcere.",
-            "en": "Well-deserved cooling off after the return trip."
+            "en": "Well-deserved cooling off after the return trip.",
+            "es": "Bien merecido refresco tras el viaje de regreso."
           }
         }
       ],
@@ -732,7 +787,8 @@
         "de": "Eine anspruchsvolle Radtour führt über den Mirador Es Colomer und durch den Tunnel von Formentor bis zum Leuchtturm am Kap. Nach einer Rast an der Spitze und dem Blick über das Meer geht es zurück zur Cala Figuera für eine kurze Pause. Den Abschluss bildet ein entspannter Aufenthalt am Strand von Formentor.",
         "hu": "Kihívásokkal teli kerékpártúra vezet a Mirador Es Colomeren és az alagúton át egészen a fok végén álló világítótoronyig. A csúcson tartott pihenő után a Cala Figuera érintésével tekerünk vissza. A napot a Formentor strandon fejezzük be, ahol kipihenhetjük a tekerés fáradalmait.",
         "ro": "O tură solicitantă cu bicicleta trece prin Mirador Es Colomer și tunelul Formentor până la farul de la capătul peninsulei. După o pauză la vârf cu vedere spre mare, ne întoarcem spre Cala Figuera. Încheiem cu o relaxare binemeritată pe plaja Formentor.",
-        "en": "A challenging bike tour leads via Mirador Es Colomer and through the Formentor tunnel to the lighthouse at the cape. After a rest at the peak with sea views, head back to Cala Figuera for a break. Finish with a relaxed stay at Formentor beach."
+        "en": "A challenging bike tour leads via Mirador Es Colomer and through the Formentor tunnel to the lighthouse at the cape. After a rest at the peak with sea views, head back to Cala Figuera for a break. Finish with a relaxed stay at Formentor beach.",
+        "es": "Una exigente ruta en bici pasa por el Mirador Es Colomer y atraviesa el túnel de Formentor hasta el faro del cabo. Tras descansar en la cumbre con vistas al mar, dirígete a Cala Figuera para un descanso. Termina con una estancia relajada en la playa de Formentor."
       },
       "gastro_picks": {
         "de": [
@@ -840,6 +896,12 @@
           "Bike lights are mandatory for the tunnel.",
           "The route involves significant elevation gain.",
           "Watch out for potholes on side roads."
+        ],
+        "es": [
+          "Comienza antes de las 09:00 para evitar el calor y los autobuses.",
+          "Las luces para la bici son obligatorias para el túnel.",
+          "La ruta implica un importante desnivel acumulado.",
+          "Cuidado con los baches en las vías secundarias."
         ]
       },
       "variants": {
@@ -848,7 +910,8 @@
             "de": "Eine anspruchsvolle Radtour führt über den Mirador Es Colomer und durch den Tunnel von Formentor bis zum Leuchtturm am Kap. Nach einer Rast an der Spitze und dem Blick über das Meer geht es zurück zur Cala Figuera für eine kurze Pause. Den Abschluss bildet ein entspannter Aufenthalt am Strand von Formentor.",
             "hu": "Kihívásokkal teli kerékpártúra vezet a Mirador Es Colomeren és az alagúton át egészen a fok végén álló világítótoronyig. A csúcson tartott pihenő után a Cala Figuera érintésével tekerünk vissza. A napot a Formentor strandon fejezzük be, ahol kipihenhetjük a tekerés fáradalmait.",
             "ro": "O tură solicitantă cu bicicleta trece prin Mirador Es Colomer și tunelul Formentor până la farul de la capătul peninsulei. După o pauză la vârf cu vedere spre mare, ne întoarcem spre Cala Figuera. Încheiem cu o relaxare binemeritată pe plaja Formentor.",
-            "en": "A challenging bike tour leads via Mirador Es Colomer and through the Formentor tunnel to the lighthouse at the cape. After a rest at the peak with sea views, head back to Cala Figuera for a break. Finish with a relaxed stay at Formentor beach."
+            "en": "A challenging bike tour leads via Mirador Es Colomer and through the Formentor tunnel to the lighthouse at the cape. After a rest at the peak with sea views, head back to Cala Figuera for a break. Finish with a relaxed stay at Formentor beach.",
+            "es": "Una exigente ruta en bici pasa por el Mirador Es Colomer y atraviesa el túnel de Formentor hasta el faro del cabo. Tras descansar en la cumbre con vistas al mar, dirígete a Cala Figuera para un descanso. Termina con una estancia relajada en la playa de Formentor."
           },
           "stops": [
             {
@@ -857,7 +920,8 @@
                 "de": "Kurzer Stopp vor dem großen Anstieg.",
                 "hu": "Rövid megálló a nagy emelkedő előtt.",
                 "ro": "Scurtă oprire înainte de marea urcare.",
-                "en": "Short stop before the big climb."
+                "en": "Short stop before the big climb.",
+                "es": "Parada corta antes de la gran subida."
               }
             },
             {
@@ -866,7 +930,8 @@
                 "de": "Vorsicht, im Tunnel ist es dunkel und eng.",
                 "hu": "Vigyázat, az alagút sötét és szűk.",
                 "ro": "Atenție, tunelul este întunecat și îngust.",
-                "en": "Caution, the tunnel is dark and narrow."
+                "en": "Caution, the tunnel is dark and narrow.",
+                "es": "Precaución, el túnel es oscuro y estrecho."
               }
             },
             {
@@ -875,7 +940,8 @@
                 "de": "Steiler Pfad hinunter zur Bucht, Bike oben lassen.",
                 "hu": "Meredek ösvény az öbölhöz, hagyjuk fent a bringát.",
                 "ro": "Potecă abruptă spre golf, lăsați bicicleta sus.",
-                "en": "Steep path down to the bay, leave your bike at the top."
+                "en": "Steep path down to the bay, leave your bike at the top.",
+                "es": "Camino empinado hacia la bahía; deja la bici en la cima."
               }
             },
             {
@@ -884,7 +950,8 @@
                 "de": "Genießen Sie ein Kaltgetränk am Ende der Welt.",
                 "hu": "Igyunk egy hűsítőt a világ végén.",
                 "ro": "Savurați o băutură rece la capătul lumii.",
-                "en": "Enjoy a cold drink at the end of the world."
+                "en": "Enjoy a cold drink at the end of the world.",
+                "es": "Disfruta de una bebida fría en el fin del mundo."
               }
             },
             {
@@ -893,7 +960,8 @@
                 "de": "Verdiente Abkühlung nach der Rückfahrt.",
                 "hu": "Megérdemelt hűsölés a visszaút után.",
                 "ro": "Răcorire meritată după drumul de întoarcere.",
-                "en": "Well-deserved cooling off after the return trip."
+                "en": "Well-deserved cooling off after the return trip.",
+                "es": "Bien merecido refresco tras el viaje de regreso."
               }
             }
           ],
@@ -1003,6 +1071,12 @@
               "Bike lights are mandatory for the tunnel.",
               "The route involves significant elevation gain.",
               "Watch out for potholes on side roads."
+            ],
+            "es": [
+              "Comienza antes de las 09:00 para evitar el calor y los autobuses.",
+              "Las luces para la bici son obligatorias para el túnel.",
+              "La ruta implica un importante desnivel acumulado.",
+              "Cuidado con los baches en las vías secundarias."
             ]
           }
         },
@@ -1011,7 +1085,8 @@
             "de": "Der Anstieg zum Mirador ist bei Nässe eine echte Herausforderung für die Waden. Im Tunnel von Formentor finden Sie einen kurzen, trockenen Moment zum Durchatmen. Der Weg zum Leuchtturm führt durch peitschenden Regen, was die Ankunft am Ziel umso triumphaler macht. Am Nachmittag geht es vorsichtig zurück zum Strand, wo der Regen leise auf das Meer trifft.",
             "hu": "A kapaszkodó a kilátóhoz vizes úton igazi kihívás a vádliknak. A Formentor-alagútban egy rövid, száraz pillanatra megpihenhetsz. A világítótoronyhoz vezető út az esőben küzdelmes, de a megérkezés annál nagyobb diadal. Délután óvatos ereszkedés vár a strandig, ahol az eső halkan kopog a tenger felszínén.",
             "ro": "Urcarea spre Mirador pe carosabil umed este o adevărată provocare pentru picioare. În tunelul Formentor găsești un moment scurt și uscat pentru a-ți trage suflarea. Drumul spre far prin ploaie este intens, făcând sosirea la destinație un triumf. După-amiaza, coborârea spre plajă necesită prudență maximă pe asfaltul ud.",
-            "en": "The climb to the Mirador is a serious calf-burner on wet roads. Inside the Formentor tunnel, you find a brief dry moment to catch your breath. Riding to the lighthouse through the rain feels epic, making the arrival even more rewarding. In the afternoon, descend carefully to the beach, where the rain taps softly on the sea's surface."
+            "en": "The climb to the Mirador is a serious calf-burner on wet roads. Inside the Formentor tunnel, you find a brief dry moment to catch your breath. Riding to the lighthouse through the rain feels epic, making the arrival even more rewarding. In the afternoon, descend carefully to the beach, where the rain taps softly on the sea's surface.",
+            "es": "La subida al Mirador quema mucho las pantorrillas en carreteras mojadas. Dentro del túnel de Formentor encuentras un breve momento seco para recuperar el aliento. Pedalear hacia el faro bajo la lluvia se siente épico, haciendo la llegada aún más gratificante. Por la tarde, desciende con cuidado hasta la playa, donde la lluvia golpea suavemente la superficie del mar."
           },
           "stops": [
             {
@@ -1020,7 +1095,8 @@
                 "de": "Halten Sie den Lenker fest; Seitenwinde sind bei Regen unberechenbar.",
                 "hu": "Fogd erősen a kormányt; az oldalszél esőben kiszámíthatatlan lehet.",
                 "ro": "Țineți bine ghidonul; vânturile laterale sunt imprevizibile pe ploaie.",
-                "en": "Keep a firm grip on the handlebars; side winds are unpredictable in the rain."
+                "en": "Keep a firm grip on the handlebars; side winds are unpredictable in the rain.",
+                "es": "Mantén un agarre firme del manillar; los vientos laterales son impredecibles con lluvia."
               }
             },
             {
@@ -1029,7 +1105,8 @@
                 "de": "Licht an! Der Tunnel ist dunkel und der Boden oft rutschig von Kondenswasser.",
                 "hu": "Lámpát fel! Az alagút sötét, az aszfalt a párától csúszós lehet.",
                 "ro": "Aprindeți luminile! Tunelul este întunecat și asfaltul poate fi umed.",
-                "en": "Lights on! The tunnel is dark and the floor is often slick from condensation."
+                "en": "Lights on! The tunnel is dark and the floor is often slick from condensation.",
+                "es": "¡Luces encendidas! El túnel es oscuro y el suelo suele estar resbaladizo por la condensación."
               }
             },
             {
@@ -1038,7 +1115,8 @@
                 "de": "Der Abstieg zur Bucht ist steil; prüfen Sie Ihre Bremsen vorab gründlich.",
                 "hu": "Az öbölhöz vezető lejtő meredek; indulás előtt ellenőrizd a fékeket.",
                 "ro": "Coborârea spre golf este abruptă; verificați frânele cu atenție înainte.",
-                "en": "The descent to the bay is steep; check your brakes thoroughly before going down."
+                "en": "The descent to the bay is steep; check your brakes thoroughly before going down.",
+                "es": "El descenso a la bahía es empinado; revisa bien los frenos antes de bajar."
               }
             },
             {
@@ -1047,7 +1125,8 @@
                 "de": "Vorsicht auf dem Pflaster am Turm; es wird bei Nässe spiegelglatt.",
                 "hu": "Vigyázz a toronynál a kövezetre; vizesen tükörsima és nagyon csúszik.",
                 "ro": "Atenție pe pavajul de la far; devine extrem de alunecos când este ud.",
-                "en": "Be careful on the pavement at the lighthouse; it gets ice-slick when wet."
+                "en": "Be careful on the pavement at the lighthouse; it gets ice-slick when wet.",
+                "es": "Ten cuidado en el pavimento del faro; se vuelve extremadamente resbaladizo cuando está mojado."
               }
             },
             {
@@ -1056,7 +1135,8 @@
                 "de": "Parken Sie Ihr Rad unter dem Vordach des Kiosks, um es trocken zu halten.",
                 "hu": "Parkold a bringát a kioszk előtetője alá, hogy száraz maradjon.",
                 "ro": "Parcați bicicleta sub streșina chioșcului pentru a o menține uscată.",
-                "en": "Park your bike under the kiosk overhang to keep the saddle dry."
+                "en": "Park your bike under the kiosk overhang to keep the saddle dry.",
+                "es": "Aparca la bici bajo el alero del quiosco para mantener el sillín seco."
               }
             }
           ],
@@ -1088,6 +1168,13 @@
               "Take corners slowly; road markings are extremely slippery when wet.",
               "Fenders/mudguards will save your back from getting soaked by road spray.",
               "Use the tunnel as a strategic rest stop to get out of the downpour briefly."
+            ],
+            "es": [
+              "Lleva ropa llamativa o reflectante, ya que la visibilidad baja considerablemente con lluvia.",
+              "Los frenos de disco son mucho más fiables en condiciones húmedas que los de llanta.",
+              "Toma las curvas despacio; las marcas viales son extremadamente resbaladizas cuando están mojadas.",
+              "Los guardabarros te evitarán que la espalda se empape con el salpicado de la carretera.",
+              "Usa el túnel como parada estratégica para resguardarte brevemente del aguacero."
             ]
           }
         },
@@ -1096,7 +1183,8 @@
             "de": "Das Radfahren am Morgen ist bei kühler, frischer Luft ein Genuss auf den fast leeren Straßen. Mittags wärmt die Sonne den Rücken beim finalen Anstieg zum Leuchtturm. Die Aussicht von der Spitze ist im Winter unschlagbar klar und weit. Am Nachmittag rollen Sie entspannt zur Playa Formentor hinunter und genießen die Ruhe der Nebensaison.",
             "hu": "A reggeli tekerés a hűvös, friss levegőn és az üres utakon igazi élvezet. Délben a nap kellemesen melengeti a hátadat a világítótoronyhoz vezető utolsó emelkedőn. A kilátás a toronytól télen verhetetlenül tiszta és távoli. Délután kényelmesen legurulhatsz a strandra, élvezve az utószezon békéjét.",
             "ro": "Ciclismul de dimineață în aerul proaspăt și pe drumurile goale este o plăcere pură. La prânz, soarele vă încălzește spatele în timpul ultimei urcări spre far. Vederea de sus este incredibil de clară și vastă în timpul iernii. După-amiaza, coborâți relaxat spre Playa Formentor, savurând liniștea sezonului rece.",
-            "en": "Riding in the crisp morning air on near-empty roads is a pure delight for cyclists. At noon, the sun warms your back during the final push to the lighthouse. The view from the tip is unbeatably clear and far-reaching in winter. In the afternoon, enjoy a relaxed coast down to Playa Formentor in the off-season quiet."
+            "en": "Riding in the crisp morning air on near-empty roads is a pure delight for cyclists. At noon, the sun warms your back during the final push to the lighthouse. The view from the tip is unbeatably clear and far-reaching in winter. In the afternoon, enjoy a relaxed coast down to Playa Formentor in the off-season quiet.",
+            "es": "Pedalear por la mañana con el aire fresco y las carreteras casi vacías es un placer. Al mediodía, el sol calienta la espalda en el tramo final hasta el faro. La vista desde la punta es extraordinariamente clara y extensa en invierno. Por la tarde, disfruta de un descenso relajado hasta la Playa de Formentor en la calma de la temporada baja."
           },
           "stops": [
             {
@@ -1105,7 +1193,8 @@
                 "de": "Bringen Sie Handschuhe mit; die Abfahrten im Schatten können sehr kalt sein.",
                 "hu": "Vigyél kesztyűt; az árnyékos szakaszokon az ereszkedés fagyos lehet.",
                 "ro": "Purtați mănuși; coborârile la umbră pot fi foarte reci în timpul iernii.",
-                "en": "Bring gloves; the descents in shaded areas can feel freezing in winter."
+                "en": "Bring gloves; the descents in shaded areas can feel freezing in winter.",
+                "es": "Lleva guantes; las bajadas en zonas sombreadas pueden sentirse heladas en invierno."
               }
             },
             {
@@ -1114,7 +1203,8 @@
                 "de": "Vorsicht vor dem Temperatursturz im Inneren des Tunnels.",
                 "hu": "Vigyázz a hirtelen hőmérséklet-esésre az alagút belsejében.",
                 "ro": "Atenție la scăderea bruscă de temperatură din interiorul tunelului.",
-                "en": "Watch out for the sudden temperature drop inside the tunnel."
+                "en": "Watch out for the sudden temperature drop inside the tunnel.",
+                "es": "Ten cuidado con la bajada repentina de temperatura dentro del túnel."
               }
             },
             {
@@ -1123,7 +1213,8 @@
                 "de": "Ideal für ein schnelles Foto; die tiefstehende Sonne sorgt für tolle Schatten.",
                 "hu": "Ideális egy gyors fotóra; az alacsony napállás remek árnyékokat vet.",
                 "ro": "Ideal pentru o fotografie rapidă; soarele jos creează umbre superbe.",
-                "en": "Ideal for a quick photo; the low sun creates great dramatic shadows."
+                "en": "Ideal for a quick photo; the low sun creates great dramatic shadows.",
+                "es": "Ideal para una foto rápida; el sol bajo crea sombras dramáticas."
               }
             },
             {
@@ -1132,7 +1223,8 @@
                 "de": "Genießen Sie den Kaffee im Bistro – ein seltener Luxus ohne Menschenmassen.",
                 "hu": "Igyál egy kávét a bisztróban – ritka luxus tömeg nélkül.",
                 "ro": "Savurați o cafea la bistro – un lux rar fără mulțimile de turiști.",
-                "en": "Enjoy a coffee at the bistro – a rare luxury without the usual crowds."
+                "en": "Enjoy a coffee at the bistro – a rare luxury without the usual crowds.",
+                "es": "Disfruta de un café en el bistró: un lujo raro sin las multitudes habituales."
               }
             },
             {
@@ -1141,7 +1233,8 @@
                 "de": "Die Cafeteria hat oft eingeschränkte Öffnungszeiten; Verpflegung mitnehmen.",
                 "hu": "A büfé nyitvatartása bizonytalan télen; vigyél magaddal ennivalót.",
                 "ro": "Cafeneaua are program redus iarna; aduceți provizii proprii.",
-                "en": "The cafeteria often has limited winter hours; bring your own snacks."
+                "en": "The cafeteria often has limited winter hours; bring your own snacks.",
+                "es": "La cafetería suele tener horarios reducidos en invierno; lleva tus propios snacks."
               }
             }
           ],
@@ -1173,6 +1266,13 @@
               "Carry lights, as it gets dark much earlier behind the mountain ridges.",
               "The road is open to cars in winter – watch out for oncoming traffic.",
               "The climbs will keep you warm, but put on a gilet/vest for the descents."
+            ],
+            "es": [
+              "Un braga de cuello es imprescindible contra el viento frío en las bajadas rápidas.",
+              "Revisa la presión de los neumáticos; el aire frío puede hacer que baje ligeramente.",
+              "Lleva luces, ya que anochece mucho antes detrás de las crestas montañosas.",
+              "La carretera está abierta a coches en invierno: vigila el tráfico en sentido contrario.",
+              "Las subidas te mantendrán caliente, pero ponte un chaleco para las bajadas."
             ]
           }
         }
@@ -1201,7 +1301,8 @@
             "de": "Perfekter Fotostopp am Vormittag.",
             "hu": "Tökéletes fotómegálló délelőtt.",
             "ro": "Oprire perfectă pentru fotografii dimineața.",
-            "en": "Perfect photo stop in the morning."
+            "en": "Perfect photo stop in the morning.",
+            "es": "Parada perfecta para fotos por la mañana."
           }
         },
         {
@@ -1219,7 +1320,8 @@
             "de": "Das Wahrzeichen Mallorcas am Ende der Straße.",
             "hu": "Mallorca jelképe az út legvégén.",
             "ro": "Simbolul insulei Mallorca la capătul drumului.",
-            "en": "Mallorca's landmark at the very end of the road."
+            "en": "Mallorca's landmark at the very end of the road.",
+            "es": "El hito de Mallorca al final de la carretera."
           }
         },
         {
@@ -1237,7 +1339,8 @@
             "de": "Türkisfarbenes Wasser in einer felsigen Bucht.",
             "hu": "Türkizkék víz egy sziklás öbölben.",
             "ro": "Apă turcoaz într-un golf stâncos.",
-            "en": "Turquoise water in a rocky bay."
+            "en": "Turquoise water in a rocky bay.",
+            "es": "Agua turquesa en una cala rocosa."
           }
         },
         {
@@ -1255,7 +1358,8 @@
             "de": "Entspannung pur am feinen Sandstrand.",
             "hu": "Tiszta relaxáció a finom homokos parton.",
             "ro": "Relaxare pură pe plaja cu nisip fin.",
-            "en": "Pure relaxation on the fine sandy beach."
+            "en": "Pure relaxation on the fine sandy beach.",
+            "es": "Pura relajación en la fina playa de arena."
           }
         }
       ],
@@ -1263,7 +1367,8 @@
         "de": "Mit dem Auto erreichen Sie bequem alle Highlights. Vom Mirador geht es direkt zum Leuchtturm, bevor der Ansturm der Touristenbusse kommt. Danach erkunden Sie die wilden Buchten Cala Figuera und Cala Murta. Den Nachmittag genießen Sie an der Platja de Formentor und besuchen das berühmte Hotelgelände.",
         "hu": "Autóval kényelmesen elérhető az összes látnivaló. A kilátótól egyenesen a világítótoronyhoz hajtunk, még a turistabuszok érkezése előtt. Ezután felfedezzük a vad Cala Figuera és Cala Murta öblöket. A délutánt a Formentor strandon töltjük, és ellátogatunk a híres szálloda parkjába is.",
         "ro": "Cu mașina ajungeți confortabil la toate punctele de atracție. De la Mirador mergeți direct la far, înainte de sosirea autobuzelor turistice. Apoi explorați golfurile sălbatice Cala Figuera și Cala Murta. Petreceți după-amiaza pe Platja de Formentor și vizitați terenul celebrului hotel.",
-        "en": "By car, you can comfortably reach all the highlights. From the Mirador, go straight to the lighthouse before the tourist buses arrive. Then explore the wild bays of Cala Figuera and Cala Murta. Enjoy the afternoon at Platja de Formentor and visit the famous hotel grounds."
+        "en": "By car, you can comfortably reach all the highlights. From the Mirador, go straight to the lighthouse before the tourist buses arrive. Then explore the wild bays of Cala Figuera and Cala Murta. Enjoy the afternoon at Platja de Formentor and visit the famous hotel grounds.",
+        "es": "En coche puedes llegar cómodamente a todos los puntos destacados. Desde el mirador, ve directamente al faro antes de que lleguen los autobuses turísticos. Luego explora las calas salvajes de Cala Figuera y Cala Murta. Disfruta la tarde en Platja de Formentor y visita los terrenos del famoso hotel."
       },
       "gastro_picks": {
         "de": [
@@ -1371,6 +1476,12 @@
           "Use the parking lots at Platja de Formentor.",
           "Be careful in narrow bends and with oncoming buses.",
           "Refuel in Port de Pollença."
+        ],
+        "es": [
+          "En temporada alta el acceso al cabo está cerrado a vehículos privados.",
+          "Usa los aparcamientos en Platja de Formentor.",
+          "Ten cuidado en las curvas estrechas y con los autobuses que vienen de frente.",
+          "Repostar en Port de Pollença."
         ]
       },
       "variants": {
@@ -1379,7 +1490,8 @@
             "de": "Mit dem Auto erreichen Sie bequem alle Highlights. Vom Mirador geht es direkt zum Leuchtturm, bevor der Ansturm der Touristenbusse kommt. Danach erkunden Sie die wilden Buchten Cala Figuera und Cala Murta. Den Nachmittag genießen Sie an der Platja de Formentor und besuchen das berühmte Hotelgelände.",
             "hu": "Autóval kényelmesen elérhető az összes látnivaló. A kilátótól egyenesen a világítótoronyhoz hajtunk, még a turistabuszok érkezése előtt. Ezután felfedezzük a vad Cala Figuera és Cala Murta öblöket. A délutánt a Formentor strandon töltjük, és ellátogatunk a híres szálloda parkjába is.",
             "ro": "Cu mașina ajungeți confortabil la toate punctele de atracție. De la Mirador mergeți direct la far, înainte de sosirea autobuzelor turistice. Apoi explorați golfurile sălbatice Cala Figuera și Cala Murta. Petreceți după-amiaza pe Platja de Formentor și vizitați terenul celebrului hotel.",
-            "en": "By car, you can comfortably reach all the highlights. From the Mirador, go straight to the lighthouse before the tourist buses arrive. Then explore the wild bays of Cala Figuera and Cala Murta. Enjoy the afternoon at Platja de Formentor and visit the famous hotel grounds."
+            "en": "By car, you can comfortably reach all the highlights. From the Mirador, go straight to the lighthouse before the tourist buses arrive. Then explore the wild bays of Cala Figuera and Cala Murta. Enjoy the afternoon at Platja de Formentor and visit the famous hotel grounds.",
+            "es": "En coche puedes llegar cómodamente a todos los puntos destacados. Desde el mirador, ve directamente al faro antes de que lleguen los autobuses turísticos. Luego explora las calas salvajes de Cala Figuera y Cala Murta. Disfruta la tarde en Platja de Formentor y visita los terrenos del famoso hotel."
           },
           "stops": [
             {
@@ -1388,7 +1500,8 @@
                 "de": "Perfekter Fotostopp am Vormittag.",
                 "hu": "Tökéletes fotómegálló délelőtt.",
                 "ro": "Oprire perfectă pentru fotografii dimineața.",
-                "en": "Perfect photo stop in the morning."
+                "en": "Perfect photo stop in the morning.",
+                "es": "Parada perfecta para fotos por la mañana."
               }
             },
             {
@@ -1397,7 +1510,8 @@
                 "de": "Das Wahrzeichen Mallorcas am Ende der Straße.",
                 "hu": "Mallorca jelképe az út legvégén.",
                 "ro": "Simbolul insulei Mallorca la capătul drumului.",
-                "en": "Mallorca's landmark at the very end of the road."
+                "en": "Mallorca's landmark at the very end of the road.",
+                "es": "El emblema de Mallorca al final de la carretera."
               }
             },
             {
@@ -1406,7 +1520,8 @@
                 "de": "Türkisfarbenes Wasser in einer felsigen Bucht.",
                 "hu": "Türkizkék víz egy sziklás öbölben.",
                 "ro": "Apă turcoaz într-un golf stâncos.",
-                "en": "Turquoise water in a rocky bay."
+                "en": "Turquoise water in a rocky bay.",
+                "es": "Agua turquesa en una cala rocosa."
               }
             },
             {
@@ -1415,7 +1530,8 @@
                 "de": "Entspannung pur am feinen Sandstrand.",
                 "hu": "Tiszta relaxáció a finom homokos parton.",
                 "ro": "Relaxare pură pe plaja cu nisip fin.",
-                "en": "Pure relaxation on the fine sandy beach."
+                "en": "Pure relaxation on the fine sandy beach.",
+                "es": "Pura relajación en la fina playa de arena."
               }
             }
           ],
@@ -1525,6 +1641,12 @@
               "Use the parking lots at Platja de Formentor.",
               "Be careful in narrow bends and with oncoming buses.",
               "Refuel in Port de Pollença."
+            ],
+            "es": [
+              "En temporada alta el acceso al cabo está cerrado a vehículos privados.",
+              "Usa los aparcamientos en Platja de Formentor.",
+              "Ten cuidado en las curvas estrechas y con los autobuses que vienen de frente.",
+              "Repostar en Port de Pollença."
             ]
           }
         },
@@ -1533,7 +1655,8 @@
             "de": "Die Fahrt beginnt mit Scheibenwischern im Dauereinsatz, was den Blick auf die Klippen fast filmreif macht. Am Leuchtturm peitscht die Gischt gegen die Felsen, während Sie im trockenen Auto sitzen. Mittags bietet die Bucht von Cala Figuera ein spektakuläres Naturschauspiel aus grauen Wellen. Den Nachmittag lassen Sie entspannt am Strand ausklingen, wo der Regen auf das Dach prasselt.",
             "hu": "Az út folyamatos ablaktörlőzéssel indul, ami filmszerűvé teszi a kilátást a sziklákra. A világítótoronynál a hullámok vadul csapkodnak, miközben te a száraz autóban ülsz. Délben a Cala Figuera-öböl szürke hullámai látványos természeti színjátékot nyújtanak. A délutánt a strandon zárhatod, hallgatva az eső kopogását az autó tetején.",
             "ro": "Călătoria începe cu ștergătoarele în funcțiune, oferind o perspectivă cinematografică asupra stâncilor. La far, valurile se sparg violent de pietre în timp ce tu stai confortabil în mașină. La prânz, Cala Figuera oferă un spectacol natural impresionant de valuri cenușii. După-amiaza se încheie relaxat la plajă, ascultând ploaia pe plafonul mașinii.",
-            "en": "The drive starts with wipers on full blast, making the cliff views look like a movie scene. At the lighthouse, sea spray lashes the rocks while you stay dry inside the car. At noon, Cala Figuera bay offers a spectacular display of churning grey waves. Finish the afternoon at the beach, listening to the rain drumming on the car roof."
+            "en": "The drive starts with wipers on full blast, making the cliff views look like a movie scene. At the lighthouse, sea spray lashes the rocks while you stay dry inside the car. At noon, Cala Figuera bay offers a spectacular display of churning grey waves. Finish the afternoon at the beach, listening to the rain drumming on the car roof.",
+            "es": "El trayecto comienza con los limpiaparabrisas a toda velocidad, haciendo que las vistas de los acantilados parezcan una escena de película. En el faro, la espuma del mar golpea las rocas mientras te mantienes seco dentro del coche. Al mediodía, la cala de Cala Figuera ofrece un espectáculo de olas grises y bravas. Termina la tarde en la playa, escuchando la lluvia golpear el techo del coche."
           },
           "stops": [
             {
@@ -1542,7 +1665,8 @@
                 "de": "Bleiben Sie bei starkem Wind hinter den Absperrungen; Sicht kann eingeschränkt sein.",
                 "hu": "Erős szélnél maradj a korlátok mögött; a kilátás korlátozott lehet.",
                 "ro": "Stați în spatele barierelor în caz de vânt puternic; vizibilitatea poate fi redusă.",
-                "en": "Stay behind the barriers if it's windy; visibility might be limited by clouds."
+                "en": "Stay behind the barriers if it's windy; visibility might be limited by clouds.",
+                "es": "Mantente detrás de las barreras si hace viento; la visibilidad puede estar limitada por las nubes."
               }
             },
             {
@@ -1551,7 +1675,8 @@
                 "de": "Parken Sie vorsichtig; die Parkflächen sind bei Regen oft rutschig.",
                 "hu": "Parkolj óvatosan; a parkolóhelyek esőben gyakran csúszósak.",
                 "ro": "Parcați cu atenție; zonele de parcare sunt adesea alunecoase pe ploaie.",
-                "en": "Park carefully; the parking areas can be slippery when wet."
+                "en": "Park carefully; the parking areas can be slippery when wet.",
+                "es": "Aparca con cuidado; las zonas de aparcamiento pueden resbalar cuando están mojadas."
               }
             },
             {
@@ -1560,7 +1685,8 @@
                 "de": "Ein toller Stop, um die raue See sicher vom Auto aus zu beobachten.",
                 "hu": "Remek megálló, hogy biztonságban, az autóból nézd a dühöngő tengert.",
                 "ro": "Un popas excelent pentru a observa marea agitată în siguranță din mașină.",
-                "en": "A great stop to watch the rough sea safely from inside your vehicle."
+                "en": "A great stop to watch the rough sea safely from inside your vehicle.",
+                "es": "Una gran parada para ver el mar agitado con seguridad desde dentro del vehículo."
               }
             },
             {
@@ -1569,7 +1695,8 @@
                 "de": "Nutzen Sie den großen Parkplatz direkt am Strand für kurze Wege im Regen.",
                 "hu": "Használd a strand melletti nagy parkolót, hogy keveset kelljen áznod.",
                 "ro": "Folosiți parcarea mare de lângă plajă pentru a merge cât mai puțin prin ploaie.",
-                "en": "Use the large parking lot right by the beach to minimize walking in the rain."
+                "en": "Use the large parking lot right by the beach to minimize walking in the rain.",
+                "es": "Usa el gran aparcamiento junto a la playa para minimizar el paseo bajo la lluvia."
               }
             }
           ],
@@ -1601,6 +1728,13 @@
               "Avoid sudden steering movements on the sometimes slick asphalt.",
               "Beach parking fees still apply even during bad weather days.",
               "Keep your AC running to prevent the windshield from fogging up."
+            ],
+            "es": [
+              "Conduce con las luces de cruce para ser más visible en el salpicado y la lluvia.",
+              "Cuidado con las cabras montesas que a menudo buscan refugio en la superficie cálida de la carretera.",
+              "Evita movimientos de volante bruscos en el asfalto que a veces está resbaladizo.",
+              "Las tasas de aparcamiento en la playa siguen aplicándose incluso en días de mal tiempo.",
+              "Mantén el climatizador encendido para evitar que el parabrisas se empañe."
             ]
           }
         },
@@ -1609,7 +1743,8 @@
             "de": "Im Winter haben Sie die kurvigen Straßen fast für sich allein – ein Traum für Autofahrer. Am Morgen glänzt das Meer in der tiefstehenden Sonne kristallklar. Mittags erreichen Sie den Leuchtturm ohne die sommerlichen Straßensperren direkt mit dem eigenen Wagen. Der Nachmittag am Strand ist ruhig und friedlich, bevor das goldene Licht den Tag beendet.",
             "hu": "Télen szinte magadévá teheted a szerpentineket – minden autós álma. Reggel a tenger kristálytisztán csillog az alacsony napfényben. Délben a világítótoronyhoz közvetlenül, korlátozások nélkül juthatsz el saját autóval. A délután a strandon csendes és békés, mielőtt az arany fények lezárnák a napot.",
             "ro": "Iarna aveți drumurile șerpuite aproape doar pentru voi – un vis pentru orice șofer. Dimineața, marea strălucește cristalini în lumina joasă a soarelui. La prânz puteți ajunge la far direct cu mașina, fără restricțiile de trafic din vară. După-amiaza la plajă este calmă, înainte ca lumina aurie să încheie ziua.",
-            "en": "In winter, you'll have the winding roads almost to yourself – a driver's dream. The morning sea sparkles with crystal clarity in the low-angled sun. At noon, you can drive straight to the lighthouse without the summer shuttle restrictions. The afternoon at the beach is quiet and peaceful before the golden hour ends the day."
+            "en": "In winter, you'll have the winding roads almost to yourself – a driver's dream. The morning sea sparkles with crystal clarity in the low-angled sun. At noon, you can drive straight to the lighthouse without the summer shuttle restrictions. The afternoon at the beach is quiet and peaceful before the golden hour ends the day.",
+            "es": "En invierno tendrás las carreteras sinuosas casi para ti: el sueño de cualquier conductor. Por la mañana el mar brilla con claridad en el sol bajo. Al mediodía puedes conducir hasta el faro sin las restricciones de los lanzaderas de verano. La tarde en la playa es tranquila antes de que la hora dorada termine el día."
           },
           "stops": [
             {
@@ -1618,7 +1753,8 @@
                 "de": "Genießen Sie die problemlose Parkplatzsuche direkt am Aussichtspunkt.",
                 "hu": "Élvezd a problémamentes parkolást közvetlenül a kilátópontnál.",
                 "ro": "Bucurați-vă de găsirea ușoară a unui loc de parcare chiar lângă belvedere.",
-                "en": "Enjoy the easy parking right next to the viewpoint during the off-season."
+                "en": "Enjoy the easy parking right next to the viewpoint during the off-season.",
+                "es": "Disfruta del fácil aparcamiento junto al mirador durante la temporada baja."
               }
             },
             {
@@ -1627,7 +1763,8 @@
                 "de": "Im Winter ist die Straße zum Kap für Privat-PKW frei befahrbar.",
                 "hu": "Télen a világítótoronyhoz vezető út korlátozás nélkül járható autóval.",
                 "ro": "Iarna, drumul către far este deschis pentru autoturismele private.",
-                "en": "In winter, the road to the lighthouse is open to private cars."
+                "en": "In winter, the road to the lighthouse is open to private cars.",
+                "es": "En invierno la carretera al faro está abierta a vehículos privados."
               }
             },
             {
@@ -1636,7 +1773,8 @@
                 "de": "Ein kurzer Stop für ein Foto der leeren Bucht lohnt sich jetzt besonders.",
                 "hu": "Egy rövid megálló az üres öböl fotózására most különösen megéri.",
                 "ro": "O oprire scurtă pentru a fotografia golful pustiu merită din plin acum.",
-                "en": "A short stop to photograph the empty bay is especially worth it now."
+                "en": "A short stop to photograph the empty bay is especially worth it now.",
+                "es": "Una breve parada para fotografiar la cala vacía merece especialmente la pena ahora."
               }
             },
             {
@@ -1645,7 +1783,8 @@
                 "de": "Die Parkgebühren sind im Winter oft reduziert oder entfallen ganz.",
                 "hu": "A parkolási díj télen gyakran kedvezőbb vagy teljesen ingyenes.",
                 "ro": "Taxele de parcare sunt adesea reduse sau eliminate în timpul iernii.",
-                "en": "Parking fees are often reduced or waived during the winter months."
+                "en": "Parking fees are often reduced or waived during the winter months.",
+                "es": "Las tasas de aparcamiento suelen reducirse o eliminarse durante los meses de invierno."
               }
             }
           ],
@@ -1677,6 +1816,13 @@
               "Plan your return before 17:30 to cross the mountain pass in daylight.",
               "Fuel up in Port de Pollença as there are no gas stations on the peninsula.",
               "Enjoy the drive without the stress of summer shuttle buses and crowds."
+            ],
+            "es": [
+              "Aprovecha la rara oportunidad de conducir tu propio coche hasta el faro.",
+              "Ten cuidado en las curvas sombreadas donde la carretera puede permanecer húmeda y resbaladiza.",
+              "Planea tu regreso antes de las 17:30 para cruzar el puerto de la montaña con luz diurna.",
+              "Repone combustible en Port de Pollença, ya que no hay gasolineras en la península.",
+              "Disfruta del trayecto sin el estrés de los autobuses lanzadera y las multitudes de verano."
             ]
           }
         }
@@ -1705,7 +1851,8 @@
             "de": "Der Bus hält direkt am Aussichtspunkt.",
             "hu": "A busz közvetlenül a kilátónál áll meg.",
             "ro": "Autobuzul oprește chiar la punctul de belvedere.",
-            "en": "The bus stops directly at the viewpoint."
+            "en": "The bus stops directly at the viewpoint.",
+            "es": "El autobús para directamente en el mirador."
           }
         },
         {
@@ -1723,7 +1870,8 @@
             "de": "Zentraler Umsteigepunkt für den Shuttle zum Kap.",
             "hu": "Központi átszállóhely a fokhoz menő buszhoz.",
             "ro": "Punct central de transfer pentru autobuzul spre capăt.",
-            "en": "Central transfer point for the shuttle to the cape."
+            "en": "Central transfer point for the shuttle to the cape.",
+            "es": "Punto central de transbordo para la lanzadera al cabo."
           }
         },
         {
@@ -1741,7 +1889,8 @@
             "de": "Entspannt die Aussicht genießen, ohne Parkplatzsuche.",
             "hu": "Élvezze a kilátást parkolóhely-keresés nélkül.",
             "ro": "Bucurați-vă de priveliște fără grija parcării.",
-            "en": "Relax and enjoy the view without searching for parking."
+            "en": "Relax and enjoy the view without searching for parking.",
+            "es": "Relájate y disfruta de la vista sin buscar aparcamiento."
           }
         }
       ],
@@ -1749,7 +1898,8 @@
         "de": "Nutzen Sie den bequemen Shuttle-Bus ab Port de Pollença. Der Bus hält am Mirador Es Colomer für die ersten Fotos. Weiter geht es zur Platja de Formentor für ein Bad im Meer. Schließlich bringt Sie der Bus bis zum Leuchtturm am Kap, dem nördlichsten Punkt der Insel.",
         "hu": "Használja a kényelmes transzferbuszt Port de Pollença-ból. A busz megáll a Mirador Es Colomer kilátónál az első fotókhoz. Ezután a Formentor strandra megyünk fürdeni egyet. Végül a busz elvisz egészen a világítótoronyig, a sziget legészakibb pontjáig.",
         "ro": "Folosiți autobuzul shuttle convenabil din Port de Pollença. Autobuzul oprește la Mirador Es Colomer pentru primele fotografii. Continuați spre Platja de Formentor pentru o baie în mare. În final, autobuzul vă duce la farul de la cap, cel mai nordic punct al insulei.",
-        "en": "Use the convenient shuttle bus from Port de Pollença. The bus stops at Mirador Es Colomer for the first photos. Continue to Platja de Formentor for a swim. Finally, the bus takes you to the lighthouse at the cape, the northernmost point of the island."
+        "en": "Use the convenient shuttle bus from Port de Pollença. The bus stops at Mirador Es Colomer for the first photos. Continue to Platja de Formentor for a swim. Finally, the bus takes you to the lighthouse at the cape, the northernmost point of the island.",
+        "es": "Usa la cómoda lanzadera desde Port de Pollença. El autobús para en el Mirador Es Colomer para las primeras fotos. Continúa hasta Platja de Formentor para darte un baño. Finalmente, el autobús te lleva al faro del cabo, el punto más septentrional de la isla."
       },
       "gastro_picks": {
         "de": [
@@ -1857,6 +2007,12 @@
           "The shuttle runs every 30 minutes during the season.",
           "Pay attention to the last bus back from the lighthouse.",
           "The buses can get very crowded."
+        ],
+        "es": [
+          "Compra los billetes online con antelación (línea 334).",
+          "La lanzadera circula cada 30 minutos durante la temporada.",
+          "Presta atención al último autobús de regreso desde el faro.",
+          "Los autobuses pueden llenarse mucho."
         ]
       },
       "variants": {
@@ -1865,7 +2021,8 @@
             "de": "Nutzen Sie den bequemen Shuttle-Bus ab Port de Pollença. Der Bus hält am Mirador Es Colomer für die ersten Fotos. Weiter geht es zur Platja de Formentor für ein Bad im Meer. Schließlich bringt Sie der Bus bis zum Leuchtturm am Kap, dem nördlichsten Punkt der Insel.",
             "hu": "Használja a kényelmes transzferbuszt Port de Pollença-ból. A busz megáll a Mirador Es Colomer kilátónál az első fotókhoz. Ezután a Formentor strandra megyünk fürdeni egyet. Végül a busz elvisz egészen a világítótoronyig, a sziget legészakibb pontjáig.",
             "ro": "Folosiți autobuzul shuttle convenabil din Port de Pollença. Autobuzul oprește la Mirador Es Colomer pentru primele fotografii. Continuați spre Platja de Formentor pentru o baie în mare. În final, autobuzul vă duce la farul de la cap, cel mai nordic punct al insulei.",
-            "en": "Use the convenient shuttle bus from Port de Pollença. The bus stops at Mirador Es Colomer for the first photos. Continue to Platja de Formentor for a swim. Finally, the bus takes you to the lighthouse at the cape, the northernmost point of the island."
+            "en": "Use the convenient shuttle bus from Port de Pollença. The bus stops at Mirador Es Colomer for the first photos. Continue to Platja de Formentor for a swim. Finally, the bus takes you to the lighthouse at the cape, the northernmost point of the island.",
+            "es": "Usa la cómoda lanzadera desde Port de Pollença. El autobús para en el Mirador Es Colomer para las primeras fotos. Continúa hasta Platja de Formentor para darte un baño. Finalmente, el autobús te lleva al faro del cabo, el punto más septentrional de la isla."
           },
           "stops": [
             {
@@ -1874,7 +2031,8 @@
                 "de": "Der Bus hält direkt am Aussichtspunkt.",
                 "hu": "A busz közvetlenül a kilátónál áll meg.",
                 "ro": "Autobuzul oprește chiar la punctul de belvedere.",
-                "en": "The bus stops directly at the viewpoint."
+                "en": "The bus stops directly at the viewpoint.",
+                "es": "El autobús para directamente en el mirador."
               }
             },
             {
@@ -1883,7 +2041,8 @@
                 "de": "Zentraler Umsteigepunkt für den Shuttle zum Kap.",
                 "hu": "Központi átszállóhely a fokhoz menő buszhoz.",
                 "ro": "Punct central de transfer pentru autobuzul spre capăt.",
-                "en": "Central transfer point for the shuttle to the cape."
+                "en": "Central transfer point for the shuttle to the cape.",
+                "es": "Punto central de transbordo para la lanzadera al cabo."
               }
             },
             {
@@ -1892,7 +2051,8 @@
                 "de": "Entspannt die Aussicht genießen, ohne Parkplatzsuche.",
                 "hu": "Élvezze a kilátást parkolóhely-keresés nélkül.",
                 "ro": "Bucurați-vă de priveliște fără grija parcării.",
-                "en": "Relax and enjoy the view without searching for parking."
+                "en": "Relax and enjoy the view without searching for parking.",
+                "es": "Relájate y disfruta de la vista sin buscar aparcamiento."
               }
             }
           ],
@@ -2002,6 +2162,12 @@
               "The shuttle runs every 30 minutes during the season.",
               "Pay attention to the last bus back from the lighthouse.",
               "The buses can get very crowded."
+            ],
+            "es": [
+              "Compra los billetes online con antelación (línea 334).",
+              "La lanzadera circula cada 30 minutos durante la temporada.",
+              "Presta atención al último autobús de regreso desde el faro.",
+              "Los autobuses pueden llenarse mucho."
             ]
           }
         },
@@ -2010,7 +2176,8 @@
             "de": "Die Busfahrt am Morgen bietet einen geschützten Blick auf die regenverhangene Küstenlandschaft. Am Mirador steigen Sie kurz aus, um die dramatische Stimmung einzufangen, bevor es weitergeht. Mittags ist der Strand von Formentor ein ruhiger Ort, um den Regen aus einem Strandcafé zu beobachten. Der Nachmittag am Leuchtturm ist windig und wild, bevor der Bus Sie sicher zurückbringt.",
             "hu": "A reggeli buszozás védett kilátást nyújt az eső áztatta partvidékre. A kilátónál csak rövid időre szállsz le, hogy elkapd a drámai hangulatot. Délben a Formentor-parton egy kávézóból figyelheted a tengert és az esőt. A délután a világítótoronynál szeles és vad, mielőtt a busz biztonságban visszavisz a városba.",
             "ro": "Călătoria cu autobuzul de dimineață oferă o perspectivă protejată asupra coastei plouate. La Mirador coborâți scurt pentru a surprinde atmosfera dramatică. La prânz, plaja Formentor este locul ideal pentru a privi ploaia de la adăpostul unei cafenele. După-amiaza la far este vântoasă, înainte ca autobuzul să vă readucă în siguranță.",
-            "en": "The morning bus ride provides a sheltered view of the rain-drenched coastline. Hop off at the Mirador briefly to capture the dramatic mood. At noon, Formentor beach is a quiet spot to watch the rain from a beach cafe. The afternoon at the lighthouse is windy and wild before the bus whisks you safely back."
+            "en": "The morning bus ride provides a sheltered view of the rain-drenched coastline. Hop off at the Mirador briefly to capture the dramatic mood. At noon, Formentor beach is a quiet spot to watch the rain from a beach cafe. The afternoon at the lighthouse is windy and wild before the bus whisks you safely back.",
+            "es": "El viaje en autobús por la mañana ofrece una vista resguardada de la costa empapada por la lluvia. Bájate brevemente en el mirador para captar el ambiente dramático. Al mediodía, la playa de Formentor es un lugar tranquilo para ver la lluvia desde un café de playa. La tarde en el faro es ventosa y salvaje antes de que el autobús te devuelva con seguridad."
           },
           "stops": [
             {
@@ -2019,7 +2186,8 @@
                 "de": "Stellen Sie sich nah an das Wartehäuschen, um beim Warten trocken zu bleiben.",
                 "hu": "Állj közel a megállóhoz, hogy ne ázz meg várakozás közben.",
                 "ro": "Stați aproape de refugiul stației pentru a nu vă uda în timp ce așteptați.",
-                "en": "Stay close to the bus stop shelter to keep dry while waiting."
+                "en": "Stay close to the bus stop shelter to keep dry while waiting.",
+                "es": "Quédate cerca del refugio de la parada para mantenerte seco mientras esperas."
               }
             },
             {
@@ -2028,7 +2196,8 @@
                 "de": "Das Hotelareal bietet gute Unterstellmöglichkeiten bei plötzlichen Güssen.",
                 "hu": "A hotel környéke jó menedéket nyújt hirtelen záporok idején.",
                 "ro": "Zona hotelului oferă locuri bune de adăpost în caz de averse bruște.",
-                "en": "The hotel area provides good cover if a sudden downpour hits."
+                "en": "The hotel area provides good cover if a sudden downpour hits.",
+                "es": "La zona del hotel ofrece buen refugio si cae un chaparrón repentino."
               }
             },
             {
@@ -2037,7 +2206,8 @@
                 "de": "Der Bus hält direkt am Turm; ideal, um Nässewege kurz zu halten.",
                 "hu": "A busz közvetlenül a toronynál áll meg; így keveset kell esőben sétálnod.",
                 "ro": "Autobuzul oprește chiar la far; ideal pentru a scurta mersul prin ploaie.",
-                "en": "The bus stops right at the lighthouse; ideal for minimizing time in the rain."
+                "en": "The bus stops right at the lighthouse; ideal for minimizing time in the rain.",
+                "es": "El autobús para junto al faro; ideal para minimizar el tiempo bajo la lluvia."
               }
             }
           ],
@@ -2069,6 +2239,13 @@
               "The bus is warm and dry – perfect for the transit over the winding passes.",
               "Buy your ticket digitally in advance to speed up the boarding process.",
               "Buses are often much less crowded when the weather is poor."
+            ],
+            "es": [
+              "Consulta el horario en vivo del autobús en línea, ya que pueden producirse retrasos en tiempo tormentoso.",
+              "Lleva un paraguas robusto que resista los fuertes vientos de la península.",
+              "El autobús está cálido y seco: perfecto para el tránsito por los puertos sinuosos.",
+              "Compra el billete digitalmente por adelantado para agilizar el embarque.",
+              "Los autobuses suelen estar mucho menos concurridos cuando el tiempo es malo."
             ]
           }
         },
@@ -2077,7 +2254,8 @@
             "de": "Der Winterbus bringt Sie entspannt zu den schönsten Punkten, ohne dass Sie sich um Parkplätze sorgen müssen. Die morgendliche Fahrt bietet glasklare Sichten auf die Bucht von Pollença. Mittags genießen Sie die Sonne am fast menschenleeren Formentor-Strand. Den Abschluss bildet der Besuch des Kaps, bevor der Bus Sie pünktlich zum Sonnenuntergang zurückfährt.",
             "hu": "A téli busz kényelmesen visz el a legszebb pontokhoz, nem kell parkolóhely miatt aggódnod. A reggeli út során kristálytiszta kilátás nyílik a Pollença-i öbölre. Délben a napsütést a szinte teljesen üres Formentor-parton élvezheted. A napot a világítótorony látogatása zárja, mielőtt a busz visszavisz a városba.",
             "ro": "Autobuzul de iarnă vă duce relaxat la cele mai frumoase puncte, fără grija parcării. Călătoria de dimineață oferă vederi clare asupra golfului Pollença. La prânz vă bucurați de soare pe plaja Formentor aproape pustie. Vizita la far încheie ziua, înainte ca autobuzul să vă preia la apus.",
-            "en": "The winter bus carries you smoothly to the best spots without any parking worries. The morning journey offers crystal-clear views over the Bay of Pollença. At noon, enjoy the sun on the nearly deserted Formentor beach. The day ends with a visit to the cape before the bus heads back as the sun begins to set."
+            "en": "The winter bus carries you smoothly to the best spots without any parking worries. The morning journey offers crystal-clear views over the Bay of Pollença. At noon, enjoy the sun on the nearly deserted Formentor beach. The day ends with a visit to the cape before the bus heads back as the sun begins to set.",
+            "es": "El autobús de invierno te lleva sin preocupaciones de aparcamiento a los mejores puntos. El viaje matutino ofrece vistas cristalinas sobre la Bahía de Pollença. Al mediodía disfruta del sol en la casi desierta playa de Formentor. El día termina con una visita al cabo antes de que el autobús regrese al ponerse el sol."
           },
           "stops": [
             {
@@ -2086,7 +2264,8 @@
                 "de": "Die klügste Wahl im Winter, da die Busfrequenz reduziert sein kann.",
                 "hu": "Télen érdemes figyelni a menetrendet, mert ritkábban járhatnak a buszok.",
                 "ro": "Verificați orele de trecere, deoarece frecvența poate fi redusă iarna.",
-                "en": "Check the schedule carefully as bus frequency might be lower in winter."
+                "en": "Check the schedule carefully as bus frequency might be lower in winter.",
+                "es": "Consulta el horario con atención, ya que la frecuencia puede ser menor en invierno."
               }
             },
             {
@@ -2095,7 +2274,8 @@
                 "de": "Genießen Sie die Stille; ohne die Touristenmassen ist der Strand magisch.",
                 "hu": "Élvezd a csendet; turistatömeg nélkül a strand varázslatos hely télen.",
                 "ro": "Bucurați-vă de liniște; fără masele de turiști, plaja este magică iarna.",
-                "en": "Enjoy the silence; without the tourist crowds, the beach is magical in winter."
+                "en": "Enjoy the silence; without the tourist crowds, the beach is magical in winter.",
+                "es": "Disfruta del silencio; sin las multitudes turísticas la playa es mágica en invierno."
               }
             },
             {
@@ -2104,7 +2284,8 @@
                 "de": "Perfekt für Fotos; der Bus erspart Ihnen die stressige Anfahrt am Abgrund.",
                 "hu": "Tökéletes fotóhelyszín; a busz megkímél a szakadék menti vezetéstől.",
                 "ro": "Ideal pentru poze; autobuzul vă scapă de stresul condusului pe marginea prăpastiei.",
-                "en": "Perfect for photos; the bus saves you the stress of driving along the cliffs."
+                "en": "Perfect for photos; the bus saves you the stress of driving along the cliffs.",
+                "es": "Perfecto para fotos; el autobús te evita el estrés de conducir por los acantilados."
               }
             }
           ],
@@ -2136,6 +2317,13 @@
               "The ride offers the best views; try to grab a seat on the right-hand side.",
               "In the off-season, the bus is the most stress-free way to reach the cape.",
               "Plan your stays carefully so you don't accidentally miss the final bus back."
+            ],
+            "es": [
+              "Consulta el horario de invierno (línea 334), ya que hay muchas menos salidas.",
+              "Lleva una chaqueta ligera en el autobús, ya que el aire acondicionado a veces está sorprendentemente frío.",
+              "El viaje ofrece las mejores vistas; intenta conseguir asiento en el lado derecho.",
+              "En temporada baja, el autobús es la forma más libre de estrés de llegar al cabo.",
+              "Planifica bien tus horarios para no perder por accidente el último autobús de regreso."
             ]
           }
         }
@@ -2150,19 +2338,22 @@
       "de": "Cap de Formentor ist ein Naturziel, kein Dorf, daher gibt es vor Ort wenig Sprachbedarf. Im Restaurant am Leuchtturm sprechen die Bedienungen Mallorquí, Spanisch, Englisch und Deutsch. Ein 'gràcies' beim Cafébestellen ist immer gut.",
       "hu": "A Cap de Formentor természeti célpont, nem falu, ezért alig kell a nyelvtudásod. A világítótorony melletti étteremben mallorquí, spanyol, angol és német nyelven is kiszolgálnak. Egy 'gràcies' a kávérendelésnél mindig jól esik.",
       "ro": "Cap de Formentor este o destinație naturală, nu un sat, deci nu ai nevoie de multe cunoștințe lingvistice. La restaurantul de lângă far, chelnerii vorbesc mallorquí, spaniolă, engleză și germană. Un 'gràcies' la comanda cafelei este întotdeauna binevenit.",
-      "en": "Cap de Formentor is a nature destination, not a village, so language needs are minimal. At the lighthouse restaurant, staff speak Mallorquí, Spanish, English and German. A 'gràcies' when ordering coffee is always welcome."
+      "en": "Cap de Formentor is a nature destination, not a village, so language needs are minimal. At the lighthouse restaurant, staff speak Mallorquí, Spanish, English and German. A 'gràcies' when ordering coffee is always welcome.",
+      "es": "Cap de Formentor es un destino natural, no un pueblo, por lo que las necesidades lingüísticas son mínimas. En el restaurante del faro, el personal habla mallorquín, castellano, inglés y alemán. Un «gràcies» al pedir un café siempre se agradece."
     },
     "best_time_to_visit": {
       "de": "Mai-Juni und September-Oktober bieten klare Sicht, milde 20-26°C und weniger Verkehrsstaus auf der schmalen MA-2210. Im Juli-August gilt zwischen 10 und 19 Uhr ein Auto-Fahrverbot, dann nur per Shuttlebus oder vor 10 Uhr. Sonnenaufgänge sind das ganze Jahr über magisch, dafür sehr früh aufstehen.",
       "hu": "Május-június és szeptember-október tiszta kilátást, kellemes 20-26°C-ot és kevesebb dugót kínál a keskeny MA-2210-en. Júliusban-augusztusban 10 és 19 óra között autóstilalom van, akkor csak shuttle busz vagy reggel 10 előtti érkezés. A napkelte egész évben varázslatos, de nagyon korán kell kelni.",
       "ro": "Mai-iunie și septembrie-octombrie oferă vizibilitate clară, 20-26°C plăcute și mai puțin trafic pe îngusta MA-2210. În iulie-august, accesul auto este interzis între 10 și 19, atunci doar cu naveta sau înainte de ora 10. Răsăriturile sunt magice tot anul, dar necesită trezire foarte devreme.",
-      "en": "May-June and September-October offer clear views, mild 20-26°C and less traffic on the narrow MA-2210 road. In July-August, cars are banned between 10am and 7pm, only shuttle bus or arrive before 10am. Sunrises are magical year-round but require very early starts."
+      "en": "May-June and September-October offer clear views, mild 20-26°C and less traffic on the narrow MA-2210 road. In July-August, cars are banned between 10am and 7pm, only shuttle bus or arrive before 10am. Sunrises are magical year-round but require very early starts.",
+      "es": "Mayo-junio y septiembre-octubre ofrecen vistas despejadas, temperaturas suaves de 20-26°C y menos tráfico en la estrecha MA-2210. En julio-agosto los coches están prohibidos entre las 10:00 y las 19:00; solo hay autobús lanzadera o hay que llegar antes de las 10:00. Los amaneceres son mágicos todo el año pero requieren empezar muy temprano."
     },
     "neighborhood_warnings": {
       "de": "Die kurvige Bergstraße zum Cap ist die größte Gefahr, Steilhänge ohne Leitplanken und ständige Radfahrer und Touristenbusse. Bei Wind kann das Aussteigen am Mirador Es Colomer gefährlich sein, halten Sie sich von der Felskante fern. Im Sommer gibt es keine Tankstelle und keinen Schatten auf dem Cap, Wasser mitnehmen.",
       "hu": "A Cap-ig vezető kanyargós hegyi út a legnagyobb veszély, meredek lejtők védőkorlát nélkül, állandó biciklisek és buszok. Szeles időben a Mirador Es Colomer-nél vigyázni kell a sziklák szélével. Nyáron nincs benzinkút és nincs árnyék a Capon, vizet feltétlenül vigyél magaddal.",
       "ro": "Drumul șerpuit spre Cap este cel mai mare pericol, pante abrupte fără parapete, bicicliști permanenți și autocare. Pe vânt, ieșirea la Mirador Es Colomer poate fi periculoasă, stai departe de marginea stâncii. Vara nu există benzinărie și nici umbră pe Cap, ia apă cu tine.",
-      "en": "The winding mountain road to the Cap is the biggest danger, with steep drops without barriers, constant cyclists and tour buses. In windy weather, getting out at Mirador Es Colomer can be hazardous, stay away from the cliff edge. No petrol station and no shade exist on the Cap in summer, bring water."
+      "en": "The winding mountain road to the Cap is the biggest danger, with steep drops without barriers, constant cyclists and tour buses. In windy weather, getting out at Mirador Es Colomer can be hazardous, stay away from the cliff edge. No petrol station and no shade exist on the Cap in summer, bring water.",
+      "es": "La carretera montañosa y sinuosa hacia el Cap es el mayor peligro, con fuertes caídas sin barreras, ciclistas constantes y autocares turísticos. Con viento, salir en el Mirador Es Colomer puede ser peligroso; mantente alejado del borde del acantilado. No hay gasolinera ni sombra en el Cap en verano; lleva agua."
     }
   }
 }

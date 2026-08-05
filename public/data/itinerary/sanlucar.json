@@ -21,7 +21,8 @@
             "de": "Mercado de Abastos",
             "hu": "Helyi piac",
             "ro": "Piața Centrală",
-            "en": "Mercado de Abastos"
+            "en": "Mercado de Abastos",
+            "es": "Mercado de Abastos"
           },
           "coords": [
             -6.3542,
@@ -36,7 +37,8 @@
             "de": "Frischer Fisch direkt vom Kutter.",
             "hu": "Friss tengeri halak a reggeli órákban.",
             "ro": "Pește proaspăt sosit direct din port.",
-            "en": "Fresh seafood straight from the boats."
+            "en": "Fresh seafood straight from the boats.",
+            "es": "Marisco fresco directamente de las barcas."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Las Covachas",
             "hu": "Las Covachas gótikus árkád",
             "ro": "Las Covachas",
-            "en": "Las Covachas"
+            "en": "Las Covachas",
+            "es": "Las Covachas"
           },
           "coords": [
             -6.3535,
@@ -59,7 +62,8 @@
             "de": "Spätgotische Architektur bewundern.",
             "hu": "Késő gótikus kereskedelmi építészet.",
             "ro": "Arhitectură gotică târzie deosebită.",
-            "en": "Admire the late Gothic stone carvings."
+            "en": "Admire the late Gothic stone carvings.",
+            "es": "Admira las tallas de piedra gótica tardía."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Parroquia de Nuestra Señora de la O",
             "hu": "O-i Miasszonyunk templom",
             "ro": "Parohia Nuestra Señora de la O",
-            "en": "Parroquia de Nuestra Señora de la O"
+            "en": "Parroquia de Nuestra Señora de la O",
+            "es": "Parroquia de Nuestra Señora de la O"
           },
           "coords": [
             -6.3524,
@@ -82,7 +87,8 @@
             "de": "Wunderschönes Mudejar-Portal.",
             "hu": "Látványos mudejar stílusú kapuzat.",
             "ro": "Portal în stil mudejar remarcabil.",
-            "en": "Famous Mudejar style portal."
+            "en": "Famous Mudejar style portal.",
+            "es": "Famoso pórtico de estilo mudéjar."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Castillo de Santiago",
             "hu": "Szent Jakab vár",
             "ro": "Castelul Santiago",
-            "en": "Castillo de Santiago"
+            "en": "Castillo de Santiago",
+            "es": "Castillo de Santiago"
           },
           "coords": [
             -6.3508,
@@ -105,7 +112,8 @@
             "de": "Blick auf den Nationalpark Doñana.",
             "hu": "Panoráma a Doñana Nemzeti Parkra.",
             "ro": "Vedere panoramică spre Parcul Doñana.",
-            "en": "Best view over Doñana National Park."
+            "en": "Best view over Doñana National Park.",
+            "es": "Mejor vista sobre el Parque Nacional de Doñana."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Bodegas Barbadillo",
             "hu": "Barbadillo borpincék",
             "ro": "Bodegas Barbadillo",
-            "en": "Bodegas Barbadillo"
+            "en": "Bodegas Barbadillo",
+            "es": "Bodegas Barbadillo"
           },
           "coords": [
             -6.3531,
@@ -128,7 +137,8 @@
             "de": "Manzanilla-Weinprobe ist Pflicht.",
             "hu": "A Manzanilla borkóstoló kötelező.",
             "ro": "Degustarea de vin Manzanilla e obligatorie.",
-            "en": "Manzanilla wine tasting is a must."
+            "en": "Manzanilla wine tasting is a must.",
+            "es": "Cata de manzanilla imprescindible."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Centro de Visitantes Fábrica de Hielo",
             "hu": "Jéggyár látogatóközpont",
             "ro": "Centrul Fábrica de Hielo",
-            "en": "Centro de Visitantes Fábrica de Hielo"
+            "en": "Centro de Visitantes Fábrica de Hielo",
+            "es": "Centro de Visitantes Fábrica de Hielo"
           },
           "coords": [
             -6.3575,
@@ -151,7 +162,8 @@
             "de": "Interaktive Doñana-Ausstellung.",
             "hu": "Interaktív kiállítás a természetről.",
             "ro": "Expoziție interactivă despre biodiversitate.",
-            "en": "Interactive exhibition about Doñana."
+            "en": "Interactive exhibition about Doñana.",
+            "es": "Exposición interactiva sobre Doñana."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Bajo de Guía",
             "hu": "Bajo de Guía sétány",
             "ro": "Bajo de Guía",
-            "en": "Bajo de Guía"
+            "en": "Bajo de Guía",
+            "es": "Bajo de Guía"
           },
           "coords": [
             -6.3592,
@@ -174,7 +187,8 @@
             "de": "Sonnenuntergang am Fluss Guadalquivir.",
             "hu": "Naplemente a Guadalquivir partján.",
             "ro": "Apus de soare pe malul Guadalquivir.",
-            "en": "Sunset dinner by the Guadalquivir river."
+            "en": "Sunset dinner by the Guadalquivir river.",
+            "es": "Cena al atardecer junto al río Guadalquivir."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Morgen im lebhaften Mercado de Abastos, wo die berühmten Garnelen von Sanlúcar fangfrisch angeboten werden. Ein kurzer Spaziergang führt Sie zu den gotischen Covachas und der kunstvollen Kirche Nuestra Señora de la O.\n\nMittags erkunden Sie das imposante Castillo de Santiago, das über der Stadt thront. Danach tauchen Sie in die Welt des Manzanilla-Weins in den historischen Kellern von Barbadillo ein, ein echtes sensorisches Erlebnis.\n\nDer Nachmittag steht im Zeichen der Natur. Im Besucherzentrum Fábrica de Hielo erfahren Sie alles über das gegenüberliegende Sumpfgebiet Doñana, bevor Sie zum Flussufer schlendern.\n\nDen Abend genießen Sie im Fischereiviertel Bajo de Guía. Lassen Sie den Tag bei frischen Meeresfrüchten und einem Glas gekühltem Wein ausklingen, während die Sonne langsam hinter dem Horizont versinkt.",
         "hu": "Kezdje a reggelt a pezsgő Mercado de Abastos piacon, ahol Sanlúcar híres garnélarákjai sorakoznak a pultokon. Ezután tekintse meg a gótikus Las Covachas árkádokat és a mudejar stílusú Nuestra Señora de la O templomot.\n\nDélben hódítsa meg a Castillo de Santiago várát, ahonnan belátni az egész várost és a folyótorkolatot. Ezután látogasson el a Barbadillo borpincébe, hogy megismerje a különleges Manzanilla bor készítésének titkait.\n\nDélután a korábbi jéggyárból kialakított látogatóközpontban elmerülhet a Doñana Nemzeti Park élővilágában. Ez a legjobb felkészülés a parti sétához.\n\nAz estét a Bajo de Guía negyedben töltse, amely a város gasztronómiai szíve. Vacsorázzon közvetlenül a Guadalquivir partján, és csodálja meg a túlparti természetvédelmi terület látványát alkonyatkor.",
         "ro": "Începeți dimineața în vibranta piață Mercado de Abastos, locul ideal pentru a simți pulsul orașului. Continuați cu Las Covachas, martorul trecutului comercial, și biserica istorică Nuestra Señora de la O.\n\nLa prânz, vizitați Castelul Santiago pentru cele mai bune panorame, apoi mergeți la faimoasele crame Barbadillo. Aici veți descoperi gustul unic al vinului Manzanilla, produs exclusiv în acest climat special.\n\nDupă-amiaza este dedicată cunoașterii ecosistemului local la centrul Fábrica de Hielo, situat într-o clădire industrială restaurată, chiar lângă malul râului Guadalquivir.\n\nSeara vă aparține în cartierul Bajo de Guía. Este locul perfect pentru a degusta fructe de mare proaspete într-o atmosferă relaxată, privind cum soarele apune peste rezervația naturală de pe celălalt mal.",
-        "en": "Start your morning at the bustling Mercado de Abastos, where the local atmosphere is as fresh as the daily catch. Walk through the historic center to see the Gothic Covachas and the stunning Church of Nuestra Señora de la O.\n\nAt midday, explore the heights of Santiago Castle before descending into the cool depths of Bodegas Barbadillo. A tasting of their signature Manzanilla wine is an essential Sanlúcar experience.\n\nSpend your afternoon at the Fábrica de Hielo visitor center, learning about the Doñana National Park's unique landscape, followed by a leisurely stroll towards the riverbank.\n\nFinish your day at Bajo de Guía, the city's famous waterfront promenade. Enjoy world-class seafood while watching the sunset over the Guadalquivir river and the marshes beyond."
+        "en": "Start your morning at the bustling Mercado de Abastos, where the local atmosphere is as fresh as the daily catch. Walk through the historic center to see the Gothic Covachas and the stunning Church of Nuestra Señora de la O.\n\nAt midday, explore the heights of Santiago Castle before descending into the cool depths of Bodegas Barbadillo. A tasting of their signature Manzanilla wine is an essential Sanlúcar experience.\n\nSpend your afternoon at the Fábrica de Hielo visitor center, learning about the Doñana National Park's unique landscape, followed by a leisurely stroll towards the riverbank.\n\nFinish your day at Bajo de Guía, the city's famous waterfront promenade. Enjoy world-class seafood while watching the sunset over the Guadalquivir river and the marshes beyond.",
+        "es": "Comienza la mañana en el bullicioso Mercado de Abastos, donde el ambiente local es tan fresco como la pesca del día. Recorre el casco histórico para ver las Covachas góticas y la impresionante Iglesia de Nuestra Señora de la O.\n\nAl mediodía, sube a lo alto del Castillo de Santiago antes de descender al frescor de las Bodegas Barbadillo. Una cata de su manzanilla es una experiencia esencial en Sanlúcar.\n\nPasa la tarde en el Centro de Visitantes de la Fábrica de Hielo, aprendiendo sobre el paisaje único del Parque Nacional de Doñana, y luego da un paseo tranquilo hacia la orilla del río.\n\nTermina el día en Bajo de Guía, el famoso paseo marítimo de la ciudad. Disfruta de marisco de primera mientras contemplas la puesta de sol sobre el Guadalquivir y las marismas."
       },
       "gastro_picks": {
         "de": [
@@ -302,6 +317,11 @@
           "Wear comfortable shoes for the cobblestone streets.",
           "Book a table in advance for dinner at Bajo de Guía restaurants.",
           "Visit the visitor center first to understand the ferry schedule to Doñana."
+        ],
+        "es": [
+          "Lleva calzado cómodo para las calles empedradas.",
+          "Reserva mesa con antelación para cenar en los restaurantes de Bajo de Guía.",
+          "Visita primero el centro de visitantes para entender el horario del ferry a Doñana."
         ]
       },
       "variants": {
@@ -310,7 +330,8 @@
             "de": "Beginnen Sie Ihren Morgen im lebhaften Mercado de Abastos, wo die berühmten Garnelen von Sanlúcar fangfrisch angeboten werden. Ein kurzer Spaziergang führt Sie zu den gotischen Covachas und der kunstvollen Kirche Nuestra Señora de la O.\n\nMittags erkunden Sie das imposante Castillo de Santiago, das über der Stadt thront. Danach tauchen Sie in die Welt des Manzanilla-Weins in den historischen Kellern von Barbadillo ein, ein echtes sensorisches Erlebnis.\n\nDer Nachmittag steht im Zeichen der Natur. Im Besucherzentrum Fábrica de Hielo erfahren Sie alles über das gegenüberliegende Sumpfgebiet Doñana, bevor Sie zum Flussufer schlendern.\n\nDen Abend genießen Sie im Fischereiviertel Bajo de Guía. Lassen Sie den Tag bei frischen Meeresfrüchten und einem Glas gekühltem Wein ausklingen, während die Sonne langsam hinter dem Horizont versinkt.",
             "hu": "Kezdje a reggelt a pezsgő Mercado de Abastos piacon, ahol Sanlúcar híres garnélarákjai sorakoznak a pultokon. Ezután tekintse meg a gótikus Las Covachas árkádokat és a mudejar stílusú Nuestra Señora de la O templomot.\n\nDélben hódítsa meg a Castillo de Santiago várát, ahonnan belátni az egész várost és a folyótorkolatot. Ezután látogasson el a Barbadillo borpincébe, hogy megismerje a különleges Manzanilla bor készítésének titkait.\n\nDélután a korábbi jéggyárból kialakított látogatóközpontban elmerülhet a Doñana Nemzeti Park élővilágában. Ez a legjobb felkészülés a parti sétához.\n\nAz estét a Bajo de Guía negyedben töltse, amely a város gasztronómiai szíve. Vacsorázzon közvetlenül a Guadalquivir partján, és csodálja meg a túlparti természetvédelmi terület látványát alkonyatkor.",
             "ro": "Începeți dimineața în vibranta piață Mercado de Abastos, locul ideal pentru a simți pulsul orașului. Continuați cu Las Covachas, martorul trecutului comercial, și biserica istorică Nuestra Señora de la O.\n\nLa prânz, vizitați Castelul Santiago pentru cele mai bune panorame, apoi mergeți la faimoasele crame Barbadillo. Aici veți descoperi gustul unic al vinului Manzanilla, produs exclusiv în acest climat special.\n\nDupă-amiaza este dedicată cunoașterii ecosistemului local la centrul Fábrica de Hielo, situat într-o clădire industrială restaurată, chiar lângă malul râului Guadalquivir.\n\nSeara vă aparține în cartierul Bajo de Guía. Este locul perfect pentru a degusta fructe de mare proaspete într-o atmosferă relaxată, privind cum soarele apune peste rezervația naturală de pe celălalt mal.",
-            "en": "Start your morning at the bustling Mercado de Abastos, where the local atmosphere is as fresh as the daily catch. Walk through the historic center to see the Gothic Covachas and the stunning Church of Nuestra Señora de la O.\n\nAt midday, explore the heights of Santiago Castle before descending into the cool depths of Bodegas Barbadillo. A tasting of their signature Manzanilla wine is an essential Sanlúcar experience.\n\nSpend your afternoon at the Fábrica de Hielo visitor center, learning about the Doñana National Park's unique landscape, followed by a leisurely stroll towards the riverbank.\n\nFinish your day at Bajo de Guía, the city's famous waterfront promenade. Enjoy world-class seafood while watching the sunset over the Guadalquivir river and the marshes beyond."
+            "en": "Start your morning at the bustling Mercado de Abastos, where the local atmosphere is as fresh as the daily catch. Walk through the historic center to see the Gothic Covachas and the stunning Church of Nuestra Señora de la O.\n\nAt midday, explore the heights of Santiago Castle before descending into the cool depths of Bodegas Barbadillo. A tasting of their signature Manzanilla wine is an essential Sanlúcar experience.\n\nSpend your afternoon at the Fábrica de Hielo visitor center, learning about the Doñana National Park's unique landscape, followed by a leisurely stroll towards the riverbank.\n\nFinish your day at Bajo de Guía, the city's famous waterfront promenade. Enjoy world-class seafood while watching the sunset over the Guadalquivir river and the marshes beyond.",
+            "es": "Comienza la mañana en el bullicioso Mercado de Abastos, donde el ambiente local es tan fresco como la pesca del día. Recorre el casco histórico para ver las Covachas góticas y la impresionante Iglesia de Nuestra Señora de la O.\n\nAl mediodía, sube a lo alto del Castillo de Santiago antes de descender al frescor de las Bodegas Barbadillo. Una cata de su manzanilla es una experiencia esencial en Sanlúcar.\n\nPasa la tarde en el Centro de Visitantes de la Fábrica de Hielo, aprendiendo sobre el paisaje único del Parque Nacional de Doñana, y luego da un paseo tranquilo hacia la orilla del río.\n\nTermina el día en Bajo de Guía, el famoso paseo marítimo de la ciudad. Disfruta de marisco de primera mientras contemplas la puesta de sol sobre el Guadalquivir y las marismas."
           },
           "stops": [
             {
@@ -318,13 +339,15 @@
                 "de": "Mercado de Abastos",
                 "hu": "Helyi piac",
                 "ro": "Piața Centrală",
-                "en": "Mercado de Abastos"
+                "en": "Mercado de Abastos",
+                "es": "Mercado de Abastos"
               },
               "tip_5lang": {
                 "de": "Frischer Fisch direkt vom Kutter.",
                 "hu": "Friss tengeri halak a reggeli órákban.",
                 "ro": "Pește proaspăt sosit direct din port.",
-                "en": "Fresh seafood straight from the boats."
+                "en": "Fresh seafood straight from the boats.",
+                "es": "Marisco fresco directamente de las barcas."
               }
             },
             {
@@ -332,13 +355,15 @@
                 "de": "Las Covachas",
                 "hu": "Las Covachas gótikus árkád",
                 "ro": "Las Covachas",
-                "en": "Las Covachas"
+                "en": "Las Covachas",
+                "es": "Las Covachas"
               },
               "tip_5lang": {
                 "de": "Spätgotische Architektur bewundern.",
                 "hu": "Késő gótikus kereskedelmi építészet.",
                 "ro": "Arhitectură gotică târzie deosebită.",
-                "en": "Admire the late Gothic stone carvings."
+                "en": "Admire the late Gothic stone carvings.",
+                "es": "Admira las tallas de piedra gótica tardía."
               }
             },
             {
@@ -346,13 +371,15 @@
                 "de": "Parroquia de Nuestra Señora de la O",
                 "hu": "O-i Miasszonyunk templom",
                 "ro": "Parohia Nuestra Señora de la O",
-                "en": "Parroquia de Nuestra Señora de la O"
+                "en": "Parroquia de Nuestra Señora de la O",
+                "es": "Parroquia de Nuestra Señora de la O"
               },
               "tip_5lang": {
                 "de": "Wunderschönes Mudejar-Portal.",
                 "hu": "Látványos mudejar stílusú kapuzat.",
                 "ro": "Portal în stil mudejar remarcabil.",
-                "en": "Famous Mudejar style portal."
+                "en": "Famous Mudejar style portal.",
+                "es": "Famoso pórtico de estilo mudéjar."
               }
             },
             {
@@ -360,13 +387,15 @@
                 "de": "Castillo de Santiago",
                 "hu": "Szent Jakab vár",
                 "ro": "Castelul Santiago",
-                "en": "Castillo de Santiago"
+                "en": "Castillo de Santiago",
+                "es": "Castillo de Santiago"
               },
               "tip_5lang": {
                 "de": "Blick auf den Nationalpark Doñana.",
                 "hu": "Panoráma a Doñana Nemzeti Parkra.",
                 "ro": "Vedere panoramică spre Parcul Doñana.",
-                "en": "Best view over Doñana National Park."
+                "en": "Best view over Doñana National Park.",
+                "es": "Mejor vista sobre el Parque Nacional de Doñana."
               }
             },
             {
@@ -374,13 +403,15 @@
                 "de": "Bodegas Barbadillo",
                 "hu": "Barbadillo borpincék",
                 "ro": "Bodegas Barbadillo",
-                "en": "Bodegas Barbadillo"
+                "en": "Bodegas Barbadillo",
+                "es": "Bodegas Barbadillo"
               },
               "tip_5lang": {
                 "de": "Manzanilla-Weinprobe ist Pflicht.",
                 "hu": "A Manzanilla borkóstoló kötelező.",
                 "ro": "Degustarea de vin Manzanilla e obligatorie.",
-                "en": "Manzanilla wine tasting is a must."
+                "en": "Manzanilla wine tasting is a must.",
+                "es": "Cata de manzanilla imprescindible."
               }
             },
             {
@@ -388,13 +419,15 @@
                 "de": "Centro de Visitantes Fábrica de Hielo",
                 "hu": "Jéggyár látogatóközpont",
                 "ro": "Centrul Fábrica de Hielo",
-                "en": "Centro de Visitantes Fábrica de Hielo"
+                "en": "Centro de Visitantes Fábrica de Hielo",
+                "es": "Centro de Visitantes Fábrica de Hielo"
               },
               "tip_5lang": {
                 "de": "Interaktive Doñana-Ausstellung.",
                 "hu": "Interaktív kiállítás a természetről.",
                 "ro": "Expoziție interactivă despre biodiversitate.",
-                "en": "Interactive exhibition about Doñana."
+                "en": "Interactive exhibition about Doñana.",
+                "es": "Exposición interactiva sobre Doñana."
               }
             },
             {
@@ -402,13 +435,15 @@
                 "de": "Bajo de Guía",
                 "hu": "Bajo de Guía sétány",
                 "ro": "Bajo de Guía",
-                "en": "Bajo de Guía"
+                "en": "Bajo de Guía",
+                "es": "Bajo de Guía"
               },
               "tip_5lang": {
                 "de": "Sonnenuntergang am Fluss Guadalquivir.",
                 "hu": "Naplemente a Guadalquivir partján.",
                 "ro": "Apus de soare pe malul Guadalquivir.",
-                "en": "Sunset dinner by the Guadalquivir river."
+                "en": "Sunset dinner by the Guadalquivir river.",
+                "es": "Cena al atardecer junto al río Guadalquivir."
               }
             }
           ],
@@ -530,6 +565,11 @@
               "Wear comfortable shoes for the cobblestone streets.",
               "Book a table in advance for dinner at Bajo de Guía restaurants.",
               "Visit the visitor center first to understand the ferry schedule to Doñana."
+            ],
+            "es": [
+              "Lleva calzado cómodo para las calles empedradas.",
+              "Reserva mesa con antelación para cenar en los restaurantes de Bajo de Guía.",
+              "Visita primero el centro de visitantes para entender el horario del ferry a Doñana."
             ]
           }
         },
@@ -538,7 +578,8 @@
             "de": "Beginnen Sie Ihren regnerischen Tag in der Markthalle, wo die Düfte des Meeres unter dem schützenden Dach verweilen. Ein kurzer Spaziergang führt zu den gotischen Bögen von Las Covachas, die im Regen glänzen.\n\nMittags bietet die Parroquia de la O spirituelle Stille und Schutz vor den Schauern. In der massiven Festung des Castillo de Santiago erkunden Sie die Gänge, während der Regen gegen die alten Mauern peitscht.\n\nDer Nachmittag gehört der Welt des Weins; bei Barbadillo wärmen Sie sich mit Manzanilla auf. Danach bietet das Besucherzentrum Fábrica de Hielo eine spannende Zeitreise in die Fischereigeschichte, völlig trocken.\n\nAbends erreichen Sie Bajo de Guía. In den verglasten Terrassen der Fischrestaurants genießen Sie den Blick auf den grauen Fluss und den gegenüberliegenden Nationalpark bei einem Teller frischer Garnelen.",
             "hu": "Kezdje az esős napot a Mercado de Abastos fedett csarnokában, ahol a tenger illata terjeng a biztonságos tető alatt. Rövid séta után csodálja meg a Las Covachas gótikus íveit, amelyek különleges fényt kapnak a nedvességtől.\n\nDélben a Parroquia de la O nyújt lelki békét és menedéket a záporok elől. A Castillo de Santiago masszív falai között barangolva elfelejtheti a kinti időjárást, miközben a történelem megelevenedik.\n\nA délután a bor világáé; a Barbadillo pincészetben a Manzanilla melengeti meg a lelkét. Ezután a Fábrica de Hielo látogatóközpont kínál száraz és izgalmas betekintést a halászat múltjába.\n\nEste érkezzen meg Bajo de Guía területére. A haléttermek fedett teraszain ülve nézze a folyó szürke hullámait és a szemközti Doñana nemzeti parkot, miközben Sanlúcar híres garnéláit kóstolja.",
             "ro": "Începeți ziua ploioasă în piața acoperită Mercado de Abastos, unde aromele mării persistă sub protecția tavanului. O scurtă plimbare vă duce la arcadele gotice Las Covachas, care strălucesc sub picăturile de ploaie.\n\nLa prânz, Parroquia de la O oferă liniște spirituală și adăpost împotriva averselor. În masiva fortăreață Castillo de Santiago, explorați coridoarele istorice în timp ce ploaia bate în zidurile vechi de secole.\n\nDupă-amiaza este dedicată vinului; la cramele Barbadillo vă încălziți cu un pahar de Manzanilla. Apoi, centrul de vizitatori Fábrica de Hielo oferă o călătorie fascinantă în istoria pescuitului, ferit de umezeală.\n\nSeara, ajungeți la Bajo de Guía. Pe terasele închise ale restaurantelor de pește, savurați priveliștea fluviului cenușiu și a parcului național Doñana, în timp ce degustați celebrii creveți locali.",
-            "en": "Start your rainy day at the covered Mercado de Abastos, where the scents of the sea linger under the protective roof. A short walk leads to the Gothic arches of Las Covachas, which take on a special sheen in the wet.\n\nAt noon, the Parroquia de la O offers spiritual peace and shelter from the showers. Inside the massive Castillo de Santiago, explore the historic corridors while the rain beats against the ancient stone walls.\n\nThe afternoon belongs to the world of wine; warm up with Manzanilla at the Barbadillo winery. Then, the Fábrica de Hielo visitor center provides a dry and exciting journey into fishing history.\n\nIn the evening, reach Bajo de Guía. From the enclosed terraces of the seafood restaurants, enjoy the view of the grey river and the Doñana National Park across the water while dining on fresh local prawns."
+            "en": "Start your rainy day at the covered Mercado de Abastos, where the scents of the sea linger under the protective roof. A short walk leads to the Gothic arches of Las Covachas, which take on a special sheen in the wet.\n\nAt noon, the Parroquia de la O offers spiritual peace and shelter from the showers. Inside the massive Castillo de Santiago, explore the historic corridors while the rain beats against the ancient stone walls.\n\nThe afternoon belongs to the world of wine; warm up with Manzanilla at the Barbadillo winery. Then, the Fábrica de Hielo visitor center provides a dry and exciting journey into fishing history.\n\nIn the evening, reach Bajo de Guía. From the enclosed terraces of the seafood restaurants, enjoy the view of the grey river and the Doñana National Park across the water while dining on fresh local prawns.",
+            "es": "Comienza el día lluvioso en el cubierto Mercado de Abastos, donde los aromas del mar se mantienen bajo el techo protector. A un corto paseo están los arcos góticos de Las Covachas, que adquieren un brillo especial con la lluvia.\n\nAl mediodía, la Parroquia de la O ofrece paz espiritual y refugio de los chubascos. Dentro del macizo Castillo de Santiago explora los corredores históricos mientras la lluvia golpea las antiguas paredes de piedra.\n\nLa tarde pertenece al mundo del vino; reánimate con una manzanilla en las Bodegas Barbadillo. Después, el Centro de Visitantes de la Fábrica de Hielo ofrece un recorrido seco y entretenido por la historia pesquera.\n\nPor la noche, llega a Bajo de Guía. Desde las terrazas cerradas de los restaurantes de marisco, disfruta de la vista del río gris y Doñana al otro lado mientras cenas gambas frescas locales."
           },
           "stops": [
             {
@@ -547,7 +588,8 @@
                 "de": "Ideal zum Aufwärmen mit lokalem Frühstück unter dem festen Dach.",
                 "hu": "Tökéletes hely egy meleg reggelihez a biztonságos, fedett tető alatt.",
                 "ro": "Locul ideal pentru un mic dejun cald sub acoperișul protector.",
-                "en": "Perfect spot for a warm breakfast under the solid, covered roof."
+                "en": "Perfect spot for a warm breakfast under the solid, covered roof.",
+                "es": "Lugar perfecto para un desayuno calentito bajo el sólido techo cubierto."
               }
             },
             {
@@ -556,7 +598,8 @@
                 "de": "Die Steinbögen bieten kurzzeitig Schutz vor plötzlichen Schauern.",
                 "hu": "A kőívek rövid ideig védelmet nyújtanak a hirtelen záporok elől.",
                 "ro": "Arcadele de piatră oferă adăpost temporar în caz de ploaie bruscă.",
-                "en": "The stone arches provide temporary shelter during sudden showers."
+                "en": "The stone arches provide temporary shelter during sudden showers.",
+                "es": "Los arcos de piedra ofrecen refugio temporal durante chaparrones repentinos."
               }
             },
             {
@@ -565,7 +608,8 @@
                 "de": "Bewundern Sie das Mudéjar-Portal, bevor Sie ins trockene Innere flüchten.",
                 "hu": "Csodálja meg a Mudéjar portált, mielőtt a száraz belső térbe menekülne.",
                 "ro": "Admirați portalul Mudéjar înainte de a vă refugia în interiorul uscat.",
-                "en": "Admire the Mudéjar portal before retreating into the dry interior."
+                "en": "Admire the Mudéjar portal before retreating into the dry interior.",
+                "es": "Admira el pórtico mudéjar antes de refugiarte en el interior seco."
               }
             },
             {
@@ -574,7 +618,8 @@
                 "de": "Besuchen Sie das Kostümmuseum im Inneren, um dem Regen zu entgehen.",
                 "hu": "Látogassa meg a belső jelmezmúzeumot, hogy elkerülje az esőt.",
                 "ro": "Vizitați muzeul de costume din interior pentru a evita ploaia.",
-                "en": "Visit the costume museum inside to escape the outdoor rain."
+                "en": "Visit the costume museum inside to escape the outdoor rain.",
+                "es": "Visita el museo de trajes en su interior para escapar de la lluvia exterior."
               }
             },
             {
@@ -583,7 +628,8 @@
                 "de": "Eine ausgiebige Kellerführung ist die beste Beschäftigung bei Schmuddelwetter.",
                 "hu": "Egy alapos pincetúra a legjobb elfoglaltság rossz idő esetén.",
                 "ro": "Un tur extins al cramei este cea mai bună activitate pe timp de ploaie.",
-                "en": "An extensive cellar tour is the best activity during wet weather."
+                "en": "An extensive cellar tour is the best activity during wet weather.",
+                "es": "Una extensa visita a la bodega es la mejor actividad en tiempo húmedo."
               }
             },
             {
@@ -592,7 +638,8 @@
                 "de": "Vollständig überdachtes Museum mit Blick auf den regnerischen Guadalquivir.",
                 "hu": "Teljesen fedett múzeum, kilátással az esős Guadalquivir folyóra.",
                 "ro": "Muzeu complet acoperit cu vedere spre râul Guadalquivir în timpul ploii.",
-                "en": "Fully indoor museum with views of the rainy Guadalquivir river."
+                "en": "Fully indoor museum with views of the rainy Guadalquivir river.",
+                "es": "Museo completamente interior con vistas al lluvioso río Guadalquivir."
               }
             },
             {
@@ -601,7 +648,8 @@
                 "de": "Wählen Sie ein Restaurant mit verglaster Front für den perfekten Flussblick.",
                 "hu": "Válasszon üvegfalú éttermet a tökéletes folyami kilátás érdekében.",
                 "ro": "Alegeți un restaurant cu fațadă de sticlă pentru o vedere perfectă spre râu.",
-                "en": "Choose a restaurant with a glass front for the perfect river view."
+                "en": "Choose a restaurant with a glass front for the perfect river view.",
+                "es": "Elige un restaurante con fachada acristalada para la mejor vista al río."
               }
             }
           ],
@@ -633,6 +681,13 @@
               "Book winery tours in advance as they are popular indoor escapes during rain.",
               "Use the Fábrica de Hielo center as an informative sanctuary in the afternoon.",
               "A folding umbrella is more practical in the narrow streets than a long one."
+            ],
+            "es": [
+              "Lleva calzado antideslizante, las piedras del Barrio Alto se vuelven resbaladizas.",
+              "El mercado es el lugar más seco para disfrutar de un café matutino cómodo.",
+              "Reserva las visitas a las bodegas con antelación; son un refugio interior muy solicitado cuando llueve.",
+              "Utiliza el centro Fábrica de Hielo como un refugio informativo por la tarde.",
+              "Un paraguas plegable es más práctico en las calles estrechas que uno largo."
             ]
           }
         },
@@ -641,7 +696,8 @@
             "de": "Genießen Sie die milde Wintersonne Andalusiens auf dem Markt, wo der heiße Kaffee am Morgen besonders gut schmeckt. Die kühle Brise weht durch die Bögen von Las Covachas und trägt den Duft des Winters in sich.\n\nMittags erstrahlt die Kirche Nuestra Señora de la O im weichen Licht der tiefstehenden Sonne. Im Castillo de Santiago bietet der Turm einen klaren Blick auf die Mündung des Guadalquivir, während die Winterluft die Sicht schärft.\n\nNachmittags ist die ideale Zeit für eine Manzanilla-Verkostung bei Barbadillo, die von innen wärmt. Im Besucherzentrum erfahren Sie alles über Doñana, bevor die Sonne früh hinter dem Horizont verschwindet.\n\nZum Abendessen in Bajo de Guía erleben Sie einen spektakulären Wintersonnenuntergang über dem Fluss. Die Restaurants sind nun gemütliche Rückzugsorte, wo man bei regionalen Spezialitäten den Tag entspannt ausklingen lässt.",
             "hu": "Élvezze Andalúzia enyhe téli napsütését a piacon, ahol a reggeli forró kávé különösen jól esik. A friss szellő átfúj a Las Covachas ívei alatt, magával hozva az óceán téli illatát.\n\nDélben a Nuestra Señora de la O templom lágy fényben úszik az alacsonyan járó nap alatt. A Castillo de Santiago tornyából télen különösen éles és tiszta kilátás nyílik a Guadalquivir torkolatára.\n\nA délután tökéletes egy Manzanilla kóstolóra a Barbadillo pincészetben, ami belülről melegít. A látogatóközpontban elmélyülhet a természet titkaiban, mielőtt a nap korán nyugovóra térne.\n\nAz esti vacsora Bajo de Guía-ban a folyó feletti látványos téli naplementével kezdődik. Az éttermek ilyenkor meghitt menedékek, ahol a helyi finomságok mellett pihenheti ki a nap fáradalmait.",
             "ro": "Bucurați-vă de soarele blând de iarnă al Andaluziei în piață, unde cafeaua fierbinte de dimineață are un gust special. Briza răcoroasă trece prin arcadele Las Covachas, aducând parfumul iernii de pe coastă.\n\nLa prânz, biserica Nuestra Señora de la O strălucește în lumina caldă a soarelui de iarnă. Din turnul Castillo de Santiago, aerul rece oferă o vizibilitate excepțională asupra gurii de vărsare a râului Guadalquivir.\n\nDupă-amiaza este momentul ideal pentru o degustare de Manzanilla la Barbadillo, care vă va încălzi. La centrul de vizitatori, aflați secretele parcului Doñana înainte ca soarele să apună devreme la orizont.\n\nPentru cină în Bajo de Guía, admirați un apus de iarnă spectaculos peste fluviu. Restaurantele sunt acum refugii primitoare, unde puteți încheia ziua relaxat cu specialități regionale.",
-            "en": "Enjoy Andalusia's mild winter sun at the market, where a hot morning coffee feels particularly rewarding. The cool breeze blows through the arches of Las Covachas, carrying the crisp scent of winter.\n\nAt noon, the Church of Nuestra Señora de la O glows in the soft light of the low-hanging sun. From the tower of Castillo de Santiago, the winter air provides exceptional clarity for views over the Guadalquivir estuary.\n\nThe afternoon is the perfect time for a Manzanilla tasting at Barbadillo to warm you up from inside. At the visitor center, explore the secrets of Doñana before the sun makes its early descent.\n\nFor dinner at Bajo de Guía, witness a spectacular winter sunset over the river. The restaurants are now cozy havens where you can relax and end the day with local culinary specialties."
+            "en": "Enjoy Andalusia's mild winter sun at the market, where a hot morning coffee feels particularly rewarding. The cool breeze blows through the arches of Las Covachas, carrying the crisp scent of winter.\n\nAt noon, the Church of Nuestra Señora de la O glows in the soft light of the low-hanging sun. From the tower of Castillo de Santiago, the winter air provides exceptional clarity for views over the Guadalquivir estuary.\n\nThe afternoon is the perfect time for a Manzanilla tasting at Barbadillo to warm you up from inside. At the visitor center, explore the secrets of Doñana before the sun makes its early descent.\n\nFor dinner at Bajo de Guía, witness a spectacular winter sunset over the river. The restaurants are now cozy havens where you can relax and end the day with local culinary specialties.",
+            "es": "Disfruta del suave sol invernal de Andalucía en el mercado, donde un café caliente por la mañana resulta especialmente reconfortante. La brisa fresca atraviesa los arcos de Las Covachas, llevando el aroma nítido del invierno.\n\nAl mediodía, la Iglesia de Nuestra Señora de la O se ilumina con la luz suave del sol bajo. Desde la torre del Castillo de Santiago, el aire invernal ofrece una claridad excepcional para ver la ría del Guadalquivir.\n\nLa tarde es el momento perfecto para una cata de Manzanilla en Barbadillo que te calentará desde dentro. En el centro de visitantes, explora los secretos de Doñana antes de que el sol descienda temprano.\n\nPara la cena en Bajo de Guía, contempla un espectacular atardecer invernal sobre el río. Los restaurantes son ahora acogedores refugios donde relajarte y terminar el día con especialidades locales."
           },
           "stops": [
             {
@@ -650,7 +706,8 @@
                 "de": "Probieren Sie churros con chocolate, um sich am kühlen Morgen aufzuwärmen.",
                 "hu": "Kóstolja meg a churros-t forró csokoládéval a hűvös reggeli órákban.",
                 "ro": "Încercați churros cu ciocolată pentru a vă încălzi în dimineața răcoroasă.",
-                "en": "Try churros with hot chocolate to warm up during the cool morning."
+                "en": "Try churros with hot chocolate to warm up during the cool morning.",
+                "es": "Prueba churros con chocolate caliente para entrar en calor en la fresca mañana."
               }
             },
             {
@@ -659,7 +716,8 @@
                 "de": "Das Winterlicht hebt die steinernen Skulpturen besonders plastisch hervor.",
                 "hu": "A téli fények különösen plasztikusan emelik ki a kőfaragványokat.",
                 "ro": "Lumina de iarnă scoate în evidență sculpturile din piatră într-un mod deosebit.",
-                "en": "The winter light highlights the stone carvings with exceptional clarity."
+                "en": "The winter light highlights the stone carvings with exceptional clarity.",
+                "es": "La luz invernal resalta las tallas en piedra con claridad excepcional."
               }
             },
             {
@@ -668,7 +726,8 @@
                 "de": "Im Inneren herrscht eine angenehme Kühle, die wärmer als die Winterbrise ist.",
                 "hu": "A belső tér kellemes hűvöse melegebbnek hat a kinti téli szélnél.",
                 "ro": "Interiorul oferă o răcoare plăcută, mai caldă decât briza de iarnă.",
-                "en": "The interior offers a pleasant coolness that feels warmer than the winter breeze."
+                "en": "The interior offers a pleasant coolness that feels warmer than the winter breeze.",
+                "es": "El interior ofrece una agradable frescura que se siente más cálida que la brisa invernal."
               }
             },
             {
@@ -677,7 +736,8 @@
                 "de": "Die Fernsicht vom Turm ist im Winter wegen der klaren Luft am besten.",
                 "hu": "A kilátás a toronyból télen a legszebb a tiszta levegő miatt.",
                 "ro": "Vizibilitatea de la înălțime este optimă iarna datorită aerului curat.",
-                "en": "The long-distance view from the tower is best in winter due to clear air."
+                "en": "The long-distance view from the tower is best in winter due to clear air.",
+                "es": "La vista de larga distancia desde la torre es mejor en invierno por la claridad del aire."
               }
             },
             {
@@ -686,7 +746,8 @@
                 "de": "Die Keller haben im Winter eine konstante, angenehme Temperatur.",
                 "hu": "A pincék télen is állandó, kellemes hőmérsékletet biztosítanak.",
                 "ro": "Cramele mențin o temperatură constantă și plăcută chiar și iarna.",
-                "en": "The cellars maintain a constant, comfortable temperature even in winter."
+                "en": "The cellars maintain a constant, comfortable temperature even in winter.",
+                "es": "Las bodegas mantienen una temperatura constante y confortable incluso en invierno."
               }
             },
             {
@@ -695,7 +756,8 @@
                 "de": "Ein guter Ort, um die frühe Winterdämmerung am Fluss zu beobachten.",
                 "hu": "Kiváló hely a korai téli szürkület megfigyelésére a folyónál.",
                 "ro": "Un loc excelent pentru a observa amurgul timpuriu de iarnă pe fluviu.",
-                "en": "A great spot to observe the early winter twilight by the river."
+                "en": "A great spot to observe the early winter twilight by the river.",
+                "es": "Un gran lugar para observar el crepúsculo invernal temprano junto al río."
               }
             },
             {
@@ -704,7 +766,8 @@
                 "de": "Der Sonnenuntergang findet hier im Winter gegen 18:00 Uhr statt.",
                 "hu": "A naplemente itt télen 18:00 óra körül következik be.",
                 "ro": "Apusul de soare are loc aici iarna în jurul orei 18:00.",
-                "en": "The sunset takes place here around 18:00 in the winter."
+                "en": "The sunset takes place here around 18:00 in the winter.",
+                "es": "El atardecer aquí ocurre alrededor de las 18:00 en invierno."
               }
             }
           ],
@@ -736,6 +799,13 @@
               "Schedule outdoor activities before 17:30 as darkness falls early.",
               "The river breeze can be biting in winter; don't forget your scarf.",
               "Visit the Castillo in the late morning for the best photographic light."
+            ],
+            "es": [
+              "Vístete por capas para ajustar entre zonas soleadas y sombras frescas.",
+              "Las catas de Manzanilla son especialmente intensas y gratificantes con el tiempo más fresco.",
+              "Programa las actividades al aire libre antes de las 17:30, pues la oscuridad llega temprano.",
+              "La brisa del río puede ser cortante en invierno; no olvides la bufanda.",
+              "Visita el Castillo a media mañana para obtener la mejor luz para fotos."
             ]
           }
         }
@@ -754,7 +824,8 @@
             "de": "Palacio de Orleans-Borbón",
             "hu": "Orléans-Borbón palota",
             "ro": "Palatul Orleans-Borbón",
-            "en": "Palacio de Orleans-Borbón"
+            "en": "Palacio de Orleans-Borbón",
+            "es": "Palacio de Orleans-Borbón"
           },
           "coords": [
             -6.3515,
@@ -769,7 +840,8 @@
             "de": "Wunderschöne Gärten und neomaurischer Stil.",
             "hu": "Gyönyörű kertek és neomór stílus.",
             "ro": "Grădini superbe și stil neomaur.",
-            "en": "Stunning gardens and Neo-Moorish style."
+            "en": "Stunning gardens and Neo-Moorish style.",
+            "es": "Jardines magníficos y estilo neomudéjar."
           }
         },
         {
@@ -777,7 +849,8 @@
             "de": "Castillo de Santiago",
             "hu": "Szent Jakab vár",
             "ro": "Castelul Santiago",
-            "en": "Castillo de Santiago"
+            "en": "Castillo de Santiago",
+            "es": "Castillo de Santiago"
           },
           "coords": [
             -6.3508,
@@ -792,7 +865,8 @@
             "de": "Fahrradparkplätze vorhanden.",
             "hu": "Van kerékpárparkoló a várnál.",
             "ro": "Parcare disponibilă pentru biciclete.",
-            "en": "Bike parking available at the castle."
+            "en": "Bike parking available at the castle.",
+            "es": "Aparcamiento para bicicletas disponible en el castillo."
           }
         },
         {
@@ -800,7 +874,8 @@
             "de": "Mercado de Abastos",
             "hu": "Helyi piac",
             "ro": "Piața Centrală",
-            "en": "Mercado de Abastos"
+            "en": "Mercado de Abastos",
+            "es": "Mercado de Abastos"
           },
           "coords": [
             -6.3542,
@@ -815,7 +890,8 @@
             "de": "Kurzer Stopp für einen Snack.",
             "hu": "Gyors megálló egy kis harapnivalóért.",
             "ro": "Oprire scurtă pentru o gustare locală.",
-            "en": "Quick stop for a local snack."
+            "en": "Quick stop for a local snack.",
+            "es": "Parada rápida para un aperitivo local."
           }
         },
         {
@@ -823,7 +899,8 @@
             "de": "Bajo de Guía",
             "hu": "Bajo de Guía sétány",
             "ro": "Bajo de Guía",
-            "en": "Bajo de Guía"
+            "en": "Bajo de Guía",
+            "es": "Bajo de Guía"
           },
           "coords": [
             -6.3592,
@@ -838,7 +915,8 @@
             "de": "Radeln entlang der Strandpromenade.",
             "hu": "Tekeres a tengerparti sétány mentén.",
             "ro": "Pedalat de-a lungul falezei.",
-            "en": "Ride along the beach promenade."
+            "en": "Ride along the beach promenade.",
+            "es": "Recorre el paseo marítimo en bici."
           }
         },
         {
@@ -846,7 +924,8 @@
             "de": "Centro de Visitantes Fábrica de Hielo",
             "hu": "Jéggyár látogatóközpont",
             "ro": "Centrul Fábrica de Hielo",
-            "en": "Centro de Visitantes Fábrica de Hielo"
+            "en": "Centro de Visitantes Fábrica de Hielo",
+            "es": "Centro de Visitantes Fábrica de Hielo"
           },
           "coords": [
             -6.3575,
@@ -861,7 +940,8 @@
             "de": "Kühle Pause im Inneren.",
             "hu": "Hűvös pihenő a kiállításnál.",
             "ro": "Pauză răcoroasă în interior.",
-            "en": "Cool break inside the museum."
+            "en": "Cool break inside the museum.",
+            "es": "Descanso fresco dentro del museo."
           }
         },
         {
@@ -869,7 +949,8 @@
             "de": "Playa de la Calzada",
             "hu": "La Calzada strand",
             "ro": "Plaja de la Calzada",
-            "en": "Playa de la Calzada"
+            "en": "Playa de la Calzada",
+            "es": "Playa de la Calzada"
           },
           "coords": [
             -6.365,
@@ -884,7 +965,8 @@
             "de": "Berühmt für die Pferderennen.",
             "hu": "A híres lovasversenyek helyszíne.",
             "ro": "Faimoasă pentru cursele de cai.",
-            "en": "Famous for the beach horse races."
+            "en": "Famous for the beach horse races.",
+            "es": "Famosa por las carreras de caballos en la playa."
           }
         }
       ],
@@ -892,7 +974,8 @@
         "de": "Mit dem Fahrrad lässt sich Sanlúcar hervorragend erkunden. Starten Sie beim prächtigen Orleans-Borbón Palast und radeln Sie dann hinauf zum Schloss Santiago.\n\nMittags geht es entspannt durch die Altstadt zum Markt und weiter zur Promenade von Bajo de Guía, wo Sie direkt am Wasser Mittagessen können.\n\nDer Nachmittag bietet eine Fahrt entlang der Küste bis zur Playa de la Calzada, dem Austragungsort der berühmten sommerlichen Pferderennen.",
         "hu": "A kerékpár a legjobb módja a partvidék felfedezésének. Kezdje az Orleans-Borbón palotánál, majd tekerjen fel a várba a kilátásért.\n\nDélben guruljon le a piacra, majd folytassa az utat a folyóparti Bajo de Guía negyedbe egy könnyű ebédre.\n\nDélután élvezze a menetszelet a Playa de la Calzada homokos strandján, ahol augusztusban a látványos lovasversenyeket rendezik.",
         "ro": "Bicicleta este ideală pentru a vedea atât centrul, cât și zonele de plajă. Începeți la Palatul Orleans-Borbón și urcați apoi la Castelul Santiago.\n\nLa prânz, coborâți spre piață și continuați spre promenada Bajo de Guía pentru o masă cu vedere la Doñana.\n\nDupă-amiaza, pedalați de-a lungul plajei La Calzada, celebră pentru cursele de cai care au loc direct pe nisip.",
-        "en": "Cycling is the perfect way to see both the hills and the coast of Sanlúcar. Start at the Orleans-Borbón Palace and then ride up to Santiago Castle.\n\nAt midday, coast down through the market and head to the Bajo de Guía promenade for a lunch by the water.\n\nSpend your afternoon riding along the wide beach of La Calzada, where the legendary horse races take place every August."
+        "en": "Cycling is the perfect way to see both the hills and the coast of Sanlúcar. Start at the Orleans-Borbón Palace and then ride up to Santiago Castle.\n\nAt midday, coast down through the market and head to the Bajo de Guía promenade for a lunch by the water.\n\nSpend your afternoon riding along the wide beach of La Calzada, where the legendary horse races take place every August.",
+        "es": "El ciclismo es la forma perfecta de ver tanto las colinas como la costa de Sanlúcar. Empieza en el Palacio de Orleans-Borbón y sube hasta el Castillo de Santiago.\n\nAl mediodía, desciende por el mercado y dirígete al paseo de Bajo de Guía para almorzar junto al agua.\n\nPasa la tarde pedaleando por la amplia playa de La Calzada, donde se celebran las legendarias carreras de caballos cada agosto."
       },
       "gastro_picks": {
         "de": [
@@ -996,6 +1079,11 @@
           "Be mindful of the wind when riding near the beach.",
           "Bike rentals are available near the tourism office.",
           "Coastal paths are flat and very easy for all levels."
+        ],
+        "es": [
+          "Ten en cuenta el viento al circular cerca de la playa.",
+          "Alquiler de bicicletas disponible cerca de la oficina de turismo.",
+          "Los senderos costeros son llanos y muy fáciles para todos los niveles."
         ]
       },
       "variants": {
@@ -1004,7 +1092,8 @@
             "de": "Mit dem Fahrrad lässt sich Sanlúcar hervorragend erkunden. Starten Sie beim prächtigen Orleans-Borbón Palast und radeln Sie dann hinauf zum Schloss Santiago.\n\nMittags geht es entspannt durch die Altstadt zum Markt und weiter zur Promenade von Bajo de Guía, wo Sie direkt am Wasser Mittagessen können.\n\nDer Nachmittag bietet eine Fahrt entlang der Küste bis zur Playa de la Calzada, dem Austragungsort der berühmten sommerlichen Pferderennen.",
             "hu": "A kerékpár a legjobb módja a partvidék felfedezésének. Kezdje az Orleans-Borbón palotánál, majd tekerjen fel a várba a kilátásért.\n\nDélben guruljon le a piacra, majd folytassa az utat a folyóparti Bajo de Guía negyedbe egy könnyű ebédre.\n\nDélután élvezze a menetszelet a Playa de la Calzada homokos strandján, ahol augusztusban a látványos lovasversenyeket rendezik.",
             "ro": "Bicicleta este ideală pentru a vedea atât centrul, cât și zonele de plajă. Începeți la Palatul Orleans-Borbón și urcați apoi la Castelul Santiago.\n\nLa prânz, coborâți spre piață și continuați spre promenada Bajo de Guía pentru o masă cu vedere la Doñana.\n\nDupă-amiaza, pedalați de-a lungul plajei La Calzada, celebră pentru cursele de cai care au loc direct pe nisip.",
-            "en": "Cycling is the perfect way to see both the hills and the coast of Sanlúcar. Start at the Orleans-Borbón Palace and then ride up to Santiago Castle.\n\nAt midday, coast down through the market and head to the Bajo de Guía promenade for a lunch by the water.\n\nSpend your afternoon riding along the wide beach of La Calzada, where the legendary horse races take place every August."
+            "en": "Cycling is the perfect way to see both the hills and the coast of Sanlúcar. Start at the Orleans-Borbón Palace and then ride up to Santiago Castle.\n\nAt midday, coast down through the market and head to the Bajo de Guía promenade for a lunch by the water.\n\nSpend your afternoon riding along the wide beach of La Calzada, where the legendary horse races take place every August.",
+            "es": "El ciclismo es la forma perfecta de ver tanto las colinas como la costa de Sanlúcar. Empieza en el Palacio de Orleans-Borbón y sube hasta el Castillo de Santiago.\n\nAl mediodía, desciende por el mercado y dirígete al paseo de Bajo de Guía para almorzar junto al agua.\n\nPasa la tarde pedaleando por la amplia playa de La Calzada, donde se celebran las legendarias carreras de caballos cada agosto."
           },
           "stops": [
             {
@@ -1012,13 +1101,15 @@
                 "de": "Palacio de Orleans-Borbón",
                 "hu": "Orléans-Borbón palota",
                 "ro": "Palatul Orleans-Borbón",
-                "en": "Palacio de Orleans-Borbón"
+                "en": "Palacio de Orleans-Borbón",
+                "es": "Palacio de Orleans-Borbón"
               },
               "tip_5lang": {
                 "de": "Wunderschöne Gärten und neomaurischer Stil.",
                 "hu": "Gyönyörű kertek és neomór stílus.",
                 "ro": "Grădini superbe și stil neomaur.",
-                "en": "Stunning gardens and Neo-Moorish style."
+                "en": "Stunning gardens and Neo-Moorish style.",
+                "es": "Jardines espectaculares y estilo neomudéjar."
               }
             },
             {
@@ -1026,13 +1117,15 @@
                 "de": "Castillo de Santiago",
                 "hu": "Szent Jakab vár",
                 "ro": "Castelul Santiago",
-                "en": "Castillo de Santiago"
+                "en": "Castillo de Santiago",
+                "es": "Castillo de Santiago"
               },
               "tip_5lang": {
                 "de": "Fahrradparkplätze vorhanden.",
                 "hu": "Van kerékpárparkoló a várnál.",
                 "ro": "Parcare disponibilă pentru biciclete.",
-                "en": "Bike parking available at the castle."
+                "en": "Bike parking available at the castle.",
+                "es": "Aparcamiento para bicicletas disponible en el castillo."
               }
             },
             {
@@ -1040,13 +1133,15 @@
                 "de": "Mercado de Abastos",
                 "hu": "Helyi piac",
                 "ro": "Piața Centrală",
-                "en": "Mercado de Abastos"
+                "en": "Mercado de Abastos",
+                "es": "Mercado de Abastos"
               },
               "tip_5lang": {
                 "de": "Kurzer Stopp für einen Snack.",
                 "hu": "Gyors megálló egy kis harapnivalóért.",
                 "ro": "Oprire scurtă pentru o gustare locală.",
-                "en": "Quick stop for a local snack."
+                "en": "Quick stop for a local snack.",
+                "es": "Parada rápida para un aperitivo local."
               }
             },
             {
@@ -1054,13 +1149,15 @@
                 "de": "Bajo de Guía",
                 "hu": "Bajo de Guía sétány",
                 "ro": "Bajo de Guía",
-                "en": "Bajo de Guía"
+                "en": "Bajo de Guía",
+                "es": "Bajo de Guía"
               },
               "tip_5lang": {
                 "de": "Radeln entlang der Strandpromenade.",
                 "hu": "Tekeres a tengerparti sétány mentén.",
                 "ro": "Pedalat de-a lungul falezei.",
-                "en": "Ride along the beach promenade."
+                "en": "Ride along the beach promenade.",
+                "es": "Recorre el paseo marítimo en bici."
               }
             },
             {
@@ -1068,13 +1165,15 @@
                 "de": "Centro de Visitantes Fábrica de Hielo",
                 "hu": "Jéggyár látogatóközpont",
                 "ro": "Centrul Fábrica de Hielo",
-                "en": "Centro de Visitantes Fábrica de Hielo"
+                "en": "Centro de Visitantes Fábrica de Hielo",
+                "es": "Centro de Visitantes Fábrica de Hielo"
               },
               "tip_5lang": {
                 "de": "Kühle Pause im Inneren.",
                 "hu": "Hűvös pihenő a kiállításnál.",
                 "ro": "Pauză răcoroasă în interior.",
-                "en": "Cool break inside the museum."
+                "en": "Cool break inside the museum.",
+                "es": "Descanso fresco dentro del museo."
               }
             },
             {
@@ -1082,13 +1181,15 @@
                 "de": "Playa de la Calzada",
                 "hu": "La Calzada strand",
                 "ro": "Plaja de la Calzada",
-                "en": "Playa de la Calzada"
+                "en": "Playa de la Calzada",
+                "es": "Playa de la Calzada"
               },
               "tip_5lang": {
                 "de": "Berühmt für die Pferderennen.",
                 "hu": "A híres lovasversenyek helyszíne.",
                 "ro": "Faimoasă pentru cursele de cai.",
-                "en": "Famous for the beach horse races."
+                "en": "Famous for the beach horse races.",
+                "es": "Famosa por las carreras de caballos en la playa."
               }
             }
           ],
@@ -1194,6 +1295,11 @@
               "Be mindful of the wind when riding near the beach.",
               "Bike rentals are available near the tourism office.",
               "Coastal paths are flat and very easy for all levels."
+            ],
+            "es": [
+              "Ten en cuenta el viento al circular cerca de la playa.",
+              "Alquiler de bicicletas disponible cerca de la oficina de turismo.",
+              "Los senderos costeros son llanos y muy fáciles para todos los niveles."
             ]
           }
         },
@@ -1202,7 +1308,8 @@
             "de": "Ein regnerischer Radtag beginnt am Palacio de Orleans-Borbón, dessen Fassade im Regen glänzt. Achten Sie auf die rutschigen Wege im Garten.\n\nDas Castillo de Santiago bietet trockene Hallen für eine Pause. Danach geht es zum Markt, um unter dem Dach Energie zu tanken.\n\nNachmittags radeln Sie vorsichtig zum Fluss. Die Fábrica de Hielo ist das perfekte Ziel, um das Rad zu parken und drinnen zu bleiben.\n\nDen Tag beenden Sie am Strand von La Calzada. Der Regen auf dem Meer bietet eine melancholische, aber wunderschöne Kulisse beim Radeln.",
             "hu": "Az esős bringás nap a Palacio de Orleans-Borbónnál indul, melynek homlokzata fénylik a víztől. Vigyázzon a kert csúszós ösvényein.\n\nA Castillo de Santiago száraz termei tökéletesek egy pihenőhöz. Ezután irány a piac, hogy a fedett tető alatt új erőre kapjon.\n\nDélután tekerjen óvatosan a folyópartra. A Fábrica de Hielo ideális célpont, hogy leparkoljon és bent maradjon a szárazon.\n\nA napot a Playa de la Calzada-nál zárja. Az eső a tenger felett melankolikus, de gyönyörű látványt nyújt kerékpározás közben.",
             "ro": "O zi ploioasă de ciclism începe la Palacio de Orleans-Borbón, a cărui fațadă strălucește sub ploaie. Atenție la aleile alunecoase din grădină.\n\nCastillo de Santiago oferă săli uscate pentru o pauză binevenită. Apoi, mergeți la piață pentru a vă reîncărca energiile sub acoperiș.\n\nDupă-amiaza, pedalați cu atenție spre râu. Fábrica de Hielo este destinația perfectă pentru a parca bicicleta și a rămâne la adăpost.\n\nÎncheiați ziua la Playa de la Calzada. Ploaia peste mare oferă un decor melancolic, dar superb în timp ce pedalați pe faleză.",
-            "en": "A rainy cycling day starts at Palacio de Orleans-Borbón, its facade gleaming in the wet. Be careful on the slippery garden paths.\n\nCastillo de Santiago offers dry halls for a needed break. Then, head to the market to recharge under the protective roof.\n\nIn the afternoon, cycle carefully towards the river. The Fábrica de Hielo is the perfect destination to park your bike and stay dry inside.\n\nEnd your day at Playa de la Calzada. The rain over the sea provides a melancholic but beautiful backdrop for your ride."
+            "en": "A rainy cycling day starts at Palacio de Orleans-Borbón, its facade gleaming in the wet. Be careful on the slippery garden paths.\n\nCastillo de Santiago offers dry halls for a needed break. Then, head to the market to recharge under the protective roof.\n\nIn the afternoon, cycle carefully towards the river. The Fábrica de Hielo is the perfect destination to park your bike and stay dry inside.\n\nEnd your day at Playa de la Calzada. The rain over the sea provides a melancholic but beautiful backdrop for your ride.",
+            "es": "Un día de lluvia en bici comienza en el Palacio de Orleans-Borbón, su fachada brillando con la humedad. Ten cuidado en los senderos del jardín, resbaladizos.\n\nEl Castillo de Santiago ofrece salas secas para un descanso necesario. Luego, dirígete al mercado para recargar energías bajo su techo protector.\n\nPor la tarde, pedalea con precaución hacia el río. La Fábrica de Hielo es el destino perfecto para dejar la bici y resguardarte en su interior.\n\nTermina el día en la Playa de la Calzada. La lluvia sobre el mar crea un telón melancólico pero bello para tu recorrido."
           },
           "stops": [
             {
@@ -1211,7 +1318,8 @@
                 "de": "Vorsicht vor rutschigen Kacheln im Außenbereich bei Regen.",
                 "hu": "Vigyázzon a csúszós csempékkel a külső részeken esőben.",
                 "ro": "Atenție la plăcile alunecoase din exterior pe timp de ploaie.",
-                "en": "Watch out for slippery tiles in the outdoor areas when it rains."
+                "en": "Watch out for slippery tiles in the outdoor areas when it rains.",
+                "es": "Cuidado con las baldosas resbaladizas en las zonas exteriores cuando llueve."
               }
             },
             {
@@ -1220,7 +1328,8 @@
                 "de": "Nutzen Sie den überdachten Innenhof für eine kurze Radpause.",
                 "hu": "Használja a fedett belső udvart egy rövid pihenőre.",
                 "ro": "Folosiți curtea interioară acoperită pentru o scurtă pauză.",
-                "en": "Use the covered inner courtyard for a short cycling break."
+                "en": "Use the covered inner courtyard for a short cycling break.",
+                "es": "Utiliza el patio cubierto para una breve pausa ciclista."
               }
             },
             {
@@ -1229,7 +1338,8 @@
                 "de": "Sichere Fahrradständer befinden sich in der Nähe des Haupteingangs.",
                 "hu": "Biztonságos kerékpártárolók találhatók a főbejárat közelében.",
                 "ro": "Suporturi sigure pentru biciclete se află lângă intrarea principală.",
-                "en": "Secure bike racks are located near the main entrance."
+                "en": "Secure bike racks are located near the main entrance.",
+                "es": "Hay aparcabicis seguros junto a la entrada principal."
               }
             },
             {
@@ -1238,7 +1348,8 @@
                 "de": "Der Radweg am Fluss ist auch bei Regen gut befahrbar.",
                 "hu": "A folyóparti kerékpárút esőben is jól járható marad.",
                 "ro": "Pista de biciclete de pe malul râului este accesibilă și pe ploaie.",
-                "en": "The riverside bike path remains easily navigable even in rain."
+                "en": "The riverside bike path remains easily navigable even in rain.",
+                "es": "El carril bici junto al río sigue siendo fácilmente transitable incluso con lluvia."
               }
             },
             {
@@ -1247,7 +1358,8 @@
                 "de": "Idealer Ort, um das Rad für eine Stunde im Trockenen zu lassen.",
                 "hu": "Ideális hely, hogy a bringát egy órára szárazon hagyja.",
                 "ro": "Loc ideal pentru a lăsa bicicleta la uscat timp de o oră.",
-                "en": "Ideal place to leave your bike in the dry for an hour."
+                "en": "Ideal place to leave your bike in the dry for an hour.",
+                "es": "Lugar ideal para dejar tu bici en seco durante una hora."
               }
             },
             {
@@ -1256,7 +1368,8 @@
                 "de": "Der nasse Sand ist fest, aber achten Sie auf Pfützen am Weg.",
                 "hu": "A nedves homok kemény, de ügyeljen a tócsákra az úton.",
                 "ro": "Nisipul umed este ferm, dar atenție la bălțile de pe drum.",
-                "en": "The wet sand is firm, but watch out for puddles on the path."
+                "en": "The wet sand is firm, but watch out for puddles on the path.",
+                "es": "La arena húmeda está firme, pero cuidado con los charcos en el sendero."
               }
             }
           ],
@@ -1288,6 +1401,13 @@
               "A rain poncho protects you better than an umbrella while cycling.",
               "Always park under eaves to keep your saddle dry.",
               "The coastal road can be challenging in windy and rainy conditions."
+            ],
+            "es": [
+              "Revisa los frenos; reaccionan más lentamente cuando están mojados.",
+              "Evita las señales viales blancas; son muy resbaladizas cuando están mojadas.",
+              "Un chubasquero protege mejor que un paraguas mientras vas en bici.",
+              "Aparca siempre bajo aleros para mantener el sillín seco.",
+              "La carretera costera puede ser exigente con viento y lluvia."
             ]
           }
         },
@@ -1296,7 +1416,8 @@
             "de": "Starten Sie Ihre Wintertour am Palacio de Orleans-Borbón. Die klare Luft lässt die Farben der Gärten besonders leuchten.\n\nIm Castillo de Santiago genießen Sie die Aussicht ohne die Sommerhitze. Die Fahrt zum Markt ist bei der kühlen Brise erfrischend.\n\nMittags radeln Sie am Fluss entlang nach Bajo de Guía. Die tiefstehende Wintersonne glitzert herrlich auf dem Wasser des Guadalquivir.\n\nDer Abschluss an der Playa de la Calzada bietet bei Sonnenuntergang eine magische Atmosphäre. Die Winterruhe am Strand ist perfekt für Radfahrer.",
             "hu": "Indítsa téli túráját a Palacio de Orleans-Borbónnál. A tiszta levegőben a kertek színei különösen ragyognak.\n\nA Castillo de Santiago tornyában élvezze a kilátást a nyári hőség nélkül. A piac felé gurulni frissítő a hűvös szélben.\n\nDélben tekerjen a folyó mentén Bajo de Guía irányába. Az alacsonyan járó téli nap gyönyörűen csillog a Guadalquivir vizén.\n\nA Playa de la Calzada-nál tett zárás a naplementében varázslatos hangulatot áraszt. A strand téli nyugalma tökéletes a bringásoknak.",
             "ro": "Începeți turul de iarnă la Palacio de Orleans-Borbón. Aerul curat face ca culorile grădinilor să fie deosebit de vii.\n\nLa Castillo de Santiago, bucurați-vă de priveliște fără arșița verii. Drumul spre piață este răcoritor în briza ușoară.\n\nLa prânz, pedalați de-a lungul râului spre Bajo de Guía. Soarele de iarnă strălucește superb pe apele fluviului Guadalquivir.\n\nFinalul la Playa de la Calzada oferă o atmosferă magică la apus. Liniștea iernii de pe plajă este perfectă pentru bicicliști.",
-            "en": "Start your winter tour at Palacio de Orleans-Borbón. The clear air makes the garden colors look exceptionally vivid.\n\nAt Castillo de Santiago, enjoy the views without the summer heat. The ride to the market is refreshing in the cool breeze.\n\nAt noon, cycle along the river towards Bajo de Guía. The low winter sun sparkles beautifully on the waters of the Guadalquivir.\n\nEnding at Playa de la Calzada offers a magical atmosphere at sunset. The winter tranquility of the beach is perfect for cyclists."
+            "en": "Start your winter tour at Palacio de Orleans-Borbón. The clear air makes the garden colors look exceptionally vivid.\n\nAt Castillo de Santiago, enjoy the views without the summer heat. The ride to the market is refreshing in the cool breeze.\n\nAt noon, cycle along the river towards Bajo de Guía. The low winter sun sparkles beautifully on the waters of the Guadalquivir.\n\nEnding at Playa de la Calzada offers a magical atmosphere at sunset. The winter tranquility of the beach is perfect for cyclists.",
+            "es": "Comienza tu ruta invernal en el Palacio de Orleans-Borbón. El aire claro hace que los colores del jardín se vean excepcionalmente vivos.\n\nEn el Castillo de Santiago, disfruta de las vistas sin el calor veraniego. El trayecto hacia el mercado es refrescante con la brisa fresca.\n\nAl mediodía, pedalea junto al río hacia Bajo de Guía. El sol bajo de invierno brilla hermosamente en las aguas del Guadalquivir.\n\nTerminar en la Playa de la Calzada ofrece una atmósfera mágica al atardecer. La tranquilidad invernal de la playa es perfecta para ciclistas."
           },
           "stops": [
             {
@@ -1305,7 +1426,8 @@
                 "de": "Die Gärten sind im Winter weniger überlaufen; genießen Sie die Ruhe.",
                 "hu": "A kertek télen kevésbé zsúfoltak; élvezze a nyugalmat.",
                 "ro": "Grădinile sunt mai puțin aglomerate iarna; bucurați-vă de liniște.",
-                "en": "The gardens are less crowded in winter; enjoy the peace."
+                "en": "The gardens are less crowded in winter; enjoy the peace.",
+                "es": "Los jardines están menos concurridos en invierno; disfruta de la calma."
               }
             },
             {
@@ -1314,7 +1436,8 @@
                 "de": "Die kühle Luft macht den Aufstieg zum Turm sehr angenehm.",
                 "hu": "A hűvös levegő miatt a toronymászás sokkal kellemesebb.",
                 "ro": "Aerul răcoros face urcarea în turn foarte plăcută.",
-                "en": "The cool air makes the climb to the tower very pleasant."
+                "en": "The cool air makes the climb to the tower very pleasant.",
+                "es": "El aire fresco hace muy agradable la subida a la torre."
               }
             },
             {
@@ -1323,7 +1446,8 @@
                 "de": "Ein heißer Pfefferminztee am Markt weckt die Lebensgeister.",
                 "hu": "Egy forró mentatea a piacon segít felfrissülni a túra közben.",
                 "ro": "Un ceai fierbinte de mentă în piață vă va revigora spiritul.",
-                "en": "A hot mint tea at the market will revitalize your spirits."
+                "en": "A hot mint tea at the market will revitalize your spirits.",
+                "es": "Un té caliente de menta en el mercado te revitalizará."
               }
             },
             {
@@ -1332,7 +1456,8 @@
                 "de": "Der Windschutz am Flussdeich macht das Radeln hier angenehm.",
                 "hu": "A folyóparti gát szélvédett oldala kellemessé teszi a tekerést.",
                 "ro": "Protecția împotriva vântului de pe dig face pedalarea plăcută.",
-                "en": "Wind protection by the river embankment makes cycling pleasant."
+                "en": "Wind protection by the river embankment makes cycling pleasant.",
+                "es": "La protección contra el viento junto al espigón hace el ciclismo agradable."
               }
             },
             {
@@ -1341,7 +1466,8 @@
                 "de": "Im Winter gibt es hier oft interessante temporäre Ausstellungen.",
                 "hu": "Télen gyakran láthatók itt érdekes időszaki kiállítások.",
                 "ro": "Iarna, aici se organizează adesea expoziții temporare interesante.",
-                "en": "In winter, there are often interesting temporary exhibitions here."
+                "en": "In winter, there are often interesting temporary exhibitions here.",
+                "es": "En invierno, a menudo hay exposiciones temporales interesantes aquí."
               }
             },
             {
@@ -1350,7 +1476,8 @@
                 "de": "Nutzen Sie das letzte Tageslicht gegen 17:45 Uhr für Fotos.",
                 "hu": "Használja ki az utolsó fényeket 17:45 körül a fotózáshoz.",
                 "ro": "Folosiți ultima lumină a zilei în jur de 17:45 pentru fotografii.",
-                "en": "Use the last daylight around 17:45 for spectacular photos."
+                "en": "Use the last daylight around 17:45 for spectacular photos.",
+                "es": "Aprovecha la última luz del día sobre las 17:45 para fotos espectaculares."
               }
             }
           ],
@@ -1382,6 +1509,13 @@
               "Be aware of the shortened winter opening hours of some local cafes.",
               "The beach sand is firmer in winter, making it easier to cycle on.",
               "Drink enough water despite the cold; the dry air can dehydrate."
+            ],
+            "es": [
+              "Los guantes son esenciales en los descensos por el Barrio Alto.",
+              "El sol está bajo; las gafas de sol evitarán deslumbramientos mientras pedaleas.",
+              "Ten en cuenta los horarios reducidos de algunos cafés en invierno.",
+              "La arena de la playa está más firme en invierno, lo que facilita el ciclismo.",
+              "Bebe suficiente agua a pesar del frío; el aire seco puede deshidratar."
             ]
           }
         }
@@ -1400,7 +1534,8 @@
             "de": "Castillo de Santiago",
             "hu": "Szent Jakab vár",
             "ro": "Castelul Santiago",
-            "en": "Castillo de Santiago"
+            "en": "Castillo de Santiago",
+            "es": "Castillo de Santiago"
           },
           "coords": [
             -6.3508,
@@ -1415,7 +1550,8 @@
             "de": "Parkplätze direkt unterhalb der Festung.",
             "hu": "Parkoló közvetlenül a vár alatt.",
             "ro": "Parcare chiar sub zidurile cetății.",
-            "en": "Parking available right below the fortress."
+            "en": "Parking available right below the fortress.",
+            "es": "Aparcamiento disponible justo debajo de la fortaleza."
           }
         },
         {
@@ -1423,7 +1559,8 @@
             "de": "Bodegas Barbadillo",
             "hu": "Barbadillo borpincék",
             "ro": "Bodegas Barbadillo",
-            "en": "Bodegas Barbadillo"
+            "en": "Bodegas Barbadillo",
+            "es": "Bodegas Barbadillo"
           },
           "coords": [
             -6.3531,
@@ -1438,7 +1575,8 @@
             "de": "Führungen müssen oft vorab gebucht werden.",
             "hu": "A pincetúrához érdemes előre foglalni.",
             "ro": "Tururile necesită rezervare prealabilă.",
-            "en": "Book your cellar tour in advance."
+            "en": "Book your cellar tour in advance.",
+            "es": "Reserva tu visita a la bodega con antelación."
           }
         },
         {
@@ -1446,7 +1584,8 @@
             "de": "Bajo de Guía",
             "hu": "Bajo de Guía sétány",
             "ro": "Bajo de Guía",
-            "en": "Bajo de Guía"
+            "en": "Bajo de Guía",
+            "es": "Bajo de Guía"
           },
           "coords": [
             -6.3592,
@@ -1461,7 +1600,8 @@
             "de": "Parkplatzsuche kann mittags schwierig sein.",
             "hu": "Délben nehéz lehet parkolóhelyet találni.",
             "ro": "Parcarea poate fi dificilă la orele prânzului.",
-            "en": "Parking can be tricky during lunch hours."
+            "en": "Parking can be tricky during lunch hours.",
+            "es": "El aparcamiento puede ser complicado a la hora del almuerzo."
           }
         },
         {
@@ -1469,7 +1609,8 @@
             "de": "Playa de la Jara",
             "hu": "La Jara strand",
             "ro": "Plaja de la Jara",
-            "en": "Playa de la Jara"
+            "en": "Playa de la Jara",
+            "es": "Playa de la Jara"
           },
           "coords": [
             -6.388,
@@ -1484,7 +1625,8 @@
             "de": "Ruhigerer Strand südlich des Zentrums.",
             "hu": "Csendesebb strand a központtól délre.",
             "ro": "O plajă mai liniștită la sud de centru.",
-            "en": "A quieter beach south of the center."
+            "en": "A quieter beach south of the center.",
+            "es": "Una playa más tranquila al sur del centro."
           }
         },
         {
@@ -1492,7 +1634,8 @@
             "de": "Mirador de Doñana",
             "hu": "Doñana kilátó",
             "ro": "Mirador de Doñana",
-            "en": "Mirador de Doñana"
+            "en": "Mirador de Doñana",
+            "es": "Mirador de Doñana"
           },
           "coords": [
             -6.357,
@@ -1507,7 +1650,8 @@
             "de": "Perfekt für Fotos vom Nationalpark.",
             "hu": "Tökéletes pont a nemzeti park fotózásához.",
             "ro": "Ideal pentru fotografii cu parcul național.",
-            "en": "Perfect spot for photos of the park."
+            "en": "Perfect spot for photos of the park.",
+            "es": "Lugar perfecto para fotografiar el parque."
           }
         }
       ],
@@ -1515,7 +1659,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die höher gelegenen Stadtteile und entlegenere Strände. Beginnen Sie beim Schloss und besuchen Sie danach eine der großen Bodegas.\n\nMittags fahren Sie zum Bajo de Guía, um die lokale Küche zu genießen. Danach bietet sich ein Ausflug zum abgelegeneren Playa de la Jara an.\n\nBeenden Sie den Tag mit einem Stopp an einem der Aussichtspunkte, bevor Sie die Stadt verlassen.",
         "hu": "Autóval könnyen elérheti a város magasabb részeit és a távolabbi strandokat is. Kezdjen a várnál, majd látogasson el a neves borászatok egyikébe.\n\nDélben hajtson le a folyópartra ebédelni, majd élvezze a délutánt a csendesebb La Jara strandon.\n\nA napot egy panorámás kilátóhelyen fejezze be, ahonnan búcsút vehet a folyótorkolattól.",
         "ro": "Cu mașina puteți explora rapid atât obiectivele istorice, cât și plajele mai îndepărtate. Începeți la castel și continuați cu o vizită la crame.\n\nPrânzul îl puteți lua în zona Bajo de Guía, iar după-amiaza mergeți la Playa de la Jara pentru mai multă liniște.\n\nÎncheiați ziua la un punct de belvedere de unde puteți admira intrarea râului în ocean.",
-        "en": "A car allows you to easily hop between the historic upper town and the wider beach areas. Start at the castle and move on to a local bodega tour.\n\nHead to Bajo de Guía for a high-quality lunch, then drive south to the more secluded Playa de la Jara for a relaxing afternoon.\n\nFinish your day with a stop at a viewpoint overlooking the Doñana marshes before heading out."
+        "en": "A car allows you to easily hop between the historic upper town and the wider beach areas. Start at the castle and move on to a local bodega tour.\n\nHead to Bajo de Guía for a high-quality lunch, then drive south to the more secluded Playa de la Jara for a relaxing afternoon.\n\nFinish your day with a stop at a viewpoint overlooking the Doñana marshes before heading out.",
+        "es": "Un coche te permite desplazarte fácilmente entre el casco histórico alto y las zonas de playa. Empieza en el castillo y sigue con una visita a una bodega local.\n\nVe a Bajo de Guía para un almuerzo de calidad, luego conduce hacia el sur hasta la más apartada Playa de la Jara para una tarde relajada.\n\nTermina el día con una parada en un mirador con vistas a las marismas de Doñana antes de partir."
       },
       "gastro_picks": {
         "de": [
@@ -1619,6 +1764,11 @@
           "Use the secure parking lots near the port.",
           "Don't drive after wine tastings at the bodegas.",
           "The historic center has very narrow one-way streets."
+        ],
+        "es": [
+          "Utiliza los aparcamientos vigilados cerca del puerto.",
+          "No conduzcas después de las catas en las bodegas.",
+          "El casco histórico tiene calles muy estrechas de sentido único."
         ]
       },
       "variants": {
@@ -1627,7 +1777,8 @@
             "de": "Mit dem Auto erreichen Sie bequem die höher gelegenen Stadtteile und entlegenere Strände. Beginnen Sie beim Schloss und besuchen Sie danach eine der großen Bodegas.\n\nMittags fahren Sie zum Bajo de Guía, um die lokale Küche zu genießen. Danach bietet sich ein Ausflug zum abgelegeneren Playa de la Jara an.\n\nBeenden Sie den Tag mit einem Stopp an einem der Aussichtspunkte, bevor Sie die Stadt verlassen.",
             "hu": "Autóval könnyen elérheti a város magasabb részeit és a távolabbi strandokat is. Kezdjen a várnál, majd látogasson el a neves borászatok egyikébe.\n\nDélben hajtson le a folyópartra ebédelni, majd élvezze a délutánt a csendesebb La Jara strandon.\n\nA napot egy panorámás kilátóhelyen fejezze be, ahonnan búcsút vehet a folyótorkolattól.",
             "ro": "Cu mașina puteți explora rapid atât obiectivele istorice, cât și plajele mai îndepărtate. Începeți la castel și continuați cu o vizită la crame.\n\nPrânzul îl puteți lua în zona Bajo de Guía, iar după-amiaza mergeți la Playa de la Jara pentru mai multă liniște.\n\nÎncheiați ziua la un punct de belvedere de unde puteți admira intrarea râului în ocean.",
-            "en": "A car allows you to easily hop between the historic upper town and the wider beach areas. Start at the castle and move on to a local bodega tour.\n\nHead to Bajo de Guía for a high-quality lunch, then drive south to the more secluded Playa de la Jara for a relaxing afternoon.\n\nFinish your day with a stop at a viewpoint overlooking the Doñana marshes before heading out."
+            "en": "A car allows you to easily hop between the historic upper town and the wider beach areas. Start at the castle and move on to a local bodega tour.\n\nHead to Bajo de Guía for a high-quality lunch, then drive south to the more secluded Playa de la Jara for a relaxing afternoon.\n\nFinish your day with a stop at a viewpoint overlooking the Doñana marshes before heading out.",
+            "es": "Un coche te permite desplazarte fácilmente entre el casco histórico alto y las zonas de playa. Empieza en el castillo y sigue con una visita a una bodega local.\n\nVe a Bajo de Guía para un almuerzo de calidad, luego conduce hacia el sur hasta la más apartada Playa de la Jara para una tarde relajada.\n\nTermina el día con una parada en un mirador con vistas a las marismas de Doñana antes de partir."
           },
           "stops": [
             {
@@ -1635,13 +1786,15 @@
                 "de": "Castillo de Santiago",
                 "hu": "Szent Jakab vár",
                 "ro": "Castelul Santiago",
-                "en": "Castillo de Santiago"
+                "en": "Castillo de Santiago",
+                "es": "Castillo de Santiago"
               },
               "tip_5lang": {
                 "de": "Parkplätze direkt unterhalb der Festung.",
                 "hu": "Parkoló közvetlenül a vár alatt.",
                 "ro": "Parcare chiar sub zidurile cetății.",
-                "en": "Parking available right below the fortress."
+                "en": "Parking available right below the fortress.",
+                "es": "Aparcamiento disponible justo debajo de la fortaleza."
               }
             },
             {
@@ -1649,13 +1802,15 @@
                 "de": "Bodegas Barbadillo",
                 "hu": "Barbadillo borpincék",
                 "ro": "Bodegas Barbadillo",
-                "en": "Bodegas Barbadillo"
+                "en": "Bodegas Barbadillo",
+                "es": "Bodegas Barbadillo"
               },
               "tip_5lang": {
                 "de": "Führungen müssen oft vorab gebucht werden.",
                 "hu": "A pincetúrához érdemes előre foglalni.",
                 "ro": "Tururile necesită rezervare prealabilă.",
-                "en": "Book your cellar tour in advance."
+                "en": "Book your cellar tour in advance.",
+                "es": "Reserva la visita a la bodega con antelación."
               }
             },
             {
@@ -1663,13 +1818,15 @@
                 "de": "Bajo de Guía",
                 "hu": "Bajo de Guía sétány",
                 "ro": "Bajo de Guía",
-                "en": "Bajo de Guía"
+                "en": "Bajo de Guía",
+                "es": "Bajo de Guía"
               },
               "tip_5lang": {
                 "de": "Parkplatzsuche kann mittags schwierig sein.",
                 "hu": "Délben nehéz lehet parkolóhelyet találni.",
                 "ro": "Parcarea poate fi dificilă la orele prânzului.",
-                "en": "Parking can be tricky during lunch hours."
+                "en": "Parking can be tricky during lunch hours.",
+                "es": "Aparcar puede ser complicado en horas de comida."
               }
             },
             {
@@ -1677,13 +1834,15 @@
                 "de": "Playa de la Jara",
                 "hu": "La Jara strand",
                 "ro": "Plaja de la Jara",
-                "en": "Playa de la Jara"
+                "en": "Playa de la Jara",
+                "es": "Playa de la Jara"
               },
               "tip_5lang": {
                 "de": "Ruhigerer Strand südlich des Zentrums.",
                 "hu": "Csendesebb strand a központtól délre.",
                 "ro": "O plajă mai liniștită la sud de centru.",
-                "en": "A quieter beach south of the center."
+                "en": "A quieter beach south of the center.",
+                "es": "Una playa más tranquila al sur del centro."
               }
             },
             {
@@ -1691,13 +1850,15 @@
                 "de": "Mirador de Doñana",
                 "hu": "Doñana kilátó",
                 "ro": "Mirador de Doñana",
-                "en": "Mirador de Doñana"
+                "en": "Mirador de Doñana",
+                "es": "Mirador de Doñana"
               },
               "tip_5lang": {
                 "de": "Perfekt für Fotos vom Nationalpark.",
                 "hu": "Tökéletes pont a nemzeti park fotózásához.",
                 "ro": "Ideal pentru fotografii cu parcul național.",
-                "en": "Perfect spot for photos of the park."
+                "en": "Perfect spot for photos of the park.",
+                "es": "Lugar perfecto para fotos del parque."
               }
             }
           ],
@@ -1803,6 +1964,11 @@
               "Use the secure parking lots near the port.",
               "Don't drive after wine tastings at the bodegas.",
               "The historic center has very narrow one-way streets."
+            ],
+            "es": [
+              "Utiliza los aparcamientos vigilados cerca del puerto.",
+              "No conduzcas después de las catas en las bodegas.",
+              "El casco histórico tiene calles muy estrechas de sentido único."
             ]
           }
         },
@@ -1811,7 +1977,8 @@
             "de": "Mit dem Auto erkunden Sie Sanlúcar bei Regen ganz entspannt. Starten Sie am Castillo de Santiago, wo Sie fast bis zum Eingang fahren können.\n\nMittags führt die kurze Fahrt zur Bodega Barbadillo. Während es draußen stürmt, genießen Sie drinnen die edlen Weine.\n\nNachmittags parken Sie in Bajo de Guía und beobachten den Regen auf dem Guadalquivir aus dem warmen Autoinnenraum oder einem Restaurant.\n\nEin Abstecher zur Playa de la Jara und zum Mirador zeigt die raue Schönheit der Natur im Regen, bevor Sie den Tag gemütlich beenden.",
             "hu": "Autóval az esős Sanlúcar is kényelmesen felfedezhető. Kezdje a Castillo de Santiago-nál, ahol szinte a bejáratig hajthat.\n\nDélben egy rövid út vezet a Barbadillo borászathoz. Amíg kint viharos az idő, bent élvezheti a nemes borokat.\n\nDélután parkoljon le Bajo de Guía-ban, és nézze a Guadalquivir eső áztatta hullámait a meleg autóból vagy egy étteremből.\n\nEgy kitérő a Playa de la Jara-hoz és a kilátóhoz megmutatja a természet nyers szépségét az esőben, mielőtt befejezné a napot.",
             "ro": "Cu mașina, explorați Sanlúcar pe ploaie în mod relaxat. Începeți la Castillo de Santiago, unde puteți conduce aproape până la intrare.\n\nLa prânz, un scurt drum vă duce la Bodega Barbadillo. În timp ce afară plouă torențial, savurați vinurile nobile în interior.\n\nDupă-amiaza, parcați la Bajo de Guía și observați ploaia pe Guadalquivir din interiorul cald al mașinii sau dintr-un restaurant.\n\nO oprire la Playa de la Jara și la Mirador vă arată frumusețea brută a naturii sub ploaie, înainte de a încheia ziua confortabil.",
-            "en": "Exploring Sanlúcar by car during rain is very relaxed. Start at Castillo de Santiago, where you can drive almost to the entrance.\n\nAt noon, a short drive leads to Bodega Barbadillo. While it storms outside, enjoy the fine wines in the dry interior.\n\nIn the afternoon, park at Bajo de Guía and watch the rain on the Guadalquivir from the warmth of your car or a restaurant.\n\nA detour to Playa de la Jara and the Mirador shows the raw beauty of nature in the rain before you end the day comfortably."
+            "en": "Exploring Sanlúcar by car during rain is very relaxed. Start at Castillo de Santiago, where you can drive almost to the entrance.\n\nAt noon, a short drive leads to Bodega Barbadillo. While it storms outside, enjoy the fine wines in the dry interior.\n\nIn the afternoon, park at Bajo de Guía and watch the rain on the Guadalquivir from the warmth of your car or a restaurant.\n\nA detour to Playa de la Jara and the Mirador shows the raw beauty of nature in the rain before you end the day comfortably.",
+            "es": "Explorar Sanlúcar en coche con lluvia es muy relajado. Empieza en el Castillo de Santiago, donde puedes conducir casi hasta la entrada.\n\nAl mediodía, un corto trayecto lleva a Bodegas Barbadillo. Mientras afuera truene, disfruta de los buenos vinos en el interior seco.\n\nPor la tarde, aparca en Bajo de Guía y contempla la lluvia sobre el Guadalquivir desde la calidez del coche o de un restaurante.\n\nUn desvío a la Playa de la Jara y al mirador muestra la belleza salvaje de la naturaleza con lluvia antes de terminar el día cómodamente."
           },
           "stops": [
             {
@@ -1820,7 +1987,8 @@
                 "de": "Parkplätze finden Sie direkt an den Mauern der Festung.",
                 "hu": "Parkolóhelyeket közvetlenül a várfalak mellett találhat.",
                 "ro": "Găsiți locuri de parcare chiar lângă zidurile fortăreței.",
-                "en": "You can find parking spaces directly next to the fortress walls."
+                "en": "You can find parking spaces directly next to the fortress walls.",
+                "es": "Puedes encontrar plazas de aparcamiento justo al lado de las murallas de la fortaleza."
               }
             },
             {
@@ -1829,7 +1997,8 @@
                 "de": "Nutzen Sie das Parkhaus im Zentrum, um trockenen Fußes zur Bodega zu kommen.",
                 "hu": "Használja a központi parkolóházat, hogy száraz lábbal érjen a pincéhez.",
                 "ro": "Folosiți parcarea centrală pentru a ajunge la cramă fără a vă uda.",
-                "en": "Use the central parking garage to reach the winery with dry feet."
+                "en": "Use the central parking garage to reach the winery with dry feet.",
+                "es": "Utiliza el aparcamiento central para llegar a la bodega con los pies secos."
               }
             },
             {
@@ -1838,7 +2007,8 @@
                 "de": "Der große Parkplatz am Ende der Promenade ist bei Regen oft leerer.",
                 "hu": "A sétány végén lévő nagy parkoló esőben gyakran üresebb.",
                 "ro": "Parcarea mare de la capătul falezei este adesea mai goală pe ploaie.",
-                "en": "The large parking lot at the end of the promenade is often emptier in the rain."
+                "en": "The large parking lot at the end of the promenade is often emptier in the rain.",
+                "es": "El gran aparcamiento al final del paseo suele estar más vacío cuando llueve."
               }
             },
             {
@@ -1847,7 +2017,8 @@
                 "de": "Fahren Sie vorsichtig auf den unbefestigten Wegen zum Strand.",
                 "hu": "Hajtson óvatosan a strandra vezető nem aszfaltozott utakon.",
                 "ro": "Conduceți cu atenție pe drumurile neasfaltate spre plajă.",
-                "en": "Drive carefully on the unpaved paths leading to the beach."
+                "en": "Drive carefully on the unpaved paths leading to the beach.",
+                "es": "Conduce con cuidado por los caminos sin asfaltar que llevan a la playa."
               }
             },
             {
@@ -1856,7 +2027,8 @@
                 "de": "Vom Auto aus hat man hier einen tollen Panoramablick bei Schietwetter.",
                 "hu": "Az autóból is remek panoráma nyílik rossz idő esetén.",
                 "ro": "Din mașină aveți o panoramă excelentă chiar și pe vreme rea.",
-                "en": "You can enjoy a great panoramic view from the car during bad weather."
+                "en": "You can enjoy a great panoramic view from the car during bad weather.",
+                "es": "Puedes disfrutar de una gran vista panorámica desde el coche en mal tiempo."
               }
             }
           ],
@@ -1888,6 +2060,13 @@
               "Use the windshield heater to prevent fogging inside the car.",
               "Some streets in Barrio Alto are very narrow and steep for cars when wet.",
               "Keep some change ready for the parking meters in the city center."
+            ],
+            "es": [
+              "Evita aparcar bajo árboles inestables durante fuertes vientos.",
+              "La visibilidad en la costa puede reducirse considerablemente con lluvia intensa.",
+              "Usa el desempañador del parabrisas para evitar el vaho en el interior del coche.",
+              "Algunas calles del Barrio Alto son muy estrechas y empinadas para los coches cuando están mojadas.",
+              "Ten algo de cambio listo para los parquímetros del centro."
             ]
           }
         },
@@ -1896,7 +2075,8 @@
             "de": "Im Winter bietet das Auto die Freiheit, Sanlúcar flexibel zu erkunden. Starten Sie früh am Castillo de Santiago, wenn das Licht noch weich ist.\n\nMittags ist die Fahrt durch die Weinberge zur Bodega Barbadillo ein Genuss für die Augen. Die Winterfarben der Reben sind einzigartig.\n\nNachmittags steuern Sie Bajo de Guía an. Es ist die beste Zeit für einen Spaziergang am Fluss, bevor Sie sich wieder ins warme Auto setzen.\n\nDer Abschluss an der Playa de la Jara bietet die perfekte Kulisse für den frühen Sonnenuntergang, den Sie bequem vom Mirador aus genießen können.",
             "hu": "Télen az autó szabadságot ad Sanlúcar rugalmas felfedezéséhez. Kezdjen korán a Castillo de Santiago-nál, amíg a fények lágyak.\n\nDélben a szőlőültetvényeken átvezető út a Barbadillo borászathoz igazi vizuális élmény. A tőkék téli színei egyediek.\n\nDélután irány Bajo de Guía. Ez a legjobb idő egy folyóparti sétára, mielőtt visszatérne a meleg autóba.\n\nA Playa de la Jara-nál tett zárás tökéletes helyszín a korai naplementéhez, amelyet kényelmesen élvezhet a kilátóból.",
             "ro": "Iarna, mașina vă oferă libertatea de a explora Sanlúcar flexibil. Începeți devreme la Castillo de Santiago, când lumina este încă blândă.\n\nLa prânz, drumul prin podgorii spre Bodega Barbadillo este o delectare vizuală. Culorile de iarnă ale viței de vie sunt unice.\n\nDupă-amiaza, mergeți spre Bajo de Guía. Este cel mai bun moment pentru o plimbare pe malul râului înainte de a reveni în mașina caldă.\n\nFinalul la Playa de la Jara oferă cadrul perfect pentru apusul timpuriu, pe care îl puteți admira confortabil de la Mirador.",
-            "en": "In winter, a car offers the freedom to explore Sanlúcar flexibly. Start early at Castillo de Santiago while the light is still soft.\n\nAt noon, the drive through the vineyards to Bodega Barbadillo is a treat for the eyes. The winter colors of the vines are unique.\n\nIn the afternoon, head to Bajo de Guía. It's the best time for a riverside walk before returning to your warm car.\n\nEnding at Playa de la Jara provides the perfect setting for the early sunset, which you can enjoy comfortably from the Mirador."
+            "en": "In winter, a car offers the freedom to explore Sanlúcar flexibly. Start early at Castillo de Santiago while the light is still soft.\n\nAt noon, the drive through the vineyards to Bodega Barbadillo is a treat for the eyes. The winter colors of the vines are unique.\n\nIn the afternoon, head to Bajo de Guía. It's the best time for a riverside walk before returning to your warm car.\n\nEnding at Playa de la Jara provides the perfect setting for the early sunset, which you can enjoy comfortably from the Mirador.",
+            "es": "En invierno, un coche ofrece la libertad de explorar Sanlúcar con flexibilidad. Empieza temprano en el Castillo de Santiago mientras la luz aún es suave.\n\nAl mediodía, el trayecto por los viñedos hasta Bodegas Barbadillo es un placer para la vista. Los colores invernales de las vides son únicos.\n\nPor la tarde, dirígete a Bajo de Guía. Es el mejor momento para un paseo junto al río antes de volver a tu coche caliente.\n\nTerminar en la Playa de la Jara ofrece el marco perfecto para el atardecer temprano, que puedes disfrutar cómodamente desde el mirador."
           },
           "stops": [
             {
@@ -1905,7 +2085,8 @@
                 "de": "Das Licht am Morgen ist im Winter perfekt für Panoramaaufnahmen.",
                 "hu": "A reggeli fények télen tökéletesek a panorámafotókhoz.",
                 "ro": "Lumina de dimineață este perfectă iarna pentru fotografii panoramice.",
-                "en": "The morning light in winter is perfect for panoramic shots."
+                "en": "The morning light in winter is perfect for panoramic shots.",
+                "es": "La luz matinal en invierno es perfecta para fotos panorámicas."
               }
             },
             {
@@ -1914,7 +2095,8 @@
                 "de": "Planen Sie die Anfahrt durch die Weinberge ein; sie ist im Winter malerisch.",
                 "hu": "Tervezze az utat a szőlőültetvényeken át; télen is festői a táj.",
                 "ro": "Planificați traseul prin podgorii; peisajul este pitoresc și iarna.",
-                "en": "Plan your drive through the vineyards; the scenery is picturesque in winter."
+                "en": "Plan your drive through the vineyards; the scenery is picturesque in winter.",
+                "es": "Planifica el trayecto por los viñedos; el paisaje es pintoresco en invierno."
               }
             },
             {
@@ -1923,7 +2105,8 @@
                 "de": "Parken Sie nah am Restaurant, um nach dem Sonnenuntergang schnell im Warmen zu sein.",
                 "hu": "Parkoljon közel az étteremhez, hogy naplemente után gyorsan melegbe érjen.",
                 "ro": "Parcați aproape de restaurant pentru a ajunge repede la căldură după apus.",
-                "en": "Park close to the restaurant to get back to the warmth quickly after sunset."
+                "en": "Park close to the restaurant to get back to the warmth quickly after sunset.",
+                "es": "Aparca cerca del restaurante para volver rápido al calor tras el ocaso."
               }
             },
             {
@@ -1932,7 +2115,8 @@
                 "de": "Der Strand ist im Winter fast menschenleer; ideal für einsame Fotos.",
                 "hu": "A strand télen szinte néptelen; ideális magányos fotókhoz.",
                 "ro": "Plaja este aproape pustie iarna; ideală pentru fotografii solitare.",
-                "en": "The beach is almost deserted in winter; ideal for solitary photos."
+                "en": "The beach is almost deserted in winter; ideal for solitary photos.",
+                "es": "La playa está casi desierta en invierno; ideal para fotos en soledad."
               }
             },
             {
@@ -1941,7 +2125,8 @@
                 "de": "Kommen Sie spätestens um 17:30 Uhr an, um den Sonnenuntergang zu sehen.",
                 "hu": "Érkezzen legkésőbb 17:30-ra, hogy láthassa a naplementét.",
                 "ro": "Sosiți cel târziu la 17:30 pentru a prinde apusul de soare.",
-                "en": "Arrive by 17:30 at the latest to catch the winter sunset."
+                "en": "Arrive by 17:30 at the latest to catch the winter sunset.",
+                "es": "Llega como máximo a las 17:30 para ver el atardecer invernal."
               }
             }
           ],
@@ -1973,6 +2158,13 @@
               "Check your tire pressure; the cold can slightly alter it.",
               "In winter, parking regulations near the beach are often less strict.",
               "Bring a blanket for breaks at windy lookout points."
+            ],
+            "es": [
+              "Usa la calefacción ya que el coche se enfría rápido tras paradas largas.",
+              "El sol bajo puede reducir la visibilidad al conducir hacia el oeste.",
+              "Revisa la presión de los neumáticos; el frío puede alterarla ligeramente.",
+              "En invierno, las normas de aparcamiento cerca de la playa suelen ser menos estrictas.",
+              "Lleva una manta para las paradas en miradores ventosos."
             ]
           }
         }
@@ -1991,7 +2183,8 @@
             "de": "Mercado de Abastos",
             "hu": "Helyi piac",
             "ro": "Piața Centrală",
-            "en": "Mercado de Abastos"
+            "en": "Mercado de Abastos",
+            "es": "Mercado de Abastos"
           },
           "coords": [
             -6.3542,
@@ -2006,7 +2199,8 @@
             "de": "Bushaltestelle in Gehweite.",
             "hu": "Buszmegálló pár perc sétára.",
             "ro": "Stație de autobuz la mică distanță.",
-            "en": "Bus stop within short walking distance."
+            "en": "Bus stop within short walking distance.",
+            "es": "Parada de autobús a poca distancia a pie."
           }
         },
         {
@@ -2014,7 +2208,8 @@
             "de": "Parroquia de Nuestra Señora de la O",
             "hu": "O-i Miasszonyunk templom",
             "ro": "Parohia Nuestra Señora de la O",
-            "en": "Parroquia de Nuestra Señora de la O"
+            "en": "Parroquia de Nuestra Señora de la O",
+            "es": "Parroquia de Nuestra Señora de la O"
           },
           "coords": [
             -6.3524,
@@ -2029,7 +2224,8 @@
             "de": "Mitten im historischen Viertel.",
             "hu": "A történelmi negyed központjában.",
             "ro": "În inima cartierului istoric.",
-            "en": "In the heart of the historic quarter."
+            "en": "In the heart of the historic quarter.",
+            "es": "En el corazón del barrio histórico."
           }
         },
         {
@@ -2037,7 +2233,8 @@
             "de": "Castillo de Santiago",
             "hu": "Szent Jakab vár",
             "ro": "Castelul Santiago",
-            "en": "Castillo de Santiago"
+            "en": "Castillo de Santiago",
+            "es": "Castillo de Santiago"
           },
           "coords": [
             -6.3508,
@@ -2052,7 +2249,8 @@
             "de": "Gute Anbindung mit dem Stadtbus.",
             "hu": "Jó helyi buszközlekedés.",
             "ro": "Acces bun cu autobuzul local.",
-            "en": "Good local bus connections."
+            "en": "Good local bus connections.",
+            "es": "Buenas conexiones de autobús local."
           }
         },
         {
@@ -2060,7 +2258,8 @@
             "de": "Bajo de Guía",
             "hu": "Bajo de Guía sétány",
             "ro": "Bajo de Guía",
-            "en": "Bajo de Guía"
+            "en": "Bajo de Guía",
+            "es": "Bajo de Guía"
           },
           "coords": [
             -6.3592,
@@ -2075,7 +2274,8 @@
             "de": "Endstation für viele Linien.",
             "hu": "Sok járat végállomása itt található.",
             "ro": "Capăt de linie pentru multe rute.",
-            "en": "Terminal stop for many bus lines."
+            "en": "Terminal stop for many bus lines.",
+            "es": "Parada terminal de muchas líneas de autobús."
           }
         },
         {
@@ -2083,7 +2283,8 @@
             "de": "Playa de la Calzada",
             "hu": "La Calzada strand",
             "ro": "Plaja de la Calzada",
-            "en": "Playa de la Calzada"
+            "en": "Playa de la Calzada",
+            "es": "Playa de la Calzada"
           },
           "coords": [
             -6.365,
@@ -2098,7 +2299,8 @@
             "de": "Leicht zu Fuß vom Hafen erreichbar.",
             "hu": "Könnyű séta a kikötőtől.",
             "ro": "Acces ușor pe jos din port.",
-            "en": "Easy walk from the port area."
+            "en": "Easy walk from the port area.",
+            "es": "Caminata fácil desde la zona del puerto."
           }
         }
       ],
@@ -2106,7 +2308,8 @@
         "de": "Sanlúcar lässt sich gut mit dem lokalen Bussystem erkunden. Starten Sie im Zentrum beim Markt und besichtigen Sie die historischen Sakralbauten.\n\nMittags bringt Sie der Bus direkt zum Hafenviertel Bajo de Guía, wo Sie hervorragend speisen können.\n\nDer Nachmittag am Strand ist der perfekte Abschluss, bevor Sie entspannt mit dem Bus zurückfahren.",
         "hu": "Sanlúcar helyi buszhálózata megbízható. Kezdje a központi piacon, majd nézze meg az óváros templomait.\n\nDélben menjen busszal a Bajo de Guía negyedbe egy tengeri ebédre.\n\nDélután élvezze a napsütést a strandon, ahonnan sűrűn indulnak járatok vissza a városba.",
         "ro": "Sistemul local de autobuze vă permite să vedeți principalele puncte de interes. Începeți la piață și vizitați monumentele din zona înaltă.\n\nLa prânz, autobuzul vă duce rapid la Bajo de Guía pentru specialități culinare.\n\nDupă-amiaza pe plajă este modul ideal de a încheia vizita înainte de a lua autobuzul spre casă.",
-        "en": "The local bus network is a convenient way to get around Sanlúcar. Start at the central market and visit the historic religious sites nearby.\n\nTake the bus to the Bajo de Guía district for a high-quality lunch by the river.\n\nA relaxing afternoon at the beach is the best way to end your day before heading back by public transport."
+        "en": "The local bus network is a convenient way to get around Sanlúcar. Start at the central market and visit the historic religious sites nearby.\n\nTake the bus to the Bajo de Guía district for a high-quality lunch by the river.\n\nA relaxing afternoon at the beach is the best way to end your day before heading back by public transport.",
+        "es": "La red de autobuses local es una manera cómoda de moverse por Sanlúcar. Empieza en el mercado central y visita los lugares religiosos históricos cercanos.\n\nToma el autobús hasta el barrio de Bajo de Guía para un almuerzo de calidad junto al río.\n\nUna tarde relajante en la playa es la mejor forma de terminar el día antes de volver en transporte público."
       },
       "gastro_picks": {
         "de": [
@@ -2210,6 +2413,11 @@
           "You can buy tickets directly from the driver.",
           "Check schedules at the main bus stops.",
           "Buses run less frequently on weekends."
+        ],
+        "es": [
+          "Puedes comprar billetes directamente al conductor.",
+          "Consulta los horarios en las principales paradas de autobús.",
+          "Los autobuses circulan con menos frecuencia los fines de semana."
         ]
       },
       "variants": {
@@ -2218,7 +2426,8 @@
             "de": "Sanlúcar lässt sich gut mit dem lokalen Bussystem erkunden. Starten Sie im Zentrum beim Markt und besichtigen Sie die historischen Sakralbauten.\n\nMittags bringt Sie der Bus direkt zum Hafenviertel Bajo de Guía, wo Sie hervorragend speisen können.\n\nDer Nachmittag am Strand ist der perfekte Abschluss, bevor Sie entspannt mit dem Bus zurückfahren.",
             "hu": "Sanlúcar helyi buszhálózata megbízható. Kezdje a központi piacon, majd nézze meg az óváros templomait.\n\nDélben menjen busszal a Bajo de Guía negyedbe egy tengeri ebédre.\n\nDélután élvezze a napsütést a strandon, ahonnan sűrűn indulnak járatok vissza a városba.",
             "ro": "Sistemul local de autobuze vă permite să vedeți principalele puncte de interes. Începeți la piață și vizitați monumentele din zona înaltă.\n\nLa prânz, autobuzul vă duce rapid la Bajo de Guía pentru specialități culinare.\n\nDupă-amiaza pe plajă este modul ideal de a încheia vizita înainte de a lua autobuzul spre casă.",
-            "en": "The local bus network is a convenient way to get around Sanlúcar. Start at the central market and visit the historic religious sites nearby.\n\nTake the bus to the Bajo de Guía district for a high-quality lunch by the river.\n\nA relaxing afternoon at the beach is the best way to end your day before heading back by public transport."
+            "en": "The local bus network is a convenient way to get around Sanlúcar. Start at the central market and visit the historic religious sites nearby.\n\nTake the bus to the Bajo de Guía district for a high-quality lunch by the river.\n\nA relaxing afternoon at the beach is the best way to end your day before heading back by public transport.",
+            "es": "La red de autobuses local es una manera cómoda de moverse por Sanlúcar. Empieza en el mercado central y visita los lugares religiosos históricos cercanos.\n\nToma el autobús hasta el barrio de Bajo de Guía para un almuerzo de calidad junto al río.\n\nUna tarde relajante en la playa es la mejor forma de terminar el día antes de volver en transporte público."
           },
           "stops": [
             {
@@ -2226,13 +2435,15 @@
                 "de": "Mercado de Abastos",
                 "hu": "Helyi piac",
                 "ro": "Piața Centrală",
-                "en": "Mercado de Abastos"
+                "en": "Mercado de Abastos",
+                "es": "Mercado de Abastos"
               },
               "tip_5lang": {
                 "de": "Bushaltestelle in Gehweite.",
                 "hu": "Buszmegálló pár perc sétára.",
                 "ro": "Stație de autobuz la mică distanță.",
-                "en": "Bus stop within short walking distance."
+                "en": "Bus stop within short walking distance.",
+                "es": "Parada de autobús a poca distancia a pie."
               }
             },
             {
@@ -2240,13 +2451,15 @@
                 "de": "Parroquia de Nuestra Señora de la O",
                 "hu": "O-i Miasszonyunk templom",
                 "ro": "Parohia Nuestra Señora de la O",
-                "en": "Parroquia de Nuestra Señora de la O"
+                "en": "Parroquia de Nuestra Señora de la O",
+                "es": "Parroquia de Nuestra Señora de la O"
               },
               "tip_5lang": {
                 "de": "Mitten im historischen Viertel.",
                 "hu": "A történelmi negyed központjában.",
                 "ro": "În inima cartierului istoric.",
-                "en": "In the heart of the historic quarter."
+                "en": "In the heart of the historic quarter.",
+                "es": "En el corazón del barrio histórico."
               }
             },
             {
@@ -2254,13 +2467,15 @@
                 "de": "Castillo de Santiago",
                 "hu": "Szent Jakab vár",
                 "ro": "Castelul Santiago",
-                "en": "Castillo de Santiago"
+                "en": "Castillo de Santiago",
+                "es": "Castillo de Santiago"
               },
               "tip_5lang": {
                 "de": "Gute Anbindung mit dem Stadtbus.",
                 "hu": "Jó helyi buszközlekedés.",
                 "ro": "Acces bun cu autobuzul local.",
-                "en": "Good local bus connections."
+                "en": "Good local bus connections.",
+                "es": "Buenas conexiones de autobús local."
               }
             },
             {
@@ -2268,13 +2483,15 @@
                 "de": "Bajo de Guía",
                 "hu": "Bajo de Guía sétány",
                 "ro": "Bajo de Guía",
-                "en": "Bajo de Guía"
+                "en": "Bajo de Guía",
+                "es": "Bajo de Guía"
               },
               "tip_5lang": {
                 "de": "Endstation für viele Linien.",
                 "hu": "Sok járat végállomása itt található.",
                 "ro": "Capăt de linie pentru multe rute.",
-                "en": "Terminal stop for many bus lines."
+                "en": "Terminal stop for many bus lines.",
+                "es": "Parada terminal de muchas líneas de autobús."
               }
             },
             {
@@ -2282,13 +2499,15 @@
                 "de": "Playa de la Calzada",
                 "hu": "La Calzada strand",
                 "ro": "Plaja de la Calzada",
-                "en": "Playa de la Calzada"
+                "en": "Playa de la Calzada",
+                "es": "Playa de la Calzada"
               },
               "tip_5lang": {
                 "de": "Leicht zu Fuß vom Hafen erreichbar.",
                 "hu": "Könnyű séta a kikötőtől.",
                 "ro": "Acces ușor pe jos din port.",
-                "en": "Easy walk from the port area."
+                "en": "Easy walk from the port area.",
+                "es": "Caminata fácil desde la zona del puerto."
               }
             }
           ],
@@ -2394,6 +2613,11 @@
               "You can buy tickets directly from the driver.",
               "Check schedules at the main bus stops.",
               "Buses run less frequently on weekends."
+            ],
+            "es": [
+              "Puedes comprar billetes directamente al conductor.",
+              "Consulta los horarios en las principales paradas de autobús.",
+              "Los autobuses circulan con menos frecuencia los fines de semana."
             ]
           }
         },
@@ -2402,7 +2626,8 @@
             "de": "Mit dem Bus durch das regnerische Sanlúcar zu fahren, ist eine gemütliche Art der Fortbewegung. Starten Sie am Markt, wo der Bus fast vor der Tür hält.\n\nMittags erreichen Sie die Kirche Nuestra Señora de la O und das Castillo bequem mit der Linie L1. Der Regen stört hier kaum.\n\nNachmittags bringt Sie der Bus nach Bajo de Guía. Genießen Sie die Fahrt durch die nassen Straßen der Stadt.\n\nZum Abschluss an der Playa de la Calzada bietet der Bus eine trockene Rückreise ins Zentrum, während draußen der Regen auf die Scheiben prasselt.",
             "hu": "Busszal közlekedni az esős Sanlúcarban kényelmes és száraz megoldás. Kezdjen a piacnál, ahol a busz szinte az ajtó előtt áll meg.\n\nDélben az L1-es vonallal könnyen elérheti a Nuestra Señora de la O templomot és a várat. Az eső itt alig zavaró.\n\nDélután a busz elviszi Önt Bajo de Guía-ba. Élvezze az utazást a város vizes utcáin keresztül.\n\nA Playa de la Calzada-nál tett zárás után a busz száraz visszautat kínál a központba, miközben kint az eső kopog az ablakokon.",
             "ro": "Călătoria cu autobuzul prin Sanlúcar pe ploaie este o modalitate confortabilă de deplasare. Începeți la piață, unde autobuzul oprește aproape în față.\n\nLa prânz, ajungeți la biserica Nuestra Señora de la O și la Castillo comod cu linia L1. Ploaia nu vă va deranja deloc aici.\n\nDupă-amiaza, autobuzul vă duce la Bajo de Guía. Bucurați-vă de traseul prin străzile ude ale orașului.\n\nLa final, la Playa de la Calzada, autobuzul oferă o întoarcere uscată spre centru, în timp ce afară ploaia bate în geamuri.",
-            "en": "Traveling by bus through rainy Sanlúcar is a cozy way to get around. Start at the market, where the bus stops almost right in front of the door.\n\nAt noon, you can easily reach the Church of Nuestra Señora de la O and the Castillo with the L1 line. The rain is hardly a bother here.\n\nIn the afternoon, the bus takes you to Bajo de Guía. Enjoy the ride through the wet streets of the city.\n\nTo end at Playa de la Calzada, the bus offers a dry return journey to the center while the rain drum against the windows outside."
+            "en": "Traveling by bus through rainy Sanlúcar is a cozy way to get around. Start at the market, where the bus stops almost right in front of the door.\n\nAt noon, you can easily reach the Church of Nuestra Señora de la O and the Castillo with the L1 line. The rain is hardly a bother here.\n\nIn the afternoon, the bus takes you to Bajo de Guía. Enjoy the ride through the wet streets of the city.\n\nTo end at Playa de la Calzada, the bus offers a dry return journey to the center while the rain drum against the windows outside.",
+            "es": "Viajar en autobús por la lluviosa Sanlúcar es una forma acogedora de moverse. Empieza en el mercado, donde la parada está casi en la puerta.\n\nAl mediodía, puedes llegar fácilmente a la Iglesia de Nuestra Señora de la O y al Castillo con la línea L1. La lluvia apenas importa aquí.\n\nPor la tarde, el autobús te lleva a Bajo de Guía. Disfruta del paseo por las calles mojadas de la ciudad.\n\nPara terminar en la Playa de la Calzada, el autobús ofrece un regreso seco al centro mientras la lluvia golpea las ventanas."
           },
           "stops": [
             {
@@ -2411,7 +2636,8 @@
                 "de": "Die Bushaltestelle bietet Schutz vor Regen beim Warten.",
                 "hu": "A buszmegálló védelmet nyújt az eső ellen várakozás közben.",
                 "ro": "Stația de autobuz oferă adăpost împotriva ploii în timp ce așteptați.",
-                "en": "The bus stop provides shelter from the rain while you wait."
+                "en": "The bus stop provides shelter from the rain while you wait.",
+                "es": "La parada de autobús ofrece refugio de la lluvia mientras esperas."
               }
             },
             {
@@ -2420,7 +2646,8 @@
                 "de": "Nutzen Sie den Bus L1 für die steile Fahrt zum Barrio Alto.",
                 "hu": "Használja az L1-es buszt a Barrio Alto-ba vezető meredek úthoz.",
                 "ro": "Folosiți autobuzul L1 pentru urcarea abruptă spre Barrio Alto.",
-                "en": "Use the L1 bus for the steep journey up to the Barrio Alto."
+                "en": "Use the L1 bus for the steep journey up to the Barrio Alto.",
+                "es": "Usa el autobús L1 para el empinado trayecto hasta el Barrio Alto."
               }
             },
             {
@@ -2429,7 +2656,8 @@
                 "de": "Vom Bus aus ist es nur ein kurzer, fast trockener Fußweg zum Eingang.",
                 "hu": "A busztól csak egy rövid, szinte száraz séta a bejárat.",
                 "ro": "De la autobuz este doar o scurtă plimbare până la intrare.",
-                "en": "It is only a short, mostly dry walk from the bus to the entrance."
+                "en": "It is only a short, mostly dry walk from the bus to the entrance.",
+                "es": "Es solo una corta caminata, mayormente seca, desde el autobús hasta la entrada."
               }
             },
             {
@@ -2438,7 +2666,8 @@
                 "de": "Die Busfrequenz ist auch bei Regen zuverlässig.",
                 "hu": "A buszjáratok esőben is megbízható gyakorisággal közlekednek.",
                 "ro": "Frecvența autobuzelor este fiabilă chiar și pe timp de ploaie.",
-                "en": "The bus frequency remains reliable even during rainy weather."
+                "en": "The bus frequency remains reliable even during rainy weather.",
+                "es": "La frecuencia de los autobuses se mantiene fiable incluso con lluvia."
               }
             },
             {
@@ -2447,7 +2676,8 @@
                 "de": "Die Haltestelle ist gut beleuchtet und bietet Schutz bei Schauern.",
                 "hu": "A megálló jól megvilágított és védelmet nyújt záporok esetén.",
                 "ro": "Stația este bine iluminată și oferă protecție în caz de averse.",
-                "en": "The stop is well-lit and offers protection during rain showers."
+                "en": "The stop is well-lit and offers protection during rain showers.",
+                "es": "La parada está bien iluminada y ofrece protección durante los chaparrones."
               }
             }
           ],
@@ -2479,6 +2709,13 @@
               "Windows may fog up; stay alert to not miss your stop.",
               "Allow extra time as traffic usually moves slower in the rain.",
               "Some stops in the Barrio Alto area do not have overhead shelter."
+            ],
+            "es": [
+              "Los autobuses pueden llenarse más con lluvia debido a la mayor demanda.",
+              "Ten el billete listo para evitar retrasos al subir.",
+              "Las ventanas pueden empañarse; estate atento para no pasarte de parada.",
+              "Deja tiempo extra ya que el tráfico suele ir más lento con lluvia.",
+              "Algunas paradas en el área del Barrio Alto no tienen techado."
             ]
           }
         },
@@ -2487,7 +2724,8 @@
             "de": "Eine winterliche Busfahrt durch Sanlúcar ist entspannend und warm. Starten Sie am belebten Markt, wo das Leben auch im Winter pulsiert.\n\nMittags bringt Sie die Linie L1 schnell in die Oberstadt zur Kirche und zum Castillo. Die Aussicht aus dem Busfenster ist im Winterlicht toll.\n\nNachmittags geht es weiter nach Bajo de Guía. Der Bus ist ein willkommener warmer Ort nach einem Spaziergang am windigen Ufer.\n\nDer Abschluss an der Playa de la Calzada bietet die Chance, den frühen Winterabend zu genießen, bevor der Bus Sie sicher zurück ins Hotel bringt.",
             "hu": "Egy téli buszozás Sanlúcarban pihentető és meleg élmény. Kezdjen a nyüzsgő piacon, ahol az élet télen is lüktet.\n\nDélben az L1-es vonal gyorsan felviszi a felsővárosba a templomhoz és a várhoz. A kilátás a buszablakból remek a téli fényben.\n\nDélután folytassa útját Bajo de Guía-ba. A busz kellemes meleg menedék egy szeles parti séta után.\n\nA Playa de la Calzada-nál tett zárás lehetőséget ad a korai téli este élvezetére, mielőtt a busz biztonságban visszavinné a hotelbe.",
             "ro": "O călătorie de iarnă cu autobuzul prin Sanlúcar este relaxantă și caldă. Începeți la piața plină de viață, unde ritmul orașului se simte și iarna.\n\nLa prânz, linia L1 vă duce rapid în orașul de sus, la biserică și Castillo. Vederea de la fereastră este superbă în lumina de iarnă.\n\nDupă-amiaza, continuați spre Bajo de Guía. Autobuzul este un loc cald și binevenit după o plimbare pe malul vântos al râului.\n\nFinalul la Playa de la Calzada oferă șansa de a vă bucura de seara timpurie de iarnă înainte ca autobuzul să vă ducă în siguranță înapoi.",
-            "en": "A winter bus ride through Sanlúcar is relaxing and warm. Start at the bustling market, where life pulsates even in the winter months.\n\nAt noon, the L1 line takes you quickly to the upper town for the church and the Castillo. The view from the bus window is great in the winter light.\n\nIn the afternoon, continue to Bajo de Guía. The bus is a welcome warm sanctuary after a walk along the windy riverbank.\n\nEnding at Playa de la Calzada offers a chance to enjoy the early winter evening before the bus safely takes you back to your hotel."
+            "en": "A winter bus ride through Sanlúcar is relaxing and warm. Start at the bustling market, where life pulsates even in the winter months.\n\nAt noon, the L1 line takes you quickly to the upper town for the church and the Castillo. The view from the bus window is great in the winter light.\n\nIn the afternoon, continue to Bajo de Guía. The bus is a welcome warm sanctuary after a walk along the windy riverbank.\n\nEnding at Playa de la Calzada offers a chance to enjoy the early winter evening before the bus safely takes you back to your hotel.",
+            "es": "Un viaje en autobús por la Sanlúcar invernal es relajante y cálido. Empieza en el bullicioso mercado, donde la vida late incluso en invierno.\n\nAl mediodía, la línea L1 te lleva rápidamente al casco alto para la iglesia y el Castillo. La vista desde la ventanilla es estupenda con la luz invernal.\n\nPor la tarde, continúa hasta Bajo de Guía. El autobús es un acogedor refugio cálido tras un paseo por la ribera ventosa.\n\nTerminar en la Playa de la Calzada ofrece la oportunidad de disfrutar la temprana tarde invernal antes de que el autobús te lleve de vuelta al hotel."
           },
           "stops": [
             {
@@ -2496,7 +2734,8 @@
                 "de": "Der Busbahnhof im Zentrum ist ein guter Startpunkt für Wintertouren.",
                 "hu": "A központi buszpályaudvar kiváló kiindulópont a téli túrákhoz.",
                 "ro": "Autogara centrală este un punct bun de plecare pentru tururile de iarnă.",
-                "en": "The central bus station is a great starting point for winter tours."
+                "en": "The central bus station is a great starting point for winter tours.",
+                "es": "La estación central de autobuses es un gran punto de partida para rutas invernales."
               }
             },
             {
@@ -2505,7 +2744,8 @@
                 "de": "Die Busse sind im Winter angenehm geheizt.",
                 "hu": "A buszok télen kellemesen fűtöttek.",
                 "ro": "Autobuzele sunt încălzite plăcut pe timpul iernii.",
-                "en": "The buses are comfortably heated during the winter."
+                "en": "The buses are comfortably heated during the winter.",
+                "es": "Los autobuses están cómodamente calefactados durante el invierno."
               }
             },
             {
@@ -2514,7 +2754,8 @@
                 "de": "Vermeiden Sie den steilen Aufstieg zu Fuß durch die Nutzung des Busses.",
                 "hu": "Kerülje el a meredek gyalogos emelkedőt a busz használatával.",
                 "ro": "Evitați urcarea abruptă pe jos folosind autobuzul.",
-                "en": "Avoid the steep climb on foot by taking the bus instead."
+                "en": "Avoid the steep climb on foot by taking the bus instead.",
+                "es": "Evita la subida empinada a pie tomando el autobús."
               }
             },
             {
@@ -2523,7 +2764,8 @@
                 "de": "Die Haltestelle liegt direkt bei den besten Winterrestaurants.",
                 "hu": "A megálló közvetlenül a legjobb téli éttermek mellett található.",
                 "ro": "Stația se află chiar lângă cele mai bune restaurante de iarnă.",
-                "en": "The stop is located right by the best winter restaurants."
+                "en": "The stop is located right by the best winter restaurants.",
+                "es": "La parada está situada junto a los mejores restaurantes de invierno."
               }
             },
             {
@@ -2532,7 +2774,8 @@
                 "de": "Der letzte Bus zurück fährt im Winter oft gegen 21:00 Uhr.",
                 "hu": "Az utolsó busz visszafelé télen gyakran 21:00 körül indul.",
                 "ro": "Ultimul autobuz înapoi pleacă iarna adesea în jurul orei 21:00.",
-                "en": "The last bus back in winter often departs around 21:00."
+                "en": "The last bus back in winter often departs around 21:00.",
+                "es": "El último autobús de regreso en invierno suele salir alrededor de las 21:00."
               }
             }
           ],
@@ -2564,6 +2807,13 @@
               "Dress warmly as the bus stops can be drafty in winter.",
               "Use the transit app for real-time information on bus arrivals.",
               "Purchase a multi-trip ticket to save both money and time."
+            ],
+            "es": [
+              "Consulta el horario de invierno, ya que algunas líneas pueden circular con menos frecuencia.",
+              "Los autobuses son una buena alternativa al paseo marítimo ventoso.",
+              "Vístete abrigado, las paradas de autobús pueden ser corrientes en invierno.",
+              "Usa la app de transporte para información en tiempo real sobre la llegada de los autobuses.",
+              "Compra un billete de varios viajes para ahorrar dinero y tiempo."
             ]
           }
         }
@@ -2578,19 +2828,22 @@
       "de": "Sanlúcar ist Sherry- und Tapas-Hauptstadt, Spanisch dominiert. 'Manzanilla' ist hier der trockene Sherry – ein 'fino' wäre ein Fehler. 'Bajo de Guía' nennen Einheimische das Fischviertel, dort isst man Tortillitas de Camarones.",
       "hu": "Sanlúcar a sherry és tapas fővárosa, a spanyol uralkodik. A 'manzanilla' itt a száraz sherry, ne keverd a 'fino'-val. A 'Bajo de Guía' a halász-negyed, ott egyél tortillitas de camarones-t, kis garnélás palacsintát.",
       "ro": "Sanlúcar este capitala sherry-ului și tapelor, spaniola domină. 'Manzanilla' aici e sherry-ul sec, nu confunda cu 'fino'. Cartierul pescăresc se numește 'Bajo de Guía', acolo se mănâncă tortillitas de camarones.",
-      "en": "Sanlúcar is sherry and tapas capital; Spanish rules. 'Manzanilla' here means the dry local sherry, don't say 'fino' by mistake. Locals call the fishing quarter 'Bajo de Guía' – eat tortillitas de camarones there."
+      "en": "Sanlúcar is sherry and tapas capital; Spanish rules. 'Manzanilla' here means the dry local sherry, don't say 'fino' by mistake. Locals call the fishing quarter 'Bajo de Guía' – eat tortillitas de camarones there.",
+      "es": "Sanlúcar es la capital del jerez y las tapas; reglas locales: 'manzanilla' aquí significa el jerez seco local, no llames ‘fino’ por error. Los locales llaman al barrio pesquero 'Bajo de Guía' — come tortillitas de camarones allí."
     },
     "best_time_to_visit": {
       "de": "Mai bis Juni für die Carreras de Caballos am Strand im August (Eintritt frei, sehr atmosphärisch). September für ruhige Manzanilla-Verkostung. Februar/März wegen Karneval und Sherry-Festen interessant.",
       "hu": "Május-június kellemes, az augusztusi parti lóverseny ingyenes és varázslatos. Szeptember csendes manzanilla kóstolásokhoz. Február-március érdekes a karnevál és sherry-fesztiválok miatt.",
       "ro": "Mai-iunie pentru cursele de cai pe plajă din august (intrare liberă, atmosferă unică). Septembrie pentru degustări liniștite de manzanilla. Februarie-martie interesant datorită carnavalului și festivalurilor de sherry.",
-      "en": "May–June, plus the August horse races on the beach (free, very atmospheric). September for quiet manzanilla tastings. February–March for carnival and sherry festivals."
+      "en": "May–June, plus the August horse races on the beach (free, very atmospheric). September for quiet manzanilla tastings. February–March for carnival and sherry festivals.",
+      "es": "Mayo–junio, además de las carreras de caballos en la playa en agosto (gratis, muy atmosférico). Septiembre para catas tranquilas de manzanilla. Febrero–marzo para el carnaval y las ferias del jerez."
     },
     "neighborhood_warnings": {
       "de": "Allgemein sicher, abends nahe Bajo de Guía Taschen im Auge behalten – touristisch und voll. Nicht im Guadalquivir schwimmen, Strömung gefährlich. Sommerabende sehr lebhaft bis spät, ältere Viertel ruhiger im 'Barrio Alto'.",
       "hu": "Általában biztonságos, este Bajo de Guíánál vigyázz a táskádra, turistás és zsúfolt. A Guadalquivirba ne ugorj fürdeni, az áramlat veszélyes. Nyári esték későig pörögnek, csendesebb a 'Barrio Alto' fent.",
       "ro": "În general sigur, seara lângă Bajo de Guía atenție la geantă – aglomerat și turistic. Nu înota în Guadalquivir, curentul e periculos. Serile de vară foarte vii până târziu, 'Barrio Alto' mai liniștit.",
-      "en": "Generally safe; near Bajo de Guía in the evening keep an eye on your bag – it's busy and touristy. Never swim in the Guadalquivir, currents are dangerous. Summer nights run very late; the upper Barrio Alto is quieter."
+      "en": "Generally safe; near Bajo de Guía in the evening keep an eye on your bag – it's busy and touristy. Never swim in the Guadalquivir, currents are dangerous. Summer nights run very late; the upper Barrio Alto is quieter.",
+      "es": "En general seguro; cerca de Bajo de Guía por la noche vigila tu bolso — está concurrido y turístico. Nunca nades en el Guadalquivir, las corrientes son peligrosas. Las noches de verano se alargan mucho; el Barrio Alto es más tranquilo."
     }
   }
 }

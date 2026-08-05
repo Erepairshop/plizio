@@ -21,7 +21,8 @@
             "en": "Ayuntamiento de Barbastro",
             "de": "Ayuntamiento de Barbastro",
             "hu": "Ayuntamiento de Barbastro",
-            "ro": "Ayuntamiento de Barbastro"
+            "ro": "Ayuntamiento de Barbastro",
+            "es": "Ayuntamiento de Barbastro"
           },
           "coords": [
             0.123359,
@@ -36,7 +37,8 @@
             "en": "Admire the beautiful Renaissance facade of the town hall, which stands as a proud symbol of the city's rich history, and snap photos in the morning light.",
             "de": "Bewundern Sie die schöne Renaissance-Fassade des Rathauses, die ein stolzes Symbol der Geschichte der Stadt ist, und machen Sie Fotos im Morgenlicht.",
             "hu": "Csodálja meg a városháza gyönyörű reneszánsz homlokzatát, amely a város gazdag történelmének büszke szimbóluma, és készítsen fotókat a reggeli fényben.",
-            "ro": "Admirați frumoasa fațadă renascentistă a primăriei, un simbol mândru al istoriei bogate a orașului, și faceți fotografii în lumina caldă a dimineții."
+            "ro": "Admirați frumoasa fațadă renascentistă a primăriei, un simbol mândru al istoriei bogate a orașului, și faceți fotografii în lumina caldă a dimineții.",
+            "es": "Admira la hermosa fachada renacentista del ayuntamiento, que se erige como un orgulloso símbolo de la rica historia de la ciudad, y haz fotos con la luz de la mañana."
           }
         },
         {
@@ -44,7 +46,8 @@
             "en": "Plaza del Mercado",
             "de": "Plaza del Mercado",
             "hu": "Plaza del Mercado",
-            "ro": "Plaza del Mercado"
+            "ro": "Plaza del Mercado",
+            "es": "Plaza del Mercado"
           },
           "coords": [
             0.125359,
@@ -59,7 +62,8 @@
             "en": "Experience the lively local atmosphere at this central market square, a perfect place to observe daily life while grabbing a quick coffee nearby.",
             "de": "Erleben Sie die lebhafte lokale Atmosphäre an diesem zentralen Marktplatz, ein idealer Ort, um das tägliche Leben bei einem schnellen Kaffee zu beobachten.",
             "hu": "Tapasztalja meg az élénk helyi hangulatot ezen a központi piactéren, amely tökéletes hely a mindennapi élet megfigyelésére egy gyors kávé mellett.",
-            "ro": "Experimentați atmosfera locală plină de viață în această piață centrală, un loc perfect pentru a observa viața de zi cu zi savurând o cafea rapidă."
+            "ro": "Experimentați atmosfera locală plină de viață în această piață centrală, un loc perfect pentru a observa viața de zi cu zi savurând o cafea rapidă.",
+            "es": "Vive el animado ambiente local en esta plaza central de mercado, un lugar perfecto para observar la vida diaria mientras tomas un café rápido cerca."
           }
         },
         {
@@ -67,7 +71,8 @@
             "en": "Muela CIlíndrica",
             "de": "Muela CIlíndrica",
             "hu": "Muela CIlíndrica",
-            "ro": "Muela CIlíndrica"
+            "ro": "Muela CIlíndrica",
+            "es": "Muela CIlíndrica"
           },
           "coords": [
             0.126172,
@@ -82,7 +87,8 @@
             "en": "Inspect this intriguing cylindrical millstone monument that highlights traditional regional agriculture; look closely at its weathered stone textures.",
             "de": "Inspizieren Sie dieses faszinierende zylindrische Mühlstein-Denkmal, das die traditionelle Landwirtschaft der Region hervorhebt, und achten Sie auf die Steinstrukturen.",
             "hu": "Vizsgálja meg ezt az érdekes hengeres malomkő-emlékművet, amely a hagyományos regionális mezőgazdaságot emeli ki; nézze meg alaposan a kopott kőtextúrákat.",
-            "ro": "Inspectați acest monument intrigant al unei pietre de moară cilindrice care evidențiază agricultura regională; priviți de aproape texturile de piatră erodată."
+            "ro": "Inspectați acest monument intrigant al unei pietre de moară cilindrice care evidențiază agricultura regională; priviți de aproape texturile de piatră erodată.",
+            "es": "Inspecciona este intrigante monumento de muela cilíndrica que destaca la agricultura tradicional regional; fíjate en las texturas de la piedra erosionada."
           }
         },
         {
@@ -90,7 +96,8 @@
             "en": "Iglesia de San Francisco",
             "de": "Iglesia de San Francisco",
             "hu": "Iglesia de San Francisco",
-            "ro": "Iglesia de San Francisco"
+            "ro": "Iglesia de San Francisco",
+            "es": "Iglesia de San Francisco"
           },
           "coords": [
             0.127292,
@@ -105,7 +112,8 @@
             "en": "Step into this peaceful church to discover its elegant architectural details and serene ambiance, pausing a moment in the quiet nave for reflection.",
             "de": "Treten Sie in diese friedliche Kirche ein, um ihre eleganten architektonischen Details zu entdecken, und halten Sie im ruhigen Kirchenschiff für einen Moment inne.",
             "hu": "Lépjen be ebbe a békés templomba, hogy felfedezze elegáns építészeti részleteit, és tartson egy rövid pihenőt a csendes főhajóban a feltöltődéshez.",
-            "ro": "Pășiți în această biserică liniștită pentru a descoperi detaliile sale arhitecturale elegante, făcând o pauză în naosul tăcut pentru un moment de reflecție."
+            "ro": "Pășiți în această biserică liniștită pentru a descoperi detaliile sale arhitecturale elegante, făcând o pauză în naosul tăcut pentru un moment de reflecție.",
+            "es": "Entra en esta iglesia apacible para descubrir sus elegantes detalles arquitectónicos y su serena atmósfera; haz una pausa en la nave para reflexionar."
           }
         },
         {
@@ -113,7 +121,8 @@
             "en": "Parque del Calvario",
             "de": "Parque del Calvario",
             "hu": "Parque del Calvario",
-            "ro": "Parque del Calvario"
+            "ro": "Parque del Calvario",
+            "es": "Parque del Calvario"
           },
           "coords": [
             0.125168,
@@ -128,7 +137,8 @@
             "en": "Stroll along the shaded paths of this elevated park for excellent views over Barbastro, making sure to wear comfortable walking shoes for the slight incline.",
             "de": "Spazieren Sie auf den schattigen Wegen dieses höher gelegenen Parks für hervorragende Ausblicke über Barbastro; tragen Sie bequeme Schuhe für die leichte Steigung.",
             "hu": "Sétáljon végig ennek a magasabban fekvő parknak az árnyékos ösvényein, ahonnan kiváló kilátás nyílik Barbastróra, és mindenképpen viseljen kényelmes cipőt.",
-            "ro": "Plimbați-vă pe aleile umbrite ale acestui parc înalt pentru vederi excelente asupra orașului Barbastro, asigurându-vă că purtați încălțăminte confortabilă."
+            "ro": "Plimbați-vă pe aleile umbrite ale acestui parc înalt pentru vederi excelente asupra orașului Barbastro, asigurându-vă că purtați încălțăminte confortabilă.",
+            "es": "Pasea por los senderos sombreados de este parque elevado para obtener excelentes vistas de Barbastro; asegúrate de llevar calzado cómodo para la ligera pendiente."
           }
         },
         {
@@ -136,7 +146,8 @@
             "en": "Coso de Barbastro",
             "de": "Coso de Barbastro",
             "hu": "Coso de Barbastro",
-            "ro": "Coso de Barbastro"
+            "ro": "Coso de Barbastro",
+            "es": "Coso de Barbastro"
           },
           "coords": [
             0.122922,
@@ -151,7 +162,8 @@
             "en": "Walk down this prominent avenue, originally a medieval moat, which now serves as a bustling hub where locals gather; check out the nearby historical plaques.",
             "de": "Spazieren Sie diese markante Allee hinunter, die ursprünglich ein mittelalterlicher Burggraben war und nun als lebhafter Treffpunkt dient; beachten Sie die Plaketten.",
             "hu": "Sétáljon végig ezen a kiemelkedő sugárúton, amely egykor középkori várárok volt, most pedig nyüzsgő találkozóhely; nézze meg a közeli történelmi táblákat.",
-            "ro": "Plimbați-vă pe acest bulevard proeminent, inițial un șanț medieval, acum un centru plin de viață unde se adună localnicii; citiți plăcile istorice din apropiere."
+            "ro": "Plimbați-vă pe acest bulevard proeminent, inițial un șanț medieval, acum un centru plin de viață unde se adună localnicii; citiți plăcile istorice din apropiere.",
+            "es": "Recorre esta avenida prominente, originalmente un foso medieval, que ahora sirve como un bullicioso eje donde se reúne la gente; consulta las placas históricas cercanas."
           }
         },
         {
@@ -159,7 +171,8 @@
             "en": "Iglesia de San Julián",
             "de": "Iglesia de San Julián",
             "hu": "Iglesia de San Julián",
-            "ro": "Iglesia de San Julián"
+            "ro": "Iglesia de San Julián",
+            "es": "Iglesia de San Julián"
           },
           "coords": [
             0.120246,
@@ -174,7 +187,8 @@
             "en": "Visit this historic church known for its distinctive features and deep community roots, paying special attention to the beautifully crafted entrance portal.",
             "de": "Besuchen Sie diese historische Kirche, die für ihre markanten Merkmale bekannt ist, und achten Sie besonders auf das wunderschön gearbeitete Eingangsportal.",
             "hu": "Látogasson el ebbe a jellegzetes vonásairól és mély közösségi gyökereiről ismert történelmi templomba, különös figyelmet fordítva a gyönyörű bejárati portálra.",
-            "ro": "Vizitați această biserică istorică cunoscută pentru caracteristicile sale distinctive, acordând o atenție deosebită portalului de intrare frumos realizat."
+            "ro": "Vizitați această biserică istorică cunoscută pentru caracteristicile sale distinctive, acordând o atenție deosebită portalului de intrare frumos realizat.",
+            "es": "Visita esta iglesia histórica conocida por sus rasgos distintivos y profundas raíces comunitarias; presta atención al portal de entrada bellamente tallado."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "en": "Start your Barbastro journey exploring the historic city center, taking in the grand Renaissance details of the town hall. The early hours are best to observe the town awakening at the bustling Plaza del Mercado.\nBy midday, dive deeper into the city's rich heritage with visits to ancient monuments like the Muela CIlíndrica. Allow the quiet atmosphere of the local churches to offer a peaceful respite from the midday sun.\nIn the afternoon, head towards the town's charming parks, where the elevated viewpoints at Parque del Calvario provide excellent photo opportunities. Enjoy the historical context of the medieval avenues and archways.\nAs evening approaches, wind down your excursion with a relaxing stroll in Parque Municipal La Paz. The soothing ambiance and natural surroundings create a perfect finale to a delightful day exploring Barbastro.",
         "de": "Beginnen Sie Ihre Reise in Barbastro mit der Erkundung des historischen Zentrums und der Renaissance-Details des Rathauses. Die frühen Stunden sind ideal, um das Erwachen der Stadt an der belebten Plaza del Mercado zu beobachten.\nMittags tauchen Sie tiefer in das reiche Erbe der Stadt ein und besuchen Denkmäler wie die Muela CIlíndrica. Die ruhige Atmosphäre der Kirchen bietet eine angenehme Erholung von der Mittagssonne.\nAm Nachmittag locken die charmanten Parks der Stadt. Die Aussichtspunkte im Parque del Calvario bieten hervorragende Fotomotive, während Sie den Kontext der mittelalterlichen Gassen und Bögen genießen.\nGegen Abend können Sie Ihren Ausflug mit einem entspannten Spaziergang im Parque Municipal La Paz ausklingen lassen. Das beruhigende Ambiente bildet den perfekten Abschluss für einen wunderbaren Tag in Barbastro.",
         "hu": "Kezdje a barbastrói utazást a történelmi központ felfedezésével és a városháza reneszánsz részleteinek megcsodálásával. A kora reggeli órák a legjobbak a város ébredésének megfigyelésére a nyüzsgő Plaza del Mercadón.\nDélben merüljön el mélyebben a város gazdag örökségében olyan ősi műemlékek felkeresésével, mint a Muela CIlíndrica. A helyi templomok csendes légköre békés felüdülést kínál a déli napsütés elől.\nDélután induljon a város bájos parkjai felé, ahol a Parque del Calvario magaslati kilátói kiváló fotózási lehetőségeket kínálnak. Élvezze a középkori sugárutak és boltívek történelmi hangulatát.\nAz este közeledtével zárja kirándulását egy pihentető sétával a Parque Municipal La Paz zöldjében. A nyugtató környezet és a természetes közeg tökéletes befejezése egy csodálatos barbastrói napnak.",
-        "ro": "Începeți călătoria în Barbastro explorând centrul istoric și detaliile renascentiste ale primăriei. Orele dimineții sunt ideale pentru a observa trezirea orașului la viață în aglomerata Plaza del Mercado.\nLa prânz, aprofundați patrimoniul bogat al orașului vizitând monumente antice precum Muela CIlíndrica. Atmosfera liniștită a bisericilor locale oferă un răgaz pașnic de la soarele amiezii.\nDupă-amiaza, îndreptați-vă spre parcurile fermecătoare, unde punctele de belvedere de la Parque del Calvario oferă oportunități foto excelente. Bucurați-vă de contextul istoric al bulevardelor și arcadelor medievale.\nPe măsură ce se apropie seara, încheiați-vă excursia cu o plimbare relaxantă în Parque Municipal La Paz. Ambianța liniștitoare și cadrul natural creează un final perfect pentru o zi încântătoare în Barbastro."
+        "ro": "Începeți călătoria în Barbastro explorând centrul istoric și detaliile renascentiste ale primăriei. Orele dimineții sunt ideale pentru a observa trezirea orașului la viață în aglomerata Plaza del Mercado.\nLa prânz, aprofundați patrimoniul bogat al orașului vizitând monumente antice precum Muela CIlíndrica. Atmosfera liniștită a bisericilor locale oferă un răgaz pașnic de la soarele amiezii.\nDupă-amiaza, îndreptați-vă spre parcurile fermecătoare, unde punctele de belvedere de la Parque del Calvario oferă oportunități foto excelente. Bucurați-vă de contextul istoric al bulevardelor și arcadelor medievale.\nPe măsură ce se apropie seara, încheiați-vă excursia cu o plimbare relaxantă în Parque Municipal La Paz. Ambianța liniștitoare și cadrul natural creează un final perfect pentru o zi încântătoare în Barbastro.",
+        "es": "Comienza tu recorrido por Barbastro explorando el casco histórico, contemplando los grandiosos detalles renacentistas del ayuntamiento. Las primeras horas son las mejores para ver cómo despierta la ciudad en la concurrida Plaza del Mercado.\nAl mediodía, profundiza en la rica herencia de la ciudad con visitas a monumentos antiguos como la Muela CIlíndrica. Permite que la atmósfera tranquila de las iglesias locales te brinde un respiro pacífico del sol del mediodía.\nPor la tarde, dirígete a los encantadores parques de la ciudad, donde los miradores elevados del Parque del Calvario ofrecen excelentes oportunidades fotográficas. Disfruta del contexto histórico de las avenidas y arcos medievales.\nAl acercarse la noche, relaja tu excursión con un paseo por el Parque Municipal La Paz. La atmósfera apacible y el entorno natural crean un final perfecto para un día encantador explorando Barbastro."
       },
       "variants": {
         "rainy": {
@@ -190,7 +205,8 @@
             "en": "Start under the protective arches of the city center. At noon, seek shelter in the historic churches and the arcaded market square. In the afternoon, paths in the parks might be slippery, so walk carefully on paved sections. As evening falls, the damp cobblestones reflect the streetlights beautifully, creating a cozy atmosphere in the lower town.",
             "de": "Beginnen Sie unter den schützenden Arkaden des Zentrums. Mittags bieten die historischen Kirchen und der überdachte Marktplatz idealen Schutz vor dem Regen. Nachmittags könnten die Wege in den Parks rutschig sein, achten Sie auf befestigte Pfade. Am Abend spiegeln die feuchten Kopfsteinpflaster die Lichter der Stadt wider und sorgen für eine besondere Atmosphäre.",
             "hu": "Kezdje a napot a városközpont védelmező árkádjai alatt. Délben keressen menedéket a történelmi templomokban és a fedett piactéren. Délután a parkok ösvényei csúszósak lehetnek, így maradjon a kövezett szakaszokon. Estére a vizes macskaköveken megcsillannak az utcai fények, meghitt hangulatot árasztva az alsóváros szűk utcáiban.",
-            "ro": "Începeți sub arcadele protectoare din centrul orașului. La prânz, căutați adăpost în bisericile istorice și în piața de piață cu arcade. După-amiaza, potecile din parcuri pot fi alunecoase, deci mergeți cu atenție pe secțiunile pavate. Pe măsură ce se lasă seara, pietrele umede reflectă luminile stradale, creând o atmosferă primitoare."
+            "ro": "Începeți sub arcadele protectoare din centrul orașului. La prânz, căutați adăpost în bisericile istorice și în piața de piață cu arcade. După-amiaza, potecile din parcuri pot fi alunecoase, deci mergeți cu atenție pe secțiunile pavate. Pe măsură ce se lasă seara, pietrele umede reflectă luminile stradale, creând o atmosferă primitoare.",
+            "es": "Empieza bajo los arcos protectores del centro. Al mediodía, busca resguardo en las iglesias históricas y en la plaza porticada del mercado. Por la tarde, los caminos de los parques pueden estar resbaladizos, así que camina con cuidado por las secciones pavimentadas. Al caer la noche, los adoquines húmedos reflejan las farolas creando una atmósfera acogedora en la parte baja de la ciudad."
           },
           "stops": [
             {
@@ -198,13 +214,15 @@
                 "en": "Ayuntamiento de Barbastro",
                 "de": "Ayuntamiento de Barbastro",
                 "hu": "Ayuntamiento de Barbastro",
-                "ro": "Ayuntamiento de Barbastro"
+                "ro": "Ayuntamiento de Barbastro",
+                "es": "Ayuntamiento de Barbastro"
               },
               "tip_5lang": {
                 "en": "Admire the Renaissance facade from the nearby porticos to stay dry while observing the intricate brickwork and the city crest. Use the entrance as a brief shelter.",
                 "de": "Bewundern Sie die Renaissance-Fassade von den nahen Arkaden aus, um trocken zu bleiben, während Sie die Ziegelarbeiten und das Stadtwappen betrachten. Nutzen Sie den Eingang.",
                 "hu": "Csodálja meg a reneszánsz homlokzatot a közeli árkádok alól, így szárazon figyelheti meg a bonyolult téglafalat és a város címerét. Használja a bejáratot menedékként.",
-                "ro": "Admirați fațada renascentistă de sub porticurile din apropiere pentru a rămâne uscat în timp ce observați zidăria complexă și blazonul orașului. Folosiți intrarea."
+                "ro": "Admirați fațada renascentistă de sub porticurile din apropiere pentru a rămâne uscat în timp ce observați zidăria complexă și blazonul orașului. Folosiți intrarea.",
+                "es": "Admira la fachada renacentista desde los pórticos cercanos para mantenerte seco mientras observas el intrincado ladrillo y el escudo de la ciudad. Usa la entrada como refugio breve."
               }
             },
             {
@@ -212,13 +230,15 @@
                 "en": "Plaza del Mercado",
                 "de": "Plaza del Mercado",
                 "hu": "Plaza del Mercado",
-                "ro": "Plaza del Mercado"
+                "ro": "Plaza del Mercado",
+                "es": "Plaza del Mercado"
               },
               "tip_5lang": {
                 "en": "The traditional arcades surrounding the square provide perfect cover; enjoy the historic architecture while protected from the rain. Watch out for puddles on the stones.",
                 "de": "Die traditionellen Arkaden rund um den Platz bieten perfekten Schutz; genießen Sie die historische Architektur im Trockenen. Achten Sie auf Pfützen auf dem Pflaster.",
                 "hu": "A teret körülvevő hagyományos árkádok tökéletes fedezéket nyújtanak; élvezze a történelmi építészetet az esőtől védve. Ügyeljen a kövek közötti tócsákra.",
-                "ro": "Arcadele tradiționale care înconjoară piața oferă acoperirea perfectă; bucurați-vă de arhitectura istorică fiind protejat de ploaie. Atenție la bălțile de pe pietre."
+                "ro": "Arcadele tradiționale care înconjoară piața oferă acoperirea perfectă; bucurați-vă de arhitectura istorică fiind protejat de ploaie. Atenție la bălțile de pe pietre.",
+                "es": "Los pórticos tradicionales que rodean la plaza ofrecen una cobertura perfecta; disfruta de la arquitectura histórica protegido de la lluvia. Ten cuidado con los charcos en las losas."
               }
             },
             {
@@ -226,13 +246,15 @@
                 "en": "Muela CIlíndrica",
                 "de": "Muela CIlíndrica",
                 "hu": "Muela CIlíndrica",
-                "ro": "Muela CIlíndrica"
+                "ro": "Muela CIlíndrica",
+                "es": "Muela CIlíndrica"
               },
               "tip_5lang": {
                 "en": "This industrial relic looks striking against a grey sky, but the surrounding ground can be muddy, so stick to the paved viewpoint. A sturdy umbrella is essential here.",
                 "de": "Dieses Industrierelikt wirkt vor grauem Himmel besonders markant, aber der Boden kann matschig sein, also bleiben Sie auf dem gepflasterten Aussichtspunkt. Regenschirm mitnehmen.",
                 "hu": "Ez az ipari emlék látványos a szürke égbolt előtt, de a környező talaj sáros lehet, ezért maradjon a kövezett kilátónál. Egy erős esernyő itt elengedhetetlen.",
-                "ro": "Această relicvă industrială arată impresionant pe un cer gri, dar terenul poate fi noroios, așa că rămâneți pe punctul de observație pavat. O umbrelă este esențială."
+                "ro": "Această relicvă industrială arată impresionant pe un cer gri, dar terenul poate fi noroios, așa că rămâneți pe punctul de observație pavat. O umbrelă este esențială.",
+                "es": "Este vestigio industrial resulta impactante bajo un cielo gris, pero el terreno circundante puede estar embarrado, así que mantente en el mirador pavimentado. Un paraguas resistente es imprescindible."
               }
             },
             {
@@ -240,13 +262,15 @@
                 "en": "Iglesia de San Francisco",
                 "de": "Iglesia de San Francisco",
                 "hu": "Iglesia de San Francisco",
-                "ro": "Iglesia de San Francisco"
+                "ro": "Iglesia de San Francisco",
+                "es": "Iglesia de San Francisco"
               },
               "tip_5lang": {
                 "en": "The interior is a magnificent refuge from the storm; take your time exploring the altarpieces and the quiet cloisters. Shake off your wet gear before entering the nave.",
                 "de": "Das Innere ist ein herrlicher Zufluchtsort; nehmen Sie sich Zeit für die Altarbilder und den ruhigen Kreuzgang. Schütteln Sie nasse Kleidung vor dem Betreten ab.",
                 "hu": "A belső tér pompás menedék a vihar elől; szánjon időt az oltárképek és a csendes kolostor felfedezésére. Rázza le vizes ruháját, mielőtt belépne a hajóba.",
-                "ro": "Interiorul este un refugiu magnific; explorați în liniște altarele și claustrele tăcute. Scuturați echipamentul umed înainte de a intra în nava bisericii."
+                "ro": "Interiorul este un refugiu magnific; explorați în liniște altarele și claustrele tăcute. Scuturați echipamentul umed înainte de a intra în nava bisericii.",
+                "es": "El interior es un magnífico refugio de la tormenta; tómate tu tiempo para explorar los retablos y los claustros tranquilos. Sacude la ropa mojada antes de entrar en la nave."
               }
             },
             {
@@ -254,13 +278,15 @@
                 "en": "Parque del Calvario",
                 "de": "Parque del Calvario",
                 "hu": "Parque del Calvario",
-                "ro": "Parque del Calvario"
+                "ro": "Parque del Calvario",
+                "es": "Parque del Calvario"
               },
               "tip_5lang": {
                 "en": "Rain intensifies the scent of the pine trees, but the incline can be slick, so use the handrails where available. The view of the city is dramatic through the clouds.",
                 "de": "Der Regen verstärkt den Duft der Kiefern, aber die Steigung kann glatt sein, nutzen Sie vorhandene Handläufe. Die Aussicht durch die Wolken ist sehr dramatisch.",
                 "hu": "Az eső felerősíti a fenyők illatát, de az emelkedő csúszós lehet, így használja a korlátokat. A város látványa a felhőkön keresztül igazán drámai.",
-                "ro": "Ploaia intensifică mirosul pinilor, dar panta poate fi alunecoasă, deci folosiți balustradele. Vederea orașului prin nori este una dramatică."
+                "ro": "Ploaia intensifică mirosul pinilor, dar panta poate fi alunecoasă, deci folosiți balustradele. Vederea orașului prin nori este una dramatică.",
+                "es": "La lluvia intensifica el aroma de los pinos, pero la inclinación puede estar resbaladiza, así que usa los pasamanos donde haya. La vista de la ciudad es dramática entre las nubes."
               }
             },
             {
@@ -268,13 +294,15 @@
                 "en": "Coso de Barbastro",
                 "de": "Coso de Barbastro",
                 "hu": "Coso de Barbastro",
-                "ro": "Coso de Barbastro"
+                "ro": "Coso de Barbastro",
+                "es": "Coso de Barbastro"
               },
               "tip_5lang": {
                 "en": "Walk along the wide avenue where shop canopies provide intermittent shelter; it is a great spot to observe the rain-slicked urban pulse. Wear waterproof shoes for this trek.",
                 "de": "Spazieren Sie entlang der breiten Allee, wo Vordächer zeitweiligen Schutz bieten; beobachten Sie das regennasse urbane Treiben. Tragen Sie wasserfeste Schuhe.",
                 "hu": "Sétáljon végig a széles sugárúton, ahol az üzletek előtetői időszakos menedéket nyújtanak a városi lüktetés megfigyeléséhez. Viseljen vízálló cipőt ehhez a szakaszhoz.",
-                "ro": "Mergeți pe bulevardul larg unde copertinele magazinelor oferă adăpost intermitent; este un loc bun pentru a vedea pulsul urban. Purtați încălțăminte impermeabilă."
+                "ro": "Mergeți pe bulevardul larg unde copertinele magazinelor oferă adăpost intermitent; este un loc bun pentru a vedea pulsul urban. Purtați încălțăminte impermeabilă.",
+                "es": "Recorre la amplia avenida donde los toldos de las tiendas brindan refugio intermitente; es un gran lugar para observar el pulso urbano brillante por la lluvia. Lleva calzado impermeable para este paseo."
               }
             },
             {
@@ -282,13 +310,15 @@
                 "en": "Iglesia de San Julián",
                 "de": "Iglesia de San Julián",
                 "hu": "Iglesia de San Julián",
-                "ro": "Iglesia de San Julián"
+                "ro": "Iglesia de San Julián",
+                "es": "Iglesia de San Julián"
               },
               "tip_5lang": {
                 "en": "Inside, the museum space is dry and warm, perfect for ending the rainy walk while learning about the local wine culture and history. Check for leaks near the old doors.",
                 "de": "Im Inneren ist der Museumsraum trocken und warm, ideal, um den Regenrundgang zu beenden und etwas über die Weinkultur zu lernen. Achten Sie auf Zugluft an den Türen.",
                 "hu": "Odabent a múzeumi tér száraz és meleg, tökéletes az esős séta befejezéséhez, miközben megismeri a helyi borkultúrát. Ügyeljen a bejáratnál a csúszós padlóra.",
-                "ro": "În interior, spațiul muzeal este uscat și cald, perfect pentru a încheia plimbarea învățând despre cultura vinului. Atenție la podeaua alunecoasă de lângă uși."
+                "ro": "În interior, spațiul muzeal este uscat și cald, perfect pentru a încheia plimbarea învățând despre cultura vinului. Atenție la podeaua alunecoasă de lângă uși.",
+                "es": "En el interior, el espacio museístico está seco y cálido, perfecto para terminar la caminata bajo la lluvia mientras aprendes sobre la cultura y la historia local del vino. Revisa posibles filtraciones cerca de las puertas antiguas."
               }
             }
           ]
@@ -298,7 +328,8 @@
             "en": "Crisp winter air greets you in the morning; dress in warm layers for the walk. Noon is best spent in the sun-drenched squares or heated historic halls. After 16:00, the light fades quickly, casting long shadows over the monuments. By 17:00, the sunset brings a sharp chill, making it the perfect time to find a cozy indoor spot in the old quarter.",
             "de": "Klare Winterluft begrüßt Sie am Morgen; kleiden Sie sich in warmen Schichten. Mittags sind die sonnigen Plätze oder beheizten Hallen am angenehmsten. Nach 16:00 Uhr schwindet das Licht schnell und wirft lange Schatten. Gegen 17:00 Uhr bringt der Sonnenuntergang Kälte, ideal für einen gemütlichen Ort in der Altstadt.",
             "hu": "Friss téli levegő fogadja reggel; öltözzön rétegesen a sétához. A delet érdemes napsütötte tereken vagy fűtött történelmi csarnokokban tölteni. 16:00 után a fény gyorsan fogy, hosszú árnyékokat vetve az emlékművekre. 17:00-kor a naplemente éles hideget hoz, ekkor érdemes behúzódni az óváros egyik meleg zugába.",
-            "ro": "Aerul proaspăt de iarnă vă întâmpină dimineața; îmbrăcați-vă în straturi calde. Prânzul este cel mai bine petrecut în piețele însorite sau în sălile încălzite. După ora 16:00, lumina scade rapid, proiectând umbre lungi. La ora 17:00, apusul aduce un frig tăios, fiind momentul perfect pentru un loc interior cald."
+            "ro": "Aerul proaspăt de iarnă vă întâmpină dimineața; îmbrăcați-vă în straturi calde. Prânzul este cel mai bine petrecut în piețele însorite sau în sălile încălzite. După ora 16:00, lumina scade rapid, proiectând umbre lungi. La ora 17:00, apusul aduce un frig tăios, fiind momentul perfect pentru un loc interior cald.",
+            "es": "El aire invernal y fresco te saluda por la mañana; vístete en capas cálidas para la caminata. El mediodía es mejor pasarlo en plazas soleadas o salas históricas calefactadas. Después de las 16:00, la luz cae rápidamente, proyectando largas sombras sobre los monumentos. A las 17:00, el ocaso trae un frío cortante, momento perfecto para buscar un lugar acogedor en el casco antiguo."
           },
           "stops": [
             {
@@ -306,13 +337,15 @@
                 "en": "Ayuntamiento de Barbastro",
                 "de": "Ayuntamiento de Barbastro",
                 "hu": "Ayuntamiento de Barbastro",
-                "ro": "Ayuntamiento de Barbastro"
+                "ro": "Ayuntamiento de Barbastro",
+                "es": "Ayuntamiento de Barbastro"
               },
               "tip_5lang": {
                 "en": "The brick facade glows warmly in the low winter sun; step inside the foyer if open to escape the morning frost for a moment. Keep your gloves on while taking photos.",
                 "de": "Die Ziegelfassade leuchtet warm in der tiefstehenden Wintersonne; nutzen Sie das Foyer, um kurz dem Morgenfrost zu entkommen. Lassen Sie die Handschuhe beim Fotografieren an.",
                 "hu": "A tégla homlokzat melegen ragyog az alacsony téli napsütésben; lépjen be az előtérbe, ha nyitva van, hogy egy pillanatra elmeneküljön a fagy elől. Fotózáskor se vegye le kesztyűjét.",
-                "ro": "Fațada de cărămidă strălucește în soarele slab de iarnă; intrați în foaier dacă este deschis pentru a scăpa de gerul dimineții. Păstrați mănușile când faceți poze."
+                "ro": "Fațada de cărămidă strălucește în soarele slab de iarnă; intrați în foaier dacă este deschis pentru a scăpa de gerul dimineții. Păstrați mănușile când faceți poze.",
+                "es": "La fachada de ladrillo brilla cálidamente con el bajo sol invernal; entra en el vestíbulo si está abierto para escapar un momento de la escarcha matinal. Mantén los guantes puestos al hacer fotos."
               }
             },
             {
@@ -320,13 +353,15 @@
                 "en": "Plaza del Mercado",
                 "de": "Plaza del Mercado",
                 "hu": "Plaza del Mercado",
-                "ro": "Plaza del Mercado"
+                "ro": "Plaza del Mercado",
+                "es": "Plaza del Mercado"
               },
               "tip_5lang": {
                 "en": "The square is often shielded from the wind by the surrounding buildings, making it a pleasant spot for a quick break in the winter sun. Watch for icy patches in the shadows.",
                 "de": "Der Platz ist oft windgeschützt durch die Gebäude, ideal für eine kurze Pause in der Wintersonne. Achten Sie auf vereiste Stellen in den schattigen Ecken.",
                 "hu": "A teret a környező épületek gyakran megvédik a széltől, így kellemes hely egy gyors pihenőre a téli napsütésben. Ügyeljen a jeges foltokra az árnyékos részeken.",
-                "ro": "Piața este adesea ferită de vânt de clădirile din jur, fiind un loc plăcut pentru o pauză scurtă în soarele de iarnă. Atenție la gheața din zonele umbrite."
+                "ro": "Piața este adesea ferită de vânt de clădirile din jur, fiind un loc plăcut pentru o pauză scurtă în soarele de iarnă. Atenție la gheața din zonele umbrite.",
+                "es": "La plaza suele estar protegida del viento por los edificios circundantes, lo que la convierte en un lugar agradable para una pausa rápida al sol invernal. Vigila las placas de hielo en las zonas en sombra."
               }
             },
             {
@@ -334,13 +369,15 @@
                 "en": "Muela CIlíndrica",
                 "de": "Muela CIlíndrica",
                 "hu": "Muela CIlíndrica",
-                "ro": "Muela CIlíndrica"
+                "ro": "Muela CIlíndrica",
+                "es": "Muela CIlíndrica"
               },
               "tip_5lang": {
                 "en": "The metal structure feels especially cold to the touch in winter, but the clear air offers excellent visibility of the Pyrenees in the distance. Wear a warm hat here.",
                 "de": "Die Metallstruktur fühlt sich im Winter besonders kalt an, aber die klare Luft bietet exzellente Sicht auf die fernen Pyrenäen. Tragen Sie hier eine warme Mütze.",
                 "hu": "A fémszerkezet télen különösen hideg tapintású, de a tiszta levegő kiváló kilátást biztosít a távoli Pireneusokra. Viseljen itt meleg sapkát a szél ellen.",
-                "ro": "Structura metalică este rece la atingere iarna, dar aerul limpede oferă o vizibilitate excelentă spre Pirinei. Purtați o căciulă călduroasă în acest punct."
+                "ro": "Structura metalică este rece la atingere iarna, dar aerul limpede oferă o vizibilitate excelentă spre Pirinei. Purtați o căciulă călduroasă în acest punct.",
+                "es": "La estructura metálica se siente especialmente fría al tacto en invierno, pero el aire claro ofrece una excelente visibilidad de los Pirineos a lo lejos. Lleva un gorro caliente."
               }
             },
             {
@@ -348,13 +385,15 @@
                 "en": "Iglesia de San Francisco",
                 "de": "Iglesia de San Francisco",
                 "hu": "Iglesia de San Francisco",
-                "ro": "Iglesia de San Francisco"
+                "ro": "Iglesia de San Francisco",
+                "es": "Iglesia de San Francisco"
               },
               "tip_5lang": {
                 "en": "Inside, the thick stone walls provide a surprisingly stable temperature away from the winter wind; enjoy the serene, candlelit atmosphere of the chapels. A scarf is helpful.",
                 "de": "Die dicken Steinmauern bieten eine stabile Temperatur abseits des Winterwinds; genießen Sie die ruhige Atmosphäre der Kapellen. Ein Schal ist hier sehr nützlich.",
                 "hu": "A vastag kőfalak meglepően stabil hőmérsékletet biztosítanak a téli szél elől; élvezze a kápolnák békés, gyertyafényes hangulatát. Egy sál jól jöhet bent is.",
-                "ro": "Zidurile groase de piatră oferă o temperatură stabilă, ferită de vântul de iarnă; bucurați-vă de atmosfera serenă din capele. Un fular este de mare ajutor."
+                "ro": "Zidurile groase de piatră oferă o temperatură stabilă, ferită de vântul de iarnă; bucurați-vă de atmosfera serenă din capele. Un fular este de mare ajutor.",
+                "es": "En el interior, los gruesos muros de piedra proporcionan una temperatura sorprendentemente estable lejos del viento invernal; disfruta de la atmósfera serena y a la luz de las velas de las capillas. Una bufanda es útil."
               }
             },
             {
@@ -362,13 +401,15 @@
                 "en": "Parque del Calvario",
                 "de": "Parque del Calvario",
                 "hu": "Parque del Calvario",
-                "ro": "Parque del Calvario"
+                "ro": "Parque del Calvario",
+                "es": "Parque del Calvario"
               },
               "tip_5lang": {
                 "en": "The winter sunset from this hilltop is spectacular, with the sky turning deep orange around 17:00; bring a thermos to enjoy the view. Descend before it gets too dark.",
                 "de": "Der Wintersonnenuntergang von diesem Hügel ist spektakulär, wenn der Himmel gegen 17:00 Uhr tiefrot wird. Steigen Sie ab, bevor es zu dunkel und frostig wird.",
                 "hu": "A téli naplemente erről a dombról látványos, az égbolt 17:00 körül mélynarancs színűre vált; hozzon termoszt a kilátáshoz. Ereszkedjen le, mielőtt besötétedik.",
-                "ro": "Apusul de iarnă de pe acest deal este spectaculos, cerul devenind portocaliu intens în jurul orei 17:00. Coborâți înainte de a se întuneca complet."
+                "ro": "Apusul de iarnă de pe acest deal este spectaculos, cerul devenind portocaliu intens în jurul orei 17:00. Coborâți înainte de a se întuneca complet.",
+                "es": "El atardecer invernal desde esta colina es espectacular, con el cielo volviéndose naranja intenso alrededor de las 17:00; lleva un termo para disfrutar de la vista. Baja antes de que oscurezca demasiado."
               }
             },
             {
@@ -376,13 +417,15 @@
                 "en": "Coso de Barbastro",
                 "de": "Coso de Barbastro",
                 "hu": "Coso de Barbastro",
-                "ro": "Coso de Barbastro"
+                "ro": "Coso de Barbastro",
+                "es": "Coso de Barbastro"
               },
               "tip_5lang": {
                 "en": "Winter lights decorate the avenue in the late afternoon, creating a festive mood even on cold days; keep moving to stay warm as you browse the displays. Wear warm socks.",
                 "de": "Winterliche Lichter schmücken die Allee am späten Nachmittag und sorgen für festliche Stimmung; bleiben Sie in Bewegung, um warm zu bleiben. Tragen Sie warme Socken.",
                 "hu": "Téli fények díszítik a sugárutat késő délután, ünnepi hangulatot árasztva a hideg napokon is; maradjon mozgásban, hogy ne fázzon a nézelődés közben. Viseljen meleg zoknit.",
-                "ro": "Luminile de iarnă decorează bulevardul după-amiaza târziu, creând o stare festivă chiar și în zilele reci; rămâneți în mișcare pentru a vă menține căldura."
+                "ro": "Luminile de iarnă decorează bulevardul după-amiaza târziu, creând o stare festivă chiar și în zilele reci; rămâneți în mișcare pentru a vă menține căldura.",
+                "es": "Las luces invernales decoran la avenida a última hora de la tarde, creando un ambiente festivo incluso en los días fríos; sigue en movimiento para mantenerte caliente mientras miras los puestos. Lleva calcetines calientes."
               }
             },
             {
@@ -390,13 +433,15 @@
                 "en": "Iglesia de San Julián",
                 "de": "Iglesia de San Julián",
                 "hu": "Iglesia de San Julián",
-                "ro": "Iglesia de San Julián"
+                "ro": "Iglesia de San Julián",
+                "es": "Iglesia de San Julián"
               },
               "tip_5lang": {
                 "en": "The exhibition space is a warm sanctuary to conclude your tour; enjoy the local history in comfort as the winter evening settles outside. Perfect for a final indoor stop.",
                 "de": "Der Ausstellungsraum ist ein warmes Refugium zum Abschluss Ihrer Tour; genießen Sie die Geschichte, während draußen der Winterabend anbricht. Ein idealer letzter Stopp.",
                 "hu": "A kiállítótér meleg menedék a túra lezárásához; élvezze a helyi történelmet kényelemben, miközben odakint beáll a téli este. Tökéletes utolsó benti állomás.",
-                "ro": "Spațiul expozițional este un sanctuar cald pentru a încheia turul; bucurați-vă de istoria locală în confort în timp ce seara de iarnă se lasă afară."
+                "ro": "Spațiul expozițional este un sanctuar cald pentru a încheia turul; bucurați-vă de istoria locală în confort în timp ce seara de iarnă se lasă afară.",
+                "es": "El espacio expositivo es un santuario cálido para concluir tu visita; disfruta de la historia local con comodidad mientras la noche invernal cae afuera. Perfecto para una última parada interior."
               }
             }
           ]
@@ -416,7 +461,8 @@
             "en": "Iglesia de San Julián",
             "de": "Iglesia de San Julián",
             "hu": "Iglesia de San Julián",
-            "ro": "Iglesia de San Julián"
+            "ro": "Iglesia de San Julián",
+            "es": "Iglesia de San Julián"
           },
           "coords": [
             0.120246,
@@ -431,7 +477,8 @@
             "en": "Visit this historic church known for its distinctive features and deep community roots, paying special attention to the beautifully crafted entrance portal.",
             "de": "Besuchen Sie diese historische Kirche, die für ihre markanten Merkmale bekannt ist, und achten Sie besonders auf das wunderschön gearbeitete Eingangsportal.",
             "hu": "Látogasson el ebbe a jellegzetes vonásairól és mély közösségi gyökereiről ismert történelmi templomba, különös figyelmet fordítva a gyönyörű bejárati portálra.",
-            "ro": "Vizitați această biserică istorică cunoscută pentru caracteristicile sale distinctive, acordând o atenție deosebită portalului de intrare frumos realizat."
+            "ro": "Vizitați această biserică istorică cunoscută pentru caracteristicile sale distinctive, acordând o atenție deosebită portalului de intrare frumos realizat.",
+            "es": "Visita esta iglesia histórica conocida por sus rasgos distintivos y profundas raíces comunitarias; presta atención al portal de entrada bellamente tallado."
           }
         },
         {
@@ -439,7 +486,8 @@
             "en": "Coso de Barbastro",
             "de": "Coso de Barbastro",
             "hu": "Coso de Barbastro",
-            "ro": "Coso de Barbastro"
+            "ro": "Coso de Barbastro",
+            "es": "Coso de Barbastro"
           },
           "coords": [
             0.122922,
@@ -454,7 +502,8 @@
             "en": "Walk down this prominent avenue, originally a medieval moat, which now serves as a bustling hub where locals gather; check out the nearby historical plaques.",
             "de": "Spazieren Sie diese markante Allee hinunter, die ursprünglich ein mittelalterlicher Burggraben war und nun als lebhafter Treffpunkt dient; beachten Sie die Plaketten.",
             "hu": "Sétáljon végig ezen a kiemelkedő sugárúton, amely egykor középkori várárok volt, most pedig nyüzsgő találkozóhely; nézze meg a közeli történelmi táblákat.",
-            "ro": "Plimbați-vă pe acest bulevard proeminent, inițial un șanț medieval, acum un centru plin de viață unde se adună localnicii; citiți plăcile istorice din apropiere."
+            "ro": "Plimbați-vă pe acest bulevard proeminent, inițial un șanț medieval, acum un centru plin de viață unde se adună localnicii; citiți plăcile istorice din apropiere.",
+            "es": "Recorre esta avenida prominente, originalmente un foso medieval, que ahora sirve como un bullicioso eje donde se reúne la gente; consulta las placas históricas cercanas."
           }
         },
         {
@@ -462,7 +511,8 @@
             "en": "Plaza del Mercado",
             "de": "Plaza del Mercado",
             "hu": "Plaza del Mercado",
-            "ro": "Plaza del Mercado"
+            "ro": "Plaza del Mercado",
+            "es": "Plaza del Mercado"
           },
           "coords": [
             0.125359,
@@ -477,7 +527,8 @@
             "en": "Experience the lively local atmosphere at this central market square, a perfect place to observe daily life while grabbing a quick coffee nearby.",
             "de": "Erleben Sie die lebhafte lokale Atmosphäre an diesem zentralen Marktplatz, ein idealer Ort, um das tägliche Leben bei einem schnellen Kaffee zu beobachten.",
             "hu": "Tapasztalja meg az élénk helyi hangulatot ezen a központi piactéren, amely tökéletes hely a mindennapi élet megfigyelésére egy gyors kávé mellett.",
-            "ro": "Experimentați atmosfera locală plină de viață în această piață centrală, un loc perfect pentru a observa viața de zi cu zi savurând o cafea rapidă."
+            "ro": "Experimentați atmosfera locală plină de viață în această piață centrală, un loc perfect pentru a observa viața de zi cu zi savurând o cafea rapidă.",
+            "es": "Vive el animado ambiente local en esta plaza central de mercado, un lugar perfecto para observar la vida diaria mientras tomas un café rápido cerca."
           }
         },
         {
@@ -485,7 +536,8 @@
             "en": "Parque Olearum",
             "de": "Parque Olearum",
             "hu": "Parque Olearum",
-            "ro": "Parque Olearum"
+            "ro": "Parque Olearum",
+            "es": "Parque Olearum"
           },
           "coords": [
             0.126387,
@@ -500,7 +552,8 @@
             "en": "Relax in this charming park dedicated to the region's olive oil heritage, a fantastic spot to learn about local culture while enjoying a midday picnic.",
             "de": "Entspannen Sie in diesem charmanten Park, der dem Olivenöl-Erbe der Region gewidmet ist, ein fantastischer Ort, um bei einem Picknick etwas über die Kultur zu lernen.",
             "hu": "Pihenjen ebben a bájos parkban, amelyet a régió olívaolaj-örökségének szenteltek, amely fantasztikus hely a helyi kultúra megismerésére egy piknik során.",
-            "ro": "Relaxați-vă în acest parc fermecător dedicat patrimoniului uleiului de măsline, un loc fantastic pentru a învăța despre cultura locală la un picnic de prânz."
+            "ro": "Relaxați-vă în acest parc fermecător dedicat patrimoniului uleiului de măsline, un loc fantastic pentru a învăța despre cultura locală la un picnic de prânz.",
+            "es": "Relájate en este parque encantador dedicado al patrimonio del aceite de oliva de la región, un sitio fantástico para aprender sobre la cultura local mientras disfrutas de un picnic al mediodía."
           }
         },
         {
@@ -508,7 +561,8 @@
             "en": "Parque del Calvario",
             "de": "Parque del Calvario",
             "hu": "Parque del Calvario",
-            "ro": "Parque del Calvario"
+            "ro": "Parque del Calvario",
+            "es": "Parque del Calvario"
           },
           "coords": [
             0.125168,
@@ -523,7 +577,8 @@
             "en": "Stroll along the shaded paths of this elevated park for excellent views over Barbastro, making sure to wear comfortable walking shoes for the slight incline.",
             "de": "Spazieren Sie auf den schattigen Wegen dieses höher gelegenen Parks für hervorragende Ausblicke über Barbastro; tragen Sie bequeme Schuhe für die leichte Steigung.",
             "hu": "Sétáljon végig ennek a magasabban fekvő parknak az árnyékos ösvényein, ahonnan kiváló kilátás nyílik Barbastróra, és mindenképpen viseljen kényelmes cipőt.",
-            "ro": "Plimbați-vă pe aleile umbrite ale acestui parc înalt pentru vederi excelente asupra orașului Barbastro, asigurându-vă că purtați încălțăminte confortabilă."
+            "ro": "Plimbați-vă pe aleile umbrite ale acestui parc înalt pentru vederi excelente asupra orașului Barbastro, asigurându-vă că purtați încălțăminte confortabilă.",
+            "es": "Pasea por los senderos sombreados de este parque elevado para obtener excelentes vistas de Barbastro; asegúrate de llevar calzado cómodo para la ligera pendiente."
           }
         },
         {
@@ -531,7 +586,8 @@
             "en": "Arco de Piedra",
             "de": "Arco de Piedra",
             "hu": "Arco de Piedra",
-            "ro": "Arco de Piedra"
+            "ro": "Arco de Piedra",
+            "es": "Arco de Piedra"
           },
           "coords": [
             0.134854,
@@ -546,7 +602,8 @@
             "en": "Admire this robust stone arch that once formed part of the city's defenses, an impressive remnant perfect for a quick historical photo opportunity.",
             "de": "Bewundern Sie diesen robusten Steinbogen, der einst Teil der Stadtverteidigung war, ein beeindruckendes Überbleibsel und perfekt für ein historisches Foto.",
             "hu": "Csodálja meg ezt a robusztus kőívet, amely egykor a város védelmének része volt, ez a lenyűgöző maradvány tökéletes egy gyors történelmi fotózkodáshoz.",
-            "ro": "Admirați acest arc de piatră robust care făcea odată parte din apărarea orașului, o rămășiță impresionantă perfectă pentru o oportunitate rapidă de fotografie."
+            "ro": "Admirați acest arc de piatră robust care făcea odată parte din apărarea orașului, o rămășiță impresionantă perfectă pentru o oportunitate rapidă de fotografie.",
+            "es": "Admira este robusto arco de piedra que formó parte de las defensas de la ciudad, un impresionante vestigio perfecto para una foto histórica rápida."
           }
         },
         {
@@ -554,7 +611,8 @@
             "en": "Parque Municipal La Paz",
             "de": "Parque Municipal La Paz",
             "hu": "Parque Municipal La Paz",
-            "ro": "Parque Municipal La Paz"
+            "ro": "Parque Municipal La Paz",
+            "es": "Parque Municipal La Paz"
           },
           "coords": [
             0.134466,
@@ -569,7 +627,8 @@
             "en": "Unwind in this expansive green lung of the city, which offers well-kept lawns and large trees, ideal for letting children play or taking a peaceful stroll.",
             "de": "Entspannen Sie in dieser weitläufigen grünen Lunge der Stadt mit gepflegten Rasenflächen und großen Bäumen, ideal, um Kinder spielen zu lassen oder zu flanieren.",
             "hu": "Kapcsolódjon ki a város ezen hatalmas zöld tüdejében, amely gondozott pázsittal és nagy fákkal rendelkezik, ideális a gyerekek játékához vagy egy békés sétához.",
-            "ro": "Relaxați-vă în acest plămân verde al orașului, care oferă peluze bine îngrijite și copaci mari, ideal pentru a lăsa copiii să se joace sau pentru o plimbare liniștită."
+            "ro": "Relaxați-vă în acest plămân verde al orașului, care oferă peluze bine îngrijite și copaci mari, ideal pentru a lăsa copiii să se joace sau pentru o plimbare liniștită.",
+            "es": "Relájate en este amplio pulmón verde de la ciudad, que ofrece céspedes bien cuidados y árboles grandes, ideal para que los niños jueguen o para dar un paseo tranquilo."
           }
         }
       ],
@@ -577,7 +636,8 @@
         "en": "Start your Barbastro journey exploring the historic city center, taking in the grand Renaissance details of the town hall. The early hours are best to observe the town awakening at the bustling Plaza del Mercado.\nBy midday, dive deeper into the city's rich heritage with visits to ancient monuments like the Muela CIlíndrica. Allow the quiet atmosphere of the local churches to offer a peaceful respite from the midday sun.\nIn the afternoon, head towards the town's charming parks, where the elevated viewpoints at Parque del Calvario provide excellent photo opportunities. Enjoy the historical context of the medieval avenues and archways.\nAs evening approaches, wind down your excursion with a relaxing stroll in Parque Municipal La Paz. The soothing ambiance and natural surroundings create a perfect finale to a delightful day exploring Barbastro.",
         "de": "Beginnen Sie Ihre Reise in Barbastro mit der Erkundung des historischen Zentrums und der Renaissance-Details des Rathauses. Die frühen Stunden sind ideal, um das Erwachen der Stadt an der belebten Plaza del Mercado zu beobachten.\nMittags tauchen Sie tiefer in das reiche Erbe der Stadt ein und besuchen Denkmäler wie die Muela CIlíndrica. Die ruhige Atmosphäre der Kirchen bietet eine angenehme Erholung von der Mittagssonne.\nAm Nachmittag locken die charmanten Parks der Stadt. Die Aussichtspunkte im Parque del Calvario bieten hervorragende Fotomotive, während Sie den Kontext der mittelalterlichen Gassen und Bögen genießen.\nGegen Abend können Sie Ihren Ausflug mit einem entspannten Spaziergang im Parque Municipal La Paz ausklingen lassen. Das beruhigende Ambiente bildet den perfekten Abschluss für einen wunderbaren Tag in Barbastro.",
         "hu": "Kezdje a barbastrói utazást a történelmi központ felfedezésével és a városháza reneszánsz részleteinek megcsodálásával. A kora reggeli órák a legjobbak a város ébredésének megfigyelésére a nyüzsgő Plaza del Mercadón.\nDélben merüljön el mélyebben a város gazdag örökségében olyan ősi műemlékek felkeresésével, mint a Muela CIlíndrica. A helyi templomok csendes légköre békés felüdülést kínál a déli napsütés elől.\nDélután induljon a város bájos parkjai felé, ahol a Parque del Calvario magaslati kilátói kiváló fotózási lehetőségeket kínálnak. Élvezze a középkori sugárutak és boltívek történelmi hangulatát.\nAz este közeledtével zárja kirándulását egy pihentető sétával a Parque Municipal La Paz zöldjében. A nyugtató környezet és a természetes közeg tökéletes befejezése egy csodálatos barbastrói napnak.",
-        "ro": "Începeți călătoria în Barbastro explorând centrul istoric și detaliile renascentiste ale primăriei. Orele dimineții sunt ideale pentru a observa trezirea orașului la viață în aglomerata Plaza del Mercado.\nLa prânz, aprofundați patrimoniul bogat al orașului vizitând monumente antice precum Muela CIlíndrica. Atmosfera liniștită a bisericilor locale oferă un răgaz pașnic de la soarele amiezii.\nDupă-amiaza, îndreptați-vă spre parcurile fermecătoare, unde punctele de belvedere de la Parque del Calvario oferă oportunități foto excelente. Bucurați-vă de contextul istoric al bulevardelor și arcadelor medievale.\nPe măsură ce se apropie seara, încheiați-vă excursia cu o plimbare relaxantă în Parque Municipal La Paz. Ambianța liniștitoare și cadrul natural creează un final perfect pentru o zi încântătoare în Barbastro."
+        "ro": "Începeți călătoria în Barbastro explorând centrul istoric și detaliile renascentiste ale primăriei. Orele dimineții sunt ideale pentru a observa trezirea orașului la viață în aglomerata Plaza del Mercado.\nLa prânz, aprofundați patrimoniul bogat al orașului vizitând monumente antice precum Muela CIlíndrica. Atmosfera liniștită a bisericilor locale oferă un răgaz pașnic de la soarele amiezii.\nDupă-amiaza, îndreptați-vă spre parcurile fermecătoare, unde punctele de belvedere de la Parque del Calvario oferă oportunități foto excelente. Bucurați-vă de contextul istoric al bulevardelor și arcadelor medievale.\nPe măsură ce se apropie seara, încheiați-vă excursia cu o plimbare relaxantă în Parque Municipal La Paz. Ambianța liniștitoare și cadrul natural creează un final perfect pentru o zi încântătoare în Barbastro.",
+        "es": "Comienza tu recorrido por Barbastro explorando el casco histórico, contemplando los grandiosos detalles renacentistas del ayuntamiento. Las primeras horas son las mejores para ver cómo despierta la ciudad en la concurrida Plaza del Mercado.\nAl mediodía, profundiza en la rica herencia de la ciudad con visitas a monumentos antiguos como la Muela CIlíndrica. Permite que la atmósfera tranquila de las iglesias locales te brinde un respiro pacífico del sol del mediodía.\nPor la tarde, dirígete a los encantadores parques de la ciudad, donde los miradores elevados del Parque del Calvario ofrecen excelentes oportunidades fotográficas. Disfruta del contexto histórico de las avenidas y arcos medievales.\nAl acercarse la noche, relaja tu excursión con un paseo por el Parque Municipal La Paz. La atmósfera apacible y el entorno natural crean un final perfecto para un día encantador explorando Barbastro."
       },
       "variants": {
         "rainy": {
@@ -585,7 +645,8 @@
             "en": "Riding through Barbastro in the rain requires focus on the slippery roads. Morning stops offer quick shelter in the historic center. By noon, paved park paths are manageable, but avoid grassy areas. In the afternoon, the riverside breeze can be chilly when wet. Ensure your brakes are checked as you navigate the damp urban descents before evening.",
             "de": "Radfahren in Barbastro bei Regen erfordert Konzentration auf rutschigen Straßen. Am Morgen bieten die Stopps im Zentrum schnellen Schutz. Mittags sind befestigte Parkwege befahrbar, meiden Sie aber Grasflächen. Nachmittags kann die Brise am Fluss kühl sein. Prüfen Sie Ihre Bremsen für die feuchten Abfahrten vor Einbruch der Dunkelheit.",
             "hu": "Az esős Barbastroban való kerékpározás figyelmet igényel a csúszós utak miatt. A reggeli megállók gyors menedéket nyújtanak a központban. Délben a kövezett parki utak járhatók, de kerülje a füves részeket. Délután a folyóparti szél hűvös lehet. Ellenőrizze a fékeket a vizes lejtők előtt, mielőtt leszáll az est.",
-            "ro": "Mersul cu bicicleta prin Barbastro pe ploaie necesită concentrare pe drumurile alunecoase. Opririle de dimineață oferă adăpost rapid. La prânz, potecile pavate sunt practicabile, dar evitați iarba. După-amiaza, briza de lângă râu poate fi rece. Verificați frânele pentru coborârile umede înainte de seară."
+            "ro": "Mersul cu bicicleta prin Barbastro pe ploaie necesită concentrare pe drumurile alunecoase. Opririle de dimineață oferă adăpost rapid. La prânz, potecile pavate sunt practicabile, dar evitați iarba. După-amiaza, briza de lângă râu poate fi rece. Verificați frânele pentru coborârile umede înainte de seară.",
+            "es": "Circular por Barbastro bajo la lluvia requiere concentración en las vías resbaladizas. Las paradas matinales ofrecen refugio rápido en el casco histórico. Al mediodía, los caminos pavimentados de los parques son manejables, pero evita las áreas de césped. Por la tarde, la brisa junto al río puede ser fría cuando está mojada. Asegúrate de que los frenos estén revisados al afrontar los descensos urbanos húmedos antes de la noche."
           },
           "stops": [
             {
@@ -593,13 +654,15 @@
                 "en": "Iglesia de San Julián",
                 "de": "Iglesia de San Julián",
                 "hu": "Iglesia de San Julián",
-                "ro": "Iglesia de San Julián"
+                "ro": "Iglesia de San Julián",
+                "es": "Iglesia de San Julián"
               },
               "tip_5lang": {
                 "en": "Park your bike near the entrance and enjoy the dry museum interior; it is a great starting point to wait out a heavy morning shower. Check for covered bike racks nearby.",
                 "de": "Parken Sie Ihr Rad am Eingang und genießen Sie das trockene Museum; ein idealer Startpunkt, um einen Regenschauer abzuwarten. Suchen Sie nach überdachten Fahrradständern.",
                 "hu": "Parkoljon a bejárat közelében, és élvezze a száraz múzeumot; nagyszerű kezdőpont egy heves reggeli zápor kivárásához. Keressen fedett tárolót a közelben.",
-                "ro": "Parcați bicicleta lângă intrare și bucurați-vă de interiorul uscat; este un punct de plecare excelent pentru a aștepta trecerea unei ploi de dimineață."
+                "ro": "Parcați bicicleta lângă intrare și bucurați-vă de interiorul uscat; este un punct de plecare excelent pentru a aștepta trecerea unei ploi de dimineață.",
+                "es": "Aparca la bicicleta cerca de la entrada y disfruta del interior seco del museo; es un gran punto de partida para esperar a que pase un chaparrón matinal intenso. Comprueba si hay aparcabicicletas cubiertos cerca."
               }
             },
             {
@@ -607,13 +670,15 @@
                 "en": "Coso de Barbastro",
                 "de": "Coso de Barbastro",
                 "hu": "Coso de Barbastro",
-                "ro": "Coso de Barbastro"
+                "ro": "Coso de Barbastro",
+                "es": "Coso de Barbastro"
               },
               "tip_5lang": {
                 "en": "The wide street allows for safe cycling, but watch for slippery road markings and painted lines. Use the shop awnings if you need a quick break from the rain.",
                 "de": "Die breite Straße ermöglicht sicheres Radfahren, aber achten Sie auf rutschige Markierungen und Linien. Nutzen Sie die Markisen der Geschäfte für kurze Pausen.",
                 "hu": "A széles utca biztonságos kerékpározást tesz lehetővé, de ügyeljen a csúszós útburkolati jelekre. Használja az üzletek napellenzőit egy rövid esőszünetre.",
-                "ro": "Strada largă permite ciclismul în siguranță, dar atenție la marcajele rutiere alunecoase. Folosiți copertinele magazinelor pentru o pauză scurtă de ploaie."
+                "ro": "Strada largă permite ciclismul în siguranță, dar atenție la marcajele rutiere alunecoase. Folosiți copertinele magazinelor pentru o pauză scurtă de ploaie.",
+                "es": "La calle ancha facilita el ciclismo seguro, pero cuidado con las marcas viales y líneas pintadas resbaladizas. Usa los toldos de las tiendas si necesitas un breve descanso de la lluvia."
               }
             },
             {
@@ -621,13 +686,15 @@
                 "en": "Plaza del Mercado",
                 "de": "Plaza del Mercado",
                 "hu": "Plaza del Mercado",
-                "ro": "Plaza del Mercado"
+                "ro": "Plaza del Mercado",
+                "es": "Plaza del Mercado"
               },
               "tip_5lang": {
                 "en": "Dismount and walk your bike under the stone arches to stay completely dry while admiring the historic facades. The wet stones can be very slick for tires.",
                 "de": "Steigen Sie ab und schieben Sie Ihr Rad unter die Steinarkaden, um trocken zu bleiben, während Sie die Fassaden bewundern. Nasse Steine sind sehr glatt für Reifen.",
                 "hu": "Szálljon le és tolja a biciklit a kőárkádok alatt, hogy teljesen száraz maradjon, miközben a homlokzatokat csodálja. A vizes kövek nagyon csúszósak lehetnek.",
-                "ro": "Coborâți și mergeți pe lângă bicicletă sub arcadele de piatră pentru a rămâne uscat în timp ce admirați fațadele. Pietrele ude pot fi alunecoase pentru pneuri."
+                "ro": "Coborâți și mergeți pe lângă bicicletă sub arcadele de piatră pentru a rămâne uscat în timp ce admirați fațadele. Pietrele ude pot fi alunecoase pentru pneuri.",
+                "es": "Baja de la bicicleta y camina bajo los arcos de piedra para mantenerte completamente seco mientras admiras las fachadas históricas. Las piedras húmedas pueden ser muy resbaladizas para las ruedas."
               }
             },
             {
@@ -635,13 +702,15 @@
                 "en": "Parque Olearum",
                 "de": "Parque Olearum",
                 "hu": "Parque Olearum",
-                "ro": "Parque Olearum"
+                "ro": "Parque Olearum",
+                "es": "Parque Olearum"
               },
               "tip_5lang": {
                 "en": "The paved paths are best for cycling in the rain; avoid any muddy short-cuts through the grass to keep your bike clean. The olive trees look lush in the damp air.",
                 "de": "Die befestigten Wege sind bei Regen am besten; meiden Sie matschige Abkürzungen durch das Gras. Die Olivenbäume wirken in der feuchten Luft besonders üppig.",
                 "hu": "A kövezett utak a legjobbak esőben; kerülje a sáros levágásokat a fűben, hogy tisztán tartsa a biciklit. Az olajfák dúsabbnak tűnnek a párás levegőben.",
-                "ro": "Potecile pavate sunt cele mai bune pe ploaie; evitați scurtăturile noroioase prin iarbă pentru a păstra bicicleta curată. Maslinii par mai verzi în aerul umed."
+                "ro": "Potecile pavate sunt cele mai bune pe ploaie; evitați scurtăturile noroioase prin iarbă pentru a păstra bicicleta curată. Maslinii par mai verzi în aerul umed.",
+                "es": "Los senderos pavimentados son los mejores para pedalear bajo la lluvia; evita atajos embarrados por la hierba para mantener limpia la bici. Los olivos lucen frondosos con el aire húmedo."
               }
             },
             {
@@ -649,13 +718,15 @@
                 "en": "Parque del Calvario",
                 "de": "Parque del Calvario",
                 "hu": "Parque del Calvario",
-                "ro": "Parque del Calvario"
+                "ro": "Parque del Calvario",
+                "es": "Parque del Calvario"
               },
               "tip_5lang": {
                 "en": "The climb requires extra effort on wet pavement; engage a lower gear and take the descent very slowly to maintain control. The view is misty and poetic.",
                 "de": "Der Aufstieg erfordert auf nasser Fahrbahn zusätzliche Kraft; wählen Sie einen niedrigen Gang und fahren Sie vorsichtig bergab. Die Aussicht ist neblig und poetisch.",
                 "hu": "A kapaszkodás extra erőfeszítést igényel a vizes aszfalton; váltson alacsonyabb fokozatba, és lassan ereszkedjen le. A kilátás ködös és költői ilyenkor.",
-                "ro": "Urcarea necesită efort suplimentar pe asfaltul umed; folosiți o viteză inferioară și coborâți foarte încet pentru control. Vederea este cețoasă și poetică."
+                "ro": "Urcarea necesită efort suplimentar pe asfaltul umed; folosiți o viteză inferioară și coborâți foarte încet pentru control. Vederea este cețoasă și poetică.",
+                "es": "La subida exige más esfuerzo con el pavimento mojado; pon un desarrollo más corto y desciende muy despacio para mantener el control. La vista es brumosa y poética."
               }
             },
             {
@@ -663,13 +734,15 @@
                 "en": "Arco de Piedra",
                 "de": "Arco de Piedra",
                 "hu": "Arco de Piedra",
-                "ro": "Arco de Piedra"
+                "ro": "Arco de Piedra",
+                "es": "Arco de Piedra"
               },
               "tip_5lang": {
                 "en": "This stone arch provides a small but solid shelter for you and your bike during a sudden downpour. It is a quiet spot to check your map and wipe your goggles.",
                 "de": "Dieser Steinbogen bietet Ihnen und Ihrem Rad einen kleinen, aber soliden Schutz bei plötzlichen Güssen. Ein ruhiger Ort, um die Karte zu prüfen und die Brille zu putzen.",
                 "hu": "Ez a kőív kicsi, de szilárd menedéket nyújt Önnek és a biciklijének egy hirtelen zápor alatt. Nyugodt hely a térkép ellenőrzésére és a szemüveg letörlésére.",
-                "ro": "Acest arc de piatră oferă un adăpost mic, dar solid pentru tine și bicicletă în timpul unei averse. Este un loc liniștit pentru a verifica harta."
+                "ro": "Acest arc de piatră oferă un adăpost mic, dar solid pentru tine și bicicletă în timpul unei averse. Este un loc liniștit pentru a verifica harta.",
+                "es": "Este arco de piedra ofrece un refugio pequeño pero sólido para ti y tu bici durante un aguacero. Es un lugar tranquilo para consultar el mapa y secar las gafas."
               }
             },
             {
@@ -677,13 +750,15 @@
                 "en": "Parque Municipal La Paz",
                 "de": "Parque Municipal La Paz",
                 "hu": "Parque Municipal La Paz",
-                "ro": "Parque Municipal La Paz"
+                "ro": "Parque Municipal La Paz",
+                "es": "Parque Municipal La Paz"
               },
               "tip_5lang": {
                 "en": "Finish your ride on the wide, paved promenades; use the gazebos or large trees for shelter if the rain intensifies. Dry your bike chain after this trip to prevent rust.",
                 "de": "Beenden Sie die Fahrt auf den breiten Promenaden; nutzen Sie Pavillons oder große Bäume als Schutz. Trocknen Sie die Kette nach der Fahrt ab, um Rost zu vermeiden.",
                 "hu": "Zárja a tekerést a széles sétányokon; használja a pavilonokat vagy a nagy fákat menedékként, ha elered az eső. Rozsdásodás ellen törölje szárazra a láncot.",
-                "ro": "Încheiați plimbarea pe promenadele largi; folosiți foișoarele sau copacii mari pentru adăpost. Ștergeți lanțul bicicletei după tură pentru a preveni rugina."
+                "ro": "Încheiați plimbarea pe promenadele largi; folosiți foișoarele sau copacii mari pentru adăpost. Ștergeți lanțul bicicletei după tură pentru a preveni rugina.",
+                "es": "Termina tu recorrido por los amplios paseos pavimentados; usa los quioscos o los árboles grandes como refugio si la lluvia arrecia. Seca la cadena de la bici tras el paseo para evitar óxido."
               }
             }
           ]
@@ -693,7 +768,8 @@
             "en": "Winter cycling in Barbastro is invigorating but requires warm gloves and windproof gear. The morning air is sharp, so start with indoor sites. By noon, the winter sun provides some warmth on open roads. The afternoon light is beautiful but short-lived; plan to finish by 16:30. As 17:00 approaches, temperatures drop rapidly, so head toward the town center for warmth.",
             "de": "Winterliches Radfahren in Barbastro ist belebend, erfordert aber warme Handschuhe und Windschutz. Die Morgenluft ist scharf, beginnen Sie mit Innenbesichtigungen. Mittags spendet die Wintersonne auf offenen Straßen Wärme. Das Licht ist schön, aber kurz; planen Sie das Ende für 16:30 Uhr. Um 17:00 Uhr sinken die Temperaturen rapide.",
             "hu": "A téli kerékpározás Barbastroban frissítő, de meleg kesztyűt és szélálló ruhát igényel. A reggeli levegő metsző, kezdjen benti helyszínekkel. Délben a téli nap némi meleget ad a nyílt utakon. A délutáni fény gyönyörű, de rövid; tervezze a befejezést 16:30-ra. 17:00-hoz közeledve a hőmérséklet gyorsan zuhan.",
-            "ro": "Ciclismul de iarnă în Barbastro este revigorant, dar necesită mănuși calde și haine rezistente la vânt. Aerul dimineții este tăios, deci începeți cu locuri interioare. La prânz, soarele oferă puțină căldură. Lumina după-amiezii este frumoasă, dar scurtă; terminați până la 16:30. La ora 17:00 temperaturile scad brusc."
+            "ro": "Ciclismul de iarnă în Barbastro este revigorant, dar necesită mănuși calde și haine rezistente la vânt. Aerul dimineții este tăios, deci începeți cu locuri interioare. La prânz, soarele oferă puțină căldură. Lumina după-amiezii este frumoasă, dar scurtă; terminați până la 16:30. La ora 17:00 temperaturile scad brusc.",
+            "es": "El ciclismo invernal en Barbastro es vigorizante pero requiere guantes cálidos y ropa cortaviento. El aire de la mañana es punzante, así que empieza por sitios interiores. Al mediodía, el sol invernal aporta algo de calor en las vías abiertas. La luz de la tarde es hermosa pero corta; planifica terminar a las 16:30. Al acercarse las 17:00, la temperatura baja rápidamente, así que dirígete al centro del pueblo en busca de calor."
           },
           "stops": [
             {
@@ -701,13 +777,15 @@
                 "en": "Iglesia de San Julián",
                 "de": "Iglesia de San Julián",
                 "hu": "Iglesia de San Julián",
-                "ro": "Iglesia de San Julián"
+                "ro": "Iglesia de San Julián",
+                "es": "Iglesia de San Julián"
               },
               "tip_5lang": {
                 "en": "Spend some time in the climate-controlled museum to warm up before hitting the road; the indoor culture is a great contrast to the winter chill. Check tire pressure for the cold.",
                 "de": "Verbringen Sie Zeit im klimatisierten Museum, um sich aufzuwärmen; die Innenkultur ist ein toller Kontrast zum Frost. Prüfen Sie den Reifendruck bei Kälte.",
                 "hu": "Töltsön időt a temperált múzeumban, hogy bemelegedjen az út előtt; a benti kultúra remek kontraszt a téli hideggel. Ellenőrizze a guminyomást a hidegben.",
-                "ro": "Petreceți timp în muzeul climatizat pentru a vă încălzi înainte de a porni la drum; cultura de interior este un contrast bun cu frigul. Verificați presiunea pneurilor."
+                "ro": "Petreceți timp în muzeul climatizat pentru a vă încălzi înainte de a porni la drum; cultura de interior este un contrast bun cu frigul. Verificați presiunea pneurilor.",
+                "es": "Pasa un tiempo en el museo con climatización para entrar en calor antes de volver a la carretera; el interior cultural es un gran contraste con el frío invernal. Revisa la presión de los neumáticos por el frío."
               }
             },
             {
@@ -715,13 +793,15 @@
                 "en": "Coso de Barbastro",
                 "de": "Coso de Barbastro",
                 "hu": "Coso de Barbastro",
-                "ro": "Coso de Barbastro"
+                "ro": "Coso de Barbastro",
+                "es": "Coso de Barbastro"
               },
               "tip_5lang": {
                 "en": "Cycle along the sunny side of the avenue to maximize warmth; the festive window displays add a nice seasonal touch to your ride. Watch for occasional ice in shadows.",
                 "de": "Fahren Sie auf der Sonnenseite der Allee, um die Wärme zu maximieren; die festlichen Schaufenster sorgen für winterliche Stimmung. Achten Sie auf Eis in Schattenzonen.",
                 "hu": "Tekerjen a sugárút napos oldalán, hogy maximalizálja a hőérzetet; az ünnepi kirakatok szép szezonális hangulatot adnak az útnak. Ügyeljen a jegesedésre az árnyékban.",
-                "ro": "Mergeți pe partea însorită a bulevardului pentru a maximiza căldura; vitrinele festive adaugă o notă sezonieră plimbării. Atenție la gheața din zonele umbrite."
+                "ro": "Mergeți pe partea însorită a bulevardului pentru a maximiza căldura; vitrinele festive adaugă o notă sezonieră plimbării. Atenție la gheața din zonele umbrite.",
+                "es": "Pedalea por el lado soleado de la avenida para aprovechar el calor; los escaparates festivos añaden un toque estacional. Vigila el hielo ocasional en las sombras."
               }
             },
             {
@@ -729,13 +809,15 @@
                 "en": "Plaza del Mercado",
                 "de": "Plaza del Mercado",
                 "hu": "Plaza del Mercado",
-                "ro": "Plaza del Mercado"
+                "ro": "Plaza del Mercado",
+                "es": "Plaza del Mercado"
               },
               "tip_5lang": {
                 "en": "The square feels cozy in winter; park your bike and take a quick walk to keep your circulation going in the chilly air. The arches shield you from the winter breeze.",
                 "de": "Der Platz wirkt im Winter gemütlich; parken Sie das Rad und gehen Sie ein Stück, um den Kreislauf in Schwung zu bringen. Die Arkaden schützen vor dem Wind.",
                 "hu": "A tér télen is hangulatos; parkoljon le és sétáljon egyet, hogy serkentse a vérkeringését a hűvös levegőben. Az árkádok megvédik a téli szellőtől.",
-                "ro": "Piața pare primitoare iarna; parcați bicicleta și faceți o scurtă plimbare pentru circulație. Arcadele vă protejează de briza rece de iarnă."
+                "ro": "Piața pare primitoare iarna; parcați bicicleta și faceți o scurtă plimbare pentru circulație. Arcadele vă protejează de briza rece de iarnă.",
+                "es": "La plaza se siente acogedora en invierno; aparca la bici y da una breve caminata para activar la circulación en el aire frío. Los arcos te protegen de la brisa invernal."
               }
             },
             {
@@ -743,13 +825,15 @@
                 "en": "Parque Olearum",
                 "de": "Parque Olearum",
                 "hu": "Parque Olearum",
-                "ro": "Parque Olearum"
+                "ro": "Parque Olearum",
+                "es": "Parque Olearum"
               },
               "tip_5lang": {
                 "en": "The olive trees stay green through winter, providing a refreshing sight; the open paths are perfect for catching the midday sun while riding. Wear a windproof jacket.",
                 "de": "Die Olivenbäume bleiben den ganzen Winter über grün; die offenen Wege sind ideal, um beim Fahren die Mittagssonne zu genießen. Tragen Sie eine winddichte Jacke.",
                 "hu": "Az olajfák télen is zöldellnek, frissítő látványt nyújtva; a nyílt utak tökéletesek a déli napsütés élvezetére tekerés közben. Viseljen szélálló kabátot.",
-                "ro": "Măslinii rămân verzi tot timpul iernii; potecile deschise sunt perfecte pentru a profita de soarele de la prânz. Purtați o jachetă rezistentă la vânt."
+                "ro": "Măslinii rămân verzi tot timpul iernii; potecile deschise sunt perfecte pentru a profita de soarele de la prânz. Purtați o jachetă rezistentă la vânt.",
+                "es": "Los olivos permanecen verdes en invierno, ofreciendo una vista refrescante; los senderos abiertos son perfectos para captar el sol del mediodía mientras pedaleas. Lleva una chaqueta cortaviento."
               }
             },
             {
@@ -757,13 +841,15 @@
                 "en": "Parque del Calvario",
                 "de": "Parque del Calvario",
                 "hu": "Parque del Calvario",
-                "ro": "Parque del Calvario"
+                "ro": "Parque del Calvario",
+                "es": "Parque del Calvario"
               },
               "tip_5lang": {
                 "en": "The view of the snow-capped Pyrenees from the top is breathtaking in the clear winter air. The effort of the climb will help keep you warm. Bring lip balm for the wind.",
                 "de": "Die Sicht auf die schneebedeckten Pyrenäen ist bei klarer Winterluft atemberaubend. Die Anstrengung des Aufstiegs hält Sie warm. Nutzen Sie Lippenschutz gegen Wind.",
                 "hu": "A hófödte Pireneusok látványa a csúcsról lélegzetelállító a tiszta téli levegőben. A kapaszkodás segíteni fog melegen tartani. Használjon ajakírt a szél ellen.",
-                "ro": "Vederea spre Pirineii înzăpeziți este uluitoare în aerul curat de iarnă. Efortul urcării vă va ajuta să vă mențineți căldura. Folosiți balsam de buze pentru vânt."
+                "ro": "Vederea spre Pirineii înzăpeziți este uluitoare în aerul curat de iarnă. Efortul urcării vă va ajuta să vă mențineți căldura. Folosiți balsam de buze pentru vânt.",
+                "es": "La vista de los Pirineos nevados desde la cima es impresionante con el aire claro de invierno. El esfuerzo de la subida te ayudará a entrar en calor. Lleva protector labial para el viento."
               }
             },
             {
@@ -771,13 +857,15 @@
                 "en": "Arco de Piedra",
                 "de": "Arco de Piedra",
                 "hu": "Arco de Piedra",
-                "ro": "Arco de Piedra"
+                "ro": "Arco de Piedra",
+                "es": "Arco de Piedra"
               },
               "tip_5lang": {
                 "en": "The ancient stone radiates a cold aura in winter; it is a good spot for a quick photo before continuing to stay active. The low sun hits the stone beautifully around 15:00.",
                 "de": "Der antike Stein strahlt im Winter Kälte aus; ein guter Ort für ein schnelles Foto, bevor man aktiv bleibt. Die tiefe Sonne beleuchtet den Stein gegen 15:00 Uhr.",
                 "hu": "Az ősi kő hideg aurát áraszt télen; jó hely egy gyors fotóhoz, mielőtt továbbhaladna, hogy mozgásban maradjon. Az alacsony nap 15:00 körül szépen megvilágítja.",
-                "ro": "Piatra antică emană o aură rece iarna; este un loc bun pentru o poză rapidă înainte de a continua drumul. Soarele lovește frumos piatra în jurul orei 15:00."
+                "ro": "Piatra antică emană o aură rece iarna; este un loc bun pentru o poză rapidă înainte de a continua drumul. Soarele lovește frumos piatra în jurul orei 15:00.",
+                "es": "La piedra antigua irradia una sensación de frío en invierno; es un buen punto para una foto rápida antes de seguir activo. El sol bajo ilumina la piedra de forma hermosa alrededor de las 15:00."
               }
             },
             {
@@ -785,13 +873,15 @@
                 "en": "Parque Municipal La Paz",
                 "de": "Parque Municipal La Paz",
                 "hu": "Parque Municipal La Paz",
-                "ro": "Parque Municipal La Paz"
+                "ro": "Parque Municipal La Paz",
+                "es": "Parque Municipal La Paz"
               },
               "tip_5lang": {
                 "en": "Finish your tour as the golden hour highlights the park; the chill sets in quickly after 16:30, so don't linger too long. A fast pace back to the center is recommended.",
                 "de": "Beenden Sie die Tour zur goldenen Stunde; nach 16:30 Uhr wird es schnell frostig, bleiben Sie nicht zu lange. Eine zügige Rückfahrt ins Zentrum wird empfohlen.",
                 "hu": "Zárja a túrát az aranyórában; 16:30 után gyorsan hűl a levegő, ne időzzön túl sokat. Javasolt a tempósabb visszatérés a központba a kihűlés ellen.",
-                "ro": "Încheiați turul în ora de aur; frigul se lasă repede după 16:30, deci nu zăboviți prea mult. Se recomandă un ritm rapid de întoarcere spre centru."
+                "ro": "Încheiați turul în ora de aur; frigul se lasă repede după 16:30, deci nu zăboviți prea mult. Se recomandă un ritm rapid de întoarcere spre centru.",
+                "es": "Termina tu ruta cuando la hora dorada resalta el parque; el frío se acentúa rápido después de las 16:30, así que no te demores. Se recomienda regresar al centro a buen ritmo."
               }
             }
           ]
@@ -811,7 +901,8 @@
             "en": "Granja Aventura",
             "de": "Granja Aventura",
             "hu": "Granja Aventura",
-            "ro": "Granja Aventura"
+            "ro": "Granja Aventura",
+            "es": "Granja Aventura"
           },
           "coords": [
             0.093227,
@@ -826,7 +917,8 @@
             "en": "Start your adventure at this engaging recreational farm that offers interactive animal encounters, making it an absolute must-visit destination for families with kids.",
             "de": "Beginnen Sie Ihr Abenteuer auf diesem Freizeitbauernhof mit interaktiven Tierbegegnungen, was ihn zu einem absoluten Muss für Familien mit Kindern macht.",
             "hu": "Kezdje kalandját ezen a vonzó szabadidős farmon, amely interaktív állatos találkozásokat kínál, így a gyermekes családok számára feltétlenül kötelező úti cél.",
-            "ro": "Începeți aventura la această fermă de agrement captivantă care oferă interacțiuni cu animalele, fiind o destinație absolut obligatorie pentru familiile cu copii."
+            "ro": "Începeți aventura la această fermă de agrement captivantă care oferă interacțiuni cu animalele, fiind o destinație absolut obligatorie pentru familiile cu copii.",
+            "es": "Comienza la aventura en esta granja recreativa que ofrece encuentros interactivos con animales; es una visita imprescindible para familias con niños."
           }
         },
         {
@@ -834,7 +926,8 @@
             "en": "Iglesia de San Julián",
             "de": "Iglesia de San Julián",
             "hu": "Iglesia de San Julián",
-            "ro": "Iglesia de San Julián"
+            "ro": "Iglesia de San Julián",
+            "es": "Iglesia de San Julián"
           },
           "coords": [
             0.120246,
@@ -849,7 +942,8 @@
             "en": "Visit this historic church known for its distinctive features and deep community roots, paying special attention to the beautifully crafted entrance portal.",
             "de": "Besuchen Sie diese historische Kirche, die für ihre markanten Merkmale bekannt ist, und achten Sie besonders auf das wunderschön gearbeitete Eingangsportal.",
             "hu": "Látogasson el ebbe a jellegzetes vonásairól és mély közösségi gyökereiről ismert történelmi templomba, különös figyelmet fordítva a gyönyörű bejárati portálra.",
-            "ro": "Vizitați această biserică istorică cunoscută pentru caracteristicile sale distinctive, acordând o atenție deosebită portalului de intrare frumos realizat."
+            "ro": "Vizitați această biserică istorică cunoscută pentru caracteristicile sale distinctive, acordând o atenție deosebită portalului de intrare frumos realizat.",
+            "es": "Visita esta iglesia histórica conocida por sus rasgos distintivos y su profunda vinculación comunitaria, prestando atención especial al portal de entrada bellamente tallado."
           }
         },
         {
@@ -857,7 +951,8 @@
             "en": "Ayuntamiento de Barbastro",
             "de": "Ayuntamiento de Barbastro",
             "hu": "Ayuntamiento de Barbastro",
-            "ro": "Ayuntamiento de Barbastro"
+            "ro": "Ayuntamiento de Barbastro",
+            "es": "Ayuntamiento de Barbastro"
           },
           "coords": [
             0.123359,
@@ -872,7 +967,8 @@
             "en": "Admire the beautiful Renaissance facade of the town hall, which stands as a proud symbol of the city's rich history, and snap photos in the morning light.",
             "de": "Bewundern Sie die schöne Renaissance-Fassade des Rathauses, die ein stolzes Symbol der Geschichte der Stadt ist, und machen Sie Fotos im Morgenlicht.",
             "hu": "Csodálja meg a városháza gyönyörű reneszánsz homlokzatát, amely a város gazdag történelmének büszke szimbóluma, és készítsen fotókat a reggeli fényben.",
-            "ro": "Admirați frumoasa fațadă renascentistă a primăriei, un simbol mândru al istoriei bogate a orașului, și faceți fotografii în lumina caldă a dimineții."
+            "ro": "Admirați frumoasa fațadă renascentistă a primăriei, un simbol mândru al istoriei bogate a orașului, și faceți fotografii în lumina caldă a dimineții.",
+            "es": "Admira la bella fachada renacentista del ayuntamiento, que se erige como orgulloso símbolo de la rica historia de la ciudad, y toma fotos con la luz de la mañana."
           }
         },
         {
@@ -880,7 +976,8 @@
             "en": "Parque del Calvario",
             "de": "Parque del Calvario",
             "hu": "Parque del Calvario",
-            "ro": "Parque del Calvario"
+            "ro": "Parque del Calvario",
+            "es": "Parque del Calvario"
           },
           "coords": [
             0.125168,
@@ -895,7 +992,8 @@
             "en": "Stroll along the shaded paths of this elevated park for excellent views over Barbastro, making sure to wear comfortable walking shoes for the slight incline.",
             "de": "Spazieren Sie auf den schattigen Wegen dieses höher gelegenen Parks für hervorragende Ausblicke über Barbastro; tragen Sie bequeme Schuhe für die leichte Steigung.",
             "hu": "Sétáljon végig ennek a magasabban fekvő parknak az árnyékos ösvényein, ahonnan kiváló kilátás nyílik Barbastróra, és mindenképpen viseljen kényelmes cipőt.",
-            "ro": "Plimbați-vă pe aleile umbrite ale acestui parc înalt pentru vederi excelente asupra orașului Barbastro, asigurându-vă că purtați încălțăminte confortabilă."
+            "ro": "Plimbați-vă pe aleile umbrite ale acestui parc înalt pentru vederi excelente asupra orașului Barbastro, asigurându-vă că purtați încălțăminte confortabilă.",
+            "es": "Pasea por los senderos sombreados de este parque elevado para obtener excelentes vistas de Barbastro; lleva calzado cómodo para la ligera pendiente."
           }
         },
         {
@@ -903,7 +1001,8 @@
             "en": "Monumento al Alcalde Rafael Fernández de Vega y Frago",
             "de": "Monumento al Alcalde Rafael Fernández de Vega y Frago",
             "hu": "Monumento al Alcalde Rafael Fernández de Vega y Frago",
-            "ro": "Monumento al Alcalde Rafael Fernández de Vega y Frago"
+            "ro": "Monumento al Alcalde Rafael Fernández de Vega y Frago",
+            "es": "Monumento al Alcalde Rafael Fernández de Vega y Frago"
           },
           "coords": [
             0.134359,
@@ -918,7 +1017,8 @@
             "en": "Take a moment at this dignified monument honoring a notable former mayor, providing insight into the civic pride and 20th-century political history of Barbastro.",
             "de": "Halten Sie einen Moment an diesem würdigen Denkmal für einen bemerkenswerten ehemaligen Bürgermeister, das Einblicke in den Stolz und die Geschichte von Barbastro bietet.",
             "hu": "Töltsön el egy percet ennél a figyelemre méltó volt polgármestert tisztelő, méltóságteljes emlékműnél, amely betekintést nyújt Barbastro 20. századi történelmébe.",
-            "ro": "Luați-vă un moment la acest monument demn care onorează un fost primar notabil, oferind o perspectivă asupra istoriei politice din secolul XX a orașului Barbastro."
+            "ro": "Luați-vă un moment la acest monument demn care onorează un fost primar notabil, oferind o perspectivă asupra istoriei politice din secolul XX a orașului Barbastro.",
+            "es": "Detente frente a este digno monumento en honor a un destacado exalcalde; ofrece perspectiva sobre el orgullo cívico y la historia política del siglo XX en Barbastro."
           }
         },
         {
@@ -926,7 +1026,8 @@
             "en": "Parque Municipal La Paz",
             "de": "Parque Municipal La Paz",
             "hu": "Parque Municipal La Paz",
-            "ro": "Parque Municipal La Paz"
+            "ro": "Parque Municipal La Paz",
+            "es": "Parque Municipal La Paz"
           },
           "coords": [
             0.134466,
@@ -941,7 +1042,8 @@
             "en": "Unwind in this expansive green lung of the city, which offers well-kept lawns and large trees, ideal for letting children play or taking a peaceful stroll.",
             "de": "Entspannen Sie in dieser weitläufigen grünen Lunge der Stadt mit gepflegten Rasenflächen und großen Bäumen, ideal, um Kinder spielen zu lassen oder zu flanieren.",
             "hu": "Kapcsolódjon ki a város ezen hatalmas zöld tüdejében, amely gondozott pázsittal és nagy fákkal rendelkezik, ideális a gyerekek játékához vagy egy békés sétához.",
-            "ro": "Relaxați-vă în acest plămân verde al orașului, care oferă peluze bine îngrijite și copaci mari, ideal pentru a lăsa copiii să se joace sau pentru o plimbare liniștită."
+            "ro": "Relaxați-vă în acest plămân verde al orașului, care oferă peluze bine îngrijite și copaci mari, ideal pentru a lăsa copiii să se joace sau pentru o plimbare liniștită.",
+            "es": "Relájate en este amplio pulmón verde de la ciudad, con céspedes bien cuidados y árboles grandes, ideal para que los niños jueguen o para dar un paseo tranquilo."
           }
         },
         {
@@ -949,7 +1051,8 @@
             "en": "Zoológico Iris",
             "de": "Zoológico Iris",
             "hu": "Zoológico Iris",
-            "ro": "Zoológico Iris"
+            "ro": "Zoológico Iris",
+            "es": "Zoológico Iris"
           },
           "coords": [
             0.142563,
@@ -964,7 +1067,8 @@
             "en": "Conclude your trip at this small but charming zoo, where a variety of well-cared-for animals await, making it an engaging and relaxing final stop for the day.",
             "de": "Beenden Sie Ihren Ausflug in diesem kleinen, aber feinen Zoo, in dem eine Vielzahl gut gepflegter Tiere warten, was ihn zu einem entspannenden letzten Halt macht.",
             "hu": "Fejezze be utazását ebben a kicsi, de bájos állatkertben, ahol különféle jól gondozott állatok várják, így ez egy vonzó és pihentető utolsó állomás a nap folyamán.",
-            "ro": "Încheiați-vă călătoria la această mică, dar fermecătoare grădină zoologică, unde vă așteaptă o varietate de animale bine îngrijite, o oprire finală relaxantă."
+            "ro": "Încheiați-vă călătoria la această mică, dar fermecătoare grădină zoologică, unde vă așteaptă o varietate de animale bine îngrijite, o oprire finală relaxantă.",
+            "es": "Concluye tu visita en este pequeño pero encantador zoo, donde una variedad de animales bien atendidos te esperan, convirtiéndolo en un final entretenido y relajante del día."
           }
         }
       ],
@@ -972,7 +1076,8 @@
         "en": "Start your Barbastro journey exploring the historic city center, taking in the grand Renaissance details of the town hall. The early hours are best to observe the town awakening at the bustling Plaza del Mercado.\nBy midday, dive deeper into the city's rich heritage with visits to ancient monuments like the Muela CIlíndrica. Allow the quiet atmosphere of the local churches to offer a peaceful respite from the midday sun.\nIn the afternoon, head towards the town's charming parks, where the elevated viewpoints at Parque del Calvario provide excellent photo opportunities. Enjoy the historical context of the medieval avenues and archways.\nAs evening approaches, wind down your excursion with a relaxing stroll in Parque Municipal La Paz. The soothing ambiance and natural surroundings create a perfect finale to a delightful day exploring Barbastro.",
         "de": "Beginnen Sie Ihre Reise in Barbastro mit der Erkundung des historischen Zentrums und der Renaissance-Details des Rathauses. Die frühen Stunden sind ideal, um das Erwachen der Stadt an der belebten Plaza del Mercado zu beobachten.\nMittags tauchen Sie tiefer in das reiche Erbe der Stadt ein und besuchen Denkmäler wie die Muela CIlíndrica. Die ruhige Atmosphäre der Kirchen bietet eine angenehme Erholung von der Mittagssonne.\nAm Nachmittag locken die charmanten Parks der Stadt. Die Aussichtspunkte im Parque del Calvario bieten hervorragende Fotomotive, während Sie den Kontext der mittelalterlichen Gassen und Bögen genießen.\nGegen Abend können Sie Ihren Ausflug mit einem entspannten Spaziergang im Parque Municipal La Paz ausklingen lassen. Das beruhigende Ambiente bildet den perfekten Abschluss für einen wunderbaren Tag in Barbastro.",
         "hu": "Kezdje a barbastrói utazást a történelmi központ felfedezésével és a városháza reneszánsz részleteinek megcsodálásával. A kora reggeli órák a legjobbak a város ébredésének megfigyelésére a nyüzsgő Plaza del Mercadón.\nDélben merüljön el mélyebben a város gazdag örökségében olyan ősi műemlékek felkeresésével, mint a Muela CIlíndrica. A helyi templomok csendes légköre békés felüdülést kínál a déli napsütés elől.\nDélután induljon a város bájos parkjai felé, ahol a Parque del Calvario magaslati kilátói kiváló fotózási lehetőségeket kínálnak. Élvezze a középkori sugárutak és boltívek történelmi hangulatát.\nAz este közeledtével zárja kirándulását egy pihentető sétával a Parque Municipal La Paz zöldjében. A nyugtató környezet és a természetes közeg tökéletes befejezése egy csodálatos barbastrói napnak.",
-        "ro": "Începeți călătoria în Barbastro explorând centrul istoric și detaliile renascentiste ale primăriei. Orele dimineții sunt ideale pentru a observa trezirea orașului la viață în aglomerata Plaza del Mercado.\nLa prânz, aprofundați patrimoniul bogat al orașului vizitând monumente antice precum Muela CIlíndrica. Atmosfera liniștită a bisericilor locale oferă un răgaz pașnic de la soarele amiezii.\nDupă-amiaza, îndreptați-vă spre parcurile fermecătoare, unde punctele de belvedere de la Parque del Calvario oferă oportunități foto excelente. Bucurați-vă de contextul istoric al bulevardelor și arcadelor medievale.\nPe măsură ce se apropie seara, încheiați-vă excursia cu o plimbare relaxantă în Parque Municipal La Paz. Ambianța liniștitoare și cadrul natural creează un final perfect pentru o zi încântătoare în Barbastro."
+        "ro": "Începeți călătoria în Barbastro explorând centrul istoric și detaliile renascentiste ale primăriei. Orele dimineții sunt ideale pentru a observa trezirea orașului la viață în aglomerata Plaza del Mercado.\nLa prânz, aprofundați patrimoniul bogat al orașului vizitând monumente antice precum Muela CIlíndrica. Atmosfera liniștită a bisericilor locale oferă un răgaz pașnic de la soarele amiezii.\nDupă-amiaza, îndreptați-vă spre parcurile fermecătoare, unde punctele de belvedere de la Parque del Calvario oferă oportunități foto excelente. Bucurați-vă de contextul istoric al bulevardelor și arcadelor medievale.\nPe măsură ce se apropie seara, încheiați-vă excursia cu o plimbare relaxantă în Parque Municipal La Paz. Ambianța liniștitoare și cadrul natural creează un final perfect pentru o zi încântătoare în Barbastro.",
+        "es": "Comienza tu recorrido por Barbastro explorando el casco histórico, contemplando los detalles renacentistas del ayuntamiento. Las primeras horas son las mejores para ver cómo despierta la ciudad en la bulliciosa Plaza del Mercado.\nAl mediodía, profundiza en el rico patrimonio con visitas a monumentos antiguos como la Muela Cilíndrica. Permite que la atmósfera tranquila de las iglesias locales te ofrezca un respiro del sol del mediodía.\nPor la tarde, dirígete a los encantadores parques de la ciudad, donde los miradores elevados del Parque del Calvario ofrecen excelentes oportunidades fotográficas. Disfruta del contexto histórico de las avenidas y arcadas medievales.\nAl acercarse la noche, termina tu excursión con un relajante paseo por el Parque Municipal La Paz. El ambiente sosegado y el entorno natural constituyen un cierre perfecto para un día delicioso explorando Barbastro."
       },
       "variants": {
         "rainy": {
@@ -980,7 +1085,8 @@
             "en": "Rainy Barbastro is best explored by car, moving quickly between dry interiors. Morning activities at the farm might be damp, so dress appropriately. Noon visits to the city hall and churches offer perfect shelter. In the afternoon, enjoy the parks from the comfort of your vehicle or during brief walks. The evening rain adds a reflective charm to the drive through the old town.",
             "de": "Das verregnete Barbastro erkundet man am besten mit dem Auto, um schnell zwischen trockenen Orten zu wechseln. Morgens auf dem Bauernhof kann es feucht sein. Mittags bieten Rathaus und Kirchen idealen Schutz. Nachmittags genießen Sie die Parks aus dem Komfort des Autos oder bei kurzen Gängen. Der Abendregen verleiht der Fahrt durch die Altstadt Charme.",
             "hu": "Az esős Barbastrot autóval a legjobb felfedezni, gyorsan váltva a száraz helyszínek között. A reggeli farm-látogatás nyirkos lehet, öltözzön ennek megfelelően. Délben a városháza és a templomok tökéletes menedéket nyújtanak. Délután élvezze a parkokat az autó kényelméből vagy rövid sétákkal. Az esti eső visszatükröződő fényeivel különleges hangulatot ad az útnak.",
-            "ro": "Barbastro pe ploaie este cel mai bine explorat cu mașina, trecând rapid între interioarele uscate. Activitățile de dimineață pot fi umede. Vizitele de la prânz la primărie și biserici oferă adăpostul perfect. După-amiaza, bucurați-vă de parcuri din confortul vehiculului sau în plimbări scurte. Ploaia de seară adaugă un farmec aparte condusului."
+            "ro": "Barbastro pe ploaie este cel mai bine explorat cu mașina, trecând rapid între interioarele uscate. Activitățile de dimineață pot fi umede. Vizitele de la prânz la primărie și biserici oferă adăpostul perfect. După-amiaza, bucurați-vă de parcuri din confortul vehiculului sau în plimbări scurte. Ploaia de seară adaugă un farmec aparte condusului.",
+            "es": "Barbastro lluvioso se explora mejor en coche, moviéndose rápidamente entre interiores secos. Las actividades matinales en la granja pueden estar húmedas, así que vístete en consecuencia. Al mediodía, el ayuntamiento y las iglesias ofrecen refugio perfecto. Por la tarde, disfruta de los parques desde la comodidad del vehículo o durante breves paseos. La lluvia nocturna añade un encanto reflexivo al conducir por el casco antiguo."
           },
           "stops": [
             {
@@ -988,13 +1094,15 @@
                 "en": "Granja Aventura",
                 "de": "Granja Aventura",
                 "hu": "Granja Aventura",
-                "ro": "Granja Aventura"
+                "ro": "Granja Aventura",
+                "es": "Granja Aventura"
               },
               "tip_5lang": {
                 "en": "Many areas are outdoors, so bring waterproof coats and sturdy boots; the animals often seek shelter too, making for unique observations. Parking is close to the main barns.",
                 "de": "Viele Bereiche liegen im Freien, bringen Sie Regenmäntel und feste Stiefel mit; die Tiere suchen oft Schutz, was spannende Beobachtungen ermöglicht. Parken Sie nah an den Ställen.",
                 "hu": "Sok terület szabadtéri, hozzon vízálló kabátot és bakancsot; az állatok is gyakran menedéket keresnek, ami érdekes megfigyeléseket tesz lehetővé. Parkoljon közel az ólakhoz.",
-                "ro": "Multe zone sunt în aer liber, deci aduceți haine impermeabile; animalele caută adăpost, oferind observații unice. Parcarea este aproape de hambarele principale."
+                "ro": "Multe zone sunt în aer liber, deci aduceți haine impermeabile; animalele caută adăpost, oferind observații unice. Parcarea este aproape de hambarele principale.",
+                "es": "Muchas zonas son al aire libre, así que lleva impermeables y botas resistentes; los animales también buscan refugio, lo que permite observaciones singulares. El aparcamiento está cerca de los establos principales."
               }
             },
             {
@@ -1002,13 +1110,15 @@
                 "en": "Iglesia de San Julián",
                 "de": "Iglesia de San Julián",
                 "hu": "Iglesia de San Julián",
-                "ro": "Iglesia de San Julián"
+                "ro": "Iglesia de San Julián",
+                "es": "Iglesia de San Julián"
               },
               "tip_5lang": {
                 "en": "The museum is a perfect indoor stop to escape a heavy downpour; park in the designated blue zones nearby. The interior lighting creates a warm, dry sanctuary from the storm.",
                 "de": "Das Museum ist ein perfekter Innenstopp bei starkem Regen; parken Sie in den blauen Zonen in der Nähe. Die Beleuchtung schafft ein warmes Refugium vor dem Sturm.",
                 "hu": "A múzeum tökéletes benti megálló a heves zápor elől; parkoljon a közeli kék zónákban. A belső világítás meleg és száraz menedéket nyújt a vihar elől.",
-                "ro": "Muzeul este o oprire interioară perfectă pentru a scăpa de ploaie; parcați în zonele albastre din apropiere. Iluminatul interior creează un sanctuar cald."
+                "ro": "Muzeul este o oprire interioară perfectă pentru a scăpa de ploaie; parcați în zonele albastre din apropiere. Iluminatul interior creează un sanctuar cald.",
+                "es": "El museo es una parada interior perfecta para escapar de un fuerte aguacero; aparca en las zonas azules designadas cercanas. La iluminación interior crea un santuario cálido y seco frente a la tormenta."
               }
             },
             {
@@ -1016,13 +1126,15 @@
                 "en": "Ayuntamiento de Barbastro",
                 "de": "Ayuntamiento de Barbastro",
                 "hu": "Ayuntamiento de Barbastro",
-                "ro": "Ayuntamiento de Barbastro"
+                "ro": "Ayuntamiento de Barbastro",
+                "es": "Ayuntamiento de Barbastro"
               },
               "tip_5lang": {
                 "en": "Drop off passengers near the entrance arches to keep them dry before finding parking. The grand foyer provides immediate cover from the rain as you enter the building.",
                 "de": "Lassen Sie Passagiere an den Arkaden aussteigen, damit sie trocken bleiben, bevor Sie parken. Das Foyer bietet sofortigen Schutz beim Betreten des Gebäudes.",
                 "hu": "Tegye ki az utasokat a bejárati árkádoknál, hogy szárazon maradjanak a parkolás előtt. A tágas előtér azonnali fedezéket nyújt az eső elől belépéskor.",
-                "ro": "Lăsați pasagerii lângă arcadele de la intrare pentru a rămâne uscați înainte de a parca. Foaierul oferă adăpost imediat împotriva ploii la intrare."
+                "ro": "Lăsați pasagerii lângă arcadele de la intrare pentru a rămâne uscați înainte de a parca. Foaierul oferă adăpost imediat împotriva ploii la intrare.",
+                "es": "Deja pasajeros cerca de los arcos de entrada para mantenerlos secos antes de buscar aparcamiento. El gran vestíbulo proporciona cobertura inmediata al entrar en el edificio."
               }
             },
             {
@@ -1030,13 +1142,15 @@
                 "en": "Parque del Calvario",
                 "de": "Parque del Calvario",
                 "hu": "Parque del Calvario",
-                "ro": "Parque del Calvario"
+                "ro": "Parque del Calvario",
+                "es": "Parque del Calvario"
               },
               "tip_5lang": {
                 "en": "The view from the car window can be quite atmospheric as clouds roll over the town; if you step out, watch for slick mud on the park trails. Use the vehicle's defogger.",
                 "de": "Die Sicht aus dem Autofenster ist stimmungsvoll, wenn Wolken über die Stadt ziehen; beim Aussteigen achten Sie auf Schlamm auf den Wegen. Nutzen Sie die Defrost-Funktion.",
                 "hu": "Az autó ablakából nézve is hangulatos a látvány, ahogy a felhők átvonulnak a városon; ha kiszáll, ügyeljen a sáros ösvényekre. Használja az autó páramentesítőjét.",
-                "ro": "Vederea de la fereastra mașinii este atmosferică când norii trec peste oraș; dacă coborâți, atenție la noroiul de pe poteci. Folosiți dezaburirea vehiculului."
+                "ro": "Vederea de la fereastra mașinii este atmosferică când norii trec peste oraș; dacă coborâți, atenție la noroiul de pe poteci. Folosiți dezaburirea vehiculului.",
+                "es": "La vista desde la ventanilla del coche puede ser muy atmosférica cuando las nubes pasan sobre el pueblo; si sales, vigila el barro resbaladizo en los senderos del parque. Usa el desempañador del vehículo."
               }
             },
             {
@@ -1044,13 +1158,15 @@
                 "en": "Monumento al Alcalde Rafael Fernández de Vega y Frago",
                 "de": "Monumento al Alcalde Rafael Fernández de Vega y Frago",
                 "hu": "Monumento al Alcalde Rafael Fernández de Vega y Frago",
-                "ro": "Monumento al Alcalde Rafael Fernández de Vega y Frago"
+                "ro": "Monumento al Alcalde Rafael Fernández de Vega y Frago",
+                "es": "Monumento al Alcalde Rafael Fernández de Vega y Frago"
               },
               "tip_5lang": {
                 "en": "Observe this monument through the windshield for a quick history fix without getting wet. The rain on the stone adds a somber, dignified look to the tribute. Keep wipers on low.",
                 "de": "Betrachten Sie dieses Denkmal durch die Windschutzscheibe für eine kurze Geschichtsstunde ohne nass zu werden. Der Regen verleiht dem Stein ein würdevolles Aussehen.",
                 "hu": "Figyelje meg ezt az emlékművet a szélvédőn keresztül egy gyors történelmi betekintésért anélkül, hogy elázna. Az eső méltóságteljes megjelenést kölcsönöz a kőnek.",
-                "ro": "Observați acest monument prin parbriz pentru o scurtă lecție de istorie fără a vă uda. Ploaia pe piatră oferă un aspect demn omagiului. Ștergătoarele pe treapta mică."
+                "ro": "Observați acest monument prin parbriz pentru o scurtă lecție de istorie fără a vă uda. Ploaia pe piatră oferă un aspect demn omagiului. Ștergătoarele pe treapta mică.",
+                "es": "Observa este monumento desde el parabrisas para una dosis rápida de historia sin mojarte. La lluvia sobre la piedra aporta un aspecto sobrio y digno al homenaje. Mantén los limpiaparabrisas a baja velocidad."
               }
             },
             {
@@ -1058,13 +1174,15 @@
                 "en": "Parque Municipal La Paz",
                 "de": "Parque Municipal La Paz",
                 "hu": "Parque Municipal La Paz",
-                "ro": "Parque Municipal La Paz"
+                "ro": "Parque Municipal La Paz",
+                "es": "Parque Municipal La Paz"
               },
               "tip_5lang": {
                 "en": "The park is lovely in the rain, but stick to the wide, paved paths near the parking area to avoid soaked shoes. The green space feels very tranquil in the damp weather.",
                 "de": "Der Park ist bei Regen schön, bleiben Sie aber auf den breiten Wegen am Parkplatz, um nasse Schuhe zu vermeiden. Die Grünanlage wirkt bei feuchtem Wetter sehr ruhig.",
                 "hu": "A park kedves esőben is, de maradjon a parkoló melletti széles utakon, hogy elkerülje a cipő ázását. A zöld terület nagyon nyugodt hangulatot áraszt ilyenkor.",
-                "ro": "Parcul este frumos pe ploaie, dar rămâneți pe potecile pavate de lângă parcare pentru a evita udarea încălțămintei. Spațiul verde pare foarte liniștit."
+                "ro": "Parcul este frumos pe ploaie, dar rămâneți pe potecile pavate de lângă parcare pentru a evita udarea încălțămintei. Spațiul verde pare foarte liniștit.",
+                "es": "El parque es encantador bajo la lluvia, pero apégate a los amplios caminos pavimentados cerca del aparcamiento para evitar zapatos empapados. El espacio verde se siente muy tranquilo con el clima húmedo."
               }
             },
             {
@@ -1072,13 +1190,15 @@
                 "en": "Zoológico Iris",
                 "de": "Zoológico Iris",
                 "hu": "Zoológico Iris",
-                "ro": "Zoológico Iris"
+                "ro": "Zoológico Iris",
+                "es": "Zoológico Iris"
               },
               "tip_5lang": {
                 "en": "Check for indoor exhibits or covered walkways to maximize your visit; many animals are more active in the cooler, rainy air. Wear a raincoat for the transitions between zones.",
                 "de": "Suchen Sie nach Innenbereichen oder überdachten Wegen; viele Tiere sind bei kühlerem Regenwetter aktiver. Tragen Sie einen Regenmantel für den Wechsel zwischen den Zonen.",
                 "hu": "Keresse a benti kiállításokat vagy fedett folyosókat; sok állat aktívabb a hűvösebb, esős időben. Viseljen esőkabátot a zónák közötti közlekedéshez.",
-                "ro": "Căutați expozițiile interioare sau zonele acoperite; multe animale sunt mai active pe ploaie. Purtați o pelerină de ploaie pentru tranziția între zone."
+                "ro": "Căutați expozițiile interioare sau zonele acoperite; multe animale sunt mai active pe ploaie. Purtați o pelerină de ploaie pentru tranziția între zone.",
+                "es": "Comprueba si hay exhibiciones interiores o pasillos cubiertos para aprovechar la visita; muchos animales están más activos con el aire fresco y lluvioso. Lleva un impermeable para los traslados entre zonas."
               }
             }
           ]
@@ -1088,7 +1208,8 @@
             "en": "Winter driving in Barbastro is comfortable and allows for a full day despite the cold. Morning frost is best avoided by starting at indoor sites. By noon, the winter sun brightens the landscape. The afternoon is short, so move efficiently between monuments. By 17:00, the early nightfall and cold air make the car's heater your best friend as you head back to town.",
             "de": "Winterfahrten in Barbastro sind komfortabel und ermöglichen trotz Kälte einen vollen Tag. Morgendlicher Frost wird durch Innenstopps vermieden. Mittags erhellt die Sonne die Landschaft. Der Nachmittag ist kurz, bewegen Sie sich effizient. Ab 17:00 Uhr machen Dunkelheit und Kälte die Autoheizung zum besten Freund.",
             "hu": "A téli autózás Barbastroban kényelmes, és a hideg ellenére is teljes napot tesz lehetővé. A reggeli fagyot benti helyszínekkel kerülje el. Délben a téli nap ragyogóvá teszi a tájat. A délután rövid, így haladjon hatékonyan az emlékművek között. 17:00-kor a korai sötétedés miatt az autó fűtése lesz a legjobb barátja.",
-            "ro": "Condusul iarna în Barbastro este confortabil și permite o zi plină în ciuda frigului. Gerul dimineții este evitat începând cu locuri interioare. La prânz, soarele luminează peisajul. După-amiaza este scurtă, deci fiți eficienți între monumente. La ora 17:00, întunericul și frigul fac căldura din mașină indispensabilă."
+            "ro": "Condusul iarna în Barbastro este confortabil și permite o zi plină în ciuda frigului. Gerul dimineții este evitat începând cu locuri interioare. La prânz, soarele luminează peisajul. După-amiaza este scurtă, deci fiți eficienți între monumente. La ora 17:00, întunericul și frigul fac căldura din mașină indispensabilă.",
+            "es": "Conducir en invierno por Barbastro es cómodo y permite un día completo pese al frío. Evita la escarcha matinal comenzando en sitios interiores. Al mediodía, el sol invernal ilumina el paisaje. La tarde es corta, así que muévete con eficacia entre monumentos. A las 17:00, la noche temprana y el aire frío hacen que el calefactor del coche sea tu mejor amigo al volver al pueblo."
           },
           "stops": [
             {
@@ -1096,13 +1217,15 @@
                 "en": "Granja Aventura",
                 "de": "Granja Aventura",
                 "hu": "Granja Aventura",
-                "ro": "Granja Aventura"
+                "ro": "Granja Aventura",
+                "es": "Granja Aventura"
               },
               "tip_5lang": {
                 "en": "The winter morning is crisp at the farm; dress in warm layers to enjoy the outdoor animals before warming up in the car. Check for ice on the parking lot surface.",
                 "de": "Der Wintermorgen auf dem Hof ist knackig; ziehen Sie sich warm an, um die Tiere im Freien zu sehen, bevor Sie sich im Auto aufwärmen. Achten Sie auf Eis auf dem Parkplatz.",
                 "hu": "A téli reggel friss a farmon; öltözzön rétegesen az állatok megtekintéséhez, mielőtt bemelegszik az autóban. Ügyeljen a jegesedésre a parkoló felületén.",
-                "ro": "Dimineața de iarnă este tăioasă la fermă; îmbrăcați-vă gros pentru a vedea animalele înainte de a vă încălzi în mașină. Atenție la gheața din parcare."
+                "ro": "Dimineața de iarnă este tăioasă la fermă; îmbrăcați-vă gros pentru a vedea animalele înainte de a vă încălzi în mașină. Atenție la gheața din parcare.",
+                "es": "La mañana invernal en la granja es fresca; vístete en capas para disfrutar de los animales al aire libre antes de entrar en calor en el coche. Revisa si hay hielo en la superficie del aparcamiento."
               }
             },
             {
@@ -1110,13 +1233,15 @@
                 "en": "Iglesia de San Julián",
                 "de": "Iglesia de San Julián",
                 "hu": "Iglesia de San Julián",
-                "ro": "Iglesia de San Julián"
+                "ro": "Iglesia de San Julián",
+                "es": "Iglesia de San Julián"
               },
               "tip_5lang": {
                 "en": "Step into the warm museum space to escape the midday chill; the indoor history and wine culture exhibits are perfect for winter. Parking is easy in the nearby blue zone.",
                 "de": "Nutzen Sie das warme Museum, um der Mittagskälte zu entkommen; die Innenraum-Ausstellungen sind perfekt für den Winter. Parken Sie in der nahen blauen Zone.",
                 "hu": "Lépjen be a meleg múzeumba, hogy elmeneküljön a déli hideg elől; a benti történeti és borkultúra kiállítások tökéletesek télre. A közeli kék zónában könnyű a parkolás.",
-                "ro": "Intrați în muzeul cald pentru a scăpa de frigul amiezii; expozițiile interioare sunt perfecte pentru iarnă. Parcarea este facilă în zona albastră din apropiere."
+                "ro": "Intrați în muzeul cald pentru a scăpa de frigul amiezii; expozițiile interioare sunt perfecte pentru iarnă. Parcarea este facilă în zona albastră din apropiere.",
+                "es": "Entra en el espacio cálido del museo para escapar del frío del mediodía; las exposiciones sobre historia y cultura del vino son perfectas para el invierno. Aparcar en la zona azul cercana es sencillo."
               }
             },
             {
@@ -1124,13 +1249,15 @@
                 "en": "Ayuntamiento de Barbastro",
                 "de": "Ayuntamiento de Barbastro",
                 "hu": "Ayuntamiento de Barbastro",
-                "ro": "Ayuntamiento de Barbastro"
+                "ro": "Ayuntamiento de Barbastro",
+                "es": "Ayuntamiento de Barbastro"
               },
               "tip_5lang": {
                 "en": "The brick exterior glows in the winter sun; enjoy a quick photo before heading back into the climate-controlled car. The indoor foyer provides a brief warm respite.",
                 "de": "Die Ziegelfassade leuchtet in der Wintersonne; machen Sie ein schnelles Foto, bevor es zurück ins klimatisierte Auto geht. Das Foyer bietet eine kurze warme Pause.",
                 "hu": "A téglafal ragyog a téli napfényben; készítsen egy gyors fotót, mielőtt visszatérne a fűtött autóba. Az előtér rövid, meleg pihenőt nyújt a nézelődés közben.",
-                "ro": "Exteriorul de cărămidă strălucește în soarele de iarnă; faceți o poză rapidă înainte de a reveni în mașina încălzită. Foaierul oferă un scurt răgaz cald."
+                "ro": "Exteriorul de cărămidă strălucește în soarele de iarnă; faceți o poză rapidă înainte de a reveni în mașina încălzită. Foaierul oferă un scurt răgaz cald.",
+                "es": "El exterior de ladrillo brilla con el sol invernal; disfruta de una foto rápida antes de volver al coche con climatización. El vestíbulo interior ofrece un breve respiro cálido."
               }
             },
             {
@@ -1138,13 +1265,15 @@
                 "en": "Parque del Calvario",
                 "de": "Parque del Calvario",
                 "hu": "Parque del Calvario",
-                "ro": "Parque del Calvario"
+                "ro": "Parque del Calvario",
+                "es": "Parque del Calvario"
               },
               "tip_5lang": {
                 "en": "Drive to the viewpoint for a clear vista of the snowy Pyrenees without battling the cold wind for too long. The low winter sun creates long, dramatic shadows over the city.",
                 "de": "Fahren Sie zum Aussichtspunkt für einen klaren Blick auf die verschneiten Pyrenäen ohne lange im Wind zu stehen. Die tiefe Sonne wirft dramatische Schatten.",
                 "hu": "Hajtson fel a kilátóhoz a hófödte Pireneusok tiszta látványáért anélkül, hogy sokáig küzdene a hideg széllel. Az alacsony téli nap hosszú árnyékokat vet a városra.",
-                "ro": "Conduceți până la punctul de observație pentru o vedere clară asupra Pirineilor fără a sta prea mult în vânt. Soarele de iarnă creează umbre dramatice."
+                "ro": "Conduceți până la punctul de observație pentru o vedere clară asupra Pirineilor fără a sta prea mult în vânt. Soarele de iarnă creează umbre dramatice.",
+                "es": "Conduce hasta el mirador para una vista clara de los Pirineos nevados sin luchar demasiado contra el viento frío. El sol bajo de invierno crea sombras largas y dramáticas sobre la ciudad."
               }
             },
             {
@@ -1152,13 +1281,15 @@
                 "en": "Monumento al Alcalde Rafael Fernández de Vega y Frago",
                 "de": "Monumento al Alcalde Rafael Fernández de Vega y Frago",
                 "hu": "Monumento al Alcalde Rafael Fernández de Vega y Frago",
-                "ro": "Monumento al Alcalde Rafael Fernández de Vega y Frago"
+                "ro": "Monumento al Alcalde Rafael Fernández de Vega y Frago",
+                "es": "Monumento al Alcalde Rafael Fernández de Vega y Frago"
               },
               "tip_5lang": {
                 "en": "A quick roadside stop is ideal here; the winter light gives the stone monument a sharp, clean appearance. Keep your car running to maintain the cabin temperature.",
                 "de": "Ein kurzer Stopp am Straßenrand ist ideal; das Winterlicht verleiht dem Denkmal ein scharfes Aussehen. Lassen Sie den Motor kurz laufen, um die Wärme im Auto zu halten.",
                 "hu": "Egy gyors útmenti megálló itt ideális; a téli fény éles, tiszta megjelenést kölcsönöz a kőemlékműnek. Tartsa melegen az utasteret a rövid kiszállás alatt is.",
-                "ro": "O oprire rapidă la marginea drumului este ideală; lumina de iarnă oferă monumentului un aspect clar. Mențineți temperatura în mașină în timpul opririi."
+                "ro": "O oprire rapidă la marginea drumului este ideală; lumina de iarnă oferă monumentului un aspect clar. Mențineți temperatura în mașină în timpul opririi.",
+                "es": "Una parada rápida en la cuneta es ideal aquí; la luz invernal resalta la apariencia nítida del monumento de piedra. Mantén el coche en marcha para conservar la temperatura en el habitáculo."
               }
             },
             {
@@ -1166,13 +1297,15 @@
                 "en": "Parque Municipal La Paz",
                 "de": "Parque Municipal La Paz",
                 "hu": "Parque Municipal La Paz",
-                "ro": "Parque Municipal La Paz"
+                "ro": "Parque Municipal La Paz",
+                "es": "Parque Municipal La Paz"
               },
               "tip_5lang": {
                 "en": "The park is quiet and frosted in the afternoon; take a short brisk walk before the sunset chill becomes too sharp around 16:30. The golden hour is very beautiful here.",
                 "de": "Der Park ist nachmittags ruhig und oft frostig; machen Sie einen kurzen, zügigen Gang, bevor die Kälte gegen 16:30 Uhr zu scharf wird. Die goldene Stunde ist toll.",
                 "hu": "A park délután csendes és zúzmarás; tegyen egy rövid, élénk sétát, mielőtt a naplemente utáni hideg túl éles lesz 16:30 körül. Az aranyóra itt nagyon szép.",
-                "ro": "Parcul este liniștit și brumat după-amiaza; faceți o plimbare scurtă înainte ca gerul de după apus să devină prea tăios. Ora de aur este superbă aici."
+                "ro": "Parcul este liniștit și brumat după-amiaza; faceți o plimbare scurtă înainte ca gerul de după apus să devină prea tăios. Ora de aur este superbă aici.",
+                "es": "El parque está tranquilo y con escarcha por la tarde; da un breve paseo enérgico antes de que el frío del atardecer se agrave sobre las 16:30. La hora dorada aquí es muy bonita."
               }
             },
             {
@@ -1180,13 +1313,15 @@
                 "en": "Zoológico Iris",
                 "de": "Zoológico Iris",
                 "hu": "Zoológico Iris",
-                "ro": "Zoológico Iris"
+                "ro": "Zoológico Iris",
+                "es": "Zoológico Iris"
               },
               "tip_5lang": {
                 "en": "Visit before the 17:00 sunset to see the animals in the winter light; the car heater will be a welcome relief after your final walk through the zoo. Wear thermal layers.",
                 "de": "Besuchen Sie den Zoo vor dem Sonnenuntergang um 17:00 Uhr; die Autoheizung wird nach dem Rundgang eine Wohltat sein. Tragen Sie thermische Kleidungsschichten.",
                 "hu": "Látogasson el ide az 17:00 órai naplemente előtt; az autó fűtése igazi felüdülés lesz az utolsó állatkerti séta után. Viseljen hőtartó rétegeket.",
-                "ro": "Vizitați înainte de apusul de la ora 17:00 pentru a vedea animalele; căldura din mașină va fi o ușurare după ultima plimbare prin zoo. Purtați haine termice."
+                "ro": "Vizitați înainte de apusul de la ora 17:00 pentru a vedea animalele; căldura din mașină va fi o ușurare după ultima plimbare prin zoo. Purtați haine termice.",
+                "es": "Visita antes de la puesta de sol a las 17:00 para ver a los animales con la luz invernal; el calefactor del coche será un alivio tras el último paseo por el zoo. Lleva ropa térmica."
               }
             }
           ]

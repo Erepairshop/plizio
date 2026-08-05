@@ -21,7 +21,8 @@
             "de": "Ermita de la Virgen de la Peña",
             "hu": "Sziklatemplom",
             "ro": "Ermita de la Virgen de la Peña",
-            "en": "Virgen de la Peña Hermitage"
+            "en": "Virgen de la Peña Hermitage",
+            "es": "Ermita de la Virgen de la Peña"
           },
           "coords": [
             -4.6365,
@@ -36,7 +37,8 @@
             "de": "Diese Kirche wurde direkt in den Fels gehauen.",
             "hu": "Ezt a templomot közvetlenül a sziklába vájták.",
             "ro": "Această biserică a fost săpată direct în stâncă.",
-            "en": "This church was carved directly into the rock."
+            "en": "This church was carved directly into the rock.",
+            "es": "Esta iglesia fue excavada directamente en la roca."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Mirador del Compás",
             "hu": "Compás kilátó",
             "ro": "Mirador del Compás",
-            "en": "Compás Viewpoint"
+            "en": "Compás Viewpoint",
+            "es": "Mirador del Compás"
           },
           "coords": [
             -4.6368,
@@ -59,7 +62,8 @@
             "de": "Bester Blick auf die Küste und Fuengirola.",
             "hu": "A legjobb kilátás a partra és Fuengirolára.",
             "ro": "Cea mai bună vedere spre coastă și Fuengirola.",
-            "en": "Best view of the coast and Fuengirola."
+            "en": "Best view of the coast and Fuengirola.",
+            "es": "Mejor vista de la costa y Fuengirola."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Museo de Miniaturas",
             "hu": "Miniatűrök Múzeuma",
             "ro": "Museo de Miniaturas",
-            "en": "Miniature Museum"
+            "en": "Miniature Museum",
+            "es": "Museo de Miniaturas"
           },
           "coords": [
             -4.6375,
@@ -82,7 +87,8 @@
             "de": "Sehen Sie die bemalten Reiskörner durch Lupen.",
             "hu": "Nézze meg a festett rizsszemeket nagyítón keresztül.",
             "ro": "Vedeți boabele de orez pictate prin lupă.",
-            "en": "See the painted rice grains through magnifying glasses."
+            "en": "See the painted rice grains through magnifying glasses.",
+            "es": "Observa los granos de arroz pintados con lupas."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Plaza de la Constitución",
             "hu": "Alkotmány tér",
             "ro": "Plaza de la Constitución",
-            "en": "Constitution Square"
+            "en": "Constitution Square",
+            "es": "Plaza de la Constitución"
           },
           "coords": [
             -4.6395,
@@ -105,7 +112,8 @@
             "de": "Ein schattiger Platz für eine kleine Pause.",
             "hu": "Árnyas tér egy kis pihenőhöz.",
             "ro": "O piață umbrită pentru o mică pauză.",
-            "en": "A shaded square for a small break."
+            "en": "A shaded square for a small break.",
+            "es": "Plaza sombreada para un pequeño descanso."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Plaza de Toros de Mijas",
             "hu": "Mijasi bikaviadal-aréna",
             "ro": "Plaza de Toros de Mijas",
-            "en": "Mijas Bullring"
+            "en": "Mijas Bullring",
+            "es": "Plaza de Toros de Mijas"
           },
           "coords": [
             -4.6405,
@@ -128,7 +137,8 @@
             "de": "Die einzige ovale Stierkampfarena Spaniens.",
             "hu": "Spanyolország egyetlen ovális bikaviadal-arénája.",
             "ro": "Singura arenă de tauri ovală din Spania.",
-            "en": "The only oval-shaped bullring in Spain."
+            "en": "The only oval-shaped bullring in Spain.",
+            "es": "La única plaza de toros ovalada de España."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Muralla y Jardines",
             "hu": "Várfal és kertek",
             "ro": "Muralla y Jardines",
-            "en": "Wall and Gardens"
+            "en": "Wall and Gardens",
+            "es": "Muralla y Jardines"
           },
           "coords": [
             -4.6415,
@@ -151,7 +162,8 @@
             "de": "Spazieren Sie entlang der alten Festungsmauern.",
             "hu": "Sétáljon végig a régi várfalak mentén.",
             "ro": "Plimbați-vă de-a lungul vechilor ziduri ale cetății.",
-            "en": "Stroll along the old fortress walls."
+            "en": "Stroll along the old fortress walls.",
+            "es": "Pasea junto a las antiguas murallas defensivas."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Iglesia de la Inmaculada Concepción",
             "hu": "Szeplőtelen Fogantatás templom",
             "ro": "Iglesia de la Inmaculada Concepción",
-            "en": "Immaculate Conception Church"
+            "en": "Immaculate Conception Church",
+            "es": "Iglesia de la Inmaculada Concepción"
           },
           "coords": [
             -4.6402,
@@ -174,7 +187,8 @@
             "de": "Die Kirche wurde auf einer alten Moschee erbaut.",
             "hu": "A templom egy régi mecset helyére épült.",
             "ro": "Biserica a fost construită pe locul unei vechi moschei.",
-            "en": "The church was built on top of an old mosque."
+            "en": "The church was built on top of an old mosque.",
+            "es": "La iglesia se construyó sobre una antigua mezquita."
           }
         },
         {
@@ -182,7 +196,8 @@
             "de": "Ermita del Calvario",
             "hu": "Kálvária-kápolna",
             "ro": "Ermita del Calvario",
-            "en": "Calvario Hermitage"
+            "en": "Calvario Hermitage",
+            "es": "Ermita del Calvario"
           },
           "coords": [
             -4.6385,
@@ -197,7 +212,8 @@
             "de": "Steiler Aufstieg, aber die Aussicht lohnt sich.",
             "hu": "Meredek emelkedő, de a kilátás megéri.",
             "ro": "Urcare abruptă, dar priveliștea merită efortul.",
-            "en": "Steep climb, but the view is worth it."
+            "en": "Steep climb, but the view is worth it.",
+            "es": "Subida empinada, pero la vista lo merece."
           }
         }
       ],
@@ -205,7 +221,8 @@
         "de": "Mijas Pueblo ist das Juwel der weißen Dörfer. Beginnen Sie bei der einzigartigen Felsenkapelle und genießen Sie das Panorama. Entdecken Sie die winzigen Wunder im Miniaturmuseum und besuchen Sie die ungewöhnliche ovale Stierkampfarena. Nach einem Spaziergang durch die duftenden Gärten an der Stadtmauer wandern Sie zur Kálvária-Kapelle hoch über dem Dorf, um einen unvergesslichen Sonnenuntergang zu erleben.",
         "hu": "Mijas Pueblo a fehér falvak ékköve. Kezdjen az egyedülálló sziklatemplomnál, és élvezze a panorámát. Fedezze fel az apró csodákat a miniatűr múzeumban, és látogassa meg a különleges, ovális bikaviadal-arénát. A várfal menti illatos kertekben tett séta után túrázzon fel a falu fölötti Kálvária-kápolnához egy felejthetetlen naplementéért.",
         "ro": "Mijas Pueblo este bijuteria satelor albe. Începeți la capela unică în stâncă și bucurați-vă de panoramă. Descoperiți micile minuni în muzeul miniaturilor și vizitați neobișnuita arenă de tauri ovală. După o plimbare prin grădinile parfumate de pe zidurile orașului, urcați la capela Calvario situată deasupra satului pentru un apus de neuitat.",
-        "en": "Mijas Pueblo is the jewel of the white villages. Start at the unique rock chapel and enjoy the panorama. Discover the tiny wonders in the miniature museum and visit the unusual oval bullring. After a stroll through the fragrant gardens by the city wall, hike up to the Calvario chapel high above the village for an unforgettable sunset."
+        "en": "Mijas Pueblo is the jewel of the white villages. Start at the unique rock chapel and enjoy the panorama. Discover the tiny wonders in the miniature museum and visit the unusual oval bullring. After a stroll through the fragrant gardens by the city wall, hike up to the Calvario chapel high above the village for an unforgettable sunset.",
+        "es": "Mijas Pueblo es la joya de los pueblos blancos. Comienza en la singular ermita excavada en la roca y disfruta del panorama. Descubre las pequeñas maravillas del museo de miniaturas y visita la inusual plaza de toros ovalada. Tras pasear por los jardines perfumados junto a la muralla, sube a la ermita del Calvario sobre el pueblo para un atardecer inolvidable."
       },
       "gastro_picks": {
         "de": [
@@ -309,6 +326,11 @@
           "Mijas is famous for its donkey taxis (Burro-Taxi).",
           "The alleys are often steep and can be slippery.",
           "Arrive early in the morning to avoid the tour buses."
+        ],
+        "es": [
+          "Mijas es famosa por sus taxis de burro (Burro-Taxi).",
+          "Los callejones son a menudo empinados y pueden estar resbaladizos.",
+          "Llega temprano por la mañana para evitar los autobuses turísticos."
         ]
       },
       "variants": {
@@ -317,7 +339,8 @@
             "de": "Mijas Pueblo ist das Juwel der weißen Dörfer. Beginnen Sie bei der einzigartigen Felsenkapelle und genießen Sie das Panorama. Entdecken Sie die winzigen Wunder im Miniaturmuseum und besuchen Sie die ungewöhnliche ovale Stierkampfarena. Nach einem Spaziergang durch die duftenden Gärten an der Stadtmauer wandern Sie zur Kálvária-Kapelle hoch über dem Dorf, um einen unvergesslichen Sonnenuntergang zu erleben.",
             "hu": "Mijas Pueblo a fehér falvak ékköve. Kezdjen az egyedülálló sziklatemplomnál, és élvezze a panorámát. Fedezze fel az apró csodákat a miniatűr múzeumban, és látogassa meg a különleges, ovális bikaviadal-arénát. A várfal menti illatos kertekben tett séta után túrázzon fel a falu fölötti Kálvária-kápolnához egy felejthetetlen naplementéért.",
             "ro": "Mijas Pueblo este bijuteria satelor albe. Începeți la capela unică în stâncă și bucurați-vă de panoramă. Descoperiți micile minuni în muzeul miniaturilor și vizitați neobișnuita arenă de tauri ovală. După o plimbare prin grădinile parfumate de pe zidurile orașului, urcați la capela Calvario situată deasupra satului pentru un apus de neuitat.",
-            "en": "Mijas Pueblo is the jewel of the white villages. Start at the unique rock chapel and enjoy the panorama. Discover the tiny wonders in the miniature museum and visit the unusual oval bullring. After a stroll through the fragrant gardens by the city wall, hike up to the Calvario chapel high above the village for an unforgettable sunset."
+            "en": "Mijas Pueblo is the jewel of the white villages. Start at the unique rock chapel and enjoy the panorama. Discover the tiny wonders in the miniature museum and visit the unusual oval bullring. After a stroll through the fragrant gardens by the city wall, hike up to the Calvario chapel high above the village for an unforgettable sunset.",
+            "es": "Mijas Pueblo es la joya de los pueblos blancos. Comienza en la singular ermita excavada en la roca y disfruta del panorama. Descubre las pequeñas maravillas del museo de miniaturas y visita la inusual plaza de toros ovalada. Tras pasear por los jardines perfumados junto a la muralla, sube a la ermita del Calvario sobre el pueblo para un atardecer inolvidable."
           },
           "stops": [
             {
@@ -325,13 +348,15 @@
                 "de": "Ermita de la Virgen de la Peña",
                 "hu": "Sziklatemplom",
                 "ro": "Ermita de la Virgen de la Peña",
-                "en": "Virgen de la Peña Hermitage"
+                "en": "Virgen de la Peña Hermitage",
+                "es": "Ermita de la Virgen de la Peña"
               },
               "tip_5lang": {
                 "de": "Diese Kirche wurde direkt in den Fels gehauen.",
                 "hu": "Ezt a templomot közvetlenül a sziklába vájták.",
                 "ro": "Această biserică a fost săpată direct în stâncă.",
-                "en": "This church was carved directly into the rock."
+                "en": "This church was carved directly into the rock.",
+                "es": "Esta iglesia fue excavada directamente en la roca."
               }
             },
             {
@@ -339,13 +364,15 @@
                 "de": "Mirador del Compás",
                 "hu": "Compás kilátó",
                 "ro": "Mirador del Compás",
-                "en": "Compás Viewpoint"
+                "en": "Compás Viewpoint",
+                "es": "Mirador del Compás"
               },
               "tip_5lang": {
                 "de": "Bester Blick auf die Küste und Fuengirola.",
                 "hu": "A legjobb kilátás a partra és Fuengirolára.",
                 "ro": "Cea mai bună vedere spre coastă și Fuengirola.",
-                "en": "Best view of the coast and Fuengirola."
+                "en": "Best view of the coast and Fuengirola.",
+                "es": "Mejor vista de la costa y Fuengirola."
               }
             },
             {
@@ -353,13 +380,15 @@
                 "de": "Museo de Miniaturas",
                 "hu": "Miniatűrök Múzeuma",
                 "ro": "Museo de Miniaturas",
-                "en": "Miniature Museum"
+                "en": "Miniature Museum",
+                "es": "Museo de Miniaturas"
               },
               "tip_5lang": {
                 "de": "Sehen Sie die bemalten Reiskörner durch Lupen.",
                 "hu": "Nézze meg a festett rizsszemeket nagyítón keresztül.",
                 "ro": "Vedeți boabele de orez pictate prin lupă.",
-                "en": "See the painted rice grains through magnifying glasses."
+                "en": "See the painted rice grains through magnifying glasses.",
+                "es": "Observa los granos de arroz pintados con lupas."
               }
             },
             {
@@ -367,13 +396,15 @@
                 "de": "Plaza de la Constitución",
                 "hu": "Alkotmány tér",
                 "ro": "Plaza de la Constitución",
-                "en": "Constitution Square"
+                "en": "Constitution Square",
+                "es": "Plaza de la Constitución"
               },
               "tip_5lang": {
                 "de": "Ein schattiger Platz für eine kleine Pause.",
                 "hu": "Árnyas tér egy kis pihenőhöz.",
                 "ro": "O piață umbrită pentru o mică pauză.",
-                "en": "A shaded square for a small break."
+                "en": "A shaded square for a small break.",
+                "es": "Plaza sombreada para un pequeño descanso."
               }
             },
             {
@@ -381,13 +412,15 @@
                 "de": "Plaza de Toros de Mijas",
                 "hu": "Mijasi bikaviadal-aréna",
                 "ro": "Plaza de Toros de Mijas",
-                "en": "Mijas Bullring"
+                "en": "Mijas Bullring",
+                "es": "Plaza de Toros de Mijas"
               },
               "tip_5lang": {
                 "de": "Die einzige ovale Stierkampfarena Spaniens.",
                 "hu": "Spanyolország egyetlen ovális bikaviadal-arénája.",
                 "ro": "Singura arenă de tauri ovală din Spania.",
-                "en": "The only oval-shaped bullring in Spain."
+                "en": "The only oval-shaped bullring in Spain.",
+                "es": "La única plaza de toros ovalada de España."
               }
             },
             {
@@ -395,13 +428,15 @@
                 "de": "Muralla y Jardines",
                 "hu": "Várfal és kertek",
                 "ro": "Muralla y Jardines",
-                "en": "Wall and Gardens"
+                "en": "Wall and Gardens",
+                "es": "Muralla y Jardines"
               },
               "tip_5lang": {
                 "de": "Spazieren Sie entlang der alten Festungsmauern.",
                 "hu": "Sétáljon végig a régi várfalak mentén.",
                 "ro": "Plimbați-vă de-a lungul vechilor ziduri ale cetății.",
-                "en": "Stroll along the old fortress walls."
+                "en": "Stroll along the old fortress walls.",
+                "es": "Pasea junto a las antiguas murallas defensivas."
               }
             },
             {
@@ -409,13 +444,15 @@
                 "de": "Iglesia de la Inmaculada Concepción",
                 "hu": "Szeplőtelen Fogantatás templom",
                 "ro": "Iglesia de la Inmaculada Concepción",
-                "en": "Immaculate Conception Church"
+                "en": "Immaculate Conception Church",
+                "es": "Iglesia de la Inmaculada Concepción"
               },
               "tip_5lang": {
                 "de": "Die Kirche wurde auf einer alten Moschee erbaut.",
                 "hu": "A templom egy régi mecset helyére épült.",
                 "ro": "Biserica a fost construită pe locul unei vechi moschei.",
-                "en": "The church was built on top of an old mosque."
+                "en": "The church was built on top of an old mosque.",
+                "es": "La iglesia se construyó sobre una antigua mezquita."
               }
             },
             {
@@ -423,13 +460,15 @@
                 "de": "Ermita del Calvario",
                 "hu": "Kálvária-kápolna",
                 "ro": "Ermita del Calvario",
-                "en": "Calvario Hermitage"
+                "en": "Calvario Hermitage",
+                "es": "Ermita del Calvario"
               },
               "tip_5lang": {
                 "de": "Steiler Aufstieg, aber die Aussicht lohnt sich.",
                 "hu": "Meredek emelkedő, de a kilátás megéri.",
                 "ro": "Urcare abruptă, dar priveliștea merită efortul.",
-                "en": "Steep climb, but the view is worth it."
+                "en": "Steep climb, but the view is worth it.",
+                "es": "Subida empinada, pero la vista lo merece."
               }
             }
           ],
@@ -535,6 +574,11 @@
               "Mijas is famous for its donkey taxis (Burro-Taxi).",
               "The alleys are often steep and can be slippery.",
               "Arrive early in the morning to avoid the tour buses."
+            ],
+            "es": [
+              "Mijas es famosa por sus taxis de burro (Burro-Taxi).",
+              "Los callejones son a menudo empinados y pueden resbalar.",
+              "Llega temprano por la mañana para evitar los autobuses turísticos."
             ]
           }
         },
@@ -543,7 +587,8 @@
             "de": "Beginnen Sie morgens an der Felskapelle, die idealen Schutz bietet. Mittags führen schmale Gassen zum Miniaturenmuseum für einen trockenen Aufenthalt. Nachmittags erkunden Sie die Stierkampfarena und Kirchen, wobei die überdachten Bereiche Vorrang haben. Abends endet der Tag trotz Regen mit einer mystischen Atmosphäre an der Calvario-Einsiedelei.",
             "hu": "Reggel kezdjen a sziklakápolnában, amely természetes menedéket nyújt az eső elől. Délben a miniatűrök múzeuma kínál száraz programot. Délután látogasson el a bikaviadal-arénába és a templomokba, kihasználva a fedett tereket. Este az esős, ködös Mijas Pueblo látványa különleges hangulatot áraszt a Kálvária-kápolnánál.",
             "ro": "Începeți dimineața la schitul în stâncă, oferind adăpost natural. La prânz, vizitați muzeul de miniaturi pentru a rămâne uscați. După-amiaza este dedicată arenei și bisericilor, folosind spațiile interioare. Seara se încheie cu o atmosferă mistică la schitul Calvario, unde ploaia oferă un farmec aparte satului alb.",
-            "en": "Start the morning at the rock hermitage, providing natural shelter. At noon, the miniature museum offers a dry retreat. In the afternoon, explore the bullring and churches, prioritizing indoor sections. In the evening, the misty atmosphere of Mijas Pueblo creates a unique vibe at the Calvario hermitage despite the rain."
+            "en": "Start the morning at the rock hermitage, providing natural shelter. At noon, the miniature museum offers a dry retreat. In the afternoon, explore the bullring and churches, prioritizing indoor sections. In the evening, the misty atmosphere of Mijas Pueblo creates a unique vibe at the Calvario hermitage despite the rain.",
+            "es": "Comienza la mañana en la ermita de la roca, que ofrece refugio natural. Al mediodía, el museo en miniatura ofrece un retiro seco. Por la tarde, explora la plaza de toros y las iglesias, priorizando las secciones interiores. Por la noche, la atmósfera brumosa de Mijas Pueblo crea un ambiente único en la ermita del Calvario pese a la lluvia."
           },
           "stops": [
             {
@@ -552,7 +597,8 @@
                 "de": "Die Kapelle in der Höhle ist der perfekte trockene Start.",
                 "hu": "A barlangkápolna tökéletes és száraz kezdés esőben.",
                 "ro": "Capela în peșteră este un început perfect și uscat.",
-                "en": "The cave chapel is a perfect and dry start in the rain."
+                "en": "The cave chapel is a perfect and dry start in the rain.",
+                "es": "La capilla en la cueva es un inicio perfecto y seco bajo la lluvia."
               }
             },
             {
@@ -561,7 +607,8 @@
                 "de": "Vorsicht, die Fliesen können bei Nässe extrem rutschig sein.",
                 "hu": "Vigyázat, a burkolat vizesen rendkívül csúszós lehet.",
                 "ro": "Atenție, plăcile pot fi extrem de alunecoase când sunt ude.",
-                "en": "Caution, the tiles can be extremely slippery when wet."
+                "en": "Caution, the tiles can be extremely slippery when wet.",
+                "es": "Precaución, las baldosas pueden ser extremadamente resbaladizas cuando están mojadas."
               }
             },
             {
@@ -570,7 +617,8 @@
                 "de": "Ein idealer Ort, um einen starken Regenguss abzuwarten.",
                 "hu": "Ideális helyszín egy nagyobb zápor átvészelésére.",
                 "ro": "Locul ideal pentru a aștepta trecerea unei averse.",
-                "en": "An ideal place to wait out a heavy downpour."
+                "en": "An ideal place to wait out a heavy downpour.",
+                "es": "Un lugar ideal para esperar a que pase un fuerte aguacero."
               }
             },
             {
@@ -579,7 +627,8 @@
                 "de": "Nutzen Sie die Arkaden der Cafés für eine trockene Pause.",
                 "hu": "Használja a kávézók árkádjait egy száraz pihenőhöz.",
                 "ro": "Folosiți arcadele cafenelelor pentru o pauză uscată.",
-                "en": "Use the cafe arcades for a dry break."
+                "en": "Use the cafe arcades for a dry break.",
+                "es": "Utiliza los soportales con cafeterías para una pausa seca."
               }
             },
             {
@@ -588,7 +637,8 @@
                 "de": "Das angeschlossene Museum ist komplett überdacht.",
                 "hu": "A kapcsolódó múzeum teljesen fedett és száraz.",
                 "ro": "Muzeul atașat este complet acoperit și uscat.",
-                "en": "The attached museum is fully covered and dry."
+                "en": "The attached museum is fully covered and dry.",
+                "es": "El museo adjunto está totalmente cubierto y seco."
               }
             },
             {
@@ -597,7 +647,8 @@
                 "de": "Meiden Sie die unbefestigten Wege; bleiben Sie auf Stein.",
                 "hu": "Kerülje a földes utakat, maradjon a kövezett részeken.",
                 "ro": "Evitați potecile de pământ; rămâneți pe zonele pavate.",
-                "en": "Avoid dirt paths; stay on the paved areas."
+                "en": "Avoid dirt paths; stay on the paved areas.",
+                "es": "Evita los caminos de tierra; quédate en las zonas pavimentadas."
               }
             },
             {
@@ -606,7 +657,8 @@
                 "de": "Die dicken Mauern bieten Stille und Schutz vor dem Wind.",
                 "hu": "A vastag falak csendet és védelmet nyújtanak a szél ellen.",
                 "ro": "Zidurile groase oferă liniște și protecție împotriva vântului.",
-                "en": "The thick walls offer silence and protection from the wind."
+                "en": "The thick walls offer silence and protection from the wind.",
+                "es": "Los muros gruesos ofrecen silencio y protección frente al viento."
               }
             },
             {
@@ -615,7 +667,8 @@
                 "de": "Der Aufstieg ist steil; feste Schuhe mit Grip sind Pflicht.",
                 "hu": "A felmenet meredek, tapadós talpú cipő kötelező.",
                 "ro": "Urcarea este abruptă; pantofii cu aderență sunt obligatorii.",
-                "en": "The climb is steep; shoes with good grip are mandatory."
+                "en": "The climb is steep; shoes with good grip are mandatory.",
+                "es": "La subida es empinada; se recomiendan zapatos con buena suela antideslizante."
               }
             }
           ],
@@ -643,6 +696,12 @@
               "Umbrellas are clumsy in narrow streets; rain ponchos are better.",
               "Use the Carromato de Max museum as a dry retreat during rain.",
               "Viewpoints may be misty with low clouds, but still atmospheric."
+            ],
+            "es": [
+              "Lleva calzado con suela de goma por los empedrados resbaladizos.",
+              "Los paraguas son incómodos en calles estrechas; los chubasqueros son mejores.",
+              "Usa el museo Carromato de Max como refugio seco durante la lluvia.",
+              "Los miradores pueden estar brumosos con nubes bajas, pero siguen siendo atmosféricos."
             ]
           }
         },
@@ -651,7 +710,8 @@
             "de": "Genießen Sie morgens die milde Wintersonne an der Kapelle. Mittags laden die gemütlichen Gassen zum entspannten Schlendern ohne die Sommerhitze ein. Nachmittags bieten die Gärten eine klare Fernsicht bis zur Küste. Da die Sonne gegen 18:00 Uhr untergeht, ist der abendliche Besuch der Kálvária-Kapelle perfekt für den Sonnenuntergang.",
             "hu": "Reggel élvezze az enyhe téli napsütést a kápolnánál. Délben a szűk utcák kellemes sétát kínálnak a nyári hőség nélkül. Délután a várfalról tiszta kilátás nyílik a tengerpartra. Mivel a nap 18:00 körül nyugszik, az esti Kálvária-látogatás tökéletes időzítés a naplementéhez.",
             "ro": "Bucurați-vă de soarele blând de iarnă la capelă dimineața. La prânz, străzile înguste permit o plimbare relaxată fără caniculă. După-amiaza, grădinile oferă o vizibilitate clară până la coastă. Deoarece soarele apune în jurul orei 18:00, vizita de seară la Calvario este perfectă pentru apus.",
-            "en": "Enjoy the mild winter sun at the chapel in the morning. At noon, the narrow streets invite a relaxed stroll without the summer heat. In the afternoon, the gardens offer clear views down to the coast. Since the sun sets around 18:00, the evening visit to Calvario is perfectly timed for sunset."
+            "en": "Enjoy the mild winter sun at the chapel in the morning. At noon, the narrow streets invite a relaxed stroll without the summer heat. In the afternoon, the gardens offer clear views down to the coast. Since the sun sets around 18:00, the evening visit to Calvario is perfectly timed for sunset.",
+            "es": "Disfruta del suave sol invernal en la capilla por la mañana. Al mediodía, las calles estrechas invitan a un paseo relajado sin el calor del verano. Por la tarde, los jardines ofrecen vistas claras hacia la costa. Como el sol se pone alrededor de las 18:00, la visita vespertina al Calvario es perfecta para el atardecer."
           },
           "stops": [
             {
@@ -660,7 +720,8 @@
                 "de": "Die Terrasse fängt morgens die meiste Wärme ein.",
                 "hu": "A terasz reggelente összegyűjti a legtöbb meleget.",
                 "ro": "Terasa captează cea mai multă căldură dimineața.",
-                "en": "The terrace catches the most warmth in the morning."
+                "en": "The terrace catches the most warmth in the morning.",
+                "es": "La terraza recibe la mayor calidez por la mañana."
               }
             },
             {
@@ -669,7 +730,8 @@
                 "de": "Die Fernsicht auf Afrika ist im Winter oft am klarsten.",
                 "hu": "A kilátás Afrika felé télen gyakran a legtisztább.",
                 "ro": "Vizibilitatea spre Africa este adesea cea mai clară iarna.",
-                "en": "The view towards Africa is often clearest in winter."
+                "en": "The view towards Africa is often clearest in winter.",
+                "es": "La vista hacia África suele ser más clara en invierno."
               }
             },
             {
@@ -678,7 +740,8 @@
                 "de": "Ein warmer Zwischenstopp, wenn es draußen windig ist.",
                 "hu": "Meleg pihenőhely, ha kint feltámadna a szél.",
                 "ro": "O oprire caldă dacă afară bate vântul.",
-                "en": "A warm stop-off if it gets windy outside."
+                "en": "A warm stop-off if it gets windy outside.",
+                "es": "Una parada cálida si hace viento fuera."
               }
             },
             {
@@ -687,7 +750,8 @@
                 "de": "Suchen Sie sich einen Sonnenplatz für den Kaffee.",
                 "hu": "Keressen egy napsütötte asztalt a kávézáshoz.",
                 "ro": "Căutați o masă la soare pentru cafea.",
-                "en": "Look for a sunny table for your coffee."
+                "en": "Look for a sunny table for your coffee.",
+                "es": "Busca una mesa soleada para tu café."
               }
             },
             {
@@ -696,7 +760,8 @@
                 "de": "Windgeschützter Innenhof, ideal für Fotos.",
                 "hu": "Szélvédett belső udvar, ideális fotózáshoz.",
                 "ro": "Curte interioară ferită de vânt, ideală pentru fotografii.",
-                "en": "Wind-protected inner courtyard, ideal for photos."
+                "en": "Wind-protected inner courtyard, ideal for photos.",
+                "es": "Patio interior protegido del viento, ideal para fotos."
               }
             },
             {
@@ -705,7 +770,8 @@
                 "de": "Die Blumen blühen hier dank des Klimas das ganze Jahr.",
                 "hu": "A virágok a klímának köszönhetően egész évben nyílnak.",
                 "ro": "Florile înfloresc aici tot anul datorită climei.",
-                "en": "Flowers bloom here all year round thanks to the climate."
+                "en": "Flowers bloom here all year round thanks to the climate.",
+                "es": "Las flores florecen aquí todo el año gracias al clima."
               }
             },
             {
@@ -714,7 +780,8 @@
                 "de": "Kühler Innenraum; Jacke beim Eintreten anlassen.",
                 "hu": "Hűvös belső tér, belépéskor ne vegye le a kabátot.",
                 "ro": "Interior răcoros; păstrați jacheta la intrare.",
-                "en": "Cool interior; keep your jacket on when entering."
+                "en": "Cool interior; keep your jacket on when entering.",
+                "es": "Interior fresco; mantén la chaqueta al entrar."
               }
             },
             {
@@ -723,7 +790,8 @@
                 "de": "Bester Spot für den frühen Sonnenuntergang gegen 18 Uhr.",
                 "hu": "A legjobb hely a korai, 18 óra körüli naplementéhez.",
                 "ro": "Cel mai bun loc pentru apusul devreme, în jur de ora 18.",
-                "en": "Best spot for the early sunset around 6 PM."
+                "en": "Best spot for the early sunset around 6 PM.",
+                "es": "Mejor sitio para el atardecer temprano sobre las 18:00."
               }
             }
           ],
@@ -751,6 +819,12 @@
               "The sun is strong; sun protection is needed even in winter.",
               "After 5 PM, the temperature drops quickly in the mountains.",
               "Most shops remain open even during the low season."
+            ],
+            "es": [
+              "Vístete por capas porque refresca mucho en la sombra.",
+              "El sol es fuerte; necesitas protección solar incluso en invierno.",
+              "Después de las 17:00, la temperatura baja rápidamente en la montaña.",
+              "La mayoría de las tiendas permanecen abiertas incluso en temporada baja."
             ]
           }
         }
@@ -769,7 +843,8 @@
             "de": "Mirador del Compás",
             "hu": "Compás kilátó",
             "ro": "Mirador del Compás",
-            "en": "Compás Viewpoint"
+            "en": "Compás Viewpoint",
+            "es": "Mirador del Compás"
           },
           "coords": [
             -4.6368,
@@ -784,7 +859,8 @@
             "de": "Startpunkt mit gutem Überblick.",
             "hu": "Kiindulópont jó rálátással a környékre.",
             "ro": "Punct de plecare cu o bună vedere de ansamblu.",
-            "en": "Starting point with a good overview."
+            "en": "Starting point with a good overview.",
+            "es": "Punto de partida con buena visión general."
           }
         },
         {
@@ -792,7 +868,8 @@
             "de": "Muralla y Jardines",
             "hu": "Várfal és kertek",
             "ro": "Muralla y Jardines",
-            "en": "Wall and Gardens"
+            "en": "Wall and Gardens",
+            "es": "Muralla y Jardines"
           },
           "coords": [
             -4.6415,
@@ -807,7 +884,8 @@
             "de": "Flache Wege innerhalb der Gärten.",
             "hu": "Sík utak a kerteken belül.",
             "ro": "Alei plane în interiorul grădinilor.",
-            "en": "Flat paths within the gardens."
+            "en": "Flat paths within the gardens.",
+            "es": "Caminos planos dentro de los jardines."
           }
         },
         {
@@ -815,7 +893,8 @@
             "de": "Plaza de Toros",
             "hu": "Bikaviadal-aréna",
             "ro": "Plaza de Toros",
-            "en": "Bullring"
+            "en": "Bullring",
+            "es": "Plaza de toros"
           },
           "coords": [
             -4.6405,
@@ -830,7 +909,8 @@
             "de": "Fahrrad draußen sicher anschließen.",
             "hu": "Zárja le a biciklit biztonságosan odakint.",
             "ro": "Legat bicicleta în siguranță afară.",
-            "en": "Lock your bike securely outside."
+            "en": "Lock your bike securely outside.",
+            "es": "Asegura bien tu bicicleta en el exterior."
           }
         },
         {
@@ -838,7 +918,8 @@
             "de": "Plaza de la Constitución",
             "hu": "Alkotmány tér",
             "ro": "Plaza de la Constitución",
-            "en": "Constitution Square"
+            "en": "Constitution Square",
+            "es": "Plaza de la Constitución"
           },
           "coords": [
             -4.6395,
@@ -853,7 +934,8 @@
             "de": "Viele Cafés für eine längere Pause.",
             "hu": "Számos kávézó egy hosszabb pihenőhöz.",
             "ro": "Multe cafenele pentru o pauză mai lungă.",
-            "en": "Many cafes for a longer break."
+            "en": "Many cafes for a longer break.",
+            "es": "Muchas cafeterías para una pausa más larga."
           }
         },
         {
@@ -861,7 +943,8 @@
             "de": "Ermita de la Virgen de la Peña",
             "hu": "Sziklatemplom",
             "ro": "Ermita de la Virgen de la Peña",
-            "en": "Virgen de la Peña Hermitage"
+            "en": "Virgen de la Peña Hermitage",
+            "es": "Ermita de la Virgen de la Peña"
           },
           "coords": [
             -4.6365,
@@ -876,7 +959,8 @@
             "de": "Letzter Stopp vor der Abfahrt.",
             "hu": "Utolsó megálló a távozás előtt.",
             "ro": "Ultimul popas înainte de plecare.",
-            "en": "Last stop before leaving."
+            "en": "Last stop before leaving.",
+            "es": "Última parada antes de partir."
           }
         }
       ],
@@ -884,7 +968,8 @@
         "de": "Das Radfahren in Mijas Pueblo erfordert Kondition wegen der Steigungen, belohnt aber mit fantastischen Aussichten. Beginnen Sie am Aussichtspunkt, erkunden Sie die Gärten an der Stadtmauer und machen Sie eine ausgiebige Pause auf dem Hauptplatz. Beenden Sie Ihre Tour an der berühmten Felsenkapelle, bevor Sie die Abfahrt ins Tal genießen.",
         "hu": "A biciklizés Mijas Pueblo-ban kondíciót igényel az emelkedők miatt, de fantasztikus kilátással jutalmaz. Kezdjen a kilátópontnál, fedezze fel a várfal menti kerteket, és tartson egy kiadós pihenőt a főtéren. Zárja túráját a híres sziklatemplomnál, mielőtt élvezné a lejtmenetet a völgybe.",
         "ro": "Ciclismul în Mijas Pueblo necesită condiție fizică din cauza pantelor, dar recompensează cu vederi fantastice. Începeți la punctul de belvedere, explorați grădinile de pe ziduri și faceți o pauză lungă în piața principală. Încheiați turul la faimoasa capelă în stâncă înainte de a vă bucura de coborârea în vale.",
-        "en": "Cycling in Mijas Pueblo requires fitness due to the inclines but rewards you with fantastic views. Start at the viewpoint, explore the gardens by the wall, and take a long break in the main square. Finish your tour at the famous rock chapel before enjoying the descent into the valley."
+        "en": "Cycling in Mijas Pueblo requires fitness due to the inclines but rewards you with fantastic views. Start at the viewpoint, explore the gardens by the wall, and take a long break in the main square. Finish your tour at the famous rock chapel before enjoying the descent into the valley.",
+        "es": "Hacer ciclismo en Mijas Pueblo exige estar en forma por las cuestas, pero te recompensa con vistas fantásticas. Comienza en el mirador, explora los jardines junto a la muralla y toma una larga pausa en la plaza principal. Termina tu ruta en la famosa ermita de la roca antes de disfrutar el descenso al valle."
       },
       "gastro_picks": {
         "de": [
@@ -988,6 +1073,11 @@
           "E-bikes are highly recommended for this terrain.",
           "Watch out for pedestrians in the narrow alleys.",
           "Check your brakes before the descent!"
+        ],
+        "es": [
+          "Las bicicletas eléctricas son muy recomendables para este terreno.",
+          "Ten cuidado con los peatones en los callejones estrechos.",
+          "Revisa tus frenos antes del descenso."
         ]
       },
       "variants": {
@@ -996,7 +1086,8 @@
             "de": "Das Radfahren in Mijas Pueblo erfordert Kondition wegen der Steigungen, belohnt aber mit fantastischen Aussichten. Beginnen Sie am Aussichtspunkt, erkunden Sie die Gärten an der Stadtmauer und machen Sie eine ausgiebige Pause auf dem Hauptplatz. Beenden Sie Ihre Tour an der berühmten Felsenkapelle, bevor Sie die Abfahrt ins Tal genießen.",
             "hu": "A biciklizés Mijas Pueblo-ban kondíciót igényel az emelkedők miatt, de fantasztikus kilátással jutalmaz. Kezdjen a kilátópontnál, fedezze fel a várfal menti kerteket, és tartson egy kiadós pihenőt a főtéren. Zárja túráját a híres sziklatemplomnál, mielőtt élvezné a lejtmenetet a völgybe.",
             "ro": "Ciclismul în Mijas Pueblo necesită condiție fizică din cauza pantelor, dar recompensează cu vederi fantastice. Începeți la punctul de belvedere, explorați grădinile de pe ziduri și faceți o pauză lungă în piața principală. Încheiați turul la faimoasa capelă în stâncă înainte de a vă bucura de coborârea în vale.",
-            "en": "Cycling in Mijas Pueblo requires fitness due to the inclines but rewards you with fantastic views. Start at the viewpoint, explore the gardens by the wall, and take a long break in the main square. Finish your tour at the famous rock chapel before enjoying the descent into the valley."
+            "en": "Cycling in Mijas Pueblo requires fitness due to the inclines but rewards you with fantastic views. Start at the viewpoint, explore the gardens by the wall, and take a long break in the main square. Finish your tour at the famous rock chapel before enjoying the descent into the valley.",
+            "es": "Hacer ciclismo en Mijas Pueblo exige estar en forma por las cuestas, pero te recompensa con vistas fantásticas. Comienza en el mirador, explora los jardines junto a la muralla y toma una larga pausa en la plaza principal. Termina tu ruta en la famosa ermita de la roca antes de disfrutar el descenso al valle."
           },
           "stops": [
             {
@@ -1004,13 +1095,15 @@
                 "de": "Mirador del Compás",
                 "hu": "Compás kilátó",
                 "ro": "Mirador del Compás",
-                "en": "Compás Viewpoint"
+                "en": "Compás Viewpoint",
+                "es": "Mirador del Compás"
               },
               "tip_5lang": {
                 "de": "Startpunkt mit gutem Überblick.",
                 "hu": "Kiindulópont jó rálátással a környékre.",
                 "ro": "Punct de plecare cu o bună vedere de ansamblu.",
-                "en": "Starting point with a good overview."
+                "en": "Starting point with a good overview.",
+                "es": "Punto de partida con buena visión general."
               }
             },
             {
@@ -1018,13 +1111,15 @@
                 "de": "Muralla y Jardines",
                 "hu": "Várfal és kertek",
                 "ro": "Muralla y Jardines",
-                "en": "Wall and Gardens"
+                "en": "Wall and Gardens",
+                "es": "Muralla y Jardines"
               },
               "tip_5lang": {
                 "de": "Flache Wege innerhalb der Gärten.",
                 "hu": "Sík utak a kerteken belül.",
                 "ro": "Alei plane în interiorul grădinilor.",
-                "en": "Flat paths within the gardens."
+                "en": "Flat paths within the gardens.",
+                "es": "Caminos planos dentro de los jardines."
               }
             },
             {
@@ -1032,13 +1127,15 @@
                 "de": "Plaza de Toros",
                 "hu": "Bikaviadal-aréna",
                 "ro": "Plaza de Toros",
-                "en": "Bullring"
+                "en": "Bullring",
+                "es": "Plaza de toros"
               },
               "tip_5lang": {
                 "de": "Fahrrad draußen sicher anschließen.",
                 "hu": "Zárja le a biciklit biztonságosan odakint.",
                 "ro": "Legat bicicleta în siguranță afară.",
-                "en": "Lock your bike securely outside."
+                "en": "Lock your bike securely outside.",
+                "es": "Asegura bien tu bicicleta en el exterior."
               }
             },
             {
@@ -1046,13 +1143,15 @@
                 "de": "Plaza de la Constitución",
                 "hu": "Alkotmány tér",
                 "ro": "Plaza de la Constitución",
-                "en": "Constitution Square"
+                "en": "Constitution Square",
+                "es": "Plaza de la Constitución"
               },
               "tip_5lang": {
                 "de": "Viele Cafés für eine längere Pause.",
                 "hu": "Számos kávézó egy hosszabb pihenőhöz.",
                 "ro": "Multe cafenele pentru o pauză mai lungă.",
-                "en": "Many cafes for a longer break."
+                "en": "Many cafes for a longer break.",
+                "es": "Muchas cafeterías para una pausa más larga."
               }
             },
             {
@@ -1060,13 +1159,15 @@
                 "de": "Ermita de la Virgen de la Peña",
                 "hu": "Sziklatemplom",
                 "ro": "Ermita de la Virgen de la Peña",
-                "en": "Virgen de la Peña Hermitage"
+                "en": "Virgen de la Peña Hermitage",
+                "es": "Ermita de la Virgen de la Peña"
               },
               "tip_5lang": {
                 "de": "Letzter Stopp vor der Abfahrt.",
                 "hu": "Utolsó megálló a távozás előtt.",
                 "ro": "Ultimul popas înainte de plecare.",
-                "en": "Last stop before leaving."
+                "en": "Last stop before leaving.",
+                "es": "Última parada antes de partir."
               }
             }
           ],
@@ -1172,6 +1273,11 @@
               "E-bikes are highly recommended for this terrain.",
               "Watch out for pedestrians in the narrow alleys.",
               "Check your brakes before the descent!"
+            ],
+            "es": [
+              "Las bicicletas eléctricas son muy recomendables para este terreno.",
+              "Ten cuidado con los peatones en los callejones estrechos.",
+              "Revisa tus frenos antes del descenso."
             ]
           }
         },
@@ -1180,7 +1286,8 @@
             "de": "Morgens erfordert die Fahrt zum Aussichtspunkt volle Konzentration auf nassen Straßen. Mittags ist eine lange Pause am Constitution Square ratsam, um den Regen abzuwarten. Nachmittags führt die Tour vorsichtig zur Kapelle. Trotz Nässe bietet die Strecke sportliche Herausforderungen und dramatische Ausblicke auf die regenverhangene Küste.",
             "hu": "Reggel a kilátóhoz vezető út teljes koncentrációt igényel a nedves aszfalton. Délben érdemes hosszabb pihenőt tartani az Alkotmány téren az eső miatt. Délután a túra óvatosan folytatódik a kápolna felé. A vizes út ellenére a szakasz sportos kihívást és drámai kilátást nyújt a párás tengerpartra.",
             "ro": "Dimineața, drumul spre belvedere necesită concentrare maximă pe asfaltul ud. La prânz, este recomandată o pauză lungă în Piața Constituției din cauza ploii. După-amiaza, turul continuă cu atenție spre capelă. În ciuda umezelii, traseul oferă o provocare sportivă și vederi dramatice.",
-            "en": "In the morning, the ride to the viewpoint requires full concentration on wet tarmac. At noon, a long break at Constitution Square is advised due to the rain. In the afternoon, the tour continues carefully toward the chapel. Despite the wet roads, the route offers a sporting challenge and dramatic views."
+            "en": "In the morning, the ride to the viewpoint requires full concentration on wet tarmac. At noon, a long break at Constitution Square is advised due to the rain. In the afternoon, the tour continues carefully toward the chapel. Despite the wet roads, the route offers a sporting challenge and dramatic views.",
+            "es": "Por la mañana, el trayecto hasta el mirador requiere plena concentración por el asfalto mojado. Al mediodía, se aconseja una larga pausa en la Plaza de la Constitución debido a la lluvia. Por la tarde, la ruta continúa con cuidado hacia la ermita. A pesar de las carreteras húmedas, la ruta ofrece un reto deportivo y vistas dramáticas."
           },
           "stops": [
             {
@@ -1189,7 +1296,8 @@
                 "de": "Bremsweg auf dem nassen Asphalt ist deutlich länger.",
                 "hu": "A fékút vizes aszfalton jelentősen megnő.",
                 "ro": "Distanța de frânare pe asfalt ud este mult mai mare.",
-                "en": "Braking distance on wet tarmac is significantly longer."
+                "en": "Braking distance on wet tarmac is significantly longer.",
+                "es": "La distancia de frenado en asfalto mojado es significativamente mayor."
               }
             },
             {
@@ -1198,7 +1306,8 @@
                 "de": "Vorsicht vor Laub auf dem Weg, es ist rutschig.",
                 "hu": "Vigyázzon a nedves levelekre az úton, csúsznak.",
                 "ro": "Atenție la frunzele umede de pe drum, sunt alunecoase.",
-                "en": "Watch out for wet leaves on the path; they are slippery."
+                "en": "Watch out for wet leaves on the path; they are slippery.",
+                "es": "Cuidado con las hojas mojadas en el camino; son resbaladizas."
               }
             },
             {
@@ -1207,7 +1316,8 @@
                 "de": "Sicherer Abstellplatz für Fahrräder unter dem Vordach.",
                 "hu": "Biztonságos és fedett biciklitároló az előtető alatt.",
                 "ro": "Loc de parcare sigur și acoperit sub streașină.",
-                "en": "Safe and covered bike parking under the overhang."
+                "en": "Safe and covered bike parking under the overhang.",
+                "es": "Aparcamiento seguro y cubierto para bicicletas bajo el voladizo."
               }
             },
             {
@@ -1216,7 +1326,8 @@
                 "de": "Idealer Ort für eine warme Suppe bei Regenpause.",
                 "hu": "Ideális hely egy meleg levesre az eső szünetében.",
                 "ro": "Locul ideal pentru o supă caldă în timpul ploii.",
-                "en": "Ideal spot for a warm soup during a rain break."
+                "en": "Ideal spot for a warm soup during a rain break.",
+                "es": "Lugar ideal para una sopa caliente durante una pausa por la lluvia."
               }
             },
             {
@@ -1225,7 +1336,8 @@
                 "de": "Stellen Sie das Rad nah am Eingang im Trockenen ab.",
                 "hu": "Parkoljon a bejárathoz közel, száraz helyen.",
                 "ro": "Parcați aproape de intrare, într-un loc uscat.",
-                "en": "Park close to the entrance in a dry spot."
+                "en": "Park close to the entrance in a dry spot.",
+                "es": "Aparca cerca de la entrada en un lugar seco."
               }
             }
           ],
@@ -1253,6 +1365,12 @@
               "Avoid abrupt braking maneuvers on cobblestone sections.",
               "Waterproof gear is essential due to the wind chill.",
               "Steep descents are particularly dangerous when wet."
+            ],
+            "es": [
+              "Reduce un poco la presión de los neumáticos para mejor agarre en carreteras mojadas.",
+              "Evita frenadas bruscas en tramos empedrados.",
+              "El equipo impermeable es esencial por la sensación térmica del viento.",
+              "Los descensos empinados son especialmente peligrosos cuando están mojados."
             ]
           }
         },
@@ -1261,7 +1379,8 @@
             "de": "Morgens ist die Luft frisch und perfekt für den Aufstieg nach Mijas. Mittags bietet die Wintersonne ideale Bedingungen für eine Pause in den Gärten. Nachmittags ist die Fahrt durch das Dorf entspannt, da weniger Touristen unterwegs sind. Die klare Winterluft garantiert eine fantastische Sicht auf das Mittelmeer während der gesamten Tour.",
             "hu": "Reggel a friss levegő tökéletes a Mijasba való feltekeréshez. Délben a téli napsütés ideális feltételeket biztosít egy pihenőhöz a kertekben. Délután a falun át vezető út nyugodt, mivel kevesebb a turista. A tiszta téli levegő fantasztikus kilátást garantál a tengerre az egész túra alatt.",
             "ro": "Dimineața, aerul proaspăt este perfect pentru urcarea spre Mijas. La prânz, soarele de iarnă oferă condiții ideale pentru o pauză în grădini. După-amiaza, plimbarea prin sat este relaxată, fiind mai puțini turiști. Aerul clar garantează o vedere fantastică spre Mediterană.",
-            "en": "In the morning, the fresh air is perfect for the climb to Mijas. At noon, the winter sun provides ideal conditions for a break in the gardens. In the afternoon, riding through the village is relaxed with fewer tourists around. The clear winter air guarantees fantastic views of the sea throughout the tour."
+            "en": "In the morning, the fresh air is perfect for the climb to Mijas. At noon, the winter sun provides ideal conditions for a break in the gardens. In the afternoon, riding through the village is relaxed with fewer tourists around. The clear winter air guarantees fantastic views of the sea throughout the tour.",
+            "es": "Por la mañana, el aire fresco es perfecto para la subida a Mijas. Al mediodía, el sol invernal proporciona condiciones ideales para una pausa en los jardines. Por la tarde, pedalear por el pueblo es relajado con menos turistas alrededor. El aire claro del invierno garantiza vistas fantásticas al mar durante todo el recorrido."
           },
           "stops": [
             {
@@ -1270,7 +1389,8 @@
                 "de": "Ziehen Sie für die Abfahrt eine winddichte Jacke an.",
                 "hu": "A lejtmenethez vegyen fel szélálló dzsekit.",
                 "ro": "Puneți o jachetă rezistentă la vânt pentru coborâre.",
-                "en": "Put on a windproof jacket for the descent."
+                "en": "Put on a windproof jacket for the descent.",
+                "es": "Ponte una chaqueta cortavientos para el descenso."
               }
             },
             {
@@ -1279,7 +1399,8 @@
                 "de": "Sonnige Bänke laden zur Pause ohne Überhitzung ein.",
                 "hu": "A napsütötte padok pihenésre hívnak túlhevülés nélkül.",
                 "ro": "Băncile însorite invită la pauză fără supraîncălzire.",
-                "en": "Sunny benches invite a break without overheating."
+                "en": "Sunny benches invite a break without overheating.",
+                "es": "Los bancos soleados invitan a una pausa sin sobrecalentarse."
               }
             },
             {
@@ -1288,7 +1409,8 @@
                 "de": "Kühler Schatten im Inneren; bewegen Sie sich weiter.",
                 "hu": "Hűvös árnyék belül, maradjon mozgásban.",
                 "ro": "Umbră răcoroasă în interior; rămâneți în mișcare.",
-                "en": "Cool shade inside; keep moving to stay warm."
+                "en": "Cool shade inside; keep moving to stay warm.",
+                "es": "Sombra fresca en el interior; sigue en movimiento para mantener el calor."
               }
             },
             {
@@ -1297,7 +1419,8 @@
                 "de": "Die Sonne steht tief; Vorsicht vor Blendung beim Fahren.",
                 "hu": "Alacsonyan jár a nap, vigyázzon a vakításra vezetéskor.",
                 "ro": "Soarele este jos; atenție la orbire în timp ce conduceți.",
-                "en": "The sun is low; watch out for glare while riding."
+                "en": "The sun is low; watch out for glare while riding.",
+                "es": "El sol está bajo; ten cuidado con el deslumbramiento al montar."
               }
             },
             {
@@ -1306,7 +1429,8 @@
                 "de": "Ein heißer Tee im Café nebenan wärmt nach der Tour.",
                 "hu": "Egy forró tea a szomszédos kávézóban jól esik a túra után.",
                 "ro": "Un ceai fierbinte la cafeneaua de lângă încălzește bine.",
-                "en": "A hot tea at the cafe next door warms you up after the ride."
+                "en": "A hot tea at the cafe next door warms you up after the ride.",
+                "es": "Un té caliente en la cafetería de al lado te calentará tras el paseo."
               }
             }
           ],
@@ -1334,6 +1458,12 @@
               "Dusk sets in early; check your bike lights before starting.",
               "You sweat on the climb but cool down fast on descents.",
               "In winter, the roads are less dusty than in summer."
+            ],
+            "es": [
+              "Lleva guantes de dedos completos contra el frío y la sensación del viento.",
+              "El crepúsculo llega pronto; comprueba las luces de tu bicicleta antes de salir.",
+              "Sudorás en la subida pero te refrescas rápido en los descensos.",
+              "En invierno, las carreteras están menos polvorientas que en verano."
             ]
           }
         }
@@ -1352,7 +1482,8 @@
             "de": "Ermita de la Virgen de la Peña",
             "hu": "Sziklatemplom",
             "ro": "Ermita de la Virgen de la Peña",
-            "en": "Virgen de la Peña Hermitage"
+            "en": "Virgen de la Peña Hermitage",
+            "es": "Ermita de la Virgen de la Peña"
           },
           "coords": [
             -4.6365,
@@ -1367,7 +1498,8 @@
             "de": "Parkhaus direkt am Eingang des Dorfes nutzen.",
             "hu": "Használja a falu bejáratánál lévő parkolóházat.",
             "ro": "Folosiți parcarea etajată de la intrarea în sat.",
-            "en": "Use the multi-story parking at the village entrance."
+            "en": "Use the multi-story parking at the village entrance.",
+            "es": "Utiliza el aparcamiento de varios pisos en la entrada del pueblo."
           }
         },
         {
@@ -1375,7 +1507,8 @@
             "de": "Museo de Miniaturas",
             "hu": "Miniatűrök Múzeuma",
             "ro": "Museo de Miniaturas",
-            "en": "Miniature Museum"
+            "en": "Miniature Museum",
+            "es": "Museo en Miniatura"
           },
           "coords": [
             -4.6375,
@@ -1390,7 +1523,8 @@
             "de": "Ein Muss für Familien.",
             "hu": "Családok számára kötelező program.",
             "ro": "O vizită obligatorie pentru familii.",
-            "en": "A must-visit for families."
+            "en": "A must-visit for families.",
+            "es": "Imprescindible para familias."
           }
         },
         {
@@ -1398,7 +1532,8 @@
             "de": "Muralla y Jardines",
             "hu": "Várfal és kertek",
             "ro": "Muralla y Jardines",
-            "en": "Wall and Gardens"
+            "en": "Wall and Gardens",
+            "es": "Muralla y Jardines"
           },
           "coords": [
             -4.6415,
@@ -1413,7 +1548,8 @@
             "de": "Hinter der Stierkampfarena gelegen.",
             "hu": "A bikaviadal-aréna mögött található.",
             "ro": "Situat în spatele arenei de tauri.",
-            "en": "Located behind the bullring."
+            "en": "Located behind the bullring.",
+            "es": "Situado detrás de la plaza de toros."
           }
         },
         {
@@ -1421,7 +1557,8 @@
             "de": "Plaza de la Constitución",
             "hu": "Alkotmány tér",
             "ro": "Plaza de la Constitución",
-            "en": "Constitution Square"
+            "en": "Constitution Square",
+            "es": "Plaza de la Constitución"
           },
           "coords": [
             -4.6395,
@@ -1436,7 +1573,8 @@
             "de": "Probieren Sie lokale Mandeln.",
             "hu": "Kóstolja meg a helyi mandulát.",
             "ro": "Încercați migdalele locale.",
-            "en": "Try some local almonds."
+            "en": "Try some local almonds.",
+            "es": "Prueba unas almendras locales."
           }
         },
         {
@@ -1444,7 +1582,8 @@
             "de": "Iglesia de la Inmaculada Concepción",
             "hu": "Szeplőtelen Fogantatás templom",
             "ro": "Iglesia de la Inmaculada Concepción",
-            "en": "Immaculate Conception Church"
+            "en": "Immaculate Conception Church",
+            "es": "Iglesia de la Inmaculada Concepción"
           },
           "coords": [
             -4.6402,
@@ -1459,7 +1598,8 @@
             "de": "Wunderschöner Innenraum.",
             "hu": "Gyönyörű belső tér.",
             "ro": "Interior minunat.",
-            "en": "Beautiful interior."
+            "en": "Beautiful interior.",
+            "es": "Interior precioso."
           }
         }
       ],
@@ -1467,7 +1607,8 @@
         "de": "Das Auto ist die beste Wahl, um Mijas Pueblo von der Küste aus zu erreichen. Parken Sie im großen, günstigen Parkhaus im Zentrum und erkunden Sie die Sehenswürdigkeiten. Besuchen Sie die Felsenkapelle, das Miniaturmuseum und schlendern Sie durch die Gärten. Die kompakte Bauweise des Dorfes erlaubt es, alle wichtigen Punkte vom Parkplatz aus bequem zu erreichen.",
         "hu": "Az autó a legjobb választás, ha a tengerpart felől érkezik Mijas Pueblóba. Parkoljon le a nagy és olcsó központi parkolóházban, és fedezze fel a látnivalókat. Látogassa meg a sziklatemplomot, a miniatűr múzeumot és sétáljon a kertekben. A falu kompakt felépítése lehetővé teszi, hogy minden fontos pontot kényelmesen elérjen a parkolótól.",
         "ro": "Mașina este cea mai bună alegere pentru a ajunge la Mijas Pueblo de pe coastă. Parcați în parcarea centrală mare și ieftină și explorați obiectivele turistice. Vizitați capela în stâncă, muzeul miniaturilor și plimbați-vă prin grădini. Structura compactă a satului vă permite să ajungeți ușor la toate punctele importante de la parcare.",
-        "en": "Car is the best choice to reach Mijas Pueblo from the coast. Park in the large, inexpensive central parking garage and explore the sights. Visit the rock chapel, the miniature museum, and stroll through the gardens. The village's compact layout allows you to easily reach all major points from the parking area."
+        "en": "Car is the best choice to reach Mijas Pueblo from the coast. Park in the large, inexpensive central parking garage and explore the sights. Visit the rock chapel, the miniature museum, and stroll through the gardens. The village's compact layout allows you to easily reach all major points from the parking area.",
+        "es": "El coche es la mejor opción para llegar a Mijas Pueblo desde la costa. Estacione en el amplio y económico aparcamiento central y explore los puntos de interés. Visite la ermita troglodita, el museo en miniatura y pasee por los jardines. El trazado compacto del pueblo permite alcanzar fácilmente todos los puntos principales desde el área de aparcamiento."
       },
       "gastro_picks": {
         "de": [
@@ -1571,6 +1712,11 @@
           "The parking garage often costs only 1 Euro per day.",
           "The access road is winding.",
           "Watch out for one-way street rules in the village."
+        ],
+        "es": [
+          "El aparcamiento suele costar solo 1 euro al día.",
+          "La carretera de acceso es sinuosa.",
+          "Tenga en cuenta las normas de sentido único en las calles del pueblo."
         ]
       },
       "variants": {
@@ -1579,7 +1725,8 @@
             "de": "Das Auto ist die beste Wahl, um Mijas Pueblo von der Küste aus zu erreichen. Parken Sie im großen, günstigen Parkhaus im Zentrum und erkunden Sie die Sehenswürdigkeiten. Besuchen Sie die Felsenkapelle, das Miniaturmuseum und schlendern Sie durch die Gärten. Die kompakte Bauweise des Dorfes erlaubt es, alle wichtigen Punkte vom Parkplatz aus bequem zu erreichen.",
             "hu": "Az autó a legjobb választás, ha a tengerpart felől érkezik Mijas Pueblóba. Parkoljon le a nagy és olcsó központi parkolóházban, és fedezze fel a látnivalókat. Látogassa meg a sziklatemplomot, a miniatűr múzeumot és sétáljon a kertekben. A falu kompakt felépítése lehetővé teszi, hogy minden fontos pontot kényelmesen elérjen a parkolótól.",
             "ro": "Mașina este cea mai bună alegere pentru a ajunge la Mijas Pueblo de pe coastă. Parcați în parcarea centrală mare și ieftină și explorați obiectivele turistice. Vizitați capela în stâncă, muzeul miniaturilor și plimbați-vă prin grădini. Structura compactă a satului vă permite să ajungeți ușor la toate punctele importante de la parcare.",
-            "en": "Car is the best choice to reach Mijas Pueblo from the coast. Park in the large, inexpensive central parking garage and explore the sights. Visit the rock chapel, the miniature museum, and stroll through the gardens. The village's compact layout allows you to easily reach all major points from the parking area."
+            "en": "Car is the best choice to reach Mijas Pueblo from the coast. Park in the large, inexpensive central parking garage and explore the sights. Visit the rock chapel, the miniature museum, and stroll through the gardens. The village's compact layout allows you to easily reach all major points from the parking area.",
+            "es": "El coche es la mejor opción para llegar a Mijas Pueblo desde la costa. Estacione en el amplio y económico aparcamiento central y explore los puntos de interés. Visite la ermita troglodita, el museo en miniatura y pasee por los jardines. El trazado compacto del pueblo permite alcanzar fácilmente todos los puntos principales desde el área de aparcamiento."
           },
           "stops": [
             {
@@ -1587,13 +1734,15 @@
                 "de": "Ermita de la Virgen de la Peña",
                 "hu": "Sziklatemplom",
                 "ro": "Ermita de la Virgen de la Peña",
-                "en": "Virgen de la Peña Hermitage"
+                "en": "Virgen de la Peña Hermitage",
+                "es": "Ermita de la Virgen de la Peña"
               },
               "tip_5lang": {
                 "de": "Parkhaus direkt am Eingang des Dorfes nutzen.",
                 "hu": "Használja a falu bejáratánál lévő parkolóházat.",
                 "ro": "Folosiți parcarea etajată de la intrarea în sat.",
-                "en": "Use the multi-story parking at the village entrance."
+                "en": "Use the multi-story parking at the village entrance.",
+                "es": "Utilice el aparcamiento de varias plantas en la entrada del pueblo."
               }
             },
             {
@@ -1601,13 +1750,15 @@
                 "de": "Museo de Miniaturas",
                 "hu": "Miniatűrök Múzeuma",
                 "ro": "Museo de Miniaturas",
-                "en": "Miniature Museum"
+                "en": "Miniature Museum",
+                "es": "Museo en Miniatura"
               },
               "tip_5lang": {
                 "de": "Ein Muss für Familien.",
                 "hu": "Családok számára kötelező program.",
                 "ro": "O vizită obligatorie pentru familii.",
-                "en": "A must-visit for families."
+                "en": "A must-visit for families.",
+                "es": "Imprescindible para familias."
               }
             },
             {
@@ -1615,13 +1766,15 @@
                 "de": "Muralla y Jardines",
                 "hu": "Várfal és kertek",
                 "ro": "Muralla y Jardines",
-                "en": "Wall and Gardens"
+                "en": "Wall and Gardens",
+                "es": "Muralla y Jardines"
               },
               "tip_5lang": {
                 "de": "Hinter der Stierkampfarena gelegen.",
                 "hu": "A bikaviadal-aréna mögött található.",
                 "ro": "Situat în spatele arenei de tauri.",
-                "en": "Located behind the bullring."
+                "en": "Located behind the bullring.",
+                "es": "Situado detrás de la plaza de toros."
               }
             },
             {
@@ -1629,13 +1782,15 @@
                 "de": "Plaza de la Constitución",
                 "hu": "Alkotmány tér",
                 "ro": "Plaza de la Constitución",
-                "en": "Constitution Square"
+                "en": "Constitution Square",
+                "es": "Plaza de la Constitución"
               },
               "tip_5lang": {
                 "de": "Probieren Sie lokale Mandeln.",
                 "hu": "Kóstolja meg a helyi mandulát.",
                 "ro": "Încercați migdalele locale.",
-                "en": "Try some local almonds."
+                "en": "Try some local almonds.",
+                "es": "Pruebe algunas almendras locales."
               }
             },
             {
@@ -1643,13 +1798,15 @@
                 "de": "Iglesia de la Inmaculada Concepción",
                 "hu": "Szeplőtelen Fogantatás templom",
                 "ro": "Iglesia de la Inmaculada Concepción",
-                "en": "Immaculate Conception Church"
+                "en": "Immaculate Conception Church",
+                "es": "Iglesia de la Inmaculada Concepción"
               },
               "tip_5lang": {
                 "de": "Wunderschöner Innenraum.",
                 "hu": "Gyönyörű belső tér.",
                 "ro": "Interior minunat.",
-                "en": "Beautiful interior."
+                "en": "Beautiful interior.",
+                "es": "Interior precioso."
               }
             }
           ],
@@ -1755,6 +1912,11 @@
               "The parking garage often costs only 1 Euro per day.",
               "The access road is winding.",
               "Watch out for one-way street rules in the village."
+            ],
+            "es": [
+              "El aparcamiento suele costar solo 1 euro al día.",
+              "La carretera de acceso es sinuosa.",
+              "Tenga en cuenta las normas de sentido único en las calles del pueblo."
             ]
           }
         },
@@ -1763,7 +1925,8 @@
             "de": "Morgens parken Sie bequem im öffentlichen Parkhaus direkt im Zentrum. Mittags bietet das Miniaturenmuseum eine trockene Fluchtmöglichkeit. Nachmittags ist die Fahrt zwischen den Kirchen kurz und wetterfest. Die Rückfahrt am Abend ist dank der gut beleuchteten Straßen auch bei Regen sicher und komfortabel.",
             "hu": "Reggel parkoljon kényelmesen a központi parkolóházban. Délben a miniatűrök múzeuma kínál száraz menedéket. Délután a templomok közötti rövid út autóval kényelmes esőben is. Az esti visszautat a jól megvilágított utak biztonságossá és komfortossá teszik esős időben is.",
             "ro": "Dimineața parcați confortabil în parcarea publică centrală. La prânz, muzeul de miniaturi oferă un refugiu uscat. După-amiaza, drumul scurt între biserici este comod chiar și pe ploaie. Drumul de întoarcere seara este sigur datorită străzilor bine iluminate.",
-            "en": "In the morning, park comfortably in the public parking garage in the center. At noon, the miniature museum offers a dry escape. In the afternoon, the short drive between churches is convenient despite the rain. The return trip in the evening is safe and comfortable thanks to well-lit roads."
+            "en": "In the morning, park comfortably in the public parking garage in the center. At noon, the miniature museum offers a dry escape. In the afternoon, the short drive between churches is convenient despite the rain. The return trip in the evening is safe and comfortable thanks to well-lit roads.",
+            "es": "Por la mañana, aparque cómodamente en el parking público del centro. Al mediodía, el museo en miniatura ofrece un resguardo seco. Por la tarde, el breve trayecto entre iglesias es conveniente pese a la lluvia. El regreso por la noche es seguro y cómodo gracias a las carreteras bien iluminadas."
           },
           "stops": [
             {
@@ -1772,7 +1935,8 @@
                 "de": "Parkhaus 'Virgen de la Peña' ist nur 2 Gehminuten entfernt.",
                 "hu": "A 'Virgen de la Peña' parkolóház 2 perc séta.",
                 "ro": "Parcarea 'Virgen de la Peña' este la 2 minute de mers.",
-                "en": "The 'Virgen de la Peña' parking is 2 minutes walk away."
+                "en": "The 'Virgen de la Peña' parking is 2 minutes walk away.",
+                "es": "El aparcamiento de la 'Virgen de la Peña' está a 2 minutos caminando."
               }
             },
             {
@@ -1781,7 +1945,8 @@
                 "de": "Laden Sie Passagiere direkt vor dem Eingang ab.",
                 "hu": "Az utasokat közvetlenül a bejáratnál tegye ki.",
                 "ro": "Lăsați pasagerii direct în fața intrării.",
-                "en": "Drop off passengers directly in front of the entrance."
+                "en": "Drop off passengers directly in front of the entrance.",
+                "es": "Baje a los pasajeros directamente frente a la entrada."
               }
             },
             {
@@ -1790,7 +1955,8 @@
                 "de": "Kurzer Fußweg vom Auto; halten Sie Schirme bereit.",
                 "hu": "Rövid séta az autótól, készítse elő az esernyőket.",
                 "ro": "Scurtă plimbare de la mașină; pregătiți umbrelele.",
-                "en": "Short walk from the car; keep umbrellas ready."
+                "en": "Short walk from the car; keep umbrellas ready.",
+                "es": "Corto paseo desde el coche; lleve paraguas a mano."
               }
             },
             {
@@ -1799,7 +1965,8 @@
                 "de": "Parken ist hier schwierig; nutzen Sie das Parkhaus.",
                 "hu": "Itt nehéz parkolni, használja a központi garázst.",
                 "ro": "Parcarea e dificilă aici; folosiți garajul central.",
-                "en": "Parking is difficult here; use the central garage."
+                "en": "Parking is difficult here; use the central garage.",
+                "es": "Aquí es difícil aparcar; use el parking central."
               }
             },
             {
@@ -1808,7 +1975,8 @@
                 "de": "Enge Gassen; fahren Sie langsam bei Aquaplaning-Gefahr.",
                 "hu": "Szűk utcák, hajtson lassan a vízátfolyások miatt.",
                 "ro": "Străzi înguste; conduceți încet pe ploaie.",
-                "en": "Narrow streets; drive slowly due to hydroplaning risk."
+                "en": "Narrow streets; drive slowly due to hydroplaning risk.",
+                "es": "Calles estrechas; conduzca despacio por riesgo de aquaplaning."
               }
             }
           ],
@@ -1836,6 +2004,12 @@
               "Watch out for pedestrians with umbrellas in narrow streets.",
               "Use fog lights if rain is heavy in the mountain sections.",
               "The A-387 access road can be slippery during heavy rain."
+            ],
+            "es": [
+              "El aparcamiento de varias plantas es el mejor punto de partida seco.",
+              "Tenga cuidado con peatones con paraguas en calles estrechas.",
+              "Use las luces antiniebla si la lluvia es intensa en las zonas de montaña.",
+              "La A-387 puede estar resbaladiza con lluvia intensa."
             ]
           }
         },
@@ -1844,7 +2018,8 @@
             "de": "Morgens erreichen Sie Mijas stressfrei, da das Parkhaus viele freie Plätze bietet. Mittags ist die Fahrt durch das sonnige Dorf ein Genuss. Nachmittags bietet die Kirche einen ruhigen Rückzugsort. Da es früh dunkel wird, ist die beleuchtete Kulisse des Dorfes bei der Abfahrt am Abend besonders sehenswert.",
             "hu": "Reggel stresszmentesen érkezik Mijasba, a parkolóban sok a hely. Délben a napsütötte falun át autózni igazi élvezet. Délután a templom csendes menedéket nyújt. Mivel korán sötétedik, a kivilágított falu látványa az esti távozáskor különösen szép.",
             "ro": "Dimineața ajungeți fără stres, parcarea are multe locuri libere. La prânz, condusul prin satul însorit este o plăcere. După-amiaza, biserica oferă un refugiu liniștit. Deoarece se întunecă devreme, satul iluminat seara este superb.",
-            "en": "In the morning, arrive stress-free as the parking garage has plenty of space. At noon, driving through the sunny village is a delight. In the afternoon, the church offers a quiet retreat. Since it gets dark early, the illuminated village view during the evening departure is stunning."
+            "en": "In the morning, arrive stress-free as the parking garage has plenty of space. At noon, driving through the sunny village is a delight. In the afternoon, the church offers a quiet retreat. Since it gets dark early, the illuminated village view during the evening departure is stunning.",
+            "es": "Por la mañana llegue sin estrés, el parking suele tener espacio. Al mediodía, pasear por el pueblo soleado es un placer. Por la tarde, la iglesia ofrece un retiro tranquilo. Al oscurecer, la vista iluminada del pueblo al partir es espectacular."
           },
           "stops": [
             {
@@ -1853,7 +2028,8 @@
                 "de": "Keine Warteschlangen am Parkautomat im Winter.",
                 "hu": "Télen nincs sorban állás a parkolóautomatánál.",
                 "ro": "Nu sunt cozi la automatul de parcare iarna.",
-                "en": "No queues at the parking meter in winter."
+                "en": "No queues at the parking meter in winter.",
+                "es": "Sin colas en el parquímetro en invierno."
               }
             },
             {
@@ -1862,7 +2038,8 @@
                 "de": "Klimatisierte Räume halten eine angenehme Temperatur.",
                 "hu": "A légkondicionált terek kellemes hőmérsékletet tartanak.",
                 "ro": "Spațiile climatizate mențin o temperatură plăcută.",
-                "en": "Climate-controlled rooms maintain a pleasant temperature."
+                "en": "Climate-controlled rooms maintain a pleasant temperature.",
+                "es": "Las salas climatizadas mantienen una temperatura agradable."
               }
             },
             {
@@ -1871,7 +2048,8 @@
                 "de": "Parken Sie auf den oberen Ebenen für direkten Gartenzugang.",
                 "hu": "A felső szinteken parkoljon a közvetlen kijárathoz.",
                 "ro": "Parcați la nivelurile superioare pentru acces direct.",
-                "en": "Park on the upper levels for direct garden access."
+                "en": "Park on the upper levels for direct garden access.",
+                "es": "Estacione en las plantas superiores para acceso directo a los jardines."
               }
             },
             {
@@ -1880,7 +2058,8 @@
                 "de": "Kurzes Halten zum Aussteigen oft problemlos möglich.",
                 "hu": "Rövid megállás kiszálláshoz télen könnyen megoldható.",
                 "ro": "Oprirea scurtă pentru debarcare e ușoară iarna.",
-                "en": "A short stop for drop-off is often easy in winter."
+                "en": "A short stop for drop-off is often easy in winter.",
+                "es": "Una parada corta para dejar pasajeros suele ser fácil en invierno."
               }
             },
             {
@@ -1889,7 +2068,8 @@
                 "de": "Die Heizung im Auto ist nach dem Kirchenbesuch willkommen.",
                 "hu": "Az autó fűtése jól esik a hűvös templom után.",
                 "ro": "Căldura din mașină e binevenită după biserică.",
-                "en": "The car heater is welcome after the cool church visit."
+                "en": "The car heater is welcome after the cool church visit.",
+                "es": "El calefactor del coche se agradece después de la visita fresca a la iglesia."
               }
             }
           ],
@@ -1917,6 +2097,12 @@
               "Check tire pressure before the mountain drive in winter.",
               "Roads are less congested, making driving much more relaxed.",
               "Enjoy the view of the illuminated coast during your departure."
+            ],
+            "es": [
+              "El aparcamiento puede ser significativamente más barato en temporada baja.",
+              "Compruebe la presión de los neumáticos antes de la carretera de montaña en invierno.",
+              "Las carreteras están menos concurridas, lo que hace la conducción más relajada.",
+              "Disfrute de la vista de la costa iluminada durante su partida."
             ]
           }
         }
@@ -1935,7 +2121,8 @@
             "de": "Ermita de la Virgen de la Peña",
             "hu": "Sziklatemplom",
             "ro": "Ermita de la Virgen de la Peña",
-            "en": "Virgen de la Peña Hermitage"
+            "en": "Virgen de la Peña Hermitage",
+            "es": "Ermita de la Virgen de la Peña"
           },
           "coords": [
             -4.6365,
@@ -1950,7 +2137,8 @@
             "de": "Gleich neben der Bushaltestelle.",
             "hu": "Közvetlenül a buszmegálló mellett.",
             "ro": "Chiar lângă stația de autobuz.",
-            "en": "Right next to the bus stop."
+            "en": "Right next to the bus stop.",
+            "es": "Justo al lado de la parada de autobús."
           }
         },
         {
@@ -1958,7 +2146,8 @@
             "de": "Plaza de la Constitución",
             "hu": "Alkotmány tér",
             "ro": "Plaza de la Constitución",
-            "en": "Constitution Square"
+            "en": "Constitution Square",
+            "es": "Plaza de la Constitución"
           },
           "coords": [
             -4.6395,
@@ -1973,7 +2162,8 @@
             "de": "Herz des Dorfes.",
             "hu": "A falu szíve.",
             "ro": "Inima satului.",
-            "en": "Heart of the village."
+            "en": "Heart of the village.",
+            "es": "Corazón del pueblo."
           }
         },
         {
@@ -1981,7 +2171,8 @@
             "de": "Plaza de Toros",
             "hu": "Bikaviadal-aréna",
             "ro": "Plaza de Toros",
-            "en": "Bullring"
+            "en": "Bullring",
+            "es": "Plaza de toros"
           },
           "coords": [
             -4.6405,
@@ -1996,7 +2187,8 @@
             "de": "Einzigartige Architektur.",
             "hu": "Egyedülálló építészet.",
             "ro": "Arhitectură unică.",
-            "en": "Unique architecture."
+            "en": "Unique architecture.",
+            "es": "Arquitectura única."
           }
         },
         {
@@ -2004,7 +2196,8 @@
             "de": "Muralla y Jardines",
             "hu": "Várfal és kertek",
             "ro": "Muralla y Jardines",
-            "en": "Wall and Gardens"
+            "en": "Wall and Gardens",
+            "es": "Muralla y Jardines"
           },
           "coords": [
             -4.6415,
@@ -2019,7 +2212,8 @@
             "de": "Wunderschön angelegte Beete.",
             "hu": "Gyönyörűen kialakított ágyások.",
             "ro": "Straturi de flori frumos amenajate.",
-            "en": "Beautifully landscaped flower beds."
+            "en": "Beautifully landscaped flower beds.",
+            "es": "Parterres bellamente ajardinados."
           }
         },
         {
@@ -2027,7 +2221,8 @@
             "de": "Museo de Miniaturas",
             "hu": "Miniatűrök Múzeuma",
             "ro": "Museo de Miniaturas",
-            "en": "Miniature Museum"
+            "en": "Miniature Museum",
+            "es": "Museo en Miniatura"
           },
           "coords": [
             -4.6375,
@@ -2042,7 +2237,8 @@
             "de": "Besuch am späten Nachmittag ist ruhiger.",
             "hu": "Késő délutáni látogatás csendesebb.",
             "ro": "Vizita de după-amiază târziu este mai liniștită.",
-            "en": "Late afternoon visit is quieter."
+            "en": "Late afternoon visit is quieter.",
+            "es": "La visita al final de la tarde es más tranquila."
           }
         }
       ],
@@ -2050,7 +2246,8 @@
         "de": "Mijas Pueblo ist exzellent mit Bussen von Fuengirola aus erreichbar. Starten Sie direkt bei der Ankunft an der Felsenkapelle, schlendern Sie zum Hauptplatz und erkunden Sie die Gärten an der Mauer. Das Dorf ist klein genug, um alle wichtigen Sehenswürdigkeiten zwischen den Ankunfts- und Abfahrtszeiten der Busse zu Fuß zu besuchen.",
         "hu": "Mijas Pueblo kiválóan elérhető buszokkal Fuengirolából. Kezdjen közvetlenül érkezéskor a sziklatemplomnál, sétáljon el a főtérre, és fedezze fel a várfal menti kerteket. A falu elég kicsi ahhoz, hogy a buszok érkezési és indulási ideje között minden fontos látnivalót gyalogosan felkeressen.",
         "ro": "Mijas Pueblo este excelent accesibil cu autobuzul din Fuengirola. Începeți chiar la sosire cu capela în stâncă, plimbați-vă spre piața principală și explorați grădinile de pe ziduri. Satul este destul de mic pentru a vizita pe jos toate obiectivele importante între orele de sosire și plecare ale autobuzelor.",
-        "en": "Mijas Pueblo is excellently accessible by bus from Fuengirola. Start directly upon arrival at the rock chapel, stroll to the main square, and explore the gardens by the wall. The village is small enough to visit all major sights on foot between the bus arrival and departure times."
+        "en": "Mijas Pueblo is excellently accessible by bus from Fuengirola. Start directly upon arrival at the rock chapel, stroll to the main square, and explore the gardens by the wall. The village is small enough to visit all major sights on foot between the bus arrival and departure times.",
+        "es": "Mijas Pueblo es fácilmente accesible en autobús desde Fuengirola. Empiece nada más llegar en la ermita troglodita, pasee hasta la plaza principal y explore los jardines junto a la muralla. El pueblo es lo bastante pequeño para visitar a pie todos los puntos principales entre las llegadas y salidas de los autobuses."
       },
       "gastro_picks": {
         "de": [
@@ -2154,6 +2351,11 @@
           "Bus 122 runs regularly from Fuengirola.",
           "Keep an eye on the schedule for the return trip.",
           "The bus stop also offers shade."
+        ],
+        "es": [
+          "La línea 122 opera regularmente desde Fuengirola.",
+          "Esté atento al horario para el viaje de regreso.",
+          "La parada de autobús también ofrece sombra."
         ]
       },
       "variants": {
@@ -2162,7 +2364,8 @@
             "de": "Mijas Pueblo ist exzellent mit Bussen von Fuengirola aus erreichbar. Starten Sie direkt bei der Ankunft an der Felsenkapelle, schlendern Sie zum Hauptplatz und erkunden Sie die Gärten an der Mauer. Das Dorf ist klein genug, um alle wichtigen Sehenswürdigkeiten zwischen den Ankunfts- und Abfahrtszeiten der Busse zu Fuß zu besuchen.",
             "hu": "Mijas Pueblo kiválóan elérhető buszokkal Fuengirolából. Kezdjen közvetlenül érkezéskor a sziklatemplomnál, sétáljon el a főtérre, és fedezze fel a várfal menti kerteket. A falu elég kicsi ahhoz, hogy a buszok érkezési és indulási ideje között minden fontos látnivalót gyalogosan felkeressen.",
             "ro": "Mijas Pueblo este excelent accesibil cu autobuzul din Fuengirola. Începeți chiar la sosire cu capela în stâncă, plimbați-vă spre piața principală și explorați grădinile de pe ziduri. Satul este destul de mic pentru a vizita pe jos toate obiectivele importante între orele de sosire și plecare ale autobuzelor.",
-            "en": "Mijas Pueblo is excellently accessible by bus from Fuengirola. Start directly upon arrival at the rock chapel, stroll to the main square, and explore the gardens by the wall. The village is small enough to visit all major sights on foot between the bus arrival and departure times."
+            "en": "Mijas Pueblo is excellently accessible by bus from Fuengirola. Start directly upon arrival at the rock chapel, stroll to the main square, and explore the gardens by the wall. The village is small enough to visit all major sights on foot between the bus arrival and departure times.",
+            "es": "Mijas Pueblo es fácilmente accesible en autobús desde Fuengirola. Empiece nada más llegar en la ermita troglodita, pasee hasta la plaza principal y explore los jardines junto a la muralla. El pueblo es lo bastante pequeño para visitar a pie todos los puntos principales entre las llegadas y salidas de los autobuses."
           },
           "stops": [
             {
@@ -2170,13 +2373,15 @@
                 "de": "Ermita de la Virgen de la Peña",
                 "hu": "Sziklatemplom",
                 "ro": "Ermita de la Virgen de la Peña",
-                "en": "Virgen de la Peña Hermitage"
+                "en": "Virgen de la Peña Hermitage",
+                "es": "Ermita de la Virgen de la Peña"
               },
               "tip_5lang": {
                 "de": "Gleich neben der Bushaltestelle.",
                 "hu": "Közvetlenül a buszmegálló mellett.",
                 "ro": "Chiar lângă stația de autobuz.",
-                "en": "Right next to the bus stop."
+                "en": "Right next to the bus stop.",
+                "es": "Justo al lado de la parada de autobús."
               }
             },
             {
@@ -2184,13 +2389,15 @@
                 "de": "Plaza de la Constitución",
                 "hu": "Alkotmány tér",
                 "ro": "Plaza de la Constitución",
-                "en": "Constitution Square"
+                "en": "Constitution Square",
+                "es": "Plaza de la Constitución"
               },
               "tip_5lang": {
                 "de": "Herz des Dorfes.",
                 "hu": "A falu szíve.",
                 "ro": "Inima satului.",
-                "en": "Heart of the village."
+                "en": "Heart of the village.",
+                "es": "Corazón del pueblo."
               }
             },
             {
@@ -2198,13 +2405,15 @@
                 "de": "Plaza de Toros",
                 "hu": "Bikaviadal-aréna",
                 "ro": "Plaza de Toros",
-                "en": "Bullring"
+                "en": "Bullring",
+                "es": "Plaza de toros"
               },
               "tip_5lang": {
                 "de": "Einzigartige Architektur.",
                 "hu": "Egyedülálló építészet.",
                 "ro": "Arhitectură unică.",
-                "en": "Unique architecture."
+                "en": "Unique architecture.",
+                "es": "Arquitectura única."
               }
             },
             {
@@ -2212,13 +2421,15 @@
                 "de": "Muralla y Jardines",
                 "hu": "Várfal és kertek",
                 "ro": "Muralla y Jardines",
-                "en": "Wall and Gardens"
+                "en": "Wall and Gardens",
+                "es": "Muralla y Jardines"
               },
               "tip_5lang": {
                 "de": "Wunderschön angelegte Beete.",
                 "hu": "Gyönyörűen kialakított ágyások.",
                 "ro": "Straturi de flori frumos amenajate.",
-                "en": "Beautifully landscaped flower beds."
+                "en": "Beautifully landscaped flower beds.",
+                "es": "Parterres bellamente ajardinados."
               }
             },
             {
@@ -2226,13 +2437,15 @@
                 "de": "Museo de Miniaturas",
                 "hu": "Miniatűrök Múzeuma",
                 "ro": "Museo de Miniaturas",
-                "en": "Miniature Museum"
+                "en": "Miniature Museum",
+                "es": "Museo en Miniatura"
               },
               "tip_5lang": {
                 "de": "Besuch am späten Nachmittag ist ruhiger.",
                 "hu": "Késő délutáni látogatás csendesebb.",
                 "ro": "Vizita de după-amiază târziu este mai liniștită.",
-                "en": "Late afternoon visit is quieter."
+                "en": "Late afternoon visit is quieter.",
+                "es": "La visita al final de la tarde es más tranquila."
               }
             }
           ],
@@ -2338,6 +2551,11 @@
               "Bus 122 runs regularly from Fuengirola.",
               "Keep an eye on the schedule for the return trip.",
               "The bus stop also offers shade."
+            ],
+            "es": [
+              "La línea 122 opera regularmente desde Fuengirola.",
+              "Esté atento al horario para el viaje de regreso.",
+              "La parada de autobús también ofrece sombra."
             ]
           }
         },
@@ -2346,7 +2564,8 @@
             "de": "Morgens bringt Sie der Bus direkt zum überdachten Terminal in Mijas. Mittags bieten die Museen und der Constitution Square Schutz vor dem Wetter. Nachmittags ist die Besichtigung der Gärten kurz, bevor Sie sich wieder in trockene Innenräume flüchten. Der Abend endet mit einer komfortablen Busfahrt zurück an die Küste.",
             "hu": "Reggel a busz közvetlenül a mijasi fedett terminálhoz szállítja. Délben a múzeumok és az Alkotmány tér nyújtanak védelmet az időjárás elől. Délután a kertek megtekintése rövid, mielőtt újra fedett helyre vonulna. Az este kényelmes buszozással zárul vissza a part felé.",
             "ro": "Dimineața, autobuzul vă lasă direct la terminalul acoperit. La prânz, muzeele și Piața Constituției oferă protecție. După-amiaza, vizita în grădini este scurtă înainte de a reveni la interior. Seara se încheie cu un drum confortabil cu autobuzul înapoi.",
-            "en": "In the morning, the bus takes you directly to the covered terminal in Mijas. At noon, museums and Constitution Square provide shelter from the weather. In the afternoon, the garden visit is short before retreating indoors again. The evening ends with a comfortable bus ride back to the coast."
+            "en": "In the morning, the bus takes you directly to the covered terminal in Mijas. At noon, museums and Constitution Square provide shelter from the weather. In the afternoon, the garden visit is short before retreating indoors again. The evening ends with a comfortable bus ride back to the coast.",
+            "es": "Por la mañana, el autobús le deja directamente en la terminal cubierta de Mijas. Al mediodía, los museos y la Plaza de la Constitución ofrecen refugio del tiempo. Por la tarde, la visita a los jardines es breve antes de volver a resguardarse. La jornada termina con un cómodo viaje en autobús de regreso a la costa."
           },
           "stops": [
             {
@@ -2355,7 +2574,8 @@
                 "de": "Die Bushaltestelle liegt direkt unterhalb der Kapelle.",
                 "hu": "A buszmegálló közvetlenül a kápolna alatt található.",
                 "ro": "Stația de autobuz este direct sub capelă.",
-                "en": "The bus stop is located directly below the chapel."
+                "en": "The bus stop is located directly below the chapel.",
+                "es": "La parada está situada justo debajo de la ermita."
               }
             },
             {
@@ -2364,7 +2584,8 @@
                 "de": "Warten Sie den Regen in einem der Cafés an der Haltestelle ab.",
                 "hu": "Várja meg az eső végét a megálló melletti kávézókban.",
                 "ro": "Așteptați oprirea ploii la cafenelele de lângă stație.",
-                "en": "Wait out the rain in one of the cafes near the stop."
+                "en": "Wait out the rain in one of the cafes near the stop.",
+                "es": "Espere la lluvia en uno de los cafés cerca de la parada."
               }
             },
             {
@@ -2373,7 +2594,8 @@
                 "de": "Kurzer, teils überdachter Weg von der Plaza.",
                 "hu": "Rövid, részben fedett út a tér felől.",
                 "ro": "Traseu scurt, parțial acoperit, dinspre piață.",
-                "en": "Short, partially covered walk from the square."
+                "en": "Short, partially covered walk from the square.",
+                "es": "Caminata corta y parcialmente cubierta desde la plaza."
               }
             },
             {
@@ -2382,7 +2604,8 @@
                 "de": "Bei starkem Regen ist der Aufenthalt hier ungemütlich.",
                 "hu": "Erős esőben az itt tartózkodás nem ajánlott.",
                 "ro": "Pe ploaie torențială, șederea aici este inconfortabilă.",
-                "en": "In heavy rain, staying here is uncomfortable."
+                "en": "In heavy rain, staying here is uncomfortable.",
+                "es": "Con lluvia intensa, quedarse aquí resulta incómodo."
               }
             },
             {
@@ -2391,7 +2614,8 @@
                 "de": "Die Bushaltestelle für die Rückfahrt ist fast vor der Tür.",
                 "hu": "A visszairányú buszmegálló szinte az ajtó előtt van.",
                 "ro": "Stația de autobuz pentru retur este aproape în față.",
-                "en": "The bus stop for the return journey is almost at the door."
+                "en": "The bus stop for the return journey is almost at the door.",
+                "es": "La parada de regreso está casi en la puerta."
               }
             }
           ],
@@ -2419,6 +2643,12 @@
               "The bus platforms in Mijas are covered and dry.",
               "The M-122 bus is the most reliable connection during rain.",
               "Keep small change or your travel card ready."
+            ],
+            "es": [
+              "Use la app 'Consorcio Málaga' para el seguimiento en tiempo real del autobús.",
+              "Las dársenas de autobús en Mijas están cubiertas y secas.",
+              "El autobús M-122 es la conexión más fiable durante la lluvia.",
+              "Tenga a mano cambio pequeño o su tarjeta de transporte."
             ]
           }
         },
@@ -2427,7 +2657,8 @@
             "de": "Morgens ist die Busfahrt in den sonnigen Bergen entspannt. Mittags lädt der Constitution Square zu einem Kaffee in der Wintersonne ein. Nachmittags erkunden Sie die Gärten bei klarer Sicht. Da die Busse im Winter seltener fahren könnten, bietet der Abend in Mijas eine ruhige Atmosphäre vor der Heimreise.",
             "hu": "Reggel a buszozás a napsütötte hegyekben pihentető élmény. Délben az Alkotmány tér egy kávéra hív a téli napsütésben. Délután tiszta kilátás mellett fedezheti fel a kerteket. Mivel télen ritkábban járhatnak a buszok, a mijasi este nyugodt lezárása a napnak.",
             "ro": "Dimineața, drumul cu autobuzul prin munții însoriți este relaxant. La prânz, Piața Constituției invită la o cafea la soare. După-amiaza, explorați grădinile cu vizibilitate clară. Deoarece autobuzele pot fi mai rare iarna, seara în Mijas este liniștită.",
-            "en": "In the morning, the bus ride through the sunny mountains is relaxing. At noon, Constitution Square invites you for a coffee in the winter sun. In the afternoon, explore the gardens with clear views. Since buses may run less frequently in winter, the evening in Mijas offers a calm atmosphere."
+            "en": "In the morning, the bus ride through the sunny mountains is relaxing. At noon, Constitution Square invites you for a coffee in the winter sun. In the afternoon, explore the gardens with clear views. Since buses may run less frequently in winter, the evening in Mijas offers a calm atmosphere.",
+            "es": "Por la mañana, el viaje en autobús por las montañas soleadas es relajante. Al mediodía, la Plaza de la Constitución invita a un café al sol invernal. Por la tarde, explore los jardines con vistas despejadas. Como los autobuses pueden pasar con menos frecuencia en invierno, la tarde en Mijas ofrece una atmósfera tranquila."
           },
           "stops": [
             {
@@ -2436,7 +2667,8 @@
                 "de": "Morgensonne an der Haltestelle wärmt beim Warten.",
                 "hu": "A reggeli nap a megállóban felmelegít várakozás közben.",
                 "ro": "Soarele de dimineață în stație vă încălzește.",
-                "en": "The morning sun at the stop warms you while waiting."
+                "en": "The morning sun at the stop warms you while waiting.",
+                "es": "El sol matutino en la parada le calienta mientras espera."
               }
             },
             {
@@ -2445,7 +2677,8 @@
                 "de": "Zentraler Knotenpunkt, fast alle Wege führen hierher.",
                 "hu": "Központi csomópont, szinte minden út ide vezet.",
                 "ro": "Nod central, aproape toate drumurile duc aici.",
-                "en": "Central hub, almost all paths lead back here."
+                "en": "Central hub, almost all paths lead back here.",
+                "es": "Nudo central; casi todos los caminos vuelven aquí."
               }
             },
             {
@@ -2454,7 +2687,8 @@
                 "de": "Hinter dem Bullring ist es im Winter oft windig.",
                 "hu": "A bikaviadal-aréna mögött télen gyakran fúj a szél.",
                 "ro": "În spatele arenei de tauri este adesea vânt iarna.",
-                "en": "It is often windy behind the bullring in winter."
+                "en": "It is often windy behind the bullring in winter.",
+                "es": "A menudo hace viento detrás de la plaza de toros en invierno."
               }
             },
             {
@@ -2463,7 +2697,8 @@
                 "de": "Die Aussicht auf die Küste ist im Winter oft schneefrei.",
                 "hu": "A tengerparti kilátás télen is zavartalan és tiszta.",
                 "ro": "Vederea spre coastă este clară și fără zăpadă iarna.",
-                "en": "The coastal view is often clear and snow-free in winter."
+                "en": "The coastal view is often clear and snow-free in winter.",
+                "es": "La vista costera suele estar despejada y sin nieve en invierno."
               }
             },
             {
@@ -2472,7 +2707,8 @@
                 "de": "Prüfen Sie den Winterfahrplan direkt an der Haltestelle.",
                 "hu": "Ellenőrizze a téli menetrendet közvetlenül a megállóban.",
                 "ro": "Verificați mersul autobuzelor de iarnă direct în stație.",
-                "en": "Check the winter bus schedule directly at the stop."
+                "en": "Check the winter bus schedule directly at the stop.",
+                "es": "Consulte el horario de autobuses de invierno directamente en la parada."
               }
             }
           ],
@@ -2500,6 +2736,12 @@
               "The heating in modern buses is usually very effective.",
               "It can get breezy at the bus stop in the evening.",
               "Fewer crowds mean guaranteed seats on the bus."
+            ],
+            "es": [
+              "Los autobuses circulan con el horario de 'Invierno'.",
+              "La calefacción en los autobuses modernos suele ser muy eficaz.",
+              "Puede hacer aire en la parada de autobús por la noche.",
+              "Menos gente significa asientos garantizados en el autobús."
             ]
           }
         }
@@ -2516,19 +2758,22 @@
       "de": "Mijas Pueblo ist sehr international, Englisch ist die Lingua franca, Deutsch hoeren Sie an jeder Ecke. In den Bergrestaurants probieren Sie 'plato de los montes' und sagen Sie 'muy rico' fuer ein zufriedenes Laecheln des Wirts.",
       "hu": "Mijas Pueblo nagyon nemzetközi, az angol a közös nyelv, németet is hallasz minden saroknál. A hegyi éttermekben próbáld ki a 'plato de los montes' fogást, és egy 'muy rico' szóra azonnal mosolyog a tulaj.",
       "ro": "Mijas Pueblo e foarte international, engleza e lingua franca, germana auzi peste tot. In restaurantele de munte cere 'plato de los montes' si spune 'muy rico', vei vedea zambetul patronului.",
-      "en": "Mijas Pueblo is highly international, English is the lingua franca and German is everywhere. In mountain restaurants try the 'plato de los montes' and say 'muy rico' for an instant warm grin from the owner."
+      "en": "Mijas Pueblo is highly international, English is the lingua franca and German is everywhere. In mountain restaurants try the 'plato de los montes' and say 'muy rico' for an instant warm grin from the owner.",
+      "es": "Mijas Pueblo es muy internacional; el inglés es la lingua franca y el alemán está por todas partes. En los restaurantes de montaña prueba el 'plato de los montes' y di 'muy rico' para obtener una sonrisa cálida al instante del propietario."
     },
     "best_time_to_visit": {
       "de": "Mijas liegt 428 m hoch und bleibt im Sommer kuehler als die Kueste, daher angenehm von Mai bis Oktober. Im August abends frische Bergluft, im Winter mild und ideal zum Wandern, die beruehmten Eselstaxis fahren das ganze Jahr.",
       "hu": "Mijas 428 m magasan fekszik, nyáron hűvösebb mint a tengerpart, ezért májustól októberig kellemes. Augusztusban este friss hegyi levegő, télen enyhe és túrázásra ideális, a híres szamártaxik egész évben járnak.",
       "ro": "Mijas e la 428 m altitudine, vara mai racoros ca pe coasta, deci placut din mai pana in octombrie. In august seara aer proaspat de munte, iarna e bland si bun de drumetie, taxiurile cu magari celebre merg tot anul.",
-      "en": "Mijas sits at 428 m and stays cooler than the coast, so it's pleasant from May to October. August evenings bring fresh mountain air, winter is mild and perfect for hiking, the famous donkey taxis run all year."
+      "en": "Mijas sits at 428 m and stays cooler than the coast, so it's pleasant from May to October. August evenings bring fresh mountain air, winter is mild and perfect for hiking, the famous donkey taxis run all year.",
+      "es": "Mijas está a 428 m y se mantiene más fresca que la costa, por lo que es agradable de mayo a octubre. Las noches de agosto traen aire fresco de montaña, el invierno es suave y perfecto para hacer senderismo; los taxis de burro famosos funcionan todo el año."
     },
     "neighborhood_warnings": {
       "de": "Mijas Pueblo ist sehr sicher und uebersichtlich, das groesste Risiko sind die steilen Treppengassen, festes Schuhwerk hilft. Im Sommer fahren Sie nicht selbst hinauf, der Aufstieg ist eng, parken Sie an der Plaza Virgen de la Peña.",
       "hu": "Mijas Pueblo nagyon biztonságos és átlátható, a legnagyobb veszélyt a meredek lépcsős sikátorok jelentik, masszív cipő ajánlott. Nyáron ne autózz fel, a feljáró szűk, parkolj a Plaza Virgen de la Peñánál.",
       "ro": "Mijas Pueblo e foarte sigur si usor de explorat, cel mai mare risc sunt ulitele cu trepte abrupte, e nevoie de incaltaminte buna. Vara nu urca cu masina, drumul e ingust, parcheaza in Plaza Virgen de la Peña.",
-      "en": "Mijas Pueblo is very safe and easy to navigate, the main risk is the steep stepped lanes, wear sturdy shoes. Don't drive up in summer, the access road is narrow, park at Plaza Virgen de la Peña and walk."
+      "en": "Mijas Pueblo is very safe and easy to navigate, the main risk is the steep stepped lanes, wear sturdy shoes. Don't drive up in summer, the access road is narrow, park at Plaza Virgen de la Peña and walk.",
+      "es": "Mijas Pueblo es muy seguro y fácil de recorrer; el principal riesgo son las empinadas calles con escalones, usa calzado resistente. No subas en coche en verano, la carretera de acceso es estrecha; aparca en la Plaza Virgen de la Peña y sube andando."
     }
   }
 }

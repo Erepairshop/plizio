@@ -31,7 +31,8 @@
             "de": "Einer der schönsten Plätze Galiciens, komplett aus Granit.",
             "hu": "Galícia egyik legszebb tere, teljesen gránitból épült.",
             "ro": "Una dintre cele mai frumoase piețe din Galicia, construită din granit.",
-            "en": "One of the most beautiful squares in Galicia, built entirely of granite."
+            "en": "One of the most beautiful squares in Galicia, built entirely of granite.",
+            "es": "Una de las plazas más bellas de Galicia, construida totalmente en granito."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Besuchen Sie das Weingut im Inneren des Palastes.",
             "hu": "Látogasson el a palota belsejében működő borászatba.",
             "ro": "Vizitați crama din interiorul palatului.",
-            "en": "Visit the winery located inside the palace walls."
+            "en": "Visit the winery located inside the palace walls.",
+            "es": "Visita la bodega ubicada dentro de los muros del pazo."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Achten Sie auf die Skulpturen der liegenden Ritter.",
             "hu": "Figyelje meg a fekvő lovagok szobrait a templomban.",
             "ro": "Observați sculpturile cavalerilor culcați din interior.",
-            "en": "Note the sculptures of the reclining knights inside."
+            "en": "Note the sculptures of the reclining knights inside.",
+            "es": "Fíjate en las esculturas de los caballeros reclinados en su interior."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Ein melancholischer und schöner Friedhof in Ruinen.",
             "hu": "Melankolikus és gyönyörű temető egy romos templomban.",
             "ro": "Un cimitir melancolic și frumos printre ruinele bisericii.",
-            "en": "A melancholic and beautiful cemetery set within church ruins."
+            "en": "A melancholic and beautiful cemetery set within church ruins.",
+            "es": "Un cementerio melancólico y hermoso ubicado en ruinas de una iglesia."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Lernen Sie alles über den berühmten Albariño-Wein.",
             "hu": "Tudjon meg mindent a híres Albariño borról.",
             "ro": "Aflați totul despre celebrul vin Albariño.",
-            "en": "Learn everything about the famous local Albariño wine."
+            "en": "Learn everything about the famous local Albariño wine.",
+            "es": "Aprende todo sobre el famoso vino albariño local."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Spaziergang entlang der Küste mit Blick auf die Flöße.",
             "hu": "Séta a tengerparton, kilátással a kagylótenyésztő bójákra.",
             "ro": "Plimbare pe faleză cu vedere la platformele de scoici.",
-            "en": "Walk along the coast with views of the mussel rafts."
+            "en": "Walk along the coast with views of the mussel rafts.",
+            "es": "Pasea por la costa con vistas a las bateas de mejillón."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Die Ruinen einer Festung, die einst vor Wikingern schützte.",
             "hu": "Egy erőd romjai, amely egykor a vikingek ellen védett.",
             "ro": "Ruinele unei fortărețe care odinioară proteja împotriva vikingilor.",
-            "en": "Ruins of a fortress that once protected against Viking raids."
+            "en": "Ruins of a fortress that once protected against Viking raids.",
+            "es": "Ruinas de una fortaleza que protegía contra incursiones vikingas."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Cambados ist die Welthauptstadt des Albariño-Weins. Unser Rundgang beginnt am beeindruckenden Granitplatz Fefiñáns. Wir erkunden prachtvolle Pazzos und die mystischen Ruinen von Santa Mariña Dozo. Am Nachmittag tauchen wir im Weinmuseum in die lokale Kultur ein und beenden den Tag bei den Ruinen des San Sadurniño Turms am Meer.",
         "hu": "Cambados az Albariño bor világfővárosa és az elegáns gránitépítészet remeke. A túrát a lenyűgöző Fefiñáns téren kezdjük, majd a misztikus Santa Mariña Dozo romokat keressük fel. Délután a borkultúrával ismerkedünk, végül az óceánparti San Sadurniño torony romjainál zárjuk a napot.",
         "ro": "Cambados este capitala mondială a vinului Albariño. Turul nostru începe în impresionanta piață de granit Fefiñáns. Explorăm palatele impunătoare și ruinele mistice ale Santa Mariña Dozo. După-amiaza descoperim cultura vinului la muzeu și încheiem ziua la ruinele turnului San Sadurniño de pe malul mării.",
-        "en": "Cambados is the world capital of Albariño wine and a masterpiece of granite architecture. Our walk starts at the stunning Fefiñáns square. We explore grand palaces and the mystical ruins of Santa Mariña Dozo. In the afternoon, dive into the wine culture at the museum and end the day by the seaside ruins of San Sadurniño Tower."
+        "en": "Cambados is the world capital of Albariño wine and a masterpiece of granite architecture. Our walk starts at the stunning Fefiñáns square. We explore grand palaces and the mystical ruins of Santa Mariña Dozo. In the afternoon, dive into the wine culture at the museum and end the day by the seaside ruins of San Sadurniño Tower.",
+        "es": "Cambados es la capital mundial del vino albariño y una obra maestra de la arquitectura en granito. Nuestro paseo comienza en la impresionante Plaza de Fefiñáns. Recorremos grandes pazos y las místicas ruinas de Santa Mariña Dozo. Por la tarde, sumérgete en la cultura del vino en el museo y termina el día junto a las ruinas marinas de la Torre de San Sadurniño."
       },
       "gastro_picks": {
         "de": [
@@ -287,6 +295,11 @@
           "Visit during the Albariño Festival in early August for a great atmosphere.",
           "Granite pavements can be very slippery when wet.",
           "Try the fresh seafood in the San Tomé fishing district."
+        ],
+        "es": [
+          "Visita durante la Fiesta del Albariño a principios de agosto para disfrutar de un gran ambiente.",
+          "Los pavimentos de granito pueden ser muy resbaladizos cuando están mojados.",
+          "Prueba el marisco fresco en el barrio pesquero de San Tomé."
         ]
       },
       "variants": {
@@ -295,7 +308,8 @@
             "de": "Cambados ist die Welthauptstadt des Albariño-Weins. Unser Rundgang beginnt am beeindruckenden Granitplatz Fefiñáns. Wir erkunden prachtvolle Pazzos und die mystischen Ruinen von Santa Mariña Dozo. Am Nachmittag tauchen wir im Weinmuseum in die lokale Kultur ein und beenden den Tag bei den Ruinen des San Sadurniño Turms am Meer.",
             "hu": "Cambados az Albariño bor világfővárosa és az elegáns gránitépítészet remeke. A túrát a lenyűgöző Fefiñáns téren kezdjük, majd a misztikus Santa Mariña Dozo romokat keressük fel. Délután a borkultúrával ismerkedünk, végül az óceánparti San Sadurniño torony romjainál zárjuk a napot.",
             "ro": "Cambados este capitala mondială a vinului Albariño. Turul nostru începe în impresionanta piață de granit Fefiñáns. Explorăm palatele impunătoare și ruinele mistice ale Santa Mariña Dozo. După-amiaza descoperim cultura vinului la muzeu și încheiem ziua la ruinele turnului San Sadurniño de pe malul mării.",
-            "en": "Cambados is the world capital of Albariño wine and a masterpiece of granite architecture. Our walk starts at the stunning Fefiñáns square. We explore grand palaces and the mystical ruins of Santa Mariña Dozo. In the afternoon, dive into the wine culture at the museum and end the day by the seaside ruins of San Sadurniño Tower."
+            "en": "Cambados is the world capital of Albariño wine and a masterpiece of granite architecture. Our walk starts at the stunning Fefiñáns square. We explore grand palaces and the mystical ruins of Santa Mariña Dozo. In the afternoon, dive into the wine culture at the museum and end the day by the seaside ruins of San Sadurniño Tower.",
+            "es": "Cambados es la capital mundial del vino albariño y una obra maestra de la arquitectura en granito. Nuestro paseo comienza en la impresionante Plaza de Fefiñáns. Recorremos grandes pazos y las místicas ruinas de Santa Mariña Dozo. Por la tarde, sumérgete en la cultura del vino en el museo y termina el día junto a las ruinas marinas de la Torre de San Sadurniño."
           },
           "stops": [
             {
@@ -304,7 +318,8 @@
                 "de": "Einer der schönsten Plätze Galiciens, komplett aus Granit.",
                 "hu": "Galícia egyik legszebb tere, teljesen gránitból épült.",
                 "ro": "Una dintre cele mai frumoase piețe din Galicia, construită din granit.",
-                "en": "One of the most beautiful squares in Galicia, built entirely of granite."
+                "en": "One of the most beautiful squares in Galicia, built entirely of granite.",
+                "es": "Una de las plazas más bellas de Galicia, construida totalmente en granito."
               }
             },
             {
@@ -313,7 +328,8 @@
                 "de": "Besuchen Sie das Weingut im Inneren des Palastes.",
                 "hu": "Látogasson el a palota belsejében működő borászatba.",
                 "ro": "Vizitați crama din interiorul palatului.",
-                "en": "Visit the winery located inside the palace walls."
+                "en": "Visit the winery located inside the palace walls.",
+                "es": "Visita la bodega ubicada dentro de los muros del pazo."
               }
             },
             {
@@ -322,7 +338,8 @@
                 "de": "Achten Sie auf die Skulpturen der liegenden Ritter.",
                 "hu": "Figyelje meg a fekvő lovagok szobrait a templomban.",
                 "ro": "Observați sculpturile cavalerilor culcați din interior.",
-                "en": "Note the sculptures of the reclining knights inside."
+                "en": "Note the sculptures of the reclining knights inside.",
+                "es": "Fíjate en las esculturas de los caballeros reclinados en su interior."
               }
             },
             {
@@ -331,7 +348,8 @@
                 "de": "Ein melancholischer und schöner Friedhof in Ruinen.",
                 "hu": "Melankolikus és gyönyörű temető egy romos templomban.",
                 "ro": "Un cimitir melancolic și frumos printre ruinele bisericii.",
-                "en": "A melancholic and beautiful cemetery set within church ruins."
+                "en": "A melancholic and beautiful cemetery set within church ruins.",
+                "es": "Un cementerio melancólico y hermoso ubicado en ruinas de una iglesia."
               }
             },
             {
@@ -340,7 +358,8 @@
                 "de": "Lernen Sie alles über den berühmten Albariño-Wein.",
                 "hu": "Tudjon meg mindent a híres Albariño borról.",
                 "ro": "Aflați totul despre celebrul vin Albariño.",
-                "en": "Learn everything about the famous local Albariño wine."
+                "en": "Learn everything about the famous local Albariño wine.",
+                "es": "Aprende todo sobre el famoso vino albariño local."
               }
             },
             {
@@ -349,7 +368,8 @@
                 "de": "Spaziergang entlang der Küste mit Blick auf die Flöße.",
                 "hu": "Séta a tengerparton, kilátással a kagylótenyésztő bójákra.",
                 "ro": "Plimbare pe faleză cu vedere la platformele de scoici.",
-                "en": "Walk along the coast with views of the mussel rafts."
+                "en": "Walk along the coast with views of the mussel rafts.",
+                "es": "Pasea por la costa con vistas a las bateas de mejillón."
               }
             },
             {
@@ -358,7 +378,8 @@
                 "de": "Die Ruinen einer Festung, die einst vor Wikingern schützte.",
                 "hu": "Egy erőd romjai, amely egykor a vikingek ellen védett.",
                 "ro": "Ruinele unei fortărețe care odinioară proteja împotriva vikingilor.",
-                "en": "Ruins of a fortress that once protected against Viking raids."
+                "en": "Ruins of a fortress that once protected against Viking raids.",
+                "es": "Ruinas de una fortaleza que protegía contra incursiones vikingas."
               }
             }
           ],
@@ -500,6 +521,11 @@
               "Visit during the Albariño Festival in early August for a great atmosphere.",
               "Granite pavements can be very slippery when wet.",
               "Try the fresh seafood in the San Tomé fishing district."
+            ],
+            "es": [
+              "Visita durante la Fiesta del Albariño a principios de agosto para disfrutar de un gran ambiente.",
+              "Los pavimentos de granito pueden ser muy resbaladizos cuando están mojados.",
+              "Prueba el marisco fresco en el barrio pesquero de San Tomé."
             ]
           }
         },
@@ -508,7 +534,8 @@
             "de": "Der Morgen beginnt auf dem Plaza de Fefiñáns, wo der galizische Regen den Granit zum Glänzen bringt. Mittags bieten der Pazo und die Kirche San Benito Schutz vor den Schauern. Am Nachmittag ist das Weinmuseum der perfekte trockene Rückzugsort, um in die Kultur des Albariño einzutauchen. Der Tag endet an der Torre de San Sadurniño, die im Küstennebel besonders mystisch wirkt.",
             "hu": "A reggel a Plaza de Fefiñáns téren indul, ahol a galíciai esőben csillog a gránit. Délben a Pazo és a San Benito-templom nyújt menedéket a záporok elől. Délután a Bormúzeum tökéletes száraz helyszín az Albariño kultúra megismeréséhez. A nap a Torre de San Sadurniño toronynál zárul, amely a tengeri ködben különösen misztikus látványt nyújt.",
             "ro": "Dimineața începe în Plaza de Fefiñáns, unde ploaia galiciană face granitul să strălucească. La prânz, Pazo și Biserica San Benito oferă adăpost împotriva averselor. După-amiaza, Muzeul Vinului este refugiul uscat perfect pentru a descoperi cultura Albariño. Ziua se încheie la Torre de San Sadurniño, care arată deosebit de mistic în ceața de coastă.",
-            "en": "The morning starts at Plaza de Fefiñáns, where Galician rain makes the granite glisten. At noon, the Pazo and San Benito Church provide shelter from the showers. In the afternoon, the Wine Museum is the perfect dry retreat to dive into Albariño culture. The day ends at the Torre de San Sadurniño, which looks particularly mystical in the coastal mist."
+            "en": "The morning starts at Plaza de Fefiñáns, where Galician rain makes the granite glisten. At noon, the Pazo and San Benito Church provide shelter from the showers. In the afternoon, the Wine Museum is the perfect dry retreat to dive into Albariño culture. The day ends at the Torre de San Sadurniño, which looks particularly mystical in the coastal mist.",
+            "es": "La mañana comienza en la Plaza de Fefiñáns, donde la lluvia gallega hace brillar el granito. Al mediodía, el Pazo y la iglesia de San Benito ofrecen resguardo de los chubascos. Por la tarde, el Museo del Vino es el refugio perfecto para empaparte de la cultura del albariño. El día termina en la Torre de San Sadurniño, que luce especialmente mística en la niebla costera."
           },
           "stops": [
             {
@@ -517,7 +544,8 @@
                 "de": "Vorsicht, der nasse Granitboden kann sehr rutschig sein.",
                 "hu": "Vigyázat, a vizes gránitpadló nagyon csúszós lehet.",
                 "ro": "Atenție, podeaua de granit umedă poate fi foarte alunecoasă.",
-                "en": "Careful, the wet granite floor can be very slippery."
+                "en": "Careful, the wet granite floor can be very slippery.",
+                "es": "Cuidado, el suelo de granito mojado puede ser muy resbaladizo."
               }
             },
             {
@@ -526,7 +554,8 @@
                 "de": "Nutzen Sie die Innenführung, um dem Regen für eine Weile zu entkommen.",
                 "hu": "Vegyen részt a belső vezetésen, hogy egy időre elmeneküljön az eső elől.",
                 "ro": "Folosiți turul interior pentru a scăpa de ploaie pentru o vreme.",
-                "en": "Take the indoor tour to escape the rain for a while."
+                "en": "Take the indoor tour to escape the rain for a while.",
+                "es": "Haz la visita interior para escapar de la lluvia un rato."
               }
             },
             {
@@ -535,7 +564,8 @@
                 "de": "Ein ruhiger Ort, um abzuwarten, bis der stärkste Guss vorbei ist.",
                 "hu": "Csendes hely, ahol megvárhatja, amíg a legerősebb zápor elvonul.",
                 "ro": "Un loc liniștit pentru a aștepta până trece cea mai puternică ploaie.",
-                "en": "A quiet place to wait until the heaviest downpour passes."
+                "en": "A quiet place to wait until the heaviest downpour passes.",
+                "es": "Un lugar tranquilo para esperar hasta que pase el chaparrón más fuerte."
               }
             },
             {
@@ -544,7 +574,8 @@
                 "de": "Die dachlosen Ruinen bieten wenig Schutz; halten Sie den Schirm bereit.",
                 "hu": "A tető nélküli romok kevés védelmet nyújtanak; tartsa készenlétben az esernyőt.",
                 "ro": "Ruinele fără acoperiș oferă puțin adăpost; țineți umbrela pregătită.",
-                "en": "The roofless ruins offer little shelter; keep your umbrella ready."
+                "en": "The roofless ruins offer little shelter; keep your umbrella ready.",
+                "es": "Las ruinas sin techo ofrecen poco abrigo; ten el paraguas a mano."
               }
             },
             {
@@ -553,7 +584,8 @@
                 "de": "Die beste Indoor-Aktivität für regnerische Nachmittage.",
                 "hu": "A legjobb fedett program esős délutánokra.",
                 "ro": "Cea mai bună activitate de interior pentru după-amiezi ploioase.",
-                "en": "The best indoor activity for rainy afternoons."
+                "en": "The best indoor activity for rainy afternoons.",
+                "es": "La mejor actividad de interior para las tardes lluviosas."
               }
             },
             {
@@ -562,7 +594,8 @@
                 "de": "Windfeste Regenbekleidung ist hier an der Küste unerlässlich.",
                 "hu": "A szélálló esőruházat elengedhetetlen itt a parton.",
                 "ro": "Îmbrăcămintea de ploaie rezistentă la vânt este esențială aici pe coastă.",
-                "en": "Windproof rain gear is essential here on the coast."
+                "en": "Windproof rain gear is essential here on the coast.",
+                "es": "Es imprescindible ropa de lluvia a prueba de viento en esta costa."
               }
             },
             {
@@ -571,7 +604,8 @@
                 "de": "Der Weg zur Insel kann bei Flut und Regen stürmisch sein.",
                 "hu": "A szigetre vezető út dagálykor és esőben viharos lehet.",
                 "ro": "Drumul spre insulă poate fi furtunos în timpul fluxului și al ploii.",
-                "en": "The path to the island can be stormy during high tide and rain."
+                "en": "The path to the island can be stormy during high tide and rain.",
+                "es": "El camino a la isla puede estar tempestuoso con marea alta y lluvia."
               }
             }
           ],
@@ -599,6 +633,12 @@
               "The granite stones in the old town are treacherous when wet.",
               "Many cafes around the square offer cozy covered seating.",
               "Wear waterproof hiking shoes for the coastal sections."
+            ],
+            "es": [
+              "Un paraguas resistente es mejor que uno barato debido a los vientos costeros.",
+              "Las losas de granito en el casco antiguo son traicioneras cuando están mojadas.",
+              "Muchos cafés alrededor de la plaza ofrecen asientos cubiertos y acogedores.",
+              "Lleva calzado de senderismo impermeable para los tramos costeros."
             ]
           }
         },
@@ -607,7 +647,8 @@
             "de": "Ein frischer Wintermorgen in Cambados beginnt mit klarer Luft am Fefiñáns-Platz. Mittags wärmen wir uns in den historischen Mauern des Pazo und der Kirche auf. Wenn die Sonne am frühen Nachmittag tief steht, leuchten die Ruinen von Santa Mariña in goldenem Licht. Den Sonnenuntergang erleben wir bereits gegen 18:00 Uhr am Paseo Marítimo, bevor es zur Torre geht.",
             "hu": "A friss téli reggel Cambadosban tiszta levegővel indul a Fefiñáns téren. Délben a Pazo és a templom történelmi falai között melegszünk fel. Kora délután, mikor alacsonyan jár a nap, a Santa Mariña romok aranyló fényben úsznak. A naplementét már 18:00 körül átéljük a Paseo Marítimo mentén, mielőtt a toronyhoz érnénk.",
             "ro": "O dimineață proaspătă de iarnă în Cambados începe cu aer curat în Piața Fefiñáns. La prânz, ne încălzim între zidurile istorice ale Pazo și ale bisericii. Când soarele este jos după-amiaza devreme, ruinele Santa Mariña strălucesc în lumină aurie. Experimentăm apusul deja în jurul orei 18:00 pe Paseo Marítimo, înainte de a merge la turn.",
-            "en": "A crisp winter morning in Cambados starts with clear air at Fefiñáns Square. At noon, we warm up within the historic walls of the Pazo and the church. When the sun is low in the early afternoon, the ruins of Santa Mariña glow in golden light. We experience sunset as early as 6:00 PM along the Paseo Marítimo before heading to the tower."
+            "en": "A crisp winter morning in Cambados starts with clear air at Fefiñáns Square. At noon, we warm up within the historic walls of the Pazo and the church. When the sun is low in the early afternoon, the ruins of Santa Mariña glow in golden light. We experience sunset as early as 6:00 PM along the Paseo Marítimo before heading to the tower.",
+            "es": "Una fría mañana de invierno en Cambados comienza con aire limpio en la Plaza de Fefiñáns. Al mediodía, entramos en calor dentro de los muros históricos del Pazo y la iglesia. Cuando el sol baja a primera hora de la tarde, las ruinas de Santa Mariña brillan con una luz dorada. Podemos ver el atardecer ya a las 18:00 en el Paseo Marítimo antes de dirigirnos a la torre."
           },
           "stops": [
             {
@@ -616,7 +657,8 @@
                 "de": "Genießen Sie die Ruhe der Nebensaison ohne Touristenmassen.",
                 "hu": "Élvezze a főszezonon kívüli nyugalmat turistatömegek nélkül.",
                 "ro": "Bucurați-vă de liniștea din extrasezon fără mulțimi de turiști.",
-                "en": "Enjoy the off-season peace without the tourist crowds."
+                "en": "Enjoy the off-season peace without the tourist crowds.",
+                "es": "Disfruta de la paz de la temporada baja sin las multitudes de turistas."
               }
             },
             {
@@ -625,7 +667,8 @@
                 "de": "Warme Kleidung ist wichtig, da die Steingebäude kühl sein können.",
                 "hu": "A réteges öltözködés fontos, mert a kőépületek hűvösek lehetnek.",
                 "ro": "Îmbrăcămintea călduroasă este importantă, deoarece clădirile din piatră pot fi reci.",
-                "en": "Warm clothing is important, as the stone buildings can be cool."
+                "en": "Warm clothing is important, as the stone buildings can be cool.",
+                "es": "Ropa abrigada es importante, ya que los edificios de piedra pueden estar fríos."
               }
             },
             {
@@ -634,7 +677,8 @@
                 "de": "Bewundern Sie die winterliche Beleuchtung der Fassade am späten Nachmittag.",
                 "hu": "Csodálja meg a homlokzat téli megvilágítását késő délután.",
                 "ro": "Admirați iluminarea de iarnă a fațadei după-amiaza târziu.",
-                "en": "Admire the winter lighting of the facade in the late afternoon."
+                "en": "Admire the winter lighting of the facade in the late afternoon.",
+                "es": "Admira la iluminación invernal de la fachada al final de la tarde."
               }
             },
             {
@@ -643,7 +687,8 @@
                 "de": "Nutzen Sie das flache Winterlicht für dramatische Fotos der Bögen.",
                 "hu": "Használja ki a lapos téli fényt az ívek drámai fotózásához.",
                 "ro": "Folosiți lumina slabă de iarnă pentru fotografii dramatice ale arcadelor.",
-                "en": "Use the low winter light for dramatic photos of the arches."
+                "en": "Use the low winter light for dramatic photos of the arches.",
+                "es": "Aprovecha la luz baja del invierno para fotos dramáticas de los arcos."
               }
             },
             {
@@ -652,7 +697,8 @@
                 "de": "Probieren Sie einen kräftigen Albariño zum Aufwärmen.",
                 "hu": "Kóstoljon meg egy karakteres Albariñót a felmelegedéshez.",
                 "ro": "Gustați un Albariño robust pentru a vă încălzi.",
-                "en": "Taste a robust Albariño to warm up."
+                "en": "Taste a robust Albariño to warm up.",
+                "es": "Prueba un Albariño robusto para entrar en calor."
               }
             },
             {
@@ -661,7 +707,8 @@
                 "de": "Beobachten Sie den frühen Sonnenuntergang über der Ría de Arousa.",
                 "hu": "Nézze meg a korai naplementét a Ría de Arousa felett.",
                 "ro": "Priviți apusul timpuriu peste Ría de Arousa.",
-                "en": "Watch the early sunset over the Ría de Arousa."
+                "en": "Watch the early sunset over the Ría de Arousa.",
+                "es": "Observa la puesta de sol temprana sobre la Ría de Arousa."
               }
             },
             {
@@ -670,7 +717,8 @@
                 "de": "Die Meeresbrise ist im Winter sehr kalt; Mütze und Schal einpacken.",
                 "hu": "A tengeri szellő télen nagyon hideg; csomagoljon sapkát és sálat.",
                 "ro": "Briza mării este foarte rece iarna; împachetați o căciulă și un fular.",
-                "en": "The sea breeze is very cold in winter; pack a hat and scarf."
+                "en": "The sea breeze is very cold in winter; pack a hat and scarf.",
+                "es": "La brisa marina es muy fría en invierno; lleva gorro y bufanda."
               }
             }
           ],
@@ -698,6 +746,12 @@
               "Some small cafes have limited opening hours in winter.",
               "Galician winters are mild but damp – layering helps.",
               "The best photo times for the ruins are between 3:00 PM and 4:30 PM."
+            ],
+            "es": [
+              "El sol se pone tan pronto como a las 18:00 en diciembre.",
+              "Algunos cafés pequeños tienen horarios limitados en invierno.",
+              "Los inviernos gallegos son suaves pero húmedos: vestir por capas ayuda.",
+              "Los mejores momentos fotográficos para las ruinas son entre las 15:00 y las 16:30."
             ]
           }
         }
@@ -726,7 +780,8 @@
             "de": "Starten Sie Ihre Tour auf diesem majestätischen Platz.",
             "hu": "Indítsa túráját erről a fenséges térről.",
             "ro": "Începeți turul din această piață maiestuoasă.",
-            "en": "Start your tour from this majestic square."
+            "en": "Start your tour from this majestic square.",
+            "es": "Comienza tu ruta desde esta majestuosa plaza."
           }
         },
         {
@@ -744,7 +799,8 @@
             "de": "Stellen Sie Ihr Fahrrad am Eingang ab.",
             "hu": "Parkolja le a biciklit a bejáratnál.",
             "ro": "Parcați bicicleta la intrare.",
-            "en": "Park your bike at the entrance."
+            "en": "Park your bike at the entrance.",
+            "es": "Aparca tu bicicleta en la entrada."
           }
         },
         {
@@ -762,7 +818,8 @@
             "de": "Eine flache und angenehme Fahrt am Meer.",
             "hu": "Lapos és kellemes szakasz a tengerparton.",
             "ro": "O porțiune plată și plăcută de-a lungul mării.",
-            "en": "A flat and pleasant section along the seaside."
+            "en": "A flat and pleasant section along the seaside.",
+            "es": "Un tramo llano y agradable junto al mar."
           }
         },
         {
@@ -780,7 +837,8 @@
             "de": "Überqueren Sie die kleine Brücke zur Turmruine.",
             "hu": "Tekerjen át a kis hídon a toronyromhoz.",
             "ro": "Traversați micul pod către ruinele turnului.",
-            "en": "Cycle across the small bridge to the tower ruins."
+            "en": "Cycle across the small bridge to the tower ruins.",
+            "es": "Cruza en bicicleta el pequeño puente hacia las ruinas de la torre."
           }
         },
         {
@@ -798,7 +856,8 @@
             "de": "Ideal für ein Mittagessen mit frischem Fisch.",
             "hu": "Ideális hely egy friss halas ebédhez.",
             "ro": "Loc ideal pentru un prânz cu pește proaspăt.",
-            "en": "Ideal spot for a fresh fish lunch."
+            "en": "Ideal spot for a fresh fish lunch.",
+            "es": "Lugar ideal para un almuerzo de pescado fresco."
           }
         }
       ],
@@ -806,7 +865,8 @@
         "de": "Mit dem Fahrrad lässt sich Cambados wunderbar erkunden. Wir starten am Granitplatz, besuchen das Weinmuseum und radeln dann entspannt am Paseo Marítimo entlang. Die Tour führt uns zum San Tomé Viertel, wo wir die maritime Atmosphäre und die Ruinen von San Sadurniño genießen.",
         "hu": "Kerékpárral Cambados minden szeglete könnyen elérhető. A gránit térről indulva érintjük a bormúzeumot, majd a tengerparti sétányon tekerünk tovább. A túra a San Tomé negyedbe vezet, ahol élvezhetjük a tengeri hangulatot és a San Sadurniño romokat.",
         "ro": "Cu bicicleta, fiecare colț din Cambados este ușor accesibil. Pornind din piața de granit, trecem pe la muzeul vinului, apoi pedalăm pe faleză. Turul ne duce în cartierul San Tomé, unde ne bucurăm de atmosfera marină și de ruinele San Sadurniño.",
-        "en": "By bike, every corner of Cambados is easily reachable. Starting from the granite square, we visit the wine museum and then cycle along the seaside promenade. The route leads to the San Tomé district, where you can enjoy the maritime atmosphere and the San Sadurniño ruins."
+        "en": "By bike, every corner of Cambados is easily reachable. Starting from the granite square, we visit the wine museum and then cycle along the seaside promenade. The route leads to the San Tomé district, where you can enjoy the maritime atmosphere and the San Sadurniño ruins.",
+        "es": "En bicicleta, cada rincón de Cambados es fácilmente accesible. Partiendo de la plaza de granito visitamos el museo del vino y luego pedaleamos por el paseo marítimo. La ruta conduce al barrio de San Tomé, donde puedes disfrutar de la atmósfera marinera y las ruinas de San Sadurniño."
       },
       "gastro_picks": {
         "de": [
@@ -910,6 +970,11 @@
           "The coastal path is flat and very easy to ride.",
           "Be mindful of pedestrians on the promenade.",
           "There are plenty of spots to lock your bike in San Tomé."
+        ],
+        "es": [
+          "El camino costero es llano y muy fácil de recorrer en bici.",
+          "Ten cuidado con los peatones en el paseo.",
+          "Hay muchos lugares para asegurar la bici en San Tomé."
         ]
       },
       "variants": {
@@ -918,7 +983,8 @@
             "de": "Mit dem Fahrrad lässt sich Cambados wunderbar erkunden. Wir starten am Granitplatz, besuchen das Weinmuseum und radeln dann entspannt am Paseo Marítimo entlang. Die Tour führt uns zum San Tomé Viertel, wo wir die maritime Atmosphäre und die Ruinen von San Sadurniño genießen.",
             "hu": "Kerékpárral Cambados minden szeglete könnyen elérhető. A gránit térről indulva érintjük a bormúzeumot, majd a tengerparti sétányon tekerünk tovább. A túra a San Tomé negyedbe vezet, ahol élvezhetjük a tengeri hangulatot és a San Sadurniño romokat.",
             "ro": "Cu bicicleta, fiecare colț din Cambados este ușor accesibil. Pornind din piața de granit, trecem pe la muzeul vinului, apoi pedalăm pe faleză. Turul ne duce în cartierul San Tomé, unde ne bucurăm de atmosfera marină și de ruinele San Sadurniño.",
-            "en": "By bike, every corner of Cambados is easily reachable. Starting from the granite square, we visit the wine museum and then cycle along the seaside promenade. The route leads to the San Tomé district, where you can enjoy the maritime atmosphere and the San Sadurniño ruins."
+            "en": "By bike, every corner of Cambados is easily reachable. Starting from the granite square, we visit the wine museum and then cycle along the seaside promenade. The route leads to the San Tomé district, where you can enjoy the maritime atmosphere and the San Sadurniño ruins.",
+            "es": "En bicicleta, cada rincón de Cambados es fácilmente accesible. Partiendo de la plaza de granito visitamos el museo del vino y luego pedaleamos por el paseo marítimo. La ruta conduce al barrio de San Tomé, donde puedes disfrutar de la atmósfera marinera y las ruinas de San Sadurniño."
           },
           "stops": [
             {
@@ -927,7 +993,8 @@
                 "de": "Starten Sie Ihre Tour auf diesem majestätischen Platz.",
                 "hu": "Indítsa túráját erről a fenséges térről.",
                 "ro": "Începeți turul din această piață maiestuoasă.",
-                "en": "Start your tour from this majestic square."
+                "en": "Start your tour from this majestic square.",
+                "es": "Comienza tu ruta desde esta majestuosa plaza."
               }
             },
             {
@@ -936,7 +1003,8 @@
                 "de": "Stellen Sie Ihr Fahrrad am Eingang ab.",
                 "hu": "Parkolja le a biciklit a bejáratnál.",
                 "ro": "Parcați bicicleta la intrare.",
-                "en": "Park your bike at the entrance."
+                "en": "Park your bike at the entrance.",
+                "es": "Aparca tu bicicleta en la entrada."
               }
             },
             {
@@ -945,7 +1013,8 @@
                 "de": "Eine flache und angenehme Fahrt am Meer.",
                 "hu": "Lapos és kellemes szakasz a tengerparton.",
                 "ro": "O porțiune plată și plăcută de-a lungul mării.",
-                "en": "A flat and pleasant section along the seaside."
+                "en": "A flat and pleasant section along the seaside.",
+                "es": "Un tramo llano y agradable junto al mar."
               }
             },
             {
@@ -954,7 +1023,8 @@
                 "de": "Überqueren Sie die kleine Brücke zur Turmruine.",
                 "hu": "Tekerjen át a kis hídon a toronyromhoz.",
                 "ro": "Traversați micul pod către ruinele turnului.",
-                "en": "Cycle across the small bridge to the tower ruins."
+                "en": "Cycle across the small bridge to the tower ruins.",
+                "es": "Cruza en bicicleta el pequeño puente hacia las ruinas de la torre."
               }
             },
             {
@@ -963,7 +1033,8 @@
                 "de": "Ideal für ein Mittagessen mit frischem Fisch.",
                 "hu": "Ideális hely egy friss halas ebédhez.",
                 "ro": "Loc ideal pentru un prânz cu pește proaspăt.",
-                "en": "Ideal spot for a fresh fish lunch."
+                "en": "Ideal spot for a fresh fish lunch.",
+                "es": "Lugar ideal para un almuerzo de pescado fresco."
               }
             }
           ],
@@ -1069,6 +1140,11 @@
               "The coastal path is flat and very easy to ride.",
               "Be mindful of pedestrians on the promenade.",
               "There are plenty of spots to lock your bike in San Tomé."
+            ],
+            "es": [
+              "El camino costero es llano y muy fácil de recorrer en bici.",
+              "Ten cuidado con los peatones en el paseo.",
+              "Hay muchos lugares para asegurar la bici en San Tomé."
             ]
           }
         },
@@ -1077,7 +1153,8 @@
             "de": "Trotz Regen starten wir vorsichtig am Fefiñáns-Platz. Die Fahrt zum Weinmuseum führt über nasse Asphaltwege. Am Nachmittag radeln wir entlang des Paseo Marítimo, wo der Wind die Tropfen peitscht. Den Abschluss bildet das Viertel San Tomé, wo wir uns in einer Bodega unterstellen und die Räder sicher parken können.",
             "hu": "Az eső ellenére óvatosan indulunk a Fefiñáns térről. A bormúzeumhoz vezető út nedves aszfalton visz. Délután a Paseo Marítimo mentén kerekezünk, ahol a szél korbácsolja az esőcseppeket. A napot a San Tomé negyedben zárjuk, ahol egy bodegában húzzuk meg magunkat.",
             "ro": "În ciuda ploii, pornim cu prudență din Piața Fefiñáns. Drumul spre muzeul vinului trece pe poteci de asfalt umed. După-amiaza pedalăm pe Paseo Marítimo, unde vântul biciuiește picăturile. Încheiem în cartierul San Tomé, unde ne adăpostim într-o bodegă.",
-            "en": "Despite the rain, we start cautiously at Fefiñáns Square. The ride to the wine museum takes us over wet asphalt paths. In the afternoon, we cycle along the Paseo Marítimo, where the wind whips the droplets. We finish in the San Tomé quarter, seeking shelter in a bodega."
+            "en": "Despite the rain, we start cautiously at Fefiñáns Square. The ride to the wine museum takes us over wet asphalt paths. In the afternoon, we cycle along the Paseo Marítimo, where the wind whips the droplets. We finish in the San Tomé quarter, seeking shelter in a bodega.",
+            "es": "A pesar de la lluvia, empezamos con cautela en la Plaza de Fefiñáns. El recorrido hasta el museo del vino nos lleva por tramos de asfalto húmedo. Por la tarde pedaleamos por el Paseo Marítimo, donde el viento agita las gotas. Terminamos en el barrio de San Tomé, buscando refugio en una bodega."
           },
           "stops": [
             {
@@ -1086,7 +1163,8 @@
                 "de": "Vermeiden Sie scharfe Bremsmanöver auf dem nassen Kopfsteinpflaster.",
                 "hu": "Kerülje az erős fékezést a nedves macskaköveken.",
                 "ro": "Evitați frânarea bruscă pe pavajul umed.",
-                "en": "Avoid sharp braking on the wet cobblestones."
+                "en": "Avoid sharp braking on the wet cobblestones.",
+                "es": "Evita frenar bruscamente sobre los adoquines mojados."
               }
             },
             {
@@ -1095,7 +1173,8 @@
                 "de": "Überdachte Fahrradständer sind hier meist vorhanden.",
                 "hu": "Itt általában rendelkezésre állnak fedett kerékpártárolók.",
                 "ro": "Rafturile acoperite pentru biciclete sunt de obicei disponibile aici.",
-                "en": "Covered bike racks are usually available here."
+                "en": "Covered bike racks are usually available here.",
+                "es": "Suelen haber aparcabicis cubiertos aquí."
               }
             },
             {
@@ -1104,7 +1183,8 @@
                 "de": "Achten Sie auf Pfützen, die tiefer sein können, als sie aussehen.",
                 "hu": "Ügyeljen a tócsákra, amelyek mélyebbek lehetnek, mint aminek látszanak.",
                 "ro": "Atenție la bălți, care pot fi mai adânci decât par.",
-                "en": "Watch out for puddles that might be deeper than they look."
+                "en": "Watch out for puddles that might be deeper than they look.",
+                "es": "Cuidado con los charcos que pueden ser más profundos de lo que parecen."
               }
             },
             {
@@ -1113,7 +1193,8 @@
                 "de": "Der Untergrund zur Torre kann bei Regen schlammig werden.",
                 "hu": "A toronyhoz vezető talaj esőben sárossá válhat.",
                 "ro": "Terenul spre turn poate deveni noroios în caz de ploaie.",
-                "en": "The ground to the tower can get muddy in the rain."
+                "en": "The ground to the tower can get muddy in the rain.",
+                "es": "El terreno hasta la torre puede volverse embarrado con la lluvia."
               }
             },
             {
@@ -1122,7 +1203,8 @@
                 "de": "Ein perfekter Ort, um die nasse Kleidung bei einem Glas Wein zu trocknen.",
                 "hu": "Tökéletes hely a vizes ruhák szárítására egy pohár bor mellett.",
                 "ro": "Un loc perfect pentru a usca hainele ude la un pahar de vin.",
-                "en": "A perfect place to dry wet clothes over a glass of wine."
+                "en": "A perfect place to dry wet clothes over a glass of wine.",
+                "es": "Un lugar perfecto para secar la ropa mojada con una copa de vino."
               }
             }
           ],
@@ -1150,6 +1232,12 @@
               "Mudguards are a must in Galician rain.",
               "Wear a bright rain jacket for better visibility.",
               "Use waterproof panniers for your valuables."
+            ],
+            "es": [
+              "Revisa tus frenos, la distancia de frenado es mayor con llantas mojadas.",
+              "Los guardabarros son imprescindibles con la lluvia gallega.",
+              "Lleva una chaqueta de lluvia de colores llamativos para mayor visibilidad.",
+              "Usa alforjas impermeables para tus objetos de valor."
             ]
           }
         },
@@ -1158,7 +1246,8 @@
             "de": "Die Wintertour startet erfrischend am Fefiñáns-Platz. Die kühle Luft belebt auf dem Weg zum Weinmuseum. Mittags genießen wir die Aussicht am Paseo Marítimo, während die Wintersonne glitzert. Wir erreichen die Torre kurz vor Dämmerung und beenden die Tour im gemütlichen San Tomé Viertel bei lokaler Gastronomie.",
             "hu": "A téli túra frissítően indul a Fefiñáns téren. A hűvös levegő élénkítő a bormúzeum felé vezető úton. Délben a Paseo Marítimo kilátását élvezzük, miközben a téli nap csillog. A toronyhoz közvetlenül szürkület előtt érünk, a túrát pedig a hangulatos San Tomé negyedben zárjuk.",
             "ro": "Turul de iarnă începe revigorant în Piața Fefiñáns. Aerul rece este stimulant pe drumul spre muzeul vinului. La prânz ne bucurăm de priveliștea de pe Paseo Marítimo în timp ce soarele de iarnă strălucește. Ajungem la turn chiar înainte de amurg și încheiem turul în cartierul primitor San Tomé.",
-            "en": "The winter tour starts refreshingly at Fefiñáns Square. The cool air is invigorating on the way to the wine museum. At noon, we enjoy the view at Paseo Marítimo while the winter sun glints. We reach the tower just before dusk and end the tour in the cozy San Tomé quarter."
+            "en": "The winter tour starts refreshingly at Fefiñáns Square. The cool air is invigorating on the way to the wine museum. At noon, we enjoy the view at Paseo Marítimo while the winter sun glints. We reach the tower just before dusk and end the tour in the cozy San Tomé quarter.",
+            "es": "La ruta invernal comienza refrescante en la Plaza de Fefiñáns. El aire frío vigorizante acompaña hasta el museo del vino. Al mediodía disfrutamos de las vistas en el Paseo Marítimo mientras el sol invernal brilla. Llegamos a la torre justo antes del anochecer y finalizamos la ruta en el acogedor barrio de San Tomé."
           },
           "stops": [
             {
@@ -1167,7 +1256,8 @@
                 "de": "Starten Sie nicht zu früh, um eventuellem Morgenglätte zu entgehen.",
                 "hu": "Ne induljon túl korán, hogy elkerülje az esetleges reggeli csúszósságot.",
                 "ro": "Nu porniți prea devreme pentru a evita eventualul polei de dimineață.",
-                "en": "Don't start too early to avoid any morning frost or slipperiness."
+                "en": "Don't start too early to avoid any morning frost or slipperiness.",
+                "es": "No empieces demasiado temprano para evitar heladas o resbalones matinales."
               }
             },
             {
@@ -1176,7 +1266,8 @@
                 "de": "Nutzen Sie den Aufenthalt für eine warme Pause im Inneren.",
                 "hu": "Használja ki az itt tartózkodást egy meleg benti pihenőre.",
                 "ro": "Folosiți șederea pentru o pauză caldă în interior.",
-                "en": "Use the stay for a warm break inside."
+                "en": "Use the stay for a warm break inside.",
+                "es": "Aprovecha la parada para un descanso cálido en el interior."
               }
             },
             {
@@ -1185,7 +1276,8 @@
                 "de": "Warme Handschuhe sind wegen des Fahrtwinds hier wichtig.",
                 "hu": "A menetszél miatt a meleg kesztyű itt nagyon fontos.",
                 "ro": "Mănușile călduroase sunt importante aici din cauza vântului.",
-                "en": "Warm gloves are important here because of the wind chill."
+                "en": "Warm gloves are important here because of the wind chill.",
+                "es": "Los guantes calentitos son importantes aquí por la sensación térmica del viento."
               }
             },
             {
@@ -1194,7 +1286,8 @@
                 "de": "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit ein.",
                 "hu": "Tervezze meg a visszautat a sötétedés beállta előtt.",
                 "ro": "Planificați drumul de întoarcere înainte de lăsarea întunericului.",
-                "en": "Plan your return trip before darkness falls."
+                "en": "Plan your return trip before darkness falls.",
+                "es": "Planea tu regreso antes de que caiga la noche."
               }
             },
             {
@@ -1203,7 +1296,8 @@
                 "de": "Viele Lokale bieten im Winter wärmende Tapas an.",
                 "hu": "Sok hely kínál télen melengető tapasokat.",
                 "ro": "Multe localuri oferă tapas calde în timpul iernii.",
-                "en": "Many places offer warming tapas in winter."
+                "en": "Many places offer warming tapas in winter.",
+                "es": "Muchos lugares ofrecen tapas calentitas en invierno."
               }
             }
           ],
@@ -1231,6 +1325,12 @@
               "Ensure working bike lights for the early evening.",
               "Tire pressure should be slightly lowered in winter for more grip.",
               "Warm drinks in a thermos are ideal for breaks."
+            ],
+            "es": [
+              "Viste varias capas contra la sensación térmica del viento frío.",
+              "Asegúrate de llevar luces de bicicleta en funcionamiento para la tarde temprana.",
+              "La presión de las ruedas debe bajar ligeramente en invierno para más agarre.",
+              "Bebidas calientes en un termo son ideales para las pausas."
             ]
           }
         }
@@ -1259,7 +1359,8 @@
             "de": "Parken Sie auf dem großen Parkplatz am Meer.",
             "hu": "Parkoljon a tengerparti nagy parkolóban.",
             "ro": "Parcați în parcarea mare de pe malul mării.",
-            "en": "Park in the large seaside parking lot."
+            "en": "Park in the large seaside parking lot.",
+            "es": "Aparca en el gran aparcamiento junto al mar."
           }
         },
         {
@@ -1277,7 +1378,8 @@
             "de": "Heute ein staatliches Hotel (Parador).",
             "hu": "Ma elegáns szállodaként (Parador) működik.",
             "ro": "Astăzi funcționează ca un hotel de stat (Parador).",
-            "en": "Today it functions as a luxury state-run hotel (Parador)."
+            "en": "Today it functions as a luxury state-run hotel (Parador).",
+            "es": "Hoy funciona como un hotel estatal de lujo (Parador)."
           }
         },
         {
@@ -1295,7 +1397,8 @@
             "de": "Einfacher Zugang mit dem Auto.",
             "hu": "Autóval könnyen megközelíthető.",
             "ro": "Acces ușor cu mașina.",
-            "en": "Easy access by car with nearby parking."
+            "en": "Easy access by car with nearby parking.",
+            "es": "Acceso fácil en coche con aparcamiento cercano."
           }
         },
         {
@@ -1313,7 +1416,8 @@
             "de": "Wunderschöner Fotostopp am Wasser.",
             "hu": "Gyönyörű fotópont a vízparton.",
             "ro": "Punct foto superb pe malul apei.",
-            "en": "Beautiful photo stop right by the water."
+            "en": "Beautiful photo stop right by the water.",
+            "es": "Hermosa parada fotográfica justo junto al agua."
           }
         },
         {
@@ -1331,7 +1435,8 @@
             "de": "Fahren Sie über die 2 km lange Brücke zur Insel.",
             "hu": "Hajtson át a 2 km hosszú hídon a szigetre.",
             "ro": "Traversați podul de 2 km către insulă.",
-            "en": "Drive across the 2 km long bridge to the island."
+            "en": "Drive across the 2 km long bridge to the island.",
+            "es": "Conduce a través del puente de 2 km de longitud hasta la isla."
           }
         }
       ],
@@ -1339,7 +1444,8 @@
         "de": "Mit dem Auto kombinieren wir den Charme von Cambados mit der Schönheit der Isla de Arousa. Nach der Besichtigung der Granitpaläste und des Weinmuseums fahren wir über die imposante Brücke zur Insel, um dort den Nachmittag an wilden Stränden und in Pinienwäldern zu verbringen.",
         "hu": "Autóval Cambados eleganciáját az Isla de Arousa sziget természeti szépségével ötvözzük. A gránitpaloták és a bormúzeum után átkelünk az impozáns hídon a szigetre, ahol a délutánt vadregényes strandokon és fenyvesekben töltjük.",
         "ro": "Cu mașina combinăm farmecul orașului Cambados cu frumusețea insulei Arousa. După vizitarea palatelor de granit și a muzeului vinului, traversăm podul impunător spre insulă pentru a petrece după-amiaza pe plaje sălbatice și în păduri de pini.",
-        "en": "By car, we combine the charm of Cambados with the natural beauty of Isla de Arousa. After visiting the granite palaces and the wine museum, drive across the impressive bridge to the island to spend the afternoon at wild beaches and pine forests."
+        "en": "By car, we combine the charm of Cambados with the natural beauty of Isla de Arousa. After visiting the granite palaces and the wine museum, drive across the impressive bridge to the island to spend the afternoon at wild beaches and pine forests.",
+        "es": "En coche combinamos el encanto de Cambados con la belleza natural de la Isla de Arousa. Tras visitar los pazos de granito y el museo del vino, cruza el impresionante puente hasta la isla para pasar la tarde en playas salvajes y pinares."
       },
       "gastro_picks": {
         "de": [
@@ -1443,6 +1549,11 @@
           "Parking fees apply on Arousa Island during the summer months.",
           "The bridge to the island offers great views of the bay.",
           "In Cambados, the harbor parking lot is the easiest option."
+        ],
+        "es": [
+          "Se cobran tarifas de aparcamiento en la Isla de Arousa durante los meses de verano.",
+          "El puente hacia la isla ofrece excelentes vistas de la bahía.",
+          "En Cambados, el aparcamiento del puerto es la opción más sencilla."
         ]
       },
       "variants": {
@@ -1451,7 +1562,8 @@
             "de": "Mit dem Auto kombinieren wir den Charme von Cambados mit der Schönheit der Isla de Arousa. Nach der Besichtigung der Granitpaläste und des Weinmuseums fahren wir über die imposante Brücke zur Insel, um dort den Nachmittag an wilden Stränden und in Pinienwäldern zu verbringen.",
             "hu": "Autóval Cambados eleganciáját az Isla de Arousa sziget természeti szépségével ötvözzük. A gránitpaloták és a bormúzeum után átkelünk az impozáns hídon a szigetre, ahol a délutánt vadregényes strandokon és fenyvesekben töltjük.",
             "ro": "Cu mașina combinăm farmecul orașului Cambados cu frumusețea insulei Arousa. După vizitarea palatelor de granit și a muzeului vinului, traversăm podul impunător spre insulă pentru a petrece după-amiaza pe plaje sălbatice și în păduri de pini.",
-            "en": "By car, we combine the charm of Cambados with the natural beauty of Isla de Arousa. After visiting the granite palaces and the wine museum, drive across the impressive bridge to the island to spend the afternoon at wild beaches and pine forests."
+            "en": "By car, we combine the charm of Cambados with the natural beauty of Isla de Arousa. After visiting the granite palaces and the wine museum, drive across the impressive bridge to the island to spend the afternoon at wild beaches and pine forests.",
+            "es": "En coche combinamos el encanto de Cambados con la belleza natural de la Isla de Arousa. Tras visitar los pazos de granito y el museo del vino, cruza el impresionante puente hasta la isla para pasar la tarde en playas salvajes y pinares."
           },
           "stops": [
             {
@@ -1460,7 +1572,8 @@
                 "de": "Parken Sie auf dem großen Parkplatz am Meer.",
                 "hu": "Parkoljon a tengerparti nagy parkolóban.",
                 "ro": "Parcați în parcarea mare de pe malul mării.",
-                "en": "Park in the large seaside parking lot."
+                "en": "Park in the large seaside parking lot.",
+                "es": "Aparca en el gran aparcamiento junto al mar."
               }
             },
             {
@@ -1469,7 +1582,8 @@
                 "de": "Heute ein staatliches Hotel (Parador).",
                 "hu": "Ma elegáns szállodaként (Parador) működik.",
                 "ro": "Astăzi funcționează ca un hotel de stat (Parador).",
-                "en": "Today it functions as a luxury state-run hotel (Parador)."
+                "en": "Today it functions as a luxury state-run hotel (Parador).",
+                "es": "Hoy funciona como un hotel estatal de lujo (Parador)."
               }
             },
             {
@@ -1478,7 +1592,8 @@
                 "de": "Einfacher Zugang mit dem Auto.",
                 "hu": "Autóval könnyen megközelíthető.",
                 "ro": "Acces ușor cu mașina.",
-                "en": "Easy access by car with nearby parking."
+                "en": "Easy access by car with nearby parking.",
+                "es": "Acceso fácil en coche con aparcamiento cercano."
               }
             },
             {
@@ -1487,7 +1602,8 @@
                 "de": "Wunderschöner Fotostopp am Wasser.",
                 "hu": "Gyönyörű fotópont a vízparton.",
                 "ro": "Punct foto superb pe malul apei.",
-                "en": "Beautiful photo stop right by the water."
+                "en": "Beautiful photo stop right by the water.",
+                "es": "Hermosa parada fotográfica justo junto al agua."
               }
             },
             {
@@ -1496,7 +1612,8 @@
                 "de": "Fahren Sie über die 2 km lange Brücke zur Insel.",
                 "hu": "Hajtson át a 2 km hosszú hídon a szigetre.",
                 "ro": "Traversați podul de 2 km către insulă.",
-                "en": "Drive across the 2 km long bridge to the island."
+                "en": "Drive across the 2 km long bridge to the island.",
+                "es": "Conduce a través del puente de 2 km de longitud hasta la isla."
               }
             }
           ],
@@ -1602,6 +1719,11 @@
               "Parking fees apply on Arousa Island during the summer months.",
               "The bridge to the island offers great views of the bay.",
               "In Cambados, the harbor parking lot is the easiest option."
+            ],
+            "es": [
+              "Se cobran tarifas de aparcamiento en la Isla de Arousa durante los meses de verano.",
+              "El puente hacia la isla ofrece excelentes vistas de la bahía.",
+              "En Cambados, el aparcamiento del puerto es la opción más sencilla."
             ]
           }
         },
@@ -1610,7 +1732,8 @@
             "de": "Bequem im Auto erreichen wir den regnerischen Plaza de Fefiñáns. Nach dem Besuch des Pazo de Bazán fahren wir zum Weinmuseum, während die Scheibenwischer im Takt wischen. Am Nachmittag bietet die Fahrt zur Torre und weiter zur Isla de Arousa trockenen Komfort trotz des stürmischen Wetters an der Küste.",
             "hu": "Kényelmesen, autóval érkezünk az esős Plaza de Fefiñáns térre. A Pazo de Bazán meglátogatása után a bormúzeumhoz hajtunk, miközben az ablaktörlők ütemesen járnak. Délután a toronyhoz, majd az Arousa-szigetre vezető út száraz kényelmet nyújt a parti viharos idő ellenére is.",
             "ro": "Ajungem confortabil cu mașina în Piața Fefiñáns ploioasă. După vizitarea Pazo de Bazán, conducem spre muzeul vinului în timp ce ștergătoarele merg ritmic. După-amiaza, drumul spre turn și mai departe spre Isla de Arousa oferă confort uscat în ciuda vremii furtunoase de pe coastă.",
-            "en": "Comfortably by car, we reach the rainy Plaza de Fefiñáns. After visiting Pazo de Bazán, we drive to the wine museum while the wipers swing rhythmically. In the afternoon, the drive to the tower and on to Arousa Island provides dry comfort despite the stormy coastal weather."
+            "en": "Comfortably by car, we reach the rainy Plaza de Fefiñáns. After visiting Pazo de Bazán, we drive to the wine museum while the wipers swing rhythmically. In the afternoon, the drive to the tower and on to Arousa Island provides dry comfort despite the stormy coastal weather.",
+            "es": "Cómodamente en coche llegamos a la lluviosa Plaza de Fefiñáns. Tras visitar el Pazo de Bazán conducimos al museo del vino mientras los limpiaparabrisas se mueven rítmicos. Por la tarde, el trayecto hasta la torre y la continuación hacia la Isla de Arousa ofrece confort seco pese al tiempo costero tormentoso."
           },
           "stops": [
             {
@@ -1619,7 +1742,8 @@
                 "de": "Parken Sie in der Nähe, um kurze Wege im Regen zu haben.",
                 "hu": "Parkoljon a közelben, hogy rövid legyen a séta az esőben.",
                 "ro": "Parcați în apropiere pentru a avea drumuri scurte prin ploaie.",
-                "en": "Park nearby to minimize walking distances in the rain."
+                "en": "Park nearby to minimize walking distances in the rain.",
+                "es": "Aparca cerca para minimizar los trayectos a pie bajo la lluvia."
               }
             },
             {
@@ -1628,7 +1752,8 @@
                 "de": "Das Hotel bietet eine stilvolle Lobby zum Abwarten von Schauern.",
                 "hu": "A szálloda stílusos lobbija alkalmas a záporok kivárására.",
                 "ro": "Hotelul oferă un lobby elegant pentru a aștepta trecerea averselor.",
-                "en": "The hotel offers a stylish lobby to wait out showers."
+                "en": "The hotel offers a stylish lobby to wait out showers.",
+                "es": "El hotel ofrece un elegante vestíbulo para esperar a que pase el chaparrón."
               }
             },
             {
@@ -1637,7 +1762,8 @@
                 "de": "Großer Parkplatz direkt am Museum vorhanden.",
                 "hu": "Közvetlenül a múzeumnál nagy parkoló áll rendelkezésre.",
                 "ro": "Parcare mare disponibilă direct la muzeu.",
-                "en": "Large parking lot available directly at the museum."
+                "en": "Large parking lot available directly at the museum.",
+                "es": "Amplio aparcamiento disponible directamente en el museo."
               }
             },
             {
@@ -1646,7 +1772,8 @@
                 "de": "Vorsicht beim Aussteigen, starker Wind an der Küste.",
                 "hu": "Vigyázat kiszálláskor, erős szél a parton.",
                 "ro": "Atenție la coborâre, vânt puternic pe coastă.",
-                "en": "Be careful when getting out; strong winds on the coast."
+                "en": "Be careful when getting out; strong winds on the coast.",
+                "es": "Ten cuidado al salir del coche; fuertes vientos en la costa."
               }
             },
             {
@@ -1655,7 +1782,8 @@
                 "de": "Die Brücke zur Insel kann bei Sturmseitenwind heikel sein.",
                 "hu": "A szigetre vezető híd viharos oldalszélben trükkös lehet.",
                 "ro": "Podul către insulă poate fi dificil în caz de vânt lateral puternic.",
-                "en": "The bridge to the island can be tricky in stormy side winds."
+                "en": "The bridge to the island can be tricky in stormy side winds.",
+                "es": "El puente hacia la isla puede ser delicado con vientos laterales tormentosos."
               }
             }
           ],
@@ -1683,6 +1811,12 @@
               "Keep windows defogged for better visibility.",
               "Use parking garages near the center.",
               "Albariño wine purchases can be transported home dry this way."
+            ],
+            "es": [
+              "Cuidado con el aquaplaning en la carretera costera.",
+              "Mantén las ventanillas desempañadas para mejor visibilidad.",
+              "Usa aparcamientos cubiertos cerca del centro.",
+              "Las compras de vino Albariño pueden transportarse a casa secas de esta manera."
             ]
           }
         },
@@ -1691,7 +1825,8 @@
             "de": "Die Winterfahrt beginnt am ruhigen Plaza de Fefiñáns. Im Pazo de Bazán genießen wir die winterliche Atmosphäre bei einem Kaffee. Das Weinmuseum bietet mittags eine warme Zuflucht. Der Tag gipfelt in einer Panoramafahrt über die Brücke zur Isla de Arousa, wo wir den frühen Sonnenuntergang bequem vom Auto oder Strand aus sehen.",
             "hu": "A téli autózás a nyugodt Plaza de Fefiñáns téren kezdődik. A Pazo de Bazánban kávézva élvezzük a téli hangulatot. A bormúzeum délben meleg menedéket nyújt. A nap egy panorámaúttal zárul az Arousa-szigetre, ahol a korai naplementét kényelmesen, az autóból vagy a strandról nézhetjük meg.",
             "ro": "Călătoria de iarnă începe în liniștita Piață Fefiñáns. La Pazo de Bazán ne bucurăm de atmosfera de iarnă la o cafea. Muzeul vinului oferă un refugiu cald la prânz. Ziua culminează cu un drum panoramic peste pod către Isla de Arousa, unde vedem apusul timpuriu confortabil din mașină sau de pe plajă.",
-            "en": "The winter drive starts at the quiet Plaza de Fefiñáns. At Pazo de Bazán, we enjoy the winter atmosphere over a coffee. The wine museum provides a warm refuge at noon. The day culminates in a scenic drive across the bridge to Arousa Island, where we see the early sunset comfortably from the car or beach."
+            "en": "The winter drive starts at the quiet Plaza de Fefiñáns. At Pazo de Bazán, we enjoy the winter atmosphere over a coffee. The wine museum provides a warm refuge at noon. The day culminates in a scenic drive across the bridge to Arousa Island, where we see the early sunset comfortably from the car or beach.",
+            "es": "La ruta invernal en coche comienza en la tranquila Plaza de Fefiñáns. En el Pazo de Bazán disfrutamos de la atmósfera invernal con un café. El museo del vino ofrece refugio cálido al mediodía. El día culmina con un pintoresco trayecto por el puente hasta la Isla de Arousa, donde contemplamos la puesta de sol temprana cómodamente desde el coche o la playa."
           },
           "stops": [
             {
@@ -1700,7 +1835,8 @@
                 "de": "Im Winter finden Sie hier leichter einen Parkplatz.",
                 "hu": "Télen itt könnyebben talál parkolóhelyet.",
                 "ro": "Iarna veți găsi mai ușor un loc de parcare aici.",
-                "en": "You'll find parking more easily here in winter."
+                "en": "You'll find parking more easily here in winter.",
+                "es": "Aquí encontrarás aparcamiento más fácilmente en invierno."
               }
             },
             {
@@ -1709,7 +1845,8 @@
                 "de": "Ideal für eine Aufwärmpause in herrschaftlichem Ambiente.",
                 "hu": "Ideális egy melegítő pihenőhöz úri környezetben.",
                 "ro": "Ideal pentru o pauză de încălzire într-o ambianță nobilă.",
-                "en": "Ideal for a warm-up break in a grand atmosphere."
+                "en": "Ideal for a warm-up break in a grand atmosphere.",
+                "es": "Ideal para un descanso de calentamiento en un ambiente señorial."
               }
             },
             {
@@ -1718,7 +1855,8 @@
                 "de": "Die Heizung im Museum sorgt für angenehme Temperaturen.",
                 "hu": "A múzeum fűtése kellemes hőmérsékletet biztosít.",
                 "ro": "Încălzirea din muzeu asigură temperaturi plăcute.",
-                "en": "The museum's heating ensures pleasant temperatures."
+                "en": "The museum's heating ensures pleasant temperatures.",
+                "es": "La calefacción del museo garantiza temperaturas agradables."
               }
             },
             {
@@ -1727,7 +1865,8 @@
                 "de": "Nutzen Sie das Auto als Windschutz für kurze Fotostopps.",
                 "hu": "Használja az autót szélfogóként a rövid fotómegállókhoz.",
                 "ro": "Folosiți mașina ca paravan pentru scurte opriri foto.",
-                "en": "Use the car as a windbreak for short photo stops."
+                "en": "Use the car as a windbreak for short photo stops.",
+                "es": "Usa el coche como pantalla contra el viento para paradas fotográficas cortas."
               }
             },
             {
@@ -1736,7 +1875,8 @@
                 "de": "Der Naturpark Carreirón ist auch im Winter für Spaziergänge toll.",
                 "hu": "A Carreirón natúrpark télen is remek hely a sétákhoz.",
                 "ro": "Parcul natural Carreirón este minunat pentru plimbări chiar și iarna.",
-                "en": "Carreirón Nature Park is great for walks even in winter."
+                "en": "Carreirón Nature Park is great for walks even in winter.",
+                "es": "El Parque Natural de Carreirón es ideal para paseos incluso en invierno."
               }
             }
           ],
@@ -1764,6 +1904,12 @@
               "Coastal roads can be obscured in winter fog.",
               "Time your visit to Arousa Island for around 4:30 PM (sunset).",
               "An ice scraper might be needed on cold mornings."
+            ],
+            "es": [
+              "Revisa la presión de los neumáticos al bajar las temperaturas.",
+              "Las carreteras costeras pueden quedar ocultas por la niebla invernal.",
+              "Planifica tu visita a la Isla de Arousa alrededor de las 16:30 (puesta de sol).",
+              "Puede hacer falta un rascador de hielo las mañanas frías."
             ]
           }
         }
@@ -1792,7 +1938,8 @@
             "de": "Der Busbahnhof ist nur 10 Gehminuten entfernt.",
             "hu": "A buszpályaudvar mindössze 10 perc séta.",
             "ro": "Autogara este la doar 10 minute de mers pe jos.",
-            "en": "The bus station is only a 10-minute walk away."
+            "en": "The bus station is only a 10-minute walk away.",
+            "es": "La estación de autobuses está a solo 10 minutos a pie."
           }
         },
         {
@@ -1810,7 +1957,8 @@
             "de": "Bewundern Sie die Fassade des heutigen Paradors.",
             "hu": "Csodálja meg a mai Parador impozáns homlokzatát.",
             "ro": "Admirați fațada actualului Parador.",
-            "en": "Admire the facade of the current Parador hotel."
+            "en": "Admire the facade of the current Parador hotel.",
+            "es": "Admira la fachada del actual Parador."
           }
         },
         {
@@ -1828,7 +1976,8 @@
             "de": "Ein kurzer Spaziergang bergauf vom Zentrum.",
             "hu": "Rövid emelkedő séta a központból.",
             "ro": "O scurtă plimbare la deal din centru.",
-            "en": "A short uphill walk from the town center."
+            "en": "A short uphill walk from the town center.",
+            "es": "Una breve subida desde el centro del pueblo."
           }
         },
         {
@@ -1846,7 +1995,8 @@
             "de": "Gleich neben den Santa Mariña Ruinen.",
             "hu": "Közvetlenül a Santa Mariña romok mellett.",
             "ro": "Chiar lângă ruinele Santa Mariña.",
-            "en": "Located right next to the Santa Mariña ruins."
+            "en": "Located right next to the Santa Mariña ruins.",
+            "es": "Situado justo al lado de las ruinas de Santa Mariña."
           }
         },
         {
@@ -1864,7 +2014,8 @@
             "de": "Genießen Sie ein Eis beim Gehen am Meer.",
             "hu": "Fagyizzon egyet a tengerparti séta közben.",
             "ro": "Savurați o înghețată în timp ce vă plimbați pe faleză.",
-            "en": "Enjoy an ice cream while walking along the seafront."
+            "en": "Enjoy an ice cream while walking along the seafront.",
+            "es": "Disfruta de un helado paseando por el paseo marítimo."
           }
         }
       ],
@@ -1872,7 +2023,8 @@
         "de": "Cambados ist mit dem Bus gut aus Vilagarcía oder Pontevedra erreichbar. Die wichtigsten Sehenswürdigkeiten konzentrieren sich im historischen Zentrum und sind bequem zu Fuß vom Busbahnhof aus zu erkunden. Der Tag verbindet Weinkultur, gotische Ruinen und maritime Entspannung am Paseo Marítimo.",
         "hu": "Cambados busszal könnyen elérhető Vilagarcía vagy Pontevedra felől. A főbb látnivalók a történelmi központban sűrűsödnek, így a buszpályaudvartól minden gyalog is bejárható. A nap a borkultúra, a gótikus romok és a tengerparti kikapcsolódás jegyében telik.",
         "ro": "Cambados este ușor accesibil cu autobuzul din Vilagarcía sau Pontevedra. Atracțiile principale sunt concentrate în centrul istoric, fiind ușor de explorat pe jos de la autogară. Ziua îmbină cultura vinului, ruinele gotice și relaxarea pe faleză.",
-        "en": "Cambados is easily accessible by bus from Vilagarcía or Pontevedra. The main sights are concentrated in the historic center, making everything reachable on foot from the bus station. The day combines wine culture, Gothic ruins, and maritime relaxation on the promenade."
+        "en": "Cambados is easily accessible by bus from Vilagarcía or Pontevedra. The main sights are concentrated in the historic center, making everything reachable on foot from the bus station. The day combines wine culture, Gothic ruins, and maritime relaxation on the promenade.",
+        "es": "Cambados es fácilmente accesible en autobús desde Vilagarcía o Pontevedra. Los principales puntos de interés se concentran en el casco histórico, por lo que todo es accesible a pie desde la estación de autobuses. El día combina cultura del vino, ruinas góticas y relax marítimo en el paseo."
       },
       "gastro_picks": {
         "de": [
@@ -1976,6 +2128,11 @@
           "Bus tickets can be purchased directly from the driver.",
           "Monbus is the main operator for routes in the region.",
           "The bus station has lockers for storing luggage."
+        ],
+        "es": [
+          "Los billetes de autobús se pueden comprar directamente al conductor.",
+          "Monbus es el operador principal de las rutas de la zona.",
+          "La estación de autobuses dispone de taquillas para guardar equipaje."
         ]
       },
       "variants": {
@@ -1984,7 +2141,8 @@
             "de": "Cambados ist mit dem Bus gut aus Vilagarcía oder Pontevedra erreichbar. Die wichtigsten Sehenswürdigkeiten konzentrieren sich im historischen Zentrum und sind bequem zu Fuß vom Busbahnhof aus zu erkunden. Der Tag verbindet Weinkultur, gotische Ruinen und maritime Entspannung am Paseo Marítimo.",
             "hu": "Cambados busszal könnyen elérhető Vilagarcía vagy Pontevedra felől. A főbb látnivalók a történelmi központban sűrűsödnek, így a buszpályaudvartól minden gyalog is bejárható. A nap a borkultúra, a gótikus romok és a tengerparti kikapcsolódás jegyében telik.",
             "ro": "Cambados este ușor accesibil cu autobuzul din Vilagarcía sau Pontevedra. Atracțiile principale sunt concentrate în centrul istoric, fiind ușor de explorat pe jos de la autogară. Ziua îmbină cultura vinului, ruinele gotice și relaxarea pe faleză.",
-            "en": "Cambados is easily accessible by bus from Vilagarcía or Pontevedra. The main sights are concentrated in the historic center, making everything reachable on foot from the bus station. The day combines wine culture, Gothic ruins, and maritime relaxation on the promenade."
+            "en": "Cambados is easily accessible by bus from Vilagarcía or Pontevedra. The main sights are concentrated in the historic center, making everything reachable on foot from the bus station. The day combines wine culture, Gothic ruins, and maritime relaxation on the promenade.",
+            "es": "Cambados es fácilmente accesible en autobús desde Vilagarcía o Pontevedra. Los principales puntos de interés se concentran en el casco histórico, por lo que todo es accesible a pie desde la estación de autobuses. El día combina cultura del vino, ruinas góticas y relax marítimo en el paseo."
           },
           "stops": [
             {
@@ -1993,7 +2151,8 @@
                 "de": "Der Busbahnhof ist nur 10 Gehminuten entfernt.",
                 "hu": "A buszpályaudvar mindössze 10 perc séta.",
                 "ro": "Autogara este la doar 10 minute de mers pe jos.",
-                "en": "The bus station is only a 10-minute walk away."
+                "en": "The bus station is only a 10-minute walk away.",
+                "es": "La estación de autobuses está a solo 10 minutos a pie."
               }
             },
             {
@@ -2002,7 +2161,8 @@
                 "de": "Bewundern Sie die Fassade des heutigen Paradors.",
                 "hu": "Csodálja meg a mai Parador impozáns homlokzatát.",
                 "ro": "Admirați fațada actualului Parador.",
-                "en": "Admire the facade of the current Parador hotel."
+                "en": "Admire the facade of the current Parador hotel.",
+                "es": "Admira la fachada del actual Parador."
               }
             },
             {
@@ -2011,7 +2171,8 @@
                 "de": "Ein kurzer Spaziergang bergauf vom Zentrum.",
                 "hu": "Rövid emelkedő séta a központból.",
                 "ro": "O scurtă plimbare la deal din centru.",
-                "en": "A short uphill walk from the town center."
+                "en": "A short uphill walk from the town center.",
+                "es": "Una breve subida desde el centro del pueblo."
               }
             },
             {
@@ -2020,7 +2181,8 @@
                 "de": "Gleich neben den Santa Mariña Ruinen.",
                 "hu": "Közvetlenül a Santa Mariña romok mellett.",
                 "ro": "Chiar lângă ruinele Santa Mariña.",
-                "en": "Located right next to the Santa Mariña ruins."
+                "en": "Located right next to the Santa Mariña ruins.",
+                "es": "Situado justo al lado de las ruinas de Santa Mariña."
               }
             },
             {
@@ -2029,7 +2191,8 @@
                 "de": "Genießen Sie ein Eis beim Gehen am Meer.",
                 "hu": "Fagyizzon egyet a tengerparti séta közben.",
                 "ro": "Savurați o înghețată în timp ce vă plimbați pe faleză.",
-                "en": "Enjoy an ice cream while walking along the seafront."
+                "en": "Enjoy an ice cream while walking along the seafront.",
+                "es": "Disfruta de un helado paseando por el paseo marítimo."
               }
             }
           ],
@@ -2135,6 +2298,11 @@
               "Bus tickets can be purchased directly from the driver.",
               "Monbus is the main operator for routes in the region.",
               "The bus station has lockers for storing luggage."
+            ],
+            "es": [
+              "Los billetes de autobús se pueden comprar directamente al conductor.",
+              "Monbus es el operador principal de las rutas de la zona.",
+              "La estación de autobuses dispone de taquillas para guardar equipaje."
             ]
           }
         },
@@ -2143,7 +2311,8 @@
             "de": "Mit dem Bus erreichen wir den Fefiñáns-Platz und flüchten schnell unter die Arkaden. Nach dem Besuch des Pazo de Bazán bringt uns der Nahverkehr zum Bormuseum, wo wir den Regen vergessen. Den Nachmittag verbringen wir am Paseo Marítimo, immer bereit, bei einem plötzlichen Guss in das nächste Café oder den Bus zu springen.",
             "hu": "Busszal érkezünk a Fefiñáns térre, és gyorsan az árkádok alá menekülünk. A Pazo de Bazán megtekintése után a tömegközlekedés a bormúzeumhoz visz, ahol elfelejtjük az esőt. A délutánt a Paseo Marítimo mentén töltjük, készen arra, hogy egy hirtelen zápor esetén a legközelebbi kávézóba vagy buszra ugorjunk.",
             "ro": "Ajungem cu autobuzul în Piața Fefiñáns și ne refugiem rapid sub arcade. După vizitarea Pazo de Bazán, transportul local ne duce la muzeul vinului, unde uităm de ploaie. După-amiaza o petrecem pe Paseo Marítimo, gata să sărim în următoarea cafenea sau autobuz în caz de aversă bruscă.",
-            "en": "We reach Fefiñáns Square by bus and quickly seek shelter under the arches. After visiting Pazo de Bazán, public transit takes us to the wine museum, where we forget the rain. We spend the afternoon along Paseo Marítimo, ready to hop into the nearest cafe or bus in case of a sudden downpour."
+            "en": "We reach Fefiñáns Square by bus and quickly seek shelter under the arches. After visiting Pazo de Bazán, public transit takes us to the wine museum, where we forget the rain. We spend the afternoon along Paseo Marítimo, ready to hop into the nearest cafe or bus in case of a sudden downpour.",
+            "es": "Llegamos a la Praza de Fefiñáns en autobús y buscamos rápidamente refugio bajo los soportales. Tras visitar el Pazo de Bazán, el transporte público nos lleva al museo del vino, donde olvidamos la lluvia. Pasamos la tarde por el Paseo Marítimo, listos para entrar en el café o subir al primer autobús en caso de un chaparrón repentino."
           },
           "stops": [
             {
@@ -2152,7 +2321,8 @@
                 "de": "Die Bushaltestelle bietet oft nur begrenzten Regenschutz.",
                 "hu": "A buszmegálló gyakran csak korlátozott védelmet nyújt az eső ellen.",
                 "ro": "Stația de autobuz oferă adesea adăpost limitat împotriva ploii.",
-                "en": "The bus stop often provides only limited shelter from the rain."
+                "en": "The bus stop often provides only limited shelter from the rain.",
+                "es": "La parada de autobús a menudo ofrece solo refugio limitado contra la lluvia."
               }
             },
             {
@@ -2161,7 +2331,8 @@
                 "de": "Informieren Sie sich drinnen über die nächsten Abfahrtszeiten.",
                 "hu": "Tájékozódjon bent a következő indulási időpontokról.",
                 "ro": "Informați-vă în interior despre următoarele ore de plecare.",
-                "en": "Check the next departure times while you are inside."
+                "en": "Check the next departure times while you are inside.",
+                "es": "Consulta las próximas salidas mientras estés en el interior."
               }
             },
             {
@@ -2170,7 +2341,8 @@
                 "de": "Der Weg von der Haltestelle zu den Ruinen ist kurz, aber exponiert.",
                 "hu": "A megállótól a romokig vezető út rövid, de nyílt terepen visz.",
                 "ro": "Drumul de la stație la ruine este scurt, dar expus.",
-                "en": "The walk from the stop to the ruins is short but exposed."
+                "en": "The walk from the stop to the ruins is short but exposed.",
+                "es": "La caminata desde la parada hasta las ruinas es corta pero expuesta."
               }
             },
             {
@@ -2179,7 +2351,8 @@
                 "de": "Ein idealer Ort, um auf den Bus zu warten, ohne nass zu werden.",
                 "hu": "Ideális hely a buszra váráshoz anélkül, hogy eláznánk.",
                 "ro": "Un loc ideal pentru a aștepta autobuzul fără a vă uda.",
-                "en": "An ideal place to wait for the bus without getting wet."
+                "en": "An ideal place to wait for the bus without getting wet.",
+                "es": "Un lugar ideal para esperar el autobús sin mojarse."
               }
             },
             {
@@ -2188,7 +2361,8 @@
                 "de": "Nutzen Sie die App für Echtzeit-Infos, um Wartezeiten im Regen zu minimieren.",
                 "hu": "Használja az appot a várakozási idő minimalizálásához az esőben.",
                 "ro": "Folosiți aplicația pentru informații în timp real pentru a minimiza așteptarea în ploaie.",
-                "en": "Use the app for real-time info to minimize waiting in the rain."
+                "en": "Use the app for real-time info to minimize waiting in the rain.",
+                "es": "Usa la app para información en tiempo real y reducir la espera bajo la lluvia."
               }
             }
           ],
@@ -2216,6 +2390,12 @@
               "Rain often causes small delays in bus services.",
               "Some stops in the old town are not covered.",
               "A waterproof sleeve for your schedule is helpful."
+            ],
+            "es": [
+              "Ten pequeño cambio preparado para el conductor por si fallan las tarjetas.",
+              "La lluvia suele provocar pequeños retrasos en los servicios de autobús.",
+              "Algunas paradas en el casco antiguo no están cubiertas.",
+              "Una funda impermeable para tu horario es útil."
             ]
           }
         },
@@ -2224,7 +2404,8 @@
             "de": "Ein Wintertag mit dem Bus startet am Fefiñáns-Platz. Die kurzen Wege zwischen den Stopps sind bei kühler Luft angenehm. Mittags wärmen wir uns im Pazo de Bazán auf, bevor wir zum Weinmuseum fahren. Da es früh dunkel wird, nutzen wir den ÖPNV für eine sichere Rückfahrt nach dem Sonnenuntergang am Paseo Marítimo.",
             "hu": "A téli nap a busszal a Fefiñáns téren indul. A megállók közötti rövid utak kellemesek a hűvös levegőben. Délben a Pazo de Bazánban melegszünk fel, mielőtt a bormúzeumhoz utaznánk. Mivel korán sötétedik, a tömegközlekedést használjuk a biztonságos visszautazáshoz a naplemente után.",
             "ro": "O zi de iarnă cu autobuzul începe în Piața Fefiñáns. Distanțele scurte între stații sunt plăcute în aerul rece. La prânz ne încălzim la Pazo de Bazán înainte de a merge la muzeul vinului. Deoarece se întunecă devreme, folosim transportul public pentru o întoarcere sigură după apus.",
-            "en": "A winter day by bus starts at Fefiñáns Square. The short walks between stops are pleasant in the cool air. At noon, we warm up at Pazo de Bazán before heading to the wine museum. As it gets dark early, we use public transit for a safe return after sunset at Paseo Marítimo."
+            "en": "A winter day by bus starts at Fefiñáns Square. The short walks between stops are pleasant in the cool air. At noon, we warm up at Pazo de Bazán before heading to the wine museum. As it gets dark early, we use public transit for a safe return after sunset at Paseo Marítimo.",
+            "es": "Un día invernal en autobús comienza en la Praza de Fefiñáns. Los cortos paseos entre paradas son agradables con el aire fresco. Al mediodía, nos calentamos en el Pazo de Bazán antes de dirigirnos al museo del vino. Como anochece temprano, usamos el transporte público para un regreso seguro tras el atardecer en el Paseo Marítimo."
           },
           "stops": [
             {
@@ -2233,7 +2414,8 @@
                 "de": "Beachten Sie die leicht geänderten Winterfahrpläne.",
                 "hu": "Ügyeljen a némileg módosított téli menetrendre.",
                 "ro": "Atenție la orarele de iarnă ușor modificate.",
-                "en": "Note the slightly modified winter schedules."
+                "en": "Note the slightly modified winter schedules.",
+                "es": "Ten en cuenta los horarios de invierno ligeramente modificados."
               }
             },
             {
@@ -2242,7 +2424,8 @@
                 "de": "Ein warmer Ort, falls der Bus einmal Verspätung hat.",
                 "hu": "Meleg hely, ha a busz esetleg késne.",
                 "ro": "Un loc cald în cazul în care autobuzul întârzie.",
-                "en": "A warm place in case the bus is delayed."
+                "en": "A warm place in case the bus is delayed.",
+                "es": "Un lugar cálido por si el autobús se retrasa."
               }
             },
             {
@@ -2251,7 +2434,8 @@
                 "de": "Besuchen Sie die Ruinen früh, solange das Licht gut ist.",
                 "hu": "Látogassa meg a romokat korán, amíg jók a fények.",
                 "ro": "Vizitați ruinele devreme, cât timp lumina este bună.",
-                "en": "Visit the ruins early while the light is still good."
+                "en": "Visit the ruins early while the light is still good.",
+                "es": "Visita las ruinas temprano mientras la luz aún es buena."
               }
             },
             {
@@ -2260,7 +2444,8 @@
                 "de": "Die Bushaltestelle ist nur wenige Gehminuten entfernt.",
                 "hu": "A buszmegálló csak néhány perc sétára található.",
                 "ro": "Stația de autobuz este la doar câteva minute de mers pe jos.",
-                "en": "The bus stop is just a few minutes' walk away."
+                "en": "The bus stop is just a few minutes' walk away.",
+                "es": "La parada de autobús está a solo unos minutos a pie."
               }
             },
             {
@@ -2269,7 +2454,8 @@
                 "de": "Nach 18 Uhr wird es merklich kühler, planen Sie den Bus ein.",
                 "hu": "18 óra után érezhetően hűvösebb lesz, tervezzen a busszal.",
                 "ro": "După ora 18 se răcește vizibil, planificați întoarcerea cu autobuzul.",
-                "en": "It gets noticeably cooler after 6 PM; plan for the bus."
+                "en": "It gets noticeably cooler after 6 PM; plan for the bus.",
+                "es": "Se nota claramente más fresco después de las 18:00; planea el autobús."
               }
             }
           ],
@@ -2297,6 +2483,12 @@
               "Use heated waiting areas in cafes near the stops.",
               "The last connection to the outskirts is often earlier than in summer.",
               "Wear reflective clothing for the walk to the stop."
+            ],
+            "es": [
+              "Los autobuses suelen ir menos llenos en invierno.",
+              "Usa las zonas calefactadas para esperar en los cafés cerca de las paradas.",
+              "La última conexión a las afueras suele ser antes que en verano.",
+              "Lleva ropa reflectante para la caminata a la parada."
             ]
           }
         }
@@ -2311,19 +2503,22 @@
       "de": "Cambados ist die Albariño-Weinhauptstadt, Bodegas und Restaurants haben oft englischsprachiges Personal für Weinverkostungen. Auf den Wochenmärkten und in den Dorfbars ist Galego und Spanisch Pflicht.",
       "hu": "Cambados az albariño bor fővárosa, a borászatokban és éttermekben a kóstolókon angolul is elboldogulsz. A piacokon és kis kocsmákban viszont galego-spanyol kell.",
       "ro": "Cambados e capitala vinului Albariño, podgoriile și restaurantele au adesea personal vorbitor de engleză pentru degustări. La piețe și în taverne mici, galega și spaniola sunt obligatorii.",
-      "en": "Cambados is the Albariño wine capital, wineries and restaurants often staff tastings in English. Local markets and small bars run on Galego and Spanish only though."
+      "en": "Cambados is the Albariño wine capital, wineries and restaurants often staff tastings in English. Local markets and small bars run on Galego and Spanish only though.",
+      "es": "Cambados es la capital del vino Albariño; bodegas y restaurantes suelen ofrecer catas en inglés. Los mercados locales y los bares pequeños funcionan solo en galego y español."
     },
     "best_time_to_visit": {
       "de": "Erstes Wochenende im August ist die Festa do Albariño, das größte Weinfest Galiciens, dann sind alle Pensionen Monate im Voraus ausgebucht. Mai, Juni und September sind angenehmer für Weintourismus.",
       "hu": "Augusztus első hétvégéje a Festa do Albariño, Galícia legnagyobb borfesztiválja, akkor minden szállás hónapokra előre foglalt. Május, június és szeptember kellemesebb borturizmusra.",
       "ro": "În primul weekend din august are loc Festa do Albariño, cel mai mare festival al vinului din Galicia, când toate pensiunile sunt rezervate cu luni înainte. Mai, iunie și septembrie sunt mai plăcute pentru turism vinicol.",
-      "en": "First weekend of August is the Festa do Albariño, Galicia's biggest wine festival, with guesthouses booked solid months ahead. May, June and September are calmer for wine touring."
+      "en": "First weekend of August is the Festa do Albariño, Galicia's biggest wine festival, with guesthouses booked solid months ahead. May, June and September are calmer for wine touring.",
+      "es": "El primer fin de semana de agosto es la Festa do Albariño, el mayor festival del vino de Galicia; los alojamientos se reservan meses antes. Mayo, junio y septiembre son más tranquilos para hacer rutas de vino."
     },
     "neighborhood_warnings": {
       "de": "Sehr ruhig und sicher. Während des Weinfestes wird viel getrunken, dann ist Vorsicht im Straßenverkehr nach Mitternacht angesagt, Polizei kontrolliert streng auf Alkohol am Steuer.",
       "hu": "Nagyon nyugodt és biztonságos. A borfesztivál idején sokat isznak, éjfél után az úton járva légy óvatos, a rendőrség keményen szondáztat.",
       "ro": "Foarte liniștit și sigur. În timpul festivalului se bea mult, atenție pe drumuri după miezul nopții, poliția face controale stricte de alcoolemie.",
-      "en": "Very quiet and safe. During the wine festival drinking is heavy, take care on the roads after midnight as police run strict alcohol checks."
+      "en": "Very quiet and safe. During the wine festival drinking is heavy, take care on the roads after midnight as police run strict alcohol checks.",
+      "es": "Muy tranquilo y seguro. Durante la fiesta del vino el consumo es elevado; ten cuidado en las carreteras después de medianoche, ya que la policía realiza controles estrictos de alcohol."
     }
   }
 }

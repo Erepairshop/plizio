@@ -31,7 +31,8 @@
             "de": "Eines der bedeutendsten Megalithgräber Europas.",
             "hu": "Európa egyik legjelentősebb megalitikus sírja.",
             "ro": "Unul dintre cele mai importante morminte megalitice din Europa.",
-            "en": "One of Europe's most significant megalithic tombs."
+            "en": "One of Europe's most significant megalithic tombs.",
+            "es": "Uno de los enterramientos megalíticos más importantes de Europa."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Gleich neben Menga gelegen.",
             "hu": "Közvetlenül Menga mellett található.",
             "ro": "Situat chiar lângă Menga.",
-            "en": "Located right next to Menga."
+            "en": "Located right next to Menga.",
+            "es": "Situado justo al lado de Menga."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Bewundern Sie den Turm im Mudejar-Stil.",
             "hu": "Csodálja meg a mudéjar stílusú tornyot.",
             "ro": "Admirați turnul în stil mudejar.",
-            "en": "Admire the Mudejar-style tower."
+            "en": "Admire the Mudejar-style tower.",
+            "es": "Admira la torre de estilo mudéjar."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Sehen Sie die berühmte Bronzestatue Efebo.",
             "hu": "Nézze meg a híres Efebo bronzszobrot.",
             "ro": "Vedeți celebra statuie de bronz Efebo.",
-            "en": "See the famous Efebo bronze statue."
+            "en": "See the famous Efebo bronze statue.",
+            "es": "Contempla la famosa estatua de bronce del Efebo."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Bester Blick auf den Peñón de los Enamorados.",
             "hu": "Legjobb kilátás a Peñón de los Enamoradosra.",
             "ro": "Cea mai bună vedere spre Peñón de los Enamorados.",
-            "en": "Best view of the Peñón de los Enamorados."
+            "en": "Best view of the Peñón de los Enamorados.",
+            "es": "Mejor vista del Peñón de los Enamorados."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Ein Meisterwerk der Renaissance.",
             "hu": "A reneszánsz építészet remekműve.",
             "ro": "O capodoperă a Renașterii.",
-            "en": "A masterpiece of Renaissance architecture."
+            "en": "A masterpiece of Renaissance architecture.",
+            "es": "Una obra maestra de la arquitectura renacentista."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Tauchen Sie ein in Jahrtausende der Geschichte. Der Morgen beginnt bei den mystischen Dolmen, bevor Sie ins lebendige Zentrum spazieren. Nach einem Besuch im preisgekrönten Museum erklimmen Sie die Alcazaba, um die Stadt zu überblicken. Der Tag endet bei der prachtvollen Colegiata, wo die andalusische Sonne die Steine in warmes Licht taucht.",
         "hu": "Merüljön el az évezredes történelemben. A reggel a misztikus dolmeneknél kezdődik, mielőtt besétálna a vibráló központba. A díjnyertes múzeum megtekintése után másszon fel az Alcazabába, hogy belássa a várost. A nap a pompás Colegiatánál ér véget, ahol az andalúz nap meleg fénybe vonja a köveket.",
         "ro": "Cufundați-vă în milenii de istorie. Dimineața începe la dolmenele mistice, înainte de a merge spre centrul vibrant. După o vizită la muzeul premiat, urcați la Alcazaba pentru a vedea orașul de sus. Ziua se încheie la superba Colegiata, unde soarele andaluz scaldă pietrele în lumină caldă.",
-        "en": "Immerse yourself in millennia of history. The morning begins at the mystical dolmens before walking into the vibrant center. After visiting the award-winning museum, climb the Alcazaba to overlook the city. The day ends at the magnificent Colegiata, where the Andalusian sun bathes the stones in warm light."
+        "en": "Immerse yourself in millennia of history. The morning begins at the mystical dolmens before walking into the vibrant center. After visiting the award-winning museum, climb the Alcazaba to overlook the city. The day ends at the magnificent Colegiata, where the Andalusian sun bathes the stones in warm light.",
+        "es": "Sumérgete en milenios de historia. La mañana comienza en los místicos dólmenes antes de pasear hacia el centro vibrante. Tras visitar el museo premiado, sube a la Alcazaba para dominar la ciudad. El día termina en la magnífica Colegiata, donde el sol andaluz baña las piedras con una luz cálida."
       },
       "gastro_picks": {
         "de": [
@@ -253,6 +260,12 @@
           "The dolmens are closed on Mondays.",
           "The walk up to the Alcazaba is steep but rewarding.",
           "Use the audio guide at the Colegiata."
+        ],
+        "es": [
+          "Antequera tiene más de 30 iglesias; elige las más bonitas.",
+          "Los dólmenes están cerrados los lunes.",
+          "La subida a la Alcazaba es empinada pero gratificante.",
+          "Usa la audioguía en la Colegiata."
         ]
       },
       "variants": {
@@ -261,7 +274,8 @@
             "de": "Tauchen Sie ein in Jahrtausende der Geschichte. Der Morgen beginnt bei den mystischen Dolmen, bevor Sie ins lebendige Zentrum spazieren. Nach einem Besuch im preisgekrönten Museum erklimmen Sie die Alcazaba, um die Stadt zu überblicken. Der Tag endet bei der prachtvollen Colegiata, wo die andalusische Sonne die Steine in warmes Licht taucht.",
             "hu": "Merüljön el az évezredes történelemben. A reggel a misztikus dolmeneknél kezdődik, mielőtt besétálna a vibráló központba. A díjnyertes múzeum megtekintése után másszon fel az Alcazabába, hogy belássa a várost. A nap a pompás Colegiatánál ér véget, ahol az andalúz nap meleg fénybe vonja a köveket.",
             "ro": "Cufundați-vă în milenii de istorie. Dimineața începe la dolmenele mistice, înainte de a merge spre centrul vibrant. După o vizită la muzeul premiat, urcați la Alcazaba pentru a vedea orașul de sus. Ziua se încheie la superba Colegiata, unde soarele andaluz scaldă pietrele în lumină caldă.",
-            "en": "Immerse yourself in millennia of history. The morning begins at the mystical dolmens before walking into the vibrant center. After visiting the award-winning museum, climb the Alcazaba to overlook the city. The day ends at the magnificent Colegiata, where the Andalusian sun bathes the stones in warm light."
+            "en": "Immerse yourself in millennia of history. The morning begins at the mystical dolmens before walking into the vibrant center. After visiting the award-winning museum, climb the Alcazaba to overlook the city. The day ends at the magnificent Colegiata, where the Andalusian sun bathes the stones in warm light.",
+            "es": "Sumérgete en milenios de historia. La mañana comienza en los místicos dólmenes antes de pasear hacia el centro vibrante. Tras visitar el museo premiado, sube a la Alcazaba para dominar la ciudad. El día termina en la magnífica Colegiata, donde el sol andaluz baña las piedras con una luz cálida."
           },
           "stops": [
             {
@@ -270,7 +284,8 @@
                 "de": "Eines der bedeutendsten Megalithgräber Europas.",
                 "hu": "Európa egyik legjelentősebb megalitikus sírja.",
                 "ro": "Unul dintre cele mai importante morminte megalitice din Europa.",
-                "en": "One of Europe's most significant megalithic tombs."
+                "en": "One of Europe's most significant megalithic tombs.",
+                "es": "Uno de los enterramientos megalíticos más importantes de Europa."
               }
             },
             {
@@ -279,7 +294,8 @@
                 "de": "Gleich neben Menga gelegen.",
                 "hu": "Közvetlenül Menga mellett található.",
                 "ro": "Situat chiar lângă Menga.",
-                "en": "Located right next to Menga."
+                "en": "Located right next to Menga.",
+                "es": "Situado justo al lado de Menga."
               }
             },
             {
@@ -288,7 +304,8 @@
                 "de": "Bewundern Sie den Turm im Mudejar-Stil.",
                 "hu": "Csodálja meg a mudéjar stílusú tornyot.",
                 "ro": "Admirați turnul în stil mudejar.",
-                "en": "Admire the Mudejar-style tower."
+                "en": "Admire the Mudejar-style tower.",
+                "es": "Admira la torre de estilo mudéjar."
               }
             },
             {
@@ -297,7 +314,8 @@
                 "de": "Sehen Sie die berühmte Bronzestatue Efebo.",
                 "hu": "Nézze meg a híres Efebo bronzszobrot.",
                 "ro": "Vedeți celebra statuie de bronz Efebo.",
-                "en": "See the famous Efebo bronze statue."
+                "en": "See the famous Efebo bronze statue.",
+                "es": "Contempla la famosa estatua de bronce del Efebo."
               }
             },
             {
@@ -306,7 +324,8 @@
                 "de": "Bester Blick auf den Peñón de los Enamorados.",
                 "hu": "Legjobb kilátás a Peñón de los Enamoradosra.",
                 "ro": "Cea mai bună vedere spre Peñón de los Enamorados.",
-                "en": "Best view of the Peñón de los Enamorados."
+                "en": "Best view of the Peñón de los Enamorados.",
+                "es": "Mejor vista del Peñón de los Enamorados."
               }
             },
             {
@@ -315,7 +334,8 @@
                 "de": "Ein Meisterwerk der Renaissance.",
                 "hu": "A reneszánsz építészet remekműve.",
                 "ro": "O capodoperă a Renașterii.",
-                "en": "A masterpiece of Renaissance architecture."
+                "en": "A masterpiece of Renaissance architecture.",
+                "es": "Una obra maestra de la arquitectura renacentista."
               }
             }
           ],
@@ -441,6 +461,12 @@
               "The dolmens are closed on Mondays.",
               "The walk up to the Alcazaba is steep but rewarding.",
               "Use the audio guide at the Colegiata."
+            ],
+            "es": [
+              "Antequera tiene más de 30 iglesias; elige las más bonitas.",
+              "Los dólmenes están cerrados los lunes.",
+              "La subida a la Alcazaba es empinada pero gratificante.",
+              "Usa la audioguía en la Colegiata."
             ]
           }
         },
@@ -449,7 +475,8 @@
             "de": "Der Morgen beginnt bei den Dolmen, die natürlichen Schutz vor dem Regen bieten. Mittags suchen wir Zuflucht in der Kirche San Sebastián im Stadtzentrum. Den Nachmittag verbringen wir im trockenen MVCA-Museum. Der Abend endet bei der Alcazaba, deren nasse Mauern im Licht glänzen.",
             "hu": "A reggel a dolmeneknél kezdődik, amelyek természetes fedezéket nyújtanak az eső elől. Délben a belváros felé vesszük az irányt, a San Sebastián templomban keresve menedéket. A délutánt a fedett MVCA múzeumban töltjük. Az este az Alcazaba falai között ér véget, ahol a nedves kövek csillognak a fényben.",
             "ro": "Dimineața începe la dolmene, care oferă adăpost natural împotriva ploii. La prânz ne îndreptăm spre centru, căutând refugiu în biserica San Sebastián. După-amiaza este petrecută în interiorul muzeului MVCA. Seara se încheie la Alcazaba, unde zidurile umede strălucesc sub luminile orașului.",
-            "en": "The morning begins at the dolmens, which provide natural shelter from the rain. At noon, we head towards the city center, seeking refuge in the San Sebastián church. The afternoon is spent indoors at the MVCA museum. The evening ends by the Alcazaba, where the wet stones glisten under the lights."
+            "en": "The morning begins at the dolmens, which provide natural shelter from the rain. At noon, we head towards the city center, seeking refuge in the San Sebastián church. The afternoon is spent indoors at the MVCA museum. The evening ends by the Alcazaba, where the wet stones glisten under the lights.",
+            "es": "La mañana comienza en los dólmenes, que ofrecen refugio natural de la lluvia. Al mediodía nos dirigimos al centro, buscando cobijo en la iglesia de San Sebastián. La tarde se pasa en el interior del museo MVCA. La noche concluye en la Alcazaba, donde las piedras húmedas brillan bajo las luces."
           },
           "stops": [
             {
@@ -458,7 +485,8 @@
                 "de": "Das Innere des Dolmens ist völlig trocken und bietet Schutz.",
                 "hu": "A dolmen belseje teljesen száraz, kiváló menedék az eső elől.",
                 "ro": "Interiorul dolmenului este complet uscat, oferind adăpost excelent.",
-                "en": "The interior of the dolmen is completely dry, providing great shelter."
+                "en": "The interior of the dolmen is completely dry, providing great shelter.",
+                "es": "El interior del dolmen está completamente seco, ofreciendo un gran refugio."
               }
             },
             {
@@ -467,7 +495,8 @@
                 "de": "Kurzer, nasser Weg zwischen den Dolmen; Schirm bereithalten.",
                 "hu": "Rövid, ázós út a dolmenek között; legyen kéznél az esernyő.",
                 "ro": "Drum scurt și umed între dolmene; țineți umbrela la îndemână.",
-                "en": "Short, wet path between dolmens; keep your umbrella handy."
+                "en": "Short, wet path between dolmens; keep your umbrella handy.",
+                "es": "Camino corto y húmedo entre dólmenes; lleva paraguas a mano."
               }
             },
             {
@@ -476,7 +505,8 @@
                 "de": "Nutzen Sie den Innenraum für eine trockene Besichtigungspause.",
                 "hu": "Használja ki a belső teret egy száraz városnéző szünetre.",
                 "ro": "Folosiți interiorul pentru o pauză uscată de vizitare.",
-                "en": "Use the interior for a dry sightseeing break."
+                "en": "Use the interior for a dry sightseeing break.",
+                "es": "Usa el interior para una pausa de turismo en seco."
               }
             },
             {
@@ -485,7 +515,8 @@
                 "de": "Perfekter Ort, um den stärksten Regen im Warmen auszusitzen.",
                 "hu": "Tökéletes hely a legnagyobb eső átvészelésére a melegben.",
                 "ro": "Locul perfect pentru a aștepta trecerea ploii la căldură.",
-                "en": "Perfect place to wait out the heaviest rain in the warm."
+                "en": "Perfect place to wait out the heaviest rain in the warm.",
+                "es": "Lugar perfecto para esperar la lluvia más intensa estando en calor."
               }
             },
             {
@@ -494,7 +525,8 @@
                 "de": "Vorsicht auf den Treppen; die Kalksteinstufen sind bei Nässe rutschig.",
                 "hu": "Vigyázat a lépcsőkön; a mészkő fokok vizesen csúszósak.",
                 "ro": "Atenție la scări; treptele de calcar sunt alunecoase când sunt ude.",
-                "en": "Watch your step; the limestone stairs are slippery when wet."
+                "en": "Watch your step; the limestone stairs are slippery when wet.",
+                "es": "Cuidado al pisar; las escaleras de piedra caliza son resbaladizas cuando están mojadas."
               }
             },
             {
@@ -503,7 +535,8 @@
                 "de": "Die Fassade wirkt im Regen besonders dramatisch; ideal für Fotos.",
                 "hu": "A homlokzat esőben különösen drámai; ideális fotótéma.",
                 "ro": "Fațada arată dramatic în ploaie; ideală pentru fotografii.",
-                "en": "The facade looks particularly dramatic in the rain; ideal for photos."
+                "en": "The facade looks particularly dramatic in the rain; ideal for photos.",
+                "es": "La fachada se ve especialmente dramática con lluvia; ideal para fotos."
               }
             }
           ],
@@ -535,6 +568,13 @@
               "The city museums are excellent indoor alternatives.",
               "Wear waterproof shoes for the limestone paths.",
               "Use the churches for short, dry rest breaks."
+            ],
+            "es": [
+              "Evita callejones empinados con adoquines lisos y resbaladizos.",
+              "Los dólmenes proporcionan sorprendente protección natural contra la lluvia.",
+              "Los museos de la ciudad son excelentes alternativas en interiores.",
+              "Lleva calzado impermeable para los caminos de piedra caliza.",
+              "Usa las iglesias para breves descansos secos."
             ]
           }
         },
@@ -543,7 +583,8 @@
             "de": "Ein frischer Wintermorgen bei den prähistorischen Dolmen. Mittags genießen wir die milde Sonne auf den Plätzen der Altstadt. Nachmittags steigen wir zur Alcazaba auf, um den frühen Sonnenuntergang zu erleben. Der Abend klingt gemütlich in einer Tapas-Bar im Zentrum aus.",
             "hu": "Friss téli reggel a történelem előtti dolmeneknél. Délben a belváros terein élvezzük a lágy téli napsütést. Délután felkapaszkodunk az Alcazabához a korai naplemente megtekintéséhez. Az este hangulatosan telik egy belvárosi tapas bár melegében.",
             "ro": "O dimineață răcoroasă de iarnă la dolmenele preistorice. La prânz ne bucurăm de soarele blând în piețele orașului vechi. După-amiaza urcăm la Alcazaba pentru a vedea apusul devreme. Seara se încheie confortabil într-un bar de tapas din centru.",
-            "en": "A crisp winter morning at the prehistoric dolmens. At noon, we enjoy the mild sun in the squares of the old town. In the afternoon, we climb to the Alcazaba to catch the early winter sunset. The evening ends cozily in a tapas bar in the center."
+            "en": "A crisp winter morning at the prehistoric dolmens. At noon, we enjoy the mild sun in the squares of the old town. In the afternoon, we climb to the Alcazaba to catch the early winter sunset. The evening ends cozily in a tapas bar in the center.",
+            "es": "Una mañana invernal y fresca en los dólmenes prehistóricos. Al mediodía disfrutamos del sol templado en las plazas del casco antiguo. Por la tarde subimos a la Alcazaba para ver el atardecer invernal temprano. La noche termina acogedora en un bar de tapas del centro."
           },
           "stops": [
             {
@@ -552,7 +593,8 @@
                 "de": "Im Inneren herrscht eine konstante, mildere Temperatur.",
                 "hu": "A belső tér hőmérséklete állandó és enyhébb a kintinél.",
                 "ro": "Temperatura interioară este constantă și mai blândă decât afară.",
-                "en": "The interior temperature is constant and milder than outside."
+                "en": "The interior temperature is constant and milder than outside.",
+                "es": "La temperatura interior es constante y más templada que en el exterior."
               }
             },
             {
@@ -561,7 +603,8 @@
                 "de": "Die Wintersonne beleuchtet den Eingang am Morgen perfekt.",
                 "hu": "A téli nap reggel tökéletesen megvilágítja a bejáratot.",
                 "ro": "Soarele de iarnă luminează perfect intrarea dimineața.",
-                "en": "The winter sun illuminates the entrance perfectly in the morning."
+                "en": "The winter sun illuminates the entrance perfectly in the morning.",
+                "es": "El sol de invierno ilumina perfectamente la entrada por la mañana."
               }
             },
             {
@@ -570,7 +613,8 @@
                 "de": "In den dicken Mauern kann es im Winter kühl sein; Jacke anlassen.",
                 "hu": "A vastag falak között télen hűvös lehet; ne vegye le a kabátot.",
                 "ro": "Poate fi răcoare între zidurile groase iarna; păstrați jacheta.",
-                "en": "It can be chilly inside the thick walls in winter; keep your jacket on."
+                "en": "It can be chilly inside the thick walls in winter; keep your jacket on.",
+                "es": "Puede hacer frío dentro de los muros gruesos en invierno; mantén la chaqueta puesta."
               }
             },
             {
@@ -579,7 +623,8 @@
                 "de": "Ein gut beheizter Ort für eine kulturelle Pause zur Mittagszeit.",
                 "hu": "Jól fűtött helyszín egy kulturális szünethez délidőben.",
                 "ro": "O locație bine încălzită pentru o pauză culturală la prânz.",
-                "en": "A well-heated location for a cultural break at lunchtime."
+                "en": "A well-heated location for a cultural break at lunchtime.",
+                "es": "Un lugar bien calefactado para una pausa cultural a la hora del almuerzo."
               }
             },
             {
@@ -588,7 +633,8 @@
                 "de": "Bester Aussichtspunkt für den frühen Sonnenuntergang gegen 18:00 Uhr.",
                 "hu": "A legjobb kilátópont a korai, 18:00 körüli naplementéhez.",
                 "ro": "Cel mai bun punct de belvedere pentru apusul devreme, în jur de ora 18:00.",
-                "en": "Best viewpoint for the early sunset around 6:00 PM."
+                "en": "Best viewpoint for the early sunset around 6:00 PM.",
+                "es": "Mejor mirador para el atardecer temprano, alrededor de las 18:00."
               }
             },
             {
@@ -597,7 +643,8 @@
                 "de": "Das Abendlicht auf dem Sandstein ist im Winter besonders warm.",
                 "hu": "A homokkő falakon megcsillanó esti fény télen különösen meleg.",
                 "ro": "Lumina serii pe pereții de gresie este deosebit de caldă iarna.",
-                "en": "The evening light on the sandstone walls is especially warm in winter."
+                "en": "The evening light on the sandstone walls is especially warm in winter.",
+                "es": "La luz de la tarde sobre las paredes de arenisca es especialmente cálida en invierno."
               }
             }
           ],
@@ -629,6 +676,13 @@
               "Sunset occurs early, around 6:00 PM.",
               "Look for cafes with sunny outdoor terraces.",
               "Nights in Antequera can get surprisingly cold."
+            ],
+            "es": [
+              "Aprovecha las horas soleadas del mediodía para visitas al aire libre.",
+              "La Alcazaba puede estar ventosa; lleva ropa cortavientos.",
+              "El atardecer ocurre pronto, alrededor de las 18:00.",
+              "Busca cafeterías con terrazas exteriores soleadas.",
+              "Las noches en Antequera pueden ponerse sorprendentemente frías."
             ]
           }
         }
@@ -657,7 +711,8 @@
             "de": "Einfacher Zugang mit dem Rad.",
             "hu": "Könnyű megközelítés kerékpárral.",
             "ro": "Acces ușor cu bicicleta.",
-            "en": "Easy access by bike."
+            "en": "Easy access by bike.",
+            "es": "Fácil acceso en bicicleta."
           }
         },
         {
@@ -675,7 +730,8 @@
             "de": "Teil des UNESCO-Welterbes.",
             "hu": "Az UNESCO Világörökség része.",
             "ro": "Parte a patrimoniului mondial UNESCO.",
-            "en": "Part of the UNESCO World Heritage."
+            "en": "Part of the UNESCO World Heritage.",
+            "es": "Parte del Patrimonio Mundial de la UNESCO."
           }
         },
         {
@@ -693,7 +749,8 @@
             "de": "Eine der schönsten Stierkampf-Arenen Spaniens.",
             "hu": "Spanyolország egyik legszebb bikaviadal-arénája.",
             "ro": "Una dintre cele mai frumoase arene de coridă din Spania.",
-            "en": "One of the most beautiful bullrings in Spain."
+            "en": "One of the most beautiful bullrings in Spain.",
+            "es": "Una de las plazas de toros más bonitas de España."
           }
         },
         {
@@ -711,7 +768,8 @@
             "de": "Herausfordernder Anstieg per Rad.",
             "hu": "Kihívást jelentő emelkedő kerékpárral.",
             "ro": "Urcare solicitantă cu bicicleta.",
-            "en": "Challenging climb by bike."
+            "en": "Challenging climb by bike.",
+            "es": "Subida exigente en bicicleta."
           }
         },
         {
@@ -729,7 +787,8 @@
             "de": "Der Fels erinnert an ein liegendes Gesicht.",
             "hu": "A szikla egy fekvő arcra emlékeztet.",
             "ro": "Stânca seamănă cu o față care stă întinsă.",
-            "en": "The rock resembles a lying face."
+            "en": "The rock resembles a lying face.",
+            "es": "La roca se asemeja a un rostro tumbado."
           }
         }
       ],
@@ -737,7 +796,8 @@
         "de": "Erkunden Sie die historische Weite Antequeras mit dem Fahrrad. Starten Sie bei den prähistorischen Monumenten und radeln Sie zur markanten Plaza de Toros. Ein sportlicher Anstieg führt Sie zur Alcazaba, bevor Sie aus der Stadt heraus zum Peñón de los Enamorados fahren, um die Naturkulisse zu genießen. Ein Tag voller Kontraste zwischen Steinzeit und Renaissance.",
         "hu": "Fedezze fel Antequera történelmi tágasságát kerékpárral. Kezdje a prehisztorikus emlékműveknél, majd tekerjen a jellegzetes Plaza de Toroshoz. Egy sportos emelkedő vezet az Alcazabához, mielőtt a városon kívülre, a Peñón de los Enamoradoshoz hajtana, hogy élvezze a természetet. A nap a kőkorszak és a reneszánsz közötti kontrasztokról szól.",
         "ro": "Explorați vastitatea istorică a Antequerei cu bicicleta. Începeți la monumentele preistorice și pedalați spre Plaza de Toros. O urcare sportivă vă duce la Alcazaba, înainte de a ieși din oraș spre Peñón de los Enamorados pentru a admira peisajul natural. O zi plină de contraste între epoca de piatră și Renaștere.",
-        "en": "Explore the historical expanse of Antequera by bike. Start at the prehistoric monuments and cycle to the distinctive Plaza de Toros. A sporty climb leads you to the Alcazaba before heading out of the city to the Peñón de los Enamorados to enjoy the natural scenery. A day full of contrasts between the Stone Age and the Renaissance."
+        "en": "Explore the historical expanse of Antequera by bike. Start at the prehistoric monuments and cycle to the distinctive Plaza de Toros. A sporty climb leads you to the Alcazaba before heading out of the city to the Peñón de los Enamorados to enjoy the natural scenery. A day full of contrasts between the Stone Age and the Renaissance.",
+        "es": "Explora la extensión histórica de Antequera en bicicleta. Empieza en los monumentos prehistóricos y pedalea hasta la distintiva Plaza de Toros. Una subida deportiva te lleva a la Alcazaba antes de salir de la ciudad hacia el Peñón de los Enamorados para disfrutar del paisaje natural. Un día lleno de contrastes entre la Edad de Piedra y el Renacimiento."
       },
       "gastro_picks": {
         "de": [
@@ -845,6 +905,12 @@
           "Watch out for one-way streets in the city center.",
           "The terrain is hilly; an e-bike is recommended.",
           "Drink plenty of water, especially in summer."
+        ],
+        "es": [
+          "Evita las vías de tráfico principales; usa calles laterales.",
+          "Atento a las calles de un solo sentido en el centro.",
+          "El terreno es ondulado; se recomienda una e-bike.",
+          "Bebe mucha agua, especialmente en verano."
         ]
       },
       "variants": {
@@ -853,7 +919,8 @@
             "de": "Erkunden Sie die historische Weite Antequeras mit dem Fahrrad. Starten Sie bei den prähistorischen Monumenten und radeln Sie zur markanten Plaza de Toros. Ein sportlicher Anstieg führt Sie zur Alcazaba, bevor Sie aus der Stadt heraus zum Peñón de los Enamorados fahren, um die Naturkulisse zu genießen. Ein Tag voller Kontraste zwischen Steinzeit und Renaissance.",
             "hu": "Fedezze fel Antequera történelmi tágasságát kerékpárral. Kezdje a prehisztorikus emlékműveknél, majd tekerjen a jellegzetes Plaza de Toroshoz. Egy sportos emelkedő vezet az Alcazabához, mielőtt a városon kívülre, a Peñón de los Enamoradoshoz hajtana, hogy élvezze a természetet. A nap a kőkorszak és a reneszánsz közötti kontrasztokról szól.",
             "ro": "Explorați vastitatea istorică a Antequerei cu bicicleta. Începeți la monumentele preistorice și pedalați spre Plaza de Toros. O urcare sportivă vă duce la Alcazaba, înainte de a ieși din oraș spre Peñón de los Enamorados pentru a admira peisajul natural. O zi plină de contraste între epoca de piatră și Renaștere.",
-            "en": "Explore the historical expanse of Antequera by bike. Start at the prehistoric monuments and cycle to the distinctive Plaza de Toros. A sporty climb leads you to the Alcazaba before heading out of the city to the Peñón de los Enamorados to enjoy the natural scenery. A day full of contrasts between the Stone Age and the Renaissance."
+            "en": "Explore the historical expanse of Antequera by bike. Start at the prehistoric monuments and cycle to the distinctive Plaza de Toros. A sporty climb leads you to the Alcazaba before heading out of the city to the Peñón de los Enamorados to enjoy the natural scenery. A day full of contrasts between the Stone Age and the Renaissance.",
+            "es": "Explora la extensión histórica de Antequera en bicicleta. Empieza en los monumentos prehistóricos y pedalea hasta la distintiva Plaza de Toros. Una subida deportiva te lleva a la Alcazaba antes de salir de la ciudad hacia el Peñón de los Enamorados para disfrutar del paisaje natural. Un día lleno de contrastes entre la Edad de Piedra y el Renacimiento."
           },
           "stops": [
             {
@@ -862,7 +929,8 @@
                 "de": "Einfacher Zugang mit dem Rad.",
                 "hu": "Könnyű megközelítés kerékpárral.",
                 "ro": "Acces ușor cu bicicleta.",
-                "en": "Easy access by bike."
+                "en": "Easy access by bike.",
+                "es": "Fácil acceso en bicicleta."
               }
             },
             {
@@ -871,7 +939,8 @@
                 "de": "Teil des UNESCO-Welterbes.",
                 "hu": "Az UNESCO Világörökség része.",
                 "ro": "Parte a patrimoniului mondial UNESCO.",
-                "en": "Part of the UNESCO World Heritage."
+                "en": "Part of the UNESCO World Heritage.",
+                "es": "Parte del Patrimonio Mundial de la UNESCO."
               }
             },
             {
@@ -880,7 +949,8 @@
                 "de": "Eine der schönsten Stierkampf-Arenen Spaniens.",
                 "hu": "Spanyolország egyik legszebb bikaviadal-arénája.",
                 "ro": "Una dintre cele mai frumoase arene de coridă din Spania.",
-                "en": "One of the most beautiful bullrings in Spain."
+                "en": "One of the most beautiful bullrings in Spain.",
+                "es": "Una de las plazas de toros más bonitas de España."
               }
             },
             {
@@ -889,7 +959,8 @@
                 "de": "Herausfordernder Anstieg per Rad.",
                 "hu": "Kihívást jelentő emelkedő kerékpárral.",
                 "ro": "Urcare solicitantă cu bicicleta.",
-                "en": "Challenging climb by bike."
+                "en": "Challenging climb by bike.",
+                "es": "Subida exigente en bicicleta."
               }
             },
             {
@@ -898,7 +969,8 @@
                 "de": "Der Fels erinnert an ein liegendes Gesicht.",
                 "hu": "A szikla egy fekvő arcra emlékeztet.",
                 "ro": "Stânca seamănă cu o față care stă întinsă.",
-                "en": "The rock resembles a lying face."
+                "en": "The rock resembles a lying face.",
+                "es": "La roca se asemeja a un rostro tumbado."
               }
             }
           ],
@@ -1008,6 +1080,12 @@
               "Watch out for one-way streets in the city center.",
               "The terrain is hilly; an e-bike is recommended.",
               "Drink plenty of water, especially in summer."
+            ],
+            "es": [
+              "Evita las vías de tráfico principales; usa calles laterales.",
+              "Atento a las calles de un solo sentido en el centro.",
+              "El terreno es ondulado; se recomienda una e-bike.",
+              "Bebe mucha agua, especialmente en verano."
             ]
           }
         },
@@ -1016,7 +1094,8 @@
             "de": "Eine erfrischende Fahrt zu den Dolmen am Morgen. Mittags erkunden wir die Plaza de Toros, die guten Schutz bietet. Am Nachmittag radeln wir vorsichtig zur Alcazaba hinauf. Der Abend endet nach einer nassen, aber schönen Tour durch die beleuchtete Stadt.",
             "hu": "Frissítő tekerés a dolmenekhez reggel. Délben a Plaza de Torost fedezzük fel, amely jó védelmet nyújt. Délután óvatosan feltekerünk az Alcazabához. Az este egy ázós, de szép kivilágított városi túra után ér véget.",
             "ro": "O plimbare revigorantă spre dolmene dimineața. La prânz explorăm Plaza de Toros, care oferă protecție bună. După-amiaza pedalăm cu atenție spre Alcazaba. Seara se încheie după un tur umed, dar frumos prin orașul iluminat.",
-            "en": "A refreshing morning ride to the dolmens. At noon, we explore the Plaza de Toros, which offers good cover. In the afternoon, we bike carefully up to the Alcazaba. The evening ends after a wet but beautiful tour through the lit city."
+            "en": "A refreshing morning ride to the dolmens. At noon, we explore the Plaza de Toros, which offers good cover. In the afternoon, we bike carefully up to the Alcazaba. The evening ends after a wet but beautiful tour through the lit city.",
+            "es": "Un refrescante paseo matutino hasta los dólmenes. Al mediodía exploramos la Plaza de Toros, que ofrece buen refugio. Por la tarde subimos con cuidado hasta la Alcazaba. La noche termina tras un recorrido húmedo pero hermoso por la ciudad iluminada."
           },
           "stops": [
             {
@@ -1025,7 +1104,8 @@
                 "de": "Sicherer Fahrradabstellplatz in der Nähe des Besucherzentrums.",
                 "hu": "Biztonságos kerékpárparkoló a látogatóközpont közelében.",
                 "ro": "Parcare sigură pentru biciclete lângă centrul de vizitatori.",
-                "en": "Safe bike parking available near the visitor center."
+                "en": "Safe bike parking available near the visitor center.",
+                "es": "Aparcamiento seguro para bicicletas disponible cerca del centro de visitantes."
               }
             },
             {
@@ -1034,7 +1114,8 @@
                 "de": "Vorsicht auf dem unbefestigten Weg; bei Regen kann es matschig sein.",
                 "hu": "Vigyázat a nem szilárd burkolatú úton; esőben sáros lehet.",
                 "ro": "Atenție pe drumul neasfaltat; poate fi noroios în caz de ploaie.",
-                "en": "Caution on the unpaved path; it can be muddy when raining."
+                "en": "Caution on the unpaved path; it can be muddy when raining.",
+                "es": "Precaución en el camino sin pavimentar; puede estar embarrado con lluvia."
               }
             },
             {
@@ -1043,7 +1124,8 @@
                 "de": "Die Arkaden bieten einen trockenen Unterstand für Radfahrer.",
                 "hu": "Az árkádok száraz menedéket nyújtanak a bicikliseknek.",
                 "ro": "Arcadele oferă un adăpost uscat pentru bicicliști.",
-                "en": "The arcades provide dry shelter for cyclists."
+                "en": "The arcades provide dry shelter for cyclists.",
+                "es": "Los soportales proporcionan refugio seco para ciclistas."
               }
             },
             {
@@ -1052,7 +1134,8 @@
                 "de": "Steiler Aufstieg auf nassen Straßen; nutzen Sie die Bremsen vorsichtig.",
                 "hu": "Meredek emelkedő vizes utakon; óvatosan használja a fékeket.",
                 "ro": "Urcare abruptă pe străzi umede; folosiți frânele cu atenție.",
-                "en": "Steep climb on wet roads; use brakes carefully."
+                "en": "Steep climb on wet roads; use brakes carefully.",
+                "es": "Subida empinada en carreteras mojadas; usa los frenos con cuidado."
               }
             },
             {
@@ -1061,7 +1144,8 @@
                 "de": "Der Felsen wirkt im Nebel mystisch; Vorsicht am Rand.",
                 "hu": "A szikla misztikus a ködben; vigyázat a széleken.",
                 "ro": "Stânca arată mistic în ceață; atenție la margini.",
-                "en": "The rock looks mystical in the mist; be careful at the edges."
+                "en": "The rock looks mystical in the mist; be careful at the edges.",
+                "es": "La roca se ve mística en la niebla; ten cuidado en los bordes."
               }
             }
           ],
@@ -1093,6 +1177,13 @@
               "Check your brake pads before riding in the hills.",
               "Mudguards are essential for the paths to the dolmens.",
               "Allow more time for steep, wet climbs."
+            ],
+            "es": [
+              "Lleva un chubasquero de buena calidad y visor en el casco.",
+              "Evita giros bruscos sobre adoquines resbaladizos.",
+              "Revisa las pastillas de freno antes de subir a las colinas.",
+              "Los guardabarros son esenciales para los caminos hacia los dólmenes.",
+              "Calcula más tiempo para las subidas empinadas y húmedas."
             ]
           }
         },
@@ -1101,7 +1192,8 @@
             "de": "Ein sonniger, kühler Morgen auf dem Weg zu den Dolmen. Mittags radeln wir durch die belebten Gassen zur Plaza de Toros. Nachmittags fordern uns die Anstiege zur Alcazaba bei klarer Winterluft heraus. Der Abend endet pünktlich zum Sonnenuntergang mit Panoramablick.",
             "hu": "Napsütéses, hűvös reggel a dolmenek felé vezető úton. Délben a nyüzsgő utcákon át tekerünk a Plaza de Toroshoz. Délután az Alcazaba emelkedői várnak ránk a tiszta téli levegőben. Az este pontosan a naplementére ér véget panorámás kilátással.",
             "ro": "O dimineață însorită și răcoroasă spre dolmene. La prânz pedalăm prin străzile pline de viață spre Plaza de Toros. După-amiaza urcările spre Alcazaba ne provoacă în aerul curat de iarnă. Seara se încheie exact la apus cu o vedere panoramică.",
-            "en": "A sunny, cool morning on the way to the dolmens. At noon, we bike through the lively streets to the Plaza de Toros. In the afternoon, the climbs to the Alcazaba challenge us in the clear winter air. The evening ends right at sunset with a panoramic view."
+            "en": "A sunny, cool morning on the way to the dolmens. At noon, we bike through the lively streets to the Plaza de Toros. In the afternoon, the climbs to the Alcazaba challenge us in the clear winter air. The evening ends right at sunset with a panoramic view.",
+            "es": "Una mañana soleada y fresca rumbo a los dólmenes. Al mediodía pedaleamos por las animadas calles hasta la Plaza de Toros. Por la tarde, las subidas a la Alcazaba nos desafían con el aire claro del invierno. La jornada termina al atardecer con una vista panorámica."
           },
           "stops": [
             {
@@ -1110,7 +1202,8 @@
                 "de": "Zwiebelprinzip bei der Kleidung; es wird warm beim Treten.",
                 "hu": "Réteges öltözködés javasolt; tekerés közben kimelegszik.",
                 "ro": "Îmbrăcăminte în straturi; vă veți încălzi pedalând.",
-                "en": "Layered clothing is recommended; you'll warm up while pedaling."
+                "en": "Layered clothing is recommended; you'll warm up while pedaling.",
+                "es": "Se recomienda vestimenta en capas; entonarás al pedalear."
               }
             },
             {
@@ -1119,7 +1212,8 @@
                 "de": "Die Anlage ist im Winter weniger überlaufen; genießen Sie die Ruhe.",
                 "hu": "A helyszín télen kevésbé zsúfolt; élvezze a nyugalmat.",
                 "ro": "Locația este mai puțin aglomerată iarna; bucurați-vă de liniște.",
-                "en": "The site is less crowded in winter; enjoy the peace."
+                "en": "The site is less crowded in winter; enjoy the peace.",
+                "es": "El sitio está menos concurrido en invierno; disfruta de la tranquilidad."
               }
             },
             {
@@ -1128,7 +1222,8 @@
                 "de": "In der Wintersonne ist der Platz ein idealer Ort zum Aufwärmen.",
                 "hu": "A téli napsütésben a tér ideális hely a felmelegedéshez.",
                 "ro": "În soarele de iarnă, piața este locul ideal pentru încălzire.",
-                "en": "In the winter sun, the square is an ideal place to warm up."
+                "en": "In the winter sun, the square is an ideal place to warm up.",
+                "es": "Al sol invernal, la plaza es un lugar ideal para entrar en calor."
               }
             },
             {
@@ -1137,7 +1232,8 @@
                 "de": "Windfeste Handschuhe für die Abfahrt am späten Nachmittag einpacken.",
                 "hu": "Készítsen be szélálló kesztyűt a késő délutáni lefelé úthoz.",
                 "ro": "Pregătiți mănuși rezistente la vânt pentru coborârea de după-amiază.",
-                "en": "Pack windproof gloves for the late afternoon descent."
+                "en": "Pack windproof gloves for the late afternoon descent.",
+                "es": "Lleva guantes cortaviento para el descenso de última hora de la tarde."
               }
             },
             {
@@ -1146,7 +1242,8 @@
                 "de": "Bringen Sie Lichter für das Fahrrad mit; es wird früh dunkel.",
                 "hu": "Vigyen magával lámpákat; korán sötétedik.",
                 "ro": "Aduceți lumini pentru bicicletă; se întunecă devreme.",
-                "en": "Bring lights for your bike; it gets dark early."
+                "en": "Bring lights for your bike; it gets dark early.",
+                "es": "Lleva luces para la bicicleta; anochece temprano."
               }
             }
           ],
@@ -1178,6 +1275,13 @@
               "Mountain roads can be icy in shaded areas.",
               "Avoid the coldest hours just before sunrise.",
               "Drink enough fluids, even if it doesn't feel hot."
+            ],
+            "es": [
+              "Usa luces brillantes para el crepúsculo temprano.",
+              "Ropa térmica para ciclismo protege contra el viento frío.",
+              "Las carreteras de montaña pueden helarse en zonas sombreadas.",
+              "Evita las horas más frías justo antes del amanecer.",
+              "Bebe suficiente líquido, aunque no sientas calor."
             ]
           }
         }
@@ -1206,7 +1310,8 @@
             "de": "Spektakuläre Karstlandschaft; festes Schuhwerk!",
             "hu": "Látványos karsztvidék; stabil cipő kötelező!",
             "ro": "Peisaj carstic spectaculos; purtați încălțăminte adecvată!",
-            "en": "Spectacular karst landscape; wear sturdy shoes!"
+            "en": "Spectacular karst landscape; wear sturdy shoes!",
+            "es": "Paisaje kárstico espectacular; ¡usa calzado resistente!"
           }
         },
         {
@@ -1224,7 +1329,8 @@
             "de": "Parkplatz direkt am Besucherzentrum.",
             "hu": "Parkoló közvetlenül a látogatóközpontnál.",
             "ro": "Parcare chiar la centrul pentru vizitatori.",
-            "en": "Parking right at the visitor center."
+            "en": "Parking right at the visitor center.",
+            "es": "Aparcamiento junto al centro de visitantes."
           }
         },
         {
@@ -1242,7 +1348,8 @@
             "de": "Der dritte Dolmen, etwas außerhalb.",
             "hu": "A harmadik dolmen, kicsit kijjebb.",
             "ro": "Al treilea dolmen, situat puțin în exterior.",
-            "en": "The third dolmen, located a bit further out."
+            "en": "The third dolmen, located a bit further out.",
+            "es": "El tercer dólmen, situado un poco más alejado."
           }
         },
         {
@@ -1260,7 +1367,8 @@
             "de": "Parken Sie in der Nähe der Plaza de Toros.",
             "hu": "Parkoljon a Plaza de Toros közelében.",
             "ro": "Parcați în apropiere de Plaza de Toros.",
-            "en": "Park near the Plaza de Toros."
+            "en": "Park near the Plaza de Toros.",
+            "es": "Aparca cerca de la Plaza de Toros."
           }
         },
         {
@@ -1278,7 +1386,8 @@
             "de": "Fotostopp an der Autobahn-Aussicht.",
             "hu": "Fotómegálló az autópálya-kilátónál.",
             "ro": "Popas pentru fotografii la punctul de pe autostradă.",
-            "en": "Photo stop at the highway viewpoint."
+            "en": "Photo stop at the highway viewpoint.",
+            "es": "Parada para fotos en el mirador de la carretera."
           }
         }
       ],
@@ -1286,7 +1395,8 @@
         "de": "Diese Route zeigt die dramatische Natur und Geschichte der Region. Starten Sie frühmorgens im El Torcal, einer surrealen Welt aus Stein. Danach folgen die UNESCO-Dolmen, inklusive des oft übersehenen Tholos de El Romeral. Nach einem Abstecher zur Festung Alcazaba beenden Sie die Tour mit einem Blick auf den legendären Peñón de los Enamorados.",
         "hu": "Ez az útvonal a régió drámai természetét és történelmét mutatja be. Kezdjen korán reggel El Torcalban, egy szürreális kővilágban. Ezután következnek az UNESCO dolmenek, köztük a gyakran figyelmen kívül hagyott Tholos de El Romeral. Az Alcazaba erőd megtekintése után zárja a túrát a legendás Peñón de los Enamorados látványával.",
         "ro": "Această rută evidențiază natura și istoria dramatică a regiunii. Începeți dimineața devreme în El Torcal, o lume ireală de piatră. Urmează dolmenele UNESCO, inclusiv Tholos de El Romeral, adesea trecut cu vederea. După o vizită la fortăreața Alcazaba, încheiați turul cu o vedere asupra legendarului Peñón de los Enamorados.",
-        "en": "This route showcases the dramatic nature and history of the region. Start early morning in El Torcal, a surreal world of stone. Then follow the UNESCO dolmens, including the often-overlooked Tholos de El Romeral. After a side trip to the Alcazaba fortress, end the tour with a view of the legendary Peñón de los Enamorados."
+        "en": "This route showcases the dramatic nature and history of the region. Start early morning in El Torcal, a surreal world of stone. Then follow the UNESCO dolmens, including the often-overlooked Tholos de El Romeral. After a side trip to the Alcazaba fortress, end the tour with a view of the legendary Peñón de los Enamorados.",
+        "es": "Esta ruta muestra la naturaleza dramática y la historia de la región. Comienza temprano en El Torcal, un mundo de piedra surrealista. Luego sigue los dólmenes declarados Patrimonio de la UNESCO, incluido el a menudo pasado por alto Tholos de El Romeral. Tras una excursión a la Alcazaba, termina el recorrido con la vista del legendario Peñón de los Enamorados."
       },
       "gastro_picks": {
         "de": [
@@ -1394,6 +1504,12 @@
           "Drive carefully on the mountain roads.",
           "Free parking is available at the dolmens.",
           "Combine the visit with a detour to Antequera Golf."
+        ],
+        "es": [
+          "Suele haber 5–10 grados menos en El Torcal que en la ciudad.",
+          "Conduce con cuidado por las carreteras de montaña.",
+          "Hay aparcamiento gratuito en los dólmenes.",
+          "Combina la visita con un desvío a Antequera Golf."
         ]
       },
       "variants": {
@@ -1402,7 +1518,8 @@
             "de": "Diese Route zeigt die dramatische Natur und Geschichte der Region. Starten Sie frühmorgens im El Torcal, einer surrealen Welt aus Stein. Danach folgen die UNESCO-Dolmen, inklusive des oft übersehenen Tholos de El Romeral. Nach einem Abstecher zur Festung Alcazaba beenden Sie die Tour mit einem Blick auf den legendären Peñón de los Enamorados.",
             "hu": "Ez az útvonal a régió drámai természetét és történelmét mutatja be. Kezdjen korán reggel El Torcalban, egy szürreális kővilágban. Ezután következnek az UNESCO dolmenek, köztük a gyakran figyelmen kívül hagyott Tholos de El Romeral. Az Alcazaba erőd megtekintése után zárja a túrát a legendás Peñón de los Enamorados látványával.",
             "ro": "Această rută evidențiază natura și istoria dramatică a regiunii. Începeți dimineața devreme în El Torcal, o lume ireală de piatră. Urmează dolmenele UNESCO, inclusiv Tholos de El Romeral, adesea trecut cu vederea. După o vizită la fortăreața Alcazaba, încheiați turul cu o vedere asupra legendarului Peñón de los Enamorados.",
-            "en": "This route showcases the dramatic nature and history of the region. Start early morning in El Torcal, a surreal world of stone. Then follow the UNESCO dolmens, including the often-overlooked Tholos de El Romeral. After a side trip to the Alcazaba fortress, end the tour with a view of the legendary Peñón de los Enamorados."
+            "en": "This route showcases the dramatic nature and history of the region. Start early morning in El Torcal, a surreal world of stone. Then follow the UNESCO dolmens, including the often-overlooked Tholos de El Romeral. After a side trip to the Alcazaba fortress, end the tour with a view of the legendary Peñón de los Enamorados.",
+            "es": "Esta ruta muestra la naturaleza dramática y la historia de la región. Comienza temprano en El Torcal, un mundo de piedra surrealista. Luego sigue los dólmenes declarados Patrimonio de la UNESCO, incluido el a menudo pasado por alto Tholos de El Romeral. Tras una excursión a la Alcazaba, termina el recorrido con la vista del legendario Peñón de los Enamorados."
           },
           "stops": [
             {
@@ -1411,7 +1528,8 @@
                 "de": "Spektakuläre Karstlandschaft; festes Schuhwerk!",
                 "hu": "Látványos karsztvidék; stabil cipő kötelező!",
                 "ro": "Peisaj carstic spectaculos; purtați încălțăminte adecvată!",
-                "en": "Spectacular karst landscape; wear sturdy shoes!"
+                "en": "Spectacular karst landscape; wear sturdy shoes!",
+                "es": "Paisaje kárstico espectacular; ¡usa calzado resistente!"
               }
             },
             {
@@ -1420,7 +1538,8 @@
                 "de": "Parkplatz direkt am Besucherzentrum.",
                 "hu": "Parkoló közvetlenül a látogatóközpontnál.",
                 "ro": "Parcare chiar la centrul pentru vizitatori.",
-                "en": "Parking right at the visitor center."
+                "en": "Parking right at the visitor center.",
+                "es": "Aparcamiento junto al centro de visitantes."
               }
             },
             {
@@ -1429,7 +1548,8 @@
                 "de": "Der dritte Dolmen, etwas außerhalb.",
                 "hu": "A harmadik dolmen, kicsit kijjebb.",
                 "ro": "Al treilea dolmen, situat puțin în exterior.",
-                "en": "The third dolmen, located a bit further out."
+                "en": "The third dolmen, located a bit further out.",
+                "es": "El tercer dólmen, situado un poco más alejado."
               }
             },
             {
@@ -1438,7 +1558,8 @@
                 "de": "Parken Sie in der Nähe der Plaza de Toros.",
                 "hu": "Parkoljon a Plaza de Toros közelében.",
                 "ro": "Parcați în apropiere de Plaza de Toros.",
-                "en": "Park near the Plaza de Toros."
+                "en": "Park near the Plaza de Toros.",
+                "es": "Aparca cerca de la Plaza de Toros."
               }
             },
             {
@@ -1447,7 +1568,8 @@
                 "de": "Fotostopp an der Autobahn-Aussicht.",
                 "hu": "Fotómegálló az autópálya-kilátónál.",
                 "ro": "Popas pentru fotografii la punctul de pe autostradă.",
-                "en": "Photo stop at the highway viewpoint."
+                "en": "Photo stop at the highway viewpoint.",
+                "es": "Parada para fotos en el mirador de la carretera."
               }
             }
           ],
@@ -1557,6 +1679,12 @@
               "Drive carefully on the mountain roads.",
               "Free parking is available at the dolmens.",
               "Combine the visit with a detour to Antequera Golf."
+            ],
+            "es": [
+              "Suele haber 5–10 grados menos en El Torcal que en la ciudad.",
+              "Conduce con cuidado por las carreteras de montaña.",
+              "Hay aparcamiento gratuito en los dólmenes.",
+              "Combina la visita con un desvío a Antequera Golf."
             ]
           }
         },
@@ -1565,7 +1693,8 @@
             "de": "Die Fahrt beginnt im nebligen El Torcal, was die Felsformationen surreal wirken lässt. Mittags besuchen wir die Dolmen unter dem Schutz der Besucherzentren. Nachmittags geht es zum Tholos de El Romeral. Der Tag endet sicher im Auto bei der dramatisch beleuchteten Alcazaba.",
             "hu": "Az utazás a ködös El Torcalban kezdődik, ahol a sziklák szürreális látványt nyújtanak. Délben a dolmeneket keressük fel a látogatóközpont védelmében. Délután az El Romeral tholos következik. A nap biztonságban, az autóban ér véget a kivilágított Alcazabánál.",
             "ro": "Călătoria începe în El Torcal cețos, unde stâncile arată suprarealist. La prânz vizităm dolmenele sub protecția centrului de vizitatori. După-amiaza mergem la Tholos de El Romeral. Ziua se încheie în siguranță în mașină la Alcazaba iluminată.",
-            "en": "The trip starts in the misty El Torcal, where the rock formations look surreal. At noon, we visit the dolmens under the protection of the visitor centers. In the afternoon, we head to Tholos de El Romeral. The day ends safely in the car at the dramatically lit Alcazaba."
+            "en": "The trip starts in the misty El Torcal, where the rock formations look surreal. At noon, we visit the dolmens under the protection of the visitor centers. In the afternoon, we head to Tholos de El Romeral. The day ends safely in the car at the dramatically lit Alcazaba.",
+            "es": "El viaje comienza en el brumoso El Torcal, donde las formaciones rocosas parecen surrealistas. Al mediodía visitamos los dólmenes bajo la protección de los centros de visitantes. Por la tarde nos dirigimos al Tholos de El Romeral. El día termina con seguridad en el coche en la Alcazaba, dramáticamente iluminada."
           },
           "stops": [
             {
@@ -1574,7 +1703,8 @@
                 "de": "Vorsicht vor dichtem Nebel in den Bergen; Nebelscheinwerfer nutzen.",
                 "hu": "Vigyázat a sűrű köddel a hegyekben; használja a ködlámpát.",
                 "ro": "Atenție la ceața densă în munți; folosiți luminile de ceață.",
-                "en": "Watch out for thick fog in the mountains; use fog lights."
+                "en": "Watch out for thick fog in the mountains; use fog lights.",
+                "es": "Cuidado con la niebla espesa en la montaña; usa luces antiniebla."
               }
             },
             {
@@ -1583,7 +1713,8 @@
                 "de": "Großer, befestigter Parkplatz direkt am Eingang.",
                 "hu": "Nagy, szilárd burkolatú parkoló közvetlenül a bejáratnál.",
                 "ro": "Parcare mare asfaltată chiar la intrare.",
-                "en": "Large, paved parking lot right at the entrance."
+                "en": "Large, paved parking lot right at the entrance.",
+                "es": "Amplio aparcamiento pavimentado justo en la entrada."
               }
             },
             {
@@ -1592,7 +1723,8 @@
                 "de": "Der Eingangsbereich ist überdacht und trocken.",
                 "hu": "A bejárati rész fedett és száraz.",
                 "ro": "Zona de intrare este acoperită și uscată.",
-                "en": "The entrance area is covered and dry."
+                "en": "The entrance area is covered and dry.",
+                "es": "La zona de entrada está cubierta y seca."
               }
             },
             {
@@ -1601,7 +1733,8 @@
                 "de": "Parken Sie im nahegelegenen Parkhaus, um trocken zu bleiben.",
                 "hu": "Parkoljon a közeli parkolóházban, hogy száraz maradjon.",
                 "ro": "Parcați în parcarea acoperită din apropiere pentru a rămâne uscat.",
-                "en": "Park in the nearby parking garage to stay dry."
+                "en": "Park in the nearby parking garage to stay dry.",
+                "es": "Aparca en el garaje cercano para mantenerte seco."
               }
             },
             {
@@ -1610,7 +1743,8 @@
                 "de": "Die Aussicht aus dem Autofenster ist bei Regen am besten.",
                 "hu": "Az autó ablakából nyíló kilátás esőben a legjobb választás.",
                 "ro": "Vederea de pe geamul mașinii este cea mai bună alegere pe ploaie.",
-                "en": "The view from the car window is the best choice in the rain."
+                "en": "The view from the car window is the best choice in the rain.",
+                "es": "La vista desde la ventanilla del coche es la mejor opción con lluvia."
               }
             }
           ],
@@ -1642,6 +1776,13 @@
               "In the mountains, visibility is often limited by low clouds.",
               "Utilize the parking garages in the city center.",
               "Allow more time for the winding road sections."
+            ],
+            "es": [
+              "Las carreteras de montaña hacia El Torcal pueden estar resbaladizas.",
+              "Revisa los limpiaparabrisas antes de salir.",
+              "En la montaña, la visibilidad suele limitarse por nubes bajas.",
+              "Utiliza los aparcamientos subterráneos en el centro de la ciudad.",
+              "Calcula más tiempo para los tramos de carretera sinuosos."
             ]
           }
         },
@@ -1650,7 +1791,8 @@
             "de": "Ein klarer Wintertag beginnt in den kühlen Höhen von El Torcal. Mittags besuchen wir die prähistorischen Stätten bei angenehmer Sonne. Am Nachmittag erkunden wir die Alcazaba und genießen den weiten Blick. Der Abend endet mit einer entspannten Fahrt durch die festlich beleuchtete Stadt.",
             "hu": "Tiszta téli nap kezdődik El Torcal hűvös magaslataiban. Délben a történelem előtti helyszíneket látogatjuk meg a kellemes napsütésben. Délután az Alcazabát fedezzük fel, élvezve a messzi kilátást. Az este pihentető autózással zárul az ünnepi fényekben úszó városban.",
             "ro": "O zi senină de iarnă începe pe înălțimile răcoroase din El Torcal. La prânz vizităm siturile preistorice la soarele plăcut. După-amiaza explorăm Alcazaba, bucurându-ne de vederea largă. Seara se încheie cu o plimbare relaxantă prin orașul iluminat festiv.",
-            "en": "A clear winter day starts in the cool heights of El Torcal. At noon, we visit the prehistoric sites in the pleasant sun. In the afternoon, we explore the Alcazaba and enjoy the distant view. The evening ends with a relaxed drive through the festively lit city."
+            "en": "A clear winter day starts in the cool heights of El Torcal. At noon, we visit the prehistoric sites in the pleasant sun. In the afternoon, we explore the Alcazaba and enjoy the distant view. The evening ends with a relaxed drive through the festively lit city.",
+            "es": "Un claro día invernal comienza en las frescas alturas de El Torcal. Al mediodía visitamos los yacimientos prehistóricos con un sol agradable. Por la tarde exploramos la Alcazaba y disfrutamos de la vista lejana. La noche termina con un tranquilo paseo en coche por la ciudad iluminada de forma festiva."
           },
           "stops": [
             {
@@ -1659,7 +1801,8 @@
                 "de": "Es kann deutlich kälter sein als im Ort; Heizung prüfen.",
                 "hu": "Jelentősen hidegebb lehet, mint a városban; ellenőrizze a fűtést.",
                 "ro": "Poate fi mult mai frig decât în oraș; verificați căldura.",
-                "en": "It can be significantly colder than in town; check the heater."
+                "en": "It can be significantly colder than in town; check the heater.",
+                "es": "Puede hacer significativamente más frío que en la ciudad; comprueba la calefacción."
               }
             },
             {
@@ -1668,7 +1811,8 @@
                 "de": "Die Wintersonne steht tief und blendet beim Parken.",
                 "hu": "A téli nap alacsonyan jár, vigyázzon parkoláskor a vakító fénnyel.",
                 "ro": "Soarele de iarnă este jos, atenție la orbire când parcați.",
-                "en": "The winter sun is low; watch out for glare when parking."
+                "en": "The winter sun is low; watch out for glare when parking.",
+                "es": "El sol invernal está bajo; cuidado con el deslumbramiento al aparcar."
               }
             },
             {
@@ -1677,7 +1821,8 @@
                 "de": "Ein ruhiger Besuch ohne die Hitze des Sommers.",
                 "hu": "Csendes látogatás a nyári hőség nélkül.",
                 "ro": "O vizită liniștită fără arșița verii.",
-                "en": "A quiet visit without the summer heat."
+                "en": "A quiet visit without the summer heat.",
+                "es": "Una visita tranquila sin el calor veraniego."
               }
             },
             {
@@ -1686,7 +1831,8 @@
                 "de": "Nutzen Sie die Parkmöglichkeiten oben, um Wind zu vermeiden.",
                 "hu": "Használja a fenti parkolási lehetőségeket a szél elkerülésére.",
                 "ro": "Folosiți opțiunile de parcare de sus pentru a evita vântul.",
-                "en": "Use the parking options at the top to avoid the wind."
+                "en": "Use the parking options at the top to avoid the wind.",
+                "es": "Usa las opciones de aparcamiento en la parte alta para evitar el viento."
               }
             },
             {
@@ -1695,7 +1841,8 @@
                 "de": "Hervorragende Fernsicht durch die klare Winterluft.",
                 "hu": "Kiváló messzi kilátás a tiszta téli levegőnek köszönhetően.",
                 "ro": "Vizibilitate excelentă la distanță datorită aerului curat de iarnă.",
-                "en": "Excellent long-distance visibility thanks to the clear winter air."
+                "en": "Excellent long-distance visibility thanks to the clear winter air.",
+                "es": "Excelente visibilidad a larga distancia gracias al aire limpio de invierno."
               }
             }
           ],
@@ -1727,6 +1874,13 @@
               "Take warm blankets for breaks in El Torcal.",
               "Utilize the low sun for spectacular photos.",
               "Watch out for wildlife that moves lower in the cold."
+            ],
+            "es": [
+              "Pon anticongelante en el líquido del limpiaparabrisas.",
+              "Las carreteras de montaña pueden estar resbaladizas al amanecer.",
+              "Lleva mantas térmicas para las pausas en El Torcal.",
+              "Aprovecha el sol bajo para fotos espectaculares.",
+              "Atento a la fauna que se mueve más baja con el frío."
             ]
           }
         }
@@ -1755,7 +1909,8 @@
             "de": "Nahe der Haupthaltestelle gelegen.",
             "hu": "A fő megálló közelében található.",
             "ro": "Situat aproape de stația principală.",
-            "en": "Located near the main bus stop."
+            "en": "Located near the main bus stop.",
+            "es": "Situado cerca de la parada de autobús principal."
           }
         },
         {
@@ -1773,7 +1928,8 @@
             "de": "Halt an der Avenida de la Legión.",
             "hu": "Megálló az Avenida de la Legiónnál.",
             "ro": "Stație la Avenida de la Legión.",
-            "en": "Stop at Avenida de la Legión."
+            "en": "Stop at Avenida de la Legión.",
+            "es": "Parada en Avenida de la Legión."
           }
         },
         {
@@ -1791,7 +1947,8 @@
             "de": "Zentraler Halt im Palacio de Nájera.",
             "hu": "Központi megálló a Palacio de Nájera közelében.",
             "ro": "Stație centrală la Palacio de Nájera.",
-            "en": "Central stop at Palacio de Nájera."
+            "en": "Central stop at Palacio de Nájera.",
+            "es": "Parada central en Palacio de Nájera."
           }
         },
         {
@@ -1809,7 +1966,8 @@
             "de": "Das Herz der Stadt.",
             "hu": "A város szíve.",
             "ro": "Inima orașului.",
-            "en": "The heart of the city."
+            "en": "The heart of the city.",
+            "es": "El corazón de la ciudad."
           }
         },
         {
@@ -1827,7 +1985,8 @@
             "de": "Steiler Fußweg von der Bushaltestelle.",
             "hu": "Meredek séta a buszmegállótól.",
             "ro": "Scurtă urcare abruptă de la stație.",
-            "en": "Steep walk from the bus stop."
+            "en": "Steep walk from the bus stop.",
+            "es": "Camino empinado desde la parada de autobús."
           }
         }
       ],
@@ -1835,7 +1994,8 @@
         "de": "Entdecken Sie Antequera bequem mit dem Stadtbus. Beginnen Sie bei den prähistorischen Schätzen und fahren Sie dann zur monumentalen Plaza de Toros. Das Stadtmuseum und die zentrale Kirche sind leicht erreichbar, bevor Sie zum Abschluss den Hügel zur Alcazaba erklimmen. Eine effiziente Weise, die wichtigsten Monumente der Stadt ohne Parkplatzsorgen zu sehen.",
         "hu": "Fedezze fel Antequerát kényelmesen a városi busszal. Kezdje a prehisztorikus kincseknél, majd utazzon a monumentális Plaza de Toroshoz. A városi múzeum és a központi templom könnyen elérhető, mielőtt a nap végén felkapaszkodna az Alcazaba dombjára. Hatékony módja a legfontosabb műemlékek megtekintésének parkolási gondok nélkül.",
         "ro": "Descoperiți Antequera confortabil cu autobuzul urban. Începeți la comorile preistorice și apoi mergeți spre monumentala Plaza de Toros. Muzeul orașului și biserica centrală sunt ușor accesibile înainte de a urca spre Alcazaba pentru finalul zilei. O modalitate eficientă de a vedea cele mai importante monumente fără grija parcării.",
-        "en": "Discover Antequera comfortably with the city bus. Start at the prehistoric treasures and then ride to the monumental Plaza de Toros. The city museum and the central church are easily accessible before climbing the hill to the Alcazaba at the end of the day. An efficient way to see the city's main monuments without parking worries."
+        "en": "Discover Antequera comfortably with the city bus. Start at the prehistoric treasures and then ride to the monumental Plaza de Toros. The city museum and the central church are easily accessible before climbing the hill to the Alcazaba at the end of the day. An efficient way to see the city's main monuments without parking worries.",
+        "es": "Descubre Antequera cómodamente con el bus urbano. Comienza en los tesoros prehistóricos y luego viaja hasta la monumental Plaza de Toros. El museo de la ciudad y la iglesia central son fácilmente accesibles antes de subir la colina hacia la Alcazaba al final del día. Una forma eficiente de ver los principales monumentos sin preocuparse por el aparcamiento."
       },
       "gastro_picks": {
         "de": [
@@ -1943,6 +2103,12 @@
           "The buses are punctual and air-conditioned.",
           "Ask the driver for the 'Centro' stop.",
           "Most sights are within walking distance of the stops."
+        ],
+        "es": [
+          "Compra un billete de día para el bus.",
+          "Los autobuses son puntuales y están climatizados.",
+          "Pide al conductor la parada 'Centro'.",
+          "La mayoría de los puntos de interés están a poca distancia de las paradas."
         ]
       },
       "variants": {
@@ -1951,7 +2117,8 @@
             "de": "Entdecken Sie Antequera bequem mit dem Stadtbus. Beginnen Sie bei den prähistorischen Schätzen und fahren Sie dann zur monumentalen Plaza de Toros. Das Stadtmuseum und die zentrale Kirche sind leicht erreichbar, bevor Sie zum Abschluss den Hügel zur Alcazaba erklimmen. Eine effiziente Weise, die wichtigsten Monumente der Stadt ohne Parkplatzsorgen zu sehen.",
             "hu": "Fedezze fel Antequerát kényelmesen a városi busszal. Kezdje a prehisztorikus kincseknél, majd utazzon a monumentális Plaza de Toroshoz. A városi múzeum és a központi templom könnyen elérhető, mielőtt a nap végén felkapaszkodna az Alcazaba dombjára. Hatékony módja a legfontosabb műemlékek megtekintésének parkolási gondok nélkül.",
             "ro": "Descoperiți Antequera confortabil cu autobuzul urban. Începeți la comorile preistorice și apoi mergeți spre monumentala Plaza de Toros. Muzeul orașului și biserica centrală sunt ușor accesibile înainte de a urca spre Alcazaba pentru finalul zilei. O modalitate eficientă de a vedea cele mai importante monumente fără grija parcării.",
-            "en": "Discover Antequera comfortably with the city bus. Start at the prehistoric treasures and then ride to the monumental Plaza de Toros. The city museum and the central church are easily accessible before climbing the hill to the Alcazaba at the end of the day. An efficient way to see the city's main monuments without parking worries."
+            "en": "Discover Antequera comfortably with the city bus. Start at the prehistoric treasures and then ride to the monumental Plaza de Toros. The city museum and the central church are easily accessible before climbing the hill to the Alcazaba at the end of the day. An efficient way to see the city's main monuments without parking worries.",
+            "es": "Descubre Antequera cómodamente con el bus urbano. Comienza en los tesoros prehistóricos y luego viaja hasta la monumental Plaza de Toros. El museo de la ciudad y la iglesia central son fácilmente accesibles antes de subir la colina hacia la Alcazaba al final del día. Una forma eficiente de ver los principales monumentos sin preocuparse por el aparcamiento."
           },
           "stops": [
             {
@@ -1960,7 +2127,8 @@
                 "de": "Nahe der Haupthaltestelle gelegen.",
                 "hu": "A fő megálló közelében található.",
                 "ro": "Situat aproape de stația principală.",
-                "en": "Located near the main bus stop."
+                "en": "Located near the main bus stop.",
+                "es": "Situado cerca de la parada de autobús principal."
               }
             },
             {
@@ -1969,7 +2137,8 @@
                 "de": "Halt an der Avenida de la Legión.",
                 "hu": "Megálló az Avenida de la Legiónnál.",
                 "ro": "Stație la Avenida de la Legión.",
-                "en": "Stop at Avenida de la Legión."
+                "en": "Stop at Avenida de la Legión.",
+                "es": "Parada en Avenida de la Legión."
               }
             },
             {
@@ -1978,7 +2147,8 @@
                 "de": "Zentraler Halt im Palacio de Nájera.",
                 "hu": "Központi megálló a Palacio de Nájera közelében.",
                 "ro": "Stație centrală la Palacio de Nájera.",
-                "en": "Central stop at Palacio de Nájera."
+                "en": "Central stop at Palacio de Nájera.",
+                "es": "Parada central en Palacio de Nájera."
               }
             },
             {
@@ -1987,7 +2157,8 @@
                 "de": "Das Herz der Stadt.",
                 "hu": "A város szíve.",
                 "ro": "Inima orașului.",
-                "en": "The heart of the city."
+                "en": "The heart of the city.",
+                "es": "El corazón de la ciudad."
               }
             },
             {
@@ -1996,7 +2167,8 @@
                 "de": "Steiler Fußweg von der Bushaltestelle.",
                 "hu": "Meredek séta a buszmegállótól.",
                 "ro": "Scurtă urcare abruptă de la stație.",
-                "en": "Steep walk from the bus stop."
+                "en": "Steep walk from the bus stop.",
+                "es": "Camino empinado desde la parada de autobús."
               }
             }
           ],
@@ -2106,6 +2278,12 @@
               "The buses are punctual and air-conditioned.",
               "Ask the driver for the 'Centro' stop.",
               "Most sights are within walking distance of the stops."
+            ],
+            "es": [
+              "Compra un billete de día para el bus.",
+              "Los autobuses son puntuales y están climatizados.",
+              "Pide al conductor la parada 'Centro'.",
+              "La mayoría de los puntos de interés están a poca distancia de las paradas."
             ]
           }
         },
@@ -2114,7 +2292,8 @@
             "de": "Der Tag beginnt mit einer Busfahrt zu den Dolmen, wo wir im Trockenen starten. Mittags fahren wir zur Plaza de Toros und nutzen die überdachten Bereiche. Nachmittags besuchen wir das MVCA-Museum. Der Abend endet nach einer kurzen Fahrt im Warmen in der Nähe der Alcazaba.",
             "hu": "A nap buszozással indul a dolmenekhez, ahol szárazon kezdünk. Délben a Plaza de Toroshoz utazunk, kihasználva a fedett részeket. Délután az MVCA múzeumot látogatjuk meg. Az este rövid, meleg utazás után ér véget az Alcazaba közelében.",
             "ro": "Ziua începe cu o călătorie cu autobuzul spre dolmene, unde pornim la uscat. La prânz mergem la Plaza de Toros și folosim zonele acoperite. După-amiaza vizităm muzeul MVCA. Seara se încheie după o scurtă călătorie la căldură lângă Alcazaba.",
-            "en": "The day starts with a bus ride to the dolmens, where we begin in the dry. At noon, we travel to the Plaza de Toros and use the covered areas. In the afternoon, we visit the MVCA museum. The evening ends after a short, warm ride near the Alcazaba."
+            "en": "The day starts with a bus ride to the dolmens, where we begin in the dry. At noon, we travel to the Plaza de Toros and use the covered areas. In the afternoon, we visit the MVCA museum. The evening ends after a short, warm ride near the Alcazaba.",
+            "es": "El día comienza con un viaje en bus a los dólmenes, donde empezamos bajo techo. Al mediodía viajamos a la Plaza de Toros y aprovechamos las zonas cubiertas. Por la tarde visitamos el museo MVCA. La jornada termina tras un corto y cálido paseo cerca de la Alcazaba."
           },
           "stops": [
             {
@@ -2123,7 +2302,8 @@
                 "de": "Die Bushaltestelle liegt nah am Eingang; Schirm bereithalten.",
                 "hu": "A buszmegálló közel van a bejárathoz; legyen kéznél az esernyő.",
                 "ro": "Stația de autobuz este aproape de intrare; țineți umbrela la îndemână.",
-                "en": "The bus stop is close to the entrance; keep your umbrella ready."
+                "en": "The bus stop is close to the entrance; keep your umbrella ready.",
+                "es": "La parada de bus está cerca de la entrada; ten el paraguas a mano."
               }
             },
             {
@@ -2132,7 +2312,8 @@
                 "de": "Warten Sie unter den Arkaden auf den nächsten Bus.",
                 "hu": "Várja a következő buszt az árkádok alatt.",
                 "ro": "Așteptați următorul autobuz sub arcade.",
-                "en": "Wait for the next bus under the arcades."
+                "en": "Wait for the next bus under the arcades.",
+                "es": "Espera el siguiente bus bajo los soportales."
               }
             },
             {
@@ -2141,7 +2322,8 @@
                 "de": "Zentraler Ort mit guter Busanbindung in alle Richtungen.",
                 "hu": "Központi helyszín kiváló buszközlekedéssel minden irányba.",
                 "ro": "Locație centrală cu conexiuni bune de autobuz în toate direcțiile.",
-                "en": "Central location with good bus connections in all directions."
+                "en": "Central location with good bus connections in all directions.",
+                "es": "Ubicación céntrica con buenas conexiones de bus en todas direcciones."
               }
             },
             {
@@ -2150,7 +2332,8 @@
                 "de": "Die Haltestellen bieten oft keinen vollständigen Regenschutz.",
                 "hu": "A megállók gyakran nem nyújtanak teljes védelmet az eső ellen.",
                 "ro": "Stațiile adesea nu oferă protecție completă împotriva ploii.",
-                "en": "Stops often do not provide full protection from the rain."
+                "en": "Stops often do not provide full protection from the rain.",
+                "es": "Las paradas a menudo no ofrecen protección total contra la lluvia."
               }
             },
             {
@@ -2159,7 +2342,8 @@
                 "de": "Nutzen Sie den City-Bus für den steilen Weg nach oben.",
                 "hu": "Vegye igénybe a városi buszt a meredek felfelé vezető úthoz.",
                 "ro": "Folosiți autobuzul urban pentru drumul abrupt în sus.",
-                "en": "Use the city bus for the steep way up."
+                "en": "Use the city bus for the steep way up.",
+                "es": "Usa el bus urbano para la subida empinada."
               }
             }
           ],
@@ -2191,6 +2375,13 @@
               "Have change or a card ready for ticket purchase.",
               "Avoid long waits at exposed stops.",
               "Main lines run regularly even in bad weather."
+            ],
+            "es": [
+              "Consulta los horarios actuales en línea cuando llueve.",
+              "Los autobuses son una alternativa seca a caminar.",
+              "Lleva suelto o una tarjeta lista para comprar el billete.",
+              "Evita largas esperas en paradas expuestas.",
+              "Las líneas principales circulan con regularidad incluso con mal tiempo."
             ]
           }
         },
@@ -2199,7 +2390,8 @@
             "de": "Ein klarer Wintertag beginnt mit der Fahrt zu den Dolmen. Mittags nutzen wir den Bus, um bequem zur Plaza de Toros zu gelangen. Nachmittags wärmen wir uns im MVCA-Museum auf. Der Abend endet nach einer letzten Fahrt durch das beleuchtete Zentrum mit Blick auf die Alcazaba.",
             "hu": "Tiszta téli nap indul a dolmenekhez tartó utazással. Délben buszt használunk, hogy kényelmesen eljussunk a Plaza de Toroshoz. Délután az MVCA múzeumban melegszünk fel. Az este az utolsó utazással zárul a kivilágított belvároson át az Alcazaba lábánál.",
             "ro": "O zi senină de iarnă începe cu drumul spre dolmene. La prânz folosim autobuzul pentru a ajunge confortabil la Plaza de Toros. După-amiaza ne încălzim în muzeul MVCA. Seara se încheie după o ultimă cursă prin centrul iluminat la baza Alcazaba.",
-            "en": "A clear winter day starts with the trip to the dolmens. At noon, we use the bus to reach the Plaza de Toros comfortably. In the afternoon, we warm up in the MVCA museum. The evening ends after a final ride through the lit center at the foot of the Alcazaba."
+            "en": "A clear winter day starts with the trip to the dolmens. At noon, we use the bus to reach the Plaza de Toros comfortably. In the afternoon, we warm up in the MVCA museum. The evening ends after a final ride through the lit center at the foot of the Alcazaba.",
+            "es": "Un día claro de invierno empieza con el viaje a los dólmenes. Al mediodía, tomamos el autobús para llegar cómodamente a la Plaza de Toros. Por la tarde, nos abrigamos en el museo MVCA. La noche termina tras un último paseo por el centro iluminado al pie de la Alcazaba."
           },
           "stops": [
             {
@@ -2208,7 +2400,8 @@
                 "de": "Im Winter sind die Busse oft angenehm beheizt.",
                 "hu": "Télen a buszok gyakran kellemesen fűtöttek.",
                 "ro": "Iarna, autobuzele sunt adesea încălzite plăcut.",
-                "en": "In winter, buses are often pleasantly heated."
+                "en": "In winter, buses are often pleasantly heated.",
+                "es": "En invierno, los autobuses suelen estar calentitos y agradables."
               }
             },
             {
@@ -2217,7 +2410,8 @@
                 "de": "Die Sonne wärmt die Haltestelle zur Mittagszeit gut auf.",
                 "hu": "A nap délidőben jól felmelegíti a megállót.",
                 "ro": "Soarele încălzește bine stația la ora prânzului.",
-                "en": "The sun warms up the stop nicely at lunchtime."
+                "en": "The sun warms up the stop nicely at lunchtime.",
+                "es": "El sol calienta bien la parada a la hora de comer."
               }
             },
             {
@@ -2226,7 +2420,8 @@
                 "de": "Ein idealer Ort, um die kältesten Stunden des Nachmittags zu verbringen.",
                 "hu": "Ideális hely a délutáni leghidegebb órák eltöltésére.",
                 "ro": "Locul ideal pentru a petrece cele mai reci ore ale după-amiezii.",
-                "en": "An ideal place to spend the coldest hours of the afternoon."
+                "en": "An ideal place to spend the coldest hours of the afternoon.",
+                "es": "Un lugar ideal para pasar las horas más frías de la tarde."
               }
             },
             {
@@ -2235,7 +2430,8 @@
                 "de": "Planen Sie Ihre Fahrten so, dass Sie nicht lange im Schatten warten.",
                 "hu": "Tervezze úgy az utazást, hogy ne kelljen sokat várnia az árnyékban.",
                 "ro": "Planificați călătoriile astfel încât să nu așteptați mult la umbră.",
-                "en": "Plan your trips so you don't have to wait long in the shade."
+                "en": "Plan your trips so you don't have to wait long in the shade.",
+                "es": "Planifica tus trayectos para no esperar mucho tiempo a la sombra."
               }
             },
             {
@@ -2244,7 +2440,8 @@
                 "de": "Der letzte Bus zurück ins Zentrum fährt kurz nach Sonnenuntergang.",
                 "hu": "Az utolsó busz a belvárosba röviddel naplemente után indul.",
                 "ro": "Ultimul autobuz spre centru pleacă la scurt timp după apus.",
-                "en": "The last bus back to the center leaves shortly after sunset."
+                "en": "The last bus back to the center leaves shortly after sunset.",
+                "es": "El último autobús de vuelta al centro sale poco después del atardecer."
               }
             }
           ],
@@ -2276,6 +2473,13 @@
               "Wear warm clothing for waiting at the stops.",
               "Sunset is early; plan your return trip in time.",
               "The city line is ideal for avoiding steep, windy paths."
+            ],
+            "es": [
+              "Usa los autobuses calefactados para descansar.",
+              "Los horarios pueden variar ligeramente en invierno.",
+              "Lleva ropa abrigada para esperar en las paradas.",
+              "El atardecer es temprano; planifica tu regreso con tiempo.",
+              "La línea urbana es ideal para evitar cuestas empinadas y vientos."
             ]
           }
         }
@@ -2290,19 +2494,22 @@
       "de": "Antequera ist Kleinstadt mit mehr Spanisch als Englisch, aber Tourismusbüro hat Englisch. 'Dólmenes' (Megalithgräber) sind UNESCO und sprachlich allgegenwärtig. 'Porra antequerana' ist die dicke kalte Tomatensuppe – Spezialität.",
       "hu": "Antequera kisváros, több spanyol mint angol, de a turistairoda beszéli a nyelvet. A 'dólmenes' (dolmen sírok) UNESCO örökség, mindenhol említik. A 'porra antequerana' a vastag hideg paradicsomleves, ezt itt találták ki.",
       "ro": "Antequera e orășel, mai multă spaniolă decât engleză, dar biroul de turism vorbește engleză. 'Dólmenes' (morminte megalitice) sunt UNESCO și omniprezente. 'Porra antequerana' e supă de roșii groasă și rece – specialitate locală.",
-      "en": "Antequera is a small town with more Spanish than English, but the tourist office speaks English. 'Dólmenes' (megalithic tombs) are UNESCO and everywhere. 'Porra antequerana' is the thick cold tomato soup – the local speciality."
+      "en": "Antequera is a small town with more Spanish than English, but the tourist office speaks English. 'Dólmenes' (megalithic tombs) are UNESCO and everywhere. 'Porra antequerana' is the thick cold tomato soup – the local speciality.",
+      "es": "Antequera es un pueblo pequeño con más español que inglés, aunque la oficina de turismo habla inglés. Los “dólmenes” (tumbas megalíticas) son Patrimonio de la UNESCO y están por todas partes. La porra antequerana es la sopa fría espesa de tomate, la especialidad local."
     },
     "best_time_to_visit": {
       "de": "März bis Mai und Oktober für die Dolmen und El Torcal ohne Hitzeflimmern. Karwoche sehr berühmt für Prozessionen. Sommer in der Stadt heiß, El Torcal oben dann angenehm.",
       "hu": "Március-május és október a dolmeneknél és az El Torcalnál hőség nélkül. A Semana Santa körmenetei legendásak. Nyáron a város forró, de fent az El Torcalon kellemes.",
       "ro": "Martie-mai și octombrie pentru dolmeni și El Torcal fără arșiță. Săptămâna Mare e celebră prin procesiuni. Vara, orașul e fierbinte, dar El Torcal sus rămâne plăcut.",
-      "en": "March–May and October for the dolmens and El Torcal without heat haze. Holy Week is famous for processions. Summers in town are hot, but El Torcal up high stays pleasant."
+      "en": "March–May and October for the dolmens and El Torcal without heat haze. Holy Week is famous for processions. Summers in town are hot, but El Torcal up high stays pleasant.",
+      "es": "Marzo–mayo y octubre para los dólmenes y El Torcal sin calimas. La Semana Santa es famosa por sus procesiones. Los veranos en el pueblo son calurosos, pero El Torcal en altura se mantiene agradable."
     },
     "neighborhood_warnings": {
       "de": "Sehr sicher. El Torcal nur über offizielle Wege, Steine sind scharfkantig und Klettern verboten. Innenstadt-Parken stressig an Markttagen (Donnerstag), Park&Ride nutzen. Sommer-UV in Höhenlage stark.",
       "hu": "Nagyon biztonságos. Az El Torcalon csak a jelzett ösvényen, a kő éles és tilos mászni. A belvárosi parkolás csütörtök piacnapon stresszes, Park&Ride ajánlott. Magaslaton az UV nyáron erős.",
       "ro": "Foarte sigur. La El Torcal doar pe trasee oficiale, stâncile sunt tăioase și cățăratul interzis. Parcarea în centru e stresantă joia (zi de piață) – Park&Ride. Vara, UV-ul la altitudine e intens.",
-      "en": "Very safe. At El Torcal stay on marked paths – the rock is razor-edged and climbing is banned. City parking is stressful on Thursday market day – use park-and-ride. UV at altitude is strong in summer."
+      "en": "Very safe. At El Torcal stay on marked paths – the rock is razor-edged and climbing is banned. City parking is stressful on Thursday market day – use park-and-ride. UV at altitude is strong in summer.",
+      "es": "Muy seguro. En El Torcal mantente en los senderos señalizados: la roca es cortante y está prohibido escalar. Aparcar en la ciudad es estresante el día de mercado del jueves: usa park-and-ride. La radiación UV en altura es fuerte en verano."
     }
   }
 }

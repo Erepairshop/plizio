@@ -21,7 +21,8 @@
             "de": "Eselsdenkmal",
             "hu": "Szamár-emlékmű",
             "ro": "Monumentul Măgarului",
-            "en": "Donkey Monument"
+            "en": "Donkey Monument",
+            "es": "Monumento al burro"
           },
           "coords": [
             -1.70731,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie dieses einzigartige Denkmal für die historische Rolle des Esels in der lokalen Landwirtschaft und machen Sie früh ein Foto ohne grelles Licht.",
             "hu": "Csodálja meg a helyi mezőgazdaságban fontos szerepet játszó szamár egyedi emlékművét, és készítsen egy gyors fotót még a déli erős napfény előtt.",
             "ro": "Admirați acest monument unic ce celebrează rolul istoric al măgarului în agricultura locală și faceți o fotografie dimineața pentru a evita lumina puternică.",
-            "en": "Admire this unique monument celebrating the humble donkey's historical role in local agriculture, and snap a quick photo early to avoid the midday glare."
+            "en": "Admire this unique monument celebrating the humble donkey's historical role in local agriculture, and snap a quick photo early to avoid the midday glare.",
+            "es": "Admira este singular monumento que celebra el papel histórico del humilde burro en la agricultura local y haz una foto temprano para evitar el resplandor del mediodía."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Heiligtum Unserer Lieben Frau vom Rosenkranz",
             "hu": "Rózsafüzér Királynője Szentély",
             "ro": "Sanctuarul Maicii Domnului a Rozariului",
-            "en": "Sanctuary of Our Lady of the Rosary"
+            "en": "Sanctuary of Our Lady of the Rosary",
+            "es": "Santuario de Nuestra Señora del Rosario"
           },
           "coords": [
             -1.704299,
@@ -59,7 +62,8 @@
             "de": "Treten Sie ein, um den kunstvollen Altar für die Schutzpatronin zu bewundern, aber denken Sie daran, während der stillen Gebetszeiten leise zu sein.",
             "hu": "Lépjen be, hogy megcsodálja a város védőszentjének díszes oltárát, de ügyeljen arra, hogy a csendes imádságok idején halkan beszéljen a padok között.",
             "ro": "Pășiți înăuntru pentru a admira altarul ornamentat dedicat patroanei orașului, dar rețineți să păstrați liniștea în timpul orelor de rugăciune.",
-            "en": "Step inside to marvel at the ornate altar dedicated to the town's patroness, but remember to keep your voice down during silent prayer hours."
+            "en": "Step inside to marvel at the ornate altar dedicated to the town's patroness, but remember to keep your voice down during silent prayer hours.",
+            "es": "Entra para contemplar el altar ornamentado dedicado a la patrona del pueblo, pero recuerda mantener la voz baja durante las horas de oración silenciosa."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Museum der Karwoche",
             "hu": "Nagyhét Múzeuma",
             "ro": "Muzeul Săptămânii Mari",
-            "en": "Holy Week Museum"
+            "en": "Holy Week Museum",
+            "es": "Museo de la Semana Santa"
           },
           "coords": [
             -1.702891,
@@ -82,7 +87,8 @@
             "de": "Entdecken Sie die spektakulären Festwagen der berühmten Karwoche von Hellín und nehmen Sie sich Zeit für die Schilder über die Trommeltradition.",
             "hu": "Fedezze fel Hellín híres nagyhetének látványos kocsijait és jelmezeit, és szánjon időt a dobolási hagyományokat bemutató feliratok elolvasására is.",
             "ro": "Descoperiți carele spectaculoase ale celebrei Săptămâni Mari din Hellín și faceți-vă timp să citiți plăcuțele despre tradiția tobelor specifice locului.",
-            "en": "Discover the spectacular floats and costumes of Hellín's famous Holy Week, and take your time reading the plaques detailing the drumming traditions."
+            "en": "Discover the spectacular floats and costumes of Hellín's famous Holy Week, and take your time reading the plaques detailing the drumming traditions.",
+            "es": "Descubre los espectaculares pasos y trajes de la Semana Santa de Hellín y tómate tu tiempo para leer las placas que explican las tradiciones del tambor."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Einsiedelei von San Rafael",
             "hu": "San Rafael Remetelak",
             "ro": "Schitul San Rafael",
-            "en": "Hermitage of San Rafael"
+            "en": "Hermitage of San Rafael",
+            "es": "Ermita de San Rafael"
           },
           "coords": [
             -1.702687,
@@ -105,7 +112,8 @@
             "de": "Genießen Sie die friedliche Atmosphäre dieser malerischen Einsiedelei auf einem kleinen Hügel und tragen Sie bequeme Schuhe für den kurzen, unebenen Weg.",
             "hu": "Élvezze ennek az enyhe dombon található, festői remetelaknak a békés hangulatát, és viseljen kényelmes cipőt a rövid, de kissé egyenetlen kőösvény miatt.",
             "ro": "Bucurați-vă de atmosfera pașnică a acestui schit pitoresc situat pe un mic deal și purtați încălțăminte comodă pentru aleea de piatră ușor denivelată.",
-            "en": "Enjoy the peaceful atmosphere of this quaint hermitage located on a slight hill, and wear comfortable shoes for the brief but slightly uneven stone pathway."
+            "en": "Enjoy the peaceful atmosphere of this quaint hermitage located on a slight hill, and wear comfortable shoes for the brief but slightly uneven stone pathway.",
+            "es": "Disfruta de la paz de esta pintoresca ermita situada en una ligera colina; lleva calzado cómodo para el breve pero algo irregular camino de piedra."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Städtisches Museum",
             "hu": "Városi Múzeum",
             "ro": "Muzeul Municipal",
-            "en": "Municipal Museum"
+            "en": "Municipal Museum",
+            "es": "Museo Municipal"
           },
           "coords": [
             -1.700629,
@@ -128,7 +137,8 @@
             "de": "Erkunden Sie faszinierende archäologische Funde von der Vorgeschichte bis zur Römerzeit und fragen Sie am Eingang nach dem kostenlosen Audioguide.",
             "hu": "Fedezzen fel lenyűgöző régészeti leleteket az őskortól a római korig, és kérje a bejáratnál a barátságos személyzettől az ingyenesen elérhető audioguide-ot.",
             "ro": "Explorați descoperirile arheologice fascinante din preistorie până în epoca romană și cereți personalului prietenos de la intrare un ghid audio gratuit.",
-            "en": "Explore fascinating archaeological finds spanning from prehistory to Roman times, and ask the friendly staff at the entrance for the free audio guide."
+            "en": "Explore fascinating archaeological finds spanning from prehistory to Roman times, and ask the friendly staff at the entrance for the free audio guide.",
+            "es": "Explora fascinantes hallazgos arqueológicos que abarcan desde la prehistoria hasta la época romana, y pregunta al amable personal en la entrada por la audioguía gratuita."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Victoria Theater",
             "hu": "Victoria Színház",
             "ro": "Teatrul Victoria",
-            "en": "Victoria Theater"
+            "en": "Victoria Theater",
+            "es": "Teatro Victoria"
           },
           "coords": [
             -1.696754,
@@ -151,7 +162,8 @@
             "de": "Bestaunen Sie die klassische Fassade dieses kulturellen Zentrums mitten in der Stadt und prüfen Sie frühzeitig, ob es Abendvorstellungen an der Kasse gibt.",
             "hu": "Csodálja meg ennek a városközpontban található kulturális központnak a klasszikus homlokzatát, és nézze meg a pénztárnál a lehetséges esti előadásokat.",
             "ro": "Admirați fațada clasică a acestui centru cultural aflat chiar în inima orașului și verificați la casa de bilete dacă există spectacole programate seara.",
-            "en": "Marvel at the classical facade of this cultural hub right in the city center, and check the box office early to see if there are any evening performances."
+            "en": "Marvel at the classical facade of this cultural hub right in the city center, and check the box office early to see if there are any evening performances.",
+            "es": "Maravíllate con la fachada clásica de este centro cultural en pleno centro y consulta la taquilla con antelación por si hay funciones nocturnas."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Denkmal der Jungfrau der Kiefer",
             "hu": "Fenyőfa Szűzanya Emlékmű",
             "ro": "Monumentul Fecioarei Pinului",
-            "en": "Monument to the Virgin of the Pine"
+            "en": "Monument to the Virgin of the Pine",
+            "es": "Monumento a la Virgen del Pino"
           },
           "coords": [
             -1.69389,
@@ -174,7 +187,8 @@
             "de": "Beenden Sie Ihren Tag an diesem historischen Mariendenkmal umgeben von Pinien und bringen Sie eine leichte Jacke mit, da es am späten Nachmittag kühl wird.",
             "hu": "Fejezze be a napot ennél a fenyőkkel körülvett történelmi Mária-emlékműnél, és hozzon magával egy könnyű kabátot, mert késő délutánra hűvös szél támadhat.",
             "ro": "Încheiați-vă ziua la acest monument istoric marian înconjurat de pini luxurianți și aduceți o jachetă ușoară, deoarece zona poate fi răcoroasă după-amiaza.",
-            "en": "End your day at this historical Marian monument surrounded by lush pines, bringing a light jacket as the area can get quite breezy in the late afternoon."
+            "en": "End your day at this historical Marian monument surrounded by lush pines, bringing a light jacket as the area can get quite breezy in the late afternoon.",
+            "es": "Termina tu día en este histórico monumento mariano rodeado de frondosos pinos; lleva una chaqueta ligera ya que la zona puede estar ventosa al final de la tarde."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag am charmanten Eselsdenkmal, bevor Sie zum beeindruckenden Heiligtum spazieren, um die kunstvollen Altäre zu bewundern.\n\nTauchen Sie im Museo de la Semana Santa tief in die lokale Kultur ein und erkunden Sie die unglaublichen Festwagen, bevor Sie die friedliche Ermita de San Rafael besuchen.\n\nVerbringen Sie den Nachmittag damit, antike Schätze im Museo Municipal zu entdecken, und genießen Sie einen Spaziergang vorbei an der eleganten Fassade des Teatro Victoria.\n\nBeenden Sie Ihren Rundgang am Denkmal der Virgen del Pino, genießen Sie die Abendbrise und lassen Sie die reiche Geschichte von Hellín Revue passieren.",
         "hu": "Kezdje a napot a bájos Szamár-emlékműnél, majd sétáljon át a lenyűgöző szentélyhez, hogy megcsodálja bonyolult oltárait.\n\nMerüljön el a helyi kultúrában a Museo de la Semana Santa lenyűgöző felvonulási kocsijai között, mielőtt ellátogatna a békés Ermita de San Rafael kápolnába.\n\nTöltse a délutánt ősi kincsek felfedezésével a Városi Múzeumban, majd tegyen egy kellemes sétát a Teatro Victoria elegáns homlokzata előtt.\n\nFejezze be a sétát a Virgen del Pino emlékművénél, élvezze az esti szellőt és elmélkedjen Hellín gazdag történelmi múltján.",
         "ro": "Începeți explorarea la fermecătorul Monumentul Măgarului, apoi îndreptați-vă spre uimitorul Sanctuar pentru a admira altarele sale complexe.\n\nPătrundeți în cultura locală la Museo de la Semana Santa, explorând incredibilele care alegorice, înainte de a vizita pașnica Ermita de San Rafael.\n\nPetreceți-vă după-amiaza descoperind comori antice la Museo Municipal, apoi bucurați-vă de o plimbare relaxantă pe lângă fațada elegantă a Teatro Victoria.\n\nÎncheiați-vă turul pietonal la monumentul Virgen del Pino, bucurându-vă de briza serii și reflectând la istoria bogată a orașului Hellín.",
-        "en": "Start by meeting the charming Donkey Monument, then head to the stunning Sanctuary of Our Lady of the Rosary to admire its intricate altars.\n\nDive deep into local culture at the Holy Week Museum, exploring the incredible parade floats, before visiting the peaceful Hermitage of San Rafael.\n\nSpend your afternoon uncovering ancient treasures at the Municipal Museum, and then enjoy a leisurely walk past the elegant facade of the Victoria Theater.\n\nConclude your walking tour at the monument of the Virgin of the Pine, enjoying the evening breeze and reflecting on the rich historical tapestry of Hellín."
+        "en": "Start by meeting the charming Donkey Monument, then head to the stunning Sanctuary of Our Lady of the Rosary to admire its intricate altars.\n\nDive deep into local culture at the Holy Week Museum, exploring the incredible parade floats, before visiting the peaceful Hermitage of San Rafael.\n\nSpend your afternoon uncovering ancient treasures at the Municipal Museum, and then enjoy a leisurely walk past the elegant facade of the Victoria Theater.\n\nConclude your walking tour at the monument of the Virgin of the Pine, enjoying the evening breeze and reflecting on the rich historical tapestry of Hellín.",
+        "es": "Comienza encontrándote con el encantador Monumento al Burro, luego dirígete al impresionante Santuario de Nuestra Señora del Rosario para admirar sus elaborados altares.\n\nSumérgete en la cultura local en el Museo de la Semana Santa, explorando los increíbles pasos procesionales, antes de visitar la tranquila Ermita de San Rafael.\n\nPasa la tarde descubriendo tesoros antiguos en el Museo Municipal y luego disfruta de un paseo tranquilo frente a la elegante fachada del Teatro Victoria.\n\nConcluye tu ruta a pie en el Monumento a la Virgen del Pino, disfrutando de la brisa nocturna y reflexionando sobre el rico tapiz histórico de Hellín."
       },
       "variants": {
         "rainy": {
@@ -190,7 +205,8 @@
             "de": "Beginnen Sie Ihren nassen Morgen am Eselsdenkmal unter einem Regenschirm und gehen Sie schnell zum Heiligtum. Mittags bietet das Museum der Karwoche hervorragenden Schutz vor dem Regen. Verbringen Sie den Nachmittag trocken im Städtischen Museum und im Victoria Theater. Beenden Sie den Abend an der Jungfrau der Kiefer im mystischen Nieselregen.",
             "hu": "Kezdje az esős reggelt a Szamár-emlékműnél egy esernyő alatt, majd siessen a Szentélybe. Délben a Nagyhét Múzeuma kiváló menedéket nyújt az eső elől. A délutánt töltse szárazon a Városi Múzeum és a Victoria Színház felfedezésével. Az estét a Fenyőfa Szűzanya emlékművénél zárja, misztikus szitáló esőben.",
             "ro": "Începeți dimineața ploioasă la Monumentul Măgarului sub o umbrelă, îndreptându-vă rapid spre Sanctuar. La prânz, Muzeul Săptămânii Mari oferă un adăpost excelent. Petreceți după-amiaza la uscat, explorând Muzeul Municipal și Teatrul Victoria. Încheiați seara la Fecioara Pinului, învăluiți într-o burniță mistică.",
-            "en": "Start your wet morning at the Donkey Monument under an umbrella, quickly heading to the Sanctuary. By noon, the Holy Week Museum provides excellent shelter from the rain. Spend your afternoon staying dry exploring the Municipal Museum and Victoria Theater. Conclude the evening at the Virgin of the Pine, wrapped in a mystical drizzle."
+            "en": "Start your wet morning at the Donkey Monument under an umbrella, quickly heading to the Sanctuary. By noon, the Holy Week Museum provides excellent shelter from the rain. Spend your afternoon staying dry exploring the Municipal Museum and Victoria Theater. Conclude the evening at the Virgin of the Pine, wrapped in a mystical drizzle.",
+            "es": "Comienza la mañana lluviosa en el Monumento al Burro bajo un paraguas, dirígete pronto al Santuario. Al mediodía, el Museo de la Semana Santa ofrece un excelente refugio contra la lluvia. Pasa la tarde explorando a cubierto el Museo Municipal y el Teatro Victoria. Concluye la noche en la Virgen del Pino, envuelto en una llovizna mística."
           },
           "stops": [
             {
@@ -198,13 +214,15 @@
                 "de": "Eselsdenkmal",
                 "hu": "Szamár-emlékmű",
                 "ro": "Monumentul Măgarului",
-                "en": "Donkey Monument"
+                "en": "Donkey Monument",
+                "es": "Monumento al Burro"
               },
               "tip_5lang": {
                 "de": "Machen Sie ein schnelles Foto unter dem Regenschirm, bevor Sie zügig weitergehen.",
                 "hu": "Készítsen egy gyors fotót az esernyő alól, mielőtt továbbállna a fedett helyekre.",
                 "ro": "Faceți o fotografie rapidă sub umbrelă înainte de a merge mai departe.",
-                "en": "Take a quick photo under your umbrella before moving on to find shelter."
+                "en": "Take a quick photo under your umbrella before moving on to find shelter.",
+                "es": "Haz una foto rápida bajo el paraguas antes de buscar refugio."
               }
             },
             {
@@ -212,13 +230,15 @@
                 "de": "Heiligtum Unserer Lieben Frau vom Rosenkranz",
                 "hu": "Rózsafüzér Királynője Szentély",
                 "ro": "Sanctuarul Maicii Domnului a Rozariului",
-                "en": "Sanctuary of Our Lady of the Rosary"
+                "en": "Sanctuary of Our Lady of the Rosary",
+                "es": "Santuario de Nuestra Señora del Rosario"
               },
               "tip_5lang": {
                 "de": "Genießen Sie das trockene, friedliche Innere, während es draußen in Strömen regnet.",
                 "hu": "Élvezze a száraz, békés belső teret, miközben kint esik az eső.",
                 "ro": "Apreciați interiorul uscat și liniștit în timp ce afară plouă neîncetat.",
-                "en": "Appreciate the dry, peaceful interior while the rain continues to fall outside."
+                "en": "Appreciate the dry, peaceful interior while the rain continues to fall outside.",
+                "es": "Aprecia el interior seco y sereno mientras la lluvia cae fuera."
               }
             },
             {
@@ -226,13 +246,15 @@
                 "de": "Museum der Karwoche",
                 "hu": "Nagyhét Múzeuma",
                 "ro": "Muzeul Săptămânii Mari",
-                "en": "Holy Week Museum"
+                "en": "Holy Week Museum",
+                "es": "Museo de la Semana Santa"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Zufluchtsort im Innenbereich, um mehr über lokale Traditionen zu erfahren.",
                 "hu": "Tökéletes beltéri menedék, ahol szárazon tanulmányozhatja a helyi hagyományokat.",
                 "ro": "O evadare interioară perfectă pentru a învăța despre tradițiile locale fără a vă uda.",
-                "en": "A perfect indoor escape to spend hours learning about local traditions without getting wet."
+                "en": "A perfect indoor escape to spend hours learning about local traditions without getting wet.",
+                "es": "Un perfecto refugio interior para pasar horas aprendiendo sobre las tradiciones locales sin mojarte."
               }
             },
             {
@@ -240,13 +262,15 @@
                 "de": "Einsiedelei von San Rafael",
                 "hu": "San Rafael Remetelak",
                 "ro": "Schitul San Rafael",
-                "en": "Hermitage of San Rafael"
+                "en": "Hermitage of San Rafael",
+                "es": "Ermita de San Rafael"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf den nassen und rutschigen Bürgersteig außerhalb dieser historischen Einsiedelei.",
                 "hu": "Ügyeljen a lépéseire a nedves járdán a történelmi remetelak előtt.",
                 "ro": "Atenție la pași pe pavajul umed din fața acestui schit istoric.",
-                "en": "Watch your step on the wet pavement outside this historic hermitage."
+                "en": "Watch your step on the wet pavement outside this historic hermitage.",
+                "es": "Ten cuidado con el pavimento mojado fuera de esta histórica ermita."
               }
             },
             {
@@ -254,13 +278,15 @@
                 "de": "Städtisches Museum",
                 "hu": "Városi Múzeum",
                 "ro": "Muzeul Municipal",
-                "en": "Municipal Museum"
+                "en": "Municipal Museum",
+                "es": "Museo Municipal"
               },
               "tip_5lang": {
                 "de": "Ein weiterer hervorragender, trockener Zufluchtsort voller faszinierender lokaler Artefakte.",
                 "hu": "Újabb kiváló, száraz menedék, tele lenyűgöző helyi leletekkel.",
                 "ro": "Un alt refugiu uscat excelent, plin de artefacte locale fascinante.",
-                "en": "Another excellent dry refuge filled with fascinating local artifacts."
+                "en": "Another excellent dry refuge filled with fascinating local artifacts.",
+                "es": "Otro excelente refugio seco lleno de fascinantes objetos locales."
               }
             },
             {
@@ -268,13 +294,15 @@
                 "de": "Victoria Theater",
                 "hu": "Victoria Színház",
                 "ro": "Teatrul Victoria",
-                "en": "Victoria Theater"
+                "en": "Victoria Theater",
+                "es": "Teatro Victoria"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die großartige Architektur von innen, um komplett trocken zu bleiben.",
                 "hu": "Élvezze a lenyűgöző építészetet belülről, hogy teljesen száraz maradjon.",
                 "ro": "Bucurați-vă de arhitectura grandioasă din interior pentru a rămâne complet uscat.",
-                "en": "Enjoy the grand architecture from the inside to stay completely dry."
+                "en": "Enjoy the grand architecture from the inside to stay completely dry.",
+                "es": "Disfruta de la grandiosa arquitectura desde el interior para mantenerte completamente seco."
               }
             },
             {
@@ -282,13 +310,15 @@
                 "de": "Denkmal der Jungfrau der Kiefer",
                 "hu": "Fenyőfa Szűzanya Emlékmű",
                 "ro": "Monumentul Fecioarei Pinului",
-                "en": "Monument to the Virgin of the Pine"
+                "en": "Monument to the Virgin of the Pine",
+                "es": "Monumento a la Virgen del Pino"
               },
               "tip_5lang": {
                 "de": "Die Kiefern bieten leichten Schutz, aber halten Sie Ihren Regenmantel für diesen Stopp bereit.",
                 "hu": "A fenyőfák némi fedezéket nyújtanak, de tartsa kéznél az esőkabátot.",
                 "ro": "Pinii oferă o ușoară acoperire, dar țineți pelerina de ploaie la îndemână.",
-                "en": "The pine trees offer slight cover, but keep your raincoat handy for this final outdoor stop."
+                "en": "The pine trees offer slight cover, but keep your raincoat handy for this final outdoor stop.",
+                "es": "Los pinos ofrecen cierta cobertura, pero lleva impermeable para esta última parada al aire libre."
               }
             }
           ]
@@ -298,7 +328,8 @@
             "de": "Genießen Sie einen frischen Morgenspaziergang zum Eselsdenkmal, bevor Sie sich im Heiligtum aufwärmen. Mittags erreichen Sie das Museum der Karwoche, ideal, um der Kälte zu entkommen. Die Nachmittagsluft ist frisch beim Besuch der Einsiedelei und des Stadtmuseums. Beenden Sie den Tag im Victoria Theater vor einer frühen Abenddämmerung an der Jungfrau.",
             "hu": "Élvezze a friss, fagyos reggeli sétát a Szamár-emlékműhöz, majd melegedjen fel a Szentélyben. A dél a Nagyhét Múzeumában találja, amely tökéletes a téli hideg elől. A délutáni levegő csípős a Remetelak és a Városi Múzeum környékén. Zárja a napot a Victoria Színháznál, mielőtt a korai sötétedés beállna a Fenyőfa Szűzanyánál.",
             "ro": "Bucurați-vă de o plimbare matinală geroasă până la Monumentul Măgarului înainte de a vă încălzi în Sanctuar. Amiaza vă aduce la Muzeul Săptămânii Mari, perfect pentru a scăpa de frig. Aerul după-amiezii este rece la Schit și Muzeul Municipal. Încheiați ziua la Teatrul Victoria înainte de un amurg timpuriu și rece la Fecioara Pinului.",
-            "en": "Enjoy a crisp morning walk to the Donkey Monument before warming up inside the Sanctuary. Midday brings you to the Holy Week Museum, perfect for escaping the winter chill. The afternoon air is brisk as you visit the Hermitage and Municipal Museum. End the day at the Victoria Theater before a chilly, early dusk at the Virgin of the Pine."
+            "en": "Enjoy a crisp morning walk to the Donkey Monument before warming up inside the Sanctuary. Midday brings you to the Holy Week Museum, perfect for escaping the winter chill. The afternoon air is brisk as you visit the Hermitage and Municipal Museum. End the day at the Victoria Theater before a chilly, early dusk at the Virgin of the Pine.",
+            "es": "Disfruta de una fresca caminata matutina hasta el Monumento al Burro antes de entrar a calentarte en el Santuario. Al mediodía visita el Museo de la Semana Santa, perfecto para escapar del frío invernal. La tarde es fresca al visitar la Ermita y el Museo Municipal. Termina el día en el Teatro Victoria antes de un atardecer temprano y frío en la Virgen del Pino."
           },
           "stops": [
             {
@@ -306,13 +337,15 @@
                 "de": "Eselsdenkmal",
                 "hu": "Szamár-emlékmű",
                 "ro": "Monumentul Măgarului",
-                "en": "Donkey Monument"
+                "en": "Donkey Monument",
+                "es": "Monumento al Burro"
               },
               "tip_5lang": {
                 "de": "Tragen Sie warme Handschuhe für diesen Stopp im Freien, bevor Sie hineingehen.",
                 "hu": "Viseljen meleg kesztyűt ezen a szabadtéri állomáson, mielőtt bemenne melegedni.",
                 "ro": "Purtați mănuși groase pentru această oprire în aer liber înainte de a intra la căldură.",
-                "en": "Wear warm gloves for this outdoor stop before heading inside to warm up."
+                "en": "Wear warm gloves for this outdoor stop before heading inside to warm up.",
+                "es": "Lleva guantes calientes para esta parada al aire libre antes de entrar a calentarte."
               }
             },
             {
@@ -320,13 +353,15 @@
                 "de": "Heiligtum Unserer Lieben Frau vom Rosenkranz",
                 "hu": "Rózsafüzér Királynője Szentély",
                 "ro": "Sanctuarul Maicii Domnului a Rozariului",
-                "en": "Sanctuary of Our Lady of the Rosary"
+                "en": "Sanctuary of Our Lady of the Rosary",
+                "es": "Santuario de Nuestra Señora del Rosario"
               },
               "tip_5lang": {
                 "de": "Die dicken Mauern halten die Winterkälte ab; wärmen Sie sich auf, während Sie den Altar bewundern.",
                 "hu": "A vastag falak kint tartják a téli hideget; melegedjen fel az oltárt csodálva.",
                 "ro": "Pereții groși țin frigul iernii departe; încălziți-vă în timp ce admirați altarul.",
-                "en": "The thick walls keep the winter chill out; warm up while admiring the altar."
+                "en": "The thick walls keep the winter chill out; warm up while admiring the altar.",
+                "es": "Los muros gruesos mantienen fuera el frío invernal; entra en calor mientras admiras el altar."
               }
             },
             {
@@ -334,13 +369,15 @@
                 "de": "Museum der Karwoche",
                 "hu": "Nagyhét Múzeuma",
                 "ro": "Muzeul Săptămânii Mari",
-                "en": "Holy Week Museum"
+                "en": "Holy Week Museum",
+                "es": "Museo de la Semana Santa"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich hier vollständig auf, während Sie die umfangreichen religiösen Exponate erkunden.",
                 "hu": "Melegedjen fel teljesen itt, miközben felfedezi a kiterjedt vallási kiállításokat.",
                 "ro": "Încălziți-vă complet aici în timp ce explorați vastele exponate religioase.",
-                "en": "Warm up fully here while exploring the extensive religious exhibits."
+                "en": "Warm up fully here while exploring the extensive religious exhibits.",
+                "es": "Entra en calor por completo mientras exploras las extensas exposiciones religiosas."
               }
             },
             {
@@ -348,13 +385,15 @@
                 "de": "Einsiedelei von San Rafael",
                 "hu": "San Rafael Remetelak",
                 "ro": "Schitul San Rafael",
-                "en": "Hermitage of San Rafael"
+                "en": "Hermitage of San Rafael",
+                "es": "Ermita de San Rafael"
               },
               "tip_5lang": {
                 "de": "Die höhere Lage bringt frischen Wind mit sich; knöpfen Sie Ihren Wintermantel fest zu!",
                 "hu": "A magasabb fekvés élénk szeleket jelent; gombolja be szorosan a télikabátját!",
                 "ro": "Altitudinea mai mare înseamnă vânturi tăioase; încheiați-vă bine haina de iarnă!",
-                "en": "The higher elevation means brisk winds; button up your winter coat tightly!"
+                "en": "The higher elevation means brisk winds; button up your winter coat tightly!",
+                "es": "La mayor altitud implica vientos frescos; abrocha bien tu abrigo de invierno."
               }
             },
             {
@@ -362,13 +401,15 @@
                 "de": "Städtisches Museum",
                 "hu": "Városi Múzeum",
                 "ro": "Muzeul Municipal",
-                "en": "Municipal Museum"
+                "en": "Municipal Museum",
+                "es": "Museo Municipal"
               },
               "tip_5lang": {
                 "de": "Ein gemütlicher Innenraum, um die lokale Geschichte zu erkunden, wenn der Winternachmittag abkühlt.",
                 "hu": "Hangulatos beltéri tér a helyi történelem felfedezéséhez, ahogy a téli délután lehűl.",
                 "ro": "Un spațiu interior confortabil pentru a explora istoria locală în timp ce după-amiaza de iarnă se răcește.",
-                "en": "A cozy indoor space to explore local history as the winter afternoon cools down."
+                "en": "A cozy indoor space to explore local history as the winter afternoon cools down.",
+                "es": "Un acogedor espacio interior para explorar la historia local mientras la tarde invernal se enfría."
               }
             },
             {
@@ -376,13 +417,15 @@
                 "de": "Victoria Theater",
                 "hu": "Victoria Színház",
                 "ro": "Teatrul Victoria",
-                "en": "Victoria Theater"
+                "en": "Victoria Theater",
+                "es": "Teatro Victoria"
               },
               "tip_5lang": {
                 "de": "Der frühe Winterabend sorgt für eine wunderschöne Stimmung vor diesem warmen Theater.",
                 "hu": "A korai téli este gyönyörű hangulatot varázsol e meleg színház elé.",
                 "ro": "Seara timpurie de iarnă creează o atmosferă frumoasă în fața acestui teatru cald.",
-                "en": "The early winter evening sets a beautiful mood outside this warm theater."
+                "en": "The early winter evening sets a beautiful mood outside this warm theater.",
+                "es": "La temprana noche invernal crea un ambiente hermoso frente a este cálido teatro."
               }
             },
             {
@@ -390,13 +433,15 @@
                 "de": "Denkmal der Jungfrau der Kiefer",
                 "hu": "Fenyőfa Szűzanya Emlékmű",
                 "ro": "Monumentul Fecioarei Pinului",
-                "en": "Monument to the Virgin of the Pine"
+                "en": "Monument to the Virgin of the Pine",
+                "es": "Monumento a la Virgen del Pino"
               },
               "tip_5lang": {
                 "de": "Packen Sie sich warm ein, da die Winterdämmerung an diesem Freiluftdenkmal schnell näher rückt.",
                 "hu": "Öltözzön fel melegen, mivel a téli szürkület gyorsan közeledik ehhez a szabadtéri emlékműhöz.",
                 "ro": "Îmbrăcați-vă gros, deoarece amurgul de iarnă se apropie rapid de acest monument.",
-                "en": "Bundle up tight as the winter dusk approaches quickly at this outdoor monument."
+                "en": "Bundle up tight as the winter dusk approaches quickly at this outdoor monument.",
+                "es": "Abrígate bien porque el anochecer invernal llega pronto en este monumento al aire libre."
               }
             }
           ]
@@ -416,7 +461,8 @@
             "de": "Kreuz der Gefallenen",
             "hu": "Az Elesettek Keresztje",
             "ro": "Crucea Celor Căzuți",
-            "en": "Cross of the Fallen"
+            "en": "Cross of the Fallen",
+            "es": "Cruz de los Caídos"
           },
           "coords": [
             -1.700881,
@@ -431,7 +477,8 @@
             "de": "Betrachten Sie dieses feierliche historische Kreuz für die Gefallenen und lesen Sie die umgebenden Informationstafeln, um den Kontext besser zu verstehen.",
             "hu": "Tekintse meg ezt az elesetteknek szentelt ünnepélyes történelmi keresztet, és szánjon egy percet a környező kontextust bemutató panelek elolvasására is.",
             "ro": "Observați această cruce istorică solemnă dedicată celor căzuți și faceți-vă timp să citiți panourile cu context istoric pentru o înțelegere mai profundă.",
-            "en": "Observe this solemn historical cross dedicated to the fallen, and take a moment to read the surrounding historical context panels for deeper understanding."
+            "en": "Observe this solemn historical cross dedicated to the fallen, and take a moment to read the surrounding historical context panels for deeper understanding.",
+            "es": "Observa esta solemne cruz histórica dedicada a los caídos y tómate un momento para leer los paneles informativos que la rodean para una comprensión más profunda."
           }
         },
         {
@@ -439,7 +486,8 @@
             "de": "Eselsdenkmal",
             "hu": "Szamár-emlékmű",
             "ro": "Monumentul Măgarului",
-            "en": "Donkey Monument"
+            "en": "Donkey Monument",
+            "es": "Monumento al Burro"
           },
           "coords": [
             -1.70731,
@@ -454,7 +502,8 @@
             "de": "Bewundern Sie dieses einzigartige Denkmal für die historische Rolle des Esels in der lokalen Landwirtschaft und machen Sie früh ein Foto ohne grelles Licht.",
             "hu": "Csodálja meg a helyi mezőgazdaságban fontos szerepet játszó szamár egyedi emlékművét, és készítsen egy gyors fotót még a déli erős napfény előtt.",
             "ro": "Admirați acest monument unic ce celebrează rolul istoric al măgarului în agricultura locală și faceți o fotografie dimineața pentru a evita lumina puternică.",
-            "en": "Admire this unique monument celebrating the humble donkey's historical role in local agriculture, and snap a quick photo early to avoid the midday glare."
+            "en": "Admire this unique monument celebrating the humble donkey's historical role in local agriculture, and snap a quick photo early to avoid the midday glare.",
+            "es": "Admira este singular monumento que celebra el papel histórico del humilde burro en la agricultura local y toma una foto rápida temprano para evitar el brillo del mediodía."
           }
         },
         {
@@ -462,7 +511,8 @@
             "de": "Heiligtum Unserer Lieben Frau vom Rosenkranz",
             "hu": "Rózsafüzér Királynője Szentély",
             "ro": "Sanctuarul Maicii Domnului a Rozariului",
-            "en": "Sanctuary of Our Lady of the Rosary"
+            "en": "Sanctuary of Our Lady of the Rosary",
+            "es": "Santuario de Nuestra Señora del Rosario"
           },
           "coords": [
             -1.704299,
@@ -477,7 +527,8 @@
             "de": "Treten Sie ein, um den kunstvollen Altar für die Schutzpatronin zu bewundern, aber denken Sie daran, während der stillen Gebetszeiten leise zu sein.",
             "hu": "Lépjen be, hogy megcsodálja a város védőszentjének díszes oltárát, de ügyeljen arra, hogy a csendes imádságok idején halkan beszéljen a padok között.",
             "ro": "Pășiți înăuntru pentru a admira altarul ornamentat dedicat patroanei orașului, dar rețineți să păstrați liniștea în timpul orelor de rugăciune.",
-            "en": "Step inside to marvel at the ornate altar dedicated to the town's patroness, but remember to keep your voice down during silent prayer hours."
+            "en": "Step inside to marvel at the ornate altar dedicated to the town's patroness, but remember to keep your voice down during silent prayer hours.",
+            "es": "Entra para maravillarte con el ornamentado altar dedicado a la patrona del pueblo, pero recuerda mantener la voz baja durante las horas de oración en silencio."
           }
         },
         {
@@ -485,7 +536,8 @@
             "de": "Museum der Karwoche",
             "hu": "Nagyhét Múzeuma",
             "ro": "Muzeul Săptămânii Mari",
-            "en": "Holy Week Museum"
+            "en": "Holy Week Museum",
+            "es": "Museo de la Semana Santa"
           },
           "coords": [
             -1.702891,
@@ -500,7 +552,8 @@
             "de": "Entdecken Sie die spektakulären Festwagen der berühmten Karwoche von Hellín und nehmen Sie sich Zeit für die Schilder über die Trommeltradition.",
             "hu": "Fedezze fel Hellín híres nagyhetének látványos kocsijait és jelmezeit, és szánjon időt a dobolási hagyományokat bemutató feliratok elolvasására is.",
             "ro": "Descoperiți carele spectaculoase ale celebrei Săptămâni Mari din Hellín și faceți-vă timp să citiți plăcuțele despre tradiția tobelor specifice locului.",
-            "en": "Discover the spectacular floats and costumes of Hellín's famous Holy Week, and take your time reading the plaques detailing the drumming traditions."
+            "en": "Discover the spectacular floats and costumes of Hellín's famous Holy Week, and take your time reading the plaques detailing the drumming traditions.",
+            "es": "Descubre los espectaculares pasos y trajes de la famosa Semana Santa de Hellín y tómate tu tiempo para leer las placas que detallan las tradiciones del tambor."
           }
         },
         {
@@ -508,7 +561,8 @@
             "de": "Städtisches Museum",
             "hu": "Városi Múzeum",
             "ro": "Muzeul Municipal",
-            "en": "Municipal Museum"
+            "en": "Municipal Museum",
+            "es": "Museo Municipal"
           },
           "coords": [
             -1.700629,
@@ -523,7 +577,8 @@
             "de": "Erkunden Sie faszinierende archäologische Funde von der Vorgeschichte bis zur Römerzeit und fragen Sie am Eingang nach dem kostenlosen Audioguide.",
             "hu": "Fedezzen fel lenyűgöző régészeti leleteket az őskortól a római korig, és kérje a bejáratnál a barátságos személyzettől az ingyenesen elérhető audioguide-ot.",
             "ro": "Explorați descoperirile arheologice fascinante din preistorie până în epoca romană și cereți personalului prietenos de la intrare un ghid audio gratuit.",
-            "en": "Explore fascinating archaeological finds spanning from prehistory to Roman times, and ask the friendly staff at the entrance for the free audio guide."
+            "en": "Explore fascinating archaeological finds spanning from prehistory to Roman times, and ask the friendly staff at the entrance for the free audio guide.",
+            "es": "Explora fascinantes hallazgos arqueológicos que abarcan desde la prehistoria hasta la época romana, y pregunta al amable personal en la entrada por la audioguía gratuita."
           }
         },
         {
@@ -531,7 +586,8 @@
             "de": "Einsiedelei von San Rafael",
             "hu": "San Rafael Remetelak",
             "ro": "Schitul San Rafael",
-            "en": "Hermitage of San Rafael"
+            "en": "Hermitage of San Rafael",
+            "es": "Ermita de San Rafael"
           },
           "coords": [
             -1.702687,
@@ -546,7 +602,8 @@
             "de": "Genießen Sie die friedliche Atmosphäre dieser malerischen Einsiedelei auf einem kleinen Hügel und tragen Sie bequeme Schuhe für den kurzen, unebenen Weg.",
             "hu": "Élvezze ennek az enyhe dombon található, festői remetelaknak a békés hangulatát, és viseljen kényelmes cipőt a rövid, de kissé egyenetlen kőösvény miatt.",
             "ro": "Bucurați-vă de atmosfera pașnică a acestui schit pitoresc situat pe un mic deal și purtați încălțăminte comodă pentru aleea de piatră ușor denivelată.",
-            "en": "Enjoy the peaceful atmosphere of this quaint hermitage located on a slight hill, and wear comfortable shoes for the brief but slightly uneven stone pathway."
+            "en": "Enjoy the peaceful atmosphere of this quaint hermitage located on a slight hill, and wear comfortable shoes for the brief but slightly uneven stone pathway.",
+            "es": "Disfruta de la atmósfera tranquila de esta pintoresca ermita situada en una ligera colina y lleva calzado cómodo para el breve pero algo irregular camino de piedra."
           }
         },
         {
@@ -554,7 +611,8 @@
             "de": "Victoria Theater",
             "hu": "Victoria Színház",
             "ro": "Teatrul Victoria",
-            "en": "Victoria Theater"
+            "en": "Victoria Theater",
+            "es": "Teatro Victoria"
           },
           "coords": [
             -1.696754,
@@ -569,7 +627,8 @@
             "de": "Bestaunen Sie die klassische Fassade dieses kulturellen Zentrums mitten in der Stadt und prüfen Sie frühzeitig, ob es Abendvorstellungen an der Kasse gibt.",
             "hu": "Csodálja meg ennek a városközpontban található kulturális központnak a klasszikus homlokzatát, és nézze meg a pénztárnál a lehetséges esti előadásokat.",
             "ro": "Admirați fațada clasică a acestui centru cultural aflat chiar în inima orașului și verificați la casa de bilete dacă există spectacole programate seara.",
-            "en": "Marvel at the classical facade of this cultural hub right in the city center, and check the box office early to see if there are any evening performances."
+            "en": "Marvel at the classical facade of this cultural hub right in the city center, and check the box office early to see if there are any evening performances.",
+            "es": "Maravíllate con la fachada clásica de este centro cultural en pleno centro y consulta la taquilla con antelación por si hay funciones nocturnas."
           }
         },
         {
@@ -577,7 +636,8 @@
             "de": "Denkmal der Jungfrau der Kiefer",
             "hu": "Fenyőfa Szűzanya Emlékmű",
             "ro": "Monumentul Fecioarei Pinului",
-            "en": "Monument to the Virgin of the Pine"
+            "en": "Monument to the Virgin of the Pine",
+            "es": "Monumento a la Virgen del Pino"
           },
           "coords": [
             -1.69389,
@@ -592,7 +652,8 @@
             "de": "Beenden Sie Ihren Tag an diesem historischen Mariendenkmal umgeben von Pinien und bringen Sie eine leichte Jacke mit, da es am späten Nachmittag kühl wird.",
             "hu": "Fejezze be a napot ennél a fenyőkkel körülvett történelmi Mária-emlékműnél, és hozzon magával egy könnyű kabátot, mert késő délutánra hűvös szél támadhat.",
             "ro": "Încheiați-vă ziua la acest monument istoric marian înconjurat de pini luxurianți și aduceți o jachetă ușoară, deoarece zona poate fi răcoroasă după-amiaza.",
-            "en": "End your day at this historical Marian monument surrounded by lush pines, bringing a light jacket as the area can get quite breezy in the late afternoon."
+            "en": "End your day at this historical Marian monument surrounded by lush pines, bringing a light jacket as the area can get quite breezy in the late afternoon.",
+            "es": "Termina tu día en este histórico monumento mariano rodeado de frondosos pinos; lleva una chaqueta ligera ya que la zona puede estar ventosa al final de la tarde."
           }
         }
       ],
@@ -600,7 +661,8 @@
         "de": "Das Radeln durch Hellín beginnt am feierlichen Kreuz der Gefallenen, bevor Sie eine kurze Fahrt zum skurrilen Eselsdenkmal und dem schönen Heiligtum unternehmen.\n\nRadeln Sie zum Museum der Karwoche, um mehr über die Trommeltraditionen von Hellín zu erfahren, und erkunden Sie dann die archäologischen Wunder des Städtischen Museums.\n\nNachdem Sie die Geschichte entdeckt haben, fahren Sie leicht bergauf zur bezaubernden Einsiedelei von San Rafael und genießen die friedliche Aussicht von oben.\n\nGleiten Sie für eine kulturelle Pause hinunter zum Victoria Theater und beenden Sie Ihr Radabenteuer schließlich am Denkmal der Jungfrau der Kiefer.",
         "hu": "A hellíni kerékpározás az ünnepélyes Elesettek Keresztjénél kezdődik, majd egy rövid út vezet a mókás Szamár-emlékműhöz és a szép szentélyhez.\n\nKarikázzon el a Nagyhét Múzeumához, hogy megismerje a hellíni dobolási hagyományokat, majd fedezze fel a Városi Múzeum régészeti csodáit.\n\nA helyi történelem felfedezése után tekerjen fel kissé a bájos San Rafael Remetelakhoz, és élvezze a magasabb pontról nyíló nyugodt kilátást.\n\nGuruljon le a Victoria Színházhoz egy kulturális szünetre, majd fejezze be a kerékpáros kalandot a suttogó fenyőkkel körülvett Fenyőfa Szűzanyánál.",
         "ro": "Pedalatul prin Hellín începe la solemna Cruce a Celor Căzuți înainte de a face o scurtă plimbare spre excentricul Monument al Măgarului și frumosul sanctuar.\n\nMergeți cu bicicleta la Muzeul Săptămânii Mari pentru a afla despre tradiția tobelor, apoi explorați minunile arheologice ale Muzeului Municipal.\n\nDupă ce descoperiți istoria locală, urcați ușor spre fermecătorul Schit San Rafael, bucurându-vă de priveliștile senine de pe terenul mai înalt.\n\nCoborâți spre Teatrul Victoria pentru o pauză culturală, încheind aventura pe două roți la monumentul Fecioarei Pinului înconjurat de pini șoptitori.",
-        "en": "Pedaling through Hellín starts at the solemn Cross of the Fallen before taking a short ride to the quirky Donkey Monument and the lovely sanctuary.\n\nCycle to the Holy Week Museum to learn about Hellín's drumming traditions, then safely park to explore the Municipal Museum's archaeological wonders.\n\nAfter discovering local history, ride up slightly to the charming Hermitage of San Rafael, soaking in the serene views from the higher ground before descending.\n\nGlide down to the Victoria Theater for a cultural pause, finally ending your cycling adventure at the monument of the Virgin of the Pine surrounded by whispering pines."
+        "en": "Pedaling through Hellín starts at the solemn Cross of the Fallen before taking a short ride to the quirky Donkey Monument and the lovely sanctuary.\n\nCycle to the Holy Week Museum to learn about Hellín's drumming traditions, then safely park to explore the Municipal Museum's archaeological wonders.\n\nAfter discovering local history, ride up slightly to the charming Hermitage of San Rafael, soaking in the serene views from the higher ground before descending.\n\nGlide down to the Victoria Theater for a cultural pause, finally ending your cycling adventure at the monument of the Virgin of the Pine surrounded by whispering pines.",
+        "es": "Recorrer Hellín en bicicleta comienza en la solemne Cruz de los Caídos antes de un corto paseo hasta el peculiar Monumento al Burro y el encantador santuario.\n\nPedalea hasta el Museo de la Semana Santa para aprender sobre las tradiciones del tambor de Hellín, y deja la bici a buen recaudo para explorar las maravillas arqueológicas del Museo Municipal.\n\nTras descubrir la historia local, sube un poco hasta la coqueta Ermita de San Rafael, contemplando las serenas vistas desde lo alto antes de descender.\n\nDeslízate hasta el Teatro Victoria para una pausa cultural y termina tu aventura ciclista en el Monumento a la Virgen del Pino, rodeado de pinos susurrantes."
       },
       "variants": {
         "rainy": {
@@ -608,7 +670,8 @@
             "de": "Ein nasser Radmorgen beginnt am Kreuz und Eselsdenkmal – bremsen Sie vorsichtig auf rutschigen Straßen. Suchen Sie mittags Zuflucht im Heiligtum und im Museum der Karwoche. Die Nachmittagsfahrt erfordert bei Regen besondere Vorsicht zum Stadtmuseum und zur Einsiedelei. Parken Sie abends vorsichtig am Theater und an der Jungfrau der Kiefer.",
             "hu": "A nedves kerékpáros reggel a Keresztnél és a Szamár-emlékműnél indul – óvatosan fékezzen a csúszós utakon. Délben keressen menedéket a Szentélyben és a Nagyhét Múzeumában. A délutáni tekerés extra óvatosságot igényel az esőben a Múzeum és a Remetelak felé. Este óvatosan parkoljon le a Színháznál és a Fenyőfa Szűzanyánál.",
             "ro": "Dimineața ploioasă de ciclism începe la Cruce și Monumentul Măgarului; frânați ușor pe drumul alunecos. Căutați refugiu la prânz în Sanctuar și Muzeul Săptămânii Mari. Plimbarea de după-amiază necesită prudență spre Muzeul Municipal și Schit. Parcați cu grijă seara la Teatru și la Fecioara Pinului.",
-            "en": "A wet cycling morning starts at the Cross and Donkey Monument—brake gently on slick roads. Seek refuge by noon at the Sanctuary and Holy Week Museum. The afternoon ride requires extra caution towards the Municipal Museum and Hermitage as the rain continues. Park carefully for your evening stops at the Theater and the Virgin of the Pine."
+            "en": "A wet cycling morning starts at the Cross and Donkey Monument—brake gently on slick roads. Seek refuge by noon at the Sanctuary and Holy Week Museum. The afternoon ride requires extra caution towards the Municipal Museum and Hermitage as the rain continues. Park carefully for your evening stops at the Theater and the Virgin of the Pine.",
+            "es": "Una mañana de ciclismo con lluvia comienza en la Cruz y el Monumento al Burro: frena con suavidad en las carreteras resbaladizas. Busca refugio al mediodía en el Santuario y el Museo de la Semana Santa. La ruta de la tarde requiere precaución extra hacia el Museo Municipal y la Ermita mientras continúa la lluvia. Aparca con cuidado para tus paradas nocturnas en el Teatro y la Virgen del Pino."
           },
           "stops": [
             {
@@ -616,13 +679,15 @@
                 "de": "Kreuz der Gefallenen",
                 "hu": "Az Elesettek Keresztje",
                 "ro": "Crucea Celor Căzuți",
-                "en": "Cross of the Fallen"
+                "en": "Cross of the Fallen",
+                "es": "Cruz de los Caídos"
               },
               "tip_5lang": {
                 "de": "Rutschige Steine um das Kreuz; steigen Sie bei Regen vorsichtig von Ihrem Fahrrad ab.",
                 "hu": "A kereszt körüli kövek csúszósak; esőben óvatosan szálljon le a kerékpárról.",
                 "ro": "Pietre alunecoase în jurul crucii; descălecați cu grijă de pe bicicletă pe ploaie.",
-                "en": "Slippery stones around the cross; dismount your bike carefully in the rain."
+                "en": "Slippery stones around the cross; dismount your bike carefully in the rain.",
+                "es": "Piedras resbaladizas alrededor de la cruz; desmonta con cuidado de la bicicleta bajo la lluvia."
               }
             },
             {
@@ -630,13 +695,15 @@
                 "de": "Eselsdenkmal",
                 "hu": "Szamár-emlékmű",
                 "ro": "Monumentul Măgarului",
-                "en": "Donkey Monument"
+                "en": "Donkey Monument",
+                "es": "Monumento al Burro"
               },
               "tip_5lang": {
                 "de": "Machen Sie ein schnelles Foto unter dem Regenschirm, bevor Sie zügig weiterfahren.",
                 "hu": "Készítsen egy gyors fotót az esernyő alól, mielőtt továbbtekerne a fedett helyekre.",
                 "ro": "Faceți o fotografie rapidă sub umbrelă înainte de a pedala mai departe.",
-                "en": "Take a quick photo under your umbrella before cycling on to find shelter."
+                "en": "Take a quick photo under your umbrella before cycling on to find shelter.",
+                "es": "Haz una foto rápida bajo el paraguas antes de continuar en bicicleta para buscar refugio."
               }
             },
             {
@@ -644,13 +711,15 @@
                 "de": "Heiligtum Unserer Lieben Frau vom Rosenkranz",
                 "hu": "Rózsafüzér Királynője Szentély",
                 "ro": "Sanctuarul Maicii Domnului a Rozariului",
-                "en": "Sanctuary of Our Lady of the Rosary"
+                "en": "Sanctuary of Our Lady of the Rosary",
+                "es": "Santuario de Nuestra Señora del Rosario"
               },
               "tip_5lang": {
                 "de": "Genießen Sie das trockene, friedliche Innere, während es draußen in Strömen regnet.",
                 "hu": "Élvezze a száraz, békés belső teret, miközben kint esik az eső.",
                 "ro": "Apreciați interiorul uscat și liniștit în timp ce afară plouă neîncetat.",
-                "en": "Appreciate the dry, peaceful interior while the rain continues to fall outside."
+                "en": "Appreciate the dry, peaceful interior while the rain continues to fall outside.",
+                "es": "Aprecia el interior seco y sereno mientras la lluvia continúa cayendo fuera."
               }
             },
             {
@@ -658,13 +727,15 @@
                 "de": "Museum der Karwoche",
                 "hu": "Nagyhét Múzeuma",
                 "ro": "Muzeul Săptămânii Mari",
-                "en": "Holy Week Museum"
+                "en": "Holy Week Museum",
+                "es": "Museo de la Semana Santa"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Zufluchtsort im Innenbereich, um mehr über lokale Traditionen zu erfahren.",
                 "hu": "Tökéletes beltéri menedék, ahol szárazon tanulmányozhatja a helyi hagyományokat.",
                 "ro": "O evadare interioară perfectă pentru a învăța despre tradițiile locale fără a vă uda.",
-                "en": "A perfect indoor escape to spend hours learning about local traditions without getting wet."
+                "en": "A perfect indoor escape to spend hours learning about local traditions without getting wet.",
+                "es": "Un perfecto refugio interior para pasar horas aprendiendo sobre las tradiciones locales sin mojarte."
               }
             },
             {
@@ -672,13 +743,15 @@
                 "de": "Städtisches Museum",
                 "hu": "Városi Múzeum",
                 "ro": "Muzeul Municipal",
-                "en": "Municipal Museum"
+                "en": "Municipal Museum",
+                "es": "Museo Municipal"
               },
               "tip_5lang": {
                 "de": "Ein weiterer hervorragender, trockener Zufluchtsort voller faszinierender lokaler Artefakte.",
                 "hu": "Újabb kiváló, száraz menedék, tele lenyűgöző helyi leletekkel.",
                 "ro": "Un alt refugiu uscat excelent, plin de artefacte locale fascinante.",
-                "en": "Another excellent dry refuge filled with fascinating local artifacts."
+                "en": "Another excellent dry refuge filled with fascinating local artifacts.",
+                "es": "Otro excelente refugio seco lleno de fascinantes objetos locales."
               }
             },
             {
@@ -686,13 +759,15 @@
                 "de": "Einsiedelei von San Rafael",
                 "hu": "San Rafael Remetelak",
                 "ro": "Schitul San Rafael",
-                "en": "Hermitage of San Rafael"
+                "en": "Hermitage of San Rafael",
+                "es": "Ermita de San Rafael"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf den nassen und rutschigen Bürgersteig außerhalb dieser historischen Einsiedelei.",
                 "hu": "Ügyeljen a lépéseire a nedves járdán a történelmi remetelak előtt.",
                 "ro": "Atenție la pași pe pavajul umed din fața acestui schit istoric.",
-                "en": "Watch your step on the wet pavement outside this historic hermitage."
+                "en": "Watch your step on the wet pavement outside this historic hermitage.",
+                "es": "Ten cuidado con el pavimento mojado fuera de esta histórica ermita."
               }
             },
             {
@@ -700,13 +775,15 @@
                 "de": "Victoria Theater",
                 "hu": "Victoria Színház",
                 "ro": "Teatrul Victoria",
-                "en": "Victoria Theater"
+                "en": "Victoria Theater",
+                "es": "Teatro Victoria"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die großartige Architektur von innen, um komplett trocken zu bleiben.",
                 "hu": "Élvezze a lenyűgöző építészetet belülről, hogy teljesen száraz maradjon.",
                 "ro": "Bucurați-vă de arhitectura grandioasă din interior pentru a rămâne complet uscat.",
-                "en": "Enjoy the grand architecture from the inside to stay completely dry."
+                "en": "Enjoy the grand architecture from the inside to stay completely dry.",
+                "es": "Disfruta de la grandiosa arquitectura desde el interior para mantenerte completamente seco."
               }
             },
             {
@@ -714,13 +791,15 @@
                 "de": "Denkmal der Jungfrau der Kiefer",
                 "hu": "Fenyőfa Szűzanya Emlékmű",
                 "ro": "Monumentul Fecioarei Pinului",
-                "en": "Monument to the Virgin of the Pine"
+                "en": "Monument to the Virgin of the Pine",
+                "es": "Monumento a la Virgen del Pino"
               },
               "tip_5lang": {
                 "de": "Die Kiefern bieten leichten Schutz, aber halten Sie Ihren Regenmantel für diesen Stopp bereit.",
                 "hu": "A fenyőfák némi fedezéket nyújtanak, de tartsa kéznél az esőkabátot.",
                 "ro": "Pinii oferă o ușoară acoperire, dar țineți pelerina de ploaie la îndemână.",
-                "en": "The pine trees offer slight cover, but keep your raincoat handy for this final outdoor stop."
+                "en": "The pine trees offer slight cover, but keep your raincoat handy for this final outdoor stop.",
+                "es": "Los pinos ofrecen cierta cobertura, pero lleva impermeable para esta última parada al aire libre."
               }
             }
           ]
@@ -730,7 +809,8 @@
             "de": "Packen Sie sich warm ein für eine kühle Morgenfahrt zum Kreuz und Eselsdenkmal. Wärmen Sie mittags Ihre Hände im Heiligtum und im Museum auf. Das Treten am Nachmittag hält Sie warm, während Sie das Stadtmuseum und die Einsiedelei besuchen. Prüfen Sie Ihr Fahrradlicht für den frühen Sonnenuntergang am Theater.",
             "hu": "Öltözzön fel melegen a csípős reggeli tekeréshez a Kereszthez és a Szamár-emlékműhöz. Délben melegítse fel a kezét a Szentélyben és a Múzeumban. A délutáni pedálozás segít megőrizni a testhőt a Városi Múzeum és a Remetelak meglátogatásakor. Gondoskodjon a kerékpár lámpáiról a korai téli naplemente miatt.",
             "ro": "Îmbrăcați-vă gros pentru o plimbare matinală rece spre Cruce și Monumentul Măgarului. Încălziți-vă mâinile la prânz în Sanctuar și Muzeul Săptămânii Mari. Pedalarea de după-amiază vă menține temperatura ridicată vizitând Muzeul Municipal și Schitul. Asigurați-vă că farurile funcționează pentru apusul timpuriu.",
-            "en": "Bundle up for a chilly morning ride to the Cross and Donkey Monument. Warm your hands by noon indoors at the Sanctuary and Holy Week Museum. Afternoon pedaling keeps your body heat up as you visit the Municipal Museum and Hermitage. Ensure your bike lights work for the early winter sunset at the Theater."
+            "en": "Bundle up for a chilly morning ride to the Cross and Donkey Monument. Warm your hands by noon indoors at the Sanctuary and Holy Week Museum. Afternoon pedaling keeps your body heat up as you visit the Municipal Museum and Hermitage. Ensure your bike lights work for the early winter sunset at the Theater.",
+            "es": "Abrígate para una fría salida en bici hasta la Cruz y el Monumento al Burro. Calienta las manos al mediodía en el interior del Santuario y el Museo de la Semana Santa. El pedaleo de la tarde mantiene el calor corporal mientras visitas el Museo Municipal y la Ermita. Asegúrate de que las luces de la bicicleta funcionen para la puesta de sol invernal."
           },
           "stops": [
             {
@@ -738,13 +818,15 @@
                 "de": "Kreuz der Gefallenen",
                 "hu": "Az Elesettek Keresztje",
                 "ro": "Crucea Celor Căzuți",
-                "en": "Cross of the Fallen"
+                "en": "Cross of the Fallen",
+                "es": "Cruz de los Caídos"
               },
               "tip_5lang": {
                 "de": "Auf den Steinen kann sich Frost bilden; seien Sie bei diesem kühlen Morgenstopp vorsichtig.",
                 "hu": "Dér képződhet a köveken; legyen óvatos ezen a csípős reggeli megállón.",
                 "ro": "Se poate forma brumă pe pietre; fiți atenți în timpul acestei opriri reci de dimineață.",
-                "en": "Frost can form on the stones; be careful during this chilly morning bike stop."
+                "en": "Frost can form on the stones; be careful during this chilly morning bike stop.",
+                "es": "Puede formarse escarcha en las piedras; ten cuidado en esta fría parada matinal en bici."
               }
             },
             {
@@ -752,13 +834,15 @@
                 "de": "Eselsdenkmal",
                 "hu": "Szamár-emlékmű",
                 "ro": "Monumentul Măgarului",
-                "en": "Donkey Monument"
+                "en": "Donkey Monument",
+                "es": "Monumento al Burro"
               },
               "tip_5lang": {
                 "de": "Tragen Sie warme Handschuhe für diesen Stopp im Freien, bevor Sie hineingehen.",
                 "hu": "Viseljen meleg kesztyűt ezen a szabadtéri állomáson, mielőtt bemenne melegedni.",
                 "ro": "Purtați mănuși groase pentru această oprire în aer liber înainte de a intra la căldură.",
-                "en": "Wear warm gloves for this outdoor stop before heading inside to warm up."
+                "en": "Wear warm gloves for this outdoor stop before heading inside to warm up.",
+                "es": "Lleva guantes cálidos para esta parada al aire libre antes de entrar a calentarte."
               }
             },
             {
@@ -766,13 +850,15 @@
                 "de": "Heiligtum Unserer Lieben Frau vom Rosenkranz",
                 "hu": "Rózsafüzér Királynője Szentély",
                 "ro": "Sanctuarul Maicii Domnului a Rozariului",
-                "en": "Sanctuary of Our Lady of the Rosary"
+                "en": "Sanctuary of Our Lady of the Rosary",
+                "es": "Santuario de Nuestra Señora del Rosario"
               },
               "tip_5lang": {
                 "de": "Die dicken Mauern halten die Winterkälte ab; wärmen Sie sich auf, während Sie den Altar bewundern.",
                 "hu": "A vastag falak kint tartják a téli hideget; melegedjen fel az oltárt csodálva.",
                 "ro": "Pereții groși țin frigul iernii departe; încălziți-vă în timp ce admirați altarul.",
-                "en": "The thick walls keep the winter chill out; warm up while admiring the altar."
+                "en": "The thick walls keep the winter chill out; warm up while admiring the altar.",
+                "es": "Los muros gruesos mantienen fuera el frío invernal; entra en calor mientras admiras el altar."
               }
             },
             {
@@ -780,13 +866,15 @@
                 "de": "Museum der Karwoche",
                 "hu": "Nagyhét Múzeuma",
                 "ro": "Muzeul Săptămânii Mari",
-                "en": "Holy Week Museum"
+                "en": "Holy Week Museum",
+                "es": "Museo de la Semana Santa"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich hier vollständig auf, während Sie die umfangreichen religiösen Exponate erkunden.",
                 "hu": "Melegedjen fel teljesen itt, miközben felfedezi a kiterjedt vallási kiállításokat.",
                 "ro": "Încălziți-vă complet aici în timp ce explorați vastele exponate religioase.",
-                "en": "Warm up fully here while exploring the extensive religious exhibits."
+                "en": "Warm up fully here while exploring the extensive religious exhibits.",
+                "es": "Entra en calor por completo mientras exploras las extensas exposiciones religiosas."
               }
             },
             {
@@ -794,13 +882,15 @@
                 "de": "Städtisches Museum",
                 "hu": "Városi Múzeum",
                 "ro": "Muzeul Municipal",
-                "en": "Municipal Museum"
+                "en": "Municipal Museum",
+                "es": "Museo Municipal"
               },
               "tip_5lang": {
                 "de": "Ein gemütlicher Innenraum, um die lokale Geschichte zu erkunden, wenn der Winternachmittag abkühlt.",
                 "hu": "Hangulatos beltéri tér a helyi történelem felfedezéséhez, ahogy a téli délután lehűl.",
                 "ro": "Un spațiu interior confortabil pentru a explora istoria locală în timp ce după-amiaza de iarnă se răcește.",
-                "en": "A cozy indoor space to explore local history as the winter afternoon cools down."
+                "en": "A cozy indoor space to explore local history as the winter afternoon cools down.",
+                "es": "Un acogedor espacio interior para explorar la historia local mientras la tarde invernal se enfría."
               }
             },
             {
@@ -808,13 +898,15 @@
                 "de": "Einsiedelei von San Rafael",
                 "hu": "San Rafael Remetelak",
                 "ro": "Schitul San Rafael",
-                "en": "Hermitage of San Rafael"
+                "en": "Hermitage of San Rafael",
+                "es": "Ermita de San Rafael"
               },
               "tip_5lang": {
                 "de": "Die höhere Lage bringt frischen Wind mit sich; knöpfen Sie Ihren Wintermantel fest zu!",
                 "hu": "A magasabb fekvés élénk szeleket jelent; gombolja be szorosan a télikabátját!",
                 "ro": "Altitudinea mai mare înseamnă vânturi tăioase; încheiați-vă bine haina de iarnă!",
-                "en": "The higher elevation means brisk winds; button up your winter coat tightly!"
+                "en": "The higher elevation means brisk winds; button up your winter coat tightly!",
+                "es": "La mayor altitud implica vientos frescos; abrocha bien tu abrigo de invierno."
               }
             },
             {
@@ -822,13 +914,15 @@
                 "de": "Victoria Theater",
                 "hu": "Victoria Színház",
                 "ro": "Teatrul Victoria",
-                "en": "Victoria Theater"
+                "en": "Victoria Theater",
+                "es": "Teatro Victoria"
               },
               "tip_5lang": {
                 "de": "Der frühe Winterabend sorgt für eine wunderschöne Stimmung vor diesem warmen Theater.",
                 "hu": "A korai téli este gyönyörű hangulatot varázsol e meleg színház elé.",
                 "ro": "Seara timpurie de iarnă creează o atmosferă frumoasă în fața acestui teatru cald.",
-                "en": "The early winter evening sets a beautiful mood outside this warm theater."
+                "en": "The early winter evening sets a beautiful mood outside this warm theater.",
+                "es": "La fría tarde de invierno crea un ambiente precioso fuera de este acogedor teatro."
               }
             },
             {
@@ -836,13 +930,15 @@
                 "de": "Denkmal der Jungfrau der Kiefer",
                 "hu": "Fenyőfa Szűzanya Emlékmű",
                 "ro": "Monumentul Fecioarei Pinului",
-                "en": "Monument to the Virgin of the Pine"
+                "en": "Monument to the Virgin of the Pine",
+                "es": "Monumento a la Virgen del Pino"
               },
               "tip_5lang": {
                 "de": "Packen Sie sich warm ein, da die Winterdämmerung an diesem Freiluftdenkmal schnell näher rückt.",
                 "hu": "Öltözzön fel melegen, mivel a téli szürkület gyorsan közeledik ehhez a szabadtéri emlékműhöz.",
                 "ro": "Îmbrăcați-vă gros, deoarece amurgul de iarnă se apropie rapid de acest monument.",
-                "en": "Bundle up tight as the winter dusk approaches quickly at this outdoor monument."
+                "en": "Bundle up tight as the winter dusk approaches quickly at this outdoor monument.",
+                "es": "Abrígate bien: el crepúsculo invernal llega rápido en este monumento al aire libre."
               }
             }
           ]
@@ -862,7 +958,8 @@
             "de": "Hallenbad",
             "hu": "Fedett uszoda",
             "ro": "Piscina acoperită",
-            "en": "Indoor Pool"
+            "en": "Indoor Pool",
+            "es": "Piscina cubierta"
           },
           "coords": [
             -1.695672,
@@ -877,7 +974,8 @@
             "de": "Beginnen Sie Ihren Morgen mit einem erfrischenden Bad oder bewundern Sie die moderne Sportarchitektur; bringen Sie eine Badekappe mit, wenn Sie schwimmen.",
             "hu": "Kezdje a reggelt egy frissítő úszással, vagy csak értékelje a modern sportépítészetet, és mindenképpen hozzon úszósapkát, ha be szeretne ugrani a vízbe.",
             "ro": "Începeți dimineața cu o înot înviorător sau apreciați arhitectura sportivă modernă și asigurați-vă că aduceți o cască de înot dacă doriți să intrați.",
-            "en": "Start your morning with a refreshing swim or simply appreciate the modern sports architecture, just make sure to bring a swimming cap if you plan to dive in."
+            "en": "Start your morning with a refreshing swim or simply appreciate the modern sports architecture, just make sure to bring a swimming cap if you plan to dive in.",
+            "es": "Empieza la mañana con un chapuzón refrescante o admira la moderna arquitectura deportiva; lleva gorro de baño si piensas nadar."
           }
         },
         {
@@ -885,7 +983,8 @@
             "de": "Kreuz der Gefallenen",
             "hu": "Az Elesettek Keresztje",
             "ro": "Crucea Celor Căzuți",
-            "en": "Cross of the Fallen"
+            "en": "Cross of the Fallen",
+            "es": "Cruz de los Caídos"
           },
           "coords": [
             -1.700881,
@@ -900,7 +999,8 @@
             "de": "Betrachten Sie dieses feierliche historische Kreuz für die Gefallenen und lesen Sie die umgebenden Informationstafeln, um den Kontext besser zu verstehen.",
             "hu": "Tekintse meg ezt az elesetteknek szentelt ünnepélyes történelmi keresztet, és szánjon egy percet a környező kontextust bemutató panelek elolvasására is.",
             "ro": "Observați această cruce istorică solemnă dedicată celor căzuți și faceți-vă timp să citiți panourile cu context istoric pentru o înțelegere mai profundă.",
-            "en": "Observe this solemn historical cross dedicated to the fallen, and take a moment to read the surrounding historical context panels for deeper understanding."
+            "en": "Observe this solemn historical cross dedicated to the fallen, and take a moment to read the surrounding historical context panels for deeper understanding.",
+            "es": "Observa esta solemne cruz histórica dedicada a los caídos y tómate un momento para leer los paneles informativos que la rodean."
           }
         },
         {
@@ -908,7 +1008,8 @@
             "de": "Eselsdenkmal",
             "hu": "Szamár-emlékmű",
             "ro": "Monumentul Măgarului",
-            "en": "Donkey Monument"
+            "en": "Donkey Monument",
+            "es": "Monumento al Burro"
           },
           "coords": [
             -1.70731,
@@ -923,7 +1024,8 @@
             "de": "Bewundern Sie dieses einzigartige Denkmal für die historische Rolle des Esels in der lokalen Landwirtschaft und machen Sie früh ein Foto ohne grelles Licht.",
             "hu": "Csodálja meg a helyi mezőgazdaságban fontos szerepet játszó szamár egyedi emlékművét, és készítsen egy gyors fotót még a déli erős napfény előtt.",
             "ro": "Admirați acest monument unic ce celebrează rolul istoric al măgarului în agricultura locală și faceți o fotografie dimineața pentru a evita lumina puternică.",
-            "en": "Admire this unique monument celebrating the humble donkey's historical role in local agriculture, and snap a quick photo early to avoid the midday glare."
+            "en": "Admire this unique monument celebrating the humble donkey's historical role in local agriculture, and snap a quick photo early to avoid the midday glare.",
+            "es": "Admira este singular monumento que celebra el papel histórico del humilde burro en la agricultura local; haz la foto temprano para evitar el deslumbramiento del mediodía."
           }
         },
         {
@@ -931,7 +1033,8 @@
             "de": "Heiligtum Unserer Lieben Frau vom Rosenkranz",
             "hu": "Rózsafüzér Királynője Szentély",
             "ro": "Sanctuarul Maicii Domnului a Rozariului",
-            "en": "Sanctuary of Our Lady of the Rosary"
+            "en": "Sanctuary of Our Lady of the Rosary",
+            "es": "Santuario de Nuestra Señora del Rosario"
           },
           "coords": [
             -1.704299,
@@ -946,7 +1049,8 @@
             "de": "Treten Sie ein, um den kunstvollen Altar für die Schutzpatronin zu bewundern, aber denken Sie daran, während der stillen Gebetszeiten leise zu sein.",
             "hu": "Lépjen be, hogy megcsodálja a város védőszentjének díszes oltárát, de ügyeljen arra, hogy a csendes imádságok idején halkan beszéljen a padok között.",
             "ro": "Pășiți înăuntru pentru a admira altarul ornamentat dedicat patroanei orașului, dar rețineți să păstrați liniștea în timpul orelor de rugăciune.",
-            "en": "Step inside to marvel at the ornate altar dedicated to the town's patroness, but remember to keep your voice down during silent prayer hours."
+            "en": "Step inside to marvel at the ornate altar dedicated to the town's patroness, but remember to keep your voice down during silent prayer hours.",
+            "es": "Entra para maravillarte con el altar barroco dedicado a la patrona del pueblo, y guarda silencio durante las horas de oración."
           }
         },
         {
@@ -954,7 +1058,8 @@
             "de": "Museum der Karwoche",
             "hu": "Nagyhét Múzeuma",
             "ro": "Muzeul Săptămânii Mari",
-            "en": "Holy Week Museum"
+            "en": "Holy Week Museum",
+            "es": "Museo de la Semana Santa"
           },
           "coords": [
             -1.702891,
@@ -969,7 +1074,8 @@
             "de": "Entdecken Sie die spektakulären Festwagen der berühmten Karwoche von Hellín und nehmen Sie sich Zeit für die Schilder über die Trommeltradition.",
             "hu": "Fedezze fel Hellín híres nagyhetének látványos kocsijait és jelmezeit, és szánjon időt a dobolási hagyományokat bemutató feliratok elolvasására is.",
             "ro": "Descoperiți carele spectaculoase ale celebrei Săptămâni Mari din Hellín și faceți-vă timp să citiți plăcuțele despre tradiția tobelor specifice locului.",
-            "en": "Discover the spectacular floats and costumes of Hellín's famous Holy Week, and take your time reading the plaques detailing the drumming traditions."
+            "en": "Discover the spectacular floats and costumes of Hellín's famous Holy Week, and take your time reading the plaques detailing the drumming traditions.",
+            "es": "Descubre los espectaculares pasos y trajes de la famosa Semana Santa de Hellín, y tómate tu tiempo para leer las placas sobre la tradición del tambor."
           }
         },
         {
@@ -977,7 +1083,8 @@
             "de": "Einsiedelei von San Rafael",
             "hu": "San Rafael Remetelak",
             "ro": "Schitul San Rafael",
-            "en": "Hermitage of San Rafael"
+            "en": "Hermitage of San Rafael",
+            "es": "Ermita de San Rafael"
           },
           "coords": [
             -1.702687,
@@ -992,7 +1099,8 @@
             "de": "Genießen Sie die friedliche Atmosphäre dieser malerischen Einsiedelei auf einem kleinen Hügel und tragen Sie bequeme Schuhe für den kurzen, unebenen Weg.",
             "hu": "Élvezze ennek az enyhe dombon található, festői remetelaknak a békés hangulatát, és viseljen kényelmes cipőt a rövid, de kissé egyenetlen kőösvény miatt.",
             "ro": "Bucurați-vă de atmosfera pașnică a acestui schit pitoresc situat pe un mic deal și purtați încălțăminte comodă pentru aleea de piatră ușor denivelată.",
-            "en": "Enjoy the peaceful atmosphere of this quaint hermitage located on a slight hill, and wear comfortable shoes for the brief but slightly uneven stone pathway."
+            "en": "Enjoy the peaceful atmosphere of this quaint hermitage located on a slight hill, and wear comfortable shoes for the brief but slightly uneven stone pathway.",
+            "es": "Disfruta de la atmósfera tranquila de esta coqueta ermita en una ligera colina; lleva calzado cómodo para el corto camino de piedra algo irregular."
           }
         },
         {
@@ -1000,7 +1108,8 @@
             "de": "Städtisches Museum",
             "hu": "Városi Múzeum",
             "ro": "Muzeul Municipal",
-            "en": "Municipal Museum"
+            "en": "Municipal Museum",
+            "es": "Museo Municipal"
           },
           "coords": [
             -1.700629,
@@ -1015,7 +1124,8 @@
             "de": "Erkunden Sie faszinierende archäologische Funde von der Vorgeschichte bis zur Römerzeit und fragen Sie am Eingang nach dem kostenlosen Audioguide.",
             "hu": "Fedezzen fel lenyűgöző régészeti leleteket az őskortól a római korig, és kérje a bejáratnál a barátságos személyzettől az ingyenesen elérhető audioguide-ot.",
             "ro": "Explorați descoperirile arheologice fascinante din preistorie până în epoca romană și cereți personalului prietenos de la intrare un ghid audio gratuit.",
-            "en": "Explore fascinating archaeological finds spanning from prehistory to Roman times, and ask the friendly staff at the entrance for the free audio guide."
+            "en": "Explore fascinating archaeological finds spanning from prehistory to Roman times, and ask the friendly staff at the entrance for the free audio guide.",
+            "es": "Explora fascinantes hallazgos arqueológicos desde la prehistoria hasta la época romana y pide en la entrada la audioguía gratuita."
           }
         },
         {
@@ -1023,7 +1133,8 @@
             "de": "Victoria Theater",
             "hu": "Victoria Színház",
             "ro": "Teatrul Victoria",
-            "en": "Victoria Theater"
+            "en": "Victoria Theater",
+            "es": "Teatro Victoria"
           },
           "coords": [
             -1.696754,
@@ -1038,7 +1149,8 @@
             "de": "Bestaunen Sie die klassische Fassade dieses kulturellen Zentrums mitten in der Stadt und prüfen Sie frühzeitig, ob es Abendvorstellungen an der Kasse gibt.",
             "hu": "Csodálja meg ennek a városközpontban található kulturális központnak a klasszikus homlokzatát, és nézze meg a pénztárnál a lehetséges esti előadásokat.",
             "ro": "Admirați fațada clasică a acestui centru cultural aflat chiar în inima orașului și verificați la casa de bilete dacă există spectacole programate seara.",
-            "en": "Marvel at the classical facade of this cultural hub right in the city center, and check the box office early to see if there are any evening performances."
+            "en": "Marvel at the classical facade of this cultural hub right in the city center, and check the box office early to see if there are any evening performances.",
+            "es": "Admira la fachada clásica de este centro cultural en el centro de la ciudad y consulta la taquilla con antelación por si hay funciones por la tarde."
           }
         },
         {
@@ -1046,7 +1158,8 @@
             "de": "Denkmal der Jungfrau der Kiefer",
             "hu": "Fenyőfa Szűzanya Emlékmű",
             "ro": "Monumentul Fecioarei Pinului",
-            "en": "Monument to the Virgin of the Pine"
+            "en": "Monument to the Virgin of the Pine",
+            "es": "Monumento a la Virgen del Pino"
           },
           "coords": [
             -1.69389,
@@ -1061,7 +1174,8 @@
             "de": "Beenden Sie Ihren Tag an diesem historischen Mariendenkmal umgeben von Pinien und bringen Sie eine leichte Jacke mit, da es am späten Nachmittag kühl wird.",
             "hu": "Fejezze be a napot ennél a fenyőkkel körülvett történelmi Mária-emlékműnél, és hozzon magával egy könnyű kabátot, mert késő délutánra hűvös szél támadhat.",
             "ro": "Încheiați-vă ziua la acest monument istoric marian înconjurat de pini luxurianți și aduceți o jachetă ușoară, deoarece zona poate fi răcoroasă după-amiaza.",
-            "en": "End your day at this historical Marian monument surrounded by lush pines, bringing a light jacket as the area can get quite breezy in the late afternoon."
+            "en": "End your day at this historical Marian monument surrounded by lush pines, bringing a light jacket as the area can get quite breezy in the late afternoon.",
+            "es": "Termina el día en este histórico monumento mariano rodeado de pinos; lleva una chaqueta ligera porque por la tarde puede haber bastante brisa."
           }
         }
       ],
@@ -1069,7 +1183,8 @@
         "de": "Fahren Sie zum Hallenbad, um einen Blick auf das lokale Leben zu werfen, und parken Sie dann bequem in der Nähe des historischen Kreuzes der Gefallenen.\n\nNutzen Sie Ihr Auto, um effizient zwischen dem großen Heiligtum und dem unumgänglichen Museum der Karwoche zu wechseln und der Mittagshitze zu entfliehen.\n\nBesuchen Sie die friedliche Einsiedelei von San Rafael und das umfassende Städtische Museum, und fahren Sie nahtlos zwischen diesen kulturellen Highlights hin und her.\n\nParken Sie am Victoria Theater, um die Architektur zu bewundern, und fahren Sie schließlich für einen ruhigen Sonnenuntergang zum Denkmal der Jungfrau der Kiefer.",
         "hu": "Vezessen a Fedett uszodához, hogy belelásson a helyiek életébe, majd parkoljon le kényelmesen a történelmi Elesettek Keresztje és a Szamár-emlékmű közelében.\n\nHasználja autóját, hogy hatékonyan ugráljon a nagyszerű Szentély és a kihagyhatatlan Nagyhét Múzeuma között, elkerülve a déli hőséget.\n\nLátogasson el a békés San Rafael Remetelakhoz és az átfogó Városi Múzeumhoz, zökkenőmentesen autózva a város ezen kulturális csúcspontjai között.\n\nParkoljon le a Victoria Színház közelében, hogy megcsodálja az építészetet, majd tegye meg az utolsó utat a Fenyőfa Szűzanyához a naplemente nyugalmában.",
         "ro": "Conduceți spre Piscina acoperită pentru a vedea viața locală, apoi parcați cu ușurință lângă istorica Cruce a Celor Căzuți și Monumentul Măgarului.\n\nFolosiți mașina pentru a vă deplasa eficient între grandiosul Sanctuar și inegalabilul Muzeu al Săptămânii Mari, evitând căldura amiezii.\n\nVizitați pașnicul Schit San Rafael și complexul Muzeu Municipal, conducând fără probleme între aceste puncte de atracție culturală esențiale.\n\nParcați lângă Teatrul Victoria pentru a-i admira arhitectura, apoi faceți ultima plimbare spre monumentul Fecioarei Pinului pentru un apus liniștit.",
-        "en": "Drive to the Indoor Pool to catch a glimpse of local life, then easily park near the historical Cross of the Fallen and the Donkey Monument.\n\nUse your car to hop efficiently between the grand Sanctuary and the unmissable Holy Week Museum, avoiding the midday heat in air-conditioned comfort.\n\nVisit the peaceful Hermitage of San Rafael and the comprehensive Municipal Museum, seamlessly driving between these essential cultural highlights of the city.\n\nPark near the Victoria Theater to admire its architecture, then make your final drive out to the monument of the Virgin of the Pine for a tranquil sunset finish."
+        "en": "Drive to the Indoor Pool to catch a glimpse of local life, then easily park near the historical Cross of the Fallen and the Donkey Monument.\n\nUse your car to hop efficiently between the grand Sanctuary and the unmissable Holy Week Museum, avoiding the midday heat in air-conditioned comfort.\n\nVisit the peaceful Hermitage of San Rafael and the comprehensive Municipal Museum, seamlessly driving between these essential cultural highlights of the city.\n\nPark near the Victoria Theater to admire its architecture, then make your final drive out to the monument of the Virgin of the Pine for a tranquil sunset finish.",
+        "es": "Conduce hasta la Piscina Cubierta para ver la vida local, aparca luego cerca de la Cruz de los Caídos y del Monumento al Burro.\n\nUsa el coche para moverte entre el gran Santuario y el imprescindible Museo de la Semana Santa, evitando el calor del mediodía con aire acondicionado.\n\nVisita la tranquila Ermita de San Rafael y el completo Museo Municipal, conduciendo sin esfuerzo entre estos puntos culturales esenciales.\n\nAparca junto al Teatro Victoria para contemplar su arquitectura y haz la última conducción hasta el monumento de la Virgen del Pino para un final tranquilo al atardecer."
       },
       "variants": {
         "rainy": {
@@ -1077,7 +1192,8 @@
             "de": "Ein perfekter regnerischer Start mit einem Hallenbadbesuch, gefolgt von einer kurzen Fahrt zu den Denkmälern. Ihr Auto hält Sie mittags zwischen dem Heiligtum und dem Museum trocken. Nachmittagsfahrten zur Einsiedelei und zum Stadtmuseum bieten Schutz vor dem Platzregen. Beenden Sie den Abend sicher am Victoria Theater.",
             "hu": "Tökéletes esős kezdés egy fedett uszodában, majd egy gyors utazás az emlékművekhez. Az autó szárazon tartja délben a Szentély és a Nagyhét Múzeuma között. A délutáni autózás a Remetelakhoz és a Városi Múzeumhoz kiváló menedéket kínál az eső elől. Az estét biztonságos vezetéssel zárja a Színházhoz és a Fenyőfa Szűzanyához.",
             "ro": "Un început ploios perfect cu o baie interioară, urmat de un scurt drum spre monumente. Mașina vă ține la uscat la prânz între Sanctuar și Muzeul Săptămânii Mari. Condusul de după-amiază spre Schit și Muzeul Municipal oferă adăpost ușor. Încheiați seara conducând în siguranță spre Teatrul Victoria și Fecioara Pinului.",
-            "en": "A perfect rainy start with an indoor swim, followed by a quick drive to the monuments. Your car keeps you dry at noon between the Sanctuary and Holy Week Museum. Afternoon drives to the Hermitage and Municipal Museum offer easy shelter from the downpour. End the evening safely driving to the Victoria Theater and the Virgin of the Pine."
+            "en": "A perfect rainy start with an indoor swim, followed by a quick drive to the monuments. Your car keeps you dry at noon between the Sanctuary and Holy Week Museum. Afternoon drives to the Hermitage and Municipal Museum offer easy shelter from the downpour. End the evening safely driving to the Victoria Theater and the Virgin of the Pine.",
+            "es": "Un inicio lluvioso perfecto con un baño interior, seguido de un breve trayecto en coche a los monumentos. Tu coche te mantiene seco al mediodía entre el Santuario y el Museo de la Semana Santa. Las visitas de la tarde a la Ermita y al Museo Municipal ofrecen techo contra el aguacero. Termina la noche conduciendo con seguridad al Teatro Victoria y a la Virgen del Pino."
           },
           "stops": [
             {
@@ -1085,13 +1201,15 @@
                 "de": "Hallenbad",
                 "hu": "Fedett uszoda",
                 "ro": "Piscina acoperită",
-                "en": "Indoor Pool"
+                "en": "Indoor Pool",
+                "es": "Piscina cubierta"
               },
               "tip_5lang": {
                 "de": "Die ultimative Aktivität an Regentagen – genießen Sie ein warmes Bad, während es draußen in Strömen gießt!",
                 "hu": "A tökéletes esős napi program: élvezze a meleg úszást, miközben kint szakad az eső!",
                 "ro": "Activitatea supremă pentru o zi ploioasă — bucurați-vă de o înot cald în timp ce afară toarnă!",
-                "en": "The ultimate rainy day activity—enjoy a warm swim while it pours outside!"
+                "en": "The ultimate rainy day activity—enjoy a warm swim while it pours outside!",
+                "es": "La mejor actividad para un día de lluvia: disfruta de un baño cálido mientras llueve afuera."
               }
             },
             {
@@ -1099,13 +1217,15 @@
                 "de": "Kreuz der Gefallenen",
                 "hu": "Az Elesettek Keresztje",
                 "ro": "Crucea Celor Căzuți",
-                "en": "Cross of the Fallen"
+                "en": "Cross of the Fallen",
+                "es": "Cruz de los Caídos"
               },
               "tip_5lang": {
                 "de": "Rutschige Steine um das Kreuz; steigen Sie bei Regen vorsichtig aus dem Auto aus.",
                 "hu": "A kereszt körüli kövek csúszósak; esőben óvatosan szálljon ki az autóból.",
                 "ro": "Pietre alunecoase în jurul crucii; coborâți cu grijă din mașină pe ploaie.",
-                "en": "Slippery stones around the cross; step out of your car carefully in the rain."
+                "en": "Slippery stones around the cross; step out of your car carefully in the rain.",
+                "es": "Piedras resbaladizas alrededor de la cruz; sal del coche con cuidado bajo la lluvia."
               }
             },
             {
@@ -1113,13 +1233,15 @@
                 "de": "Eselsdenkmal",
                 "hu": "Szamár-emlékmű",
                 "ro": "Monumentul Măgarului",
-                "en": "Donkey Monument"
+                "en": "Donkey Monument",
+                "es": "Monumento al Burro"
               },
               "tip_5lang": {
                 "de": "Machen Sie ein schnelles Foto unter dem Regenschirm, bevor Sie zügig weiterfahren.",
                 "hu": "Készítsen egy gyors fotót az esernyő alól, mielőtt továbbhajtana a fedett helyekre.",
                 "ro": "Faceți o fotografie rapidă sub umbrelă înainte de a conduce mai departe.",
-                "en": "Take a quick photo under your umbrella before driving on to find shelter."
+                "en": "Take a quick photo under your umbrella before driving on to find shelter.",
+                "es": "Haz una foto rápida bajo el paraguas antes de seguir en busca de refugio."
               }
             },
             {
@@ -1127,13 +1249,15 @@
                 "de": "Heiligtum Unserer Lieben Frau vom Rosenkranz",
                 "hu": "Rózsafüzér Királynője Szentély",
                 "ro": "Sanctuarul Maicii Domnului a Rozariului",
-                "en": "Sanctuary of Our Lady of the Rosary"
+                "en": "Sanctuary of Our Lady of the Rosary",
+                "es": "Santuario de Nuestra Señora del Rosario"
               },
               "tip_5lang": {
                 "de": "Genießen Sie das trockene, friedliche Innere, während es draußen in Strömen regnet.",
                 "hu": "Élvezze a száraz, békés belső teret, miközben kint esik az eső.",
                 "ro": "Apreciați interiorul uscat și liniștit în timp ce afară plouă neîncetat.",
-                "en": "Appreciate the dry, peaceful interior while the rain continues to fall outside."
+                "en": "Appreciate the dry, peaceful interior while the rain continues to fall outside.",
+                "es": "Aprecia el interior seco y tranquilo mientras la lluvia cae afuera."
               }
             },
             {
@@ -1141,13 +1265,15 @@
                 "de": "Museum der Karwoche",
                 "hu": "Nagyhét Múzeuma",
                 "ro": "Muzeul Săptămânii Mari",
-                "en": "Holy Week Museum"
+                "en": "Holy Week Museum",
+                "es": "Museo de la Semana Santa"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Zufluchtsort im Innenbereich, um mehr über lokale Traditionen zu erfahren.",
                 "hu": "Tökéletes beltéri menedék, ahol szárazon tanulmányozhatja a helyi hagyományokat.",
                 "ro": "O evadare interioară perfectă pentru a învăța despre tradițiile locale fără a vă uda.",
-                "en": "A perfect indoor escape to spend hours learning about local traditions without getting wet."
+                "en": "A perfect indoor escape to spend hours learning about local traditions without getting wet.",
+                "es": "Un escape interior perfecto para pasar horas aprendiendo sobre las tradiciones locales sin mojarte."
               }
             },
             {
@@ -1155,13 +1281,15 @@
                 "de": "Einsiedelei von San Rafael",
                 "hu": "San Rafael Remetelak",
                 "ro": "Schitul San Rafael",
-                "en": "Hermitage of San Rafael"
+                "en": "Hermitage of San Rafael",
+                "es": "Ermita de San Rafael"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf den nassen und rutschigen Bürgersteig außerhalb dieser historischen Einsiedelei.",
                 "hu": "Ügyeljen a lépéseire a nedves járdán a történelmi remetelak előtt.",
                 "ro": "Atenție la pași pe pavajul umed din fața acestui schit istoric.",
-                "en": "Watch your step on the wet pavement outside this historic hermitage."
+                "en": "Watch your step on the wet pavement outside this historic hermitage.",
+                "es": "Cuidado con el pavimento mojado fuera de esta ermita histórica."
               }
             },
             {
@@ -1169,13 +1297,15 @@
                 "de": "Städtisches Museum",
                 "hu": "Városi Múzeum",
                 "ro": "Muzeul Municipal",
-                "en": "Municipal Museum"
+                "en": "Municipal Museum",
+                "es": "Museo Municipal"
               },
               "tip_5lang": {
                 "de": "Ein weiterer hervorragender, trockener Zufluchtsort voller faszinierender lokaler Artefakte.",
                 "hu": "Újabb kiváló, száraz menedék, tele lenyűgöző helyi leletekkel.",
                 "ro": "Un alt refugiu uscat excelent, plin de artefacte locale fascinante.",
-                "en": "Another excellent dry refuge filled with fascinating local artifacts."
+                "en": "Another excellent dry refuge filled with fascinating local artifacts.",
+                "es": "Otro excelente refugio seco lleno de fascinantes objetos locales."
               }
             },
             {
@@ -1183,13 +1313,15 @@
                 "de": "Victoria Theater",
                 "hu": "Victoria Színház",
                 "ro": "Teatrul Victoria",
-                "en": "Victoria Theater"
+                "en": "Victoria Theater",
+                "es": "Teatro Victoria"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die großartige Architektur von innen, um komplett trocken zu bleiben.",
                 "hu": "Élvezze a lenyűgöző építészetet belülről, hogy teljesen száraz maradjon.",
                 "ro": "Bucurați-vă de arhitectura grandioasă din interior pentru a rămâne complet uscat.",
-                "en": "Enjoy the grand architecture from the inside to stay completely dry."
+                "en": "Enjoy the grand architecture from the inside to stay completely dry.",
+                "es": "Disfruta de la gran arquitectura desde el interior para mantenerte completamente seco."
               }
             },
             {
@@ -1197,13 +1329,15 @@
                 "de": "Denkmal der Jungfrau der Kiefer",
                 "hu": "Fenyőfa Szűzanya Emlékmű",
                 "ro": "Monumentul Fecioarei Pinului",
-                "en": "Monument to the Virgin of the Pine"
+                "en": "Monument to the Virgin of the Pine",
+                "es": "Monumento a la Virgen del Pino"
               },
               "tip_5lang": {
                 "de": "Die Kiefern bieten leichten Schutz, aber halten Sie Ihren Regenmantel für diesen Stopp bereit.",
                 "hu": "A fenyőfák némi fedezéket nyújtanak, de tartsa kéznél az esőkabátot.",
                 "ro": "Pinii oferă o ușoară acoperire, dar țineți pelerina de ploaie la îndemână.",
-                "en": "The pine trees offer slight cover, but keep your raincoat handy for this final outdoor stop."
+                "en": "The pine trees offer slight cover, but keep your raincoat handy for this final outdoor stop.",
+                "es": "Los pinos ofrecen algo de cobertura, pero lleva impermeable para esta última parada al aire libre."
               }
             }
           ]
@@ -1213,7 +1347,8 @@
             "de": "Beginnen Sie mit einem warmen Bad im Pool, bevor Sie zu den Freiluftdenkmälern fahren. Den Mittag verbringen Sie gut in den warmen Räumen des Heiligtums und des Museums der Karwoche. Genießen Sie nachmittags Ihre Sitzheizung zwischen Einsiedelei und Stadtmuseum. Der Abend bricht schnell herein, wenn Sie das Theater erreichen.",
             "hu": "Kezdjen egy fűtött úszással az uszodában, mielőtt a fagyos szabadtéri emlékművekhez hajtana. A delet a Szentély és a Múzeum meleg belső tereiben töltheti. Élvezze az autó fűtött üléseit délután a Remetelak és a Városi Múzeum között. Az este gyorsan leszáll, mire a sötétben a Színházhoz és a Fenyőfa Szűzanyához ér.",
             "ro": "Începeți cu o baie încălzită la piscină înainte de a conduce spre monumentele în aer liber. Amiaza este bine petrecută în interioarele calde ale Sanctuarului și Muzeului Săptămânii Mari. Bucurați-vă de scaunele încălzite ale mașinii după-amiaza. Seara coboară repede când ajungeți pe întuneric la Teatru și la Fecioara Pinului.",
-            "en": "Start with a heated swim at the pool before a crisp drive to the outdoor monuments. Noon is well-spent in the warm interiors of the Sanctuary and Holy Week Museum. Enjoy your heated car seats in the afternoon between the Hermitage and Municipal Museum. Evening falls quickly as you reach the Theater and Virgin of the Pine in the dark."
+            "en": "Start with a heated swim at the pool before a crisp drive to the outdoor monuments. Noon is well-spent in the warm interiors of the Sanctuary and Holy Week Museum. Enjoy your heated car seats in the afternoon between the Hermitage and Municipal Museum. Evening falls quickly as you reach the Theater and Virgin of the Pine in the dark.",
+            "es": "Comienza con un baño en una piscina climatizada antes de un trayecto nítido hacia los monumentos al aire libre. El mediodía se pasa bien en los cálidos interiores del Santuario y del Museo de la Semana Santa. Disfruta de los asientos calefactados del coche por la tarde entre la Ermita y el Museo Municipal. La noche cae rápido cuando llegas al Teatro y a la Virgen del Pino en la oscuridad."
           },
           "stops": [
             {
@@ -1221,13 +1356,15 @@
                 "de": "Hallenbad",
                 "hu": "Fedett uszoda",
                 "ro": "Piscina acoperită",
-                "en": "Indoor Pool"
+                "en": "Indoor Pool",
+                "es": "Piscina cubierta"
               },
               "tip_5lang": {
                 "de": "Der perfekte Ort, um einen eisigen Wintertag mit etwas Bewegung im Warmen zu beginnen.",
                 "hu": "Tökéletes hely egy fagyos téli nap indításához egy kis fűtött benti mozgással.",
                 "ro": "Locul perfect pentru a începe o zi geroasă de iarnă cu exerciții în interior încălzit.",
-                "en": "Perfect place to start a freezing winter day with some heated indoor exercise."
+                "en": "Perfect place to start a freezing winter day with some heated indoor exercise.",
+                "es": "Lugar perfecto para empezar un día helado de invierno con ejercicio interior y climatizado."
               }
             },
             {
@@ -1235,13 +1372,15 @@
                 "de": "Kreuz der Gefallenen",
                 "hu": "Az Elesettek Keresztje",
                 "ro": "Crucea Celor Căzuți",
-                "en": "Cross of the Fallen"
+                "en": "Cross of the Fallen",
+                "es": "Cruz de los Caídos"
               },
               "tip_5lang": {
                 "de": "Auf den Steinen kann sich Frost bilden; seien Sie bei diesem kühlen Morgenstopp vorsichtig.",
                 "hu": "Dér képződhet a köveken; legyen óvatos ezen a csípős reggeli megállón.",
                 "ro": "Se poate forma brumă pe pietre; fiți atenți în timpul acestei opriri reci de dimineață.",
-                "en": "Frost can form on the stones; be careful during this chilly morning stop."
+                "en": "Frost can form on the stones; be careful during this chilly morning stop.",
+                "es": "Se puede formar escarcha en las piedras; ten cuidado en esta parada matutina fría."
               }
             },
             {
@@ -1249,13 +1388,15 @@
                 "de": "Eselsdenkmal",
                 "hu": "Szamár-emlékmű",
                 "ro": "Monumentul Măgarului",
-                "en": "Donkey Monument"
+                "en": "Donkey Monument",
+                "es": "Monumento al Burro"
               },
               "tip_5lang": {
                 "de": "Tragen Sie warme Handschuhe für diesen Stopp im Freien, bevor Sie hineingehen.",
                 "hu": "Viseljen meleg kesztyűt ezen a szabadtéri állomáson, mielőtt bemenne melegedni.",
                 "ro": "Purtați mănuși groase pentru această oprire în aer liber înainte de a intra la căldură.",
-                "en": "Wear warm gloves for this outdoor stop before heading inside to warm up."
+                "en": "Wear warm gloves for this outdoor stop before heading inside to warm up.",
+                "es": "Lleva guantes calientes para esta parada exterior antes de entrar a calentarte."
               }
             },
             {
@@ -1263,13 +1404,15 @@
                 "de": "Heiligtum Unserer Lieben Frau vom Rosenkranz",
                 "hu": "Rózsafüzér Királynője Szentély",
                 "ro": "Sanctuarul Maicii Domnului a Rozariului",
-                "en": "Sanctuary of Our Lady of the Rosary"
+                "en": "Sanctuary of Our Lady of the Rosary",
+                "es": "Santuario de Nuestra Señora del Rosario"
               },
               "tip_5lang": {
                 "de": "Die dicken Mauern halten die Winterkälte ab; wärmen Sie sich auf, während Sie den Altar bewundern.",
                 "hu": "A vastag falak kint tartják a téli hideget; melegedjen fel az oltárt csodálva.",
                 "ro": "Pereții groși țin frigul iernii departe; încălziți-vă în timp ce admirați altarul.",
-                "en": "The thick walls keep the winter chill out; warm up while admiring the altar."
+                "en": "The thick walls keep the winter chill out; warm up while admiring the altar.",
+                "es": "Los muros gruesos protegen del frío invernal; entra en calor mientras admiras el altar."
               }
             },
             {
@@ -1277,13 +1420,15 @@
                 "de": "Museum der Karwoche",
                 "hu": "Nagyhét Múzeuma",
                 "ro": "Muzeul Săptămânii Mari",
-                "en": "Holy Week Museum"
+                "en": "Holy Week Museum",
+                "es": "Museo de la Semana Santa"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich hier vollständig auf, während Sie die umfangreichen religiösen Exponate erkunden.",
                 "hu": "Melegedjen fel teljesen itt, miközben felfedezi a kiterjedt vallási kiállításokat.",
                 "ro": "Încălziți-vă complet aici în timp ce explorați vastele exponate religioase.",
-                "en": "Warm up fully here while exploring the extensive religious exhibits."
+                "en": "Warm up fully here while exploring the extensive religious exhibits.",
+                "es": "Aquí puedes calentarte por completo mientras exploras las amplias exposiciones religiosas."
               }
             },
             {
@@ -1291,13 +1436,15 @@
                 "de": "Einsiedelei von San Rafael",
                 "hu": "San Rafael Remetelak",
                 "ro": "Schitul San Rafael",
-                "en": "Hermitage of San Rafael"
+                "en": "Hermitage of San Rafael",
+                "es": "Ermita de San Rafael"
               },
               "tip_5lang": {
                 "de": "Die höhere Lage bringt frischen Wind mit sich; knöpfen Sie Ihren Wintermantel fest zu!",
                 "hu": "A magasabb fekvés élénk szeleket jelent; gombolja be szorosan a télikabátját!",
                 "ro": "Altitudinea mai mare înseamnă vânturi tăioase; încheiați-vă bine haina de iarnă!",
-                "en": "The higher elevation means brisk winds; button up your winter coat tightly!"
+                "en": "The higher elevation means brisk winds; button up your winter coat tightly!",
+                "es": "La mayor altitud implica viento frío; abróchate bien el abrigo de invierno."
               }
             },
             {
@@ -1305,13 +1452,15 @@
                 "de": "Städtisches Museum",
                 "hu": "Városi Múzeum",
                 "ro": "Muzeul Municipal",
-                "en": "Municipal Museum"
+                "en": "Municipal Museum",
+                "es": "Museo Municipal"
               },
               "tip_5lang": {
                 "de": "Ein gemütlicher Innenraum, um die lokale Geschichte zu erkunden, wenn der Winternachmittag abkühlt.",
                 "hu": "Hangulatos beltéri tér a helyi történelem felfedezéséhez, ahogy a téli délután lehűl.",
                 "ro": "Un spațiu interior confortabil pentru a explora istoria locală în timp ce după-amiaza de iarnă se răcește.",
-                "en": "A cozy indoor space to explore local history as the winter afternoon cools down."
+                "en": "A cozy indoor space to explore local history as the winter afternoon cools down.",
+                "es": "Un espacio interior acogedor para explorar la historia local mientras la tarde invernal se enfría."
               }
             },
             {
@@ -1319,13 +1468,15 @@
                 "de": "Victoria Theater",
                 "hu": "Victoria Színház",
                 "ro": "Teatrul Victoria",
-                "en": "Victoria Theater"
+                "en": "Victoria Theater",
+                "es": "Teatro Victoria"
               },
               "tip_5lang": {
                 "de": "Der frühe Winterabend sorgt für eine wunderschöne Stimmung vor diesem warmen Theater.",
                 "hu": "A korai téli este gyönyörű hangulatot varázsol e meleg színház elé.",
                 "ro": "Seara timpurie de iarnă creează o atmosferă frumoasă în fața acestui teatru cald.",
-                "en": "The early winter evening sets a beautiful mood outside this warm theater."
+                "en": "The early winter evening sets a beautiful mood outside this warm theater.",
+                "es": "La fría tarde de invierno crea un ambiente precioso fuera de este acogedor teatro."
               }
             },
             {
@@ -1333,13 +1484,15 @@
                 "de": "Denkmal der Jungfrau der Kiefer",
                 "hu": "Fenyőfa Szűzanya Emlékmű",
                 "ro": "Monumentul Fecioarei Pinului",
-                "en": "Monument to the Virgin of the Pine"
+                "en": "Monument to the Virgin of the Pine",
+                "es": "Monumento a la Virgen del Pino"
               },
               "tip_5lang": {
                 "de": "Packen Sie sich warm ein, da die Winterdämmerung an diesem Freiluftdenkmal schnell näher rückt.",
                 "hu": "Öltözzön fel melegen, mivel a téli szürkület gyorsan közeledik ehhez a szabadtéri emlékműhöz.",
                 "ro": "Îmbrăcați-vă gros, deoarece amurgul de iarnă se apropie rapid de acest monument.",
-                "en": "Bundle up tight as the winter dusk approaches quickly at this outdoor monument."
+                "en": "Bundle up tight as the winter dusk approaches quickly at this outdoor monument.",
+                "es": "Abrígate bien: el crepúsculo invernal llega rápido en este monumento al aire libre."
               }
             }
           ]

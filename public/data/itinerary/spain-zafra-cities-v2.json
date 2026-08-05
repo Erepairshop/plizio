@@ -21,7 +21,8 @@
             "de": "Casa-Palacio del Conde de la Corte",
             "hu": "Casa-Palacio del Conde de la Corte",
             "ro": "Casa-Palacio del Conde de la Corte",
-            "en": "Casa-Palacio del Conde de la Corte"
+            "en": "Casa-Palacio del Conde de la Corte",
+            "es": "Casa-Palacio del Conde de la Corte"
           },
           "coords": [
             -6.418128,
@@ -36,7 +37,8 @@
             "de": "Erkunden Sie diesen beeindruckenden mittelalterlichen Palast, der Zafras aristokratische Geschichte offenbart, aber prüfen Sie vorab die Öffnungszeiten.",
             "hu": "Fedezze fel ezt a lenyűgöző középkori palotát, amely Zafra arisztokratikus múltját őrzi, de látogatás előtt ellenőrizze az udvar nyitvatartását.",
             "ro": "Explorați acest palat medieval uimitor care dezvăluie istoria aristocratică a Zafrei, dar asigurați-vă că verificați orarul curții înainte de vizită.",
-            "en": "Explore this stunning medieval palace that reveals Zafra's aristocratic history, but be sure to check the courtyard opening hours before your visit."
+            "en": "Explore this stunning medieval palace that reveals Zafra's aristocratic history, but be sure to check the courtyard opening hours before your visit.",
+            "es": "Explora este impresionante palacio medieval que revela la historia aristocrática de Zafra; consulta los horarios del patio antes de la visita."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Stiftskirche La Candelaria",
             "hu": "La Candelaria Társaskáptalani Templom",
             "ro": "Biserica Colegială La Candelaria",
-            "en": "Collegiate Church of La Candelaria"
+            "en": "Collegiate Church of La Candelaria",
+            "es": "Colegiata de La Candelaria"
           },
           "coords": [
             -6.419303,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die exquisiten Altarbilder in dieser majestätischen Stiftskirche und bringen Sie eine Kamera für die atemberaubende religiöse Kunst mit.",
             "hu": "Csodálja meg a fenséges társaskáptalani templom gyönyörű oltárképeit, és hozzon magával fényképezőgépet a lenyűgöző vallási művészet megörökítéséhez.",
             "ro": "Admirați altarele rafinate din această maiestuoasă biserică colegială și aduceți o cameră pentru a surprinde detaliile artei sale religioase.",
-            "en": "Admire the exquisite altarpieces inside this majestic collegiate church, and bring a camera to capture the stunning details of its religious art."
+            "en": "Admire the exquisite altarpieces inside this majestic collegiate church, and bring a camera to capture the stunning details of its religious art.",
+            "es": "Admira los exquisitos retablos en el interior de esta majestuosa colegiata y lleva una cámara para captar los detalles de su arte religioso."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kloster Santa Catalina",
             "hu": "Santa Catalina Kolostor",
             "ro": "Mănăstirea Santa Catalina",
-            "en": "Convent of Santa Catalina"
+            "en": "Convent of Santa Catalina",
+            "es": "Convento de Santa Catalina"
           },
           "coords": [
             -6.420158,
@@ -82,7 +87,8 @@
             "de": "Tauchen Sie in die friedliche Atmosphäre dieses historischen Klosters ein, um seine Architektur zu bewundern, und bewahren Sie dabei respektvolle Stille.",
             "hu": "Lépjen be ennek a történelmi kolostornak a békés légkörébe, hogy megcsodálja építészetét, miközben tiszteletteljes csendet tart a látogatás alatt.",
             "ro": "Pășiți în atmosfera pașnică a acestei mănăstiri istorice pentru a-i admira arhitectura, păstrând o liniște respectuoasă în timpul vizitei dumneavoastră.",
-            "en": "Step into the peaceful atmosphere of this historic convent to admire its beautiful architecture, keeping a respectful silence during your serene visit."
+            "en": "Step into the peaceful atmosphere of this historic convent to admire its beautiful architecture, keeping a respectful silence during your serene visit.",
+            "es": "Entra en la atmósfera de paz de este convento histórico para admirar su hermosa arquitectura; guarda un silencio respetuoso durante la visita."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Museum Santa Clara",
             "hu": "Santa Clara Múzeum",
             "ro": "Muzeul Santa Clara",
-            "en": "Santa Clara Museum"
+            "en": "Santa Clara Museum",
+            "es": "Museo Santa Clara"
           },
           "coords": [
             -6.418582,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie faszinierende Artefakte in diesem Museum innerhalb eines Klosters und fragen Sie die Führer unbedingt nach versteckten Architekturdetails.",
             "hu": "Fedezze fel a lenyűgöző kolostorban működő múzeum érdekes leleteit, és feltétlenül kérdezze meg az idegenvezetőket a rejtett építészeti részletekről.",
             "ro": "Descoperiți artefacte fascinante în acest muzeu găzduit într-o mănăstire uimitoare, asigurându-vă că întrebați ghizii despre detaliile arhitecturale.",
-            "en": "Discover fascinating artifacts in this museum housed within a stunning convent, making sure to ask the guides about the hidden architectural details."
+            "en": "Discover fascinating artifacts in this museum housed within a stunning convent, making sure to ask the guides about the hidden architectural details.",
+            "es": "Descubre objetos fascinantes en este museo ubicado en un convento impresionante; pregunta a los guías por los detalles arquitectónicos ocultos."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Kirche Santa Marina",
             "hu": "Santa Marina Templom",
             "ro": "Biserica Santa Marina",
-            "en": "Church of Santa Marina"
+            "en": "Church of Santa Marina",
+            "es": "Iglesia de Santa Marina"
           },
           "coords": [
             -6.417365,
@@ -128,7 +137,8 @@
             "de": "Nehmen Sie sich einen Moment Zeit für die elegante Fassade dieser bezaubernden Kirche, die im warmen Licht des späten Vormittags besonders schön wirkt.",
             "hu": "Szánjon egy pillanatot a bájos templom elegáns homlokzatának megcsodálására, amely különösen gyönyörű a késő délelőtti meleg fényben fürödve.",
             "ro": "Alocați un moment pentru a aprecia fațada elegantă a acestei biserici fermecătoare, care arată deosebit de frumos în lumina caldă a dimineții.",
-            "en": "Take a moment to appreciate the elegant facade of this charming church, which looks especially beautiful when bathed in the warm late morning light."
+            "en": "Take a moment to appreciate the elegant facade of this charming church, which looks especially beautiful when bathed in the warm late morning light.",
+            "es": "Tómate un momento para apreciar la elegante fachada de esta coqueta iglesia, que luce especialmente hermosa con la cálida luz de la mañana avanzada."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Museum für Medizingeschichte der Extremadura",
             "hu": "Extremadura Orvostörténeti Múzeuma",
             "ro": "Muzeul de Istorie a Medicinei din Extremadura",
-            "en": "Museum of the History of Medicine of Extremadura"
+            "en": "Museum of the History of Medicine of Extremadura",
+            "es": "Museo de la Historia de la Medicina de Extremadura"
           },
           "coords": [
             -6.41371,
@@ -151,7 +162,8 @@
             "de": "Tauchen Sie in diesem einzigartigen Museum in die medizinische Geschichte der Extremadura ein und nehmen Sie sich Zeit für die historischen Exponate.",
             "hu": "Merüljön el Extremadura érdekes orvostörténetében ebben az egyedülálló múzeumban, és szánjon elegendő időt a jól összeállított kiállítások elolvasására.",
             "ro": "Pătrundeți în istoria medicală intrigantă a Extremadurei la acest muzeu unic, alocând suficient timp pentru a citi exponatele istorice bine îngrijite.",
-            "en": "Dive into the intriguing medical history of Extremadura at this unique museum, allowing ample time to read through the well-curated historical exhibits."
+            "en": "Dive into the intriguing medical history of Extremadura at this unique museum, allowing ample time to read through the well-curated historical exhibits.",
+            "es": "Sumérgete en la intrigante historia médica de Extremadura en este museo único; reserva tiempo para leer las bien curadas exposiciones históricas."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Der Morgen beginnt am beeindruckenden Casa-Palacio del Conde de la Corte, gefolgt von der nahegelegenen majestätischen Colegiata de la Candelaria.\nMittags erwartet Sie ein ruhiger Spaziergang zum Convento de Santa Catalina, bevor Sie die Schätze des faszinierenden Museo Santa Clara erkunden.\nAm Nachmittag halten Sie kurz an der Iglesia de Santa Marina, um danach in die fesselnde Medizingeschichte der Extremadura einzutauchen.\nDer Abend klingt mit einem entspannten Spaziergang durch Zafras Zentrum aus, wo Sie das reiche architektonische Erbe Revue passieren lassen.",
         "hu": "A reggel a lenyűgöző Casa-Palacio del Conde de la Corte-nál kezdődik, amelyet a közeli, fenséges Colegiata de la Candelaria megtekintése követ.\nA dél egy békés sétára hív a Convento de Santa Catalina felé, mielőtt felfedezné a Museo Santa Clara lenyűgöző kincseit és művészeti alkotásait.\nDélután tegyen egy rövid kitérőt az Iglesia de Santa Marina felé, majd merüljön el Extremadura érdekfeszítő és különleges orvostörténetében.\nAz este egy kellemes sétával zárul Zafra hangulatos központjában, miközben visszagondol a nap során látott gazdag építészeti örökségre.",
         "ro": "Dimineața începe la impresionantul Casa-Palacio del Conde de la Corte, urmat de o vizită la maiestuoasa Colegiata de la Candelaria din apropiere.\nLa amiază, bucurați-vă de o plimbare liniștită către Convento de Santa Catalina, înainte de a explora comorile fascinante ale Museo Santa Clara.\nDupă-amiaza oferă o scurtă oprire la Iglesia de Santa Marina, urmată de o imersiune în istoria medicală intrigantă a Extremadurei.\nSeara se încheie cu o plimbare relaxantă prin centrul fermecător al Zafrei, reflectând asupra bogatei moșteniri arhitecturale văzute astăzi.",
-        "en": "Morning begins at the impressive Casa-Palacio del Conde de la Corte, where noble history sets the tone, followed by the nearby Colegiata de la Candelaria.\nMidday invites a peaceful stroll to Convento de Santa Catalina, a place of quiet reflection before exploring the treasures of Museo Santa Clara.\nAfternoon offers a brief stop at Iglesia de Santa Marina before immersing yourself in the fascinating medical history of Extremadura.\nEvening winds down with a relaxed walk through Zafra's charming center, reflecting on the rich blend of architecture and heritage seen today."
+        "en": "Morning begins at the impressive Casa-Palacio del Conde de la Corte, where noble history sets the tone, followed by the nearby Colegiata de la Candelaria.\nMidday invites a peaceful stroll to Convento de Santa Catalina, a place of quiet reflection before exploring the treasures of Museo Santa Clara.\nAfternoon offers a brief stop at Iglesia de Santa Marina before immersing yourself in the fascinating medical history of Extremadura.\nEvening winds down with a relaxed walk through Zafra's charming center, reflecting on the rich blend of architecture and heritage seen today.",
+        "es": "La mañana comienza en la imponente Casa-Palacio del Conde de la Corte, donde la historia noble marca el tono, seguida de la cercana Colegiata de la Candelaria.\nAl mediodía da un paseo tranquilo hasta el Convento de Santa Catalina, lugar de reflexión antes de explorar los tesoros del Museo Santa Clara.\nPor la tarde haz una breve parada en la Iglesia de Santa Marina antes de sumergirte en la fascinante historia de la medicina de Extremadura.\nLa noche termina con un paseo relajado por el encantador centro de Zafra, reflexionando sobre la rica mezcla de arquitectura y patrimonio vista hoy."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Beginnen Sie Ihren regnerischen Spaziergang am Casa-Palacio. Mittags finden Sie in den historischen Kirchen Schutz und bleiben trocken. Nachmittags konzentrieren Sie sich auf die Museen, deren Ausstellungen eine perfekte Flucht vor dem Regen bieten. Beenden Sie den Tag gemütlich im Trockenen.",
             "hu": "Kezdje az esős sétát a Casa-Palacio-nál. Délben keressen menedéket a történelmi templomokban, ahol szárazon maradhat. Délután fókuszáljon a múzeumokra, melyek beltéri kiállításai tökéletes búvóhelyet nyújtanak az eső elől. Zárja a napot egy meleg, fedett helyen.",
             "ro": "Începeți plimbarea ploioasă la Casa-Palacio. La prânz, adăpostiți-vă în bisericile istorice, admirându-le interioarele la uscat. După-amiaza, concentrați-vă pe muzee, unde expozițiile interioare oferă o evadare perfectă din ploaie. Încheiați ziua călduros, la interior.",
-            "en": "Start your rainy walk at the grand Casa-Palacio. By noon, take shelter in the historic churches, admiring their interiors while staying dry. In the afternoon, focus on the museums, where indoor exhibits offer a perfect escape from the rain. Finish your day warmly indoors."
+            "en": "Start your rainy walk at the grand Casa-Palacio. By noon, take shelter in the historic churches, admiring their interiors while staying dry. In the afternoon, focus on the museums, where indoor exhibits offer a perfect escape from the rain. Finish your day warmly indoors.",
+            "es": "Comienza tu paseo bajo lluvia en la grandiosa Casa-Palacio. Al mediodía refugiate en las iglesias históricas, admirando sus interiores y manteniéndote seco. Por la tarde céntrate en los museos, donde las salas interiores ofrecen una escapada perfecta de la lluvia. Termina el día abrigado en interiores."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Casa-Palacio del Conde de la Corte",
                 "hu": "Casa-Palacio del Conde de la Corte",
                 "ro": "Casa-Palacio del Conde de la Corte",
-                "en": "Casa-Palacio del Conde de la Corte"
+                "en": "Casa-Palacio del Conde de la Corte",
+                "es": "Casa-Palacio del Conde de la Corte"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie den opulenten Innenhof dieses Palastes; bringen Sie einen Regenschirm für die kurzen Wege zwischen den Räumen mit.",
                 "hu": "Csodálja meg a palota pazar udvarát; hozzon magával esernyőt a termek közötti rövid, nyitott sétához.",
                 "ro": "Admirați curtea opulentă a palatului; aduceți o umbrelă pentru scurta plimbare între încăperile interioare.",
-                "en": "Admire the opulent courtyard of this palace; bring an umbrella for the short walk between the indoor rooms."
+                "en": "Admire the opulent courtyard of this palace; bring an umbrella for the short walk between the indoor rooms.",
+                "es": "Admira el opulento patio de este palacio; lleva paraguas para el corto trayecto entre las salas interiores."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Stiftskirche La Candelaria",
                 "hu": "La Candelaria Társaskáptalani Templom",
                 "ro": "Biserica Colegială La Candelaria",
-                "en": "Collegiate Church of La Candelaria"
+                "en": "Collegiate Church of La Candelaria",
+                "es": "Colegiata de La Candelaria"
               },
               "tip_5lang": {
                 "de": "Bestaunen Sie die Gemälde im Inneren; die dicken Steinmauern bieten hervorragenden Schutz vor plötzlichen Regengüssen.",
                 "hu": "Csodálja meg a benti Zurbarán festményeket; a vastag kőfalak kiváló menedéket nyújtanak a hirtelen záporok elől.",
                 "ro": "Minunați-vă de picturile Zurbarán din interior; zidurile groase de piatră oferă un adăpost excelent împotriva averselor bruște.",
-                "en": "Marvel at the Zurbarán paintings inside; the thick stone walls provide excellent shelter from sudden downpours."
+                "en": "Marvel at the Zurbarán paintings inside; the thick stone walls provide excellent shelter from sudden downpours.",
+                "es": "Maravíllate con las pinturas de Zurbarán en su interior; los gruesos muros de piedra ofrecen excelente refugio frente a los chaparrones."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Kloster Santa Catalina",
                 "hu": "Santa Catalina Kolostor",
                 "ro": "Mănăstirea Santa Catalina",
-                "en": "Convent of Santa Catalina"
+                "en": "Convent of Santa Catalina",
+                "es": "Convento de Santa Catalina"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die ruhigen Kreuzgänge; tragen Sie rutschfeste Schuhe, da die alten Steinböden bei Nässe sehr glatt werden.",
                 "hu": "Fedezze fel a csendes kerengőt; viseljen csúszásmentes cipőt, mert az ősi kőpadló nedvesen nagyon síkos lehet.",
                 "ro": "Explorați cloistrele liniștite; purtați încălțăminte antiderapantă, deoarece podelele vechi de piatră devin alunecoase la umezeală.",
-                "en": "Explore the quiet cloisters of this convent; wear non-slip shoes as the ancient stone floors get slippery when wet."
+                "en": "Explore the quiet cloisters of this convent; wear non-slip shoes as the ancient stone floors get slippery when wet.",
+                "es": "Explora los claustros tranquilos de este convento; usa calzado antideslizante, ya que los suelos de piedra antiguos se vuelven resbaladizos cuando están húmedos."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Museum Santa Clara",
                 "hu": "Santa Clara Múzeum",
                 "ro": "Muzeul Santa Clara",
-                "en": "Santa Clara Museum"
+                "en": "Santa Clara Museum",
+                "es": "Museo Santa Clara"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie die reiche Geschichte; das Museum ist der perfekte Ort, um den stärksten Nachmittagsregen im Trockenen abzuwarten.",
                 "hu": "Ismerje meg a helyi történelmet; a múzeum tökéletes, hosszú beltéri megálló a leghevesebb délutáni eső átvészelésére.",
                 "ro": "Descoperiți istoria locală; muzeul este oprirea interioară perfectă pentru a aștepta trecerea ploilor grele de după-amiază.",
-                "en": "Discover rich local history in this museum; it's a perfect long indoor stop to wait out the heaviest afternoon rain."
+                "en": "Discover rich local history in this museum; it's a perfect long indoor stop to wait out the heaviest afternoon rain.",
+                "es": "Descubre la rica historia local en este museo; es una parada larga perfecta en interior para esperar a que pase la lluvia de la tarde."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Kirche Santa Marina",
                 "hu": "Santa Marina Templom",
                 "ro": "Biserica Santa Marina",
-                "en": "Church of Santa Marina"
+                "en": "Church of Santa Marina",
+                "es": "Iglesia de Santa Marina"
               },
               "tip_5lang": {
                 "de": "Beachten Sie das besondere Mauerwerk; treten Sie schnell ein, um die friedliche Atmosphäre abseits des Nieselregens zu genießen.",
                 "hu": "Figyelje meg a jellegzetes téglafalat; lépjen be gyorsan, hogy a szitáló eső elől menekülve élvezze a békés atmoszférát.",
                 "ro": "Observați zidăria distinctă; intrați rapid pentru a vă bucura de atmosfera pașnică, departe de burnița de afară.",
-                "en": "Notice the distinct brickwork of this church; step inside quickly to enjoy the peaceful atmosphere away from the drizzle."
+                "en": "Notice the distinct brickwork of this church; step inside quickly to enjoy the peaceful atmosphere away from the drizzle.",
+                "es": "Observa la distintiva mampostería de esta iglesia; entra rápido para disfrutar de la atmósfera tranquila y alejarte de la llovizna."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Museum für Medizingeschichte der Extremadura",
                 "hu": "Extremadura Orvostörténeti Múzeuma",
                 "ro": "Muzeul de Istorie a Medicinei din Extremadura",
-                "en": "Museum of the History of Medicine of Extremadura"
+                "en": "Museum of the History of Medicine of Extremadura",
+                "es": "Museo de la Historia de la Medicina de Extremadura"
               },
               "tip_5lang": {
                 "de": "Lernen Sie historische medizinische Praktiken kennen; die spannenden Ausstellungen sind ein idealer Rückzugsort an regnerischen Tagen.",
                 "hu": "Ismerje meg az orvostörténeti eszközöket; a lenyűgöző beltéri kiállítás ideális menedék egy esős délutánon.",
                 "ro": "Învățați despre practicile medicale istorice; expozițiile captivante fac din acest loc un refugiu ideal într-o după-amiază ploioasă.",
-                "en": "Learn about historical medical practices here; the engaging indoor exhibits make this an ideal rainy afternoon retreat."
+                "en": "Learn about historical medical practices here; the engaging indoor exhibits make this an ideal rainy afternoon retreat.",
+                "es": "Aprende sobre prácticas médicas históricas aquí; las atractivas exposiciones interiores lo convierten en un refugio ideal para una tarde lluviosa."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Beginnen Sie den frischen Winterspaziergang am Casa-Palacio. Mittags wärmt die Sonne die Kirchenfassaden, ideal für Besichtigungen. Wenn der Nachmittag abkühlt und die Sonne früh untergeht, ziehen Sie sich in die Museen zurück. Beenden Sie den Tag in einem gemütlichen Lokal.",
             "hu": "Kezdje a csípős téli sétát a Casa-Palacio-nál. Délben a nap felmelegíti a templomok homlokzatát, ami ideális a városnézéshez. Ahogy a délután lehűl és a nap korán lenyugszik, húzódjon be a múzeumokba. Zárja a napot egy hangulatos, meleg helyen.",
             "ro": "Începeți plimbarea de iarnă la Casa-Palacio. La prânz, soarele încălzește fațadele bisericilor, perfect pentru vizitare. Pe măsură ce se răcește și soarele apune devreme, retrageți-vă în muzee. Încheiați ziua geroasă într-un local primitor și cald.",
-            "en": "Begin your crisp winter walk at the Casa-Palacio. Around midday, the sun warms the historic church facades, perfect for sightseeing. As the afternoon cools and the sun sets early, head inside the fascinating museums. End your brisk day in a cozy local establishment."
+            "en": "Begin your crisp winter walk at the Casa-Palacio. Around midday, the sun warms the historic church facades, perfect for sightseeing. As the afternoon cools and the sun sets early, head inside the fascinating museums. End your brisk day in a cozy local establishment.",
+            "es": "Comienza tu paseo invernal enérgico en la Casa-Palacio. Al mediodía el sol calienta las fachadas históricas, perfecto para hacer turismo. Cuando la tarde refresca y el sol se pone temprano, dirígete a los fascinantes museos. Termina el día en un acogedor establecimiento local."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Casa-Palacio del Conde de la Corte",
                 "hu": "Casa-Palacio del Conde de la Corte",
                 "ro": "Casa-Palacio del Conde de la Corte",
-                "en": "Casa-Palacio del Conde de la Corte"
+                "en": "Casa-Palacio del Conde de la Corte",
+                "es": "Casa-Palacio del Conde de la Corte"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die historischen Säle; kleiden Sie sich im Zwiebellook, da die großen Steinräume im Winter sehr kühl sein können.",
                 "hu": "Fedezze fel a történelmi termeket; öltözzön rétegesen, mivel a hatalmas kőhelyiségek télen meglehetősen hűvösek lehetnek.",
                 "ro": "Explorați sălile istorice; îmbrăcați-vă în straturi, deoarece marile încăperi de piatră pot fi destul de răcoroase iarna.",
-                "en": "Explore the historic halls of this palace; dress in warm layers as the grand stone rooms can feel quite chilly in winter."
+                "en": "Explore the historic halls of this palace; dress in warm layers as the grand stone rooms can feel quite chilly in winter.",
+                "es": "Explora los salones históricos de este palacio; vístete con capas abrigadas porque las grandes salas de piedra pueden estar bastante frías en invierno."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Stiftskirche La Candelaria",
                 "hu": "La Candelaria Társaskáptalani Templom",
                 "ro": "Biserica Colegială La Candelaria",
-                "en": "Collegiate Church of La Candelaria"
+                "en": "Collegiate Church of La Candelaria",
+                "es": "Colegiata de La Candelaria"
               },
               "tip_5lang": {
                 "de": "Sehen Sie den beeindruckenden Altar; das morgendliche Winterlicht, das durch die Fenster fällt, beleuchtet das Kirchenschiff wunderschön.",
                 "hu": "Nézze meg a lenyűgöző oltárt; az ablakokon besütő reggeli téli fény gyönyörűen megvilágítja a főhajót.",
                 "ro": "Vedeți altarul impresionant; lumina dimineții de iarnă care pătrunde prin ferestre iluminează frumos naosul.",
-                "en": "See the impressive altarpiece; the morning winter light streaming through the windows beautifully illuminates the nave."
+                "en": "See the impressive altarpiece; the morning winter light streaming through the windows beautifully illuminates the nave.",
+                "es": "Mira el impresionante retablo; la luz matinal invernal que entra por las ventanas ilumina bellamente la nave."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Kloster Santa Catalina",
                 "hu": "Santa Catalina Kolostor",
                 "ro": "Mănăstirea Santa Catalina",
-                "en": "Convent of Santa Catalina"
+                "en": "Convent of Santa Catalina",
+                "es": "Convento de Santa Catalina"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Architektur; die geschlossenen Räume schützen Sie vor den kalten Winterwinden in den engen Gassen.",
                 "hu": "Élvezze a békés építészetet; a zárt terek megvédik a szűk utcákon gyakori, csípős téli szelektől.",
                 "ro": "Bucurați-vă de arhitectura senină; spațiile închise vă protejează de vânturile aspre de iarnă din străzile înguste.",
-                "en": "Enjoy the serene architecture; the enclosed spaces protect you from the crisp winter winds common in the narrow streets."
+                "en": "Enjoy the serene architecture; the enclosed spaces protect you from the crisp winter winds common in the narrow streets.",
+                "es": "Disfruta de la serena arquitectura; los espacios cerrados te protegen de los fríos vientos invernales habituales en las calles estrechas."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Museum Santa Clara",
                 "hu": "Santa Clara Múzeum",
                 "ro": "Muzeul Santa Clara",
-                "en": "Santa Clara Museum"
+                "en": "Santa Clara Museum",
+                "es": "Museo Santa Clara"
               },
               "tip_5lang": {
                 "de": "Tauchen Sie in die faszinierende Ausstellung ein; das beheizte Museum bietet eine angenehme Flucht vor der kalten Außenluft.",
                 "hu": "Merüljön el a lenyűgöző kiállításban; a fűtött múzeum kényelmes menedéket kínál a hideg kinti levegő elől.",
                 "ro": "Aprofundați-vă în expoziția fascinantă; muzeul încălzit oferă o evadare confortabilă din aerul rece de afară.",
-                "en": "Delve into the fascinating religious artifacts; the heated museum offers a comfortable escape from the cold outdoor air."
+                "en": "Delve into the fascinating religious artifacts; the heated museum offers a comfortable escape from the cold outdoor air.",
+                "es": "Profundiza en los fascinantes objetos religiosos; el museo climatizado ofrece un cómodo escape del aire frío exterior."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Kirche Santa Marina",
                 "hu": "Santa Marina Templom",
                 "ro": "Biserica Santa Marina",
-                "en": "Church of Santa Marina"
+                "en": "Church of Santa Marina",
+                "es": "Iglesia de Santa Marina"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Fassadendetails; planen Sie den Besuch, solange die winterliche Mittagssonne den historischen Platz erhellt.",
                 "hu": "Csodálja meg a homlokzat részleteit; időzítse a látogatást úgy, hogy a déli téli nap még megvilágítsa a történelmi teret.",
                 "ro": "Admirați detaliile fațadei; vizitați în timp ce soarele de prânz de iarnă încă luminează piața istorică.",
-                "en": "Admire the architectural details of the facade; aim to visit while the midday winter sun still brightens the historic square."
+                "en": "Admire the architectural details of the facade; aim to visit while the midday winter sun still brightens the historic square.",
+                "es": "Admira los detalles arquitectónicos de la fachada; procura visitarla mientras el sol de mediodía invernal aún ilumina la plaza histórica."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Museum für Medizingeschichte der Extremadura",
                 "hu": "Extremadura Orvostörténeti Múzeuma",
                 "ro": "Muzeul de Istorie a Medicinei din Extremadura",
-                "en": "Museum of the History of Medicine of Extremadura"
+                "en": "Museum of the History of Medicine of Extremadura",
+                "es": "Museo de la Historia de la Medicina de Extremadura"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag mit Medizingeschichte; die gut beleuchteten Innenräume sind perfekt, wenn die frühe Winterdämmerung einsetzt.",
                 "hu": "Zárja a napot az orvostörténettel; a jól kivilágított belső terek tökéletesek, amikor a korai téli szürkület leszáll.",
                 "ro": "Încheiați ziua explorând istoria medicinei; interioarele bine luminate sunt perfecte când se instalează amurgul timpuriu de iarnă.",
-                "en": "End your day exploring medical history; its well-lit indoor displays are perfect for when the early winter dusk sets in."
+                "en": "End your day exploring medical history; its well-lit indoor displays are perfect for when the early winter dusk sets in.",
+                "es": "Termina el día explorando la historia médica; sus exposiciones interiores bien iluminadas son perfectas cuando cae el temprano crepúsculo invernal."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Turm von San Francisco",
             "hu": "San Francisco Torony",
             "ro": "Turnul San Francisco",
-            "en": "Tower of San Francisco"
+            "en": "Tower of San Francisco",
+            "es": "Torre de San Francisco"
           },
           "coords": [
             -6.413068,
@@ -380,7 +420,8 @@
             "de": "Betrachten Sie diesen beeindruckenden historischen Turm, der einst zu einem großen Komplex gehörte, und tragen Sie bequeme Schuhe für die Umgebung.",
             "hu": "Tekintse meg ezt a lenyűgöző történelmi tornyot, amely egykor egy nagy komplexum része volt, és viseljen kényelmes cipőt a környék felfedezéséhez.",
             "ro": "Priviți acest impresionant turn istoric care făcea parte dintr-un complex măreț și purtați pantofi confortabili pentru a explora terenurile din jur.",
-            "en": "View this impressive historical tower that once formed part of a grand complex, and wear comfortable walking shoes to explore the surrounding grounds."
+            "en": "View this impressive historical tower that once formed part of a grand complex, and wear comfortable walking shoes to explore the surrounding grounds.",
+            "es": "Contempla esta impresionante torre histórica que formó parte de un gran conjunto; lleva calzado cómodo para explorar los alrededores."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Rosenkranzkloster",
             "hu": "Rózsafüzér Kolostor",
             "ro": "Mănăstirea Rozariului",
-            "en": "Convent of the Rosary"
+            "en": "Convent of the Rosary",
+            "es": "Convento del Rosario"
           },
           "coords": [
             -6.422165,
@@ -403,7 +445,8 @@
             "de": "Besuchen Sie dieses markante religiöse Denkmal, um mehr über das lokale Erbe zu erfahren, aber beachten Sie mögliche Einschränkungen an Wochentagen.",
             "hu": "Látogasson el ehhez a vallási műemlékhez, hogy megismerje a helyi örökséget, de vegye figyelembe, hogy a belső tér korlátozottan látogatható.",
             "ro": "Vizitați acest monument religios pentru a afla despre bogata sa moștenire locală, dar rețineți că accesul în interior poate fi limitat în unele zile.",
-            "en": "Visit this striking religious monument to learn about its rich local heritage, but be aware that interior access might be limited on certain weekdays."
+            "en": "Visit this striking religious monument to learn about its rich local heritage, but be aware that interior access might be limited on certain weekdays.",
+            "es": "Visita este llamativo monumento religioso para conocer su rico patrimonio local, pero ten en cuenta que el acceso interior puede estar limitado algunos días laborables."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Stiftskirche La Candelaria",
             "hu": "La Candelaria Társaskáptalani Templom",
             "ro": "Biserica Colegială La Candelaria",
-            "en": "Collegiate Church of La Candelaria"
+            "en": "Collegiate Church of La Candelaria",
+            "es": "Colegiata de La Candelaria"
           },
           "coords": [
             -6.419303,
@@ -426,7 +470,8 @@
             "de": "Bewundern Sie die exquisiten Altarbilder in dieser majestätischen Stiftskirche und bringen Sie eine Kamera für die atemberaubende religiöse Kunst mit.",
             "hu": "Csodálja meg a fenséges társaskáptalani templom gyönyörű oltárképeit, és hozzon magával fényképezőgépet a lenyűgöző vallási művészet megörökítéséhez.",
             "ro": "Admirați altarele rafinate din această maiestuoasă biserică colegială și aduceți o cameră pentru a surprinde detaliile artei sale religioase.",
-            "en": "Admire the exquisite altarpieces inside this majestic collegiate church, and bring a camera to capture the stunning details of its religious art."
+            "en": "Admire the exquisite altarpieces inside this majestic collegiate church, and bring a camera to capture the stunning details of its religious art.",
+            "es": "Admira los exquisitos retablos en el interior de esta majestuosa colegiata y lleva una cámara para captar los detalles de su arte religioso."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Casa-Palacio del Conde de la Corte",
             "hu": "Casa-Palacio del Conde de la Corte",
             "ro": "Casa-Palacio del Conde de la Corte",
-            "en": "Casa-Palacio del Conde de la Corte"
+            "en": "Casa-Palacio del Conde de la Corte",
+            "es": "Casa-Palacio del Conde de la Corte"
           },
           "coords": [
             -6.418128,
@@ -449,7 +495,8 @@
             "de": "Erkunden Sie diesen beeindruckenden mittelalterlichen Palast, der Zafras aristokratische Geschichte offenbart, aber prüfen Sie vorab die Öffnungszeiten.",
             "hu": "Fedezze fel ezt a lenyűgöző középkori palotát, amely Zafra arisztokratikus múltját őrzi, de látogatás előtt ellenőrizze az udvar nyitvatartását.",
             "ro": "Explorați acest palat medieval uimitor care dezvăluie istoria aristocratică a Zafrei, dar asigurați-vă că verificați orarul curții înainte de vizită.",
-            "en": "Explore this stunning medieval palace that reveals Zafra's aristocratic history, but be sure to check the courtyard opening hours before your visit."
+            "en": "Explore this stunning medieval palace that reveals Zafra's aristocratic history, but be sure to check the courtyard opening hours before your visit.",
+            "es": "Explora este impresionante palacio medieval que revela la historia aristocrática de Zafra; consulta los horarios del patio antes de la visita."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Museum Santa Clara",
             "hu": "Santa Clara Múzeum",
             "ro": "Muzeul Santa Clara",
-            "en": "Santa Clara Museum"
+            "en": "Santa Clara Museum",
+            "es": "Museo Santa Clara"
           },
           "coords": [
             -6.418582,
@@ -472,7 +520,8 @@
             "de": "Entdecken Sie faszinierende Artefakte in diesem Museum innerhalb eines Klosters und fragen Sie die Führer unbedingt nach versteckten Architekturdetails.",
             "hu": "Fedezze fel a lenyűgöző kolostorban működő múzeum érdekes leleteit, és feltétlenül kérdezze meg az idegenvezetőket a rejtett építészeti részletekről.",
             "ro": "Descoperiți artefacte fascinante în acest muzeu găzduit într-o mănăstire uimitoare, asigurându-vă că întrebați ghizii despre detaliile arhitecturale.",
-            "en": "Discover fascinating artifacts in this museum housed within a stunning convent, making sure to ask the guides about the hidden architectural details."
+            "en": "Discover fascinating artifacts in this museum housed within a stunning convent, making sure to ask the guides about the hidden architectural details.",
+            "es": "Descubre objetos fascinantes en este museo ubicado en un convento impresionante; pregunta a los guías por los detalles arquitectónicos ocultos."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Kulturkomplex Theater Zafra",
             "hu": "Zafra Színházi Kulturális Komplexum",
             "ro": "Complexul Cultural Teatrul Zafra",
-            "en": "Zafra Theater Cultural Complex"
+            "en": "Zafra Theater Cultural Complex",
+            "es": "Complejo Cultural Teatro de Zafra"
           },
           "coords": [
             -6.421361,
@@ -495,7 +545,8 @@
             "de": "Erleben Sie den kulturellen Herzschlag der Stadt in diesem modernen Theaterkomplex und prüfen Sie den Spielplan auf mögliche offene Proben vor Ort.",
             "hu": "Tapasztalja meg a város kulturális lüktetését ebben a modern színházi komplexumban, és ellenőrizze a műsort, hogy vannak-e nyilvános próbák.",
             "ro": "Experimentați pulsul cultural al orașului la acest complex teatral modern, verificând programul local în avans pentru a vedea dacă există repetiții.",
-            "en": "Experience the cultural heartbeat of the city at this modern theater complex, checking the local schedule in advance to see if any rehearsals are open."
+            "en": "Experience the cultural heartbeat of the city at this modern theater complex, checking the local schedule in advance to see if any rehearsals are open.",
+            "es": "Vive el latido cultural de la ciudad en este moderno complejo teatral; consulta el programa local con antelación para ver si hay ensayos abiertos."
           }
         },
         {
@@ -503,7 +554,8 @@
             "de": "Museum für Medizingeschichte der Extremadura",
             "hu": "Extremadura Orvostörténeti Múzeuma",
             "ro": "Muzeul de Istorie a Medicinei din Extremadura",
-            "en": "Museum of the History of Medicine of Extremadura"
+            "en": "Museum of the History of Medicine of Extremadura",
+            "es": "Museo de la Historia de la Medicina de Extremadura"
           },
           "coords": [
             -6.41371,
@@ -518,7 +570,8 @@
             "de": "Tauchen Sie in diesem einzigartigen Museum in die medizinische Geschichte der Extremadura ein und nehmen Sie sich Zeit für die historischen Exponate.",
             "hu": "Merüljön el Extremadura érdekes orvostörténetében ebben az egyedülálló múzeumban, és szánjon elegendő időt a jól összeállított kiállítások elolvasására.",
             "ro": "Pătrundeți în istoria medicală intrigantă a Extremadurei la acest muzeu unic, alocând suficient timp pentru a citi exponatele istorice bine îngrijite.",
-            "en": "Dive into the intriguing medical history of Extremadura at this unique museum, allowing ample time to read through the well-curated historical exhibits."
+            "en": "Dive into the intriguing medical history of Extremadura at this unique museum, allowing ample time to read through the well-curated historical exhibits.",
+            "es": "Sumérgete en la intrigante historia médica de Extremadura en este museo único; reserva tiempo para leer las bien curadas exposiciones históricas."
           }
         }
       ],
@@ -526,7 +579,8 @@
         "de": "Der Morgen beginnt am historischen Torre de San Francisco, von wo aus Sie auf Ihrer Radtour zum ruhigen Convento del Rosario fahren.\nMittags erreichen Sie das Herz von Zafra, um die Colegiata de la Candelaria und das markante Casa-Palacio del Conde de la Corte zu bestaunen.\nDer Nachmittag ist dem kunstvollen Museo Santa Clara und der zeitgenössischen Lebendigkeit des Complejo Cultural Teatro de Zafra gewidmet.\nDer Abend endet am einzigartigen Medizinhistorischen Museum und schließt einen dynamischen Tag voller Entdeckungen auf zwei Rädern ab.",
         "hu": "A reggel lendületesen indul a történelmi Torre de San Francisco-nál, majd egy kellemes kerékpárút vezet a békés Convento del Rosario felé.\nDélben Zafra szívébe érkezik, ahol megcsodálhatja a Colegiata de la Candelaria-t és a lenyűgöző Casa-Palacio del Conde de la Corte-t.\nA délután a művészeti Museo Santa Clara-nak és a Complejo Cultural Teatro de Zafra modern, lüktető kulturális színterének van szentelve.\nAz este a különleges orvostörténeti múzeumban ér véget, lezárva egy dinamikus napot Zafra változatos nevezetességeinek kétkeréken történő felfedezésével.",
         "ro": "Dimineața începe alert la istoricul Torre de San Francisco, pornind pe un traseu de ciclism care duce la liniștitul Convento del Rosario.\nAmiaza vă aduce în inima Zafrei pentru a admira Colegiata de la Candelaria și impresionantul Casa-Palacio del Conde de la Corte.\nDupă-amiaza este dedicată artisticului Museo Santa Clara și vibrației contemporane de la Complejo Cultural Teatro de Zafra.\nSeara se încheie la muzeul unic de istorie medicală, finalizând o zi dinamică de explorare a reperelor diverse ale Zafrei pe două roți.",
-        "en": "Morning starts briskly at the historic Torre de San Francisco, setting off on a cycling route that leads to the serene Convento del Rosario.\nMidday brings you to the heart of Zafra to marvel at Colegiata de la Candelaria and the striking Casa-Palacio del Conde de la Corte.\nAfternoon is dedicated to the artistic Museo Santa Clara and the contemporary vibrancy of the Complejo Cultural Teatro de Zafra.\nEvening concludes at the unique medical history museum, wrapping up a dynamic day of exploring Zafra's diverse landmarks on two wheels."
+        "en": "Morning starts briskly at the historic Torre de San Francisco, setting off on a cycling route that leads to the serene Convento del Rosario.\nMidday brings you to the heart of Zafra to marvel at Colegiata de la Candelaria and the striking Casa-Palacio del Conde de la Corte.\nAfternoon is dedicated to the artistic Museo Santa Clara and the contemporary vibrancy of the Complejo Cultural Teatro de Zafra.\nEvening concludes at the unique medical history museum, wrapping up a dynamic day of exploring Zafra's diverse landmarks on two wheels.",
+        "es": "La mañana comienza enérgica en la histórica Torre de San Francisco, iniciando una ruta en bicicleta que conduce al sereno Convento del Rosario.\nAl mediodía llegas al corazón de Zafra para maravillarte con la Colegiata de la Candelaria y la imponente Casa-Palacio del Conde de la Corte.\nPor la tarde dedícate al artístico Museo Santa Clara y a la vibrante contemporaneidad del Complejo Cultural Teatro de Zafra.\nLa noche concluye en el singular museo de historia de la medicina, cerrando un día dinámico de exploración de los diversos hitos de Zafra sobre dos ruedas."
       },
       "variants": {
         "rainy": {
@@ -534,7 +588,8 @@
             "de": "Starten Sie Ihre nasse Fahrt am San Francisco Turm. Mittags navigieren Sie vorsichtig über das nasse Kopfsteinpflaster zwischen Kloster und Kirchen. Verbringen Sie den regnerischen Nachmittag im Santa Clara Museum und im Theaterkomplex. Beenden Sie die Tour sicher im Trockenen.",
             "hu": "Kezdje a nedves túrát a San Francisco Toronynál. Délben óvatosan tekerjen a vizes macskaköveken a templomok között. Az esős délutánt töltse a Santa Clara múzeumban és a színházkomplexumban. Zárja a napot biztonságban, a fedett Orvostörténeti Múzeumban.",
             "ro": "Începeți cursa umedă la Turnul San Francisco. La prânz, navigați cu grijă pe piatra cubică udă între biserici. Petreceți după-amiaza ploioasă explorând muzeul Santa Clara și complexul teatral. Terminați în siguranță la interior, la Muzeul de Medicină.",
-            "en": "Start your wet-weather ride at the Tower of San Francisco. By noon, carefully navigate the wet cobblestones between the convent and churches. Spend the rainy afternoon exploring the Santa Clara museum and the theater complex. Finish at the Medicine Museum safely indoors."
+            "en": "Start your wet-weather ride at the Tower of San Francisco. By noon, carefully navigate the wet cobblestones between the convent and churches. Spend the rainy afternoon exploring the Santa Clara museum and the theater complex. Finish at the Medicine Museum safely indoors.",
+            "es": "Comienza tu paseo con lluvia en la Torre de San Francisco. Al mediodía navega con cuidado por los empedrados mojados entre el convento y las iglesias. Pasa la tarde lluviosa explorando el museo Santa Clara y el complejo teatral. Termina en el Museo de la Medicina, a salvo en interior."
           },
           "stops": [
             {
@@ -542,13 +597,15 @@
                 "de": "Turm von San Francisco",
                 "hu": "San Francisco Torony",
                 "ro": "Turnul San Francisco",
-                "en": "Tower of San Francisco"
+                "en": "Tower of San Francisco",
+                "es": "Torre de San Francisco"
               },
               "tip_5lang": {
                 "de": "Fotografieren Sie den Turm; tragen Sie eine wasserdichte Fahrradjacke, da der offene Platz kaum Regenschutz bietet.",
                 "hu": "Fotózza le a tornyot; viseljen vízálló kerékpáros kabátot, mivel a nyitott tér szinte semmi védelmet nem nyújt az eső ellen.",
                 "ro": "Fotografiați turnul; purtați o jachetă de ciclism impermeabilă, deoarece piața deschisă oferă foarte puțin adăpost împotriva ploii.",
-                "en": "View the imposing historical tower; wear a waterproof cycling jacket as the open square offers very little rain cover."
+                "en": "View the imposing historical tower; wear a waterproof cycling jacket as the open square offers very little rain cover.",
+                "es": "Contempla la imponente torre histórica; lleva chaqueta impermeable para ciclismo, ya que la plaza abierta ofrece poca protección ante la lluvia."
               }
             },
             {
@@ -556,13 +613,15 @@
                 "de": "Rosenkranzkloster",
                 "hu": "Rózsafüzér Kolostor",
                 "ro": "Mănăstirea Rozariului",
-                "en": "Convent of the Rosary"
+                "en": "Convent of the Rosary",
+                "es": "Convento del Rosario"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die Klosterfassade; bremsen Sie sanft ab, da die umliegenden Kopfsteinpflasterstraßen bei Regen sehr rutschig werden.",
                 "hu": "Figyelje meg a kolostor homlokzatát; fékezzen óvatosan, mert a környező macskaköves utcák esőben nagyon csúszóssá válnak.",
                 "ro": "Observați fațada mănăstirii; frânați ușor, deoarece străzile pietruite din jur devin foarte alunecoase în ploaie.",
-                "en": "Check out the peaceful convent exterior; brake gently on approach as the surrounding cobbled streets get slick in the rain."
+                "en": "Check out the peaceful convent exterior; brake gently on approach as the surrounding cobbled streets get slick in the rain.",
+                "es": "Observa el pacífico exterior del convento; frena con suavidad al acercarte, ya que las calles empedradas se vuelven resbaladizas con la lluvia."
               }
             },
             {
@@ -570,13 +629,15 @@
                 "de": "Stiftskirche La Candelaria",
                 "hu": "La Candelaria Társaskáptalani Templom",
                 "ro": "Biserica Colegială La Candelaria",
-                "en": "Collegiate Church of La Candelaria"
+                "en": "Collegiate Church of La Candelaria",
+                "es": "Colegiata de La Candelaria"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um die Kunstwerke zu sehen; schließen Sie Ihr Fahrrad sicher unter einem Vordach an, um den Sattel trocken zu halten.",
                 "hu": "Lépjen be a műalkotásokért; zárja le a kerékpárját egy közeli eresz alatt, hogy a nyereg száraz maradjon, amíg bent van.",
                 "ro": "Intrați pentru a vedea operele de artă; legați bicicleta în siguranță sub o streașină pentru a vă menține șaua uscată.",
-                "en": "Step inside to see the stunning artworks; lock your bike securely under a nearby overhang to keep your saddle dry."
+                "en": "Step inside to see the stunning artworks; lock your bike securely under a nearby overhang to keep your saddle dry.",
+                "es": "Entra para ver las obras de arte; asegura tu bicicleta bajo un alero cercano para mantener el sillín seco."
               }
             },
             {
@@ -584,13 +645,15 @@
                 "de": "Casa-Palacio del Conde de la Corte",
                 "hu": "Casa-Palacio del Conde de la Corte",
                 "ro": "Casa-Palacio del Conde de la Corte",
-                "en": "Casa-Palacio del Conde de la Corte"
+                "en": "Casa-Palacio del Conde de la Corte",
+                "es": "Casa-Palacio del Conde de la Corte"
               },
               "tip_5lang": {
                 "de": "Besichtigen Sie den Renaissance-Innenhof; seien Sie vorsichtig auf den nassen Fliesen und gehen Sie langsam durch die Flure.",
                 "hu": "Járja be a reneszánsz udvart; legyen óvatos a nedves csempéken, és lassan sétáljon végig a folyosókon az esős időben.",
                 "ro": "Vizitați curtea renascentistă; aveți grijă pe gresia udă și mergeți încet prin coridoare în timpul vremii ploioase.",
-                "en": "Tour the beautiful Renaissance courtyard; be careful on the wet tiles and take your time walking through the corridors."
+                "en": "Tour the beautiful Renaissance courtyard; be careful on the wet tiles and take your time walking through the corridors.",
+                "es": "Recorre el bello patio renacentista; ten cuidado con los azulejos mojados y ve con calma por los corredores."
               }
             },
             {
@@ -598,13 +661,15 @@
                 "de": "Museum Santa Clara",
                 "hu": "Santa Clara Múzeum",
                 "ro": "Muzeul Santa Clara",
-                "en": "Santa Clara Museum"
+                "en": "Santa Clara Museum",
+                "es": "Museo Santa Clara"
               },
               "tip_5lang": {
                 "de": "Nehmen Sie sich Zeit für die Ausstellungen; es ist ein toller, langer Zufluchtsort im Trockenen, während es draußen regnet.",
                 "hu": "Szánjon bőséges időt a kiállításokra; remek, hosszú beltéri menedéket nyújt, amíg kint elvonul az eső.",
                 "ro": "Alocați timp pentru expoziții; oferă un refugiu excelent și lung la interior în timp ce ploaia trece afară.",
-                "en": "Spend ample time exploring the exhibits here; it provides a great, long indoor refuge while the rain passes outside."
+                "en": "Spend ample time exploring the exhibits here; it provides a great, long indoor refuge while the rain passes outside.",
+                "es": "Dedica tiempo a explorar las exposiciones; es un gran refugio interior y prolongado mientras la lluvia pasa afuera."
               }
             },
             {
@@ -612,13 +677,15 @@
                 "de": "Kulturkomplex Theater Zafra",
                 "hu": "Zafra Színházi Kulturális Komplexum",
                 "ro": "Complexul Cultural Teatrul Zafra",
-                "en": "Zafra Theater Cultural Complex"
+                "en": "Zafra Theater Cultural Complex",
+                "es": "Complejo Cultural Teatro de Zafra"
               },
               "tip_5lang": {
                 "de": "Genießen Sie das moderne Kulturangebot; das geräumige Foyer ist ein großartiger Ort, um den Regen abzuschütteln.",
                 "hu": "Élvezze a modern kulturális kínálatot; a tágas beltéri előcsarnok remek hely arra, hogy lerázza magáról az esővizet.",
                 "ro": "Bucurați-vă de oferta culturală modernă; foaierul spațios este un loc minunat pentru a vă scutura de ploaie.",
-                "en": "Enjoy the modern cultural offerings of this complex; the spacious indoor foyer is a great place to shake off the rain."
+                "en": "Enjoy the modern cultural offerings of this complex; the spacious indoor foyer is a great place to shake off the rain.",
+                "es": "Disfruta de la oferta cultural moderna de este complejo; el espacioso vestíbulo interior es un buen lugar para quitarse la lluvia."
               }
             },
             {
@@ -626,13 +693,15 @@
                 "de": "Museum für Medizingeschichte der Extremadura",
                 "hu": "Extremadura Orvostörténeti Múzeuma",
                 "ro": "Muzeul de Istorie a Medicinei din Extremadura",
-                "en": "Museum of the History of Medicine of Extremadura"
+                "en": "Museum of the History of Medicine of Extremadura",
+                "es": "Museo de la Historia de la Medicina de Extremadura"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie historische Instrumente; beenden Sie Ihre regnerische Fahrt hier, wo Sie sich gemütlich im Warmen erholen können.",
                 "hu": "Fedezze fel a történelmi orvosi eszközöket; fejezze be itt az esős túrát, ahol kényelmesen felmelegedhet a zárt térben.",
                 "ro": "Descoperiți instrumente medicale istorice; încheiați-vă cursa ploioasă aici, unde vă puteți încălzi confortabil la interior.",
-                "en": "Discover intriguing historical medical tools; finish your rainy ride here where you can comfortably warm up indoors."
+                "en": "Discover intriguing historical medical tools; finish your rainy ride here where you can comfortably warm up indoors.",
+                "es": "Descubre intrigantes herramientas médicas históricas; termina tu paseo lluvioso aquí donde puedes calentarte cómodamente en interior."
               }
             }
           ]
@@ -642,7 +711,8 @@
             "de": "Beginnen Sie Ihre frische Winterfahrt am historischen Turm. Genießen Sie mittags die klare Luft beim Radeln zwischen den Kirchen Zafras. Der Nachmittag führt Sie in warme kulturelle Einrichtungen. Beenden Sie Ihre Tour vor dem frühen Sonnenuntergang, bevor es kalt wird.",
             "hu": "Kezdje a frissítő téli tekerést a történelmi toronynál. Délben élvezze a tiszta levegőt Zafra templomai között. A délután meleg beltéri kulturális helyszínekre vezeti. Fejezze be a túrát a korai naplemente előtt, mielőtt a hőmérséklet drasztikusan lecsökken.",
             "ro": "Începeți cursa de iarnă la turnul istoric. La prânz, bucurați-vă de aerul proaspăt pedalând între bisericile din Zafra. După-amiaza vă aduce în spații culturale calde. Concluzionați cursa înainte de apusul timpuriu, când temperaturile scad considerabil.",
-            "en": "Kick off your brisk winter ride at the historic tower. At noon, enjoy the crisp air while cycling between Zafra's religious landmarks. The afternoon brings you to warm indoor cultural sites and museums. Conclude your ride before the early sunset drops the temperatures."
+            "en": "Kick off your brisk winter ride at the historic tower. At noon, enjoy the crisp air while cycling between Zafra's religious landmarks. The afternoon brings you to warm indoor cultural sites and museums. Conclude your ride before the early sunset drops the temperatures.",
+            "es": "Comienza tu enérgico paseo invernal en la torre histórica. Al mediodía disfruta del aire fresco mientras circulas entre los hitos religiosos de Zafra. La tarde te lleva a cálidos sitios culturales y museos en interior. Concluye el paseo antes de que la puesta temprana baje las temperaturas."
           },
           "stops": [
             {
@@ -650,13 +720,15 @@
                 "de": "Turm von San Francisco",
                 "hu": "San Francisco Torony",
                 "ro": "Turnul San Francisco",
-                "en": "Tower of San Francisco"
+                "en": "Tower of San Francisco",
+                "es": "Torre de San Francisco"
               },
               "tip_5lang": {
                 "de": "Fotografieren Sie das Wahrzeichen; tragen Sie winddichte Handschuhe, da die Winterkälte auf offenen Plätzen sehr scharf ist.",
                 "hu": "Fotózza le az ikonikus látványosságot; viseljen szélálló kesztyűt, mert a téli hideg a nyitott tereken nagyon csípős.",
                 "ro": "Fotografiați acest punct de reper; purtați mănuși rezistente la vânt, deoarece frigul de iarnă este tăios în zonele deschise.",
-                "en": "Photograph this iconic landmark; wear windproof gloves for the morning ride as the winter chill is sharp in open areas."
+                "en": "Photograph this iconic landmark; wear windproof gloves for the morning ride as the winter chill is sharp in open areas.",
+                "es": "Fotografía este hito icónico; lleva guantes cortaviento para el paseo matinal, ya que el frío invernal es intenso en las zonas abiertas."
               }
             },
             {
@@ -664,13 +736,15 @@
                 "de": "Rosenkranzkloster",
                 "hu": "Rózsafüzér Kolostor",
                 "ro": "Mănăstirea Rozariului",
-                "en": "Convent of the Rosary"
+                "en": "Convent of the Rosary",
+                "es": "Convento del Rosario"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die schöne Fassade; ruhige Wintermorgen bedeuten weniger Verkehr und sorgen für eine viel entspanntere Fahrt.",
                 "hu": "Figyelje meg a gyönyörű homlokzatot; a csendes téli reggeleken kisebb a forgalom, ami sokkal nyugodtabb tekerést tesz lehetővé.",
                 "ro": "Observați fațada frumoasă; diminețile liniștite de iarnă înseamnă mai puțin trafic, oferind o cursă mult mai relaxată.",
-                "en": "Observe the beautiful convent facade; the quiet winter mornings mean less traffic, making for a much more relaxed ride."
+                "en": "Observe the beautiful convent facade; the quiet winter mornings mean less traffic, making for a much more relaxed ride.",
+                "es": "Contempla la hermosa fachada del convento; las tranquilas mañanas de invierno significan menos tráfico, haciendo el paseo mucho más relajado."
               }
             },
             {
@@ -678,13 +752,15 @@
                 "de": "Stiftskirche La Candelaria",
                 "hu": "La Candelaria Társaskáptalani Templom",
                 "ro": "Biserica Colegială La Candelaria",
-                "en": "Collegiate Church of La Candelaria"
+                "en": "Collegiate Church of La Candelaria",
+                "es": "Colegiata de La Candelaria"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die prächtige Innenarchitektur; die dicken Steinmauern sorgen für Kälte, behalten Sie also Ihren Wintermantel an.",
                 "hu": "Csodálja meg a belső teret; a vastag kőfalak miatt bent is hideg van, ezért mindenképpen tartsa magán a téli kabátját.",
                 "ro": "Admirați arhitectura interioară magnifică; pereții groși mențin frigul, așa că păstrați haina de iarnă pe dumneavoastră.",
-                "en": "Admire the magnificent interior architecture; the thick stone walls mean it's chilly inside, so keep your winter coat on."
+                "en": "Admire the magnificent interior architecture; the thick stone walls mean it's chilly inside, so keep your winter coat on.",
+                "es": "Admira la magnífica arquitectura interior; los gruesos muros de piedra hacen que esté fresco dentro, así que mantén tu abrigo de invierno puesto."
               }
             },
             {
@@ -692,13 +768,15 @@
                 "de": "Casa-Palacio del Conde de la Corte",
                 "hu": "Casa-Palacio del Conde de la Corte",
                 "ro": "Casa-Palacio del Conde de la Corte",
-                "en": "Casa-Palacio del Conde de la Corte"
+                "en": "Casa-Palacio del Conde de la Corte",
+                "es": "Casa-Palacio del Conde de la Corte"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die großen Räume; die Wintersonne bringt die filigranen Details des Innenhofs wunderschön zur Geltung.",
                 "hu": "Fedezze fel a palota hatalmas termeit; a téli nap gyönyörűen kiemeli az udvar bonyolult, finom építészeti részleteit.",
                 "ro": "Explorați marile încăperi; soarele de iarnă evidențiază frumos detaliile complicate ale curții interioare.",
-                "en": "Explore the grand rooms of the palace; the winter sun highlights the intricate details of the courtyard beautifully."
+                "en": "Explore the grand rooms of the palace; the winter sun highlights the intricate details of the courtyard beautifully.",
+                "es": "Explora las estancias señoriales del palacio; el sol invernal realza bellamente los detalles intrincados del patio."
               }
             },
             {
@@ -706,13 +784,15 @@
                 "de": "Museum Santa Clara",
                 "hu": "Santa Clara Múzeum",
                 "ro": "Muzeul Santa Clara",
-                "en": "Santa Clara Museum"
+                "en": "Santa Clara Museum",
+                "es": "Museo de Santa Clara"
               },
               "tip_5lang": {
                 "de": "Schauen Sie sich die historischen Stücke an; das beheizte Innere ist eine willkommene Pause vom kalten Fahrtwind.",
                 "hu": "Tekintse meg a történelmi darabokat; a fűtött belső tér kellemes kikapcsolódást nyújt a hideg kerékpáros menetszél után.",
                 "ro": "Priviți piesele istorice; interiorul încălzit este o pauză binevenită de la briza rece a ciclismului.",
-                "en": "Take your time looking at the historic pieces; the heated interior is a welcome break from the cold cycling breeze."
+                "en": "Take your time looking at the historic pieces; the heated interior is a welcome break from the cold cycling breeze.",
+                "es": "Tómate tu tiempo para ver las piezas históricas; el interior climatizado es un agradable respiro del frío provocado por el viento al ir en bicicleta."
               }
             },
             {
@@ -720,13 +800,15 @@
                 "de": "Kulturkomplex Theater Zafra",
                 "hu": "Zafra Színházi Kulturális Komplexum",
                 "ro": "Complexul Cultural Teatrul Zafra",
-                "en": "Zafra Theater Cultural Complex"
+                "en": "Zafra Theater Cultural Complex",
+                "es": "Complejo Cultural Teatro de Zafra"
               },
               "tip_5lang": {
                 "de": "Sehen Sie sich den modernen Raum an; planen Sie Ihren Besuch so, dass das letzte Nachmittagslicht das Gebäude wärmt.",
                 "hu": "Tekintse meg a kortárs teret; tervezze a látogatást úgy, hogy még elcsípje az épületet melegítő utolsó délutáni fényeket.",
                 "ro": "Vedeți spațiul contemporan; planificați-vă vizita pentru a prinde ultima lumină a după-amiezii încălzind clădirea.",
-                "en": "See the contemporary cultural space; plan your visit to catch the last of the afternoon light warming the building's exterior."
+                "en": "See the contemporary cultural space; plan your visit to catch the last of the afternoon light warming the building's exterior.",
+                "es": "Visita este espacio cultural contemporáneo; planifica tu visita para aprovechar los últimos rayos de luz de la tarde que calientan la fachada del edificio."
               }
             },
             {
@@ -734,13 +816,15 @@
                 "de": "Museum für Medizingeschichte der Extremadura",
                 "hu": "Extremadura Orvostörténeti Múzeuma",
                 "ro": "Muzeul de Istorie a Medicinei din Extremadura",
-                "en": "Museum of the History of Medicine of Extremadura"
+                "en": "Museum of the History of Medicine of Extremadura",
+                "es": "Museo de Historia de la Medicina de Extremadura"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Tour mit Medizingeschichte; schalten Sie für die kühle Rückfahrt in der frühen Dämmerung Ihr Fahrradlicht ein.",
                 "hu": "Zárja a túrát az orvostörténettel; győződjön meg róla, hogy bekapcsolta a kerékpárlámpát a korai szürkületben való visszautazáshoz.",
                 "ro": "Terminați turul învățând istorie medicală; asigurați-vă că luminile bicicletei sunt aprinse pentru întoarcerea în amurgul timpuriu.",
-                "en": "Finish your tour learning about medical history; ensure your bike lights are on for the chilly ride back in the early dusk."
+                "en": "Finish your tour learning about medical history; ensure your bike lights are on for the chilly ride back in the early dusk.",
+                "es": "Finaliza tu recorrido aprendiendo sobre la historia médica; asegúrate de llevar las luces de la bici encendidas para el frío regreso al caer el crepúsculo."
               }
             }
           ]
@@ -760,7 +844,8 @@
             "de": "Turm von San Francisco",
             "hu": "San Francisco Torony",
             "ro": "Turnul San Francisco",
-            "en": "Tower of San Francisco"
+            "en": "Tower of San Francisco",
+            "es": "Torre de San Francisco"
           },
           "coords": [
             -6.413068,
@@ -775,7 +860,8 @@
             "de": "Betrachten Sie diesen beeindruckenden historischen Turm, der einst zu einem großen Komplex gehörte, und tragen Sie bequeme Schuhe für die Umgebung.",
             "hu": "Tekintse meg ezt a lenyűgöző történelmi tornyot, amely egykor egy nagy komplexum része volt, és viseljen kényelmes cipőt a környék felfedezéséhez.",
             "ro": "Priviți acest impresionant turn istoric care făcea parte dintr-un complex măreț și purtați pantofi confortabili pentru a explora terenurile din jur.",
-            "en": "View this impressive historical tower that once formed part of a grand complex, and wear comfortable walking shoes to explore the surrounding grounds."
+            "en": "View this impressive historical tower that once formed part of a grand complex, and wear comfortable walking shoes to explore the surrounding grounds.",
+            "es": "Contempla esta impresionante torre histórica que formó parte de un gran conjunto y lleva calzado cómodo para explorar los alrededores."
           }
         },
         {
@@ -783,7 +869,8 @@
             "de": "Rosenkranzkloster",
             "hu": "Rózsafüzér Kolostor",
             "ro": "Mănăstirea Rozariului",
-            "en": "Convent of the Rosary"
+            "en": "Convent of the Rosary",
+            "es": "Convento del Rosario"
           },
           "coords": [
             -6.422165,
@@ -798,7 +885,8 @@
             "de": "Besuchen Sie dieses markante religiöse Denkmal, um mehr über das lokale Erbe zu erfahren, aber beachten Sie mögliche Einschränkungen an Wochentagen.",
             "hu": "Látogasson el ehhez a vallási műemlékhez, hogy megismerje a helyi örökséget, de vegye figyelembe, hogy a belső tér korlátozottan látogatható.",
             "ro": "Vizitați acest monument religios pentru a afla despre bogata sa moștenire locală, dar rețineți că accesul în interior poate fi limitat în unele zile.",
-            "en": "Visit this striking religious monument to learn about its rich local heritage, but be aware that interior access might be limited on certain weekdays."
+            "en": "Visit this striking religious monument to learn about its rich local heritage, but be aware that interior access might be limited on certain weekdays.",
+            "es": "Visita este llamativo monumento religioso para conocer su rica herencia local, pero ten en cuenta que el acceso interior puede estar limitado ciertos días laborables."
           }
         },
         {
@@ -806,7 +894,8 @@
             "de": "Casa-Palacio del Conde de la Corte",
             "hu": "Casa-Palacio del Conde de la Corte",
             "ro": "Casa-Palacio del Conde de la Corte",
-            "en": "Casa-Palacio del Conde de la Corte"
+            "en": "Casa-Palacio del Conde de la Corte",
+            "es": "Casa-Palacio del Conde de la Corte"
           },
           "coords": [
             -6.418128,
@@ -821,7 +910,8 @@
             "de": "Erkunden Sie diesen beeindruckenden mittelalterlichen Palast, der Zafras aristokratische Geschichte offenbart, aber prüfen Sie vorab die Öffnungszeiten.",
             "hu": "Fedezze fel ezt a lenyűgöző középkori palotát, amely Zafra arisztokratikus múltját őrzi, de látogatás előtt ellenőrizze az udvar nyitvatartását.",
             "ro": "Explorați acest palat medieval uimitor care dezvăluie istoria aristocratică a Zafrei, dar asigurați-vă că verificați orarul curții înainte de vizită.",
-            "en": "Explore this stunning medieval palace that reveals Zafra's aristocratic history, but be sure to check the courtyard opening hours before your visit."
+            "en": "Explore this stunning medieval palace that reveals Zafra's aristocratic history, but be sure to check the courtyard opening hours before your visit.",
+            "es": "Explora este impresionante palacio medieval que revela la historia aristocrática de Zafra, pero comprueba el horario de apertura del patio antes de tu visita."
           }
         },
         {
@@ -829,7 +919,8 @@
             "de": "Stiftskirche La Candelaria",
             "hu": "La Candelaria Társaskáptalani Templom",
             "ro": "Biserica Colegială La Candelaria",
-            "en": "Collegiate Church of La Candelaria"
+            "en": "Collegiate Church of La Candelaria",
+            "es": "Colegiata de La Candelaria"
           },
           "coords": [
             -6.419303,
@@ -844,7 +935,8 @@
             "de": "Bewundern Sie die exquisiten Altarbilder in dieser majestätischen Stiftskirche und bringen Sie eine Kamera für die atemberaubende religiöse Kunst mit.",
             "hu": "Csodálja meg a fenséges társaskáptalani templom gyönyörű oltárképeit, és hozzon magával fényképezőgépet a lenyűgöző vallási művészet megörökítéséhez.",
             "ro": "Admirați altarele rafinate din această maiestuoasă biserică colegială și aduceți o cameră pentru a surprinde detaliile artei sale religioase.",
-            "en": "Admire the exquisite altarpieces inside this majestic collegiate church, and bring a camera to capture the stunning details of its religious art."
+            "en": "Admire the exquisite altarpieces inside this majestic collegiate church, and bring a camera to capture the stunning details of its religious art.",
+            "es": "Admira los exquisitos retablos en el interior de esta majestuosa colegiata y lleva una cámara para captar los impresionantes detalles de su arte sacro."
           }
         },
         {
@@ -852,7 +944,8 @@
             "de": "Kloster Santa Catalina",
             "hu": "Santa Catalina Kolostor",
             "ro": "Mănăstirea Santa Catalina",
-            "en": "Convent of Santa Catalina"
+            "en": "Convent of Santa Catalina",
+            "es": "Convento de Santa Catalina"
           },
           "coords": [
             -6.420158,
@@ -867,7 +960,8 @@
             "de": "Tauchen Sie in die friedliche Atmosphäre dieses historischen Klosters ein, um seine Architektur zu bewundern, und bewahren Sie dabei respektvolle Stille.",
             "hu": "Lépjen be ennek a történelmi kolostornak a békés légkörébe, hogy megcsodálja építészetét, miközben tiszteletteljes csendet tart a látogatás alatt.",
             "ro": "Pășiți în atmosfera pașnică a acestei mănăstiri istorice pentru a-i admira arhitectura, păstrând o liniște respectuoasă în timpul vizitei dumneavoastră.",
-            "en": "Step into the peaceful atmosphere of this historic convent to admire its beautiful architecture, keeping a respectful silence during your serene visit."
+            "en": "Step into the peaceful atmosphere of this historic convent to admire its beautiful architecture, keeping a respectful silence during your serene visit.",
+            "es": "Sumérgete en la atmósfera tranquila de este histórico convento para admirar su bella arquitectura, guardando un silencio respetuoso durante la visita."
           }
         },
         {
@@ -875,7 +969,8 @@
             "de": "Museum Santa Clara",
             "hu": "Santa Clara Múzeum",
             "ro": "Muzeul Santa Clara",
-            "en": "Santa Clara Museum"
+            "en": "Santa Clara Museum",
+            "es": "Museo de Santa Clara"
           },
           "coords": [
             -6.418582,
@@ -890,7 +985,8 @@
             "de": "Entdecken Sie faszinierende Artefakte in diesem Museum innerhalb eines Klosters und fragen Sie die Führer unbedingt nach versteckten Architekturdetails.",
             "hu": "Fedezze fel a lenyűgöző kolostorban működő múzeum érdekes leleteit, és feltétlenül kérdezze meg az idegenvezetőket a rejtett építészeti részletekről.",
             "ro": "Descoperiți artefacte fascinante în acest muzeu găzduit într-o mănăstire uimitoare, asigurându-vă că întrebați ghizii despre detaliile arhitecturale.",
-            "en": "Discover fascinating artifacts in this museum housed within a stunning convent, making sure to ask the guides about the hidden architectural details."
+            "en": "Discover fascinating artifacts in this museum housed within a stunning convent, making sure to ask the guides about the hidden architectural details.",
+            "es": "Descubre objetos fascinantes en este museo ubicado en un hermoso convento; pregunta a los guías por los detalles arquitectónicos ocultos."
           }
         },
         {
@@ -898,7 +994,8 @@
             "de": "Museum für Medizingeschichte der Extremadura",
             "hu": "Extremadura Orvostörténeti Múzeuma",
             "ro": "Muzeul de Istorie a Medicinei din Extremadura",
-            "en": "Museum of the History of Medicine of Extremadura"
+            "en": "Museum of the History of Medicine of Extremadura",
+            "es": "Museo de Historia de la Medicina de Extremadura"
           },
           "coords": [
             -6.41371,
@@ -913,7 +1010,8 @@
             "de": "Tauchen Sie in diesem einzigartigen Museum in die medizinische Geschichte der Extremadura ein und nehmen Sie sich Zeit für die historischen Exponate.",
             "hu": "Merüljön el Extremadura érdekes orvostörténetében ebben az egyedülálló múzeumban, és szánjon elegendő időt a jól összeállított kiállítások elolvasására.",
             "ro": "Pătrundeți în istoria medicală intrigantă a Extremadurei la acest muzeu unic, alocând suficient timp pentru a citi exponatele istorice bine îngrijite.",
-            "en": "Dive into the intriguing medical history of Extremadura at this unique museum, allowing ample time to read through the well-curated historical exhibits."
+            "en": "Dive into the intriguing medical history of Extremadura at this unique museum, allowing ample time to read through the well-curated historical exhibits.",
+            "es": "Sumérgete en la intrigante historia médica de Extremadura en este museo singular; reserva tiempo suficiente para leer las bien curadas exposiciones históricas."
           }
         }
       ],
@@ -921,7 +1019,8 @@
         "de": "Der Morgen beginnt am großen Torre de San Francisco, bevor eine kurze Fahrt Sie zum friedlichen Gelände des Convento del Rosario führt.\nMittags fahren Sie direkt ins Stadtzentrum, um das edle Casa-Palacio del Conde de la Corte und die exquisite Colegiata de la Candelaria zu erkunden.\nDer Nachmittag bietet entspannte Wechsel zum Convento de Santa Catalina und den wunderbar kuratierten Sammlungen des Museo Santa Clara.\nDer Abend nähert sich beim Besuch des medizinischen Museums der Extremadura und rundet eine komfortable Autotour durch Zafra perfekt ab.",
         "hu": "A reggel a nagyszerű Torre de San Francisco-nál indul, mielőtt egy rövid autóút a Convento del Rosario békés környezetébe vezetne.\nDélben közvetlenül a városközpontba hajt, hogy felfedezze a nemesi Casa-Palacio del Conde de la Corte-t és a pompás Colegiata de la Candelaria-t.\nA délután könnyedén folytatódik a Convento de Santa Catalina és a Museo Santa Clara gyönyörűen összeállított gyűjteményeinek megtekintésével.\nAz este közeledtével az extremadurai orvostörténeti múzeumot látogatja meg, egy kényelmes és átfogó autós túrára visszatekintve Zafra körül.",
         "ro": "Dimineața debutează la mărețul Torre de San Francisco, înainte ca o scurtă plimbare cu mașina să vă ducă la liniștitul Convento del Rosario.\nAmiaza vă îndreaptă direct spre centrul orașului pentru a explora nobilul Casa-Palacio del Conde de la Corte și rafinata Colegiata de la Candelaria.\nDupă-amiaza continuă cu tranziții ușoare către Convento de Santa Catalina și colecțiile frumos organizate de la Museo Santa Clara.\nSeara se apropie în timp ce vizitați muzeul de istorie medicală din Extremadura, reflectând asupra unui tur auto confortabil al Zafrei.",
-        "en": "Morning kicks off at the grand Torre de San Francisco before a short drive takes you to the peaceful grounds of Convento del Rosario.\nMidday drives you directly to the city center to explore the noble Casa-Palacio del Conde de la Corte and the exquisite Colegiata de la Candelaria.\nAfternoon continues with easy transitions to Convento de Santa Catalina and the beautifully curated collections of Museo Santa Clara.\nEvening approaches as you visit the Extremadura medical history museum, reflecting on a comfortable and comprehensive driving tour of Zafra."
+        "en": "Morning kicks off at the grand Torre de San Francisco before a short drive takes you to the peaceful grounds of Convento del Rosario.\nMidday drives you directly to the city center to explore the noble Casa-Palacio del Conde de la Corte and the exquisite Colegiata de la Candelaria.\nAfternoon continues with easy transitions to Convento de Santa Catalina and the beautifully curated collections of Museo Santa Clara.\nEvening approaches as you visit the Extremadura medical history museum, reflecting on a comfortable and comprehensive driving tour of Zafra.",
+        "es": "La mañana comienza en la imponente Torre de San Francisco antes de un corto trayecto hacia los tranquilos terrenos del Convento del Rosario.\nAl mediodía te diriges al centro para explorar la noble Casa-Palacio del Conde de la Corte y la exquisita Colegiata de la Candelaria.\nPor la tarde continúas con traslados sencillos al Convento de Santa Catalina y a las bellas colecciones del Museo de Santa Clara.\nAl llegar la tarde visitas el museo de historia de la medicina de Extremadura, reflexionando sobre un cómodo y completo recorrido en coche por Zafra."
       },
       "variants": {
         "rainy": {
@@ -929,7 +1028,8 @@
             "de": "Beginnen Sie Ihre regnerische Fahrt am San Francisco Turm. Parken Sie mittags nah an den Klöstern und Kirchen, um wenig im Regen zu laufen. Verbringen Sie den nassen Nachmittag bequem im Santa Clara und Medizinmuseum. Fahren Sie sicher auf dem glatten Kopfsteinpflaster.",
             "hu": "Kezdje az autós utat a San Francisco Toronynál. Délben parkoljon közel a történelmi helyszínekhez, hogy minimalizálja az esőben való sétát. A nedves délutánt töltse kényelmesen a fűtött múzeumokban. Vezessen rendkívül óvatosan a csúszós macskaköves utcákon.",
             "ro": "Începeți plimbarea cu mașina la Turnul San Francisco. La prânz, parcați aproape de mănăstiri pentru a minimiza mersul prin ploaie. Petreceți după-amiaza ploioasă confortabil în muzeele Santa Clara și de Medicină. Conduceți în siguranță pe străzile pietruite alunecoase.",
-            "en": "Begin your rainy drive at the Tower of San Francisco. Midday, park close to the historical convents and churches to minimize walking in the rain. Spend your wet afternoon comfortably indoors at the Santa Clara and Medicine museums. Drive safely on the slick cobbled streets."
+            "en": "Begin your rainy drive at the Tower of San Francisco. Midday, park close to the historical convents and churches to minimize walking in the rain. Spend your wet afternoon comfortably indoors at the Santa Clara and Medicine museums. Drive safely on the slick cobbled streets.",
+            "es": "Comienza tu ruta bajo la lluvia en la Torre de San Francisco. Al mediodía aparca cerca de los conventos e iglesias históricas para minimizar caminar bajo la lluvia. Pasa la tarde lluviosa cómodamente en el interior de los museos de Santa Clara y de Medicina. Conduce con precaución en las empedradas resbaladizas."
           },
           "stops": [
             {
@@ -937,13 +1037,15 @@
                 "de": "Turm von San Francisco",
                 "hu": "San Francisco Torony",
                 "ro": "Turnul San Francisco",
-                "en": "Tower of San Francisco"
+                "en": "Tower of San Francisco",
+                "es": "Torre de San Francisco"
               },
               "tip_5lang": {
                 "de": "Sehen Sie den Turm bequem vom Auto aus, wenn es gießt; falls Sie aussteigen, ist ein Regenschirm hier absolut notwendig.",
                 "hu": "Szakadó esőben nézze meg a tornyot kényelmesen az autóból; ha kiszáll, itt mindenképpen szüksége lesz egy jó esernyőre.",
                 "ro": "Vedeți turnul din confortul mașinii dacă toarnă; dacă ieșiți, o umbrelă este absolut necesară aici în spațiul deschis.",
-                "en": "See the striking tower from the comfort of your car if it's pouring; if you step out, an umbrella is absolutely necessary here."
+                "en": "See the striking tower from the comfort of your car if it's pouring; if you step out, an umbrella is absolutely necessary here.",
+                "es": "Contempla la imponente torre desde la comodidad del coche si llueve intensamente; si sales, un paraguas es imprescindible aquí."
               }
             },
             {
@@ -951,13 +1053,15 @@
                 "de": "Rosenkranzkloster",
                 "hu": "Rózsafüzér Kolostor",
                 "ro": "Mănăstirea Rozariului",
-                "en": "Convent of the Rosary"
+                "en": "Convent of the Rosary",
+                "es": "Convento del Rosario"
               },
               "tip_5lang": {
                 "de": "Fahren Sie langsam am Kloster vorbei; die engen umliegenden Straßen können bei starkem Regen sehr rutschig und überschwemmt sein.",
                 "hu": "Hajtson lassan el a kolostor mellett; a környező szűk utcák heves esőzéskor nagyon csúszóssá válhatnak és könnyen elárasztódnak.",
                 "ro": "Conduceți încet pe lângă mănăstire; străzile înguste din jur pot deveni foarte alunecoase și inundate în timpul ploilor abundente.",
-                "en": "Drive slowly past this historic convent; the narrow streets surrounding it can become quite slippery and flooded during heavy rain."
+                "en": "Drive slowly past this historic convent; the narrow streets surrounding it can become quite slippery and flooded during heavy rain.",
+                "es": "Pasa despacio en coche junto a este histórico convento; las estrechas calles que lo rodean pueden volverse muy resbaladizas e inundarse con lluvia fuerte."
               }
             },
             {
@@ -965,13 +1069,15 @@
                 "de": "Casa-Palacio del Conde de la Corte",
                 "hu": "Casa-Palacio del Conde de la Corte",
                 "ro": "Casa-Palacio del Conde de la Corte",
-                "en": "Casa-Palacio del Conde de la Corte"
+                "en": "Casa-Palacio del Conde de la Corte",
+                "es": "Casa-Palacio del Conde de la Corte"
               },
               "tip_5lang": {
                 "de": "Besichtigen Sie das elegante Palastinnere; parken Sie so nah wie möglich am Eingang, um auf dem Weg nicht nass zu werden.",
                 "hu": "Járja be az elegáns palotabelsőt; parkoljon a bejárathoz a lehető legközelebb, hogy ne ázzon bőrig, mire beér.",
                 "ro": "Vizitați interiorul palatului elegant; parcați cât mai aproape posibil de intrare pentru a evita să vă udați pe drum.",
-                "en": "Tour the elegant palace interior; park as close as possible to the entrance to avoid getting drenched on your way in."
+                "en": "Tour the elegant palace interior; park as close as possible to the entrance to avoid getting drenched on your way in.",
+                "es": "Visita el elegante interior del palacio; aparca lo más cerca posible de la entrada para evitar empaparte al entrar."
               }
             },
             {
@@ -979,13 +1085,15 @@
                 "de": "Stiftskirche La Candelaria",
                 "hu": "La Candelaria Társaskáptalani Templom",
                 "ro": "Biserica Colegială La Candelaria",
-                "en": "Collegiate Church of La Candelaria"
+                "en": "Collegiate Church of La Candelaria",
+                "es": "Colegiata de La Candelaria"
               },
               "tip_5lang": {
                 "de": "Bestaunen Sie den Altar; die massive Struktur bietet einen trockenen, friedlichen Zufluchtsort vor dem stürmischen Wetter draußen.",
                 "hu": "Csodálja meg a lenyűgöző oltárt; a masszív építmény száraz, békés menedéket kínál a kinti viharos, esős időjárás elől.",
                 "ro": "Minunați-vă de altar; structura masivă oferă un refugiu uscat și pașnic de vremea furtunoasă de afară.",
-                "en": "Marvel at the intricate altarpiece inside; the massive structure offers a dry, peaceful haven from the stormy weather outside."
+                "en": "Marvel at the intricate altarpiece inside; the massive structure offers a dry, peaceful haven from the stormy weather outside.",
+                "es": "Maravíllate con el intrincado retablo en el interior; la masiva estructura ofrece un refugio seco y sereno de la tormenta."
               }
             },
             {
@@ -993,13 +1101,15 @@
                 "de": "Kloster Santa Catalina",
                 "hu": "Santa Catalina Kolostor",
                 "ro": "Mănăstirea Santa Catalina",
-                "en": "Convent of Santa Catalina"
+                "en": "Convent of Santa Catalina",
+                "es": "Convento de Santa Catalina"
               },
               "tip_5lang": {
                 "de": "Werfen Sie einen Blick auf die ruhige Architektur; tragen Sie wasserdichte Schuhe für den kurzen Weg vom Parkplatz.",
                 "hu": "Vessen egy pillantást a nyugodt építészetre; viseljen vízálló cipőt a parkolóhelytől a bejáratig tartó rövid sétához.",
                 "ro": "Aruncați o privire rapidă la arhitectura liniștită; purtați pantofi impermeabili pentru scurta plimbare de la locul de parcare.",
-                "en": "Take a quick look at the convent's serene architecture; wear waterproof shoes for the short walk from your parking spot."
+                "en": "Take a quick look at the convent's serene architecture; wear waterproof shoes for the short walk from your parking spot.",
+                "es": "Echa un vistazo rápido a la serena arquitectura del convento; lleva calzado impermeable para la corta caminata desde tu aparcamiento."
               }
             },
             {
@@ -1007,13 +1117,15 @@
                 "de": "Museum Santa Clara",
                 "hu": "Santa Clara Múzeum",
                 "ro": "Muzeul Santa Clara",
-                "en": "Santa Clara Museum"
+                "en": "Santa Clara Museum",
+                "es": "Museo de Santa Clara"
               },
               "tip_5lang": {
                 "de": "Genießen Sie einen langen Besuch im Museum; es ist der perfekte Ort, um bei nachmittäglichen Regengüssen trocken zu bleiben.",
                 "hu": "Élvezze a hosszú múzeumi látogatást; ez a tökéletes, fedett hely arra, hogy szárazon maradjon a délutáni felhőszakadások idején.",
                 "ro": "Bucurați-vă de o vizită lungă la muzeu; este locul perfect pentru a rămâne uscat în timpul averselor de după-amiază.",
-                "en": "Enjoy a long visit exploring the religious art; this large museum is the perfect place to stay dry during afternoon downpours."
+                "en": "Enjoy a long visit exploring the religious art; this large museum is the perfect place to stay dry during afternoon downpours.",
+                "es": "Disfruta de una larga visita explorando el arte religioso; este amplio museo es el lugar perfecto para mantenerse seco durante los aguaceros de la tarde."
               }
             },
             {
@@ -1021,13 +1133,15 @@
                 "de": "Museum für Medizingeschichte der Extremadura",
                 "hu": "Extremadura Orvostörténeti Múzeuma",
                 "ro": "Muzeul de Istorie a Medicinei din Extremadura",
-                "en": "Museum of the History of Medicine of Extremadura"
+                "en": "Museum of the History of Medicine of Extremadura",
+                "es": "Museo de Historia de la Medicina de Extremadura"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie faszinierende medizinische Artefakte; fahren Sie vorsichtig zurück, da die Sicht am späten Regennachmittag sinkt.",
                 "hu": "Fedezze fel a lenyűgöző orvosi leleteket; vezessen óvatosan vissza, mivel az esős késő délutánokon a látótávolság drasztikusan csökken.",
                 "ro": "Explorați artefactele medicale; fiți prudenți la condusul înapoi, deoarece vizibilitatea scade dramatic în după-amiaza ploioasă târzie.",
-                "en": "Explore the fascinating medical artifacts indoors; be cautious driving back as visibility drops in the rainy late afternoon."
+                "en": "Explore the fascinating medical artifacts indoors; be cautious driving back as visibility drops in the rainy late afternoon.",
+                "es": "Explora los fascinantes objetos médicos en el interior; ten precaución al conducir de regreso ya que la visibilidad disminuye en la tarde lluviosa."
               }
             }
           ]
@@ -1037,7 +1151,8 @@
             "de": "Starten Sie Ihre Winterfahrt am San Francisco Turm. Mittags genießen Sie die Annehmlichkeiten des beheizten Autos zwischen den historischen Stätten. Nachmittags erkunden Sie die Museen, während die Temperatur fällt. Beenden Sie die Tour vor Sonnenuntergang, bevor die Straßen vereisen.",
             "hu": "Kezdje a téli autózást a San Francisco Toronynál. Délben élvezze a fűtött autó kényelmét a történelmi helyszínek között. Délután fedezze fel a múzeumokat, miközben a kinti hőmérséklet csökken. Fejezze be a túrát naplemente előtt, mielőtt az utak jegessé válnak.",
             "ro": "Începeți plimbarea de iarnă la Turnul San Francisco. La prânz, bucurați-vă de confortul mașinii încălzite între siturile istorice. După-amiaza, explorați muzeele pe măsură ce temperatura scade. Terminați înainte de apusul soarelui, înainte ca străzile să înghețe.",
-            "en": "Start your winter drive at the Tower of San Francisco. Around noon, enjoy the convenience of your heated car while moving between the historic sites. In the afternoon, explore the museums as the outside temperature drops. Finish before the early sunset makes the roads icy."
+            "en": "Start your winter drive at the Tower of San Francisco. Around noon, enjoy the convenience of your heated car while moving between the historic sites. In the afternoon, explore the museums as the outside temperature drops. Finish before the early sunset makes the roads icy.",
+            "es": "Comienza tu recorrido invernal en la Torre de San Francisco. Hacia el mediodía disfruta de la comodidad del coche con calefacción mientras te desplazas entre los sitios históricos. Por la tarde visita los museos a medida que baja la temperatura exterior. Termina antes del atardecer temprano para evitar que las carreteras se vuelvan heladas."
           },
           "stops": [
             {
@@ -1045,13 +1160,15 @@
                 "de": "Turm von San Francisco",
                 "hu": "San Francisco Torony",
                 "ro": "Turnul San Francisco",
-                "en": "Tower of San Francisco"
+                "en": "Tower of San Francisco",
+                "es": "Torre de San Francisco"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Aussicht auf den Turm; der morgendliche Frost macht die Landschaft malerisch, aber achten Sie auf Eisflächen.",
                 "hu": "Élvezze a torony látványát; a reggeli dér festőivé teszi a tájat, de vezetés közben nagyon figyeljen a jeges foltokra.",
                 "ro": "Bucurați-vă de priveliștile turnului; gerul dimineții face peisajul pitoresc, dar fiți atenți la porțiunile de gheață pe drum.",
-                "en": "Take in the views of the tower; the morning frost makes the surrounding landscape picturesque, but watch for icy patches."
+                "en": "Take in the views of the tower; the morning frost makes the surrounding landscape picturesque, but watch for icy patches.",
+                "es": "Disfruta de las vistas de la torre; la escarcha matinal hace el paisaje pintoresco, pero vigila las placas de hielo."
               }
             },
             {
@@ -1059,13 +1176,15 @@
                 "de": "Rosenkranzkloster",
                 "hu": "Rózsafüzér Kolostor",
                 "ro": "Mănăstirea Rozariului",
-                "en": "Convent of the Rosary"
+                "en": "Convent of the Rosary",
+                "es": "Convento del Rosario"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die friedliche Umgebung; die Autoheizung ist ein Segen, da die engen Gassen die kalte Winterluft speichern.",
                 "hu": "Csodálja meg a békés környezetet; az autófűtés igazi áldás, mivel a szűk utcák csapdába ejtik a dermesztő téli levegőt.",
                 "ro": "Admirați cadrul pașnic; încălzirea mașinii este o binecuvântare, deoarece străzile înguste rețin aerul rece de iarnă.",
-                "en": "Admire the convent's peaceful setting; the car's heater is a blessing as the narrow streets trap the cold winter air."
+                "en": "Admire the convent's peaceful setting; the car's heater is a blessing as the narrow streets trap the cold winter air.",
+                "es": "Admira el entorno apacible del convento; la calefacción del coche es una bendición ya que las estrechas calles atrapan el frío invernal."
               }
             },
             {
@@ -1073,13 +1192,15 @@
                 "de": "Casa-Palacio del Conde de la Corte",
                 "hu": "Casa-Palacio del Conde de la Corte",
                 "ro": "Casa-Palacio del Conde de la Corte",
-                "en": "Casa-Palacio del Conde de la Corte"
+                "en": "Casa-Palacio del Conde de la Corte",
+                "es": "Casa-Palacio del Conde de la Corte"
               },
               "tip_5lang": {
                 "de": "Betreten Sie die großen Hallen; behalten Sie Ihre Jacke an, da die massiven Steinmauern die Winterkälte den ganzen Tag halten.",
                 "hu": "Lépjen be a hatalmas történelmi termekbe; tartsa magán a kabátját, mivel a vastag kőfalak egész nap őrzik a téli hideget.",
                 "ro": "Pășiți în marile săli; păstrați-vă jacheta, deoarece pereții masivi de piatră rețin frigul iernii pe tot parcursul zilei.",
-                "en": "Step into the grand historical halls; keep your jacket on as the massive stone walls retain the winter cold all day long."
+                "en": "Step into the grand historical halls; keep your jacket on as the massive stone walls retain the winter cold all day long.",
+                "es": "Entra en los grandiosos salones históricos; mantén la chaqueta puesta ya que los muros de piedra masivos retienen el frío invernal todo el día."
               }
             },
             {
@@ -1087,13 +1208,15 @@
                 "de": "Stiftskirche La Candelaria",
                 "hu": "La Candelaria Társaskáptalani Templom",
                 "ro": "Biserica Colegială La Candelaria",
-                "en": "Collegiate Church of La Candelaria"
+                "en": "Collegiate Church of La Candelaria",
+                "es": "Colegiata de La Candelaria"
               },
               "tip_5lang": {
                 "de": "Sehen Sie die Zurbarán-Gemälde; die winterliche Mittagssonne durch die Fenster verleiht dem Kirchenschiff einen magischen Glanz.",
                 "hu": "Nézze meg a Zurbarán festményeket; az ablakokon besütő déli téli nap varázslatos, meleg fényt kölcsönöz a főhajónak.",
                 "ro": "Vedeți picturile Zurbarán; soarele de prânz de iarnă care pătrunde prin ferestre adaugă o strălucire magică naosului.",
-                "en": "View the stunning Zurbarán paintings; the midday winter sun streaming through the windows adds a magical glow to the nave."
+                "en": "View the stunning Zurbarán paintings; the midday winter sun streaming through the windows adds a magical glow to the nave.",
+                "es": "Contempla las impresionantes pinturas de Zurbarán; el sol invernal del mediodía que atraviesa las ventanas añade un brillo mágico a la nave."
               }
             },
             {
@@ -1101,13 +1224,15 @@
                 "de": "Kloster Santa Catalina",
                 "hu": "Santa Catalina Kolostor",
                 "ro": "Mănăstirea Santa Catalina",
-                "en": "Convent of Santa Catalina"
+                "en": "Convent of Santa Catalina",
+                "es": "Convento de Santa Catalina"
               },
               "tip_5lang": {
                 "de": "Schätzen Sie die stille Schönheit des Klosters; nah zu parken erspart Ihnen einen frostigen Spaziergang im kalten Winterwind.",
                 "hu": "Értékelje a kolostor csendes szépségét; a közeli parkolás megkíméli Önt a fagyos, hideg téli szélben való sétától.",
                 "ro": "Apreciați frumusețea liniștită a mănăstirii; parcarea în apropiere vă scutește de o plimbare înghețată în vântul tăios de iarnă.",
-                "en": "Appreciate the quiet beauty of the convent; parking nearby saves you from a freezing walk in the brisk winter wind."
+                "en": "Appreciate the quiet beauty of the convent; parking nearby saves you from a freezing walk in the brisk winter wind.",
+                "es": "Aprecia la tranquila belleza del convento; aparcar cerca te evita una caminata helada con el viento invernal."
               }
             },
             {
@@ -1115,13 +1240,15 @@
                 "de": "Museum Santa Clara",
                 "hu": "Santa Clara Múzeum",
                 "ro": "Muzeul Santa Clara",
-                "en": "Santa Clara Museum"
+                "en": "Santa Clara Museum",
+                "es": "Museo de Santa Clara"
               },
               "tip_5lang": {
                 "de": "Tauchen Sie in die reiche Geschichte ein; das gut beheizte Museum bietet einen sehr komfortablen Rückzugsort vor der kühlen Nachmittagsluft.",
                 "hu": "Merüljön el a gazdag helyi történelemben; a jól fűtött múzeum rendkívül kényelmes menedéket nyújt a hűvös délutáni levegő elől.",
                 "ro": "Aprofundați-vă în istoria locală bogată; muzeul bine încălzit oferă o retragere foarte confortabilă din aerul rece al după-amiezii.",
-                "en": "Delve into the rich local history; the well-heated museum provides a very comfortable retreat from the chilly afternoon air."
+                "en": "Delve into the rich local history; the well-heated museum provides a very comfortable retreat from the chilly afternoon air.",
+                "es": "Sumérgete en la rica historia local; el museo bien calefactado ofrece un cómodo refugio del frío de la tarde."
               }
             },
             {
@@ -1129,13 +1256,15 @@
                 "de": "Museum für Medizingeschichte der Extremadura",
                 "hu": "Extremadura Orvostörténeti Múzeuma",
                 "ro": "Muzeul de Istorie a Medicinei din Extremadura",
-                "en": "Museum of the History of Medicine of Extremadura"
+                "en": "Museum of the History of Medicine of Extremadura",
+                "es": "Museo de Historia de la Medicina de Extremadura"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie einzigartige Exponate; fahren Sie vor der Dämmerung ab, um sicherzugehen, bevor der abendliche Winterfrost einsetzt.",
                 "hu": "Fedezze fel az egyedi kiállítási tárgyakat; induljon el még szürkület előtt, hogy biztonságban hazaérjen az esti fagy beállta előtt.",
                 "ro": "Descoperiți exponate unice; plecați înainte de amurg pentru a asigura un drum sigur înainte de înghețul serii de iarnă.",
-                "en": "Discover unique medical history exhibits; leave before dusk to ensure a safe drive before the winter evening freeze sets in."
+                "en": "Discover unique medical history exhibits; leave before dusk to ensure a safe drive before the winter evening freeze sets in.",
+                "es": "Descubre exhibiciones únicas sobre la historia médica; vete antes del anochecer para asegurar un viaje seguro antes de la helada vespertina."
               }
             }
           ]

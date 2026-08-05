@@ -21,7 +21,8 @@
             "de": "Calleja de las Flores",
             "hu": "Calleja de las Flores",
             "ro": "Calleja de las Flores",
-            "en": "Calleja de las Flores"
+            "en": "Calleja de las Flores",
+            "es": "Calleja de las Flores"
           },
           "coords": [
             -4.7794,
@@ -36,7 +37,8 @@
             "de": "Früh am Morgen kommen, um die Blumen ohne Menschenmassen zu sehen.",
             "hu": "Gyere korán reggel, hogy tömeg nélkül fotózhasd a virágokat.",
             "ro": "Vino dimineața devreme pentru a vedea florile fără aglomerație.",
-            "en": "Come early in the morning to see the flowers without the crowds."
+            "en": "Come early in the morning to see the flowers without the crowds.",
+            "es": "Ven temprano por la mañana para ver las flores sin aglomeraciones."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Mezquita-Catedral",
             "hu": "Mezquita-Catedral",
             "ro": "Mezquita-Catedral",
-            "en": "Mezquita-Catedral"
+            "en": "Mezquita-Catedral",
+            "es": "Mezquita-Catedral"
           },
           "coords": [
             -4.7797,
@@ -59,7 +62,8 @@
             "de": "Die Gebetsnische Mihrab ist das kunstvolle Highlight.",
             "hu": "A Mihráb imafülke a belső tér legdíszesebb része.",
             "ro": "Mihrab-ul este punctul culminant artistic al interiorului.",
-            "en": "The Mihrab prayer niche is the artistic highlight of the interior."
+            "en": "The Mihrab prayer niche is the artistic highlight of the interior.",
+            "es": "El mihrab es el punto artístico más destacado del interior."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Sinagoga de Córdoba",
             "hu": "Córdobai zsinagóga",
             "ro": "Sinagoga din Córdoba",
-            "en": "Synagogue of Córdoba"
+            "en": "Synagogue of Córdoba",
+            "es": "Sinagoga de Córdoba"
           },
           "coords": [
             -4.783,
@@ -82,7 +87,8 @@
             "de": "Eines der wenigen erhaltenen mittelalterlichen jüdischen Gotteshäuser.",
             "hu": "Egyike a kevés épségben maradt középkori zsinagógának Spanyolországban.",
             "ro": "Una dintre puținele sinagogi medievale conservate în Spania.",
-            "en": "One of the few preserved medieval Jewish places of worship in Spain."
+            "en": "One of the few preserved medieval Jewish places of worship in Spain.",
+            "es": "Uno de los pocos lugares de culto judío medieval conservados en España."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Judería (Jüdisches Viertel)",
             "hu": "Zsidó negyed (Judería)",
             "ro": "Cartierul Evreiesc (Judería)",
-            "en": "Jewish Quarter (Judería)"
+            "en": "Jewish Quarter (Judería)",
+            "es": "Barrio Judío (Judería)"
           },
           "coords": [
             -4.782,
@@ -105,7 +112,8 @@
             "de": "In den verwinkelten Gassen findet man versteckte andalusische Patios.",
             "hu": "A kanyargós utcákban rejtett andalúz udvarokat találhatsz.",
             "ro": "În străzile înguste poți găsi curți andaluze ascunse.",
-            "en": "In the winding alleys, you can find hidden Andalusian patios."
+            "en": "In the winding alleys, you can find hidden Andalusian patios.",
+            "es": "En las calles laberínticas puedes encontrar patios andaluces escondidos."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Alcázar de los Reyes Cristianos",
             "hu": "Alcázar de los Reyes Cristianos",
             "ro": "Alcázar de los Reyes Cristianos",
-            "en": "Alcázar de los Reyes Cristianos"
+            "en": "Alcázar de los Reyes Cristianos",
+            "es": "Alcázar de los Reyes Cristianos"
           },
           "coords": [
             -4.7818,
@@ -128,7 +137,8 @@
             "de": "Die Gärten mit ihren Wasserspielen sind im Sommer sehr erfrischend.",
             "hu": "A szökőkutakkal díszített kertek nyáron nagyon frissítőek.",
             "ro": "Grădinile cu fântâni sunt foarte răcoritoare pe timpul verii.",
-            "en": "The gardens with their water features are very refreshing in summer."
+            "en": "The gardens with their water features are very refreshing in summer.",
+            "es": "Los jardines con sus estanques son muy refrescantes en verano."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Puente Romano",
             "hu": "Római híd",
             "ro": "Podul Roman",
-            "en": "Roman Bridge"
+            "en": "Roman Bridge",
+            "es": "Puente Romano"
           },
           "coords": [
             -4.7777,
@@ -151,7 +162,8 @@
             "de": "Der beste Ort für ein Panoramafoto der Stadt und der Mezquita.",
             "hu": "A legjobb hely egy panorámaképhez a városról és a Mezquitáról.",
             "ro": "Cel mai bun loc pentru o fotografie panoramică a orașului și a Mezquitei.",
-            "en": "The best place for a panoramic photo of the city and the Mezquita."
+            "en": "The best place for a panoramic photo of the city and the Mezquita.",
+            "es": "El mejor lugar para una foto panorámica de la ciudad y la Mezquita."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag in der fotogenen Calleja de las Flores, bevor Sie das Wunder der Mezquita-Catedral bestaunen. Am Mittag schlendern Sie durch die engen Gassen der Judería und besuchen die alte Sinagoge. Der Nachmittag gehört den prächtigen Gärten des Alcázar und einem Spaziergang über die historische Römerbrücke bei sanftem Licht.",
         "hu": "Kezdje a napot a fotogén Calleja de las Flores közben, majd ámuljon el a Mezquita-Catedral monumentális belső terén. Dél körül kalandozzon a zsidó negyed szűk utcáin és látogassa meg a zsinagógát. A délutánt töltse az Alcázar hűvös kertjeiben, majd zárja a túrát a Római hídon, ahonnan csodás kilátás nyílik a folyóra.",
         "ro": "Începeți ziua în fotogenica Calleja de las Flores, înainte de a admira minunea de la Mezquita-Catedral. La prânz, plimbați-vă prin străzile înguste din Judería și vizitați vechea sinagogă. După-amiaza aparține grădinilor magnifice de la Alcázar și unei plimbări pe podul roman istoric sub lumina blândă a soarelui.",
-        "en": "Start your day in the photogenic Calleja de las Flores before marveling at the wonder of the Mezquita-Catedral. At midday, wander through the narrow streets of the Judería and visit the old Synagogue. The afternoon is dedicated to the magnificent gardens of the Alcázar and a stroll across the historic Roman Bridge in the soft light."
+        "en": "Start your day in the photogenic Calleja de las Flores before marveling at the wonder of the Mezquita-Catedral. At midday, wander through the narrow streets of the Judería and visit the old Synagogue. The afternoon is dedicated to the magnificent gardens of the Alcázar and a stroll across the historic Roman Bridge in the soft light.",
+        "es": "Empieza el día en la fotogénica Calleja de las Flores antes de asombrarte con la Mezquita-Catedral. Al mediodía, pasea por las estrechas calles de la Judería y visita la antigua Sinagoga. La tarde está dedicada a los magníficos jardines del Alcázar y a un paseo por el histórico Puente Romano con la luz suave."
       },
       "gastro_picks": {
         "de": [
@@ -319,6 +332,12 @@
           "Be sure to book Mezquita tickets online in advance.",
           "Avoid the midday heat during the summer months.",
           "Many small patios are hidden in the San Basilio neighborhood."
+        ],
+        "es": [
+          "Lleva calzado cómodo para las calles empedradas.",
+          "Asegúrate de reservar las entradas de la Mezquita online con antelación.",
+          "Evita el calor del mediodía en verano.",
+          "Muchos patios pequeños se esconden en el barrio de San Basilio."
         ]
       },
       "variants": {
@@ -327,7 +346,8 @@
             "de": "Beginnen Sie Ihren Tag in der fotogenen Calleja de las Flores, bevor Sie das Wunder der Mezquita-Catedral bestaunen. Am Mittag schlendern Sie durch die engen Gassen der Judería und besuchen die alte Sinagoge. Der Nachmittag gehört den prächtigen Gärten des Alcázar und einem Spaziergang über die historische Römerbrücke bei sanftem Licht.",
             "hu": "Kezdje a napot a fotogén Calleja de las Flores közben, majd ámuljon el a Mezquita-Catedral monumentális belső terén. Dél körül kalandozzon a zsidó negyed szűk utcáin és látogassa meg a zsinagógát. A délutánt töltse az Alcázar hűvös kertjeiben, majd zárja a túrát a Római hídon, ahonnan csodás kilátás nyílik a folyóra.",
             "ro": "Începeți ziua în fotogenica Calleja de las Flores, înainte de a admira minunea de la Mezquita-Catedral. La prânz, plimbați-vă prin străzile înguste din Judería și vizitați vechea sinagogă. După-amiaza aparține grădinilor magnifice de la Alcázar și unei plimbări pe podul roman istoric sub lumina blândă a soarelui.",
-            "en": "Start your day in the photogenic Calleja de las Flores before marveling at the wonder of the Mezquita-Catedral. At midday, wander through the narrow streets of the Judería and visit the old Synagogue. The afternoon is dedicated to the magnificent gardens of the Alcázar and a stroll across the historic Roman Bridge in the soft light."
+            "en": "Start your day in the photogenic Calleja de las Flores before marveling at the wonder of the Mezquita-Catedral. At midday, wander through the narrow streets of the Judería and visit the old Synagogue. The afternoon is dedicated to the magnificent gardens of the Alcázar and a stroll across the historic Roman Bridge in the soft light.",
+            "es": "Empieza el día en la fotogénica Calleja de las Flores antes de asombrarte con la Mezquita-Catedral. Al mediodía, pasea por las estrechas calles de la Judería y visita la antigua Sinagoga. La tarde está dedicada a los magníficos jardines del Alcázar y a un paseo por el histórico Puente Romano con la luz suave."
           },
           "stops": [
             {
@@ -335,13 +355,15 @@
                 "de": "Calleja de las Flores",
                 "hu": "Calleja de las Flores",
                 "ro": "Calleja de las Flores",
-                "en": "Calleja de las Flores"
+                "en": "Calleja de las Flores",
+                "es": "Calleja de las Flores"
               },
               "tip_5lang": {
                 "de": "Früh am Morgen kommen, um die Blumen ohne Menschenmassen zu sehen.",
                 "hu": "Gyere korán reggel, hogy tömeg nélkül fotózhasd a virágokat.",
                 "ro": "Vino dimineața devreme pentru a vedea florile fără aglomerație.",
-                "en": "Come early in the morning to see the flowers without the crowds."
+                "en": "Come early in the morning to see the flowers without the crowds.",
+                "es": "Ven temprano por la mañana para ver las flores sin aglomeraciones."
               }
             },
             {
@@ -349,13 +371,15 @@
                 "de": "Mezquita-Catedral",
                 "hu": "Mezquita-Catedral",
                 "ro": "Mezquita-Catedral",
-                "en": "Mezquita-Catedral"
+                "en": "Mezquita-Catedral",
+                "es": "Mezquita-Catedral"
               },
               "tip_5lang": {
                 "de": "Die Gebetsnische Mihrab ist das kunstvolle Highlight.",
                 "hu": "A Mihráb imafülke a belső tér legdíszesebb része.",
                 "ro": "Mihrab-ul este punctul culminant artistic al interiorului.",
-                "en": "The Mihrab prayer niche is the artistic highlight of the interior."
+                "en": "The Mihrab prayer niche is the artistic highlight of the interior.",
+                "es": "El mihrab es el punto artístico más destacado del interior."
               }
             },
             {
@@ -363,13 +387,15 @@
                 "de": "Sinagoga de Córdoba",
                 "hu": "Córdobai zsinagóga",
                 "ro": "Sinagoga din Córdoba",
-                "en": "Synagogue of Córdoba"
+                "en": "Synagogue of Córdoba",
+                "es": "Sinagoga de Córdoba"
               },
               "tip_5lang": {
                 "de": "Eines der wenigen erhaltenen mittelalterlichen jüdischen Gotteshäuser.",
                 "hu": "Egyike a kevés épségben maradt középkori zsinagógának Spanyolországban.",
                 "ro": "Una dintre puținele sinagogi medievale conservate în Spania.",
-                "en": "One of the few preserved medieval Jewish places of worship in Spain."
+                "en": "One of the few preserved medieval Jewish places of worship in Spain.",
+                "es": "Uno de los pocos lugares de culto judío medieval conservados en España."
               }
             },
             {
@@ -377,13 +403,15 @@
                 "de": "Judería (Jüdisches Viertel)",
                 "hu": "Zsidó negyed (Judería)",
                 "ro": "Cartierul Evreiesc (Judería)",
-                "en": "Jewish Quarter (Judería)"
+                "en": "Jewish Quarter (Judería)",
+                "es": "Barrio Judío (Judería)"
               },
               "tip_5lang": {
                 "de": "In den verwinkelten Gassen findet man versteckte andalusische Patios.",
                 "hu": "A kanyargós utcákban rejtett andalúz udvarokat találhatsz.",
                 "ro": "În străzile înguste poți găsi curți andaluze ascunse.",
-                "en": "In the winding alleys, you can find hidden Andalusian patios."
+                "en": "In the winding alleys, you can find hidden Andalusian patios.",
+                "es": "En las calles laberínticas puedes encontrar patios andaluces escondidos."
               }
             },
             {
@@ -391,13 +419,15 @@
                 "de": "Alcázar de los Reyes Cristianos",
                 "hu": "Alcázar de los Reyes Cristianos",
                 "ro": "Alcázar de los Reyes Cristianos",
-                "en": "Alcázar de los Reyes Cristianos"
+                "en": "Alcázar de los Reyes Cristianos",
+                "es": "Alcázar de los Reyes Cristianos"
               },
               "tip_5lang": {
                 "de": "Die Gärten mit ihren Wasserspielen sind im Sommer sehr erfrischend.",
                 "hu": "A szökőkutakkal díszített kertek nyáron nagyon frissítőek.",
                 "ro": "Grădinile cu fântâni sunt foarte răcoritoare pe timpul verii.",
-                "en": "The gardens with their water features are very refreshing in summer."
+                "en": "The gardens with their water features are very refreshing in summer.",
+                "es": "Los jardines con sus estanques son muy refrescantes en verano."
               }
             },
             {
@@ -405,13 +435,15 @@
                 "de": "Puente Romano",
                 "hu": "Római híd",
                 "ro": "Podul Roman",
-                "en": "Roman Bridge"
+                "en": "Roman Bridge",
+                "es": "Puente Romano"
               },
               "tip_5lang": {
                 "de": "Der beste Ort für ein Panoramafoto der Stadt und der Mezquita.",
                 "hu": "A legjobb hely egy panorámaképhez a városról és a Mezquitáról.",
                 "ro": "Cel mai bun loc pentru o fotografie panoramică a orașului și a Mezquitei.",
-                "en": "The best place for a panoramic photo of the city and the Mezquita."
+                "en": "The best place for a panoramic photo of the city and the Mezquita.",
+                "es": "El mejor lugar para una foto panorámica de la ciudad y la Mezquita."
               }
             }
           ],
@@ -573,6 +605,12 @@
               "Be sure to book Mezquita tickets online in advance.",
               "Avoid the midday heat during the summer months.",
               "Many small patios are hidden in the San Basilio neighborhood."
+            ],
+            "es": [
+              "Lleva calzado cómodo para las calles empedradas.",
+              "Asegúrate de reservar las entradas de la Mezquita online con antelación.",
+              "Evita el calor del mediodía en verano.",
+              "Muchos patios pequeños se esconden en el barrio de San Basilio."
             ]
           }
         },
@@ -581,7 +619,8 @@
             "de": "Beginnen Sie den Tag in der Calleja de las Flores, wo die engen Gassen Schutz bieten. Mittags bietet die Mezquita ein trockenes Refugium voller Geschichte. Am Nachmittag erkunden Sie die Judería unter dem Regenschirm und beenden den Tag am Alcázar, dessen Gärten im Regen glänzen. Abends bietet die römische Brücke einen dramatischen Blick auf den schwellenden Fluss.",
             "hu": "Kezdje a napot a Calleja de las Flores közén, ahol a szűk falak némi védelmet adnak. Délben a Mezquita hatalmas belső tere tökéletes menedék az eső elől. Délután esernyővel járja be a Judería negyedet és az Alcázart, melynek kertjei különleges fényben úsznak. Este a Római híd látványa a megáradt folyóval drámai és felejthetetlen.",
             "ro": "Începeți ziua pe Calleja de las Flores, unde străzile înguste oferă adăpost. La prânz, Mezquita oferă un refugiu uscat și plin de istorie. După-amiaza explorați Judería sub umbrelă și încheiați la Alcázar, ale cărui grădini strălucesc în ploaie. Seara, Podul Roman oferă o priveliște dramatică asupra râului umflat de ape.",
-            "en": "Start your day in Calleja de las Flores, where narrow alleys provide some cover. At noon, the Mezquita offers a dry sanctuary full of history. In the afternoon, explore the Judería with an umbrella and finish at the Alcázar, whose gardens glisten in the rain. In the evening, the Roman Bridge offers a dramatic view of the rising river."
+            "en": "Start your day in Calleja de las Flores, where narrow alleys provide some cover. At noon, the Mezquita offers a dry sanctuary full of history. In the afternoon, explore the Judería with an umbrella and finish at the Alcázar, whose gardens glisten in the rain. In the evening, the Roman Bridge offers a dramatic view of the rising river.",
+            "es": "Comienza el día en Calleja de las Flores, donde las callejuelas estrechas ofrecen algo de abrigo. Al mediodía, la Mezquita ofrece un santuario seco lleno de historia. Por la tarde, explora la Judería con paraguas y termina en el Alcázar, cuyos jardines brillan con la lluvia. Por la noche, el Puente Romano ofrece una vista dramática del río crecido."
           },
           "stops": [
             {
@@ -590,7 +629,8 @@
                 "de": "Suchen Sie Schutz unter den Balkonen, wenn der Schauer stark wird.",
                 "hu": "Húzódjon az erkélyek alá, ha elered az intenzív zápor.",
                 "ro": "Adăpostiți-vă sub balcoane dacă ploaia devine intensă.",
-                "en": "Seek shelter under the balconies if the downpour gets heavy."
+                "en": "Seek shelter under the balconies if the downpour gets heavy.",
+                "es": "Busca refugio bajo los balcones si el aguacero se intensifica."
               }
             },
             {
@@ -599,7 +639,8 @@
                 "de": "Perfekter Ort für regnerische Stunden; der Innenraum ist riesig.",
                 "hu": "Tökéletes hely esős órákra; a belső tér hatalmas és száraz.",
                 "ro": "Loc perfect pentru orele ploioase; interiorul este imens.",
-                "en": "Perfect place for rainy hours; the interior is vast and dry."
+                "en": "Perfect place for rainy hours; the interior is vast and dry.",
+                "es": "Lugar perfecto para horas de lluvia; el interior es vasto y seco."
               }
             },
             {
@@ -608,7 +649,8 @@
                 "de": "Kleiner Innenraum, ideal für eine kurze Regenpause.",
                 "hu": "Kicsi belső tér, ideális egy rövid esőszünetre.",
                 "ro": "Interior mic, ideal pentru o scurtă pauză de ploaie.",
-                "en": "Small interior, ideal for a short break from the rain."
+                "en": "Small interior, ideal for a short break from the rain.",
+                "es": "Interior pequeño, ideal para un breve descanso de la lluvia."
               }
             },
             {
@@ -617,7 +659,8 @@
                 "de": "Nutzen Sie die engen Gassen als natürlichen Wind- und Regenschutz.",
                 "hu": "Használja a szűk utcákat természetes szél- és esővédőként.",
                 "ro": "Folosiți străzile înguste ca protecție naturală contra vântului.",
-                "en": "Use the narrow streets as natural wind and rain protection."
+                "en": "Use the narrow streets as natural wind and rain protection.",
+                "es": "Usa las calles estrechas como protección natural contra el viento y la lluvia."
               }
             },
             {
@@ -626,7 +669,8 @@
                 "de": "Die Mosaike im Inneren sind ein Highlight bei schlechtem Wetter.",
                 "hu": "A belső mozaikok kiemelkedő látványt nyújtanak rossz időben is.",
                 "ro": "Mozaicurile din interior sunt o atracție pe vreme rea.",
-                "en": "The mosaics inside are a highlight even in bad weather."
+                "en": "The mosaics inside are a highlight even in bad weather.",
+                "es": "Los mosaicos del interior son un atractivo incluso con mal tiempo."
               }
             },
             {
@@ -635,7 +679,8 @@
                 "de": "Vorsicht, das Pflaster kann bei Nässe sehr rutschig sein.",
                 "hu": "Vigyázat, a burkolat vizesen nagyon csúszós lehet.",
                 "ro": "Atenție, pavajul poate fi foarte alunecos pe timp de ploaie.",
-                "en": "Caution, the pavement can be very slippery when wet."
+                "en": "Caution, the pavement can be very slippery when wet.",
+                "es": "Precaución: el pavimento puede estar muy resbaladizo cuando está mojado."
               }
             }
           ],
@@ -667,6 +712,13 @@
               "Buy a sturdy umbrella; wind gusts near the river are common.",
               "Time your Mezquita visit for the heaviest rainfall.",
               "The courtyards often look even greener and more vibrant in the rain."
+            ],
+            "es": [
+              "Lleva calzado impermeable para las calles empedradas.",
+              "El barrio de la Judería tiene muchos cafés para esperar los chubascos.",
+              "Compra un paraguas resistente; las rachas de viento cerca del río son habituales.",
+              "Programa tu visita a la Mezquita para las precipitaciones más intensas.",
+              "Los patios suelen verse más verdes y vibrantes con la lluvia."
             ]
           }
         },
@@ -675,7 +727,8 @@
             "de": "Genießen Sie die frische Winterluft in der Calleja de las Flores am Morgen. Mittags wärmt die Sonne die dicken Mauern der Mezquita auf. Nachmittags leuchten die Orangenbäume in der Judería in kräftigem Orange. Abends sinken die Temperaturen schnell, ideal für eine heiße Schokolade nach dem Spaziergang über die Brücke.",
             "hu": "Élvezze a friss téli levegőt a Calleja de las Flores közén reggel. Délben a nap kellemesen melegíti a Mezquita vastag falait. Délután a Judería narancsfái roskadoznak a fényes gyümölcsöktől. Este a hőmérséklet gyorsan csökken, ami ideális egy forró csokoládéhoz a hídi séta után.",
             "ro": "Bucurați-vă de aerul proaspăt de iarnă pe Calleja de las Flores dimineața. La prânz, soarele încălzește zidurile groase ale Mezquitei. După-amiaza, portocalii din Judería strălucesc plini de fructe. Seara, temperaturile scad rapid, moment ideal pentru o ciocolată caldă după plimbarea pe pod.",
-            "en": "Enjoy the crisp winter air in Calleja de las Flores in the morning. At noon, the sun warms the thick walls of the Mezquita. In the afternoon, the orange trees in the Judería glow with bright fruit. In the evening, temperatures drop quickly, perfect for a hot chocolate after a walk across the bridge."
+            "en": "Enjoy the crisp winter air in Calleja de las Flores in the morning. At noon, the sun warms the thick walls of the Mezquita. In the afternoon, the orange trees in the Judería glow with bright fruit. In the evening, temperatures drop quickly, perfect for a hot chocolate after a walk across the bridge.",
+            "es": "Disfruta del aire fresco invernal en la Calleja de las Flores por la mañana. Al mediodía, el sol calienta los gruesos muros de la Mezquita. Por la tarde, los naranjos de la Judería brillan con su fruta. Por la noche, la temperatura baja rápido; perfecto para un chocolate caliente tras un paseo por el puente."
           },
           "stops": [
             {
@@ -684,7 +737,8 @@
                 "de": "Frühmorgens ist das Licht hier im Winter besonders klar.",
                 "hu": "Kora reggel a fény itt télen különösen tiszta és éles.",
                 "ro": "Dimineața devreme, lumina aici este extrem de clară iarna.",
-                "en": "Early morning light here is exceptionally clear in winter."
+                "en": "Early morning light here is exceptionally clear in winter.",
+                "es": "La luz de la madrugada aquí es excepcionalmente clara en invierno."
               }
             },
             {
@@ -693,7 +747,8 @@
                 "de": "Im Inneren ist es im Winter oft wärmer als draußen.",
                 "hu": "A belső térben télen gyakran melegebb van, mint odakint.",
                 "ro": "În interior este adesea mai cald decât afară pe timp de iarnă.",
-                "en": "It is often warmer inside than outside during winter."
+                "en": "It is often warmer inside than outside during winter.",
+                "es": "A menudo hace más calor dentro que fuera durante el invierno."
               }
             },
             {
@@ -702,7 +757,8 @@
                 "de": "Besuchen Sie diesen Ort mittags, wenn die Wintersonne tief steht.",
                 "hu": "Látogasson el ide délben, amikor a téli nap alacsonyan jár.",
                 "ro": "Vizitați acest loc la prânz, când soarele de iarnă e jos.",
-                "en": "Visit at noon when the winter sun is low and bright."
+                "en": "Visit at noon when the winter sun is low and bright.",
+                "es": "Visita al mediodía cuando el sol invernal está bajo y brillante."
               }
             },
             {
@@ -711,7 +767,8 @@
                 "de": "Die Orangenbäume tragen im Winter ihre leuchtenden Früchte.",
                 "hu": "A narancsfák télen hozzák látványos, élénk gyümölcseiket.",
                 "ro": "Portocalii poartă fructele lor strălucitoare în timpul iernii.",
-                "en": "The orange trees bear their bright fruits during winter."
+                "en": "The orange trees bear their bright fruits during winter.",
+                "es": "Los naranjos dan sus frutos brillantes durante el invierno."
               }
             },
             {
@@ -720,7 +777,8 @@
                 "de": "Die Gärten sind auch im Winter dank der Palmen grün.",
                 "hu": "A kertek a pálmáknak köszönhetően télen is zöldellnek.",
                 "ro": "Grădinile rămân verzi și iarna datorită palmierilor.",
-                "en": "The gardens remain green in winter thanks to the palms."
+                "en": "The gardens remain green in winter thanks to the palms.",
+                "es": "Los jardines se mantienen verdes en invierno gracias a las palmeras."
               }
             },
             {
@@ -729,7 +787,8 @@
                 "de": "Der Wind über dem Guadalquivir kann im Winter schneidend sein.",
                 "hu": "A Guadalquivir feletti szél télen metszően hideg lehet.",
                 "ro": "Vântul peste Guadalquivir poate fi tăios iarna.",
-                "en": "The wind over the Guadalquivir can be biting in winter."
+                "en": "The wind over the Guadalquivir can be biting in winter.",
+                "es": "El viento sobre el Guadalquivir puede ser cortante en invierno."
               }
             }
           ],
@@ -761,6 +820,13 @@
               "Enjoy churros with hot chocolate to warm up in the afternoon.",
               "Museums are much less crowded during the winter months.",
               "Watch out for slippery stones during early morning frost."
+            ],
+            "es": [
+              "Vístete por capas: las sombras son frías, pero el sol calienta.",
+              "El sol se pone sobre las 18:00 durante el invierno.",
+              "Toma churros con chocolate caliente para entrar en calor por la tarde.",
+              "Los museos están mucho menos concurridos en los meses de invierno.",
+              "Cuidado con las piedras resbaladizas por las heladas matutinas."
             ]
           }
         }
@@ -779,7 +845,8 @@
             "de": "Palacio de Viana",
             "hu": "Viana-palota",
             "ro": "Palacio de Viana",
-            "en": "Viana Palace"
+            "en": "Viana Palace",
+            "es": "Palacio de Viana"
           },
           "coords": [
             -4.7735,
@@ -794,7 +861,8 @@
             "de": "Berühmt für seine 12 wunderschönen Innenhöfe.",
             "hu": "Híres a 12 gyönyörű belső udvaráról.",
             "ro": "Faimos pentru cele 12 curți interioare superbe.",
-            "en": "Famous for its 12 beautiful interior courtyards."
+            "en": "Famous for its 12 beautiful interior courtyards.",
+            "es": "Famoso por sus 12 hermosos patios interiores."
           }
         },
         {
@@ -802,7 +870,8 @@
             "de": "Patios de Córdoba",
             "hu": "Córdobai udvarok",
             "ro": "Patiurile din Córdoba",
-            "en": "Patios of Córdoba"
+            "en": "Patios of Córdoba",
+            "es": "Patios de Córdoba"
           },
           "coords": [
             -4.7865,
@@ -817,7 +886,8 @@
             "de": "Im Viertel San Basilio sind sie das ganze Jahr über zu sehen.",
             "hu": "A San Basilio negyedben egész évben megtekinthetőek.",
             "ro": "Pot fi văzute tot anul în cartierul San Basilio.",
-            "en": "They can be seen year-round in the San Basilio district."
+            "en": "They can be seen year-round in the San Basilio district.",
+            "es": "Se pueden ver durante todo el año en el barrio de San Basilio."
           }
         },
         {
@@ -825,7 +895,8 @@
             "de": "Puente Romano",
             "hu": "Római híd",
             "ro": "Podul Roman",
-            "en": "Roman Bridge"
+            "en": "Roman Bridge",
+            "es": "Puente Romano"
           },
           "coords": [
             -4.7777,
@@ -840,7 +911,8 @@
             "de": "Mit dem Fahrrad lässt sich die Brücke schnell überqueren.",
             "hu": "Kerékpárral gyorsan át lehet kelni a hídon.",
             "ro": "Podul poate fi traversat rapid cu bicicleta.",
-            "en": "The bridge can be quickly crossed by bike."
+            "en": "The bridge can be quickly crossed by bike.",
+            "es": "El puente se puede cruzar rápidamente en bicicleta."
           }
         },
         {
@@ -848,7 +920,8 @@
             "de": "Torre de la Calahorra",
             "hu": "Calahorra-torony",
             "ro": "Torre de la Calahorra",
-            "en": "Calahorra Tower"
+            "en": "Calahorra Tower",
+            "es": "Torre de la Calahorra"
           },
           "coords": [
             -4.7766,
@@ -863,7 +936,8 @@
             "de": "Museum über das Zusammenleben der Kulturen.",
             "hu": "Múzeum a kultúrák együttéléséről.",
             "ro": "Muzeu despre coexistența culturilor.",
-            "en": "Museum about the coexistence of cultures."
+            "en": "Museum about the coexistence of cultures.",
+            "es": "Museo sobre la convivencia de culturas."
           }
         },
         {
@@ -871,7 +945,8 @@
             "de": "Mezquita-Catedral",
             "hu": "Mezquita-Catedral",
             "ro": "Mezquita-Catedral",
-            "en": "Mezquita-Catedral"
+            "en": "Mezquita-Catedral",
+            "es": "Mezquita-Catedral"
           },
           "coords": [
             -4.7797,
@@ -886,7 +961,8 @@
             "de": "Stellen Sie Ihr Rad sicher an den markierten Plätzen ab.",
             "hu": "Zárja le biztonságosan kerékpárját a kijelölt helyen.",
             "ro": "Parcați bicicleta în siguranță în locurile marcate.",
-            "en": "Park your bike securely in the designated spots."
+            "en": "Park your bike securely in the designated spots.",
+            "es": "Aparca la bicicleta de forma segura en los lugares designados."
           }
         }
       ],
@@ -894,7 +970,8 @@
         "de": "Entdecken Sie Córdoba auf zwei Rädern! Wir starten im Norden beim Viana-Palast, fahren dann durch die Stadt zu den berühmten Patios von San Basilio. Über die Römerbrücke geht es zur Calahorra-Torre auf der anderen Flussseite, bevor wir den Tag an der beeindruckenden Mezquita abschließen.",
         "hu": "Fedezze fel Córdobát két keréken! Északról, a Viana-palotától indulunk, majd áttekerünk a városon a híres San Basilio-i udvarokhoz. A Római hídon át a Calahorra-toronyhoz jutunk a folyó túloldalán, végül a Mezquitánál fejezzük be a napot.",
         "ro": "Descoperiți Córdoba pe două roți! Începem din nord de la Palatul Viana, apoi pedalăm prin oraș spre faimoasele patiuri din San Basilio. Traversăm Podul Roman spre Turnul Calahorra de pe cealaltă parte a râului, înainte de a încheia ziua la impresionanta Mezquita.",
-        "en": "Explore Córdoba on two wheels! We start in the north at Viana Palace, then ride through the city to the famous patios of San Basilio. Across the Roman Bridge to the Calahorra Tower on the other side of the river, before finishing the day at the impressive Mezquita."
+        "en": "Explore Córdoba on two wheels! We start in the north at Viana Palace, then ride through the city to the famous patios of San Basilio. Across the Roman Bridge to the Calahorra Tower on the other side of the river, before finishing the day at the impressive Mezquita.",
+        "es": "Explora Córdoba en dos ruedas. Comenzamos al norte en el Palacio de Viana, luego recorremos la ciudad hasta los famosos patios de San Basilio. Cruzamos el Puente Romano hasta la Torre de la Calahorra al otro lado del río, antes de terminar el día en la impresionante Mezquita."
       },
       "gastro_picks": {
         "de": [
@@ -1002,6 +1079,12 @@
           "Use the bike path along the river.",
           "Watch out for the cobblestones.",
           "Córdoba is mostly flat."
+        ],
+        "es": [
+          "Circular por la Judería es difícil por las calles estrechas.",
+          "Usa el carril bici a lo largo del río.",
+          "Cuidado con los empedrados.",
+          "Córdoba es mayormente llana."
         ]
       },
       "variants": {
@@ -1010,7 +1093,8 @@
             "de": "Entdecken Sie Córdoba auf zwei Rädern! Wir starten im Norden beim Viana-Palast, fahren dann durch die Stadt zu den berühmten Patios von San Basilio. Über die Römerbrücke geht es zur Calahorra-Torre auf der anderen Flussseite, bevor wir den Tag an der beeindruckenden Mezquita abschließen.",
             "hu": "Fedezze fel Córdobát két keréken! Északról, a Viana-palotától indulunk, majd áttekerünk a városon a híres San Basilio-i udvarokhoz. A Római hídon át a Calahorra-toronyhoz jutunk a folyó túloldalán, végül a Mezquitánál fejezzük be a napot.",
             "ro": "Descoperiți Córdoba pe două roți! Începem din nord de la Palatul Viana, apoi pedalăm prin oraș spre faimoasele patiuri din San Basilio. Traversăm Podul Roman spre Turnul Calahorra de pe cealaltă parte a râului, înainte de a încheia ziua la impresionanta Mezquita.",
-            "en": "Explore Córdoba on two wheels! We start in the north at Viana Palace, then ride through the city to the famous patios of San Basilio. Across the Roman Bridge to the Calahorra Tower on the other side of the river, before finishing the day at the impressive Mezquita."
+            "en": "Explore Córdoba on two wheels! We start in the north at Viana Palace, then ride through the city to the famous patios of San Basilio. Across the Roman Bridge to the Calahorra Tower on the other side of the river, before finishing the day at the impressive Mezquita.",
+            "es": "Explora Córdoba en dos ruedas. Comenzamos al norte en el Palacio de Viana, luego recorremos la ciudad hasta los famosos patios de San Basilio. Cruzamos el Puente Romano hasta la Torre de la Calahorra al otro lado del río, antes de terminar el día en la impresionante Mezquita."
           },
           "stops": [
             {
@@ -1018,13 +1102,15 @@
                 "de": "Palacio de Viana",
                 "hu": "Viana-palota",
                 "ro": "Palacio de Viana",
-                "en": "Viana Palace"
+                "en": "Viana Palace",
+                "es": "Palacio de Viana"
               },
               "tip_5lang": {
                 "de": "Berühmt für seine 12 wunderschönen Innenhöfe.",
                 "hu": "Híres a 12 gyönyörű belső udvaráról.",
                 "ro": "Faimos pentru cele 12 curți interioare superbe.",
-                "en": "Famous for its 12 beautiful interior courtyards."
+                "en": "Famous for its 12 beautiful interior courtyards.",
+                "es": "Famoso por sus 12 hermosos patios interiores."
               }
             },
             {
@@ -1032,13 +1118,15 @@
                 "de": "Patios de Córdoba",
                 "hu": "Córdobai udvarok",
                 "ro": "Patiurile din Córdoba",
-                "en": "Patios of Córdoba"
+                "en": "Patios of Córdoba",
+                "es": "Patios de Córdoba"
               },
               "tip_5lang": {
                 "de": "Im Viertel San Basilio sind sie das ganze Jahr über zu sehen.",
                 "hu": "A San Basilio negyedben egész évben megtekinthetőek.",
                 "ro": "Pot fi văzute tot anul în cartierul San Basilio.",
-                "en": "They can be seen year-round in the San Basilio district."
+                "en": "They can be seen year-round in the San Basilio district.",
+                "es": "Se pueden ver durante todo el año en el barrio de San Basilio."
               }
             },
             {
@@ -1046,13 +1134,15 @@
                 "de": "Puente Romano",
                 "hu": "Római híd",
                 "ro": "Podul Roman",
-                "en": "Roman Bridge"
+                "en": "Roman Bridge",
+                "es": "Puente Romano"
               },
               "tip_5lang": {
                 "de": "Mit dem Fahrrad lässt sich die Brücke schnell überqueren.",
                 "hu": "Kerékpárral gyorsan át lehet kelni a hídon.",
                 "ro": "Podul poate fi traversat rapid cu bicicleta.",
-                "en": "The bridge can be quickly crossed by bike."
+                "en": "The bridge can be quickly crossed by bike.",
+                "es": "El puente se puede cruzar rápidamente en bicicleta."
               }
             },
             {
@@ -1060,13 +1150,15 @@
                 "de": "Torre de la Calahorra",
                 "hu": "Calahorra-torony",
                 "ro": "Torre de la Calahorra",
-                "en": "Calahorra Tower"
+                "en": "Calahorra Tower",
+                "es": "Torre de la Calahorra"
               },
               "tip_5lang": {
                 "de": "Museum über das Zusammenleben der Kulturen.",
                 "hu": "Múzeum a kultúrák együttéléséről.",
                 "ro": "Muzeu despre coexistența culturilor.",
-                "en": "Museum about the coexistence of cultures."
+                "en": "Museum about the coexistence of cultures.",
+                "es": "Museo sobre la convivencia de culturas."
               }
             },
             {
@@ -1074,13 +1166,15 @@
                 "de": "Mezquita-Catedral",
                 "hu": "Mezquita-Catedral",
                 "ro": "Mezquita-Catedral",
-                "en": "Mezquita-Catedral"
+                "en": "Mezquita-Catedral",
+                "es": "Mezquita-Catedral"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Rad sicher an den markierten Plätzen ab.",
                 "hu": "Zárja le biztonságosan kerékpárját a kijelölt helyen.",
                 "ro": "Parcați bicicleta în siguranță în locurile marcate.",
-                "en": "Park your bike securely in the designated spots."
+                "en": "Park your bike securely in the designated spots.",
+                "es": "Aparca la bicicleta de forma segura en los lugares designados."
               }
             }
           ],
@@ -1190,6 +1284,12 @@
               "Use the bike path along the river.",
               "Watch out for the cobblestones.",
               "Córdoba is mostly flat."
+            ],
+            "es": [
+              "Circular por la Judería es difícil por las calles estrechas.",
+              "Usa el carril bici a lo largo del río.",
+              "Cuidado con los empedrados.",
+              "Córdoba es mayormente llana."
             ]
           }
         },
@@ -1198,7 +1298,8 @@
             "de": "Starten Sie vorsichtig am Viana-Palast, wo die Patios im Regen duften. Mittags erkunden Sie die Gärten, während der Regen die Farben intensiviert. Überqueren Sie die römische Brücke mit Vorsicht bei Nässe und erreichen Sie die Calahorra-Turm als trockenen Aussichtspunkt. Beenden Sie die Tour an der Mezquita, dem ultimativen Regenschutz.",
             "hu": "Induljon óvatosan a Viana-palotától, ahol az udvarok illata intenzívebb esőben. Délben a kertek színei mélyebbé válnak a csapadéktól. A Római hidat óvatosan közelítse meg a vizes út miatt, majd használja a Calahorra-tornyot száraz kilátóként. Zárja a napot a Mezquitában, a tökéletes esővédett helyen.",
             "ro": "Porniți cu atenție de la Palatul Viana, unde curțile miros superb în ploaie. La prânz, culorile grădinilor devin intense sub stropii de apă. Traversați Podul Roman cu prudență pe carosabilul umed și folosiți Turnul Calahorra ca punct de observație uscat. Încheiați la Mezquita, refugiul ideal contra ploii.",
-            "en": "Start carefully at Viana Palace, where the patios smell divine in the rain. At noon, the garden colors intensify under the raindrops. Cross the Roman Bridge with caution on wet surfaces and use Calahorra Tower as a dry lookout point. End your tour at the Mezquita, the ultimate rain sanctuary."
+            "en": "Start carefully at Viana Palace, where the patios smell divine in the rain. At noon, the garden colors intensify under the raindrops. Cross the Roman Bridge with caution on wet surfaces and use Calahorra Tower as a dry lookout point. End your tour at the Mezquita, the ultimate rain sanctuary.",
+            "es": "Comienza con cuidado en el Palacio de Viana, donde los patios huelen de maravilla con la lluvia. Al mediodía, los colores del jardín se intensifican bajo las gotas. Cruza el Puente Romano con precaución en superficies mojadas y usa la Torre de la Calahorra como mirador seco. Termina el recorrido en la Mezquita, el refugio definitivo en días de lluvia."
           },
           "stops": [
             {
@@ -1207,7 +1308,8 @@
                 "de": "Viele Patios haben überdachte Gänge, perfekt bei Regen.",
                 "hu": "Sok udvarnak van fedett folyosója, ami esőben is járható.",
                 "ro": "Multe curți au galerii acoperite, perfecte pe ploaie.",
-                "en": "Many patios have covered galleries, perfect for rainy days."
+                "en": "Many patios have covered galleries, perfect for rainy days.",
+                "es": "Muchos patios tienen galerías cubiertas, perfectas para días lluviosos."
               }
             },
             {
@@ -1216,7 +1318,8 @@
                 "de": "Regen lässt die Blumenfarben auf den Fotos kräftiger wirken.",
                 "hu": "Az eső mélyebbé és élénkebbé teszi a virágok színeit a fotókon.",
                 "ro": "Ploaia face culorile florilor să pară mai intense în poze.",
-                "en": "Rain makes the flower colors look more vibrant in photos."
+                "en": "Rain makes the flower colors look more vibrant in photos.",
+                "es": "La lluvia realza los colores de las flores en las fotos."
               }
             },
             {
@@ -1225,7 +1328,8 @@
                 "de": "Fahren Sie langsam; das Pflaster wird bei Regen sehr glatt.",
                 "hu": "Hajtson lassan; a burkolat esőben rendkívül csúszós lesz.",
                 "ro": "Mergeți încet; pavajul devine foarte alunecos pe ploaie.",
-                "en": "Ride slowly; the pavement becomes extremely slippery in rain."
+                "en": "Ride slowly; the pavement becomes extremely slippery in rain.",
+                "es": "Pedalea despacio; el pavimento se vuelve extremadamente resbaladizo con lluvia."
               }
             },
             {
@@ -1234,7 +1338,8 @@
                 "de": "Ein großartiger trockener Ort, um den Fluss zu beobachten.",
                 "hu": "Nagyszerű száraz hely a folyó és a város megfigyelésére.",
                 "ro": "Un loc uscat excelent pentru a observa râul și orașul.",
-                "en": "A great dry place to observe the river and the city."
+                "en": "A great dry place to observe the river and the city.",
+                "es": "Un gran lugar cubierto para observar el río y la ciudad."
               }
             },
             {
@@ -1243,7 +1348,8 @@
                 "de": "Sicherer Fahrradabstellplatz in der Nähe ist ein Muss.",
                 "hu": "A közelben lévő biztonságos kerékpártároló elengedhetetlen.",
                 "ro": "Un loc de parcare sigur pentru bicicletă este esențial.",
-                "en": "A safe bike parking spot nearby is a must."
+                "en": "A safe bike parking spot nearby is a must.",
+                "es": "Un aparcamiento seguro para bicicletas cerca es imprescindible."
               }
             }
           ],
@@ -1275,6 +1381,13 @@
               "Bring a waterproof seat cover for your bike.",
               "Choose routes through wider streets for better visibility.",
               "Wear a neon rain jacket for better visibility to cars."
+            ],
+            "es": [
+              "Usa guardabarros para evitar salpicaduras de barro en la ropa.",
+              "Evita giros bruscos en los empedrados resbaladizos.",
+              "Lleva una funda impermeable para el sillín de la bicicleta.",
+              "Elige rutas por calles más anchas para mejor visibilidad.",
+              "Lleva un chubasquero de color neón para ser más visible para los coches."
             ]
           }
         },
@@ -1283,7 +1396,8 @@
             "de": "Radeln Sie morgens durch die kühle Luft zum Viana-Palast. Mittags bieten die sonnigen Patios angenehme Wärme für eine Pause. Die Fahrt über die römische Brücke am Nachmittag bietet klare Sicht auf die Sierra Morena. Beenden Sie die Tour am Calahorra-Turm vor Sonnenuntergang und wärmen Sie sich später in der Mezquita auf.",
             "hu": "Tekerjen a friss reggeli levegőben a Viana-palotához. Délben a napsütötte udvarok kellemes meleget adnak a pihenőhöz. A délutáni tekerés a Római hídon tiszta kilátást nyújt a Sierra Morena hegységre. Zárja a kört a Calahorra-toronynál naplemente előtt, majd melegedjen fel a Mezquitában.",
             "ro": "Pedalați în aerul răcoros de dimineață spre Palatul Viana. La prânz, curțile însorite oferă o căldură plăcută pentru pauză. Călătoria pe Podul Roman oferă o vedere clară spre Sierra Morena după-amiaza. Încheiați la Turnul Calahorra înainte de apus și încălziți-vă apoi în Mezquita.",
-            "en": "Cycle through the cool morning air to Viana Palace. At noon, the sunny patios provide pleasant warmth for a break. Riding across the Roman Bridge in the afternoon offers clear views of the Sierra Morena mountains. Finish at Calahorra Tower before sunset and warm up later inside the Mezquita."
+            "en": "Cycle through the cool morning air to Viana Palace. At noon, the sunny patios provide pleasant warmth for a break. Riding across the Roman Bridge in the afternoon offers clear views of the Sierra Morena mountains. Finish at Calahorra Tower before sunset and warm up later inside the Mezquita.",
+            "es": "Pedalea por el fresco de la mañana hasta el Palacio de Viana. Al mediodía, los patios soleados ofrecen un descanso agradable. Cruzar el Puente Romano por la tarde ofrece vistas claras de la sierra de la Morena. Termina en la Torre de la Calahorra antes del atardecer y entra en calor después dentro de la Mezquita."
           },
           "stops": [
             {
@@ -1292,7 +1406,8 @@
                 "de": "Im Winter sind die Innenhöfe ruhig und friedlich.",
                 "hu": "Télen a belső udvarok csendesek és békések.",
                 "ro": "Iarna, curțile interioare sunt extrem de liniștite.",
-                "en": "In winter, the courtyards are quiet and peaceful."
+                "en": "In winter, the courtyards are quiet and peaceful.",
+                "es": "En invierno, los patios están tranquilos y en paz."
               }
             },
             {
@@ -1301,7 +1416,8 @@
                 "de": "Einige Pflanzen blühen auch im milden andalusischen Winter.",
                 "hu": "Néhány növény az enyhe andalúz télben is virágzik.",
                 "ro": "Unele plante înfloresc chiar și în iarna blândă andaluză.",
-                "en": "Some plants bloom even in the mild Andalusian winter."
+                "en": "Some plants bloom even in the mild Andalusian winter.",
+                "es": "Algunas plantas florecen incluso en el suave invierno andaluz."
               }
             },
             {
@@ -1310,7 +1426,8 @@
                 "de": "Tragen Sie Handschuhe gegen den kalten Wind am Fluss.",
                 "hu": "Viseljen kesztyűt a folyóparti hideg szél ellen.",
                 "ro": "Purtați mănuși contra vântului rece de lângă râu.",
-                "en": "Wear gloves against the cold wind near the river."
+                "en": "Wear gloves against the cold wind near the river.",
+                "es": "Lleva guantes contra el viento frío junto al río."
               }
             },
             {
@@ -1319,7 +1436,8 @@
                 "de": "Der Blick auf die Stadt ist bei tiefstehender Sonne magisch.",
                 "hu": "A városra nyíló kilátás az alacsony napállásnál varázslatos.",
                 "ro": "Priveliștea orașului este magică sub soarele de iarnă.",
-                "en": "The view of the city is magical under the low winter sun."
+                "en": "The view of the city is magical under the low winter sun.",
+                "es": "La vista de la ciudad es mágica con el sol bajo de invierno."
               }
             },
             {
@@ -1328,7 +1446,8 @@
                 "de": "Die dicken Mauern speichern die Wärme der Wintersonne.",
                 "hu": "A vastag falak jól megtartják a téli napsütés melegét.",
                 "ro": "Zidurile groase păstrează bine căldura soarelui de iarnă.",
-                "en": "The thick walls retain the warmth of the winter sun well."
+                "en": "The thick walls retain the warmth of the winter sun well.",
+                "es": "Los muros gruesos retienen bien el calor del sol invernal."
               }
             }
           ],
@@ -1360,6 +1479,13 @@
               "Check tire pressure; cold air reduces it.",
               "Take advantage of clear winter days for panoramic photos.",
               "Wear thermal base layers under your cycling gear."
+            ],
+            "es": [
+              "Evita rutas sombreadas en las primeras horas de la mañana.",
+              "Para un té caliente cerca de la Mezquita para entrar en calor.",
+              "Revisa la presión de los neumáticos; el aire frío la reduce.",
+              "Aprovecha los días invernales despejados para fotos panorámicas.",
+              "Lleva capas térmicas bajo la ropa de ciclismo."
             ]
           }
         }
@@ -1378,7 +1504,8 @@
             "de": "Medina Azahara",
             "hu": "Medina Azahara",
             "ro": "Medina Azahara",
-            "en": "Medina Azahara"
+            "en": "Medina Azahara",
+            "es": "Medina Azahara"
           },
           "coords": [
             -4.8675,
@@ -1393,7 +1520,8 @@
             "de": "Ruinenstadt des Kalifats, UNESCO-Welterbe.",
             "hu": "A kalifátus romvárosa, UNESCO Világörökség.",
             "ro": "Orașul ruină al Califatului, patrimoniu UNESCO.",
-            "en": "Ruined city of the Caliphate, UNESCO World Heritage site."
+            "en": "Ruined city of the Caliphate, UNESCO World Heritage site.",
+            "es": "Ciudad arruinada del Califato, sitio Patrimonio de la Humanidad de la UNESCO."
           }
         },
         {
@@ -1401,7 +1529,8 @@
             "de": "Palacio de Viana",
             "hu": "Viana-palota",
             "ro": "Palacio de Viana",
-            "en": "Viana Palace"
+            "en": "Viana Palace",
+            "es": "Palacio de Viana"
           },
           "coords": [
             -4.7735,
@@ -1416,7 +1545,8 @@
             "de": "Parken Sie am besten im Parkhaus 'Paseo de la Victoria'.",
             "hu": "A legjobb a 'Paseo de la Victoria' parkolóházban megállni.",
             "ro": "Cel mai bine este să parcați în garajul 'Paseo de la Victoria'.",
-            "en": "It is best to park in the 'Paseo de la Victoria' parking garage."
+            "en": "It is best to park in the 'Paseo de la Victoria' parking garage.",
+            "es": "Es mejor aparcar en el parking 'Paseo de la Victoria'."
           }
         },
         {
@@ -1424,7 +1554,8 @@
             "de": "Mezquita-Catedral",
             "hu": "Mezquita-Catedral",
             "ro": "Mezquita-Catedral",
-            "en": "Mezquita-Catedral"
+            "en": "Mezquita-Catedral",
+            "es": "Mezquita-Catedral"
           },
           "coords": [
             -4.7797,
@@ -1439,7 +1570,8 @@
             "de": "Das Wahrzeichen der Stadt ist vom Zentrum aus gut zu Fuß erreichbar.",
             "hu": "A város jelképe a központból gyalogosan is könnyen elérhető.",
             "ro": "Simbolul orașului este ușor accesibil pe jos din centru.",
-            "en": "The city landmark is easily accessible on foot from the center."
+            "en": "The city landmark is easily accessible on foot from the center.",
+            "es": "El emblema de la ciudad es fácilmente accesible a pie desde el centro."
           }
         },
         {
@@ -1447,7 +1579,8 @@
             "de": "Alcázar de los Reyes Cristianos",
             "hu": "Alcázar de los Reyes Cristianos",
             "ro": "Alcázar de los Reyes Cristianos",
-            "en": "Alcázar de los Reyes Cristianos"
+            "en": "Alcázar de los Reyes Cristianos",
+            "es": "Alcázar de los Reyes Cristianos"
           },
           "coords": [
             -4.7818,
@@ -1462,7 +1595,8 @@
             "de": "Besuchen Sie die Gärten am späten Nachmittag für besseres Licht.",
             "hu": "Látogassa meg a kerteket késő délután a szebb fények miatt.",
             "ro": "Vizitați grădinile după-amiaza târziu pentru o lumină mai bună.",
-            "en": "Visit the gardens in the late afternoon for better light."
+            "en": "Visit the gardens in the late afternoon for better light.",
+            "es": "Visita los jardines al final de la tarde para mejor luz."
           }
         }
       ],
@@ -1470,7 +1604,8 @@
         "de": "Mit dem Auto erreichen wir morgens bequem die beeindruckenden Ruinen von Medina Azahara vor den Toren der Stadt. Zurück im Zentrum parken wir und erkunden den Viana-Palast, die Mezquita und den Alcázar. Diese Tour kombiniert die Pracht des Kalifats mit der christlichen Geschichte Córdobas.",
         "hu": "Autóval reggel kényelmesen elérjük Medina Azahara lenyűgöző romjait a városon kívül. A központba visszatérve leparkolunk, majd felfedezzük a Viana-palotát, a Mezquitát és az Alcázart. Ez a túra ötvözi a kalifátus pompáját Córdoba keresztény történelmével.",
         "ro": "Cu mașina ajungem confortabil dimineața la ruinele impresionante de la Medina Azahara, din afara orașului. Revenind în centru, parcăm și explorăm Palatul Viana, Mezquita și Alcázar. Acest tur combină splendoarea califatului cu istoria creștină a Córdobei.",
-        "en": "By car, we easily reach the impressive ruins of Medina Azahara outside the city in the morning. Back in the center, we park and explore Viana Palace, the Mezquita, and the Alcázar. This tour combines the splendor of the Caliphate with the Christian history of Córdoba."
+        "en": "By car, we easily reach the impressive ruins of Medina Azahara outside the city in the morning. Back in the center, we park and explore Viana Palace, the Mezquita, and the Alcázar. This tour combines the splendor of the Caliphate with the Christian history of Córdoba.",
+        "es": "En coche, llegamos fácilmente por la mañana a las impresionantes ruinas de Medina Azahara fuera de la ciudad. De vuelta en el centro, aparcamos y exploramos el Palacio de Viana, la Mezquita y el Alcázar. Este recorrido combina el esplendor del Califato con la historia cristiana de Córdoba."
       },
       "gastro_picks": {
         "de": [
@@ -1578,6 +1713,12 @@
           "Use large parking garages on the outskirts.",
           "Plan time for the Medina shuttle bus.",
           "Refuel outside the center."
+        ],
+        "es": [
+          "Nunca entres en coche en la Judería; es extremadamente estrecha.",
+          "Usa aparcamientos grandes en las afueras.",
+          "Planifica tiempo para el autobús lanzadera a Medina.",
+          "Repostar fuera del centro."
         ]
       },
       "variants": {
@@ -1586,7 +1727,8 @@
             "de": "Mit dem Auto erreichen wir morgens bequem die beeindruckenden Ruinen von Medina Azahara vor den Toren der Stadt. Zurück im Zentrum parken wir und erkunden den Viana-Palast, die Mezquita und den Alcázar. Diese Tour kombiniert die Pracht des Kalifats mit der christlichen Geschichte Córdobas.",
             "hu": "Autóval reggel kényelmesen elérjük Medina Azahara lenyűgöző romjait a városon kívül. A központba visszatérve leparkolunk, majd felfedezzük a Viana-palotát, a Mezquitát és az Alcázart. Ez a túra ötvözi a kalifátus pompáját Córdoba keresztény történelmével.",
             "ro": "Cu mașina ajungem confortabil dimineața la ruinele impresionante de la Medina Azahara, din afara orașului. Revenind în centru, parcăm și explorăm Palatul Viana, Mezquita și Alcázar. Acest tur combină splendoarea califatului cu istoria creștină a Córdobei.",
-            "en": "By car, we easily reach the impressive ruins of Medina Azahara outside the city in the morning. Back in the center, we park and explore Viana Palace, the Mezquita, and the Alcázar. This tour combines the splendor of the Caliphate with the Christian history of Córdoba."
+            "en": "By car, we easily reach the impressive ruins of Medina Azahara outside the city in the morning. Back in the center, we park and explore Viana Palace, the Mezquita, and the Alcázar. This tour combines the splendor of the Caliphate with the Christian history of Córdoba.",
+            "es": "En coche, llegamos fácilmente por la mañana a las impresionantes ruinas de Medina Azahara fuera de la ciudad. De vuelta en el centro, aparcamos y exploramos el Palacio de Viana, la Mezquita y el Alcázar. Este recorrido combina el esplendor del Califato con la historia cristiana de Córdoba."
           },
           "stops": [
             {
@@ -1594,13 +1736,15 @@
                 "de": "Medina Azahara",
                 "hu": "Medina Azahara",
                 "ro": "Medina Azahara",
-                "en": "Medina Azahara"
+                "en": "Medina Azahara",
+                "es": "Medina Azahara"
               },
               "tip_5lang": {
                 "de": "Ruinenstadt des Kalifats, UNESCO-Welterbe.",
                 "hu": "A kalifátus romvárosa, UNESCO Világörökség.",
                 "ro": "Orașul ruină al Califatului, patrimoniu UNESCO.",
-                "en": "Ruined city of the Caliphate, UNESCO World Heritage site."
+                "en": "Ruined city of the Caliphate, UNESCO World Heritage site.",
+                "es": "Ciudad arruinada del Califato, sitio Patrimonio de la Humanidad de la UNESCO."
               }
             },
             {
@@ -1608,13 +1752,15 @@
                 "de": "Palacio de Viana",
                 "hu": "Viana-palota",
                 "ro": "Palacio de Viana",
-                "en": "Viana Palace"
+                "en": "Viana Palace",
+                "es": "Palacio de Viana"
               },
               "tip_5lang": {
                 "de": "Parken Sie am besten im Parkhaus 'Paseo de la Victoria'.",
                 "hu": "A legjobb a 'Paseo de la Victoria' parkolóházban megállni.",
                 "ro": "Cel mai bine este să parcați în garajul 'Paseo de la Victoria'.",
-                "en": "It is best to park in the 'Paseo de la Victoria' parking garage."
+                "en": "It is best to park in the 'Paseo de la Victoria' parking garage.",
+                "es": "Es mejor aparcar en el parking de 'Paseo de la Victoria'."
               }
             },
             {
@@ -1622,13 +1768,15 @@
                 "de": "Mezquita-Catedral",
                 "hu": "Mezquita-Catedral",
                 "ro": "Mezquita-Catedral",
-                "en": "Mezquita-Catedral"
+                "en": "Mezquita-Catedral",
+                "es": "Mezquita-Catedral"
               },
               "tip_5lang": {
                 "de": "Das Wahrzeichen der Stadt ist vom Zentrum aus gut zu Fuß erreichbar.",
                 "hu": "A város jelképe a központból gyalogosan is könnyen elérhető.",
                 "ro": "Simbolul orașului este ușor accesibil pe jos din centru.",
-                "en": "The city landmark is easily accessible on foot from the center."
+                "en": "The city landmark is easily accessible on foot from the center.",
+                "es": "El emblema de la ciudad es fácilmente accesible a pie desde el centro."
               }
             },
             {
@@ -1636,13 +1784,15 @@
                 "de": "Alcázar de los Reyes Cristianos",
                 "hu": "Alcázar de los Reyes Cristianos",
                 "ro": "Alcázar de los Reyes Cristianos",
-                "en": "Alcázar de los Reyes Cristianos"
+                "en": "Alcázar de los Reyes Cristianos",
+                "es": "Alcázar de los Reyes Cristianos"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Gärten am späten Nachmittag für besseres Licht.",
                 "hu": "Látogassa meg a kerteket késő délután a szebb fények miatt.",
                 "ro": "Vizitați grădinile după-amiaza târziu pentru o lumină mai bună.",
-                "en": "Visit the gardens in the late afternoon for better light."
+                "en": "Visit the gardens in the late afternoon for better light.",
+                "es": "Visita los jardines al final de la tarde para mejor luz."
               }
             }
           ],
@@ -1752,6 +1902,12 @@
               "Use large parking garages on the outskirts.",
               "Plan time for the Medina shuttle bus.",
               "Refuel outside the center."
+            ],
+            "es": [
+              "Nunca conduzcas por la Judería, es extremadamente estrecha.",
+              "Utiliza aparcamientos grandes en las afueras.",
+              "Planifica tiempo para el autobús lanzadera a Medina.",
+              "Repón combustible fuera del centro."
             ]
           }
         },
@@ -1760,7 +1916,8 @@
             "de": "Fahren Sie morgens zur Medina Azahara; das Museum ist überdacht. Mittags bietet der Viana-Palast Schutz in seinen Galerien. Die Fahrt zur Mezquita ist bei Regen bequem und trocken. Beenden Sie den Tag am Alcázar, wo Sie direkt in der Nähe parken können, um dem Regen zu entkommen.",
             "hu": "Reggel hajtson a Medina Azaharához; a múzeum fedett és száraz. Délben a Viana-palota galériái nyújtanak menedéket. A Mezquitához vezető út kocsival kényelmes esőben is. Zárja a napot az Alcázarnál, ahol a közelben parkolva gyorsan fedél alá juthat.",
             "ro": "Conduceți spre Medina Azahara dimineața; muzeul este acoperit. La prânz, Palatul Viana oferă adăpost în galeriile sale. Drumul spre Mezquita este confortabil și uscat cu mașina. Încheiați la Alcázar, unde parcarea apropiată vă scapă de ploaie.",
-            "en": "Drive to Medina Azahara in the morning; the museum is covered and dry. At noon, Viana Palace provides shelter in its galleries. The drive to the Mezquita is comfortable even in the rain. End your day at the Alcázar, parking nearby to escape the downpour."
+            "en": "Drive to Medina Azahara in the morning; the museum is covered and dry. At noon, Viana Palace provides shelter in its galleries. The drive to the Mezquita is comfortable even in the rain. End your day at the Alcázar, parking nearby to escape the downpour.",
+            "es": "Conduce a Medina Azahara por la mañana; el museo está cubierto y seco. Al mediodía, el Palacio de Viana ofrece refugio en sus galerías. El trayecto hacia la Mezquita es cómodo incluso con lluvia. Termina el día en el Alcázar, aparcando cerca para escapar del aguacero."
           },
           "stops": [
             {
@@ -1769,7 +1926,8 @@
                 "de": "Das Museum vor Ort ist perfekt für regnerische Stunden.",
                 "hu": "A helyszíni múzeum tökéletes az esős órák eltöltésére.",
                 "ro": "Muzeul de la fața locului este perfect pentru orele ploioase.",
-                "en": "The on-site museum is perfect for spending rainy hours."
+                "en": "The on-site museum is perfect for spending rainy hours.",
+                "es": "El museo in situ es perfecto para pasar horas lluviosas."
               }
             },
             {
@@ -1778,7 +1936,8 @@
                 "de": "Parken Sie im Parkhaus am Paseo de la Victoria.",
                 "hu": "Használja a Paseo de la Victoria melletti parkolóházat.",
                 "ro": "Parcați în garajul de pe Paseo de la Victoria.",
-                "en": "Use the parking garage at Paseo de la Victoria."
+                "en": "Use the parking garage at Paseo de la Victoria.",
+                "es": "Usa el parking del Paseo de la Victoria."
               }
             },
             {
@@ -1787,7 +1946,8 @@
                 "de": "Lassen Sie sich am Eingang absetzen, um trocken zu bleiben.",
                 "hu": "Szálljon ki közvetlenül a bejáratnál, hogy száraz maradjon.",
                 "ro": "Lăsați pasagerii la intrare pentru a rămâne uscați.",
-                "en": "Drop off passengers at the entrance to stay dry."
+                "en": "Drop off passengers at the entrance to stay dry.",
+                "es": "Baja a los pasajeros en la entrada para mantenerlos secos."
               }
             },
             {
@@ -1796,7 +1956,8 @@
                 "de": "Die Gärten sind bei leichtem Regen sehr atmosphärisch.",
                 "hu": "A kertek enyhe esőben nagyon hangulatosak és szépek.",
                 "ro": "Grădinile sunt foarte atmosferice pe o ploaie ușoară.",
-                "en": "The gardens are very atmospheric during light rain."
+                "en": "The gardens are very atmospheric during light rain.",
+                "es": "Los jardines son muy atmosféricos con lluvia ligera."
               }
             }
           ],
@@ -1828,6 +1989,13 @@
               "The road to Medina Azahara can be slippery when wet.",
               "Check your windshield wipers before starting the trip.",
               "Book tickets online to avoid waiting in line in the rain."
+            ],
+            "es": [
+              "Utiliza aparcamientos cubiertos en el centro.",
+              "Evita conducir por calles deprimidas durante lluvias fuertes.",
+              "La carretera a Medina Azahara puede estar resbaladiza cuando está mojada.",
+              "Revisa tus limpiaparabrisas antes de iniciar el viaje.",
+              "Reserva entradas online para evitar esperar bajo la lluvia."
             ]
           }
         },
@@ -1836,7 +2004,8 @@
             "de": "Fahren Sie morgens zur Medina Azahara, wenn die Luft klar ist. Mittags wärmt die Sonne den Viana-Palast auf. Die Fahrt zur Mezquita bietet am Nachmittag schöne Ausblicke auf die winterliche Stadt. Beenden Sie den Tag am Alcázar und genießen Sie die warme Heizung Ihres Autos auf dem Rückweg.",
             "hu": "Hajtson reggel a Medina Azaharához, amikor a levegő kristálytiszta. Délben a nap kellemesen felmelegíti a Viana-palotát. A Mezquitához vezető út délután szép kilátást nyújt a téli városra. Zárja a napot az Alcázarnál, majd élvezze az autó fűtését a hazaúton.",
             "ro": "Conduceți spre Medina Azahara dimineața, când aerul e clar. La prânz, soarele încălzește Palatul Viana. Drumul spre Mezquita oferă vederi frumoase ale orașului iarna. Încheiați la Alcázar și bucurați-vă de căldura mașinii la întoarcere.",
-            "en": "Drive to Medina Azahara in the morning when the air is crisp and clear. At noon, the sun warms up Viana Palace. The afternoon drive to the Mezquita offers beautiful views of the winter city. Finish at the Alcázar and enjoy the warm heater of your car on the way back."
+            "en": "Drive to Medina Azahara in the morning when the air is crisp and clear. At noon, the sun warms up Viana Palace. The afternoon drive to the Mezquita offers beautiful views of the winter city. Finish at the Alcázar and enjoy the warm heater of your car on the way back.",
+            "es": "Conduce a Medina Azahara por la mañana cuando el aire está fresco y claro. Al mediodía, el sol calienta el Palacio de Viana. El trayecto vespertino a la Mezquita ofrece hermosas vistas de la ciudad invernal. Termina en el Alcázar y disfruta de la calefacción del coche de vuelta."
           },
           "stops": [
             {
@@ -1845,7 +2014,8 @@
                 "de": "Es kann auf dem offenen Gelände sehr windig und kalt sein.",
                 "hu": "A nyitott területen nagyon szeles és hideg lehet télen.",
                 "ro": "Poate fi foarte vânt și frig pe platoul deschis.",
-                "en": "It can be very windy and cold on the open grounds."
+                "en": "It can be very windy and cold on the open grounds.",
+                "es": "Puede hacer mucho viento y frío en los espacios abiertos."
               }
             },
             {
@@ -1854,7 +2024,8 @@
                 "de": "Besuchen Sie die Patios mittags, um die Sonne zu nutzen.",
                 "hu": "Délben látogassa az udvarokat, hogy kihasználja a napsütést.",
                 "ro": "Vizitați curțile la prânz pentru a profita de soare.",
-                "en": "Visit the patios at noon to make the most of the sun."
+                "en": "Visit the patios at noon to make the most of the sun.",
+                "es": "Visita los patios al mediodía para aprovechar el sol."
               }
             },
             {
@@ -1863,7 +2034,8 @@
                 "de": "Das Licht im Inneren ist im Winter besonders stimmungsvoll.",
                 "hu": "A belső fények télen különösen hangulatosak a katedrálisban.",
                 "ro": "Lumina din interior este extrem de atmosferică iarna.",
-                "en": "The interior light is especially atmospheric in winter."
+                "en": "The interior light is especially atmospheric in winter.",
+                "es": "La luz interior es especialmente atmosférica en invierno."
               }
             },
             {
@@ -1872,7 +2044,8 @@
                 "de": "Die Gärten schließen im Winter früher, planen Sie rechtzeitig.",
                 "hu": "A kertek télen korábban zárnak, tervezze meg időben a látogatást.",
                 "ro": "Grădinile se închid mai devreme iarna, planificați din timp.",
-                "en": "The gardens close earlier in winter, plan your visit in time."
+                "en": "The gardens close earlier in winter, plan your visit in time.",
+                "es": "Los jardines cierran antes en invierno, planifica tu visita con tiempo."
               }
             }
           ],
@@ -1904,6 +2077,13 @@
               "Finding parking is often easier in winter than in summer.",
               "Visibility can be impaired by the low-lying winter sun.",
               "Keep a blanket in the car for breaks at scenic viewpoints."
+            ],
+            "es": [
+              "Revisa la presión de los neumáticos si hay una caída repentina de temperatura.",
+              "Usa la calefacción del asiento para viajes a primera hora.",
+              "Encontrar aparcamiento suele ser más fácil en invierno que en verano.",
+              "La visibilidad puede verse afectada por el sol bajo de invierno.",
+              "Lleva una manta en el coche para las paradas en miradores."
             ]
           }
         }
@@ -1922,7 +2102,8 @@
             "de": "Mezquita-Catedral",
             "hu": "Mezquita-Catedral",
             "ro": "Mezquita-Catedral",
-            "en": "Mezquita-Catedral"
+            "en": "Mezquita-Catedral",
+            "es": "Mezquita-Catedral"
           },
           "coords": [
             -4.7797,
@@ -1937,7 +2118,8 @@
             "de": "Haltestelle 'Puerta del Puente' ist am nächsten.",
             "hu": "A 'Puerta del Puente' megálló van a legközelebb.",
             "ro": "Stația 'Puerta del Puente' este cea mai apropiată.",
-            "en": "The 'Puerta del Puente' stop is the closest."
+            "en": "The 'Puerta del Puente' stop is the closest.",
+            "es": "La parada 'Puerta del Puente' es la más cercana."
           }
         },
         {
@@ -1945,7 +2127,8 @@
             "de": "Judería",
             "hu": "Zsidó negyed",
             "ro": "Judería",
-            "en": "Jewish Quarter"
+            "en": "Jewish Quarter",
+            "es": "Judería"
           },
           "coords": [
             -4.782,
@@ -1960,7 +2143,8 @@
             "de": "Vom Zentrum aus fahren viele kleine Elektrobusse.",
             "hu": "A központból sok kis elektromos busz közlekedik.",
             "ro": "Din centru circulă multe autobuze electrice mici.",
-            "en": "From the center, many small electric buses run."
+            "en": "From the center, many small electric buses run.",
+            "es": "Desde el centro circulan muchos minibuses eléctricos."
           }
         },
         {
@@ -1968,7 +2152,8 @@
             "de": "Palacio de Viana",
             "hu": "Viana-palota",
             "ro": "Palacio de Viana",
-            "en": "Viana Palace"
+            "en": "Viana Palace",
+            "es": "Palacio de Viana"
           },
           "coords": [
             -4.7735,
@@ -1983,7 +2168,8 @@
             "de": "Buslinie C2 verbindet die Judería mit Viana.",
             "hu": "A C2-es buszvonal összeköti a zsidó negyedet a Vianával.",
             "ro": "Linia de autobuz C2 conectează Judería cu Viana.",
-            "en": "Bus line C2 connects the Judería with Viana."
+            "en": "Bus line C2 connects the Judería with Viana.",
+            "es": "La línea de autobús C2 conecta la Judería con Viana."
           }
         },
         {
@@ -1991,7 +2177,8 @@
             "de": "Medina Azahara",
             "hu": "Medina Azahara",
             "ro": "Medina Azahara",
-            "en": "Medina Azahara"
+            "en": "Medina Azahara",
+            "es": "Medina Azahara"
           },
           "coords": [
             -4.8675,
@@ -2006,7 +2193,8 @@
             "de": "Nutzen Sie den Touristen-Shuttle vom Paseo de la Victoria.",
             "hu": "Használja a turista buszjáratot a Paseo de la Victoriától.",
             "ro": "Folosiți naveta turistică de la Paseo de la Victoria.",
-            "en": "Use the tourist shuttle from Paseo de la Victoria."
+            "en": "Use the tourist shuttle from Paseo de la Victoria.",
+            "es": "Usa el lanzadera turístico desde Paseo de la Victoria."
           }
         }
       ],
@@ -2014,7 +2202,8 @@
         "de": "Nutzen Sie Córdobas effizientes Bussystem! Wir beginnen bei der Mezquita, schlendern durch die Judería und nehmen dann den Bus zum Viana-Palast. Zum Abschluss bringt uns der spezielle Shuttle-Bus zur beeindruckenden Medina Azahara außerhalb der Stadt.",
         "hu": "Használja Córdoba hatékony buszhálózatát! A Mezquitánál kezdünk, átvágunk a zsidó negyeden, majd busszal megyünk a Viana-palotához. Végül a speciális turista járat kivisz minket a városon kívüli Medina Azaharához.",
         "ro": "Folosiți sistemul eficient de autobuze din Córdoba! Începem la Mezquita, ne plimbăm prin Judería și apoi luăm autobuzul spre Palatul Viana. La final, naveta specială ne duce la impresionanta Medina Azahara din afara orașului.",
-        "en": "Use Córdoba's efficient bus system! We start at the Mezquita, wander through the Judería, and then take the bus to Viana Palace. Finally, the special shuttle bus takes us to the impressive Medina Azahara outside the city."
+        "en": "Use Córdoba's efficient bus system! We start at the Mezquita, wander through the Judería, and then take the bus to Viana Palace. Finally, the special shuttle bus takes us to the impressive Medina Azahara outside the city.",
+        "es": "¡Usa el eficiente sistema de autobuses de Córdoba! Empezamos en la Mezquita, paseamos por la Judería y luego tomamos el bus hasta el Palacio de Viana. Finalmente, el lanzadera especial nos lleva a la impresionante Medina Azahara fuera de la ciudad."
       },
       "gastro_picks": {
         "de": [
@@ -2122,6 +2311,12 @@
           "Single tickets can be bought from the driver.",
           "The Medina shuttle often requires a reservation.",
           "The minibuses are perfect for the old town."
+        ],
+        "es": [
+          "Descarga la app de Aucorsa para los horarios.",
+          "Los billetes sencillos se pueden comprar al conductor.",
+          "El lanzadera a Medina suele requerir reserva.",
+          "Los minibuses son perfectos para el casco antiguo."
         ]
       },
       "variants": {
@@ -2130,7 +2325,8 @@
             "de": "Nutzen Sie Córdobas effizientes Bussystem! Wir beginnen bei der Mezquita, schlendern durch die Judería und nehmen dann den Bus zum Viana-Palast. Zum Abschluss bringt uns der spezielle Shuttle-Bus zur beeindruckenden Medina Azahara außerhalb der Stadt.",
             "hu": "Használja Córdoba hatékony buszhálózatát! A Mezquitánál kezdünk, átvágunk a zsidó negyeden, majd busszal megyünk a Viana-palotához. Végül a speciális turista járat kivisz minket a városon kívüli Medina Azaharához.",
             "ro": "Folosiți sistemul eficient de autobuze din Córdoba! Începem la Mezquita, ne plimbăm prin Judería și apoi luăm autobuzul spre Palatul Viana. La final, naveta specială ne duce la impresionanta Medina Azahara din afara orașului.",
-            "en": "Use Córdoba's efficient bus system! We start at the Mezquita, wander through the Judería, and then take the bus to Viana Palace. Finally, the special shuttle bus takes us to the impressive Medina Azahara outside the city."
+            "en": "Use Córdoba's efficient bus system! We start at the Mezquita, wander through the Judería, and then take the bus to Viana Palace. Finally, the special shuttle bus takes us to the impressive Medina Azahara outside the city.",
+            "es": "¡Usa el eficiente sistema de autobuses de Córdoba! Empezamos en la Mezquita, paseamos por la Judería y luego tomamos el bus hasta el Palacio de Viana. Finalmente, el lanzadera especial nos lleva a la impresionante Medina Azahara fuera de la ciudad."
           },
           "stops": [
             {
@@ -2138,13 +2334,15 @@
                 "de": "Mezquita-Catedral",
                 "hu": "Mezquita-Catedral",
                 "ro": "Mezquita-Catedral",
-                "en": "Mezquita-Catedral"
+                "en": "Mezquita-Catedral",
+                "es": "Mezquita-Catedral"
               },
               "tip_5lang": {
                 "de": "Haltestelle 'Puerta del Puente' ist am nächsten.",
                 "hu": "A 'Puerta del Puente' megálló van a legközelebb.",
                 "ro": "Stația 'Puerta del Puente' este cea mai apropiată.",
-                "en": "The 'Puerta del Puente' stop is the closest."
+                "en": "The 'Puerta del Puente' stop is the closest.",
+                "es": "La parada 'Puerta del Puente' es la más cercana."
               }
             },
             {
@@ -2152,13 +2350,15 @@
                 "de": "Judería",
                 "hu": "Zsidó negyed",
                 "ro": "Judería",
-                "en": "Jewish Quarter"
+                "en": "Jewish Quarter",
+                "es": "Judería"
               },
               "tip_5lang": {
                 "de": "Vom Zentrum aus fahren viele kleine Elektrobusse.",
                 "hu": "A központból sok kis elektromos busz közlekedik.",
                 "ro": "Din centru circulă multe autobuze electrice mici.",
-                "en": "From the center, many small electric buses run."
+                "en": "From the center, many small electric buses run.",
+                "es": "Desde el centro circulan muchos minibuses eléctricos."
               }
             },
             {
@@ -2166,13 +2366,15 @@
                 "de": "Palacio de Viana",
                 "hu": "Viana-palota",
                 "ro": "Palacio de Viana",
-                "en": "Viana Palace"
+                "en": "Viana Palace",
+                "es": "Palacio de Viana"
               },
               "tip_5lang": {
                 "de": "Buslinie C2 verbindet die Judería mit Viana.",
                 "hu": "A C2-es buszvonal összeköti a zsidó negyedet a Vianával.",
                 "ro": "Linia de autobuz C2 conectează Judería cu Viana.",
-                "en": "Bus line C2 connects the Judería with Viana."
+                "en": "Bus line C2 connects the Judería with Viana.",
+                "es": "La línea de autobús C2 conecta la Judería con Viana."
               }
             },
             {
@@ -2180,13 +2382,15 @@
                 "de": "Medina Azahara",
                 "hu": "Medina Azahara",
                 "ro": "Medina Azahara",
-                "en": "Medina Azahara"
+                "en": "Medina Azahara",
+                "es": "Medina Azahara"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Touristen-Shuttle vom Paseo de la Victoria.",
                 "hu": "Használja a turista buszjáratot a Paseo de la Victoriától.",
                 "ro": "Folosiți naveta turistică de la Paseo de la Victoria.",
-                "en": "Use the tourist shuttle from Paseo de la Victoria."
+                "en": "Use the tourist shuttle from Paseo de la Victoria.",
+                "es": "Usa el lanzadera turístico desde Paseo de la Victoria."
               }
             }
           ],
@@ -2296,6 +2500,12 @@
               "Single tickets can be bought from the driver.",
               "The Medina shuttle often requires a reservation.",
               "The minibuses are perfect for the old town."
+            ],
+            "es": [
+              "Descarga la app de Aucorsa para los horarios.",
+              "Los billetes sencillos se pueden comprar al conductor.",
+              "El lanzadera a Medina suele requerir reserva.",
+              "Los minibuses son perfectos para el casco antiguo."
             ]
           }
         },
@@ -2304,7 +2514,8 @@
             "de": "Nutzen Sie den Bus zur Mezquita, um trocken anzukommen. Mittags bietet die Judería viele Cafés in Busnähe. Fahren Sie gemütlich zum Viana-Palast und genießen Sie die Fahrt durch das verregnete Córdoba. Beenden Sie den Tag an der Medina Azahara; das Museum bietet ein perfektes Indoor-Erlebnis.",
             "hu": "Használja a buszt a Mezquitához, hogy szárazon érkezzen meg. Délben a Judería negyed kávézói közel vannak a megállókhoz. Utazzon kényelmesen a Viana-palotához az esős városon át. Zárja a napot a Medina Azaharánál; a múzeum kiváló fedett élményt nyújt.",
             "ro": "Folosiți autobuzul spre Mezquita pentru a ajunge uscați. La prânz, cafenelele din Judería sunt aproape de stații. Călătoriți confortabil spre Palatul Viana prin orașul ploios. Încheiați la Medina Azahara; muzeul oferă o experiență interioară perfectă.",
-            "en": "Take the bus to the Mezquita to arrive dry and warm. At noon, the Judería cafes are conveniently close to transit stops. Travel comfortably to Viana Palace through the rainy city. End your day at Medina Azahara; the museum provides an excellent indoor experience."
+            "en": "Take the bus to the Mezquita to arrive dry and warm. At noon, the Judería cafes are conveniently close to transit stops. Travel comfortably to Viana Palace through the rainy city. End your day at Medina Azahara; the museum provides an excellent indoor experience.",
+            "es": "Toma el autobús hacia la Mezquita para llegar seco y caliente. Al mediodía, los cafés de la Judería están cerca de las paradas. Viaja cómodo hasta el Palacio de Viana por la ciudad lluviosa. Termina el día en Medina Azahara; el museo ofrece una excelente experiencia en interior."
           },
           "stops": [
             {
@@ -2313,7 +2524,8 @@
                 "de": "Die Bushaltestellen haben meist gute Unterstände gegen Regen.",
                 "hu": "A buszmegállók többsége jól védett az eső ellen.",
                 "ro": "Stațiile de autobuz au de obicei adăposturi bune.",
-                "en": "Most bus stops have good shelters against the rain."
+                "en": "Most bus stops have good shelters against the rain.",
+                "es": "La mayoría de paradas de autobús tienen buenos refugios contra la lluvia."
               }
             },
             {
@@ -2322,7 +2534,8 @@
                 "de": "Wählen Sie Linien, die direkt am Rand der Altstadt halten.",
                 "hu": "Válasszon olyan járatokat, amik az óváros szélén állnak meg.",
                 "ro": "Alegeți liniile care opresc chiar la marginea centrului vechi.",
-                "en": "Choose lines that stop right at the edge of the old town."
+                "en": "Choose lines that stop right at the edge of the old town.",
+                "es": "Elige líneas que paren en el borde del casco antiguo."
               }
             },
             {
@@ -2331,7 +2544,8 @@
                 "de": "Die Linie 2 hält sehr nah am Eingang des Palastes.",
                 "hu": "A 2-es buszjárat nagyon közel áll meg a palota bejáratához.",
                 "ro": "Linia 2 oprește foarte aproape de intrarea în palat.",
-                "en": "Bus line 2 stops very close to the palace entrance."
+                "en": "Bus line 2 stops very close to the palace entrance.",
+                "es": "La línea 2 para muy cerca de la entrada del palacio."
               }
             },
             {
@@ -2340,7 +2554,8 @@
                 "de": "Nutzen Sie den Shuttle-Bus vom Museum zum Ausgrabungsort.",
                 "hu": "Vegye igénybe a múzeum és az ásatás közti ingajáratot.",
                 "ro": "Folosiți autobuzul navetă între muzeu și situl arheologic.",
-                "en": "Use the shuttle bus between the museum and the ruins."
+                "en": "Use the shuttle bus between the museum and the ruins.",
+                "es": "Usa el lanzadera entre el museo y las ruinas."
               }
             }
           ],
@@ -2372,6 +2587,13 @@
               "Buses are often crowded in the rain; allow extra time.",
               "Keep your umbrella closed when boarding the bus.",
               "Windows can fog up in the rain; sit near the front for better views."
+            ],
+            "es": [
+              "Usa la app de Aucorsa para información de salidas en tiempo real.",
+              "Compra una tarjeta multi-viaje para ahorrar tiempo y dinero.",
+              "Los autobuses suelen llenarse con lluvia; permite tiempo extra.",
+              "Mantén el paraguas cerrado al subir al autobús.",
+              "Las ventanas pueden empañarse con lluvia; siéntate delante para mejores vistas."
             ]
           }
         },
@@ -2380,7 +2602,8 @@
             "de": "Fahren Sie morgens mit dem warmen Bus zur Mezquita. Mittags ist der Spaziergang durch die Judería in der Wintersonne herrlich. Nutzen Sie den Transit zum Viana-Palast am Nachmittag und genießen Sie die Aussicht. Beenden Sie den Tag an der Medina Azahara und nutzen Sie den Shuttle-Bus, um der Kälte zu entkommen.",
             "hu": "Utazzon reggel a fűtött busszal a Mezquitához. Délben a Judería negyedben tett séta a téli napsütésben csodás. Használja a tömegközlekedést a Viana-palotához délután. Zárja a napot a Medina Azaharánál, és vegye igénybe az ingajáratot a hideg ellen.",
             "ro": "Călătoriți dimineața cu autobuzul încălzit spre Mezquita. La prânz, plimbarea prin Judería sub soarele de iarnă e superbă. Folosiți transportul spre Palatul Viana după-amiaza. Încheiați la Medina Azahara și folosiți naveta pentru a scăpa de frig.",
-            "en": "Travel by heated bus to the Mezquita in the morning. At noon, walking through the Judería in the winter sun is wonderful. Use public transit to reach Viana Palace in the afternoon. Finish your day at Medina Azahara and take the shuttle bus to escape the cold."
+            "en": "Travel by heated bus to the Mezquita in the morning. At noon, walking through the Judería in the winter sun is wonderful. Use public transit to reach Viana Palace in the afternoon. Finish your day at Medina Azahara and take the shuttle bus to escape the cold.",
+            "es": "Viaja en autobús con calefacción a la Mezquita por la mañana. Al mediodía, pasear por la Judería con sol invernal es maravilloso. Usa el transporte público para llegar al Palacio de Viana por la tarde. Termina el día en Medina Azahara y toma el lanzadera para escapar del frío."
           },
           "stops": [
             {
@@ -2389,7 +2612,8 @@
                 "de": "Die Busse sind im Winter gut beheizt und komfortabel.",
                 "hu": "A buszok télen jól fűtöttek és kényelmesek.",
                 "ro": "Autobuzele sunt bine încălzite și confortabile iarna.",
-                "en": "The buses are well-heated and comfortable in winter."
+                "en": "The buses are well-heated and comfortable in winter.",
+                "es": "Los autobuses están bien calefactados y son cómodos en invierno."
               }
             },
             {
@@ -2398,7 +2622,8 @@
                 "de": "Genießen Sie den kurzen Fußweg von der Haltestelle im Sonnenlicht.",
                 "hu": "Élvezze a rövid sétát a megállótól a téli napsütésben.",
                 "ro": "Bucurați-vă de scurta plimbare de la stație în lumina soarelui.",
-                "en": "Enjoy the short walk from the stop in the winter sunlight."
+                "en": "Enjoy the short walk from the stop in the winter sunlight.",
+                "es": "Disfruta del corto paseo desde la parada con la luz invernal."
               }
             },
             {
@@ -2407,7 +2632,8 @@
                 "de": "Im Winter ist der Transit weniger überfüllt als im Sommer.",
                 "hu": "Télen a tömegközlekedés kevésbé zsúfolt, mint nyáron.",
                 "ro": "Transportul public este mai puțin aglomerat iarna decât vara.",
-                "en": "Public transit is less crowded in winter than in summer."
+                "en": "Public transit is less crowded in winter than in summer.",
+                "es": "El transporte público está menos lleno en invierno que en verano."
               }
             },
             {
@@ -2416,7 +2642,8 @@
                 "de": "Der Touristenbus fährt auch im Winter nach festem Plan.",
                 "hu": "A turistabusz télen is fix menetrend szerint közlekedik.",
                 "ro": "Autobuzul turistic circulă după program și în timpul iernii.",
-                "en": "The tourist bus operates on a fixed schedule even in winter."
+                "en": "The tourist bus operates on a fixed schedule even in winter.",
+                "es": "El bus turístico opera con horario fijo incluso en invierno."
               }
             }
           ],
@@ -2448,6 +2675,13 @@
               "Buses are a great place to warm up between attractions.",
               "Wear a hat as it can be drafty while waiting at stops.",
               "Use the app to minimize waiting time in the cold."
+            ],
+            "es": [
+              "Espera al sol en las paradas para mantenerte caliente.",
+              "Consulta los horarios de invierno ya que algunas líneas pueden funcionar con menos frecuencia.",
+              "Los autobuses son un buen lugar para calentarse entre atracciones.",
+              "Lleva gorro, puede hacer corriente mientras esperas en las paradas.",
+              "Usa la app para minimizar el tiempo de espera en el frío."
             ]
           }
         }
@@ -2462,19 +2696,22 @@
       "de": "Cordoba spricht weiches Andalusisch, oft mit verschluckten 's' am Wortende. Englisch klappt in der Judaria und um die Mezquita, sonst eher nicht. Ein lockeres 'que tal?' (wie geht's?) oeffnet Gespraeche, Andalusier sind herzlich und nehmen sich Zeit fuer Smalltalk.",
       "hu": "Cordoba lagy andaluz spanyolt beszel, gyakran lenyelt 's'-sel a szovegen. Az angol a Judariaban es a Mezquita korul megy, mashol kevesbe. Egy lazan dobott 'que tal?' (hogy vagy?) beszelgetest indit, az andaluzok melegszivuek es ranek a kis dumara.",
       "ro": "Cordoba vorbeste o andaluza moale, deseori cu 's' inghitit la final de cuvant. Engleza merge in Juderia si in jurul Mezquitei, in rest mai putin. Un 'que tal?' (ce mai faci?) deschide conversatii, andaluzii sunt calzi si au timp pentru taifas.",
-      "en": "Cordoba speaks soft Andalusian, often dropping the 's' at word endings. English works in the Juderia and around the Mezquita, less so elsewhere. A casual 'que tal?' (how's it going?) opens conversations — Andalusians are warm and always have time for small talk."
+      "en": "Cordoba speaks soft Andalusian, often dropping the 's' at word endings. English works in the Juderia and around the Mezquita, less so elsewhere. A casual 'que tal?' (how's it going?) opens conversations — Andalusians are warm and always have time for small talk.",
+      "es": "Córdoba tiene un andaluz suave, a menudo se pierde la 's' al final de las palabras. El inglés funciona en la Judería y alrededor de la Mezquita, menos en otras zonas. Un casual '¿qué tal?' abre conversaciones — los andaluces son cálidos y siempre tienen tiempo para charlas breves."
     },
     "best_time_to_visit": {
       "de": "Mai ist magisch: Patios-Festival mit bluehenden Innenhoefen und 25 Grad. April und Oktober ebenfalls ideal mit milden Temperaturen. Juli und August sind extrem heiss (oft 42 Grad — Cordoba ist Spaniens Hitzepol), dann nur frueh morgens oder abends rausgehen.",
       "hu": "Majus varazslatos: Patios-fesztival viragzo belso udvarokkal, 25 fok. Aprilis es oktober is ideal, enyhe homerseklet. Julius-augusztus extrem forro (gyakran 42 fok, Cordoba Spanyolorszag hopolusa), akkor csak kora reggel vagy este mozogj.",
       "ro": "Mai e magic: Festivalul Patios cu curti interioare inflorite si 25 grade. Aprilie si octombrie sunt si ele ideale, temperaturi blande. Iulie si august sunt extrem de calde (deseori 42 grade, Cordoba e polul caldurii Spaniei), iesi doar dimineata devreme sau seara.",
-      "en": "May is magical: the Patios festival fills flowering courtyards under 25°C skies. April and October are also ideal with mild temperatures. July and August get extreme (often 42°C — Cordoba is Spain's heat pole), so only go out early morning or evening."
+      "en": "May is magical: the Patios festival fills flowering courtyards under 25°C skies. April and October are also ideal with mild temperatures. July and August get extreme (often 42°C — Cordoba is Spain's heat pole), so only go out early morning or evening.",
+      "es": "Mayo es mágico: el festival de los Patios llena los patios florecidos bajo cielos de 25°C. Abril y octubre también son ideales con temperaturas suaves. Julio y agosto son extremos (a menudo 42°C — Córdoba es el polo del calor en España), así que sal solo temprano por la mañana o por la noche."
     },
     "neighborhood_warnings": {
       "de": "Sehr sichere Stadt, selbst nachts in der Altstadt entspannt. In der Mezquita und um die Roemische Bruecke auf Taschen achten wegen Touristengedraenge. Nicht offiziell ausgewiesene Stadtfuehrer am Eingang der Mezquita ignorieren — Tickets nur online oder am Schalter.",
       "hu": "Nagyon biztonsagos varos, ejjel is laza az obvarosban. A Mezquita es a Romai-hid kornyeken figyelj a taskara a turistazsufoltsag miatt. A Mezquita bejaratnal a nem hivatalos idegenvezetoket hagyd figyelmen kivul, jegyet csak online vagy a penztarnal vegyel.",
       "ro": "Oras foarte sigur, chiar si noaptea in centrul vechi e relaxat. La Mezquita si Podul Roman atentie la genti din cauza aglomeratiei. Ignora ghizii neoficiali de la intrarea Mezquitei, bilete doar online sau de la casa.",
-      "en": "Very safe city, relaxed even at night in the old town. Watch your bag around the Mezquita and Roman Bridge due to tourist crowds. Ignore the unofficial guides at the Mezquita entrance — buy tickets online or at the counter only."
+      "en": "Very safe city, relaxed even at night in the old town. Watch your bag around the Mezquita and Roman Bridge due to tourist crowds. Ignore the unofficial guides at the Mezquita entrance — buy tickets online or at the counter only.",
+      "es": "Ciudad muy segura, relajada incluso de noche en el casco antiguo. Cuida tu bolso alrededor de la Mezquita y el Puente Romano por las multitudes. Ignora a los guías no oficiales en la entrada de la Mezquita — compra entradas online o en taquilla únicamente."
     },
     "events": "https://www.turismodecordoba.org/",
     "webcam": "https://www.skylinewebcams.com/en/webcam/espana/andalucia/cordoba.html",

@@ -21,7 +21,8 @@
             "de": "Puig de Missa",
             "hu": "Puig de Missa",
             "ro": "Puig de Missa",
-            "en": "Puig de Missa"
+            "en": "Puig de Missa",
+            "es": "Puig de Missa"
           },
           "coords": [
             1.5285,
@@ -36,7 +37,8 @@
             "de": "Beste Aussicht auf die Stadt.",
             "hu": "A legjobb kilátás a városra.",
             "ro": "Cea mai bună vedere asupra orașului.",
-            "en": "Best panoramic view over the town."
+            "en": "Best panoramic view over the town.",
+            "es": "Mejor mirador panorámico sobre el pueblo."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Ethno-Museum von Ibiza",
             "hu": "Ibiza Etnográfiai Múzeum",
             "ro": "Muzeul Etnografic din Ibiza",
-            "en": "Ethnographic Museum of Ibiza"
+            "en": "Ethnographic Museum of Ibiza",
+            "es": "Museo Etnográfico de Ibiza"
           },
           "coords": [
             1.5288,
@@ -59,7 +62,8 @@
             "de": "In einem alten Bauernhaus (Can Ros).",
             "hu": "Egy régi parasztházban (Can Ros) található.",
             "ro": "Situat într-o casă țărănească veche (Can Ros).",
-            "en": "Located in an old farmhouse called Can Ros."
+            "en": "Located in an old farmhouse called Can Ros.",
+            "es": "Ubicado en una antigua casa payesa llamada Can Ros."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Pont Vell (Alte Brücke)",
             "hu": "Pont Vell (Régi híd)",
             "ro": "Pont Vell (Podul Vechi)",
-            "en": "Pont Vell (Old Bridge)"
+            "en": "Pont Vell (Old Bridge)",
+            "es": "Pont Vell (Puente Viejo)"
           },
           "coords": [
             1.531,
@@ -82,7 +87,8 @@
             "de": "Historische Brücke über den einzigen Fluss.",
             "hu": "Történelmi híd az egyetlen folyó felett.",
             "ro": "Pod istoric peste singurul râu.",
-            "en": "Historical bridge over the only river."
+            "en": "Historical bridge over the only river.",
+            "es": "Puente histórico sobre el único río."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Passeig de s'Alamera",
             "hu": "Passeig de s'Alamera",
             "ro": "Passeig de s'Alamera",
-            "en": "Passeig de s'Alamera"
+            "en": "Passeig de s'Alamera",
+            "es": "Passeig de s'Alamera"
           },
           "coords": [
             1.5345,
@@ -105,7 +112,8 @@
             "de": "Zentraler Boulevard mit Cafés.",
             "hu": "Központi sugárút kávézókkal.",
             "ro": "Bulevard central cu cafenele.",
-            "en": "Central boulevard lined with cafes."
+            "en": "Central boulevard lined with cafes.",
+            "es": "Bulevar central bordeado de cafeterías."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Playa de Santa Eulària",
             "hu": "Santa Eulària strand",
             "ro": "Plaja Santa Eulària",
-            "en": "Playa de Santa Eulària"
+            "en": "Playa de Santa Eulària",
+            "es": "Playa de Santa Eulària"
           },
           "coords": [
             1.5365,
@@ -128,7 +137,8 @@
             "de": "Rauchfreier Familienstrand.",
             "hu": "Füstmentes családi strand.",
             "ro": "Plajă pentru familii, fără fumat.",
-            "en": "Smoke-free family-friendly beach."
+            "en": "Smoke-free family-friendly beach.",
+            "es": "Playa familiar y libre de humo."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Marina Santa Eulària",
             "hu": "Santa Eulària kikötő",
             "ro": "Marina Santa Eulària",
-            "en": "Marina Santa Eulària"
+            "en": "Marina Santa Eulària",
+            "es": "Marina Santa Eulària"
           },
           "coords": [
             1.542,
@@ -151,7 +162,8 @@
             "de": "Ideal für einen Drink am Abend.",
             "hu": "Ideális egy esti italhoz.",
             "ro": "Ideal pentru o băutură seara.",
-            "en": "Perfect spot for an evening drink."
+            "en": "Perfect spot for an evening drink.",
+            "es": "Lugar perfecto para una copa al atardecer."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie am Puig de Missa, einer befestigten Kirche aus dem 16. Jahrhundert auf einem Hügel. Besuchen Sie das nahegelegene Museum in einem traditionellen Bauernhaus. Mittags spazieren Sie zur römischen Brücke Pont Vell und entlang des Boulevards Passeig de s'Alamera. Den Nachmittag verbringen Sie am Stadtstrand, bevor Sie den Tag am modernen Yachthafen ausklingen lassen.",
         "hu": "Kezdje a napot a dombtetőn álló 16. századi erődtemplomnál, a Puig de Missánál. Látogasson el a szomszédos skanzenbe, amely egy hagyományos tanyaházban működik. Délben sétáljon el a Pont Vell hídhoz és a hangulatos főtérre. A délutánt töltse a városi strandon, majd fejezze be a napot a modern jachtkikötő elegáns bárjai között.",
         "ro": "Începeți la Puig de Missa, o biserică fortificată din secolul al XVI-lea situată pe un deal. Vizitați muzeul de etnografie de lângă, aflat într-o casă tradițională. La prânz, mergeți spre podul istoric Pont Vell și pe bulevardul Passeig de s'Alamera. Petreceți după-amiaza pe plaja orașului, apoi încheiați ziua în portul turistic modern.",
-        "en": "Start at Puig de Missa, a 16th-century fortified church atop a hill. Visit the nearby ethnographic museum housed in a traditional farmhouse. At midday, walk to the Pont Vell bridge and along the tree-lined Passeig de s'Alamera. Spend the afternoon at the town beach before concluding your trip at the upscale Marina Santa Eulària."
+        "en": "Start at Puig de Missa, a 16th-century fortified church atop a hill. Visit the nearby ethnographic museum housed in a traditional farmhouse. At midday, walk to the Pont Vell bridge and along the tree-lined Passeig de s'Alamera. Spend the afternoon at the town beach before concluding your trip at the upscale Marina Santa Eulària.",
+        "es": "Comienza en Puig de Missa, iglesia fortificada del siglo XVI en lo alto de una colina. Visita el cercano museo etnográfico en una casa payesa tradicional. Al mediodía, pasea hasta el Pont Vell y por el arbolado Passeig de s'Alamera. Pasa la tarde en la playa del pueblo y termina el día en la elegante Marina Santa Eulària."
       },
       "gastro_picks": {
         "de": [
@@ -263,6 +276,11 @@
           "Santa Eulària is the more relaxed and family-friendly part of Ibiza.",
           "Blue zone parking requires a ticket from the machines.",
           "The town is very walkable with plenty of shade."
+        ],
+        "es": [
+          "Santa Eulària es la zona más relajada y familiar de Ibiza.",
+          "El estacionamiento en zona azul requiere ticket de las máquinas.",
+          "El pueblo es muy transitable a pie y con mucho sombraje."
         ]
       },
       "variants": {
@@ -271,7 +289,8 @@
             "de": "Beginnen Sie am Puig de Missa, einer befestigten Kirche aus dem 16. Jahrhundert auf einem Hügel. Besuchen Sie das nahegelegene Museum in einem traditionellen Bauernhaus. Mittags spazieren Sie zur römischen Brücke Pont Vell und entlang des Boulevards Passeig de s'Alamera. Den Nachmittag verbringen Sie am Stadtstrand, bevor Sie den Tag am modernen Yachthafen ausklingen lassen.",
             "hu": "Kezdje a napot a dombtetőn álló 16. századi erődtemplomnál, a Puig de Missánál. Látogasson el a szomszédos skanzenbe, amely egy hagyományos tanyaházban működik. Délben sétáljon el a Pont Vell hídhoz és a hangulatos főtérre. A délutánt töltse a városi strandon, majd fejezze be a napot a modern jachtkikötő elegáns bárjai között.",
             "ro": "Începeți la Puig de Missa, o biserică fortificată din secolul al XVI-lea situată pe un deal. Vizitați muzeul de etnografie de lângă, aflat într-o casă tradițională. La prânz, mergeți spre podul istoric Pont Vell și pe bulevardul Passeig de s'Alamera. Petreceți după-amiaza pe plaja orașului, apoi încheiați ziua în portul turistic modern.",
-            "en": "Start at Puig de Missa, a 16th-century fortified church atop a hill. Visit the nearby ethnographic museum housed in a traditional farmhouse. At midday, walk to the Pont Vell bridge and along the tree-lined Passeig de s'Alamera. Spend the afternoon at the town beach before concluding your trip at the upscale Marina Santa Eulària."
+            "en": "Start at Puig de Missa, a 16th-century fortified church atop a hill. Visit the nearby ethnographic museum housed in a traditional farmhouse. At midday, walk to the Pont Vell bridge and along the tree-lined Passeig de s'Alamera. Spend the afternoon at the town beach before concluding your trip at the upscale Marina Santa Eulària.",
+            "es": "Comienza en Puig de Missa, iglesia fortificada del siglo XVI en lo alto de una colina. Visita el cercano museo etnográfico en una casa payesa tradicional. Al mediodía, pasea hasta el Pont Vell y por el arbolado Passeig de s'Alamera. Pasa la tarde en la playa del pueblo y termina el día en la elegante Marina Santa Eulària."
           },
           "stops": [
             {
@@ -279,13 +298,15 @@
                 "de": "Puig de Missa",
                 "hu": "Puig de Missa",
                 "ro": "Puig de Missa",
-                "en": "Puig de Missa"
+                "en": "Puig de Missa",
+                "es": "Puig de Missa"
               },
               "tip_5lang": {
                 "de": "Beste Aussicht auf die Stadt.",
                 "hu": "A legjobb kilátás a városra.",
                 "ro": "Cea mai bună vedere asupra orașului.",
-                "en": "Best panoramic view over the town."
+                "en": "Best panoramic view over the town.",
+                "es": "Mejor mirador panorámico sobre el pueblo."
               }
             },
             {
@@ -293,13 +314,15 @@
                 "de": "Ethno-Museum von Ibiza",
                 "hu": "Ibiza Etnográfiai Múzeum",
                 "ro": "Muzeul Etnografic din Ibiza",
-                "en": "Ethnographic Museum of Ibiza"
+                "en": "Ethnographic Museum of Ibiza",
+                "es": "Museo Etnográfico de Ibiza"
               },
               "tip_5lang": {
                 "de": "In einem alten Bauernhaus (Can Ros).",
                 "hu": "Egy régi parasztházban (Can Ros) található.",
                 "ro": "Situat într-o casă țărănească veche (Can Ros).",
-                "en": "Located in an old farmhouse called Can Ros."
+                "en": "Located in an old farmhouse called Can Ros.",
+                "es": "Ubicado en una antigua casa payesa llamada Can Ros."
               }
             },
             {
@@ -307,13 +330,15 @@
                 "de": "Pont Vell (Alte Brücke)",
                 "hu": "Pont Vell (Régi híd)",
                 "ro": "Pont Vell (Podul Vechi)",
-                "en": "Pont Vell (Old Bridge)"
+                "en": "Pont Vell (Old Bridge)",
+                "es": "Pont Vell (Puente Viejo)"
               },
               "tip_5lang": {
                 "de": "Historische Brücke über den einzigen Fluss.",
                 "hu": "Történelmi híd az egyetlen folyó felett.",
                 "ro": "Pod istoric peste singurul râu.",
-                "en": "Historical bridge over the only river."
+                "en": "Historical bridge over the only river.",
+                "es": "Puente histórico sobre el único río."
               }
             },
             {
@@ -321,13 +346,15 @@
                 "de": "Passeig de s'Alamera",
                 "hu": "Passeig de s'Alamera",
                 "ro": "Passeig de s'Alamera",
-                "en": "Passeig de s'Alamera"
+                "en": "Passeig de s'Alamera",
+                "es": "Passeig de s'Alamera"
               },
               "tip_5lang": {
                 "de": "Zentraler Boulevard mit Cafés.",
                 "hu": "Központi sugárút kávézókkal.",
                 "ro": "Bulevard central cu cafenele.",
-                "en": "Central boulevard lined with cafes."
+                "en": "Central boulevard lined with cafes.",
+                "es": "Bulevar central bordeado de cafeterías."
               }
             },
             {
@@ -335,13 +362,15 @@
                 "de": "Playa de Santa Eulària",
                 "hu": "Santa Eulària strand",
                 "ro": "Plaja Santa Eulària",
-                "en": "Playa de Santa Eulària"
+                "en": "Playa de Santa Eulària",
+                "es": "Playa de Santa Eulària"
               },
               "tip_5lang": {
                 "de": "Rauchfreier Familienstrand.",
                 "hu": "Füstmentes családi strand.",
                 "ro": "Plajă pentru familii, fără fumat.",
-                "en": "Smoke-free family-friendly beach."
+                "en": "Smoke-free family-friendly beach.",
+                "es": "Playa familiar y libre de humo."
               }
             },
             {
@@ -349,13 +378,15 @@
                 "de": "Marina Santa Eulària",
                 "hu": "Santa Eulària kikötő",
                 "ro": "Marina Santa Eulària",
-                "en": "Marina Santa Eulària"
+                "en": "Marina Santa Eulària",
+                "es": "Marina Santa Eulària"
               },
               "tip_5lang": {
                 "de": "Ideal für einen Drink am Abend.",
                 "hu": "Ideális egy esti italhoz.",
                 "ro": "Ideal pentru o băutură seara.",
-                "en": "Perfect spot for an evening drink."
+                "en": "Perfect spot for an evening drink.",
+                "es": "Lugar perfecto para una copa al atardecer."
               }
             }
           ],
@@ -461,6 +492,11 @@
               "Santa Eulària is the more relaxed and family-friendly part of Ibiza.",
               "Blue zone parking requires a ticket from the machines.",
               "The town is very walkable with plenty of shade."
+            ],
+            "es": [
+              "Santa Eulària es la zona más relajada y familiar de Ibiza.",
+              "El estacionamiento en zona azul requiere ticket de las máquinas.",
+              "El pueblo es muy transitable a pie y con mucho sombraje."
             ]
           }
         },
@@ -469,7 +505,8 @@
             "de": "Morgens bietet die Kirche am Puig de Missa guten Schutz vor Schauern. Mittags ist das ethnografische Museum der ideale Ort, um trocken zu bleiben. Nachmittags führt der Weg über die Brücke zur Promenade, wo zahlreiche Cafés Unterstand bieten. Abends glänzen die Lichter der Marina malerisch auf dem nassen Asphalt, während Sie in einem Hafenrestaurant den Tag ausklingen lassen.",
             "hu": "Reggel a Puig de Missa templom belső tere nyújt menedéket a záporok elől. Délben a néprajzi múzeum tökéletes helyszín a szárazon maradáshoz. Délután az öreg hídon át a tengerparti sétányra érünk, ahol a kávézók teraszai fedettek. Este a kikötő fényei csillognak a vizes aszfalton, miközben egy hangulatos étteremben figyelhetjük az esőt.",
             "ro": "Dimineața, biserica de pe Puig de Missa oferă un adăpost excelent împotriva averselor. La prânz, muzeul etnografic este locul ideal pentru a rămâne uscat. După-amiaza, drumul peste podul vechi duce spre faleză, unde numeroase cafenele oferă protecție. Seara, luminile marinei strălucesc pitoresc pe asfaltul ud, în timp ce vă bucurați de cină într-un restaurant acoperit.",
-            "en": "In the morning, the church at Puig de Missa provides good shelter from showers. At midday, the ethnographic museum is the perfect place to stay dry. In the afternoon, the walk across the old bridge leads to the promenade, where many cafes offer cover. In the evening, the marina lights reflect beautifully on the wet pavement while you relax in a sheltered restaurant."
+            "en": "In the morning, the church at Puig de Missa provides good shelter from showers. At midday, the ethnographic museum is the perfect place to stay dry. In the afternoon, the walk across the old bridge leads to the promenade, where many cafes offer cover. In the evening, the marina lights reflect beautifully on the wet pavement while you relax in a sheltered restaurant.",
+            "es": "Por la mañana, la iglesia de Puig de Missa ofrece buen refugio de los aguaceros. Al mediodía, el museo etnográfico es un lugar perfecto para resguardarse. Por la tarde, el paseo por el puente viejo conduce al paseo marítimo, donde muchas cafeterías tienen cobertura. Por la noche, las luces de la marina se reflejan en el pavimento mojado mientras descansas en un restaurante con techo."
           },
           "stops": [
             {
@@ -478,7 +515,8 @@
                 "de": "Das Kircheninnere ist trocken und bietet einen tollen Ausblick.",
                 "hu": "A templom belső tere száraz, és kiváló kilátást nyújt.",
                 "ro": "Interiorul bisericii este uscat și oferă o priveliște excelentă.",
-                "en": "The church interior is dry and offers an excellent vantage point."
+                "en": "The church interior is dry and offers an excellent vantage point.",
+                "es": "El interior de la iglesia está seco y ofrece un excelente mirador."
               }
             },
             {
@@ -487,7 +525,8 @@
                 "de": "Perfekter Ort, um die stärksten Regenfälle abzuwarten.",
                 "hu": "Tökéletes hely a legnagyobb esőzés átvészelésére.",
                 "ro": "Locul perfect pentru a aștepta trecerea ploii abundente.",
-                "en": "The perfect place to wait out the heaviest rain."
+                "en": "The perfect place to wait out the heaviest rain.",
+                "es": "El lugar perfecto para esperar a que pase la lluvia más intensa."
               }
             },
             {
@@ -496,7 +535,8 @@
                 "de": "Vorsicht, die alten Steine können bei Nässe rutschig sein.",
                 "hu": "Vigyázat, a régi kövek vizesen csúszósak lehetnek.",
                 "ro": "Atenție, pietrele vechi pot fi alunecoase când sunt ude.",
-                "en": "Careful, the old stones can be slippery when wet."
+                "en": "Careful, the old stones can be slippery when wet.",
+                "es": "Cuidado, las piedras antiguas pueden ser resbaladizas con lluvia."
               }
             },
             {
@@ -505,7 +545,8 @@
                 "de": "Nutzen Sie die Arkaden und Markisen der Geschäfte.",
                 "hu": "Használja ki az üzletek árkádjait és napellenzőit.",
                 "ro": "Profitați de arcadele și copertinele magazinelor.",
-                "en": "Take advantage of the arcades and shop awnings."
+                "en": "Take advantage of the arcades and shop awnings.",
+                "es": "Aprovecha los pórticos y toldos de las tiendas."
               }
             },
             {
@@ -514,7 +555,8 @@
                 "de": "Beobachten Sie die Wellen von einer Strandbar aus.",
                 "hu": "Figyelje a hullámokat egy fedett tengerparti bárból.",
                 "ro": "Urmăriți valurile de la adăpostul unui bar de pe plajă.",
-                "en": "Watch the waves from the shelter of a beach bar."
+                "en": "Watch the waves from the shelter of a beach bar.",
+                "es": "Observa las olas desde el refugio de un chiringuito."
               }
             },
             {
@@ -523,7 +565,8 @@
                 "de": "Kurze Wege zwischen den überdachten Restaurants.",
                 "hu": "Rövid távolságok a fedett éttermek között.",
                 "ro": "Distanțe scurte între restaurantele acoperite.",
-                "en": "Short distances between covered restaurants."
+                "en": "Short distances between covered restaurants.",
+                "es": "Cortas distancias entre restaurantes con terraza cubierta."
               }
             }
           ],
@@ -551,6 +594,12 @@
               "The cobblestones in the old town are extremely slippery when wet.",
               "Plan your museum visit during the heaviest forecasted rain.",
               "Many cafes on the promenade have transparent wind shelters."
+            ],
+            "es": [
+              "Un paraguas resistente es esencial por las rachas de viento costero.",
+              "Los adoquines del casco antiguo son extremadamente resbaladizos cuando están mojados.",
+              "Planifica la visita al museo durante la lluvia más intensa prevista.",
+              "Muchas cafeterías del paseo tienen mamparas transparentes contra el viento."
             ]
           }
         },
@@ -559,7 +608,8 @@
             "de": "Die milde Wintersonne beleuchtet den Puig de Missa am Morgen perfekt. Mittags schützt die Altstadt vor kühlen Brisen, während das Museum Einblicke in das lokale Leben gibt. Nachmittags ist die Promenade herrlich ruhig für einen entspannten Spaziergang. Da die Sonne gegen 17:45 Uhr untergeht, bietet die Marina zum Abschluss ein goldenes Lichtspektakel vor dem Abendessen.",
             "hu": "A gyenge téli napsütés reggel szépen világítja meg a Puig de Missa-t. Délben az óváros szűk utcái védenek a hűvös széltől, a múzeum pedig kellemesen temperált. Délután a sétány csendes, tömegmentes sétát kínál. Mivel a nap 17:45 körül nyugszik, a kikötő arany fényei tökéletes zárást nyújtanak a vacsora előtt.",
             "ro": "Soarele blând de iarnă luminează perfect Puig de Missa dimineața. La prânz, orașul vechi oferă protecție împotriva brizelor răcoroase. După-amiaza, faleza este minunat de liniștită pentru o plimbare relaxată. Deoarece soarele apune în jurul orei 17:45, marina oferă un spectacol de lumină aurie înainte de cină.",
-            "en": "The mild winter sun lights up Puig de Missa beautifully in the morning. At midday, the old town alleys protect you from cool breezes. The afternoon is wonderfully quiet on the promenade for a relaxed stroll. As the sun sets around 5:45 PM, the marina provides a golden light show to finish the day before dinner."
+            "en": "The mild winter sun lights up Puig de Missa beautifully in the morning. At midday, the old town alleys protect you from cool breezes. The afternoon is wonderfully quiet on the promenade for a relaxed stroll. As the sun sets around 5:45 PM, the marina provides a golden light show to finish the day before dinner.",
+            "es": "El suave sol invernal ilumina Puig de Missa maravillosamente por la mañana. Al mediodía, las callejuelas del casco antiguo protegen de las brisas frescas. La tarde es tranquilísima en el paseo para un paseo relajado. Al ponerse el sol, alrededor de las 17:45, la marina ofrece un espectáculo dorado antes de la cena."
           },
           "stops": [
             {
@@ -568,7 +618,8 @@
                 "de": "Genießen Sie die klare Sicht, die es nur im Winter gibt.",
                 "hu": "Élvezze a tiszta kilátást, ami csak télen ilyen látványos.",
                 "ro": "Bucurați-vă de vizibilitatea clară, specifică iernii.",
-                "en": "Enjoy the clear views that are at their best in winter."
+                "en": "Enjoy the clear views that are at their best in winter.",
+                "es": "Disfruta de las vistas claras que están en su mejor momento en invierno."
               }
             },
             {
@@ -577,7 +628,8 @@
                 "de": "Ein warmer Rückzugsort mit authentischer Atmosphäre.",
                 "hu": "Meleg menedék, autentikus szigeti hangulattal.",
                 "ro": "Un refugiu cald, cu o atmosferă autentică.",
-                "en": "A warm retreat with an authentic island atmosphere."
+                "en": "A warm retreat with an authentic island atmosphere.",
+                "es": "Un refugio cálido con auténtica atmósfera isleña."
               }
             },
             {
@@ -586,7 +638,8 @@
                 "de": "Ideal für Fotos ohne die sommerlichen Touristenmassen.",
                 "hu": "Ideális fotóhelyszín a nyári tömeg nélkül.",
                 "ro": "Locație ideală pentru fotografii fără mulțimile de vară.",
-                "en": "Ideal for photos without the summer tourist crowds."
+                "en": "Ideal for photos without the summer tourist crowds.",
+                "es": "Ideal para fotos sin las multitudes turísticas de verano."
               }
             },
             {
@@ -595,7 +648,8 @@
                 "de": "Suchen Sie sich einen sonnigen Tisch für den Kaffee.",
                 "hu": "Keressen egy napsütötte asztalt a déli kávéhoz.",
                 "ro": "Căutați o masă însorită pentru cafeaua de la prânz.",
-                "en": "Look for a sunny table for your midday coffee."
+                "en": "Look for a sunny table for your midday coffee.",
+                "es": "Busca una mesa soleada para tu café del mediodía."
               }
             },
             {
@@ -604,7 +658,8 @@
                 "de": "Perfekt für einen windgeschützten Spaziergang im Sand.",
                 "hu": "Tökéletes egy szélvédett sétához a homokban.",
                 "ro": "Perfect pentru o plimbare prin nisip, ferită de vânt.",
-                "en": "Perfect for a sheltered walk on the sand."
+                "en": "Perfect for a sheltered walk on the sand.",
+                "es": "Perfecto para un paseo resguardado por la arena."
               }
             },
             {
@@ -613,7 +668,8 @@
                 "de": "Ziehen Sie sich für den Sonnenuntergang wärmer an.",
                 "hu": "Öltözzön fel melegebben a naplemente idejére.",
                 "ro": "Îmbrăcați-vă mai gros pentru momentul apusului.",
-                "en": "Dress warmer as the temperature drops at sunset."
+                "en": "Dress warmer as the temperature drops at sunset.",
+                "es": "Abrígate más, la temperatura baja al ponerse el sol."
               }
             }
           ],
@@ -641,6 +697,12 @@
               "Wear layers to adjust to the varying coastal wind.",
               "The sun disappears early behind the surrounding hills.",
               "Many venues provide outdoor heaters during the winter months."
+            ],
+            "es": [
+              "El índice UV es bajo, pero el sol bajo puede ser muy deslumbrante.",
+              "Viste por capas para ajustarte al viento costero variable.",
+              "El sol desaparece pronto detrás de las colinas circundantes.",
+              "Muchos locales disponen de calefactores exteriores en invierno."
             ]
           }
         }
@@ -659,7 +721,8 @@
             "de": "Marina Santa Eulària",
             "hu": "Marina Santa Eulària",
             "ro": "Marina Santa Eulària",
-            "en": "Marina Santa Eulària"
+            "en": "Marina Santa Eulària",
+            "es": "Marina Santa Eulària"
           },
           "coords": [
             1.542,
@@ -674,7 +737,8 @@
             "de": "Startpunkt am Yachthafen.",
             "hu": "Kiindulópont a jachtkikötőnél.",
             "ro": "Punct de plecare din port.",
-            "en": "Starting point at the marina."
+            "en": "Starting point at the marina.",
+            "es": "Punto de inicio en la marina."
           }
         },
         {
@@ -682,7 +746,8 @@
             "de": "Pont Vell",
             "hu": "Pont Vell",
             "ro": "Pont Vell",
-            "en": "Pont Vell"
+            "en": "Pont Vell",
+            "es": "Pont Vell"
           },
           "coords": [
             1.531,
@@ -697,7 +762,8 @@
             "de": "Radweg am Flussufer.",
             "hu": "Kerékpárút a folyóparton.",
             "ro": "Pistă de biciclete pe malul râului.",
-            "en": "Cycling path along the riverbank."
+            "en": "Cycling path along the riverbank.",
+            "es": "Carril bici junto al río."
           }
         },
         {
@@ -705,7 +771,8 @@
             "de": "Puig de Missa",
             "hu": "Puig de Missa",
             "ro": "Puig de Missa",
-            "en": "Puig de Missa"
+            "en": "Puig de Missa",
+            "es": "Puig de Missa"
           },
           "coords": [
             1.5285,
@@ -720,7 +787,8 @@
             "de": "Steiler Anstieg, aber lohnenswert.",
             "hu": "Meredek emelkedő, de megéri.",
             "ro": "Urcare abruptă, dar merită.",
-            "en": "Steep climb, but the view is worth it."
+            "en": "Steep climb, but the view is worth it.",
+            "es": "Subida empinada, pero la vista lo vale."
           }
         },
         {
@@ -728,7 +796,8 @@
             "de": "Torre d'en Valls",
             "hu": "Torre d'en Valls",
             "ro": "Torre d'en Valls",
-            "en": "Torre d'en Valls"
+            "en": "Torre d'en Valls",
+            "es": "Torre d'en Valls"
           },
           "coords": [
             1.616,
@@ -743,7 +812,8 @@
             "de": "Verteidigungsturm mit Blick auf Tagomago.",
             "hu": "Védőtorony kilátással Tagomagóra.",
             "ro": "Turn de apărare cu vedere la Tagomago.",
-            "en": "Defense tower with views of Tagomago island."
+            "en": "Defense tower with views of Tagomago island.",
+            "es": "Torre de defensa con vistas a la isla de Tagomago."
           }
         },
         {
@@ -751,7 +821,8 @@
             "de": "Playa de Santa Eulària",
             "hu": "Santa Eulària strand",
             "ro": "Plaja Santa Eulària",
-            "en": "Playa de Santa Eulària"
+            "en": "Playa de Santa Eulària",
+            "es": "Playa de Santa Eulària"
           },
           "coords": [
             1.5365,
@@ -766,7 +837,8 @@
             "de": "Erfrischung nach der Tour.",
             "hu": "Frissítő a túra után.",
             "ro": "Răcorire după traseu.",
-            "en": "Refreshing swim after the ride."
+            "en": "Refreshing swim after the ride.",
+            "es": "Baño refrescante tras el recorrido."
           }
         }
       ],
@@ -774,7 +846,8 @@
         "de": "Radeln Sie vom Hafen entlang des Flusses zum Puig de Missa. Der anstrengendste Teil ist der Küstenweg nach Norden zum Torre d'en Valls, wo Sie einen tollen Blick auf die Privatinsel Tagomago haben. Kehren Sie am Nachmittag zum Hauptstrand zurück, um sich abzukühlen.",
         "hu": "Kerekezzen a kikötőtől a folyó mentén a Puig de Missa dombjáig. A túra leglátványosabb része az észak felé vezető tengerparti út a Torre d'en Valls őrtoronyhoz, ahonnan belátni a Tagomago-szigetet. Délután térjen vissza a városi strandra pihenni.",
         "ro": "Mergeți cu bicicleta de la port de-a lungul râului până la Puig de Missa. Partea cea mai frumoasă este drumul spre nord către Torre d'en Valls, de unde puteți vedea insula Tagomago. Întoarceți-vă după-amiaza la plaja principală pentru relaxare.",
-        "en": "Cycle from the marina along the river path up to Puig de Missa. The most rewarding section is the coastal ride north to Torre d'en Valls, offering great views of Tagomago island. Return to the main beach in the afternoon for a swim."
+        "en": "Cycle from the marina along the river path up to Puig de Missa. The most rewarding section is the coastal ride north to Torre d'en Valls, offering great views of Tagomago island. Return to the main beach in the afternoon for a swim.",
+        "es": "Pedalea desde la marina por el sendero del río hasta Puig de Missa. La sección más gratificante es la ruta costera hacia el norte hasta Torre d'en Valls, que ofrece magníficas vistas de la isla de Tagomago. Vuelve a la playa principal por la tarde para bañarte."
       },
       "gastro_picks": {
         "de": [
@@ -878,6 +951,11 @@
           "Carry plenty of water as coastal paths lack shade.",
           "An e-bike is recommended for the hilly route to the tower.",
           "Be mindful of hikers on shared coastal trails."
+        ],
+        "es": [
+          "Lleva abundante agua, los caminos costeros carecen de sombra.",
+          "Se recomienda una e-bike para la ruta con cuestas hasta la torre.",
+          "Ten cuidado con los senderistas en los tramos compartidos."
         ]
       },
       "variants": {
@@ -886,7 +964,8 @@
             "de": "Radeln Sie vom Hafen entlang des Flusses zum Puig de Missa. Der anstrengendste Teil ist der Küstenweg nach Norden zum Torre d'en Valls, wo Sie einen tollen Blick auf die Privatinsel Tagomago haben. Kehren Sie am Nachmittag zum Hauptstrand zurück, um sich abzukühlen.",
             "hu": "Kerekezzen a kikötőtől a folyó mentén a Puig de Missa dombjáig. A túra leglátványosabb része az észak felé vezető tengerparti út a Torre d'en Valls őrtoronyhoz, ahonnan belátni a Tagomago-szigetet. Délután térjen vissza a városi strandra pihenni.",
             "ro": "Mergeți cu bicicleta de la port de-a lungul râului până la Puig de Missa. Partea cea mai frumoasă este drumul spre nord către Torre d'en Valls, de unde puteți vedea insula Tagomago. Întoarceți-vă după-amiaza la plaja principală pentru relaxare.",
-            "en": "Cycle from the marina along the river path up to Puig de Missa. The most rewarding section is the coastal ride north to Torre d'en Valls, offering great views of Tagomago island. Return to the main beach in the afternoon for a swim."
+            "en": "Cycle from the marina along the river path up to Puig de Missa. The most rewarding section is the coastal ride north to Torre d'en Valls, offering great views of Tagomago island. Return to the main beach in the afternoon for a swim.",
+            "es": "Pedalea desde la marina por el sendero del río hasta Puig de Missa. La sección más gratificante es la ruta costera hacia el norte hasta Torre d'en Valls, que ofrece magníficas vistas de la isla de Tagomago. Vuelve a la playa principal por la tarde para bañarte."
           },
           "stops": [
             {
@@ -894,13 +973,15 @@
                 "de": "Marina Santa Eulària",
                 "hu": "Marina Santa Eulària",
                 "ro": "Marina Santa Eulària",
-                "en": "Marina Santa Eulària"
+                "en": "Marina Santa Eulària",
+                "es": "Marina Santa Eulària"
               },
               "tip_5lang": {
                 "de": "Startpunkt am Yachthafen.",
                 "hu": "Kiindulópont a jachtkikötőnél.",
                 "ro": "Punct de plecare din port.",
-                "en": "Starting point at the marina."
+                "en": "Starting point at the marina.",
+                "es": "Punto de inicio en la marina."
               }
             },
             {
@@ -908,13 +989,15 @@
                 "de": "Pont Vell",
                 "hu": "Pont Vell",
                 "ro": "Pont Vell",
-                "en": "Pont Vell"
+                "en": "Pont Vell",
+                "es": "Pont Vell"
               },
               "tip_5lang": {
                 "de": "Radweg am Flussufer.",
                 "hu": "Kerékpárút a folyóparton.",
                 "ro": "Pistă de biciclete pe malul râului.",
-                "en": "Cycling path along the riverbank."
+                "en": "Cycling path along the riverbank.",
+                "es": "Carril bici junto al río."
               }
             },
             {
@@ -922,13 +1005,15 @@
                 "de": "Puig de Missa",
                 "hu": "Puig de Missa",
                 "ro": "Puig de Missa",
-                "en": "Puig de Missa"
+                "en": "Puig de Missa",
+                "es": "Puig de Missa"
               },
               "tip_5lang": {
                 "de": "Steiler Anstieg, aber lohnenswert.",
                 "hu": "Meredek emelkedő, de megéri.",
                 "ro": "Urcare abruptă, dar merită.",
-                "en": "Steep climb, but the view is worth it."
+                "en": "Steep climb, but the view is worth it.",
+                "es": "Subida empinada, pero la vista lo vale."
               }
             },
             {
@@ -936,13 +1021,15 @@
                 "de": "Torre d'en Valls",
                 "hu": "Torre d'en Valls",
                 "ro": "Torre d'en Valls",
-                "en": "Torre d'en Valls"
+                "en": "Torre d'en Valls",
+                "es": "Torre d'en Valls"
               },
               "tip_5lang": {
                 "de": "Verteidigungsturm mit Blick auf Tagomago.",
                 "hu": "Védőtorony kilátással Tagomagóra.",
                 "ro": "Turn de apărare cu vedere la Tagomago.",
-                "en": "Defense tower with views of Tagomago island."
+                "en": "Defense tower with views of Tagomago island.",
+                "es": "Torre de defensa con vistas a la isla de Tagomago."
               }
             },
             {
@@ -950,13 +1037,15 @@
                 "de": "Playa de Santa Eulària",
                 "hu": "Santa Eulària strand",
                 "ro": "Plaja Santa Eulària",
-                "en": "Playa de Santa Eulària"
+                "en": "Playa de Santa Eulària",
+                "es": "Playa de Santa Eulària"
               },
               "tip_5lang": {
                 "de": "Erfrischung nach der Tour.",
                 "hu": "Frissítő a túra után.",
                 "ro": "Răcorire după traseu.",
-                "en": "Refreshing swim after the ride."
+                "en": "Refreshing swim after the ride.",
+                "es": "Baño refrescante tras el recorrido."
               }
             }
           ],
@@ -1062,6 +1151,11 @@
               "Carry plenty of water as coastal paths lack shade.",
               "An e-bike is recommended for the hilly route to the tower.",
               "Be mindful of hikers on shared coastal trails."
+            ],
+            "es": [
+              "Lleva abundante agua, los caminos costeros carecen de sombra.",
+              "Se recomienda una e-bike para la ruta con cuestas hasta la torre.",
+              "Ten cuidado con los senderistas en los tramos compartidos."
             ]
           }
         },
@@ -1070,7 +1164,8 @@
             "de": "Morgens ist bei der Marina Vorsicht auf den Holzstegen geboten. Die Fahrt zum Pont Vell ist kurz genug, um Schauern auszuweichen. Mittags bietet der Puig de Missa einen festen Untergrund. Die Strecke zur Torre d'en Valls kann schlammig sein, belohnt aber mit dramatischer Küstenoptik. Nachmittags ist die Rückkehr zur Playa de Santa Eulària am sichersten auf den asphaltierten Wegen.",
             "hu": "Reggel a kikötő fa pallóin óvatosság ajánlott. A Pont Vell-hez vezető út rövid, így könnyen kikerülhetők a záporok. Délben a Puig de Missa szilárd talajt nyújt. A Torre d'en Valls felé vezető út sáros lehet, de a drámai tengerparti látvány megéri. Délután a városba való visszatéréshez válassza az aszfaltozott utakat.",
             "ro": "Dimineața, se recomandă prudență pe platformele de lemn din marină. Drumul spre Pont Vell este scurt, permițând evitarea averselor. La prânz, Puig de Missa oferă un teren stabil. Traseul spre Torre d'en Valls poate fi noroios, dar oferă peisaje costiere dramatice. După-amiaza, revenirea la plajă este mai sigură pe drumurile asfaltate.",
-            "en": "In the morning, use caution on the wooden decks at the marina. The ride to Pont Vell is short enough to dodge showers. At midday, Puig de Missa provides firm ground. The route to Torre d'en Valls can be muddy but rewards you with dramatic coastal views. In the afternoon, returning to the beach is safest on paved paths."
+            "en": "In the morning, use caution on the wooden decks at the marina. The ride to Pont Vell is short enough to dodge showers. At midday, Puig de Missa provides firm ground. The route to Torre d'en Valls can be muddy but rewards you with dramatic coastal views. In the afternoon, returning to the beach is safest on paved paths.",
+            "es": "Por la mañana, ten precaución en las pasarelas de madera de la marina. La ruta hasta el Pont Vell es lo bastante corta para esquivar chaparrones. Al mediodía, Puig de Missa ofrece terreno firme. La senda hacia Torre d'en Valls puede estar embarrada pero recompensa con vistas costeras dramáticas. Por la tarde, volver a la playa es más seguro por caminos pavimentados."
           },
           "stops": [
             {
@@ -1079,7 +1174,8 @@
                 "de": "Vorsicht auf glatten Metall- und Holzflächen.",
                 "hu": "Vigyázat a csúszós fém és fa felületeken.",
                 "ro": "Atenție la suprafețele metalice și din lemn.",
-                "en": "Watch out for slippery metal and wooden surfaces."
+                "en": "Watch out for slippery metal and wooden surfaces.",
+                "es": "Cuidado con las superficies metálicas y de madera resbaladizas."
               }
             },
             {
@@ -1088,7 +1184,8 @@
                 "de": "Die Steigung ist bei Nässe mit Vorsicht zu befahren.",
                 "hu": "Emelkedőn vizes úton óvatosan hajtson.",
                 "ro": "Urcarea trebuie abordată cu prudență pe carosabil ud.",
-                "en": "Approach the incline with caution on wet pavement."
+                "en": "Approach the incline with caution on wet pavement.",
+                "es": "Acércate a la pendiente con precaución sobre pavimento mojado."
               }
             },
             {
@@ -1097,7 +1194,8 @@
                 "de": "Nutzen Sie den überdachten Bogengang als Rastplatz.",
                 "hu": "Használja a fedett árkádsort pihenőhelyként.",
                 "ro": "Folosiți porticul acoperit ca loc de odihnă.",
-                "en": "Use the covered arcade as a resting spot."
+                "en": "Use the covered arcade as a resting spot.",
+                "es": "Utiliza el paseo cubierto como punto de descanso."
               }
             },
             {
@@ -1106,7 +1204,8 @@
                 "de": "Der Feldweg kann Pfützen und Schlamm aufweisen.",
                 "hu": "A földút pocsolyás és sáros lehet.",
                 "ro": "Drumul de țară poate avea bălți și noroi.",
-                "en": "The dirt track may have puddles and mud."
+                "en": "The dirt track may have puddles and mud.",
+                "es": "La pista de tierra puede tener charcos y barro."
               }
             },
             {
@@ -1115,7 +1214,8 @@
                 "de": "Parken Sie das Rad unter einem Vordach.",
                 "hu": "Parkolja a biciklit egy előtető alá.",
                 "ro": "Parcați bicicleta sub un acoperiș.",
-                "en": "Park your bike under a canopy or overhang."
+                "en": "Park your bike under a canopy or overhang.",
+                "es": "Aparca la bici bajo un toldo o alero."
               }
             }
           ],
@@ -1143,6 +1243,12 @@
               "Avoid riding on white road markings as they become slick.",
               "Fenders/mudguards are highly recommended for this route.",
               "Wear a bright raincoat to stay visible to drivers."
+            ],
+            "es": [
+              "Revisa los frenos antes de descender la colina.",
+              "Evita rodar sobre las marcas viales blancas, se vuelven resbaladizas.",
+              "Se recomiendan guardabarros para esta ruta.",
+              "Lleva un impermeable de color llamativo para ser visible a los coches."
             ]
           }
         },
@@ -1151,7 +1257,8 @@
             "de": "Morgens ist die Luft an der Marina erfrischend und klar. Die Fahrt zum Pont Vell und Puig de Missa hält Sie in Bewegung und warm. Mittags bietet die Route zur Torre d'en Valls spektakuläre Fernsichten ohne die sommerliche Hitze. Nachmittags gleiten Sie entlang der Playa de Santa Eulària, während die tiefstehende Sonne die Küste in warme Farben taucht.",
             "hu": "Reggel a kikötőben a levegő frissítő és tiszta. A Pont Vell és a Puig de Missa felé vezető tekerés melegen tartja. Délben a Torre d'en Valls felé vezető úton a távoli kilátás pazar a nyári pára nélkül. Délután a tengerpart mentén kerekezve az alacsonyan járó nap meleg színekbe öltözteti a partot.",
             "ro": "Dimineața, aerul din marină este revigorant și clar. Drumul spre Pont Vell și Puig de Missa vă va ține activ și încălzit. La prânz, traseul spre Torre d'en Valls oferă vederi spectaculoase fără căldura verii. După-amiaza, pedalați de-a lungul plajei în timp ce soarele apune cu nuanțe calde.",
-            "en": "In the morning, the air at the marina is refreshing and crisp. Cycling to Pont Vell and Puig de Missa keeps you active and warm. At midday, the route to Torre d'en Valls offers spectacular clear views without the summer haze. In the afternoon, glide along the beach as the low sun paints the coast in warm hues."
+            "en": "In the morning, the air at the marina is refreshing and crisp. Cycling to Pont Vell and Puig de Missa keeps you active and warm. At midday, the route to Torre d'en Valls offers spectacular clear views without the summer haze. In the afternoon, glide along the beach as the low sun paints the coast in warm hues.",
+            "es": "Por la mañana, el aire en la marina es fresco y vigorizante. Ir en bici a Pont Vell y Puig de Missa te mantiene activo y caliente. A mediodía, la ruta a Torre d'en Valls ofrece vistas claras y espectaculares sin la calima veraniega. Por la tarde, deslízate por la playa mientras el sol bajo pinta la costa con tonos cálidos."
           },
           "stops": [
             {
@@ -1160,7 +1267,8 @@
                 "de": "Handschuhe schützen vor dem kalten Fahrtwind am Morgen.",
                 "hu": "A kesztyű véd a hideg menetszéltől reggel.",
                 "ro": "Mănușile protejează împotriva vântului rece de dimineață.",
-                "en": "Gloves will protect your hands from the morning chill."
+                "en": "Gloves will protect your hands from the morning chill.",
+                "es": "Los guantes protegerán tus manos del frío matinal."
               }
             },
             {
@@ -1169,7 +1277,8 @@
                 "de": "Genießen Sie die Ruhe am Fluss ohne Touristen.",
                 "hu": "Élvezze a folyóparti csendet turisták nélkül.",
                 "ro": "Bucurați-vă de liniștea râului fără turiști.",
-                "en": "Enjoy the riverside peace without the tourists."
+                "en": "Enjoy the riverside peace without the tourists.",
+                "es": "Disfruta de la tranquilidad junto al río sin los turistas."
               }
             },
             {
@@ -1178,7 +1287,8 @@
                 "de": "Ein toller Ort für ein Picknick in der Wintersonne.",
                 "hu": "Kiváló hely egy piknikhez a téli napsütésben.",
                 "ro": "Un loc excelent pentru un picnic la soarele de iarnă.",
-                "en": "A great spot for a picnic in the mild winter sun."
+                "en": "A great spot for a picnic in the mild winter sun.",
+                "es": "Un gran lugar para un picnic con el suave sol invernal."
               }
             },
             {
@@ -1187,7 +1297,8 @@
                 "de": "Achten Sie auf stärkere Windböen an der Landspitze.",
                 "hu": "Ügyeljen az erősebb széllökésekre a foknál.",
                 "ro": "Atenție la rafalele de vânt mai puternice de la capăt.",
-                "en": "Watch out for stronger wind gusts at the headland."
+                "en": "Watch out for stronger wind gusts at the headland.",
+                "es": "Cuidado con las rachas de viento más fuertes en el cabo."
               }
             },
             {
@@ -1196,7 +1307,8 @@
                 "de": "Die Cafés bieten oft Decken für draußen an.",
                 "hu": "A kávézók gyakran kínálnak takarót a teraszon.",
                 "ro": "Cafenelele oferă adesea pături pentru terasă.",
-                "en": "Cafes often provide blankets for outdoor seating."
+                "en": "Cafes often provide blankets for outdoor seating.",
+                "es": "Las cafeterías suelen ofrecer mantas para las mesas exteriores."
               }
             }
           ],
@@ -1224,6 +1336,12 @@
               "Wear a headband under your helmet to protect your ears.",
               "Lighting conditions change rapidly after 5 PM.",
               "Check your tire pressure as cold air reduces volume."
+            ],
+            "es": [
+              "El efecto de sensación térmica por viento se suele subestimar al pedalear.",
+              "Lleva una cinta para la cabeza bajo el casco para proteger las orejas.",
+              "Las condiciones de luz cambian rápidamente después de las 17:00.",
+              "Revisa la presión de los neumáticos, el aire frío reduce el volumen."
             ]
           }
         }
@@ -1242,7 +1360,8 @@
             "de": "Puig de Missa",
             "hu": "Puig de Missa",
             "ro": "Puig de Missa",
-            "en": "Puig de Missa"
+            "en": "Puig de Missa",
+            "es": "Puig de Missa"
           },
           "coords": [
             1.5285,
@@ -1257,7 +1376,8 @@
             "de": "Parkplatz direkt unterhalb der Kirche.",
             "hu": "Parkoló közvetlenül a templom alatt.",
             "ro": "Parcare chiar sub biserică.",
-            "en": "Parking is available just below the church."
+            "en": "Parking is available just below the church.",
+            "es": "Hay aparcamiento justo debajo de la iglesia."
           }
         },
         {
@@ -1265,7 +1385,8 @@
             "de": "Las Dalias Hippy Market",
             "hu": "Las Dalias hippi piac",
             "ro": "Piața hippie Las Dalias",
-            "en": "Las Dalias Hippy Market"
+            "en": "Las Dalias Hippy Market",
+            "es": "Las Dalias Hippy Market"
           },
           "coords": [
             1.583,
@@ -1280,7 +1401,8 @@
             "de": "Der Klassiker in San Carlos.",
             "hu": "Az igazi klasszikus San Carlosban.",
             "ro": "Cel mai celebru târg din San Carlos.",
-            "en": "The original hippy market in San Carlos."
+            "en": "The original hippy market in San Carlos.",
+            "es": "El mercadillo hippy original en San Carlos."
           }
         },
         {
@@ -1288,7 +1410,8 @@
             "de": "Torre d'en Valls",
             "hu": "Torre d'en Valls",
             "ro": "Torre d'en Valls",
-            "en": "Torre d'en Valls"
+            "en": "Torre d'en Valls",
+            "es": "Torre d'en Valls"
           },
           "coords": [
             1.616,
@@ -1303,7 +1426,8 @@
             "de": "Erreichbar über eine schmale Schotterpiste.",
             "hu": "Keskeny földúton érhető el.",
             "ro": "Accesibil pe un drum îngust de pământ.",
-            "en": "Accessible via a narrow dirt road."
+            "en": "Accessible via a narrow dirt road.",
+            "es": "Accesible por una estrecha pista de tierra."
           }
         },
         {
@@ -1311,7 +1435,8 @@
             "de": "Playa de Santa Eulària",
             "hu": "Santa Eulària strand",
             "ro": "Plaja Santa Eulària",
-            "en": "Playa de Santa Eulària"
+            "en": "Playa de Santa Eulària",
+            "es": "Playa de Santa Eulària"
           },
           "coords": [
             1.5365,
@@ -1326,7 +1451,8 @@
             "de": "Parkhaus im Zentrum nutzen.",
             "hu": "Használja a központi parkolóházat.",
             "ro": "Folosiți parcarea subterană din centru.",
-            "en": "Use the underground parking in the center."
+            "en": "Use the underground parking in the center.",
+            "es": "Utiliza el aparcamiento subterráneo del centro."
           }
         },
         {
@@ -1334,7 +1460,8 @@
             "de": "Marina Santa Eulària",
             "hu": "Santa Eulària kikötő",
             "ro": "Marina Santa Eulària",
-            "en": "Marina Santa Eulària"
+            "en": "Marina Santa Eulària",
+            "es": "Marina Santa Eulària"
           },
           "coords": [
             1.542,
@@ -1349,7 +1476,8 @@
             "de": "Perfekt für das Abendessen.",
             "hu": "Tökéletes helyszín a vacsorához.",
             "ro": "Locul ideal pentru cină.",
-            "en": "Great spot for waterfront dining."
+            "en": "Great spot for waterfront dining.",
+            "es": "Excelente sitio para comer junto al agua."
           }
         }
       ],
@@ -1357,7 +1485,8 @@
         "de": "Starten Sie am Puig de Missa für den Überblick. Fahren Sie dann zum berühmten Las Dalias Markt in San Carlos (besonders samstags). Ein kurzer Abstecher zum Torre d'en Valls bietet Einsamkeit und Natur. Am Nachmittag relaxen Sie am Stadtstrand und genießen den Luxus am Hafen.",
         "hu": "Kezdje a Puig de Missánál a panorámával. Autózzon át San Carlosba a híres Las Dalias piacra (főleg szombaton). Tegyen egy rövid kitérőt a Torre d'en Valls toronyhoz a nyugalomért. Délután pihenjen a városi strandon, este pedig élvezze a kikötői nyüzsgést.",
         "ro": "Începeți la Puig de Missa pentru panoramă. Conduceți spre celebra piață Las Dalias din San Carlos. O scurtă vizită la Torre d'en Valls oferă liniște și natură. După-amiaza relaxați-vă pe plaja orașului și bucurați-vă de atmosfera din port.",
-        "en": "Start at Puig de Missa for the best orientation. Drive to the famous Las Dalias Hippy Market in San Carlos (best on Saturdays). A side trip to Torre d'en Valls offers solitude and nature. Spend the afternoon at the main beach and enjoy dinner by the marina."
+        "en": "Start at Puig de Missa for the best orientation. Drive to the famous Las Dalias Hippy Market in San Carlos (best on Saturdays). A side trip to Torre d'en Valls offers solitude and nature. Spend the afternoon at the main beach and enjoy dinner by the marina.",
+        "es": "Comienza en Puig de Missa para orientarte mejor. Conduce hasta el conocido Las Dalias Hippy Market en San Carlos (mejor los sábados). Una excursión a Torre d'en Valls ofrece soledad y naturaleza. Pasa la tarde en la playa principal y cena junto a la marina."
       },
       "gastro_picks": {
         "de": [
@@ -1461,6 +1590,11 @@
           "Las Dalias is very crowded on Saturdays; arrive early.",
           "Inland roads can be narrow; drive carefully.",
           "Avoid parking on yellow lines to prevent being towed."
+        ],
+        "es": [
+          "Las Dalias está muy concurrido los sábados; llega temprano.",
+          "Las carreteras del interior pueden ser estrechas; conduce con cuidado.",
+          "Evita aparcar sobre líneas amarillas para prevenir remolque."
         ]
       },
       "variants": {
@@ -1469,7 +1603,8 @@
             "de": "Starten Sie am Puig de Missa für den Überblick. Fahren Sie dann zum berühmten Las Dalias Markt in San Carlos (besonders samstags). Ein kurzer Abstecher zum Torre d'en Valls bietet Einsamkeit und Natur. Am Nachmittag relaxen Sie am Stadtstrand und genießen den Luxus am Hafen.",
             "hu": "Kezdje a Puig de Missánál a panorámával. Autózzon át San Carlosba a híres Las Dalias piacra (főleg szombaton). Tegyen egy rövid kitérőt a Torre d'en Valls toronyhoz a nyugalomért. Délután pihenjen a városi strandon, este pedig élvezze a kikötői nyüzsgést.",
             "ro": "Începeți la Puig de Missa pentru panoramă. Conduceți spre celebra piață Las Dalias din San Carlos. O scurtă vizită la Torre d'en Valls oferă liniște și natură. După-amiaza relaxați-vă pe plaja orașului și bucurați-vă de atmosfera din port.",
-            "en": "Start at Puig de Missa for the best orientation. Drive to the famous Las Dalias Hippy Market in San Carlos (best on Saturdays). A side trip to Torre d'en Valls offers solitude and nature. Spend the afternoon at the main beach and enjoy dinner by the marina."
+            "en": "Start at Puig de Missa for the best orientation. Drive to the famous Las Dalias Hippy Market in San Carlos (best on Saturdays). A side trip to Torre d'en Valls offers solitude and nature. Spend the afternoon at the main beach and enjoy dinner by the marina.",
+            "es": "Comienza en Puig de Missa para orientarte mejor. Conduce hasta el conocido Las Dalias Hippy Market en San Carlos (mejor los sábados). Una excursión a Torre d'en Valls ofrece soledad y naturaleza. Pasa la tarde en la playa principal y cena junto a la marina."
           },
           "stops": [
             {
@@ -1477,13 +1612,15 @@
                 "de": "Puig de Missa",
                 "hu": "Puig de Missa",
                 "ro": "Puig de Missa",
-                "en": "Puig de Missa"
+                "en": "Puig de Missa",
+                "es": "Puig de Missa"
               },
               "tip_5lang": {
                 "de": "Parkplatz direkt unterhalb der Kirche.",
                 "hu": "Parkoló közvetlenül a templom alatt.",
                 "ro": "Parcare chiar sub biserică.",
-                "en": "Parking is available just below the church."
+                "en": "Parking is available just below the church.",
+                "es": "Hay aparcamiento justo debajo de la iglesia."
               }
             },
             {
@@ -1491,13 +1628,15 @@
                 "de": "Las Dalias Hippy Market",
                 "hu": "Las Dalias hippi piac",
                 "ro": "Piața hippie Las Dalias",
-                "en": "Las Dalias Hippy Market"
+                "en": "Las Dalias Hippy Market",
+                "es": "Las Dalias Hippy Market"
               },
               "tip_5lang": {
                 "de": "Der Klassiker in San Carlos.",
                 "hu": "Az igazi klasszikus San Carlosban.",
                 "ro": "Cel mai celebru târg din San Carlos.",
-                "en": "The original hippy market in San Carlos."
+                "en": "The original hippy market in San Carlos.",
+                "es": "El mercadillo hippy original en San Carlos."
               }
             },
             {
@@ -1505,13 +1644,15 @@
                 "de": "Torre d'en Valls",
                 "hu": "Torre d'en Valls",
                 "ro": "Torre d'en Valls",
-                "en": "Torre d'en Valls"
+                "en": "Torre d'en Valls",
+                "es": "Torre d'en Valls"
               },
               "tip_5lang": {
                 "de": "Erreichbar über eine schmale Schotterpiste.",
                 "hu": "Keskeny földúton érhető el.",
                 "ro": "Accesibil pe un drum îngust de pământ.",
-                "en": "Accessible via a narrow dirt road."
+                "en": "Accessible via a narrow dirt road.",
+                "es": "Accesible por una estrecha pista de tierra."
               }
             },
             {
@@ -1519,13 +1660,15 @@
                 "de": "Playa de Santa Eulària",
                 "hu": "Santa Eulària strand",
                 "ro": "Plaja Santa Eulària",
-                "en": "Playa de Santa Eulària"
+                "en": "Playa de Santa Eulària",
+                "es": "Playa de Santa Eulària"
               },
               "tip_5lang": {
                 "de": "Parkhaus im Zentrum nutzen.",
                 "hu": "Használja a központi parkolóházat.",
                 "ro": "Folosiți parcarea subterană din centru.",
-                "en": "Use the underground parking in the center."
+                "en": "Use the underground parking in the center.",
+                "es": "Utiliza el aparcamiento subterráneo del centro."
               }
             },
             {
@@ -1533,13 +1676,15 @@
                 "de": "Marina Santa Eulària",
                 "hu": "Santa Eulària kikötő",
                 "ro": "Marina Santa Eulària",
-                "en": "Marina Santa Eulària"
+                "en": "Marina Santa Eulària",
+                "es": "Marina Santa Eulària"
               },
               "tip_5lang": {
                 "de": "Perfekt für das Abendessen.",
                 "hu": "Tökéletes helyszín a vacsorához.",
                 "ro": "Locul ideal pentru cină.",
-                "en": "Great spot for waterfront dining."
+                "en": "Great spot for waterfront dining.",
+                "es": "Excelente sitio para comer junto al agua."
               }
             }
           ],
@@ -1645,6 +1790,11 @@
               "Las Dalias is very crowded on Saturdays; arrive early.",
               "Inland roads can be narrow; drive carefully.",
               "Avoid parking on yellow lines to prevent being towed."
+            ],
+            "es": [
+              "Las Dalias está muy concurrido los sábados; llega temprano.",
+              "Las carreteras del interior pueden ser estrechas; conduce con cuidado.",
+              "Evita aparcar sobre líneas amarillas para prevenir remolque."
             ]
           }
         },
@@ -1653,7 +1803,8 @@
             "de": "Mit dem Auto ist der Regen kein Hindernis. Morgens parken Sie bequem am Fuße des Puig de Missa. Mittags ist der Hippy Market Las Dalias teilweise überdacht und bietet eine bunte Flucht vor dem Grau. Die Fahrt zur Torre d'en Valls bietet einen sicheren Logenplatz für das Schauspiel der stürmischen See. Nachmittags und abends erreichen Sie trocken die Marina für ein gemütliches Dinner.",
             "hu": "Autóval az eső nem akadály. Reggel kényelmesen parkolhat a Puig de Missa lábánál. Délben a Las Dalias hippi piac részben fedett, színes menedéket nyújt a szürkeség ellen. A Torre d'en Valls felé vezető út biztonságos kilátót kínál a viharos tengerre. Délután és este száraz lábbal érkezhet meg a kikötőbe egy hangulatos vacsorára.",
             "ro": "Cu mașina, ploaia nu este un obstacol. Dimineața parcați confortabil la baza Puig de Missa. La prânz, piața Las Dalias este parțial acoperită, oferind o evadare colorată. Drumul spre Torre d'en Valls oferă un loc sigur pentru a vedea spectacolul mării înfuriate. După-amiaza și seara, ajungeți uscați la marină pentru o cină relaxantă.",
-            "en": "By car, the rain is no obstacle. In the morning, park conveniently at the foot of Puig de Missa. At midday, Las Dalias Hippy Market is partially covered, offering a colorful escape from the grey. The drive to Torre d'en Valls provides a front-row seat to the stormy sea spectacle. In the afternoon and evening, you reach the marina dry for a cozy dinner."
+            "en": "By car, the rain is no obstacle. In the morning, park conveniently at the foot of Puig de Missa. At midday, Las Dalias Hippy Market is partially covered, offering a colorful escape from the grey. The drive to Torre d'en Valls provides a front-row seat to the stormy sea spectacle. In the afternoon and evening, you reach the marina dry for a cozy dinner.",
+            "es": "En coche, la lluvia no es un obstáculo. Por la mañana, aparca cómodamente al pie de Puig de Missa. A mediodía, Las Dalias está parcialmente cubierto, ofreciendo un escape colorido de la grisura. El trayecto a Torre d'en Valls ofrece asiento frontal al espectáculo del mar tempestuoso. Por la tarde y noche, llegas seco a la marina para una cena acogedora."
           },
           "stops": [
             {
@@ -1662,7 +1813,8 @@
                 "de": "Parken Sie oben am Hügel, um den Aufstieg im Regen zu vermeiden.",
                 "hu": "Parkoljon a domb tetején, hogy elkerülje az esőben gyaloglást.",
                 "ro": "Parcați în vârful dealului pentru a evita urcarea prin ploaie.",
-                "en": "Park at the top of the hill to avoid the climb in the rain."
+                "en": "Park at the top of the hill to avoid the climb in the rain.",
+                "es": "Aparca en la cima de la colina para evitar la subida bajo la lluvia."
               }
             },
             {
@@ -1671,7 +1823,8 @@
                 "de": "Der Markt ist bei Regen weniger überlaufen.",
                 "hu": "Esőben a piac sokkal kevésbé zsúfolt.",
                 "ro": "Piața este mult mai puțin aglomerată când plouă.",
-                "en": "The market is much less crowded when it rains."
+                "en": "The market is much less crowded when it rains.",
+                "es": "El mercado está mucho menos concurrido cuando llueve."
               }
             },
             {
@@ -1680,7 +1833,8 @@
                 "de": "Bleiben Sie bei starkem Regen für die Aussicht im Auto.",
                 "hu": "Heves esőben maradjon az autóban a kilátásért.",
                 "ro": "Rămâneți în mașină pentru priveliște dacă plouă torențial.",
-                "en": "Stay in the car for the views if the rain is heavy."
+                "en": "Stay in the car for the views if the rain is heavy.",
+                "es": "Quédate en el coche para disfrutar de las vistas si llueve fuerte."
               }
             },
             {
@@ -1689,7 +1843,8 @@
                 "de": "Nutzen Sie das Parkhaus unter dem Marktplatz.",
                 "hu": "Használja a piactér alatti mélygarázst.",
                 "ro": "Folosiți parcarea subterană de sub piață.",
-                "en": "Use the underground parking lot near the market square."
+                "en": "Use the underground parking lot near the market square.",
+                "es": "Utiliza el aparcamiento subterráneo junto a la plaza del mercado."
               }
             },
             {
@@ -1698,7 +1853,8 @@
                 "de": "Parken Sie direkt auf dem Marina-Gelände (gebührenpflichtig).",
                 "hu": "Parkoljon közvetlenül a kikötő területén (fizetős).",
                 "ro": "Parcați direct în incinta marinei (cu taxă).",
-                "en": "Park directly within the marina area (paid parking)."
+                "en": "Park directly within the marina area (paid parking).",
+                "es": "Aparca directamente en la zona de la marina (aparcamiento de pago)."
               }
             }
           ],
@@ -1726,6 +1882,12 @@
               "Turn on your headlights even during the daytime.",
               "Avoid driving through deep puddles on unpaved roads.",
               "Finding a parking spot is usually much easier in the rain."
+            ],
+            "es": [
+              "Las carreteras de Ibiza se vuelven extremadamente resbaladizas con las primeras gotas.",
+              "Enciende los faros incluso durante el día.",
+              "Evita cruzar charcos profundos en caminos sin pavimentar.",
+              "Encontrar aparcamiento suele ser mucho más fácil con lluvia."
             ]
           }
         },
@@ -1734,7 +1896,8 @@
             "de": "Winterfahrten auf Ibiza sind entspannend. Morgens erreichen Sie den Puig de Missa ohne Verkehr. Mittags ist Las Dalias ein Treffpunkt der Einheimischen mit entspanntem Vibe. Die Strecke zur Torre d'en Valls führt durch grüne Landschaften, die im Sommer trocken sind. Nachmittags und abends genießen Sie den Komfort des Autos für die Fahrt zwischen Strand und Marina, während es abkühlt.",
             "hu": "A téli autózás Ibizán pihentető. Reggel forgalom nélkül érheti el a Puig de Missa-t. Délben a Las Dalias a helyiek találkozóhelye, nyugodt hangulattal. A Torre d'en Valls felé vezető út zöldellő tájakon visz keresztül. Délután és este élvezze az autó kényelmét a part és a kikötő között, ahogy a levegő hűlni kezd.",
             "ro": "Condusul iarna în Ibiza este relaxant. Dimineața ajungeți la Puig de Missa fără trafic. La prânz, Las Dalias este locul de întâlnire al localnicilor. Traseul spre Torre d'en Valls trece prin peisaje verzi care vara sunt uscate. După-amiaza și seara, bucurați-vă de confortul mașinii între plajă și marină pe măsură ce se răcește.",
-            "en": "Winter drives in Ibiza are very relaxing. In the morning, reach Puig de Missa without any traffic. At midday, Las Dalias is a local meeting spot with a laid-back vibe. The route to Torre d'en Valls passes through lush green landscapes that are dry in summer. In the afternoon and evening, enjoy the comfort of your car as temperatures drop."
+            "en": "Winter drives in Ibiza are very relaxing. In the morning, reach Puig de Missa without any traffic. At midday, Las Dalias is a local meeting spot with a laid-back vibe. The route to Torre d'en Valls passes through lush green landscapes that are dry in summer. In the afternoon and evening, enjoy the comfort of your car as temperatures drop.",
+            "es": "Los trayectos de invierno en Ibiza son muy relajantes. Por la mañana, llega a Puig de Missa sin tráfico. A mediodía, Las Dalias es un punto de encuentro local con ambiente tranquilo. La ruta a Torre d'en Valls pasa por paisajes verdes que en verano están secos. Por la tarde y noche, disfruta del confort del coche al bajar las temperaturas."
           },
           "stops": [
             {
@@ -1743,7 +1906,8 @@
                 "de": "Viel Platz auf dem Parkplatz im Vergleich zum Sommer.",
                 "hu": "Sok szabad hely a parkolóban a nyárhoz képest.",
                 "ro": "Multe locuri de parcare disponibile față de vară.",
-                "en": "Plenty of parking spaces available compared to summer."
+                "en": "Plenty of parking spaces available compared to summer.",
+                "es": "Hay muchos más espacios de aparcamiento en comparación con el verano."
               }
             },
             {
@@ -1752,7 +1916,8 @@
                 "de": "Prüfen Sie die Winter-Öffnungszeiten (oft nur Samstags).",
                 "hu": "Ellenőrizze a téli nyitvatartást (gyakran csak szombaton).",
                 "ro": "Verificați orarul de iarnă (adesea doar sâmbăta).",
-                "en": "Check winter opening hours (often Saturdays only)."
+                "en": "Check winter opening hours (often Saturdays only).",
+                "es": "Consulta los horarios de invierno (a menudo sábados solo)."
               }
             },
             {
@@ -1761,7 +1926,8 @@
                 "de": "Die klare Winterluft sorgt für beste Sicht auf Tagomago.",
                 "hu": "A tiszta téli levegő remek kilátást ad Tagomago szigetére.",
                 "ro": "Aerul clar de iarnă oferă cea mai bună vedere spre Tagomago.",
-                "en": "The clear winter air provides the best views of Tagomago island."
+                "en": "The clear winter air provides the best views of Tagomago island.",
+                "es": "El aire claro del invierno ofrece las mejores vistas de la isla de Tagomago."
               }
             },
             {
@@ -1770,7 +1936,8 @@
                 "de": "Das Parken an der Straße ist im Winter oft kostenlos.",
                 "hu": "Az utcai parkolás télen gyakran ingyenes.",
                 "ro": "Parcarea pe stradă este adesea gratuită iarna.",
-                "en": "Street parking is often free during the winter season."
+                "en": "Street parking is often free during the winter season.",
+                "es": "El aparcamiento en la calle suele ser gratuito durante la temporada de invierno."
               }
             },
             {
@@ -1779,7 +1946,8 @@
                 "de": "Ideal für einen kurzen Stopp zum Sonnenuntergang.",
                 "hu": "Ideális egy rövid megállóra a naplementéhez.",
                 "ro": "Ideal pentru o oprire scurtă la apus.",
-                "en": "Ideal for a quick stop to see the sunset."
+                "en": "Ideal for a quick stop to see the sunset.",
+                "es": "Ideal para una parada rápida a ver el atardecer."
               }
             }
           ],
@@ -1807,6 +1975,12 @@
               "Never leave valuables visible inside the vehicle.",
               "Mountain roads can be damp and slick in the early morning.",
               "Refuel early as some smaller stations have shorter winter hours."
+            ],
+            "es": [
+              "Los precios de alquiler de coche son inmejorables en invierno.",
+              "Nunca dejes objetos de valor a la vista dentro del vehículo.",
+              "Las carreteras de montaña pueden estar húmedas y resbaladizas a primera hora.",
+              "Repostar temprano, ya que algunas estaciones pequeñas tienen horario reducido en invierno."
             ]
           }
         }
@@ -1825,7 +1999,8 @@
             "de": "Passeig de s'Alamera",
             "hu": "Passeig de s'Alamera",
             "ro": "Passeig de s'Alamera",
-            "en": "Passeig de s'Alamera"
+            "en": "Passeig de s'Alamera",
+            "es": "Passeig de s'Alamera"
           },
           "coords": [
             1.5345,
@@ -1840,7 +2015,8 @@
             "de": "Bushaltestelle direkt im Zentrum.",
             "hu": "Buszmegálló közvetlenül a központban.",
             "ro": "Stație de autobuz chiar în centru.",
-            "en": "Bus stop located right in the center."
+            "en": "Bus stop located right in the center.",
+            "es": "Parada de autobús situada en el mismo centro."
           }
         },
         {
@@ -1848,7 +2024,8 @@
             "de": "Las Dalias Hippy Market",
             "hu": "Las Dalias hippi piac",
             "ro": "Piața hippie Las Dalias",
-            "en": "Las Dalias Hippy Market"
+            "en": "Las Dalias Hippy Market",
+            "es": "Las Dalias Hippy Market"
           },
           "coords": [
             1.583,
@@ -1863,7 +2040,8 @@
             "de": "Bus L13 verbindet Santa Eulària mit San Carlos.",
             "hu": "Az L13-as busz köti össze a várost San Carlosszal.",
             "ro": "Autobuzul L13 face legătura cu San Carlos.",
-            "en": "Line L13 connects Santa Eulària to San Carlos."
+            "en": "Line L13 connects Santa Eulària to San Carlos.",
+            "es": "La línea L13 conecta Santa Eulària con San Carlos."
           }
         },
         {
@@ -1871,7 +2049,8 @@
             "de": "Puig de Missa",
             "hu": "Puig de Missa",
             "ro": "Puig de Missa",
-            "en": "Puig de Missa"
+            "en": "Puig de Missa",
+            "es": "Puig de Missa"
           },
           "coords": [
             1.5285,
@@ -1886,7 +2065,8 @@
             "de": "Kurzer Fußweg von der Bushaltestelle.",
             "hu": "Rövid séta a buszmegállótól.",
             "ro": "Scurtă plimbare de la stație.",
-            "en": "Short uphill walk from the main bus stop."
+            "en": "Short uphill walk from the main bus stop.",
+            "es": "Corta subida a pie desde la parada principal de autobús."
           }
         },
         {
@@ -1894,7 +2074,8 @@
             "de": "Marina Santa Eulària",
             "hu": "Santa Eulària kikötő",
             "ro": "Marina Santa Eulària",
-            "en": "Marina Santa Eulària"
+            "en": "Marina Santa Eulària",
+            "es": "Marina Santa Eulària"
           },
           "coords": [
             1.542,
@@ -1909,7 +2090,8 @@
             "de": "Fähren nach Ibiza Stadt und Es Canar.",
             "hu": "Hajók indulnak Ibiza városba és Es Canar-ba.",
             "ro": "Feriboturi către Ibiza Town și Es Canar.",
-            "en": "Ferries available to Ibiza Town and Es Canar."
+            "en": "Ferries available to Ibiza Town and Es Canar.",
+            "es": "Ferries disponibles hacia Ibiza y Es Canar."
           }
         },
         {
@@ -1917,7 +2099,8 @@
             "de": "Playa de Santa Eulària",
             "hu": "Santa Eulària strand",
             "ro": "Plaja Santa Eulària",
-            "en": "Playa de Santa Eulària"
+            "en": "Playa de Santa Eulària",
+            "es": "Playa de Santa Eulària"
           },
           "coords": [
             1.5365,
@@ -1932,7 +2115,8 @@
             "de": "Zentraler Strand, leicht zu Fuß erreichbar.",
             "hu": "Központi strand, könnyen elérhető gyalog.",
             "ro": "Plajă centrală, ușor accesibilă pe jos.",
-            "en": "Central beach, easily accessible on foot."
+            "en": "Central beach, easily accessible on foot.",
+            "es": "Playa central, de fácil acceso a pie."
           }
         }
       ],
@@ -1940,7 +2124,8 @@
         "de": "Nutzen Sie das gute Busnetz, um zum Las Dalias Hippiemarkt zu gelangen. Zurück im Zentrum erkunden Sie den Puig de Missa zu Fuß. Den späten Nachmittag verbringen Sie am Hafen und am Strand, alles bequem erreichbar vom zentralen Busknotenpunkt.",
         "hu": "Használja ki a jó buszközlekedést, hogy eljusson a Las Dalias piacra. A központba visszatérve gyalog fedezze fel a Puig de Missát. A késő délutánt töltse a kikötőben és a strandon, amelyek mind sétatávolságra vannak a fő buszpályaudvartól.",
         "ro": "Folosiți rețeaua de autobuze pentru a ajunge la piața Las Dalias. Reveniți în centru și explorați Puig de Missa pe jos. După-amiaza târziu petreceți-o în port și pe plajă, toate fiind aproape de autogara centrală.",
-        "en": "Use the efficient local bus service to reach the Las Dalias Hippy Market. Back in the center, explore Puig de Missa on foot. Spend the late afternoon at the marina and beach, all conveniently located near the central bus hub."
+        "en": "Use the efficient local bus service to reach the Las Dalias Hippy Market. Back in the center, explore Puig de Missa on foot. Spend the late afternoon at the marina and beach, all conveniently located near the central bus hub.",
+        "es": "Utiliza el eficiente servicio local de autobuses para llegar a Las Dalias Hippy Market. De vuelta en el centro, explora Puig de Missa a pie. Pasa la tarde en la marina y la playa, todos convenientemente situados cerca del núcleo de autobuses."
       },
       "gastro_picks": {
         "de": [
@@ -2044,6 +2229,11 @@
           "Download the 'TIB' app for real-time bus schedules.",
           "Buses can be delayed due to heavy summer traffic.",
           "Pay by card or have small change ready for the driver."
+        ],
+        "es": [
+          "Descarga la app 'TIB' para horarios de autobuses en tiempo real.",
+          "Los autobuses pueden retrasarse por el tráfico intenso en verano.",
+          "Paga con tarjeta o lleva cambio pequeño para el conductor."
         ]
       },
       "variants": {
@@ -2052,7 +2242,8 @@
             "de": "Nutzen Sie das gute Busnetz, um zum Las Dalias Hippiemarkt zu gelangen. Zurück im Zentrum erkunden Sie den Puig de Missa zu Fuß. Den späten Nachmittag verbringen Sie am Hafen und am Strand, alles bequem erreichbar vom zentralen Busknotenpunkt.",
             "hu": "Használja ki a jó buszközlekedést, hogy eljusson a Las Dalias piacra. A központba visszatérve gyalog fedezze fel a Puig de Missát. A késő délutánt töltse a kikötőben és a strandon, amelyek mind sétatávolságra vannak a fő buszpályaudvartól.",
             "ro": "Folosiți rețeaua de autobuze pentru a ajunge la piața Las Dalias. Reveniți în centru și explorați Puig de Missa pe jos. După-amiaza târziu petreceți-o în port și pe plajă, toate fiind aproape de autogara centrală.",
-            "en": "Use the efficient local bus service to reach the Las Dalias Hippy Market. Back in the center, explore Puig de Missa on foot. Spend the late afternoon at the marina and beach, all conveniently located near the central bus hub."
+            "en": "Use the efficient local bus service to reach the Las Dalias Hippy Market. Back in the center, explore Puig de Missa on foot. Spend the late afternoon at the marina and beach, all conveniently located near the central bus hub.",
+            "es": "Utiliza el eficiente servicio local de autobuses para llegar a Las Dalias Hippy Market. De vuelta en el centro, explora Puig de Missa a pie. Pasa la tarde en la marina y la playa, todos convenientemente situados cerca del núcleo de autobuses."
           },
           "stops": [
             {
@@ -2060,13 +2251,15 @@
                 "de": "Passeig de s'Alamera",
                 "hu": "Passeig de s'Alamera",
                 "ro": "Passeig de s'Alamera",
-                "en": "Passeig de s'Alamera"
+                "en": "Passeig de s'Alamera",
+                "es": "Passeig de s'Alamera"
               },
               "tip_5lang": {
                 "de": "Bushaltestelle direkt im Zentrum.",
                 "hu": "Buszmegálló közvetlenül a központban.",
                 "ro": "Stație de autobuz chiar în centru.",
-                "en": "Bus stop located right in the center."
+                "en": "Bus stop located right in the center.",
+                "es": "Parada de autobús situada en el mismo centro."
               }
             },
             {
@@ -2074,13 +2267,15 @@
                 "de": "Las Dalias Hippy Market",
                 "hu": "Las Dalias hippi piac",
                 "ro": "Piața hippie Las Dalias",
-                "en": "Las Dalias Hippy Market"
+                "en": "Las Dalias Hippy Market",
+                "es": "Las Dalias Hippy Market"
               },
               "tip_5lang": {
                 "de": "Bus L13 verbindet Santa Eulària mit San Carlos.",
                 "hu": "Az L13-as busz köti össze a várost San Carlosszal.",
                 "ro": "Autobuzul L13 face legătura cu San Carlos.",
-                "en": "Line L13 connects Santa Eulària to San Carlos."
+                "en": "Line L13 connects Santa Eulària to San Carlos.",
+                "es": "La línea L13 conecta Santa Eulària con San Carlos."
               }
             },
             {
@@ -2088,13 +2283,15 @@
                 "de": "Puig de Missa",
                 "hu": "Puig de Missa",
                 "ro": "Puig de Missa",
-                "en": "Puig de Missa"
+                "en": "Puig de Missa",
+                "es": "Puig de Missa"
               },
               "tip_5lang": {
                 "de": "Kurzer Fußweg von der Bushaltestelle.",
                 "hu": "Rövid séta a buszmegállótól.",
                 "ro": "Scurtă plimbare de la stație.",
-                "en": "Short uphill walk from the main bus stop."
+                "en": "Short uphill walk from the main bus stop.",
+                "es": "Corta subida desde la parada principal de autobús."
               }
             },
             {
@@ -2102,13 +2299,15 @@
                 "de": "Marina Santa Eulària",
                 "hu": "Santa Eulària kikötő",
                 "ro": "Marina Santa Eulària",
-                "en": "Marina Santa Eulària"
+                "en": "Marina Santa Eulària",
+                "es": "Marina Santa Eulària"
               },
               "tip_5lang": {
                 "de": "Fähren nach Ibiza Stadt und Es Canar.",
                 "hu": "Hajók indulnak Ibiza városba és Es Canar-ba.",
                 "ro": "Feriboturi către Ibiza Town și Es Canar.",
-                "en": "Ferries available to Ibiza Town and Es Canar."
+                "en": "Ferries available to Ibiza Town and Es Canar.",
+                "es": "Hay ferris a Ibiza ciudad y Es Canar."
               }
             },
             {
@@ -2116,13 +2315,15 @@
                 "de": "Playa de Santa Eulària",
                 "hu": "Santa Eulària strand",
                 "ro": "Plaja Santa Eulària",
-                "en": "Playa de Santa Eulària"
+                "en": "Playa de Santa Eulària",
+                "es": "Playa de Santa Eulària"
               },
               "tip_5lang": {
                 "de": "Zentraler Strand, leicht zu Fuß erreichbar.",
                 "hu": "Központi strand, könnyen elérhető gyalog.",
                 "ro": "Plajă centrală, ușor accesibilă pe jos.",
-                "en": "Central beach, easily accessible on foot."
+                "en": "Central beach, easily accessible on foot.",
+                "es": "Playa central, fácilmente accesible a pie."
               }
             }
           ],
@@ -2228,6 +2429,11 @@
               "Download the 'TIB' app for real-time bus schedules.",
               "Buses can be delayed due to heavy summer traffic.",
               "Pay by card or have small change ready for the driver."
+            ],
+            "es": [
+              "Descarga la app 'TIB' para horarios de autobús en tiempo real.",
+              "Los autobuses pueden sufrir retrasos por el intenso tráfico veraniego.",
+              "Paga con tarjeta o lleva monedas pequeñas para el conductor."
             ]
           }
         },
@@ -2236,7 +2442,8 @@
             "de": "Der Bus bietet eine trockene Verbindung zwischen den Highlights. Morgens führt die Fahrt zum Passeig de s'Alamera. Mittags bringt Sie der Bus direkt zum Hippy Market, wo Sie den Regen im Trockenen verbringen können. Nachmittags ist der Puig de Missa nur einen kurzen Sprint von der Haltestelle entfernt. Den Abend verbringen Sie entspannt in der Marina, bevor der Bus Sie zurückbringt.",
             "hu": "A busz száraz összeköttetést biztosít a látnivalók között. Reggel a Passeig de s'Alamera a kezdőpont. Délben a busz közvetlenül a hippi piachoz viszi, ahol fedett helyen töltheti az időt. Délután a Puig de Missa csak egy rövid sprintre van a megállótól. Az estét töltse a kikötőben, mielőtt a busz visszavinné.",
             "ro": "Autobuzul oferă o conexiune uscată între principalele puncte. Dimineața începeți la Passeig de s'Alamera. La prânz, autobuzul vă lasă direct la piața hippy. După-amiaza, Puig de Missa este la doar o scurtă fugă de stație. Seara o puteți petrece în marină înainte ca autobuzul să vă ducă înapoi.",
-            "en": "The bus provides a dry connection between the city's highlights. In the morning, start at Passeig de s'Alamera. At midday, the bus takes you directly to the hippy market. In the afternoon, Puig de Missa is just a short dash from the bus stop. Spend your evening at the marina before catching the bus back."
+            "en": "The bus provides a dry connection between the city's highlights. In the morning, start at Passeig de s'Alamera. At midday, the bus takes you directly to the hippy market. In the afternoon, Puig de Missa is just a short dash from the bus stop. Spend your evening at the marina before catching the bus back.",
+            "es": "El autobús conecta a cubierto los puntos de interés de la ciudad. Por la mañana, empieza en Passeig de s'Alamera. Al mediodía, el autobús te lleva directamente al mercadillo hippy. Por la tarde, Puig de Missa queda a un corto paseo desde la parada. Pasa la noche en la marina antes de volver en autobús."
           },
           "stops": [
             {
@@ -2245,7 +2452,8 @@
                 "de": "Warten Sie im Kiosk oder Café an der Haltestelle.",
                 "hu": "Várjon a megálló melletti kioszkban vagy kávézóban.",
                 "ro": "Așteptați în chioșcul sau cafeneaua de lângă stație.",
-                "en": "Wait inside the kiosk or cafe next to the stop."
+                "en": "Wait inside the kiosk or cafe next to the stop.",
+                "es": "Espera dentro del quiosco o la cafetería junto a la parada."
               }
             },
             {
@@ -2254,7 +2462,8 @@
                 "de": "Die Haltestelle ist direkt vor dem Eingang.",
                 "hu": "A buszmegálló közvetlenül a bejárat előtt található.",
                 "ro": "Stația de autobuz este chiar în fața intrării.",
-                "en": "The bus stop is located right in front of the entrance."
+                "en": "The bus stop is located right in front of the entrance.",
+                "es": "La parada está justo enfrente de la entrada."
               }
             },
             {
@@ -2263,7 +2472,8 @@
                 "de": "Halten Sie den Regenschirm beim Aussteigen bereit.",
                 "hu": "Legyen kéznél az esernyő kiszálláskor.",
                 "ro": "Pregătiți umbrela înainte de a coborî din autobuz.",
-                "en": "Have your umbrella ready as you step off the bus."
+                "en": "Have your umbrella ready as you step off the bus.",
+                "es": "Ten el paraguas listo al bajar del autobús."
               }
             },
             {
@@ -2272,7 +2482,8 @@
                 "de": "Kurzer Fußweg von der zentralen Busstation.",
                 "hu": "Rövid séta a központi buszállomástól.",
                 "ro": "Scurtă plimbare de la stația centrală de autobuz.",
-                "en": "A short walk from the central bus station."
+                "en": "A short walk from the central bus station.",
+                "es": "A un corto paseo de la estación central de autobuses."
               }
             },
             {
@@ -2281,7 +2492,8 @@
                 "de": "Die Haltestelle bietet meist ein kleines Dach.",
                 "hu": "A megálló általában rendelkezik kis tetővel.",
                 "ro": "Stația are de obicei un mic acoperiș de protecție.",
-                "en": "The stop usually has a small shelter roof."
+                "en": "The stop usually has a small shelter roof.",
+                "es": "La parada suele tener un pequeño techo de refugio."
               }
             }
           ],
@@ -2309,6 +2521,12 @@
               "Keep small change or your transport card ready.",
               "Buses may be slightly delayed during rain due to traffic.",
               "The main bus station in Santa Eulària is fully covered."
+            ],
+            "es": [
+              "Consigue la app de transporte local para seguir el autobús en tiempo real.",
+              "Lleva monedas pequeñas o tu tarjeta de transporte a mano.",
+              "Los autobuses pueden retrasarse ligeramente con lluvia por el tráfico.",
+              "La estación principal de autobuses en Santa Eulària está completamente cubierta."
             ]
           }
         },
@@ -2317,7 +2535,8 @@
             "de": "Transit im Winter ist ruhig und effizient. Morgens bringt Sie der Bus zum Passeig de s'Alamera. Mittags genießen Sie die Fahrt durch das Hinterland nach Las Dalias, das im Winter sehr lokal wirkt. Der Nachmittag am Puig de Missa bietet tolle Wintersonne. Beenden Sie den Tag in der Marina und nutzen Sie die regelmäßigen Verbindungen für die Rückfahrt am frühen Abend.",
             "hu": "A tömegközlekedés télen nyugodt és hatékony. Reggel a busz a Passeig de s'Alamera-hoz viszi. Délben élvezze az utazást a szárazföld belseje felé Las Dalias-ba. A délután a Puig de Missa-nál csodás téli napsütést ígér. Zárja a napot a kikötőben, és használja a sűrű járatokat a kora esti visszatéréshez.",
             "ro": "Transportul public iarna este liniștit și eficient. Dimineața autobuzul vă duce la Passeig de s'Alamera. La prânz bucurați-vă de drumul spre Las Dalias. După-amiaza la Puig de Missa oferă un soare de iarnă superb. Încheiați ziua în marină și folosiți conexiunile regulate pentru retur.",
-            "en": "Public transit in winter is quiet and efficient. In the morning, take the bus to Passeig de s'Alamera. At midday, enjoy the scenic ride to Las Dalias, which feels very local in winter. The afternoon at Puig de Missa offers great winter sun. End your day at the marina and use the regular connections for an early evening return."
+            "en": "Public transit in winter is quiet and efficient. In the morning, take the bus to Passeig de s'Alamera. At midday, enjoy the scenic ride to Las Dalias, which feels very local in winter. The afternoon at Puig de Missa offers great winter sun. End your day at the marina and use the regular connections for an early evening return.",
+            "es": "El transporte público en invierno es tranquilo y eficiente. Por la mañana, toma el autobús a Passeig de s'Alamera. Al mediodía, disfruta del trayecto a Las Dalias, que en invierno se siente muy local. La tarde en Puig de Missa ofrece un excelente sol invernal. Termina el día en la marina y usa las conexiones regulares para volver temprano por la noche."
           },
           "stops": [
             {
@@ -2326,7 +2545,8 @@
                 "de": "Im Winter sind die Busse deutlich leerer.",
                 "hu": "Télen a buszok sokkal üresebbek.",
                 "ro": "Iarna autobuzele sunt mult mai libere.",
-                "en": "Buses are significantly less crowded in winter."
+                "en": "Buses are significantly less crowded in winter.",
+                "es": "Los autobuses están mucho menos llenos en invierno."
               }
             },
             {
@@ -2335,7 +2555,8 @@
                 "de": "Die Linie L13 verbindet Santa Eulària mit Las Dalias.",
                 "hu": "Az L13-as vonal köti össze Santa Eulària-t a piaccal.",
                 "ro": "Linia L13 face legătura între Santa Eulària și Las Dalias.",
-                "en": "Line L13 connects Santa Eulària with Las Dalias."
+                "en": "Line L13 connects Santa Eulària with Las Dalias.",
+                "es": "La línea L13 conecta Santa Eulària con Las Dalias."
               }
             },
             {
@@ -2344,7 +2565,8 @@
                 "de": "Prüfen Sie den letzten Bus vor Sonnenuntergang.",
                 "hu": "Ellenőrizze az utolsó buszt naplemente előtt.",
                 "ro": "Verificați ora ultimului autobuz înainte de apus.",
-                "en": "Check the schedule for the last bus before sunset."
+                "en": "Check the schedule for the last bus before sunset.",
+                "es": "Consulta el horario del último autobús antes del ocaso."
               }
             },
             {
@@ -2353,7 +2575,8 @@
                 "de": "Die Busstation ist nur 5 Minuten zu Fuß entfernt.",
                 "hu": "A buszállomás mindössze 5 perc sétára van.",
                 "ro": "Autogara este la doar 5 minute de mers pe jos.",
-                "en": "The bus station is only a 5-minute walk away."
+                "en": "The bus station is only a 5-minute walk away.",
+                "es": "La estación de autobuses está a solo 5 minutos a pie."
               }
             },
             {
@@ -2362,7 +2585,8 @@
                 "de": "Idealer Startpunkt für die Winter-Linien.",
                 "hu": "Ideális kiindulópont a téli járatokhoz.",
                 "ro": "Punct de plecare ideal pentru liniile de iarnă.",
-                "en": "Ideal starting point for the winter bus lines."
+                "en": "Ideal starting point for the winter bus lines.",
+                "es": "Punto de partida ideal para las líneas de invierno."
               }
             }
           ],
@@ -2390,6 +2614,12 @@
               "Buses are well-heated during the winter months.",
               "Night buses do not run in winter; plan to finish by 9 PM.",
               "The TIB website offers the most up-to-date schedules."
+            ],
+            "es": [
+              "Algunas líneas tienen menor frecuencia en invierno (horario de invierno).",
+              "Los autobuses están bien calefactados durante los meses de invierno.",
+              "No hay autobuses nocturnos en invierno; planifica terminar antes de las 21:00.",
+              "El sitio web de TIB ofrece los horarios más actualizados."
             ]
           }
         }
@@ -2403,19 +2633,22 @@
       "de": "Santa Eulària ist die familienfreundlichste Ibiza-Stadt, Spanisch, Katalanisch und Englisch funktionieren überall. Deutsch in einigen Restaurants an der Promenade. Ruhigerer Ton als in Sant Antoni.",
       "hu": "Santa Eulària Ibiza legcsaládbarátabb városa, spanyolul, katalánul és angolul mindenhol megy. Német néhány promenád menti étteremben. Nyugodtabb stílus mint Sant Antoniban.",
       "ro": "Santa Eulària e cel mai prietenos cu familiile din Ibiza, spaniola, catalana și engleza merg peste tot. Germana în câteva restaurante de pe promenadă. Atmosferă mai calmă decât Sant Antoni.",
-      "en": "Santa Eulària is Ibiza's most family-friendly town; Spanish, Catalan and English work everywhere. Some German in promenade restaurants. The vibe is calmer than Sant Antoni."
+      "en": "Santa Eulària is Ibiza's most family-friendly town; Spanish, Catalan and English work everywhere. Some German in promenade restaurants. The vibe is calmer than Sant Antoni.",
+      "es": "Santa Eulària es la población más familiar de Ibiza; aquí funcionan español, catalán e inglés. Algo de alemán en restaurantes del paseo. El ambiente es más tranquilo que en Sant Antoni."
     },
     "best_time_to_visit": {
       "de": "Mai-Juni und September für entspannte Strände und Hippy-Markt Punta Arabí (Mittwoch). Juli-August voll, aber familiär. Winter ruhig, einige Restaurants ganzjährig offen.",
       "hu": "Május-június és szeptember a legjobb a nyugodt strandolásra és a szerdai Punta Arabí hippipiacra. Július-augusztus tele, de családias. Télen csendes, néhány étterem egész évben nyitva.",
       "ro": "Mai-iunie și septembrie pentru plaje liniștite și piața hippy Punta Arabí (miercurea). Iulie-august plin dar familial. Iarna calmă, câteva restaurante deschise tot anul.",
-      "en": "May-June and September for relaxed beaches and the Punta Arabí hippy market (Wednesdays). July-August is busy but family-friendly. Winter is quiet, some restaurants stay open year-round."
+      "en": "May-June and September for relaxed beaches and the Punta Arabí hippy market (Wednesdays). July-August is busy but family-friendly. Winter is quiet, some restaurants stay open year-round.",
+      "es": "Mayo-junio y septiembre para playas relajadas y el mercadillo hippie de Punta Arabí (miércoles). Julio-agosto está concurrido pero familiar. El invierno es tranquilo; algunos restaurantes permanecen abiertos todo el año."
     },
     "neighborhood_warnings": {
       "de": "Sehr sicher, eine der ruhigsten Ecken Ibizas. Geringe Kriminalität, Promenade nachts gut beleuchtet. Mietwagen-Diebstahl auf Strandparkplätzen außerorts möglich, nichts liegen lassen.",
       "hu": "Nagyon biztonságos, Ibiza egyik legnyugodtabb sarka. Alacsony bűnözés, a sétány éjjel jól megvilágított. A városon kívüli strandparkolókban autófeltörés előfordul, ne hagyj értéket.",
       "ro": "Foarte sigur, una din zonele cele mai liniștite din Ibiza. Criminalitate redusă, promenada bine luminată noaptea. Spargeri în parcările de plajă din afara orașului, nu lăsa valori.",
-      "en": "Very safe, one of Ibiza's calmest corners. Low crime, promenade well-lit at night. Car break-ins do happen at out-of-town beach lots, so leave nothing inside."
+      "en": "Very safe, one of Ibiza's calmest corners. Low crime, promenade well-lit at night. Car break-ins do happen at out-of-town beach lots, so leave nothing inside.",
+      "es": "Muy seguro, uno de los rincones más tranquilos de Ibiza. Delincuencia baja, paseo bien iluminado por la noche. Ocurren robos en coches en aparcamientos de playas fuera del pueblo, así que no dejes nada dentro."
     }
   }
 }

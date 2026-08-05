@@ -21,7 +21,8 @@
             "de": "Puerto Viejo",
             "hu": "Régi Kikötő",
             "ro": "Portul Vechi",
-            "en": "Old Port"
+            "en": "Old Port",
+            "es": "Puerto Viejo"
           },
           "coords": [
             -6.1451,
@@ -36,7 +37,8 @@
             "de": "Früh morgens kommen, wenn die Fischerboote zurückkehren.",
             "hu": "Érkezz kora reggel, amikor a halászhajók befutnak.",
             "ro": "Vino dimineața devreme când se întorc bărcile de pescuit.",
-            "en": "Arrive early morning when the fishing boats return."
+            "en": "Arrive early morning when the fishing boats return.",
+            "es": "Llega a primera hora de la mañana cuando vuelven los barcos pesqueros."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Plaza de la Marina",
             "hu": "Plaza de la Marina",
             "ro": "Plaza de la Marina",
-            "en": "Plaza de la Marina"
+            "en": "Plaza de la Marina",
+            "es": "Plaza de la Marina"
           },
           "coords": [
             -6.1462,
@@ -59,7 +62,8 @@
             "de": "Das Herz des Dorfes, ideal für Fotos der bunten Häuser.",
             "hu": "A falu szíve, tökéletes hely a színes házak fotózására.",
             "ro": "Inima satului, locul ideal pentru poze cu casele colorate.",
-            "en": "The heart of the village, ideal for photos of the colorful houses."
+            "en": "The heart of the village, ideal for photos of the colorful houses.",
+            "es": "El corazón del pueblo, ideal para fotos de las casas de colores."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Iglesia de San Pedro",
             "hu": "Szent Péter templom",
             "ro": "Biserica Sfântul Petru",
-            "en": "San Pedro Church"
+            "en": "San Pedro Church",
+            "es": "Iglesia de San Pedro"
           },
           "coords": [
             -6.1468,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie das gotische Interieur dieser historischen Kirche.",
             "hu": "Csodáld meg a történelmi templom gótikus belső terét.",
             "ro": "Admiră interiorul gotic al acestei biserici istorice.",
-            "en": "Admire the Gothic interior of this historical church."
+            "en": "Admire the Gothic interior of this historical church.",
+            "es": "Admira el interior gótico de esta iglesia histórica."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Mirador de la Garita",
             "hu": "Garita kilátó",
             "ro": "Mirador de la Garita",
-            "en": "Garita Viewpoint"
+            "en": "Garita Viewpoint",
+            "es": "Mirador de la Garita"
           },
           "coords": [
             -6.1435,
@@ -105,7 +112,8 @@
             "de": "Der berühmteste Aussichtspunkt mit Blick auf den Hafen.",
             "hu": "A leghíresebb kilátópont a kikötőre nyíló kilátással.",
             "ro": "Cel mai faimos punct de observație cu vedere spre port.",
-            "en": "The most famous viewpoint with views over the harbor."
+            "en": "The most famous viewpoint with views over the harbor.",
+            "es": "El mirador más famoso con vistas al puerto."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Faro de Cudillero",
             "hu": "Cudilleroi világítótorony",
             "ro": "Farul din Cudillero",
-            "en": "Cudillero Lighthouse"
+            "en": "Cudillero Lighthouse",
+            "es": "Faro de Cudillero"
           },
           "coords": [
             -6.1422,
@@ -128,7 +137,8 @@
             "de": "Spaziergang entlang der Klippe für eine spektakuläre Aussicht.",
             "hu": "Séta a sziklák mentén a látványos panorámáért.",
             "ro": "Plimbare de-a lungul stâncilor pentru o priveliște spectaculoasă.",
-            "en": "Walk along the cliffs for a spectacular view."
+            "en": "Walk along the cliffs for a spectacular view.",
+            "es": "Camina por los acantilados para una vista espectacular."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Capilla del Humilladero",
             "hu": "Humilladero kápolna",
             "ro": "Capela Humilladero",
-            "en": "Humilladero Chapel"
+            "en": "Humilladero Chapel",
+            "es": "Capilla del Humilladero"
           },
           "coords": [
             -6.1485,
@@ -151,7 +162,8 @@
             "de": "Ein kleiner architektonischer Schatz am Ortseingang.",
             "hu": "Egy apró építészeti kincs a falu bejáratánál.",
             "ro": "O mică bijuterie arhitecturală la intrarea în sat.",
-            "en": "A small architectural treasure at the village entrance."
+            "en": "A small architectural treasure at the village entrance.",
+            "es": "Un pequeño tesoro arquitectónico en la entrada del pueblo."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag am alten Hafen, wo die Fischerboote sanft schaukeln, und schlendern Sie zur Plaza de la Marina, um das ikonische Amphitheater aus bunten Häusern zu bewundern. Mittags erkunden Sie die gotische Kirche San Pedro und steigen dann zum Mirador de la Garita hinauf, um den besten Blick auf die Küste zu genießen. Der Nachmittag führt Sie zum Leuchtturm und endet an der charmanten Humilladero-Kapelle.",
         "hu": "Kezdje a napot a régi kikötőben, ahol a halászhajók ringatóznak, majd sétáljon a Plaza de la Marina felé, hogy megcsodálja a színes házak ikonikus amfiteátrumát. Délben fedezze fel a gótikus Szent Péter-templomot, majd másszon fel a Garita kilátóhoz a legjobb parti kilátásért. A délután a világítótoronyhoz vezet, és a bájos Humilladero-kápolnánál ér véget.",
         "ro": "Începeți ziua în portul vechi, unde bărcile de pescuit plutesc ușor, apoi plimbați-vă spre Plaza de la Marina pentru a admira iconicul amfiteatru de case colorate. La prânz, explorați biserica gotică San Pedro și apoi urcați la Mirador de la Garita pentru cea mai bună vedere de pe coastă. După-amiaza vă poartă spre far și se încheie la fermecătoarea capelă Humilladero.",
-        "en": "Start your day at the old port, where fishing boats sway gently, then stroll to Plaza de la Marina to admire the iconic amphitheater of colorful houses. At midday, explore the Gothic San Pedro church and then climb to Mirador de la Garita for the best coastal views. The afternoon takes you to the lighthouse and ends at the charming Humilladero Chapel."
+        "en": "Start your day at the old port, where fishing boats sway gently, then stroll to Plaza de la Marina to admire the iconic amphitheater of colorful houses. At midday, explore the Gothic San Pedro church and then climb to Mirador de la Garita for the best coastal views. The afternoon takes you to the lighthouse and ends at the charming Humilladero Chapel.",
+        "es": "Empieza el día en el puerto viejo, donde las barcas pesqueras se mecen, luego pasea hasta la Plaza de la Marina para admirar el anfiteatro de casas de colores. A mediodía explora la iglesia gótica de San Pedro y sube al Mirador de la Garita para las mejores vistas costeras. La tarde te lleva al faro y termina en la encantadora Capilla del Humilladero."
       },
       "gastro_picks": {
         "de": [
@@ -275,6 +288,10 @@
         "en": [
           "Wear comfortable shoes for the steep alleys.",
           "Visit the village on weekdays to avoid crowds."
+        ],
+        "es": [
+          "Usa calzado cómodo para los empinados callejones.",
+          "Visita el pueblo entre semana para evitar aglomeraciones."
         ]
       },
       "variants": {
@@ -283,7 +300,8 @@
             "de": "Beginnen Sie Ihren Tag am alten Hafen, wo die Fischerboote sanft schaukeln, und schlendern Sie zur Plaza de la Marina, um das ikonische Amphitheater aus bunten Häusern zu bewundern. Mittags erkunden Sie die gotische Kirche San Pedro und steigen dann zum Mirador de la Garita hinauf, um den besten Blick auf die Küste zu genießen. Der Nachmittag führt Sie zum Leuchtturm und endet an der charmanten Humilladero-Kapelle.",
             "hu": "Kezdje a napot a régi kikötőben, ahol a halászhajók ringatóznak, majd sétáljon a Plaza de la Marina felé, hogy megcsodálja a színes házak ikonikus amfiteátrumát. Délben fedezze fel a gótikus Szent Péter-templomot, majd másszon fel a Garita kilátóhoz a legjobb parti kilátásért. A délután a világítótoronyhoz vezet, és a bájos Humilladero-kápolnánál ér véget.",
             "ro": "Începeți ziua în portul vechi, unde bărcile de pescuit plutesc ușor, apoi plimbați-vă spre Plaza de la Marina pentru a admira iconicul amfiteatru de case colorate. La prânz, explorați biserica gotică San Pedro și apoi urcați la Mirador de la Garita pentru cea mai bună vedere de pe coastă. După-amiaza vă poartă spre far și se încheie la fermecătoarea capelă Humilladero.",
-            "en": "Start your day at the old port, where fishing boats sway gently, then stroll to Plaza de la Marina to admire the iconic amphitheater of colorful houses. At midday, explore the Gothic San Pedro church and then climb to Mirador de la Garita for the best coastal views. The afternoon takes you to the lighthouse and ends at the charming Humilladero Chapel."
+            "en": "Start your day at the old port, where fishing boats sway gently, then stroll to Plaza de la Marina to admire the iconic amphitheater of colorful houses. At midday, explore the Gothic San Pedro church and then climb to Mirador de la Garita for the best coastal views. The afternoon takes you to the lighthouse and ends at the charming Humilladero Chapel.",
+            "es": "Empieza el día en el puerto viejo, donde las barcas pesqueras se mecen, luego pasea hasta la Plaza de la Marina para admirar el anfiteatro de casas de colores. A mediodido explora la iglesia gótica de San Pedro y sube al Mirador de la Garita para las mejores vistas costeras. La tarde te lleva al faro y termina en la encantadora Capilla del Humilladero."
           },
           "stops": [
             {
@@ -291,13 +309,15 @@
                 "de": "Puerto Viejo",
                 "hu": "Régi Kikötő",
                 "ro": "Portul Vechi",
-                "en": "Old Port"
+                "en": "Old Port",
+                "es": "Puerto Viejo"
               },
               "tip_5lang": {
                 "de": "Früh morgens kommen, wenn die Fischerboote zurückkehren.",
                 "hu": "Érkezz kora reggel, amikor a halászhajók befutnak.",
                 "ro": "Vino dimineața devreme când se întorc bărcile de pescuit.",
-                "en": "Arrive early morning when the fishing boats return."
+                "en": "Arrive early morning when the fishing boats return.",
+                "es": "Llega a primera hora de la mañana cuando vuelven los barcos pesqueros."
               }
             },
             {
@@ -305,13 +325,15 @@
                 "de": "Plaza de la Marina",
                 "hu": "Plaza de la Marina",
                 "ro": "Plaza de la Marina",
-                "en": "Plaza de la Marina"
+                "en": "Plaza de la Marina",
+                "es": "Plaza de la Marina"
               },
               "tip_5lang": {
                 "de": "Das Herz des Dorfes, ideal für Fotos der bunten Häuser.",
                 "hu": "A falu szíve, tökéletes hely a színes házak fotózására.",
                 "ro": "Inima satului, locul ideal pentru poze cu casele colorate.",
-                "en": "The heart of the village, ideal for photos of the colorful houses."
+                "en": "The heart of the village, ideal for photos of the colorful houses.",
+                "es": "El corazón del pueblo, ideal para fotos de las casas de colores."
               }
             },
             {
@@ -319,13 +341,15 @@
                 "de": "Iglesia de San Pedro",
                 "hu": "Szent Péter templom",
                 "ro": "Biserica Sfântul Petru",
-                "en": "San Pedro Church"
+                "en": "San Pedro Church",
+                "es": "Iglesia de San Pedro"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie das gotische Interieur dieser historischen Kirche.",
                 "hu": "Csodáld meg a történelmi templom gótikus belső terét.",
                 "ro": "Admiră interiorul gotic al acestei biserici istorice.",
-                "en": "Admire the Gothic interior of this historical church."
+                "en": "Admire the Gothic interior of this historical church.",
+                "es": "Admira el interior gótico de esta iglesia histórica."
               }
             },
             {
@@ -333,13 +357,15 @@
                 "de": "Mirador de la Garita",
                 "hu": "Garita kilátó",
                 "ro": "Mirador de la Garita",
-                "en": "Garita Viewpoint"
+                "en": "Garita Viewpoint",
+                "es": "Mirador de la Garita"
               },
               "tip_5lang": {
                 "de": "Der berühmteste Aussichtspunkt mit Blick auf den Hafen.",
                 "hu": "A leghíresebb kilátópont a kikötőre nyíló kilátással.",
                 "ro": "Cel mai faimos punct de observație cu vedere spre port.",
-                "en": "The most famous viewpoint with views over the harbor."
+                "en": "The most famous viewpoint with views over the harbor.",
+                "es": "El mirador más famoso con vistas al puerto."
               }
             },
             {
@@ -347,13 +373,15 @@
                 "de": "Faro de Cudillero",
                 "hu": "Cudilleroi világítótorony",
                 "ro": "Farul din Cudillero",
-                "en": "Cudillero Lighthouse"
+                "en": "Cudillero Lighthouse",
+                "es": "Faro de Cudillero"
               },
               "tip_5lang": {
                 "de": "Spaziergang entlang der Klippe für eine spektakuläre Aussicht.",
                 "hu": "Séta a sziklák mentén a látványos panorámáért.",
                 "ro": "Plimbare de-a lungul stâncilor pentru o priveliște spectaculoasă.",
-                "en": "Walk along the cliffs for a spectacular view."
+                "en": "Walk along the cliffs for a spectacular view.",
+                "es": "Camina por los acantilados para una vista espectacular."
               }
             },
             {
@@ -361,13 +389,15 @@
                 "de": "Capilla del Humilladero",
                 "hu": "Humilladero kápolna",
                 "ro": "Capela Humilladero",
-                "en": "Humilladero Chapel"
+                "en": "Humilladero Chapel",
+                "es": "Capilla del Humilladero"
               },
               "tip_5lang": {
                 "de": "Ein kleiner architektonischer Schatz am Ortseingang.",
                 "hu": "Egy apró építészeti kincs a falu bejáratánál.",
                 "ro": "O mică bijuterie arhitecturală la intrarea în sat.",
-                "en": "A small architectural treasure at the village entrance."
+                "en": "A small architectural treasure at the village entrance.",
+                "es": "Un pequeño tesoro arquitectónico en la entrada del pueblo."
               }
             }
           ],
@@ -485,6 +515,10 @@
             "en": [
               "Wear comfortable shoes for the steep alleys.",
               "Visit the village on weekdays to avoid crowds."
+            ],
+            "es": [
+              "Usa calzado con buen agarre para las escaleras empinadas.",
+              "Visita el pueblo entre semana para evitar aglomeraciones."
             ]
           }
         },
@@ -493,7 +527,8 @@
             "de": "Der Morgen beginnt mystisch im nebligen alten Hafen, während der Regen auf die bunten Fassaden peitscht. Mittags bietet die Plaza de la Marina unter Markisen Schutz bei fangfrischem Fisch.\nNachmittags führt der Weg zur Kirche und zum Aussichtspunkt durch schmale, teils überdachte Gassen. Der Leuchtturm zeigt sich bei Sturm besonders dramatisch.\nAbends finden Sie Ruhe in der Humilladero-Kapelle, die einen trockenen Abschluss des Tages bietet.",
             "hu": "A reggel misztikusan indul a ködös régi kikötőben, miközben az eső mossa a színes házfalakat. Délben a Plaza de la Marina árkádjai és napellenzői nyújtanak menedéket a friss tengeri ételek mellé.\nDélután a templom és a kilátó felé vezető út szűk, részben védett utcákon át vezet. A világítótorony látványa viharos időben a legdrámaibb.\nAz estét a Humilladero-kápolna csendje zárja, amely száraz menedéket nyújt a parti szél elől.",
             "ro": "Dimineața începe mistic în portul vechi cețos, în timp ce ploaia spală fațadele colorate. La prânz, Plaza de la Marina oferă adăpost sub copertine pentru a savura pește proaspăt.\nDupă-amiaza, drumul spre biserică și belvedere trece prin străduțe înguste, parțial acoperite. Farul oferă o priveliște dramatică pe vreme de furtună.\nSeara se încheie la capela Humilladero, un refugiu liniștit și uscat după o zi ploioasă.",
-            "en": "The morning begins mystically in the misty Old Port as rain lashes against the colorful facades. At midday, Plaza de la Marina offers shelter under awnings for enjoying fresh local fish.\nIn the afternoon, the path to the church and viewpoint winds through narrow, partly sheltered alleys. The lighthouse is particularly dramatic in stormy weather.\nThe evening ends at the Humilladero Chapel, providing a quiet, dry conclusion to a rainy day."
+            "en": "The morning begins mystically in the misty Old Port as rain lashes against the colorful facades. At midday, Plaza de la Marina offers shelter under awnings for enjoying fresh local fish.\nIn the afternoon, the path to the church and viewpoint winds through narrow, partly sheltered alleys. The lighthouse is particularly dramatic in stormy weather.\nThe evening ends at the Humilladero Chapel, providing a quiet, dry conclusion to a rainy day.",
+            "es": "La mañana comienza de forma mística en el Puerto Viejo envuelto en niebla mientras la lluvia azota las fachadas de colores. A mediodía, la Plaza de la Marina ofrece refugio bajo toldos para disfrutar de pescado fresco local.\nPor la tarde, el camino hacia la iglesia y el mirador serpentea por callejuelas estrechas y parcialmente cubiertas. El faro resulta especialmente dramático con mal tiempo.\nLa velada termina en la Capilla del Humilladero, que ofrece un final tranquilo y resguardado a un día lluvioso."
           },
           "stops": [
             {
@@ -502,7 +537,8 @@
                 "de": "Vorsicht vor rutschigen Pflastersteinen am Wasser.",
                 "hu": "Vigyázzon a csúszós macskakövekre a vízparton.",
                 "ro": "Atenție la pavajul alunecos de lângă apă.",
-                "en": "Watch out for slippery cobblestones near the water."
+                "en": "Watch out for slippery cobblestones near the water.",
+                "es": "Cuidado con los adoquines resbaladizos cerca del agua."
               }
             },
             {
@@ -511,7 +547,8 @@
                 "de": "Suchen Sie Cafés mit tiefen Markisen oder Innenplätzen.",
                 "hu": "Keressen mély előtetővel rendelkező kávézókat.",
                 "ro": "Căutați cafenele cu copertine mari sau locuri în interior.",
-                "en": "Look for cafes with deep awnings or indoor seating."
+                "en": "Look for cafes with deep awnings or indoor seating.",
+                "es": "Busca cafeterías con amplios toldos o asientos interiores."
               }
             },
             {
@@ -520,7 +557,8 @@
                 "de": "Ein idealer Ort, um einen heftigen Schauer abzuwarten.",
                 "hu": "Ideális hely egy heves zápor átvészelésére.",
                 "ro": "Un loc ideal pentru a aștepta trecerea unei averse.",
-                "en": "An ideal place to wait out a heavy downpour."
+                "en": "An ideal place to wait out a heavy downpour.",
+                "es": "Un lugar ideal para esperar a que pase un aguacero fuerte."
               }
             },
             {
@@ -529,7 +567,8 @@
                 "de": "Der Aufstieg ist bei Regen anstrengend, aber sicher.",
                 "hu": "Az emelkedő esőben fárasztó, de biztonságos.",
                 "ro": "Urcarea este obositoare pe ploaie, dar sigură.",
-                "en": "The climb is tiring in the rain but safe."
+                "en": "The climb is tiring in the rain but safe.",
+                "es": "La subida es cansada con lluvia pero segura."
               }
             },
             {
@@ -538,7 +577,8 @@
                 "de": "Gute Regenjacke gegen Gischt und Wind nötig.",
                 "hu": "Szélálló esőkabát szükséges a tengeri permet ellen.",
                 "ro": "Jachetă impermeabilă necesară împotriva vântului și apei.",
-                "en": "A good raincoat is needed against sea spray and wind."
+                "en": "A good raincoat is needed against sea spray and wind.",
+                "es": "Se necesita un buen impermeable contra la bruma y el viento marino."
               }
             },
             {
@@ -547,7 +587,8 @@
                 "de": "Ein kleiner, gemütlicher Rückzugsort im Trockenen.",
                 "hu": "Kicsi, meghitt menedék a szárazban.",
                 "ro": "Un mic refugiu primitor și uscat.",
-                "en": "A small, cozy retreat in the dry."
+                "en": "A small, cozy retreat in the dry.",
+                "es": "Un pequeño y acogedor refugio en seco."
               }
             }
           ],
@@ -579,6 +620,13 @@
               "The covered market area provides extra shelter.",
               "Cider bars (Sidrerías) are perfect for warming up.",
               "Avoid cliff paths during extreme wind conditions."
+            ],
+            "es": [
+              "Usa calzado con buen agarre para las escaleras empinadas.",
+              "La lluvia asturiana suele ser fina pero muy penetrante.",
+              "La zona del mercado cubierta ofrece refugio adicional.",
+              "Las sidrerías son perfectas para entrar en calor.",
+              "Evita los caminos por los acantilados con vientos extremos."
             ]
           }
         },
@@ -587,7 +635,8 @@
             "de": "Im Winter liegt eine friedliche Stille über dem alten Hafen. Der Vormittag ist kühl und klar, ideal für Fotos ohne Touristenmassen. Die Plaza de la Marina lädt mittags zu einer warmen Suppe ein.\nNachmittags taucht das tiefe Licht die San Pedro Kirche in sanfte Farben. Der Weg zum Leuchtturm ist windig, bietet aber weite Sicht über den Atlantik.\nDa es früh dunkel wird, endet der Tag gemütlich bei Kerzenschein in der Kapelle oder einer nahen Bar.",
             "hu": "Télen békés csend honol a régi kikötőben. A délelőtt hűvös és tiszta, ideális fotózáshoz a tömeg nélkül. A Plaza de la Marina délben egy forró levesre hívogat.\nDélután az alacsony napállás lágy színekbe öltözteti a San Pedro-templomot. A világítótorony felé vezető út szeles, de tiszta kilátást nyújt az óceánra.\nA korai sötétedés miatt a nap gyertyafényes hangulatban ér véget a kápolnánál vagy egy közeli bárban.",
             "ro": "Iarna, o liniște pașnică stăpânește portul vechi. Dimineața este răcoroasă și senină, ideală pentru fotografii fără mulțimi. Plaza de la Marina vă invită la o supă caldă la prânz.\nDupă-amiaza, lumina joasă îmbracă biserica San Pedro în culori calde. Drumul spre far este vântos, dar oferă o vizibilitate clară asupra Atlanticului.\nDeoarece se întunecă devreme, ziua se încheie confortabil la lumina lumânărilor în capelă sau într-un bar.",
-            "en": "In winter, a peaceful silence hangs over the Old Port. The morning is cool and clear, ideal for photos without the crowds. Plaza de la Marina invites you for a warm soup at midday.\nIn the afternoon, the low winter sun bathes San Pedro Church in soft colors. The walk to the lighthouse is windy but offers clear views over the Atlantic.\nAs it gets dark early, the day ends cozily by candlelight in the chapel or a nearby tavern."
+            "en": "In winter, a peaceful silence hangs over the Old Port. The morning is cool and clear, ideal for photos without the crowds. Plaza de la Marina invites you for a warm soup at midday.\nIn the afternoon, the low winter sun bathes San Pedro Church in soft colors. The walk to the lighthouse is windy but offers clear views over the Atlantic.\nAs it gets dark early, the day ends cozily by candlelight in the chapel or a nearby tavern.",
+            "es": "En invierno, un silencio pacífico se posa sobre el Puerto Viejo. La mañana es fresca y clara, ideal para fotos sin multitudes. La Plaza de la Marina invita a una sopa caliente a mediodía.\nPor la tarde, el sol bajo de invierno baña la Iglesia de San Pedro con colores suaves. La caminata hasta el faro es ventosa pero ofrece vistas claras sobre el Atlántico.\nAl oscurecer pronto, el día termina acogedoramente a la luz de las velas en la capilla o en una taberna cercana."
           },
           "stops": [
             {
@@ -596,7 +645,8 @@
                 "de": "Dick anziehen, der Seewind ist im Winter schneidend.",
                 "hu": "Öltözzön rétegesen, a tengeri szél télen metsző.",
                 "ro": "Îmbrăcați-vă gros, vântul mării este tăios iarna.",
-                "en": "Dress warmly, the sea breeze is biting in winter."
+                "en": "Dress warmly, the sea breeze is biting in winter.",
+                "es": "Abrígate bien; la brisa marina es cortante en invierno."
               }
             },
             {
@@ -605,7 +655,8 @@
                 "de": "Genießen Sie eine Fabada Asturiana zum Aufwärmen.",
                 "hu": "Kóstoljon meg egy forró Fabada-t a felmelegedéshez.",
                 "ro": "Savurați o Fabada Asturiana pentru a vă încălzi.",
-                "en": "Enjoy a warm Fabada Asturiana to heat up."
+                "en": "Enjoy a warm Fabada Asturiana to heat up.",
+                "es": "Disfruta de una reconfortante fabada asturiana para entrar en calor."
               }
             },
             {
@@ -614,7 +665,8 @@
                 "de": "Oft weniger Besucher als im Sommer, sehr ruhig.",
                 "hu": "Gyakran kevesebb a látogató, mint nyáron, nagyon csendes.",
                 "ro": "Adesea mai puțini vizitatori decât vara, foarte liniștit.",
-                "en": "Often fewer visitors than in summer, very peaceful."
+                "en": "Often fewer visitors than in summer, very peaceful.",
+                "es": "A menudo hay menos visitantes que en verano, muy tranquilo."
               }
             },
             {
@@ -623,7 +675,8 @@
                 "de": "Die Wintersonne sorgt für tolles Fotolicht.",
                 "hu": "A téli napfény kiváló fényeket ad a fotózáshoz.",
                 "ro": "Soarele de iarnă oferă o lumină excelentă pentru poze.",
-                "en": "The winter sun provides great lighting for photography."
+                "en": "The winter sun provides great lighting for photography.",
+                "es": "El sol invernal ofrece una gran luz para la fotografía."
               }
             },
             {
@@ -632,7 +685,8 @@
                 "de": "Frühzeitiger Aufbruch nötig, Sonnenuntergang gegen 18 Uhr.",
                 "hu": "Induljon időben, a napnyugta 18 óra körül van.",
                 "ro": "Plecați din timp, apusul este în jur de ora 18:00.",
-                "en": "Start early, sunset is around 6 PM in winter."
+                "en": "Start early, sunset is around 6 PM in winter.",
+                "es": "Empieza temprano, el atardecer está sobre las 18:00 en invierno."
               }
             },
             {
@@ -641,7 +695,8 @@
                 "de": "Ein besinnlicher Ort in der Abenddämmerung.",
                 "hu": "Meghitt hely az esti szürkületben.",
                 "ro": "Un loc contemplativ la amurg.",
-                "en": "A contemplative place during twilight."
+                "en": "A contemplative place during twilight.",
+                "es": "Un lugar para la contemplación durante el crepúsculo."
               }
             }
           ],
@@ -673,6 +728,13 @@
               "Sunset is between 5:30 PM and 6:30 PM.",
               "The air is often clearer in winter for long-distance views.",
               "Hot chocolate in the local cafes is a must."
+            ],
+            "es": [
+              "Se recomienda llevar ropa de capas.",
+              "Muchas tiendas pequeñas tienen horarios reducidos en invierno.",
+              "El atardecer oscila entre las 17:30 y las 18:30.",
+              "El aire suele estar más claro en invierno para vistas de larga distancia.",
+              "El chocolate caliente en los cafés locales es imprescindible."
             ]
           }
         }
@@ -691,7 +753,8 @@
             "de": "Puerto Viejo",
             "hu": "Régi Kikötő",
             "ro": "Portul Vechi",
-            "en": "Old Port"
+            "en": "Old Port",
+            "es": "Puerto Viejo"
           },
           "coords": [
             -6.1451,
@@ -706,7 +769,8 @@
             "de": "Starten Sie am Wasser, bevor die Tagestouristen kommen.",
             "hu": "Kezdd a vízparton, mielőtt megérkeznek a turisták.",
             "ro": "Începe pe malul apei înainte de sosirea turiștilor.",
-            "en": "Start at the waterfront before the day tourists arrive."
+            "en": "Start at the waterfront before the day tourists arrive.",
+            "es": "Comienza en el paseo marítimo antes de que lleguen los turistas del día."
           }
         },
         {
@@ -714,7 +778,8 @@
             "de": "Palacio de los Selgas",
             "hu": "Selgas palota",
             "ro": "Palatul Selgas",
-            "en": "Selgas Palace"
+            "en": "Selgas Palace",
+            "es": "Palacio de Selgas"
           },
           "coords": [
             -6.1555,
@@ -729,7 +794,8 @@
             "de": "Wird oft als das 'asturische Versailles' bezeichnet.",
             "hu": "Gyakran az 'asztúriai Versailles'-ként emlegetik.",
             "ro": "Deseori numit 'Versailles-ul asturian'.",
-            "en": "Often called the 'Asturian Versailles'."
+            "en": "Often called the 'Asturian Versailles'.",
+            "es": "A menudo llamado el 'Versalles asturiano'."
           }
         },
         {
@@ -737,7 +803,8 @@
             "de": "Ermita de Santa Ana de Montarés",
             "hu": "Szent Anna de Montarés kápolna",
             "ro": "Ermitul Santa Ana de Montarés",
-            "en": "Santa Ana de Montarés Hermitage"
+            "en": "Santa Ana de Montarés Hermitage",
+            "es": "Ermita de Santa Ana de Montarés"
           },
           "coords": [
             -6.175,
@@ -752,7 +819,8 @@
             "de": "Eine anspruchsvolle Fahrt bergauf mit lohnender Aussicht.",
             "hu": "Kihívást jelentő emelkedő, megéri a kilátásért.",
             "ro": "O urcare provocatoare, dar vederea merită efortul.",
-            "en": "A challenging uphill ride with rewarding views."
+            "en": "A challenging uphill ride with rewarding views.",
+            "es": "Una subida exigente con vistas que recompensan el esfuerzo."
           }
         },
         {
@@ -760,7 +828,8 @@
             "de": "Mirador del Baluarte",
             "hu": "Baluarte kilátó",
             "ro": "Mirador del Baluarte",
-            "en": "Baluarte Viewpoint"
+            "en": "Baluarte Viewpoint",
+            "es": "Mirador del Baluarte"
           },
           "coords": [
             -6.1475,
@@ -775,7 +844,8 @@
             "de": "Perfekter Ort für ein Panoramafoto nach der Abfahrt.",
             "hu": "Tökéletes hely egy panorámafotóhoz a leereszkedés után.",
             "ro": "Loc perfect pentru o poză panoramică după coborâre.",
-            "en": "Perfect spot for a panoramic photo after the descent."
+            "en": "Perfect spot for a panoramic photo after the descent.",
+            "es": "Lugar perfecto para una foto panorámica tras el descenso."
           }
         },
         {
@@ -783,7 +853,8 @@
             "de": "Plaza de la Marina",
             "hu": "Plaza de la Marina",
             "ro": "Plaza de la Marina",
-            "en": "Plaza de la Marina"
+            "en": "Plaza de la Marina",
+            "es": "Plaza de la Marina"
           },
           "coords": [
             -6.1462,
@@ -798,7 +869,8 @@
             "de": "Verdientes Mittagessen in einem der vielen Restaurants.",
             "hu": "Megérdemelt ebéd a számos étterem egyikében.",
             "ro": "Prânz binemeritat la unul dintre multele restaurante.",
-            "en": "Well-deserved lunch at one of the many restaurants."
+            "en": "Well-deserved lunch at one of the many restaurants.",
+            "es": "Almuerzo bien merecido en uno de los muchos restaurantes."
           }
         }
       ],
@@ -806,7 +878,8 @@
         "de": "Diese Radtour verbindet die Küstenatmosphäre von Cudillero mit dem majestätischen Selgas-Palast in El Pito. Nach dem Start im Hafen radeln Sie landeinwärts zu den beeindruckenden Gärten des Palastes. Die Route führt weiter bergauf zur Ermita de Santa Ana, von wo aus Sie einen weiten Blick über die grünen Hügel Asturiens haben, bevor Sie zum Baluarte-Aussichtspunkt und schließlich zum Dorfzentrum zurückkehren.",
         "hu": "Ez a kerékpártúra ötvözi Cudillero tengerparti hangulatát az El Pito-ban található fenséges Selgas-palotával. A kikötői kezdés után tekerjen a szárazföld belseje felé a palota lenyűgöző kertjeihez. Az útvonal tovább halad felfelé a Szent Anna-kápolnához, ahonnan tágas kilátás nyílik Asztúria zöld dombjaira, mielőtt visszatérne a Baluarte kilátóhoz, majd végül a falu központjába.",
         "ro": "Acest tur cu bicicleta combină atmosfera de coastă din Cudillero cu maiestuosul Palat Selgas din El Pito. După plecarea din port, pedalați spre interiorul țării către grădinile impresionante ale palatului. Traseul continuă în urcare spre capela Santa Ana, de unde aveți o vedere largă peste dealurile verzi ale Asturiei, înainte de a reveni la punctul de observație Baluarte și, în final, în centrul satului.",
-        "en": "This bike tour combines Cudillero's coastal atmosphere with the majestic Selgas Palace in El Pito. After starting at the port, pedal inland to the palace's impressive gardens. The route continues uphill to the Santa Ana Hermitage, offering broad views over Asturias' green hills, before returning to the Baluarte viewpoint and finally back to the village center."
+        "en": "This bike tour combines Cudillero's coastal atmosphere with the majestic Selgas Palace in El Pito. After starting at the port, pedal inland to the palace's impressive gardens. The route continues uphill to the Santa Ana Hermitage, offering broad views over Asturias' green hills, before returning to the Baluarte viewpoint and finally back to the village center.",
+        "es": "Este recorrido en bici combina el ambiente costero de Cudillero con el majestuoso Palacio de Selgas en El Pito. Tras partir del puerto, pedalea hacia el interior hasta los impresionantes jardines del palacio. La ruta continúa en ascenso hasta la ermita de Santa Ana, que ofrece amplias vistas sobre las colinas verdes de Asturias, antes de regresar al mirador del Baluarte y, finalmente, al centro del pueblo."
       },
       "gastro_picks": {
         "de": [
@@ -906,6 +979,10 @@
         "en": [
           "An e-bike is highly recommended for the Asturian climbs.",
           "Watch out for traffic on the narrow country roads."
+        ],
+        "es": [
+          "Se recomienda encarecidamente una e-bike para las subidas asturianas.",
+          "Atento al tráfico en las estrechas carreteras rurales."
         ]
       },
       "variants": {
@@ -914,7 +991,8 @@
             "de": "Diese Radtour verbindet die Küstenatmosphäre von Cudillero mit dem majestätischen Selgas-Palast in El Pito. Nach dem Start im Hafen radeln Sie landeinwärts zu den beeindruckenden Gärten des Palastes. Die Route führt weiter bergauf zur Ermita de Santa Ana, von wo aus Sie einen weiten Blick über die grünen Hügel Asturiens haben, bevor Sie zum Baluarte-Aussichtspunkt und schließlich zum Dorfzentrum zurückkehren.",
             "hu": "Ez a kerékpártúra ötvözi Cudillero tengerparti hangulatát az El Pito-ban található fenséges Selgas-palotával. A kikötői kezdés után tekerjen a szárazföld belseje felé a palota lenyűgöző kertjeihez. Az útvonal tovább halad felfelé a Szent Anna-kápolnához, ahonnan tágas kilátás nyílik Asztúria zöld dombjaira, mielőtt visszatérne a Baluarte kilátóhoz, majd végül a falu központjába.",
             "ro": "Acest tur cu bicicleta combină atmosfera de coastă din Cudillero cu maiestuosul Palat Selgas din El Pito. După plecarea din port, pedalați spre interiorul țării către grădinile impresionante ale palatului. Traseul continuă în urcare spre capela Santa Ana, de unde aveți o vedere largă peste dealurile verzi ale Asturiei, înainte de a reveni la punctul de observație Baluarte și, în final, în centrul satului.",
-            "en": "This bike tour combines Cudillero's coastal atmosphere with the majestic Selgas Palace in El Pito. After starting at the port, pedal inland to the palace's impressive gardens. The route continues uphill to the Santa Ana Hermitage, offering broad views over Asturias' green hills, before returning to the Baluarte viewpoint and finally back to the village center."
+            "en": "This bike tour combines Cudillero's coastal atmosphere with the majestic Selgas Palace in El Pito. After starting at the port, pedal inland to the palace's impressive gardens. The route continues uphill to the Santa Ana Hermitage, offering broad views over Asturias' green hills, before returning to the Baluarte viewpoint and finally back to the village center.",
+            "es": "Este recorrido en bici combina el ambiente costero de Cudillero con el majestuoso Palacio de Selgas en El Pito. Tras partir del puerto, pedalea hacia el interior hasta los impresionantes jardines del palacio. La ruta continúa en ascenso hasta la ermita de Santa Ana, que ofrece amplias vistas sobre las colinas verdes de Asturias, antes de regresar al mirador del Baluarte y, finalmente, al centro del pueblo."
           },
           "stops": [
             {
@@ -922,13 +1000,15 @@
                 "de": "Puerto Viejo",
                 "hu": "Régi Kikötő",
                 "ro": "Portul Vechi",
-                "en": "Old Port"
+                "en": "Old Port",
+                "es": "Puerto Viejo"
               },
               "tip_5lang": {
                 "de": "Starten Sie am Wasser, bevor die Tagestouristen kommen.",
                 "hu": "Kezdd a vízparton, mielőtt megérkeznek a turisták.",
                 "ro": "Începe pe malul apei înainte de sosirea turiștilor.",
-                "en": "Start at the waterfront before the day tourists arrive."
+                "en": "Start at the waterfront before the day tourists arrive.",
+                "es": "Comienza en el paseo marítimo antes de que lleguen los turistas del día."
               }
             },
             {
@@ -936,13 +1016,15 @@
                 "de": "Palacio de los Selgas",
                 "hu": "Selgas palota",
                 "ro": "Palatul Selgas",
-                "en": "Selgas Palace"
+                "en": "Selgas Palace",
+                "es": "Palacio de Selgas"
               },
               "tip_5lang": {
                 "de": "Wird oft als das 'asturische Versailles' bezeichnet.",
                 "hu": "Gyakran az 'asztúriai Versailles'-ként emlegetik.",
                 "ro": "Deseori numit 'Versailles-ul asturian'.",
-                "en": "Often called the 'Asturian Versailles'."
+                "en": "Often called the 'Asturian Versailles'.",
+                "es": "A menudo llamado el 'Versalles asturiano'."
               }
             },
             {
@@ -950,13 +1032,15 @@
                 "de": "Ermita de Santa Ana de Montarés",
                 "hu": "Szent Anna de Montarés kápolna",
                 "ro": "Ermitul Santa Ana de Montarés",
-                "en": "Santa Ana de Montarés Hermitage"
+                "en": "Santa Ana de Montarés Hermitage",
+                "es": "Ermita de Santa Ana de Montarés"
               },
               "tip_5lang": {
                 "de": "Eine anspruchsvolle Fahrt bergauf mit lohnender Aussicht.",
                 "hu": "Kihívást jelentő emelkedő, megéri a kilátásért.",
                 "ro": "O urcare provocatoare, dar vederea merită efortul.",
-                "en": "A challenging uphill ride with rewarding views."
+                "en": "A challenging uphill ride with rewarding views.",
+                "es": "Una subida exigente con vistas que recompensan el esfuerzo."
               }
             },
             {
@@ -964,13 +1048,15 @@
                 "de": "Mirador del Baluarte",
                 "hu": "Baluarte kilátó",
                 "ro": "Mirador del Baluarte",
-                "en": "Baluarte Viewpoint"
+                "en": "Baluarte Viewpoint",
+                "es": "Mirador del Baluarte"
               },
               "tip_5lang": {
                 "de": "Perfekter Ort für ein Panoramafoto nach der Abfahrt.",
                 "hu": "Tökéletes hely egy panorámafotóhoz a leereszkedés után.",
                 "ro": "Loc perfect pentru o poză panoramică după coborâre.",
-                "en": "Perfect spot for a panoramic photo after the descent."
+                "en": "Perfect spot for a panoramic photo after the descent.",
+                "es": "Lugar perfecto para una foto panorámica tras el descenso."
               }
             },
             {
@@ -978,13 +1064,15 @@
                 "de": "Plaza de la Marina",
                 "hu": "Plaza de la Marina",
                 "ro": "Plaza de la Marina",
-                "en": "Plaza de la Marina"
+                "en": "Plaza de la Marina",
+                "es": "Plaza de la Marina"
               },
               "tip_5lang": {
                 "de": "Verdientes Mittagessen in einem der vielen Restaurants.",
                 "hu": "Megérdemelt ebéd a számos étterem egyikében.",
                 "ro": "Prânz binemeritat la unul dintre multele restaurante.",
-                "en": "Well-deserved lunch at one of the many restaurants."
+                "en": "Well-deserved lunch at one of the many restaurants.",
+                "es": "Almuerzo bien merecido en uno de los muchos restaurantes."
               }
             }
           ],
@@ -1086,6 +1174,10 @@
             "en": [
               "An e-bike is highly recommended for the Asturian climbs.",
               "Watch out for traffic on the narrow country roads."
+            ],
+            "es": [
+              "Se recomienda encarecidamente una e-bike para las subidas asturianas.",
+              "Atento al tráfico en las estrechas carreteras rurales."
             ]
           }
         },
@@ -1094,7 +1186,8 @@
             "de": "Eine nasse Tour durch den asturischen Küstennebel. Der Morgen am Hafen erfordert Vorsicht auf den Steinen. Der Selgas-Palast bietet mittags eine kulturelle Pause im Trockenen.\nNachmittags geht es bergauf zur Einsiedelei Santa Ana, wobei der Regen die Landschaft saftig grün erscheinen lässt. Der Baluarte-Aussichtspunkt zeigt die wilde See.\nDer Tag endet an der Plaza de la Marina, wo das Fahrrad sicher geparkt werden kann, während man sich drinnen aufwärmt.",
             "hu": "Vizes túra az asztúriai parti ködben. A reggel a kikötőben óvatosságot igényel a köveken. A Selgas-palota délben kulturális szünetet nyújt a szárazban.\nDélután az emelkedő a Santa Ana-remetelakhoz vezet, ahol az eső harsogó zölddé varázsolja a tájat. A Baluarte kilátó a vad tengert mutatja.\nA nap a Plaza de la Marina-nál ér véget, ahol biztonságban leparkolhat, miközben bent felmelegszik.",
             "ro": "O tură umedă prin ceața de coastă asturiană. Dimineața în port necesită prudență pe pietre. Palatul Selgas oferă la prânz o pauză culturală la uscat.\nDupă-amiaza se urcă spre schitul Santa Ana, ploaia făcând peisajul să pară de un verde crud. Belvedere Baluarte arată marea sălbatică.\nZiua se încheie în Plaza de la Marina, unde bicicleta poate fi parcată în siguranță cât timp vă încălziți în interior.",
-            "en": "A wet tour through the Asturian coastal mist. The morning at the port requires caution on the stones. Selgas Palace offers a cultural break in the dry at midday.\nIn the afternoon, the climb leads to Santa Ana Hermitage, where the rain makes the landscape look lush and green. The Baluarte Viewpoint shows the wild sea.\nThe day ends at Plaza de la Marina, where the bike can be safely parked while you warm up inside."
+            "en": "A wet tour through the Asturian coastal mist. The morning at the port requires caution on the stones. Selgas Palace offers a cultural break in the dry at midday.\nIn the afternoon, the climb leads to Santa Ana Hermitage, where the rain makes the landscape look lush and green. The Baluarte Viewpoint shows the wild sea.\nThe day ends at Plaza de la Marina, where the bike can be safely parked while you warm up inside.",
+            "es": "Un día húmedo entre la niebla costera asturiana. Por la mañana, en el puerto, hay que tener cuidado con las piedras. El Palacio de Selgas ofrece un descanso cultural y seco al mediodía.\nPor la tarde, la subida conduce a la ermita de Santa Ana, donde la lluvia hace que el paisaje se vea exuberante y verde. El mirador del Baluarte muestra el mar bravo.\nEl día termina en la Plaza de la Marina, donde la bici puede aparcarse con seguridad mientras entras a calentarte."
           },
           "stops": [
             {
@@ -1103,7 +1196,8 @@
                 "de": "Vorsicht, Holzstege und Kopfsteinpflaster sind sehr glatt.",
                 "hu": "Vigyázat, a fapallók és a macskakő nagyon csúszik.",
                 "ro": "Atenție, podețele de lemn și pavajul sunt foarte alunecoase.",
-                "en": "Caution, wooden walkways and cobblestones are very slick."
+                "en": "Caution, wooden walkways and cobblestones are very slick.",
+                "es": "Precaución: pasarelas de madera y empedrados muy resbaladizos."
               }
             },
             {
@@ -1112,7 +1206,8 @@
                 "de": "Nutzen Sie die Innenbesichtigung, um trocken zu bleiben.",
                 "hu": "Használja ki a belső tárlatvezetést, hogy száraz maradjon.",
                 "ro": "Vizitați interiorul pentru a rămâne uscat.",
-                "en": "Take the indoor tour to stay dry."
+                "en": "Take the indoor tour to stay dry.",
+                "es": "Haz la visita interior para mantenerte seco."
               }
             },
             {
@@ -1121,7 +1216,8 @@
                 "de": "Der Anstieg hält warm, aber Abfahrt ist windanfällig.",
                 "hu": "A felfelé út melegen tart, de a lejtőn szélre kell számítani.",
                 "ro": "Urcarea vă ține de cald, dar coborârea este expusă vântului.",
-                "en": "The climb keeps you warm, but the descent is windy."
+                "en": "The climb keeps you warm, but the descent is windy.",
+                "es": "La subida te mantiene caliente, pero el descenso es ventoso."
               }
             },
             {
@@ -1130,7 +1226,8 @@
                 "de": "Kurzer Stopp für Fotos, dann schnell weiter ins Dorf.",
                 "hu": "Rövid fotómegálló, majd gyorsan vissza a faluba.",
                 "ro": "Oprire scurtă pentru poze, apoi rapid înapoi în sat.",
-                "en": "Short photo stop, then head back quickly to the village."
+                "en": "Short photo stop, then head back quickly to the village.",
+                "es": "Parada corta para fotos y vuelve rápido al pueblo."
               }
             },
             {
@@ -1139,7 +1236,8 @@
                 "de": "Parken Sie unter einem Dachvorsprung.",
                 "hu": "Parkoljon egy tetőnyúlvány alatt.",
                 "ro": "Parcați sub o streșină.",
-                "en": "Park under a roof overhang."
+                "en": "Park under a roof overhang.",
+                "es": "Aparca bajo un alero."
               }
             }
           ],
@@ -1171,6 +1269,13 @@
               "Brake very carefully on wet cobblestones.",
               "Stick to paved roads rather than forest paths.",
               "A warm tea at the Marina works wonders."
+            ],
+            "es": [
+              "Los guardabarros en la bici son una bendición con este tiempo.",
+              "Lleva guantes impermeables para mejor agarre.",
+              "Frena con mucha precaución sobre empedrados mojados.",
+              "Mantente en carreteras asfaltadas en lugar de pistas forestales.",
+              "Un té caliente en la Marina hace maravillas."
             ]
           }
         },
@@ -1179,7 +1284,8 @@
             "de": "Frische Winterluft und klare Sicht auf der Radtour. Der Hafen ist morgens ruhig und die Luft salzig. Der Selgas-Palast glänzt im tiefen Sonnenlicht, die Gärten ruhen.\nNachmittags fordert der Anstieg nach Santa Ana Ihre Kondition, belohnt aber mit Panoramablicken. Die Abfahrt zum Baluarte-Punkt ist kühl, aber belebend.\nAbends kehren Sie zur Plaza de la Marina zurück, wo die Cidre-Häuser für eine warme Atmosphäre sorgen.",
             "hu": "Friss téli levegő és tiszta kilátás a kerékpártúrán. A kikötő reggel nyugodt, a levegő sós. A Selgas-palota ragyog az alacsony napfényben, a kertek pihennek.\nDélután a Santa Ana-hoz vezető emelkedő próbára teszi az erőnlétet, de panorámával jutalmaz. A lejtő a Baluarte-ponthoz hűvös, de élénkítő.\nEste térjen vissza a Plaza de la Marina-hoz, ahol a szidraházak meleg hangulata várja.",
             "ro": "Aer curat de iarnă și vizibilitate clară în tura cu bicicleta. Portul este liniștit dimineața. Palatul Selgas strălucește în lumina joasă a soarelui.\nDupă-amiaza, urcarea spre Santa Ana vă testează condiția fizică, dar vă răsplătește cu panorame. Coborârea spre Baluarte este răcoroasă, dar revigorantă.\nSeara reveniți în Plaza de la Marina, unde localurile cu cidru oferă o atmosferă caldă.",
-            "en": "Crisp winter air and clear views on your bike tour. The port is quiet in the morning, the air salty. Selgas Palace shines in the low sunlight while the gardens rest.\nIn the afternoon, the climb to Santa Ana tests your fitness but rewards you with panoramas. The descent to Baluarte is cool but invigorating.\nIn the evening, return to Plaza de la Marina, where the cider houses provide a warm atmosphere."
+            "en": "Crisp winter air and clear views on your bike tour. The port is quiet in the morning, the air salty. Selgas Palace shines in the low sunlight while the gardens rest.\nIn the afternoon, the climb to Santa Ana tests your fitness but rewards you with panoramas. The descent to Baluarte is cool but invigorating.\nIn the evening, return to Plaza de la Marina, where the cider houses provide a warm atmosphere.",
+            "es": "Aire invernal y vistas nítidas en tu ruta en bici. El puerto está tranquilo por la mañana, el aire salino. El Palacio de Selgas brilla con la luz baja mientras los jardines reposan.\nPor la tarde, la subida a Santa Ana pone a prueba tu forma pero recompensa con panoramas. El descenso al Baluarte es fresco pero vigorizante.\nPor la noche, regresa a la Plaza de la Marina, donde las sidrerías ofrecen un ambiente cálido."
           },
           "stops": [
             {
@@ -1188,7 +1294,8 @@
                 "de": "Achten Sie auf Glatteisbildung in schattigen Ecken.",
                 "hu": "Ügyeljen a jegesedésre az árnyékos sarkokban.",
                 "ro": "Atenție la porțiunile cu gheață în zonele umbrite.",
-                "en": "Watch out for icy patches in shaded corners."
+                "en": "Watch out for icy patches in shaded corners.",
+                "es": "Cuidado con placas de hielo en rincones sombríos."
               }
             },
             {
@@ -1197,7 +1304,8 @@
                 "de": "Prüfen Sie die Winteröffnungszeiten im Voraus.",
                 "hu": "Ellenőrizze előre a téli nyitvatartást.",
                 "ro": "Verificați programul de iarnă în avans.",
-                "en": "Check winter opening hours in advance."
+                "en": "Check winter opening hours in advance.",
+                "es": "Comprueba los horarios de invierno con antelación."
               }
             },
             {
@@ -1206,7 +1314,8 @@
                 "de": "Warme Kleidung für die Abfahrt bereithalten.",
                 "hu": "Legyen kéznél meleg ruha a lejtőhöz.",
                 "ro": "Pregătiți haine groase pentru coborâre.",
-                "en": "Have warm clothes ready for the descent."
+                "en": "Have warm clothes ready for the descent.",
+                "es": "Ten ropa abrigada lista para el descenso."
               }
             },
             {
@@ -1215,7 +1324,8 @@
                 "de": "Perfekt für das Goldene-Stunde-Foto im Winter.",
                 "hu": "Tökéletes hely a téli 'aranyóra' fotókhoz.",
                 "ro": "Perfect pentru poze la 'ora de aur' iarna.",
-                "en": "Perfect for golden hour photos in winter."
+                "en": "Perfect for golden hour photos in winter.",
+                "es": "Perfecto para fotos durante la hora dorada en invierno."
               }
             },
             {
@@ -1224,7 +1334,8 @@
                 "de": "Suchen Sie einen Platz nahe der Heizstrahler.",
                 "hu": "Keressen helyet a hősugárzók közelében.",
                 "ro": "Căutați un loc lângă radiatoarele de terasă.",
-                "en": "Find a spot near the patio heaters."
+                "en": "Find a spot near the patio heaters.",
+                "es": "Busca un sitio cerca de los calefactores de patio."
               }
             }
           ],
@@ -1256,6 +1367,13 @@
               "Mountain roads can be slippery in the mornings.",
               "Carry a thermos with a hot drink.",
               "Plan to return before darkness sets in."
+            ],
+            "es": [
+              "Las luces de la bici son obligatorias después de las 17:00.",
+              "Lleva capas térmicas bajo la ropa de ciclismo.",
+              "Las carreteras de montaña pueden estar resbaladizas por la mañana.",
+              "Lleva un termo con bebida caliente.",
+              "Planea volver antes de que caiga la noche."
             ]
           }
         }
@@ -1274,7 +1392,8 @@
             "de": "Palacio de los Selgas",
             "hu": "Selgas palota",
             "ro": "Palatul Selgas",
-            "en": "Selgas Palace"
+            "en": "Selgas Palace",
+            "es": "Palacio de Selgas"
           },
           "coords": [
             -6.1555,
@@ -1289,7 +1408,8 @@
             "de": "Buchen Sie Ihre Tickets im Voraus für die Innenbesichtigung.",
             "hu": "Foglaljon jegyet előre a belső látogatáshoz.",
             "ro": "Rezervă biletele în avans pentru vizitarea interiorului.",
-            "en": "Book your tickets in advance for the interior visit."
+            "en": "Book your tickets in advance for the interior visit.",
+            "es": "Reserva tus entradas con antelación para la visita interior."
           }
         },
         {
@@ -1297,7 +1417,8 @@
             "de": "Plaza de la Marina",
             "hu": "Plaza de la Marina",
             "ro": "Plaza de la Marina",
-            "en": "Plaza de la Marina"
+            "en": "Plaza de la Marina",
+            "es": "Plaza de la Marina"
           },
           "coords": [
             -6.1462,
@@ -1312,7 +1433,8 @@
             "de": "Parken Sie im Hafenbereich, bevor Sie das Zentrum betreten.",
             "hu": "Parkoljon a kikötőben, mielőtt besétálna a központba.",
             "ro": "Parchează în zona portului înainte de a intra în centru.",
-            "en": "Park in the harbor area before entering the center."
+            "en": "Park in the harbor area before entering the center.",
+            "es": "Aparca en la zona del puerto antes de entrar al centro."
           }
         },
         {
@@ -1320,7 +1442,8 @@
             "de": "Puerto Viejo",
             "hu": "Régi Kikötő",
             "ro": "Portul Vechi",
-            "en": "Old Port"
+            "en": "Old Port",
+            "es": "Puerto Viejo"
           },
           "coords": [
             -6.1451,
@@ -1335,7 +1458,8 @@
             "de": "Ideal für ein ausgiebiges Mittagessen am Meer.",
             "hu": "Ideális egy kiadós tengerparti ebédhez.",
             "ro": "Ideal pentru un prânz copios lângă mare.",
-            "en": "Ideal for a hearty lunch by the sea."
+            "en": "Ideal for a hearty lunch by the sea.",
+            "es": "Ideal para un contundente almuerzo junto al mar."
           }
         },
         {
@@ -1343,7 +1467,8 @@
             "de": "Faro de Cudillero",
             "hu": "Cudilleroi világítótorony",
             "ro": "Farul din Cudillero",
-            "en": "Cudillero Lighthouse"
+            "en": "Cudillero Lighthouse",
+            "es": "Faro de Cudillero"
           },
           "coords": [
             -6.1422,
@@ -1358,7 +1483,8 @@
             "de": "Kurzer Spaziergang vom Parkplatz zum Leuchtturm.",
             "hu": "Rövid séta a parkolótól a világítótoronyig.",
             "ro": "Scurtă plimbare de la parcare până la far.",
-            "en": "Short walk from the parking to the lighthouse."
+            "en": "Short walk from the parking to the lighthouse.",
+            "es": "Corta caminata desde el aparcamiento hasta el faro."
           }
         },
         {
@@ -1366,7 +1492,8 @@
             "de": "Mirador del Pico",
             "hu": "Mirador del Pico",
             "ro": "Mirador del Pico",
-            "en": "Mirador del Pico"
+            "en": "Mirador del Pico",
+            "es": "Mirador del Pico"
           },
           "coords": [
             -6.145,
@@ -1381,7 +1508,8 @@
             "de": "Geringere Steigung als andere Aussichtspunkte.",
             "hu": "Kisebb emelkedő, mint a többi kilátópontnál.",
             "ro": "Pantă mai mică decât la celelalte puncte de observație.",
-            "en": "Lower incline than other viewpoints."
+            "en": "Lower incline than other viewpoints.",
+            "es": "Inclinación más suave que otros miradores."
           }
         },
         {
@@ -1389,7 +1517,8 @@
             "de": "Cabo Vidio (Exkursion)",
             "hu": "Cabo Vidio (kirándulás)",
             "ro": "Cabo Vidio (excursie)",
-            "en": "Cabo Vidio (excursion)"
+            "en": "Cabo Vidio (excursion)",
+            "es": "Cabo Vidio (excursión)"
           },
           "coords": [
             -6.245,
@@ -1404,7 +1533,8 @@
             "de": "Atemberaubende Klippen, nur eine kurze Fahrt entfernt.",
             "hu": "Lélegzetelállító sziklák, csak egy rövid autóútra.",
             "ro": "Stânci uluitoare la doar o scurtă călătorie cu mașina.",
-            "en": "Breathtaking cliffs just a short drive away."
+            "en": "Breathtaking cliffs just a short drive away.",
+            "es": "Impresionantes acantilados a poca distancia en coche."
           }
         }
       ],
@@ -1412,7 +1542,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die Höhepunkte von Cudillero und seiner Umgebung. Beginnen Sie mit dem eleganten Selgas-Palast, bevor Sie ins Dorfzentrum fahren. Genießen Sie ein Mittagessen im Hafen und erkunden Sie die Aussichtspunkte. Zum Abschluss machen Sie einen Ausflug zum nahe gelegenen Cabo Vidio, um einige der spektakulärsten Klippen Asturiens zu sehen.",
         "hu": "Autóval kényelmesen elérheti Cudillero és környéke fénypontjait. Kezdje az elegáns Selgas-palotával, mielőtt a falu központjába hajtana. Élvezze az ebédet a kikötőben, és fedezze fel a kilátópontokat. Befejezésül tegyen egy kirándulást a közeli Cabo Vidio-hoz, hogy megtekintse Asztúria leglátványosabb szikláit.",
         "ro": "Cu mașina puteți ajunge confortabil la punctele culminante din Cudillero și împrejurimi. Începeți cu elegantul Palat Selgas înainte de a merge în centrul satului. Savurați un prânz în port și explorați punctele de observație. La final, faceți o excursie la Cabo Vidio din apropiere pentru a vedea unele dintre cele mai spectaculoase stânci din Asturias.",
-        "en": "By car, you can comfortably reach the highlights of Cudillero and its surroundings. Start with the elegant Selgas Palace before driving into the village center. Enjoy lunch at the port and explore the viewpoints. To finish, take a trip to nearby Cabo Vidio to see some of Asturias' most spectacular cliffs."
+        "en": "By car, you can comfortably reach the highlights of Cudillero and its surroundings. Start with the elegant Selgas Palace before driving into the village center. Enjoy lunch at the port and explore the viewpoints. To finish, take a trip to nearby Cabo Vidio to see some of Asturias' most spectacular cliffs.",
+        "es": "En coche puedes visitar con comodidad los puntos destacados de Cudillero y sus alrededores. Empieza por el elegante Palacio de Selgas antes de conducir al centro del pueblo. Disfruta de la comida en el puerto y explora los miradores. Para terminar, haz una excursión a Cabo Vidio para ver algunos de los acantilados más espectaculares de Asturias."
       },
       "gastro_picks": {
         "de": [
@@ -1512,6 +1643,10 @@
         "en": [
           "Harbor parking fills up quickly in summer.",
           "Use the large parking lot at the village entrance."
+        ],
+        "es": [
+          "El aparcamiento del puerto se llena rápido en verano.",
+          "Usa el gran aparcamiento en la entrada del pueblo."
         ]
       },
       "variants": {
@@ -1520,7 +1655,8 @@
             "de": "Mit dem Auto erreichen Sie bequem die Höhepunkte von Cudillero und seiner Umgebung. Beginnen Sie mit dem eleganten Selgas-Palast, bevor Sie ins Dorfzentrum fahren. Genießen Sie ein Mittagessen im Hafen und erkunden Sie die Aussichtspunkte. Zum Abschluss machen Sie einen Ausflug zum nahe gelegenen Cabo Vidio, um einige der spektakulärsten Klippen Asturiens zu sehen.",
             "hu": "Autóval kényelmesen elérheti Cudillero és környéke fénypontjait. Kezdje az elegáns Selgas-palotával, mielőtt a falu központjába hajtana. Élvezze az ebédet a kikötőben, és fedezze fel a kilátópontokat. Befejezésül tegyen egy kirándulást a közeli Cabo Vidio-hoz, hogy megtekintse Asztúria leglátványosabb szikláit.",
             "ro": "Cu mașina puteți ajunge confortabil la punctele culminante din Cudillero și împrejurimi. Începeți cu elegantul Palat Selgas înainte de a merge în centrul satului. Savurați un prânz în port și explorați punctele de observație. La final, faceți o excursie la Cabo Vidio din apropiere pentru a vedea unele dintre cele mai spectaculoase stânci din Asturias.",
-            "en": "By car, you can comfortably reach the highlights of Cudillero and its surroundings. Start with the elegant Selgas Palace before driving into the village center. Enjoy lunch at the port and explore the viewpoints. To finish, take a trip to nearby Cabo Vidio to see some of Asturias' most spectacular cliffs."
+            "en": "By car, you can comfortably reach the highlights of Cudillero and its surroundings. Start with the elegant Selgas Palace before driving into the village center. Enjoy lunch at the port and explore the viewpoints. To finish, take a trip to nearby Cabo Vidio to see some of Asturias' most spectacular cliffs.",
+            "es": "En coche puedes visitar con comodidad los puntos destacados de Cudillero y sus alrededores. Empieza por el elegante Palacio de Selgas antes de conducir al centro del pueblo. Disfruta de la comida en el puerto y explora los miradores. Para terminar, haz una excursión a Cabo Vidio para ver algunos de los acantilados más espectaculares de Asturias."
           },
           "stops": [
             {
@@ -1528,13 +1664,15 @@
                 "de": "Palacio de los Selgas",
                 "hu": "Selgas palota",
                 "ro": "Palatul Selgas",
-                "en": "Selgas Palace"
+                "en": "Selgas Palace",
+                "es": "Palacio de Selgas"
               },
               "tip_5lang": {
                 "de": "Buchen Sie Ihre Tickets im Voraus für die Innenbesichtigung.",
                 "hu": "Foglaljon jegyet előre a belső látogatáshoz.",
                 "ro": "Rezervă biletele în avans pentru vizitarea interiorului.",
-                "en": "Book your tickets in advance for the interior visit."
+                "en": "Book your tickets in advance for the interior visit.",
+                "es": "Reserva tus entradas con antelación para la visita interior."
               }
             },
             {
@@ -1542,13 +1680,15 @@
                 "de": "Plaza de la Marina",
                 "hu": "Plaza de la Marina",
                 "ro": "Plaza de la Marina",
-                "en": "Plaza de la Marina"
+                "en": "Plaza de la Marina",
+                "es": "Plaza de la Marina"
               },
               "tip_5lang": {
                 "de": "Parken Sie im Hafenbereich, bevor Sie das Zentrum betreten.",
                 "hu": "Parkoljon a kikötőben, mielőtt besétálna a központba.",
                 "ro": "Parchează în zona portului înainte de a intra în centru.",
-                "en": "Park in the harbor area before entering the center."
+                "en": "Park in the harbor area before entering the center.",
+                "es": "Aparca en la zona del puerto antes de entrar al centro."
               }
             },
             {
@@ -1556,13 +1696,15 @@
                 "de": "Puerto Viejo",
                 "hu": "Régi Kikötő",
                 "ro": "Portul Vechi",
-                "en": "Old Port"
+                "en": "Old Port",
+                "es": "Puerto Viejo"
               },
               "tip_5lang": {
                 "de": "Ideal für ein ausgiebiges Mittagessen am Meer.",
                 "hu": "Ideális egy kiadós tengerparti ebédhez.",
                 "ro": "Ideal pentru un prânz copios lângă mare.",
-                "en": "Ideal for a hearty lunch by the sea."
+                "en": "Ideal for a hearty lunch by the sea.",
+                "es": "Ideal para un contundente almuerzo junto al mar."
               }
             },
             {
@@ -1570,13 +1712,15 @@
                 "de": "Faro de Cudillero",
                 "hu": "Cudilleroi világítótorony",
                 "ro": "Farul din Cudillero",
-                "en": "Cudillero Lighthouse"
+                "en": "Cudillero Lighthouse",
+                "es": "Faro de Cudillero"
               },
               "tip_5lang": {
                 "de": "Kurzer Spaziergang vom Parkplatz zum Leuchtturm.",
                 "hu": "Rövid séta a parkolótól a világítótoronyig.",
                 "ro": "Scurtă plimbare de la parcare până la far.",
-                "en": "Short walk from the parking to the lighthouse."
+                "en": "Short walk from the parking to the lighthouse.",
+                "es": "Corta caminata desde el aparcamiento hasta el faro."
               }
             },
             {
@@ -1584,13 +1728,15 @@
                 "de": "Mirador del Pico",
                 "hu": "Mirador del Pico",
                 "ro": "Mirador del Pico",
-                "en": "Mirador del Pico"
+                "en": "Mirador del Pico",
+                "es": "Mirador del Pico"
               },
               "tip_5lang": {
                 "de": "Geringere Steigung als andere Aussichtspunkte.",
                 "hu": "Kisebb emelkedő, mint a többi kilátópontnál.",
                 "ro": "Pantă mai mică decât la celelalte puncte de observație.",
-                "en": "Lower incline than other viewpoints."
+                "en": "Lower incline than other viewpoints.",
+                "es": "Inclinación más suave que otros miradores."
               }
             },
             {
@@ -1598,13 +1744,15 @@
                 "de": "Cabo Vidio (Exkursion)",
                 "hu": "Cabo Vidio (kirándulás)",
                 "ro": "Cabo Vidio (excursie)",
-                "en": "Cabo Vidio (excursion)"
+                "en": "Cabo Vidio (excursion)",
+                "es": "Cabo Vidio (excursión)"
               },
               "tip_5lang": {
                 "de": "Atemberaubende Klippen, nur eine kurze Fahrt entfernt.",
                 "hu": "Lélegzetelállító sziklák, csak egy rövid autóútra.",
                 "ro": "Stânci uluitoare la doar o scurtă călătorie cu mașina.",
-                "en": "Breathtaking cliffs just a short drive away."
+                "en": "Breathtaking cliffs just a short drive away.",
+                "es": "Acantilados impresionantes a pocos minutos en coche."
               }
             }
           ],
@@ -1706,6 +1854,10 @@
             "en": [
               "Harbor parking fills up quickly in summer.",
               "Use the large parking lot at the village entrance."
+            ],
+            "es": [
+              "El aparcamiento del puerto se llena rápido en verano.",
+              "Utiliza el gran aparcamiento en la entrada del pueblo."
             ]
           }
         },
@@ -1714,7 +1866,8 @@
             "de": "Eine entspannte Fahrt durch das regnerische Asturien. Der Selgas-Palast ist am Vormittag ein perfekter Indoor-Stopp. Mittags parken Sie bequem nahe der Plaza de la Marina.\nNachmittags bietet der Hafen eine dramatische Kulisse vom Auto aus, bevor es zum Leuchtturm geht. Der Aussichtspunkt Pico zeigt Cudillero im Dunst.\nDer Tag endet mit einem Ausflug zum Cabo Vidio, wo man die tobende Brandung sicher vom Klippenrand (oder dem Auto) beobachten kann.",
             "hu": "Kényelmes autózás az esős Asztúriában. A Selgas-palota délelőtt tökéletes beltéri program. Délben parkoljon a Plaza de la Marina közelében.\nDélután a kikötő drámai látványt nyújt az autóból is, mielőtt a világítótoronyhoz hajtana. A Pico kilátó ködbe burkolózva mutatja Cudillero-t.\nA nap a Cabo Vidio-nál ér véget, ahol a tajtékzó hullámokat biztonságosan nézheti a sziklaszélről (vagy az autóból).",
             "ro": "O călătorie relaxată prin Asturia ploioasă. Palatul Selgas este o oprire perfectă în interior dimineața. La prânz, parcați confortabil lângă Plaza de la Marina.\nDupă-amiaza, portul oferă un decor dramatic văzut din mașină, înainte de a merge la far. Belvedere Pico arată satul Cudillero în ceață.\nZiua se încheie cu o excursie la Cabo Vidio, unde puteți observa marea agitată în siguranță de pe marginea falezei.",
-            "en": "A relaxed drive through rainy Asturias. Selgas Palace is a perfect indoor stop in the morning. At midday, park conveniently near Plaza de la Marina.\nIn the afternoon, the port provides a dramatic backdrop even from the car before heading to the lighthouse. Mirador del Pico shows Cudillero shrouded in mist.\nThe day ends with an excursion to Cabo Vidio, where you can safely watch the raging surf from the cliff's edge or your vehicle."
+            "en": "A relaxed drive through rainy Asturias. Selgas Palace is a perfect indoor stop in the morning. At midday, park conveniently near Plaza de la Marina.\nIn the afternoon, the port provides a dramatic backdrop even from the car before heading to the lighthouse. Mirador del Pico shows Cudillero shrouded in mist.\nThe day ends with an excursion to Cabo Vidio, where you can safely watch the raging surf from the cliff's edge or your vehicle.",
+            "es": "Un tranquilo paseo en coche por la lluviosa Asturias. El Palacio de Selgas es una parada perfecta bajo techo por la mañana. A mediodía, aparca cómodamente cerca de la Plaza de la Marina.\nPor la tarde, el puerto ofrece un telón de fondo dramático incluso desde el coche antes de dirigirte al faro. El Mirador del Pico muestra a Cudillero envuelto en niebla.\nEl día termina con una excursión a Cabo Vidio, donde puedes observar con seguridad el mar embravecido desde el borde del acantilado o desde tu vehículo."
           },
           "stops": [
             {
@@ -1723,7 +1876,8 @@
                 "de": "Großer Parkplatz vorhanden, kurzer Weg zum Eingang.",
                 "hu": "Nagy parkoló áll rendelkezésre, rövid út a bejáratig.",
                 "ro": "Parcare mare disponibilă, drum scurt până la intrare.",
-                "en": "Large parking lot available, short walk to the entrance."
+                "en": "Large parking lot available, short walk to the entrance.",
+                "es": "Gran aparcamiento disponible, corta caminata hasta la entrada."
               }
             },
             {
@@ -1732,7 +1886,8 @@
                 "de": "Nutzen Sie das Parkhaus am Dorfeingang bei Starkregen.",
                 "hu": "Heves esőben használja a falu szélén lévő parkolót.",
                 "ro": "Folosiți parcarea de la intrarea în sat în caz de ploaie torențială.",
-                "en": "Use the parking area at the village entrance during heavy rain."
+                "en": "Use the parking area at the village entrance during heavy rain.",
+                "es": "Usa el área de aparcamiento en la entrada del pueblo durante lluvias intensas."
               }
             },
             {
@@ -1741,7 +1896,8 @@
                 "de": "Vom Hafenparkplatz aus hat man gute Sicht im Trockenen.",
                 "hu": "A kikötői parkolóból jó a kilátás szárazon is.",
                 "ro": "Din parcarea portului aveți o vedere bună stând la uscat.",
-                "en": "The port parking offers a good view while staying dry."
+                "en": "The port parking offers a good view while staying dry.",
+                "es": "El aparcamiento del puerto ofrece buena vista sin mojarse."
               }
             },
             {
@@ -1750,7 +1906,8 @@
                 "de": "Die Straße zum Leuchtturm kann bei Regen eng sein.",
                 "hu": "A világítótoronyhoz vezető út esőben szűkös lehet.",
                 "ro": "Drumul spre far poate fi îngust pe ploaie.",
-                "en": "The road to the lighthouse can be narrow in the rain."
+                "en": "The road to the lighthouse can be narrow in the rain.",
+                "es": "La carretera al faro puede ser estrecha con lluvia."
               }
             },
             {
@@ -1759,7 +1916,8 @@
                 "de": "Achten Sie auf tiefhängende Wolken und Nebel.",
                 "hu": "Ügyeljen az alacsony felhőkre és a ködre.",
                 "ro": "Atenție la norii joși și ceață.",
-                "en": "Watch out for low-hanging clouds and mist."
+                "en": "Watch out for low-hanging clouds and mist.",
+                "es": "Cuidado con las nubes bajas y la bruma."
               }
             },
             {
@@ -1768,7 +1926,8 @@
                 "de": "Beeindruckende Wellen, bleiben Sie im Auto bei Sturm.",
                 "hu": "Lenyűgöző hullámok, viharban maradjon az autóban.",
                 "ro": "Valuri impresionante, rămâneți în mașină în caz de furtună.",
-                "en": "Impressive waves, stay in the car during storms."
+                "en": "Impressive waves, stay in the car during storms.",
+                "es": "Olas impresionantes; permanece en el coche durante las tormentas."
               }
             }
           ],
@@ -1800,6 +1959,13 @@
               "Keep an umbrella handy in the car at all times.",
               "Avoid unpaved parking lots during persistent rain.",
               "Visibility can be severely limited by fog."
+            ],
+            "es": [
+              "Revisa el estado de los limpiaparabrisas.",
+              "Las carreteras costeras pueden resbalar cuando están mojadas.",
+              "Lleva siempre un paraguas en el coche.",
+              "Evita los aparcamientos no pavimentados durante lluvias persistentes.",
+              "La visibilidad puede quedar muy limitada por la niebla."
             ]
           }
         },
@@ -1808,7 +1974,8 @@
             "de": "Eine gemütliche Wintertour entlang der Küste. Vormittags erkunden Sie den Selgas-Palast ohne die Sommerhitze. Mittags finden Sie leicht einen Parkplatz nahe der Marina.\nNachmittags genießen Sie die klare Winterluft am Hafen und beim Leuchtturm. Der Mirador del Pico bietet fantastische Fernsichten über das Gebirge.\nZum Abschluss fahren Sie zum Cabo Vidio für einen ungestörten Sonnenuntergang über dem Atlantik, bevor die Winterkälte einsetzt.",
             "hu": "Hangulatos téli túra a part mentén. Délelőtt a Selgas-palotát a nyári hőség nélkül fedezheti fel. Délben könnyen talál parkolóhelyet a Marina közelében.\nDélután élvezze a tiszta téli levegőt a kikötőben és a világítótoronynál. A Mirador del Pico fantasztikus kilátást nyújt a távoli hegyekre.\nBefejezésül hajtson a Cabo Vidio-hoz egy zavartalan naplementére az Atlanti-óceán felett.",
             "ro": "O tură de iarnă plăcută de-a lungul coastei. Dimineața explorați Palatul Selgas fără căldura verii. La prânz găsiți ușor parcare lângă Marina.\nDupă-amiaza bucurați-vă de aerul curat la port și la far. Belvedere Pico oferă vederi panoramice fantastice peste munți.\nLa final, conduceți spre Cabo Vidio pentru un apus neîntrerupt peste Atlantic înainte de lăsarea gerului.",
-            "en": "A cozy winter drive along the coast. In the morning, explore Selgas Palace without the summer heat. At midday, you'll easily find parking near the Marina.\nIn the afternoon, enjoy the crisp winter air at the port and lighthouse. Mirador del Pico offers fantastic long-distance views over the mountains.\nTo finish, drive to Cabo Vidio for an undisturbed sunset over the Atlantic before the winter chill sets in."
+            "en": "A cozy winter drive along the coast. In the morning, explore Selgas Palace without the summer heat. At midday, you'll easily find parking near the Marina.\nIn the afternoon, enjoy the crisp winter air at the port and lighthouse. Mirador del Pico offers fantastic long-distance views over the mountains.\nTo finish, drive to Cabo Vidio for an undisturbed sunset over the Atlantic before the winter chill sets in.",
+            "es": "Un acogedor paseo invernal por la costa. Por la mañana, explora el Palacio de Selgas sin el calor veraniego. A mediodía encontrarás fácilmente aparcamiento cerca de la Marina.\nPor la tarde, disfruta del aire frío del puerto y el faro. El Mirador del Pico ofrece fantásticas vistas a larga distancia sobre la sierra.\nPara terminar, conduce hasta Cabo Vidio para un atardecer tranquilo sobre el Atlántico antes de que llegue el frío invernal."
           },
           "stops": [
             {
@@ -1817,7 +1984,8 @@
                 "de": "Die Gärten sind auch im Winter sehenswert strukturiert.",
                 "hu": "A kertek szerkezete télen is látványos.",
                 "ro": "Grădinile sunt frumos structurate și merită văzute iarna.",
-                "en": "The gardens' structure is worth seeing even in winter."
+                "en": "The gardens' structure is worth seeing even in winter.",
+                "es": "La estructura de los jardines merece la pena incluso en invierno."
               }
             },
             {
@@ -1826,7 +1994,8 @@
                 "de": "Parkplatzsuche ist im Winter viel entspannter.",
                 "hu": "A parkolóhely-keresés télen sokkal nyugodtabb.",
                 "ro": "Căutarea locului de parcare este mult mai relaxată iarna.",
-                "en": "Parking is much easier to find in winter."
+                "en": "Parking is much easier to find in winter.",
+                "es": "Aparcar es mucho más fácil en invierno."
               }
             },
             {
@@ -1835,7 +2004,8 @@
                 "de": "Kurze Wege zwischen Auto und Sehenswürdigkeiten nutzen.",
                 "hu": "Használja ki az autó és a látnivalók közti rövid távokat.",
                 "ro": "Folosiți distanțele scurte între mașină și obiective.",
-                "en": "Take advantage of the short distances between car and sights."
+                "en": "Take advantage of the short distances between car and sights.",
+                "es": "Aprovecha las cortas distancias entre el coche y los puntos de interés."
               }
             },
             {
@@ -1844,7 +2014,8 @@
                 "de": "Tiefstehende Sonne kann beim Fahren blenden.",
                 "hu": "Az alacsonyan lévő nap elvakíthat vezetés közben.",
                 "ro": "Soarele jos poate fi orbitor în timp ce conduceți.",
-                "en": "The low sun can be blinding while driving."
+                "en": "The low sun can be blinding while driving.",
+                "es": "El sol bajo puede deslumbrar al conducir."
               }
             },
             {
@@ -1853,7 +2024,8 @@
                 "de": "Beste Sicht auf die schneebedeckten Picos de Europa.",
                 "hu": "Legjobb kilátás a havas Picos de Europa hegyekre.",
                 "ro": "Cea mai bună vedere spre munții Picos de Europa înzăpeziți.",
-                "en": "Best view of the snow-capped Picos de Europa."
+                "en": "Best view of the snow-capped Picos de Europa.",
+                "es": "Mejor vista de los Picos de Europa cubiertos de nieve."
               }
             },
             {
@@ -1862,7 +2034,8 @@
                 "de": "Frühzeitig ankommen für den Sonnenuntergang.",
                 "hu": "Érkezzen időben a naplementéhez.",
                 "ro": "Ajungeți din timp pentru apus.",
-                "en": "Arrive early for the sunset."
+                "en": "Arrive early for the sunset.",
+                "es": "Llega pronto para el atardecer."
               }
             }
           ],
@@ -1894,6 +2067,13 @@
               "Days are short, expect some driving in the dark.",
               "Check tire pressure in cold weather.",
               "Car heating provides comfort during breaks."
+            ],
+            "es": [
+              "Revisa el anticongelante del líquido del limpiaparabrisas.",
+              "Lleva siempre un rascador de hielo en invierno.",
+              "Los días son cortos; espera conducir algo con oscuridad.",
+              "Revisa la presión de los neumáticos con el frío.",
+              "La calefacción del coche proporciona confort durante las paradas."
             ]
           }
         }
@@ -1912,7 +2092,8 @@
             "de": "Palacio de los Selgas",
             "hu": "Selgas palota",
             "ro": "Palatul Selgas",
-            "en": "Selgas Palace"
+            "en": "Selgas Palace",
+            "es": "Palacio de Selgas"
           },
           "coords": [
             -6.1555,
@@ -1927,7 +2108,8 @@
             "de": "Der Bus hält direkt in El Pito, in der Nähe des Tors.",
             "hu": "A busz közvetlenül El Pito-ban áll meg, a kapu közelében.",
             "ro": "Autobuzul oprește chiar în El Pito, lângă poartă.",
-            "en": "The bus stops right in El Pito, near the gate."
+            "en": "The bus stops right in El Pito, near the gate.",
+            "es": "El autobús para justo en El Pito, cerca de la puerta."
           }
         },
         {
@@ -1935,7 +2117,8 @@
             "de": "Capilla del Humilladero",
             "hu": "Humilladero kápolna",
             "ro": "Capela Humilladero",
-            "en": "Humilladero Chapel"
+            "en": "Humilladero Chapel",
+            "es": "Capilla del Humilladero"
           },
           "coords": [
             -6.1485,
@@ -1950,7 +2133,8 @@
             "de": "Vom Busbahnhof in Cudillero leicht zu Fuß erreichbar.",
             "hu": "A cudilleroi buszpályaudvartól könnyen elérhető gyalog.",
             "ro": "Ușor de ajuns pe jos de la autogara din Cudillero.",
-            "en": "Easily accessible on foot from the Cudillero bus station."
+            "en": "Easily accessible on foot from the Cudillero bus station.",
+            "es": "Fácilmente accesible a pie desde la estación de autobuses de Cudillero."
           }
         },
         {
@@ -1958,7 +2142,8 @@
             "de": "Plaza de la Marina",
             "hu": "Plaza de la Marina",
             "ro": "Plaza de la Marina",
-            "en": "Plaza de la Marina"
+            "en": "Plaza de la Marina",
+            "es": "Plaza de la Marina"
           },
           "coords": [
             -6.1462,
@@ -1973,7 +2158,8 @@
             "de": "Zentraler Punkt für alle weiteren Erkundungen.",
             "hu": "Központi pont minden további felfedezéshez.",
             "ro": "Punct central pentru toate explorările ulterioare.",
-            "en": "Central point for all further explorations."
+            "en": "Central point for all further explorations.",
+            "es": "Punto central para todas las exploraciones posteriores."
           }
         },
         {
@@ -1981,7 +2167,8 @@
             "de": "Iglesia de San Pedro",
             "hu": "Szent Péter templom",
             "ro": "Biserica Sfântul Petru",
-            "en": "San Pedro Church"
+            "en": "San Pedro Church",
+            "es": "Iglesia de San Pedro"
           },
           "coords": [
             -6.1468,
@@ -1996,7 +2183,8 @@
             "de": "Ein kühler Rückzugsort an einem warmen Nachmittag.",
             "hu": "Hűvös menedék egy meleg délutánon.",
             "ro": "Un refugiu răcoros într-o după-amiază caldă.",
-            "en": "A cool retreat on a warm afternoon."
+            "en": "A cool retreat on a warm afternoon.",
+            "es": "Un refugio fresco en una tarde cálida."
           }
         },
         {
@@ -2004,7 +2192,8 @@
             "de": "Puerto Viejo",
             "hu": "Régi Kikötő",
             "ro": "Portul Vechi",
-            "en": "Old Port"
+            "en": "Old Port",
+            "es": "Puerto viejo"
           },
           "coords": [
             -6.1451,
@@ -2019,7 +2208,8 @@
             "de": "Zeit für Erholung am Wasser vor der Rückfahrt.",
             "hu": "Idő a vízparti pihenésre a visszaindulás előtt.",
             "ro": "Timp de relaxare lângă apă înainte de plecare.",
-            "en": "Time for relaxation by the water before departure."
+            "en": "Time for relaxation by the water before departure.",
+            "es": "Momento para relajarse junto al agua antes de partir."
           }
         }
       ],
@@ -2027,7 +2217,8 @@
         "de": "Nutzen Sie den lokalen Bus, um zwischen dem Selgas-Palast in El Pito und dem Hafen von Cudillero zu pendeln. Diese Route ermöglicht es Ihnen, die prächtigen Gärten des Palastes ohne Parkplatzsorgen zu besichtigen. Den Rest des Tages verbringen Sie im malerischen Dorfzentrum, wo alles bequem zu Fuß erreichbar ist, von der historischen Kirche bis zum belebten Hafen.",
         "hu": "Használja a helyi buszt az El Pito-i Selgas-palota és Cudillero kikötője közötti közlekedéshez. Ez az útvonal lehetővé teszi a palota pompás kertjeinek megtekintését parkolási gondok nélkül. A nap többi részét a festői falu központjában töltheti, ahol minden kényelmesen elérhető gyalog, a történelmi templomtól a nyüzsgő kikötőig.",
         "ro": "Folosiți autobuzul local pentru a naveta între Palatul Selgas din El Pito și portul din Cudillero. Acest traseu vă permite să vizitați grădinile magnifice ale palatului fără griji legate de parcare. Restul zilei îl veți petrece în centrul pitoresc al satului, unde totul este ușor accesibil pe jos, de la biserica istorică până la portul plin de viață.",
-        "en": "Use the local bus to commute between Selgas Palace in El Pito and Cudillero harbor. This route allows you to visit the palace's magnificent gardens without parking worries. Spend the rest of the day in the picturesque village center, where everything is easily accessible on foot, from the historic church to the lively harbor."
+        "en": "Use the local bus to commute between Selgas Palace in El Pito and Cudillero harbor. This route allows you to visit the palace's magnificent gardens without parking worries. Spend the rest of the day in the picturesque village center, where everything is easily accessible on foot, from the historic church to the lively harbor.",
+        "es": "Usa el autobús local para ir entre el Palacio de Selgas en El Pito y el puerto de Cudillero. Esta ruta te permite visitar los magníficos jardines del palacio sin preocuparte por el aparcamiento. Pasa el resto del día en el pintoresco centro del pueblo, donde todo es accesible a pie, desde la iglesia histórica hasta el animado puerto."
       },
       "gastro_picks": {
         "de": [
@@ -2127,6 +2318,10 @@
         "en": [
           "Check the ALSA bus schedule in advance.",
           "The village center is small enough to explore without transport."
+        ],
+        "es": [
+          "Consulta el horario de ALSA con antelación.",
+          "El centro del pueblo es lo bastante pequeño para explorar sin transporte."
         ]
       },
       "variants": {
@@ -2135,7 +2330,8 @@
             "de": "Nutzen Sie den lokalen Bus, um zwischen dem Selgas-Palast in El Pito und dem Hafen von Cudillero zu pendeln. Diese Route ermöglicht es Ihnen, die prächtigen Gärten des Palastes ohne Parkplatzsorgen zu besichtigen. Den Rest des Tages verbringen Sie im malerischen Dorfzentrum, wo alles bequem zu Fuß erreichbar ist, von der historischen Kirche bis zum belebten Hafen.",
             "hu": "Használja a helyi buszt az El Pito-i Selgas-palota és Cudillero kikötője közötti közlekedéshez. Ez az útvonal lehetővé teszi a palota pompás kertjeinek megtekintését parkolási gondok nélkül. A nap többi részét a festői falu központjában töltheti, ahol minden kényelmesen elérhető gyalog, a történelmi templomtól a nyüzsgő kikötőig.",
             "ro": "Folosiți autobuzul local pentru a naveta între Palatul Selgas din El Pito și portul din Cudillero. Acest traseu vă permite să vizitați grădinile magnifice ale palatului fără griji legate de parcare. Restul zilei îl veți petrece în centrul pitoresc al satului, unde totul este ușor accesibil pe jos, de la biserica istorică până la portul plin de viață.",
-            "en": "Use the local bus to commute between Selgas Palace in El Pito and Cudillero harbor. This route allows you to visit the palace's magnificent gardens without parking worries. Spend the rest of the day in the picturesque village center, where everything is easily accessible on foot, from the historic church to the lively harbor."
+            "en": "Use the local bus to commute between Selgas Palace in El Pito and Cudillero harbor. This route allows you to visit the palace's magnificent gardens without parking worries. Spend the rest of the day in the picturesque village center, where everything is easily accessible on foot, from the historic church to the lively harbor.",
+            "es": "Usa el autobús local para ir entre el Palacio de Selgas en El Pito y el puerto de Cudillero. Esta ruta te permite visitar los magníficos jardines del palacio sin preocuparte por el aparcamiento. Pasa el resto del día en el pintoresco centro del pueblo, donde todo es accesible a pie, desde la iglesia histórica hasta el animado puerto."
           },
           "stops": [
             {
@@ -2143,13 +2339,15 @@
                 "de": "Palacio de los Selgas",
                 "hu": "Selgas palota",
                 "ro": "Palatul Selgas",
-                "en": "Selgas Palace"
+                "en": "Selgas Palace",
+                "es": "Palacio de Selgas"
               },
               "tip_5lang": {
                 "de": "Der Bus hält direkt in El Pito, in der Nähe des Tors.",
                 "hu": "A busz közvetlenül El Pito-ban áll meg, a kapu közelében.",
                 "ro": "Autobuzul oprește chiar în El Pito, lângă poartă.",
-                "en": "The bus stops right in El Pito, near the gate."
+                "en": "The bus stops right in El Pito, near the gate.",
+                "es": "El autobús para justo en El Pito, cerca de la puerta."
               }
             },
             {
@@ -2157,13 +2355,15 @@
                 "de": "Capilla del Humilladero",
                 "hu": "Humilladero kápolna",
                 "ro": "Capela Humilladero",
-                "en": "Humilladero Chapel"
+                "en": "Humilladero Chapel",
+                "es": "Capilla del Humilladero"
               },
               "tip_5lang": {
                 "de": "Vom Busbahnhof in Cudillero leicht zu Fuß erreichbar.",
                 "hu": "A cudilleroi buszpályaudvartól könnyen elérhető gyalog.",
                 "ro": "Ușor de ajuns pe jos de la autogara din Cudillero.",
-                "en": "Easily accessible on foot from the Cudillero bus station."
+                "en": "Easily accessible on foot from the Cudillero bus station.",
+                "es": "Fácilmente accesible a pie desde la estación de autobuses de Cudillero."
               }
             },
             {
@@ -2171,13 +2371,15 @@
                 "de": "Plaza de la Marina",
                 "hu": "Plaza de la Marina",
                 "ro": "Plaza de la Marina",
-                "en": "Plaza de la Marina"
+                "en": "Plaza de la Marina",
+                "es": "Plaza de la Marina"
               },
               "tip_5lang": {
                 "de": "Zentraler Punkt für alle weiteren Erkundungen.",
                 "hu": "Központi pont minden további felfedezéshez.",
                 "ro": "Punct central pentru toate explorările ulterioare.",
-                "en": "Central point for all further explorations."
+                "en": "Central point for all further explorations.",
+                "es": "Punto central para todas las exploraciones posteriores."
               }
             },
             {
@@ -2185,13 +2387,15 @@
                 "de": "Iglesia de San Pedro",
                 "hu": "Szent Péter templom",
                 "ro": "Biserica Sfântul Petru",
-                "en": "San Pedro Church"
+                "en": "San Pedro Church",
+                "es": "Iglesia de San Pedro"
               },
               "tip_5lang": {
                 "de": "Ein kühler Rückzugsort an einem warmen Nachmittag.",
                 "hu": "Hűvös menedék egy meleg délutánon.",
                 "ro": "Un refugiu răcoros într-o după-amiază caldă.",
-                "en": "A cool retreat on a warm afternoon."
+                "en": "A cool retreat on a warm afternoon.",
+                "es": "Un refugio fresco en una tarde cálida."
               }
             },
             {
@@ -2199,13 +2403,15 @@
                 "de": "Puerto Viejo",
                 "hu": "Régi Kikötő",
                 "ro": "Portul Vechi",
-                "en": "Old Port"
+                "en": "Old Port",
+                "es": "Puerto viejo"
               },
               "tip_5lang": {
                 "de": "Zeit für Erholung am Wasser vor der Rückfahrt.",
                 "hu": "Idő a vízparti pihenésre a visszaindulás előtt.",
                 "ro": "Timp de relaxare lângă apă înainte de plecare.",
-                "en": "Time for relaxation by the water before departure."
+                "en": "Time for relaxation by the water before departure.",
+                "es": "Momento para relajarse junto al agua antes de partir."
               }
             }
           ],
@@ -2307,6 +2513,10 @@
             "en": [
               "Check the ALSA bus schedule in advance.",
               "The village center is small enough to explore without transport."
+            ],
+            "es": [
+              "Consulta el horario de ALSA con antelación.",
+              "El centro del pueblo es lo bastante pequeño para explorar sin transporte."
             ]
           }
         },
@@ -2315,7 +2525,8 @@
             "de": "Mit Bus und Bahn durch das graue, aber grüne Asturien. Der Vormittag im Selgas-Palast schützt vor dem Regen. Mittags bringt Sie der Bus zur Plaza de la Marina.\nNachmittags erkunden Sie die Humilladero-Kapelle und die San Pedro Kirche als trockene Fixpunkte. Der Hafenbesuch ist kurz, aber intensiv bei Meeresrauschen.\nDer Tag endet mit einer gemütlichen Busfahrt zurück, während der Regen gegen die Scheiben trommelt.",
             "hu": "Busszal és vonattal a szürke, de zöldellő Asztúriában. A délelőtt a Selgas-palotában védelmet nyújt az eső elől. Délben a busz a Plaza de la Marina-hoz viszi.\nDélután a Humilladero-kápolna és a San Pedro-templom száraz fix pontok. A kikötői látogatás rövid, de intenzív a tenger morajlása mellett.\nA nap egy kényelmes buszos visszautazással zárul, miközben az eső kopog az ablakon.",
             "ro": "Cu autobuzul și trenul prin Asturia gri, dar verde. Dimineața la Palatul Selgas vă protejează de ploaie. La prânz, autobuzul vă duce la Plaza de la Marina.\nDupă-amiaza explorați capela Humilladero și biserica San Pedro ca puncte fixe uscate. Vizita în port este scurtă, dar intensă. \nZiua se încheie cu o călătorie relaxată cu autobuzul înapoi, în timp ce ploaia bate în geam.",
-            "en": "By bus and train through gray but lush green Asturias. A morning at Selgas Palace protects you from the rain. At midday, the bus takes you to Plaza de la Marina.\nIn the afternoon, explore Humilladero Chapel and San Pedro Church as dry anchors. The port visit is brief but intense with the sound of the sea.\nThe day ends with a cozy bus ride back while rain drums against the windows."
+            "en": "By bus and train through gray but lush green Asturias. A morning at Selgas Palace protects you from the rain. At midday, the bus takes you to Plaza de la Marina.\nIn the afternoon, explore Humilladero Chapel and San Pedro Church as dry anchors. The port visit is brief but intense with the sound of the sea.\nThe day ends with a cozy bus ride back while rain drums against the windows.",
+            "es": "En autobús y tren por una Asturias gris pero de un verde exuberante. Una mañana en el Palacio de Selgas te protege de la lluvia. A mediodía, el autobús te lleva a la Plaza de la Marina.\nPor la tarde, explora la Capilla del Humilladero y la Iglesia de San Pedro como puntos secos. La visita al puerto es breve pero intensa con el sonido del mar.\nEl día termina con un agradable viaje en autobús de regreso mientras la lluvia golpea las ventanas."
           },
           "stops": [
             {
@@ -2324,7 +2535,8 @@
                 "de": "Bushaltestelle ist fast direkt vor dem Tor.",
                 "hu": "A buszmegálló szinte közvetlenül a kapu előtt van.",
                 "ro": "Stația de autobuz este aproape direct în fața porții.",
-                "en": "The bus stop is almost directly in front of the gate."
+                "en": "The bus stop is almost directly in front of the gate.",
+                "es": "La parada de autobús está casi enfrente de la puerta."
               }
             },
             {
@@ -2333,7 +2545,8 @@
                 "de": "Kurzer Fußweg von der Bushaltestelle im Zentrum.",
                 "hu": "Rövid séta a központi buszmegállótól.",
                 "ro": "Drum scurt pe jos de la stația de autobuz din centru.",
-                "en": "Short walk from the central bus stop."
+                "en": "Short walk from the central bus stop.",
+                "es": "Corta caminata desde la parada de autobús central."
               }
             },
             {
@@ -2342,7 +2555,8 @@
                 "de": "Zentraler Ort mit vielen überdachten Wartebereichen.",
                 "hu": "Központi hely sok fedett várakozási lehetőséggel.",
                 "ro": "Loc central cu multe zone de așteptare acoperite.",
-                "en": "Central location with many covered waiting areas."
+                "en": "Central location with many covered waiting areas.",
+                "es": "Ubicación central con muchas zonas de espera cubiertas."
               }
             },
             {
@@ -2351,7 +2565,8 @@
                 "de": "Perfekter Ort, um auf den nächsten Bus zu warten.",
                 "hu": "Tökéletes hely a következő busz megvárására.",
                 "ro": "Locul perfect pentru a aștepta următorul autobuz.",
-                "en": "Perfect place to wait for the next bus."
+                "en": "Perfect place to wait for the next bus.",
+                "es": "Lugar perfecto para esperar el siguiente autobús."
               }
             },
             {
@@ -2360,7 +2575,8 @@
                 "de": "Nehmen Sie den Bus direkt zurück zum Bahnhof.",
                 "hu": "Szálljon buszra közvetlenül vissza a vasútállomáshoz.",
                 "ro": "Luați autobuzul direct înapoi spre gară.",
-                "en": "Take the bus directly back to the train station."
+                "en": "Take the bus directly back to the train station.",
+                "es": "Toma el autobús directamente de vuelta a la estación de tren."
               }
             }
           ],
@@ -2392,6 +2608,13 @@
               "Buy tickets in advance whenever possible.",
               "Have small change ready for the bus driver.",
               "Trains (FEVE) offer great panoramic views in the rain."
+            ],
+            "es": [
+              "Descarga la app de transporte local para horarios en vivo.",
+              "Las marquesinas ofrecen cobertura pero suelen ser pequeñas.",
+              "Compra los billetes con antelación cuando sea posible.",
+              "Ten cambio pequeño listo para el conductor.",
+              "Los trenes (FEVE) ofrecen magníficas vistas panorámicas bajo la lluvia."
             ]
           }
         },
@@ -2400,7 +2623,8 @@
             "de": "Eine ruhige Winterreise mit öffentlichen Verkehrsmitteln. Vormittags besuchen Sie den Selgas-Palast in entspannter Atmosphäre. Die Busfahrt bietet Ausblicke auf die schlafende Natur.\nMittags lockt die Plaza de la Marina mit Wärme und Gastfreundschaft. Nachmittags ist die Kirche San Pedro ein besinnlicher Ort.\nDer Tag endet früh im Hafen, bevor Sie den Bus oder Zug nehmen, um Cudillero in der Abenddämmerung zu verlassen.",
             "hu": "Nyugodt téli utazás tömegközlekedéssel. Délelőtt a Selgas-palotát látogatja meg nyugodt körülmények között. A buszút kilátást nyújt az alvó természetre.\nDélben a Plaza de la Marina melegséggel és vendégszeretettel várja. Délután a San Pedro-templom a nyugalom szigete.\nA nap korán ér véget a kikötőben, mielőtt busszal vagy vonattal elhagyná Cudillero-t az esti szürkületben.",
             "ro": "O călătorie liniștită de iarnă cu transportul public. Dimineața vizitați Palatul Selgas într-o atmosferă relaxată. Drumul cu autobuzul oferă vederi spre natura adormită.\nLa prânz, Plaza de la Marina vă atrage cu căldură și ospitalitate. După-amiaza, biserica San Pedro este un loc de reculegere.\nZiua se încheie devreme în port, înainte de a lua autobuzul sau trenul pentru a pleca din Cudillero la amurg.",
-            "en": "A quiet winter trip using public transport. In the morning, visit Selgas Palace in a relaxed atmosphere. The bus ride offers views of the dormant nature.\nAt midday, Plaza de la Marina beckons with warmth and hospitality. In the afternoon, San Pedro Church is a place of reflection.\nThe day ends early at the port before you take the bus or train to leave Cudillero in the twilight."
+            "en": "A quiet winter trip using public transport. In the morning, visit Selgas Palace in a relaxed atmosphere. The bus ride offers views of the dormant nature.\nAt midday, Plaza de la Marina beckons with warmth and hospitality. In the afternoon, San Pedro Church is a place of reflection.\nThe day ends early at the port before you take the bus or train to leave Cudillero in the twilight.",
+            "es": "Un tranquilo viaje invernal en transporte público. Por la mañana, visita el Palacio de Selgas con calma. El trayecto en autobús ofrece vistas de la naturaleza dormida.\nA mediodía, la Plaza de la Marina atrae con calidez y hospitalidad. Por la tarde, la Iglesia de San Pedro es un lugar de reflexión.\nEl día termina pronto en el puerto antes de tomar el autobús o tren para dejar Cudillero en el crepúsculo."
           },
           "stops": [
             {
@@ -2409,7 +2633,8 @@
                 "de": "Winterfahrplan der Linie nach Pito beachten.",
                 "hu": "Ügyeljen a Pito-ba tartó járat téli menetrendjére.",
                 "ro": "Atenție la orarul de iarnă al liniei spre Pito.",
-                "en": "Check the winter schedule for the line to Pito."
+                "en": "Check the winter schedule for the line to Pito.",
+                "es": "Consulta el horario de invierno de la línea a Pito."
               }
             },
             {
@@ -2418,7 +2643,8 @@
                 "de": "Oft beheizte Cafés in der direkten Umgebung.",
                 "hu": "Gyakran fűtött kávézók vannak a közvetlen közelben.",
                 "ro": "Cafenele adesea încălzite în imediata apropiere.",
-                "en": "Often heated cafes in the immediate vicinity."
+                "en": "Often heated cafes in the immediate vicinity.",
+                "es": "A menudo hay cafeterías con calefacción en las inmediaciones."
               }
             },
             {
@@ -2427,7 +2653,8 @@
                 "de": "Hier halten die meisten Überlandbusse.",
                 "hu": "Itt áll meg a legtöbb távolsági busz.",
                 "ro": "Aici opresc majoritatea autobuzelor interurbane.",
-                "en": "Most intercity buses stop here."
+                "en": "Most intercity buses stop here.",
+                "es": "La mayoría de los autobuses interurbanos paran aquí."
               }
             },
             {
@@ -2436,7 +2663,8 @@
                 "de": "Ein schöner Ort für eine kurze Wintermeditation.",
                 "hu": "Szép hely egy rövid téli meditációhoz.",
                 "ro": "Un loc frumos pentru o scurtă meditație de iarnă.",
-                "en": "A beautiful place for a short winter meditation."
+                "en": "A beautiful place for a short winter meditation.",
+                "es": "Un lugar precioso para una breve meditación invernal."
               }
             },
             {
@@ -2445,7 +2673,8 @@
                 "de": "Letzter Bus im Winter fährt oft gegen 19:00 Uhr.",
                 "hu": "Az utolsó busz télen gyakran 19:00 körül indul.",
                 "ro": "Ultimul autobuz iarna pleacă adesea în jur de ora 19:00.",
-                "en": "The last bus in winter often leaves around 7:00 PM."
+                "en": "The last bus in winter often leaves around 7:00 PM.",
+                "es": "El último autobús en invierno suele salir alrededor de las 19:00."
               }
             }
           ],
@@ -2477,6 +2706,13 @@
               "Train stations can be unstaffed in winter.",
               "Inquire about combo tickets (bus/train).",
               "A hot drink on the bus is worth its weight in gold in winter."
+            ],
+            "es": [
+              "Los horarios a menudo se reducen en invierno.",
+              "Viste ropa abrigada para los periodos de espera.",
+              "Las estaciones de tren pueden estar sin personal en invierno.",
+              "Consulta sobre billetes combinados (bus/tren).",
+              "Una bebida caliente en el autobús vale su peso en oro en invierno."
             ]
           }
         }
@@ -2491,19 +2727,22 @@
       "de": "Die Fischer sprechen einen alten Dialekt namens Pixueto, aber Touristen begegnen normalem Spanisch. Englisch nur in den Restaurants um den Hafen, an der Amphitheater-Treppe eher gestikulieren. Wirklich kleines Dorf, alles ist eng.",
       "hu": "A halászok régi nyelvjárást, a pixueto-t beszélik egymás közt, de a turistákhoz normál spanyolul szólnak. Angol csak a kikötői éttermekben megy, az amfiteátrum-lépcsőn mutogatás. Igazán kicsi falu, minden szűk.",
       "ro": "Pescarii vorbesc între ei un dialect vechi, pixueto, dar cu turiștii folosesc spaniolă obișnuită. Engleza merge doar la restaurantele din port, sus pe scările amfiteatrului mai degrabă gesturi. Sat foarte mic, totul e înghesuit.",
-      "en": "Local fishermen still speak an old dialect called Pixueto among themselves, but tourists hear standard Spanish. English works in harbour restaurants only - up the amphitheatre stairs, gesture it out. It's a tiny village, everything tight."
+      "en": "Local fishermen still speak an old dialect called Pixueto among themselves, but tourists hear standard Spanish. English works in harbour restaurants only - up the amphitheatre stairs, gesture it out. It's a tiny village, everything tight.",
+      "es": "Los pescadores locales aún hablan entre ellos un dialecto antiguo llamado pixueto, pero los turistas oyen español estándar. El inglés funciona solo en los restaurantes del puerto: subiendo las escaleras del anfiteatro, gesticula. Es un pueblo diminuto, todo muy junto."
     },
     "best_time_to_visit": {
       "de": "Mai bis September, am schönsten Juni und September wegen mildem Wetter und weniger Tagesgästen. Mittagessen am Hafen ist Pflicht - aber Reservierung im Sommer ein Muss, das Amphitheater-Dorf hat kaum Plätze.",
       "hu": "Május-szeptember, június és szeptember a legszebb, kellemes idő, kevesebb napi turista. A kikötőnél ebédelni kötelező, de nyáron foglalj, az amfiteátrum-falucskában alig van férőhely.",
       "ro": "Mai-septembrie, cele mai frumoase luni iunie și septembrie, vreme blândă și mai puțini turiști de zi. Prânzul în port e obligatoriu, dar vara rezervă, satul-amfiteatru are puține locuri.",
-      "en": "May to September, with June and September best for mild weather and fewer day-trippers. Lunch by the harbour is essential - but reserve in summer, this amphitheatre village has very few tables."
+      "en": "May to September, with June and September best for mild weather and fewer day-trippers. Lunch by the harbour is essential - but reserve in summer, this amphitheatre village has very few tables.",
+      "es": "De mayo a septiembre, siendo junio y septiembre los mejores por clima suave y menos excursionistas. Comer junto al puerto es imprescindible; reserva en verano, este pueblo anfiteatro tiene muy pocas mesas."
     },
     "neighborhood_warnings": {
       "de": "Sehr sicher, aber steile Gassen mit Stufen - schweres Gepäck wird zur Tortur. Bei Regen wird das Kopfsteinpflaster richtig glatt. Hochwasserkante am Hafen ist niedrig, bei Sturmflut spritzt es über die Mauer.",
       "hu": "Nagyon biztonságos, viszont meredek, lépcsős utcák, nehéz csomaggal kínszenvedés. Esőben a macskakő tényleg csúszik. A kikötői védőfal alacsony, viharban átcsap a víz.",
       "ro": "Foarte sigur, însă străzi abrupte cu trepte, bagajul greu devine un coșmar. Pe ploaie pavajul e foarte alunecos. Zidul portului e jos, pe furtună stropi mari sar peste.",
-      "en": "Very safe, but the steep stepped lanes are brutal with heavy luggage. Cobbles get genuinely slippery in rain. The harbour wall is low - in storms waves spray right over it."
+      "en": "Very safe, but the steep stepped lanes are brutal with heavy luggage. Cobbles get genuinely slippery in rain. The harbour wall is low - in storms waves spray right over it.",
+      "es": "Muy seguro, pero los empinados callejones con escalones son brutales con equipaje pesado. El empedrado se vuelve verdaderamente resbaladizo con lluvia. El muro del puerto es bajo: en tormentas las olas lo sobrepasan con spray."
     }
   }
 }

@@ -21,7 +21,8 @@
             "de": "Puerta de Purchena",
             "hu": "Puerta de Purchena",
             "ro": "Puerta de Purchena",
-            "en": "Puerta de Purchena"
+            "en": "Puerta de Purchena",
+            "es": "Puerta de Purchena"
           },
           "coords": [
             -2.466,
@@ -37,7 +38,8 @@
             "de": "Beobachten Sie das geschäftige Treiben von einem der Cafés aus.",
             "hu": "Figyelje a város lüktetését az egyik kávézó teraszáról.",
             "ro": "Priviți agitația orașului de la una dintre cafenele.",
-            "en": "Watch the city's hustle and bustle from one of the cafés."
+            "en": "Watch the city's hustle and bustle from one of the cafés.",
+            "es": "Observa el bullicio de la ciudad desde una de las cafeterías."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Bürgerkriegsbunker (Refugios)",
             "hu": "Polgárháborús óvóhelyek (Refugios)",
             "ro": "Adăposturile subterane din Războiul Civil (Refugios)",
-            "en": "Civil War Shelters (Refugios)"
+            "en": "Civil War Shelters (Refugios)",
+            "es": "Refugios de la Guerra Civil (Refugios)"
           },
           "coords": [
             -2.465,
@@ -61,7 +64,8 @@
             "de": "Buchen Sie die Führung im Voraus, um dieses unterirdische Labyrinth zu erleben.",
             "hu": "Foglaljon vezetett túrát előre, hogy bejárhassa ezt a földalatti labirintust.",
             "ro": "Rezervați turul ghidat în avans pentru a explora acest labirint subteran.",
-            "en": "Book the guided tour in advance to experience this underground labyrinth."
+            "en": "Book the guided tour in advance to experience this underground labyrinth.",
+            "es": "Reserva la visita guiada con antelación para experimentar este laberinto subterráneo."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Plaza de la Constitución",
             "hu": "Alkotmány tér (Plaza de la Constitución)",
             "ro": "Piața Constituției (Plaza de la Constitución)",
-            "en": "Constitution Square (Plaza de la Constitución)"
+            "en": "Constitution Square (Plaza de la Constitución)",
+            "es": "Plaza de la Constitución"
           },
           "coords": [
             -2.468,
@@ -85,7 +90,8 @@
             "de": "Das Rathaus (Ayuntamiento) hat eine beeindruckende Fassade.",
             "hu": "A Városháza (Ayuntamiento) homlokzata lenyűgöző.",
             "ro": "Primăria (Ayuntamiento) are o fațadă impresionantă.",
-            "en": "The Town Hall (Ayuntamiento) has an impressive facade."
+            "en": "The Town Hall (Ayuntamiento) has an impressive facade.",
+            "es": "El Ayuntamiento tiene una fachada impresionante."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Kathedrale von Almería",
             "hu": "Almeríai székesegyház",
             "ro": "Catedrala din Almería",
-            "en": "Cathedral of Almería"
+            "en": "Cathedral of Almería",
+            "es": "Catedral de Almería"
           },
           "coords": [
             -2.4682,
@@ -109,7 +116,8 @@
             "de": "Achten Sie auf die festungsähnliche Struktur, die zum Schutz vor Piraten diente.",
             "hu": "Figyelje meg az erődszerű építményt, ami a kalózok elleni védelemre szolgált.",
             "ro": "Observați structura de fortăreață, concepută pentru a proteja împotriva piraților.",
-            "en": "Note the fortress-like structure, designed for protection against pirates."
+            "en": "Note the fortress-like structure, designed for protection against pirates.",
+            "es": "Fíjate en su estructura tipo fortaleza, diseñada para protegerse de los piratas."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebéd az óvárosban",
             "ro": "Prânz în centrul vechi",
-            "en": "Lunch in the Old Town"
+            "en": "Lunch in the Old Town",
+            "es": "Almuerzo en el casco antiguo"
           },
           "coords": [
             -2.467,
@@ -133,7 +142,8 @@
             "de": "Probieren Sie die lokalen Tapas, besonders die mit frischem Fisch.",
             "hu": "Kóstolja meg a helyi tapasokat, különösen a friss halból készülteket.",
             "ro": "Încercați tapas-urile locale, în special cele cu pește proaspăt.",
-            "en": "Try the local tapas, especially those with fresh fish."
+            "en": "Try the local tapas, especially those with fresh fish.",
+            "es": "Prueba las tapas locales, sobre todo las que llevan pescado fresco."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Alcazaba von Almería",
             "hu": "Almeríai Alcazaba",
             "ro": "Alcazaba din Almería",
-            "en": "Alcazaba of Almería"
+            "en": "Alcazaba of Almería",
+            "es": "Alcazaba de Almería"
           },
           "coords": [
             -2.47,
@@ -157,7 +168,8 @@
             "de": "Der Aufstieg lohnt sich für die Aussicht und die Gärten. Tragen Sie bequeme Schuhe.",
             "hu": "Megéri felmenni a kilátásért és a kertekért. Viseljen kényelmes cipőt.",
             "ro": "Urcușul merită pentru priveliște și grădini. Purtați încălțăminte comodă.",
-            "en": "The climb is worth it for the views and gardens. Wear comfortable shoes."
+            "en": "The climb is worth it for the views and gardens. Wear comfortable shoes.",
+            "es": "La subida merece la pena por las vistas y los jardines. Lleva calzado cómodo."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Kirche San Juan",
             "hu": "Szent János-templom",
             "ro": "Biserica San Juan",
-            "en": "Church of San Juan"
+            "en": "Church of San Juan",
+            "es": "Iglesia de San Juan"
           },
           "coords": [
             -2.472,
@@ -181,7 +194,8 @@
             "de": "Ein schöner Halt auf dem Weg von der Alcazaba. Beachten Sie die Mischung aus Moschee und Kirche.",
             "hu": "Kellemes megálló az Alcazabából lefelé jövet. Figyelje meg a mecset és templom keveredését.",
             "ro": "O oprire plăcută la coborârea de la Alcazaba. Observați amestecul de moschee și biserică.",
-            "en": "A nice stop on the way down from the Alcazaba. Note the blend of mosque and church."
+            "en": "A nice stop on the way down from the Alcazaba. Note the blend of mosque and church.",
+            "es": "Una buena parada al bajar de la Alcazaba. Observa la mezcla de mezquita e iglesia."
           }
         },
         {
@@ -189,7 +203,8 @@
             "de": "English Cable (El Cable Inglés)",
             "hu": "Angol Móló (El Cable Inglés)",
             "ro": "Cheiul Englezesc (El Cable Inglés)",
-            "en": "The English Cable (El Cable Inglés)"
+            "en": "The English Cable (El Cable Inglés)",
+            "es": "El Cable Inglés"
           },
           "coords": [
             -2.459,
@@ -205,7 +220,8 @@
             "de": "Besonders bei Sonnenuntergang ein toller Fotospot. Ein Symbol des industriellen Erbes.",
             "hu": "Nagyszerű fotóhelyszín, különösen naplementekor. Az ipari örökség szimbóluma.",
             "ro": "Un loc excelent pentru fotografii, mai ales la apus. Un simbol al patrimoniului industrial.",
-            "en": "A great photo spot, especially at sunset. A symbol of industrial heritage."
+            "en": "A great photo spot, especially at sunset. A symbol of industrial heritage.",
+            "es": "Un gran lugar para fotos, especialmente al atardecer. Símbolo del patrimonio industrial."
           }
         }
       ],
@@ -213,7 +229,8 @@
         "de": "Ihr Tag beginnt am belebten Platz Puerta de Purchena und führt Sie unter die Erde in die Bunker des Bürgerkriegs. Am Vormittag erkunden Sie das historische Herz mit der festungsartigen Kathedrale und der Plaza de la Constitución. Nach einem Tapas-Mittagessen erklimmen Sie die mächtige Alcazaba, die einen atemberaubenden Blick über die Stadt und das Meer bietet. Der Nachmittag ist der Erkundung der maurischen Festung gewidmet, bevor Sie zum industriellen Wahrzeichen, dem Cable Inglés, hinabsteigen, um den Sonnenuntergang zu genießen.",
         "hu": "A nap a nyüzsgő Puerta de Purchena téren kezdődik, majd a föld alá vezet a polgárháborús óvóhelyekhez. Délelőtt a történelmi központot fedezi fel az erődszerű katedrálissal és a Plaza de la Constitución térrel. Egy tapas ebéd után megmássza a hatalmas Alcazabát, ahonnan lenyűgöző kilátás nyílik a városra és a tengerre. A délutánt a mór erőd felfedezésével tölti, mielőtt lesétálna az ipari örökség jelképéhez, a Cable Ingléshez, hogy élvezze a naplementét.",
         "ro": "Ziua începe în vibranta Puerta de Purchena, apoi vă duce în subteran la adăposturile din Războiul Civil. Dimineața explorează inima istorică cu Catedrala-fortăreață și Plaza de la Constitución. După un prânz cu tapas, urcați la impunătoarea Alcazaba pentru vederi uimitoare asupra orașului și mării. După-amiaza este dedicată explorării fortăreței maure, înainte de a coborî la monumentul industrial, Cable Inglés, pentru a prinde apusul.",
-        "en": "Your day starts in the bustling Puerta de Purchena, then takes you underground into the Civil War shelters. The morning explores the historic heart with the fortress-like Cathedral and Plaza de la Constitución. After a tapas lunch, you'll climb the mighty Alcazaba for stunning views over the city and sea. The afternoon is for exploring the Moorish fortress before descending to the industrial landmark, the Cable Inglés, to catch the sunset."
+        "en": "Your day starts in the bustling Puerta de Purchena, then takes you underground into the Civil War shelters. The morning explores the historic heart with the fortress-like Cathedral and Plaza de la Constitución. After a tapas lunch, you'll climb the mighty Alcazaba for stunning views over the city and sea. The afternoon is for exploring the Moorish fortress before descending to the industrial landmark, the Cable Inglés, to catch the sunset.",
+        "es": "Tu día comienza en la bulliciosa Puerta de Purchena y luego te lleva bajo tierra a los refugios de la Guerra Civil. La mañana explora el corazón histórico con la catedral tipo fortaleza y la Plaza de la Constitución. Tras un almuerzo de tapas, subirás a la imponente Alcazaba para disfrutar de vistas sobre la ciudad y el mar. La tarde es para explorar la fortaleza mora antes de descender al hito industrial del Cable Inglés para ver la puesta de sol."
       },
       "gastro_picks": {
         "de": [
@@ -409,6 +426,12 @@
           "Bring plenty of water, especially during the summer.",
           "Many shops and sights close for a siesta in the afternoon.",
           "Enjoy the free tapas served with your drink in most bars."
+        ],
+        "es": [
+          "Lleva calzado cómodo, ya que los adoquines pueden ser irregulares.",
+          "Lleva abundante agua, especialmente en verano.",
+          "Muchas tiendas y lugares cierran por la siesta por la tarde.",
+          "Disfruta de las tapas gratis que sirven con la bebida en la mayoría de los bares."
         ]
       },
       "variants": {
@@ -417,7 +440,8 @@
             "de": "Beginnen Sie Ihren Morgen unter den schützenden Arkaden der Puerta de Purchena. Der Abstieg in die Refugios ist heute die beste Wahl, da die unterirdischen Gänge völlig trocken und faszinierend sind.\n\nMittags bietet das Viertel um die Kathedrale viele gemütliche Tapas-Bars, in denen man das Prasseln des Regens bei einem Glas Wein genießen kann. Die festungsartige Kathedrale selbst ist ein sicherer, trockener Hafen.\n\nAm Nachmittag erfordert der Aufstieg zur Alcazaba Vorsicht, da die Steinpfade rutschig sein können. Suchen Sie Schutz in den Palasträumen, während Sie den Blick auf das graue Meer genießen.\n\nBeenden Sie den Tag am English Cable. Der industrielle Steg wirkt bei Regen besonders dramatisch, und die nahegelegenen Cafés bieten den perfekten Rückzugsort vor der Feuchtigkeit.",
             "hu": "Kezdje a reggelt a Puerta de Purchena védelmező árkádjai alatt. A polgárháborús óvóhelyek meglátogatása a legjobb választás esőben, hiszen a föld alatti járatok teljesen szárazak és lenyűgözőek.\n\nEbédidőben a katedrális környéki szűk utcák számos hangulatos tapas-bárt rejtenek, ahol egy pohár bor mellett várhatja ki a záport. Maga a katedrális erőd szerű falaival biztonságos menedék.\n\nDélután az Alcazaba felé vezető úton legyen óvatos, a köves utak csúszóssá válhatnak. Húzódjon be a palota belső tereibe, és csodálja meg a viharos tenger látványát.\n\nA napot az English Cable-nél zárja. Az ipari móló látványa esőben még drámaibb, a közeli kávézók pedig meleg menedéket nyújtanak a nedvesség elől.",
             "ro": "Începeți dimineața sub arcadele protectoare de la Puerta de Purchena. Vizitarea adăposturilor din Războiul Civil este cea mai bună alegere pe ploaie, deoarece galeriile subterane sunt complet uscate și fascinante.\n\nLa prânz, străzile înguste din jurul Catedralei ascund numeroase baruri de tapas primitoare, unde puteți aștepta oprirea ploii cu un pahar de vin. Catedrala însăși, cu zidurile sale de fortăreață, este un refugiu sigur.\n\nDupă-amiaza, urcarea spre Alcazaba necesită prudență, deoarece potecile de piatră pot deveni alunecoase. Adăpostiți-vă în camerele palatului în timp ce admirați marea gri.\n\nÎncheiați ziua la English Cable. Debarcaderul industrial arată deosebit de dramatic pe ploaie, iar cafenelele din apropiere oferă refugiul perfect împotriva umidității.",
-            "en": "Start your morning under the protective arcades of Puerta de Purchena. Descending into the Refugios is the best choice today, as the underground tunnels remain perfectly dry and fascinating.\n\nAt lunch, the narrow streets around the Cathedral hide many cozy tapas bars where you can enjoy the sound of the rain with a glass of wine. The fortress-like Cathedral itself is a sturdy, dry haven.\n\nIn the afternoon, the climb to the Alcazaba requires caution as the stone paths can be slippery. Seek cover in the palace rooms while enjoying the view of the misty sea.\n\nEnd the day at the English Cable. The industrial pier looks particularly dramatic in the rain, and nearby cafes provide the perfect retreat from the damp weather."
+            "en": "Start your morning under the protective arcades of Puerta de Purchena. Descending into the Refugios is the best choice today, as the underground tunnels remain perfectly dry and fascinating.\n\nAt lunch, the narrow streets around the Cathedral hide many cozy tapas bars where you can enjoy the sound of the rain with a glass of wine. The fortress-like Cathedral itself is a sturdy, dry haven.\n\nIn the afternoon, the climb to the Alcazaba requires caution as the stone paths can be slippery. Seek cover in the palace rooms while enjoying the view of the misty sea.\n\nEnd the day at the English Cable. The industrial pier looks particularly dramatic in the rain, and nearby cafes provide the perfect retreat from the damp weather.",
+            "es": "Comienza la mañana bajo los soportales protectores de Puerta de Purchena. Bajar a los Refugios es la mejor opción hoy, ya que los túneles subterráneos permanecen completamente secos y son fascinantes.\n\nAl mediodía, las estrechas calles alrededor de la Catedral esconden muchos bares de tapas acogedores donde puedes disfrutar del sonido de la lluvia con una copa de vino. La Catedral, con su aspecto fortificado, es un refugio sólido y seco.\n\nPor la tarde, la subida a la Alcazaba exige precaución porque los caminos de piedra pueden estar resbaladizos. Busca refugio en las salas del palacio mientras disfrutas de la vista del mar brumoso.\n\nTermina el día en el Cable Inglés. El muelle industrial resulta especialmente dramático bajo la lluvia, y las cafeterías cercanas ofrecen un perfecto retiro del ambiente húmedo."
           },
           "stops": [
             {
@@ -426,7 +450,8 @@
                 "de": "Nutzen Sie die Arkaden der umliegenden Gebäude als Regenschutz.",
                 "hu": "Használja a környező épületek árkádjait eső elleni védelemként.",
                 "ro": "Folosiți arcadele clădirilor din jur ca protecție împotriva ploii.",
-                "en": "Use the arcades of the surrounding buildings as shelter from the rain."
+                "en": "Use the arcades of the surrounding buildings as shelter from the rain.",
+                "es": "Usa los soportales de los edificios circundantes como refugio contra la lluvia."
               }
             },
             {
@@ -435,7 +460,8 @@
                 "de": "Der perfekte Ort bei Regen; tief unter der Erde ist es absolut trocken.",
                 "hu": "Tökéletes helyszín esőben; mélyen a föld alatt teljesen száraz az idő.",
                 "ro": "Locul perfect pe ploaie; adânc sub pământ este absolut uscat.",
-                "en": "The perfect spot for rain; deep underground it is absolutely dry."
+                "en": "The perfect spot for rain; deep underground it is absolutely dry.",
+                "es": "El lugar perfecto para la lluvia; en lo profundo bajo tierra está completamente seco."
               }
             },
             {
@@ -444,7 +470,8 @@
                 "de": "Vorsicht auf dem Marmorboden, er wird bei Nässe sehr rutschig.",
                 "hu": "Vigyázat a márványpadlóval, nedvesen nagyon csúszik.",
                 "ro": "Atenție la podeaua de marmură, devine foarte alunecoasă când este udă.",
-                "en": "Watch out on the marble floor, it becomes very slippery when wet."
+                "en": "Watch out on the marble floor, it becomes very slippery when wet.",
+                "es": "Cuidado con el suelo de mármol, se vuelve muy resbaladizo cuando está mojado."
               }
             },
             {
@@ -453,7 +480,8 @@
                 "de": "Ideal, um die Architektur im trockenen Innenraum zu bewundern.",
                 "hu": "Ideális hely az építészet megcsodálására a száraz belső térben.",
                 "ro": "Ideal pentru a admira arhitectura în interiorul uscat.",
-                "en": "Ideal for admiring the architecture in the dry interior."
+                "en": "Ideal for admiring the architecture in the dry interior.",
+                "es": "Ideal para admirar la arquitectura en el interior seco."
               }
             },
             {
@@ -462,7 +490,8 @@
                 "de": "Suchen Sie Lokale mit überdachten Innenhöfen im arabischen Stil.",
                 "hu": "Keressen arab stílusú, fedett belső udvarral rendelkező helyeket.",
                 "ro": "Căutați localuri cu curți interioare acoperite în stil arab.",
-                "en": "Look for venues with covered Arabic-style inner courtyards."
+                "en": "Look for venues with covered Arabic-style inner courtyards.",
+                "es": "Busca locales con patios interiores cubiertos de estilo árabe."
               }
             },
             {
@@ -471,7 +500,8 @@
                 "de": "Bleiben Sie in den überdachten Palastbereichen der dritten Ebene.",
                 "hu": "Maradjon a harmadik szint fedett palotarészeiben.",
                 "ro": "Rămâneți în zonele acoperite ale palatului de la al treilea nivel.",
-                "en": "Stay in the covered palace areas of the third level."
+                "en": "Stay in the covered palace areas of the third level.",
+                "es": "Quédate en las zonas palaciegas cubiertas del tercer nivel."
               }
             },
             {
@@ -480,7 +510,8 @@
                 "de": "Ein ruhiger Ort, um eine kurze Regenpause einzulegen.",
                 "hu": "Csendes hely egy rövid esőszünet tartására.",
                 "ro": "Un loc liniștit pentru a face o scurtă pauză de ploaie.",
-                "en": "A quiet place to take a short break from the rain."
+                "en": "A quiet place to take a short break from the rain.",
+                "es": "Un lugar tranquilo para hacer una breve pausa de la lluvia."
               }
             },
             {
@@ -489,7 +520,8 @@
                 "de": "Genießen Sie den Blick von der überdachten Seite des Piers.",
                 "hu": "Élvezze a kilátást a móló fedett oldala felől.",
                 "ro": "Bucurați-vă de priveliște din partea acoperită a debarcaderului.",
-                "en": "Enjoy the view from the covered side of the pier."
+                "en": "Enjoy the view from the covered side of the pier.",
+                "es": "Disfruta de la vista desde el lado cubierto del muelle."
               }
             }
           ],
@@ -521,6 +553,13 @@
               "The shelters require a reservation, which is crucial during rainy days.",
               "Visit the Central Market (Mercado Central) as a great indoor alternative.",
               "A compact umbrella is more practical here due to the often windy rain."
+            ],
+            "es": [
+              "Lleva calzado con buena suela por los resbaladizos empedrados del casco antiguo.",
+              "Almería tiene pocos desagües; cuidado con los charcos profundos en las esquinas.",
+              "Los refugios requieren reserva, algo crucial en días de lluvia.",
+              "Visita el Mercado Central como una excelente alternativa cubierta.",
+              "Un paraguas compacto es más práctico aquí por la lluvia a menudo ventosa."
             ]
           }
         },
@@ -529,7 +568,8 @@
             "de": "Genießen Sie die milde Wintersonne an der Puerta de Purchena. Die kühle Morgenluft ist ideal für einen Spaziergang durch die historische Altstadt, ohne die drückende Sommerhitze zu spüren.\n\nMittags ist die Plaza de la Constitución der perfekte Ort, um Vitamin D zu tanken. Die Sonne steht tief und taucht die ockerfarbenen Wände der Kathedrale in ein warmes, goldenes Licht.\n\nDer Nachmittag gehört der Alcazaba. Im Winter kann man die weitläufigen Gärten und Festungsmauern ohne Erschöpfung erkunden. Die Fernsicht auf die schneebedeckten Gipfel der Sierra Nevada in der Ferne ist atemberaubend.\n\nDa die Sonne gegen 18:00 Uhr untergeht, sollten Sie früh am English Cable sein. Das restliche Tageslicht färbt den Himmel über dem Hafen in intensive Violetttöne, bevor Sie sich in eine warme Tapas-Bar zurückziehen.",
             "hu": "Élvezze az enyhe téli napsütést a Puerta de Purchenánál. A hűvös reggeli levegő ideális az óvárosi sétához, anélkül, hogy a nyomasztó nyári hőséggel kellene küzdenie.\n\nEbédidőben a Plaza de la Constitución a legjobb hely a D-vitamin gyűjtésére. Az alacsonyan járó nap meleg, aranyló fénybe vonja a katedrális okkersárga falait.\n\nA délután az Alcazabáé. Télen a hatalmas kertek és várfalak kimerültség nélkül bejárhatók. A távolban megcsillanó Sierra Nevada havas csúcsai ilyenkor a legszebbek.\n\nMivel a nap 18:00 körül nyugszik, érjen korán az English Cable-hez. Az utolsó fények lila tónusba öltöztetik a kikötőt, mielőtt behúzódna egy fűtött tapas-bárba.",
             "ro": "Bucurați-vă de soarele blând de iarnă la Puerta de Purchena. Aerul răcoros al dimineții este ideal pentru o plimbare prin orașul vechi, fără a simți căldura sufocantă a verii.\n\nLa prânz, Plaza de la Constitución este locul perfect pentru a acumula vitamina D. Soarele jos scaldă pereții de ocru ai Catedralei într-o lumină caldă, aurie.\n\nDupă-amiaza aparține cetății Alcazaba. Iarna, grădinile vaste și zidurile fortăreței pot fi explorate fără epuizare. Vederea spre vârfurile înzăpezite ale Sierra Nevada este uluitoare.\n\nDeoarece soarele apune în jur de ora 18:00, ajungeți devreme la English Cable. Lumina reziduală colorează cerul portului în nuanțe intense de violet înainte de a vă retrage într-un bar de tapas călduros.",
-            "en": "Enjoy the mild winter sun at Puerta de Purchena. The crisp morning air is ideal for a stroll through the historic old town without facing the oppressive summer heat.\n\nAt lunch, Plaza de la Constitución is the perfect spot to soak up some Vitamin D. The low sun bathes the ocher walls of the Cathedral in a warm, golden glow.\n\nSpend your afternoon at the Alcazaba. In winter, you can explore the extensive gardens and fortress walls without exhaustion. The distant view of the snow-capped Sierra Nevada peaks is breathtaking.\n\nAs the sun sets around 6:00 PM, head to the English Cable early. The remaining daylight paints the harbor sky in deep violet tones before you retreat into a cozy tapas bar."
+            "en": "Enjoy the mild winter sun at Puerta de Purchena. The crisp morning air is ideal for a stroll through the historic old town without facing the oppressive summer heat.\n\nAt lunch, Plaza de la Constitución is the perfect spot to soak up some Vitamin D. The low sun bathes the ocher walls of the Cathedral in a warm, golden glow.\n\nSpend your afternoon at the Alcazaba. In winter, you can explore the extensive gardens and fortress walls without exhaustion. The distant view of the snow-capped Sierra Nevada peaks is breathtaking.\n\nAs the sun sets around 6:00 PM, head to the English Cable early. The remaining daylight paints the harbor sky in deep violet tones before you retreat into a cozy tapas bar.",
+            "es": "Disfruta del suave sol invernal en Puerta de Purchena. El aire fresco de la mañana es ideal para pasear por el casco histórico sin el agobio del verano.\n\nA la hora de comer, la Plaza de la Constitución es el lugar perfecto para tomar el sol y cargar vitamina D. El sol bajo baña los muros ocre de la Catedral con un cálido resplandor dorado.\n\nPasa la tarde en la Alcazaba. En invierno puedes explorar los amplios jardines y murallas sin agotarte. La vista lejana de las cumbres nevadas de Sierra Nevada es impresionante.\n\nCuando el sol se ponga sobre las 18:00, ve pronto al Cable Inglés. La luz restante tiñe el cielo del puerto de violetas intensos antes de refugiarte en una acogedora taberna de tapas."
           },
           "stops": [
             {
@@ -538,7 +578,8 @@
                 "de": "Genießen Sie den Kaffee in der Morgensonne auf einer der Terrassen.",
                 "hu": "Élvezze a reggeli kávét a napsütötte teraszok egyikén.",
                 "ro": "Savurați cafeaua la soarele dimineții pe una dintre terase.",
-                "en": "Enjoy your morning coffee in the sun on one of the terraces."
+                "en": "Enjoy your morning coffee in the sun on one of the terraces.",
+                "es": "Disfruta de tu café matutino al sol en una de las terrazas."
               }
             },
             {
@@ -547,7 +588,8 @@
                 "de": "Die Temperatur unter der Erde ist das ganze Jahr über konstant mild.",
                 "hu": "A föld alatti hőmérséklet egész évben állandó és kellemes.",
                 "ro": "Temperatura sub pământ este constant blândă pe tot parcursul anului.",
-                "en": "The underground temperature remains constantly mild all year round."
+                "en": "The underground temperature remains constantly mild all year round.",
+                "es": "La temperatura subterránea se mantiene constantemente templada todo el año."
               }
             },
             {
@@ -556,7 +598,8 @@
                 "de": "Ein sonniger Ort, der durch die Mauern windgeschützt ist.",
                 "hu": "Napsütötte helyszín, amelyet a falak védenek a széltől.",
                 "ro": "Un loc însorit, protejat de vânt de zidurile din jur.",
-                "en": "A sunny spot that is well-protected from the wind by the walls."
+                "en": "A sunny spot that is well-protected from the wind by the walls.",
+                "es": "Un lugar soleado bien protegido del viento por los muros."
               }
             },
             {
@@ -565,7 +608,8 @@
                 "de": "Beachten Sie das Lichtspiel der tiefstehenden Sonne an der Fassade.",
                 "hu": "Figyelje meg az alacsony napfény játékát a homlokzaton.",
                 "ro": "Observați jocul luminii soarelui de iarnă pe fațadă.",
-                "en": "Observe the play of the low-angled sun on the facade."
+                "en": "Observe the play of the low-angled sun on the facade.",
+                "es": "Observa el juego del sol bajo en la fachada."
               }
             },
             {
@@ -574,7 +618,8 @@
                 "de": "Wählen Sie Plätze im Freien, solange die Mittagssonne wärmt.",
                 "hu": "Válasszon kültéri asztalt, amíg a déli nap melegít.",
                 "ro": "Alegeți locuri în aer liber cât timp soarele de la prânz încălzește.",
-                "en": "Choose outdoor seating while the midday sun is still warm."
+                "en": "Choose outdoor seating while the midday sun is still warm.",
+                "es": "Elige mesas exteriores mientras el sol del mediodía aún calienta."
               }
             },
             {
@@ -583,7 +628,8 @@
                 "de": "Perfekte Zeit für den Aufstieg, keine Gefahr von Überhitzung.",
                 "hu": "Tökéletes időpont a felfelé úthoz, nincs hőségriadó.",
                 "ro": "Momentul perfect pentru urcare, fără risc de supraîncălzire.",
-                "en": "Perfect time for the climb; no risk of overheating."
+                "en": "Perfect time for the climb; no risk of overheating.",
+                "es": "Momento perfecto para la subida; sin riesgo de sobrecalentamiento."
               }
             },
             {
@@ -592,7 +638,8 @@
                 "de": "Die kühle Steinarchitektur wirkt im Winter gemütlich statt frostig.",
                 "hu": "A hűvös kőépítészet télen barátságosnak hat a hideg helyett.",
                 "ro": "Arhitectura răcoroasă din piatră pare primitoare iarna.",
-                "en": "The cool stone architecture feels cozy rather than frosty in winter."
+                "en": "The cool stone architecture feels cozy rather than frosty in winter.",
+                "es": "La arquitectura de piedra fresca resulta acogedora y no glacial en invierno."
               }
             },
             {
@@ -601,7 +648,8 @@
                 "de": "Bester Spot für den frühen Sonnenuntergang über dem Meer.",
                 "hu": "A legjobb helyszín a korai tengeri naplemente megtekintéséhez.",
                 "ro": "Cel mai bun loc pentru apusul devreme deasupra mării.",
-                "en": "Best spot for the early sunset over the sea."
+                "en": "Best spot for the early sunset over the sea.",
+                "es": "Mejor sitio para ver la puesta de sol temprana sobre el mar."
               }
             }
           ],
@@ -633,6 +681,13 @@
               "Look for 'Migas' on the menu – a classic local winter dish.",
               "Humidity rises quickly in the evening; keep a light jacket ready.",
               "The view of the Sierra Nevada is best after clear winter nights."
+            ],
+            "es": [
+              "Vístete en capas: hace frío a la sombra, pero con camiseta al sol.",
+              "La Alcazaba cierra antes en invierno (normalmente sobre las 18:30).",
+              "Busca 'Migas' en la carta: un plato local clásico de invierno.",
+              "La humedad sube rápido por la tarde; lleva una chaqueta ligera.",
+              "La vista de Sierra Nevada es mejor después de noches invernales despejadas."
             ]
           }
         }
@@ -651,7 +706,8 @@
             "de": "Fahrradverleih & Puerta de Purchena",
             "hu": "Kerékpárkölcsönzés és Puerta de Purchena",
             "ro": "Închiriere biciclete & Puerta de Purchena",
-            "en": "Bike Rental & Puerta de Purchena"
+            "en": "Bike Rental & Puerta de Purchena",
+            "es": "Alquiler de bicicletas y Puerta de Purchena"
           },
           "coords": [
             -2.466,
@@ -667,7 +723,8 @@
             "de": "Mieten Sie ein Fahrrad für den Tag und starten Sie Ihre Tour im Herzen der Stadt.",
             "hu": "Béreljen biciklit egy napra, és kezdje a túrát a város szívében.",
             "ro": "Închiriați o bicicletă pentru o zi și începeți turul în inima orașului.",
-            "en": "Rent a bike for the day and start your tour in the heart of the city."
+            "en": "Rent a bike for the day and start your tour in the heart of the city.",
+            "es": "Alquila una bici por el día y empieza tu ruta en el corazón de la ciudad."
           }
         },
         {
@@ -675,7 +732,8 @@
             "de": "Kathedrale von Almería",
             "hu": "Almeríai székesegyház",
             "ro": "Catedrala din Almería",
-            "en": "Cathedral of Almería"
+            "en": "Cathedral of Almería",
+            "es": "Catedral de Almería"
           },
           "coords": [
             -2.4682,
@@ -691,7 +749,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie die Kathedrale erkunden.",
             "hu": "Zárja le biztonságosan a kerékpárt, mielőtt felfedezné a katedrálist.",
             "ro": "Asigurați-vă bicicleta înainte de a explora Catedrala.",
-            "en": "Lock your bike securely before exploring the Cathedral."
+            "en": "Lock your bike securely before exploring the Cathedral.",
+            "es": "Asegura bien la bicicleta antes de explorar la Catedral."
           }
         },
         {
@@ -699,7 +758,8 @@
             "de": "Alcazaba von Almería (unterer Eingang)",
             "hu": "Almeríai Alcazaba (alsó bejárat)",
             "ro": "Alcazaba din Almería (intrare inferioară)",
-            "en": "Alcazaba of Almería (lower entrance)"
+            "en": "Alcazaba of Almería (lower entrance)",
+            "es": "Alcazaba de Almería (entrada baja)"
           },
           "coords": [
             -2.471,
@@ -715,7 +775,8 @@
             "de": "Parken Sie Ihr Fahrrad unten und gehen Sie zu Fuß hinauf. Der Aufstieg ist steil.",
             "hu": "Parkolja le a biciklit lent, és sétáljon fel. Az emelkedő meredek.",
             "ro": "Parcați bicicleta jos și urcați pe jos. Urcușul este abrupt.",
-            "en": "Park your bike at the bottom and walk up. The climb is steep."
+            "en": "Park your bike at the bottom and walk up. The climb is steep.",
+            "es": "Aparca la bici abajo y sube a pie. La subida es empinada."
           }
         },
         {
@@ -723,7 +784,8 @@
             "de": "English Cable (El Cable Inglés)",
             "hu": "Angol Móló (El Cable Inglés)",
             "ro": "Cheiul Englezesc (El Cable Inglés)",
-            "en": "The English Cable (El Cable Inglés)"
+            "en": "The English Cable (El Cable Inglés)",
+            "es": "El Cable Inglés"
           },
           "coords": [
             -2.459,
@@ -739,7 +801,8 @@
             "de": "Ein schöner Halt entlang der Küste, der sich perfekt in eine Radtour einfügt.",
             "hu": "Kellemes megálló a tengerparton, tökéletesen illik egy biciklitúrába.",
             "ro": "O oprire frumoasă de-a lungul coastei, perfectă pentru un tur cu bicicleta.",
-            "en": "A beautiful stop along the coast, perfect to include in a bike tour."
+            "en": "A beautiful stop along the coast, perfect to include in a bike tour.",
+            "es": "Una parada preciosa junto a la costa, perfecta para incluir en una ruta en bici."
           }
         },
         {
@@ -747,7 +810,8 @@
             "de": "Mittagessen am Strand (Paseo Marítimo)",
             "hu": "Ebéd a tengerparton (Paseo Marítimo)",
             "ro": "Prânz pe plajă (Paseo Marítimo)",
-            "en": "Lunch on the Beach (Paseo Marítimo)"
+            "en": "Lunch on the Beach (Paseo Marítimo)",
+            "es": "Almuerzo en la playa (Paseo Marítimo)"
           },
           "coords": [
             -2.448,
@@ -763,7 +827,8 @@
             "de": "Wählen Sie ein Chiringuito für frischen Fisch und Meerblick.",
             "hu": "Válasszon egy chiringuitót friss halért és tengeri kilátásért.",
             "ro": "Alegeți un chiringuito pentru pește proaspăt și vedere la mare.",
-            "en": "Choose a chiringuito for fresh fish and sea views."
+            "en": "Choose a chiringuito for fresh fish and sea views.",
+            "es": "Elige un chiringuito para pescado fresco y vistas al mar."
           }
         },
         {
@@ -771,7 +836,8 @@
             "de": "Museo de Almería",
             "hu": "Almeríai Múzeum",
             "ro": "Muzeul din Almería",
-            "en": "Museum of Almería"
+            "en": "Museum of Almería",
+            "es": "Museo de Almería"
           },
           "coords": [
             -2.456,
@@ -787,7 +853,8 @@
             "de": "Eine großartige Möglichkeit, der Nachmittagssonne zu entfliehen und mehr über die reiche Geschichte der Region zu erfahren.",
             "hu": "Nagyszerű módja a délutáni nap elől való menekülésnek, és többet megtudni a régió gazdag történelméről.",
             "ro": "O modalitate excelentă de a scăpa de soarele de după-amiază și de a învăța despre istoria bogată a regiunii.",
-            "en": "A great way to escape the afternoon sun and learn about the region's rich history."
+            "en": "A great way to escape the afternoon sun and learn about the region's rich history.",
+            "es": "Una gran forma de escapar del sol de la tarde y aprender sobre la rica historia de la región."
           }
         },
         {
@@ -795,7 +862,8 @@
             "de": "Rückgabe der Fahrräder & Tapas",
             "hu": "Kerékpárok visszaadása és tapas",
             "ro": "Returnarea bicicletelor & Tapas",
-            "en": "Bike Return & Tapas"
+            "en": "Bike Return & Tapas",
+            "es": "Devolución de la bici y tapas"
           },
           "coords": [
             -2.466,
@@ -811,7 +879,8 @@
             "de": "Beenden Sie den Tag mit wohlverdienten kalten Getränken und Tapas in der Nähe des Fahrradverleihs.",
             "hu": "Zárja a napot egy jól megérdemelt hideg itallal és tapasszal a kölcsönző közelében.",
             "ro": "Încheiați ziua cu băuturi reci bine meritate și tapas lângă centrul de închirieri.",
-            "en": "End the day with some well-deserved cold drinks and tapas near the rental shop."
+            "en": "End the day with some well-deserved cold drinks and tapas near the rental shop.",
+            "es": "Termina el día con unas merecidas bebidas frías y tapas cerca de la tienda de alquiler."
           }
         }
       ],
@@ -819,7 +888,8 @@
         "de": "Beginnen Sie Ihren Tag auf zwei Rädern im Zentrum von Almería. Am Morgen radeln Sie durch die Altstadt, besuchen die Kathedrale und stellen sich dem Aufstieg zur Alcazaba. Nach der Erkundung der Festung führt Sie Ihre Route entlang der Küste zum industriellen Cable Inglés. Genießen Sie ein entspanntes Mittagessen am Meer an der Promenade. Der Nachmittag bietet eine kulturelle Abkühlung im Museum von Almería, bevor Sie zurück ins Zentrum radeln, um Ihren aktiven Tag mit köstlichen Tapas ausklingen zu lassen.",
         "hu": "Kezdje a napot két keréken Almería központjában. Délelőtt végigteker az óvároson, meglátogatja a katedrálist, és nekivág az Alcazabához vezető emelkedőnek. Az erőd felfedezése után az útvonal a part mentén vezet az ipari Cable Ingléshez. Élvezzen egy laza ebédet a tengerparti sétányon. A délután kulturális felüdülést kínál az Almeríai Múzeumban, mielőtt visszatekerne a központba, hogy az aktív napot finom tapasokkal zárja.",
         "ro": "Începeți ziua pe două roți în centrul Almeríei. Dimineața pedalați prin orașul vechi, vizitați Catedrala și înfruntați urcușul spre Alcazaba. După explorarea fortăreței, traseul vă duce de-a lungul coastei la industrialul Cable Inglés. Bucurați-vă de un prânz relaxant la malul mării, pe promenadă. După-amiaza oferă o răcorire culturală la Muzeul din Almería, înainte de a pedala înapoi în centru pentru a încheia ziua activă cu niște tapas delicioase.",
-        "en": "Start your day on two wheels in the center of Almería. In the morning, you'll cycle through the old town, visit the Cathedral, and tackle the climb to the Alcazaba. After exploring the fortress, your route takes you along the coast to the industrial Cable Inglés. Enjoy a relaxed lunch by the sea on the promenade. The afternoon offers a cultural cool-down at the Museum of Almería before you cycle back to the center to end your active day with delicious tapas."
+        "en": "Start your day on two wheels in the center of Almería. In the morning, you'll cycle through the old town, visit the Cathedral, and tackle the climb to the Alcazaba. After exploring the fortress, your route takes you along the coast to the industrial Cable Inglés. Enjoy a relaxed lunch by the sea on the promenade. The afternoon offers a cultural cool-down at the Museum of Almería before you cycle back to the center to end your active day with delicious tapas.",
+        "es": "Comienza el día sobre dos ruedas en el centro de Almería. Por la mañana pedalearás por el casco antiguo, visitarás la Catedral y afrontarás la subida a la Alcazaba. Tras explorar la fortaleza, tu ruta te llevará por la costa hasta el industrial Cable Inglés. Disfruta de un almuerzo relajado junto al mar en el paseo. La tarde ofrece un descanso cultural en el Museo de Almería antes de volver al centro para acabar el día con deliciosas tapas."
       },
       "gastro_picks": {
         "de": [
@@ -1015,6 +1085,12 @@
           "Use the bike lanes along the coast to avoid traffic.",
           "A helmet is highly recommended.",
           "Be mindful of one-way streets in the old town."
+        ],
+        "es": [
+          "Revisa frenos y neumáticos antes de salir.",
+          "Usa los carriles bici junto a la costa para evitar el tráfico.",
+          "Se recomienda casco.",
+          "Ten en cuenta las calles de sentido único en el casco antiguo."
         ]
       },
       "variants": {
@@ -1023,7 +1099,8 @@
             "de": "Ein verregneter Radtag in Almería erfordert Vorsicht auf den glatten Fliesen der Innenstadt. Beginnen Sie an der Puerta de Purchena und radeln Sie vorsichtig zur Kathedrale, wo Sie Ihr Rad sicher abstellen können.\n\nMittags empfiehlt sich eine Fahrt entlang des Paseo Marítimo. Der Wind kann stark sein, aber der Blick auf die aufgewühlte See ist ein Erlebnis. Suchen Sie sich ein Restaurant mit Fahrradstellplätzen unter einem Vordach.\n\nAm Nachmittag bietet das Museum von Almería einen trockenen und kulturell wertvollen Rückzugsort. Die Fahrt dorthin führt über breitere Straßen, die bei Nässe sicherer sind als die engen Gassen.\n\nBeenden Sie die Tour mit einer kurzen Fahrt zum English Cable. Die Metallstrukturen sind bei Regen rutschig, also bleiben Sie auf den markierten Wegen, bevor Sie Ihr Rad zurückgeben.",
             "hu": "Egy esős kerékpáros nap Almeríában óvatosságot igényel a belváros csúszós burkolatain. Kezdje a Puerta de Purchenánál, és tekerjen óvatosan a katedrálishoz, ahol biztonságban lelakatolhatja a gépet.\n\nEbédidőben érdemes a Paseo Marítimo mentén haladni. A szél erős lehet, de a felkorbácsolt tenger látványa kárpótolja. Keressen olyan éttermet, ahol az előtető alatt hagyhatja a bringát.\n\nDélután az Almería Múzeum nyújt száraz és kulturális menedéket. Az odaút szélesebb utakon vezet, amelyek nedvesen is biztonságosabbak, mint a szűk sikátorok.\n\nA túrát az English Cable-nél zárja. A fémszerkezetek esőben csúszósak, maradjon a kijelölt úton, mielőtt leadná a bérpalt kerékpárt.",
             "ro": "O zi de ciclism ploioasă în Almería necesită prudență pe plăcile alunecoase din centrul orașului. Începeți la Puerta de Purchena și pedalați cu grijă spre Catedrală, unde puteți parca bicicleta în siguranță.\n\nLa prânz, se recomandă o plimbare de-a lungul Paseo Marítimo. Vântul poate fi puternic, dar vederea mării agitate este o experiență deosebită. Căutați un restaurant cu locuri de parcare sub copertină.\n\nDupă-amiaza, Muzeul din Almería oferă un refugiu uscat și valoros cultural. Drumul până acolo trece pe străzi mai largi, care sunt mai sigure pe ploaie decât străzile înguste.\n\nÎncheiați turul cu o scurtă vizită la English Cable. Structurile metalice sunt alunecoase pe ploaie, așa că rămâneți pe căile marcate înainte de a returna bicicleta.",
-            "en": "A rainy bike day in Almería requires caution on the slippery city tiles. Start at Puerta de Purchena and cycle carefully to the Cathedral, where you can lock your bike in a sheltered spot.\n\nAt lunch, a ride along the Paseo Marítimo is recommended. The wind can be strong, but the view of the churning sea is quite an experience. Look for a restaurant with bike racks under an awning.\n\nIn the afternoon, the Museum of Almería provides a dry and culturally rich escape. The route there follows wider roads, which are safer when wet than the narrow backstreets.\n\nFinish the tour with a short ride to the English Cable. The metal structures are slippery in the rain, so stay on the marked paths before returning your bike."
+            "en": "A rainy bike day in Almería requires caution on the slippery city tiles. Start at Puerta de Purchena and cycle carefully to the Cathedral, where you can lock your bike in a sheltered spot.\n\nAt lunch, a ride along the Paseo Marítimo is recommended. The wind can be strong, but the view of the churning sea is quite an experience. Look for a restaurant with bike racks under an awning.\n\nIn the afternoon, the Museum of Almería provides a dry and culturally rich escape. The route there follows wider roads, which are safer when wet than the narrow backstreets.\n\nFinish the tour with a short ride to the English Cable. The metal structures are slippery in the rain, so stay on the marked paths before returning your bike.",
+            "es": "Un día lluvioso en bici por Almería exige precaución con las baldosas resbaladizas. Comienza en Puerta de Purchena y pedalea con cuidado hasta la Catedral, donde puedes asegurar la bici en un punto cubierto.\n\nEn la hora de comer, se recomienda rodar por el Paseo Marítimo. El viento puede ser fuerte, pero la vista del mar agitado es toda una experiencia. Busca un restaurante con aparca-bicicletas bajo un toldo.\n\nPor la tarde, el Museo de Almería ofrece un refugio seco y cultural. La ruta hasta allí sigue vías más anchas, más seguras en mojado que las estrechas calles traseras.\n\nTermina la ruta con un breve paseo hasta el Cable Inglés. Las estructuras metálicas están resbaladizas con la lluvia, así que mantente en los caminos señalizados antes de devolver la bici."
           },
           "stops": [
             {
@@ -1032,7 +1109,8 @@
                 "de": "Fragen Sie nach einem Rad mit Schutzblechen und wasserfesten Taschen.",
                 "hu": "Kérjen sárvédővel és vízálló táskákkal felszerelt kerékpárt.",
                 "ro": "Cereți o bicicletă cu aripi și genți impermeabile.",
-                "en": "Ask for a bike with mudguards and waterproof panniers."
+                "en": "Ask for a bike with mudguards and waterproof panniers.",
+                "es": "Pide una bici con guardabarros y alforjas impermeables."
               }
             },
             {
@@ -1041,7 +1119,8 @@
                 "de": "Stellen Sie das Rad nah an die Kirchenmauer, um es trocken zu halten.",
                 "hu": "Zárja a biciklit közel a templomfalhoz, hogy száraz maradjon.",
                 "ro": "Parcați bicicleta aproape de zidul bisericii pentru a o păstra uscată.",
-                "en": "Park the bike close to the church wall to keep it dry."
+                "en": "Park the bike close to the church wall to keep it dry.",
+                "es": "Aparca la bici cerca del muro de la iglesia para mantenerla seca."
               }
             },
             {
@@ -1050,7 +1129,8 @@
                 "de": "Vermeiden Sie das Befahren der steilen, nassen Kopfsteinpflasterrampen.",
                 "hu": "Kerülje a meredek, nedves macskaköves rámpákon való tekerést.",
                 "ro": "Evitați să pedalați pe rampele abrupte și umede cu pavaj.",
-                "en": "Avoid cycling on the steep, wet cobblestone ramps."
+                "en": "Avoid cycling on the steep, wet cobblestone ramps.",
+                "es": "Evita pedalear por las rampas empedradas y empinadas cuando estén mojadas."
               }
             },
             {
@@ -1059,7 +1139,8 @@
                 "de": "Steigen Sie bei der Einfahrt auf das Hafengelände vom Rad ab.",
                 "hu": "A kikötői területre érve szálljon le a kerékpárról a csúszásveszély miatt.",
                 "ro": "Coborâți de pe bicicletă la intrarea în zona portului.",
-                "en": "Dismount your bike when entering the port area."
+                "en": "Dismount your bike when entering the port area.",
+                "es": "Baja de la bici al entrar en la zona del puerto."
               }
             },
             {
@@ -1068,7 +1149,8 @@
                 "de": "Achten Sie auf Sand auf dem Radweg, der bei Regen zu Schlamm wird.",
                 "hu": "Vigyázzon a kerékpárúton lévő homokra, ami esőben sárra válik.",
                 "ro": "Atenție la nisipul de pe pista de biciclete, care devine noroi pe ploaie.",
-                "en": "Watch out for sand on the bike path, which turns to mud in the rain."
+                "en": "Watch out for sand on the bike path, which turns to mud in the rain.",
+                "es": "Cuidado con la arena en el carril bici, que se convierte en barro con la lluvia."
               }
             },
             {
@@ -1077,7 +1159,8 @@
                 "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen des Rades.",
                 "hu": "Használja a múzeum fedett bejáratát a kerékpár tárolására.",
                 "ro": "Folosiți zona de intrare acoperită pentru a lăsa bicicleta.",
-                "en": "Use the covered entrance area to park your bike."
+                "en": "Use the covered entrance area to park your bike.",
+                "es": "Utiliza la zona de entrada cubierta para aparcar la bici."
               }
             },
             {
@@ -1086,7 +1169,8 @@
                 "de": "Trocknen Sie den Sattel gründlich ab, bevor Sie das Rad abgeben.",
                 "hu": "Alaposan törölje le a nyerget, mielőtt leadná a bringát.",
                 "ro": "Ștergeți bine șaua înainte de a returna bicicleta.",
-                "en": "Thoroughly dry the saddle before returning the bike."
+                "en": "Thoroughly dry the saddle before returning the bike.",
+                "es": "Seca bien el sillín antes de devolver la bici."
               }
             }
           ],
@@ -1118,6 +1202,13 @@
               "Wear a high-visibility raincoat; drivers' visibility decreases in rain.",
               "Check tire pressure; slightly lower pressure offers better grip on wet roads.",
               "There are no bike dryers in Almería; bringing a small towel is essential."
+            ],
+            "es": [
+              "Evita frenar de golpe sobre las tiras de mármol blanco de las aceras.",
+              "Ráfagas de viento en el puerto pueden desequilibrar fácilmente a un ciclista.",
+              "Lleva un impermeable de alta visibilidad; la visibilidad de los conductores disminuye con la lluvia.",
+              "Revisa la presión de los neumáticos; una presión ligeramente inferior ofrece mejor agarre en mojado.",
+              "No hay secadores de bicicletas en Almería; llevar una toalla pequeña es esencial."
             ]
           }
         },
@@ -1126,7 +1217,8 @@
             "de": "Winterliches Radfahren in Almería ist ein Genuss, da die Temperaturen selten unter 15 Grad fallen. Starten Sie bei der Puerta de Purchena und nutzen Sie die leeren Radwege am Morgen, um zur Kathedrale zu gelangen.\n\nMittags ist die Fahrt zum Paseo Marítimo besonders schön, da die Sonne nicht zu heiß brennt. Sie können kilometerweit am Strand entlangfahren und die frische Meeresbrise genießen.\n\nNachmittags bietet der Besuch der Alcazaba eine willkommene Pause vom Radfahren. Die kühlen Mauern der Festung sind im Winter angenehmer zu erklimmen als im Sommer, und der Blick auf die Stadt ist kristallklar.\n\nBeenden Sie Ihre Tour am English Cable kurz vor Sonnenuntergang. Das goldene Licht des Winters ist perfekt für Fotos, bevor Sie das Rad zurückgeben und den Tag in einer lebhaften Tapas-Bar ausklingen lassen.",
             "hu": "A téli kerékpározás Almeríában igazi élvezet, mivel a hőmérséklet ritkán esik 15 fok alá. Kezdjen a Puerta de Purchenánál, és használja ki az üres reggeli kerékpárutakat a katedrális felé.\n\nEbédidőben a Paseo Marítimo felé vezető út különösen szép, a nap nem tűz túl erősen. Kilométereken át tekerhet a tengerparton, élvezve a friss sós levegőt.\n\nDélután az Alcazaba meglátogatása remek pihenő a tekerés után. A vár hűvös falai télen sokkal barátságosabbak, a kilátás a városra pedig ilyenkor a legtisztább.\n\nA túrát az English Cable-nél zárja közvetlenül naplemente előtt. A téli aranyló fények tökéletesek a fotózáshoz, mielőtt leadná a bringát és beülne egy nyüzsgő tapas-bárba.",
             "ro": "Ciclismul de iarnă în Almería este o plăcere, deoarece temperaturile scad rar sub 15 grade. Începeți la Puerta de Purchena și profitați de pistele de biciclete libere dimineața spre Catedrală.\n\nLa prânz, drumul spre Paseo Marítimo este deosebit de frumos, soarele nu arde prea tare. Puteți pedala kilometri întregi de-a lungul plajei, bucurându-vă de briza proaspătă a mării.\n\nDupă-amiaza, vizita la Alcazaba oferă o pauză binevenită de la pedalat. Zidurile răcoroase ale cetății sunt mai plăcut de urcat iarna, iar vederea asupra orașului este deosebit de clară.\n\nÎncheiați turul la English Cable chiar înainte de apus. Lumina aurie a iernii este perfectă pentru fotografii înainte de a returna bicicleta și de a încheia ziua într-un bar de tapas plin de viață.",
-            "en": "Winter cycling in Almería is a delight, as temperatures rarely drop below 15 degrees. Start at Puerta de Purchena and take advantage of the empty bike paths in the morning to reach the Cathedral.\n\nAt lunch, the ride to the Paseo Marítimo is especially beautiful since the sun isn't too harsh. You can cycle for miles along the beach, enjoying the fresh sea breeze.\n\nIn the afternoon, visiting the Alcazaba provides a welcome break from cycling. The fortress's cool walls are much more pleasant to climb in winter, and the view over the city is crystal clear.\n\nEnd your tour at the English Cable just before sunset. The golden winter light is perfect for photos before you return the bike and finish the day in a lively tapas bar."
+            "en": "Winter cycling in Almería is a delight, as temperatures rarely drop below 15 degrees. Start at Puerta de Purchena and take advantage of the empty bike paths in the morning to reach the Cathedral.\n\nAt lunch, the ride to the Paseo Marítimo is especially beautiful since the sun isn't too harsh. You can cycle for miles along the beach, enjoying the fresh sea breeze.\n\nIn the afternoon, visiting the Alcazaba provides a welcome break from cycling. The fortress's cool walls are much more pleasant to climb in winter, and the view over the city is crystal clear.\n\nEnd your tour at the English Cable just before sunset. The golden winter light is perfect for photos before you return the bike and finish the day in a lively tapas bar.",
+            "es": "El ciclismo en invierno en Almería es un placer, ya que las temperaturas rara vez bajan de 15 grados. Comienza en Puerta de Purchena y aprovecha los carriles bici vacíos por la mañana para llegar a la Catedral.\n\nAl mediodía, la ruta hacia el Paseo Marítimo es especialmente bonita porque el sol no es tan fuerte. Puedes pedalear kilómetros junto a la playa disfrutando de la fresca brisa marina.\n\nPor la tarde, visitar la Alcazaba ofrece un agradable descanso del pedaleo. Las frescas paredes de la fortaleza son mucho más placenteras para subir en invierno y las vistas sobre la ciudad son muy nítidas.\n\nTermina la ruta en el Cable Inglés justo antes del atardecer. La luz dorada invernal es perfecta para fotos antes de devolver la bici y acabar el día en un animado bar de tapas."
           },
           "stops": [
             {
@@ -1135,7 +1227,8 @@
                 "de": "Leichte Handschuhe sind für die Abfahrten am Morgen empfehlenswert.",
                 "hu": "Könnyű kesztyű ajánlott a hűvösebb reggeli szakaszokhoz.",
                 "ro": "Mănușile ușoare sunt recomandate pentru coborârile de dimineață.",
-                "en": "Light gloves are recommended for the cooler morning rides."
+                "en": "Light gloves are recommended for the cooler morning rides.",
+                "es": "Se recomiendan guantes ligeros para las salidas matinales más frescas."
               }
             },
             {
@@ -1144,7 +1237,8 @@
                 "de": "Nutzen Sie den sonnigen Platz vor der Kirche zum Aufwärmen.",
                 "hu": "Használja a templom előtti napsütötte teret a bemelegedéshez.",
                 "ro": "Folosiți piața însorită din fața bisericii pentru a vă încălzi.",
-                "en": "Use the sunny square in front of the church to warm up."
+                "en": "Use the sunny square in front of the church to warm up.",
+                "es": "Utiliza la plaza soleada frente a la iglesia para entrar en calor."
               }
             },
             {
@@ -1153,7 +1247,8 @@
                 "de": "Schließen Sie das Rad im Schatten ab; die Wintersonne ist dennoch intensiv.",
                 "hu": "Lakatolja le a bringát árnyékban; a téli nap ereje is jelentős.",
                 "ro": "Parcați bicicleta la umbră; soarele de iarnă este totuși intens.",
-                "en": "Lock your bike in the shade; the winter sun is still quite intense."
+                "en": "Lock your bike in the shade; the winter sun is still quite intense.",
+                "es": "Asegura tu bici a la sombra; el sol invernal sigue siendo bastante intenso."
               }
             },
             {
@@ -1162,7 +1257,8 @@
                 "de": "Idealer Zeitpunkt für Fotos ohne die sommerlichen Touristenmassen.",
                 "hu": "Ideális időpont a fotózáshoz a nyári tömeg nélkül.",
                 "ro": "Momentul ideal pentru fotografii fără mulțimile de turiști din vară.",
-                "en": "Ideal time for photos without the summer tourist crowds."
+                "en": "Ideal time for photos without the summer tourist crowds.",
+                "es": "Momento ideal para fotos sin las multitudes veraniegas de turistas."
               }
             },
             {
@@ -1171,7 +1267,8 @@
                 "de": "Wählen Sie ein Restaurant mit Windschutz direkt an der Promenade.",
                 "hu": "Válasszon szélvédett éttermet közvetlenül a sétányon.",
                 "ro": "Alegeți un restaurant cu protecție împotriva vântului pe faleză.",
-                "en": "Choose a restaurant with wind protection right on the promenade."
+                "en": "Choose a restaurant with wind protection right on the promenade.",
+                "es": "Elige un restaurante con protección contra el viento en el mismo paseo."
               }
             },
             {
@@ -1180,7 +1277,8 @@
                 "de": "Die Klimatisierung innen ist im Winter oft angenehm warm.",
                 "hu": "A belső légkondicionálás télen gyakran kellemesen fűt.",
                 "ro": "Climatizarea interioară este adesea plăcut de caldă iarna.",
-                "en": "The indoor climate control is often pleasantly warm in winter."
+                "en": "The indoor climate control is often pleasantly warm in winter.",
+                "es": "El control climático interior suele ser agradablemente cálido en invierno."
               }
             },
             {
@@ -1189,7 +1287,8 @@
                 "de": "Prüfen Sie die Rückgabezeiten; manche Läden schließen im Winter früher.",
                 "hu": "Ellenőrizze a leadási időt; néhány bolt télen korábban zár.",
                 "ro": "Verificați programul de returnare; unele magazine închid mai devreme.",
-                "en": "Check return times; some shops close earlier in the winter."
+                "en": "Check return times; some shops close earlier in the winter.",
+                "es": "Comprueba los horarios de devolución; algunas tiendas cierran antes en invierno."
               }
             }
           ],
@@ -1221,6 +1320,13 @@
               "A windstopper or a light vest is ideal for the coastal sections.",
               "Drink enough water despite the cool air; dry air dehydrates you quickly.",
               "Most bike paths are in better condition in winter (less sand/trash)."
+            ],
+            "es": [
+              "El sol se pone pronto (sobre las 18:00), así que planifica el regreso con luz diurna.",
+              "El paseo marítimo está casi vacío en invierno, perfecto para pedalear rápido.",
+              "Un cortavientos o un chaleco ligero es ideal para los tramos costeros.",
+              "Bebe suficiente agua a pesar del aire fresco; el clima seco deshidrata con rapidez.",
+              "La mayoría de los carriles bici están en mejor estado en invierno (menos arena/basura)."
             ]
           }
         }
@@ -1239,7 +1345,8 @@
             "de": "Parken & Cluster Altstadt",
             "hu": "Parkolás és Óváros Klaszter",
             "ro": "Parcare & Cluster Centrul Vechi",
-            "en": "Parking & Old Town Cluster"
+            "en": "Parking & Old Town Cluster",
+            "es": "Aparcamiento y conjunto del casco antiguo"
           },
           "coords": [
             -2.463,
@@ -1255,7 +1362,8 @@
             "de": "Parken Sie in einem Parkhaus in der Nähe der Puerta de Purchena für den ersten Teil des Tages.",
             "hu": "Parkoljon egy parkolóházban a Puerta de Purchena közelében a nap első felére.",
             "ro": "Parcați într-o parcare subterană lângă Puerta de Purchena pentru prima parte a zilei.",
-            "en": "Park in a garage near Puerta de Purchena for the first part of the day."
+            "en": "Park in a garage near Puerta de Purchena for the first part of the day.",
+            "es": "Aparca en un garaje cerca de Puerta de Purchena para la primera parte del día."
           }
         },
         {
@@ -1263,7 +1371,8 @@
             "de": "Puerta de Purchena & Bürgerkriegsbunker",
             "hu": "Puerta de Purchena és Polgárháborús Óvóhelyek",
             "ro": "Puerta de Purchena & Adăposturile Războiului Civil",
-            "en": "Puerta de Purchena & Civil War Shelters"
+            "en": "Puerta de Purchena & Civil War Shelters",
+            "es": "Puerta de Purchena y Refugios de la Guerra Civil"
           },
           "coords": [
             -2.465,
@@ -1279,7 +1388,8 @@
             "de": "Kombinieren Sie den Platzbesuch mit einer Führung durch die unterirdischen Gänge.",
             "hu": "Kombinálja a tér megtekintését egy vezetett túrával a földalatti járatokban.",
             "ro": "Combinați vizita în piață cu un tur ghidat al tunelurilor subterane.",
-            "en": "Combine the square visit with a guided tour of the underground tunnels."
+            "en": "Combine the square visit with a guided tour of the underground tunnels.",
+            "es": "Combina la visita a la plaza con un tour guiado por los túneles subterráneos."
           }
         },
         {
@@ -1287,7 +1397,8 @@
             "de": "Plaza de la Constitución & Kathedrale",
             "hu": "Alkotmány tér és Székesegyház",
             "ro": "Piața Constituției & Catedrala",
-            "en": "Constitution Square & Cathedral"
+            "en": "Constitution Square & Cathedral",
+            "es": "Plaza de la Constitución y Catedral"
           },
           "coords": [
             -2.468,
@@ -1303,7 +1414,8 @@
             "de": "Erkunden Sie den Hauptplatz und die beeindruckende Kathedrale-Festung.",
             "hu": "Fedezze fel a főteret és a lenyűgöző katedrális-erődöt.",
             "ro": "Explorați piața principală și impresionanta catedrală-fortăreață.",
-            "en": "Explore the main square and the impressive cathedral-fortress."
+            "en": "Explore the main square and the impressive cathedral-fortress.",
+            "es": "Explora la plaza principal y la impresionante catedral-fortaleza."
           }
         },
         {
@@ -1311,7 +1423,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebéd az óvárosban",
             "ro": "Prânz în centrul vechi",
-            "en": "Lunch in the Old Town"
+            "en": "Lunch in the Old Town",
+            "es": "Almuerzo en el casco antiguo"
           },
           "coords": [
             -2.467,
@@ -1327,7 +1440,8 @@
             "de": "Genießen Sie eine ausgiebige Mahlzeit, bevor Sie zum nächsten Cluster fahren.",
             "hu": "Élvezzen egy kiadós ebédet, mielőtt a következő klaszterhez hajtana.",
             "ro": "Bucurați-vă de o masă copioasă înainte de a conduce spre următorul cluster.",
-            "en": "Enjoy a hearty meal before you drive to the next cluster."
+            "en": "Enjoy a hearty meal before you drive to the next cluster.",
+            "es": "Disfruta de una comida contundente antes de conducir al siguiente conjunto."
           }
         },
         {
@@ -1335,7 +1449,8 @@
             "de": "Fahrt & Cluster Alcazaba",
             "hu": "Autózás és Alcazaba Klaszter",
             "ro": "Condus & Cluster Alcazaba",
-            "en": "Drive & Alcazaba Cluster"
+            "en": "Drive & Alcazaba Cluster",
+            "es": "Conducción y conjunto de la Alcazaba"
           },
           "coords": [
             -2.472,
@@ -1351,7 +1466,8 @@
             "de": "Fahren Sie zu einem Parkplatz in der Nähe der Alcazaba und erkunden Sie die Festung zu Fuß.",
             "hu": "Vezessen az Alcazaba közelében lévő parkolóhoz, és fedezze fel gyalog az erődöt.",
             "ro": "Conduceți la o parcare de lângă Alcazaba și explorați fortăreața pe jos.",
-            "en": "Drive to a parking spot near the Alcazaba and explore the fortress on foot."
+            "en": "Drive to a parking spot near the Alcazaba and explore the fortress on foot.",
+            "es": "Conduce hasta un aparcamiento cerca de la Alcazaba y explora la fortaleza a pie."
           }
         },
         {
@@ -1359,7 +1475,8 @@
             "de": "Fahrt & Cluster Museum/Küste",
             "hu": "Autózás és Múzeum/Part Klaszter",
             "ro": "Condus & Cluster Muzeu/Coastă",
-            "en": "Drive & Museum/Coast Cluster"
+            "en": "Drive & Museum/Coast Cluster",
+            "es": "Conducción y conjunto Museo/Costa"
           },
           "coords": [
             -2.456,
@@ -1375,7 +1492,8 @@
             "de": "Parken Sie in der Nähe des Museums für den letzten Teil Ihres Tages.",
             "hu": "Parkoljon a múzeum közelében a nap utolsó részére.",
             "ro": "Parcați lângă muzeu pentru ultima parte a zilei.",
-            "en": "Park near the museum for the final part of your day."
+            "en": "Park near the museum for the final part of your day.",
+            "es": "Aparca cerca del museo para la parte final del día."
           }
         },
         {
@@ -1383,7 +1501,8 @@
             "de": "English Cable & Küstenspaziergang",
             "hu": "Angol Móló és Tengerparti Séta",
             "ro": "Cheiul Englezesc & Plimbare pe coastă",
-            "en": "English Cable & Coastal Walk"
+            "en": "English Cable & Coastal Walk",
+            "es": "Cable Inglés y paseo costero"
           },
           "coords": [
             -2.459,
@@ -1399,7 +1518,8 @@
             "de": "Ein kurzer Spaziergang vom Museum zum Cable Inglés, um den Tag mit Meerblick ausklingen zu lassen.",
             "hu": "Rövid séta a múzeumtól a Cable Ingléshez, hogy tengeri kilátással zárja a napot.",
             "ro": "O scurtă plimbare de la muzeu la Cable Inglés pentru a încheia ziua cu o vedere la mare.",
-            "en": "A short walk from the museum to the English Cable to end the day with sea views."
+            "en": "A short walk from the museum to the English Cable to end the day with sea views.",
+            "es": "Un corto paseo desde el museo hasta el Cable Inglés para terminar el día con vistas al mar."
           }
         }
       ],
@@ -1407,7 +1527,8 @@
         "de": "Ihr Tag mit dem Auto ist in drei Cluster aufgeteilt. Sie beginnen in der Altstadt, wo Sie parken und zu Fuß die Bunker, Plätze und die Kathedrale erkunden. Nach dem Mittagessen fahren Sie zum zweiten Cluster: der imposanten Alcazaba auf dem Hügel, die Sie ebenfalls zu Fuß entdecken. Der letzte Teil des Tages führt Sie mit dem Auto zum Museums- und Küstencluster im Osten. Dort besuchen Sie das Museum von Almería und beenden den Tag mit einem Spaziergang zum industriellen Wahrzeichen, dem Cable Inglés.",
         "hu": "Autós napja három klaszterre oszlik. Az óvárosban kezd, ahol leparkol, és gyalog fedezi fel az óvóhelyeket, a tereket és a katedrálist. Ebéd után a második klaszterhez hajt: a dombon álló, impozáns Alcazabához, amelyet szintén gyalogosan jár be. A nap utolsó része autóval a keleti múzeum- és tengerparti klaszterhez vezet. Itt meglátogatja az Almeríai Múzeumot, és a napot egy sétával zárja az ipari műemlékhez, a Cable Ingléshez.",
         "ro": "Ziua cu mașina este împărțită în trei clustere. Începeți în orașul vechi, unde parcați și explorați pe jos adăposturile, piețele și catedrala. După prânz, conduceți spre al doilea cluster: impunătoarea Alcazaba de pe deal, pe care o explorați tot pe jos. Ultima parte a zilei vă duce cu mașina la clusterul muzeu-coastă din est. Acolo, vizitați Muzeul din Almería și încheiați ziua cu o plimbare la monumentul industrial, Cable Inglés.",
-        "en": "Your day by car is split into three clusters. You'll start in the old town, where you park and explore the shelters, squares, and cathedral on foot. After lunch, you drive to the second cluster: the imposing Alcazaba on the hill, which you also discover on foot. The final part of the day takes you by car to the museum and coastal cluster in the east. There, you'll visit the Museum of Almería and finish the day with a walk to the industrial landmark, the Cable Inglés."
+        "en": "Your day by car is split into three clusters. You'll start in the old town, where you park and explore the shelters, squares, and cathedral on foot. After lunch, you drive to the second cluster: the imposing Alcazaba on the hill, which you also discover on foot. The final part of the day takes you by car to the museum and coastal cluster in the east. There, you'll visit the Museum of Almería and finish the day with a walk to the industrial landmark, the Cable Inglés.",
+        "es": "Tu día en coche se divide en tres conjuntos. Empezarás en el casco antiguo, donde aparcas y exploras los refugios, plazas y la catedral a pie. Después de comer, conducirás al segundo conjunto: la imponente Alcazaba en la colina, que también descubrirás a pie. La parte final del día te llevará en coche al museo y al conjunto costero en el este. Allí visitarás el Museo de Almería y acabarás el día con un paseo hasta el emblema industrial, el Cable Inglés."
       },
       "gastro_picks": {
         "de": [
@@ -1603,6 +1724,12 @@
           "Allow extra time for traffic, especially in summer.",
           "Do not leave valuables visible in the car.",
           "Check the opening hours of the parking garages."
+        ],
+        "es": [
+          "Los aparcamientos subterráneos son la mejor opción, ya que el estacionamiento en la calle es difícil.",
+          "Permite tiempo extra por el tráfico, especialmente en verano.",
+          "No dejes objetos de valor a la vista en el coche.",
+          "Comprueba los horarios de apertura de los garajes."
         ]
       },
       "variants": {
@@ -1611,7 +1738,8 @@
             "de": "An einem Regentag ist das Auto das komfortabelste Mittel, um Almería zu erkunden. Parken Sie zentral und besuchen Sie die Refugios, um die Geschichte der Stadt im Trockenen zu erleben.\n\nMittags bietet die Fahrt durch die Altstadt zur Kathedrale Schutz vor dem Wetter. In der Nähe der Kathedrale gibt es Parkhäuser, die nur einen kurzen, trockenen Fußweg von den besten Tapas-Bars entfernt sind.\n\nNachmittags führt die Route zur Alcazaba. Das Parken direkt am Eingang spart Ihnen den nassen Aufstieg zu Fuß. Genießen Sie die Aussicht aus dem Fenster, bevor Sie die überdachten Bereiche der Festung erkunden.\n\nBeenden Sie den Tag mit einer Fahrt zum Museum und zur Küste. Das Museum ist klimatisiert und trocken, und der English Cable lässt sich auch vom warmen Auto aus bewundern, falls der Regen zu stark wird.",
             "hu": "Esős napon az autó a legkényelmesebb módja Almería felfedezésének. Parkoljon a központban, és látogasson el az óvóhelyekre, hogy szárazon ismerje meg a város történelmét.\n\nEbédidőben az óvároson át a katedrálishoz vezető út megvédi az időjárástól. A katedrális közelében több parkolóház is található, ahonnan csak egy rövid sétára vannak a legjobb tapas-bárok.\n\nDélután az Alcazaba felé vegye az irányt. A közvetlenül a bejáratnál való parkolás megkíméli a vizes gyaloglástól. Csodálja meg a kilátást az ablakból, mielőtt felfedezné a vár fedett részeit.\n\nA napot a múzeumnál és a parton zárja. A múzeum fűtött és száraz, az English Cable pedig az autó melegéből is megcsodálható, ha túl erősen esne az eső.",
             "ro": "Într-o zi ploioasă, mașina este cel mai confortabil mijloc de a explora Almería. Parcați central și vizitați adăposturile pentru a experimenta istoria orașului la adăpost.\n\nLa prânz, drumul prin orașul vechi spre Catedrală vă protejează de intemperii. Lângă Catedrală există parcări acoperite, aflate la doar o scurtă plimbare de cele mai bune baruri de tapas.\n\nDupă-amiaza, traseul duce spre Alcazaba. Parcarea chiar la intrare vă scutește de urcarea umedă pe jos. Bucurați-vă de priveliște de la fereastră înainte de a explora zonele acoperite ale cetății.\n\nÎncheiați ziua cu o vizită la muzeu și pe coastă. Muzeul este climatizat și uscat, iar English Cable poate fi admirat și din mașină dacă ploaia devine prea puternică.",
-            "en": "On a rainy day, a car is the most comfortable way to explore Almería. Park centrally and visit the Refugios to experience the city's history while staying completely dry.\n\nAt lunch, driving through the old town to the Cathedral keeps you shielded from the weather. There are parking garages near the Cathedral, just a short, dry walk from the best tapas bars.\n\nIn the afternoon, head to the Alcazaba. Parking right at the entrance saves you a wet climb on foot. Enjoy the view from the window before exploring the covered sections of the fortress.\n\nEnd the day with a drive to the museum and the coast. The museum is climate-controlled and dry, and the English Cable can even be admired from the warmth of your car if the rain gets too heavy."
+            "en": "On a rainy day, a car is the most comfortable way to explore Almería. Park centrally and visit the Refugios to experience the city's history while staying completely dry.\n\nAt lunch, driving through the old town to the Cathedral keeps you shielded from the weather. There are parking garages near the Cathedral, just a short, dry walk from the best tapas bars.\n\nIn the afternoon, head to the Alcazaba. Parking right at the entrance saves you a wet climb on foot. Enjoy the view from the window before exploring the covered sections of the fortress.\n\nEnd the day with a drive to the museum and the coast. The museum is climate-controlled and dry, and the English Cable can even be admired from the warmth of your car if the rain gets too heavy.",
+            "es": "En un día lluvioso, el coche es la forma más cómoda de explorar Almería. Aparca en el centro y visita los Refugios para vivir la historia de la ciudad manteniéndote completamente seco.\n\nA la hora de comer, conducir por el casco antiguo hasta la Catedral te protege del mal tiempo. Hay garajes cerca de la Catedral, a un corto y seco paseo de las mejores barras de tapas.\n\nPor la tarde, dirígete a la Alcazaba. Aparcar justo en la entrada te evita una subida mojada a pie. Disfruta de la vista desde la ventana antes de explorar las secciones cubiertas de la fortaleza.\n\nTermina el día conduciendo hasta el museo y la costa. El museo tiene climatización y está seco, y el Cable Inglés incluso puede admirarse desde la calidez del coche si la lluvia aprieta."
           },
           "stops": [
             {
@@ -1620,7 +1748,8 @@
                 "de": "Wählen Sie ein Tiefgaragenparkhaus, um beim Aussteigen trocken zu bleiben.",
                 "hu": "Válasszon mélygarázst, hogy kiszálláskor száraz maradjon.",
                 "ro": "Alegeți o parcare subterană pentru a rămâne uscat la coborâre.",
-                "en": "Choose an underground parking garage to stay dry when getting out."
+                "en": "Choose an underground parking garage to stay dry when getting out.",
+                "es": "Elige un aparcamiento subterráneo para no mojarte al salir."
               }
             },
             {
@@ -1629,7 +1758,8 @@
                 "de": "Direkter Zugang zu den Shelters minimiert die Zeit im Regen.",
                 "hu": "A közvetlen bejárat az óvóhelyekhez minimalizálja az esőben töltött időt.",
                 "ro": "Accesul direct la adăposturi minimizează timpul petrecut în ploaie.",
-                "en": "Direct access to the shelters minimizes time spent in the rain."
+                "en": "Direct access to the shelters minimizes time spent in the rain.",
+                "es": "El acceso directo a los refugios minimiza el tiempo bajo la lluvia."
               }
             },
             {
@@ -1638,7 +1768,8 @@
                 "de": "Nutzen Sie das Parkhaus 'Real' für den kürzesten Weg zur Kathedrale.",
                 "hu": "Használja a 'Real' parkolóházat a legrövidebb úthoz a katedrálishoz.",
                 "ro": "Folosiți parcarea 'Real' pentru cel mai scurt drum spre Catedrală.",
-                "en": "Use the 'Real' parking garage for the shortest walk to the Cathedral."
+                "en": "Use the 'Real' parking garage for the shortest walk to the Cathedral.",
+                "es": "Usa el parking 'Real' para la caminata más corta hasta la Catedral."
               }
             },
             {
@@ -1647,7 +1778,8 @@
                 "de": "Parkservice-Restaurants sind bei Regen ein wahrer Luxus.",
                 "hu": "Az inasparkolást kínáló éttermek igazi luxust jelentenek esőben.",
                 "ro": "Restaurantele cu servicii de valet sunt un lux pe timp de ploaie.",
-                "en": "Valet parking restaurants are a true luxury in the rain."
+                "en": "Valet parking restaurants are a true luxury in the rain.",
+                "es": "Los restaurantes con aparcacoches son un verdadero lujo cuando llueve."
               }
             },
             {
@@ -1656,7 +1788,8 @@
                 "de": "Fahren Sie bis zum obersten Parkplatz, um den Aufstieg zu verkürzen.",
                 "hu": "Hajtson fel a legfelső parkolóig, hogy lerövidítse a gyalogutat.",
                 "ro": "Conduceți până la cea mai de sus parcare pentru a scurta urcarea.",
-                "en": "Drive to the top parking lot to shorten the walk up."
+                "en": "Drive to the top parking lot to shorten the walk up.",
+                "es": "Sube al aparcamiento de la cima para acortar la subida."
               }
             },
             {
@@ -1665,7 +1798,8 @@
                 "de": "Große Parkplätze direkt vor dem Museum machen den Besuch einfach.",
                 "hu": "A múzeum előtti nagy parkolók megkönnyítik a látogatást.",
                 "ro": "Parcările mari din fața muzeului fac vizita ușoară.",
-                "en": "Large parking lots right in front of the museum make visiting easy."
+                "en": "Large parking lots right in front of the museum make visiting easy.",
+                "es": "Amplios aparcamientos justo delante del museo facilitan la visita."
               }
             },
             {
@@ -1674,7 +1808,8 @@
                 "de": "Parken Sie am Hafen, um den Cable aus nächster Nähe zu sehen.",
                 "hu": "Parkoljon a kikötőben, hogy közelről láthassa a szerkezetet.",
                 "ro": "Parcați în port pentru a vedea structura de aproape.",
-                "en": "Park at the harbor to see the structure from up close."
+                "en": "Park at the harbor to see the structure from up close.",
+                "es": "Aparca en el puerto para ver la estructura de cerca."
               }
             }
           ],
@@ -1706,6 +1841,13 @@
               "Use parking apps to avoid standing at payment machines in the rain.",
               "Watch out for pedestrians who often run carelessly across roads in rain.",
               "The coastal road (N-340) offers spectacular wave views during storms."
+            ],
+            "es": [
+              "Evita aparcar en pasos inferiores; Almería inunda con rapidez en lluvias fuertes.",
+              "La visibilidad en las estrechas calles del casco antiguo se reduce mucho con lluvia.",
+              "Usa apps de aparcamiento para evitar pagar en máquinas bajo la lluvia.",
+              "Ten cuidado con los peatones que suelen cruzar imprudentemente bajo la lluvia.",
+              "La carretera costera (N-340) ofrece vistas espectaculares de las olas durante las tormentas."
             ]
           }
         },
@@ -1714,7 +1856,8 @@
             "de": "Der Winter in Almería ist ideal für eine Autotour, da die Straßen weniger verstopft sind. Starten Sie an der Puerta de Purchena und genießen Sie die entspannte Parkplatzsuche in der Nähe der Refugios.\n\nMittags ist die Fahrt zur Kathedrale ein Vergnügen. Die tiefstehende Sonne blendet zwar etwas, aber das Licht auf den historischen Fassaden ist unvergleichlich schön. Suchen Sie sich einen sonnigen Parkplatz.\n\nAm Nachmittag führt Sie die Route zur Alcazaba. Ohne die Hitze des Sommers macht der Spaziergang durch die Festungsanlage viel mehr Freude. Das Auto wartet im Schatten auf Ihre Rückkehr.\n\nBeenden Sie den Tag an der Küste beim English Cable. Die Parkmöglichkeiten am Hafen sind im Winter reichlich vorhanden, und Sie können den Sonnenuntergang bequem vom Fahrersitz oder bei einem kurzen Spaziergang genießen.",
             "hu": "Az almeríai tél ideális egy autós túrához, mivel az utcák kevésbé zsúfoltak. Kezdjen a Puerta de Purchenánál, és élvezze a könnyű parkolást az óvóhelyek közelében.\n\nEbédidőben a katedrálishoz vezető út élmény. Az alacsony nap kicsit vakíthat, de a történelmi homlokzatokon megcsillanó fény páratlanul szép. Keressen egy napos parkolóhelyet.\n\nDélután az Alcazaba felé vigye az útja. A nyári hőség nélkül a vár körüli séta sokkal több örömet ad. Az autó az árnyékban várja a visszatérését.\n\nA napot a parton, az English Cable-nél zárja. A kikötői parkolási lehetőségek télen bőségesek, a naplementét pedig kényelmesen, akár a vezetőülésből is élvezheti.",
             "ro": "Iarna în Almería este ideală pentru un tur cu mașina, deoarece străzile sunt mai puțin aglomerate. Începeți la Puerta de Purchena și profitați de locurile de parcare libere lângă adăposturi.\n\nLa prânz, drumul spre Catedrală este o plăcere. Soarele jos poate fi orbitor, dar lumina pe fațadele istorice este de o frumusețe inegalabilă. Căutați un loc de parcare însorit.\n\nDupă-amiaza, traseul vă duce spre Alcazaba. Fără căldura verii, plimbarea prin cetate este mult mai plăcută. Mașina vă așteaptă la umbră pentru întoarcere.\n\nÎncheiați ziua pe coastă, la English Cable. Locurile de parcare în port sunt din abundență iarna, iar apusul poate fi savurat confortabil din scaunul șoferului sau într-o scurtă plimbare.",
-            "en": "Winter in Almería is ideal for a car tour as the streets are much less congested. Start at Puerta de Purchena and enjoy the stress-free parking near the Refugios.\n\nAt lunch, driving to the Cathedral is a treat. The low sun might be a bit blinding, but the light hitting the historic facades is incomparably beautiful. Look for a sunny parking spot.\n\nIn the afternoon, the route takes you to the Alcazaba. Without the summer heat, strolling through the fortress grounds is much more enjoyable. The car will be waiting in the shade for your return.\n\nEnd the day at the coast by the English Cable. Parking at the harbor is plentiful in winter, and you can comfortably enjoy the sunset from your driver's seat or a short walk."
+            "en": "Winter in Almería is ideal for a car tour as the streets are much less congested. Start at Puerta de Purchena and enjoy the stress-free parking near the Refugios.\n\nAt lunch, driving to the Cathedral is a treat. The low sun might be a bit blinding, but the light hitting the historic facades is incomparably beautiful. Look for a sunny parking spot.\n\nIn the afternoon, the route takes you to the Alcazaba. Without the summer heat, strolling through the fortress grounds is much more enjoyable. The car will be waiting in the shade for your return.\n\nEnd the day at the coast by the English Cable. Parking at the harbor is plentiful in winter, and you can comfortably enjoy the sunset from your driver's seat or a short walk.",
+            "es": "El invierno en Almería es ideal para una ruta en coche: las calles están mucho menos congestionadas. Empieza en Puerta de Purchena y disfruta del aparcamiento sin estrés cerca de los Refugios.\n\nAl mediodía, conducir hasta la Catedral es un placer. El sol bajo puede deslumbrar un poco, pero la luz sobre las fachadas históricas es incomparable. Busca una plaza soleada.\n\nPor la tarde, la ruta te lleva a la Alcazaba. Sin el calor veraniego, pasear por la fortaleza es mucho más agradable. El coche te esperará a la sombra al volver.\n\nTermina el día en la costa junto al Cable Inglés. En invierno hay abundante aparcamiento en el puerto y podrás disfrutar cómodamente del atardecer desde el coche o con una corta caminata."
           },
           "stops": [
             {
@@ -1723,7 +1866,8 @@
                 "de": "Die Parkhäuser sind im Winter oft leerer und günstiger.",
                 "hu": "A parkolóházak télen gyakran üresebbek és olcsóbbak.",
                 "ro": "Parcările acoperite sunt adesea mai goale și mai ieftine iarna.",
-                "en": "Parking garages are often emptier and cheaper in winter."
+                "en": "Parking garages are often emptier and cheaper in winter.",
+                "es": "Los parkings suelen estar más vacíos y ser más baratos en invierno."
               }
             },
             {
@@ -1732,7 +1876,8 @@
                 "de": "Kurze Wege zwischen Parkplatz und Eingang sind im kühlen Morgen angenehm.",
                 "hu": "A parkoló és bejárat közötti rövid út kellemes a hűvös reggelen.",
                 "ro": "Distanțele scurte între parcare și intrare sunt plăcute în dimineața răcoroasă.",
-                "en": "Short walks between the parking lot and entrance are nice in the cool morning."
+                "en": "Short walks between the parking lot and entrance are nice in the cool morning.",
+                "es": "Los cortos paseos entre el aparcamiento y la entrada son agradables en la fresca mañana."
               }
             },
             {
@@ -1741,7 +1886,8 @@
                 "de": "Das Licht am Vormittag ist ideal für Fotos vom Auto aus.",
                 "hu": "A délelőtti fények ideálisak az autóból való fotózáshoz.",
                 "ro": "Lumina de dimineață este ideală pentru fotografii făcute din mașină.",
-                "en": "The morning light is ideal for taking photos from the car."
+                "en": "The morning light is ideal for taking photos from the car.",
+                "es": "La luz de la mañana es ideal para hacer fotos desde el coche."
               }
             },
             {
@@ -1750,7 +1896,8 @@
                 "de": "Ein sonniger Parkplatz wärmt das Auto für die Weiterfahrt auf.",
                 "hu": "Egy napos parkolóhely felmelegíti az autót a folytatáshoz.",
                 "ro": "Un loc de parcare însorit încălzește mașina pentru drum.",
-                "en": "A sunny parking spot warms up the car for the onward journey."
+                "en": "A sunny parking spot warms up the car for the onward journey.",
+                "es": "Una plaza soleada calienta el coche para el siguiente tramo del viaje."
               }
             },
             {
@@ -1759,7 +1906,8 @@
                 "de": "Nutzen Sie die Zufahrt über die Calle Almanzor für beste Ausblicke.",
                 "hu": "Használja a Calle Almanzor felőli behajtót a legjobb kilátásért.",
                 "ro": "Folosiți accesul prin Calle Almanzor pentru cele mai bune priveliști.",
-                "en": "Use the approach via Calle Almanzor for the best views."
+                "en": "Use the approach via Calle Almanzor for the best views.",
+                "es": "Accede por Calle Almanzor para las mejores vistas."
               }
             },
             {
@@ -1768,7 +1916,8 @@
                 "de": "Im Winter gibt es keine Parkplatznot am Museum.",
                 "hu": "Télen nincs parkolóhiány a múzeumnál.",
                 "ro": "Iarna nu există penurie de locuri de parcare la muzeu.",
-                "en": "There is no shortage of parking at the museum in winter."
+                "en": "There is no shortage of parking at the museum in winter.",
+                "es": "No falta aparcamiento en el museo en invierno."
               }
             },
             {
@@ -1777,7 +1926,8 @@
                 "de": "Holen Sie sich einen Kaffee 'to go' für den Sonnenuntergang im Auto.",
                 "hu": "Vigyen egy elviteles kávét a naplementéhez az autóba.",
                 "ro": "Luați o cafea la pachet pentru apusul văzut din mașină.",
-                "en": "Get a coffee to go for the sunset while in the car."
+                "en": "Get a coffee to go for the sunset while in the car.",
+                "es": "Lleva un café para el atardecer y bébelo en el coche."
               }
             }
           ],
@@ -1809,6 +1959,13 @@
               "Plan your return before 6 PM if you prefer not to drive in the dark.",
               "Winter tires are not needed in Almería, but do check the tire pressure.",
               "Visit the nearby Cabo de Gata; the route is empty and beautiful in winter."
+            ],
+            "es": [
+              "Usa parasoles; el sol bajo de invierno puede deslumbrar mucho.",
+              "El rendimiento de la batería puede bajar durante las frescas noches almerienses.",
+              "Planea tu regreso antes de las 18:00 si prefieres no conducir de noche.",
+              "No hacen falta neumáticos de invierno en Almería, pero comprueba la presión de las ruedas.",
+              "Visita el cercano Cabo de Gata; la ruta está despejada y es preciosa en invierno."
             ]
           }
         }
@@ -1827,7 +1984,8 @@
             "de": "Ankunft & Cluster Altstadt",
             "hu": "Érkezés és Óváros Klaszter",
             "ro": "Sosire & Cluster Centrul Vechi",
-            "en": "Arrival & Old Town Cluster"
+            "en": "Arrival & Old Town Cluster",
+            "es": "Llegada y conjunto del Casco Antiguo"
           },
           "coords": [
             -2.466,
@@ -1843,7 +2001,8 @@
             "de": "Nehmen Sie einen Bus zur Haltestelle 'Paseo de Almería' oder 'Puerta de Purchena'.",
             "hu": "Menjen busszal a 'Paseo de Almería' vagy 'Puerta de Purchena' megállóig.",
             "ro": "Luați un autobuz până la stația 'Paseo de Almería' sau 'Puerta de Purchena'.",
-            "en": "Take a bus to the 'Paseo de Almería' or 'Puerta de Purchena' stop."
+            "en": "Take a bus to the 'Paseo de Almería' or 'Puerta de Purchena' stop.",
+            "es": "Toma un autobús hasta la parada 'Paseo de Almería' o 'Puerta de Purchena'."
           }
         },
         {
@@ -1851,7 +2010,8 @@
             "de": "Bürgerkriegsbunker (Refugios)",
             "hu": "Polgárháborús óvóhelyek (Refugios)",
             "ro": "Adăposturile subterane din Războiul Civil (Refugios)",
-            "en": "Civil War Shelters (Refugios)"
+            "en": "Civil War Shelters (Refugios)",
+            "es": "Refugios de la Guerra Civil"
           },
           "coords": [
             -2.465,
@@ -1867,7 +2027,8 @@
             "de": "Beginnen Sie mit diesem faszinierenden unterirdischen Erlebnis.",
             "hu": "Kezdje ezzel a lenyűgöző földalatti élménnyel.",
             "ro": "Începeți cu această experiență subterană fascinantă.",
-            "en": "Start with this fascinating underground experience."
+            "en": "Start with this fascinating underground experience.",
+            "es": "Comienza con esta fascinante experiencia subterránea."
           }
         },
         {
@@ -1875,7 +2036,8 @@
             "de": "Kathedrale & Plaza de la Constitución",
             "hu": "Székesegyház és Alkotmány tér",
             "ro": "Catedrala & Piața Constituției",
-            "en": "Cathedral & Constitution Square"
+            "en": "Cathedral & Constitution Square",
+            "es": "Catedral y Plaza de la Constitución"
           },
           "coords": [
             -2.468,
@@ -1891,7 +2053,8 @@
             "de": "Diese beiden wichtigen Sehenswürdigkeiten liegen direkt nebeneinander.",
             "hu": "Ez a két fontos látnivaló közvetlenül egymás mellett található.",
             "ro": "Aceste două atracții majore sunt situate chiar una lângă alta.",
-            "en": "These two major sights are located right next to each other."
+            "en": "These two major sights are located right next to each other.",
+            "es": "Estos dos grandes hitos están ubicados uno junto al otro."
           }
         },
         {
@@ -1899,7 +2062,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebéd az óvárosban",
             "ro": "Prânz în centrul vechi",
-            "en": "Lunch in the Old Town"
+            "en": "Lunch in the Old Town",
+            "es": "Almuerzo en el Casco Antiguo"
           },
           "coords": [
             -2.467,
@@ -1915,7 +2079,8 @@
             "de": "Stärken Sie sich, bevor Sie zu Fuß zur Alcazaba aufbrechen.",
             "hu": "Erősítsen, mielőtt gyalog elindulna az Alcazabához.",
             "ro": "Întăriți-vă înainte de a porni pe jos spre Alcazaba.",
-            "en": "Refuel before you set off on foot to the Alcazaba."
+            "en": "Refuel before you set off on foot to the Alcazaba.",
+            "es": "Repón fuerzas antes de subir a pie hacia la Alcazaba."
           }
         },
         {
@@ -1923,7 +2088,8 @@
             "de": "Cluster Alcazaba (zu Fuß)",
             "hu": "Alcazaba Klaszter (gyalog)",
             "ro": "Cluster Alcazaba (pe jos)",
-            "en": "Alcazaba Cluster (on foot)"
+            "en": "Alcazaba Cluster (on foot)",
+            "es": "Conjunto de la Alcazaba (a pie)"
           },
           "coords": [
             -2.47,
@@ -1939,7 +2105,8 @@
             "de": "Der Spaziergang von der Kathedrale ist machbar und führt durch charmante Gassen.",
             "hu": "A séta a katedrálistól megtehető és hangulatos sikátorokon vezet keresztül.",
             "ro": "Plimbarea de la catedrală este fezabilă și trece prin alei fermecătoare.",
-            "en": "The walk from the cathedral is manageable and takes you through charming alleys."
+            "en": "The walk from the cathedral is manageable and takes you through charming alleys.",
+            "es": "La caminata desde la catedral es llevadera y te lleva por callejuelas con encanto."
           }
         },
         {
@@ -1947,7 +2114,8 @@
             "de": "Busfahrt & Cluster Museum/Küste",
             "hu": "Buszozás és Múzeum/Part Klaszter",
             "ro": "Călătorie cu autobuzul & Cluster Muzeu/Coastă",
-            "en": "Bus Ride & Museum/Coast Cluster"
+            "en": "Bus Ride & Museum/Coast Cluster",
+            "es": "Paseo en autobús y conjunto Museo/Costa"
           },
           "coords": [
             -2.456,
@@ -1963,7 +2131,8 @@
             "de": "Nehmen Sie einen Bus von der Nähe der Alcazaba oder dem Zentrum zum Museum.",
             "hu": "Menjen busszal az Alcazaba közeléből vagy a központból a múzeumhoz.",
             "ro": "Luați un autobuz din apropierea Alcazaba sau din centru către muzeu.",
-            "en": "Take a bus from near the Alcazaba or the center to the museum."
+            "en": "Take a bus from near the Alcazaba or the center to the museum.",
+            "es": "Toma un autobús desde cerca de la Alcazaba o del centro hasta el museo."
           }
         },
         {
@@ -1971,7 +2140,8 @@
             "de": "English Cable & Küste",
             "hu": "Angol Móló és Part",
             "ro": "Cheiul Englezesc & Coasta",
-            "en": "English Cable & Coast"
+            "en": "English Cable & Coast",
+            "es": "Cable Inglés y costa"
           },
           "coords": [
             -2.459,
@@ -1987,7 +2157,8 @@
             "de": "Der letzte Spaziergang des Tages führt Sie zum Wahrzeichen am Meer.",
             "hu": "A nap utolsó sétája a tengerparti jelképhez vezet.",
             "ro": "Ultima plimbare a zilei vă duce la monumentul de la malul mării.",
-            "en": "The final walk of the day takes you to the landmark by the sea."
+            "en": "The final walk of the day takes you to the landmark by the sea.",
+            "es": "La última caminata del día te lleva al emblemático junto al mar."
           }
         }
       ],
@@ -1995,7 +2166,8 @@
         "de": "Mit öffentlichen Verkehrsmitteln erkunden Sie Almería in Clustern. Sie beginnen im Herzen der Altstadt und besuchen die Bunker und die Kathedrale zu Fuß. Nach dem Mittagessen spazieren Sie zur Alcazaba. Von dort nehmen Sie einen Bus zum zweiten großen Cluster: dem Museum von Almería. Den Tag beenden Sie mit einem kurzen Spaziergang vom Museum zum Cable Inglés, von wo aus Sie bequem eine Busverbindung für Ihre Rückfahrt finden.",
         "hu": "Tömegközlekedéssel klaszterekben fedezheti fel Almeríát. Az óváros szívében kezd, gyalogosan meglátogatva az óvóhelyeket és a katedrálist. Ebéd után felsétál az Alcazabához. Onnan busszal jut el a második nagy klaszterhez: az Almeríai Múzeumhoz. A napot egy rövid sétával zárja a múzeumtól a Cable Ingléshez, ahonnan könnyen talál buszjáratot a visszautazáshoz.",
         "ro": "Folosind transportul public, explorați Almería în clustere. Începeți în inima orașului vechi, vizitând pe jos adăposturile și catedrala. După prânz, urcați pe jos la Alcazaba. De acolo, luați un autobuz către al doilea cluster major: Muzeul din Almería. Încheiați ziua cu o scurtă plimbare de la muzeu la Cable Inglés, de unde puteți găsi cu ușurință o legătură de autobuz pentru călătoria de întoarcere.",
-        "en": "Using public transport, you'll explore Almería in clusters. You start in the heart of the old town, visiting the shelters and the cathedral on foot. After lunch, you'll walk up to the Alcazaba. From there, you take a bus to the second major cluster: the Museum of Almería. You'll end the day with a short walk from the museum to the Cable Inglés, from where you can easily find a bus connection for your return journey."
+        "en": "Using public transport, you'll explore Almería in clusters. You start in the heart of the old town, visiting the shelters and the cathedral on foot. After lunch, you'll walk up to the Alcazaba. From there, you take a bus to the second major cluster: the Museum of Almería. You'll end the day with a short walk from the museum to the Cable Inglés, from where you can easily find a bus connection for your return journey.",
+        "es": "Usando el transporte público, explorarás Almería por conjuntos. Empiezas en el corazón del casco antiguo, visitando los refugios y la catedral a pie. Tras el almuerzo subes a la Alcazaba. Desde allí tomas un autobús hasta el segundo gran conjunto: el Museo de Almería. Terminarás el día con una corta caminata del museo al Cable Inglés, desde donde encontrarás fácilmente conexión de autobús para volver."
       },
       "gastro_picks": {
         "de": [
@@ -2191,6 +2363,12 @@
           "Check bus schedules in advance, especially on weekends.",
           "The Google Maps app provides reliable public transport information.",
           "Validate your ticket when you board the bus."
+        ],
+        "es": [
+          "Compra una tarjeta 'bonobús' para tarifas más baratas.",
+          "Consulta los horarios de los autobuses con antelación, especialmente fines de semana.",
+          "La app Google Maps ofrece información fiable sobre transporte público.",
+          "Valida tu billete al subir al autobús."
         ]
       },
       "variants": {
@@ -2199,7 +2377,8 @@
             "de": "Nutzen Sie das dichte Busnetz von Almería, um an einem Regentag trocken zu bleiben. Beginnen Sie an der Puerta de Purchena, wo viele Linien halten, und fahren Sie direkt zu den Refugios.\n\nMittags bringen Sie die Linien L1 oder L2 bequem in die Nähe der Kathedrale. Die kurzen Fußwege zwischen den Haltestellen und den Sehenswürdigkeiten lassen sich gut mit einem Regenschirm bewältigen.\n\nAm Nachmittag ist der Bus zur Alcazaba die beste Wahl. Die Haltestellen befinden sich am Fuß des Hügels, sodass Sie den Großteil des Weges überdacht zurücklegen. Die Festung bietet viele Innenräume zum Erkunden.\n\nBeenden Sie die Tour mit einer Fahrt zum Museum und zur Küste. Die Busse sind im Winter gut beheizt und bieten eine warme Zuflucht vor dem Regen, während Sie zwischen dem Museum und dem English Cable pendeln.",
             "hu": "Használja Almería sűrű autóbuszhálózatát, hogy száraz maradjon az esős napon. Kezdjen a Puerta de Purchenánál, ahol számos vonal megáll, és utazzon közvetlenül az óvóhelyekhez.\n\nEbédidőben az L1 vagy L2 vonalak kényelmesen a katedrális közelébe viszik. A megállók és a látnivalók közötti rövid séta egy esernyővel könnyen leküzdhető.\n\nDélután az Alcazaba felé tartó busz a legjobb választás. A megállók a domb alján találhatók, így az út nagy részét fedett járművön teszi meg. A vár számos belső térrel rendelkezik.\n\nA túrát a múzeumnál és a parton zárja. A buszok télen jól fűtöttek, és meleg menedéket nyújtanak az eső elől, miközben a múzeum és az English Cable között ingázik.",
             "ro": "Folosiți rețeaua densă de autobuze din Almería pentru a rămâne uscat într-o zi ploioasă. Începeți la Puerta de Purchena, unde opresc multe linii, și mergeți direct la adăposturi.\n\nLa prânz, liniile L1 sau L2 vă duc confortabil aproape de Catedrală. Distanțele scurte între stații și obiective pot fi parcurse ușor cu o umbrelă.\n\nDupă-amiaza, autobuzul spre Alcazaba este cea mai bună alegere. Stațiile sunt la baza dealului, astfel încât parcurgeți cea mai mare parte a drumului la adăpost. Cetatea oferă multe spații interioare.\n\nÎncheiați turul cu o vizită la muzeu și pe coastă. Autobuzele sunt bine încălzite iarna și oferă un refugiu cald împotriva ploii în timp ce navetați între muzeu și English Cable.",
-            "en": "Utilize Almería's dense bus network to stay dry on a rainy day. Start at Puerta de Purchena, a major transit hub, and take a direct line to the Refugios.\n\nAt lunch, lines L1 or L2 will drop you conveniently close to the Cathedral. The short walks between bus stops and sights are easily manageable with an umbrella.\n\nIn the afternoon, taking the bus to the Alcazaba is your best bet. Stops are located at the foot of the hill, keeping you under cover for most of the trip. The fortress has many indoor areas to explore.\n\nFinish the tour with a trip to the museum and the coast. The buses are well-heated in winter, offering a warm sanctuary from the rain while you commute between the museum and the English Cable."
+            "en": "Utilize Almería's dense bus network to stay dry on a rainy day. Start at Puerta de Purchena, a major transit hub, and take a direct line to the Refugios.\n\nAt lunch, lines L1 or L2 will drop you conveniently close to the Cathedral. The short walks between bus stops and sights are easily manageable with an umbrella.\n\nIn the afternoon, taking the bus to the Alcazaba is your best bet. Stops are located at the foot of the hill, keeping you under cover for most of the trip. The fortress has many indoor areas to explore.\n\nFinish the tour with a trip to the museum and the coast. The buses are well-heated in winter, offering a warm sanctuary from the rain while you commute between the museum and the English Cable.",
+            "es": "Aprovecha la densa red de autobuses de Almería para mantenerte seco en un día de lluvia. Empieza en Puerta de Purchena, un importante nudo de comunicaciones, y toma una línea directa a los Refugios.\n\nAl mediodía, las líneas L1 o L2 te dejarán muy cerca de la Catedral. Los cortos paseos entre paradas y monumentos son manejables con paraguas.\n\nPor la tarde, ir en autobús a la Alcazaba es la mejor opción. Las paradas están al pie de la colina, manteniéndote cubierto la mayor parte del trayecto. La fortaleza tiene muchas áreas interiores para explorar.\n\nTermina la visita con un trayecto al museo y la costa. Los autobuses están bien calefactados en invierno, ofreciendo un refugio cálido de la lluvia mientras te desplazas entre el museo y el Cable Inglés."
           },
           "stops": [
             {
@@ -2208,7 +2387,8 @@
                 "de": "Die Haltestellen an der Puerta de Purchena sind teilweise überdacht.",
                 "hu": "A Puerta de Purchena megállói részben fedettek.",
                 "ro": "Stațiile de la Puerta de Purchena sunt parțial acoperite.",
-                "en": "The bus stops at Puerta de Purchena are partially sheltered."
+                "en": "The bus stops at Puerta de Purchena are partially sheltered.",
+                "es": "Las paradas en Puerta de Purchena están parcialmente cubiertas."
               }
             },
             {
@@ -2217,7 +2397,8 @@
                 "de": "Nur 2 Minuten Fußweg von der Bushaltestelle entfernt.",
                 "hu": "Mindössze 2 perc séta a legközelebbi buszmegállótól.",
                 "ro": "La doar 2 minute de mers pe jos de stația de autobuz.",
-                "en": "Only a 2-minute walk from the nearest bus stop."
+                "en": "Only a 2-minute walk from the nearest bus stop.",
+                "es": "A solo 2 minutos a pie desde la parada más cercana."
               }
             },
             {
@@ -2226,7 +2407,8 @@
                 "de": "Nutzen Sie die App 'Surbus', um Wartezeiten im Regen zu vermeiden.",
                 "hu": "Használja a 'Surbus' appot, hogy ne kelljen az esőben várakoznia.",
                 "ro": "Folosiți aplicația 'Surbus' pentru a evita așteptarea în ploaie.",
-                "en": "Use the 'Surbus' app to avoid waiting in the rain."
+                "en": "Use the 'Surbus' app to avoid waiting in the rain.",
+                "es": "Usa la app 'Surbus' para evitar esperar bajo la lluvia."
               }
             },
             {
@@ -2235,7 +2417,8 @@
                 "de": "Viele Restaurants liegen direkt an den Busrouten der Linien L1/L18.",
                 "hu": "Számos étterem közvetlenül az L1/L18 buszvonalak mentén fekszik.",
                 "ro": "Multe restaurante sunt direct pe traseele liniilor L1/L18.",
-                "en": "Many restaurants are directly on the L1/L18 bus routes."
+                "en": "Many restaurants are directly on the L1/L18 bus routes.",
+                "es": "Muchos restaurantes están directamente en las rutas L1/L18."
               }
             },
             {
@@ -2244,7 +2427,8 @@
                 "de": "Der Bus hält unten; der Aufstieg ist kurz, aber steil und nass.",
                 "hu": "A busz lenn áll meg; a felfelé út rövid, de meredek és vizes.",
                 "ro": "Autobuzul oprește jos; urcarea este scurtă, dar abruptă și umedă.",
-                "en": "The bus stops at the bottom; the walk up is short but steep and wet."
+                "en": "The bus stops at the bottom; the walk up is short but steep and wet.",
+                "es": "El autobús para abajo; la subida es corta pero empinada y mojada."
               }
             },
             {
@@ -2253,7 +2437,8 @@
                 "de": "Die Linien zum Museum fahren alle 15-20 Minuten.",
                 "hu": "A múzeumhoz tartó buszok 15-20 percenként járnak.",
                 "ro": "Autobuzele spre muzeu circulă la fiecare 15-20 de minute.",
-                "en": "Buses to the museum run every 15-20 minutes."
+                "en": "Buses to the museum run every 15-20 minutes.",
+                "es": "Los autobuses al museo pasan cada 15-20 minutos."
               }
             },
             {
@@ -2262,7 +2447,8 @@
                 "de": "Die Haltestelle 'Puerto' bietet einen tollen Blick im Trockenen.",
                 "hu": "A 'Puerto' megálló remek kilátást nyújt szárazon is.",
                 "ro": "Stația 'Puerto' oferă o vedere excelentă de la adăpost.",
-                "en": "The 'Puerto' stop offers a great view while staying dry."
+                "en": "The 'Puerto' stop offers a great view while staying dry.",
+                "es": "La parada 'Puerto' ofrece buena vista manteniéndote seco."
               }
             }
           ],
@@ -2294,6 +2480,13 @@
               "Front seats on the bus offer the best views during bad weather.",
               "Avoid peak hours when buses are crowded with commuters.",
               "Line 18 is perfect for seeing the coastline while staying dry."
+            ],
+            "es": [
+              "Compra una tarjeta de viajes múltiples al conductor para minimizar el estrés.",
+              "Los autobuses pueden retrasarse con lluvia por el aumento del tráfico.",
+              "Los asientos delanteros del autobús ofrecen las mejores vistas con mal tiempo.",
+              "Evita las horas punta cuando los autobuses van llenos de viajeros.",
+              "La línea 18 es perfecta para ver la costa manteniéndote seco."
             ]
           }
         },
@@ -2302,7 +2495,8 @@
             "de": "Almerías Transit-System ist im Winter entspannt und effizient. Beginnen Sie an der Puerta de Purchena und nutzen Sie die kühle Morgenbrise für einen kurzen Spaziergang zu den Refugios, bevor Sie in den Bus steigen.\n\nMittags bringt Sie der Bus zur Kathedrale. Genießen Sie das klare Winterlicht durch die Busfenster, während Sie durch die historischen Viertel fahren. Die Haltestellen sind im Winter weniger belebt.\n\nNachmittags ist die Fahrt zur Alcazaba ein Muss. Der Bus spart Ihnen den anstrengenden Teil des Weges, und Sie können Ihre Energie für die Erkundung der Festung im milden Sonnenschein aufsparen.\n\nBeenden Sie den Tag mit einer Busfahrt zum English Cable. Die Route entlang des Hafens ist im Winter besonders malerisch, da die Sonne früh untergeht und die Stadtlichter sich im ruhigen Wasser spiegeln.",
             "hu": "Almería közlekedési rendszere télen nyugodt és hatékony. Kezdjen a Puerta de Purchenánál, és használja ki a hűvös reggeli szellőt egy rövid sétához az óvóhelyekig, mielőtt buszra szállna.\n\nEbédidőben a busz kényelmesen a katedrálishoz viszi. Élvezze a tiszta téli fényt a busz ablakán át, miközben a történelmi negyedeken halad keresztül. A megállók télen kevésbé zsúfoltak.\n\nDélután az Alcazaba felé tartó járat kötelező. A busz megkíméli az út fárasztó részétől, így energiáját a vár felfedezésére fordíthatja az enyhe napsütésben.\n\nA napot egy kikötői buszozással zárja az English Cable-nél. A kikötő menti útvonal télen különösen festői, a korai naplemente fényei csodásan tükröződnek a vízen.",
             "ro": "Sistemul de tranzit din Almería este relaxat și eficient iarna. Începeți la Puerta de Purchena și profitați de briza răcoroasă a dimineții pentru o scurtă plimbare spre adăposturi înainte de a lua autobuzul.\n\nLa prânz, autobuzul vă duce confortabil la Catedrală. Bucurați-vă de lumina clară de iarnă prin ferestrele autobuzului în timp ce traversați cartierele istorice. Stațiile sunt mai puțin aglomerate iarna.\n\nDupă-amiaza, drumul spre Alcazaba este obligatoriu. Autobuzul vă scutește de partea obositoare a drumului, păstrându-vă energia pentru cetate sub soarele blând.\n\nÎncheiați ziua cu o plimbare cu autobuzul spre English Cable. Traseul de-a lungul portului este deosebit de pitoresc iarna, luminile orașului reflectându-se în apa liniștită la apus.",
-            "en": "Almería's transit system is relaxed and efficient in winter. Start at Puerta de Purchena and enjoy the crisp morning breeze for a short walk to the Refugios before hopping on a bus.\n\nAt lunch, the bus will take you smoothly to the Cathedral. Enjoy the clear winter light through the bus windows as you pass through historic neighborhoods. The stops are much less crowded in winter.\n\nIn the afternoon, the ride to the Alcazaba is a must. The bus saves you the strenuous part of the climb, letting you save your energy for exploring the fortress in the mild sun.\n\nFinish the day with a bus ride to the English Cable. The route along the harbor is especially picturesque in winter, with early sunset colors reflecting beautifully on the calm water."
+            "en": "Almería's transit system is relaxed and efficient in winter. Start at Puerta de Purchena and enjoy the crisp morning breeze for a short walk to the Refugios before hopping on a bus.\n\nAt lunch, the bus will take you smoothly to the Cathedral. Enjoy the clear winter light through the bus windows as you pass through historic neighborhoods. The stops are much less crowded in winter.\n\nIn the afternoon, the ride to the Alcazaba is a must. The bus saves you the strenuous part of the climb, letting you save your energy for exploring the fortress in the mild sun.\n\nFinish the day with a bus ride to the English Cable. The route along the harbor is especially picturesque in winter, with early sunset colors reflecting beautifully on the calm water.",
+            "es": "El sistema de transporte de Almería es relajado y eficiente en invierno. Empieza en Puerta de Purchena y disfruta de la fresca brisa matinal con una corta caminata hasta los Refugios antes de subir a un autobús.\n\nAl mediodía, el autobús te llevará sin contratiempos a la Catedral. Disfruta de la claridad de la luz invernal a través de las ventanas mientras cruzas barrios históricos. Las paradas están mucho menos concurridas en invierno.\n\nPor la tarde, el trayecto a la Alcazaba es imprescindible. El autobús evita la parte más dura de la subida, permitiéndote ahorrar energía para explorar la fortaleza bajo el suave sol.\n\nTermina el día con un viaje en autobús hasta el Cable Inglés. La ruta por el puerto es especialmente pintoresca en invierno, con colores de atardecer reflejándose en el agua tranquila."
           },
           "stops": [
             {
@@ -2311,7 +2505,8 @@
                 "de": "Ein idealer Ausgangspunkt, um die Linienpläne im Winter zu prüfen.",
                 "hu": "Ideális kiindulópont a téli menetrendek ellenőrzéséhez.",
                 "ro": "Un punct de plecare ideal pentru a verifica programul de iarnă.",
-                "en": "An ideal starting point to check the winter schedules."
+                "en": "An ideal starting point to check the winter schedules.",
+                "es": "Un punto de partida ideal para consultar los horarios de invierno."
               }
             },
             {
@@ -2320,7 +2515,8 @@
                 "de": "Im Winter sind die Wartezeiten an den Haltestellen minimal.",
                 "hu": "Télen a várakozási idő a megállókban minimális.",
                 "ro": "Iarna, timpii de așteptare în stații sunt minimi.",
-                "en": "In winter, waiting times at the stops are minimal."
+                "en": "In winter, waiting times at the stops are minimal.",
+                "es": "En invierno, los tiempos de espera en las paradas son mínimos."
               }
             },
             {
@@ -2329,7 +2525,8 @@
                 "de": "Die Busse sind im Winter angenehm klimatisiert.",
                 "hu": "A buszok télen kellemesen fűtöttek.",
                 "ro": "Autobuzele sunt climatizate plăcut iarna.",
-                "en": "The buses are pleasantly climate-controlled in winter."
+                "en": "The buses are pleasantly climate-controlled in winter.",
+                "es": "Los autobuses están agradablemente climatizados en invierno."
               }
             },
             {
@@ -2338,7 +2535,8 @@
                 "de": "Nutzen Sie den Transit, um schnell zwischen verschiedenen Tapas-Vierteln zu wechseln.",
                 "hu": "Használja a közlekedést a tapas-negyedek közötti gyors váltáshoz.",
                 "ro": "Folosiți transportul pentru a schimba rapid între zonele de tapas.",
-                "en": "Use transit to switch quickly between different tapas districts."
+                "en": "Use transit to switch quickly between different tapas districts.",
+                "es": "Usa el transporte para cambiar rápidamente entre distintos barrios de tapas."
               }
             },
             {
@@ -2347,7 +2545,8 @@
                 "de": "Der Bus hält direkt am Fuße der Festung.",
                 "hu": "A busz közvetlenül a vár lábánál áll meg.",
                 "ro": "Autobuzul oprește chiar la baza cetății.",
-                "en": "The bus stops right at the foot of the fortress."
+                "en": "The bus stops right at the foot of the fortress.",
+                "es": "El autobús para justo al pie de la fortaleza."
               }
             },
             {
@@ -2356,7 +2555,8 @@
                 "de": "Genießen Sie die Aussicht auf die Küste vom Oberdeck, falls vorhanden.",
                 "hu": "Élvezze a parti kilátást a busz felső szintjéről, ha van.",
                 "ro": "Bucurați-vă de vederea la coastă de la etajul autobuzului, dacă există.",
-                "en": "Enjoy the coastal views from the upper deck, if available."
+                "en": "Enjoy the coastal views from the upper deck, if available.",
+                "es": "Disfruta de las vistas costeras desde la cubierta superior, si está disponible."
               }
             },
             {
@@ -2365,7 +2565,8 @@
                 "de": "Die letzte Fahrt des Tages bietet oft spektakuläre Lichteffekte.",
                 "hu": "A nap utolsó járatai gyakran látványos fényhatásokat kínálnak.",
                 "ro": "Ultimele curse ale zilei oferă adesea efecte de lumină spectaculoase.",
-                "en": "The last trips of the day often offer spectacular light effects."
+                "en": "The last trips of the day often offer spectacular light effects.",
+                "es": "Los últimos viajes del día suelen ofrecer efectos de luz espectaculares."
               }
             }
           ],
@@ -2397,6 +2598,13 @@
               "Use the 'Tarjeta Transbordo' for discounted transfers.",
               "Station announcements are often clearer to hear in winter.",
               "The route to the airport is especially relaxed during the winter months."
+            ],
+            "es": [
+              "Algunas líneas pueden reducir ligeramente la frecuencia en invierno.",
+              "Los autobuses nocturnos pueden ser más frescos; lleva chaqueta.",
+              "Usa la 'Tarjeta Transbordo' para descuentos en transbordos.",
+              "Los anuncios en las estaciones suelen escucharse más claros en invierno.",
+              "La ruta al aeropuerto está especialmente relajada durante los meses de invierno."
             ]
           }
         }

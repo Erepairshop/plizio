@@ -21,7 +21,8 @@
             "de": "Plaça de la Font",
             "hu": "Plaça de la Font",
             "ro": "Plaça de la Font",
-            "en": "Plaça de la Font"
+            "en": "Plaça de la Font",
+            "es": "Plaça de la Font"
           },
           "coords": [
             1.2458,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie den Tag mit einem Kaffee und beobachten Sie, wie die Stadt erwacht.",
             "hu": "Kezdje a napot egy kávéval, és nézze, ahogy a város ébredezik.",
             "ro": "Începeți ziua cu o cafea și priviți cum se trezește orașul.",
-            "en": "Start your day with a coffee and watch the city come to life."
+            "en": "Start your day with a coffee and watch the city come to life.",
+            "es": "Empieza el día con un café y observa cómo la ciudad cobra vida."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Römisches Zirkus",
             "hu": "Római Cirkusz",
             "ro": "Circul Roman",
-            "en": "Roman Circus"
+            "en": "Roman Circus",
+            "es": "Circo Romano"
           },
           "coords": [
             1.248,
@@ -59,7 +62,8 @@
             "de": "Erkunden Sie die unterirdischen Gänge, in denen einst die Wagenrennen stattfanden.",
             "hu": "Fedezze fel a föld alatti folyosókat, ahol egykor a kocsiversenyek zajlottak.",
             "ro": "Explorați pasajele subterane unde aveau loc cursele de care.",
-            "en": "Explore the underground passages where the chariot races once took place."
+            "en": "Explore the underground passages where the chariot races once took place.",
+            "es": "Explora los pasajes subterráneos donde antiguamente se celebraban las carreras de cuadrigas."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Römisches Amphitheater",
             "hu": "Római amfiteátrum",
             "ro": "Amfiteatrul Roman",
-            "en": "Roman Amphitheatre"
+            "en": "Roman Amphitheatre",
+            "es": "Anfiteatro Romano"
           },
           "coords": [
             1.2547,
@@ -82,7 +87,8 @@
             "de": "Genießen Sie den atemberaubenden Blick auf das Meer von den oberen Rängen.",
             "hu": "Élvezze a lenyűgöző tengeri kilátást a felső sorokból.",
             "ro": "Bucurați-vă de priveliștea uimitoare a mării de la nivelurile superioare.",
-            "en": "Enjoy the stunning view of the sea from the upper tiers."
+            "en": "Enjoy the stunning view of the sea from the upper tiers.",
+            "es": "Disfruta de la impresionante vista al mar desde las gradas superiores."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Balcó del Mediterrani",
             "hu": "Balcó del Mediterrani",
             "ro": "Balcó del Mediterrani",
-            "en": "Balcó del Mediterrani"
+            "en": "Balcó del Mediterrani",
+            "es": "Balcó del Mediterrani"
           },
           "coords": [
             1.254,
@@ -105,7 +112,8 @@
             "de": "Ein beliebter Ort, um 'tocar ferro' (das Eisen berühren) für Glück.",
             "hu": "Népszerű hely, ahol 'tocar ferro' (vasat érinteni) szerencsét hoz.",
             "ro": "Un loc popular pentru a „tocar ferro” (atinge fierul) pentru noroc.",
-            "en": "A popular spot to 'tocar ferro' (touch the iron) for good luck."
+            "en": "A popular spot to 'tocar ferro' (touch the iron) for good luck.",
+            "es": "Un lugar popular para 'tocar ferro' y atraer la buena suerte."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Kathedrale von Tarragona",
             "hu": "Tarragonai székesegyház",
             "ro": "Catedrala din Tarragona",
-            "en": "Tarragona Cathedral"
+            "en": "Tarragona Cathedral",
+            "es": "Catedral de Tarragona"
           },
           "coords": [
             1.248,
@@ -128,7 +137,8 @@
             "de": "Verpassen Sie nicht den Kreuzgang und das Diözesanmuseum im Inneren.",
             "hu": "Ne hagyja ki a kerengőt és az egyházmegyei múzeumot odabent.",
             "ro": "Nu ratați claustrul și muzeul diecezan din interior.",
-            "en": "Don't miss the cloister and the Diocesan Museum inside."
+            "en": "Don't miss the cloister and the Diocesan Museum inside.",
+            "es": "No te pierdas el claustro y el Museo Diocesano en su interior."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Stadtmauern von Tarragona",
             "hu": "Tarragona városfalai",
             "ro": "Zidurile orașului Tarragona",
-            "en": "Tarragona City Walls"
+            "en": "Tarragona City Walls",
+            "es": "Murallas de Tarragona"
           },
           "coords": [
             1.243,
@@ -151,7 +162,8 @@
             "de": "Ein Spaziergang entlang des archäologischen Weges bietet Einblicke in die römische Verteidigung.",
             "hu": "Egy séta a régészeti ösvényen bepillantást nyújt a római védelembe.",
             "ro": "O plimbare de-a lungul promenadei arheologice oferă perspective asupra apărării romane.",
-            "en": "A walk along the archaeological promenade offers insight into Roman defenses."
+            "en": "A walk along the archaeological promenade offers insight into Roman defenses.",
+            "es": "Un paseo por el recorrido arqueológico ofrece una visión de las defensas romanas."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "El Serrallo",
             "hu": "El Serrallo",
             "ro": "El Serrallo",
-            "en": "El Serrallo"
+            "en": "El Serrallo",
+            "es": "El Serrallo"
           },
           "coords": [
             1.238,
@@ -174,7 +187,8 @@
             "de": "Der perfekte Ort für ein spätes Mittagessen oder ein frühes Abendessen mit frischem Fisch.",
             "hu": "Tökéletes hely egy késői ebédhez vagy egy korai vacsorához friss tenger gyümölcseiből.",
             "ro": "Locul perfect pentru un prânz târziu sau o cină devreme cu pește proaspăt.",
-            "en": "The perfect place for a late lunch or early dinner with fresh seafood."
+            "en": "The perfect place for a late lunch or early dinner with fresh seafood.",
+            "es": "El lugar perfecto para una comida tardía o una cena temprana con marisco fresco."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Der Morgen in Tarragona beginnt im Herzen der Stadt, an der Plaça de la Font, bevor Sie in die römische Geschichte im Zirkus und Amphitheater eintauchen. Die Meeresbrise und die spektakuläre Aussicht vom Balcó del Mediterrani bieten eine erfrischende Pause. Am Mittag erklimmen Sie die Stufen zur majestätischen Kathedrale, die über der Altstadt thront. Der Nachmittag ist einem Spaziergang entlang der alten Stadtmauern gewidmet, der Sie durch Jahrhunderte der Geschichte führt. Der Tag endet im charmanten Fischerviertel El Serrallo, wo Sie bei einem köstlichen Meeresfrüchte-Abendessen entspannen können.",
         "hu": "A reggel Tarragonában a város szívében, a Plaça de la Font téren kezdődik, mielőtt elmerülne a római történelemben a Cirkuszban és az Amfiteátrumban. A tengeri szellő és a Balcó del Mediterrani látványos kilátása frissítő szünetet kínál. Délben felkapaszkodik a fenséges Katedrálishoz, amely az óváros felett uralkodik. A délután a régi városfalak mentén tett sétának van szentelve, amely évszázadok történelmén vezet keresztül. A nap a bájos El Serrallo halásznegyedben ér véget, ahol egy finom tengeri herkentyűs vacsora mellett pihenhet.",
         "ro": "Dimineața în Tarragona începe în inima orașului, la Plaça de la Font, înainte de a vă scufunda în istoria romană la Circ și Amfiteatru. Briza mării și priveliștile spectaculoase de la Balcó del Mediterrani oferă o pauză răcoritoare. La prânz, urcați treptele spre Catedrala maiestuoasă, care domină orașul vechi. După-amiaza este dedicată unei plimbări de-a lungul vechilor ziduri ale orașului, purtându-vă prin secole de istorie. Ziua se încheie în fermecătorul cartier pescăresc El Serrallo, unde vă puteți relaxa cu o cină delicioasă cu fructe de mare.",
-        "en": "The morning in Tarragona begins in the heart of the city at Plaça de la Font before diving into Roman history at the Circus and Amphitheatre. The sea breeze and spectacular views from the Balcó del Mediterrani offer a refreshing break. At midday, you'll climb the steps to the majestic Cathedral, which presides over the old town. The afternoon is dedicated to a walk along the ancient city walls, taking you through centuries of history. The day concludes in the charming fishing quarter of El Serrallo, where you can relax over a delicious seafood dinner."
+        "en": "The morning in Tarragona begins in the heart of the city at Plaça de la Font before diving into Roman history at the Circus and Amphitheatre. The sea breeze and spectacular views from the Balcó del Mediterrani offer a refreshing break. At midday, you'll climb the steps to the majestic Cathedral, which presides over the old town. The afternoon is dedicated to a walk along the ancient city walls, taking you through centuries of history. The day concludes in the charming fishing quarter of El Serrallo, where you can relax over a delicious seafood dinner.",
+        "es": "La mañana en Tarragona comienza en el corazón de la ciudad, en la Plaça de la Font, antes de sumergirse en la historia romana en el Circo y el Anfiteatro. La brisa marina y las vistas espectaculares desde el Balcó del Mediterrani ofrecen un descanso refrescante. A mediodía subirás los escalones hasta la majestuosa Catedral, que preside el casco antiguo. La tarde se dedica a un paseo por las antiguas murallas de la ciudad, que te llevan a través de siglos de historia. El día concluye en el encantador barrio pesquero de El Serrallo, donde podrás relajarte con una deliciosa cena de marisco."
       },
       "gastro_picks": {
         "de": [
@@ -378,6 +393,12 @@
           "Buy a combined ticket for the main Roman sites to save money.",
           "Many shops and sites close for a siesta in the afternoon.",
           "The water from the public fountains is drinkable."
+        ],
+        "es": [
+          "Lleva calzado cómodo, ya que los adoquines del casco antiguo pueden ser irregulares.",
+          "Compra una entrada combinada para los principales sitios romanos y ahorrarás dinero.",
+          "Muchas tiendas y sitios cierran por la siesta por la tarde.",
+          "El agua de las fuentes públicas es potable."
         ]
       }
     },
@@ -394,7 +415,8 @@
             "de": "Plaça de la Font",
             "hu": "Plaça de la Font",
             "ro": "Plaça de la Font",
-            "en": "Plaça de la Font"
+            "en": "Plaça de la Font",
+            "es": "Plaça de la Font"
           },
           "coords": [
             1.2458,
@@ -409,7 +431,8 @@
             "de": "Ein idealer Ausgangspunkt mit vielen Fahrradverleihen in der Nähe.",
             "hu": "Ideális kiindulópont, a közelben számos kerékpárkölcsönző található.",
             "ro": "Un punct de plecare ideal, cu multe centre de închiriere de biciclete în apropiere.",
-            "en": "An ideal starting point with many bike rental shops nearby."
+            "en": "An ideal starting point with many bike rental shops nearby.",
+            "es": "Un punto de partida ideal con muchas tiendas de alquiler de bicicletas cerca."
           }
         },
         {
@@ -417,7 +440,8 @@
             "de": "Römisches Amphitheater",
             "hu": "Római amfiteátrum",
             "ro": "Amfiteatrul Roman",
-            "en": "Roman Amphitheatre"
+            "en": "Roman Amphitheatre",
+            "es": "Anfiteatro romano"
           },
           "coords": [
             1.2547,
@@ -432,7 +456,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und genießen Sie die Aussicht, bevor Sie das Gelände erkunden.",
             "hu": "Zárja le a biciklit, és élvezze a kilátást, mielőtt felfedezné a helyszínt.",
             "ro": "Parcați bicicleta și bucurați-vă de priveliște înainte de a explora situl.",
-            "en": "Lock up your bike and enjoy the view before exploring the site."
+            "en": "Lock up your bike and enjoy the view before exploring the site.",
+            "es": "Asegura tu bici y disfruta de las vistas antes de explorar el recinto."
           }
         },
         {
@@ -440,7 +465,8 @@
             "de": "El Serrallo",
             "hu": "El Serrallo",
             "ro": "El Serrallo",
-            "en": "El Serrallo"
+            "en": "El Serrallo",
+            "es": "El Serrallo"
           },
           "coords": [
             1.238,
@@ -455,7 +481,8 @@
             "de": "Radfahren Sie entlang der Hafenpromenade und suchen Sie sich ein schönes Fischrestaurant.",
             "hu": "Tekerjen végig a kikötői sétányon, és válasszon egy szép haléttermet.",
             "ro": "Plimbați-vă cu bicicleta de-a lungul promenadei portului și alegeți un restaurant bun cu pește.",
-            "en": "Cycle along the port promenade and pick a nice seafood restaurant."
+            "en": "Cycle along the port promenade and pick a nice seafood restaurant.",
+            "es": "Pedalea por el paseo del puerto y elige un buen restaurante de marisco."
           }
         },
         {
@@ -463,7 +490,8 @@
             "de": "Rambla Nova & Balcó del Mediterrani",
             "hu": "Rambla Nova & Balcó del Mediterrani",
             "ro": "Rambla Nova & Balcó del Mediterrani",
-            "en": "Rambla Nova & Balcó del Mediterrani"
+            "en": "Rambla Nova & Balcó del Mediterrani",
+            "es": "Rambla Nova y Balcó del Mediterrani"
           },
           "coords": [
             1.254,
@@ -478,7 +506,8 @@
             "de": "Fahren Sie die breite Allee hinauf zum berühmten Balkon für einen Panoramablick.",
             "hu": "Tekerjen fel a széles sugárúton a híres erkélyhez a panorámás kilátásért.",
             "ro": "Urcați pe bulevardul larg până la faimosul balcon pentru o vedere panoramică.",
-            "en": "Ride up the wide avenue to the famous balcony for a panoramic view."
+            "en": "Ride up the wide avenue to the famous balcony for a panoramic view.",
+            "es": "Sube por la amplia avenida hasta el famoso mirador para disfrutar de una vista panorámica."
           }
         },
         {
@@ -486,7 +515,8 @@
             "de": "Kathedrale von Tarragona",
             "hu": "Tarragonai székesegyház",
             "ro": "Catedrala din Tarragona",
-            "en": "Tarragona Cathedral"
+            "en": "Tarragona Cathedral",
+            "es": "Catedral de Tarragona"
           },
           "coords": [
             1.248,
@@ -501,7 +531,8 @@
             "de": "Der Anstieg zur Kathedrale ist steil, aber die Mühe lohnt sich. Schließen Sie Ihr Rad gut ab.",
             "hu": "Meredek az út a katedrálishoz, de megéri a fáradságot. Zárja le jól a biciklit.",
             "ro": "Urcușul spre catedrală este abrupt, dar efortul merită. Asigurați-vă bine bicicleta.",
-            "en": "The climb to the cathedral is steep, but it's worth the effort. Lock your bike securely."
+            "en": "The climb to the cathedral is steep, but it's worth the effort. Lock your bike securely.",
+            "es": "La subida a la catedral es empinada, pero merece la pena. Asegura bien tu bicicleta."
           }
         },
         {
@@ -509,7 +540,8 @@
             "de": "Stadtmauern von Tarragona",
             "hu": "Tarragona városfalai",
             "ro": "Zidurile orașului Tarragona",
-            "en": "Tarragona City Walls"
+            "en": "Tarragona City Walls",
+            "es": "Murallas de Tarragona"
           },
           "coords": [
             1.243,
@@ -524,7 +556,8 @@
             "de": "Fahren Sie um die Außenseite der Mauern herum, um ihre gesamte Länge zu erfassen.",
             "hu": "Tekerjen körbe a falakon kívül, hogy felmérje teljes hosszukat.",
             "ro": "Mergeți cu bicicleta în jurul exteriorului zidurilor pentru a aprecia întreaga lor lungime.",
-            "en": "Cycle around the outside of the walls to appreciate their full length."
+            "en": "Cycle around the outside of the walls to appreciate their full length.",
+            "es": "Pedalea alrededor del exterior de las murallas para apreciar toda su longitud."
           }
         }
       ],
@@ -532,7 +565,8 @@
         "de": "Schwingen Sie sich am Morgen aufs Rad und starten Sie an der Plaça de la Font. Eine kurze Fahrt führt Sie zum Amphitheater mit Meerblick. Weiter geht es entlang der Küste zum lebhaften Fischerviertel El Serrallo, ideal für eine frühe Mittagspause. Am Mittag radeln Sie die Rambla Nova hinauf zum berühmten Balcó del Mediterrani. Bereiten Sie sich auf einen steilen Anstieg vor, um die beeindruckende Kathedrale zu erreichen. Der Nachmittag ist einer längeren Tour um die antiken Stadtmauern gewidmet, die einen umfassenden Blick auf das römische Erbe Tarragonas bietet.",
         "hu": "Pattanjon reggel biciklire, és induljon a Plaça de la Font-tól. Egy rövid tekerés elvezeti a tengerparti amfiteátrumhoz. Haladjon tovább a part mentén az élénk El Serrallo halásznegyedbe, amely ideális egy korai ebédszünethez. Délben tekerjen fel a Rambla Nován a híres Balcó del Mediterrani-hoz. Készüljön fel egy meredek emelkedőre, hogy elérje a lenyűgöző katedrálist. A délután egy hosszabb túrának van szentelve az ókori városfalak körül, amely átfogó képet nyújt Tarragona római örökségéről.",
         "ro": "Urcați-vă pe bicicletă dimineața și porniți din Plaça de la Font. O scurtă plimbare vă duce la amfiteatrul cu vedere la mare. Continuați de-a lungul coastei până la vibrantul cartier pescăresc El Serrallo, ideal pentru o pauză de prânz devreme. La prânz, pedalați pe Rambla Nova până la faimosul Balcó del Mediterrani. Pregătiți-vă pentru o urcare abruptă pentru a ajunge la impunătoarea Catedrală. După-amiaza este dedicată unui tur mai lung în jurul zidurilor antice ale orașului, oferind o perspectivă cuprinzătoare asupra moștenirii romane a Tarragonei.",
-        "en": "Hop on your bike in the morning and start from Plaça de la Font. A short ride takes you to the Amphitheatre with its sea views. Continue along the coast to the vibrant fishing quarter of El Serrallo, ideal for an early lunch break. At midday, cycle up the Rambla Nova to the famous Balcó del Mediterrani. Prepare for a steep climb to reach the impressive Cathedral. The afternoon is dedicated to a longer tour around the ancient city walls, providing a comprehensive view of Tarragona's Roman heritage."
+        "en": "Hop on your bike in the morning and start from Plaça de la Font. A short ride takes you to the Amphitheatre with its sea views. Continue along the coast to the vibrant fishing quarter of El Serrallo, ideal for an early lunch break. At midday, cycle up the Rambla Nova to the famous Balcó del Mediterrani. Prepare for a steep climb to reach the impressive Cathedral. The afternoon is dedicated to a longer tour around the ancient city walls, providing a comprehensive view of Tarragona's Roman heritage.",
+        "es": "Súbete a la bici por la mañana y comienza desde la Plaça de la Font. Un corto paseo te lleva al Anfiteatro con sus vistas al mar. Continúa por la costa hasta el vibrante barrio pesquero de El Serrallo, ideal para un almuerzo temprano. A mediodía, pedalea por la Rambla Nova hasta el famoso Balcó del Mediterrani. Prepárate para una subida empinada para alcanzar la impresionante Catedral. La tarde se dedica a un recorrido más largo alrededor de las antiguas murallas, ofreciendo una visión completa del patrimonio romano de Tarragona."
       },
       "gastro_picks": {
         "de": [
@@ -728,6 +762,12 @@
           "Take advantage of the bike lanes along the coast.",
           "Always lock your bike securely.",
           "Many streets in the old town are narrow and pedestrian-only."
+        ],
+        "es": [
+          "Tarragona tiene muchas pendientes; prepárate para algunas subidas, especialmente hacia la catedral.",
+          "Aprovecha los carriles bici a lo largo de la costa.",
+          "Siempre asegura tu bicicleta correctamente.",
+          "Muchas calles del casco antiguo son estrechas y peatonales."
         ]
       }
     },
@@ -744,7 +784,8 @@
             "de": "Pont del Diable (Teufelsbrücke)",
             "hu": "Pont del Diable (Ördög hídja)",
             "ro": "Pont del Diable (Podul Diavolului)",
-            "en": "Pont del Diable (Devil's Bridge)"
+            "en": "Pont del Diable (Devil's Bridge)",
+            "es": "Pont del Diable (Acueducto del Diablo)"
           },
           "coords": [
             1.244,
@@ -760,7 +801,8 @@
             "de": "Fahren Sie früh los, um die Menschenmassen zu vermeiden und das beste Licht zum Fotografieren zu haben.",
             "hu": "Induljon korán, hogy elkerülje a tömeget, és a legjobb fényben fotózhasson.",
             "ro": "Porniți devreme pentru a evita mulțimile și pentru a avea cea mai bună lumină pentru fotografii.",
-            "en": "Drive out early to avoid the crowds and get the best light for photos."
+            "en": "Drive out early to avoid the crowds and get the best light for photos.",
+            "es": "Conduce temprano para evitar las multitudes y conseguir la mejor luz para las fotos."
           }
         },
         {
@@ -768,7 +810,8 @@
             "de": "Parkhaus Saavedra (Cluster Altstadt)",
             "hu": "Saavedra parkolóház (Óváros klaszter)",
             "ro": "Parcarea Saavedra (Cluster Centrul Vechi)",
-            "en": "Saavedra Parking (Old Town Cluster)"
+            "en": "Saavedra Parking (Old Town Cluster)",
+            "es": "Aparcamiento Saavedra (Cluster casco antiguo)"
           },
           "coords": [
             1.248,
@@ -784,7 +827,8 @@
             "de": "Parken Sie hier und erkunden Sie die Oberstadt zu Fuß. Das ist der Beginn Ihres ersten Spaziergangs.",
             "hu": "Parkoljon itt, és fedezze fel a felsővárost gyalog. Ez az első sétaklaszter kezdete.",
             "ro": "Parcați aici și explorați orașul de sus pe jos. Acesta este începutul primului cluster de mers pe jos.",
-            "en": "Park here and explore the upper town on foot. This is the start of your first walking cluster."
+            "en": "Park here and explore the upper town on foot. This is the start of your first walking cluster.",
+            "es": "Aparca aquí y explora la parte alta de la ciudad a pie. Este es el inicio de tu primer cluster de paseo."
           }
         },
         {
@@ -792,7 +836,8 @@
             "de": "Kathedrale von Tarragona",
             "hu": "Tarragonai székesegyház",
             "ro": "Catedrala din Tarragona",
-            "en": "Tarragona Cathedral"
+            "en": "Tarragona Cathedral",
+            "es": "Catedral de Tarragona"
           },
           "coords": [
             1.248,
@@ -808,7 +853,8 @@
             "de": "Vom Parkplatz aus ist es nur ein kurzer Spaziergang bergauf.",
             "hu": "A parkolóból csak egy rövid séta felfelé.",
             "ro": "Este la o scurtă plimbare în sus de la parcare.",
-            "en": "It's just a short uphill walk from the parking area."
+            "en": "It's just a short uphill walk from the parking area.",
+            "es": "Está a solo una corta caminata cuesta arriba desde el aparcamiento."
           }
         },
         {
@@ -816,7 +862,8 @@
             "de": "Römisches Amphitheater",
             "hu": "Római amfiteátrum",
             "ro": "Amfiteatrul Roman",
-            "en": "Roman Amphitheatre"
+            "en": "Roman Amphitheatre",
+            "es": "Anfiteatro romano"
           },
           "coords": [
             1.2547,
@@ -832,7 +879,8 @@
             "de": "Gehen Sie vom Dom durch die Altstadt hinunter zum Meer.",
             "hu": "Sétáljon le a székesegyháztól az óvároson keresztül a tengerhez.",
             "ro": "Coborâți de la catedrală prin orașul vechi până la mare.",
-            "en": "Walk down from the cathedral through the old town to the sea."
+            "en": "Walk down from the cathedral through the old town to the sea.",
+            "es": "Baja andando desde la catedral por el casco antiguo hasta el mar."
           }
         },
         {
@@ -840,7 +888,8 @@
             "de": "Balcó del Mediterrani",
             "hu": "Balcó del Mediterrani",
             "ro": "Balcó del Mediterrani",
-            "en": "Balcó del Mediterrani"
+            "en": "Balcó del Mediterrani",
+            "es": "Balcó del Mediterrani"
           },
           "coords": [
             1.254,
@@ -856,7 +905,8 @@
             "de": "Ein perfekter Ort für eine Mittagspause mit Aussicht, bevor Sie zum Auto zurückkehren.",
             "hu": "Tökéletes hely egy kilátással egybekötött ebédszünethez, mielőtt visszatérne az autóhoz.",
             "ro": "Un loc perfect pentru o pauză de prânz cu priveliște înainte de a vă întoarce la mașină.",
-            "en": "A perfect spot for a lunch break with a view before heading back to the car."
+            "en": "A perfect spot for a lunch break with a view before heading back to the car.",
+            "es": "Un lugar perfecto para hacer una pausa y comer con vistas antes de volver al coche."
           }
         },
         {
@@ -864,7 +914,8 @@
             "de": "Parkplatz Hafen (Cluster El Serrallo)",
             "hu": "Kikötői parkoló (El Serrallo klaszter)",
             "ro": "Parcarea Portului (Cluster El Serrallo)",
-            "en": "Port Parking (El Serrallo Cluster)"
+            "en": "Port Parking (El Serrallo Cluster)",
+            "es": "Aparcamiento del puerto (Cluster El Serrallo)"
           },
           "coords": [
             1.24,
@@ -880,7 +931,8 @@
             "de": "Fahren Sie zum Hafen, parken Sie und erkunden Sie das Fischerviertel.",
             "hu": "Vezessen a kikötőbe, parkoljon le, és fedezze fel a halásznegyedet.",
             "ro": "Conduceți spre port, parcați și explorați cartierul pescăresc.",
-            "en": "Drive to the port, park, and explore the fishing district."
+            "en": "Drive to the port, park, and explore the fishing district.",
+            "es": "Conduce hasta el puerto, aparca y explora el barrio pesquero."
           }
         },
         {
@@ -888,7 +940,8 @@
             "de": "El Serrallo",
             "hu": "El Serrallo",
             "ro": "El Serrallo",
-            "en": "El Serrallo"
+            "en": "El Serrallo",
+            "es": "El Serrallo"
           },
           "coords": [
             1.238,
@@ -904,7 +957,8 @@
             "de": "Schlendern Sie durch die Straßen, beobachten Sie die Fischerboote und genießen Sie ein langes Abendessen.",
             "hu": "Sétáljon az utcákon, nézze a halászhajókat, és élvezzen egy hosszú vacsorát.",
             "ro": "Plimbați-vă pe străzi, priviți bărcile de pescuit și bucurați-vă de o cină lungă.",
-            "en": "Stroll the streets, watch the fishing boats, and enjoy a long dinner."
+            "en": "Stroll the streets, watch the fishing boats, and enjoy a long dinner.",
+            "es": "Pasea por las calles, observa las embarcaciones y disfruta de una cena larga."
           }
         }
       ],
@@ -912,7 +966,8 @@
         "de": "Ihr Tag mit dem Auto beginnt mit einer Fahrt zum beeindruckenden Pont del Diable Aquädukt außerhalb der Stadt. Nach diesem historischen Start fahren Sie ins Zentrum, parken Ihr Auto und beginnen den ersten Spaziergang. Sie erkunden die Kathedrale und die römischen Ruinen der Oberstadt, genießen die Aussicht und ein Mittagessen. Am Nachmittag fahren Sie zum Hafen. Dort parken Sie erneut und tauchen in die authentische Atmosphäre des Fischerviertels El Serrallo ein, wo Sie den Rest des Tages bei einem gemütlichen Spaziergang und einem Abendessen ausklingen lassen.",
         "hu": "Az autós nap egy kirándulással kezdődik a városon kívüli lenyűgöző Pont del Diable vízvezetékhez. A történelmi kezdet után a központba hajt, leparkol, és megkezdi az első gyalogos klasztert. Felfedezi a katedrálist és a felsőváros római kori romjait, élvezi a kilátást és az ebédet. Délután a kikötőbe hajt. Itt újra leparkol, és elmerül El Serrallo halásznegyedének autentikus hangulatában, ahol a nap hátralévő részét egy kellemes sétával és egy vacsorával zárja.",
         "ro": "Ziua cu mașina începe cu o excursie la impresionantul apeduct Pont del Diable, în afara orașului. După acest început istoric, conduceți spre centru, parcați mașina și începeți primul cluster de mers pe jos. Explorați catedrala și ruinele romane din orașul de sus, bucurându-vă de priveliște și de prânz. După-amiaza, conduceți spre port. Acolo, parcați din nou și vă cufundați în atmosfera autentică a cartierului pescăresc El Serrallo, unde încheiați ziua cu o plimbare relaxantă și o cină.",
-        "en": "Your day by car begins with a drive to the impressive Pont del Diable aqueduct outside the city. After this historical start, you'll drive to the center, park your car, and begin the first walking cluster. You'll explore the cathedral and the Roman ruins of the upper town, enjoying the views and lunch. In the afternoon, you drive to the port. There, you park again and immerse yourself in the authentic atmosphere of the El Serrallo fishing district, rounding off the day with a leisurely stroll and dinner."
+        "en": "Your day by car begins with a drive to the impressive Pont del Diable aqueduct outside the city. After this historical start, you'll drive to the center, park your car, and begin the first walking cluster. You'll explore the cathedral and the Roman ruins of the upper town, enjoying the views and lunch. In the afternoon, you drive to the port. There, you park again and immerse yourself in the authentic atmosphere of the El Serrallo fishing district, rounding off the day with a leisurely stroll and dinner.",
+        "es": "Tu día en coche comienza con una visita al impresionante acueducto Pont del Diable en las afueras de la ciudad. Tras este inicio histórico, conducirás al centro, aparcarás y comenzarás el primer cluster a pie. Explorarás la catedral y las ruinas romanas de la parte alta, disfrutando de las vistas y del almuerzo. Por la tarde conducirás hasta el puerto, aparcarás de nuevo y te sumergirás en la auténtica atmósfera del barrio pesquero de El Serrallo, culminando el día con un paseo tranquilo y la cena."
       },
       "gastro_picks": {
         "de": [
@@ -1108,6 +1163,12 @@
           "Allow extra time for traffic, especially in summer.",
           "Be aware of speed limits, which can be lower on rural roads.",
           "A car allows you to visit more remote beaches and sights outside the city."
+        ],
+        "es": [
+          "Aparcar en el centro puede ser caro y difícil. Usa aparcamientos cubiertos señalizados.",
+          "Permite tiempo extra por el tráfico, especialmente en verano.",
+          "Ten en cuenta los límites de velocidad, que pueden ser más bajos en carreteras rurales.",
+          "Un coche te permite visitar playas y lugares más remotos fuera de la ciudad."
         ]
       }
     },
@@ -1124,7 +1185,8 @@
             "de": "Bushaltestelle am Bahnhof (Start)",
             "hu": "Buszmegálló az állomásnál (Indulás)",
             "ro": "Stația de autobuz de la gară (Start)",
-            "en": "Bus Stop at Train Station (Start)"
+            "en": "Bus Stop at Train Station (Start)",
+            "es": "Parada de autobús en la estación (Inicio)"
           },
           "coords": [
             1.238,
@@ -1140,7 +1202,8 @@
             "de": "Nehmen Sie einen Bus (z.B. Linie 22) hinauf zur Altstadt (Cluster 1).",
             "hu": "Szálljon fel egy buszra (pl. 22-es) az óvárosba (1. klaszter).",
             "ro": "Luați un autobuz (de ex. linia 22) spre orașul vechi (Cluster 1).",
-            "en": "Take a bus (e.g., Line 22) up to the old town (Cluster 1)."
+            "en": "Take a bus (e.g., Line 22) up to the old town (Cluster 1).",
+            "es": "Toma un autobús (p. ej., la línea 22) hasta el casco antiguo (Cluster 1)."
           }
         },
         {
@@ -1148,7 +1211,8 @@
             "de": "Kathedrale von Tarragona",
             "hu": "Tarragonai székesegyház",
             "ro": "Catedrala din Tarragona",
-            "en": "Tarragona Cathedral"
+            "en": "Tarragona Cathedral",
+            "es": "Catedral de Tarragona"
           },
           "coords": [
             1.248,
@@ -1164,7 +1228,8 @@
             "de": "Steigen Sie in der Nähe der Kathedrale aus und beginnen Sie Ihre Erkundung zu Fuß.",
             "hu": "Szálljon le a katedrális közelében, és kezdje meg a gyalogos felfedezést.",
             "ro": "Coborâți lângă catedrală și începeți explorarea pe jos.",
-            "en": "Get off near the Cathedral and start your exploration on foot."
+            "en": "Get off near the Cathedral and start your exploration on foot.",
+            "es": "Baja cerca de la Catedral y comienza la exploración a pie."
           }
         },
         {
@@ -1172,7 +1237,8 @@
             "de": "Römisches Zirkus",
             "hu": "Római Cirkusz",
             "ro": "Circul Roman",
-            "en": "Roman Circus"
+            "en": "Roman Circus",
+            "es": "Circo romano"
           },
           "coords": [
             1.248,
@@ -1188,7 +1254,8 @@
             "de": "Ein kurzer Spaziergang bergab von der Kathedrale.",
             "hu": "Rövid séta lefelé a katedrálistól.",
             "ro": "O scurtă plimbare la vale de la catedrală.",
-            "en": "A short walk downhill from the cathedral."
+            "en": "A short walk downhill from the cathedral.",
+            "es": "A poca distancia cuesta abajo desde la catedral."
           }
         },
         {
@@ -1196,7 +1263,8 @@
             "de": "Römisches Amphitheater",
             "hu": "Római amfiteátrum",
             "ro": "Amfiteatrul Roman",
-            "en": "Roman Amphitheatre"
+            "en": "Roman Amphitheatre",
+            "es": "Anfiteatro romano"
           },
           "coords": [
             1.2547,
@@ -1212,7 +1280,8 @@
             "de": "Genießen Sie die Aussicht und machen Sie sich dann bereit für die nächste Busfahrt.",
             "hu": "Élvezze a kilátást, majd készüljön fel a következő buszútra.",
             "ro": "Bucurați-vă de priveliște, apoi pregătiți-vă pentru următoarea călătorie cu autobuzul.",
-            "en": "Enjoy the view, then get ready for the next bus ride."
+            "en": "Enjoy the view, then get ready for the next bus ride.",
+            "es": "Disfruta de la vista y prepárate para el siguiente trayecto en autobús."
           }
         },
         {
@@ -1220,7 +1289,8 @@
             "de": "El Serrallo",
             "hu": "El Serrallo",
             "ro": "El Serrallo",
-            "en": "El Serrallo"
+            "en": "El Serrallo",
+            "es": "El Serrallo"
           },
           "coords": [
             1.238,
@@ -1236,7 +1306,8 @@
             "de": "Nehmen Sie einen Bus vom Amphitheater zum Hafenviertel für ein Mittagessen (Cluster 2).",
             "hu": "Szálljon buszra az amfiteátrumtól a kikötőnegyedbe ebédelni (2. klaszter).",
             "ro": "Luați un autobuz de la amfiteatru spre cartierul portuar pentru prânz (Cluster 2).",
-            "en": "Take a bus from the amphitheater area to the port district for lunch (Cluster 2)."
+            "en": "Take a bus from the amphitheater area to the port district for lunch (Cluster 2).",
+            "es": "Toma un autobús desde la zona del anfiteatro hasta el distrito portuario para almorzar (Cluster 2)."
           }
         },
         {
@@ -1244,7 +1315,8 @@
             "de": "Balcó del Mediterrani",
             "hu": "Balcó del Mediterrani",
             "ro": "Balcó del Mediterrani",
-            "en": "Balcó del Mediterrani"
+            "en": "Balcó del Mediterrani",
+            "es": "Balcó del Mediterrani"
           },
           "coords": [
             1.254,
@@ -1260,7 +1332,8 @@
             "de": "Spazieren Sie vom Hafen aus die Rambla Nova hinauf, um den Nachmittag mit Aussicht ausklingen zu lassen.",
             "hu": "Sétáljon fel a kikötőből a Rambla Nován, hogy kilátással zárja a délutánt.",
             "ro": "Urcați pe Rambla Nova din port pentru a încheia după-amiaza cu o priveliște.",
-            "en": "Walk up the Rambla Nova from the port to end the afternoon with a view."
+            "en": "Walk up the Rambla Nova from the port to end the afternoon with a view.",
+            "es": "Sube por la Rambla Nova desde el puerto para terminar la tarde con una vista."
           }
         }
       ],
@@ -1268,7 +1341,8 @@
         "de": "Beginnen Sie Ihren Tag mit einer Busfahrt vom Bahnhof in die historische Oberstadt. Dort erkunden Sie zu Fuß die Kathedrale und den römischen Zirkus. Ein kurzer Spaziergang bringt Sie zum beeindruckenden Amphitheater mit Blick auf das Meer. Für das Mittagessen nehmen Sie einen weiteren Bus, der Sie in das lebhafte Fischerviertel El Serrallo bringt. Nach einem ausgiebigen Mahl spazieren Sie gemütlich die Rambla Nova hinauf zum Balcó del Mediterrani, wo Sie den Nachmittag mit einer spektakulären Aussicht und einer wohlverdienten Pause ausklingen lassen.",
         "hu": "Kezdje a napot egy buszúttal az állomásról a történelmi felsővárosba. Ott gyalogosan fedezi fel a katedrálist és a római cirkuszt. Egy rövid séta elvezeti a lenyűgöző, tengerre néző amfiteátrumhoz. Ebédhez egy másik buszra száll, amely az élénk El Serrallo halásznegyedbe viszi. Egy kiadós étkezés után kényelmesen felsétál a Rambla Nován a Balcó del Mediterrani-hoz, ahol egy látványos kilátással és egy jól megérdemelt szünettel zárja a délutánt.",
         "ro": "Începeți ziua cu o călătorie cu autobuzul de la gară la orașul de sus, istoric. Acolo, explorați pe jos catedrala și circul roman. O scurtă plimbare vă duce la impresionantul amfiteatru cu vedere la mare. Pentru prânz, luați un alt autobuz care vă duce în vibrantul cartier pescăresc El Serrallo. După o masă copioasă, urcați agale pe Rambla Nova până la Balcó del Mediterrani, unde încheiați după-amiaza cu o priveliște spectaculoasă și o pauză binemeritată.",
-        "en": "Start your day with a bus ride from the station to the historic upper town. There, you'll explore the cathedral and the Roman circus on foot. A short walk takes you to the impressive amphitheater overlooking the sea. For lunch, you'll take another bus to the vibrant El Serrallo fishing district. After a hearty meal, you'll leisurely stroll up the Rambla Nova to the Balcó del Mediterrani, where you'll end the afternoon with a spectacular view and a well-deserved break."
+        "en": "Start your day with a bus ride from the station to the historic upper town. There, you'll explore the cathedral and the Roman circus on foot. A short walk takes you to the impressive amphitheater overlooking the sea. For lunch, you'll take another bus to the vibrant El Serrallo fishing district. After a hearty meal, you'll leisurely stroll up the Rambla Nova to the Balcó del Mediterrani, where you'll end the afternoon with a spectacular view and a well-deserved break.",
+        "es": "Comienza el día con un autobús desde la estación hasta la parte alta histórica. Allí explorarás la catedral y el circo romano a pie. Una corta caminata te lleva al impresionante anfiteatro con vistas al mar. Para comer, tomarás otro autobús hasta el vibrante distrito pesquero de El Serrallo. Después de una comida contundente, subirás con calma por la Rambla Nova hasta el Balcó del Mediterrani, donde terminarás la tarde con una vista espectacular y un merecido descanso."
       },
       "gastro_picks": {
         "de": [
@@ -1464,6 +1538,12 @@
           "Buses can be crowded in the summer.",
           "Validate your ticket when you board.",
           "The municipal transport company's app (EMT Tarragona) is useful for real-time schedules."
+        ],
+        "es": [
+          "Compra una tarjeta T-10 de 10 viajes, que se puede compartir y es más barata que los billetes sencillos.",
+          "Los autobuses pueden ir llenos en verano.",
+          "Valida tu billete al subir.",
+          "La app de la empresa municipal de transporte (EMT Tarragona) es útil para horarios en tiempo real."
         ]
       }
     }

@@ -21,7 +21,8 @@
             "de": "Ermita de San Miguel",
             "hu": "Szent Mihály kápolna",
             "ro": "Ermita de San Miguel",
-            "en": "Ermita de San Miguel"
+            "en": "Ermita de San Miguel",
+            "es": "Ermita de San Miguel"
           },
           "coords": [
             -14.351,
@@ -36,7 +37,8 @@
             "de": "Kleine Kapelle mit schönem Blick.",
             "hu": "Apró kápolna csodás kilátással.",
             "ro": "Mică capelă cu o priveliște superbă.",
-            "en": "Tiny chapel with a lovely view."
+            "en": "Tiny chapel with a lovely view.",
+            "es": "Pequeña capilla con una bonita vista."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Iglesia de Nuestra Señora del Carmen",
             "hu": "Kármel-hegyi Boldogasszony templom",
             "ro": "Iglesia de Nuestra Señora del Carmen",
-            "en": "Church of Our Lady of Carmen"
+            "en": "Church of Our Lady of Carmen",
+            "es": "Iglesia de Nuestra Señora del Carmen"
           },
           "coords": [
             -14.353,
@@ -59,7 +62,8 @@
             "de": "Besuchen Sie die Fischer-Schutzpatronin.",
             "hu": "A halászok védőszentjének otthona.",
             "ro": "Vizitați protectoarea pescarilor.",
-            "en": "Visit the patron saint of fishermen."
+            "en": "Visit the patron saint of fishermen.",
+            "es": "Visita a la patrona de los pescadores."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Mirador del Saladar",
             "hu": "Saladar kilátó",
             "ro": "Mirador del Saladar",
-            "en": "Saladar Viewpoint"
+            "en": "Saladar Viewpoint",
+            "es": "Mirador del Saladar"
           },
           "coords": [
             -14.335,
@@ -82,7 +87,8 @@
             "de": "Blick auf das geschützte Feuchtgebiet.",
             "hu": "Kilátás a védett mocsárvidékre.",
             "ro": "Vedere spre zona umedă protejată.",
-            "en": "View over the protected wetlands."
+            "en": "View over the protected wetlands.",
+            "es": "Vistas sobre los humedales protegidos."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Faro de Morro Jable",
             "hu": "Morro Jable-i világítótorony",
             "ro": "Farul Morro Jable",
-            "en": "Morro Jable Lighthouse"
+            "en": "Morro Jable Lighthouse",
+            "es": "Faro de Morro Jable"
           },
           "coords": [
             -14.3262,
@@ -105,7 +112,8 @@
             "de": "Ein Wahrzeichen inmitten des Strandes.",
             "hu": "Jellegzetes tájékozódási pont a parton.",
             "ro": "Un punct de reper emblematic pe plajă.",
-            "en": "An iconic landmark right on the beach."
+            "en": "An iconic landmark right on the beach.",
+            "es": "Un hito icónico justo en la playa."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Skeleton of Sperm Whale",
             "hu": "Nagy ámbráscet csontváz",
             "ro": "Schelet de Balenă",
-            "en": "Sperm Whale Skeleton"
+            "en": "Sperm Whale Skeleton",
+            "es": "Esqueleto de cachalote"
           },
           "coords": [
             -14.3275,
@@ -128,7 +137,8 @@
             "de": "Beeindruckendes Skelett unter freiem Himmel.",
             "hu": "Lenyűgöző szabadtéri csontváz.",
             "ro": "Schelet impresionant în aer liber.",
-            "en": "Impressive open-air skeleton exhibit."
+            "en": "Impressive open-air skeleton exhibit.",
+            "es": "Impresionante exposición al aire libre del esqueleto."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Playa del Matorral",
             "hu": "Matorral strand",
             "ro": "Playa del Matorral",
-            "en": "Matorral Beach"
+            "en": "Matorral Beach",
+            "es": "Playa del Matorral"
           },
           "coords": [
             -14.33,
@@ -151,7 +162,8 @@
             "de": "Perfekter Ort für ein erfrischendes Bad.",
             "hu": "Tökéletes hely egy frissítő csobbanáshoz.",
             "ro": "Locul perfect pentru o baie revigorantă.",
-            "en": "Perfect spot for a refreshing swim."
+            "en": "Perfect spot for a refreshing swim.",
+            "es": "Lugar perfecto para un baño refrescante."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag im malerischen alten Viertel von Morro Jable. Nach dem Besuch der kleinen Kapellen spazieren Sie entlang des Naturreservats Saladar bis zum markanten Leuchtturm. Der Nachmittag gehört dem weiten Sandstrand, wo Sie die Meeresbrise und das Skelett eines Wals bestaunen können. Ein entspannter Ausklang am azurblauen Wasser rundet das Erlebnis ab.",
         "hu": "Kezdje a napot Morro Jable festői óvárosában, a kis kápolnák felfedezésével. Ezután sétáljon végig a Saladar természetvédelmi terület mellett egészen a monumentális világítótoronyig. A délutánt töltse a széles homokos strandon, ahol megcsodálhatja az ámbráscet hatalmas csontvázát is. A napot a kristálytiszta vízparti pihenés zárja.",
         "ro": "Începeți ziua în cartierul vechi pitoresc din Morro Jable, vizitând micile capele locale. Apoi, plimbați-vă de-a lungul rezervației naturale Saladar până la farul impunător. După-amiaza este dedicată plajei întinse de nisip, unde puteți admira și scheletul uriaș al unei balene. Încheiați ziua relaxându-vă lângă apele azurii.",
-        "en": "Start your day in the picturesque old quarter of Morro Jable, exploring the local chapels. Then, take a stroll along the Saladar nature reserve all the way to the prominent lighthouse. Spend your afternoon on the wide sandy beach, where you can also marvel at the giant sperm whale skeleton. End the day relaxing by the azure waters."
+        "en": "Start your day in the picturesque old quarter of Morro Jable, exploring the local chapels. Then, take a stroll along the Saladar nature reserve all the way to the prominent lighthouse. Spend your afternoon on the wide sandy beach, where you can also marvel at the giant sperm whale skeleton. End the day relaxing by the azure waters.",
+        "es": "Comienza el día en el pintoresco casco antiguo de Morro Jable, explorando las capillas locales. Luego, pasea por la Reserva del Saladar hasta el emblemático faro. Pasa la tarde en la amplia playa de arena, donde también puedes maravillarte con el enorme esqueleto de cachalote. Termina el día relajándote junto a las aguas azules."
       },
       "gastro_picks": {
         "de": [
@@ -279,6 +292,11 @@
           "Wear comfortable shoes for the beach walk.",
           "The wind can be quite strong near the lighthouse.",
           "Sun protection is vital on the open Saladar path."
+        ],
+        "es": [
+          "Lleva calzado cómodo para la caminata por la playa.",
+          "El viento puede ser bastante fuerte cerca del faro.",
+          "La protección solar es vital en el camino abierto del Saladar."
         ]
       },
       "variants": {
@@ -287,7 +305,8 @@
             "de": "Beginnen Sie Ihren Tag im malerischen alten Viertel von Morro Jable. Nach dem Besuch der kleinen Kapellen spazieren Sie entlang des Naturreservats Saladar bis zum markanten Leuchtturm. Der Nachmittag gehört dem weiten Sandstrand, wo Sie die Meeresbrise und das Skelett eines Wals bestaunen können. Ein entspannter Ausklang am azurblauen Wasser rundet das Erlebnis ab.",
             "hu": "Kezdje a napot Morro Jable festői óvárosában, a kis kápolnák felfedezésével. Ezután sétáljon végig a Saladar természetvédelmi terület mellett egészen a monumentális világítótoronyig. A délutánt töltse a széles homokos strandon, ahol megcsodálhatja az ámbráscet hatalmas csontvázát is. A napot a kristálytiszta vízparti pihenés zárja.",
             "ro": "Începeți ziua în cartierul vechi pitoresc din Morro Jable, vizitând micile capele locale. Apoi, plimbați-vă de-a lungul rezervației naturale Saladar până la farul impunător. După-amiaza este dedicată plajei întinse de nisip, unde puteți admira și scheletul uriaș al unei balene. Încheiați ziua relaxându-vă lângă apele azurii.",
-            "en": "Start your day in the picturesque old quarter of Morro Jable, exploring the local chapels. Then, take a stroll along the Saladar nature reserve all the way to the prominent lighthouse. Spend your afternoon on the wide sandy beach, where you can also marvel at the giant sperm whale skeleton. End the day relaxing by the azure waters."
+            "en": "Start your day in the picturesque old quarter of Morro Jable, exploring the local chapels. Then, take a stroll along the Saladar nature reserve all the way to the prominent lighthouse. Spend your afternoon on the wide sandy beach, where you can also marvel at the giant sperm whale skeleton. End the day relaxing by the azure waters.",
+            "es": "Comienza el día en el pintoresco casco antiguo de Morro Jable, explorando las capillas locales. Luego, pasea por la Reserva del Saladar hasta el emblemático faro. Pasa la tarde en la amplia playa de arena, donde también puedes maravillarte con el enorme esqueleto de cachalote. Termina el día relajándote junto a las aguas azules."
           },
           "stops": [
             {
@@ -295,13 +314,15 @@
                 "de": "Ermita de San Miguel",
                 "hu": "Szent Mihály kápolna",
                 "ro": "Ermita de San Miguel",
-                "en": "Ermita de San Miguel"
+                "en": "Ermita de San Miguel",
+                "es": "Ermita de San Miguel"
               },
               "tip_5lang": {
                 "de": "Kleine Kapelle mit schönem Blick.",
                 "hu": "Apró kápolna csodás kilátással.",
                 "ro": "Mică capelă cu o priveliște superbă.",
-                "en": "Tiny chapel with a lovely view."
+                "en": "Tiny chapel with a lovely view.",
+                "es": "Pequeña capilla con una bonita vista."
               }
             },
             {
@@ -309,13 +330,15 @@
                 "de": "Iglesia de Nuestra Señora del Carmen",
                 "hu": "Kármel-hegyi Boldogasszony templom",
                 "ro": "Iglesia de Nuestra Señora del Carmen",
-                "en": "Church of Our Lady of Carmen"
+                "en": "Church of Our Lady of Carmen",
+                "es": "Iglesia de Nuestra Señora del Carmen"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Fischer-Schutzpatronin.",
                 "hu": "A halászok védőszentjének otthona.",
                 "ro": "Vizitați protectoarea pescarilor.",
-                "en": "Visit the patron saint of fishermen."
+                "en": "Visit the patron saint of fishermen.",
+                "es": "Visita a la patrona de los pescadores."
               }
             },
             {
@@ -323,13 +346,15 @@
                 "de": "Mirador del Saladar",
                 "hu": "Saladar kilátó",
                 "ro": "Mirador del Saladar",
-                "en": "Saladar Viewpoint"
+                "en": "Saladar Viewpoint",
+                "es": "Mirador del Saladar"
               },
               "tip_5lang": {
                 "de": "Blick auf das geschützte Feuchtgebiet.",
                 "hu": "Kilátás a védett mocsárvidékre.",
                 "ro": "Vedere spre zona umedă protejată.",
-                "en": "View over the protected wetlands."
+                "en": "View over the protected wetlands.",
+                "es": "Vistas sobre los humedales protegidos."
               }
             },
             {
@@ -337,13 +362,15 @@
                 "de": "Faro de Morro Jable",
                 "hu": "Morro Jable-i világítótorony",
                 "ro": "Farul Morro Jable",
-                "en": "Morro Jable Lighthouse"
+                "en": "Morro Jable Lighthouse",
+                "es": "Faro de Morro Jable"
               },
               "tip_5lang": {
                 "de": "Ein Wahrzeichen inmitten des Strandes.",
                 "hu": "Jellegzetes tájékozódási pont a parton.",
                 "ro": "Un punct de reper emblematic pe plajă.",
-                "en": "An iconic landmark right on the beach."
+                "en": "An iconic landmark right on the beach.",
+                "es": "Un hito icónico justo en la playa."
               }
             },
             {
@@ -351,13 +378,15 @@
                 "de": "Skeleton of Sperm Whale",
                 "hu": "Nagy ámbráscet csontváz",
                 "ro": "Schelet de Balenă",
-                "en": "Sperm Whale Skeleton"
+                "en": "Sperm Whale Skeleton",
+                "es": "Esqueleto de cachalote"
               },
               "tip_5lang": {
                 "de": "Beeindruckendes Skelett unter freiem Himmel.",
                 "hu": "Lenyűgöző szabadtéri csontváz.",
                 "ro": "Schelet impresionant în aer liber.",
-                "en": "Impressive open-air skeleton exhibit."
+                "en": "Impressive open-air skeleton exhibit.",
+                "es": "Impresionante exposición al aire libre del esqueleto."
               }
             },
             {
@@ -365,13 +394,15 @@
                 "de": "Playa del Matorral",
                 "hu": "Matorral strand",
                 "ro": "Playa del Matorral",
-                "en": "Matorral Beach"
+                "en": "Matorral Beach",
+                "es": "Playa del Matorral"
               },
               "tip_5lang": {
                 "de": "Perfekter Ort für ein erfrischendes Bad.",
                 "hu": "Tökéletes hely egy frissítő csobbanáshoz.",
                 "ro": "Locul perfect pentru o baie revigorantă.",
-                "en": "Perfect spot for a refreshing swim."
+                "en": "Perfect spot for a refreshing swim.",
+                "es": "Lugar perfecto para un baño refrescante."
               }
             }
           ],
@@ -493,6 +524,11 @@
               "Wear comfortable shoes for the beach walk.",
               "The wind can be quite strong near the lighthouse.",
               "Sun protection is vital on the open Saladar path."
+            ],
+            "es": [
+              "Lleva calzado cómodo para la caminata por la playa.",
+              "El viento puede ser bastante fuerte cerca del faro.",
+              "La protección solar es vital en el camino abierto del Saladar."
             ]
           }
         },
@@ -501,7 +537,8 @@
             "de": "Morgens bietet die Ermita Schutz vor den ersten Tropfen. Den Mittag verbringen wir in der geräumigen Carmen-Kirche, um trocken zu bleiben. Nachmittags führt der Weg mit Schirm zum Leuchtturm, vorbei am Skelett. Der Abend klingt sicher in einem der überdachten Restaurants an der Promenade aus.",
             "hu": "Reggel az Ermita apró belső tere nyújt menedéket. A déli órákat a tágas Carmen templomban töltjük az eső elől menekülve. Délután esernyővel sétálunk a világítótoronyhoz és az óriás csontvázhoz. Az estét a parti sétány egyik fedett teraszán zárjuk, hallgatva a tenger és az eső morajlását.",
             "ro": "Dimineața începe cu un refugiu în Ermita. La prânz explorăm interiorul bisericii Carmen pentru a evita ploaia. După-amiaza mergem cu umbrela spre far și scheletul de balenă. Seara se încheie plăcut sub acoperișul unei terase de pe faleză, admirând oceanul prin perdeaua de apă.",
-            "en": "Morning starts with a quick shelter at the Ermita. Spend noon inside the spacious Carmen Church to stay dry. In the afternoon, walk with an umbrella towards the lighthouse and the whale skeleton. The evening ends safely at one of the covered promenade restaurants by the sea."
+            "en": "Morning starts with a quick shelter at the Ermita. Spend noon inside the spacious Carmen Church to stay dry. In the afternoon, walk with an umbrella towards the lighthouse and the whale skeleton. The evening ends safely at one of the covered promenade restaurants by the sea.",
+            "es": "La mañana empieza con un rápido resguardo en la Ermita. Pasa el mediodía dentro de la espaciosa Iglesia del Carmen para mantenerte seco. Por la tarde, camina con paraguas hacia el faro y el esqueleto de la ballena. La noche termina con seguridad en uno de los restaurantes con cubierta del paseo marítimo junto al mar."
           },
           "stops": [
             {
@@ -510,7 +547,8 @@
                 "de": "Kleiner, trockener Rückzugsort für den Start.",
                 "hu": "Apró, száraz menedék a túra kezdetén.",
                 "ro": "Mic refugiu uscat pentru începutul turului.",
-                "en": "Small, dry retreat for the start of the tour."
+                "en": "Small, dry retreat for the start of the tour.",
+                "es": "Pequeño refugio seco para el inicio del recorrido."
               }
             },
             {
@@ -519,7 +557,8 @@
                 "de": "Idealer Ort, um einen starken Schauer abzuwarten.",
                 "hu": "Ideális helyszín egy nagyobb zápor kivárásához.",
                 "ro": "Loc ideal pentru a aștepta trecerea unei averse.",
-                "en": "Ideal place to wait out a heavy downpour."
+                "en": "Ideal place to wait out a heavy downpour.",
+                "es": "Lugar ideal para esperar a que pase un aguacero fuerte."
               }
             },
             {
@@ -528,7 +567,8 @@
                 "de": "Vorsicht, der Boden im Sumpfgebiet ist nun rutschig.",
                 "hu": "Vigyázat, a mocsaras terület mentén csúszós az út.",
                 "ro": "Atenție, terenul de lângă mlaștină este alunecos.",
-                "en": "Caution, the path near the marshland is slippery."
+                "en": "Caution, the path near the marshland is slippery.",
+                "es": "Cuidado, el sendero cerca de la marisma es resbaladizo."
               }
             },
             {
@@ -537,7 +577,8 @@
                 "de": "Festere Schuhe für die nasse Promenade nötig.",
                 "hu": "Stabilabb cipő szükséges a vizes sétányon.",
                 "ro": "Pantofi mai stabili necesari pe faleza umedă.",
-                "en": "Sturdier shoes needed for the wet promenade."
+                "en": "Sturdier shoes needed for the wet promenade.",
+                "es": "Se necesitan zapatos más resistentes para el paseo mojado del paseo marítimo."
               }
             },
             {
@@ -546,7 +587,8 @@
                 "de": "Kurzer Fotostopp trotz Regen lohnt sich.",
                 "hu": "Rövid fotómegálló az eső ellenére is megéri.",
                 "ro": "O oprire scurtă pentru poze merită chiar și pe ploaie.",
-                "en": "A short photo stop is worth it despite the rain."
+                "en": "A short photo stop is worth it despite the rain.",
+                "es": "Vale la pena una pequeña parada fotográfica a pesar de la lluvia."
               }
             },
             {
@@ -555,7 +597,8 @@
                 "de": "Die Strandbars (Chiringuitos) bieten guten Schutz.",
                 "hu": "A strandbárok (Chiringuitos) jó menedéket adnak.",
                 "ro": "Barurile de pe plajă oferă un adăpost bun.",
-                "en": "Beach bars (Chiringuitos) offer good shelter."
+                "en": "Beach bars (Chiringuitos) offer good shelter.",
+                "es": "Los chiringuitos ofrecen buen resguardo."
               }
             }
           ],
@@ -587,6 +630,13 @@
               "Churches are not just sights but also excellent shelters.",
               "The ocean view in the rain has a uniquely dramatic atmosphere.",
               "Plan coffee breaks under the covered arcades."
+            ],
+            "es": [
+              "Un impermeable es más práctico que un paraguas debido al viento.",
+              "El pavimento del paseo puede volverse muy resbaladizo cuando está mojado.",
+              "Las iglesias no son solo monumentos sino también excelentes refugios.",
+              "La vista al océano bajo la lluvia tiene una atmósfera singularmente dramática.",
+              "Planifica pausas para el café bajo los pórticos cubiertos."
             ]
           }
         },
@@ -595,7 +645,8 @@
             "de": "Ein erfrischender Morgenbesuch in der Ermita startet den Tag. Mittags genießen wir die milde Wintersonne am Saladar-Aussichtspunkt. Nachmittags erreichen wir den Leuchtturm rechtzeitig vor dem frühen Sonnenuntergang gegen 18 Uhr. Der Abend erfordert eine leichte Jacke für den kühlen Meereswind.",
             "hu": "Frissítő reggeli látogatással kezdünk a kis kápolnánál. Délben a kellemes téli napsütést élvezzük a Saladar kilátónál. Délután a lámpáshoz érünk, még a korai, 18 óra körüli naplemente előtt. Az este hűvösebb tengeri szellőt hoz, így egy vékony kabát mindenképpen szükséges.",
             "ro": "Începem ziua cu o vizită revigorantă la mica capelă. La prânz ne bucurăm de soarele blând de iarnă la punctul de belvedere Saladar. După-amiaza ajungem la far înainte de apusul devreme, în jur de ora 18:00. Seara aduce o briză marină răcoroasă, deci o jachetă subțire este necesară.",
-            "en": "A refreshing morning visit to the small chapel starts the day. At noon, enjoy the mild winter sun at the Saladar viewpoint. In the afternoon, reach the lighthouse well before the early sunset around 6 PM. The evening brings a cool sea breeze, so a light jacket is essential."
+            "en": "A refreshing morning visit to the small chapel starts the day. At noon, enjoy the mild winter sun at the Saladar viewpoint. In the afternoon, reach the lighthouse well before the early sunset around 6 PM. The evening brings a cool sea breeze, so a light jacket is essential.",
+            "es": "Una visita matutina refrescante a la pequeña capilla comienza el día. Al mediodía, disfruta del suave sol invernal en el mirador del Saladar. Por la tarde, llega al faro antes del atardecer temprano, sobre las 18:00. La noche trae una fresca brisa marina, así que una chaqueta ligera es esencial."
           },
           "stops": [
             {
@@ -604,7 +655,8 @@
                 "de": "Morgens noch recht kühl im Schatten der Gassen.",
                 "hu": "Reggel még hűvös van a szűk utcák árnyékában.",
                 "ro": "Dimineața este încă răcoare în umbra străduțelor.",
-                "en": "It is still cool in the shadows of the alleys in the morning."
+                "en": "It is still cool in the shadows of the alleys in the morning.",
+                "es": "Todavía hace fresco en las sombras de los callejones por la mañana."
               }
             },
             {
@@ -613,7 +665,8 @@
                 "de": "Angenehm temperierter Innenraum für eine Pause.",
                 "hu": "Kellemes hőmérsékletű belső tér egy rövid pihenőhöz.",
                 "ro": "Interior cu temperatură plăcută pentru o scurtă pauză.",
-                "en": "Pleasantly tempered interior for a short break."
+                "en": "Pleasantly tempered interior for a short break.",
+                "es": "Interior agradablamente templado para una breve pausa."
               }
             },
             {
@@ -622,7 +675,8 @@
                 "de": "Perfektes Licht für Fotos in der Wintersonne.",
                 "hu": "Tökéletes fények a fotózáshoz a téli napsütésben.",
                 "ro": "Lumină perfectă pentru fotografii în soarele de iarnă.",
-                "en": "Perfect light for photos in the winter sun."
+                "en": "Perfect light for photos in the winter sun.",
+                "es": "Luz perfecta para fotos con el sol invernal."
               }
             },
             {
@@ -631,7 +685,8 @@
                 "de": "Bester Platz für den frühen Sonnenuntergang.",
                 "hu": "A legjobb helyszín a korai naplemente megtekintéséhez.",
                 "ro": "Cel mai bun loc pentru a vedea apusul devreme.",
-                "en": "The best spot to watch the early sunset."
+                "en": "The best spot to watch the early sunset.",
+                "es": "El mejor lugar para ver el atardecer temprano."
               }
             },
             {
@@ -640,7 +695,8 @@
                 "de": "Windjacke empfohlen, da es hier oft zieht.",
                 "hu": "Széldzseki ajánlott, mert itt gyakran fúj a szél.",
                 "ro": "Se recomandă o jachetă de vânt, fiind o zonă expusă.",
-                "en": "Windbreaker recommended, as it is often breezy here."
+                "en": "Windbreaker recommended, as it is often breezy here.",
+                "es": "Se recomienda cortavientos, ya que suele haber brisa."
               }
             },
             {
@@ -649,7 +705,8 @@
                 "de": "Spaziergang im Sand ist mittags sehr angenehm.",
                 "hu": "A homokban sétálás délben a legkellemesebb.",
                 "ro": "Plimbarea pe nisip este foarte plăcută la prânz.",
-                "en": "Walking in the sand is most pleasant at noon."
+                "en": "Walking in the sand is most pleasant at noon.",
+                "es": "Caminar por la arena es más agradable al mediodía."
               }
             }
           ],
@@ -681,6 +738,13 @@
               "The trade wind can feel cooler than expected in winter.",
               "Take advantage of the midday hours for outdoor activities.",
               "Plan your return journey before darkness falls."
+            ],
+            "es": [
+              "El sol es fuerte incluso en invierno; no olvides protección UV.",
+              "Tras las 17:00, las temperaturas bajan notablemente.",
+              "El alisio puede sentirse más fresco de lo esperado en invierno.",
+              "Aprovecha las horas del mediodía para actividades al aire libre.",
+              "Planifica tu regreso antes de que caiga la oscuridad."
             ]
           }
         }
@@ -699,7 +763,8 @@
             "de": "Puerto de Morro Jable",
             "hu": "Morro Jable kikötő",
             "ro": "Portul Morro Jable",
-            "en": "Morro Jable Port"
+            "en": "Morro Jable Port",
+            "es": "Puerto de Morro Jable"
           },
           "coords": [
             -14.359,
@@ -714,7 +779,8 @@
             "de": "Beobachten Sie das Treiben der Fähren.",
             "hu": "Figyelje meg a komphajók forgalmát.",
             "ro": "Urmăriți activitatea feriboturilor.",
-            "en": "Watch the busy ferry traffic."
+            "en": "Watch the busy ferry traffic.",
+            "es": "Observa el animado tráfico de ferris."
           }
         },
         {
@@ -722,7 +788,8 @@
             "de": "Centro de Recuperación de Tortugas",
             "hu": "Teknősmentő központ",
             "ro": "Centrul de Recuperare a Țestoaselor",
-            "en": "Turtle Recovery Center"
+            "en": "Turtle Recovery Center",
+            "es": "Centro de Recuperación de Tortugas"
           },
           "coords": [
             -14.3585,
@@ -737,7 +804,8 @@
             "de": "Lernen Sie die Rettung von Meeresschildkröten kennen.",
             "hu": "Ismerje meg a tengeri teknősök mentését.",
             "ro": "Aflați despre salvarea țestoaselor marine.",
-            "en": "Learn about sea turtle conservation."
+            "en": "Learn about sea turtle conservation.",
+            "es": "Aprende sobre la conservación de las tortugas marinas."
           }
         },
         {
@@ -745,7 +813,8 @@
             "de": "Mirador del Saladar",
             "hu": "Saladar kilátó",
             "ro": "Mirador del Saladar",
-            "en": "Saladar Viewpoint"
+            "en": "Saladar Viewpoint",
+            "es": "Mirador del Saladar"
           },
           "coords": [
             -14.335,
@@ -760,7 +829,8 @@
             "de": "Ein schöner Stopp auf dem Radweg.",
             "hu": "Kellemes pihenő a kerékpárúton.",
             "ro": "O oprire plăcută pe pista de biciclete.",
-            "en": "A nice stop along the bike path."
+            "en": "A nice stop along the bike path.",
+            "es": "Una agradable parada a lo largo del carril bici."
           }
         },
         {
@@ -768,7 +838,8 @@
             "de": "Faro de Morro Jable",
             "hu": "Morro Jable-i világítótorony",
             "ro": "Farul Morro Jable",
-            "en": "Morro Jable Lighthouse"
+            "en": "Morro Jable Lighthouse",
+            "es": "Faro de Morro Jable"
           },
           "coords": [
             -14.3262,
@@ -783,7 +854,8 @@
             "de": "Radfahren direkt am Leuchtturm vorbei.",
             "hu": "Kerékpározzon el közvetlenül a torony mellett.",
             "ro": "Mergeți cu bicicleta chiar pe lângă far.",
-            "en": "Cycle right past the lighthouse."
+            "en": "Cycle right past the lighthouse.",
+            "es": "Pasa en bici justo junto al faro."
           }
         },
         {
@@ -791,7 +863,8 @@
             "de": "Playa del Matorral",
             "hu": "Matorral strand",
             "ro": "Playa del Matorral",
-            "en": "Matorral Beach"
+            "en": "Matorral Beach",
+            "es": "Playa del Matorral"
           },
           "coords": [
             -14.33,
@@ -806,7 +879,8 @@
             "de": "Parken Sie Ihr Rad für eine kurze Pause.",
             "hu": "Parkolja le a bringát egy rövid pihenőre.",
             "ro": "Parcați bicicleta pentru o scurtă pauză.",
-            "en": "Park your bike for a quick break."
+            "en": "Park your bike for a quick break.",
+            "es": "Aparca la bici para un descanso rápido."
           }
         }
       ],
@@ -814,7 +888,8 @@
         "de": "Diese Radtour verbindet Technik und Natur. Vom geschäftigen Hafen radeln Sie zum Schildkröten-Zentrum, bevor Sie die flachen Wege entlang der Küste genießen. Die Strecke führt Sie vorbei an den Salzmarschen direkt zum Leuchtturm, immer mit der frischen Meeresbrise im Gesicht.",
         "hu": "Ez a kerékpártúra ötvözi a technikát és a természetet. A nyüzsgő kikötőtől indulva tekerjen a teknősmentő központhoz, majd élvezze a part menti sík utakat. Az útvonal a sós mocsarak mentén vezet közvetlenül a világítótoronyhoz, arcában a friss tengeri szellővel.",
         "ro": "Acest tur cu bicicleta combină tehnologia și natura. De la portul plin de viață, pedalați spre centrul pentru țestoase, apoi bucurați-vă de drumurile plane de-a lungul coastei. Traseul vă poartă pe lângă mlaștinile sărate direct la far, cu briza mării în față.",
-        "en": "This bike tour blends technology and nature. From the busy port, cycle to the turtle center before enjoying the flat coastal paths. The route takes you along the salt marshes directly to the lighthouse, with the fresh sea breeze in your face."
+        "en": "This bike tour blends technology and nature. From the busy port, cycle to the turtle center before enjoying the flat coastal paths. The route takes you along the salt marshes directly to the lighthouse, with the fresh sea breeze in your face.",
+        "es": "Esta ruta en bici combina tecnología y naturaleza. Desde el concurrido puerto, pedalea hasta el centro de tortugas antes de disfrutar de los llanos caminos costeros. La ruta pasa por las salinas directamente hasta el faro, con la fresca brisa marina en la cara."
       },
       "gastro_picks": {
         "de": [
@@ -918,6 +993,11 @@
           "The bike path is mostly flat and well-maintained.",
           "Watch out for pedestrians on the promenade.",
           "Rent an e-bike for longer tours."
+        ],
+        "es": [
+          "El carril bici es mayormente llano y está bien mantenido.",
+          "Cuidado con los peatones en el paseo.",
+          "Alquila una e-bike para recorridos más largos."
         ]
       },
       "variants": {
@@ -926,7 +1006,8 @@
             "de": "Diese Radtour verbindet Technik und Natur. Vom geschäftigen Hafen radeln Sie zum Schildkröten-Zentrum, bevor Sie die flachen Wege entlang der Küste genießen. Die Strecke führt Sie vorbei an den Salzmarschen direkt zum Leuchtturm, immer mit der frischen Meeresbrise im Gesicht.",
             "hu": "Ez a kerékpártúra ötvözi a technikát és a természetet. A nyüzsgő kikötőtől indulva tekerjen a teknősmentő központhoz, majd élvezze a part menti sík utakat. Az útvonal a sós mocsarak mentén vezet közvetlenül a világítótoronyhoz, arcában a friss tengeri szellővel.",
             "ro": "Acest tur cu bicicleta combină tehnologia și natura. De la portul plin de viață, pedalați spre centrul pentru țestoase, apoi bucurați-vă de drumurile plane de-a lungul coastei. Traseul vă poartă pe lângă mlaștinile sărate direct la far, cu briza mării în față.",
-            "en": "This bike tour blends technology and nature. From the busy port, cycle to the turtle center before enjoying the flat coastal paths. The route takes you along the salt marshes directly to the lighthouse, with the fresh sea breeze in your face."
+            "en": "This bike tour blends technology and nature. From the busy port, cycle to the turtle center before enjoying the flat coastal paths. The route takes you along the salt marshes directly to the lighthouse, with the fresh sea breeze in your face.",
+            "es": "Esta ruta en bici combina tecnología y naturaleza. Desde el concurrido puerto, pedalea hasta el centro de tortugas antes de disfrutar de los llanos caminos costeros. La ruta pasa por las salinas directamente hasta el faro, con la fresca brisa marina en la cara."
           },
           "stops": [
             {
@@ -934,13 +1015,15 @@
                 "de": "Puerto de Morro Jable",
                 "hu": "Morro Jable kikötő",
                 "ro": "Portul Morro Jable",
-                "en": "Morro Jable Port"
+                "en": "Morro Jable Port",
+                "es": "Puerto de Morro Jable"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das Treiben der Fähren.",
                 "hu": "Figyelje meg a komphajók forgalmát.",
                 "ro": "Urmăriți activitatea feriboturilor.",
-                "en": "Watch the busy ferry traffic."
+                "en": "Watch the busy ferry traffic.",
+                "es": "Observa el intenso tráfico de ferris."
               }
             },
             {
@@ -948,13 +1031,15 @@
                 "de": "Centro de Recuperación de Tortugas",
                 "hu": "Teknősmentő központ",
                 "ro": "Centrul de Recuperare a Țestoaselor",
-                "en": "Turtle Recovery Center"
+                "en": "Turtle Recovery Center",
+                "es": "Centro de Recuperación de Tortugas"
               },
               "tip_5lang": {
                 "de": "Lernen Sie die Rettung von Meeresschildkröten kennen.",
                 "hu": "Ismerje meg a tengeri teknősök mentését.",
                 "ro": "Aflați despre salvarea țestoaselor marine.",
-                "en": "Learn about sea turtle conservation."
+                "en": "Learn about sea turtle conservation.",
+                "es": "Aprende sobre la conservación de las tortugas marinas."
               }
             },
             {
@@ -962,13 +1047,15 @@
                 "de": "Mirador del Saladar",
                 "hu": "Saladar kilátó",
                 "ro": "Mirador del Saladar",
-                "en": "Saladar Viewpoint"
+                "en": "Saladar Viewpoint",
+                "es": "Mirador del Saladar"
               },
               "tip_5lang": {
                 "de": "Ein schöner Stopp auf dem Radweg.",
                 "hu": "Kellemes pihenő a kerékpárúton.",
                 "ro": "O oprire plăcută pe pista de biciclete.",
-                "en": "A nice stop along the bike path."
+                "en": "A nice stop along the bike path.",
+                "es": "Una agradable parada a lo largo del carril bici."
               }
             },
             {
@@ -976,13 +1063,15 @@
                 "de": "Faro de Morro Jable",
                 "hu": "Morro Jable-i világítótorony",
                 "ro": "Farul Morro Jable",
-                "en": "Morro Jable Lighthouse"
+                "en": "Morro Jable Lighthouse",
+                "es": "Faro de Morro Jable"
               },
               "tip_5lang": {
                 "de": "Radfahren direkt am Leuchtturm vorbei.",
                 "hu": "Kerékpározzon el közvetlenül a torony mellett.",
                 "ro": "Mergeți cu bicicleta chiar pe lângă far.",
-                "en": "Cycle right past the lighthouse."
+                "en": "Cycle right past the lighthouse.",
+                "es": "Pasa en bici justo junto al faro."
               }
             },
             {
@@ -990,13 +1079,15 @@
                 "de": "Playa del Matorral",
                 "hu": "Matorral strand",
                 "ro": "Playa del Matorral",
-                "en": "Matorral Beach"
+                "en": "Matorral Beach",
+                "es": "Playa del Matorral"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad für eine kurze Pause.",
                 "hu": "Parkolja le a bringát egy rövid pihenőre.",
                 "ro": "Parcați bicicleta pentru o scurtă pauză.",
-                "en": "Park your bike for a quick break."
+                "en": "Park your bike for a quick break.",
+                "es": "Aparca la bici para un descanso rápido."
               }
             }
           ],
@@ -1102,6 +1193,11 @@
               "The bike path is mostly flat and well-maintained.",
               "Watch out for pedestrians on the promenade.",
               "Rent an e-bike for longer tours."
+            ],
+            "es": [
+              "El carril bici es mayormente llano y está bien mantenido.",
+              "Cuidado con los peatones en el paseo.",
+              "Alquila una e-bike para recorridos más largos."
             ]
           }
         },
@@ -1110,7 +1206,8 @@
             "de": "Wir starten am Hafen, wo Schuppen Schutz bieten. Den Vormittag verbringen wir im trockenen Schildkröten-Zentrum. Mittags radeln wir vorsichtig zum Saladar-Aussichtspunkt, meiden aber tiefe Pfützen. Nachmittags geht es zügig zum Leuchtturm und dann zurück, bevor der Regen am Strand zunimmt.",
             "hu": "A kikötőben kezdünk, ahol a raktárépületek védenek. A délelőttöt a teknősmentő központ fedett terében töltjük. Délben óvatosan tekerünk a Saladar kilátóhoz, kerülve a mélyebb tócsákat. Délután gyors látogatás a lámpásnál, majd irány vissza, mielőtt az eső intenzívebbé válna a parton.",
             "ro": "Începem în port, unde depozitele oferă protecție. Petrecem dimineața în interiorul centrului de recuperare a țestoaselor. La prânz pedalăm cu atenție spre punctul Saladar, evitând bălțile adânci. După-amiaza vizităm rapid farul, apoi ne întoarcem înainte ca ploaia să se intensifice.",
-            "en": "We start at the port where sheds provide cover. Spend the morning in the dry Turtle Recovery Center. At noon, cycle carefully to the Saladar viewpoint, avoiding deep puddles. In the afternoon, a quick trip to the lighthouse and then back before the rain intensifies on the beach."
+            "en": "We start at the port where sheds provide cover. Spend the morning in the dry Turtle Recovery Center. At noon, cycle carefully to the Saladar viewpoint, avoiding deep puddles. In the afternoon, a quick trip to the lighthouse and then back before the rain intensifies on the beach.",
+            "es": "Comenzamos en el puerto donde los cobertizos ofrecen refugio. Pasa la mañana en seco en el Centro de Recuperación de Tortugas. Al mediodía, pedalea con cuidado hasta el mirador del Saladar, evitando charcos profundos. Por la tarde, una visita rápida al faro y luego de vuelta antes de que la lluvia se intensifique en la playa."
           },
           "stops": [
             {
@@ -1119,7 +1216,8 @@
                 "de": "Viele überdachte Bereiche für die Vorbereitung.",
                 "hu": "Sok fedett terület áll rendelkezésre a készülődéshez.",
                 "ro": "Multe zone acoperite disponibile pentru pregătire.",
-                "en": "Many covered areas available for preparation."
+                "en": "Many covered areas available for preparation.",
+                "es": "Numerosas zonas cubiertas disponibles para prepararse."
               }
             },
             {
@@ -1128,7 +1226,8 @@
                 "de": "Perfektes Indoor-Ziel bei schlechtem Wetter.",
                 "hu": "Tökéletes fedett célpont rossz idő esetén.",
                 "ro": "Destinație interioară perfectă în caz de vreme rea.",
-                "en": "Perfect indoor destination for bad weather."
+                "en": "Perfect indoor destination for bad weather.",
+                "es": "Destino perfecto en interiores para mal tiempo."
               }
             },
             {
@@ -1137,7 +1236,8 @@
                 "de": "Achtung: Der Radweg kann bei Regen rutschig sein.",
                 "hu": "Figyelem: A kerékpárút esőben csúszós lehet.",
                 "ro": "Atenție: Pista de biciclete poate fi alunecoasă pe ploaie.",
-                "en": "Attention: The bike path can be slippery in the rain."
+                "en": "Attention: The bike path can be slippery in the rain.",
+                "es": "Atención: el carril bici puede estar resbaladizo con lluvia."
               }
             },
             {
@@ -1146,7 +1246,8 @@
                 "de": "Kurzer Stopp, da es hier sehr windig und nass ist.",
                 "hu": "Rövid megálló, mivel itt nagyon szeles és vizes az idő.",
                 "ro": "Oprire scurtă, fiind o zonă foarte vântoasă și umedă.",
-                "en": "Short stop, as it is very windy and wet here."
+                "en": "Short stop, as it is very windy and wet here.",
+                "es": "Parada corta, aquí hace mucho viento y está húmedo."
               }
             },
             {
@@ -1155,7 +1256,8 @@
                 "de": "Fahren Sie nur auf befestigten Wegen am Strand.",
                 "hu": "Csak a kiépített utakon közlekedjen a strand mentén.",
                 "ro": "Circulați doar pe căile amenajate de-a lungul plajei.",
-                "en": "Only ride on established paths along the beach."
+                "en": "Only ride on established paths along the beach.",
+                "es": "Circula solo por los caminos establecidos junto a la playa."
               }
             }
           ],
@@ -1187,6 +1289,13 @@
               "Wear bright rain gear for better visibility.",
               "Check the condition of your brakes before starting.",
               "Use bike paths further away from the sea spray."
+            ],
+            "es": [
+              "Los guardabarros son accesorios esenciales con lluvia.",
+              "Evita frenar de forma brusca sobre el asfalto mojado.",
+              "Lleva ropa de lluvia de colores llamativos para mejor visibilidad.",
+              "Revisa el estado de los frenos antes de empezar.",
+              "Usa carriles bici más alejados del salpicado del mar."
             ]
           }
         },
@@ -1195,7 +1304,8 @@
             "de": "Morgens radeln wir bei frischer Brise am Hafen entlang. Vormittags besuchen wir das Schildkröten-Zentrum bei angenehmen Temperaturen. Mittags genießen wir die Sonne auf dem Radweg am Saladar. Den Nachmittag verbringen wir am Leuchtturm, bevor wir zum Sonnenuntergang den Strand erreichen. Abends wird es auf dem Rad merklich kühler.",
             "hu": "Reggel friss szellőben tekerünk a kikötő mentén. Délelőtt kellemes időben látogatjuk meg a teknősmentő központot. Délben a napsütést élvezzük a Saladar melletti kerékpárúton. A délutánt a lámpásnál töltjük, majd naplementére a partra érünk. Estére a kerékpáron ülve jelentősen lehűl a levegő.",
             "ro": "Dimineața pedalăm în briză proaspătă pe lângă port. Vizităm centrul de țestoase la o temperatură plăcută. La prânz ne bucurăm de soare pe pista de lângă Saladar. Petrecem după-amiaza la far, ajungând pe plajă la apus. Seara se răcește considerabil în timp ce pedalăm.",
-            "en": "In the morning, cycle in the fresh breeze along the port. Visit the turtle center in pleasant temperatures. At noon, enjoy the sun on the bike path by Saladar. Spend the afternoon at the lighthouse, reaching the beach for sunset. In the evening, it gets significantly cooler while cycling."
+            "en": "In the morning, cycle in the fresh breeze along the port. Visit the turtle center in pleasant temperatures. At noon, enjoy the sun on the bike path by Saladar. Spend the afternoon at the lighthouse, reaching the beach for sunset. In the evening, it gets significantly cooler while cycling.",
+            "es": "Por la mañana, pedalea con la brisa fresca a lo largo del puerto. Visita el centro de tortugas con temperaturas agradables. Al mediodía, disfruta del sol en el carril bici junto al Saladar. Pasa la tarde en el faro y llega a la playa para el atardecer. Por la noche, hace bastante más fresco al pedalear."
           },
           "stops": [
             {
@@ -1204,7 +1314,8 @@
                 "de": "Frische Seeluft, ideal für einen aktiven Start.",
                 "hu": "Friss tengeri levegő, ideális az aktív kezdéshez.",
                 "ro": "Aer marin proaspăt, ideal pentru un start activ.",
-                "en": "Fresh sea air, ideal for an active start."
+                "en": "Fresh sea air, ideal for an active start.",
+                "es": "Aire marino fresco, ideal para empezar activos."
               }
             },
             {
@@ -1213,7 +1324,8 @@
                 "de": "Kein Hitzestau in der Anlage während des Winters.",
                 "hu": "Télen nincs hőség a központ területén.",
                 "ro": "Nu se acumulează căldură în centru în timpul iernii.",
-                "en": "No heat build-up in the facility during winter."
+                "en": "No heat build-up in the facility during winter.",
+                "es": "No hay acumulación de calor en las instalaciones durante el invierno."
               }
             },
             {
@@ -1222,7 +1334,8 @@
                 "de": "Angenehme Wärme für eine Pause in der Sonne.",
                 "hu": "Kellemes meleg egy napsütötte pihenőhöz.",
                 "ro": "Căldură plăcută pentru o pauză la soare.",
-                "en": "Pleasant warmth for a break in the sun."
+                "en": "Pleasant warmth for a break in the sun.",
+                "es": "Calidez agradable para descansar al sol."
               }
             },
             {
@@ -1231,7 +1344,8 @@
                 "de": "Licht für die Rückfahrt nach 18 Uhr einplanen.",
                 "hu": "18 óra utáni visszautazáshoz lámpa szükséges.",
                 "ro": "Lumină necesară pentru întoarcerea după ora 18:00.",
-                "en": "Lights needed for the return trip after 6 PM."
+                "en": "Lights needed for the return trip after 6 PM.",
+                "es": "Se necesitan luces para el retorno después de las 18:00."
               }
             },
             {
@@ -1240,7 +1354,8 @@
                 "de": "Perfekte Zeit für eine entspannte Fahrt im Sand.",
                 "hu": "Tökéletes idő egy nyugodt tekeréshez a parton.",
                 "ro": "Moment perfect pentru o plimbare relaxată pe plajă.",
-                "en": "Perfect time for a relaxed ride along the beach."
+                "en": "Perfect time for a relaxed ride along the beach.",
+                "es": "Momento perfecto para un paseo relajado por la playa."
               }
             }
           ],
@@ -1272,6 +1387,13 @@
               "UV radiation is often underestimated while cycling.",
               "Stay on paved paths, as sand stays cool.",
               "A neck warmer prevents chilling from the sea wind."
+            ],
+            "es": [
+              "Un maillot de manga larga protege del viento fresco.",
+              "Revisa las luces para la entrada de la tarde.",
+              "La radiación UV suele subestimarse al pedalear.",
+              "Mantente en caminos pavimentados, la arena permanece fresca.",
+              "Un braga de cuello evita el enfriamiento por el viento marino."
             ]
           }
         }
@@ -1290,7 +1412,8 @@
             "de": "Centro de Recuperación de Tortugas",
             "hu": "Teknősmentő központ",
             "ro": "Centrul de Recuperare a Țestoaselor",
-            "en": "Turtle Recovery Center"
+            "en": "Turtle Recovery Center",
+            "es": "Centro de Recuperación de Tortugas"
           },
           "coords": [
             -14.3585,
@@ -1305,7 +1428,8 @@
             "de": "Parkplatz direkt am Hafen vorhanden.",
             "hu": "Parkoló közvetlenül a kikötőnél.",
             "ro": "Parcare disponibilă chiar în port.",
-            "en": "Parking available right at the port."
+            "en": "Parking available right at the port.",
+            "es": "Aparcamiento disponible justo en el puerto."
           }
         },
         {
@@ -1313,7 +1437,8 @@
             "de": "Puerto de Morro Jable",
             "hu": "Morro Jable kikötő",
             "ro": "Portul Morro Jable",
-            "en": "Morro Jable Port"
+            "en": "Morro Jable Port",
+            "es": "Puerto de Morro Jable"
           },
           "coords": [
             -14.359,
@@ -1328,7 +1453,8 @@
             "de": "Ideal für Fotos der Fähren.",
             "hu": "Ideális hely a komphajók fotózásához.",
             "ro": "Ideal pentru fotografii cu feriboturile.",
-            "en": "Ideal for photos of the ferries."
+            "en": "Ideal for photos of the ferries.",
+            "es": "Ideal para fotos de los ferris."
           }
         },
         {
@@ -1336,7 +1462,8 @@
             "de": "Playa de Cofete (Exkursion)",
             "hu": "Cofete strand (kirándulás)",
             "ro": "Playa de Cofete (Excursie)",
-            "en": "Cofete Beach (Excursion)"
+            "en": "Cofete Beach (Excursion)",
+            "es": "Playa de Cofete (Excursión)"
           },
           "coords": [
             -14.375,
@@ -1351,7 +1478,8 @@
             "de": "Wilder Strand, nur per Geländewagen oder vorsichtig erreichbar.",
             "hu": "Vadpart, csak terepjáróval vagy óvatosan érhető el.",
             "ro": "Plajă sălbatică, accesibilă doar cu 4x4 sau cu atenție.",
-            "en": "Wild beach, accessible via 4x4 or careful driving."
+            "en": "Wild beach, accessible via 4x4 or careful driving.",
+            "es": "Playa salvaje, accesible con 4x4 o conducción cuidadosa."
           }
         },
         {
@@ -1359,7 +1487,8 @@
             "de": "Faro de Morro Jable",
             "hu": "Morro Jable-i világítótorony",
             "ro": "Farul Morro Jable",
-            "en": "Morro Jable Lighthouse"
+            "en": "Morro Jable Lighthouse",
+            "es": "Faro de Morro Jable"
           },
           "coords": [
             -14.3262,
@@ -1374,7 +1503,8 @@
             "de": "Parken an der Hauptstraße möglich.",
             "hu": "Parkolás a főútnál lehetséges.",
             "ro": "Parcare posibilă lângă drumul principal.",
-            "en": "Parking possible near the main road."
+            "en": "Parking possible near the main road.",
+            "es": "Aparcamiento posible cerca de la carretera principal."
           }
         },
         {
@@ -1382,7 +1512,8 @@
             "de": "Skeleton of Sperm Whale",
             "hu": "Nagy ámbráscet csontváz",
             "ro": "Schelet de Balenă",
-            "en": "Sperm Whale Skeleton"
+            "en": "Sperm Whale Skeleton",
+            "es": "Esqueleto de cachalote"
           },
           "coords": [
             -14.3275,
@@ -1397,7 +1528,8 @@
             "de": "Kurzer Stopp am Straßenrand.",
             "hu": "Gyors megálló az út mellett.",
             "ro": "Oprire rapidă lângă drum.",
-            "en": "Quick stop by the roadside."
+            "en": "Quick stop by the roadside.",
+            "es": "Parada rápida junto a la carretera."
           }
         }
       ],
@@ -1405,7 +1537,8 @@
         "de": "Mit dem Auto entdecken Sie sowohl die moderne Seite als auch die wilde Wildnis. Nach dem Hafen führt Sie die abenteuerliche Fahrt nach Cofete, einem der abgelegensten Strände Europas. Zurück in der Zivilisation beschließen Sie den Tag am markanten Leuchtturm und dem Walskelett direkt an der Hauptpromenade.",
         "hu": "Autóval felfedezheti a modern oldalt és a vadont is. A kikötő után kalandos út vezet Cofetébe, Európa egyik legtávolabbi strandjára. Visszatérve a civilizációba, a napot a jellegzetes világítótoronynál és a fő sétányon található bálnacsontváznál zárhatja.",
         "ro": "Cu mașina veți descoperi atât latura modernă, cât și sălbăticia. După port, drumul aventuros vă duce la Cofete, una dintre cele mai izolate plaje din Europa. Revenind în civilizație, încheiați ziua la farul emblematic și la scheletul de balenă de pe promenada principală.",
-        "en": "By car, you will discover both the modern side and the wild wilderness. After the port, an adventurous drive takes you to Cofete, one of Europe's most remote beaches. Returning to civilization, finish the day at the iconic lighthouse and the whale skeleton right on the main promenade."
+        "en": "By car, you will discover both the modern side and the wild wilderness. After the port, an adventurous drive takes you to Cofete, one of Europe's most remote beaches. Returning to civilization, finish the day at the iconic lighthouse and the whale skeleton right on the main promenade.",
+        "es": "En coche descubrirás tanto el lado moderno como la naturaleza salvaje. Tras el puerto, un viaje aventurero te lleva a Cofete, una de las playas más remotas de Europa. Volviendo a la civilización, termina el día en el faro icónico y el esqueleto de ballena en el paseo principal."
       },
       "gastro_picks": {
         "de": [
@@ -1509,6 +1642,11 @@
           "A 4x4 is recommended for Cofete.",
           "Refuel before leaving the city.",
           "Finding parking at the beach can be difficult at noon."
+        ],
+        "es": [
+          "Se recomienda 4x4 para Cofete.",
+          "Repostar antes de salir de la ciudad.",
+          "Encontrar aparcamiento en la playa puede ser difícil al mediodía."
         ]
       },
       "variants": {
@@ -1517,7 +1655,8 @@
             "de": "Mit dem Auto entdecken Sie sowohl die moderne Seite als auch die wilde Wildnis. Nach dem Hafen führt Sie die abenteuerliche Fahrt nach Cofete, einem der abgelegensten Strände Europas. Zurück in der Zivilisation beschließen Sie den Tag am markanten Leuchtturm und dem Walskelett direkt an der Hauptpromenade.",
             "hu": "Autóval felfedezheti a modern oldalt és a vadont is. A kikötő után kalandos út vezet Cofetébe, Európa egyik legtávolabbi strandjára. Visszatérve a civilizációba, a napot a jellegzetes világítótoronynál és a fő sétányon található bálnacsontváznál zárhatja.",
             "ro": "Cu mașina veți descoperi atât latura modernă, cât și sălbăticia. După port, drumul aventuros vă duce la Cofete, una dintre cele mai izolate plaje din Europa. Revenind în civilizație, încheiați ziua la farul emblematic și la scheletul de balenă de pe promenada principală.",
-            "en": "By car, you will discover both the modern side and the wild wilderness. After the port, an adventurous drive takes you to Cofete, one of Europe's most remote beaches. Returning to civilization, finish the day at the iconic lighthouse and the whale skeleton right on the main promenade."
+            "en": "By car, you will discover both the modern side and the wild wilderness. After the port, an adventurous drive takes you to Cofete, one of Europe's most remote beaches. Returning to civilization, finish the day at the iconic lighthouse and the whale skeleton right on the main promenade.",
+            "es": "En coche descubrirás tanto el lado moderno como la naturaleza salvaje. Tras el puerto, un viaje aventurero te lleva a Cofete, una de las playas más remotas de Europa. Volviendo a la civilización, termina el día en el faro icónico y el esqueleto de ballena en el paseo principal."
           },
           "stops": [
             {
@@ -1525,13 +1664,15 @@
                 "de": "Centro de Recuperación de Tortugas",
                 "hu": "Teknősmentő központ",
                 "ro": "Centrul de Recuperare a Țestoaselor",
-                "en": "Turtle Recovery Center"
+                "en": "Turtle Recovery Center",
+                "es": "Centro de Recuperación de Tortugas"
               },
               "tip_5lang": {
                 "de": "Parkplatz direkt am Hafen vorhanden.",
                 "hu": "Parkoló közvetlenül a kikötőnél.",
                 "ro": "Parcare disponibilă chiar în port.",
-                "en": "Parking available right at the port."
+                "en": "Parking available right at the port.",
+                "es": "Aparcamiento disponible justo en el puerto."
               }
             },
             {
@@ -1539,13 +1680,15 @@
                 "de": "Puerto de Morro Jable",
                 "hu": "Morro Jable kikötő",
                 "ro": "Portul Morro Jable",
-                "en": "Morro Jable Port"
+                "en": "Morro Jable Port",
+                "es": "Puerto de Morro Jable"
               },
               "tip_5lang": {
                 "de": "Ideal für Fotos der Fähren.",
                 "hu": "Ideális hely a komphajók fotózásához.",
                 "ro": "Ideal pentru fotografii cu feriboturile.",
-                "en": "Ideal for photos of the ferries."
+                "en": "Ideal for photos of the ferries.",
+                "es": "Ideal para fotos de los ferris."
               }
             },
             {
@@ -1553,13 +1696,15 @@
                 "de": "Playa de Cofete (Exkursion)",
                 "hu": "Cofete strand (kirándulás)",
                 "ro": "Playa de Cofete (Excursie)",
-                "en": "Cofete Beach (Excursion)"
+                "en": "Cofete Beach (Excursion)",
+                "es": "Playa de Cofete (Excursión)"
               },
               "tip_5lang": {
                 "de": "Wilder Strand, nur per Geländewagen oder vorsichtig erreichbar.",
                 "hu": "Vadpart, csak terepjáróval vagy óvatosan érhető el.",
                 "ro": "Plajă sălbatică, accesibilă doar cu 4x4 sau cu atenție.",
-                "en": "Wild beach, accessible via 4x4 or careful driving."
+                "en": "Wild beach, accessible via 4x4 or careful driving.",
+                "es": "Playa salvaje, accesible con 4x4 o conducción cuidadosa."
               }
             },
             {
@@ -1567,13 +1712,15 @@
                 "de": "Faro de Morro Jable",
                 "hu": "Morro Jable-i világítótorony",
                 "ro": "Farul Morro Jable",
-                "en": "Morro Jable Lighthouse"
+                "en": "Morro Jable Lighthouse",
+                "es": "Faro de Morro Jable"
               },
               "tip_5lang": {
                 "de": "Parken an der Hauptstraße möglich.",
                 "hu": "Parkolás a főútnál lehetséges.",
                 "ro": "Parcare posibilă lângă drumul principal.",
-                "en": "Parking possible near the main road."
+                "en": "Parking possible near the main road.",
+                "es": "Aparcamiento posible cerca de la carretera principal."
               }
             },
             {
@@ -1581,13 +1728,15 @@
                 "de": "Skeleton of Sperm Whale",
                 "hu": "Nagy ámbráscet csontváz",
                 "ro": "Schelet de Balenă",
-                "en": "Sperm Whale Skeleton"
+                "en": "Sperm Whale Skeleton",
+                "es": "Esqueleto de cachalote"
               },
               "tip_5lang": {
                 "de": "Kurzer Stopp am Straßenrand.",
                 "hu": "Gyors megálló az út mellett.",
                 "ro": "Oprire rapidă lângă drum.",
-                "en": "Quick stop by the roadside."
+                "en": "Quick stop by the roadside.",
+                "es": "Parada rápida junto a la carretera."
               }
             }
           ],
@@ -1693,6 +1842,11 @@
               "A 4x4 is recommended for Cofete.",
               "Refuel before leaving the city.",
               "Finding parking at the beach can be difficult at noon."
+            ],
+            "es": [
+              "Se recomienda 4x4 para Cofete.",
+              "Repostar antes de salir de la ciudad.",
+              "Encontrar aparcamiento en la playa puede ser difícil al mediodía."
             ]
           }
         },
@@ -1701,7 +1855,8 @@
             "de": "Morgens besuchen wir das Schildkröten-Zentrum, während es regnet. Den Mittag verbringen wir im Hafenbereich. Nachmittags ist bei der Fahrt nach Cofete äußerste Vorsicht geboten; bei starkem Regen sollte die Schotterpiste gemieden werden. Später besichtigen wir den Leuchtturm und das Walskelett im Schutz des Wagens.",
             "hu": "Reggel a teknősmentő központot látogatjuk meg, amíg esik. A déli órát a kikötő környékén töltjük. Délután a Cofete felé vezető úton rendkívüli óvatosság szükséges; heves esőben a földút veszélyes lehet. Később a lámpást és a csontvázat nézzük meg, a kocsi nyújtotta biztonságból.",
             "ro": "Dimineața vizităm centrul de țestoase în timp ce plouă. Prânzul îl petrecem în zona portului. După-amiaza, pe drumul spre Cofete, este necesară prudență maximă; pe ploaie torențială, drumul de pământ poate fi periculos. Mai târziu vedem farul și scheletul din confortul mașinii.",
-            "en": "In the morning, visit the turtle center while it rains. Spend noon around the port area. In the afternoon, extreme caution is needed on the road to Cofete; in heavy rain, the dirt track should be avoided. Later, see the lighthouse and the skeleton from the safety of the car."
+            "en": "In the morning, visit the turtle center while it rains. Spend noon around the port area. In the afternoon, extreme caution is needed on the road to Cofete; in heavy rain, the dirt track should be avoided. Later, see the lighthouse and the skeleton from the safety of the car.",
+            "es": "Por la mañana visita el centro de tortugas mientras llueve. Pasa el mediodía por la zona del puerto. Por la tarde, se necesita extrema precaución en la pista hacia Cofete; con lluvia intensa, la pista de tierra debe evitarse. Más tarde, ve el faro y el esqueleto desde la seguridad del coche."
           },
           "stops": [
             {
@@ -1710,7 +1865,8 @@
                 "de": "Parkplatz direkt am Eingang nutzen.",
                 "hu": "Használja a közvetlenül a bejáratnál lévő parkolót.",
                 "ro": "Folosiți parcarea direct de la intrare.",
-                "en": "Use the parking lot directly at the entrance."
+                "en": "Use the parking lot directly at the entrance.",
+                "es": "Usa el aparcamiento directamente en la entrada."
               }
             },
             {
@@ -1719,7 +1875,8 @@
                 "de": "Gute Wendemöglichkeiten bei Regen.",
                 "hu": "Jó megfordulási lehetőségek esős időben is.",
                 "ro": "Posibilități bune de întoarcere pe ploaie.",
-                "en": "Good turning possibilities even in the rain."
+                "en": "Good turning possibilities even in the rain.",
+                "es": "Buenas posibilidades de maniobra incluso con lluvia."
               }
             },
             {
@@ -1728,7 +1885,8 @@
                 "de": "Gefahr! Piste kann bei Nässe unpassierbar sein.",
                 "hu": "Veszély! A földút esőben járhatatlanná válhat.",
                 "ro": "Pericol! Drumul poate fi impracticabil pe ploaie.",
-                "en": "Danger! The track can be impassable when wet."
+                "en": "Danger! The track can be impassable when wet.",
+                "es": "¡Peligro! La pista puede ser intransitable cuando está mojada."
               }
             },
             {
@@ -1737,7 +1895,8 @@
                 "de": "Vom Auto aus hat man eine tolle Aussicht.",
                 "hu": "Az autóból is remek kilátás nyílik.",
                 "ro": "Din mașină aveți o priveliște excelentă.",
-                "en": "You have a great view from the car."
+                "en": "You have a great view from the car.",
+                "es": "Tienes una gran vista desde el coche."
               }
             },
             {
@@ -1746,7 +1905,8 @@
                 "de": "Kurzer Ausstieg für ein schnelles Foto möglich.",
                 "hu": "Rövid kiszállás egy gyors fotó erejéig lehetséges.",
                 "ro": "Posibilă o scurtă coborâre pentru o poză rapidă.",
-                "en": "A brief exit for a quick photo is possible."
+                "en": "A brief exit for a quick photo is possible.",
+                "es": "Es posible una breve bajada para una foto rápida."
               }
             }
           ],
@@ -1778,6 +1938,13 @@
               "Use the air conditioning to defog the windows.",
               "The port parking lots are usually paved and clean.",
               "Drive defensively on narrow mountain roads."
+            ],
+            "es": [
+              "Evita la carretera a Cofete durante lluvia intensa.",
+              "Cuidado con desprendimientos de roca en las carreteras costeras.",
+              "Usa el aire acondicionado para desempañar las ventanas.",
+              "Los aparcamientos del puerto suelen estar pavimentados y limpios.",
+              "Conduzca a la defensiva en las carreteras montañosas estrechas."
             ]
           }
         },
@@ -1786,7 +1953,8 @@
             "de": "Morgens erkunden wir das Schildkröten-Zentrum bei mildem Licht. Vormittags besichtigen wir den Hafen. Der Mittag ist perfekt für die längere Fahrt nach Cofete, wo die Wintersonne die Klippen beleuchtet. Nachmittags kehren wir zum Leuchtturm zurück, um den Sonnenuntergang bequem vom Wagen oder dem Parkplatz aus zu sehen.",
             "hu": "Reggel lágy fényeknél fedezzük fel a teknősmentő központot. Délelőtt a kikötőt járjuk be. A délidő tökéletes a hosszabb Cofete kiránduláshoz, ahol a téli nap megvilágítja a sziklákat. Délután visszatérünk a lámpáshoz, hogy a naplementét kényelmesen, a kocsiból vagy a parkolóból nézzük meg.",
             "ro": "Dimineața explorăm centrul de țestoase în lumină blândă. Vizităm portul înainte de prânz. Amiaza este perfectă pentru drumul spre Cofete, unde soarele de iarnă luminează stâncile. După-amiaza ne întoarcem la far pentru a vedea apusul confortabil din mașină.",
-            "en": "In the morning, explore the turtle center in mild light. Visit the port before noon. Midday is perfect for the longer drive to Cofete, where the winter sun illuminates the cliffs. In the afternoon, return to the lighthouse to watch the sunset comfortably from the car."
+            "en": "In the morning, explore the turtle center in mild light. Visit the port before noon. Midday is perfect for the longer drive to Cofete, where the winter sun illuminates the cliffs. In the afternoon, return to the lighthouse to watch the sunset comfortably from the car.",
+            "es": "Por la mañana, explore el centro de tortugas con luz suave. Visite el puerto antes del mediodía. Al mediodía es perfecto para el viaje más largo a Cofete, donde el sol invernal ilumina los acantilados. Por la tarde, regrese al faro para ver la puesta de sol cómodamente desde el coche."
           },
           "stops": [
             {
@@ -1795,7 +1963,8 @@
                 "de": "Angenehme Temperaturen für die Besichtigung.",
                 "hu": "Kellemes hőmérséklet a látogatáshoz.",
                 "ro": "Temperaturi plăcute pentru vizitare.",
-                "en": "Pleasant temperatures for visiting."
+                "en": "Pleasant temperatures for visiting.",
+                "es": "Temperaturas agradables para visitar."
               }
             },
             {
@@ -1804,7 +1973,8 @@
                 "de": "Gute Zeit, um frischen Fisch am Hafen zu kaufen.",
                 "hu": "Jó időpont friss hal vásárlására a kikötőben.",
                 "ro": "Moment bun pentru a cumpăra pește proaspăt din port.",
-                "en": "Good time to buy fresh fish at the port."
+                "en": "Good time to buy fresh fish at the port.",
+                "es": "Buen momento para comprar pescado fresco en el puerto."
               }
             },
             {
@@ -1813,7 +1983,8 @@
                 "de": "Frühe Rückfahrt planen, um Tageslicht zu nutzen.",
                 "hu": "Tervezzen korai visszautat, hogy maradjon nappali fény.",
                 "ro": "Planificați întoarcerea devreme pentru lumină naturală.",
-                "en": "Plan an early return to utilize daylight."
+                "en": "Plan an early return to utilize daylight.",
+                "es": "Planifique un regreso temprano para aprovechar la luz del día."
               }
             },
             {
@@ -1822,7 +1993,8 @@
                 "de": "Beliebter Stopp für den Winter-Sonnenuntergang.",
                 "hu": "Népszerű megálló a téli naplemente idején.",
                 "ro": "Oprire populară pentru apusul de iarnă.",
-                "en": "Popular stop for the winter sunset."
+                "en": "Popular stop for the winter sunset.",
+                "es": "Parada popular para la puesta de sol de invierno."
               }
             },
             {
@@ -1831,7 +2003,8 @@
                 "de": "Leicht zu finden bei klarem Winterhimmel.",
                 "hu": "Könnyen megtalálható a tiszta téli égbolt alatt.",
                 "ro": "Ușor de găsit sub cerul senin de iarnă.",
-                "en": "Easy to find under the clear winter sky."
+                "en": "Easy to find under the clear winter sky.",
+                "es": "Fácil de encontrar bajo el claro cielo invernal."
               }
             }
           ],
@@ -1863,6 +2036,13 @@
               "Sunglasses are important because of the low sun.",
               "Parking is usually more relaxed in winter.",
               "Take a jacket with you if you plan to get out."
+            ],
+            "es": [
+              "Las carreteras de montaña a la sombra pueden estar frescas en invierno.",
+              "Consulte el horario del bus a Cofete con antelación.",
+              "Las gafas de sol son importantes por el sol bajo.",
+              "Aparcar suele ser más relajado en invierno.",
+              "Lleve una chaqueta si piensa bajar del coche."
             ]
           }
         }
@@ -1881,7 +2061,8 @@
             "de": "Puerto de Morro Jable",
             "hu": "Morro Jable kikötő",
             "ro": "Portul Morro Jable",
-            "en": "Morro Jable Port"
+            "en": "Morro Jable Port",
+            "es": "Puerto de Morro Jable"
           },
           "coords": [
             -14.359,
@@ -1896,7 +2077,8 @@
             "de": "Endstation vieler Buslinien.",
             "hu": "Számos buszjárat végállomása.",
             "ro": "Capătul multor linii de autobuz.",
-            "en": "Terminal for many bus lines."
+            "en": "Terminal for many bus lines.",
+            "es": "Terminal de muchas líneas de autobús."
           }
         },
         {
@@ -1904,7 +2086,8 @@
             "de": "Centro de Recuperación de Tortugas",
             "hu": "Teknősmentő központ",
             "ro": "Centrul de Recuperare a Țestoaselor",
-            "en": "Turtle Recovery Center"
+            "en": "Turtle Recovery Center",
+            "es": "Centro de Recuperación de Tortugas"
           },
           "coords": [
             -14.3585,
@@ -1919,7 +2102,8 @@
             "de": "Nur ein kurzer Fußweg vom Hafen.",
             "hu": "Csak egy rövid séta a kikötőtől.",
             "ro": "Doar o scurtă plimbare de la port.",
-            "en": "Just a short walk from the port."
+            "en": "Just a short walk from the port.",
+            "es": "A solo un corto paseo del puerto."
           }
         },
         {
@@ -1927,7 +2111,8 @@
             "de": "Iglesia de Nuestra Señora del Carmen",
             "hu": "Kármel-hegyi Boldogasszony templom",
             "ro": "Iglesia de Nuestra Señora del Carmen",
-            "en": "Church of Our Lady of Carmen"
+            "en": "Church of Our Lady of Carmen",
+            "es": "Iglesia de Nuestra Señora del Carmen"
           },
           "coords": [
             -14.353,
@@ -1942,7 +2127,8 @@
             "de": "Bushaltestelle in der Nähe der Altstadt.",
             "hu": "Buszmegálló az óváros közelében.",
             "ro": "Stație de autobuz lângă orașul vechi.",
-            "en": "Bus stop near the old town."
+            "en": "Bus stop near the old town.",
+            "es": "Parada de autobús cerca del casco antiguo."
           }
         },
         {
@@ -1950,7 +2136,8 @@
             "de": "Faro de Morro Jable",
             "hu": "Morro Jable-i világítótorony",
             "ro": "Farul Morro Jable",
-            "en": "Morro Jable Lighthouse"
+            "en": "Morro Jable Lighthouse",
+            "es": "Faro de Morro Jable"
           },
           "coords": [
             -14.3262,
@@ -1965,7 +2152,8 @@
             "de": "Steigen Sie an der Avenida del Saladar aus.",
             "hu": "Szálljon le az Avenida del Saladar-nál.",
             "ro": "Coborâți la Avenida del Saladar.",
-            "en": "Get off at Avenida del Saladar."
+            "en": "Get off at Avenida del Saladar.",
+            "es": "Bájese en Avenida del Saladar."
           }
         },
         {
@@ -1973,7 +2161,8 @@
             "de": "Playa del Matorral",
             "hu": "Matorral strand",
             "ro": "Playa del Matorral",
-            "en": "Matorral Beach"
+            "en": "Matorral Beach",
+            "es": "Playa del Matorral"
           },
           "coords": [
             -14.33,
@@ -1988,7 +2177,8 @@
             "de": "Bequemer Zugang zum Strand vom Bus aus.",
             "hu": "Kényelmes hozzáférés a strandhoz a busztól.",
             "ro": "Acces convenabil la plajă de la autobuz.",
-            "en": "Convenient beach access from the bus."
+            "en": "Convenient beach access from the bus.",
+            "es": "Acceso cómodo a la playa desde el autobús."
           }
         }
       ],
@@ -1996,7 +2186,8 @@
         "de": "Nutzen Sie den lokalen Bus, um bequem zwischen Hafen, Altstadt und dem Strandviertel zu pendeln. Diese Tour zeigt Ihnen die wichtigsten Punkte von Morro Jable ohne Parkplatzsorgen, vom kulturellen Erbe im alten Zentrum bis zum modernen Strandleben am Leuchtturm.",
         "hu": "Használja a helyi buszokat, hogy kényelmesen közlekedjen a kikötő, az óváros és a strand között. Ez a túra Morro Jable legfontosabb pontjait mutatja be parkolási gondok nélkül, az óvárosi kulturális örökségtől a világítótoronynál zajló modern tengerparti életig.",
         "ro": "Folosiți autobuzul local pentru a circula confortabil între port, orașul vechi și zona plajei. Acest tur vă arată punctele cheie din Morro Jable fără grija parcării, de la moștenirea culturală din centru până la viața modernă de lângă far.",
-        "en": "Use the local bus to commute comfortably between the port, the old town, and the beach district. This tour shows you the key points of Morro Jable without parking worries, from the cultural heritage in the old center to the modern beach life by the lighthouse."
+        "en": "Use the local bus to commute comfortably between the port, the old town, and the beach district. This tour shows you the key points of Morro Jable without parking worries, from the cultural heritage in the old center to the modern beach life by the lighthouse.",
+        "es": "Use el autobús local para desplazarse cómodamente entre el puerto, el casco antiguo y el distrito de playas. Este recorrido le muestra los puntos clave de Morro Jable sin preocuparse por aparcar, desde el patrimonio cultural del centro hasta la vida moderna de playa junto al faro."
       },
       "gastro_picks": {
         "de": [
@@ -2100,6 +2291,11 @@
           "Buy a ticket from the driver.",
           "Line 1 connects the main towns.",
           "Buses run regularly during the day."
+        ],
+        "es": [
+          "Compre el billete al conductor.",
+          "La línea 1 conecta las localidades principales.",
+          "Los autobuses circulan con regularidad durante el día."
         ]
       },
       "variants": {
@@ -2108,7 +2304,8 @@
             "de": "Nutzen Sie den lokalen Bus, um bequem zwischen Hafen, Altstadt und dem Strandviertel zu pendeln. Diese Tour zeigt Ihnen die wichtigsten Punkte von Morro Jable ohne Parkplatzsorgen, vom kulturellen Erbe im alten Zentrum bis zum modernen Strandleben am Leuchtturm.",
             "hu": "Használja a helyi buszokat, hogy kényelmesen közlekedjen a kikötő, az óváros és a strand között. Ez a túra Morro Jable legfontosabb pontjait mutatja be parkolási gondok nélkül, az óvárosi kulturális örökségtől a világítótoronynál zajló modern tengerparti életig.",
             "ro": "Folosiți autobuzul local pentru a circula confortabil între port, orașul vechi și zona plajei. Acest tur vă arată punctele cheie din Morro Jable fără grija parcării, de la moștenirea culturală din centru până la viața modernă de lângă far.",
-            "en": "Use the local bus to commute comfortably between the port, the old town, and the beach district. This tour shows you the key points of Morro Jable without parking worries, from the cultural heritage in the old center to the modern beach life by the lighthouse."
+            "en": "Use the local bus to commute comfortably between the port, the old town, and the beach district. This tour shows you the key points of Morro Jable without parking worries, from the cultural heritage in the old center to the modern beach life by the lighthouse.",
+            "es": "Use el autobús local para desplazarse cómodamente entre el puerto, el casco antiguo y el distrito de playas. Este recorrido le muestra los puntos clave de Morro Jable sin preocuparse por aparcar, desde el patrimonio cultural del centro hasta la vida moderna de playa junto al faro."
           },
           "stops": [
             {
@@ -2116,13 +2313,15 @@
                 "de": "Puerto de Morro Jable",
                 "hu": "Morro Jable kikötő",
                 "ro": "Portul Morro Jable",
-                "en": "Morro Jable Port"
+                "en": "Morro Jable Port",
+                "es": "Puerto de Morro Jable"
               },
               "tip_5lang": {
                 "de": "Endstation vieler Buslinien.",
                 "hu": "Számos buszjárat végállomása.",
                 "ro": "Capătul multor linii de autobuz.",
-                "en": "Terminal for many bus lines."
+                "en": "Terminal for many bus lines.",
+                "es": "Terminal de muchas líneas de autobús."
               }
             },
             {
@@ -2130,13 +2329,15 @@
                 "de": "Centro de Recuperación de Tortugas",
                 "hu": "Teknősmentő központ",
                 "ro": "Centrul de Recuperare a Țestoaselor",
-                "en": "Turtle Recovery Center"
+                "en": "Turtle Recovery Center",
+                "es": "Centro de Recuperación de Tortugas"
               },
               "tip_5lang": {
                 "de": "Nur ein kurzer Fußweg vom Hafen.",
                 "hu": "Csak egy rövid séta a kikötőtől.",
                 "ro": "Doar o scurtă plimbare de la port.",
-                "en": "Just a short walk from the port."
+                "en": "Just a short walk from the port.",
+                "es": "A solo un corto paseo del puerto."
               }
             },
             {
@@ -2144,13 +2345,15 @@
                 "de": "Iglesia de Nuestra Señora del Carmen",
                 "hu": "Kármel-hegyi Boldogasszony templom",
                 "ro": "Iglesia de Nuestra Señora del Carmen",
-                "en": "Church of Our Lady of Carmen"
+                "en": "Church of Our Lady of Carmen",
+                "es": "Iglesia de Nuestra Señora del Carmen"
               },
               "tip_5lang": {
                 "de": "Bushaltestelle in der Nähe der Altstadt.",
                 "hu": "Buszmegálló az óváros közelében.",
                 "ro": "Stație de autobuz lângă orașul vechi.",
-                "en": "Bus stop near the old town."
+                "en": "Bus stop near the old town.",
+                "es": "Parada de autobús cerca del casco antiguo."
               }
             },
             {
@@ -2158,13 +2361,15 @@
                 "de": "Faro de Morro Jable",
                 "hu": "Morro Jable-i világítótorony",
                 "ro": "Farul Morro Jable",
-                "en": "Morro Jable Lighthouse"
+                "en": "Morro Jable Lighthouse",
+                "es": "Faro de Morro Jable"
               },
               "tip_5lang": {
                 "de": "Steigen Sie an der Avenida del Saladar aus.",
                 "hu": "Szálljon le az Avenida del Saladar-nál.",
                 "ro": "Coborâți la Avenida del Saladar.",
-                "en": "Get off at Avenida del Saladar."
+                "en": "Get off at Avenida del Saladar.",
+                "es": "Bájese en Avenida del Saladar."
               }
             },
             {
@@ -2172,13 +2377,15 @@
                 "de": "Playa del Matorral",
                 "hu": "Matorral strand",
                 "ro": "Playa del Matorral",
-                "en": "Matorral Beach"
+                "en": "Matorral Beach",
+                "es": "Playa del Matorral"
               },
               "tip_5lang": {
                 "de": "Bequemer Zugang zum Strand vom Bus aus.",
                 "hu": "Kényelmes hozzáférés a strandhoz a busztól.",
                 "ro": "Acces convenabil la plajă de la autobuz.",
-                "en": "Convenient beach access from the bus."
+                "en": "Convenient beach access from the bus.",
+                "es": "Acceso cómodo a la playa desde el autobús."
               }
             }
           ],
@@ -2284,6 +2491,11 @@
               "Buy a ticket from the driver.",
               "Line 1 connects the main towns.",
               "Buses run regularly during the day."
+            ],
+            "es": [
+              "Compre el billete al conductor.",
+              "La línea 1 conecta las localidades principales.",
+              "Los autobuses circulan con regularidad durante el día."
             ]
           }
         },
@@ -2292,7 +2504,8 @@
             "de": "Vom Hafen aus nutzen wir den Bus zum Schildkröten-Zentrum. Mittags bringt uns der Nahverkehr zur Carmen-Kirche, wo wir im Trockenen verweilen. Nachmittags fahren wir bis zum Leuchtturm, um weite Wege im Regen zu vermeiden. Der Abend endet an einer Bushaltestelle nahe der belebten Restaurants.",
             "hu": "A kikötőből busszal megyünk a teknősmentő központba. Délben a tömegközlekedés a Carmen templomhoz visz, ahol szárazon maradhatunk. Délután a világítótoronyig utazunk, hogy elkerüljük a hosszú gyaloglást az esőben. Az este egy forgalmas éttermek közeli buszmegállóban ér véget.",
             "ro": "Din port luăm autobuzul spre centrul de țestoase. La prânz, transportul public ne duce la biserica Carmen, unde stăm la adăpost. După-amiaza mergem cu autobuzul până la far pentru a evita mersul prin ploaie. Seara se încheie la o stație aproape de restaurantele animate.",
-            "en": "From the port, take the bus to the turtle center. At noon, public transport takes us to the Carmen Church where we can stay dry. In the afternoon, we ride to the lighthouse to avoid long walks in the rain. The evening ends at a bus stop near the busy restaurants."
+            "en": "From the port, take the bus to the turtle center. At noon, public transport takes us to the Carmen Church where we can stay dry. In the afternoon, we ride to the lighthouse to avoid long walks in the rain. The evening ends at a bus stop near the busy restaurants.",
+            "es": "Desde el puerto, tome el autobús hasta el centro de tortugas. Al mediodía, el transporte público nos lleva a la Iglesia del Carmen donde podemos resguardarnos de la lluvia. Por la tarde, viajamos al faro para evitar largas caminatas bajo la lluvia. La noche termina en una parada junto a los restaurantes concurridos."
           },
           "stops": [
             {
@@ -2301,7 +2514,8 @@
                 "de": "Überdachte Wartehalle am Hafen vorhanden.",
                 "hu": "Fedett váróterem található a kikötőben.",
                 "ro": "Sală de așteptare acoperită disponibilă în port.",
-                "en": "Covered waiting area available at the port."
+                "en": "Covered waiting area available at the port.",
+                "es": "Zona cubierta de espera disponible en el puerto."
               }
             },
             {
@@ -2310,7 +2524,8 @@
                 "de": "Kurzer Fußweg von der Bushaltestelle.",
                 "hu": "Rövid séta a legközelebbi buszmegállótól.",
                 "ro": "Drum scurt pe jos de la stația de autobuz.",
-                "en": "Short walk from the bus stop."
+                "en": "Short walk from the bus stop.",
+                "es": "Corto paseo desde la parada de autobús."
               }
             },
             {
@@ -2319,7 +2534,8 @@
                 "de": "Haltestelle fast direkt vor der Kirche.",
                 "hu": "A megálló szinte közvetlenül a templom előtt van.",
                 "ro": "Stație aproape direct în fața bisericii.",
-                "en": "Stop is almost directly in front of the church."
+                "en": "Stop is almost directly in front of the church.",
+                "es": "La parada está casi directamente frente a la iglesia."
               }
             },
             {
@@ -2328,7 +2544,8 @@
                 "de": "Bus hält in der Nähe der großen Hotels.",
                 "hu": "A busz a nagy szállodák közelében áll meg.",
                 "ro": "Autobuzul oprește aproape de marile hoteluri.",
-                "en": "The bus stops near the large hotels."
+                "en": "The bus stops near the large hotels.",
+                "es": "El autobús para cerca de los grandes hoteles."
               }
             },
             {
@@ -2337,7 +2554,8 @@
                 "de": "Busse verkehren auch bei Regen regelmäßig.",
                 "hu": "A buszok esőben is rendszeresen közlekednek.",
                 "ro": "Autobuzele circulă regulat chiar și pe ploaie.",
-                "en": "Buses run regularly even in the rain."
+                "en": "Buses run regularly even in the rain.",
+                "es": "Los autobuses circulan con regularidad incluso bajo la lluvia."
               }
             }
           ],
@@ -2369,6 +2587,13 @@
               "Use the Tiadhe app for real-time information.",
               "Wear a raincoat for the walk to the stop.",
               "Buses are often more crowded in winter and rain."
+            ],
+            "es": [
+              "Tenga cambio pequeño listo para el billete del autobús.",
+              "Los tiempos de espera pueden aumentar ligeramente con mal tiempo.",
+              "Use la app Tiadhe para información en tiempo real.",
+              "Lleve un impermeable para la caminata hasta la parada.",
+              "Los autobuses suelen estar más llenos en invierno y con lluvia."
             ]
           }
         },
@@ -2377,7 +2602,8 @@
             "de": "Morgens nehmen wir den Bus zum Hafen. Den Vormittag verbringen wir im Schildkröten-Zentrum. Mittags bringt uns der Transit zur Carmen-Kirche. Den Nachmittag genießen wir am Leuchtturm und Matorral-Strand, bevor wir mit dem letzten Tageslicht den Bus zurück nehmen. Abends sind die Haltestellen gut beleuchtet.",
             "hu": "Reggel busszal megyünk a kikötőbe. A délelőttöt a teknősmentő központban töltjük. Délben a járat a Carmen templomhoz visz minket. A délutánt a lámpásnál és a Matorral parton élvezzük, mielőtt az utolsó nappali fénnyel visszabuszoznánk. Este a megállók jól megvilágítottak.",
             "ro": "Dimineața luăm autobuzul spre port. Petrecem dimineața la centrul de țestoase. La prânz, transportul ne duce la biserica Carmen. Ne bucurăm de după-amiază la far și pe plaja Matorral, înainte de a lua autobuzul înapoi. Seara, stațiile sunt bine iluminate.",
-            "en": "In the morning, take the bus to the port. Spend the morning at the turtle center. At noon, the transit takes us to the Carmen Church. Enjoy the afternoon at the lighthouse and Matorral Beach before taking the bus back with the last daylight. In the evening, the stops are well-lit."
+            "en": "In the morning, take the bus to the port. Spend the morning at the turtle center. At noon, the transit takes us to the Carmen Church. Enjoy the afternoon at the lighthouse and Matorral Beach before taking the bus back with the last daylight. In the evening, the stops are well-lit.",
+            "es": "Por la mañana, tome el autobús hasta el puerto. Pase la mañana en el centro de tortugas. Al mediodía, el tránsito nos lleva a la Iglesia del Carmen. Disfrute la tarde en el faro y la Playa del Matorral antes de volver en autobús con la última luz del día. Por la noche, las paradas están bien iluminadas."
           },
           "stops": [
             {
@@ -2386,7 +2612,8 @@
                 "de": "Startpunkt vieler Buslinien in der Region.",
                 "hu": "Számos helyi buszjárat kiindulópontja.",
                 "ro": "Punct de plecare pentru multe linii de autobuz.",
-                "en": "Starting point for many local bus lines."
+                "en": "Starting point for many local bus lines.",
+                "es": "Punto de partida de muchas líneas de autobús locales."
               }
             },
             {
@@ -2395,7 +2622,8 @@
                 "de": "Klimatisierte Busse machen die Fahrt angenehm.",
                 "hu": "A légkondicionált buszok kényelmessé teszik az utat.",
                 "ro": "Autobuzele cu aer condiționat fac drumul plăcut.",
-                "en": "Air-conditioned buses make the journey pleasant."
+                "en": "Air-conditioned buses make the journey pleasant.",
+                "es": "Los autobuses climatizados hacen el viaje agradable."
               }
             },
             {
@@ -2404,7 +2632,8 @@
                 "de": "Zentraler Umsteigepunkt für Stadttouren.",
                 "hu": "Központi átszállási pont a városi túrákhoz.",
                 "ro": "Punct central de transfer pentru tururile orașului.",
-                "en": "Central transfer point for city tours."
+                "en": "Central transfer point for city tours.",
+                "es": "Punto central de transbordo para tours por la ciudad."
               }
             },
             {
@@ -2413,7 +2642,8 @@
                 "de": "Letzte Busse vor Sonnenuntergang prüfen.",
                 "hu": "Ellenőrizze az utolsó buszokat naplemente előtt.",
                 "ro": "Verificați ultimele autobuze înainte de apus.",
-                "en": "Check the last buses before sunset."
+                "en": "Check the last buses before sunset.",
+                "es": "Consulte los últimos autobuses antes del atardecer."
               }
             },
             {
@@ -2422,7 +2652,8 @@
                 "de": "Haltestelle liegt direkt am Strandzugang.",
                 "hu": "A megálló közvetlenül a strandbejáratnál van.",
                 "ro": "Stația este direct la intrarea pe plajă.",
-                "en": "The stop is directly at the beach entrance."
+                "en": "The stop is directly at the beach entrance.",
+                "es": "La parada está directamente en la entrada de la playa."
               }
             }
           ],
@@ -2454,6 +2685,13 @@
               "Buy a rechargeable card for savings.",
               "Wait at well-marked bus stops.",
               "Note the reduced intervals in the evening."
+            ],
+            "es": [
+              "Los horarios pueden cambiar ligeramente en invierno.",
+              "La línea 01 conecta eficientemente los puntos principales.",
+              "Compre una tarjeta recargable para ahorrar.",
+              "Espere en paradas de autobús bien señalizadas.",
+              "Tome nota de los intervalos reducidos por la noche."
             ]
           }
         }
@@ -2468,19 +2706,22 @@
       "de": "Morro Jable ist die deutscheste Ecke Fuerteventuras, viele Hotels, Ärzte und Apotheken haben deutschsprachiges Personal. Im alten Fischerdorf jenseits der Promenade lebt aber das spanische Inselleben weiter.",
       "hu": "Morro Jable a legnémetebb sarka Fuerteventurának, sok szállodában, orvosi rendelőben és gyógyszertárban van német-tudó személyzet. A sétányon túli régi halászfaluban viszont még a spanyol szigeti élet zajlik.",
       "ro": "Morro Jable e cel mai german colț al insulei, multe hoteluri, cabinete și farmacii au personal vorbitor de germană. Dincolo de promenadă, în satul pescăresc vechi, viața spaniolă insulară merge înainte.",
-      "en": "Morro Jable is Fuerteventura's most German pocket, with hotels, clinics and pharmacies staffed in German. Past the promenade though, the old fishing village still beats to a Spanish rhythm."
+      "en": "Morro Jable is Fuerteventura's most German pocket, with hotels, clinics and pharmacies staffed in German. Past the promenade though, the old fishing village still beats to a Spanish rhythm.",
+      "es": "Morro Jable es el rincón más alemán de Fuerteventura, con hoteles, clínicas y farmacias atendidos en alemán. Más allá del paseo, el antiguo pueblo pesquero aún late al ritmo español."
     },
     "best_time_to_visit": {
       "de": "Sonniger und windgeschützter als der Norden, ganzjährig 20-28 Grad. Hauptsaison ist November bis April, im August herrscht deutsche Sommerferien-Hochbetrieb.",
       "hu": "A sziget északi részénél naposabb és szélvédettebb, egész évben 20-28 fok. Főszezon a november-április, augusztusban német nyári szünetes csúcs van.",
       "ro": "Mai însorit și mai ferit de vânt decât nordul, 20-28 grade tot anul. Sezonul principal e noiembrie-aprilie, în august vin valuri de turiști germani.",
-      "en": "Sunnier and more sheltered than the north, 20-28 C year round. Peak is November to April, with August packed by German school holidays."
+      "en": "Sunnier and more sheltered than the north, 20-28 C year round. Peak is November to April, with August packed by German school holidays.",
+      "es": "Más soleado y resguardado que el norte, 20-28 °C todo el año. El pico es de noviembre a abril, con agosto lleno por las vacaciones escolares alemanas."
     },
     "neighborhood_warnings": {
       "de": "Sehr ruhiger und sicherer Ort, ideal für Familien. Bei Westwind kann die Strömung an der Playa de Jandía gefährlich werden, achte auf die rote Flagge.",
       "hu": "Nagyon nyugodt és biztonságos hely, családoknak ideális. Nyugati szélnél a Playa de Jandía áramlata veszélyessé válhat, a piros zászlót komolyan vedd.",
       "ro": "Loc foarte liniștit și sigur, ideal pentru familii. La vânt de vest, curentul de la Playa de Jandía poate fi periculos, respectă steagul roșu.",
-      "en": "Very calm and safe, ideal for families. With westerly winds the Playa de Jandia rip current can be dangerous, take any red flag seriously."
+      "en": "Very calm and safe, ideal for families. With westerly winds the Playa de Jandia rip current can be dangerous, take any red flag seriously.",
+      "es": "Muy tranquilo y seguro, ideal para familias. Con vientos del oeste, la corriente en Playa de Jandía puede ser peligrosa; tome en serio cualquier bandera roja."
     }
   }
 }

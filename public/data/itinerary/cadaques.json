@@ -31,7 +31,8 @@
             "de": "Frühmorgens sind die weißen Gassen am ruhigsten.",
             "hu": "Kora reggel a legcsendesebbek a fehérre meszelt utcák.",
             "ro": "Dimineața devreme străzile albe sunt cele mai liniștite.",
-            "en": "The whitewashed streets are quietest in the early morning."
+            "en": "The whitewashed streets are quietest in the early morning.",
+            "es": "Las calles encaladas están más tranquilas a primera hora de la mañana."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Bewundern Sie den prächtigen vergoldeten Altaraufsatz im Inneren.",
             "hu": "Csodálja meg a belső tér pompás, aranyozott oltárképét.",
             "ro": "Admirați altarul auriu magnific din interior.",
-            "en": "Admire the magnificent gilded altarpiece inside."
+            "en": "Admire the magnificent gilded altarpiece inside.",
+            "es": "Admira el magnífico retablo dorado en su interior."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Perfekter Ort für ein Foto mit der Bucht im Hintergrund.",
             "hu": "Tökéletes helyszín egy fotóhoz az öböllel a háttérben.",
             "ro": "Locul perfect pentru o poză cu golful în fundal.",
-            "en": "Perfect spot for a photo with the bay in the background."
+            "en": "Perfect spot for a photo with the bay in the background.",
+            "es": "Lugar perfecto para una foto con la bahía de fondo."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Mittagessen in einem der Strandrestaurants genießen.",
             "hu": "Élvezze az ebédet a tengerparti éttermek egyikében.",
             "ro": "Bucurați-vă de prânz la unul dintre restaurantele de pe plajă.",
-            "en": "Enjoy lunch at one of the beachfront restaurants."
+            "en": "Enjoy lunch at one of the beachfront restaurants.",
+            "es": "Disfruta de un almuerzo en uno de los restaurantes frente al mar."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Entdecken Sie die Werke lokaler Künstler.",
             "hu": "Fedezze fel a helyi művészek alkotásait.",
             "ro": "Descoperiți operele artiștilor locali.",
-            "en": "Discover the works of local artists."
+            "en": "Discover the works of local artists.",
+            "es": "Descubre las obras de los artistas locales."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Reservierung im Voraus ist zwingend erforderlich.",
             "hu": "Az előzetes foglalás mindenképpen kötelező.",
             "ro": "Rezervarea prealabilă este absolut obligatorie.",
-            "en": "Advance reservation is strictly required."
+            "en": "Advance reservation is strictly required.",
+            "es": "Es imprescindible la reserva con antelación."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Beginnen Sie Ihren Tag im Barri Vell, dem Labyrinth aus weißen Gassen, bevor Sie die majestätische Kirche Santa Maria mit ihrem Blick über die Bucht besuchen. Mittags entspannen Sie an der Platja Gran und probieren lokale Meeresfrüchte. Am Nachmittag widmen Sie sich der Kunst im Stadtmuseum, bevor Sie den Tag im surrealen Universum von Salvador Dalí in Portlligat abschließen.",
         "hu": "Kezdje a napot a Barri Vell fehér utcáinak labirintusában, majd látogasson el a fenséges Santa Maria templomba, ahonnan kilátás nyílik az öbölre. Délben lazítson a Platja Gran-on és kóstolja meg a tenger gyümölcsit. Délután merüljön el a művészetben a városi múzeumban, mielőtt a napot Salvador Dalí szürreális univerzumában zárná Portlligatban.",
         "ro": "Începeți ziua în Barri Vell, labirintul de străzi albe, înainte de a vizita maiestuoasa biserică Santa Maria cu vedere spre golf. La prânz, relaxați-vă pe Platja Gran și gustați fructe de mare locale. După-amiaza, dedicați-vă artei la muzeul orașului, înainte de a încheia ziua în universul suprarealist al lui Salvador Dalí din Portlligat.",
-        "en": "Start your day in the Barri Vell, a labyrinth of white streets, before visiting the majestic Santa Maria church with views over the bay. At midday, relax on Platja Gran and try local seafood. In the afternoon, immerse yourself in art at the city museum before ending the day in Salvador Dalí's surreal universe in Portlligat."
+        "en": "Start your day in the Barri Vell, a labyrinth of white streets, before visiting the majestic Santa Maria church with views over the bay. At midday, relax on Platja Gran and try local seafood. In the afternoon, immerse yourself in art at the city museum before ending the day in Salvador Dalí's surreal universe in Portlligat.",
+        "es": "Empieza el día en el Barri Vell, un laberinto de calles blancas, antes de visitar la majestuosa iglesia de Santa María con vistas a la bahía. A mediodía, relájate en la Platja Gran y prueba mariscos locales. Por la tarde, sumérgete en el arte en el museo de la ciudad antes de terminar el día en el universo surrealista de Salvador Dalí en Portlligat."
       },
       "gastro_picks": {
         "de": [
@@ -249,6 +256,11 @@
           "Wear comfortable shoes for the cobblestone streets.",
           "Book Dalí Museum tickets weeks in advance.",
           "Parking in the center is almost impossible."
+        ],
+        "es": [
+          "Lleva calzado cómodo para las calles empedradas.",
+          "Reserva las entradas del Museo Dalí con semanas de antelación.",
+          "Aparcar en el centro es casi imposible."
         ]
       },
       "variants": {
@@ -257,7 +269,8 @@
             "de": "Beginnen Sie Ihren Tag im Barri Vell, dem Labyrinth aus weißen Gassen, bevor Sie die majestätische Kirche Santa Maria mit ihrem Blick über die Bucht besuchen. Mittags entspannen Sie an der Platja Gran und probieren lokale Meeresfrüchte. Am Nachmittag widmen Sie sich der Kunst im Stadtmuseum, bevor Sie den Tag im surrealen Universum von Salvador Dalí in Portlligat abschließen.",
             "hu": "Kezdje a napot a Barri Vell fehér utcáinak labirintusában, majd látogasson el a fenséges Santa Maria templomba, ahonnan kilátás nyílik az öbölre. Délben lazítson a Platja Gran-on és kóstolja meg a tenger gyümölcsit. Délután merüljön el a művészetben a városi múzeumban, mielőtt a napot Salvador Dalí szürreális univerzumában zárná Portlligatban.",
             "ro": "Începeți ziua în Barri Vell, labirintul de străzi albe, înainte de a vizita maiestuoasa biserică Santa Maria cu vedere spre golf. La prânz, relaxați-vă pe Platja Gran și gustați fructe de mare locale. După-amiaza, dedicați-vă artei la muzeul orașului, înainte de a încheia ziua în universul suprarealist al lui Salvador Dalí din Portlligat.",
-            "en": "Start your day in the Barri Vell, a labyrinth of white streets, before visiting the majestic Santa Maria church with views over the bay. At midday, relax on Platja Gran and try local seafood. In the afternoon, immerse yourself in art at the city museum before ending the day in Salvador Dalí's surreal universe in Portlligat."
+            "en": "Start your day in the Barri Vell, a labyrinth of white streets, before visiting the majestic Santa Maria church with views over the bay. At midday, relax on Platja Gran and try local seafood. In the afternoon, immerse yourself in art at the city museum before ending the day in Salvador Dalí's surreal universe in Portlligat.",
+            "es": "Empieza el día en el Barri Vell, un laberinto de calles blancas, antes de visitar la majestuosa iglesia de Santa María con vistas a la bahía. A mediodía, relájate en la Platja Gran y prueba mariscos locales. Por la tarde, sumérgete en el arte en el museo de la ciudad antes de terminar el día en el universo surrealista de Salvador Dalí en Portlligat."
           },
           "stops": [
             {
@@ -266,7 +279,8 @@
                 "de": "Frühmorgens sind die weißen Gassen am ruhigsten.",
                 "hu": "Kora reggel a legcsendesebbek a fehérre meszelt utcák.",
                 "ro": "Dimineața devreme străzile albe sunt cele mai liniștite.",
-                "en": "The whitewashed streets are quietest in the early morning."
+                "en": "The whitewashed streets are quietest in the early morning.",
+                "es": "Las calles encaladas están más tranquilas a primera hora de la mañana."
               }
             },
             {
@@ -275,7 +289,8 @@
                 "de": "Bewundern Sie den prächtigen vergoldeten Altaraufsatz im Inneren.",
                 "hu": "Csodálja meg a belső tér pompás, aranyozott oltárképét.",
                 "ro": "Admirați altarul auriu magnific din interior.",
-                "en": "Admire the magnificent gilded altarpiece inside."
+                "en": "Admire the magnificent gilded altarpiece inside.",
+                "es": "Admira el magnífico retablo dorado en su interior."
               }
             },
             {
@@ -284,7 +299,8 @@
                 "de": "Perfekter Ort für ein Foto mit der Bucht im Hintergrund.",
                 "hu": "Tökéletes helyszín egy fotóhoz az öböllel a háttérben.",
                 "ro": "Locul perfect pentru o poză cu golful în fundal.",
-                "en": "Perfect spot for a photo with the bay in the background."
+                "en": "Perfect spot for a photo with the bay in the background.",
+                "es": "Lugar perfecto para una foto con la bahía de fondo."
               }
             },
             {
@@ -293,7 +309,8 @@
                 "de": "Mittagessen in einem der Strandrestaurants genießen.",
                 "hu": "Élvezze az ebédet a tengerparti éttermek egyikében.",
                 "ro": "Bucurați-vă de prânz la unul dintre restaurantele de pe plajă.",
-                "en": "Enjoy lunch at one of the beachfront restaurants."
+                "en": "Enjoy lunch at one of the beachfront restaurants.",
+                "es": "Disfruta de un almuerzo en uno de los restaurantes frente al mar."
               }
             },
             {
@@ -302,7 +319,8 @@
                 "de": "Entdecken Sie die Werke lokaler Künstler.",
                 "hu": "Fedezze fel a helyi művészek alkotásait.",
                 "ro": "Descoperiți operele artiștilor locali.",
-                "en": "Discover the works of local artists."
+                "en": "Discover the works of local artists.",
+                "es": "Descubre las obras de los artistas locales."
               }
             },
             {
@@ -311,7 +329,8 @@
                 "de": "Reservierung im Voraus ist zwingend erforderlich.",
                 "hu": "Az előzetes foglalás mindenképpen kötelező.",
                 "ro": "Rezervarea prealabilă este absolut obligatorie.",
-                "en": "Advance reservation is strictly required."
+                "en": "Advance reservation is strictly required.",
+                "es": "Es imprescindible la reserva con antelación."
               }
             }
           ],
@@ -433,6 +452,11 @@
               "Wear comfortable shoes for the cobblestone streets.",
               "Book Dalí Museum tickets weeks in advance.",
               "Parking in the center is almost impossible."
+            ],
+            "es": [
+              "Lleva calzado cómodo para las calles empedradas.",
+              "Reserva las entradas del Museo Dalí con semanas de antelación.",
+              "Aparcar en el centro es casi imposible."
             ]
           }
         },
@@ -441,7 +465,8 @@
             "de": "Morgens erkunden wir die weiß getünchten Gassen des Barri Vell unter dem Schutz der Arkaden. Mittags bietet die Església de Santa Maria eine spirituelle und trockene Zuflucht mit herrlicher Aussicht. Nachmittags spazieren wir am stürmischen Meer entlang zum Dalí-Museum, wo die Kunst vor dem Wetter schützt. Den Abend lassen wir gemütlich in einem der Museen oder einer Bar ausklingen.",
             "hu": "Reggel az eső áztatta Barri Vell fehér utcáin sétálunk, kihasználva a szűk sikátorok védelmét. Délben a Santa Maria templom nyújt menedéket és csendes elmélyülést. Délután a tengerparti szobrok érintésével a múzeumok felé vesszük az irányt, ahol Dalí világa feledteti a borús időt. Az estét egy hangulatos beltéri kiállításon vagy egy helyi galériában fejezzük be.",
             "ro": "Dimineața explorăm străzile albe din Barri Vell, adăpostindu-ne sub arcadele vechi. La prânz, Església de Santa Maria oferă un refugiu spiritual și uscat, cu vederi dramatice asupra mării. După-amiaza, ne plimbăm pe lângă mare spre muzeele locale, unde arta lui Dalí ne protejează de vremea rea. Seara se încheie confortabil în interiorul muzeelor sau într-o cafenea locală.",
-            "en": "Morning finds us exploring the whitewashed streets of Barri Vell, using narrow alleys for cover. At noon, the Church of Santa Maria provides a dry and peaceful sanctuary. In the afternoon, we walk past the stormy coastline toward the museums, where Dalí's genius offers a perfect indoor escape. The evening concludes with a warm immersion in the local art scene and cozy interiors."
+            "en": "Morning finds us exploring the whitewashed streets of Barri Vell, using narrow alleys for cover. At noon, the Church of Santa Maria provides a dry and peaceful sanctuary. In the afternoon, we walk past the stormy coastline toward the museums, where Dalí's genius offers a perfect indoor escape. The evening concludes with a warm immersion in the local art scene and cozy interiors.",
+            "es": "Por la mañana exploramos las calles encaladas del Barri Vell, usando los callejones estrechos como refugio. Al mediodía, la iglesia de Santa María ofrece un santuario seco y tranquilo. Por la tarde, caminamos junto a la costa tormentosa hacia los museos, donde el genio de Dalí ofrece un perfecto escape interior. La noche termina con una cálida inmersión en la escena artística local y ambientes acogedores."
           },
           "stops": [
             {
@@ -450,7 +475,8 @@
                 "de": "Vorsicht auf dem glatten Kopfsteinpflaster; feste Sohlen sind ratsam.",
                 "hu": "Vigyázat a csúszós macskaköveken; tapadós talpú cipő ajánlott.",
                 "ro": "Atenție pe pietrele cubice umede; se recomandă încălțăminte aderentă.",
-                "en": "Watch out for slippery cobblestones; non-slip shoes are highly recommended."
+                "en": "Watch out for slippery cobblestones; non-slip shoes are highly recommended.",
+                "es": "Ojo con los empedrados resbaladizos; se recomiendan zapatos antideslizantes."
               }
             },
             {
@@ -459,7 +485,8 @@
                 "de": "Ein idealer Ort, um einen Regenschauer bei barocker Pracht abzuwarten.",
                 "hu": "Tökéletes hely egy zápor kivárására a barokk oltár közelében.",
                 "ro": "Locul ideal pentru a aștepta trecerea unei ploi sub cupola barocă.",
-                "en": "An ideal place to wait out a heavy shower amidst baroque splendor."
+                "en": "An ideal place to wait out a heavy shower amidst baroque splendor.",
+                "es": "Un lugar ideal para esperar a que escampe entre el esplendor barroco."
               }
             },
             {
@@ -468,7 +495,8 @@
                 "de": "Schnelles Foto mit dem Meister, bevor die Gischt zu stark wird.",
                 "hu": "Gyors fotó a mesterrel, mielőtt a tengeri permet túl erős lenne.",
                 "ro": "O fotografie rapidă cu maestrul înainte ca valurile să stropească.",
-                "en": "A quick photo with the master before the sea spray gets too intense."
+                "en": "A quick photo with the master before the sea spray gets too intense.",
+                "es": "Una foto rápida con el maestro antes de que el salpicado del mar se intensifique."
               }
             },
             {
@@ -477,7 +505,8 @@
                 "de": "Die Cafés entlang der Promenade bieten trockene Logenplätze für das Meerschauspiel.",
                 "hu": "A sétány menti kávézók száraz páholyból kínálják a viharos tenger látványát.",
                 "ro": "Cafenelele de pe faleză oferă locuri uscate pentru a admira spectacolul mării.",
-                "en": "Promenade cafes offer dry ringside seats for the dramatic sea spectacle."
+                "en": "Promenade cafes offer dry ringside seats for the dramatic sea spectacle.",
+                "es": "Las cafeterías del paseo ofrecen asientos cubiertos y secos para el espectáculo marítimo."
               }
             },
             {
@@ -486,7 +515,8 @@
                 "de": "Perfekte Ausweichmöglichkeit bei Regen, um die lokale Kunstgeschichte zu vertiefen.",
                 "hu": "Kiváló menedék esőben, hogy elmerüljünk a helyi művészettörténetben.",
                 "ro": "Refugiu perfect pe ploaie pentru a aprofunda istoria artei locale.",
-                "en": "Perfect rain shelter to delve deeper into local art history."
+                "en": "Perfect rain shelter to delve deeper into local art history.",
+                "es": "Refugio perfecto para profundizar en la historia del arte local."
               }
             },
             {
@@ -495,7 +525,8 @@
                 "de": "Buchen Sie im Voraus; die Innenräume sind bei Regen besonders begehrt.",
                 "hu": "Foglaljon előre; esős időben a belső terek rendkívül népszerűek.",
                 "ro": "Rezervați în avans; spațiile interioare sunt foarte căutate pe ploaie.",
-                "en": "Book in advance; the indoor spaces are very popular during rainy spells."
+                "en": "Book in advance; the indoor spaces are very popular during rainy spells.",
+                "es": "Reserva con antelación; los espacios interiores son muy solicitados durante los chaparrones."
               }
             }
           ],
@@ -523,6 +554,12 @@
               "Use the small art galleries in Barri Vell as dry pit stops.",
               "The stone pathways can become extremely slippery when wet.",
               "Many restaurants offer heated, covered terraces with sea views."
+            ],
+            "es": [
+              "Lleva un chubasquero de calidad contra el viento costero cortante.",
+              "Usa las pequeñas galerías de arte del Barri Vell como paradas secas.",
+              "Los caminos de piedra se vuelven extremadamente resbaladizos cuando están mojados.",
+              "Muchos restaurantes ofrecen terrazas cubiertas y climatizadas con vistas al mar."
             ]
           }
         },
@@ -531,7 +568,8 @@
             "de": "Der Wintermorgen beginnt mit kristallklarer Luft und leerem Strand. Mittags wärmt die Sonne die weißen Fassaden, während wir zur Kirche aufsteigen. Nachmittags ist die Wanderung nach Portlligat bei milden Temperaturen ein Genuss, fernab der Sommermassen. Der Abend kommt früh mit einem spektakulären Sonnenuntergang über der Bucht, den wir bei einem Wein genießen.",
             "hu": "A téli reggel kristálytiszta levegővel és üres tengerparttal köszönt ránk. Délben a nap melengeti a fehér falakat, miközben a templomhoz sétálunk. Délután a Portlligat felé vezető út a tömeg hiányában igazi felüdülés. Az este korán érkezik, látványos naplementével a bay felett, amit egy pohár helyi bor társaságában csodálunk meg.",
             "ro": "Dimineața de iarnă începe cu aer cristalinit și plaja pustie. La prânz, soarele încălzește fațadele albe în timp ce urcăm spre biserică. După-amiaza, plimbarea spre Portlligat este o plăcere la temperaturi blânde, departe de mulțime. Seara vine devreme cu un apus spectaculos peste golf, savurat cu un pahar de vin.",
-            "en": "The winter morning starts with crisp, clear air and a deserted beach. At noon, the low sun warms the white facades as we climb to the church. In the afternoon, the walk to Portlligat is a joy in the absence of crowds and mild temperatures. Evening arrives early with a spectacular sunset over the bay, best enjoyed with a glass of local wine."
+            "en": "The winter morning starts with crisp, clear air and a deserted beach. At noon, the low sun warms the white facades as we climb to the church. In the afternoon, the walk to Portlligat is a joy in the absence of crowds and mild temperatures. Evening arrives early with a spectacular sunset over the bay, best enjoyed with a glass of local wine.",
+            "es": "La mañana invernal empieza con aire fresco y una playa desierta. Al mediodía, el sol bajo calienta las fachadas blancas mientras subimos a la iglesia. Por la tarde, el paseo hasta Portlligat es un placer sin multitudes y con temperaturas suaves. La noche llega pronto con una puesta de sol espectacular sobre la bahía, mejor disfrutada con una copa de vino local."
           },
           "stops": [
             {
@@ -540,7 +578,8 @@
                 "de": "Genießen Sie die Stille der leeren Gassen im sanften Winterlicht.",
                 "hu": "Élvezze az üres utcák csendjét a lágy téli fényekben.",
                 "ro": "Bucurați-vă de liniștea străzilor pustii în lumina blândă de iarnă.",
-                "en": "Enjoy the silence of the empty streets in the soft winter light."
+                "en": "Enjoy the silence of the empty streets in the soft winter light.",
+                "es": "Disfruta del silencio de las calles vacías bajo la suave luz invernal."
               }
             },
             {
@@ -549,7 +588,8 @@
                 "de": "Die Innentemperatur ist oft angenehmer als der zugige Wind draußen.",
                 "hu": "A belső hőmérséklet gyakran kellemesebb, mint a kinti huzatos szél.",
                 "ro": "Temperatura interioară este adesea mai plăcută decât vântul de afară.",
-                "en": "The interior temperature is often warmer than the breezy wind outside."
+                "en": "The interior temperature is often warmer than the breezy wind outside.",
+                "es": "La temperatura interior suele ser más cálida que el viento fresco exterior."
               }
             },
             {
@@ -558,7 +598,8 @@
                 "de": "Kein Warten für Fotos; der Meister gehört Ihnen fast allein.",
                 "hu": "Nincs sorban állás a fotóért; a mester szinte csak az öné.",
                 "ro": "Fără cozi pentru fotografii; maestrul este aproape doar al tău.",
-                "en": "No waiting for photos; the master is almost yours alone."
+                "en": "No waiting for photos; the master is almost yours alone.",
+                "es": "No hay que esperar para las fotos; el maestro casi es tuyo en exclusiva."
               }
             },
             {
@@ -567,7 +608,8 @@
                 "de": "Der Sonnenuntergang hier ist im Winter besonders farbenprächtig (ca. 17:30).",
                 "hu": "A naplemente itt télen különösen színes (kb. 17:30-kor).",
                 "ro": "Apusul de aici este deosebit de colorat iarna (în jur de 17:30).",
-                "en": "The sunset here is especially colorful in winter (around 17:30)."
+                "en": "The sunset here is especially colorful in winter (around 17:30).",
+                "es": "El atardecer aquí es especialmente colorido en invierno (alrededor de las 17:30)."
               }
             },
             {
@@ -576,7 +618,8 @@
                 "de": "Prüfen Sie die eingeschränkten Winteröffnungszeiten vor Ihrem Besuch.",
                 "hu": "Látogatás előtt ellenőrizze a rövidített téli nyitvatartást.",
                 "ro": "Verificați programul redus de iarnă înainte de vizită.",
-                "en": "Check the reduced winter opening hours before your visit."
+                "en": "Check the reduced winter opening hours before your visit.",
+                "es": "Consulta los horarios reducidos de invierno antes de tu visita."
               }
             },
             {
@@ -585,7 +628,8 @@
                 "de": "Ein Besuch im Winter bietet eine intimere Erfahrung ohne Zeitdruck.",
                 "hu": "A téli látogatás intimebb élményt nyújt, időbeli korlátok nélkül.",
                 "ro": "O vizită iarna oferă o experiență mai intimă, fără presiunea timpului.",
-                "en": "A winter visit offers a more intimate experience without the rush."
+                "en": "A winter visit offers a more intimate experience without the rush.",
+                "es": "Una visita en invierno ofrece una experiencia más íntima, sin prisas."
               }
             }
           ],
@@ -613,6 +657,12 @@
               "The sun sets early; plan your outdoor activities before 17:00.",
               "Some restaurants close in January/February; check and reserve in advance.",
               "Winter light conditions are perfect for amateur photographers."
+            ],
+            "es": [
+              "Cuidado con la Tramuntana (viento fuerte del norte); una chaqueta cortavientos es imprescindible.",
+              "El sol se pone pronto; planifica las actividades exteriores antes de las 17:00.",
+              "Algunos restaurantes cierran en enero/febrero; comprueba y reserva con antelación.",
+              "Las condiciones de luz invernal son perfectas para fotógrafos aficionados."
             ]
           }
         }
@@ -641,7 +691,8 @@
             "de": "Schieben Sie das Fahrrad in den engen Gassen.",
             "hu": "A szűk utcákban tolja a kerékpárt.",
             "ro": "Împingeți bicicleta pe străzile înguste.",
-            "en": "Push your bike in the narrow streets."
+            "en": "Push your bike in the narrow streets.",
+            "es": "Empuja la bicicleta en las calles estrechas."
           }
         },
         {
@@ -659,7 +710,8 @@
             "de": "Kurzer Halt an der Promenade.",
             "hu": "Rövid megálló a sétányon.",
             "ro": "Scurtă oprire pe faleză.",
-            "en": "Short stop on the promenade."
+            "en": "Short stop on the promenade.",
+            "es": "Parada corta en el paseo."
           }
         },
         {
@@ -677,7 +729,8 @@
             "de": "Der Anstieg ist steil, aber die Aussicht belohnt Sie.",
             "hu": "Az emelkedő meredek, de a kilátás kárpótolja.",
             "ro": "Urcarea este abruptă, dar priveliștea merită efortul.",
-            "en": "The climb is steep, but the view is worth it."
+            "en": "The climb is steep, but the view is worth it.",
+            "es": "La subida es empinada, pero la vista lo merece."
           }
         },
         {
@@ -695,7 +748,8 @@
             "de": "Ein ruhiger Ort fernab der Massen.",
             "hu": "Csendes hely a tömegtől távol.",
             "ro": "Un loc liniștit departe de mulțime.",
-            "en": "A quiet place away from the crowds."
+            "en": "A quiet place away from the crowds.",
+            "es": "Un lugar tranquilo, alejado de las multitudes."
           }
         },
         {
@@ -713,7 +767,8 @@
             "de": "Verdiente Erholung am Wasser.",
             "hu": "Megérdemelt pihenés a víznél.",
             "ro": "Relaxare pelicitată lângă apă.",
-            "en": "Well-deserved rest by the water."
+            "en": "Well-deserved rest by the water.",
+            "es": "Descanso bien merecido junto al agua."
           }
         }
       ],
@@ -721,7 +776,8 @@
         "de": "Diese Radtour führt Sie durch das historische Zentrum zum Monument von Dalí und dann hinaus zum wilden Cap de Creus. Nach der Rückkehr vom Leuchtturm besuchen Sie die Einsiedelei Sant Baldiri und genießen den Nachmittag entspannt am Hauptstrand von Cadaqués.",
         "hu": "Ez a kerékpártúra a történelmi központon és Dalí emlékművén keresztül vezet ki a vad Cap de Creus-fokhoz. A világítótoronytól visszatérve látogassa meg a Sant Baldiri remetelakhelyet, majd töltse a délutánt a főstrandon.",
         "ro": "Acest tur cu bicicleta vă poartă prin centrul istoric, pe lângă monumentul lui Dalí, apoi spre sălbaticul Cap de Creus. După întoarcerea de la far, vizitați schitul Sant Baldiri și bucurați-vă de după-amiază pe plaja principală.",
-        "en": "This bike tour takes you through the historical center past Dalí's monument and out to the wild Cap de Creus. After returning from the lighthouse, visit the Sant Baldiri hermitage and enjoy the afternoon relaxing at the main beach."
+        "en": "This bike tour takes you through the historical center past Dalí's monument and out to the wild Cap de Creus. After returning from the lighthouse, visit the Sant Baldiri hermitage and enjoy the afternoon relaxing at the main beach.",
+        "es": "Esta ruta en bicicleta te lleva por el centro histórico junto al monumento a Dalí y hasta el salvaje Cap de Creus. Tras volver del faro, visita la ermita de Sant Baldiri y disfruta la tarde relajándote en la playa principal."
       },
       "gastro_picks": {
         "de": [
@@ -825,6 +881,11 @@
           "Watch out for the Tramuntana wind, which can be very strong.",
           "Take plenty of water for the ride to Cap de Creus.",
           "E-bikes are recommended for the hills."
+        ],
+        "es": [
+          "Cuidado con la Tramuntana, que puede ser muy fuerte.",
+          "Lleva abundante agua para la subida hasta el Cap de Creus.",
+          "Se recomiendan las e-bikes para las cuestas."
         ]
       },
       "variants": {
@@ -833,7 +894,8 @@
             "de": "Diese Radtour führt Sie durch das historische Zentrum zum Monument von Dalí und dann hinaus zum wilden Cap de Creus. Nach der Rückkehr vom Leuchtturm besuchen Sie die Einsiedelei Sant Baldiri und genießen den Nachmittag entspannt am Hauptstrand von Cadaqués.",
             "hu": "Ez a kerékpártúra a történelmi központon és Dalí emlékművén keresztül vezet ki a vad Cap de Creus-fokhoz. A világítótoronytól visszatérve látogassa meg a Sant Baldiri remetelakhelyet, majd töltse a délutánt a főstrandon.",
             "ro": "Acest tur cu bicicleta vă poartă prin centrul istoric, pe lângă monumentul lui Dalí, apoi spre sălbaticul Cap de Creus. După întoarcerea de la far, vizitați schitul Sant Baldiri și bucurați-vă de după-amiază pe plaja principală.",
-            "en": "This bike tour takes you through the historical center past Dalí's monument and out to the wild Cap de Creus. After returning from the lighthouse, visit the Sant Baldiri hermitage and enjoy the afternoon relaxing at the main beach."
+            "en": "This bike tour takes you through the historical center past Dalí's monument and out to the wild Cap de Creus. After returning from the lighthouse, visit the Sant Baldiri hermitage and enjoy the afternoon relaxing at the main beach.",
+            "es": "Esta ruta en bicicleta te lleva por el centro histórico junto al monumento a Dalí y hasta el salvaje Cap de Creus. Tras volver del faro, visita la ermita de Sant Baldiri y disfruta la tarde relajándote en la playa principal."
           },
           "stops": [
             {
@@ -842,7 +904,8 @@
                 "de": "Schieben Sie das Fahrrad in den engen Gassen.",
                 "hu": "A szűk utcákban tolja a kerékpárt.",
                 "ro": "Împingeți bicicleta pe străzile înguste.",
-                "en": "Push your bike in the narrow streets."
+                "en": "Push your bike in the narrow streets.",
+                "es": "Empuja la bicicleta en las calles estrechas."
               }
             },
             {
@@ -851,7 +914,8 @@
                 "de": "Kurzer Halt an der Promenade.",
                 "hu": "Rövid megálló a sétányon.",
                 "ro": "Scurtă oprire pe faleză.",
-                "en": "Short stop on the promenade."
+                "en": "Short stop on the promenade.",
+                "es": "Parada corta en el paseo."
               }
             },
             {
@@ -860,7 +924,8 @@
                 "de": "Der Anstieg ist steil, aber die Aussicht belohnt Sie.",
                 "hu": "Az emelkedő meredek, de a kilátás kárpótolja.",
                 "ro": "Urcarea este abruptă, dar priveliștea merită efortul.",
-                "en": "The climb is steep, but the view is worth it."
+                "en": "The climb is steep, but the view is worth it.",
+                "es": "La subida es empinada, pero la vista lo merece."
               }
             },
             {
@@ -869,7 +934,8 @@
                 "de": "Ein ruhiger Ort fernab der Massen.",
                 "hu": "Csendes hely a tömegtől távol.",
                 "ro": "Un loc liniștit departe de mulțime.",
-                "en": "A quiet place away from the crowds."
+                "en": "A quiet place away from the crowds.",
+                "es": "Un lugar tranquilo, alejado de las multitudes."
               }
             },
             {
@@ -878,7 +944,8 @@
                 "de": "Verdiente Erholung am Wasser.",
                 "hu": "Megérdemelt pihenés a víznél.",
                 "ro": "Relaxare pelicitată lângă apă.",
-                "en": "Well-deserved rest by the water."
+                "en": "Well-deserved rest by the water.",
+                "es": "Descanso bien merecido junto al agua."
               }
             }
           ],
@@ -984,6 +1051,11 @@
               "Watch out for the Tramuntana wind, which can be very strong.",
               "Take plenty of water for the ride to Cap de Creus.",
               "E-bikes are recommended for the hills."
+            ],
+            "es": [
+              "Cuidado con la Tramuntana, que puede ser muy fuerte.",
+              "Lleva abundante agua para la subida hasta el Cap de Creus.",
+              "Se recomiendan las e-bikes para las cuestas."
             ]
           }
         },
@@ -992,7 +1064,8 @@
             "de": "Der Morgen beginnt mit einer mutigen Fahrt durch das nasse Barri Vell. Mittags radeln wir vorsichtig an der Küste entlang, während die Gischt das Gesicht erfrischt. Nachmittags erklimmen wir den Weg zum Leuchtturm von Cap de Creus, wo die raue Natur im Regen besonders dramatisch wirkt. Der Abend endet mit einer Rückfahrt in die geschützten Gassen des Dorfes.",
             "hu": "A reggel bátor tekeréssel indul a nedves Barri Vell utcáin. Délben óvatosan haladunk a parton, miközben a tenger permete frissíti arcunkat. Délután a Cap de Creus világítótoronyhoz kaptatunk fel, ahol a vad természet esőben még drámaibb. Az este a falu védett utcáiba való visszatéréssel zárul.",
             "ro": "Dimineața începe cu o cursă curajoasă prin Barri Vell umed. La prânz pedalăm cu grijă pe coastă, în timp ce stropii de mare ne răcoresc fața. După-amiaza urcăm spre farul Cap de Creus, unde natura sălbatică este dramatică pe ploaie. Seara se încheie cu întoarcerea pe străzile protejate ale satului.",
-            "en": "The morning starts with a brave ride through the wet Barri Vell. At noon, we cycle cautiously along the coast as sea spray refreshes our faces. In the afternoon, we climb toward Cap de Creus lighthouse, where wild nature looks particularly dramatic in the rain. The evening ends with a return to the sheltered village alleys."
+            "en": "The morning starts with a brave ride through the wet Barri Vell. At noon, we cycle cautiously along the coast as sea spray refreshes our faces. In the afternoon, we climb toward Cap de Creus lighthouse, where wild nature looks particularly dramatic in the rain. The evening ends with a return to the sheltered village alleys.",
+            "es": "La mañana empieza con un valiente paseo por el húmedo Barri Vell. Al mediodía, circulamos con precaución por la costa mientras la bruma salina nos refresca la cara. Por la tarde subimos hacia el faro del Cap de Creus, donde la naturaleza salvaje resulta especialmente dramática bajo la lluvia. La noche termina con el regreso a los callejones resguardados del pueblo."
           },
           "stops": [
             {
@@ -1001,7 +1074,8 @@
                 "de": "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nassem Stein.",
                 "hu": "Csökkentse kissé a keréknyomást a jobb tapadásért a vizes kövön.",
                 "ro": "Reduceți ușor presiunea în pneuri pentru aderență mai bună pe piatră udă.",
-                "en": "Lower tire pressure slightly for better grip on wet stones."
+                "en": "Lower tire pressure slightly for better grip on wet stones.",
+                "es": "Baja ligeramente la presión de los neumáticos para mejorar la adherencia en piedras mojadas."
               }
             },
             {
@@ -1010,7 +1084,8 @@
                 "de": "Kurzer Stopp; Metalloberflächen in der Nähe können rutschig sein.",
                 "hu": "Rövid megálló; a közeli fémfelületek csúszósak lehetnek.",
                 "ro": "Oprire scurtă; suprafețele metalice din apropiere pot fi alunecoase.",
-                "en": "Short stop; nearby metal surfaces can be slippery."
+                "en": "Short stop; nearby metal surfaces can be slippery.",
+                "es": "Parada corta; las superficies metálicas cercanas pueden estar resbaladizas."
               }
             },
             {
@@ -1019,7 +1094,8 @@
                 "de": "Starke Böen am Kap; halten Sie den Lenker bei Regen fest umschlossen.",
                 "hu": "Erős lökések a foknál; esőben szorosan fogja a kormányt.",
                 "ro": "Rafale puternice la cap; țineți bine ghidonul pe timp de ploaie.",
-                "en": "Strong gusts at the cape; keep a firm grip on the handlebars in rain."
+                "en": "Strong gusts at the cape; keep a firm grip on the handlebars in rain.",
+                "es": "Rachas fuertes en el cabo; sujeta firmemente el manillar con lluvia."
               }
             },
             {
@@ -1028,7 +1104,8 @@
                 "de": "Die Auffahrt ist steil; Schlamm kann die Traktion erschweren.",
                 "hu": "Az emelkedő meredek; a sár nehezítheti a haladást.",
                 "ro": "Urcarea este abruptă; noroiul poate îngreuna tracțiunea.",
-                "en": "The climb is steep; mud can make traction difficult."
+                "en": "The climb is steep; mud can make traction difficult.",
+                "es": "La subida es empinada; el barro puede dificultar la tracción."
               }
             },
             {
@@ -1037,7 +1114,8 @@
                 "de": "Säubern Sie die Bremsbeläge nach der Fahrt von Sand und Salz.",
                 "hu": "Tekerés után tisztítsa meg a fékbetéteket a homoktól és sótól.",
                 "ro": "Curățați saboții de frână de nisip și sare după cursă.",
-                "en": "Clean brake pads from sand and salt after the ride."
+                "en": "Clean brake pads from sand and salt after the ride.",
+                "es": "Limpia las pastillas de freno de arena y sal tras la ruta."
               }
             }
           ],
@@ -1065,6 +1143,12 @@
               "Avoid sharp braking on painted road markings.",
               "The restaurant at the lighthouse is an excellent dry resting spot.",
               "Mudguards are vital to prevent spray from clouding your vision."
+            ],
+            "es": [
+              "Equipo totalmente impermeable es esencial para la ruta al Cap de Creus.",
+              "Evita frenar bruscamente sobre marcas viales pintadas.",
+              "El restaurante del faro es un excelente punto seco para descansar.",
+              "Los guardabarros son vitales para evitar que el agua empañe tu visión."
             ]
           }
         },
@@ -1073,7 +1157,8 @@
             "de": "An einem klaren Wintermorgen ist die Fahrt durch Cadaqués ein purer Genuss ohne Autostaus. Mittags führt uns die Route über sonnige Hügel mit Blick auf das tiefblaue Mittelmeer. Nachmittags erreichen wir das Kap, wo der kalte Wind die Sinne schärft. Der Abend endet mit einer rasanten Abfahrt zurück ins Dorf, gerade rechtzeitig zum Sonnenuntergang.",
             "hu": "Egy tiszta téli reggelen a tekerés Cadaqués-ben tiszta élvezet autóforgalom nélkül. Délben az út napsütötte dombokon vezet, kilátással a mélykék Földközi-tengerre. Délután elérjük a fokot, ahol a hideg szél felfrissíti az érzékeket. Az este gyors gurulással zárul vissza a faluba, épp időben a naplementéhez.",
             "ro": "Într-o dimineață senină de iarnă, pedalatul prin Cadaqués este o plăcere fără trafic. La prânz, traseul ne poartă pe dealuri însorite cu vedere la Mediterana albastru închis. După-amiaza ajungem la cap, unde vântul rece ne ascute simțurile. Seara se încheie cu o coborâre rapidă în sat, la timp pentru apus.",
-            "en": "On a clear winter morning, cycling through Cadaqués is a pure joy without the traffic jams. At noon, the route takes us over sunny hills with views of the deep blue Mediterranean. In the afternoon, we reach the cape, where the cold wind sharpens the senses. The evening ends with a swift descent back to the village, just in time for sunset."
+            "en": "On a clear winter morning, cycling through Cadaqués is a pure joy without the traffic jams. At noon, the route takes us over sunny hills with views of the deep blue Mediterranean. In the afternoon, we reach the cape, where the cold wind sharpens the senses. The evening ends with a swift descent back to the village, just in time for sunset.",
+            "es": "En una mañana clara de invierno, pedalear por Cadaqués es un gozo sin atascos. Al mediodía, la ruta nos lleva por colinas soleadas con vistas del azul profundo del Mediterráneo. Por la tarde llegamos al cabo, donde el viento frío agudiza los sentidos. La noche termina con un rápido descenso de vuelta al pueblo, justo a tiempo para el atardecer."
           },
           "stops": [
             {
@@ -1082,7 +1167,8 @@
                 "de": "Tragen Sie Schichten; die schattigen Gassen sind deutlich kühler.",
                 "hu": "Öltözzön rétegesen; az árnyékos szűk utcák jóval hűvösebbek.",
                 "ro": "Purtați straturi; străzile umbrite sunt mult mai reci.",
-                "en": "Dress in layers; the shaded alleys are significantly cooler."
+                "en": "Dress in layers; the shaded alleys are significantly cooler.",
+                "es": "Vístete por capas; los callejones sombreados son notablemente más fríos."
               }
             },
             {
@@ -1091,7 +1177,8 @@
                 "de": "Kurze Pause zum Aufwärmen in der Wintersonne direkt am Meer.",
                 "hu": "Rövid pihenő a téli napsütésben való melegedéshez a tengerparton.",
                 "ro": "Scurtă pauză pentru încălzire la soarele de iarnă de lângă mare.",
-                "en": "Short break to warm up in the winter sun right by the sea."
+                "en": "Short break to warm up in the winter sun right by the sea.",
+                "es": "Breve descanso para calentarse al sol invernal junto al mar."
               }
             },
             {
@@ -1100,7 +1187,8 @@
                 "de": "Ein Buff oder Halstuch ist gegen den schneidenden Wind am Kap ratsam.",
                 "hu": "Csősál vagy maszk ajánlott a foknál metsző szél ellen.",
                 "ro": "Un fular tip buff este recomandat împotriva vântului tăios de la cap.",
-                "en": "A buff or neck warmer is advised against the biting wind at the cape."
+                "en": "A buff or neck warmer is advised against the biting wind at the cape.",
+                "es": "Se aconseja un tubular o braga para el cuello contra el viento cortante del cabo."
               }
             },
             {
@@ -1109,7 +1197,8 @@
                 "de": "Die winterliche Fernsicht von hier oben ist oft atemberaubend klar.",
                 "hu": "A téli kilátás innen gyakran lélegzetelállítóan tiszta.",
                 "ro": "Vizibilitatea de iarnă de aici este adesea incredibil de clară.",
-                "en": "The winter visibility from up here is often breathtakingly clear."
+                "en": "The winter visibility from up here is often breathtakingly clear.",
+                "es": "La visibilidad invernal desde aquí suele ser espectacularmente clara."
               }
             },
             {
@@ -1118,7 +1207,8 @@
                 "de": "Ab 17:00 Uhr sinken die Temperaturen stark; beeilen Sie sich zurück.",
                 "hu": "17:00 után a hőmérséklet gyorsan esik; igyekezzen vissza.",
                 "ro": "După ora 17:00 temperaturile scad brusc; grăbiți-vă înapoi.",
-                "en": "After 17:00 temperatures drop sharply; head back quickly."
+                "en": "After 17:00 temperatures drop sharply; head back quickly.",
+                "es": "Después de las 17:00 la temperatura baja bruscamente; regresa rápido."
               }
             }
           ],
@@ -1146,6 +1236,12 @@
               "Watch out for icy patches in shaded dips during the morning.",
               "Afternoon light is perfect for capturing panoramic photos.",
               "The Tramuntana can make cycling at the cape dangerous; check wind forecast."
+            ],
+            "es": [
+              "Guantes cálidos son esenciales para los descensos invernales.",
+              "Cuidado con las placas de hielo en las hondonadas en sombra por la mañana.",
+              "La luz de la tarde es perfecta para capturar fotos panorámicas.",
+              "La Tramuntana puede hacer peligroso el ciclismo en el cabo; consulta la previsión de viento."
             ]
           }
         }
@@ -1174,7 +1270,8 @@
             "de": "Parken Sie auf dem großen Parkplatz am Eingang von Cadaqués.",
             "hu": "Parkoljon a Cadaqués bejáratánál lévő nagy parkolóban.",
             "ro": "Parcați în parcarea mare de la intrarea în Cadaqués.",
-            "en": "Park in the large parking lot at the entrance of Cadaqués."
+            "en": "Park in the large parking lot at the entrance of Cadaqués.",
+            "es": "Aparca en el gran aparcamiento a la entrada de Cadaqués."
           }
         },
         {
@@ -1192,7 +1289,8 @@
             "de": "Besuchen Sie das geologische Informationszentrum.",
             "hu": "Látogassa meg a geológiai információs központot.",
             "ro": "Vizitați centrul de informare geologică.",
-            "en": "Visit the geological information center."
+            "en": "Visit the geological information center.",
+            "es": "Visita el centro de interpretación geológica."
           }
         },
         {
@@ -1210,7 +1308,8 @@
             "de": "Genießen Sie die Aussicht auf die Olivenhaine.",
             "hu": "Élvezze az olajfaligetekre nyíló kilátást.",
             "ro": "Bucurați-vă de vederea spre plantațiile de măslini.",
-            "en": "Enjoy the view over the olive groves."
+            "en": "Enjoy the view over the olive groves.",
+            "es": "Disfruta de las vistas sobre los olivares."
           }
         },
         {
@@ -1228,7 +1327,8 @@
             "de": "Zu Fuß erkunden, nachdem das Auto geparkt wurde.",
             "hu": "Gyalog fedezze fel, miután leparkolta az autót.",
             "ro": "Explorați pe jos după ce ați parcat mașina.",
-            "en": "Explore on foot after parking the car."
+            "en": "Explore on foot after parking the car.",
+            "es": "Explora a pie después de aparcar el coche."
           }
         },
         {
@@ -1246,7 +1346,8 @@
             "de": "Ein letztes Eis an der Promenade.",
             "hu": "Egy utolsó fagylalt a sétányon.",
             "ro": "O ultimă înghețată pe faleză.",
-            "en": "A final ice cream on the promenade."
+            "en": "A final ice cream on the promenade.",
+            "es": "Un último helado en el paseo marítimo."
           }
         }
       ],
@@ -1254,7 +1355,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die Casa Dalí in Portlligat und den atemberaubenden Leuchtturm von Cap de Creus. Nach der Rückkehr in die Stadt erkunden Sie die historische Altstadt zu Fuß und lassen den Tag entspannt am Meer ausklingen.",
         "hu": "Autóval kényelmesen elérheti a Portlligat-i Dalí-házat és a lélegzetelállító Cap de Creus világítótornyot. A városba visszatérve gyalog fedezze fel a történelmi óvárost, majd zárja a napot a tengerparton.",
         "ro": "Cu mașina puteți ajunge ușor la Casa Dalí din Portlligat și la uimitorul far Cap de Creus. După revenirea în oraș, explorați centrul istoric pe jos și încheiați ziua relaxându-vă lângă mare.",
-        "en": "By car, you can easily reach the Dalí House in Portlligat and the breathtaking Cap de Creus lighthouse. After returning to town, explore the historic old town on foot and end your day relaxing by the sea."
+        "en": "By car, you can easily reach the Dalí House in Portlligat and the breathtaking Cap de Creus lighthouse. After returning to town, explore the historic old town on foot and end your day relaxing by the sea.",
+        "es": "En coche puedes llegar fácilmente a la Casa-Museo Dalí en Portlligat y al espectacular faro del Cap de Creus. Tras volver al pueblo, explora el casco histórico a pie y termina el día descansando junto al mar."
       },
       "gastro_picks": {
         "de": [
@@ -1358,6 +1460,11 @@
           "The road to Cadaqués is very winding.",
           "In summer, car access to Cap de Creus is often restricted.",
           "Use the shuttle bus to the cape if necessary."
+        ],
+        "es": [
+          "La carretera a Cadaqués es muy sinuosa.",
+          "En verano, el acceso en coche al Cap de Creus suele estar restringido.",
+          "Usa el bus lanzadera al cabo si es necesario."
         ]
       },
       "variants": {
@@ -1366,7 +1473,8 @@
             "de": "Mit dem Auto erreichen Sie bequem die Casa Dalí in Portlligat und den atemberaubenden Leuchtturm von Cap de Creus. Nach der Rückkehr in die Stadt erkunden Sie die historische Altstadt zu Fuß und lassen den Tag entspannt am Meer ausklingen.",
             "hu": "Autóval kényelmesen elérheti a Portlligat-i Dalí-házat és a lélegzetelállító Cap de Creus világítótornyot. A városba visszatérve gyalog fedezze fel a történelmi óvárost, majd zárja a napot a tengerparton.",
             "ro": "Cu mașina puteți ajunge ușor la Casa Dalí din Portlligat și la uimitorul far Cap de Creus. După revenirea în oraș, explorați centrul istoric pe jos și încheiați ziua relaxându-vă lângă mare.",
-            "en": "By car, you can easily reach the Dalí House in Portlligat and the breathtaking Cap de Creus lighthouse. After returning to town, explore the historic old town on foot and end your day relaxing by the sea."
+            "en": "By car, you can easily reach the Dalí House in Portlligat and the breathtaking Cap de Creus lighthouse. After returning to town, explore the historic old town on foot and end your day relaxing by the sea.",
+            "es": "En coche puedes llegar fácilmente a la Casa-Museo Dalí en Portlligat y al espectacular faro del Cap de Creus. Tras volver al pueblo, explora el casco histórico a pie y termina el día descansando junto al mar."
           },
           "stops": [
             {
@@ -1375,7 +1483,8 @@
                 "de": "Parken Sie auf dem großen Parkplatz am Eingang von Cadaqués.",
                 "hu": "Parkoljon a Cadaqués bejáratánál lévő nagy parkolóban.",
                 "ro": "Parcați în parcarea mare de la intrarea în Cadaqués.",
-                "en": "Park in the large parking lot at the entrance of Cadaqués."
+                "en": "Park in the large parking lot at the entrance of Cadaqués.",
+                "es": "Aparca en el gran aparcamiento a la entrada de Cadaqués."
               }
             },
             {
@@ -1384,7 +1493,8 @@
                 "de": "Besuchen Sie das geologische Informationszentrum.",
                 "hu": "Látogassa meg a geológiai információs központot.",
                 "ro": "Vizitați centrul de informare geologică.",
-                "en": "Visit the geological information center."
+                "en": "Visit the geological information center.",
+                "es": "Visita el centro de interpretación geológica."
               }
             },
             {
@@ -1393,7 +1503,8 @@
                 "de": "Genießen Sie die Aussicht auf die Olivenhaine.",
                 "hu": "Élvezze az olajfaligetekre nyíló kilátást.",
                 "ro": "Bucurați-vă de vederea spre plantațiile de măslini.",
-                "en": "Enjoy the view over the olive groves."
+                "en": "Enjoy the view over the olive groves.",
+                "es": "Disfruta de las vistas sobre los olivares."
               }
             },
             {
@@ -1402,7 +1513,8 @@
                 "de": "Zu Fuß erkunden, nachdem das Auto geparkt wurde.",
                 "hu": "Gyalog fedezze fel, miután leparkolta az autót.",
                 "ro": "Explorați pe jos după ce ați parcat mașina.",
-                "en": "Explore on foot after parking the car."
+                "en": "Explore on foot after parking the car.",
+                "es": "Explora a pie después de aparcar el coche."
               }
             },
             {
@@ -1411,7 +1523,8 @@
                 "de": "Ein letztes Eis an der Promenade.",
                 "hu": "Egy utolsó fagylalt a sétányon.",
                 "ro": "O ultimă înghețată pe faleză.",
-                "en": "A final ice cream on the promenade."
+                "en": "A final ice cream on the promenade.",
+                "es": "Un último helado en el paseo marítimo."
               }
             }
           ],
@@ -1517,6 +1630,11 @@
               "The road to Cadaqués is very winding.",
               "In summer, car access to Cap de Creus is often restricted.",
               "Use the shuttle bus to the cape if necessary."
+            ],
+            "es": [
+              "La carretera a Cadaqués es muy sinuosa.",
+              "En verano, el acceso en coche al Cap de Creus suele estar restringido.",
+              "Usa el bus lanzadera al cabo si es necesario."
             ]
           }
         },
@@ -1525,7 +1643,8 @@
             "de": "Wir starten den Morgen gemütlich bei Dalís Haus, wo das Auto uns trocken hält. Mittags fahren wir zum sturmgepeitschten Cap de Creus und beobachten das Meer aus der Sicherheit des Wagens. Nachmittags geht es zurück ins Dorf für einen Besuch in der Kirche und im Barri Vell. Der Tag endet am regnerischen Strand, während wir in einem Restaurant am Wasser speisen.",
             "hu": "A reggelt kényelmesen indítjuk Dalí házánál, autónk védelmében az eső elől. Délben a viharos Cap de Creus-höz hajtunk, a kocsi biztonságából figyelve a hullámokat. Délután visszatérünk a faluba a templom és a Barri Vell megtekintésére. A nap a vizes tengerparton zárul, egy vízparti étterem asztalánál.",
             "ro": "Începem dimineața confortabil la casa lui Dalí, unde mașina ne ferește de ploaie. La prânz conducem spre Cap de Creus bătut de furtună, observând marea din siguranța vehiculului. După-amiaza ne întoarcem în sat pentru biserică și Barri Vell. Ziua se încheie pe faleza plină de ploaie, cinând la un restaurant la malul apei.",
-            "en": "We start the morning comfortably at Dalí's house, kept dry by our car. At noon, we drive to the storm-lashed Cap de Creus, watching the sea from the safety of the vehicle. In the afternoon, we head back to the village for the church and Barri Vell. The day concludes at the rainy beach, dining in a restaurant by the water."
+            "en": "We start the morning comfortably at Dalí's house, kept dry by our car. At noon, we drive to the storm-lashed Cap de Creus, watching the sea from the safety of the vehicle. In the afternoon, we head back to the village for the church and Barri Vell. The day concludes at the rainy beach, dining in a restaurant by the water.",
+            "es": "Empezamos la mañana cómodamente en la casa de Dalí, protegidos dentro del coche. Al mediodía conducimos hasta el ventoso Cap de Creus, contemplando el mar desde la seguridad del vehículo. Por la tarde regresamos al pueblo para la iglesia y el Barri Vell. El día concluye en la playa lluviosa, cenando en un restaurante junto al agua."
           },
           "stops": [
             {
@@ -1534,7 +1653,8 @@
                 "de": "Nutzen Sie den Parkplatz direkt bei Portlligat, um den Fußweg im Regen zu minimieren.",
                 "hu": "Használja a Portlligat melletti parkolót az esős séta lerövidítésére.",
                 "ro": "Folosiți parcarea direct de la Portlligat pentru a minimiza mersul pe ploaie.",
-                "en": "Use the parking lot right at Portlligat to minimize walking in the rain."
+                "en": "Use the parking lot right at Portlligat to minimize walking in the rain.",
+                "es": "Usa el aparcamiento junto a Portlligat para minimizar los paseos bajo la lluvia."
               }
             },
             {
@@ -1543,7 +1663,8 @@
                 "de": "Die Straße ist schmal und kurvig; bei Starkregen langsam fahren.",
                 "hu": "Az út keskeny és kanyargós; heves esőben vezessen lassan.",
                 "ro": "Drumul este îngust și virajat; conduceți încet pe ploaie torențială.",
-                "en": "The road is narrow and winding; drive slowly in heavy rain."
+                "en": "The road is narrow and winding; drive slowly in heavy rain.",
+                "es": "La carretera es estrecha y sinuosa; conduce despacio con lluvia intensa."
               }
             },
             {
@@ -1552,7 +1673,8 @@
                 "de": "Der Boden kann aufgeweicht sein; parken Sie nur auf befestigtem Untergrund.",
                 "hu": "A talaj felázhat; csak szilárd burkolaton parkoljon.",
                 "ro": "Solul poate fi moale; parcați doar pe suprafețe pavate.",
-                "en": "Ground might be soft; park only on paved surfaces."
+                "en": "Ground might be soft; park only on paved surfaces.",
+                "es": "El terreno puede estar blando; aparca solo sobre superficies pavimentadas."
               }
             },
             {
@@ -1561,7 +1683,8 @@
                 "de": "Parken Sie im großen Parkplatz am Ortseingang und nutzen Sie einen Schirm.",
                 "hu": "Parkoljon a falu széli nagy parkolóban, és használjon esernyőt.",
                 "ro": "Parcați în parcarea mare de la intrarea în sat și folosiți umbrela.",
-                "en": "Park in the large lot at the entrance and use an umbrella."
+                "en": "Park in the large lot at the entrance and use an umbrella.",
+                "es": "Aparca en el gran parking de la entrada y usa un paraguas."
               }
             },
             {
@@ -1570,7 +1693,8 @@
                 "de": "Lassen Sie keine Wertsachen im Wagen, auch wenn es regnet.",
                 "hu": "Ne hagyjon értéket az autóban, még esőben sem.",
                 "ro": "Nu lăsați obiecte de valoare în mașină, chiar dacă plouă.",
-                "en": "Don't leave valuables in the car, even if it's raining."
+                "en": "Don't leave valuables in the car, even if it's raining.",
+                "es": "No dejes objetos de valor en el coche, aunque llueva."
               }
             }
           ],
@@ -1598,6 +1722,12 @@
               "Parking garages are a drier alternative to street parking during rain.",
               "Check your wipers before driving through the coastal mountains.",
               "Avoid parking in low-lying areas if there is a flash flood warning."
+            ],
+            "es": [
+              "La carretera de montaña hacia Cadaqués puede ser complicada con niebla.",
+              "Los parkings cubiertos son una alternativa más seca al aparcamiento en la calle durante la lluvia.",
+              "Revisa los limpiaparabrisas antes de conducir por las montañas costeras.",
+              "Evita aparcar en zonas bajas si hay aviso de tromba de agua."
             ]
           }
         },
@@ -1606,7 +1736,8 @@
             "de": "Im Winter ist Cadaqués mit dem Auto ein Traum, da man überall einen Parkplatz findet. Morgens besuchen wir das Dalí-Haus ohne den Sommertrubel. Mittags genießen wir die Fahrt zum einsamen Kap. Nachmittags erkunden wir das Dorfzentrum und die Eremitage bei strahlendem Sonnenschein. Der Abend bietet ein gemütliches Abendessen mit Blick auf die beleuchtete Bucht.",
             "hu": "Télen Cadaqués autóval álomszerű, hiszen mindenhol találunk parkolót. Reggel Dalí házát látogatjuk meg a nyári zsibongás nélkül. Délben a magányos fokhoz autózunk. Délután a faluközpontot és a remetelakot fedezzük fel ragyogó napsütésben. Az este hangulatos vacsorát kínál a kivilágított öbölre nézve.",
             "ro": "Iarna, Cadaqués cu mașina este un vis, deoarece găsești parcare oriunde. Dimineața vizităm casa lui Dalí fără agitația verii. La prânz ne bucurăm de drumul spre capul solitar. După-amiaza explorăm centrul satului și schitul sub soarele strălucitor. Seara oferă o cină plăcută cu vedere la golful iluminat.",
-            "en": "In winter, Cadaqués by car is a dream as parking is plentiful. Morning starts at Dalí's house without the summer crowds. At noon, we enjoy a drive to the lonely cape. Afternoon is spent exploring the village center and the hermitage in bright sunshine. The evening offers a cozy dinner overlooking the illuminated bay."
+            "en": "In winter, Cadaqués by car is a dream as parking is plentiful. Morning starts at Dalí's house without the summer crowds. At noon, we enjoy a drive to the lonely cape. Afternoon is spent exploring the village center and the hermitage in bright sunshine. The evening offers a cozy dinner overlooking the illuminated bay.",
+            "es": "En invierno, Cadaqués en coche es un sueño: hay abundante aparcamiento. La mañana empieza en la casa de Dalí sin las aglomeraciones veraniegas. Al mediodía disfrutamos de un paseo hasta el cabo solitario. La tarde se dedica a explorar el centro del pueblo y la ermita con un sol radiante. La noche ofrece una cena acogedora con vistas a la bahía iluminada."
           },
           "stops": [
             {
@@ -1615,7 +1746,8 @@
                 "de": "Die Heizung im Wagen macht die Anfahrt in den kühlen Morgenstunden angenehm.",
                 "hu": "Az autó fűtése kellemessé teszi a hideg reggeli indulást.",
                 "ro": "Căldura din mașină face drumul plăcut în orele reci ale dimineții.",
-                "en": "Car heating makes the drive pleasant in the cool morning hours."
+                "en": "Car heating makes the drive pleasant in the cool morning hours.",
+                "es": "La calefacción del coche hace el trayecto agradable en las frías horas matinales."
               }
             },
             {
@@ -1624,7 +1756,8 @@
                 "de": "Im Winter sind die Parkplätze am Leuchtturm meist kostenlos und leer.",
                 "hu": "Télen a világítótoronynál a parkolás általában ingyenes és üres.",
                 "ro": "Iarna, parcările de la far sunt de obicei gratuite și goale.",
-                "en": "In winter, parking spaces at the lighthouse are usually free and empty."
+                "en": "In winter, parking spaces at the lighthouse are usually free and empty.",
+                "es": "En invierno los aparcamientos del faro suelen estar libres y vacíos."
               }
             },
             {
@@ -1633,7 +1766,8 @@
                 "de": "Die Wintersonne steht tief; nutzen Sie die Sonnenblende bei der Fahrt.",
                 "hu": "A téli nap alacsonyan jár; használja a napellenzőt vezetés közben.",
                 "ro": "Soarele de iarnă este jos; folosiți parasolarul în timpul condusului.",
-                "en": "The winter sun is low; use your sun visor while driving."
+                "en": "The winter sun is low; use your sun visor while driving.",
+                "es": "El sol de invierno está bajo; usa la visera mientras conduces."
               }
             },
             {
@@ -1642,7 +1776,8 @@
                 "de": "Das Befahren der engsten Gassen ist auch im Winter für Nicht-Anwohner untersagt.",
                 "hu": "A legszűkebb utcákba való behajtás télen is tilos a nem helyieknek.",
                 "ro": "Accesul auto pe străzile foarte înguste este interzis și iarna pentru nerezidenți.",
-                "en": "Driving into the narrowest alleys is prohibited even in winter for non-residents."
+                "en": "Driving into the narrowest alleys is prohibited even in winter for non-residents.",
+                "es": "Está prohibido entrar con vehículo en los callejones más estrechos incluso en invierno si no eres residente."
               }
             },
             {
@@ -1651,7 +1786,8 @@
                 "de": "Genießen Sie den Blick auf das Meer aus dem warmen Auto bei Sonnenuntergang.",
                 "hu": "Élvezze a tenger látványát a meleg autóból naplementekor.",
                 "ro": "Bucurați-vă de vederea mării din mașina caldă la apus.",
-                "en": "Enjoy the sea view from your warm car during sunset."
+                "en": "Enjoy the sea view from your warm car during sunset.",
+                "es": "Disfruta de la vista al mar desde tu coche calentito al atardecer."
               }
             }
           ],
@@ -1679,6 +1815,12 @@
               "The Tramuntana wind can affect the stability of high-profile vehicles.",
               "Some mountain roads can be slick in the morning; be careful in hollows.",
               "Sea light reflections are particularly intense during winter months."
+            ],
+            "es": [
+              "Aprovecha la temporada baja para conducir con tranquilidad sin el estrés del aparcamiento.",
+              "El viento de la Tramuntana puede afectar la estabilidad de vehículos de gran altura.",
+              "Algunas carreteras de montaña pueden estar resbaladizas por la mañana; ten cuidado en las hondonadas.",
+              "Los reflejos del sol sobre el mar son especialmente intensos durante los meses de invierno."
             ]
           }
         }
@@ -1707,7 +1849,8 @@
             "de": "Beginnen Sie am Hauptbusbahnhof.",
             "hu": "Kezdje a fő buszállomásnál.",
             "ro": "Începeți de la autogara principală.",
-            "en": "Start at the main bus station."
+            "en": "Start at the main bus station.",
+            "es": "Comienza en la estación de autobuses principal."
           }
         },
         {
@@ -1725,7 +1868,8 @@
             "de": "Kurzer Spaziergang bergauf vom Zentrum.",
             "hu": "Rövid séta felfelé a központból.",
             "ro": "Scurtă plimbare la deal din centru.",
-            "en": "Short walk uphill from the center."
+            "en": "Short walk uphill from the center.",
+            "es": "Corta subida a pie desde el centro."
           }
         },
         {
@@ -1743,7 +1887,8 @@
             "de": "Direkt an der Strandpromenade gelegen.",
             "hu": "Közvetlenül a tengerparti sétányon.",
             "ro": "Situat chiar pe faleză.",
-            "en": "Located right on the seaside promenade."
+            "en": "Located right on the seaside promenade.",
+            "es": "Situado justo en el paseo marítimo."
           }
         },
         {
@@ -1761,7 +1906,8 @@
             "de": "Zentraler Treffpunkt für alle Aktivitäten.",
             "hu": "Központi találkozóhely minden tevékenységhez.",
             "ro": "Punct de întâlnire central pentru toate activitățile.",
-            "en": "Central meeting point for all activities."
+            "en": "Central meeting point for all activities.",
+            "es": "Punto de encuentro central para todas las actividades."
           }
         },
         {
@@ -1779,7 +1925,8 @@
             "de": "Nehmen Sie den kleinen Touristenzug (Trenet) nach Portlligat.",
             "hu": "Szálljon fel a kis turistavonatra (Trenet) Portlligat felé.",
             "ro": "Luați trenulețul turistic (Trenet) spre Portlligat.",
-            "en": "Take the small tourist train (Trenet) to Portlligat."
+            "en": "Take the small tourist train (Trenet) to Portlligat.",
+            "es": "Toma el pequeño tren turístico (Trenet) hasta Portlligat."
           }
         }
       ],
@@ -1787,7 +1934,8 @@
         "de": "Entdecken Sie Cadaqués mit öffentlichen Mitteln und dem touristischen 'Trenet'. Besuchen Sie die Altstadt und die Kirche Santa Maria, schlendern Sie am Monument Dalís vorbei zur Platja Gran und fahren Sie schließlich mit dem Trenet zum Dalí-Haus in Portlligat.",
         "hu": "Fedezze fel Cadaquést tömegközlekedéssel és a turisztikai 'Trenet' kisvonattal. Látogassa meg az óvárost és a Santa Maria templomot, sétáljon el Dalí emlékműve mellett a Platja Gran-ra, majd utazzon Portlligatba.",
         "ro": "Descoperiți Cadaqués folosind transportul public și trenulețul turistic 'Trenet'. Vizitați centrul vechi și biserica Santa Maria, plimbați-vă pe lângă monumentul lui Dalí spre Platja Gran și mergeți la Casa Dalí.",
-        "en": "Discover Cadaqués using public transport and the tourist 'Trenet'. Visit the old town and Santa Maria church, stroll past Dalí's monument to Platja Gran, and finally ride to the Dalí House in Portlligat."
+        "en": "Discover Cadaqués using public transport and the tourist 'Trenet'. Visit the old town and Santa Maria church, stroll past Dalí's monument to Platja Gran, and finally ride to the Dalí House in Portlligat.",
+        "es": "Descubre Cadaqués usando transporte público y el Trenet turístico. Visita el casco antiguo y la iglesia de Santa María, pasea junto al monumento a Dalí en Platja Gran y, por último, toma el tren hasta la Casa-Museo Dalí en Portlligat."
       },
       "gastro_picks": {
         "de": [
@@ -1891,6 +2039,11 @@
           "The Trenet tourist bus is a good option for Portlligat.",
           "Buses from Figueres or Roses arrive at the main terminal.",
           "Everything in the village is within a 15-minute walk."
+        ],
+        "es": [
+          "El Trenet turístico es una buena opción para ir a Portlligat.",
+          "Los autobuses desde Figueres o Roses llegan a la terminal principal.",
+          "Todo en el pueblo está a menos de 15 minutos a pie."
         ]
       },
       "variants": {
@@ -1899,7 +2052,8 @@
             "de": "Entdecken Sie Cadaqués mit öffentlichen Mitteln und dem touristischen 'Trenet'. Besuchen Sie die Altstadt und die Kirche Santa Maria, schlendern Sie am Monument Dalís vorbei zur Platja Gran und fahren Sie schließlich mit dem Trenet zum Dalí-Haus in Portlligat.",
             "hu": "Fedezze fel Cadaquést tömegközlekedéssel és a turisztikai 'Trenet' kisvonattal. Látogassa meg az óvárost és a Santa Maria templomot, sétáljon el Dalí emlékműve mellett a Platja Gran-ra, majd utazzon Portlligatba.",
             "ro": "Descoperiți Cadaqués folosind transportul public și trenulețul turistic 'Trenet'. Vizitați centrul vechi și biserica Santa Maria, plimbați-vă pe lângă monumentul lui Dalí spre Platja Gran și mergeți la Casa Dalí.",
-            "en": "Discover Cadaqués using public transport and the tourist 'Trenet'. Visit the old town and Santa Maria church, stroll past Dalí's monument to Platja Gran, and finally ride to the Dalí House in Portlligat."
+            "en": "Discover Cadaqués using public transport and the tourist 'Trenet'. Visit the old town and Santa Maria church, stroll past Dalí's monument to Platja Gran, and finally ride to the Dalí House in Portlligat.",
+            "es": "Descubre Cadaqués usando transporte público y el Trenet turístico. Visita el casco antiguo y la iglesia de Santa María, pasea junto al monumento a Dalí en Platja Gran y, por último, toma el tren hasta la Casa-Museo Dalí en Portlligat."
           },
           "stops": [
             {
@@ -1908,7 +2062,8 @@
                 "de": "Beginnen Sie am Hauptbusbahnhof.",
                 "hu": "Kezdje a fő buszállomásnál.",
                 "ro": "Începeți de la autogara principală.",
-                "en": "Start at the main bus station."
+                "en": "Start at the main bus station.",
+                "es": "Comienza en la estación de autobuses principal."
               }
             },
             {
@@ -1917,7 +2072,8 @@
                 "de": "Kurzer Spaziergang bergauf vom Zentrum.",
                 "hu": "Rövid séta felfelé a központból.",
                 "ro": "Scurtă plimbare la deal din centru.",
-                "en": "Short walk uphill from the center."
+                "en": "Short walk uphill from the center.",
+                "es": "Corta subida a pie desde el centro."
               }
             },
             {
@@ -1926,7 +2082,8 @@
                 "de": "Direkt an der Strandpromenade gelegen.",
                 "hu": "Közvetlenül a tengerparti sétányon.",
                 "ro": "Situat chiar pe faleză.",
-                "en": "Located right on the seaside promenade."
+                "en": "Located right on the seaside promenade.",
+                "es": "Situado justo en el paseo marítimo."
               }
             },
             {
@@ -1935,7 +2092,8 @@
                 "de": "Zentraler Treffpunkt für alle Aktivitäten.",
                 "hu": "Központi találkozóhely minden tevékenységhez.",
                 "ro": "Punct de întâlnire central pentru toate activitățile.",
-                "en": "Central meeting point for all activities."
+                "en": "Central meeting point for all activities.",
+                "es": "Punto de encuentro central para todas las actividades."
               }
             },
             {
@@ -1944,7 +2102,8 @@
                 "de": "Nehmen Sie den kleinen Touristenzug (Trenet) nach Portlligat.",
                 "hu": "Szálljon fel a kis turistavonatra (Trenet) Portlligat felé.",
                 "ro": "Luați trenulețul turistic (Trenet) spre Portlligat.",
-                "en": "Take the small tourist train (Trenet) to Portlligat."
+                "en": "Take the small tourist train (Trenet) to Portlligat.",
+                "es": "Toma el pequeño tren turístico (Trenet) hasta Portlligat."
               }
             }
           ],
@@ -2050,6 +2209,11 @@
               "The Trenet tourist bus is a good option for Portlligat.",
               "Buses from Figueres or Roses arrive at the main terminal.",
               "Everything in the village is within a 15-minute walk."
+            ],
+            "es": [
+              "El Trenet turístico es una buena opción para ir a Portlligat.",
+              "Los autobuses desde Figueres o Roses llegan a la terminal principal.",
+              "Todo en el pueblo está a menos de 15 minutos a pie."
             ]
           }
         },
@@ -2058,7 +2222,8 @@
             "de": "Morgens nutzen wir den lokalen Bus, um trocken ins Barri Vell zu gelangen. Mittags flüchten wir vor dem Regen in die beeindruckende Kirche. Nachmittags führt uns der Weg per Transit zum Dalí-Haus, wo wir die surrealen Innenräume erkunden. Den Abend verbringen wir geschützt in einem der Museen, bevor uns der Bus zurückbringt.",
             "hu": "Reggel a helyi busszal érkezünk szárazon a Barri Vell-be. Délben az eső elől a lenyűgöző templomba húzódunk. Délután tömegközlekedéssel utazunk Dalí házához, ahol a szürreális belső tereket fedezzük fel. Az estét védett múzeumi környezetben töltjük, mielőtt a busz hazavinne.",
             "ro": "Dimineața folosim autobuzul local pentru a ajunge uscați în Barri Vell. La prânz ne adăpostim de ploaie în biserica impresionantă. După-amiaza mergem cu transportul public la casa lui Dalí pentru a explora interioarele suprarealiste. Seara o petrecem protejați în muzee înainte de întoarcere.",
-            "en": "In the morning, we use the local bus to reach Barri Vell while staying dry. At noon, we take shelter from the rain inside the impressive church. In the afternoon, transit takes us to Dalí's house to explore its surreal interiors. The evening is spent safely inside museums before catching the bus back."
+            "en": "In the morning, we use the local bus to reach Barri Vell while staying dry. At noon, we take shelter from the rain inside the impressive church. In the afternoon, transit takes us to Dalí's house to explore its surreal interiors. The evening is spent safely inside museums before catching the bus back.",
+            "es": "Por la mañana usamos el autobús local para llegar al Barri Vell y mantenernos secos. Al mediodía nos refugiamos de la lluvia dentro de la imponente iglesia. Por la tarde el tránsito nos lleva a la casa de Dalí para explorar sus interiores surrealistas. La noche se pasa dentro de los museos antes de tomar el autobús de vuelta."
           },
           "stops": [
             {
@@ -2067,7 +2232,8 @@
                 "de": "Warten Sie unter den Vordächern der Geschäfte auf den Busanschluss.",
                 "hu": "Várjon az üzletek előtetői alatt a buszcsatlakozásra.",
                 "ro": "Așteptați sub copertinele magazinelor pentru legătura de autobuz.",
-                "en": "Wait under shop awnings for your bus connection."
+                "en": "Wait under shop awnings for your bus connection.",
+                "es": "Espera bajo los toldos de las tiendas para la conexión de autobús."
               }
             },
             {
@@ -2076,7 +2242,8 @@
                 "de": "Die Bushaltestelle liegt nur wenige Gehminuten entfernt; Schirm bereithalten.",
                 "hu": "A buszmegálló pár perc séta; tartsa készenlétben az esernyőt.",
                 "ro": "Stația de autobuz este la câteva minute de mers; aveți umbrela gata.",
-                "en": "The bus stop is just a few minutes' walk away; keep an umbrella handy."
+                "en": "The bus stop is just a few minutes' walk away; keep an umbrella handy.",
+                "es": "La parada de autobús está a pocos minutos a pie; lleva un paraguas."
               }
             },
             {
@@ -2085,7 +2252,8 @@
                 "de": "In der Nähe gibt es überdachte Wartebereiche an der Hafenmauer.",
                 "hu": "A közelben fedett várakozóhelyek vannak a kikötői gát mentén.",
                 "ro": "Există zone de așteptare acoperite în apropiere, pe digul portului.",
-                "en": "There are covered waiting areas nearby along the harbor wall."
+                "en": "There are covered waiting areas nearby along the harbor wall.",
+                "es": "Hay zonas de espera cubiertas cerca, a lo largo del muro del puerto."
               }
             },
             {
@@ -2094,7 +2262,8 @@
                 "de": "Der Hauptbusbahnhof bietet Schutz vor Wind und Wetter.",
                 "hu": "A fő buszpályaudvar védelmet nyújt a szél és az eső elől.",
                 "ro": "Autogara principală oferă protecție împotriva vântului și ploii.",
-                "en": "The main bus station provides shelter from wind and rain."
+                "en": "The main bus station provides shelter from wind and rain.",
+                "es": "La estación de autobuses principal ofrece refugio contra el viento y la lluvia."
               }
             },
             {
@@ -2103,7 +2272,8 @@
                 "de": "Der Portlligat-Shuttle hält fast direkt vor dem Eingang; ideal bei Regen.",
                 "hu": "A Portlligat-járat szinte a bejárat előtt áll meg; esőben ideális.",
                 "ro": "Naveta Portlligat oprește aproape direct în fața intrării; ideal pe ploaie.",
-                "en": "The Portlligat shuttle stops almost right in front of the entrance; ideal for rain."
+                "en": "The Portlligat shuttle stops almost right in front of the entrance; ideal for rain.",
+                "es": "El lanzadera a Portlligat para casi en la entrada; ideal para la lluvia."
               }
             }
           ],
@@ -2131,6 +2301,12 @@
               "Avoid waiting at unsheltered stops directly by the sea.",
               "Buses may run slower in the rain due to mountain road conditions.",
               "Have small change or a card ready for buying tickets from the driver."
+            ],
+            "es": [
+              "Consulta la app en tiempo real por posibles retrasos de autobús con mal tiempo.",
+              "Evita esperar en paradas sin cobertura junto al mar.",
+              "Los autobuses pueden tardar más con lluvia debido a las condiciones de las carreteras de montaña.",
+              "Ten cambio pequeño o tarjeta preparada para comprar billetes al conductor."
             ]
           }
         },
@@ -2139,7 +2315,8 @@
             "de": "Ein ruhiger Wintermorgen in Cadaqués beginnt mit einer entspannten Busfahrt ins Zentrum. Mittags erkunden wir die historischen Stätten, während die Wintersonne tief steht. Nachmittags nehmen wir den Bus nach Portlligat, um Dalís Erbe ohne Touristenschlangen zu sehen. Der Abend klingt im Dorf aus, bevor uns der letzte Transit zurück zu unserer Unterkunft bringt.",
             "hu": "Egy csendes téli reggel Cadaqués-ben nyugodt buszozással indul a központba. Délben a történelmi helyszíneket járjuk be az alacsonyan járó napfényben. Délután busszal megyünk Portlligatba, hogy sorban állás nélkül lássuk Dalí örökségét. Az este a faluban zárul az utolsó járat indulása előtt.",
             "ro": "O dimineață liniștită de iarnă în Cadaqués începe cu o cursă relaxată cu autobuzul spre centru. La prânz explorăm siturile istorice sub soarele de iarnă. După-amiaza luăm autobuzul spre Portlligat pentru a vedea moștenirea lui Dalí fără cozi. Seara se încheie în sat înainte de ultima cursă înapoi.",
-            "en": "A quiet winter morning in Cadaqués starts with a relaxed bus ride to the center. At noon, we explore historical sites under the low winter sun. In the afternoon, we take the bus to Portlligat to see Dalí's legacy without the tourist lines. The evening winds down in the village before the last transit takes us back."
+            "en": "A quiet winter morning in Cadaqués starts with a relaxed bus ride to the center. At noon, we explore historical sites under the low winter sun. In the afternoon, we take the bus to Portlligat to see Dalí's legacy without the tourist lines. The evening winds down in the village before the last transit takes us back.",
+            "es": "Una tranquila mañana de invierno en Cadaqués comienza con un relajado viaje en autobús hasta el centro. Al mediodía exploramos sitios históricos bajo el sol bajo invernal. Por la tarde tomamos el autobús a Portlligat para ver el legado de Dalí sin colas. La noche termina en el pueblo antes de que el último autobús nos devuelva."
           },
           "stops": [
             {
@@ -2148,7 +2325,8 @@
                 "de": "Im Winter sind die Busse oft leerer; genießen Sie die freie Platzwahl.",
                 "hu": "Télen a buszok gyakran üresebbek; élvezze a szabad helyválasztást.",
                 "ro": "Iarna autobuzele sunt adesea mai goale; bucurați-vă de alegerea locului.",
-                "en": "Buses are often emptier in winter; enjoy picking your seat."
+                "en": "Buses are often emptier in winter; enjoy picking your seat.",
+                "es": "Los autobuses suelen ir más vacíos en invierno; disfruta eligiendo asiento."
               }
             },
             {
@@ -2157,7 +2335,8 @@
                 "de": "Die Wintersonne wärmt die Bushaltestelle in den Mittagsstunden angenehm auf.",
                 "hu": "A téli nap kellemesen felmelegíti a buszmegállót a déli órákban.",
                 "ro": "Soarele de iarnă încălzește plăcut stația de autobuz la amiază.",
-                "en": "The winter sun warms the bus stop pleasantly during midday."
+                "en": "The winter sun warms the bus stop pleasantly during midday.",
+                "es": "El sol de invierno calienta agradablemente la parada de autobús al mediodía."
               }
             },
             {
@@ -2166,7 +2345,8 @@
                 "de": "Der Wind am Hafen kann im Winter beißend kalt sein; Mütze aufsetzen.",
                 "hu": "A kikötői szél télen metszően hideg lehet; vegyen sapkát.",
                 "ro": "Vântul din port poate fi tăios iarna; purtați căciulă.",
-                "en": "The harbor wind can be bitingly cold in winter; wear a hat."
+                "en": "The harbor wind can be bitingly cold in winter; wear a hat.",
+                "es": "El viento del puerto puede ser muy frío en invierno; ponte un gorro."
               }
             },
             {
@@ -2175,7 +2355,8 @@
                 "de": "Prüfen Sie den Winterfahrplan, da einige Linien seltener fahren.",
                 "hu": "Ellenőrizze a téli menetrendet, mert néhány járat ritkábban közlekedik.",
                 "ro": "Verificați mersul de iarnă, deoarece unele linii circulă mai rar.",
-                "en": "Check the winter schedule as some lines run less frequently."
+                "en": "Check the winter schedule as some lines run less frequently.",
+                "es": "Consulta el horario de invierno ya que algunas líneas circulan con menos frecuencia."
               }
             },
             {
@@ -2184,7 +2365,8 @@
                 "de": "Der letzte Bus zurück ins Zentrum fährt im Winter oft früher ab.",
                 "hu": "A központba visszatérő utolsó busz télen gyakran korábban indul.",
                 "ro": "Ultimul autobuz spre centru pleacă adesea mai devreme iarna.",
-                "en": "The last bus back to the center often leaves earlier in winter."
+                "en": "The last bus back to the center often leaves earlier in winter.",
+                "es": "El último autobús de regreso al centro suele salir antes en invierno."
               }
             }
           ],
@@ -2212,6 +2394,12 @@
               "Wear warm clothes for waiting at breezy bus stops.",
               "Use the intercity bus to Roses for excursions in the surrounding area.",
               "Tickets can sometimes be cheaper or more flexible in the winter season."
+            ],
+            "es": [
+              "Los cambios de horario estacional suelen entrar en vigor en noviembre.",
+              "Lleva ropa abrigada para esperar en paradas de autobús con viento.",
+              "Usa el autobús interurbano a Roses para excursiones por la zona.",
+              "Los billetes a veces son más baratos o flexibles en temporada baja."
             ]
           }
         }
@@ -2225,19 +2413,22 @@
       "de": "Cadaques liegt in Katalonien, gesprochen wird Katalanisch und Spanisch. In Restaurants und Hotels klappt Englisch und sogar Franzoesisch (Naehe zur Grenze), Spanisch reicht aber ueberall. Ein 'bon dia' am Morgen auf Katalanisch ist hier echte Wertschaetzung.",
       "hu": "Cadaques Kataloniaban van, katalant es spanyolt beszelnek. Ettermekben es szallodaban az angol megy, sot a francia is (hatar kozelseg), de a spanyol mindenhol elegseges. Reggelente egy 'bon dia' katalanul itt igazi tisztelet.",
       "ro": "Cadaques e in Catalonia, se vorbeste catalana si spaniola. La restaurante si hoteluri engleza si chiar franceza merg (aproape de granita), dar spaniola e suficienta peste tot. Un 'bon dia' dimineata in catalana e aici un semn de respect autentic.",
-      "en": "Cadaques is in Catalonia, where Catalan and Spanish are spoken. Restaurants and hotels handle English and even French (close to the border), but Spanish is enough everywhere. A morning 'bon dia' in Catalan is genuine appreciation here."
+      "en": "Cadaques is in Catalonia, where Catalan and Spanish are spoken. Restaurants and hotels handle English and even French (close to the border), but Spanish is enough everywhere. A morning 'bon dia' in Catalan is genuine appreciation here.",
+      "es": "Cadaqués está en Cataluña, donde se hablan catalán y español. Restaurantes y hoteles manejan inglés e incluso francés (por la proximidad a la frontera), pero el español es suficiente en todas partes. Un «bon dia» matutino en catalán se aprecia mucho aquí."
     },
     "best_time_to_visit": {
       "de": "Mai bis Juni und September sind perfekt: 22-26 Grad, ruhige Buchten, Mittelmeer warm. Juli und August sehr voll, da das Dorf klein ist und Tagestouristen aus Barcelona kommen — Parkplatz wird zum Drama. Im Winter ruhig und windig, viele Restaurants geschlossen.",
       "hu": "Majus-junius es szeptember tokeletes: 22-26 fok, csendes oblok, meleg Mediterraneum. Julius-augusztus nagyon zsufolt, mert a falu kicsi es Barcelonaből napi turistak jonnek — a parkolas dramavva valik. Telen csendes es szeles, sok etterem zarva.",
       "ro": "Mai-iunie si septembrie sunt perfecte: 22-26 grade, golfuri linistite, Mediterana calda. Iulie si august foarte aglomerate, satul e mic si vin turisti de o zi din Barcelona, parcarea devine drama. Iarna linistit si vantos, multe restaurante inchise.",
-      "en": "May-June and September are perfect: 22-26°C, quiet coves, warm Mediterranean. July and August get very busy — the village is small and day-trippers pour in from Barcelona — and parking becomes a drama. Winter is quiet and windy, with many restaurants closed."
+      "en": "May-June and September are perfect: 22-26°C, quiet coves, warm Mediterranean. July and August get very busy — the village is small and day-trippers pour in from Barcelona — and parking becomes a drama. Winter is quiet and windy, with many restaurants closed.",
+      "es": "Mayo-junio y septiembre son perfectos: 22-26 °C, calas tranquilas, Mediterráneo cálido. Julio y agosto se llenan mucho —el pueblo es pequeño y llegan excursiones desde Barcelona— y el aparcamiento se complica. El invierno es tranquilo y ventoso, con muchos restaurantes cerrados."
     },
     "neighborhood_warnings": {
       "de": "Sehr sicheres Kuestendorf, kaum Kriminalitaet. Hauptproblem ist die Anfahrt: die Strasse von Roses ist kurvig, eng und im Sommer ueberlastet — fuer ungeuebte Fahrer stressig. Am Cap de Creus auf Wind und Klippen achten, manche Wege ohne Gelaender.",
       "hu": "Nagyon biztonsagos tengerparti falu, alig van bunozes. A fo problema a megkozelites: a Roses feloli ut kanyargos, keskeny es nyaron tultelitett — gyakorlatlan vezetoknek stresszes. A Cap de Creusnel a szelre es szikiakra figyelj, nemely uton nincs korlat.",
       "ro": "Sat de coasta foarte sigur, criminalitate aproape inexistenta. Problema principala e accesul: drumul de la Roses e cu serpentine, ingust si supraaglomerat vara, stresant pentru soferi neexperimentati. La Cap de Creus atentie la vant si stanci, unele poteci fara balustrada.",
-      "en": "Very safe coastal village with almost no crime. The main issue is access: the road from Roses is winding, narrow and overloaded in summer — stressful for inexperienced drivers. At Cap de Creus mind the wind and cliffs — some trails lack railings."
+      "en": "Very safe coastal village with almost no crime. The main issue is access: the road from Roses is winding, narrow and overloaded in summer — stressful for inexperienced drivers. At Cap de Creus mind the wind and cliffs — some trails lack railings.",
+      "es": "Pueblo costero muy seguro con casi ninguna delincuencia. El principal problema es el acceso: la carretera desde Roses es sinuosa, estrecha y se satura en verano —estresante para conductores poco experimentados. En el Cap de Creus ojo al viento y los acantilados —algunos senderos carecen de barandillas."
     },
     "transit_official": "https://moventis.es/en",
     "events": "https://visitcadaques.org/",

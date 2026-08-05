@@ -21,7 +21,8 @@
             "de": "Plaza de España",
             "hu": "Plaza de España",
             "ro": "Plaza de España",
-            "en": "Plaza de España"
+            "en": "Plaza de España",
+            "es": "Plaza de España"
           },
           "coords": [
             -16.2518,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie Ihren Tag hier mit einem Kaffee und beobachten Sie das Treiben der Stadt.",
             "hu": "Kezdje a napot itt egy kávéval, és figyelje a város ébredését.",
             "ro": "Începeți-vă ziua aici cu o cafea, privind cum se trezește orașul.",
-            "en": "Start your day here with a coffee, watching the city come to life."
+            "en": "Start your day here with a coffee, watching the city come to life.",
+            "es": "Comienza el día aquí con un café, viendo cómo la ciudad cobra vida."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche der Unbefleckten Empfängnis",
             "hu": "Szeplőtelen Fogantatás temploma",
             "ro": "Biserica Neprihănitei Zămisliri",
-            "en": "Church of the Immaculate Conception"
+            "en": "Church of the Immaculate Conception",
+            "es": "Iglesia de la Inmaculada Concepción"
           },
           "coords": [
             -16.2485,
@@ -59,7 +62,8 @@
             "de": "Achten Sie auf die Mischung aus Barock- und Toskana-Stilen.",
             "hu": "Figyelje meg a barokk és toszkán stílusjegyek keveredését.",
             "ro": "Observați amestecul de stiluri baroc și toscan.",
-            "en": "Notice the blend of Baroque and Tuscan architectural styles."
+            "en": "Notice the blend of Baroque and Tuscan architectural styles.",
+            "es": "Fíjate en la mezcla de estilos arquitectónicos barroco y toscano."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Mercado de Nuestra Señora de África",
             "hu": "Mercado de Nuestra Señora de África",
             "ro": "Mercado de Nuestra Señora de África",
-            "en": "Market of Our Lady of Africa"
+            "en": "Market of Our Lady of Africa",
+            "es": "Mercado de Nuestra Señora de África"
           },
           "coords": [
             -16.255,
@@ -82,7 +87,8 @@
             "de": "Probieren Sie unbedingt die lokalen Käsesorten und frischen tropischen Früchte.",
             "hu": "Feltétlenül kóstolja meg a helyi sajtokat és a friss trópusi gyümölcsöket.",
             "ro": "Asigurați-vă că încercați brânzeturile locale și fructele tropicale proaspete.",
-            "en": "Be sure to try the local cheeses and fresh tropical fruits."
+            "en": "Be sure to try the local cheeses and fresh tropical fruits.",
+            "es": "No dejes de probar los quesos locales y las frutas tropicales frescas."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Teneriffa Raum der Künste (TEA)",
             "hu": "Tenerifei Művészeti Tér (TEA)",
             "ro": "Spațiul Artelor din Tenerife (TEA)",
-            "en": "Tenerife Space of the Arts (TEA)"
+            "en": "Tenerife Space of the Arts (TEA)",
+            "es": "Tenerife Espacio de las Artes (TEA)"
           },
           "coords": [
             -16.2495,
@@ -105,7 +112,8 @@
             "de": "Das Gebäude selbst ist ein architektonisches Meisterwerk von Herzog & de Meuron.",
             "hu": "Maga az épület is egy építészeti remekmű, Herzog & de Meuron alkotása.",
             "ro": "Clădirea în sine este o capodoperă arhitecturală de Herzog & de Meuron.",
-            "en": "The building itself is an architectural masterpiece by Herzog & de Meuron."
+            "en": "The building itself is an architectural masterpiece by Herzog & de Meuron.",
+            "es": "El propio edificio es una obra maestra arquitectónica de Herzog & de Meuron."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Parque García Sanabria",
             "hu": "García Sanabria Park",
             "ro": "Parcul García Sanabria",
-            "en": "García Sanabria Park"
+            "en": "García Sanabria Park",
+            "es": "Parque García Sanabria"
           },
           "coords": [
             -16.256,
@@ -128,7 +137,8 @@
             "de": "Suchen Sie nach der Blumenuhr, einem Wahrzeichen des Parks.",
             "hu": "Keresse meg a virágórát, a park egyik jelképét.",
             "ro": "Căutați Ceasul Floral, un punct de reper iconic al parcului.",
-            "en": "Look for the Floral Clock, an iconic landmark within the park."
+            "en": "Look for the Floral Clock, an iconic landmark within the park.",
+            "es": "Busca el Reloj Floral, un emblema icónico dentro del parque."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Auditorio de Tenerife",
             "hu": "Tenerifei Auditórium",
             "ro": "Auditoriul din Tenerife",
-            "en": "Auditorio de Tenerife"
+            "en": "Auditorio de Tenerife",
+            "es": "Auditorio de Tenerife"
           },
           "coords": [
             -16.25,
@@ -151,7 +162,8 @@
             "de": "Umrunden Sie das Gebäude, um seine Calatrava-Architektur aus allen Blickwinkeln zu bewundern.",
             "hu": "Sétálja körbe az épületet, hogy minden szögből megcsodálhassa Calatrava építészetét.",
             "ro": "Mergeți în jurul clădirii pentru a-i admira arhitectura lui Calatrava din toate unghiurile.",
-            "en": "Walk around the building to admire its Calatrava architecture from all angles."
+            "en": "Walk around the building to admire its Calatrava architecture from all angles.",
+            "es": "Da una vuelta alrededor del edificio para admirar su arquitectura calatrava desde todos los ángulos."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Ihr morgendlicher Spaziergang führt Sie durch das historische Herz von Santa Cruz, von der belebten Plaza de España zur spirituellen Ruhe der ältesten Kirche der Stadt. Mittags erkunden Sie den lebhaften Mercado de África, gefolgt von moderner Kunst im TEA. Am Nachmittag entspannen Sie in der grünen Oase des Parque García Sanabria, bevor Sie zum architektonischen Wunder des Auditorio am Meer spazieren. Der Abend ist perfekt, um Tapas in der Nähe der Plaza zu genießen.",
         "hu": "A reggeli séta Santa Cruz történelmi szívén vezet keresztül, a nyüzsgő Plaza de Españától a város legrégebbi templomának spirituális nyugalmáig. Délben felfedezheti az élénk Mercado de África piacot, majd a modern művészetet a TEA-ban. A délutánt a Parque García Sanabria zöld oázisában pihenve tölti, mielőtt lesétálna a tengerparti Auditorio építészeti csodájához. Az este tökéletes a Plaza környéki tapas-bárok felfedezésére.",
         "ro": "Plimbarea de dimineață vă poartă prin inima istorică a Santa Cruz, de la aglomerata Plaza de España la liniștea spirituală a celei mai vechi biserici din oraș. La prânz, explorați vibranta Mercado de África, urmată de arta modernă la TEA. După-amiaza vă relaxați în oaza verde a Parcului García Sanabria înainte de a coborî la minunea arhitecturală de pe malul mării, Auditorio. Seara este perfectă pentru a savura tapas lângă Plaza.",
-        "en": "Your morning walk takes you through the historic heart of Santa Cruz, from the bustling Plaza de España to the spiritual calm of the city's oldest church. At midday, you'll explore the vibrant Mercado de África, followed by modern art at TEA. The afternoon is for relaxing in the green oasis of Parque García Sanabria before strolling down to the architectural marvel of the Auditorio by the sea. The evening is perfect for enjoying tapas near the Plaza."
+        "en": "Your morning walk takes you through the historic heart of Santa Cruz, from the bustling Plaza de España to the spiritual calm of the city's oldest church. At midday, you'll explore the vibrant Mercado de África, followed by modern art at TEA. The afternoon is for relaxing in the green oasis of Parque García Sanabria before strolling down to the architectural marvel of the Auditorio by the sea. The evening is perfect for enjoying tapas near the Plaza.",
+        "es": "Tu paseo matutino te lleva por el corazón histórico de Santa Cruz, desde la animada Plaza de España hasta la calma espiritual de la iglesia más antigua de la ciudad. Al mediodía explorarás el vibrante Mercado de África, seguido del arte moderno en el TEA. La tarde es para relajarte en el oasis verde del Parque García Sanabria antes de pasear hasta la maravilla arquitectónica del Auditorio junto al mar. La noche es perfecta para disfrutar de tapas cerca de la Plaza."
       },
       "gastro_picks": {
         "de": [
@@ -263,6 +276,11 @@
           "Wear comfortable shoes as the cobblestones in the old town can be uneven.",
           "Most shops observe an afternoon siesta, plan your shopping accordingly.",
           "Stay hydrated, the Canarian sun can be strong."
+        ],
+        "es": [
+          "Lleva calzado cómodo, los adoquines del casco antiguo pueden ser irregulares.",
+          "La mayoría de las tiendas respetan la siesta por la tarde; planifica tus compras en consecuencia.",
+          "Mantente hidratado, el sol canario puede ser intenso."
         ]
       },
       "variants": {
@@ -271,7 +289,8 @@
             "de": "Beginnen Sie Ihren Tag an der Plaza de España, wo der künstliche See bei Regen eine besondere Atmosphäre ausstrahlt. Mittags bietet die Kirche Concepción einen trockenen Rückzugsort, bevor Sie den überdachten Markt besuchen. Nachmittags ist das TEA-Museum ideal, um den Regengüssen zu entgehen. Den Abend beschließen Sie trocken unter dem majestätischen Dach des Auditorio de Tenerife.",
             "hu": "Kezdje a reggelt a Plaza de Españán, ahol az eső különleges fényt ad a központi tónak. Délben a Concepción-templom nyújt menedéket, majd az afrikai piac fedett folyosóin falatozhat. Délután a TEA múzeum modern belső terei tökéletesek a záporok elől. Az estét az Auditórium lenyűgöző tetőszerkezete alatt zárhatja, védve a széltől és a csapadéktól.",
             "ro": "Începeți dimineața în Plaza de España, unde lacul artificial capătă reflexii deosebite pe ploaie. La prânz, Biserica Concepción oferă un refugiu liniștit, urmată de coridoarele acoperite ale pieței de pește. După-amiaza este ideală pentru muzeul TEA, protejându-vă de averse. Încheiați seara sub acoperișul spectaculos al Auditoriului, un punct final protejat și modern.",
-            "en": "Start your morning at Plaza de España, where the lake reflects the rainy sky beautifully. At noon, the Church of the Conception provides a peaceful shelter before you explore the covered market stalls. In the afternoon, the TEA museum is the perfect indoor escape from Atlantic showers. End your evening under the iconic, sweeping roof of the Auditorio de Tenerife, staying dry and inspired."
+            "en": "Start your morning at Plaza de España, where the lake reflects the rainy sky beautifully. At noon, the Church of the Conception provides a peaceful shelter before you explore the covered market stalls. In the afternoon, the TEA museum is the perfect indoor escape from Atlantic showers. End your evening under the iconic, sweeping roof of the Auditorio de Tenerife, staying dry and inspired.",
+            "es": "Comienza la mañana en la Plaza de España, donde el lago refleja hermosamente el cielo lluvioso. Al mediodía, la Iglesia de la Concepción ofrece un refugio tranquilo antes de explorar los puestos cubiertos del mercado. Por la tarde, el museo TEA es la escapada interior perfecta de los chubascos atlánticos. Termina la velada bajo la icónica cubierta del Auditorio de Tenerife, seco e inspirado."
           },
           "stops": [
             {
@@ -280,7 +299,8 @@
                 "de": "Nutzen Sie die unterirdischen Gänge für trockene Wege.",
                 "hu": "Használja az aluljárókat a száraz közlekedéshez.",
                 "ro": "Folosiți pasajele subterane pentru a rămâne uscați.",
-                "en": "Use the underground passages to stay dry while crossing."
+                "en": "Use the underground passages to stay dry while crossing.",
+                "es": "Utiliza los pasadizos subterráneos para mantenerte seco al cruzar."
               }
             },
             {
@@ -289,7 +309,8 @@
                 "de": "Bewundern Sie die Kassettendecke, während es draußen regnet.",
                 "hu": "Csodálja meg a kazettás mennyezetet, amíg kint esik.",
                 "ro": "Admirați tavanul casetat în timp ce afară plouă.",
-                "en": "Admire the coffered ceiling while the rain falls outside."
+                "en": "Admire the coffered ceiling while the rain falls outside.",
+                "es": "Admira el artesonado mientras la lluvia cae fuera."
               }
             },
             {
@@ -298,7 +319,8 @@
                 "de": "Die Innenhöfe sind teilweise überdacht und windgeschützt.",
                 "hu": "A belső udvarok részben fedettek és szélvédettek.",
                 "ro": "Curțile interioare sunt parțial acoperite și ferite de vânt.",
-                "en": "The inner courtyards are partially covered and wind-sheltered."
+                "en": "The inner courtyards are partially covered and wind-sheltered.",
+                "es": "Los patios interiores están parcialmente cubiertos y resguardados del viento."
               }
             },
             {
@@ -307,7 +329,8 @@
                 "de": "Hervorragendes Café im Innenbereich für eine Regenpause.",
                 "hu": "Kiváló belső kávézó egy esős kávészünethez.",
                 "ro": "Cafenea interioară excelentă pentru o pauză de ploaie.",
-                "en": "Excellent indoor cafe for a rainy coffee break."
+                "en": "Excellent indoor cafe for a rainy coffee break.",
+                "es": "Excelente cafetería interior para una pausa con lluvia."
               }
             },
             {
@@ -316,7 +339,8 @@
                 "de": "Dichte Baumkronen bieten natürlichen Schutz bei Nieselregen.",
                 "hu": "A sűrű lombozat természetes védelmet nyújt szemerkélő esőben.",
                 "ro": "Coroanele dese oferü protecție naturală în caz de burniță.",
-                "en": "Dense tree canopies offer natural cover during light drizzle."
+                "en": "Dense tree canopies offer natural cover during light drizzle.",
+                "es": "Los frondosos copas de los árboles ofrecen cobertura natural durante lloviznas ligeras."
               }
             },
             {
@@ -325,7 +349,8 @@
                 "de": "Das Foyer ist ein architektonisches Highlight und absolut trocken.",
                 "hu": "Az előcsarnok építészeti remekmű és teljesen száraz.",
                 "ro": "Foaierul este o capodoperă arhitecturală și complet uscat.",
-                "en": "The foyer is an architectural masterpiece and perfectly dry."
+                "en": "The foyer is an architectural masterpiece and perfectly dry.",
+                "es": "El vestíbulo es una obra maestra arquitectónica y está totalmente seco."
               }
             }
           ],
@@ -357,6 +382,13 @@
               "Museums like TEA are the best retreats during heavy Atlantic rain.",
               "Sidewalk tiles near the waterfront can be slippery when wet.",
               "Take the tram if the rain gets too intense between walking stops."
+            ],
+            "es": [
+              "Lleva un impermeable ligero; los paraguas pueden ser complicados con las rachas costeras.",
+              "El mercado 'Nuestra Señora de África' está casi totalmente cubierto.",
+              "Museos como el TEA son los mejores refugios durante lluvias atlánticas fuertes.",
+              "Losetas de las aceras cerca del paseo marítimo pueden volverse resbaladizas al mojarse.",
+              "Toma el tranvía si la lluvia se intensifica entre paradas a pie."
             ]
           }
         },
@@ -365,7 +397,8 @@
             "de": "Genießen Sie den milden Wintermorgen an der Plaza de España bei angenehmen 20 Grad. Mittags erkunden Sie die Altstadt ohne die Sommerhitze, ideal für den Marktbesuch. Nachmittags blühen die exotischen Pflanzen im Park García Sanabria trotz der Jahreszeit. Den Abend verbringen Sie am Hafen beim Auditorio, wo die Wintersonne früh, aber spektakulär im Atlantik versinkt.",
             "hu": "Élvezze a lágy téli reggelt a Plaza de Españán, kellemes 20 fokos melegben. Délben a nyári hőség nélkül fedezheti fel az óvárost és a piac forgatagát. Délután a García Sanabria park egzotikus növényei az évszak ellenére is virágoznak. Az estét az Auditóriumnál töltse, ahol a téli nap korán, de látványosan bukik az Atlanti-óceán horizontja alá.",
             "ro": "Bucurați-vă de o dimineață blândă de iarnă în Plaza de España, la o temperatură plăcută de 20 grade. La prânz, explorați centrul vechi fără arșița verii, ideal pentru piață. După-amiaza, plantele exotice din parcul García Sanabria înfloresc în ciuda sezonului. Încheiați seara la Auditoriu, unde soarele de iarnă apune devreme, dar spectaculos în Atlantic.",
-            "en": "Enjoy a mild winter morning at Plaza de España with temperatures around a pleasant 20°C. At noon, explore the old town and the market without the summer heat. In the afternoon, the exotic plants in García Sanabria Park bloom despite the season. Spend your evening by the Auditorio, where the winter sun sets early but spectacularly over the Atlantic horizon."
+            "en": "Enjoy a mild winter morning at Plaza de España with temperatures around a pleasant 20°C. At noon, explore the old town and the market without the summer heat. In the afternoon, the exotic plants in García Sanabria Park bloom despite the season. Spend your evening by the Auditorio, where the winter sun sets early but spectacularly over the Atlantic horizon.",
+            "es": "Disfruta de una mañana invernal templada en la Plaza de España con temperaturas alrededor de agradables 20°C. Al mediodía, explora el casco antiguo y el mercado sin el calor veraniego. Por la tarde, las plantas exóticas del Parque García Sanabria florecen a pesar de la estación. Pasa la noche junto al Auditorio, donde el sol invernal se pone temprano pero espectacularmente sobre el horizonte atlántico."
           },
           "stops": [
             {
@@ -374,7 +407,8 @@
                 "de": "Die Wintersonne ist hier am Vormittag besonders sanft.",
                 "hu": "A téli napsütés itt délelőtt különösen kellemes.",
                 "ro": "Soarele de iarnă este deosebit de blând aici dimineața.",
-                "en": "The winter sun is especially gentle here in the morning."
+                "en": "The winter sun is especially gentle here in the morning.",
+                "es": "El sol invernal es especialmente suave aquí por la mañana."
               }
             },
             {
@@ -383,7 +417,8 @@
                 "de": "Kühler Innenraum, perfekt wenn die Wintersonne doch stark brennt.",
                 "hu": "Hűvös belső tér, ideális ha a téli nap mégis erősen tűzne.",
                 "ro": "Interior răcoros, perfect dacă soarele de iarnă devine prea puternic.",
-                "en": "Cool interior, perfect if the winter sun feels surprisingly strong."
+                "en": "Cool interior, perfect if the winter sun feels surprisingly strong.",
+                "es": "Interior fresco, perfecto si el sol invernal se siente sorprendentemente fuerte."
               }
             },
             {
@@ -392,7 +427,8 @@
                 "de": "Probieren Sie saisonale Winterfrüchte wie lokale Papayas.",
                 "hu": "Kóstolja meg a szezonális téli gyümölcsöket, például a helyi papaját.",
                 "ro": "Gustați fructele de iarnă de sezon, cum ar fi papaya locală.",
-                "en": "Taste seasonal winter fruits like local papayas."
+                "en": "Taste seasonal winter fruits like local papayas.",
+                "es": "Prueba frutas de temporada invernales como las papayas locales."
               }
             },
             {
@@ -401,7 +437,8 @@
                 "de": "Die Bibliothek ist ein wunderbarer Ort zum Aufwärmen am Abend.",
                 "hu": "A könyvtár remek hely a bemelegedésre a hűvösebb estéken.",
                 "ro": "Biblioteca este un loc minunat pentru a vă încălzi seara.",
-                "en": "The library is a wonderful place to warm up in the evening."
+                "en": "The library is a wonderful place to warm up in the evening.",
+                "es": "La biblioteca es un lugar maravilloso para entrar en calor por la noche."
               }
             },
             {
@@ -410,7 +447,8 @@
                 "de": "Die Blumenuhr ist auch im Winter farbenfroh bepflanzt.",
                 "hu": "A virágóra télen is színpompás beültetéssel várja.",
                 "ro": "Ceasul floral este plantat colorat chiar și iarna.",
-                "en": "The flower clock is colorfully planted even in winter."
+                "en": "The flower clock is colorfully planted even in winter.",
+                "es": "El reloj de flores está plantado con colores incluso en invierno."
               }
             },
             {
@@ -419,7 +457,8 @@
                 "de": "Bringen Sie eine Jacke mit; die Meeresbrise ist abends kühl.",
                 "hu": "Vigyen magával kabátot, az esti tengeri szél hűvös.",
                 "ro": "Aduceți o jachetă; briza mării este răcoroasă seara.",
-                "en": "Bring a jacket; the sea breeze gets chilly after sunset."
+                "en": "Bring a jacket; the sea breeze gets chilly after sunset.",
+                "es": "Lleva una chaqueta; la brisa marina refresca tras el ocaso."
               }
             }
           ],
@@ -451,6 +490,13 @@
               "UV radiation is high even in winter; don't forget sun protection.",
               "García Sanabria Park is a botanical paradise even in mid-winter.",
               "Evening cafes around Plaza de España are cozy meeting spots."
+            ],
+            "es": [
+              "En invierno, el sol se pone temprano, alrededor de las 18:00.",
+              "Vístete por capas: camiseta durante el día y cazadora ligera por la noche.",
+              "La radiación UV es alta incluso en invierno; no olvides protección solar.",
+              "El Parque García Sanabria es un paraíso botánico incluso a mediados de invierno.",
+              "Las cafeterías nocturnas alrededor de la Plaza de España son acogedores puntos de encuentro."
             ]
           }
         }
@@ -469,7 +515,8 @@
             "de": "Parque García Sanabria",
             "hu": "García Sanabria Park",
             "ro": "Parcul García Sanabria",
-            "en": "García Sanabria Park"
+            "en": "García Sanabria Park",
+            "es": "Parque García Sanabria"
           },
           "coords": [
             -16.256,
@@ -484,7 +531,8 @@
             "de": "Ein idealer Ausgangspunkt, um den Tag entspannt zu beginnen, bevor Sie in die Pedale treten.",
             "hu": "Ideális kiindulópont a nap laza kezdéséhez, mielőtt nyeregbe pattan.",
             "ro": "Un punct de plecare ideal pentru a începe ziua relaxat înainte de a pedala.",
-            "en": "An ideal starting point to begin the day relaxed before you start pedaling."
+            "en": "An ideal starting point to begin the day relaxed before you start pedaling.",
+            "es": "Un punto de partida ideal para comenzar el día relajado antes de ponerte a pedalear."
           }
         },
         {
@@ -492,7 +540,8 @@
             "de": "Mercado de Nuestra Señora de África",
             "hu": "Mercado de Nuestra Señora de África",
             "ro": "Mercado de Nuestra Señora de África",
-            "en": "Market of Our Lady of Africa"
+            "en": "Market of Our Lady of Africa",
+            "es": "Mercado de Nuestra Señora de África"
           },
           "coords": [
             -16.255,
@@ -507,7 +556,8 @@
             "de": "Stellen Sie Ihr Fahrrad sicher ab und tauchen Sie ein in die Gerüche und Geschmäcker.",
             "hu": "Zárja le biztonságosan a kerékpárját, és merüljön el az illatokban és ízekben.",
             "ro": "Parcați bicicleta într-un loc sigur și scufundați-vă în mirosuri și gusturi.",
-            "en": "Park your bike securely and dive into the smells and tastes."
+            "en": "Park your bike securely and dive into the smells and tastes.",
+            "es": "Asegura bien tu bici y sumérgete en los olores y sabores."
           }
         },
         {
@@ -515,7 +565,8 @@
             "de": "Plaza de España",
             "hu": "Plaza de España",
             "ro": "Plaza de España",
-            "en": "Plaza de España"
+            "en": "Plaza de España",
+            "es": "Plaza de España"
           },
           "coords": [
             -16.2518,
@@ -530,7 +581,8 @@
             "de": "Der Platz wurde kürzlich renoviert und verfügt über einen großen künstlichen See.",
             "hu": "A teret nemrég újították fel, és egy nagy mesterséges tóval rendelkezik.",
             "ro": "Piața a fost recent renovată și are un lac artificial mare.",
-            "en": "The square was recently renovated and features a large artificial lake."
+            "en": "The square was recently renovated and features a large artificial lake.",
+            "es": "La plaza fue recientemente renovada y cuenta con un gran lago artificial."
           }
         },
         {
@@ -538,7 +590,8 @@
             "de": "Auditorio de Tenerife",
             "hu": "Tenerifei Auditórium",
             "ro": "Auditoriul din Tenerife",
-            "en": "Auditorio de Tenerife"
+            "en": "Auditorio de Tenerife",
+            "es": "Auditorio de Tenerife"
           },
           "coords": [
             -16.25,
@@ -553,7 +606,8 @@
             "de": "Die Radwege entlang der Küste bieten eine fantastische Aussicht auf das Gebäude.",
             "hu": "A part menti kerékpárutak fantasztikus kilátást nyújtanak az épületre.",
             "ro": "Pistele de biciclete de-a lungul coastei oferă vederi fantastice ale clădirii.",
-            "en": "The bike paths along the coast offer fantastic views of the building."
+            "en": "The bike paths along the coast offer fantastic views of the building.",
+            "es": "Los carriles bici junto a la costa ofrecen vistas fantásticas del edificio."
           }
         },
         {
@@ -561,7 +615,8 @@
             "de": "Palmetum von Santa Cruz",
             "hu": "Santa Cruz-i Palmetum",
             "ro": "Palmetumul din Santa Cruz",
-            "en": "Palmetum of Santa Cruz"
+            "en": "Palmetum of Santa Cruz",
+            "es": "Palmetum de Santa Cruz"
           },
           "coords": [
             -16.245,
@@ -576,7 +631,8 @@
             "de": "Ein botanischer Garten auf einem ehemaligen Müllberg, spezialisiert auf Palmen.",
             "hu": "Egy botanikus kert egy egykori szemétdombon, pálmákra szakosodva.",
             "ro": "O grădină botanică pe un fost deal de gunoi, specializată în palmieri.",
-            "en": "A botanical garden on a former garbage hill, specializing in palm trees."
+            "en": "A botanical garden on a former garbage hill, specializing in palm trees.",
+            "es": "Un jardín botánico sobre una antigua montaña de basura, especializado en palmeras."
           }
         },
         {
@@ -584,7 +640,8 @@
             "de": "Castillo de San Juan Bautista",
             "hu": "Keresztelő Szent János kastély",
             "ro": "Castelul San Juan Bautista",
-            "en": "Castle of St. John the Baptist"
+            "en": "Castle of St. John the Baptist",
+            "es": "Castillo de San Juan Bautista"
           },
           "coords": [
             -16.248,
@@ -599,7 +656,8 @@
             "de": "Diese kleine runde Festung ist auch als Schwarze Burg bekannt.",
             "hu": "Ez a kis, kerek erőd Fekete Kastélyként is ismert.",
             "ro": "Această mică fortăreață rotundă este cunoscută și sub numele de Castelul Negru.",
-            "en": "This small round fortress is also known as the Black Castle."
+            "en": "This small round fortress is also known as the Black Castle.",
+            "es": "Esta pequeña fortaleza redonda también es conocida como el Castillo Negro."
           }
         }
       ],
@@ -607,7 +665,8 @@
         "de": "Ihre Radtour beginnt im grünen Parque García Sanabria und führt Sie zum geschäftigen Mercado. Sie radeln durch das Stadtzentrum zur Plaza de España. Mittags erreichen Sie die Küste, wo Sie das moderne Auditorio bewundern. Am Nachmittag erkunden Sie das Palmetum, eine beeindruckende Sammlung von Palmen. Ihre Tour endet an der historischen Festung Castillo de San Juan und bietet einen letzten Blick auf das Meer.",
         "hu": "A kerékpártúra a zöldellő Parque García Sanabriából indul a nyüzsgő piac felé. Átteker a városközponton a Plaza de España felé. Délben eléri a partot, ahol megcsodálhatja a modern Auditóriumot. Délután felfedezi a Palmetumot, egy lenyűgöző pálmagyűjteményt. A túra a történelmi Castillo de San Juan erődnél ér véget, ahonnan utolsó pillantást vethet a tengerre.",
         "ro": "Turul cu bicicleta începe în verdele Parc García Sanabria și vă duce la piața aglomerată. Pedalați prin centrul orașului spre Plaza de España. La prânz, ajungeți pe coastă pentru a admira modernul Auditorio. După-amiaza explorați Palmetum, o colecție impresionantă de palmieri. Turul se încheie la fortăreața istorică Castillo de San Juan pentru o ultimă priveliște a mării.",
-        "en": "Your bike tour starts in the green Parque García Sanabria, leading to the bustling market. You'll cycle through the city center to Plaza de España. At midday, you reach the coast to admire the modern Auditorio. The afternoon is for exploring the Palmetum, an impressive collection of palm trees. Your tour concludes at the historic Castillo de San Juan fortress for a final sea view."
+        "en": "Your bike tour starts in the green Parque García Sanabria, leading to the bustling market. You'll cycle through the city center to Plaza de España. At midday, you reach the coast to admire the modern Auditorio. The afternoon is for exploring the Palmetum, an impressive collection of palm trees. Your tour concludes at the historic Castillo de San Juan fortress for a final sea view.",
+        "es": "Tu ruta en bici comienza en el verde Parque García Sanabria, dirigiéndote al bullicioso mercado. Pedaleas por el centro hasta la Plaza de España. Al mediodía llegas a la costa para admirar el moderno Auditorio. La tarde es para explorar el Palmetum, una impresionante colección de palmeras. Tu recorrido concluye en la histórica fortaleza del Castillo de San Juan para una última vista al mar."
       },
       "gastro_picks": {
         "de": [
@@ -711,6 +770,11 @@
           "Check bike rental options in the city beforehand.",
           "Some areas of the city are hilly, be prepared for some climbs.",
           "Use the designated bike lanes, especially along the coast."
+        ],
+        "es": [
+          "Consulta opciones de alquiler de bicicletas en la ciudad con antelación.",
+          "Algunas zonas de la ciudad son empinadas; prepárate para subidas.",
+          "Utiliza los carriles bici señalizados, especialmente junto a la costa."
         ]
       },
       "variants": {
@@ -719,7 +783,8 @@
             "de": "Starten Sie vorsichtig am García Sanabria Park, wo die Wege bei Nässe rutschig sein können. Mittags bietet der Markt trockene Abstellplätze und eine Stärkung. Nachmittags radeln Sie zum Hafen, wobei die Plaza de España bei Regen glänzt. Den Abend lassen Sie am Auditorio ausklingen, wo Sie unter dem großen Vordach Schutz vor den Atlantikwellen und dem Regen finden.",
             "hu": "Kezdjen óvatosan a García Sanabria parkban, ahol az utak vizesen csúszósak lehetnek. Délben a piac fedett részei száraz pihenőt és frissítőt kínálnak. Délután tekerjen a kikötő felé, a Plaza de España kövei ilyenkor fényesen csillognak. Az estét az Auditóriumnál zárja, ahol a hatalmas tető védelmet nyújt az óceáni széltől és az esőtől.",
             "ro": "Începeți cu atenție în parcul García Sanabria, unde aleile pot fi alunecoase. La prânz, piața oferă locuri de parcare uscate și gustări locale. După-amiaza pedalați spre port, Plaza de España strălucind sub ploaie. Încheiați seara la Auditoriu, unde consola uriașă vă protejează de valurile Atlanticului și de averse.",
-            "en": "Start carefully at García Sanabria Park, as paths can be slippery when wet. At noon, the market offers dry spots and local refreshments. In the afternoon, cycle towards the port, watching Plaza de España glisten in the rain. End your evening at the Auditorio, where the massive overhang provides shelter from both the Atlantic spray and the rain."
+            "en": "Start carefully at García Sanabria Park, as paths can be slippery when wet. At noon, the market offers dry spots and local refreshments. In the afternoon, cycle towards the port, watching Plaza de España glisten in the rain. End your evening at the Auditorio, where the massive overhang provides shelter from both the Atlantic spray and the rain.",
+            "es": "Comienza con precaución en el Parque García Sanabria, ya que los caminos pueden estar resbaladizos cuando están mojados. Al mediodía, el mercado ofrece zonas secas y refrescos locales. Por la tarde, pedalea hacia el puerto, viendo la Plaza de España brillar bajo la lluvia. Termina la tarde en el Auditorio, donde el gran voladizo protege tanto del rocío atlántico como de la lluvia."
           },
           "stops": [
             {
@@ -728,7 +793,8 @@
                 "de": "Vorsicht vor rutschigem Laub auf den Radwegen.",
                 "hu": "Vigyázzon a csúszós levelekre a kerékpárutakon.",
                 "ro": "Atenție la frunzele alunecoase de pe pistele de biciclete.",
-                "en": "Watch out for slippery leaves on the bike paths."
+                "en": "Watch out for slippery leaves on the bike paths.",
+                "es": "Cuidado con las hojas resbaladizas en los carriles bici."
               }
             },
             {
@@ -737,7 +803,8 @@
                 "de": "Parken Sie Ihr Rad in den überdachten Eingangsbereichen.",
                 "hu": "Parkoljon a fedett bejárati részeknél.",
                 "ro": "Parcați bicicleta în zonele de intrare acoperite.",
-                "en": "Park your bike in the covered entrance areas."
+                "en": "Park your bike in the covered entrance areas.",
+                "es": "Aparca tu bici en las zonas de entrada cubiertas."
               }
             },
             {
@@ -746,7 +813,8 @@
                 "de": "Die weißen Kacheln sind bei Nässe extrem rutschig.",
                 "hu": "A fehér csempék vizesen rendkívül csúszósak.",
                 "ro": "Plăcile albe sunt extrem de alunecoase când sunt ude.",
-                "en": "The white tiles are extremely slippery when wet."
+                "en": "The white tiles are extremely slippery when wet.",
+                "es": "Las losas blancas son extremadamente resbaladizas cuando están mojadas."
               }
             },
             {
@@ -755,7 +823,8 @@
                 "de": "Nutzen Sie das große Betondach als Regenschutz.",
                 "hu": "Használja a hatalmas betonív alatti részt esővédelemnek.",
                 "ro": "Folosiți consola mare de beton ca adăpost contra ploii.",
-                "en": "Use the large concrete overhang as rain protection."
+                "en": "Use the large concrete overhang as rain protection.",
+                "es": "Utiliza el gran voladizo de hormigón como protección contra la lluvia."
               }
             },
             {
@@ -764,7 +833,8 @@
                 "de": "Suchen Sie bei Schauern Schutz im Infozentrum.",
                 "hu": "Záporok esetén keressen menedéket az információs központban.",
                 "ro": "Căutați adăpost în centrul de informare în caz de averse.",
-                "en": "Seek shelter in the visitor center during heavy showers."
+                "en": "Seek shelter in the visitor center during heavy showers.",
+                "es": "Busca refugio en el centro de visitantes durante fuertes chubascos."
               }
             },
             {
@@ -773,7 +843,8 @@
                 "de": "Die Steine rund um das Kastell sind bei Regen glatt.",
                 "hu": "A kastély körüli kövek esőben sikamlósak.",
                 "ro": "Pietrele din jurul castelului sunt lustruite și alunecoase.",
-                "en": "The stones around the castle are slick when it rains."
+                "en": "The stones around the castle are slick when it rains.",
+                "es": "Las piedras alrededor del castillo quedan resbaladizas cuando llueve."
               }
             }
           ],
@@ -805,6 +876,13 @@
               "The waterfront bike path (Avenida Marítima) has good drainage.",
               "Wear bright, waterproof clothing for better visibility.",
               "Utilize the tunnels under Plaza de España to stay dry while moving."
+            ],
+            "es": [
+              "Revisa tus frenos; las losetas mojadas en Santa Cruz son traicioneras.",
+              "Evita giros bruscos sobre superficies de mármol blanco.",
+              "El carril bici del paseo marítimo (Avenida Marítima) tiene buen drenaje.",
+              "Lleva ropa impermeable y de colores brillantes para ser más visible.",
+              "Utiliza los túneles bajo la Plaza de España para mantenerte seco mientras te desplazas."
             ]
           }
         },
@@ -813,7 +891,8 @@
             "de": "Starten Sie Ihre Wintertour im blühenden García Sanabria Park bei idealen Radtemperaturen. Mittags radeln Sie zum Markt, um frische Säfte zu genießen. Nachmittags führt der Weg entlang der Küste zur Plaza de España und dem Palmetum, wo die Palmen im Winterlicht glänzen. Der Sonnenuntergang am schwarzen Kastell ist der perfekte Abschluss eines milden kanarischen Wintertages.",
             "hu": "Kezdje téli túráját a virágzó García Sanabria parkban, ideális kerékpáros időben. Délben tekerjen el a piachoz egy frissítő gyümölcslére. Délután a part mentén haladva érintse a Plaza de Españát és a Palmetumot, ahol a pálmák ragyognak a téli fényben. A naplemente a fekete kastélynál tökéletes zárása egy enyhe kanári téli napnak.",
             "ro": "Începeți turul de iarnă în parcul înflorit García Sanabria, la temperaturi ideale pentru pedalat. La prânz, mergeți la piață pentru sucuri proaspete. După-amiaza, drumul pe coastă vă duce la Plaza de España și Palmetum, unde palmierii strălucesc în lumina iernii. Apusul la castelul negru este finalul perfect al unei zile blânde de iarnă canariană.",
-            "en": "Start your winter ride in the blooming García Sanabria Park with ideal cycling temperatures. At noon, cycle to the market for fresh local juices. In the afternoon, the coastal path leads you to Plaza de España and the Palmetum, where palms glisten in the winter light. The sunset at the black castle is the perfect end to a mild Canarian winter day."
+            "en": "Start your winter ride in the blooming García Sanabria Park with ideal cycling temperatures. At noon, cycle to the market for fresh local juices. In the afternoon, the coastal path leads you to Plaza de España and the Palmetum, where palms glisten in the winter light. The sunset at the black castle is the perfect end to a mild Canarian winter day.",
+            "es": "Comienza tu ruta invernal en el floreciente Parque García Sanabria con temperaturas ideales para pedalear. Al mediodía, pedalea hasta el mercado para zumos locales frescos. Por la tarde, el paseo costero te lleva a la Plaza de España y al Palmetum, donde las palmeras brillan con la luz invernal. El atardecer en el Castillo Negro es el final perfecto para un templado día canario de invierno."
           },
           "stops": [
             {
@@ -822,7 +901,8 @@
                 "de": "Perfekte Zeit für ein Picknick auf dem Radweg-Rastplatz.",
                 "hu": "Tökéletes idő egy piknikhez a kerékpárút menti pihenőnél.",
                 "ro": "Timp perfect pentru un picnic la locul de popas de pe pistă.",
-                "en": "Perfect time for a picnic at the bike path rest area."
+                "en": "Perfect time for a picnic at the bike path rest area.",
+                "es": "Momento perfecto para un picnic en la zona de descanso del carril bici."
               }
             },
             {
@@ -831,7 +911,8 @@
                 "de": "Kaufen Sie kanarischen Honig als Wintersouvenir.",
                 "hu": "Vásároljon kanári mézet téli szuvenírnek.",
                 "ro": "Cumpărați miere canariană ca suvenir de iarnă.",
-                "en": "Buy Canarian honey as a winter souvenir."
+                "en": "Buy Canarian honey as a winter souvenir.",
+                "es": "Compra miel canaria como recuerdo invernal."
               }
             },
             {
@@ -840,7 +921,8 @@
                 "de": "Der See ist im Winter oft Schauplatz lokaler Events.",
                 "hu": "A tó környéke télen gyakran ad helyet helyi eseményeknek.",
                 "ro": "Lacul este adesea locul unor evenimente locale iarna.",
-                "en": "The lake area often hosts local events during winter."
+                "en": "The lake area often hosts local events during winter.",
+                "es": "El área del lago suele acoger eventos locales durante el invierno."
               }
             },
             {
@@ -849,7 +931,8 @@
                 "de": "Das Abendlicht auf dem weißen Beton ist im Winter magisch.",
                 "hu": "Az esti fények a fehér betonon télen varázslatosak.",
                 "ro": "Lumina serii pe betonul alb este magică iarna.",
-                "en": "The evening light on the white concrete is magical in winter."
+                "en": "The evening light on the white concrete is magical in winter.",
+                "es": "La luz de la tarde sobre el hormigón blanco es mágica en invierno."
               }
             },
             {
@@ -858,7 +941,8 @@
                 "de": "Die Wintersonne macht den Aufstieg per Rad angenehm.",
                 "hu": "A téli napsütés kellemessé teszi a kerékpáros felkapaszkodást.",
                 "ro": "Soarele de iarnă face urcarea cu bicicleta plăcută.",
-                "en": "The winter sun makes the climb by bike very pleasant."
+                "en": "The winter sun makes the climb by bike very pleasant.",
+                "es": "El sol invernal hace muy agradable la subida en bici."
               }
             },
             {
@@ -867,7 +951,8 @@
                 "de": "Genießen Sie den Sonnenuntergang; er ist im Winter sehr klar.",
                 "hu": "Élvezze a naplementét; télen gyakran nagyon tiszta az ég.",
                 "ro": "Bucurați-vă de apus; iarna cerul este de obicei foarte senin.",
-                "en": "Enjoy the sunset; it's often very clear in the winter."
+                "en": "Enjoy the sunset; it's often very clear in the winter.",
+                "es": "Disfruta la puesta de sol; a menudo está muy clara en invierno."
               }
             }
           ],
@@ -899,6 +984,13 @@
               "Days are shorter; bike lights are mandatory after 18:00 (6 PM).",
               "Visit the Palmetum; many palm species bear fruit in winter.",
               "The coastal route is less crowded with tourists during the winter months."
+            ],
+            "es": [
+              "Pedalea entre las 10:00 y las 16:00 para aprovechar el calor.",
+              "Los vientos alisios del noreste son comunes en invierno; espera algo de viento en contra.",
+              "Los días son más cortos; las luces para bicicleta son obligatorias después de las 18:00.",
+              "Visita el Palmetum; muchas especies de palmera dan fruto en invierno.",
+              "La ruta costera está menos concurrida por turistas durante los meses de invierno."
             ]
           }
         }
@@ -917,7 +1009,8 @@
             "de": "Mercado de Nuestra Señora de África",
             "hu": "Mercado de Nuestra Señora de África",
             "ro": "Mercado de Nuestra Señora de África",
-            "en": "Market of Our Lady of Africa"
+            "en": "Market of Our Lady of Africa",
+            "es": "Mercado de Nuestra Señora de África"
           },
           "coords": [
             -16.255,
@@ -933,7 +1026,8 @@
             "de": "Parken Sie im Parkhaus des Marktes. Dies ist Ihr erster Cluster-Startpunkt.",
             "hu": "Parkoljon a piac parkolóházában. Ez az első gyalogos zóna kiindulópontja.",
             "ro": "Parcați în parcarea pieței. Acesta este punctul de plecare pentru primul grup de obiective.",
-            "en": "Park in the market's parking garage. This is your first cluster starting point."
+            "en": "Park in the market's parking garage. This is your first cluster starting point.",
+            "es": "Aparca en el aparcamiento del mercado. Este es tu primer punto de inicio de la zona."
           }
         },
         {
@@ -941,7 +1035,8 @@
             "de": "Kirche der Unbefleckten Empfängnis",
             "hu": "Szeplőtelen Fogantatás temploma",
             "ro": "Biserica Neprihănitei Zămisliri",
-            "en": "Church of the Immaculate Conception"
+            "en": "Church of the Immaculate Conception",
+            "es": "Iglesia de la Inmaculada Concepción"
           },
           "coords": [
             -16.2485,
@@ -957,7 +1052,8 @@
             "de": "Ein kurzer Spaziergang vom Markt durch die alten Straßen.",
             "hu": "Rövid séta a piactól a régi utcákon keresztül.",
             "ro": "O scurtă plimbare de la piață pe străzile vechi.",
-            "en": "A short walk from the market through the old streets."
+            "en": "A short walk from the market through the old streets.",
+            "es": "A poca distancia a pie del mercado, por las calles antiguas."
           }
         },
         {
@@ -965,7 +1061,8 @@
             "de": "Teneriffa Raum der Künste (TEA)",
             "hu": "Tenerifei Művészeti Tér (TEA)",
             "ro": "Spațiul Artelor din Tenerife (TEA)",
-            "en": "Tenerife Space of the Arts (TEA)"
+            "en": "Tenerife Space of the Arts (TEA)",
+            "es": "Tenerife Espacio de las Artes (TEA)"
           },
           "coords": [
             -16.2495,
@@ -981,7 +1078,8 @@
             "de": "Direkt neben der Kirche gelegen, ein einfacher Übergang.",
             "hu": "Közvetlenül a templom mellett található, könnyű átsétálni.",
             "ro": "Situat chiar lângă biserică, o tranziție ușoară.",
-            "en": "Located right next to the church, an easy transition."
+            "en": "Located right next to the church, an easy transition.",
+            "es": "Situado justo al lado de la iglesia, una transición cómoda."
           }
         },
         {
@@ -989,7 +1087,8 @@
             "de": "Plaza de España",
             "hu": "Plaza de España",
             "ro": "Plaza de España",
-            "en": "Plaza de España"
+            "en": "Plaza de España",
+            "es": "Plaza de España"
           },
           "coords": [
             -16.2518,
@@ -1005,7 +1104,8 @@
             "de": "Beenden Sie Ihren ersten Cluster hier, bevor Sie zu Ihrem Auto zurückkehren.",
             "hu": "Itt fejezze be az első gyalogos kört, mielőtt visszatérne az autójához.",
             "ro": "Încheiați primul grup de obiective aici înainte de a vă întoarce la mașină.",
-            "en": "Finish your first cluster here before heading back to your car."
+            "en": "Finish your first cluster here before heading back to your car.",
+            "es": "Termina tu primer conjunto aquí antes de volver al coche."
           }
         },
         {
@@ -1013,7 +1113,8 @@
             "de": "Auditorio de Tenerife",
             "hu": "Tenerifei Auditórium",
             "ro": "Auditoriul din Tenerife",
-            "en": "Auditorio de Tenerife"
+            "en": "Auditorio de Tenerife",
+            "es": "Auditorio de Tenerife"
           },
           "coords": [
             -16.25,
@@ -1029,7 +1130,8 @@
             "de": "Fahren Sie zur Küste für Ihren zweiten Cluster. Parkplätze sind in der Nähe verfügbar.",
             "hu": "Vezessen le a partra a második gyalogos zónához. Parkolás a közelben lehetséges.",
             "ro": "Conduceți spre coastă pentru al doilea grup de obiective. Există parcare disponibilă în apropiere.",
-            "en": "Drive to the coast for your second cluster. Parking is available nearby."
+            "en": "Drive to the coast for your second cluster. Parking is available nearby.",
+            "es": "Conduce hasta la costa para tu segundo conjunto. Hay aparcamiento disponible cerca."
           }
         },
         {
@@ -1037,7 +1139,8 @@
             "de": "Castillo de San Juan Bautista",
             "hu": "Keresztelő Szent János kastély",
             "ro": "Castelul San Juan Bautista",
-            "en": "Castle of St. John the Baptist"
+            "en": "Castle of St. John the Baptist",
+            "es": "Castillo de San Juan Bautista"
           },
           "coords": [
             -16.248,
@@ -1053,7 +1156,8 @@
             "de": "Ein sehr kurzer Spaziergang vom Auditorio entlang der Uferpromenade.",
             "hu": "Nagyon rövid séta az Auditóriumtól a tengerparti sétányon.",
             "ro": "O plimbare foarte scurtă de la Auditorio de-a lungul promenadei.",
-            "en": "A very short walk from the Auditorio along the waterfront."
+            "en": "A very short walk from the Auditorio along the waterfront.",
+            "es": "A muy poca distancia a pie del Auditorio por el paseo marítimo."
           }
         },
         {
@@ -1061,7 +1165,8 @@
             "de": "Palmetum von Santa Cruz",
             "hu": "Santa Cruz-i Palmetum",
             "ro": "Palmetumul din Santa Cruz",
-            "en": "Palmetum of Santa Cruz"
+            "en": "Palmetum of Santa Cruz",
+            "es": "Palmetum de Santa Cruz"
           },
           "coords": [
             -16.245,
@@ -1077,7 +1182,8 @@
             "de": "Ein schöner Spaziergang zum Abschluss Ihres Tages, mit toller Aussicht.",
             "hu": "Egy kellemes séta a nap lezárásaként, remek kilátással.",
             "ro": "O plimbare plăcută pentru a încheia ziua, cu priveliști minunate.",
-            "en": "A lovely walk to end your day, offering great views."
+            "en": "A lovely walk to end your day, offering great views.",
+            "es": "Un agradable paseo para terminar el día, con excelentes vistas."
           }
         }
       ],
@@ -1085,7 +1191,8 @@
         "de": "Ihr Tag beginnt mit dem Auto im Zentrum, wo Sie Ihr erstes Cluster zu Fuß erkunden: den Markt, die historische Kirche, das TEA-Museum und die Plaza de España. Gegen Mittag fahren Sie zum Küstencluster. Sie parken erneut und erkunden die moderne Architektur des Auditorio, die nahegelegene Festung und die botanischen Wunder des Palmetum. Dieser Ansatz minimiert Parkprobleme und maximiert das Erlebnis.",
         "hu": "A nap autóval kezdődik a központban, ahol gyalog fedezi fel az első zónát: a piacot, a történelmi templomot, a TEA múzeumot és a Plaza de España-t. Dél körül a parti zónához hajt. Újra parkol, majd felfedezi az Auditorio modern építészetét, a közeli erődöt és a Palmetum botanikai csodáit. Ez a megközelítés minimalizálja a parkolási gondokat és maximalizálja az élményt.",
         "ro": "Ziua începe cu mașina în centru, unde explorați pe jos primul grup de obiective: piața, biserica istorică, muzeul TEA și Plaza de España. Pe la prânz, conduceți către grupul de pe coastă. Parcați din nou și explorați arhitectura modernă a Auditorio, fortăreața din apropiere și minunile botanice ale Palmetum. Această abordare minimizează problemele de parcare și maximizează experiența.",
-        "en": "Your day starts by car in the center, where you explore your first cluster on foot: the market, the historic church, the TEA museum, and Plaza de España. Around midday, you drive to the coastal cluster. You park again and explore the modern architecture of the Auditorio, the nearby fortress, and the botanical wonders of the Palmetum. This approach minimizes parking hassles and maximizes the experience."
+        "en": "Your day starts by car in the center, where you explore your first cluster on foot: the market, the historic church, the TEA museum, and Plaza de España. Around midday, you drive to the coastal cluster. You park again and explore the modern architecture of the Auditorio, the nearby fortress, and the botanical wonders of the Palmetum. This approach minimizes parking hassles and maximizes the experience.",
+        "es": "Tu día comienza en coche en el centro, donde exploras a pie tu primer conjunto: el mercado, la iglesia histórica, el museo TEA y la Plaza de España. Hacia el mediodía, conduces al conjunto costero. Vuelves a aparcar y exploras la arquitectura moderna del Auditorio, la fortaleza cercana y las maravillas botánicas del Palmetum. Este enfoque minimiza los problemas de aparcamiento y maximiza la experiencia."
       },
       "gastro_picks": {
         "de": [
@@ -1189,6 +1296,11 @@
           "Parking in the city center can be difficult; use underground car parks.",
           "Be mindful of one-way streets in the historic center.",
           "Consider a side trip to Teide National Park if you have time."
+        ],
+        "es": [
+          "Aparcar en el centro puede ser difícil; utiliza aparcamientos subterráneos.",
+          "Ten en cuenta las calles de sentido único en el casco histórico.",
+          "Considera una excursión a pie al Parque Nacional del Teide si tienes tiempo."
         ]
       },
       "variants": {
@@ -1197,7 +1309,8 @@
             "de": "Parken Sie bequem am Markt, während draußen der Regen prasselt. Mittags fahren Sie trocken zur Kirche und zum TEA-Museum, wobei die Parkhäuser direkten Zugang bieten. Nachmittags führt die Tour zur Plaza de España und zum Auditorio, wo Sie die Architektur vom warmen Auto aus bewundern können. Den Abend schließen Sie am Palmetum ab, wo die Tropenpflanzen unter dem grauen Himmel sattgrün leuchten.",
             "hu": "Parkoljon kényelmesen a piacnál, amíg kint kopog az eső. Délben autózzon szárazon a templomhoz és a TEA múzeumhoz, a mélygarázsok közvetlen bejutást biztosítanak. Délután a túra a Plaza de Españát és az Auditóriumot érinti, ahol a meleg autóból is csodálhatja az építészetet. Az estét a Palmetumnál zárja, ahol a trópusi növények haragoszölden ragyognak a szürke ég alatt.",
             "ro": "Parcați confortabil la piață în timp ce ploaia bate în parbriz. La prânz, conduceți spre biserică și muzeul TEA, parcările oferind acces direct. După-amiaza, turul include Plaza de España și Auditoriul, unde puteți admira arhitectura din confortul mașinii. Încheiați seara la Palmetum, unde plantele tropicale strălucesc de un verde intens sub cerul gri.",
-            "en": "Park comfortably at the market while the rain pours outside. At noon, drive dry to the church and the TEA museum, using the direct-access parking garages. In the afternoon, the tour takes you to Plaza de España and the Auditorio, where you can admire the architecture from your warm car. End the evening at the Palmetum, where tropical plants glow in deep green under the grey sky."
+            "en": "Park comfortably at the market while the rain pours outside. At noon, drive dry to the church and the TEA museum, using the direct-access parking garages. In the afternoon, the tour takes you to Plaza de España and the Auditorio, where you can admire the architecture from your warm car. End the evening at the Palmetum, where tropical plants glow in deep green under the grey sky.",
+            "es": "Aparca cómodamente en el mercado mientras afuera llueve. Al mediodía, conduce en seco hasta la iglesia y el museo TEA, usando los garajes de acceso directo. Por la tarde, el recorrido te lleva a la Plaza de España y al Auditorio, donde puedes admirar la arquitectura desde tu cálido coche. Termina la noche en el Palmetum, donde las plantas tropicales brillan en un verde intenso bajo el cielo gris."
           },
           "stops": [
             {
@@ -1206,7 +1319,8 @@
                 "de": "Parkhaus unter dem Markt bietet trockenen Zugang.",
                 "hu": "A piac alatti parkolóházból szárazon juthat be.",
                 "ro": "Parcarea de sub piață oferă acces ferit de ploaie.",
-                "en": "The parking garage under the market provides dry access."
+                "en": "The parking garage under the market provides dry access.",
+                "es": "El aparcamiento subterráneo bajo el mercado ofrece acceso seco."
               }
             },
             {
@@ -1215,7 +1329,8 @@
                 "de": "Kurze Wege vom Parkplatz zur Kirche minimieren Regenzeit.",
                 "hu": "A rövid út a parkolótól a templomig minimalizálja az ázást.",
                 "ro": "Distanța scurtă de la parcare la biserică minimizează expunerea.",
-                "en": "Short walk from the parking to the church minimizes rain exposure."
+                "en": "Short walk from the parking to the church minimizes rain exposure.",
+                "es": "Corta caminata desde el aparcamiento hasta la iglesia minimiza la exposición a la lluvia."
               }
             },
             {
@@ -1224,7 +1339,8 @@
                 "de": "Tiefgarage direkt unter dem Museum nutzen.",
                 "hu": "Használja közvetlenül a múzeum alatti mélygarázst.",
                 "ro": "Folosiți parcarea subterană direct de sub muzeu.",
-                "en": "Use the underground parking directly beneath the museum."
+                "en": "Use the underground parking directly beneath the museum.",
+                "es": "Usa el aparcamiento subterráneo justo debajo del museo."
               }
             },
             {
@@ -1233,7 +1349,8 @@
                 "de": "Parkhaus 'Intercambiador' ist eine gute, trockene Basis.",
                 "hu": "Az 'Intercambiador' parkolóház jó és száraz bázis.",
                 "ro": "Parcarea 'Intercambiador' este o bază bună și uscată.",
-                "en": "The 'Intercambiador' parking is a good, dry home base."
+                "en": "The 'Intercambiador' parking is a good, dry home base.",
+                "es": "El aparcamiento del 'Intercambiador' es una buena base, seca y conveniente."
               }
             },
             {
@@ -1242,7 +1359,8 @@
                 "de": "Parken Sie im Außenbereich nah am Eingang.",
                 "hu": "Parkoljon a bejárathoz közeli külső parkolóban.",
                 "ro": "Parcați în zona exterioară aproape de intrare.",
-                "en": "Park in the outdoor area close to the main entrance."
+                "en": "Park in the outdoor area close to the main entrance.",
+                "es": "Aparca en la zona exterior cercana a la entrada principal."
               }
             },
             {
@@ -1251,7 +1369,8 @@
                 "de": "Vom Parkplatz am Auditorio aus zu Fuß erreichbar.",
                 "hu": "Az Auditórium parkolójától gyalog is gyorsan elérhető.",
                 "ro": "Accesibil pe jos din parcarea Auditoriului.",
-                "en": "Easily reachable on foot from the Auditorio parking lot."
+                "en": "Easily reachable on foot from the Auditorio parking lot.",
+                "es": "Fácilmente accesible a pie desde el aparcamiento del Auditorio."
               }
             },
             {
@@ -1260,7 +1379,8 @@
                 "de": "Großer Parkplatz direkt am Eingang, Schirm bereit halten.",
                 "hu": "Nagy parkoló közvetlenül a bejáratnál, legyen kéznél ernyő.",
                 "ro": "Parcare mare la intrare, țineți umbrela la îndemână.",
-                "en": "Large parking right at the entrance, keep your umbrella ready."
+                "en": "Large parking right at the entrance, keep your umbrella ready.",
+                "es": "Amplio aparcamiento justo en la entrada, lleva el paraguas a mano."
               }
             }
           ],
@@ -1292,6 +1412,13 @@
               "Underground parking at TEA and the market offers maximum comfort.",
               "Check your wipers; Canarian rain showers are short but very intense.",
               "Expect some traffic delays near the port area during rainy weather."
+            ],
+            "es": [
+              "Los aparcamientos del centro se llenan rápido cuando llueve.",
+              "Evita la TF-1 costera durante chaparrones intensos (riesgo de aquaplaning).",
+              "El aparcamiento subterráneo del TEA y del mercado ofrece la máxima comodidad.",
+              "Revisa tus limpiaparabrisas; los chubascos canarios son cortos pero muy intensos.",
+              "Espera algunos retenciones cerca del puerto en tiempo de lluvia."
             ]
           }
         },
@@ -1300,7 +1427,8 @@
             "de": "Starten Sie Ihre winterliche Fahrt am Markt, wo das Treiben bei kühlen 18 Grad beginnt. Mittags erkunden Sie die Sehenswürdigkeiten der Stadt bequem mit dem Auto, ohne Parkplatzsorgen in der Nebensaison. Nachmittags besuchen Sie das Auditorio und das Palmetum, wo die Wintersonne die subtropische Pracht beleuchtet. Der Abend endet am Hafen, wo die Luft frisch ist und die Lichter der Stadt im Winter kristallklar leuchten.",
             "hu": "Kezdje téli autós túráját a piacon, ahol a nyüzsgés hűvös, 18 fokos reggelen indul. Délben kényelmesen járja körbe a város látnivalóit, a holtszezonban könnyebb parkolással. Délután látogassa meg az Auditóriumot és a Palmetumot, ahol a téli nap megvilágítja a szubtrópusi pompát. Az este a kikötőnél ér véget, ahol a levegő friss, a város fényei pedig télen kristálytisztán ragyognak.",
             "ro": "Începeți călătoria de iarnă la piață, unde animația începe într-o dimineață răcoroasă de 18 grade. La prânz, explorați atracțiile orașului cu mașina, profitând de parcările mai libere. După-amiaza vizitați Auditoriul și Palmetum, unde soarele de iarnă luminează splendoarea subtropicală. Seara se încheie în port, unde aerul este proaspăt, iar luminile orașului strălucesc clar.",
-            "en": "Start your winter driving tour at the market, where the bustle begins on a crisp 18°C morning. At noon, explore the city's sights comfortably, with easier parking in the off-season. In the afternoon, visit the Auditorio and the Palmetum, where the winter sun illuminates the subtropical splendor. The evening ends at the port, where the air is fresh and the city lights shine crystal clear."
+            "en": "Start your winter driving tour at the market, where the bustle begins on a crisp 18°C morning. At noon, explore the city's sights comfortably, with easier parking in the off-season. In the afternoon, visit the Auditorio and the Palmetum, where the winter sun illuminates the subtropical splendor. The evening ends at the port, where the air is fresh and the city lights shine crystal clear.",
+            "es": "Comienza tu ruta invernal en el mercado, donde la actividad empieza en una fresca mañana de 18°C. Al mediodía, explora los lugares de la ciudad cómodamente, con aparcamiento más fácil en temporada baja. Por la tarde, visita el Auditorio y el Palmetum, donde el sol invernal ilumina el esplendor subtropical. La noche termina en el puerto, con aire fresco y las luces de la ciudad brillando nítidas."
           },
           "stops": [
             {
@@ -1309,7 +1437,8 @@
                 "de": "Ideale Zeit für den Kauf von Weihnachtsleckereien.",
                 "hu": "Ideális időpont karácsonyi édességek vásárlásához.",
                 "ro": "Timpul ideal pentru a cumpăra dulciuri de Crăciun.",
-                "en": "Ideal time to buy traditional Christmas treats."
+                "en": "Ideal time to buy traditional Christmas treats.",
+                "es": "Momento ideal para comprar dulces navideños tradicionales."
               }
             },
             {
@@ -1318,7 +1447,8 @@
                 "de": "Besuchen Sie die Weihnachtskrippe (Belen), falls vorhanden.",
                 "hu": "Nézze meg a betlehemet, ha épp ki van állítva.",
                 "ro": "Vizitați ieslea de Crăciun (Belen), dacă este expusă.",
-                "en": "Visit the Christmas nativity scene (Belen) if displayed."
+                "en": "Visit the Christmas nativity scene (Belen) if displayed.",
+                "es": "Visita el belén si está expuesto."
               }
             },
             {
@@ -1327,7 +1457,8 @@
                 "de": "Abends ist das beleuchtete Gebäude ein Fotomotiv.",
                 "hu": "Este a kivilágított épület remek fotótéma.",
                 "ro": "Seara, clădirea iluminată este un subiect foto excelent.",
-                "en": "The illuminated building is a great photo subject at night."
+                "en": "The illuminated building is a great photo subject at night.",
+                "es": "El edificio iluminado es un gran motivo fotográfico nocturno."
               }
             },
             {
@@ -1336,7 +1467,8 @@
                 "de": "Parken Sie hier für den Weihnachtsmarkt-Besuch.",
                 "hu": "Parkoljon itt, ha megnézné a karácsonyi vásárt.",
                 "ro": "Parcați aici pentru a vizita târgul de Crăciun.",
-                "en": "Park here to visit the local Christmas market."
+                "en": "Park here to visit the local Christmas market.",
+                "es": "Aparca aquí para visitar el mercado navideño local."
               }
             },
             {
@@ -1345,7 +1477,8 @@
                 "de": "Das Winterlicht hebt die weißen Kurven perfekt hervor.",
                 "hu": "A téli fények tökéletesen kiemelik a fehér íveket.",
                 "ro": "Lumina de iarnă evidențiază perfect curbele albe.",
-                "en": "Winter light highlights the white curves perfectly."
+                "en": "Winter light highlights the white curves perfectly.",
+                "es": "La luz invernal resalta perfectamente las curvas blancas."
               }
             },
             {
@@ -1354,7 +1487,8 @@
                 "de": "Kurzer Stopp für Fotos bei Sonnenuntergang.",
                 "hu": "Gyors megálló fotózáshoz naplementekor.",
                 "ro": "Oprire scurtă pentru fotografii la apus.",
-                "en": "Quick stop for photos at sunset."
+                "en": "Quick stop for photos at sunset.",
+                "es": "Parada rápida para fotos al atardecer."
               }
             },
             {
@@ -1363,7 +1497,8 @@
                 "de": "Beste Zeit für den Aufstieg zum Gipfel des Hügels.",
                 "hu": "A legjobb időszak a dombtetőre való feljutáshoz.",
                 "ro": "Cea mai bună perioadă pentru a urca în vârful dealului.",
-                "en": "Best season to climb to the top of the hill."
+                "en": "Best season to climb to the top of the hill.",
+                "es": "Mejor época para subir a la cima de la colina."
               }
             }
           ],
@@ -1395,6 +1530,13 @@
               "Air conditioning in the car is usually not needed in winter.",
               "Be careful if driving to the mountains (Anaga); it's much colder there.",
               "Use the car to return quickly to your accommodation after sunset."
+            ],
+            "es": [
+              "Encontrar aparcamiento es mucho más fácil durante los meses de invierno.",
+              "Las calles principales se decoran con luces navideñas (desde finales de nov.).",
+              "En invierno normalmente no se necesita aire acondicionado en el coche.",
+              "Ten cuidado si conduces a la montaña (Anaga); allí hace mucho más frío.",
+              "Usa el coche para volver rápidamente al alojamiento tras el anochecer."
             ]
           }
         }
@@ -1413,7 +1555,8 @@
             "de": "Mercado de Nuestra Señora de África",
             "hu": "Mercado de Nuestra Señora de África",
             "ro": "Mercado de Nuestra Señora de África",
-            "en": "Market of Our Lady of Africa"
+            "en": "Market of Our Lady of Africa",
+            "es": "Mercado de Nuestra Señora de África"
           },
           "coords": [
             -16.255,
@@ -1429,7 +1572,8 @@
             "de": "Nehmen Sie einen Bus oder eine Straßenbahn zum Busbahnhof (Intercambiador), der Markt ist nur einen kurzen Spaziergang entfernt.",
             "hu": "Menjen busszal vagy villamossal az buszpályaudvarra (Intercambiador), a piac rövid sétatávolságra van.",
             "ro": "Luați un autobuz sau un tramvai până la autogară (Intercambiador), piața este la o scurtă plimbare.",
-            "en": "Take a bus or tram to the main station (Intercambiador), the market is a short walk away."
+            "en": "Take a bus or tram to the main station (Intercambiador), the market is a short walk away.",
+            "es": "Toma un autobús o tranvía hasta la estación principal (Intercambiador); el mercado está a un corto paseo."
           }
         },
         {
@@ -1437,7 +1581,8 @@
             "de": "Teneriffa Raum der Künste (TEA)",
             "hu": "Tenerifei Művészeti Tér (TEA)",
             "ro": "Spațiul Artelor din Tenerife (TEA)",
-            "en": "Tenerife Space of the Arts (TEA)"
+            "en": "Tenerife Space of the Arts (TEA)",
+            "es": "Tenerife Espacio de las Artes (TEA)"
           },
           "coords": [
             -16.2495,
@@ -1453,7 +1598,8 @@
             "de": "Folgen Sie dem Barranco de Santos vom Markt aus.",
             "hu": "Kövesse a Barranco de Santos-t a piactól.",
             "ro": "Urmați Barranco de Santos de la piață.",
-            "en": "Follow the Barranco de Santos ravine down from the market."
+            "en": "Follow the Barranco de Santos ravine down from the market.",
+            "es": "Sigue el barranco de Santos desde el mercado hasta abajo."
           }
         },
         {
@@ -1461,7 +1607,8 @@
             "de": "Plaza de España",
             "hu": "Plaza de España",
             "ro": "Plaza de España",
-            "en": "Plaza de España"
+            "en": "Plaza de España",
+            "es": "Plaza de España"
           },
           "coords": [
             -16.2518,
@@ -1477,7 +1624,8 @@
             "de": "Das Herz der Stadt, ideal für eine kurze Pause.",
             "hu": "A város szíve, ideális egy rövid pihenőre.",
             "ro": "Inima orașului, ideală pentru o scurtă pauză.",
-            "en": "The heart of the city, ideal for a short break."
+            "en": "The heart of the city, ideal for a short break.",
+            "es": "El corazón de la ciudad, ideal para una breve pausa."
           }
         },
         {
@@ -1485,7 +1633,8 @@
             "de": "Parque García Sanabria",
             "hu": "García Sanabria Park",
             "ro": "Parcul García Sanabria",
-            "en": "García Sanabria Park"
+            "en": "García Sanabria Park",
+            "es": "Parque García Sanabria"
           },
           "coords": [
             -16.256,
@@ -1501,7 +1650,8 @@
             "de": "Nehmen Sie eine kurze Busfahrt von der Plaza de España zum Park.",
             "hu": "Tegyen egy rövid buszutat a Plaza de Españától a parkig.",
             "ro": "Luați un autobuz pe o distanță scurtă de la Plaza de España la parc.",
-            "en": "Take a short bus ride up from Plaza de España to the park."
+            "en": "Take a short bus ride up from Plaza de España to the park.",
+            "es": "Toma un corto autobús desde la Plaza de España hasta el parque."
           }
         },
         {
@@ -1509,7 +1659,8 @@
             "de": "Auditorio de Tenerife",
             "hu": "Tenerifei Auditórium",
             "ro": "Auditoriul din Tenerife",
-            "en": "Auditorio de Tenerife"
+            "en": "Auditorio de Tenerife",
+            "es": "Auditorio de Tenerife"
           },
           "coords": [
             -16.25,
@@ -1525,7 +1676,8 @@
             "de": "Nehmen Sie die Straßenbahn (Linie 1) bis zur Endstation 'Intercambiador'.",
             "hu": "Menjen a villamossal (1-es vonal) az 'Intercambiador' végállomásig.",
             "ro": "Luați tramvaiul (Linia 1) până la capătul liniei 'Intercambiador'.",
-            "en": "Take the tram (Line 1) down to its final stop, 'Intercambiador'."
+            "en": "Take the tram (Line 1) down to its final stop, 'Intercambiador'.",
+            "es": "Toma el tranvía (Línea 1) hasta su parada terminal, 'Intercambiador'."
           }
         },
         {
@@ -1533,7 +1685,8 @@
             "de": "Palmetum von Santa Cruz",
             "hu": "Santa Cruz-i Palmetum",
             "ro": "Palmetumul din Santa Cruz",
-            "en": "Palmetum of Santa Cruz"
+            "en": "Palmetum of Santa Cruz",
+            "es": "Palmetum de Santa Cruz"
           },
           "coords": [
             -16.245,
@@ -1549,7 +1702,8 @@
             "de": "Ein schöner Spaziergang vom Auditorio zum Abschluss Ihres Tages.",
             "hu": "Egy kellemes séta az Auditóriumtól a nap lezárásaként.",
             "ro": "O plimbare plăcută de la Auditorio pentru a încheia ziua.",
-            "en": "A pleasant walk from the Auditorio to finish your day."
+            "en": "A pleasant walk from the Auditorio to finish your day.",
+            "es": "Un agradable paseo desde el Auditorio para terminar el día."
           }
         }
       ],
@@ -1557,7 +1711,8 @@
         "de": "Mit öffentlichen Verkehrsmitteln starten Sie Ihren Tag im ersten Cluster: dem Markt- und Museumsviertel. Ein kurzer Spaziergang verbindet diese Ziele. Mittags bringt Sie ein Bus zum zweiten Cluster, dem üppigen Parque García Sanabria, für eine entspannte Pause. Am Nachmittag bringt Sie die Straßenbahn zum letzten Cluster an der Küste, wo Sie das Auditorio und das Palmetum erkunden. Dies ist eine effiziente Art, die weitläufigen Sehenswürdigkeiten der Stadt zu sehen.",
         "hu": "Tömegközlekedéssel kezdi a napot az első zónában: a piac- és múzeumnegyedben. Egy rövid séta köti össze ezeket a helyszíneket. Délben busz viszi a második zónába, a buja Parque García Sanabriába egy pihentető szünetre. Délután a villamos viszi az utolsó, tengerparti zónába, ahol felfedezheti az Auditóriumot és a Palmetumot. Ez egy hatékony módja a város szétszórt látnivalóinak megtekintésének.",
         "ro": "Folosind transportul public, începeți ziua în primul grup: cartierul pieței și al muzeelor. O scurtă plimbare leagă aceste destinații. La prânz, un autobuz vă duce la al doilea grup, luxuriantul Parc García Sanabria, pentru o pauză relaxantă. După-amiaza, tramvaiul vă duce la ultimul grup de pe coastă pentru a explora Auditorio și Palmetum. Acesta este un mod eficient de a vedea atracțiile dispersate ale orașului.",
-        "en": "Using public transit, you start your day at the first cluster: the market and museum district. A short walk connects these destinations. At midday, a bus takes you to the second cluster, the lush Parque García Sanabria, for a relaxing break. In the afternoon, the tram brings you to the final, coastal cluster to explore the Auditorio and Palmetum. This is an efficient way to see the city's spread-out attractions."
+        "en": "Using public transit, you start your day at the first cluster: the market and museum district. A short walk connects these destinations. At midday, a bus takes you to the second cluster, the lush Parque García Sanabria, for a relaxing break. In the afternoon, the tram brings you to the final, coastal cluster to explore the Auditorio and Palmetum. This is an efficient way to see the city's spread-out attractions.",
+        "es": "Usando el transporte público, comienzas el día en el primer conjunto: el mercado y el distrito de museos. Un corto paseo conecta estos destinos. Al mediodía, un autobús te lleva al segundo conjunto, el frondoso Parque García Sanabria, para un descanso relajante. Por la tarde, el tranvía te lleva al conjunto costero final para explorar el Auditorio y el Palmetum. Es una forma eficiente de ver los atractivos dispersos de la ciudad."
       },
       "gastro_picks": {
         "de": [
@@ -1661,6 +1816,11 @@
           "Buy a 'bono' card for cheaper bus and tram fares.",
           "The TITSA app is useful for planning bus routes in real time.",
           "Tram Line 1 is a quick and scenic way to commute between the center and the coast."
+        ],
+        "es": [
+          "Compra una tarjeta 'bono' para tarifas más baratas en bus y tranvía.",
+          "La app de TITSA es útil para planificar rutas de autobús en tiempo real.",
+          "La Línea 1 del tranvía es una forma rápida y pintoresca de desplazarse entre el centro y la costa."
         ]
       },
       "variants": {
@@ -1669,7 +1829,8 @@
             "de": "Starten Sie Ihre Tour am Markt, den Sie trocken mit dem Bus erreichen. Mittags bringt Sie der Nahverkehr schnell zum TEA-Museum und zur Plaza de España, wobei die Haltestellen meist überdacht sind. Nachmittags fahren Sie zum Park und zum Auditorio, wo Sie die Architektur ohne Regensorgen bewundern. Den Abend beenden Sie am Palmetum, wobei die Busfahrt Ihnen den Blick auf das regnerische Santa Cruz ermöglicht.",
             "hu": "Kezdje túráját a piacon, amelyet busszal szárazon érhet el. Délben a tömegközlekedés gyorsan a TEA múzeumhoz és a Plaza de Españához viszi, a megállók többsége fedett. Délután a parkot és az Auditóriumot látogassa meg, az eső miatt nem kell aggódnia az utazás alatt. Az estét a Palmetumnál zárja, a busz ablakából pedig megcsodálhatja az esős Santa Cruz fényeit.",
             "ro": "Începeți turul la piață, unde puteți ajunge uscați cu autobuzul. La prânz, transportul public vă duce rapid la muzeul TEA și Plaza de España, stațiile fiind majoritar acoperite. După-amiaza vizitați parcul și Auditoriul, fără grija ploii în timpul deplasării. Încheiați seara la Palmetum, admirând din autobuz peisajul ploios al orașului.",
-            "en": "Start your tour at the market, easily reachable dry by bus. At noon, public transit takes you quickly to the TEA museum and Plaza de España; most stops are covered. In the afternoon, visit the park and the Auditorio, staying dry while moving between sights. End your evening at the Palmetum, enjoying the view of rainy Santa Cruz from the bus window."
+            "en": "Start your tour at the market, easily reachable dry by bus. At noon, public transit takes you quickly to the TEA museum and Plaza de España; most stops are covered. In the afternoon, visit the park and the Auditorio, staying dry while moving between sights. End your evening at the Palmetum, enjoying the view of rainy Santa Cruz from the bus window.",
+            "es": "Comienza tu recorrido en el mercado, fácilmente accesible en seco en autobús. Al mediodía, el transporte público te lleva rápidamente al museo TEA y a la Plaza de España; la mayoría de paradas están cubiertas. Por la tarde, visita el parque y el Auditorio, manteniéndote seco mientras te desplazas entre los lugares. Termina la noche en el Palmetum, disfrutando de la vista de la lluviosa Santa Cruz desde la ventana del autobús."
           },
           "stops": [
             {
@@ -1678,7 +1839,8 @@
                 "de": "Bushaltestellen direkt gegenüber dem Markteingang.",
                 "hu": "Buszmegállók közvetlenül a piac bejáratával szemben.",
                 "ro": "Stații de autobuz chiar vizavi de intrarea în piață.",
-                "en": "Bus stops are located directly opposite the market entrance."
+                "en": "Bus stops are located directly opposite the market entrance.",
+                "es": "Las paradas de autobús están ubicadas justo frente a la entrada del mercado."
               }
             },
             {
@@ -1687,7 +1849,8 @@
                 "de": "Kurzer, teils überdachter Weg von der Haltestelle.",
                 "hu": "Rövid, részben fedett út a megállótól.",
                 "ro": "Drum scurt, parțial acoperit, de la stație.",
-                "en": "Short, partially covered walk from the bus stop."
+                "en": "Short, partially covered walk from the bus stop.",
+                "es": "Corto paseo parcialmente cubierto desde la parada de autobús."
               }
             },
             {
@@ -1696,7 +1859,8 @@
                 "de": "Zentraler Knotenpunkt 'Intercambiador' ist komplett überdacht.",
                 "hu": "Az 'Intercambiador' központi csomópont teljesen fedett.",
                 "ro": "Nodul central 'Intercambiador' este complet acoperit.",
-                "en": "The central 'Intercambiador' hub is fully covered."
+                "en": "The central 'Intercambiador' hub is fully covered.",
+                "es": "El centro 'Intercambiador' está completamente cubierto."
               }
             },
             {
@@ -1705,7 +1869,8 @@
                 "de": "Haltestellen an der Nordseite bieten besseren Schutz.",
                 "hu": "Az északi oldali megállók jobb védelmet nyújtanak.",
                 "ro": "Stațiile de pe latura de nord oferă protecție mai bună.",
-                "en": "Stops on the north side offer better rain protection."
+                "en": "Stops on the north side offer better rain protection.",
+                "es": "Las paradas en el lado norte ofrecen mejor protección contra la lluvia."
               }
             },
             {
@@ -1714,7 +1879,8 @@
                 "de": "Buslinie 910 hält direkt davor, minimiert Gehzeit im Regen.",
                 "hu": "A 910-es busz közvetlenül előtte áll meg, kevés gyaloglás.",
                 "ro": "Linia 910 oprește chiar în față, minimizând mersul prin ploaie.",
-                "en": "Bus line 910 stops right in front, minimizing walking in the rain."
+                "en": "Bus line 910 stops right in front, minimizing walking in the rain.",
+                "es": "La línea de autobús 910 para justo enfrente, minimizando la caminata bajo la lluvia."
               }
             },
             {
@@ -1723,7 +1889,8 @@
                 "de": "Vom Intercambiador nur ein kurzer Weg, Schirm nötig.",
                 "hu": "Az Intercambiadortól rövid út, ernyő szükséges.",
                 "ro": "Drum scurt de la Intercambiador, necesită umbrelă.",
-                "en": "Short walk from the Intercambiador; umbrella required."
+                "en": "Short walk from the Intercambiador; umbrella required.",
+                "es": "Corta caminata desde el Intercambiador; lleva paraguas."
               }
             }
           ],
@@ -1755,6 +1922,13 @@
               "Buy a 'Ten+' card in advance to avoid using ticket machines in the rain.",
               "Buses may experience slight delays due to traffic during showers.",
               "Most city center stops are equipped with glass rain shelters."
+            ],
+            "es": [
+              "El tranvía (Tranvía) es la forma más seca de moverse.",
+              "La estación de autobuses 'Intercambiador' es un céntrico y cubierto nudo de intercambio ideal.",
+              "Compra una tarjeta 'Ten+' por adelantado para evitar usar las máquinas expendedoras bajo la lluvia.",
+              "Los autobuses pueden sufrir ligeros retrasos por el tráfico durante los chaparrones.",
+              "La mayoría de paradas en el centro están equipadas con refugios de cristal contra la lluvia."
             ]
           }
         },
@@ -1763,7 +1937,8 @@
             "de": "Starten Sie am Markt in einen milden Wintertag, bequem erreichbar mit dem Bus. Mittags bringt Sie die Straßenbahn in die Altstadt, wo die Wintersonne die Fassaden beleuchtet. Nachmittags fahren Sie zum Park und zum Auditorio, um die subtropische Atmosphäre bei angenehmen Temperaturen zu genießen. Den Abend lassen Sie am Palmetum ausklingen, wobei die Rückfahrt zum Hotel im gut beleuchteten Nahverkehr sicher und warm ist.",
             "hu": "Kezdje a piacon az enyhe téli napot, amely busszal kényelmesen elérhető. Délben a villamos viszi az óvárosba, ahol a téli nap megvilágítja a homlokzatokat. Délután utazzon a parkhoz és az Auditóriumhoz, hogy élvezze a szubtrópusi hangulatot a kellemes melegben. Az estét a Palmetumnál zárja, a visszaút a jól kivilágított járatokon biztonságos és meleg.",
             "ro": "Începeți la piață o zi blândă de iarnă, accesibilă confortabil cu autobuzul. La prânz, tramvaiul vă duce în centrul vechi, unde soarele de iarnă luminează fațadele. După-amiaza mergeți la parc și la Auditoriu pentru a savura atmosfera subtropicală. Seara se încheie la Palmetum, întoarcerea la hotel fiind sigură și caldă în transportul public bine iluminat.",
-            "en": "Start a mild winter day at the market, conveniently reachable by bus. At noon, the tram takes you to the old town, where the winter sun lights up the historic facades. In the afternoon, ride to the park and the Auditorio to enjoy the subtropical atmosphere in pleasant temperatures. End your evening at the Palmetum; the ride back is safe and warm in well-lit public transit."
+            "en": "Start a mild winter day at the market, conveniently reachable by bus. At noon, the tram takes you to the old town, where the winter sun lights up the historic facades. In the afternoon, ride to the park and the Auditorio to enjoy the subtropical atmosphere in pleasant temperatures. End your evening at the Palmetum; the ride back is safe and warm in well-lit public transit.",
+            "es": "Comienza un día invernal suave en el mercado, accesible en autobús. Al mediodía, el tranvía te lleva al casco antiguo, donde el sol de invierno ilumina las fachadas históricas. Por la tarde, viaja al parque y al Auditorio para disfrutar de la atmósfera subtropical en temperaturas agradables. Termina la noche en el Palmetum; el regreso es seguro y cálido en el bien iluminado transporte público."
           },
           "stops": [
             {
@@ -1772,7 +1947,8 @@
                 "de": "Saisonaler Betrieb, morgens ist es am lebhaftesten.",
                 "hu": "Szezonális kínálat, reggel a legpezsgőbb a piac.",
                 "ro": "Program sezonier, dimineața este cel mai plin de viață.",
-                "en": "Seasonal produce available; morning is the liveliest time."
+                "en": "Seasonal produce available; morning is the liveliest time.",
+                "es": "Productos de temporada disponibles; la mañana es el momento de mayor actividad."
               }
             },
             {
@@ -1781,7 +1957,8 @@
                 "de": "Gute Anbindung an alle Hauptbuslinien.",
                 "hu": "Kiváló összeköttetés az összes fő buszvonallal.",
                 "ro": "Conexiuni bune cu toate liniile principale de autobuz.",
-                "en": "Good connections to all major bus lines."
+                "en": "Good connections to all major bus lines.",
+                "es": "Buenas conexiones con todas las líneas principales de autobús."
               }
             },
             {
@@ -1790,7 +1967,8 @@
                 "de": "Hier halten die meisten Touristenbusse und die Tram.",
                 "hu": "Itt áll meg a legtöbb turistabusz és a villamos is.",
                 "ro": "Aici opresc majoritatea autobuzelor turistice și tramvaiul.",
-                "en": "Most tourist buses and the tram stop here."
+                "en": "Most tourist buses and the tram stop here.",
+                "es": "La mayoría de autobuses turísticos y el tranvía paran aquí."
               }
             },
             {
@@ -1799,7 +1977,8 @@
                 "de": "Beste Erreichbarkeit mit den Linien 905 und 912.",
                 "hu": "A 905-ös és 912-es járatokkal érhető el a legjobban.",
                 "ro": "Accesibil cel mai bine cu liniile 905 și 912.",
-                "en": "Best reached using lines 905 and 912."
+                "en": "Best reached using lines 905 and 912.",
+                "es": "Mejor accesible con las líneas 905 y 912."
               }
             },
             {
@@ -1808,7 +1987,8 @@
                 "de": "Die Haltestelle bietet einen tollen Blick auf das Meer.",
                 "hu": "A megállóból nagyszerű kilátás nyílik a tengerre.",
                 "ro": "Stația oferă o priveliște minunată asupra mării.",
-                "en": "The stop offers a great view of the ocean."
+                "en": "The stop offers a great view of the ocean.",
+                "es": "La parada ofrece una gran vista al mar."
               }
             },
             {
@@ -1817,7 +1997,8 @@
                 "de": "Nahe am Busbahnhof, ideal für die Rückreise.",
                 "hu": "Közel van a buszállomáshoz, ideális a hazautazáshoz.",
                 "ro": "Aproape de autogară, ideal pentru drumul de întoarcere.",
-                "en": "Close to the main bus station, ideal for the return trip."
+                "en": "Close to the main bus station, ideal for the return trip.",
+                "es": "Cerca de la estación de autobuses principal, ideal para el regreso."
               }
             }
           ],
@@ -1849,6 +2030,13 @@
               "The Ten+ card is valid for both buses and the tram.",
               "Buses run less frequently in the evening; check the timetable.",
               "The Palmetum is just a few minutes' walk from the main bus station."
+            ],
+            "es": [
+              "El tranvía circula con su horario habitual durante el invierno.",
+              "Usa autobuses con aire acondicionado si al mediodía se pone sorprendentemente caluroso.",
+              "La tarjeta Ten+ es válida tanto en autobuses como en tranvía.",
+              "Los autobuses circulan con menor frecuencia por la noche; consulta el horario.",
+              "El Palmetum está a pocos minutos a pie de la estación principal de autobuses."
             ]
           }
         }

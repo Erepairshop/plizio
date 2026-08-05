@@ -21,7 +21,8 @@
             "de": "Port de Palamós",
             "hu": "Palamós kikötője",
             "ro": "Portul Palamós",
-            "en": "Port of Palamós"
+            "en": "Port of Palamós",
+            "es": "Puerto de Palamós"
           },
           "coords": [
             3.1251,
@@ -36,7 +37,8 @@
             "de": "Beobachten Sie das Treiben der Fischerboote.",
             "hu": "Figyelje meg a halászhajók forgalmát.",
             "ro": "Observați activitatea bărcilor de pescuit.",
-            "en": "Watch the activity of the fishing boats."
+            "en": "Watch the activity of the fishing boats.",
+            "es": "Observa la actividad de los barcos pesqueros."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Museu de la Pesca",
             "hu": "Halászati Múzeum",
             "ro": "Muzeul Pescuitului",
-            "en": "Fishing Museum"
+            "en": "Fishing Museum",
+            "es": "Museo de la Pesca"
           },
           "coords": [
             3.1272,
@@ -59,7 +62,8 @@
             "de": "Einzigartig am Mittelmeer.",
             "hu": "Egyedülálló a Földközi-tengeren.",
             "ro": "Unic în Marea Mediterană.",
-            "en": "Unique in the Mediterranean."
+            "en": "Unique in the Mediterranean.",
+            "es": "Único en el Mediterráneo."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Església de Santa Maria",
             "hu": "Szűz Mária templom",
             "ro": "Biserica Santa Maria",
-            "en": "Church of Santa Maria"
+            "en": "Church of Santa Maria",
+            "es": "Iglesia de Santa María"
           },
           "coords": [
             3.1291,
@@ -82,7 +87,8 @@
             "de": "Sehen Sie sich die religiöse Kunst an.",
             "hu": "Tekintse meg a vallási műalkotásokat.",
             "ro": "Vedeți operele de artă religioasă.",
-            "en": "See the religious artworks inside."
+            "en": "See the religious artworks inside.",
+            "es": "Mira las obras religiosas del interior."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Far de Palamós",
             "hu": "Palamós világítótorony",
             "ro": "Farul Palamós",
-            "en": "Palamós Lighthouse"
+            "en": "Palamós Lighthouse",
+            "es": "Faro de Palamós"
           },
           "coords": [
             3.1312,
@@ -105,7 +112,8 @@
             "de": "Blick auf die Bucht.",
             "hu": "Szép kilátás az öbölre.",
             "ro": "Vedere asupra golfului.",
-            "en": "Nice view of the bay."
+            "en": "Nice view of the bay.",
+            "es": "Bonitas vistas de la bahía."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Camí de Ronda",
             "hu": "Parti sétány (Camí de Ronda)",
             "ro": "Camí de Ronda",
-            "en": "Camí de Ronda"
+            "en": "Camí de Ronda",
+            "es": "Camí de Ronda"
           },
           "coords": [
             3.1352,
@@ -128,7 +137,8 @@
             "de": "Beginn des berühmten Küstenwegs.",
             "hu": "A híres parti sétány kezdete.",
             "ro": "Începutul celebrului drum de coastă.",
-            "en": "Start of the famous coastal path."
+            "en": "Start of the famous coastal path.",
+            "es": "Inicio del famoso sendero costero."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Palamós lebt vom Meer. Beginnen Sie Ihren Rundgang am geschäftigen Hafen und tauchen Sie im Fischereimuseum in die maritime Geschichte ein.\n\nBesuchen Sie dann die Kirche Santa Maria im Zentrum der Altstadt und schlendern Sie zum Leuchtturm für eine Meeresbrise.\n\nAm Nachmittag bietet der Camí de Ronda spektakuläre Ausblicke auf die felsige Küste und versteckte Buchten.\n\nBeenden Sie Ihren Spaziergang mit dem Beobachten der täglichen Fischauktion am späten Nachmittag.",
         "hu": "Palamós a tengerből él. Kezdje a körutat a nyüzsgő kikötőben, és merüljön el a tengerészeti történelemben a Halászati Múzeumban.\n\nLátogasson el a Szűz Mária templomba az óváros központjában, majd sétáljon el a világítótoronyhoz egy kis tengeri szellőért.\n\nDélután a Camí de Ronda parti sétány látványos kilátást nyújt a sziklás partra és a rejtett öblökre.\n\nZárja a sétát a napi halárverés megtekintésével késő délután.",
         "ro": "Palamós trăiește prin mare. Începeți turul în portul plin de viață și scufundați-vă în istoria maritimă la Muzeul Pescuitului.\n\nVizitați apoi Biserica Santa Maria din centrul vechi și plimbați-vă până la far pentru o briză marină.\n\nDupă-amiaza, Camí de Ronda oferă vederi spectaculoase asupra coastei stâncoase și a golfurilor ascunse.\n\nÎncheiați plimbarea urmărind licitația zilnică de pește după-amiaza târziu.",
-        "en": "Palamós lives from the sea. Start your tour at the bustling port and dive into maritime history at the Fishing Museum.\n\nThen visit the Church of Santa Maria in the center of the old town and stroll to the lighthouse for a sea breeze.\n\nIn the afternoon, the Camí de Ronda coastal path offers spectacular views of the rocky coast and hidden coves.\n\nFinish your walk by watching the daily fish auction in the late afternoon."
+        "en": "Palamós lives from the sea. Start your tour at the bustling port and dive into maritime history at the Fishing Museum.\n\nThen visit the Church of Santa Maria in the center of the old town and stroll to the lighthouse for a sea breeze.\n\nIn the afternoon, the Camí de Ronda coastal path offers spectacular views of the rocky coast and hidden coves.\n\nFinish your walk by watching the daily fish auction in the late afternoon.",
+        "es": "Palamós vive del mar. Empieza tu recorrido en el bullicioso puerto y sumérgete en la historia marítima en el Museo de la Pesca.\n\nLuego visita la Iglesia de Santa María en el centro del casco antiguo y pasea hasta el faro para disfrutar de la brisa marina.\n\nPor la tarde, el Camí de Ronda ofrece vistas espectaculares de la costa rocosa y calas escondidas.\n\nTermina la caminata viendo la lonja de pescado en la tarde."
       },
       "gastro_picks": {
         "de": [
@@ -256,6 +267,11 @@
           "The fish auction takes place weekdays from 4 PM.",
           "The Fishing Museum is often closed on Mondays.",
           "Try the local Arroz a Banda."
+        ],
+        "es": [
+          "La subasta de pescado tiene lugar entre semana a partir de las 16:00.",
+          "El Museo de la Pesca suele estar cerrado los lunes.",
+          "Prueba el arroz a banda local."
         ]
       },
       "variants": {
@@ -264,7 +280,8 @@
             "de": "Palamós lebt vom Meer. Beginnen Sie Ihren Rundgang am geschäftigen Hafen und tauchen Sie im Fischereimuseum in die maritime Geschichte ein.\n\nBesuchen Sie dann die Kirche Santa Maria im Zentrum der Altstadt und schlendern Sie zum Leuchtturm für eine Meeresbrise.\n\nAm Nachmittag bietet der Camí de Ronda spektakuläre Ausblicke auf die felsige Küste und versteckte Buchten.\n\nBeenden Sie Ihren Spaziergang mit dem Beobachten der täglichen Fischauktion am späten Nachmittag.",
             "hu": "Palamós a tengerből él. Kezdje a körutat a nyüzsgő kikötőben, és merüljön el a tengerészeti történelemben a Halászati Múzeumban.\n\nLátogasson el a Szűz Mária templomba az óváros központjában, majd sétáljon el a világítótoronyhoz egy kis tengeri szellőért.\n\nDélután a Camí de Ronda parti sétány látványos kilátást nyújt a sziklás partra és a rejtett öblökre.\n\nZárja a sétát a napi halárverés megtekintésével késő délután.",
             "ro": "Palamós trăiește prin mare. Începeți turul în portul plin de viață și scufundați-vă în istoria maritimă la Muzeul Pescuitului.\n\nVizitați apoi Biserica Santa Maria din centrul vechi și plimbați-vă până la far pentru o briză marină.\n\nDupă-amiaza, Camí de Ronda oferă vederi spectaculoase asupra coastei stâncoase și a golfurilor ascunse.\n\nÎncheiați plimbarea urmărind licitația zilnică de pește după-amiaza târziu.",
-            "en": "Palamós lives from the sea. Start your tour at the bustling port and dive into maritime history at the Fishing Museum.\n\nThen visit the Church of Santa Maria in the center of the old town and stroll to the lighthouse for a sea breeze.\n\nIn the afternoon, the Camí de Ronda coastal path offers spectacular views of the rocky coast and hidden coves.\n\nFinish your walk by watching the daily fish auction in the late afternoon."
+            "en": "Palamós lives from the sea. Start your tour at the bustling port and dive into maritime history at the Fishing Museum.\n\nThen visit the Church of Santa Maria in the center of the old town and stroll to the lighthouse for a sea breeze.\n\nIn the afternoon, the Camí de Ronda coastal path offers spectacular views of the rocky coast and hidden coves.\n\nFinish your walk by watching the daily fish auction in the late afternoon.",
+            "es": "Palamós vive del mar. Empieza tu recorrido en el bullicioso puerto y sumérgete en la historia marítima en el Museo de la Pesca.\n\nLuego visita la Iglesia de Santa María en el centro del casco antiguo y pasea hasta el faro para disfrutar de la brisa marina.\n\nPor la tarde, el Camí de Ronda ofrece vistas espectaculares de la costa rocosa y calas escondidas.\n\nTermina la caminata viendo la lonja de pescado en la tarde."
           },
           "stops": [
             {
@@ -272,13 +289,15 @@
                 "de": "Port de Palamós",
                 "hu": "Palamós kikötője",
                 "ro": "Portul Palamós",
-                "en": "Port of Palamós"
+                "en": "Port of Palamós",
+                "es": "Puerto de Palamós"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das Treiben der Fischerboote.",
                 "hu": "Figyelje meg a halászhajók forgalmát.",
                 "ro": "Observați activitatea bărcilor de pescuit.",
-                "en": "Watch the activity of the fishing boats."
+                "en": "Watch the activity of the fishing boats.",
+                "es": "Observa la actividad de los barcos pesqueros."
               }
             },
             {
@@ -286,13 +305,15 @@
                 "de": "Museu de la Pesca",
                 "hu": "Halászati Múzeum",
                 "ro": "Muzeul Pescuitului",
-                "en": "Fishing Museum"
+                "en": "Fishing Museum",
+                "es": "Museo de la Pesca"
               },
               "tip_5lang": {
                 "de": "Einzigartig am Mittelmeer.",
                 "hu": "Egyedülálló a Földközi-tengeren.",
                 "ro": "Unic în Marea Mediterană.",
-                "en": "Unique in the Mediterranean."
+                "en": "Unique in the Mediterranean.",
+                "es": "Único en el Mediterráneo."
               }
             },
             {
@@ -300,13 +321,15 @@
                 "de": "Església de Santa Maria",
                 "hu": "Szűz Mária templom",
                 "ro": "Biserica Santa Maria",
-                "en": "Church of Santa Maria"
+                "en": "Church of Santa Maria",
+                "es": "Iglesia de Santa María"
               },
               "tip_5lang": {
                 "de": "Sehen Sie sich die religiöse Kunst an.",
                 "hu": "Tekintse meg a vallási műalkotásokat.",
                 "ro": "Vedeți operele de artă religioasă.",
-                "en": "See the religious artworks inside."
+                "en": "See the religious artworks inside.",
+                "es": "Contempla las obras religiosas del interior."
               }
             },
             {
@@ -314,13 +337,15 @@
                 "de": "Far de Palamós",
                 "hu": "Palamós világítótorony",
                 "ro": "Farul Palamós",
-                "en": "Palamós Lighthouse"
+                "en": "Palamós Lighthouse",
+                "es": "Faro de Palamós"
               },
               "tip_5lang": {
                 "de": "Blick auf die Bucht.",
                 "hu": "Szép kilátás az öbölre.",
                 "ro": "Vedere asupra golfului.",
-                "en": "Nice view of the bay."
+                "en": "Nice view of the bay.",
+                "es": "Buena vista de la bahía."
               }
             },
             {
@@ -328,13 +353,15 @@
                 "de": "Camí de Ronda",
                 "hu": "Parti sétány (Camí de Ronda)",
                 "ro": "Camí de Ronda",
-                "en": "Camí de Ronda"
+                "en": "Camí de Ronda",
+                "es": "Camí de Ronda"
               },
               "tip_5lang": {
                 "de": "Beginn des berühmten Küstenwegs.",
                 "hu": "A híres parti sétány kezdete.",
                 "ro": "Începutul celebrului drum de coastă.",
-                "en": "Start of the famous coastal path."
+                "en": "Start of the famous coastal path.",
+                "es": "Inicio del famoso sendero costero."
               }
             }
           ],
@@ -456,6 +483,11 @@
               "The fish auction takes place weekdays from 4 PM.",
               "The Fishing Museum is often closed on Mondays.",
               "Try the local Arroz a Banda."
+            ],
+            "es": [
+              "La subasta de pescado es entre semana a partir de las 16:00.",
+              "El Museo de la Pesca suele estar cerrado los lunes.",
+              "Prueba el arroz a banda local."
             ]
           }
         },
@@ -464,7 +496,8 @@
             "de": "Beginnen Sie den Tag am Hafen von Palamós, wo die Fischerboote im grauen Licht eine melancholische Atmosphäre schaffen. Ein Regenschirm ist für diesen Weg unerlässlich.\n\nMittags bietet das Fischereimuseum den perfekten trockenen Rückzugsort, um in die tiefe maritime Geschichte der Stadt einzutauchen.\n\nAm Nachmittag spazieren Sie durch die geschützten Gassen der Altstadt zur Kirche Santa Maria, deren kühles Inneres an Regentagen besonders andächtig wirkt.\n\nBeenden Sie den Tag am Leuchtturm. Der Camí de Ronda kann rutschig sein, daher ist Vorsicht geboten, wenn Sie die stürmische See beobachten.",
             "hu": "A reggelt a Palamós-i kikötőben kezdje, ahol a szürke ég alatt ringatózó halászhajók melankolikus hangulatot árasztanak. Az esernyő kötelező kiegészítő.\n\nDélben a Halászati Múzeum nyújt tökéletes és száraz menedéket, ahol megismerheti a város mélyen gyökerező tengeri múltját.\n\nDélután az óváros szűk, szélvédett utcáin keresztül sétáljon el a Santa Maria templomhoz, amelynek csendje ilyenkor még áthatóbb.\n\nA napot a világítótoronynál zárja. A Camí de Ronda sziklái csúszósak lehetnek, így csak óvatosan csodálja a háborgó Földközi-tengert.",
             "ro": "Începeți dimineața în Portul Palamós, unde bărcile de pescuit sub cerul gri creează o atmosferă melancolică. Umbrela este un accesoriu indispensabil.\n\nLa prânz, Muzeul Pescuitului oferă refugiul uscat perfect pentru a explora istoria maritimă profundă a orașului prin expoziții fascinante.\n\nDupă-amiaza, plimbați-vă pe străzile înguste și protejate ale centrului vechi până la Biserica Santa Maria, a cărei liniște este specială în zilele ploioase.\n\nÎncheiați ziua la far. Camí de Ronda poate fi alunecos, așa că fiți atenți în timp ce admirați marea agitată de sub umbrelă.",
-            "en": "Start your morning at the Port of Palamós, where the grey sky and active fish market create a moody, authentic atmosphere. An umbrella is essential today.\n\nBy midday, the Fishing Museum provides a warm, dry sanctuary to explore the town's deep maritime roots through fascinating exhibits.\n\nAs afternoon sets in, walk through the narrow, sheltered streets of the old town to reach the Church of Santa Maria.\n\nEnd the day with a brisk walk to the lighthouse; though the Camí de Ronda is slippery, the view of the stormy Mediterranean is powerful."
+            "en": "Start your morning at the Port of Palamós, where the grey sky and active fish market create a moody, authentic atmosphere. An umbrella is essential today.\n\nBy midday, the Fishing Museum provides a warm, dry sanctuary to explore the town's deep maritime roots through fascinating exhibits.\n\nAs afternoon sets in, walk through the narrow, sheltered streets of the old town to reach the Church of Santa Maria.\n\nEnd the day with a brisk walk to the lighthouse; though the Camí de Ronda is slippery, the view of the stormy Mediterranean is powerful.",
+            "es": "Comienza la mañana en el Puerto de Palamós, donde el cielo gris y el mercado de pescado activo crean una atmósfera auténtica y melancólica. Hoy es imprescindible un paraguas.\n\nA mediodía, el Museo de la Pesca ofrece un refugio cálido y seco para explorar las profundas raíces marítimas del pueblo a través de exposiciones fascinantes.\n\nPor la tarde, pasea por las estrechas y resguardadas calles del casco antiguo hasta la Iglesia de Santa María.\n\nTermina el día con una caminata enérgica hasta el faro; aunque el Camí de Ronda está resbaladizo, la vista del Mediterráneo tormentoso es impactante."
           },
           "stops": [
             {
@@ -473,7 +506,8 @@
                 "de": "Vorsicht auf dem nassen Pflaster am Kai; die Steine sind glatt.",
                 "hu": "Vigyázzon a vizes kövezeten a mólón; a felület nagyon csúszhat.",
                 "ro": "Atenție la pavajul umed de pe chei; pietrele devin alunecoase.",
-                "en": "Watch your step on the wet pavement at the quay; the stones get slippery."
+                "en": "Watch your step on the wet pavement at the quay; the stones get slippery.",
+                "es": "Cuidado con el pavimento mojado en el muelle; las piedras se vuelven resbaladizas."
               }
             },
             {
@@ -482,7 +516,8 @@
                 "de": "Nutzen Sie die Garderobe, um Ihre nassen Sachen trocken zu verstauen.",
                 "hu": "Használja a ruhatárat, hogy szárazon tudja hagyni a vizes holmijait.",
                 "ro": "Folosiți garderoba pentru a vă lăsa hainele ude în siguranță.",
-                "en": "Use the cloakroom to store your wet gear and enjoy the exhibits dry."
+                "en": "Use the cloakroom to store your wet gear and enjoy the exhibits dry.",
+                "es": "Usa la consigna para guardar tu ropa mojada y disfrutar de las salas en seco."
               }
             },
             {
@@ -491,7 +526,8 @@
                 "de": "Ein ruhiger Ort, um einen heftigen Regenschauer abzuwarten.",
                 "hu": "Csendes hely, ahol kényelmesen megvárhatja egy nagyobb zápor végét.",
                 "ro": "Un loc liniștit unde puteți aștepta trecerea unei averse puternice.",
-                "en": "A quiet place to wait out a heavy rain shower in a peaceful setting."
+                "en": "A quiet place to wait out a heavy rain shower in a peaceful setting.",
+                "es": "Un lugar tranquilo para esperar a que pase un chaparrón en un entorno apacible."
               }
             },
             {
@@ -500,7 +536,8 @@
                 "de": "Halten Sie Ihren Regenschirm wegen der starken Windböen gut fest.",
                 "hu": "Szorosan fogja az esernyőjét az erős tengeri széllökések miatt.",
                 "ro": "Țineți bine umbrela din cauza rafalelor puternice de vânt marin.",
-                "en": "Hold your umbrella tightly due to the strong coastal wind gusts."
+                "en": "Hold your umbrella tightly due to the strong coastal wind gusts.",
+                "es": "Sujeta bien el paraguas por las fuertes rachas de viento costero."
               }
             },
             {
@@ -509,7 +546,8 @@
                 "de": "Tragen Sie Wanderschuhe mit gutem Profil; die Felsen sind tückisch.",
                 "hu": "Viseljen jó tapadású cipőt; a sziklák esőben rendkívül csalókák.",
                 "ro": "Purtați încălțăminte cu aderență bună; stâncile sunt foarte înșelătoare.",
-                "en": "Wear shoes with good grip; the coastal rocks are treacherous when wet."
+                "en": "Wear shoes with good grip; the coastal rocks are treacherous when wet.",
+                "es": "Lleva calzado con buena suela; las rocas costeras son traicioneras cuando están mojadas."
               }
             }
           ],
@@ -541,6 +579,13 @@
               "A rain poncho is more practical than an umbrella due to sea winds.",
               "Avoid the exposed cliff edges of Camí de Ronda during thunderstorms.",
               "Many cafes in Carrer Major offer cozy indoor seating to dry off."
+            ],
+            "es": [
+              "Ponte calzado impermeable para el paseo del puerto.",
+              "El Museo de la Pesca es el mejor refugio interior durante la lluvia persistente.",
+              "Una capa impermeable es más práctica que un paraguas por los vientos marinos.",
+              "Evita los bordes de los acantilados del Camí de Ronda durante las tormentas.",
+              "Muchos cafés en la Carrer Major ofrecen asientos interiores acogedores para secarse."
             ]
           }
         },
@@ -549,7 +594,8 @@
             "de": "Genießen Sie am Morgen die klare Winterluft im Hafen von Palamós, wenn die Sonne tief über dem ruhigen Wasser steht.\n\nMittags ist das Fischereimuseum ein wunderbar temperierter Ort, um der Kälte der Seeprise für eine Weile zu entkommen.\n\nDer Nachmittagsspaziergang zur Kirche Santa Maria führt durch die sanft beleuchteten Gassen, die im Winter eine besondere Ruhe ausstrahlen.\n\nDer Tag endet früh am Leuchtturm. Der Sonnenuntergang gegen 17:30 Uhr färbt die Küste in dramatische Orangetöne, bevor die Nacht kühl einbricht.",
             "hu": "Élvezze reggel a kristálytiszta téli levegőt a kikötőben, amikor a nap alacsonyan jár a nyugodt víztükör felett.\n\nDélben a Halászati Múzeum kellemesen temperált belső tere tökéletes hely, hogy kicsit felmelegedjen a tengeri szél után.\n\nA délutáni séta a Santa Maria templomhoz a téli fényekben úszó óvárosi utcákon át vezet, ahol ilyenkor sincs tömeg.\n\nA nap korán ér véget a világítótoronynál. A 17:30 körüli naplemente drámai narancssárgára festi a partot, mielőtt beállna a hűvös este.",
             "ro": "Bucurați-vă dimineața de aerul curat de iarnă din port, când soarele stă jos deasupra apei liniștite a Mediteranei.\n\nLa prânz, Muzeul Pescuitului este un spațiu bine încălzit unde puteți scăpa pentru o vreme de briza rece a mării.\n\nPlimbarea de după-amiază spre Biserica Santa Maria trece prin străzile luminate blând ale centrului vechi, foarte liniștite iarna.\n\nZiua se termină devreme la far. Apusul de la ora 17:30 colorează coasta în nuanțe dramatice de portocaliu înainte de seara răcoroasă.",
-            "en": "Enjoy the crisp winter air at the port this morning, with the sun hanging low over the calm Mediterranean waters.\n\nBy midday, the Fishing Museum is a wonderfully climate-controlled space to warm up away from the chilly sea breeze.\n\nAn afternoon walk to the Church of Santa Maria takes you through the softly lit old town streets, which are peaceful in winter.\n\nYour day ends early at the lighthouse. The sunset around 17:30 paints the coast in dramatic oranges before the night air turns cold."
+            "en": "Enjoy the crisp winter air at the port this morning, with the sun hanging low over the calm Mediterranean waters.\n\nBy midday, the Fishing Museum is a wonderfully climate-controlled space to warm up away from the chilly sea breeze.\n\nAn afternoon walk to the Church of Santa Maria takes you through the softly lit old town streets, which are peaceful in winter.\n\nYour day ends early at the lighthouse. The sunset around 17:30 paints the coast in dramatic oranges before the night air turns cold.",
+            "es": "Disfruta del aire frío invernal en el puerto esta mañana, con el sol bajo sobre las tranquilas aguas del Mediterráneo.\n\nAl mediodía, el Museo de la Pesca es un espacio climatizado ideal para entrar en calor y alejarse de la brisa fría del mar.\n\nUna caminata por la tarde hasta la Iglesia de Santa María te llevará por las calles suavemente iluminadas del casco antiguo, que son muy tranquilas en invierno.\n\nTu día acaba pronto en el faro. El atardecer sobre las 17:30 pinta la costa de naranjas dramáticos antes de que el aire nocturno enfríe."
           },
           "stops": [
             {
@@ -558,7 +604,8 @@
                 "de": "Die Morgensonne am Kai ist perfekt für Fotos ohne Touristenmassen.",
                 "hu": "A reggeli napfény a mólónál tökéletes a tömegmentes fotózáshoz.",
                 "ro": "Soarele de dimineață de pe chei este perfect pentru fotografii fără turiști.",
-                "en": "The morning sun at the quay is perfect for photos without the crowds."
+                "en": "The morning sun at the quay is perfect for photos without the crowds.",
+                "es": "El sol de la mañana en el muelle es perfecto para fotos sin multitudes."
               }
             },
             {
@@ -567,7 +614,8 @@
                 "de": "Im Winter ist es hier angenehm warm; planen Sie etwas mehr Zeit ein.",
                 "hu": "Télen itt kellemesen meleg van; szánjon rá több időt a melegedésre.",
                 "ro": "Iarna este plăcut de cald aici; planificați mai mult timp pentru vizită.",
-                "en": "It is pleasantly warm inside during winter; plan some extra time here."
+                "en": "It is pleasantly warm inside during winter; plan some extra time here.",
+                "es": "En invierno hace agradablemente cálido en el interior; planea un poco más de tiempo aquí."
               }
             },
             {
@@ -576,7 +624,8 @@
                 "de": "Achten Sie auf die kühlen Steinfußböden; warme Socken sind ratsam.",
                 "hu": "A kőpadló hideg lehet; érdemes rétegesen és melegen öltözni.",
                 "ro": "Podeaua de piatră poate fi rece; asigurați-vă că aveți șosete groase.",
-                "en": "The stone floors can be cold; make sure you are dressed warmly."
+                "en": "The stone floors can be cold; make sure you are dressed warmly.",
+                "es": "Los suelos de piedra pueden estar fríos; asegúrate de vestir abrigado."
               }
             },
             {
@@ -585,7 +634,8 @@
                 "de": "Kommen Sie um 17:00 Uhr, um den goldenen Sonnenuntergang zu sehen.",
                 "hu": "Érkezzen 17:00 óra körül, hogy láthassa az aranyló naplementét.",
                 "ro": "Veniți în jur de ora 17:00 pentru a vedea apusul auriu spectaculos.",
-                "en": "Arrive around 17:00 to catch the spectacular golden sunset views."
+                "en": "Arrive around 17:00 to catch the spectacular golden sunset views.",
+                "es": "Llega sobre las 17:00 para ver el espectacular atardecer dorado."
               }
             },
             {
@@ -594,7 +644,8 @@
                 "de": "Die Tramuntana-Winde können im Winter sehr kräftig und kalt sein.",
                 "hu": "A Tramuntana szél télen nagyon erős és metszően hideg lehet.",
                 "ro": "Vânturile Tramuntana pot fi foarte puternice și reci în timpul iernii.",
-                "en": "The Tramuntana winds can be very strong and biting cold in winter."
+                "en": "The Tramuntana winds can be very strong and biting cold in winter.",
+                "es": "Los vientos de Tramuntana pueden ser muy fuertes y cortar en invierno."
               }
             }
           ],
@@ -626,6 +677,13 @@
               "Take advantage of the midday sun for long beach walks.",
               "Some harbor restaurants may have limited opening hours in winter.",
               "A warm drink in a thermos is perfect for the coastal cliff paths."
+            ],
+            "es": [
+              "Vístete en capas; hace templado al sol pero frío a la sombra.",
+              "El atardecer es alrededor de las 17:30; después baja la temperatura rápidamente.",
+              "Aprovecha el sol del mediodía para largos paseos por la playa.",
+              "Algunos restaurantes del puerto pueden tener horario reducido en invierno.",
+              "Una bebida caliente en un termo es perfecta para los senderos costeros entre acantilados."
             ]
           }
         }
@@ -644,7 +702,8 @@
             "de": "Port de Palamós",
             "hu": "Palamós kikötője",
             "ro": "Portul Palamós",
-            "en": "Port of Palamós"
+            "en": "Port of Palamós",
+            "es": "Puerto de Palamós"
           },
           "coords": [
             3.1251,
@@ -659,7 +718,8 @@
             "de": "Bequemes Radeln am Hafen.",
             "hu": "Kényelmes tekerés a kikötőben.",
             "ro": "Ciclism confortabil în port.",
-            "en": "Easy cycling along the harbor."
+            "en": "Easy cycling along the harbor.",
+            "es": "Ciclismo fácil a lo largo del puerto."
           }
         },
         {
@@ -667,7 +727,8 @@
             "de": "Far de Palamós",
             "hu": "Palamós világítótorony",
             "ro": "Farul Palamós",
-            "en": "Palamós Lighthouse"
+            "en": "Palamós Lighthouse",
+            "es": "Faro de Palamós"
           },
           "coords": [
             3.1312,
@@ -682,7 +743,8 @@
             "de": "Guter Fotostopp.",
             "hu": "Jó fotómegálló.",
             "ro": "Un punct bun pentru fotografii.",
-            "en": "Good photo stop."
+            "en": "Good photo stop.",
+            "es": "Buen lugar para fotos."
           }
         },
         {
@@ -690,7 +752,8 @@
             "de": "Platja de la Fosca",
             "hu": "La Fosca strand",
             "ro": "Plaja La Fosca",
-            "en": "La Fosca Beach"
+            "en": "La Fosca Beach",
+            "es": "Playa de La Fosca"
           },
           "coords": [
             3.1415,
@@ -705,7 +768,8 @@
             "de": "Fahrradständer am Strand vorhanden.",
             "hu": "Kerékpártárolók a strandnál.",
             "ro": "Suporturi pentru biciclete la plajă.",
-            "en": "Bike racks available at the beach."
+            "en": "Bike racks available at the beach.",
+            "es": "Hay aparcabicis en la playa."
           }
         },
         {
@@ -713,7 +777,8 @@
             "de": "Castell de Sant Esteve",
             "hu": "Sant Esteve vár",
             "ro": "Castelul Sant Esteve",
-            "en": "Sant Esteve Castle"
+            "en": "Sant Esteve Castle",
+            "es": "Castell de Sant Esteve"
           },
           "coords": [
             3.1432,
@@ -728,7 +793,8 @@
             "de": "Ruinen mit Meeresblick.",
             "hu": "Romok tengeri kilátással.",
             "ro": "Ruine cu vedere la mare.",
-            "en": "Ruins with sea views."
+            "en": "Ruins with sea views.",
+            "es": "Ruinas con vistas al mar."
           }
         },
         {
@@ -736,7 +802,8 @@
             "de": "Cala s'Alguer",
             "hu": "Cala s'Alguer öböl",
             "ro": "Golful s'Alguer",
-            "en": "Cala s'Alguer"
+            "en": "Cala s'Alguer",
+            "es": "Cala s'Alguer"
           },
           "coords": [
             3.1481,
@@ -751,7 +818,8 @@
             "de": "Wunderschönes Fischerdorf-Ambiente.",
             "hu": "Gyönyörű halászfalu hangulat.",
             "ro": "Atmosferă superbă de sat pescăresc.",
-            "en": "Beautiful fishing village ambiance."
+            "en": "Beautiful fishing village ambiance.",
+            "es": "Bonita ambientación de pueblo pesquero."
           }
         },
         {
@@ -759,7 +827,8 @@
             "de": "Museu de la Pesca",
             "hu": "Halászati Múzeum",
             "ro": "Muzeul Pescuitului",
-            "en": "Fishing Museum"
+            "en": "Fishing Museum",
+            "es": "Museo de la Pesca"
           },
           "coords": [
             3.1272,
@@ -774,7 +843,8 @@
             "de": "Letzter Stopp vor Ende der Tour.",
             "hu": "Utolsó megálló a túra vége előtt.",
             "ro": "Ultima oprire înainte de finalul turului.",
-            "en": "Last stop before the tour ends."
+            "en": "Last stop before the tour ends.",
+            "es": "Última parada antes de que termine la ruta."
           }
         }
       ],
@@ -782,7 +852,8 @@
         "de": "Fahren Sie entlang der flachen Hafenpromenade und weiter zum Leuchtturm. Ein perfekter Start für eine Radtour.\n\nDie Route führt Sie zur Platja de la Fosca, einem idealen Ort für ein langes Bad und eine Pause im Sand.\n\nBesuchen Sie die nahegelegenen Ruinen des Castell de Sant Esteve und radeln Sie weiter zum idyllischen Cala s'Alguer mit seinen bunten Bootshäusern.\n\nKehren Sie am späten Nachmittag zum Hafen zurück, um den Tag entspannt ausklingen zu lassen.",
         "hu": "Tekerjen végig a lapos kikötői sétányon a világítótoronyig. Tökéletes kezdet egy bringatúrához.\n\nAz útvonal a La Fosca strandhoz vezet, amely ideális hely egy hosszú fürdőzésre és pihenésre a homokban.\n\nLátogassa meg a közeli Sant Esteve vár romjait, majd tekerjen tovább az idilli Cala s'Alguer öbölbe a színes csónakházak közé.\n\nKéső délután térjen vissza a kikötőbe, hogy pihentetően zárja a napot.",
         "ro": "Pedalați de-a lungul promenadei plate din port până la far. Un început perfect pentru o tură cu bicicleta.\n\nRuta vă conduce la plaja La Fosca, un loc ideal pentru o baie lungă și relaxare pe nisip.\n\nVizitați ruinele din apropiere ale Castelului Sant Esteve și pedalați mai departe până la idilicul Cala s'Alguer, cu casele sale colorate pentru bărci.\n\nÎntoarceți-vă în port după-amiaza târziu pentru a încheia ziua relaxat.",
-        "en": "Ride along the flat harbor promenade and on to the lighthouse. A perfect start for a bike tour.\n\nThe route takes you to La Fosca beach, an ideal spot for a long swim and a rest on the sand.\n\nVisit the nearby ruins of Sant Esteve Castle and ride on to the idyllic Cala s'Alguer with its colorful boathouses.\n\nReturn to the harbor in the late afternoon to end the day in a relaxed way."
+        "en": "Ride along the flat harbor promenade and on to the lighthouse. A perfect start for a bike tour.\n\nThe route takes you to La Fosca beach, an ideal spot for a long swim and a rest on the sand.\n\nVisit the nearby ruins of Sant Esteve Castle and ride on to the idyllic Cala s'Alguer with its colorful boathouses.\n\nReturn to the harbor in the late afternoon to end the day in a relaxed way.",
+        "es": "Pedalea por el plano paseo del puerto hasta el faro. Un inicio perfecto para una ruta en bici.\n\nLa ruta te lleva a la playa de La Fosca, un lugar ideal para un baño largo y descansar en la arena.\n\nVisita las ruinas cercanas del Castell de Sant Esteve y continúa hasta la idílica Cala s'Alguer con sus casitas de embarcaciones de colores.\n\nVuelve al puerto a última hora de la tarde para terminar el día con calma."
       },
       "gastro_picks": {
         "de": [
@@ -886,6 +957,11 @@
           "Use the marked bike paths at the harbor.",
           "Avoid the Camí de Ronda by bike (pedestrians only).",
           "Rent a bike in the center."
+        ],
+        "es": [
+          "Usa los carriles bici señalizados en el puerto.",
+          "Evita el Camí de Ronda en bicicleta (solo peatones).",
+          "Alquila una bici en el centro."
         ]
       },
       "variants": {
@@ -894,7 +970,8 @@
             "de": "Fahren Sie entlang der flachen Hafenpromenade und weiter zum Leuchtturm. Ein perfekter Start für eine Radtour.\n\nDie Route führt Sie zur Platja de la Fosca, einem idealen Ort für ein langes Bad und eine Pause im Sand.\n\nBesuchen Sie die nahegelegenen Ruinen des Castell de Sant Esteve und radeln Sie weiter zum idyllischen Cala s'Alguer mit seinen bunten Bootshäusern.\n\nKehren Sie am späten Nachmittag zum Hafen zurück, um den Tag entspannt ausklingen zu lassen.",
             "hu": "Tekerjen végig a lapos kikötői sétányon a világítótoronyig. Tökéletes kezdet egy bringatúrához.\n\nAz útvonal a La Fosca strandhoz vezet, amely ideális hely egy hosszú fürdőzésre és pihenésre a homokban.\n\nLátogassa meg a közeli Sant Esteve vár romjait, majd tekerjen tovább az idilli Cala s'Alguer öbölbe a színes csónakházak közé.\n\nKéső délután térjen vissza a kikötőbe, hogy pihentetően zárja a napot.",
             "ro": "Pedalați de-a lungul promenadei plate din port până la far. Un început perfect pentru o tură cu bicicleta.\n\nRuta vă conduce la plaja La Fosca, un loc ideal pentru o baie lungă și relaxare pe nisip.\n\nVizitați ruinele din apropiere ale Castelului Sant Esteve și pedalați mai departe până la idilicul Cala s'Alguer, cu casele sale colorate pentru bărci.\n\nÎntoarceți-vă în port după-amiaza târziu pentru a încheia ziua relaxat.",
-            "en": "Ride along the flat harbor promenade and on to the lighthouse. A perfect start for a bike tour.\n\nThe route takes you to La Fosca beach, an ideal spot for a long swim and a rest on the sand.\n\nVisit the nearby ruins of Sant Esteve Castle and ride on to the idyllic Cala s'Alguer with its colorful boathouses.\n\nReturn to the harbor in the late afternoon to end the day in a relaxed way."
+            "en": "Ride along the flat harbor promenade and on to the lighthouse. A perfect start for a bike tour.\n\nThe route takes you to La Fosca beach, an ideal spot for a long swim and a rest on the sand.\n\nVisit the nearby ruins of Sant Esteve Castle and ride on to the idyllic Cala s'Alguer with its colorful boathouses.\n\nReturn to the harbor in the late afternoon to end the day in a relaxed way.",
+            "es": "Pedalea por el plano paseo del puerto hasta el faro. Un inicio perfecto para una ruta en bici.\n\nLa ruta te lleva a la playa de La Fosca, un lugar ideal para un baño largo y descansar en la arena.\n\nVisita las ruinas cercanas del Castell de Sant Esteve y continúa hasta la idílica Cala s'Alguer con sus casitas de embarcaciones de colores.\n\nVuelve al puerto a última hora de la tarde para terminar el día con calma."
           },
           "stops": [
             {
@@ -902,13 +979,15 @@
                 "de": "Port de Palamós",
                 "hu": "Palamós kikötője",
                 "ro": "Portul Palamós",
-                "en": "Port of Palamós"
+                "en": "Port of Palamós",
+                "es": "Puerto de Palamós"
               },
               "tip_5lang": {
                 "de": "Bequemes Radeln am Hafen.",
                 "hu": "Kényelmes tekerés a kikötőben.",
                 "ro": "Ciclism confortabil în port.",
-                "en": "Easy cycling along the harbor."
+                "en": "Easy cycling along the harbor.",
+                "es": "Ciclismo fácil a lo largo del puerto."
               }
             },
             {
@@ -916,13 +995,15 @@
                 "de": "Far de Palamós",
                 "hu": "Palamós világítótorony",
                 "ro": "Farul Palamós",
-                "en": "Palamós Lighthouse"
+                "en": "Palamós Lighthouse",
+                "es": "Faro de Palamós"
               },
               "tip_5lang": {
                 "de": "Guter Fotostopp.",
                 "hu": "Jó fotómegálló.",
                 "ro": "Un punct bun pentru fotografii.",
-                "en": "Good photo stop."
+                "en": "Good photo stop.",
+                "es": "Buen lugar para fotos."
               }
             },
             {
@@ -930,13 +1011,15 @@
                 "de": "Platja de la Fosca",
                 "hu": "La Fosca strand",
                 "ro": "Plaja La Fosca",
-                "en": "La Fosca Beach"
+                "en": "La Fosca Beach",
+                "es": "Playa de La Fosca"
               },
               "tip_5lang": {
                 "de": "Fahrradständer am Strand vorhanden.",
                 "hu": "Kerékpártárolók a strandnál.",
                 "ro": "Suporturi pentru biciclete la plajă.",
-                "en": "Bike racks available at the beach."
+                "en": "Bike racks available at the beach.",
+                "es": "Hay aparcabicis en la playa."
               }
             },
             {
@@ -944,13 +1027,15 @@
                 "de": "Castell de Sant Esteve",
                 "hu": "Sant Esteve vár",
                 "ro": "Castelul Sant Esteve",
-                "en": "Sant Esteve Castle"
+                "en": "Sant Esteve Castle",
+                "es": "Castell de Sant Esteve"
               },
               "tip_5lang": {
                 "de": "Ruinen mit Meeresblick.",
                 "hu": "Romok tengeri kilátással.",
                 "ro": "Ruine cu vedere la mare.",
-                "en": "Ruins with sea views."
+                "en": "Ruins with sea views.",
+                "es": "Ruinas con vistas al mar."
               }
             },
             {
@@ -958,13 +1043,15 @@
                 "de": "Cala s'Alguer",
                 "hu": "Cala s'Alguer öböl",
                 "ro": "Golful s'Alguer",
-                "en": "Cala s'Alguer"
+                "en": "Cala s'Alguer",
+                "es": "Cala s'Alguer"
               },
               "tip_5lang": {
                 "de": "Wunderschönes Fischerdorf-Ambiente.",
                 "hu": "Gyönyörű halászfalu hangulat.",
                 "ro": "Atmosferă superbă de sat pescăresc.",
-                "en": "Beautiful fishing village ambiance."
+                "en": "Beautiful fishing village ambiance.",
+                "es": "Bonita ambientación de pueblo pesquero."
               }
             },
             {
@@ -972,13 +1059,15 @@
                 "de": "Museu de la Pesca",
                 "hu": "Halászati Múzeum",
                 "ro": "Muzeul Pescuitului",
-                "en": "Fishing Museum"
+                "en": "Fishing Museum",
+                "es": "Museo de la Pesca"
               },
               "tip_5lang": {
                 "de": "Letzter Stopp vor Ende der Tour.",
                 "hu": "Utolsó megálló a túra vége előtt.",
                 "ro": "Ultima oprire înainte de finalul turului.",
-                "en": "Last stop before the tour ends."
+                "en": "Last stop before the tour ends.",
+                "es": "Última parada antes de que termine la ruta."
               }
             }
           ],
@@ -1084,6 +1173,11 @@
               "Use the marked bike paths at the harbor.",
               "Avoid the Camí de Ronda by bike (pedestrians only).",
               "Rent a bike in the center."
+            ],
+            "es": [
+              "Usa los carriles bici señalizados en el puerto.",
+              "Evita el Camí de Ronda en bicicleta (solo peatones).",
+              "Alquila una bici en el centro."
             ]
           }
         },
@@ -1092,7 +1186,8 @@
             "de": "Beginnen Sie Ihre Radtour im Hafen vorsichtig, da das feuchte Salz den Boden rutschig macht. Ein wasserfester Poncho ist heute Ihr bester Freund.\n\nRadeln Sie mittags zum Leuchtturm und weiter nach La Fosca. Die Gischt vermischt sich mit dem Regen zu einem wilden Küstenerlebnis.\n\nAm Nachmittag führt der Weg zum Sant Esteve Castle und Cala s'Alguer. Die unbefestigten Pfade können schlammig sein, was das Abenteuer steigert.\n\nKehren Sie am späten Nachmittag zum Fischereimuseum zurück, um sich aufzuwärmen und Ihre Fahrräder sicher im Trockenen abzustellen.",
             "hu": "Kezdje a biciklitúrát óvatosan a kikötőben, mert a sós pára és az eső csúszóssá teszi az utat. Egy vízálló poncsó ma a legjobb barátja.\n\nDélben tekerjen el a világítótoronyhoz és La Fosca felé. A tengeri permet és az eső vad partmenti élménnyé olvad össze.\n\nDélután a Sant Esteve vár és Cala s'Alguer a cél. A nem aszfaltozott utak sarasak lehetnek, ami növeli a kalandfaktort.\n\nKéső délután térjen vissza a Halászati Múzeumba, hogy felmelegedjen, és biztonságos, száraz helyen hagyja a kerékpárokat.",
             "ro": "Începeți turul cu bicicleta în port cu atenție, deoarece sarea și ploaia fac drumul alunecos. O pelerină impermeabilă este azi cel mai bun prieten.\n\nLa prânz, pedalați spre far și spre La Fosca. Pulverizarea mării se amestecă cu ploaia într-o experiență de coastă sălbatică.\n\nDupă-amiaza, drumul duce spre Castelul Sant Esteve și Cala s'Alguer. Potecile neasfaltate pot fi noroioase, ceea ce sporește aventura.\n\nReveniți târziu după-amiaza la Muzeul Pescuitului pentru a vă încălzi și pentru a lăsa bicicletele în siguranță la adăpost.",
-            "en": "Start your bike tour at the port carefully, as the damp salt makes the ground slippery. A waterproof poncho is your best friend today.\n\nBy midday, cycle to the lighthouse and on to La Fosca. The sea spray mixes with the rain for a wild coastal experience.\n\nIn the afternoon, the path leads to Sant Esteve Castle and Cala s'Alguer. The unpaved sections might be muddy, adding to the adventure.\n\nReturn in the late afternoon to the Fishing Museum to warm up and park your bikes safely in a dry spot."
+            "en": "Start your bike tour at the port carefully, as the damp salt makes the ground slippery. A waterproof poncho is your best friend today.\n\nBy midday, cycle to the lighthouse and on to La Fosca. The sea spray mixes with the rain for a wild coastal experience.\n\nIn the afternoon, the path leads to Sant Esteve Castle and Cala s'Alguer. The unpaved sections might be muddy, adding to the adventure.\n\nReturn in the late afternoon to the Fishing Museum to warm up and park your bikes safely in a dry spot.",
+            "es": "Comienza tu ruta en bici en el puerto con cuidado, ya que la sal y la humedad hacen el suelo resbaladizo. Un poncho impermeable es tu mejor aliado hoy.\n\nA mediodía, pedalea hasta el faro y sigue hasta La Fosca. La mezcla de salpicaduras y lluvia crea una experiencia costera salvaje.\n\nPor la tarde, el camino lleva al Castell de Sant Esteve y a Cala s'Alguer. Los tramos sin asfaltar pueden estar embarrados, lo que añade aventura.\n\nRegresa por la tarde al Museo de la Pesca para entrar en calor y dejar las bicis en un lugar seco."
           },
           "stops": [
             {
@@ -1101,7 +1196,8 @@
                 "de": "Vermeiden Sie beim Bremsen die metallischen Abdeckungen am Boden.",
                 "hu": "Fékezéskor kerülje el a fémszerelvényeket a földön; nagyon csúsznak.",
                 "ro": "Evitați capacele metalice de pe sol când frânați; sunt alunecoase.",
-                "en": "Avoid metallic covers on the ground when braking; they are very slick."
+                "en": "Avoid metallic covers on the ground when braking; they are very slick.",
+                "es": "Evita las tapas metálicas en el suelo al frenar; son muy resbaladizas."
               }
             },
             {
@@ -1110,7 +1206,8 @@
                 "de": "Vorsicht vor Seitenwinden, die Sie beim Radfahren aus dem Gleichgewicht bringen.",
                 "hu": "Vigyázzon az oldalszélre, amely könnyen kibillentheti az egyensúlyából.",
                 "ro": "Atenție la vântul lateral care vă poate dezechilibra în timp ce pedalați.",
-                "en": "Watch out for side winds that can easily knock you off balance."
+                "en": "Watch out for side winds that can easily knock you off balance.",
+                "es": "Cuidado con los vientos laterales que pueden desestabilizarte fácilmente."
               }
             },
             {
@@ -1119,7 +1216,8 @@
                 "de": "Der Radweg entlang des Strandes kann Pfützen und nassen Sand aufweisen.",
                 "hu": "A strand menti kerékpárút tócsás és vizes homokkal borított lehet.",
                 "ro": "Pista de biciclete de-a lungul plajei poate avea bălți și nisip umed.",
-                "en": "The bike path along the beach may have puddles and wet sand."
+                "en": "The bike path along the beach may have puddles and wet sand.",
+                "es": "El carril bici junto a la playa puede tener charcos y arena húmeda."
               }
             },
             {
@@ -1128,7 +1226,8 @@
                 "de": "Stellen Sie Ihr Rad auf festem Grund ab, um ein Einsinken im Matsch zu vermeiden.",
                 "hu": "Szilárd talajon parkoljon, nehogy a kerékpár elsüllyedjen a sárban.",
                 "ro": "Parcați pe teren solid pentru a evita scufundarea bicicletei în noroi.",
-                "en": "Park your bike on solid ground to prevent it from sinking into the mud."
+                "en": "Park your bike on solid ground to prevent it from sinking into the mud.",
+                "es": "Aparca la bici sobre terreno firme para que no se hunda en el barro."
               }
             },
             {
@@ -1137,7 +1236,8 @@
                 "de": "Der Abstieg zur Bucht ist steil und bei Regen sehr rutschig.",
                 "hu": "Az öbölbe vezető lejtő meredek és esőben rendkívül csúszós.",
                 "ro": "Coborârea spre golf este abruptă și foarte alunecoasă pe ploaie.",
-                "en": "The descent to the cove is steep and extremely slippery when raining."
+                "en": "The descent to the cove is steep and extremely slippery when raining.",
+                "es": "El descenso hacia la cala es empinado y extremadamente resbaladizo con lluvia."
               }
             },
             {
@@ -1146,7 +1246,8 @@
                 "de": "Nutzen Sie den überdachten Bereich vor dem Eingang für Ihr Fahrrad.",
                 "hu": "Használja a bejárat előtti fedett részt a kerékpár tárolására.",
                 "ro": "Folosiți zona acoperită din fața intrării pentru a lăsa bicicleta.",
-                "en": "Use the covered area in front of the entrance to park your bike."
+                "en": "Use the covered area in front of the entrance to park your bike.",
+                "es": "Usa la zona cubierta frente a la entrada para aparcar la bici."
               }
             }
           ],
@@ -1178,6 +1279,13 @@
               "Avoid deep puddles as they can hide dangerous potholes.",
               "The unpaved paths near Cala s'Alguer can be very muddy.",
               "Clean your chain from sand and salt water after the ride."
+            ],
+            "es": [
+              "Revisa los frenos antes de salir; las carreteras mojadas aumentan la distancia de frenado.",
+              "Un traje de lluvia completo es mucho más eficaz que un simple paraguas.",
+              "Evita los charcos profundos, pueden ocultar baches peligrosos.",
+              "Los caminos sin asfaltar cerca de Cala s'Alguer pueden estar muy embarrados.",
+              "Limpia la cadena de arena y agua salada después del paseo."
             ]
           }
         },
@@ -1186,7 +1294,8 @@
             "de": "Starten Sie am kühlen Morgen am Hafen. Die Luft ist erfrischend und der Verkehr minimal, was das Radeln sehr entspannt macht.\n\nMittags führt die Tour zum Leuchtturm und La Fosca. Die tiefstehende Wintersonne glitzert herrlich auf den Wellen.\n\nAm Nachmittag erkunden Sie das Sant Esteve Castle und das malerische Cala s'Alguer. Die Farben der Fischerhütten wirken im Winterlicht besonders intensiv.\n\nBeenden Sie Ihre Tour beim Fischereimuseum. Da es früh dunkel wird, sollten Sie spätestens um 17:00 Uhr zurück im Zentrum sein.",
             "hu": "Induljon a hűvös reggelen a kikötőből. A levegő frissítő, a forgalom minimális, így a tekerés igazán pihentető.\n\nDélben a túra a világítótoronyhoz és La Fosca-hoz vezet. Az alacsonyan járó téli nap csodásan csillog a hullámokon.\n\nDélután fedezze fel a Sant Esteve várat és a festői Cala s'Alguer-t. A halászkunyhók színei különösen élénkek a téli fényben.\n\nA túrát a Halászati Múzeumnál fejezze be. Mivel korán sötétedik, érdemes legkésőbb 17:00-ra visszaérni a központba.",
             "ro": "Începeți în dimineața răcoroasă din port. Aerul este revigorant și traficul minim, ceea ce face pedalatul foarte relaxant.\n\nLa prânz, turul duce la far și la La Fosca. Soarele jos de iarnă strălucește superb pe valurile Mediteranei.\n\nDupă-amiaza, explorați Castelul Sant Esteve și pitoreasca Cala s'Alguer. Culorile caselor de pescari sunt foarte intense în lumina iernii.\n\nÎncheiați turul la Muzeul Pescuitului. Deoarece se întunecă devreme, asigurați-vă că sunteți înapoi în centru până la ora 17:00.",
-            "en": "Start at the cool harbor this morning. The air is refreshing and traffic is minimal, making for a very relaxed cycling experience.\n\nBy midday, the tour leads to the lighthouse and La Fosca. The low winter sun glitters beautifully on the rolling waves.\n\nIn the afternoon, explore Sant Esteve Castle and the picturesque Cala s'Alguer. The colors of the fishermen's huts are especially vivid in winter light.\n\nEnd your tour at the Fishing Museum. Since it gets dark early, aim to be back in the town center by 17:00."
+            "en": "Start at the cool harbor this morning. The air is refreshing and traffic is minimal, making for a very relaxed cycling experience.\n\nBy midday, the tour leads to the lighthouse and La Fosca. The low winter sun glitters beautifully on the rolling waves.\n\nIn the afternoon, explore Sant Esteve Castle and the picturesque Cala s'Alguer. The colors of the fishermen's huts are especially vivid in winter light.\n\nEnd your tour at the Fishing Museum. Since it gets dark early, aim to be back in the town center by 17:00.",
+            "es": "Comienza en el fresco puerto esta mañana. El aire es vigorizante y el tráfico mínimo, lo que ofrece una experiencia ciclista muy relajada.\n\nA mediodía, la ruta conduce al faro y a La Fosca. El sol bajo de invierno brilla sobre las olas de forma preciosa.\n\nPor la tarde, explora el Castell de Sant Esteve y la pintoresca Cala s'Alguer. Los colores de las casetas de los pescadores se muestran especialmente vivos con la luz invernal.\n\nTermina la ruta en el Museo de la Pesca. Como anochece temprano, intenta estar de vuelta en el centro hacia las 17:00."
           },
           "stops": [
             {
@@ -1195,7 +1304,8 @@
                 "de": "Der Metallständer für Räder kann morgens gefroren oder sehr kalt sein.",
                 "hu": "A fém kerékpártárolók reggel jegesek vagy nagyon hidegek lehetnek.",
                 "ro": "Suporturile metalice pentru biciclete pot fi înghețate sau foarte reci dimineața.",
-                "en": "Metal bike racks can be frozen or very cold to the touch in the morning."
+                "en": "Metal bike racks can be frozen or very cold to the touch in the morning.",
+                "es": "Los aparcabicis metálicos pueden estar helados o muy fríos por la mañana."
               }
             },
             {
@@ -1204,7 +1314,8 @@
                 "de": "Tragen Sie winddichte Handschuhe; die Brise am Kap ist im Winter beißend.",
                 "hu": "Viseljen szélálló kesztyűt; a foknál a szél télen metszően hideg lehet.",
                 "ro": "Purtați mănuși rezistente la vânt; briza de la cap este tăioasă iarna.",
-                "en": "Wear windproof gloves; the breeze at the cape is biting cold in winter."
+                "en": "Wear windproof gloves; the breeze at the cape is biting cold in winter.",
+                "es": "Lleva guantes cortaviento; la brisa en el cabo es muy fría en invierno."
               }
             },
             {
@@ -1213,7 +1324,8 @@
                 "de": "Der Strand ist fast leer; ideal für eine ruhige Pause in der Sonne.",
                 "hu": "A strand szinte üres; ideális egy csendes pihenőre a téli napsütésben.",
                 "ro": "Plaja este aproape goală; ideală pentru o pauză liniștită la soare.",
-                "en": "The beach is almost empty; ideal for a quiet break in the winter sun."
+                "en": "The beach is almost empty; ideal for a quiet break in the winter sun.",
+                "es": "La playa está casi vacía; ideal para un descanso tranquilo al sol invernal."
               }
             },
             {
@@ -1222,7 +1334,8 @@
                 "de": "Die Steine speichern die Wärme der Mittagssonne; ein guter Rastplatz.",
                 "hu": "A kövek elraktározzák a déli nap melegét; kiváló hely egy rövid pihenőre.",
                 "ro": "Pietrele rețin căldura soarelui de prânz; un loc bun de odihnă.",
-                "en": "The stones retain the warmth of the midday sun; a good place to rest."
+                "en": "The stones retain the warmth of the midday sun; a good place to rest.",
+                "es": "Las piedras retienen el calor del sol del mediodía; buen punto para descansar."
               }
             },
             {
@@ -1231,7 +1344,8 @@
                 "de": "Machen Sie Ihre Fotos vor 16:30 Uhr, bevor die Bucht im Schatten liegt.",
                 "hu": "Készítse el a fotókat 16:30 előtt, mielőtt az öböl árnyékba borulna.",
                 "ro": "Faceți fotografii înainte de 16:30, înainte ca golful să intre în umbră.",
-                "en": "Take your photos before 16:30, before the cove falls into deep shadow."
+                "en": "Take your photos before 16:30, before the cove falls into deep shadow.",
+                "es": "Haz tus fotos antes de las 16:30, antes de que la cala caiga en sombra profunda."
               }
             },
             {
@@ -1240,7 +1354,8 @@
                 "de": "Beenden Sie den Tag hier mit einer Tasse heißer Schokolade in der Nähe.",
                 "hu": "Zárja itt a napot, és igyon egy forró csokoládét a közeli kávézóban.",
                 "ro": "Încheiați ziua aici cu o ciocolată caldă la o cafenea din apropiere.",
-                "en": "End the day here and enjoy a hot chocolate at a nearby cafe."
+                "en": "End the day here and enjoy a hot chocolate at a nearby cafe.",
+                "es": "Termina el día aquí y disfruta de un chocolate caliente en un café cercano."
               }
             }
           ],
@@ -1272,6 +1387,13 @@
               "Tramuntana winds can make pedaling significantly harder.",
               "The hours between 12:00 and 15:00 are best for cycling comfortably.",
               "Some beach kiosks are closed in winter; bring your own water."
+            ],
+            "es": [
+              "Guantes calientes y orejeras son esenciales para ciclar en invierno.",
+              "Asegúrate de que las luces de la bici funcionen correctamente para el anochecer temprano.",
+              "Los vientos de tramuntana pueden hacer el pedaleo mucho más duro.",
+              "Las horas entre las 12:00 y las 15:00 son las mejores para pedalear con comodidad.",
+              "Algunos quioscos de playa cierran en invierno; lleva tu propia agua."
             ]
           }
         }
@@ -1290,7 +1412,8 @@
             "de": "Museu de la Pesca",
             "hu": "Halászati Múzeum",
             "ro": "Muzeul Pescuitului",
-            "en": "Fishing Museum"
+            "en": "Fishing Museum",
+            "es": "Museo de la Pesca"
           },
           "coords": [
             3.1272,
@@ -1305,7 +1428,8 @@
             "de": "Großer Parkplatz am Hafen.",
             "hu": "Nagy parkoló a kikötőnél.",
             "ro": "Parcare mare în port.",
-            "en": "Large parking lot at the harbor."
+            "en": "Large parking lot at the harbor.",
+            "es": "Amplio aparcamiento en el puerto."
           }
         },
         {
@@ -1313,7 +1437,8 @@
             "de": "Platja de la Fosca",
             "hu": "La Fosca strand",
             "ro": "Plaja La Fosca",
-            "en": "La Fosca Beach"
+            "en": "La Fosca Beach",
+            "es": "Playa de La Fosca"
           },
           "coords": [
             3.1415,
@@ -1328,7 +1453,8 @@
             "de": "Perfekt für Familien.",
             "hu": "Tökéletes családoknak.",
             "ro": "Perfect pentru familii.",
-            "en": "Perfect for families."
+            "en": "Perfect for families.",
+            "es": "Perfecto para familias."
           }
         },
         {
@@ -1336,7 +1462,8 @@
             "de": "Castell de Sant Esteve",
             "hu": "Sant Esteve vár",
             "ro": "Castelul Sant Esteve",
-            "en": "Sant Esteve Castle"
+            "en": "Sant Esteve Castle",
+            "es": "Castillo de Sant Esteve"
           },
           "coords": [
             3.1432,
@@ -1351,7 +1478,8 @@
             "de": "Historische Stätte am Ende des Strandes.",
             "hu": "Történelmi helyszín a strand végén.",
             "ro": "Sit istoric la capătul plajei.",
-            "en": "Historic site at the end of the beach."
+            "en": "Historic site at the end of the beach.",
+            "es": "Sitio histórico al final de la playa."
           }
         },
         {
@@ -1359,7 +1487,8 @@
             "de": "Cala s'Alguer",
             "hu": "Cala s'Alguer öböl",
             "ro": "Golful s'Alguer",
-            "en": "Cala s'Alguer"
+            "en": "Cala s'Alguer",
+            "es": "Cala s'Alguer"
           },
           "coords": [
             3.1481,
@@ -1374,7 +1503,8 @@
             "de": "Parkplatz oberhalb der Bucht.",
             "hu": "Parkoló az öböl felett.",
             "ro": "Parcare deasupra golfului.",
-            "en": "Parking above the cove."
+            "en": "Parking above the cove.",
+            "es": "Aparcamiento encima de la cala."
           }
         },
         {
@@ -1382,7 +1512,8 @@
             "de": "Far de Palamós",
             "hu": "Palamós világítótorony",
             "ro": "Farul Palamós",
-            "en": "Palamós Lighthouse"
+            "en": "Palamós Lighthouse",
+            "es": "Faro de Palamós"
           },
           "coords": [
             3.1312,
@@ -1397,7 +1528,8 @@
             "de": "Blick zum Abschluss der Tour.",
             "hu": "Záró kilátás a túra végén.",
             "ro": "Vedere finală la sfârșitul turului.",
-            "en": "Final view to end the tour."
+            "en": "Final view to end the tour.",
+            "es": "Vista final para terminar la ruta."
           }
         }
       ],
@@ -1405,7 +1537,8 @@
         "de": "Mit dem Auto erreichen Sie schnell alle Highlights von Palamós. Beginnen Sie kulturell im Hafen mit dem Fischereimuseum.\n\nVerbringen Sie den Mittag am breiten Sandstrand von La Fosca, der leicht mit dem PKW zu erreichen ist.\n\nBesuchen Sie die Festungsruinen von Sant Esteve und fahren Sie weiter zum charmanten Cala s'Alguer, einem der bestgehüteten Geheimnisse der Küste.\n\nDer Leuchtturm von Palamós bildet den perfekten Abschluss mit einem weiten Blick über das Meer.",
         "hu": "Autóval gyorsan elérheti Palamós összes látnivalóját. Kezdje kulturálisan a kikötőben a Halászati Múzeummal.\n\nTöltse a délutánt La Fosca széles homokos strandján, amely autóval könnyen megközelíthető.\n\nLátogassa meg Sant Esteve várának romjait, majd autózzon tovább a bájos Cala s'Alguer öbölhöz, a part egyik legjobban őrzött titkához.\n\nA palamósi világítótorony tökéletes befejezés, széles kilátással a tengerre.",
         "ro": "Cu mașina puteți ajunge rapid la toate atracțiile din Palamós. Începeți cultural în port cu Muzeul Pescuitului.\n\nPetreceți prânzul pe plaja largă de nisip din La Fosca, ușor accesibilă cu mașina.\n\nVizitați ruinele fortăreței Sant Esteve și conduceți mai departe spre fermecătorul Cala s'Alguer, unul dintre cele mai bine păstrate secrete ale coastei.\n\nFarul din Palamós oferă încheierea perfectă cu o privire largă asupra mării.",
-        "en": "By car, you can quickly reach all the highlights of Palamós. Start culturally at the harbor with the Fishing Museum.\n\nSpend the midday at the wide sandy beach of La Fosca, which is easily accessible by car.\n\nVisit the fortress ruins of Sant Esteve and drive on to the charming Cala s'Alguer, one of the best-kept secrets of the coast.\n\nThe Palamós lighthouse is the perfect ending with a wide view over the sea."
+        "en": "By car, you can quickly reach all the highlights of Palamós. Start culturally at the harbor with the Fishing Museum.\n\nSpend the midday at the wide sandy beach of La Fosca, which is easily accessible by car.\n\nVisit the fortress ruins of Sant Esteve and drive on to the charming Cala s'Alguer, one of the best-kept secrets of the coast.\n\nThe Palamós lighthouse is the perfect ending with a wide view over the sea.",
+        "es": "En coche puedes llegar rápidamente a todos los puntos destacados de Palamós. Empieza con cultura en el puerto, en el Museo de la Pesca.\n\nPasa el mediodía en la amplia playa de arena de La Fosca, de fácil acceso en coche.\n\nVisita las ruinas de la fortaleza de Sant Esteve y sigue hasta la encantadora Cala s'Alguer, uno de los secretos mejor guardados de la costa.\n\nEl faro de Palamós es el final perfecto con una amplia vista al mar."
       },
       "gastro_picks": {
         "de": [
@@ -1509,6 +1642,11 @@
           "Parking in the harbor is paid but safe.",
           "Use the car for trips to the cliffs.",
           "Watch out for no-parking zones in the old town."
+        ],
+        "es": [
+          "El aparcamiento en el puerto es de pago pero seguro.",
+          "Usa el coche para excursiones a los acantilados.",
+          "Cuidado con las zonas de prohibido aparcar en el casco antiguo."
         ]
       },
       "variants": {
@@ -1517,7 +1655,8 @@
             "de": "Mit dem Auto erreichen Sie schnell alle Highlights von Palamós. Beginnen Sie kulturell im Hafen mit dem Fischereimuseum.\n\nVerbringen Sie den Mittag am breiten Sandstrand von La Fosca, der leicht mit dem PKW zu erreichen ist.\n\nBesuchen Sie die Festungsruinen von Sant Esteve und fahren Sie weiter zum charmanten Cala s'Alguer, einem der bestgehüteten Geheimnisse der Küste.\n\nDer Leuchtturm von Palamós bildet den perfekten Abschluss mit einem weiten Blick über das Meer.",
             "hu": "Autóval gyorsan elérheti Palamós összes látnivalóját. Kezdje kulturálisan a kikötőben a Halászati Múzeummal.\n\nTöltse a délutánt La Fosca széles homokos strandján, amely autóval könnyen megközelíthető.\n\nLátogassa meg Sant Esteve várának romjait, majd autózzon tovább a bájos Cala s'Alguer öbölhöz, a part egyik legjobban őrzött titkához.\n\nA palamósi világítótorony tökéletes befejezés, széles kilátással a tengerre.",
             "ro": "Cu mașina puteți ajunge rapid la toate atracțiile din Palamós. Începeți cultural în port cu Muzeul Pescuitului.\n\nPetreceți prânzul pe plaja largă de nisip din La Fosca, ușor accesibilă cu mașina.\n\nVizitați ruinele fortăreței Sant Esteve și conduceți mai departe spre fermecătorul Cala s'Alguer, unul dintre cele mai bine păstrate secrete ale coastei.\n\nFarul din Palamós oferă încheierea perfectă cu o privire largă asupra mării.",
-            "en": "By car, you can quickly reach all the highlights of Palamós. Start culturally at the harbor with the Fishing Museum.\n\nSpend the midday at the wide sandy beach of La Fosca, which is easily accessible by car.\n\nVisit the fortress ruins of Sant Esteve and drive on to the charming Cala s'Alguer, one of the best-kept secrets of the coast.\n\nThe Palamós lighthouse is the perfect ending with a wide view over the sea."
+            "en": "By car, you can quickly reach all the highlights of Palamós. Start culturally at the harbor with the Fishing Museum.\n\nSpend the midday at the wide sandy beach of La Fosca, which is easily accessible by car.\n\nVisit the fortress ruins of Sant Esteve and drive on to the charming Cala s'Alguer, one of the best-kept secrets of the coast.\n\nThe Palamós lighthouse is the perfect ending with a wide view over the sea.",
+            "es": "En coche puedes llegar rápidamente a todos los puntos destacados de Palamós. Empieza con cultura en el puerto, en el Museo de la Pesca.\n\nPasa el mediodía en la amplia playa de arena de La Fosca, de fácil acceso en coche.\n\nVisita las ruinas de la fortaleza de Sant Esteve y sigue hasta la encantadora Cala s'Alguer, uno de los secretos mejor guardados de la costa.\n\nEl faro de Palamós es el final perfecto con una amplia vista al mar."
           },
           "stops": [
             {
@@ -1525,13 +1664,15 @@
                 "de": "Museu de la Pesca",
                 "hu": "Halászati Múzeum",
                 "ro": "Muzeul Pescuitului",
-                "en": "Fishing Museum"
+                "en": "Fishing Museum",
+                "es": "Museo de la Pesca"
               },
               "tip_5lang": {
                 "de": "Großer Parkplatz am Hafen.",
                 "hu": "Nagy parkoló a kikötőnél.",
                 "ro": "Parcare mare în port.",
-                "en": "Large parking lot at the harbor."
+                "en": "Large parking lot at the harbor.",
+                "es": "Amplio aparcamiento en el puerto."
               }
             },
             {
@@ -1539,13 +1680,15 @@
                 "de": "Platja de la Fosca",
                 "hu": "La Fosca strand",
                 "ro": "Plaja La Fosca",
-                "en": "La Fosca Beach"
+                "en": "La Fosca Beach",
+                "es": "Playa de La Fosca"
               },
               "tip_5lang": {
                 "de": "Perfekt für Familien.",
                 "hu": "Tökéletes családoknak.",
                 "ro": "Perfect pentru familii.",
-                "en": "Perfect for families."
+                "en": "Perfect for families.",
+                "es": "Perfecto para familias."
               }
             },
             {
@@ -1553,13 +1696,15 @@
                 "de": "Castell de Sant Esteve",
                 "hu": "Sant Esteve vár",
                 "ro": "Castelul Sant Esteve",
-                "en": "Sant Esteve Castle"
+                "en": "Sant Esteve Castle",
+                "es": "Castillo de Sant Esteve"
               },
               "tip_5lang": {
                 "de": "Historische Stätte am Ende des Strandes.",
                 "hu": "Történelmi helyszín a strand végén.",
                 "ro": "Sit istoric la capătul plajei.",
-                "en": "Historic site at the end of the beach."
+                "en": "Historic site at the end of the beach.",
+                "es": "Sitio histórico al final de la playa."
               }
             },
             {
@@ -1567,13 +1712,15 @@
                 "de": "Cala s'Alguer",
                 "hu": "Cala s'Alguer öböl",
                 "ro": "Golful s'Alguer",
-                "en": "Cala s'Alguer"
+                "en": "Cala s'Alguer",
+                "es": "Cala s'Alguer"
               },
               "tip_5lang": {
                 "de": "Parkplatz oberhalb der Bucht.",
                 "hu": "Parkoló az öböl felett.",
                 "ro": "Parcare deasupra golfului.",
-                "en": "Parking above the cove."
+                "en": "Parking above the cove.",
+                "es": "Aparcamiento encima de la cala."
               }
             },
             {
@@ -1581,13 +1728,15 @@
                 "de": "Far de Palamós",
                 "hu": "Palamós világítótorony",
                 "ro": "Farul Palamós",
-                "en": "Palamós Lighthouse"
+                "en": "Palamós Lighthouse",
+                "es": "Faro de Palamós"
               },
               "tip_5lang": {
                 "de": "Blick zum Abschluss der Tour.",
                 "hu": "Záró kilátás a túra végén.",
                 "ro": "Vedere finală la sfârșitul turului.",
-                "en": "Final view to end the tour."
+                "en": "Final view to end the tour.",
+                "es": "Vista final para terminar la ruta."
               }
             }
           ],
@@ -1693,6 +1842,11 @@
               "Parking in the harbor is paid but safe.",
               "Use the car for trips to the cliffs.",
               "Watch out for no-parking zones in the old town."
+            ],
+            "es": [
+              "El aparcamiento en el puerto es de pago pero seguro.",
+              "Usa el coche para excursiones a los acantilados.",
+              "Cuidado con las zonas de prohibido aparcar en el casco antiguo."
             ]
           }
         },
@@ -1701,7 +1855,8 @@
             "de": "Beginnen Sie Ihren Tag bequem mit dem Auto am Fischereimuseum. Das Parken ist bei Regen direkt am Hafen am einfachsten.\n\nFahren Sie mittags nach La Fosca. Genießen Sie den Blick auf die Brandung aus der Sicherheit Ihres warmen Fahrzeugs.\n\nAm Nachmittag geht es zum Sant Esteve Castle und Cala s'Alguer. Die kurzen Wege vom Parkplatz zu den Sehenswürdigkeiten minimieren die Zeit im Regen.\n\nBeenden Sie den Tag am Leuchtturm von Palamós. Wenn der Regen gegen die Scheiben peitscht, wirkt das Licht des Turms besonders schützend und einladend.",
             "hu": "Kezdje a napot kényelmesen autóval a Halászati Múzeumnál. Esőben a parkolás közvetlenül a kikötőnél a legegyszerűbb.\n\nDélben hajtson át La Fosca-hoz. Élvezze a hullámok látványát a meleg autó biztonságából.\n\nDélután a Sant Esteve vár és Cala s'Alguer következik. A parkolók közelsége miatt csak rövid ideig kell az esőben tartózkodnia.\n\nA napot a világítótoronynál zárja. Amikor az eső az ablakon kopog, a torony fénye különösen hívogató és védelmező hangulatot áraszt.",
             "ro": "Începeți ziua confortabil cu mașina la Muzeul Pescuitului. Parcarea chiar în port este cea mai simplă opțiune pe timp de ploaie.\n\nLa prânz, conduceți spre La Fosca. Admirați spectacolul valurilor din siguranța vehiculului dumneavoastră încălzit.\n\nDupă-amiaza, mergeți la Castelul Sant Esteve și Cala s'Alguer. Distanțele scurte de la parcare la obiective reduc timpul petrecut în ploaie.\n\nÎncheiați ziua la farul din Palamós. Când ploaia bate în parbriz, lumina turnului pare deosebit de protectoare și primitoare.",
-            "en": "Start your day comfortably by car at the Fishing Museum. Parking right at the harbor is easiest during rainy weather.\n\nBy midday, drive to La Fosca. Enjoy the view of the surf from the safety and warmth of your vehicle.\n\nIn the afternoon, head to Sant Esteve Castle and Cala s'Alguer. The short walk from the parking lots minimizes your time in the rain.\n\nEnd the day at the Palamós Lighthouse. As the rain lashes against the windows, the tower's light feels especially protective and welcoming."
+            "en": "Start your day comfortably by car at the Fishing Museum. Parking right at the harbor is easiest during rainy weather.\n\nBy midday, drive to La Fosca. Enjoy the view of the surf from the safety and warmth of your vehicle.\n\nIn the afternoon, head to Sant Esteve Castle and Cala s'Alguer. The short walk from the parking lots minimizes your time in the rain.\n\nEnd the day at the Palamós Lighthouse. As the rain lashes against the windows, the tower's light feels especially protective and welcoming.",
+            "es": "Comienza el día cómodamente en coche en el Museo de la Pesca. Aparcar en el puerto es lo más sencillo durante la lluvia.\n\nAl mediodía, conduce hasta La Fosca. Disfruta del rompiente desde la seguridad y calidez del vehículo.\n\nPor la tarde, dirígete al Castillo de Sant Esteve y a Cala s'Alguer. La corta caminata desde los aparcamientos minimiza tu tiempo bajo la lluvia.\n\nTermina el día en el Faro de Palamós. Mientras la lluvia golpea los cristales, la luz de la torre resulta especialmente protectora y acogedora."
           },
           "stops": [
             {
@@ -1710,7 +1865,8 @@
                 "de": "Parken Sie auf dem großen asphaltierten Parkplatz direkt vor dem Museum.",
                 "hu": "Parkoljon a közvetlenül a múzeum előtti nagy, aszfaltozott parkolóban.",
                 "ro": "Parcați în parcarea mare asfaltată chiar în fața muzeului.",
-                "en": "Park in the large paved parking lot directly in front of the museum."
+                "en": "Park in the large paved parking lot directly in front of the museum.",
+                "es": "Aparca en el amplio parking pavimentado justo frente al museo."
               }
             },
             {
@@ -1719,7 +1875,8 @@
                 "de": "Nutzen Sie die Parkplätze in der Nähe der Restaurants, um trocken zu bleiben.",
                 "hu": "Használja az éttermek közeli parkolóhelyeket, hogy szárazon maradhasson.",
                 "ro": "Folosiți locurile de parcare de lângă restaurante pentru a rămâne uscați.",
-                "en": "Use the parking spaces near the restaurants to stay dry between stops."
+                "en": "Use the parking spaces near the restaurants to stay dry between stops.",
+                "es": "Usa las plazas junto a los restaurantes para mantenerte seco entre paradas."
               }
             },
             {
@@ -1728,7 +1885,8 @@
                 "de": "Die Zufahrt kann eng sein; achten Sie auf Pfützen, die Schlaglöcher verdecken.",
                 "hu": "A behajtó szűk lehet; vigyázzon a kátyúkat elfedő tócsákra.",
                 "ro": "Accesul poate fi îngust; atenție la bălțile care ascund gropi.",
-                "en": "The access can be narrow; watch out for puddles hiding potholes."
+                "en": "The access can be narrow; watch out for puddles hiding potholes.",
+                "es": "El acceso puede ser estrecho; ojo con los charcos que ocultan baches."
               }
             },
             {
@@ -1737,7 +1895,8 @@
                 "de": "Stellen Sie sicher, dass Ihre Reifen auf dem unbefestigten Parkplatz Grip haben.",
                 "hu": "Ellenőrizze, hogy a gumiabroncsok jól tapadnak-e a sáros parkolóban.",
                 "ro": "Asigurați-vă că anvelopele au aderență în parcarea neasfaltată.",
-                "en": "Ensure your tires have enough grip in the unpaved parking area."
+                "en": "Ensure your tires have enough grip in the unpaved parking area.",
+                "es": "Asegúrate de que tus neumáticos tengan suficiente agarre en el aparcamiento sin pavimentar."
               }
             },
             {
@@ -1746,7 +1905,8 @@
                 "de": "Genießen Sie den Blick direkt aus dem Auto, falls es zu stark regnet.",
                 "hu": "Élvezze a kilátást közvetlenül az autóból, ha túl erősen esne az eső.",
                 "ro": "Admirați priveliștea direct din mașină dacă plouă prea tare.",
-                "en": "Enjoy the view directly from your car if it's raining too hard to exit."
+                "en": "Enjoy the view directly from your car if it's raining too hard to exit.",
+                "es": "Disfruta de la vista desde el coche si llueve demasiado para bajar."
               }
             }
           ],
@@ -1778,6 +1938,13 @@
               "The multi-story car park in the center is a good dry alternative.",
               "Keep the windows slightly cracked to prevent interior fogging.",
               "Heavy rain can cause brief localized flooding near the harbor area."
+            ],
+            "es": [
+              "Comprueba que los limpiaparabrisas estén en perfecto estado.",
+              "Evita aparcar bajo los árboles por el riesgo de ramas caídas.",
+              "El aparcamiento de varias plantas en el centro es una buena alternativa seca.",
+              "Mantén las ventanas ligeramente entreabiertas para evitar el empañamiento interior.",
+              "Las lluvias fuertes pueden causar inundaciones breves y localizadas cerca del puerto."
             ]
           }
         },
@@ -1786,7 +1953,8 @@
             "de": "Genießen Sie einen entspannten Wintermorgen im Auto. Starten Sie beim Fischereimuseum, wo das Parken im Winter völlig stressfrei ist.\n\nMittags fahren Sie nach La Fosca. Der Strand ist ruhig und die klare Luft ermöglicht eine weite Sicht über das Meer.\n\nBesuchen Sie am Nachmittag das Sant Esteve Castle und Cala s'Alguer. Mit dem Auto erreichen Sie diese abgelegeneren Orte, ohne der Kälte zu lange ausgesetzt zu sein.\n\nZum Abschluss geht es zum Leuchtturm. Die Heizung im Auto macht das Warten auf den frühen Sonnenuntergang besonders behaglich.",
             "hu": "Élvezze a pihentető téli reggelt az autóban. Kezdje a Halászati Múzeumnál, ahol télen a parkolás teljesen stresszmentes.\n\nDélben hajtson át La Fosca-hoz. A strand csendes, a tiszta levegő pedig messzi kilátást enged a tengerre.\n\nDélután látogassa meg a Sant Esteve várat és Cala s'Alguer-t. Autóval gyorsan elérheti ezeket a távolabbi pontokat is.\n\nZárásként menjen el a világítótoronyhoz. Az autó fűtése mellett különösen kényelmes megvárni a korai naplementét.",
             "ro": "Bucurați-vă de o dimineață relaxantă de iarnă în mașină. Începeți la Muzeul Pescuitului, unde parcarea este fără stres iarna.\n\nLa prânz, mergeți la La Fosca. Plaja este liniștită, iar aerul curat permite o vizibilitate excelentă asupra mării.\n\nVizitați Castelul Sant Esteve și Cala s'Alguer după-amiaza. Cu mașina ajungeți ușor la aceste locuri fără a sta prea mult în frig.\n\nLa final, mergeți la far. Căldura din mașină face așteptarea apusului devreme deosebit de plăcută.",
-            "en": "Enjoy a relaxed winter morning by car. Start at the Fishing Museum, where parking is completely stress-free during the off-season.\n\nBy midday, drive to La Fosca. The beach is quiet and the crisp air allows for far-reaching views across the Mediterranean.\n\nVisit Sant Esteve Castle and Cala s'Alguer in the afternoon. By car, you can reach these secluded spots without staying in the cold too long.\n\nFinally, head to the lighthouse. The car's heater makes waiting for the early sunset especially cozy."
+            "en": "Enjoy a relaxed winter morning by car. Start at the Fishing Museum, where parking is completely stress-free during the off-season.\n\nBy midday, drive to La Fosca. The beach is quiet and the crisp air allows for far-reaching views across the Mediterranean.\n\nVisit Sant Esteve Castle and Cala s'Alguer in the afternoon. By car, you can reach these secluded spots without staying in the cold too long.\n\nFinally, head to the lighthouse. The car's heater makes waiting for the early sunset especially cozy.",
+            "es": "Disfruta de una mañana de invierno relajada en coche. Comienza en el Museo de la Pesca, donde aparcar es totalmente sin estrés en temporada baja.\n\nAl mediodía, conduce a La Fosca. La playa está tranquila y el aire nítido permite vistas lejanas sobre el Mediterráneo.\n\nVisita el Castillo de Sant Esteve y Cala s'Alguer por la tarde. En coche puedes llegar a estos rincones sin permanecer demasiado tiempo al frío.\n\nFinalmente, dirígete al faro. La calefacción del coche hace que esperar el atardecer temprano sea especialmente confortable."
           },
           "stops": [
             {
@@ -1795,7 +1963,8 @@
                 "de": "Im Winter gibt es viele freie Parkplätze direkt an der Kaimauer.",
                 "hu": "Télen rengeteg szabad parkolóhely van közvetlenül a rakpartnál.",
                 "ro": "Iarna sunt multe locuri de parcare libere chiar lângă chei.",
-                "en": "In winter, there are plenty of free parking spots right by the quay wall."
+                "en": "In winter, there are plenty of free parking spots right by the quay wall.",
+                "es": "En invierno hay muchas plazas libres junto al muro del muelle."
               }
             },
             {
@@ -1804,7 +1973,8 @@
                 "de": "Die Parkgebühren am Strand sind im Winter oft reduziert oder aufgehoben.",
                 "hu": "A strandnál a parkolási díjakat télen gyakran csökkentik vagy eltörlik.",
                 "ro": "Taxele de parcare la plajă sunt adesea reduse sau eliminate iarna.",
-                "en": "Parking fees at the beach are often reduced or suspended in winter."
+                "en": "Parking fees at the beach are often reduced or suspended in winter.",
+                "es": "Las tarifas de aparcamiento en la playa suelen reducirse o suspenderse en invierno."
               }
             },
             {
@@ -1813,7 +1983,8 @@
                 "de": "Achten Sie auf Raureif auf der Straße am frühen Morgen.",
                 "hu": "Kora reggel vigyázzon az úttestre ráfagyott dér miatt.",
                 "ro": "Atenție la chiciura de pe șosea în diminețile devreme.",
-                "en": "Watch out for frost on the road during early winter mornings."
+                "en": "Watch out for frost on the road during early winter mornings.",
+                "es": "Cuidado con las heladas en la calzada durante las primeras mañanas de invierno."
               }
             },
             {
@@ -1822,7 +1993,8 @@
                 "de": "Der Parkplatz ist einsam; lassen Sie keine Wertsachen sichtbar im Auto.",
                 "hu": "A parkoló ilyenkor elhagyatott; ne hagyjon értéket látható helyen az autóban.",
                 "ro": "Parcarea este izolată; nu lăsați obiecte de valoare la vedere în mașină.",
-                "en": "The parking lot is isolated; don't leave valuables visible in the car."
+                "en": "The parking lot is isolated; don't leave valuables visible in the car.",
+                "es": "El aparcamiento está aislado; no dejes objetos de valor a la vista en el coche."
               }
             },
             {
@@ -1831,7 +2003,8 @@
                 "de": "Perfekter Ort, um den Sonnenuntergang windgeschützt aus dem Auto zu sehen.",
                 "hu": "Tökéletes hely, hogy szélvédett módon, az autóból nézze a naplementét.",
                 "ro": "Locul perfect pentru a vedea apusul protejat de vânt, din mașină.",
-                "en": "The perfect spot to watch the sunset from your car, protected from the wind."
+                "en": "The perfect spot to watch the sunset from your car, protected from the wind.",
+                "es": "El lugar perfecto para ver el atardecer desde el coche, resguardado del viento."
               }
             }
           ],
@@ -1863,6 +2036,13 @@
               "Many parking zones (blue zones) may be free during winter months.",
               "Bring a blanket if you plan to sit and watch the sunset at the lighthouse.",
               "Watch out for wildlife crossing the roads during the cool dusk hours."
+            ],
+            "es": [
+              "Comprueba el nivel de anticongelante del líquido del limpiaparabrisas.",
+              "El rendimiento de la batería puede disminuir con las temperaturas más bajas.",
+              "Muchas zonas de aparcamiento (zonas azules) pueden ser gratuitas durante los meses de invierno.",
+              "Lleva una manta si planeas sentarte a ver la puesta en el faro.",
+              "Cuidado con la fauna cruzando las carreteras durante el fresco crepúsculo."
             ]
           }
         }
@@ -1881,7 +2061,8 @@
             "de": "Port de Palamós",
             "hu": "Palamós kikötője",
             "ro": "Portul Palamós",
-            "en": "Port of Palamós"
+            "en": "Port of Palamós",
+            "es": "Puerto de Palamós"
           },
           "coords": [
             3.1251,
@@ -1896,7 +2077,8 @@
             "de": "Zentrale Bushaltestelle in der Nähe.",
             "hu": "Központi buszmegálló a közelben.",
             "ro": "Stație centrală de autobuz în apropiere.",
-            "en": "Central bus stop nearby."
+            "en": "Central bus stop nearby.",
+            "es": "Parada de autobús central cerca."
           }
         },
         {
@@ -1904,7 +2086,8 @@
             "de": "Museu de la Pesca",
             "hu": "Halászati Múzeum",
             "ro": "Muzeul Pescuitului",
-            "en": "Fishing Museum"
+            "en": "Fishing Museum",
+            "es": "Museo de la Pesca"
           },
           "coords": [
             3.1272,
@@ -1919,7 +2102,8 @@
             "de": "Vom Hafen aus zu Fuß erreichbar.",
             "hu": "Gyalogosan elérhető a kikötőből.",
             "ro": "Accesibil pe jos din port.",
-            "en": "Accessible on foot from the harbor."
+            "en": "Accessible on foot from the harbor.",
+            "es": "Accesible a pie desde el puerto."
           }
         },
         {
@@ -1927,7 +2111,8 @@
             "de": "Església de Santa Maria",
             "hu": "Szűz Mária templom",
             "ro": "Biserica Santa Maria",
-            "en": "Church of Santa Maria"
+            "en": "Church of Santa Maria",
+            "es": "Iglesia de Santa María"
           },
           "coords": [
             3.1291,
@@ -1942,7 +2127,8 @@
             "de": "Mitten im Zentrum.",
             "hu": "Közvetlenül a központban.",
             "ro": "Chiar în centru.",
-            "en": "Right in the center."
+            "en": "Right in the center.",
+            "es": "Justo en el centro."
           }
         },
         {
@@ -1950,7 +2136,8 @@
             "de": "Platja de la Fosca",
             "hu": "La Fosca strand",
             "ro": "Plaja La Fosca",
-            "en": "La Fosca Beach"
+            "en": "La Fosca Beach",
+            "es": "Playa de La Fosca"
           },
           "coords": [
             3.1415,
@@ -1965,7 +2152,8 @@
             "de": "Lokalbus Linie L1 nutzen.",
             "hu": "Használja az L1-es helyi buszt.",
             "ro": "Utilizați autobuzul local L1.",
-            "en": "Use the L1 local bus line."
+            "en": "Use the L1 local bus line.",
+            "es": "Utiliza la línea de autobús local L1."
           }
         }
       ],
@@ -1973,7 +2161,8 @@
         "de": "Palamós lässt sich gut mit den lokalen Buslinien erkunden. Starten Sie am Hafen und besuchen Sie das faszinierende Fischereimuseum.\n\nSchlendern Sie durch die Gassen zur Kirche Santa Maria, bevor Sie den Bus zur Platja de la Fosca nehmen.\n\nGenießen Sie die entspannte Atmosphäre am Strand, bevor Sie mit dem Bus zurück ins Zentrum fahren.\n\nEin stressfreier Weg, die Stadt und ihre Strände zu erleben.",
         "hu": "Palamós jól felfedezhető a helyi buszjáratokkal. Kezdje a kikötőben, és látogassa meg a lenyűgöző Halászati Múzeumot.\n\nSétáljon át az utcákon a Szűz Mária templomhoz, mielőtt felszállna a La Fosca strandhoz tartó buszra.\n\nÉlvezze a strand nyugodt hangulatát, mielőtt visszabuszozna a központba.\n\nStresszmentes mód a város és a strandok megismerésére.",
         "ro": "Palamós poate fi explorat ușor cu liniile locale de autobuz. Începeți în port și vizitați fascinantul Muzeu al Pescuitului.\n\nPlimbați-vă pe străzi până la Biserica Santa Maria înainte de a lua autobuzul spre plaja La Fosca.\n\nBucurați-vă de atmosfera relaxată de pe plajă înainte de a vă întoarce cu autobuzul în centru.\n\nO modalitate fără stres de a experimenta orașul și plajele sale.",
-        "en": "Palamós can be easily explored using local bus lines. Start at the harbor and visit the fascinating Fishing Museum.\n\nStroll through the streets to the Church of Santa Maria before taking the bus to La Fosca beach.\n\nEnjoy the relaxed atmosphere on the beach before taking the bus back to the center.\n\nA stress-free way to experience the city and its beaches."
+        "en": "Palamós can be easily explored using local bus lines. Start at the harbor and visit the fascinating Fishing Museum.\n\nStroll through the streets to the Church of Santa Maria before taking the bus to La Fosca beach.\n\nEnjoy the relaxed atmosphere on the beach before taking the bus back to the center.\n\nA stress-free way to experience the city and its beaches.",
+        "es": "Palamós se puede explorar fácilmente con las líneas de autobús local. Empieza en el puerto y visita el fascinante Museo de la Pesca.\n\nPasea por las calles hasta la Iglesia de Santa María antes de tomar el autobús a la playa de La Fosca.\n\nDisfruta del ambiente relajado en la playa antes de volver en autobús al centro.\n\nUna forma sin estrés de conocer la ciudad y sus playas."
       },
       "gastro_picks": {
         "de": [
@@ -2077,6 +2266,11 @@
           "Download the Moventis app for bus times.",
           "Tickets are available from the driver.",
           "Buses run more frequently in summer."
+        ],
+        "es": [
+          "Descarga la app de Moventis para los horarios de los buses.",
+          "Los billetes están disponibles con el conductor.",
+          "Los autobuses circulan con mayor frecuencia en verano."
         ]
       },
       "variants": {
@@ -2085,7 +2279,8 @@
             "de": "Palamós lässt sich gut mit den lokalen Buslinien erkunden. Starten Sie am Hafen und besuchen Sie das faszinierende Fischereimuseum.\n\nSchlendern Sie durch die Gassen zur Kirche Santa Maria, bevor Sie den Bus zur Platja de la Fosca nehmen.\n\nGenießen Sie die entspannte Atmosphäre am Strand, bevor Sie mit dem Bus zurück ins Zentrum fahren.\n\nEin stressfreier Weg, die Stadt und ihre Strände zu erleben.",
             "hu": "Palamós jól felfedezhető a helyi buszjáratokkal. Kezdje a kikötőben, és látogassa meg a lenyűgöző Halászati Múzeumot.\n\nSétáljon át az utcákon a Szűz Mária templomhoz, mielőtt felszállna a La Fosca strandhoz tartó buszra.\n\nÉlvezze a strand nyugodt hangulatát, mielőtt visszabuszozna a központba.\n\nStresszmentes mód a város és a strandok megismerésére.",
             "ro": "Palamós poate fi explorat ușor cu liniile locale de autobuz. Începeți în port și vizitați fascinantul Muzeu al Pescuitului.\n\nPlimbați-vă pe străzi până la Biserica Santa Maria înainte de a lua autobuzul spre plaja La Fosca.\n\nBucurați-vă de atmosfera relaxată de pe plajă înainte de a vă întoarce cu autobuzul în centru.\n\nO modalitate fără stres de a experimenta orașul și plajele sale.",
-            "en": "Palamós can be easily explored using local bus lines. Start at the harbor and visit the fascinating Fishing Museum.\n\nStroll through the streets to the Church of Santa Maria before taking the bus to La Fosca beach.\n\nEnjoy the relaxed atmosphere on the beach before taking the bus back to the center.\n\nA stress-free way to experience the city and its beaches."
+            "en": "Palamós can be easily explored using local bus lines. Start at the harbor and visit the fascinating Fishing Museum.\n\nStroll through the streets to the Church of Santa Maria before taking the bus to La Fosca beach.\n\nEnjoy the relaxed atmosphere on the beach before taking the bus back to the center.\n\nA stress-free way to experience the city and its beaches.",
+            "es": "Palamós se puede explorar fácilmente con las líneas de autobús local. Empieza en el puerto y visita el fascinante Museo de la Pesca.\n\nPasea por las calles hasta la Iglesia de Santa María antes de tomar el autobús a la playa de La Fosca.\n\nDisfruta del ambiente relajado en la playa antes de volver en autobús al centro.\n\nUna forma sin estrés de conocer la ciudad y sus playas."
           },
           "stops": [
             {
@@ -2093,13 +2288,15 @@
                 "de": "Port de Palamós",
                 "hu": "Palamós kikötője",
                 "ro": "Portul Palamós",
-                "en": "Port of Palamós"
+                "en": "Port of Palamós",
+                "es": "Puerto de Palamós"
               },
               "tip_5lang": {
                 "de": "Zentrale Bushaltestelle in der Nähe.",
                 "hu": "Központi buszmegálló a közelben.",
                 "ro": "Stație centrală de autobuz în apropiere.",
-                "en": "Central bus stop nearby."
+                "en": "Central bus stop nearby.",
+                "es": "Parada de autobús central cerca."
               }
             },
             {
@@ -2107,13 +2304,15 @@
                 "de": "Museu de la Pesca",
                 "hu": "Halászati Múzeum",
                 "ro": "Muzeul Pescuitului",
-                "en": "Fishing Museum"
+                "en": "Fishing Museum",
+                "es": "Museo de la Pesca"
               },
               "tip_5lang": {
                 "de": "Vom Hafen aus zu Fuß erreichbar.",
                 "hu": "Gyalogosan elérhető a kikötőből.",
                 "ro": "Accesibil pe jos din port.",
-                "en": "Accessible on foot from the harbor."
+                "en": "Accessible on foot from the harbor.",
+                "es": "Accesible a pie desde el puerto."
               }
             },
             {
@@ -2121,13 +2320,15 @@
                 "de": "Església de Santa Maria",
                 "hu": "Szűz Mária templom",
                 "ro": "Biserica Santa Maria",
-                "en": "Church of Santa Maria"
+                "en": "Church of Santa Maria",
+                "es": "Iglesia de Santa María"
               },
               "tip_5lang": {
                 "de": "Mitten im Zentrum.",
                 "hu": "Közvetlenül a központban.",
                 "ro": "Chiar în centru.",
-                "en": "Right in the center."
+                "en": "Right in the center.",
+                "es": "Justo en el centro."
               }
             },
             {
@@ -2135,13 +2336,15 @@
                 "de": "Platja de la Fosca",
                 "hu": "La Fosca strand",
                 "ro": "Plaja La Fosca",
-                "en": "La Fosca Beach"
+                "en": "La Fosca Beach",
+                "es": "Playa de La Fosca"
               },
               "tip_5lang": {
                 "de": "Lokalbus Linie L1 nutzen.",
                 "hu": "Használja az L1-es helyi buszt.",
                 "ro": "Utilizați autobuzul local L1.",
-                "en": "Use the L1 local bus line."
+                "en": "Use the L1 local bus line.",
+                "es": "Utiliza la línea de autobús local L1."
               }
             }
           ],
@@ -2247,6 +2450,11 @@
               "Download the Moventis app for bus times.",
               "Tickets are available from the driver.",
               "Buses run more frequently in summer."
+            ],
+            "es": [
+              "Descarga la app de Moventis para los horarios de los buses.",
+              "Los billetes están disponibles con el conductor.",
+              "Los autobuses circulan con mayor frecuencia en verano."
             ]
           }
         },
@@ -2255,7 +2463,8 @@
             "de": "Starten Sie am Hafen, wo die Busse in der Nähe des Fischereimuseums halten. Ein kurzer Sprint bringt Sie trocken ins Innere.\n\nMittags erkunden Sie die Exponate des Museums. Es ist der ideale Ort, um dem prasselnden Regen draußen zu entkommen.\n\nAm Nachmittag bringt Sie der Bus zur Kirche Santa Maria. Die Wartezeiten an den Haltestellen sind kurz, nutzen Sie die überdachten Häuschen.\n\nBeenden Sie den Tag in La Fosca. Auch bei Regen bietet der Blick aus den Strandcafés, die Sie bequem mit dem Transit erreichen, eine beruhigende Atmosphäre.",
             "hu": "Kezdje a kikötőnél, ahol a buszok a Halászati Múzeum közelében állnak meg. Egy gyors sprinttel szárazon bejuthat az épületbe.\n\nDélben fedezze fel a múzeum kiállításait. Ez az ideális hely, hogy elmeneküljön a kinti kopogó eső elől.\n\nDélután a busz elviszi a Santa Maria templomhoz. A várakozási idő rövid, használja a fedett megállókat.\n\nA napot La Fosca-nál zárja. Esőben is nyugodt hangulatot áraszt a partmenti kávézók látványa, ahová kényelmesen eljuthat busszal.",
             "ro": "Începeți în port, unde autobuzele opresc aproape de Muzeul Pescuitului. Un sprint scurt vă va duce la adăpost în interior.\n\nLa prânz, explorați exponatele muzeului. Este locul ideal pentru a scăpa de ploaia de afară.\n\nDupă-amiaza, autobuzul vă duce la Biserica Santa Maria. Timpul de așteptare este scurt, folosiți stațiile acoperite.\n\nÎncheiați ziua la La Fosca. Chiar și pe ploaie, cafenelele de pe plajă unde ajungeți ușor cu transportul public oferă o atmosferă liniștitoare.",
-            "en": "Start at the port, where buses stop close to the Fishing Museum. A short sprint will get you inside without getting too wet.\n\nBy midday, explore the museum's exhibits. It's the ideal place to escape the pattering rain outside.\n\nIn the afternoon, the bus takes you to the Church of Santa Maria. Waiting times are short; make use of the sheltered bus stops.\n\nEnd your day at La Fosca. Even in the rain, the beach cafes reached easily by transit offer a very calming coastal atmosphere."
+            "en": "Start at the port, where buses stop close to the Fishing Museum. A short sprint will get you inside without getting too wet.\n\nBy midday, explore the museum's exhibits. It's the ideal place to escape the pattering rain outside.\n\nIn the afternoon, the bus takes you to the Church of Santa Maria. Waiting times are short; make use of the sheltered bus stops.\n\nEnd your day at La Fosca. Even in the rain, the beach cafes reached easily by transit offer a very calming coastal atmosphere.",
+            "es": "Empieza en el puerto, donde los autobuses paran cerca del Museo de la Pesca. Un pequeño sprint te llevará dentro sin mojarte demasiado.\n\nAl mediodía, explora las exposiciones del museo. Es el lugar ideal para resguardarte del repiqueteo de la lluvia.\n\nPor la tarde, el autobús te lleva a la Iglesia de Santa María. Los tiempos de espera son cortos; aprovecha las paradas cubiertas.\n\nTermina el día en La Fosca. Incluso con lluvia, las cafeterías de la playa accesibles en transporte ofrecen un ambiente costero muy relajante."
           },
           "stops": [
             {
@@ -2264,7 +2473,8 @@
                 "de": "Warten Sie im Museumscafé, falls der Bus Verspätung hat.",
                 "hu": "Várjon a múzeum kávézójában, ha késne a busz.",
                 "ro": "Așteptați în cafeneaua muzeului dacă autobuzul întârzie.",
-                "en": "Wait in the museum cafe if the bus is running late."
+                "en": "Wait in the museum cafe if the bus is running late.",
+                "es": "Espera en la cafetería del museo si el autobús se retrasa."
               }
             },
             {
@@ -2273,7 +2483,8 @@
                 "de": "Die Bushaltestelle befindet sich nur wenige Meter vom Haupteingang entfernt.",
                 "hu": "A buszmegálló mindössze néhány méterre van a főbejárattól.",
                 "ro": "Stația de autobuz se află la doar câțiva metri de intrarea principală.",
-                "en": "The bus stop is located just a few meters from the main entrance."
+                "en": "The bus stop is located just a few meters from the main entrance.",
+                "es": "La parada de bus está a pocos metros de la entrada principal."
               }
             },
             {
@@ -2282,7 +2493,8 @@
                 "de": "Nutzen Sie die zentralen Haltestellen, um schnell in trockene Geschäfte zu gelangen.",
                 "hu": "Használja a központi megállókat, hogy gyorsan száraz üzletekbe juthasson.",
                 "ro": "Folosiți stațiile centrale pentru a ajunge rapid în magazinele acoperite.",
-                "en": "Use the central stops to quickly reach dry shops and businesses."
+                "en": "Use the central stops to quickly reach dry shops and businesses.",
+                "es": "Usa las paradas centrales para llegar rápidamente a tiendas y comercios secos."
               }
             },
             {
@@ -2291,7 +2503,8 @@
                 "de": "Der Bus hält direkt an der Promenade; nur ein kurzer Weg zu den Cafés.",
                 "hu": "A busz közvetlenül a sétánynál áll meg; csak rövid séta a kávézókig.",
                 "ro": "Autobuzul oprește chiar la promenadă; o scurtă plimbare până la cafenele.",
-                "en": "The bus stops right by the promenade; only a short walk to the cafes."
+                "en": "The bus stops right by the promenade; only a short walk to the cafes.",
+                "es": "El autobús para junto al paseo; sólo un corto paseo hasta las cafeterías."
               }
             }
           ],
@@ -2323,6 +2536,13 @@
               "Have small change or a contactless card ready for the fare.",
               "Main routes continue to run regularly even during rainy weather.",
               "Sheltered bus stops are primarily found in the city center area."
+            ],
+            "es": [
+              "Descarga la app de transporte local para actualizaciones de horarios en tiempo real.",
+              "Lleva ropa que seque rápido al viajar en autobuses con aire acondicionado.",
+              "Ten cambio pequeño o una tarjeta contactless a mano para el billete.",
+              "Las líneas principales siguen funcionando con regularidad incluso con lluvia.",
+              "Las marquesinas cubiertas se encuentran principalmente en el centro de la ciudad."
             ]
           }
         },
@@ -2331,7 +2551,8 @@
             "de": "Genießen Sie einen gemütlichen Wintertag mit dem öffentlichen Nahverkehr. Starten Sie am Hafen, wo die Busse Sie warm und sicher transportieren.\n\nMittags besuchen Sie das Fischereimuseum. Die kurzen Wege zwischen den Haltestellen machen den Ausflug auch an kalten Tagen angenehm.\n\nDer Nachmittag führt Sie zur Kirche Santa Maria. Im Stadtzentrum sind die Intervalle der Busse im Winter sehr zuverlässig.\n\nBeenden Sie den Tag in La Fosca. Die Fahrt mit dem Bus bietet Ihnen die Möglichkeit, die winterliche Küstenlandschaft entspannt aus dem Fenster zu betrachten.",
             "hu": "Élvezze a barátságos téli napot tömegközlekedéssel. Kezdje a kikötőnél, ahol a buszok melegen és biztonságosan szállítják.\n\nDélben látogasson el a Halászati Múzeumba. A megállók közötti rövid távolságok hideg napokon is kényelmessé teszik az utat.\n\nDélután a Santa Maria templom felé vegye az irányt. A belvárosban a buszok télen is megbízhatóan járnak.\n\nZárja a napot La Fosca-nál. A buszozás lehetőséget ad, hogy az ablakból pihentetően nézze a téli tengerparti tájat.",
             "ro": "Bucurați-vă de o zi plăcută de iarnă folosind transportul public. Începeți în port, unde autobuzele vă transportă în siguranță și la căldură.\n\nLa prânz, vizitați Muzeul Pescuitului. Distanțele scurte între stații fac excursia plăcută chiar și în zilele reci.\n\nDupă-amiaza mergeți spre Biserica Santa Maria. În centrul orașului, intervalele autobuzelor sunt foarte sigure iarna.\n\nÎncheiați ziua la La Fosca. Călătoria cu autobuzul vă oferă ocazia să admirați relaxat peisajul de coastă de la fereastră.",
-            "en": "Enjoy a cozy winter day using public transit. Start at the harbor, where buses provide a warm and safe way to get around town.\n\nBy midday, visit the Fishing Museum. Short walking distances between stops make the trip pleasant even on chilly winter days.\n\nIn the afternoon, head to the Church of Santa Maria. In the city center, bus intervals remain very reliable during the winter months.\n\nEnd your day at La Fosca. The bus ride gives you a great chance to relax and watch the winter coastal scenery through the window."
+            "en": "Enjoy a cozy winter day using public transit. Start at the harbor, where buses provide a warm and safe way to get around town.\n\nBy midday, visit the Fishing Museum. Short walking distances between stops make the trip pleasant even on chilly winter days.\n\nIn the afternoon, head to the Church of Santa Maria. In the city center, bus intervals remain very reliable during the winter months.\n\nEnd your day at La Fosca. The bus ride gives you a great chance to relax and watch the winter coastal scenery through the window.",
+            "es": "Disfruta de un día acogedor de invierno usando el transporte público. Empieza en el puerto, donde los autobuses ofrecen una forma cálida y segura de moverse por la localidad.\n\nAl mediodía, visita el Museo de la Pesca. Las cortas distancias a pie entre paradas hacen el trayecto agradable incluso en días fríos.\n\nPor la tarde, dirígete a la iglesia de Santa María. En el centro, los intervalos de los autobuses son muy fiables durante los meses de invierno.\n\nTermina el día en La Fosca. El viaje en autobús te dará una buena oportunidad para relajarte y contemplar el paisaje costero invernal por la ventana."
           },
           "stops": [
             {
@@ -2340,7 +2561,8 @@
                 "de": "Die Busse sind im Winter gut beheizt; genießen Sie die Fahrt.",
                 "hu": "A buszok télen jól fűtöttek; élvezze a kényelmes utazást.",
                 "ro": "Autobuzele sunt bine încălzite iarna; bucurați-vă de drum.",
-                "en": "Buses are well-heated in winter; enjoy the comfortable ride."
+                "en": "Buses are well-heated in winter; enjoy the comfortable ride.",
+                "es": "Los autobuses están bien calefactados en invierno; disfruta del trayecto cómodo."
               }
             },
             {
@@ -2349,7 +2571,8 @@
                 "de": "Prüfen Sie den Winterfahrplan, da einige Linien seltener fahren könnten.",
                 "hu": "Ellenőrizze a téli menetrendet, mert néhány járat ritkábban járhat.",
                 "ro": "Verificați mersul autobuzelor iarna, unele linii pot fi mai rare.",
-                "en": "Check the winter timetable as some routes may run less frequently."
+                "en": "Check the winter timetable as some routes may run less frequently.",
+                "es": "Consulta el horario de invierno, ya que algunas líneas pueden pasar con menos frecuencia."
               }
             },
             {
@@ -2358,7 +2581,8 @@
                 "de": "Ein kurzer Fußweg von der Haltestelle führt direkt in die warme Kirche.",
                 "hu": "A megállótól csak egy rövid séta a fűtött templom belső tere.",
                 "ro": "O scurtă plimbare de la stație vă duce direct în biserica încălzită.",
-                "en": "A short walk from the stop leads directly into the warm church interior."
+                "en": "A short walk from the stop leads directly into the warm church interior.",
+                "es": "A poca distancia a pie desde la parada se accede directamente al cálido interior de la iglesia."
               }
             },
             {
@@ -2367,7 +2591,8 @@
                 "de": "Achten Sie auf die letzte Rückfahrt, da es früh dunkel wird.",
                 "hu": "Ügyeljen az utolsó visszainduló járatra, mivel korán sötétedik.",
                 "ro": "Atenție la ultimul autobuz de întoarcere, se întunecă devreme.",
-                "en": "Pay attention to the last return bus, as it gets dark very early."
+                "en": "Pay attention to the last return bus, as it gets dark very early.",
+                "es": "Presta atención al último autobús de regreso, porque anochece muy pronto."
               }
             }
           ],
@@ -2399,6 +2624,13 @@
               "Buses are much less crowded in winter than during the peak summer.",
               "Be aware of modified schedules during winter public holidays.",
               "Wear a scarf to protect yourself from drafts when boarding or exiting."
+            ],
+            "es": [
+              "Aprovecha la espera en las paradas para un café caliente rápido.",
+              "Los autobuses SARFA conectan Palamós con los municipios vecinos de forma fiable.",
+              "Los autobuses están mucho menos llenos en invierno que en pleno verano.",
+              "Ten en cuenta los horarios modificados durante los festivos de invierno.",
+              "Lleva una bufanda para protegerte de las corrientes al subir o bajar."
             ]
           }
         }
@@ -2416,19 +2648,22 @@
       "de": "Palamós ist eine echte Hafenstadt, hier wird vor allem Katalanisch gesprochen. Im Fischhafen und auf der Auktion hört man fast nur Katalanisch. 'Gambes de Palamós' (die berühmten roten Garnelen) ist der Begriff, den Sie überall sehen werden.",
       "hu": "Palamós valódi kikötőváros, főleg katalánul beszélnek. A halászkikötőben és a halaukción szinte csak katalán szó hallatszik. A 'Gambes de Palamós' (a híres vörös garnéla) szó mindenhol szembejön majd.",
       "ro": "Palamós este un veritabil oraș-port, unde se vorbește mai ales catalană. În port și la licitația de pește auzi aproape numai catalană. 'Gambes de Palamós' (faimoșii crevetți roșii) e termenul pe care îl vei vedea peste tot.",
-      "en": "Palamós is a real working port where Catalan dominates. At the fish harbour and auction you'll hear almost only Catalan. 'Gambes de Palamós' (the famous red prawns) is the phrase you'll see everywhere."
+      "en": "Palamós is a real working port where Catalan dominates. At the fish harbour and auction you'll hear almost only Catalan. 'Gambes de Palamós' (the famous red prawns) is the phrase you'll see everywhere.",
+      "es": "Palamós es un puerto de trabajo real donde predomina el catalán. En el puerto pesquero y la subasta oirás casi solo catalán. «Gambes de Palamós» (las famosas gambas rojas) es la expresión que verás por todas partes."
     },
     "best_time_to_visit": {
       "de": "Mai bis Oktober. Höhepunkt ist die Garnelenkampagne: April bis Dezember, dann sind die Restaurants frisch versorgt. Im August Fischauktion live miterleben, aber Hotels früh buchen. Im Winter ruhig, aber das Fischereimuseum lohnt sich immer.",
       "hu": "Május-október ideális. A garnélaszezon április-december, ekkor friss az alapanyag az éttermekben. Augusztusban a halaukció élőben látható, de szállást előre foglalj. Télen csendes, de a Halászati Múzeum mindig nyitva és érdekes.",
       "ro": "Mai-octombrie. Sezonul crevetților e aprilie-decembrie, când restaurantele au pește proaspăt. În august poți asista la licitația de pește, dar rezervă cazarea din timp. Iarna e liniștit, dar Muzeul Pescuitului merită oricând.",
-      "en": "May to October is best. Prawn season runs April-December, when restaurants get the freshest catch. In August catch the live fish auction, but book hotels early. Winter is quiet but the Fishing Museum is always worth a visit."
+      "en": "May to October is best. Prawn season runs April-December, when restaurants get the freshest catch. In August catch the live fish auction, but book hotels early. Winter is quiet but the Fishing Museum is always worth a visit.",
+      "es": "De mayo a octubre es lo mejor. La temporada de gambas va de abril a diciembre, cuando los restaurantes reciben la captura más fresca. En agosto puedes ver la subasta de pescado en vivo, pero reserva hoteles con antelación. El invierno es tranquilo, pero el Museo de la Pesca siempre merece la pena."
     },
     "neighborhood_warnings": {
       "de": "Palamós ist sicher. Im Sommer auf der Promenade auf Taschendiebe achten. Der Strand La Fosca ist familienfreundlich, aber das Meer kann bei Tramuntana plötzlich rau werden, achten Sie auf die Flaggen.",
       "hu": "Palamós biztonságos. Nyáron a sétányon figyelj a zsebtolvajokra. A La Fosca strand családbarát, de Tramuntana szélben hirtelen viharos lehet a tenger, mindig nézd a strandzászlót.",
       "ro": "Palamós este sigur. Vara, pe promenadă, atenție la buzunare. Plaja La Fosca e bună pentru familii, dar pe vânt de Tramuntana marea devine rapid agitată, verifică steagurile.",
-      "en": "Palamós is safe. Watch pickpockets along the summer promenade. La Fosca beach is family-friendly but the sea turns rough quickly with Tramuntana wind, always check the beach flags."
+      "en": "Palamós is safe. Watch pickpockets along the summer promenade. La Fosca beach is family-friendly but the sea turns rough quickly with Tramuntana wind, always check the beach flags.",
+      "es": "Palamós es seguro. Vigila los carteristas en el paseo veraniego. La playa de La Fosca es familiar, pero el mar se vuelve bravo con viento de Tramuntana; consulta siempre las banderas de la playa."
     }
   }
 }

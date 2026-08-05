@@ -21,7 +21,8 @@
             "de": "Römischer Bogen",
             "hu": "Római diadalív",
             "ro": "Arcul Roman",
-            "en": "Roman Arch"
+            "en": "Roman Arch",
+            "es": "Arco Romano"
           },
           "coords": [
             -2.4328,
@@ -36,7 +37,8 @@
             "de": "Einzigartiger dreibogiger Bogen.",
             "hu": "Spanyolország egyetlen háromíves római kapuja.",
             "ro": "Singurul arc roman cu trei porți din Spania.",
-            "en": "The only triple-arched Roman gate in Spain."
+            "en": "The only triple-arched Roman gate in Spain.",
+            "es": "La única puerta romana de triple arco en España."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Aussichtspunkt des Cid",
             "hu": "El Cid kilátó",
             "ro": "Belvederea El Cid",
-            "en": "Viewpoint of El Cid"
+            "en": "Viewpoint of El Cid",
+            "es": "Mirador de El Cid"
           },
           "coords": [
             -2.4321,
@@ -59,7 +62,8 @@
             "de": "Blick über das Jalón-Tal.",
             "hu": "Pazar kilátás a Jalón-völgyre.",
             "ro": "Vedere panoramică asupra văii Jalón.",
-            "en": "Stunning views over the Jalón valley."
+            "en": "Stunning views over the Jalón valley.",
+            "es": "Vistas impresionantes sobre el valle del Jalón."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Plaza Mayor",
             "hu": "Főtér",
             "ro": "Plaza Mayor",
-            "en": "Plaza Mayor"
+            "en": "Plaza Mayor",
+            "es": "Plaza Mayor"
           },
           "coords": [
             -2.4339,
@@ -82,7 +87,8 @@
             "de": "Ein geschlossener kastilischer Platz.",
             "hu": "Zárt kasztíliai stílusú tér.",
             "ro": "O piață castiliană închisă tipică.",
-            "en": "A typical enclosed Castilian square."
+            "en": "A typical enclosed Castilian square.",
+            "es": "Una típica plaza castellana cerrada."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Herzogspalast",
             "hu": "Hercegi palota",
             "ro": "Palatul Ducal",
-            "en": "Ducal Palace"
+            "en": "Ducal Palace",
+            "es": "Palacio Ducal"
           },
           "coords": [
             -2.4342,
@@ -105,7 +112,8 @@
             "de": "Besuchen Sie den Renaissance-Hof.",
             "hu": "Nézze meg a reneszánsz udvart.",
             "ro": "Vizitați curtea interioară renascentistă.",
-            "en": "Visit the Renaissance courtyard."
+            "en": "Visit the Renaissance courtyard.",
+            "es": "Visita el patio renacentista."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Stiftskirche Santa María",
             "hu": "Santa María-társaskáptalan",
             "ro": "Colegiata Santa María",
-            "en": "Collegiate Church of Santa María"
+            "en": "Collegiate Church of Santa María",
+            "es": "Colegiata de Santa María"
           },
           "coords": [
             -2.4352,
@@ -128,7 +137,8 @@
             "de": "Spätgotische Architektur im Inneren.",
             "hu": "Késő gótikus belső tér.",
             "ro": "Arhitectură gotică târzie în interior.",
-            "en": "Late Gothic architecture inside."
+            "en": "Late Gothic architecture inside.",
+            "es": "Arquitectura gótica tardía en el interior."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Römische Mosaike",
             "hu": "Római mozaikok",
             "ro": "Mozaicuri Romane",
-            "en": "Roman Mosaics"
+            "en": "Roman Mosaics",
+            "es": "Mosaicos Romanos"
           },
           "coords": [
             -2.4358,
@@ -151,7 +162,8 @@
             "de": "Gut erhaltene antike Bodenbeläge.",
             "hu": "Jó állapotú ókori padlómozaikok.",
             "ro": "Mozaicuri romane bine conservate.",
-            "en": "Well-preserved ancient floor mosaics."
+            "en": "Well-preserved ancient floor mosaics.",
+            "es": "Suelos antiguos bien conservados con mosaicos."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Arabisches Tor",
             "hu": "Arab kapu",
             "ro": "Poarta Arabă",
-            "en": "Arab Gate"
+            "en": "Arab Gate",
+            "es": "Puerta Árabe"
           },
           "coords": [
             -2.4365,
@@ -174,7 +187,8 @@
             "de": "Der westliche Eingang zur Altstadt.",
             "hu": "Az óváros nyugati bejárata.",
             "ro": "Intrarea vestică în orașul vechi.",
-            "en": "The western entrance to the old town."
+            "en": "The western entrance to the old town.",
+            "es": "La entrada occidental al casco antiguo."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag am majestätischen römischen Bogen, dem Symbol der Stadt, und genießen Sie die kühle Morgenluft am Aussichtspunkt des Cid. Mittags erkunden Sie die monumentale Plaza Mayor und den Herzogspalast, wo die Geschichte der Medinaceli-Dynastie lebendig wird. Nach einer Pause im Schatten der Stiftskirche entdecken Sie am Nachmittag die feinen römischen Mosaike unter Glas. Beenden Sie den Tag mit einem Spaziergang zum Arabischen Tor, während die Sonne die ockerfarbenen Mauern der Stadt in warmes Licht taucht.",
         "hu": "Kezdje a napot a fenséges római diadalívnél, a város jelképénél, majd élvezze a friss reggeli levegőt az El Cid kilátónál. Délben fedezze fel a monumentális Főteret és a Hercegi Palotát, ahol megelevenedik a Medinaceli-dinasztia története. A társaskáptalan árnyékában tartott pihenő után délután a finom római mozaikokat tekintheti meg. A napot az Arab kapunál tett sétával zárja, miközben a lemenő nap meleg fénnyel árasztja el az óváros okkersárga falait.",
         "ro": "Începeți ziua la maiestuosul arc roman, simbolul orașului, și bucurați-vă de aerul curat de dimineață la belvederea El Cid. La prânz, explorați monumentala Plaza Mayor și Palatul Ducal, unde istoria dinastiei Medinaceli prinde viață. După o pauză la umbra Colegiatei, descoperiți după-amiaza mozaicurile romane fine protejate sub sticlă. Încheiați ziua cu o plimbare spre Poarta Arabă, în timp ce soarele apune peste zidurile de culoarea ocrului ale orașului vechi.",
-        "en": "Start your day at the majestic Roman Arch, the city's emblem, and enjoy the crisp morning air at the Cid viewpoint. At midday, explore the monumental Plaza Mayor and the Ducal Palace, where the history of the Medinaceli dynasty comes to life. After a rest in the shadow of the Collegiate church, discover the fine Roman mosaics in the afternoon. End the day with a stroll to the Arab Gate, as the setting sun bathes the ochre walls of the old town in warm light."
+        "en": "Start your day at the majestic Roman Arch, the city's emblem, and enjoy the crisp morning air at the Cid viewpoint. At midday, explore the monumental Plaza Mayor and the Ducal Palace, where the history of the Medinaceli dynasty comes to life. After a rest in the shadow of the Collegiate church, discover the fine Roman mosaics in the afternoon. End the day with a stroll to the Arab Gate, as the setting sun bathes the ochre walls of the old town in warm light.",
+        "es": "Comienza el día en el majestuoso Arco Romano, emblema de la ciudad, y disfruta del aire fresco de la mañana en el mirador del Cid. Al mediodía explora la monumental Plaza Mayor y el Palacio Ducal, donde la historia de la dinastía de Medinaceli toma vida. Tras un descanso a la sombra de la Colegiata, descubre los finos mosaicos romanos por la tarde. Termina el día con un paseo hasta la Puerta Árabe, mientras el sol poniente baña de luz cálida los muros ocres del casco antiguo."
       },
       "gastro_picks": {
         "de": [
@@ -290,6 +305,12 @@
           "In winter, it can be very windy and cold at this altitude.",
           "Book restaurants in advance during weekends.",
           "The village is on a hilltop, allow time for the climb."
+        ],
+        "es": [
+          "Lleva calzado cómodo para las calles empedradas.",
+          "En invierno puede hacer mucho viento y frío a esta altitud.",
+          "Reserva restaurantes con antelación los fines de semana.",
+          "El pueblo está en una cima; deja tiempo para la subida."
         ]
       },
       "variants": {
@@ -298,7 +319,8 @@
             "de": "Beginnen Sie Ihren Tag am majestätischen römischen Bogen, dem Symbol der Stadt, und genießen Sie die kühle Morgenluft am Aussichtspunkt des Cid. Mittags erkunden Sie die monumentale Plaza Mayor und den Herzogspalast, wo die Geschichte der Medinaceli-Dynastie lebendig wird. Nach einer Pause im Schatten der Stiftskirche entdecken Sie am Nachmittag die feinen römischen Mosaike unter Glas. Beenden Sie den Tag mit einem Spaziergang zum Arabischen Tor, während die Sonne die ockerfarbenen Mauern der Stadt in warmes Licht taucht.",
             "hu": "Kezdje a napot a fenséges római diadalívnél, a város jelképénél, majd élvezze a friss reggeli levegőt az El Cid kilátónál. Délben fedezze fel a monumentális Főteret és a Hercegi Palotát, ahol megelevenedik a Medinaceli-dinasztia története. A társaskáptalan árnyékában tartott pihenő után délután a finom római mozaikokat tekintheti meg. A napot az Arab kapunál tett sétával zárja, miközben a lemenő nap meleg fénnyel árasztja el az óváros okkersárga falait.",
             "ro": "Începeți ziua la maiestuosul arc roman, simbolul orașului, și bucurați-vă de aerul curat de dimineață la belvederea El Cid. La prânz, explorați monumentala Plaza Mayor și Palatul Ducal, unde istoria dinastiei Medinaceli prinde viață. După o pauză la umbra Colegiatei, descoperiți după-amiaza mozaicurile romane fine protejate sub sticlă. Încheiați ziua cu o plimbare spre Poarta Arabă, în timp ce soarele apune peste zidurile de culoarea ocrului ale orașului vechi.",
-            "en": "Start your day at the majestic Roman Arch, the city's emblem, and enjoy the crisp morning air at the Cid viewpoint. At midday, explore the monumental Plaza Mayor and the Ducal Palace, where the history of the Medinaceli dynasty comes to life. After a rest in the shadow of the Collegiate church, discover the fine Roman mosaics in the afternoon. End the day with a stroll to the Arab Gate, as the setting sun bathes the ochre walls of the old town in warm light."
+            "en": "Start your day at the majestic Roman Arch, the city's emblem, and enjoy the crisp morning air at the Cid viewpoint. At midday, explore the monumental Plaza Mayor and the Ducal Palace, where the history of the Medinaceli dynasty comes to life. After a rest in the shadow of the Collegiate church, discover the fine Roman mosaics in the afternoon. End the day with a stroll to the Arab Gate, as the setting sun bathes the ochre walls of the old town in warm light.",
+            "es": "Comienza el día en el majestuoso Arco Romano, emblema de la ciudad, y disfruta del aire fresco de la mañana en el mirador del Cid. Al mediodía explora la monumental Plaza Mayor y el Palacio Ducal, donde la historia de la dinastía de Medinaceli toma vida. Tras un descanso a la sombra de la Colegiata, descubre los finos mosaicos romanos por la tarde. Termina el día con un paseo hasta la Puerta Árabe, mientras el sol poniente baña de luz cálida los muros ocres del casco antiguo."
           },
           "stops": [
             {
@@ -306,13 +328,15 @@
                 "de": "Römischer Bogen",
                 "hu": "Római diadalív",
                 "ro": "Arcul Roman",
-                "en": "Roman Arch"
+                "en": "Roman Arch",
+                "es": "Arco Romano"
               },
               "tip_5lang": {
                 "de": "Einzigartiger dreibogiger Bogen.",
                 "hu": "Spanyolország egyetlen háromíves római kapuja.",
                 "ro": "Singurul arc roman cu trei porți din Spania.",
-                "en": "The only triple-arched Roman gate in Spain."
+                "en": "The only triple-arched Roman gate in Spain.",
+                "es": "La única puerta romana de triple arco en España."
               }
             },
             {
@@ -320,13 +344,15 @@
                 "de": "Aussichtspunkt des Cid",
                 "hu": "El Cid kilátó",
                 "ro": "Belvederea El Cid",
-                "en": "Viewpoint of El Cid"
+                "en": "Viewpoint of El Cid",
+                "es": "Mirador de El Cid"
               },
               "tip_5lang": {
                 "de": "Blick über das Jalón-Tal.",
                 "hu": "Pazar kilátás a Jalón-völgyre.",
                 "ro": "Vedere panoramică asupra văii Jalón.",
-                "en": "Stunning views over the Jalón valley."
+                "en": "Stunning views over the Jalón valley.",
+                "es": "Vistas impresionantes sobre el valle del Jalón."
               }
             },
             {
@@ -334,13 +360,15 @@
                 "de": "Plaza Mayor",
                 "hu": "Főtér",
                 "ro": "Plaza Mayor",
-                "en": "Plaza Mayor"
+                "en": "Plaza Mayor",
+                "es": "Plaza Mayor"
               },
               "tip_5lang": {
                 "de": "Ein geschlossener kastilischer Platz.",
                 "hu": "Zárt kasztíliai stílusú tér.",
                 "ro": "O piață castiliană închisă tipică.",
-                "en": "A typical enclosed Castilian square."
+                "en": "A typical enclosed Castilian square.",
+                "es": "Una típica plaza castellana porticada."
               }
             },
             {
@@ -348,13 +376,15 @@
                 "de": "Herzogspalast",
                 "hu": "Hercegi palota",
                 "ro": "Palatul Ducal",
-                "en": "Ducal Palace"
+                "en": "Ducal Palace",
+                "es": "Palacio Ducal"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie den Renaissance-Hof.",
                 "hu": "Nézze meg a reneszánsz udvart.",
                 "ro": "Vizitați curtea interioară renascentistă.",
-                "en": "Visit the Renaissance courtyard."
+                "en": "Visit the Renaissance courtyard.",
+                "es": "Visita el patio renacentista."
               }
             },
             {
@@ -362,13 +392,15 @@
                 "de": "Stiftskirche Santa María",
                 "hu": "Santa María-társaskáptalan",
                 "ro": "Colegiata Santa María",
-                "en": "Collegiate Church of Santa María"
+                "en": "Collegiate Church of Santa María",
+                "es": "Colegiata de Santa María"
               },
               "tip_5lang": {
                 "de": "Spätgotische Architektur im Inneren.",
                 "hu": "Késő gótikus belső tér.",
                 "ro": "Arhitectură gotică târzie în interior.",
-                "en": "Late Gothic architecture inside."
+                "en": "Late Gothic architecture inside.",
+                "es": "Arquitectura gótica tardía en el interior."
               }
             },
             {
@@ -376,13 +408,15 @@
                 "de": "Römische Mosaike",
                 "hu": "Római mozaikok",
                 "ro": "Mozaicuri Romane",
-                "en": "Roman Mosaics"
+                "en": "Roman Mosaics",
+                "es": "Mosaicos romanos"
               },
               "tip_5lang": {
                 "de": "Gut erhaltene antike Bodenbeläge.",
                 "hu": "Jó állapotú ókori padlómozaikok.",
                 "ro": "Mozaicuri romane bine conservate.",
-                "en": "Well-preserved ancient floor mosaics."
+                "en": "Well-preserved ancient floor mosaics.",
+                "es": "Suelos antiguos bien conservados."
               }
             },
             {
@@ -390,13 +424,15 @@
                 "de": "Arabisches Tor",
                 "hu": "Arab kapu",
                 "ro": "Poarta Arabă",
-                "en": "Arab Gate"
+                "en": "Arab Gate",
+                "es": "Puerta Árabe"
               },
               "tip_5lang": {
                 "de": "Der westliche Eingang zur Altstadt.",
                 "hu": "Az óváros nyugati bejárata.",
                 "ro": "Intrarea vestică în orașul vechi.",
-                "en": "The western entrance to the old town."
+                "en": "The western entrance to the old town.",
+                "es": "La entrada occidental al casco antiguo."
               }
             }
           ],
@@ -506,6 +542,12 @@
               "In winter, it can be very windy and cold at this altitude.",
               "Book restaurants in advance during weekends.",
               "The village is on a hilltop, allow time for the climb."
+            ],
+            "es": [
+              "Lleva calzado cómodo para las calles empedradas.",
+              "En invierno puede hacer mucho viento y frío a esta altitud.",
+              "Reserva restaurantes con antelación los fines de semana.",
+              "El pueblo está en la cima de una colina; cuenta con tiempo para la subida."
             ]
           }
         },
@@ -514,7 +556,8 @@
             "de": "Ein regnerischer Morgen in Medinaceli beginnt am römischen Bogen, wo der Nebel das Tal mystisch einhüllt. Mittags bieten die Arkaden der Plaza Mayor perfekten Schutz vor den Güssen. Der Nachmittag gehört den römischen Mosaiken im Trockenen, bevor der Tag zwischen den feuchten Mauern des Arabischen Tors endet. Die glänzenden Steine verleihen der Altstadt eine besondere Melancholie.",
             "hu": "Az esős reggel Medinaceliben a római diadalívnél indul, ahol a köd misztikusan borítja be a völgyet. Délben a Plaza Mayor árkádjai nyújtanak menedéket a záporok elől. A délután a fedett római mozaikoké, majd a nap a mór kapu nedves falai között ér véget. A csillogó utcakövek különleges melankóliát kölcsönöznek az óvárosnak.",
             "ro": "O dimineață ploioasă în Medinaceli începe la arcul roman, unde ceața învăluie valea în mod mistic. La prânz, arcadele din Plaza Mayor oferă adăpost perfect împotriva averselor. După-amiaza este dedicată mozaicurilor romane la adăpost, iar ziua se încheie printre zidurile umede ale Porții Arabe. Pietrele lucioase conferă orașului vechi o melancolie aparte.",
-            "en": "A rainy morning in Medinaceli starts at the Roman Arch, where mist wraps the valley mystically. At noon, the arcades of Plaza Mayor provide perfect shelter from the showers. The afternoon is dedicated to the indoor Roman mosaics, before the day ends among the damp walls of the Arab Gate. The glistening cobblestones lend the old town a special melancholy."
+            "en": "A rainy morning in Medinaceli starts at the Roman Arch, where mist wraps the valley mystically. At noon, the arcades of Plaza Mayor provide perfect shelter from the showers. The afternoon is dedicated to the indoor Roman mosaics, before the day ends among the damp walls of the Arab Gate. The glistening cobblestones lend the old town a special melancholy.",
+            "es": "Una mañana lluviosa en Medinaceli comienza en el Arco Romano, donde la niebla envuelve el valle con misterio. Al mediodía, los soportales de la Plaza Mayor ofrecen refugio perfecto de los chaparrones. La tarde se dedica a los mosaicos romanos interiores, antes de terminar el día entre los muros húmedos de la Puerta Árabe. Los empedrados relucientes dan al casco antiguo una melancolía especial."
           },
           "stops": [
             {
@@ -523,7 +566,8 @@
                 "de": "Sehr windanfällig; halten Sie den Regenschirm fest oder nutzen Sie ein Cape.",
                 "hu": "Nagyon szeles hely; fogja erősen az esernyőt vagy viseljen esőköpenyt.",
                 "ro": "Zonă foarte expusă vântului; țineți bine umbrela sau folosiți o pelerină.",
-                "en": "Very windy spot; hold your umbrella firmly or wear a rain cape."
+                "en": "Very windy spot; hold your umbrella firmly or wear a rain cape.",
+                "es": "Zona muy ventosa; sujeta bien el paraguas o lleva capa impermeable."
               }
             },
             {
@@ -532,7 +576,8 @@
                 "de": "Bei Regen oft neblig, was für dramatische Fotos sorgt.",
                 "hu": "Esőben gyakran ködös, ami drámai fotókhoz kiváló.",
                 "ro": "Deseori cețos pe ploaie, ideal pentru fotografii dramatice.",
-                "en": "Often foggy in the rain, which makes for dramatic photos."
+                "en": "Often foggy in the rain, which makes for dramatic photos.",
+                "es": "A menudo hay niebla con la lluvia, lo que da fotos dramáticas."
               }
             },
             {
@@ -541,7 +586,8 @@
                 "de": "Nutzen Sie die Arkadengänge, um trocken zu bleiben.",
                 "hu": "Használja az árkádokat, hogy szárazon maradjon.",
                 "ro": "Folosiți arcadele pentru a rămâne uscat.",
-                "en": "Use the arcaded walkways to stay dry."
+                "en": "Use the arcaded walkways to stay dry.",
+                "es": "Usa los paseos porticados para mantenerte seco."
               }
             },
             {
@@ -550,7 +596,8 @@
                 "de": "Idealer Ort für eine lange Besichtigung bei starkem Regen.",
                 "hu": "Ideális helyszín egy hosszú látogatáshoz heves esőzés idején.",
                 "ro": "Locație ideală pentru o vizită lungă în timpul ploii abundente.",
-                "en": "Ideal location for a long visit during heavy rain."
+                "en": "Ideal location for a long visit during heavy rain.",
+                "es": "Lugar ideal para una visita larga durante lluvia intensa."
               }
             },
             {
@@ -559,7 +606,8 @@
                 "de": "Achten Sie auf die rutschigen Stufen am Kircheneingang.",
                 "hu": "Ügyeljen a csúszós lépcsőkre a templom bejáratánál.",
                 "ro": "Atenție la treptele alunecoase de la intrarea în biserică.",
-                "en": "Watch out for slippery steps at the church entrance."
+                "en": "Watch out for slippery steps at the church entrance.",
+                "es": "Cuidado con los escalones resbaladizos a la entrada de la iglesia."
               }
             },
             {
@@ -568,7 +616,8 @@
                 "de": "Komplett überdacht, perfekt um den Regenguss abzuwarten.",
                 "hu": "Teljesen fedett, tökéletes az égszakadás megvárására.",
                 "ro": "Complet acoperit, perfect pentru a aștepta trecerea ploii.",
-                "en": "Completely covered, perfect for waiting out a downpour."
+                "en": "Completely covered, perfect for waiting out a downpour.",
+                "es": "Completamente cubierto, perfecto para esperar a que pase el chaparrón."
               }
             },
             {
@@ -577,7 +626,8 @@
                 "de": "Vorsicht bei den Pfützen auf dem unebenen Kopfsteinpflaster.",
                 "hu": "Vigyázzon a tócsákra az egyenetlen macskaköveken.",
                 "ro": "Atenție la bălțile de pe pavajul neregulat.",
-                "en": "Watch out for puddles on the uneven cobblestones."
+                "en": "Watch out for puddles on the uneven cobblestones.",
+                "es": "Atento a los charcos en los empedrados irregulares."
               }
             }
           ],
@@ -609,6 +659,13 @@
               "Schedule museum visits for the most intense rain hours.",
               "Windproof rain jackets are better than umbrellas due to the high altitude.",
               "Visibility at the viewpoint may be limited by low-hanging clouds."
+            ],
+            "es": [
+              "Lleva calzado con buena suela, los empedrados antiguos se vuelven muy resbaladizos.",
+              "La Plaza Mayor ofrece refugio bajo sus soportales para tomar un café.",
+              "Programa visitas a museos para las horas de lluvia más intensa.",
+              "Las chaquetas impermeables cortavientos son mejores que los paraguas por la altitud.",
+              "La visibilidad en el mirador puede verse limitada por nubes bajas."
             ]
           }
         },
@@ -617,7 +674,8 @@
             "de": "Ein frostiger Wintermorgen am Römischen Bogen erfordert warme Schichten gegen den schneidenden Wind. Mittags wärmt man sich in den dicken Mauern des Herzogspalastes auf. Der Nachmittag bietet klare Sicht von El Cid, bevor die Sonne früh hinter den Bergen versinkt. Abends strahlen die gelben Lichter der Stadt eine heimelige Wärme gegen die Kälte aus.",
             "hu": "A fagyos téli reggel a római diadalívnél réteges öltözetet kíván a metsző szél ellen. Délben a Hercegi Palota vastag falai között melegedhetünk fel. A délután tiszta kilátást nyújt az El Cid pontról, mielőtt a nap korán eltűnik a hegyek mögött. Este a város sárga fényei otthonos meleget árasztanak a hidegben.",
             "ro": "O dimineață geroasă de iarnă la Arcul Roman necesită haine groase împotriva vântului tăios. La prânz, te poți încălzi între zidurile groase ale Palatului Ducal. După-amiaza oferă o vedere clară de la El Cid, înainte ca soarele să apună devreme după munți. Seara, luminile galbene ale orașului emană o căldură primitoare împotriva frigului.",
-            "en": "A frosty winter morning at the Roman Arch requires warm layers against the cutting wind. At noon, warm up within the thick walls of the Ducal Palace. The afternoon offers clear views from El Cid before the sun sets early behind the mountains. In the evening, the city's yellow lights radiate a cozy warmth against the cold."
+            "en": "A frosty winter morning at the Roman Arch requires warm layers against the cutting wind. At noon, warm up within the thick walls of the Ducal Palace. The afternoon offers clear views from El Cid before the sun sets early behind the mountains. In the evening, the city's yellow lights radiate a cozy warmth against the cold.",
+            "es": "Una mañana invernal helada en el Arco Romano requiere capas cálidas contra el viento cortante. Al mediodía, entra en calor dentro de los gruesos muros del Palacio Ducal. La tarde ofrece vistas despejadas desde El Cid antes de que el sol se oculte pronto tras las montañas. Por la noche, las luces amarillas de la ciudad irradian una cálida sensación contra el frío."
           },
           "stops": [
             {
@@ -626,7 +684,8 @@
                 "de": "Oft weht hier ein eisiger Wind; Mütze und Handschuhe sind Pflicht.",
                 "hu": "Gyakran fúj itt jeges szél; a sapka és kesztyű kötelező.",
                 "ro": "Deseori bate un vânt înghețat; căciula și mănușile sunt obligatorii.",
-                "en": "An icy wind often blows here; hat and gloves are mandatory."
+                "en": "An icy wind often blows here; hat and gloves are mandatory.",
+                "es": "Aquí suele soplar un viento gélido; gorro y guantes son obligatorios."
               }
             },
             {
@@ -635,7 +694,8 @@
                 "de": "Klare Winterluft ermöglicht oft Sichten bis zu den schneebedeckten Gipfeln.",
                 "hu": "A tiszta téli levegő gyakran enged rálátást a havas csúcsokra.",
                 "ro": "Aerul curat de iarnă permite deseori vederea până la vârfurile înzăpezite.",
-                "en": "Clear winter air often allows views as far as the snow-capped peaks."
+                "en": "Clear winter air often allows views as far as the snow-capped peaks.",
+                "es": "El aire claro invernal permite ver a menudo hasta las cimas nevadas."
               }
             },
             {
@@ -644,7 +704,8 @@
                 "de": "Suchen Sie ein Café mit Kamin, um die Glieder aufzuwärmen.",
                 "hu": "Keressen egy kandallós kávézót a végtagok felmelegítéséhez.",
                 "ro": "Căutați o cafenea cu șemineu pentru a vă încălzi.",
-                "en": "Look for a café with a fireplace to warm up your limbs."
+                "en": "Look for a café with a fireplace to warm up your limbs.",
+                "es": "Busca una cafetería con chimenea para entrar en calor."
               }
             },
             {
@@ -653,7 +714,8 @@
                 "de": "Innen ist es kühler als erwartet, behalten Sie die Jacke an.",
                 "hu": "Bent hűvösebb van a vártnál, hagyja magán a kabátot.",
                 "ro": "În interior este mai răcoare decât vă așteptați, păstrați jacheta pe dvs.",
-                "en": "It is cooler inside than expected; keep your jacket on."
+                "en": "It is cooler inside than expected; keep your jacket on.",
+                "es": "En el interior hace más frío de lo esperado; mantiene la chaqueta puesta."
               }
             },
             {
@@ -662,7 +724,8 @@
                 "de": "Der Steinboden strahlt Kälte aus; warme Socken sind ratsam.",
                 "hu": "A kőpadló ontja a hideget; meleg zokni ajánlott.",
                 "ro": "Podeaua de piatră emană frig; se recomandă șosete groase.",
-                "en": "The stone floor radiates cold; warm socks are advisable."
+                "en": "The stone floor radiates cold; warm socks are advisable.",
+                "es": "El suelo de piedra irradia frío; calcetines calientes son aconsejables."
               }
             },
             {
@@ -671,7 +734,8 @@
                 "de": "Der beheizte Ausstellungsraum ist eine willkommene Pause vom Frost.",
                 "hu": "A fűtött kiállítótér kellemes pihenő a fagy elől.",
                 "ro": "Sala de expoziție încălzită este o pauză binevenită de la ger.",
-                "en": "The heated exhibition room is a welcome break from the frost."
+                "en": "The heated exhibition room is a welcome break from the frost.",
+                "es": "La sala de exposiciones climatizada es un descanso bienvenido del frío."
               }
             },
             {
@@ -680,7 +744,8 @@
                 "de": "Besuchen Sie das Tor kurz vor Sonnenuntergang (ca. 17:30 Uhr).",
                 "hu": "Látogassa meg a kaput röviddel naplemente előtt (kb. 17:30).",
                 "ro": "Vizitați poarta cu puțin timp înainte de apus (aprox. ora 17:30).",
-                "en": "Visit the gate shortly before sunset (around 17:30)."
+                "en": "Visit the gate shortly before sunset (around 17:30).",
+                "es": "Visita la puerta poco antes del atardecer (alrededor de las 17:30)."
               }
             }
           ],
@@ -712,6 +777,13 @@
               "Watch out for black ice in the shaded alleys of the old town.",
               "Have a hot chocolate near Plaza Mayor to warm up.",
               "Warm, windproof clothing is essential due to the exposed location."
+            ],
+            "es": [
+              "Medinaceli está a 1200 m de altitud; es mucho más frío que en el valle.",
+              "El sol se pone sobre las 17:30 en invierno; planifica en consecuencia.",
+              "Cuidado con el hielo negro en las callejuelas sombreadas del casco antiguo.",
+              "Toma un chocolate caliente cerca de la Plaza Mayor para entrar en calor.",
+              "Ropa cálida y cortavientos es esencial por la ubicación expuesta."
             ]
           }
         }
@@ -730,7 +802,8 @@
             "de": "Römischer Bogen",
             "hu": "Római diadalív",
             "ro": "Arcul Roman",
-            "en": "Roman Arch"
+            "en": "Roman Arch",
+            "es": "Arco Romano"
           },
           "coords": [
             -2.4328,
@@ -745,7 +818,8 @@
             "de": "Fotostopp direkt am Ortseingang.",
             "hu": "Fotómegálló a város bejáratánál.",
             "ro": "Popas pentru poze la intrarea în oraș.",
-            "en": "Photo stop right at the town entrance."
+            "en": "Photo stop right at the town entrance.",
+            "es": "Parada fotográfica justo en la entrada del pueblo."
           }
         },
         {
@@ -753,7 +827,8 @@
             "de": "Kloster Santa Isabel",
             "hu": "Santa Isabel-kolostor",
             "ro": "Mănăstirea Santa Isabel",
-            "en": "Santa Isabel Convent"
+            "en": "Santa Isabel Convent",
+            "es": "Convento de Santa Isabel"
           },
           "coords": [
             -2.4345,
@@ -768,7 +843,8 @@
             "de": "Gegründet im 16. Jahrhundert.",
             "hu": "A 16. században alapították.",
             "ro": "Fondată în secolul al XVI-lea.",
-            "en": "Founded in the 16th century."
+            "en": "Founded in the 16th century.",
+            "es": "Fundado en el siglo XVI."
           }
         },
         {
@@ -776,7 +852,8 @@
             "de": "Plaza Mayor",
             "hu": "Főtér",
             "ro": "Plaza Mayor",
-            "en": "Plaza Mayor"
+            "en": "Plaza Mayor",
+            "es": "Plaza Mayor"
           },
           "coords": [
             -2.4339,
@@ -791,7 +868,8 @@
             "de": "Parken Sie Ihr Rad an den Arkaden.",
             "hu": "Parkoljon az árkádoknál.",
             "ro": "Parcați bicicleta lângă arcade.",
-            "en": "Park your bike by the arcades."
+            "en": "Park your bike by the arcades.",
+            "es": "Aparca tu bicicleta junto a los soportales."
           }
         },
         {
@@ -799,7 +877,8 @@
             "de": "Herzogspalast",
             "hu": "Hercegi palota",
             "ro": "Palatul Ducal",
-            "en": "Ducal Palace"
+            "en": "Ducal Palace",
+            "es": "Palacio Ducal"
           },
           "coords": [
             -2.4342,
@@ -814,7 +893,8 @@
             "de": "Enthält wichtige lokale Funde.",
             "hu": "Fontos helyi régészeti leletek helyszíne.",
             "ro": "Găzduiește descoperiri locale importante.",
-            "en": "Contains important local archaeological finds."
+            "en": "Contains important local archaeological finds.",
+            "es": "Alberga hallazgos arqueológicos locales importantes."
           }
         },
         {
@@ -822,7 +902,8 @@
             "de": "Reste der Stadtmauer",
             "hu": "Városfal maradványok",
             "ro": "Resturile zidului cetății",
-            "en": "Town Wall Remains"
+            "en": "Town Wall Remains",
+            "es": "Restos de la Muralla"
           },
           "coords": [
             -2.4372,
@@ -837,7 +918,8 @@
             "de": "Umrunden Sie die Altstadt.",
             "hu": "Kerülje meg az óvárost a fal mentén.",
             "ro": "Înconjurați orașul vechi pe lângă zid.",
-            "en": "Circle the old town along the wall."
+            "en": "Circle the old town along the wall.",
+            "es": "Recorre el casco antiguo siguiendo la muralla."
           }
         },
         {
@@ -845,7 +927,8 @@
             "de": "Arabisches Tor",
             "hu": "Arab kapu",
             "ro": "Poarta Arabă",
-            "en": "Arab Gate"
+            "en": "Arab Gate",
+            "es": "Puerta Árabe"
           },
           "coords": [
             -2.4365,
@@ -860,7 +943,8 @@
             "de": "Perfektes Motiv für das letzte Foto.",
             "hu": "Tökéletes motívum az utolsó képhez.",
             "ro": "Motivul perfect pentru ultima fotografie.",
-            "en": "Perfect motif for the final photo."
+            "en": "Perfect motif for the final photo.",
+            "es": "Motivo perfecto para la foto final."
           }
         }
       ],
@@ -868,7 +952,8 @@
         "de": "Mit dem Rad lässt sich die Hochebene um Medinaceli wunderbar erkunden. Starten Sie am römischen Bogen und radeln Sie zum Kloster Santa Isabel. Mittags machen Sie Pause an der Plaza Mayor, bevor Sie den Herzogspalast besichtigen. Am Nachmittag führt der Weg entlang der alten Stadtmauern, die einen weiten Blick über die Landschaft bieten. Den Abschluss bildet das Arabische Tor, bevor es zurück zum Ausgangspunkt geht.",
         "hu": "Kerékpárral csodálatosan felfedezhető a Medinaceli körüli fennsík. Kezdjen a római ívnél, majd tekerjen el a Santa Isabel-kolostorig. Délben tartson szünetet a Főtéren, mielőtt megtekintené a Hercegi Palotát. Délután a régi városfalak mentén haladjon, ahonnan messzire ellátni a tájon. A napot az Arab kapu zárja, mielőtt visszatérne a kiindulópontra.",
         "ro": "Cu bicicleta, platoul din jurul localității Medinaceli poate fi explorat minunat. Începeți la arcul roman și pedalați până la mănăstirea Santa Isabel. La prânz, faceți o pauză în Plaza Mayor înainte de a vizita Palatul Ducal. După-amiaza, drumul vă poartă de-a lungul zidurilor vechi, care oferă o vedere largă asupra peisajului. Finalul este marcat de Poarta Arabă, înainte de a reveni la punctul de plecare.",
-        "en": "By bike, the plateau around Medinaceli can be explored wonderfully. Start at the Roman arch and cycle to the Santa Isabel convent. At noon, take a break at the Plaza Mayor before visiting the Ducal Palace. In the afternoon, the path leads along the old city walls, offering a wide view over the landscape. The day concludes at the Arab Gate before heading back."
+        "en": "By bike, the plateau around Medinaceli can be explored wonderfully. Start at the Roman arch and cycle to the Santa Isabel convent. At noon, take a break at the Plaza Mayor before visiting the Ducal Palace. In the afternoon, the path leads along the old city walls, offering a wide view over the landscape. The day concludes at the Arab Gate before heading back.",
+        "es": "En bicicleta se puede explorar maravillosamente la meseta alrededor de Medinaceli. Comienza en el Arco Romano y pedalea hasta el convento de Santa Isabel. Al mediodía, haz una pausa en la Plaza Mayor antes de visitar el Palacio Ducal. Por la tarde, el camino discurre junto a la antigua muralla, ofreciendo amplias vistas del paisaje. El día concluye en la Puerta Árabe antes de regresar."
       },
       "gastro_picks": {
         "de": [
@@ -976,6 +1061,12 @@
           "The streets in town are steep and bumpy.",
           "Take enough water with you.",
           "A mountain bike is an advantage due to the cobblestones."
+        ],
+        "es": [
+          "Cuidado con el viento en la meseta.",
+          "Las calles del pueblo son empinadas y bacheadas.",
+          "Lleva suficiente agua.",
+          "Una bicicleta de montaña es una ventaja por los empedrados."
         ]
       },
       "variants": {
@@ -984,7 +1075,8 @@
             "de": "Mit dem Rad lässt sich die Hochebene um Medinaceli wunderbar erkunden. Starten Sie am römischen Bogen und radeln Sie zum Kloster Santa Isabel. Mittags machen Sie Pause an der Plaza Mayor, bevor Sie den Herzogspalast besichtigen. Am Nachmittag führt der Weg entlang der alten Stadtmauern, die einen weiten Blick über die Landschaft bieten. Den Abschluss bildet das Arabische Tor, bevor es zurück zum Ausgangspunkt geht.",
             "hu": "Kerékpárral csodálatosan felfedezhető a Medinaceli körüli fennsík. Kezdjen a római ívnél, majd tekerjen el a Santa Isabel-kolostorig. Délben tartson szünetet a Főtéren, mielőtt megtekintené a Hercegi Palotát. Délután a régi városfalak mentén haladjon, ahonnan messzire ellátni a tájon. A napot az Arab kapu zárja, mielőtt visszatérne a kiindulópontra.",
             "ro": "Cu bicicleta, platoul din jurul localității Medinaceli poate fi explorat minunat. Începeți la arcul roman și pedalați până la mănăstirea Santa Isabel. La prânz, faceți o pauză în Plaza Mayor înainte de a vizita Palatul Ducal. După-amiaza, drumul vă poartă de-a lungul zidurilor vechi, care oferă o vedere largă asupra peisajului. Finalul este marcat de Poarta Arabă, înainte de a reveni la punctul de plecare.",
-            "en": "By bike, the plateau around Medinaceli can be explored wonderfully. Start at the Roman arch and cycle to the Santa Isabel convent. At noon, take a break at the Plaza Mayor before visiting the Ducal Palace. In the afternoon, the path leads along the old city walls, offering a wide view over the landscape. The day concludes at the Arab Gate before heading back."
+            "en": "By bike, the plateau around Medinaceli can be explored wonderfully. Start at the Roman arch and cycle to the Santa Isabel convent. At noon, take a break at the Plaza Mayor before visiting the Ducal Palace. In the afternoon, the path leads along the old city walls, offering a wide view over the landscape. The day concludes at the Arab Gate before heading back.",
+            "es": "En bicicleta se puede explorar maravillosamente la meseta alrededor de Medinaceli. Comienza en el Arco Romano y pedalea hasta el convento de Santa Isabel. Al mediodía, haz una pausa en la Plaza Mayor antes de visitar el Palacio Ducal. Por la tarde, el camino discurre junto a la antigua muralla, ofreciendo amplias vistas del paisaje. El día concluye en la Puerta Árabe antes de regresar."
           },
           "stops": [
             {
@@ -992,13 +1084,15 @@
                 "de": "Römischer Bogen",
                 "hu": "Római diadalív",
                 "ro": "Arcul Roman",
-                "en": "Roman Arch"
+                "en": "Roman Arch",
+                "es": "Arco Romano"
               },
               "tip_5lang": {
                 "de": "Fotostopp direkt am Ortseingang.",
                 "hu": "Fotómegálló a város bejáratánál.",
                 "ro": "Popas pentru poze la intrarea în oraș.",
-                "en": "Photo stop right at the town entrance."
+                "en": "Photo stop right at the town entrance.",
+                "es": "Parada fotográfica justo en la entrada del pueblo."
               }
             },
             {
@@ -1006,13 +1100,15 @@
                 "de": "Kloster Santa Isabel",
                 "hu": "Santa Isabel-kolostor",
                 "ro": "Mănăstirea Santa Isabel",
-                "en": "Santa Isabel Convent"
+                "en": "Santa Isabel Convent",
+                "es": "Convento de Santa Isabel"
               },
               "tip_5lang": {
                 "de": "Gegründet im 16. Jahrhundert.",
                 "hu": "A 16. században alapították.",
                 "ro": "Fondată în secolul al XVI-lea.",
-                "en": "Founded in the 16th century."
+                "en": "Founded in the 16th century.",
+                "es": "Fundado en el siglo XVI."
               }
             },
             {
@@ -1020,13 +1116,15 @@
                 "de": "Plaza Mayor",
                 "hu": "Főtér",
                 "ro": "Plaza Mayor",
-                "en": "Plaza Mayor"
+                "en": "Plaza Mayor",
+                "es": "Plaza Mayor"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad an den Arkaden.",
                 "hu": "Parkoljon az árkádoknál.",
                 "ro": "Parcați bicicleta lângă arcade.",
-                "en": "Park your bike by the arcades."
+                "en": "Park your bike by the arcades.",
+                "es": "Aparca tu bicicleta junto a los soportales."
               }
             },
             {
@@ -1034,13 +1132,15 @@
                 "de": "Herzogspalast",
                 "hu": "Hercegi palota",
                 "ro": "Palatul Ducal",
-                "en": "Ducal Palace"
+                "en": "Ducal Palace",
+                "es": "Palacio Ducal"
               },
               "tip_5lang": {
                 "de": "Enthält wichtige lokale Funde.",
                 "hu": "Fontos helyi régészeti leletek helyszíne.",
                 "ro": "Găzduiește descoperiri locale importante.",
-                "en": "Contains important local archaeological finds."
+                "en": "Contains important local archaeological finds.",
+                "es": "Contiene importantes hallazgos arqueológicos locales."
               }
             },
             {
@@ -1048,13 +1148,15 @@
                 "de": "Reste der Stadtmauer",
                 "hu": "Városfal maradványok",
                 "ro": "Resturile zidului cetății",
-                "en": "Town Wall Remains"
+                "en": "Town Wall Remains",
+                "es": "Restos de la Muralla"
               },
               "tip_5lang": {
                 "de": "Umrunden Sie die Altstadt.",
                 "hu": "Kerülje meg az óvárost a fal mentén.",
                 "ro": "Înconjurați orașul vechi pe lângă zid.",
-                "en": "Circle the old town along the wall."
+                "en": "Circle the old town along the wall.",
+                "es": "Recorre el casco antiguo siguiendo la muralla."
               }
             },
             {
@@ -1062,13 +1164,15 @@
                 "de": "Arabisches Tor",
                 "hu": "Arab kapu",
                 "ro": "Poarta Arabă",
-                "en": "Arab Gate"
+                "en": "Arab Gate",
+                "es": "Puerta Árabe"
               },
               "tip_5lang": {
                 "de": "Perfektes Motiv für das letzte Foto.",
                 "hu": "Tökéletes motívum az utolsó képhez.",
                 "ro": "Motivul perfect pentru ultima fotografie.",
-                "en": "Perfect motif for the final photo."
+                "en": "Perfect motif for the final photo.",
+                "es": "Motivo perfecto para la foto final."
               }
             }
           ],
@@ -1178,6 +1282,12 @@
               "The streets in town are steep and bumpy.",
               "Take enough water with you.",
               "A mountain bike is an advantage due to the cobblestones."
+            ],
+            "es": [
+              "Cuidado con el viento en la meseta.",
+              "Las calles del pueblo son empinadas y bacheadas.",
+              "Lleva suficiente agua.",
+              "Una bicicleta de montaña es una ventaja por los empedrados."
             ]
           }
         },
@@ -1186,7 +1296,8 @@
             "de": "Eine Regenfahrt durch Medinaceli erfordert volle Konzentration auf dem glatten Pflaster. Am römischen Bogen peitscht der Regen, doch die Fahrt zur Plaza Mayor bietet kurze Deckung. Nachmittags erkunden wir die Stadtmauern, wobei die Reifen auf dem nassen Untergrund mehr Grip benötigen. Ein echtes Abenteuer für wetterfeste Radler.",
             "hu": "Egy esős bringázás Medinaceliben teljes koncentrációt igényel a csúszós köveken. A római ívnél veri az eső, de a Plaza Mayor felé vezető út rövid oltalmat ad. Délután a városfalakat fedezzük fel, ahol a gumiknak több tapadásra van szükségük. Valódi kaland az időjárásálló bringásoknak.",
             "ro": "O plimbare cu bicicleta pe ploaie prin Medinaceli necesită concentrare maximă pe pavajul alunecos. La arcul roman ploaia biciuiește, dar drumul spre Plaza Mayor oferă scurt adăpost. După-amiaza explorăm zidurile orașului, unde anvelopele au nevoie de mai multă aderență. O adevărată aventură pentru bicicliștii rezistenți la intemperii.",
-            "en": "A rainy bike ride through Medinaceli requires full concentration on the slippery pavement. Rain lashes at the Roman Arch, but the ride to Plaza Mayor offers brief cover. In the afternoon, we explore the town walls, where tires need more grip on the wet surface. A real adventure for weatherproof cyclists."
+            "en": "A rainy bike ride through Medinaceli requires full concentration on the slippery pavement. Rain lashes at the Roman Arch, but the ride to Plaza Mayor offers brief cover. In the afternoon, we explore the town walls, where tires need more grip on the wet surface. A real adventure for weatherproof cyclists.",
+            "es": "Un paseo en bicicleta con lluvia por Medinaceli requiere máxima concentración por el pavimento resbaladizo. La lluvia azota el Arco Romano, pero la ruta hasta la Plaza Mayor ofrece cortos refugios. Por la tarde exploramos las murallas, donde las cubiertas necesitan más agarre en superficie mojada. Toda una aventura para ciclistas preparados para la intemperie."
           },
           "stops": [
             {
@@ -1195,7 +1306,8 @@
                 "de": "Vermeiden Sie scharfes Bremsen auf den nassen, antiken Steinen.",
                 "hu": "Kerülje az erős fékezést a nedves, antik köveken.",
                 "ro": "Evitați frânarea bruscă pe pietrele antice umede.",
-                "en": "Avoid sharp braking on the wet, ancient stones."
+                "en": "Avoid sharp braking on the wet, ancient stones.",
+                "es": "Evita frenar bruscamente sobre las piedras antiguas mojadas."
               }
             },
             {
@@ -1204,7 +1316,8 @@
                 "de": "Parken Sie das Rad im Eingangsbereich, um den Sattel trocken zu halten.",
                 "hu": "Parkoljon a bejáratnál, hogy a nyereg száraz maradjon.",
                 "ro": "Parcați bicicleta la intrare pentru a menține șaua uscată.",
-                "en": "Park the bike in the entrance area to keep the saddle dry."
+                "en": "Park the bike in the entrance area to keep the saddle dry.",
+                "es": "Aparca la bicicleta en el área de entrada para mantener el sillín seco."
               }
             },
             {
@@ -1213,7 +1326,8 @@
                 "de": "Die Arkaden bieten Platz für eine trockene Pause inkl. Rad-Check.",
                 "hu": "Az árkádok helyet adnak egy száraz pihenőhöz és bringaellenőrzéshez.",
                 "ro": "Arcadele oferă spațiu pentru o pauză uscată, inclusiv verificarea bicicletei.",
-                "en": "The arcades provide space for a dry break and bike check."
+                "en": "The arcades provide space for a dry break and bike check.",
+                "es": "Los soportales ofrecen espacio para un descanso seco y revisar la bici."
               }
             },
             {
@@ -1222,7 +1336,8 @@
                 "de": "Nutzen Sie den Palastbesuch zum Aufwärmen Ihrer nassen Hände.",
                 "hu": "Használja ki a palotalátogatást a nedves kezei felmelegítésére.",
                 "ro": "Folosiți vizita la palat pentru a vă încălzi mâinile ude.",
-                "en": "Use the palace visit to warm up your wet hands."
+                "en": "Use the palace visit to warm up your wet hands.",
+                "es": "Aprovecha la visita al palacio para calentar las manos húmedas."
               }
             },
             {
@@ -1231,7 +1346,8 @@
                 "de": "Vorsicht bei Seitenwind auf den exponierten Mauerabschnitten.",
                 "hu": "Vigyázzon az oldalszélre a fal nyitott szakaszainál.",
                 "ro": "Atenție la vântul lateral pe secțiunile expuse ale zidului.",
-                "en": "Watch out for crosswinds on the exposed wall sections."
+                "en": "Watch out for crosswinds on the exposed wall sections.",
+                "es": "Cuidado con las rachas cruzadas en los tramos expuestos junto a la muralla."
               }
             },
             {
@@ -1240,7 +1356,8 @@
                 "de": "Die Abfahrt durch das Tor kann bei Nässe tückisch sein.",
                 "hu": "A kapun keresztüli leereszkedés nedves időben trükkös lehet.",
                 "ro": "Coborârea prin poartă poate fi înșelătoare pe carosabil umed.",
-                "en": "The descent through the gate can be treacherous when wet."
+                "en": "The descent through the gate can be treacherous when wet.",
+                "es": "El descenso por la puerta puede ser traicionero cuando está mojado."
               }
             }
           ],
@@ -1272,6 +1389,13 @@
               "Wear neon rain gear for better visibility in the fog.",
               "The cobblestones are unsuitable for road bike tires when wet.",
               "Take a dry cloth to wipe the saddle after stops."
+            ],
+            "es": [
+              "Revisa las pastillas de freno antes de salir; la humedad aumenta la distancia de frenado.",
+              "Los guardabarros son muy recomendables por los charcos del casco antiguo.",
+              "Lleva ropa de lluvia en color neón para una mejor visibilidad en la niebla.",
+              "Los adoquines no son aptos para neumáticos de bicicleta de carretera cuando están mojados.",
+              "Lleva un paño seco para secar el sillín tras las paradas."
             ]
           }
         },
@@ -1280,7 +1404,8 @@
             "de": "Radfahren im Winter in Medinaceli ist eine sportliche Herausforderung bei klirrender Kälte. Der Morgen am römischen Bogen beginnt mit gefrorenem Atem. Mittags bieten die Steingebäude Windschatten. Der Nachmittag führt an den Stadtmauern entlang, wobei der Blick weit über das frostige Kastilien reicht. Ein heißes Getränk am Ende ist die verdiente Belohnung.",
             "hu": "A téli bringázás Medinaceliben sportos kihívás a metsző hidegben. A reggel a római ívnél fagyos lehelettel indul. Délben a kőépületek szélárnyékot adnak. A délután a városfalak mentén vezet, ahol a kilátás messze nyúlik a fagyos Kasztíliára. Egy forró ital a végén a megérdemelt jutalom.",
             "ro": "Ciclismul de iarnă în Medinaceli este o provocare sportivă în gerul năpraznic. Dimineața la arcul roman începe cu respirația înghețată. La prânz, clădirile de piatră oferă adăpost împotriva vântului. După-amiaza te poartă de-a lungul zidurilor, cu o privire ce se întinde departe peste Castilia înghețată. O băutură caldă la final este recompensa meritată.",
-            "en": "Winter cycling in Medinaceli is a sporting challenge in the biting cold. The morning at the Roman Arch begins with frozen breath. At noon, the stone buildings offer shelter from the wind. The afternoon leads along the town walls, with views stretching far across frosty Castile. A hot drink at the end is the well-deserved reward."
+            "en": "Winter cycling in Medinaceli is a sporting challenge in the biting cold. The morning at the Roman Arch begins with frozen breath. At noon, the stone buildings offer shelter from the wind. The afternoon leads along the town walls, with views stretching far across frosty Castile. A hot drink at the end is the well-deserved reward.",
+            "es": "El ciclismo invernal en Medinaceli es un reto deportivo en el frío cortante. La mañana en el Arco Romano comienza con el aliento helado. Al mediodía, los edificios de piedra ofrecen resguardo del viento. La tarde recorre las murallas del pueblo, con vistas que se extienden por la helada Castilla. Una bebida caliente al final es la merecida recompensa."
           },
           "stops": [
             {
@@ -1289,7 +1414,8 @@
                 "de": "Achten Sie auf überfrierende Nässe im Schatten des Bogens.",
                 "hu": "Ügyeljen a lefagyásokra a diadalív árnyékában.",
                 "ro": "Atenție la polei în umbra arcului.",
-                "en": "Watch out for black ice in the shadow of the arch."
+                "en": "Watch out for black ice in the shadow of the arch.",
+                "es": "Cuidado con el hielo negro en la sombra del arco."
               }
             },
             {
@@ -1298,7 +1424,8 @@
                 "de": "Ihre Finger werden hier schnell kalt; nutzen Sie Thermo-Handschuhe.",
                 "hu": "Az ujjai itt gyorsan áthűlnek; használjon thermo-kesztyűt.",
                 "ro": "Degetele vă vor îngheța repede aici; folosiți mănuși termice.",
-                "en": "Your fingers will get cold quickly here; use thermal gloves."
+                "en": "Your fingers will get cold quickly here; use thermal gloves.",
+                "es": "Tus dedos se enfriarán rápidamente aquí; usa guantes térmicos."
               }
             },
             {
@@ -1307,7 +1434,8 @@
                 "de": "Warme Getränkepause einplanen, um die Körperkerntemperatur zu halten.",
                 "hu": "Tervezzen melegital-szünetet a testhőmérséklet megtartásához.",
                 "ro": "Planificați o pauză pentru băuturi calde pentru a menține temperatura corpului.",
-                "en": "Plan a hot drink break to maintain your core body temperature."
+                "en": "Plan a hot drink break to maintain your core body temperature.",
+                "es": "Planifica una pausa para tomar una bebida caliente y mantener la temperatura corporal."
               }
             },
             {
@@ -1316,7 +1444,8 @@
                 "de": "Lassen Sie das Rad sicher stehen; die Innenbesichtigung wärmt auf.",
                 "hu": "Hagyja a bringát biztonságos helyen; a benti látogatás felmelegít.",
                 "ro": "Lăsați bicicleta în siguranță; vizita în interior vă va încălzi.",
-                "en": "Leave the bike securely; the indoor visit will warm you up."
+                "en": "Leave the bike securely; the indoor visit will warm you up.",
+                "es": "Deja la bici asegurada; la visita interior te calentará."
               }
             },
             {
@@ -1325,7 +1454,8 @@
                 "de": "Der Windchill-Effekt ist auf dem Rad hier oben extrem.",
                 "hu": "A szél hidegérzete a bringán itt fent extrém magas.",
                 "ro": "Efectul de vânt este extrem pe bicicletă aici sus.",
-                "en": "The wind chill effect is extreme on the bike up here."
+                "en": "The wind chill effect is extreme on the bike up here.",
+                "es": "El efecto del viento es extremo en la bici aquí arriba."
               }
             },
             {
@@ -1334,7 +1464,8 @@
                 "de": "Beenden Sie die Tour vor Einbruch der Dunkelheit (Frostgefahr).",
                 "hu": "Fejezze be a túrát sötétedés előtt a fagyveszély miatt.",
                 "ro": "Încheiați turul înainte de lăsarea întunericului (pericol de îngheț).",
-                "en": "Finish the tour before dark (risk of frost)."
+                "en": "Finish the tour before dark (risk of frost).",
+                "es": "Termina la ruta antes de que anochezca (riesgo de helada)."
               }
             }
           ],
@@ -1366,6 +1497,13 @@
               "Avoid late rides; temperatures drop rapidly after sunset.",
               "Use handlebar mitts or thick gloves against the wind chill.",
               "Watch out for road salt, which can corrode your bike chain."
+            ],
+            "es": [
+              "Vístete por capas y usa definitivamente una capa exterior cortaviento.",
+              "La batería de tu e-bike se descargará mucho más rápido con el frío.",
+              "Evita los paseos nocturnos; las temperaturas bajan rápidamente tras el atardecer.",
+              "Usa manoplas de manillar o guantes gruesos contra el frío del viento.",
+              "Cuidado con la sal en la carretera, que puede corroer la cadena de la bici."
             ]
           }
         }
@@ -1384,7 +1522,8 @@
             "de": "Römischer Bogen",
             "hu": "Római diadalív",
             "ro": "Arcul Roman",
-            "en": "Roman Arch"
+            "en": "Roman Arch",
+            "es": "Arco Romano"
           },
           "coords": [
             -2.4328,
@@ -1399,7 +1538,8 @@
             "de": "Parkplatz direkt daneben.",
             "hu": "Parkoló közvetlenül mellette.",
             "ro": "Parcare chiar lângă.",
-            "en": "Parking right next to it."
+            "en": "Parking right next to it.",
+            "es": "Aparcamiento justo al lado."
           }
         },
         {
@@ -1407,7 +1547,8 @@
             "de": "Herzogspalast",
             "hu": "Hercegi palota",
             "ro": "Palatul Ducal",
-            "en": "Ducal Palace"
+            "en": "Ducal Palace",
+            "es": "Palacio Ducal"
           },
           "coords": [
             -2.4342,
@@ -1422,7 +1563,8 @@
             "de": "Das Wahrzeichen der Plaza Mayor.",
             "hu": "A Főtér legfontosabb épülete.",
             "ro": "Cea mai importantă clădire din Plaza Mayor.",
-            "en": "The landmark of Plaza Mayor."
+            "en": "The landmark of Plaza Mayor.",
+            "es": "El emblema de la Plaza Mayor."
           }
         },
         {
@@ -1430,7 +1572,8 @@
             "de": "Ambrona (Ausgrabungen)",
             "hu": "Ambrona (ásatások)",
             "ro": "Ambrona (excavații)",
-            "en": "Ambrona (Excavations)"
+            "en": "Ambrona (Excavations)",
+            "es": "Ambrona (Yacimientos)"
           },
           "coords": [
             -2.5022,
@@ -1445,7 +1588,8 @@
             "de": "Prähistorisches Museum in der Nähe.",
             "hu": "Őskori múzeum a közelben.",
             "ro": "Muzeu preistoric în apropiere.",
-            "en": "Prehistoric museum nearby."
+            "en": "Prehistoric museum nearby.",
+            "es": "Museo prehistórico cercano."
           }
         },
         {
@@ -1453,7 +1597,8 @@
             "de": "Plaza Mayor",
             "hu": "Főtér",
             "ro": "Plaza Mayor",
-            "en": "Plaza Mayor"
+            "en": "Plaza Mayor",
+            "es": "Plaza Mayor"
           },
           "coords": [
             -2.4339,
@@ -1468,7 +1613,8 @@
             "de": "Ideal für ein spätes Mittagessen.",
             "hu": "Ideális egy késői ebédhez.",
             "ro": "Ideal pentru un prânz târziu.",
-            "en": "Ideal for a late lunch."
+            "en": "Ideal for a late lunch.",
+            "es": "Ideal para una comida tardía."
           }
         },
         {
@@ -1476,7 +1622,8 @@
             "de": "Stiftskirche Santa María",
             "hu": "Santa María-társaskáptalan",
             "ro": "Colegiata Santa María",
-            "en": "Collegiate Church of Santa María"
+            "en": "Collegiate Church of Santa María",
+            "es": "Colegiata de Santa María"
           },
           "coords": [
             -2.4352,
@@ -1491,7 +1638,8 @@
             "de": "Besichtigen Sie das Altarbild.",
             "hu": "Tekintse meg az oltárképet.",
             "ro": "Vizitați altarul.",
-            "en": "Visit the altarpiece."
+            "en": "Visit the altarpiece.",
+            "es": "Visita el retablo."
           }
         },
         {
@@ -1499,7 +1647,8 @@
             "de": "Aussichtspunkt des Cid",
             "hu": "El Cid kilátó",
             "ro": "Belvederea El Cid",
-            "en": "Viewpoint of El Cid"
+            "en": "Viewpoint of El Cid",
+            "es": "Mirador de El Cid"
           },
           "coords": [
             -2.4321,
@@ -1514,7 +1663,8 @@
             "de": "Leichter Zugang mit dem Auto.",
             "hu": "Autóval is könnyen megközelíthető.",
             "ro": "Acces facil cu mașina.",
-            "en": "Easy access by car."
+            "en": "Easy access by car.",
+            "es": "Acceso fácil en coche."
           }
         }
       ],
@@ -1522,7 +1672,8 @@
         "de": "Mit dem Auto verbinden Sie das historische Medinaceli mit den prähistorischen Fundstätten von Ambrona. Nach dem Start am römischen Bogen und dem Besuch des Herzogspalastes führt ein kurzer Ausflug nach Ambrona, um riesige Elefantenfossilien zu sehen. Zurück im Ort genießen Sie die Plaza Mayor und die Stiftskirche. Der Tag endet bequem am Aussichtspunkt des Cid, bevor Sie die Heimreise antreten.",
         "hu": "Autóval összekötheti a történelmi Medinacelit az Ambrona-i őskori lelőhelyekkel. A római ívtől és a Hercegi Palotától egy rövid kirándulás vezet Ambronába, ahol óriási elefántfosszíliákat láthat. A faluba visszatérve élvezze a Főteret és a társaskáptalant. A nap kényelmesen zárul az El Cid kilátónál a hazaindulás előtt.",
         "ro": "Cu mașina puteți combina centrul istoric Medinaceli cu siturile preistorice de la Ambrona. După startul la arcul roman și vizita la Palatul Ducal, o scurtă excursie vă duce la Ambrona pentru a vedea fosile de elefanți giganți. Reveniți în localitate pentru Plaza Mayor și Colegiată. Ziua se încheie confortabil la belvederea El Cid înainte de plecare.",
-        "en": "By car, you can combine historical Medinaceli with the prehistoric sites of Ambrona. After starting at the Roman arch and visiting the Ducal Palace, a short trip takes you to Ambrona to see giant elephant fossils. Back in town, enjoy the Plaza Mayor and the Collegiate church. The day ends comfortably at the Cid viewpoint before heading home."
+        "en": "By car, you can combine historical Medinaceli with the prehistoric sites of Ambrona. After starting at the Roman arch and visiting the Ducal Palace, a short trip takes you to Ambrona to see giant elephant fossils. Back in town, enjoy the Plaza Mayor and the Collegiate church. The day ends comfortably at the Cid viewpoint before heading home.",
+        "es": "En coche, puedes combinar la Medinaceli histórica con los yacimientos prehistóricos de Ambrona. Tras comenzar en el arco romano y visitar el Palacio Ducal, un corto trayecto te lleva a Ambrona para ver fósiles de elefantes gigantes. De vuelta en el pueblo, disfruta de la Plaza Mayor y la colegiata. El día termina cómodamente en el mirador del Cid antes de regresar a casa."
       },
       "gastro_picks": {
         "de": [
@@ -1631,6 +1782,12 @@
           "Drive carefully in the narrow alleys.",
           "The trip to Ambrona takes about 15 minutes.",
           "Watch out for wildlife at dusk."
+        ],
+        "es": [
+          "Aparca en la gran plaza a la entrada del pueblo.",
+          "Conduce con cuidado por las callejuelas estrechas.",
+          "El viaje a Ambrona dura unos 15 minutos.",
+          "Cuidado con la fauna al anochecer."
         ]
       },
       "variants": {
@@ -1639,7 +1796,8 @@
             "de": "Mit dem Auto verbinden Sie das historische Medinaceli mit den prähistorischen Fundstätten von Ambrona. Nach dem Start am römischen Bogen und dem Besuch des Herzogspalastes führt ein kurzer Ausflug nach Ambrona, um riesige Elefantenfossilien zu sehen. Zurück im Ort genießen Sie die Plaza Mayor und die Stiftskirche. Der Tag endet bequem am Aussichtspunkt des Cid, bevor Sie die Heimreise antreten.",
             "hu": "Autóval összekötheti a történelmi Medinacelit az Ambrona-i őskori lelőhelyekkel. A római ívtől és a Hercegi Palotától egy rövid kirándulás vezet Ambronába, ahol óriási elefántfosszíliákat láthat. A faluba visszatérve élvezze a Főteret és a társaskáptalant. A nap kényelmesen zárul az El Cid kilátónál a hazaindulás előtt.",
             "ro": "Cu mașina puteți combina centrul istoric Medinaceli cu siturile preistorice de la Ambrona. După startul la arcul roman și vizita la Palatul Ducal, o scurtă excursie vă duce la Ambrona pentru a vedea fosile de elefanți giganți. Reveniți în localitate pentru Plaza Mayor și Colegiată. Ziua se încheie confortabil la belvederea El Cid înainte de plecare.",
-            "en": "By car, you can combine historical Medinaceli with the prehistoric sites of Ambrona. After starting at the Roman arch and visiting the Ducal Palace, a short trip takes you to Ambrona to see giant elephant fossils. Back in town, enjoy the Plaza Mayor and the Collegiate church. The day ends comfortably at the Cid viewpoint before heading home."
+            "en": "By car, you can combine historical Medinaceli with the prehistoric sites of Ambrona. After starting at the Roman arch and visiting the Ducal Palace, a short trip takes you to Ambrona to see giant elephant fossils. Back in town, enjoy the Plaza Mayor and the Collegiate church. The day ends comfortably at the Cid viewpoint before heading home.",
+            "es": "En coche, puedes combinar la Medinaceli histórica con los yacimientos prehistóricos de Ambrona. Tras comenzar en el arco romano y visitar el Palacio Ducal, un corto trayecto te lleva a Ambrona para ver fósiles de elefantes gigantes. De vuelta en el pueblo, disfruta de la Plaza Mayor y la colegiata. El día termina cómodamente en el mirador del Cid antes de regresar a casa."
           },
           "stops": [
             {
@@ -1647,13 +1805,15 @@
                 "de": "Römischer Bogen",
                 "hu": "Római diadalív",
                 "ro": "Arcul Roman",
-                "en": "Roman Arch"
+                "en": "Roman Arch",
+                "es": "Arco Romano"
               },
               "tip_5lang": {
                 "de": "Parkplatz direkt daneben.",
                 "hu": "Parkoló közvetlenül mellette.",
                 "ro": "Parcare chiar lângă.",
-                "en": "Parking right next to it."
+                "en": "Parking right next to it.",
+                "es": "Aparcamiento justo al lado."
               }
             },
             {
@@ -1661,13 +1821,15 @@
                 "de": "Herzogspalast",
                 "hu": "Hercegi palota",
                 "ro": "Palatul Ducal",
-                "en": "Ducal Palace"
+                "en": "Ducal Palace",
+                "es": "Palacio Ducal"
               },
               "tip_5lang": {
                 "de": "Das Wahrzeichen der Plaza Mayor.",
                 "hu": "A Főtér legfontosabb épülete.",
                 "ro": "Cea mai importantă clădire din Plaza Mayor.",
-                "en": "The landmark of Plaza Mayor."
+                "en": "The landmark of Plaza Mayor.",
+                "es": "El emblema de la Plaza Mayor."
               }
             },
             {
@@ -1675,13 +1837,15 @@
                 "de": "Ambrona (Ausgrabungen)",
                 "hu": "Ambrona (ásatások)",
                 "ro": "Ambrona (excavații)",
-                "en": "Ambrona (Excavations)"
+                "en": "Ambrona (Excavations)",
+                "es": "Ambrona (Yacimientos)"
               },
               "tip_5lang": {
                 "de": "Prähistorisches Museum in der Nähe.",
                 "hu": "Őskori múzeum a közelben.",
                 "ro": "Muzeu preistoric în apropiere.",
-                "en": "Prehistoric museum nearby."
+                "en": "Prehistoric museum nearby.",
+                "es": "Museo prehistórico cercano."
               }
             },
             {
@@ -1689,13 +1853,15 @@
                 "de": "Plaza Mayor",
                 "hu": "Főtér",
                 "ro": "Plaza Mayor",
-                "en": "Plaza Mayor"
+                "en": "Plaza Mayor",
+                "es": "Plaza Mayor"
               },
               "tip_5lang": {
                 "de": "Ideal für ein spätes Mittagessen.",
                 "hu": "Ideális egy késői ebédhez.",
                 "ro": "Ideal pentru un prânz târziu.",
-                "en": "Ideal for a late lunch."
+                "en": "Ideal for a late lunch.",
+                "es": "Ideal para una comida tardía."
               }
             },
             {
@@ -1703,13 +1869,15 @@
                 "de": "Stiftskirche Santa María",
                 "hu": "Santa María-társaskáptalan",
                 "ro": "Colegiata Santa María",
-                "en": "Collegiate Church of Santa María"
+                "en": "Collegiate Church of Santa María",
+                "es": "Colegiata de Santa María"
               },
               "tip_5lang": {
                 "de": "Besichtigen Sie das Altarbild.",
                 "hu": "Tekintse meg az oltárképet.",
                 "ro": "Vizitați altarul.",
-                "en": "Visit the altarpiece."
+                "en": "Visit the altarpiece.",
+                "es": "Visita el retablo."
               }
             },
             {
@@ -1717,13 +1885,15 @@
                 "de": "Aussichtspunkt des Cid",
                 "hu": "El Cid kilátó",
                 "ro": "Belvederea El Cid",
-                "en": "Viewpoint of El Cid"
+                "en": "Viewpoint of El Cid",
+                "es": "Mirador de El Cid"
               },
               "tip_5lang": {
                 "de": "Leichter Zugang mit dem Auto.",
                 "hu": "Autóval is könnyen megközelíthető.",
                 "ro": "Acces facil cu mașina.",
-                "en": "Easy access by car."
+                "en": "Easy access by car.",
+                "es": "Acceso fácil en coche."
               }
             }
           ],
@@ -1834,6 +2004,12 @@
               "Drive carefully in the narrow alleys.",
               "The trip to Ambrona takes about 15 minutes.",
               "Watch out for wildlife at dusk."
+            ],
+            "es": [
+              "Aparca en la gran plaza a la entrada del pueblo.",
+              "Conduce con cuidado por las callejuelas estrechas.",
+              "El viaje a Ambrona dura unos 15 minutos.",
+              "Cuidado con la fauna al anochecer."
             ]
           }
         },
@@ -1842,7 +2018,8 @@
             "de": "Bei Regen ist die Anfahrt nach Medinaceli bequem, aber die Sicht auf den Römischen Bogen kann eingeschränkt sein. Mittags bietet die Fahrt nach Ambrona eine gute Gelegenheit, dem Guss im Auto zu entfliehen. Der Nachmittag in der Altstadt lässt sich gut mit Parkstopps nahe der Sehenswürdigkeiten kombinieren. Ein Tag für kulturelle Entdeckungen ohne nasse Füße.",
             "hu": "Esőben Medinaceli megközelítése kényelmes, de a kilátás a római ívre korlátozott lehet. Délben az ambronai út jó alkalom arra, hogy az autóban meneküljünk az égszakadás elől. Az óvárosi délután jól kombinálható a látnivalókhoz közeli parkolással. Egy nap a kulturális felfedezéseknek, vizes lábak nélkül.",
             "ro": "Pe ploaie, accesul spre Medinaceli este confortabil, dar vizibilitatea asupra Arcului Roman poate fi limitată. La prânz, drumul spre Ambrona oferă o ocazie bună de a scăpa de ploaie în mașină. După-amiaza în orașul vechi poate fi combinată cu opriri în parcări apropiate de obiective. O zi pentru descoperiri culturale, fără picioare ude.",
-            "en": "In the rain, the drive to Medinaceli is comfortable, but the view of the Roman Arch may be limited. At noon, the trip to Ambrona is a good opportunity to escape the downpour in the car. The afternoon in the old town can be well combined with parking stops near the sights. A day for cultural discoveries without wet feet."
+            "en": "In the rain, the drive to Medinaceli is comfortable, but the view of the Roman Arch may be limited. At noon, the trip to Ambrona is a good opportunity to escape the downpour in the car. The afternoon in the old town can be well combined with parking stops near the sights. A day for cultural discoveries without wet feet.",
+            "es": "Con lluvia, el viaje a Medinaceli es cómodo, pero la vista del Arco Romano puede quedar limitada. Al mediodía, el trayecto a Ambrona es una buena oportunidad para resguardarse de la lluvia en el coche. La tarde en el casco antiguo se puede combinar bien con paradas de aparcamiento junto a los puntos de interés. Un día para descubrimientos culturales sin mojarse los pies."
           },
           "stops": [
             {
@@ -1851,7 +2028,8 @@
                 "de": "Parken Sie kurz für ein Foto; der Boden am Rand kann matschig sein.",
                 "hu": "Parkoljon le rövid időre egy fotóhoz; a szegély mentén sáros lehet a talaj.",
                 "ro": "Parcați scurt pentru o fotografie; terenul de pe margine poate fi noroios.",
-                "en": "Park briefly for a photo; the ground at the edge can be muddy."
+                "en": "Park briefly for a photo; the ground at the edge can be muddy.",
+                "es": "Aparca brevemente para una foto; el terreno en el borde puede estar embarrado."
               }
             },
             {
@@ -1860,7 +2038,8 @@
                 "de": "Parkplatz direkt auf der Plaza Mayor (falls frei) nutzen.",
                 "hu": "Használja a Plaza Mayor parkolóját, ha van szabad hely.",
                 "ro": "Folosiți parcarea direct din Plaza Mayor (dacă este liberă).",
-                "en": "Use the parking lot directly on Plaza Mayor (if available)."
+                "en": "Use the parking lot directly on Plaza Mayor (if available).",
+                "es": "Utiliza el aparcamiento ubicado directamente en la Plaza Mayor (si está disponible)."
               }
             },
             {
@@ -1869,7 +2048,8 @@
                 "de": "Die Landstraße kann bei Starkregen Aquaplaning-Gefahr bieten.",
                 "hu": "Az országúton heves esőben fennáll az aquaplaning veszélye.",
                 "ro": "Drumul național poate prezenta pericol de acvaplanare la ploaie torențială.",
-                "en": "The country road may present aquaplaning risks during heavy rain."
+                "en": "The country road may present aquaplaning risks during heavy rain.",
+                "es": "La carretera rural puede presentar riesgo de aquaplaning durante fuertes lluvias."
               }
             },
             {
@@ -1878,7 +2058,8 @@
                 "de": "Perfekter Ort, um Passagiere im Trockenen aussteigen zu lassen.",
                 "hu": "Tökéletes hely az utasok kiszállására a száraz részen.",
                 "ro": "Loc perfect pentru a lăsa pasagerii la adăpost.",
-                "en": "Perfect spot to let passengers out in the dry."
+                "en": "Perfect spot to let passengers out in the dry.",
+                "es": "Lugar perfecto para dejar salir a los pasajeros a cubierto."
               }
             },
             {
@@ -1887,7 +2068,8 @@
                 "de": "Einige Gassen sind bei Nässe sehr eng und rutschig zu befahren.",
                 "hu": "Néhány szűk utca nedvesen nagyon csúszós és nehezen járható autóval.",
                 "ro": "Unele străduțe sunt foarte înguste și alunecoase pentru condus pe ploaie.",
-                "en": "Some alleys are very narrow and slippery to drive when wet."
+                "en": "Some alleys are very narrow and slippery to drive when wet.",
+                "es": "Algunas callejuelas son muy estrechas y resbaladizas al conducir con lluvia."
               }
             },
             {
@@ -1896,7 +2078,8 @@
                 "de": "Beschlagene Scheiben; nutzen Sie die Klimaanlage zur Entfeuchtung.",
                 "hu": "Párásodó szélvédő; használja a klímát a páramentesítéshez.",
                 "ro": "Geamuri aburite; folosiți aerul condiționat pentru dezumidificare.",
-                "en": "Foggy windows; use the air conditioning for dehumidification."
+                "en": "Foggy windows; use the air conditioning for dehumidification.",
+                "es": "Ventanas empañadas; utiliza el aire acondicionado para deshumidificar."
               }
             }
           ],
@@ -1928,6 +2111,13 @@
               "The Ambrona archaeological site is well worth a visit even in the rain.",
               "Watch out for pedestrians who have poor visibility under umbrellas.",
               "Keep the headlights clean as mud reduces their brightness."
+            ],
+            "es": [
+              "Conduce con cuidado en la carretera serpenteante hasta la parte alta del pueblo.",
+              "Usa los aparcamientos cercanos a la Plaza Mayor para distancias a pie cortas.",
+              "El yacimiento arqueológico de Ambrona merece la pena incluso con lluvia.",
+              "Cuidado con los peatones que tienen poca visibilidad bajo paraguas.",
+              "Mantén los faros limpios, el barro reduce su brillo."
             ]
           }
         },
@@ -1936,7 +2126,8 @@
             "de": "Eine Winterfahrt nach Medinaceli bietet spektakuläre Aussichten auf verschneite Hochebenen. Der Morgen am Römischen Bogen ist frostig, aber das Auto bietet eine warme Basis. Mittags führt die Fahrt nach Ambrona durch eine stille Winterlandschaft. Nachmittags in der Altstadt sollte man auf Eisstellen achten, bevor man den Tag bei Heizungswärme ausklingen lässt.",
             "hu": "A téli autózás Medinacelibe látványos kilátást nyújt a havas fennsíkokra. A reggel a római ívnél fagyos, de az autó meleg bázist jelent. Délben az ambronai út csendes téli tájon vezet át. Délután az óvárosban figyelni kell a jeges szakaszokra, mielőtt a fűtött autóban befejeznénk a napot.",
             "ro": "O călătorie de iarnă spre Medinaceli oferă priveliști spectaculoase asupra podișurilor înzăpezite. Dimineața la Arcul Roman este geroasă, dar mașina oferă o bază caldă. La prânz, drumul spre Ambrona trece printr-un peisaj de iarnă liniștit. După-amiaza în orașul vechi trebuie atenție la gheață, înainte de a încheia ziua la căldură.",
-            "en": "A winter drive to Medinaceli offers spectacular views of snow-covered plateaus. The morning at the Roman Arch is frosty, but the car provides a warm base. At noon, the trip to Ambrona leads through a quiet winter landscape. In the afternoon in the old town, watch out for icy patches before ending the day in the warmth of the car."
+            "en": "A winter drive to Medinaceli offers spectacular views of snow-covered plateaus. The morning at the Roman Arch is frosty, but the car provides a warm base. At noon, the trip to Ambrona leads through a quiet winter landscape. In the afternoon in the old town, watch out for icy patches before ending the day in the warmth of the car.",
+            "es": "Una excursión invernal a Medinaceli ofrece vistas espectaculares de mesetas cubiertas de nieve. La mañana en el Arco Romano es helada, pero el coche ofrece una base cálida. Al mediodía, el trayecto a Ambrona atraviesa un tranquilo paisaje invernal. Por la tarde en el casco antiguo, cuidado con las placas de hielo antes de terminar el día al calor del coche."
           },
           "stops": [
             {
@@ -1945,7 +2136,8 @@
                 "de": "Achten Sie beim Aussteigen auf glatte Stellen direkt am Straßenrand.",
                 "hu": "Kiszálláskor ügyeljen a jeges foltokra közvetlenül az út szélén.",
                 "ro": "Atenție la polei direct pe marginea drumului când coborâți.",
-                "en": "Watch out for slippery spots directly at the roadside when getting out."
+                "en": "Watch out for slippery spots directly at the roadside when getting out.",
+                "es": "Cuidado con zonas resbaladizas junto a la carretera al bajar del vehículo."
               }
             },
             {
@@ -1954,7 +2146,8 @@
                 "de": "Die Parkplatzsuche ist im Winter einfacher, da weniger Touristen da sind.",
                 "hu": "A parkolás télen könnyebb, mivel kevesebb a turista.",
                 "ro": "Căutarea unui loc de parcare este mai ușoară iarna, fiind mai puțini turiști.",
-                "en": "Finding a parking spot is easier in winter as there are fewer tourists."
+                "en": "Finding a parking spot is easier in winter as there are fewer tourists.",
+                "es": "Encontrar aparcamiento es más fácil en invierno al haber menos turistas."
               }
             },
             {
@@ -1963,7 +2156,8 @@
                 "de": "Prüfen Sie den Straßenzustand; bei Schneefall wird hier oft spät geräumt.",
                 "hu": "Ellenőrizze az útviszonyokat; havazáskor itt gyakran későn takarítanak.",
                 "ro": "Verificați starea drumului; la ninsoare, deszăpezirea se face deseori târziu aici.",
-                "en": "Check road conditions; in case of snowfall, snow removal is often delayed here."
+                "en": "Check road conditions; in case of snowfall, snow removal is often delayed here.",
+                "es": "Consulta el estado de las carreteras; en caso de nevadas, la retirada de nieve a menudo se retrasa aquí."
               }
             },
             {
@@ -1972,7 +2166,8 @@
                 "de": "Nutzen Sie das Auto als Aufwärmstation zwischen den Spaziergängen.",
                 "hu": "Használja az autót melegedőhelyként a séták között.",
                 "ro": "Folosiți mașina ca punct de încălzire între plimbări.",
-                "en": "Use the car as a warming station between walks."
+                "en": "Use the car as a warming station between walks.",
+                "es": "Usa el coche como estación de calentamiento entre paseos."
               }
             },
             {
@@ -1981,7 +2176,8 @@
                 "de": "Gefahr von Eiszapfen an alten Dächern in den engen Gassen.",
                 "hu": "Jégcsapveszély a régi tetőkről a szűk utcákban.",
                 "ro": "Pericol de țurțuri de la acoperișurile vechi în străduțele înguste.",
-                "en": "Danger of icicles from old roofs in the narrow alleys."
+                "en": "Danger of icicles from old roofs in the narrow alleys.",
+                "es": "Peligro de carámbanos en los tejados antiguos de las callejuelas."
               }
             },
             {
@@ -1990,7 +2186,8 @@
                 "de": "Der Wind pfeift hier stark; lassen Sie den Motor nicht unnötig laufen.",
                 "hu": "Erősen fúj a szél; ne járassa feleslegesen a motort álló helyzetben.",
                 "ro": "Vântul suflă puternic aici; nu lăsați motorul pornit inutil.",
-                "en": "The wind whistles loudly here; don't leave the engine running unnecessarily."
+                "en": "The wind whistles loudly here; don't leave the engine running unnecessarily.",
+                "es": "El viento sopla con fuerza aquí; no dejes el motor encendido innecesariamente."
               }
             }
           ],
@@ -2022,6 +2219,13 @@
               "The access road to the upper town can be dangerous in case of ice.",
               "Plan your return trip before dark due to wildlife and frost.",
               "A small ice scraper and a snow brush should be ready in the car."
+            ],
+            "es": [
+              "Neumáticos de invierno o cadenas son obligatorios en esta región durante el invierno.",
+              "Revisa el anticongelante del líquido del limpiaparabrisas antes de salir.",
+              "El acceso a la parte alta puede ser peligroso en caso de hielo.",
+              "Planifica el regreso antes de que anochezca por la fauna y la helada.",
+              "Ten a mano un pequeño rascador de hielo y un cepillo para nieve en el coche."
             ]
           }
         }
@@ -2040,7 +2244,8 @@
             "de": "Bahnhof Medinaceli",
             "hu": "Medinaceli vasútállomás",
             "ro": "Gara Medinaceli",
-            "en": "Medinaceli Train Station"
+            "en": "Medinaceli Train Station",
+            "es": "Estación de tren de Medinaceli"
           },
           "coords": [
             -2.4288,
@@ -2055,7 +2260,8 @@
             "de": "Ankunft im unteren Teil der Stadt.",
             "hu": "Érkezés a város alsó részébe.",
             "ro": "Sosire în partea de jos a orașului.",
-            "en": "Arrival in the lower part of town."
+            "en": "Arrival in the lower part of town.",
+            "es": "Llegada en la parte baja del pueblo."
           }
         },
         {
@@ -2063,7 +2269,8 @@
             "de": "Römischer Bogen",
             "hu": "Római diadalív",
             "ro": "Arcul Roman",
-            "en": "Roman Arch"
+            "en": "Roman Arch",
+            "es": "Arco Romano"
           },
           "coords": [
             -2.4328,
@@ -2078,7 +2285,8 @@
             "de": "Mit dem lokalen Bus nach oben.",
             "hu": "Helyi busszal menjen fel a dombra.",
             "ro": "Luați autobuzul local până sus.",
-            "en": "Take the local bus to the top."
+            "en": "Take the local bus to the top.",
+            "es": "Toma el autobús local hasta la parte alta."
           }
         },
         {
@@ -2086,7 +2294,8 @@
             "de": "Plaza Mayor",
             "hu": "Főtér",
             "ro": "Plaza Mayor",
-            "en": "Plaza Mayor"
+            "en": "Plaza Mayor",
+            "es": "Plaza Mayor"
           },
           "coords": [
             -2.4339,
@@ -2101,7 +2310,8 @@
             "de": "Zentraler Punkt für alle Wege.",
             "hu": "Minden útvonal központi pontja.",
             "ro": "Punctul central pentru toate traseele.",
-            "en": "Central point for all routes."
+            "en": "Central point for all routes.",
+            "es": "Punto central para todas las rutas."
           }
         },
         {
@@ -2109,7 +2319,8 @@
             "de": "Herzogspalast",
             "hu": "Hercegi palota",
             "ro": "Palatul Ducal",
-            "en": "Ducal Palace"
+            "en": "Ducal Palace",
+            "es": "Palacio Ducal"
           },
           "coords": [
             -2.4342,
@@ -2124,7 +2335,8 @@
             "de": "Prachtbau der Renaissance.",
             "hu": "Reneszánsz pompájú épület.",
             "ro": "Clădire în stil renascentist.",
-            "en": "Renaissance style palace."
+            "en": "Renaissance style palace.",
+            "es": "Palacio de estilo renacentista."
           }
         },
         {
@@ -2132,7 +2344,8 @@
             "de": "Römische Mosaike",
             "hu": "Római mozaikok",
             "ro": "Mozaicuri Romane",
-            "en": "Roman Mosaics"
+            "en": "Roman Mosaics",
+            "es": "Mosaicos romanos"
           },
           "coords": [
             -2.4358,
@@ -2147,7 +2360,8 @@
             "de": "Überreste aus der Kaiserzeit.",
             "hu": "A császárkorból származó maradványok.",
             "ro": "Rămășițe din epoca imperială.",
-            "en": "Remains from the imperial era."
+            "en": "Remains from the imperial era.",
+            "es": "Restos de la época imperial."
           }
         },
         {
@@ -2155,7 +2369,8 @@
             "de": "Aussichtspunkt des Cid",
             "hu": "El Cid kilátó",
             "ro": "Belvederea El Cid",
-            "en": "Viewpoint of El Cid"
+            "en": "Viewpoint of El Cid",
+            "es": "Mirador de El Cid"
           },
           "coords": [
             -2.4321,
@@ -2170,7 +2385,8 @@
             "de": "Kurzer Fußweg vom Zentrum.",
             "hu": "Rövid séta a központtól.",
             "ro": "Scurtă plimbare din centru.",
-            "en": "Short walk from the center."
+            "en": "Short walk from the center.",
+            "es": "Corta caminata desde el centro."
           }
         }
       ],
@@ -2178,7 +2394,8 @@
         "de": "Reisen Sie entspannt mit der Bahn an. Vom unteren Bahnhof bringt Sie der Bus hinauf in die magische Altstadt. Nach dem römischen Bogen erkunden Sie die Plaza Mayor und den Palast. Mittags haben Sie Zeit für die lokalen Museen und die römischen Mosaike. Genießen Sie den späten Nachmittag am Aussichtspunkt des Cid, bevor der Bus Sie wieder zurück zum Bahnhof bringt.",
         "hu": "Utazzon pihentetően vonattal. Az alsó állomástól busz viszi fel a varázslatos óvárosba. A római ív után fedezze fel a Főteret és a palotát. Délben marad idő a helyi múzeumokra és a római mozaikokra. Élvezze a késő délutánt az El Cid kilátónál, mielőtt a busz visszaviszi az állomásra.",
         "ro": "Călătoriți relaxat cu trenul. De la gara de jos, autobuzul vă duce sus în centrul vechi magic. După arcul roman, explorați Plaza Mayor și palatul. La prânz aveți timp pentru muzeele locale și mozaicurile romane. Bucurați-vă de după-amiaza târzie la belvederea El Cid înainte ca autobuzul să vă ducă înapoi la gară.",
-        "en": "Travel relaxed by train. From the lower station, the bus takes you up to the magical old town. After the Roman arch, explore the Plaza Mayor and the palace. At noon, there's time for the local museums and Roman mosaics. Enjoy the late afternoon at the Cid viewpoint before the bus takes you back to the station."
+        "en": "Travel relaxed by train. From the lower station, the bus takes you up to the magical old town. After the Roman arch, explore the Plaza Mayor and the palace. At noon, there's time for the local museums and Roman mosaics. Enjoy the late afternoon at the Cid viewpoint before the bus takes you back to the station.",
+        "es": "Viaja relajado en tren. Desde la estación baja, el autobús te sube a la mágica villa. Tras el arco romano, explora la Plaza Mayor y el palacio. Al mediodía hay tiempo para los museos locales y los mosaicos romanos. Disfruta la tarda en el mirador del Cid antes de que el autobús te devuelva a la estación."
       },
       "gastro_picks": {
         "de": [
@@ -2286,6 +2503,12 @@
           "Trains run irregularly.",
           "Buy tickets online in advance.",
           "The walk up takes about 30 minutes."
+        ],
+        "es": [
+          "Consulta el horario de autobuses hasta la estación.",
+          "Los trenes circulan de forma irregular.",
+          "Compra los billetes por internet con antelación.",
+          "La subida a pie dura unos 30 minutos."
         ]
       },
       "variants": {
@@ -2294,7 +2517,8 @@
             "de": "Reisen Sie entspannt mit der Bahn an. Vom unteren Bahnhof bringt Sie der Bus hinauf in die magische Altstadt. Nach dem römischen Bogen erkunden Sie die Plaza Mayor und den Palast. Mittags haben Sie Zeit für die lokalen Museen und die römischen Mosaike. Genießen Sie den späten Nachmittag am Aussichtspunkt des Cid, bevor der Bus Sie wieder zurück zum Bahnhof bringt.",
             "hu": "Utazzon pihentetően vonattal. Az alsó állomástól busz viszi fel a varázslatos óvárosba. A római ív után fedezze fel a Főteret és a palotát. Délben marad idő a helyi múzeumokra és a római mozaikokra. Élvezze a késő délutánt az El Cid kilátónál, mielőtt a busz visszaviszi az állomásra.",
             "ro": "Călătoriți relaxat cu trenul. De la gara de jos, autobuzul vă duce sus în centrul vechi magic. După arcul roman, explorați Plaza Mayor și palatul. La prânz aveți timp pentru muzeele locale și mozaicurile romane. Bucurați-vă de după-amiaza târzie la belvederea El Cid înainte ca autobuzul să vă ducă înapoi la gară.",
-            "en": "Travel relaxed by train. From the lower station, the bus takes you up to the magical old town. After the Roman arch, explore the Plaza Mayor and the palace. At noon, there's time for the local museums and Roman mosaics. Enjoy the late afternoon at the Cid viewpoint before the bus takes you back to the station."
+            "en": "Travel relaxed by train. From the lower station, the bus takes you up to the magical old town. After the Roman arch, explore the Plaza Mayor and the palace. At noon, there's time for the local museums and Roman mosaics. Enjoy the late afternoon at the Cid viewpoint before the bus takes you back to the station.",
+            "es": "Viaja con tranquilidad en tren. Desde la parte baja, el autobús te sube al mágico casco antiguo. Tras el arco romano, explora la Plaza Mayor y el palacio. Al mediodía hay tiempo para los museos locales y los mosaicos romanos. Disfruta la tarde en el mirador del Cid antes de que el autobús te devuelva a la estación."
           },
           "stops": [
             {
@@ -2302,13 +2526,15 @@
                 "de": "Bahnhof Medinaceli",
                 "hu": "Medinaceli vasútállomás",
                 "ro": "Gara Medinaceli",
-                "en": "Medinaceli Train Station"
+                "en": "Medinaceli Train Station",
+                "es": "Estación de tren de Medinaceli"
               },
               "tip_5lang": {
                 "de": "Ankunft im unteren Teil der Stadt.",
                 "hu": "Érkezés a város alsó részébe.",
                 "ro": "Sosire în partea de jos a orașului.",
-                "en": "Arrival in the lower part of town."
+                "en": "Arrival in the lower part of town.",
+                "es": "Llegada a la parte baja del pueblo."
               }
             },
             {
@@ -2316,13 +2542,15 @@
                 "de": "Römischer Bogen",
                 "hu": "Római diadalív",
                 "ro": "Arcul Roman",
-                "en": "Roman Arch"
+                "en": "Roman Arch",
+                "es": "Arco romano"
               },
               "tip_5lang": {
                 "de": "Mit dem lokalen Bus nach oben.",
                 "hu": "Helyi busszal menjen fel a dombra.",
                 "ro": "Luați autobuzul local până sus.",
-                "en": "Take the local bus to the top."
+                "en": "Take the local bus to the top.",
+                "es": "Toma el autobús local hasta la parte alta."
               }
             },
             {
@@ -2330,13 +2558,15 @@
                 "de": "Plaza Mayor",
                 "hu": "Főtér",
                 "ro": "Plaza Mayor",
-                "en": "Plaza Mayor"
+                "en": "Plaza Mayor",
+                "es": "Plaza Mayor"
               },
               "tip_5lang": {
                 "de": "Zentraler Punkt für alle Wege.",
                 "hu": "Minden útvonal központi pontja.",
                 "ro": "Punctul central pentru toate traseele.",
-                "en": "Central point for all routes."
+                "en": "Central point for all routes.",
+                "es": "Punto central para todas las rutas."
               }
             },
             {
@@ -2344,13 +2574,15 @@
                 "de": "Herzogspalast",
                 "hu": "Hercegi palota",
                 "ro": "Palatul Ducal",
-                "en": "Ducal Palace"
+                "en": "Ducal Palace",
+                "es": "Palacio Ducal"
               },
               "tip_5lang": {
                 "de": "Prachtbau der Renaissance.",
                 "hu": "Reneszánsz pompájú épület.",
                 "ro": "Clădire în stil renascentist.",
-                "en": "Renaissance style palace."
+                "en": "Renaissance style palace.",
+                "es": "Palacio de estilo renacentista."
               }
             },
             {
@@ -2358,13 +2590,15 @@
                 "de": "Römische Mosaike",
                 "hu": "Római mozaikok",
                 "ro": "Mozaicuri Romane",
-                "en": "Roman Mosaics"
+                "en": "Roman Mosaics",
+                "es": "Mosaicos romanos"
               },
               "tip_5lang": {
                 "de": "Überreste aus der Kaiserzeit.",
                 "hu": "A császárkorból származó maradványok.",
                 "ro": "Rămășițe din epoca imperială.",
-                "en": "Remains from the imperial era."
+                "en": "Remains from the imperial era.",
+                "es": "Restos de la época imperial."
               }
             },
             {
@@ -2372,13 +2606,15 @@
                 "de": "Aussichtspunkt des Cid",
                 "hu": "El Cid kilátó",
                 "ro": "Belvederea El Cid",
-                "en": "Viewpoint of El Cid"
+                "en": "Viewpoint of El Cid",
+                "es": "Mirador del Cid"
               },
               "tip_5lang": {
                 "de": "Kurzer Fußweg vom Zentrum.",
                 "hu": "Rövid séta a központtól.",
                 "ro": "Scurtă plimbare din centru.",
-                "en": "Short walk from the center."
+                "en": "Short walk from the center.",
+                "es": "Corta caminata desde el centro."
               }
             }
           ],
@@ -2488,6 +2724,12 @@
               "Trains run irregularly.",
               "Buy tickets online in advance.",
               "The walk up takes about 30 minutes."
+            ],
+            "es": [
+              "Consulta el horario de autobuses hasta la estación.",
+              "Los trenes circulan de forma irregular.",
+              "Compra los billetes por internet con antelación.",
+              "La subida a pie dura unos 30 minutos."
             ]
           }
         },
@@ -2496,7 +2738,8 @@
             "de": "Ein regnerischer Tag beginnt am Bahnhof Medinaceli, von wo der Aufstieg in die Oberstadt bei Nässe beschwerlich sein kann. Mittags bietet die Plaza Mayor Schutz, während man auf den nächsten Bus oder ein Taxi wartet. Der Nachmittag im Herzogspalast ist trocken und lehrreich. Die Rückfahrt zum Bahnhof im Regen lässt den Tag ruhig ausklingen.",
             "hu": "Egy esős nap a medinaceli vasútállomáson indul, ahonnan a felsővárosba vezető út nedves időben megterhelő lehet. Délben a Plaza Mayor ad oltalmat, miközben a következő buszra vagy taxira várunk. A délután a Hercegi Palotában száraz és tanulságos. Az esőben való visszautazás az állomásra nyugodtan zárja a napot.",
             "ro": "O zi ploioasă începe la gara Medinaceli, de unde urcarea spre orașul de sus poate fi anevoioasă pe ploaie. La prânz, Plaza Mayor oferă adăpost în timp ce așteptați următorul autobuz sau un taxi. După-amiaza la Palatul Ducal este uscată și educativă. Întoarcerea la gară pe ploaie încheie ziua liniștit.",
-            "en": "A rainy day begins at Medinaceli train station, from where the climb to the upper town can be arduous in the wet. At noon, Plaza Mayor provides shelter while waiting for the next bus or a taxi. The afternoon in the Ducal Palace is dry and educational. The return trip to the station in the rain ends the day quietly."
+            "en": "A rainy day begins at Medinaceli train station, from where the climb to the upper town can be arduous in the wet. At noon, Plaza Mayor provides shelter while waiting for the next bus or a taxi. The afternoon in the Ducal Palace is dry and educational. The return trip to the station in the rain ends the day quietly.",
+            "es": "Un día lluvioso comienza en la estación de tren de Medinaceli, desde donde la subida al casco alto puede ser dura con lluvia. Al mediodía, la Plaza Mayor ofrece refugio mientras esperas el siguiente autobús o un taxi. La tarde en el Palacio Ducal es seca y didáctica. El regreso a la estación bajo la lluvia cierra el día con calma."
           },
           "stops": [
             {
@@ -2505,7 +2748,8 @@
                 "de": "Der Unterstand am Bahnsteig bietet nur begrenzten Schutz vor Schlagregen.",
                 "hu": "A peronon lévő beálló csak korlátozott védelmet nyújt a verőfényes eső ellen.",
                 "ro": "Adăpostul de pe peron oferă protecție limitată împotriva ploii oblice.",
-                "en": "The platform shelter offers only limited protection against driving rain."
+                "en": "The platform shelter offers only limited protection against driving rain.",
+                "es": "La marquesina del andén ofrece solo protección limitada contra la lluvia intensa."
               }
             },
             {
@@ -2514,7 +2758,8 @@
                 "de": "Vom Bahnhof hierher sind es 2km bergauf; nutzen Sie bei Regen ein Taxi.",
                 "hu": "Az állomástól 2 km felfelé; esőben érdemes taxit hívni.",
                 "ro": "Sunt 2 km la deal de la gară; folosiți un taxi pe timp de ploaie.",
-                "en": "It's a 2km uphill walk from the station; take a taxi in the rain."
+                "en": "It's a 2km uphill walk from the station; take a taxi in the rain.",
+                "es": "Son 2 km de subida desde la estación; toma un taxi si llueve."
               }
             },
             {
@@ -2523,7 +2768,8 @@
                 "de": "Zentraler Punkt für Busverbindungen; Fahrpläne unter den Arkaden prüfen.",
                 "hu": "A buszjáratok központi helye; a menetrendet az árkádok alatt ellenőrizze.",
                 "ro": "Punct central pentru autobuze; verificați orarul sub arcade.",
-                "en": "Central point for bus connections; check schedules under the arcades."
+                "en": "Central point for bus connections; check schedules under the arcades.",
+                "es": "Punto central para conexiones de autobús; consulta los horarios bajo las arcadas."
               }
             },
             {
@@ -2532,7 +2778,8 @@
                 "de": "Fragen Sie im Palast nach, ob sie ein Taxi für Sie rufen können.",
                 "hu": "Kérdezze meg a palotában, tudnak-e taxit hívni Önnek.",
                 "ro": "Întrebați la palat dacă pot chema un taxi pentru dvs.",
-                "en": "Ask at the palace if they can call a taxi for you."
+                "en": "Ask at the palace if they can call a taxi for you.",
+                "es": "Pregunta en el palacio si pueden llamar un taxi por ti."
               }
             },
             {
@@ -2541,7 +2788,8 @@
                 "de": "Idealer Stopp, um die Zeit bis zur Abfahrt des nächsten Busses zu überbrücken.",
                 "hu": "Ideális megálló a következő busz indulásáig hátralévő idő eltöltésére.",
                 "ro": "Oprire ideală pentru a trece timpul până la plecarea următorului autobuz.",
-                "en": "Ideal stop to kill time until the next bus departure."
+                "en": "Ideal stop to kill time until the next bus departure.",
+                "es": "Parada ideal para matar tiempo hasta la salida del próximo autobús."
               }
             },
             {
@@ -2550,7 +2798,8 @@
                 "de": "Planen Sie den Rückweg zum Bahnhof rechtzeitig ein (rutschiger Abstieg).",
                 "hu": "Tervezze meg időben a visszautat az állomásra (csúszós lejtő).",
                 "ro": "Planificați din timp drumul de întoarcere la gară (coborâre alunecoasă).",
-                "en": "Plan your return to the station in time (slippery descent)."
+                "en": "Plan your return to the station in time (slippery descent).",
+                "es": "Planifica tu regreso a la estación con tiempo (descenso resbaladizo)."
               }
             }
           ],
@@ -2582,6 +2831,13 @@
               "The station waiting room is unheated and often draughty.",
               "Keep the schedule app ready to check for delays.",
               "A small, sturdy umbrella fits well in a shoulder bag."
+            ],
+            "es": [
+              "La estación está en el valle y el casco antiguo en la colina; usa el autobús.",
+              "Los taxis suelen estar completos cuando llueve; reserva por teléfono con antelación.",
+              "La sala de espera de la estación no está climatizada y suele haber corrientes de aire.",
+              "Ten la app de horarios a mano para comprobar retrasos.",
+              "Un paraguas pequeño y resistente cabe bien en un bolso bandolera."
             ]
           }
         },
@@ -2590,7 +2846,8 @@
             "de": "Ein Wintertag beginnt am frostigen Bahnhof von Medinaceli. Der steile Weg nach oben ist bei Eis eine Herausforderung, daher empfiehlt sich der Bus. Mittags wärmt man sich in den Museen der Altstadt. Der Nachmittag bietet bei klarer Luft tolle Panoramen, bevor man den letzten Zug zurück nimmt. Ein Tag voller historischer Eindrücke in klirrender Kälte.",
             "hu": "A téli nap a medinaceli fagyos vasútállomáson indul. A meredek út felfelé jeges időben kihívás, ezért a busz ajánlott. Délben az óváros múzeumaiban melegedhetünk fel. A délután a tiszta levegőben remek panorámát nyújt, mielőtt elérnénk az utolsó vonatot. Történelmi élményekkel teli nap a metsző hidegben.",
             "ro": "O zi de iarnă începe la gara geroasă din Medinaceli. Drumul abrupt spre vârf este o provocare pe gheață, așa că se recomandă autobuzul. La prânz vă puteți încălzi în muzeele din orașul vechi. După-amiaza oferă panorame grozave în aerul curat, înainte de a lua ultimul tren înapoi. O zi plină de impresii istorice în gerul năpraznic.",
-            "en": "A winter day begins at the frosty Medinaceli station. The steep path up is a challenge in icy weather, so the bus is recommended. At noon, warm up in the museums of the old town. The afternoon offers great panoramas in the clear air before taking the last train back. A day full of historical impressions in the biting cold."
+            "en": "A winter day begins at the frosty Medinaceli station. The steep path up is a challenge in icy weather, so the bus is recommended. At noon, warm up in the museums of the old town. The afternoon offers great panoramas in the clear air before taking the last train back. A day full of historical impressions in the biting cold.",
+            "es": "Un día invernal comienza en la helada estación de Medinaceli. El empinado sendero de subida es un desafío con hielo, por lo que se recomienda el autobús. Al mediodía, entra en los museos del casco antiguo para calentarte. La tarde ofrece grandes panoramas con aire claro antes de tomar el último tren de regreso. Un día lleno de impresiones históricas en el frío cortante."
           },
           "stops": [
             {
@@ -2599,7 +2856,8 @@
                 "de": "Kommen Sie nicht zu früh; das Warten am Bahnsteig ist extrem kalt.",
                 "hu": "Ne érkezzen túl korán; a várakozás a peronon rendkívül hideg.",
                 "ro": "Nu veniți prea devreme; așteptarea pe peron este extrem de rece.",
-                "en": "Don't arrive too early; waiting on the platform is extremely cold."
+                "en": "Don't arrive too early; waiting on the platform is extremely cold.",
+                "es": "No llegues demasiado temprano; esperar en el andén es extremadamente frío."
               }
             },
             {
@@ -2608,7 +2866,8 @@
                 "de": "Der Bodenweg vom Bahnhof kann im Winter vereist sein.",
                 "hu": "Az állomástól vezető gyalogút télen jeges lehet.",
                 "ro": "Poteca de la gară poate fi înghețată iarna.",
-                "en": "The ground path from the station can be icy in winter."
+                "en": "The ground path from the station can be icy in winter.",
+                "es": "El sendero de tierra desde la estación puede estar helado en invierno."
               }
             },
             {
@@ -2617,7 +2876,8 @@
                 "de": "Warten Sie auf den Bus in einem der Cafés statt an der Haltestelle.",
                 "hu": "A buszra az egyik kávézóban várjon a megálló helyett.",
                 "ro": "Așteptați autobuzul într-una din cafenele în loc de stație.",
-                "en": "Wait for the bus in one of the cafés instead of at the stop."
+                "en": "Wait for the bus in one of the cafés instead of at the stop.",
+                "es": "Espera el autobús en uno de los cafés en lugar de en la parada."
               }
             },
             {
@@ -2626,7 +2886,8 @@
                 "de": "Der Palast ist ein guter Windschutz für die Mittagszeit.",
                 "hu": "A palota jó szélfogó a déli órákban.",
                 "ro": "Palatul este un bun adăpost împotriva vântului la prânz.",
-                "en": "The palace is a good windbreak for the midday period."
+                "en": "The palace is a good windbreak for the midday period.",
+                "es": "El palacio es un buen escudo contra el viento a mediodía."
               }
             },
             {
@@ -2635,7 +2896,8 @@
                 "de": "Ein beheizter Innenraum – nutzen Sie dies zum Aufwärmen der Füße.",
                 "hu": "Fűtött beltér – használja ki a lábai felmelegítésére.",
                 "ro": "Spațiu interior încălzit – folosiți-l pentru a vă încălzi picioarele.",
-                "en": "A heated interior – use this to warm up your feet."
+                "en": "A heated interior – use this to warm up your feet.",
+                "es": "Un interior calefactado: úsalo para calentar los pies."
               }
             },
             {
@@ -2644,7 +2906,8 @@
                 "de": "Gehen Sie vor der Dunkelheit zum Bus, um Stürze auf Eis zu vermeiden.",
                 "hu": "Sötétedés előtt menjen a buszhoz, hogy elkerülje a jeges eséseket.",
                 "ro": "Mergeți spre autobuz înainte de lăsarea întunericului pentru a evita căzăturile pe gheață.",
-                "en": "Go to the bus before dark to avoid falls on ice."
+                "en": "Go to the bus before dark to avoid falls on ice.",
+                "es": "Ve al autobús antes de que oscurezca para evitar caídas sobre el hielo."
               }
             }
           ],
@@ -2676,6 +2939,13 @@
               "Wear shoes with thick soles against the cold from the ground.",
               "Taxis are often the only reliable warm option on the way in winter.",
               "Schedules can change at short notice during heavy snowfall."
+            ],
+            "es": [
+              "Los trenes a Medinaceli son poco frecuentes; no pierdas el último.",
+              "La subida a pie dura 30–40 minutos y es agotadora con heladas.",
+              "Lleva calzado con suelas gruesas contra el frío del suelo.",
+              "Los taxis suelen ser la única opción cálida y fiable en invierno.",
+              "Los horarios pueden cambiar con poca antelación durante fuertes nevadas."
             ]
           }
         }
@@ -2689,19 +2959,22 @@
       "de": "Klares Kastilisch ist die einzige Sprache, Englisch findet man fast nur im Parador und bei jüngeren Reiseführern. Das winzige Dorf lebt von Tagestouristen aus Madrid, daher reicht oft ein freundliches 'buenos días'. Begriffe wie 'arco romano' und 'colegiata' helfen bei Fragen.",
       "hu": "Tiszta kasztíliai az egyetlen használt nyelv, angolul főleg a Parador személyzete és a fiatalabb idegenvezetők beszélnek. Az apró falu Madridból érkező napi turistákból él, egy kedves 'buenos días' messzire visz. Az 'arco romano' és 'colegiata' szavak segítenek a tájékozódásban.",
       "ro": "Doar castiliana curată se vorbește, engleza se găsește mai ales la Parador și la ghizii tineri. Satul mic trăiește din turiștii de o zi din Madrid, un 'buenos días' prietenos e suficient. Cuvintele 'arco romano' și 'colegiata' ajută la întrebări.",
-      "en": "Plain Castilian is the only working language; English appears mainly at the Parador and with younger guides. The hilltop village runs on Madrid day-trippers, so a warm 'buenos días' opens doors. 'Arco romano' and 'colegiata' help when asking around."
+      "en": "Plain Castilian is the only working language; English appears mainly at the Parador and with younger guides. The hilltop village runs on Madrid day-trippers, so a warm 'buenos días' opens doors. 'Arco romano' and 'colegiata' help when asking around.",
+      "es": "El castellano llano es la única lengua útil; el inglés aparece principalmente en el Parador y con guías jóvenes. El pueblo de la colina vive del turismo de día desde Madrid, así que un cálido «buenos días» abre puertas. «Arco romano» y «colegiata» ayudan al preguntar."
     },
     "best_time_to_visit": {
       "de": "Mai bis Oktober ist die angenehmste Zeit, die Hochebene auf 1.200 m bietet auch im Sommer kühle Abende. Im November findet das berühmte 'Toro Jubilo' statt, kontrovers, aber kulturhistorisch einzigartig. Im Winter kann es schneien und mehrere Restaurants schließen.",
       "hu": "Május-októberben a legkellemesebb, az 1200 méteres fennsík nyáron is hűvös estéket ad. Novemberben tartják a vitatott, de kulturálisan egyedülálló 'Toro Júbilo' szertartást. Télen havazhat, és több étterem bezár.",
       "ro": "Mai-octombrie e cel mai plăcut interval, platoul de 1.200 m oferă seri răcoroase chiar și vara. În noiembrie are loc controversatul, dar unicul ritual 'Toro Jubilo'. Iarna poate ninge, iar mai multe restaurante se închid.",
-      "en": "May to October is most comfortable; the 1,200 m plateau stays cool at night even in summer. November brings the controversial but culturally unique 'Toro Jubilo' fire-bull ritual. Winter can be snowy and several restaurants close."
+      "en": "May to October is most comfortable; the 1,200 m plateau stays cool at night even in summer. November brings the controversial but culturally unique 'Toro Jubilo' fire-bull ritual. Winter can be snowy and several restaurants close.",
+      "es": "Mayo a octubre es lo más agradable; la meseta a 1.200 m se mantiene fresca por la noche incluso en verano. Noviembre trae el controvertido pero culturalmente singular ritual del 'Toro Jubilo'. El invierno puede nevar y varios restaurantes cierran."
     },
     "neighborhood_warnings": {
       "de": "Eines der sichersten Dörfer Spaniens, nur etwa 700 Einwohner, Kriminalität praktisch null. Aufpassen muss man auf den steilen Aufstieg zur Oberstadt mit ungesicherten Aussichtspunkten und auf den dichten Nebel auf der A-2 im Winter. Tankstellen sind rar, vorher volltanken.",
       "hu": "Spanyolország egyik legbiztonságosabb faluja, alig 700 lakossal, gyakorlatilag nulla bűnözéssel. A felső városba vezető meredek emelkedőre és a védőkorlát nélküli kilátókra kell figyelni, télen pedig az A-2 sűrű ködére. Benzinkút kevés van, érdemes előre tankolni.",
       "ro": "Unul dintre cele mai sigure sate din Spania, doar ~700 locuitori, infracționalitate practic zero. Atenție la urcușul abrupt spre orașul de sus cu puncte de belvedere fără balustradă și la ceața deasă de pe A-2 iarna. Benzinării sunt rare, alimentați înainte.",
-      "en": "One of Spain's safest villages, just ~700 residents and virtually no crime. Watch the steep climb up to the upper town with unrailed viewpoints, and dense fog on the A-2 motorway in winter. Petrol stations are scarce, so fill up before heading here."
+      "en": "One of Spain's safest villages, just ~700 residents and virtually no crime. Watch the steep climb up to the upper town with unrailed viewpoints, and dense fog on the A-2 motorway in winter. Petrol stations are scarce, so fill up before heading here.",
+      "es": "Uno de los pueblos más seguros de España, con ~700 habitantes y prácticamente no hay delincuencia. Vigila la empinada subida al casco alto con miradores sin barandilla, y la densa niebla en la A-2 en invierno. Las gasolineras son escasas; reposta antes de venir."
     }
   }
 }

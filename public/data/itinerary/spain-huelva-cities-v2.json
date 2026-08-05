@@ -21,7 +21,8 @@
             "de": "Kathedrale La Merced",
             "hu": "La Merced katedrális",
             "ro": "Catedrala La Merced",
-            "en": "La Merced Cathedral"
+            "en": "La Merced Cathedral",
+            "es": "Catedral de La Merced"
           },
           "coords": [
             -6.9488,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die barocke Fassade und das ruhige Innere.",
             "hu": "Csodálja meg a barokk homlokzatot és a békés belső teret.",
             "ro": "Admirați fațada barocă și interiorul liniștit.",
-            "en": "Admire the baroque facade and the tranquil interior."
+            "en": "Admire the baroque facade and the tranquil interior.",
+            "es": "Admira la fachada barroca y el interior tranquilo."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche San Pedro",
             "hu": "San Pedro-templom",
             "ro": "Biserica San Pedro",
-            "en": "San Pedro Church"
+            "en": "San Pedro Church",
+            "es": "Iglesia de San Pedro"
           },
           "coords": [
             -6.953,
@@ -59,7 +62,8 @@
             "de": "Die älteste Kirche der Stadt, ein Mix aus Gotik und Mudéjar-Stil.",
             "hu": "A város legrégebbi temploma, a gótikus és a mudéjar stílus keveréke.",
             "ro": "Cea mai veche biserică din oraș, un amestec de stil gotic și mudéjar.",
-            "en": "The oldest church in the city, a mix of Gothic and Mudéjar styles."
+            "en": "The oldest church in the city, a mix of Gothic and Mudéjar styles.",
+            "es": "La iglesia más antigua de la ciudad, mezcla de estilos gótico y mudéjar."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Museum von Huelva",
             "hu": "Huelva Múzeum",
             "ro": "Muzeul din Huelva",
-            "en": "Museum of Huelva"
+            "en": "Museum of Huelva",
+            "es": "Museo de Huelva"
           },
           "coords": [
             -6.9425,
@@ -82,7 +87,8 @@
             "de": "Konzentrieren Sie sich auf die archäologische Abteilung mit tartessischen Artefakten.",
             "hu": "Fókuszáljon a régészeti részlegre, ahol tartesszoszi leletek láthatók.",
             "ro": "Concentrați-vă pe secțiunea arheologică cu artefacte tartessiene.",
-            "en": "Focus on the archaeology section featuring Tartessian artifacts."
+            "en": "Focus on the archaeology section featuring Tartessian artifacts.",
+            "es": "Fíjate en la sección de arqueología con piezas tartésicas."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Casa Colón",
             "hu": "Casa Colón",
             "ro": "Casa Colón",
-            "en": "Casa Colón"
+            "en": "Casa Colón",
+            "es": "Casa Colón"
           },
           "coords": [
             -6.9458,
@@ -105,7 +112,8 @@
             "de": "Prüfen Sie das Programm, vielleicht gibt es eine kostenlose Ausstellung in den Hallen.",
             "hu": "Nézze meg a programot, lehet, hogy ingyenes kiállítás van a termekben.",
             "ro": "Verificați programul, s-ar putea să existe o expoziție gratuită în săli.",
-            "en": "Check the schedule; there might be a free exhibition inside the halls."
+            "en": "Check the schedule; there might be a free exhibition inside the halls.",
+            "es": "Consulta la programación; puede haber una exposición gratuita en las salas."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Muelle del Tinto",
             "hu": "Muelle del Tinto (Ércrakodó)",
             "ro": "Muelle del Tinto",
-            "en": "Muelle del Tinto"
+            "en": "Muelle del Tinto",
+            "es": "Muelle del Tinto"
           },
           "coords": [
             -6.9535,
@@ -128,7 +137,8 @@
             "de": "Der beste Ort für einen Spaziergang bei Sonnenuntergang mit industriellem Charme.",
             "hu": "A legjobb hely egy naplementés sétához, ipari bájjal fűszerezve.",
             "ro": "Cel mai bun loc pentru o plimbare la apus, cu farmec industrial.",
-            "en": "The best spot for a sunset walk with an industrial charm."
+            "en": "The best spot for a sunset walk with an industrial charm.",
+            "es": "El mejor lugar para un paseo al atardecer con encanto industrial."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Denkmal für den Entdeckungsglauben",
             "hu": "A Felfedezés Hitének Emlékműve",
             "ro": "Monumentul Credinței Descoperitoare",
-            "en": "Monument to the Discovery Faith"
+            "en": "Monument to the Discovery Faith",
+            "es": "Monumento a la Fe Descubridora"
           },
           "coords": [
             -6.958,
@@ -151,7 +162,8 @@
             "de": "Gehen Sie um das massive Denkmal herum, um die Details zu würdigen.",
             "hu": "Sétálja körbe a masszív emlékművet, hogy értékelni tudja a részleteket.",
             "ro": "Înconjurați monumentul masiv pentru a aprecia detaliile.",
-            "en": "Walk around the massive monument to appreciate the details."
+            "en": "Walk around the massive monument to appreciate the details.",
+            "es": "Pasea alrededor del enorme monumento para apreciar los detalles."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag an der Kathedrale La Merced und tauchen Sie in die religiöse Geschichte Huelvas ein, gefolgt von der ältesten Kirche der Stadt, San Pedro. Mittags erkunden Sie die reiche Vergangenheit der Region im Museum von Huelva, bevor Sie im historischen Casa Colón eine kulturelle Pause einlegen. Am Nachmittag erleben Sie das industrielle Erbe am Muelle del Tinto. Beenden Sie Ihren Tag am imposanten Monumento a la Fe Descubridora und genießen Sie die Aussicht auf den Zusammenfluss der Flüsse.",
         "hu": "Kezdje a napot a La Merced katedrálisnál, elmerülve Huelva vallási történelmében, majd folytassa a város legrégebbi templomával, a San Pedróval. Délben fedezze fel a régió gazdag múltját a Huelva Múzeumban, mielőtt kulturális szünetet tartana a történelmi Casa Colónban. Délután tapasztalja meg az ipari örökséget a Muelle del Tintónál. Zárja a napot a lenyűgöző Felfedezés Hitének Emlékművénél, élvezve a folyók találkozásának látványát.",
         "ro": "Începeți ziua la Catedrala La Merced, cufundându-vă în istoria religioasă a orașului Huelva, urmată de cea mai veche biserică din oraș, San Pedro. La amiază, explorați trecutul bogat al regiunii la Muzeul din Huelva înainte de a lua o pauză culturală la istorica Casa Colón. După-amiaza, experimentați patrimoniul industrial la Muelle del Tinto. Încheiați ziua la impunătorul Monument al Credinței Descoperitoare, bucurându-vă de priveliștea confluenței râurilor.",
-        "en": "Start your day at La Merced Cathedral, delving into Huelva's religious history, followed by the city's oldest church, San Pedro. At noon, explore the region's rich past at the Museum of Huelva before taking a cultural break at the historic Casa Colón. In the afternoon, experience the industrial heritage at Muelle del Tinto. End your day at the imposing Monument to the Discovery Faith, enjoying the views at the river confluence."
+        "en": "Start your day at La Merced Cathedral, delving into Huelva's religious history, followed by the city's oldest church, San Pedro. At noon, explore the region's rich past at the Museum of Huelva before taking a cultural break at the historic Casa Colón. In the afternoon, experience the industrial heritage at Muelle del Tinto. End your day at the imposing Monument to the Discovery Faith, enjoying the views at the river confluence.",
+        "es": "Comienza el día en la Catedral de La Merced, profundizando en la historia religiosa de Huelva, seguido de la iglesia más antigua de la ciudad, San Pedro. Al mediodía, explora el rico pasado de la región en el Museo de Huelva antes de tomar un descanso cultural en la histórica Casa Colón. Por la tarde, descubre el patrimonio industrial en el Muelle del Tinto. Termina el día en el imponente Monumento a la Fe Descubridora, disfrutando de las vistas en la confluencia de los ríos."
       },
       "gastro_picks": {
         "de": [
@@ -331,6 +344,11 @@
           "Wear comfortable shoes as the city center is compact and very walkable.",
           "Plan for a siesta break in the afternoon, as many shops close.",
           "Carry a water bottle, especially during the summer months."
+        ],
+        "es": [
+          "Lleva calzado cómodo, el centro es compacto y muy transitable a pie.",
+          "Planifica una siesta por la tarde, muchas tiendas cierran.",
+          "Lleva una botella de agua, sobre todo en verano."
         ]
       },
       "variants": {
@@ -339,7 +357,8 @@
             "de": "Morgenstart unter dem Schutz der Kathedrale La Merced, wo das Barockinterieur trockenen Unterschlupf bietet. Mittags führt der Weg zur Kirche San Pedro und weiter ins Museum von Huelva, um die archäologischen Schätze ohne Regennässe zu bestaunen. Nachmittags erkunden wir die Casa Colón, deren Ausstellungsräume ideal für Schauerwetter sind. Der Abend endet am Muelle del Tinto, dessen Eisenstruktur im Regen einen melancholischen Glanz versprüht.",
             "hu": "Reggeli kezdés a La Merced székesegyház védelmében, ahol a barokk belső tér száraz menedéket nyújt. Délben a San Pedro templom érintésével a Huelva Múzeumba megyünk, hogy az eső elől menekülve fedezzük fel a régészeti kincseket. Délután a Casa Colón kiállítótermei kínálnak ideális programot a záporok idején. Az estét a Muelle del Tinto mólónál zárjuk, melynek vasszerkezete különleges fényben csillog az esőben.",
             "ro": "Începem dimineața sub protecția Catedralei La Merced, unde interiorul baroc oferă un adăpost uscat. La prânz, trecem pe la biserica San Pedro și continuăm spre Muzeul din Huelva pentru a explora comorile arheologice departe de ploaie. După-amiaza este dedicată centrului Casa Colón, ale cărui săli de expoziție sunt ideale pentru vreme instabilă. Seara se încheie la Muelle del Tinto, a cărui structură de fier strălucește melancolic sub picăturile de ploaie.",
-            "en": "Morning starts under the shelter of La Merced Cathedral, where the baroque interior provides a dry refuge. At noon, we visit San Pedro Church and head to the Museum of Huelva to admire archaeological treasures away from the rain. Afternoon is spent at Casa Colón, whose exhibition spaces are perfect for showery weather. The evening ends at Muelle del Tinto, where the iron structure takes on a melancholic glow in the rain."
+            "en": "Morning starts under the shelter of La Merced Cathedral, where the baroque interior provides a dry refuge. At noon, we visit San Pedro Church and head to the Museum of Huelva to admire archaeological treasures away from the rain. Afternoon is spent at Casa Colón, whose exhibition spaces are perfect for showery weather. The evening ends at Muelle del Tinto, where the iron structure takes on a melancholic glow in the rain.",
+            "es": "La mañana comienza bajo la protección de la Catedral de La Merced, cuyo interior barroco ofrece refugio seco. Al mediodía visitamos la iglesia de San Pedro y acudimos al Museo de Huelva para admirar tesoros arqueológicos alejados de la lluvia. La tarde se pasa en Casa Colón, cuyos espacios expositivos son ideales con chaparrones. La velada termina en el Muelle del Tinto, donde la estructura de hierro adquiere un brillo melancólico bajo la lluvia."
           },
           "stops": [
             {
@@ -348,7 +367,8 @@
                 "de": "Nutzen Sie den Portikus als Regenschutz.",
                 "hu": "Használja a portikuszt eső elleni menedékként.",
                 "ro": "Folosiți porticul pentru a vă adăposti de ploaie.",
-                "en": "Use the portico as shelter from the rain."
+                "en": "Use the portico as shelter from the rain.",
+                "es": "Utiliza el pórtico como refugio de la lluvia."
               }
             },
             {
@@ -357,7 +377,8 @@
                 "de": "Kurzer Sprint zum Eingang einplanen.",
                 "hu": "Tervezzen egy rövid sprintet a bejáratig.",
                 "ro": "Planificați un sprint scurt până la intrare.",
-                "en": "Plan a short sprint to the entrance."
+                "en": "Plan a short sprint to the entrance.",
+                "es": "Planea una pequeña carrera hasta la entrada."
               }
             },
             {
@@ -366,7 +387,8 @@
                 "de": "Perfekter Ort für lange Regenschauer.",
                 "hu": "Tökéletes hely a hosszú záporok idejére.",
                 "ro": "Locul perfect pentru perioadele lungi de ploaie.",
-                "en": "Perfect place for long rainy spells."
+                "en": "Perfect place for long rainy spells.",
+                "es": "Lugar perfecto para lluvias largas."
               }
             },
             {
@@ -375,7 +397,8 @@
                 "de": "Überdachte Gänge zwischen den Pavillons.",
                 "hu": "Fedett folyosók a pavilonok között.",
                 "ro": "Coridoare acoperite între pavilioane.",
-                "en": "Covered walkways between the pavilions."
+                "en": "Covered walkways between the pavilions.",
+                "es": "Pasillos cubiertos entre los pabellones."
               }
             },
             {
@@ -384,7 +407,8 @@
                 "de": "Vorsicht, nasser Stahl kann rutschig sein.",
                 "hu": "Vigyázat, a nedves acél csúszós lehet.",
                 "ro": "Atenție, oțelul umed poate fi alunecos.",
-                "en": "Caution, wet steel can be slippery."
+                "en": "Caution, wet steel can be slippery.",
+                "es": "Precaución, el acero húmedo puede resbalar."
               }
             },
             {
@@ -393,7 +417,8 @@
                 "de": "Ein starker Regenschirm ist am Fluss nötig.",
                 "hu": "Erős esernyő szükséges a folyóparton.",
                 "ro": "O umbrelă rezistentă e necesară pe malul râului.",
-                "en": "A sturdy umbrella is needed by the river."
+                "en": "A sturdy umbrella is needed by the river.",
+                "es": "Se necesita un paraguas resistente junto al río."
               }
             }
           ],
@@ -421,6 +446,12 @@
               "Take advantage of the arcades at Plaza de las Monjas.",
               "Museums offer the best protection in Huelva.",
               "A poncho is more practical than an umbrella in wind."
+            ],
+            "es": [
+              "Usa calzado impermeable para los pavimentos del casco antiguo.",
+              "Aprovecha las arcadas de la Plaza de las Monjas.",
+              "Los museos ofrecen la mejor protección en Huelva.",
+              "Un chubasquero es más práctico que un paraguas con viento."
             ]
           }
         },
@@ -429,7 +460,8 @@
             "de": "Ein frischer Wintermorgen beginnt an der Kathedrale, während die tiefe Sonne die Fassaden in warmes Licht taucht. Mittags genießen wir die milde andalusische Wintersonne auf dem Weg zum Museum. Der Nachmittag in der Casa Colón ist angenehm kühl, bevor wir uns zum Hafen begeben. Den Abend verbringen wir am Muelle del Tinto, um den frühen, aber spektakulären Sonnenuntergang über dem Odiel zu beobachten.",
             "hu": "Friss téli reggel indul a katedrálisnál, miközben az alacsony napállás meleg fénybe vonja a homlokzatokat. Délben a múzeum felé menet élvezzük az enyhe andalúz téli napsütést. A délután a Casa Colón falai között hűvös, de kellemes, mielőtt a kikötő felé vesszük az irányt. Az estét a Muelle del Tinto mólón töltjük, megcsodálva a korai, de látványos naplementét az Odiel felett.",
             "ro": "O dimineață răcoroasă de iarnă începe la catedrală, în timp ce soarele jos scaldă fațadele în lumină caldă. La prânz, ne bucurăm de soarele blând andaluz în drum spre muzeu. După-amiaza la Casa Colón este răcoroasă, dar plăcută, înainte de a merge spre port. Seara o petrecem la Muelle del Tinto pentru a vedea apusul devreme, dar spectaculos peste râul Odiel.",
-            "en": "A crisp winter morning begins at the cathedral, with the low sun bathing facades in warm light. At noon, we enjoy the mild Andalusian winter sun on the way to the museum. The afternoon at Casa Colón is cool but pleasant before heading to the port. We spend the evening at Muelle del Tinto to watch the early but spectacular sunset over the Odiel River."
+            "en": "A crisp winter morning begins at the cathedral, with the low sun bathing facades in warm light. At noon, we enjoy the mild Andalusian winter sun on the way to the museum. The afternoon at Casa Colón is cool but pleasant before heading to the port. We spend the evening at Muelle del Tinto to watch the early but spectacular sunset over the Odiel River.",
+            "es": "Una fría mañana de invierno comienza en la catedral, con el sol bajo bañando las fachadas con una luz cálida. Al mediodía disfrutamos del suave sol andaluz en el camino al museo. La tarde en Casa Colón es fresca pero agradable antes de dirigirnos al puerto. Pasamos la noche en el Muelle del Tinto para ver la puesta de sol temprana pero espectacular sobre el río Odiel."
           },
           "stops": [
             {
@@ -438,7 +470,8 @@
                 "de": "Morgensonne beleuchtet die Fassade ideal.",
                 "hu": "A reggeli nap tökéletesen megvilágítja a falat.",
                 "ro": "Soarele de dimineață luminează ideal fațada.",
-                "en": "Morning sun illuminates the facade perfectly."
+                "en": "Morning sun illuminates the facade perfectly.",
+                "es": "El sol de la mañana ilumina perfectamente la fachada."
               }
             },
             {
@@ -447,7 +480,8 @@
                 "de": "Die weißen Mauern reflektieren das Winterlicht.",
                 "hu": "A fehér falak visszaverik a téli fényt.",
                 "ro": "Zidurile albe reflectă lumina de iarnă.",
-                "en": "The white walls reflect the winter light."
+                "en": "The white walls reflect the winter light.",
+                "es": "Las paredes blancas reflejan la luz invernal."
               }
             },
             {
@@ -456,7 +490,8 @@
                 "de": "Gute Klimatisierung gegen die Winterkühle.",
                 "hu": "Jó klimatizálás a téli hűvös ellen.",
                 "ro": "Climatizare bună împotriva răcorii de iarnă.",
-                "en": "Good climate control against the winter chill."
+                "en": "Good climate control against the winter chill.",
+                "es": "Buen control climático contra el frío invernal."
               }
             },
             {
@@ -465,7 +500,8 @@
                 "de": "Die Gärten sind auch im Winter grün.",
                 "hu": "A kertek télen is zöldellnek.",
                 "ro": "Grădinile sunt verzi chiar și iarna.",
-                "en": "The gardens remain green even in winter."
+                "en": "The gardens remain green even in winter.",
+                "es": "Los jardines permanecen verdes incluso en invierno."
               }
             },
             {
@@ -474,7 +510,8 @@
                 "de": "Sonnenuntergang findet bereits gegen 18 Uhr statt.",
                 "hu": "A naplemente már 18 óra körül bekövetkezik.",
                 "ro": "Apusul are loc deja în jurul orei 18:00.",
-                "en": "Sunset occurs as early as 6 PM."
+                "en": "Sunset occurs as early as 6 PM.",
+                "es": "La puesta de sol puede ser ya a las 18:00."
               }
             },
             {
@@ -483,7 +520,8 @@
                 "de": "Warme Kleidung wegen der Brise vom Meer.",
                 "hu": "Meleg ruha ajánlott a tengeri szél miatt.",
                 "ro": "Haine groase recomandate pentru briza mării.",
-                "en": "Warm clothes recommended for the sea breeze."
+                "en": "Warm clothes recommended for the sea breeze.",
+                "es": "Se recomiendan prendas abrigadas por la brisa marina."
               }
             }
           ],
@@ -511,6 +549,12 @@
               "Sunset is the highlight of the day by the river.",
               "Coffee stops in the sun are a must in winter.",
               "Evening humidity makes it feel colder than it is."
+            ],
+            "es": [
+              "Vestir por capas es clave por los cambios de temperatura.",
+              "La puesta de sol es el momento culminante junto al río.",
+              "Paradas para café al sol son imprescindibles en invierno.",
+              "La humedad nocturna hace que se sienta más frío de lo que es."
             ]
           }
         }
@@ -529,7 +573,8 @@
             "de": "Casa Colón",
             "hu": "Casa Colón",
             "ro": "Casa Colón",
-            "en": "Casa Colón"
+            "en": "Casa Colón",
+            "es": "Casa Colón"
           },
           "coords": [
             -6.9458,
@@ -544,7 +589,8 @@
             "de": "Ein großartiger Startpunkt, um die Architektur des 19. Jahrhunderts zu bewundern.",
             "hu": "Nagyszerű kiindulópont a 19. századi építészet megcsodálásához.",
             "ro": "Un punct de plecare excelent pentru a admira arhitectura secolului al XIX-lea.",
-            "en": "A great starting point to admire the 19th-century architecture."
+            "en": "A great starting point to admire the 19th-century architecture.",
+            "es": "Un excelente punto de partida para admirar la arquitectura del siglo XIX."
           }
         },
         {
@@ -552,7 +598,8 @@
             "de": "Kathedrale La Merced",
             "hu": "La Merced katedrális",
             "ro": "Catedrala La Merced",
-            "en": "La Merced Cathedral"
+            "en": "La Merced Cathedral",
+            "es": "Catedral de La Merced"
           },
           "coords": [
             -6.9488,
@@ -567,7 +614,8 @@
             "de": "Nur eine kurze Radtour von der Casa Colón entfernt.",
             "hu": "Csak egy rövid bicikliútra a Casa Colóntól.",
             "ro": "La o scurtă plimbare cu bicicleta de Casa Colón.",
-            "en": "Just a short bike ride away from Casa Colón."
+            "en": "Just a short bike ride away from Casa Colón.",
+            "es": "A solo un corto paseo en bicicleta desde Casa Colón."
           }
         },
         {
@@ -575,7 +623,8 @@
             "de": "Muelle del Tinto",
             "hu": "Muelle del Tinto (Ércrakodó)",
             "ro": "Muelle del Tinto",
-            "en": "Muelle del Tinto"
+            "en": "Muelle del Tinto",
+            "es": "Muelle del Tinto"
           },
           "coords": [
             -6.9535,
@@ -590,7 +639,8 @@
             "de": "Fahren Sie mit dem Rad über den Steg und genießen Sie die Brise.",
             "hu": "Tekerjen végig a stégen és élvezze a szellőt.",
             "ro": "Pedalați de-a lungul digului și bucurați-vă de briză.",
-            "en": "Cycle along the pier and enjoy the breeze."
+            "en": "Cycle along the pier and enjoy the breeze.",
+            "es": "Pedalea por el muelle y disfruta de la brisa."
           }
         },
         {
@@ -598,7 +648,8 @@
             "de": "Denkmal für den Entdeckungsglauben",
             "hu": "A Felfedezés Hitének Emlékműve",
             "ro": "Monumentul Credinței Descoperitoare",
-            "en": "Monument to the Discovery Faith"
+            "en": "Monument to the Discovery Faith",
+            "es": "Monumento a la Fe Descubridora"
           },
           "coords": [
             -6.958,
@@ -613,7 +664,8 @@
             "de": "Ein guter Ort für eine kurze Pause und ein paar Fotos.",
             "hu": "Jó hely egy rövid pihenőre és néhány fotó készítésére.",
             "ro": "Un loc bun pentru o scurtă pauză și câteva fotografii.",
-            "en": "A good spot for a short break and some photos."
+            "en": "A good spot for a short break and some photos.",
+            "es": "Un buen lugar para un breve descanso y algunas fotos."
           }
         },
         {
@@ -621,7 +673,8 @@
             "de": "Marismas del Odiel",
             "hu": "Marismas del Odiel (Sós mocsarak)",
             "ro": "Mlaștinile Odiel",
-            "en": "Marismas del Odiel"
+            "en": "Marismas del Odiel",
+            "es": "Marismas del Odiel"
           },
           "coords": [
             -6.925,
@@ -636,7 +689,8 @@
             "de": "Nehmen Sie ein Fernglas mit, um die Flamingos zu beobachten.",
             "hu": "Hozzon magával távcsövet a flamingók megfigyeléséhez.",
             "ro": "Luați un binoclu pentru a observa flamingo.",
-            "en": "Bring binoculars to spot the flamingos."
+            "en": "Bring binoculars to spot the flamingos.",
+            "es": "Lleva prismáticos para ver a los flamencos."
           }
         },
         {
@@ -644,7 +698,8 @@
             "de": "Santuario de la Cinta",
             "hu": "Santuario de la Cinta",
             "ro": "Sanctuarul din La Cinta",
-            "en": "Santuario de la Cinta"
+            "en": "Santuario de la Cinta",
+            "es": "Santuario de la Cinta"
           },
           "coords": [
             -6.938,
@@ -659,7 +714,8 @@
             "de": "Der Aufstieg lohnt sich für die Aussicht und die spirituelle Atmosphäre.",
             "hu": "Megéri felmenni a kilátásért és a spirituális légkörért.",
             "ro": "Urcușul merită pentru priveliște și atmosfera spirituală.",
-            "en": "The climb is worth it for the views and the spiritual atmosphere."
+            "en": "The climb is worth it for the views and the spiritual atmosphere.",
+            "es": "La subida merece la pena por las vistas y la atmósfera espiritual."
           }
         },
         {
@@ -667,7 +723,8 @@
             "de": "Museum von Huelva",
             "hu": "Huelva Múzeum",
             "ro": "Muzeul din Huelva",
-            "en": "Museum of Huelva"
+            "en": "Museum of Huelva",
+            "es": "Museo de Huelva"
           },
           "coords": [
             -6.9425,
@@ -682,7 +739,8 @@
             "de": "Ein schöner Abschluss des Tages, um tiefer in die Geschichte einzutauchen.",
             "hu": "Szép befejezése a napnak, hogy mélyebben elmerüljön a történelemben.",
             "ro": "Un final frumos de zi pentru a aprofunda istoria.",
-            "en": "A nice end to the day to delve deeper into history."
+            "en": "A nice end to the day to delve deeper into history.",
+            "es": "Un buen final de día para profundizar en la historia."
           }
         }
       ],
@@ -690,7 +748,8 @@
         "de": "Schwingen Sie sich aufs Rad und starten Sie bei der prächtigen Casa Colón. Eine kurze Fahrt führt Sie zur Kathedrale La Merced, bevor Sie die Meeresbrise am industriellen Muelle del Tinto spüren. Am Mittag radeln Sie zum beeindruckenden Kolumbus-Denkmal und tauchen dann in die Natur der Marismas del Odiel ein, einem Paradies für Vögel. Erklimmen Sie am Nachmittag den Hügel zum Santuario de la Cinta für eine atemberaubende Aussicht. Beenden Sie Ihre Tour mit einer Dosis Geschichte im Museum von Huelva.",
         "hu": "Pattanjon biciklire, és induljon a csodálatos Casa Colóntól. Egy rövid tekerés után eljut a La Merced katedrálishoz, mielőtt megérezné a tengeri szellőt az ipari Muelle del Tintónál. Délben tekerjen el a lenyűgöző Kolumbusz-emlékműhöz, majd merüljön el a madárparadicsomként ismert Marismas del Odiel természetében. Délután mássza meg a dombot a Santuario de la Cintához a lélegzetelállító kilátásért. Zárja a túrát egy adag történelemmel a Huelva Múzeumban.",
         "ro": "Urcați-vă pe bicicletă și porniți de la magnifica Casa Colón. O scurtă plimbare vă duce la Catedrala La Merced înainte de a simți briza mării la industrialul Muelle del Tinto. La amiază, pedalați spre impresionantul monument al lui Columb și apoi scufundați-vă în natura din Marismas del Odiel, un paradis al păsărilor. După-amiaza, urcați dealul spre Sanctuarul din La Cinta pentru o priveliște uluitoare. Încheiați turul cu o doză de istorie la Muzeul din Huelva.",
-        "en": "Hop on your bike and start at the magnificent Casa Colón. A short ride takes you to La Merced Cathedral before feeling the sea breeze at the industrial Muelle del Tinto. At noon, cycle to the impressive Columbus monument and then immerse yourself in the nature of Marismas del Odiel, a bird paradise. In the afternoon, climb the hill to the Santuario de la Cinta for a breathtaking view. End your tour with a dose of history at the Museum of Huelva."
+        "en": "Hop on your bike and start at the magnificent Casa Colón. A short ride takes you to La Merced Cathedral before feeling the sea breeze at the industrial Muelle del Tinto. At noon, cycle to the impressive Columbus monument and then immerse yourself in the nature of Marismas del Odiel, a bird paradise. In the afternoon, climb the hill to the Santuario de la Cinta for a breathtaking view. End your tour with a dose of history at the Museum of Huelva.",
+        "es": "Súbete a la bici y comienza en la magnífica Casa Colón. Un corto paseo te lleva a la Catedral de La Merced antes de sentir la brisa marina en el industrial Muelle del Tinto. Al mediodía, pedalea hasta el impresionante monumento a Colón y luego sumérgete en la naturaleza de las Marismas del Odiel, paraíso de aves. Por la tarde sube al Santuario de la Cinta para una vista impresionante. Termina la ruta con una dosis de historia en el Museo de Huelva."
       },
       "gastro_picks": {
         "de": [
@@ -862,6 +921,11 @@
           "Check your bike's condition before you start.",
           "Use the cycle paths along the river.",
           "Always lock your bike securely when you park it."
+        ],
+        "es": [
+          "Revisa el estado de tu bicicleta antes de empezar.",
+          "Usa los carriles bici junto al río.",
+          "Asegura siempre bien la bicicleta cuando la estaciones."
         ]
       },
       "variants": {
@@ -870,7 +934,8 @@
             "de": "Ein mutiger Start an der Casa Colón trotz Nieselregen. Wir radeln vorsichtig zur Kathedrale La Merced, um die erste Schauerpause einzulegen. Mittags geht es zum Muelle del Tinto, wo der nasse Asphalt volle Konzentration erfordert. Der Nachmittag in den Marismas del Odiel ist windig und feucht, bietet aber dramatische Wolkenformationen. Den Tag schließen wir trocken im Museum von Huelva ab, während das Fahrrad sicher geparkt ist.",
             "hu": "Bátor kezdés a Casa Colónnál a szemerkélő eső ellenére. Óvatosan tekerünk a La Merced katedrálishoz az első pihenőre. Délben a Muelle del Tinto következik, ahol a vizes aszfalt teljes koncentrációt igényel. A délután a Marismas del Odiel területén szeles és nyirkos, de drámai felhőket látni. A napot szárazon, a Huelva Múzeumban zárjuk, miközben a bicikli biztonságban pihen.",
             "ro": "Începem cu curaj la Casa Colón, în ciuda burniței. Pedalăm cu atenție spre Catedrala La Merced pentru prima pauză. La prânz mergem la Muelle del Tinto, unde asfaltul umed necesită concentrare maximă. După-amiaza în Marismas del Odiel este vântoasă și umedă, dar oferă nori dramatici. Încheiem ziua la adăpost în Muzeul din Huelva, cu bicicleta parcată în siguranță.",
-            "en": "A brave start at Casa Colón despite the drizzle. We cycle carefully to La Merced Cathedral for the first break. At noon, we head to Muelle del Tinto, where wet asphalt requires full concentration. The afternoon in Marismas del Odiel is windy and damp but offers dramatic cloud formations. We end the day dry in the Museum of Huelva while the bike is safely parked."
+            "en": "A brave start at Casa Colón despite the drizzle. We cycle carefully to La Merced Cathedral for the first break. At noon, we head to Muelle del Tinto, where wet asphalt requires full concentration. The afternoon in Marismas del Odiel is windy and damp but offers dramatic cloud formations. We end the day dry in the Museum of Huelva while the bike is safely parked.",
+            "es": "Un valiente inicio en Casa Colón pese a la llovizna. Pedaleamos con cuidado hasta la Catedral de La Merced para la primera parada. Al mediodía vamos al Muelle del Tinto, donde el asfalto mojado exige concentración completa. La tarde en las Marismas del Odiel es ventosa y húmeda pero ofrece formaciones nubosas dramáticas. Terminamos el día bajo techo en el Museo de Huelva con la bici bien aparcada."
           },
           "stops": [
             {
@@ -879,7 +944,8 @@
                 "de": "Prüfen Sie den Reifendruck für nassen Boden.",
                 "hu": "Ellenőrizze a guminyomást a vizes talajhoz.",
                 "ro": "Verificați presiunea roților pentru teren umed.",
-                "en": "Check tire pressure for wet ground."
+                "en": "Check tire pressure for wet ground.",
+                "es": "Comprueba la presión de los neumáticos para suelo húmedo."
               }
             },
             {
@@ -888,7 +954,8 @@
                 "de": "Fahrradständer sind oft ungeschützt.",
                 "hu": "A biciklitárolók gyakran fedetlenek.",
                 "ro": "Suporturile de biciclete sunt adesea neacoperite.",
-                "en": "Bike racks are often unsheltered."
+                "en": "Bike racks are often unsheltered.",
+                "es": "Los aparcamientos para bicis suelen estar sin cubierta."
               }
             },
             {
@@ -897,7 +964,8 @@
                 "de": "Vorsicht auf den Metallfugen des Radwegs.",
                 "hu": "Vigyázat a kerékpárút fém illesztéseinél.",
                 "ro": "Atenție la îmbinările metalice de pe pistă.",
-                "en": "Caution on the metal joints of the bike path."
+                "en": "Caution on the metal joints of the bike path.",
+                "es": "Precaución con las uniones metálicas del carril bici."
               }
             },
             {
@@ -906,7 +974,8 @@
                 "de": "Exponierte Stelle, starker Wind möglich.",
                 "hu": "Kitett hely, erős szél lehetséges.",
                 "ro": "Loc expus, vânt puternic posibil.",
-                "en": "Exposed location, strong wind possible."
+                "en": "Exposed location, strong wind possible.",
+                "es": "Ubicación expuesta, puede haber viento fuerte."
               }
             },
             {
@@ -915,7 +984,8 @@
                 "de": "Vermeiden Sie unbefestigte Wege bei Regen.",
                 "hu": "Esőben kerülje a burkolatlan utakat.",
                 "ro": "Evitați drumurile neasfaltate pe ploaie.",
-                "en": "Avoid unpaved paths during rain."
+                "en": "Avoid unpaved paths during rain.",
+                "es": "Evita caminos sin pavimentar durante la lluvia."
               }
             },
             {
@@ -924,7 +994,8 @@
                 "de": "Der Anstieg kann rutschig sein.",
                 "hu": "Az emelkedő csúszós lehet.",
                 "ro": "Urcarea poate fi alunecoasă.",
-                "en": "The climb can be slippery."
+                "en": "The climb can be slippery.",
+                "es": "La subida puede volverse resbaladiza."
               }
             },
             {
@@ -933,7 +1004,8 @@
                 "de": "Ideal zum Aufwärmen und Trocknen.",
                 "hu": "Ideális a bemelegedésre és száradásra.",
                 "ro": "Ideal pentru încălzire și uscare.",
-                "en": "Ideal for warming up and drying off."
+                "en": "Ideal for warming up and drying off.",
+                "es": "Ideal para entrar en calor y secarse."
               }
             }
           ],
@@ -961,6 +1033,12 @@
               "Brake early on wet cobblestones.",
               "Avoid deep puddles in the marshes.",
               "A saddle cover will keep your pants dry."
+            ],
+            "es": [
+              "Lleva un chubasquero de color llamativo para ser visible.",
+              "Frena con antelación en los adoquines mojados.",
+              "Evita charcos profundos en las marismas.",
+              "Una funda para el sillín mantendrá los pantalones secos."
             ]
           }
         },
@@ -969,7 +1047,8 @@
             "de": "Start bei kühler Luft an der Casa Colón. Die Fahrt zur Kathedrale ist belebend im hellen Winterlicht. Mittags radeln wir am Odiel entlang zum Muelle del Tinto, wo die Brise erfrischend ist. Der Nachmittag in den Marismas del Odiel ist perfekt für die Vogelbeobachtung, da viele Zugvögel hier überwintern. Zum Abschluss geht es über das Santuario zum Museum, bevor die Dämmerung einsetzt.",
             "hu": "Indulás a hűvös levegőn a Casa Colónnál. A tekerés a katedrálishoz élénkítő a fényes téli világításban. Délben az Odiel mentén haladunk a Muelle del Tinto felé, ahol frissítő a szellő. A délután a Marismas del Odielnél tökéletes madárlesre, mivel sok vándormadár itt telel. Zárásként a Santuario érintésével a múzeumba megyünk a szürkület előtt.",
             "ro": "Pornim în aerul rece de la Casa Colón. Drumul spre catedrală este revigorant în lumina iernii. La prânz pedalăm pe lângă râul Odiel spre Muelle del Tinto, unde briza este răcoritoare. După-amiaza în Marismas del Odiel este perfectă pentru observarea păsărilor migratoare. La final, trecem pe la Santuario spre muzeu înainte de lăsarea serii.",
-            "en": "Start in the cool air at Casa Colón. The ride to the cathedral is invigorating in the bright winter light. At noon, we cycle along the Odiel to Muelle del Tinto, where the breeze is refreshing. The afternoon in Marismas del Odiel is perfect for birdwatching, as many migratory birds winter here. Finally, we head via the Santuario to the museum before dusk falls."
+            "en": "Start in the cool air at Casa Colón. The ride to the cathedral is invigorating in the bright winter light. At noon, we cycle along the Odiel to Muelle del Tinto, where the breeze is refreshing. The afternoon in Marismas del Odiel is perfect for birdwatching, as many migratory birds winter here. Finally, we head via the Santuario to the museum before dusk falls.",
+            "es": "Comienza en el aire fresco en Casa Colón. El paseo hasta la catedral es vigorizante con la brillante luz invernal. Al mediodía pedaleamos junto al Odiel hasta el Muelle del Tinto, donde la brisa es refrescante. La tarde en las Marismas del Odiel es perfecta para la observación de aves, muchas migratorias pasan el invierno aquí. Finalmente subimos vía el Santuario hasta el museo antes del anochecer."
           },
           "stops": [
             {
@@ -978,7 +1057,8 @@
                 "de": "Handschuhe gegen den kalten Fahrtwind.",
                 "hu": "Kesztyű ajánlott a hideg menetszél ellen.",
                 "ro": "Mănuși recomandate împotriva vântului rece.",
-                "en": "Gloves recommended against the cold wind."
+                "en": "Gloves recommended against the cold wind.",
+                "es": "Se recomiendan guantes contra el viento frío."
               }
             },
             {
@@ -987,7 +1067,8 @@
                 "de": "Schöner Fotostopp im klaren Winterlicht.",
                 "hu": "Szép fotómegálló a tiszta téli fényben.",
                 "ro": "Stop foto frumos în lumina clară de iarnă.",
-                "en": "Beautiful photo stop in clear winter light."
+                "en": "Beautiful photo stop in clear winter light.",
+                "es": "Hermoso lugar para fotos con la luz invernal clara."
               }
             },
             {
@@ -996,7 +1077,8 @@
                 "de": "Tiefstehende Sonne kann beim Fahren blenden.",
                 "hu": "Az alacsony nap elvakíthat tekerés közben.",
                 "ro": "Soarele jos poate fi orbitor în timpul mersului.",
-                "en": "Low sun can be blinding while cycling."
+                "en": "Low sun can be blinding while cycling.",
+                "es": "El sol bajo puede deslumbrar mientras pedaleas."
               }
             },
             {
@@ -1005,7 +1087,8 @@
                 "de": "Am späten Nachmittag wird es hier kühl.",
                 "hu": "Késő délután itt lehűl a levegő.",
                 "ro": "După-amiaza târziu se face răcoare aici.",
-                "en": "It gets chilly here in the late afternoon."
+                "en": "It gets chilly here in the late afternoon.",
+                "es": "Hace frío al final de la tarde."
               }
             },
             {
@@ -1014,7 +1097,8 @@
                 "de": "Beste Zeit für Zugvögel ist der Winter.",
                 "hu": "A vándormadarakhoz a tél a legjobb időszak.",
                 "ro": "Cea mai bună perioadă pentru păsări e iarna.",
-                "en": "Winter is the best time for migratory birds."
+                "en": "Winter is the best time for migratory birds.",
+                "es": "El invierno es la mejor época para aves migratorias."
               }
             },
             {
@@ -1023,7 +1107,8 @@
                 "de": "Genießen Sie die Aussicht vor Sonnenuntergang.",
                 "hu": "Élvezze a kilátást naplemente előtt.",
                 "ro": "Bucurați-vă de priveliște înainte de apus.",
-                "en": "Enjoy the view before sunset."
+                "en": "Enjoy the view before sunset.",
+                "es": "Disfruta de la vista antes de la puesta de sol."
               }
             },
             {
@@ -1032,7 +1117,8 @@
                 "de": "Guter Ort, wenn es draußen schattig wird.",
                 "hu": "Jó hely, amikor kint árnyékossá válik az idő.",
                 "ro": "Loc bun când se lasă umbra afară.",
-                "en": "Good place when it gets shady outside."
+                "en": "Good place when it gets shady outside.",
+                "es": "Buen lugar si se hace sombra afuera."
               }
             }
           ],
@@ -1060,6 +1146,12 @@
               "The marshes are a natural highlight in winter.",
               "Be mindful of the shorter daylight hours.",
               "Plan for warm drinks in a thermos."
+            ],
+            "es": [
+              "Lleva un chal cortavientos encima de la ropa.",
+              "Las marismas son un atractivo natural destacado en invierno.",
+              "Ten en cuenta las horas de luz más cortas.",
+              "Planea bebidas calientes en un termo."
             ]
           }
         }
@@ -1078,7 +1170,8 @@
             "de": "Cluster A: Santuario de la Cinta",
             "hu": "A csoport: Santuario de la Cinta",
             "ro": "Cluster A: Sanctuarul din La Cinta",
-            "en": "Cluster A: Santuario de la Cinta"
+            "en": "Cluster A: Santuario de la Cinta",
+            "es": "Agrupación A: Santuario de la Cinta"
           },
           "coords": [
             -6.938,
@@ -1094,7 +1187,8 @@
             "de": "Parken Sie hier und genießen Sie die Panoramaaussicht über die Stadt.",
             "hu": "Parkoljon itt, és élvezze a városra nyíló panorámát.",
             "ro": "Parcați aici și bucurați-vă de vederea panoramică asupra orașului.",
-            "en": "Park here and enjoy the panoramic view over the city."
+            "en": "Park here and enjoy the panoramic view over the city.",
+            "es": "Aparca aquí y disfruta de la vista panorámica sobre la ciudad."
           }
         },
         {
@@ -1102,7 +1196,8 @@
             "de": "Cluster B: Kathedrale La Merced",
             "hu": "B csoport: La Merced katedrális",
             "ro": "Cluster B: Catedrala La Merced",
-            "en": "Cluster B: La Merced Cathedral"
+            "en": "Cluster B: La Merced Cathedral",
+            "es": "Agrupación B: Catedral de La Merced"
           },
           "coords": [
             -6.9488,
@@ -1118,7 +1213,8 @@
             "de": "Finden Sie einen Parkplatz in der Nähe und erkunden Sie das Zentrum zu Fuß.",
             "hu": "Keressen egy közeli parkolót, és fedezze fel a központot gyalog.",
             "ro": "Găsiți o parcare în apropiere și explorați centrul pe jos.",
-            "en": "Find a nearby parking spot and explore the center on foot."
+            "en": "Find a nearby parking spot and explore the center on foot.",
+            "es": "Encuentra un estacionamiento cercano y explora el centro a pie."
           }
         },
         {
@@ -1126,7 +1222,8 @@
             "de": "Cluster B: Kirche San Pedro",
             "hu": "B csoport: San Pedro-templom",
             "ro": "Cluster B: Biserica San Pedro",
-            "en": "Cluster B: San Pedro Church"
+            "en": "Cluster B: San Pedro Church",
+            "es": "Agrupación B: Iglesia de San Pedro"
           },
           "coords": [
             -6.953,
@@ -1142,7 +1239,8 @@
             "de": "Ein kurzer Spaziergang von der Kathedrale durch die Altstadt.",
             "hu": "Rövid séta a katedrálistól az óvároson keresztül.",
             "ro": "O scurtă plimbare de la catedrală prin centrul vechi.",
-            "en": "A short walk from the cathedral through the old town."
+            "en": "A short walk from the cathedral through the old town.",
+            "es": "A poca distancia de la catedral, paseando por el casco antiguo."
           }
         },
         {
@@ -1150,7 +1248,8 @@
             "de": "Cluster C: Marismas del Odiel",
             "hu": "C csoport: Marismas del Odiel",
             "ro": "Cluster C: Mlaștinile Odiel",
-            "en": "Cluster C: Marismas del Odiel"
+            "en": "Cluster C: Marismas del Odiel",
+            "es": "Agrupación C: Marismas del Odiel"
           },
           "coords": [
             -6.925,
@@ -1166,7 +1265,8 @@
             "de": "Fahren Sie zum Besucherzentrum, um Karten und Informationen zu erhalten.",
             "hu": "Hajtson el a látogatóközponthoz térképekért és információkért.",
             "ro": "Conduceți la centrul de vizitatori pentru hărți și informații.",
-            "en": "Drive to the visitor center for maps and information."
+            "en": "Drive to the visitor center for maps and information.",
+            "es": "Conduce hasta el centro de visitantes para mapas e información."
           }
         },
         {
@@ -1174,7 +1274,8 @@
             "de": "Cluster D: Muelle del Tinto",
             "hu": "D csoport: Muelle del Tinto",
             "ro": "Cluster D: Muelle del Tinto",
-            "en": "Cluster D: Muelle del Tinto"
+            "en": "Cluster D: Muelle del Tinto",
+            "es": "Agrupación D: Muelle del Tinto"
           },
           "coords": [
             -6.9535,
@@ -1190,7 +1291,8 @@
             "de": "Parken Sie am Anfang des Piers und gehen Sie bis zum Ende.",
             "hu": "Parkoljon a stég elején, és sétáljon el a végéig.",
             "ro": "Parcați la începutul digului și mergeți până la capăt.",
-            "en": "Park at the start of the pier and walk to the end."
+            "en": "Park at the start of the pier and walk to the end.",
+            "es": "Aparca al inicio del muelle y camina hasta el final."
           }
         },
         {
@@ -1198,7 +1300,8 @@
             "de": "Cluster D: Denkmal für den Entdeckungsglauben",
             "hu": "D csoport: A Felfedezés Hitének Emlékműve",
             "ro": "Cluster D: Monumentul Credinței Descoperitoare",
-            "en": "Cluster D: Monument to the Discovery Faith"
+            "en": "Cluster D: Monument to the Discovery Faith",
+            "es": "Agrupación D: Monumento a la Fe Descubridora"
           },
           "coords": [
             -6.958,
@@ -1214,7 +1317,8 @@
             "de": "Der perfekte Ort, um den Tag ausklingen zu lassen und den Sonnenuntergang zu beobachten.",
             "hu": "Tökéletes hely a nap lezárására és a naplemente megtekintésére.",
             "ro": "Locul perfect pentru a încheia ziua și a privi apusul.",
-            "en": "The perfect place to end the day and watch the sunset."
+            "en": "The perfect place to end the day and watch the sunset.",
+            "es": "El lugar perfecto para terminar el día y ver la puesta de sol."
           }
         }
       ],
@@ -1222,7 +1326,8 @@
         "de": "Beginnen Sie Ihren Tag mit dem Auto am Santuario de la Cinta, um einen atemberaubenden Blick über Huelva zu genießen. Fahren Sie dann ins Stadtzentrum, parken Sie und erkunden Sie zu Fuß die Kathedrale La Merced und die Kirche San Pedro. Am Mittag fahren Sie in das ruhige Naturschutzgebiet Marismas del Odiel. Am Nachmittag fahren Sie zum Hafen, um das industrielle Erbe des Muelle del Tinto zu erleben. Schließen Sie Ihren Tag mit einem kurzen Spaziergang zum imposanten Kolumbus-Denkmal ab, um den Sonnenuntergang zu genießen.",
         "hu": "Kezdje a napot autóval a Santuario de la Cintánál, hogy gyönyörködhessen Huelva lélegzetelállító látványában. Ezután hajtson be a városközpontba, parkoljon le, és fedezze fel gyalog a La Merced katedrálist és a San Pedro templomot. Délben hajtson ki a nyugodt Marismas del Odiel természetvédelmi területre. Délután vezessen a kikötőbe, hogy megtapasztalja a Muelle del Tinto ipari örökségét. Zárja a napot egy rövid sétával a lenyűgöző Kolumbusz-emlékműhöz, hogy élvezze a naplementét.",
         "ro": "Începeți ziua cu mașina la Sanctuarul din La Cinta pentru o priveliște uluitoare asupra orașului Huelva. Apoi, conduceți în centrul orașului, parcați și explorați pe jos Catedrala La Merced și Biserica San Pedro. La prânz, mergeți cu mașina la rezervația naturală liniștită Marismas del Odiel. După-amiaza, conduceți spre port pentru a experimenta moștenirea industrială a Muelle del Tinto. Încheiați ziua cu o scurtă plimbare până la impunătorul monument al lui Columb pentru a vă bucura de apus.",
-        "en": "Start your day by car at the Santuario de la Cinta for a breathtaking view over Huelva. Then, drive to the city center, park, and explore La Merced Cathedral and San Pedro Church on foot. At noon, drive out to the tranquil Marismas del Odiel nature reserve. In the afternoon, head to the port to experience the industrial heritage of Muelle del Tinto. Conclude your day with a short walk to the imposing Columbus monument to enjoy the sunset."
+        "en": "Start your day by car at the Santuario de la Cinta for a breathtaking view over Huelva. Then, drive to the city center, park, and explore La Merced Cathedral and San Pedro Church on foot. At noon, drive out to the tranquil Marismas del Odiel nature reserve. In the afternoon, head to the port to experience the industrial heritage of Muelle del Tinto. Conclude your day with a short walk to the imposing Columbus monument to enjoy the sunset.",
+        "es": "Empieza el día en coche en el Santuario de la Cinta para una vista espectacular sobre Huelva. Luego conduce al centro, aparca y explora la Catedral de La Merced y la iglesia de San Pedro a pie. Al mediodía, conduce hasta la tranquila reserva natural de las Marismas del Odiel. Por la tarde dirígete al puerto para vivir el patrimonio industrial del Muelle del Tinto. Concluye el día con un breve paseo hasta el imponente monumento a Colón para disfrutar de la puesta de sol."
       },
       "gastro_picks": {
         "de": [
@@ -1362,6 +1467,11 @@
           "Use Park and Ride options to decongest the city center.",
           "Be mindful of parking fees in the center.",
           "Plan your drives outside of peak hours to avoid traffic."
+        ],
+        "es": [
+          "Usa opciones de aparcamiento y transporte para descongestionar el centro.",
+          "Ten en cuenta las tarifas de estacionamiento en el centro.",
+          "Planifica tus desplazamientos fuera de las horas punta para evitar atascos."
         ]
       },
       "variants": {
@@ -1370,7 +1480,8 @@
             "de": "Bequemer Start am Santuario de la Cinta, während wir den Regen vom Fenster aus beobachten. Mittags steuern wir die Kathedrale und San Pedro an, wobei das Parkhaus in der Nähe trockene Wege garantiert. Der Nachmittag in den Marismas del Odiel erlaubt Vogelbeobachtung direkt aus dem Auto. Zum Abschluss besuchen wir den Muelle del Tinto und das Monument, geschützt durch kurze Sprints vom Parkplatz.",
             "hu": "Kényelmes kezdés a Santuario de la Cintánál, miközben az ablakból nézzük az esőt. Délben a katedrális és a San Pedro templom felé vesszük az irányt, a közeli parkolóház száraz utat biztosít. A délután a Marismas del Odielnél lehetővé teszi a madárlesést közvetlenül az autóból. Végezetül a Muelle del Tinto és a Monument következik, rövid futásokkal védve a parkolótól.",
             "ro": "Începem confortabil la Santuario de la Cinta, privind ploaia de la fereastră. La prânz mergem spre catedrală și San Pedro, parcarea din apropiere garantând un drum uscat. După-amiaza în Marismas del Odiel permite observarea păsărilor direct din mașină. La final vizităm Muelle del Tinto și Monumentul, protejați de sprinturi scurte din parcare.",
-            "en": "Comfortable start at Santuario de la Cinta while watching the rain from the window. At noon, we head to the cathedral and San Pedro, with a nearby parking garage ensuring dry access. The afternoon in Marismas del Odiel allows for birdwatching directly from the car. Finally, we visit Muelle del Tinto and the Monument, protected by short sprints from the parking lot."
+            "en": "Comfortable start at Santuario de la Cinta while watching the rain from the window. At noon, we head to the cathedral and San Pedro, with a nearby parking garage ensuring dry access. The afternoon in Marismas del Odiel allows for birdwatching directly from the car. Finally, we visit Muelle del Tinto and the Monument, protected by short sprints from the parking lot.",
+            "es": "Comienzo cómodo en el Santuario de la Cinta observando la lluvia desde la ventana. Al mediodía nos dirigimos a la catedral y a San Pedro; un aparcamiento cercano permite acceso seco. La tarde en las Marismas del Odiel permite avistamiento de aves directamente desde el coche. Finalmente, visitamos el Muelle del Tinto y el Monumento, protegidos por cortas carreras desde el aparcamiento."
           },
           "stops": [
             {
@@ -1379,7 +1490,8 @@
                 "de": "Parken Sie nah am Kircheneingang.",
                 "hu": "Parkoljon közel a templom bejáratához.",
                 "ro": "Parcați aproape de intrarea bisericii.",
-                "en": "Park close to the church entrance."
+                "en": "Park close to the church entrance.",
+                "es": "Aparca cerca de la entrada de la iglesia."
               }
             },
             {
@@ -1388,7 +1500,8 @@
                 "de": "Tiefgarage an der Plaza de Toros nutzen.",
                 "hu": "Használja a Plaza de Toros mélygarázst.",
                 "ro": "Folosiți parcarea de la Plaza de Toros.",
-                "en": "Use the underground parking at Plaza de Toros."
+                "en": "Use the underground parking at Plaza de Toros.",
+                "es": "Usa el parking subterráneo de la Plaza de Toros."
               }
             },
             {
@@ -1397,7 +1510,8 @@
                 "de": "Regenschirm für den Weg vom Parkplatz.",
                 "hu": "Esernyő a parkolótól vezető útra.",
                 "ro": "Umbrelă pentru drumul de la parcare.",
-                "en": "Umbrella needed for the walk from parking."
+                "en": "Umbrella needed for the walk from parking.",
+                "es": "Se necesita paraguas para el paseo desde el aparcamiento."
               }
             },
             {
@@ -1406,7 +1520,8 @@
                 "de": "Vögel beobachten ohne das Auto zu verlassen.",
                 "hu": "Madárles az autóból való kiszállás nélkül.",
                 "ro": "Observați păsările fără a părăsi mașina.",
-                "en": "Watch birds without leaving the car."
+                "en": "Watch birds without leaving the car.",
+                "es": "Observa aves sin salir del coche."
               }
             },
             {
@@ -1415,7 +1530,8 @@
                 "de": "Kurzer Stopp am Straßenrand möglich.",
                 "hu": "Rövid megállás az út szélén lehetséges.",
                 "ro": "Oprire scurtă la marginea drumului posibilă.",
-                "en": "Short roadside stop possible."
+                "en": "Short roadside stop possible.",
+                "es": "Parada corta posible al borde de la carretera."
               }
             },
             {
@@ -1424,7 +1540,8 @@
                 "de": "Der Parkplatz kann bei Regen schlammig sein.",
                 "hu": "A parkoló esőben sáros lehet.",
                 "ro": "Parcarea poate fi noroioasă pe ploaie.",
-                "en": "The parking area can be muddy in the rain."
+                "en": "The parking area can be muddy in the rain.",
+                "es": "La zona de aparcamiento puede embarrarse con la lluvia."
               }
             }
           ],
@@ -1452,6 +1569,12 @@
               "Avoid flooded roads near the port.",
               "Window fogging risk is high in the rain.",
               "Keep towels ready in the trunk."
+            ],
+            "es": [
+              "Utiliza aparcamientos en el centro de la ciudad.",
+              "Evita carreteras inundadas cerca del puerto.",
+              "Al haber lluvia, el empañamiento de ventanas es alto.",
+              "Ten toallas listas en el maletero."
             ]
           }
         },
@@ -1460,7 +1583,8 @@
             "de": "Morgenfahrt zum Santuario de la Cinta bei klarer Sicht über Huelva. Mittags erkunden wir die Altstadtkirchen, während das Auto in der Sonne parkt und aufwärmt. Der Nachmittag in den Marismas del Odiel ist ideal für eine Safarifahrt zu den Flamingos. Den Tag beenden wir am Monumento a la Fe Descubridora, wo die Wintersonne spektakulär im Meer versinkt.",
             "hu": "Reggeli autózás a Santuario de la Cintához, tiszta kilátással Huelvára. Délben az óvárosi templomokat fedezzük fel, miközben az autó a napon parkolva felmelegszik. A délután a Marismas del Odielnél ideális egy szafariútra a flamingókhoz. A napot a Monumento a la Fe Descubridora emlékműnél zárjuk, ahol a téli nap látványosan süllyed a tengerbe.",
             "ro": "Drum de dimineață spre Santuario de la Cinta cu vedere clară peste Huelva. La prânz explorăm bisericile din centrul vechi, în timp ce mașina se încălzește la soare. După-amiaza în Marismas del Odiel este ideală pentru un safari auto la flamingi. Încheiem ziua la Monumento a la Fe Descubridora, unde soarele de iarnă apune spectaculos în mare.",
-            "en": "Morning drive to Santuario de la Cinta with clear views over Huelva. At noon, we explore old town churches while the car warms up in the sun. The afternoon in Marismas del Odiel is ideal for a safari drive to see flamingos. We end the day at Monumento a la Fe Descubridora, where the winter sun sinks spectacularly into the sea."
+            "en": "Morning drive to Santuario de la Cinta with clear views over Huelva. At noon, we explore old town churches while the car warms up in the sun. The afternoon in Marismas del Odiel is ideal for a safari drive to see flamingos. We end the day at Monumento a la Fe Descubridora, where the winter sun sinks spectacularly into the sea.",
+            "es": "Conduce por la mañana hasta el Santuario de la Cinta con vistas despejadas sobre Huelva. Al mediodía exploramos iglesias del casco antiguo mientras el coche se calienta al sol. La tarde en las Marismas del Odiel es ideal para un safari en coche para ver flamencos. Terminamos el día en el Monumento a la Fe Descubridora, donde el sol invernal se hunde espectacularmente en el mar."
           },
           "stops": [
             {
@@ -1469,7 +1593,8 @@
                 "de": "Beste Fernsicht an klaren Wintertagen.",
                 "hu": "Legjobb kilátás a tiszta téli napokon.",
                 "ro": "Cea mai bună vizibilitate în zilele de iarnă.",
-                "en": "Best distant views on clear winter days."
+                "en": "Best distant views on clear winter days.",
+                "es": "Mejores vistas lejanas en días claros de invierno."
               }
             },
             {
@@ -1478,7 +1603,8 @@
                 "de": "Sonnige Parkplätze bevorzugen.",
                 "hu": "A napos parkolóhelyeket részesítse előnyben.",
                 "ro": "Preferați locurile de parcare însorite.",
-                "en": "Prefer sunny parking spots."
+                "en": "Prefer sunny parking spots.",
+                "es": "Prefiere plazas de aparcamiento soleadas."
               }
             },
             {
@@ -1487,7 +1613,8 @@
                 "de": "Die Gassen sind im Winter angenehm sonnig.",
                 "hu": "A szűk utcák télen kellemesen naposak.",
                 "ro": "Străduțele sunt plăcut însorite iarna.",
-                "en": "The alleys are pleasantly sunny in winter."
+                "en": "The alleys are pleasantly sunny in winter.",
+                "es": "Las callejuelas son agradablemente soleadas en invierno."
               }
             },
             {
@@ -1496,7 +1623,8 @@
                 "de": "Fenster nur kurz für Fotos öffnen.",
                 "hu": "Az ablakot csak rövid időre nyissa le fotózáshoz.",
                 "ro": "Deschideți fereastra scurt doar pentru poze.",
-                "en": "Open windows only briefly for photos."
+                "en": "Open windows only briefly for photos.",
+                "es": "Abre las ventanas solo brevemente para las fotos."
               }
             },
             {
@@ -1505,7 +1633,8 @@
                 "de": "Windgeschützte Parkplätze am Kai suchen.",
                 "hu": "Szélvédett parkolót keressen a rakparton.",
                 "ro": "Căutați parcări ferite de vânt la chei.",
-                "en": "Look for wind-sheltered parking at the pier."
+                "en": "Look for wind-sheltered parking at the pier.",
+                "es": "Busca aparcamiento resguardado del viento en el muelle."
               }
             },
             {
@@ -1514,7 +1643,8 @@
                 "de": "Heizung anlassen beim Warten auf den Sonnenuntergang.",
                 "hu": "Hagyja menni a fűtést a naplementére várva.",
                 "ro": "Lăsați căldura pornită așteptând apusul.",
-                "en": "Keep the heater on while waiting for sunset."
+                "en": "Keep the heater on while waiting for sunset.",
+                "es": "Mantén la calefacción encendida mientras esperas el atardecer."
               }
             }
           ],
@@ -1542,6 +1672,12 @@
               "Stay warm in the car while at the marshes.",
               "Note the early dusk when planning your route.",
               "Air conditioning helps against dry winter air."
+            ],
+            "es": [
+              "El sol invernal puede quedar bajo mientras conduces.",
+              "Mantente abrigado en el coche mientras estás en las marismas.",
+              "Ten en cuenta el anochecer temprano al planear la ruta.",
+              "El aire acondicionado ayuda contra el aire seco de invierno."
             ]
           }
         }
@@ -1560,7 +1696,8 @@
             "de": "Cluster A: Casa Colón",
             "hu": "A csoport: Casa Colón",
             "ro": "Cluster A: Casa Colón",
-            "en": "Cluster A: Casa Colón"
+            "en": "Cluster A: Casa Colón",
+            "es": "Cluster A: Casa Colón"
           },
           "coords": [
             -6.9458,
@@ -1576,7 +1713,8 @@
             "de": "Nehmen Sie einen Bus zum Plaza del Punto, von wo aus es nur ein kurzer Spaziergang ist.",
             "hu": "Menjen busszal a Plaza del Puntóig, ahonnan csak egy rövid séta.",
             "ro": "Luați un autobuz până la Plaza del Punto, de unde este o scurtă plimbare.",
-            "en": "Take a bus to Plaza del Punto, from where it's a short walk."
+            "en": "Take a bus to Plaza del Punto, from where it's a short walk.",
+            "es": "Toma un autobús hasta la Plaza del Punto, desde donde es un corto paseo."
           }
         },
         {
@@ -1584,7 +1722,8 @@
             "de": "Cluster A: Museum von Huelva",
             "hu": "A csoport: Huelva Múzeum",
             "ro": "Cluster A: Muzeul din Huelva",
-            "en": "Cluster A: Museum of Huelva"
+            "en": "Cluster A: Museum of Huelva",
+            "es": "Cluster A: Museo de Huelva"
           },
           "coords": [
             -6.9425,
@@ -1600,7 +1739,8 @@
             "de": "Vom Casa Colón aus leicht zu Fuß erreichbar.",
             "hu": "Könnyen megközelíthető gyalog a Casa Colóntól.",
             "ro": "Ușor de accesat pe jos de la Casa Colón.",
-            "en": "Easily walkable from Casa Colón."
+            "en": "Easily walkable from Casa Colón.",
+            "es": "Se puede ir caminando fácilmente desde Casa Colón."
           }
         },
         {
@@ -1608,7 +1748,8 @@
             "de": "Cluster B: Muelle del Tinto",
             "hu": "B csoport: Muelle del Tinto",
             "ro": "Cluster B: Muelle del Tinto",
-            "en": "Cluster B: Muelle del Tinto"
+            "en": "Cluster B: Muelle del Tinto",
+            "es": "Cluster B: Muelle del Tinto"
           },
           "coords": [
             -6.9535,
@@ -1624,7 +1765,8 @@
             "de": "Nehmen Sie einen Bus in Richtung Hafenviertel.",
             "hu": "Menjen busszal a kikötő negyed felé.",
             "ro": "Luați un autobuz spre zona portuară.",
-            "en": "Take a bus towards the port district."
+            "en": "Take a bus towards the port district.",
+            "es": "Toma un autobús hacia el distrito portuario."
           }
         },
         {
@@ -1632,7 +1774,8 @@
             "de": "Cluster B: Denkmal für den Entdeckungsglauben",
             "hu": "B csoport: A Felfedezés Hitének Emlékműve",
             "ro": "Cluster B: Monumentul Credinței Descoperitoare",
-            "en": "Cluster B: Monument to the Discovery Faith"
+            "en": "Cluster B: Monument to the Discovery Faith",
+            "es": "Cluster B: Monumento a la Fe Descubridora"
           },
           "coords": [
             -6.958,
@@ -1648,7 +1791,8 @@
             "de": "Ein angenehmer Spaziergang entlang der Promenade vom Pier aus.",
             "hu": "Kellemes séta a sétányon a stégtől.",
             "ro": "O plimbare plăcută de-a lungul promenadei de la dig.",
-            "en": "A pleasant walk along the promenade from the pier."
+            "en": "A pleasant walk along the promenade from the pier.",
+            "es": "Paseo agradable por el paseo marítimo desde el muelle."
           }
         },
         {
@@ -1656,7 +1800,8 @@
             "de": "Cluster C: Kathedrale La Merced",
             "hu": "C csoport: La Merced katedrális",
             "ro": "Cluster C: Catedrala La Merced",
-            "en": "Cluster C: La Merced Cathedral"
+            "en": "Cluster C: La Merced Cathedral",
+            "es": "Cluster C: Catedral de La Merced"
           },
           "coords": [
             -6.9488,
@@ -1672,7 +1817,8 @@
             "de": "Nehmen Sie einen Bus zurück ins Stadtzentrum für Ihren letzten Halt.",
             "hu": "Menjen busszal vissza a városközpontba az utolsó megállóhoz.",
             "ro": "Luați un autobuz înapoi în centrul orașului pentru ultima oprire.",
-            "en": "Take a bus back to the city center for your final stop."
+            "en": "Take a bus back to the city center for your final stop.",
+            "es": "Toma un autobús de vuelta al centro para tu última parada."
           }
         }
       ],
@@ -1680,7 +1826,8 @@
         "de": "Nutzen Sie die öffentlichen Verkehrsmittel für einen entspannten Tag. Beginnen Sie in der Nähe der Casa Colón und spazieren Sie zum Museum von Huelva, um in die lokale Kultur einzutauchen. Nehmen Sie mittags einen Bus zum Hafenviertel. Erkunden Sie zu Fuß den industriellen Muelle del Tinto und das nahegelegene Kolumbus-Denkmal. Am Nachmittag bringt Sie ein weiterer Bus zurück ins Herz der Stadt, um den Tag mit einem Besuch der ruhigen Kathedrale La Merced abzuschließen und die Erlebnisse Revue passieren zu lassen.",
         "hu": "Használja a tömegközlekedést egy pihentető naphoz. Kezdjen a Casa Colón közelében, és sétáljon el a Huelva Múzeumba, hogy elmerüljön a helyi kultúrában. Délben szálljon buszra a kikötő negyedbe. Fedezze fel gyalog az ipari Muelle del Tintót és a közeli Kolumbusz-emlékművet. Délután egy másik busz visszaviszi a város szívébe, hogy a napot a békés La Merced katedrális meglátogatásával zárja, átgondolva az élményeket.",
         "ro": "Folosiți transportul public pentru o zi relaxantă. Începeți lângă Casa Colón și mergeți pe jos la Muzeul din Huelva pentru o imersiune culturală locală. La prânz, luați un autobuz spre zona portuară. Explorați pe jos industrialul Muelle del Tinto și monumentul lui Columb din apropiere. După-amiaza, un alt autobuz vă va duce înapoi în inima orașului pentru a încheia ziua cu o vizită la liniștita Catedrală La Merced, reflectând asupra experiențelor.",
-        "en": "Use public transport for a relaxed day. Start near Casa Colón and walk to the Museum of Huelva for a local cultural immersion. At noon, take a bus to the port district. Explore the industrial Muelle del Tinto and the nearby Columbus Monument on foot. In the afternoon, another bus will take you back to the heart of the city to end the day with a visit to the peaceful La Merced Cathedral, reflecting on the experiences."
+        "en": "Use public transport for a relaxed day. Start near Casa Colón and walk to the Museum of Huelva for a local cultural immersion. At noon, take a bus to the port district. Explore the industrial Muelle del Tinto and the nearby Columbus Monument on foot. In the afternoon, another bus will take you back to the heart of the city to end the day with a visit to the peaceful La Merced Cathedral, reflecting on the experiences.",
+        "es": "Usa el transporte público para un día relajado. Empieza cerca de Casa Colón y camina hasta el Museo de Huelva para una inmersión cultural local. Al mediodía toma un autobús al distrito portuario. Explora a pie el industrial Muelle del Tinto y el cercano Monumento a Colón. Por la tarde otro autobús te llevará de regreso al corazón de la ciudad para terminar el día con una visita a la tranquila Catedral de La Merced y reflexionar sobre las vivencias."
       },
       "gastro_picks": {
         "de": [
@@ -1820,6 +1967,11 @@
           "Buy a daily bus pass to save money.",
           "Download the local public transport app for real-time schedules.",
           "Be aware that bus frequencies may be reduced late at night and on Sundays."
+        ],
+        "es": [
+          "Compra un bono diario de autobús para ahorrar.",
+          "Descarga la app de transporte público local para horarios en tiempo real.",
+          "Ten en cuenta que la frecuencia de autobuses puede reducirse por la noche y los domingos."
         ]
       },
       "variants": {
@@ -1828,7 +1980,8 @@
             "de": "Regnerischer Start an der Casa Colón, direkt erreichbar per Bus. Mittags bringt uns die Linie zum Museum von Huelva, wo wir im Trockenen verweilen. Der Nachmittag am Muelle del Tinto und dem Monument erfordert Geduld an den Haltestellen, aber die Busse bieten Schutz vor dem Guss. Den Tag beenden wir an der Kathedrale La Merced, bevor wir mit dem Abendbus zurückfahren.",
             "hu": "Esős kezdés a Casa Colónnál, amely busszal közvetlenül elérhető. Délben a járat a Huelva Múzeumhoz visz, ahol szárazon maradhatunk. A délután a Muelle del Tinto és a Monument környékén türelmet igényel a megállókban, de a buszok védenek a felhőszakadástól. A napot a La Merced katedrálisnál zárjuk, mielőtt az esti busszal hazaindulunk.",
             "ro": "Început ploios la Casa Colón, accesibilă direct cu autobuzul. La prânz, linia ne duce la Muzeul din Huelva, unde stăm la adăpost. După-amiaza la Muelle del Tinto și Monument necesită răbdare în stații, dar autobuzele oferă protecție contra ploii. Încheiem ziua la Catedrala La Merced înainte de a lua autobuzul de seară.",
-            "en": "Rainy start at Casa Colón, directly accessible by bus. At noon, the line takes us to the Museum of Huelva, where we stay dry. The afternoon at Muelle del Tinto and the Monument requires patience at the stops, but the buses provide shelter from the downpour. We end the day at La Merced Cathedral before heading back on the evening bus."
+            "en": "Rainy start at Casa Colón, directly accessible by bus. At noon, the line takes us to the Museum of Huelva, where we stay dry. The afternoon at Muelle del Tinto and the Monument requires patience at the stops, but the buses provide shelter from the downpour. We end the day at La Merced Cathedral before heading back on the evening bus.",
+            "es": "Inicio lluvioso en Casa Colón, accesible directamente en bus. Al mediodía la línea nos lleva al Museo de Huelva, donde nos mantenemos secos. La tarde en el Muelle del Tinto y el Monumento requiere paciencia en las paradas, pero los autobuses ofrecen refugio de los chaparrones. Terminamos el día en la Catedral de La Merced antes de volver en el autobús de la noche."
           },
           "stops": [
             {
@@ -1837,7 +1990,8 @@
                 "de": "Bushaltestelle direkt vor dem Eingang.",
                 "hu": "Buszmegálló közvetlenül a bejárat előtt.",
                 "ro": "Stație de autobuz chiar în fața intrării.",
-                "en": "Bus stop right in front of the entrance."
+                "en": "Bus stop right in front of the entrance.",
+                "es": "Parada de autobús justo frente a la entrada."
               }
             },
             {
@@ -1846,7 +2000,8 @@
                 "de": "Warten Sie im Museumsbereich auf den Bus.",
                 "hu": "Várjon a buszra a múzeum területén.",
                 "ro": "Așteptați autobuzul în zona muzeului.",
-                "en": "Wait for the bus inside the museum area."
+                "en": "Wait for the bus inside the museum area.",
+                "es": "Espera el autobús dentro del área del museo."
               }
             },
             {
@@ -1855,7 +2010,8 @@
                 "de": "Haltestellen haben oft kleine Überdachungen.",
                 "hu": "A megállók gyakran kis tetővel rendelkeznek.",
                 "ro": "Stațiile au adesea copertine mici.",
-                "en": "Stops often have small shelters."
+                "en": "Stops often have small shelters.",
+                "es": "Las paradas suelen tener pequeños refugios."
               }
             },
             {
@@ -1864,7 +2020,8 @@
                 "de": "Prüfen Sie die Rückfahrzeiten bei Regen.",
                 "hu": "Ellenőrizze a visszautat eső idején.",
                 "ro": "Verificați timpii de retur pe ploaie.",
-                "en": "Check return times during rain."
+                "en": "Check return times during rain.",
+                "es": "Consulta los horarios de retorno en caso de lluvia."
               }
             },
             {
@@ -1873,7 +2030,8 @@
                 "de": "Busse fahren häufig ins Stadtzentrum.",
                 "hu": "A buszok gyakran járnak a belvárosba.",
                 "ro": "Autobuzele circulă des spre centru.",
-                "en": "Buses run frequently to the city center."
+                "en": "Buses run frequently to the city center.",
+                "es": "Los autobuses circulan con frecuencia al centro."
               }
             }
           ],
@@ -1901,6 +2059,12 @@
               "Buses can be more crowded during rain.",
               "Have change or a card ready.",
               "Avoid waiting at unsheltered stops."
+            ],
+            "es": [
+              "Usa la app EMTUSA para datos en tiempo real.",
+              "Los autobuses pueden estar más llenos con lluvia.",
+              "Ten cambio o tarjeta preparada.",
+              "Evita esperar en paradas sin refugio."
             ]
           }
         },
@@ -1909,7 +2073,8 @@
             "de": "Start am Casa Colón im sanften Winterlicht. Die Busfahrt zum Museum ist kurz und angenehm temperiert. Mittags nutzen wir den Transit zum Hafenbereich, um den Muelle del Tinto zu besuchen, während die Sonne am höchsten steht. Den Nachmittag verbringen wir am Monument, bevor wir rechtzeitig zum Sonnenuntergang den Bus nehmen. Der Abschluss an der Kathedrale La Merced bietet eine festliche Stimmung in der Abenddämmerung.",
             "hu": "Indulás a Casa Colónnál a lágy téli fényben. A buszút a múzeumig rövid és kellemes hőmérsékletű. Délben a kikötői negyedbe utazunk a mólóhoz, amikor a nap a legmagasabban jár. A délutánt az emlékműnél töltjük, majd időben buszra szállunk a naplemente előtt. A La Merced katedrálisnál tett zárás ünnepi hangulatot áraszt az alkonyatban.",
             "ro": "Începem la Casa Colón în lumina blândă de iarnă. Drumul cu autobuzul spre muzeu e scurt și plăcut încălzit. La prânz folosim transportul spre zona portului pentru a vizita digul când soarele e sus. După-amiaza o petrecem la Monument înainte de a lua autobuzul pentru apus. Finalul la Catedrala La Merced oferă o atmosferă festivă la amurg.",
-            "en": "Start at Casa Colón in the soft winter light. The bus ride to the museum is short and pleasantly tempered. At noon, we take transit to the port area to visit the pier while the sun is at its highest. We spend the afternoon at the monument before catching the bus in time for sunset. The finale at La Merced Cathedral offers a festive mood in the evening twilight."
+            "en": "Start at Casa Colón in the soft winter light. The bus ride to the museum is short and pleasantly tempered. At noon, we take transit to the port area to visit the pier while the sun is at its highest. We spend the afternoon at the monument before catching the bus in time for sunset. The finale at La Merced Cathedral offers a festive mood in the evening twilight.",
+            "es": "Comienza en Casa Colón con la suave luz invernal. El trayecto en bus al museo es corto y agradable. Al mediodía tomamos transporte al área portuaria para visitar el muelle cuando el sol está más alto. Pasamos la tarde en el monumento antes de coger el autobús a tiempo para el atardecer. El final en la Catedral de La Merced ofrece un ambiente festivo en el crepúsculo vespertino."
           },
           "stops": [
             {
@@ -1918,7 +2083,8 @@
                 "de": "Busse sind im Winter gut beheizt.",
                 "hu": "A buszok télen jól fűtöttek.",
                 "ro": "Autobuzele sunt bine încălzite iarna.",
-                "en": "Buses are well-heated in winter."
+                "en": "Buses are well-heated in winter.",
+                "es": "Los autobuses están bien calefactados en invierno."
               }
             },
             {
@@ -1927,7 +2093,8 @@
                 "de": "Idealer Stopp zur wärmsten Mittagszeit.",
                 "hu": "Ideális megálló a legmelegebb déli időben.",
                 "ro": "Oprire ideală la prânz, când e mai cald.",
-                "en": "Ideal stop during the warmest midday hours."
+                "en": "Ideal stop during the warmest midday hours.",
+                "es": "Parada ideal durante las horas más cálidas del mediodía."
               }
             },
             {
@@ -1936,7 +2103,8 @@
                 "de": "Genießen Sie die Fahrt entlang des Odiel.",
                 "hu": "Élvezze az utazást az Odiel mentén.",
                 "ro": "Bucurați-vă de drumul pe lângă râul Odiel.",
-                "en": "Enjoy the ride along the Odiel River."
+                "en": "Enjoy the ride along the Odiel River.",
+                "es": "Disfruta del paseo junto al río Odiel."
               }
             },
             {
@@ -1945,7 +2113,8 @@
                 "de": "Letzter Bus vor Einbruch der Dunkelheit.",
                 "hu": "Az utolsó busz sötétedés előtt indul.",
                 "ro": "Ultimul autobuz înainte de lăsarea întunericului.",
-                "en": "Last bus before it gets dark."
+                "en": "Last bus before it gets dark.",
+                "es": "Último autobús antes de que oscurezca."
               }
             },
             {
@@ -1954,7 +2123,8 @@
                 "de": "Zentraler Knotenpunkt für die Rückfahrt.",
                 "hu": "Központi csomópont a visszautazáshoz.",
                 "ro": "Nod central pentru drumul de întoarcere.",
-                "en": "Central hub for the return journey."
+                "en": "Central hub for the return journey.",
+                "es": "HUB central para el viaje de regreso."
               }
             }
           ],
@@ -1982,6 +2152,12 @@
               "Transit is the warmer choice in the evening.",
               "Huelva is well-connected by bus.",
               "Look out for the festive lights in the center."
+            ],
+            "es": [
+              "Los horarios cambian muy poco en invierno.",
+              "El transporte es la opción más cálida por la noche.",
+              "Huelva tiene buena conexión por autobús.",
+              "Fíjate en las luces festivas del centro."
             ]
           }
         }

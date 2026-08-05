@@ -21,7 +21,8 @@
             "de": "Kirche von Sant Francesc",
             "hu": "Sant Francesc templom",
             "ro": "Biserica din Sant Francesc",
-            "en": "Church of Sant Francesc"
+            "en": "Church of Sant Francesc",
+            "es": "Iglesia de Sant Francesc"
           },
           "coords": [
             1.4285,
@@ -36,7 +37,8 @@
             "de": "Festungskirche aus dem 18. Jahrhundert.",
             "hu": "18. századi erődtemplom.",
             "ro": "Biserică fortificată din secolul al XVIII-lea.",
-            "en": "An 18th-century fortified church."
+            "en": "An 18th-century fortified church.",
+            "es": "Iglesia fortificada del siglo XVIII."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Zentrum von Sant Francesc",
             "hu": "Sant Francesc központja",
             "ro": "Centrul Sant Francesc",
-            "en": "Sant Francesc Center"
+            "en": "Sant Francesc Center",
+            "es": "Centro de Sant Francesc"
           },
           "coords": [
             1.429,
@@ -59,7 +62,8 @@
             "de": "Fußgängerzone mit weiß getünchten Häusern.",
             "hu": "Gyalogos zóna fehérre meszelt házakkal.",
             "ro": "Zonă pietonală cu case albe.",
-            "en": "Pedestrian zone with whitewashed houses."
+            "en": "Pedestrian zone with whitewashed houses.",
+            "es": "Zona peatonal con casas encaladas."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Ethnographisches Museum",
             "hu": "Etnográfiai Múzeum",
             "ro": "Muzeul de Etnografie",
-            "en": "Ethnographic Museum"
+            "en": "Ethnographic Museum",
+            "es": "Museo etnográfico"
           },
           "coords": [
             1.4305,
@@ -82,7 +87,8 @@
             "de": "Einblick in das traditionelle Inselleben.",
             "hu": "Bepillantás a hagyományos szigeti életbe.",
             "ro": "Informații despre viața tradițională de pe insulă.",
-            "en": "Insight into traditional island life."
+            "en": "Insight into traditional island life.",
+            "es": "Visión de la vida tradicional en la isla."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Naturpark Ses Salines (Randbereich)",
             "hu": "Ses Salines Nemzeti Park széle",
             "ro": "Parcul Natural Ses Salines (margine)",
-            "en": "Ses Salines Nature Park (edge)"
+            "en": "Ses Salines Nature Park (edge)",
+            "es": "Parque Natural de Ses Salines (límite)"
           },
           "coords": [
             1.435,
@@ -105,7 +112,8 @@
             "de": "Wanderwege durch die Salzwiesen.",
             "hu": "Gyalogtúrák a sólepárlók mentén.",
             "ro": "Trasee prin saline.",
-            "en": "Hiking trails through the salt pans."
+            "en": "Hiking trails through the salt pans.",
+            "es": "Senderos entre las salinas."
           }
         }
       ],
@@ -113,7 +121,8 @@
         "de": "Beginnen Sie im Hauptort Sant Francesc mit seiner schlichten Wehrkirche. Schlendern Sie durch die autofreien Gassen und besuchen Sie das kleine Museum. Nachmittags spazieren Sie in Richtung der Salinen von Ses Salines, um die einzigartige Landschaft der Insel zu erleben.",
         "hu": "Kezdje a sziget fővárosában, Sant Francescben, az egyszerű, de lenyűgöző erődtemplomnál. Sétáljon az autómentes utcákon, és látogassa meg a múzeumot. Délután gyalogoljon el a Ses Salines sólepárlók széléig, hogy megcsodálja a sziget különleges táját.",
         "ro": "Începeți în capitala insulei, Sant Francesc, cu biserica sa fortificată simplă. Plimbați-vă pe străzile pietonale și vizitați muzeul local. După-amiaza, mergeți pe jos spre salinele din Ses Salines pentru a vedea peisajul unic al insulei.",
-        "en": "Start in the island's capital, Sant Francesc, at its austere fortified church. Wander through the pedestrian streets and visit the small ethnographic museum. In the afternoon, take a walk towards the Ses Salines salt pans to experience the island's unique natural landscape."
+        "en": "Start in the island's capital, Sant Francesc, at its austere fortified church. Wander through the pedestrian streets and visit the small ethnographic museum. In the afternoon, take a walk towards the Ses Salines salt pans to experience the island's unique natural landscape.",
+        "es": "Comienza en la capital de la isla, Sant Francesc, junto a su austera iglesia fortificada. Pasea por las calles peatonales y visita el pequeño museo etnográfico. Por la tarde, dirígete a las salinas de Ses Salines para disfrutar del paisaje natural único de la isla."
       },
       "gastro_picks": {
         "de": [
@@ -217,6 +226,11 @@
           "Formentera is very flat and perfect for walking.",
           "Many shops close for siesta during midday.",
           "Wear a hat as the sun is particularly strong here."
+        ],
+        "es": [
+          "Formentera es muy llana y perfecta para caminar.",
+          "Muchas tiendas cierran por la siesta al mediodía.",
+          "Lleva gorra porque el sol pega con fuerza aquí."
         ]
       },
       "variants": {
@@ -225,7 +239,8 @@
             "de": "Beginnen Sie im Hauptort Sant Francesc mit seiner schlichten Wehrkirche. Schlendern Sie durch die autofreien Gassen und besuchen Sie das kleine Museum. Nachmittags spazieren Sie in Richtung der Salinen von Ses Salines, um die einzigartige Landschaft der Insel zu erleben.",
             "hu": "Kezdje a sziget fővárosában, Sant Francescben, az egyszerű, de lenyűgöző erődtemplomnál. Sétáljon az autómentes utcákon, és látogassa meg a múzeumot. Délután gyalogoljon el a Ses Salines sólepárlók széléig, hogy megcsodálja a sziget különleges táját.",
             "ro": "Începeți în capitala insulei, Sant Francesc, cu biserica sa fortificată simplă. Plimbați-vă pe străzile pietonale și vizitați muzeul local. După-amiaza, mergeți pe jos spre salinele din Ses Salines pentru a vedea peisajul unic al insulei.",
-            "en": "Start in the island's capital, Sant Francesc, at its austere fortified church. Wander through the pedestrian streets and visit the small ethnographic museum. In the afternoon, take a walk towards the Ses Salines salt pans to experience the island's unique natural landscape."
+            "en": "Start in the island's capital, Sant Francesc, at its austere fortified church. Wander through the pedestrian streets and visit the small ethnographic museum. In the afternoon, take a walk towards the Ses Salines salt pans to experience the island's unique natural landscape.",
+            "es": "Comienza en la capital de la isla, Sant Francesc, junto a su austera iglesia fortificada. Pasea por las calles peatonales y visita el pequeño museo etnográfico. Por la tarde, dirígete a las salinas de Ses Salines para disfrutar del paisaje natural único de la isla."
           },
           "stops": [
             {
@@ -233,13 +248,15 @@
                 "de": "Kirche von Sant Francesc",
                 "hu": "Sant Francesc templom",
                 "ro": "Biserica din Sant Francesc",
-                "en": "Church of Sant Francesc"
+                "en": "Church of Sant Francesc",
+                "es": "Iglesia de Sant Francesc"
               },
               "tip_5lang": {
                 "de": "Festungskirche aus dem 18. Jahrhundert.",
                 "hu": "18. századi erődtemplom.",
                 "ro": "Biserică fortificată din secolul al XVIII-lea.",
-                "en": "An 18th-century fortified church."
+                "en": "An 18th-century fortified church.",
+                "es": "Iglesia fortificada del siglo XVIII."
               }
             },
             {
@@ -247,13 +264,15 @@
                 "de": "Zentrum von Sant Francesc",
                 "hu": "Sant Francesc központja",
                 "ro": "Centrul Sant Francesc",
-                "en": "Sant Francesc Center"
+                "en": "Sant Francesc Center",
+                "es": "Centro de Sant Francesc"
               },
               "tip_5lang": {
                 "de": "Fußgängerzone mit weiß getünchten Häusern.",
                 "hu": "Gyalogos zóna fehérre meszelt házakkal.",
                 "ro": "Zonă pietonală cu case albe.",
-                "en": "Pedestrian zone with whitewashed houses."
+                "en": "Pedestrian zone with whitewashed houses.",
+                "es": "Zona peatonal con casas encaladas."
               }
             },
             {
@@ -261,13 +280,15 @@
                 "de": "Ethnographisches Museum",
                 "hu": "Etnográfiai Múzeum",
                 "ro": "Muzeul de Etnografie",
-                "en": "Ethnographic Museum"
+                "en": "Ethnographic Museum",
+                "es": "Museo etnográfico"
               },
               "tip_5lang": {
                 "de": "Einblick in das traditionelle Inselleben.",
                 "hu": "Bepillantás a hagyományos szigeti életbe.",
                 "ro": "Informații despre viața tradițională de pe insulă.",
-                "en": "Insight into traditional island life."
+                "en": "Insight into traditional island life.",
+                "es": "Visión de la vida tradicional en la isla."
               }
             },
             {
@@ -275,13 +296,15 @@
                 "de": "Naturpark Ses Salines (Randbereich)",
                 "hu": "Ses Salines Nemzeti Park széle",
                 "ro": "Parcul Natural Ses Salines (margine)",
-                "en": "Ses Salines Nature Park (edge)"
+                "en": "Ses Salines Nature Park (edge)",
+                "es": "Parque Natural de Ses Salines (límite)"
               },
               "tip_5lang": {
                 "de": "Wanderwege durch die Salzwiesen.",
                 "hu": "Gyalogtúrák a sólepárlók mentén.",
                 "ro": "Trasee prin saline.",
-                "en": "Hiking trails through the salt pans."
+                "en": "Hiking trails through the salt pans.",
+                "es": "Senderos entre las salinas."
               }
             }
           ],
@@ -387,6 +410,11 @@
               "Formentera is very flat and perfect for walking.",
               "Many shops close for siesta during midday.",
               "Wear a hat as the sun is particularly strong here."
+            ],
+            "es": [
+              "Formentera es muy llana y perfecta para caminar.",
+              "Muchas tiendas cierran por la siesta al mediodía.",
+              "Lleva gorra porque el sol pega con fuerza aquí."
             ]
           }
         },
@@ -395,7 +423,8 @@
             "de": "Morgens: Die Kirche bietet Schutz vor dem Regen. Mittags: Cafés im Zentrum laden zum Verweilen ein. Nachmittags: Das Museum ist der perfekte Indoor-Ort. Abends: Die Salinen glänzen mystisch im feuchten Licht.",
             "hu": "Reggel: Menedék a templomban a szemerkélő eső elől. Délben: A központ kávézói hívogatnak pihenőre. Délután: A múzeum a tökéletes fedett helyszín. Este: A sólepárlók misztikusan csillognak a párás fényben.",
             "ro": "Dimineața: Biserica oferă adăpost împotriva ploii. Prânz: Cafenelele din centru vă invită la popas. După-amiaza: Muzeul este locul perfect de interior. Seara: Salinele strălucesc mistic în lumina umedă.",
-            "en": "Morning: The church offers shelter from the drizzle. Noon: Center cafes invite you for a break. Afternoon: The museum is the perfect indoor location. Evening: The salt pans shine mystically in the damp light."
+            "en": "Morning: The church offers shelter from the drizzle. Noon: Center cafes invite you for a break. Afternoon: The museum is the perfect indoor location. Evening: The salt pans shine mystically in the damp light.",
+            "es": "Mañana: La iglesia ofrece refugio de la llovizna. Mediodía: Los cafés del centro invitan a hacer una pausa. Tarde: El museo es el lugar interior perfecto. Noche: Las salinas brillan de forma mística con la luz húmeda."
           },
           "stops": [
             {
@@ -404,7 +433,8 @@
                 "de": "Trockener Rückzugsort bei Schauern.",
                 "hu": "Száraz menedék záporok idején.",
                 "ro": "Refugiu uscat în timpul averselor.",
-                "en": "Dry retreat during showers."
+                "en": "Dry retreat during showers.",
+                "es": "Refugio seco durante los chaparrones."
               }
             },
             {
@@ -413,7 +443,8 @@
                 "de": "Nutzen Sie die Arkaden der Geschäfte.",
                 "hu": "Használja az üzletek árkádjait.",
                 "ro": "Folosiți arcadele magazinelor.",
-                "en": "Use the shop arcades for shelter."
+                "en": "Use the shop arcades for shelter.",
+                "es": "Utiliza los pórticos comerciales como refugio."
               }
             },
             {
@@ -422,7 +453,8 @@
                 "de": "Ideal, um dem Regen zu entkommen.",
                 "hu": "Ideális az eső elöli meneküléshez.",
                 "ro": "Ideal pentru a scăpa de ploaie.",
-                "en": "Ideal for escaping the rain."
+                "en": "Ideal for escaping the rain.",
+                "es": "Ideal para escapar de la lluvia."
               }
             },
             {
@@ -431,7 +463,8 @@
                 "de": "Vorsicht, Wege können schlammig sein.",
                 "hu": "Vigyázat, az utak sárosak lehetnek.",
                 "ro": "Atenție, potecile pot fi noroioase.",
-                "en": "Caution, paths can be muddy."
+                "en": "Caution, paths can be muddy.",
+                "es": "Cuidado, los caminos pueden estar embarrados."
               }
             }
           ],
@@ -463,6 +496,13 @@
               "The museum offers the best indoor cultural break.",
               "The salt pans are photogenic even under cloudy skies.",
               "Plan more time for cafe breaks."
+            ],
+            "es": [
+              "Un paraguas resistente es esencial por el viento.",
+              "Lleva calzado impermeable para los caminos sin asfaltar.",
+              "El museo ofrece la mejor pausa cultural interior.",
+              "Las salinas son fotogénicas incluso con cielo cubierto.",
+              "Planifica más tiempo para las pausas en cafés."
             ]
           }
         },
@@ -471,7 +511,8 @@
             "de": "Morgens: Frische Luft an der stillen Kirche. Mittags: Authentisches Dorfleben ohne Trubel. Nachmittags: Geschichte im wärmenden Museum. Abends: Spektakulärer Sonnenuntergang über den Salinen.",
             "hu": "Reggel: Friss levegő a csendes templomnál. Délben: Hiteles falusi élet tömeg nélkül. Délután: Történelem a melengető múzeumban. Este: Látványos naplemente a sólepárlók felett.",
             "ro": "Dimineața: Aer curat la biserica liniștită. Prânz: Viață autentică de sat fără agitație. După-amiaza: Istorie în muzeul primitor. Seara: Apus spectaculos peste saline.",
-            "en": "Morning: Fresh air at the quiet church. Noon: Authentic village life without the bustle. Afternoon: History in the warming museum. Evening: Spectacular sunset over the salt pans."
+            "en": "Morning: Fresh air at the quiet church. Noon: Authentic village life without the bustle. Afternoon: History in the warming museum. Evening: Spectacular sunset over the salt pans.",
+            "es": "Mañana: Aire fresco en la tranquila iglesia. Mediodía: Vida de pueblo auténtica sin bullicio. Tarde: Historia en el acogedor museo. Noche: Puesta de sol espectacular sobre las salinas."
           },
           "stops": [
             {
@@ -480,7 +521,8 @@
                 "de": "Genießen Sie die Ruhe der Nebensaison.",
                 "hu": "Élvezze a holtszezon nyugalmát.",
                 "ro": "Bucurați-vă de liniștea extrasezonului.",
-                "en": "Enjoy the peace of the off-season."
+                "en": "Enjoy the peace of the off-season.",
+                "es": "Disfruta de la paz de la temporada baja."
               }
             },
             {
@@ -489,7 +531,8 @@
                 "de": "Wenige Touristen, perfekt für Fotos.",
                 "hu": "Kevés turista, tökéletes fotózáshoz.",
                 "ro": "Puțini turiști, perfect pentru poze.",
-                "en": "Few tourists, perfect for photos."
+                "en": "Few tourists, perfect for photos.",
+                "es": "Pocos turistas, perfecto para fotos."
               }
             },
             {
@@ -498,7 +541,8 @@
                 "de": "Prüfen Sie die Winteröffnungszeiten.",
                 "hu": "Ellenőrizze a téli nyitvatartást.",
                 "ro": "Verificați programul de iarnă.",
-                "en": "Check the winter opening hours."
+                "en": "Check the winter opening hours.",
+                "es": "Consulta los horarios de invierno."
               }
             },
             {
@@ -507,7 +551,8 @@
                 "de": "Warme Kleidung gegen den Wind nötig.",
                 "hu": "Meleg ruha kell a szél ellen.",
                 "ro": "Haine groase necesare contra vântului.",
-                "en": "Warm clothes needed against the wind."
+                "en": "Warm clothes needed against the wind.",
+                "es": "Hace falta ropa abrigada contra el viento."
               }
             }
           ],
@@ -539,6 +584,13 @@
               "Some local shops take a winter break.",
               "The clear winter air provides long-range views.",
               "Layered clothing is recommended for the walk."
+            ],
+            "es": [
+              "El viento puede ser muy cortante en invierno.",
+              "El sol se pone ya sobre las 17:30.",
+              "Algunas tiendas locales hacen un descanso invernal.",
+              "El aire claro de invierno ofrece vistas de gran alcance.",
+              "Se recomienda vestimenta en capas para la caminata."
             ]
           }
         }
@@ -557,7 +609,8 @@
             "de": "Kirche von Sant Francesc",
             "hu": "Sant Francesc templom",
             "ro": "Biserica din Sant Francesc",
-            "en": "Church of Sant Francesc"
+            "en": "Church of Sant Francesc",
+            "es": "Iglesia de Sant Francesc"
           },
           "coords": [
             1.4285,
@@ -572,7 +625,8 @@
             "de": "Startpunkt der Tour.",
             "hu": "A túra kiindulópontja.",
             "ro": "Punctul de plecare al traseului.",
-            "en": "Starting point of the tour."
+            "en": "Starting point of the tour.",
+            "es": "Punto de inicio del recorrido."
           }
         },
         {
@@ -580,7 +634,8 @@
             "de": "Platja de ses Illetes",
             "hu": "Ses Illetes strand",
             "ro": "Plaja Ses Illetes",
-            "en": "Platja de ses Illetes"
+            "en": "Platja de ses Illetes",
+            "es": "Platja de ses Illetes"
           },
           "coords": [
             1.436,
@@ -595,7 +650,8 @@
             "de": "Einer der schönsten Strände Europas.",
             "hu": "Európa egyik legszebb strandja.",
             "ro": "Una dintre cele mai frumoase plaje din Europa.",
-            "en": "One of the most beautiful beaches in Europe."
+            "en": "One of the most beautiful beaches in Europe.",
+            "es": "Una de las playas más bellas de Europa."
           }
         },
         {
@@ -603,7 +659,8 @@
             "de": "Naturpark Ses Salines",
             "hu": "Ses Salines Nemzeti Park",
             "ro": "Parcul Natural Ses Salines",
-            "en": "Ses Salines Nature Park"
+            "en": "Ses Salines Nature Park",
+            "es": "Parque Natural de Ses Salines"
           },
           "coords": [
             1.445,
@@ -618,7 +675,8 @@
             "de": "UNESCO Weltkulturerbe.",
             "hu": "UNESCO Világörökség része.",
             "ro": "Patrimoniu mondial UNESCO.",
-            "en": "UNESCO World Heritage site."
+            "en": "UNESCO World Heritage site.",
+            "es": "Sitio Patrimonio de la Humanidad por la UNESCO."
           }
         },
         {
@@ -626,7 +684,8 @@
             "de": "Far de Barbaria",
             "hu": "Barbaria világítótorony",
             "ro": "Farul Barbaria",
-            "en": "Far de Barbaria"
+            "en": "Far de Barbaria",
+            "es": "Faro de Barbaria"
           },
           "coords": [
             1.3888,
@@ -641,7 +700,8 @@
             "de": "Ikonischer Leuchtturm im Süden.",
             "hu": "Ikonikus világítótorony a déli részen.",
             "ro": "Far iconic în partea de sud.",
-            "en": "Iconic lighthouse in the south."
+            "en": "Iconic lighthouse in the south.",
+            "es": "Faro icónico en el sur."
           }
         },
         {
@@ -649,7 +709,8 @@
             "de": "Sant Francesc",
             "hu": "Sant Francesc",
             "ro": "Sant Francesc",
-            "en": "Sant Francesc"
+            "en": "Sant Francesc",
+            "es": "Sant Francesc"
           },
           "coords": [
             1.4264,
@@ -664,7 +725,8 @@
             "de": "Rückgabe der Räder.",
             "hu": "Kerékpárok leadása.",
             "ro": "Returnarea bicicletelor.",
-            "en": "Return the bikes here."
+            "en": "Return the bikes here.",
+            "es": "Devuelve las bicicletas aquí."
           }
         }
       ],
@@ -672,7 +734,8 @@
         "de": "Formentera ist ein Fahrradparadies. Fahren Sie von Sant Francesc nach Norden zum weltberühmten Strand Ses Illetes. Genießen Sie das kristallklare Wasser, bevor Sie durch die Salinen radeln. Am späten Nachmittag geht es zum Leuchtturm von Barbaria für eine fast außerirdisch wirkende Landschaft.",
         "hu": "Formentera a kerékpárosok paradicsoma. Sant Francescből induljon északra a világhírű Ses Illetes strandhoz. Élvezze a kristálytiszta vizet, majd tekerjen át a sólepárlókon. Késő délután látogasson el a Barbaria világítótoronyhoz a különleges, kietlen tájért.",
         "ro": "Formentera este un paradis pentru bicicliști. Mergeți din Sant Francesc spre nord la celebra plajă Ses Illetes. Bucurați-vă de apa de cristal, apoi pedalați prin saline. După-amiaza târziu, mergeți la farul Barbaria pentru un peisaj aproape lunar.",
-        "en": "Formentera is a cyclist's dream. Ride from Sant Francesc north to the world-famous Ses Illetes beach. Enjoy the turquoise waters before cycling back through the salt pans. In the late afternoon, head to the Barbaria Lighthouse for its surreal, sparse landscape."
+        "en": "Formentera is a cyclist's dream. Ride from Sant Francesc north to the world-famous Ses Illetes beach. Enjoy the turquoise waters before cycling back through the salt pans. In the late afternoon, head to the Barbaria Lighthouse for its surreal, sparse landscape.",
+        "es": "Formentera es el sueño de todo ciclista. Pedalea desde Sant Francesc hacia el norte hasta la mundialmente famosa playa de Ses Illetes. Disfruta de las aguas turquesa antes de regresar en bici a través de las salinas. A última hora de la tarde, dirígete al faro de Barbaria por su paisaje surrealista y austero."
       },
       "gastro_picks": {
         "de": [
@@ -776,6 +839,11 @@
           "Stick to the designated 'Rutas Verdes' green routes.",
           "A mountain bike is better for the gravel paths.",
           "Be aware of the wind, which can make cycling tough."
+        ],
+        "es": [
+          "Mantente en las 'Rutas Verdes' designadas.",
+          "Una bici de montaña es mejor para los tramos de grava.",
+          "Ten en cuenta el viento, que puede dificultar el pedaleo."
         ]
       },
       "variants": {
@@ -784,7 +852,8 @@
             "de": "Formentera ist ein Fahrradparadies. Fahren Sie von Sant Francesc nach Norden zum weltberühmten Strand Ses Illetes. Genießen Sie das kristallklare Wasser, bevor Sie durch die Salinen radeln. Am späten Nachmittag geht es zum Leuchtturm von Barbaria für eine fast außerirdisch wirkende Landschaft.",
             "hu": "Formentera a kerékpárosok paradicsoma. Sant Francescből induljon északra a világhírű Ses Illetes strandhoz. Élvezze a kristálytiszta vizet, majd tekerjen át a sólepárlókon. Késő délután látogasson el a Barbaria világítótoronyhoz a különleges, kietlen tájért.",
             "ro": "Formentera este un paradis pentru bicicliști. Mergeți din Sant Francesc spre nord la celebra plajă Ses Illetes. Bucurați-vă de apa de cristal, apoi pedalați prin saline. După-amiaza târziu, mergeți la farul Barbaria pentru un peisaj aproape lunar.",
-            "en": "Formentera is a cyclist's dream. Ride from Sant Francesc north to the world-famous Ses Illetes beach. Enjoy the turquoise waters before cycling back through the salt pans. In the late afternoon, head to the Barbaria Lighthouse for its surreal, sparse landscape."
+            "en": "Formentera is a cyclist's dream. Ride from Sant Francesc north to the world-famous Ses Illetes beach. Enjoy the turquoise waters before cycling back through the salt pans. In the late afternoon, head to the Barbaria Lighthouse for its surreal, sparse landscape.",
+            "es": "Formentera es el sueño de todo ciclista. Pedalea desde Sant Francesc hacia el norte hasta la mundialmente famosa playa de Ses Illetes. Disfruta de las aguas turquesa antes de regresar en bici a través de las salinas. A última hora de la tarde, dirígete al faro de Barbaria por su paisaje surrealista y austero."
           },
           "stops": [
             {
@@ -792,13 +861,15 @@
                 "de": "Kirche von Sant Francesc",
                 "hu": "Sant Francesc templom",
                 "ro": "Biserica din Sant Francesc",
-                "en": "Church of Sant Francesc"
+                "en": "Church of Sant Francesc",
+                "es": "Iglesia de Sant Francesc"
               },
               "tip_5lang": {
                 "de": "Startpunkt der Tour.",
                 "hu": "A túra kiindulópontja.",
                 "ro": "Punctul de plecare al traseului.",
-                "en": "Starting point of the tour."
+                "en": "Starting point of the tour.",
+                "es": "Punto de inicio del recorrido."
               }
             },
             {
@@ -806,13 +877,15 @@
                 "de": "Platja de ses Illetes",
                 "hu": "Ses Illetes strand",
                 "ro": "Plaja Ses Illetes",
-                "en": "Platja de ses Illetes"
+                "en": "Platja de ses Illetes",
+                "es": "Platja de ses Illetes"
               },
               "tip_5lang": {
                 "de": "Einer der schönsten Strände Europas.",
                 "hu": "Európa egyik legszebb strandja.",
                 "ro": "Una dintre cele mai frumoase plaje din Europa.",
-                "en": "One of the most beautiful beaches in Europe."
+                "en": "One of the most beautiful beaches in Europe.",
+                "es": "Una de las playas más bellas de Europa."
               }
             },
             {
@@ -820,13 +893,15 @@
                 "de": "Naturpark Ses Salines",
                 "hu": "Ses Salines Nemzeti Park",
                 "ro": "Parcul Natural Ses Salines",
-                "en": "Ses Salines Nature Park"
+                "en": "Ses Salines Nature Park",
+                "es": "Parque Natural de Ses Salines"
               },
               "tip_5lang": {
                 "de": "UNESCO Weltkulturerbe.",
                 "hu": "UNESCO Világörökség része.",
                 "ro": "Patrimoniu mondial UNESCO.",
-                "en": "UNESCO World Heritage site."
+                "en": "UNESCO World Heritage site.",
+                "es": "Sitio Patrimonio de la Humanidad por la UNESCO."
               }
             },
             {
@@ -834,13 +909,15 @@
                 "de": "Far de Barbaria",
                 "hu": "Barbaria világítótorony",
                 "ro": "Farul Barbaria",
-                "en": "Far de Barbaria"
+                "en": "Far de Barbaria",
+                "es": "Faro de Barbaria"
               },
               "tip_5lang": {
                 "de": "Ikonischer Leuchtturm im Süden.",
                 "hu": "Ikonikus világítótorony a déli részen.",
                 "ro": "Far iconic în partea de sud.",
-                "en": "Iconic lighthouse in the south."
+                "en": "Iconic lighthouse in the south.",
+                "es": "Faro icónico en el sur."
               }
             },
             {
@@ -848,13 +925,15 @@
                 "de": "Sant Francesc",
                 "hu": "Sant Francesc",
                 "ro": "Sant Francesc",
-                "en": "Sant Francesc"
+                "en": "Sant Francesc",
+                "es": "Sant Francesc"
               },
               "tip_5lang": {
                 "de": "Rückgabe der Räder.",
                 "hu": "Kerékpárok leadása.",
                 "ro": "Returnarea bicicletelor.",
-                "en": "Return the bikes here."
+                "en": "Return the bikes here.",
+                "es": "Devuelve las bicicletas aquí."
               }
             }
           ],
@@ -960,6 +1039,11 @@
               "Stick to the designated 'Rutas Verdes' green routes.",
               "A mountain bike is better for the gravel paths.",
               "Be aware of the wind, which can make cycling tough."
+            ],
+            "es": [
+              "Mantente en las 'Rutas Verdes' designadas.",
+              "Una bici de montaña es mejor para los tramos de grava.",
+              "Ten en cuenta el viento, que puede dificultar el pedaleo."
             ]
           }
         },
@@ -968,7 +1052,8 @@
             "de": "Morgens: Kurze Fahrt zur Kirche im Dorf. Mittags: Raue See am Strand von Illetes bewundern. Nachmittags: Fahrt durch die feuchten Salinen. Abends: Der Leuchtturm steht einsam im Regen.",
             "hu": "Reggel: Rövid tekerés a falusi templomhoz. Délben: A vad tenger megcsodálása Illetes partján. Délután: Átkelés a párás sólepárlókon. Este: A világítótorony magányosan áll az esőben.",
             "ro": "Dimineața: Scurtă plimbare la biserica din sat. Prânz: Admirarea mării agitate la plaja Illetes. După-amiaza: Traversarea salinelor umede. Seara: Farul stă singuratic în ploaie.",
-            "en": "Morning: Short ride to the village church. Noon: Admiring the rough sea at Illetes beach. Afternoon: Crossing through the damp salt pans. Evening: The lighthouse stands lonely in the rain."
+            "en": "Morning: Short ride to the village church. Noon: Admiring the rough sea at Illetes beach. Afternoon: Crossing through the damp salt pans. Evening: The lighthouse stands lonely in the rain.",
+            "es": "Mañana: Paseo corto hasta la iglesia del pueblo. Mediodía: Admirando el mar embravecido en la playa de Illetes. Tarde: Cruzando las salinas húmedas. Noche: El faro permanece solitario bajo la lluvia."
           },
           "stops": [
             {
@@ -977,7 +1062,8 @@
                 "de": "Startpunkt mit Unterstellmöglichkeiten.",
                 "hu": "Kiindulópont fedett helyekkel.",
                 "ro": "Punct de plecare cu locuri de adăpost.",
-                "en": "Starting point with shelter options."
+                "en": "Starting point with shelter options.",
+                "es": "Punto de partida con opciones de refugio."
               }
             },
             {
@@ -986,7 +1072,8 @@
                 "de": "Vorsicht vor tiefem, nassem Sand.",
                 "hu": "Vigyázat a mély, nedves homokkal.",
                 "ro": "Atenție la nisipul adânc și ud.",
-                "en": "Beware of deep, wet sand."
+                "en": "Beware of deep, wet sand.",
+                "es": "Cuidado con la arena profunda y húmeda."
               }
             },
             {
@@ -995,7 +1082,8 @@
                 "de": "Holzwege sind bei Nässe sehr glatt.",
                 "hu": "A fapallók nedvesen nagyon csúsznak.",
                 "ro": "Pasarelele de lemn sunt alunecoase.",
-                "en": "Wooden paths are slippery when wet."
+                "en": "Wooden paths are slippery when wet.",
+                "es": "Las pasarelas de madera resbalan cuando están mojadas."
               }
             },
             {
@@ -1004,7 +1092,8 @@
                 "de": "Starker Seitenwind am Kap möglich.",
                 "hu": "Erős oldalszél lehetséges a foknál.",
                 "ro": "Vânt lateral puternic posibil la cap.",
-                "en": "Strong crosswinds possible at the cape."
+                "en": "Strong crosswinds possible at the cape.",
+                "es": "Rachas fuertes de viento posibles en el cabo."
               }
             },
             {
@@ -1013,7 +1102,8 @@
                 "de": "Aufwärmen in einer lokalen Bar.",
                 "hu": "Melegedjen fel egy helyi bárban.",
                 "ro": "Încălziți-vă într-un bar local.",
-                "en": "Warm up in a local bar."
+                "en": "Warm up in a local bar.",
+                "es": "Abrígate en un bar local."
               }
             }
           ],
@@ -1045,6 +1135,13 @@
               "Check your brakes before heading to the cape.",
               "Saltwater on the paths can be slippery.",
               "A mudguard protects against mud splashes."
+            ],
+            "es": [
+              "Evita las pasarelas de madera cuando estén mojadas; riesgo extremo de resbalón.",
+              "Lleva un chubasquero de colores vivos para mejor visibilidad.",
+              "Revisa los frenos antes de dirigirte al cabo.",
+              "El agua salada en los caminos puede volverlos resbaladizos.",
+              "Un guardabarros protege contra las salpicaduras de barro."
             ]
           }
         },
@@ -1053,7 +1150,8 @@
             "de": "Morgens: Erfrischende Fahrt durch leere Straßen. Mittags: Stille am schönsten Strand Europas genießen. Nachmittags: Vögel beobachten in den ruhigen Salinen. Abends: Einsamkeit am Kap Barbaria.",
             "hu": "Reggel: Frissítő tekerés az üres utcákon. Délben: Csend élvezete Európa legszebb strandján. Délután: Madárles a nyugodt sólepárlóknál. Este: Magány a Barbaria-foknál.",
             "ro": "Dimineața: Plimbare revigorantă pe străzi goale. Prânz: Bucurați-vă de liniște pe cea mai frumoasă plajă. După-amiaza: Observarea păsărilor la salinele liniștite. Seara: Singurătate la Cap de Barbaria.",
-            "en": "Morning: Refreshing ride through empty streets. Noon: Enjoying silence on Europe's finest beach. Afternoon: Birdwatching at the quiet salt pans. Evening: Solitude at Cape Barbaria."
+            "en": "Morning: Refreshing ride through empty streets. Noon: Enjoying silence on Europe's finest beach. Afternoon: Birdwatching at the quiet salt pans. Evening: Solitude at Cape Barbaria.",
+            "es": "Mañana: Paseo revitalizante por calles vacías. Mediodía: Silencio en la mejor playa de Europa. Tarde: Observación de aves en las tranquilas salinas. Noche: Soledad en el cabo de Barbaria."
           },
           "stops": [
             {
@@ -1062,7 +1160,8 @@
                 "de": "Warme Handschuhe für die Fahrt einpacken.",
                 "hu": "Csomagoljon meleg kesztyűt az úthoz.",
                 "ro": "Luați mănuși groase pentru drum.",
-                "en": "Pack warm gloves for the ride."
+                "en": "Pack warm gloves for the ride.",
+                "es": "Lleva guantes térmicos para el trayecto."
               }
             },
             {
@@ -1071,7 +1170,8 @@
                 "de": "Der Strand gehört Ihnen fast alleine.",
                 "hu": "A strand szinte csak az Öné lesz.",
                 "ro": "Plaja este aproape doar a dumneavoastră.",
-                "en": "The beach is almost yours alone."
+                "en": "The beach is almost yours alone.",
+                "es": "La playa casi será para ti solo."
               }
             },
             {
@@ -1080,7 +1180,8 @@
                 "de": "Fernglas für die Flamingos mitnehmen.",
                 "hu": "Vigyen távcsövet a flamingókhoz.",
                 "ro": "Luați binoclu pentru flamingi.",
-                "en": "Take binoculars for the flamingos."
+                "en": "Take binoculars for the flamingos.",
+                "es": "Lleva prismáticos para ver los flamencos."
               }
             },
             {
@@ -1089,7 +1190,8 @@
                 "de": "Perfekt für den Sonnenuntergang.",
                 "hu": "Tökéletes helyszín a naplementéhez.",
                 "ro": "Perfect pentru apusul soarelui.",
-                "en": "Perfect for the sunset."
+                "en": "Perfect for the sunset.",
+                "es": "Perfecto para el atardecer."
               }
             },
             {
@@ -1098,7 +1200,8 @@
                 "de": "Gönnen Sie sich eine heiße Schokolade.",
                 "hu": "Jutalmazza meg magát egy forró csokival.",
                 "ro": "Răsfățați-vă cu o ciocolată caldă.",
-                "en": "Treat yourself to a hot chocolate."
+                "en": "Treat yourself to a hot chocolate.",
+                "es": "Date un capricho con un chocolate caliente."
               }
             }
           ],
@@ -1130,6 +1233,13 @@
               "Take provisions as kiosks are closed.",
               "Roads are safer due to fewer cars.",
               "Enjoy the clear views all the way to Ibiza."
+            ],
+            "es": [
+              "No subestimes el frío del viento en la cara.",
+              "Los días son cortos, empieza a tiempo.",
+              "Lleva provisiones, los quioscos están cerrados.",
+              "Las carreteras son más seguras por menos tráfico.",
+              "Disfruta de vistas despejadas hasta Ibiza."
             ]
           }
         }
@@ -1148,7 +1258,8 @@
             "de": "Kirche von Sant Francesc",
             "hu": "Sant Francesc templom",
             "ro": "Biserica din Sant Francesc",
-            "en": "Church of Sant Francesc"
+            "en": "Church of Sant Francesc",
+            "es": "Iglesia de Sant Francesc"
           },
           "coords": [
             1.4285,
@@ -1163,7 +1274,8 @@
             "de": "Parkplatz am Ortsrand nutzen.",
             "hu": "Használja a város szélén lévő parkolót.",
             "ro": "Folosiți parcarea de la marginea orașului.",
-            "en": "Use the parking at the edge of town."
+            "en": "Use the parking at the edge of town.",
+            "es": "Usa el aparcamiento en las afueras del pueblo."
           }
         },
         {
@@ -1171,7 +1283,8 @@
             "de": "Far de la Mola",
             "hu": "La Mola világítótorony",
             "ro": "Farul La Mola",
-            "en": "Far de la Mola"
+            "en": "Far de la Mola",
+            "es": "Far de la Mola"
           },
           "coords": [
             1.5583,
@@ -1186,7 +1299,8 @@
             "de": "Am östlichsten Punkt der Insel.",
             "hu": "A sziget legkeletibb pontja.",
             "ro": "Cel mai estic punct al insulei.",
-            "en": "The easternmost point of the island."
+            "en": "The easternmost point of the island.",
+            "es": "El punto más oriental de la isla."
           }
         },
         {
@@ -1194,7 +1308,8 @@
             "de": "Molí de la Mola",
             "hu": "La Mola malom",
             "ro": "Moara din La Mola",
-            "en": "Molí de la Mola"
+            "en": "Molí de la Mola",
+            "es": "Molí de la Mola"
           },
           "coords": [
             1.53,
@@ -1209,7 +1324,8 @@
             "de": "Alte Windmühle in der Nähe von El Pilar.",
             "hu": "Régi szélmalom El Pilar közelében.",
             "ro": "Moară de vânt veche lângă El Pilar.",
-            "en": "Old windmill near El Pilar."
+            "en": "Old windmill near El Pilar.",
+            "es": "Antiguo molino cerca de El Pilar."
           }
         },
         {
@@ -1217,7 +1333,8 @@
             "de": "Es Mirador",
             "hu": "Es Mirador kilátó",
             "ro": "Belvederea Es Mirador",
-            "en": "Es Mirador"
+            "en": "Es Mirador",
+            "es": "Es Mirador"
           },
           "coords": [
             1.512,
@@ -1232,7 +1349,8 @@
             "de": "Bester Blick über die ganze Insel.",
             "hu": "A legjobb kilátás az egész szigetre.",
             "ro": "Cea mai bună priveliște asupra întregii insule.",
-            "en": "Best view over the entire island."
+            "en": "Best view over the entire island.",
+            "es": "La mejor vista de toda la isla."
           }
         },
         {
@@ -1240,7 +1358,8 @@
             "de": "Caló des Mort",
             "hu": "Caló des Mort öböl",
             "ro": "Caló des Mort",
-            "en": "Caló des Mort"
+            "en": "Caló des Mort",
+            "es": "Caló des Mort"
           },
           "coords": [
             1.518,
@@ -1255,7 +1374,8 @@
             "de": "Wunderschöne kleine Badebucht.",
             "hu": "Gyönyörű kis fürdőöböl.",
             "ro": "O mică golf de scăldat superb.",
-            "en": "A beautiful, tiny swimming cove."
+            "en": "A beautiful, tiny swimming cove.",
+            "es": "Una cala pequeña y preciosa para bañarse."
           }
         },
         {
@@ -1263,7 +1383,8 @@
             "de": "Far de Barbaria",
             "hu": "Barbaria világítótorony",
             "ro": "Farul Barbaria",
-            "en": "Far de Barbaria"
+            "en": "Far de Barbaria",
+            "es": "Far de Barbaria"
           },
           "coords": [
             1.3888,
@@ -1278,7 +1399,8 @@
             "de": "Perfekt für den Sonnenuntergang.",
             "hu": "Tökéletes helyszín naplementéhez.",
             "ro": "Perfect pentru apusul soarelui.",
-            "en": "The perfect spot for sunset."
+            "en": "The perfect spot for sunset.",
+            "es": "El lugar perfecto para el atardecer."
           }
         }
       ],
@@ -1286,7 +1408,8 @@
         "de": "Mit dem Auto erreichen Sie die entlegenen Highlights. Fahren Sie zum Leuchtturm von La Mola, der Jules Verne inspirierte. Besuchen Sie die alte Windmühle und genießen Sie die Aussicht vom Mirador. Den Nachmittag verbringen Sie in der malerischen Bucht Caló des Mort, bevor Sie zum Sonnenuntergang nach Barbaria fahren.",
         "hu": "Autóval elérheti a távolabbi látnivalókat is. Menjen el a La Mola világítótoronyhoz, amely Jules Vernét is megihlette. Nézze meg a régi szélmalmot, és csodálja meg a panorámát a Mirador kilátóból. A délutánt töltse a Caló des Mort öbölnél, végül nézze meg a naplementét Barbariánál.",
         "ro": "Cu mașina puteți ajunge la cele mai îndepărtate atracții. Mergeți la farul La Mola, care l-a inspirat pe Jules Verne. Vizitați moara de vânt veche și bucurați-vă de panorama de la Mirador. Petreceți după-amiaza în golful Caló des Mort, apoi mergeți la Barbaria pentru apus.",
-        "en": "A car allows you to reach the island's far ends. Drive to the La Mola Lighthouse, which inspired Jules Verne. Visit the historic windmill and take in the stunning views from Es Mirador. Spend the afternoon at the picturesque Caló des Mort cove before heading to Barbaria for the sunset."
+        "en": "A car allows you to reach the island's far ends. Drive to the La Mola Lighthouse, which inspired Jules Verne. Visit the historic windmill and take in the stunning views from Es Mirador. Spend the afternoon at the picturesque Caló des Mort cove before heading to Barbaria for the sunset.",
+        "es": "Un coche te permite llegar a los extremos de la isla. Conduce hasta el Far de la Mola, que inspiró a Jules Verne. Visita el molino histórico y disfruta de las impresionantes vistas desde Es Mirador. Pasa la tarde en la pintoresca cala de Caló des Mort antes de ir a Barbaria para el atardecer."
       },
       "gastro_picks": {
         "de": [
@@ -1390,6 +1513,11 @@
           "Rental cars are limited in summer; book in advance.",
           "A small car is better for the narrow island roads.",
           "There is a fee for cars entering the Ses Illetes area."
+        ],
+        "es": [
+          "Los coches de alquiler son limitados en verano; reserva con antelación.",
+          "Un coche pequeño es mejor para las estrechas carreteras de la isla.",
+          "Hay una tasa para los coches que entran en la zona de Ses Illetes."
         ]
       },
       "variants": {
@@ -1398,7 +1526,8 @@
             "de": "Mit dem Auto erreichen Sie die entlegenen Highlights. Fahren Sie zum Leuchtturm von La Mola, der Jules Verne inspirierte. Besuchen Sie die alte Windmühle und genießen Sie die Aussicht vom Mirador. Den Nachmittag verbringen Sie in der malerischen Bucht Caló des Mort, bevor Sie zum Sonnenuntergang nach Barbaria fahren.",
             "hu": "Autóval elérheti a távolabbi látnivalókat is. Menjen el a La Mola világítótoronyhoz, amely Jules Vernét is megihlette. Nézze meg a régi szélmalmot, és csodálja meg a panorámát a Mirador kilátóból. A délutánt töltse a Caló des Mort öbölnél, végül nézze meg a naplementét Barbariánál.",
             "ro": "Cu mașina puteți ajunge la cele mai îndepărtate atracții. Mergeți la farul La Mola, care l-a inspirat pe Jules Verne. Vizitați moara de vânt veche și bucurați-vă de panorama de la Mirador. Petreceți după-amiaza în golful Caló des Mort, apoi mergeți la Barbaria pentru apus.",
-            "en": "A car allows you to reach the island's far ends. Drive to the La Mola Lighthouse, which inspired Jules Verne. Visit the historic windmill and take in the stunning views from Es Mirador. Spend the afternoon at the picturesque Caló des Mort cove before heading to Barbaria for the sunset."
+            "en": "A car allows you to reach the island's far ends. Drive to the La Mola Lighthouse, which inspired Jules Verne. Visit the historic windmill and take in the stunning views from Es Mirador. Spend the afternoon at the picturesque Caló des Mort cove before heading to Barbaria for the sunset.",
+            "es": "Un coche te permite llegar a los extremos de la isla. Conduce hasta el Far de la Mola, que inspiró a Jules Verne. Visita el molino histórico y disfruta de las impresionantes vistas desde Es Mirador. Pasa la tarde en la pintoresca cala de Caló des Mort antes de ir a Barbaria para el atardecer."
           },
           "stops": [
             {
@@ -1406,13 +1535,15 @@
                 "de": "Kirche von Sant Francesc",
                 "hu": "Sant Francesc templom",
                 "ro": "Biserica din Sant Francesc",
-                "en": "Church of Sant Francesc"
+                "en": "Church of Sant Francesc",
+                "es": "Iglesia de Sant Francesc"
               },
               "tip_5lang": {
                 "de": "Parkplatz am Ortsrand nutzen.",
                 "hu": "Használja a város szélén lévő parkolót.",
                 "ro": "Folosiți parcarea de la marginea orașului.",
-                "en": "Use the parking at the edge of town."
+                "en": "Use the parking at the edge of town.",
+                "es": "Usa el aparcamiento en las afueras del pueblo."
               }
             },
             {
@@ -1420,13 +1551,15 @@
                 "de": "Far de la Mola",
                 "hu": "La Mola világítótorony",
                 "ro": "Farul La Mola",
-                "en": "Far de la Mola"
+                "en": "Far de la Mola",
+                "es": "Far de la Mola"
               },
               "tip_5lang": {
                 "de": "Am östlichsten Punkt der Insel.",
                 "hu": "A sziget legkeletibb pontja.",
                 "ro": "Cel mai estic punct al insulei.",
-                "en": "The easternmost point of the island."
+                "en": "The easternmost point of the island.",
+                "es": "El punto más oriental de la isla."
               }
             },
             {
@@ -1434,13 +1567,15 @@
                 "de": "Molí de la Mola",
                 "hu": "La Mola malom",
                 "ro": "Moara din La Mola",
-                "en": "Molí de la Mola"
+                "en": "Molí de la Mola",
+                "es": "Molí de la Mola"
               },
               "tip_5lang": {
                 "de": "Alte Windmühle in der Nähe von El Pilar.",
                 "hu": "Régi szélmalom El Pilar közelében.",
                 "ro": "Moară de vânt veche lângă El Pilar.",
-                "en": "Old windmill near El Pilar."
+                "en": "Old windmill near El Pilar.",
+                "es": "Antiguo molino cerca de El Pilar."
               }
             },
             {
@@ -1448,13 +1583,15 @@
                 "de": "Es Mirador",
                 "hu": "Es Mirador kilátó",
                 "ro": "Belvederea Es Mirador",
-                "en": "Es Mirador"
+                "en": "Es Mirador",
+                "es": "Es Mirador"
               },
               "tip_5lang": {
                 "de": "Bester Blick über die ganze Insel.",
                 "hu": "A legjobb kilátás az egész szigetre.",
                 "ro": "Cea mai bună priveliște asupra întregii insule.",
-                "en": "Best view over the entire island."
+                "en": "Best view over the entire island.",
+                "es": "La mejor vista de toda la isla."
               }
             },
             {
@@ -1462,13 +1599,15 @@
                 "de": "Caló des Mort",
                 "hu": "Caló des Mort öböl",
                 "ro": "Caló des Mort",
-                "en": "Caló des Mort"
+                "en": "Caló des Mort",
+                "es": "Caló des Mort"
               },
               "tip_5lang": {
                 "de": "Wunderschöne kleine Badebucht.",
                 "hu": "Gyönyörű kis fürdőöböl.",
                 "ro": "O mică golf de scăldat superb.",
-                "en": "A beautiful, tiny swimming cove."
+                "en": "A beautiful, tiny swimming cove.",
+                "es": "Una cala pequeña y preciosa para bañarse."
               }
             },
             {
@@ -1476,13 +1615,15 @@
                 "de": "Far de Barbaria",
                 "hu": "Barbaria világítótorony",
                 "ro": "Farul Barbaria",
-                "en": "Far de Barbaria"
+                "en": "Far de Barbaria",
+                "es": "Far de Barbaria"
               },
               "tip_5lang": {
                 "de": "Perfekt für den Sonnenuntergang.",
                 "hu": "Tökéletes helyszín naplementéhez.",
                 "ro": "Perfect pentru apusul soarelui.",
-                "en": "The perfect spot for sunset."
+                "en": "The perfect spot for sunset.",
+                "es": "El lugar perfecto para el atardecer."
               }
             }
           ],
@@ -1588,6 +1729,11 @@
               "Rental cars are limited in summer; book in advance.",
               "A small car is better for the narrow island roads.",
               "There is a fee for cars entering the Ses Illetes area."
+            ],
+            "es": [
+              "Los coches de alquiler son limitados en verano; reserva con antelación.",
+              "Un coche pequeño es mejor para las estrechas carreteras de la isla.",
+              "Hay una tasa para los coches que entran en la zona de Ses Illetes."
             ]
           }
         },
@@ -1596,7 +1742,8 @@
             "de": "Morgens: Entspannte Fahrt zum Dorfplatz. Mittags: Graue Wolken am Leuchtturm von La Mola. Nachmittags: Blick auf die tosende Brandung. Abends: Barbaria-Felsen im Regenschleier.",
             "hu": "Reggel: Pihentető autózás a falu főterére. Délben: Szürke felhők La Mola világítótornyánál. Délután: Kilátás a tomboló tajtékra. Este: Barbaria sziklái az esőfüggönyben.",
             "ro": "Dimineața: Călătorie relaxată spre piața satului. Prânz: Nori gri la farul din La Mola. După-amiaza: Vedere spre valurile înspumate. Seara: Stâncile Barbaria în perdeaua de ploaie.",
-            "en": "Morning: Relaxed drive to the village square. Noon: Gray clouds at the La Mola lighthouse. Afternoon: View of the roaring surf. Evening: Barbaria cliffs in the rain veil."
+            "en": "Morning: Relaxed drive to the village square. Noon: Gray clouds at the La Mola lighthouse. Afternoon: View of the roaring surf. Evening: Barbaria cliffs in the rain veil.",
+            "es": "Mañana: Conducción relajada hasta la plaza del pueblo. Mediodía: Nubes grises en el Far de la Mola. Tarde: Vista del oleaje rugiente. Noche: Acantilados de Barbaria bajo el velo de la lluvia."
           },
           "stops": [
             {
@@ -1605,7 +1752,8 @@
                 "de": "Parken Sie nah am Kircheneingang.",
                 "hu": "Parkoljon közel a templomhoz.",
                 "ro": "Parcați aproape de intrarea bisericii.",
-                "en": "Park close to the church entrance."
+                "en": "Park close to the church entrance.",
+                "es": "Aparca cerca de la entrada de la iglesia."
               }
             },
             {
@@ -1614,7 +1762,8 @@
                 "de": "Bleiben Sie bei Wind im Auto.",
                 "hu": "Szélben maradjon inkább az autóban.",
                 "ro": "Stați în mașină dacă este vânt puternic.",
-                "en": "Stay in the car if it's very windy."
+                "en": "Stay in the car if it's very windy.",
+                "es": "Quédate en el coche si hay mucho viento."
               }
             },
             {
@@ -1623,7 +1772,8 @@
                 "de": "Kurzer Fotostopp reicht bei Regen.",
                 "hu": "Esőben egy rövid fotómegálló is elég.",
                 "ro": "O scurtă oprire foto e suficientă.",
-                "en": "A short photo stop is enough in the rain."
+                "en": "A short photo stop is enough in the rain.",
+                "es": "Con lluvia, una breve parada fotográfica es suficiente."
               }
             },
             {
@@ -1632,7 +1782,8 @@
                 "de": "Die Insel liegt im Dunst unter Ihnen.",
                 "hu": "A sziget párában fekszik Ön alatt.",
                 "ro": "Insula se află în ceață sub dumneavoastră.",
-                "en": "The island lies in the mist below you."
+                "en": "The island lies in the mist below you.",
+                "es": "La isla queda envuelta en niebla bajo tus pies."
               }
             },
             {
@@ -1641,7 +1792,8 @@
                 "de": "Felsige Pfade sind sehr rutschig.",
                 "hu": "A sziklás ösvények nagyon csúszósak.",
                 "ro": "Potecile stâncoase sunt foarte alunecoase.",
-                "en": "Rocky paths are very slippery."
+                "en": "Rocky paths are very slippery.",
+                "es": "Los senderos pedregosos son muy resbaladizos."
               }
             },
             {
@@ -1650,7 +1802,8 @@
                 "de": "Spektakuläre Blitze über dem Meer.",
                 "hu": "Látványos villámok a tenger felett.",
                 "ro": "Fulgere spectaculoase peste mare.",
-                "en": "Spectacular lightning over the sea."
+                "en": "Spectacular lightning over the sea.",
+                "es": "Espectaculares rayos sobre el mar."
               }
             }
           ],
@@ -1682,6 +1835,13 @@
               "Use the car as a mobile viewpoint.",
               "Turn on lights as it gets dark quickly.",
               "Some access roads might be flooded."
+            ],
+            "es": [
+              "Cuidado con el aquaplaning en las carreteras rurales.",
+              "La visibilidad en La Mola puede ser muy limitada.",
+              "Usa el coche como mirador móvil.",
+              "Enciende las luces al oscurecer, que se hace pronto.",
+              "Algunas vías de acceso pueden inundarse."
             ]
           }
         },
@@ -1690,7 +1850,8 @@
             "de": "Morgens: Gemütliche Fahrt durch das stille Dorf. Mittags: Einsame Weite am östlichen Ende der Insel. Nachmittags: Besuch der alten Mühle im Wind. Abends: Der Leuchtturm im warmen Winterlicht.",
             "hu": "Reggel: Kényelmes autózás a csendes falun át. Délben: Magányos tágasság a sziget keleti végén. Délután: A régi malom meglátogatása szélben. Este: A világítótorony meleg téli fényben.",
             "ro": "Dimineața: Călătorie confortabilă prin satul liniștit. Prânz: Întindere solitară la capătul estic al insulei. După-amiaza: Vizitarea vechii mori în vânt. Seara: Farul în lumina caldă de iarnă.",
-            "en": "Morning: Comfortable drive through the quiet village. Noon: Solitary vastness at the eastern end of the island. Afternoon: Visiting the old mill in the wind. Evening: The lighthouse in warm winter light."
+            "en": "Morning: Comfortable drive through the quiet village. Noon: Solitary vastness at the eastern end of the island. Afternoon: Visiting the old mill in the wind. Evening: The lighthouse in warm winter light.",
+            "es": "Mañana: Conducción cómoda por el pueblo tranquilo. Mediodía: Soledad y amplitud en el extremo oriental de la isla. Tarde: Visita del viejo molino al viento. Noche: El faro con la cálida luz invernal."
           },
           "stops": [
             {
@@ -1699,7 +1860,8 @@
                 "de": "Parkplätze sind nun reichlich vorhanden.",
                 "hu": "Parkolóhely most bőségesen akad.",
                 "ro": "Locurile de parcare sunt acum din belșug.",
-                "en": "Parking spaces are now plentiful."
+                "en": "Parking spaces are now plentiful.",
+                "es": "Los aparcamientos ahora son abundantes."
               }
             },
             {
@@ -1708,7 +1870,8 @@
                 "de": "Beste Zeit für weite Panoramablicke.",
                 "hu": "A legjobb idő a tágas panorámához.",
                 "ro": "Cel mai bun timp pentru panorame largi.",
-                "en": "Best time for wide panoramic views."
+                "en": "Best time for wide panoramic views.",
+                "es": "Mejor momento para vistas panorámicas amplias."
               }
             },
             {
@@ -1717,7 +1880,8 @@
                 "de": "Ein einsames Relikt alter Zeiten.",
                 "hu": "A régi idők magányos relikviája.",
                 "ro": "O relicvă solitară a timpurilor vechi.",
-                "en": "A solitary relic of old times."
+                "en": "A solitary relic of old times.",
+                "es": "Un relicto solitario de tiempos pasados."
               }
             },
             {
@@ -1726,7 +1890,8 @@
                 "de": "Genießen Sie den Blick ohne Eile.",
                 "hu": "Élvezze a kilátást sietség nélkül.",
                 "ro": "Bucurați-vă de vedere fără grabă.",
-                "en": "Enjoy the view without haste."
+                "en": "Enjoy the view without haste.",
+                "es": "Disfruta la vista sin prisas."
               }
             },
             {
@@ -1735,7 +1900,8 @@
                 "de": "Die Ruhe hier ist im Winter magisch.",
                 "hu": "A nyugalom itt télen varázslatos.",
                 "ro": "Liniștea de aici este magică iarna.",
-                "en": "The peace here is magical in winter."
+                "en": "The peace here is magical in winter.",
+                "es": "La paz aquí es mágica en invierno."
               }
             },
             {
@@ -1744,7 +1910,8 @@
                 "de": "Ideal für das Ende der Tagestour.",
                 "hu": "Ideális a napi túra lezárásához.",
                 "ro": "Ideal pentru finalul turului de zi.",
-                "en": "Ideal for the end of the day tour."
+                "en": "Ideal for the end of the day tour.",
+                "es": "Ideal para el tour al final del día."
               }
             }
           ],
@@ -1776,6 +1943,13 @@
               "The sunset at Mola is a must-see.",
               "Car heating makes the trip cozy.",
               "The air is particularly clear in winter."
+            ],
+            "es": [
+              "Los coches de alquiler suelen ser más baratos en invierno.",
+              "Las carreteras casi por completo son tuyas.",
+              "El atardecer en La Mola es imprescindible.",
+              "La calefacción del coche hace el viaje acogedor.",
+              "El aire está especialmente claro en invierno."
             ]
           }
         }
@@ -1794,7 +1968,8 @@
             "de": "Sant Francesc Zentrum",
             "hu": "Sant Francesc központ",
             "ro": "Centrul Sant Francesc",
-            "en": "Sant Francesc Center"
+            "en": "Sant Francesc Center",
+            "es": "Centro de Sant Francesc"
           },
           "coords": [
             1.4285,
@@ -1809,7 +1984,8 @@
             "de": "Zentraler Busknotenpunkt der Insel.",
             "hu": "A sziget központi buszcsomópontja.",
             "ro": "Principalul nod de transport al insulei.",
-            "en": "The main transit hub of the island."
+            "en": "The main transit hub of the island.",
+            "es": "El principal nudo de comunicaciones de la isla."
           }
         },
         {
@@ -1817,7 +1993,8 @@
             "de": "Platja de ses Illetes",
             "hu": "Ses Illetes strand",
             "ro": "Plaja Ses Illetes",
-            "en": "Platja de ses Illetes"
+            "en": "Platja de ses Illetes",
+            "es": "Platja de ses Illetes"
           },
           "coords": [
             1.436,
@@ -1832,7 +2009,8 @@
             "de": "Bus L7 bringt Sie direkt zum Strand.",
             "hu": "Az L7-es busz közvetlenül a strandhoz visz.",
             "ro": "Autobuzul L7 merge direct la plajă.",
-            "en": "Bus L7 takes you directly to the beach area."
+            "en": "Bus L7 takes you directly to the beach area.",
+            "es": "La línea L7 te lleva directamente a la zona de playa."
           }
         },
         {
@@ -1840,7 +2018,8 @@
             "de": "Es Pujols",
             "hu": "Es Pujols",
             "ro": "Es Pujols",
-            "en": "Es Pujols"
+            "en": "Es Pujols",
+            "es": "Es Pujols"
           },
           "coords": [
             1.455,
@@ -1855,7 +2034,8 @@
             "de": "Touristenort mit vielen Restaurants.",
             "hu": "Turistaközpont sok étteremmel.",
             "ro": "Stațiune turistică cu multe restaurante.",
-            "en": "Tourist resort with plenty of dining options."
+            "en": "Tourist resort with plenty of dining options.",
+            "es": "Resort turístico con muchas opciones para comer."
           }
         },
         {
@@ -1863,7 +2043,8 @@
             "de": "Sant Francesc",
             "hu": "Sant Francesc",
             "ro": "Sant Francesc",
-            "en": "Sant Francesc"
+            "en": "Sant Francesc",
+            "es": "Sant Francesc"
           },
           "coords": [
             1.4264,
@@ -1878,7 +2059,8 @@
             "de": "Rückkehr zum Ausgangspunkt.",
             "hu": "Visszatérés a kiindulópontra.",
             "ro": "Întoarcerea la punctul de plecare.",
-            "en": "Return to the starting point."
+            "en": "Return to the starting point.",
+            "es": "Regreso al punto de partida."
           }
         }
       ],
@@ -1886,7 +2068,8 @@
         "de": "Formentera hat ein einfaches, aber effektives Busnetz. Nutzen Sie die Linien von Sant Francesc zum berühmten Ses Illetes Strand. Verbringen Sie den Nachmittag in Es Pujols, dem lebhaftesten Ort der Insel, bevor Sie zum Abendessen nach Sant Francesc zurückkehren.",
         "hu": "Formentera egyszerű, de hatékony buszhálózattal rendelkezik. Sant Francescből indulva látogasson el a híres Ses Illetes strandra. A délutánt töltse Es Pujolsban, a sziget legnyüzsgőbb üdülőhelyén, majd térjen vissza vacsorázni Sant Francescbe.",
         "ro": "Formentera are o rețea de autobuze simplă, dar eficientă. Mergeți din Sant Francesc la celebra plajă Ses Illetes. Petreceți după-amiaza în Es Pujols, cea mai animată stațiune de pe insulă, apoi reveniți în Sant Francesc pentru cină.",
-        "en": "Formentera has a simple but effective bus network. Take the regular services from Sant Francesc to the world-famous Ses Illetes beach. Spend the afternoon in Es Pujols, the island's most vibrant resort area, before returning to Sant Francesc for the evening."
+        "en": "Formentera has a simple but effective bus network. Take the regular services from Sant Francesc to the world-famous Ses Illetes beach. Spend the afternoon in Es Pujols, the island's most vibrant resort area, before returning to Sant Francesc for the evening.",
+        "es": "Formentera tiene una red de autobuses sencilla pero eficaz. Toma los servicios regulares desde Sant Francesc hasta la mundialmente famosa playa de Ses Illetes. Pasa la tarde en Es Pujols, la zona más animada de la isla, antes de regresar a Sant Francesc por la noche."
       },
       "gastro_picks": {
         "de": [
@@ -1990,6 +2173,11 @@
           "Consider buying a day pass for the bus network.",
           "Lines L1, L2, and L7 are the most useful for tourists.",
           "Buses run until late at night during the summer season."
+        ],
+        "es": [
+          "Considera comprar un pase de día para la red de buses.",
+          "Las líneas L1, L2 y L7 son las más útiles para los turistas.",
+          "Los autobuses circulan hasta tarde durante la temporada de verano."
         ]
       },
       "variants": {
@@ -1998,7 +2186,8 @@
             "de": "Formentera hat ein einfaches, aber effektives Busnetz. Nutzen Sie die Linien von Sant Francesc zum berühmten Ses Illetes Strand. Verbringen Sie den Nachmittag in Es Pujols, dem lebhaftesten Ort der Insel, bevor Sie zum Abendessen nach Sant Francesc zurückkehren.",
             "hu": "Formentera egyszerű, de hatékony buszhálózattal rendelkezik. Sant Francescből indulva látogasson el a híres Ses Illetes strandra. A délutánt töltse Es Pujolsban, a sziget legnyüzsgőbb üdülőhelyén, majd térjen vissza vacsorázni Sant Francescbe.",
             "ro": "Formentera are o rețea de autobuze simplă, dar eficientă. Mergeți din Sant Francesc la celebra plajă Ses Illetes. Petreceți după-amiaza în Es Pujols, cea mai animată stațiune de pe insulă, apoi reveniți în Sant Francesc pentru cină.",
-            "en": "Formentera has a simple but effective bus network. Take the regular services from Sant Francesc to the world-famous Ses Illetes beach. Spend the afternoon in Es Pujols, the island's most vibrant resort area, before returning to Sant Francesc for the evening."
+            "en": "Formentera has a simple but effective bus network. Take the regular services from Sant Francesc to the world-famous Ses Illetes beach. Spend the afternoon in Es Pujols, the island's most vibrant resort area, before returning to Sant Francesc for the evening.",
+            "es": "Formentera tiene una red de autobuses sencilla pero eficaz. Toma los servicios regulares desde Sant Francesc hasta la mundialmente famosa playa de Ses Illetes. Pasa la tarde en Es Pujols, la zona más animada de la isla, antes de regresar a Sant Francesc por la noche."
           },
           "stops": [
             {
@@ -2006,13 +2195,15 @@
                 "de": "Sant Francesc Zentrum",
                 "hu": "Sant Francesc központ",
                 "ro": "Centrul Sant Francesc",
-                "en": "Sant Francesc Center"
+                "en": "Sant Francesc Center",
+                "es": "Centro de Sant Francesc"
               },
               "tip_5lang": {
                 "de": "Zentraler Busknotenpunkt der Insel.",
                 "hu": "A sziget központi buszcsomópontja.",
                 "ro": "Principalul nod de transport al insulei.",
-                "en": "The main transit hub of the island."
+                "en": "The main transit hub of the island.",
+                "es": "El principal nudo de comunicaciones de la isla."
               }
             },
             {
@@ -2020,13 +2211,15 @@
                 "de": "Platja de ses Illetes",
                 "hu": "Ses Illetes strand",
                 "ro": "Plaja Ses Illetes",
-                "en": "Platja de ses Illetes"
+                "en": "Platja de ses Illetes",
+                "es": "Platja de ses Illetes"
               },
               "tip_5lang": {
                 "de": "Bus L7 bringt Sie direkt zum Strand.",
                 "hu": "Az L7-es busz közvetlenül a strandhoz visz.",
                 "ro": "Autobuzul L7 merge direct la plajă.",
-                "en": "Bus L7 takes you directly to the beach area."
+                "en": "Bus L7 takes you directly to the beach area.",
+                "es": "La línea L7 te lleva directamente a la zona de playa."
               }
             },
             {
@@ -2034,13 +2227,15 @@
                 "de": "Es Pujols",
                 "hu": "Es Pujols",
                 "ro": "Es Pujols",
-                "en": "Es Pujols"
+                "en": "Es Pujols",
+                "es": "Es Pujols"
               },
               "tip_5lang": {
                 "de": "Touristenort mit vielen Restaurants.",
                 "hu": "Turistaközpont sok étteremmel.",
                 "ro": "Stațiune turistică cu multe restaurante.",
-                "en": "Tourist resort with plenty of dining options."
+                "en": "Tourist resort with plenty of dining options.",
+                "es": "Resort turístico con muchas opciones para comer."
               }
             },
             {
@@ -2048,13 +2243,15 @@
                 "de": "Sant Francesc",
                 "hu": "Sant Francesc",
                 "ro": "Sant Francesc",
-                "en": "Sant Francesc"
+                "en": "Sant Francesc",
+                "es": "Sant Francesc"
               },
               "tip_5lang": {
                 "de": "Rückkehr zum Ausgangspunkt.",
                 "hu": "Visszatérés a kiindulópontra.",
                 "ro": "Întoarcerea la punctul de plecare.",
-                "en": "Return to the starting point."
+                "en": "Return to the starting point.",
+                "es": "Regreso al punto de partida."
               }
             }
           ],
@@ -2160,6 +2357,11 @@
               "Consider buying a day pass for the bus network.",
               "Lines L1, L2, and L7 are the most useful for tourists.",
               "Buses run until late at night during the summer season."
+            ],
+            "es": [
+              "Considera comprar un pase de día para la red de autobuses.",
+              "Las líneas L1, L2 y L7 son las más útiles para turistas.",
+              "Los autobuses circulan hasta tarde por la noche durante la temporada de verano."
             ]
           }
         },
@@ -2168,7 +2370,8 @@
             "de": "Morgens: Bequem mit dem Bus ins Zentrum. Mittags: Den Regen am Strand aus dem Café beobachten. Nachmittags: Kleiner Stadtbummel unter dem Schirm. Abends: Rückfahrt im trockenen Bus.",
             "hu": "Reggel: Kényelmesen busszal a központba. Délben: Az eső figyelése a strand melletti kávézóból. Délután: Kis városi séta ernyő alatt. Este: Hazautazás a száraz buszon.",
             "ro": "Dimineața: Confortabil cu autobuzul spre centru. Prânz: Priviți ploaia de la o cafenea de pe plajă. După-amiaza: Mică plimbare prin oraș sub umbrelă. Seara: Întoarcere cu autobuzul uscat.",
-            "en": "Morning: Comfortably by bus to the center. Noon: Watching the rain from a beach cafe. Afternoon: Small city stroll under the umbrella. Evening: Return trip in the dry bus."
+            "en": "Morning: Comfortably by bus to the center. Noon: Watching the rain from a beach cafe. Afternoon: Small city stroll under the umbrella. Evening: Return trip in the dry bus.",
+            "es": "Mañana: Tránsito cómodo en autobús hasta el centro. Mediodía: Ver la lluvia desde un café en la playa. Tarde: Pequeño paseo por la ciudad bajo el paraguas. Noche: Viaje de regreso en el autobús seco."
           },
           "stops": [
             {
@@ -2177,7 +2380,8 @@
                 "de": "Zentrale Haltestelle mit Wartehäuschen.",
                 "hu": "Központi megálló váróteremmel.",
                 "ro": "Stație centrală cu adăpost.",
-                "en": "Central stop with a waiting shelter."
+                "en": "Central stop with a waiting shelter.",
+                "es": "Parada central con marquesina de espera."
               }
             },
             {
@@ -2186,7 +2390,8 @@
                 "de": "Suchen Sie Schutz in den Strandlokalen.",
                 "hu": "Keressen menedéket a parti bárokban.",
                 "ro": "Căutați adăpost în localurile de pe plajă.",
-                "en": "Seek shelter in the beach bars."
+                "en": "Seek shelter in the beach bars.",
+                "es": "Busca refugio en los chiringuitos de la playa."
               }
             },
             {
@@ -2195,7 +2400,8 @@
                 "de": "Überdachte Einkaufswege im Ort.",
                 "hu": "Fedett bevásárlóutak a faluban.",
                 "ro": "Căi de shopping acoperite în sat.",
-                "en": "Covered shopping paths in the village."
+                "en": "Covered shopping paths in the village.",
+                "es": "Pasajes comerciales cubiertos en el pueblo."
               }
             },
             {
@@ -2204,7 +2410,8 @@
                 "de": "Idealer Ort für ein spätes Abendessen.",
                 "hu": "Ideális helyszín egy késői vacsorához.",
                 "ro": "Loc ideal pentru o cină târzie.",
-                "en": "Ideal location for a late dinner."
+                "en": "Ideal location for a late dinner.",
+                "es": "Ubicación ideal para una cena tardía."
               }
             }
           ],
@@ -2236,6 +2443,13 @@
               "Bus shelters provide good rain protection.",
               "Buses are often quite full in the rain.",
               "Align your trips with the rain breaks."
+            ],
+            "es": [
+              "Los horarios de los autobuses pueden variar durante las tormentas.",
+              "Ten cambio pequeño preparado para el billete.",
+              "Las marquesinas de autobús ofrecen buena protección contra la lluvia.",
+              "Los autobuses suelen ir bastante llenos cuando llueve.",
+              "Ajusta tus viajes a las pausas en la lluvia."
             ]
           }
         },
@@ -2244,7 +2458,8 @@
             "de": "Morgens: Entspannte Fahrt durch die Winterlandschaft. Mittags: Langer Spaziergang am verlassenen Strand. Nachmittags: Gemütlicher Kaffee in Es Pujols. Abends: Letzter Bus zurück ins Dorf.",
             "hu": "Reggel: Pihentető utazás a téli tájon át. Délben: Hosszú séta az elhagyatott strandon. Délután: Kényelmes kávézás Es Pujolsban. Este: Az utolsó busz vissza a faluba.",
             "ro": "Dimineața: Călătorie relaxată prin peisajul de iarnă. Prânz: Plimbare lungă pe plaja pustie. După-amiaza: Cafea plăcută în Es Pujols. Seara: Ultimul autobuz înapoi în sat.",
-            "en": "Morning: Relaxed trip through the winter landscape. Noon: Long walk on the deserted beach. Afternoon: Cozy coffee in Es Pujols. Evening: Last bus back to the village."
+            "en": "Morning: Relaxed trip through the winter landscape. Noon: Long walk on the deserted beach. Afternoon: Cozy coffee in Es Pujols. Evening: Last bus back to the village.",
+            "es": "Mañana: Viaje relajado por el paisaje invernal. Mediodía: Larga caminata por la playa desierta. Tarde: Café acogedor en Es Pujols. Noche: Último autobús de vuelta al pueblo."
           },
           "stops": [
             {
@@ -2253,7 +2468,8 @@
                 "de": "Der Winterfahrplan ist reduziert.",
                 "hu": "A téli menetrend ritkított.",
                 "ro": "Orarul de iarnă este redus.",
-                "en": "The winter schedule is reduced."
+                "en": "The winter schedule is reduced.",
+                "es": "El horario de invierno está reducido."
               }
             },
             {
@@ -2262,7 +2478,8 @@
                 "de": "Genießen Sie die reine Meeresbrise.",
                 "hu": "Élvezze a tiszta tengeri szellőt.",
                 "ro": "Bucurați-vă de briza mării curată.",
-                "en": "Enjoy the pure sea breeze."
+                "en": "Enjoy the pure sea breeze.",
+                "es": "Disfruta de la brisa marina pura."
               }
             },
             {
@@ -2271,7 +2488,8 @@
                 "de": "Besuchen Sie die wenigen offenen Cafés.",
                 "hu": "Látogassa meg a kevés nyitott kávézót.",
                 "ro": "Vizitați puținele cafenele deschise.",
-                "en": "Visit the few open cafes."
+                "en": "Visit the few open cafes.",
+                "es": "Visita los pocos cafés abiertos."
               }
             },
             {
@@ -2280,7 +2498,8 @@
                 "de": "Ruhiger Ausklang des Wintertages.",
                 "hu": "A téli nap csendes lezárása.",
                 "ro": "Final liniștit al zilei de iarnă.",
-                "en": "Quiet end to the winter day."
+                "en": "Quiet end to the winter day.",
+                "es": "Final tranquilo para el día invernal."
               }
             }
           ],
@@ -2312,6 +2531,13 @@
               "The bus is a warm place to heat up.",
               "Use the app for real-time information.",
               "Enjoy the ride with available seating."
+            ],
+            "es": [
+              "Consulta el horario de invierno online con antelación.",
+              "Algunas rutas circulan con menos frecuencia en invierno.",
+              "El autobús es un lugar cálido para entrar en calor.",
+              "Usa la app para información en tiempo real.",
+              "Disfruta del trayecto con asientos disponibles."
             ]
           }
         }
@@ -2327,19 +2553,22 @@
       "de": "Formentera ist katalanischsprachig, Spanisch versteht jeder, Englisch und Italienisch sind durch Tourismus etabliert. Im Sommer hört man oft mehr Italienisch als Spanisch. Deutsch eher selten.",
       "hu": "Formentera katalán nyelvű, spanyolul mindenki ért, az angol és olasz turizmus miatt megy. Nyáron többször hallasz olaszt mint spanyolt. Német ritka.",
       "ro": "Formentera vorbește catalană, toți înțeleg spaniola, engleza și italiana merg datorită turismului. Vara auzi mai mult italiană decât spaniolă. Germana e rară.",
-      "en": "Formentera speaks Catalan; everyone knows Spanish, and English and Italian are widespread thanks to tourism. In summer you hear more Italian than Spanish. German is rare."
+      "en": "Formentera speaks Catalan; everyone knows Spanish, and English and Italian are widespread thanks to tourism. In summer you hear more Italian than Spanish. German is rare.",
+      "es": "Formentera habla catalán; todo el mundo conoce el español, y el inglés y el italiano son habituales por el turismo. En verano se oye más italiano que español. El alemán es raro."
     },
     "best_time_to_visit": {
       "de": "Mai-Juni und September für türkises Wasser ohne Bootsmassen. Juli-August die Insel ist überlaufen mit Yachten, Fähren ausgebucht. Im Winter fast verlassen, viele Lokale geschlossen.",
       "hu": "Május-június és szeptember a legjobb a türkiz vízhez hajóhad nélkül. Július-augusztus túlzsúfolt jachtokkal, kompok teltházasak. Télen szinte kihalt, sok hely zárva.",
       "ro": "Mai-iunie și septembrie pentru apa turcoaz fără flote de iahturi. Iulie-august e prea aglomerat, feriboturile pline. Iarna aproape pustie, multe închise.",
-      "en": "May-June and September for turquoise water without yacht crowds. July-August is overrun with yachts, ferries fully booked. In winter the island feels nearly empty with many spots shut."
+      "en": "May-June and September for turquoise water without yacht crowds. July-August is overrun with yachts, ferries fully booked. In winter the island feels nearly empty with many spots shut.",
+      "es": "Mayo-junio y septiembre para agua turquesa sin las multitudes de yates. Julio-agosto está saturado de yates, ferris llenos. En invierno la isla se siente casi vacía y muchos lugares cierran."
     },
     "neighborhood_warnings": {
       "de": "Extrem sicher, sehr niedrige Kriminalität. Hauptgefahren: Sonnenbrand, Quallen, ungeschützte Klippen. Mopeds vorsichtig auf Schotterwegen. Auf Schutzgebiete (Dünen) achten, Bußgelder hoch.",
       "hu": "Rendkívül biztonságos, nagyon alacsony bűnözés. Fő veszélyek: leégés, medúzák, biztosítatlan szirtek. Robogóval óvatosan földutakon. Védett területeken (dűnék) tilos járni, magas a bírság.",
       "ro": "Extrem de sigur, criminalitate foarte redusă. Pericole reale: arsuri solare, meduze, stânci nemarcate. Atenție cu scuterul pe drumuri de pământ. Respectă zonele protejate (dune), amenzile sunt mari.",
-      "en": "Extremely safe, very low crime. Real dangers: sunburn, jellyfish, unfenced cliffs. Ride mopeds carefully on dirt tracks. Respect protected dune zones, fines are steep."
+      "en": "Extremely safe, very low crime. Real dangers: sunburn, jellyfish, unfenced cliffs. Ride mopeds carefully on dirt tracks. Respect protected dune zones, fines are steep.",
+      "es": "Extremadamente segura, delincuencia muy baja. Peligros reales: quemaduras de sol, medusas, acantilados sin barandilla. Conduce con cuidado en pistas de tierra si usas moto. Respeta zonas protegidas de dunas; las multas son altas."
     }
   }
 }

@@ -21,7 +21,8 @@
             "de": "Markthalle (Mercado de Abastos)",
             "hu": "Vásárcsarnok (Mercado de Abastos)",
             "ro": "Piața Centrală (Mercado de Abastos)",
-            "en": "Central Market (Mercado de Abastos)"
+            "en": "Central Market (Mercado de Abastos)",
+            "es": "Mercado Central (Mercado de Abastos)"
           },
           "coords": [
             -6.1465,
@@ -37,7 +38,8 @@
             "de": "Probieren Sie den frischen Fisch und die lokalen 'Chicharrones'.",
             "hu": "Kóstolja meg a friss halat és a helyi „chicharrones”-t.",
             "ro": "Încercați peștele proaspăt și specialitățile locale 'chicharrones'.",
-            "en": "Try the fresh fish and the local 'chicharrones'."
+            "en": "Try the fresh fish and the local 'chicharrones'.",
+            "es": "Prueba el pescado fresco y los chicharrones locales."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Uhrturm (Torre del Reloj)",
             "hu": "Óratorony (Torre del Reloj)",
             "ro": "Turnul cu Ceas (Torre del Reloj)",
-            "en": "Clock Tower (Torre del Reloj)"
+            "en": "Clock Tower (Torre del Reloj)",
+            "es": "Torre del Reloj"
           },
           "coords": [
             -6.1458,
@@ -61,7 +64,8 @@
             "de": "Der Turm ist das Wahrzeichen der Stadt und ein tolles Fotomotiv.",
             "hu": "A torony a város jelképe és remek fotótéma.",
             "ro": "Turnul este simbolul orașului și un loc excelent pentru fotografii.",
-            "en": "The tower is the city's emblem and a great photo spot."
+            "en": "The tower is the city's emblem and a great photo spot.",
+            "es": "La torre es el emblema de la ciudad y un gran lugar para fotos."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Kirche San Juan Bautista",
             "hu": "Szent János apostol templom",
             "ro": "Biserica San Juan Bautista",
-            "en": "Church of San Juan Bautista"
+            "en": "Church of San Juan Bautista",
+            "es": "Iglesia de San Juan Bautista"
           },
           "coords": [
             -6.1455,
@@ -85,7 +90,8 @@
             "de": "Bewundern Sie die neoklassizistische Architektur und die Kunstwerke im Inneren.",
             "hu": "Csodálja meg a neoklasszikus építészetet és a belső műalkotásokat.",
             "ro": "Admirați arhitectura neoclasică și operele de artă din interior.",
-            "en": "Admire the neoclassical architecture and the artworks inside."
+            "en": "Admire the neoclassical architecture and the artworks inside.",
+            "es": "Admira la arquitectura neoclásica y las obras de arte en su interior."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Museum von Chiclana",
             "hu": "Chiclana Múzeuma",
             "ro": "Muzeul din Chiclana",
-            "en": "Museum of Chiclana"
+            "en": "Museum of Chiclana",
+            "es": "Museo de Chiclana"
           },
           "coords": [
             -6.1488,
@@ -109,7 +116,8 @@
             "de": "Erfahren Sie mehr über die Geschichte der Stadt, vom Phönizier bis heute.",
             "hu": "Ismerje meg a város történelmét a föníciaiaktól napjainkig.",
             "ro": "Aflați mai multe despre istoria orașului, de la fenicieni până în prezent.",
-            "en": "Learn about the city's history, from the Phoenicians to the present day."
+            "en": "Learn about the city's history, from the Phoenicians to the present day.",
+            "es": "Conoce la historia de la ciudad, desde los fenicios hasta la actualidad."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Strand La Barrosa",
             "hu": "La Barrosa strand",
             "ro": "Plaja La Barrosa",
-            "en": "La Barrosa Beach"
+            "en": "La Barrosa Beach",
+            "es": "Playa de La Barrosa"
           },
           "coords": [
             -6.195,
@@ -133,7 +142,8 @@
             "de": "Ein langer Spaziergang am Meer ist hier der perfekte Abschluss des Tages.",
             "hu": "Egy hosszú tengerparti séta tökéletes lezárása a napnak.",
             "ro": "O plimbare lungă pe malul mării este finalul perfect al zilei aici.",
-            "en": "A long walk by the sea is the perfect way to end the day here."
+            "en": "A long walk by the sea is the perfect way to end the day here.",
+            "es": "Un largo paseo junto al mar es la manera perfecta de acabar el día aquí."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Sonnenuntergang am Castillo de Sancti Petri",
             "hu": "Naplemente a Sancti Petri kastélynál",
             "ro": "Apus de soare la Castelul Sancti Petri",
-            "en": "Sunset at Sancti Petri Castle"
+            "en": "Sunset at Sancti Petri Castle",
+            "es": "Atardecer en el Castillo de Sancti Petri"
           },
           "coords": [
             -6.208,
@@ -157,7 +168,8 @@
             "de": "Der Blick auf die Burg in der Abendsonne ist unvergesslich.",
             "hu": "A kastély látványa az esti napfényben felejthetetlen.",
             "ro": "Priveliștea castelului în lumina apusului este de neuitat.",
-            "en": "The view of the castle in the evening sun is unforgettable."
+            "en": "The view of the castle in the evening sun is unforgettable.",
+            "es": "La vista del castillo con el sol de la tarde es inolvidable."
           }
         }
       ],
@@ -165,7 +177,8 @@
         "de": "Beginnen Sie Ihren Tag mit den lebhaften Eindrücken des Mercado de Abastos. Schlendern Sie durch die Altstadt, vorbei am Uhrturm und der prächtigen Kirche San Juan Bautista. Am Nachmittag tauchen Sie im Stadtmuseum in die Geschichte ein. Beenden Sie den Tag mit einem langen, erfrischenden Spaziergang zum berühmten Strand La Barrosa, wo Sie einen spektakulären Sonnenuntergang mit Blick auf die Burg Sancti Petri erleben.",
         "hu": "Kezdje a napot a Mercado de Abastos nyüzsgő hangulatával. Sétáljon végig az óvároson, elhaladva az Óratorony és a csodálatos San Juan Bautista templom mellett. Délután merüljön el a város történelmében a helyi múzeumban. A napot egy hosszú, frissítő sétával zárja a híres La Barrosa strandon, ahol a Sancti Petri várra nyíló látványos naplementében gyönyörködhet.",
         "ro": "Începeți ziua cu atmosfera vibrantă a Mercado de Abastos. Plimbați-vă prin orașul vechi, trecând pe lângă Turnul cu Ceas și impunătoarea Biserică San Juan Bautista. După-amiaza, cufundați-vă în istoria orașului la muzeu. Încheiați ziua cu o plimbare lungă și revigorantă pe faimoasa plajă La Barrosa, unde veți asista la un apus spectaculos cu vedere la Castelul Sancti Petri.",
-        "en": "Start your day with the vibrant atmosphere of the Mercado de Abastos. Stroll through the old town, passing the Clock Tower and the magnificent Church of San Juan Bautista. In the afternoon, delve into the city's history at the museum. End the day with a long, refreshing walk to the famous La Barrosa beach, where you'll witness a spectacular sunset with views of Sancti Petri Castle."
+        "en": "Start your day with the vibrant atmosphere of the Mercado de Abastos. Stroll through the old town, passing the Clock Tower and the magnificent Church of San Juan Bautista. In the afternoon, delve into the city's history at the museum. End the day with a long, refreshing walk to the famous La Barrosa beach, where you'll witness a spectacular sunset with views of Sancti Petri Castle.",
+        "es": "Empieza el día con la vibrante atmósfera del Mercado de Abastos. Pasea por el casco antiguo, pasando la Torre del Reloj y la magnífica Iglesia de San Juan Bautista. Por la tarde, profundiza en la historia de la ciudad en el museo. Termina el día con un largo y refrescante paseo hasta la famosa Playa de La Barrosa, donde contemplarás una espectacular puesta de sol con vistas al Castillo de Sancti Petri."
       },
       "gastro_picks": {
         "de": [
@@ -361,6 +374,12 @@
           "Bring water and sunscreen.",
           "Plan for a late lunch at the beach.",
           "Most shops in the center close during the siesta."
+        ],
+        "es": [
+          "Lleva calzado cómodo, ya que la caminata hasta la playa es larga.",
+          "Lleva agua y protector solar.",
+          "Planea un almuerzo tardío en la playa.",
+          "La mayoría de las tiendas del centro cierran durante la siesta."
         ]
       },
       "variants": {
@@ -369,7 +388,8 @@
             "de": "Beginnen Sie Ihren Tag im geschäftigen Mercado de Abastos, wo Sie unter dem festen Dach regionale Köstlichkeiten probieren können, während draußen der Regen prasselt. Mittags bietet die Kirche San Juan Bautista einen spirituellen und trockenen Zufluchtsort, bevor Sie im Museo de Chiclana tief in die lokale Geschichte eintauchen.\n\nAm Nachmittag verwandelt der Regen den Strand von La Barrosa in eine dramatische Kulisse; genießen Sie den Blick aus einem der überdachten Cafés an der Promenade. Zum Abschluss des Tages beobachten Sie die grauen Wolken über dem Sancti Petri Castle, was der Festung eine mystische Ausstrahlung verleiht.",
             "hu": "Kezdje a napot a Mercado de Abastos fedett csarnokában, ahol a helyi finomságok között sétálva menedéket talál az eső elől. Délben a San Juan Bautista templom nyújt csendes és száraz pihenőt, majd a Chiclana Múzeum tárlatai között merülhet el a város múltjában anélkül, hogy elázna.\n\nDélután a La Barrosa strand a viharos tenger képével várja; a sétány fedett teraszairól csodálhatja a hullámokat. Az estét a Sancti Petri vár távoli sziluettje zárja, amely a szürke felhők alatt még titokzatosabb látványt nyújt a kikötő védelméből.",
             "ro": "Începeți ziua la Mercado de Abastos, unde acoperișul solid vă protejează de ploaie în timp ce explorați tarabele cu produse locale. La prânz, biserica San Juan Bautista oferă un refugiu spiritual uscat, urmată de o vizită la Muzeul din Chiclana pentru a descoperi istoria orașului la adăpost.\n\nDupă-amiaza, plaja La Barrosa capătă un aspect dramatic sub cerul noros; admirați spectacolul mării de pe o terasă acoperită de pe faleză. Seara se încheie cu vederea spre Castelul Sancti Petri, care pare desprins dintr-o legendă sub burnița fină a golfului.",
-            "en": "Start your day at the covered Mercado de Abastos, sampling local delicacies while staying dry under its sturdy roof. At midday, the Church of San Juan Bautista provides a peaceful, rain-free sanctuary, followed by a visit to the Museum of Chiclana to explore local history indoors.\n\nIn the afternoon, La Barrosa Beach takes on a dramatic mood; watch the crashing waves from one of the covered cafes along the promenade. The day concludes with a view of Sancti Petri Castle, which looks mystical under the grey clouds and light rain."
+            "en": "Start your day at the covered Mercado de Abastos, sampling local delicacies while staying dry under its sturdy roof. At midday, the Church of San Juan Bautista provides a peaceful, rain-free sanctuary, followed by a visit to the Museum of Chiclana to explore local history indoors.\n\nIn the afternoon, La Barrosa Beach takes on a dramatic mood; watch the crashing waves from one of the covered cafes along the promenade. The day concludes with a view of Sancti Petri Castle, which looks mystical under the grey clouds and light rain.",
+            "es": "Comienza el día en el cubierto Mercado de Abastos, probando delicias locales mientras te resguardas bajo su sólida cubierta. Al mediodía, la Iglesia de San Juan Bautista ofrece un refugio tranquilo sin lluvia, seguida de una visita al Museo de Chiclana para explorar la historia local en el interior.\n\nPor la tarde, la Playa de La Barrosa adquiere un ambiente dramático; contempla las olas desde uno de los cafés con cubiertas a lo largo del paseo. El día concluye con la vista del Castillo de Sancti Petri, que se muestra místico bajo el cielo gris y la lluvia ligera."
           },
           "stops": [
             {
@@ -378,7 +398,8 @@
                 "de": "Der perfekte Ort, um trocken zu bleiben und lokale Sherry-Sorten zu probieren.",
                 "hu": "A legjobb hely, hogy szárazon maradva kóstoljuk meg a helyi borokat.",
                 "ro": "Locul perfect pentru a rămâne uscat și a gusta vinurile locale.",
-                "en": "The perfect spot to stay dry and sample local sherry varieties."
+                "en": "The perfect spot to stay dry and sample local sherry varieties.",
+                "es": "El lugar perfecto para mantenerse seco y probar variedades locales de jerez."
               }
             },
             {
@@ -387,7 +408,8 @@
                 "de": "Ein kurzes Foto vom Torbogen aus reicht bei diesem Wetter völlig aus.",
                 "hu": "Egy gyors fotó az ívek alól bőven elég ebben az időben.",
                 "ro": "O fotografie rapidă de sub arcade este suficientă pe această vreme.",
-                "en": "A quick photo from under the arches is plenty in this weather."
+                "en": "A quick photo from under the arches is plenty in this weather.",
+                "es": "Una foto rápida desde debajo de los arcos es suficiente con este tiempo."
               }
             },
             {
@@ -396,7 +418,8 @@
                 "de": "Nutzen Sie die Stille im Inneren, um den stärksten Schauer abzuwarten.",
                 "hu": "Használja ki a benti csendet, amíg elvonul a legnagyobb zápor.",
                 "ro": "Folosiți liniștea din interior pentru a aștepta trecerea celei mai mari averse.",
-                "en": "Take advantage of the interior silence to wait out the heaviest downpour."
+                "en": "Take advantage of the interior silence to wait out the heaviest downpour.",
+                "es": "Aprovecha el silencio interior para esperar el chaparrón más fuerte."
               }
             },
             {
@@ -405,7 +428,8 @@
                 "de": "Ideales Ziel für eine ausgiebige Erkundung ohne Regenschirm.",
                 "hu": "Ideális célpont egy alapos felfedezéshez esernyő nélkül.",
                 "ro": "Destinație ideală pentru o explorare detaliată fără umbrelă.",
-                "en": "Ideal destination for a thorough exploration without an umbrella."
+                "en": "Ideal destination for a thorough exploration without an umbrella.",
+                "es": "Destino ideal para una exploración a fondo sin paraguas."
               }
             },
             {
@@ -414,7 +438,8 @@
                 "de": "Wählen Sie ein Café mit Glasfront für den Blick auf den wilden Atlantik.",
                 "hu": "Válasszon egy üvegfalú kávézót a vad Atlanti-óceán látványához.",
                 "ro": "Alegeți o cafenea cu geamuri mari pentru vederea la Atlanticul sălbatic.",
-                "en": "Choose a glass-fronted cafe for views of the wild Atlantic."
+                "en": "Choose a glass-fronted cafe for views of the wild Atlantic.",
+                "es": "Elige una cafetería acristalada para contemplar el salvaje Atlántico."
               }
             },
             {
@@ -423,7 +448,8 @@
                 "de": "Vom Hafen aus sieht man die Festung auch bei Regen sehr gut.",
                 "hu": "A kikötőből esőben is jól látható az erőd sziluettje.",
                 "ro": "Din port se vede foarte bine silueta cetății chiar și pe ploaie.",
-                "en": "The fortress silhouette is clearly visible from the harbor even in rain."
+                "en": "The fortress silhouette is clearly visible from the harbor even in rain.",
+                "es": "La silueta de la fortaleza es claramente visible desde el puerto incluso con lluvia."
               }
             }
           ],
@@ -455,6 +481,13 @@
               "Use the museum as a strategic break spot during heavy rain.",
               "Many beach bars at La Barrosa have plastic windbreaks for protection.",
               "A small umbrella is often impractical due to sudden coastal winds."
+            ],
+            "es": [
+              "Usa calzado antideslizante ya que el pavimento del casco antiguo se vuelve resbaladizo con agua.",
+              "El mercado está cerrado los domingos, así que planea la visita en consecuencia.",
+              "Usa el museo como punto estratégico para descansar durante lluvia intensa.",
+              "Muchos chiringuitos de La Barrosa tienen pantallas de plástico contra el viento para protegerse.",
+              "Un paraguas pequeño suele ser poco práctico por los vientos costeros repentinos."
             ]
           }
         },
@@ -463,7 +496,8 @@
             "de": "An einem klaren Wintermorgen ist die Luft am Markt von Chiclana erfrischend und belebend. Besuchen Sie die historischen Kirchen, deren kühle Steine im Kontrast zur milden andalusischen Wintersonne stehen, bevor Sie sich im Museum aufwärmen.\n\nMittags lädt die Strandpromenade von La Barrosa zu einem ausgiebigen Spaziergang ein; die Sonne wärmt genug für einen Kaffee im Freien, wenn man windgeschützt sitzt. Da die Sonne bereits gegen 18 Uhr untergeht, erreichen Sie das Sancti Petri Castle pünktlich zum goldenen Leuchten des kurzen Winterabends.",
             "hu": "Egy tiszta téli reggelen a levegő frissítő és élénkítő a chiclanai piac környékén. Látogassa meg a történelmi templomokat, melyek hűvös kövei kontrasztban állnak a szelíd andalúz napsütéssel, mielőtt a múzeumban melegedne fel.\n\nDélben a La Barrosa sétány hosszú sétákra hív; a nap elég meleg egy kinti kávéhoz, ha szélvédett helyet talál. Mivel a nap már 18 óra körül lemegy, pontosan a téli este arany órájában éri el a Sancti Petri várat, csodálatos fényeket látva.",
             "ro": "Într-o dimineață senină de iarnă, aerul de lângă piața din Chiclana este revigorant. Vizitați bisericile istorice, ale căror pietre reci contrastează cu soarele blând al Andaluziei, înainte de a vă încălzi în muzeu.\n\nLa prânz, faleza La Barrosa vă invită la plimbări lungi; soarele este destul de cald pentru o cafea afară, dacă găsiți un loc ferit de vânt. Deoarece soarele apune în jurul orei 18:00, veți ajunge la Castelul Sancti Petri exact pentru lumina aurie a serii scurte de iarnă.",
-            "en": "On a clear winter morning, the air around Chiclana's market is refreshing and bracing. Visit the historic churches, whose cool stones contrast with the gentle Andalusian winter sun, before warming up in the museum.\n\nAt midday, the La Barrosa promenade invites you for long walks; the sun is warm enough for an outdoor coffee if you find a wind-sheltered spot. Since the sun sets around 6 PM, you'll reach Sancti Petri Castle just in time for the golden glow of the short winter evening."
+            "en": "On a clear winter morning, the air around Chiclana's market is refreshing and bracing. Visit the historic churches, whose cool stones contrast with the gentle Andalusian winter sun, before warming up in the museum.\n\nAt midday, the La Barrosa promenade invites you for long walks; the sun is warm enough for an outdoor coffee if you find a wind-sheltered spot. Since the sun sets around 6 PM, you'll reach Sancti Petri Castle just in time for the golden glow of the short winter evening.",
+            "es": "En una clara mañana invernal, el aire alrededor del mercado de Chiclana es fresco y vigorizante. Visita las iglesias históricas, cuyos fríos muros contrastan con el suave sol andaluz de invierno, antes de calentarte en el museo.\n\nAl mediodía, el paseo de La Barrosa invita a largos paseos; el sol es lo bastante cálido para un café al aire libre si encuentras un lugar resguardado del viento. Como el sol se pone sobre las 18:00, llegarás al Castillo de Sancti Petri justo a tiempo para el resplandor dorado de la corta tarde invernal."
           },
           "stops": [
             {
@@ -472,7 +506,8 @@
                 "de": "Probieren Sie die typischen Winter-Süßigkeiten der Region.",
                 "hu": "Kóstolja meg a régió jellegzetes téli édességeit.",
                 "ro": "Gustați dulciurile de iarnă tipice regiunii.",
-                "en": "Try the typical winter sweets of the region."
+                "en": "Try the typical winter sweets of the region.",
+                "es": "Prueba los dulces típicos de invierno de la región."
               }
             },
             {
@@ -481,7 +516,8 @@
                 "de": "Das Licht am Vormittag ist ideal für klare Fotos des Turms.",
                 "hu": "A délelőtti fények ideálisak a torony éles fotózásához.",
                 "ro": "Lumina dimineții este ideală pentru fotografii clare cu turnul.",
-                "en": "The morning light is ideal for clear photos of the tower."
+                "en": "The morning light is ideal for clear photos of the tower.",
+                "es": "La luz de la mañana es ideal para fotos nítidas de la torre."
               }
             },
             {
@@ -490,7 +526,8 @@
                 "de": "Achtung, in der Kirche kann es deutlich kühler sein als draußen.",
                 "hu": "Vigyázat, a templomban jóval hűvösebb lehet, mint kint.",
                 "ro": "Atenție, în biserică poate fi mult mai răcoare decât afară.",
-                "en": "Careful, it can be significantly cooler inside the church than outside."
+                "en": "Careful, it can be significantly cooler inside the church than outside.",
+                "es": "Cuidado: puede hacer bastante más frío dentro de la iglesia que fuera."
               }
             },
             {
@@ -499,7 +536,8 @@
                 "de": "Ein angenehm temperierter Ort für die Mittagsstunden.",
                 "hu": "Kellemes hőmérsékletű hely a déli órák eltöltéséhez.",
                 "ro": "Un loc cu temperatură plăcută pentru orele amiezii.",
-                "en": "A pleasantly tempered place for the midday hours."
+                "en": "A pleasantly tempered place for the midday hours.",
+                "es": "Un lugar agradablemente templado para las horas de mediodía."
               }
             },
             {
@@ -508,7 +546,8 @@
                 "de": "Genießen Sie die Ruhe am Strand, weit weg vom Sommertrubel.",
                 "hu": "Élvezze a strand nyugalmát, távol a nyári tömegtől.",
                 "ro": "Bucurați-vă de liniștea plajei, departe de agitația verii.",
-                "en": "Enjoy the beach's tranquility, far from the summer crowds."
+                "en": "Enjoy the beach's tranquility, far from the summer crowds.",
+                "es": "Disfruta de la tranquilidad de la playa, lejos de las multitudes veraniegas."
               }
             },
             {
@@ -517,7 +556,8 @@
                 "de": "Planen Sie den Besuch für 17:30 Uhr ein, um den Sonnenuntergang zu sehen.",
                 "hu": "Tervezze a látogatást 17:30-ra, hogy lássa a naplementét.",
                 "ro": "Planificați vizita pentru 17:30 pentru a vedea apusul.",
-                "en": "Plan your visit for 5:30 PM to catch the sunset."
+                "en": "Plan your visit for 5:30 PM to catch the sunset.",
+                "es": "Planifica tu visita para las 17:30 para ver la puesta de sol."
               }
             }
           ],
@@ -549,6 +589,13 @@
               "Winter is the best time for sherry tastings in local bodegas.",
               "A strong, cool Levante wind often blows at the beach in winter.",
               "Many state museums are closed on Mondays, even in winter."
+            ],
+            "es": [
+              "Vístete por capas; hace fresco a la sombra pero cálido al sol.",
+              "El sol se pone pronto, así que termina las actividades al aire libre antes de las 18:00.",
+              "El invierno es la mejor época para catas de jerez en las bodegas locales.",
+              "Un fuerte y frío viento de Levante sopla a menudo en la playa durante el invierno.",
+              "Muchos museos estatales cierran los lunes, incluso en invierno."
             ]
           }
         }
@@ -567,7 +614,8 @@
             "de": "Markthalle (Mercado de Abastos)",
             "hu": "Vásárcsarnok (Mercado de Abastos)",
             "ro": "Piața Centrală (Mercado de Abastos)",
-            "en": "Central Market (Mercado de Abastos)"
+            "en": "Central Market (Mercado de Abastos)",
+            "es": "Mercado Central (Mercado de Abastos)"
           },
           "coords": [
             -6.1465,
@@ -583,7 +631,8 @@
             "de": "Starten Sie den Tag mit einem Kaffee und beobachten Sie das Treiben.",
             "hu": "Kezdje a napot egy kávéval, és figyelje a nyüzsgést.",
             "ro": "Începeți ziua cu o cafea și priviți agitația.",
-            "en": "Start the day with a coffee and watch the hustle and bustle."
+            "en": "Start the day with a coffee and watch the hustle and bustle.",
+            "es": "Empieza el día con un café y observa el ajetreo."
           }
         },
         {
@@ -591,7 +640,8 @@
             "de": "Uhrturm & Kirche San Juan Bautista",
             "hu": "Óratorony és Szent János apostol templom",
             "ro": "Turnul cu Ceas & Biserica San Juan Bautista",
-            "en": "Clock Tower & Church of San Juan Bautista"
+            "en": "Clock Tower & Church of San Juan Bautista",
+            "es": "Torre del Reloj y Iglesia de San Juan Bautista"
           },
           "coords": [
             -6.1456,
@@ -607,7 +657,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die beiden Wahrzeichen zu Fuß.",
             "hu": "Tegye le a biciklit, és fedezze fel a két nevezetességet gyalog.",
             "ro": "Lăsați bicicleta și explorați cele două repere pe jos.",
-            "en": "Park your bike and explore both landmarks on foot."
+            "en": "Park your bike and explore both landmarks on foot.",
+            "es": "Aparca la bici y explora ambos hitos a pie."
           }
         },
         {
@@ -615,7 +666,8 @@
             "de": "Eremitage Santa Ana",
             "hu": "Santa Ana remeteség",
             "ro": "Schitul Santa Ana",
-            "en": "Hermitage of Santa Ana"
+            "en": "Hermitage of Santa Ana",
+            "es": "Ermita de Santa Ana"
           },
           "coords": [
             -6.151,
@@ -631,7 +683,8 @@
             "de": "Der Anstieg ist die Aussicht wert! Ein perfekter Panoramablick über die Stadt.",
             "hu": "A kaptató megéri a kilátást! Tökéletes panoráma nyílik a városra.",
             "ro": "Urcușul merită priveliștea! O panoramă perfectă asupra orașului.",
-            "en": "The climb is worth the view! A perfect panoramic view over the city."
+            "en": "The climb is worth the view! A perfect panoramic view over the city.",
+            "es": "La subida merece la pena por las vistas; panorámica perfecta sobre la ciudad."
           }
         },
         {
@@ -639,7 +692,8 @@
             "de": "Strand La Barrosa",
             "hu": "La Barrosa strand",
             "ro": "Plaja La Barrosa",
-            "en": "La Barrosa Beach"
+            "en": "La Barrosa Beach",
+            "es": "Playa de La Barrosa"
           },
           "coords": [
             -6.195,
@@ -655,7 +709,8 @@
             "de": "Zeit für ein langes Mittagessen, Schwimmen und Entspannen am goldenen Sandstrand.",
             "hu": "Itt az ideje egy hosszú ebédnek, úszásnak és pihenésnek az aranyhomokos strandon.",
             "ro": "Timpul pentru un prânz lung, înot și relaxare pe plaja cu nisip auriu.",
-            "en": "Time for a long lunch, swimming, and relaxing on the golden sands."
+            "en": "Time for a long lunch, swimming, and relaxing on the golden sands.",
+            "es": "Tiempo para un largo almuerzo, nadar y relajarse en las arenas doradas."
           }
         },
         {
@@ -663,7 +718,8 @@
             "de": "Sonnenuntergang am Novo Sancti Petri",
             "hu": "Naplemente Novo Sancti Petrinél",
             "ro": "Apus de soare la Novo Sancti Petri",
-            "en": "Sunset at Novo Sancti Petri"
+            "en": "Sunset at Novo Sancti Petri",
+            "es": "Atardecer en Novo Sancti Petri"
           },
           "coords": [
             -6.19,
@@ -679,7 +735,8 @@
             "de": "Radeln Sie die Promenade entlang und genießen Sie das Farbenspiel am Himmel.",
             "hu": "Tekerjen végig a sétányon, és élvezze az égbolt színeit.",
             "ro": "Plimbați-vă cu bicicleta de-a lungul promenadei și bucurați-vă de culorile cerului.",
-            "en": "Cycle along the promenade and enjoy the colors of the sky."
+            "en": "Cycle along the promenade and enjoy the colors of the sky.",
+            "es": "Pedalea por el paseo y disfruta de los colores del cielo."
           }
         }
       ],
@@ -687,7 +744,8 @@
         "de": "Schwingen Sie sich aufs Rad für eine Tour, die Stadt und Strand verbindet. Nach einem Vormittag in der historischen Innenstadt, mit Stopps am Markt und dem Panoramablick von Santa Ana, führt Sie eine längere Fahrt direkt an die Küste. Der Nachmittag gehört ganz dem Strand La Barrosa: Genießen Sie die Sonne, das Meer und ein gemütliches Mittagessen. Zum Abschluss radeln Sie die Promenade entlang in den Sonnenuntergang.",
         "hu": "Pattanjon biciklire egy városi és tengerparti túrára. A történelmi belvárosban töltött délelőtt után, ahol megáll a piacnál és a Santa Ana panorámájánál, egy hosszabb út vezet közvetlenül a partra. A délután a La Barrosa strandé: élvezze a napot, a tengert és egy kellemes ebédet. Végül tekerjen végig a sétányon a naplementébe.",
         "ro": "Urcați-vă pe bicicletă pentru un tur care combină orașul și plaja. După o dimineață în centrul istoric, cu opriri la piață și la punctul panoramic Santa Ana, o călătorie mai lungă vă duce direct la coastă. După-amiaza este dedicată plajei La Barrosa: bucurați-vă de soare, mare și un prânz relaxant. La final, pedalați de-a lungul promenadei spre apus.",
-        "en": "Get on your bike for a tour that combines city and beach. After a morning in the historic center, with stops at the market and the panoramic view from Santa Ana, a longer ride takes you directly to the coast. The afternoon is all about La Barrosa beach: enjoy the sun, the sea, and a leisurely lunch. Finally, cycle along the promenade into the sunset."
+        "en": "Get on your bike for a tour that combines city and beach. After a morning in the historic center, with stops at the market and the panoramic view from Santa Ana, a longer ride takes you directly to the coast. The afternoon is all about La Barrosa beach: enjoy the sun, the sea, and a leisurely lunch. Finally, cycle along the promenade into the sunset.",
+        "es": "Súbete a la bicicleta para un recorrido que combina ciudad y playa. Tras una mañana en el centro histórico, con paradas en el mercado y la vista panorámica desde Santa Ana, una ruta más larga te lleva directamente a la costa. La tarde es para la Playa de La Barrosa: disfruta del sol, del mar y de un almuerzo tranquilo. Finalmente, pedalea por el paseo hacia la puesta de sol."
       },
       "gastro_picks": {
         "de": [
@@ -883,6 +941,12 @@
           "Always lock your bike securely.",
           "The cycle paths along the coast are excellent.",
           "Be aware of traffic in the city center."
+        ],
+        "es": [
+          "Alquila una bici con marchas para la subida a Santa Ana.",
+          "Asegura siempre bien tu bicicleta con candado.",
+          "Los carriles bici junto a la costa son excelentes.",
+          "Ten cuidado con el tráfico en el centro de la ciudad."
         ]
       },
       "variants": {
@@ -891,7 +955,8 @@
             "de": "Eine Radtour im Regen erfordert die richtige Ausrüstung, bietet aber leere Wege. Starten Sie am Markt und wärmen Sie sich mit einem heißen Kaffee auf, bevor Sie zu den Kirchen weiterfahren, wo Sie unter den Portalen Schutz finden.\n\nDie Fahrt zur Hermitage of Santa Ana ist bei Nässe anstrengend, belohnt aber mit einem dramatischen Blick über die Stadt. An der Playa de la Barrosa angekommen, lassen Sie das Rad stehen und genießen die raue See aus der Sicherheit einer windgeschützten Bar.",
             "hu": "Egy esős bringatúra megfelelő felszerelést igényel, de üres utakat kínál. Kezdjen a piacon egy forró kávéval, majd folytassa a templomok felé, ahol az oszlopcsarnokok alatt talál menedéket.\n\nA Santa Ana remetelakhoz vezető út vizesen nehezebb, de drámai kilátást nyújt a városra. A Barrosa strandra érve hagyja a bringát a tárolóban, és élvezze a zord tengert egy szélvédett bár biztonságából.",
             "ro": "O tură cu bicicleta pe ploaie necesită echipament adecvat, dar oferă drumuri libere. Începeți la piață cu o cafea fierbinte, apoi continuați spre biserici, unde găsiți adăpost sub portaluri.\n\nDrumul spre Schitul Santa Ana este mai greu pe carosabil umed, dar oferă o priveliște dramatică. Ajunși la Playa de la Barrosa, lăsați bicicleta și bucurați-vă de marea agitată din siguranța unui bar ferit de vânt.",
-            "en": "A rainy bike tour requires the right gear but offers empty paths. Start at the market with a hot coffee, then continue to the churches where you can find shelter under the portals.\n\nThe ride to the Hermitage of Santa Ana is tougher in the wet but rewards you with dramatic city views. Once at Playa de la Barrosa, park your bike and enjoy the rough sea from the safety of a wind-sheltered bar."
+            "en": "A rainy bike tour requires the right gear but offers empty paths. Start at the market with a hot coffee, then continue to the churches where you can find shelter under the portals.\n\nThe ride to the Hermitage of Santa Ana is tougher in the wet but rewards you with dramatic city views. Once at Playa de la Barrosa, park your bike and enjoy the rough sea from the safety of a wind-sheltered bar.",
+            "es": "Una ruta en bici bajo la lluvia requiere el equipo adecuado pero ofrece caminos vacíos. Comienza en el mercado con un café caliente, luego continúa hacia las iglesias donde puedes cobijarte bajo los pórticos.\n\nLa subida a la Ermita de Santa Ana es más dura con lluvia, pero te recompensa con vistas dramáticas de la ciudad. Una vez en la Playa de La Barrosa, aparca la bici y disfruta del mar picado desde la seguridad de un bar protegido del viento."
           },
           "stops": [
             {
@@ -900,7 +965,8 @@
                 "de": "Parken Sie Ihr Rad unter dem Vordach am Haupteingang.",
                 "hu": "Parkolja a bringát a főbejáratnál lévő előtető alá.",
                 "ro": "Parcați bicicleta sub copertina de la intrarea principală.",
-                "en": "Park your bike under the canopy at the main entrance."
+                "en": "Park your bike under the canopy at the main entrance.",
+                "es": "Aparca la bici bajo la marquesina en la entrada principal."
               }
             },
             {
@@ -909,7 +975,8 @@
                 "de": "Vorsicht vor den glatten Metallgittern auf dem Kirchplatz.",
                 "hu": "Vigyázzon a templomtéren lévő csúszós fémrácsokkal.",
                 "ro": "Atenție la grătarele metalice alunecoase din piața bisericii.",
-                "en": "Watch out for slippery metal grates in the church square."
+                "en": "Watch out for slippery metal grates in the church square.",
+                "es": "Cuidado con las rejillas metálicas resbaladizas en la plaza de la iglesia."
               }
             },
             {
@@ -918,7 +985,8 @@
                 "de": "Der Anstieg ist bei Regen rutschig, fahren Sie vorsichtig ab.",
                 "hu": "Az emelkedő esőben csúszós, óvatosan ereszkedjen lefelé.",
                 "ro": "Urcarea este alunecoasă pe ploaie, coborâți cu prudență.",
-                "en": "The climb is slippery in the rain; descend with caution."
+                "en": "The climb is slippery in the rain; descend with caution.",
+                "es": "La subida es resbaladiza con lluvia; desciende con precaución."
               }
             },
             {
@@ -927,7 +995,8 @@
                 "de": "Nutzen Sie die Fahrradständer nahe der überdachten Promenade.",
                 "hu": "Használja a fedett sétányhoz közeli kerékpártárolókat.",
                 "ro": "Folosiți rastelele de biciclete de lângă faleza acoperită.",
-                "en": "Use the bike racks near the covered promenade area."
+                "en": "Use the bike racks near the covered promenade area.",
+                "es": "Usa los aparcabicis cerca del paseo cubierto."
               }
             },
             {
@@ -936,7 +1005,8 @@
                 "de": "Ein kurzes Ziel, da es bei Regen schnell dunkel und kühl wird.",
                 "hu": "Rövid megálló, mert esőben gyorsan sötétedik és hűl le a levegő.",
                 "ro": "O oprire scurtă, fiindcă pe ploaie se întunecă și se răcește rapid.",
-                "en": "A brief stop as it gets dark and cool quickly in the rain."
+                "en": "A brief stop as it gets dark and cool quickly in the rain.",
+                "es": "Una parada breve, ya que se hace oscuro y fresco rápidamente con lluvia."
               }
             }
           ],
@@ -968,6 +1038,13 @@
               "Wear a high-visibility vest as visibility drops significantly in the rain.",
               "Use the coastal bike paths as they have better drainage.",
               "Lock your bike in well-lit areas if stopping for a longer break."
+            ],
+            "es": [
+              "Evita las marcas viales blancas porque se vuelven extremadamente resbaladizas con agua.",
+              "Revisa los frenos antes de descender la colina de Santa Ana.",
+              "Lleva chaleco de alta visibilidad, ya que la visibilidad baja significativamente con lluvia.",
+              "Usa los carriles bici costeros porque tienen mejor drenaje.",
+              "Asegura la bici en zonas bien iluminadas si haces una parada larga."
             ]
           }
         },
@@ -976,7 +1053,8 @@
             "de": "Winter ist die ideale Zeit für Radfahrer in Chiclana, da die Temperaturen perfekt für körperliche Aktivität sind. Starten Sie am Markt und radeln Sie durch die ruhige Altstadt zur Kirche San Juan Bautista, bevor Sie den Hügel zur Santa Ana erklimmen.\n\nAm Nachmittag bietet der flache Radweg zur La Barrosa eine entspannte Fahrt unter der milden Wintersonne. Der Abschluss in Novo Sancti Petri ist spektakulär, wenn die Sonne tief über dem Atlantik steht – denken Sie aber an Licht am Rad für den Rückweg nach Sonnenuntergang.",
             "hu": "A tél ideális időszak a biciklizéshez Chiclanában, mivel a hőmérséklet tökéletes a mozgáshoz. Kezdjen a piacon, tekerjen át a csendes óvároson a San Juan Bautista templomhoz, majd hódítsa meg a Santa Ana dombját.\n\nDélután a La Barrosa felé vezető sík kerékpárút pihentető gurulást kínál a szelíd téli napsütésben. A Novo Sancti Petri-i befejezés látványos, amikor a nap alacsonyan jár az Atlanti-óceán felett – de ne felejtse el a világítást a hazafelé útra.",
             "ro": "Iarna este momentul ideal pentru ciclism în Chiclana, temperaturile fiind perfecte pentru mișcare. Începeți la piață, traversați centrul vechi liniștit spre San Juan Bautista, apoi cuceriți dealul Santa Ana.\n\nDupă-amiaza, pista plată spre La Barrosa oferă o plimbare relaxantă sub soarele blând de iarnă. Finalul la Novo Sancti Petri este spectaculos, cu soarele coborât deasupra Atlanticului – dar nu uitați luminile pentru drumul de întoarcere.",
-            "en": "Winter is ideal for cycling in Chiclana as temperatures are perfect for physical activity. Start at the market, bike through the quiet old town to San Juan Bautista Church, and then conquer Santa Ana hill.\n\nIn the afternoon, the flat bike path to La Barrosa offers a relaxed ride under the mild winter sun. The finish in Novo Sancti Petri is spectacular with the sun low over the Atlantic—but remember your bike lights for the return trip after sunset."
+            "en": "Winter is ideal for cycling in Chiclana as temperatures are perfect for physical activity. Start at the market, bike through the quiet old town to San Juan Bautista Church, and then conquer Santa Ana hill.\n\nIn the afternoon, the flat bike path to La Barrosa offers a relaxed ride under the mild winter sun. The finish in Novo Sancti Petri is spectacular with the sun low over the Atlantic—but remember your bike lights for the return trip after sunset.",
+            "es": "El invierno es ideal para pedalear en Chiclana, ya que las temperaturas son perfectas para la actividad física. Comienza en el mercado, cruza en bici el tranquilo casco antiguo hasta la Iglesia de San Juan Bautista y luego sube a la colina de Santa Ana.\n\nPor la tarde, el carril llano hacia La Barrosa ofrece un paseo relajado bajo el suave sol invernal. La llegada a Novo Sancti Petri es espectacular con el sol bajo sobre el Atlántico, pero recuerda llevar luces para la vuelta tras la puesta de sol."
           },
           "stops": [
             {
@@ -985,7 +1063,8 @@
                 "de": "Genießen Sie ein warmes Gebäck, bevor Sie losfahren.",
                 "hu": "Egyen egy meleg süteményt, mielőtt útnak indulna.",
                 "ro": "Mâncați un produs de patiserie cald înainte de a pleca.",
-                "en": "Enjoy a warm pastry before you start your ride."
+                "en": "Enjoy a warm pastry before you start your ride.",
+                "es": "Disfruta de un bollo caliente antes de empezar tu ruta."
               }
             },
             {
@@ -994,7 +1073,8 @@
                 "de": "Die Plätze sind im Winter leerer und besser befahrbar.",
                 "hu": "A terek télen üresebbek és könnyebben áttekerhetők.",
                 "ro": "Piețele sunt mai goale iarna și mai ușor de parcurs.",
-                "en": "The squares are emptier in winter and easier to navigate by bike."
+                "en": "The squares are emptier in winter and easier to navigate by bike.",
+                "es": "Las plazas están más vacías en invierno y es más fácil circular en bici."
               }
             },
             {
@@ -1003,7 +1083,8 @@
                 "de": "Der Anstieg wärmt Sie bei den kühlen Wintertemperaturen auf.",
                 "hu": "Az emelkedő jól felmelegíti a hűvös téli időben.",
                 "ro": "Urcarea vă va încălzi bine pe vremea răcoroasă de iarnă.",
-                "en": "The climb will warm you up nicely in the cool winter air."
+                "en": "The climb will warm you up nicely in the cool winter air.",
+                "es": "La subida te calentará bien con el fresco aire invernal."
               }
             },
             {
@@ -1012,7 +1093,8 @@
                 "de": "Perfekt für eine Pause in der Sonne ohne Hitzeerschöpfung.",
                 "hu": "Tökéletes egy napközbeni pihenőhöz hőségriadó nélkül.",
                 "ro": "Perfect pentru o pauză la soare fără riscul de supraîncălzire.",
-                "en": "Perfect for a break in the sun without heat exhaustion."
+                "en": "Perfect for a break in the sun without heat exhaustion.",
+                "es": "Perfecto para hacer una pausa al sol sin riesgo de agobio por calor."
               }
             },
             {
@@ -1021,7 +1103,8 @@
                 "de": "Ziehen Sie sich für die Rückfahrt nach Sonnenuntergang warm an.",
                 "hu": "Öltözzön fel melegen a naplemente utáni visszatéréshez.",
                 "ro": "Îmbrăcați-vă bine pentru drumul de întoarcere de după apus.",
-                "en": "Dress warmly for the return trip after the sun goes down."
+                "en": "Dress warmly for the return trip after the sun goes down.",
+                "es": "Abrígate para el viaje de vuelta una vez que se ponga el sol."
               }
             }
           ],
@@ -1053,6 +1136,13 @@
               "A windstopper jacket is essential for the coastal sections.",
               "Keep hydrating regularly even in cooler weather.",
               "There are fewer tourist buses on the roads to the coast in winter."
+            ],
+            "es": [
+              "Comienza tan pronto amanezca para aprovechar las horas de luz.",
+              "Las luces para la bici son obligatorias porque anochece de repente después de las 18:00.",
+              "Una chaqueta cortavientos es imprescindible para los tramos costeros.",
+              "Hidrátate regularmente incluso con tiempo fresco.",
+              "Hay menos autocares turísticos en las carreteras hacia la costa en invierno."
             ]
           }
         }
@@ -1071,7 +1161,8 @@
             "de": "Parken & Erkundung der Altstadt",
             "hu": "Parkolás és az óváros felfedezése",
             "ro": "Parcare & Explorarea Orașului Vechi",
-            "en": "Parking & Old Town Exploration"
+            "en": "Parking & Old Town Exploration",
+            "es": "Aparcamiento y paseo por el casco antiguo"
           },
           "coords": [
             -6.147,
@@ -1087,7 +1178,8 @@
             "de": "Suchen Sie einen Parkplatz am Rande des Zentrums, um den Tag zu beginnen.",
             "hu": "Keressen egy parkolót a központ szélén a nap megkezdéséhez.",
             "ro": "Găsiți o parcare la marginea centrului pentru a începe ziua.",
-            "en": "Find a parking spot on the edge of the center to start the day."
+            "en": "Find a parking spot on the edge of the center to start the day.",
+            "es": "Busca aparcamiento en el borde del centro para empezar el día."
           }
         },
         {
@@ -1095,7 +1187,8 @@
             "de": "Markthalle & Uhrturm",
             "hu": "Vásárcsarnok és Óratorony",
             "ro": "Piața Centrală și Turnul cu Ceas",
-            "en": "Market Hall & Clock Tower"
+            "en": "Market Hall & Clock Tower",
+            "es": "Lonja del Mercado y Torre del Reloj"
           },
           "coords": [
             -6.146,
@@ -1111,7 +1204,8 @@
             "de": "Erleben Sie das lokale Leben und bewundern Sie das Wahrzeichen der Stadt.",
             "hu": "Tapasztalja meg a helyi életet, és csodálja meg a város jelképét.",
             "ro": "Experimentați viața locală și admirați simbolul orașului.",
-            "en": "Experience local life and admire the city's landmark."
+            "en": "Experience local life and admire the city's landmark.",
+            "es": "Vive la vida local y admira el emblema de la ciudad."
           }
         },
         {
@@ -1119,7 +1213,8 @@
             "de": "Kirche San Juan Bautista & Museum",
             "hu": "Szent János templom és Múzeum",
             "ro": "Biserica San Juan Bautista & Muzeul",
-            "en": "Church of San Juan Bautista & Museum"
+            "en": "Church of San Juan Bautista & Museum",
+            "es": "Iglesia de San Juan Bautista y Museo"
           },
           "coords": [
             -6.146,
@@ -1135,7 +1230,8 @@
             "de": "Ein Spaziergang durch Kunst, Kultur und Geschichte im Herzen von Chiclana.",
             "hu": "Séta a művészet, a kultúra és a történelem világában Chiclana szívében.",
             "ro": "O plimbare prin artă, cultură și istorie în inima orașului Chiclana.",
-            "en": "A walk through art, culture, and history in the heart of Chiclana."
+            "en": "A walk through art, culture, and history in the heart of Chiclana.",
+            "es": "Un paseo por el arte, la cultura y la historia en el corazón de Chiclana."
           }
         },
         {
@@ -1143,7 +1239,8 @@
             "de": "Fahrt zum Strand La Barrosa",
             "hu": "Utazás a La Barrosa strandra",
             "ro": "Călătorie spre plaja La Barrosa",
-            "en": "Drive to La Barrosa Beach"
+            "en": "Drive to La Barrosa Beach",
+            "es": "Conduce hasta la Playa de La Barrosa"
           },
           "coords": [
             -6.195,
@@ -1159,7 +1256,8 @@
             "de": "Parken Sie in der Nähe der Promenade und genießen Sie den Nachmittag am Meer.",
             "hu": "Parkoljon a sétány közelében, és élvezze a délutánt a tengerparton.",
             "ro": "Parcați lângă promenadă și bucurați-vă de după-amiaza la mare.",
-            "en": "Park near the promenade and enjoy the afternoon by the sea."
+            "en": "Park near the promenade and enjoy the afternoon by the sea.",
+            "es": "Aparca cerca del paseo marítimo y disfruta la tarde junto al mar."
           }
         },
         {
@@ -1167,7 +1265,8 @@
             "de": "Blick auf das Castillo de Sancti Petri",
             "hu": "Kilátás a Sancti Petri kastélyra",
             "ro": "Vedere spre Castelul Sancti Petri",
-            "en": "View of Sancti Petri Castle"
+            "en": "View of Sancti Petri Castle",
+            "es": "Vistas del Castillo de Sancti Petri"
           },
           "coords": [
             -6.208,
@@ -1183,7 +1282,8 @@
             "de": "Ein kurzer Spaziergang entlang des Strandes für eine perfekte Aussicht.",
             "hu": "Egy rövid séta a parton a tökéletes kilátásért.",
             "ro": "O scurtă plimbare de-a lungul plajei pentru o priveliște perfectă.",
-            "en": "A short walk along the beach for a perfect view."
+            "en": "A short walk along the beach for a perfect view.",
+            "es": "Un corto paseo por la playa para una vista perfecta."
           }
         },
         {
@@ -1191,7 +1291,8 @@
             "de": "Eremitage Santa Ana zum Sonnenuntergang",
             "hu": "Santa Ana remeteség naplementekor",
             "ro": "Schitul Santa Ana la apus",
-            "en": "Hermitage of Santa Ana for sunset"
+            "en": "Hermitage of Santa Ana for sunset",
+            "es": "Ermita de Santa Ana para el atardecer"
           },
           "coords": [
             -6.151,
@@ -1207,7 +1308,8 @@
             "de": "Fahren Sie zum höchsten Punkt der Stadt für einen unvergesslichen Abschluss.",
             "hu": "Vezessen fel a város legmagasabb pontjára egy felejthetetlen befejezésért.",
             "ro": "Conduceți până la cel mai înalt punct al orașului pentru un final de neuitat.",
-            "en": "Drive to the highest point of the city for an unforgettable finale."
+            "en": "Drive to the highest point of the city for an unforgettable finale.",
+            "es": "Sube al punto más alto de la ciudad para un final inolvidable."
           }
         }
       ],
@@ -1215,7 +1317,8 @@
         "de": "Nutzen Sie die Flexibilität des Autos, um Chiclanas Facetten zu entdecken. Vormittags erkunden Sie zu Fuß das historische Zentrum, nachdem Sie Ihr Auto geparkt haben. Am Mittag fahren Sie zum berühmten Strand La Barrosa für Sonne, Meer und ein spätes Mittagessen. Ein Spaziergang am Strand führt Sie zur Aussicht auf die alte Festung. Zum krönenden Abschluss fahren Sie zur Eremitage Santa Ana und erleben von dort oben einen atemberaubenden Sonnenuntergang.",
         "hu": "Használja ki az autó rugalmasságát Chiclana felfedezéséhez. Délelőtt, a parkolás után, gyalogosan fedezze fel a történelmi központot. Délben utazzon a híres La Barrosa strandra napozni, fürdeni és egy késői ebédre. Egy tengerparti séta elvezeti a régi erődre nyíló kilátáshoz. A nap megkoronázásaként vezessen fel a Santa Ana remeteséghez, és élvezze a lélegzetelállító naplementét.",
         "ro": "Folosiți flexibilitatea mașinii pentru a descoperi fațetele Chiclanei. Dimineața, explorați centrul istoric pe jos după ce parcați. La prânz, mergeți la faimoasa plajă La Barrosa pentru soare, mare și un prânz târziu. O plimbare pe plajă vă duce la vederea vechii cetăți. Ca o încoronare, conduceți la Schitul Santa Ana și experimentați un apus de soare uluitor de acolo.",
-        "en": "Use the flexibility of the car to discover Chiclana's facets. In the morning, explore the historic center on foot after parking your car. At noon, drive to the famous La Barrosa beach for sun, sea, and a late lunch. A walk on the beach leads you to the view of the old fortress. To top it off, drive to the Hermitage of Santa Ana and experience a breathtaking sunset from up there."
+        "en": "Use the flexibility of the car to discover Chiclana's facets. In the morning, explore the historic center on foot after parking your car. At noon, drive to the famous La Barrosa beach for sun, sea, and a late lunch. A walk on the beach leads you to the view of the old fortress. To top it off, drive to the Hermitage of Santa Ana and experience a breathtaking sunset from up there.",
+        "es": "Aprovecha la flexibilidad del coche para descubrir las facetas de Chiclana. Por la mañana explora el centro histórico a pie tras aparcar. A mediodía conduce a la famosa playa de La Barrosa para sol, mar y una comida tardía. Un paseo por la playa te lleva hasta la vista de la antigua fortaleza. Para rematar, sube en coche a la ermita de Santa Ana y disfruta de un atardecer impresionante desde allí."
       },
       "gastro_picks": {
         "de": [
@@ -1411,6 +1514,12 @@
           "Pay attention to parking zones (blue lines are paid).",
           "The streets in the center are narrow, drive carefully.",
           "A car is ideal for also visiting the surrounding white villages (Pueblos Blancos)."
+        ],
+        "es": [
+          "Aparcar en la playa puede ser difícil en verano; ven temprano.",
+          "Presta atención a las zonas de aparcamiento (las líneas azules son de pago).",
+          "Las calles del centro son estrechas; conduce con cuidado.",
+          "Un coche es ideal también para visitar los Pueblos Blancos cercanos."
         ]
       },
       "variants": {
@@ -1419,7 +1528,8 @@
             "de": "Das Auto ist bei Regen der beste Begleiter in Chiclana. Starten Sie entspannt in der Altstadt, wo Sie nahe dem Markt parken können. Nutzen Sie den Vormittag für die Kirche und das Museum, während das Auto trocken in der Nähe steht.\n\nDie Fahrt zur Playa de la Barrosa ist bei Regen sicher und komfortabel. Parken Sie direkt an der Promenade und genießen Sie den Blick auf den Atlantik, bevor Sie zum Abschluss zur Santa Ana fahren, von wo aus Sie den Regen über der Stadt aus dem trockenen Innenraum beobachten können.",
             "hu": "Az autó a legjobb társ Chiclanában esős időben. Kezdjen kényelmesen az óvárosban, ahol a piac közelében parkolhat. Használja ki a délelőttöt a templomra és a múzeumra, miközben az autó szárazon várja a közelben.\n\nA La Barrosa strandhoz vezető út biztonságos és komfortos esőben is. Parkoljon közvetlenül a sétánynál, élvezze az Atlanti-óceán látványát, majd fejezze be a napot a Santa Ana dombnál, ahonnan a száraz kocsiból nézheti a város feletti esőt.",
             "ro": "Mașina este cel mai bun companion în Chiclana pe timp de ploaie. Începeți relaxat în centrul vechi, unde puteți parca lângă piață. Profități de dimineață pentru biserică și muzeu, în timp ce mașina stă la adăpost în apropiere.\n\nDrumul spre Playa de la Barrosa este sigur și confortabil pe ploaie. Parcați direct pe faleză, admirați Atlanticul, apoi încheiați la Santa Ana, de unde puteți privi ploaia de deasupra orașului din interiorul uscat al mașinii.",
-            "en": "The car is your best companion in Chiclana during rainy weather. Start relaxed in the old town, where you can park near the market. Use the morning for the church and museum while your car stays dry nearby.\n\nThe drive to La Barrosa Beach is safe and comfortable even in the rain. Park right by the promenade, enjoy the Atlantic views, and finish at Santa Ana hill, where you can watch the rain over the city from the dry interior of your car."
+            "en": "The car is your best companion in Chiclana during rainy weather. Start relaxed in the old town, where you can park near the market. Use the morning for the church and museum while your car stays dry nearby.\n\nThe drive to La Barrosa Beach is safe and comfortable even in the rain. Park right by the promenade, enjoy the Atlantic views, and finish at Santa Ana hill, where you can watch the rain over the city from the dry interior of your car.",
+            "es": "El coche es tu mejor compañero en Chiclana con lluvia. Empieza con calma en el casco antiguo, donde puedes aparcar cerca del mercado. Usa la mañana para la iglesia y el museo mientras tu coche permanece seco.\n\nEl trayecto a la Playa de La Barrosa es seguro y cómodo incluso con lluvia. Aparca junto al paseo, disfruta las vistas del Atlántico y termina en el cerro de Santa Ana, desde donde puedes ver la lluvia sobre la ciudad desde el interior seco del coche."
           },
           "stops": [
             {
@@ -1428,7 +1538,8 @@
                 "de": "Nutzen Sie ein Parkhaus für einen komplett trockenen Ausstieg.",
                 "hu": "Használjon parkolóházat a teljesen száraz kiszálláshoz.",
                 "ro": "Folosiți o parcare etajată pentru o coborâre complet uscată.",
-                "en": "Use a parking garage for a completely dry exit from the car."
+                "en": "Use a parking garage for a completely dry exit from the car.",
+                "es": "Usa un aparcamiento cubierto para salir completamente seco del coche."
               }
             },
             {
@@ -1437,7 +1548,8 @@
                 "de": "Parken Sie so nah wie möglich am Markteingang.",
                 "hu": "Parkoljon a lehető legközelebb a piaci bejárathoz.",
                 "ro": "Parcați cât mai aproape de intrarea în piață.",
-                "en": "Park as close to the market entrance as possible."
+                "en": "Park as close to the market entrance as possible.",
+                "es": "Aparca lo más cerca posible de la entrada del mercado."
               }
             },
             {
@@ -1446,7 +1558,8 @@
                 "de": "Die Gehwege dazwischen sind kurz, aber oft ohne Schutz.",
                 "hu": "A kettő közötti járdák rövidek, de gyakran fedetlenek.",
                 "ro": "Trotuarele dintre ele sunt scurte, dar adesea neacoperite.",
-                "en": "The walkways between these are short but often uncovered."
+                "en": "The walkways between these are short but often uncovered.",
+                "es": "Los tramos a pie entre ellos son cortos pero a menudo sin cubierta."
               }
             },
             {
@@ -1455,7 +1568,8 @@
                 "de": "Achten Sie auf Aquaplaning auf der Küstenstraße.",
                 "hu": "Vigyázzon a vízenfutásra (aquaplaning) a parti úton.",
                 "ro": "Atenție la acvaplanare pe drumul de coastă.",
-                "en": "Watch out for aquaplaning on the coastal road."
+                "en": "Watch out for aquaplaning on the coastal road.",
+                "es": "Cuidado con el aquaplaning en la carretera costera."
               }
             },
             {
@@ -1464,7 +1578,8 @@
                 "de": "Vom Parkplatz am Hafen aus hat man den besten Blick im Trockenen.",
                 "hu": "A kikötői parkolóból van a legjobb kilátás szárazon.",
                 "ro": "Din parcarea portului aveți cea mai bună vedere stând la uscat.",
-                "en": "The harbor parking lot offers the best view while staying dry."
+                "en": "The harbor parking lot offers the best view while staying dry.",
+                "es": "El aparcamiento del puerto ofrece la mejor vista manteniéndote seco."
               }
             },
             {
@@ -1473,7 +1588,8 @@
                 "de": "Bleiben Sie bei starkem Regen einfach im Auto sitzen.",
                 "hu": "Heves esőben egyszerűen maradjon az autóban ülve.",
                 "ro": "Dacă plouă tare, pur și simplu rămâneți în mașină.",
-                "en": "In heavy rain, simply stay seated inside the car."
+                "en": "In heavy rain, simply stay seated inside the car.",
+                "es": "En lluvia fuerte, quédate sentado dentro del coche."
               }
             }
           ],
@@ -1505,6 +1621,13 @@
               "Avoid parking under unstable-looking trees during windy rain.",
               "Car headlights should be switched on even during the day.",
               "Always keep an umbrella in the trunk for short walks to entrances."
+            ],
+            "es": [
+              "Asegúrate de que los limpiaparabrisas estén en buen estado.",
+              "Los garajes céntricos se llenan antes cuando llueve.",
+              "Evita aparcar bajo árboles con aspecto inestable en días de viento y lluvia.",
+              "Enciende las luces del coche incluso durante el día.",
+              "Lleva siempre un paraguas en el maletero para los cortos paseos hasta las entradas."
             ]
           }
         },
@@ -1513,7 +1636,8 @@
             "de": "Genießen Sie die Freiheit einer Autofahrt durch das winterliche Chiclana. Die Parkplatzsuche im Zentrum ist nun deutlich entspannter als im Sommer. Starten Sie am Markt und besichtigen Sie die Altstadt, bevor Sie das Museum besuchen.\n\nDie Fahrt zur Küste führt vorbei an Pinienhainen, die im Winter in sattem Grün stehen. An der La Barrosa können Sie ganz nah am Strand parken. Da es früher dunkel wird, beenden Sie den Tag an der Hermitage of Santa Ana, von wo aus Sie das Lichtermeer der Stadt nach dem Sonnenuntergang bewundern können.",
             "hu": "Élvezze az autózás szabadságát a téli Chiclanában. A parkolás a központban most sokkal egyszerűbb, mint nyáron. Kezdjen a piacon, nézze meg az óvárost, majd látogasson el a múzeumba.\n\nA part felé vezető út fenyőerdők mellett visz el, melyek télen is mélyzöldek. A La Barrosánál egészen közel parkolhat a strandhoz. Mivel korábban sötétedik, fejezze be a napot a Santa Ana dombnál, ahonnan a naplemente után megcsodálhatja a város fényeit.",
             "ro": "Bucurați-vă de libertatea unei plimbări cu mașina prin Chiclana de iarnă. Găsirea unui loc de parcare în centru este mult mai ușoară acum. Începeți la piață, vedeți centrul vechi, apoi vizitați muzeul.\n\nDrumul spre coastă trece pe lângă păduri de pini, care iarna sunt de un verde intens. La La Barrosa puteți parca foarte aproape de plajă. Fiindcă se întunecă mai devreme, încheiați ziua la Santa Ana, de unde puteți admira luminile orașului după apus.",
-            "en": "Enjoy the freedom of driving through winter Chiclana. Finding parking in the center is much easier now than in summer. Start at the market, see the old town, and then visit the museum.\n\nThe drive to the coast passes through pine groves that are lush green in winter. At La Barrosa, you can park very close to the beach. Since it gets dark earlier, finish the day at Santa Ana hill, where you can admire the city lights after sunset."
+            "en": "Enjoy the freedom of driving through winter Chiclana. Finding parking in the center is much easier now than in summer. Start at the market, see the old town, and then visit the museum.\n\nThe drive to the coast passes through pine groves that are lush green in winter. At La Barrosa, you can park very close to the beach. Since it gets dark earlier, finish the day at Santa Ana hill, where you can admire the city lights after sunset.",
+            "es": "Disfruta la libertad de conducir por la Chiclana invernal. Encontrar aparcamiento en el centro es mucho más fácil que en verano. Empieza en el mercado, recorre el casco antiguo y visita el museo.\n\nEl trayecto a la costa atraviesa pinares que están verdes en invierno. En La Barrosa puedes aparcar muy cerca de la playa. Como anochece antes, termina el día en el cerro de Santa Ana, desde donde podrás admirar las luces de la ciudad tras el atardecer."
           },
           "stops": [
             {
@@ -1522,7 +1646,8 @@
                 "de": "Öffentliche Parkplätze an der Straße sind im Winter meist frei.",
                 "hu": "Az utcai parkolóhelyek télen többnyire szabadok.",
                 "ro": "Locurile de parcare de pe stradă sunt de obicei libere iarna.",
-                "en": "Street parking spots are mostly available in winter."
+                "en": "Street parking spots are mostly available in winter.",
+                "es": "Las plazas de aparcamiento en la calle están mayoritariamente disponibles en invierno."
               }
             },
             {
@@ -1531,7 +1656,8 @@
                 "de": "Kein Stress bei der Parkplatzsuche in den Nebenstraßen.",
                 "hu": "Nincs stressz a parkolóhely-keresésnél a mellékutcákban.",
                 "ro": "Fără stres la căutarea unui loc de parcare pe străzile laterale.",
-                "en": "No stress finding a parking spot in the side streets."
+                "en": "No stress finding a parking spot in the side streets.",
+                "es": "Sin estrés para encontrar sitio en las calles laterales."
               }
             },
             {
@@ -1540,7 +1666,8 @@
                 "de": "Nutzen Sie die kurzen Wege zwischen den Parkmöglichkeiten.",
                 "hu": "Használja ki a parkolási lehetőségek közötti rövid távolságokat.",
                 "ro": "Profități de distanțele scurte dintre opțiunile de parcare.",
-                "en": "Take advantage of the short distances between parking options."
+                "en": "Take advantage of the short distances between parking options.",
+                "es": "Aprovecha las cortas distancias entre las opciones de aparcamiento."
               }
             },
             {
@@ -1549,7 +1676,8 @@
                 "de": "Die Küstenstraße ist im Winter fast leer und sehr angenehm.",
                 "hu": "A parti út télen szinte üres és nagyon kellemes.",
                 "ro": "Drumul de coastă este aproape pustiu iarna și foarte plăcut.",
-                "en": "The coastal road is almost empty in winter and very pleasant."
+                "en": "The coastal road is almost empty in winter and very pleasant.",
+                "es": "La carretera costera está casi vacía en invierno y es muy agradable."
               }
             },
             {
@@ -1558,7 +1686,8 @@
                 "de": "Bester Platz für das letzte Tageslicht am Horizont.",
                 "hu": "A legjobb hely a horizonton eltűnő utolsó nappali fényekhez.",
                 "ro": "Cel mai bun loc pentru ultimele raze de lumină de la orizont.",
-                "en": "The best spot for the last daylight on the horizon."
+                "en": "The best spot for the last daylight on the horizon.",
+                "es": "El mejor lugar para la última luz del día en el horizonte."
               }
             },
             {
@@ -1567,7 +1696,8 @@
                 "de": "Achtung, der Parkplatz oben ist bei Sonnenuntergang beliebt.",
                 "hu": "Vigyázat, a fenti parkoló népszerű a naplemente idején.",
                 "ro": "Atenție, parcarea de sus este populară la ora apusului.",
-                "en": "Note that the parking lot at the top is popular at sunset."
+                "en": "Note that the parking lot at the top is popular at sunset.",
+                "es": "Ten en cuenta que el aparcamiento en la cima es popular al atardecer."
               }
             }
           ],
@@ -1599,6 +1729,13 @@
               "Use fog lights during early morning coastal fog.",
               "Parking directly at the beach is often free in winter.",
               "Plan fuel stops in advance as some stations may close earlier."
+            ],
+            "es": [
+              "Revisa la presión de los neumáticos, puede bajar con el frío.",
+              "El rendimiento de la batería puede disminuir con temperaturas más frescas.",
+              "Usa las luces antiniebla durante la niebla costera de primeras horas.",
+              "Aparcar directamente en la playa suele ser gratuito en invierno.",
+              "Planifica las paradas de combustible con antelación, algunas estaciones cierran antes."
             ]
           }
         }
@@ -1617,7 +1754,8 @@
             "de": "Ankunft im Zentrum & Markthalle",
             "hu": "Érkezés a központba és a Vásárcsarnok",
             "ro": "Sosire în centru și Piața Centrală",
-            "en": "Arrival in the Center & Market Hall"
+            "en": "Arrival in the Center & Market Hall",
+            "es": "Llegada al centro y Lonja del Mercado"
           },
           "coords": [
             -6.1465,
@@ -1633,7 +1771,8 @@
             "de": "Nehmen Sie einen Bus zum zentralen Busbahnhof und starten Sie Ihren Tag am Markt.",
             "hu": "Menjen busszal a központi buszpályaudvarra, és kezdje a napot a piacnál.",
             "ro": "Luați un autobuz până la autogara centrală și începeți ziua la piață.",
-            "en": "Take a bus to the central bus station and start your day at the market."
+            "en": "Take a bus to the central bus station and start your day at the market.",
+            "es": "Toma un autobús hasta la estación central y empieza el día en el mercado."
           }
         },
         {
@@ -1641,7 +1780,8 @@
             "de": "Spaziergang: Uhrturm & Kirche S.J. Bautista",
             "hu": "Séta: Óratorony és Szent János templom",
             "ro": "Plimbare: Turnul cu Ceas & Biserica S.J. Bautista",
-            "en": "Walk: Clock Tower & Church of S.J. Bautista"
+            "en": "Walk: Clock Tower & Church of S.J. Bautista",
+            "es": "A pie: Torre del Reloj e Iglesia de San Juan Bautista"
           },
           "coords": [
             -6.1456,
@@ -1657,7 +1797,8 @@
             "de": "Die wichtigsten Sehenswürdigkeiten des Zentrums liegen nur einen kurzen Spaziergang voneinander entfernt.",
             "hu": "A központ legfontosabb látnivalói rövid sétára vannak egymástól.",
             "ro": "Principalele atracții din centru sunt la o scurtă plimbare una de cealaltă.",
-            "en": "The main sights of the center are just a short walk from each other."
+            "en": "The main sights of the center are just a short walk from each other.",
+            "es": "Los principales puntos del centro están a un corto paseo unos de otros."
           }
         },
         {
@@ -1665,7 +1806,8 @@
             "de": "Bus zum Strand La Barrosa",
             "hu": "Busz a La Barrosa strandra",
             "ro": "Autobuz spre plaja La Barrosa",
-            "en": "Bus to La Barrosa Beach"
+            "en": "Bus to La Barrosa Beach",
+            "es": "Autobús a la Playa de La Barrosa"
           },
           "coords": [
             -6.195,
@@ -1681,7 +1823,8 @@
             "de": "Die Buslinien verbinden das Zentrum gut mit der Küste. Zeit für Strand und Mittagessen.",
             "hu": "A buszjáratok jól összekötik a központot a parttal. Ideje a strandnak és az ebédnek.",
             "ro": "Liniile de autobuz leagă bine centrul de coastă. Timp pentru plajă și prânz.",
-            "en": "The bus lines connect the center well with the coast. Time for beach and lunch."
+            "en": "The bus lines connect the center well with the coast. Time for beach and lunch.",
+            "es": "Las líneas de autobús conectan bien el centro con la costa. Tiempo para playa y comida."
           }
         },
         {
@@ -1689,7 +1832,8 @@
             "de": "Spaziergang zur Aussicht auf Sancti Petri",
             "hu": "Séta a Sancti Petri kilátóhoz",
             "ro": "Plimbare la punctul de vedere Sancti Petri",
-            "en": "Walk to the Sancti Petri viewpoint"
+            "en": "Walk to the Sancti Petri viewpoint",
+            "es": "Paseo hasta el mirador de Sancti Petri"
           },
           "coords": [
             -6.208,
@@ -1705,7 +1849,8 @@
             "de": "Ein entspannter Spaziergang am Ufer entlang, um die Burg im Nachmittagslicht zu sehen.",
             "hu": "Egy pihentető séta a parton, hogy megnézze a várat a délutáni fényben.",
             "ro": "O plimbare relaxantă de-a lungul țărmului pentru a vedea castelul în lumina după-amiezii.",
-            "en": "A relaxing stroll along the shore to see the castle in the afternoon light."
+            "en": "A relaxing stroll along the shore to see the castle in the afternoon light.",
+            "es": "Un paseo relajado por la orilla para ver el castillo con la luz de la tarde."
           }
         },
         {
@@ -1713,7 +1858,8 @@
             "de": "Abendessen am Strand & Rückfahrt",
             "hu": "Vacsora a strandon és visszaút",
             "ro": "Cină pe plajă și întoarcere",
-            "en": "Dinner at the beach & return trip"
+            "en": "Dinner at the beach & return trip",
+            "es": "Cena en la playa y viaje de regreso"
           },
           "coords": [
             -6.196,
@@ -1729,7 +1875,8 @@
             "de": "Genießen Sie ein frühes Abendessen, bevor Sie den Bus zurück ins Zentrum nehmen.",
             "hu": "Élvezzen egy korai vacsorát, mielőtt visszamenne a buszra a központba.",
             "ro": "Bucurați-vă de o cină devreme înainte de a lua autobuzul înapoi în centru.",
-            "en": "Enjoy an early dinner before taking the bus back to the center."
+            "en": "Enjoy an early dinner before taking the bus back to the center.",
+            "es": "Disfruta de una cena temprana antes de tomar el autobús de vuelta al centro."
           }
         }
       ],
@@ -1737,7 +1884,8 @@
         "de": "Chiclana lässt sich hervorragend mit öffentlichen Verkehrsmitteln erkunden. Starten Sie im historischen Kern mit einem Spaziergang zu den wichtigsten Monumenten. Am Mittag bringt Sie ein Bus bequem an den weitläufigen Strand La Barrosa. Verbringen Sie den Nachmittag mit Sonnenbaden, Schwimmen und einem Spaziergang zur Festung Sancti Petri. Ein frühes Abendessen in einem der Strandrestaurants rundet den Tag ab, bevor Sie der Bus wieder zurückbringt.",
         "hu": "Chiclana kiválóan felfedezhető tömegközlekedéssel. Kezdje a történelmi központban egy sétával a legfontosabb műemlékekhez. Délben egy busz kényelmesen elviszi a tágas La Barrosa strandra. Töltse a délutánt napozással, úszással és egy sétával a Sancti Petri erődítményhez. Egy korai vacsora az egyik tengerparti étteremben teszi teljessé a napot, mielőtt a busz visszaviszi Önt.",
         "ro": "Chiclana poate fi explorată excelent cu transportul public. Începeți în centrul istoric cu o plimbare la cele mai importante monumente. La prânz, un autobuz vă duce confortabil la plaja întinsă La Barrosa. Petreceți după-amiaza făcând plajă, înotând și plimbându-vă la fortăreața Sancti Petri. O cină devreme la unul dintre restaurantele de pe plajă completează ziua înainte ca autobuzul să vă aducă înapoi.",
-        "en": "Chiclana is great for exploring by public transport. Start in the historic core with a walk to the most important monuments. At noon, a bus will comfortably take you to the spacious La Barrosa beach. Spend the afternoon sunbathing, swimming, and taking a walk to the Sancti Petri fortress. An early dinner at one of the beach restaurants completes the day before the bus takes you back."
+        "en": "Chiclana is great for exploring by public transport. Start in the historic core with a walk to the most important monuments. At noon, a bus will comfortably take you to the spacious La Barrosa beach. Spend the afternoon sunbathing, swimming, and taking a walk to the Sancti Petri fortress. An early dinner at one of the beach restaurants completes the day before the bus takes you back.",
+        "es": "Chiclana es ideal para explorar en transporte público. Empieza en el núcleo histórico con un paseo a los monumentos más importantes. Al mediodía, un autobús te llevará cómodamente a la amplia playa de La Barrosa. Pasa la tarde tomando el sol, nadando y caminando hasta la fortaleza de Sancti Petri. Una cena temprana en uno de los restaurantes de playa completa el día antes de que el autobús te lleve de vuelta."
       },
       "gastro_picks": {
         "de": [
@@ -1933,6 +2081,12 @@
           "Check the schedule for the last bus back.",
           "Validate your ticket every time you board.",
           "Buses can be crowded in the summer, plan some buffer time."
+        ],
+        "es": [
+          "Compra una tarjeta de autobús recargable para tarifas más baratas.",
+          "Consulta los horarios del último autobús de regreso.",
+          "Valida tu billete cada vez que subas.",
+          "Los autobuses pueden llenarse en verano; deja tiempo extra."
         ]
       },
       "variants": {
@@ -1941,7 +2095,8 @@
             "de": "Mit dem Bus durch Chiclana zu fahren ist die entspannteste Art, bei Regen trocken zu bleiben. Starten Sie am Marktplatz und nutzen Sie die Wartehäuschen als Regenschutz. Der Vormittag in den Kirchen und im Museum lässt sich perfekt mit kurzen Busfahrten kombinieren.\n\nNehmen Sie die Linie zur Playa de la Barrosa; der Bus bringt Sie fast bis vor die Tür der gemütlichen Strandcafés. Genießen Sie den Ausblick auf das stürmische Meer, bevor Sie im Schutze des Busses zurück ins Zentrum fahren, wo Sie den Abend bei Tapas in einer Marktnähe ausklingen lassen.",
             "hu": "Busszal közlekedni Chiclanában a legpihentetőbb módja annak, hogy esőben szárazon maradjunk. Kezdjen a piacon, és használja a várókat esővédőként. A délelőtti templom- és múzeumlátogatás tökéletesen kombinálható rövid buszutakkal.\n\nSzálljon fel a La Barrosa felé tartó járatra; a busz szinte a hangulatos strandbüfék ajtajáig viszi. Élvezze a viharos tenger látványát, mielőtt a busz oltalmában visszatérne a központba, ahol a piac közeli tapas bárokban zárhatja az estét.",
             "ro": "Călătoria cu autobuzul prin Chiclana este cel mai relaxant mod de a rămâne uscat pe ploaie. Începeți la piață și folosiți stațiile ca adăpost. Dimineața la biserici și muzeu se combină perfect cu scurte călătorii cu autobuzul.\n\nLuați linia spre Playa de la Barrosa; autobuzul vă lasă aproape de ușa cafenelelor primitoare de pe plajă. Admirați marea agitată înainte de a reveni în centru cu autobuzul, unde puteți încheia seara cu tapas lângă piață.",
-            "en": "Taking the bus through Chiclana is the most relaxed way to stay dry in the rain. Start at the market square and use the shelters as rain protection. The morning visits to churches and the museum combine perfectly with short bus rides.\n\nTake the line to Playa de la Barrosa; the bus drops you almost at the doorstep of cozy beach cafes. Enjoy the view of the stormy sea before returning to the center by bus, ending your evening with tapas near the market."
+            "en": "Taking the bus through Chiclana is the most relaxed way to stay dry in the rain. Start at the market square and use the shelters as rain protection. The morning visits to churches and the museum combine perfectly with short bus rides.\n\nTake the line to Playa de la Barrosa; the bus drops you almost at the doorstep of cozy beach cafes. Enjoy the view of the stormy sea before returning to the center by bus, ending your evening with tapas near the market.",
+            "es": "Ir en autobús por Chiclana es la forma más relajada de mantenerse seco bajo la lluvia. Empieza en la plaza del mercado y usa los refugios como protección. Las visitas matinales a iglesias y museo combinan bien con cortos trayectos en bus.\n\nToma la línea a Playa de la Barrosa; el autobús te deja casi en la puerta de los cafés de playa. Disfruta la vista del mar tempestuoso antes de volver al centro en autobús y acabar la noche con tapas cerca del mercado."
           },
           "stops": [
             {
@@ -1950,7 +2105,8 @@
                 "de": "Die Haltestelle ist nur wenige Schritte vom Markteingang entfernt.",
                 "hu": "A megálló csak pár lépésre van a piaci bejárattól.",
                 "ro": "Stația este la doar câțiva pași de intrarea în piață.",
-                "en": "The stop is just a few steps from the market entrance."
+                "en": "The stop is just a few steps from the market entrance.",
+                "es": "La parada está a pocos pasos de la entrada del mercado."
               }
             },
             {
@@ -1959,7 +2115,8 @@
                 "de": "Die engen Gassen bieten hier etwas Schutz vor Wind und Regen.",
                 "hu": "A szűk utcák itt némi védelmet nyújtanak a szél és az eső ellen.",
                 "ro": "Străzile înguste oferă aici puțină protecție împotriva vântului.",
-                "en": "The narrow streets here offer some protection from wind and rain."
+                "en": "The narrow streets here offer some protection from wind and rain.",
+                "es": "Las calles estrechas ofrecen algo de protección contra el viento y la lluvia."
               }
             },
             {
@@ -1968,7 +2125,8 @@
                 "de": "Prüfen Sie die Abfahrtszeiten online, um langes Warten zu vermeiden.",
                 "hu": "Ellenőrizze a menetrendet online, hogy elkerülje a hosszú várakozást.",
                 "ro": "Verificați programul online pentru a evita așteptarea lungă.",
-                "en": "Check the schedule online to avoid long waits in the rain."
+                "en": "Check the schedule online to avoid long waits in the rain.",
+                "es": "Consulta el horario en línea para evitar esperas largas bajo la lluvia."
               }
             },
             {
@@ -1977,7 +2135,8 @@
                 "de": "Nutzen Sie den befestigten Weg, um Matsch zu vermeiden.",
                 "hu": "Használja a kiépített utat, hogy elkerülje a sarat.",
                 "ro": "Folosiți drumul amenajat pentru a evita noroiul.",
-                "en": "Use the paved path to avoid the mud."
+                "en": "Use the paved path to avoid the mud.",
+                "es": "Usa el camino pavimentado para evitar el barro."
               }
             },
             {
@@ -1986,7 +2145,8 @@
                 "de": "Warten Sie im Restaurant, bis kurz vor Abfahrt des Busses.",
                 "hu": "Várjon az étteremben a busz indulása előtti utolsó percekig.",
                 "ro": "Așteptați în restaurant până aproape de plecarea autobuzului.",
-                "en": "Wait inside the restaurant until shortly before the bus departs."
+                "en": "Wait inside the restaurant until shortly before the bus departs.",
+                "es": "Espera dentro del restaurante hasta poco antes de que salga el autobús."
               }
             }
           ],
@@ -2018,6 +2178,13 @@
               "Download the local transport app for real-time information.",
               "Coastal bus shelters can be drafty, so dress warmly.",
               "Buses run less frequently on Sundays than on weekdays."
+            ],
+            "es": [
+              "Ten cambio pequeño listo para el conductor.",
+              "Los autobuses pueden retrasarse con lluvia por el aumento del tráfico.",
+              "Descarga la app de transporte local para información en tiempo real.",
+              "Los refugios de autobús en la costa pueden dar corrientes; abrígate bien.",
+              "Los autobuses circulan con menos frecuencia los domingos que entre semana."
             ]
           }
         },
@@ -2026,7 +2193,8 @@
             "de": "Nutzen Sie das effiziente Bussystem von Chiclana für eine entspannte Wintertour. Ohne die sommerlichen Menschenmassen sind die Busse angenehm leer. Starten Sie im historischen Zentrum und genießen Sie die kühle Winterluft bei kurzen Spaziergängen zwischen den Sehenswürdigkeiten.\n\nDie Busfahrt zur La Barrosa bietet schöne Ausblicke auf die winterliche Landschaft. Am Strand ist es nun ruhig und friedlich. Nutzen Sie das letzte Tageslicht für den Spaziergang zum Sancti Petri Aussichtspunkt, bevor Sie den Bus für die gemütliche Rückfahrt ins Stadtzentrum nehmen.",
             "hu": "Használja Chiclana hatékony buszhálózatát egy pihentető téli túrához. A nyári tömeg nélkül a buszok kellemesen üresek. Kezdjen a történelmi központban, élvezze a hűvös téli levegőt a látnivalók közötti rövid séták során.\n\nA buszút La Barrosa felé szép kilátást nyújt a téli tájra. A strandon ilyenkor csend és nyugalom honol. Használja ki az utolsó nappali fényeket a Sancti Petri kilátóhoz vezető sétához, mielőtt felszállna a buszra a városközpontba való visszatéréshez.",
             "ro": "Folosiți sistemul eficient de autobuze din Chiclana pentru o tură relaxantă de iarnă. Fără mulțimile de vară, autobuzele sunt plăcut de libere. Începeți în centrul istoric și bucurați-vă de aerul răcoros în timpul scurtelor plimbări între obiective.\n\nCălătoria cu autobuzul spre La Barrosa oferă vederi frumoase asupra peisajului de iarnă. Pe plajă este acum liniște și pace. Profitați de ultimele raze de soare pentru plimbarea spre punctul de belvedere Sancti Petri, apoi luați autobuzul înapoi spre centru.",
-            "en": "Use Chiclana's efficient bus system for a relaxed winter tour. Without the summer crowds, the buses are pleasantly empty. Start in the historic center and enjoy the cool winter air during short walks between sights.\n\nThe bus ride to La Barrosa offers beautiful views of the winter landscape. The beach is quiet and peaceful now. Use the last daylight for the walk to the Sancti Petri viewpoint before catching the bus for a cozy return trip to the city center."
+            "en": "Use Chiclana's efficient bus system for a relaxed winter tour. Without the summer crowds, the buses are pleasantly empty. Start in the historic center and enjoy the cool winter air during short walks between sights.\n\nThe bus ride to La Barrosa offers beautiful views of the winter landscape. The beach is quiet and peaceful now. Use the last daylight for the walk to the Sancti Petri viewpoint before catching the bus for a cozy return trip to the city center.",
+            "es": "Usa el eficiente sistema de autobuses de Chiclana para un tour invernal relajado. Sin las multitudes veraniegas, los autobuses están agradablemente vacíos. Empieza en el centro histórico y disfruta del aire fresco durante los cortos paseos entre puntos de interés.\n\nEl viaje en autobús a La Barrosa ofrece bonitas vistas del paisaje invernal. La playa está tranquila ahora. Aprovecha la última luz para caminar hasta el mirador de Sancti Petri antes de coger el autobús de regreso al centro."
           },
           "stops": [
             {
@@ -2035,7 +2203,8 @@
                 "de": "Im Winter sind die Busse pünktlicher als im Sommer.",
                 "hu": "Télen a buszok pontosabbak, mint a nyári főszezonban.",
                 "ro": "Iarna autobuzele sunt mai punctuale decât în sezonul de vârf.",
-                "en": "Buses are more punctual in winter than during the summer peak."
+                "en": "Buses are more punctual in winter than during the summer peak.",
+                "es": "Los autobuses son más puntuales en invierno que en el pico veraniego."
               }
             },
             {
@@ -2044,7 +2213,8 @@
                 "de": "Die Sonne steht tief und leuchtet die Gassen malerisch aus.",
                 "hu": "A nap alacsonyan jár, és festőien világítja meg a szűk utcákat.",
                 "ro": "Soarele este jos și luminează pitoresc străzile înguste.",
-                "en": "The sun is low, lighting up the narrow streets picturesquely."
+                "en": "The sun is low, lighting up the narrow streets picturesquely.",
+                "es": "El sol está bajo, iluminando pintorescamente las calles estrechas."
               }
             },
             {
@@ -2053,7 +2223,8 @@
                 "de": "Sichern Sie sich einen Fensterplatz für die Fahrt durch die Pinien.",
                 "hu": "Foglaljon ablak melletti helyet a fenyveseken átvezető úthoz.",
                 "ro": "Ocupați un loc la geam pentru drumul prin pădurile de pini.",
-                "en": "Secure a window seat for the ride through the pine groves."
+                "en": "Secure a window seat for the ride through the pine groves.",
+                "es": "Asegura un asiento junto a la ventana para el trayecto por los pinares."
               }
             },
             {
@@ -2062,7 +2233,8 @@
                 "de": "Ein zügiger Gang hält Sie bei der Meeresbrise warm.",
                 "hu": "A tempós gyaloglás melegen tart a tengeri szélben.",
                 "ro": "Mersul vioi vă va ține de cald în briza mării.",
-                "en": "A brisk walk will keep you warm in the sea breeze."
+                "en": "A brisk walk will keep you warm in the sea breeze.",
+                "es": "Una caminata enérgica te mantendrá caliente con la brisa marina."
               }
             },
             {
@@ -2071,7 +2243,8 @@
                 "de": "Beachten Sie, dass die Busse im Winter abends seltener fahren.",
                 "hu": "Vegye figyelembe, hogy télen este ritkábban járnak a buszok.",
                 "ro": "Rețineți că autobuzele circulă mai rar seara în timpul iernii.",
-                "en": "Note that buses run less frequently in the evenings during winter."
+                "en": "Note that buses run less frequently in the evenings during winter.",
+                "es": "Ten en cuenta que los autobuses circulan con menos frecuencia por la noche en invierno."
               }
             }
           ],
@@ -2103,6 +2276,13 @@
               "Ask the driver about special winter fares or passes.",
               "The main bus station is the best place to gather information.",
               "Maintenance work on bus stops is common during the winter months."
+            ],
+            "es": [
+              "Lleva una chaqueta abrigada, el aire acondicionado del bus puede refrescar bastante.",
+              "El último viaje de regreso al centro suele salir antes en invierno.",
+              "Pregunta al conductor por tarifas o abonos especiales de invierno.",
+              "La estación principal de autobuses es el mejor lugar para informarse.",
+              "Durante el invierno es común que se realicen trabajos de mantenimiento en las paradas."
             ]
           }
         }

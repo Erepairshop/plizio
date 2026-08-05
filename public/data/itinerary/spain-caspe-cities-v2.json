@@ -21,7 +21,8 @@
             "de": "Plaza de España",
             "hu": "Plaza de España",
             "ro": "Plaza de España",
-            "en": "Plaza de España"
+            "en": "Plaza de España",
+            "es": "Plaza de España"
           },
           "coords": [
             -0.0399,
@@ -37,7 +38,8 @@
             "de": "Starten Sie den Tag mit einem Kaffee in einer der Bars am Platz.",
             "hu": "Kezdje a napot egy kávéval a tér egyik bárjában!",
             "ro": "Începeți ziua cu o cafea la unul dintre barurile din piață.",
-            "en": "Start your day with a coffee at one of the bars on the square."
+            "en": "Start your day with a coffee at one of the bars on the square.",
+            "es": "Empieza el día con un café en uno de los bares de la plaza."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Kollegiatkirche Santa María la Mayor",
             "hu": "Santa María la Mayor társkáptalani templom",
             "ro": "Colegiata Santa María la Mayor",
-            "en": "Collegiate Church of St. Mary the Major"
+            "en": "Collegiate Church of St. Mary the Major",
+            "es": "Colegiata de Santa María la Mayor"
           },
           "coords": [
             -0.041,
@@ -61,7 +64,8 @@
             "de": "Beachten Sie die Mischung aus gotischen und barocken Elementen.",
             "hu": "Figyelje meg a gótikus és barokk elemek keveredését!",
             "ro": "Observați amestecul de elemente gotice și baroce.",
-            "en": "Note the mix of Gothic and Baroque elements."
+            "en": "Note the mix of Gothic and Baroque elements.",
+            "es": "Fíjate en la mezcla de elementos góticos y barrocos."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Burg des Kompromisses",
             "hu": "A megegyezés kastélya",
             "ro": "Castelul Compromisului",
-            "en": "Castle of the Compromise"
+            "en": "Castle of the Compromise",
+            "es": "Castillo del Compromiso"
           },
           "coords": [
             -0.0422,
@@ -85,7 +90,8 @@
             "de": "Genießen Sie den Panoramablick von den Mauern der Burg.",
             "hu": "Élvezze a panorámás kilátást a vár falairól!",
             "ro": "Bucurați-vă de vederea panoramică de pe zidurile castelului.",
-            "en": "Enjoy the panoramic views from the castle walls."
+            "en": "Enjoy the panoramic views from the castle walls.",
+            "es": "Disfruta de las vistas panorámicas desde la muralla del castillo."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Salamanca-Turm",
             "hu": "Salamanca-torony",
             "ro": "Turnul Salamanca",
-            "en": "Salamanca Tower"
+            "en": "Salamanca Tower",
+            "es": "Torre de Salamanca"
           },
           "coords": [
             -0.038,
@@ -109,7 +116,8 @@
             "de": "Ein oft übersehenes Juwel mit einer interessanten Geschichte.",
             "hu": "Egy gyakran figyelmen kívül hagyott gyöngyszem, érdekes történelemmel.",
             "ro": "O bijuterie adesea trecută cu vederea, cu o istorie interesantă.",
-            "en": "An often overlooked gem with an interesting history."
+            "en": "An often overlooked gem with an interesting history.",
+            "es": "Una joya a menudo olvidada con una historia interesante."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Museum der Autonomie Aragóns",
             "hu": "Aragónia Autonómia Múzeuma",
             "ro": "Muzeul Autonomiei Aragonului",
-            "en": "Museum of Aragonese Autonomy"
+            "en": "Museum of Aragonese Autonomy",
+            "es": "Museo de la Autonomía Aragonesa"
           },
           "coords": [
             -0.035,
@@ -133,7 +142,8 @@
             "de": "Perfekt, um die regionale Geschichte und Identität zu verstehen.",
             "hu": "Tökéletes hely a regionális történelem és identitás megértéséhez.",
             "ro": "Perfect pentru a înțelege istoria și identitatea regională.",
-            "en": "Perfect for understanding the regional history and identity."
+            "en": "Perfect for understanding the regional history and identity.",
+            "es": "Perfecto para entender la historia e identidad regional."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Ermita de Santa María de Horta",
             "hu": "Santa María de Horta remetelak",
             "ro": "Schitul Santa María de Horta",
-            "en": "Hermitage of Santa María de Horta"
+            "en": "Hermitage of Santa María de Horta",
+            "es": "Ermita de Santa María de Horta"
           },
           "coords": [
             -0.02,
@@ -157,7 +168,8 @@
             "de": "Ein friedlicher Ort, etwas außerhalb des Stadtzentrums.",
             "hu": "Békés hely, kissé a városközponton kívül.",
             "ro": "Un loc pașnic, puțin în afara centrului orașului.",
-            "en": "A peaceful spot just outside the town center."
+            "en": "A peaceful spot just outside the town center.",
+            "es": "Un lugar tranquilo justo fuera del centro urbano."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Mausoleum von Miralpeix",
             "hu": "Miralpeix-mauzóleum",
             "ro": "Mausoleul din Miralpeix",
-            "en": "Mausoleum of Miralpeix"
+            "en": "Mausoleum of Miralpeix",
+            "es": "Mausoleo de Miralpeix"
           },
           "coords": [
             -0.015,
@@ -181,7 +194,8 @@
             "de": "Dieses römische Mausoleum wurde Stein für Stein an seinen heutigen Standort versetzt.",
             "hu": "Ezt a római mauzóleumot kőről kőre helyezték át a mai helyére.",
             "ro": "Acest mausoleu roman a fost mutat piatră cu piatră la locația sa actuală.",
-            "en": "This Roman mausoleum was moved stone by stone to its current location."
+            "en": "This Roman mausoleum was moved stone by stone to its current location.",
+            "es": "Este mausoleo romano fue trasladado piedra a piedra hasta su ubicación actual."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Der Vormittag führt Sie durch das historische Herz von Caspe, von der belebten Plaza de España zur imposanten Kollegiatkirche und der geschichtsträchtigen Burg des Kompromisses. Jeder Schritt ist eine Reise in die Vergangenheit. Am Mittag tauchen Sie in die aragonesische Kultur im Autonomiemuseum ein, nach einem kurzen Halt am Salamanca-Turm. Nach dem Mittagessen weitet sich der Spaziergang aus und führt Sie zur ruhigen Ermita de Santa María de Horta. Der Nachmittag endet mit einem besinnlichen Moment am versetzten römischen Mausoleum von Miralpeix und bietet eine letzte historische Perspektive auf Ihren Tag. Am Abend können Sie in einem der lokalen Restaurants die Aromen Aragoniens genießen und den Tag ausklingen lassen.",
         "hu": "A délelőtt Caspe történelmi szívébe vezet, a nyüzsgő Plaza de Españától a fenséges társkáptalani templomig és a történelmi jelentőségű Megegyezés Váráig. Minden lépés egy utazás a múltba. Délben a Salamanca-toronynál tett rövid megálló után elmerülhet az aragóniai kultúrában az Autonómia Múzeumában. Ebéd után a séta kitágul a békés Santa María de Horta remetelakig. A délután egy elgondolkodtató pillanattal zárul az áthelyezett Miralpeix római mauzóleumnál, amely egy utolsó történelmi perspektívát ad a naphoz. Este élvezze Aragónia ízeit egy helyi étteremben, hogy lezárja a napot.",
         "ro": "Dimineața vă poartă prin inima istorică a orașului Caspe, de la animata Plaza de España la impunătoarea Colegiată și Castelul Compromisului, încărcat de istorie. Fiecare pas este o călătorie în trecut. La prânz, după o scurtă oprire la Turnul Salamanca, vă veți cufunda în cultura aragoneză la Muzeul Autonomiei. După prânz, plimbarea se extinde spre liniștitul Schit Santa María de Horta. După-amiaza se încheie cu un moment de reflecție la mausoleul roman mutat din Miralpeix, oferind o ultimă perspectivă istorică zilei dumneavoastră. Seara, bucurați-vă de aromele Aragonului la unul dintre restaurantele locale pentru a încheia ziua.",
-        "en": "The morning takes you through the historical heart of Caspe, from the bustling Plaza de España to the imposing Collegiate Church and the history-laden Castle of the Compromise. Every step is a journey into the past. At noon, after a brief stop at the Salamanca Tower, you'll delve into Aragonese culture at the Museum of Autonomy. After lunch, the walk expands to the peaceful Hermitage of Santa María de Horta. The afternoon concludes with a reflective moment at the relocated Roman Mausoleum of Miralpeix, providing a final historical perspective to your day. In the evening, savor the flavors of Aragon at a local restaurant to round off the day."
+        "en": "The morning takes you through the historical heart of Caspe, from the bustling Plaza de España to the imposing Collegiate Church and the history-laden Castle of the Compromise. Every step is a journey into the past. At noon, after a brief stop at the Salamanca Tower, you'll delve into Aragonese culture at the Museum of Autonomy. After lunch, the walk expands to the peaceful Hermitage of Santa María de Horta. The afternoon concludes with a reflective moment at the relocated Roman Mausoleum of Miralpeix, providing a final historical perspective to your day. In the evening, savor the flavors of Aragon at a local restaurant to round off the day.",
+        "es": "La mañana te lleva por el corazón histórico de Caspe, desde la animada Plaza de España hasta la imponente Colegiata y el castillo cargado de historia. Cada paso es un viaje al pasado. Al mediodía, tras una breve parada en la Torre de Salamanca, profundizarás en la cultura aragonesa en el Museo de la Autonomía. Tras el almuerzo, la caminata se amplía hasta la tranquila Ermita de Santa María de Horta. La tarde concluye con un momento de reflexión en el Mausoleo romano de Miralpeix, reubicado piedra a piedra, ofreciendo una última perspectiva histórica del día. Por la noche, saborea los sabores de Aragón en un restaurante local para cerrar la jornada."
       },
       "gastro_picks": {
         "de": [
@@ -401,6 +416,12 @@
           "Bring plenty of water, especially during the summer months.",
           "Siesta time is respected; many shops may close in the early afternoon.",
           "Ask for the 'Menú del Día' in restaurants for a great value lunch."
+        ],
+        "es": [
+          "Lleva calzado cómodo, ya que el centro histórico tiene empedrados.",
+          "Lleva abundante agua, especialmente durante los meses de verano.",
+          "Se respeta la siesta; muchas tiendas pueden cerrar a primeras horas de la tarde.",
+          "Pregunta por el 'Menú del Día' en los restaurantes para un almuerzo de gran relación calidad-precio."
         ]
       },
       "variants": {
@@ -409,7 +430,8 @@
             "de": "Der Morgen beginnt am Plaza de España, wo die Arkaden Schutz vor dem Regen bieten. Mittags erkunden wir die Stiftskirche und das Schloss, deren massive Mauern uns trocken halten. Am Nachmittag bietet das Museum der Autonomie eine ideale kulturelle Flucht ins Warme. Den Abend lassen wir in einem gemütlichen Lokal in der Altstadt ausklingen, während draußen der Regen fällt.",
             "hu": "A reggel a Plaza de España árkádjai alatt indul, amelyek kiváló menedéket nyújtanak az eső ellen. Délben a monumentális templom és a vár vastag falai között kalandozunk, szárazon maradva. Délután az Autonómia Múzeuma kínál tartalmas, fedett programot a város szívében. Az estét egy hangulatos belvárosi étteremben zárjuk, hallgatva az eső kopogását a régi köveken.",
             "ro": "Dimineața începe în Plaza de España, unde arcadele oferă un adăpost excelent împotriva ploii. La prânz, explorăm biserica colegială și castelul, ale căror ziduri masive ne mențin uscați. După-amiaza, Muzeul Autononiei oferă o escapadă culturală ideală la căldură. Seara se încheie într-un local primitor din centrul vechi, în timp ce afară ploaia cade pe străzile istorice.",
-            "en": "Morning starts at Plaza de España, where the arches provide excellent shelter from the rain. At noon, we explore the collegiate church and the castle, whose massive walls keep us perfectly dry. In the afternoon, the Museum of Autonomy offers an ideal cultural escape indoors. We conclude the evening in a cozy old town restaurant while the rain falls on the historic streets."
+            "en": "Morning starts at Plaza de España, where the arches provide excellent shelter from the rain. At noon, we explore the collegiate church and the castle, whose massive walls keep us perfectly dry. In the afternoon, the Museum of Autonomy offers an ideal cultural escape indoors. We conclude the evening in a cozy old town restaurant while the rain falls on the historic streets.",
+            "es": "La mañana comienza en la Plaza de España, donde los soportales ofrecen excelente abrigo contra la lluvia. Al mediodía exploramos la colegiata y el castillo, cuyas enormes paredes nos mantienen perfectamente secos. Por la tarde, el Museo de la Autonomía ofrece un ideal refugio cultural en interiores. Concluimos la velada en un acogedor restaurante del casco antiguo mientras la lluvia cae sobre las calles históricas."
           },
           "stops": [
             {
@@ -418,7 +440,8 @@
                 "de": "Nutzen Sie die historischen Arkaden als Regenschutz.",
                 "hu": "Használja a történelmi árkádokat eső elleni védelemként.",
                 "ro": "Folosiți arcadele istorice ca adăpost împotriva ploii.",
-                "en": "Use the historic arches as shelter from the rain."
+                "en": "Use the historic arches as shelter from the rain.",
+                "es": "Usa los arcos históricos como refugio de la lluvia."
               }
             },
             {
@@ -427,7 +450,8 @@
                 "de": "Bewundern Sie das gotische Interieur ganz im Trockenen.",
                 "hu": "Csodálja meg a gótikus belsőt teljesen szárazon.",
                 "ro": "Admirați interiorul gotic stând la adăpost.",
-                "en": "Admire the Gothic interior while staying completely dry."
+                "en": "Admire the Gothic interior while staying completely dry.",
+                "es": "Admira el interior gótico manteniéndote completamente seco."
               }
             },
             {
@@ -436,7 +460,8 @@
                 "de": "Die dicken Mauern bieten perfekten Schutz vor Schauern.",
                 "hu": "A vastag falak tökéletes védelmet nyújtanak a záporok ellen.",
                 "ro": "Zidurile groase oferă protecție perfectă împotriva ploii.",
-                "en": "The thick walls provide perfect protection from showers."
+                "en": "The thick walls provide perfect protection from showers.",
+                "es": "Los muros gruesos ofrecen perfecta protección contra los chaparrones."
               }
             },
             {
@@ -445,7 +470,8 @@
                 "de": "Vorsicht auf den nassen Außentreppen zum Turm.",
                 "hu": "Vigyázzon a toronyhoz vezető nedves külső lépcsőkön.",
                 "ro": "Atenție la scările exterioare umede spre turn.",
-                "en": "Be careful on the wet outdoor stairs to the tower."
+                "en": "Be careful on the wet outdoor stairs to the tower.",
+                "es": "Ten cuidado en las escaleras exteriores mojadas que suben a la torre."
               }
             },
             {
@@ -454,7 +480,8 @@
                 "de": "Perfekter Ort, um einen starken Regenguss abzuwarten.",
                 "hu": "Tökéletes hely egy nagyobb zápor átvészelésére.",
                 "ro": "Locul perfect pentru a aștepta trecerea unei ploi torențiale.",
-                "en": "Perfect place to wait out a heavy downpour."
+                "en": "Perfect place to wait out a heavy downpour.",
+                "es": "Lugar perfecto para esperar a que pase un aguacero fuerte."
               }
             },
             {
@@ -463,7 +490,8 @@
                 "de": "Der Eingangsbereich bietet einen kurzen Unterstand.",
                 "hu": "A bejárati rész rövid ideig menedéket nyújt.",
                 "ro": "Zona de intrare oferă un scurt adăpost.",
-                "en": "The entrance area provides a brief shelter."
+                "en": "The entrance area provides a brief shelter.",
+                "es": "La zona de entrada ofrece un breve refugio."
               }
             },
             {
@@ -472,7 +500,8 @@
                 "de": "Achten Sie auf rutschigen Untergrund beim Denkmal.",
                 "hu": "Vigyázzon a csúszós talajra az emlékműnél.",
                 "ro": "Atenție la terenul alunecos de lângă monument.",
-                "en": "Watch out for slippery ground near the monument."
+                "en": "Watch out for slippery ground near the monument.",
+                "es": "Cuidado con el suelo resbaladizo cerca del monumento."
               }
             }
           ],
@@ -504,6 +533,13 @@
               "Allocate more time for exploring the interior of the castle.",
               "A compact umbrella is often more practical than a poncho due to wind.",
               "Take a long lunch break in one of the sheltered square restaurants."
+            ],
+            "es": [
+              "Lleva calzado impermeable, se forman charcos fácilmente en los empedrados.",
+              "Los arcos de la Plaza de España son tus mejores aliados contra el viento y la lluvia.",
+              "Reserva más tiempo para explorar el interior del castillo.",
+              "Un paraguas compacto suele ser más práctico que un poncho por el viento.",
+              "Toma un almuerzo largo en uno de los restaurantes resguardados de la plaza."
             ]
           }
         },
@@ -512,7 +548,8 @@
             "de": "An einem klaren Wintermorgen glänzt Caspe in der kalten Luft. Mittags wärmen wir uns in der beeindruckenden Stiftskirche und im geschichtsträchtigen Schloss auf. Der Nachmittag gehört dem Salamanca-Turm, um das goldene Licht vor dem frühen Sonnenuntergang einzufangen. Den Abend verbringen wir bei herzhafter aragonesischer Küche und einem guten lokalen Wein in einer warmen Stube.",
             "hu": "Egy tiszta téli reggelen Caspe ragyog a csípős levegőben. Délben a monumentális templom és a történelmi vár belső tereiben melegszünk fel. A délutáni órákat a Salamanca-toronynak szenteljük, hogy elcsípjük az aranyló fényeket a korai naplemente előtt. Az estét kiadós aragóniai fogásokkal és egy pohár helyi borral zárjuk egy meleg vendéglőben.",
             "ro": "Într-o dimineață senină de iarnă, Caspe strălucește în aerul rece. La prânz, ne încălzim în interiorul bisericii colegiale și al castelului istoric. După-amiaza este dedicată Turnului Salamanca pentru a surprinde lumina aurie înainte de apusul timpuriu. Seara o petrecem savurând preparate aragoneze consistente și un vin local bun într-un local călduros.",
-            "en": "On a crisp winter morning, Caspe glistens in the cold air. At noon, we warm up inside the impressive collegiate church and the historic castle. The afternoon is dedicated to Salamanca Tower to catch the golden light before the early sunset. We spend the evening enjoying hearty Aragonese cuisine and a good local wine in a warm tavern."
+            "en": "On a crisp winter morning, Caspe glistens in the cold air. At noon, we warm up inside the impressive collegiate church and the historic castle. The afternoon is dedicated to Salamanca Tower to catch the golden light before the early sunset. We spend the evening enjoying hearty Aragonese cuisine and a good local wine in a warm tavern.",
+            "es": "En una fría mañana de invierno, Caspe brilla en el aire helado. Al mediodía nos calentamos en la impresionante colegiata y el castillo histórico. La tarde se dedica a la Torre de Salamanca para atrapar la luz dorada antes del atardecer temprano. Pasamos la noche disfrutando de la contundente cocina aragonesa y un buen vino local en una taberna cálida."
           },
           "stops": [
             {
@@ -521,7 +558,8 @@
                 "de": "Genießen Sie einen heißen Kaffee in den Arkaden.",
                 "hu": "Élvezzen egy forró kávét az árkádok alatt.",
                 "ro": "Savurați o cafea fierbinte sub arcade.",
-                "en": "Enjoy a hot coffee under the arches."
+                "en": "Enjoy a hot coffee under the arches.",
+                "es": "Disfruta de un café caliente bajo los arcos."
               }
             },
             {
@@ -530,7 +568,8 @@
                 "de": "Drinnen ist es deutlich wärmer als im Cierzo-Wind.",
                 "hu": "Bent lényegesen melegebb van, mint kint a Cierzo szélben.",
                 "ro": "În interior este mult mai cald decât afară în vântul Cierzo.",
-                "en": "It is significantly warmer inside than out in the Cierzo wind."
+                "en": "It is significantly warmer inside than out in the Cierzo wind.",
+                "es": "Dentro hace bastante más calor que fuera con el cierzo."
               }
             },
             {
@@ -539,7 +578,8 @@
                 "de": "Die dicken Mauern halten die Winterkälte gut draußen.",
                 "hu": "A vastag falak jól kint tartják a téli hideget.",
                 "ro": "Zidurile groase țin bine la distanță frigul iernii.",
-                "en": "The thick walls keep the winter cold out effectively."
+                "en": "The thick walls keep the winter cold out effectively.",
+                "es": "Los muros gruesos aíslan eficazmente del frío invernal."
               }
             },
             {
@@ -548,7 +588,8 @@
                 "de": "Bester Spot für das Licht des frühen Sonnenuntergangs.",
                 "hu": "A legjobb hely a korai naplemente fényeinek megtekintéséhez.",
                 "ro": "Cel mai bun punct pentru lumina apusului timpuriu.",
-                "en": "Best spot for the early sunset light."
+                "en": "Best spot for the early sunset light.",
+                "es": "Mejor lugar para la luz del atardecer temprano."
               }
             },
             {
@@ -557,7 +598,8 @@
                 "de": "Ein gut beheizter Ort für Geschichtsliebhaber.",
                 "hu": "Jól fűtött hely a történelem kedvelőinek.",
                 "ro": "Un loc bine încălzit pentru iubitorii de istorie.",
-                "en": "A well-heated place for history enthusiasts."
+                "en": "A well-heated place for history enthusiasts.",
+                "es": "Un lugar bien calefactado para los aficionados a la historia."
               }
             },
             {
@@ -566,7 +608,8 @@
                 "de": "Die tiefstehende Wintersonne beleuchtet die Fassade schön.",
                 "hu": "Az alacsonyan járó téli nap szépen megvilágítja a homlokzatot.",
                 "ro": "Soarele de iarnă luminează frumos fațada.",
-                "en": "The low winter sun illuminates the facade beautifully."
+                "en": "The low winter sun illuminates the facade beautifully.",
+                "es": "El sol bajo de invierno ilumina la fachada de forma preciosa."
               }
             },
             {
@@ -575,7 +618,8 @@
                 "de": "Warme Kleidung ist für den Weg am Stausee nötig.",
                 "hu": "Meleg ruházat szükséges a tározó melletti úton.",
                 "ro": "Îmbrăcămintea groasă este necesară pentru drumul spre lac.",
-                "en": "Warm clothing is necessary for the path by the reservoir."
+                "en": "Warm clothing is necessary for the path by the reservoir.",
+                "es": "Es necesario abrigarse para el camino junto al embalse."
               }
             }
           ],
@@ -607,6 +651,13 @@
               "Dress in layers as it can feel very chilly in the shade.",
               "Use the midday hours for your outdoor sightseeing.",
               "Many historic buildings have slightly shorter opening hours in winter."
+            ],
+            "es": [
+              "Cuidado con el cierzo, un viento frío del noroeste habitual en la zona.",
+              "El sol se pone alrededor de las 17:30 en invierno; planifica tu horario en consecuencia.",
+              "Vístete en capas, puede sentirse muy frío a la sombra.",
+              "Utiliza las horas del mediodía para las visitas exteriores.",
+              "Muchos edificios históricos tienen horarios algo reducidos en invierno."
             ]
           }
         }
@@ -625,7 +676,8 @@
             "de": "Plaza de España",
             "hu": "Plaza de España",
             "ro": "Plaza de España",
-            "en": "Plaza de España"
+            "en": "Plaza de España",
+            "es": "Plaza de España"
           },
           "coords": [
             -0.0399,
@@ -641,7 +693,8 @@
             "de": "Schließen Sie Ihr Fahrrad ab und genießen Sie die Atmosphäre des Platzes.",
             "hu": "Zárja le a kerékpárját, és élvezze a tér hangulatát.",
             "ro": "Încuietoarea pentru bicicletă și bucurați-vă de atmosfera pieței.",
-            "en": "Lock up your bike and enjoy the atmosphere of the square."
+            "en": "Lock up your bike and enjoy the atmosphere of the square.",
+            "es": "Asegura tu bici con candado y disfruta del ambiente de la plaza."
           }
         },
         {
@@ -649,7 +702,8 @@
             "de": "Kollegiatkirche Santa María la Mayor",
             "hu": "Santa María la Mayor társkáptalani templom",
             "ro": "Colegiata Santa María la Mayor",
-            "en": "Collegiate Church of St. Mary the Major"
+            "en": "Collegiate Church of St. Mary the Major",
+            "es": "Colegiata de Santa María la Mayor"
           },
           "coords": [
             -0.041,
@@ -665,7 +719,8 @@
             "de": "Parken Sie Ihr Fahrrad in der Nähe und nehmen Sie sich Zeit für das Innere.",
             "hu": "Parkolja le a kerékpárt a közelben, és szánjon időt a belső térre.",
             "ro": "Parcați bicicleta în apropiere și acordați-vă timp pentru interior.",
-            "en": "Park your bike nearby and take your time for the interior."
+            "en": "Park your bike nearby and take your time for the interior.",
+            "es": "Aparca la bici cerca y tómate tu tiempo para el interior."
           }
         },
         {
@@ -673,7 +728,8 @@
             "de": "Burg des Kompromisses und Salamanca-Turm",
             "hu": "A megegyezés kastélya és a Salamanca-torony",
             "ro": "Castelul Compromisului și Turnul Salamanca",
-            "en": "Castle of the Compromise & Salamanca Tower"
+            "en": "Castle of the Compromise & Salamanca Tower",
+            "es": "Castillo del Compromiso y Torre de Salamanca"
           },
           "coords": [
             -0.0422,
@@ -689,7 +745,8 @@
             "de": "Der Aufstieg zur Burg lohnt sich für die Aussicht. Ein Kombi-Besuch mit dem Turm ist ideal.",
             "hu": "A várhoz való feljutás megéri a kilátásért. A toronnyal kombinált látogatás ideális.",
             "ro": "Urcușul la castel merită pentru priveliște. O vizită combinată cu turnul este ideală.",
-            "en": "The climb to the castle is worth it for the view. A combined visit with the tower is ideal."
+            "en": "The climb to the castle is worth it for the view. A combined visit with the tower is ideal.",
+            "es": "La subida al castillo merece la pena por las vistas. Una visita combinada con la torre es ideal."
           }
         },
         {
@@ -697,7 +754,8 @@
             "de": "Ermita de Santa María de Horta",
             "hu": "Santa María de Horta remetelak",
             "ro": "Schitul Santa María de Horta",
-            "en": "Hermitage of Santa María de Horta"
+            "en": "Hermitage of Santa María de Horta",
+            "es": "Ermita de Santa María de Horta"
           },
           "coords": [
             -0.02,
@@ -713,7 +771,8 @@
             "de": "Eine angenehme Radtour vom Stadtzentrum zu diesem friedlichen Ort.",
             "hu": "Kellemes kerékpártúra a városközpontból erre a békés helyre.",
             "ro": "O plimbare plăcută cu bicicleta din centrul orașului până la acest loc pașnic.",
-            "en": "A pleasant bike ride from the city center to this peaceful spot."
+            "en": "A pleasant bike ride from the city center to this peaceful spot.",
+            "es": "Un agradable paseo en bici desde el centro de la ciudad hasta este lugar tranquilo."
           }
         },
         {
@@ -721,7 +780,8 @@
             "de": "Mausoleum von Miralpeix",
             "hu": "Miralpeix-mauzóleum",
             "ro": "Mausoleul din Miralpeix",
-            "en": "Mausoleum of Miralpeix"
+            "en": "Mausoleum of Miralpeix",
+            "es": "Mausoleo de Miralpeix"
           },
           "coords": [
             -0.015,
@@ -737,7 +797,8 @@
             "de": "Ein kurzer Abstecher, um dieses beeindruckende römische Monument zu sehen.",
             "hu": "Rövid kitérő, hogy megnézze ezt a lenyűgöző római emlékművet.",
             "ro": "Un scurt ocol pentru a vedea acest impresionant monument roman.",
-            "en": "A quick detour to see this impressive Roman monument."
+            "en": "A quick detour to see this impressive Roman monument.",
+            "es": "Un desvío rápido para ver este impresionante monumento romano."
           }
         },
         {
@@ -745,7 +806,8 @@
             "de": "Mar de Aragón (Aussichtspunkt)",
             "hu": "Mar de Aragón (kilátópont)",
             "ro": "Mar de Aragón (punct de belvedere)",
-            "en": "Mar de Aragón (Viewpoint)"
+            "en": "Mar de Aragón (Viewpoint)",
+            "es": "Mar de Aragón (Mirador)"
           },
           "coords": [
             -0.005,
@@ -761,7 +823,8 @@
             "de": "Perfekt für eine Mittagspause mit Picknick und Blick auf den Stausee.",
             "hu": "Tökéletes egy piknikes ebédszünethez, kilátással a víztározóra.",
             "ro": "Perfect pentru o pauză de prânz cu un picnic și vedere la lacul de acumulare.",
-            "en": "Perfect for a picnic lunch break with a view of the reservoir."
+            "en": "Perfect for a picnic lunch break with a view of the reservoir.",
+            "es": "Perfecto para un pícnic con vistas al embalse."
           }
         },
         {
@@ -769,7 +832,8 @@
             "de": "Rückkehr ins Zentrum über den Ebro",
             "hu": "Visszatérés a központba az Ebro mentén",
             "ro": "Întoarcere în centru de-a lungul râului Ebro",
-            "en": "Return to center along the Ebro"
+            "en": "Return to center along the Ebro",
+            "es": "Regreso al centro por el Ebro"
           },
           "coords": [
             -0.0333,
@@ -785,7 +849,8 @@
             "de": "Genießen Sie die entspannte Fahrt zurück in die Stadt entlang des Flusses.",
             "hu": "Élvezze a pihentető utat vissza a városba a folyó mentén.",
             "ro": "Bucurați-vă de plimbarea relaxantă înapoi în oraș de-a lungul râului.",
-            "en": "Enjoy the relaxing ride back to town along the river."
+            "en": "Enjoy the relaxing ride back to town along the river.",
+            "es": "Disfruta del relajante paseo de vuelta al pueblo por la orilla del río."
           }
         }
       ],
@@ -793,7 +858,8 @@
         "de": "Der Vormittag auf zwei Rädern beginnt im Herzen von Caspe, der Plaza de España, führt weiter zur majestätischen Kollegiatkirche und dem geschichtsträchtigen Schlosskomplex. Diese zentralen Sehenswürdigkeiten sind schnell erreicht und lassen Zeit für Erkundungen. Mittags radeln Sie aus der Stadt hinaus zur ruhigen Ermita de Horta und dem antiken Mausoleum von Miralpeix, wo Geschichte auf Natur trifft. Der Nachmittag ist dem beeindruckenden Mar de Aragón gewidmet. Eine längere Pause hier bietet die perfekte Gelegenheit für ein Picknick und um die Weite des Stausees zu bewundern, bevor die entspannte Rückfahrt entlang des Ebro zurück ins Zentrum beginnt. Der Abend lädt dazu ein, die Beine hochzulegen und die kulinarischen Schätze der Region zu entdecken.",
         "hu": "A két keréken töltött délelőtt Caspe szívében, a Plaza de España-n kezdődik, majd a fenséges társkáptalani templomhoz és a történelmi várkomplexumhoz vezet. Ezek a központi látnivalók gyorsan elérhetők, így idő marad a felfedezésre. Délben kikerékpározik a városból a békés Horta remetelakhoz és az ősi Miralpeix mauzóleumhoz, ahol a történelem találkozik a természettel. A délután a lenyűgöző Mar de Aragóné. Egy hosszabb szünet itt tökéletes lehetőséget nyújt egy piknikre és a víztározó hatalmas kiterjedésének megcsodálására, mielőtt megkezdődne a pihentető visszaút az Ebro mentén a központba. Az este arra csábít, hogy feltegye a lábát, és felfedezze a régió kulináris kincseit.",
         "ro": "Dimineața pe două roți începe în inima orașului Caspe, la Plaza de España, continuând spre majestuoasa Colegiată și complexul istoric al castelului. Aceste atracții centrale sunt ușor de atins, lăsând timp pentru explorare. La prânz, veți pedala în afara orașului spre liniștitul Schit Horta și mausoleul antic din Miralpeix, unde istoria întâlnește natura. După-amiaza este dedicată impresionantului Mar de Aragón. O pauză mai lungă aici oferă ocazia perfectă pentru un picnic și pentru a admira vastitatea lacului de acumulare, înainte de a începe călătoria relaxantă de întoarcere de-a lungul râului Ebro spre centru. Seara vă invită să vă relaxați și să descoperiți comorile culinare ale regiunii.",
-        "en": "The morning on two wheels starts in the heart of Caspe, at Plaza de España, continues to the majestic Collegiate Church and the historic castle complex. These central sights are quickly reached, leaving time for exploration. At noon, you'll cycle out of town to the peaceful Hermitage of Horta and the ancient Miralpeix Mausoleum, where history meets nature. The afternoon is dedicated to the impressive Mar de Aragón. A longer break here offers the perfect opportunity for a picnic and to admire the vastness of the reservoir before the relaxing ride back along the Ebro to the center begins. The evening invites you to put your feet up and discover the culinary treasures of the region."
+        "en": "The morning on two wheels starts in the heart of Caspe, at Plaza de España, continues to the majestic Collegiate Church and the historic castle complex. These central sights are quickly reached, leaving time for exploration. At noon, you'll cycle out of town to the peaceful Hermitage of Horta and the ancient Miralpeix Mausoleum, where history meets nature. The afternoon is dedicated to the impressive Mar de Aragón. A longer break here offers the perfect opportunity for a picnic and to admire the vastness of the reservoir before the relaxing ride back along the Ebro to the center begins. The evening invites you to put your feet up and discover the culinary treasures of the region.",
+        "es": "La mañana sobre dos ruedas comienza en el corazón de Caspe, en la Plaza de España, continúa en la majestuosa colegiata y el complejo histórico del castillo. Estos puntos centrales se alcanzan rápido, dejando tiempo para explorar. Al mediodía, saldrás en bici hacia la tranquila Ermita de Horta y el antiguo Mausoleo de Miralpeix, donde la historia se encuentra con la naturaleza. La tarde se dedica al impresionante Mar de Aragón. Un descanso prolongado aquí ofrece la oportunidad perfecta para un pícnic y admirar la inmensidad del embalse antes de iniciar el relajado regreso por el Ebro hacia el centro. La noche invita a descansar y descubrir los tesoros culinarios de la región."
       },
       "gastro_picks": {
         "de": [
@@ -989,6 +1055,12 @@
           "Some roads outside the city can be unpaved, ride carefully.",
           "Bring a bike lock for all stops.",
           "The climbs to the castle and the hermitage require some effort."
+        ],
+        "es": [
+          "Revisa la presión de los neumáticos antes de partir.",
+          "Algunas carreteras fuera de la ciudad pueden ser sin asfaltar, circula con precaución.",
+          "Lleva un candado para la bicicleta en todas las paradas.",
+          "Las subidas al castillo y la ermita requieren cierto esfuerzo."
         ]
       },
       "variants": {
@@ -997,7 +1069,8 @@
             "de": "Morgens radeln wir vorsichtig über den nassen Plaza de España zur Stiftskirche. Mittags suchen wir Schutz im Schloss, während die Räder sicher im Trockenen stehen. Nachmittags erkunden wir die abgelegenen Einsiedeleien, wobei wir Pfützen auf den Wegen umfahren. Der Tag endet mit einer erfrischenden Rückfahrt entlang des Ebro, wenn der Regen langsam nachlässt.",
             "hu": "Reggel óvatosan tekerünk át a vizes Plaza de Españán a templomig. Délben a várban keresünk menedéket, miközben a bringák fedett helyen pihennek. Délután a távolabbi kápolnákat keressük fel, kerülgetve a tócsákat az utakon. A nap az Ebro mentén tett frissítő visszatekeréssel zárul, ahogy az eső lassan csendesedik.",
             "ro": "Dimineața pedalăm cu atenție prin Plaza de España umedă spre biserică. La prânz căutăm adăpost în castel, lăsând bicicletele într-un loc uscat. După-amiaza explorăm schiturile mai îndepărtate, ocolind bălțile de pe drum. Ziua se încheie cu o întoarcere revigorantă de-a lungul râului Ebro, pe măsură ce ploaia se oprește.",
-            "en": "In the morning, we cycle carefully across the wet Plaza de España to the church. At noon, we seek shelter in the castle while the bikes stay in a dry spot. In the afternoon, we explore the outlying hermitages, navigating around puddles on the paths. The day ends with a refreshing ride back along the Ebro as the rain slowly subsides."
+            "en": "In the morning, we cycle carefully across the wet Plaza de España to the church. At noon, we seek shelter in the castle while the bikes stay in a dry spot. In the afternoon, we explore the outlying hermitages, navigating around puddles on the paths. The day ends with a refreshing ride back along the Ebro as the rain slowly subsides.",
+            "es": "Por la mañana pedaleamos con cuidado por la mojada Plaza de España hasta la iglesia. Al mediodía buscamos refugio en el castillo mientras las bicis quedan en un lugar seco. Por la tarde exploramos las ermitas periféricas, sorteando charcos en los caminos. El día termina con un refrescante paseo de regreso por el Ebro mientras la lluvia va remitiendo."
           },
           "stops": [
             {
@@ -1006,7 +1079,8 @@
                 "de": "Vorsicht beim Bremsen auf dem nassen Pflaster.",
                 "hu": "Vigyázzon a fékezéssel a vizes macskakövön.",
                 "ro": "Atenție la frânare pe pavajul umed.",
-                "en": "Be careful when braking on wet cobblestones."
+                "en": "Be careful when braking on wet cobblestones.",
+                "es": "Ten cuidado al frenar sobre empedrados mojados."
               }
             },
             {
@@ -1015,7 +1089,8 @@
                 "de": "Stellen Sie Ihr Rad unter die Arkaden.",
                 "hu": "Támassza le a bringát az árkádok alá.",
                 "ro": "Lăsați bicicleta sub arcade.",
-                "en": "Park your bike under the arches."
+                "en": "Park your bike under the arches.",
+                "es": "Aparca la bici bajo los arcos."
               }
             },
             {
@@ -1024,7 +1099,8 @@
                 "de": "Die Anstiege können bei Nässe rutschig sein.",
                 "hu": "Az emelkedők csúszósak lehetnek esőben.",
                 "ro": "Urcările pot fi alunecoase când este ud.",
-                "en": "The climbs can be slippery when wet."
+                "en": "The climbs can be slippery when wet.",
+                "es": "Las subidas pueden volverse resbaladizas cuando están mojadas."
               }
             },
             {
@@ -1033,7 +1109,8 @@
                 "de": "Der Weg zum Stausee hat einige Pfützen.",
                 "hu": "A tározóhoz vezető úton sok a tócsa.",
                 "ro": "Drumul spre lac are multe bălți.",
-                "en": "The path to the reservoir has many puddles."
+                "en": "The path to the reservoir has many puddles.",
+                "es": "El camino hacia el embalse tiene muchos charcos."
               }
             },
             {
@@ -1042,7 +1119,8 @@
                 "de": "Nutzen Sie den Untergrund mit guter Traktion.",
                 "hu": "Használjon jó tapadással rendelkező útvonalat.",
                 "ro": "Folosiți rute cu tracțiune bună.",
-                "en": "Use paths with good traction."
+                "en": "Use paths with good traction.",
+                "es": "Utiliza senderos con buena tracción."
               }
             },
             {
@@ -1051,7 +1129,8 @@
                 "de": "Stimmungsvolle Sicht auf den nebligen See.",
                 "hu": "Hangulatos kilátás a ködös tóra.",
                 "ro": "Vedere spectaculoasă asupra lacului cețos.",
-                "en": "Atmospheric view of the misty lake."
+                "en": "Atmospheric view of the misty lake.",
+                "es": "Vista atmosférica del lago cubierto de niebla."
               }
             },
             {
@@ -1060,7 +1139,8 @@
                 "de": "Der Uferweg ist bei Regen sehr erfrischend.",
                 "hu": "A folyóparti út nagyon frissítő esőben.",
                 "ro": "Drumul de pe malul râului este revigorant pe ploaie.",
-                "en": "The riverside path is very refreshing in the rain."
+                "en": "The riverside path is very refreshing in the rain.",
+                "es": "El paseo ribereño es muy agradecido bajo la lluvia."
               }
             }
           ],
@@ -1092,6 +1172,13 @@
               "Wind at Mar de Aragón can make the rain feel more intense.",
               "Avoid risky maneuvers on the slippery old town alleys.",
               "Check your brake pads before starting the tour."
+            ],
+            "es": [
+              "Los guardabarros son imprescindibles en estos senderos.",
+              "Lleva chaqueta y pantalones totalmente impermeables.",
+              "El viento en el Mar de Aragón puede hacer que la lluvia se sienta más intensa.",
+              "Evita maniobras arriesgadas en los estrechos callejones del casco antiguo cuando estén resbaladizos.",
+              "Revisa las pastillas de freno antes de empezar la ruta."
             ]
           }
         },
@@ -1100,7 +1187,8 @@
             "de": "Ein frostiger Morgen beginnt mit einer schnellen Fahrt zum Plaza de España. Mittags nutzen wir die Besichtigung des Schlosses, um die Hände wieder aufzuwärmen. Der Nachmittag führt uns zum Mar de Aragón, wo das klare Winterlicht für eine weite Fernsicht sorgt. Die Rückfahrt entlang des Ebro erfolgt rechtzeitig vor dem Einbruch der Dunkelheit, gefolgt von einem heißen Tee im Stadtzentrum.",
             "hu": "A fagyos reggel egy gyors tekeréssel indul a Plaza de Españáig. Délben a vár megtekintését használjuk ki a kezünk felmelegítésére. Délután a Mar de Aragónhoz tekerünk, ahol a tiszta téli fények messzi kilátást biztosítanak. A visszaút az Ebro mentén még sötétedés előtt megtörténik, majd egy forró teával zárjuk a napot.",
             "ro": "O dimineață geroasă începe cu o tură rapidă până în Plaza de España. La prânz profităm de vizitarea castelului pentru a ne încălzi mâinile. După-amiaza ne duce la Mar de Aragón, unde lumina clară de iarnă oferă o vizibilitate excelentă. Întoarcerea pe malul râului se face înainte de lăsarea întunericului, urmată de un ceai fierbinte.",
-            "en": "A frosty morning starts with a quick ride to Plaza de España. At noon, we use the castle visit to warm our hands. The afternoon takes us to Mar de Aragón, where the clear winter light provides far-reaching views. The ride back along the Ebro is completed well before dark, followed by a hot tea in the city center."
+            "en": "A frosty morning starts with a quick ride to Plaza de España. At noon, we use the castle visit to warm our hands. The afternoon takes us to Mar de Aragón, where the clear winter light provides far-reaching views. The ride back along the Ebro is completed well before dark, followed by a hot tea in the city center.",
+            "es": "Una mañana helada comienza con un rápido paseo hasta la Plaza de España. Al mediodía usamos la visita al castillo para entrar en calor. La tarde nos lleva al Mar de Aragón, donde la luz invernal clara ofrece vistas lejanas. El regreso por el Ebro se completa con tiempo de sobra antes del anochecer, seguido de un té caliente en el centro."
           },
           "stops": [
             {
@@ -1109,7 +1197,8 @@
                 "de": "Vorsicht vor gefrorenen Stellen im Schatten.",
                 "hu": "Vigyázzon a fagyott foltokra az árnyékos helyeken.",
                 "ro": "Atenție la porțiunile înghețate de la umbră.",
-                "en": "Watch out for frozen patches in shaded areas."
+                "en": "Watch out for frozen patches in shaded areas.",
+                "es": "Cuidado con placas de hielo en zonas sombreadas."
               }
             },
             {
@@ -1118,7 +1207,8 @@
                 "de": "Idealer Stopp zum Aufwärmen zwischendurch.",
                 "hu": "Ideális megálló egy kis köztes felmelegedéshez.",
                 "ro": "Oprire ideală pentru o scurtă încălzire.",
-                "en": "Ideal stop for a quick warm-up."
+                "en": "Ideal stop for a quick warm-up.",
+                "es": "Parada ideal para entrar en calor rápido."
               }
             },
             {
@@ -1127,7 +1217,8 @@
                 "de": "Windgeschützte Ecken in der Burgmauer suchen.",
                 "hu": "Keressen szélvédett zugokat a várfalak között.",
                 "ro": "Căutați locuri ferite de vânt între zidurile cetății.",
-                "en": "Look for wind-sheltered spots within the castle walls."
+                "en": "Look for wind-sheltered spots within the castle walls.",
+                "es": "Busca zonas resguardadas del viento dentro de los muros del castillo."
               }
             },
             {
@@ -1136,7 +1227,8 @@
                 "de": "Handschuhe sind für die Abfahrt zum See nötig.",
                 "hu": "Kesztyű szükséges a tóhoz vezető lejtőn.",
                 "ro": "Mănușile sunt necesare pentru coborârea spre lac.",
-                "en": "Gloves are necessary for the descent to the lake."
+                "en": "Gloves are necessary for the descent to the lake.",
+                "es": "Los guantes son necesarios para el descenso hacia el lago."
               }
             },
             {
@@ -1145,7 +1237,8 @@
                 "de": "Kurzer Stopp, um nicht auszukühlen.",
                 "hu": "Rövid megálló, hogy ne hűljön ki.",
                 "ro": "Oprire scurtă pentru a nu vă răci.",
-                "en": "Keep the stop short to avoid getting too cold."
+                "en": "Keep the stop short to avoid getting too cold.",
+                "es": "Mantén la parada corta para no enfriarte demasiado."
               }
             },
             {
@@ -1154,7 +1247,8 @@
                 "de": "Kristallklare Sicht auf das winterliche Wasser.",
                 "hu": "Kristálytiszta kilátás a téli víztükörre.",
                 "ro": "Vedere extrem de clară asupra apei înghețate.",
-                "en": "Crystal clear views of the wintry water."
+                "en": "Crystal clear views of the wintry water.",
+                "es": "Vistas cristalinas del agua invernal."
               }
             },
             {
@@ -1163,7 +1257,8 @@
                 "de": "Treten Sie kräftig in die Pedale für Wärme.",
                 "hu": "Tekerjen tempósan a testhőmérséklet fenntartásához.",
                 "ro": "Pedalați energic pentru a vă menține căldura.",
-                "en": "Pedal vigorously to maintain body heat."
+                "en": "Pedal vigorously to maintain body heat.",
+                "es": "Pedalea con energía para mantener el calor corporal."
               }
             }
           ],
@@ -1195,6 +1290,13 @@
               "Avoid shaded paths where black ice might linger.",
               "Pack a thermos with a hot beverage for the ride.",
               "Ensure your bike lights are in perfect working order."
+            ],
+            "es": [
+              "Asegúrate de llevar guantes cortaviento y un gorro caliente.",
+              "El viento del cierzo puede bajar mucho la sensación térmica.",
+              "Evita caminos sombríos donde pueda quedar hielo negro.",
+              "Lleva un termo con bebida caliente para el paseo.",
+              "Asegúrate de que las luces de la bici funcionen perfectamente."
             ]
           }
         }
@@ -1213,7 +1315,8 @@
             "de": "Cluster 1: Parken nahe Plaza de España",
             "hu": "1. klaszter: Parkolás a Plaza de España közelében",
             "ro": "Cluster 1: Parcare lângă Plaza de España",
-            "en": "Cluster 1: Parking near Plaza de España"
+            "en": "Cluster 1: Parking near Plaza de España",
+            "es": "Clúster 1: Aparcamiento cerca de la Plaza de España"
           },
           "coords": [
             -0.041,
@@ -1229,7 +1332,8 @@
             "de": "Suchen Sie einen Parkplatz für den Vormittag, um das historische Zentrum zu Fuß zu erkunden.",
             "hu": "Keressen egy parkolóhelyet délelőttre, hogy gyalog fedezze fel a történelmi központot.",
             "ro": "Găsiți un loc de parcare pentru dimineață pentru a explora centrul istoric pe jos.",
-            "en": "Find a parking spot for the morning to explore the historic center on foot."
+            "en": "Find a parking spot for the morning to explore the historic center on foot.",
+            "es": "Busca plaza de aparcamiento por la mañana para explorar el centro histórico a pie."
           }
         },
         {
@@ -1237,7 +1341,8 @@
             "de": "Kollegiatkirche und Burg des Kompromisses",
             "hu": "Társkáptalani templom és a megegyezés kastélya",
             "ro": "Colegiata și Castelul Compromisului",
-            "en": "Collegiate Church and Castle of the Compromise"
+            "en": "Collegiate Church and Castle of the Compromise",
+            "es": "Colegiata y Castillo del Compromiso"
           },
           "coords": [
             -0.0418,
@@ -1253,7 +1358,8 @@
             "de": "Ein kurzer Spaziergang vom Parkplatz aus. Planen Sie genug Zeit für beide Hauptattraktionen ein.",
             "hu": "Rövid séta a parkolóból. Szánjon elég időt mindkét fő látnivalóra.",
             "ro": "O scurtă plimbare de la parcare. Planificați suficient timp pentru ambele atracții principale.",
-            "en": "A short walk from the parking area. Plan enough time for both main attractions."
+            "en": "A short walk from the parking area. Plan enough time for both main attractions.",
+            "es": "A poca distancia del área de aparcamiento. Planifica tiempo suficiente para ambas atracciones principales."
           }
         },
         {
@@ -1261,7 +1367,8 @@
             "de": "Salamanca-Turm und Plaza de España",
             "hu": "Salamanca-torony és Plaza de España",
             "ro": "Turnul Salamanca și Plaza de España",
-            "en": "Salamanca Tower and Plaza de España"
+            "en": "Salamanca Tower and Plaza de España",
+            "es": "Torre de Salamanca y Plaza de España"
           },
           "coords": [
             -0.039,
@@ -1277,7 +1384,8 @@
             "de": "Spazieren Sie zurück zum Hauptplatz und entdecken Sie den nahegelegenen Turm.",
             "hu": "Sétáljon vissza a főtérre, és fedezze fel a közeli tornyot.",
             "ro": "Mergeți înapoi în piața principală și descoperiți turnul din apropiere.",
-            "en": "Walk back towards the main square and discover the nearby tower."
+            "en": "Walk back towards the main square and discover the nearby tower.",
+            "es": "Vuelve caminando hacia la plaza principal y descubre la torre cercana."
           }
         },
         {
@@ -1285,7 +1393,8 @@
             "de": "Cluster 2: Fahrt zum Mausoleum von Miralpeix",
             "hu": "2. klaszter: Utazás a Miralpeix-mauzóleumhoz",
             "ro": "Cluster 2: Călătorie la Mausoleul din Miralpeix",
-            "en": "Cluster 2: Drive to the Mausoleum of Miralpeix"
+            "en": "Cluster 2: Drive to the Mausoleum of Miralpeix",
+            "es": "Clúster 2: Desplázate al Mausoleo de Miralpeix"
           },
           "coords": [
             -0.015,
@@ -1301,7 +1410,8 @@
             "de": "Dieses römische Monument wurde hierher verlegt, um es vor den Fluten des Stausees zu retten.",
             "hu": "Ezt a római emlékművet azért helyezték ide, hogy megmentsék a víztározó áradásától.",
             "ro": "Acest monument roman a fost mutat aici pentru a fi salvat de apele lacului de acumulare.",
-            "en": "This Roman monument was moved here to save it from the reservoir's waters."
+            "en": "This Roman monument was moved here to save it from the reservoir's waters.",
+            "es": "Este monumento romano fue trasladado aquí para salvarlo de las aguas del embalse."
           }
         },
         {
@@ -1309,7 +1419,8 @@
             "de": "Cluster 3: Fahrt zum Mar de Aragón",
             "hu": "3. klaszter: Utazás a Mar de Aragónhoz",
             "ro": "Cluster 3: Călătorie la Mar de Aragón",
-            "en": "Cluster 3: Drive to the Mar de Aragón"
+            "en": "Cluster 3: Drive to the Mar de Aragón",
+            "es": "Clúster 3: Desplázate al Mar de Aragón"
           },
           "coords": [
             0.05,
@@ -1325,7 +1436,8 @@
             "de": "Parken Sie und erkunden Sie die Ufer. Ideal für Mittagessen und Wassersport.",
             "hu": "Parkoljon le, és fedezze fel a partot. Ideális ebédhez és vízi sportokhoz.",
             "ro": "Parcați și explorați malurile. Ideal pentru prânz și sporturi nautice.",
-            "en": "Park and explore the shores. Ideal for lunch and water sports."
+            "en": "Park and explore the shores. Ideal for lunch and water sports.",
+            "es": "Aparca y explora las orillas. Ideal para comer y practicar deportes acuáticos."
           }
         },
         {
@@ -1333,7 +1445,8 @@
             "de": "Spaziergang am Stausee",
             "hu": "Séta a víztározónál",
             "ro": "Plimbare pe malul lacului de acumulare",
-            "en": "Walk along the reservoir"
+            "en": "Walk along the reservoir",
+            "es": "Pasea por el embalse"
           },
           "coords": [
             0.055,
@@ -1349,7 +1462,8 @@
             "de": "Ein leichter Spaziergang, um die Größe des 'aragonischen Meeres' zu erfassen.",
             "hu": "Könnyű séta, hogy felfogja az 'aragóniai tenger' méretét.",
             "ro": "O plimbare ușoară pentru a aprecia dimensiunea 'Mării Aragonului'.",
-            "en": "An easy walk to appreciate the scale of the 'Aragonese Sea'."
+            "en": "An easy walk to appreciate the scale of the 'Aragonese Sea'.",
+            "es": "Un paseo fácil para apreciar la escala del 'Mar aragonés'."
           }
         },
         {
@@ -1357,7 +1471,8 @@
             "de": "Cluster 4: Fahrt zur Ermita de Santa María de Horta",
             "hu": "4. klaszter: Utazás a Santa María de Horta remetelakhoz",
             "ro": "Cluster 4: Călătorie la Schitul Santa María de Horta",
-            "en": "Cluster 4: Drive to the Hermitage of Santa María de Horta"
+            "en": "Cluster 4: Drive to the Hermitage of Santa María de Horta",
+            "es": "Clúster 4: Desplázate a la Ermita de Santa María de Horta"
           },
           "coords": [
             -0.02,
@@ -1373,7 +1488,8 @@
             "de": "Ein perfekter, ruhiger Abschluss des Tages mit Blick über die Landschaft.",
             "hu": "Tökéletes, békés lezárása a napnak, kilátással a tájra.",
             "ro": "O încheiere perfectă și liniștită a zilei, cu vedere la peisaj.",
-            "en": "A perfect, peaceful end to the day with views over the landscape."
+            "en": "A perfect, peaceful end to the day with views over the landscape.",
+            "es": "Un final perfecto y tranquilo para el día con vistas al paisaje."
           }
         }
       ],
@@ -1381,7 +1497,8 @@
         "de": "Der Vormittag gehört dem historischen Zentrum von Caspe. Nachdem Sie Ihr Auto geparkt haben, erkunden Sie zu Fuß den ersten Cluster: die majestätische Kollegiatkirche, die Burg und den Hauptplatz. Spüren Sie die Geschichte unter Ihren Füßen. Mittags fahren Sie zum zweiten Cluster, dem versetzten Mausoleum von Miralpeix, einem Zeugnis römischer Ingenieurskunst, bevor Sie zum Mittagessen und Entspannen am riesigen Mar de Aragón, dem dritten Cluster, weiterfahren. Nach einem Spaziergang am Ufer fahren Sie am späten Nachmittag zum vierten und letzten Cluster, der ruhigen Ermita de Horta. Dieser friedliche Ort bietet einen herrlichen Panoramablick und ist der perfekte Abschluss für einen erlebnisreichen Tag. Kehren Sie am Abend nach Caspe zurück, um ein wohlverdientes Abendessen zu genießen.",
         "hu": "A délelőtt Caspe történelmi központjáé. Miután leparkolta autóját, gyalogosan fedezze fel az első klasztert: a fenséges társkáptalani templomot, a várat és a főteret. Érezze a történelmet a lába alatt. Délben autózzon el a második klaszterhez, az áthelyezett Miralpeix mauzóleumhoz, a római mérnöki tudás tanúságához, mielőtt ebédelni és pihenni indulna a hatalmas Mar de Aragónnál, a harmadik klaszternél. A parton tett séta után késő délután hajtson el a negyedik és egyben utolsó klaszterhez, a békés Horta remetelakhoz. Ez a békés hely csodálatos panorámát kínál, és tökéletes lezárása egy eseménydús napnak. Este térjen vissza Caspéba egy jól megérdemelt vacsorára.",
         "ro": "Dimineața este dedicată centrului istoric al orașului Caspe. După ce parcați mașina, explorați pe jos primul cluster: Colegiata maiestuoasă, castelul și piața principală. Simțiți istoria sub picioarele dumneavoastră. La prânz, conduceți spre al doilea cluster, mausoleul mutat din Miralpeix, o mărturie a ingineriei romane, înainte de a continua spre imensul Mar de Aragón, al treilea cluster, pentru prânz și relaxare. După o plimbare pe mal, conduceți spre al patrulea și ultimul cluster, liniștitul Schit Horta, în după-amiaza târzie. Acest loc pașnic oferă o vedere panoramică magnifică și este încheierea perfectă pentru o zi plină de evenimente. Întoarceți-vă la Caspe seara pentru o cină binemeritată.",
-        "en": "The morning is for the historic center of Caspe. After parking your car, explore the first cluster on foot: the majestic Collegiate Church, the castle, and the main square. Feel the history beneath your feet. At noon, drive to the second cluster, the relocated Mausoleum of Miralpeix, a testament to Roman engineering, before continuing to the vast Mar de Aragón, the third cluster, for lunch and relaxation. After a walk along the shore, drive to the fourth and final cluster, the tranquil Hermitage of Horta, in the late afternoon. This peaceful place offers magnificent panoramic views and is the perfect end to an eventful day. Return to Caspe in the evening for a well-deserved dinner."
+        "en": "The morning is for the historic center of Caspe. After parking your car, explore the first cluster on foot: the majestic Collegiate Church, the castle, and the main square. Feel the history beneath your feet. At noon, drive to the second cluster, the relocated Mausoleum of Miralpeix, a testament to Roman engineering, before continuing to the vast Mar de Aragón, the third cluster, for lunch and relaxation. After a walk along the shore, drive to the fourth and final cluster, the tranquil Hermitage of Horta, in the late afternoon. This peaceful place offers magnificent panoramic views and is the perfect end to an eventful day. Return to Caspe in the evening for a well-deserved dinner.",
+        "es": "La mañana está dedicada al casco histórico de Caspe. Tras aparcar el coche, explora a pie el primer clúster: la majestuosa colegiata, el castillo y la plaza principal. Siente la historia bajo tus pies. Al mediodía, conduce hasta el segundo clúster, el trasladado Mausoleo de Miralpeix, testimonio de la ingeniería romana, antes de continuar hacia el vasto Mar de Aragón, el tercer clúster, para comer y relajarte. Tras un paseo por la orilla, conduce hasta el cuarto y último clúster, la tranquila Ermita de Horta, al final de la tarde. Este lugar ofrece magníficas vistas panorámicas y es el cierre perfecto para un día intenso. Vuelve a Caspe por la noche para una merecida cena."
       },
       "gastro_picks": {
         "de": [
@@ -1577,6 +1694,12 @@
           "The roads to Mar de Aragón can be winding, drive carefully.",
           "A GPS is useful for finding the various sites scattered across the landscape.",
           "Always have some cash on hand for small cafes or parking fees."
+        ],
+        "es": [
+          "Comprueba las opciones y tarifas de aparcamiento con antelación.",
+          "Las carreteras hacia el Mar de Aragón pueden ser sinuosas; conduce con precaución.",
+          "Un GPS es útil para localizar los distintos puntos repartidos por el paisaje.",
+          "Lleva siempre algo de efectivo para cafeterías pequeñas o tasas de aparcamiento."
         ]
       },
       "variants": {
@@ -1585,7 +1708,8 @@
             "de": "Der Tag beginnt bequem mit der Fahrt zum Parkplatz nahe des Hauptplatzes. Mittags erkunden wir die Stiftskirche und das Schloss, wobei wir den Wagen als trockenen Stützpunkt nutzen. Nachmittags fahren wir zum Mar de Aragón, wo wir das Schauspiel des Regens über dem Stausee vom Auto aus beobachten können. Der Abend endet mit einer kurzen Fahrt zurück in die Stadt.",
             "hu": "A nap kényelmesen indul a főtér közeli parkolóig tartó úttal. Délben a templomot és a várat látogatjuk meg, az autót száraz bázisként használva. Délután a Mar de Aragónhoz autózunk, ahol a kocsiból nézhetjük végig az eső játékát a víztükrön. A nap egy rövid városi autózással zárul, elkerülve az ázást.",
             "ro": "Ziua începe confortabil cu drumul spre parcarea de lângă piața principală. La prânz vizităm biserica și castelul, folosind mașina ca bază uscată. După-amiaza conducem spre Mar de Aragón, unde putem observa spectacolul ploii peste lac direct din mașină. Ziua se încheie cu o scurtă călătorie înapoi în oraș.",
-            "en": "The day starts comfortably with a drive to the parking lot near the main square. At noon, we visit the church and castle, using the car as a dry base. In the afternoon, we drive to Mar de Aragón, where we can watch the spectacle of rain over the reservoir from the comfort of the car. The day ends with a short drive back to town."
+            "en": "The day starts comfortably with a drive to the parking lot near the main square. At noon, we visit the church and castle, using the car as a dry base. In the afternoon, we drive to Mar de Aragón, where we can watch the spectacle of rain over the reservoir from the comfort of the car. The day ends with a short drive back to town.",
+            "es": "El día comienza cómodamente con un paseo en coche hasta el aparcamiento cerca de la plaza principal. Al mediodía visitamos la iglesia y el castillo, usando el coche como base seca. Por la tarde conducimos al Mar de Aragón, donde podemos contemplar el espectáculo de la lluvia sobre el embalse desde la comodidad del vehículo. El día termina con un corto viaje de vuelta al pueblo."
           },
           "stops": [
             {
@@ -1594,7 +1718,8 @@
                 "de": "Parken Sie so nah wie möglich am Eingang.",
                 "hu": "Parkoljon a lehető legközelebb a bejárathoz.",
                 "ro": "Parcați cât mai aproape de intrare.",
-                "en": "Park as close to the entrance as possible."
+                "en": "Park as close to the entrance as possible.",
+                "es": "Aparca lo más cerca posible de la entrada."
               }
             },
             {
@@ -1603,7 +1728,8 @@
                 "de": "Kurzer Sprint vom Auto zum überdachten Portal.",
                 "hu": "Rövid sprint az autótól a fedett kapuig.",
                 "ro": "Sprint scurt de la mașină până la poarta acoperită.",
-                "en": "Short sprint from the car to the sheltered portal."
+                "en": "Short sprint from the car to the sheltered portal.",
+                "es": "Sprint corto desde el coche hasta el pórtico resguardado."
               }
             },
             {
@@ -1612,7 +1738,8 @@
                 "de": "Blick auf den Platz aus dem trockenen Auto.",
                 "hu": "Kilátás a térre a száraz autóból.",
                 "ro": "Vedere spre piață din mașina caldă și uscată.",
-                "en": "View of the square from the dry car."
+                "en": "View of the square from the dry car.",
+                "es": "Vistas de la plaza desde el coche seco."
               }
             },
             {
@@ -1621,7 +1748,8 @@
                 "de": "Vorsicht bei Aquaplaning auf der Landstraße.",
                 "hu": "Vigyázzon a felúszásra az országúton.",
                 "ro": "Atenție la acvaplanare pe drumul național.",
-                "en": "Watch out for aquaplaning on the country road."
+                "en": "Watch out for aquaplaning on the country road.",
+                "es": "Cuidado con el aquaplaning en la carretera rural."
               }
             },
             {
@@ -1630,7 +1758,8 @@
                 "de": "Genießen Sie die Aussicht durch die Scheiben.",
                 "hu": "Élvezze a kilátást a szélvédőn keresztül.",
                 "ro": "Bucurați-vă de priveliște prin parbriz.",
-                "en": "Enjoy the view through the windshield."
+                "en": "Enjoy the view through the windshield.",
+                "es": "Disfruta de la vista a través del parabrisas."
               }
             },
             {
@@ -1639,7 +1768,8 @@
                 "de": "Nur kurzer Ausstieg für Fotos möglich.",
                 "hu": "Csak rövid kiszállás javasolt a fotókhoz.",
                 "ro": "Se recomandă doar o scurtă ieșire pentru poze.",
-                "en": "Only a brief exit is recommended for photos."
+                "en": "Only a brief exit is recommended for photos.",
+                "es": "Solo se recomienda una breve salida para hacer fotos."
               }
             },
             {
@@ -1648,7 +1778,8 @@
                 "de": "Direkte Zufahrt bis fast zum Kircheneingang.",
                 "hu": "Közvetlen hajtás majdnem a templomkapuig.",
                 "ro": "Acces direct până aproape de intrarea bisericii.",
-                "en": "Direct drive almost to the church entrance."
+                "en": "Direct drive almost to the church entrance.",
+                "es": "Conduce prácticamente hasta la entrada de la iglesia."
               }
             }
           ],
@@ -1680,6 +1811,13 @@
               "Paths to the lake can become muddy during heavy rain.",
               "Utilize seat heating after short outdoor walks.",
               "Avoid deep water accumulations on unpaved roads."
+            ],
+            "es": [
+              "Utiliza las plazas de aparcamiento más cercanas a los lugares de interés.",
+              "Asegúrate de que los limpiaparabrisas están en buen estado.",
+              "Los caminos hacia el embalse pueden volverse lodosos con lluvia intensa.",
+              "Utiliza la calefacción de los asientos tras breves paseos al aire libre.",
+              "Evita acumulaciones de agua profundas en caminos sin pavimentar."
             ]
           }
         },
@@ -1688,7 +1826,8 @@
             "de": "Morgens fahren wir im beheizten Wagen zum Zentrum von Caspe. Mittags besichtigen wir die Stiftskirche und das Schloss, wobei wir uns immer wieder im Auto aufwärmen können. Nachmittags führt die Tour zum Mar de Aragón, wo wir das winterliche Panorama genießen, ohne frieren zu müssen. Zum Abschluss fahren wir zur Einsiedelei von Santa María de Horta, bevor die Nacht über das Ebro-Tal hereinbricht.",
             "hu": "Reggel fűtött autóval érkezünk Caspe központjába. Délben a templomot és a várat látogatjuk meg, majd visszatérünk a kocsi melegébe. Délután a Mar de Aragón panorámáját élvezzük anélkül, hogy átfagynánk. Végül a Santa María de Horta kápolnához hajtunk, mielőtt az éjszaka leszállna az Ebro-völgyre.",
             "ro": "Dimineața conducem cu mașina încălzită spre centrul orașului Caspe. La prânz vizităm biserica și castelul, putându-ne încălzi oricând în mașină. După-amiaza admirăm panorama de iarnă la Mar de Aragón fără a ne expune frigului. La final mergem la schitul Santa María de Horta înainte de lăsarea nopții peste valea râului Ebro.",
-            "en": "In the morning, we drive into Caspe's center in a heated car. At noon, we visit the collegiate church and the castle, always having the option to warm up in the car. In the afternoon, the tour leads to Mar de Aragón, where we enjoy the wintry panorama without freezing. Finally, we drive to the Hermitage of Santa María de Horta before night falls over the Ebro valley."
+            "en": "In the morning, we drive into Caspe's center in a heated car. At noon, we visit the collegiate church and the castle, always having the option to warm up in the car. In the afternoon, the tour leads to Mar de Aragón, where we enjoy the wintry panorama without freezing. Finally, we drive to the Hermitage of Santa María de Horta before night falls over the Ebro valley.",
+            "es": "Por la mañana entramos en el centro de Caspe en un coche con calefacción. Al mediodía visitamos la colegiata y el castillo, siempre con la opción de calentarnos en el coche. Por la tarde, la excursión se dirige al Mar de Aragón, donde disfrutamos del panorama invernal sin pasar frío. Finalmente, conducimos hasta la Ermita de Santa María de Horta antes de que la noche caiga sobre el valle del Ebro."
           },
           "stops": [
             {
@@ -1697,7 +1836,8 @@
                 "de": "Lassen Sie die Heizung kurz laufen vor dem Ausstieg.",
                 "hu": "Hagyja járni a fűtést egy kicsit kiszállás előtt.",
                 "ro": "Lăsați căldura pornită puțin înainte de a coborî.",
-                "en": "Let the heater run for a bit before getting out."
+                "en": "Let the heater run for a bit before getting out.",
+                "es": "Deja que la calefacción funcione un rato antes de bajar del coche."
               }
             },
             {
@@ -1706,7 +1846,8 @@
                 "de": "Die Innenräume sind angenehm temperiert.",
                 "hu": "A belső terek kellemes hőmérsékletűek.",
                 "ro": "Spațiile interioare au o temperatură plăcută.",
-                "en": "The indoor spaces have a pleasant temperature."
+                "en": "The indoor spaces have a pleasant temperature.",
+                "es": "Los espacios interiores tienen una temperatura agradable."
               }
             },
             {
@@ -1715,7 +1856,8 @@
                 "de": "Vom Auto aus ist der Blick auf den Platz toll.",
                 "hu": "A kocsiból is remek rálátás nyílik a térre.",
                 "ro": "Vedere excelentă spre piață chiar din mașină.",
-                "en": "Great view of the square even from the car."
+                "en": "Great view of the square even from the car.",
+                "es": "Gran vista de la plaza incluso desde el coche."
               }
             },
             {
@@ -1724,7 +1866,8 @@
                 "de": "Achten Sie auf Raureif auf der Fahrbahn.",
                 "hu": "Vigyázzon a dérre az úttesten.",
                 "ro": "Atenție la chiciură pe suprafața drumului.",
-                "en": "Watch out for frost on the road surface."
+                "en": "Watch out for frost on the road surface.",
+                "es": "Cuidado con las placas de hielo en la calzada."
               }
             },
             {
@@ -1733,7 +1876,8 @@
                 "de": "Die Wintersonne kann beim Fahren stark blenden.",
                 "hu": "A téli nap erősen elvakíthat vezetés közben.",
                 "ro": "Soarele de iarnă poate fi orbitor la volan.",
-                "en": "The winter sun can be quite blinding while driving."
+                "en": "The winter sun can be quite blinding while driving.",
+                "es": "El sol invernal puede deslumbrar mucho al conducir."
               }
             },
             {
@@ -1742,7 +1886,8 @@
                 "de": "Kurze Fotostopps sind bei der Kälte ideal.",
                 "hu": "A rövid fotómegállók ideálisak a hidegben.",
                 "ro": "Opririle scurte pentru poze sunt ideale pe frig.",
-                "en": "Short photo stops are ideal in the cold."
+                "en": "Short photo stops are ideal in the cold.",
+                "es": "Las paradas cortas para fotos son ideales con frío."
               }
             },
             {
@@ -1751,7 +1896,8 @@
                 "de": "Besuch am späten Nachmittag für weiches Licht.",
                 "hu": "Késő délutáni látogatás a lágy fényekért.",
                 "ro": "Vizită după-amiaza târziu pentru lumină caldă.",
-                "en": "Visit in the late afternoon for soft light."
+                "en": "Visit in the late afternoon for soft light.",
+                "es": "Visita a última hora de la tarde para una luz suave."
               }
             }
           ],
@@ -1783,6 +1929,13 @@
               "Keep sunglasses handy against the low winter sun.",
               "Parking lots are much less crowded in winter than in summer.",
               "Check the castle's winter opening hours in advance."
+            ],
+            "es": [
+              "El líquido limpiaparabrisas anticongelante es imprescindible.",
+              "Cuidado con zonas heladas en los puentes sobre el Ebro.",
+              "Ten las gafas de sol a mano contra el sol bajo de invierno.",
+              "Los aparcamientos están mucho menos concurridos en invierno que en verano.",
+              "Consulta con antelación los horarios de invierno del castillo."
             ]
           }
         }
@@ -1801,7 +1954,8 @@
             "de": "Cluster 1: Plaza de España",
             "hu": "1. klaszter: Plaza de España",
             "ro": "Cluster 1: Plaza de España",
-            "en": "Cluster 1: Plaza de España"
+            "en": "Cluster 1: Plaza de España",
+            "es": "Clúster 1: Plaza de España"
           },
           "coords": [
             -0.0399,
@@ -1817,7 +1971,8 @@
             "de": "Beginnen Sie Ihren Tag im Zentrum, nahe der Hauptbushaltestelle.",
             "hu": "Kezdje a napot a központban, a fő buszmegálló közelében.",
             "ro": "Începeți ziua în centru, lângă stația principală de autobuz.",
-            "en": "Start your day in the center, near the main bus stop."
+            "en": "Start your day in the center, near the main bus stop.",
+            "es": "Empieza el día en el centro, cerca de la parada principal de autobús."
           }
         },
         {
@@ -1825,7 +1980,8 @@
             "de": "Kollegiatkirche und Burg des Kompromisses",
             "hu": "Társkáptalani templom és a megegyezés kastélya",
             "ro": "Colegiata și Castelul Compromisului",
-            "en": "Collegiate Church and Castle of the Compromise"
+            "en": "Collegiate Church and Castle of the Compromise",
+            "es": "Colegiata y Castillo del Compromiso"
           },
           "coords": [
             -0.0418,
@@ -1841,7 +1997,8 @@
             "de": "Diese beiden Hauptattraktionen liegen nur einen kurzen Spaziergang voneinander entfernt.",
             "hu": "Ez a két fő látnivaló csak rövid sétára van egymástól.",
             "ro": "Aceste două atracții principale se află la o scurtă plimbare una de cealaltă.",
-            "en": "These two main attractions are just a short walk from each other."
+            "en": "These two main attractions are just a short walk from each other.",
+            "es": "Estos dos principales atractivos están a un corto paseo el uno del otro."
           }
         },
         {
@@ -1849,7 +2006,8 @@
             "de": "Museum der Autonomie Aragóns",
             "hu": "Aragónia Autonómia Múzeuma",
             "ro": "Muzeul Autonomiei Aragonului",
-            "en": "Museum of Aragonese Autonomy"
+            "en": "Museum of Aragonese Autonomy",
+            "es": "Museo de la Autonomía Aragonesa"
           },
           "coords": [
             -0.035,
@@ -1865,7 +2023,8 @@
             "de": "Ein Spaziergang durch die Gassen führt Sie zu diesem interessanten Museum.",
             "hu": "A sikátorokon keresztül sétálva jut el ehhez az érdekes múzeumhoz.",
             "ro": "O plimbare pe străduțe vă va duce la acest muzeu interesant.",
-            "en": "A walk through the alleys will lead you to this interesting museum."
+            "en": "A walk through the alleys will lead you to this interesting museum.",
+            "es": "Un paseo por los callejones te llevará a este interesante museo."
           }
         },
         {
@@ -1873,7 +2032,8 @@
             "de": "Cluster 2: Fahrt zum Mar de Aragón",
             "hu": "2. klaszter: Utazás a Mar de Aragónhoz",
             "ro": "Cluster 2: Călătorie la Mar de Aragón",
-            "en": "Cluster 2: Drive to the Mar de Aragón"
+            "en": "Cluster 2: Drive to the Mar de Aragón",
+            "es": "Clúster 2: Excursión al Mar de Aragón"
           },
           "coords": [
             -0.01,
@@ -1889,7 +2049,8 @@
             "de": "Nehmen Sie den Bus, der in Richtung Stausee fährt. Planen Sie Zeit für die Fahrt ein.",
             "hu": "Szálljon fel a víztározó felé tartó buszra. Szánjon időt az utazásra.",
             "ro": "Luați autobuzul care merge spre lacul de acumulare. Planificați-vă timp pentru călătorie.",
-            "en": "Take the bus that goes towards the reservoir. Plan time for the journey."
+            "en": "Take the bus that goes towards the reservoir. Plan time for the journey.",
+            "es": "Toma el autobús que va hacia el embalse. Planifica tiempo para el trayecto."
           }
         },
         {
@@ -1897,7 +2058,8 @@
             "de": "Spaziergang und Mittagessen am See",
             "hu": "Séta és ebéd a tónál",
             "ro": "Plimbare și prânz la lac",
-            "en": "Walk and lunch by the lake"
+            "en": "Walk and lunch by the lake",
+            "es": "Paseo y comida junto al lago"
           },
           "coords": [
             -0.008,
@@ -1913,7 +2075,8 @@
             "de": "Steigen Sie in der Nähe eines Restaurants oder eines Aussichtspunkts aus und genießen Sie die Umgebung.",
             "hu": "Szálljon le egy étterem vagy egy kilátó közelében, és élvezze a környéket.",
             "ro": "Coborâți lângă un restaurant sau un punct de belvedere și bucurați-vă de împrejurimi.",
-            "en": "Get off near a restaurant or viewpoint and enjoy the surroundings."
+            "en": "Get off near a restaurant or viewpoint and enjoy the surroundings.",
+            "es": "Bájate cerca de un restaurante o mirador y disfruta del entorno."
           }
         },
         {
@@ -1921,7 +2084,8 @@
             "de": "Rückfahrt ins Zentrum",
             "hu": "Visszaút a központba",
             "ro": "Întoarcere în centru",
-            "en": "Return to the center"
+            "en": "Return to the center",
+            "es": "Regreso al centro"
           },
           "coords": [
             -0.0399,
@@ -1937,7 +2101,8 @@
             "de": "Achten Sie auf den Fahrplan des letzten Busses zurück nach Caspe.",
             "hu": "Figyeljen a Caspéba visszatérő utolsó busz menetrendjére.",
             "ro": "Fiți atenți la programul ultimului autobuz înapoi spre Caspe.",
-            "en": "Pay attention to the schedule for the last bus back to Caspe."
+            "en": "Pay attention to the schedule for the last bus back to Caspe.",
+            "es": "Presta atención al horario del último autobús de vuelta a Caspe."
           }
         }
       ],
@@ -1945,7 +2110,8 @@
         "de": "Ihr Tag mit öffentlichen Verkehrsmitteln beginnt im Zentrum von Caspe. Der erste Cluster konzentriert sich auf das historische Herz, das Sie bequem zu Fuß erkunden: die Plaza, die Kirche, die Burg und das Museum. Verbringen Sie den gesamten Vormittag damit, in die reiche Geschichte einzutauchen. Gegen Mittag nehmen Sie einen Bus zum zweiten Cluster, dem riesigen Mar de Aragón. Die Busfahrt selbst bietet einen Einblick in die umliegende Landschaft. Dort angekommen, haben Sie Zeit für ein entspanntes Mittagessen und einen Spaziergang am Ufer. Am späten Nachmittag bringt Sie der Bus zurück ins Zentrum von Caspe, rechtzeitig, um den Abend in einer der gemütlichen Tapas-Bars der Stadt ausklingen zu lassen.",
         "hu": "A tömegközlekedéssel töltött nap Caspe központjában kezdődik. Az első klaszter a történelmi szívre összpontosít, amelyet kényelmesen felfedezhet gyalog: a tér, a templom, a vár és a múzeum. Töltse az egész délelőttöt a gazdag történelemben való elmerüléssel. Dél körül szálljon buszra a második klaszterhez, a hatalmas Mar de Aragónhoz. Maga a buszút bepillantást enged a környező tájba. Miután megérkezett, lesz ideje egy nyugodt ebédre és egy sétára a parton. Késő délután a busz visszaviszi Önt Caspe központjába, éppen időben, hogy a város egyik hangulatos tapas bárjában zárja az estét.",
         "ro": "Ziua dumneavoastră cu transportul public începe în centrul orașului Caspe. Primul cluster se concentrează pe inima istorică, pe care o puteți explora confortabil pe jos: piața, biserica, castelul și muzeul. Petreceți întreaga dimineață cufundându-vă în istoria bogată. În jurul prânzului, luați un autobuz către al doilea cluster, imensul Mar de Aragón. Călătoria cu autobuzul în sine oferă o privire asupra peisajului înconjurător. Odată ajuns acolo, veți avea timp pentru un prânz relaxat și o plimbare pe mal. La sfârșitul după-amiezii, autobuzul vă va duce înapoi în centrul orașului Caspe, la timp pentru a încheia seara la unul dintre barurile de tapas primitoare ale orașului.",
-        "en": "Your day using public transport begins in the center of Caspe. The first cluster focuses on the historic heart, which you can comfortably explore on foot: the plaza, the church, the castle, and the museum. Spend the entire morning immersing yourself in the rich history. Around noon, you take a bus to the second cluster, the vast Mar de Aragón. The bus ride itself offers a glimpse of the surrounding landscape. Once there, you'll have time for a relaxed lunch and a walk along the shore. In the late afternoon, the bus will take you back to the center of Caspe, just in time to end the evening at one of the city's cozy tapas bars."
+        "en": "Your day using public transport begins in the center of Caspe. The first cluster focuses on the historic heart, which you can comfortably explore on foot: the plaza, the church, the castle, and the museum. Spend the entire morning immersing yourself in the rich history. Around noon, you take a bus to the second cluster, the vast Mar de Aragón. The bus ride itself offers a glimpse of the surrounding landscape. Once there, you'll have time for a relaxed lunch and a walk along the shore. In the late afternoon, the bus will take you back to the center of Caspe, just in time to end the evening at one of the city's cozy tapas bars.",
+        "es": "Tu día en transporte público comienza en el centro de Caspe. El primer clúster se centra en el corazón histórico, que puedes explorar cómodamente a pie: la plaza, la iglesia, el castillo y el museo. Pasa la mañana sumergido en la rica historia. Sobre el mediodía, tomas un autobús hacia el segundo clúster, el extenso Mar de Aragón. El propio viaje en autobús ofrece vistas del paisaje circundante. Una vez allí, tendrás tiempo para un almuerzo relajado y un paseo por la orilla. A última hora de la tarde, el autobús te llevará de vuelta al centro de Caspe, justo a tiempo para terminar la velada en una de las acogedoras tabernas de tapas de la ciudad."
       },
       "gastro_picks": {
         "de": [
@@ -2141,6 +2307,12 @@
           "Buy a day ticket if available to save costs.",
           "Be aware that rural buses may not always be on time.",
           "Ask the bus driver or locals if you are unsure where to get off."
+        ],
+        "es": [
+          "Infórmate sobre los horarios de autobús con antelación, ya que la frecuencia puede ser limitada.",
+          "Compra un billete diario si está disponible para ahorrar.",
+          "Ten en cuenta que los autobuses rurales pueden no llegar siempre puntuales.",
+          "Pregunta al conductor o a los locales si no sabes dónde bajar."
         ]
       },
       "variants": {
@@ -2149,7 +2321,8 @@
             "de": "Morgens nutzen wir den Bus zum Plaza de España und finden Schutz unter den Arkaden. Mittags besichtigen wir die Stiftskirche und das Schloss, wobei wir die Wartezeiten an den Bushaltestellen minimieren. Der Nachmittag gehört dem Museum der Autonomie, einem idealen Ort bei Regen. Die Rückfahrt erfolgt bequem im warmen Transitfahrzeug, während wir den Regen draußen lassen.",
             "hu": "Reggel busszal érkezünk a Plaza de Españára, kihasználva az árkádok védelmét. Délben a templomot és a várat nézzük meg, ügyelve a menetrendre a várakozási idő csökkentése érdekében. A délután az Autonómia Múzeumáé, amely ideális fedett helyszín. A nap kényelmes, száraz visszautazással zárul a központba.",
             "ro": "Dimineața folosim autobuzul până în Plaza de España și ne adăpostim sub arcade. La prânz vizităm biserica și castelul, minimizând timpul de așteptare în stații. După-amiaza este dedicată Muzeului Autonomiei, un loc ideal pe ploaie. Întoarcerea se face confortabil cu transportul public, feriți de ploaie.",
-            "en": "In the morning, we take the bus to Plaza de España and find shelter under the arches. At noon, we visit the church and castle, keeping bus waiting times to a minimum. The afternoon belongs to the Museum of Autonomy, an ideal indoor venue. The trip ends with a comfortable, dry ride back to the center."
+            "en": "In the morning, we take the bus to Plaza de España and find shelter under the arches. At noon, we visit the church and castle, keeping bus waiting times to a minimum. The afternoon belongs to the Museum of Autonomy, an ideal indoor venue. The trip ends with a comfortable, dry ride back to the center.",
+            "es": "Por la mañana, tomamos el autobús hasta la Plaza de España y buscamos cobijo bajo los arcos. Al mediodía visitamos la iglesia y el castillo, manteniendo al mínimo los tiempos de espera del autobús. La tarde pertenece al Museo de la Autonomía, un espacio interior ideal. El viaje termina con un trayecto cómodo y seco de vuelta al centro."
           },
           "stops": [
             {
@@ -2158,7 +2331,8 @@
                 "de": "Die Bushaltestelle liegt nahe an den Arkaden.",
                 "hu": "A buszmegálló közel van az árkádokhoz.",
                 "ro": "Stația de autobuz este aproape de arcade.",
-                "en": "The bus stop is close to the arches."
+                "en": "The bus stop is close to the arches.",
+                "es": "La parada de autobús está cerca de los arcos."
               }
             },
             {
@@ -2167,7 +2341,8 @@
                 "de": "Überdachte Portale zum Warten nutzen.",
                 "hu": "Használja a fedett kapukat várakozáshoz.",
                 "ro": "Folosiți porțile acoperite pentru a aștepta.",
-                "en": "Use sheltered portals for waiting."
+                "en": "Use sheltered portals for waiting.",
+                "es": "Utiliza los pórticos resguardados para esperar."
               }
             },
             {
@@ -2176,7 +2351,8 @@
                 "de": "Der perfekte Stopp für verregnete Nachmittage.",
                 "hu": "Tökéletes megálló esős délutánokra.",
                 "ro": "Oprirea perfectă pentru după-amiezi ploioase.",
-                "en": "The perfect stop for rainy afternoons."
+                "en": "The perfect stop for rainy afternoons.",
+                "es": "La parada perfecta para las tardes lluviosas."
               }
             },
             {
@@ -2185,7 +2361,8 @@
                 "de": "Aussicht aus dem Fenster während der Fahrt.",
                 "hu": "Kilátás az ablakból az utazás alatt.",
                 "ro": "Admirați priveliștea pe fereastră în timpul mersului.",
-                "en": "Enjoy the window view during the ride."
+                "en": "Enjoy the window view during the ride.",
+                "es": "Disfruta de la vista por la ventana durante el trayecto."
               }
             },
             {
@@ -2194,7 +2371,8 @@
                 "de": "Wählen Sie ein Restaurant mit Seeblick.",
                 "hu": "Válasszon tóra néző éttermet.",
                 "ro": "Alegeți un restaurant cu vedere spre lac.",
-                "en": "Choose a restaurant with a lake view."
+                "en": "Choose a restaurant with a lake view.",
+                "es": "Elige un restaurante con vistas al lago."
               }
             },
             {
@@ -2203,7 +2381,8 @@
                 "de": "Trockene Rückfahrt zum Ausgangspunkt.",
                 "hu": "Száraz visszautazás a kiindulópontig.",
                 "ro": "Întoarcere la uscat spre punctul de plecare.",
-                "en": "Dry ride back to the starting point."
+                "en": "Dry ride back to the starting point.",
+                "es": "Regreso seco al punto de partida."
               }
             }
           ],
@@ -2235,6 +2414,13 @@
               "Wear clothing that dries quickly while inside the bus.",
               "A small umbrella fits easily into your daypack.",
               "Ask the driver for the exact stop for the castle."
+            ],
+            "es": [
+              "Consulta las conexiones de autobús por internet o en una app antes de salir.",
+              "Espera bajo los techos de las paradas de autobús cuando llueva.",
+              "Lleva ropa que se seque rápido mientras estés en el autobús.",
+              "Un paraguas pequeño cabe fácilmente en la mochila de día.",
+              "Pregunta al conductor cuál es la parada exacta para el castillo."
             ]
           }
         },
@@ -2243,7 +2429,8 @@
             "de": "Morgens bringt uns der Transit zum winterlichen Plaza de España. Mittags wärmen wir uns in der Stiftskirche und im Schloss auf, bevor wir den Bus zum Mar de Aragón nehmen. Der Nachmittag bietet herrliche Winterpanoramen, die wir bequem erreichen. Wir beenden den Tag mit der Rückfahrt zum Zentrum, gerade wenn die Straßenlaternen die historische Stadt erleuchten.",
             "hu": "Reggel a tömegközlekedés repít minket a téli Plaza de Españára. Délben a templomban és a várban melegszünk fel, mielőtt buszra szállunk a Mar de Aragónhoz. A délután csodás téli panorámát kínál, amit kényelmesen érünk el. A napot a központba való visszautazással zárjuk, épp amikor kigyúlnak a város fényei.",
             "ro": "Dimineața transportul public ne duce în Plaza de España hibernală. La prânz ne încălzim în biserică și castel înainte de a lua autobuzul spre Mar de Aragón. După-amiaza oferă panorame de iarnă superbe, accesibile confortabil. Încheiem ziua cu întoarcerea în centru, exact când se aprind luminile stradale.",
-            "en": "In the morning, transit takes us to the wintry Plaza de España. At noon, we warm up in the church and castle before catching the bus to Mar de Aragón. The afternoon offers stunning winter panoramas, reached comfortably. We end the day with a ride back to the center, just as the streetlights begin to glow."
+            "en": "In the morning, transit takes us to the wintry Plaza de España. At noon, we warm up in the church and castle before catching the bus to Mar de Aragón. The afternoon offers stunning winter panoramas, reached comfortably. We end the day with a ride back to the center, just as the streetlights begin to glow.",
+            "es": "Por la mañana, el transporte nos lleva a la invernal Plaza de España. Al mediodía, nos abrigamos en la iglesia y el castillo antes de tomar el autobús hacia el Mar de Aragón. La tarde ofrece impresionantes panoramas invernales, alcanzables con comodidad. Terminamos el día con un viaje de regreso al centro, justo cuando las farolas empiezan a encenderse."
           },
           "stops": [
             {
@@ -2252,7 +2439,8 @@
                 "de": "Die Cafés am Platz sind im Winter sehr gemütlich.",
                 "hu": "A tér kávézói télen nagyon barátságosak.",
                 "ro": "Cafenelele din piață sunt foarte primitoare iarna.",
-                "en": "The cafes in the square are very cozy in winter."
+                "en": "The cafes in the square are very cozy in winter.",
+                "es": "Las cafeterías de la plaza son muy acogedoras en invierno."
               }
             },
             {
@@ -2261,7 +2449,8 @@
                 "de": "Kirchenbesuch zum Schutz vor der Kälte nutzen.",
                 "hu": "Használja a templomlátogatást a hideg elleni védekezésre.",
                 "ro": "Vizitați biserica pentru a vă feri de frig.",
-                "en": "Visit the church to escape the cold."
+                "en": "Visit the church to escape the cold.",
+                "es": "Visita la iglesia para escapar del frío."
               }
             },
             {
@@ -2270,7 +2459,8 @@
                 "de": "Ein gut beheizter Rückzugsort am Nachmittag.",
                 "hu": "Jól fűtött menedék a délutáni órákban.",
                 "ro": "Un refugiu bine încălzit în timpul după-amiezii.",
-                "en": "A well-heated retreat in the afternoon."
+                "en": "A well-heated retreat in the afternoon.",
+                "es": "Un refugio bien calentado por la tarde."
               }
             },
             {
@@ -2279,7 +2469,8 @@
                 "de": "Warmer Bus mit guter Sicht auf die Landschaft.",
                 "hu": "Meleg busz jó kilátással a tájra.",
                 "ro": "Autobuz călduros cu vizibilitate bună asupra peisajului.",
-                "en": "Warm bus with good views of the landscape."
+                "en": "Warm bus with good views of the landscape.",
+                "es": "Autobús cálido con buenas vistas del paisaje."
               }
             },
             {
@@ -2288,7 +2479,8 @@
                 "de": "Genießen Sie ein warmes Mittagessen am Wasser.",
                 "hu": "Élvezzen egy meleg ebédet a vízparton.",
                 "ro": "Savurați un prânz cald lângă apă.",
-                "en": "Enjoy a warm lunch by the water."
+                "en": "Enjoy a warm lunch by the water.",
+                "es": "Disfruta de un almuerzo caliente junto al agua."
               }
             },
             {
@@ -2297,7 +2489,8 @@
                 "de": "Rechtzeitige Rückfahrt vor der Abendkälte.",
                 "hu": "Visszautazás még az esti lehűlés előtt.",
                 "ro": "Întoarcere înainte de lăsarea gerului de seară.",
-                "en": "Ride back before the evening chill sets in."
+                "en": "Ride back before the evening chill sets in.",
+                "es": "Vuelve antes de que caiga el frío nocturno."
               }
             }
           ],
@@ -2329,6 +2522,13 @@
               "Wear warm socks for the outdoor waiting times.",
               "Keep small change or your ticket handy for the ride.",
               "Use transit time to plan your next stops."
+            ],
+            "es": [
+              "Ten en cuenta que los autobuses pueden circular con menos frecuencia en invierno.",
+              "Las paradas de autobús pueden sentirse muy frías por el efecto del viento.",
+              "Usa calcetines calentitos para los tiempos de espera al aire libre.",
+              "Ten cambio o tu billete a mano para el viaje.",
+              "Aprovecha el tiempo en tránsito para planear tus próximas paradas."
             ]
           }
         }

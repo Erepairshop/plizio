@@ -21,7 +21,8 @@
             "de": "Fuente del Rey",
             "hu": "Király-kút",
             "ro": "Fuente del Rey",
-            "en": "Fuente del Rey"
+            "en": "Fuente del Rey",
+            "es": "Fuente del Rey"
           },
           "coords": [
             -4.1952,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die 139 Wasserstrahlen und die barocke Neptunstatue.",
             "hu": "Csodáld meg a 139 vízsugarat és Neptunusz barokk szobrát.",
             "ro": "Admirați cele 139 de jeturi de apă și statuia barocă a lui Neptun.",
-            "en": "Admire the 139 water jets and the baroque statue of Neptune."
+            "en": "Admire the 139 water jets and the baroque statue of Neptune.",
+            "es": "Admira los 139 chorros de agua y la estatua barroca de Neptuno."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Fuente de la Salud",
             "hu": "Egészség-kút",
             "ro": "Fuente de la Salud",
-            "en": "Fuente de la Salud"
+            "en": "Fuente de la Salud",
+            "es": "Fuente de la Salud"
           },
           "coords": [
             -4.195,
@@ -59,7 +62,8 @@
             "de": "Gleich neben dem Király-kút gelegen, ein Meisterwerk der Renaissance.",
             "hu": "Közvetlenül a Király-kút mellett, a reneszánsz stílus remeke.",
             "ro": "Situată chiar lângă Fuente del Rey, o capodoperă a Renașterii.",
-            "en": "Located right next to Fuente del Rey, a masterpiece of the Renaissance."
+            "en": "Located right next to Fuente del Rey, a masterpiece of the Renaissance.",
+            "es": "Situada junto a la Fuente del Rey, una obra maestra del Renacimiento."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Barrio de la Villa",
             "hu": "Villa negyed",
             "ro": "Barrio de la Villa",
-            "en": "Barrio de la Villa"
+            "en": "Barrio de la Villa",
+            "es": "Barrio de la Villa"
           },
           "coords": [
             -4.192,
@@ -82,7 +87,8 @@
             "de": "Spazieren Sie durch die engen Gassen mit blumengeschmückten weißen Häusern.",
             "hu": "Sétálj a virágokkal díszített fehér házak szűk utcáin.",
             "ro": "Plimbați-vă pe străzile înguste cu case albe împodobite cu flori.",
-            "en": "Stroll through the narrow streets with flower-decorated white houses."
+            "en": "Stroll through the narrow streets with flower-decorated white houses.",
+            "es": "Pasea por las estrechas calles con casas blancas decoradas con flores."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Balcón del Adarve",
             "hu": "Adarve erkély",
             "ro": "Balcón del Adarve",
-            "en": "Balcón del Adarve"
+            "en": "Balcón del Adarve",
+            "es": "Balcón del Adarve"
           },
           "coords": [
             -4.1915,
@@ -105,7 +112,8 @@
             "de": "Genießen Sie den Panoramablick auf die andalusische Landschaft.",
             "hu": "Élvezd a panorámát az andalúz vidékre a természetes sziklaperemről.",
             "ro": "Bucurați-vă de vederea panoramică asupra peisajului andaluz.",
-            "en": "Enjoy the panoramic view of the Andalusian countryside."
+            "en": "Enjoy the panoramic view of the Andalusian countryside.",
+            "es": "Disfruta de la vista panorámica del campo andaluz."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Iglesia de la Asunción",
             "hu": "Nagyboldogasszony templom",
             "ro": "Iglesia de la Asunción",
-            "en": "Iglesia de la Asunción"
+            "en": "Iglesia de la Asunción",
+            "es": "Iglesia de la Asunción"
           },
           "coords": [
             -4.1918,
@@ -128,7 +137,8 @@
             "de": "Das Tabernakel im Inneren ist ein Juwel des spanischen Barock.",
             "hu": "A belső kápolna a spanyol barokk művészet egyik csúcspontja.",
             "ro": "Tabernacolul din interior este o bijuterie a barocului spaniol.",
-            "en": "The tabernacle inside is a jewel of Spanish Baroque art."
+            "en": "The tabernacle inside is a jewel of Spanish Baroque art.",
+            "es": "El sagrario en su interior es una joya del barroco español."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Castillo de Priego",
             "hu": "Priego vára",
             "ro": "Castillo de Priego",
-            "en": "Castillo de Priego"
+            "en": "Castillo de Priego",
+            "es": "Castillo de Priego"
           },
           "coords": [
             -4.1925,
@@ -151,7 +162,8 @@
             "de": "Besteigen Sie den Bergfried für die beste Aussicht auf die Stadt.",
             "hu": "Mássz fel az öregtoronyba a város legjobb kilátásáért.",
             "ro": "Urcați în turnul principal pentru cea mai bună vedere asupra orașului.",
-            "en": "Climb the keep for the best views of the town."
+            "en": "Climb the keep for the best views of the town.",
+            "es": "Sube a la torre para obtener las mejores vistas del pueblo."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Carnicerías Reales",
             "hu": "Királyi Mészárszékek",
             "ro": "Carnicerías Reales",
-            "en": "Carnicerías Reales"
+            "en": "Carnicerías Reales",
+            "es": "Carnicerías Reales"
           },
           "coords": [
             -4.1912,
@@ -174,7 +187,8 @@
             "de": "Ein ehemaliger Schlachthof aus dem 16. Jahrhundert mit schöner Architektur.",
             "hu": "16. századi egykori mészárszék gyönyörű oszlopos udvarral.",
             "ro": "Un fost abator din secolul al XVI-lea cu o arhitectură frumoasă.",
-            "en": "A 16th-century former slaughterhouse with beautiful architecture."
+            "en": "A 16th-century former slaughterhouse with beautiful architecture.",
+            "es": "Un antiguo matadero del siglo XVI con una arquitectura preciosa."
           }
         },
         {
@@ -182,7 +196,8 @@
             "de": "Museo Histórico Municipal",
             "hu": "Városi Történeti Múzeum",
             "ro": "Muzeul Istoric Municipal",
-            "en": "Municipal Historical Museum"
+            "en": "Municipal Historical Museum",
+            "es": "Museo Histórico Municipal"
           },
           "coords": [
             -4.1935,
@@ -197,7 +212,8 @@
             "de": "Entdecken Sie die reiche archäologische Geschichte der Region.",
             "hu": "Fedezd fel a régió gazdag régészeti emlékeit az ókortól napjainkig.",
             "ro": "Descoperiți istoria arheologică bogată a regiunii.",
-            "en": "Discover the rich archaeological history of the region."
+            "en": "Discover the rich archaeological history of the region.",
+            "es": "Descubre la rica historia arqueológica de la región."
           }
         }
       ],
@@ -205,7 +221,8 @@
         "de": "Beginnen Sie Ihren Morgen an den beeindruckenden Brunnen Fuente del Rey und de la Salud, Symbole für den Wasserreichtum von Priego. Danach führt Sie ein gemütlicher Spaziergang in das bezaubernde Viertel Barrio de la Villa, wo die Zeit stehen geblieben scheint. Mittags genießen Sie die Aussicht vom Balcón del Adarve und tauchen ein in den barocken Glanz der Asunción-Kirche. Der Nachmittag gehört der Erkundung der mittelalterlichen Burg und des historischen Museums, bevor Sie den Tag in den Gassen der Altstadt ausklingen lassen.",
         "hu": "Reggel a város vízi szimbólumainál, a Fuente del Rey és de la Salud szökőkutaknál kezdesz, ahol a barokk és reneszánsz művészet találkozik. Ezután a virágos Barrio de la Villa negyed fehér falai között sétálsz tovább. Délben az Adarve-erkélyről csodálod a vidéket, majd a barokk ékkőnek számító Asunción templomba látogatsz. Délután a középkori várat és a különleges mészárszéket fedezed fel, a napot pedig a Történeti Múzeumban zárod, elmélyülve a környék múltjában.",
         "ro": "Începeți dimineața la impresionantele fântâni Fuente del Rey și de la Salud, simboluri ale bogăției de apă din Priego. Apoi, o plimbare relaxantă vă conduce în fermecătorul cartier Barrio de la Villa, unde timpul pare să stea în loc. La prânz, bucurați-vă de priveliștea de la Balcón del Adarve și cufundați-vă în splendoarea barocă a bisericii Asunción. După-amiaza este dedicată explorării castelului medieval și a muzeului istoric, înainte de a încheia ziua pe străzile pitorești ale orașului vechi.",
-        "en": "Start your morning at the impressive Fuente del Rey and de la Salud fountains, symbols of Priego's water wealth. Then, a leisurely walk leads you into the charming Barrio de la Villa, where time seems to stand still. At noon, enjoy the views from the Balcón del Adarve and immerse yourself in the baroque splendor of the Asunción church. The afternoon is dedicated to exploring the medieval castle and the historical museum, before ending the day in the narrow alleys of the old town."
+        "en": "Start your morning at the impressive Fuente del Rey and de la Salud fountains, symbols of Priego's water wealth. Then, a leisurely walk leads you into the charming Barrio de la Villa, where time seems to stand still. At noon, enjoy the views from the Balcón del Adarve and immerse yourself in the baroque splendor of the Asunción church. The afternoon is dedicated to exploring the medieval castle and the historical museum, before ending the day in the narrow alleys of the old town.",
+        "es": "Comienza la mañana en las impresionantes fuentes de Fuente del Rey y de la Salud, símbolos de la riqueza hídrica de Priego. Luego, un paseo tranquilo te lleva al encantador Barrio de la Villa, donde el tiempo parece detenerse. Al mediodía, disfruta de las vistas desde el Balcón del Adarve e inmersiónate en el esplendor barroco de la iglesia de la Asunción. La tarde se dedica a explorar el castillo medieval y el museo histórico, antes de terminar el día en las callejuelas del casco antiguo."
       },
       "gastro_picks": {
         "de": [
@@ -329,6 +346,12 @@
           "The Barrio de la Villa is best explored on foot.",
           "Try the local olive oil, it is considered one of the best in the world.",
           "Note that most sights close during the siesta hours."
+        ],
+        "es": [
+          "Priego es la capital del Barroco; presta atención a los detalles de las iglesias.",
+          "El Barrio de la Villa se explora mejor a pie.",
+          "Prueba el aceite de oliva local; se considera uno de los mejores del mundo.",
+          "Ten en cuenta que la mayoría de los monumentos cierran durante la siesta."
         ]
       },
       "variants": {
@@ -337,7 +360,8 @@
             "de": "Beginnen Sie Ihren Morgen an den beeindruckenden Brunnen Fuente del Rey und de la Salud, Symbole für den Wasserreichtum von Priego. Danach führt Sie ein gemütlicher Spaziergang in das bezaubernde Viertel Barrio de la Villa, wo die Zeit stehen geblieben scheint. Mittags genießen Sie die Aussicht vom Balcón del Adarve und tauchen ein in den barocken Glanz der Asunción-Kirche. Der Nachmittag gehört der Erkundung der mittelalterlichen Burg und des historischen Museums, bevor Sie den Tag in den Gassen der Altstadt ausklingen lassen.",
             "hu": "Reggel a város vízi szimbólumainál, a Fuente del Rey és de la Salud szökőkutaknál kezdesz, ahol a barokk és reneszánsz művészet találkozik. Ezután a virágos Barrio de la Villa negyed fehér falai között sétálsz tovább. Délben az Adarve-erkélyről csodálod a vidéket, majd a barokk ékkőnek számító Asunción templomba látogatsz. Délután a középkori várat és a különleges mészárszéket fedezed fel, a napot pedig a Történeti Múzeumban zárod, elmélyülve a környék múltjában.",
             "ro": "Începeți dimineața la impresionantele fântâni Fuente del Rey și de la Salud, simboluri ale bogăției de apă din Priego. Apoi, o plimbare relaxantă vă conduce în fermecătorul cartier Barrio de la Villa, unde timpul pare să stea în loc. La prânz, bucurați-vă de priveliștea de la Balcón del Adarve și cufundați-vă în splendoarea barocă a bisericii Asunción. După-amiaza este dedicată explorării castelului medieval și a muzeului istoric, înainte de a încheia ziua pe străzile pitorești ale orașului vechi.",
-            "en": "Start your morning at the impressive Fuente del Rey and de la Salud fountains, symbols of Priego's water wealth. Then, a leisurely walk leads you into the charming Barrio de la Villa, where time seems to stand still. At noon, enjoy the views from the Balcón del Adarve and immerse yourself in the baroque splendor of the Asunción church. The afternoon is dedicated to exploring the medieval castle and the historical museum, before ending the day in the narrow alleys of the old town."
+            "en": "Start your morning at the impressive Fuente del Rey and de la Salud fountains, symbols of Priego's water wealth. Then, a leisurely walk leads you into the charming Barrio de la Villa, where time seems to stand still. At noon, enjoy the views from the Balcón del Adarve and immerse yourself in the baroque splendor of the Asunción church. The afternoon is dedicated to exploring the medieval castle and the historical museum, before ending the day in the narrow alleys of the old town.",
+            "es": "Comienza la mañana en las impresionantes fuentes de Fuente del Rey y de la Salud, símbolos de la riqueza hídrica de Priego. Luego, un paseo tranquilo te lleva al encantador Barrio de la Villa, donde el tiempo parece detenerse. Al mediodía, disfruta de las vistas desde el Balcón del Adarve e inmersiónate en el esplendor barroco de la iglesia de la Asunción. La tarde se dedica a explorar el castillo medieval y el museo histórico, antes de terminar el día en las callejuelas del casco antiguo."
           },
           "stops": [
             {
@@ -345,13 +369,15 @@
                 "de": "Fuente del Rey",
                 "hu": "Király-kút",
                 "ro": "Fuente del Rey",
-                "en": "Fuente del Rey"
+                "en": "Fuente del Rey",
+                "es": "Fuente del Rey"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die 139 Wasserstrahlen und die barocke Neptunstatue.",
                 "hu": "Csodáld meg a 139 vízsugarat és Neptunusz barokk szobrát.",
                 "ro": "Admirați cele 139 de jeturi de apă și statuia barocă a lui Neptun.",
-                "en": "Admire the 139 water jets and the baroque statue of Neptune."
+                "en": "Admire the 139 water jets and the baroque statue of Neptune.",
+                "es": "Admira los 139 chorros de agua y la estatua barroca de Neptuno."
               }
             },
             {
@@ -359,13 +385,15 @@
                 "de": "Fuente de la Salud",
                 "hu": "Egészség-kút",
                 "ro": "Fuente de la Salud",
-                "en": "Fuente de la Salud"
+                "en": "Fuente de la Salud",
+                "es": "Fuente de la Salud"
               },
               "tip_5lang": {
                 "de": "Gleich neben dem Király-kút gelegen, ein Meisterwerk der Renaissance.",
                 "hu": "Közvetlenül a Király-kút mellett, a reneszánsz stílus remeke.",
                 "ro": "Situată chiar lângă Fuente del Rey, o capodoperă a Renașterii.",
-                "en": "Located right next to Fuente del Rey, a masterpiece of the Renaissance."
+                "en": "Located right next to Fuente del Rey, a masterpiece of the Renaissance.",
+                "es": "Situada junto a la Fuente del Rey, una obra maestra del Renacimiento."
               }
             },
             {
@@ -373,13 +401,15 @@
                 "de": "Barrio de la Villa",
                 "hu": "Villa negyed",
                 "ro": "Barrio de la Villa",
-                "en": "Barrio de la Villa"
+                "en": "Barrio de la Villa",
+                "es": "Barrio de la Villa"
               },
               "tip_5lang": {
                 "de": "Spazieren Sie durch die engen Gassen mit blumengeschmückten weißen Häusern.",
                 "hu": "Sétálj a virágokkal díszített fehér házak szűk utcáin.",
                 "ro": "Plimbați-vă pe străzile înguste cu case albe împodobite cu flori.",
-                "en": "Stroll through the narrow streets with flower-decorated white houses."
+                "en": "Stroll through the narrow streets with flower-decorated white houses.",
+                "es": "Pasea por las estrechas calles con casas blancas decoradas con flores."
               }
             },
             {
@@ -387,13 +417,15 @@
                 "de": "Balcón del Adarve",
                 "hu": "Adarve erkély",
                 "ro": "Balcón del Adarve",
-                "en": "Balcón del Adarve"
+                "en": "Balcón del Adarve",
+                "es": "Balcón del Adarve"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Panoramablick auf die andalusische Landschaft.",
                 "hu": "Élvezd a panorámát az andalúz vidékre a természetes sziklaperemről.",
                 "ro": "Bucurați-vă de vederea panoramică asupra peisajului andaluz.",
-                "en": "Enjoy the panoramic view of the Andalusian countryside."
+                "en": "Enjoy the panoramic view of the Andalusian countryside.",
+                "es": "Disfruta de la vista panorámica del campo andaluz."
               }
             },
             {
@@ -401,13 +433,15 @@
                 "de": "Iglesia de la Asunción",
                 "hu": "Nagyboldogasszony templom",
                 "ro": "Iglesia de la Asunción",
-                "en": "Iglesia de la Asunción"
+                "en": "Iglesia de la Asunción",
+                "es": "Iglesia de la Asunción"
               },
               "tip_5lang": {
                 "de": "Das Tabernakel im Inneren ist ein Juwel des spanischen Barock.",
                 "hu": "A belső kápolna a spanyol barokk művészet egyik csúcspontja.",
                 "ro": "Tabernacolul din interior este o bijuterie a barocului spaniol.",
-                "en": "The tabernacle inside is a jewel of Spanish Baroque art."
+                "en": "The tabernacle inside is a jewel of Spanish Baroque art.",
+                "es": "El sagrario en su interior es una joya del barroco español."
               }
             },
             {
@@ -415,13 +449,15 @@
                 "de": "Castillo de Priego",
                 "hu": "Priego vára",
                 "ro": "Castillo de Priego",
-                "en": "Castillo de Priego"
+                "en": "Castillo de Priego",
+                "es": "Castillo de Priego"
               },
               "tip_5lang": {
                 "de": "Besteigen Sie den Bergfried für die beste Aussicht auf die Stadt.",
                 "hu": "Mássz fel az öregtoronyba a város legjobb kilátásáért.",
                 "ro": "Urcați în turnul principal pentru cea mai bună vedere asupra orașului.",
-                "en": "Climb the keep for the best views of the town."
+                "en": "Climb the keep for the best views of the town.",
+                "es": "Sube a la torre para obtener las mejores vistas del pueblo."
               }
             },
             {
@@ -429,13 +465,15 @@
                 "de": "Carnicerías Reales",
                 "hu": "Királyi Mészárszékek",
                 "ro": "Carnicerías Reales",
-                "en": "Carnicerías Reales"
+                "en": "Carnicerías Reales",
+                "es": "Carnicerías Reales"
               },
               "tip_5lang": {
                 "de": "Ein ehemaliger Schlachthof aus dem 16. Jahrhundert mit schöner Architektur.",
                 "hu": "16. századi egykori mészárszék gyönyörű oszlopos udvarral.",
                 "ro": "Un fost abator din secolul al XVI-lea cu o arhitectură frumoasă.",
-                "en": "A 16th-century former slaughterhouse with beautiful architecture."
+                "en": "A 16th-century former slaughterhouse with beautiful architecture.",
+                "es": "Un antiguo matadero del siglo XVI con una arquitectura preciosa."
               }
             },
             {
@@ -443,13 +481,15 @@
                 "de": "Museo Histórico Municipal",
                 "hu": "Városi Történeti Múzeum",
                 "ro": "Muzeul Istoric Municipal",
-                "en": "Municipal Historical Museum"
+                "en": "Municipal Historical Museum",
+                "es": "Museo Histórico Municipal"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie die reiche archäologische Geschichte der Region.",
                 "hu": "Fedezd fel a régió gazdag régészeti emlékeit az ókortól napjainkig.",
                 "ro": "Descoperiți istoria arheologică bogată a regiunii.",
-                "en": "Discover the rich archaeological history of the region."
+                "en": "Discover the rich archaeological history of the region.",
+                "es": "Descubre la rica historia arqueológica de la región."
               }
             }
           ],
@@ -575,6 +615,12 @@
               "The Barrio de la Villa is best explored on foot.",
               "Try the local olive oil, it is considered one of the best in the world.",
               "Note that most sights close during the siesta hours."
+            ],
+            "es": [
+              "Priego es la capital del Barroco; presta atención a los detalles de las iglesias.",
+              "El Barrio de la Villa se explora mejor a pie.",
+              "Prueba el aceite de oliva local; se considera uno de los mejores del mundo.",
+              "Ten en cuenta que la mayoría de los monumentos cierran durante la siesta."
             ]
           }
         },
@@ -583,7 +629,8 @@
             "de": "Der Morgen beginnt an den Brunnen, wo der Regen das Rauschen des Wassers verstärkt. Die barocken Skulpturen glänzen im feuchten Licht.  Mittags suchen wir Schutz in der Iglesia de la Asunción. Das goldene Innere bildet einen warmen Kontrast zum grauen Himmel draußen.  Am Nachmittag erkunden wir das Barrio de la Villa. Die engen Gassen bieten etwas Schutz vor dem Wind, während die weißen Wände das weiche Licht reflektieren.  Der Tag endet gemütlich im Historischen Museum. Hier tauchen wir tief in die Geschichte ein, während draußen der Regen auf die alten Dächer prasselt.",
             "hu": "A reggel a szökőkutaknál indul, ahol az eső még hangsúlyosabbá teszi a víz csobogását. A barokk szobrok különleges fényben tündökölnek a párás időben.  Délben az Iglesia de la Asunción nyújt menedéket. Az aranyozott belső tér meleg kontrasztot alkot a kinti szürkeséggel és az eső kopogásával.  Délután a Barrio de la Villa negyedet járjuk be. A szűk utcák némi védelmet adnak a szél ellen, a fehér falak pedig felerősítik a szórt fényeket.  Az este a Történeti Múzeumban ér véget. A fedett termekben kényelmesen ismerkedhetünk a várossal, miközben az eső a régi háztetőket mossa.",
             "ro": "Dimineața începe la fântâni, unde ploaia intensifică sunetul apei. Sculpturile baroce strălucesc sub cerul înnorat, oferind o perspectivă unică.  La prânz ne adăpostim în Iglesia de la Asunción. Interiorul auriu oferă un contrast cald față de griul de afară și de umezeala persistentă.  După-amiaza explorăm Barrio de la Villa. Străzile înguste oferă o oarecare protecție împotriva vântului, iar pereții albi reflectă lumina difuză.  Ziua se încheie confortabil la Muzeul Istoric. Aici descoperim trecutul orașului în siguranță, în timp ce ploaia cade peste acoperișurile vechi.",
-            "en": "The morning begins at the fountains, where the rain amplifies the sound of the water. The Baroque sculptures glisten beautifully in the damp air.  At noon, we seek shelter in the Iglesia de la Asunción. The golden interior provides a warm contrast to the grey skies and the falling rain outside.  In the afternoon, we wander through the Barrio de la Villa. The narrow streets offer some protection from the wind, and the white walls brighten the soft light.  The day ends comfortably at the Historical Museum. We dive deep into the city's past while staying dry, listening to the rain on the ancient rooftops."
+            "en": "The morning begins at the fountains, where the rain amplifies the sound of the water. The Baroque sculptures glisten beautifully in the damp air.  At noon, we seek shelter in the Iglesia de la Asunción. The golden interior provides a warm contrast to the grey skies and the falling rain outside.  In the afternoon, we wander through the Barrio de la Villa. The narrow streets offer some protection from the wind, and the white walls brighten the soft light.  The day ends comfortably at the Historical Museum. We dive deep into the city's past while staying dry, listening to the rain on the ancient rooftops.",
+            "es": "La mañana comienza en las fuentes, donde la lluvia amplifica el sonido del agua. Las esculturas barrocas brillan hermosamente en el aire húmedo. Al mediodía buscamos refugio en la Iglesia de la Asunción. El interior dorado ofrece un cálido contraste con el cielo gris y la lluvia exterior. Por la tarde, paseamos por el Barrio de la Villa. Las calles estrechas protegen algo del viento y las paredes blancas iluminan la luz suave. El día termina cómodamente en el Museo Histórico. Nos sumergimos en el pasado de la ciudad mientras nos mantenemos secos, escuchando la lluvia sobre los antiguos tejados."
           },
           "stops": [
             {
@@ -592,7 +639,8 @@
                 "de": "Die Marmorstufen können bei Nässe sehr rutschig sein; gehen Sie vorsichtig.",
                 "hu": "A márványlépcsők vizesen rendkívül csúszósak lehetnek; közlekedjen óvatosan.",
                 "ro": "Treptele de marmură pot fi foarte alunecoase când sunt ude; mergeți cu atenție.",
-                "en": "The marble steps can be very slippery when wet; please walk carefully."
+                "en": "The marble steps can be very slippery when wet; please walk carefully.",
+                "es": "Los peldaños de mármol pueden estar muy resbaladizos cuando están mojados; camina con cuidado."
               }
             },
             {
@@ -601,7 +649,8 @@
                 "de": "Nutzen Sie die Bögen in der Nähe, um das Denkmal im Trockenen zu betrachten.",
                 "hu": "Használja a közeli boltíveket, hogy szárazon csodálhassa meg az emlékművet.",
                 "ro": "Folosiți arcadele din apropiere pentru a admira monumentul stând la adăpost.",
-                "en": "Use the nearby arches to admire the monument while staying dry."
+                "en": "Use the nearby arches to admire the monument while staying dry.",
+                "es": "Utiliza los arcos cercanos para admirar el monumento mientras te mantienes seco."
               }
             },
             {
@@ -610,7 +659,8 @@
                 "de": "Das Kopfsteinpflaster ist tückisch; festes Schuhwerk mit gutem Grip ist ratsam.",
                 "hu": "A macskakő trükkös lehet; ajánlott a tapadós talpú, vízálló lábbeli viselete.",
                 "ro": "Piatra cubică este înșelătoare; se recomandă încălțăminte cu aderență bună.",
-                "en": "The cobblestones are tricky; sturdy footwear with good grip is highly recommended."
+                "en": "The cobblestones are tricky; sturdy footwear with good grip is highly recommended.",
+                "es": "Los empedrados son traicioneros; se recomienda calzado resistente con buena suela."
               }
             },
             {
@@ -619,7 +669,8 @@
                 "de": "Bei Regen hängen oft Nebelschwaden über dem Tal, was eine mystische Sicht bietet.",
                 "hu": "Esőben gyakran ködfelhők ülnek a völgy felett, ami misztikus látványt nyújt.",
                 "ro": "În timpul ploii, ceața se lasă adesea peste vale, oferind o vedere mistică.",
-                "en": "During rain, mist often hangs over the valley, offering a mystical view."
+                "en": "During rain, mist often hangs over the valley, offering a mystical view.",
+                "es": "Durante la lluvia, a menudo cuelga niebla sobre el valle, ofreciendo una vista mística."
               }
             },
             {
@@ -628,7 +679,8 @@
                 "de": "Ein perfekter Ort, um den stärksten Regen abzuwarten und den Barock zu bewundern.",
                 "hu": "Tökéletes hely a hevesebb eső kivárására és a barokk pompájában való elmélyülésre.",
                 "ro": "Un loc perfect pentru a aștepta oprirea ploii și a admira splendoarea barocă.",
-                "en": "A perfect place to wait out the heavier rain and admire the Baroque splendor."
+                "en": "A perfect place to wait out the heavier rain and admire the Baroque splendor.",
+                "es": "Un lugar perfecto para esperar a que amaine la lluvia y admirar el esplendor barroco."
               }
             },
             {
@@ -637,7 +689,8 @@
                 "de": "Die Wehrtürme bieten Schutz, aber die Freiflächen zwischen ihnen sind ungeschützt.",
                 "hu": "A bástyák védelmet nyújtanak, de a közöttük lévő terek nyitottak, készüljön esernyővel.",
                 "ro": "Turnurile oferă adăpost, dar spațiile dintre ele sunt expuse; folosiți umbrela.",
-                "en": "The towers provide shelter, but the spaces between them are exposed; bring an umbrella."
+                "en": "The towers provide shelter, but the spaces between them are exposed; bring an umbrella.",
+                "es": "Las torres dan refugio, pero los espacios entre ellas están expuestos; lleva paraguas."
               }
             },
             {
@@ -646,7 +699,8 @@
                 "de": "Die Steinhalle ist kühl und trocken, ideal für eine Pause vom Wetter.",
                 "hu": "A kőcsarnok hűvös és száraz, ideális hely egy rövid pihenőre az eső elől.",
                 "ro": "Hala de piatră este răcoroasă și uscată, ideală pentru o pauză de vremea rea.",
-                "en": "The stone hall is cool and dry, an ideal spot for a break from the weather."
+                "en": "The stone hall is cool and dry, an ideal spot for a break from the weather.",
+                "es": "La sala de piedra es fresca y seca, un lugar ideal para descansar del mal tiempo."
               }
             },
             {
@@ -655,7 +709,8 @@
                 "de": "Nutzen Sie die Garderobe für nasse Mäntel, bevor Sie die Ausstellungen besuchen.",
                 "hu": "Használja a ruhatárat a vizes kabátoknak, mielőtt megtekintené a kiállításokat.",
                 "ro": "Folosiți garderoba pentru haine ude înainte de a vizita expozițiile.",
-                "en": "Use the cloakroom for wet coats before exploring the exhibitions."
+                "en": "Use the cloakroom for wet coats before exploring the exhibitions.",
+                "es": "Usa el guardarropa para los abrigos mojados antes de explorar las exposiciones."
               }
             }
           ],
@@ -683,6 +738,12 @@
               "Combine outdoor sights with visits to the many churches, which offer excellent shelter.",
               "A compact umbrella is more practical in the narrow streets of Barrio de la Villa than a large one.",
               "Watch for humidity; camera lenses may fog up when entering the warm interiors of the churches."
+            ],
+            "es": [
+              "Lleva calzado con suela de goma, ya que el pavimento histórico se vuelve extremadamente resbaladizo cuando está mojado.",
+              "Combina visitas al aire libre con la entrada a las muchas iglesias, que ofrecen excelente refugio.",
+              "Un paraguas compacto es más práctico en las estrechas calles del Barrio de la Villa que uno grande.",
+              "Cuidado con la humedad; las lentes de las cámaras pueden empañarse al entrar en los interiores cálidos de las iglesias."
             ]
           }
         },
@@ -691,7 +752,8 @@
             "de": "Die klare Winterluft am Morgen lässt die Fuente del Rey in einem kristallinen Licht erscheinen. Die Kälte ist belebend für den ersten Spaziergang.  Mittags wärmt die tiefstehende Sonne die weißen Fassaden des Barrio de la Villa. Es ist die beste Zeit, um die Details der Architektur zu bewundern.  Am Nachmittag erreichen wir das Castillo. Die goldene Stunde beginnt im Winter früh und taucht die Festung in ein magisches Licht.  Zum Abend hin suchen wir die Wärme des Museums. Wenn die Sonne gegen 18:00 Uhr untergeht, genießen wir die letzten kulturellen Einblicke des Tages.",
             "hu": "A tiszta téli reggeli levegőben a Fuente del Rey kristályos fényben úszik. A hűvös idő frissítően hat az első sétánk során.  Délben az alacsonyan járó nap sugarai melengetik a Barrio de la Villa fehér homlokzatait. Ez a legjobb idő az építészeti részletek megfigyelésére.  Délután elérjük a várat. A téli 'aranyóra' korán kezdődik, és varázslatos fénybe vonja az erődítmény falait.  Este a múzeum melegébe húzódunk. Ahogy a nap 18:00 körül lenyugszik, mi az utolsó kulturális élményekkel gazdagodunk a nap végén.",
             "ro": "Aerul curat de iarnă face ca Fuente del Rey să apară într-o lumină cristalină dimineața. Frigul este revigorant pentru prima plimbare a zilei.  La prânz, soarele blând încălzește fațadele albe din Barrio de la Villa. Este momentul ideal pentru a admira detaliile arhitecturale sub lumina clară.  După-amiaza ajungem la Castillo. 'Ora de aur' începe devreme iarna, scăldând fortăreața într-o lumină magică și caldă.  Spre seară căutăm căldura muzeului. Pe măsură ce soarele apune în jurul orei 18:00, ne bucurăm de ultimele perspective culturale ale zilei.",
-            "en": "The crisp winter air makes the Fuente del Rey appear in a crystalline light this morning. The chill is refreshing for our first walk.  At noon, the low winter sun warms the white facades of the Barrio de la Villa. It is the best time to appreciate the architectural details.  In the afternoon, we reach the Castillo. The 'golden hour' starts early in winter, bathing the fortress walls in a magical, warm glow.  Towards evening, we seek the warmth of the museum. As the sun sets around 18:00, we enjoy the final cultural insights of the day indoors."
+            "en": "The crisp winter air makes the Fuente del Rey appear in a crystalline light this morning. The chill is refreshing for our first walk.  At noon, the low winter sun warms the white facades of the Barrio de la Villa. It is the best time to appreciate the architectural details.  In the afternoon, we reach the Castillo. The 'golden hour' starts early in winter, bathing the fortress walls in a magical, warm glow.  Towards evening, we seek the warmth of the museum. As the sun sets around 18:00, we enjoy the final cultural insights of the day indoors.",
+            "es": "El aire frío y nítido de invierno hace que la Fuente del Rey aparezca con una luz cristalina esta mañana. El frescor es revitalizante para nuestra primera caminata. Al mediodía, el sol bajo de invierno calienta las fachadas blancas del Barrio de la Villa; es el mejor momento para apreciar los detalles arquitectónicos. Por la tarde alcanzamos el Castillo. La 'hora dorada' empieza temprano en invierno, bañando los muros de la fortaleza con un resplandor cálido y mágico. Hacia la tarde-noche buscamos el calor del museo. Al ponerse el sol alrededor de las 18:00, disfrutamos de las últimas lecciones culturales del día en el interior."
           },
           "stops": [
             {
@@ -700,7 +762,8 @@
                 "de": "Morgens kann sich Reif auf den Bänken bilden; prüfen Sie den Platz vor dem Hinsetzen.",
                 "hu": "Reggelente dér lepheti be a padokat; ellenőrizze a felületet, mielőtt leülne.",
                 "ro": "Dimineața se poate depune brumă pe bănci; verificați suprafața înainte de a vă așeza.",
-                "en": "In the morning, frost may cover the benches; check the surface before sitting down."
+                "en": "In the morning, frost may cover the benches; check the surface before sitting down.",
+                "es": "Por la mañana, la escarcha puede cubrir los bancos; comprueba la superficie antes de sentarte."
               }
             },
             {
@@ -709,7 +772,8 @@
                 "de": "Das Wasser dampft oft leicht in der kalten Morgenluft, was fotogen aussieht.",
                 "hu": "A víz gyakran enyhén gőzölög a hideg reggeli levegőben, ami nagyon fotogén látvány.",
                 "ro": "Apa scoate adesea aburi ușori în aerul rece de dimineață, fiind foarte fotogenică.",
-                "en": "The water often steams slightly in the cold morning air, making for a great photo."
+                "en": "The water often steams slightly in the cold morning air, making for a great photo.",
+                "es": "El agua a menudo emite un ligero vapor en el frío matinal, lo que favorece una gran foto."
               }
             },
             {
@@ -718,7 +782,8 @@
                 "de": "Die schattigen Gassen sind kühler als die sonnigen Plätze; tragen Sie Schichten.",
                 "hu": "Az árnyékos szűk utcák jóval hűvösebbek, mint a napos terek; öltözzön rétegesen.",
                 "ro": "Străzile umbrite sunt mai reci decât piețele însorite; purtați haine în straturi.",
-                "en": "The shaded alleys are much cooler than the sunny squares; wear layers."
+                "en": "The shaded alleys are much cooler than the sunny squares; wear layers.",
+                "es": "Las callejuelas sombreadas son mucho más frescas que las plazas soleadas; viste en capas."
               }
             },
             {
@@ -727,7 +792,8 @@
                 "de": "Bester Ort für den frühen Sonnenuntergang gegen 18:00 Uhr mit Blick auf die Berge.",
                 "hu": "A legjobb hely a korai, 18:00 körüli naplemente megtekintéséhez a hegyek felett.",
                 "ro": "Cel mai bun loc pentru apusul devreme, în jur de ora 18:00, cu vedere spre munți.",
-                "en": "Best spot for the early sunset around 18:00 with views over the mountains."
+                "en": "Best spot for the early sunset around 18:00 with views over the mountains.",
+                "es": "Mejor sitio para el atardecer temprano alrededor de las 18:00 con vistas a la sierra."
               }
             },
             {
@@ -736,7 +802,8 @@
                 "de": "Die dicken Mauern speichern die Kälte; ein Schal ist auch im Inneren ratsam.",
                 "hu": "A vastag falak tartják a hideget; a belső térben is ajánlott a sál viselete.",
                 "ro": "Zidurile groase rețin frigul; se recomandă purtarea unui fular și în interior.",
-                "en": "The thick walls retain the cold; wearing a scarf inside is recommended."
+                "en": "The thick walls retain the cold; wearing a scarf inside is recommended.",
+                "es": "Los muros gruesos conservan el frío; se recomienda llevar pañuelo dentro."
               }
             },
             {
@@ -745,7 +812,8 @@
                 "de": "Windgeschützte Ecken in den Höfen nutzen, um die Wintersonne zu genießen.",
                 "hu": "Használja az udvarok szélvédett sarkait a téli napsütés élvezetéhez.",
                 "ro": "Folosiți colțurile ferite de vânt din curți pentru a vă bucura de soarele de iarnă.",
-                "en": "Use the wind-sheltered corners in the courtyards to enjoy the winter sun."
+                "en": "Use the wind-sheltered corners in the courtyards to enjoy the winter sun.",
+                "es": "Utiliza los rincones resguardados del viento en los patios para disfrutar del sol de invierno."
               }
             },
             {
@@ -754,7 +822,8 @@
                 "de": "Besuchen Sie diesen Ort zur Mittagszeit, wenn das Licht am steilsten einfällt.",
                 "hu": "Délidőben látogassa meg, amikor a fény a legmeredekebben esik be a csarnokba.",
                 "ro": "Vizitați acest loc la amiază, când lumina pătrunde cel mai direct în hală.",
-                "en": "Visit at midday when the light enters the hall at its steepest angle."
+                "en": "Visit at midday when the light enters the hall at its steepest angle.",
+                "es": "Visita al mediodía cuando la luz entra en el salón con mayor inclinación."
               }
             },
             {
@@ -763,7 +832,8 @@
                 "de": "Ein gut beheizter Ort, um den Nachmittag entspannt ausklingen zu lassen.",
                 "hu": "Jól fűtött helyszín, ahol kényelmesen fejezheti be a délutáni programot.",
                 "ro": "O locație bine încălzită, perfectă pentru a încheia relaxat după-amiaza.",
-                "en": "A well-heated venue, perfect for finishing your afternoon program comfortably."
+                "en": "A well-heated venue, perfect for finishing your afternoon program comfortably.",
+                "es": "Espacio bien calefactado, perfecto para terminar cómodamente la tarde."
               }
             }
           ],
@@ -791,6 +861,12 @@
               "Dress in layers: it's mild in the sun but can be quite chilly in the shade.",
               "Many cafes offer 'Chocolate con Churros' in winter – the perfect warming break.",
               "Visibility of the Sierras Subbéticas is at its best on clear winter days."
+            ],
+            "es": [
+              "El sol se pone sobre las 18:00 en invierno; programa tus actividades al aire libre antes de esa hora.",
+              "Vístete en capas: hace buen tiempo al sol pero puede refrescar mucho a la sombra.",
+              "Muchos cafés ofrecen 'Chocolate con churros' en invierno: la pausa perfecta para entrar en calor.",
+              "La visibilidad de las Sierras Subbéticas es mejor en días claros de invierno."
             ]
           }
         }
@@ -809,7 +885,8 @@
             "de": "Fuente del Rey",
             "hu": "Király-kút",
             "ro": "Fuente del Rey",
-            "en": "Fuente del Rey"
+            "en": "Fuente del Rey",
+            "es": "Fuente del Rey"
           },
           "coords": [
             -4.1952,
@@ -824,7 +901,8 @@
             "de": "Parken Sie Ihr Fahrrad am Eingang des Parks.",
             "hu": "Zárd le a biciklit a park bejáratánál.",
             "ro": "Parcați bicicleta la intrarea în parc.",
-            "en": "Park your bike at the park entrance."
+            "en": "Park your bike at the park entrance.",
+            "es": "Aparca la bici en la entrada del parque."
           }
         },
         {
@@ -832,7 +910,8 @@
             "de": "Fuente de la Salud",
             "hu": "Egészség-kút",
             "ro": "Fuente de la Salud",
-            "en": "Fuente de la Salud"
+            "en": "Fuente de la Salud",
+            "es": "Fuente de la Salud"
           },
           "coords": [
             -4.195,
@@ -847,7 +926,8 @@
             "de": "Ein kurzer Stopp für Fotos.",
             "hu": "Gyors megálló egy fotóra.",
             "ro": "O oprire scurtă pentru fotografii.",
-            "en": "A quick stop for photos."
+            "en": "A quick stop for photos.",
+            "es": "Parada rápida para fotos."
           }
         },
         {
@@ -855,7 +935,8 @@
             "de": "Barrio de la Villa",
             "hu": "Villa negyed",
             "ro": "Barrio de la Villa",
-            "en": "Barrio de la Villa"
+            "en": "Barrio de la Villa",
+            "es": "Barrio de la Villa"
           },
           "coords": [
             -4.192,
@@ -870,7 +951,8 @@
             "de": "Fahren Sie vorsichtig durch die engen Gassen.",
             "hu": "Óvatosan kerekezz a szűk utcákban.",
             "ro": "Mergeți cu atenție pe străzile înguste.",
-            "en": "Cycle carefully through the narrow streets."
+            "en": "Cycle carefully through the narrow streets.",
+            "es": "Circula con cuidado por las calles estrechas."
           }
         },
         {
@@ -878,7 +960,8 @@
             "de": "Balcón del Adarve",
             "hu": "Adarve erkély",
             "ro": "Balcón del Adarve",
-            "en": "Balcón del Adarve"
+            "en": "Balcón del Adarve",
+            "es": "Balcón del Adarve"
           },
           "coords": [
             -4.1915,
@@ -893,7 +976,8 @@
             "de": "Stellen Sie das Rad ab und genießen Sie die Aussicht.",
             "hu": "Tedd le a gépet és élvezd a kilátást.",
             "ro": "Lăsați bicicleta și bucurați-vă de vedere.",
-            "en": "Park the bike and enjoy the view."
+            "en": "Park the bike and enjoy the view.",
+            "es": "Aparca la bici y disfruta de la vista."
           }
         },
         {
@@ -901,7 +985,8 @@
             "de": "Iglesia de la Asunción",
             "hu": "Nagyboldogasszony templom",
             "ro": "Iglesia de la Asunción",
-            "en": "Iglesia de la Asunción"
+            "en": "Iglesia de la Asunción",
+            "es": "Iglesia de la Asunción"
           },
           "coords": [
             -4.1918,
@@ -916,7 +1001,8 @@
             "de": "Ein Muss für Barock-Liebhaber.",
             "hu": "A barokk rajongóinak kötelező.",
             "ro": "Obligatoriu pentru iubitorii de baroc.",
-            "en": "A must-see for Baroque lovers."
+            "en": "A must-see for Baroque lovers.",
+            "es": "Imprescindible para los amantes del barroco."
           }
         },
         {
@@ -924,7 +1010,8 @@
             "de": "Castillo de Priego",
             "hu": "Priego vára",
             "ro": "Castillo de Priego",
-            "en": "Castillo de Priego"
+            "en": "Castillo de Priego",
+            "es": "Castillo de Priego"
           },
           "coords": [
             -4.1925,
@@ -939,7 +1026,8 @@
             "de": "Die Burgmauern sind sehr fotogen.",
             "hu": "A várfalak nagyon fotogének.",
             "ro": "Zidurile castelului sunt foarte fotogenice.",
-            "en": "The castle walls are very photogenic."
+            "en": "The castle walls are very photogenic.",
+            "es": "Las murallas del castillo son muy fotogénicas."
           }
         },
         {
@@ -947,7 +1035,8 @@
             "de": "Carnicerías Reales",
             "hu": "Királyi Mészárszékek",
             "ro": "Carnicerías Reales",
-            "en": "Carnicerías Reales"
+            "en": "Carnicerías Reales",
+            "es": "Carnicerías Reales"
           },
           "coords": [
             -4.1912,
@@ -962,7 +1051,8 @@
             "de": "Einzigartiges Renaissance-Gebäude.",
             "hu": "Egyedülálló reneszánsz épület.",
             "ro": "Clădire renascentistă unică.",
-            "en": "Unique Renaissance building."
+            "en": "Unique Renaissance building.",
+            "es": "Edificio renacentista singular."
           }
         },
         {
@@ -970,7 +1060,8 @@
             "de": "Museo Histórico Municipal",
             "hu": "Városi Történeti Múzeum",
             "ro": "Muzeul Istoric Municipal",
-            "en": "Municipal Historical Museum"
+            "en": "Municipal Historical Museum",
+            "es": "Museo Histórico Municipal"
           },
           "coords": [
             -4.1935,
@@ -985,7 +1076,8 @@
             "de": "Kühler Ort an heißen Nachmittagen.",
             "hu": "Hűvös hely forró délutánokon.",
             "ro": "Loc răcoros în după-amiezele toride.",
-            "en": "Cool place on hot afternoons."
+            "en": "Cool place on hot afternoons.",
+            "es": "Lugar fresco en las tardes calurosas."
           }
         }
       ],
@@ -993,7 +1085,8 @@
         "de": "Erkunden Sie Priego mit dem Rad, von den majestätischen Brunnen bis zu den steilen Gassen der Altstadt.",
         "hu": "Fedezd fel Priegót két keréken, a fenséges szökőkutaktól az óváros meredek utcáiig.",
         "ro": "Explorați Priego cu bicicleta, de la fântânile majestuoase la străzile abrupte ale orașului vechi.",
-        "en": "Explore Priego by bike, from the majestic fountains to the steep alleys of the old town."
+        "en": "Explore Priego by bike, from the majestic fountains to the steep alleys of the old town.",
+        "es": "Explora Priego en bici, desde las majestuosas fuentes hasta las empinadas callejuelas del casco antiguo."
       },
       "gastro_picks": {
         "de": [
@@ -1093,6 +1186,10 @@
         "en": [
           "The old town has many cobblestone streets.",
           "Watch out for pedestrians in Barrio de la Villa."
+        ],
+        "es": [
+          "El casco antiguo tiene muchas calles empedradas.",
+          "Atento a los peatones en el Barrio de la Villa."
         ]
       },
       "variants": {
@@ -1101,7 +1198,8 @@
             "de": "Erkunden Sie Priego mit dem Rad, von den majestätischen Brunnen bis zu den steilen Gassen der Altstadt.",
             "hu": "Fedezd fel Priegót két keréken, a fenséges szökőkutaktól az óváros meredek utcáiig.",
             "ro": "Explorați Priego cu bicicleta, de la fântânile majestuoase la străzile abrupte ale orașului vechi.",
-            "en": "Explore Priego by bike, from the majestic fountains to the steep alleys of the old town."
+            "en": "Explore Priego by bike, from the majestic fountains to the steep alleys of the old town.",
+            "es": "Explora Priego en bici, desde las majestuosas fuentes hasta las empinadas callejuelas del casco antiguo."
           },
           "stops": [
             {
@@ -1109,13 +1207,15 @@
                 "de": "Fuente del Rey",
                 "hu": "Király-kút",
                 "ro": "Fuente del Rey",
-                "en": "Fuente del Rey"
+                "en": "Fuente del Rey",
+                "es": "Fuente del Rey"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Fahrrad am Eingang des Parks.",
                 "hu": "Zárd le a biciklit a park bejáratánál.",
                 "ro": "Parcați bicicleta la intrarea în parc.",
-                "en": "Park your bike at the park entrance."
+                "en": "Park your bike at the park entrance.",
+                "es": "Aparca la bici en la entrada del parque."
               }
             },
             {
@@ -1123,13 +1223,15 @@
                 "de": "Fuente de la Salud",
                 "hu": "Egészség-kút",
                 "ro": "Fuente de la Salud",
-                "en": "Fuente de la Salud"
+                "en": "Fuente de la Salud",
+                "es": "Fuente de la Salud"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp für Fotos.",
                 "hu": "Gyors megálló egy fotóra.",
                 "ro": "O oprire scurtă pentru fotografii.",
-                "en": "A quick stop for photos."
+                "en": "A quick stop for photos.",
+                "es": "Parada rápida para fotos."
               }
             },
             {
@@ -1137,13 +1239,15 @@
                 "de": "Barrio de la Villa",
                 "hu": "Villa negyed",
                 "ro": "Barrio de la Villa",
-                "en": "Barrio de la Villa"
+                "en": "Barrio de la Villa",
+                "es": "Barrio de la Villa"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig durch die engen Gassen.",
                 "hu": "Óvatosan kerekezz a szűk utcákban.",
                 "ro": "Mergeți cu atenție pe străzile înguste.",
-                "en": "Cycle carefully through the narrow streets."
+                "en": "Cycle carefully through the narrow streets.",
+                "es": "Circula con cuidado por las calles estrechas."
               }
             },
             {
@@ -1151,13 +1255,15 @@
                 "de": "Balcón del Adarve",
                 "hu": "Adarve erkély",
                 "ro": "Balcón del Adarve",
-                "en": "Balcón del Adarve"
+                "en": "Balcón del Adarve",
+                "es": "Balcón del Adarve"
               },
               "tip_5lang": {
                 "de": "Stellen Sie das Rad ab und genießen Sie die Aussicht.",
                 "hu": "Tedd le a gépet és élvezd a kilátást.",
                 "ro": "Lăsați bicicleta și bucurați-vă de vedere.",
-                "en": "Park the bike and enjoy the view."
+                "en": "Park the bike and enjoy the view.",
+                "es": "Aparca la bici y disfruta de la vista."
               }
             },
             {
@@ -1165,13 +1271,15 @@
                 "de": "Iglesia de la Asunción",
                 "hu": "Nagyboldogasszony templom",
                 "ro": "Iglesia de la Asunción",
-                "en": "Iglesia de la Asunción"
+                "en": "Iglesia de la Asunción",
+                "es": "Iglesia de la Asunción"
               },
               "tip_5lang": {
                 "de": "Ein Muss für Barock-Liebhaber.",
                 "hu": "A barokk rajongóinak kötelező.",
                 "ro": "Obligatoriu pentru iubitorii de baroc.",
-                "en": "A must-see for Baroque lovers."
+                "en": "A must-see for Baroque lovers.",
+                "es": "Imprescindible para los amantes del barroco."
               }
             },
             {
@@ -1179,13 +1287,15 @@
                 "de": "Castillo de Priego",
                 "hu": "Priego vára",
                 "ro": "Castillo de Priego",
-                "en": "Castillo de Priego"
+                "en": "Castillo de Priego",
+                "es": "Castillo de Priego"
               },
               "tip_5lang": {
                 "de": "Die Burgmauern sind sehr fotogen.",
                 "hu": "A várfalak nagyon fotogének.",
                 "ro": "Zidurile castelului sunt foarte fotogenice.",
-                "en": "The castle walls are very photogenic."
+                "en": "The castle walls are very photogenic.",
+                "es": "Las murallas del castillo son muy fotogénicas."
               }
             },
             {
@@ -1193,13 +1303,15 @@
                 "de": "Carnicerías Reales",
                 "hu": "Királyi Mészárszékek",
                 "ro": "Carnicerías Reales",
-                "en": "Carnicerías Reales"
+                "en": "Carnicerías Reales",
+                "es": "Carnicerías Reales"
               },
               "tip_5lang": {
                 "de": "Einzigartiges Renaissance-Gebäude.",
                 "hu": "Egyedülálló reneszánsz épület.",
                 "ro": "Clădire renascentistă unică.",
-                "en": "Unique Renaissance building."
+                "en": "Unique Renaissance building.",
+                "es": "Edificio renacentista singular."
               }
             },
             {
@@ -1207,13 +1319,15 @@
                 "de": "Museo Histórico Municipal",
                 "hu": "Városi Történeti Múzeum",
                 "ro": "Muzeul Istoric Municipal",
-                "en": "Municipal Historical Museum"
+                "en": "Municipal Historical Museum",
+                "es": "Museo Histórico Municipal"
               },
               "tip_5lang": {
                 "de": "Kühler Ort an heißen Nachmittagen.",
                 "hu": "Hűvös hely forró délutánokon.",
                 "ro": "Loc răcoros în după-amiezele toride.",
-                "en": "Cool place on hot afternoons."
+                "en": "Cool place on hot afternoons.",
+                "es": "Lugar fresco en las tardes calurosas."
               }
             }
           ],
@@ -1315,6 +1429,10 @@
             "en": [
               "The old town has many cobblestone streets.",
               "Watch out for pedestrians in Barrio de la Villa."
+            ],
+            "es": [
+              "El casco antiguo tiene muchas calles empedradas.",
+              "Atento a los peatones en el Barrio de la Villa."
             ]
           }
         },
@@ -1323,7 +1441,8 @@
             "de": "Eine erfrischende Fahrt durch das 'Wasserschloss' Andalusiens. Der Regen auf dem Asphalt glänzt, während wir zügig zwischen den Monumenten wechseln.  Mittags stellen wir die Räder sicher unter und genießen die Stille in der großen Kirche. Die Feuchtigkeit draußen lässt die Farben der Stadt intensiver wirken.  Der Nachmittag führt uns zum Castillo. Die Fahrt erfordert Konzentration auf den nassen Wegen, belohnt aber mit einsamen Ausblicken vom Adarve.  Wir beenden die Tour am Museum. Nach der körperlichen Aktivität im Regen tut die trockene, ruhige Atmosphäre der Ausstellungen besonders gut.",
             "hu": "Frissítő tekerés Andalúzia 'vízivárosában'. Az eső csillog az aszfalton, miközben tempósan haladunk az emlékművek között.  Délben biztonságba helyezzük a kerékpárokat, és élvezzük a csendet a főtemplomban. A kinti pára miatt a város színei még élénkebbnek tűnnek.  Délután a várhoz tekerünk. Az út fokozott figyelmet igényel a nedves köveken, de a Balcón del Adarve magányos kilátása kárpótol mindenért.  A túrát a múzeumnál zárjuk. Az esős tekerés után különösen jól esik a kiállítótermek száraz, nyugodt környezete.",
             "ro": "O plimbare revigorantă prin 'orașul apei' din Andaluzia. Ploaia strălucește pe asfalt în timp ce ne deplasăm rapid între monumente.  La prânz lăsăm bicicletele la adăpost și ne bucurăm de liniștea din marea biserică. Umezeala de afară face culorile orașului să pară mai intense.  După-amiaza ne îndreptăm spre Castillo. Drumul necesită concentrare pe pavajul ud, dar vederea solitară de pe Adarve merită efortul.  Încheiem turul la muzeu. După activitatea fizică prin ploaie, atmosfera uscată și liniștită a expozițiilor este binevenită.",
-            "en": "A refreshing ride through Andalusia's 'City of Water'. The rain glistens on the asphalt as we move swiftly between the monuments.  At noon, we park the bikes securely and enjoy the silence in the main church. The dampness outside makes the city's colors appear more vivid.  The afternoon takes us to the Castillo. The ride requires concentration on the wet paths, but the solitary views from the Adarve are rewarding.  We finish the tour at the museum. After the physical activity in the rain, the dry and quiet atmosphere of the exhibitions feels especially good."
+            "en": "A refreshing ride through Andalusia's 'City of Water'. The rain glistens on the asphalt as we move swiftly between the monuments.  At noon, we park the bikes securely and enjoy the silence in the main church. The dampness outside makes the city's colors appear more vivid.  The afternoon takes us to the Castillo. The ride requires concentration on the wet paths, but the solitary views from the Adarve are rewarding.  We finish the tour at the museum. After the physical activity in the rain, the dry and quiet atmosphere of the exhibitions feels especially good.",
+            "es": "Paseo refrescante por la 'Ciudad del Agua' andaluza. La lluvia brilla en el asfalto mientras nos desplazamos con rapidez entre los monumentos. Al mediodía, aparcamos las bicis de forma segura y disfrutamos del silencio en la iglesia principal. La humedad exterior hace que los colores de la ciudad se vean más vivos. Por la tarde subimos al Castillo. La ruta exige concentración en los senderos mojados, pero las vistas solitarias desde el Adarve compensan. Terminamos la ruta en el museo. Tras la actividad bajo la lluvia, la atmósfera seca y silenciosa de las exposiciones resulta especialmente reconfortante."
           },
           "stops": [
             {
@@ -1332,7 +1451,8 @@
                 "de": "Vorsicht beim Absteigen; der Boden rund um die Brunnen ist glatt.",
                 "hu": "Vigyázat a leszálláskor; a szökőkutak körüli burkolat csúszós.",
                 "ro": "Atenție la descălecare; solul din jurul fântânilor este alunecos.",
-                "en": "Careful when dismounting; the ground around the fountains is slick."
+                "en": "Careful when dismounting; the ground around the fountains is slick.",
+                "es": "Cuidado al desmontar; el suelo alrededor de las fuentes está resbaladizo."
               }
             },
             {
@@ -1341,7 +1461,8 @@
                 "de": "Kurzer Stopp; halten Sie das Rad fest, da der Untergrund uneben ist.",
                 "hu": "Rövid megálló; tartsa erősen a kormányt az egyenetlen talajon.",
                 "ro": "Oprire scurtă; țineți bine bicicleta, deoarece suprafața este neregulată.",
-                "en": "Short stop; hold your bike firmly as the ground is uneven."
+                "en": "Short stop; hold your bike firmly as the ground is uneven.",
+                "es": "Parada corta; sujeta bien la bici porque el suelo es irregular."
               }
             },
             {
@@ -1350,7 +1471,8 @@
                 "de": "Besser schieben: Die engen, nassen Gassen sind riskant zum Fahren.",
                 "hu": "Inkább tolja a biciklit: a szűk, nedves utcák veszélyesek a tekeréshez.",
                 "ro": "Mai bine împingeți bicicleta: străzile înguste și ude sunt riscante.",
-                "en": "Better to push your bike: the narrow, wet streets are risky for riding."
+                "en": "Better to push your bike: the narrow, wet streets are risky for riding.",
+                "es": "Mejor empujar la bici: las calles estrechas y húmedas son arriesgadas para circular."
               }
             },
             {
@@ -1359,7 +1481,8 @@
                 "de": "Anlehnen der Räder am Geländer nur bei festem Stand erlaubt.",
                 "hu": "A kerékpárok korláthoz támasztása csak stabil talajon javasolt.",
                 "ro": "Sprijinirea bicicletelor de balustradă se face doar pe o suprafață stabilă.",
-                "en": "Leaning bikes against the railing is only advised on stable ground."
+                "en": "Leaning bikes against the railing is only advised on stable ground.",
+                "es": "Apoyar las bicis en la barandilla solo se aconseja si el suelo es estable."
               }
             },
             {
@@ -1368,7 +1491,8 @@
                 "de": "Parken Sie unter dem Vordach, um den Sattel trocken zu halten.",
                 "hu": "Parkoljon az előtető alatt, hogy a nyereg száraz maradjon.",
                 "ro": "Parcați sub streșină pentru a păstra șaua uscată.",
-                "en": "Park under the overhang to keep the saddle dry."
+                "en": "Park under the overhang to keep the saddle dry.",
+                "es": "Aparca bajo el alero para mantener el sillín seco."
               }
             },
             {
@@ -1377,7 +1501,8 @@
                 "de": "Der Anstieg ist bei Nässe anstrengender; schalten Sie frühzeitig runter.",
                 "hu": "Az emelkedő esőben fárasztóbb; váltson időben kisebb fokozatra.",
                 "ro": "Urcarea este mai grea pe ploaie; schimbați viteza din timp.",
-                "en": "The climb is tougher in the rain; downshift early."
+                "en": "The climb is tougher in the rain; downshift early.",
+                "es": "La subida es más dura con lluvia; reduce marchas pronto."
               }
             },
             {
@@ -1386,7 +1511,8 @@
                 "de": "Guter Ort, um die Kette kurz vor dem Regen zu schützen.",
                 "hu": "Jó helyszín, hogy rövid időre megvédje a láncot az esőtől.",
                 "ro": "Loc bun pentru a proteja scurt timp lanțul de ploaie.",
-                "en": "Good spot to briefly protect the chain from the rain."
+                "en": "Good spot to briefly protect the chain from the rain.",
+                "es": "Buen sitio para proteger brevemente la cadena de la lluvia."
               }
             },
             {
@@ -1395,7 +1521,8 @@
                 "de": "Stellen Sie die Räder nah am Eingang ab und nutzen Sie die Schließfächer.",
                 "hu": "Hagyja a bicikliket a bejárat közelében, és használja az értékmegőrzőt.",
                 "ro": "Lăsați bicicletele aproape de intrare și folosiți vestiarele.",
-                "en": "Leave the bikes near the entrance and use the lockers for your gear."
+                "en": "Leave the bikes near the entrance and use the lockers for your gear.",
+                "es": "Deja las bicis cerca de la entrada y usa las taquillas para tu equipo."
               }
             }
           ],
@@ -1423,6 +1550,12 @@
               "Wear waterproof cycling trousers to protect against spray from the tires.",
               "Avoid sudden steering movements on the slippery cobblestones.",
               "A mudguard (even a clip-on one) is worth its weight in gold in this weather."
+            ],
+            "es": [
+              "Revisa los frenos; los frenos de llanta responden más despacio en mojado.",
+              "Lleva pantalones de ciclismo impermeables para protegerte del spray de las ruedas.",
+              "Evita movimientos bruscos de dirección sobre los adoquines resbaladizos.",
+              "Un guardabarros (aunque sea desmontable) vale su peso en oro con este tiempo."
             ]
           }
         },
@@ -1431,7 +1564,8 @@
             "de": "Ein zügiger Start in den kühlen Morgen. Die Fahrt zur Fuente del Rey weckt die Lebensgeister, während die Stadt langsam erwacht.  Mittags genießen wir das milde Sonnenlicht auf dem Rad. Die weißen Häuser reflektieren die Wärme, was das Fahren im Zentrum sehr angenehm macht.  Der Nachmittag führt uns hinauf zum Castillo. Die Anstrengung hält uns warm, und die Aussicht auf die schneebedeckten Gipfel der Ferne ist fantastisch.  Wir lassen den Tag im Museum ausklingen. Die Räder sind sicher geparkt, und wir genießen die Wärme im Inneren, bevor es in der Dämmerung nach Hause geht.",
             "hu": "Tempós kezdés a hűvös reggelen. A Fuente del Rey felé tartó tekerés felébreszti az embert, miközben a város lassan magához tér.  Délben a kerékpáron élvezzük a lágy napsütést. A fehér házak visszaverik a hőt, ami nagyon kellemessé teszi a központban való haladást.  Délután feltekerünk a várhoz. A mozgás melegen tart minket, a távoli, havas hegycsúcsok látványa pedig egyszerűen fantasztikus.  A napot a múzeumban zárjuk. A kerékpárok biztonságban pihennek, mi pedig élvezzük a benti meleget, mielőtt sötétedéskor elindulnánk.",
             "ro": "Un start rapid în dimineața răcoroasă. Drumul spre Fuente del Rey ne trezește simțurile în timp ce orașul se trezește la viață.  La prânz ne bucurăm de soarele blând de pe bicicletă. Casele albe reflectă căldura, făcând deplasarea prin centru foarte plăcută.  După-amiaza urcăm spre Castillo. Efortul ne menține calzi, iar vederea spre vârfurile înzăpezite din depărtare este fantastică.  Încheiem ziua la muzeu. Bicicletele sunt parcate în siguranță, iar noi ne bucurăm de căldura din interior înainte de lăsarea serii.",
-            "en": "A brisk start to the cool morning. The ride to Fuente del Rey wakes you up while the city slowly comes to life.  At noon, we enjoy the mild sunlight on our bikes. The white houses reflect the warmth, making riding through the center very pleasant.  In the afternoon, we pedal up to the Castillo. The exertion keeps us warm, and the view of the distant snowy peaks is fantastic.  We finish the day at the museum. The bikes are parked safely, and we enjoy the indoor warmth before heading back at dusk."
+            "en": "A brisk start to the cool morning. The ride to Fuente del Rey wakes you up while the city slowly comes to life.  At noon, we enjoy the mild sunlight on our bikes. The white houses reflect the warmth, making riding through the center very pleasant.  In the afternoon, we pedal up to the Castillo. The exertion keeps us warm, and the view of the distant snowy peaks is fantastic.  We finish the day at the museum. The bikes are parked safely, and we enjoy the indoor warmth before heading back at dusk.",
+            "es": "Inicio enérgico de la fresca mañana. El trayecto hasta la Fuente del Rey te despierta mientras la ciudad comienza a cobrar vida. Al mediodía disfrutamos de la suave luz sobre las bicis. Las casas blancas reflejan el calor, haciendo muy agradable atravesar el centro. Por la tarde pedaleamos hasta el Castillo. El esfuerzo nos mantiene calientes y la vista de las cumbres nevadas a lo lejos es fantástica. Terminamos el día en el museo. Las bicis quedan aparcadas con seguridad y disfrutamos del calor interior antes de volver al anochecer."
           },
           "stops": [
             {
@@ -1440,7 +1574,8 @@
                 "de": "Tragen Sie warme Handschuhe, da der Fahrtwind hier besonders kühl ist.",
                 "hu": "Viseljen meleg kesztyűt, mert a menetszél itt különösen hűvös lehet.",
                 "ro": "Purtați mănuși calde, deoarece vântul din timpul mersului este tăios aici.",
-                "en": "Wear warm gloves, as the wind chill while riding is particularly noticeable here."
+                "en": "Wear warm gloves, as the wind chill while riding is particularly noticeable here.",
+                "es": "Lleva guantes cálidos; el viento aumenta la sensación térmica al pedalear."
               }
             },
             {
@@ -1449,7 +1584,8 @@
                 "de": "Schattenplatz beim Abstellen; lassen Sie die Muskeln nicht zu sehr abkühlen.",
                 "hu": "Árnyékos parkolóhely; ne hagyja, hogy izmai túlságosan lehűljenek.",
                 "ro": "Loc de parcare umbrit; nu lăsați mușchii să se răcească prea tare.",
-                "en": "Shaded parking spot; don't let your muscles cool down too much."
+                "en": "Shaded parking spot; don't let your muscles cool down too much.",
+                "es": "Plaza de aparcamiento sombreada; no dejes que los músculos se enfríen demasiado."
               }
             },
             {
@@ -1458,7 +1594,8 @@
                 "de": "In den schmalen Gassen ist es oft spürbar kälter als auf den Plätzen.",
                 "hu": "A szűk utcákban gyakran érezhetően hidegebb van, mint a nyitott tereken.",
                 "ro": "În străzile înguste este adesea mult mai frig decât în piețele deschise.",
-                "en": "It's often noticeably colder in the narrow alleys than in the open squares."
+                "en": "It's often noticeably colder in the narrow alleys than in the open squares.",
+                "es": "Suele hacer notablemente más frío en las callejuelas estrechas que en las plazas abiertas."
               }
             },
             {
@@ -1467,7 +1604,8 @@
                 "de": "Genießen Sie den Windschutz der Mauern für eine kurze Trinkpause.",
                 "hu": "Használja ki a falak szélvédelmét egy rövid frissítő szünetre.",
                 "ro": "Profită de protecția contra vântului oferită de ziduri pentru o scurtă pauză.",
-                "en": "Take advantage of the walls' wind protection for a quick drink break."
+                "en": "Take advantage of the walls' wind protection for a quick drink break.",
+                "es": "Aprovecha la protección que ofrecen los muros contra el viento para una bebida rápida."
               }
             },
             {
@@ -1476,7 +1614,8 @@
                 "de": "Ein kurzes Aufwärmen im Vorraum hilft gegen die Kälte.",
                 "hu": "Egy rövid bemelegedés az előtérben segít a hideg ellen.",
                 "ro": "O scurtă încălzire în holul de la intrare ajută împotriva frigului.",
-                "en": "A quick warm-up in the vestibule helps against the cold."
+                "en": "A quick warm-up in the vestibule helps against the cold.",
+                "es": "Un breve calentamiento en el vestíbulo ayuda contra el frío."
               }
             },
             {
@@ -1485,7 +1624,8 @@
                 "de": "Vorsicht bei der Abfahrt; kalte Hände bremsen weniger präzise.",
                 "hu": "Vigyázat a lejtőn; a megfagyott ujjak kevésbé precízen fékeznek.",
                 "ro": "Atenție la coborâre; mâinile reci frânează mai puțin precis.",
-                "en": "Careful on the descent; cold fingers brake less precisely."
+                "en": "Careful on the descent; cold fingers brake less precisely.",
+                "es": "Precaución en el descenso; los dedos fríos frenan con menos precisión."
               }
             },
             {
@@ -1494,7 +1634,8 @@
                 "de": "Das Steingebäude wirkt im Winter oft wie ein natürlicher Kühlschrank.",
                 "hu": "A kőépület télen gyakran úgy működik, mint egy természetes hűtő.",
                 "ro": "Clădirea de piatră funcționează iarna adesea ca un frigider natural.",
-                "en": "The stone building often acts like a natural refrigerator in winter."
+                "en": "The stone building often acts like a natural refrigerator in winter.",
+                "es": "El edificio de piedra suele actuar como una nevera natural en invierno."
               }
             },
             {
@@ -1503,7 +1644,8 @@
                 "de": "Der perfekte Ort, um die Kälte der Dämmerung zu überspringen.",
                 "hu": "Tökéletes helyszín, hogy elkerülje a szürkületi hirtelen lehűlést.",
                 "ro": "Locul perfect pentru a evita răcirea bruscă de la lăsarea serii.",
-                "en": "The perfect place to skip the sudden temperature drop at dusk."
+                "en": "The perfect place to skip the sudden temperature drop at dusk.",
+                "es": "Lugar perfecto para evitar la caída brusca de temperatura al anochecer."
               }
             }
           ],
@@ -1531,6 +1673,12 @@
               "Wear a windproof vest or jacket for the shaded sections of the route.",
               "Keep breaks short to avoid getting chilled, or seek out heated spots.",
               "Check your tire pressure; cold air often leads to a slight drop in pressure."
+            ],
+            "es": [
+              "Usa luces brillantes en la bici, ya que anochece pronto en invierno.",
+              "Lleva chaleco o chaqueta cortavientos para los tramos sombreados de la ruta.",
+              "Mantén las pausas cortas para no enfriarte, o busca lugares con calefacción.",
+              "Revisa la presión de las ruedas; el aire frío suele reducirla ligeramente."
             ]
           }
         }
@@ -1549,7 +1697,8 @@
             "de": "Fuente del Rey",
             "hu": "Király-kút",
             "ro": "Fuente del Rey",
-            "en": "Fuente del Rey"
+            "en": "Fuente del Rey",
+            "es": "Fuente del Rey"
           },
           "coords": [
             -4.1952,
@@ -1564,7 +1713,8 @@
             "de": "Parkplatz direkt in der Nähe.",
             "hu": "Parkoló közvetlenül a közelben.",
             "ro": "Parcare chiar în apropiere.",
-            "en": "Parking located right nearby."
+            "en": "Parking located right nearby.",
+            "es": "Aparcamiento situado justo al lado."
           }
         },
         {
@@ -1572,7 +1722,8 @@
             "de": "Barrio de la Villa",
             "hu": "Villa negyed",
             "ro": "Barrio de la Villa",
-            "en": "Barrio de la Villa"
+            "en": "Barrio de la Villa",
+            "es": "Barrio de la Villa"
           },
           "coords": [
             -4.192,
@@ -1587,7 +1738,8 @@
             "de": "Parken Sie außerhalb der Mauern.",
             "hu": "Parkolj a falakon kívül.",
             "ro": "Parcați în afara zidurilor.",
-            "en": "Park outside the walls."
+            "en": "Park outside the walls.",
+            "es": "Aparca fuera de las murallas."
           }
         },
         {
@@ -1595,7 +1747,8 @@
             "de": "Iglesia de la Asunción",
             "hu": "Nagyboldogasszony templom",
             "ro": "Iglesia de la Asunción",
-            "en": "Iglesia de la Asunción"
+            "en": "Iglesia de la Asunción",
+            "es": "Iglesia de la Asunción"
           },
           "coords": [
             -4.1918,
@@ -1610,7 +1763,8 @@
             "de": "Beeindruckende Barockkapelle.",
             "hu": "Lenyűgöző barokk kápolna.",
             "ro": "Capelă barocă impresionantă.",
-            "en": "Impressive Baroque chapel."
+            "en": "Impressive Baroque chapel.",
+            "es": "Impresionante capilla barroca."
           }
         },
         {
@@ -1618,7 +1772,8 @@
             "de": "Castillo de Priego",
             "hu": "Priego vára",
             "ro": "Castillo de Priego",
-            "en": "Castillo de Priego"
+            "en": "Castillo de Priego",
+            "es": "Castillo de Priego"
           },
           "coords": [
             -4.1925,
@@ -1633,7 +1788,8 @@
             "de": "Einfacher Zugang vom Zentrum.",
             "hu": "Könnyen elérhető a központból.",
             "ro": "Acces ușor din centru.",
-            "en": "Easy access from the center."
+            "en": "Easy access from the center.",
+            "es": "Acceso fácil desde el centro."
           }
         },
         {
@@ -1641,7 +1797,8 @@
             "de": "Carnicerías Reales",
             "hu": "Királyi Mészárszékek",
             "ro": "Carnicerías Reales",
-            "en": "Carnicerías Reales"
+            "en": "Carnicerías Reales",
+            "es": "Carnicerías Reales"
           },
           "coords": [
             -4.1912,
@@ -1656,7 +1813,8 @@
             "de": "Historisches Gebäude.",
             "hu": "Történelmi épület.",
             "ro": "Clădire istorică.",
-            "en": "Historical building."
+            "en": "Historical building.",
+            "es": "Edificio histórico."
           }
         },
         {
@@ -1664,7 +1822,8 @@
             "de": "Ermita del Calvario",
             "hu": "Kálvária kápolna",
             "ro": "Ermita del Calvario",
-            "en": "Ermita del Calvario"
+            "en": "Ermita del Calvario",
+            "es": "Ermita del Calvario"
           },
           "coords": [
             -4.185,
@@ -1679,7 +1838,8 @@
             "de": "Fantastische Aussicht auf die Stadt von oben.",
             "hu": "Fantasztikus kilátás a városra fentről.",
             "ro": "Vedere fantastică asupra orașului de sus.",
-            "en": "Fantastic view of the town from above."
+            "en": "Fantastic view of the town from above.",
+            "es": "Vista fantástica del pueblo desde lo alto."
           }
         },
         {
@@ -1687,7 +1847,8 @@
             "de": "Museo Histórico Municipal",
             "hu": "Városi Történeti Múzeum",
             "ro": "Muzeul Istoric Municipal",
-            "en": "Municipal Historical Museum"
+            "en": "Municipal Historical Museum",
+            "es": "Museo Histórico Municipal"
           },
           "coords": [
             -4.1935,
@@ -1702,7 +1863,8 @@
             "de": "Zentral gelegen.",
             "hu": "Központi fekvésű.",
             "ro": "Situat central.",
-            "en": "Centrally located."
+            "en": "Centrally located.",
+            "es": "Ubicación céntrica."
           }
         }
       ],
@@ -1710,7 +1872,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die Brunnen und können sogar zum Calvario-Hügel für die beste Aussicht fahren.",
         "hu": "Autóval kényelmesen elérheted a szökőkutakat, és felhajthatsz a Kálvária-dombra a legjobb kilátásért.",
         "ro": "Cu mașina puteți ajunge ușor la fântâni și puteți conduce chiar până la dealul Calvario pentru cea mai bună vedere.",
-        "en": "By car, you can easily reach the fountains and even drive up to Calvario hill for the best views."
+        "en": "By car, you can easily reach the fountains and even drive up to Calvario hill for the best views.",
+        "es": "En coche se puede llegar fácilmente a las fuentes e incluso subir hasta el cerro del Calvario para las mejores vistas."
       },
       "gastro_picks": {
         "de": [
@@ -1810,6 +1973,10 @@
         "en": [
           "Park in the large parking lot by Fuente del Rey.",
           "The streets in the Villa area are too narrow for cars."
+        ],
+        "es": [
+          "Aparca en el amplio estacionamiento junto a la Fuente del Rey.",
+          "Las calles del Barrio de la Villa son demasiado estrechas para coches."
         ]
       },
       "variants": {
@@ -1818,7 +1985,8 @@
             "de": "Mit dem Auto erreichen Sie bequem die Brunnen und können sogar zum Calvario-Hügel für die beste Aussicht fahren.",
             "hu": "Autóval kényelmesen elérheted a szökőkutakat, és felhajthatsz a Kálvária-dombra a legjobb kilátásért.",
             "ro": "Cu mașina puteți ajunge ușor la fântâni și puteți conduce chiar până la dealul Calvario pentru cea mai bună vedere.",
-            "en": "By car, you can easily reach the fountains and even drive up to Calvario hill for the best views."
+            "en": "By car, you can easily reach the fountains and even drive up to Calvario hill for the best views.",
+            "es": "En coche se puede llegar fácilmente a las fuentes e incluso subir hasta el cerro del Calvario para las mejores vistas."
           },
           "stops": [
             {
@@ -1826,13 +1994,15 @@
                 "de": "Fuente del Rey",
                 "hu": "Király-kút",
                 "ro": "Fuente del Rey",
-                "en": "Fuente del Rey"
+                "en": "Fuente del Rey",
+                "es": "Fuente del Rey"
               },
               "tip_5lang": {
                 "de": "Parkplatz direkt in der Nähe.",
                 "hu": "Parkoló közvetlenül a közelben.",
                 "ro": "Parcare chiar în apropiere.",
-                "en": "Parking located right nearby."
+                "en": "Parking located right nearby.",
+                "es": "Aparcamiento situado justo al lado."
               }
             },
             {
@@ -1840,13 +2010,15 @@
                 "de": "Barrio de la Villa",
                 "hu": "Villa negyed",
                 "ro": "Barrio de la Villa",
-                "en": "Barrio de la Villa"
+                "en": "Barrio de la Villa",
+                "es": "Barrio de la Villa"
               },
               "tip_5lang": {
                 "de": "Parken Sie außerhalb der Mauern.",
                 "hu": "Parkolj a falakon kívül.",
                 "ro": "Parcați în afara zidurilor.",
-                "en": "Park outside the walls."
+                "en": "Park outside the walls.",
+                "es": "Aparca fuera de las murallas."
               }
             },
             {
@@ -1854,13 +2026,15 @@
                 "de": "Iglesia de la Asunción",
                 "hu": "Nagyboldogasszony templom",
                 "ro": "Iglesia de la Asunción",
-                "en": "Iglesia de la Asunción"
+                "en": "Iglesia de la Asunción",
+                "es": "Iglesia de la Asunción"
               },
               "tip_5lang": {
                 "de": "Beeindruckende Barockkapelle.",
                 "hu": "Lenyűgöző barokk kápolna.",
                 "ro": "Capelă barocă impresionantă.",
-                "en": "Impressive Baroque chapel."
+                "en": "Impressive Baroque chapel.",
+                "es": "Impresionante capilla barroca."
               }
             },
             {
@@ -1868,13 +2042,15 @@
                 "de": "Castillo de Priego",
                 "hu": "Priego vára",
                 "ro": "Castillo de Priego",
-                "en": "Castillo de Priego"
+                "en": "Castillo de Priego",
+                "es": "Castillo de Priego"
               },
               "tip_5lang": {
                 "de": "Einfacher Zugang vom Zentrum.",
                 "hu": "Könnyen elérhető a központból.",
                 "ro": "Acces ușor din centru.",
-                "en": "Easy access from the center."
+                "en": "Easy access from the center.",
+                "es": "Fácil acceso desde el centro."
               }
             },
             {
@@ -1882,13 +2058,15 @@
                 "de": "Carnicerías Reales",
                 "hu": "Királyi Mészárszékek",
                 "ro": "Carnicerías Reales",
-                "en": "Carnicerías Reales"
+                "en": "Carnicerías Reales",
+                "es": "Carnicerías Reales"
               },
               "tip_5lang": {
                 "de": "Historisches Gebäude.",
                 "hu": "Történelmi épület.",
                 "ro": "Clădire istorică.",
-                "en": "Historical building."
+                "en": "Historical building.",
+                "es": "Edificio histórico."
               }
             },
             {
@@ -1896,13 +2074,15 @@
                 "de": "Ermita del Calvario",
                 "hu": "Kálvária kápolna",
                 "ro": "Ermita del Calvario",
-                "en": "Ermita del Calvario"
+                "en": "Ermita del Calvario",
+                "es": "Ermita del Calvario"
               },
               "tip_5lang": {
                 "de": "Fantastische Aussicht auf die Stadt von oben.",
                 "hu": "Fantasztikus kilátás a városra fentről.",
                 "ro": "Vedere fantastică asupra orașului de sus.",
-                "en": "Fantastic view of the town from above."
+                "en": "Fantastic view of the town from above.",
+                "es": "Vista fantástica del pueblo desde lo alto."
               }
             },
             {
@@ -1910,13 +2090,15 @@
                 "de": "Museo Histórico Municipal",
                 "hu": "Városi Történeti Múzeum",
                 "ro": "Muzeul Istoric Municipal",
-                "en": "Municipal Historical Museum"
+                "en": "Municipal Historical Museum",
+                "es": "Museo Histórico Municipal"
               },
               "tip_5lang": {
                 "de": "Zentral gelegen.",
                 "hu": "Központi fekvésű.",
                 "ro": "Situat central.",
-                "en": "Centrally located."
+                "en": "Centrally located.",
+                "es": "Ubicación céntrica."
               }
             }
           ],
@@ -2018,6 +2200,10 @@
             "en": [
               "Park in the large parking lot by Fuente del Rey.",
               "The streets in the Villa area are too narrow for cars."
+            ],
+            "es": [
+              "Aparca en el amplio estacionamiento junto a la Fuente del Rey.",
+              "Las calles del Barrio de la Villa son demasiado estrechas para coches."
             ]
           }
         },
@@ -2026,7 +2212,8 @@
             "de": "Eine entspannte Fahrt durch das verregnete Priego. Wir starten an den Brunnen und genießen den Komfort des warmen Autos zwischen den Stationen.  Mittags parken wir nah am Zentrum und erkunden das Barrio de la Villa zu Fuß unter dem Schutz unserer Schirme. Die nassen Fassaden glänzen silbrig.  Am Nachmittag fahren wir hinauf zur Ermita del Calvario. Die Wolken hängen tief über den Olivenhainen und schaffen eine dramatische Kulisse.  Den Tag schließen wir im Museum ab. Das Auto wartet auf dem nahen Parkplatz, während wir im Trockenen die Geschichte der Region entdecken.",
             "hu": "Kényelmes autózás az esős Priegóban. A szökőkutaknál kezdünk, és élvezzük a meleg autó adta komfortot az egyes állomások között.  Délben a központ közelében parkolunk, és esernyőkkel felszerelkezve fedezzük fel a Barrio de la Villát. A vizes homlokzatok ezüstösen csillognak.  Délután felautózunk az Ermita del Calvario kápolnához. A felhők alacsonyan szállnak az olajfaligetek felett, drámai hátteret biztosítva.  A napot a múzeumban zárjuk. Az autó a közeli parkolóban vár, miközben mi szárazon ismerkedünk a régió történelmével.",
             "ro": "O plimbare relaxată cu mașina prin Priego cel ploios. Începem la fântâni și ne bucurăm de confortul mașinii calde între stații.  La prânz parcăm aproape de centru și explorăm Barrio de la Villa pe jos, protejați de umbrele. Fațadele ude strălucesc argintiu.  După-amiaza urcăm cu mașina la Ermita del Calvario. Norii plutesc jos deasupra livezilor de măslini, creând un peisaj dramatic.  Încheiem ziua la muzeu. Mașina așteaptă în parcarea din apropiere, în timp ce noi descoperim istoria regiunii la adăpost.",
-            "en": "A relaxed drive through rainy Priego. We start at the fountains and enjoy the comfort of the warm car between the stops.  At noon, we park near the center and explore the Barrio de la Villa on foot under the protection of our umbrellas. The wet facades shimmer.  In the afternoon, we drive up to the Ermita del Calvario. The clouds hang low over the olive groves, creating a dramatic backdrop.  We conclude the day at the museum. The car waits in the nearby parking lot while we discover the region's history in the dry."
+            "en": "A relaxed drive through rainy Priego. We start at the fountains and enjoy the comfort of the warm car between the stops.  At noon, we park near the center and explore the Barrio de la Villa on foot under the protection of our umbrellas. The wet facades shimmer.  In the afternoon, we drive up to the Ermita del Calvario. The clouds hang low over the olive groves, creating a dramatic backdrop.  We conclude the day at the museum. The car waits in the nearby parking lot while we discover the region's history in the dry.",
+            "es": "Un recorrido tranquilo en coche por el lluvioso Priego. Empezamos en las fuentes y disfrutamos del confort del coche entre las paradas. Al mediodía aparcamos cerca del centro y exploramos el Barrio de la Villa a pie bajo la protección de los paraguas. Las fachadas húmedas brillan. Por la tarde subimos en coche a la Ermita del Calvario. Las nubes cuelgan sobre los olivares, creando un fondo dramático. Concluimos el día en el museo. El coche espera en el aparcamiento cercano mientras descubrimos la historia de la región a cubierto."
           },
           "stops": [
             {
@@ -2035,7 +2222,8 @@
                 "de": "Parken Sie am Straßenrand; achten Sie auf Pfützen beim Aussteigen.",
                 "hu": "Parkoljon az út szélén; vigyázzon a tócsákra a kiszálláskor.",
                 "ro": "Parcați pe marginea drumului; atenție la bălți când coborâți din mașină.",
-                "en": "Park by the roadside; watch out for puddles when getting out of the car."
+                "en": "Park by the roadside; watch out for puddles when getting out of the car.",
+                "es": "Aparca en la cuneta; cuidado con los charcos al salir del coche."
               }
             },
             {
@@ -2044,7 +2232,8 @@
                 "de": "Nutzen Sie das Parkhaus 'La Paz', um trocken ins Zentrum zu gelangen.",
                 "hu": "Használja a 'La Paz' parkolóházat, hogy szárazon jusson a központba.",
                 "ro": "Folosiți parcarea subterană 'La Paz' pentru a ajunge uscat în centru.",
-                "en": "Use the 'La Paz' parking garage to reach the center while staying dry."
+                "en": "Use the 'La Paz' parking garage to reach the center while staying dry.",
+                "es": "Usa el parking 'La Paz' para llegar al centro manteniéndote seco."
               }
             },
             {
@@ -2053,7 +2242,8 @@
                 "de": "Kurze Wege vom Parkplatz zur Kirche minimieren den Kontakt mit dem Regen.",
                 "hu": "A parkolótól a templomig tartó rövid út minimalizálja az esővel való érintkezést.",
                 "ro": "Distanța scurtă de la parcare la biserică minimizează contactul cu ploaia.",
-                "en": "Short paths from the parking lot to the church minimize rain exposure."
+                "en": "Short paths from the parking lot to the church minimize rain exposure.",
+                "es": "Caminos cortos desde el aparcamiento hasta la iglesia reducen la exposición a la lluvia."
               }
             },
             {
@@ -2062,7 +2252,8 @@
                 "de": "Die Auffahrt ist schmal; bei Gegenverkehr und Regen vorsichtig fahren.",
                 "hu": "Az út szűk; szembejövő forgalom és eső esetén vezessen óvatosan.",
                 "ro": "Drumul este îngust; conduceți cu atenție pe ploaie și trafic din sens opus.",
-                "en": "The approach is narrow; drive carefully in the rain and with oncoming traffic."
+                "en": "The approach is narrow; drive carefully in the rain and with oncoming traffic.",
+                "es": "El acceso es estrecho; conduce con cuidado en lluvia y con tráfico en sentido contrario."
               }
             },
             {
@@ -2071,7 +2262,8 @@
                 "de": "Der Eingangsbereich bietet kurzzeitigen Schutz vor dem Wetter.",
                 "hu": "A bejárati rész rövid ideig védelmet nyújt az időjárás elől.",
                 "ro": "Zona de intrare oferă protecție temporară împotriva intemperiilor.",
-                "en": "The entrance area provides temporary shelter from the weather."
+                "en": "The entrance area provides temporary shelter from the weather.",
+                "es": "El área de acceso ofrece refugio temporal de la intemperie."
               }
             },
             {
@@ -2080,7 +2272,8 @@
                 "de": "Die Straße ist bei Regen rutschig; halten Sie ausreichend Abstand.",
                 "hu": "Az út esőben csúszós; tartson megfelelő követési távolságot.",
                 "ro": "Drumul este alunecos pe ploaie; păstrați o distanță de siguranță.",
-                "en": "The road is slippery in the rain; maintain a safe following distance."
+                "en": "The road is slippery in the rain; maintain a safe following distance.",
+                "es": "La carretera está resbaladiza con lluvia; mantén una distancia de seguridad."
               }
             },
             {
@@ -2089,7 +2282,8 @@
                 "de": "Parken Sie auf dem Hinterhof, falls Plätze für Besucher frei sind.",
                 "hu": "Parkoljon a belső udvaron, ha van szabad hely a látogatóknak.",
                 "ro": "Parcați în curtea interioară dacă sunt locuri libere pentru vizitatori.",
-                "en": "Park in the inner courtyard if there are visitor spots available."
+                "en": "Park in the inner courtyard if there are visitor spots available.",
+                "es": "Aparca en el patio interior si hay plazas para visitantes disponibles."
               }
             }
           ],
@@ -2117,6 +2311,12 @@
               "Parking in the historic center is difficult; use the garages on the outskirts.",
               "Avoid driving through very narrow streets during poor visibility.",
               "An umbrella in the car is essential for the walks between the car and the sights."
+            ],
+            "es": [
+              "Enciende el aire acondicionado para evitar que se empañe el parabrisas.",
+              "Aparcar en el centro histórico es difícil; utiliza los parkings en las afueras.",
+              "Evita circular por calles muy estrechas con poca visibilidad.",
+              "Un paraguas en el coche es imprescindible para los desplazamientos entre el coche y los puntos de interés."
             ]
           }
         },
@@ -2125,7 +2325,8 @@
             "de": "Morgens ist es im Auto angenehm warm, während wir zur Fuente del Rey fahren. Die Stadt liegt oft im leichten Winternebel.  Mittags nutzen wir den Wagen, um schnell zwischen den sonnigen Plätzen zu wechseln. Die klare Sicht auf die Berge ist vom Auto aus herrlich.  Am Nachmittag fahren wir hinauf zur Ermita. Der Panoramablick auf das verschlafene Winter-Priego ist von hier oben unschlagbar.  Den Tag beenden wir im Museum. Die Heizung im Auto sorgt für einen gemütlichen Abschluss, bevor die frostige Nacht einsetzt.",
             "hu": "Reggel az autóban kellemes meleg van, miközben a Fuente del Rey felé tartunk. A várost gyakran vékony téli köd borítja.  Délben az autót használjuk, hogy gyorsan váltsunk a naposabb terek között. A hegyekre nyíló tiszta kilátás az autóból is pazar.  Délután felhajtunk az Ermitához. A panoráma a téli álmot alvó Priegóra innen fentről egyszerűen verhetetlen.  A napot a múzeumban zárjuk. Az autó fűtése gondoskodik a kényelmes befejezésről, mielőtt beállna a fagyos éjszaka.",
             "ro": "Dimineața în mașină este plăcut și cald în timp ce ne îndreptăm spre Fuente del Rey. Orașul este adesea acoperit de o ceață ușoară de iarnă.  La amiază folosim mașina pentru a trece rapid între piețele însorite. Vederea clară spre munți este superbă chiar și din mașină.  După-amiaza urcăm la Ermita. Panorama asupra orașului Priego în haina sa de iarnă este imbatabilă de aici de sus.  Încheiem ziua la muzeu. Încălzirea din mașină asigură un final confortabil înainte de lăsarea nopții geroase.",
-            "en": "The morning is pleasantly warm in the car as we drive to Fuente del Rey. The city is often shrouded in light winter mist.  At noon, we use the car to switch quickly between the sunny squares. The clear view of the mountains is magnificent from the car.  In the afternoon, we drive up to the Ermita. The panoramic view of winter-dormant Priego from up here is unbeatable.  We finish the day at the museum. The car's heater ensures a cozy conclusion before the frosty night sets in."
+            "en": "The morning is pleasantly warm in the car as we drive to Fuente del Rey. The city is often shrouded in light winter mist.  At noon, we use the car to switch quickly between the sunny squares. The clear view of the mountains is magnificent from the car.  In the afternoon, we drive up to the Ermita. The panoramic view of winter-dormant Priego from up here is unbeatable.  We finish the day at the museum. The car's heater ensures a cozy conclusion before the frosty night sets in.",
+            "es": "La mañana es agradablemente cálida en el coche mientras vamos a la Fuente del Rey. La ciudad suele estar envuelta en una ligera niebla invernal. Al mediodía usamos el coche para cambiar rápidamente entre las plazas soleadas. La vista despejada de las montañas desde el coche es magnífica. Por la tarde subimos a la Ermita. La panorámica de Priego en letargo invernal desde aquí es inmejorable. Terminamos el día en el museo. La calefacción del coche asegura un final acogedor antes de que llegue la noche helada."
           },
           "stops": [
             {
@@ -2134,7 +2335,8 @@
                 "de": "Achten Sie auf überfrierende Nässe am Morgen auf der Zufahrtsstraße.",
                 "hu": "Figyeljen a reggeli jegesedésre az odavezető úton.",
                 "ro": "Atenție la poleiul de dimineață de pe drumul de acces.",
-                "en": "Watch out for black ice in the morning on the access road."
+                "en": "Watch out for black ice in the morning on the access road.",
+                "es": "Cuidado con el hielo negro por la mañana en la carretera de acceso."
               }
             },
             {
@@ -2143,7 +2345,8 @@
                 "de": "Parken Sie in der Sonne, damit das Auto für die Weiterfahrt warm bleibt.",
                 "hu": "Parkoljon napos helyen, hogy az autó meleg maradjon a továbbinduláshoz.",
                 "ro": "Parcați la soare pentru ca mașina să rămână caldă pentru plecare.",
-                "en": "Park in the sun so the car stays warm for the onward journey."
+                "en": "Park in the sun so the car stays warm for the onward journey.",
+                "es": "Aparca al sol para que el coche se mantenga cálido para el viaje posterior."
               }
             },
             {
@@ -2152,7 +2355,8 @@
                 "de": "Die Heizung im Auto kurz vor dem Aussteigen hochdrehen.",
                 "hu": "Tekerje fel a fűtést az autóban röviddel a kiszállás előtt.",
                 "ro": "Măriți căldura în mașină cu puțin timp înainte de a coborî.",
-                "en": "Turn up the heater in the car shortly before getting out."
+                "en": "Turn up the heater in the car shortly before getting out.",
+                "es": "Sube la calefacción del coche poco antes de bajarte."
               }
             },
             {
@@ -2161,7 +2365,8 @@
                 "de": "Prüfen Sie den Reifendruck vor der Auffahrt bei niedrigen Temperaturen.",
                 "hu": "Alacsony hőmérsékletnél ellenőrizze a guminyomást az emelkedő előtt.",
                 "ro": "Verificați presiunea în pneuri înainte de urcare la temperaturi scăzute.",
-                "en": "Check tire pressure before the climb in low temperatures."
+                "en": "Check tire pressure before the climb in low temperatures.",
+                "es": "Revisa la presión de los neumáticos antes de la subida con bajas temperaturas."
               }
             },
             {
@@ -2170,7 +2375,8 @@
                 "de": "Ein kurzer Stopp; lassen Sie den Motor nicht zu lange im Stand laufen.",
                 "hu": "Rövid megálló; ne járassa feleslegesen a motort álló helyzetben.",
                 "ro": "Oprire scurtă; nu lăsați motorul pornit inutil în staționare.",
-                "en": "Short stop; don't let the engine idle unnecessarily."
+                "en": "Short stop; don't let the engine idle unnecessarily.",
+                "es": "Parada corta; no dejes el motor al ralentí innecesariamente."
               }
             },
             {
@@ -2179,7 +2385,8 @@
                 "de": "Die exponierte Lage kann im Winter sehr windig und kalt sein.",
                 "hu": "A nyitott elhelyezkedés miatt télen nagyon szeles és hideg lehet itt.",
                 "ro": "Locația expusă poate fi foarte vântoasă și rece pe timp de iarnă.",
-                "en": "The exposed location can be very windy and cold in winter."
+                "en": "The exposed location can be very windy and cold in winter.",
+                "es": "La localización expuesta puede ser muy ventosa y fría en invierno."
               }
             },
             {
@@ -2188,7 +2395,8 @@
                 "de": "Guter Ort, um die Zeit bis zum Einsetzen der Abendkälte zu überbrücken.",
                 "hu": "Jó hely az esti lehűlésig hátralévő idő eltöltésére.",
                 "ro": "Loc bun pentru a petrece timpul până la răcirea serii.",
-                "en": "A good place to bridge the time until the evening chill sets in."
+                "en": "A good place to bridge the time until the evening chill sets in.",
+                "es": "Un buen lugar para pasar el tiempo hasta que llegue el fresco de la tarde."
               }
             }
           ],
@@ -2216,6 +2424,12 @@
               "Battery performance may drop in the cold; watch for starting difficulties.",
               "The roads to the Ermita can be tricky in winter in shaded spots.",
               "Use the seat heating, if available, for maximum comfort."
+            ],
+            "es": [
+              "Comprueba el anticongelante del líquido del limpiaparabrisas antes de salir.",
+              "El rendimiento de la batería puede bajar con el frío; vigila posibles dificultades para arrancar.",
+              "Las carreteras hacia la Ermita pueden ser complicadas en invierno en tramos sombreados.",
+              "Usa el asiento calefactable, si está disponible, para mayor comodidad."
             ]
           }
         }
@@ -2234,7 +2448,8 @@
             "de": "Fuente del Rey",
             "hu": "Király-kút",
             "ro": "Fuente del Rey",
-            "en": "Fuente del Rey"
+            "en": "Fuente del Rey",
+            "es": "Fuente del Rey"
           },
           "coords": [
             -4.1952,
@@ -2249,7 +2464,8 @@
             "de": "Haupthaltestelle in der Nähe.",
             "hu": "Fő megálló a közelben.",
             "ro": "Stație principală în apropiere.",
-            "en": "Main stop nearby."
+            "en": "Main stop nearby.",
+            "es": "Parada principal cercana."
           }
         },
         {
@@ -2257,7 +2473,8 @@
             "de": "Barrio de la Villa",
             "hu": "Villa negyed",
             "ro": "Barrio de la Villa",
-            "en": "Barrio de la Villa"
+            "en": "Barrio de la Villa",
+            "es": "Barrio de la Villa"
           },
           "coords": [
             -4.192,
@@ -2272,7 +2489,8 @@
             "de": "Kurzer Spaziergang von der Haltestelle.",
             "hu": "Rövid séta a megállótól.",
             "ro": "Scurtă plimbare de la stație.",
-            "en": "Short walk from the stop."
+            "en": "Short walk from the stop.",
+            "es": "Corta caminata desde la parada."
           }
         },
         {
@@ -2280,7 +2498,8 @@
             "de": "Iglesia de la Asunción",
             "hu": "Nagyboldogasszony templom",
             "ro": "Iglesia de la Asunción",
-            "en": "Iglesia de la Asunción"
+            "en": "Iglesia de la Asunción",
+            "es": "Iglesia de la Asunción"
           },
           "coords": [
             -4.1918,
@@ -2295,7 +2514,8 @@
             "de": "Wunderschönes Interieur.",
             "hu": "Gyönyörű belső tér.",
             "ro": "Interior minunat.",
-            "en": "Beautiful interior."
+            "en": "Beautiful interior.",
+            "es": "Interior hermoso."
           }
         },
         {
@@ -2303,7 +2523,8 @@
             "de": "Castillo de Priego",
             "hu": "Priego vára",
             "ro": "Castillo de Priego",
-            "en": "Castillo de Priego"
+            "en": "Castillo de Priego",
+            "es": "Castillo de Priego"
           },
           "coords": [
             -4.1925,
@@ -2318,7 +2539,8 @@
             "de": "Zentraler Anlaufpunkt.",
             "hu": "Központi találkozóhely.",
             "ro": "Punct central.",
-            "en": "Central point."
+            "en": "Central point.",
+            "es": "Punto central."
           }
         },
         {
@@ -2326,7 +2548,8 @@
             "de": "Carnicerías Reales",
             "hu": "Királyi Mészárszékek",
             "ro": "Carnicerías Reales",
-            "en": "Carnicerías Reales"
+            "en": "Carnicerías Reales",
+            "es": "Carnicerías Reales"
           },
           "coords": [
             -4.1912,
@@ -2341,7 +2564,8 @@
             "de": "Gut zu Fuß erreichbar.",
             "hu": "Gyalogosan jól megközelíthető.",
             "ro": "Ușor accesibil pe jos.",
-            "en": "Easily accessible on foot."
+            "en": "Easily accessible on foot.",
+            "es": "Accesible a pie con facilidad."
           }
         },
         {
@@ -2349,7 +2573,8 @@
             "de": "Iglesia de la Aurora",
             "hu": "Hajnaltemplom",
             "ro": "Biserica Aurora",
-            "en": "Church of Aurora"
+            "en": "Church of Aurora",
+            "es": "Iglesia de la Aurora"
           },
           "coords": [
             -4.193,
@@ -2364,7 +2589,8 @@
             "de": "Sehr schöne Fassade.",
             "hu": "Nagyon szép homlokzat.",
             "ro": "Fațadă foarte frumoasă.",
-            "en": "Very beautiful facade."
+            "en": "Very beautiful facade.",
+            "es": "Fachada muy bonita."
           }
         },
         {
@@ -2372,7 +2598,8 @@
             "de": "Museo Histórico Municipal",
             "hu": "Városi Történeti Múzeum",
             "ro": "Muzeul Istoric Municipal",
-            "en": "Municipal Historical Museum"
+            "en": "Municipal Historical Museum",
+            "es": "Museo Histórico Municipal"
           },
           "coords": [
             -4.1935,
@@ -2387,7 +2614,8 @@
             "de": "Abschluss der Tour.",
             "hu": "A túra lezárása.",
             "ro": "Finalul turului.",
-            "en": "End of the tour."
+            "en": "End of the tour.",
+            "es": "Fin del recorrido."
           }
         }
       ],
@@ -2395,7 +2623,8 @@
         "de": "Nutzen Sie den lokalen Bus, um zwischen den Hauptpunkten der Stadt zu wechseln und mehr Zeit für Besichtigungen zu haben.",
         "hu": "Használd a helyi buszt a főbb pontok közötti váltáshoz, így több időd marad a nézelődésre.",
         "ro": "Folosiți autobuzul local pentru a vă deplasa între punctele principale și pentru a avea mai mult timp pentru vizitare.",
-        "en": "Use the local bus to move between main points and have more time for sightseeing."
+        "en": "Use the local bus to move between main points and have more time for sightseeing.",
+        "es": "Usa el autobús local para desplazarte entre los puntos principales y disponer de más tiempo para verlos."
       },
       "gastro_picks": {
         "de": [
@@ -2495,6 +2724,10 @@
         "en": [
           "Local buses are small and fit through narrow streets.",
           "Get a timetable from the tourist office."
+        ],
+        "es": [
+          "Los autobuses locales son pequeños y caben por las calles estrechas.",
+          "Consigue los horarios en la oficina de turismo."
         ]
       },
       "variants": {
@@ -2503,7 +2736,8 @@
             "de": "Nutzen Sie den lokalen Bus, um zwischen den Hauptpunkten der Stadt zu wechseln und mehr Zeit für Besichtigungen zu haben.",
             "hu": "Használd a helyi buszt a főbb pontok közötti váltáshoz, így több időd marad a nézelődésre.",
             "ro": "Folosiți autobuzul local pentru a vă deplasa între punctele principale și pentru a avea mai mult timp pentru vizitare.",
-            "en": "Use the local bus to move between main points and have more time for sightseeing."
+            "en": "Use the local bus to move between main points and have more time for sightseeing.",
+            "es": "Usa el autobús local para desplazarte entre los puntos principales y disponer de más tiempo para verlos."
           },
           "stops": [
             {
@@ -2511,13 +2745,15 @@
                 "de": "Fuente del Rey",
                 "hu": "Király-kút",
                 "ro": "Fuente del Rey",
-                "en": "Fuente del Rey"
+                "en": "Fuente del Rey",
+                "es": "Fuente del Rey"
               },
               "tip_5lang": {
                 "de": "Haupthaltestelle in der Nähe.",
                 "hu": "Fő megálló a közelben.",
                 "ro": "Stație principală în apropiere.",
-                "en": "Main stop nearby."
+                "en": "Main stop nearby.",
+                "es": "Parada principal cercana."
               }
             },
             {
@@ -2525,13 +2761,15 @@
                 "de": "Barrio de la Villa",
                 "hu": "Villa negyed",
                 "ro": "Barrio de la Villa",
-                "en": "Barrio de la Villa"
+                "en": "Barrio de la Villa",
+                "es": "Barrio de la Villa"
               },
               "tip_5lang": {
                 "de": "Kurzer Spaziergang von der Haltestelle.",
                 "hu": "Rövid séta a megállótól.",
                 "ro": "Scurtă plimbare de la stație.",
-                "en": "Short walk from the stop."
+                "en": "Short walk from the stop.",
+                "es": "Corta caminata desde la parada."
               }
             },
             {
@@ -2539,13 +2777,15 @@
                 "de": "Iglesia de la Asunción",
                 "hu": "Nagyboldogasszony templom",
                 "ro": "Iglesia de la Asunción",
-                "en": "Iglesia de la Asunción"
+                "en": "Iglesia de la Asunción",
+                "es": "Iglesia de la Asunción"
               },
               "tip_5lang": {
                 "de": "Wunderschönes Interieur.",
                 "hu": "Gyönyörű belső tér.",
                 "ro": "Interior minunat.",
-                "en": "Beautiful interior."
+                "en": "Beautiful interior.",
+                "es": "Interior hermoso."
               }
             },
             {
@@ -2553,13 +2793,15 @@
                 "de": "Castillo de Priego",
                 "hu": "Priego vára",
                 "ro": "Castillo de Priego",
-                "en": "Castillo de Priego"
+                "en": "Castillo de Priego",
+                "es": "Castillo de Priego"
               },
               "tip_5lang": {
                 "de": "Zentraler Anlaufpunkt.",
                 "hu": "Központi találkozóhely.",
                 "ro": "Punct central.",
-                "en": "Central point."
+                "en": "Central point.",
+                "es": "Punto central."
               }
             },
             {
@@ -2567,13 +2809,15 @@
                 "de": "Carnicerías Reales",
                 "hu": "Királyi Mészárszékek",
                 "ro": "Carnicerías Reales",
-                "en": "Carnicerías Reales"
+                "en": "Carnicerías Reales",
+                "es": "Carnicerías Reales"
               },
               "tip_5lang": {
                 "de": "Gut zu Fuß erreichbar.",
                 "hu": "Gyalogosan jól megközelíthető.",
                 "ro": "Ușor accesibil pe jos.",
-                "en": "Easily accessible on foot."
+                "en": "Easily accessible on foot.",
+                "es": "Accesible a pie con facilidad."
               }
             },
             {
@@ -2581,13 +2825,15 @@
                 "de": "Iglesia de la Aurora",
                 "hu": "Hajnaltemplom",
                 "ro": "Biserica Aurora",
-                "en": "Church of Aurora"
+                "en": "Church of Aurora",
+                "es": "Iglesia de la Aurora"
               },
               "tip_5lang": {
                 "de": "Sehr schöne Fassade.",
                 "hu": "Nagyon szép homlokzat.",
                 "ro": "Fațadă foarte frumoasă.",
-                "en": "Very beautiful facade."
+                "en": "Very beautiful facade.",
+                "es": "Fachada muy bonita."
               }
             },
             {
@@ -2595,13 +2841,15 @@
                 "de": "Museo Histórico Municipal",
                 "hu": "Városi Történeti Múzeum",
                 "ro": "Muzeul Istoric Municipal",
-                "en": "Municipal Historical Museum"
+                "en": "Municipal Historical Museum",
+                "es": "Museo Histórico Municipal"
               },
               "tip_5lang": {
                 "de": "Abschluss der Tour.",
                 "hu": "A túra lezárása.",
                 "ro": "Finalul turului.",
-                "en": "End of the tour."
+                "en": "End of the tour.",
+                "es": "Fin del recorrido."
               }
             }
           ],
@@ -2703,6 +2951,10 @@
             "en": [
               "Local buses are small and fit through narrow streets.",
               "Get a timetable from the tourist office."
+            ],
+            "es": [
+              "Los autobuses locales son pequeños y caben por las calles estrechas.",
+              "Consigue los horarios en la oficina de turismo."
             ]
           }
         },
@@ -2711,7 +2963,8 @@
             "de": "Mit dem Bus durch das nasse Priego. Wir starten an der Fuente del Rey und nutzen die Wartehäuschen als Schutz vor den Schauern.  Mittags bringt uns der Stadtbus nah an die Kirche. Wir verbringen viel Zeit im Inneren, während draußen der Regen die Straßen wäscht.  Am Nachmittag erkunden wir das Castillo. Die Wege zwischen den Haltestellen sind kurz, was uns hilft, trocken zu bleiben.  Den Abend genießen wir im Museum. Die Rückfahrt im Bus bietet einen warmen und trockenen Abschluss dieses kulturellen Tages.",
             "hu": "Busszal a nedves Priegóban. A Fuente del Rey-nél kezdünk, a buszmegállókat pedig menedékként használjuk a záporok elől.  Délben a helyi járat közel visz minket a templomhoz. Sok időt töltünk bent, miközben odakint az eső mossa az utcákat.  Délután a várat fedezzük fel. A megállók közötti szakaszok rövidek, ami segít, hogy szárazon maradjunk.  Az estét a múzeumban élvezzük. A buszos visszautazás meleg és száraz befejezést kínál ennek a kulturális napnak.",
             "ro": "Cu autobuzul prin Priego cel umed. Începem la Fuente del Rey și folosim stațiile de autobuz ca adăpost împotriva averselor.  La prânz, autobuzul local ne lasă aproape de biserică. Petrecem mult timp în interior, în timp ce afară ploaia spală străzile.  După-amiaza explorăm Castillo. Traseele dintre stații sunt scurte, ceea ce ne ajută să rămânem uscați.  Seara ne bucurăm de muzeu. Drumul de întoarcere cu autobuzul oferă un final cald și uscat acestei zile culturale.",
-            "en": "By bus through rainy Priego. We start at Fuente del Rey and use the bus shelters as cover from the showers.  At noon, the city bus brings us close to the church. We spend plenty of time inside while the rain washes the streets outside.  In the afternoon, we explore the Castillo. The paths between the stops are short, which helps us stay dry.  We enjoy the evening at the museum. The return bus trip offers a warm and dry conclusion to this cultural day."
+            "en": "By bus through rainy Priego. We start at Fuente del Rey and use the bus shelters as cover from the showers.  At noon, the city bus brings us close to the church. We spend plenty of time inside while the rain washes the streets outside.  In the afternoon, we explore the Castillo. The paths between the stops are short, which helps us stay dry.  We enjoy the evening at the museum. The return bus trip offers a warm and dry conclusion to this cultural day.",
+            "es": "En autobús por el lluvioso Priego. Empezamos en la Fuente del Rey y usamos las marquesinas de las paradas como refugio de los chaparrones. Al mediodía el autobús urbano nos acerca a la iglesia. Pasamos tiempo en el interior mientras la lluvia lava las calles afuera. Por la tarde exploramos el Castillo. Los recorridos entre paradas son cortos, lo que nos ayuda a mantenernos secos. Disfrutamos la tarde en el museo. El viaje de regreso en autobús ofrece un final cálido y seco a este día cultural."
           },
           "stops": [
             {
@@ -2720,7 +2973,8 @@
                 "de": "Das Wartehäuschen bietet guten Schutz; halten Sie die Fahrpläne bereit.",
                 "hu": "A buszmegálló jó védelmet nyújt; tartsa kéznél a menetrendet.",
                 "ro": "Stația de autobuz oferă adăpost bun; aveți orarul la îndemână.",
-                "en": "The bus shelter provides good cover; keep the schedules handy."
+                "en": "The bus shelter provides good cover; keep the schedules handy.",
+                "es": "La marquesina del autobús ofrece buena cobertura; lleva los horarios a mano."
               }
             },
             {
@@ -2729,7 +2983,8 @@
                 "de": "Steigen Sie an der Haltestelle 'Centro' aus, um den Weg im Regen zu verkürzen.",
                 "hu": "Szálljon le a 'Centro' megállónál, hogy lerövidítse az esőben megtett utat.",
                 "ro": "Coborâți la stația 'Centro' pentru a scurta drumul prin ploaie.",
-                "en": "Get off at the 'Centro' stop to shorten the walk in the rain."
+                "en": "Get off at the 'Centro' stop to shorten the walk in the rain.",
+                "es": "Bájate en la parada 'Centro' para acortar la caminata bajo la lluvia."
               }
             },
             {
@@ -2738,7 +2993,8 @@
                 "de": "In der Nähe gibt es Cafés, falls Sie auf den nächsten Bus warten müssen.",
                 "hu": "A közelben több kávézó is van, ha várnia kell a következő buszra.",
                 "ro": "Sunt cafenele în apropiere dacă trebuie să așteptați următorul autobuz.",
-                "en": "There are cafes nearby if you need to wait for the next bus."
+                "en": "There are cafes nearby if you need to wait for the next bus.",
+                "es": "Hay cafeterías cerca si necesitas esperar al siguiente autobús."
               }
             },
             {
@@ -2747,7 +3003,8 @@
                 "de": "Der Weg von der Haltestelle zum Eingang ist kurz und meist gepflastert.",
                 "hu": "A megállótól a bejáratig tartó út rövid és többnyire burkolt.",
                 "ro": "Drumul de la stație la intrare este scurt și majoritatea pavat.",
-                "en": "The walk from the stop to the entrance is short and mostly paved."
+                "en": "The walk from the stop to the entrance is short and mostly paved.",
+                "es": "La caminata desde la parada hasta la entrada es corta y mayoritariamente pavimentada."
               }
             },
             {
@@ -2756,7 +3013,8 @@
                 "de": "Prüfen Sie die Echtzeit-App, um Wartezeiten im Freien zu minimieren.",
                 "hu": "Ellenőrizze az élő menetrendet, hogy minimálisra csökkentse a kinti várakozást.",
                 "ro": "Verificați aplicația în timp real pentru a minimiza așteptarea afară.",
-                "en": "Check the real-time app to minimize waiting outdoors."
+                "en": "Check the real-time app to minimize waiting outdoors.",
+                "es": "Consulta la app en tiempo real para minimizar la espera al aire libre."
               }
             },
             {
@@ -2765,7 +3023,8 @@
                 "de": "Ein idealer Zwischenstopp im Trockenen, bevor die Fahrt weitergeht.",
                 "hu": "Ideális köztes megálló szárazon, mielőtt folytatná az utat.",
                 "ro": "O oprire intermediară ideală la adăpost înainte de a continua drumul.",
-                "en": "An ideal intermediate stop in the dry before continuing your journey."
+                "en": "An ideal intermediate stop in the dry before continuing your journey.",
+                "es": "Una parada intermedia ideal para refugiarse del seco antes de continuar tu viaje."
               }
             },
             {
@@ -2774,7 +3033,8 @@
                 "de": "Die Bushaltestelle befindet sich fast direkt vor dem Museumseingang.",
                 "hu": "A buszmegálló szinte közvetlenül a múzeum bejárata előtt található.",
                 "ro": "Stația de autobuz este aproape direct în fața intrării în muzeu.",
-                "en": "The bus stop is almost directly in front of the museum entrance."
+                "en": "The bus stop is almost directly in front of the museum entrance.",
+                "es": "La parada de autobús está casi frente a la entrada del museo."
               }
             }
           ],
@@ -2802,6 +3062,12 @@
               "Buses are often more crowded in the rain; allow for a bit of extra time.",
               "Use the central stops as orientation points in foggy weather.",
               "Wear waterproof clothing for the short segments between transfers."
+            ],
+            "es": [
+              "Ten cambio pequeño o la tarjeta lista para comprar billetes.",
+              "Los autobuses suelen ir más llenos cuando llueve; calcula un poco más de tiempo.",
+              "Usa las paradas centrales como puntos de orientación con niebla.",
+              "Lleva ropa impermeable para los tramos cortos entre transbordos."
             ]
           }
         },
@@ -2810,7 +3076,8 @@
             "de": "Ein frischer Start am Morgen mit dem Bus. Wir genießen den Blick aus dem Fenster auf die erwachende Winterstadt.  Mittags nutzen wir den öffentlichen Nahverkehr, um bequem zwischen den historischen Stätten zu pendeln. Die Wärme im Bus ist eine Wohltat.  Am Nachmittag erreichen wir das Castillo. Die tiefstehende Sonne bietet großartige Fotomotive direkt von der Haltestelle aus.  Wir lassen den Tag im Museum ausklingen. Die letzte Busfahrt des Tages bringt uns sicher zurück, während es draußen schon dunkel wird.",
             "hu": "Friss reggeli kezdés busszal. Az ablakból figyeljük az ébredező téli várost.  Délben a tömegközlekedést használjuk, hogy kényelmesen közlekedjünk a történelmi helyszínek között. A busz melege jól esik a kinti hűvös után.  Délután elérjük a várat. Az alacsonyan járó nap remek fotótémákat kínál közvetlenül a megálló közeléből is.  A napot a múzeumban zárjuk. A nap utolsó busza biztonságban visz minket vissza, miközben odakint már sötétedik.",
             "ro": "Un start proaspăt de dimineață cu autobuzul. Admirăm pe geam orașul de iarnă care se trezește la viață.  La prânz folosim transportul public pentru a circula confortabil între siturile istorice. Căldura din autobuz este binevenită după răcoarea de afară.  După-amiaza ajungem la Castillo. Soarele blând oferă cadre foto superbe chiar de lângă stația de autobuz.  Încheiem ziua la muzeu. Ultimul autobuz al zilei ne aduce înapoi în siguranță, în timp ce afară se întunecă deja.",
-            "en": "A fresh start this morning by bus. We enjoy watching the winter city wake up through the window.  At noon, we use public transport to commute comfortably between historical sites. The warmth of the bus is a relief from the chill.  In the afternoon, we reach the Castillo. The low sun offers great photo opportunities right from near the bus stop.  We finish the day at the museum. The last bus of the day brings us back safely as it gets dark outside."
+            "en": "A fresh start this morning by bus. We enjoy watching the winter city wake up through the window.  At noon, we use public transport to commute comfortably between historical sites. The warmth of the bus is a relief from the chill.  In the afternoon, we reach the Castillo. The low sun offers great photo opportunities right from near the bus stop.  We finish the day at the museum. The last bus of the day brings us back safely as it gets dark outside.",
+            "es": "Un comienzo fresco esta mañana en autobús. Nos gusta ver cómo la ciudad invernal despierta desde la ventana. Al mediodía usamos el transporte público para desplazarnos cómodamente entre los sitios históricos. El calor del autobús es un alivio frente al frío. Por la tarde llegamos al Castillo. El sol bajo ofrece excelentes oportunidades fotográficas desde cerca de la parada. Terminamos el día en el museo. El último autobús del día nos lleva de vuelta con seguridad cuando oscurece."
           },
           "stops": [
             {
@@ -2819,7 +3086,8 @@
                 "de": "Morgens können die Fahrpläne durch Frost leicht verzögert sein.",
                 "hu": "Reggelente a fagy miatt előfordulhatnak kisebb csúszások a menetrendben.",
                 "ro": "Dimineața pot apărea mici întârzieri în orar din cauza înghețului.",
-                "en": "In the morning, schedules may be slightly delayed due to frost."
+                "en": "In the morning, schedules may be slightly delayed due to frost.",
+                "es": "Por la mañana los horarios pueden sufrir ligeros retrasos por las heladas."
               }
             },
             {
@@ -2828,7 +3096,8 @@
                 "de": "Die Haltestellen sind im Winter weniger frequentiert; genießen Sie die Ruhe.",
                 "hu": "A megállókban télen kevesebben vannak; élvezze a nyugalmat.",
                 "ro": "Stațiile sunt mai puțin aglomerate iarna; bucurați-vă de liniște.",
-                "en": "The stops are less crowded in winter; enjoy the peace and quiet."
+                "en": "The stops are less crowded in winter; enjoy the peace and quiet.",
+                "es": "Las paradas están menos concurridas en invierno; disfruta de la tranquilidad."
               }
             },
             {
@@ -2837,7 +3106,8 @@
                 "de": "Ein gut beleuchteter Ort zum Warten, wenn es am späten Nachmittag kühler wird.",
                 "hu": "Jól kivilágított helyszín a várakozáshoz, ha késő délután lehűl az idő.",
                 "ro": "Un loc bine iluminat pentru așteptare când se răcește spre seară.",
-                "en": "A well-lit place to wait if it gets cooler in the late afternoon."
+                "en": "A well-lit place to wait if it gets cooler in the late afternoon.",
+                "es": "Un lugar bien iluminado para esperar si refresca a última hora de la tarde."
               }
             },
             {
@@ -2846,7 +3116,8 @@
                 "de": "Der Bus hält direkt unterhalb der Festungsmauern.",
                 "hu": "A busz közvetlenül a várfalak alatt áll meg.",
                 "ro": "Autobuzul oprește chiar sub zidurile fortăreței.",
-                "en": "The bus stops directly below the fortress walls."
+                "en": "The bus stops directly below the fortress walls.",
+                "es": "El autobús para justo bajo las murallas de la fortaleza."
               }
             },
             {
@@ -2855,7 +3126,8 @@
                 "de": "Prüfen Sie die Abfahrtszeiten für den Abendbus frühzeitig.",
                 "hu": "Ellenőrizze időben az esti járatok indulási idejét.",
                 "ro": "Verificați din timp orele de plecare pentru autobuzele de seară.",
-                "en": "Check the departure times for the evening buses early on."
+                "en": "Check the departure times for the evening buses early on.",
+                "es": "Consulta pronto los horarios de salida de los autobuses nocturnos."
               }
             },
             {
@@ -2864,7 +3136,8 @@
                 "de": "Guter Ort, um die Wartezeit auf den Bus im Warmen zu verbringen.",
                 "hu": "Jó hely, hogy a buszra való várakozást melegben töltse.",
                 "ro": "Loc bun pentru a aștepta autobuzul la căldură.",
-                "en": "A good place to spend the wait for the bus in the warm."
+                "en": "A good place to spend the wait for the bus in the warm.",
+                "es": "Un buen lugar para esperar el autobús resguardado y en calor."
               }
             },
             {
@@ -2873,7 +3146,8 @@
                 "de": "Die letzte Haltestelle vor der Rückfahrt zum Hotel oder Bahnhof.",
                 "hu": "Az utolsó megálló a hotelhez vagy az állomáshoz való visszautazás előtt.",
                 "ro": "Ultima stație înainte de întoarcerea la hotel sau gară.",
-                "en": "The last stop before heading back to your hotel or the station."
+                "en": "The last stop before heading back to your hotel or the station.",
+                "es": "La última parada antes de volver al hotel o a la estación."
               }
             }
           ],
@@ -2901,6 +3175,12 @@
               "The buses are usually very warm; wear clothing that is easy to unbutton.",
               "The windows may fog up; sit near the front for a better view.",
               "The central bus stops are often decorated with Christmas lights in winter."
+            ],
+            "es": [
+              "Ten en cuenta los horarios de invierno que pueden incluir menos servicios.",
+              "Los autobuses suelen estar muy calentitos; lleva ropa fácil de desabrochar.",
+              "Las ventanas pueden empañarse; si quieres mejor vista siéntate cerca del frente.",
+              "Las paradas centrales suelen decorarse con luces navideñas en invierno."
             ]
           }
         }
@@ -2915,19 +3195,22 @@
       "de": "In Priego de Córdoba spricht man andalusisches Spanisch mit weichem 's' und verschluckten Endsilben. 'Hola', 'gracias' und 'por favor' öffnen jede Tür im Dorf. Englisch ist selbst im Tourismusbüro nur sehr begrenzt verfügbar, ein Übersetzer-App auf dem Handy ist Pflicht.",
       "hu": "Priego de Córdobában andalúz spanyolt beszélnek, lágy 's'-sel és gyakran lenyelt szótagvégekkel. Egy mosolygós 'hola' és 'gracias' már fél siker a kis hegyi városban. Angolul alig értenek, ezért fordítóapp nélkül ne indulj az utcára.",
       "ro": "În Priego de Córdoba se vorbește o spaniolă andaluză cu 's' moale și terminații înghițite. Un 'hola' și 'gracias' rostite cu zâmbet sunt suficiente pentru o primire caldă. Engleza este aproape inexistentă, așa că o aplicație de traducere îți va salva ziua.",
-      "en": "Locals speak Andalusian Spanish with soft 's' sounds and dropped word endings. A friendly 'hola' and 'gracias' go a long way in this small hill town. English is rarely spoken, so a translation app on your phone is essential."
+      "en": "Locals speak Andalusian Spanish with soft 's' sounds and dropped word endings. A friendly 'hola' and 'gracias' go a long way in this small hill town. English is rarely spoken, so a translation app on your phone is essential.",
+      "es": "Los locales hablan español andaluz con s suaves y finales de palabra a veces elididos. Un «hola» y «gracias» amistosos funcionan muy bien en este pequeño pueblo de loma. El inglés se habla raramente, así que una app de traducción en el móvil es esencial."
     },
     "best_time_to_visit": {
       "de": "April bis Juni und September bis Anfang November sind ideal, mit milden 20-28°C und blühenden Innenhöfen. Im Juli und August klettert das Thermometer regelmäßig über 40°C, das Dorf wirkt dann fast ausgestorben.",
       "hu": "Április-június és szeptember-november elejéig a legjobb az időszak, kellemes 20-28°C-kal és virágba borult belső udvarokkal. Júliusban és augusztusban a hőmérséklet rendszeresen 40°C fölé szökik, ilyenkor a falu szinte kihal.",
       "ro": "Aprilie-iunie și septembrie-noiembrie sunt perfecte, cu temperaturi blânde de 20-28°C și curți interioare înflorite. În iulie și august termometrul depășește des 40°C, iar satul devine aproape pustiu.",
-      "en": "April to June and September to early November are ideal, with pleasant 20-28°C temperatures and flowering courtyards. July and August often see temperatures above 40°C, when the town becomes almost deserted."
+      "en": "April to June and September to early November are ideal, with pleasant 20-28°C temperatures and flowering courtyards. July and August often see temperatures above 40°C, when the town becomes almost deserted.",
+      "es": "De abril a junio y de septiembre a principios de noviembre son ideales, con temperaturas agradables de 20–28 °C y patios floridos. Julio y agosto suelen superar los 40 °C, cuando el pueblo queda casi desierto."
     },
     "neighborhood_warnings": {
       "de": "Priego ist sehr sicher, die Hauptgefahr sind schmale, steile Gassen im Viertel La Villa, die nach Regen rutschig werden. Wertsachen nie sichtbar im Mietwagen lassen, besonders am Mirador Adarve. Nachts sind die Straßen praktisch leer, alleine spazieren ist unproblematisch.",
       "hu": "Priego nagyon biztonságos, a fő veszély a La Villa negyed szűk, meredek utcái, melyek eső után csúszóssá válnak. A bérelt autóban soha ne hagyj látható értéktárgyat, főleg a Mirador Adarve közelében. Éjszaka az utcák szinte üresek, egyedül sétálni teljesen nyugodt élmény.",
       "ro": "Priego este foarte sigur, principalul pericol fiind străduțele înguste și abrupte din cartierul La Villa, alunecoase după ploaie. Nu lăsa niciodată obiecte de valoare la vedere în mașină, mai ales lângă Mirador Adarve. Noaptea străzile sunt aproape goale, plimbările solitare nu reprezintă o problemă.",
-      "en": "Priego is very safe, the main risk being the narrow, steep alleys of La Villa quarter which get slippery after rain. Never leave valuables visible in your rental car, especially near Mirador Adarve. Streets are virtually empty at night, walking alone is generally trouble-free."
+      "en": "Priego is very safe, the main risk being the narrow, steep alleys of La Villa quarter which get slippery after rain. Never leave valuables visible in your rental car, especially near Mirador Adarve. Streets are virtually empty at night, walking alone is generally trouble-free.",
+      "es": "Priego es muy seguro; el principal riesgo son las estrechas y empinadas callejuelas del barrio de La Villa que se vuelven resbaladizas tras la lluvia. No dejes objetos de valor a la vista en tu coche de alquiler, especialmente cerca del Mirador Adarve. Las calles están prácticamente vacías por la noche; caminar solo suele ser seguro."
     }
   }
 }
